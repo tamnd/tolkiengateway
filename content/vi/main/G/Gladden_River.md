@@ -30,33 +30,33 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/David_Lecossu_-_River_Ninglor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3b/David_Lecossu_-_River_Ninglor.jpg/300px-David_Lecossu_-_River_Ninglor.jpg" decoding="async" loading="lazy" width="300" height="208" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3b/David_Lecossu_-_River_Ninglor.jpg/450px-David_Lecossu_-_River_Ninglor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3b/David_Lecossu_-_River_Ninglor.jpg/600px-David_Lecossu_-_River_Ninglor.jpg 2x" data-file-width="1110" data-file-height="771"/></a><figcaption>&#34;River Ninglor&#34; by <a href="../../category/I/Images_by_David_Lecossu.md" title="Category:Images by David Lecossu">David Lecossu</a></figcaption></figure>
 
-**Gladden** (được <i><b>Sîr Ninglor</b></i> gọi là "Sông Goldwater" bởi [Tiên tộc](../E/Elves.md)) là một con sông ngắn nhưng quan trọng của [Thung lũng Anduin](../V/Vales_of_Anduin.md).
+**Gladden** (được gọi là <i><b>Sîr Ninglor</b></i> "Dòng sông Nước vàng" bởi [người Elf](../E/Elves.md)) là một dòng sông ngắn nhưng quan trọng thuộc [Thung lũng Anduin](../V/Vales_of_Anduin.md).
 
-## Khóa học {#Course}
+## Dòng chảy {#Course}
 
-Nguồn của con sông bắt đầu từ hai nhánh không tên ở trung tâm [Dãy Núi Sương Mù](../M/Misty_Mountains.md), gần một con đèo quan trọng.<sup id="cite_ref-south_1-0" class="reference"><a href="#cite_note-south-1">[1]</a></sup> Sau đó nó chảy về phía đông đến [Sông Lớn Anduin](../A/Anduin.md), nơi nó gặp nhau ở một loạt đầm lầy có tên là [Gladden Fields](Gladden_Fields.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nguồn của dòng sông bắt đầu từ hai nhánh không tên ở khu vực trung tâm của dãy [Misty Mountains](../M/Misty_Mountains.md), gần một con đèo quan trọng.<sup id="cite_ref-south_1-0" class="reference"><a href="#cite_note-south-1">[1]</a></sup> Sau đó, dòng sông chảy về phía đông đến [Great River Anduin](../A/Anduin.md), nơi nó hợp lưu với con sông này tại một vùng đầm lầy được gọi là [Gladden Fields](Gladden_Fields.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
-Sau [Liên minh Cuối cùng của Tiên tộc và Con Người](../L/Last_Alliance_of_Elves_and_Men.md), [Isildur](../I/Isildur.md), người thừa kế của [Elendil](../E/Elendil.md) và là người mang [Chiếc Nhẫn Chúa](../T/The_One_Ring.md), đã bị [Orc](../O/Orcs.md) tấn công gần Gladden Fields, và Chiếc Nhẫn Chúa đã bị mất ở đây trên sông Gladden.<sup id="cite_ref-Disaster_3-0" class="reference"><a href="#cite_note-Disaster-3">[3]</a></sup>
+Sau [Liên minh Cuối cùng giữa Tiên tộc và Loài Người](../L/Last_Alliance_of_Elves_and_Men.md), [Isildur](../I/Isildur.md), người thừa kế của [Elendil](../E/Elendil.md) và người mang [Nhẫn Chủ](../T/The_One_Ring.md), bị [Orc](../O/Orcs.md) tấn công gần Cánh đồng Gladden, và Nhẫn Chủ đã thất lạc tại đây, trong dòng sông Gladden.<sup id="cite_ref-Disaster_3-0" class="reference"><a href="#cite_note-Disaster-3">[3]</a></sup>
 
-Rất lâu sau đó trong [Kỷ Đệ Tam](../T/Third_Age.md) một số [Stoors](../S/Stoors.md) sống gần các con suối của Gladden, và trong số đó có [Déagol](../D/Déagol.md), người đã tìm thấy chiếc nhẫn và bị giết bởi [Sméagol](../S/Sméagol.md) ([Gollum](Gollum.md)), người đã giữ chiếc nhẫn từ lâu. Gollum cuối cùng theo dòng suối đến tận nguồn, kết thúc ở những hang động bị lãng quên gần [Thị trấn yêu tinh](Goblin-town.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Rất lâu sau đó, vào [Kỷ Đệ Tam](../T/Third_Age.md), một số [Stoor](../S/Stoors.md) sinh sống gần các dòng suối ở Gladden. Trong số họ có [Déagol](../D/Déagol.md), người đã tìm thấy chiếc nhẫn và bị [Sméagol](../S/Sméagol.md) ([Gollum](Gollum.md)) sát hại. Gollum đã nắm giữ chiếc Nhẫn trong một thời gian dài. Cuối cùng, Gollum lần theo dòng suối ngược lên tận nguồn, rồi đến những hang động bị lãng quên gần [thị trấn Goblin](Goblin-town.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-[Saruman](../S/Saruman.md) đã tìm kiếm Gladden rất nhiều trong quá trình tìm kiếm Chiếc nhẫn, nhưng không bao giờ tìm thấy chiếc nhẫn, mặc dù có vẻ như anh ta đã tìm thấy hài cốt của [Isildur](../I/Isildur.md).<sup id="cite_ref-Disaster_3-1" class="reference"><a href="#cite_note-Disaster-3">[3]</a></sup>
+[Saruman](../S/Saruman.md) đã tìm kiếm kỹ lưỡng khắp vùng Gladden trong quá trình truy tìm chiếc Nhẫn, nhưng không bao giờ tìm thấy nó, mặc dù dường như ông đã tìm thấy hài cốt của [Isildur](../I/Isildur.md).<sup id="cite_ref-Disaster_3-1" class="reference"><a href="#cite_note-Disaster-3">[3]</a></sup>
 
-Trong [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md) một số trinh sát được [Elrond](../E/Elrond.md) cử đi sau khi người hobbit đến [Rivendell](../R/Rivendell.md) đã vượt qua Dãy Núi Sương Mù vượt đèo ở đầu nguồn Gladden để tìm kiếm phù thủy [Radagast](../R/Radagast.md) tại [Rhosgobel](../R/Rhosgobel.md), nhưng anh ta không có ở nhà và họ quay trở lại qua [Cầu thang Dimrill](../D/Dimrill_Stair.md).<sup id="cite_ref-south_1-1" class="reference"><a href="#cite_note-south-1">[1]</a></sup>
+Vào năm [3018](../T/Third_Age_3018.md) [Kỷ Đệ Tam](../T/Third_Age.md), một số trinh sát được [Elrond](../E/Elrond.md) phái đi sau khi các Hobbit đến [Rivendell](../R/Rivendell.md) đã vượt qua dãy Núi Sương Mù theo con đèo ở đầu nguồn Gladden để tìm vị phù thủy [Radagast](../R/Radagast.md) tại [Rhosgobel](../R/Rhosgobel.md). Tuy nhiên, ông không có nhà, nên họ quay trở về qua [Bậc thang Dimrill](../D/Dimrill_Stair.md).<sup id="cite_ref-south_1-1" class="reference"><a href="#cite_note-south-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Gladden* (Từ [tiếng Anh cổ](../O/Old_English.md) *glædene*) là tên gọi khác của "cờ" hoặc "<a class="extiw" href="http://en.wikipedia.org/wiki/Iris_(plant)" title="wikipedia:Iris (plant)">iris</a>", hiện nay thường được đánh vần là *gladdon*.<sup id="cite_ref-Nomen_5-0" class="reference"><a href="#cite_note-Nomen-5">[5]</a></sup>
+*Gladden* (Từ [tiếng Anh cổ](../O/Old_English.md) *glædene*) là một tên gọi khác của loài "cói cờ" hay "<a class="extiw" href="http://en.wikipedia.org/wiki/Iris_(plant)" title="wikipedia:Iris (plant)">diên vĩ</a>", ngày nay thường được viết là *gladdon*.<sup id="cite_ref-Nomen_5-0" class="reference"><a href="#cite_note-Nomen-5">[5]</a></sup>
 
-*Sîr Ninglor* là tên [Sindarin](../S/Sindarin.md) có nghĩa là "Sông nước-vàng", dường như bao gồm *[sîr](../S/Sîr.md)* ("sông"), *nîn* (pl. của *[nen](../N/Nen.md)* ("nước") + *[glaur](Glaur.md)* ("vàng").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+*Sîr Ninglor* là một tên gọi trong [tiếng Sindarin](../S/Sindarin.md), có nghĩa là "Dòng sông Vàng Nước", dường như được cấu thành từ *[sîr](../S/Sîr.md)* ("sông"), *nîn* (dạng số nhiều của *[nen](../N/Nen.md)* ("nước") + *[glaur](Glaur.md)* ("vàng").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-## Miêu tả trong chuyển thể {#Portrayals_in_adaptations}
+## Hình tượng trong các bản chuyển thể {#Portrayals_in_adaptations}
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Gladden_River.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/83/The_Lord_of_the_Rings_Online_-_Gladden_River.jpg/250px-The_Lord_of_the_Rings_Online_-_Gladden_River.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/83/The_Lord_of_the_Rings_Online_-_Gladden_River.jpg/375px-The_Lord_of_the_Rings_Online_-_Gladden_River.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/83/The_Lord_of_the_Rings_Online_-_Gladden_River.jpg/500px-The_Lord_of_the_Rings_Online_-_Gladden_River.jpg 2x" data-file-width="2560" data-file-height="1440"/></a><figcaption>The Gladden River in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>As it drops from the <a href="../M/Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a>, the Gladden River flows through the ruins of &#34;Kidzul-kâlah&#34;, an abandoned outpost of <a class="mw-redirect" href="../K/Khazad-dûm.md" title="Khazad-dûm">Khazad-dûm</a>. Immediately past it, the river forms the large lake &#34;Gladdenmere&#34;, from which it drops into the <a href="Gladden_Fields.md" title="Gladden Fields">Gladden Fields</a> through the &#34;Gladden Falls&#34; waterfall.</dd></dl>
 

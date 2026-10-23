@@ -98,33 +98,33 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../M/Many_Meetings.md" title="Many Meetings">Many Meetings</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Glóin** là một [người lùn](../D/Dwarves.md) của [Dân gian Durin](../D/Durin's_Folk~15256.md), con trai của [Gróin](Gróin.md), anh trai của [Óin](../_/Óin.md), và là cha của [Gimli](Gimli.md) của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md).<sup id="cite_ref-Durin_2-0" class="reference"><a href="#cite_note-Durin-2">[2]</a></sup> Anh ta nổi tiếng nhất với tư cách là một trong những người bạn đồng hành của [Thorin](../T/Thorin.md)trong [nhiệm vụ](../Q/Quest_of_Erebor.md) tới [Erebor](../L/Lonely_Mountain.md). 77 năm sau Nhiệm vụ Erebor, Glóin đã tham dự [Hội đồng Elrond](../C/Council_of_Elrond.md) cùng với con trai mình Gimli, nơi sau này sẽ đại diện cho những người lùn trong Đoàn Hộ Nhẫn
+**Glóin** là một [người lùn](../D/Dwarves.md) thuộc [Dân tộc Durin](../D/Durin's_Folk~15256.md), con trai của [Gróin](Gróin.md), em trai của [Óin](../_/Óin.md), và là cha của [Gimli](Gimli.md), thành viên của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md).<sup id="cite_ref-Durin_2-0" class="reference"><a href="#cite_note-Durin-2">[2]</a></sup> Ông nổi tiếng nhất với tư cách là một trong những người bạn đồng hành của [Thorin](../T/Thorin.md) trong [chuyến hành trình](../Q/Quest_of_Erebor.md) đến [Erebor](../L/Lonely_Mountain.md). 77 năm sau Chuyến hành trình đến Erebor, Glóin tham dự [Hội đồng Elrond](../C/Council_of_Elrond.md) cùng con trai Gimli, tại đây Gimli sẽ đại diện cho người lùn trong Đoàn Hộ Nhẫn.
 
 ## Lịch sử {#History}
 
-Glóin có thể được sinh ra ở [Dunland](../D/Dunland.md), nơi Người Lùn của Dòng Durin sống lưu vong<sup id="cite_ref-Durin_2-1" class="reference"><a href="#cite_note-Durin-2">[2]</a></sup> sau khi họ bị trục xuất khỏi [Erebor](../L/Lonely_Mountain.md) bởi [con rồng](../D/Dragon.md) [Smaug](../S/Smaug.md) ở [T.A.](../T/Third_Age.md) [2770](../T/Third_Age_2770.md).<sup id="cite_ref-TA_3-0" class="reference"><a href="#cite_note-TA-3">[3]</a></sup> Glóin đã có mặt tại [Trận Azanulbizar](../B/Battle_of_Azanulbizar.md),<sup id="cite_ref-Durin_2-2" class="reference"><a href="#cite_note-Durin-2">[2]</a></sup>, điều này thật kỳ lạ vì Người Lùn được coi là những thanh niên ở độ tuổi ba mươi, nhưng vào thời điểm đó ([2799](../T/Third_Age_2799.md)<sup id="cite_ref-TA_3-1" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>) Glóin chỉ mới 16 tuổi (anh họ của anh ta [Balin](../B/Balin.md) cũng nằm trong số những người tham gia). Sau cuộc chiến mà người lùn đã chiến thắng, Glóin quay trở lại Dunland cùng với những người theo Thorin, người sau đó đã chuyển người lùn đến [Ered Luin](../E/Ered_Luin.md), Dãy Núi Xanh, phía tây của [Shire](../S/Shire.md).<sup id="cite_ref-Durin_2-3" class="reference"><a href="#cite_note-Durin-2">[2]</a></sup>
+Glóin có lẽ được sinh ra tại [Dunland](../D/Dunland.md), nơi những Người Lùn thuộc Dòng dõi Durin sống lưu vong<sup id="cite_ref-Durin_2-1" class="reference"><a href="#cite_note-Durin-2">[2]</a></sup> sau khi bị [rồng](../D/Dragon.md) [Smaug](../S/Smaug.md) trục xuất khỏi [Erebor](../L/Lonely_Mountain.md) vào năm [2770](../T/Third_Age_2770.md) của [Thời đại thứ Ba](../T/Third_Age.md).<sup id="cite_ref-TA_3-0" class="reference"><a href="#cite_note-TA-3">[3]</a></sup> Glóin đã tham gia [Trận chiến Azanulbizar](../B/Battle_of_Azanulbizar.md),<sup id="cite_ref-Durin_2-2" class="reference"><a href="#cite_note-Durin-2">[2]</a></sup> điều khá kỳ lạ vì Người Lùn được xem là những thiếu niên non nớt khi mới ở độ tuổi ba mươi, trong khi vào thời điểm đó ([năm 2799](../T/Third_Age_2799.md)<sup id="cite_ref-TA_3-1" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>), Glóin mới chỉ 16 tuổi (người anh em họ của ông là [Balin](../B/Balin.md) cũng nằm trong số những người tham chiến). Sau cuộc chiến mà Người Lùn giành chiến thắng, Glóin trở về Dunland cùng những người đi theo Thorin; sau đó, Thorin đã đưa các Người Lùn đến [Ered Luin](../E/Ered_Luin.md), dãy Núi Xanh, nằm ở phía tây [Shire](../S/Shire.md).<sup id="cite_ref-Durin_2-3" class="reference"><a href="#cite_note-Durin-2">[2]</a></sup>
 
 <h3><span id="Life_in_Thorin.27s_Halls"></span><span class="mw-headline" id="Life_in_Thorin&#39;s_Halls">Life in Thorin&#39;s Halls</span></h3>
 
-Trong cuộc đời của Glóin ở Ered Luin, ông đã chứng kiến ​​sự ra đi của Vua [Thráin II](../T/Thráin.md), người đã cố gắng quay trở lại [Erebor](../L/Lonely_Mountain.md), nhưng bị bắt và bị tra tấn vì [Chiếc nhẫn của Thrór](../R/Ring_of_Thrór.md), và sau đó chết vài năm sau đó. Dưới thời Vua [Thorin](../T/Thorin.md), Glóin và những Người lùn khác sống trong [Sảnh của Thorin](../T/Thorin's_Halls.md) trên núi trở nên thịnh vượng về mặt thời trang và buôn bán hàng hóa với các dân tộc khác và đạt được mức độ giàu có mà họ có thể. Nhưng họ chưa bao giờ nói về [Ngọn núi cô đơn](../L/Lonely_Mountain.md).<sup id="cite_ref-Durin_2-4" class="reference"><a href="#cite_note-Durin-2">[2]</a></sup> Trong [T.A.](../T/Third_Age.md) [2879](../T/Third_Age_2879.md), Glóin có một con trai, [Gimli](Gimli.md), người được cho là còn quá trẻ để tham gia [Thorin and Company](../T/Thorin_and_Company.md) ở tuổi 62.
+Trong thời gian sống ở Ered Luin, Glóin chứng kiến cuộc ra đi của Vua [Thráin II](../T/Thráin.md), người đã cố gắng trở về [Erebor](../L/Lonely_Mountain.md), nhưng bị bắt giữ và tra tấn để tra hỏi về [Chiếc Nhẫn của Thrór](../R/Ring_of_Thrór.md), rồi qua đời vài năm sau đó. Dưới triều Vua [Thorin](../T/Thorin.md), Glóin và những Người Lùn khác sống tại [Sảnh đường của Thorin](../T/Thorin's_Halls.md) trong núi đã phần nào trở nên thịnh vượng, buôn bán hàng hóa với các dân tộc khác và tích lũy được bao nhiêu của cải có thể. Nhưng họ vẫn luôn nhắc đến [Ngọn Núi Cô Độc](../L/Lonely_Mountain.md).<sup id="cite_ref-Durin_2-4" class="reference"><a href="#cite_note-Durin-2">[2]</a></sup> Vào năm [2879](../T/Third_Age_2879.md) của [Kỷ Đệ Tam](../T/Third_Age.md), Glóin có một người con trai là [Gimli](Gimli.md), người được cho là còn quá trẻ để tham gia [Thorin và Đoàn Tùy Tùng](../T/Thorin_and_Company.md) khi mới 62 tuổi.
 
-### Nhiệm vụ của Erebor {#The_Quest_of_Erebor}
+### Cuộc hành trình đến Erebor {#The_Quest_of_Erebor}
 
-Trong [2941](../T/Third_Age_2941.md) Thorin tình cờ gặp [Gandalf](Gandalf.md) Pháp sư. Từ cuộc gặp gỡ này, Thorin quyết tâm quay trở lại Ngọn Núi Cô Đơn cùng với đại đội Người Lùn, trong đó có Glóin, để tìm cách trả thù Smaug. Gandalf đến hội nghị của Người Lùn sau khi đến thăm [ Shire](../T/The_Shire.md) (nhưng trước khi gặp [Bilbo Baggins](../B/Bilbo_Baggins.md)) để thuyết phục họ đưa người hobbit đi cùng. Người Lùn tỏ ra nghi ngờ, Glóin gọi họ là "những kẻ đơn giản" và tuyên bố rằng một trong số họ "sẽ không bao giờ dám đến gần con rồng trần trụi nhất mới ra khỏi vỏ để ngửi mùi!"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Năm [2941](../T/Third_Age_2941.md), Thorin tình cờ gặp [Gandalf](Gandalf.md), vị Pháp Sư. Cuộc gặp gỡ này khiến Thorin quyết tâm trở về Ngọn Núi Cô Độc cùng một đoàn Người Lùn, trong đó có Glóin, để trả thù Smaug. Gandalf đến dự một cuộc hội họp của những Người Lùn sau khi ghé thăm [Shire](../T/The_Shire.md) (nhưng trước khi gặp [Bilbo Baggins](../B/Bilbo_Baggins.md)) nhằm thuyết phục họ đưa người Hobbit đi cùng. Những Người Lùn tỏ ra hoài nghi, Glóin gọi họ là "những kẻ ngốc nghếch" và khẳng định rằng chẳng ai trong số họ "dám đến gần đến mức ngửi thấy mùi của một con rồng con vừa chui ra khỏi vỏ!"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Glóin là Người lùn thứ năm trong nhóm thứ tư đến [Bag End](../B/Bag_End.md) để tham dự Bữa tiệc bất ngờ và anh ấy đến với chiếc mũ trùm đầu màu trắng. Glóin không hỗ trợ dọn bàn cũng như không mang nhạc cụ ra khi Thorin gọi nhạc. Sau khi Bilbo lên cơn sợ hãi, anh ta tình cờ nghe thấy Glóin chế nhạo rằng anh chàng hobbit trông "giống một người bán tạp hóa hơn là một tên trộm" khi nhìn thấy anh ta "lắc lư và phập phồng trên tấm thảm". Điều này khiến Bilbo bị xúc phạm đủ để khiến anh ta đồng ý thực hiện nhiệm vụ. Sau đó, khi Gandalf tuyên bố rằng Bilbo là lựa chọn của mình, anh ta cau có với Glóin dữ dội đến mức người lùn phải co rúm lại trên ghế và sau đó trừng mắt nhìn Bilbo.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Glóin là Người Lùn thứ năm trong nhóm thứ tư đến [Bag End](../B/Bag_End.md) để dự Bữa Tiệc Bất Ngờ, và ông đội một chiếc mũ trùm đầu màu trắng. Glóin không phụ giúp bày bàn ăn, cũng không lấy nhạc cụ ra khi Thorin yêu cầu mọi người chơi nhạc. Sau khi Bilbo trải qua cơn hoảng hốt, cậu nghe thấy Glóin chế giễu rằng người Hobbit trông "giống một người bán tạp hóa hơn là một tên trộm", khi thấy cậu "nhấp nhổm và thở hổn hển trên tấm thảm chùi chân". Lời xúc phạm này khiến Bilbo phật lòng đến mức đồng ý tham gia cuộc hành trình. Sau đó, khi Gandalf tuyên bố Bilbo là người được ông lựa chọn, ông trừng mắt nhìn Glóin dữ dội đến nỗi Người Lùn co rúm lại trên ghế, rồi còn tiếp tục lườm Bilbo.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Nhiệm vụ của họ Glóin khá hữu ích, đặc biệt là trong việc tạo ra lửa, mặc dù vào đêm đại đội gặp lũ quỷ lùn, [William](../W/William.md), [Bert](../B/Bert.md) và <a class="mw-redirect mw-disambig" href="../T/Tom.md" title="Tom">Tom</a>, anh và anh trai mình đã không đốt lửa được và bắt đầu đánh nhau, tuy nhiên trước tiên họ đã cãi nhau.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Vào đêm khi đại đội đến khu trảng trống của [Warg](../W/Wargs.md), Glóin cùng với anh trai mình, Dori, Nori và Ori giành được một chỗ ngồi trên một cây thông khổng lồ.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Tại nhà của [Beorn](../B/Beorn.md) Glóin và Óin là cặp Người Lùn thứ năm xuất hiện khi Gandalf kể lại câu chuyện của họ.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Và khi được thả ra khỏi thùng gần [Esgaroth](../L/Lake-town.md), Glóin là một trong Người Lùn bị ngập nước và dường như sắp chết và cần được đưa vào bờ.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Trong cuộc hành trình, Glóin tỏ ra khá hữu ích, đặc biệt là trong việc nhóm lửa. Tuy nhiên, vào đêm cả đoàn gặp những con quỷ khổng lồ, [William](../W/William.md), [Bert](../B/Bert.md) và <a class="mw-redirect mw-disambig" href="../T/Tom.md" title="Tom">Tom</a>, ông và người anh em của mình không thể nhóm lửa, rồi bắt đầu cãi vã, dù trước đó họ đã tranh luận với nhau.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Vào đêm cả đoàn đến khoảng rừng thưa nơi có những con [Warg](../W/Wargs.md), Glóin cùng người anh em của mình, Dori, Nori và Ori đã tìm được chỗ trú trên một cây thông khổng lồ.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Tại nhà của [Beorn](../B/Beorn.md), Glóin và Óin là cặp Người Lùn thứ năm xuất hiện khi Gandalf kể lại câu chuyện của họ.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Và khi được thả ra khỏi chiếc thùng gần [Esgaroth](../L/Lake-town.md), Glóin là một trong những Người Lùn bị ngấm nước đến tận người, trông gần như chỉ còn nửa mạng sống và phải được khiêng lên bờ.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
-Glóin đã chiến đấu và sống sót sau [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md). Anh ta đã được chia sẻ kho báu của mình bởi [Dáin Chân Sắt](../D/Dáin_Ironfoot.md), người đã trở thành Vua sau cái chết của Thorin. Glóin định cư ở Ngọn Núi Cô Đơn, cùng với những người sống sót sau trận chiến và sẽ trở nên giàu có ở Erebor dưới sự lãnh đạo của Vua Dáin.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+Glóin đã chiến đấu và sống sót sau [Trận chiến Năm Đạo Quân](../B/Battle_of_Five_Armies.md). Ông được [Dáin Chân Sắt](../D/Dáin_Ironfoot.md), người trở thành Vua sau cái chết của Thorin, chia cho phần kho báu của mình. Glóin định cư tại Ngọn Núi Cô Độc cùng những người sống sót sau trận chiến, và trở nên giàu có ở Erebor dưới sự cai trị của Vua Dáin.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
-### Cuộc chiến Nhẫn {#War_of_the_Ring}
+### Cuộc Chiến Nhẫn {#War_of_the_Ring}
 
-Vào tháng 10 [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md)<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Glóin và con trai ông [Gimli](Gimli.md) được [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) cử đến [Rivendell](../R/Rivendell.md) để xin lời khuyên liên quan đến số phận của Thuộc địa của [Balin](../B/Balin's_Colony~64118.md) ở Moria. Khi [Frodo Baggins](../F/Frodo_Baggins.md) hồi phục vết thương và tham dự bữa tiệc, chính Glóin đã ngồi cạnh anh và cho anh biết tin tức về Erebor và các vùng đất xung quanh kể từ thời Bilbo.<sup id="cite_ref-Meetings_1-4" class="reference"><a href="#cite_note-Meetings-1">[1]</a></sup> Sau đó, tại [Hội đồng Elrond](../C/Council_of_Elrond.md), Glóin nói về cái bóng đã đổ xuống người dân của anh, chuyến thám hiểm của Balin và về sứ giả nham hiểm từ [Mordor](../M/Mordor.md) đã đến để hỏi thăm [Hobbit](../H/Hobbits.md) và nơi họ sinh sống.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Glóin đóng góp lớn nhất của [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) là con trai ông Gimli, người đã gia nhập [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+Vào tháng Mười năm [3018](../T/Third_Age_3018.md) của [Kỷ Đệ Tam](../T/Third_Age.md)<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>, Glóin và con trai ông là [Gimli](Gimli.md) được [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) cử đến [Rivendell](../R/Rivendell.md) để xin lời khuyên về số phận của [Thuộc địa của Balin](../B/Balin's_Colony~64118.md) tại Moria. Khi [Frodo Baggins](../F/Frodo_Baggins.md) hồi phục sau những vết thương và tham dự bữa tiệc, chính Glóin là người ngồi cạnh cậu và kể cho cậu nghe tin tức từ Erebor cùng những vùng đất lân cận kể từ thời Bilbo.<sup id="cite_ref-Meetings_1-4" class="reference"><a href="#cite_note-Meetings-1">[1]</a></sup> Sau đó, tại [Hội nghị của Elrond](../C/Council_of_Elrond.md), Glóin kể về bóng tối đang bao trùm dân tộc mình, chuyến thám hiểm của Balin và sứ giả đáng ngờ từ [Mordor](../M/Mordor.md), kẻ đã đến dò hỏi về [người Hobbit](../H/Hobbits.md) và nơi họ cư ngụ.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Đóng góp lớn nhất của Glóin cho [Cuộc Chiến Nhẫn](../W/War_of_the_Ring.md) chính là con trai ông, Gimli, người đã gia nhập [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
-Có thể Glóin đã chiến đấu trong [Trận Dale](../B/Battle_of_Dale.md) chống lại [Easterlings](../E/Easterlings.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), vì anh ta đã sống cho đến [Kỷ Đệ Tứ](../F/Fourth_Age.md) [15](../F/Fourth_Age_15.md).<sup id="cite_ref-Durin_2-5" class="reference"><a href="#cite_note-Durin-2">[2]</a></sup> Sau Cuộc chiến Nhẫn, không biết liệu anh ta có nhìn thấy Gimli lần nữa sau khi khám phá [Rừng Fangorn](../F/Fangorn_Forest.md) và [Hang động lấp lánh](Glittering_Caves.md) hay không.
+Có khả năng Glóin đã chiến đấu trong [Trận chiến Dale](../B/Battle_of_Dale.md) chống lại những [người Easterling](../E/Easterlings.md) trong [Cuộc Chiến Nhẫn](../W/War_of_the_Ring.md), bởi ông sống đến năm [15](../F/Fourth_Age_15.md) của [Kỷ Đệ Tứ](../F/Fourth_Age.md).<sup id="cite_ref-Durin_2-5" class="reference"><a href="#cite_note-Durin-2">[2]</a></sup> Sau Cuộc Chiến Nhẫn, không rõ liệu ông có gặp lại Gimli hay không sau khi Gimli khám phá [Rừng Fangorn](../F/Fangorn_Forest.md) và [Những Hang Động Lấp Lánh](Glittering_Caves.md).
 
-## Từ nguyên {#Etymology}
+## Từ nguyên học {#Etymology}
 
 <div style="right: 0px; clear: right; float:right; margin: 0px 0px 10px 10px;">
 <table style="border:var(--tg-border-base); background-color:var(--tg-color-surface-2); font-size: 0.8em; line-height: 1.5;border-radius:var(--tg-border-radius-large);" width="275px">
@@ -141,9 +141,9 @@ Có thể Glóin đã chiến đấu trong [Trận Dale](../B/Battle_of_Dale.md)
 </tbody></table>
 </div>
 
-*Glóinn* là một người lùn trong *[Dvergatal](../V/Völuspá.md)*. Cái tên có nghĩa là "Người tỏa sáng".<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+*Glóinn* là một người lùn trong tác phẩm *[Dvergatal](../V/Völuspá.md)*. Tên này có nghĩa là "Người phát sáng".<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 
-## Phả hệ {#Genealogy}
+## Gia phả {#Genealogy}
 
 <div class="tg-familytree"><table class="citizen-overflow" cellspacing="0" cellpadding="0" border="0" align="center" style="">
 <tbody><tr align="center"><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a href="../N/Náin_II.md" title="Náin II">Náin II</a><br/><i><small><a href="../T/Third_Age_2338.md" title="Third Age 2338">2338</a> - <a href="../T/Third_Age_2585.md" title="Third Age 2585">2585</a></small></i></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td></tr><tr align="center"></tr>
@@ -161,11 +161,11 @@ Có thể Glóin đã chiến đấu trong [Trận Dale](../B/Battle_of_Dale.md)
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong cả bản thảo ban đầu của *[The Hobbit](../T/The_Hobbit.md)* và phiên bản đã xuất bản, Glóin đều đã nghe nói về ông cố Bilbo của [Bullroarer Took](../B/Bandobras_Took.md), người đã vô tình phát minh ra trò chơi Golf. Tuy nhiên, chỉ trong bản thảo đầu tiên mới đề cập rằng Glóin rất thích chơi gôn.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
+Trong cả bản thảo ban đầu của *[The Hobbit](../T/The_Hobbit.md)* lẫn bản xuất bản chính thức, Glóin đều từng nghe kể về người chú ba đời của ông cố bên ngoại của Bilbo, [Bullroarer Took](../B/Bandobras_Took.md), người đã vô tình phát minh ra trò chơi golf. Tuy nhiên, chỉ trong bản thảo ban đầu mới đề cập rằng Glóin rất yêu thích môn golf.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
 
-Trong *The Fellowship of the Ring*, người lùn [Burin](../B/Burin.md) (cũng là [Frár](../F/Frár.md)), là con trai của Balin(từ Thorin và Đoàn tùy tùng) được cho là đã đi cùng Glóin đến [Hội đồng Elrond](../C/Council_of_Elrond.md), và sau đó sẽ tham gia [The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md), mặc dù nó đã được đổi thành Gimli, và cũng được đổi thành con trai của Glóin, trong bản thảo cuối cùng của cuốn tiểu thuyết.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+Trong *The Fellowship of the Ring*, người lùn [Burin](../B/Burin.md) (còn được gọi là [Frár](../F/Frár.md)), con trai của Balin (thuộc Đoàn tùy tùng của Thorin), ban đầu được dự định sẽ đi cùng Glóin đến [Hội đồng Elrond](../C/Council_of_Elrond.md), rồi sau đó gia nhập [Đoàn Hộ Nhẫn](../T/The_Fellowship_of_the_Ring.md). Tuy nhiên, trong bản thảo cuối cùng của tiểu thuyết, nhân vật này đã được thay bằng Gimli, đồng thời được đổi thành con trai của Glóin.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
 
-## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
+## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 210px">
@@ -228,19 +228,19 @@ Trong *The Fellowship of the Ring*, người lùn [Burin](../B/Burin.md) (cũng 
 
 ### Phim {#Films}
 
-<b><a href="../_/1967.md" title="1967">1967</a>: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim 1967)</a>:</b>
+<b><a href="../_/1967.md" title="1967">1967</a>: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim năm 1967)</a>:</b>
 
 <dl><dd>Glóin is omitted. <a href="../T/Thorin.md" title="Thorin">Thorin Oakenshield</a> only travels with an unnamed guard and the princess of Dale.<sup id="cite_ref-Deitch_17-0" class="reference"><a href="#cite_note-Deitch-17">[17]</a></sup></dd></dl>
 
-<b><a href="../_/1971.md" title="1971">1971</a>: <a href="../S/Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)"><i>Sagan om Ringen</i> (phim 1971)</a>:</b>
+<b><a href="../_/1971.md" title="1971">1971</a>: <a href="../S/Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)"><i>Sagan om Ringen</i> (phim năm 1971)</a>:</b>
 
 <dl><dd>Glóin is present during the Council of Elrond scene, though he is not visually depicted. The narrator recounts that Glóin told the council of the struggles the <a href="../D/Dwarves.md" title="Dwarves">Dwarves</a> experienced living under the <a href="../M/Mountains_of_Moria.md" title="Mountains of Moria">Mountains of Moria</a>.</dd></dl>
 
-<b><a href="../_/1977.md" title="1977">1977</a>: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b><a href="../_/1977.md" title="1977">1977</a>: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
 <dl><dd>Glóin is one of the minor Dwarves, voiced by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jack_DeLeon&amp;action=edit&amp;redlink=1" title="Jack DeLeon (page does not exist)">Jack DeLeon</a>. As in the book, he has little lines other than the usual grunts; he only ever speaks in unison with the other Dwarves. He is, however, the only known of the six members of the Company who survived the <a href="../B/Battle_of_Five_Armies.md" title="Battle of Five Armies">Battle of Five Armies</a> in this film, as he is seen pulling Thorin&#39;s bed sheet over him after he dies<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> along with an unknwon dwarf not resembling a member of the company (possibly</dd></dl>
 
-<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>Glóin is not present; his role at the council has been taken by Gimli. However, when Gimli is introduced as a member of the Company, he is introduced as &#34;Gimli son of Glóin&#34;.</dd></dl>
 
@@ -254,33 +254,33 @@ Trong *The Fellowship of the Ring*, người lùn [Burin](../B/Burin.md) (cũng 
 
 <dl><dd><blockquote class="tg-quote noexcerpt"></blockquote></dd></dl>
 
-Trong số tất cả các thành viên trong Công ty Người Lùn bắt đầu thực hiện Nhiệm vụ Ngọn Núi Cô Đơn, Gloin là người thẳng thắn, kiên định nhất và không ngại thách thức quyền lực. Anh ấy có tính cách nóng nảy nhưng cũng rất mạnh mẽ, dũng cảm và trung thành. Gloin là một trong những Người lùn đã kết hôn duy nhất trong Công ty (nói chung đang thiếu Người Lùn nữ). Vợ ông là một mỹ nhân được đánh giá cao với bộ râu đặc biệt đẹp. Gloin cũng là người cha đáng tự hào của cậu con trai nhỏ Gimli, sau này lớn lên sẽ trở thành một phần của Đoàn Hộ Nhẫn nổi tiếng.
+Trong số tất cả các thành viên của Đoàn Người Lùn lên đường thực hiện Nhiệm vụ đến Ngọn Núi Cô Đơn, Gloin là người thẳng thắn và có chính kiến mạnh mẽ nhất, đồng thời không ngại thách thức quyền uy. Ông có tính khí nóng nảy, dễ nổi giận, nhưng cũng mạnh mẽ, dũng cảm và trung thành. Gloin là một trong số ít Người Lùn đã kết hôn trong Đoàn (do nhìn chung Người Lùn nữ khá khan hiếm). Vợ ông là một mỹ nhân nổi tiếng, sở hữu bộ râu đặc biệt đẹp. Gloin cũng là người cha đầy tự hào của một cậu con trai còn nhỏ tên là Gimli, người sau này sẽ trưởng thành và trở thành thành viên của Đoàn Hộ Nhẫn lừng danh.
 
 <p class="tg-quote-footer"><cite><a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros.</a><sup id="cite_ref-HobbitApp_22-0" class="reference"><a href="#cite_note-HobbitApp-22">[22]</a></sup></cite></p>
 
-### Loạt đài phát thanh {#Radio_series}
+### Loạt chương trình phát thanh {#Radio_series}
 
-<b><a href="../_/1955.md" title="1955">1955</a>: <a class="mw-redirect" href="../T/The_Lord_of_the_Rings_(1956_radio_series).md" title="The Lord of the Rings (1956 radio series)"><i>The Lord of the Rings</i> (loạt đài phát thanh 1956)</a>:</b>
+<b><a href="../_/1955.md" title="1955">1955</a>: <a class="mw-redirect" href="../T/The_Lord_of_the_Rings_(1956_radio_series).md" title="The Lord of the Rings (1956 radio series)"><i>The Lord of the Rings</i> (loạt chương trình phát thanh năm 1956)</a>:</b>
 
 <dl><dd>Glóin was present in the very first adaptation, but no actor was specified. He was, according to <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;someone&#39;s idea of a German&#34;. Tolkien thought he was not too bad, though a bit exaggerated.</dd></dl>
 
-<b><a href="../_/1968.md" title="1968">1968</a>: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>The Hobbit</i> (loạt phim phát thanh năm 1968)</a>:</b>
+<b><a href="../_/1968.md" title="1968">1968</a>: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>The Hobbit</i> (loạt chương trình phát thanh năm 1968)</a>:</b>
 
 <dl><dd><a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Baldwin&amp;action=edit&amp;redlink=1" title="Peter Baldwin (page does not exist)">Peter Baldwin</a> plays Glóin.</dd></dl>
 
-<b><a href="../_/1980.md" title="1980">1980</a>: <a href="../D/Der_Hobbit_(1980_German_radio_series).md" title="Der Hobbit (1980 German radio series)"><i>Der Hobbit</i> (loạt phim phát thanh Đức năm 1980)</a>:</b>
+<b><a href="../_/1980.md" title="1980">1980</a>: <a href="../D/Der_Hobbit_(1980_German_radio_series).md" title="Der Hobbit (1980 German radio series)"><i>Der Hobbit</i> (loạt chương trình phát thanh tiếng Đức năm 1980)</a>:</b>
 
 <dl><dd>Glóin is played by Herbert Weissbach.</dd></dl>
 
-<b><a href="../_/1981.md" title="1981">1981</a>: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh năm 1981)</a>:</b>
+<b><a href="../_/1981.md" title="1981">1981</a>: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt chương trình phát thanh năm 1981)</a>:</b>
 
 <dl><dd>Glóin is not present; his role at the council has been taken by Gimli.</dd></dl>
 
-<b><a href="../_/1989.md" title="1989">1989</a>: <a href="../H/Hobit_(1989_Slovak_radio_series).md" title="Hobit (1989 Slovak radio series)"><i>Hobit</i> (loạt đài phát thanh Slovakia năm 1989)</a>:</b>
+<b><a href="../_/1989.md" title="1989">1989</a>: <a href="../H/Hobit_(1989_Slovak_radio_series).md" title="Hobit (1989 Slovak radio series)"><i>Hobit</i> (loạt chương trình phát thanh tiếng Slovakia năm 1989)</a>:</b>
 
 <dl><dd>Glóin is present, but no actor is specified for the role of Glóin.</dd></dl>
 
-<b><a href="../_/1992.md" title="1992">1992</a>: <a href="../D/Der_Herr_der_Ringe_(1992_German_radio_series).md" title="Der Herr der Ringe (1992 German radio series)"><i>Der Herr der Ringe</i> (Loạt phim phát thanh Đức năm 1992)</a>:</b>
+<b><a href="../_/1992.md" title="1992">1992</a>: <a href="../D/Der_Herr_der_Ringe_(1992_German_radio_series).md" title="Der Herr der Ringe (1992 German radio series)"><i>Der Herr der Ringe</i> (loạt chương trình phát thanh tiếng Đức năm 1992)</a>:</b>
 
 <dl><dd>Glóin is played by Heinz Meier. He is present at the Council of Elrond.</dd></dl>
 
@@ -294,11 +294,11 @@ Trong số tất cả các thành viên trong Công ty Người Lùn bắt đầ
 
 <dl><dd>Glóin is voiced by an unspecified actor; he is portrayed as an intelligent dwarf with a black beard. He mentions his son Gimli, and how Bilbo reminds him of his son.</dd></dl>
 
-<b><a href="../_/2006.md" title="2006">2006</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b><a href="../_/2006.md" title="2006">2006</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Glóin is a major character. Still present in Rivendell after the Council of Elrond, he teams up with <a href="Glorfindel.md" title="Glorfindel">Glorfindel</a> on a campaign throughout <a href="../E/Eriador.md" title="Eriador">Eriador</a> and  <a href="../R/Rhovanion.md" title="Rhovanion">Rhovanion</a>. He is a fierce dwarf with a reddish brown beard.</dd></dl>
 
-<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>During the time of the War of the Ring, Glóin has an official position as emissary of the King Under the Mountain. His first chronological appearance is a cameo in a brief scene showing the departure of <a class="mw-redirect" href="../T/Thorin_Oakenshield.md" title="Thorin Oakenshield">Thorin Oakenshield</a>&#39;s company from <a class="mw-redirect" href="../E/Ered_Luin.md" title="Ered Luin">Ered Luin</a>. He then appears in the <a href="../M/Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a> north of <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, where after the Council of Elrond Glóin and a few other dwarves establish a camp to deal with the threats in the <a href="../H/High_Pass.md" title="High Pass">High Pass</a> and <a href="Goblin-town.md" title="Goblin-town">Goblin-town</a>.</dd></dl>
 
@@ -306,17 +306,17 @@ Trong số tất cả các thành viên trong Công ty Người Lùn bắt đầ
 
 <dl><dd>Glóin and his companions travel through the Grey Mountains and eventually find Nori, but unlike the others Glóin does not immediately return to Erebor. Instead, he stays in the Grey Mountains where he becomes involved in Prince Durin&#39;s upcoming war against the <a href="../O/Orcs.md" title="Orcs">Orcs</a> of <a href="Gundabad.md" title="Gundabad">Gundabad</a>. On Durin&#39;s orders Glóin and some other dwarves track down a raiding party from Gundabad through the wellsprings of <a href="../A/Anduin.md" title="Anduin">Anduin</a>, eventually travelling to the northernmost outposts of the <a href="../B/Beornings.md" title="Beornings">Beornings</a>. When the war for Gundabad begins, Glóin takes the role of Commander of the Longbeard Armies.</dd></dl>
 
-### Khác {#Others}
+### Những mục khác {#Others}
 
 <b><a href="../_/1989.md" title="1989">1989</a>: <a href="../T/The_Lord_of_the_Rings_(comic_book).md" title="The Lord of the Rings (comic book)"><i>The Lord of the Rings</i> (truyện tranh)</a>:</b>
 
 <dl><dd>Glóin is seen at <a href="../C/Council_of_Elrond.md" title="Council of Elrond">the Council of Elrond</a>, though he has no dialogue.</dd></dl>
 
-<b><a href="../_/1995.md" title="1995">1995</a>: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
+<b><a href="../_/1995.md" title="1995">1995</a>: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm Middle-earth</a></i>:</b>
 
 <dl><dd>Glóin is depicted in <i><a href="../M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">The Wizards</a></i> expansion on the &#34;Glóin&#34; card, illustrated by <a href="../A/Angelo_Montanini.md" title="Angelo Montanini">Angelo Montanini</a>. The card has the following effects:</dd></dl>
 
-> \+2 ảnh hưởng trực tiếp lên Blue Mountain Người Lùn, +1 sức mạnh chống lại Orc. +1 ảnh hưởng trực tiếp tới các phe phái Người Lùn và Người lùn.
+> +2 ảnh hưởng trực tiếp đối với các Dwarf vùng Blue Mountain, +1 sức mạnh chiến đấu đối với Orc. +1 ảnh hưởng trực tiếp đối với Dwarf và các phe phái Dwarf.
 
 <span></span>
 
