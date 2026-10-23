@@ -1,0 +1,346 @@
+---
+title: "Glamdring"
+page_id: 2671
+namespace: 0
+revision_id: 438967
+timestamp: "2026-05-30T05:44:21Z"
+source_url: "https://tolkiengateway.net/wiki/Glamdring"
+content_sha256: eaffa95d8dc26e66a089fb1c66d3ba938b1c17a7d0fdf31d7a5a20484ea0727e
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+short_description: "Sword of Turgon and Gandalf"
+categories:
+  - "Pronounced articles"
+  - "Sindarin names"
+  - "Swords"
+hidden_categories:
+  - "Pages with short description"
+  - "Pages with non-sufficient width image in infobox"
+langlinks:
+  - lang: "de"
+    name: "Deutsch"
+    title: "Glamdring"
+    url: "https://www.ardapedia.org/wiki/Glamdring"
+  - lang: "fi"
+    name: "suomi"
+    title: "Glamdring"
+    url: "https://kontu.wiki/Glamdring"
+  - lang: "fr"
+    name: "français"
+    title: "Glamdring"
+    url: "https://www.tolkiendil.com/Glamdring"
+images:
+  - "John_Howe_-_Gandalf_the_White_01.jpg"
+  - "The_Hobbit_(1977_film)_-_Glamdring.png"
+  - "The_Lord_of_the_Rings_(1978_film)_-_Glamdring.jpg"
+  - "David_T._Wenzel_-_Glamdring.jpeg"
+  - "Audrey_Corman_-_Glamdring.jpg"
+  - "The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Gandalf_poster.jpg"
+  - "Guardians_of_Middle-earth_-_Gandalf_Icon.jpg"
+  - "The_Hobbit_-_An_Unexpected_Journey_-_Gandalf_finds_Glamdring.jpg"
+  - "Andrea_Piparo_-_Glamdring.jpg"
+  - "Donato_Giancola_-_You_Cannot_Pass.jpg"
+  - "John_Howe_-_Glamdring.jpg"
+  - "Sound-icon.png"
+  - "Glamdring.mp3"
+infobox:
+  - label: "Other names"
+    value: "Beater, Foe-hammer"
+  - label: "Location"
+    value: "Gondolin, various"
+  - label: "Owner"
+    value: "Turgon, Gandalf"
+  - label: "Appearance"
+    value: "\"beautiful scabbards and ; jewelled hilts\""
+  - label: "Created at"
+    value: "Gondolin"
+  - label: "Created in"
+    value: "; Between c. F.A. 116 - F.A. 496"
+  - label: "Notable for"
+    value: "Weapon of Gandalf during the War of the Ring"
+  - label: "Gallery"
+    value: "Images of Glamdring"
+---
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Gandalf_the_White_01.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/03/John_Howe_-_Gandalf_the_White_01.jpg/310px-John_Howe_-_Gandalf_the_White_01.jpg" decoding="async" loading="lazy" width="310" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/0/03/John_Howe_-_Gandalf_the_White_01.jpg 1.5x" data-file-width="394" data-file-height="609"/></a><figcaption>&#34;Gandalf the White&#34; by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Sword</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Glamdring</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Beater, Foe-hammer</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="Gondolin.md" title="Gondolin">Gondolin</a>, various</td></tr><tr><th scope="row" class="tg-infobox-label">Owner</th><td class="tg-infobox-data"><a href="../T/Turgon.md" title="Turgon">Turgon</a>, <a href="Gandalf.md" title="Gandalf">Gandalf</a></td></tr><tr><th scope="row" class="tg-infobox-label">Appearance</th><td class="tg-infobox-data">&#34;beautiful scabbards and <br/>jewelled hilts&#34;<sup id="cite_ref-mutton_1-0" class="reference"><a href="#cite_note-mutton-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Created at</th><td class="tg-infobox-data"><a href="Gondolin.md" title="Gondolin">Gondolin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Created in</th><td class="tg-infobox-data"><br/>Between c. <a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_116.md" title="First Age 116">116</a> - <a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_496.md" title="First Age 496">496</a><sup id="cite_ref-shortrest_2-0" class="reference"><a href="#cite_note-shortrest-2">[2]</a></sup><sup id="cite_ref-ut1_3-0" class="reference"><a href="#cite_note-ut1-3">[3]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Notable for</th><td class="tg-infobox-data">Weapon of <a href="Gandalf.md" title="Gandalf">Gandalf</a> during the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Glamdring.md" title="Category:Images of Glamdring">Images of Glamdring</a></td></tr></tbody></table>
+
+<center><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
+<p>This, Gandalf, was Glamdring, Foe-hammer that the king of Gondolin once wore.
+</p>
+<p class="tg-quote-footer"><cite><a href="../E/Elrond.md" title="Elrond">Elrond</a> in <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../A/A_Short_Rest.md" title="A Short Rest">A Short Rest</a>&#34;</cite></p>
+</blockquote><div class="tg-section-divider"></div></div></center>
+
+**Glamdring** là một thanh kiếm, được cho là thuộc về [Turgon](../T/Turgon.md), nhưng được biết đến nhiều nhất là vũ khí của [Gandalf](Gandalf.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md). Nó được biết đến trong Westron với cái tên **Búa kẻ thù** và Orc được biết đến với cái tên **Beater**.
+
+## Lịch sử {#History}
+
+### Máy đập {#Beater}
+
+Glamdring ban đầu được sinh ra bởi Turgon, Vua của [Gondolin](Gondolin.md).<sup id="cite_ref-shortrest_2-1" class="reference"><a href="#cite_note-shortrest-2">[2]</a></sup> Anh ta chắc hẳn đã sử dụng nó một cách mạnh mẽ trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md) hoặc [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), vì [Orc](../O/Orcs.md) đặt tên cho nó là "Beater" và chạy trốn trước nó. Thậm chí cho đến tận thời [Kỷ Đệ Tam](../T/Third_Age.md), [lũ orc của Dãy Núi Sương Mù](../O/Orcs_of_the_Misty_Mountains.md) đã biết đến thanh kiếm huyền thoại này,<sup id="cite_ref-overhill_4-0" class="reference"><a href="#cite_note-overhill-4">[4]</a></sup> nên chắc chắn nó đã gây ra một số thiệt hại.
+
+Cái tên này rất có thể bắt nguồn từ [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), nơi người ta nói rằng Turgon "đã đi về phía [anh trai mình](../F/Fingon.md)".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Không có câu chuyện nào khác đề cập đến hoạt động của thanh kiếm và không biết chuyện gì đã xảy ra với nó trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md). Turgon đã thiệt mạng khi [Tháp Vua](../T/Tower_of_the_King.md) đổ đè lên người anh ta,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> nhưng về số phận của Glamdring thì không có gì được thông báo.
+
+### Sống sót {#Survival}
+
+Thanh kiếm đã tồn tại khoảng 6500 năm kể từ Sự sụp đổ của Gondolin ở [F.A.](../F/First_Age.md) [510](../F/First_Age_510.md) cho đến khi được khám phá lại vào [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md). Trong khoảng thời gian đó, nó di chuyển từ Gondolin xa về phía đông. Có nhiều bí ẩn xung quanh chiến công này, nhưng [Elrond](../E/Elrond.md) lý luận rằng Glamdring, cùng với [Orcrist](../O/Orcrist.md) và [Sting](../S/Sting.md), đã bị cướp bóc hết lần này đến lần khác hoặc bị mang đến [Dãy Núi Sương Mù](../M/Misty_Mountains.md) ngay sau Sự sụp đổ của Gondolin.<sup id="cite_ref-shortrest_2-2" class="reference"><a href="#cite_note-shortrest-2">[2]</a></sup> Do đó, sau khi sống sót sau trận đại hồng thủy [Beleriand](../B/Beleriand.md) trong [Cuộc chiến thịnh nộ](../W/War_of_Wrath.md), nó đã kết thúc trong một [lỗ troll](../T/Trolls'_lair.md) trong [Trollshaws](../T/Trollshaws.md) của [Eriador](../E/Eriador.md).
+
+<h3><span id="At_Gandalf.27s_side"></span><span class="mw-headline" id="At_Gandalf&#39;s_side">At Gandalf&#39;s side</span></h3>
+
+Vào tháng 5 [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), [Gandalf](Gandalf.md), [Bilbo Baggins](../B/Bilbo_Baggins.md) và [một nhóm người lùn](../T/Thorin_and_Company.md) đã gặp phải ba con quỷ lùn trong Trollshaws - [William](../W/William.md), [Bert](../B/Bert.md) và <a class="mw-redirect mw-disambig" href="../T/Tom.md" title="Tom">Tom</a>. Troll đã bắt được Bilbo và Người Lùn, nhưng Gandalf đã phá hủy chúng bằng cách phơi chúng dưới ánh sáng mặt trời. Glamdring, cùng với [Orcrist](../O/Orcrist.md) và [Sting](../S/Sting.md), được tìm thấy trong hang động gần đó của họ.<sup id="cite_ref-mutton_1-1" class="reference"><a href="#cite_note-mutton-1">[1]</a></sup> Gandalf khẳng định vũ khí này là của mình, ngạc nhiên trước hình dáng và dòng chữ của nó. Dòng chữ được viết bằng chữ [chữ rune](../R/Runes.md) Gandalf [không biết](Gondolinic_Runes.md); anh ấy cần kiến ​​thức về Elrond để làm được điều đó. Elrond đã dịch các chữ rune và gọi nó bằng cái tên Mannish: "Foe-hammer".<sup id="cite_ref-shortrest_2-3" class="reference"><a href="#cite_note-shortrest-2">[2]</a></sup>
+
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Donato_Giancola_-_You_Cannot_Pass.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/df/Donato_Giancola_-_You_Cannot_Pass.jpg/200px-Donato_Giancola_-_You_Cannot_Pass.jpg" decoding="async" loading="lazy" width="200" height="255" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/df/Donato_Giancola_-_You_Cannot_Pass.jpg/300px-Donato_Giancola_-_You_Cannot_Pass.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/df/Donato_Giancola_-_You_Cannot_Pass.jpg/400px-Donato_Giancola_-_You_Cannot_Pass.jpg 2x" data-file-width="2355" data-file-height="3000"/></a><figcaption>Gandalf wielding Glamdring, by <a href="../D/Donato_Giancola.md" title="Donato Giancola">Donato Giancola</a>.</figcaption></figure>
+
+Gandalf sẽ sử dụng kiếm tốt; nạn nhân đầu tiên của nó là [Great Goblin](Great_Goblin.md). Những Orc khác bỏ chạy khi nhận ra thanh kiếm là "Beater". Điều này có nghĩa là họ có truyền thuyết về hai thanh kiếm phát sáng - Beater và [Biter](../O/Orcrist.md).<sup id="cite_ref-overhill_4-1" class="reference"><a href="#cite_note-overhill-4">[4]</a></sup> Liệu Gandalf có sử dụng lại thanh kiếm này trong [Nhiệm vụ tìm kiếm Erebor](../T/The_Hobbit.md) hay không vẫn chưa rõ ràng, mặc dù có khả năng là anh ta đã sử dụng nó trong [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md).
+
+Gandalf mang theo Glamdring bên cạnh khi [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) rời khỏi [Rivendell](../R/Rivendell.md) ở [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Anh ta sử dụng lưỡi kiếm trong [Trận chiến Phòng Mazarbul](../B/Battle_of_the_Chamber_of_Mazarbul.md) và một thời gian ngắn sau đó trong cuộc đối đầu với [ Balrog](../D/Durin's_Bane.md), trong trận chiến đó cây trượng của anh ta đã bị phá hủy.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Sau khi trận chiến sụp đổ [cầu](../B/Bridge_of_Khazad-dûm.md), Gandalf và Balrog chiến đấu để giành được [Cầu thang vô tận](../E/Endless_Stair.md) và [Tháp Durin](../D/Durin's_Tower.md), với Glamdring là vũ khí duy nhất được biết là Gandalf sở hữu.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+
+Thi thể của Gandalf đã chết ở đó nhưng anh được đưa về vì nhiệm vụ chưa hoàn thành. Anh ấy đã mang theo Glamdring khi gặp [Ba Thợ Săn](../T/Three_Hunters.md); anh ấy đã đưa nó cho [Háma](../H/Háma.md) tại [Edoras](../E/Edoras.md) khi được yêu cầu giao nộp nó.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Gandalf sẽ tiếp tục mang nó trong suốt [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md)và mang nó bên mình khi anh ấy, [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md), [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) đến [ Prancing Pony](../T/The_Prancing_Pony.md) ở [Bree](../B/Bree.md). Gandalf và Hobbit đã chứng kiến ​​quá nhiều chiến tranh vào thời điểm đó nên việc đeo vũ khí có vẻ không có gì lạ.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+
+### Số phận {#Fate}
+
+Vào ngày [29 tháng Chín](../_/29_September.md), [T.A.](../T/Third_Age.md) [3021](../T/Third_Age_3021.md),<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Gandalf rời [Trung Địa](../M/Middle-earth.md) và đi vào Phương Tây.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> Việc anh ta có mang Glamdring đi cùng hay không không bao giờ được đề cập và vẫn còn để tranh luận. Có thể lập luận rằng anh ta đã mang nó qua Biển, như anh ta đã làm với [Shadowfax](../S/Shadowfax.md),<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> hoặc nó đã bị bỏ lại trong Trung Địa, vũ khí không cần thiết trong Vùng Đất Bất Tử.
+
+## Diện mạo {#Appearance}
+
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Glamdring.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c2/John_Howe_-_Glamdring.jpg/85px-John_Howe_-_Glamdring.jpg" decoding="async" loading="lazy" width="85" height="175" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c2/John_Howe_-_Glamdring.jpg/128px-John_Howe_-_Glamdring.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c2/John_Howe_-_Glamdring.jpg/170px-John_Howe_-_Glamdring.jpg 2x" data-file-width="197" data-file-height="406"/></a><figcaption>&#34;Glamdring&#34; by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure>
+
+Glamdring và Orcrist được mô tả là có "bao kiếm đẹp và chuôi nạm ngọc".<sup id="cite_ref-mutton_1-2" class="reference"><a href="#cite_note-mutton-1">[1]</a></sup> Chúng sẽ phát sáng màu xanh lam khi có Orc. "Thanh kiếm của Turgon" là "một thanh kiếm màu trắng và vàng được bọc trong vỏ bằng xương rồng (ngà)".<sup id="cite_ref-ut1_3-1" class="reference"><a href="#cite_note-ut1-3">[3]</a></sup>
+
+Khi anh ta lấy thanh kiếm, Gandalf nói rằng anh ta không thể đọc được [chữ rune](Gondolinic_Runes.md). Tuy nhiên, Elrond đã làm được vì anh ấy là người am hiểu về tất cả các [chữ rune](../C/Cirth.md).
+
+## Từ nguyên {#Etymology}
+
+<div style="right: 0px; clear: right; float:right; margin: 0px 0px 10px 10px;">
+<table style="border:var(--tg-border-base); background-color:var(--tg-color-surface-2); font-size: 0.8em; line-height: 1.5;border-radius:var(--tg-border-radius-large);" width="275px">
+<tbody><tr>
+<td style="text-align:center; padding-bottom:3px" colspan="2"></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/G/Glamdring.mp3.md" title="File:Glamdring.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
+<td style="text-align:center"><b><a href="../../file/G/Glamdring.mp3.md" title="File:Glamdring.mp3">File:Glamdring.mp3</a></b></td>
+</tr>
+<tr>
+<td style="font-size: small; padding-bottom: 3px; text-align:center;">By <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Media help</a>)</td>
+</tr>
+</tbody></table>
+</div>
+
+*Glamdring* là [Sindarin](../S/Sindarin.md) nghĩa là "Búa kẻ thù".<sup id="cite_ref-shortrest_2-4" class="reference"><a href="#cite_note-shortrest-2">[2]</a></sup> Nó được hình thành từ các yếu tố: *[glam](Glamhoth.md)*, nghĩa đen là "tiếng la hét, tiếng ồn hỗn loạn", nhưng được sử dụng cho bất kỳ nội dung nào của [Orc](../O/Orcs.md);<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> và *dring* ("đánh, đòn").<sup id="cite_ref-etym_16-0" class="reference"><a href="#cite_note-etym-16">[16]</a></sup>
+
+Thanh kiếm cũng được Orc đặt cái tên thô thiển là **Beater**.<sup id="cite_ref-overhill_4-2" class="reference"><a href="#cite_note-overhill-4">[4]</a></sup>
+
+## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
+
+Vào năm 1960, Tolkien bắt đầu viết lại hoàn toàn Hobbit và bổ sung thêm thực tế là Glamdring được bao phủ bởi máu đen khi Gandalf tìm thấy nó, giải thích lý do tại sao các chữ rune không thể đọc được cho đến khi được Elrond làm sạch.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
+
+Trong *Hobbit* đã xuất bản không giải thích được tại sao Gandalf không thể đọc được rune. Lời giải thích phù hợp có thể là "[Các cổ ngữ Gondolinic](Gondolinic_Runes.md)", được Tolkien nghĩ ra vào năm 1924 hoặc 1930. Bộ Cổ ngữ này được xuất bản lần đầu tiên vào năm 1992.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
+
+## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
+
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 285px">
+			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_(1977_film)_-_Glamdring.png.md" title="The Hobbit (1977 film)"><img alt="The Hobbit (1977 film)" src="https://tolkiengateway.net/w/images/thumb/e/e8/The_Hobbit_%281977_film%29_-_Glamdring.png/126px-The_Hobbit_%281977_film%29_-_Glamdring.png" decoding="async" loading="lazy" width="126" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e8/The_Hobbit_%281977_film%29_-_Glamdring.png/189px-The_Hobbit_%281977_film%29_-_Glamdring.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/e8/The_Hobbit_%281977_film%29_-_Glamdring.png/252px-The_Hobbit_%281977_film%29_-_Glamdring.png 2x" data-file-width="606" data-file-height="721"/></a></span></div>
+			<div class="gallerytext">
+<p><a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (1977 film)</a>
+</p>
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 285px">
+			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1978_film)_-_Glamdring.jpg.md" title="The Lord of the Rings (1978 film)"><img alt="The Lord of the Rings (1978 film)" src="https://tolkiengateway.net/w/images/thumb/2/22/The_Lord_of_the_Rings_%281978_film%29_-_Glamdring.jpg/188px-The_Lord_of_the_Rings_%281978_film%29_-_Glamdring.jpg" decoding="async" loading="lazy" width="188" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/22/The_Lord_of_the_Rings_%281978_film%29_-_Glamdring.jpg/281px-The_Lord_of_the_Rings_%281978_film%29_-_Glamdring.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/22/The_Lord_of_the_Rings_%281978_film%29_-_Glamdring.jpg/375px-The_Lord_of_the_Rings_%281978_film%29_-_Glamdring.jpg 2x" data-file-width="2765" data-file-height="2213"/></a></span></div>
+			<div class="gallerytext">
+<p><a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (1978 film)</a>
+</p>
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 285px">
+			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/David_T._Wenzel_-_Glamdring.jpeg.md" title="The Hobbit (comic book)"><img alt="The Hobbit (comic book)" src="https://tolkiengateway.net/w/images/thumb/4/41/David_T._Wenzel_-_Glamdring.jpeg/38px-David_T._Wenzel_-_Glamdring.jpeg" decoding="async" loading="lazy" width="38" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/41/David_T._Wenzel_-_Glamdring.jpeg/57px-David_T._Wenzel_-_Glamdring.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/4/41/David_T._Wenzel_-_Glamdring.jpeg/76px-David_T._Wenzel_-_Glamdring.jpeg 2x" data-file-width="264" data-file-height="1040"/></a></span></div>
+			<div class="gallerytext">
+<p><a href="../T/The_Hobbit_(comic_book).md" title="The Hobbit (comic book)"><i>The Hobbit</i> (comic book)</a>
+</p>
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 285px">
+			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/A/Audrey_Corman_-_Glamdring.jpg.md" title="Middle-earth Collectible Card Game: The Wizards"><img alt="Middle-earth Collectible Card Game: The Wizards" src="https://tolkiengateway.net/w/images/thumb/9/97/Audrey_Corman_-_Glamdring.jpg/178px-Audrey_Corman_-_Glamdring.jpg" decoding="async" loading="lazy" width="178" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/97/Audrey_Corman_-_Glamdring.jpg/267px-Audrey_Corman_-_Glamdring.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/97/Audrey_Corman_-_Glamdring.jpg/355px-Audrey_Corman_-_Glamdring.jpg 2x" data-file-width="398" data-file-height="336"/></a></span></div>
+			<div class="gallerytext">
+<p><i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a></i>: <i><a href="../M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">The Wizards</a></i>
+</p>
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 285px">
+			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Gandalf_poster.jpg.md" title="The Lord of the Rings: The Return of the King"><img alt="The Lord of the Rings: The Return of the King" src="https://tolkiengateway.net/w/images/thumb/2/2e/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Gandalf_poster.jpg/101px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Gandalf_poster.jpg" decoding="async" loading="lazy" width="101" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2e/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Gandalf_poster.jpg/152px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Gandalf_poster.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2e/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Gandalf_poster.jpg/202px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Gandalf_poster.jpg 2x" data-file-width="3000" data-file-height="4447"/></a></span></div>
+			<div class="gallerytext">
+<p><i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>
+</p>
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 285px">
+			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/G/Guardians_of_Middle-earth_-_Gandalf_Icon.jpg.md" title="Guardians of Middle-earth"><img alt="Guardians of Middle-earth" src="https://tolkiengateway.net/w/images/thumb/b/b9/Guardians_of_Middle-earth_-_Gandalf_Icon.jpg/164px-Guardians_of_Middle-earth_-_Gandalf_Icon.jpg" decoding="async" loading="lazy" width="164" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b9/Guardians_of_Middle-earth_-_Gandalf_Icon.jpg/245px-Guardians_of_Middle-earth_-_Gandalf_Icon.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b9/Guardians_of_Middle-earth_-_Gandalf_Icon.jpg/327px-Guardians_of_Middle-earth_-_Gandalf_Icon.jpg 2x" data-file-width="6000" data-file-height="5502"/></a></span></div>
+			<div class="gallerytext">
+<p><i><a href="Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Guardians of Middle-earth</a></i>
+</p>
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 285px">
+			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_An_Unexpected_Journey_-_Gandalf_finds_Glamdring.jpg.md" title="The Hobbit: An Unexpected Journey"><img alt="The Hobbit: An Unexpected Journey" src="https://tolkiengateway.net/w/images/thumb/3/3a/The_Hobbit_-_An_Unexpected_Journey_-_Gandalf_finds_Glamdring.jpg/225px-The_Hobbit_-_An_Unexpected_Journey_-_Gandalf_finds_Glamdring.jpg" decoding="async" loading="lazy" width="225" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3a/The_Hobbit_-_An_Unexpected_Journey_-_Gandalf_finds_Glamdring.jpg/338px-The_Hobbit_-_An_Unexpected_Journey_-_Gandalf_finds_Glamdring.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3a/The_Hobbit_-_An_Unexpected_Journey_-_Gandalf_finds_Glamdring.jpg/450px-The_Hobbit_-_An_Unexpected_Journey_-_Gandalf_finds_Glamdring.jpg 2x" data-file-width="2048" data-file-height="1366"/></a></span></div>
+			<div class="gallerytext">
+<p><i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>
+</p>
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 285px">
+			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/A/Andrea_Piparo_-_Glamdring.jpg.md" title="The Lord of the Rings: Tales of Middle-earth"><img alt="The Lord of the Rings: Tales of Middle-earth" src="https://tolkiengateway.net/w/images/thumb/b/b9/Andrea_Piparo_-_Glamdring.jpg/192px-Andrea_Piparo_-_Glamdring.jpg" decoding="async" loading="lazy" width="192" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b9/Andrea_Piparo_-_Glamdring.jpg/288px-Andrea_Piparo_-_Glamdring.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b9/Andrea_Piparo_-_Glamdring.jpg/384px-Andrea_Piparo_-_Glamdring.jpg 2x" data-file-width="1920" data-file-height="1500"/></a></span></div>
+			<div class="gallerytext">
+<p><i><a href="../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">The Lord of the Rings: Tales of Middle-earth</a></i>
+</p>
+			</div>
+		</li>
+</ul>
+
+### Phim {#Films}
+
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+
+<dl><dd>Gandalf acquires Glamdring in the trolls&#39; cave. Elrond recognizes the sword at first glance; perhaps he simply deduces the fact that it was Glamdring because he had identified its mate Orcrist just before. After leaving <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, Gandalf notably uses the sword only when rescuing Bilbo and the Dwarves from Goblin-town.</dd></dl>
+
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+
+<dl><dd>On promotional art, Glamdring is portrayed as an ordinary longsword, with no inscription visible. In the movie itself, it goes unnamed, and is considerably shorter, only a one-handed sword. Oddly it is broken along with the Balrog&#39;s sword, but reappears intact in later scenes.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></dd></dl>
+
+<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim 1980)</a>:</b>
+
+<dl><dd>Gandalf does not use a sword, only his staff.</dd></dl>
+
+<b>2001-03: <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a>:</b>
+
+<dl><dd>Glamdring is a name given to the sword of Gandalf in the film&#39;s promotional materials, but it is not named in the films. The sword is, according to most replicas, 47 inches (approximately 120 centimeters) long,<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> and does not glow blue. When asked, <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a> and <a href="../P/Philippa_Boyens.md" title="Philippa Boyens">Philippa Boyens</a> reacted jokingly that is was due to &#34;budgetary cuts&#34;, and they had &#34;not enough blue left&#34;.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></dd></dl>
+
+<dl><dd>In the films, Glamdring is depicted as a longsword-type weapon. It has a straight, double-edged blade with a very short ricasso right above the crossguard. The crossguard&#39;s prongs flare upwards, and the center of the guard houses a decorative blue gem. The sword&#39;s grip is wrapped in blue, and the pommel is elongated, broadening at the bottom. The rune inscription is engraved in the cross-guard, and adds power to the sword. With this extra power Gandalf was able to defeat <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a>.<sup id="cite_ref-lotrwaw_22-0" class="reference"><a href="#cite_note-lotrwaw-22">[22]</a></sup> The actual inscription reads as thus:
+<dl><dd>&#34;<i>Turgon <a href="../A/Aran.md" title="Aran">aran</a> Gondolin tortha gar a matha i vegil Glamdring gûd daedheloth, dam an <a href="Glamhoth.md" title="Glamhoth">Glamhoth</a></i>&#34;.</dd></dl></dd>
+<dd>This is <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a>, and translates to &#34;Turgon, king of Gondolin, wields, has, and holds the sword Glamdring, Foe of Morgoth&#39;s realm, Hammer of the Orcs&#34;.<sup id="cite_ref-lotrwaw_22-1" class="reference"><a href="#cite_note-lotrwaw-22">[22]</a></sup></dd></dl>
+
+<b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
+
+<dl><dd>Thorin finds several swords in the troll hoards and gives one to Gandalf. In Rivendell, Elrond identifies it as Glamdring, and in Goblin-town, the Great Goblin recognizes it as Beater. It has the same design as Glamdring in <i>The Lord of the Rings</i> films.</dd></dl>
+
+### Loạt đài phát thanh {#Radio_series}
+
+<b>1968: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>The Hobbit</i> (loạt phim phát thanh 1968)</a>:</b>
+
+<dl><dd>Glamdring is found in the cave of the trolls, and later named by Elrond. Gandalf himself recounts how it was once borne by the King of Gondolin.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></dd></dl>
+
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
+
+<dl><dd>Glamdring is not named, and the presence of a sword is mentioned only once: when Gandalf has to surrender it to <a href="../H/Háma.md" title="Háma">Háma</a>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></dd></dl>
+
+### Trò chơi {#Games}
+
+<b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
+
+<dl><dd>Glamdring is an Elven longsword. It glows with pale light when enemies are near.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></dd></dl>
+
+<b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
+
+<dl><dd>As this game focuses on Bilbo rather than the entire group, Glamdring is never named, and only appears once when Gandalf and the player (as Bilbo) have to wield off several goblins in the Misty Mountains.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> An alternative survival theory is also given: the caves in the Trollshaws were - according to <a href="Glóin.md" title="Glóin">Glóin</a> - dug by the <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> of <a href="../A/Angmar.md" title="Angmar">Angmar</a> during his reign in the region.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></dd></dl>
+
+<span></span>
+
+## Tài liệu tham khảo {#References}
+
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-mutton-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-mutton_1-0">1.0</a></sup> <sup><a href="#cite_ref-mutton_1-1">1.1</a></sup> <sup><a href="#cite_ref-mutton_1-2">1.2</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../R/Roast_Mutton.md" title="Roast Mutton">Roast Mutton</a>&#34;</span>
+</li>
+<li id="cite_note-shortrest-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-shortrest_2-0">2.0</a></sup> <sup><a href="#cite_ref-shortrest_2-1">2.1</a></sup> <sup><a href="#cite_ref-shortrest_2-2">2.2</a></sup> <sup><a href="#cite_ref-shortrest_2-3">2.3</a></sup> <sup><a href="#cite_ref-shortrest_2-4">2.4</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../A/A_Short_Rest.md" title="A Short Rest">A Short Rest</a>&#34;</span>
+</li>
+<li id="cite_note-ut1-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-ut1_3-0">3.0</a></sup> <sup><a href="#cite_ref-ut1_3-1">3.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Of Tuor and his Coming to Gondolin</a>&#34;, note 31 (in the source it is not directly identified as Glamdring)</span>
+</li>
+<li id="cite_note-overhill-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-overhill_4-0">4.0</a></sup> <sup><a href="#cite_ref-overhill_4-1">4.1</a></sup> <sup><a href="#cite_ref-overhill_4-2">4.2</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../O/Over_Hill_and_Under_Hill.md" title="Over Hill and Under Hill">Over Hill and Under Hill</a>&#34;</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_the_Fifth_Battle%253A_Nirnaeth_Arnoediad.md" title="Of the Fifth Battle: Nirnaeth Arnoediad">Of the Fifth Battle: Nirnaeth Arnoediad</a>&#34;</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_Tuor_and_the_Fall_of_Gondolin.md" title="Of Tuor and the Fall of Gondolin">Of Tuor and the Fall of Gondolin</a>&#34;</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Ring_Goes_South.md" title="The Ring Goes South">The Ring Goes South</a>&#34;</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Bridge_of_Khazad-dûm.md" title="The Bridge of Khazad-dûm">The Bridge of Khazad-dûm</a>&#34;</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/The_White_Rider.md" title="The White Rider">The White Rider</a>&#34;</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/The_King_of_the_Golden_Hall.md" title="The King of the Golden Hall">The King of the Golden Hall</a>&#34;</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../H/Homeward_Bound.md" title="Homeward Bound">Homeward Bound</a>&#34;</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_B.md" title="Appendix B">Appendix B</a>, &#34;The Chief Days from the Fall of Barad-dûr to the End of the Third Age&#34;</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a class="mw-redirect" href="../T/The_Grey_Havens.md" title="The Grey Havens">The Grey Havens</a>&#34;</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../H/Humphrey_Carpenter.md" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>, <a href="../L/Letter_268.md" title="Letter 268">Letter 268</a> (dated <a href="../_/19_January.md" title="19 January">January 19</a>, <a href="../_/1965.md" title="1965">1965</a>)</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="../Q/Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi and Eldar</a>: Appendix C. Elvish names for the Orcs&#34;, p. 391</span>
+</li>
+<li id="cite_note-etym-16"><span class="mw-cite-backlink"><a href="#cite_ref-etym_16-0">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, entry &#34;DRING&#34;</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../J/John_D._Rateliff.md" title="John D. Rateliff">John D. Rateliff</a> (ed.), <i><a href="../T/The_History_of_The_Hobbit.md" title="The History of The Hobbit">The History of The Hobbit</a></i>, <i><a class="mw-redirect" href="../R/Return_to_Bag_End.md" title="Return to Bag End">Return to Bag End</a></i>, page 799</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">First published in <i><a href="../M/Mythlore.md" title="Mythlore">Mythlore</a></i> 69, pages 20-25 (edited by <a href="../P/Paul_Nolan_Hyde.md" title="Paul Nolan Hyde">Paul Nolan Hyde</a>), analysed in issue 70, pages 23-24 (by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>). See also <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Gondolinic Runes&#34;, in <i><a href="../P/Parma_Eldalamberon_15.md" title="Parma Eldalamberon 15">Parma Eldalamberon 15</a></i> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), page 111-113</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (1978 film)</a>, &#34;Gandalf Triumphant&#39;</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><i><a href="../T/The_Noble_Collection.md" title="The Noble Collection">The Noble Collection</a></i> Glamdring, <a class="external text" href="http://www.weaponmasters.com/shopping/Glamdring-The-Sword-of-Gandalf-p-16913.html" rel="noreferrer noopener" target="_blank">Weaponmasters.com</a></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a>, <a href="../P/Philippa_Boyens.md" title="Philippa Boyens">Philippa Boyens</a>, <a href="../F/Fran_Walsh.md" title="Fran Walsh">Fran Walsh</a> (eds.), <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (extended edition)</a>, &#34;<a href="../A/A_Journey_in_the_Dark_(scene).md" title="A Journey in the Dark (scene)">A Journey in the Dark</a>&#34;, Director Commentary</span>
+</li>
+<li id="cite_note-lotrwaw-22"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-lotrwaw_22-0">22.0</a></sup> <sup><a href="#cite_ref-lotrwaw_22-1">22.1</a></sup></span> <span class="reference-text"><a href="../C/Chris_Smith.md" title="Chris Smith">Chris Smith</a>, <i><a href="../T/The_Lord_of_the_Rings%253A_Weapons_and_Warfare.md" title="The Lord of the Rings: Weapons and Warfare">The Lord of the Rings: Weapons and Warfare</a></i>, page 68-69</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>The Hobbit</i> (1968 radio series)</a>, &#34;Out of the Frying-Pan into the Fire&#34;</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (1981 radio series)</a>, &#34;The King of the Golden Hall&#34;</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (video game)</a>, Manual, page 9</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text"><a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (2003 video game)</a>, &#34;Over Hill and Under Hill&#34;</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (2003 video game)</a>, &#34;Troll-hole&#34;</span>
+</li>
+</ol></div>
+
+<table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
+<tbody><tr>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Weapons</a> in <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a>&#39;s <a href="../L/Legendarium.md" title="Legendarium">legendarium</a></b>
+</td></tr>
+<tr>
+<th style="background:var(--tg-color-surface-3);" align="right"> <a href="../../category/A/Arrows.md" title="Category:Arrows">Arrows</a>:
+</th>
+<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Black arrow</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Red Arrow</a>
+</td></tr>
+<tr>
+<th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/A/Axes.md" title="Category:Axes">Axes</a>:
+</th>
+<td style="font-size: 90%;"> <a href="../D/Dramborleg.md" title="Dramborleg">Dramborleg</a> · <a href="../D/Durin&#39;s_Axe.md" title="Durin&#39;s Axe">Durin&#39;s Axe</a>
+</td></tr>
+<tr>
+<th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/B/Bows.md" title="Category:Bows">Bows</a>:
+</th>
+<td style="font-size: 90%;"> <a href="../B/Belthronding.md" title="Belthronding">Belthronding</a> · <a href="../B/Bow_of_Bregor.md" title="Bow of Bregor">Bow of Bregor</a> · <a href="../B/Bow_of_the_Galadhrim.md" title="Bow of the Galadhrim">Bow of the Galadhrim</a>
+</td></tr>
+<tr>
+<th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/K/Knives.md" title="Category:Knives">Knives</a>:
+</th>
+<td style="font-size: 90%;"> <a href="../A/Angrist.md" title="Angrist">Angrist</a> · <a href="../B/Barrow-blades.md" title="Barrow-blades">Barrow-blades</a> · <a href="../M/Morgul-knife.md" title="Morgul-knife">Morgul-knife</a> · <a href="../S/Sting.md" title="Sting">Sting</a>
+</td></tr>
+<tr>
+<th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/M/Maces.md" title="Category:Maces">Maces</a>:
+</th>
+<td style="font-size: 90%;"> <a href="Grond_(Hammer_of_the_Underworld).md" title="Grond (Hammer of the Underworld)">Grond</a>
+</td></tr>
+<tr>
+<th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/S/Spears.md" title="Category:Spears">Spears</a>:
+</th>
+<td style="font-size: 90%;"> <a href="../A/Aeglos_(spear).md" title="Aeglos (spear)">Aeglos</a>
+</td></tr>
+<tr>
+<th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/S/Swords.md" title="Category:Swords">Swords</a>:
+</th>
+<td style="font-size: 90%;"> <a href="../A/Anglachel.md" title="Anglachel">Anglachel</a>/<a href="Gurthang.md" title="Gurthang">Gurthang</a> · <a href="../A/Anguirel.md" title="Anguirel">Anguirel</a> · <a href="../A/Aranrúth.md" title="Aranrúth">Aranrúth</a> · <a href="../D/Dagmor.md" title="Dagmor">Dagmor</a> · <a class="mw-selflink selflink">Glamdring</a> · <a href="Glend.md" title="Glend">Glend</a> · <a href="Gúthwinë.md" title="Gúthwinë">Gúthwinë</a> · <a href="../H/Herugrim.md" title="Herugrim">Herugrim</a> · <a href="../N/Narsil.md" title="Narsil">Narsil</a>/<a href="../A/Andúril.md" title="Andúril">Andúril</a> ·  <a href="../O/Orcrist.md" title="Orcrist">Orcrist</a> · <a href="../R/Ringil.md" title="Ringil">Ringil</a> · <a href="../S/Sword_of_Manwë.md" title="Sword of Manwë">Sword of Manwë</a>
+</td></tr>
+</tbody></table>
