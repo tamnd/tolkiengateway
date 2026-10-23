@@ -19,39 +19,39 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jeff_Reitz_-_Precious_Gold_Ring.png.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5f/Jeff_Reitz_-_Precious_Gold_Ring.png/300px-Jeff_Reitz_-_Precious_Gold_Ring.png" decoding="async" loading="lazy" width="300" height="253" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5f/Jeff_Reitz_-_Precious_Gold_Ring.png/450px-Jeff_Reitz_-_Precious_Gold_Ring.png 1.5x, https://tolkiengateway.net/w/images/thumb/5/5f/Jeff_Reitz_-_Precious_Gold_Ring.png/600px-Jeff_Reitz_-_Precious_Gold_Ring.png 2x" data-file-width="1500" data-file-height="1263"/></a><figcaption><i>Precious Gold Ring</i> by Jeff Reitz</figcaption></figure>
 
-**Vàng** vừa là khoáng sản có giá trị ở dạng [Trung Địa](../M/Middle-earth.md) vừa có màu vàng hoặc ánh sáng vàng.
+**Vàng** chỉ cả một kim loại quý trong [Middle-earth](../M/Middle-earth.md) lẫn màu vàng óng hoặc ánh sáng vàng óng.
 
 ## Lịch sử {#History}
 
-Vàng hiện diện ở sâu trong [Arda](../A/Arda.md) kể từ khi nó được tạo ra và [Aulë](../A/Aulë.md), người thợ rèn vĩ đại là người đầu tiên sử dụng nó. Sau đó, nó được sử dụng bởi tất cả các dân tộc biết nói trên trái đất, đặc biệt là [Người Lùn](../D/Dwarves.md) những người thông thạo nó và bởi [Noldor](../N/Noldor.md).
+Vàng đã hiện diện sâu trong lòng [Arda](../A/Arda.md) kể từ khi thế giới được tạo ra, và [Aulë](../A/Aulë.md), đại thợ rèn, là người đầu tiên sử dụng nó. Sau đó, vàng được sử dụng bởi tất cả các dân tộc có ngôn ngữ trên thế gian, đặc biệt là [Người Lùn](../D/Dwarves.md), những người tinh thông việc chế tác vàng, và [Noldor](../N/Noldor.md).
 
-Một trong những [Bảy Cánh Cổng của Gondolin](../S/Seven_Gates_of_Gondolin.md) là [Cổng Vàng](Gate_of_Gold.md).
+Một trong [Bảy Cánh Cổng của Gondolin](../S/Seven_Gates_of_Gondolin.md) là [Cổng Vàng](Gate_of_Gold.md).
 
-Mặc dù có giá trị nhưng kim loại này gần như không có giá trị bằng *[mithril](../M/Mithril.md)*. [Gimli](Gimli.md) tuyên bố rằng khi [Người Lùn](../D/Dwarves.md) khai thác *mithril* ở [Moria](../M/Moria.md), nó có giá trị gấp mười lần giá trị của vàng và sau khi [Tai họa của Durin](../D/Durin's_Bane.md) mithril ra đời đã vượt quá giá cả).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Teleri](../T/Teleri.md) cũng có giá trị [bạc](../S/Silver.md) (mà họ gọi là *[telpe](../T/Telpe.md)*) cao hơn vàng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Mặc dù có giá trị, kim loại này vẫn không quý giá bằng *[mithril](../M/Mithril.md)*. [Gimli](Gimli.md) cho biết khi [Người Lùn](../D/Dwarves.md) khai thác *mithril* ở [Moria](../M/Moria.md), nó có giá trị gấp mười lần vàng, và sau khi [Tai Họa của Durin](../D/Durin's_Bane.md) xuất hiện, mithril trở nên vô giá).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Teleri](../T/Teleri.md) cũng coi trọng [bạc](../S/Silver.md) (mà họ gọi là *[telpe](../T/Telpe.md)*) hơn vàng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Chiếc nhẫn duy nhất](../T/The_One_Ring.md) được làm bằng vàng,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> cũng như [Vilya](../V/Vilya.md), Chiếc nhẫn Tiên của [Elrond](../E/Elrond.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Kho báu của [Smaug](../S/Smaug.md) cũng chứa vàng, rèn và chưa gia công.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+[Chiếc Nhẫn Chủ](../T/The_One_Ring.md) được làm bằng vàng,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> cũng như [Vilya](../V/Vilya.md), chiếc Nhẫn Tiên của [Elrond](../E/Elrond.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Kho báu của [Smaug](../S/Smaug.md) cũng chứa vàng, cả vàng đã được chế tác lẫn vàng chưa qua chế tác.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Đôi khi, vàng là điều kiện tiên quyết cho '[ma thuật](../M/Magic.md)' và những tệ nạn khác khi [Sauron](../S/Sauron.md) thực hiện với nó và dựa trên nó. Người ta nói rằng sức mạnh của [Morgoth](../M/Morgoth.md) đã được phổ biến khắp phần tử này trong vấn đề [Arda](../A/Arda.md); tuy nhiên, ảnh hưởng của ông đối với nó không phải là tuyệt đối, vì Morgoth ngay từ đầu đã không tạo ra vàng.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Đôi khi, vàng là điều kiện cần thiết cho thứ '[ma thuật](../M/Magic.md)' và những điều ác khác mà [Sauron](../S/Sauron.md) thực hành bằng cách sử dụng vàng và tác động lên nó. Người ta cho rằng quyền năng của [Morgoth](../M/Morgoth.md) đã lan tỏa khắp nguyên tố này trong vật chất của [Arda](../A/Arda.md); tuy nhiên, sự chi phối của hắn đối với vàng không phải là tuyệt đối, bởi Morgoth không phải là kẻ tạo ra vàng ngay từ đầu.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-## Tên khác {#Other_names}
+## Các tên gọi khác {#Other_names}
 
 - [Quenya](../Q/Quenya.md): *[malta](../M/Malta.md)*, *[laurë](../L/Laurë.md)* (màu sắc, không phải kim loại), *[culu-](../K/KUL.md)*
 - [Sindarin](../S/Sindarin.md)/[Noldorin](../N/Noldorin.md): *[malt](../M/Malt.md)*
 - [Adûnaic](../A/Adûnaic.md): *[pharaz](../P/Pharaz.md)*
 
-## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
+## Các phiên bản khác của truyền thuyết huyền sử {#Other_versions_of_the_legendarium}
 
-Tại [The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md) một phần vàng đã được sử dụng để tạo ra [Tilkal](../T/Tilkal.md), để xây dựng [Angainor](../A/Angainor.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Trong [The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md), một phần vàng đã được sử dụng trong quá trình tạo ra [Tilkal](../T/Tilkal.md), để chế tạo [Angainor](../A/Angainor.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Trong [Gnomish](Gnomish.md), từ "vàng" là *glôr* (*glôriol* có nghĩa là "vàng, giống như vàng" và *glôrin* có nghĩa là "vàng, bằng vàng"). Từ thơ mộng cho "vàng" là *Culu*.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Trong [Gnomish](Gnomish.md), từ chỉ "vàng" là *glôr* (*glôriol* có nghĩa là "vàng óng, giống như vàng", còn *glôrin* có nghĩa là "bằng vàng, làm từ vàng"). Từ mang tính thi ca chỉ "vàng" là *Culu*.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Kho báu của Trung Địa</a></i></b>
+<b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Treasures of Middle-earth</a></i></b>
 
 <dl><dd>Gold is given the <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> name <i>Mal</i> in the book, and it was said to be valued by the Dwarves above all other metals, save mithril. Elves, who appreciated its beauty more than its value, used it in alloys, something Dwarves would be able to do if they were willing. It can be mixed with <a href="../M/Metals_in_Middle-earth_Role_Playing.md#Other_metals" title="Metals in Middle-earth Role Playing">platinum</a> to become white-gold.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Gold ore can be mined by expert prospectors in the <a href="../L/Lone-lands.md" title="Lone-lands">Lone-lands</a>, <a href="../N/North_Downs.md" title="North Downs">North Downs</a>, <a href="../E/Evendim.md" title="Evendim">Evendim</a>, <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a>, and <a href="../T/The_Yondershire.md" title="The Yondershire">the Yondershire</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 
