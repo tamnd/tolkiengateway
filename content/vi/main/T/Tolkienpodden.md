@@ -15,7 +15,7 @@ sort_keys:
   "Podcasts": "Tolkienpodden"
 ---
 
-<i><b>Tolkienpodden</b></i> là một podcast liên quan đến [Tolkien](../J/J.R.R._Tolkien.md)của Thụy Điển được tổ chức bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Adam_Westlund_De_La_Torre&amp;action=edit&amp;redlink=1" title="Adam Westlund De La Torre (page does not exist)">Adam Westlund De La Torre</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Elisabet_Bergander&amp;action=edit&amp;redlink=1" title="Elisabet Bergander (page does not exist)">Elisabet Bergander</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Daniel_M%C3%B6ller&amp;action=edit&amp;redlink=1" title="Daniel Möller (page does not exist)">Daniel Möller</a>. Podcast này đã được phát hành hàng tháng kể từ năm 2017. Mỗi tập đều đề cập đến một chủ đề liên quan đến Tolkien khác nhau.
+<i><b>Tolkienpodden</b></i> là một podcast liên quan đến [Tolkien](../J/J.R.R._Tolkien.md) của Thụy Điển được tổ chức bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Adam_Westlund_De_La_Torre&amp;action=edit&amp;redlink=1" title="Adam Westlund De La Torre (page does not exist)">Adam Westlund De La Torre</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Elisabet_Bergander&amp;action=edit&amp;redlink=1" title="Elisabet Bergander (page does not exist)">Elisabet Bergander</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Daniel_M%C3%B6ller&amp;action=edit&amp;redlink=1" title="Daniel Möller (page does not exist)">Daniel Möller</a>. Podcast này đã được phát hành hàng tháng kể từ năm 2017. Mỗi tập đều đề cập đến một chủ đề liên quan đến Tolkien khác nhau.
 
 <br>
 

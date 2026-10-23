@@ -20,7 +20,7 @@ categories:
 
 Trước đó, tên của anh ấy được đánh vần là <i><b>Nosdiligand</b></i>, mặc dù Christopher Tolkien đã đề cập rằng một số chữ cái không đọc được.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Theo *[Eldamo](../E/Eldamo.md)*thì tên *Nosdiligand* có trong [Noldorin](Noldorin.md)nhưng nghĩa không rõ ràng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Theo *[Eldamo](../E/Eldamo.md)* thì tên *Nosdiligand* có trong [Noldorin](Noldorin.md) nhưng nghĩa không rõ ràng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

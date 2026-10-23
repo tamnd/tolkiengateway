@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Trung Địa](../../main/M/Middle-earth.md) như được phát minh ban đầu bởi [Valar](../../main/V/Valar.md) và trước khi được [Melkor](../../main/M/Morgoth.md)chuyển đổi.
+[Trung Địa](../../main/M/Middle-earth.md) như được phát minh ban đầu bởi [Valar](../../main/V/Valar.md) và trước khi được [Melkor](../../main/M/Morgoth.md) chuyển đổi.
 
 ## Giấy phép {#Licensing}
 

@@ -80,7 +80,7 @@ Sự kiện xảy ra vào ngày 10 tháng 3
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - [Tín hiệu tuyệt vời](../G/Great_Signal.md).
     - Ngày [Ngày không bình minh](../D/Dawnless_Day.md).
-    - [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) vượt qua [Ngã Tư](../C/Cross-roads.md)và xem [Morgul-host](../M/Minas_Morgul.md) được đặt ra, hướng tới [Minas Tirith](../M/Minas_Tirith.md).
+    - [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) vượt qua [Ngã Tư](../C/Cross-roads.md) và xem [Morgul-host](../M/Minas_Morgul.md) được đặt ra, hướng tới [Minas Tirith](../M/Minas_Tirith.md).
     - Cuộc tập hợp của [Rohan](../R/Rohan.md) diễn ra. Chuyến đi [Rohirrim](../R/Rohirrim.md) từ [Harrowdale](../H/Harrowdale.md).
     - [Faramir](../F/Faramir.md) được [Gandalf](../G/Gandalf.md) giải cứu từ [Nazgûl](../N/Nazgûl.md) bên ngoài cổng [Thành phố](../M/Minas_Tirith.md). Anh gặp [Pippin](../P/Peregrin_Took.md) và báo cáo cho [Denethor](../D/Denethor.md).
     - [Aragorn](../A/Aragorn.md), dẫn đầu [Người chết Con Người](../D/Dead_Men.md) và [Đại đội Xám](../G/Grey_Company.md), vượt sông [Ringló](../R/Ringló.md).

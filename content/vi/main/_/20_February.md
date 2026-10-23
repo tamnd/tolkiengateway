@@ -74,4 +74,4 @@ Sự kiện xảy ra vào ngày 20 tháng 2.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - Con [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía nam xuống [Anduin](../A/Anduin.md).
     - Trong đêm, [Gollum](../G/Gollum.md) cố gắng xâm nhập vào trại của họ, nhưng lại sợ hãi trước sự cảnh giác của [Aragorn](../A/Aragorn.md) và [Boromir](../B/Boromir.md).
-    - [Gandalf](../G/Gandalf.md) rời [Lothlórien](../L/Lothlórien.md) và đi về hướng nam do [Gwaihir](../G/Gwaihir.md)mang theo.
+    - [Gandalf](../G/Gandalf.md) rời [Lothlórien](../L/Lothlórien.md) và đi về hướng nam do [Gwaihir](../G/Gwaihir.md) mang theo.

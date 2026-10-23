@@ -103,7 +103,7 @@ Sau khi sinh [Fëanor](../F/Fëanor.md), Míriel đã chọn cái chết và kh�
 <p class="tg-quote-footer"><cite><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a>, &#34;Later versions of the Story of Finwë and Míriel&#34;, §26 p. 262</cite></p>
 </blockquote>
 
-Với [Điều lệ Finwë và Míriel](../S/Statute_of_Finwë_and_Míriel.md), [Manwë](../M/Manwë.md) cho phép Finwë lấy vợ hai và Indis trở thành mẹ kế của Fëanor. Indis sinh cho Finwë 4 người con: [Findis](../F/Findis.md), [Fingolfin](../F/Fingolfin.md), [Írimë](../_/Írimë.md)và [Finarfin](../F/Finarfin.md). Fëanor chưa bao giờ thân thiết với mẹ kế hoặc các anh chị em cùng cha khác mẹ của mình và sống xa họ ngay khi đến tuổi trưởng thành.<sup id="cite_ref-Laws_5-0" class="reference"><a href="#cite_note-Laws-5">[4]</a></sup>
+Với [Điều lệ Finwë và Míriel](../S/Statute_of_Finwë_and_Míriel.md), [Manwë](../M/Manwë.md) cho phép Finwë lấy vợ hai và Indis trở thành mẹ kế của Fëanor. Indis sinh cho Finwë 4 người con: [Findis](../F/Findis.md), [Fingolfin](../F/Fingolfin.md), [Írimë](../_/Írimë.md) và [Finarfin](../F/Finarfin.md). Fëanor chưa bao giờ thân thiết với mẹ kế hoặc các anh chị em cùng cha khác mẹ của mình và sống xa họ ngay khi đến tuổi trưởng thành.<sup id="cite_ref-Laws_5-0" class="reference"><a href="#cite_note-Laws-5">[4]</a></sup>
 
 ### Sự bất ổn của Noldor {#Unrest_of_the_Noldor}
 

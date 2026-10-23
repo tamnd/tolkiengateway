@@ -24,7 +24,7 @@ images:
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Ruth_Lacon.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e8/Ruth_Lacon.jpg/300px-Ruth_Lacon.jpg" decoding="async" loading="lazy" width="300" height="386" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e8/Ruth_Lacon.jpg/450px-Ruth_Lacon.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e8/Ruth_Lacon.jpg/600px-Ruth_Lacon.jpg 2x" data-file-width="733" data-file-height="943"/></a><figcaption>Ruth Lacon at <a href="../O/Oxonmoot_2002.md" title="Oxonmoot 2002">Oxonmoot 2002</a></figcaption></figure>
 
-**Ruth Lacon** ([1967](../_/1967.md)), người cũng sử dụng bút danh **Elizabeth Currie**, đã tạo ra nhiều hình minh họa lấy cảm hứng từ [Tolkien](../J/J.R.R._Tolkien.md)và cùng với [Alex Lewis](../A/Alex_Lewis.md), đã xuất bản một số sách và bài viết về Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cô là thành viên của [Hội Tolkien](../T/The_Tolkien_Society.md) từ giữa những năm 1980.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Ruth Lacon** ([1967](../_/1967.md)), người cũng sử dụng bút danh **Elizabeth Currie**, đã tạo ra nhiều hình minh họa lấy cảm hứng từ [Tolkien](../J/J.R.R._Tolkien.md) và cùng với [Alex Lewis](../A/Alex_Lewis.md), đã xuất bản một số sách và bài viết về Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cô là thành viên của [Hội Tolkien](../T/The_Tolkien_Society.md) từ giữa những năm 1980.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Thư mục {#Bibliography}
 
@@ -56,7 +56,7 @@ Ngôi sao của     - "Tolkien& Người thừa kế của Tolkien"
 - [1995](../_/1995.md): [*Mallorn* 32](../M/Mallorn_32.md)
     - "Ghi chú về lịch sử của những người phương Đông"
 - [1996](../_/1996.md): *[Travel and Communication in Tolkien's Worlds](../T/Travel_and_Communication_in_Tolkien's_Worlds.md)*
-    - "Đầu tiên hãy bắt con voi của bạn: Một cái nhìn lan man về lịch sử tự nhiên và phi tự nhiên của loài voi"
+    - "Đầu tiên hãy bắt được con voi: Một cái nhìn lan man về lịch sử tự nhiên và phi tự nhiên của loài voi"
 - [1997](../_/1997.md): [*Amon Hen* 144](../A/Amon_Hen_144.md)
     - "Armenelos và Nineveh"
 - [1998](../_/1998.md): [*Amon Hen* 149](../A/Amon_Hen_149.md)

@@ -44,17 +44,17 @@ images:
 
 **The Quenta** là chương thứ ba của *[The Shaping of Middle-earth](The_Shaping_of_Middle-earth.md)*, cuốn thứ tư trong bộ *[The History of Middle-earth](The_History_of_Middle-earth.md)*.
 
-The Quenta là phiên bản đầu tiên của những gì sẽ trở thành *[The Silmarillion](The_Silmarillion.md)*và là phiên bản duy nhất Tolkien có thể hoàn thành. Nó đánh dấu sự thay đổi về tông màu và phong cách giữa các yếu tố "nàng tiên thời Victoria" tinh tế trong *[Lost Tales](../L/Lost_Tales.md)*trước đó và những mô tả Bắc Âu đen tối đặc trưng cho tác phẩm sau này của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The Quenta là phiên bản đầu tiên của những gì sẽ trở thành *[The Silmarillion](The_Silmarillion.md)* và là phiên bản duy nhất Tolkien có thể hoàn thành. Nó đánh dấu sự thay đổi về tông màu và phong cách giữa các yếu tố "nàng tiên thời Victoria" tinh tế trong *[Lost Tales](../L/Lost_Tales.md)* trước đó và những mô tả Bắc Âu đen tối đặc trưng cho tác phẩm sau này của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Quenta Noldorinwa {#Quenta_Noldorinwa}
 
 ### Phân tích {#Analysis}
 
-Được viết bằng [1930](../_/1930.md), đây là phiên bản thứ hai của văn bản mà cuối cùng sẽ trở thành *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)*được xuất bản, sau Sketch of the Mythology có trong chương trước, "[The Earliest 'Silmarillion'](The_Earliest_'Silmarillion'.md)".
+Được viết bằng [1930](../_/1930.md), đây là phiên bản thứ hai của văn bản mà cuối cùng sẽ trở thành *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)* được xuất bản, sau Sketch of the Mythology có trong chương trước, "[The Earliest 'Silmarillion'](The_Earliest_'Silmarillion'.md)".
 
 Phiên bản Silmarillion này đặc biệt quan trọng vì đây là phiên bản 'hoàn chỉnh' duy nhất của [huyền thoại](../L/Legendarium.md) mà Tolkien từng hoàn thành đến cuối cùng. Tiếp theo *[Sketch of the Mythology](../S/Sketch_of_the_Mythology.md)*, phiên bản Silmarillion này cũng tiến tới hình thức cuối cùng của câu chuyện về hầu hết các thuật ngữ chung.
 
-Tuy nhiên, phiên bản này có sự khác biệt đáng kể so với phiên bản *[Silmarillion](../S/Silmarillion.md)*đã xuất bản. Đáng chú ý nhất là nó chỉ dài khoảng 1/4 cuốn tiểu thuyết đã xuất bản. Điều này phần lớn là do phương pháp mở rộng của Tolkien thường được sử dụng trong khi soạn thảo. Phần cuối của câu chuyện khác nhau ở một số khía cạnh, nhiều cái tên vẫn được thay đổi, và một số yếu tố tường thuật khác hơi khác một chút hoặc bị cô đọng hơn nhiều, nhưng đến giai đoạn này, lịch sử chung của thời đại thứ nhất phần lớn đã hoàn chỉnh.
+Tuy nhiên, phiên bản này có sự khác biệt đáng kể so với phiên bản *[Silmarillion](../S/Silmarillion.md)* đã xuất bản. Đáng chú ý nhất là nó chỉ dài khoảng 1/4 cuốn tiểu thuyết đã xuất bản. Điều này phần lớn là do phương pháp mở rộng của Tolkien thường được sử dụng trong khi soạn thảo. Phần cuối của câu chuyện khác nhau ở một số khía cạnh, nhiều cái tên vẫn được thay đổi, và một số yếu tố tường thuật khác hơi khác một chút hoặc bị cô đọng hơn nhiều, nhưng đến giai đoạn này, lịch sử chung của thời đại thứ nhất phần lớn đã hoàn chỉnh.
 
 Vì đây là phiên bản duy nhất của truyền thuyết Tolkien từng được hoàn thành nên nó cũng bao gồm các tường thuật cuối cùng của tất cả "[The Nauglafring](The_Nauglafring.md)" và "[The Fall of Gondolin](<The_Fall_of_Gondolin_(chapter).md>)" làm cơ sở cho các biểu mẫu được xuất bản, mặc dù có nhiều thay đổi về hình thức trong nhiều trường hợp.
 
@@ -76,7 +76,7 @@ Mặc dù văn bản là một câu chuyện liên tục, Christopher Tolkien v�
 - **§9**: [Cuộc vây hãm Angband](../S/Siege_of_Angband.md), những ngôi nhà của Con Người, [Tàn tích của Broseliand](../R/Ruin_of_Beleriand.md), [Sự sụp đổ của Fingolfin](../F/Fall_of_Fingolfin.md).
 - **§10**: [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md).
 - **§11**: [Trận chiến nước mắt không đếm được](../B/Battle_of_Unnumbered_Tears.md), Morgoth nguyền rủa [Húrin](../H/Húrin.md).
-- **§12**: câu chuyện của [Túrin](Túrin.md)cho đến khi [Beleg](../B/Beleg.md)qua đời.
+- **§12**: câu chuyện của [Túrin](Túrin.md) cho đến khi [Beleg](../B/Beleg.md) qua đời.
 - **§13**: câu chuyện của Túrin cho đến khi ông qua đời và được chôn cất.
 - **§14**: Cái chết của [Thingol](Thingol.md) và [sự tàn phá của Doriath](../R/Ruin_of_Doriath.md).
 - **§15** (& **§15 QII**): Thành lập [Gondolin](../G/Gondolin.md).
@@ -91,7 +91,7 @@ Christopher bao gồm hai Phụ lục trong chương liên quan đến *The Quen
 
 <h3><span id="Appendix_1:_.C3.86lfwine.27s_translation_of_the_Quenta_into_Old_English"></span><span class="mw-headline" id="Appendix_1:_Ælfwine&#39;s_translation_of_the_Quenta_into_Old_English">Appendix 1: Ælfwine&#39;s translation of the Quenta into Old English</span></h3>
 
-Bao gồm trong phụ lục này là các đoạn còn sót lại của các bản dịch Anglo-Saxon của *[Annals of Valinor](The_Earliest_Annals_of_Valinor.md)*, *[Annals of Beleriand](The_Earliest_Annals_of_Beleriand.md)*và *Quenta Noldorinwa*, cũng như các phần tương đương [tiếng Anh cổ](../O/Old_English.md) của các tên Elvish khác nhau. Tất cả điều này được quy cho [Ælfwine](../_/Ælfwine.md)trong vũ trụ.
+Bao gồm trong phụ lục này là các đoạn còn sót lại của các bản dịch Anglo-Saxon của *[Annals of Valinor](The_Earliest_Annals_of_Valinor.md)*, *[Annals of Beleriand](The_Earliest_Annals_of_Beleriand.md)* và *Quenta Noldorinwa*, cũng như các phần tương đương [tiếng Anh cổ](../O/Old_English.md) của các tên Elvish khác nhau. Tất cả điều này được quy cho [Ælfwine](../_/Ælfwine.md) trong vũ trụ.
 
 [Valar](../V/Valar.md) nói chung được gọi là *Fréan* (số ít *Fréa*, nghĩa là "người cai trị" hoặc "chúa tể"), *Ese* (số ít *Os*, nghĩa là "thần"), *Brega* (số ít *Bregu*, "người cai trị" hoặc "chúa tể") hoặc *Mægnu* (số ít *Mægen*, "quyền lực" hoặc "có thể"). *Mægen* xuất hiện trong bản dịch tiếng Anh cổ của Quenta có trong chương này.
 
@@ -100,7 +100,7 @@ Bao gồm trong phụ lục này là các đoạn còn sót lại của các b�
 - [Ulmo](../U/Ulmo.md) trở thành *Garsecges fréa* (*Garsecg*, tên của Biển), *ealwæter-fréa* (*eal* "all" + *wæter* "water") và *agendfréa ealra wætera* (thêm thuật ngữ *agend*, "chủ sở hữu"). Họ này của Ulmo xuất phát từ bản dịch tiếng Anh cổ của Quenta xuất hiện trong phụ lục này.
 - [Aulë](../A/Aulë.md) là *Cræftfréa* (*cræft*, "quyền lực" hoặc "nghệ thuật").
 - Tulkas là *Afodfréa* (*afod* hoặc *eafod* "có thể, sức mạnh").
-- [Oromë](../O/Oromë.md) là *Wáðfréa* (*wáð* "săn bắn"), *Huntena fréa* (*huntena* "của thợ săn"), *Wealdafréa* (*wealda* "của rừng"), là bản dịch của [Noldorin](../N/Noldorin.md) biểu tượng *Tauros* của Oromë(sẽ được thay thế bằng *Tauron* trong các phiên bản sau của truyền thuyết) rằng xuất hiện trong tiếng Anh cổ Quenta và *Béaming* (*béam* "cây"), là bản dịch từ tên Quenya tên *Aldaron*của anh ấy.
+- [Oromë](../O/Oromë.md) là *Wáðfréa* (*wáð* "săn bắn"), *Huntena fréa* (*huntena* "của thợ săn"), *Wealdafréa* (*wealda* "của rừng"), là bản dịch của [Noldorin](../N/Noldorin.md) biểu tượng *Tauros* của Oromë(sẽ được thay thế bằng *Tauron* trong các phiên bản sau của truyền thuyết) rằng xuất hiện trong tiếng Anh cổ Quenta và *Béaming* (*béam* "cây"), là bản dịch từ tên Quenya tên *Aldaron* của anh ấy.
 - Các [Fëanturi](../F/Fëanturi.md), [Námo](../N/Námo.md) và [Irmo](../I/Irmo.md), được gọi là Nefréa (*ne(o)* "xác chết") và Swefnfréa (*swefn* "giấc mơ") -- trong *Old English Quenta*, Námo còn được gọi là *neoaerna hlaford* ("chủ nhân của những ngôi nhà của người chết").
 - [Ossë](../O/Ossë.md) cũng được liệt kê trong VAlar và được đặt tên *Sǽfréa* (*sǽ* "sea").
 

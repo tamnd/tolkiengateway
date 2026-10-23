@@ -33,19 +33,19 @@ infobox:
 
 ### Về Hobbit {#Concerning_Hobbits}
 
-Tóm tắt lịch sử của [Hobbit](../H/Hobbits.md) từ nguồn gốc của họ ở [Vales](../V/Vales_of_Anduin.md) của [Anduin](../A/Anduin.md), cho đến việc họ chuyển đến [Eriador](../E/Eriador.md), sự ủy thác của họ ở [The Shire](../T/The_Shire.md)và các sự kiện dẫn đến [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md). *Concerning Hobbits* cũng cung cấp mô tả khái quát về các đặc điểm hình thể của Hobbit, cũng như cách cư xử, phong tục và gia đình quan trọng của họ.
+Tóm tắt lịch sử của [Hobbit](../H/Hobbits.md) từ nguồn gốc của họ ở [Vales](../V/Vales_of_Anduin.md) của [Anduin](../A/Anduin.md), cho đến việc họ chuyển đến [Eriador](../E/Eriador.md), sự ủy thác của họ ở [The Shire](../T/The_Shire.md) và các sự kiện dẫn đến [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md). *Concerning Hobbits* cũng cung cấp mô tả khái quát về các đặc điểm hình thể của Hobbit, cũng như cách cư xử, phong tục và gia đình quan trọng của họ.
 
 ### Về cỏ ống {#Concerning_Pipe-weed}
 
-Giải thích về niềm đam mê của [Hobbit](../H/Hobbits.md)với [cỏ ống](Pipe-weed.md), lịch sử của nó (như được trình bày trong *[Herblore of the Shire](../H/Herblore_of_the_Shire.md)*của [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md)) và các giống đáng chú ý của [Old Toby](../O/Old_Toby.md), [Lá đáy dài](../L/Longbottom_Leaf.md) và [Sao phương Nam](../S/Southern_Star.md).
+Giải thích về niềm đam mê của [Hobbit](../H/Hobbits.md) với [cỏ ống](Pipe-weed.md), lịch sử của nó (như được trình bày trong *[Herblore of the Shire](../H/Herblore_of_the_Shire.md)* của [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md)) và các giống đáng chú ý của [Old Toby](../O/Old_Toby.md), [Lá đáy dài](../L/Longbottom_Leaf.md) và [Sao phương Nam](../S/Southern_Star.md).
 
 ### Về thứ tự của Shire {#Of_the_Ordering_of_the_Shire}
 
 Mô tả sự phân chia của [The Shire](../T/The_Shire.md) ([Bắc](../N/Northfarthing.md), [Nam](../S/Southfarthing.md), [phương Đông](../E/Eastfarthing.md) và [Westfarthings](../W/Westfarthing.md); với [Buckland](../B/Buckland.md) và [Westmarch](../W/Westmarch.md)), cũng như sự cai trị của The Shire ( [Thain](../T/Thain.md), [Thị trưởng Michel Delving](../M/Mayor_of_Michel_Delving.md) và [Cảnh sát](../S/Shirriffs.md)).
 
-### Về việc tìm thấy Nhẫn {#Of_the_Finding_of_the_Ring}
+### Về việc tìm thấy chiếc nhẫn {#Of_the_Finding_of_the_Ring}
 
-Bao gồm các chương trong *[The Hobbit](../T/The_Hobbit.md)* đề cập đến việc [Bilbo](../B/Bilbo_Baggins.md)tìm thấy [Một Nhẫn](../O/One_Ring.md).
+Bao gồm các chương trong *[The Hobbit](../T/The_Hobbit.md)* đề cập đến việc [Bilbo](../B/Bilbo_Baggins.md) tìm thấy [Chiếc nhẫn duy nhất](../O/One_Ring.md).
 
 ### Lưu ý về bản ghi Shire {#Note_on_the_Shire_Records}
 

@@ -33,7 +33,7 @@ Bài thơ [Bilbo Baggins](../B/Bilbo_Baggins.md)' *[Errantry](../E/Errantry.md)*
 
 ## Cảm hứng {#Inspiration}
 
-Ý tưởng về Faërie thực sự gói gọn một khái niệm sâu sắc hơn nhiều được Tolkien khám phá trong bài giảng và bài tiểu luận *[On Fairy-Stories](../O/On_Fairy-Stories.md)*của mình, trong đó nó đại diện cho một lĩnh vực bên lề trải nghiệm của con người, nơi sinh sống của những sinh vật kỳ ảo.
+Ý tưởng về Faërie thực sự gói gọn một khái niệm sâu sắc hơn nhiều được Tolkien khám phá trong bài giảng và bài tiểu luận *[On Fairy-Stories](../O/On_Fairy-Stories.md)* của mình, trong đó nó đại diện cho một lĩnh vực bên lề trải nghiệm của con người, nơi sinh sống của những sinh vật kỳ ảo.
 
 <blockquote class="tg-quote noexcerpt">
 <p>- Faërie. Possibly the single most important term in Tolkien&#39;s critical lexicon, with a complex of referents. He used it to mean the Otherworld beyond the five senses - a parallel reality tangential in time and space to the ordinary world; he used it to mean the practice of enchantment or magic, especially through the use of words, for example spells or charms; and he used it to mean the altered mental or psychological state brought about by such practise. Tolkien deliberately employed the variant spelling in place of the more conventional &#34;fairy&#34;, to distance himself and his reader from that spelling&#39;s connotations of daintiness and prettiness. Over the course of time, he experimented with various but always archaic spellings, including Faery and Fayery, but remained ever faithful to the same set of meanings.
@@ -42,7 +42,7 @@ Bài thơ [Bilbo Baggins](../B/Bilbo_Baggins.md)' *[Errantry](../E/Errantry.md)*
 </cite></p>
 </blockquote>
 
-Cái tên 'Faerie' thuộc về thời kỳ đầu của các tác phẩm của [Tolkien](../J/J.R.R._Tolkien.md)và chưa bao giờ được thấy trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, nhưng nó vẫn tồn tại trong một cách sử dụng duy nhất trong cuốn sách trước đó *[The Hobbit](../T/The_Hobbit.md)* trong đó ý tưởng cao cấp này mang một hình thức cụ thể hơn và ở đó nó liên quan cụ thể đến các lĩnh vực mà Tiên tộc chiếm giữ ngoài [Đại Hải](../B/Belegaer.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Cái tên 'Faerie' thuộc về thời kỳ đầu của các tác phẩm của [Tolkien](../J/J.R.R._Tolkien.md) và chưa bao giờ được thấy trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, nhưng nó vẫn tồn tại trong một cách sử dụng duy nhất trong cuốn sách trước đó *[The Hobbit](../T/The_Hobbit.md)* trong đó ý tưởng cao cấp này mang một hình thức cụ thể hơn và ở đó nó liên quan cụ thể đến các lĩnh vực mà Tiên tộc chiếm giữ ngoài [Đại Hải](../B/Belegaer.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -24,7 +24,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Oxonmoot 2018</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/St_Antony%27s_College,_Oxford" title="wikipedia:St Antony&#39;s College, Oxford">St Antony&#39;s College</a>, <a href="../U/University_of_Oxford.md" title="University of Oxford">Oxford</a></td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data">20-23 September 2018</td></tr></tbody></table>
 
-**Oxonmoot 2018**, [Oxonmoot](Oxonmoot.md) thường niên lần thứ 45 do [Hội Tolkien](../T/The_Tolkien_Society.md)tổ chức, đã diễn ra [20](../_/20_September.md)-[23 tháng Chín](../_/23_September.md) tại St Antony's College, [Oxford](../U/University_of_Oxford.md).
+**Oxonmoot 2018**, [Oxonmoot](Oxonmoot.md) thường niên lần thứ 45 do [Hội Tolkien](../T/The_Tolkien_Society.md) tổ chức, đã diễn ra [20](../_/20_September.md)-[23 tháng Chín](../_/23_September.md) tại St Antony's College, [Oxford](../U/University_of_Oxford.md).
 
 ## Liên kết ngoài {#External_links}
 

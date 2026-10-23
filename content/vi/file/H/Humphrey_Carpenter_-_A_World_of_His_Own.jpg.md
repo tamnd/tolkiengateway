@@ -37,4 +37,4 @@ file:
 
 ## Mô tả {#Description}
 
-Bài “Một thế giới của riêng mình” của [Humphrey Carpenter](../../main/H/Humphrey_Carpenter.md)đăng trên số *Sunday Telegraph Magazine* (9/11/1977).
+Bài “Một thế giới của riêng mình” của [Humphrey Carpenter](../../main/H/Humphrey_Carpenter.md) đăng trên số *Sunday Telegraph Magazine* (9/11/1977).

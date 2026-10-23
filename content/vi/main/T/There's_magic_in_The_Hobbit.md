@@ -16,7 +16,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/There&#39;s_magic_in_The_Hobbit.jpg.md"><img src="https://tolkiengateway.net/w/images/8/8b/There%27s_magic_in_The_Hobbit.jpg" decoding="async" loading="lazy" width="300" height="443" class="mw-file-element" data-file-width="300" data-file-height="443"/></a><figcaption></figcaption></figure>
 
-**Có điều kỳ diệu trong The Hobbit** là quảng cáo toàn trang của [Houghton Mifflin](../H/Houghton_Mifflin.md)cho *[The Hobbit](The_Hobbit.md)*của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được in trong [ngày 26 tháng 3](../_/26_March.md), [1938](../_/1938.md), số *Publishers Weekly*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Có điều kỳ diệu trong The Hobbit** là quảng cáo toàn trang của [Houghton Mifflin](../H/Houghton_Mifflin.md) cho *[The Hobbit](The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được in trong [ngày 26 tháng 3](../_/26_March.md), [1938](../_/1938.md), số *Publishers Weekly*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

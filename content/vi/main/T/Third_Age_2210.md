@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Vua](../K/Kings_of_Durin's_Folk.md) [Thorin I](Thorin_I.md) rời khỏi [Erebor](../L/Lonely_Mountain.md)và đi về phía bắc đến [Dãy Núi Xám](../G/Grey_Mountains.md), nơi hầu hết tàn dư của [Durin's Folk](../D/Durin's_Folk~15256.md) hiện đang tụ tập.<sup id="cite_ref-AppB2_1-0" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
+- [Vua](../K/Kings_of_Durin's_Folk.md) [Thorin I](Thorin_I.md) rời khỏi [Erebor](../L/Lonely_Mountain.md) và đi về phía bắc đến [Dãy Núi Xám](../G/Grey_Mountains.md), nơi hầu hết tàn dư của [Durin's Folk](../D/Durin's_Folk~15256.md) hiện đang tụ tập.<sup id="cite_ref-AppB2_1-0" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
 
 <span></span>
 

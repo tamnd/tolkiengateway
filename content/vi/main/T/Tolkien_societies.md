@@ -66,7 +66,7 @@ Dưới đây là danh sách các **Tolkien Hiệp hội**.
     - Vương quốc Anh:
         - [Hội Tolkien Cambridge](../C/Cambridge_Tolkien_Society.md) (hoạt động)
         - [Taruithorn - Hội Oxford Tolkien](<Taruithorn_(Tolkien_Society).md>) (hoạt động)
-        - **[Hội Tolkien](The_Tolkien_Society.md)** (hoạt động)
+        - **[Hội Tolkien](The_Tolkien_Society.md)** (đang hoạt động)
 
 - *Asia Pacific*
     - Nhật Bản: [Shiro no Norite](../S/Shiro_no_Norite.md) (không rõ)

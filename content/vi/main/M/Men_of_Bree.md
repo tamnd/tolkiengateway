@@ -51,7 +51,7 @@ Những **Người Bree** là [Người đổ bộ Bree](../B/Bree-landers.md), 
 
 Những câu chuyện của chính họ thừa nhận rằng họ là hậu duệ của Con Người đầu tiên đã lang thang đến <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Phương Tây</a> vào cuối [Kỷ Đệ Nhất](../F/First_Age.md) nhưng tổ tiên của họ đã không đến [Beleriand](../B/Beleriand.md).<sup id="cite_ref-sign_1-0" class="reference"><a href="#cite_note-sign-1">[1]</a></sup> Vào [Thời thứ hai](../S/Second_Age.md), họ sinh sống ở miền bắc [Dãy Núi Trắng](../W/White_Mountains.md), trên vùng đất mà sau này được gọi là [Calenardhon](../C/Calenardhon.md); họ là một chủng tộc [Pre-Númenóreans](../P/Pre-Númenóreans.md), có liên quan đến [Con Người của Dãy Núi](../O/Oathbreakers.md) và [Dunlendings](../D/Dunlendings.md).
 
-Trong [Những Năm Tháng Đen Tối](../D/Dark_Years.md), một số người dân này đã di cư lên phía bắc đến các thung lũng phía nam [Dãy Núi Sương Mù](Misty_Mountains.md). Cuối cùng, họ tiếp tục đến [Barrow-downs](../B/Barrow-downs.md) trước khi giải quyết khu vực xung quanh [Bree-hill](../B/Bree-hill.md)cao và rậm rạp cây cối.<sup id="cite_ref-Men_2-0" class="reference"><a href="#cite_note-Men-2">[2]</a></sup>
+Trong [Những Năm Tháng Đen Tối](../D/Dark_Years.md), một số người dân này đã di cư lên phía bắc đến các thung lũng phía nam [Dãy Núi Sương Mù](Misty_Mountains.md). Cuối cùng, họ tiếp tục đến [Barrow-downs](../B/Barrow-downs.md) trước khi giải quyết khu vực xung quanh [Bree-hill](../B/Bree-hill.md) cao và rậm rạp cây cối.<sup id="cite_ref-Men_2-0" class="reference"><a href="#cite_note-Men-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 

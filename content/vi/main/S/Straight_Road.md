@@ -34,7 +34,7 @@ images:
 <p class="tg-quote-footer"><cite><i><a href="../I/Imram.md" title="Imram">Imram</a></i>, vv. 105-108</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Con Đường Thẳng** là tuyến đường rời khỏi độ cong của [Trung Địa](../M/Middle-earth.md)xuyên qua bầu trời và không gian để đến vùng đất thanh tao của [Aman](../A/Aman.md).
+**Con Đường Thẳng** là tuyến đường rời khỏi độ cong của [Trung Địa](../M/Middle-earth.md) xuyên qua bầu trời và không gian để đến vùng đất thanh tao của [Aman](../A/Aman.md).
 
 ## Lịch sử {#History}
 

@@ -30,7 +30,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Vịnh Lớn được tạo ra trong [Trận chiến của các Quyền năng](../B/Battle_of_the_Powers.md), khi [Valar](../V/Valar.md) tiến hành cuộc chiến chống lại [Melkor](../M/Melkor.md) sau khi họ phát hiện ra [Tiên tộc](../E/Elves.md)đầu tiên. Do chiến tranh, [Belegaer](../B/Belegaer.md) đã đột nhập vào Trung Địa, tạo thành Vịnh Lớn và một số vịnh nhỏ hơn ở phía bắc, bao gồm cả [Vịnh Balar](../B/Bay_of_Balar.md).<sup id="cite_ref-Coming_1-1" class="reference"><a href="#cite_note-Coming-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vịnh Lớn được tạo ra trong [Trận chiến của các Quyền năng](../B/Battle_of_the_Powers.md), khi [Valar](../V/Valar.md) tiến hành cuộc chiến chống lại [Melkor](../M/Melkor.md) sau khi họ phát hiện ra [Tiên tộc](../E/Elves.md) đầu tiên. Do chiến tranh, [Belegaer](../B/Belegaer.md) đã đột nhập vào Trung Địa, tạo thành Vịnh Lớn và một số vịnh nhỏ hơn ở phía bắc, bao gồm cả [Vịnh Balar](../B/Bay_of_Balar.md).<sup id="cite_ref-Coming_1-1" class="reference"><a href="#cite_note-Coming-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Địa lý {#Geography}
 

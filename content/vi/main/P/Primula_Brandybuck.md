@@ -60,7 +60,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Primula là con gái út<sup id="cite_ref-party_1-0" class="reference"><a href="#cite_note-party-1">[1]</a></sup> của [Gorbadoc Brandybuck](../G/Gorbadoc_Brandybuck.md) và [Mirabella Took](../M/Mirabella_Took.md). Cô kết hôn với [Drogo Baggins](../D/Drogo_Baggins.md)và có một con, [Frodo](../F/Frodo_Baggins.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cuối [S.R.](../S/Shire_Reckoning.md) [1380](../T/Third_Age_2980.md), cô và chồng bị chết đuối khi đi chèo thuyền trên sông [Brandywine](../B/Baranduin.md).<sup id="cite_ref-party_1-1" class="reference"><a href="#cite_note-party-1">[1]</a></sup>
+Primula là con gái út<sup id="cite_ref-party_1-0" class="reference"><a href="#cite_note-party-1">[1]</a></sup> của [Gorbadoc Brandybuck](../G/Gorbadoc_Brandybuck.md) và [Mirabella Took](../M/Mirabella_Took.md). Cô kết hôn với [Drogo Baggins](../D/Drogo_Baggins.md) và có một con, [Frodo](../F/Frodo_Baggins.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cuối [S.R.](../S/Shire_Reckoning.md) [1380](../T/Third_Age_2980.md), cô và chồng bị chết đuối khi đi chèo thuyền trên sông [Brandywine](../B/Baranduin.md).<sup id="cite_ref-party_1-1" class="reference"><a href="#cite_note-party-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

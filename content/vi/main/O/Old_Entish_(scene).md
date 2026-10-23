@@ -49,7 +49,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Treebeard](../T/Treebeard.md) tạm thời quay lưng lại với [Entmoot](../E/Entmoot.md) để nói với [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) rằng họ đã được quyết định không phải là [Orc](Orcs.md). Merry hỏi liệu họ đã đưa ra quyết định liên quan đến [Saruman](../S/Saruman.md)chưa, Treebeard nói "Đừng vội vàng".
+[Treebeard](../T/Treebeard.md) tạm thời quay lưng lại với [Entmoot](../E/Entmoot.md) để nói với [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) rằng họ đã được quyết định không phải là [Orc](Orcs.md). Merry hỏi liệu họ đã đưa ra quyết định liên quan đến [Saruman](../S/Saruman.md) chưa, Treebeard nói "Đừng vội vàng".
 
 <blockquote class="tg-quote noexcerpt">
 <p>Hasty? Our friends are out there. They need our help.

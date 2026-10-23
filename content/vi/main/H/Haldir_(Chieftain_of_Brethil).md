@@ -96,7 +96,7 @@ infobox:
 
 Anh kết hôn với [Glóredhel](../G/Glóredhel.md) của [Nhà Hador](House_of_Hador.md) và họ có một con trai tên là [Handir](Handir.md). Ông cũng đã nuôi dưỡng các cháu trai [Húrin](Húrin.md) và [Huor](Huor.md) của họ trong những năm thơ ấu của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Haldir gia nhập [Liên minh Maedhros](../U/Union_of_Maedhros.md) và lãnh đạo lực lượng [Haladin](Haladin.md) trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md)thảm khốc. [Fingon](../F/Fingon.md) cố gắng rút lui qua [Anfauglith](../A/Anfauglith.md) được bao phủ bởi Haldir, nhưng anh ta đã bị giết cùng với phần lớn Con Người của mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Haldir gia nhập [Liên minh Maedhros](../U/Union_of_Maedhros.md) và lãnh đạo lực lượng [Haladin](Haladin.md) trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md) thảm khốc. [Fingon](../F/Fingon.md) cố gắng rút lui qua [Anfauglith](../A/Anfauglith.md) được bao phủ bởi Haldir, nhưng anh ta đã bị giết cùng với phần lớn Con Người của mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Tin tức về cái chết của ông khiến Glóredhel chết vì đau buồn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Ông được con trai [Handir](Handir.md) kế vị làm Thủ lĩnh của Haladin.
 

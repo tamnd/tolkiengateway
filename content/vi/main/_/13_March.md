@@ -74,10 +74,10 @@ Sự kiện xảy ra vào ngày 13 tháng 3.
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
     - [Borondir](../B/Borondir.md) và người bạn đồng hành của anh ấy đang trên đường tìm kiếm [Éothéod](Éothéod.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Frodo](../F/Frodo_Baggins.md) bị [Shelob](../S/Shelob.md) đốt và sau đó bị [Orc](../O/Orcs.md) của [Cirith Ungol](../C/Cirith_Ungol.md)bắt giữ.
-    - Các [Causeway Pháo đài](../C/Causeway_Forts.md) thất thủ và [Ramas Echor](../R/Rammas_Echor.md) bị chọc thủng.
+    - [Frodo](../F/Frodo_Baggins.md) bị [Shelob](../S/Shelob.md) đốt và sau đó bị [Orc](../O/Orcs.md) của [Cirith Ungol](../C/Cirith_Ungol.md) bắt giữ.
+    - [Causeway Pháo đài](../C/Causeway_Forts.md) thất thủ và [Ramas Echor](../R/Rammas_Echor.md) bị chọc thủng.
     - [Faramir](../F/Faramir.md) bị thương khi đang dẫn quân hậu quân. Anh ta được cứu bởi một nhóm hiệp sĩ của [Dol Amroth](../D/Dol_Amroth.md) và [Gandalf](../G/Gandalf.md).
-    - [Pelennor](../P/Pelennor_Fields.md) bị kẻ thù của [Gondor](../G/Gondor.md)tràn ngập.
+    - [Pelennor](../P/Pelennor_Fields.md) bị kẻ thù của [Gondor](../G/Gondor.md) tràn ngập.
     - [Faramir](../F/Faramir.md) được đưa về [Minas Tirith](../M/Minas_Tirith.md) bị thương nặng.
     - [Aragorn](../A/Aragorn.md) đến [Pelargir](../P/Pelargir.md) và bắt giữ [hạm đội](../C/Corsairs_of_Umbar.md).
     - Chiếc [Rohirrim](../R/Rohirrim.md) di chuyển về phía [Minas Tirith](../M/Minas_Tirith.md). Họ băng qua [Rừng Drúadan](../D/Drúadan_Forest.md).

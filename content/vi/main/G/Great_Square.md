@@ -19,7 +19,7 @@ images:
 
 **Quảng trường lớn**, còn được gọi là **Tòa án Vua**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§130</sup> là một hình vuông ở đỉnh [Túna](../T/Túna.md), ở [Tirion](../T/Tirion.md), thành phố lớn của [Tiên tộc Valinor](../E/Elves_of_Valinor.md), nơi có cái cây [Galathilion](Galathilion.md) đứng dưới [Mindon Eldaliéva](../M/Mindon_Eldaliéva.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Đó là địa điểm mà [Fëanor](../F/Fëanor.md) đe dọa người anh cùng cha khác mẹ của mình [Fingolfin](../F/Fingolfin.md) ở nơi công cộng,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và là nơi sau đó anh ta đã có [bài phát biểu tuyệt vời](../S/Speech_of_Fëanor.md) và [Lời Thề](../O/Oath_of_Fëanor.md)khét tiếng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Đó là địa điểm mà [Fëanor](../F/Fëanor.md) đe dọa người anh cùng cha khác mẹ của mình [Fingolfin](../F/Fingolfin.md) ở nơi công cộng,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và là nơi sau đó anh ta đã có [bài phát biểu tuyệt vời](../S/Speech_of_Fëanor.md) và [Lời Thề](../O/Oath_of_Fëanor.md) khét tiếng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

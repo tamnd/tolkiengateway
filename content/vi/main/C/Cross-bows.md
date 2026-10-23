@@ -12,7 +12,7 @@ categories:
   - "Weapons"
 ---
 
-**Nỏ** chỉ được biết đến là đã được nhắc đến một lần trong các câu chuyện về [Arda](../A/Arda.md), như một loại vũ khí do [người Númenor](../N/Númenóreans.md)nghĩ ra. Mặc dù được sử dụng đặc biệt để bắn [chim](../../category/B/Birds.md) săn mồi, nỏ dường như cũng được sử dụng trong [Númenor](../N/Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Nỏ** chỉ được biết đến là đã được nhắc đến một lần trong các câu chuyện về [Arda](../A/Arda.md), như một loại vũ khí do [người Númenor](../N/Númenóreans.md) nghĩ ra. Mặc dù được sử dụng đặc biệt để bắn [chim](../../category/B/Birds.md) săn mồi, nỏ dường như cũng được sử dụng trong [Númenor](../N/Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -24,11 +24,11 @@ categories:
 
 <dl><dd>In the film, the <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a> use fairly large crossbows at <a href="../H/Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a>, presumably designed by Saruman. The Uruk crossbowmen are featured relatively little in scenes during the siege, mainly at the beginning and while trying to conquer the first gatehouse of the fortress, shooting at the defenders through gaps in the damaged gate. They use their crossbows with ease and deadly accuracy. Though the crossbows are reloaded somewhat slower than a bow, they feature an integrated spanning lever, which allows for faster spanning of the bowstring and makes additional spanning tools unnecessary. In the behind the scenes documentaries of the film&#39;s Extended Edition, concept artist <a href="../J/John_Howe.md" title="John Howe">John Howe</a> and production designer <a href="../R/Richard_Taylor.md" title="Richard Taylor">Richard Taylor</a> briefly discuss and demonstrate the Uruk crossbow props, made by Weta Workshop. Howe reveals that the inspiration for the crossbow came from an early 16th century design, found in the <i>Codex Löffelholz</i> manuscript from Germany.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
 <dl><dd>Uruk crossbowmen are portrayed as a deadly fighting unit.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Crossbows are available to player characters as handheld ranged weapons. They are less common than bows. Some player character classes, such as the Champion, are not allowed to use the weapon.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 

@@ -56,7 +56,7 @@ Tuy nhiên, không giống như bất kỳ người quản lý nào trước đ�
 
 Trong thời gian phục vụ, Húrin đã nỗ lực rất nhiều trong việc đặt hàng Gondor trong những ngày [Đại Dịch](../G/Great_Plague.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Sau đó, những người thừa kế của Minardil quyết định chọn Quản gia của riêng họ không phải từ bất kỳ [người Gondor](../G/Gondorians.md)quý tộc nào mà từ các con trai và hậu duệ của Húrin; do đó Quyền quản lý được kết nối với [Nhà Húrin](House_of_Húrin.md), và [sau một số thế hệ](../P/Pelendur.md) nó trở thành cha truyền con nối.<sup id="cite_ref-Stewards_3-1" class="reference"><a href="#cite_note-Stewards-3">[3]</a></sup>
+Sau đó, những người thừa kế của Minardil quyết định chọn Quản gia của riêng họ không phải từ bất kỳ [người Gondor](../G/Gondorians.md) quý tộc nào mà từ các con trai và hậu duệ của Húrin; do đó Quyền quản lý được kết nối với [Nhà Húrin](House_of_Húrin.md), và [sau một số thế hệ](../P/Pelendur.md) nó trở thành cha truyền con nối.<sup id="cite_ref-Stewards_3-1" class="reference"><a href="#cite_note-Stewards-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -113,7 +113,7 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>, &#34;<a href="../O/Of_Eldamar_and_the_Princes_of_the_Eldalië.md" title="Of Eldamar and the Princes of the Eldalië">Of Eldamar and the Princes of the Eldalië</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Ingwë** là Vua của [Vanyar](../V/Vanyar.md)và Đại Vương của Tiên tộc.<sup id="cite_ref-princes_8-0" class="reference"><a href="#cite_note-princes-8">[8]</a></sup>
+**Ingwë** là Vua của [Vanyar](../V/Vanyar.md) và Đại Vương của Tiên tộc.<sup id="cite_ref-princes_8-0" class="reference"><a href="#cite_note-princes-8">[8]</a></sup>
 
 ## Lịch sử {#History}
 
@@ -188,7 +188,7 @@ Khi Inwë đến Valinor, anh tràn đầy ngạc nhiên và khao khát ánh sá
 
 Sau đó, Inwë trở thành thủ lĩnh của [Teleri](../V/Vanyar.md), gia tộc đầu tiên của Tiên tộc và dẫn dắt họ đến Valinor. Anh ta cũng được coi là người lớn tuổi nhất<sup id="cite_ref-Dea_22-0" class="reference"><a href="#cite_note-Dea-22">[21]</a></sup> và<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[22]</a></sup> vĩ đại nhất trong tất cả Tiên tộc, và sau đó được coi là Vua của tất cả Eldar,<sup id="cite_ref-Gil_24-0" class="reference"><a href="#cite_note-Gil-24">[23]</a></sup> và nhà của anh ta nằm ở điểm cao nhất ở [Kôr](../K/Kôr.md), một thành phố yêu tinh vĩ đại ở Valinor, nơi có [tháp bạc](../M/Mindon_Eldaliéva.md#Other_versions_of_the_legendarium) "bắn lên trời như một cây kim".<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[24]</a></sup> Valar cũng tặng cho Inwë một cây giống của một trong những Hai Cây, "nở hoa vĩnh viễn không tàn" trong sân của ông.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[25]</a></sup>
 
-Nhiều năm sau, sau [sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Tiên tộc của [Kôr](../K/Kôr.md) nghe về hoàn cảnh khó khăn của những [Gnomes](../G/Gnomes.md) bị [Melko](../M/Melko.md)bắt làm nô lệ và trái với mong muốn của Valar, Inwë đã dẫn họ đến [Great Lands](../G/Great_Lands.md) để gây chiến với Melko.
+Nhiều năm sau, sau [sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Tiên tộc của [Kôr](../K/Kôr.md) nghe về hoàn cảnh khó khăn của những [Gnomes](../G/Gnomes.md) bị [Melko](../M/Melko.md) bắt làm nô lệ và trái với mong muốn của Valar, Inwë đã dẫn họ đến [Great Lands](../G/Great_Lands.md) để gây chiến với Melko.
 
 Và mặc dù Tiên tộc đã chiến thắng, Melko bị đánh bại và bị ràng buộc bởi [Tulkas](../T/Tulkas.md), tuy nhiên, Inwë vẫn bị giết trong chiến tranh.<sup id="cite_ref-Dea_22-1" class="reference"><a href="#cite_note-Dea-22">[21]</a></sup>
 

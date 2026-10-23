@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Thẻ thành viên của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)từ [Hiệp hội Frodo Bắc Borneo](../../main/N/North_Borneo_Frodo_Society.md).
+Thẻ thành viên của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) từ [Hiệp hội Frodo Bắc Borneo](../../main/N/North_Borneo_Frodo_Society.md).
 
 ## Giấy phép {#Licensing}
 

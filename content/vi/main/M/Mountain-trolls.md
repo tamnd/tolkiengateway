@@ -19,7 +19,7 @@ images:
 
 **Quỷ núi** đã được [Sauron](../S/Sauron.md) sử dụng để sử dụng chiếc máy đập phá lớn, [Grond](<../G/Grond_(battering_ram).md>), tại [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Không có tài liệu nào khác đề cập đến quỷ núi trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), vì vậy không thể biết gì khác về những sinh vật này. Người ta chỉ có thể cho rằng giống [troll đồi](../T/Troll.md) này sống ở một số [ngọn núi](../../category/M/Mountains.md) của [Trung Địa](Middle-earth.md)và chúng lớn hơn [troll đồi](../H/Hill-trolls.md) hoặc một tên gọi khác của troll đồi.
+Không có tài liệu nào khác đề cập đến quỷ núi trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), vì vậy không thể biết gì khác về những sinh vật này. Người ta chỉ có thể cho rằng giống [troll đồi](../T/Troll.md) này sống ở một số [ngọn núi](../../category/M/Mountains.md) của [Trung Địa](Middle-earth.md) và chúng lớn hơn [troll đồi](../H/Hill-trolls.md) hoặc một tên gọi khác của troll đồi.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

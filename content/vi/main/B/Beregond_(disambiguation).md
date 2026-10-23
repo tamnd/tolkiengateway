@@ -28,11 +28,11 @@ images:
 ## Trung Địa {#Middle-earth}
 
 - [Beregond](<Beregond_(Steward_of_Gondor).md>) ([T.A.](../T/Third_Age.md) [2700](../T/Third_Age_2700.md) - [2811](../T/Third_Age_2811.md)), [Quản lý cầm quyền](../R/Ruling_Steward.md) thứ hai mươi của [Gondor](../G/Gondor.md).
-- **[Beregond](Beregond.md) (fl. [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)), người hướng dẫn của [Pippin](../P/Peregrin_Took.md)trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) và là Đội trưởng của [Đại đội Trắng](../W/White_Company.md).**
+- **[Beregond](Beregond.md) (fl. [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)), người hướng dẫn của [Pippin](../P/Peregrin_Took.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) và là Đội trưởng của [Đại đội Trắng](../W/White_Company.md).**
 
 ### Tương tự {#Similar}
 
-- [Baragund](Baragund.md): Một trong [mười hai](../X/XII_Bëorings.md) [người theo dõi](Bëorings.md) của [Barahir](Barahir.md)và là cha của [Morwen](../M/Morwen.md)
+- [Baragund](Baragund.md): Một trong [mười hai](../X/XII_Bëorings.md) [người theo dõi](Bëorings.md) của [Barahir](Barahir.md) và là cha của [Morwen](../M/Morwen.md)
 
 ## Đời thực {#Real_Life}
 

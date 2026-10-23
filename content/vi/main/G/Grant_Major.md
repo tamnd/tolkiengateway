@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Major, Grant"
 ---
 
-**Grant Major** ([1955](../_/1955.md)) là nhà thiết kế sản xuất cho [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>). Anh ấy giám sát việc tạo các bộ như [Rivendell](../R/Rivendell.md), [Hobbiton](../H/Hobbiton.md), [Moria](../M/Moria.md)và các bộ khác. Chủ nghĩa hiện thực và chi tiết là điều bắt buộc khi chuyển [Trung Địa](../M/Middle-earth.md) lên màn ảnh, nếu không có chủ nghĩa hoàn hảo của Major thì các bộ phim sẽ khác đi rất nhiều.
+**Grant Major** ([1955](../_/1955.md)) là nhà thiết kế sản xuất cho [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>). Anh ấy giám sát việc tạo các bộ như [Rivendell](../R/Rivendell.md), [Hobbiton](../H/Hobbiton.md), [Moria](../M/Moria.md) và các bộ khác. Chủ nghĩa hiện thực và chi tiết là điều bắt buộc khi chuyển [Trung Địa](../M/Middle-earth.md) lên màn ảnh, nếu không có chủ nghĩa hoàn hảo của Major thì các bộ phim sẽ khác đi rất nhiều.
 
 ## Trích dẫn {#Quotes}
 

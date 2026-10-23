@@ -24,7 +24,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Akallabêth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Sweden</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Black metal</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">1996</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">Witch-King</td></tr></tbody></table>
 
-**Akallabêth** là ban nhạc black metal liên quan đến Tolkien đến từ Thụy Điển. Ban nhạc lấy tên từ [Akallabêth](Akallabêth.md), câu chuyện về sự sụp đổ của [Númenor](../N/Númenor.md)và lời bài hát của nó lấy cảm hứng từ huyền thoại của Tolkien. Bản demo *Barad Dûr* năm 1996 của nó có các bài hát như "Orodruin", "Nirnaeth Arnoediad" và "Ered Gorgoroth".
+**Akallabêth** là ban nhạc black metal liên quan đến Tolkien đến từ Thụy Điển. Ban nhạc lấy tên từ [Akallabêth](Akallabêth.md), câu chuyện về sự sụp đổ của [Númenor](../N/Númenor.md) và lời bài hát của nó lấy cảm hứng từ huyền thoại của Tolkien. Bản demo *Barad Dûr* năm 1996 của nó có các bài hát như "Orodruin", "Nirnaeth Arnoediad" và "Ered Gorgoroth".
 
 ## Thành viên {#Members}
 

@@ -12,7 +12,7 @@ categories:
   - "Regions"
 ---
 
-**Fantasie** là một vùng đất thần thoại,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> có thể chỉ là một phát minh của [Bilbo Baggins](../B/Bilbo_Baggins.md) cho bài thơ [Errantry](../E/Errantry.md)của ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+**Fantasie** là một vùng đất thần thoại,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> có thể chỉ là một phát minh của [Bilbo Baggins](../B/Bilbo_Baggins.md) cho bài thơ [Errantry](../E/Errantry.md) của ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

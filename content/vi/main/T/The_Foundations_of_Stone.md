@@ -35,7 +35,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Bộ phim bắt đầu với cảnh [Dãy Núi Sương Mù](../M/Misty_Mountains.md)từ trên không. Sau đó, chúng ta thấy đoạn tóm tắt về cuộc đối đầu của [Gandalf](../G/Gandalf.md)với [Balrog](../D/Durin's_Bane.md) trong cảnh "[The Cầu Khazad-dûm](<The_Bridge_of_Khazad-dûm_(scene).md>)" từ [*The Fellowship of the Ring*](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md). Gandalf báo cho Balrog nó không thể vượt qua, sau đó làm gãy [cây cầu](../B/Bridge_of_Khazad-dûm.md), khiến nó rơi xuống vực thẳm. Tuy nhiên, khi rơi xuống, nó vung roi lên trên và kéo Gandalf qua mép.
+Bộ phim bắt đầu với cảnh [Dãy Núi Sương Mù](../M/Misty_Mountains.md) từ trên không. Sau đó, chúng ta thấy đoạn tóm tắt về cuộc đối đầu của [Gandalf](../G/Gandalf.md) với [Balrog](../D/Durin's_Bane.md) trong cảnh "[The Cầu Khazad-dûm](<The_Bridge_of_Khazad-dûm_(scene).md>)" từ [*The Fellowship of the Ring*](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md). Gandalf báo cho Balrog nó không thể vượt qua, sau đó làm gãy [cây cầu](../B/Bridge_of_Khazad-dûm.md), khiến nó rơi xuống vực thẳm. Tuy nhiên, khi rơi xuống, nó vung roi lên trên và kéo Gandalf qua mép.
 
 Gandalf và Balrog cùng rơi xuống, chiến đấu, vào một vực sâu dường như không đáy, cho đến khi cuối cùng họ lao xuống nước. Vào lúc đó, cảnh chuyển sang [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) trong [Emyn Muil](../E/Emyn_Muil.md), nơi Frodo giật mình tỉnh giấc và gọi tên Gandalf. trấn an Sam rằng không có chuyện gì, chỉ là mơ thôi, Frodo lại nằm xuống.
 

@@ -22,7 +22,7 @@ images:
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Christopher_Tolkien_-_Map_of_Beleriand_2.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a7/Christopher_Tolkien_-_Map_of_Beleriand_2.jpg/300px-Christopher_Tolkien_-_Map_of_Beleriand_2.jpg" decoding="async" loading="lazy" width="300" height="263" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/Christopher_Tolkien_-_Map_of_Beleriand_2.jpg/450px-Christopher_Tolkien_-_Map_of_Beleriand_2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/Christopher_Tolkien_-_Map_of_Beleriand_2.jpg/600px-Christopher_Tolkien_-_Map_of_Beleriand_2.jpg 2x" data-file-width="2820" data-file-height="2472"/></a><figcaption><i>Map of Beleriand</i> by <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></figcaption></figure>
 
-**Tây Beleriand** bao phủ vùng đất [Beleriand](../B/Beleriand.md) phía Tây Sông [Sirion](../S/Sirion.md); phần lớn họ nằm dưới quyền lãnh đạo của [Finrod Felagund](../F/Finrod.md) ở [Nargothrond](../N/Nargothrond.md)và [Círdan](../C/Círdan.md) Thợ đóng tàu ở [Falas](../F/Falas.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Tây Beleriand** bao phủ vùng đất [Beleriand](../B/Beleriand.md) phía Tây Sông [Sirion](../S/Sirion.md); phần lớn họ nằm dưới quyền lãnh đạo của [Finrod Felagund](../F/Finrod.md) ở [Nargothrond](../N/Nargothrond.md) và [Círdan](../C/Círdan.md) Thợ đóng tàu ở [Falas](../F/Falas.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Địa lý {#Geography}
 

@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Ông ấy nhìn thấy hình ảnh Gondolin Giữa Tuyết" của [Ted Nasmith](../../main/T/Ted_Nasmith.md), mô tả việc [Tuor](../../main/T/Tuor.md)đến [Gondolin](../../main/G/Gondolin.md) trong mùa đông. Nó xuất hiện lần đầu trong ấn bản minh họa của *[Unfinished Tales](../../main/U/Unfinished_Tales.md)*, được xuất bản bởi [HarperCollins](../../main/H/HarperCollins.md) trong [2020](../../main/_/2020.md).
+"Ông ấy nhìn thấy hình ảnh Gondolin Giữa Tuyết" của [Ted Nasmith](../../main/T/Ted_Nasmith.md), mô tả việc [Tuor](../../main/T/Tuor.md) đến [Gondolin](../../main/G/Gondolin.md) trong mùa đông. Nó xuất hiện lần đầu trong ấn bản minh họa của *[Unfinished Tales](../../main/U/Unfinished_Tales.md)*, được xuất bản bởi [HarperCollins](../../main/H/HarperCollins.md) trong [2020](../../main/_/2020.md).
 
 Người chiến thắng [ Giải thưởng của Hội Tolkien](../../main/T/The_Tolkien_Society_Award.md) cho Tác phẩm nghệ thuật xuất sắc nhất trong [2021](../../main/_/2021.md).
 

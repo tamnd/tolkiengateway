@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Đây là bản phác họa mũi tên được bắn bởi [Bard the Bowman](../../main/B/Bard.md) tìm thấy dấu vết của nó ở bụng [Smaug](../../main/S/Smaug.md)phía trên ngọn lửa [Thị trấn Hồ](../../main/L/Lake-town.md). Từ [The Hobbit](../../main/T/The_Hobbit.md) Chương 14, [Lửa và Nước](../../main/F/Fire_and_Water.md) cũng được xuất bản trong Lịch J.R.R. Tolkien 1973 và 1974. Dòng chữ bên trái bức tranh có nội dung: 'Mặt trăng lẽ ra phải là hình lưỡi liềm: chỉ mới vài đêm sau Mặt Trăng mới vào Ngày Durin'; ở góc dưới bên trái: 'Rồng phải có một điểm trống màu trắng nơi mũi tên đi vào'; và ở phía dưới: 'Bard the Bowman phải đứng sau khi thả mũi tên ở điểm cực bên trái của cọc.'
+Đây là bản phác họa mũi tên được bắn bởi [Bard the Bowman](../../main/B/Bard.md) tìm thấy dấu vết của nó ở bụng [Smaug](../../main/S/Smaug.md) phía trên ngọn lửa [Thị trấn Hồ](../../main/L/Lake-town.md). Từ [The Hobbit](../../main/T/The_Hobbit.md) Chương 14, [Lửa và Nước](../../main/F/Fire_and_Water.md) cũng được xuất bản trong Lịch J.R.R. Tolkien 1973 và 1974. Dòng chữ bên trái bức tranh có nội dung: 'Mặt trăng lẽ ra phải là hình lưỡi liềm: chỉ mới vài đêm sau Mặt Trăng mới vào Ngày Durin'; ở góc dưới bên trái: 'Rồng phải có một điểm trống màu trắng nơi mũi tên đi vào'; và ở phía dưới: 'Bard the Bowman phải đứng sau khi thả mũi tên ở điểm cực bên trái của cọc.'
 
 ## Giấy phép {#Licensing}
 

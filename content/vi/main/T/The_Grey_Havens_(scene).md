@@ -54,7 +54,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Frodo](../F/Frodo.md), [Sam](../S/Sam.md), [Merry](../M/Merry.md), [Pippin](../P/Pippin.md)và [Gandalf](../G/Gandalf.md) đến [Cảng Xám](../G/Grey_Havens.md) với [Bilbo](../B/Bilbo.md), nơi có một con tàu đang chờ cập bến [Phương Tây](../V/Valinor.md). Họ được chào đón bởi [Galadriel](../G/Galadriel.md), [Celeborn](../C/Celeborn.md)và [Elrond](../E/Elrond.md), họ nói *"The [Sea](../S/Sea.md) calls us home"*. Người hobbit lớn tuổi mỉm cười và háo hức lên tàu.
+[Frodo](../F/Frodo.md), [Sam](../S/Sam.md), [Merry](../M/Merry.md), [Pippin](../P/Pippin.md) và [Gandalf](../G/Gandalf.md) đến [Cảng Xám](../G/Grey_Havens.md) với [Bilbo](../B/Bilbo.md), nơi có một con tàu đang chờ cập bến [Phương Tây](../V/Valinor.md). Họ được chào đón bởi [Galadriel](../G/Galadriel.md), [Celeborn](../C/Celeborn.md) và [Elrond](../E/Elrond.md), họ nói *"The [Sea](../S/Sea.md) calls us home"*. Người hobbit lớn tuổi mỉm cười và háo hức lên tàu.
 
 Gandalf mỉm cười và Merry, Pippin và Sam không cầm được nước mắt khi [phù thủy](../W/Wizard.md) nói với họ rằng [Tình bạn](../F/Fellowship.md) của họ cuối cùng đã kết thúc. Anh ta đi về phía con tàu đang chờ và quay lại phía họ và nói *"It is time, Frodo"*. Ba hobbit còn lại nhận ra rằng Frodo sẽ khởi hành [Trung Địa](../M/Middle-earth.md); anh ấy nói với họ rằng [ Shire](The_Shire.md) đã được cứu, nhưng không phải cho anh ấy. *"You don't mean that"*, Sam tuyệt vọng nói. Frodo đưa cho anh ấy một [sổ đỏ](../R/Red_Book_of_Westmarch.md) và nói rằng những trang cuối cùng là dành cho anh ấy. Quay sang Merry và Pippin, anh lần lượt ôm từng người trước khi quay lại Sam. Hai hobbit nhìn nhau trước khi ôm nhau lần cuối, Sam khóc trên vai Frodo.
 

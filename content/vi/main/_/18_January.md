@@ -67,7 +67,7 @@ Sự kiện xảy ra vào ngày 18 tháng 1.
 ## Trên Trái đất {#On_Earth}
 
 - **[1857](1857.md)** - [Cha Francis](../F/Francis_Xavier_Morgan.md), người chăm sóc và là "người cha thứ hai" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), ra đời.
-- **[1934](1934.md)** - Bài thơ "[Looney](../L/Looney.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)được đăng trên *The Oxford Magazine*.
+- **[1934](1934.md)** - Bài thơ "[Looney](../L/Looney.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được đăng trên *The Oxford Magazine*.
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 55](../L/Letter_55.md).
 - **[1945](1945.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 95](../L/Letter_95.md).
 - **[1948](1948.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho J.L.N. O'Loughlin](<../L/Letter_to_J.L.N._O'Loughlin_(18_January_1948).md>).
@@ -80,4 +80,4 @@ Sự kiện xảy ra vào ngày 18 tháng 1.
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
-    - [Saruman](../S/Saruman.md) nghe được [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) và cử một đại đội do [Uglúk](../U/Uglúk.md) chỉ huy đến chặn chúng.
+    - [Saruman](../S/Saruman.md) nghe được [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) và cử một đại đội do [Uglúk](../U/Uglúk.md) chỉ huy để chặn chúng.

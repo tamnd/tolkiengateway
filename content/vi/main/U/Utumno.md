@@ -78,7 +78,7 @@ Melkor đã sử dụng Utumno làm căn cứ hoạt động của mình từ [V
 
 Utumno đã bị lãng phí trong [Y.T.](../Y/Years_of_the_Trees.md) [1099](../Y/Year_of_the_Trees_1099.md), trong [cuộc chiến](../B/Battle_of_the_Powers.md) mà Valar tiến hành chống lại Melkor vì lợi ích của Tiên tộc. [Valar](../V/Valar.md) tấn công toàn lực, cho đến khi họ phá được cổng và tốc mái; Melkor trốn ở hố sâu nhất, nhưng họ đã mang anh ta đến [Valinor](../V/Valinor.md) làm tù nhân. Melkor bị [xiềng xích](../C/Chaining_of_Melkor.md) bị giam giữ như một tù nhân.<sup id="cite_ref-Captivity_1-2" class="reference"><a href="#cite_note-Captivity-1">[1]</a></sup>
 
-Melkor đã thành lập một pháo đài thứ hai và nhỏ hơn ở đầu phía tây của [Ered Engrin](../I/Iron_Mountains.md) để hoạt động như tuyến phòng thủ đầu tiên cho Utumno từ Aman.<sup id="cite_ref-Captivity_1-3" class="reference"><a href="#cite_note-Captivity-1">[1]</a></sup> Pháo đài này trở thành [Angband](../A/Angband.md), lúc đầu do [Sauron](../S/Sauron.md)nắm giữ. Sau khi Utumno bị phá hủy, Melkor đã chọn xây dựng lại và củng cố Angband làm hang ổ của mình.
+Melkor đã thành lập một pháo đài thứ hai và nhỏ hơn ở đầu phía tây của [Ered Engrin](../I/Iron_Mountains.md) để hoạt động như tuyến phòng thủ đầu tiên cho Utumno từ Aman.<sup id="cite_ref-Captivity_1-3" class="reference"><a href="#cite_note-Captivity-1">[1]</a></sup> Pháo đài này trở thành [Angband](../A/Angband.md), lúc đầu do [Sauron](../S/Sauron.md) nắm giữ. Sau khi Utumno bị phá hủy, Melkor đã chọn xây dựng lại và củng cố Angband làm hang ổ của mình.
 
 ## Từ nguyên {#Etymology}
 
@@ -86,7 +86,7 @@ Tên *Utumno*, chứa gốc *Utumnu-*. Một phiên bản cũ hơn của cái t�
 
 Trong *[Annals of Aman](../A/Annals_of_Aman.md)*, Tolkien viết: "Utupnŭ √TUP che đậy; ẩn náu" và "thành trì đó mãi mãi được gọi là Utumno Vùng ẩn sâu";<sup id="cite_ref-P2a_3-1" class="reference"><a href="#cite_note-P2a-3">[3]</a></sup> trong khi ở *[The Etymologies](../T/The_Etymologies.md)*, [gốc](../R/Root.md) là TUB và dạng ban đầu của tên được đặt là *Utubnu*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-<i><b>Udûn</b></i> là tên [Sindarin](../S/Sindarin.md) ít được sử dụng hơn của Utumno. Nó có nghĩa là "hố đen, Thế giới ngầm"<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> hoặc "địa ngục".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, tên này chỉ xuất hiện một lần, theo cách nói của [Gandalf](../G/Gandalf.md)đối với [Tai họa của Durin](../D/Durin's_Bane.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+<i><b>Udûn</b></i> là tên [Sindarin](../S/Sindarin.md) ít được sử dụng hơn của Utumno. Nó có nghĩa là "hố đen, Thế giới ngầm"<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> hoặc "địa ngục".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, tên này chỉ xuất hiện một lần, theo cách nói của [Gandalf](../G/Gandalf.md) đối với [Tai Họa của Durin](../D/Durin's_Bane.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 Tuy nhiên, nó vẫn tồn tại dưới dạng tên cho [thung lũng phía bắc](<Udûn_(valley).md>) của [Mordor](../M/Mordor.md) nằm phía sau [Morannon](../M/Morannon.md). Không còn nghi ngờ gì nữa, [Sauron](../S/Sauron.md) đã chọn cái tên này để tưởng nhớ thành trì vĩ đại nhất của chủ nhân thời xưa.
 

@@ -59,7 +59,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Là con trai cả của [Old Took](../G/Gerontius_Took.md), thời gian cai trị của Isengrim rất ngắn. Do tuổi thọ của cha ông nên ông đã gần chín mươi khi trở thành [Thain](../T/Thain.md)và cai trị mười năm trước khi qua đời. Vì không có con riêng nên anh trai [Isumbras](Isumbras_Took_IV.md) của ông trở thành Thain.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> mới
+Là con trai cả của [Old Took](../G/Gerontius_Took.md), thời gian cai trị của Isengrim rất ngắn. Do tuổi thọ của cha ông nên ông đã gần chín mươi khi trở thành [Thain](../T/Thain.md) và cai trị mười năm trước khi qua đời. Vì không có con riêng nên anh trai [Isumbras](Isumbras_Took_IV.md) của ông trở thành Thain.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> mới
 
 ## Từ nguyên {#Etymology}
 

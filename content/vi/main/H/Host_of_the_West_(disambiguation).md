@@ -17,8 +17,8 @@ images:
 **Đạo quân Phương Tây** đề cập đến một số đội quân trong lịch sử của [Trung Địa](../M/Middle-earth.md):
 
 - Từ [Đạo quân Phương Tây](Host_of_the_Valar.md) đầu tiên đề cập đến liên minh vĩ đại đã chiến đấu trong [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md) vào cuối [Kỷ Đệ Nhất](../F/First_Age.md).
-- [Đạo quân Phương Tây](<Host_of_the_West_(Arnor).md>) thứ hai đề cập đến đội quân đồng minh của [Tiên tộc](../E/Elves.md), [Con Người](../M/Men.md)và [Hobbit](Hobbits.md) dưới quyền [Eärnur](../E/Eärnur.md) và [Cirdan](../C/Cirdan.md) đã chiến đấu trong [Trận Fornost](../B/Battle_of_Fornost.md).
-- [Đạo quân Phương Tây](../A/Army_of_the_West.md) cuối cùng đề cập đến lực lượng đồng minh của [Gondor](../G/Gondor.md), [Rohan](../R/Rohan.md)và [Đại đội Grey](../G/Grey_Company.md) khi kết thúc [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
+- [Đạo quân Phương Tây](<Host_of_the_West_(Arnor).md>) thứ hai đề cập đến đội quân đồng minh của [Tiên tộc](../E/Elves.md), [Con Người](../M/Men.md) và [Hobbit](Hobbits.md) dưới quyền [Eärnur](../E/Eärnur.md) và [Cirdan](../C/Cirdan.md) đã chiến đấu trong [Trận Fornost](../B/Battle_of_Fornost.md).
+- [Đạo quân Phương Tây](../A/Army_of_the_West.md) cuối cùng đề cập đến lực lượng đồng minh của [Gondor](../G/Gondor.md), [Rohan](../R/Rohan.md) và [Đại đội Grey](../G/Grey_Company.md) khi kết thúc [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
 
 <hr style="margin-top:15px;"/>
 

@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ảnh ghép các bản đồ có chú thích (sử dụng bản đồ của J.R.R. và Christopher Tolkien làm cơ sở ban đầu) cho thấy vị trí [Amon Ereb](../../main/A/Amon_Ereb.md) có thể ở (nếu sống sót sau khi [Beleriand](../../main/B/Beleriand.md)chìm xuống) ở [Forlindon](../../main/F/Forlindon.md) và ghi chú một đỉnh núi hơi lệch sang một bên phạm vi chính của [Dãy Núi Xanh](../../main/B/Blue_Mountains.md), xấp xỉ ở vị trí của Núi [Dolmed](../../main/D/Dolmed.md).
+Ảnh ghép các bản đồ có chú thích (sử dụng bản đồ của J.R.R. và Christopher Tolkien làm cơ sở ban đầu) cho thấy vị trí [Amon Ereb](../../main/A/Amon_Ereb.md) có thể ở (nếu sống sót sau khi [Beleriand](../../main/B/Beleriand.md) chìm xuống) ở [Forlindon](../../main/F/Forlindon.md) và ghi chú một đỉnh núi hơi lệch sang một bên phạm vi chính của [Dãy Núi Xanh](../../main/B/Blue_Mountains.md), xấp xỉ ở vị trí của Núi [Dolmed](../../main/D/Dolmed.md).
 
 Chi tiết từ [Didier Willis](../../main/D/Didier_Willis.md), "Du Beleriand aux confins de Rhûn", trong [Tolkien, le façonnement d'un monde](../../main/T/Tolkien,_le_façonnement_d'un_monde.md), tập. 2, 2014, tr. 198, theo sự cho phép của tác giả.
 

@@ -18,7 +18,7 @@ images:
 
 ## Trung Địa {#Middle-earth}
 
-- [Gương Galadriel](Mirror_of_Galadriel.md), chậu nước có thể cho thấy những tầm nhìn xa xôi về quá khứ, hiện tại và tương lai, được [Galadriel](../G/Galadriel.md)sử dụng.
+- [Gương Galadriel](Mirror_of_Galadriel.md), chậu nước có thể cho thấy những tầm nhìn xa xôi về quá khứ, hiện tại và tương lai, được [Galadriel](../G/Galadriel.md) sử dụng.
 
 ## Chương {#Chapters}
 

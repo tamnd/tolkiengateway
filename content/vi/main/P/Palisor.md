@@ -27,7 +27,7 @@ Trong *[The History of Middle-earth Index](../T/The_History_of_Middle-earth_Inde
 
 ## Từ nguyên {#Etymology}
 
-Theo cách hiểu của [Christopher Tolkien](../C/Christopher_Tolkien.md)về *[Qenya Lexicon](../Q/Qenya_Lexicon.md)*, 'Palisor' có nguồn gốc từ gốc PALA, "có các từ phái sinh có ý nghĩa chung chung về 'độ phẳng', trong số đó có *palis* 'bãi cỏ, bãi cỏ', do đó không còn nghi ngờ gì nữa *Palisor*."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Theo cách hiểu của [Christopher Tolkien](../C/Christopher_Tolkien.md) về *[Qenya Lexicon](../Q/Qenya_Lexicon.md)*, 'Palisor' có nguồn gốc từ gốc PALA, "có các từ phái sinh có ý nghĩa chung chung về 'độ phẳng', trong số đó có *palis* 'bãi cỏ, bãi cỏ', do đó không còn nghi ngờ gì nữa *Palisor*."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

@@ -12,7 +12,7 @@ categories:
   - "Debates"
 ---
 
-**[Legolas](Legolas.md)**, mặc dù chỉ là nhân vật phụ của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md)nhưng lại dễ dàng bị tranh cãi nhất về nhiều vấn đề khác nhau.
+**[Legolas](Legolas.md)**, mặc dù chỉ là nhân vật phụ của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nhưng lại dễ dàng bị tranh cãi nhất về nhiều vấn đề khác nhau.
 
 ## Hẹn hò và tuổi {#Dating_and_age}
 
@@ -41,7 +41,7 @@ Nếu chúng ta suy luận rằng Tiên tộc có thể có những ký ức c�
 
 Tuy nhiên, anh ấy có thể chỉ bình luận về những quan điểm trái ngược nhau của Con Người và Tiên tộc đúng lúc ("và nhưng chúng tôi thấy điều đó có vẻ xảy ra trong một thời gian ngắn"); quan trọng hơn, 500 năm ở đây rõ ràng là “thời gian đã trôi qua kể từ khi Meduseld được xây dựng”. Theo mệnh giá, tuyên bố của anh ấy nói *nothing* về tuổi của anh ấy - đi xa hơn sẽ chỉ là suy đoán.
 
-Chắc chắn có thể anh ấy già hơn nhiều người hâm mộ tưởng tượng (có thể do ảnh hưởng của Bloom và vai diễn của anh ấy). Trong *The Two Towers*, anh ta gọi Aragorn (sinh [T.A.](../T/Third_Age.md) [2931](../T/Third_Age_2931.md), 87 tuổi ở [3018](../T/Third_Age_3018.md), 88 khi Chiến tranh kết thúc vài tháng sau) và Gimli (sinh [T.A.](../T/Third_Age.md) [2879](../T/Third_Age_2879.md), 139 tuổi ở [3018](../T/Third_Age_3018.md)) là "trẻ em" khi ở [Rừng Fangorn](../F/Fangorn_Forest.md)và nói rằng anh ta không *feel* còn trẻ:
+Chắc chắn có thể anh ấy già hơn nhiều người hâm mộ tưởng tượng (có thể do ảnh hưởng của Bloom và vai diễn của anh ấy). Trong *The Two Towers*, anh ta gọi Aragorn (sinh [T.A.](../T/Third_Age.md) [2931](../T/Third_Age_2931.md), 87 tuổi ở [3018](../T/Third_Age_3018.md), 88 khi Chiến tranh kết thúc vài tháng sau) và Gimli (sinh [T.A.](../T/Third_Age.md) [2879](../T/Third_Age_2879.md), 139 tuổi ở [3018](../T/Third_Age_3018.md)) là "trẻ em" khi ở [Rừng Fangorn](../F/Fangorn_Forest.md) và nói rằng anh ta không *feel* còn trẻ:
 
 <blockquote class="tg-quote noexcerpt">
 <p>It [the forest] is old, very old,&#34; said the Elf. &#34;So old that almost I feel young <b>again</b>, as I have not felt since I journeyed with you children. It is old and full of memory. I could have been happy here, if I had come in days of peace.
@@ -59,7 +59,7 @@ Ngoài ra, anh ta còn nói về việc chứng kiến ​​những cây sồi 
 
 Tuy nhiên, ngay cả con số tối thiểu 500 vẫn có thể áp dụng ở đây, vì Tolkien có thể đã nghĩ đến gỗ sồi Anh và nó có thể tồn tại tới khoảng 500 năm.
 
-Ngoài ra, một số độc giả còn chỉ ra rằng ngày sinh của anh ấy không được ghi trong Phụ lục. Đối với họ, đây có thể là dấu hiệu cho thấy anh ta sinh vào [Kỷ Đệ Nhất](../F/First_Age.md), vì Phụ lục chỉ ghi chép có niên đại từ [Thời thứ hai](../S/Second_Age.md) trở đi. Ít nhất, điều đó có thể có nghĩa là anh ta được sinh ra trước [Kỷ Đệ Tam](../T/Third_Age.md), vì ngày sinh của các nhân vật sinh vào thời điểm đó (ngay cả những ngày tương đối nhỏ như [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md)) *are* thường được đưa ra.
+Ngoài ra, một số độc giả còn chỉ ra rằng ngày sinh của ông không được ghi trong các Phụ lục. Đối với họ, đây có thể là dấu hiệu cho thấy ông sinh vào năm [Kỷ Đệ Nhất](../F/First_Age.md), vì các Phụ lục chỉ ghi ngày từ [Kỷ thứ hai](../S/Second_Age.md) trở đi. Ít nhất, điều đó có thể có nghĩa là anh ta được sinh ra trước [Kỷ Đệ Tam](../T/Third_Age.md), vì ngày sinh của các nhân vật sinh vào thời điểm đó (ngay cả những ngày tương đối nhỏ như [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md)) *are* thường được đưa ra.
 
 ## Giấy khai sinh {#Birth_order}
 
@@ -67,7 +67,7 @@ Một số người cho rằng anh là con một; tuy nhiên, anh ta có thể c
 
 ## Màu tóc {#Hair_color}
 
-Cha của anh [Thranduil](../T/Thranduil.md) có mái tóc vàng, nên nhiều người cho rằng Legolas cũng phải có tóc vàng (thực tế, cả [Ralph Bakshi](../R/Ralph_Bakshi.md) và [Peter Jackson](../P/Peter_Jackson.md) đều khiến ông có màu vàng). Tuy nhiên, Tolkien mô tả đầu của anh ta là "đen tối" khi anh ta bắn hạ [Fell beast](../F/Fell_beasts.md) của [Ringwraith](../N/Nazgûl.md)trong *The Fellowship of the Ring* trong trích dẫn sau, gợi ý điều ngược lại với một số người:
+Cha của anh [Thranduil](../T/Thranduil.md) có tóc vàng, nên nhiều người cho rằng Legolas chắc chắn cũng có tóc vàng (thực tế, cả [Ralph Bakshi](../R/Ralph_Bakshi.md) và [Peter Jackson](../P/Peter_Jackson.md) đều khiến ông có tóc vàng). Tuy nhiên, Tolkien mô tả đầu của anh ta là "đen tối" khi anh ta bắn hạ [Ma Ringwraith](../N/Nazgûl.md) của [Thú vật sa ngã](../F/Fell_beasts.md) trong *The Fellowship of the Ring* trong trích dẫn sau, gợi ý điều ngược lại với một số người:
 
 <blockquote class="tg-quote noexcerpt">
 <p>Frodo looked up at the Elf standing tall above him, as he gazed into the night, seeking a mark to shoot at. His head was dark, crowned with sharp white stars that glittered in the black pools of the sky behind.
@@ -75,11 +75,11 @@ Cha của anh [Thranduil](../T/Thranduil.md) có mái tóc vàng, nên nhiều n
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Great_River.md" title="The Great River">The Great River</a>&#34;</cite></p>
 </blockquote>
 
-Theo trại này, tóc của anh ta phải có màu nâu sẫm hoặc đen, như tiêu chuẩn cho Sindar. (Tóc vàng hầu như chỉ dành riêng cho [Vanyar](../V/Vanyar.md).) Tuy nhiên, phe "tóc vàng" chỉ ra rằng câu trích dẫn trên diễn ra *at night*và cho rằng đầu của anh ta có thể trông "tối" do bóng tối, thay vì màu tóc thực sự của anh ta.
+Theo trại này, tóc của anh ta phải có màu nâu sẫm hoặc đen, như tiêu chuẩn cho Sindar. (Tóc vàng hầu như chỉ dành riêng cho [Vanyar](../V/Vanyar.md).) Tuy nhiên, phe "tóc vàng" chỉ ra rằng câu trích dẫn trên diễn ra *at night* và cho rằng đầu của anh ta có thể trông "tối" do bóng tối, thay vì màu tóc thực sự của anh ta.
 
 ## Legolas trong số Gondolin {#Legolas_of_Gondolin}
 
-Tên *Legolas Greenleaf* xuất hiện lần đầu trong *[The Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)*, một trong các chương của *[The Book of Lost Tales Part Two](../T/The_Book_of_Lost_Tales_Part_Two.md)*, được viết vào đầu [1917](../_/1917.md). Nhân vật chỉ được nhắc đến một lần và không liên quan đến nhân vật được thảo luận ở trên. Vì Lost Tales là hiện thân đầu tiên của thần thoại Tolkien và vào thời điểm *The Lord of the Rings* được viết ra, nhiều thứ đã thay đổi, rất có thể điều này không giống với Tiên và anh ta không được đưa vào *[The Silmarillion](../T/The_Silmarillion.md)*đã xuất bản.
+Tên *Legolas Greenleaf* xuất hiện lần đầu trong *[The Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)*, một trong các chương của *[The Book of Lost Tales Part Two](../T/The_Book_of_Lost_Tales_Part_Two.md)*, được viết vào đầu [1917](../_/1917.md). Nhân vật chỉ được nhắc đến một lần và không liên quan đến nhân vật được thảo luận ở trên. Vì Lost Tales là hiện thân đầu tiên của thần thoại Tolkien và vào thời điểm *The Lord of the Rings* được viết ra, nhiều thứ đã thay đổi, rất có thể điều này không giống với Tiên và anh ta không được đưa vào *[The Silmarillion](../T/The_Silmarillion.md)* đã xuất bản.
 
 <blockquote class="tg-quote noexcerpt">
 <p>But the others, led by one <b>Legolas Greenleaf</b> of the <a href="../H/House_of_the_Tree.md" title="House of the Tree">house of the Tree</a>, who knew all that plain by day or by dark, and was night-sighted, made much speed over the vale for all their weariness, and halted only after a great march.
@@ -87,7 +87,7 @@ Tên *Legolas Greenleaf* xuất hiện lần đầu trong *[The Fall of Gondolin
 <p class="tg-quote-footer"><cite><i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_Two.md" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i>, &#34;<a href="../T/The_Fall_of_Gondolin_(chapter).md" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a>&#34;</cite></p>
 </blockquote>
 
-[Legolas của Gondolin](<Legolas_(elf_of_Gondolin).md>), người Tolkien có thể đã đổi tên, có từ nguyên khác. Tên của anh ấy (*Laiqalassë* ở dạng thuần túy) xuất phát từ các từ [Quenya](../Q/Quenya.md) (*Qenya*) nguyên thủy *laica* ("xanh") và *lassë* ("lá"). Những cái tên rất giống nhau, nhưng các ký tự thì khác nhau: Legolas của Gondolin có thể là một [Noldor](../N/Noldor.md) bị lưu đày, thuộc Nhà (đồng loại) của Cây. Tuy nhiên, *Silmarillion*được xuất bản, khi mô tả việc thành lập Gondolin của [Turgon](../T/Turgon.md), nói rằng Turgon đã mang theo tới một phần ba số người dưới quyền [Fingolfin](../F/Fingolfin.md), nhưng thậm chí còn có một số lượng lớn hơn Sindar. Do đó, liệu Legolas của Gondolin là gốc của Noldorin hay Sindarin vẫn còn đang gây tranh cãi.
+[Legolas của Gondolin](<Legolas_(elf_of_Gondolin).md>), người Tolkien có thể đã đổi tên, có từ nguyên khác. Tên của anh ấy (*Laiqalassë* ở dạng thuần túy) xuất phát từ các từ [Quenya](../Q/Quenya.md) (*Qenya*) nguyên thủy *laica* ("xanh") và *lassë* ("lá"). Những cái tên rất giống nhau, nhưng các ký tự thì khác nhau: Legolas của Gondolin có thể là một [Noldor](../N/Noldor.md) bị lưu đày, thuộc Nhà (đồng loại) của Cây. Tuy nhiên, *Silmarillion* được xuất bản, khi mô tả việc thành lập Gondolin của [Turgon](../T/Turgon.md), nói rằng Turgon đã mang theo tới một phần ba số người dưới quyền [Fingolfin](../F/Fingolfin.md), nhưng thậm chí còn có một số lượng lớn hơn Sindar. Do đó, liệu Legolas của Gondolin là gốc của Noldorin hay Sindarin vẫn còn đang gây tranh cãi.
 
 <span></span>
 

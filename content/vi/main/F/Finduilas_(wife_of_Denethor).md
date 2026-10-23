@@ -85,7 +85,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Vào [T.A.](../T/Third_Age.md) [2976](../T/Third_Age_2976.md) cô đã kết hôn với [Denethor](../D/Denethor.md)lớn hơn nhiều tuổi, con trai của [Ecthelion II](../E/Ecthelion_II.md) [Quản lý của Gondor](../S/Steward_of_Gondor.md).<sup id="cite_ref-B_3-0" class="reference"><a href="#cite_note-B-3">[3]</a></sup>
+Vào [T.A.](../T/Third_Age.md) [2976](../T/Third_Age_2976.md) cô đã kết hôn với [Denethor](../D/Denethor.md) lớn hơn nhiều tuổi, con trai của [Ecthelion II](../E/Ecthelion_II.md) [Quản lý của Gondor](../S/Steward_of_Gondor.md).<sup id="cite_ref-B_3-0" class="reference"><a href="#cite_note-B-3">[3]</a></sup>
 
 Năm [T.A.](../T/Third_Age.md) [2978](../T/Third_Age_2978.md) bà sinh ra [Boromir](../B/Boromir.md),<sup id="cite_ref-B_3-1" class="reference"><a href="#cite_note-B-3">[3]</a></sup> được cha yêu quý nhất. Năm [2983](../T/Third_Age_2983.md) bà sinh con trai thứ hai là [Faramir](Faramir.md),<sup id="cite_ref-B_3-2" class="reference"><a href="#cite_note-B-3">[3]</a></sup> và sau đó sức khỏe yếu đi. Faramir bị cha anh phớt lờ và cô đã cố gắng hết sức để tự mình nuôi nấng anh.
 

@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bản đồ thời gian về các chuyến đi của [Húrin](../../main/H/Húrin.md)theo *[The Wanderings of Húrin](../../main/T/The_Wanderings_of_Húrin.md)*, được tạo bởi [Người dùng:Airyn](https://tolkiengateway.net/wiki/User:Airyn). Đã tải xuống từ <a class="external text" href="https://www.deviantart.com/airyyn/art/The-Wanderings-of-Hurin-562428801" rel="noreferrer noopener" target="_blank">hồ sơ deviantart của cô ấy</a>
+Bản đồ thời gian về các chuyến đi của [Húrin](../../main/H/Húrin.md) theo *[The Wanderings of Húrin](../../main/T/The_Wanderings_of_Húrin.md)*, được tạo bởi [Người dùng:Airyn](https://tolkiengateway.net/wiki/User:Airyn). Đã tải xuống từ <a class="external text" href="https://www.deviantart.com/airyyn/art/The-Wanderings-of-Hurin-562428801" rel="noreferrer noopener" target="_blank">hồ sơ deviantart của cô ấy</a>
 
 ## Giấy phép {#Licensing}
 

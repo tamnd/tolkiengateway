@@ -56,7 +56,7 @@ infobox:
 <p class="tg-quote-footer"><cite>Official Synopsis, <a class="mw-redirect" href="Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Alloyed** là tập thứ tám của bộ phim truyền hình [Amazon Studios](Amazon_Studios.md), *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*. Đây là tập cuối cùng của mùa đầu tiên và được phát hành vào [14 tháng 10](../_/14_October.md), [2022](../_/2022.md).
+**Alloyed** là tập thứ tám của loạt phim truyền hình [Amazon Studios](Amazon_Studios.md), *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*. Đây là tập cuối cùng của mùa đầu tiên và được phát hành vào [14 tháng 10](../_/14_October.md), [2022](../_/2022.md).
 
 ## Tóm tắt {#Synopsis}
 
@@ -74,29 +74,29 @@ Trong [Grove](../G/Grove.md), Nori và Người lạ thảo luận về danh tí
 
 ### người Númenor {#Númenóreans}
 
-Trở lại [Númenor](../N/Númenor.md), [Pharazôn](Ar-Pharazôn.md) nói chuyện với [Kemen](../K/Kemen.md), [Eärien](../E/Eärien.md) và những người còn lại trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Builder%27s_Guild&amp;action=edit&amp;redlink=1" title="Builder&#39;s Guild (page does not exist)">Hiệp hội thợ xây</a> về [Tar-Palantir](../T/Tar-Palantir.md)sắp chết. Eärien được giao vẽ chân dung của Vua thì anh nắm lấy cánh tay cô và cảnh báo cô rằng nếu con đường cũ không được khôi phục, hòn đảo sẽ thất thủ. Cô ấy đến gần một vật thể che kín mặt, hình tròn và được phủ một tấm vải đen, rồi kéo tấm màn che lại.
+Trở lại [Númenor](../N/Númenor.md), [Pharazôn](Ar-Pharazôn.md) nói chuyện với [Kemen](../K/Kemen.md), [Eärien](../E/Eärien.md) và những người còn lại trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Builder%27s_Guild&amp;action=edit&amp;redlink=1" title="Builder&#39;s Guild (page does not exist)">Hiệp hội thợ xây</a> về [Tar-Palantir](../T/Tar-Palantir.md) sắp chết. Eärien được giao vẽ chân dung của Vua thì anh nắm lấy cánh tay cô và cảnh báo cô rằng nếu con đường cũ không được khôi phục, hòn đảo sẽ thất thủ. Cô ấy đến gần một vật thể che kín mặt, hình tròn và được phủ một tấm vải đen, rồi kéo tấm màn che lại.
 
 Trên con tàu của họ, [Elendil](../E/Elendil.md) phát hiện [Míriel](../T/Tar-Míriel.md) đang cố gắng ghi nhớ cách bố trí của con tàu để che giấu sự mù lòa của mình. Cả hai đi đến thỏa thuận với cái giá phải trả to lớn khi trở thành một phần của [Những người trung thành](../F/Faithful.md) và tái khẳng định cam kết của mình. Khi họ đi vào Númenor, cô ấy cảm thấy có điều gì đó không ổn và yêu cầu được biết anh ấy nhìn thấy gì. Toàn bộ thành phố được treo các biểu ngữ màu đen để tang nhà vua qua đời.
 
 ### Eregion {#Eregion}
 
-[Celebrimbor](../C/Celebrimbor.md) và [Elrond](../E/Elrond.md) chờ đợi sự xuất hiện của [Gil-galad](../G/Gil-galad.md), tuyệt vọng không biết phải làm gì với quá ít [mithril](../M/Mithril.md). Đột nhiên [Galadriel](../G/Galadriel.md) và [Halbrand](../H/Halbrand.md) lao tới, trông có vẻ thô lỗ và giải thích rằng họ đã đi trên đường được sáu ngày kể từ trận chiến. Cô và Elrond bàn việc bỏ tàu về phía tây. Halbrand đến thăm xưởng của Celebrimbor, nơi anh tìm thấy mẫu mithril và đề xuất một hợp kim để khuếch đại đặc tính của mithril.
+[Celebrimbor](../C/Celebrimbor.md) và [Elrond](../E/Elrond.md) chờ đợi sự xuất hiện của [Gil-galad](../G/Gil-galad.md), tuyệt vọng không biết phải làm gì với quá ít [mithril](../M/Mithril.md). Đột nhiên [Galadriel](../G/Galadriel.md) và [Halbrand](../H/Halbrand.md) cưỡi ngựa tới, trông có vẻ thô lỗ và giải thích rằng họ đã đi trên đường được sáu ngày kể từ trận chiến. Cô và Elrond bàn việc bỏ tàu về phía tây. Halbrand đến thăm xưởng của Celebrimbor, nơi anh tìm thấy mẫu mithril và đề xuất một hợp kim để khuếch đại đặc tính của mithril.
 
-Celebrimbor trình bày ý tưởng với Gil-galad, Elrond và Galadriel, đề xuất một chiếc vương miện, nhưng bị vị vua tối cao từ chối, người nói rằng đã quá muộn và ra lệnh cho ông ta giải tán thành phố và quay trở lại Lindon. Galadriel gọi ra một cụm từ Celebrimbor và hỏi xem Halbrand có ở đó không. Celebrimbor gạt cô ấy đi. Elrond may mắn hơn khi cầu xin Gil-galad ở lại ba tháng, và các lò rèn được thắp sáng trong xưởng của Celebrimbor. Halbrand và Celebrimbor cùng nhau làm việc trên đe trong khi Galadriel nhìn vào với sự nghi ngờ ngày càng tăng.
+Celebrimbor trình bày ý tưởng với Gil-galad, Elrond và Galadriel, đề xuất một chiếc vương miện, nhưng bị vị vua tối cao từ chối, người nói rằng đã quá muộn và ra lệnh cho ông ta giải tán thành phố và quay trở lại Lindon. Galadriel gọi một cụm từ Celebrimbor và hỏi Halbrand có ở đó không. Celebrimbor gạt cô ấy đi. Elrond may mắn hơn khi cầu xin Gil-galad ở lại ba tháng, và các lò rèn được thắp sáng trong xưởng của Celebrimbor. Halbrand và Celebrimbor cùng nhau xử lý cái đe trong khi Galadriel quan sát với sự nghi ngờ ngày càng tăng.
 
-Khói bốc ra từ lò khi kim loại từ chối liên kết. Halbrand đề nghị nhẹ nhàng hơn và Celebrimbor nắm bắt ý tưởng với nguồn năng lượng mới. Học giả từ thư viện trước đó gọi Galadriel đi và Halbrand dường như cảm thấy có điều gì đó không ổn.
+Khói bốc ra từ lò khi kim loại từ chối liên kết. Halbrand khuyên bạn nên nhẹ nhàng hơn và Celebrimbor nắm bắt ý tưởng với nguồn năng lượng mới. Học giả từ thư viện trước đó gọi Galadriel đi và Halbrand dường như cảm thấy có điều gì đó không ổn.
 
 Anh ấy thấy cô ấy đang đứng cạnh [Glanduin](../G/Glanduin.md) với một tài liệu và nói với cô ấy rằng họ đang làm một thứ gì đó nhỏ hơn. Hai thứ gì đó. Galadriel yêu cầu được biết anh ta là ai, vì đã chứng minh rằng dòng dõi các vị vua của Southlands đã bị phá vỡ từ một nghìn năm trước. Khi cô ấy cố gắng chỉ ra tất cả những điều tốt đẹp mà anh ấy đã làm, anh ấy lại quay lưng lại với cô ấy, chỉ ra rằng cô ấy đã làm như thế nào. Cô hỏi tên anh, và anh trả lời: "Tôi đã thức từ trước khi phá vỡ sự im lặng đầu tiên. Trong thời gian đó, tôi đã có rất nhiều cái tên." Từ đó, Galadriel suy ra rằng anh ta là [Sauron](../S/Sauron.md).
 
-Cô định đâm anh ta nhưng thay vào đó lại ngã và tỉnh dậy trong một giấc mơ, được [Finrod](../F/Finrod.md)đề cập đến. Chỉ có Finrod là hơi lệch thôi. Nó Sauron/Halbrand ở trong tâm trí cô. Anh ta cố gắng biện minh cho mình với cô ấy là Finrod nhưng cô ấy từ chối anh ta. Khi anh gọi cô lại, cô bất ngờ lại ở trên bè trên biển cùng với Halbrand. Anh mời cô tham gia cùng mình, dùng lời nói của cô để chống lại cô. Họ đánh nhau và cô thấy mình chìm xuống biển như trước, chỉ có điều lần này không có sự giải cứu nào từ Halbrand.
+Cô định đâm anh ta nhưng thay vào đó lại ngã và tỉnh dậy trong một giấc mơ, được [Finrod](../F/Finrod.md) đề cập đến. Chỉ có Finrod là hơi lệch thôi. Đó là Sauron/Halbrand trong tâm trí cô ấy. Anh ta cố gắng biện minh cho mình với cô ấy là Finrod nhưng cô ấy từ chối anh ta. Khi anh gọi cô lại, cô bất ngờ lại ở trên bè trên biển cùng Halbrand. Anh mời cô tham gia cùng mình, dùng lời nói của cô để chống lại cô. Họ đánh nhau và cô thấy mình chìm xuống biển như trước, chỉ có điều lần này không có sự giải cứu nào từ Halbrand.
 
 Thở hổn hển, cô tỉnh dậy giữa dòng nước, bị Elrond kéo ra. Cô kề con dao vào ngực anh, yêu cầu anh chứng minh mình là ai và anh nói cho cô biết nơi họ gặp nhau lần đầu. Cô chạy đến lò rèn của Celebrimbor để nói với anh rằng họ phải làm ba chiếc nhẫn để tạo sự cân bằng. Anh ta yêu cầu cô cung cấp số vàng và bạc Valinor.
 
-Galadriel than khóc sự tan chảy của con dao găm của mình. Những chiếc nhẫn được rèn từ từ trong xưởng. Elrond, khi ra ngoài, phát hiện ra tài liệu Galadriel đã được ném vào luồng và nhận ra những gì cô đã khám phá về "Halbrand".
+Galadriel than khóc sự tan chảy của con dao găm của mình. Những chiếc nhẫn được rèn từ từ trong xưởng. Elrond, khi ra ngoài, phát hiện ra tài liệu Galadriel đã được ném vào luồng và nhận ra những gì cô đã khám phá được về "Halbrand".
 
 ### Mordor {#Mordor}
 
-Halbrand bước vào làn khói và lửa của một [núi lửa](../M/Mount_Doom.md) [cảnh quan](../M/Mordor.md) đen.
+Halbrand bước vào làn khói và lửa của [núi lửa](../M/Mount_Doom.md) [phong cảnh](../M/Mordor.md) đen.
 
 ## Truyền {#Cast}
 
@@ -218,7 +218,7 @@ Halbrand bước vào làn khói và lửa của một [núi lửa](../M/Mount_D
 
 Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amazon đi kèm với tập phim.
 
-- Cảnh 2 - "Hầu hết các chi tiết và công phu được nêu ở đây đều bắt nguồn từ '[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)', đoạn mở đầu có tựa đề '[Liên quan đến Hobbit](../C/Concerning_Hobbits.md)' và [Phụ lục](Appendices.md), [A](Appendix_A.md) đến [F](Appendix_F.md), nơi người du hành dũng cảm có thể hành trình để khám phá những chân trời xa hơn nữa."
+- Cảnh 2 - "Hầu hết các chi tiết và chi tiết được nêu ở đây đều bắt nguồn từ '[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)', phần mở đầu có tựa đề '[Liên quan đến Hobbit](../C/Concerning_Hobbits.md)' và [Phụ lục](Appendices.md), [A](Appendix_A.md) đến [F](Appendix_F.md), nơi người du hành dũng cảm có thể hành trình khám phá những chân trời xa hơn nữa."
 
 ## Sản xuất {#Production}
 
@@ -228,12 +228,12 @@ Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amaz
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://rop.digitaltolkien.com/S1E8/" rel="noreferrer noopener" target="_blank">Alloyed</a> tại Dữ liệu ROP
+- <a class="external text" href="https://rop.digitaltolkien.com/S1E8/" rel="noreferrer noopener" target="_blank">Hợp kim</a> tại ROP Data
 - <a class="external text" href="https://ringswrapup.com/021-theres-something-about-halbrand/" rel="noreferrer noopener" target="_blank">Phân tích tập về Những Chiếc Nhẫn Quyền Năng Tóm tắt</a> (với <a class="new" href="https://tolkiengateway.net/w/index.php?title=Alan_Sisto&amp;action=edit&amp;redlink=1" title="Alan Sisto (page does not exist)">Alan Sisto</a>, [Sara Brown](../S/Sara_Brown.md) và [James Tauber](../J/James_Tauber.md))
 - <a class="external text" href="https://www.youtube.com/watch?v=pGvjKxA4dho&amp;ab_channel=RingsandRealms" rel="noreferrer noopener" target="_blank">Phân tích tập về Nhẫn & Vương quốc</a> (với [Corey Olsen](../C/Corey_Olsen.md))
-- <a class="external text" href="https://bearmccreary.com/the-lord-of-the-rings-episode-108/" rel="noreferrer noopener" target="_blank">Tính điểm <i>Alloyed</i></a> của [Bear McCreary](../B/Bear_McCreary.md)
+- <a class="external text" href="https://bearmccreary.com/the-lord-of-the-rings-episode-108/" rel="noreferrer noopener" target="_blank">Tính điểm <i>Hợp kim</i></a> bởi [Bear McCreary](../B/Bear_McCreary.md)
 - <a class="external text" href="https://www.hollywoodreporter.com/tv/tv-news/rings-of-power-sauron-season-2-lotr-1235240809/amp/" rel="noreferrer noopener" target="_blank">Sauron trung tâm mùa hai (spoiler)</a>
-- <a class="external text" href="https://ew.com/tv/lord-of-the-rings-the-rings-of-power-charlie-vickers-halbrand-sauron-interview/" rel="noreferrer noopener" target="_blank">Phỏng vấn diễn viên Sauron (người tiết lộ nội dung)</a>
+- <a class="external text" href="https://ew.com/tv/lord-of-the-rings-the-rings-of-power-charlie-vickers-halbrand-sauron-interview/" rel="noreferrer noopener" target="_blank">Phỏng vấn Sauron diễn viên (spoiler)</a>
 
 <span></span>
 

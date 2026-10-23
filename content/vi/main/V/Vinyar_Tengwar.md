@@ -58,7 +58,7 @@ Tên *Vinyar Tengwar* là [Neo-Quenya](../N/Neo-Elvish.md) kết xuất của **
 
 ## Lịch sử {#History}
 
-*Vinyar Tengwar* xuất hiện lần đầu trong [1988](../_/1988.md), lúc đầu được chỉnh sửa bởi [Jorge Quiñónez](../J/Jorge_Quiñónez.md) và sau đó được [Carl F. Hostetter](../C/Carl_F._Hostetter.md)tiếp quản. Lúc đầu, nó xuất hiện hai tháng một lần, nhưng sau tháng 7 [1994](../_/1994.md), các vấn đề xuất hiện bất thường hơn, khoảng một lần một năm. Điều này trùng hợp với tần suất xuất bản các văn bản do chính Tolkien viết nhiều hơn; tạp chí hiện nay chủ yếu dành riêng cho những văn bản như vậy. Một số văn bản này đã được đề cập trong các tập *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)*, do [Christopher Tolkien](../C/Christopher_Tolkien.md)biên tập, nhưng không được xuất bản trong bộ sách đó do tính chất chuyên môn hoặc bí mật của chúng.
+*Vinyar Tengwar* xuất hiện lần đầu trong [1988](../_/1988.md), lúc đầu được chỉnh sửa bởi [Jorge Quiñónez](../J/Jorge_Quiñónez.md) và sau đó được [Carl F. Hostetter](../C/Carl_F._Hostetter.md) tiếp quản. Lúc đầu, nó xuất hiện hai tháng một lần, nhưng sau tháng 7 [1994](../_/1994.md), các vấn đề xuất hiện bất thường hơn, khoảng một lần một năm. Điều này trùng hợp với tần suất xuất bản các văn bản do chính Tolkien viết nhiều hơn; tạp chí hiện nay chủ yếu dành riêng cho những văn bản như vậy. Một số văn bản này đã được đề cập trong các tập *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)*, do [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập, nhưng không được xuất bản trong bộ sách đó do tính chất chuyên môn hoặc bí mật của chúng.
 
 Tất cả 50 số sau hiện đã được sưu tầm và xuất bản thành 5 tập, in theo yêu cầu.
 

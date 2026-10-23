@@ -25,4 +25,4 @@ langlinks:
     url: "https://lotr.su/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BA%D1%82%D1%91%D1%80%D1%8B"
 ---
 
-Thể loại này bao gồm các bài viết về những người có thật trong đời thực đã thể hiện các nhân vật của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)trong các tác phẩm chuyển thể từ tác phẩm của ông.
+Thể loại này bao gồm các bài viết về những người có thật trong đời thực đã thể hiện các nhân vật của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) trong các tác phẩm chuyển thể từ tác phẩm của ông.

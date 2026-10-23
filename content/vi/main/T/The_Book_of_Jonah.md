@@ -23,9 +23,9 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Book_of_Jonah.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5c/The_Book_of_Jonah.jpg/225px-The_Book_of_Jonah.jpg" decoding="async" loading="lazy" width="225" height="331" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5c/The_Book_of_Jonah.jpg/338px-The_Book_of_Jonah.jpg 1.5x, https://tolkiengateway.net/w/images/5/5c/The_Book_of_Jonah.jpg 2x" data-file-width="340" data-file-height="500"/></a><figcaption>planned cover of the book</figcaption></figure>
 
-<i><b>Sách Giô-na</b></i> là bản dịch [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)của <a class="extiw" href="http://en.wikipedia.org/wiki/Book_of_Jonah" title="wikipedia:Book of Jonah">Sách Cựu Ước</a>. Bản dịch của Tolkien dựa trên văn bản tiếng Pháp và không phải là bản dịch trực tiếp từ bản gốc tiếng Hebrew. Nó đã được xuất bản trong *[The Jerusalem Bible](The_Jerusalem_Bible.md)* trong [1966](../_/1966.md).
+<i><b>Sách Giô-na</b></i> là bản dịch [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) của <a class="extiw" href="http://en.wikipedia.org/wiki/Book_of_Jonah" title="wikipedia:Book of Jonah">Sách Cựu Ước</a>. Bản dịch của Tolkien dựa trên văn bản tiếng Pháp và không phải là bản dịch trực tiếp từ bản gốc tiếng Hebrew. Nó đã được xuất bản trong *[The Jerusalem Bible](The_Jerusalem_Bible.md)* trong [1966](../_/1966.md).
 
-Tuy nhiên, văn bản đã xuất bản không đại diện cho tác phẩm gốc của Tolkien vì nó kết hợp những thay đổi do các biên tập viên khác thực hiện. Văn bản gốc, chưa sửa đổi đã được xuất bản trong *[Journal of Inklings Studies, vol.4 no.2](../J/Journal_of_Inklings_Studies,_vol.4_no.2.md)* ở [2014](../_/2014.md)và được Brendan N. Wolfe bình luận.
+Tuy nhiên, văn bản đã xuất bản không đại diện cho tác phẩm gốc của Tolkien vì nó kết hợp những thay đổi do các biên tập viên khác thực hiện. Văn bản gốc, chưa sửa đổi đã được xuất bản trong *[Journal of Inklings Studies, vol.4 no.2](../J/Journal_of_Inklings_Studies,_vol.4_no.2.md)* ở [2014](../_/2014.md) và được Brendan N. Wolfe bình luận.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 

@@ -17,7 +17,7 @@ categories:
 
 Các học giả của [Gondor](../G/Gondor.md) chỉ có thể suy đoán ý nghĩa ban đầu của *bel*; có thể nó có nghĩa là "bờ" giống như phần tử thứ hai *[falas](../F/Falas.md)*.
 
-Vì vịnh lớn giữa [Umbar](../U/Umbar.md) và [Andrast](../A/Andrast.md) (Mũi Dài, ngoài [Lefnui](../L/Lefnui.md)) được gọi là *[Côf](../C/Côf.md) ([gwaeren](../G/Gwaeren.md)) Bêl* "Vịnh (gió) Bêl", các học giả cũng cho rằng *Bêl* là tên của khu vực sau này được gọi là [Dor-en-Ernil](../D/Dor-en-Ernil.md) trước khi được [Dúnedain](../D/Dúnedain.md)định cư.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vì vịnh lớn giữa [Umbar](../U/Umbar.md) và [Andrast](../A/Andrast.md) (Mũi Dài, ngoài [Lefnui](../L/Lefnui.md)) được gọi là *[Côf](../C/Côf.md) ([gwaeren](../G/Gwaeren.md)) Bêl* "Vịnh (gió) Bêl", các học giả cũng cho rằng *Bêl* là tên của khu vực sau này được gọi là [Dor-en-Ernil](../D/Dor-en-Ernil.md) trước khi được [Dúnedain](../D/Dúnedain.md) định cư.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Johnson, Kirstin Jeffrey"
 ---
 
-**Tiến sĩ. Kirstin Jeffrey Johnson** là học giả [George MacDonald](../G/George_MacDonald.md), đồng thời là nhà văn và giảng viên tự do có trụ sở tại Thung lũng Ottawa, Canada. Các nghiên cứu tiến sĩ của cô (Viện Thần học, Trí tưởng tượng và Nghệ thuật, Đại học St Andrews) đã xem xét khái niệm Thần thoại/Thần thoại như được định nghĩa bởi [Tolkien](../J/J.R.R._Tolkien.md) và [Lewis](../C/C.S._Lewis.md), và được quy cho [George MacDonald](../G/George_MacDonald.md) – làm thế nào và tại sao MacDonald được công nhận là một nhà văn huyền thoại vĩ đại cũng như ý định huyền thoại của chính MacDonald. Các bài viết của cô bao gồm các nghiên cứu về tác phẩm của Tolkien, Lewis, MacDonald, [Charles Williams](../C/Charles_Williams.md)và [Owen Barfield](../O/Owen_Barfield.md).
+**Tiến sĩ. Kirstin Jeffrey Johnson** là học giả [George MacDonald](../G/George_MacDonald.md), đồng thời là nhà văn và giảng viên tự do có trụ sở tại Thung lũng Ottawa, Canada. Các nghiên cứu tiến sĩ của cô (Viện Thần học, Trí tưởng tượng và Nghệ thuật, Đại học St Andrews) đã xem xét khái niệm Thần thoại/Thần thoại như được định nghĩa bởi [Tolkien](../J/J.R.R._Tolkien.md) và [Lewis](../C/C.S._Lewis.md), và được quy cho [George MacDonald](../G/George_MacDonald.md) – làm thế nào và tại sao MacDonald được công nhận là một nhà văn huyền thoại vĩ đại cũng như ý định huyền thoại của chính MacDonald. Các bài viết của cô bao gồm các nghiên cứu về tác phẩm của Tolkien, Lewis, MacDonald, [Charles Williams](../C/Charles_Williams.md) và [Owen Barfield](../O/Owen_Barfield.md).
 
 <br>
 

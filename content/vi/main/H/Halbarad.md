@@ -68,7 +68,7 @@ infobox:
 
 Halbarad dành cả cuộc đời đầu đời của mình để quan sát biên giới của [ Shire](../T/The_Shire.md).
 
-Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Halbarad đã được cử đến hỗ trợ [Thủ lĩnh](../C/Chieftains_of_the_Dúnedain.md) [Aragorn](../A/Aragorn.md)của anh ấy. Từ [Eriador](../E/Eriador.md), anh ta lãnh đạo một nhóm Biệt động quân mạnh mẽ gồm ba mươi người, tự gọi mình là [Đại đội Xám](../G/Grey_Company.md). Đi cùng họ là [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md), các con trai của [Elrond](../E/Elrond.md). Trong đêm từ [5](../_/5_March.md) đến [6 tháng 3](../_/6_March.md), Công ty đã gặp nhau Aragorn tại [Dol Baran](../D/Dol_Baran.md). Halbarad đã đưa cho người bà con của mình một lá cờ, đó là một món quà từ [Arwen](../A/Arwen.md), cùng một lời nhắn, triệu tập anh ta đi theo [Con đường của người chết](../P/Paths_of_the_Dead.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Halbarad đã được cử đến hỗ trợ [Thủ lĩnh](../C/Chieftains_of_the_Dúnedain.md) [Aragorn](../A/Aragorn.md) của anh ấy. Từ [Eriador](../E/Eriador.md), anh ta lãnh đạo một nhóm Biệt động quân mạnh mẽ gồm ba mươi người, tự gọi mình là [Đại đội Xám](../G/Grey_Company.md). Đi cùng họ là [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md), các con trai của [Elrond](../E/Elrond.md). Trong đêm từ [5](../_/5_March.md) đến [6 tháng 3](../_/6_March.md), Công ty đã gặp nhau Aragorn tại [Dol Baran](../D/Dol_Baran.md). Halbarad đã đưa cho người bà con của mình một lá cờ, đó là một món quà từ [Arwen](../A/Arwen.md), cùng một lời nhắn, triệu tập anh ta đi theo [Con đường của người chết](../P/Paths_of_the_Dead.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Đại đội Xám, hiện có [Gimli](../G/Gimli.md) và [Legolas](../L/Legolas.md) một phần comitatus của [Aragorn](../A/Aragorn.md), đã đi qua Con đường của Người chết, đến [Tảng đá Erech](../S/Stone_of_Erech.md), qua [Cổ Tarlang](../T/Tarlang's_Neck.md) và tới [Pelargir](../P/Pelargir.md). Anh ấy chỉ huy một con tàu [Corsair](../C/Corsair.md) và họ đi về phía [Harlond](Harlond_in_Gondor.md).<sup id="cite_ref-Debate_3-0" class="reference"><a href="#cite_note-Debate-3">[3]</a></sup>
 
@@ -139,11 +139,11 @@ Mặc dù *Halbarad* không được đánh bóng, nhưng [David Salo](../D/Davi
 
 <dl><dd>Halbarad, a sage/diplomat hero character, is illustrated by <a href="../Q/Quinton_Hoover.md" title="Quinton Hoover">Quinton Hoover</a>.</dd></dl>
 
-<b>2001-7: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i>:</b>
+<b>2001-7: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi đánh bài</a></i>:</b>
 
 <dl><dd>Halbarad is portrayed by <a href="../W/Warren_Mahy.md" title="Warren Mahy">Warren Mahy</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Halbarad is in command of <a href="../E/Esteldín.md" title="Esteldín">Esteldín</a>, a hidden <a href="../D/Dúnedain.md" title="Dúnedain">Dúnedain</a> city in the <a href="../N/North_Downs.md" title="North Downs">North Downs</a>. After receiving orders from Elrond to seek out Aragorn in Rohan, Halbarad gathered a large company of Rangers to head south. After suffering short delays in Enedwaith, Halbarad managed to form an alliance of sorts with the Falcon Clan in Dunland. However, Halbarad and his company were soon betrayed and imprisoned by the Falcon Clan. Some of the Rangers with Halbarad managed to escape and soon the Grey Company was free, at the cost of many lives. By the time they reached the borders of Rohan, only 30 of their number remained. At the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a>, Halbarad sacrifices himself to protect Aragorn from being killed by <a class="mw-redirect mw-disambig" href="../G/Gothmog.md" title="Gothmog">Gothmog</a>.</dd></dl>
 

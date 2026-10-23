@@ -16,9 +16,9 @@ sort_keys:
   "Translators": "Translators"
 ---
 
-Dưới đây là danh sách **bản dịch** tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)sang các ngôn ngữ khác nhau.
+Dưới đây là danh sách **bản dịch** tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sang các ngôn ngữ khác nhau.
 
-## [The Adventures of Tom Bombadil and Other Verses from the Red Book](The_Adventures_of_Tom_Bombadil_and_Other_Verses_from_the_Red_Book.md) {#The_Adventures_of_Tom_Bombadil_and_Other_Verses_from_the_Red_Book}
+## [The Adventures of Tom Bombadil và các câu thơ khác trong Sách Đỏ](The_Adventures_of_Tom_Bombadil_and_Other_Verses_from_the_Red_Book.md) {#The_Adventures_of_Tom_Bombadil_and_Other_Verses_from_the_Red_Book}
 
 - Tiếng Bungari, tiếng Trung, tiếng Séc, tiếng Đan Mạch, tiếng Hà Lan, tiếng Phần Lan, tiếng Pháp, tiếng Đức, tiếng Hebrew, tiếng Hungary, tiếng Ý, tiếng Nhật, tiếng Hàn, tiếng Ba Lan, tiếng Bồ Đào Nha (Brazil), tiếng Ba Tư, tiếng Bồ Đào Nha (Châu Âu), tiếng Nga, tiếng Serbia, tiếng Tây Ban Nha, tiếng Thụy Điển.
 
@@ -50,7 +50,7 @@ Dưới đây là danh sách **bản dịch** tác phẩm của [J.R.R. Tolkien]
 
 - Pháp, Ý, Ba Lan, Tây Ban Nha, Thụy Điển.
 
-## [The Fall of Arthur](The_Fall_of_Arthur.md) {#The_Fall_of_Arthur}
+## [Sự sụp đổ của Arthur](The_Fall_of_Arthur.md) {#The_Fall_of_Arthur}
 
 - Tiếng Hà Lan, tiếng Pháp, tiếng Ý, tiếng Bồ Đào Nha (Brazil), tiếng Bồ Đào Nha (Bồ Đào Nha), tiếng Tây Ban Nha.
 
@@ -86,7 +86,7 @@ Dưới đây là danh sách **bản dịch** tác phẩm của [J.R.R. Tolkien]
 
 - Tiếng Na Uy, Tiếng Nga.
 
-## [The Lay of Aotrou and Itroun](The_Lay_of_Aotrou_and_Itroun.md) {#The_Lay_of_Aotrou_and_Itroun}
+## [Cuộc sống của Aotrou và Itroun](The_Lay_of_Aotrou_and_Itroun.md) {#The_Lay_of_Aotrou_and_Itroun}
 
 - Tiếng Nga, tiếng Serbia.
 
@@ -222,7 +222,7 @@ Xem phần cấu thành: Beowulf: Quái vật và Nhà phê bình; Lời mở đ
 
 - tiếng Tây Ban Nha
 
-## [The War of the Ring](The_War_of_the_Ring.md) {#The_War_of_the_Ring}
+## [Cái Cuộc chiến Nhẫn](The_War_of_the_Ring.md) {#The_War_of_the_Ring}
 
 - Tiếng Tây Ban Nha.
 

@@ -41,7 +41,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Patrik_H._Wynne_-_Inklings.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/07/Patrik_H._Wynne_-_Inklings.jpg/400px-Patrik_H._Wynne_-_Inklings.jpg" decoding="async" loading="lazy" width="400" height="131" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/07/Patrik_H._Wynne_-_Inklings.jpg/600px-Patrik_H._Wynne_-_Inklings.jpg 1.5x, https://tolkiengateway.net/w/images/0/07/Patrik_H._Wynne_-_Inklings.jpg 2x" data-file-width="680" data-file-height="222"/></a><figcaption>Portraits of three prominent Inklings: Tolkien (left), Lewis (center), Williams (right). Artwork by <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a></figcaption></figure>
 
-**Inklings** là một nhóm thảo luận văn học liên kết với [Đại học Oxford](../U/University_of_Oxford.md)ở Anh. Các thành viên của nó, hầu hết là các học giả tại trường đại học, đã gặp nhau từ những năm 1930 đến những năm 1950.
+**Inklings** là một nhóm thảo luận văn học liên kết với [Đại học Oxford](../U/University_of_Oxford.md) ở Anh. Các thành viên của nó, hầu hết là các học giả tại trường đại học, đã gặp nhau từ những năm 1930 đến những năm 1950.
 
 ## Lịch sử {#History}
 
@@ -49,7 +49,7 @@ Inklings là những người đam mê văn học ca ngợi giá trị của l�
 
 Như điển hình cho các nhóm văn học đại học ở thời gian và địa điểm của họ, Inklings đều là nam giới. (<a class="extiw" href="http://en.wikipedia.org/wiki/Dorothy_L._Sayers" title="wikipedia:Dorothy L. Sayers">Dorothy L. Sayers</a>, đôi khi được cho là Inkling, là bạn của Lewis và Williams nhưng chưa bao giờ tham dự các cuộc họp Inklings.)
 
-Đọc và thảo luận về những tác phẩm còn dang dở của các thành viên là mục đích chính của các cuộc họp. *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*của Tolkien, *[Out of the Silent Planet](../O/Out_of_the_Silent_Planet.md)*của Lewis, và *All Hallows Eve* của Williams là một trong những cuốn tiểu thuyết đầu tiên được đọc và thảo luận bởi Inklings.
+Đọc và thảo luận về những tác phẩm còn dang dở của các thành viên là mục đích chính của các cuộc họp. *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của Tolkien, *[Out of the Silent Planet](../O/Out_of_the_Silent_Planet.md)* của Lewis, và *All Hallows Eve* của Williams là một trong những cuốn tiểu thuyết đầu tiên được đọc và thảo luận bởi Inklings.
 
 Inklings các bài đọc và thảo luận thường được tổ chức vào các tối thứ Năm tại phòng học của C. S. Lewis tại trường Cao đẳng Magdalen. Inklings còn được biết là tụ tập tại một quán rượu địa phương, [The Eagle and Child](../E/Eagle_and_Child.md), có biệt danh là **The Bird and Baby**, hay đơn giản là **The Bird**. Tuy nhiên, trái với suy nghĩ thông thường, họ không đọc bản thảo của mình trong quán rượu. Các cuộc họp ở quán rượu sau đó được tổ chức tại [The Lamb and Flag](../L/Lamb_and_Flag.md) bên kia đường, và trong những năm trước đó, Inklings cũng gặp nhau bất thường ở các quán rượu khác. Tuy nhiên, The Eagle and Child vẫn giữ được dấu ấn.
 

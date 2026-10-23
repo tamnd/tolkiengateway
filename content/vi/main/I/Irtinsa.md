@@ -17,7 +17,7 @@ categories:
 
 **Hồ Irtinsa** là một vùng nước ở [Valinor](../V/Valinor.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
-Nó được xây dựng bởi [Valar](../V/Valar.md) sau khi tạo ra [Mặt Trời](../S/Sun.md) và [Mặt Trăng](../M/Moon.md)và nằm ngay phía nam của [Valmar](../V/Valmar.md). Nó được bao quanh bởi [cây thủy tùng](../Y/Yews.md) tối tăm được thiết kế như một mê cung và các bức tường của nó được làm bằng "đá cẩm thạch bạc và trắng". Đó cũng là nơi Vala [Lórien](Irmo.md) tích trữ sương của [Đóa hồng Silpion](../M/Moon.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Nó được xây dựng bởi [Valar](../V/Valar.md) sau khi tạo ra [Mặt Trời](../S/Sun.md) và [Mặt Trăng](../M/Moon.md) và nằm ngay phía nam của [Valmar](../V/Valmar.md). Nó được bao quanh bởi [cây thủy tùng](../Y/Yews.md) tối tăm được thiết kế như một mê cung và các bức tường của nó được làm bằng "đá cẩm thạch bạc và trắng". Đó cũng là nơi Vala [Lórien](Irmo.md) tích trữ sương của [Đóa hồng Silpion](../M/Moon.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -39,7 +39,7 @@ infobox:
 
 <i><b>The Children of Húrin: Phiên bản Deluxe</b></i> là phiên bản đặc biệt của *[The Children of Húrin](The_Children_of_Húrin.md)* được phát hành cùng thời điểm. Nó giống như phiên bản thông thường ngoại trừ việc nó được đóng bìa bằng vật liệu chất lượng cao hơn và được đựng trong một hộp đựng có tem lá vàng.
 
-[HarperCollins](../H/HarperCollins.md)in 10.000 bản cao cấp.
+[HarperCollins](../H/HarperCollins.md) in 10.000 bản cao cấp.
 
 [Christopher Tolkien](../C/Christopher_Tolkien.md) đã ký khoảng 900 tấm sách dính được dán vào một số bản của ấn bản cao cấp này.
 

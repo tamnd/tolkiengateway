@@ -22,48 +22,48 @@ langlinks:
     url: "https://kontu.wiki/Nomenclature_of_The_Lord_of_the_Rings"
 ---
 
-<b>Hướng dẫn về tên trong <i>The Lord of the Rings</i></b>, sau này được gọi là <b>Danh pháp <i>The Lord of the Rings</i></b> hoặc đơn giản là **Danh pháp** là tập hợp các ghi chú được tạo bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sau [tiếng Hà Lan](../M/Max_Schuchart.md) và Đã có bản dịch [tiếng Thụy Điển](../_/Åke_Ohlmarks.md).<sup id="cite_ref-RC_1-0" class="reference"><a href="#cite_note-RC-1">[1]</a></sup>
+<b>Hướng dẫn về các Tên gọi trong <i>The Lord of the Rings</i></b>, về sau được biết đến với tên <b>Danh mục tên gọi trong <i>The Lord of the Rings</i></b> hoặc đơn giản là **Danh mục tên gọi**, là một tập hợp các ghi chú do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) biên soạn sau khi các bản dịch [tiếng Hà Lan](../M/Max_Schuchart.md) và [tiếng Thụy Điển](../_/Åke_Ohlmarks.md) được xuất bản.<sup id="cite_ref-RC_1-0" class="reference"><a href="#cite_note-RC-1">[1]</a></sup>
 
 ## Lịch sử xuất bản {#Publication_history}
 
-<i><b>Hướng dẫn</b></i> được xuất bản lần đầu trong <i><b><a href="../A/A_Tolkien_Compass.md" title="A Tolkien Compass">A Tolkien Compass</a></b></i>, do [Christopher Tolkien](../C/Christopher_Tolkien.md)biên tập.<sup id="cite_ref-ATC_2-0" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup> Nó được đưa vào ấn bản bìa cứng đầu tiên của Open Court và bìa mềm của Del Rey Books, nhưng đã bị loại khỏi ấn bản thứ hai theo yêu cầu của [Tolkien Estate](../T/Tolkien_Estate.md), cơ quan pháp lý chủ sở hữu của văn bản.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>Guide</b></i> được xuất bản lần đầu trong <i><b><a href="../A/A_Tolkien_Compass.md" title="A Tolkien Compass">A Tolkien Compass</a></b></i>, do [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập.<sup id="cite_ref-ATC_2-0" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup> Tác phẩm được đưa vào ấn bản bìa cứng đầu tiên của Open Court và ấn bản bìa mềm của Del Rey Books, nhưng bị loại khỏi ấn bản thứ hai theo yêu cầu của [Tolkien Estate](../T/Tolkien_Estate.md), đơn vị sở hữu hợp pháp văn bản này.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Ấn bản mới của [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md) – được gọi là <i><b>Danh pháp</b></i> – đã được xuất bản trong <i><b><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: Người bạn đồng hành của độc giả</a></b></i>.
+Một ấn bản mới do [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md) biên soạn – có tên là <i><b>Nomenclature</b></i> – đã được xuất bản trong <i><b><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></b></i>.
 
-## Sự khác biệt giữa các phiên bản {#Differences_between_editions}
+## Những điểm khác biệt giữa các ấn bản {#Differences_between_editions}
 
-### Khác biệt chung {#General_differences}
+### Những điểm khác biệt chung {#General_differences}
 
-Ấn bản của - Christopher Tolkien là ấn bản dành cho độc giả chứ không phải là ấn bản fax có chú thích của Hammond và Scull: các câu tốc ký và chữ viết tắt ngắn, được viết đầy đủ và thường được viết cho đối tượng ít ngôn ngữ hơn. Hammond và Scull đã đưa ra một danh sách các từ viết tắt cũng như các ghi chú bổ sung trong ngoặc đơn.
-Ấn bản của - Christopher Tolkien tuân theo văn bản của cha anh ấy ở chỗ nó đề cập đến ấn bản thứ hai, được sửa đổi,<sup id="cite_ref-ATC_2-1" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup> trong khi Hammond và Scull cũng bao gồm các tham chiếu đến [Ấn bản kỷ niệm 50 năm](<../T/The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>) của chính họ trong ngoặc đơn.<sup id="cite_ref-RC_1-1" class="reference"><a href="#cite_note-RC-1">[1]</a></sup>
-- Hai phần đầu tiên đã được đổi tên trong phiên bản của Christopher Tolkien: *Names of Persons and Peoples* và *Place-names* so với *Persons, Peoples, Creatures* và *Places*. Tên của phần thứ ba, *Things*, không thay đổi.
+- Ấn bản của Christopher Tolkien là ấn bản dành cho độc giả thông thường, chứ không phải ấn bản sao chụp có chú giải của Hammond và Scull: các câu ngắn, mang tính tốc ký và những từ viết tắt được viết đầy đủ, và nhìn chung, ấn bản này hướng đến độc giả ít am hiểu về ngôn ngữ học hơn. Hammond và Scull đưa vào danh sách các từ viết tắt, cùng những ghi chú bổ sung đặt trong ngoặc vuông thẳng.
+- Ấn bản của Christopher Tolkien bám sát văn bản của cha ông ở chỗ đề cập đến ấn bản thứ hai đã chỉnh sửa,<sup id="cite_ref-ATC_2-1" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup> trong khi Hammond và Scull còn đưa vào các dẫn chiếu đến [ấn bản kỷ niệm 50 năm](<../T/The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>) của chính họ, đặt trong ngoặc vuông thẳng.<sup id="cite_ref-RC_1-1" class="reference"><a href="#cite_note-RC-1">[1]</a></sup>
+- Hai phần đầu được đổi tên trong ấn bản của Christopher Tolkien: *Tên người và các dân tộc* (*Names of Persons and Peoples*) và *Địa danh* (*Place-names*), thay cho *Con người, các dân tộc và sinh vật* (*Persons, Peoples, Creatures*) và *Địa điểm* (*Places*). Tên phần thứ ba, *Sự vật* (*Things*), không thay đổi.
 
-### Sự khác biệt nhỏ hơn {#Smaller_differences}
+### Những điểm khác biệt nhỏ hơn {#Smaller_differences}
 
-- **Barrow-wight**: Hammond và Scull viết sai chính tả trong phiên bản tiếng Hà Lan, cũng như bản dịch tiếng Anh: *grafghest* và "grave-ghast"<sup id="cite_ref-RC_1-2" class="reference"><a href="#cite_note-RC-1">[1]</a></sup> chứ không phải đúng *grafgeest*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
-- **Beechbone**: Hammond và Scull đánh vần *Buchenbein* là *Büchenbein*, bản cũ là bản dịch tiếng Đức thực sự.<sup id="cite_ref-ATC_2-2" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup>
-- **Fair Folk**: Christopher Tolkien di chuyển nó xuống dưới *Fairbairns*.<sup id="cite_ref-ATC_2-3" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup>
-- **Người hành hương xám** và **Máy chủ xám**: Christopher Tolkien di chuyển họ xuống dưới *Greyhame*.<sup id="cite_ref-ATC_2-4" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup>
-- **Greyhame**: Christopher Tolkien đề cập đến [ngôn ngữ của Rohan](../R/Rohanese.md) là "Rohan",<sup id="cite_ref-ATC_2-5" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup> Hammond và Scull là "Rohanese".<sup id="cite_ref-RC_1-3" class="reference"><a href="#cite_note-RC-1">[1]</a></sup> Đây là lần xuất hiện duy nhất của "Rohanese";<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 1]</a></sup> phần còn lại của phiên bản Hammond và Scull sử dụng từ "Rohan".
-- **Heathertoes**: Christopher Tolkien đánh vần bản dịch tiếng Đức được đề xuất là *Heidezhen*,<sup id="cite_ref-ATC_2-6" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup> Hammond và Scull là *Heidezehn*.<sup id="cite_ref-RC_1-4" class="reference"><a href="#cite_note-RC-1">[1]</a></sup> [Margaret Carroux](../M/Margaret_Carroux.md) cuối cùng sẽ sử dụng số nhiều *Heidezehen*, [Wolfgang Krege](../W/Wolfgang_Krege.md) số ít *Heidezeh*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
-- **Orc**: Christopher Tolkien sai chính tả Anglo-Saxon *orc-neas* là *orc-nass*<sup id="cite_ref-ATC_2-7" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup>
-- **Pháp sư**: Christopher Tolkien bỏ qua mục này.<sup id="cite_ref-ATC_2-8" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup>
-- **Wormtongue**: Christopher Tolkien viết sai chính tả dạng Rohan là *wyrm-tunga*, Hammond và Scull cho *wyrm-tunge*.
-- **Woses**: Christopher Tolkien ghi sai lời giải thích là "ông già rừng xanh". Hammond và Scull cho "những kẻ hoang dã".
-- **Deadman's Dike**: Christopher Tolkien bỏ qua mục này.<sup id="cite_ref-ATC_2-9" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup>
-- **Lithe**: Hammond và Scull kết hợp điều này với các mục *Yule* và *Midwinter*.<sup id="cite_ref-RC_1-5" class="reference"><a href="#cite_note-RC-1">[1]</a></sup>
-- **Toán học**: Hammond và Scull bỏ qua mục này.<sup id="cite_ref-RC_1-6" class="reference"><a href="#cite_note-RC-1">[1]</a></sup>
-- **Mỉm cười**: Hammond và Scull bỏ qua mục này.<sup id="cite_ref-RC_1-7" class="reference"><a href="#cite_note-RC-1">[1]</a></sup>
-- **Yule**: Xem *Lithe*. Christopher Tolkien bỏ qua đoạn về *Midwinter*.<sup id="cite_ref-ATC_2-10" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup>
+- **Barrow-wight**: Hammond và Scull viết sai cả phiên bản tiếng Hà Lan lẫn bản dịch tiếng Anh của nó: *grafghest* và "grave-ghast"<sup id="cite_ref-RC_1-2" class="reference"><a href="#cite_note-RC-1">[1]</a></sup> thay vì dạng đúng là *grafgeest*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- **Beechbone**: Hammond và Scull viết *Buchenbein* thành *Büchenbein*, trong khi dạng đầu tiên mới là bản dịch tiếng Đức thực sự.<sup id="cite_ref-ATC_2-2" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup>
+- **Fair Folk**: Christopher Tolkien chuyển mục này xuống dưới *Fairbairns*.<sup id="cite_ref-ATC_2-3" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup>
+- **Grey Pilgrim** và **Grey Host**: Christopher Tolkien chuyển hai mục này xuống dưới *Greyhame*.<sup id="cite_ref-ATC_2-4" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup>
+- **Greyhame**: Christopher Tolkien gọi [ngôn ngữ của Rohan](../R/Rohanese.md) là "Rohan",<sup id="cite_ref-ATC_2-5" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup> còn Hammond và Scull gọi là "Rohanese".<sup id="cite_ref-RC_1-3" class="reference"><a href="#cite_note-RC-1">[1]</a></sup> Đây là lần duy nhất từ "Rohanese" xuất hiện;<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[chú thích 1]</a></sup> trong phần còn lại của ấn bản Hammond và Scull, từ được sử dụng là "Rohan".
+- **Heathertoes**: Christopher Tolkien viết cách dịch tiếng Đức được đề xuất là *Heidezhen*,<sup id="cite_ref-ATC_2-6" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup> còn Hammond và Scull viết là *Heidezehn*.<sup id="cite_ref-RC_1-4" class="reference"><a href="#cite_note-RC-1">[1]</a></sup> [Margaret Carroux](../M/Margaret_Carroux.md) cuối cùng sử dụng dạng số nhiều *Heidezehen*, còn [Wolfgang Krege](../W/Wolfgang_Krege.md) sử dụng dạng số ít *Heidezeh*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+- **Orc**: Christopher Tolkien viết sai từ Anglo-Saxon *orc-neas* thành *orc-nass*.<sup id="cite_ref-ATC_2-7" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup>
+- **Wizard**: Christopher Tolkien bỏ mục này.<sup id="cite_ref-ATC_2-8" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup>
+- **Wormtongue**: Christopher Tolkien viết sai dạng từ ngữ của Rohan thành *wyrm-tunga*, trong khi Hammond và Scull đưa ra dạng *wyrm-tunge*.
+- **Woses**: Christopher Tolkien chép sai phần giải thích thành "những ông già sống trong rừng". Hammond và Scull đưa ra cách giải thích "những người hoang dã".
+- **Deadman's Dike**: Christopher Tolkien bỏ mục này.<sup id="cite_ref-ATC_2-9" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup>
+- **Lithe**: Hammond và Scull gộp mục này với các mục *Yule* và *Midwinter*.<sup id="cite_ref-RC_1-5" class="reference"><a href="#cite_note-RC-1">[1]</a></sup>
+- **Mathom**: Hammond và Scull bỏ mục này.<sup id="cite_ref-RC_1-6" class="reference"><a href="#cite_note-RC-1">[1]</a></sup>
+- **Smials**: Hammond và Scull bỏ mục này.<sup id="cite_ref-RC_1-7" class="reference"><a href="#cite_note-RC-1">[1]</a></sup>
+- **Yule**: Xem *Lithe*. Christopher Tolkien bỏ đoạn văn về *Midwinter*.<sup id="cite_ref-ATC_2-10" class="reference"><a href="#cite_note-ATC-2">[2]</a></sup>
 
 ## Bản thảo {#The_manuscript}
 
-Một số đoạn trích từ bản thảo của *Nomenclature* đã được trích dẫn trong *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)* (xem ví dụ ở trang 163), bao gồm cả thông tin không có trong phiên bản cuối cùng.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
+Một số đoạn trích từ bản thảo của *Nomenclature* đã được trích dẫn trong *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)* (xem ví dụ ở trang 163), bao gồm cả những thông tin không xuất hiện trong phiên bản cuối cùng.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Cái tên "Rohanese" cũng xuất hiện trong bài luận của J.R.R. Tolkien <i><a href="../T/The_Rivers_and_Beacon-hills_of_Gondor~21248.md" title="The Rivers and Beacon-hills of Gondor">Những dòng sông và ngọn đồi Beacon của Gondor</a></i>, như Hammond và Scull đã trích dẫn trong ghi chú của họ về <i><a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a></i> trong số <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>.</span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Tên &#34;Rohanese&#34; cũng xuất hiện trong bài tiểu luận của J.R.R. Tolkien <i><a href="../T/The_Rivers_and_Beacon-hills_of_Gondor~21248.md" title="The Rivers and Beacon-hills of Gondor">The Rivers and Beacon-hills of Gondor</a></i>, theo trích dẫn của Hammond và Scull trong phần ghi chú của họ về <i><a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a></i> thuộc tác phẩm <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>.</span>
 </li>
 </ol></div></span>
 

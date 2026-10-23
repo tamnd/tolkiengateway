@@ -30,7 +30,7 @@ images:
 
 Vào [Thời thứ hai](../S/Second_Age.md), ở [Númenor](../E/Elenna.md), cáo có số lượng lớn. Thức ăn chính của họ là [lopoldi](../L/Lopoldi.md), giúp [người Númenor](../N/Númenóreans.md) giữ chúng ngăn nắp. Vì chúng hiếm khi bị săn bắt hoặc vì có đủ thức ăn với lopoldi nên chúng không bao giờ tấn công các loài chim người Númenor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong [Kỷ Đệ Tam](../T/Third_Age.md), một con cáo đã bối rối khi tìm thấy [Frodo](Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md)và [Pippin](../P/Peregrin_Took.md) đang ngủ trong [rừng linh sam](Firs.md) vào đêm đầu tiên trong chuyến hành trình của họ từ [Hobbiton](../H/Hobbiton.md), vì nghĩ rằng có *“something mighty queer behind this”*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Một con cáo khác đã gặp phải [Strider](../A/Aragorn.md) và những người hobbit khi họ đi bộ qua [Chetwood](../C/Chetwood.md) sau khi rời đi [Bree](../B/Bree.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Kỷ Đệ Tam](../T/Third_Age.md), một con cáo đã bối rối khi tìm thấy [Frodo](Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Pippin](../P/Peregrin_Took.md) đang ngủ trong [rừng linh sam](Firs.md) vào đêm đầu tiên trong chuyến hành trình của họ từ [Hobbiton](../H/Hobbiton.md), vì nghĩ rằng có *“something mighty queer behind this”*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Một con cáo khác đã gặp phải [Strider](../A/Aragorn.md) và những người hobbit khi họ đi bộ qua [Chetwood](../C/Chetwood.md) sau khi rời đi [Bree](../B/Bree.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Tên khác {#Other_names}
 

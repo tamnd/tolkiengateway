@@ -66,14 +66,14 @@ Sự kiện xảy ra vào ngày 24 tháng 10
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1944](1944.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) nhận được thư của cậu bé 12 tuổi John Barrow từ thị trấn <a class="extiw" href="http://en.wikipedia.org/wiki/Westtown_Township,_Chester_County,_Pennsylvania" title="wikipedia:Westtown Township, Chester County, Pennsylvania">Phương Tây, Pennsylvania</a>. Cậu bé đã đọc *[The Hobbit](../T/The_Hobbit.md)* mười một lần và việc cậu sử dụng thuật ngữ "Gee Whiz" rất thú vị Tolkien.
+- **[1944](1944.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) nhận được thư của John Barrow, 12 tuổi từ thị trấn <a class="extiw" href="http://en.wikipedia.org/wiki/Westtown_Township,_Chester_County,_Pennsylvania" title="wikipedia:Westtown Township, Chester County, Pennsylvania">Phương Tây, Pennsylvania</a>. Cậu bé đã đọc *[The Hobbit](../T/The_Hobbit.md)* mười một lần và việc cậu sử dụng thuật ngữ "Gee Whiz" rất thú vị Tolkien.
 - **[1952](1952.md)** - Tolkien viết [Thư 135](../L/Letter_135.md).
 - **[1955](1955.md)** - Tolkien viết [Thư 173](../L/Letter_173.md).
 - **[1964](1964.md)** - Tập thứ ba của [Princess](../P/Princess.md)-serialization của *[The Hobbit](../T/The_Hobbit.md)* được xuất bản.
 - **[1992](1992.md)** - [Charlie Vickers](../C/Charlie_Vickers.md) ra đời.
 - **[1997](1997.md)** - Diễn viên lồng tiếng [Don Messick](../D/Don_Messick.md) qua đời.
 - **[2003](2003.md)** - [RingCon](../R/RingCon.md) III ở <a class="extiw" href="http://en.wikipedia.org/wiki/Tacoma,_Washington" title="wikipedia:Tacoma, Washington">Tacoma, Washington</a>.
-- **[2007](2007.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "Prisoner of the Free Peoples" được phát hành tại Bắc Mỹ.
+- **[2007](2007.md)** - *[The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "Prisoner of the Free Peoples" được phát hành ở Bắc Mỹ.
 - **[2010](2010.md)** - Các tính năng mới được thêm vào trò chơi trực tuyến năm 1994 *[The Two Towers MUD](../T/The_Two_Towers_MUD.md)*, bao gồm cả ứng dụng Facebook.
 - **[2017](2017.md)** - [Faith Faulconbridge](../F/Faith_Faulconbridge.md) qua đời
 - **[2023](2023.md)** - <i><b><a href="../T/The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Trở về Moria</a></b></i> đã phát hành
@@ -81,7 +81,7 @@ Sự kiện xảy ra vào ngày 24 tháng 10
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md)tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
     - [Frodo Baggins](../F/Frodo_Baggins.md) tỉnh dậy sau [Rivendell](../R/Rivendell.md), hồi phục vết thương và gặp [Gandalf](../G/Gandalf.md).
     - [Elrond](../E/Elrond.md) tổ chức bữa tiệc nơi Frodo gặp gỡ [Glóin](../G/Glóin.md). [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md) quay lại và nói chuyện với [Aragorn](../A/Aragorn.md). Buổi tối tại [Hall of Fire](../H/Hall_of_Fire.md) nơi Frodo gặp [Bilbo Baggins](../B/Bilbo_Baggins.md).

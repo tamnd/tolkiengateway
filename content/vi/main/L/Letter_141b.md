@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong thư gửi [Rayner Unwin](../R/Rayner_Unwin.md)này, Tolkien bày tỏ sự tiếc nuối về sự chậm trễ do sức khỏe yếu và thảo luận về nỗ lực thu thập ý kiến ​​sơ bộ cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Anh ấy đề cập đến việc tư vấn với [C.S. Lewis](../C/C.S._Lewis.md), người sẵn sàng giúp đỡ và có thể đề xuất những cái tên bổ sung.
+Trong thư gửi [Rayner Unwin](../R/Rayner_Unwin.md) này, Tolkien bày tỏ sự tiếc nuối về sự chậm trễ do sức khỏe yếu và thảo luận về nỗ lực thu thập ý kiến ​​sơ bộ cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Anh ấy đề cập đến việc tư vấn với [C.S. Lewis](../C/C.S._Lewis.md), người sẵn sàng giúp đỡ và có thể đề xuất những cái tên bổ sung.
 
 Tolkien liệt kê một số người đánh giá tiềm năng, bao gồm <a class="extiw" href="http://en.wikipedia.org/wiki/Geoffrey_Eley" title="wikipedia:Geoffrey Eley">Geoffrey Eley</a>, [Gervase Mathew](../G/Gervase_Mathew.md), <a class="extiw" href="http://en.wikipedia.org/wiki/Richard_Hughes_(writer)" title="wikipedia:Richard Hughes (writer)">Richard Hughes</a>, và Mục sư <a class="extiw" href="http://en.wikipedia.org/wiki/Austin_Farrer" title="wikipedia:Austin Farrer">Austin Farrer</a> và [vợ ông](../K/Katharine_Farrer.md), mặc dù ông bày tỏ sự không chắc chắn về việc tiếp cận họ. Anh ấy lưu ý rằng Farrers đã đọc và phê duyệt cuốn sách nhưng đặt câu hỏi liệu danh tiếng của họ có phù hợp hay không. Tolkien yêu cầu các bản sao chứng minh bổ sung và đảm bảo với Unwin về ý định tiếp tục công việc bất chấp những thất bại gần đây. <br>
 

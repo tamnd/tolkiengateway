@@ -19,7 +19,7 @@ categories:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Denethor](<../D/Denethor_(king_of_the_Laiquendi).md>), con trai của [Lenwë](../L/Lenwë.md), dẫn một bộ phận [Nandor](../N/Nandor.md) vào [Ossiriand](../O/Ossiriand.md) và được [Thingol](../T/Thingol.md)chào đón.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Denethor](<../D/Denethor_(king_of_the_Laiquendi).md>), con trai của [Lenwë](../L/Lenwë.md), dẫn một bộ phận [Nandor](../N/Nandor.md) vào [Ossiriand](../O/Ossiriand.md) và được [Thingol](../T/Thingol.md) chào đón.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

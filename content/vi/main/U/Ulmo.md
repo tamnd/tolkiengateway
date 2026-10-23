@@ -70,7 +70,7 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="../V/Valaquenta.md" title="Valaquenta">Valaquenta</a>: Of the Valar&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Ulmo** là một [Vala](../V/Valar.md), còn được gọi là *King of the Sea*, *Lord of Waters*và *Dweller of the Deep*.<sup id="cite_ref-UT1_2-0" class="reference"><a href="#cite_note-UT1-2">[2]</a></sup> Là một trong những người mạnh nhất trong [Ainur](../A/Ainur.md), anh ta đứng thứ ba về uy nghiêm của [Aratar](../A/Aratar.md), sau [Manwë](../M/Manwë.md) và [Varda](../V/Varda.md).
+**Ulmo** là một [Vala](../V/Valar.md), còn được gọi là *King of the Sea*, *Lord of Waters* và *Dweller of the Deep*.<sup id="cite_ref-UT1_2-0" class="reference"><a href="#cite_note-UT1-2">[2]</a></sup> Là một trong những người mạnh nhất trong [Ainur](../A/Ainur.md), anh ta đứng thứ ba về uy nghiêm của [Aratar](../A/Aratar.md), sau [Manwë](../M/Manwë.md) và [Varda](../V/Varda.md).
 
 Ở một số điểm, Ulmo đáng chú ý vì đã tách mình ra khỏi các anh em của mình và cũng là người thân thiện nhất với [Những đứa trẻ của Eru](../C/Children_of_Eru.md).
 
@@ -80,7 +80,7 @@ Ulmo là Chúa tể của các vùng nước và Vua của Biển.<sup id="cite_
 
 Ngay từ đầu Manwë đã là người bạn và đồng minh thân thiết nhất của anh và họ đến với nhau khi hơi nước biến thành mây trên không, hay sương mù. Hai người đã trung thành nhất phục vụ mục đích của Eru.<sup id="cite_ref-ai_4-1" class="reference"><a href="#cite_note-ai-4">[4]</a></sup>
 
-Ulmo là duy nhất trong số Valar về một số mặt; anh ta ở một mình, không có vợ/chồng trong số [Valier](../V/Valier.md); anh ấy đã không sống ở [Valinor](../V/Valinor.md) mà ở [Ekkaia](../E/Ekkaia.md) ngay từ đầu, thích những vùng biển sâu xung quanh và bên dưới [Ambar](../A/Ambar.md)cũng như những con sông. Ông hiếm khi xuất hiện trước hội đồng anh em mình, trừ những vấn đề quan trọng.<sup id="cite_ref-vala_3-2" class="reference"><a href="#cite_note-vala-3">[3]</a></sup>
+Ulmo là duy nhất trong số Valar về một số mặt; anh ta ở một mình, không có vợ/chồng trong số [Valier](../V/Valier.md); anh ấy đã không sống ở [Valinor](../V/Valinor.md) mà ở [Ekkaia](../E/Ekkaia.md) ngay từ đầu, thích những vùng biển sâu xung quanh và bên dưới [Ambar](../A/Ambar.md) cũng như những con sông. Ông hiếm khi xuất hiện trước hội đồng anh em mình, trừ những vấn đề quan trọng.<sup id="cite_ref-vala_3-2" class="reference"><a href="#cite_note-vala-3">[3]</a></sup>
 
 Tương tự như vậy, anh ấy hiếm khi mặc [fana](../F/Fana.md) và thường đến bờ biển mà không bị phát hiện hoặc đi vào vùng biển và sông. Người ta nói rằng tinh thần của ông nằm trong huyết quản của thế giới. Anh ấy nói qua âm thanh của nước và tạo ra âm nhạc bằng chiếc sừng [Ulumúri](Ulumúri.md) của mình. Nhưng mỗi khi xuất hiện, hắn lại đáng sợ và khủng khiếp “như sóng dâng cao ập vào đất liền”; anh ta đội một chiếc mũ sắt màu đen có mào xốp và mặc áo giáp màu xanh bạc lấp lánh, giọng nói trầm như đại dương.<sup id="cite_ref-vala_3-3" class="reference"><a href="#cite_note-vala-3">[3]</a></sup>
 
@@ -98,7 +98,7 @@ Tuy nhiên, cuối cùng anh ấy đã giúp họ đạt được Aman, vì anh 
 
 Khi đến lúc Melkor được trao cơ hội thứ hai và được ân xá, Ulmo và [Tulkas](../T/Tulkas.md) vẫn không tin tưởng anh nhưng cả hai đều tuân theo mệnh lệnh của Manwë.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Trong [Kỷ Đệ Nhất](../F/First_Age.md) Ulmo được bảo vệ [Sirion](../S/Sirion.md) và [Gelion](../G/Gelion.md) và điều khiển [Những Người Con của Ilúvatar](../C/Children_of_Ilúvatar.md)nhiều hơn bất kỳ Vala nào khác. Ông kêu gọi [Turgon](../T/Turgon.md) xây dựng [Gondolin](../G/Gondolin.md) và [Finrod](../F/Finrod.md) xây dựng [Nargothrond](../N/Nargothrond.md).
+Trong [Kỷ Đệ Nhất](../F/First_Age.md) Ulmo được bảo vệ [Sirion](../S/Sirion.md) và [Gelion](../G/Gelion.md) và điều khiển [Những Người Con của Ilúvatar](../C/Children_of_Ilúvatar.md) nhiều hơn bất kỳ Vala nào khác. Ông kêu gọi [Turgon](../T/Turgon.md) xây dựng [Gondolin](../G/Gondolin.md) và [Finrod](../F/Finrod.md) xây dựng [Nargothrond](../N/Nargothrond.md).
 
 Anh ấy đã chọn [Tuor](../T/Tuor.md) làm nhạc cụ trước khi sinh ra, bằng cách giúp [Huor](../H/Huor.md) và [Húrin](../H/Húrin.md) tiếp cận [Gondolin](../G/Gondolin.md) và bảo [Turgon](../T/Turgon.md) hãy chấp nhận anh ấy, vì viện trợ sẽ đến từ [Nhà Hador](../H/House_of_Hador.md). Nhiều năm sau, ông hướng dẫn [Tuor](../T/Tuor.md) chỉ đạo anh đến Gondolin với tư cách là người đưa tin cho Turgon. Bất chấp lời cảnh báo của [Ulmo](Ulmo's_warning.md), Turgon đã chọn không từ bỏ Gondolin. Tuor cuối cùng đã kết hôn với con gái [Idril](../I/Idril.md) của Turgon và là cha của [Eärendil](../E/Eärendil.md) [Half-elven](../H/Half-elven.md); Ulmo đã cứu [Elwing](../E/Elwing.md) khỏi bao tải của Cảng [Sirion](../S/Sirion.md), và do đó cô ấy đã đưa [Silmaril](../S/Silmarils.md) cho chồng mình Eärendil, điều này cho phép họ được nhận vào Valinor và cầu xin sự thương xót của họ.
 
@@ -110,7 +110,7 @@ Ngoài ra, *Ulmo* là tiêu đề [Quenya](../Q/Quenya.md), có nghĩa là "Ngư
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các bài viết trước đó, tên [Gnomish](../G/Gnomish.md) của anh ấy là *Gulma*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Sau đó, tên Gnomish của anh ấy là <i><b>Ylmir</b></i><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> (xem *[The Horns of Ylmir](../T/The_Horns_of_Ylmir.md)*của [Tuor](../T/Tuor.md)). [Noldorin](../N/Noldorin.md) tên của anh ấy được dịch là <i><b>Nûron</b></i> và <i><b>Ulu</b></i>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+Trong các bài viết trước đó, tên [Gnomish](../G/Gnomish.md) của anh ấy là *Gulma*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Sau đó, tên Gnomish của anh ấy là <i><b>Ylmir</b></i><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> (xem *[The Horns of Ylmir](../T/The_Horns_of_Ylmir.md)* của [Tuor](../T/Tuor.md)). [Noldorin](../N/Noldorin.md) tên của anh ấy được dịch là <i><b>Nûron</b></i> và <i><b>Ulu</b></i>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
 Trong [Gnomish Lexicon](../G/Gnomish_Lexicon.md) anh ấy được đặt tên là **Vailimo**.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:18</sup>
 

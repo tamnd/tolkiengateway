@@ -52,7 +52,7 @@ infobox:
 
 ## Địa lý {#Geography}
 
-Rhudaur là một vùng ở phía đông bắc của [Eriador](../E/Eriador.md), nằm giữa [Ettenmoors](../E/Ettenmoors.md), [Weather Hills](../W/Weather_Hills.md)và [Dãy Núi Sương Mù](../M/Misty_Mountains.md). Vùng đất nằm giữa sông [Loudwater](../M/Mitheithel.md) và [Hoarwell](../H/Hoarwell.md), tạo thành [ Angle](../A/Angle.md), nơi có [Trollshaws](../T/Trollshaws.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> cũng là một phần của Rhudaur.<sup id="cite_ref-Eriador_2-0" class="reference"><a href="#cite_note-Eriador-2">[2]</a></sup><sup id="cite_ref-Flight_3-0" class="reference"><a href="#cite_note-Flight-3">[3]</a></sup>
+Rhudaur là một vùng ở phía đông bắc của [Eriador](../E/Eriador.md), nằm giữa [Ettenmoors](../E/Ettenmoors.md), [Weather Hills](../W/Weather_Hills.md) và [Dãy Núi Sương Mù](../M/Misty_Mountains.md). Vùng đất nằm giữa sông [Loudwater](../M/Mitheithel.md) và [Hoarwell](../H/Hoarwell.md), tạo thành [ Angle](../A/Angle.md), nơi có [Trollshaws](../T/Trollshaws.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> cũng là một phần của Rhudaur.<sup id="cite_ref-Eriador_2-0" class="reference"><a href="#cite_note-Eriador-2">[2]</a></sup><sup id="cite_ref-Flight_3-0" class="reference"><a href="#cite_note-Flight-3">[3]</a></sup>
 
 Rhudaur được đặc trưng bởi những ngọn đồi cao và ảm đạm, những cây tối với rễ xoắn treo trên vách đá và thời tiết ảm đạm. Rhudaur là một đất nước u ám, đầy đe dọa và không thân thiện.<sup id="cite_ref-Flight_3-1" class="reference"><a href="#cite_note-Flight-3">[3]</a></sup>
 

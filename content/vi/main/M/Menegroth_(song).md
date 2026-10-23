@@ -13,7 +13,7 @@ categories:
   - "Songs by Summoning"
 ---
 
-<i><b>Menegroth</b></i> là một bài hát của ban nhạc [Tolkien metal](../T/Tolkien_metal.md) [Summoning](../S/Summoning.md). Nó xuất hiện trong album dài thứ sáu của họ, [Lời Thề Bound](../O/Oath_Bound.md), phát hành vào [2006](../_/2006.md). Nó xoay quanh [Thingol](../T/Thingol.md), Vua của [Doriath](../D/Doriath.md)và thành phố [Menegroth](Menegroth.md) nơi anh sống.
+<i><b>Menegroth</b></i> là một bài hát của ban nhạc [Tolkien metal](../T/Tolkien_metal.md) [Summoning](../S/Summoning.md). Nó xuất hiện trong album dài thứ sáu của họ, [Lời Thề Bound](../O/Oath_Bound.md), phát hành vào [2006](../_/2006.md). Nó xoay quanh [Thingol](../T/Thingol.md), Vua của [Doriath](../D/Doriath.md) và thành phố [Menegroth](Menegroth.md) nơi anh sống.
 
 ## Lời bài hát {#Lyrics}
 

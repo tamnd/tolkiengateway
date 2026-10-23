@@ -49,7 +49,7 @@ infobox:
 
 **Strider** là chương thứ mười của cuốn sách đầu tiên trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Các nhân vật chính là [Strider](../A/Aragorn.md), [Frodo Baggins](../F/Frodo_Baggins.md) và [Barliman Butterbur](../B/Barliman_Butterbur.md).
 
-Chương này kể về cuộc trò chuyện giữa Frodo và Strider, việc Barliman Butterbur gửi lá thư của [Gandalf](../G/Gandalf.md), lời hứa của Strider sẽ bảo vệ [Hobbit](../H/Hobbit.md)và việc phát hiện ra một [Kỵ Sĩ Đen](../B/Black_Rider.md) trong [Bree](../B/Bree.md).
+Chương này kể về cuộc trò chuyện giữa Frodo và Strider, việc Barliman Butterbur gửi lá thư của [Gandalf](../G/Gandalf.md), lời hứa của Strider sẽ bảo vệ [Hobbit](../H/Hobbit.md) và việc phát hiện ra một [Kỵ Sĩ Đen](../B/Black_Rider.md) trong [Bree](../B/Bree.md).
 
 Trọng tâm của chương này, cuộc thảo luận của Frodo với Strider biểu thị sự mở ra một số phận lớn hơn cho Hobbit, khi con đường của họ được tiết lộ là gắn liền với các sự kiện lớn hơn trong Trung Địa. Ý thức thận trọng ngày càng tăng của Frodo minh họa cho thách thức của việc phân biệt bạn bè và kẻ thù trong một thế giới ngày càng đầy rẫy nguy hiểm và lừa dối. Strider, người tiết lộ mình là Aragorn, đưa ra hướng dẫn và bảo vệ cho Hobbit, gợi ý về sự lãnh đạo đáng tin cậy quan trọng trong những thách thức phía trước.
 
@@ -57,17 +57,17 @@ Trọng tâm của chương này, cuộc thảo luận của Frodo với Strider
 
 Chương này bắt đầu khi [chương trước](../A/At_the_Sign_of_the_Prancing_Pony.md) kết thúc.
 
-Frodo, [Sam](Samwise_Gamgee.md) và [Pippin](../P/Peregrin_Took.md) quay lại phòng khách của [Prancing Pony](../P/Prancing_Pony.md)thì thấy [Merry](../M/Meriadoc_Brandybuck.md) đã biến mất. Họ châm lửa đốt thì phát hiện Strider đã lén lút vào phòng cùng họ.
+Frodo, [Sam](Samwise_Gamgee.md) và [Pippin](../P/Peregrin_Took.md) quay lại phòng khách của [Prancing Pony](../P/Prancing_Pony.md) thì thấy [Merry](../M/Meriadoc_Brandybuck.md) đã biến mất. Họ châm lửa đốt thì phát hiện Strider đã lén lút vào phòng cùng họ.
 
 <h3><span id="Strider.27s_advice"></span><span class="mw-headline" id="Strider&#39;s_advice">Strider&#39;s advice</span></h3>
 
 Strider đã cung cấp Frodo thông tin và lời khuyên. Đổi lại, anh xin Hobbit cho phép anh đi cùng họ cho đến khi anh quyết định rời đi. Frodo yêu cầu được biết thêm về Strider trước khi đưa ra quyết định. Strider hài lòng với yêu cầu này và thấy nó rất thận trọng.
 
-Strider kiểm tra cửa để đảm bảo không có ai nghe thấy. Anh ta tiết lộ rằng anh ta đã nhìn thấy Hobbit cùng với [Tom Bombadil](../T/Tom_Bombadil.md)và quan sát thấy họ đi vào Bree. Anh cũng nghe thấy Frodo cảnh báo những người khác gọi anh là "Underhill" thay vì "Baggins", điều này khơi dậy sự tò mò của Strider vì anh đã đặc biệt chờ đợi một tiếng "Frodo Baggins" đến từ [The Shire](../T/The_Shire.md). Frodo cố gắng bào chữa, nhưng Strider dường như biết rất nhiều về "bí mật" của Frodo, cho rằng anh ta rất quan tâm đến việc đảm bảo rằng bí mật đó không bị lộ ra ngoài. Strider nói thêm rằng trước đó anh đã phát hiện hai chiếc Kỵ sĩ Đen đi qua Bree.
+Strider kiểm tra cửa để đảm bảo không có ai nghe thấy. Anh ta tiết lộ rằng anh ta đã nhìn thấy Hobbit cùng với [Tom Bombadil](../T/Tom_Bombadil.md) và quan sát thấy họ đi vào Bree. Anh cũng nghe thấy Frodo cảnh báo những người khác gọi anh là "Underhill" thay vì "Baggins", điều này khơi dậy sự tò mò của Strider vì anh đã đặc biệt chờ đợi một tiếng "Frodo Baggins" đến từ [The Shire](../T/The_Shire.md). Frodo cố gắng bào chữa, nhưng Strider dường như biết rất nhiều về "bí mật" của Frodo, cho rằng anh ta rất quan tâm đến việc đảm bảo rằng bí mật đó không bị lộ ra ngoài. Strider nói thêm rằng trước đó anh đã phát hiện hai chiếc Kỵ sĩ Đen đi qua Bree.
 
 Frodo than thở vì đã rời khỏi phòng Hobbit' suốt buổi tối hôm đó và chỉ trích [Barliman Butterbur](../B/Barliman_Butterbur.md) vì đã thuyết phục anh ta đi vào phòng sinh hoạt chung. Strider xác nhận độ tin cậy của Barliman và thừa nhận rằng bản thân anh ta cũng trông rất đáng ngờ.
 
-Strider lại khiển trách Frodo vì [trước đó](../A/At_the_Sign_of_the_Prancing_Pony.md#Frodo's_troubled_performance) mặc [Chiếc nhẫn duy nhất](../T/The_One_Ring.md), ám chỉ rằng điều đó sẽ thu hút thêm Kỵ sĩ Đen cho Bree. Anh cảnh báo Frodo về [Bill Ferny](../B/Bill_Ferny.md), người dân địa phương đã lẻn ra khỏi phòng sinh hoạt chung cùng với vị khách miền Nam khả nghi sau vụ tai nạn của Frodo với chiếc Nhẫn:
+Strider lại khiển trách Frodo vì [trước đó](../A/At_the_Sign_of_the_Prancing_Pony.md#Frodo's_troubled_performance) đeo [Chiếc nhẫn duy nhất](../T/The_One_Ring.md), ám chỉ rằng điều đó sẽ thu hút thêm Kỵ sĩ Đen đến Bree. Anh ta cảnh báo Frodo về [Bill Ferny](../B/Bill_Ferny.md), người dân địa phương đã lẻn ra khỏi phòng sinh hoạt chung cùng với vị khách miền Nam khả nghi sau tai nạn của Frodo với chiếc Nhẫn:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>He would sell anything to anybody; or make mischief for amusement.
@@ -79,7 +79,7 @@ Strider giải thích rằng anh ta sẽ là một trợ thủ đắc lực cho 
 
 <h3><span id="Barliman.27s_advice"></span><span class="mw-headline" id="Barliman&#39;s_advice">Barliman&#39;s advice</span></h3>
 
-Cuộc trò chuyện bị cắt ngắn khi Barliman Butterbur bước vào, lúc đó Strider lùi vào bóng tối. Barliman nói rằng anh nhớ lại những gì trước đây anh đã quên; anh ấy đã mong đợi một Hobbit có tên "Baggins" sẽ lấy bút danh "Underhill". Anh ấy đã mô tả về Frodo như được [Gandalf](../G/Gandalf.md)kể với anh ấy, người mà anh ấy khẳng định là bạn của mình, và xin lỗi sâu sắc, nói rằng Gandalf đã hướng dẫn anh ấy gửi một lá thư cho [Hobbiton](../H/Hobbiton.md), điều mà anh ấy đã quên làm - chỉ có sự xuất hiện của Hobbit vào đêm hôm đó mới khiến trí nhớ của anh ấy nhớ lại. Anh ấy nói thêm rằng Gandalf đã yêu cầu anh ấy hỗ trợ "Baggins" nếu anh ấy có mặt và không hỏi anh ấy bất cứ câu hỏi nào.
+Cuộc trò chuyện bị cắt ngắn khi Barliman Butterbur bước vào, lúc đó Strider lùi vào bóng tối. Barliman nói rằng anh nhớ lại những gì trước đây anh đã quên; anh ấy đã mong đợi một Hobbit có tên "Baggins" sẽ lấy bút danh "Underhill". Anh ấy đã mô tả về Frodo như được [Gandalf](../G/Gandalf.md) kể với anh ấy, người mà anh ấy khẳng định là bạn của mình, và xin lỗi sâu sắc, nói rằng Gandalf đã hướng dẫn anh ấy gửi một lá thư cho [Hobbiton](../H/Hobbiton.md), điều mà anh ấy đã quên làm - chỉ có sự xuất hiện của Hobbit vào đêm hôm đó mới khiến trí nhớ của anh ấy nhớ lại. Anh ấy nói thêm rằng Gandalf đã yêu cầu anh ấy hỗ trợ "Baggins" nếu anh ấy có mặt và không hỏi anh ấy bất cứ câu hỏi nào.
 
 Barliman đã đề cập rằng Frodo có thể gặp rắc rối, do những kẻ đen tối đặt câu hỏi về anh ta xung quanh Bree. Anh ta nói rằng hai trong số những người đàn ông da đen này đã đến vào thứ Hai tuần trước và khiến trợ lý của anh ta khiếp sợ. Barliman đã đuổi họ đi nhưng họ vẫn tiếp tục rình mò [Bree-land](../B/Bree-land.md) để tìm câu trả lời.
 
@@ -101,7 +101,7 @@ Bức thư được ký bằng chữ rune [Angerthas](../A/Angerthas.md) của G
 
 Frodo đã chuyển thư cho Sam và Pippin. Anh ta khiển trách Strider về việc không tiết lộ ngay từ đầu rằng anh ta là bạn của Gandalf. Strider trả lời rằng Frodo sẽ không tin anh ta. Anh ấy cũng nói rằng trước tiên anh ấy muốn chắc chắn rằng Frodo chính là người mà anh ấy tuyên bố. Cuối cùng, anh tâm sự rằng anh thầm hy vọng Frodo sẽ tin tưởng anh ngay cả khi không biết anh là bạn của Gandalf.
 
-Sam vẫn nghi ngờ Strider, cho rằng anh ta có thể giết người thật và thế chỗ. Strider trả lời rằng nếu anh ấy muốn lấy Chiếc nhẫn duy nhất thì anh ấy có thể lấy ngay lập tức. Nói xong, anh ta đứng dậy và đặt tay lên chuôi kiếm, đột nhiên xuất hiện như một mối nguy hiểm lớn cho Hobbit. Tuy nhiên, anh nhanh chóng bình tĩnh lại, tiết lộ tên đầy đủ của mình là Aragorn con trai của [Arathorn](../A/Arathorn_II.md) và cam kết mạng sống của mình để bảo vệ Frodo. Cuối cùng, Frodo đã chấp nhận lời đề nghị của Strider để làm người hướng dẫn cho họ.
+Sam vẫn nghi ngờ Strider, cho rằng anh ta có thể giết người thật và thế chỗ. Strider trả lời rằng nếu anh ấy muốn lấy The One Ring, anh ấy có thể làm ngay lập tức. Nói xong, anh ta đứng dậy và đặt tay lên chuôi kiếm, đột nhiên xuất hiện như một mối nguy hiểm lớn cho Hobbit. Tuy nhiên, anh nhanh chóng bình tĩnh lại, tiết lộ tên đầy đủ của mình là Aragorn con trai của [Arathorn](../A/Arathorn_II.md) và cam kết mạng sống của mình để bảo vệ Frodo. Cuối cùng, Frodo chấp nhận lời đề nghị của Strider để làm người hướng dẫn cho họ.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>You have frightened me several times tonight, but never in the way that servants of the Enemy would, or so I imagine. I think one of his spies would — well, seem fairer and feel fouler, if you understand.

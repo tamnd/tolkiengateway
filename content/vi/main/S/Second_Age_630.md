@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sự ra đời của [Valandil](<../V/Valandil_(Lord_of_Andúnië).md>), con trai của [Silmariën](Silmariën.md) và [Elatan](../E/Elatan.md) và [Lãnh chúa Andúnië](../L/Lords_of_Andúnië.md)đầu tiên.<sup id="cite_ref-earlier_1-0" class="reference"><a href="#cite_note-earlier-1">[1]</a></sup>
+- Sự ra đời của [Valandil](<../V/Valandil_(Lord_of_Andúnië).md>), con trai của [Silmariën](Silmariën.md) và [Elatan](../E/Elatan.md) và [Lãnh chúa Andúnië](../L/Lords_of_Andúnië.md) đầu tiên.<sup id="cite_ref-earlier_1-0" class="reference"><a href="#cite_note-earlier-1">[1]</a></sup>
 
 <span></span>
 

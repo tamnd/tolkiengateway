@@ -35,7 +35,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Nali đi công tác ở [Eriador](../E/Eriador.md)và nghỉ qua đêm ở [Bree](../B/Bree.md). Anh ấy rất ngạc nhiên khi một [Hobbit](../H/Hobbits.md) tên [Underhill](../F/Frodo_Baggins.md) biết về [Vương quốc dưới Núi](../K/Kingdom_under_the_Mountain.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Nali đi công tác ở [Eriador](../E/Eriador.md) và nghỉ qua đêm ở [Bree](../B/Bree.md). Anh ấy rất ngạc nhiên khi một [Hobbit](../H/Hobbits.md) tên [Underhill](../F/Frodo_Baggins.md) biết về [Vương quốc dưới Núi](../K/Kingdom_under_the_Mountain.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

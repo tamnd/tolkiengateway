@@ -57,7 +57,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Sau khi [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md) giải cứu một Silmaril từ [Vương miện Sắt](../I/Iron_Crown.md)của [Morgoth](../M/Morgoth.md), thứ này sau đó được trao cho hậu duệ [Elwing](../E/Elwing.md)của họ, vợ của [Eärendil](../E/Eärendil.md). Cả hai đều đưa nó lên [Aman](../A/Aman.md)và Valar quyết định nâng nó lên thành một ngôi sao mới. Trên con tàu do <a class="mw-redirect mw-disambig" href="../E/Elbereth.md" title="Elbereth">Elbereth</a>chỉ định, Eärendil xuất hiện ở phía chân trời như một dấu hiệu hy vọng cho [Tiên tộc](../E/Elves.md) và [Con Người](../M/Men.md).
+Sau khi [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md) giải cứu một Silmaril từ [Vương miện Sắt](../I/Iron_Crown.md) của [Morgoth](../M/Morgoth.md), thứ này sau đó được trao cho hậu duệ [Elwing](../E/Elwing.md) của họ, vợ của [Eärendil](../E/Eärendil.md). Cả hai đều đưa nó lên [Aman](../A/Aman.md) và Valar quyết định nâng nó lên thành một ngôi sao mới. Trên con tàu do <a class="mw-redirect mw-disambig" href="../E/Elbereth.md" title="Elbereth">Elbereth</a>chỉ định, Eärendil xuất hiện ở phía chân trời như một dấu hiệu hy vọng cho [Tiên tộc](../E/Elves.md) và [Con Người](../M/Men.md).
 
 <blockquote class="tg-quote noexcerpt">
 <p>Now fair and marvellous was that vessel made, and it was filled with a wavering flame, pure and bright; and Eärendil the Mariner sat at the helm, glistening with dust of elven-gems, and the Silmaril was bound upon his brow. Far he journeyed in that ship, even into the starless voids; but most often was he seen at morning or at evening, glimmering in sunrise or sunset, as he came back to Valinor from voyages beyond the confines of the world.<br/>. . .<br/>Now when first Vingilot was set to sail in the seas of heaven, it rose unlooked for, glittering and bright; and the people of Middle-earth beheld it from afar and wondered, and they took it for a sign, and called it Gil-Estel, the Star of High Hope.
@@ -73,7 +73,7 @@ Chính Eärendil và ánh sáng của ngôi sao của ông đã dẫn [Edain](..
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Các dạng trước đó của tên *Gil-Estel* là *Gil-Orestel*, *Gil-[Amdir](<../A/Amdir_(Sindarin_word).md>)* và *Gil-Orrain*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Các dạng trước đây của tên *Gil-Estel* là *Gil-Orestel*, *Gil-[Amdir](<../A/Amdir_(Sindarin_word).md>)* và *Gil-Orrain*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Trong *[The Nature of Middle-earth](../T/The_Nature_of_Middle-earth.md)*, ngôi sao này trong lịch sử được gọi là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Elm%C5%8D&amp;action=edit&amp;redlink=1" title="Elmō (page does not exist)">Elmō</a></i> trong [Nguyên thủy Elvish](../P/Primitive_Elvish.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

@@ -20,4 +20,4 @@ images:
 <p class="tg-quote-footer"><cite><a href="../../main/G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-Xóa TẤT CẢ hình ảnh do AI tải lên trên trang danh mục này theo chính sách của [Tolkien Gateway](../../main/T/Tolkien_Gateway.md)đối với hình ảnh AI.
+Xóa TẤT CẢ hình ảnh do AI tải lên trên trang danh mục này theo chính sách của [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) đối với hình ảnh AI.

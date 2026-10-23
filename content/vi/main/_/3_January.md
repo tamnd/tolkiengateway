@@ -69,7 +69,7 @@ Sự kiện xảy ra vào ngày 3 tháng 1.
 - **[1892](1892.md) - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ra đời.**
 - **[1913](1913.md)** - Tolkien [liên hệ](<../L/Letter_to_Edith_Bratt_(3_January_1913).md>) [Edith Bratt](../E/Edith_Tolkien.md), người sau đó hủy hôn ước với một người đàn ông khác.
 - **[1937](1937.md)** - Diễn viên [Norman Forsey](../N/Norman_Forsey.md) ra đời.
-- **[1972](1972.md)** - [Hội Tolkien](../T/The_Tolkien_Society.md)chúc J.R.R. Tolkien sinh nhật lần thứ 80 vui vẻ tại *The Times.*
+- **[1972](1972.md)** - [Hội Tolkien](../T/The_Tolkien_Society.md) chúc J.R.R. Tolkien sinh nhật lần thứ 80 vui vẻ tại *The Times.*
 - **[1972](1972.md)** - [Hội Tolkien](../T/The_Tolkien_Society.md) gửi Tolkien một hũ thuốc lá làm quà sinh nhật.
 - **[1992](1992.md)** - Nhân dịp kỷ niệm trăm năm Suomen Tolkien-seura ry. (Hiệp hội Tolkien Phần Lan, kể từ năm 2012 [Suomen Tolkien-seura Kontu ry.](../S/Suomen_Tolkien-seura_Kontu_ry..md), Hiệp hội Tolkien Phần Lan Kontu) được thành lập.
 - **[1993](1993.md)** - Hiệp hội [Đan Mạch Tolkien, Imladris](../I/Imladris,_Danmarks_Tolkienforening.md) được thành lập.

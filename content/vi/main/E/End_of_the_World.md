@@ -23,7 +23,7 @@ images:
 
 ## Mô tả {#Description}
 
-*End of the World* thể hiện một người đàn ông có vẻ vô tư bước ra từ vách đá xuống vực thẳm. Bên kia vách đá là [Mặt Trời](../S/Sun.md), [Mặt Trăng](../M/Moon.md)và [ngôi sao](../S/Stars.md) — những yếu tố then chốt trong [huyền thoại](../L/Legendarium.md) của Tolkien. Hình minh họa được thực hiện vào tháng 12 [1912](../_/1912.md)và được Tolkien sưu tầm cùng với các hình minh họa khác cùng thời kỳ trong một phong bì có nhãn "[Những hình ảnh đầu tiên](../T/The_Book_of_Ishness.md)".<sup id="cite_ref-AI_1-1" class="reference"><a href="#cite_note-AI-1">[1]</a></sup>
+*End of the World* thể hiện một người đàn ông có vẻ vô tư bước ra từ vách đá xuống vực thẳm. Bên kia vách đá là [Mặt Trời](../S/Sun.md), [Mặt Trăng](../M/Moon.md) và [ngôi sao](../S/Stars.md) — những yếu tố then chốt trong [huyền thoại](../L/Legendarium.md) của Tolkien. Hình minh họa được thực hiện vào tháng 12 [1912](../_/1912.md) và được Tolkien sưu tầm cùng với các hình minh họa khác cùng thời kỳ trong một phong bì có nhãn "[Những hình ảnh đầu tiên](../T/The_Book_of_Ishness.md)".<sup id="cite_ref-AI_1-1" class="reference"><a href="#cite_note-AI-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

@@ -81,23 +81,23 @@ infobox:
 </tbody></table>
 </div></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Timeline</span></th></tr></tbody></table>
 
-**Gwaihir**, còn được gọi là **Windlord**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là [Great Đại Bàng](Great_Eagles.md) vĩ đại của miền bắc [Trung Địa](../M/Middle-earth.md)<sup id="cite_ref-Council_2-0" class="reference"><a href="#cite_note-Council-2">[2]</a></sup> và là người nhanh nhất trong số Đại Bàng<sup id="cite_ref-Cormallen_3-0" class="reference"><a href="#cite_note-Cormallen-3">[3]</a></sup> vĩ đại vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
+**Gwaihir**, còn được gọi là **Chúa tể Gió**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là vị đứng đầu trong số các [Đại Bàng Lớn](Great_Eagles.md) ở miền bắc [Trung Địa](../M/Middle-earth.md)<sup id="cite_ref-Council_2-0" class="reference"><a href="#cite_note-Council-2">[2]</a></sup> và là vị nhanh nhất trong số các Đại Bàng Lớn<sup id="cite_ref-Cormallen_3-0" class="reference"><a href="#cite_note-Cormallen-3">[3]</a></sup> vào thời điểm diễn ra [Cuộc Chiến Nhẫn](../W/War_of_the_Ring.md).
 
 ## Lịch sử {#History}
 
-Gwaihir là hậu duệ hùng mạnh nhất của [Thorondor](../T/Thorondor.md) và là anh trai của [Landroval](../L/Landroval.md).<sup id="cite_ref-Cormallen_3-1" class="reference"><a href="#cite_note-Cormallen-3">[3]</a></sup> Trong [Kỷ Đệ Nhất](../F/First_Age.md), Gwaihir là chư hầu của Thorondor và đã giúp Thorondor và Landroval giải cứu [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md) khỏi [Angband](../A/Angband.md).<sup id="cite_ref-P1_4-0" class="reference"><a href="#cite_note-P1-4">[4]</a></sup>
+Gwaihir là hậu duệ hùng mạnh nhất của [Thorondor](../T/Thorondor.md) và là anh em của [Landroval](../L/Landroval.md).<sup id="cite_ref-Cormallen_3-1" class="reference"><a href="#cite_note-Cormallen-3">[3]</a></sup> Trong [Kỷ Đệ Nhất](../F/First_Age.md), Gwaihir là chư hầu của Thorondor và đã giúp Thorondor cùng Landroval giải cứu [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md) khỏi [Angband](../A/Angband.md).<sup id="cite_ref-P1_4-0" class="reference"><a href="#cite_note-P1-4">[4]</a></sup>
 
-Trong chuyến [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), [Radagast](../R/Radagast.md) đi về hướng [Mirkwood](../M/Mirkwood.md) nơi anh có nhiều bạn bè cũ. Đại Bàng khởi hành và thu thập tin tức: [những con sói](../W/Wolves.md) và [Orc](../O/Orcs.md) tập hợp và tập hợp, chuyển động của [Chín Kỵ sĩ](../N/Nazgûl.md) và cuộc trốn thoát của [Gollum](Gollum.md) khỏi Mirkwood.<sup id="cite_ref-Council_2-1" class="reference"><a href="#cite_note-Council-2">[2]</a></sup>
+Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), [Radagast](../R/Radagast.md) cưỡi ngựa đi về phía [Mirkwood](../M/Mirkwood.md), nơi ông có nhiều người bạn cũ. Các Đại Bàng lên đường thu thập tin tức: bầy [sói](../W/Wolves.md) và [Orc](../O/Orcs.md) đang tập hợp và chuẩn bị lực lượng, những cuộc di chuyển của [Chín Kỵ Sĩ](../N/Nazgûl.md), cùng việc [Gollum](Gollum.md) trốn thoát khỏi Mirkwood.<sup id="cite_ref-Council_2-1" class="reference"><a href="#cite_note-Council-2">[2]</a></sup>
 
-Theo chỉ dẫn của Gandalf, Radagast cử Gwaihir báo tin cho anh ta tại [Isengard](../I/Isengard.md), nhưng Gandalf lúc đó đang bị giam giữ trên đỉnh cao của [Orthanc](../O/Orthanc.md). Vào một đêm mùa thu, Gandalf nhìn thấy Đại bàng bay về phía mình nên Gwaihir đã giải cứu Pháp sư. Nhưng Gwaihir không thể chở anh ta đi xa nên Gwaihir đã để anh ta ở [Edoras](../E/Edoras.md) để tìm chiến mã.<sup id="cite_ref-Council_2-2" class="reference"><a href="#cite_note-Council-2">[2]</a></sup>
+Theo chỉ thị của Gandalf, Radagast cử Gwaihir mang tin tức đến cho ông tại [Isengard](../I/Isengard.md), nhưng lúc bấy giờ Gandalf đang bị giam giữ trên đỉnh [Orthanc](../O/Orthanc.md). Vào một đêm mùa thu, Gandalf nhìn thấy Đại Bàng bay về phía mình, và Gwaihir đã giải cứu vị Pháp Sư. Tuy nhiên, Gwaihir không thể chở ông đi xa, nên đã thả ông xuống [Edoras](../E/Edoras.md) để tìm một con vật cưỡi.<sup id="cite_ref-Council_2-2" class="reference"><a href="#cite_note-Council-2">[2]</a></sup>
 
-Sau đó anh được [Galadriel](Galadriel.md) cử đi tìm Gandalf; anh ta đã tìm thấy anh ta trên đỉnh [Celebdil](../C/Celebdil.md) sau [Trận chiến trên đỉnh](../B/Battle_of_the_Peak.md) và mang anh ta đến [Lothlórien](../L/Lothlórien.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Sau khi Gandalf hồi phục, anh ta cử Gwaihir đi xem [Anduin](../A/Anduin.md) và thu thập tin tức.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Sau đó, [Galadriel](Galadriel.md) phái Gwaihir đi tìm Gandalf; ông tìm thấy Gandalf trên đỉnh [Celebdil](../C/Celebdil.md) sau [Trận chiến trên Đỉnh Núi](../B/Battle_of_the_Peak.md), rồi chở ông đến [Lothlórien](../L/Lothlórien.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Sau khi Gandalf hồi phục, ông phái Gwaihir đến theo dõi [Anduin](../A/Anduin.md) và thu thập tin tức.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Gwaihir, [Landroval](../L/Landroval.md) và [Meneldor](../M/Meneldor.md) cùng những con đại bàng lớn khác đã giúp đỡ [các Dân tộc Tự do](../F/Free_peoples~19934.md) trong [Trận Morannon](../B/Battle_of_the_Morannon.md) bằng cách cúi xuống [Nazgûl](../N/Nazgûl.md) đang bay trên những con thú có cánh. Sau khi [One Ring](../O/One_Ring.md) Gwaihir bị phá hủy, Landroval và Meneldor bay vào [Mordor](../M/Mordor.md) để tìm kiếm Frodo và Sam đồng thời đưa Frodo và Sam ra khỏi Mordor đến nơi an toàn.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Gwaihir, [Landroval](../L/Landroval.md), [Meneldor](../M/Meneldor.md) cùng những Đại Bàng vĩ đại khác đã giúp đỡ [các Dân tộc Tự do](../F/Free_peoples~19934.md) trong [Trận chiến Morannon](../B/Battle_of_the_Morannon.md) bằng cách sà xuống tấn công các [Nazgûl](../N/Nazgûl.md) đang cưỡi những con thú có cánh. Sau khi [Chiếc Nhẫn Chủ](../O/One_Ring.md) bị phá hủy, Gwaihir, Landroval và Meneldor bay vào [Mordor](../M/Mordor.md) để tìm Frodo và Sam, rồi đưa cả hai ra khỏi Mordor đến nơi an toàn.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stephen_Hickman_-_Escape_from_Orthanc.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d9/Stephen_Hickman_-_Escape_from_Orthanc.jpg/300px-Stephen_Hickman_-_Escape_from_Orthanc.jpg" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d9/Stephen_Hickman_-_Escape_from_Orthanc.jpg/450px-Stephen_Hickman_-_Escape_from_Orthanc.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d9/Stephen_Hickman_-_Escape_from_Orthanc.jpg/600px-Stephen_Hickman_-_Escape_from_Orthanc.jpg 2x" data-file-width="700" data-file-height="700"/></a><figcaption>Stephen Hickman - <i>Escape from Orthanc</i></figcaption></figure>
 
-## Phả hệ {#Genealogy}
+## Gia phả {#Genealogy}
 
 <div class="tg-familytree"><table class="citizen-overflow" cellspacing="0" cellpadding="0" border="0" align="center" style="">
 <tbody><tr align="center"><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a href="../T/Thorondor.md" title="Thorondor">Thorondor</a></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td></tr><tr align="center"></tr>
@@ -109,19 +109,19 @@ Gwaihir, [Landroval](../L/Landroval.md) và [Meneldor](../M/Meneldor.md) cùng n
 
 ## Từ nguyên {#Etymology}
 
-<i><b>Gwaihir</b></i> là một tên [Sindarin](../S/Sindarin.md),<sup id="cite_ref-PE17_8-0" class="reference"><a href="#cite_note-PE17-8">[8]</a></sup> có lẽ có nghĩa là "Chúa gió",<sup id="cite_ref-Eldamo_9-0" class="reference"><a href="#cite_note-Eldamo-9">[9]</a></sup> vì anh ta thường được gọi là "Gwaihir Chúa gió".<sup id="cite_ref-Council_2-3" class="reference"><a href="#cite_note-Council-2">[2]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Phần tử đầu tiên của tên là *[gwae(w)](Gwaew.md)* ("gió").<sup id="cite_ref-PE17_8-1" class="reference"><a href="#cite_note-PE17-8">[8]</a></sup> Có thể phần tử thứ hai là *[hîr](../H/Hîr.md)* ("chúa", "chủ").<sup id="cite_ref-Eldamo_9-1" class="reference"><a href="#cite_note-Eldamo-9">[9]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+<i><b>Gwaihir</b></i> là một cái tên thuộc tiếng [Sindarin](../S/Sindarin.md),<sup id="cite_ref-PE17_8-0" class="reference"><a href="#cite_note-PE17-8">[8]</a></sup> có lẽ mang nghĩa là "Chúa tể Gió",<sup id="cite_ref-Eldamo_9-0" class="reference"><a href="#cite_note-Eldamo-9">[9]</a></sup> bởi ông thường được gọi là "Gwaihir Chúa tể Gió".<sup id="cite_ref-Council_2-3" class="reference"><a href="#cite_note-Council-2">[2]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Thành tố đầu tiên của tên gọi là *[gwae(w)](Gwaew.md)* ("gió").<sup id="cite_ref-PE17_8-1" class="reference"><a href="#cite_note-PE17-8">[8]</a></sup> Thành tố thứ hai có lẽ là *[hîr](../H/Hîr.md)* ("chúa tể", "chủ nhân").<sup id="cite_ref-Eldamo_9-1" class="reference"><a href="#cite_note-Eldamo-9">[9]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
-## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
+## Các phiên bản khác của truyền thuyết hệ {#Other_versions_of_the_legendarium}
 
-Những con đại bàng có tên "Gwaihir" và "Landroval" (hoặc thậm chí trong các văn bản trước đó là "Gwaewar" và "Lhandroval") xuất hiện trong phiên bản đầu tiên của *[The Silmarillion](../T/The_Silmarillion.md)*, với tư cách là chư hầu của Thorondor, những người đã giúp sinh ra [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md) từ [Angband](../A/Angband.md).<sup id="cite_ref-P1_4-1" class="reference"><a href="#cite_note-P1-4">[4]</a></sup> Những tài liệu tham khảo này đã bị [Christopher xóa Tolkien](../C/Christopher_Tolkien.md) để thoát khỏi sự mâu thuẫn dường như với *The Lord of the Rings*, mặc dù sau đó ông thừa nhận rằng sự thiếu sót này là một sai lầm.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+Những Đại bàng mang tên "Gwaihir" và "Landroval" (hoặc trong các văn bản còn sớm hơn, "Gwaewar" và "Lhandroval") xuất hiện trong một phiên bản sơ khai của *[The Silmarillion](../T/The_Silmarillion.md)*, với tư cách là các chư hầu của Thorondor, những kẻ đã giúp đưa [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md) rời khỏi [Angband](../A/Angband.md).<sup id="cite_ref-P1_4-1" class="reference"><a href="#cite_note-P1-4">[4]</a></sup> [Christopher Tolkien](../C/Christopher_Tolkien.md) đã loại bỏ những đề cập này để tránh sự mâu thuẫn có vẻ tồn tại với *The Lord of the Rings*, mặc dù về sau ông thừa nhận rằng việc lược bỏ này là một sai lầm.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 
-Trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Gwaihir cõng Gandalf hai lần, và ở cuối sách Gandalf nói rằng Gwaihir đã cõng anh ta hai lần.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Điều này có thể hiểu là Gwaihir chưa bao giờ cõng anh ta trước đó, nhưng cũng có thể Gandalf chỉ đề cập đến số lần Gwaihir cõng anh ta trong quá khứ gần đây trong các sự kiện diễn ra ở *The Lord of the Rings*.
+Trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Gwaihir chở Gandalf hai lần, và đến cuối cuốn sách, Gandalf nói rằng Gwaihir đã chở ông hai lần.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Điều này có thể được hiểu là hàm ý rằng Gwaihir chưa từng chở ông trước đó, nhưng cũng có thể Gandalf chỉ đề cập đến số lần Gwaihir chở ông trong khoảng thời gian gần đây, qua những sự kiện diễn ra trong *The Lord of the Rings*.
 
-[Robert Foster](../R/Robert_Foster.md) ngụ ý rằng Gwaihir là [Chúa tể của Đại Bàng](../L/Lord_of_the_Eagles.md) của *[The Hobbit](../T/The_Hobbit.md)*<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> mặc dù [Tolkien](../J/J.R.R._Tolkien.md) chưa bao giờ liên hệ cũng như không đề cập rằng Gwaihir là Chúa tể của Đại Bàng. [Douglas Anderson](../D/Douglas_Anderson.md)<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> và [Anders Stenström](../A/Anders_Stenström.md) (Beregond)<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> bác bỏ rằng Gwaihir là Chúa của Đại Bàng của *The Hobbit*.
+[Robert Foster](../R/Robert_Foster.md) ngụ ý rằng Gwaihir chính là [Chúa tể các Đại bàng](../L/Lord_of_the_Eagles.md) trong *[The Hobbit](../T/The_Hobbit.md)*<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>, mặc dù [Tolkien](../J/J.R.R._Tolkien.md) chưa bao giờ xác lập mối liên hệ này hay đề cập rằng Gwaihir là Chúa tể các Đại bàng. [Douglas Anderson](../D/Douglas_Anderson.md)<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> và [Anders Stenström](../A/Anders_Stenström.md) (Beregond)<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> bác bỏ quan điểm cho rằng Gwaihir là Chúa tể các Đại bàng trong *The Hobbit*.
 
-## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
+## Sự khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-### Gwaihir trong các bản chuyển thể {#Gwaihir_in_adaptations}
+### Gwaihir trong các tác phẩm chuyển thể {#Gwaihir_in_adaptations}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 285px">
@@ -191,15 +191,15 @@ Trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Gwaihir cõng Ga
 
 ### Phim {#Films}
 
-<b>1971: <a href="../S/Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)"><i>Sagan om Ringen</i> (phim 1971)</a>:</b>
+<b>1971: <a href="../S/Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)"><i>Sagan om Ringen</i> (1971 film)</a>:</b>
 
 <dl><dd><a href="Gandalf.md" title="Gandalf">Gandalf</a>, trapped on <a href="../S/Saruman.md" title="Saruman">Saruman</a>&#39;s <a href="../O/Orthanc.md" title="Orthanc">highest tower</a>, sends a message to the birds. Gwaihir, the swiftest of the Great <a class="mw-redirect" href="../E/Eagles.md" title="Eagles">Eagles</a>, answers his call and picks Gandalf up with his talons. Gandalf asks Gwaihir how far he will take him and Gwaihir tells him that he can go many more miles, though wizards are heavier than the beings he usually carries. Gandalf decides he needs to go to a place which raises <a href="../H/Horses.md" title="Horses">Horses</a> and settles on <a href="../R/Rohan.md" title="Rohan">Rohan</a>. Just before dawn, Gwaihir sets Gandalf down in Rohan.</dd></dl>
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd><a href="Gandalf.md" title="Gandalf">Gandalf</a> explains to <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> that, while trapped on top of <a href="../O/Orthanc.md" title="Orthanc">Orthanc</a>, the Great Eagle Gwaihir answered his call and bore him away. Gandalf notes that &#34;<a href="../S/Saruman.md" title="Saruman">Saruman</a> has never paid enough attention to animals.&#34;</dd></dl>
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể những chiếc nhẫn: The Fellowship of the Ring</a></i>:</b>
 
 <dl><dd>Gandalf whispers &#34;Gwaihir&#34; repeatedly to a <a href="../M/Moths.md" title="Moths">moth</a> that arrives at <a href="../I/Isengard.md" title="Isengard">Isengard</a>. Later, Gwaihir rescues <a href="Gandalf.md" title="Gandalf">Gandalf</a> from Isengard, and carries him to safety.</dd></dl>
 
@@ -207,15 +207,15 @@ Trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Gwaihir cõng Ga
 
 <dl><dd>Gwaihir and his Eagles come to aid at the <a href="../B/Battle_of_the_Morannon.md" title="Battle of the Morannon">Battle of the Morannon</a>. They attack the Nazgûl and their <a href="../F/Fell_beasts.md" title="Fell beasts">fell beasts</a>. After the battle is won and the One Ring destroyed, Gwaihir along with <a href="Gandalf.md" title="Gandalf">Gandalf</a> and a second Eagle rescue <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a> and <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a> from the rocks of <a href="../M/Mount_Doom.md" title="Mount Doom">Mount Doom</a>.</dd></dl>
 
-### Loạt đài phát thanh {#Radio_series}
+### Loạt chương trình phát thanh {#Radio_series}
 
-<b>1981: <i><a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)">Chúa tể của chiếc nhẫn của đài BBC</a></i>:</b>
+<b>1981: <i><a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)">The Lord of the Ring của Đài phát thanh BBC</a></i>:</b>
 
 <dl><dd><a href="../A/Alexander_John.md" title="Alexander John">Alexander John</a> provided the voice of Gwaihir during Gandalf&#39;s rescue from Orthanc.</dd></dl>
 
 ### Trò chơi điện tử {#Video_games}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Gwaihir is first mentioned by <a href="Gandalf.md" title="Gandalf">Gandalf</a> when the player meets up with him at <a href="../T/The_Prancing_Pony.md" title="The Prancing Pony">the Prancing Pony</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> The player first sees Gwaihir when entering Galadriel&#39;s garden in <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a> for the first time.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> Later, he arrives on the peak of Iorbar in the <a href="../M/Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a> to reclaim a stolen eagle egg taken by a giant. Finally, he arrives at and participates in the <a href="../B/Battle_of_the_Morannon.md" title="Battle of the Morannon">Battle of the Morannon</a> with the other eagles, and saves <a class="mw-redirect" href="../F/Frodo.md" title="Frodo">Frodo</a> and <a class="mw-redirect" href="../S/Sam.md" title="Sam">Sam</a> from the slopes of <a href="../M/Mount_Doom.md" title="Mount Doom">Mount Doom</a>.</dd></dl>
 
@@ -231,7 +231,7 @@ Trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Gwaihir cõng Ga
 
 ## Xem thêm {#See_also}
 
-- [Đại bàng lớn](Great_Eagle.md) (Đại bàng trong *The Hobbit* đôi khi bị nhầm là Gwaihir)
+- [Đại bàng Vĩ đại](Great_Eagle.md) (con Đại bàng trong *The Hobbit* đôi khi bị nhầm là Gwaihir)
 
 <span></span>
 

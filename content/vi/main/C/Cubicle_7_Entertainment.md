@@ -17,11 +17,11 @@ images:
 
 <figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/C/Cubicle_7_Entertainment_logo.jpg.md"><img src="https://tolkiengateway.net/w/images/2/21/Cubicle_7_Entertainment_logo.jpg" decoding="async" loading="lazy" width="269" height="178" class="mw-file-element" data-file-width="269" data-file-height="178"/></a><figcaption>Company logo</figcaption></figure>
 
-**Cubicle 7 Entertainment** là một công ty tổ chức sự kiện và phát hành có trụ sở tại Anh, chuyên về ngành trò chơi. Được thành lập vào [2006](../_/2006.md)bởi Angus Abranson và Dominic McDowall-Thomas, công ty đã xuất bản các trò chơi nhập vai từ danh sách các tài sản được cấp phép và tự trồng. Vào [20 tháng 1](../_/20_January.md) [2010](../_/2010.md), Cubicle thông báo phát hành *[The One Ring: The Lord of the Rings Role-playing Game](../T/The_One_Ring%253A_The_Lord_of_the_Rings_Role-playing_Game.md)*.
+**Cubicle 7 Entertainment** là một công ty tổ chức sự kiện và phát hành có trụ sở tại Anh, chuyên về ngành trò chơi. Được thành lập vào [2006](../_/2006.md) bởi Angus Abranson và Dominic McDowall-Thomas, công ty đã xuất bản các trò chơi nhập vai từ danh sách các tài sản được cấp phép và tự trồng. Vào [20 tháng 1](../_/20_January.md) [2010](../_/2010.md), Cubicle thông báo phát hành *[The One Ring: The Lord of the Rings Role-playing Game](../T/The_One_Ring%253A_The_Lord_of_the_Rings_Role-playing_Game.md)*.
 
 Vào [27 tháng 7](../_/27_July.md) [2016](../_/2016.md), Cubicle thông báo phát hành *[Adventures in Middle-earth](../A/Adventures_in_Middle-earth.md)*.<sup id="cite_ref-Announce_1-0" class="reference"><a href="#cite_note-Announce-1">[1]</a></sup>
 
-Vào [27 tháng 11](../_/27_November.md) [2019](../_/2019.md), công ty đã thông báo rằng, vào nửa đầu [2020](../_/2020.md), họ sẽ ngừng xuất bản Chiếc nhẫn duy nhất và Những cuộc phiêu lưu trong Trung Địa.<sup id="cite_ref-TORE_2-0" class="reference"><a href="#cite_note-TORE-2">[2]</a></sup>
+Vào [27 tháng 11](../_/27_November.md) [2019](../_/2019.md), công ty đã thông báo rằng, vào nửa đầu [2020](../_/2020.md), họ sẽ ngừng xuất bản The One Ring và Adventures in Trung Địa.<sup id="cite_ref-TORE_2-0" class="reference"><a href="#cite_note-TORE-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

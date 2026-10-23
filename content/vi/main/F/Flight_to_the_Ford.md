@@ -45,7 +45,7 @@ infobox:
 
 **Chuyến bay tới chiếc Ford** là chương thứ mười hai và là chương cuối cùng trong cuốn sách đầu tiên của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Các nhân vật chính là [Frodo Baggins](Frodo_Baggins.md), [Strider](../S/Strider.md) và [Glorfindel](../G/Glorfindel.md), đi kèm với [Samwise (Sam) Gamgee](../S/Samwise_Gamgee.md), [Peregrin (Pippin) Took](../P/Peregrin_Took.md) và [Meriadoc (Merry) Brandybuck](../M/Meriadoc_Brandybuck.md).
 
-Chương này kể về mức độ nghiêm trọng của vết thương của Frodo từ [cuộc chiến](../A/A_Knife_in_the_Dark.md#On_Weathertop) vào [Weathertop](../W/Weathertop.md), hành trình khẩn cấp của nhóm dành cho [Rivendell](../R/Rivendell.md) với hy vọng chữa khỏi bệnh cho anh ta, việc họ đi qua [Trollshaws](../T/Trollshaws.md), gặp gỡ [Glorfindel](../G/Glorfindel.md)và cuộc chạm trán của họ với [Kỵ sĩ Đen](../B/Black_Riders.md) tại [Ford of Bruinen](Ford_of_Bruinen.md).
+Chương này kể về mức độ nghiêm trọng của vết thương của Frodo từ [cuộc chiến](../A/A_Knife_in_the_Dark.md#On_Weathertop) vào [Weathertop](../W/Weathertop.md), hành trình khẩn cấp của nhóm dành cho [Rivendell](../R/Rivendell.md) với hy vọng chữa khỏi bệnh cho anh ta, việc họ đi qua [Trollshaws](../T/Trollshaws.md), gặp gỡ [Glorfindel](../G/Glorfindel.md) và cuộc chạm trán của họ với [Kỵ sĩ Đen](../B/Black_Riders.md) tại [Ford of Bruinen](Ford_of_Bruinen.md).
 
 Sự ra đời của Glorfindel, một [yêu tinh](../E/Elves.md) mạnh mẽ từ Rivendell, củng cố tầm quan trọng của sứ mệnh của Frodo và sự hỗ trợ mà [Những người dân tự do](Free_Peoples.md) sẵn sàng cung cấp.
 
@@ -55,7 +55,7 @@ Chương này bắt đầu khi [chương trước](../A/A_Knife_in_the_Dark.md) 
 
 ### Rời đi Weathertop {#Leaving_Weathertop}
 
-Được Sam, Merry và Pippin theo dõi, Frodo đã tỉnh lại, kích động và vẫn ôm chặt [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).
+Được Sam, Merry và Pippin theo dõi, Frodo đã tỉnh lại, kích động và vẫn ôm chặt [Chiếc Nhẫn](../T/The_One_Ring.md).
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>What has happened? Where is the pale king?
@@ -71,7 +71,7 @@ Sam nói với Frodo rằng tất cả những gì họ nhìn thấy chỉ là n
 
 Strider và Hobbit quyết định rời đi Weathertop càng sớm càng tốt. Khi mặt trời mọc, họ chất Frodo bất động lên [con ngựa của họ](../B/Bill_the_Pony.md) (con ngựa này dường như đã được tăng cường sức mạnh) và phân phát số vật dụng còn lại giữa chúng. Họ tiến về phía đông xuyên qua vùng hoang dã trong im lặng. Dù không gặp Kỵ sĩ Đen nhưng họ vẫn nghe thấy hai tiếng rên rỉ xa xa, một tiếng gọi và một tiếng trả lời.
 
-Sau sáu ngày hành quân, họ đã đến được [Cây Cầu Cuối Cùng](../L/Last_Bridge.md) trên [Hoarwell](../H/Hoarwell.md). Trinh sát phía trước, Strider tìm thấy một viên beryl màu xanh lá cây sáng bóng - một viên ngọc [Tiên](../E/Elven.md) - mặc dù anh không thể xác định được ý nghĩa của nó. Không thấy có dấu hiệu phục kích Kỵ Sĩ Đen, anh vội vã Hobbit qua cầu. Khi leo lên đồi, họ bắt đầu nhìn thấy tàn tích của những bức tường và tòa tháp. Frodo được nhắc về những lời kể của [Bilbo](../B/Bilbo_Baggins.md)về khu vực và câu chuyện của anh ấy về [Quỷ đá](../S/Stone-trolls.md). Họ đi qua những tòa tháp đổ nát, Strider được mô tả là tàn tích của các khu định cư [Mannish](../M/Men.md) cổ xưa từng thuộc về vương quốc tà ác [Angmar](../A/Angmar.md); bóng của nó vẫn còn bao quanh vùng đất. Pippin hỏi làm sao Strider biết nhiều truyền thuyết đến vậy.
+Sau sáu ngày hành quân, họ đã đến được [Cây Cầu Cuối Cùng](../L/Last_Bridge.md) trên [Hoarwell](../H/Hoarwell.md). Trinh sát phía trước, Strider tìm thấy một viên beryl màu xanh lá cây sáng bóng - một viên ngọc [Tiên](../E/Elven.md) - mặc dù anh không thể xác định được ý nghĩa của nó. Không thấy có dấu hiệu phục kích Kỵ Sĩ Đen, anh vội vã Hobbit qua cầu. Khi leo lên đồi, họ bắt đầu nhìn thấy tàn tích của những bức tường và tòa tháp. Frodo được nhắc về những lời kể của [Bilbo](../B/Bilbo_Baggins.md) về khu vực và câu chuyện của anh ấy về [Quỷ đá](../S/Stone-trolls.md). Họ đi qua những tòa tháp đổ nát, Strider được mô tả là tàn tích của các khu định cư [Mannish](../M/Men.md) cổ xưa từng thuộc về vương quốc tà ác [Angmar](../A/Angmar.md); bóng của nó vẫn còn bao quanh vùng đất. Pippin hỏi làm sao Strider biết nhiều truyền thuyết đến vậy.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>The heirs of Elendil do not forget all things past, and many more things than I can tell are remembered in Rivendell.
@@ -91,7 +91,7 @@ Cả nhóm dừng lại nghỉ ngơi gần một mỏ đá nhỏ. Trong giấc n
 
 Pippin phát hiện ra một con đường dẫn thẳng xuyên qua khu rừng bên dưới. Nó dường như được tạo ra bởi những sinh vật lớn, vì cả cây và đá đều bị đập vỡ để nó đi qua. Cả nhóm đi theo con đường vào rừng, nhanh chóng đi qua trước một cánh cửa trên sườn đồi đá, treo hé trên một bản lề. Strider, Merry và Sam đẩy cửa mở ra thì phát hiện một hang động đầy xương và đất nung vỡ. Strider kết luận rằng đây "chắc chắn là [lỗ hổng](../T/Trolls'_lair.md)".
 
-Khi họ tiếp tục đi, Pippin trinh sát phía trước với Merry. Họ nhanh chóng chạy lại và báo cáo rằng họ đã nhìn thấy những con quỷ lùn. Strider nhặt một cây gậy và họ từ từ tiến lên. Trong một bãi đất trống, họ tìm thấy ba chiếc Troll khổng lồ đang đứng hoàn toàn bất động. Strider bước tới ra lệnh cho họ thức dậy, rồi bẻ gậy vào một trong số họ. Troll không phản ứng, điều này khiến Hobbit ngạc nhiên. Frodo bật cười, nhận ra rằng đây chính là những con Stone-troll trong câu chuyện Bilbo mà Pippin chưa bao giờ thực sự tin tưởng trước thời điểm này.
+Khi họ tiếp tục đi, Pippin trinh sát phía trước với Merry. Họ nhanh chóng chạy lại và báo cáo rằng họ đã nhìn thấy những con quỷ lùn. Strider nhặt một cây gậy và họ từ từ tiến lên. Trong một bãi đất trống, họ tìm thấy ba chiếc Troll khổng lồ đang đứng hoàn toàn bất động. Strider bước tới ra lệnh cho họ thức dậy, rồi bẻ gậy vào một trong số họ. Troll không phản ứng, điều này khiến Hobbit ngạc nhiên. Frodo bật cười, nhận ra rằng đây chính là lũ Stone-troll trong câu chuyện của Bilbo, điều mà trước thời điểm này Pippin chưa bao giờ thực sự tin tưởng.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>You are forgetting not only your family history, but all you ever knew about trolls. It is broad daylight with a bright sun, and yet you come back trying to scare me with a tale of live trolls waiting for us in this glade! In any case you might have noticed that one of them has an old bird&#39;s nest behind his ear.
@@ -101,7 +101,7 @@ Khi họ tiếp tục đi, Pippin trinh sát phía trước với Merry. Họ nh
 
 Họ dùng bữa gần chân một trong những bức tượng troll và Merry đề nghị ai đó hát. Sam cuối cùng cũng mủi lòng và hát cho họ nghe [một bài hát về một con troll](../T/The_Stone_Troll.md) đã đánh cắp một chiếc xương chày từ một ngôi mộ. Sau khi hát xong, Frodo tiết lộ rằng Sam đã dàn dựng ngay tại chỗ.
 
-Cả nhóm đi theo con đường mà họ suy đoán đã được Bilbo, [Gandalf](../G/Gandalf.md) và [mười ba người lùn](../T/Thorin_and_Company.md) sử dụng. Quả thực, họ đã sớm tìm thấy một hòn đá được bao phủ bởi [Người lùn](../D/Dwarves.md) rune, đánh dấu nơi Công ty chôn giấu kho báu Troll. Khi Merry hỏi Frodo có còn lại gì trong Bilbo kho báu đó không, Frodo thầm ước rằng Bilbo không mang về nhà chút kho báu nào, ám chỉ Chiếc nhẫn duy nhất. Anh ta khai với Merry rằng Bilbo đã cho đi toàn bộ kho báu vì nó đến từ tên cướp Troll.
+Cả nhóm đi theo con đường mà họ suy đoán đã được Bilbo, [Gandalf](../G/Gandalf.md) và [mười ba người lùn](../T/Thorin_and_Company.md) sử dụng. Quả thực, họ đã sớm tìm thấy một hòn đá được bao phủ bởi [Người lùn](../D/Dwarves.md) rune, đánh dấu nơi Công ty chôn giấu kho báu Troll. Khi Merry hỏi Frodo liệu phần kho báu đó của Bilbo có còn sót lại gì không, Frodo thầm ước rằng Bilbo đã không mang về nhà chút kho báu nào, ám chỉ The One Ring. Anh ta khai với Merry rằng Bilbo đã cho đi toàn bộ kho báu vì nó đến từ tên cướp Troll.
 
 <h3><span id="Glorfindel.27s_aid"></span><span class="mw-headline" id="Glorfindel&#39;s_aid">Glorfindel&#39;s aid</span></h3>
 

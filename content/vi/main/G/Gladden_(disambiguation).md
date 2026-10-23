@@ -22,8 +22,8 @@ images:
 **Vui mừng** có thể đề cập đến:
 
 - [Sông Gladden](Gladden_River.md), một nhánh của Sông [Anduin](../A/Anduin.md) ở phía tây của [Dãy Núi Sương Mù](../M/Misty_Mountains.md).
-- Vùng đầm lầy [Gladden Fields](Gladden_Fields.md)nằm cạnh sông Gladden.
-    - [Thảm họa Cánh đồng Gladden](../D/Disaster_of_the_Gladden_Fields.md), trong đó [Isildur](../I/Isildur.md) bị giết và [Một Nhẫn](../O/One_Ring.md) bị mất.
+- Vùng đầm lầy [Gladden Fields](Gladden_Fields.md) nằm cạnh sông Gladden.
+    - [Thảm họa Cánh đồng Gladden](../D/Disaster_of_the_Gladden_Fields.md), trong đó [Isildur](../I/Isildur.md) bị giết và [Một chiếc nhẫn](../O/One_Ring.md) bị mất.
 - [Iris](../I/Iris.md), loài hoa mọc gần các địa điểm nói trên và được gọi là "vui mừng".
 
 <hr style="margin-top:15px;"/>

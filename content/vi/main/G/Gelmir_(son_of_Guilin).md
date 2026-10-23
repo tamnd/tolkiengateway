@@ -54,7 +54,7 @@ Nhiều năm sau, anh ta bị đưa đến pháo đài [Barad Eithel](../B/Barad
 
 ## Từ nguyên {#Etymology}
 
-Tên là [Sindarin](../S/Sindarin.md)nhưng không rõ nghĩa. Nó có thể là sự kết hợp của *gell* ("niềm vui") và *[mîr](../M/Mîr.md)* ("ngọc quý").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên là [Sindarin](../S/Sindarin.md) nhưng không rõ nghĩa. Nó có thể là sự kết hợp của *gell* ("niềm vui") và *[mîr](../M/Mîr.md)* ("ngọc quý").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

@@ -49,7 +49,7 @@ Dínendal là tác phẩm độc đáo dành cho phim *[The Lord of the Rings: T
 
 Dínendal là một [Tiên](../S/Silvan_Elves.md) cung thủ [của Mirkwood](../E/Elves_of_Mirkwood.md). Cuối cùng, anh rời [Mirkwood](../M/Mirkwood.md) đến vương quốc [Lothlórien](../L/Lothlórien.md) và trở thành Hướng đạo sinh của [Galadhrim](../G/Galadhrim.md).
 
-Là một phần của công ty do [Haldir](../H/Haldir.md)lãnh đạo, Dínendal đã giúp bắt giữ những kẻ xâm nhập ở vùng ngoại ô của khu rừng. Những cá nhân này hóa ra là [the Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md), một công ty đang thực hiện nhiệm vụ tiêu diệt [the One Nhẫn](../T/The_One_Ring.md). Họ đưa Hiệp hội đến một nơi trông cây để thảo luận về sự trưởng thành của họ. Cuối cùng, [Aragorn](../A/Aragorn.md) đã thuyết phục được Haldir nhận họ vào vì họ cần được bảo vệ. Haldir và Tiên tộc đã đưa Hội đến [Caras Galadhon](../C/Caras_Galadhon.md) để gặp Chúa [Celeborn](../C/Celeborn.md) và Phu nhân [Galadriel](../G/Galadriel.md).
+Là một phần của công ty do [Haldir](../H/Haldir.md) lãnh đạo, Dínendal đã giúp bắt giữ những kẻ xâm nhập ở vùng ngoại ô của khu rừng. Những cá nhân này hóa ra là [ Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md), một công ty đang thực hiện nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md). Họ đưa Hiệp hội đến một nơi trông cây để thảo luận về sự trưởng thành của họ. Cuối cùng, [Aragorn](../A/Aragorn.md) đã thuyết phục được Haldir nhận họ vào vì họ cần được bảo vệ. Haldir và Tiên tộc đã đưa Hội đến [Caras Galadhon](../C/Caras_Galadhon.md) để gặp Chúa [Celeborn](../C/Celeborn.md) và Phu nhân [Galadriel](../G/Galadriel.md).
 
 <span></span>
 

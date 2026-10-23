@@ -12,7 +12,7 @@ categories:
   - "Valleys"
 ---
 
-**Thung lũng Narog** là thung lũng của Sông chảy xiết [Narog](../N/Narog.md) cắt về phía nam qua [Tây Beleriand](../W/West_Beleriand.md) từ nguồn sông bên dưới [Ered Wethrin](../E/Ered_Wethrin.md) ở phía bắc. Trong nửa đầu của cuộc hành trình trên sông, Vale đi qua vùng đất hoang cao phía tây [Doriath](../D/Doriath.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> qua những vùng đất được cai trị từ [Nargothrond](../N/Nargothrond.md)và qua cánh đồng [Tumhalad](../T/Tumhalad.md) nơi diễn ra trận chiến cuối cùng của Nargothrond.
+**Thung lũng Narog** là thung lũng của Sông chảy xiết [Narog](../N/Narog.md) cắt về phía nam qua [Tây Beleriand](../W/West_Beleriand.md) từ nguồn sông bên dưới [Ered Wethrin](../E/Ered_Wethrin.md) ở phía bắc. Trong nửa đầu của cuộc hành trình trên sông, Vale đi qua vùng đất hoang cao phía tây [Doriath](../D/Doriath.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> qua những vùng đất được cai trị từ [Nargothrond](../N/Nargothrond.md) và qua cánh đồng [Tumhalad](../T/Tumhalad.md) nơi diễn ra trận chiến cuối cùng của Nargothrond.
 
 Khi dòng sông đổ vào vùng đất đá bên dưới [Taur-en-Faroth](../T/Taur-en-Faroth.md), thung lũng của nó trở nên dốc và hẹp hơn nhiều, cho đến khi dòng sông nổi lên chảy qua vùng đất thấp Tây Beleriand và gặp [Sirion](../S/Sirion.md) tại [Nan-tathren](../N/Nan-tathren.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

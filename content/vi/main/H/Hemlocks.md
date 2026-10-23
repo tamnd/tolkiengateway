@@ -16,7 +16,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stephen_Walsh_-_Lúthien_dances.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4c/Stephen_Walsh_-_L%C3%BAthien_dances.jpg/250px-Stephen_Walsh_-_L%C3%BAthien_dances.jpg" decoding="async" loading="lazy" width="250" height="332" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4c/Stephen_Walsh_-_L%C3%BAthien_dances.jpg/375px-Stephen_Walsh_-_L%C3%BAthien_dances.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4c/Stephen_Walsh_-_L%C3%BAthien_dances.jpg/500px-Stephen_Walsh_-_L%C3%BAthien_dances.jpg 2x" data-file-width="996" data-file-height="1323"/></a><figcaption><i>Lúthien dances</i> by <a href="../S/Stephen_Walsh.md" title="Stephen Walsh">Stephen Walsh</a></figcaption></figure>
 
-**Cây độc cần** là một loại hoa dại<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> gắn liền với cuộc gặp gỡ của [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md), nổi tiếng nhất trong [bài thơ](../S/Song_of_Beren_and_Lúthien.md) do [Aragorn](../A/Aragorn.md)hát.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+**Cây độc cần** là một loại hoa dại<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> gắn liền với cuộc gặp gỡ của [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md), nổi tiếng nhất trong [bài thơ](../S/Song_of_Beren_and_Lúthien.md) do [Aragorn](../A/Aragorn.md) hát.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
 Chúng cũng phát triển trong Khu Rừng Cổ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 

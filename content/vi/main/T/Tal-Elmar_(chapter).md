@@ -93,7 +93,7 @@ Trong một ghi chú đính kèm sau, đề năm 1968, Tolkien đã thêm nhữn
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;XVII. <a class="mw-selflink selflink">Tal-Elmar</a>&#34;</cite></p>
 </blockquote>
 
-Đáng chú ý, người Númenor bắt đầu xây dựng những nơi trú ẩn lâu dài vào khoảng năm [S.A.](../S/Second_Age.md) [1200](../S/Second_Age_1200.md)và các khu định cư lâu dài bắt đầu vào khoảng [S.A.](../S/Second_Age.md) [1800](../S/Second_Age_1800.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Đáng chú ý, người Númenor bắt đầu xây dựng những nơi trú ẩn lâu dài vào khoảng năm [S.A.](../S/Second_Age.md) [1200](../S/Second_Age_1200.md) và các khu định cư lâu dài bắt đầu vào khoảng [S.A.](../S/Second_Age.md) [1800](../S/Second_Age_1800.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -12,4 +12,4 @@ categories:
   - "Seas and oceans"
 ---
 
-**Đêm tối** là một phần tối tăm, dữ dội của đại dương, qua đó [Eärendil](Eärendil.md) đã trải qua cuộc hành trình hoành tráng của mình đến [Valinor](../V/Valinor.md). Tên này chỉ xuất hiện trong *[Eärendillinwë](Eärendillinwë.md)*của [Bilbo Baggins](../B/Bilbo_Baggins.md)nên khó có thể xác định một cách chắc chắn. Tuy nhiên, từ bối cảnh của nó trong bài thơ, nó dường như ám chỉ đến [Shadowy Seas](../S/Shadowy_Seas.md) đã hình thành nên một phần phòng thủ của [Aman](../A/Aman.md).
+**Đêm tối** là một phần tối tăm, dữ dội của đại dương, qua đó [Eärendil](Eärendil.md) đã trải qua cuộc hành trình hoành tráng của mình đến [Valinor](../V/Valinor.md). Tên này chỉ xuất hiện trong *[Eärendillinwë](Eärendillinwë.md)* của [Bilbo Baggins](../B/Bilbo_Baggins.md) nên khó có thể xác định một cách chắc chắn. Tuy nhiên, từ bối cảnh của nó trong bài thơ, nó dường như ám chỉ đến [Shadowy Seas](../S/Shadowy_Seas.md) đã hình thành nên một phần phòng thủ của [Aman](../A/Aman.md).

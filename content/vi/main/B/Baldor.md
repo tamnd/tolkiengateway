@@ -55,7 +55,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Cùng cha Baldor khám phá [Rohan](../R/Rohan.md)và đến với [Harrowdale](../H/Harrowdale.md). Họ đã tìm thấy [Con đường của người chết](../P/Paths_of_the_Dead.md). Ngạc nhiên trước câu đố cấm họ đi qua của một ông già, anh trở nên tò mò. Tại lễ khánh thành [Meduseld](../M/Meduseld.md) ở [T.A.](../T/Third_Age.md) [2569](../T/Third_Age_2569.md), ông đã thề sẽ vượt qua [Cánh Cửa Tối](../D/Dark_Door.md). Anh ta làm như vậy một năm sau đó và không bao giờ được nhìn thấy còn sống nữa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Cùng cha Baldor khám phá [Rohan](../R/Rohan.md) và đến với [Harrowdale](../H/Harrowdale.md). Họ đã tìm thấy [Con đường của người chết](../P/Paths_of_the_Dead.md). Ngạc nhiên trước câu đố cấm họ đi qua của một ông già, anh trở nên tò mò. Tại lễ khánh thành [Meduseld](../M/Meduseld.md) ở [T.A.](../T/Third_Age.md) [2569](../T/Third_Age_2569.md), ông đã thề sẽ vượt qua [Cánh Cửa Tối](../D/Dark_Door.md). Anh ta làm như vậy một năm sau đó và không bao giờ được nhìn thấy còn sống nữa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Đầu tháng 3 [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), [Aragorn](../A/Aragorn.md) và [Đại đội Xám](../G/Grey_Company.md) đã tìm thấy hiệp sĩ mặc áo vàng. Thanh kiếm của anh ấy bị gãy và bị khía, còn chân thì bị gãy.<sup id="cite_ref-Grey_2-0" class="reference"><a href="#cite_note-Grey-2">[2]</a></sup>
 
@@ -99,7 +99,7 @@ Sau đó chính Tolkien giải thích trong một ghi chú:
 
 <dl><dd>The Grey Company encounters Baldor&#39;s corpse in the Paths of the Dead.</dd></dl>
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The remains of Baldor, clad in his golden armour, can be found in the Paths of the Dead, though is slightly off the path as compared to the books.</dd></dl>
 

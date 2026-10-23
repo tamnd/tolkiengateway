@@ -27,7 +27,7 @@ images:
 
 - [Bill Butcher](Bill_Butcher.md), nhân vật trong bài thơ "[Perry-the-Winkle](../P/Perry-the-Winkle.md)".
 - [Bill Ferny](Bill_Ferny.md), một người đàn ông [Bree](Bree.md) đã theo dõi [Frodo](../F/Frodo_Baggins.md).
-    - [Bill the Pony](Bill_the_Pony.md), chú ngựa con trung thành của [Sam](../S/Samwise_Gamgee.md)được đặt theo tên Bill Ferny.
+    - [Bill the Pony](Bill_the_Pony.md), chú ngựa con trung thành của [Sam](../S/Samwise_Gamgee.md) được đặt theo tên Bill Ferny.
 - [Bill Huggins](../W/William.md), đôi khi được gọi là "William", một trong ba [Troll](../T/Trolls.md) mà [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) gặp phải.
 
 ## Thế giới thực {#Real_world}
@@ -39,7 +39,7 @@ images:
 - [William Elvin](../W/William_Elvin.md), ca sĩ opera trên *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*.
 - [Bill Johnson](../W/William_Johnson.md), diễn viên đóng [Old Noakes](../O/Old_Noakes.md) trong *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=William_McGuire&amp;action=edit&amp;redlink=1" title="William McGuire (page does not exist)">William McGuire</a>, tác giả.
-- [Bill Nighy](Bill_Nighy.md), diễn viên người Anh đóng vai [Samwise Gamgee](../S/Samwise_Gamgee.md) trong [1981 BBC loạt phim phát thanh](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*
+- [Bill Nighy](Bill_Nighy.md), diễn viên người Anh từng đóng vai [Samwise Gamgee](../S/Samwise_Gamgee.md) trong [loạt phim phát thanh BBC năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=William_O%27Neill&amp;action=edit&amp;redlink=1" title="William O&#39;Neill (page does not exist)">William O'Neill</a>, nghệ sĩ.
 - [William B. Ready](../W/William_Ready.md), tác giả.
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=William_Antony_Swithin_Sarjeant&amp;action=edit&amp;redlink=1" title="William Antony Swithin Sarjeant (page does not exist)">William Antony Swithin Sarjeant</a>, tác giả.

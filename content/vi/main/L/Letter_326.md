@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien than thở rằng, vì [Rayner Unwin](../R/Rayner_Unwin.md) tiếp quản [chức vụ của bố](../S/Stanley_Unwin.md) tại [Allen &amp; Unwin](../A/Allen_and_Unwin.md)nên họ không thể dành nhiều thời gian cho nhau nữa.
+Tolkien than thở rằng, vì [Rayner Unwin](../R/Rayner_Unwin.md) tiếp quản [chức vụ của bố](../S/Stanley_Unwin.md) tại [Allen &amp; Unwin](../A/Allen_and_Unwin.md) nên họ không thể dành nhiều thời gian cho nhau nữa.
 
 <br>
 

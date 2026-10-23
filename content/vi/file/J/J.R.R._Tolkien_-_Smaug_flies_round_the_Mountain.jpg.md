@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bức tranh vẽ [Ngọn Núi Cô Đơn](../../main/L/Lonely_Mountain.md)này, thể hiện tàn tích của thị trấn [Dale](../../main/D/Dale.md) ở khúc quanh của Sông [Chạy](../../main/R/River_Running.md), được xuất bản trên Tạp chí [J.R.R. Tolkien Lịch 1979](../../main/J/J.R.R._Tolkien_Calendar_1979.md).
+Bức tranh vẽ [Ngọn Núi Cô Đơn](../../main/L/Lonely_Mountain.md) này, thể hiện tàn tích của thị trấn [Dale](../../main/D/Dale.md) ở khúc quanh của Sông [Chạy](../../main/R/River_Running.md), được xuất bản trên Tạp chí [J.R.R. Tolkien Lịch 1979](../../main/J/J.R.R._Tolkien_Calendar_1979.md).
 
 ## Giấy phép {#Licensing}
 

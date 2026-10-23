@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Cái chết của [Boromir](<../B/Boromir_(Lord_of_Ladros).md>). [Bregor](../B/Bregor.md) trở thành Người đứng đầu thứ 5 của [Nhà Bëor](../H/House_of_Bëor.md) và [Lãnh chúa Ladros](../L/Lord_of_Ladros.md)thứ 2.<sup id="cite_ref-Coming_1-0" class="reference"><a href="#cite_note-Coming-1">[1]</a></sup>
+- Cái chết của [Boromir](<../B/Boromir_(Lord_of_Ladros).md>). [Bregor](../B/Bregor.md) trở thành Người đứng đầu thứ 5 của [Nhà Bëor](../H/House_of_Bëor.md) và [Lãnh chúa Ladros](../L/Lord_of_Ladros.md) thứ 2.<sup id="cite_ref-Coming_1-0" class="reference"><a href="#cite_note-Coming-1">[1]</a></sup>
 - Sự ra đời của [Beren](../B/Beren.md).<sup id="cite_ref-Coming_1-1" class="reference"><a href="#cite_note-Coming-1">[1]</a></sup>
 
 <span></span>

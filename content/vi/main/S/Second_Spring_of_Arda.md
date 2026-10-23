@@ -42,7 +42,7 @@ infobox:
 
 **Giai đoạn Mùa Xuân của Arda** thứ hai là khoảng thời gian tiếp theo sau [Giấc ngủ](Sleep_of_Yavanna.md) của [Yavanna](../Y/Yavanna.md) sau khi [Hai Cây](../T/Two_Trees.md) của [Valinor](../V/Valinor.md) bị phá hủy và [Tối của Valinor](../D/Darkening_of_Valinor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Ngài [Valar](../V/Valar.md) đã phái hai con tàu lớn mang [Mặt Trăng](../M/Moon.md) và [Mặt Trời](Sun.md) bay lên bầu trời và mang ánh sáng đến toàn bộ [Arda](../A/Arda.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Khi ánh nắng đầu tiên chiếu xuống [Trung Địa](../M/Middle-earth.md), Giấc ngủ của Yavanna kết thúc và những sinh vật đang ngủ trên khắp thế giới lại sống dậy và bắt đầu phát triển. Vì vậy, sự tái thức tỉnh của sự sống ở lần trỗi dậy đầu tiên của Mặt Trời là thời điểm được gọi là [Mùa Xuân của Arda](Spring_of_Arda.md)lần thứ hai.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Ngài [Valar](../V/Valar.md) đã phái hai con tàu lớn mang [Mặt Trăng](../M/Moon.md) và [Mặt Trời](Sun.md) bay lên bầu trời và mang ánh sáng đến toàn bộ [Arda](../A/Arda.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Khi ánh nắng đầu tiên chiếu xuống [Trung Địa](../M/Middle-earth.md), Giấc ngủ của Yavanna kết thúc và những sinh vật đang ngủ trên khắp thế giới lại sống dậy và bắt đầu phát triển. Vì vậy, sự tái thức tỉnh của sự sống ở lần trỗi dậy đầu tiên của Mặt Trời là thời điểm được gọi là [Mùa Xuân của Arda](Spring_of_Arda.md) lần thứ hai.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 

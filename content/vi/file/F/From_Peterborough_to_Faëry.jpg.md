@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bìa *[From Peterborough to Faëry](../../main/F/From_Peterborough_to_Faëry.md)*, do [Nhà xuất bản Cây biết đi](../../main/W/Walking_Tree_Publishers.md)xuất bản. Minh họa bìa (với Nhà thờ Peterborough) của [Anke Eißmann](../../main/A/Anke_Eißmann.md).
+Bìa của *[From Peterborough to Faëry](../../main/F/From_Peterborough_to_Faëry.md)*, được xuất bản bởi [Nhà xuất bản Cây biết đi](../../main/W/Walking_Tree_Publishers.md). Hình minh họa bìa (với Nhà thờ Peterborough) của [Anke Eißmann](../../main/A/Anke_Eißmann.md).
 
 ## Giấy phép {#Licensing}
 

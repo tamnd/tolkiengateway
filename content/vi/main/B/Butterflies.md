@@ -24,17 +24,17 @@ Truyền thuyết kể rằng ở [Xứ Liễu](../N/Nan-tathren.md) có đủ l
 
 Bướm được chú ý nhờ đôi cánh mang những dấu hiệu đầy màu sắc và loài "<a class="extiw" href="http://en.wikipedia.org/wiki/purple_emperor" title="wikipedia:purple emperor">hoàng đế tím</a>" thích mặt trên của gỗ [sồi](../O/Oak.md). Tuy nhiên, trong [Mirkwood](../M/Mirkwood.md), [Bilbo Baggins](Bilbo_Baggins.md) đã tìm thấy hàng trăm con bướm hoàn toàn màu đen, không có bất kỳ dấu vết nào trên ngọn cây và anh tưởng tượng chúng là 'hoàng đế đen'.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
 
-Một số pháo hoa của [Gandalf](../G/Gandalf.md)rung rinh như bươm bướm.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Một số pháo hoa của [Gandalf](../G/Gandalf.md) rung rinh như bươm bướm.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 *[Wilwarin](../W/Wilwarin.md)* cũng là tên mà [Tiên tộc](../E/Elves.md) đặt cho <a class="new" href="https://tolkiengateway.net/w/index.php?title=Constellation&amp;action=edit&amp;redlink=1" title="Constellation (page does not exist)">chòm sao</a> các ngôi sao.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Trong [Quenya](../Q/Quenya.md)/[Qenya](../Q/Qenya.md), từ "bướm" là *wilwarin* (pl. *wilwarindi*). Các từ cùng gốc có cùng nghĩa là [Telerin](../T/Telerin.md) *vilverin*, [Noldorin](../N/Noldorin.md) *gwilwileth*và [Ilkorin](../I/Ilkorin.md) *gwilwering*.<sup id="cite_ref-ety_6-0" class="reference"><a href="#cite_note-ety-6">[4]</a></sup> Trong [Gnomish](../G/Gnomish.md) trước đó (tiền thân của Noldorin) "bướm" là *gwilbrin* (hoặc *-vrin*).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[5]</a></sup>
+Trong [Quenya](../Q/Quenya.md)/[Qenya](../Q/Qenya.md), từ "bướm" là *wilwarin* (pl. *wilwarindi*). Các từ cùng gốc có cùng nghĩa là [Telerin](../T/Telerin.md) *vilverin*, [Noldorin](../N/Noldorin.md) *gwilwileth* và [Ilkorin](../I/Ilkorin.md) *gwilwering*.<sup id="cite_ref-ety_6-0" class="reference"><a href="#cite_note-ety-6">[4]</a></sup> Trong [Gnomish](../G/Gnomish.md) trước đó (tiền thân của Noldorin) "bướm" là *gwilbrin* (hoặc *-vrin*).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[5]</a></sup>
 
 Các từ *wilwarindëa* và *wilwarindië* (dạng [Qenya](../Q/Qenya.md) cũ hơn là *wilwarindeën*<sup id="cite_ref-matc_8-0" class="reference"><a href="#cite_note-matc-8">[6]</a></sup>) là dạng số ít và số nhiều tương ứng có nghĩa là "giống như một *wilwarin* hoặc con bướm".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[7]</a></sup> Trong Qenya cũng có từ *wilwarindon* ("như một con bướm").<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[8]</a></sup>
 
-Các từ này có cùng gốc (*wil-*, "bay, lơ lửng trong không khí") như Q. *[vilya](<../V/Vilya_(word).md>)*/S. *[gwilith](../G/Gwilith.md)* "air" và tên của Nhẫn của Air, *[Vilya](../V/Vilya.md)*.<sup id="cite_ref-ety_6-1" class="reference"><a href="#cite_note-ety-6">[4]</a></sup>
+Các từ này có cùng gốc (*wil-*, "bay, lơ lửng trong không khí") như Q. *[vilya](<../V/Vilya_(word).md>)*/S. *[gwilith](../G/Gwilith.md)* "air", và tên của Ring of Air, *[Vilya](../V/Vilya.md)*.<sup id="cite_ref-ety_6-1" class="reference"><a href="#cite_note-ety-6">[4]</a></sup>
 
 ## Ghi chú {#Notes}
 

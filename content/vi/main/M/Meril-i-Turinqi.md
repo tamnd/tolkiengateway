@@ -58,7 +58,7 @@ Meril sống trong một ngôi nhà màu trắng bên trong *[korin](../K/Korin.
 
 ### Lịch sử ban đầu {#Early_history}
 
-Meril là một trong [Inwir](../I/Inwir.md), gia tộc hoàng gia của [Teleri](../V/Vanyar.md#Other_versions_of_the_legendarium),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> là chắt gái của [Inwë](../I/Inwë.md), Vua của tất cả Eldar. Tuy nhiên, cô ấy cũng giống với [Solosimpi](../S/Solosimpi.md)và đã nhìn thấy [Vịnh thần tiên](../B/Bay_of_Eldamar.md) từ lâu.<sup id="cite_ref-Ing_6-0" class="reference"><a href="#cite_note-Ing-6">[6]</a></sup>
+Meril là một trong [Inwir](../I/Inwir.md), gia tộc hoàng gia của [Teleri](../V/Vanyar.md#Other_versions_of_the_legendarium),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> là chắt gái của [Inwë](../I/Inwë.md), Vua của tất cả Eldar. Tuy nhiên, cô ấy cũng giống với [Solosimpi](../S/Solosimpi.md) và đã nhìn thấy [Vịnh thần tiên](../B/Bay_of_Eldamar.md) từ lâu.<sup id="cite_ref-Ing_6-0" class="reference"><a href="#cite_note-Ing-6">[6]</a></sup>
 
 Sau [Tháng ba Giải phóng](March_of_Liberation.md) và cuộc chiến với [Melko](Melko.md), [Ingil](../I/Ingil.md) con trai của Inwë, ông nội của cô, đã dẫn Tiên tộc còn lại và [Gnomes](../G/Gnomes.md) đến [Tol Eressëa](../T/Tol_Eressëa.md), nơi họ xây dựng thành phố [Koromas](../K/Koromas.md), sau này được gọi là *Kortirion* do [tòa tháp vĩ đại](../T/Tirin_na_Gilweth.md) mà Ingil đã xây dựng.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Sau đó, Ingil quay trở lại [Valinor](../V/Valinor.md),<sup id="cite_ref-Ing_6-1" class="reference"><a href="#cite_note-Ing-6">[6]</a></sup> và cuối cùng Meril trở thành Lady of the Isle.
 
@@ -68,7 +68,7 @@ Sau đó, Lindo và vợ [Vairë](<../V/Vairë_(wife_of_Lindo).md>) đã xây d�
 
 ### Sự xuất hiện của Eriol {#Arrival_of_Eriol}
 
-Vào khoảng <a class="extiw" href="http://en.wikipedia.org/wiki/5th_century" title="wikipedia:5th century">thế kỷ thứ 5 sau Công nguyên</a>, [Eriol](../E/Eriol.md), một thủy thủ người Mannish, đã đến Tol Eressëa. Sau khi tham quan nhiều nơi trên đảo, trong đó có Cottage of Lost Play, [Littleheart](../L/Littleheart.md) con trai của [Voronwë](../V/Voronwë.md) đã đưa cậu đến nhà Meril, nơi Eriol yêu cầu nếm thử *[limpë](../L/Limpë.md)*, một thức uống Tiên ma thuật, tìm kiếm mối quan hệ họ hàng và tình bạn với Tiên tộc.
+Vào khoảng <a class="extiw" href="http://en.wikipedia.org/wiki/5th_century" title="wikipedia:5th century">thế kỷ thứ 5 sau Công Nguyên</a>, [Eriol](../E/Eriol.md), một thủy thủ người Mannish, đã đến Tol Eressëa. Sau khi tham quan nhiều nơi trên đảo, trong đó có Cottage of Lost Play, [Littleheart](../L/Littleheart.md) con trai của [Voronwë](../V/Voronwë.md) đã đưa cậu đến nhà Meril, nơi Eriol yêu cầu nếm thử *[limpë](../L/Limpë.md)*, một thức uống Tiên ma thuật, tìm kiếm mối quan hệ họ hàng và tình bạn với Tiên tộc.
 
 Meril phủ nhận, nói với anh ta rằng việc một <a class="mw-redirect mw-disambig" href="Mortal.md" title="Mortal">người phàm</a> [Con người](Man.md) làm như vậy là rất nguy hiểm, vì [Ilúvatar](../I/Ilúvatar.md) đã khiến [Những đứa con](../C/Children_of_Ilúvatar.md) của anh ta trở nên khác biệt, và việc uống rượu *limpë* sẽ xóa bỏ những ham muốn cũ của anh ta nhưng đánh thức những ham muốn mới; cô còn cảnh báo anh rằng một ngày nào đó anh sẽ lại khao khát mảnh đất của mình.<sup id="cite_ref-Mer_4-1" class="reference"><a href="#cite_note-Mer-4">[4]</a></sup> Để giải thích rõ hơn, cô kể cho anh nghe câu chuyện về *[the Chaining of Melko](../T/The_Chaining_of_Melko.md)*<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> và *[the Coming of the Elves and the Making of Kôr](../T/The_Coming_of_the_Elves_and_the_Making_of_Kôr.md)*.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
@@ -76,7 +76,7 @@ Một thời gian sau, Meril đến thăm Cottage of Lost Play trong một lễ 
 
 ### Cái Faring Forth {#The_Faring_Forth}
 
-Theo một phác thảo về phần tiếp theo của *Lost Tales*, [Faring Forth](../F/Faring_Forth.md)thảm khốc, cuộc thám hiểm vĩ đại tới Vùng đất vĩ đại để giải cứu [Những người bị mất Tiên tộc](../I/Ilkorindi.md), đã bị chính Eriol xúi giục sớm chống lại mệnh lệnh của Meril, người khao khát ngôi nhà của mình, đã quay trở lại Vùng đất vĩ đại và "rao giảng" về Faring Forth. Như vậy, do sự thiếu kiên nhẫn và liều lĩnh của Eriol mà Faring Forth đã thất bại.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+Theo một phác thảo về phần tiếp theo của *Lost Tales*, [Faring Forth](../F/Faring_Forth.md) thảm khốc, cuộc thám hiểm vĩ đại tới Vùng đất vĩ đại để giải cứu [Những người bị mất Tiên tộc](../I/Ilkorindi.md), đã bị chính Eriol xúi giục sớm chống lại mệnh lệnh của Meril, người khao khát ngôi nhà của mình, đã quay trở lại Vùng đất vĩ đại và "rao giảng" về Faring Forth. Như vậy, do sự thiếu kiên nhẫn và liều lĩnh của Eriol mà Faring Forth đã thất bại.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
 Không có thông tin nào khác về Meril, hay số phận của cô ấy sau Faring Forth.
 

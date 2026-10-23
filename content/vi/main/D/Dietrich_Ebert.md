@@ -33,7 +33,7 @@ Dietrich Ebert sinh ra ở St. Peter, bang <a class="extiw" href="http://en.wiki
 
 ## Tolkien thiết kế và minh họa bìa liên quan {#Tolkien_related_cover_designs_and_illustrations}
 
-Các ấn bản tiếng Đức sau đây của tác phẩm [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)được thiết kế hoặc minh họa bởi Dietrich Ebert:
+Các ấn bản tiếng Đức sau đây của tác phẩm [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được thiết kế hoặc minh họa bởi Dietrich Ebert:
 
 - *Die Abenteuer des Tom Bombadil* (*[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)*) của J.R.R. Tolkien, Klett-Cotta [1984](../_/1984.md).
 - *Nachrichten aus Mittelerde* (*[Unfinished Tales of Númenor and Middle-earth](../U/Unfinished_Tales_of_Númenor_and_Middle-earth.md)*) bởi J.R.R. Tolkien (Christopher Tolkien), Klett-Cotta [1996](../_/1996.md).

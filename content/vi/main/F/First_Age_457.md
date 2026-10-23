@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Minas Tirith](<../M/Minas_Tirith_(Beleriand).md>) khi [Tol Sirion](../T/Tol_Sirion.md) bị bắt bởi [Sauron](../S/Sauron.md), kẻ biến hòn đảo thành nơi cư trú của mình; nó được đổi tên thành [Tol-in-Gaurhoth](../T/Tol-in-Gaurhoth.md), "*Isle of Werewolves*". Dù bị đánh bại nhưng [Orodreth](../O/Orodreth.md) vẫn được [Celegorm](../C/Celegorm.md) và [Curufin](../C/Curufin.md)cứu; họ cùng nhau trốn đến [Nargothrond](../N/Nargothrond.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Minas Tirith](<../M/Minas_Tirith_(Beleriand).md>) khi [Tol Sirion](../T/Tol_Sirion.md) bị bắt bởi [Sauron](../S/Sauron.md), kẻ biến hòn đảo thành nơi cư trú của mình; nó được đổi tên thành [Tol-in-Gaurhoth](../T/Tol-in-Gaurhoth.md), "*Isle of Werewolves*". Dù bị đánh bại nhưng [Orodreth](../O/Orodreth.md) vẫn được [Celegorm](../C/Celegorm.md) và [Curufin](../C/Curufin.md) cứu; họ cùng nhau trốn đến [Nargothrond](../N/Nargothrond.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

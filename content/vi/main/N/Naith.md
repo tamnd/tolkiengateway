@@ -25,7 +25,7 @@ images:
 
 **Naith** của Lórien là một vùng đất hình nêm giữa Sông [Celebrant](../C/Celebrant.md) và [Anduin](../A/Anduin.md), nơi [Egladil](../E/Egladil.md), vùng trung tâm của [Lothlórien](../L/Lothlórien.md) và thủ đô [Caras Galadhon](../C/Caras_Galadhon.md) của nó được tìm thấy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-**Gore** là bản dịch của [Haldir](../H/Haldir.md)cho tên [Elvish](../E/Elvish.md) Naith.
+**Gore** là bản dịch của [Haldir](../H/Haldir.md) cho tên [Elvish](../E/Elvish.md) Naith.
 
 ## Từ nguyên {#Etymology}
 
@@ -35,7 +35,7 @@ Thuật ngữ tiếng Anh <i><a class="extiw" href="http://en.wiktionary.org/wik
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Naith forms the core of Lothlorien, as very few Elves reside south of the <a href="../C/Celebrant.md" title="Celebrant">Celebrant</a>.</dd></dl>
 

@@ -38,7 +38,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Sau chiến thắng của họ trong trận chiến [Helm's Deep](../H/Helm's_Deep.md), [Gandalf](../G/Gandalf.md), [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md), [Gimli](../G/Gimli.md), [Théoden](../T/Théoden.md)và [Éomer](Éomer.md) cưỡi ngựa tới một đỉnh cao nhìn ra hàng dặm đất liền, với ánh sáng đỏ và tia chớp của [Mordor](../M/Mordor.md) có thể nhìn thấy ở phía xa. Gandalf tóm tắt tình hình hiện tại của họ: cuộc chiến giành [Trung Địa](../M/Middle-earth.md) sắp bắt đầu và hy vọng thực sự của họ để đánh bại [Sauron](../S/Sauron.md) nằm ở nhiệm vụ [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md).
+Sau chiến thắng của họ trong trận chiến [Helm's Deep](../H/Helm's_Deep.md), [Gandalf](../G/Gandalf.md), [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md), [Gimli](../G/Gimli.md), [Théoden](../T/Théoden.md) và [Éomer](Éomer.md) cưỡi ngựa tới một đỉnh cao nhìn ra hàng dặm đất liền, với ánh sáng đỏ và tia chớp của [Mordor](../M/Mordor.md) có thể nhìn thấy ở phía xa. Gandalf tóm tắt tình hình hiện tại của họ: cuộc chiến giành [Trung Địa](../M/Middle-earth.md) sắp bắt đầu và hy vọng thực sự của họ để đánh bại [Sauron](../S/Sauron.md) nằm ở nhiệm vụ [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md).
 
 Khi Frodo và Sam đi theo [Gollum](../G/Gollum.md) xuyên qua khu rừng, Sam tự hỏi liệu có bao giờ có câu chuyện nào về họ hay không.
 

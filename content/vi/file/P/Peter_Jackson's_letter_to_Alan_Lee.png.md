@@ -23,7 +23,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Lá thư của [Peter Jackson](../../main/P/Peter_Jackson.md)gửi [Alan Lee](../../main/A/Alan_Lee.md), đề nghị anh làm nghệ sĩ ý tưởng cho [*The Lord of the Rings* bộ ba phim](<../../main/T/The_Lord_of_the_Rings_(film_series).md>)
+Lá thư của [Peter Jackson](../../main/P/Peter_Jackson.md) gửi [Alan Lee](../../main/A/Alan_Lee.md), đề nghị anh làm nghệ sĩ ý tưởng cho [*The Lord of the Rings* bộ ba phim](<../../main/T/The_Lord_of_the_Rings_(film_series).md>)
 
 ## Giấy phép {#Licensing}
 

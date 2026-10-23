@@ -66,11 +66,11 @@ Sự kiện xảy ra vào ngày 7 tháng 2.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1952](1952.md)** - Các [Inklings](../I/Inklings.md) ăn tối tại nhà của [C.S. Lewis](../C/C.S._Lewis.md), cùng với Tiến sĩ Firor của John Đại học Hopkins. Buổi tối được [Tolkien](../J/J.R.R._Tolkien.md) mô tả là "*giống như một thoáng nhìn về ngày xưa: yên tĩnh và lý trí (vì [Hugo](../H/Hugo_Dyson.md) không được mời).*"
+- **[1952](1952.md)** - Các [Inklings](../I/Inklings.md) ăn tối tại nhà của [C.S. Lewis](../C/C.S._Lewis.md), cùng với Tiến sĩ Firor của Đại học John Hopkins. Buổi tối được [Tolkien](../J/J.R.R._Tolkien.md) mô tả là "*giống như một thoáng nhìn về ngày xưa: yên tĩnh và hợp lý (vì [Hugo](../H/Hugo_Dyson.md) không được mời).*"
 - **[1968](1968.md)** - Ngày quay thứ ba [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cho bộ phim tài liệu *[Tolkien in Oxford](../T/Tolkien_in_Oxford.md)*.
 - **[1988](1988.md)** - Tác giả [Lin Carter](../L/Lin_Carter.md) qua đời.
 - **[1995](1995.md)** - Diễn viên [Tom Glynn-Carney](../T/Tom_Glynn-Carney.md) ra đời.
-- **[2008](2008.md)** - hội nghị "[C.S. Lewis](../C/C.S._Lewis.md), [Inklings](../I/Inklings.md)và Lời kêu gọi đến với Cộng đồng Kitô giáo", có [Tom Shippey](../T/Tom_Shippey.md).
+- **[2008](2008.md)** - hội nghị "[C.S. Lewis](../C/C.S._Lewis.md), [Inklings](../I/Inklings.md) và Lời kêu gọi đến với Cộng đồng Kitô giáo", có [Tom Shippey](../T/Tom_Shippey.md).
 - **[2020](2020.md)** - Diễn viên [Orson Bean](../O/Orson_Bean.md) qua đời.
 
 ## Trong Arda {#In_Arda}

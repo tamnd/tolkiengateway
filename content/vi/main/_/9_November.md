@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 9 tháng 11
 ## Trên Trái đất {#On_Earth}
 
 - **[1898](1898.md)** - [Inkling](../I/Inklings.md) [Owen Barfield](../O/Owen_Barfield.md) ra đời.
-- **[1933](1933.md)** - Bài thơ "[Errantry](../E/Errantry.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)được đăng trên *The Oxford Magazine*.
+- **[1933](1933.md)** - Bài thơ "[Errantry](../E/Errantry.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được đăng trên *The Oxford Magazine*.
 - **[1957](1957.md)** - Lúc nửa đêm, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Przemyslaw Mroczkowski](<../L/Letter_to_Przemyslaw_Mroczkowski_(9%252F10_November_1957).md>).
 - <b><a href="1967.md" title="1967">1967</a> - <i><a href="../S/Smith_of_Wootton_Major.md" title="Smith of Wootton Major">Smith of Wootton Major</a></i> được xuất bản lần đầu tiên ở Anh.</b>
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 342](../L/Letter_342.md).
@@ -77,6 +77,6 @@ Sự kiện xảy ra vào ngày 9 tháng 11
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md)tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Kẻ duy nhất Nhẫn](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

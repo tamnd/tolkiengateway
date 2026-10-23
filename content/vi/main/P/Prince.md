@@ -13,7 +13,7 @@ categories:
   - "Gondor"
 ---
 
-**Thân vương**, hay **Ernil** trong [Sindarin](../S/Sindarin.md),<sup id="cite_ref-MT_1-0" class="reference"><a href="#cite_note-MT-1">[1]</a></sup> là tước hiệu cha truyền con nối do các vị vua của [Gondor](../G/Gondor.md)phong tặng.
+**Thân vương**, hay **Ernil** trong [Sindarin](../S/Sindarin.md),<sup id="cite_ref-MT_1-0" class="reference"><a href="#cite_note-MT-1">[1]</a></sup> là tước hiệu cha truyền con nối do các vị vua của [Gondor](../G/Gondor.md) phong tặng.
 
 ## Lịch sử {#History}
 

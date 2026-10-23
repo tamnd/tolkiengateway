@@ -40,7 +40,7 @@ infobox:
 
 **Nhiều cuộc họp** là chương đầu tiên của cuốn thứ hai trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Nhân vật chính là [Frodo Baggins](../F/Frodo_Baggins.md), [Gandalf](../G/Gandalf.md) và [Bilbo Baggins](../B/Bilbo_Baggins.md), đi kèm với [Aragorn](../A/Aragorn.md), [Glorfindel](../G/Glorfindel.md), [Samwise (Sam) Gamgee](../S/Samwise_Gamgee.md), [Peregrin (Pippin) Took](../P/Peregrin_Took.md) và [Meriadoc (Merry) Brandybuck](Meriadoc_Brandybuck.md). [Elrond](../E/Elrond.md), [Arwen Undómiel](../A/Arwen_Undómiel.md) và [Glóin](../G/Glóin.md) được giới thiệu.
 
-Chương này kể về cuộc hội ngộ của Frodo với Gandalf và [Hobbit](../H/Hobbits.md) khác tại [Rivendell](../R/Rivendell.md), một bữa tiệc được tổ chức để vinh danh anh ấy, cuộc gặp gỡ của anh ấy [Glóin](../G/Glóin.md) và lần đầu tiên nhìn thấy [Arwen](../A/Arwen.md), cũng như cuộc hội ngộ của anh ấy với [Bilbo](../B/Bilbo.md), người vẫn đang phát ốm vì khao khát [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).
+Chương này kể về cuộc hội ngộ của Frodo với Gandalf và [Hobbit](../H/Hobbits.md) khác tại [Rivendell](../R/Rivendell.md), một bữa tiệc được tổ chức để vinh danh anh ấy, cuộc gặp gỡ của anh ấy [Glóin](../G/Glóin.md) và lần đầu tiên nhìn thấy [Arwen](../A/Arwen.md), cũng như cuộc hội ngộ của anh ấy với [Bilbo](../B/Bilbo.md), người vẫn phát ốm vì khao khát [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).
 
 Trọng tâm của chương là sự đoàn tụ của bạn bè và tầm quan trọng của Rivendell như một nơi chữa bệnh, tích lũy trí tuệ và kiến ​​thức cổ xưa. Sự tương tác của Frodo với Bilbo và Gandalf bộc lộ những đấu tranh nội tâm và lòng dũng cảm cần có, đồng thời là khoảnh khắc tạm dừng và lập kế hoạch, hy vọng được nhen nhóm cho thử thách phía trước.
 
@@ -64,11 +64,11 @@ Frodo nói rằng họ sẽ không thể làm được điều đó nếu không
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Gandalf tiếp tục giải thích rằng <a class="mw-redirect mw-disambig" href="../R/Rangers.md" title="Rangers">Rangers</a> là tàn dư cuối cùng của [Con Người của Phương Tây](Men_of_the_West.md) ở phía bắc Trung Địa và đã từng giúp đỡ Gandalf trước đó. Anh hy vọng họ sẽ tiếp tục giúp đỡ trong tương lai vì cuộc hành trình của Nhẫn vẫn chưa kết thúc. Frodo hy vọng anh sẽ không phải mang nó đi xa hơn nữa.
+Gandalf tiếp tục giải thích rằng <a class="mw-redirect mw-disambig" href="../R/Rangers.md" title="Rangers">Rangers</a> là tàn dư cuối cùng của [Con Người của Phương Tây](Men_of_the_West.md) ở phía bắc Trung Địa và đã từng giúp đỡ Gandalf trước đó. Anh hy vọng họ sẽ giúp đỡ lần nữa trong tương lai, vì cuộc hành trình của Chiếc nhẫn vẫn chưa kết thúc. Frodo hy vọng anh ấy sẽ không phải mang nó đi xa hơn nữa.
 
 Frodo phát hiện vết thương ở vai không còn đau nữa, tay đã cử động được một chút. Gandalf giải thích rằng Elrond đã có xu hướng Frodo trong nhiều ngày và chỉ gỡ được mảnh vụn của [Con dao Morgul](Morgul-knife.md) khỏi vai anh ta vào đêm hôm trước. Anh ta nói rằng nếu mảnh vỡ không được gỡ bỏ, Frodo sẽ tự mình trở thành một hồn ma, dưới sự chỉ huy của Chúa tể Bóng tối. Anh ngạc nhiên trước khí phách và lòng dũng cảm của [Hobbit](../H/Hobbits.md), người đã mang mảnh vỡ suốt 17 ngày mà không khuất phục.
 
-Frodo cho biết anh có thể nhìn thấy hình dạng thật của Nazgûl khi anh đang đeo Nhẫn, nhưng tự hỏi làm thế nào mọi người có thể nhìn thấy con ngựa đen của họ. Gandalf giải thích rằng ngựa là thật, được lai tạo để phục vụ Sauron. Ông liệt kê nhiều loại sinh vật khác nhau dưới quyền Sauron, nói rằng số lượng của chúng ngày càng tăng.
+Frodo cho biết anh ấy có thể nhìn thấy hình dạng thật của Nazgûl khi đeo Nhẫn, nhưng tự hỏi làm thế nào mọi người có thể nhìn thấy con ngựa đen của họ. Gandalf giải thích rằng ngựa là thật, được lai tạo để phục vụ Sauron. Ông liệt kê nhiều loại sinh vật khác nhau dưới quyền Sauron, nói rằng số lượng của chúng ngày càng tăng.
 
 Frodo hỏi Rivendell có an toàn không. Gandalf trả lời rằng đây sẽ là nơi cuối cùng rơi xuống, vì Tiên tộc sẽ không phục tùng Sauron. Anh ấy nói rằng Rivendell là nhà của một số [Tiên thông thái](../E/Eldar.md), những người sống đồng thời ở cả thế giới hữu hình và vô hình, và do đó có thể chiến đấu với Nazgûl.
 
@@ -78,7 +78,7 @@ Gandalf kiểm tra Frodo bằng tầm nhìn ma thuật của mình và thấy m�
 
 Frodo yêu cầu Gandalf giải thích chuyện gì đã xảy ra ở chiếc Ford. Gandalf kể lại câu chuyện rõ ràng hơn, đồng thời nói thêm rằng Glorfindel đã cho những người khác chuẩn bị đuốc lửa để đẩy những Kỵ sĩ Đen còn lại xuống sông, sau khi ba người đầu tiên đã chết đuối. Frodo hỏi liệu Nazgûl có bị tiêu diệt vĩnh viễn hay không. Gandalf giải thích rằng chỉ có ngựa chết; Nazgûl không thể bị đánh bại dễ dàng như vậy, nhưng khi đó không phải là một mối đe dọa. Frodo hỏi nguyên nhân gây ra lũ lụt. Gandalf nói rằng đó là Elrond, chỉ huy dòng sông chảy qua lãnh thổ của mình. Gandalf nói thêm rằng những con sóng mang hình dáng những chú ngựa trắng và người cưỡi ngựa là dấu ấn cá nhân của anh.
 
-Gandalf nói với Frodo rằng anh sẽ được chiêu đãi một bữa tiệc lớn để ăn mừng chiến thắng này, tôn vinh Frodo với tư cách là Người Mang Nhẫn và là người thừa kế của Bilbo, người tìm thấy Nhẫn. Frodo thắc mắc chuyện gì đã xảy ra với Bilbo và ước gì có thể kể cho cậu nghe về cuộc phiêu lưu của tháng trước. Anh ấy đã ngủ quên.
+Gandalf nói với Frodo rằng anh ta sẽ được đãi một bữa tiệc lớn để ăn mừng chiến thắng này, tôn vinh Frodo là Người Mang Nhẫn và là người thừa kế của Bilbo, Người tìm kiếm chiếc nhẫn. Frodo thắc mắc chuyện gì đã xảy ra với Bilbo và ước gì có thể kể cho cậu nghe về cuộc phiêu lưu của tháng trước. Anh ấy đã ngủ quên.
 
 ### Một bữa tiệc với nhiều cuộc họp {#A_Feast_with_many_meetings}
 
@@ -90,7 +90,7 @@ Frodo tối hôm đó thức dậy, cảm thấy khỏe hơn nhiều. Anh soi m�
 <p class="tg-quote-footer"><cite><a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Gandalf khiển trách Pippin về biệt danh đó, nói rằng chỉ có Chủ nhân của [ Tòa Tháp Bóng Tối của Mordor](../B/Barad-dûr.md) mới là Chúa của Nhẫn.
+Gandalf đã khiển trách Pippin về biệt danh đó, nói rằng chỉ có Chủ nhân của [Tháp Hắc Ám của Mordor](../B/Barad-dûr.md) mới là Chúa tể của Chiếc Nhẫn.
 
 Cả nhóm đến sảnh nhà Elrond và gặp nhiều vị khách khác. Frodo lần đầu tiên quan sát Elrond, nhận thấy anh vừa đáng kính vừa trẻ trung. Tại bàn ăn tối, anh cũng nhìn thấy Arwen Undómiel, con gái của Elrond, được miêu tả là vừa nữ hoàng vừa chu đáo. Arwen vừa mới trở về từ [Lórien](../L/Lothlórien.md), còn các anh trai [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md) của cô đang đi công tác xa.
 
@@ -100,15 +100,15 @@ Từ Glóin, Frodo biết được rằng [Grimbeorn Già](../G/Grimbeorn_the_Ol
 
 Với sự động viên của Frodo, Glóin đã kể nhiều câu chuyện về những sự kiện hiện tại ở vùng đất Người Lùn. Anh ta nói rằng [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) vẫn là vua của [Erebor](../E/Erebor.md), và bảy trong số Người Lùn đã chiếm Ngọn Núi vẫn ở bên anh ta, bao gồm cả [Bombur](../B/Bombur.md), người đã béo lên đến khó tin. Khi Frodo hỏi về số phận của [Balin](../B/Balin.md), [Ori](../O/Ori.md) và [Óin](../_/Óin.md), Glóin rất tiếc nói rằng mình không biết, đây là một trong những lý do khiến anh đến Rivendell để xin luật sư tư vấn về vấn đề này.
 
-Glóin tiếp tục ca ngợi những ưu điểm của vương quốc Người lùn mới dưới Ngọn Núi, mặc dù Người Lùn đã vượt qua các kỹ năng kiến ​​trúc trước đây của họ nhưng họ vẫn chưa sản xuất được chất lượng vũ khí và áo giáp như trước khi [Smaug](../S/Smaug.md)xuất hiện. Frodo hứa sẽ ghé thăm Erebor nếu có cơ hội. Glóin nhắc đến Bilbo, lúc đó Frodo thành tiếng mong muốn được gặp lại chú mình hơn những điều tuyệt vời khác.
+Glóin tiếp tục ca ngợi những ưu điểm của vương quốc Người lùn mới dưới Ngọn Núi, mặc dù Người Lùn đã vượt qua các kỹ năng kiến ​​trúc trước đây của họ nhưng họ vẫn chưa sản xuất được chất lượng vũ khí và áo giáp như trước khi [Smaug](../S/Smaug.md) xuất hiện. Frodo hứa sẽ ghé thăm Erebor nếu có cơ hội. Glóin nhắc đến Bilbo, lúc đó Frodo thành tiếng mong muốn được gặp lại chú mình hơn những điều tuyệt vời khác.
 
 ### Hội ngộ với Bilbo {#Reunion_with_Bilbo}
 
-Sau bữa tối, du khách được đưa tới [Hall of Fire](../H/Hall_of_Fire.md). Frodo phát hiện Bilbo ngồi một mình trong góc. Bilbo kể với Frodo rằng anh và Sam đã ngồi cạnh nhau bên cạnh Frodo trong suốt quá trình hồi phục. Theo cuộc đấu giá Bilbo, người đưa tin được cử đi tìm [Strider](../S/Strider.md) (người mà anh ta gọi là " Dúnadan"), người đã mất tích trong bữa tiệc.
+Sau bữa tối, các vị khách được đưa đến [Hall of Fire](../H/Hall_of_Fire.md). Frodo phát hiện Bilbo ngồi một mình trong góc. Bilbo kể với Frodo rằng anh và Sam đã ngồi cạnh nhau bên cạnh Frodo trong suốt quá trình hồi phục. Theo mệnh lệnh của Bilbo, người đưa tin được cử đi tìm [Strider](../S/Strider.md) (người mà anh ta gọi là " Dúnadan"), người đã mất tích trong bữa tiệc.
 
 Bilbo cho biết hành trình rời khỏi [Hobbiton](../H/Hobbiton.md) của anh ban đầu không có mục đích, nhưng dường như luôn dẫn anh đến Rivendell. Sau đó anh ấy gia nhập Người Lùn và quay trở lại Dale - hành trình cuối cùng của anh ấy - trước khi quay trở lại Rivendell một lần nữa, nơi anh ấy ở lại.
 
-Bilbo nhắc đến Chiếc nhẫn duy nhất, than thở rằng mình đã không giữ mà tự mình mang về cho Rivendell, đỡ Frodo khỏi rắc rối. Anh ấy yêu cầu được xem Nhẫn. Frodo rút Nhẫn ra và phát hiện ra rằng Tiên tộc đã thay dây xích của nó bằng một dây xích nhẹ hơn, chắc chắn hơn. Khi Bilbo đưa tay ra để lấy Nhẫn, Frodo đột nhiên cảm thấy muốn giữ nó tránh xa mình. Trong chốc lát, anh thấy Bilbo là một sinh vật hốc hác, đói khát và cảm thấy muốn tấn công anh ta. Hội trường đột nhiên im lặng, Bilbo dường như hiểu được sức mạnh của Nhẫn nên yêu cầu Frodo cất nó đi. Anh ấy xin lỗi vì đã tạo gánh nặng cho Frodo khi tiếp tục cuộc phiêu lưu. Frodo cất Nhẫn đi, hội trường lại một lần nữa tràn ngập âm nhạc và niềm vui.
+Bilbo nói về Chiếc Nhẫn Chúa, than thở rằng anh đã không giữ nó và tự mình mang về Rivendell, cứu Frodo khỏi rắc rối. Anh ta yêu cầu được xem chiếc Nhẫn. Frodo rút chiếc Nhẫn ra thì phát hiện ra rằng Tiên tộc đã thay dây xích của nó bằng một dây xích nhẹ hơn, chắc chắn hơn. Khi Bilbo đưa tay định lấy chiếc Nhẫn, Frodo đột nhiên cảm thấy muốn giữ nó tránh xa mình. Trong chốc lát, anh thấy Bilbo là một sinh vật hốc hác, đói khát và cảm thấy muốn tấn công anh ta. Hội trường đột nhiên im lặng, Bilbo dường như hiểu được sức mạnh của Chiếc nhẫn nên yêu cầu Frodo cất nó đi. Anh ấy xin lỗi vì đã tạo gánh nặng cho Frodo khi tiếp tục cuộc phiêu lưu. Frodo cất chiếc Nhẫn đi, hội trường lại tràn ngập âm nhạc và niềm vui.
 
 Frodo kể Bilbo nhiều câu chuyện từ The Shire. Khi họ đang nói chuyện, Strider xuất hiện. Bilbo giải thích rằng cái tên anh gọi là Strider - "Dúnadan" - có nghĩa là [Người đàn ông của Phương Tây](Man_of_the_West.md). Anh ấy hỏi Strider tại sao anh ấy lại bỏ lỡ bữa tiệc và nói rằng Arwen đã có mặt. Strider trả lời rằng Elladan và Elrohir đã đi công tác về với một tin tức quan trọng mà anh ấy muốn nghe càng sớm càng tốt. Bilbo đã nhờ Strider giúp viết một bài hát để kết thúc buổi lễ tối nay. Trong khi họ thảo luận về vấn đề này, Frodo bắt đầu chìm đắm trong tiếng nhạc và tiếng hát của Tiên tộc trong hội trường, khiến anh buồn ngủ. Anh thức dậy khi nghe thấy Bilbo đang hát [bài hát mới của mình](../E/Eärendillinwë.md). Bài hát rất dài, khi kết thúc Frodo thấy nhiều Tiên tộc đã tụ tập xung quanh Bilbo để nghe. Một Tiên tên là [Lindir](../L/Lindir.md) yêu cầu được nghe lại bài hát nhưng Bilbo quá mệt để lặp lại. Lindir phản đối rằng Bilbo không bao giờ quá mệt mỏi khi lặp lại các bài hát của chính mình, khiến Bilbo phải trừng phạt anh vì không để ý rằng Strider đã viết một số câu hát. Lindir tuyên bố rằng Tiên tộc rất khó phân biệt giữa hai con người, khiến Bilbo mất tinh thần.
 
@@ -118,15 +118,15 @@ Frodo kể Bilbo nhiều câu chuyện từ The Shire. Khi họ đang nói chuy�
 <p class="tg-quote-footer"><cite><a href="../L/Lindir.md" title="Lindir">Lindir</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Bilbo thừa nhận Frodo mình đã viết toàn bộ bài hát; Strider không muốn liên quan gì đến việc viết bài hát về [Eärendil](../E/Eärendil.md) tại nhà của Elrond. Bilbo đề nghị họ rời đi để nói chuyện riêng. Khi họ ra khỏi hội trường, một trong những Tiên tộc bắt đầu hát bài thánh ca [A Elbereth Gilthoniel](../A/A_Elbereth_Gilthoniel.md). Frodo nhìn lại vào hội trường, thoáng thấy Arwen một lần nữa, với Aragorn đang đứng bên cạnh cô. Aragorn xuất hiện Frodo như thể đang mặc áo giáp Tiên, với một ngôi sao tỏa sáng trên ngực. Arwen nhìn Frodo và ngay lập tức bị mê hoặc.
+Bilbo thừa nhận Frodo mình đã viết toàn bộ bài hát; Strider không muốn liên quan gì đến việc viết bài hát về [Eärendil](../E/Eärendil.md) tại nhà của Elrond. Bilbo đề nghị họ rời đi để nói chuyện riêng. Khi họ ra khỏi hội trường, một trong số Tiên tộc bắt đầu hát bài thánh ca [A Elbereth Gilthoniel](../A/A_Elbereth_Gilthoniel.md). Frodo nhìn lại vào hội trường, thoáng thấy Arwen một lần nữa, với Aragorn đang đứng bên cạnh cô. Aragorn xuất hiện Frodo như thể đang mặc áo giáp Tiên, với một ngôi sao tỏa sáng trên ngực. Arwen nhìn Frodo và ngay lập tức bị mê hoặc.
 
 Bilbo dẫn Frodo vào phòng anh, nơi họ trò chuyện hàng giờ về những điều đẹp đẽ mà họ đã cùng nhau nhìn thấy. Cuộc trò chuyện của họ chỉ bị gián đoạn khi Sam xuất hiện, cầu xin chủ nhân đi ngủ vì buổi họp hội đồng đã được lên lịch vào sáng hôm sau. Trước khi tạm biệt buổi tối, Bilbo bày tỏ rằng anh không chắc liệu mình có sống sót để chứng kiến ​​câu chuyện của Frodo ra sao hay không.
 
 ## Thành phần {#Composition}
 
-Chương này là chương thứ 13 trong *Fellowship*đã xuất bản nhưng trong quá trình viết nó là "Chương 12" của tác phẩm cho đến nay.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> "Chương 12" đã được hoàn thành vào cuối [1938](../_/1938.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
+Chương này là chương thứ 13 trong *Fellowship* đã xuất bản nhưng trong quá trình viết nó là "Chương 12" của tác phẩm cho đến nay.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> "Chương 12" đã được hoàn thành vào cuối [1938](../_/1938.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
 
-Chương này đã được sửa lại xung quanh [1940](../_/1940.md)-[1941](../_/1941.md), khi Tolkien quyết định rằng [Aragorn](../A/Aragorn.md) là [Người thừa kế của Elendil](../H/Heir_of_Elendil.md), và Bilbo kể cho Frodo về lý lịch của Aragorn đã được thêm vào ở giai đoạn đó; cũng có những phiên bản đầu tiên của *[Eärendillinwë](../E/Eärendillinwë.md)* (được phát triển từ *[Errantry](../E/Errantry.md)*trước đó).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Chương này đã được sửa lại xung quanh [1940](../_/1940.md)-[1941](../_/1941.md), khi Tolkien quyết định rằng [Aragorn](../A/Aragorn.md) là [Người thừa kế của Elendil](../H/Heir_of_Elendil.md), và việc Bilbo kể cho Frodo về lai lịch của Aragorn đã được thêm vào ở giai đoạn đó; cũng có những phiên bản đầu tiên của *[Eärendillinwë](../E/Eärendillinwë.md)* (được phát triển từ *[Errantry](../E/Errantry.md)* trước đó).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 ## Ghi chú {#Notes}
 

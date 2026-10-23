@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"*There are the emblems of Durin!* đã khóc Gimli". Hình ảnh được trích từ [mô tả về Cánh cửa Durin](J.R.R._Tolkien_-_Doors_of_Durin.jpg.md) của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)trong *[The Fellowship of the Ring](../../main/T/The_Fellowship_of_the_Ring.md)*.
+"*There are the emblems of Durin!* đã khóc Gimli". Hình ảnh được trích từ [mô tả về Cánh cửa Durin](J.R.R._Tolkien_-_Doors_of_Durin.jpg.md) của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) trong *[The Fellowship of the Ring](../../main/T/The_Fellowship_of_the_Ring.md)*.
 
 ## Giấy phép {#Licensing}
 

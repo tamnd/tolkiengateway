@@ -47,7 +47,7 @@ infobox:
 
 <b><i>Amon Hen</i> 113</b> là số thứ 113 của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 1 [1992](../_/1992.md).
 
-Bài đánh giá của [Christina Scull](../C/Christina_Scull.md)về *[The Marvellous Land of Snergs](../T/The_Marvellous_Land_of_Snergs.md)* có hai câu được trích từ bản thảo *[On Fairy-Stories](../O/On_Fairy-Stories.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)(không có trong văn bản được xuất bản trong *[Essays Presented to Charles Williams](../E/Essays_Presented_to_Charles_Williams.md)*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Bài đánh giá của [Christina Scull](../C/Christina_Scull.md) về *[The Marvellous Land of Snergs](../T/The_Marvellous_Land_of_Snergs.md)* có hai câu được trích từ bản thảo *[On Fairy-Stories](../O/On_Fairy-Stories.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)(không có trong văn bản được xuất bản trong *[Essays Presented to Charles Williams](../E/Essays_Presented_to_Charles_Williams.md)*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Contents}
 

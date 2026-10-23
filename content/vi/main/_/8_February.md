@@ -69,7 +69,7 @@ Sự kiện xảy ra vào ngày 8 tháng 2.
 - **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho David L. Sands](../L/Letter_to_David_L._Sands.md).
 - **[1968](1968.md)** - Ngày quay thứ tư [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cho bộ phim tài liệu *[Tolkien in Oxford](../T/Tolkien_in_Oxford.md)*.
 - **[2001](2001.md)** - [*A Tolkien Treasury* (phiên bản thu nhỏ)](<../A/A_Tolkien_Treasury_(miniature_edition).md>) được phát hành.
-- **[2008](2008.md)** - hội nghị "[C.S. Lewis](../C/C.S._Lewis.md), [Inklings](../I/Inklings.md)và Lời kêu gọi đến với Cộng đồng Kitô giáo", có [Tom Shippey](../T/Tom_Shippey.md).
+- **[2008](2008.md)** - hội nghị "[C.S. Lewis](../C/C.S._Lewis.md), [Inklings](../I/Inklings.md) và Lời kêu gọi đến với Cộng đồng Kitô giáo", có [Tom Shippey](../T/Tom_Shippey.md).
 
 ## Trong Arda {#In_Arda}
 

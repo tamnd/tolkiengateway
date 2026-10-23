@@ -67,7 +67,7 @@ Sự kiện xảy ra vào ngày 29 tháng 5.
 ## Trên Trái đất {#On_Earth}
 
 - **[1874](1874.md)** - Tác giả [G.K. Chesterton](../G/G.K._Chesterton.md) ra đời.
-- **[1930](1930.md)** - "[Trường Anh ngữ Oxford](../T/The_Oxford_English_School.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)được xuất bản trên *The Oxford Magazine*.
+- **[1930](1930.md)** - "[Trường Anh ngữ Oxford](../T/The_Oxford_English_School.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được xuất bản trên *The Oxford Magazine*.
 - **[1945](1945.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 100](../L/Letter_100.md).
 - **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 351](../L/Letter_351.md).
 - **[1980](1980.md)** - *[Poems and Stories](../P/Poems_and_Stories.md)* được xuất bản.

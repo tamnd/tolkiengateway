@@ -12,7 +12,7 @@ categories:
   - "Trees"
 ---
 
-**Ebonies** là một loại [cây](../T/Trees.md). Bài hát [của [Bilbo](../B/Bilbo_Baggins.md)của Eärendil](../S/Song_of_Eärendil.md) đề cập đến [Eärendil](Eärendil.md) là có "mũi tên cắt ngắn bằng gỗ mun".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ebonies** là một loại [cây](../T/Trees.md). Bài hát [của [Bilbo](../B/Bilbo_Baggins.md) của Eärendil](../S/Song_of_Eärendil.md) đề cập đến [Eärendil](Eärendil.md) là có "mũi tên cắt ngắn bằng gỗ mun".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

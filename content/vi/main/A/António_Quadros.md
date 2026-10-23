@@ -36,7 +36,7 @@ infobox:
 
 **António Augusto de Melo Lucena e Quadros** (còn gọi là **António Quadros**) ([9 tháng 6](../_/9_June.md) [1933](../_/1933.md) - [2 tháng 7](../_/2_July.md) [1994](../_/1994.md)) là một họa sĩ đồ họa người Bồ Đào Nha, nổi tiếng với các tác phẩm về thể loại minh họa, truyện tranh và truyện tranh.
 
-António Quadros trở thành họa sĩ minh họa người Bồ Đào Nha đầu tiên cho tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)khi ông đóng góp các bức vẽ cho ấn bản tiếng Bồ Đào Nha đầu tiên của *[The Hobbit](../T/The_Hobbit.md)* ([O Gnomo](../O/O_Gnomo.md)).
+António Quadros trở thành họa sĩ minh họa người Bồ Đào Nha đầu tiên cho tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) khi ông đóng góp các bức vẽ cho ấn bản tiếng Bồ Đào Nha đầu tiên của *[The Hobbit](../T/The_Hobbit.md)* ([O Gnomo](../O/O_Gnomo.md)).
 
 Hình minh họa của Quadros cho *[The Hobbit](../T/The_Hobbit.md)* không làm hài lòng Tolkien. [Clyde S. Kilby](../C/Clyde_S._Kilby.md), đã viết trong hồi ký của mình, *[Tolkien and The Silmarillion](../T/Tolkien_and_The_Silmarillion.md)*, rằng Tolkien coi những bức tranh minh họa của Bồ Đào Nha là "khủng khiếp".
 

@@ -57,7 +57,7 @@ Bản chất kép này, theo Tolkien, có nghĩa là tính cách con người ph
 
 ### Nhiệm vụ của Frodo {#Frodo’s_Quest}
 
-Giải quyết tuyên bố của Auden rằng các nhiệm vụ có thể mang tính chính trị quá mức, Tolkien chỉ ra sự khác biệt giữa [nhiệm vụ](../Q/Quest_of_the_Ring.md) của [Frodo](../F/Frodo.md)và tham vọng chính trị của các nhân vật như [Denethor](../D/Denethor.md). Trong khi hành động của Denethor bị vấy bẩn bởi động cơ chính trị—mong muốn bảo vệ chính thể của [Gondor](../G/Gondor.md) bằng mọi giá—sứ mệnh củaFrodo về cơ bản là mang tính nhân đạo; "Tôi thấy rõ rằng nhiệm vụ của Frodo là 'nhân đạo' chứ không phải chính trị".
+Giải quyết tuyên bố của Auden rằng các nhiệm vụ có thể mang tính chính trị quá mức, Tolkien chỉ ra sự khác biệt giữa [nhiệm vụ](../Q/Quest_of_the_Ring.md) của [Frodo](../F/Frodo.md) và tham vọng chính trị của các nhân vật như [Denethor](../D/Denethor.md). Trong khi hành động của Denethor bị vấy bẩn bởi động cơ chính trị—mong muốn bảo vệ chính thể của [Gondor](../G/Gondor.md) bằng mọi giá—sứ mệnh củaFrodo về cơ bản là mang tính nhân đạo; "Tôi thấy rõ rằng nhiệm vụ của Frodo là 'nhân đạo' chứ không phải chính trị".
 
 Tolkien giải thích rằng nhiệm vụ không phải là bảo tồn các thực thể chính trị cụ thể như [ Shire](../T/The_Shire.md) mà là giải phóng tất cả các dân tộc, kể cả những người có liên kết với cái ác, khỏi sự chuyên chế của [Sauron](../S/Sauron.md). Anh ta đối lập sứ mệnh vị tha của Frodo với cách tiếp cận tư lợi hơn của Denethor, điều cuối cùng dẫn đến sự sụp đổ và gần như chuyên chế của Denethor.
 

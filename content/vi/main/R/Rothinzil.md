@@ -29,7 +29,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lída_Holubová_-_Vingilot.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cc/L%C3%ADda_Holubov%C3%A1_-_Vingilot.jpg/300px-L%C3%ADda_Holubov%C3%A1_-_Vingilot.jpg" decoding="async" loading="lazy" width="300" height="445" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cc/L%C3%ADda_Holubov%C3%A1_-_Vingilot.jpg/450px-L%C3%ADda_Holubov%C3%A1_-_Vingilot.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/cc/L%C3%ADda_Holubov%C3%A1_-_Vingilot.jpg/600px-L%C3%ADda_Holubov%C3%A1_-_Vingilot.jpg 2x" data-file-width="1024" data-file-height="1518"/></a><figcaption><i>Vingilot</i> by <a href="../../category/I/Images_by_Lída_Holubová.md" title="Category:Images by Lída Holubová">Lída Holubová</a></figcaption></figure>
 
-**Rothinzil** là tên [Adûnaic](../A/Adûnaic.md) của [Vingilot](../V/Vingilot.md), con tàu mà [Eärendil](../E/Eärendil.md) đi đến [Valinor](../V/Valinor.md)và sau đó anh đi trên những con đường trên bầu trời. Nói rộng ra, nó cũng được [người Númenor](../N/Númenóreans.md) sử dụng để chỉ [Ngôi sao Eärendil](../S/Star_of_Eärendil.md) rực rỡ trên bầu trời.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Rothinzil** là tên [Adûnaic](../A/Adûnaic.md) của [Vingilot](../V/Vingilot.md), con tàu mà [Eärendil](../E/Eärendil.md) đi đến [Valinor](../V/Valinor.md) và sau đó anh đi trên những con đường trên bầu trời. Nói rộng ra, nó cũng được [người Númenor](../N/Númenóreans.md) sử dụng để chỉ [Ngôi sao Eärendil](../S/Star_of_Eärendil.md) rực rỡ trên bầu trời.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

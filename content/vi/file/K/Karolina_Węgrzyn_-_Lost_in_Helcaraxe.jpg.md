@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Arda](../../main/A/Arda.md) trước khi Mặt Trời và Mặt Trăng xuất hiện. Các trinh sát của [Fingolfin](../../main/F/Fingolfin.md)đang tìm cách vượt qua mê cung độc ác của [Helcaraxë](../../main/H/Helcaraxë.md).
+[Arda](../../main/A/Arda.md) trước khi Mặt Trời và Mặt Trăng xuất hiện. Các trinh sát của [Fingolfin](../../main/F/Fingolfin.md) đang tìm cách vượt qua mê cung độc ác của [Helcaraxë](../../main/H/Helcaraxë.md).
 
 ## Giấy phép {#Licensing}
 

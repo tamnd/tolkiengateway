@@ -52,7 +52,7 @@ Người dân Haleth nói thứ tiếng [Haladin](../H/Haladin.md) không liên 
 
 [Helge Fauskanger](../H/Helge_Fauskanger.md) và Ellen Schousboe ghi nhận một số thay đổi trong quan niệm về Taliska:<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup>
 
-- Cái tên "Taliska" sau này dùng để chỉ ngôn ngữ của Nhà Bëor và *Haleth* trong khi Nhà Hador nói một ngôn ngữ khác, ngôn ngữ này cuối cùng sẽ được hình thành là [Adûnaic](../A/Adûnaic.md). Trong văn bản ban đầu của Tolkien, một số từ được anh gắn nhãn là Taliska đề cập đến các thuật ngữ mà trong phiên bản sau này sẽ được [Haladin](../H/Haladin.md)sử dụng.
+- Cái tên "Taliska" sau này dùng để chỉ ngôn ngữ của Nhà Bëor và *Haleth* trong khi Nhà Hador nói một ngôn ngữ khác, ngôn ngữ này cuối cùng sẽ được hình thành là [Adûnaic](../A/Adûnaic.md). Trong văn bản ban đầu của Tolkien, một số từ được anh gắn nhãn là Taliska đề cập đến các thuật ngữ mà trong phiên bản sau này sẽ được [Haladin](../H/Haladin.md) sử dụng.
 
 - Rất lâu sau này, trong bài tiểu luận "[Of Dwarves and Men](../O/Of_Dwarves_and_Men.md)" (xuất bản năm *[The Peoples of Middle-Earth](The_Peoples_of_Middle-Earth~21908.md)*), Tolkien đã viết rằng người Bëor và người Halethia không nói các ngôn ngữ liên quan: Người Hadorian vẫn nói "cổ Adûnaic", và người Bëorian có ngôn ngữ liên quan chặt chẽ; đó là ngôn ngữ của người Halethians không liên quan đến cả hai người (xem [tiền Númenorean](../P/Pre-Númenorean.md)).
 

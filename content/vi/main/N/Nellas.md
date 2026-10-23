@@ -56,9 +56,9 @@ infobox:
 
 Nellas là một [Tiên thiếu nữ](../E/Elves.md) của [Doriath](../D/Doriath.md), sống trong khu rừng gần [Menegroth](../M/Menegroth.md). Theo mệnh lệnh [Melian](../M/Melian.md), cô đã trông chừng [Túrin](../T/Túrin.md) mỗi khi anh đi lạc vào rừng trong những năm thơ ấu. Đôi khi họ chơi đùa cùng nhau hoặc tay trong tay lang thang. Đối với Túrin, cô ấy dường như không hơn tuổi anh chút nào.<sup id="cite_ref-Doriath_1-1" class="reference"><a href="#cite_note-Doriath-1">[1]</a></sup>
 
-Chính từ những lời dạy của Nellas mà Túrin đã học được [Doriathrin](../D/Doriathrin.md), một dạng [Sindarin](../S/Sindarin.md)cổ xưa và lịch sự hơn, cũng như "những cách thức và những điều hoang dã của Doriath".<sup id="cite_ref-Doriath_1-2" class="reference"><a href="#cite_note-Doriath-1">[1]</a></sup>
+Chính từ những lời dạy của Nellas mà Túrin đã học được [Doriathrin](../D/Doriathrin.md), một dạng [Sindarin](../S/Sindarin.md) cổ xưa và lịch sự hơn, cũng như "những cách thức và những điều hoang dã của Doriath".<sup id="cite_ref-Doriath_1-2" class="reference"><a href="#cite_note-Doriath-1">[1]</a></sup>
 
-Tuy nhiên, cuối cùng, khi Túrin trưởng thành, anh chuyển sự chú ý sang chiến tranh, và vì Nellas không muốn mạo hiểm dưới mái nhà bằng đá của [Menegroth](../M/Menegroth.md)nên Túrin cuối cùng đã ngừng gặp cô ấy hoàn toàn. Tuy nhiên, Nellas vẫn tiếp tục theo dõi anh, mặc dù hiện tại cô vẫn ở ẩn.<sup id="cite_ref-Doriath_1-3" class="reference"><a href="#cite_note-Doriath-1">[1]</a></sup>
+Tuy nhiên, cuối cùng, khi Túrin trưởng thành, anh chuyển sự chú ý sang chiến tranh, và vì Nellas không muốn mạo hiểm dưới mái nhà bằng đá của [Menegroth](../M/Menegroth.md) nên Túrin cuối cùng đã ngừng gặp cô ấy hoàn toàn. Tuy nhiên, Nellas vẫn tiếp tục theo dõi anh, mặc dù hiện tại cô vẫn ở ẩn.<sup id="cite_ref-Doriath_1-3" class="reference"><a href="#cite_note-Doriath-1">[1]</a></sup>
 
 Sau khi Túrin vô tình giết chết [Saeros](../S/Saeros.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> chính lời kể của Nellas đã giúp anh ta được Vua và cha nuôi [Thingol](../T/Thingol.md) tha thứ (mặc dù anh ta không biết điều này vì đã tự đày ải bản thân khỏi Doriath).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

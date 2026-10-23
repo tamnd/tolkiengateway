@@ -27,7 +27,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Phiên bản thứ hai của [Phụ lục B](../A/Appendix_B.md) đến *[The Lord of the Rings](The_Lord_of_the_Rings.md)* có sự ra đời của [Samwise Gamgee](../S/Samwise_Gamgee.md)trong năm nay trái ngược với các thông tin khác. [Phiên bản kỷ niệm 50 năm](<The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>) đã sửa thành [T.A.](Third_Age.md) [2980](Third_Age_2980.md). <span></span>
+Phiên bản thứ hai của [Phụ lục B](../A/Appendix_B.md) đến *[The Lord of the Rings](The_Lord_of_the_Rings.md)* có sự ra đời của [Samwise Gamgee](../S/Samwise_Gamgee.md) trong năm nay trái ngược với các thông tin khác. [Phiên bản kỷ niệm 50 năm](<The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>) đã sửa thành [T.A.](Third_Age.md) [2980](Third_Age_2980.md). <span></span>
 
 ## Tài liệu tham khảo {#References}
 

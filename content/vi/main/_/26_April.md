@@ -65,7 +65,7 @@ Sự kiện xảy ra vào ngày 26 tháng 4.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1923](1923.md)** - Bài đánh giá "[Thánh Nữ](../H/Holy_Maidenhood.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)được đăng trên *The Times Literary Supplement*.
+- **[1923](1923.md)** - Bài đánh giá "[Thánh Nữ](../H/Holy_Maidenhood.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được đăng trên *The Times Literary Supplement*.
 - **[1981](1981.md)** - Tập thứ tám của [loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
 - **[1999](1999.md)** - Trang web dành cho người hâm mộ [TheOneRing.net](../T/TheOneRing.net.md) được tạo.
 - **[2009](2009.md)** - Game PC *[Third Age: Total War](../T/Third_Age%253A_Total_War.md)* được phát hành.

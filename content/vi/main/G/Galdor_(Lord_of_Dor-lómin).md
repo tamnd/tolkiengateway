@@ -73,7 +73,7 @@ Tại một bữa tiệc lớn của Edain, Galdor kết hôn với [Hareth](../
 
 Trong [Dagor Bragollach](../D/Dagor_Bragollach.md) ở [F.A.](../F/First_Age.md) [455](../F/First_Age_455.md), cả cha của Galdor, Hador, và em trai của ông, Gundor, đều chết trong sự hậu vệ của Tiên-lord [Fingolfin](../F/Fingolfin.md). Galdor sau đó kế vị cha mình làm Lãnh chúa của [Dor-lómin](../D/Dor-lómin.md). Sau chiến thắng của [Morgoth](../M/Morgoth.md), vợ của [Barahir](../B/Barahir.md), [Emeldir](../E/Emeldir.md), đã tập hợp phụ nữ và trẻ em của [Dorthonion](../D/Dorthonion.md) và dẫn họ về phía tây; một số tìm thấy nơi ẩn náu trong miền của Galdor.
 
-Các con trai của Galdor, Húrin và Huor, đã bị những con đại bàng của [Thorondor](../T/Thorondor.md)đuổi theo Dagor Bragollach vào thành phố ẩn giấu [Gondolin](Gondolin.md). Khi rời khỏi thành phố (một lần nữa được mang theo đại bàng), họ quay trở lại Dor-lómin nơi họ sẽ không tiết lộ mình đã ở đâu, kể cả với cha mình.
+Các con trai của Galdor, Húrin và Huor, đã bị những con đại bàng của [Thorondor](../T/Thorondor.md) đuổi theo Dagor Bragollach vào thành phố ẩn giấu [Gondolin](Gondolin.md). Khi rời khỏi thành phố (một lần nữa được mang theo đại bàng), họ quay trở lại Dor-lómin nơi họ sẽ không tiết lộ mình đã ở đâu, kể cả với cha mình.
 
 Bảy năm sau Dagor Bragollach, Morgoth cử một lực lượng lớn chống lại [Hithlum](../H/Hithlum.md), tấn công các đường đèo của [Ered Wethrin](../E/Ered_Wethrin.md). Galdor bảo vệ [Eithel Sirion](../E/Eithel_Sirion.md) và bị giết bởi một mũi tên.<sup id="cite_ref-Ruin_1-2" class="reference"><a href="#cite_note-Ruin-1">[1]</a></sup>
 

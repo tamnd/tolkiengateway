@@ -17,11 +17,11 @@ langlinks:
     url: "https://kontu.wiki/Kahvi"
 ---
 
-**Cà phê** là đồ uống được biết đến ít nhất bởi [Hobbit](../H/Hobbits.md) và [Người Lùn](../D/Dwarves.md) trong Kỷ Đệ Tam. Khi [Bilbo Baggins](../B/Bilbo_Baggins.md) chiêu đãi [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) và [Gandalf](../G/Gandalf.md) ở [Bag End](../B/Bag_End.md) vào tháng 4 [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), anh ấy đã phải đặt một bình cà phê lớn vào lò sưởi, vì một trong năm người lùn cùng vào ([Dori](../D/Dori.md), [Ori](../O/Ori.md), [Nori](../N/Nori.md), [Óin](../_/Óin.md)và [Glóin](../G/Glóin.md)) đã yêu cầu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Cà phê** là đồ uống được biết đến ít nhất bởi [Hobbit](../H/Hobbits.md) và [Người Lùn](../D/Dwarves.md) trong Kỷ Đệ Tam. Khi [Bilbo Baggins](../B/Bilbo_Baggins.md) chiêu đãi [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) và [Gandalf](../G/Gandalf.md) ở [Bag End](../B/Bag_End.md) vào tháng 4 [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), anh ấy đã phải đặt một bình cà phê lớn vào lò sưởi, vì một trong năm người lùn cùng vào ([Dori](../D/Dori.md), [Ori](../O/Ori.md), [Nori](../N/Nori.md), [Óin](../_/Óin.md) và [Glóin](../G/Glóin.md)) đã yêu cầu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Coffee beans can be grown by farmers,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and characters with the cooking craft can produce a &#34;Cup of Westemnet Coffee&#34;.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 

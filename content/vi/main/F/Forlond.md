@@ -35,7 +35,7 @@ infobox:
 
 **Forlond** là một bến cảng nằm trên bờ phía bắc của [Vịnh Lune](../G/Gulf_of_Lune.md), trên vùng đất [Elvish](../E/Elves.md) của [Forlindon](Forlindon.md). Nó có một bản sao ở bờ phía nam: [Harlond](<../H/Harlond_(Lindon).md>).
 
-Forlond nằm ở cửa một con sông không tên chảy qua Forlindon, cách [Cảng Xám](../G/Grey_Havens.md)khoảng 200 dặm về phía tây bắc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Forlond nằm ở cửa một con sông không tên chảy qua Forlindon, cách [Cảng Xám](../G/Grey_Havens.md) khoảng 200 dặm về phía tây bắc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Khi tàu của [Gondor](../G/Gondorians.md) tướng [Eärnur](../E/Eärnur.md) đến [Lindon](../L/Lindon.md) trong [Cuộc chiến Angmar](../A/Angmar_War.md), người ta kể rằng họ đã lấp đầy Forlond, Harlond và [Cảng Xám](../G/Grey_Havens.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

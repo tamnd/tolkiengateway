@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Rương được [Beren](../../main/B/Beren.md)trao cho [Dior](../../main/D/Dior.md), chứa [Nauglamír](../../main/N/Nauglamír.md) và [Silmaril](../../main/S/Silmaril.md) được lấy bởi Beren - Tác phẩm nghệ thuật của [Alan Lee](../../main/A/Alan_Lee.md) cho *[Beren and Lúthien](../../main/B/Beren_and_Lúthien.md)*
+Rương được [Beren](../../main/B/Beren.md) trao cho [Dior](../../main/D/Dior.md), chứa [Nauglamír](../../main/N/Nauglamír.md) và [Silmaril](../../main/S/Silmaril.md) được Beren lấy lại - Tác phẩm nghệ thuật của [Alan Lee](../../main/A/Alan_Lee.md) cho *[Beren and Lúthien](../../main/B/Beren_and_Lúthien.md)*
 
 ## Giấy phép {#Licensing}
 

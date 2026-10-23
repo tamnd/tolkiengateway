@@ -14,7 +14,7 @@ categories:
 
 <table class="noprint" style="float: right; border:var(--tg-border-base); background:var(--tg-color-surface-2); margin: .3em .3em .3em 1em; padding: 10px; text-align: center;border-radius:var(--tg-border-radius-large);"><tbody><tr><th style="border: none; background: transparent;" class="plainlist"><small>Shortcut:<br/><a class="mw-redirect" href="NOTE.md" title="Tolkien Gateway:NOTE">TG:NOTE</a></small></th></tr></tbody></table>
 
-**Chính sách về độ nổi bật** của [Tolkien Gateway](../../main/T/Tolkien_Gateway.md)mô tả bài kiểm tra và hướng dẫn được các biên tập viên sử dụng để quyết định liệu một chủ đề riêng lẻ có xứng đáng có bài viết riêng hoặc được đưa vào wiki này hay không. Nói chung, không có quy tắc cứng nhắc và nhanh chóng nào quy định những chủ đề nào nên được đưa vào nhưng trang này tìm cách nêu bật những chính sách cụ thể tồn tại.
+**Chính sách về độ nổi bật** của [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) mô tả bài kiểm tra và hướng dẫn được các biên tập viên sử dụng để quyết định liệu một chủ đề riêng lẻ có xứng đáng có bài viết riêng hoặc được đưa vào wiki này hay không. Nói chung, không có quy tắc cứng nhắc và nhanh chóng nào quy định những chủ đề nào nên được đưa vào nhưng trang này tìm cách nêu bật những chính sách cụ thể tồn tại.
 
 ## Các khái niệm trong vũ trụ {#In-universe_concepts}
 
@@ -22,7 +22,7 @@ Tất cả các nhân vật, địa điểm, sự kiện, đồ vật, chủng t
 
 ## Cá nhân {#Individuals}
 
-Mỗi [cá nhân](../../category/P/People_by_name.md) cần được đánh giá theo từng trường hợp. Nhìn chung, [tác giả](../../category/A/Authors.md), [nghệ sĩ](../../category/A/Artists.md), [diễn viên](../../category/A/Actors_and_actresses.md) và những người khác có ảnh hưởng đáng kể đều được đưa vào, nhưng không cần phải bao gồm mọi diễn viên, chẳng hạn (đặc biệt nếu họ đã thực hiện một vai trò nhỏ hơn). Về mặt tác giả và học giả, số lượng, thời lượng và tác động của những đóng góp của họ cần được tính đến khi đánh giá liệu họ có đủ nổi bật để được đưa vào [Tolkien Gateway](../../main/T/Tolkien_Gateway.md)hay không.
+Mỗi [cá nhân](../../category/P/People_by_name.md) cần được đánh giá theo từng trường hợp. Nhìn chung, [tác giả](../../category/A/Authors.md), [nghệ sĩ](../../category/A/Artists.md), [diễn viên](../../category/A/Actors_and_actresses.md) và những người khác có ảnh hưởng đáng kể đều được đưa vào, nhưng không cần phải bao gồm mọi diễn viên, chẳng hạn (đặc biệt nếu họ đã thực hiện một vai trò nhỏ hơn). Về mặt tác giả và học giả, số lượng, thời lượng và tác động của những đóng góp của họ cần được tính đến khi đánh giá liệu họ có đủ nổi bật để được đưa vào [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) hay không.
 
 ## Ấn phẩm {#Publications}
 

@@ -53,7 +53,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Rose kết hôn với [Cotman](../C/Cotman.md) của [Bywater](../B/Bywater.md)và họ có một đứa con, [Holman Cotton](../H/Holman_Cotton.md), được đặt theo tên của cha cô, [Holman người xanh](../H/Holman_the_greenhanded.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Rose kết hôn với [Cotman](../C/Cotman.md) của [Bywater](../B/Bywater.md) và họ có một đứa con, [Holman Cotton](../H/Holman_Cotton.md), được đặt theo tên của cha cô, [Holman người xanh](../H/Holman_the_greenhanded.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -75,16 +75,16 @@ Sự kiện xảy ra vào ngày 2 tháng 11
 - **[1990](1990.md)** - [Donald A. Wollheim](../D/Donald_A._Wollheim.md) qua đời.
 - **[2002](2002.md)** - Hội thảo chuyên đề "J.R.R. Tolkien: Người đàn ông đằng sau The Lord of the Rings" được tổ chức tại <a class="external text" href="http://acmrs.org/" rel="noreferrer noopener" target="_blank">Trung tâm Nghiên cứu Thời Trung cổ và Phục hưng Arizona</a>. [Tom Shippey](../T/Tom_Shippey.md), [Randel Helms](../R/Randel_Helms.md) và Ron Người mới đến phát biểu.
 - **[2004](2004.md)** - *[The Lord of the Rings: The Third Age](../T/The_Lord_of_the_Rings%253A_The_Third_Age.md)* được phát hành tại Bắc Mỹ.
-- **[2010](2010.md)** - *[The Lord of the Rings Online:](../T/The_Lord_of_the_Rings_Online.md) [Tập III: Allies of the Vua](../T/The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md#Volume_III:_Allies_of_the_King)*, "Ride of the Grey Company" được phát hành ở Châu Âu.
+- **[2010](2010.md)** - *[The Lord of the Rings Trực tuyến:](../T/The_Lord_of_the_Rings_Online.md) [Tập III: Allies of the Vua](../T/The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md#Volume_III:_Allies_of_the_King)*, "Ride of the Grey Company" được phát hành ở Châu Âu.
 - **[2010](2010.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)* được chơi miễn phí cho công chúng ở Châu Âu.
 - **[2011](2011.md)** - *[The Loss and the Silence: Aspects of Modernism in the Works of C.S. Lewis, J.R.R. Tolkien &amp; Charles Williams](../T/The_Loss_and_the_Silence.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md)tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Kẻ duy nhất Nhẫn](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - Các [Lữ khách](../T/Travellers.md) đến với [Bywater](../B/Bywater.md) và [đánh thức](../H/Horn-call_of_Buckland.md) [Shire-dân gian](../H/Hobbits.md).
 - Sự kiện trên được kỷ niệm vào [Buckland](../B/Buckland.md) bằng cách đánh vang [Sừng của Mark](../H/Horn_of_the_Mark.md) và các lễ hội khác.

@@ -48,7 +48,7 @@ infobox:
 
 **Anguirel** là một trong hai thanh kiếm được rèn bởi [Eöl](../E/Eöl.md), [Bóng tối Tiên](../D/Dark_Elf.md), từ một <a class="extiw" href="http://en.wikipedia.org/wiki/Iron_meteorite" title="wikipedia:Iron meteorite">thiên thạch sắt</a>. Cả hai thanh kiếm đều có màu đen và có thể chém xuyên qua bất kỳ loại sắt nào được đào bằng đất.
 
-Eöl đã đưa cho bạn đời của Anguirel, [Anglachel](Anglachel.md), cho [Thingol](../T/Thingol.md) để trả tiền sống tại [Nan Elmoth](../N/Nan_Elmoth.md). Ông đã giữ Anguirel cho đến khi nó bị con trai [Maeglin](../M/Maeglin.md)đánh cắp và bỏ trốn đến [Gondolin](../G/Gondolin.md). Chuyện gì xảy ra sau đó thì không rõ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Eöl đã đưa cho bạn đời của Anguirel, [Anglachel](Anglachel.md), cho [Thingol](../T/Thingol.md) để trả tiền sống tại [Nan Elmoth](../N/Nan_Elmoth.md). Ông đã giữ Anguirel cho đến khi nó bị con trai [Maeglin](../M/Maeglin.md) đánh cắp và bỏ trốn đến [Gondolin](../G/Gondolin.md). Chuyện gì xảy ra sau đó thì không rõ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

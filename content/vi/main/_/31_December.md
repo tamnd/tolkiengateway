@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 31 tháng 12.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1925](1925.md)** – Công việc của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)tại [Đại học Leeds](../U/University_of_Leeds.md) chính thức kết thúc.
+- **[1925](1925.md)** – Công việc của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tại [Đại học Leeds](../U/University_of_Leeds.md) chính thức kết thúc.
 - **[1943](1943.md)** - Diễn viên [Victor Raider-Wexler](../V/Victor_Raider-Wexler.md) ra đời.
 - **[1960](1960.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 226](../L/Letter_226.md).
 - **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết thư cho [Ingeborg Korff và các học trò của cô](../L/Letter_to_Ingeborg_Korff.md).

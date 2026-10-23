@@ -21,7 +21,7 @@ images:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-"**Hãy trỗi dậy, hãy trỗi dậy, các Kỵ sĩ của Théoden!**" là dòng đầu tiên trong tiếng kêu tập hợp được [Théoden](../T/Théoden.md) nói với [Các Kỵ sĩ của Rohan](../R/Riders_of_Rohan.md). Các biến thể của nó xuất hiện khi anh ta được phục hồi lần đầu tiên bởi [Gandalf](../G/Gandalf.md)và sau đó trước khi họ tiến vào [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
+"**Hãy trỗi dậy, hãy trỗi dậy, các Kỵ sĩ của Théoden!**" là dòng đầu tiên trong tiếng kêu tập hợp được [Théoden](../T/Théoden.md) nói với [Các Kỵ sĩ của Rohan](../R/Riders_of_Rohan.md). Các biến thể của nó xuất hiện khi anh ta được phục hồi lần đầu tiên bởi [Gandalf](../G/Gandalf.md) và sau đó trước khi họ tiến vào [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
 
 ## Văn bản {#Text}
 

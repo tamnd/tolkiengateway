@@ -40,7 +40,7 @@ infobox:
 
 <b><i>Mythlore</i> 60</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol16/iss2/" rel="noreferrer noopener" target="_blank">Tập 16, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md) và có minh họa bìa của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Nancy-Lou_Patterson&amp;action=edit&amp;redlink=1" title="Nancy-Lou Patterson (page does not exist)">Nancy-Lou Patterson</a>.
 
-Bài viết 'Giữa những cái cây: Tìm kiếm linh hồn của Narqelion' của [Paul Nolan Hyde](../P/Paul_Nolan_Hyde.md) bao gồm nội dung bài thơ '[Narqelion](../N/Narqelion.md)' của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)và bản dịch tiếng Anh, cùng với một số Tolkien bài thơ đầu tiên. Bản tóm tắt bài viết của [Jorge Quiñónez](../J/Jorge_Quiñónez.md), bao gồm nội dung bài thơ và bản dịch tiếng Anh, được xuất bản trong *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)* [Số 12](../V/Vinyar_Tengwar_12.md), tháng 7 năm 1990.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Bài viết 'Giữa những cái cây: Tìm kiếm linh hồn của Narqelion' của [Paul Nolan Hyde](../P/Paul_Nolan_Hyde.md) bao gồm nội dung bài thơ '[Narqelion](../N/Narqelion.md)' của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và bản dịch tiếng Anh, cùng với một số Tolkien bài thơ đầu tiên. Bản tóm tắt bài viết của [Jorge Quiñónez](../J/Jorge_Quiñónez.md), bao gồm nội dung bài thơ và bản dịch tiếng Anh, được xuất bản trong *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)* [Số 12](../V/Vinyar_Tengwar_12.md), tháng 7 năm 1990.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Contents}
 

@@ -39,7 +39,7 @@ Trong thư Tolkien bày tỏ sự không hài lòng với cách Harvey Breit tr�
 
 ### Cảm hứng ngôn ngữ {#Linguistic_Inspiration}
 
-Tolkien nhấn mạnh rằng tác phẩm của anh về cơ bản mang tính ngôn ngữ trong cảm hứng. Anh đề cập đến quan niệm sai lầm rằng những câu chuyện của anh như *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*là những sở thích không liên quan đến công việc chuyên môn của anh. Ông bác bỏ điều này và giải thích "Việc phát minh ra ngôn ngữ là nền tảng. 'Những viên đá' được tạo ra để cung cấp một thế giới cho các ngôn ngữ chứ không phải ngược lại". Anh ấy giải thích chi tiết về quá trình của mình, lưu ý rằng đối với anh ấy “cái tên đến trước và câu chuyện sẽ theo sau”.
+Tolkien nhấn mạnh rằng tác phẩm của anh về cơ bản mang tính ngôn ngữ trong cảm hứng. Anh đề cập đến quan niệm sai lầm rằng những câu chuyện của anh như *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* là những sở thích không liên quan đến công việc chuyên môn của anh. Ông bác bỏ điều này và giải thích "Việc phát minh ra ngôn ngữ là nền tảng. 'Những viên đá' được tạo ra để cung cấp một thế giới cho các ngôn ngữ chứ không phải ngược lại". Anh ấy giải thích chi tiết về quá trình của mình, lưu ý rằng đối với anh ấy “cái tên đến trước và câu chuyện sẽ theo sau”.
 
 Ông cũng mô tả cấu trúc ngôn ngữ của các ngôn ngữ [Elvish](../E/Elvish.md) trong *The Lord of the Rings*, với [Sindarin](../S/Sindarin.md) được thiết kế có chủ ý để giống với [tiếng Wales](../W/Welsh.md), cả về mặt âm vị học và mối quan hệ của nó với [Cao Tiên](../Q/Quenya.md), giống như mối quan hệ giữa [Celtic](../C/Celtic.md) tiếng Anh và [Latin](Latin.md). Niềm đam mê suốt đời của Tolkien với ngữ văn, đặc biệt là [ngôn ngữ Đức](../N/North_Germanic_languages.md) và câu điệp âm, được thể hiện rõ trong lời giải thích chi tiết của ông về cách những ảnh hưởng này đã định hình tác phẩm của ông.
 
@@ -65,7 +65,7 @@ Tolkien bày tỏ mối liên hệ cá nhân sâu sắc với các chủ đề v
 
 Tolkien bày tỏ sự ngạc nhiên và cảm kích trước sự thành công của *The Lord of the Rings*. Ông thừa nhận rằng cuốn sách ban đầu được viết để thỏa mãn bản thân, mặc dù ông ước tính rằng ông chỉ thành công trong việc thực hiện được khoảng 75% ý định của mình. Mặc dù vậy, ông vẫn rất an ủi và vui mừng trước sự đón nhận tích cực của cuốn sách, mô tả nó như một “một điều may mắn kỳ lạ, được một số người cùng thời với tôi ghen tị”.
 
-Tolkien phản ánh mối liên hệ cảm xúc của anh ấy với một số đoạn trong *The Lord of the Rings*, đặc biệt là phần mô tả [Cerin Amroth](../C/Cerin_Amroth.md) và âm thanh [ngựa](../H/Horses.md) của [Rohirrim](../R/Rohirrim.md). Anh ấy cũng đề cập đến nỗi đau buồn kéo dài của mình về việc [Gollum](../G/Gollum.md)không ăn năn, coi đây là sự phản ánh sự phức tạp của thế giới thực, nơi “các công cụ của quả báo công bằng hiếm khi tự công bằng hoặc thánh thiện”.
+Tolkien phản ánh mối liên hệ cảm xúc của anh ấy với một số đoạn trong *The Lord of the Rings*, đặc biệt là phần mô tả [Cerin Amroth](../C/Cerin_Amroth.md) và âm thanh [ngựa](../H/Horses.md) của [Rohirrim](../R/Rohirrim.md). Anh ấy cũng đề cập đến nỗi đau buồn kéo dài của mình về việc [Gollum](../G/Gollum.md) không ăn năn, coi đây là sự phản ánh sự phức tạp của thế giới thực, nơi “các công cụ của quả báo công bằng hiếm khi tự công bằng hoặc thánh thiện”.
 
 <br>
 

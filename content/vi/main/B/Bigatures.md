@@ -39,7 +39,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-**Hình ảnh lớn** hoặc **Hình ảnh lớn** là những thuật ngữ đề cập đến các mô hình thu nhỏ được tạo bởi [Weta Workshop](../W/Weta_Workshop.md) cho [*The Lord of the Rings* loạt phim](<../T/The_Lord_of_the_Rings_(film_series).md>). Vì kích thước của chúng, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Christy_Hennah&amp;action=edit&amp;redlink=1" title="Christy Hennah (page does not exist)">Christy Hennah</a> đã đặt tên chúng là "những bức tượng lớn" thay vì "những bức tranh thu nhỏ".
+**Các mô hình lớn** hoặc **Các mô hình lớn** là những thuật ngữ đề cập đến các mô hình thu nhỏ do [Weta Workshop](../W/Weta_Workshop.md) tạo ra cho [*The Lord of the Rings* loạt phim](<../T/The_Lord_of_the_Rings_(film_series).md>). Vì kích thước của chúng, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Christy_Hennah&amp;action=edit&amp;redlink=1" title="Christy Hennah (page does not exist)">Christy Hennah</a> đã đặt tên chúng là "những bức tượng lớn" thay vì "những bức tranh thu nhỏ".
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(film_series)_-_Cirith_Ungol_minature.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8d/The_Lord_of_the_Rings_%28film_series%29_-_Cirith_Ungol_minature.jpg/250px-The_Lord_of_the_Rings_%28film_series%29_-_Cirith_Ungol_minature.jpg" decoding="async" loading="lazy" width="250" height="164" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8d/The_Lord_of_the_Rings_%28film_series%29_-_Cirith_Ungol_minature.jpg/375px-The_Lord_of_the_Rings_%28film_series%29_-_Cirith_Ungol_minature.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8d/The_Lord_of_the_Rings_%28film_series%29_-_Cirith_Ungol_minature.jpg/500px-The_Lord_of_the_Rings_%28film_series%29_-_Cirith_Ungol_minature.jpg 2x" data-file-width="680" data-file-height="445"/></a><figcaption><i>Cirith Ungol</i> miniature</figcaption></figure>
 
@@ -59,7 +59,7 @@ Minas Tirith được xây dựng theo tỷ lệ 1/72 và một số bộ phận
 
 - **[Cirith Ungol](../C/Cirith_Ungol.md)**
 
-[John Howe](../J/John_Howe.md) đã xem lại các bản vẽ ban đầu dựa trên các bài viết của [Tolkien](../J/J.R.R._Tolkien.md)và mô hình được xây dựng trên một đỉnh núi bằng đá thay vì trực tiếp trên một ngọn núi.
+[John Howe](../J/John_Howe.md) đã xem lại các bản vẽ ban đầu dựa trên các bài viết của [Tolkien](../J/J.R.R._Tolkien.md) và mô hình được xây dựng trên một đỉnh núi bằng đá thay vì trực tiếp trên một ngọn núi.
 
 - **[Helm's Deep](../H/Helm's_Deep.md)**
 - **[Orthanc](../O/Orthanc.md)**

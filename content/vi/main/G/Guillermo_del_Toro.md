@@ -31,11 +31,11 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Guillermo_del_Toro.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2d/Guillermo_del_Toro.jpg/250px-Guillermo_del_Toro.jpg" decoding="async" loading="lazy" width="250" height="167" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2d/Guillermo_del_Toro.jpg/375px-Guillermo_del_Toro.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2d/Guillermo_del_Toro.jpg/500px-Guillermo_del_Toro.jpg 2x" data-file-width="1280" data-file-height="853"/></a><figcaption>Guillermo del Toro in <a href="../_/2008.md" title="2008">2008</a>.</figcaption></figure>
 
-**Guillermo del Toro** ([9 tháng 10](../_/9_October.md), [1964](../_/1964.md)) là đạo diễn người Mexico từng được đề cử Giải Oscar. Ban đầu anh được chọn làm đạo diễn *[The Hobbit (film series)](<../T/The_Hobbit_(film_series).md>)*, nhưng đã bỏ ngang sau khi các vấn đề pháp lý khiến việc quay phim bị trì hoãn. Tuy nhiên, ông vẫn là một trong những nhà văn và được ghi nhận là một trong những người viết kịch bản cho các tựa phim của loạt phim.
+**Guillermo del Toro** ([ngày 9 tháng 10](../_/9_October.md), [1964](../_/1964.md)) là một đạo diễn người Mexico từng được đề cử giải Oscar. Ban đầu, ông được chọn làm đạo diễn cho *[The Hobbit (film series)](<../T/The_Hobbit_(film_series).md>)*, nhưng đã rút lui sau khi các vấn đề pháp lý khiến quá trình quay phim bị trì hoãn. Tuy nhiên, ông vẫn tiếp tục tham gia với tư cách là một trong những biên kịch và được ghi danh là một trong những người viết kịch bản trong phần danh đề của loạt phim.
 
-Del Toro được biết đến với hình ảnh giàu trí tưởng tượng; các tác phẩm chính của ông bao gồm các tác phẩm chuyển thể từ truyện tranh *Blade II* và *Hellboy*, cũng như *El Laberinto del Fauno* được giới phê bình đánh giá cao (tiếng Tây Ban Nha, nghĩa là Mê cung của Faun. Được phát hành ở các quốc gia nói tiếng Anh với tên *Pan's Labyrinth*).
+Del Toro nổi tiếng với phong cách hình ảnh giàu trí tưởng tượng; những tác phẩm tiêu biểu của ông bao gồm các phim chuyển thể từ truyện tranh *Blade II* và *Hellboy*, cùng bộ phim được giới phê bình đánh giá cao *El Laberinto del Fauno* (tiếng Tây Ban Nha, nghĩa đen là Mê cung của Thần dê. Phim được phát hành tại các quốc gia nói tiếng Anh với tựa đề *Pan's Labyrinth*).
 
-Mặc dù anh ấy đã tuyên bố rằng mình 'yêu' The Hobbit nhưng việc Del Toro thiếu hiểu biết về các tác phẩm của Tolkien đã khiến một số người hâm mộ lo lắng:
+Mặc dù từng tuyên bố rằng mình «yêu thích» The Hobbit, việc Del Toro thiếu hiểu biết về các tác phẩm của Tolkien đã khiến một số người hâm mộ lo ngại:
 
 <dl><dd><i>&#34;I tried my best to read <a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">Lord of the Rings</a> [sic], the trilogy. I could not. I could not. They were very dense. And then one day, I bought The Hobbit. I read it and I loved it.&#34;</i><a class="external autonumber" href="http://hollywoodinsider.ew.com/2007/12/will-guillermo.html" rel="noreferrer noopener" target="_blank">[1]</a></dd></dl>
 
@@ -55,5 +55,5 @@ Mặc dù anh ấy đã tuyên bố rằng mình 'yêu' The Hobbit nhưng việc
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Guillermo_del_Toro" title="wikipedia:Guillermo del Toro">Guillermo del Toro</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="http://www.imdb.com/name/nm0868219/" rel="noreferrer noopener" target="_blank">Guillermo del Toro</a> tại IMDb
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Guillermo_del_Toro" title="wikipedia:Guillermo del Toro">Guillermo del Toro</a> trên <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="external text" href="http://www.imdb.com/name/nm0868219/" rel="noreferrer noopener" target="_blank">Guillermo del Toro</a> trên IMDb

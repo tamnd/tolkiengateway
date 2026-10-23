@@ -60,7 +60,7 @@ Dora rất thích viết những lá thư chứa đầy lời khuyên cho các m
 
 ## Từ nguyên {#Etymology}
 
-Cái tên *Dora* không có ý nghĩa gì trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md)đương thời. Nó đại diện cho tên gốc *Doro* hoặc *Dore*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+Cái tên *Dora* không có ý nghĩa gì trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md) đương thời. Nó đại diện cho tên gốc *Doro* hoặc *Dore*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

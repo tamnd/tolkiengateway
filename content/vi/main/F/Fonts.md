@@ -14,7 +14,7 @@ images:
   - "Daniel_Reeve_-_Lettering.gif"
 ---
 
-Tồn tại nhiều **kiểu chữ** hoặc **họ phông chữ** dựa trên tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)hoặc các bản chuyển thể của nó.
+Tồn tại nhiều **kiểu chữ** hoặc **họ phông chữ** dựa trên tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) hoặc các bản chuyển thể của nó.
 
 ## Tengwar {#Tengwar}
 

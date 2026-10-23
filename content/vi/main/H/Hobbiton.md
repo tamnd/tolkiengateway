@@ -49,11 +49,11 @@ infobox:
 
 ## Địa lý {#Geography}
 
-Hobbiton nằm ở hai bên bờ [Mặt nước](../T/The_Water.md), cách làng lân cận [Bywater](../B/Bywater.md)khoảng một dặm về phía tây bắc. [Bywater Đường](../B/Bywater_Road.md) đi qua cả hai làng và nối với [phương Đông Đường](../E/East_Road.md) ở phía nam.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Hobbiton nằm ở hai bên bờ [Mặt nước](../T/The_Water.md), cách làng lân cận [Bywater](../B/Bywater.md) khoảng một dặm về phía tây bắc. [Bywater Đường](../B/Bywater_Road.md) đi qua cả hai làng và nối với [phương Đông Đường](../E/East_Road.md) ở phía nam.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Những ngôi nhà ở đạt tiêu chuẩn [Hobbit](Hobbits.md), được gọi là [smials](../S/Smials.md) hoặc [hang Hobbit](Hobbit-holes.md) nhưng cũng có những tòa nhà bằng gỗ, gạch hoặc đá. Một trong những tòa nhà nổi bật hơn ở Hobbiton là [Old Mill](../O/Old_Mill.md) nằm ở phía bắc của Water, gần cây cầu, cuối cùng đã bị phá bỏ. Ở phía nam của The Water có một số ngôi nhà khác. [Old Grange](../O/Old_Grange.md) nằm ở phía tây của con đường chạy từ cầu đến [Hobbiton Hill](Hobbiton_Hill.md).
 
-Ngọn đồi nhìn ra ngôi làng và khu phố có tên <a class="new" href="https://tolkiengateway.net/w/index.php?title=Underhill_(village)&amp;action=edit&amp;redlink=1" title="Underhill (village) (page does not exist)">Underhill</a>. Trong đó là [Bag End](../B/Bag_End.md), nụ cười tổ tiên của [Baggins Gia đình](../B/Baggins_Family~66343.md) và [Những người mang nhẫn](../R/Ring-bearer.md) [Frodo](../F/Frodo_Baggins.md) và [Bilbo Baggins](../B/Bilbo_Baggins.md)nổi tiếng. Ở phía nam của Đồi có ba hang Hobbit nhỏ hơn (sau này nhiều hơn) dọc theo [Bagshot Row](../B/Bagshot_Row.md).
+Ngọn đồi nhìn ra ngôi làng và khu phố có tên <a class="new" href="https://tolkiengateway.net/w/index.php?title=Underhill_(village)&amp;action=edit&amp;redlink=1" title="Underhill (village) (page does not exist)">Underhill</a>. Trong đó là [Bag End](../B/Bag_End.md), nụ cười tổ tiên của [Baggins Gia đình](../B/Baggins_Family~66343.md) và [Những người mang nhẫn](../R/Ring-bearer.md) [Frodo](../F/Frodo_Baggins.md) và [Bilbo Baggins](../B/Bilbo_Baggins.md) nổi tiếng. Ở phía nam của Đồi có ba hang Hobbit nhỏ hơn (sau này nhiều hơn) dọc theo [Bagshot Row](../B/Bagshot_Row.md).
 
 Làng cũng có Bưu điện riêng.
 
@@ -71,7 +71,7 @@ Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Hobbiton bị tàn phá.
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../T/The_Scouring_of_the_Shire.md" title="The Scouring of the Shire">The Scouring of the Shire</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Sau [Càn quét Shire](../S/Scouring_of_the_Shire.md), Bag End đã được khôi phục và các hố mới được đào dọc theo Hàng Bagshot. Nhà máy mới đã được dỡ bỏ. [Samwise Gamgee](../S/Samwise_Gamgee.md) rải [món quà đất](../S/Sam's_garden_box.md) của [Galadriel](../G/Galadriel.md)từ vườn cây ăn quả của mình xung quanh Shire, đặc biệt chú ý đến Hobbiton và Bywater. Anh ấy đã trồng [mallorn](../M/Mallorn.md) [hạt giống](../G/Golden_Tree.md) ở [Party Field](../P/Party_Field.md) cạnh Ngọn đồi nơi [Cây tiệc tùng](../P/Party_Tree.md) từng tọa lạc. Chẳng bao lâu nữa Hobbiton ngôi làng yên bình và xinh đẹp trở lại.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Sau [Càn quét Shire](../S/Scouring_of_the_Shire.md), Bag End đã được khôi phục và các hố mới được đào dọc theo Hàng Bagshot. Nhà máy mới đã được dỡ bỏ. [Samwise Gamgee](../S/Samwise_Gamgee.md) rải [món quà đất](../S/Sam's_garden_box.md) của [Galadriel](../G/Galadriel.md) từ vườn cây ăn quả của mình xung quanh Shire, đặc biệt chú ý đến Hobbiton và Bywater. Anh ấy đã trồng [mallorn](../M/Mallorn.md) [hạt giống](../G/Golden_Tree.md) ở [Party Field](../P/Party_Field.md) cạnh Ngọn đồi nơi [Cây tiệc tùng](../P/Party_Tree.md) từng tọa lạc. Chẳng bao lâu nữa Hobbiton ngôi làng yên bình và xinh đẹp trở lại.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

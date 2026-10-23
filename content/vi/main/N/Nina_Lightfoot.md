@@ -53,7 +53,7 @@ Nina là vợ của [Theobald Bolger](../T/Theobald_Bolger.md) và là mẹ củ
 
 ## Từ nguyên {#Etymology}
 
-Cái tên *Nina* không có ý nghĩa gì trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md)đương thời. Nó đại diện cho tên gốc *Nino* hoặc *Nine*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Cái tên *Nina* không có ý nghĩa gì trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md) đương thời. Nó đại diện cho tên gốc *Nino* hoặc *Nine*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

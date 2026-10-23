@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Galadriel](../../main/G/Galadriel.md) ném các bức tường của [Dol Guldur](../../main/D/Dol_Guldur.md)xuống. Ảnh chụp màn hình từ *[EA's The Battle for Middle-earth II](../../main/E/EA's_The_Battle_for_Middle-earth_II.md)*.
+[Galadriel](../../main/G/Galadriel.md) ném các bức tường của [Dol Guldur](../../main/D/Dol_Guldur.md) xuống. Ảnh chụp màn hình từ *[EA's The Battle for Middle-earth II](../../main/E/EA's_The_Battle_for_Middle-earth_II.md)*.
 
 ## Giấy phép {#Licensing}
 

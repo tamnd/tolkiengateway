@@ -77,7 +77,7 @@ Ngọn núi ở cực nam là [Methedras](Methedras.md), Sindarin có nghĩa là
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_The_Pass_of_Caradhras.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/de/Alan_Lee_-_The_Pass_of_Caradhras.jpg/250px-Alan_Lee_-_The_Pass_of_Caradhras.jpg" decoding="async" loading="lazy" width="250" height="402" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/de/Alan_Lee_-_The_Pass_of_Caradhras.jpg/375px-Alan_Lee_-_The_Pass_of_Caradhras.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/de/Alan_Lee_-_The_Pass_of_Caradhras.jpg/500px-Alan_Lee_-_The_Pass_of_Caradhras.jpg 2x" data-file-width="602" data-file-height="969"/></a><figcaption><i>The Pass of Caradhras</i> by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
 
-Các đường chuyền quan trọng nhất là [Đèo Cao](../H/High_Pass.md) và [Đèo Redhorn](../R/Redhorn_Pass.md). Cái trước được [Bilbo Baggins](../B/Bilbo_Baggins.md) sử dụng trên đường tới [Erebor](../E/Erebor.md), và cái sau được [Frodo](../F/Frodo.md)sử dụng trong nỗ lực vượt qua những ngọn núi. Ngoài ra còn có một con đèo ở đầu nguồn [Sông Gladden](../G/Gladden_River.md).<sup id="cite_ref-south_7-1" class="reference"><a href="#cite_note-south-7">[5]</a></sup>
+Các đường chuyền quan trọng nhất là [Đèo Cao](../H/High_Pass.md) và [Đèo Redhorn](../R/Redhorn_Pass.md). Cái trước được [Bilbo Baggins](../B/Bilbo_Baggins.md) sử dụng trên đường tới [Erebor](../E/Erebor.md), và cái sau được [Frodo](../F/Frodo.md) sử dụng trong nỗ lực vượt qua những ngọn núi. Ngoài ra còn có một con đèo ở đầu nguồn [Sông Gladden](../G/Gladden_River.md).<sup id="cite_ref-south_7-1" class="reference"><a href="#cite_note-south-7">[5]</a></sup>
 
 ### Sông {#Rivers}
 
@@ -126,7 +126,7 @@ Vào khoảng [1050](../T/Third_Age_1050.md), [Harfoots](../H/Harfoots.md) di c�
 
 Khi Người Lùn mạnh, các ngọn núi nhìn chung không có Orc, nhưng khi [Bóng Tối](../S/Shadow.md) mạnh, Orc sinh sôi ở Mount Gundabad, trong [Thị trấn yêu tinh](../G/Goblin-town.md), sau đó là chính Moria và mọi nơi ở giữa. Trong [T.A.](../T/Third_Age.md) [1300](../T/Third_Age_1300.md) [Orc của Dãy Núi Sương Mù](../O/Orcs_of_the_Misty_Mountains.md) bắt đầu gia tăng và quấy rối [Người Lùn](../D/Dwarves.md).<sup id="cite_ref-b2_10-0" class="reference"><a href="#cite_note-b2-10">[8]</a></sup>
 
-Sự thức tỉnh của [Tai họa của Durin](../D/Durin's_Bane.md) đã đẩy Người Lùn ra khỏi thành phố của họ. Có vẻ như một số Người Lùn, trước hoặc sau [Cuộc chiến giữa Người lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md), cư trú ở sườn phía đông của ngọn núi gần thị trấn Goblin.
+Sự thức tỉnh của [Tai Họa của Durin](../D/Durin's_Bane.md) đã đẩy Người Lùn ra khỏi thành phố của họ. Có vẻ như một số Người Lùn, trước hoặc sau [Cuộc chiến giữa Người Lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md), cư trú ở sườn phía đông của ngọn núi gần thị trấn Goblin.
 
 Trong [T.A.](../T/Third_Age.md) [2480](../T/Third_Age_2480.md) Orc bắt đầu thiết lập các thành trì bí mật trong Dãy Núi chặn tất cả các đường đi đến [Eriador](../E/Eriador.md) từ [Rhovanion](../R/Rhovanion.md), trong khi Sauron sinh sống Moria với các sinh vật của mình.<sup id="cite_ref-b2_10-1" class="reference"><a href="#cite_note-b2-10">[8]</a></sup>
 
@@ -138,7 +138,7 @@ Gần lối ra phía đông của thị trấn Goblin, Đại Bàng bố trí [e
 
 Có vẻ như người của Beorn đã quay lại Dãy Núi. Sau khi Orc bị tiêu diệt, [Beornings](../B/Beornings.md) tiếp tục mở các lối đi của [Ford của Carrock](../F/Ford_of_Carrock.md) và [Đèo Cao](../H/High_Pass.md) để đổi lấy phí cầu đường.<sup id="cite_ref-council_11-1" class="reference"><a href="#cite_note-council-11">[9]</a></sup>
 
-[Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) phải đối mặt với thử thách vượt qua Dãy Núi. Họ quyết định tránh Đèo Cao hoặc Gap of Rohan vì mối đe dọa từ các cuộc tuần tra của Orc và lực lượng của Saruman. Họ cố gắng vượt qua Đèo Redhorn nhưng một trận bão tuyết mạnh đã chặn đường, buộc họ phải hành trình qua Moria. Ở đó [Gandalf](../G/Gandalf.md) bị lạc khi cố gắng ngăn chặn Tai họa của Durin, và sau khi rơi xuống vực thẳm, anh ta đuổi theo đến Người lùn [Cầu thang vô tận](../E/Endless_Stair.md) và [chiến đấu trên đỉnh](../B/Battle_of_the_Peak.md) Silvertine.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[11]</a></sup>
+[Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) phải đối mặt với thử thách vượt qua Dãy Núi. Họ quyết định tránh Đèo Cao hoặc Gap of Rohan vì mối đe dọa từ các cuộc tuần tra của Orc và lực lượng của Saruman. Họ cố gắng vượt qua Đèo Redhorn nhưng một trận bão tuyết mạnh đã chặn đường, buộc họ phải hành trình qua Moria. Ở đó [Gandalf](../G/Gandalf.md) bị lạc khi cố gắng ngăn chặn Tai Họa của Durin, và sau khi rơi xuống vực thẳm, anh ta đuổi theo đến Người lùn [Cầu thang vô tận](../E/Endless_Stair.md) và [chiến đấu trên đỉnh](../B/Battle_of_the_Peak.md) Silvertine.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[11]</a></sup>
 
 Người ta nói rằng vào [Kỷ Đệ Tứ](../F/Fourth_Age.md) [Durin VII](../D/Durin_VII.md) đã dẫn dắt Người Lùn quay trở lại Moria.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[12]</a></sup>
 

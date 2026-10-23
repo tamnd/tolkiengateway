@@ -25,7 +25,7 @@ images:
 - <i><b><a href="Beowulf%253A_The_Monsters_and_the_Critics.md" title="Beowulf: The Monsters and the Critics">Beowulf: Quái vật và những nhà phê bình</a></b></i>, bài giảng trong [1936](../_/1936.md), tập sách xuất bản trong [1937](../_/1937.md).
     - In lại vào *[The Monsters and the Critics, and Other Essays](../T/The_Monsters_and_the_Critics,_and_Other_Essays.md)* (1983).
 
-- <i><b><a href="Beowulf_and_the_Critics.md" title="Beowulf and the Critics">Beowulf và Nhà phê bình</a></b></i>, do [Michael D.C. Drout](../M/Michael_D.C._Drout.md)biên tập, xuất bản trên [2002](../_/2002.md).
+- <i><b><a href="Beowulf_and_the_Critics.md" title="Beowulf and the Critics">Beowulf và Nhà phê bình</a></b></i>, do [Michael D.C. Drout](../M/Michael_D.C._Drout.md) biên tập, xuất bản trên [2002](../_/2002.md).
 
 - <i><b><a href="Beowulf%253A_A_Translation_and_Commentary.md" title="Beowulf: A Translation and Commentary">Beowulf: A Translation and Commentary</a></b></i>, được biên tập bởi [Christopher Tolkien](../C/Christopher_Tolkien.md), xuất bản trong [2014](../_/2014.md).
 

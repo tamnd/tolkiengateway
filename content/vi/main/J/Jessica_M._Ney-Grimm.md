@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Ney-Grimm, Jessica M."
 ---
 
-**Jessica M. Ney-Grimm** là tác giả và biên tập viên trò chơi nhập vai người Mỹ. Trong những năm 1980 và 1990, bà đã làm việc nhiều với các dòng sản phẩm của [ICE](../I/Iron_Crown_Enterprises.md)liên quan đến huyền thoại của [J.R.R. Tolkien](J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Jessica M. Ney-Grimm** là tác giả và biên tập viên trò chơi nhập vai người Mỹ. Trong những năm 1980 và 1990, bà đã làm việc nhiều với các dòng sản phẩm của [ICE](../I/Iron_Crown_Enterprises.md) liên quan đến huyền thoại của [J.R.R. Tolkien](J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục {#Bibliography}
 

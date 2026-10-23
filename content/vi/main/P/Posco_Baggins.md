@@ -50,7 +50,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Posco là con trai của [Polo Baggins](Polo_Baggins.md) và là anh họ của [Bilbo Baggins](../B/Bilbo_Baggins.md). Ông kết hôn với [Gilly Brownlock](../G/Gilly_Brownlock.md) và họ có với nhau một số người con: [Ponto](Ponto_Baggins_II.md), [Porto](Porto_Baggins.md), [Peony](Peony_Baggins.md). Trong khi gia đình và con cháu của ông theo học tại trường [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md) của anh họ ông ở [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md)thì ông lại không.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
+Posco là con trai của [Polo Baggins](Polo_Baggins.md) và là anh họ của [Bilbo Baggins](../B/Bilbo_Baggins.md). Ông kết hôn với [Gilly Brownlock](../G/Gilly_Brownlock.md) và họ có với nhau một số người con: [Ponto](Ponto_Baggins_II.md), [Porto](Porto_Baggins.md), [Peony](Peony_Baggins.md). Trong khi gia đình và con cháu của ông theo học tại trường [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md) của anh họ ông ở [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md) thì ông lại không.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
 
 ## Ghi chú {#Notes}
 

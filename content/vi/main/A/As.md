@@ -20,7 +20,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Có lẽ từ [gốc](../S/Sundocarme.md) [AS](AS~30515.md)và có lẽ liên quan đến *[ar](Ar.md)* "và".
+Có lẽ từ [gốc](../S/Sundocarme.md) [AS](AS~30515.md) và có lẽ liên quan đến *[ar](Ar.md)* "và".
 
 ## Ví dụ {#Examples}
 

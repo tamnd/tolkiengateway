@@ -57,7 +57,7 @@ Bergil sinh vào khoảng [T.A.](../T/Third_Age.md) [3009](../T/Third_Age_3009.m
 
 Một cậu bé thời [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), cậu đã đi cùng [Pippin Took](../P/Peregrin_Took.md) khi lần đầu tiên cậu đến thành phố [Minas Tirith](../M/Minas_Tirith.md). Anh ta dẫn Pippin đến [Đại cổng Minas Tirith](../G/Great_Gate_of_Minas_Tirith.md) để xem những người từ các tỉnh khác nhau của Gondor đang đến [Pelennor](../P/Pelennor.md) để tiếp viện cho thành phố trước [cuộc bao vây](../S/Siege_of_Gondor.md) sắp xảy ra.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Bergil đã phục vụ [Nhà chữa lành](../H/Houses_of_Healing.md) trong [Trận chiến trên Cánh đồng Pelennor](Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Anh ấy đã tìm thấy *athelas* cho [Aragorn](../A/Aragorn.md), được sử dụng để chữa lành [Faramir](../F/Faramir.md), [Éowyn](../_/Éowyn.md)và [Meriadoc](../M/Meriadoc_Brandybuck.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Bergil đã phục vụ [Nhà chữa lành](../H/Houses_of_Healing.md) trong [Trận chiến trên Cánh đồng Pelennor](Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Anh ấy đã tìm thấy *athelas* cho [Aragorn](../A/Aragorn.md), được sử dụng để chữa lành [Faramir](../F/Faramir.md), [Éowyn](../_/Éowyn.md) và [Meriadoc](../M/Meriadoc_Brandybuck.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -87,7 +87,7 @@ Bergil đã phục vụ [Nhà chữa lành](../H/Houses_of_Healing.md) trong [Tr
 
 <dl><dd>The voice of Bergil is provided by Viktor Petrov.</dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Bergil is first found is pre-battle <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>, where he and his friends take the player on a series of adventures throughout the city. After the <a class="mw-redirect" href="Battle_of_Pelennor_Fields.md" title="Battle of Pelennor Fields">Battle of Pelennor Fields</a>, he and the player are help <a href="../I/Ioreth.md" title="Ioreth">Ioreth</a> in finding <i><a href="../A/Athelas.md" title="Athelas">athelas</a></i>.</dd></dl>
 

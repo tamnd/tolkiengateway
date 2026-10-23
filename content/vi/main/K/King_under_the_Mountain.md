@@ -19,14 +19,14 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_The_King_under_the_Mountain.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3c/Alan_Lee_-_The_King_under_the_Mountain.jpg/200px-Alan_Lee_-_The_King_under_the_Mountain.jpg" decoding="async" loading="lazy" width="200" height="283" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3c/Alan_Lee_-_The_King_under_the_Mountain.jpg/300px-Alan_Lee_-_The_King_under_the_Mountain.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3c/Alan_Lee_-_The_King_under_the_Mountain.jpg/400px-Alan_Lee_-_The_King_under_the_Mountain.jpg 2x" data-file-width="848" data-file-height="1200"/></a><figcaption><i>The King under the Mountain</i> by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
 
-**Vua Dưới Núi** là danh hiệu được lấy bởi [Thráin I](../T/Thráin_I.md), người sáng lập vương quốc Người lùn [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md)và được duy trì bởi các vị Vua của [Dân tộc Durin](../D/Durin's_Folk~15256.md) sống ở đó. Đường dây đã bị phá vỡ hai lần, một lần bởi [Thorin I](../T/Thorin_I.md) (ông và bốn thế hệ con cháu của ông cai trị từ [Dãy Núi Xám](../G/Grey_Mountains.md), không phải Ngọn Núi Cô Đơn), và một lần bởi [Rồng](../D/Dragons.md) [Smaug](../S/Smaug.md) (người đã tự nhận tước hiệu cho mình). Trong cả hai trường hợp, dòng dõi đã được khôi phục cho người thừa kế hợp pháp.
+**Vua Dưới Núi** là danh hiệu được lấy bởi [Thráin I](../T/Thráin_I.md), người sáng lập vương quốc Người lùn [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md) và được duy trì bởi các vị Vua của [Dân tộc Durin](../D/Durin's_Folk~15256.md) sống ở đó. Đường dây đã bị phá vỡ hai lần, một lần bởi [Thorin I](../T/Thorin_I.md) (ông và bốn thế hệ con cháu của ông cai trị từ [Dãy Núi Xám](../G/Grey_Mountains.md), không phải Ngọn Núi Cô Đơn), và một lần bởi [Rồng](../D/Dragons.md) [Smaug](../S/Smaug.md) (người đã tự nhận tước hiệu cho mình). Trong cả hai trường hợp, dòng dõi đã được khôi phục cho người thừa kế hợp pháp.
 
 ## Dòng vua dưới núi {#The_Line_of_Kings_under_the_Mountain}
 
 1. [Thráin I](../T/Thráin_I.md)
 2. [Thorin I](../T/Thorin_I.md) – từ bỏ Vương quốc vì [Dãy Núi Xám](../G/Grey_Mountains.md)
 3. [Thrór](../T/Thrór.md) – khôi phục Vương quốc nhưng để mất nó vào tay [Smaug](../S/Smaug.md)
-4. [Smaug](../S/Smaug.md) - tuyên bố danh hiệu và vương quốc sau [cuộc cướp phá Erebor](../S/Sack_of_Erebor.md)
+4. [Smaug](../S/Smaug.md) - tuyên bố danh hiệu và vương quốc sau [Cuộc cướp phá Erebor](../S/Sack_of_Erebor.md)
 5. [Thorin II Oakenshield](../T/Thorin.md) – giành lại Vương quốc
 6. [Dáin II Ironfoot](../D/Dáin_Ironfoot.md) - trị vì sau cái chết của Thorin vào [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md)
 7. [Thorin III Stonehelm](../T/Thorin_Stonehelm.md)

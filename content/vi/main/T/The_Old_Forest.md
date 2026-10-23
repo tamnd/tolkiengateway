@@ -47,7 +47,7 @@ infobox:
 
 ** Khu Rừng Cổ** là chương thứ sáu của cuốn sách đầu tiên trong *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)*. Các nhân vật chính là [Frodo Baggins](../F/Frodo_Baggins.md), [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md), [Peregrin Took](../P/Peregrin_Took.md) và [Samwise Gamgee](../S/Samwise_Gamgee.md). [Tom Bombadil](Tom_Bombadil.md) được giới thiệu.
 
-Chương này kể về cuộc phiêu lưu của [Hobbit](../H/Hobbits.md) vào [Khu Rừng Cổ](../O/Old_Forest.md) nhằm trốn tránh [Kỵ sĩ Đen](../B/Black_Riders.md). Họ gần như bị giết bởi [Ông già liễu](../O/Old_Man_Willow.md)giận dữ, nhưng được cứu vào giây phút cuối cùng bởi Tom Bombadil, người đã mời họ đến nhà anh ta ở bìa rừng.
+Chương này kể về cuộc phiêu lưu của [Hobbit](../H/Hobbits.md) vào [Khu Rừng Cổ](../O/Old_Forest.md) nhằm trốn tránh [Kỵ sĩ Đen](../B/Black_Riders.md). Họ gần như bị giết bởi [Ông già Liễu](../O/Old_Man_Willow.md) giận dữ, nhưng được cứu vào giây phút cuối cùng bởi Tom Bombadil, người đã mời họ đến nhà ông ta ở bìa rừng.
 
 Chương này nêu bật sức mạnh và sự khó đoán của thiên nhiên, đại diện cho những mối nguy hiểm nằm ngoài [The Shire](The_Shire.md) và nhận thức ngày càng tăng của Hobbit về thế giới đầy nguy hiểm mà họ đang dấn thân vào.
 
@@ -87,7 +87,7 @@ Cả nhóm cố gắng đi về phía bắc tới Đường phương Đông, nh�
 
 Merry trinh sát phía trước, phát hiện một con đường khác ở bên kia sông, dẫn xa hơn về phía đông. Pippin bắt đầu nghi ngờ, buộc tội Rừng đang cố gắng dẫn họ vào ngõ cụt và mắc kẹt ở đó. Tuy nhiên, Hobbit vẫn tiến về phía đông dọc theo con sông.
 
-### Gặp phải Ông già liễu {#Encounter_with_Old_Man_Willow}
+### Gặp Lão Liễu {#Encounter_with_Old_Man_Willow}
 
 Chẳng bao lâu sau, Hobbit bắt đầu cảm thấy rất buồn ngủ. Bất chấp sự khuyến khích của Frodo để tiếp tục, Merry vẫn nhất quyết muốn nghỉ ngơi dưới bóng cây liễu lớn. Anh và Pippin nằm giữa những rễ cây liễu lớn, dường như được thiết kế để họ cảm thấy thoải mái. Frodo ngước nhìn cây liễu; già nua và xương xẩu nhưng lại êm dịu một cách bất thường. Anh quyết định ngồi lên một trong những rễ cây lớn ven sông và chèo chân trong Withywindle để chống lại cơn buồn ngủ. Khi làm vậy, anh nghe thấy cái cây khẽ hát về nước và giấc ngủ. Frodo rồi cũng ngủ thiếp đi.
 
@@ -117,9 +117,9 @@ Khi Sam dập lửa, Frodo bất ngờ nghe theo sự thôi thúc chạy lên l�
 <p class="tg-quote-footer"><cite><a href="Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a>&#39;s Song, first verse</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Frodo và Sam đứng ngây ngất khi [bài hát tiếp tục](../H/Hey_dol!_merry_dol!_ring_a_dong_dillo!.md), nhanh chóng tiến đến gần họ. Cuối cùng, một bóng người kỳ lạ xuất hiện trên đường đi: một người đàn ông thấp, có râu, mặc quần áo sặc sỡ và đội mũ lông vũ, mang vài bông hoa súng trắng trên đỉnh một chiếc lá lớn. Frodo cầu xin sự giúp đỡ của người đàn ông. Người đàn ông tự giới thiệu mình là Tom Bombadil, nói bằng những câu thơ có chừng mực, gần như có vần điệu khi nói chuyện. Anh ta gọi cây liễu Ông già liễu và đảm bảo với Hobbit rằng anh ta biết cách đối phó với nó.
+Frodo và Sam đứng ngây ngất khi [bài hát tiếp tục](../H/Hey_dol!_merry_dol!_ring_a_dong_dillo!.md), nhanh chóng tiến đến gần họ. Cuối cùng, một bóng người kỳ lạ xuất hiện trên đường đi: một người đàn ông thấp, có râu, mặc quần áo sặc sỡ và đội mũ lông vũ, mang vài bông hoa súng trắng trên đỉnh một chiếc lá lớn. Frodo cầu xin sự giúp đỡ của người đàn ông. Người đàn ông tự giới thiệu mình là Tom Bombadil, nói bằng những câu thơ có chừng mực, gần như có vần điệu khi nói chuyện. Anh ta gọi cây liễu là Lão Liễu, và đảm bảo với Hobbit rằng anh ta biết cách đối phó với nó.
 
-Tom cẩn thận đặt những bông hoa súng của mình xuống và bắt đầu hát khe khẽ trong những nếp gấp của thân cây. Sau đó, ông bẻ một cành và đánh vào cây, ra lệnh cho cây “ăn, đào, uống và ngủ”. Anh ta rút Merry ra khỏi rễ, sau đó nghe thấy một tiếng rắc lớn, sau đó là Pippin bị nhổ ra khỏi thân cây Ông già liễu. Những nếp cây khép lại, khu rừng dường như lại chìm vào im lặng.
+Tom cẩn thận đặt những bông hoa súng của mình xuống và bắt đầu hát khe khẽ trong những nếp gấp của thân cây. Sau đó, ông bẻ một cành và đánh vào cây, ra lệnh cho cây “ăn, đào, uống và ngủ”. Anh ta rút Merry ra khỏi rễ, sau đó nghe thấy một tiếng rắc lớn, sau đó là Pippin bị nhổ ra khỏi thân cây của Lão Liễu. Những nếp cây khép lại, khu rừng dường như lại chìm vào im lặng.
 
 Những người Hobbit cảm ơn Tom, người đã ngay lập tức mời họ đến nhà anh ấy. Họ làm theo gần như không suy nghĩ. Tom nhanh chóng biến mất trước họ, tiếp tục bài hát của mình để họ có thể theo dõi. Bài hát cuối cùng đã dừng lại, nhưng Hobbit vẫn tiếp tục đi tiếp. Màn đêm buông xuống nhanh chóng và Khu rừng bắt đầu trở nên hung ác hơn bao giờ hết.
 

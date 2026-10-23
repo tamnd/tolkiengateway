@@ -23,7 +23,7 @@ Verna không xuất hiện trong lời tường thuật hoặc bất kỳ bản 
 
 ## Từ nguyên {#Etymology}
 
-Verna có thể liên quan đến [Quenya](../Q/Quenya.md) *[feren](../F/Feren.md)* có nghĩa là "bạch dương, cây sồi", và nếu vậy, nó có thể ám chỉ khu rừng Nimbrethil ("(rừng) bạch dương bạc").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Một khả năng khác là nó ám chỉ một con sông, rõ ràng là [Sirion](../S/Sirion.md)và xuất phát từ [Gốc](../S/Sundocarmë.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=WER&amp;action=edit&amp;redlink=1" title="WER (page does not exist)">WER</a></i>, "quanh co" (do đó, "Dòng sông uốn lượn").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+Verna có thể liên quan đến [Quenya](../Q/Quenya.md) *[feren](../F/Feren.md)* có nghĩa là "bạch dương, cây sồi", và nếu vậy, nó có thể ám chỉ khu rừng Nimbrethil ("(rừng) bạch dương bạc").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Một khả năng khác là nó ám chỉ một con sông, rõ ràng là [Sirion](../S/Sirion.md) và xuất phát từ [Gốc](../S/Sundocarmë.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=WER&amp;action=edit&amp;redlink=1" title="WER (page does not exist)">WER</a></i>, "quanh co" (do đó, "Dòng sông uốn lượn").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

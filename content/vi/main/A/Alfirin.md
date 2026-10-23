@@ -34,7 +34,7 @@ langlinks:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong nhận xét của mình trong *[Unfinished Tales](../U/Unfinished_Tales.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) chỉ ra rằng mô tả của [Legolas](../L/Legolas.md)về "chuông vàng ... của *mallos* và *alfirin*", không hoàn toàn hài hòa với các mô tả khác và ông gợi ý rằng cách sử dụng tên cụ thể này có thể ám chỉ đến một loài hoa khác hoàn toàn.<sup id="cite_ref-Note38_1-1" class="reference"><a href="#cite_note-Note38-1">[1]</a></sup> <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup> Ngoài ra, những bông hoa vàng của [Lebennin](../L/Lebennin.md) có thể chỉ đơn giản là một biến thể có màu khác của *alfirin* màu trắng thường thấy trên Mộ của Con Người.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 2]</a></sup>
+Trong nhận xét của mình trong *[Unfinished Tales](../U/Unfinished_Tales.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) chỉ ra rằng mô tả của [Legolas](../L/Legolas.md) về "chuông vàng ... của *mallos* và *alfirin*", không hoàn toàn hài hòa với các mô tả khác và ông gợi ý rằng cách sử dụng tên cụ thể này có thể ám chỉ đến một loài hoa khác hoàn toàn.<sup id="cite_ref-Note38_1-1" class="reference"><a href="#cite_note-Note38-1">[1]</a></sup> <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup> Ngoài ra, những bông hoa vàng của [Lebennin](../L/Lebennin.md) có thể chỉ đơn giản là một biến thể có màu khác của *alfirin* màu trắng thường thấy trên Mộ của Con Người.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 2]</a></sup>
 
 ## Xem thêm {#See_also}
 

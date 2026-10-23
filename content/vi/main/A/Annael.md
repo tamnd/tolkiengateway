@@ -51,7 +51,7 @@ infobox:
 
 Annael là thủ lĩnh của một nhóm nhỏ Yêu tinh xám tại Mithrim, có [thiên nga](../S/Swan.md) làm [mã thông báo](../H/Heraldry.md) của mình.<sup id="cite_ref-Tuor_1-0" class="reference"><a href="#cite_note-Tuor-1">[1]</a></sup>
 
-Sindar của [Hithlum](../H/Hithlum.md) đã gia nhập [Liên minh Maedhros](../U/Union_of_Maedhros.md), nhưng sau [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md)thảm khốc, Annael là Sinda duy nhất quay trở lại.
+Sindar của [Hithlum](../H/Hithlum.md) đã gia nhập [Liên minh Maedhros](../U/Union_of_Maedhros.md), nhưng sau [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md) thảm khốc, Annael là Sinda duy nhất quay trở lại.
 
 Trong khi [Rían](../R/Rían.md) được các Grey-Elves đón tiếp tại [Hồ Mithrim](../L/Lake_Mithrim.md) trong thời gian cô sinh con trai [Tuor](../T/Tuor.md), cô đã yêu cầu họ nuôi dưỡng cậu bé vì cô muốn tham gia tìm kiếm chồng mình [Huor](../H/Huor.md). Annael giải thích cho cô ấy biết Huor đã chết như thế nào và cô ấy đã bỏ đi để chết tại [Hill of the Slain](../H/Hill_of_the_Slain.md).<sup id="cite_ref-Tuor_1-1" class="reference"><a href="#cite_note-Tuor-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Do đó, Annael đã trở thành cha nuôi của Tuor trong những năm đầu đời của cậu ấy.<sup id="cite_ref-Quenta_3-0" class="reference"><a href="#cite_note-Quenta-3">[3]</a></sup>
 

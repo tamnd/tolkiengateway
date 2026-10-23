@@ -42,7 +42,7 @@ infobox:
 
 ## Từ Nhà xuất bản {#From_the_Publisher}
 
-*[THE HOBBIT](../T/The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)là một câu chuyện sử thi về cuộc phiêu lưu kỳ diệu đã làm say mê trẻ em và người lớn trong hơn sáu mươi năm. Thành công của nó đến từ sự kết hợp giữa cách kể chuyện hoàn hảo và cách viết đầy mê hoặc, bao gồm cả mười hai bài thơ thú vị này. Cuốn sách thu nhỏ này, được minh họa bằng ba mươi bức tranh và hình vẽ của chính Tolkien, chứa tất cả các bài thơ, cùng với tám câu đố nổi tiếng của [Gollum](../G/Gollum.md)và sẽ là một kỷ niệm hoàn hảo cho những người yêu thích THE HOBBIT và [Trung Địa](../M/Middle-earth.md)của Tolkien.
+*[THE HOBBIT](../T/The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) là một câu chuyện sử thi về cuộc phiêu lưu kỳ diệu đã làm say mê trẻ em và người lớn trong hơn sáu mươi năm. Thành công của nó đến từ sự kết hợp giữa cách kể chuyện hoàn hảo và cách viết đầy mê hoặc, bao gồm cả mười hai bài thơ thú vị này. Cuốn sách thu nhỏ này, được minh họa bằng ba mươi bức tranh và hình vẽ của chính Tolkien, chứa tất cả các bài thơ, cùng với tám câu đố nổi tiếng của [Gollum](../G/Gollum.md) và sẽ là một kỷ niệm hoàn hảo cho những người yêu thích THE HOBBIT và [Trung Địa](../M/Middle-earth.md) của Tolkien.
 
 ## Xem thêm {#See_also}
 

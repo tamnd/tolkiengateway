@@ -19,17 +19,17 @@ images:
 
 **Entwade** là một khúc cạn và con đường vượt qua Sông [Entwash](Entwash.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> cách [Edoras](Edoras.md) khoảng 55 dặm về phía đông bắc ở [Rohan](../R/Rohan.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>.
 
-Trong hành trình về phía bắc tới [ Shire](../T/The_Shire.md) để tìm kiếm [Baggins](../B/Baggins_Family~66343.md), [Nazgûl](../N/Nazgûl.md) bí mật và vô hình, đã đi bộ qua phía tây qua [Anórien](../A/Anórien.md)và băng qua Entwade<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> trước khi rẽ về hướng đông một lần nữa để quay trở lại bờ của [Anduin](../A/Anduin.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
+Trong hành trình về phía bắc tới [ Shire](../T/The_Shire.md) để tìm kiếm [Baggins](../B/Baggins_Family~66343.md), [Nazgûl](../N/Nazgûl.md) bí mật và vô hình, đã đi bộ qua phía tây qua [Anórien](../A/Anórien.md) và băng qua Entwade<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> trước khi rẽ về hướng đông một lần nữa để quay trở lại bờ của [Anduin](../A/Anduin.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
 
-Sau khi [Éomer](../_/Éomer.md) và các tay đua của anh ta tấn công nhóm [Orc](../O/Orcs.md)bên ngoài Fangorn,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> anh ta đang dẫn đầu các Kỵ sĩ của mình tới khúc cạn này thì gặp [Aragorn](../A/Aragorn.md) và những người bạn đồng hành của anh ta trong [Eastemnet](Eastemnet.md). Anh ta cho [Ba Thợ Săn](../T/Three_Hunters.md)mượn ngựa [Hasufel](../H/Hasufel.md) và [Arod](../A/Arod.md) và yêu cầu họ sẽ đi theo anh ta vào lúc nào đó băng qua Entwade đến Edoras.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[note 2]</a></sup>
+Sau khi [Éomer](../_/Éomer.md) và các tay đua của anh ta tấn công nhóm [Orc](../O/Orcs.md) bên ngoài Fangorn,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> anh ta đang dẫn đầu các Kỵ sĩ của mình tới khúc cạn này thì gặp [Aragorn](../A/Aragorn.md) và những người bạn đồng hành của anh ta trong [Eastemnet](Eastemnet.md). Anh ta cho [Ba Thợ Săn](../T/Three_Hunters.md) mượn ngựa [Hasufel](../H/Hasufel.md) và [Arod](../A/Arod.md) và yêu cầu họ sẽ đi theo anh ta vào lúc nào đó băng qua Entwade đến Edoras.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[note 2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Entwade là sự hiện đại hóa của [tiếng Anh cổ](../O/Old_English.md) *Entwaed*. Phần tử thứ hai *waed* có nghĩa là "ford". Tên này đã được hiện đại hóa vì người nói [Westron](../W/Westron.md)có thể nhận ra nó. [người Gondor](../G/Gondorians.md) đã sử dụng tên đó, đồng hóa với ngôn ngữ của họ.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[6]</a></sup>
+Entwade là sự hiện đại hóa của [tiếng Anh cổ](../O/Old_English.md) *Entwaed*. Phần tử thứ hai *waed* có nghĩa là "ford". Tên này đã được hiện đại hóa vì người nói [Westron](../W/Westron.md) có thể nhận ra nó. [người Gondor](../G/Gondorians.md) đã sử dụng tên đó, đồng hóa với ngôn ngữ của họ.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[6]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Despite the Entwash being the shallowest in this spot, the Entwade crossing is only made possible by the wooded raft-bridges that connect both banks to a small island in the middle. The crossing itself is guarded by the town also called Entwade on the western bank, and only those granted leave are allowed to cross.</dd></dl>
 

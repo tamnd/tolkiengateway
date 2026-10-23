@@ -38,7 +38,7 @@ images:
 <li><b><a class="mw-selflink selflink">Canto XIV</a></b></li></ol>
 </td></tr></tbody></table>
 
-Canto XIV là [Canto](../C/Cantos_of_the_Lay_of_Leithian.md) cuối cùng, chưa hoàn thành của *[Lay of Leithian](Lay_of_Leithian.md)*. Nó bắt đầu với việc [Beren](../B/Beren.md) và [Lúthien](Lúthien.md) chạy trốn cùng với [Silmaril](../S/Silmarils.md) thông qua [Angband](../A/Angband.md)trong giấc ngủ. Nhưng đến cổng [Carcharoth](../C/Carcharoth.md) đã tỉnh dậy sau cơn mê. Anh ta lao vào chúng trước khi Lúthien kịp tạo ra một câu thần chú khác, và Beren đứng trước mặt người mình yêu, dùng tay trái tóm lấy cổ họng con sói và dùng tay phải đâm Silmaril vào mắt con sói. Những chiếc răng nanh của Carcahroth "đập vào nhau như một cái bẫy" và cướp đi bàn tay của Beren, Silmaril các thứ. Ở đó Lay kết thúc, dang dở.
+Canto XIV là [Canto](../C/Cantos_of_the_Lay_of_Leithian.md) cuối cùng, chưa hoàn thành của *[Lay of Leithian](Lay_of_Leithian.md)*. Nó bắt đầu với việc [Beren](../B/Beren.md) và [Lúthien](Lúthien.md) chạy trốn cùng với [Silmaril](../S/Silmarils.md) thông qua [Angband](../A/Angband.md) trong giấc ngủ. Nhưng đến cổng [Carcharoth](../C/Carcharoth.md) đã tỉnh dậy sau cơn mê. Anh ta lao vào chúng trước khi Lúthien kịp tạo ra một câu thần chú khác, và Beren đứng trước mặt người mình yêu, dùng tay trái tóm lấy cổ họng con sói và dùng tay phải đâm Silmaril vào mắt con sói. Những chiếc răng nanh của Carcahroth "đập vào nhau như một cái bẫy" và cướp đi bàn tay của Beren, Silmaril các thứ. Ở đó Lay kết thúc, dang dở.
 
 ## Xem thêm {#See_also}
 

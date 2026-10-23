@@ -55,7 +55,7 @@ Where is the spring and the harvest and the tall corn growing?<sup id="cite_ref-
 
 Một nhà thơ bị lãng quên của [Rohan](../R/Rohan.md) ban đầu đã viết nó về [Eorl the Young](../E/Eorl_the_Young.md) và con ngựa [Felaróf](../F/Felaróf.md) của ông ấy rất lâu trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-lotr_1-1" class="reference"><a href="#cite_note-lotr-1">[1]</a></sup>
 
-Vào năm [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), [Aragorn](../A/Aragorn.md) đã hát một bài than thở để mô tả đặc điểm của [Rohirrim](../R/Rohirrim.md) khi anh ấy, [Gandalf](../G/Gandalf.md), [Legolas](Legolas.md)và [Gimli](../G/Gimli.md) tiếp cận [Edoras](../E/Edoras.md). Ban đầu anh ấy đã niệm nó trong [Rohanese](../R/Rohanese.md). Sau khi Legolas nhận xét rằng âm thanh của từ này giống với vùng đất của Rohan, Aragorn đã đọc lại bản dịch của nó.<sup id="cite_ref-lotr_1-2" class="reference"><a href="#cite_note-lotr-1">[1]</a></sup>
+Vào năm [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), [Aragorn](../A/Aragorn.md) đã hát một bài than thở để mô tả đặc điểm của [Rohirrim](../R/Rohirrim.md) khi anh ấy, [Gandalf](../G/Gandalf.md), [Legolas](Legolas.md) và [Gimli](../G/Gimli.md) tiếp cận [Edoras](../E/Edoras.md). Ban đầu anh ấy đã niệm nó trong [Rohanese](../R/Rohanese.md). Sau khi Legolas nhận xét rằng âm thanh của từ này giống với vùng đất của Rohan, Aragorn đã đọc lại bản dịch của nó.<sup id="cite_ref-lotr_1-2" class="reference"><a href="#cite_note-lotr-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

@@ -54,7 +54,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Prisca là con thứ hai và con gái của [Polo Baggins](Polo_Baggins.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cô kết hôn với [Wilibald Bolger](../W/Wilibald_Bolger.md) và có một số người con: [Wilimar](../W/Wilimar_Bolger.md), [Heribald](../H/Heribald_Bolger.md) và [Nora](../N/Nora_Bolger.md). Chồng bà đã mất trước [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md)nhưng bà theo học [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md) cùng các con.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Prisca là con thứ hai và con gái của [Polo Baggins](Polo_Baggins.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cô kết hôn với [Wilibald Bolger](../W/Wilibald_Bolger.md) và có một số người con: [Wilimar](../W/Wilimar_Bolger.md), [Heribald](../H/Heribald_Bolger.md) và [Nora](../N/Nora_Bolger.md). Chồng bà đã mất trước [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md) nhưng bà theo học [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md) cùng các con.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

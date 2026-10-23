@@ -73,7 +73,7 @@ Chim và động vật không tiếp cận địa điểm này và chỉ có [Đ
 
 Meneltarma là đỉnh cao nhất của đảo. Nó nằm ở trung tâm hòn đảo, về mặt địa lý thuộc vùng nội địa được gọi là [Mittalmar](Mittalmar.md). Nó cao hơn vùng đồng bằng xung quanh ba nghìn feet (914m).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Nền của Meneltarma có độ dốc thoai thoải và chia thành năm phần rễ vươn ra năm phần đất. Những rễ cây này được gọi là [Tarmasundar](../T/Tarmasundar.md), *Roots of the Pillar*, vùng cao nguyên hiền hòa phủ đầy cỏ. Ở sườn phía nam là lăng mộ của [các vị vua và hoàng hậu Númenor](../K/King_of_Númenor.md), trong một thung lũng tên là [Noirinan](../N/Noirinan.md).
+Nền của Meneltarma có độ dốc thoai thoải và chia thành năm phần rễ vươn về phía năm phần đất. Những rễ cây này được gọi là [Tarmasundar](../T/Tarmasundar.md), *Roots of the Pillar*, vùng cao nguyên hiền hòa phủ đầy cỏ. Ở sườn phía nam là lăng mộ của [các vị vua và hoàng hậu Númenor](../K/King_of_Númenor.md), trong một thung lũng tên là [Noirinan](../N/Noirinan.md).
 
 Tuy nhiên, gần đến đỉnh, các sườn dốc trở nên thẳng đứng hơn và không thể leo lên dễ dàng. Các vị vua sau đó đã xây dựng một con đường xoắn ốc dẫn lên đỉnh núi, bắt đầu từ mũi phía nam của ngọn núi và uốn lượn đến mép đỉnh ở phía bắc.
 
@@ -81,7 +81,7 @@ Tuy nhiên, gần đến đỉnh, các sườn dốc trở nên thẳng đứng 
 
 Meneltarma có đỉnh bằng phẳng và có phần lõm xuống, rộng đến mức có thể chứa được rất đông người trong các nghi lễ tôn giáo. Tuy nhiên, không có công trình kiến ​​trúc cố định nào được dựng lên ở đó và các buổi lễ diễn ra ngoài trời. Người ta kể rằng vào một ngày trời quang đãng, người 'viễn thị' có thể nhìn thấy [Tol Eressëa](../T/Tol_Eressëa.md).
 
-Sau khi Númenor bị phá hủy với ngọn lửa bùng lên từ Meneltarma, một số [Những người lưu vong](../E/Exiles_of_Númenor.md) tin rằng [Hallow of Eru](../H/Hallow_of_Eru.md) trên đỉnh núi vẫn là một hòn đảo ở [Belegaer](../B/Belegaer.md). Một số [Dúnedain](../D/Dúnedain.md) thậm chí còn được cho là đã ra khơi để cố gắng đến hòn đảo này, từ đó truyền thuyết kể rằng người ta có thể thoáng thấy [Aman](../A/Aman.md)không thể tiếp cận được.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sau khi Númenor bị phá hủy với ngọn lửa bùng lên từ Meneltarma, một số [Những người lưu vong](../E/Exiles_of_Númenor.md) tin rằng [Hallow of Eru](../H/Hallow_of_Eru.md) trên đỉnh núi vẫn là một hòn đảo ở [Belegaer](../B/Belegaer.md). Một số [Dúnedain](../D/Dúnedain.md) thậm chí còn được cho là đã ra khơi để cố gắng đến hòn đảo này, từ đó truyền thuyết kể rằng người ta có thể thoáng thấy [Aman](../A/Aman.md) không thể tiếp cận được.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

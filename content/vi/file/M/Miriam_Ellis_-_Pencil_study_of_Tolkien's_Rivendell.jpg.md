@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Nghiên cứu bằng bút chì về [Rivendell](../../main/R/Rivendell.md)của [Tolkien](../../main/J/J.R.R._Tolkien.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
+"Nghiên cứu bằng bút chì về [Rivendell](../../main/R/Rivendell.md) của [Tolkien](../../main/J/J.R.R._Tolkien.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
 
 ## Giấy phép {#Licensing}
 

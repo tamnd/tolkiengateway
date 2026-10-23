@@ -72,7 +72,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Gia đình của Mablung đã sống ở [Ithilien](../I/Ithilien.md) trước khi nơi này bị quân [Sauron](../S/Sauron.md)tràn ngập. Nhờ đó, anh đã được xếp vào một trong những Rangers của Ithilien, những người đột phá đáng tin cậy nhất của [Denethor](../D/Denethor.md).<sup id="cite_ref-Herbs_2-0" class="reference"><a href="#cite_note-Herbs-2">[2]</a></sup>
+Gia đình của Mablung đã sống ở [Ithilien](../I/Ithilien.md) trước khi nơi này bị quân [Sauron](../S/Sauron.md) tràn ngập. Nhờ đó, anh đã được xếp vào một trong những Rangers của Ithilien, những người đột phá đáng tin cậy nhất của [Denethor](../D/Denethor.md).<sup id="cite_ref-Herbs_2-0" class="reference"><a href="#cite_note-Herbs-2">[2]</a></sup>
 
 Cùng với [Damrod](../D/Damrod.md), [Anborn](../A/Anborn.md) và một số người khác, Mablung phục vụ dưới quyền [Thuyền trưởng của Gondor](../C/Captain_of_Gondor.md) [Faramir](../F/Faramir.md), con trai thứ hai của [Quản lý](../S/Steward.md). Họ được cử đi đánh chặn một đội quân [Southrons](../S/Southrons.md) vào tháng 3 [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), và ở đó, họ chạm trán [Frodo Baggins](../F/Frodo_Baggins.md) và [Samwise Gamgee](../S/Samwise_Gamgee.md). Trong khi đứng canh gác [các hobbit](../H/Hobbits.md) cùng với Damrod, anh ấy đã trò chuyện ngắn gọn với họ. Trong lúc đó Faramir tiếp tục phục kích Haradrim.<sup id="cite_ref-Herbs_2-1" class="reference"><a href="#cite_note-Herbs-2">[2]</a></sup>
 

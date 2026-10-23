@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Những [các Con trai của Fëanor](../S/Sons_of_Fëanor.md) còn lại - [Maedhros](../M/Maedhros.md), [Maglor](../M/Maglor.md), [Amrod](../A/Amrod.md)và [Amras](../A/Amras.md) - bắt đầu cảm thấy dằn vặt vì [lời thề không được thực hiện](../O/Oath_of_Fëanor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Những [các Con trai của Fëanor](../S/Sons_of_Fëanor.md) còn lại - [Maedhros](../M/Maedhros.md), [Maglor](../M/Maglor.md), [Amrod](../A/Amrod.md) và [Amras](../A/Amras.md) - bắt đầu cảm thấy dằn vặt vì [lời thề không được thực hiện](../O/Oath_of_Fëanor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

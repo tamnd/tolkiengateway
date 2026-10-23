@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Thorondor](../../main/T/Thorondor.md) Mang xác [Glorfindel](../../main/G/Glorfindel.md)ra khỏi vực thẳm
+[Thorondor](../../main/T/Thorondor.md) Mang xác [Glorfindel](../../main/G/Glorfindel.md) ra khỏi vực thẳm
 
 ## Giấy phép {#Licensing}
 

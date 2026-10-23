@@ -29,7 +29,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Khi [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md)và [Gimli](../G/Gimli.md) đi đến [Hornburg](../H/Hornburg.md) cùng với [Grey Company](../G/Grey_Company.md), Vua [Théoden](../T/Théoden.md) đã cho [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md)mượn Stybba.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Stybba đã mang Merry băng qua những con đèo từ [Hornburg](../H/Hornburg.md) phía đông và phía nam đến [Dunharrow](../D/Dunharrow.md) rồi từ đó đi về phía bắc đến [Edoras](../E/Edoras.md).
+Khi [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) đi đến [Hornburg](../H/Hornburg.md) cùng với [Grey Company](../G/Grey_Company.md), Vua [Théoden](../T/Théoden.md) đã cho [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) mượn Stybba.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Stybba đã mang Merry băng qua những con đèo từ [Hornburg](../H/Hornburg.md) phía đông và phía nam đến [Dunharrow](../D/Dunharrow.md) rồi từ đó đi về phía bắc đến [Edoras](../E/Edoras.md).
 
 Stybba quá chậm chạp trong việc hộ tống đội quân Rohan tập trung băng qua vùng đồng bằng, và Théoden ra lệnh cho Merry ở lại Tòa án cùng với Quý cô [Éowyn](../_/Éowyn.md). Vì vậy, Stybba bị bỏ lại phía sau nhưng Merry đã bí mật hoàn thành cuộc hành trình với một Kỵ sĩ tên là [Dernhelm](../D/Dernhelm.md) (thực tế là Éowyn cải trang).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

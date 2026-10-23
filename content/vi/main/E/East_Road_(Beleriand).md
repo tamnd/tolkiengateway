@@ -17,7 +17,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the road in Beleriand</b>. For the the road in Eriador, see <b><a href="East_Road.md" title="East Road">East Road</a></b>.</div></div>
 
-' **phương Đông Đường** là một con đường phương Đông-Phương Tây kéo dài từ [Núi Taras](../M/Mount_Taras.md) đến [Cầu Esgalduin](../B/Bridge_of_Esgalduin.md), do đó băng qua [Cạnh cạn Brithiach](../F/Ford_of_Brithiach.md), [Dimbar](../D/Dimbar.md), [Nan Dungortheb](../N/Nan_Dungortheb.md)và [Dor Dínen](../D/Dor_Dínen.md). Mặc dù chưa rõ hướng đi cụ thể về phía bắc của [Doriath](../D/Doriath.md) nhưng nó nằm bên ngoài [Vành đai Melian](../G/Girdle_of_Melian.md).
+' **phương Đông Đường** là một con đường phương Đông-Phương Tây kéo dài từ [Núi Taras](../M/Mount_Taras.md) đến [Cầu Esgalduin](../B/Bridge_of_Esgalduin.md), do đó băng qua [Cạnh cạn Brithiach](../F/Ford_of_Brithiach.md), [Dimbar](../D/Dimbar.md), [Nan Dungortheb](../N/Nan_Dungortheb.md) và [Dor Dínen](../D/Dor_Dínen.md). Mặc dù chưa rõ hướng đi cụ thể về phía bắc của [Doriath](../D/Doriath.md) nhưng nó nằm bên ngoài [Vành đai Melian](../G/Girdle_of_Melian.md).
 
 ## Lịch sử {#History}
 

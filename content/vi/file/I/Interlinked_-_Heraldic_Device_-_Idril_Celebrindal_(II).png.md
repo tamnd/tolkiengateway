@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Được vẽ lại sạch sẽ bởi [User:Interlinked](https://tolkiengateway.net/wiki/User:Interlinked) từ [bản vẽ của [Tolkien](../../main/T/Tolkien.md)về một trong các thiết bị của Idril Celebrindal](<../J/J.R.R._Tolkien_-_Idril_Celebrindal_heraldic_device_(II).jpg.md>).
+Được vẽ lại sạch sẽ bởi [User:Interlinked](https://tolkiengateway.net/wiki/User:Interlinked) từ [bản vẽ của [Tolkien](../../main/T/Tolkien.md) về một trong các thiết bị của Idril Celebrindal](<../J/J.R.R._Tolkien_-_Idril_Celebrindal_heraldic_device_(II).jpg.md>).
 
 ## Giấy phép {#Licensing}
 

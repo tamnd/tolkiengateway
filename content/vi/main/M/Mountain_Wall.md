@@ -19,4 +19,4 @@ categories:
 <p class="tg-quote-footer"><cite><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a>, <a href="Many_Meetings.md" title="Many Meetings">Many Meetings</a> - <i><a class="mw-redirect" href="../E/Eärendillinwë.md" title="Eärendillinwë">Eärendillinwë</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Tường Núi** là một thuật ngữ chỉ xuất hiện một lần, trong bài thơ *Eärendillinwë* của [Bilbo Baggins](../B/Bilbo_Baggins.md)được trích dẫn ở trên. Ý nghĩa không hoàn toàn chắc chắn, nhưng nó dường như mô tả [Pelóri](../P/Pelóri.md), [Dãy Núi Phòng thủ](Mountains_of_Defence.md) trải dài dọc theo biên giới phía đông của [Valinor](../V/Valinor.md).
+**Tường Núi** là một thuật ngữ chỉ xuất hiện một lần, trong bài thơ *Eärendillinwë* của [Bilbo Baggins](../B/Bilbo_Baggins.md) được trích dẫn ở trên. Ý nghĩa không hoàn toàn chắc chắn, nhưng nó dường như mô tả [Pelóri](../P/Pelóri.md), [Dãy Núi Phòng thủ](Mountains_of_Defence.md) trải dài dọc theo biên giới phía đông của [Valinor](../V/Valinor.md).

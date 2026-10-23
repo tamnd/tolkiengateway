@@ -50,11 +50,11 @@ infobox:
 
 ### Chiến dịch tốt {#Good_Campaign}
 
-Chiến dịch Tốt bắt đầu ở [Trận chiến Liên minh Cuối cùng](../L/Last_Alliance_of_Elves_and_Men.md) như một giai đoạn huấn luyện và tiếp tục với các bối cảnh dựa trên nền tảng lỏng lẻo từ các bộ phim, chẳng hạn như [Trận chiến Isengard](../B/Battle_of_Isengard.md) với tư cách là một [Ent](../E/Ent.md), [Gandalf](../G/Gandalf.md) chiến đấu [Saruman](../S/Saruman.md) trong [Orthanc](../O/Orthanc.md), chiến đấu với [Balrog](../B/Balrogs.md) trong [Mỏ Moria](../K/Khazad-dûm.md), chiến đấu với [Nazgûl](../N/Nazgûl.md) với tư cách [Faramir](../F/Faramir.md) vừa bảo vệ [Frodo](../F/Frodo_Baggins.md)vừa chiến đấu bên trong [Minas Morgul](../M/Minas_Morgul.md). Ngoài ra còn có một nhiệm vụ có [Gimli](../G/Gimli.md) và nỗ lực của anh ta để lấy lại Moria.
+Chiến dịch Tốt bắt đầu ở [Trận chiến Liên minh Cuối cùng](../L/Last_Alliance_of_Elves_and_Men.md) như một giai đoạn huấn luyện và tiếp tục với bối cảnh dựa trên các bộ phim, chẳng hạn như [Trận chiến Isengard](../B/Battle_of_Isengard.md) với tư cách là một [Ent](../E/Ent.md), [Gandalf](../G/Gandalf.md) chiến đấu [Saruman](../S/Saruman.md) trong [Orthanc](../O/Orthanc.md), chiến đấu với [Balrog](../B/Balrogs.md) trong [Mỏ Moria](../K/Khazad-dûm.md), chiến đấu [Nazgûl](../N/Nazgûl.md) dưới dạng [Faramir](../F/Faramir.md) đồng thời bảo vệ [Frodo](../F/Frodo_Baggins.md) và chiến đấu bên trong [Minas Morgul](../M/Minas_Morgul.md). Ngoài ra còn có một nhiệm vụ có [Gimli](../G/Gimli.md) và nỗ lực của anh ta để lấy lại Moria.
 
 ### Chiến dịch tà ác {#Evil_Campaign}
 
-Chiến dịch Ác ma bắt đầu ngay lập tức trong một vũ trụ thay thế, nơi Nazgûl vừa giết Frodo và ngăn anh ta tiêu diệt [Kẻ Nhẫn](The_One_Ring.md). Người chơi sẽ có cơ hội chiến đấu với tư cách là [Oliphaunts](../O/Oliphaunts.md) tại [Minas Tirith](../M/Minas_Tirith.md), với tư cách [Troll](Trolls.md) tại [Helm's Deep](../H/Helm's_Deep.md), với tư cách là Balrog, với tư cách là Nazgûl chống lại [Aragorn](../A/Aragorn.md) tại [Weathertop](../W/Weathertop.md), chống lại [ Shire](The_Shire.md) và cuối cùng là chính [Sauron](../S/Sauron.md) chống lại [Rivendell](../R/Rivendell.md).
+Chiến dịch Ác ma bắt đầu ngay lập tức trong một vũ trụ thay thế, nơi Nazgûl vừa giết Frodo và ngăn anh ta phá hủy [Chiếc Nhẫn Chúa](The_One_Ring.md). Người chơi sẽ có cơ hội chiến đấu với tư cách là [Oliphaunts](../O/Oliphaunts.md) tại [Minas Tirith](../M/Minas_Tirith.md), với tư cách là [Troll](Trolls.md) tại [Helm's Deep](../H/Helm's_Deep.md), với tư cách là Balrog, với tư cách là Nazgûl chống lại [Aragorn](../A/Aragorn.md) tại [Weathertop](../W/Weathertop.md), chống lại [ Shire](The_Shire.md) và cuối cùng là chính [Sauron](../S/Sauron.md) chống lại [Rivendell](../R/Rivendell.md).
 
 ## Nhân vật có thể chơi được {#Playable_Characters}
 
@@ -248,7 +248,7 @@ Chiến dịch Ác ma bắt đầu ngay lập tức trong một vũ trụ thay t
 
 ## Nhạc phim {#Soundtrack}
 
-Các bài hát của [Howard Shore](../H/Howard_Shore.md)trong phim cũng được đưa vào trò chơi. Các bản nhạc sau được sử dụng với giấy phép:
+Các bản nhạc của [Howard Shore](../H/Howard_Shore.md) trong phim cũng được đưa vào trò chơi. Các bản nhạc sau được sử dụng với giấy phép:
 
 - " Bóng Tối Của Quá Khứ"
 - "Tại Dấu Hiệu The Prancing Pony"
@@ -256,15 +256,15 @@ Các bài hát của [Howard Shore](../H/Howard_Shore.md)trong phim cũng đư�
 - "Con dao trong bóng tối"
 - "Cầu Khazad Dum"
 - "Amon Hen"
-- " Nhẫn Tiến về phía Nam"
+- "Vòng tiến về phía Nam"
 - "Tro Và Khói"
 - "Minas Tirith"
 - "Cái Cây Trắng"
 - "Cánh đồng Pelennor"
 - "Hy vọng và Ký ức"
 - "Minas Morgul"
-- "Chuyến đi của Rohirrim"
-- " Cổng Đen Mở ra"
+- "Chuyến Đi Của Rohirrim"
+- " Cổng Đen Mở"
 - "Sự kết thúc của mọi chuyện"
 - "Nền Đá"
 - "Con đường của đầm lầy"

@@ -21,11 +21,11 @@ images:
 <p class="tg-quote-footer"><cite><a href="Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-**Túrin Wrapper** bao gồm ba [Sindarin](../S/Sindarin.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> văn bản liên quan đến [Narn i Chîn Húrin](<../N/Narn_i_Chîn_Húrin_(tale).md>) của những năm 1950 do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)sáng tác. Nó được xuất bản cùng với các bản dịch và phân tích của [Carl F. Hostetter](../C/Carl_F._Hostetter.md), trong [Vinyar Tengwar 50](../V/Vinyar_Tengwar_50.md).
+**Túrin Wrapper** bao gồm ba [Sindarin](../S/Sindarin.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> văn bản liên quan đến [Narn i Chîn Húrin](<../N/Narn_i_Chîn_Húrin_(tale).md>) của những năm 1950 do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sáng tác. Nó được xuất bản cùng với các bản dịch và phân tích của [Carl F. Hostetter](../C/Carl_F._Hostetter.md), trong [Vinyar Tengwar 50](../V/Vinyar_Tengwar_50.md).
 
 ## Khu IV {#Area_IV}
 
-Khu vực IV trên giấy gói chứa nội dung chi tiết đoạn hội thoại từ [Rían](../R/Rían.md) đến đứa con trai sơ sinh [Tuor](Tuor.md)của cô.
+Khu vực IV trên giấy gói chứa nội dung chi tiết đoạn hội thoại từ [Rían](../R/Rían.md) đến đứa con trai sơ sinh [Tuor](Tuor.md) của cô.
 
 <table class="wikitable">
 <tbody><tr>

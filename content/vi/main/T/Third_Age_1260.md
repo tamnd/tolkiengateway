@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Valacar](../V/Valacar.md) được cha mình, [Nhiếp chính](../R/Regent_of_Gondor.md) [Minalcar](../R/Rómendacil_II.md)triệu hồi khỏi [Rhovanion](../R/Rhovanion.md) để tham gia vào các cố vấn của vương quốc và chỉ huy quân đội của [Gondor](../G/Gondor.md).<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+- [Valacar](../V/Valacar.md) được cha mình, [Nhiếp chính](../R/Regent_of_Gondor.md) [Minalcar](../R/Rómendacil_II.md) triệu hồi khỏi [Rhovanion](../R/Rhovanion.md) để tham gia vào các cố vấn của vương quốc và chỉ huy quân đội của [Gondor](../G/Gondor.md).<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 <span></span>
 

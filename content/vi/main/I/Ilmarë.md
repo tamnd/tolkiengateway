@@ -55,7 +55,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/N/Natalia_Nikitin_-_Ilmare.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/95/Natalia_Nikitin_-_Ilmare.jpg/320px-Natalia_Nikitin_-_Ilmare.jpg" decoding="async" loading="lazy" width="320" height="403" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/95/Natalia_Nikitin_-_Ilmare.jpg/480px-Natalia_Nikitin_-_Ilmare.jpg 1.5x, https://tolkiengateway.net/w/images/9/95/Natalia_Nikitin_-_Ilmare.jpg 2x" data-file-width="635" data-file-height="800"/></a><figcaption>&#34;Ilmare&#34; by <a href="../../category/I/Images_by_Natalia_Nikitin.md" title="Category:Images by Natalia Nikitin">Natalia Nikitin</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../M/Maiar.md" title="Maiar">Maia</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ilmarë</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Pronunciation</th><td class="tg-infobox-data"><a href="../Q/Quenya.md" title="Quenya">Q</a>, <span title="Pronunciation in IPA" class="IPA">[ˈilmare]</span></td></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data">One of the Chiefs of the <a href="../M/Maiar.md" title="Maiar">Maiar</a><br/>Handmaiden of <a href="../V/Varda.md" title="Varda">Varda</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../V/Varda.md" title="Varda">Varda</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Ilmarë.md" title="Category:Images of Ilmarë">Images of Ilmarë</a></td></tr></tbody></table>
 
-**Ilmarë** là một trong những thủ lĩnh của [Maiar](../M/Maiar.md)và là hầu gái của Nữ hoàng [Varda](../V/Varda.md).
+**Ilmarë** là một trong những thủ lĩnh của [Maiar](../M/Maiar.md) và là hầu gái của Nữ hoàng [Varda](../V/Varda.md).
 
 Cô ấy chỉ được đề cập ngắn gọn trong *[Valaquenta](../V/Valaquenta.md)*, trong đó Ilmarë được mô tả cùng với Maia [Eönwë](../E/Eönwë.md), người cầm cờ và sứ giả của Vua [Manwë](../M/Manwë.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -77,7 +77,7 @@ Cô ấy xuất hiện trong *[Qenyaqetsa](../Q/Qenyaqetsa.md)*, trong một m�
 
 <sup id="cite_ref-Aka_5-0" class="reference"><a href="#cite_note-Aka-5">[5]</a></sup>
 
-Tuy nhiên, như [Christopher Tolkien](../C/Christopher_Tolkien.md) đã chỉ ra, nơi ở của cô tại Tol Eressëa trong một *korin* cuối cùng đã bị nhân vật [Meril-i-Turinqi](../M/Meril-i-Turinqi.md)tiếp quản, và Erinti trở thành con gái của Manwë và Varda.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Tuy nhiên, như [Christopher Tolkien](../C/Christopher_Tolkien.md) đã chỉ ra, nơi ở của cô tại Tol Eressëa trong một *korin* cuối cùng đã bị nhân vật [Meril-i-Turinqi](../M/Meril-i-Turinqi.md) tiếp quản, và Erinti trở thành con gái của Manwë và Varda.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ### Từ nguyên ban đầu {#Early_etymology}
 

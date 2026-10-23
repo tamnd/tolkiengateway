@@ -20,7 +20,7 @@ images:
 
 ## Lịch sử {#History}
 
-"Vùng Đất Bất Tử" có vẻ là tên bắt nguồn từ [Con Người](../M/Men.md). Đặc biệt, [người Númenor](../N/Númenóreans.md)ghen tị với cuộc sống dường như vô tận của những người sống ở những vùng này. Ngay từ đầu, Valar đã đưa ra lệnh cấm đối với Người Númenor, rằng họ không được đi thuyền vào Phương Tây từ hòn đảo của mình hoặc đặt chân lên bờ biển của Aman.
+"Vùng Đất Bất Tử" có vẻ là tên bắt nguồn từ [Con Người](../M/Men.md). Đặc biệt, [người Númenor](../N/Númenóreans.md) ghen tị với cuộc sống dường như vô tận của những người sống ở những vùng này. Ngay từ đầu, Valar đã đưa ra lệnh cấm đối với Người Númenor, rằng họ không được đi thuyền vào Phương Tây từ hòn đảo của mình hoặc đặt chân lên bờ biển của Aman.
 
 Tuy nhiên, dù Valar khôn ngoan đến đâu, họ cũng không lường trước được mưu mô của [Sauron](../S/Sauron.md). Kẻ Maia sa ngã đã thuyết phục một cách sai lầm [Vua cuối cùng của Númenor](../K/King_of_Númenor.md), [Ar-Pharazôn](../A/Ar-Pharazôn.md), rằng người cai trị Vùng Đất Bất Tử sẽ tự mình bất tử. Tin tưởng vào Sauron, Ar-Pharazôn đã tập hợp một lực lượng hải quân hùng mạnh và giương buồm về phía tây để thực hiện cuộc chiến vô vọng trên Valar nhằm giành lấy phần thưởng tưởng tượng là sự sống vô tận.
 

@@ -41,7 +41,7 @@ infobox:
 
 ## Diện mạo {#Appearance}
 
-Khi đi từ Gorgoroth tới Udûn, Carach Angren được củng cố nghiêm ngặt, và cả hai mỏm đá nhìn ra nó đều có pháo đài và tháp. Bên kia lối đi, một bức tường đất đã được xây dựng và một con mương lớn đã được đào ngang qua khoảng trống được bắc qua bởi một cây cầu duy nhất.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Một hàng rào lớn bằng những cột sắt nhọn đã thu hẹp khoảng trống dẫn vào Udûn.<sup id="cite_ref-Nomen_3-0" class="reference"><a href="#cite_note-Nomen-3">[3]</a></sup>
+Khi đi từ Gorgoroth đến Udûn, Carach Angren được phòng thủ kiên cố, và cả những mỏm đá nhìn ra nó đều có pháo đài và tháp. Bên kia lối đi, một bức tường đất đã được xây dựng và một con mương lớn đã được đào ngang qua khoảng trống được bắc qua bởi một cây cầu duy nhất.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Một hàng rào lớn bằng những cột sắt nhọn đã thu hẹp khoảng trống dẫn vào Udûn.<sup id="cite_ref-Nomen_3-0" class="reference"><a href="#cite_note-Nomen-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -49,7 +49,7 @@ Cả *Carach Angren* và *Isenmouthe* đều có nghĩa là "Miệng sắt": "*N
 
 *Isen* là một biến thể cũ của sắt trong tiếng Anh; và Mouthe đại diện cho [tiếng Anh cổ](../O/Old_English.md) *mūða* < *mūð* "mở, miệng" đặc biệt được sử dụng ở các cửa sông, nhưng cũng được áp dụng cho các cửa mở khác.<sup id="cite_ref-Nomen_3-2" class="reference"><a href="#cite_note-Nomen-3">[3]</a></sup>
 
-Mặc dù có tiếng Anh cổ nhưng tên này không được hiểu là [Rohanese](../R/Rohanese.md)mà là [Westron](../W/Westron.md)cổ xưa, bản dịch của [Sindarin](../S/Sindarin.md) *Carach Angren*.<sup id="cite_ref-Nomen_3-3" class="reference"><a href="#cite_note-Nomen-3">[3]</a></sup>
+Mặc dù có tiếng Anh cổ nhưng tên này không được hiểu là [Rohanese](../R/Rohanese.md) mà là [Westron](../W/Westron.md) cổ xưa, bản dịch của [Sindarin](../S/Sindarin.md) *Carach Angren*.<sup id="cite_ref-Nomen_3-3" class="reference"><a href="#cite_note-Nomen-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -61,7 +61,7 @@ Mặc dù có tiếng Anh cổ nhưng tên này không được hiểu là [Roha
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Carach_Angren.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/65/The_Lord_of_the_Rings_Online_-_Carach_Angren.jpg/300px-The_Lord_of_the_Rings_Online_-_Carach_Angren.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/65/The_Lord_of_the_Rings_Online_-_Carach_Angren.jpg/450px-The_Lord_of_the_Rings_Online_-_Carach_Angren.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/65/The_Lord_of_the_Rings_Online_-_Carach_Angren.jpg/600px-The_Lord_of_the_Rings_Online_-_Carach_Angren.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The Isenmouthe in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Isenmouthe has been wrecked during the eruption of <a href="../M/Mount_Doom.md" title="Mount Doom">Mount Doom</a> and the undoing of the One Ring.</dd></dl>
 

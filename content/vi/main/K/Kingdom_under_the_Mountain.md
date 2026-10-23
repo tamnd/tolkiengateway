@@ -80,7 +80,7 @@ Phải gần bốn trăm năm người dân Durin mới quay trở lại Ngọn 
 
 Thrór cuối cùng đã đến được Ngọn Núi Cô Đơn và tuyên bố chính mình là [Vua Dưới Núi](King_under_the_Mountain.md). Dưới sự cai trị của Thrór, Ngọn Núi Cô Đơn một lần nữa trở thành thủ đô của dân tộc Durin, [Người Lùn Erebor](../D/Dwarves_of_Erebor.md) trở thành những thợ rèn và thợ xây giỏi nhất ở Wilderland, giao thương gia tăng với những người bà con của họ ở Dãy Đồi Sắt và những nơi khác, đồng thời họ cũng trở nên rất giàu có.
 
-### cuộc cướp phá Erebor {#Sack_of_Erebor}
+### Cuộc cướp phá Erebor {#Sack_of_Erebor}
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../S/Sack_of_Erebor.md" title="Sack of Erebor">Sack of Erebor</a></b></div></div>
 
@@ -96,7 +96,7 @@ Trong khi dân Durin lang thang từ núi tới [Dunland](../D/Dunland.md) về 
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Brian_Durfee_-_Returned_Exiles.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/43/Brian_Durfee_-_Returned_Exiles.jpg/300px-Brian_Durfee_-_Returned_Exiles.jpg" decoding="async" loading="lazy" width="300" height="253" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/43/Brian_Durfee_-_Returned_Exiles.jpg 1.5x" data-file-width="399" data-file-height="336"/></a><figcaption><i>Returned Exiles</i> by Brian Durfee</figcaption></figure>
 
-Trong [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), cùng với hội đồng của Gandalf, [Thorin Oakenshield](../T/Thorin.md) và một [đại đội gồm mười hai người lùn](../T/Thorin_and_Company.md), với sự giúp đỡ của [Hobbit](../H/Hobbits.md) [Bilbo Baggins](../B/Bilbo_Baggins.md), đã thực hiện Nhiệm vụ Erebor và chiếm lại thành phố và kho báu. Trong khi đó, Rồng Smaug đã đi tiêu diệt [Esgaroth](../L/Lake-town.md)nhưng bị giết bởi một người tên là [Bard](../B/Bard.md).
+Trong [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), cùng với hội đồng của Gandalf, [Thorin Oakenshield](../T/Thorin.md) và một [đại đội gồm mười hai người lùn](../T/Thorin_and_Company.md), với sự giúp đỡ của [Hobbit](../H/Hobbits.md) [Bilbo Baggins](../B/Bilbo_Baggins.md), đã thực hiện Nhiệm vụ Erebor và chiếm lại thành phố và kho báu. Trong khi đó, Rồng Smaug đã đi tiêu diệt [Esgaroth](../L/Lake-town.md) nhưng bị giết bởi một người tên là [Bard](../B/Bard.md).
 
 Thorin được tự do xưng hô Vua Dưới Núi. Tuy nhiên, ngọn núi đã bị bao vây bởi Con Người của Esgaroth và [Tiên tộc của Mirkwood](../E/Elves_of_Mirkwood.md), những người mong muốn được bồi thường cho những thiệt hại do con rồng gây ra. [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) đến hỗ trợ Thorin nhưng đông đảo [Orc](../O/Orcs.md) và [Warg](../W/Wargs.md) đến chiếm núi. Sau đó Tiên tộc, Con Người và Người Lùn đã đoàn kết lại và [chiến đấu](../B/Battle_of_Five_Armies.md) chống lại chúng. Sau cái chết của Thorin và các cháu trai của ông, Dáin được tạo thành Vua của dân gian Durin và của ngọn núi. Cuối cùng sau bao nhiêu năm mong mỏi Longbeards cuối cùng cũng quay trở lại Ngọn Núi Cô Đơn.
 

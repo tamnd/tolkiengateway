@@ -105,7 +105,7 @@ Các cảnh có diễn viên được quay trước màn hình xanh và các di�
 
 ### Phần 1 {#Part_1}
 
-Bữa tiệc của - [Bilbo](../B/Bilbo_Baggins.md) [](../B/Bilbo's_Farewell_Party.md) là bữa tối chỉ có [Hobbit](../H/Hobbits.md) và [Gandalf](../G/Gandalf.md)trung ương tham dự. Bilbo không phát biểu. Đúng hơn là anh ta biến mất vào giữa bữa tối mà không thu hút sự chú ý về phía mình.
+Bữa tiệc của - [Bilbo](../B/Bilbo_Baggins.md) [](../B/Bilbo's_Farewell_Party.md) là bữa tối chỉ có [Hobbit](../H/Hobbits.md) và [Gandalf](../G/Gandalf.md) trung ương tham dự. Bilbo không phát biểu. Đúng hơn là anh ta biến mất vào giữa bữa tối mà không thu hút sự chú ý về phía mình.
 - [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) có kích thước gần giống với một chiếc vòng tay lớn.
 - [Elrond](../E/Elrond.md) được đặt tên là *alvkungen* hoặc *The [Elf](../E/Elves.md) King.* Cuốn sách đặt tên cho anh ta là *Lord of [Rivendell](../R/Rivendell.md).*
 - Gandalf không để Shire đi theo Bữa tiệc sinh nhật mà bắt đầu Hobbit khởi hành cuộc hành trình của họ.
@@ -126,7 +126,7 @@ Bữa tiệc của - [Bilbo](../B/Bilbo_Baggins.md) [](../B/Bilbo's_Farewell_Par
 - [Radagast Brown](../R/Radagast.md) không được nhìn thấy hoặc được đề cập trực tiếp, mặc dù Gandalf nói rằng anh ta đã bị "lừa" gặp [Saruman White](Saruman.md), ngụ ý rằng cuộc chạm trán với Radagast diễn ra ngoài màn hình.
 - Tuy nhiên, các trường hợp gặp phải Radagast ngoài màn hình nói trên phải hơi khác một chút, vì Gandalf thu hút sự chú ý của [Gwaihir](../G/Gwaihir.md) bằng cách gửi "tin nhắn với những chú chim", thay vì Gwaihir đến [Orthanc](../O/Orthanc.md) vì tin nhắn của Radagast.
 - [Boromir](../B/Boromir.md) bị bỏ qua. Mặc dù người kể chuyện có đề cập rằng [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) có chín thành viên nhưng chỉ có tám người được liệt kê.
-- Mặc dù [Bill Ferny](../B/Bill_Ferny.md)bị bỏ sót trong Tập 1, người ta vẫn nói rằng "Sam đứng về phía Pony", có lẽ là [Bill the Pony](../B/Bill_the_Pony.md).
+- Mặc dù [Bill Ferny](../B/Bill_Ferny.md) bị bỏ sót trong Tập 1, người ta vẫn nói rằng "Sam đứng về phía Pony", có lẽ là [Bill the Pony](../B/Bill_the_Pony.md).
 
 ## Xem thêm {#See_also}
 

@@ -31,9 +31,9 @@ Tảo bẹ, giống như tất cả các sinh vật, sống trong *[Ambarmenië]
 
 Người ta kể rằng vào thời [Mùa Xuân của Arda](../S/Spring_of_Arda.md), khi Yavanna gieo hạt giống của cô, "các loài thú dữ đã xuất hiện và cư trú ở vùng đồng bằng đầy cỏ, hoặc ở sông hồ, hoặc đi trong bóng tối của rừng." Tuy nhiên, những con chim hót vẫn chưa xuất hiện "vì những thứ này vẫn chờ đợi thời gian trong lòng Yavanna; nhưng sự giàu có ở đó là do cô tưởng tượng."
 
-Tuy nhiên, khi [Hai Ngọn Đèn](../T/Two_Lamps.md) bị phá hủy và không còn ánh sáng ở [Vùng đất bên ngoài](../O/Outer_Lands.md), Valie đã đưa chúng vào giấc ngủ và chúng ngừng phát triển trong [Giấc ngủ của Yavanna](../S/Sleep_of_Yavanna.md), cho đến khi có ánh sáng trở lại.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Chỉ có những con thú của [Melkor](../M/Melkor.md)lang thang trên trái đất trong bóng tối, chúng được [Oromë](../O/Oromë.md) người thợ săn ngăn chặn.<sup id="cite_ref-S2_1-1" class="reference"><a href="#cite_note-S2-1">[1]</a></sup>
+Tuy nhiên, khi [Hai Ngọn Đèn](../T/Two_Lamps.md) bị phá hủy và không còn ánh sáng ở [Vùng đất bên ngoài](../O/Outer_Lands.md), Valie đã đưa chúng vào giấc ngủ và chúng ngừng phát triển trong [Giấc ngủ của Yavanna](../S/Sleep_of_Yavanna.md), cho đến khi có ánh sáng trở lại.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Chỉ có những con thú của [Melkor](../M/Melkor.md) lang thang trên trái đất trong bóng tối, chúng được [Oromë](../O/Oromë.md) người thợ săn ngăn chặn.<sup id="cite_ref-S2_1-1" class="reference"><a href="#cite_note-S2-1">[1]</a></sup>
 
-Sau khi [Tiên tộc](../E/Elves.md)thức tỉnh, một số kelvar được cho là nơi sinh sống của những linh hồn mạnh mẽ. Nổi tiếng nhất trong số này là những [Đại Bàng](../E/Eagles.md) vĩ đại đã quan sát các sự kiện ở [Trung Địa](../M/Middle-earth.md) từ những con mắt miền núi của họ.<sup id="cite_ref-S2_1-2" class="reference"><a href="#cite_note-S2-1">[1]</a></sup>
+Sau khi [Tiên tộc](../E/Elves.md) thức tỉnh, một số kelvar được cho là nơi sinh sống của những linh hồn mạnh mẽ. Nổi tiếng nhất trong số này là những [Đại Bàng](../E/Eagles.md) vĩ đại đã quan sát các sự kiện ở [Trung Địa](../M/Middle-earth.md) từ những con mắt miền núi của họ.<sup id="cite_ref-S2_1-2" class="reference"><a href="#cite_note-S2-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -41,7 +41,7 @@ Sau khi [Tiên tộc](../E/Elves.md)thức tỉnh, một số kelvar được ch
 
 Các từ khác dành cho "động vật" (những cái tên nói chung chỉ dùng để chỉ "thú vật bốn chân chứ không bao giờ đề cập đến loài bò sát hoặc chim") là [Quenya](../Q/Quenya.md) *laman* (pl. *lamni* hoặc *lamani*) và [Sindarin](../S/Sindarin.md) *lavan* (pl. *levain*).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md)về ngôn ngữ [Tiên](../E/Elvish.md), từ "sinh vật sống, động vật" là *cuid*. Từ *meg* được hiểu là "bất kỳ động vật nhỏ nào, đặc biệt là chuột chũi".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md) về ngôn ngữ [Tiên](../E/Elvish.md), từ "sinh vật sống, động vật" là *cuid*. Từ *meg* được hiểu là "bất kỳ động vật nhỏ nào, đặc biệt là chuột chũi".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 ## Xem thêm {#See_also}
 

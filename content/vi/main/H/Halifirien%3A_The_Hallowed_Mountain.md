@@ -26,7 +26,7 @@ Từ trang web chính thức:
 >
 > Trên đỉnh núi [Halifirien](Halifirien.md), nhìn ra biên giới giữa hai vương quốc, những người cai ngục canh giữ tín hiệu cổ xưa sẽ kêu gọi những người phương Tây đoàn kết chống lại mối đe dọa của [Mordor](../M/Mordor.md).
 >
-> Khi cái bóng của [Sauron](../S/Sauron.md)phủ lên [Trung Địa](../M/Middle-earth.md) *(sic)*, [orc](../O/Orcs.md) các nhóm chiến tranh tiến sâu hơn vào vùng đất tự do và một đêm nọ xâm chiếm ngọn núi linh thiêng nơi những người cai ngục canh gác. Khi Eradur (James Robinson) và anh trai (Dominic Downes) đang canh gác, họ nghe thấy tiếng ồn ào của trận chiến từ phía dưới núi. Họ có đi giúp đỡ bạn bè của họ không? Hay ở lại và giữ đúng nghĩa vụ đã tuyên thệ?
+> Khi cái bóng của [Sauron](../S/Sauron.md) phủ lên [Trung Địa](../M/Middle-earth.md) *(sic)*, [orc](../O/Orcs.md) các nhóm chiến tranh tiến sâu hơn vào vùng đất tự do và một đêm nọ xâm chiếm ngọn núi linh thiêng nơi những người cai ngục canh gác. Khi Eradur (James Robinson) và anh trai (Dominic Downes) đang canh gác, họ nghe thấy tiếng ồn ào của trận chiến từ phía dưới núi. Họ có đi giúp đỡ bạn bè của họ không? Hay ở lại và giữ đúng nghĩa vụ đã tuyên thệ?
 >
 > Eradur sẽ phải đối mặt với sự mất mát những người thân yêu nhất của mình khi anh bị săn lùng bởi lũ Orc khát máu và buộc phải một mình đối mặt với nỗi sợ hãi.
 

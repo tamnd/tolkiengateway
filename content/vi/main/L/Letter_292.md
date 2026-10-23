@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Một "[người hâm mộ](../T/Tolkien_fandom.md)" định viết "[phần tiếp theo](../F/Fanfiction.md)" và đã gửi Tolkien thông tin chi tiết. Tolkien đã gửi tài liệu tới [Joy Hill](../J/Joy_Hill.md) của [Allen &amp; Unwin](../A/Allen_and_Unwin.md)và hỏi cô ấy về quan điểm pháp lý. Ông yêu cầu nhà xuất bản viết thư chính thức để can ngăn người viết, sợ nhà xuất bản có thể xuất bản “lỗi như vậy”. Anh ấy giải thích rằng khi đích thân anh ấy từ chối phần tiếp theo do người hâm mộ đề xuất trước đó, nhà văn trẻ đã viết một bài phản bác gay gắt. <br>
+Một "[người hâm mộ](../T/Tolkien_fandom.md)" định viết "[phần tiếp theo](../F/Fanfiction.md)" và đã gửi Tolkien thông tin chi tiết. Tolkien đã gửi tài liệu tới [Joy Hill](../J/Joy_Hill.md) của [Allen &amp; Unwin](../A/Allen_and_Unwin.md) và hỏi cô ấy về quan điểm pháp lý. Ông yêu cầu nhà xuất bản viết thư chính thức để can ngăn người viết, sợ nhà xuất bản có thể xuất bản “lỗi như vậy”. Anh ấy giải thích rằng khi đích thân anh ấy từ chối phần tiếp theo do người hâm mộ đề xuất trước đó, nhà văn trẻ đã viết một bài phản bác gay gắt. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

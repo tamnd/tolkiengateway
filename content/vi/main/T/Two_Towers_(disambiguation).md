@@ -27,7 +27,7 @@ images:
 
 ### Phim & video {#Films_&_video}
 
-- <i><b><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></b></i>, do [Peter Jackson](../P/Peter_Jackson.md)đạo diễn.
+- <i><b><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></b></i>, do [Peter Jackson](../P/Peter_Jackson.md) đạo diễn.
 - [*The Lord of the Rings: The Two Towers* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>)
 - *[The Two Towers: The Purist Edit](The_Two_Towers%253A_The_Purist_Edit.md)*, một [dự án dành cho người hâm mộ](Tolkien_fandom.md).
 - *[The Return of the Fellowship of the Ring to the Two Towers](The_Return_of_the_Fellowship_of_the_Ring_to_the_Two_Towers.md)*, một tập của *South Park*.
@@ -35,7 +35,7 @@ images:
 ### Trò chơi {#Games}
 
 - [*The Lord of the Rings: The Two Towers* (trò chơi điện tử)](<The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>), trò chơi điện tử của [Electronic Arts](../E/Electronic_Arts.md).
-- [*The Two Towers*Bùn](The_Two_Towers_MUD.md)
+- [*The Two Towers* Bùn](The_Two_Towers_MUD.md)
 - *[J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers](../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md)*
 - *[The Two Towers Sourcebook](The_Two_Towers_Sourcebook.md)*, phần bổ sung cho *[The Lord of the Rings Roleplaying Game](The_Lord_of_the_Rings_Roleplaying_Game.md)*.
 - *[The Lord of the Rings &amp; The Two Towers](The_Lord_of_the_Rings_&_The_Two_Towers.md)*, bộ sưu tập trò chơi điện tử.

@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-<a class="extiw" href="http://en.wikipedia.org/wiki/John_Giffard,_3rd_Earl_of_Halsbury" title="wikipedia:John Giffard, 3rd Earl of Halsbury">Lord Halsbury</a> đã gợi ý với Tolkien rằng nếu [Allen và Unwin](../A/Allen_and_Unwin.md) không sẵn lòng xuất bản *[The Silmarillion](../T/The_Silmarillion.md)* về mặt thương mại, có lẽ nó có thể được xuất bản theo hình thức đăng ký. Tolkien cảm ơn Lord Halsbury vì đã viết thư, vì sự chấp thuận và quan tâm cũng như về đề xuất của ông. Tuy nhiên, ông cảm thấy rằng sự chào đón đáng ngạc nhiên dành cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* có lẽ đã khiến thủ tục do Halsbury đề xuất trở nên không cần thiết. Nó cũng chứng minh quyết tâm của nhà xuất bản là phát hành *The Lord of the Rings* trước. Tolkien muốn trình bày mọi thứ theo trình tự thời gian, điều này sẽ làm câu chuyện của [Kỷ Đệ Tam](../T/Third_Age.md)trở nên nhẹ nhàng và nhanh chóng hơn.
+<a class="extiw" href="http://en.wikipedia.org/wiki/John_Giffard,_3rd_Earl_of_Halsbury" title="wikipedia:John Giffard, 3rd Earl of Halsbury">Lord Halsbury</a> đã gợi ý với Tolkien rằng nếu [Allen và Unwin](../A/Allen_and_Unwin.md) không sẵn lòng xuất bản *[The Silmarillion](../T/The_Silmarillion.md)* về mặt thương mại, có lẽ nó có thể được xuất bản theo hình thức đăng ký. Tolkien cảm ơn Lord Halsbury vì đã viết thư, vì sự chấp thuận và quan tâm cũng như về đề xuất của ông. Tuy nhiên, ông cảm thấy rằng sự chào đón đáng ngạc nhiên dành cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* có lẽ đã khiến thủ tục do Halsbury đề xuất trở nên không cần thiết. Nó cũng chứng minh quyết tâm của nhà xuất bản là phát hành *The Lord of the Rings* trước. Tolkien muốn trình bày mọi thứ theo trình tự thời gian, điều này sẽ làm câu chuyện của [Kỷ Đệ Tam](../T/Third_Age.md) trở nên nhẹ nhàng và nhanh chóng hơn.
 
 Tất cả các tài liệu tham khảo trong *The Lord of the Rings* đều tồn tại trong các truyền thuyết được viết trước khi nó được bắt đầu, Tolkien cho biết, ngoại trừ "những chú mèo của Nữ hoàng [Berúthiel](../B/Berúthiel.md)"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tuy nhiên, những truyền thuyết đó đều mang tính thần thoại cao, Elvish và anh hùng, không hề có "hobithood" nào cả; anh ấy sợ nó không ngon miệng như hỗn hợp hiện tại.
 
@@ -39,7 +39,7 @@ Bây giờ các nhà xuất bản muốn *Silmarillion* Tolkien bị từ chối
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Trong một đoạn Tolkien liệt kê các tài liệu có thể được xuất bản: *Ainulindalë*, *Silmarillion*, *Annals of Valinor*và *Annals of Beleriand*; trong khi ở *Silmarillion* có ba câu chuyện chính riêng biệt: *Beren &amp; Lúthien*, *Fall of Gondolin*và *Children of Húrin*. Ngoài ra còn có *Downfall of Númenor*.
+Trong một đoạn Tolkien liệt kê các tài liệu có thể được xuất bản: *Ainulindalë*, *Silmarillion*, *Annals of Valinor* và *Annals of Beleriand*; trong khi ở *Silmarillion* có ba câu chuyện chính riêng biệt: *Beren &amp; Lúthien*, *Fall of Gondolin* và *Children of Húrin*. Ngoài ra còn có *Downfall of Númenor*.
 
 <span></span>
 

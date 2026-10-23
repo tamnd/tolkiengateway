@@ -36,11 +36,11 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Evenstar** là ca khúc thứ tám trong *[The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md). Được đặt theo tên [Arwen Evenstar](../A/Arwen.md), nó được dùng làm chủ đề của Arwen và [Aragorn](../A/Aragorn.md)trong *[The Lord of the Rings film series](<../T/The_Lord_of_the_Rings_(film_series).md>)*.<sup id="cite_ref-AnnotatedScore_1-0" class="reference"><a href="#cite_note-AnnotatedScore-1">[1]</a></sup>
+**Evenstar** là ca khúc thứ tám trong *[The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md). Được đặt theo tên [Arwen Evenstar](../A/Arwen.md), nó được dùng làm chủ đề của Arwen và [Aragorn](../A/Aragorn.md) trong *[The Lord of the Rings film series](<../T/The_Lord_of_the_Rings_(film_series).md>)*.<sup id="cite_ref-AnnotatedScore_1-0" class="reference"><a href="#cite_note-AnnotatedScore-1">[1]</a></sup>
 
-Văn bản được viết bởi [Fran Walsh](../F/Fran_Walsh.md) và [Philippa Boyens](../P/Philippa_Boyens.md), với bản dịch [Sindarin](../S/Sindarin.md) bởi [David Salo](../D/David_Salo.md). Giọng hát solo được trình bày bởi Isabel Bayrakdarian.<sup id="cite_ref-AnnotatedScore_1-1" class="reference"><a href="#cite_note-AnnotatedScore-1">[1]</a></sup>
+Văn bản được viết bởi [Fran Walsh](../F/Fran_Walsh.md) và [Philippa Boyens](../P/Philippa_Boyens.md), với [Sindarin](../S/Sindarin.md) bản dịch của [David Salo](../D/David_Salo.md). Giọng hát solo được trình bày bởi Isabel Bayrakdarian.<sup id="cite_ref-AnnotatedScore_1-1" class="reference"><a href="#cite_note-AnnotatedScore-1">[1]</a></sup>
 
-Evenstar cũng được giới thiệu như một phần của [One of the Dunedain](../O/One_of_the_Dunedain.md), ca khúc thứ bảy của đĩa hai trên [The Lord of the Rings: The Two Towers - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md).
+Evenstar cũng góp mặt trong [One of the Dunedain](../O/One_of_the_Dunedain.md), ca khúc thứ bảy của đĩa hai trên [The Lord of the Rings: The Two Towers - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md).
 
 ## Lời bài hát {#Lyrics}
 

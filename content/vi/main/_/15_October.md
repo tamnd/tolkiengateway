@@ -64,13 +64,13 @@ Sự kiện xảy ra vào ngày 15 tháng 10
 ## Trên Trái đất {#On_Earth}
 
 - **1844** - Nhà triết học và tác giả [Friedrich Nietzsche](../F/Friedrich_Nietzsche.md) ra đời.
-- **[1931](1931.md)** - Bài thơ "[Sự tiến bộ ở thị trấn Bimble](../P/Progress_in_Bimble_Town.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)được đăng trên *The Oxford Magazine*.
+- **[1931](1931.md)** - Bài thơ "[Sự tiến bộ ở thị trấn Bimble](../P/Progress_in_Bimble_Town.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được đăng trên *The Oxford Magazine*.
 - **[1937](1937.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 17](../L/Letter_17.md).
 - **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 141a](../L/Letter_141a.md).
 - **[1959](1959.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 220](../L/Letter_220.md).
 - **[1963](1963.md)** – Khi đang ăn tối, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã cứu sống một bà già suýt nghẹn vì khúc xương trắng.
 - **[1999](1999.md)** - Tác giả [Barbara Strachey](../B/Barbara_Strachey.md) qua đời năm [Oxford](../O/Oxford.md).
-- **[2007](2007.md)** - [Nhẫn\*Con 2007](../R/Ring%252ACon_2007.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Fulda" title="wikipedia:Fulda">Fulda</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2007](2007.md)** - [Ring\*Con 2007](../R/Ring%252ACon_2007.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Fulda" title="wikipedia:Fulda">Fulda</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 - **[2009](2009.md)** - Mereth Aderthad XV, hay "EstelCon", ở <a class="extiw" href="http://en.wikipedia.org/wiki/Cardona,_Spain" title="wikipedia:Cardona, Spain">Cardona</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Spain" title="wikipedia:Spain">Tây Ban Nha</a>.
 - **[2010](2010.md)** - [Peter Jackson](../P/Peter_Jackson.md) chính thức được công bố là đạo diễn của [The Hobbit loạt phim](<../T/The_Hobbit_(film_series).md>).
 - **[2012](2012.md)** - *[The Lord of the Rings Online: Riders of Rohan](../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md)* bản mở rộng được phát hành.
@@ -79,7 +79,7 @@ Sự kiện xảy ra vào ngày 15 tháng 10
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md)tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
     - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm về phía [Rivendell](../R/Rivendell.md).
     - [Gandalf](../G/Gandalf.md) lao về phía [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công anh ta vào [Weathertop](../W/Weathertop.md).

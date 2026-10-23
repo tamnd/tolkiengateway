@@ -12,7 +12,7 @@ categories:
   - "Manuscripts"
 ---
 
-**Báo cáo về Hobbit** là báo cáo của độc giả [Rayner Unwin](Rayner_Unwin.md)về *[The Hobbit](../T/The_Hobbit.md)*, viết vào ngày [30 tháng 10](../_/30_October.md), [1936](../_/1936.md), khi cậu 10 tuổi. Bản thảo được lưu giữ trong Bộ sưu tập J.R.R. Tolkien tại [Đại học Marquette Thư viện](../M/Marquette_University.md) (Bộ 5, Hộp 2, Thư mục 7) và được xuất bản trong *[The Annotated Hobbit](../T/The_Annotated_Hobbit%253A_Revised_and_Expanded_Edition.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Báo cáo về Hobbit** là báo cáo của độc giả [Rayner Unwin](Rayner_Unwin.md) về *[The Hobbit](../T/The_Hobbit.md)*, viết vào ngày [30 tháng 10](../_/30_October.md), [1936](../_/1936.md), khi cậu 10 tuổi. Bản thảo được lưu giữ trong Bộ sưu tập J.R.R. Tolkien tại [Đại học Marquette Thư viện](../M/Marquette_University.md) (Bộ 5, Hộp 2, Thư mục 7) và được xuất bản trong *[The Annotated Hobbit](../T/The_Annotated_Hobbit%253A_Revised_and_Expanded_Edition.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Phiên âm {#Transcription}
 

@@ -110,7 +110,7 @@ Quenya là một trong nhiều ngôn ngữ được xây dựng được các nh
 
 ## Từ nguyên {#Etymology}
 
-Từ *Quenya* có nguồn gốc là một tính từ có nghĩa là “thuộc về [Quendi](Quendi.md)”, nhưng mặc dù nguồn gốc không cụ thể này nhưng nó chỉ được sử dụng làm tên của ngôn ngữ. Nó có nguồn gốc từ một dạng *kwendjā*cũ hơn, với *d* chỉ tồn tại trong phương ngữ [Vanyarin](../V/Vanyarin.md), trong đó tên vẫn là *Quendya*.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Từ *Quenya* có nguồn gốc là một tính từ có nghĩa là “thuộc về [Quendi](Quendi.md)”, nhưng mặc dù nguồn gốc không cụ thể này nhưng nó chỉ được sử dụng làm tên của ngôn ngữ. Nó có nguồn gốc từ một dạng *kwendjā* cũ hơn, với *d* chỉ tồn tại trong phương ngữ [Vanyarin](../V/Vanyarin.md), trong đó tên vẫn là *Quendya*.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 Trong [Sindarin](../S/Sindarin.md) và [Telerin](../T/Telerin.md), hậu duệ của từ *kwendjā* trở nên quá khó nhận dạng sau khi thay đổi âm thanh *kw &gt; p*. Thay vào đó, ngôn ngữ này được gọi là “lời nói của [Ñoldor](../_/Ñoldor.md)” (vì cả hai nhóm không thường xuyên tương tác với [Vanyar](../V/Vanyar.md)), tương ứng là *Goldórin* hoặc *Goldolambe*<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> và *Golodhbaeth* hoặc *Paeth e Ngolodhrim*<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>.
 

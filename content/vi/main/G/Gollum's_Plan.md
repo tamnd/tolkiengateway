@@ -39,7 +39,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Gollum](Gollum.md) lướt cách [Frodo](../F/Frodo.md) và [Sam](../S/Sam.md)một khoảng ngắn. Khi hai hobbit kêu gọi anh, anh đấu tranh với chính mình về cách đối xử mà anh nhận được dưới bàn tay của [Faramir](../F/Faramir.md) và người của anh. Sméagol thút thít "[Chủ nhân](../F/Frodo.md) chăm sóc chúng tôi", trong khi Gollum nói Frodo đã phản bội họ và hai hobbit đáng lẽ phải bị giết, và [ Nhẫn](../T/The_One_Ring.md) đã được lấy lại. Sméagol bày tỏ nỗi sợ hãi rằng Sam biết về kẻ ác của họ và sẽ quá mạo hiểm nếu giết họ.
+[Gollum](Gollum.md) lướt cách [Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) một khoảng ngắn. Khi hai hobbit kêu gọi anh, anh đấu tranh với chính mình về cách đối xử mà anh nhận được dưới bàn tay của [Faramir](../F/Faramir.md) và người của anh. Sméagol thút thít "[Chủ nhân](../F/Frodo.md) chăm sóc chúng tôi", trong khi Gollum nói Frodo đã phản bội họ và hai hobbit đáng lẽ phải bị giết, đồng thời [Chiếc nhẫn](../T/The_One_Ring.md) được lấy lại. Sméagol bày tỏ nỗi sợ hãi rằng Sam biết về kẻ ác của họ và sẽ quá mạo hiểm nếu giết họ.
 
 Khi Frodo và Sam đến gần hơn, Gollum trầm ngâm nói "Chúng ta có thể để *her* làm điều đó", Sméagol háo hức đồng ý.
 
@@ -53,7 +53,7 @@ Mỉm cười, Gollum bước ra từ cái cây mà anh ta đang nấp phía sau
 
 ## Sự khác biệt {#Differences}
 
-Điểm khác biệt lớn hơn giữa phim và sách là kế hoạch của Gollum. Trong cảnh này, tại thời điểm này, Gollum và Sméagol cùng đồng ý giết những người Hobbit và lấy lại Nhẫn cho riêng mình. Tuy nhiên, trong cuốn sách, một đoạn trong chương "[Cầu thang Cirith Ungol](../T/The_Stairs_of_Cirith_Ungol.md)", trong đó Gollum quay lại và thấy Frodo và Sam đang ngủ trong khi họ đi lên [cầu thang](../S/Stairs_of_Cirith_Ungol.md), gợi ý rằng Gollum đã suy nghĩ lại về việc dẫn hai hobbit đến [Shelob](../S/Shelob.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ngay cả ở giai đoạn cuối này.
+Điểm khác biệt lớn hơn giữa phim và sách là kế hoạch của Gollum. Trong cảnh này, Gollum và Sméagol tại thời điểm này cùng nhau đồng ý giết những người Hobbit và lấy lại chiếc Nhẫn cho mình. Tuy nhiên, trong cuốn sách, một đoạn trong chương "[Cầu thang Cirith Ungol](../T/The_Stairs_of_Cirith_Ungol.md)", trong đó Gollum quay lại để tìm Frodo và Sam đang ngủ trong khi họ hành trình lên [cầu thang](../S/Stairs_of_Cirith_Ungol.md), gợi ý rằng Gollum đã suy nghĩ lại về việc dẫn hai hobbit đến [Shelob](../S/Shelob.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ngay cả ở giai đoạn cuối này.
 
 <span></span>
 

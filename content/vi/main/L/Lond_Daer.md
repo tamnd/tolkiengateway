@@ -46,7 +46,7 @@ infobox:
 
 Ban đầu, bến cảng có tên <i><b><a href="../V/Vinyalondë.md" title="Vinyalondë">Vinyalondë</a></b></i>hay "New Haven", được thành lập bởi thái tử của [Númenor](../N/Númenor.md) [Aldarion](../T/Tar-Aldarion.md) trên cửa sông [Gwathló](../G/Gwathló.md), giữa [S.A.](../S/Second_Age.md) [750](../S/Second_Age_750.md) và [800](../S/Second_Age_800.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Cơn khát Númenórean muốn giàu có hơn bao giờ hết đã chuyển trọng tâm sang việc thành lập các thiên đường mới hơn ở phía nam, [Pelargir](../P/Pelargir.md) và [Umbar](../U/Umbar.md). Sau đó, nơi trú ẩn này là một trong nhiều cảng chính ở Trung Địa và được gọi là Lond Daer Enedh, hay "Great Middle Haven", giữa [Cảng Xám](../G/Grey_Havens.md) và Pelargir.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup> Mặc dù vậy, Númenor vẫn duy trì giao thông trên [Gwathló](../G/Gwathló.md) cho đến thị trấn kiên cố [Tharbad](../T/Tharbad.md)và Lond Daer đã được mở rộng và củng cố.<sup id="cite_ref-6d_4-0" class="reference"><a href="#cite_note-6d-4">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. 264</sup>
+Cơn khát Númenórean muốn giàu có hơn bao giờ hết đã chuyển trọng tâm sang việc thành lập các thiên đường mới hơn ở phía nam, [Pelargir](../P/Pelargir.md) và [Umbar](../U/Umbar.md). Sau đó, nơi trú ẩn này là một trong nhiều cảng chính ở Trung Địa và được gọi là Lond Daer Enedh, hay "Great Middle Haven", giữa [Cảng Xám](../G/Grey_Havens.md) và Pelargir.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup> Mặc dù vậy, Númenor vẫn duy trì giao thông trên [Gwathló](../G/Gwathló.md) cho đến thị trấn kiên cố [Tharbad](../T/Tharbad.md) và Lond Daer đã được mở rộng và củng cố.<sup id="cite_ref-6d_4-0" class="reference"><a href="#cite_note-6d-4">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. 264</sup>
 
 Sau [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md), [Elendil](../E/Elendil.md) thành lập vương quốc [Arnor](../A/Arnor.md) ở vùng đất phía bắc Lond Daer, nơi vẫn là một phần của tuyến đường an toàn và hiệu quả nhất giữa [Các vương quốc lưu vong](../R/Realms_in_Exile.md) bằng đường biển, kết hợp với [Tharbad](../T/Tharbad.md) và [Great Road](../G/Great_Road.md); nhưng khi Lond Daer rơi vào cảnh hoang tàn,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 2]</a></sup> Tharbad nó đã thành công một cách quan trọng.<sup id="cite_ref-6d_4-1" class="reference"><a href="#cite_note-6d-4">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. 264</sup>
 
@@ -71,7 +71,7 @@ Sau [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md), [Elendil](.
 </li>
 <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Không giải thích được tại sao "Cảng biển cổ và các bến cảng lớn của nó lại bị tàn phá", nhưng trận đại hồng thủy của Sự sụp đổ có thể là nguyên nhân.</span>
 </li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Có lẽ là Chủ nhân Heatherton</span>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Có lẽ là Master Heatherton</span>
 </li>
 </ol></div></span>
 

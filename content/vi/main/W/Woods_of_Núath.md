@@ -44,7 +44,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Rừng Núath là một khu vực nhiều cây cối rậm rạp ở phía bắc [Beleriand](../B/Beleriand.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup> Nó được bao bọc ở phía tây bởi những ngọn đồi nằm ở phía tây bắc ở [Tây Beleriand](West_Beleriand.md) phía nam [Ered Wethrin](../E/Ered_Wethrin.md)và ở phía đông là [Eithel Ivrin](../E/Eithel_Ivrin.md), nguồn của [Narog](../N/Narog.md). Con sông [Ginglith](../G/Ginglith.md) bắt đầu từ đó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Rừng Núath là một khu vực nhiều cây cối rậm rạp ở phía bắc [Beleriand](../B/Beleriand.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup> Nó được bao bọc ở phía tây bởi những ngọn đồi nằm ở phía tây bắc ở [Tây Beleriand](West_Beleriand.md) phía nam [Ered Wethrin](../E/Ered_Wethrin.md) và ở phía đông là [Eithel Ivrin](../E/Eithel_Ivrin.md), nguồn của [Narog](../N/Narog.md). Con sông [Ginglith](../G/Ginglith.md) bắt đầu từ đó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 Khi [Voronwë](../V/Voronwë.md) dẫn [Túor](../T/Túor.md) về phía đông để đến [Gondolin](../G/Gondolin.md) họ đi qua Rừng Núath. Cuộc hành trình vượt qua những cơn gió buốt giá và mất nhiều tuần để hoàn thành.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 

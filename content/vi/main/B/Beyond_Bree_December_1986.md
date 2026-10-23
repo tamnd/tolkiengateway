@@ -29,7 +29,7 @@ infobox:
 
 <b><i>Beyond Bree</i> Tháng 12 năm 1986</b> là số của *[Beyond Bree](Beyond_Bree.md)*, do [Nancy Martsch](../N/Nancy_Martsch.md) biên tập.
 
-Bài viết "Tấn công vị giác" của [Wayne G. Hammond](../W/Wayne_G._Hammond.md) đăng lại lời phát biểu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)trong *[Attacks of Taste](../A/Attacks_of_Taste.md)* liên quan đến thói quen đọc sách của anh khi còn là một thiếu niên. Xem trang 6.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Bài viết "Tấn công vị giác" của [Wayne G. Hammond](../W/Wayne_G._Hammond.md) đăng lại lời phát biểu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong *[Attacks of Taste](../A/Attacks_of_Taste.md)* liên quan đến thói quen đọc sách của anh khi còn là một thiếu niên. Xem trang 6.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

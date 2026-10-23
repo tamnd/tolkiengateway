@@ -17,7 +17,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Great Barrow&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
-**Great Barrow** xuất hiện trong trò chơi nhập vai *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)* và *[The One Ring](../T/The_One_Ring.md)*. Trong cả hai trò chơi, nó đã trở thành ngôi nhà của một trận chiến vĩ đại.<sup id="cite_ref-LOTRO_1-0" class="reference"><a href="#cite_note-LOTRO-1">[1]</a></sup><sup id="cite_ref-TOR_2-0" class="reference"><a href="#cite_note-TOR-2">[2]</a></sup> Nó có thể là ụ chôn cất của [Các vị vua của Cardolan](../K/Kings_of_Cardolan.md), và thậm chí là nơi [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md), [Merry](../M/Meriadoc_Brandybuck.md)và [Pippin](../P/Peregrin_Took.md) lấy được [Dao găm của Westernesse](../D/Daggers_of_Westernesse.md).
+**Great Barrow** xuất hiện trong trò chơi nhập vai *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)* và *[The One Ring](../T/The_One_Ring.md)*. Trong cả hai trò chơi, nó đã trở thành ngôi nhà của một trận chiến vĩ đại.<sup id="cite_ref-LOTRO_1-0" class="reference"><a href="#cite_note-LOTRO-1">[1]</a></sup><sup id="cite_ref-TOR_2-0" class="reference"><a href="#cite_note-TOR-2">[2]</a></sup> Nó có thể là ụ chôn cất của [Các vị vua của Cardolan](../K/Kings_of_Cardolan.md), và thậm chí là nơi [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md), [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) lấy được [Dao găm của Westernesse](../D/Daggers_of_Westernesse.md).
 
 ## Trong *The Lord of the Rings Online* {#In_The_Lord_of_the_Rings_Online}
 
@@ -44,4 +44,4 @@ images:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://lotro-wiki.com/wiki/Othrongroth" rel="noreferrer noopener" target="_blank">Othrongroth</a> trên <a class="external text" href="https://lotro-wiki.com/wiki" rel="noreferrer noopener" target="_blank">The Lord of the Rings Online Wiki</a>
+- <a class="external text" href="https://lotro-wiki.com/wiki/Othrongroth" rel="noreferrer noopener" target="_blank">Othrongroth</a> trên <a class="external text" href="https://lotro-wiki.com/wiki" rel="noreferrer noopener" target="_blank">The Lord of the Rings Wiki trực tuyến</a>

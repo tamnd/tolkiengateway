@@ -29,7 +29,7 @@ Thông tin chi tiết ban đầu về trò chơi bị hạn chế, nhưng trang 
 
 Đi kèm với thông báo [ngày 13 tháng 7](../_/13_July.md), [2006](../_/2006.md) là thông tin rằng vì EA tiếp tục giữ giấy phép phát triển trò chơi cho cả sách của Tolkien và bộ ba phim [New Line](../N/New_Line_Cinema.md) nên trò chơi sẽ dựa trên cả hai, như *[The Battle for Middle-earth II](../E/EA's_The_Battle_for_Middle-earth_II.md)*. Người chơi được quyền lựa chọn chơi với tư cách là [Người](../M/Man.md), [người lùn](../D/Dwarves.md), [Tiên](../E/Elves.md) hoặc [Hobbit](../H/Hobbits.md). Mục đích cuối cùng của trò chơi là trở thành một anh hùng liên minh với nhóm có ảnh hưởng trong tựa game, [Bạch Hội Đồng](../W/White_Council.md). Trò chơi ban đầu được dự định phát hành vào cuối năm 2007, trên PlayStation 3, Xbox 360 và PC.
 
-Tuy nhiên, vào [ngày 2 tháng 2](../_/2_February.md), [2007](../_/2007.md)đã có thông báo rằng trò chơi đã bị trì hoãn vô thời hạn. Điều này được cho là do vấn đề quản lý. Do đó, nó được coi là bị hủy bỏ và EA đã làm việc với Pandemia Studios để tạo ra [The Lord of the Rings: Conquest](The_Lord_of_the_Rings%253A_Conquest.md) thay thế.
+Tuy nhiên, vào [ngày 2 tháng 2](../_/2_February.md), [2007](../_/2007.md) đã có thông báo rằng trò chơi đã bị trì hoãn vô thời hạn. Điều này được cho là do vấn đề quản lý. Do đó, nó được coi là bị hủy bỏ và EA đã làm việc với Pandemia Studios để tạo ra [The Lord of the Rings: Conquest](The_Lord_of_the_Rings%253A_Conquest.md) thay thế.
 
 ## Liên kết ngoài {#External_links}
 

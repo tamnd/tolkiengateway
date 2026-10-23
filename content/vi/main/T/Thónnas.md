@@ -51,11 +51,11 @@ Thónnas là tác phẩm độc đáo dành cho phim *[The Lord of the Rings: Th
 
 Thónnas là Đội trưởng [Galadhrim](../G/Galadhrim.md) của [Naith](../N/Naith.md) của [Lothlórien](../L/Lothlórien.md).
 
-Khi [Rohirrim](../R/Rohirrim.md), dưới sự lãnh đạo của [Théoden](Théoden.md) [Vua](../K/King_of_Rohan.md), rút ​​lui về [ Hornburg](../H/Hornburg.md) ở [Helm's Deep](../H/Helm's_Deep.md), [Saruman phe Trắng](../S/Saruman.md) đã cử một đội quân hơn mười nghìn [Uruk-hai](../U/Uruk-hai.md) đến tấn công họ. Khi Chúa [Elrond](../E/Elrond.md) của [Rivendell](../R/Rivendell.md) và Quý bà [Galadriel](../G/Galadriel.md) và Chúa [Celeborn](../C/Celeborn.md) của Lothlórien biết được điều này, họ đã quyết định tôn vinh lòng trung thành lâu đời giữa [Con Người](../M/Men.md) và [Tiên tộc](../E/Elves.md). Họ cử một lực lượng liên hợp gồm Tiên tộc, do [Haldir](../H/Haldir.md)chỉ huy, để hỗ trợ Rohirrim trong trận chiến chống lại quân Uruk. Thónnas là một phần của lực lượng này được cử đến Hornburg.
+Khi [Rohirrim](../R/Rohirrim.md), dưới sự lãnh đạo của [Théoden](Théoden.md) [Vua](../K/King_of_Rohan.md), rút ​​lui về [ Hornburg](../H/Hornburg.md) ở [Helm's Deep](../H/Helm's_Deep.md), [Saruman phe Trắng](../S/Saruman.md) đã cử một đội quân hơn mười nghìn [Uruk-hai](../U/Uruk-hai.md) đến tấn công họ. Khi Chúa [Elrond](../E/Elrond.md) của [Rivendell](../R/Rivendell.md) và Quý bà [Galadriel](../G/Galadriel.md) và Chúa [Celeborn](../C/Celeborn.md) của Lothlórien biết được điều này, họ đã quyết định tôn vinh lòng trung thành lâu đời giữa [Con Người](../M/Men.md) và [Tiên tộc](../E/Elves.md). Họ cử một lực lượng liên hợp gồm Tiên tộc, do [Haldir](../H/Haldir.md) chỉ huy, để hỗ trợ Rohirrim trong trận chiến chống lại quân Uruk. Thónnas là một phần của lực lượng này được cử đến Hornburg.
 
 Trận chiến bắt đầu và Thónnas chiến đấu với Uruks bằng lưỡi kiếm của mình. Trong trận chiến, anh ta bị thương và bắt đầu chảy máu từ miệng nhưng anh ta vẫn tiếp tục chiến đấu.
 
-Cuối cùng, Haldir và phần còn lại của quân tiếp viện Tiên đã bị tiêu diệt trong Trận chiến. Tuy nhiên, những nỗ lực của họ không phải là vô ích, vì một số ít Rohirrim còn sống đã có thể cầm cự cho đến khi [Gandalf](../G/Gandalf.md) đến cùng với [Éored](../_/Éored.md) của [Éomer](../_/Éomer.md)và buộc quân Uruk phải rút lui vào rừng, nơi họ bị giết bởi [Huorn](../H/Huorns.md).
+Cuối cùng, Haldir và phần còn lại của quân tiếp viện Tiên đã bị tiêu diệt trong Trận chiến. Tuy nhiên, những nỗ lực của họ không phải là vô ích, vì một số ít Rohirrim còn sống đã có thể cầm cự cho đến khi [Gandalf](../G/Gandalf.md) đến cùng với [Éored](../_/Éored.md) của [Éomer](../_/Éomer.md) và buộc quân Uruk phải rút lui vào rừng, nơi họ bị giết bởi [Huorn](../H/Huorns.md).
 
 <span></span>
 

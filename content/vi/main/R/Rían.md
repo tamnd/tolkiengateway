@@ -72,7 +72,7 @@ infobox:
 <p class="tg-quote-footer"><cite>Rían&#39;s lament in the &#34;<a href="../T/Túrin_Wrapper.md" title="Túrin Wrapper">Túrin Wrapper</a>&#34;<sup id="cite_ref-wrapper_2-0" class="reference"><a href="#cite_note-wrapper-2">[2]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Rían** là con gái của [Belegund](../B/Belegund.md) của [Nhà Bëor](../H/House_of_Bëor.md),<sup id="cite_ref-Beor_3-0" class="reference"><a href="#cite_note-Beor-3">[3]</a></sup> vợ của [Huor](../H/Huor.md) của [Nhà Hador](../H/House_of_Hador.md)và mẹ của [Tuor](../T/Tuor.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Rían "là một [ca sĩ và người sáng tác các bài hát](../M/Minstrels.md)". Cô có trái tim nhân hậu, không thích chiến tranh hay săn bắn vì cô rất yêu cây cối và hoa dại.<sup id="cite_ref-singer_1-1" class="reference"><a href="#cite_note-singer-1">[1]</a></sup>
+**Rían** là con gái của [Belegund](../B/Belegund.md) của [Nhà Bëor](../H/House_of_Bëor.md),<sup id="cite_ref-Beor_3-0" class="reference"><a href="#cite_note-Beor-3">[3]</a></sup> vợ của [Huor](../H/Huor.md) của [Nhà Hador](../H/House_of_Hador.md) và mẹ của [Tuor](../T/Tuor.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Rían "là một [ca sĩ và người sáng tác các bài hát](../M/Minstrels.md)". Cô có trái tim nhân hậu, không thích chiến tranh hay săn bắn vì cô rất yêu cây cối và hoa dại.<sup id="cite_ref-singer_1-1" class="reference"><a href="#cite_note-singer-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 

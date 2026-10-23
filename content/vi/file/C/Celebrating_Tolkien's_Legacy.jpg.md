@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bìa *[Celebrating Tolkien's Legacy](../../main/C/Celebrating_Tolkien's_Legacy.md)*, do [Nhà xuất bản Cây biết đi](../../main/W/Walking_Tree_Publishers.md)xuất bản.
+Bìa của *[Celebrating Tolkien's Legacy](../../main/C/Celebrating_Tolkien's_Legacy.md)*, được xuất bản bởi [Nhà xuất bản Cây biết đi](../../main/W/Walking_Tree_Publishers.md).
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
 <p>The copyright of this image is most likely owned by the publisher or the artist who created the cover. It is believed that this image,

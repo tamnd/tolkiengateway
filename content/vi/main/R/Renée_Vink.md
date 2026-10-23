@@ -24,7 +24,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Renee_Vink.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/40/Renee_Vink.png/300px-Renee_Vink.png" decoding="async" loading="lazy" width="300" height="240" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/40/Renee_Vink.png/450px-Renee_Vink.png 1.5x, https://tolkiengateway.net/w/images/4/40/Renee_Vink.png 2x" data-file-width="486" data-file-height="389"/></a><figcaption></figcaption></figure>
 
-**Renée Vink**, dịch giả và tác giả của những bí ẩn lịch sử (bằng tiếng Hà Lan), là một trong những thành viên sáng lập của [Unquendor](../U/Unquendor.md). Cô đã xuất bản một cuốn sách về [Richard Wagner](Richard_Wagner.md) và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và dịch đoạn thơ từ *[The Legend of Sigurd &amp; Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.md)* sang tiếng Hà Lan, cũng như [The Fall of Arthur](../T/The_Fall_of_Arthur.md) và [Beowulf](../B/Beowulf%253A_A_Translation_and_Commentary.md)của Tolkien. Trong [1988](../_/1988.md) cô đã được trao Huy chương Vàng của Unquendor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Renée Vink**, dịch giả và tác giả của những bí ẩn lịch sử (bằng tiếng Hà Lan), là một trong những thành viên sáng lập của [Unquendor](../U/Unquendor.md). Cô đã phát hành một cuốn sách về [Richard Wagner](Richard_Wagner.md) và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và dịch đoạn thơ từ *[The Legend of Sigurd &amp; Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.md)* sang tiếng Hà Lan, cũng như [Sự sụp đổ của Arthur](../T/The_Fall_of_Arthur.md) và [Beowulf](../B/Beowulf%253A_A_Translation_and_Commentary.md) của Tolkien. Trong [1988](../_/1988.md) cô đã được trao tặng Huy chương vàng của Unquendor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Ngoài việc dịch sách, cô còn là một dịch giả đàm thoại với trọng tâm là tiếng Thụy Điển.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -49,14 +49,14 @@ Ngoài việc dịch sách, cô còn là một dịch giả đàm thoại với 
 - [2008](../_/2008.md): *[The Ring Goes Ever On: Proceedings of the Tolkien 2005 Conference](../T/The_Ring_Goes_Ever_On%253A_Proceedings_of_the_Tolkien_2005_Conference.md)*
     - "Sự bất tử và cái chết của tình yêu: J.R.R Tolkien và Simone de Beauvoir"
 - [2008](../_/2008.md): *[Lembas Extra: Proceedings of the 5th Unquendor Lustrum](../L/Lembas_Extra%253A_Proceedings_of_the_5th_Unquendor_Lustrum.md)*
-    - "In de Ban van de Nhẫn - Những kiểu dịch thuật cũ và mới"
+    - "In de Ban van de Ring - Những kiểu dịch thuật cũ và mới"
 - [2009](../_/2009.md): *[Tolkien in Poetry and Song](../T/Tolkien_in_Poetry_and_Song.md)*
     - "Tên của cái cây - Thần thoại và Khu vườn Proserpina"
-    - "A Fading Voice – một bài hát Maglor" (thơ)
+    - "Một giọng nói nhạt dần – một bài hát Maglor" (thơ)
 - [2011](../_/2011.md): [*Lembas Extra* 2011](../L/Lembas_Extra_2011.md)
     - "Tolkien đấu với Wagner"
 - [2012](../_/2012.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_8&amp;action=edit&amp;redlink=1" title="Hither Shore 8 (page does not exist)"><i>Bờ này</i> 8</a>
-    - "Người hấp hối Mặt Trời - Huyền thoại Nhẫn của Wagner và Tolkien"
+    - "Cái chết Mặt Trời - Chiếc nhẫn của Wagner và Truyền thuyết về Tolkien"
 - [2012](../_/2012.md): [*Lembas Extra* 2012](../L/Lembas_Extra_2012.md)
     - "Nguồn gốc của Gil-galad - lịch sử văn bản"
 - [2013](../_/2013.md): [*Tolkien Studies*: Tập 10](../T/Tolkien_Studies%253A_Volume_10.md)
@@ -64,11 +64,11 @@ Ngoài việc dịch sách, cô còn là một dịch giả đàm thoại với 
 - [2014](../_/2014.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_10&amp;action=edit&amp;redlink=1" title="Hither Shore 10 (page does not exist)"><i>Bờ này</i> 10</a>
     - "Người hâm mộ tiểu thuyết là lời phê bình"
 - 2015: Lembas 169:
-    - Tolkien ở Zuid-Afrika.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+    - Tolkien ở Zuid-Châu Phi.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - [2019](../_/2019.md): *[Music in Tolkien's Work and Beyond](../M/Music_in_Tolkien's_Work_and_Beyond.md)*
-    - "Vũ điệu và Bài hát: 'The Lay of Leithian' giữa 'The Tale of Tinúviel' và 'Of Beren and Lúthien'"
+    - "Vũ điệu và bài hát: 'The Lay of Leithian' giữa 'The Tale of Tinúviel' và 'Of Beren and Lúthien'"
 - [2019](../_/2019.md): *[Sub-creating Arda](../S/Sub-creating_Arda.md)*
-    - "Tolkien the Tinkerer: Xây dựng thế giới và Kể chuyện"
+    - "Tolkien the Tinkerer: Xây dựng thế giới và kể chuyện"
 
 <br> <span></span>
 

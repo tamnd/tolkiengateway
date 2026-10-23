@@ -36,7 +36,7 @@ infobox:
 
 ## Nền {#Background}
 
-Vào [16 tháng 1](../_/16_January.md) [1938](../_/1938.md) tờ báo *Observer* đã đăng một lá thư của độc giả hỏi về các liên kết *[The Hobbit](../T/The_Hobbit.md)'* với *[Beowulf](<../B/Beowulf_(poem).md>)* và các nhánh thần thoại khác, cũng như nguồn gốc văn học và ngữ văn của [Hobbit](../H/Hobbits.md)của Tolkien.
+Vào [16 tháng 1](../_/16_January.md) [1938](../_/1938.md) tờ báo *Observer* đã đăng một lá thư của độc giả hỏi về các liên kết *[The Hobbit](../T/The_Hobbit.md)'* với *[Beowulf](<../B/Beowulf_(poem).md>)* và các nhánh thần thoại khác, cũng như nguồn gốc văn học và ngữ văn của [Hobbit](../H/Hobbits.md) của Tolkien.
 
 Tolkien đã viết thư trả lời thấu đáo này chỉ nhằm mục đích được chuyển tiếp đến người viết thư ban đầu như một "trò đùa thiếu cân nhắc". Anh ấy đã viết một câu trả lời khác, "ngắn gọn và khá lành mạnh" để xuất bản. Tuy nhiên người biên tập đã không sử dụng nó mà đăng bức thư hài hước "dài và lố bịch" này trên báo vào ngày [20 tháng 2](../_/20_February.md) [1938](../_/1938.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -44,7 +44,7 @@ Tolkien đã viết thư trả lời thấu đáo này chỉ nhằm mục đích
 
 Trong bức thư này, Tolkien đã xác nhận khoản nợ mà anh ta mắc phải *Beowulf*, mặc dù anh ta cho rằng điều đó phần lớn là vô thức. Về Hobbit anh không nhớ chính xác mình 'có ý tưởng' từ đâu và cũng không gặp phải "câu chuyện cổ tích" mà người viết thư mơ hồ nhớ là cũng có những sinh vật có lông tên là "Hobbit" (Tolkien nên nghi ngờ chúng chỉ là những từ đồng âm ngẫu nhiên và chỉ ra rằng Hobbit của anh không sống ở Châu Phi và cũng không có lông).
 
-Tolkien sau đó đưa ra nguồn gốc của một số cái tên mà anh ấy *can* truy tìm: [Gandalf](../G/Gandalf.md) và những người lùn' từ [Elder Edda](../P/Poetic_Edda.md), [Smaug](../S/Smaug.md)từ tiếng Đức *Smugan* ("để chui qua một cái lỗ") và Hobbit' từ "Nguồn gốc rõ ràng" (anh ấy đưa ra "danh sách đầy đủ các gia đình giàu có hơn của họ...: [Baggins](../B/Baggins.md), [Boffin](../B/Boffin.md), [Bolger](../B/Bolger.md), [Bracegirdle](../B/Bracegirdle.md), [Brandybuck](../B/Brandybuck.md), [Burrowes](../B/Burrowes.md), [Chubb](../C/Chubb.md), [Grubb](../G/Grubb.md), [Hornbwer](../H/Hornblower.md), [Proudfoot](../P/Proudfoot.md), [Sackville](../S/Sackville.md) và [Took](../T/Took.md)"). Anh ấy cũng thảo luận về cách sử dụng số nhiều *dwarves*theo phong cách riêng của mình—anh ấy "không biết gì hơn"—và [chữ rune](../R/Runes.md).
+Tolkien sau đó đưa ra nguồn gốc của một số cái tên mà anh ấy *can* truy tìm: [Gandalf](../G/Gandalf.md) và những người lùn' từ [Elder Edda](../P/Poetic_Edda.md), [Smaug](../S/Smaug.md) từ tiếng Đức *Smugan* ("để chui qua một cái lỗ") và Hobbit' từ "Nguồn gốc rõ ràng" (anh ấy đưa ra "danh sách đầy đủ các gia đình giàu có hơn của họ...: [Baggins](../B/Baggins.md), [Boffin](../B/Boffin.md), [Bolger](../B/Bolger.md), [Bracegirdle](../B/Bracegirdle.md), [Brandybuck](../B/Brandybuck.md), [Burrowes](../B/Burrowes.md), [Chubb](../C/Chubb.md), [Grubb](../G/Grubb.md), [Hornbwer](../H/Hornblower.md), [Proudfoot](../P/Proudfoot.md), [Sackville](../S/Sackville.md) và [Took](../T/Took.md)"). Anh ấy cũng thảo luận về cách sử dụng số nhiều *dwarves* theo phong cách riêng của mình—anh ấy "không biết gì hơn"—và [chữ rune](../R/Runes.md).
 
 <span></span>
 

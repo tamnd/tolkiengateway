@@ -40,7 +40,7 @@ Bài hát của **Fíriel** là một bài thơ [Qenya](../Q/Qenya.md)/[Quenya](
 
 ## Lịch sử {#History}
 
-Trong bài tường thuật, chỉ có hai dòng đầu tiên được đưa ra. Chúng được hát bởi Fíriel, thiếu nữ trong gia đình [Elendil](../E/Elendil.md)và là con gái của [Orontor](../O/Orontor.md). Trong khi Elendil và con trai [Herendil](../H/Herendil.md) đang đến gần nhà, họ nghe thấy Fíriel cho đến khi giọng cô cất lên câu hỏi "*O Ilúvatar, hãy cho tôi vào ngày cuối cùng đó, khi Mặt Trời của tôi thất bại?*" Sau đó Elendil nói "*E man antaváro? Anh ấy thực sự sẽ cho tôi cái gì?*" Herendil phàn nàn, nói rằng cô không nên hát những thứ như vậy, vì người dân ở Númenor giờ đang hát rằng [Melko](../M/Melko.md) sẽ quay lại và tặng họ Mặt Trời mãi mãi, nhưng cha anh lại coi thường những lời đó.<sup id="cite_ref-Firiel_1-0" class="reference"><a href="#cite_note-Firiel-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:62–63</sup>
+Trong bài tường thuật, chỉ có hai dòng đầu tiên được đưa ra. Chúng được hát bởi Fíriel, thiếu nữ trong gia đình [Elendil](../E/Elendil.md) và là con gái của [Orontor](../O/Orontor.md). Trong khi Elendil và con trai [Herendil](../H/Herendil.md) đang đến gần nhà, họ nghe thấy Fíriel cho đến khi giọng cô cất lên câu hỏi "*O Ilúvatar, hãy cho tôi vào ngày cuối cùng đó, khi Mặt Trời của tôi thất bại?*" Sau đó Elendil nói "*E man antaváro? Anh ấy thực sự sẽ cho tôi cái gì?*" Herendil phàn nàn, nói rằng cô không nên hát những thứ như vậy, vì người dân ở Númenor giờ đang hát rằng [Melko](../M/Melko.md) sẽ quay lại và tặng họ Mặt Trời mãi mãi, nhưng cha anh lại coi thường những lời đó.<sup id="cite_ref-Firiel_1-0" class="reference"><a href="#cite_note-Firiel-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:62–63</sup>
 
 Bản thảo đầu tiên của bài tường thuật cung cấp toàn bộ bài thơ và bản dịch tiếng Anh, trong khi trong bản sửa đổi Tolkien đã quyết định lược bỏ hầu hết các phần và chỉ để lại hai dòng đầu tiên.<sup id="cite_ref-Firiel_1-1" class="reference"><a href="#cite_note-Firiel-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:71–72</sup> [Helge Fauskanger](../H/Helge_Fauskanger.md) giải thích rằng ngôn ngữ của bài hát này có thể được gọi là "kiểu gần LotR" Quenya, hoặc "Qenya" muộn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -88,7 +88,7 @@ in that day beyond the end when my Sun faileth?
 
 ## Xem thêm {#See_also}
 
-- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 ## Liên kết ngoài {#External_links}
 

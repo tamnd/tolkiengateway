@@ -66,7 +66,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Barahir là cháu trai của [Quản lý](../S/Steward.md) [Faramir](../F/Faramir.md), [Thân vương của Ithilien](../P/Prince_of_Ithilien.md), và Phu nhân [Éowyn](../_/Éowyn.md) của [Rohan](../R/Rohan.md).<sup id="cite_ref-prologue_2-0" class="reference"><a href="#cite_note-prologue-2">[1]</a></sup> Anh ta có thể được đặt theo tên của [một anh hùng nổi tiếng](Barahir.md) của [Kỷ Đệ Nhất](../F/First_Age.md), cha của [Beren](Beren.md)và/hoặc [một trong những người của anh ta tổ tiên](<Barahir_(Steward_of_Gondor).md>) từng giữ chức vụ [Người quản lý cai trị](../R/Ruling_Steward.md) trong [Kỷ Đệ Tam](../T/Third_Age.md).
+Barahir là cháu trai của [Quản lý](../S/Steward.md) [Faramir](../F/Faramir.md), [Thân vương của Ithilien](../P/Prince_of_Ithilien.md), và Phu nhân [Éowyn](../_/Éowyn.md) của [Rohan](../R/Rohan.md).<sup id="cite_ref-prologue_2-0" class="reference"><a href="#cite_note-prologue-2">[1]</a></sup> Anh ta có thể được đặt theo tên của [một anh hùng nổi tiếng](Barahir.md) của [Kỷ Đệ Nhất](../F/First_Age.md), cha của [Beren](Beren.md) và/hoặc [một trong những người của anh ta tổ tiên](<Barahir_(Steward_of_Gondor).md>) từng giữ chức vụ [Người quản lý cai trị](../R/Ruling_Steward.md) trong [Kỷ Đệ Tam](../T/Third_Age.md).
 
 Barahir phát triển mạnh mẽ vào thế kỷ thứ hai của [Kỷ Đệ Tứ](../F/Fourth_Age.md) và sau cái chết của [Vua](../K/Kings_of_Gondor.md) [Aragorn II Elessar](../A/Aragorn_II_Elessar.md) ông là tác giả của *[The Tale of Aragorn and Arwen](../T/The_Tale_of_Aragorn_and_Arwen.md)*.<sup id="cite_ref-prologue_2-1" class="reference"><a href="#cite_note-prologue-2">[1]</a></sup>
 

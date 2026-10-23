@@ -24,7 +24,7 @@ images:
 
 Bản đồ **Númenórë** xuất hiện trong *[Unfinished Tales](../U/Unfinished_Tales.md)*, mô tả hòn đảo [Númenor](Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Bản đồ này được [Christopher Tolkien](../C/Christopher_Tolkien.md) vẽ lại từ bản phác thảo duy nhất của Númenor do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)thực hiện.<sup id="cite_ref-UT_2-0" class="reference"><a href="#cite_note-UT-2">[2]</a></sup>
+Bản đồ này được [Christopher Tolkien](../C/Christopher_Tolkien.md) vẽ lại từ bản phác thảo duy nhất của Númenor do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thực hiện.<sup id="cite_ref-UT_2-0" class="reference"><a href="#cite_note-UT-2">[2]</a></sup>
 
 Bản đồ phác thảo của Númenor chỉ được xuất bản trong cuốn sách [Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md). Nó bao gồm nơi ẩn náu của *[Almaida](../A/Almaida.md)*, dường như không được đề cập ở nơi nào khác trong [huyền thoại](../L/Legendarium.md).<sup id="cite_ref-UT_2-1" class="reference"><a href="#cite_note-UT-2">[2]</a></sup>
 

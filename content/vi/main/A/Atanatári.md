@@ -33,7 +33,7 @@ images:
 
 Cách sử dụng của nó không thực sự rõ ràng: đôi khi nó được dùng để chỉ [Edain](../E/Edain.md) của [Kỷ Đệ Nhất](../F/First_Age.md), đôi khi nó chỉ được áp dụng cho [Bëor](../B/Bëor.md), [Marach](../M/Marach.md) và những người đương thời, và ở những nơi khác, nó được dùng để chỉ những dân tộc mà [Edain](../E/Edain.md) có nguồn gốc từ đó.
 
-Nếu nghĩa thứ ba được chấp nhận, có thể nói rằng cái gọi là [Phần giữa Con Người](../M/Middle_Men.md) của [Trung Địa](../M/Middle-earth.md) ( [Rohirrim](../R/Rohirrim.md), [Con Người](../M/Men.md) của [Dale](../D/Dale.md), v.v.) cũng là hậu duệ của *Atanatári*, giống như *[Edain](../E/Edain.md)* (hoặc [Dúnedain](../D/Dúnedain.md)sau này).
+Nếu nghĩa thứ ba được chấp nhận, có thể nói rằng cái gọi là [Phần giữa Con Người](../M/Middle_Men.md) của [Trung Địa](../M/Middle-earth.md) ( [Rohirrim](../R/Rohirrim.md), [Con Người](../M/Men.md) của [Dale](../D/Dale.md), v.v.) cũng là hậu duệ của *Atanatári*, giống như *[Edain](../E/Edain.md)* (hoặc [Dúnedain](../D/Dúnedain.md) sau này).
 
 Dạng [Sindarin](../S/Sindarin.md) của từ này là <i><b><a class="mw-redirect" href="../E/Edenedair.md" title="Edenedair">Edenedair</a></b></i> (phát âm là <span title="Pronunciation in IPA" class="IPA">[eˈdeneda͡ɪr]</span>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 

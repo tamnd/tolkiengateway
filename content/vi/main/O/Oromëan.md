@@ -13,7 +13,7 @@ categories:
   - "Valarin"
 ---
 
-Trong phiên bản cũ hơn của quan niệm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)về [Ngôn ngữ](../L/Languages.md) của [Trung Địa](../M/Middle-earth.md) như được trình bày trong *[Lhammas](../L/Lhammas.md)*, **Oromëan** là ngành ngôn ngữ mà tất cả các [Elvish](../E/Elvish.md) ngôn ngữ, chẳng hạn như [Qenya](../Q/Qenya.md), [Kornoldorin](../K/Kornoldorin.md) và [Ilkorin](../I/Ilkorin.md), đều thuộc về. Ở đó nó tương phản với [Aulëan](../A/Aulëan.md), ngành ngôn ngữ của [Khuzdul](../K/Khuzdul.md), ngôn ngữ của [Người Lùn](../D/Dwarves.md).
+Trong phiên bản cũ hơn của quan niệm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về [Ngôn ngữ](../L/Languages.md) của [Trung Địa](../M/Middle-earth.md) như được trình bày trong *[Lhammas](../L/Lhammas.md)*, **Oromëan** là ngành ngôn ngữ mà tất cả các [Elvish](../E/Elvish.md) ngôn ngữ, chẳng hạn như [Qenya](../Q/Qenya.md), [Kornoldorin](../K/Kornoldorin.md) và [Ilkorin](../I/Ilkorin.md), đều thuộc về. Ở đó nó tương phản với [Aulëan](../A/Aulëan.md), ngành ngôn ngữ của [Khuzdul](../K/Khuzdul.md), ngôn ngữ của [Người Lùn](../D/Dwarves.md).
 
 Ngôn ngữ Oromëan được đặt tên như vậy vì ngôn ngữ tổ tiên của chúng được cho là bắt nguồn từ lời nói của [Oromë](Oromë.md), [Vala](../V/Valar.md) của Rừng, người là người đầu tiên trong số Valar gặp [Tiên tộc](../E/Elves.md) tại [Cuiviénen](../C/Cuiviénen.md) ở [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

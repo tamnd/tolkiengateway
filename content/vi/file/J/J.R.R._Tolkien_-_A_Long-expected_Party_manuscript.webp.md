@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)bản thảo cuốn [Bữa tiệc được mong đợi từ lâu](../../main/A/A_Long-expected_Party.md), chương đầu tiên trong *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*.
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) bản thảo cuốn [Bữa tiệc được mong đợi từ lâu](../../main/A/A_Long-expected_Party.md), chương đầu tiên trong *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*.
 
 ## Giấy phép {#Licensing}
 

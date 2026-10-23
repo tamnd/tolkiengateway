@@ -12,7 +12,7 @@ categories:
   - "Publications"
 ---
 
-Danh mục này liệt kê tất cả các **ấn phẩm** liên quan đến [Tolkien](../../main/J/J.R.R._Tolkien.md)được sắp xếp theo tiêu đề trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+Danh mục này liệt kê tất cả các **ấn phẩm** liên quan đến [Tolkien](../../main/J/J.R.R._Tolkien.md) được sắp xếp theo tiêu đề trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 
 *Lưu ý: các tạp chí định kỳ, bộ sách trò chơi, lịch và những thứ tương tự chỉ được liệt kê một lần.*
 

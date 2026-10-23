@@ -24,17 +24,17 @@ images:
 
 ## Khóa học {#Course}
 
-Con đường chạy từ cánh cổng khổng lồ phía tây của Barad-dûr qua một cây cầu sắt rộng lớn bắc qua vực sâu, về phía tây qua đồng bằng Gorgoroth cách hai vực sâu hun khói và trên một con đường đắp cao dốc dài dẫn lên phía đông của Núi Doom. Sau đó, nó quay vòng và bao vây ngọn núi từ phía nam, qua phía tây và phía bắc tới một cánh cửa tối tăm, cửa [Sammath Naur](Sammath_Naur.md), ở phía đông của ngọn núi cao theo hình nón, nhưng vẫn cách xa đỉnh núi.<sup id="cite_ref-Doom_3-0" class="reference"><a href="#cite_note-Doom-3">[3]</a></sup>
+Con đường chạy từ cánh cổng khổng lồ phía tây của Barad-dûr qua một cây cầu sắt rộng lớn bắc qua vực thẳm sâu, phía tây qua đồng bằng Gorgoroth cách hai vực sâu hun khói và trên một con đường đắp cao dốc dài dẫn lên phía đông của Núi Doom. Sau đó, nó quay vòng và bao vây ngọn núi từ phía nam, qua phía tây và phía bắc tới một cánh cửa tối tăm, cửa [Sammath Naur](Sammath_Naur.md), ở phía đông của ngọn núi cao theo hình nón, nhưng vẫn cách xa đỉnh núi.<sup id="cite_ref-Doom_3-0" class="reference"><a href="#cite_note-Doom-3">[3]</a></sup>
 
-Sauron Đường rộng rãi, trải bằng tro bụi và gạch vụn vụn. Nó thường bị phong tỏa hoặc phá hủy bởi sự hỗn loạn của ngọn núi, nhưng đã được dọn sạch và sửa chữa bởi các đội [Orc](../O/Orcs.md)lớn. Ở bên trong cánh cửa sườn núi có một hang động hoặc đường hầm dài dẫn vào hình nón bốc khói của núi. Sau một đoạn ngắn, sàn và tường bị cắt bởi một vết nứt lớn Crack of Doom ở Sammath Naur.<sup id="cite_ref-Doom_3-1" class="reference"><a href="#cite_note-Doom-3">[3]</a></sup>
+Sauron Đường rộng rãi, trải bằng tro bụi và gạch vụn vụn. Nó thường bị phong tỏa hoặc phá hủy bởi sự hỗn loạn của ngọn núi, nhưng đã được dọn sạch và sửa chữa bởi các đội [Orc](../O/Orcs.md) lớn. Ở bên trong cánh cửa sườn núi có một hang động hoặc đường hầm dài dẫn vào hình nón bốc khói của núi. Sau một đoạn ngắn, sàn và tường bị cắt bởi một vết nứt lớn Crack of Doom ở Sammath Naur.<sup id="cite_ref-Doom_3-1" class="reference"><a href="#cite_note-Doom-3">[3]</a></sup>
 
 ## Lịch sử {#History}
 
-Vào [25 tháng 3](../_/25_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) [Frodo Baggins](../F/Frodo_Baggins.md) và [Samwise Gamgee](Samwise_Gamgee.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> đến được phía bắc của Núi Doom, Sam cõng Frodo trên lưng lên dốc cho đến khi đến con đường rồi dọc theo con đường đến cửa ở phía đông của ngọn núi.<sup id="cite_ref-Doom_3-2" class="reference"><a href="#cite_note-Doom-3">[3]</a></sup> Sau khi [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) bị phá hủy, họ tiếp tục đi xuống núi cho đến khi không thể đi được xa hơn nữa.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Vào [25 tháng 3](../_/25_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) [Frodo Baggins](../F/Frodo_Baggins.md) và [Samwise Gamgee](Samwise_Gamgee.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> đến được phía bắc của Núi Doom, Sam cõng Frodo trên lưng lên dốc cho đến khi đến con đường rồi men theo con đường đến cửa ở phía đông của ngọn núi.<sup id="cite_ref-Doom_3-2" class="reference"><a href="#cite_note-Doom-3">[3]</a></sup> Sau khi [The One Ring](../T/The_One_Ring.md) bị phá hủy, họ tiếp tục đi xuống núi cho đến khi họ không thể đi xa hơn.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Sauron&#39;s Road has been wrecked by the eruption of <a href="../M/Mount_Doom.md" title="Mount Doom">Mount Doom</a>. The iron bridge had collapsed, and <a class="mw-redirect" href="Sammath_Naur.md" title="Sammath Naur">Sammath Naur</a> is not accessible from the landscape.</dd></dl>
 

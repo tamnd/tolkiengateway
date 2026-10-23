@@ -37,13 +37,13 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Sự suy tàn của Gondor** là cảnh thứ mười hai của [*The Lord of the Rings: The Return of the King* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>). Cảnh này không có trong bộ phim *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*được chiếu rạp.
+**Sự suy tàn của Gondor** là cảnh thứ mười hai của [*The Lord of the Rings: The Return of the King* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>). Cảnh này không có trong bộ phim *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* được chiếu rạp.
 
 ## Tóm tắt {#Synopsis}
 
 [Gandalf](../G/Gandalf.md) rời khỏi [phòng ngai](../H/Hall_of_the_Kings.md) của [Minas Tirith](../M/Minas_Tirith.md) trong cơn giận dữ, mang theo [Pippin](../P/Pippin.md). Anh ta mâu thuẫn với [Denethor](../D/Denethor.md) và tin rằng có khả năng thành phố sẽ sụp đổ do sự điên rồ của người quản lý. Do đó, Gandalf cho biết, <a class="mw-redirect mw-disambig" href="../W/White_Tree.md" title="White Tree">Cây Trắng</a> sẽ không nở hoa nữa. Anh ta nói với Pippin rằng [người Gondor](../G/Gondorians.md) xung quanh nó đang canh giữ nó với niềm hy vọng mong manh rằng nhà vua sẽ đến và nó sẽ nở hoa trở lại. Họ đi dọc theo pháo đài bằng đá khi Gandalf kể cho chàng hobbit trẻ tuổi về sự phân hủy của Gondor.
 
-Từ vị trí thuận lợi, Pippin có thể nhìn rõ [Mordor](../M/Mordor.md). Một lượng lớn đám mây đen được nhìn thấy đến từ Mordor. Gandalf giải thích rằng thời tiết bất thường là do [Sauron](../S/Sauron.md)tạo ra; nó bảo vệ đội quân [orc](../O/Orcs.md) của anh ta, những người trốn tránh ánh sáng ban ngày. Gandalf nói khi đám mây tới thành phố, chiến tranh sẽ bắt đầu. Anh ta nói với Pippin họ sẽ không rời khỏi thành phố và sự trợ giúp đó phải đến với Minas Tirith khi chiến tranh bắt đầu.
+Từ vị trí thuận lợi, Pippin có thể nhìn rõ [Mordor](../M/Mordor.md). Một lượng lớn đám mây đen được nhìn thấy đến từ Mordor. Gandalf giải thích rằng thời tiết bất thường là do [Sauron](../S/Sauron.md) tạo ra; nó bảo vệ đội quân [orc](../O/Orcs.md) của anh ta, những người trốn tránh ánh sáng ban ngày. Gandalf nói khi đám mây tới thành phố, chiến tranh sẽ bắt đầu. Anh ta nói với Pippin họ sẽ không rời khỏi thành phố và sự trợ giúp đó phải đến với Minas Tirith khi chiến tranh bắt đầu.
 
 ## Sự khác biệt {#Differences}
 

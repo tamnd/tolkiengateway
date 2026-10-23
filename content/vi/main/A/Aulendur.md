@@ -23,7 +23,7 @@ langlinks:
     url: "https://kontu.wiki/Aulendur"
 ---
 
-**Aulendur**, là tên được sử dụng cho những người [Noldor](../N/Noldor.md) đã phục vụ [Aulë](Aulë.md)và đổi lại nhận được sự hướng dẫn từ anh ấy. [Mahtan](../M/Mahtan.md) là thành viên duy nhất được nêu tên. Tolkien lần đầu tiên viết từ này là <i><a class="mw-redirect mw-disambig" href="Aulendil.md" title="Aulendil">Aulendil</a></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Aulendur**, là tên được sử dụng cho những người [Noldor](../N/Noldor.md) đã phục vụ [Aulë](Aulë.md) và đổi lại nhận được sự hướng dẫn từ anh ấy. [Mahtan](../M/Mahtan.md) là thành viên duy nhất được nêu tên. Tolkien lần đầu tiên viết từ này là <i><a class="mw-redirect mw-disambig" href="Aulendil.md" title="Aulendil">Aulendil</a></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

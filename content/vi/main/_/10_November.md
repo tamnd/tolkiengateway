@@ -66,17 +66,17 @@ Sự kiện xảy ra vào ngày 10 tháng 11
 - **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 174](../L/Letter_174.md).
 - **[1958](1958.md)** - [C. S. Lewis](../C/C._S._Lewis.md) viết thư cho [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 - **[1963](1963.md)** - *[Hobbits and Heroes](<../T/The_Sunday_Telegraph_(10_November_1963).md>)*, bao gồm các trích đoạn của cuộc phỏng vấn với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được xuất bản trong *The Sunday Telegraph*.
-- **[1968](1968.md)** - *The Gathering of the Clouds*, tập thứ bảy của [loạt phim phát thanh năm 1968](<../T/The_Hobbit_(1968_radio_series).md>) của *[The Hobbit](../T/The_Hobbit.md)*, được phát sóng trên [BBC Radio](../B/BBC.md).
+- **[1968](1968.md)** - *The Gathering of the Clouds*, tập thứ bảy của [loạt phim phát thanh năm 1968](<../T/The_Hobbit_(1968_radio_series).md>) của *[The Hobbit](../T/The_Hobbit.md)*, được phát sóng trên [Đài BBC](../B/BBC.md).
 - **[2003](2003.md)** - *[Secret Fire: The Spiritual Vision of J.R.R. Tolkien](../S/Secret_Fire%253A_The_Spiritual_Vision_of_J.R.R._Tolkien.md)* được xuất bản.
-- **[2006](2006.md)** - [Nhẫn\*Con 2006](../R/Ring%252ACon_2006.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Fulda" title="wikipedia:Fulda">Fulda</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2006](2006.md)** - [Ring\*Con 2006](../R/Ring%252ACon_2006.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Fulda" title="wikipedia:Fulda">Fulda</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 - **[2011](2011.md)** - *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* được phát hành tại Pháp.
 - **[2021](2021.md)** - *[The Lord of the Rings Online: Fate of Gundabad](../T/The_Lord_of_the_Rings_Online%253A_Fate_of_Gundabad.md)* bản mở rộng được phát hành.
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md)tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [2994](../T/Third_Age_2994.md):
     - [Balin](../B/Balin.md), Chúa tể của [Moria](../M/Moria.md), bị giết bởi một cung thủ Orc khi anh ta đứng quan sát trong [Mirrormere](../M/Mirrormere.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Kẻ duy nhất Nhẫn](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

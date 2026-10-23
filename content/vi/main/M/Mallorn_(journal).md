@@ -52,7 +52,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-*Mallorn* được thành lập vào [Tháng 10](../O/October.md) [1970](../_/1970.md) với tư cách là người kế thừa *Belladonna's Broadsheet* của [Vera Chapman](../V/Vera_Chapman.md)để trở thành tạp chí của [Hội Tolkien](../T/The_Tolkien_Society.md). Tuy nhiên, do khó khăn trong việc xuất bản *Mallorn* thường xuyên nên chức năng thông báo cho các thành viên của Hội đã được chuyển sang ấn phẩm mới *[Amon Hen](<../A/Amon_Hen_(journal).md>)* (số đầu tiên được gọi là *[Henneth Annûn](../H/Henneth_Annûn_1.md)*); điều này đã cho phép *Mallorn* tự biến mình thành một ấn phẩm mang tính học thuật hơn như tồn tại ngày nay.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+*Mallorn* được thành lập vào [Tháng 10](../O/October.md) [1970](../_/1970.md) với tư cách là người kế thừa [Vera Chapman](../V/Vera_Chapman.md) của *Belladonna's Broadsheet* để trở thành tạp chí của [Hội Tolkien](../T/The_Tolkien_Society.md). Tuy nhiên, do khó khăn trong việc xuất bản *Mallorn* thường xuyên nên chức năng thông báo cho các thành viên của Hội đã được chuyển sang ấn phẩm mới *[Amon Hen](<../A/Amon_Hen_(journal).md>)* (số đầu tiên được gọi là *[Henneth Annûn](../H/Henneth_Annûn_1.md)*); điều này đã cho phép *Mallorn* tự biến mình thành một ấn phẩm mang tính học thuật hơn như tồn tại ngày nay.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Content}
 
@@ -92,7 +92,7 @@ Do những hạn chế về xuất bản, Gee cũng khuyến nghị rằng các 
 - Len Sanford: [*Mallorn* 37](Mallorn_37.md)–[44](Mallorn_44.md)
 - [Henry Gee](../H/Henry_Gee.md): [*Mallorn* 45](Mallorn_45.md)–[46](Mallorn_46.md)
 - [Henry Gee](../H/Henry_Gee.md) (với Colin Sullivan là nhà thiết kế sản xuất): [*Mallorn* 47](Mallorn_47.md)–[54](Mallorn_54.md)
-- [Helen Armstrong](../H/Helen_Armstrong.md) (với Mike Austin Afford làm biên tập viên sản xuất): [*Mallorn* 55](Mallorn_55.md)
+- [Helen Armstrong](../H/Helen_Armstrong.md) (với Mike Austin Afford là biên tập viên sản xuất): [*Mallorn* 55](Mallorn_55.md)
 - Rosalinda Haddon (với Mike Austin Afford làm biên tập viên sản xuất): [*Mallorn* 56](Mallorn_56.md) - [*Mallorn* 59](Mallorn_59.md)
 - Luke Shelton (với Live Knudsen và Nick Polk): [*Mallorn* 60](Mallorn_60.md) - hiện tại
 

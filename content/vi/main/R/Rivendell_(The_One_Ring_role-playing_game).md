@@ -56,7 +56,7 @@ infobox:
 
 ## Lễ tân {#Reception}
 
-Trong bài đánh giá cho [Other Minds 17](../O/Other_Minds_17.md), trong khi José Enrique Vacas de la Rosa vẫn khuyến nghị mua *Rivendell*, ông nhận thấy cuốn sách kém thỏa mãn hơn so với các phần bổ sung trước đó, cho rằng nó đã cố gắng phân chia số lượng trang hạn chế giữa truyền thuyết và cơ chế mới. Ông cũng nhận thấy rằng nội dung đưa tin về việc xử lý [Dol Guldur](../D/Dol_Guldur.md) của [Bạch Hội Đồng](../W/White_Council.md)mâu thuẫn với [Phụ lục B](../A/Appendix_B.md).<sup id="cite_ref-otherminds_2-0" class="reference"><a href="#cite_note-otherminds-2">[2]</a></sup>
+Trong bài đánh giá cho [Other Minds 17](../O/Other_Minds_17.md), trong khi José Enrique Vacas de la Rosa vẫn khuyến nghị mua *Rivendell*, ông nhận thấy cuốn sách kém thỏa mãn hơn so với các phần bổ sung trước đó, cho rằng nó đã cố gắng phân chia số lượng trang hạn chế giữa truyền thuyết và cơ chế mới. Ông cũng nhận thấy rằng nội dung đưa tin về việc xử lý [Dol Guldur](../D/Dol_Guldur.md) của [Bạch Hội Đồng](../W/White_Council.md) mâu thuẫn với [Phụ lục B](../A/Appendix_B.md).<sup id="cite_ref-otherminds_2-0" class="reference"><a href="#cite_note-otherminds-2">[2]</a></sup>
 
 <span></span>
 

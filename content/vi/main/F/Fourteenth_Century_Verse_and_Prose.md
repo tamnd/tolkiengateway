@@ -47,11 +47,11 @@ infobox:
 
 Có khả năng ấn tượng về cuốn sách này năm 1933 với giấy bọc bụi màu xám chứ không phải giấy màu nâu sau này.
 
-Sách được tái bản ở các định dạng [1923](../_/1923.md), [1924](../_/1924.md), [1927](../_/1927.md)và [1933](../_/1933.md). Các bản sao ngày [1925](../_/1925.md) và [1928](../_/1928.md) cũng đã được báo cáo.
+Sách được tái bản ở các định dạng [1923](../_/1923.md), [1924](../_/1924.md), [1927](../_/1927.md) và [1933](../_/1933.md). Các bản sao ngày [1925](../_/1925.md) và [1928](../_/1928.md) cũng đã được báo cáo.
 
 Các bản sao có bìa màu đỏ sẫm bao gồm bảng thuật ngữ của Tolkien, trong khi các bản sao có bìa màu xanh lam thì không.
 
-Bản đính chính được in trên trang cuối cùng của bản *A Middle English Vocabulary* năm 1922 đã được đưa vào văn bản của bản in *Fourteenth Century Verse &amp; Prose*năm 1923.
+Bản đính chính được in trên trang cuối cùng của bản *A Middle English Vocabulary* năm 1922 đã được đưa vào văn bản của bản in *Fourteenth Century Verse &amp; Prose* năm 1923.
 
 ### Ấn bản lần thứ nhất, ấn tượng thứ 6, 1937 {#First_edition,_6th_impression,_1937}
 

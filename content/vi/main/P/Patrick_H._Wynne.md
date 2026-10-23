@@ -27,7 +27,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Patrick_Wynne"
 ---
 
-**Patrick Howard Wynne** là một trong những nhân vật hàng đầu trong [Elvish Hiệp hội Ngôn ngữ học](../E/Elvish_Linguistic_Fellowship.md) và là đồng biên tập của *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)* (cùng với [Carl F. Hostetter](../C/Carl_F._Hostetter.md), [Christopher Gilson](../C/Christopher_Gilson.md), [Arden R. Smith](../A/Arden_R._Smith.md) và [Bill Welden](../B/Bill_Welden.md)). Anh ấy đã xuất bản nhiều bài báo liên quan đến các ngôn ngữ được phát minh ra của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)và anh ấy là một họa sĩ minh họa khá giỏi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Anh ấy cũng thường xuyên lui tới [danh sách gửi thư Lambengolmor](<../L/Lambengolmor_(mailing_list).md>).
+**Patrick Howard Wynne** là một trong những nhân vật hàng đầu trong [Elvish Hiệp hội Ngôn ngữ học](../E/Elvish_Linguistic_Fellowship.md) và là đồng biên tập của *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)* (cùng với [Carl F. Hostetter](../C/Carl_F._Hostetter.md), [Christopher Gilson](../C/Christopher_Gilson.md), [Arden R. Smith](../A/Arden_R._Smith.md) và [Bill Welden](../B/Bill_Welden.md)). Anh ấy đã xuất bản nhiều bài báo liên quan đến các ngôn ngữ được phát minh ra của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và anh ấy là một họa sĩ minh họa khá giỏi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Anh ấy cũng thường xuyên lui tới [danh sách gửi thư Lambengolmor](<../L/Lambengolmor_(mailing_list).md>).
 
 ## Thư mục {#Bibliography}
 
@@ -71,15 +71,15 @@ langlinks:
 - [1995](../_/1995.md): *[Proceedings of the J.R.R. Tolkien Centenary Conference](Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md)*
     - "Sự phát triển của ngữ pháp trong Tiên tiếng" (với [Christopher Gilson](../C/Christopher_Gilson.md))
 - [1995](../_/1995.md): *[Parma Eldalamberon 11](Parma_Eldalamberon_11.md)*
-    - "Ngữ pháp và từ vựng của Gnomish Lưỡi" (J.R.R. Tolkien, được chỉnh sửa bằng [Christopher Gilson](../C/Christopher_Gilson.md), [Arden R. Smith](../A/Arden_R._Smith.md)và [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
+    - "Ngữ pháp và từ vựng của Gnomish Lưỡi" (J.R.R. Tolkien, được chỉnh sửa bằng [Christopher Gilson](../C/Christopher_Gilson.md), [Arden R. Smith](../A/Arden_R._Smith.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
 - [1998](../_/1998.md): *[Parma Eldalamberon 12](Parma_Eldalamberon_12.md)*
-    - "Qenyaqetsa: Âm vị học và Từ vựng Qenya" (J.R.R. Tolkien, được chỉnh sửa bằng [Christopher Gilson](../C/Christopher_Gilson.md), [Arden R. Smith](../A/Arden_R._Smith.md)và [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
+    - "Qenyaqetsa: Âm vị học và Từ vựng Qenya" (J.R.R. Tolkien, được chỉnh sửa bằng [Christopher Gilson](../C/Christopher_Gilson.md), [Arden R. Smith](../A/Arden_R._Smith.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
 - [2000](../_/2000.md): [*SEVEN: An Anglo-American Literary Review*, Tập 17](../S/SEVEN_17.md)
     - "Tolkien và Esperanto" (với [Arden R. Smith](../A/Arden_R._Smith.md))
 - [2000](../_/2000.md): *[Tolkien's Legendarium: Essays on The History of Middle-earth](../T/Tolkien's_Legendarium.md)*
-    - "Ba Elvish Chế độ câu: *Ann-thennath*, *Minlamad thent / estent*và *Linnod*" (với [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
+    - "Ba Elvish Chế độ câu: *Ann-thennath*, *Minlamad thent / estent* và *Linnod*" (với [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
 - [2001](../_/2001.md): *[Parma Eldalamberon 13](Parma_Eldalamberon_13.md)*
-    - "Các mảnh Noldorin sớm" (J.R.R. Tolkien, được chỉnh sửa bằng [Christopher Gilson](../C/Christopher_Gilson.md), [Bill Welden](../B/Bill_Welden.md)và [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
+    - "Các mảnh Noldorin sớm" (J.R.R. Tolkien, được chỉnh sửa bằng [Christopher Gilson](../C/Christopher_Gilson.md), [Bill Welden](../B/Bill_Welden.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
 - [2002](../_/2002.md): *[Vinyar Tengwar 43](../V/Vinyar_Tengwar_43.md)*
     - "'Lời Niềm Vui': Năm Lời Cầu Nguyện Công Giáo trong Quenya (Phần Một)" (J.R.R. Tolkien, biên tập với [Arden R. Smith](../A/Arden_R._Smith.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
 - [2002](../_/2002.md): *[Vinyar Tengwar 44](../V/Vinyar_Tengwar_44.md)*

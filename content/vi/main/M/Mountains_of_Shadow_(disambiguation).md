@@ -26,7 +26,7 @@ images:
 **Dãy Núi Bóng Tối** có thể chỉ hai dãy núi:
 
 - [Ered Wethrin](../E/Ered_Wethrin.md), bao quanh [Dor-lómin](../D/Dor-lómin.md) và [Mithrim](Mithrim.md) trong [Beleriand](../B/Beleriand.md).
-- Vùng [Ephel Dúath](../E/Ephel_Dúath.md)giáp [Mordor](Mordor.md) về phía nam và phía tây.
+- Vùng [Ephel Dúath](../E/Ephel_Dúath.md) giáp [Mordor](Mordor.md) về phía nam và phía tây.
 
 <hr style="margin-top:15px;"/>
 

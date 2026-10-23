@@ -51,7 +51,7 @@ images:
 <li><a href="../T/The_Palantíri.md" title="The Palantíri">The Palantíri</a></li></ul>
 </td></tr></tbody></table>
 
-**Mô tả đảo Númenor** là một chương trong *[Unfinished Tales](../U/Unfinished_Tales.md)*, được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và được con trai ông, [Christopher Tolkien](../C/Christopher_Tolkien.md)xuất bản sau khi chết. Như tiêu đề đã chỉ ra, nó chứa phần mô tả về hòn đảo [Númenor](../N/Númenor.md), còn được gọi là [Elenna](../E/Elenna.md), bao gồm địa lý, hệ thực vật, động vật và con người.
+**Mô tả đảo Númenor** là một chương trong *[Unfinished Tales](../U/Unfinished_Tales.md)*, được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và được con trai ông, [Christopher Tolkien](../C/Christopher_Tolkien.md) xuất bản sau khi chết. Như tiêu đề đã chỉ ra, nó chứa phần mô tả về hòn đảo [Númenor](../N/Númenor.md), còn được gọi là [Elenna](../E/Elenna.md), bao gồm địa lý, hệ thực vật, động vật và con người.
 
 ## Tóm tắt {#Synopsis}
 
@@ -73,7 +73,7 @@ Vùng giữa đảo là tỉnh lớn nhất và đông dân nhất:
 
 Bắt đầu với Northlands, mỗi mũi đất được mô tả lần lượt: Forostar, nơi [Đại Bàng của Manwë](../E/Eagles_of_Manwë.md) sinh sống và nơi ngọn núi [Sorontil](../S/Sorontil.md) đứng cạnh biển. Andustar, có ba vịnh ở phía tây, vịnh đầu tiên là [Andúnië](Andúnië.md), giữ thành phố cùng tên, lớn nhất hòn đảo và là bến cảng cho [Tiên tộc](../E/Elves.md) của [Eressëa](../T/Tol_Eressëa.md). Ở đây, vẻ đẹp của [Eldalondë](../E/Eldalondë.md) được mô tả, và kho báu lớn nhất của nó là những cái cây hùng vĩ: [Oiolairë](../O/Oiolairë.md), [Lairelossë](../L/Lairelossë.md), [Nessamelda](../N/Nessamelda.md), [Vardarianna](../V/Vardarianna.md), [Taniquelassë](../T/Taniquelassë.md), [Yavannamírë](../Y/Yavannamírë.md) và [Malinornë](../M/Malinornë.md). Hai con sông trên đảo, [Nunduinë](../N/Nunduinë.md) và [Siril](../S/Siril.md), chảy ở hai bên của Hyarnustar, trong khi ở Hyarrostar mọc lên [Laurinquë](../L/Laurinquë.md), một loại cây với mục đích duy nhất là quyến rũ con người bằng vẻ đẹp của nó. Người ta biết rất ít về Orrostar, chỉ có thể trồng ngũ cốc ở vùng lạnh giá này của hòn đảo.
 
-Sau đây là phần mô tả về những người này, hầu hết [Edain](../E/Edain.md) có kỹ năng cưỡi ngựa; tạo hình các loại vũ khí chiến tranh khủng khiếp, đặc biệt là cung tên; và trong việc đóng các con tàu dùng để đi tới [Trung Địa](../M/Middle-earth.md). Con tàu đầu tiên vượt biển là [Vëantur](../V/Vëantur.md). Nhiều vũ khí huyền thoại được cất giữ ở đây, trong số đó có [Tuor rìu](../D/Dramborleg.md) và cung [Bregor](../B/Bregor.md), cũng như [Nhẫn của Barahir](../R/Ring_of_Barahir.md), hiện vật duy nhất còn sót lại [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md).
+Sau đây là phần mô tả về những người này, hầu hết [Edain](../E/Edain.md) có kỹ năng cưỡi ngựa; tạo hình các loại vũ khí chiến tranh khủng khiếp, đặc biệt là cung tên; và trong việc đóng các con tàu dùng để đi tới [Trung Địa](../M/Middle-earth.md). Con tàu đầu tiên vượt biển là [Vëantur](../V/Vëantur.md). Nhiều vũ khí huyền thoại được cất giữ ở đây, trong số đó có [Tuor rìu](../D/Dramborleg.md) và cung [Bregor](../B/Bregor.md), cũng như [Nhẫn Barahir](../R/Ring_of_Barahir.md), hiện vật duy nhất còn sót lại [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md).
 
 ## Xem thêm {#See_also}
 

@@ -30,7 +30,7 @@ Thắt lưng của **Boromir** đã được [tặng](../G/Gifts_of_Galadriel.md
 
 ## Lịch sử {#History}
 
-Trước khi [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) rời đi [Lothlórien](../L/Lothlórien.md), mỗi thành viên của nhóm đã được [Galadriel](../G/Galadriel.md)tặng một món quà. Boromir đã được trao một chiếc thắt lưng vàng mà anh ấy đã mang theo trong cuộc hành trình cho đến khi [Sự tan rã của Hiệp hội](Breaking_of_the_Fellowship.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trước khi [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) rời đi [Lothlórien](../L/Lothlórien.md), mỗi thành viên của nhóm đã được [Galadriel](../G/Galadriel.md) tặng một món quà. Boromir đã được trao một chiếc thắt lưng vàng mà anh ấy đã mang theo trong cuộc hành trình cho đến khi [Sự tan rã của Hiệp hội](Breaking_of_the_Fellowship.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Khi [Aragorn](../A/Aragorn.md), [Gimli](../G/Gimli.md) và [Legolas](../L/Legolas.md) đặt ông vào thuyền chôn cất, chiếc thắt lưng vàng lấp lánh quanh eo ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

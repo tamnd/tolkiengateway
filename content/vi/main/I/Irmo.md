@@ -61,7 +61,7 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="../V/Valaquenta.md" title="Valaquenta">Valaquenta</a>: Of the Valar&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Irmo**, thường được gọi là *[Lórien](<../L/Lórien_(Valinor).md>)* theo tên nơi anh ở, là một [Vala](../V/Valar.md) được mệnh danh là "bậc thầy của những tầm nhìn và ước mơ".
+**Irmo**, thường được gọi là *[Lórien](<../L/Lórien_(Valinor).md>)* theo tên nơi anh ở, là một [Vala](../V/Valar.md) được mệnh danh là "bậc thầy của những tầm nhìn và ước mơ."
 
 ## Lịch sử {#History}
 
@@ -100,11 +100,11 @@ Trong [The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md), <i><b>Lórien Ol
 
 Anh đến Trung Địa trong đợt thứ năm của Valar, cùng với [Tulkas](../T/Tulkas.md), Mandos, *Fui Nienna* (vợ/chồng của Mandos) và [Vána](../V/Vána.md) (vợ/chồng của Oromë). Các đợt trước đó là Melko; rồi Manwë, Varda và dân gian của họ; sau đó là Aulë, Yavanna, Ulmo và người dân của họ (mặc dù chỉ có [Salmar](../S/Salmar.md) đi cùng Ulmo); rồi Ossë, Ónen và quân của họ. Các đợt sau là [Makar](../M/Makar.md) và [Meássë](../M/Meássë.md); và cuối cùng là [Ómar](../_/Ómar.md).<sup id="cite_ref-cov_10-1" class="reference"><a href="#cite_note-cov-10">[10]</a></sup>
 
-Sau sự hủy diệt của [Hai Ngọn Đèn](../T/Two_Lamps.md), Aulë đã tạo ra hai chiếc vạc lớn để chứa ánh sáng còn lại trên thế giới: [Kulullin](../K/Kulullin.md) để lấy vàng và [Silindrin](../S/Silindrin.md) để lấy bạc. Sau đó, họ đào hai cái hố lớn để chuẩn bị cho [Hai Cây](../T/Two_Trees.md). Trong hố thứ hai được đúc ba viên ngọc trai khổng lồ do Ossë tìm thấy và một ngôi sao nhỏ do Varda đúc, sau đó nó được bao phủ bởi bọt và sương trắng và rắc nhẹ đất. Lórien sau đó ngồi gần và thì thầm những lời nhanh chóng không thành tiếng trong khi các yêu tinh của anh chơi những giai điệu nửa nghe được bên cạnh. Sau đó Valar đổ ánh sáng bạc từ Silindrin vào nó.<sup id="cite_ref-cov_10-2" class="reference"><a href="#cite_note-cov-10">[10]</a></sup>
+Sau sự hủy diệt của [Hai Ngọn Đèn](../T/Two_Lamps.md), Aulë đã tạo ra hai chiếc vạc lớn để chứa ánh sáng còn lại trên thế giới: [Kulullin](../K/Kulullin.md) để lấy vàng và [Silindrin](../S/Silindrin.md) để lấy bạc. Sau đó, họ đào hai cái hố lớn để chuẩn bị cho [Hai Cây](../T/Two_Trees.md). Trong hố thứ hai được đúc ba viên ngọc trai khổng lồ do Ossë tìm thấy và một ngôi sao nhỏ do Varda đúc, sau đó nó được bao phủ bởi bọt và sương trắng và rắc nhẹ đất. Lórien sau đó ngồi gần và thì thầm những lời nhanh chóng không thành tiếng trong khi các yêu tinh của anh chơi những giai điệu nửa nghe được bên cạnh anh. Sau đó Valar đổ ánh sáng bạc từ Silindrin vào nó.<sup id="cite_ref-cov_10-2" class="reference"><a href="#cite_note-cov-10">[10]</a></sup>
 
 Nhờ nỗ lực của Yavanna, Hai Cây đã mọc lên. Khi nhìn thấy cây bạc [Silpion](../S/Silpion.md), Lórien không khỏi vui mừng. Khi Yavanna hướng dẫn phải thu thập sương trên cây rồi dùng để tưới cây, Lórien đã yêu cầu [Silmo](../S/Silmo.md), thanh niên mà anh yêu quý, nhận nhiệm vụ giải khát cho Silpion.<sup id="cite_ref-cov_10-3" class="reference"><a href="#cite_note-cov-10">[10]</a></sup>
 
-Trong khi nhiều người Valar có nhà ở được xây dựng ở [Valmar](../V/Valmar.md)thì Lórien lại sống xa về phía nam ở một nơi mà ông gọi là [Murmuran](../M/Murmuran.md). Xung quanh nơi ở của ông là những khu vườn rộng, trong đó có nhiều loại cây và [fumellar](../F/Fumellar.md), hoa anh túc Lórien dùng để làm bùa chú. Những khu vườn này kéo dài đến tận Silindrin, nơi Lórien sẽ ngắm nhìn và nhìn thấy nhiều cảnh tượng huyền bí.<sup id="cite_ref-cov_10-4" class="reference"><a href="#cite_note-cov-10">[10]</a></sup>
+Trong khi nhiều người Valar có nhà ở được xây dựng ở [Valmar](../V/Valmar.md) thì Lórien lại sống xa về phía nam ở một nơi mà ông gọi là [Murmuran](../M/Murmuran.md). Xung quanh nơi ở của ông là những khu vườn rộng, trong đó có nhiều loại cây và [fumellar](../F/Fumellar.md), hoa anh túc Lórien dùng để làm bùa chú. Những khu vườn này kéo dài đến tận Silindrin, nơi Lórien sẽ ngắm nhìn và nhìn thấy nhiều cảnh tượng huyền bí.<sup id="cite_ref-cov_10-4" class="reference"><a href="#cite_note-cov-10">[10]</a></sup>
 
 <span></span>
 

@@ -36,7 +36,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-[Người Lùn Belegost](Dwarves_of_Belegost.md) xuất hiện trong [Trận chiến nước mắt không số](../N/Nirnaeth_Arnoediad.md) đeo mặt nạ có khả năng chống lửa, theo phong tục của họ.<sup id="cite_ref-fifth_1-0" class="reference"><a href="#cite_note-fifth-1">[1]</a></sup> [Các Tiên tộc Nargothrond](../E/Elves_of_Nargothrond.md) sở hữu mặt nạ người lùn, cũng như [thư lùn](Dwarf-mail.md); [Túrin](../T/Túrin.md) [Mormegil](../M/Mormegil.md) tìm thấy một chiếc mặt nạ mạ vàng trong kho vũ khí của [Nargothrond](../N/Nargothrond.md)mà anh ấy đã đeo trước khi ra trận.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tại [Trận Tumhalad](../B/Battle_of_Tumhalad.md), chiếc mặt nạ lùn đã bảo vệ anh ấy khỏi [Glaurung](../G/Glaurung.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Người lùn Belegost](Dwarves_of_Belegost.md) xuất hiện trong [Trận chiến nước mắt không số](../N/Nirnaeth_Arnoediad.md) đeo mặt nạ có khả năng chống lửa, theo phong tục của họ.<sup id="cite_ref-fifth_1-0" class="reference"><a href="#cite_note-fifth-1">[1]</a></sup> [Các Tiên tộc Nargothrond](../E/Elves_of_Nargothrond.md) sở hữu mặt nạ người lùn, cũng như [thư lùn](Dwarf-mail.md); [Túrin](../T/Túrin.md) [Mormegil](../M/Mormegil.md) tìm thấy một chiếc mặt nạ mạ vàng trong kho vũ khí của [Nargothrond](../N/Nargothrond.md) mà anh ấy đã đeo trước khi ra trận.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tại [Trận Tumhalad](../B/Battle_of_Tumhalad.md), chiếc mặt nạ lùn đã bảo vệ anh ấy khỏi [Glaurung](../G/Glaurung.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Lễ đăng quang của [Aragorn](../../main/A/Aragorn.md)vào *[The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
+Lễ đăng quang của [Aragorn](../../main/A/Aragorn.md) vào *[The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
 
 ## Giấy phép {#Licensing}
 

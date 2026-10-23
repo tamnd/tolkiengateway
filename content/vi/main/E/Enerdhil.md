@@ -35,7 +35,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../N/Noldor.md" title="Noldor">Noldo</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Enerdhil</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data">Jewel-smith</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../G/Gondolin.md" title="Gondolin">Gondolin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../N/Noldor.md" title="Noldor">Noldor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Notable for</th><td class="tg-infobox-data">Making of the original <a href="Elfstone.md" title="Elfstone">Elessar</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Enerdhil** là một thợ kim hoàn [Noldorin](../N/Noldor.md) huyền thoại của [Gondolin](../G/Gondolin.md), người chịu trách nhiệm tạo ra [Elessar](Elfstone.md)nguyên bản.
+**Enerdhil** là một thợ kim hoàn [Noldorin](../N/Noldor.md) huyền thoại của [Gondolin](../G/Gondolin.md), người chịu trách nhiệm tạo ra [Elessar](Elfstone.md) nguyên bản.
 
 ## Lịch sử {#History}
 

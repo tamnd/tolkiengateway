@@ -43,7 +43,7 @@ Bản đồ được phóng to gấp 5 lần so với [Bản đồ chung của T
 
 Không giống như các bản đồ tổng quát hoặc khu vực khác có tính chất bán tranh,<sup id="cite_ref-L161_6-0" class="reference"><a href="#cite_note-L161-6">[5]</a></sup> bản đồ này được vẽ giống như một <a class="extiw" href="http://en.wikipedia.org/wiki/Topographic_map" title="wikipedia:Topographic map">bản đồ địa hình</a>, với những ngọn núi được mô tả bằng <a class="extiw" href="http://en.wikipedia.org/wiki/Contour_line" title="wikipedia:Contour line">đường đồng mức</a>chi tiết, thể hiện độ cao.
 
-Đặc điểm chính của nó là [Dãy Núi Trắng](../W/White_Mountains.md), được bao quanh bởi hầu hết [Gondor](../G/Gondor.md) (như vào cuối [Kỷ Đệ Tam](../T/Third_Age.md)), phía đông nam [Rohan](../R/Rohan.md)và phía tây bắc [Mordor](Mordor.md).
+Đặc điểm chính của nó là [Dãy Núi Trắng](../W/White_Mountains.md), được bao quanh bởi hầu hết [Gondor](../G/Gondor.md) (như vào cuối [Kỷ Đệ Tam](../T/Third_Age.md)), phía đông nam [Rohan](../R/Rohan.md) và phía tây bắc [Mordor](Mordor.md).
 
 ## Ghi chú {#Notes}
 

@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong thư gửi [Rayner Unwin](../R/Rayner_Unwin.md)này, Tolkien xin lỗi vì sự chậm trễ trong việc hoàn thành các bản đồ cần thiết cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Ông giải thích rằng nhiệm vụ này đòi hỏi phải đọc lại toàn bộ văn bản và tạo ra một chỉ mục sơ bộ về tên địa điểm và khoảng cách. Ông cũng bày tỏ lo ngại về hình dạng và tỷ lệ của các bản đồ không phù hợp với định dạng đề xuất của cuốn sách và yêu cầu lời khuyên và hỗ trợ để giải quyết những vấn đề này. <br>
+Trong thư gửi [Rayner Unwin](../R/Rayner_Unwin.md) này, Tolkien xin lỗi vì sự chậm trễ trong việc hoàn thành các bản đồ cần thiết cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Ông giải thích rằng nhiệm vụ này đòi hỏi phải đọc lại toàn bộ văn bản và tạo ra một chỉ mục sơ bộ về tên địa điểm và khoảng cách. Ông cũng bày tỏ lo ngại về hình dạng và tỷ lệ của các bản đồ không phù hợp với định dạng đề xuất của cuốn sách và yêu cầu lời khuyên và hỗ trợ để giải quyết những vấn đề này. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

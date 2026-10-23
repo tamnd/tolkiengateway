@@ -23,7 +23,7 @@ images:
 
 **Merry và thắt lưng của Pippin** là những [quà tặng](../G/Gifts_of_Galadriel.md) [Merry](Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) nhận được từ [Galadriel](../G/Galadriel.md).
 
-Trước khi [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) rời đi [Lothlórien](../L/Lothlórien.md), mỗi thành viên của nhóm đã được [Galadriel](../G/Galadriel.md)tặng một món quà. [Merry](Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) được tặng "thắt lưng bạc nhỏ, mỗi chiếc có móc cài hình bông hoa vàng".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+Trước khi [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) rời đi [Lothlórien](../L/Lothlórien.md), mỗi thành viên của nhóm đã được [Galadriel](../G/Galadriel.md) tặng một món quà. [Merry](Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) được tặng "thắt lưng bạc nhỏ, mỗi chiếc có móc cài hình bông hoa vàng".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

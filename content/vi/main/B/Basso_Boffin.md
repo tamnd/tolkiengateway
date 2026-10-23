@@ -48,7 +48,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Basso là con thứ hai của [Buffo Boffin](Buffo_Boffin.md) và [Ivy Goodenough](../I/Ivy_Goodenough.md). Người ta cho rằng anh ta đã ra khơi vào [S.R.](../S/Shire_Reckoning.md) [1195](../T/Third_Age_2795.md)và không còn tin tức gì nữa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Basso là con thứ hai của [Buffo Boffin](Buffo_Boffin.md) và [Ivy Goodenough](../I/Ivy_Goodenough.md). Người ta cho rằng anh ta đã ra khơi vào [S.R.](../S/Shire_Reckoning.md) [1195](../T/Third_Age_2795.md) và không còn tin tức gì nữa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

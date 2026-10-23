@@ -29,7 +29,7 @@ images:
 
 **Những khuôn mặt chết**, còn được gọi là **Những ngọn nến xác chết**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> hoặc **những ngọn nến của xác chết**, là hiện thân của những khuôn mặt [ma quái](../G/Ghosts.md) của các chiến binh [Tiên](../E/Elves.md), [Mannish](../M/Men.md) và [Orcish](../O/Orcs.md) đã chết trong [Mere of Dead Các khuôn mặt](../M/Mere_of_Dead_Faces.md) trong [Đầm lầy Chết](Dead_Marshes.md). Những khuôn mặt thối rữa và vặn vẹo, với cỏ dại vướng vào tóc, xuất hiện trong làn nước tối, được chiếu sáng bởi ánh sáng nhợt nhạt và rơi xuống, như từ những ngọn nến vô hình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Gollum](../G/Gollum.md) kể cho [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Sam_Gamgee.md) rằng cách đây đã lâu đã có một [trận chiến lớn](../B/Battle_of_Dagorlad.md) trong đó Con Người, Tiên tộc và Orc đã chiến đấu trong nhiều tháng tại [Cổng Đen](../B/Black_Gate.md) và rằng đầm lầy đã mở rộng kể từ trận chiến và đã nuốt chửng mộ của những chiến binh đã ngã xuống trong trận chiến. Làm thế nào mà những chiến binh đã chết lại biến thành những sinh vật [xác sống](../U/Undead.md) như vậy vẫn chưa được biết. Sam nói rằng Người chết thực sự không thể ở đó, bởi vì trận chiến đã diễn ra cách đây nhiều năm và hỏi liệu sự hiện diện của Con Người, Tiên tộc và Orc người chết trong đầm lầy có phải là "ma quỷ nở ra ở Vùng đất bóng tối" hay không, có thể ám chỉ đến nghệ thuật hắc ám của [Sauron](../S/Sauron.md)ở [Mordor](../M/Mordor.md)gần đó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Gollum](../G/Gollum.md) kể cho [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Sam_Gamgee.md) rằng cách đây đã lâu đã có một [trận chiến lớn](../B/Battle_of_Dagorlad.md) trong đó Con Người, Tiên tộc và Orc đã chiến đấu trong nhiều tháng tại [Cổng Đen](../B/Black_Gate.md) và rằng đầm lầy đã mở rộng kể từ trận chiến và đã nuốt chửng mộ của những chiến binh đã ngã xuống trong trận chiến. Làm thế nào mà những chiến binh đã chết lại biến thành những sinh vật [xác sống](../U/Undead.md) như vậy vẫn chưa được biết. Sam nói rằng Người chết thực sự không thể ở đó, bởi vì trận chiến đã diễn ra cách đây nhiều năm và hỏi liệu sự hiện diện của Con Người, Tiên tộc và Orc người chết trong đầm lầy có phải là "ma quỷ nở ra ở Vùng đất bóng tối" hay không, có thể ám chỉ đến nghệ thuật hắc ám của [Sauron](../S/Sauron.md) ở [Mordor](../M/Mordor.md) gần đó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -57,7 +57,7 @@ Trong phiên bản trước của cùng bài thơ, cụm từ [Qenya](../Q/Qenya
 
 <dl><dd>The faces of the dead are classified as phantoms, a subdivision of ghosts.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Corpse-candles are a form of the Dead, floating balls of light that haunt marshes and grave-sites, swarming around the player.</dd></dl>
 

@@ -23,12 +23,12 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 ## Mùa xuân {#Spring}
 
 - [Beren](../B/Beren.md) nghe thấy [Lúthien](../L/Lúthien.md) tiếng hát và tỉnh dậy sau cơn hôn mê. Họ yêu nhau.<sup id="cite_ref-Beren_1-0" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
-- [Thingol](../T/Thingol.md) ra lệnh cho [Beren](../B/Beren.md) quay lại với một [Silmaril](../S/Silmaril.md) để đổi lấy [Lúthien](../L/Lúthien.md)bàn tay kết hôn. [Cuộc truy tìm Silmaril](../Q/Quest_for_the_Silmaril.md).<sup id="cite_ref-Beren_1-1" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
+- [Thingol](../T/Thingol.md) ra lệnh cho [Beren](../B/Beren.md) quay lại với một [Silmaril](../S/Silmaril.md) để đổi lấy [Lúthien](../L/Lúthien.md) bàn tay kết hôn. [Cuộc truy tìm Silmaril](../Q/Quest_for_the_Silmaril.md).<sup id="cite_ref-Beren_1-1" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
 
 ## Mùa thu {#Autumn}
 
 - [Beren](../B/Beren.md) khởi hành [Nargothrond](../N/Nargothrond.md) cùng với [Finrod](Finrod.md) và mười người đồng hành (bao gồm [Edrahil](../E/Edrahil.md)). Finrod bổ nhiệm [Orodreth](../O/Orodreth.md) làm nhiếp chính.<sup id="cite_ref-Beren_1-2" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
-- Đến [Tol-in-Gaurhoth](../T/Tol-in-Gaurhoth.md), Beren, Finrod và đồng đội bị [Sauron](../S/Sauron.md)bắt giữ.<sup id="cite_ref-Beren_1-3" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
+- Đến [Tol-in-Gaurhoth](../T/Tol-in-Gaurhoth.md), Beren, Finrod và đồng đội bị [Sauron](../S/Sauron.md) bắt giữ.<sup id="cite_ref-Beren_1-3" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
 - [Lúthien](../L/Lúthien.md) rời khỏi [Doriath](../D/Doriath.md) tìm kiếm [Beren](../B/Beren.md); cô gặp [Celegorm](../C/Celegorm.md) và [Curufin](../C/Curufin.md) những người đưa cô đến [Nargothrond](../N/Nargothrond.md). Cô trốn thoát Nargothrond với sự trợ giúp của [Huan](../H/Huan.md).<sup id="cite_ref-Beren_1-4" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
 - Cái chết của [Finrod](Finrod.md) và mười người bạn đồng hành của anh ta trong Tol-in-Gaurhoth.<sup id="cite_ref-Beren_1-5" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
 - [Huan](../H/Huan.md) và [Lúthien](../L/Lúthien.md) đến [Tol-in-Gaurhoth](../T/Tol-in-Gaurhoth.md). Huan giết [Draugluin](../D/Draugluin.md) và đánh bại sói-Sauron trong trận chiến; Sauron bỏ trốn trong hình dạng [ma cà rồng](../V/Vampires.md) và đi đến <a class="mw-redirect mw-disambig" href="../T/Taur-nu-Fuin.md" title="Taur-nu-Fuin">Taur-nu-Fuin</a>.<sup id="cite_ref-Beren_1-6" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>

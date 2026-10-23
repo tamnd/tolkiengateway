@@ -74,7 +74,7 @@ Trong số 30 bài thơ, bài hát trong tuyển tập, có 13 bài do Tolkien �
 12. *[Frenchmen Froth](../F/Frenchmen_Froth.md)* #26 — giai điệu: *The Vicar of Bray*.
 13. [Hai kế hoạch nhỏ: *Lit' and Lang'*](../L/Lit'_and_Lang'.md) #28 — giai điệu: *Polly Put the Kettle On*.
 
-Bốn trong số các bài hát (*Bagme Bloma*, *Éadig Béo Þu!*, *Ides Ælfscýne*, và *Ofer Wídne Gársecg*) đã được in lại, với bản dịch tiếng Anh hiện đại, trong cuốn sách *[The Road to Middle-earth](../T/The_Road_to_Middle-earth.md)*của [Tom Shippey](../T/Tom_Shippey.md). Shippey cũng đã kết hợp các sửa đổi và thay đổi đối với những bài hát này do chính Tolkien thực hiện.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Bốn trong số các bài hát (*Bagme Bloma*, *Éadig Béo Þu!*, *Ides Ælfscýne*, và *Ofer Wídne Gársecg*) đã được in lại, với bản dịch tiếng Anh hiện đại, trong cuốn sách *[The Road to Middle-earth](../T/The_Road_to_Middle-earth.md)* của [Tom Shippey](../T/Tom_Shippey.md). Shippey cũng đã kết hợp các sửa đổi và thay đổi đối với những bài hát này do chính Tolkien thực hiện.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Các bài hát còn lại {#The_remaining_songs}
 

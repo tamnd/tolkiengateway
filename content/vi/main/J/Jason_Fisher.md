@@ -24,7 +24,7 @@ sort_keys:
   "People by name": "Fisher, Jason"
 ---
 
-**Jason Fisher** là một học giả độc lập người Mỹ chuyên về [J.R.R. Tolkien](J.R.R._Tolkien.md), [Inklings](../I/Inklings.md)và ngữ văn Đức thời Trung cổ. Anh ấy điều hành blog *Lingwë - Musings of a Fish*.
+**Jason Fisher** là một học giả độc lập người Mỹ chuyên về [J.R.R. Tolkien](J.R.R._Tolkien.md), [Inklings](../I/Inklings.md) và ngữ văn Đức thời Trung cổ. Anh ấy điều hành blog *Lingwë - Musings of a Fish*.
 
 Fisher là biên tập viên của *[Mythprint](../M/Mythprint.md)*, bản tin hàng tháng của [Hiệp hội Thần thoại](../M/Mythopoeic_Society.md), từ [2010](../_/2010.md) đến [2013](../_/2013.md).
 

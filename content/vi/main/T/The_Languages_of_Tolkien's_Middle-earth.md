@@ -45,7 +45,7 @@ infobox:
 
 ## Từ Nhà xuất bản {#From_the_Publisher}
 
-Đây là cuốn sách về tất cả các ngôn ngữ do [Tolkien](../J/J.R.R._Tolkien.md)phát minh, được sử dụng bởi [Hobbit](../H/Hobbits.md), [Tiên tộc](../E/Elves.md)và [Con Người](../M/Men.md) của [Trung Địa](../M/Middle-earth.md)—một từ điển gồm 14 ngôn ngữ, một bảng chú giải tiếng Anh-[Elvish](../E/Elvish.md), tất cả [Chữ Rune](../R/Runes.md) và bảng chữ cái cũng như tài liệu về Tolkien nhà ngôn ngữ học.
+Đây là cuốn sách về tất cả các ngôn ngữ do [Tolkien](../J/J.R.R._Tolkien.md) phát minh, được sử dụng bởi [Hobbit](../H/Hobbits.md), [Tiên tộc](../E/Elves.md) và [Con Người](../M/Men.md) của [Trung Địa](../M/Middle-earth.md)—một từ điển gồm 14 ngôn ngữ, một bảng chú giải tiếng Anh-[Elvish](../E/Elvish.md), tất cả [Chữ Rune](../R/Runes.md) và bảng chữ cái cũng như tài liệu về Tolkien nhà ngôn ngữ học.
 
 ## Phiên bản {#Editions}
 

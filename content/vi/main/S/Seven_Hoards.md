@@ -15,7 +15,7 @@ categories:
 
 **Bảy Hoards của các vị vua Người lùn** là kho báu huyền thoại của [Người Lùn](../D/Dwarves.md). Cái tên gợi ý rằng mỗi kho báu thuộc về một trong bảy [Người lùn gia tộc](../../category/D/Dwarven_clans.md). Như người ta nói, nền tảng của mỗi kho báu là một chiếc nhẫn vàng, và chúng có lẽ được thu thập nhờ [Bảy Chiếc Nhẫn](Seven_Rings.md) được Người Lùn trao cho [Sauron](Sauron.md) vào [Thời thứ hai](Second_Age.md).
 
-Đến [Kỷ Đệ Tam](../T/Third_Age.md), các kho báu đã bị [Rồng](../D/Dragons.md)cướp bóc và nuốt chửng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Đến [Kỷ Đệ Tam](../T/Third_Age.md), các kho báu đã bị [Rồng](../D/Dragons.md) cướp bóc và nuốt chửng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 [Smaug](Smaug.md) đã từng sở hữu một kho báu của người lùn, nhưng không biết liệu nó có phải là một trong Bảy Kho báu hay không.
 

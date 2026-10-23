@@ -61,4 +61,4 @@ Cuộc chia tay này là một nỗi buồn vô cùng lớn đối với Túrin.
 
 Hội trường [Menegroth](../M/Menegroth.md) ở trung tâm Doriath là một kỳ quan đối với chàng trai trẻ Tùrin và ở đó Thingol đã nhận cậu làm con nuôi và trao cho cậu vũ khí và nơi ở, vì cái tên Húrin rất nổi tiếng. Mặc dù đã được gửi lại cho Morwen rằng con trai cô vẫn an toàn và cô có thể đến Doriath, cô sẽ không rời bỏ Dor-lómin – đứa con mới sinh của cô, [Niënor](../N/Nienor.md), em gái của Túrin, chỉ là một đứa trẻ sơ sinh và cô vẫn chung thủy với Húrin.
 
-Nỗi buồn thứ hai của Túrin là khi nghe tin mẹ mình sẽ ở lại Dor-lómin; nhưng thay vào đó, cô ấy đã gửi đến Túrin chiếc [Helm có huy hiệu rồng của Hador](../H/Helm_of_Hador.md), do [Telchar](Telchar.md)chế tác, làm vật gia truyền của ngôi nhà của họ.
+Nỗi buồn thứ hai của Túrin là khi nghe tin mẹ mình sẽ ở lại Dor-lómin; nhưng thay vào đó, cô ấy đã gửi đến Túrin chiếc [Helm có huy hiệu rồng của Hador](../H/Helm_of_Hador.md), do [Telchar](Telchar.md) chế tác, làm vật gia truyền của ngôi nhà của họ.

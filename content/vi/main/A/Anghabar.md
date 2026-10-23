@@ -27,7 +27,7 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo:geographie:reliefs:beleriand:anghabar"
 ---
 
-**Anghabar** là một mỏ ở phần phía bắc của [Echoriath](../E/Echoriath.md), hay [Bao quanh Dãy Núi](../E/Encircling_Mountains.md) của [Gondolin](../G/Gondolin.md). Chính việc tìm kiếm quặng quý trên núi của [Maeglin](../M/Maeglin.md)đã khiến anh phát hiện ra một vỉa sắt cứng phong phú ở phần phía bắc của dãy núi. Từ mỏ Anghabar, lượng sắt đó đã được khai thác và sử dụng để tăng cường, cải tiến vũ khí của Gondolin, sẵn sàng cho những trận chiến liều lĩnh và hủy diệt trong những năm cuối của [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Anghabar** là một mỏ ở phần phía bắc của [Echoriath](../E/Echoriath.md), hay [Bao quanh Dãy Núi](../E/Encircling_Mountains.md) của [Gondolin](../G/Gondolin.md). Chính việc tìm kiếm quặng quý trên núi của [Maeglin](../M/Maeglin.md) đã khiến anh phát hiện ra một vỉa sắt cứng phong phú ở phần phía bắc của dãy núi. Từ mỏ Anghabar, lượng sắt đó đã được khai thác và sử dụng để tăng cường, cải tiến vũ khí của Gondolin, sẵn sàng cho những trận chiến liều lĩnh và hủy diệt trong những năm cuối của [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

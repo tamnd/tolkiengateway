@@ -41,7 +41,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_The_Road_Goes_Ever_On-2023.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9d/Mat%C4%9Bj_%C4%8Cadil_-_The_Road_Goes_Ever_On-2023.jpg/300px-Mat%C4%9Bj_%C4%8Cadil_-_The_Road_Goes_Ever_On-2023.jpg" decoding="async" loading="lazy" width="300" height="455" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9d/Mat%C4%9Bj_%C4%8Cadil_-_The_Road_Goes_Ever_On-2023.jpg/450px-Mat%C4%9Bj_%C4%8Cadil_-_The_Road_Goes_Ever_On-2023.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9d/Mat%C4%9Bj_%C4%8Cadil_-_The_Road_Goes_Ever_On-2023.jpg/600px-Mat%C4%9Bj_%C4%8Cadil_-_The_Road_Goes_Ever_On-2023.jpg 2x" data-file-width="1000" data-file-height="1516"/></a><figcaption>&#34;The Road Goes Ever On&#34; by <a href="../../category/I/Images_by_Matěj_Čadil.md" title="Category:Images by Matěj Čadil">Matěj Čadil</a></figcaption></figure>
 
-**The Road Goes Ever On** là một **bài hát đi bộ** của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được viết hư cấu bởi [Bilbo Baggins](../B/Bilbo_Baggins.md); những câu trong đó được hát ở nhiều nơi trong *[The Hobbit](The_Hobbit.md)* và *[The Lord of the Rings](The_Lord_of_the_Rings.md)*. Bài thơ này được [Donald Swann](../D/Donald_Swann.md)phổ nhạc;<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> bản nhạc và bản ghi âm là một phần của chu trình bài hát được đặt tên phù hợp là *[The Road Goes Ever On, A Song Cycle](<The_Road_Goes_Ever_On_(book).md>)*.
+**The Road Goes Ever On** là một **bài hát đi bộ** của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được viết hư cấu bởi [Bilbo Baggins](../B/Bilbo_Baggins.md); những câu trong đó được hát ở nhiều nơi trong *[The Hobbit](The_Hobbit.md)* và *[The Lord of the Rings](The_Lord_of_the_Rings.md)*. Bài thơ này được [Donald Swann](../D/Donald_Swann.md) phổ nhạc;<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> bản nhạc và bản ghi âm là một phần của chu trình bài hát được đặt tên phù hợp là *[The Road Goes Ever On, A Song Cycle](<The_Road_Goes_Ever_On_(book).md>)*.
 
 ## *The Hobbit* {#The_Hobbit}
 
@@ -88,7 +88,7 @@ And whither then? I cannot say.<sup id="cite_ref-3" class="reference"><a href="#
 </p>
 </div>
 
-Phiên bản thứ hai giống hệt ngoại trừ việc thay đổi từ “háo hức” thành “mệt mỏi” ở dòng thứ năm. Nó được [Frodo](../F/Frodo_Baggins.md)nói to, chậm rãi, khi anh và những người bạn đồng hành dừng lại trên đường đến [Crickhollow](../C/Crickhollow.md), nhìn xa hơn những vùng đất mà một số người trong số họ chưa từng thấy trước đây.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Phiên bản thứ hai giống hệt ngoại trừ việc thay đổi từ “háo hức” thành “mệt mỏi” ở dòng thứ năm. Nó được [Frodo](../F/Frodo_Baggins.md) nói to, chậm rãi, khi anh và những người bạn đồng hành dừng lại trên đường đến [Crickhollow](../C/Crickhollow.md), nhìn xa hơn những vùng đất mà một số người trong số họ chưa từng thấy trước đây.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Phiên bản thứ ba được Bilbo nói trong Rivendell sau khi người Hobbit trở về từ cuộc hành trình của họ. Bilbo bây giờ là một hobbit già buồn ngủ, lẩm bẩm câu thơ rồi ngủ thiếp đi.
 

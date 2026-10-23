@@ -42,13 +42,13 @@ images:
 <p class="tg-quote-footer"><cite><a href="../L/Legolas.md" title="Legolas">Legolas</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Ngôn ngữ Rohan có nguồn gốc từ ngôn ngữ của [Éothéod](../_/Éothéod.md), nằm trong số [Người phương Bắc](../N/Northmen.md) và có liên quan đến các ngôn ngữ Người phương Bắc khác, chẳng hạn như ngôn ngữ của [Rhovanion](Rhovanion.md), [Esgaroth](../L/Lake-town.md)và [Dale](../D/Dale.md).
+Ngôn ngữ Rohan có nguồn gốc từ ngôn ngữ của [Éothéod](../_/Éothéod.md), nằm trong số [Người phương Bắc](../N/Northmen.md) và có liên quan đến các ngôn ngữ Người phương Bắc khác, chẳng hạn như ngôn ngữ của [Rhovanion](Rhovanion.md), [Esgaroth](../L/Lake-town.md) và [Dale](../D/Dale.md).
 
 Những [Hobbit](../H/Hobbits.md) trước [Những ngày lang thang](../W/Wandering_Days.md) của họ ở [Thung lũng Anduin](../V/Vales_of_Anduin.md) đã tiếp xúc với dân tộc đó và ngôn ngữ của họ có nhiều từ chung. Ví dụ: Rohirrim đã giữ lại truyền thuyết về sinh vật được gọi là *[kûd-dûkan](../K/Kûd-dûkan.md)* (được dịch là *hol-bytla*), một thuật ngữ đã trở thành *[kuduk](../K/Kuduk.md)* bởi Hobbit, tên mà họ đặt cho chính mình.
 
 Nhiều cái tên [Hobbit](../H/Hobbits.md) cổ xưa có nét tương đồng với tên Rohan, vì tổ tiên của [The Shire](../T/The_Shire.md) hobbit sống ở thượng nguồn của [Anduin](../A/Anduin.md), gần với tổ tiên của Rohirrim, và rõ ràng có rất nhiều sự giao thoa ngôn ngữ.
 
-Mặc dù có mối quan hệ với [Westron](../W/Westron.md)nhưng ngôn ngữ Rohan không dễ hiểu đối với người nói. [Legolas](../L/Legolas.md) không thể hiểu được bài hát, tuy nhiên anh lưu ý rằng ngôn ngữ cũng giống như chính mảnh đất: một phần trù phú và nhấp nhô, một phần cứng rắn và khắc nghiệt như núi.
+Mặc dù có mối quan hệ với [Westron](../W/Westron.md) nhưng ngôn ngữ Rohan không dễ hiểu đối với người nói. [Legolas](../L/Legolas.md) không thể hiểu được bài hát, tuy nhiên anh lưu ý rằng ngôn ngữ cũng giống như chính mảnh đất: một phần trù phú và nhấp nhô, một phần cứng rắn và khắc nghiệt như núi.
 
 ## Cấu trúc {#Structure}
 
@@ -76,7 +76,7 @@ Tolkien đã biến tên trong ngôn ngữ Rohan thành tên tiếng Anh cổ hi
 
 Một số từ có đuôi số nhiều là "-as", cũng như các danh từ tiếng Anh cổ ở dạng biến cách mạnh mẽ-nam tính.
 
-Rohirrim sử dụng từ viết tắt tiếng Đức "-ing". Họ tự gọi mình là **[Eorlingas](../E/Eorlingas.md)**, và người của [Beorn](../B/Beorn.md)là **[Beornings](../B/Beornings.md)**, người của Scyld là Scyldingas trong Bắc Âu và Anglo-Saxon thần thoại.
+Rohirrim sử dụng từ viết tắt tiếng Đức "-ing". Họ tự gọi mình là **[Eorlingas](../E/Eorlingas.md)**, và người của [Beorn](../B/Beorn.md) là **[Beornings](../B/Beornings.md)**, người của Scyld là Scyldingas trong Bắc Âu và Anglo-Saxon thần thoại.
 
 [Théoden](../T/Théoden.md) được gọi là "Théoden Vua", thay vì "Vua Théoden", giống như các vị vua Scandinavia và Anglo-Saxon có từ "konungr"/"cyning" ("vua") được thêm vào sau tên của họ, ví dụ: *Hervarðar konungr*, thay vì trước đó.
 
@@ -90,7 +90,7 @@ Một số tên tiếng Anh cổ hiển thị các từ Rohirric bao gồm:
 
 ### Bản dịch {#Translation}
 
-Vì [Westron](../W/Westron.md) được hiển thị trong tiểu thuyết bằng tiếng Anh nên ngôn ngữ của Rohan được dịch sang [tiếng Anh cổ](../O/Old_English.md). Điều này là do [Tolkien](../J/J.R.R._Tolkien.md) đã cố gắng tái tạo cho độc giả tiếng Anh hương vị cổ xưa của nó trong mối quan hệ với Ngôn ngữ Chung. Westron là một ngôn ngữ được hợp nhất, mặc dù có nguồn gốc từ [Adûnaic](../A/Adûnaic.md)nhưng được hình thành từ các ngôn ngữ của [Trung Con Người](../M/Middle_Men.md), giống như ngôn ngữ tiếng Anh chịu nhiều ảnh hưởng từ [Celtic](../C/Celtic.md) và <a class="extiw" href="http://en.wikipedia.org/wiki/Norman_language" title="wikipedia:Norman language">Norman</a>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>
+Vì [Westron](../W/Westron.md) được hiển thị trong tiểu thuyết bằng tiếng Anh nên ngôn ngữ của Rohan được dịch sang [tiếng Anh cổ](../O/Old_English.md). Điều này là do [Tolkien](../J/J.R.R._Tolkien.md) đã cố gắng tái tạo cho độc giả tiếng Anh hương vị cổ xưa của nó trong mối quan hệ với Ngôn ngữ Chung. Westron là một ngôn ngữ được hợp nhất, mặc dù có nguồn gốc từ [Adûnaic](../A/Adûnaic.md) nhưng được hình thành từ các ngôn ngữ của [Trung Con Người](../M/Middle_Men.md), giống như ngôn ngữ tiếng Anh chịu nhiều ảnh hưởng từ [Celtic](../C/Celtic.md) và <a class="extiw" href="http://en.wikipedia.org/wiki/Norman_language" title="wikipedia:Norman language">Norman</a>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>
 
 Tuy nhiên, mối quan hệ giữa hai cặp ngôn ngữ không giống nhau: tiếng Anh cổ là tổ tiên trực tiếp của tiếng Anh hiện đại, nhưng Rohan không phải là tổ tiên trực tiếp của Westron, vì ngôn ngữ sau bắt nguồn từ [Adûnaic](../A/Adûnaic.md).
 

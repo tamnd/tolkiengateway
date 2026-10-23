@@ -56,7 +56,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a>, <a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Luật và Hải quan trong Eldar** (thường được gọi là "LaCE") là chương thứ ba của Giai đoạn thứ hai của [Sau *Quenta Silmarillion*](../T/The_Later_Quenta_Silmarillion.md), được bao gồm trong *[Morgoth's Ring](../M/Morgoth's_Ring.md)*. Chương này bao gồm một bài tiểu luận trình bày quan điểm của [Ælfwine](../_/Ælfwine.md)về truyền thống của [Eldar](../E/Eldar.md). Bài luận tìm hiểu [Tiên vòng đời](../E/Elven_life_cycle.md) và nêu ra những phong tục liên quan đến hôn nhân, sinh con, đặt tên và tâm linh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Luật và Hải quan trong Eldar** (thường được gọi là "LaCE") là chương thứ ba của Giai đoạn thứ hai của [Sau *Quenta Silmarillion*](../T/The_Later_Quenta_Silmarillion.md), được bao gồm trong *[Morgoth's Ring](../M/Morgoth's_Ring.md)*. Chương này bao gồm một bài tiểu luận trình bày quan điểm của [Ælfwine](../_/Ælfwine.md) về truyền thống của [Eldar](../E/Eldar.md). Bài luận tìm hiểu [Tiên vòng đời](../E/Elven_life_cycle.md) và nêu ra những phong tục liên quan đến hôn nhân, sinh con, đặt tên và tâm linh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Bài tiểu luận đã gây tranh cãi trong độc giả vì nó chứa đựng nhiều mâu thuẫn với những ý tưởng mà sau này sẽ xuất hiện trong [huyền thoại](Legendarium.md). Nó bao gồm năm phần và theo sau là các ghi chú của Christopher Tolkien.
 
@@ -100,7 +100,7 @@ Trong số [Noldor](../N/Noldor.md), yêu tinh được cha đặt tên trong m�
 
 Cả tên cha và tên được chọn đều là "tên thật", mặc dù [tên cha](../F/Father-name.md) được sử dụng rộng rãi. Tên được chọn của một yêu tinh chỉ được sử dụng giữa những người gần gũi với họ và việc một yêu tinh khác sử dụng nó mà không được phép được coi là tự phụ.
 
-Tiên tộc cũng có "tên riêng" hoặc "[Anessi](../E/Essë.md)". Điều quan trọng nhất trong số này là [tên mẹ](../M/Mother-name.md) của chúng, bao gồm "tên hiểu biết sâu sắc", *Essi Tercenyë*và "tên [tầm nhìn xa](../F/Foresight.md)", *Apacenyë*, được đặt cho một đứa trẻ như một điềm báo về số phận của chúng hoặc một đặc điểm nổi trội mà chúng có thể sở hữu. Những cái tên này cũng được coi là tên thật và được công khai nếu đặt ngay sau tên cha. Những "tên riêng" khác không phải là tên thật và việc chấp nhận và sử dụng chúng bởi yêu tinh mà chúng được áp dụng không được đảm bảo.
+Tiên tộc cũng có "tên riêng" hoặc "[Anessi](../E/Essë.md)". Điều quan trọng nhất trong số này là [tên mẹ](../M/Mother-name.md) của chúng, bao gồm "tên hiểu biết sâu sắc", *Essi Tercenyë* và "tên [tầm nhìn xa](../F/Foresight.md)", *Apacenyë*, được đặt cho một đứa trẻ như một điềm báo về số phận của chúng hoặc một đặc điểm nổi trội mà chúng có thể sở hữu. Những cái tên này cũng được coi là tên thật và được công khai nếu đặt ngay sau tên cha. Những "tên riêng" khác không phải là tên thật và việc chấp nhận và sử dụng chúng bởi yêu tinh mà chúng được áp dụng không được đảm bảo.
 
 ## Cái chết và sự chia cắt của Fëa và Hrondo (Hröa) {#Of_Death_and_The_Severance_of_Fëa_And_Hrondo_(Hröa)}
 

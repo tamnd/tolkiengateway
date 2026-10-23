@@ -22,7 +22,7 @@ Trong quan niệm ban đầu về [huyền thoại](../L/Legendarium.md), **Ring
 
 ## Lịch sử {#History}
 
-Ringil là một cây cột lớn, được [Melko](../M/Morgoth.md) nâng lên để chứa *northern* của [Hai Ngọn Đèn](../T/Two_Lamps.md) được tạo hình bởi [Aulë](../A/Aulë.md) để chiếu sáng [Trung Địa](../M/Middle-earth.md). Cây cột cực kỳ cao lớn, vươn lên tới các vì sao và tỏa sáng như pha lê màu xanh nhạt. Melkor tuyên bố rằng Ringil và người anh em sinh đôi phía nam của nó [Helkar](../H/Helkar.md) được tạo thành từ một chất bền vững, không thể hư hỏng mà anh ta đã nghĩ ra; trên thực tế, anh ta đã nói dối vì chúng được làm từ băng (một loại vật liệu mà [Valar](../V/Valar.md)còn lại không biết). Khi những ngọn đèn của Aulë được đặt lên họ (bạc ở phía bắc và vàng ở phía nam), băng đã tan chảy và gây ra lũ lụt lớn đổ ra biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ringil là một cây cột lớn, được [Melko](../M/Morgoth.md) nâng lên để chứa *northern* của [Hai Ngọn Đèn](../T/Two_Lamps.md) được tạo hình bởi [Aulë](../A/Aulë.md) để chiếu sáng [Trung Địa](../M/Middle-earth.md). Cây cột cực kỳ cao lớn, vươn lên tới các vì sao và tỏa sáng như pha lê màu xanh nhạt. Melkor tuyên bố rằng Ringil và người anh em sinh đôi phía nam của nó [Helkar](../H/Helkar.md) được tạo thành từ một chất bền vững, không thể hư hỏng mà anh ta đã nghĩ ra; trên thực tế, anh ta đã nói dối vì chúng được làm từ băng (một loại vật liệu mà [Valar](../V/Valar.md) còn lại không biết). Khi những ngọn đèn của Aulë được đặt lên họ (bạc ở phía bắc và vàng ở phía nam), băng đã tan chảy và gây ra lũ lụt lớn đổ ra biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

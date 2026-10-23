@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Eärendil](../E/Eärendil.md) bắt đầu chuyến hành trình trên con tàu [Vingilótë](../V/Vingilótë.md)của mình, tìm kiếm [Valinor](../V/Valinor.md) và cha mẹ anh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Eärendil](../E/Eärendil.md) bắt đầu chuyến hành trình trên con tàu [Vingilótë](../V/Vingilótë.md) của mình, tìm kiếm [Valinor](../V/Valinor.md) và cha mẹ anh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

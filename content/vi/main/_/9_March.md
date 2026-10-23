@@ -77,7 +77,7 @@ Sự kiện xảy ra vào ngày 9 tháng 3.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - Bóng Tối bắt đầu chảy ra khỏi [Mordor](../M/Mordor.md).
     - Vào lúc hoàng hôn [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) đến Đường Morgul.
-    - [Gandalf](../G/Gandalf.md) và [Pippin](../P/Peregrin_Took.md) đạt [Minas Tirith](../M/Minas_Tirith.md). [Pippin](../P/Peregrin_Took.md) thề phục vụ [Gondor](../G/Gondor.md)bằng thanh kiếm của mình.
+    - [Gandalf](../G/Gandalf.md) và [Pippin](../P/Peregrin_Took.md) đạt [Minas Tirith](../M/Minas_Tirith.md). [Pippin](../P/Peregrin_Took.md) thề phục vụ [Gondor](../G/Gondor.md) bằng thanh kiếm của mình.
     - Vào lúc hoàng hôn [Pippin](../P/Peregrin_Took.md) và [Bergil](../B/Bergil.md) chứng kiến ​​sự xuất hiện của những người đàn ông từ [vùng ngoại ô](../O/Outlands.md).
     - [Aragorn](../A/Aragorn.md) khởi hành từ [Erech](../E/Erech.md) và đến [Calembel](../C/Calembel.md).
     - [Théoden](../T/Théoden.md) tiến tới [Dunharrow](../D/Dunharrow.md).

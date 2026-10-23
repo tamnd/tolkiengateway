@@ -30,7 +30,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-<i><b>Der Herr der Ringe</b></i> (tiếng Đức: **The Lord of the Rings**) là một loạt phim phát thanh <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">tiếng Đức</a> dựa trên *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng lần đầu trong một loạt phim (mùa) trong [1992](../_/1992.md), có tổng cộng 30 tập trên đài phát thanh công cộng Đức. Loạt phim phát thanh với đầy đủ các nhân vật này là sản phẩm hợp tác giữa các đài phát thanh công cộng <a class="extiw" href="http://en.wikipedia.org/wiki/S%C3%BCdwestrundfunk" title="wikipedia:Südwestrundfunk">SWR</a> (Südwestrundfunk) và <a class="extiw" href="http://en.wikipedia.org/wiki/Westdeutscher_Rundfunk" title="wikipedia:Westdeutscher Rundfunk">WDR</a> (Westdeutscher Rundfunk), phát sóng lần đầu từ tháng 1 đến tháng 4 năm 1992. Về mặt pháp lý, bản chuyển thể đã được [Tolkien Estate](../T/Tolkien_Estate.md)phê duyệt hoàn toàn.
+<i><b>Der Herr der Ringe</b></i> (tiếng Đức: **The Lord of the Rings**) là một loạt phim phát thanh <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">tiếng Đức</a> dựa trên *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng lần đầu trong một loạt phim (mùa) trong [1992](../_/1992.md), có tổng cộng 30 tập trên đài phát thanh công cộng Đức. Loạt phim phát thanh với đầy đủ các nhân vật này là sản phẩm hợp tác giữa các đài phát thanh công cộng <a class="extiw" href="http://en.wikipedia.org/wiki/S%C3%BCdwestrundfunk" title="wikipedia:Südwestrundfunk">SWR</a> (Südwestrundfunk) và <a class="extiw" href="http://en.wikipedia.org/wiki/Westdeutscher_Rundfunk" title="wikipedia:Westdeutscher Rundfunk">WDR</a> (Westdeutscher Rundfunk), phát sóng lần đầu từ tháng 1 đến tháng 4 năm 1992. Về mặt pháp lý, bản chuyển thể đã được [Tolkien Estate](../T/Tolkien_Estate.md) phê duyệt hoàn toàn.
 
 Bộ truyện được viết và chuyển thể cho đài phát thanh bởi nhà viết kịch giàu kinh nghiệm trên đài phát thanh Peter Steinbach và do Bernd Lau đạo diễn. Nhạc nền của bộ truyện do Peter Zwetkoff sáng tác. Loạt phim phát thanh *Der Herr der Ringe* bao gồm ba mươi tập, mỗi tập khoảng 25 phút. Bộ phim được phát sóng lần đầu tiên từ tháng 1 đến tháng 4 năm 1992, với tập đầu tiên ra mắt vào ngày 3 tháng 1 năm 1992, nhân kỷ niệm 100 năm ngày sinh của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -247,7 +247,7 @@ Các nhân vật phụ được chuyển thể từ tiểu thuyết bao gồm Gi
 <td>Helen Elcka <br/> Ingrid Adé <br/> Jan-Paul Biczycki <br/> Hans-Peter Bögel <br/> et al
 </td></tr></tbody></table>
 
-Bộ truyện sử dụng một người kể chuyện trừu tượng bao quát, tương tự như cách tiếp cận của bản chuyển thể *The Hobbit* trên đài phát thanh Đức năm 1980 và bản chuyển thể *The Lord of the Rings*trên đài phát thanh của Anh năm 1981.
+Bộ truyện sử dụng một người kể chuyện trừu tượng bao quát, tương tự như cách tiếp cận của bản chuyển thể *The Hobbit* trên đài phát thanh Đức năm 1980 và bản chuyển thể *The Lord of the Rings* trên đài phát thanh của Anh năm 1981.
 
 Manfred Steffen có vai trò kép là Gandalf và Saruman.
 
@@ -315,7 +315,7 @@ Cho đến nay, loạt đài này đã được phát hành thương mại trên
 
 ## Xem thêm {#See_also}
 
-- [*Der Hobbit* (sê-ri phát thanh Đức năm 1980)](<Der_Hobbit_(1980_German_radio_series).md>) - Một loạt phim truyền hình ngắn gồm bốn phần của Đức năm 1980 chuyển thể từ tác phẩm *[The Hobbit](../T/The_Hobbit.md)*của [J. R. R. Tolkien](../J/J._R._R._Tolkien.md), do đài phát thanh công cộng WDR (Westdeutscher Rundfunk) Köln thực hiện.
+- [*Der Hobbit* (sê-ri phát thanh Đức năm 1980)](<Der_Hobbit_(1980_German_radio_series).md>) - Một loạt phim truyền hình ngắn gồm bốn phần của Đức năm 1980 chuyển thể từ tác phẩm *[The Hobbit](../T/The_Hobbit.md)* của [J. R. R. Tolkien](../J/J._R._R._Tolkien.md), do đài phát thanh công cộng WDR (Westdeutscher Rundfunk) Köln thực hiện.
 
 ## Liên kết ngoài {#External_links}
 

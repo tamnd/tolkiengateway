@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Konnunuudistus"
 ---
 
-**Shire-cải cách** là một sự đổi mới của [Shire-hobbit](Shire-hobbits.md) mà họ đã thực hiện cho [Lịch Shire](Shire_Calendar.md)của mình. Thay đổi này được đưa ra vào thời [Isengrim Took II](../I/Isengrim_Took_II.md) ([S.R.](Shire_Reckoning.md) [1083](../T/Third_Age_2683.md) - [1122](../T/Third_Age_2722.md)).
+**Shire-cải cách** là một sự đổi mới của [Shire-hobbit](Shire-hobbits.md) mà họ đã thực hiện cho [Lịch Shire](Shire_Calendar.md) của mình. Thay đổi này được đưa ra vào thời [Isengrim Took II](../I/Isengrim_Took_II.md) ([S.R.](Shire_Reckoning.md) [1083](../T/Third_Age_2683.md) - [1122](../T/Third_Age_2722.md)).
 
 Hobbit cho rằng việc chuyển tên ngày trong tuần theo ngày từ năm này sang năm khác là lộn xộn, bất tiện nên đã bố trí [Ngày giữa năm](../M/Mid-year's_Day.md) (và ngày [Overlithe](../O/Overlithe.md) trong năm nhuận) không có tên ngày trong tuần; điều này đảm bảo rằng tất cả các ngày trong tất cả các năm luôn rơi vào cùng các ngày trong tuần. Vì Lịch Shire giờ đây đã tồn tại lâu năm nên Hobbit không còn cần thiết hoặc bận tâm đến việc ghi ngày trong tuần vào thư hoặc nhật ký của họ nữa.
 

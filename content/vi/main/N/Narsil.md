@@ -74,7 +74,7 @@ Elendil mang Narsil trong [Trận Dagorlad](../B/Battle_of_Dagorlad.md) nơi nó
 
 Các **Các mảnh Narsil** là một trong những vật gia truyền của [các vị Vua Arnor](../K/Kings_of_Arnor.md), và sau khi Vương quốc phương Bắc bị phá hủy, chúng vẫn là vật gia truyền của [Rangers of the North](../R/Rangers_of_the_North.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Elrond đã giao các mảnh Narsil cho [Aragorn](../A/Aragorn.md) khi anh ấy hai mươi tuổi.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Nó không được rèn lại cho đến khi [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) ở cuối Kỷ Đệ Tam trong Rivendell với tư cách là **[Andúril](../A/Andúril.md)**, "Ngọn lửa của Phương Tây", dành cho Aragorn, người vào thời điểm đó là [Thủ lĩnh của Dúnedain](../C/Chieftains_of_the_Dúnedain.md) và là người thừa kế của Isildur.
 
-Anh ấy đã mang theo thanh kiếm trong chuyến hành trình về phía nam với tư cách là một phần của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md)và đã chiến đấu với nó trong nhiều trường hợp. Ông gọi nó là "Thanh kiếm đã gãy" hay "Thanh kiếm được rèn lại".
+Anh ấy đã mang theo thanh kiếm trong chuyến hành trình về phía nam với tư cách là một phần của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) và đã chiến đấu với nó trong nhiều trường hợp. Ông gọi nó là "Thanh kiếm đã gãy" hay "Thanh kiếm được rèn lại".
 
 ## Từ nguyên {#Etymology}
 

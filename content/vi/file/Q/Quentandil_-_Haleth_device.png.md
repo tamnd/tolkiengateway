@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Được vẽ lại rõ ràng từ bản vẽ [của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)về thiết bị huy hiệu của Nhà Haleth](../J/J.R.R._Tolkien_-_Haleth_heraldic_device.jpg.md).
+Được vẽ lại rõ ràng từ bản vẽ [của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) về thiết bị huy hiệu của Nhà Haleth](../J/J.R.R._Tolkien_-_Haleth_heraldic_device.jpg.md).
 
 ## Giấy phép {#Licensing}
 

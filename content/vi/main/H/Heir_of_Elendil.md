@@ -37,7 +37,7 @@ Trong Vương quốc phương Bắc của [Arnor](../A/Arnor.md), những ngư�
 
 Những vấn đề phức tạp này đã được giải quyết vào cuối [Kỷ Đệ Tam](../T/Third_Age.md) với sự đăng quang của [Aragorn Elessar](../A/Aragorn_Elessar.md), vừa là người thừa kế trực tiếp của Isildur vừa là người thừa kế của Anárion thông qua tổ tiên [Firiel](../F/Firiel.md) của mình, với tư cách là [Đại Vương](High_King_of_the_Dúnedain.md) của [Vương quốc Thống nhất](../R/Reunited_Kingdom.md) của Arnor và Gondor.
 
-Danh hiệu Người thừa kế của Elendil không chỉ là một tuyên bố về phả hệ - nó kết hợp quyền quản lý vận mệnh của [Dúnedain](../D/Dúnedain.md)và vai trò của họ với tư cách là người bảo vệ [các Dân tộc Tự do](../F/Free_peoples~19934.md) của [Trung Địa](../M/Middle-earth.md). Chính nhờ những người thừa kế của [Elendil](../E/Elendil.md) mà niềm hy vọng của [Númenor](../N/Númenor.md) mới được duy trì.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Danh hiệu Người thừa kế của Elendil không chỉ là một tuyên bố về phả hệ - nó kết hợp quyền quản lý vận mệnh của [Dúnedain](../D/Dúnedain.md) và vai trò của họ với tư cách là người bảo vệ [các Dân tộc Tự do](../F/Free_peoples~19934.md) của [Trung Địa](../M/Middle-earth.md). Chính nhờ những người thừa kế của [Elendil](../E/Elendil.md) mà niềm hy vọng của [Númenor](../N/Númenor.md) mới được duy trì.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

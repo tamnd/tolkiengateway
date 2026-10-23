@@ -21,7 +21,7 @@ images:
 
 ### 1956 {#1956}
 
-[Ngày 15 tháng 12](../_/15_December.md) [1956](../_/1956.md) có bài viết "Thư viện Deddington Court Now" (tr. 1) với các phần trong bài phát biểu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)tại lễ khai mạc thư viện vào [14 tháng 12](../_/14_December.md) [1956](../_/1956.md) (hơi khác so với các trích dẫn xuất hiện trong [*The Banbury Advertiser* ngày 19 tháng 12 năm 1956](../T/The_Banbury_Advertiser_19_December_1956.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Ngày 15 tháng 12](../_/15_December.md) [1956](../_/1956.md) có bài viết "Thư viện Deddington Court Now" (tr. 1) với các phần trong bài phát biểu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tại lễ khai mạc thư viện vào [14 tháng 12](../_/14_December.md) [1956](../_/1956.md) (hơi khác so với các trích dẫn xuất hiện trong [*The Banbury Advertiser* ngày 19 tháng 12 năm 1956](../T/The_Banbury_Advertiser_19_December_1956.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <dl><dd>See also: <i><a href="../T/The_Banbury_Advertiser_19_December_1956.md" title="The Banbury Advertiser 19 December 1956"><i>The Banbury Advertiser</i> 19 December 1956</a>, <a href="../L/Letter_to_Miss_Stanley-Smith_(22_November_1956).md" title="Letter to Miss Stanley-Smith (22 November 1956)">Letter to Miss Stanley-Smith (22 November 1956)</a> and <a href="../L/Letter_to_Miss_Stanley-Smith_(19_December_1956).md" title="Letter to Miss Stanley-Smith (19 December 1956)">Letter to Miss Stanley-Smith (19 December 1956)</a></i></dd></dl>
 

@@ -41,11 +41,11 @@ images:
 </p>
 </small></td></tr></tbody></table>
 
-**Cuộc chiến giữa Người lùn và Orc** là một cuộc chiến vĩ đại giữa hai chủng tộc.
+**Cuộc chiến giữa Người Lùn và Orc** là một cuộc chiến vĩ đại giữa hai chủng tộc.
 
 ## Nền {#Background}
 
-Trong [T.A.](../T/Third_Age.md) [2770](../T/Third_Age_2770.md), [Erebor](../L/Lonely_Mountain.md) đã bị [sa thải](../S/Sack_of_Erebor.md) bởi [Rồng](../D/Dragons.md) [Smaug](../S/Smaug.md).<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> Nhiều người trong số [Người Lùn](../D/Dwarves.md) của [Durin's Folk](../D/Durin's_Folk~15256.md) trở thành người vô gia cư và lang thang khắp miền Tây [Trung Địa](../M/Middle-earth.md), cố gắng kiếm sống bằng mọi cách có thể. Sau vài năm lang thang, họ định cư ở [Dunland](../D/Dunland.md). Trong số Người Lùn này có [Thrór](../T/Thrór.md), trước đây là [Vua Dưới Núi](../K/King_under_the_Mountain.md), con trai ông [Thráin II](../T/Thráin.md)và cháu trai ông [Thorin II](../T/Thorin_II.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-Durin_3-0" class="reference"><a href="#cite_note-Durin-3">[3]</a></sup>
+Trong [T.A.](../T/Third_Age.md) [2770](../T/Third_Age_2770.md), [Erebor](../L/Lonely_Mountain.md) đã bị [sa thải](../S/Sack_of_Erebor.md) bởi [Rồng](../D/Dragons.md) [Smaug](../S/Smaug.md).<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> Nhiều người trong số [Người Lùn](../D/Dwarves.md) của [Durin's Folk](../D/Durin's_Folk~15256.md) trở thành người vô gia cư và lang thang khắp miền Tây [Trung Địa](../M/Middle-earth.md), cố gắng kiếm sống bằng mọi cách có thể. Sau vài năm lang thang, họ định cư ở [Dunland](../D/Dunland.md). Trong số Người Lùn này có [Thrór](../T/Thrór.md), trước đây là [Vua Dưới Núi](../K/King_under_the_Mountain.md), con trai ông [Thráin II](../T/Thráin.md) và cháu trai ông [Thorin II](../T/Thorin_II.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-Durin_3-0" class="reference"><a href="#cite_note-Durin-3">[3]</a></sup>
 
 ## Lịch sử {#History}
 
@@ -71,11 +71,11 @@ Người ta thực sự biết rất ít về cuộc chiến kéo dài sáu năm
 
 Cuộc chiến lên đến đỉnh điểm vào [2799](../T/Third_Age_2799.md)<sup id="cite_ref-TA_1-3" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> khi trận chiến cuối cùng diễn ra ở Thung lũng Dimrill bên dưới Cổng Đông của [Moria](../M/Moria.md), [Trận Azanulbizar](../B/Battle_of_Azanulbizar.md), cũng chính là cánh cổng Đoàn Hộ Nhẫn sẽ xuất hiện 220 năm sau. Người Lùn đã giành được chiến thắng trong cuộc chạm trán đẫm máu khét tiếng này khi quân tiếp viện đến hiện trường muộn từ [Dãy Đồi Sắt](../I/Iron_Hills.md). Azog đã bị giết bởi [Dáin Chân Sắt](../D/Dáin_Ironfoot.md).
 
-Sau đó, Vua Thráin muốn tiến vào đòi lại thành phố, nhưng Người Lùn không phải người dân Durin từ chối, nói rằng thành phố không phải là Nhà của Cha họ; họ đã tôn vinh ký ức của Thrór bằng cách chiến đấu và thế là đủ. [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) cũng cảnh báo nhà vua rằng [Tai họa của Durin](../D/Durin's_Bane.md) vẫn còn cư trú trong Khazad-dûm.<sup id="cite_ref-Durin_3-4" class="reference"><a href="#cite_note-Durin-3">[3]</a></sup>
+Sau đó, Vua Thráin muốn tiến vào đòi lại thành phố, nhưng Người Lùn không phải người dân Durin từ chối, nói rằng thành phố không phải là Nhà của Cha họ; họ đã tôn vinh ký ức của Thrór bằng cách chiến đấu và thế là đủ. [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) cũng cảnh báo nhà vua rằng [Tai Họa của Durin](../D/Durin's_Bane.md) vẫn còn cư trú trong Khazad-dûm.<sup id="cite_ref-Durin_3-4" class="reference"><a href="#cite_note-Durin-3">[3]</a></sup>
 
 ### Hậu quả {#Aftermath}
 
-Cuộc chiến rất tốn kém đối với Người Lùn và Orc: gần một nửa số người tham gia trận chiến cuối cùng đã thiệt mạng. [Náin](<../N/Náin_(son_of_Grór).md>), [Frerin](../F/Frerin.md)và [Fundin](../F/Fundin.md) nằm trong số những thương vong đáng chú ý hơn. Bản thân Thráin II bị mất một mắt và đi khập khiễng, đồng thời Thorin bị thương khi khiên bị gãy và anh phải dùng cành sồi để tự vệ - do đó có biệt danh là "[Oakenshield](../O/Oakenshield.md)".<sup id="cite_ref-Durin_3-5" class="reference"><a href="#cite_note-Durin-3">[3]</a></sup>
+Cuộc chiến rất tốn kém đối với Người Lùn và Orc: gần một nửa số người tham gia trận chiến cuối cùng đã thiệt mạng. [Náin](<../N/Náin_(son_of_Grór).md>), [Frerin](../F/Frerin.md) và [Fundin](../F/Fundin.md) nằm trong số những thương vong đáng chú ý hơn. Bản thân Thráin II bị mất một mắt và đi khập khiễng, đồng thời Thorin bị thương khi khiên bị gãy và anh phải dùng cành sồi để tự vệ - do đó có biệt danh là "[Oakenshield](../O/Oakenshield.md)".<sup id="cite_ref-Durin_3-5" class="reference"><a href="#cite_note-Durin-3">[3]</a></sup>
 
 Lực lượng Orc chịu thiệt hại không thể khắc phục được về số lượng khi chiến tranh kết thúc; riêng mười nghìn người đã bị giết trong Thung lũng Dimrill. Những người sống sót sau trận chiến cuối cùng đã chạy trốn về phía nam, tìm nơi ẩn náu ở [Dãy Núi Trắng](White_Mountains.md), nơi họ đã gây rắc rối cho [Rohirrim](../R/Rohirrim.md) trong hai thế hệ.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Trong [T.A.](../T/Third_Age.md) [2851](../T/Third_Age_2851.md)<sup id="cite_ref-TA_1-4" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> Vua [Walda](Walda.md) đã bị giết cùng tất cả đồng đội của mình bởi Orc gần [Dunharrow](../D/Dunharrow.md). Con trai ông [Folca](../F/Folca.md) đã truy lùng và loại bỏ Orc-trụ cuối cùng trong Dãy Núi Trắng.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
@@ -93,7 +93,7 @@ Kết quả của những mất mát đó là [Orc của Dãy Núi Sương Mù](
 
 ## Xem thêm {#See_also}
 
-- [cuộc cướp phá Erebor](../S/Sack_of_Erebor.md)
+- [Cuộc cướp phá Erebor](../S/Sack_of_Erebor.md)
 
 <span></span>
 

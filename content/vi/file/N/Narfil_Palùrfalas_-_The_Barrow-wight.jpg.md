@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bức vẽ than [Barrow-wight](../../main/B/Barrow-wights.md)của tôi. Tôi thực sự không thích dùng than làm phương tiện, nhưng tôi cảm thấy trong trường hợp này nó sẽ hoạt động tốt nhất. Và không, đó không nhất thiết phải là đôi cánh. Chúng giống như một vòng hoa bóng tối mà nó có thể quấn quanh mình, để che đi những cánh tay và thân hình xương xẩu, nhợt nhạt. Cái đầu cố tình không rõ ràng. Mới làm cách đây chưa đầy một giờ.
+Bức vẽ bằng than của tôi về [Barrow-wight](../../main/B/Barrow-wights.md). Tôi thực sự không thích dùng than làm phương tiện, nhưng tôi cảm thấy trong trường hợp này nó sẽ hoạt động tốt nhất. Và không, đó không nhất thiết phải là đôi cánh. Chúng giống như một vòng hoa bóng tối mà nó có thể quấn quanh mình, để che đi những cánh tay và thân hình xương xẩu, nhợt nhạt. Cái đầu cố tình không rõ ràng. Mới làm cách đây chưa đầy một giờ.
 
 ## Giấy phép {#Licensing}
 

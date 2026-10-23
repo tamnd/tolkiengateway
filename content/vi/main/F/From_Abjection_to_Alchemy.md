@@ -26,7 +26,7 @@ infobox:
 
 <i><b>Từ chối bỏ đến giả kim thuật: Trung Địa Legendarium</b></i> của Tolkien là tên luận án tiến sĩ của Sara Brown, được trình bày tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Salford" title="wikipedia:University of Salford">Đại học Salford</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Để thực hiện luận án của mình, Brown được phép truy cập vào các tài liệu riêng của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)được lưu giữ tại [Thư viện Bodleian](../B/Bodleian_Library.md): "*Ở đó cô ấy có thể nghiên cứu bản ghi các bài giảng và bản thảo của một số bài tiểu luận và tác phẩm văn học của Tolkien, bao gồm cả một ghi chú nhỏ bằng chữ viết tay của tác giả ... liên quan đến tính cách của Gandalf*".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Để thực hiện luận án của mình, Brown được phép truy cập vào các tài liệu riêng của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lưu giữ tại [Thư viện Bodleian](../B/Bodleian_Library.md): "*Ở đó cô ấy có thể nghiên cứu bản ghi các bài giảng và bản thảo của một số bài tiểu luận và tác phẩm văn học của Tolkien, bao gồm cả một ghi chú nhỏ bằng chữ viết tay của tác giả ... liên quan đến tính cách của Gandalf*".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

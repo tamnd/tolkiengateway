@@ -42,4 +42,4 @@ Nhiệm vụ của **Pippin** là cảnh thứ mười hai của *[The Lord of t
 
 ### Tóm tắt {#Synopsis}
 
-[Pippin](Peregrin_Took.md) được [Gandalf](../G/Gandalf.md) giao nhiệm vụ thắp sáng đèn hiệu của [Minas Tirith](../M/Minas_Tirith.md)sau khi [Denethor](../D/Denethor.md) bác bỏ lời khuyên của Gandalf để làm như vậy.
+[Pippin](Peregrin_Took.md) được [Gandalf](../G/Gandalf.md) giao nhiệm vụ thắp sáng đèn hiệu của [Minas Tirith](../M/Minas_Tirith.md) sau khi [Denethor](../D/Denethor.md) bác bỏ lời khuyên của Gandalf để làm như vậy.

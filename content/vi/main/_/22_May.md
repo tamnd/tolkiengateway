@@ -71,7 +71,7 @@ Sự kiện xảy ra vào ngày 22 tháng 5
 - **[1992](1992.md)** - [Hiện tượng Tolkien](../T/The_Tolkien_Phenomenon.md) bắt đầu ở <a class="extiw" href="http://en.wikipedia.org/wiki/Turku" title="wikipedia:Turku">Turku</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Finland" title="wikipedia:Finland">Phần Lan</a>.
 - **[2010](2010.md)** - Hội thảo "Tolkien và Triết học" tại Modena, Ý.
 - **[2011](2011.md)** - Lustrumfeest của [Unquendor](../U/Unquendor.md).
-- **[2011](2011.md)** - Cuối tuần Trung Địa của [Hội Tolkien](../T/The_Tolkien_Society.md)ở [Sarehole](../S/Sarehole_Mill.md), [Birmingham](../B/Birmingham.md).
+- **[2011](2011.md)** - Cuối tuần Trung Địa của [Hội Tolkien](../T/The_Tolkien_Society.md) ở [Sarehole](../S/Sarehole_Mill.md), [Birmingham](../B/Birmingham.md).
 - **[2014](2014.md)** - <b><i><a href="../B/Beowulf%253A_A_Translation_and_Commentary.md" title="Beowulf: A Translation and Commentary">Beowulf: A Translation and Commentary</a></i> được xuất bản.</b>
 
 ## Trong Arda {#In_Arda}

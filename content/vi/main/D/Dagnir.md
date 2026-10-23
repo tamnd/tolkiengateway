@@ -43,7 +43,7 @@ infobox:
 
 Dagnir chiến đấu trong [Dagor Bragollach](Dagor_Bragollach.md) dưới sự chỉ huy [Barahir](../B/Barahir.md). Anh ta là thành viên của một nhóm nhỏ gồm [mười hai người đàn ông](../B/Barahir's_outlaws.md) trung thành với lãnh chúa của họ sống sót.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Những người sống sót thành lập một nhóm nhỏ và sống ngoài vòng pháp luật ở [Dorthonion](Dorthonion.md), gần [Tarn Aeluin](../T/Tarn_Aeluin.md).
 
-Họ sống ẩn náu một thời gian cho đến khi đặc vụ của [Morgoth](../M/Morgoth.md)bắt được [Gorlim](../G/Gorlim.md) và buộc anh ta phải cung cấp địa điểm nơi ẩn náu của họ. [Orc](../O/Orcs.md) được cử đi đột kích nó và đã thành công. Dagnir và những kẻ ngoài vòng pháp luật khác đã bị giết. Chỉ có [Beren](../B/Beren.md) sống sót vì anh ta đã đi công tác xa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Họ sống ẩn náu một thời gian cho đến khi đặc vụ của [Morgoth](../M/Morgoth.md) bắt được [Gorlim](../G/Gorlim.md) và buộc anh ta phải cung cấp địa điểm nơi ẩn náu của họ. [Orc](../O/Orcs.md) được cử đi đột kích nó và đã thành công. Dagnir và những kẻ ngoài vòng pháp luật khác đã bị giết. Chỉ có [Beren](../B/Beren.md) sống sót vì anh ta đã đi công tác xa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

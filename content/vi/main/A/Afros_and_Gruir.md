@@ -21,7 +21,7 @@ langlinks:
 
 **Afros** và **Gruir** là hai con sông ở [Tol Eressëa](../T/Tol_Eressëa.md), nối nhau tại [cầu](../T/Tram_Nybol.md) của [Tavrobel](../T/Tavrobel.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tower_of_Tavrobel&amp;action=edit&amp;redlink=1" title="Tower of Tavrobel (page does not exist)">Tháp Tavrobel</a> nằm gần chúng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Trận chiến trên mái nhà trên bầu trời](../B/Battle_of_the_Heath_of_the_Sky-roof.md), diễn ra trong [Faring Forth](../F/Faring_Forth.md)và kết thúc trong thảm họa hoàn toàn đối với [Tiên tộc](../E/Elves.md) của Tol Eressëa, diễn ra gần Tavrobel.
+[Trận chiến trên mái nhà trên bầu trời](../B/Battle_of_the_Heath_of_the_Sky-roof.md), diễn ra trong [Faring Forth](../F/Faring_Forth.md) và kết thúc trong thảm họa hoàn toàn đối với [Tiên tộc](../E/Elves.md) của Tol Eressëa, diễn ra gần Tavrobel.
 
 Sau trận chiến, những Tiên tộc còn lại, và trong một nhóm, [Eriol](../E/Eriol.md), chạy trốn qua sông Afros và Gruir để thoát khỏi cuộc xâm lược [Con Người](../M/Men.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

@@ -57,7 +57,7 @@ Anh ta đã chỉ huy [cuộc tấn công](../B/Battle_in_the_Thousand_Caves.md)
 
 ## Từ nguyên {#Etymology}
 
-Tên *Naugladur* chưa bao giờ được [Tolkien](../J/J.R.R._Tolkien.md)giải thích, nhưng có khả năng đó là tên [Goldogrin](../G/Gnomish.md) có nghĩa là "Vua \[của\] Người Lùn".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Tên *Naugladur* chưa bao giờ được [Tolkien](../J/J.R.R._Tolkien.md) giải thích, nhưng có khả năng đó là tên [Goldogrin](../G/Gnomish.md) có nghĩa là "Vua \[của\] Người Lùn".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

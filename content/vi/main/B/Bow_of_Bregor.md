@@ -27,7 +27,7 @@ langlinks:
     url: "https://kontu.wiki/Bregorin_jousi"
 ---
 
-**Cung của Bregor** thuộc về [Bregor](Bregor.md), [Lãnh chúa Ladros](../L/Lord_of_Ladros.md)và vẫn là vật gia truyền của [Nhà Bëor](../H/House_of_Bëor.md).
+**Cung của Bregor** thuộc về [Bregor](Bregor.md), [Lãnh chúa Ladros](../L/Lord_of_Ladros.md) và vẫn là vật gia truyền của [Nhà Bëor](../H/House_of_Bëor.md).
 
 Ngôi nhà đã bị tàn phá, nhưng Cung bằng cách nào đó vẫn sống sót sang [Thời đại thứ hai](../S/Second_Age.md) và [Edain](../E/Edain.md) đã đưa nó đến [Númenor](../N/Númenor.md). Nó được lưu giữ như một vật gia truyền của [Các vị vua của Númenor](../K/Kings_of_Númenor.md), cho đến khi [sự sụp đổ](../D/Downfall_of_Númenor.md), khi nó bị thất lạc trong trận hồng thủy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

@@ -52,7 +52,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Fortinbras là con trai của [Isumbras IV](../I/Isumbras_Took_IV.md).<sup id="cite_ref-Took_1-0" class="reference"><a href="#cite_note-Took-1">[1]</a></sup> Ông kết hôn với [Lalia Clayhanger](../L/Lalia_Clayhanger.md) vào năm [S.R.](../S/Shire_Reckoning.md) [1314](../T/Third_Age_2914.md)và có một con trai, [Ferumbras III](Ferumbras_Took_III.md), sinh hai năm sau đó.<sup id="cite_ref-L214_2-0" class="reference"><a href="#cite_note-L214-2">[2]</a></sup>
+Fortinbras là con trai của [Isumbras IV](../I/Isumbras_Took_IV.md).<sup id="cite_ref-Took_1-0" class="reference"><a href="#cite_note-Took-1">[1]</a></sup> Ông kết hôn với [Lalia Clayhanger](../L/Lalia_Clayhanger.md) vào năm [S.R.](../S/Shire_Reckoning.md) [1314](../T/Third_Age_2914.md) và có một con trai, [Ferumbras III](Ferumbras_Took_III.md), sinh hai năm sau đó.<sup id="cite_ref-L214_2-0" class="reference"><a href="#cite_note-L214-2">[2]</a></sup>
 
 Fortinbras trở thành Thain sau cái chết của cha anh vào [S.R.](../S/Shire_Reckoning.md) [1339](../T/Third_Age_2939.md).<sup id="cite_ref-Took_1-1" class="reference"><a href="#cite_note-Took-1">[1]</a></sup> Trong thời gian cai trị của anh, người anh họ của anh, [Bilbo Baggins](../B/Bilbo_Baggins.md), đã rời đi để thực hiện [cuộc phiêu lưu nổi tiếng](../Q/Quest_for_Erebor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

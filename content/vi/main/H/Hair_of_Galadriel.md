@@ -35,11 +35,11 @@ Một thiên niên kỷ sau, [Gimli](../G/Gimli.md) người [Đoàn Hộ Nhẫn
 </p>
 </blockquote>
 
-Câu trả lời của Galadriel khiến tất cả [Tiên tộc](../E/Elves.md)ngạc nhiên: cô đã đáp ứng điều ước của Gimli và đưa cho anh ba sợi tóc vàng của cô, Gimli hứa sẽ cài thành pha lê như một "*lời cam kết thiện chí giữa Núi và Rừng cho đến ngày tận thế.*"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Câu trả lời của Galadriel khiến tất cả [Tiên tộc](../E/Elves.md) ngạc nhiên: cô đã đáp ứng điều ước của Gimli và đưa cho anh ba sợi tóc vàng của cô, Gimli hứa sẽ cài thành pha lê như một "*lời cam kết thiện chí giữa Núi và Rừng cho đến ngày tận thế.*"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bản nháp đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, không có đoạn hội thoại nào giữa Galadriel và Gimli khi cô ấy tặng quà cho Công ty.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Trong bản nháp sau, khi Gimli được hỏi, anh ấy trả lời Galadriel rằng anh ấy hài lòng khi được gặp cô ấy. Sau đó, cô ấy tự mình tháo một chiếc trâm cài, một viên ngọc lục bảo dát vàng, và đưa nó cho anh ấy. Gimli đã cố gắng đặt tên *[Elfstone](../E/Elfstone.md)* cho chính mình, nhưng anh đã bị [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)ngăn lại, người đã quyết định sử dụng tên đó cho [Aragorn](../A/Aragorn.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong bản nháp đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, không có đoạn hội thoại nào giữa Galadriel và Gimli khi cô ấy tặng quà cho Công ty.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Trong bản nháp sau, khi Gimli được hỏi, anh ấy trả lời Galadriel rằng anh ấy hài lòng khi được gặp cô ấy. Sau đó, cô ấy tự mình tháo một chiếc trâm cài, một viên ngọc lục bảo dát vàng, và đưa nó cho anh ấy. Gimli đã cố gắng đặt tên *[Elfstone](../E/Elfstone.md)* cho chính mình, nhưng anh đã bị [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ngăn lại, người đã quyết định sử dụng tên đó cho [Aragorn](../A/Aragorn.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

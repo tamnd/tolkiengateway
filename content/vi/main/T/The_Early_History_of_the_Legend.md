@@ -37,7 +37,7 @@ categories:
 
 ## Tóm tắt {#Synopsis}
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [C.S. Lewis](../C/C.S._Lewis.md)không hài lòng với truyện mình đọc nên đã chọn hai chủ đề và quyết định tự viết truyện:<sup id="cite_ref-Early_1-0" class="reference"><a href="#cite_note-Early-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:7</sup>
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [C.S. Lewis](../C/C.S._Lewis.md) không hài lòng với truyện mình đọc nên đã chọn hai chủ đề và quyết định tự viết truyện:<sup id="cite_ref-Early_1-0" class="reference"><a href="#cite_note-Early-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:7</sup>
 
 <blockquote class="tg-quote noexcerpt">
 <p>We agreed that he should try &#39;space travel&#39;, and I should try &#39;time-travel&#39;. His result is well known. My effort, after a few promising chapters, ran dry: it was too long a way round to what I really wanted to make, a new version of the <a href="../A/Atlantis-haunting.md" title="Atlantis-haunting">Atlantis</a> legend. The final scene survives as <i><a href="../A/Akallabêth.md" title="Akallabêth">The Downfall of Númenor</a></i>.

@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Sau khi chiếm được [Minas Tirith](<../M/Minas_Tirith_(Beleriand).md>), [Orc](../O/Orcs.md) đi qua [Đèo Sirion](../P/Pass_of_Sirion.md), nhưng chúng bị tiêu diệt bởi [Halmir](../H/Halmir.md) và [Beleg](../B/Beleg.md) ở gần [Brethil](../B/Brethil.md); Orc không dám vượt qua [Taeglin](../T/Taeglin.md) trong nhiều năm sau đó.<sup id="cite_ref-Quenta_1-0" class="reference"><a href="#cite_note-Quenta-1">[1]</a></sup><sup id="cite_ref-Annals_2-0" class="reference"><a href="#cite_note-Annals-2">[2]</a></sup>
-- Sau trận chiến, [Húrin](../H/Húrin.md) và [Huor](../H/Huor.md) bị lạc và băng qua [Brithiach](../B/Brithiach.md), lạc vào [Dimbar](../D/Dimbar.md). Bị [Thorondor](../T/Thorondor.md)phát hiện, họ được [Đại Bàng](../E/Eagles.md) của anh ta cứu và đưa về [Gondolin](../G/Gondolin.md).<sup id="cite_ref-Quenta_1-1" class="reference"><a href="#cite_note-Quenta-1">[1]</a></sup><sup id="cite_ref-Annals_2-1" class="reference"><a href="#cite_note-Annals-2">[2]</a></sup>
+- Sau trận chiến, [Húrin](../H/Húrin.md) và [Huor](../H/Huor.md) bị lạc và băng qua [Brithiach](../B/Brithiach.md), lạc vào [Dimbar](../D/Dimbar.md). Bị [Thorondor](../T/Thorondor.md) phát hiện, họ được [Đại Bàng](../E/Eagles.md) của anh ta cứu và đưa về [Gondolin](../G/Gondolin.md).<sup id="cite_ref-Quenta_1-1" class="reference"><a href="#cite_note-Quenta-1">[1]</a></sup><sup id="cite_ref-Annals_2-1" class="reference"><a href="#cite_note-Annals-2">[2]</a></sup>
 
 <span></span>
 

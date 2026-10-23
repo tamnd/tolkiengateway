@@ -37,7 +37,7 @@ Vào [T.A.](../T/Third_Age.md) <a class="new" href="https://tolkiengateway.net/w
 
 Khi [Cardolan](../C/Cardolan.md) thất thủ, nhiều người dân thường chạy đến Saralainn. Những nỗ lực của [Gandalf](../G/Gandalf.md) đã dẫn đến sự hợp tác và hội nhập hơn là xung đột.<sup id="cite_ref-culture_6-0" class="reference"><a href="#cite_note-culture-6">[6]</a></sup>
 
-Vào [T.A.](../T/Third_Age.md) [2116](../T/Third_Age_2116.md), thủ đô được chuyển từ Sudúri đến cảng Lond Angren Gondor bị bỏ hoang. Văn hóa của vương quốc suy tàn khi họ ngày càng hòa nhập nhiều hơn với bộ lạc Dunmen và bị [Hải tặc Umbar](../C/Corsairs_of_Umbar.md)tàn phá. <sup id="cite_ref-lateryears_1-1" class="reference"><a href="#cite_note-lateryears-1">[1]</a></sup>
+Vào [T.A.](../T/Third_Age.md) [2116](../T/Third_Age_2116.md), thủ đô được chuyển từ Sudúri đến cảng Lond Angren Gondor bị bỏ hoang. Văn hóa của vương quốc suy tàn khi họ ngày càng hòa nhập nhiều hơn với bộ lạc Dunmen và bị [Hải tặc Umbar](../C/Corsairs_of_Umbar.md) tàn phá. <sup id="cite_ref-lateryears_1-1" class="reference"><a href="#cite_note-lateryears-1">[1]</a></sup>
 
 Các lãnh chúa của Saralainn đã tuyên bố trung thành với [Vương quốc Thống nhất](../R/Reunited_Kingdom.md) trong [Kỷ Đệ Tứ](../F/Fourth_Age.md) [1](../F/Fourth_Age_1.md).<sup id="cite_ref-timeline_2-2" class="reference"><a href="#cite_note-timeline-2">[2]</a></sup>
 

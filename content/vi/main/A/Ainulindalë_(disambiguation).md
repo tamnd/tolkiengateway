@@ -23,7 +23,7 @@ images:
 
 ## Trung Địa {#Middle-earth}
 
-- Người [Âm nhạc của các Ainur](../M/Music_of_the_Ainur.md)đầu tiên, đấng tạo ra thế giới, được thuật lại bởi <a class="mw-redirect mw-disambig" href="../R/Rúmil.md" title="Rúmil">Rúmil</a> trong [*Ainulindalë*](<Ainulindalë_(Rúmil's_work).md>) của mình.
+- Người [Âm nhạc của các Ainur](../M/Music_of_the_Ainur.md) đầu tiên, đấng tạo ra thế giới, được thuật lại bởi <a class="mw-redirect mw-disambig" href="../R/Rúmil.md" title="Rúmil">Rúmil</a> trong [*Ainulindalë*](<Ainulindalë_(Rúmil's_work).md>) của mình.
 - [Thứ hai Âm nhạc của các Ainur](../S/Second_Music_of_the_Ainur.md), sẽ tái tạo thế giới.
 
 ## Chương {#Chapters}

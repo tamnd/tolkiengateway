@@ -20,7 +20,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Steven_White_Jr._-_Gondor_TA1050.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b7/Steven_White_Jr._-_Gondor_TA1050.jpg/300px-Steven_White_Jr._-_Gondor_TA1050.jpg" decoding="async" loading="lazy" width="300" height="225" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b7/Steven_White_Jr._-_Gondor_TA1050.jpg/450px-Steven_White_Jr._-_Gondor_TA1050.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b7/Steven_White_Jr._-_Gondor_TA1050.jpg/600px-Steven_White_Jr._-_Gondor_TA1050.jpg 2x" data-file-width="1600" data-file-height="1200"/></a><figcaption>Gondor&#39;s Golden Age during the time of <a href="../H/Hyarmendacil_I.md" title="Hyarmendacil I">Hyarmendacil I</a>.</figcaption></figure>
 
-**Các vị vua tàu** là danh hiệu được trao cho bốn vị [Vị vua vĩ đại của Gondor](../K/Kings_of_Gondor.md) trong "thời kỳ hoàng kim", bắt đầu với Vua [Tarannon Falastur](../T/Tarannon_Falastur.md)và ba người kế vị ông:
+**Các vị vua tàu** là danh hiệu được trao cho bốn vị [Vị vua vĩ đại của Gondor](../K/Kings_of_Gondor.md) trong "thời kỳ hoàng kim", bắt đầu với Vua [Tarannon Falastur](../T/Tarannon_Falastur.md) và ba người kế vị ông:
 
 - **[Tarannon Falastur](../T/Tarannon_Falastur.md)** ([T.A.](../T/Third_Age.md) [830](../T/Third_Age_830.md)-[913](../T/Third_Age_913.md))
 - **[Eärnil Tôi](../E/Eärnil_I.md)** ([T.A.](../T/Third_Age.md) [913](../T/Third_Age_913.md)-[936](../T/Third_Age_936.md))

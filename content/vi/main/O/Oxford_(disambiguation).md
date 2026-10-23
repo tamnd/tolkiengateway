@@ -19,7 +19,7 @@ images:
 ## Địa điểm {#Locations}
 
 - **[Oxford](Oxford.md), một thành phố ở Thung lũng Thames ở Anh.**
-    - Nhà [Đại học Oxford](../U/University_of_Oxford.md), *alma mater* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)và nơi ông làm giáo sư sau này.
+    - Nhà [Đại học Oxford](../U/University_of_Oxford.md), *alma mater* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và nơi ông làm giáo sư sau này.
     - Từ điển tiếng Anh [Oxford](Oxford_English_Dictionary.md), một ấn phẩm mà J.R.R. Tolkien hoạt động.
 
 <h2><span id="In_Tolkien.27s_Works"></span><span class="mw-headline" id="In_Tolkien&#39;s_Works">In Tolkien&#39;s Works</span></h2>

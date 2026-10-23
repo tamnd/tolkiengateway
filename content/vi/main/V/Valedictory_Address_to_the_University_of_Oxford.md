@@ -14,7 +14,7 @@ categories:
   - "Chapters"
 ---
 
-**Bài diễn văn dự lễ cho Đại học Oxford** đề cập đến bài phát biểu nghỉ hưu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)từ [Đại học Oxford](../U/University_of_Oxford.md), được phát vào [5 tháng 6](../_/5_June.md) [1959](../_/1959.md) tại Hội trường Đại học Merton.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Bài diễn văn dự lễ cho Đại học Oxford** đề cập đến bài phát biểu nghỉ hưu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) từ [Đại học Oxford](../U/University_of_Oxford.md), được phát vào [5 tháng 6](../_/5_June.md) [1959](../_/1959.md) tại Hội trường Đại học Merton.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Bài thủ khoa vẫn chưa được xuất bản cho đến [1979](../_/1979.md), khi bài phát biểu được đưa vào *[J.R.R. Tolkien, Scholar and Storyteller: Essays in Memoriam](../J/J.R.R._Tolkien%253A_Scholar_and_Storyteller.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Một phiên bản sửa đổi đã được xuất bản trong *[The Monsters and the Critics and Other Essays](../T/The_Monsters_and_the_Critics.md)* (1983).
 

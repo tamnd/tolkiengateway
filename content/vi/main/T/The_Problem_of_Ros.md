@@ -59,4 +59,4 @@ images:
 
 Chương này được dành riêng cho bài tiểu luận [1968](../_/1968.md) [ngôn ngữ học](../L/Languages.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), liên quan đến từ [ros](../R/Ros.md), như được thấy trong tên *[Cair Andros](../C/Cair_Andros.md)*.
 
-Trong khi viết nó, Tolkien nhận ra rằng những gì anh ấy đang giải thích đã có giải pháp trong [Phụ lục](../A/Appendices.md)và đã từ chối "hầu hết giải pháp đó".
+Trong khi viết, Tolkien nhận ra rằng những gì mình đang giải thích đã có giải pháp trong [Phụ lục](../A/Appendices.md) và đã bác bỏ "hầu hết".

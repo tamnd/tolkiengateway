@@ -23,7 +23,7 @@ langlinks:
 
 Ngay từ đầu Arda, Biển Nội đã đề cập đến [Belegaer](../B/Belegaer.md) và [phương Đông Biển](../E/East_Sea.md), các đại dương giữa hai lục địa bên ngoài ([Aman](../A/Aman.md) ở Phương Tây và [Vùng đất của Mặt Trời](../L/Land_of_the_Sun.md) ở phương Đông) và [Trung Địa](../M/Middle-earth.md) riêng biệt, trái ngược với [Bên ngoài Biển](../O/Outer_Sea.md) mở rộng từ các cạnh tới cạnh dưới của Arda.
 
-Khi [Ulmo](../U/Ulmo.md) đến Arda cùng với [Maiar](../M/Maiar.md)của mình, anh ta đã trao cho [Ossë](../O/Ossë.md) và [Uinen](../U/Uinen.md) "sự cai trị của sóng và sự chuyển động của Biển Nội", trong khi cá nhân anh ta cư trú ở Ngoại Biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi [Ulmo](../U/Ulmo.md) đến Arda cùng với [Maiar](../M/Maiar.md) của mình, anh ta đã trao cho [Ossë](../O/Ossë.md) và [Uinen](../U/Uinen.md) "sự cai trị của sóng và sự chuyển động của Biển Nội", trong khi cá nhân anh ta cư trú ở Ngoại Biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Ở [Ambarkanta](../A/Ambarkanta.md), Biển Nội, hay "biển cổ", được mô tả là nằm "trong vùng trũng" giữa lục địa trung tâm với vùng đất phía tây và phía đông, và nước của chúng chỉ tràn vào vực sâu ở phía bắc và phía nam, nơi chúng không có bờ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

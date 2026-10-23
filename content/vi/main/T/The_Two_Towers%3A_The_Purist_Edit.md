@@ -20,7 +20,7 @@ images:
 
 <i><b>The Two Towers: The Purist Edit</b></i> là [2003](../_/2003.md) bản chỉnh sửa dành cho người hâm mộ của bộ phim *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*. Khi bộ phim gốc được ra rạp, một số người hâm mộ cuồng nhiệt của cuốn tiểu thuyết *Lord of the Rings* đã chỉ trích hoặc thậm chí không thích những thay đổi trong câu chuyện của Tolkien, thúc đẩy ai đó tạo ra một "bản chỉnh sửa thuần túy".
 
-Một số điểm khác biệt lớn nhất bao gồm: không có [Tiên tộc](../E/Elves.md) tại [Helm's Deep](../H/Helm's_Deep.md), [Faramir](../F/Faramir.md) chắc chắn lại là "người tốt", [Ent](../E/Ents.md) không từ chối giúp đỡ, [Arwen](../A/Arwen.md) dường như không rời khỏi [Trung Địa](../M/Middle-earth.md)và [Gandalf](../G/Gandalf.md) không trục xuất [Saruman](../S/Saruman.md) khỏi [Théoden](Théoden.md). Kết quả là phiên bản này ngắn hơn khoảng 40 phút, nhưng một số người hâm mộ "thuần túy" không hài lòng với những thay đổi được thực hiện bởi câu chuyện của [Peter Jackson](../P/Peter_Jackson.md) đối với Tolkien tin rằng nó vượt trội hơn so với phiên bản gốc. Các thay đổi được cắt bỏ liền mạch và bản âm thanh được đồng bộ hóa lại một cách cẩn thận để làm cho các chỉnh sửa không bị chú ý. Ở một số chỗ, Bản chỉnh sửa thuần túy đảo ngược hoàn toàn những thay đổi của Peter Jackson và xây dựng lại cốt truyện gốc.
+Một số điểm khác biệt lớn nhất bao gồm: không có [Tiên tộc](../E/Elves.md) tại [Helm's Deep](../H/Helm's_Deep.md), [Faramir](../F/Faramir.md) chắc chắn lại là "người tốt", [Ent](../E/Ents.md) không từ chối giúp đỡ, [Arwen](../A/Arwen.md) dường như không rời khỏi [Trung Địa](../M/Middle-earth.md) và [Gandalf](../G/Gandalf.md) không trục xuất [Saruman](../S/Saruman.md) khỏi [Théoden](Théoden.md). Kết quả là phiên bản này ngắn hơn khoảng 40 phút, nhưng một số người hâm mộ "thuần túy" không hài lòng với những thay đổi được thực hiện bởi câu chuyện của [Peter Jackson](../P/Peter_Jackson.md) đối với Tolkien tin rằng nó vượt trội hơn so với phiên bản gốc. Các thay đổi được cắt bỏ liền mạch và bản âm thanh được đồng bộ hóa lại một cách cẩn thận để làm cho các chỉnh sửa không bị chú ý. Ở một số chỗ, Bản chỉnh sửa thuần túy đảo ngược hoàn toàn những thay đổi của Peter Jackson và xây dựng lại cốt truyện gốc.
 
 Các so sánh đã được thực hiện giữa Bản chỉnh sửa thuần túy và *Star Wars: The Phantom Edit.* Trong khi *The Phantom Edit* được người hâm mộ coi là cách loại bỏ những khía cạnh gây khó chịu cho nhiều khán giả xem phim thông thường, *The Two Towers: The Purist Edit* chủ yếu thu hút những người hâm mộ cuồng nhiệt, những người đã chịu khó làm nổi bật sự khác biệt giữa cuốn sách và bộ phim.
 
@@ -31,8 +31,8 @@ Những thay đổi lớn (trong số khoảng 30):
 - Bọn Ent không từ chối tấn công Isengard
 - Tiên tộc đừng đến Helm's Deep
 - Gimli không còn tham gia cứu trợ truyện tranh nữa
-- Faramir không quyết định gửi [Người Nhẫn](The_One_Ring.md) đến Gondor như một "món quà vĩ đại" dành cho cha mình
-- Frodo không cố gắng trao Nhẫn cho [Nazgûl](../N/Nazgûl.md)
+- Faramir không quyết định gửi [Chiếc nhẫn duy nhất](The_One_Ring.md) cho Gondor như một "món quà vĩ đại" dành cho cha mình
+- Frodo không cố gắng trao Chiếc nhẫn cho [Nazgûl](../N/Nazgûl.md)
 
 ## Liên kết ngoài {#External_links}
 

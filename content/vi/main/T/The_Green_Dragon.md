@@ -45,7 +45,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="Ted_Sandyman.md" title="Ted Sandyman">Ted Sandyman</a> in <i><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="The_Shadow_of_the_Past.md" title="The Shadow of the Past">The Shadow of the Past</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**The Green Rồng** là một trong nhiều nhà trọ của [the Shire](The_Shire.md). Nó nằm ở [Bywater](../B/Bywater.md) trên [Bywater Đường](../B/Bywater_Road.md) và là tòa nhà gần [Hobbiton](../H/Hobbiton.md)nhất,<sup id="cite_ref-Scouring_1-0" class="reference"><a href="#cite_note-Scouring-1">[1]</a></sup> cách cây cầu bắc qua [Mặt Nước](The_Water.md) dẫn đến [Bag End](../B/Bag_End.md).<sup id="cite_ref-Mutton_2-0" class="reference"><a href="#cite_note-Mutton-2">[2]</a></sup> một dặm về phía đông nam. Như vậy, có thể nhìn thấy [Hobbit](../H/Hobbits.md) từ cả hai ngôi làng ở đó.
+**The Green Rồng** là một trong nhiều nhà trọ của [the Shire](The_Shire.md). Nó nằm ở [Bywater](../B/Bywater.md) trên [Bywater Đường](../B/Bywater_Road.md) và là tòa nhà gần [Hobbiton](../H/Hobbiton.md) nhất,<sup id="cite_ref-Scouring_1-0" class="reference"><a href="#cite_note-Scouring-1">[1]</a></sup> cách cây cầu bắc qua [Mặt Nước](The_Water.md) dẫn đến [Bag End](../B/Bag_End.md).<sup id="cite_ref-Mutton_2-0" class="reference"><a href="#cite_note-Mutton-2">[2]</a></sup> một dặm về phía đông nam. Như vậy, có thể nhìn thấy [Hobbit](../H/Hobbits.md) từ cả hai ngôi làng ở đó.
 
 ## Lịch sử {#History}
 
@@ -53,13 +53,13 @@ Trong [T.A.](Third_Age.md) [2941](Third_Age_2941.md)<sup id="cite_ref-TA_3-0" cl
 
 Vào [12 tháng 4](../_/12_April.md) [3018](Third_Age_3018.md), cùng ngày [Gandalf](../G/Gandalf.md) trở lại Shire sau nhiều năm,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Samwise Gamgee](../S/Samwise_Gamgee.md) đang đến thăm Green Rồng thì cuộc trò chuyện chuyển sang Người cây, một trong số họ đã được [anh họ Hal](../H/Halfast_Gamgee.md) của Sam nhìn thấy. Mặc dù những câu chuyện kỳ ​​quặc đã bắt đầu được kể trong Shire nhưng những người hobbit ở quán trọ, đặc biệt là [Ted Sandyman](Ted_Sandyman.md), đã cười nhạo câu chuyện của Sam.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Khi [Frodo](../F/Frodo_Baggins.md), [Merry](../M/Meriadoc_Brandybuck.md), [Pippin](../P/Peregrin_Took.md)và Sam quay lại Bywater vào [2 tháng 11](../_/2_November.md) [3019](Third_Age_3019.md),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> họ thấy Green Rồng đóng cửa với cửa sổ vỡ và nửa tá [Ruffians](../R/Ruffians.md) lảng vảng gần đó. Khi họ xúc phạm Frodo ba hobbit còn lại đã đuổi những người đàn ông đó đi.<sup id="cite_ref-Scouring_1-1" class="reference"><a href="#cite_note-Scouring-1">[1]</a></sup>
+Khi [Frodo](../F/Frodo_Baggins.md), [Merry](../M/Meriadoc_Brandybuck.md), [Pippin](../P/Peregrin_Took.md) và Sam quay lại Bywater vào [2 tháng 11](../_/2_November.md) [3019](Third_Age_3019.md),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> họ thấy Green Rồng đóng cửa với cửa sổ vỡ và nửa tá [Ruffians](../R/Ruffians.md) lảng vảng gần đó. Khi họ xúc phạm Frodo ba hobbit còn lại đã đuổi những người đàn ông đó đi.<sup id="cite_ref-Scouring_1-1" class="reference"><a href="#cite_note-Scouring-1">[1]</a></sup>
 
 Sau khi Ruffians và [Sharkey](../S/Saruman.md) bị giết hoặc bị đuổi đi, Green Rồng Inn chắc chắn đã được khôi phục.
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phiên bản gốc của bức thư [Thorin](Thorin.md)gửi Bilbo, điểm hẹn để bắt đầu cuộc hành trình đến [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md) là [Great Mill](../O/Old_Mill.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Không lâu trước khi câu chuyện được xuất bản, địa điểm này đã được đổi thành quán trọ, đầu tiên được đặt tên là **Green Man** trước khi đổi thành Green Rồng Inn quen thuộc.<sup id="cite_ref-TrollNotes_8-0" class="reference"><a href="#cite_note-TrollNotes-8">[8]</a></sup>
+Trong phiên bản gốc của bức thư [Thorin](Thorin.md) gửi Bilbo, điểm hẹn để bắt đầu cuộc hành trình đến [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md) là [Great Mill](../O/Old_Mill.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Không lâu trước khi câu chuyện được xuất bản, địa điểm này đã được đổi thành quán trọ, đầu tiên được đặt tên là **Green Man** trước khi đổi thành Green Rồng Inn quen thuộc.<sup id="cite_ref-TrollNotes_8-0" class="reference"><a href="#cite_note-TrollNotes-8">[8]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

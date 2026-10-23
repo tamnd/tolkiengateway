@@ -42,7 +42,7 @@ Cho đến [1960](../_/1960.md) ông là một nghệ sĩ đồ họa tự kinh 
 
 Những bức tranh minh họa đồ nư của Klaus Ensikat đã nhận được nhiều giải thưởng; năm 1995 Ensikat được trao giải *Children's Literature Award* và vào năm [1996](../_/1996.md) ông đã nhận được <a class="extiw" href="http://en.wikipedia.org/wiki/Hans_Christian_Andersen_Award" title="wikipedia:Hans Christian Andersen Award">Giải thưởng Hans Christian Andersen</a> của <a class="extiw" href="http://en.wikipedia.org/wiki/International_Board_on_Books_for_Young_People_(IBBY)" title="wikipedia:International Board on Books for Young People (IBBY)">Ủy ban quốc tế về sách dành cho giới trẻ (IBBY)</a> cho tác phẩm để đời của mình.
 
-Klaus Ensikat đã minh họa phiên bản [The Hobbit](../T/The_Hobbit.md)tiếng Đức thứ hai của [1971](../_/1971.md) dựa trên bản dịch đầu tiên của [Walter Scherf](../W/Walter_Scherf.md).
+Klaus Ensikat đã minh họa phiên bản [The Hobbit](../T/The_Hobbit.md) tiếng Đức thứ hai của [1971](../_/1971.md) dựa trên bản dịch đầu tiên của [Walter Scherf](../W/Walter_Scherf.md).
 
 ## Liên kết ngoài {#External_links}
 

@@ -38,7 +38,7 @@ Nhà Finwë có ba nhánh chính, mỗi nhánh dành cho các con trai của Fin
 
 ### Dòng dõi {#Lineage}
 
-Finwë có hai vợ. Người đầu tiên của ông là [Míriel](../M/Míriel.md), người đã qua đời ngay sau khi sinh đứa con duy nhất, [Fëanor](../F/Fëanor.md). Người vợ thứ hai của ông là [Indis](../I/Indis.md), người [Vanyar](../V/Vanyar.md), sinh cho ông hai con trai: [Fingolfin](../F/Fingolfin.md) và [Finarfin](../F/Finarfin.md)và hai con gái: [Findis](../F/Findis.md) và [Írimë](../_/Írimë.md).
+Finwë có hai vợ. Người đầu tiên của ông là [Míriel](../M/Míriel.md), người đã qua đời ngay sau khi sinh đứa con duy nhất, [Fëanor](../F/Fëanor.md). Người vợ thứ hai của ông là [Indis](../I/Indis.md), người [Vanyar](../V/Vanyar.md), sinh cho ông hai con trai: [Fingolfin](../F/Fingolfin.md) và [Finarfin](../F/Finarfin.md) và hai con gái: [Findis](../F/Findis.md) và [Írimë](../_/Írimë.md).
 
 <br>
 
@@ -54,7 +54,7 @@ Finwë có hai vợ. Người đầu tiên của ông là [Míriel](../M/Míriel
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Hai cô con gái của Finwë không xuất hiện trong *[Silmarillion](../S/Silmarillion.md)*đã xuất bản.
+Hai cô con gái của Finwë không xuất hiện trong *[Silmarillion](../S/Silmarillion.md)* đã xuất bản.
 
 Trong các phiên bản trước của legendarium, Finwë và Indis có ba cô con gái: **Findis**, **Faniel** và **Finvain**. Hiện vẫn chưa rõ liệu cô con gái thứ ba có sống sót trong lần thụ thai cuối cùng trong cây phả hệ của Finwë hay không.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 

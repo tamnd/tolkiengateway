@@ -26,7 +26,7 @@ Giai đoạn "Old Sindarin" là giai đoạn mà các từ Sindarin chưa trải
 
 Các nguyên âm dài của hệ điều hành *é*, *á*, *ó* đã được thay đổi sang các âm thanh khác vào thời điểm Sindarin.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Ngôn ngữ này được nói ở [Trung Địa](../M/Middle-earth.md) trong hoặc sau [Tháng Ba vĩ đại](../G/Great_March.md), có lẽ bởi [Eglath](../E/Eglath.md). Tuy nhiên, khi [Noldor](../N/Noldor.md) quay trở lại [Beleriand](../B/Beleriand.md) khi [Mặt Trăng](../M/Moon.md)nổi lên, ngôn ngữ đã phát triển hoàn toàn thành Sindarin.
+Ngôn ngữ này được nói ở [Trung Địa](../M/Middle-earth.md) trong hoặc sau [Tháng Ba vĩ đại](../G/Great_March.md), có lẽ bởi [Eglath](../E/Eglath.md). Tuy nhiên, khi [Noldor](../N/Noldor.md) quay trở lại [Beleriand](../B/Beleriand.md) khi [Mặt Trăng](../M/Moon.md) nổi lên, ngôn ngữ đã phát triển hoàn toàn thành Sindarin.
 
 Có thể Old Sindarin là tổ tiên chung của [Mithrimin](../M/Mithrimin.md), [Falathrin](../F/Falathrin.md) và [Doriathrin](../D/Doriathrin.md).
 

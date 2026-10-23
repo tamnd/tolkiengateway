@@ -17,11 +17,11 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Entwash_Vale_map.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f4/The_Lord_of_the_Rings_Online_-_Entwash_Vale_map.jpg/250px-The_Lord_of_the_Rings_Online_-_Entwash_Vale_map.jpg" decoding="async" loading="lazy" width="250" height="188" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f4/The_Lord_of_the_Rings_Online_-_Entwash_Vale_map.jpg/375px-The_Lord_of_the_Rings_Online_-_Entwash_Vale_map.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f4/The_Lord_of_the_Rings_Online_-_Entwash_Vale_map.jpg/500px-The_Lord_of_the_Rings_Online_-_Entwash_Vale_map.jpg 2x" data-file-width="1024" data-file-height="768"/></a><figcaption>Map of the Entwash Vale in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Entwash Thung lũng** là một thung lũng xanh và có nhiều đá ở [Rohan](../R/Rohan.md), được hình thành ở vùng [Entwash](Entwash.md)thấp hơn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Entwash Thung lũng** là một thung lũng xanh và có nhiều đá ở [Rohan](../R/Rohan.md), được hình thành ở vùng [Entwash](Entwash.md) thấp hơn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Entwash Vale is one of the four major subdivisions of the <a href="Eastemnet.md" title="Eastemnet">Eastemnet</a>. It is ruled by Reeve Ingbert, rather of <a href="../H/Horn_(rider_of_Rohan).md" title="Horn (rider of Rohan)">Horn</a>, from the town of &#34;Eaworth&#34;.</dd></dl>
 

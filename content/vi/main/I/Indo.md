@@ -88,7 +88,7 @@ Trong khi indo được áp dụng cụ thể cho các ứng dụng của tâm t
 
 ## Có cùng nguồn gốc {#Cognates}
 
-Vì NID và indo có sự phát triển khác nhau đáng kể trong [Sindarin](../S/Sindarin.md) và [Telerin](../T/Telerin.md)nên không có sự tương đương trực tiếp nào với Quenya "indo". Xem bài viết [NID](../N/NID.md) để biết chi tiết.
+Vì NID và indo có sự phát triển khác nhau đáng kể trong [Sindarin](../S/Sindarin.md) và [Telerin](../T/Telerin.md) nên không có sự tương đương trực tiếp nào với Quenya "indo". Xem bài viết [NID](../N/NID.md) để biết chi tiết.
 
 ## Phiên bản khác {#Other_versions}
 

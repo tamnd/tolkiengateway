@@ -41,7 +41,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Sau cái chết của [Gwindor](../G/Gwindor.md)trong [Trận Tumhalad](../B/Battle_of_Tumhalad.md), Túrin vội vã quay trở lại [Nargothrond](../N/Nargothrond.md), tập hợp tất cả những người sống sót sau trận chiến trong quá trình này, bao gồm cả Ornil. Khi những chiếc lá rơi khỏi cây trong cơn gió lớn, Ornil đã so sánh sự thay đổi của các mùa với [Sự sụp đổ của Nargothrond](../F/Fall_of_Nargothrond.md), khiến tốc độ của Túrin tăng nhanh hơn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Không có thông tin nào khác về Ornil.
+Sau cái chết của [Gwindor](../G/Gwindor.md) trong [Trận Tumhalad](../B/Battle_of_Tumhalad.md), Túrin vội vã quay trở lại [Nargothrond](../N/Nargothrond.md), tập hợp tất cả những người sống sót sau trận chiến trong quá trình này, bao gồm cả Ornil. Khi những chiếc lá rơi khỏi cây trong cơn gió lớn, Ornil đã so sánh sự thay đổi của các mùa với [Sự sụp đổ của Nargothrond](../F/Fall_of_Nargothrond.md), khiến tốc độ của Túrin tăng nhanh hơn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Không có thông tin nào khác về Ornil.
 
 ## Từ nguyên {#Etymology}
 

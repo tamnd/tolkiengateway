@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Tên *Alandri*<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> có trong [Qenya](../Q/Qenya.md)và được đặt dựa trên từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Aldar%C3%AB&amp;action=edit&amp;redlink=1" title="Aldarë (page does not exist)">aldarë</a></i> ("gỗ"), có lẽ bắt nguồn từ từ *[alda](Alda.md)* ("cây").<sup id="cite_ref-Ala_1-1" class="reference"><a href="#cite_note-Ala-1">[1]</a></sup> Bản thân từ *alda* có nguồn gốc từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=ALA&amp;action=edit&amp;redlink=1" title="ALA (page does not exist)">ALA</a> ("lan truyền?").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+Tên *Alandri*<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> có trong [Qenya](../Q/Qenya.md) và được đặt dựa trên từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Aldar%C3%AB&amp;action=edit&amp;redlink=1" title="Aldarë (page does not exist)">aldarë</a></i> ("gỗ"), có lẽ bắt nguồn từ từ *[alda](Alda.md)* ("cây").<sup id="cite_ref-Ala_1-1" class="reference"><a href="#cite_note-Ala-1">[1]</a></sup> Bản thân từ *alda* có nguồn gốc từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=ALA&amp;action=edit&amp;redlink=1" title="ALA (page does not exist)">ALA</a> ("lan truyền?").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 ## Ghi chú {#Notes}
 

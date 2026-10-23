@@ -32,7 +32,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Vào ngày 5 tháng 5, [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) khi [Éomer](../_/Éomer.md) và [Éowyn](../_/Éowyn.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> cưỡi ngựa trở về từ Minas Tirith với [Rohirrim](../R/Rohirrim.md) và [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md) trên đường về phía Bắc, con đường đầy những người ca ngợi họ từ cổng Minas Tirith đến Rammas Echor.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Vào tối ngày giữa năm [Elrond](../E/Elrond.md) với anh ấy con gái [Arwen](../A/Arwen.md) cùng các con trai Elladan và Elrohir cùng toàn thể hộ gia đình [Rivendell](../R/Rivendell.md) và [Galadriel](../G/Galadriel.md) và [Celeborn](../C/Celeborn.md) cùng nhiều người dân [Lothlórien](../L/Lothlórien.md) đã đi theo hướng Bắc để đến cổng Minas Tirith dự đám cưới của Arwen với Vua [Aragorn](../A/Aragorn.md)vừa mới đăng quang.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Vào ngày 5 tháng 5, [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) khi [Éomer](../_/Éomer.md) và [Éowyn](../_/Éowyn.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> cưỡi ngựa trở về từ Minas Tirith với [Rohirrim](../R/Rohirrim.md) và [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md) trên đường về phía Bắc, con đường đầy những người ca ngợi họ từ cổng Minas Tirith đến Rammas Echor.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Vào tối ngày giữa năm [Elrond](../E/Elrond.md) với anh ấy con gái [Arwen](../A/Arwen.md) cùng các con trai Elladan và Elrohir cùng toàn thể hộ gia đình [Rivendell](../R/Rivendell.md) và [Galadriel](../G/Galadriel.md) và [Celeborn](../C/Celeborn.md) cùng nhiều người dân [Lothlórien](../L/Lothlórien.md) đã đi theo hướng Bắc để đến cổng Minas Tirith dự đám cưới của Arwen với Vua [Aragorn](../A/Aragorn.md) vừa mới đăng quang.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
@@ -40,7 +40,7 @@ Vào ngày 5 tháng 5, [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>A road runs from the <a href="../F/Forannest.md" title="Forannest">North-Gate</a> of <a href="../R/Rammas_Echor.md" title="Rammas Echor">Rammas Echor</a> to the <a href="../G/Great_Gates.md" title="Great Gates">Great Gates</a> of <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> but is not identified by name.</dd></dl>
 

@@ -16,7 +16,7 @@ sort_keys:
   "People by name": "Alper, Renee"
 ---
 
-**Renee Alper** thành lập Hiệp hội Hobbit Hoa Kỳ tại [1977](../_/1977.md)mà cô điều hành cho đến năm 1989. Cô cũng là một nghệ sĩ "filk" (nhạc dân gian giả tưởng).
+**Renee Alper** thành lập Hiệp hội Hobbit Hoa Kỳ tại [1977](../_/1977.md) mà cô điều hành cho đến năm 1989. Cô cũng là một nghệ sĩ "filk" (nhạc dân gian giả tưởng).
 
 ## Liên kết ngoài {#External_links}
 

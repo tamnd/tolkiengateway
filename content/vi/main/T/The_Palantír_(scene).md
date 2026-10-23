@@ -42,7 +42,7 @@ infobox:
 
 [Aragorn](../A/Aragorn.md) bước ra ngoài [Sảnh Vàng](../G/Golden_Hall.md) vào ban đêm. [Legolas](../L/Legolas.md) đang đứng nhìn các vì sao và nói với Aragorn rằng anh ấy có thể cảm thấy có thứ gì đó chuyển động trong [phương Đông](../E/East.md).
 
-Bên trong, [Pippin](../P/Pippin.md)không ngủ được nên đứng dậy và đi về phía [Gandalf](../G/Gandalf.md) đang ngủ. [Merry](../M/Merry.md) hỏi anh ấy đang làm gì và Pippin nói với anh ấy rằng anh ấy muốn xem xét [palantír](../P/Palantír.md) một lần nữa. Một cách cẩn thận, anh lấy nó từ tay Gandalf, mở nó ra và nhìn vào trong. Từ từ, Con Mắt của Sauron lấp đầy palantír. Pippin vùng vẫy và la hét, và Merry kêu cứu Gandalf giúp đỡ. Trình hướng dẫn thức dậy khi Aragorn và Legolas chạy vào bên trong. Aragorn tạm thời lấy palantír từ Pippin nhưng không thể giữ nó lâu. Khi nó lăn trên sàn, Gandalf che nó bằng một miếng vải.
+Bên trong, [Pippin](../P/Pippin.md) không ngủ được nên đứng dậy và đi về phía [Gandalf](../G/Gandalf.md) đang ngủ. [Merry](../M/Merry.md) hỏi anh ấy đang làm gì và Pippin nói với anh ấy rằng anh ấy muốn xem xét [palantír](../P/Palantír.md) một lần nữa. Một cách cẩn thận, anh lấy nó từ tay Gandalf, mở nó ra và nhìn vào trong. Từ từ, Con Mắt của Sauron lấp đầy palantír. Pippin vùng vẫy và la hét, và Merry kêu cứu Gandalf giúp đỡ. Trình hướng dẫn thức dậy khi Aragorn và Legolas chạy vào bên trong. Aragorn tạm thời lấy palantír từ Pippin nhưng không thể giữ nó lâu. Khi nó lăn trên sàn, Gandalf che nó bằng một miếng vải.
 
 <blockquote class="tg-quote noexcerpt">
 <p>Fool of a Took!
@@ -50,11 +50,11 @@ Bên trong, [Pippin](../P/Pippin.md)không ngủ được nên đứng dậy và
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> to <a class="mw-redirect" href="../P/Pippin.md" title="Pippin">Pippin</a></cite></p>
 </blockquote>
 
-Gandalf đảm bảo Pippin còn sống trước khi hỏi anh ta đã nhìn thấy gì. Pippin không nói gì với [Sauron](../S/Sauron.md) về nhiệm vụ của [Frodo](../F/Frodo.md)và thấy [Cây Trắng](../W/White_Tree_of_Gondor.md) đang cháy. Gandalf hiểu rằng Pippin đã thoáng thấy Sauron kế hoạch: [Minas Tirith](../M/Minas_Tirith.md), ngôi nhà của Cây Trắng, sẽ bị tấn công đầu tiên. Thuật sĩ yêu cầu [Théoden](Théoden.md) sẵn sàng đi [Gondor](../G/Gondor.md) sau khi [đèn hiệu](../W/Warning_beacons_of_Gondor.md) sáng lên và nói với Aragorn một cách khó hiểu rằng anh ta phải đến Minas Tirith bằng "con đường khác. Đi theo dòng sông, tìm [những con tàu đen](../C/Corsairs_of_Umbar.md)." Gandalf quyết định đi đến Minas Tirith và Pippin đó phải đi cùng anh ta.
+Gandalf đảm bảo Pippin còn sống trước khi hỏi anh ta đã nhìn thấy gì. Pippin không nói gì với [Sauron](../S/Sauron.md) về nhiệm vụ của [Frodo](../F/Frodo.md) và thấy [Cây Trắng](../W/White_Tree_of_Gondor.md) đang cháy. Gandalf hiểu rằng Pippin đã thoáng thấy Sauron kế hoạch: [Minas Tirith](../M/Minas_Tirith.md), ngôi nhà của Cây Trắng, sẽ bị tấn công đầu tiên. Thuật sĩ yêu cầu [Théoden](Théoden.md) sẵn sàng đi [Gondor](../G/Gondor.md) sau khi [đèn hiệu](../W/Warning_beacons_of_Gondor.md) sáng lên và nói với Aragorn một cách khó hiểu rằng anh ta phải đến Minas Tirith bằng "con đường khác. Đi theo dòng sông, tìm [những con tàu đen](../C/Corsairs_of_Umbar.md)." Gandalf quyết định đi đến Minas Tirith và Pippin đó phải đi cùng anh ta.
 
 Khi Gandalf sẵn sàng [Shadowfax](../S/Shadowfax.md), Merry cố gắng giải thích cho Pippin rằng, vì anh ấy đã nhìn vào palantír nên Sauron sẽ tìm kiếm anh ấy. Merry đưa cho anh ấy chiếc [Chiếc lá đáy dài](../L/Longbottom_Leaf.md) cuối cùng và Pippin yêu cầu anh ấy trấn an rằng họ sẽ gặp lại nhau. Merry đưa ánh mắt ngờ vực với Gandalf trước khi nói rằng anh ấy không biết chuyện gì sẽ xảy ra.
 
-Merry và Aragorn theo dõi Gandalf và Pippin khởi hành vào Shadowfax. Aragorn an ủi người hobbit, nói rằng "Một điều tôi đã học được về người hobbit: họ là những người cứng rắn nhất". "Có thể là ngu ngốc. Anh ấy là Took!" Merry nói ngược lại.
+Merry và Aragorn xem Gandalf và Pippin khởi hành trên Shadowfax. Aragorn an ủi người hobbit rằng "Một điều tôi đã học được về người hobbit: họ là những người cứng rắn nhất". "Có thể là ngu ngốc. Anh ấy là Took!" Merry nói ngược lại.
 
 ## Sự khác biệt {#Differences}
 

@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong một lá thư gửi nhà xuất bản [Allen &amp; Unwin](../A/Allen_&_Unwin.md), Tolkien thông báo với họ rằng ông đã gửi bằng chứng về "[Bản đồ chung](../G/General_Map_of_Middle-earth.md)" cùng với bản vẽ cho bản đồ nhỏ hơn "[Một phần của Shire](../A/A_Part_of_the_Shire.md)", do con trai ông [Christopher](../C/Christopher_Tolkien.md)tạo ra. Ông giải thích rằng bản đồ nhỏ hơn được vẽ với tỷ lệ gấp đôi không gian có sẵn của cuốn sách, nhằm mục đích mang lại sự rõ ràng và tiết kiệm cho các mục trong đó, đồng thời hy vọng nó sẽ vẫn dễ đọc khi thu nhỏ.
+Trong một lá thư gửi nhà xuất bản [Allen &amp; Unwin](../A/Allen_&_Unwin.md), Tolkien thông báo với họ rằng ông đã gửi bằng chứng về "[Bản đồ chung](../G/General_Map_of_Middle-earth.md)" cùng với bản vẽ cho bản đồ nhỏ hơn "[Một phần của Shire](../A/A_Part_of_the_Shire.md)", do con trai ông [Christopher](../C/Christopher_Tolkien.md) tạo ra. Ông giải thích rằng bản đồ nhỏ hơn được vẽ với tỷ lệ gấp đôi không gian có sẵn của cuốn sách, nhằm mục đích mang lại sự rõ ràng và tiết kiệm cho các mục trong đó, đồng thời hy vọng nó sẽ vẫn dễ đọc khi thu nhỏ.
 
 Tolkien bày tỏ sự thiếu cảm hứng và thời gian để thiết kế bìa cho cuốn sách nhưng hy vọng sẽ sớm cung cấp ý tưởng cơ bản để một nghệ sĩ lành nghề phát triển. Ông kết luận bằng cách bày tỏ mong muốn rằng việc xuất bản [Tập I](../T/The_Fellowship_of_the_Ring.md) sẽ không bị trì hoãn thêm nữa.
 

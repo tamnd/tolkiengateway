@@ -12,4 +12,4 @@ categories:
   - "Eä"
 ---
 
-Trang danh mục này dành cho các khái niệm [chưa được [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)đặt tên xác định](https://tolkiengateway.net/wiki/Template:Unnamed).
+Trang danh mục này dành cho các khái niệm [chưa được [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) đặt tên xác định](https://tolkiengateway.net/wiki/Template:Unnamed).

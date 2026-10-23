@@ -36,7 +36,7 @@ infobox:
 <p class="tg-quote-footer"><cite>Guðrúnarkviða en nýja eða Dráp Niflunga, verse 1</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-<i><b>Guðrúnarkviða en nýja eða Dráp Niflunga</b></i> là một bài thơ tự sự ám chỉ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào những năm 1930. Nó được xuất bản sau khi di cảo vào [2009](../_/2009.md) như là phần chính thứ hai của cuốn sách *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.md)*, do con trai ông, [Christopher Tolkien](../C/Christopher_Tolkien.md)biên tập và chú thích. Tiêu đề là [tiếng Bắc Âu cổ](../O/Old_Norse.md)và được dịch là *The New Lay of Gudrún hoặc The Slaying of the Nifungs*.
+<i><b>Guðrúnarkviða en nýja eða Dráp Niflunga</b></i> là một bài thơ tự sự ám chỉ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào những năm 1930. Nó được xuất bản sau khi di cảo vào [2009](../_/2009.md) như là phần chính thứ hai của cuốn sách *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.md)*, do con trai ông, [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập và chú thích. Tiêu đề là [tiếng Bắc Âu cổ](../O/Old_Norse.md) và được dịch là *The New Lay of Gudrún hoặc The Slaying of the Nifungs*.
 
 ### Sơ đồ và kết cấu: {#Plot_and_Structure:}
 

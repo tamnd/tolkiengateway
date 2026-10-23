@@ -53,7 +53,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Rog là một thợ rèn và là thủ lĩnh của [dân gian của Hammer of Wrath](../H/House_of_the_Hammer_of_Wrath.md). Anh ta được coi là người mạnh nhất trong [Noldoli](../N/Noldoli.md)và được coi là người dũng cảm thứ ba.<sup id="cite_ref-LT2_1-1" class="reference"><a href="#cite_note-LT2-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:174</sup>
+Rog là một thợ rèn và là thủ lĩnh của [dân gian của Hammer of Wrath](../H/House_of_the_Hammer_of_Wrath.md). Anh ta được coi là người mạnh nhất trong [Noldoli](../N/Noldoli.md) và được coi là người dũng cảm thứ ba.<sup id="cite_ref-LT2_1-1" class="reference"><a href="#cite_note-LT2-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:174</sup>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Who now shall fear the Balrogs for all their terror? See before us the accursed ones who for ages have tormented the children of the Noldoli, and who now set a fire at our backs with their shooting. Come ye of the Hammer of Wrath and we will smite them for their evil.

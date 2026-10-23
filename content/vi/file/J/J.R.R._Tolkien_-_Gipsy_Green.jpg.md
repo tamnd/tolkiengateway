@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)bản vẽ [1918](../../main/_/1918.md) của ngôi nhà Gipsy Green gần <a class="extiw" href="http://en.wikipedia.org/wiki/Penkridge" title="wikipedia:Penkridge">Penkridge</a>.
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) bản vẽ [1918](../../main/_/1918.md) của ngôi nhà Gipsy Green gần <a class="extiw" href="http://en.wikipedia.org/wiki/Penkridge" title="wikipedia:Penkridge">Penkridge</a>.
 
 ## Giấy phép {#Licensing}
 

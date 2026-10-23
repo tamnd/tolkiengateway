@@ -58,7 +58,7 @@ infobox:
 
 **Castamir của [Umbar](../U/Umbar.md)**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> là Bosun của [Hải tặc Umbar](Corsairs_of_Umbar.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md)
 
-Castamir là tác phẩm nguyên bản dành cho phim *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Anh do đạo diễn [Peter Jackson](../P/Peter_Jackson.md)thể hiện.
+Castamir là tác phẩm nguyên bản dành cho phim *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Anh do đạo diễn [Peter Jackson](../P/Peter_Jackson.md) thể hiện.
 
 ## Tiểu sử {#Biography}
 

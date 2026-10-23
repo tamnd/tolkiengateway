@@ -28,7 +28,7 @@ images:
 
 Đường **Hobbiton** là một con đường ở [the Shire](../T/The_Shire.md). Nó bắt đầu ở [Bywater](../B/Bywater.md) rẽ ra khỏi [phương Đông Đường](../E/East_Road.md) và đi qua [Hobbiton](Hobbiton.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó được rợp bóng cây.
 
-Trong thời kỳ [Sharkey](../S/Sharkey.md)chiếm đóng, cây cối đã được thay thế bằng những ngôi nhà xấu xí.
+Trong thời kỳ [Sharkey](../S/Sharkey.md) chiếm đóng, cây cối đã được thay thế bằng những ngôi nhà xấu xí.
 
 ## Nhận dạng {#Identification}
 

@@ -14,7 +14,7 @@ categories:
   - "Valinor"
 ---
 
-Ngôi nhà **của Oromë** là nơi ở của [Oromë](../O/Oromë.md) tại [Valinor](../V/Valinor.md). Một số chi tiết về ngôi nhà này được kể trong *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)*, ngoại trừ việc nó đã được [Celegorm](../C/Celegorm.md)đến thăm, người ở đó "*có kiến ​​thức sâu rộng về các loài chim và thú*" và thậm chí còn học được "*all their tongues*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ngôi nhà **của Oromë** là nơi ở của [Oromë](../O/Oromë.md) tại [Valinor](../V/Valinor.md). Một số chi tiết về ngôi nhà này được kể trong *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)*, ngoại trừ việc nó đã được [Celegorm](../C/Celegorm.md) đến thăm, người ở đó "*có kiến ​​thức sâu rộng về các loài chim và thú*" và thậm chí còn học được "*all their tongues*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

@@ -64,7 +64,7 @@ infobox:
 
 Là em gái của [Fëanturi](../F/Fëanturi.md), cô được xếp hạng là một trong tám [Aratar](../A/Aratar.md), người mạnh nhất trong Valar. Yếu tố của cô ấy là đau buồn và cô ấy luôn than khóc cho những vết thương của thế giới bởi cái ác. Ai lắng nghe cô sẽ học được sự khôn ngoan và sức chịu đựng trong đau buồn.<sup id="cite_ref-SIIb_1-0" class="reference"><a href="#cite_note-SIIb-1">[1]</a></sup>
 
-[Sảnh](../H/Halls_of_Nienna.md) của cô ấy ở phía tây xa xôi, gần với [Sảnh của Mandos](../H/Halls_of_Mandos.md), nhưng ở biên giới phía tây của Thế giới và cửa sổ của cô ấy nhìn ra ngoài từ [Những Bức Tường của Thế Giới](../W/Walls_of_the_World.md). Cô sống một mình và hiếm khi đến thành phố vui tươi [Valmar](../V/Valmar.md). Cô thường xuyên đến phòng của anh trai mình [Mandos](../M/Mandos.md) để an ủi và khuyên nhủ những người trong [Sảnh chờ](../H/Halls_of_Waiting.md) đang khóc vì cô.<sup id="cite_ref-SIIb_1-1" class="reference"><a href="#cite_note-SIIb-1">[1]</a></sup>
+[Sảnh](../H/Halls_of_Nienna.md) của cô ấy ở phía tây xa xôi, gần với [Sảnh của Mandos](../H/Halls_of_Mandos.md), nhưng ở biên giới phía tây của Thế giới và cửa sổ của cô ấy nhìn ra ngoài từ [Những Bức Tường của Thế giới](../W/Walls_of_the_World.md). Cô sống một mình và hiếm khi đến thành phố vui tươi [Valmar](../V/Valmar.md). Cô thường xuyên đến phòng của anh trai mình [Mandos](../M/Mandos.md) để an ủi và khuyên nhủ những người trong [Sảnh chờ](../H/Halls_of_Waiting.md) đang khóc vì cô.<sup id="cite_ref-SIIb_1-1" class="reference"><a href="#cite_note-SIIb-1">[1]</a></sup>
 
 Tất cả những gì được biết về ngoại hình của cô ấy là cô ấy đội một chiếc mũ trùm đầu màu xám.<sup id="cite_ref-S9_2-0" class="reference"><a href="#cite_note-S9-2">[2]</a></sup>
 
@@ -74,9 +74,9 @@ Phần của cô trong [Âm nhạc của các Ainur](../M/Music_of_the_Ainur.md)
 
 [Maia](../M/Maiar.md) [Olórin](../G/Gandalf.md#Names), người sau này du hành đến [Trung Địa](../M/Middle-earth.md) với tư cách là [Gandalf](../G/Gandalf.md), đã học được nhiều điều từ cô ấy.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Nienna đóng một vai trò trong việc tạo ra [Hai Cây của Valinor](../T/Two_Trees_of_Valinor.md); cô ấy đã khóc trên gò [Ezellohar](../E/Ezellohar.md), tưới nước cho nó bằng nước mắt của mình.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Sau khi [Melkor](../M/Morgoth.md)Cây bị tàn phá, cô ấy một lần nữa khóc trên những vết thương còn sót lại của chúng, rửa sạch sự bẩn thỉu của [Ungoliant](../U/Ungoliant.md)và giúp sinh ra những trái và hoa cuối cùng sẽ trở thành [Mặt Trời](../S/Sun.md) và [Mặt Trăng](../M/Moon.md).<sup id="cite_ref-S9_2-1" class="reference"><a href="#cite_note-S9-2">[2]</a></sup>
+Nienna đóng một vai trò trong việc tạo ra [Hai Cây của Valinor](../T/Two_Trees_of_Valinor.md); cô ấy đã khóc trên gò [Ezellohar](../E/Ezellohar.md), tưới nước cho nó bằng nước mắt của mình.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Sau khi [Melkor](../M/Morgoth.md) Cây bị tàn phá, cô ấy một lần nữa khóc trên những vết thương còn sót lại của chúng, rửa sạch sự bẩn thỉu của [Ungoliant](../U/Ungoliant.md) và giúp sinh ra những trái và hoa cuối cùng sẽ trở thành [Mặt Trời](../S/Sun.md) và [Mặt Trăng](../M/Moon.md).<sup id="cite_ref-S9_2-1" class="reference"><a href="#cite_note-S9-2">[2]</a></sup>
 
-Sự thương hại của Nienna được thể hiện rõ nhất ở việc cô ủng hộ Melkor khi anh khởi kiện xin ân xá cho Valar. Mặc dù cô ấy đã dành thời gian của mình trên thế giới để thương tiếc cho sự tàn phá mà anh ấy đã gây ra Arda, nhưng khi anh ấy kiện đòi trả tự do sau ba năm bị giam cầm, Nienna đã lên tiếng về phần mình.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Sự tiếc nuối của Nienna thể hiện rõ nhất ở việc cô ủng hộ Melkor khi anh khởi kiện xin ân xá cho Valar. Mặc dù cô ấy đã dành thời gian của mình trên thế giới để thương tiếc cho sự tàn phá mà anh ấy đã gây ra Arda, nhưng khi anh ấy kiện đòi trả tự do sau ba năm bị giam cầm, Nienna đã lên tiếng về phần mình.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

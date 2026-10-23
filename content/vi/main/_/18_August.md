@@ -71,7 +71,7 @@ Sự kiện xảy ra vào ngày 18 tháng 8
 - **[1997](1997.md)** - Sách nói *[Pearl and Sir Orfeo](<../P/Pearl_and_Sir_Orfeo_(audiobook).md>)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), do Terry Jones đọc, được xuất bản.
 - **[2000](2000.md)** - [Mythcon 31](../M/Mythcon_31.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Hawaii" title="wikipedia:Hawaii">Hawaii</a>.
 - **[2008](2008.md)** - [Mythcon 39](../M/Mythcon_39.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Central_Connecticut_State_University" title="wikipedia:Central Connecticut State University">Đại học bang Central Connecticut</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/New_Britain,_Connecticut" title="wikipedia:New Britain, Connecticut">New Britain</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Connecticut" title="wikipedia:Connecticut">Connecticut</a>.
-- **[2012](2012.md)** - [Sự trở lại của hội nghị Nhẫn](../T/The_Return_of_the_Ring.md), [Tolkien Xã hội](../T/The_Tolkien_Society.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Loughborough_University" title="wikipedia:Loughborough University">Đại học Loughborough</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
+- **[2012](2012.md)** - [Sự trở lại của chiếc nhẫn](../T/The_Return_of_the_Ring.md), hội nghị [Tolkien Xã hội](../T/The_Tolkien_Society.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Loughborough_University" title="wikipedia:Loughborough University">Đại học Loughborough</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
 - **[2023](2023.md)** - Nhà phát triển trò chơi [Wendell Lariston Hill, Jr.](../W/Wendell_Lariston_Hill,_Jr..md) qua đời.
 
 ## Trong Arda {#In_Arda}
@@ -80,7 +80,7 @@ Sự kiện xảy ra vào ngày 18 tháng 8
     - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Cưỡi [Elessar](../A/Aragorn.md), [Gandalf](../G/Gandalf.md), [Celeborn](../C/Celeborn.md), [Galadriel](../G/Galadriel.md), [Hobbit](../T/Travellers.md)và nhiều chiếc khác, hãy cắm trại tại [Helm's Deep](../H/Helm's_Deep.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - Cưỡi [Elessar](../A/Aragorn.md), [Gandalf](../G/Gandalf.md), [Celeborn](../C/Celeborn.md), [Galadriel](../G/Galadriel.md), [Hobbit](../T/Travellers.md) và nhiều chiếc khác, hãy cắm trại tại [Helm's Deep](../H/Helm's_Deep.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTRO_-_Helm&#39;s_Deep_logo.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/48/LOTRO_-_Helm%27s_Deep_logo.jpg/320px-LOTRO_-_Helm%27s_Deep_logo.jpg" decoding="async" loading="lazy" width="320" height="170" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/48/LOTRO_-_Helm%27s_Deep_logo.jpg 1.5x" data-file-width="433" data-file-height="230"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Lord of the Rings Online: Helm&#39;s Deep</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine, Inc</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine, Inc</a><br/><a href="../C/Codemasters.md" title="Codemasters">Codemasters</a></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">Microsoft Windows</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/20_November.md" title="20 November">20 November</a> <a href="../_/2013.md" title="2013">2013</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">MMORPG</td></tr></tbody></table>
 
-<i><b>The Lord of the Rings Online: Deep</b></i> của Helm là bản mở rộng thứ năm của trò chơi *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*. Nó mở rộng thế giới bằng cách mở ra khu vực Phương Tây [Rohan](../R/Rohan.md), bao gồm thành phố [Edoras](../E/Edoras.md), từ [Gap of Rohan](../G/Gap_of_Rohan.md) phía nam và phía đông về phía [Eastfold](../E/Eastfold.md). Nó cũng giới thiệu các bản mở rộng về lối chơi thông qua hệ thống Big Battles (bản đầu tiên là tên của bản mở rộng), nâng giới hạn cấp độ lên 95, thay đổi lớp và phần mở rộng của câu chuyện sử thi. Nó đánh dấu bản mở rộng trả phí lớn cuối cùng mà Turbine sẽ phát hành trong ba năm, thay vào đó chọn phát hành các bản cập nhật miễn phí hàng quý kèm theo tiền thưởng cho người đăng ký VIP.
+<i><b>The Lord of the Rings Trực tuyến: Deep</b></i> của Helm là bản mở rộng thứ năm của trò chơi *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*. Nó mở rộng thế giới bằng cách mở ra khu vực Phương Tây [Rohan](../R/Rohan.md), bao gồm thành phố [Edoras](../E/Edoras.md), từ [Gap of Rohan](../G/Gap_of_Rohan.md) phía nam và phía đông về phía [Eastfold](../E/Eastfold.md). Nó cũng giới thiệu các bản mở rộng về lối chơi thông qua hệ thống Big Battles (bản đầu tiên là tên của bản mở rộng), nâng giới hạn cấp độ lên 95, thay đổi lớp và phần mở rộng của câu chuyện sử thi. Nó đánh dấu bản mở rộng trả phí lớn cuối cùng mà Turbine sẽ phát hành trong ba năm, thay vào đó chọn phát hành các bản cập nhật miễn phí hàng quý kèm theo tiền thưởng cho người đăng ký VIP.
 
 ## Cốt truyện {#Storyline}
 
@@ -72,7 +72,7 @@ infobox:
 
 **Tập IV: Thế mạnh của Sauron** **Quyển I - Đường Về Gondor**
 
-- Giải phóng vùng Phương Tây Gondor, bao gồm các khu vực [Con đường của người chết](../P/Paths_of_the_Dead.md), [Blackroot Vale](../B/Blackroot_Vale.md), [Lamedon](../L/Lamedon.md), Cảng [Belfalas](../B/Belfalas.md)và [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Update_14_3-1" class="reference"><a href="#cite_note-Update_14-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- Giải phóng vùng Phương Tây Gondor, bao gồm các khu vực [Con đường của người chết](../P/Paths_of_the_Dead.md), [Blackroot Vale](../B/Blackroot_Vale.md), [Lamedon](../L/Lamedon.md), Cảng [Belfalas](../B/Belfalas.md) và [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Update_14_3-1" class="reference"><a href="#cite_note-Update_14-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 - Bộ sử thi mới,<sup id="cite_ref-Update_14_3-2" class="reference"><a href="#cite_note-Update_14-3">[3]</a></sup> Tập IV: Sức mạnh của Sauron, bắt đầu từ Quyển 1: Con đường tới Gondor.
 - Hệ thống Tinh hoa, cho phép các áo giáp có rãnh đặc biệt được trang bị nhiều loại Tinh chất để có các chỉ số có thể tùy chỉnh.<sup id="cite_ref-Update_14_3-3" class="reference"><a href="#cite_note-Update_14-3">[3]</a></sup>
 - Tăng giới hạn cấp độ lên 100.<sup id="cite_ref-Update_14_3-4" class="reference"><a href="#cite_note-Update_14-3">[3]</a></sup>
@@ -106,7 +106,7 @@ infobox:
 
 **Quyển IV - Cuộc vây hãm Thành phố Trắng**
 
-- Khu vực Cũ Anórien, bao gồm [Minas Tirith](../M/Minas_Tirith.md), [cánh đồng Pelennor](../P/Pelennor_Fields.md)và Talath Anor.
+- Khu vực Cũ Anórien, bao gồm [Minas Tirith](../M/Minas_Tirith.md), [cánh đồng Pelennor](../P/Pelennor_Fields.md) và Talath Anor.
 - Sử thi Tập IV Quyển 4: Cuộc vây hãm Thành phố Trắng
 - Cấp chế tạo mới, chuyển đổi vũ khí mỹ phẩm ẩn.
 - Trận chiến sử thi mới: Bảo vệ Minas Tirith, Búa của thế giới ngầm.

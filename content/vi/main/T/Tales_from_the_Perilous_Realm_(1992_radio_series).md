@@ -21,7 +21,7 @@ Bộ truyện bao gồm bốn câu chuyện trong *Tales from the Perilous Realm
 
 ## Ngày phát sóng {#Air_dates}
 
-*Farmer Giles of Ham* được phát sóng thành hai phần, phần đầu tiên vào [ngày 16 tháng 8](../_/16_August.md), [1992](../_/1992.md)và phần thứ hai vào [ngày 23 tháng 8](../_/23_August.md). *Smith of Wootton Major* được phát sóng một tuần sau đó, vào [ngày 30 tháng 8](../_/30_August.md). *The Adventures of Tom Bombadil* cũng được phát sóng thành hai phần, vào [tháng Chín 6](../_/6_September.md) và [tháng Chín 13](../_/13_September.md) và *Leaf by Niggle* vào [tháng Chín 20](../_/20_September.md).
+*Farmer Giles of Ham* được phát sóng thành hai phần, phần đầu tiên vào [ngày 16 tháng 8](../_/16_August.md), [1992](../_/1992.md) và phần thứ hai vào [ngày 23 tháng 8](../_/23_August.md). *Smith of Wootton Major* được phát sóng một tuần sau đó, vào [ngày 30 tháng 8](../_/30_August.md). *The Adventures of Tom Bombadil* cũng được phát sóng thành hai phần, vào [tháng Chín 6](../_/6_September.md) và [tháng Chín 13](../_/13_September.md) và *Leaf by Niggle* vào [tháng Chín 20](../_/20_September.md).
 
 ## Truyền {#Cast}
 

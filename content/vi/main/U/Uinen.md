@@ -66,7 +66,7 @@ Người ta kể rằng mái tóc của cô trải dài trên khắp mặt nư�
 
 Uinen khóc thương các thủy thủ Teleri sau vụ tàn sát người thân ở [Alqualondë](../A/Alqualondë.md) và nổi lên một cơn bão đánh chìm nhiều [Noldor](../N/Noldor.md) trên những [Tàu thiên nga](../S/Swan-ships.md) bị đánh cắp.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Được các thủy thủ của [Númenor](../N/Númenor.md)coi là người bảo vệ và mang lại vùng biển yên bình, họ sẽ kêu cứu cô ấy để được giúp đỡ, trong khi sự tôn trọng của họ dành cho [Valar](../V/Valar.md) vẫn tồn tại.<sup id="cite_ref-vala_1-3" class="reference"><a href="#cite_note-vala-1">[1]</a></sup> [Guild of Venturers](../G/Guild_of_Venturers.md) còn được gọi là *[Uinendili](Uinendili.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Được các thủy thủ của [Númenor](../N/Númenor.md) coi là người bảo vệ và mang lại vùng biển yên bình, họ sẽ kêu cứu cô ấy để được giúp đỡ, trong khi sự tôn trọng của họ dành cho [Valar](../V/Valar.md) vẫn tồn tại.<sup id="cite_ref-vala_1-3" class="reference"><a href="#cite_note-vala-1">[1]</a></sup> [Guild of Venturers](../G/Guild_of_Venturers.md) còn được gọi là *[Uinendili](Uinendili.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -85,7 +85,7 @@ Có hai cách giải thích cho tên *Uinen*. Trong *[The Etymologies](../T/The_
 
 Trong *[Annals of Aman](../A/Annals_of_Aman.md)*, Uinen và [Ossë](../O/Ossë.md) ban đầu được tính trong số Valar.
 
-Trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md), nhân vật này còn được đặt tên là *Ónen*, *Solórë*hoặc *Ui* (trong số các tên khác) và được phong danh hiệu "Nữ hoàng của [Nàng tiên cá](../M/Mermaids.md)".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md), nhân vật này còn được đặt tên là *Ónen*, *Solórë* hoặc *Ui* (trong số các tên khác) và được phong danh hiệu "Nữ hoàng của [Nàng tiên cá](../M/Mermaids.md)".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 <span></span>
 

@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-Chuyến khởi hành đầu tiên của - [Aldarion](../T/Tar-Aldarion.md)hướng tới [Trung Địa](../M/Middle-earth.md) với con tàu *[Palarran](../P/Palarran.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Chuyến khởi hành đầu tiên của - [Aldarion](../T/Tar-Aldarion.md) hướng tới [Trung Địa](../M/Middle-earth.md) với con tàu *[Palarran](../P/Palarran.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

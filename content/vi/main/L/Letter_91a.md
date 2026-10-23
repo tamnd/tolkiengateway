@@ -27,11 +27,11 @@ infobox:
 
 ## Nền {#Background}
 
-Tolkien đã viết hai bức thư cho Christopher vào ngày [29 tháng 11](../_/29_November.md). Bản được xuất bản là [no. 91](Letter_91.md) đã được gửi cùng với một bưu kiện chứa hai chương The Lord of the Rings, '[Hang ổ của Shelob](<../S/Shelob's_Lair_(chapter).md>)' và '[Những lựa chọn của Chủ nhân Samwise](../T/The_Choices_of_Master_Samwise.md)'. Thư 91a là từ thư chính được gửi riêng.
+Tolkien đã viết hai bức thư cho Christopher vào ngày [29 tháng 11](../_/29_November.md). Bản được xuất bản là [no. 91](Letter_91.md) đã được gửi cùng với một bưu kiện chứa hai chương The Lord of the Rings, '[Hang ổ của Shelob](<../S/Shelob's_Lair_(chapter).md>)' và '[Những lựa chọn của Thầy Samwise](../T/The_Choices_of_Master_Samwise.md)'. Thư 91a là từ thư chính được gửi riêng.
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư gửi con trai [Christopher](../C/Christopher_Tolkien.md), Tolkien mô tả ngày thứ Ba của mình, trong đó có việc phải giảng hai bài trong điều kiện trời gần tối vì mây mù dày đặc, và sau đó tận hưởng một buổi sáng đáng nhớ tại [The Eagle and Child](../T/The_Eagle_and_Child.md). Cuộc tụ họp bao gồm [C.S. Lewis](../C/C.S._Lewis.md), [Warnie](../W/Warren_Lewis.md), [Charles Williams](../C/Charles_Williams.md)và '[Đô đốc Đỏ](../R/Robert_Havard.md)', đã tổ chức sinh nhật cho C.S. Lewis mà họ phát hiện ra là vào ngày 29 tháng 11. <br>
+Trong bức thư gửi con trai [Christopher](../C/Christopher_Tolkien.md), Tolkien mô tả ngày thứ Ba của mình, trong đó có việc phải giảng hai bài trong điều kiện trời gần tối vì mây mù dày đặc, và sau đó tận hưởng một buổi sáng đáng nhớ tại [The Eagle and Child](../T/The_Eagle_and_Child.md). Cuộc tụ họp bao gồm [C.S. Lewis](../C/C.S._Lewis.md), [Warnie](../W/Warren_Lewis.md), [Charles Williams](../C/Charles_Williams.md) và '[Đô đốc Đỏ](../R/Robert_Havard.md)', đã tổ chức sinh nhật cho C.S. Lewis mà họ phát hiện ra là vào ngày 29 tháng 11. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -35,7 +35,7 @@ infobox:
 
 ## Cách chơi {#Gameplay}
 
-Ödesringen lấy bối cảnh ở [Moria](../M/Moria.md) và [Mordor](../M/Mordor.md)và dựa trên hành trình của [Frodo](../F/Frodo_Baggins.md). Người chơi phải vượt qua [Moria](../M/Moria.md) và [Mordor](../M/Mordor.md) và ném [Người Nhẫn](../T/The_One_Ring.md) vào ngọn lửa của [Núi Doom](../M/Mount_Doom.md).<sup id="cite_ref-Tolkien_Games_2-2" class="reference"><a href="#cite_note-Tolkien_Games-2">[2]</a></sup>
+Ödesringen lấy bối cảnh ở [Moria](../M/Moria.md) và [Mordor](../M/Mordor.md) và dựa trên hành trình của [Frodo](../F/Frodo_Baggins.md). Người chơi phải vượt qua [Moria](../M/Moria.md) và [Mordor](../M/Mordor.md) và ném [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) vào ngọn lửa của [Núi Doom](../M/Mount_Doom.md).<sup id="cite_ref-Tolkien_Games_2-2" class="reference"><a href="#cite_note-Tolkien_Games-2">[2]</a></sup>
 
 <span></span>
 

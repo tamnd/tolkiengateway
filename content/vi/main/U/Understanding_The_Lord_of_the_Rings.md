@@ -39,7 +39,7 @@ infobox:
 
 Được biên tập bởi các học giả [Tolkien](../J/J.R.R._Tolkien.md) Rose A. Zimbardo và Neil D. Isaacs, cuốn sách này trải qua 50 năm phản ứng của giới phê bình, từ lần xuất bản đầu tiên của The Fellowship of the Ring cho đến việc phát hành bộ ba phim của Peter Jackson. Người hâm mộ cũng như các học giả sẽ đánh giá cao những tác phẩm quan trọng, sâu sắc và kịp thời này, bao gồm các tác phẩm có nhiều tiếng nói khác nhau:
 
-Bài văn kinh điển đầy ngưỡng mộ của - [W.H. Auden](../W/W.H._Auden.md)về bản chất thực sự của nhiệm vụ anh hùng
+Bài văn kinh điển đầy ngưỡng mộ của - [W.H. Auden](../W/W.H._Auden.md) về bản chất thực sự của nhiệm vụ anh hùng
 - [C.S. Lewis](../C/C.S._Lewis.md) về giá trị của huyền thoại
 - Edmund Fuller về bản chất của truyện cổ tích
 - [Marion Zimmer Bradley](../M/Marion_Zimmer_Bradley.md) về việc tôn thờ anh hùng

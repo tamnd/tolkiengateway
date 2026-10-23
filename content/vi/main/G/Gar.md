@@ -25,7 +25,7 @@ David Kiltz đã gợi ý rằng *gar* có thể có nghĩa là "đi" hoặc m�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong [Gnomish](Gnomish.md)trước đó, *gar* có nghĩa là "địa điểm, quận".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong [Gnomish](Gnomish.md) trước đó, *gar* có nghĩa là "địa điểm, quận".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

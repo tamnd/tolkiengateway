@@ -14,7 +14,7 @@ categories:
   - "Tol Eressëa"
 ---
 
-**Heath of the Sky-roof** là một vùng đất hoang ở vùng cao nằm cách thị trấn [Tavrobel](../T/Tavrobel.md) ở [Tol Eressëa](../T/Tol_Eressëa.md)khoảng một <a class="extiw" href="http://en.wikipedia.org/wiki/League_(unit)" title="wikipedia:League (unit)">league</a>, theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
+**Heath of the Sky-roof** là một vùng đất hoang ở vùng cao nằm cách thị trấn [Tavrobel](../T/Tavrobel.md) ở [Tol Eressëa](../T/Tol_Eressëa.md) khoảng một <a class="extiw" href="http://en.wikipedia.org/wiki/League_(unit)" title="wikipedia:League (unit)">league</a>, theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
 Đó là địa điểm của một [trận chiến lớn](../B/Battle_of_the_Heath_of_the_Sky-roof.md) trong [Faring Forth](../F/Faring_Forth.md), sau đó nó được gọi là <i><b>Woldered Heath</b></i>, có lẽ là do sự tàn phá đã diễn ra trong trận chiến.<sup id="cite_ref-Sky_1-0" class="reference"><a href="#cite_note-Sky-1">[1]</a></sup>
 

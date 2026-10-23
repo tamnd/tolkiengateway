@@ -39,7 +39,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../F/Fíriel_(The_Last_Ship).md" title="Fíriel (The Last Ship)">Fíriel</a>, <a href="../L/Last_Ship.md" title="Last Ship">Last Ship</a></td></tr>
 </tbody></table>
 
-<i><b>Bài Con Tàu Cuối Cùng</b></i> là một bài thơ truyền thuyết về [the Shire](The_Shire.md) bắt nguồn từ [Kỷ Đệ Tứ](../F/Fourth_Age.md)và có lẽ bắt nguồn từ [Gondor](../G/Gondor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Bài Con Tàu Cuối Cùng</b></i> là một bài thơ truyền thuyết về [the Shire](The_Shire.md) bắt nguồn từ [Kỷ Đệ Tứ](../F/Fourth_Age.md) và có lẽ bắt nguồn từ [Gondor](../G/Gondor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Nó kể về một người phụ nữ, [Fíriel](<../F/Fíriel_(The_Last_Ship).md>), xinh đẹp đến mức [Tiên tộc](../E/Elves.md) đề nghị chở cô qua [Con Đường Thẳng](../S/Straight_Road.md) đến [Valinor](../V/Valinor.md), nhưng cô không thể đi cùng họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -49,7 +49,7 @@ Phiên bản gốc của bài thơ ban đầu có tên là <i><b>Firiel</b></i> 
 
 ## Xem thêm {#See_also}
 
-- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 <span></span>
 

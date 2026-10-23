@@ -41,7 +41,7 @@ infobox:
 
 Vào [8 tháng 3](../_/8_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), [Faramir](../F/Faramir.md) chia tay [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) khi [Hobbit](../H/Hobbits.md) tiếp tục hành trình vào [Mordor](../M/Mordor.md). Ông cảnh báo họ hãy cẩn thận với lãnh thổ gần đó và đừng bao giờ uống nước từ bất kỳ dòng nước nào chảy ra từ [Imlad Morgul](../I/Imlad_Morgul.md), Thung lũng của Tử thần. Faramir tặng Frodo và Sam thực phẩm đóng gói cho hành trình của họ, cũng như gậy chống để hỗ trợ họ khi mệt mỏi. [Gollum](../G/Gollum.md) được đưa ra khỏi nơi giam giữ, và cả ba người đều bị bịt mắt khi được đưa ra khỏi nơi ẩn náu của Faramir.
 
-Khi cuộc hành trình tiếp tục, Gollum báo cáo rằng khu vực này rất nguy hiểm và có rất nhiều con mắt theo dõi. Frodo hỏi liệu hình bóng tối ở đằng xa có phải là [Thung lũng Morgul](../M/Morgul_Vale.md)hay không. Gollum trả lời rằng đó thực sự là thung lũng và nói rằng họ phải di chuyển nhanh chóng đến một nơi gọi là [Ngã Tư](../C/Cross-roads.md).
+Khi cuộc hành trình tiếp tục, Gollum báo cáo rằng khu vực này rất nguy hiểm và có rất nhiều con mắt theo dõi. Frodo hỏi liệu hình bóng tối ở đằng xa có phải là [Thung lũng Morgul](../M/Morgul_Vale.md) hay không. Gollum trả lời rằng đó thực sự là thung lũng và nói rằng họ phải di chuyển nhanh chóng đến một nơi gọi là [Ngã Tư](../C/Cross-roads.md).
 
 Một đêm nọ, Frodo và Sam thức dậy và thấy Gollum đã biến mất. Sam bày tỏ sự nhẹ nhõm vì cuối cùng họ đã thoát khỏi anh ta, nhưng Frodo nhắc nhở anh ta về sự giúp đỡ mà Gollum đã dành cho họ trong quá khứ. Sam tỏ ra nghi ngờ, cho rằng Gollum có khả năng giở trò. Trong khi đó, bầu không khí đang thay đổi; ánh sáng ban ngày hơi tối và không khí có vẻ nặng nề và ấm áp.
 

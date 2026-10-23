@@ -54,7 +54,7 @@ Người chơi bắt đầu với tư cách là [Frodo Baggins](../F/Frodo_Baggi
 
 ## Nhân vật {#Characters}
 
-Tổng cộng có 37 nhân vật có thể chơi được trong phiên bản PC của trò chơi, một số nhân vật trong số đó chỉ khả dụng tạm thời. Một số nhân vật, chẳng hạn như [Elladan](../E/Elladan.md), [Elrohir](../E/Elrohir.md)và [Glorfindel](../G/Glorfindel.md), có thể được tuyển dụng và đưa vào phần cuối trò chơi nếu muốn.
+Tổng cộng có 37 nhân vật có thể chơi được trong phiên bản PC của trò chơi, một số nhân vật trong số đó chỉ khả dụng tạm thời. Một số nhân vật, chẳng hạn như [Elladan](../E/Elladan.md), [Elrohir](../E/Elrohir.md) và [Glorfindel](../G/Glorfindel.md), có thể được tuyển dụng và đưa vào phần cuối trò chơi nếu muốn.
 
 ### Nhân vật có thể chơi được {#Playable_characters}
 

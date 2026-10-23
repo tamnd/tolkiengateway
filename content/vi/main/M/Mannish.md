@@ -51,7 +51,7 @@ Sau Sự sụp đổ, các Tín đồ coi Sindarin tiếng mẹ đẻ của họ
     - [Taliska](../T/Taliska.md) (hai phương ngữ; [Bëor](../H/House_of_Bëor.md) và [Hador](../H/House_of_Hador.md))
         - [Adûnaic](../A/Adûnaic.md)
             - Đen Adûnaic của [Đen người Númenor](../B/Black_Númenóreans.md)
-            - [Westron](../W/Westron.md) hoặc "Ngôn ngữ Chung" (chịu ảnh hưởng của [Sindarin](../S/Sindarin.md)và ngôn ngữ của [Eriador](../E/Eriador.md))
+            - [Westron](../W/Westron.md) hoặc "Ngôn ngữ Chung" (chịu ảnh hưởng của [Sindarin](../S/Sindarin.md) và ngôn ngữ của [Eriador](../E/Eriador.md))
                 - [Hobbitish](../H/Hobbitish.md) (chịu ảnh hưởng của các ngôn ngữ [Người phương Bắc](../N/Northmen.md))
                 - [Stoorish](../S/Stoorish.md) (chịu ảnh hưởng của [Dunlendish](../D/Dunlendish.md))
     - Các ngôn ngữ của [Trung đại Con Người](Middle_Men.md) của [Eriador](../E/Eriador.md) trong [Thời đại thứ hai](../S/Second_Age.md)

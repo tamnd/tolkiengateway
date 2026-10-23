@@ -29,7 +29,7 @@ images:
 
 ## Tolkien và tiếng Latin {#Tolkien_and_Latin}
 
-[Tolkien](../T/Tolkien.md) rất yêu thích tiếng Latin. Anh được mẹ [Mabel Tolkien](../M/Mabel_Tolkien.md)dạy tiếng Latin khi còn nhỏ. Ông rất quan tâm đến cả âm thanh và ý nghĩa của từ. Điều này đánh dấu sự khởi đầu tình yêu của Tolkien với ngôn ngữ học và ngữ văn. Tolkien học tiếng Latinh tại [King Edward's School](../K/King_Edward's_School.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và sẽ tiếp tục học tiếng Latinh cho đến hết đời.
+[Tolkien](../T/Tolkien.md) rất yêu thích tiếng Latin. Anh được mẹ [Mabel Tolkien](../M/Mabel_Tolkien.md) dạy tiếng Latin khi còn nhỏ. Ông rất quan tâm đến cả âm thanh và ý nghĩa của từ. Điều này đánh dấu sự khởi đầu tình yêu của Tolkien với ngôn ngữ học và ngữ văn. Tolkien học tiếng Latinh tại [King Edward's School](../K/King_Edward's_School.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và sẽ tiếp tục học tiếng Latinh cho đến hết đời.
 
 Là một người có niềm tin tôn giáo sâu sắc, tiếng Latin cũng có ý nghĩa quan trọng đối với Tolkien do nó được sử dụng trong [Nhà thờ Công giáo](../C/Catholicism.md). Trong thời kỳ [1962](../_/1962.md)-[65](../_/1965.md) Giáo hội Công giáo đã trải qua quá trình chuyển đổi từ tiếng Latinh sang tiếng địa phương.<a class="external autonumber" href="https://en.wikipedia.org/wiki/Sacrosanctum_Concilium" rel="noreferrer noopener" target="_blank">[1]</a> Điều này khiến Tolkien không hài lòng lắm.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Cháu trai của Simon Tolkien](../S/Simon_Tolkien.md) J.R.R. Tolkien đã viết như sau:
 
@@ -57,7 +57,7 @@ Một trong những nỗ lực đầu tiên của Tolkien trong việc tạo ra 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Latin" title="wikipedia:Latin">Tiếng Latinh</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 - <a class="external text" href="http://glaemscrafu.jrrvf.com/english/latin.html" rel="noreferrer noopener" target="_blank">Văn bản và mẫu âm thanh</a> tại [Glǽmscrafu](../G/Glǽmscrafu.md)
 - <a class="external text" href="https://antigonejournal.com/2022/01/farmer-giles-tolkien-latin/" rel="noreferrer noopener" target="_blank">Niềm vui của các bữa tiệc Latin và lễ Giáng sinh: <i>Farmer Giles of Ham</i></a> của J.R.R. Tolkien của Mateusz Stróżyński
-- <a class="external text" href="http://www.legonium.com/hobbitus-i" rel="noreferrer noopener" target="_blank">Hobbitus-i</a>, bản tóm tắt minh họa về *[The Hobbit](../T/The_Hobbit.md)* bằng tiếng Latin của Anthony Gibbins
+- <a class="external text" href="http://www.legonium.com/hobbitus-i" rel="noreferrer noopener" target="_blank">Hobbitus-i</a>, bản tóm tắt minh họa về *[The Hobbit](../T/The_Hobbit.md)* bằng tiếng Latinh của Anthony Gibbins
 - <a class="external text" href="https://medium.com/in-medias-res/would-tolkien-approve-of-the-hobbit-in-latin-1b51089ee301" rel="noreferrer noopener" target="_blank">"Liệu Tolkien có chấp thuận <i>The Hobbit</i> bằng tiếng Latinh không?"</a>, Đánh giá phê bình về *Hobbitus Ille* của Robert Ziomkowski.
 
 ## Ghi chú {#Notes}

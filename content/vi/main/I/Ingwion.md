@@ -65,17 +65,17 @@ infobox:
 
 Ingwion sinh ra tại [Cuiviénen](../C/Cuiviénen.md) trước [Đại Hành Trình](../G/Great_Journey.md) với Ingwë và vợ [Ilwen](Ilwen.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[note 2]</a></sup><sup id="cite_ref-Nom_1-3" class="reference"><a href="#cite_note-Nom-1">[1]</a></sup>
 
-Vài nghìn năm sau, ông đã dẫn dắt [Vanyar](../V/Vanyar.md) [Đạo quân phương Tây](../H/Host_of_the_Valar.md) đến [Trung Địa](../M/Middle-earth.md) chiến đấu trong [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md) vào cuối [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-Van_7-1" class="reference"><a href="#cite_note-Van-7">[6]</a></sup>
+Vài nghìn năm sau, ông đã dẫn dắt [Vanyar](../V/Vanyar.md) [Đạo quân Phương Tây](../H/Host_of_the_Valar.md) đến [Trung Địa](../M/Middle-earth.md) chiến đấu trong [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md) vào cuối [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-Van_7-1" class="reference"><a href="#cite_note-Van-7">[6]</a></sup>
 
 Không có gì khác được biết về số phận của anh ta, trong hoặc sau chiến tranh.
 
 ## Từ nguyên {#Etymology}
 
-Tên *Ingwion* nằm trong [Quenya](../Q/Quenya.md)và là sự ghép từ tên của cha anh *Ingwë* + hậu tố từ viết tắt Quenya *[-ion](../_/-ion.md)* ("con trai của"), được dịch là "Con trai của Ingwë".<sup id="cite_ref-Iwe_9-0" class="reference"><a href="#cite_note-Iwe-9">[7]</a></sup>
+Tên *Ingwion* nằm trong [Quenya](../Q/Quenya.md) và là sự ghép từ tên của cha anh *Ingwë* + hậu tố từ viết tắt Quenya *[-ion](../_/-ion.md)* ("con trai của"), được dịch là "Con trai của Ingwë".<sup id="cite_ref-Iwe_9-0" class="reference"><a href="#cite_note-Iwe-9">[7]</a></sup>
 
 ## Tên khác {#Other_names}
 
-Tên *Ingwion* đã được thay đổi từ dạng *Ingwiel*trước đó,<sup id="cite_ref-Lat_6-1" class="reference"><a href="#cite_note-Lat-6">[5]</a></sup> chính nó đã được thay đổi từ *Ingwil*.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[8]</a></sup> Ý nghĩa của các dạng trước đó không rõ ràng, nhưng tất cả chúng đều chứa tên của cha anh ấy Ingwë như một trong các thành phần của chúng.<sup id="cite_ref-Iwe_9-1" class="reference"><a href="#cite_note-Iwe-9">[7]</a></sup>
+Tên *Ingwion* đã được thay đổi từ dạng *Ingwiel* trước đó,<sup id="cite_ref-Lat_6-1" class="reference"><a href="#cite_note-Lat-6">[5]</a></sup> chính nó đã được thay đổi từ *Ingwil*.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[8]</a></sup> Ý nghĩa của các dạng trước đó không rõ ràng, nhưng tất cả chúng đều chứa tên của cha anh ấy Ingwë như một trong các thành phần của chúng.<sup id="cite_ref-Iwe_9-1" class="reference"><a href="#cite_note-Iwe-9">[7]</a></sup>
 
 Tuy nhiên, trong *[The Nature of Middle-earth](../T/The_Nature_of_Middle-earth.md)*, từ một văn bản hẹn hò c. [1959](../_/1959.md), biểu mẫu <i><b>Ingwil</b></i> lại xuất hiện trở lại.<sup id="cite_ref-Nom_1-4" class="reference"><a href="#cite_note-Nom-1">[1]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[9]</a></sup>
 

@@ -18,7 +18,7 @@ Không có tường thuật đầy đủ, chi tiết nào về trận chiến đ
 
 ## Lịch sử {#History}
 
-Nó diễn ra tại [Heath of the Sky-roof](../H/Heath_of_the_Sky-roof.md), không xa [Tavrobel](../T/Tavrobel.md)và là cuộc chiến giữa hai nhóm [Con Người](../M/Men.md)khác nhau sau cuộc xâm lược Tol Eressëa của họ. Trận chiến kết thúc trong thất bại đối với Con Người trận giao hữu với Tiên tộc, và những Tiên tộc còn lại chạy trốn qua sông [Afros](../A/Afros.md) và [Gruir](../G/Gruir.md), với hy vọng thoát khỏi quân xâm lược.<sup id="cite_ref-Sky_1-1" class="reference"><a href="#cite_note-Sky-1">[1]</a></sup>
+Nó diễn ra tại [Heath of the Sky-roof](../H/Heath_of_the_Sky-roof.md), không xa [Tavrobel](../T/Tavrobel.md) và là cuộc chiến giữa hai nhóm [Con Người](../M/Men.md) khác nhau sau cuộc xâm lược Tol Eressëa của họ. Trận chiến kết thúc trong thất bại đối với Con Người trận giao hữu với Tiên tộc, và những Tiên tộc còn lại chạy trốn qua sông [Afros](../A/Afros.md) và [Gruir](../G/Gruir.md), với hy vọng thoát khỏi quân xâm lược.<sup id="cite_ref-Sky_1-1" class="reference"><a href="#cite_note-Sky-1">[1]</a></sup>
 
 Theo một phác thảo, thủy thủ người Mannish [Eriol](../E/Eriol.md) đã chứng kiến ​​trận chiến và cuối cùng bỏ chạy cùng với Tiên tộc, đồng thời viết những lời cuối cùng của *[Golden Book](../G/Golden_Book.md)* trong đống đổ nát của Tavrobel.<sup id="cite_ref-High_2-0" class="reference"><a href="#cite_note-High-2">[2]</a></sup>
 

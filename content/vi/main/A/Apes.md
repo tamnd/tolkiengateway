@@ -20,7 +20,7 @@ categories:
 
 **Khỉ** là động vật sống ở [viễn Nam](../F/Far_Harad.md) của [Trung Địa](../M/Middle-earth.md).
 
-Được cho là sống trong những khu rừng tối tăm ở miền Nam,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>chúng dường như chỉ được biết đến trong những câu chuyện ở miền Bắc. Có lẽ do chúng kém thông minh hơn nên từ "khỉ" cùng với "giòi" và <i><a class="mw-redirect mw-disambig" href="../S/Snaga.md" title="Snaga">snaga</a></i>đã trở thành một từ xúc phạm được [Orc](../O/Orcs.md)sử dụng.<sup id="cite_ref-UH_1-1" class="reference"><a href="#cite_note-UH-1">[1]</a></sup>
+Được cho là sống trong những khu rừng tối tăm ở miền Nam,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>chúng dường như chỉ được biết đến trong những câu chuyện ở miền Bắc. Có lẽ do chúng kém thông minh hơn nên từ "khỉ" cùng với "giòi" và <i><a class="mw-redirect mw-disambig" href="../S/Snaga.md" title="Snaga">snaga</a></i>đã trở thành một từ xúc phạm được [Orc](../O/Orcs.md) sử dụng.<sup id="cite_ref-UH_1-1" class="reference"><a href="#cite_note-UH-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

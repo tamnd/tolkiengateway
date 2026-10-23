@@ -15,7 +15,7 @@ categories:
   - "Taliska words"
 ---
 
-<i><b>cánh</b></i> có nghĩa là "bọt, bọt, trôi" trong ngôn ngữ của [Tiên Xanh](../G/Green-elves.md) của [Ossiriand](../O/Ossiriand.md), được giải thích bởi [Tiên các bậc thầy truyền thuyết](../L/Lambengolmor.md) sau khi [Beleriand](../B/Beleriand.md)bị phá hủy.<sup id="cite_ref-PMXI4_1-0" class="reference"><a href="#cite_note-PMXI4-1">[1]</a></sup>
+<i><b>cánh</b></i> có nghĩa là "bọt, bọt, trôi" trong ngôn ngữ của [Tiên Xanh](../G/Green-elves.md) của [Ossiriand](../O/Ossiriand.md), được giải thích bởi [Tiên các bậc thầy truyền thuyết](../L/Lambengolmor.md) sau khi [Beleriand](../B/Beleriand.md) bị phá hủy.<sup id="cite_ref-PMXI4_1-0" class="reference"><a href="#cite_note-PMXI4-1">[1]</a></sup>
 
 Một quan niệm khác cho rằng *wing* là một từ [Bëorian](../T/Taliska.md).<sup id="cite_ref-PMRos_2-0" class="reference"><a href="#cite_note-PMRos-2">[2]</a></sup>
 

@@ -52,7 +52,7 @@ Không rõ liệu anh ta có tham gia [Great March](../G/Great_March.md) hay ở
 
 ## Từ nguyên {#Etymology}
 
-Tên *Ilion* dường như có trong [Quenya](../Q/Quenya.md)và có thể có nghĩa là "tất cả con trai", từ [gốc](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=IL&amp;action=edit&amp;redlink=1" title="IL (page does not exist)">IL</a> ("all") + -*[ion](Ion.md)* (từ viết tắt nam tính).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên *Ilion* dường như có trong [Quenya](../Q/Quenya.md) và có thể có nghĩa là "tất cả con trai", từ [gốc](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=IL&amp;action=edit&amp;redlink=1" title="IL (page does not exist)">IL</a> ("all") + -*[ion](Ion.md)* (từ viết tắt nam tính).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

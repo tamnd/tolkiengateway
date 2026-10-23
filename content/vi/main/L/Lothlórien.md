@@ -71,7 +71,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../G/Galadriel&#39;s_Song.md" title="Galadriel&#39;s Song">Galadriel&#39;s Song</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Lothlórien** là vương quốc của [Silvan Tiên tộc](../S/Silvan_Elves.md) ở phía đông của [Hithaeglir](../M/Misty_Mountains.md). Nó được coi là một trong những địa điểm đẹp và "thần tiên" nhất ở [Trung Địa](../M/Middle-earth.md) trong [Kỷ Đệ Tam](../T/Third_Age.md)và có [cây mallorn](../M/Mallorn.md) duy nhất ở phía đông [biển](../B/Belegaer.md).
+**Lothlórien** là vương quốc của [Silvan Tiên tộc](../S/Silvan_Elves.md) ở phía đông của [Hithaeglir](../M/Misty_Mountains.md). Nó được coi là một trong những địa điểm đẹp và "thần tiên" nhất ở [Trung Địa](../M/Middle-earth.md) trong [Kỷ Đệ Tam](../T/Third_Age.md) và có [cây mallorn](../M/Mallorn.md) duy nhất ở phía đông [biển](../B/Belegaer.md).
 
 ## Lịch sử {#History}
 
@@ -85,9 +85,9 @@ Sau sự hủy diệt của [Beleriand](../B/Beleriand.md) và [Chiến tranh Ph
 
 [Celeborn](../C/Celeborn.md), một yêu tinh Sindarin, sống cùng vợ [Noldorin](../N/Noldor.md) [Galadriel](../G/Galadriel.md) tại [Eregion](../E/Eregion.md). Họ đã liên lạc được với [Galadhrim](../G/Galadhrim.md) và chẳng bao lâu sau họ đã đi qua [Moria](../M/Moria.md) và đến khu rừng. Trước [Sự sụp đổ của Eregion](../S/Sack_of_Eregion.md) và cái chết của [Celebrimbor](../C/Celebrimbor.md), [Nenya](../N/Nenya.md), một trong những [Ba Chiếc Nhẫn](../T/Three_Rings.md) của Tiên tộc, đã được giao cho Galadriel.<sup id="cite_ref-Concerning_8-0" class="reference"><a href="#cite_note-Concerning-8">[8]</a></sup> Những người sống sót khác của [Eregion](../E/Eregion.md), bao gồm nhiều [Noldor](../N/Noldor.md) và [Sindar](../S/Sindar.md), đã trốn thoát vào [Khazad-dûm](../K/Khazad-dûm.md) và được bạn bè của họ cho phép đi qua [Người Lùn](../D/Dwarves.md), cuối cùng đi qua [Dãy Núi Sương Mù](../M/Misty_Mountains.md) tới khu rừng.<sup id="cite_ref-Galadriel_9-0" class="reference"><a href="#cite_note-Galadriel-9">[9]</a></sup>
 
-Khi quyền lực của [Sauron](../S/Sauron.md)tăng lên trên [Westlands](../W/Westlands.md), Vua Amdír điều động Galadhrim đến [Cuộc chiến của Liên minh Cuối cùng](../W/War_of_the_Last_Alliance.md) nơi nhiều người đã ngã xuống ở [Đầm lầy Chết](../D/Dead_Marshes.md) cùng với Vua của họ.<sup id="cite_ref-Sindarin_4-3" class="reference"><a href="#cite_note-Sindarin-4">[4]</a></sup>
+Khi quyền lực của [Sauron](../S/Sauron.md) tăng lên trên [Westlands](../W/Westlands.md), Vua Amdír điều động Galadhrim đến [Cuộc chiến của Liên minh Cuối cùng](../W/War_of_the_Last_Alliance.md) nơi nhiều người đã ngã xuống ở [Đầm lầy Chết](../D/Dead_Marshes.md) cùng với Vua của họ.<sup id="cite_ref-Sindarin_4-3" class="reference"><a href="#cite_note-Sindarin-4">[4]</a></sup>
 
-Những người sống sót, trong đó có con trai [Amroth](../A/Amroth.md)của Amdír, đã quay trở lại Lórinand. Amroth là Vua mới, nhưng anh ấy đã chán Trung Địa và muốn đi Phương Tây tìm kiếm [Valinor](../V/Valinor.md). Khi Moria rơi vào vòng ác quỷ ở [T.A.](../T/Third_Age.md) [1981](../T/Third_Age_1981.md), nhiều Galadhrim đã chạy trốn [phía nam](../E/Edhellond.md). Amroth cũng ra đi cùng với người anh yêu, [Nimrodel](<../N/Nimrodel_(Elf-maid).md>), và họ không bao giờ được gặp lại.<sup id="cite_ref-AaN_7-1" class="reference"><a href="#cite_note-AaN-7">[7]</a></sup>
+Những người sống sót, trong đó có con trai [Amroth](../A/Amroth.md) của Amdír, đã quay trở lại Lórinand. Amroth là Vua mới, nhưng anh ấy đã chán Trung Địa và muốn đi Phương Tây tìm kiếm [Valinor](../V/Valinor.md). Khi Moria rơi vào vòng ác quỷ ở [T.A.](../T/Third_Age.md) [1981](../T/Third_Age_1981.md), nhiều Galadhrim đã chạy trốn [phía nam](../E/Edhellond.md). Amroth cũng ra đi cùng với người anh yêu, [Nimrodel](<../N/Nimrodel_(Elf-maid).md>), và họ không bao giờ được gặp lại.<sup id="cite_ref-AaN_7-1" class="reference"><a href="#cite_note-AaN-7">[7]</a></sup>
 
 ### Lạy Chúa và Phu nhân {#Lord_and_Lady}
 
@@ -107,7 +107,7 @@ Nhưng khi [Kỷ Đệ Tam](../T/Third_Age.md) kết thúc, rắc rối cuối c
 
 Ở đó Tiên tộc biết được cái chết của [Gandalf](../G/Gandalf.md), và Galadriel biết [ác quỷ](../T/The_One_Ring.md) đã được đưa vào Rừng Vàng. Cô ấy đã tiết lộ chiếc nhẫn của mình cho Frodo và cho anh ấy xem [tấm gương](../M/Mirror_of_Galadriel.md) của mình.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Sau đó, Hội học bổng được trang bị những vật dụng mới và gửi đi Anduin, mang theo [những món quà](../G/Gifts_of_Galadriel.md) của Chúa và Phu nhân.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
 
-Ngay khi Đại đội rời đi, [Gwaihir](../G/Gwaihir.md) đã đưa [Gandalf](../G/Gandalf.md) đến Golden Wood, người đang hồi phục sau trận chiến với [Tai họa của Durin](../D/Durin's_Bane.md). Anh ta đã được chữa lành, được mặc quần áo và được cấp một cây trượng mới trước khi lên đường đi <a class="mw-redirect mw-disambig" href="../F/Fangorn.md" title="Fangorn">Fangorn</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+Ngay khi Đại đội rời đi, [Gwaihir](../G/Gwaihir.md) đã đưa [Gandalf](../G/Gandalf.md) đến Golden Wood, người đang hồi phục sau trận chiến với [Tai Họa của Durin](../D/Durin's_Bane.md). Anh ta đã được chữa lành, được mặc quần áo và được cấp một cây trượng mới trước khi lên đường đi <a class="mw-redirect mw-disambig" href="../F/Fangorn.md" title="Fangorn">Fangorn</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
 
 Nhưng sự xuất hiện của [One Ring](../O/One_Ring.md) chỉ là khởi đầu cho những rắc rối của họ, là điềm báo trước về những xung đột lớn hơn sắp xảy ra. [Sauron](../S/Sauron.md) tung ra [các cuộc tấn công lớn](../A/Assaults_on_Lothlórien.md) vào Golden Wood.
 

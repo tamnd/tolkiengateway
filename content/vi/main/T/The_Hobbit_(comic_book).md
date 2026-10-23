@@ -87,7 +87,7 @@ Năm 1992, Eclipse Comics phát hành thẻ giao dịch dựa trên truyện tra
 
 Ba số đã xuất bản phát hành trong [1989](../_/1989.md) được gọi là **Quyển Một**, **Quyển Hai** và **Quyển Ba**<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 1]</a></sup>. Các số được đánh số liên tục: phần một gồm các trang từ 1 đến 44 (cho đến [trò chơi giải đố](../R/Riddles_in_the_Dark.md)), phần hai từ trang 45 đến 88 (cho đến [bè Người Hồ](../B/Barrels_Out_of_Bond.md)), và phần ba trang 89 đến 133.
 
-Các số báo được đóng thành một tập bìa mềm thương mại [1990](../_/1990.md)và các ấn bản mới hơn đã được phát hành trong những năm tiếp theo.<sup id="cite_ref-collier_1-2" class="reference"><a href="#cite_note-collier-1">[1]</a></sup>
+Các số báo được đóng thành một tập bìa mềm thương mại [1990](../_/1990.md) và các ấn bản mới hơn đã được phát hành trong những năm tiếp theo.<sup id="cite_ref-collier_1-2" class="reference"><a href="#cite_note-collier-1">[1]</a></sup>
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 160px">

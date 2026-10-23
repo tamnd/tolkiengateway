@@ -47,7 +47,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Faramir](../F/Faramir.md) và [chỉ huy thứ hai](../M/Madril.md) của anh ta thảo luận về việc di chuyển của quân đội của [Sauron](../S/Sauron.md)và [Saruman](../S/Saruman.md). Họ biết [Gondor](../G/Gondor.md) là yếu.
+[Faramir](../F/Faramir.md) và [chỉ huy thứ hai](../M/Madril.md) của anh ta thảo luận về việc di chuyển của quân đội của [Sauron](../S/Sauron.md) và [Saruman](../S/Saruman.md). Họ biết [Gondor](../G/Gondor.md) là yếu.
 
 Faramir tháo khăn bịt mắt của [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) và nói chuyện với họ, nói rằng người của anh ta nói với anh ta rằng họ là gián điệp. Sam không chấp nhận điều này và Frodo cho Faramir biết tên của họ. Khi được hỏi về *"[skulking friend](../G/Gollum.md)"*của họ, Frodo cho biết anh và Sam đang đi du lịch một mình. Sau đó anh ta nói với Faramir rằng hai người họ đã rời đi [Rivendell](../R/Rivendell.md) cùng với bảy người bạn đồng hành.
 

@@ -38,7 +38,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Người thủy thủ [Eriol](../E/Eriol.md)tìm kiếm những vùng đất xa lạ cuối cùng đã đến được hòn đảo Tol Eressëa. Ở đó, anh lang thang cho đến khi đến trung tâm hòn đảo và thành phố [Kortirion](../K/Kortirion.md). Mệt mỏi khi màn đêm buông xuống, anh tìm một nơi để nghỉ ngơi. Anh nhìn thấy [Ngôi nhà của Lost Play](../C/Cottage_of_Lost_Play.md), với nhiều cửa sổ nhỏ được che rèm vừa khít, tràn ngập ánh sáng ấm áp. Anh ta gõ cửa và được Chủ nhân ngôi nhà chào đón, Lindo và vợ Vairë.
+Người thủy thủ [Eriol](../E/Eriol.md) tìm kiếm những vùng đất xa lạ cuối cùng đã đến được hòn đảo Tol Eressëa. Ở đó, anh lang thang cho đến khi đến trung tâm hòn đảo và thành phố [Kortirion](../K/Kortirion.md). Mệt mỏi khi màn đêm buông xuống, anh tìm một nơi để nghỉ ngơi. Anh nhìn thấy [Ngôi nhà của Lost Play](../C/Cottage_of_Lost_Play.md), với nhiều cửa sổ nhỏ được che rèm vừa khít, tràn ngập ánh sáng ấm áp. Anh ta gõ cửa và được Chủ nhân ngôi nhà chào đón, Lindo và vợ Vairë.
 
 Sau khi giới thiệu, Lindo giải thích rằng nơi ở đó được gọi là Mar Vanwa Tyaliéva, hay Ngôi nhà của những trò chơi lạc lối. Bên cạnh anh ta còn có nhiều yêu tinh khác và những đứa trẻ giống người lớn với nhiều kích cỡ khác nhau. Anh ta nhận thấy sự tò mò của Eriol và nói: "*Nơi ở nhỏ, nhưng những người sống ở đây còn nhỏ hơn - vì tất cả những ai bước vào thực sự phải rất nhỏ bé, nếu không họ muốn trở thành những người rất nhỏ ngay cả khi họ đứng trước ngưỡng cửa*."<sup id="cite_ref-Cottage_1-1" class="reference"><a href="#cite_note-Cottage-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:13–4</sup>
 

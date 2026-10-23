@@ -75,7 +75,7 @@ Dòng thời gian về cuộc đời của **[Galadriel](../G/Galadriel.md)** tr
 
 ### [465](../F/First_Age_465.md) {#465}
 
-- Mùa thu: Cái chết của Finrod khi bị [Sauron](../S/Sauron.md)nuôi nhốt.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+- Mùa thu: Cái chết của Finrod khi bị [Sauron](../S/Sauron.md) nuôi nhốt.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
 
 ### [495](../F/First_Age_495.md) {#495}
 
@@ -105,7 +105,7 @@ Dòng thời gian về cuộc đời của **[Galadriel](../G/Galadriel.md)** tr
 
 ### c. [700](../S/Second_Age_700.md) {#c._700}
 
-- Galadriel và Celeborn tiến về phía đông và đóng quân ở [Eregion](../E/Eregion.md) gần [Moria](../M/Moria.md). Cô tìm kiếm tình bạn của [Người Lùn Khazad-dûm](../D/Dwarves_of_Khazad-dûm.md) và [Nandor](../N/Nandor.md) của [Lórinand](../L/Lórinand.md).<sup id="cite_ref-Concerning_22-2" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:236</sup>
+- Galadriel và Celeborn tiến về phía đông và đóng quân ở [Eregion](../E/Eregion.md) gần [Moria](../M/Moria.md). Cô tìm kiếm tình bạn của [Người lùn Khazad-dûm](../D/Dwarves_of_Khazad-dûm.md) và [Nandor](../N/Nandor.md) của [Lórinand](../L/Lórinand.md).<sup id="cite_ref-Concerning_22-2" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:236</sup>
 
 ### [750](../S/Second_Age_750.md) {#750}
 
@@ -125,7 +125,7 @@ Dòng thời gian về cuộc đời của **[Galadriel](../G/Galadriel.md)** tr
 
 ### c. [1600](../S/Second_Age_1600.md) {#c._1600}
 
-- Sự phản bội của Sauron bị phát hiện khi anh ta rèn ra [Người duy nhất Nhẫn](The_One_Ring.md).<sup id="cite_ref-Second_23-3" class="reference"><a href="#cite_note-Second-23">[23]</a></sup>
+- Sự phản bội của Sauron bị phát hiện khi anh ta rèn [Chiếc Nhẫn Chúa](The_One_Ring.md).<sup id="cite_ref-Second_23-3" class="reference"><a href="#cite_note-Second-23">[23]</a></sup>
 
 ### [1693](../S/Second_Age_1693.md) {#1693}
 
@@ -152,7 +152,7 @@ Dòng thời gian về cuộc đời của **[Galadriel](../G/Galadriel.md)** tr
 
 ### [1981](Third_Age_1981.md) {#1981}
 
-- Sau khi [Tai họa của Durin](../D/Durin's_Bane.md)xuất hiện, Moria sẽ trống rỗng. Nhiều [Silvan Tiên tộc](../S/Silvan_Elves.md) của Lórien bay về phía nam.<sup id="cite_ref-Third_25-2" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1087</sup>
+- Sau khi [Tai Họa của Durin](../D/Durin's_Bane.md) xuất hiện, Moria sẽ trống rỗng. Nhiều [Silvan Tiên tộc](../S/Silvan_Elves.md) của Lórien bay về phía nam.<sup id="cite_ref-Third_25-2" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1087</sup>
 - Vào khoảng thời gian này, Galadriel và Celeborn trở thành [Chúa và Phu nhân của Lórien](../L/Lord_and_Lady_of_Lórien.md).<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>
 
 ### [2463](Third_Age_2463.md) {#2463}
@@ -166,7 +166,7 @@ Dòng thời gian về cuộc đời của **[Galadriel](../G/Galadriel.md)** tr
 
 ### [2851](Third_Age_2851.md) {#2851}
 
-- Cuộc Bạch Hội Đồng gặp nhau. Ý tưởng tấn công [Dol Guldur](../D/Dol_Guldur.md) bị [Saruman](../S/Saruman.md)bác bỏ.<sup id="cite_ref-Third_25-5" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1088</sup>
+- Cuộc Bạch Hội Đồng gặp nhau. Ý tưởng tấn công [Dol Guldur](../D/Dol_Guldur.md) bị [Saruman](../S/Saruman.md) bác bỏ.<sup id="cite_ref-Third_25-5" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1088</sup>
 
 ### [2941](Third_Age_2941.md) {#2941}
 
@@ -184,7 +184,7 @@ Dòng thời gian về cuộc đời của **[Galadriel](../G/Galadriel.md)** tr
 
 - [17 tháng 1](../_/17_January.md): Galadriel và Celeborn nhận [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) vào Lothlórien.<sup id="cite_ref-Great_29-0" class="reference"><a href="#cite_note-Great-29">[29]</a></sup>
 
-- [15 tháng 2](../_/15_February.md):<sup id="cite_ref-Great_29-1" class="reference"><a href="#cite_note-Great-29">[29]</a></sup> Galadriel chiếu [Tấm gương của cô ấy](../M/Mirror_of_Galadriel.md) cho Frodo Baggins. Cô ấy bị cám dỗ bởi [Một Nhẫn](../O/One_Ring.md) nhưng từ chối nó.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>
+- [15 tháng 2](../_/15_February.md):<sup id="cite_ref-Great_29-1" class="reference"><a href="#cite_note-Great-29">[29]</a></sup> Galadriel chiếu [Tấm gương của cô ấy](../M/Mirror_of_Galadriel.md) cho Frodo Baggins. Cô ấy bị cám dỗ bởi [Chiếc nhẫn một](../O/One_Ring.md) nhưng từ chối nó.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>
 - [16 tháng 2](../_/16_February.md):<sup id="cite_ref-Great_29-2" class="reference"><a href="#cite_note-Great-29">[29]</a></sup> Galadriel tặng [quà](../G/Gifts_of_Galadriel.md) và [lembas](../L/Lembas.md) cho Hội và chào tạm biệt họ bằng cách đọc *[Namárië](../N/Namárië.md)*.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>
 - [17 tháng 2](../_/17_February.md): Gandalf được phục sinh được mang đến Lórien bởi [Gwaihir](../G/Gwaihir.md),<sup id="cite_ref-Great_29-3" class="reference"><a href="#cite_note-Great-29">[29]</a></sup> người được gửi bởi Galadriel. Gandalf được nhận trong [Caras Galadhon](../C/Caras_Galadhon.md) và mặc đồ màu trắng. Galadriel đưa cho anh ta [một số thông điệp tiên tri](../G/Galadriel's_messages.md) cho [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md).<sup id="cite_ref-White_32-0" class="reference"><a href="#cite_note-White-32">[32]</a></sup>
 

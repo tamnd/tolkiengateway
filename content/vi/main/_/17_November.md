@@ -68,13 +68,13 @@ Sự kiện xảy ra vào ngày 17 tháng 11
 - **[1954](1954.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho Rayner Heppenstall](<../L/Letter_to_Rayner_Heppenstall_(17_November_1954).md>).
 - **[1957](1957.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho Tiến sĩ Herbert Schiro](../L/Letter_to_Herbert_Schiro.md) ([thư 203](../L/Letter_203.md)).
 - **[1957](1957.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Przemyslaw Mroczkowski](<../L/Letter_to_Przemyslaw_Mroczkowski_(17_November_1957).md>).
-- **[1968](1968.md)** – *The Clouds Burst*, tập thứ tám và cũng là tập cuối cùng của [loạt phim phát thanh năm 1968](<../T/The_Hobbit_(1968_radio_series).md>) của *[The Hobbit](../T/The_Hobbit.md)*, được phát sóng trên [BBC Radio](../B/BBC.md).
+- **[1968](1968.md)** – *The Clouds Burst*, tập thứ tám và cũng là tập cuối cùng của [loạt phim phát thanh năm 1968](<../T/The_Hobbit_(1968_radio_series).md>) của *[The Hobbit](../T/The_Hobbit.md)*, được phát sóng trên [Đài BBC](../B/BBC.md).
 - **[1996](1996.md)** – Trang web của hội ngôn ngữ [Forodrim](../F/Forodrim.md), <a class="external text" href="http://www.forodrim.org/daeron/md_home.html" rel="noreferrer noopener" target="_blank">Mellonath Daeron</a>, được đưa lên mạng.
 - **[2011](2011.md)** – *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* được phát hành tại Brazil.
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md)tới [Turgon](../T/Turgon.md). Đến gần [Echoriad](../E/Echoriad.md) họ tránh được một nhóm [Orc](../O/Orcs.md) trên [Old South Road](<../O/Old_South_Road_(Beleriand).md>).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md). Đến gần [Echoriad](../E/Echoriad.md) họ tránh được một nhóm [Orc](../O/Orcs.md) trên [Old South Road](<../O/Old_South_Road_(Beleriand).md>).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Kẻ duy nhất Nhẫn](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
