@@ -68,7 +68,7 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="../O/Of_the_Coming_of_the_Elves_and_the_Captivity_of_Melkor.md" title="Of the Coming of the Elves and the Captivity of Melkor">Of the Coming of the Elves and the Captivity of Melkor</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Vanyar** là một trong ba nhóm [High Elves](../C/Calaquendi.md), cùng với [Noldor](../N/Noldor.md)và một số [Teleri](../T/Teleri.md) (cụ thể hơn là [Falmari](../F/Falmari.md)). Họ được biết đến với biệt danh "Yêu tinh" vì màu tóc sáng của họ.
+**Vanyar** là một trong ba nhóm [High Elves](../C/Calaquendi.md), cùng với [Noldor](../N/Noldor.md) và một số [Teleri](../T/Teleri.md) (cụ thể hơn là [Falmari](../F/Falmari.md)). Họ được biết đến với biệt danh "Yêu tinh" vì màu tóc sáng của họ.
 
 ## Lịch sử {#History}
 

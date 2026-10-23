@@ -59,12 +59,12 @@ langlinks:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Events that occurred on 26 March.
+Sự kiện xảy ra vào ngày 26 tháng 3.
 
 ## Trên Trái đất {#On_Earth}
 
 - **[1931](1931.md)** - [Leonard Nimoy](../L/Leonard_Nimoy.md), người sẽ đạt đến địa vị sùng bái với *[The Ballad of Bilbo Baggins](../T/The_Ballad_of_Bilbo_Baggins.md)*, đã ra đời.
-- **[1938](1938.md)** - "[Có điều kỳ diệu trong The Hobbit](../T/There's_magic_in_The_Hobbit.md)", quảng cáo của [Houghton Mifflin](../H/Houghton_Mifflin.md)cho *[The Hobbit](../T/The_Hobbit.md)*, được in trong *Publishers Weekly*.
+- **[1938](1938.md)** - "[Có điều kỳ diệu trong The Hobbit](../T/There's_magic_in_The_Hobbit.md)", quảng cáo của [Houghton Mifflin](../H/Houghton_Mifflin.md) cho *[The Hobbit](../T/The_Hobbit.md)*, được in trong *Publishers Weekly*.
 - **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 143d](../L/Letter_143d.md).
 - **[2011](2011.md)** - <a class="external text" href="http://3rdcome.org/" rel="noreferrer noopener" target="_blank">Hội nghị lần thứ 3 về Trung Địa</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Westford,_Massachusetts" title="wikipedia:Westford, Massachusetts">Westford, Massachusetts</a>.
 - **[2011](2011.md)** - Tác giả [Diana Wynne Jones](../D/Diana_Wynne_Jones.md) qua đời.

@@ -79,7 +79,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../L/Legolas.md" title="Legolas">Legolas</a> in <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../T/The_Last_Debate.md" title="The Last Debate">The Last Debate</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Imrahil** là [Thân vương Dol Amroth](../P/Prince_of_Dol_Amroth.md)thứ 22.
+**Imrahil** là [Thân vương Dol Amroth](../P/Prince_of_Dol_Amroth.md) thứ 22.
 
 ## Lịch sử {#History}
 
@@ -93,7 +93,7 @@ Imrahil là con trai duy nhất của [Adrahil](../A/Adrahil.md) của [Dol Amro
 
 Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Imrahil đã đến giúp đỡ anh rể [Denethor II](../D/Denethor.md). Vào [9 tháng 3](../_/9_March.md), [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), anh ta tiến vào [Minas Tirith](../M/Minas_Tirith.md) cùng với một đại đội hiệp sĩ và bảy trăm binh sĩ.<sup id="cite_ref-MT_2-0" class="reference"><a href="#cite_note-MT-2">[2]</a></sup> Vào [13 tháng 3](../_/13_March.md), khi [Southrons](../S/Southrons.md) quấy rối [Faramir](../F/Faramir.md), Imrahil và các hiệp sĩ của anh ta, cùng với [Gandalf](../G/Gandalf.md), đã xuất kích và Imrahil chính anh ta đã cứu anh ta em gái từ những kẻ truy đuổi mình.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Faramir nhận một vết thương độc, và Denethor rơi vào trạng thái điên loạn. Là sĩ quan cấp cao nhất trong [Gondor](../G/Gondor.md) đủ sức chiến đấu, Imrahil nhận quyền chỉ huy và nhanh chóng chuyển giao cho Gandalf.
 
-Hai ngày sau, [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md) hoành hành trước thành phố. Imrahil mạo hiểm ra ngoài thành phố và chứng kiến ​​lễ rước tang lễ của [Théoden](../T/Théoden.md). Tại đây, anh ấy đã nhìn thấy [Éowyn](../_/Éowyn.md)và tự hỏi rằng Rohan sẽ gửi ngay cả những phụ nữ có nhu cầu lớn đến Gondor đến. Mặc dù Théoden đã qua đời nhưng Imrahil nhận ra rằng Éowyn vẫn còn sống (mặc dù cô ấy đã cận kề cái chết) và ra lệnh đưa cô ấy đến [Nhà chữa bệnh](../H/Houses_of_Healing.md).
+Hai ngày sau, [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md) hoành hành trước thành phố. Imrahil mạo hiểm ra ngoài thành phố và chứng kiến ​​lễ rước tang lễ của [Théoden](../T/Théoden.md). Tại đây, anh ấy đã nhìn thấy [Éowyn](../_/Éowyn.md) và tự hỏi rằng Rohan sẽ gửi ngay cả những phụ nữ có nhu cầu lớn đến Gondor đến. Mặc dù Théoden đã qua đời nhưng Imrahil nhận ra rằng Éowyn vẫn còn sống (mặc dù cô ấy đã cận kề cái chết) và ra lệnh đưa cô ấy đến [Nhà chữa bệnh](../H/Houses_of_Healing.md).
 
 Bởi vì [Éomer](../_/Éomer.md) và các tay đua của anh ta đông hơn, Imrahil đã tham gia trận chiến cùng với [Húrin the Tall](<../H/Húrin_(Warden_of_the_Keys).md>), [Forlong of Lossarnach](../F/Forlong.md) và [Hirluin the Fair](../H/Hirluin.md), và họ nhanh chóng có sự tham gia của [Aragorn](../A/Aragorn.md), người đã hạ cánh xuống [Harlond](../H/Harlond_in_Gondor.md). Imrahil tiếp tục phương Đông, xua đuổi [Variags](../V/Variags.md) và [orc](../O/Orcs.md) đang sợ hãi.
 
@@ -109,7 +109,7 @@ Thân vương Imrahil đã có mặt tại lễ kỷ niệm [cánh đồng Corma
 
 ### Đời sau {#Later_life}
 
-Sau Cuộc chiến Nhẫn, Thân vương Imrahil và cháu trai [Faramir](../F/Faramir.md), [Thân vương của Ithilien](../P/Prince_of_Ithilien.md), là chỉ huy trưởng của Vua Elessar. Imrahil cũng là một phần của [Hội đồng Gondor](../C/Council_of_Gondor.md)vĩ đại và vẫn là cố vấn của Vua.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Sau Cuộc chiến Nhẫn, Thân vương Imrahil và cháu trai [Faramir](../F/Faramir.md), [Thân vương của Ithilien](../P/Prince_of_Ithilien.md), là chỉ huy trưởng của Vua Elessar. Imrahil cũng là một phần của [Hội đồng Gondor](../C/Council_of_Gondor.md) vĩ đại và vẫn là cố vấn của Vua.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 Thân vương Imrahil mất vào năm [34](../F/Fourth_Age_34.md) [Kỷ Đệ Tứ](../F/Fourth_Age.md), và được kế vị bởi con trai cả [Elphir](../E/Elphir.md), người nối nghiệp Hoàng tử.<sup id="cite_ref-Elendil_1-1" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup>
 

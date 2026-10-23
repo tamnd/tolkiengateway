@@ -13,7 +13,7 @@ categories:
   - "Calendars (real-world)"
 ---
 
-**Lịch ảo năm 1983** do Antioch Not-Too-Big Calendars xuất bản với hình minh họa màu là loại lịch duy nhất liên quan đến [Tolkien](../J/J.R.R._Tolkien.md)được phát hành vào năm 1983.
+**Lịch ảo năm 1983** do Antioch Not-Too-Big Calendars xuất bản với hình minh họa màu là loại lịch duy nhất liên quan đến [Tolkien](../J/J.R.R._Tolkien.md) được phát hành vào năm 1983.
 
 - Kích thước: 5,75 x 5,75 inch
 - Dập ghim

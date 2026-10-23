@@ -37,7 +37,7 @@ Tolkien đã trả lời <a class="new" href="https://tolkiengateway.net/w/index
 
 - Các số này được xuất bản trên *[Quettar](../Q/Quettar.md)* vào những năm 1980 và hiện đã trở thành tiêu chuẩn trên hầu hết [phông chữ](../F/Fonts.md).
 - Người Tiên tộc sử dụng hệ thống <a class="extiw" href="http://en.wikipedia.org/wiki/Duodecimal" title="wikipedia:Duodecimal">số thập phân</a>, còn nam giới sử dụng hệ thống <a class="extiw" href="http://en.wikipedia.org/wiki/Decimal" title="wikipedia:Decimal">thập phân</a>.
-- Ví dụ "chính thống" duy nhất về số Fëanorian được tìm thấy trong *[Sauron Defeated](../S/Sauron_Defeated.md)*, trong "[Vua Thư của](../K/King's_Letter.md)". Vì người viết bức thư này là [Elessar](../A/Aragorn.md)nên các số (6341 và 61) đều là số thập phân.
+- Ví dụ "chính thống" duy nhất về số Fëanorian được tìm thấy trong *[Sauron Defeated](../S/Sauron_Defeated.md)*, trong "[Vua Thư của](../K/King's_Letter.md)". Vì người viết bức thư này là [Elessar](../A/Aragorn.md) nên các số (6341 và 61) đều là số thập phân.
 
 <br>
 

@@ -72,7 +72,7 @@ Sự kiện xảy ra vào ngày 16 tháng 2.
 - **[1948](1948.md)** - [Nils-Lennart Johannesson](../N/Nils-Lennart_Johannesson.md) ra đời.
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho cô Fay Darrington](<../L/Letter_to_Fay_Darrington_(16_February_1972).md>).
 - **[1974](1974.md)** - Theo lời khuyên của [Christopher Tolkien](../C/Christopher_Tolkien.md), [Hội Tolkien](../T/The_Tolkien_Society.md) bổ nhiệm J.R.R. Tolkien làm Chủ tịch danh dự vĩnh viễn.
-- **[1991](1991.md)** – Ngày thứ hai của buổi “Hội thảo về các ngôn ngữ của Trung Địa” đầu tiên tại nhà của [E.L.F.](../E/Elvish_Linguistic_Fellowship.md)thành viên [Bill Welden](../B/Bill_Welden.md).
+- **[1991](1991.md)** – Ngày thứ hai của buổi “Hội thảo về các ngôn ngữ của Trung Địa” đầu tiên tại nhà của [E.L.F.](../E/Elvish_Linguistic_Fellowship.md) thành viên [Bill Welden](../B/Bill_Welden.md).
 - **[1995](1995.md)** - *[Tyalië Tyelelliéva](../T/Tyalië_Tyelelliéva.md)* số [4](../T/Tyalië_Tyelelliéva_4.md) được xuất bản.
 - **[2020](2020.md)** - Triển lãm của la BnF "<a class="external text" href="http://www.bnf.fr" rel="noreferrer noopener" target="_blank">Tolkien, Voyage en Terre du Milieu</a>" khép lại.
 

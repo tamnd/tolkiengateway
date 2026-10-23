@@ -33,4 +33,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Angbands Schmieden</b></i> là ca khúc đầu tiên trong album [Dol Guldur](<../D/Dol_Guldur_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [Angband](Angband.md), tòa thành ban đầu được [Melkor](../M/Morgoth.md) xây dựng vào những ngày đầu tiên trên thế giới như một pháo đài xa xôi của thành trì phía bắc [Utumno](../U/Utumno.md)của ông. Tiêu đề bằng tiếng Đức và được dịch sang *"Forges of Angband"* bằng tiếng Anh.
+<i><b>Angbands Schmieden</b></i> là ca khúc đầu tiên trong album [Dol Guldur](<../D/Dol_Guldur_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [Angband](Angband.md), tòa thành ban đầu được [Melkor](../M/Morgoth.md) xây dựng vào những ngày đầu tiên trên thế giới như một pháo đài xa xôi của thành trì phía bắc [Utumno](../U/Utumno.md) của ông. Tiêu đề bằng tiếng Đức và được dịch sang *"Forges of Angband"* bằng tiếng Anh.

@@ -55,11 +55,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Sau thất bại trong [Trận chiến thứ hai giữa Fords Isen](../S/Second_Battle_of_the_Fords_of_Isen.md), [Erkenbrand](../E/Erkenbrand.md) rút Kỵ sĩ của mình về [Helm's Deep](../H/Helm's_Deep.md), và cử Ceorl về phía nam làm sứ giả để cảnh báo [Éomer](../_/Éomer.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Anh ta ngạc nhiên khi gặp đội quân của [Vua Théoden](../T/Théoden.md) đang tiến về phía bắc, sẵn sàng triển khai cuộc phòng thủ của riêng họ trước Fords. Tin tức do Ceorl mang đến đã khiến Théoden phải xem xét lại chiến lược của mình và thay vào đó anh ấy đã lên đường tham gia Erkenbrand tại Helm's Deep, từ đó tạo tiền đề cho [Trận Hornburg](../B/Battle_of_the_Hornburg.md)hùng mạnh.<sup id="cite_ref-HD_1-1" class="reference"><a href="#cite_note-HD-1">[1]</a></sup>
+Sau thất bại trong [Trận chiến thứ hai giữa Fords Isen](../S/Second_Battle_of_the_Fords_of_Isen.md), [Erkenbrand](../E/Erkenbrand.md) rút Kỵ sĩ của mình về [Helm's Deep](../H/Helm's_Deep.md), và cử Ceorl về phía nam làm sứ giả để cảnh báo [Éomer](../_/Éomer.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Anh ta ngạc nhiên khi gặp đội quân của [Vua Théoden](../T/Théoden.md) đang tiến về phía bắc, sẵn sàng triển khai cuộc phòng thủ của riêng họ trước Fords. Tin tức do Ceorl mang đến đã khiến Théoden phải xem xét lại chiến lược của mình và thay vào đó anh ấy đã lên đường tham gia Erkenbrand tại Helm's Deep, từ đó tạo tiền đề cho [Trận Hornburg](../B/Battle_of_the_Hornburg.md) hùng mạnh.<sup id="cite_ref-HD_1-1" class="reference"><a href="#cite_note-HD-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Giống như những [Rohirrim](../R/Rohirrim.md)khác, tên của Ceorl bắt nguồn từ [tiếng Anh cổ](../O/Old_English.md). Nó đề cập đến một cấp bậc cụ thể trong xã hội Anglo-Saxon (còn được gọi là <a class="mw-disambig" href="Carl_(disambiguation).md" title="Carl (disambiguation)">Carl</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/churl" title="wikipedia:churl">Churl</a>), trên thực tế là cấp bậc thấp nhất có thể khi vẫn là một người tự do. Về mặt lịch sử, những người này thường không phải là quân nhân chuyên nghiệp, vì vậy nếu lai lịch của Ceorl theo tên của anh ta, chúng ta có thể đoán rằng anh ta là một nông dân hoặc thương nhân đã bị ép phải thực hiện nghĩa vụ quân sự để giúp đối phó với mối đe dọa sắp xảy ra đối với [Rohan](../R/Rohan.md).
+Giống như những [Rohirrim](../R/Rohirrim.md) khác, tên của Ceorl bắt nguồn từ [tiếng Anh cổ](../O/Old_English.md). Nó đề cập đến một cấp bậc cụ thể trong xã hội Anglo-Saxon (còn được gọi là <a class="mw-disambig" href="Carl_(disambiguation).md" title="Carl (disambiguation)">Carl</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/churl" title="wikipedia:churl">Churl</a>), trên thực tế là cấp bậc thấp nhất có thể khi vẫn là một người tự do. Về mặt lịch sử, những người này thường không phải là quân nhân chuyên nghiệp, vì vậy nếu lai lịch của Ceorl theo tên của anh ta, chúng ta có thể đoán rằng anh ta là một nông dân hoặc thương nhân đã bị ép phải thực hiện nghĩa vụ quân sự để giúp đối phó với mối đe dọa sắp xảy ra đối với [Rohan](../R/Rohan.md).
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -92,7 +92,7 @@ Giống như những [Rohirrim](../R/Rohirrim.md)khác, tên của Ceorl bắt n
 
 <dl><dd><a href="../T/Théoden.md" title="Théoden">Théoden</a> rides directly to the <a href="../H/Hornburg.md" title="Hornburg">Hornburg</a>, so there is no need for a messenger. A card from <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i> identifies one of the <a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a> as Ceorl.</dd></dl>
 
-<b><a href="../_/2013.md" title="2013">2013</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b><a href="../_/2013.md" title="2013">2013</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Ceorl encounters King Théoden&#39;s riders on their way from <a href="../E/Edoras.md" title="Edoras">Edoras</a> to the <a href="../F/Fords_of_Isen.md" title="Fords of Isen">Fords of Isen</a>. His only lines are nearly identical to those in the book.</dd></dl>
 

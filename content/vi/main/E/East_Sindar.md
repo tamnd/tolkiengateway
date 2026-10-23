@@ -14,7 +14,7 @@ categories:
   - "Sindar"
 ---
 
-**phương Đông Sindar** là những [Sindar](../S/Sindar.md) sống ở những vùng đất rộng lớn phía đông [Doriath](../D/Doriath.md) ngoài [Vành đai Melian](../G/Girdle_of_Melian.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Họ không nằm dưới sự cai trị của [Thingol](../T/Thingol.md)và họ chăn nuôi gia súc và chăn nuôi cừu cũng như trồng ngũ cốc và các loại cây trồng khác - họ bán cả cho [Doriath](../D/Doriath.md) ở phía tây và cho [Người Lùn](../D/Dwarves.md) của [Dãy Núi Xanh](../B/Blue_Mountains.md) về phía đông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+**phương Đông Sindar** là những [Sindar](../S/Sindar.md) sống ở những vùng đất rộng lớn phía đông [Doriath](../D/Doriath.md) ngoài [Vành đai Melian](../G/Girdle_of_Melian.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Họ không nằm dưới sự cai trị của [Thingol](../T/Thingol.md) và họ chăn nuôi gia súc và chăn nuôi cừu cũng như trồng ngũ cốc và các loại cây trồng khác - họ bán cả cho [Doriath](../D/Doriath.md) ở phía tây và cho [Người Lùn](../D/Dwarves.md) của [Dãy Núi Xanh](../B/Blue_Mountains.md) về phía đông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
 ## Ghi chú {#Notes}
 

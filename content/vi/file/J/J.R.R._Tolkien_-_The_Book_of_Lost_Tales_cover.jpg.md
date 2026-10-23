@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bìa cuốn “Sách bài tập cấp 3” với tựa đề “*[Ngôi nhà của trò chơi lạc lối](../../main/T/The_Cottage_of_Lost_Play.md) giới thiệu về \[the\] Book of Lost Tales*” do tác giả [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)viết. Các chữ cái đầu của [Edith Tolkien](../../main/E/Edith_Tolkien.md) (EMT) cũng được viết cùng với ngày [12 tháng 2](../../main/_/12_February.md) [1917](../../main/_/1917.md). Cuốn sổ là một bản sao tương đối của Lost Tale do cô ấy làm.
+Bìa cuốn “Sách bài tập cấp 3” với tựa đề “*[Ngôi nhà của trò chơi lạc lối](../../main/T/The_Cottage_of_Lost_Play.md) giới thiệu về \[the\] Book of Lost Tales*” do tác giả [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) viết. Chữ viết tắt của [Edith Tolkien](../../main/E/Edith_Tolkien.md) (EMT) cũng được viết cùng với ngày [12 tháng 2](../../main/_/12_February.md) [1917](../../main/_/1917.md). Cuốn sổ là một bản sao tương đối của Lost Tale do cô ấy làm.
 
 ## Giấy phép {#Licensing}
 

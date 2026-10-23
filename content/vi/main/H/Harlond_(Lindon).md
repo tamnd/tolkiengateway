@@ -42,9 +42,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Harbour</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Harlond</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../L/Lindon.md" title="Lindon">Lindon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Harbour</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../E/Elves_of_Lindon.md" title="Elves of Lindon">Elves of Lindon</a></td></tr></tbody></table>
 
-**Harlond** là thiên đường của [Tiên tộc](../E/Elves.md) trên bờ biển phía nam của [Vịnh Lhûn](../G/Gulf_of_Lune.md). Nó nằm ở một vịnh nhỏ cách [Mithlond](../G/Grey_Havens.md)khoảng 150 dặm về phía tây nam, bên hông [Harlindon](Harlindon.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Harlond** là thiên đường của [Tiên tộc](../E/Elves.md) trên bờ biển phía nam của [Vịnh Lhûn](../G/Gulf_of_Lune.md). Nó nằm ở một vịnh nhỏ cách [Mithlond](../G/Grey_Havens.md) khoảng 150 dặm về phía tây nam, bên hông [Harlindon](Harlindon.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Người ta kể rằng hạm đội [Eärnur](../E/Eärnur.md)đến [Lindon](../L/Lindon.md) trong [Cuộc chiến Angmar](../A/Angmar_War.md), lấp đầy các bến cảng Harlond, [Forlond](../F/Forlond.md) và [Cảng Xám](../G/Grey_Havens.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Người ta kể rằng hạm đội [Eärnur](../E/Eärnur.md) đến [Lindon](../L/Lindon.md) trong [Cuộc chiến Angmar](../A/Angmar_War.md), lấp đầy các bến cảng Harlond, [Forlond](../F/Forlond.md) và [Cảng Xám](../G/Grey_Havens.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

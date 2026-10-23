@@ -16,9 +16,9 @@ categories:
 
 Điều ít được biết về nó là:
 
-- Chủ nhà đầu tiên từ <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Phương Tây</a>, bao gồm [Vala](../V/Valar.md) [Noldorin](../S/Salmar.md), cũng như [Eldar](../E/Eldar.md), bao gồm [Valwë](../V/Valwë.md), cha của [Lindo](../L/Lindo.md) người canh giữ [Ngôi nhà của Lost Play](../C/Cottage_of_Lost_Play.md), đã cắm trại ở Land of Willows.<sup id="cite_ref-Tulk_2-0" class="reference"><a href="#cite_note-Tulk-2">[2]</a></sup>
+- Người dẫn chương trình đầu tiên từ <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Phương Tây</a>, bao gồm [Vala](../V/Valar.md) [Noldorin](../S/Salmar.md), cũng như [Eldar](../E/Eldar.md), bao gồm [Valwë](../V/Valwë.md), cha của [Lindo](../L/Lindo.md) người canh giữ [Cottage of Lost Play](../C/Cottage_of_Lost_Play.md), đã cắm trại ở Land of Willows.<sup id="cite_ref-Tulk_2-0" class="reference"><a href="#cite_note-Tulk-2">[2]</a></sup>
 - Ở đó, "ngủ và nhảy", họ trở nên tự mãn.<sup id="cite_ref-Tas_3-0" class="reference"><a href="#cite_note-Tas-3">[3]</a></sup>
-- Sau đó họ bị phục kích và đánh bại bởi [yêu tinh](../O/Orcs.md) do [Melko](../M/Melko.md)gửi đến.<sup id="cite_ref-Tas_3-1" class="reference"><a href="#cite_note-Tas-3">[3]</a></sup>
+- Sau đó họ bị phục kích và đánh bại bởi [yêu tinh](../O/Orcs.md) do [Melko](../M/Melko.md) gửi đến.<sup id="cite_ref-Tas_3-1" class="reference"><a href="#cite_note-Tas-3">[3]</a></sup>
 
 Tuy nhiên, sau trận chiến (theo một số tình tiết của câu chuyện), Noldorin đã trốn thoát được (cũng như Valwë<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>), và một thời gian sau Melko bị [Tulkas](../T/Tulkas.md) đánh bại trong [Trận chiến ở hồ bơi im lặng](Battle_of_the_Silent_Pools.md).<sup id="cite_ref-Tulk_2-1" class="reference"><a href="#cite_note-Tulk-2">[2]</a></sup>
 

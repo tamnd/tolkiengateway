@@ -45,7 +45,7 @@ infobox:
 
 **A Short Cut to Mushroom** là chương thứ tư trong cuốn sách đầu tiên của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Các ký tự chính bao gồm [Frodo Baggins](../F/Frodo_Baggins.md), [Peregrin "Pippin" Took](../P/Peregrin_Took.md), [Samwise Gamgee](../S/Samwise_Gamgee.md), [Meriadoc "Merry" Brandybuck](../M/Meriadoc_Brandybuck.md). [Farmer Maggot](../F/Farmer_Maggot.md) được giới thiệu.
 
-Chương này kể về Frodo, Pippin và Sam đi đường tắt và kết thúc trên đất của [Farmer Maggot](../F/Farmer_Maggot.md)cũng như sự hỗ trợ của người nông dân đi đến [Bến phà Bucklebury](../B/Bucklebury_Ferry.md). [Merry](../M/Merry.md) tham gia lại với Hobbit khác đang tìm kiếm họ.
+Chương này kể về Frodo, Pippin và Sam đi đường tắt và kết thúc trên đất của [Farmer Maggot](../F/Farmer_Maggot.md) cũng như sự hỗ trợ của người nông dân đi đến [Bến phà Bucklebury](../B/Bucklebury_Ferry.md). [Merry](../M/Merry.md) tham gia lại với Hobbit khác đang tìm kiếm họ.
 
 ## Tổng quan {#Overview}
 
@@ -65,7 +65,7 @@ Tiếp tục cuộc trò chuyện với Frodo, Sam bày tỏ cảm giác có m�
 
 ### Ra phà {#Setting_off_for_the_Ferry}
 
-Frodo cho biết sở thích của anh là cắt xuyên quốc gia, thẳng tới [Bến phà Bucklebury](../B/Bucklebury_Ferry.md). Pippin đã cố gắng thuyết phục Frodo thay vào đó hãy đi qua [Stock](../S/Stock.md), mô tả vùng nông thôn địa phương quá khó để đi qua. Tuy nhiên, Frodo đã phát hiện ra rằng Pippin thực sự đang tranh cãi về việc dừng lại ở [Cá rô vàng](../G/Golden_Perch.md) ở [Stock](../S/Stock.md)và quyết định tránh hoàn toàn việc đó. Cả nhóm lên đường tới Bến phà ngay lập tức.
+Frodo cho biết sở thích của anh là cắt xuyên quốc gia, thẳng tới [Bến phà Bucklebury](../B/Bucklebury_Ferry.md). Pippin đã cố gắng thuyết phục Frodo thay vào đó hãy đi qua [Stock](../S/Stock.md), mô tả vùng nông thôn địa phương quá khó để đi qua. Tuy nhiên, Frodo đã phát hiện ra rằng Pippin thực sự đang tranh cãi về việc dừng lại ở [Cá rô vàng](../G/Golden_Perch.md) ở [Stock](../S/Stock.md) và quyết định tránh hoàn toàn việc đó. Cả nhóm lên đường tới Bến phà ngay lập tức.
 
 Cả Frodo và Pippin đều đúng. Một mặt, họ gặp phải những hàng rào không thể vượt qua; và mặt khác, họ suýt né được một chiếc [Kỵ Sĩ Đen](../B/Black_Rider.md) đang truy lùng họ ở gần đường hơn. Họ đi một đoạn đường dài vòng qua chướng ngại vật và khi dừng lại nghỉ ngơi, họ phát hiện ra rằng Tiên tộc đã đổ đầy chất lỏng mà họ đã uống vào đêm hôm trước vào chai của họ. Các Hobbit lại vui vẻ và hát [Ho! ồ! ồ! Đến cái chai tôi đi](../H/Ho!_Ho!_Ho!_To_the_Bottle_I_Go.md).
 
@@ -79,7 +79,7 @@ Cả nhóm tiến vào khu nhà hướng tới các trang trại và bị bao v�
 
 Bà Maggot phục vụ bữa tiệc một loại bia hảo hạng. Farmer Maggot tiết lộ rằng anh ấy nhớ Frodo đã ăn trộm nấm của mình nhiều năm trước, nhưng nhanh chóng bỏ qua vì coi đó đã là chuyện đã qua. Thay vào đó, anh quan tâm nhiều hơn đến việc mô tả cuộc gặp gỡ của mình với người lạ đáng ngờ trước đó. Anh ta giải thích rằng người lạ mặt mặc đồ đen và cưỡi một con ngựa đen tới, khiến đàn chó của anh ta sợ hãi. Người lạ mặt đã hỏi Maggot nơi ở của "Baggins", và thậm chí còn đưa vàng cho người nông dân để đổi lấy việc cho anh ta biết liệu "Baggins" có đến được hay không. Maggot tức giận đuổi người lạ đi, thậm chí còn dọa thả chó của anh ta ra, khiến người lái xe bỏ chạy và biến mất trên đường.
 
-Giòi bị trừng phạt Frodo vì đã rời Buckland để sống ở Hobbiton. Anh ta đổ lỗi cho vấn đề hiện tại của Frodo là do những cuộc phiêu lưu của Bilbo, đoán chính xác rằng cuối cùng cũng có người đến tìm kiếm những kho báu mà Bilbo đã mang theo về. Anh ta khuyên Frodo ở lại Buckland, nhưng cũng đoán rằng Frodo có ý định đi nơi khác và sợ phải băng qua vùng quê vào ban đêm để đến Bến Phà.
+Giòi bị trừng phạt Frodo vì đã rời Buckland để sống ở Hobbiton. Anh ta đổ lỗi vấn đề hiện tại của Frodo cho cuộc phiêu lưu của Bilbo, đoán chính xác rằng cuối cùng cũng có người đến tìm kho báu mà Bilbo đã mang theo về. Anh ta khuyên Frodo ở lại Buckland, nhưng cũng đoán rằng Frodo có ý định đi nơi khác và sợ phải băng qua vùng quê vào ban đêm để đến Bến Phà.
 
 Frodo thừa nhận đã lo sợ Maggot và đàn chó của hắn một cách vô lý trong nhiều thập kỷ:
 
@@ -93,6 +93,6 @@ Frodo thừa nhận đã lo sợ Maggot và đàn chó của hắn một cách v
 
 Bất chấp mong muốn của Frodo tiếp tục càng sớm càng tốt, Farmer Maggot thay vào đó đã đề nghị bữa tối Hobbit, hứa sẽ đưa họ đi hết quãng đường còn lại đến Phà bằng xe ngựa. Frodo và bạn bè của anh ấy đã ăn tối với gia đình Maggot và một số Hobbit người đã tham gia một cách ngẫu hứng. Khi họ làm xong, các con trai của Maggot chuẩn bị xe ngựa và bà Maggot chào tạm biệt họ.
 
-Maggot và ba người Hobbit tiếp tục đi xe ngựa dọc con đường tới Bến phà Bucklebury, đèn lồng đã tắt. Sau cuộc hành trình dài 5 dặm đầy căng thẳng nhưng không hề bình yên, họ đến được Bến Phà và xuống tàu. Họ đột nhiên nghe thấy tiếng vó ngựa trên đường phía sau họ, và Hobbit chuẩn bị chiến đấu với một Kỵ Sĩ Đen khi Frodo trốn trong xe. Thay vào đó, những chiếc vó ngựa mang theo Merry Brandybuck, người đã xuống đường tìm kiếm những người bạn mất tích của mình.
+Maggot và ba người Hobbit tiếp tục đi xe ngựa dọc con đường tới Bến phà Bucklebury, đèn lồng đã tắt. Sau cuộc hành trình dài 5 dặm đầy căng thẳng nhưng không hề bình yên, họ đến được Bến Phà và xuống tàu. Họ đột nhiên nghe thấy tiếng vó ngựa trên đường phía sau họ, và Hobbit chuẩn bị chiến đấu với một Kỵ Sĩ Đen khi Frodo trốn trong xe. Thay vào đó, những chiếc vó mang theo Merry Brandybuck, người đã xuống đường để tìm kiếm những người bạn mất tích của mình.
 
 Maggot chào tạm biệt Hobbit khi quay xe trở lại đường. Trước khi rời đi, anh tặng họ một chiếc giỏ do bà Maggot chuẩn bị cho họ. Khi Maggot cưỡi ngựa rời đi, Frodo vui mừng khi phát hiện ra giỏ đầy nấm tươi.

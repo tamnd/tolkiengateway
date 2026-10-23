@@ -13,7 +13,7 @@ categories:
   - "Documentaries"
 ---
 
-<i><b>The Standard Deviants: Rings, Kings & Things</b></i> là một bộ phim giáo dục được phát hành vào [ngày 18 tháng 6](../_/18_June.md), [2002](../_/2002.md), từ loạt phim có tên <i><a class="extiw" href="http://en.wikipedia.org/wiki/Standard_Deviants" title="wikipedia:Standard Deviants">Standard Deviants</a></i>. Mặc dù không hoàn toàn dành cho *[The Lord of the Rings](The_Lord_of_the_Rings.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)nhưng nó được sử dụng làm phần trung tâm và bao gồm các cảnh quay của chính Tolkien.
+<i><b>The Standard Deviants: Rings, Kings & Things</b></i> là một bộ phim giáo dục được phát hành vào [ngày 18 tháng 6](../_/18_June.md), [2002](../_/2002.md), từ loạt phim có tên <i><a class="extiw" href="http://en.wikipedia.org/wiki/Standard_Deviants" title="wikipedia:Standard Deviants">Standard Deviants</a></i>. Mặc dù không hoàn toàn dành cho *[The Lord of the Rings](The_Lord_of_the_Rings.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) nhưng nó được sử dụng làm phần trung tâm và bao gồm các cảnh quay của chính Tolkien.
 
 ## Mô tả sản phẩm {#Product_description}
 

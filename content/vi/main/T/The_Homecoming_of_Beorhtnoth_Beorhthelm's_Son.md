@@ -82,12 +82,12 @@ Bản ghi âm này hiện đã được làm lại bằng kỹ thuật số và 
 
 ## Mối quan hệ với di tích {#Relation_to_the_legendarium}
 
-Việc đưa các bài tiểu luận học thuật và bài thơ vào *[The Tolkien Reader](The_Tolkien_Reader.md)* đã bị [Rayner Unwin](../R/Rayner_Unwin.md)nghi ngờ vì cho rằng nó sẽ không phù hợp với một "tuyển tập đại chúng". Tuy nhiên, Tolkien cho rằng những văn bản này "rất phù hợp với sự chia sẻ cảm thông chung được thể hiện trong *[The Lord of the Rings](The_Lord_of_the_Rings.md)*".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Việc đưa các bài tiểu luận học thuật và bài thơ vào *[The Tolkien Reader](The_Tolkien_Reader.md)* đã bị [Rayner Unwin](../R/Rayner_Unwin.md) nghi ngờ vì cho rằng nó sẽ không phù hợp với một "tuyển tập đại chúng". Tuy nhiên, Tolkien cho rằng những văn bản này "rất phù hợp với sự chia sẻ cảm thông chung được thể hiện trong *[The Lord of the Rings](The_Lord_of_the_Rings.md)*".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
-- [Sự trở lại của Beorhtnoth, Con trai của Beorhthelm (vở kịch trên radio)](<The_Homecoming_of_Beorhtnoth,_Beorhthelm's_Son_(radio_play).md>)
+- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Sự trở lại của Beorhtnoth, Con trai của Beorhthelm (vở phát thanh)](<The_Homecoming_of_Beorhtnoth,_Beorhthelm's_Son_(radio_play).md>)
 
 <span></span>
 

@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Golug"
 ---
 
-**Golug** là một từ trong ngôn ngữ của [Orc](../O/Orcs.md), được sử dụng duy nhất được ghi lại là trong [Kỷ Đệ Nhất](../F/First_Age.md)sau này, được sử dụng để mô tả Deep Tiên tộc ( [Noldor](../N/Noldor.md)). Nguồn gốc của nó vẫn chưa được biết, nhưng nó có thể liên quan đến tên [Sindarin](../S/Sindarin.md) của chính người này, [Golodhrim](Golodhrim.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Golug** là một từ trong ngôn ngữ của [Orc](../O/Orcs.md), được sử dụng duy nhất được ghi lại là trong [Kỷ Đệ Nhất](../F/First_Age.md) sau này, được sử dụng để mô tả Deep Tiên tộc ( [Noldor](../N/Noldor.md)). Nguồn gốc của nó vẫn chưa được biết, nhưng nó có thể liên quan đến tên [Sindarin](../S/Sindarin.md) của chính người này, [Golodhrim](Golodhrim.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

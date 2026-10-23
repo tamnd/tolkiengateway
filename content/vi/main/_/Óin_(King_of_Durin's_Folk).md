@@ -71,9 +71,9 @@ infobox:
 
 Trong thời kỳ trị vì của Óin, Longbeards tiếp tục cư trú tại [Dãy Núi Xám](../G/Grey_Mountains.md).
 
-Vào cuối triều đại của Óin, vào [T.A.](../T/Third_Age.md) [2460](../T/Third_Age_2460.md), [Bóng Tối](../S/Shadow.md) quay trở lại [Dol Guldur](../D/Dol_Guldur.md) vào [Mirkwood](../M/Mirkwood.md) với sức mạnh ngày càng tăng; và trong c. [T.A.](../T/Third_Age.md) [2480](../T/Third_Age_2480.md) [Orc](../O/Orcs.md) bắt đầu lan rộng trở lại trong [Dãy Núi Sương Mù](../M/Misty_Mountains.md) để chặn tất cả các đường đi vào [Eriador](../E/Eriador.md), trong khi các sinh vật của [Sauron](../S/Sauron.md)lấy [Moria](../M/Moria.md) làm của riêng chúng.
+Vào cuối triều đại của Óin, vào [T.A.](../T/Third_Age.md) [2460](../T/Third_Age_2460.md), [Bóng Tối](../S/Shadow.md) quay trở lại [Dol Guldur](../D/Dol_Guldur.md) vào [Mirkwood](../M/Mirkwood.md) với sức mạnh ngày càng tăng; và trong c. [T.A.](../T/Third_Age.md) [2480](../T/Third_Age_2480.md) [Orc](../O/Orcs.md) bắt đầu lan rộng trở lại trong [Dãy Núi Sương Mù](../M/Misty_Mountains.md) để chặn tất cả các đường đi vào [Eriador](../E/Eriador.md), trong khi các sinh vật của [Sauron](../S/Sauron.md) lấy [Moria](../M/Moria.md) làm của riêng chúng.
 
-Óin mất năm [T.A.](../T/Third_Age.md) [2488](../T/Third_Age_2488.md), trị vì được 103 năm, con trai [Náin](../N/Náin_II.md)kế vị.<sup id="cite_ref-AppA_1-1" class="reference"><a href="#cite_note-AppA-1">[1]</a></sup>
+Óin mất năm [T.A.](../T/Third_Age.md) [2488](../T/Third_Age_2488.md), trị vì được 103 năm, con trai [Náin](../N/Náin_II.md) kế vị.<sup id="cite_ref-AppA_1-1" class="reference"><a href="#cite_note-AppA-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

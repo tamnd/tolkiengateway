@@ -31,7 +31,7 @@ images:
 
 ## Lịch sử {#History}
 
-Trong những quan niệm trước đó về những gì sẽ trở thành *[The Silmarillion](The_Silmarillion.md)*, tất cả các vương quốc Tiên của [Beleriand](../B/Beleriand.md) đã bị phá hủy sớm hơn nhiều so với trong tác phẩm cuối cùng và hầu như tất cả Noldoli đều bị Melko bắt làm nô lệ, làm việc trong các khu mỏ [Angband](../A/Angband.md) thực hiện công việc của mình. Những Noldoli miễn phí duy nhất là những nô lệ trốn thoát, những người bị [Sindar](../S/Sindar.md)nghi ngờ.
+Trong những quan niệm trước đó về những gì sẽ trở thành *[The Silmarillion](The_Silmarillion.md)*, tất cả các vương quốc Tiên của [Beleriand](../B/Beleriand.md) đã bị phá hủy sớm hơn nhiều so với trong tác phẩm cuối cùng và hầu như tất cả Noldoli đều bị Melko bắt làm nô lệ, làm việc trong các khu mỏ [Angband](../A/Angband.md) thực hiện công việc của mình. Những Noldoli miễn phí duy nhất là những nô lệ trốn thoát, những người bị [Sindar](../S/Sindar.md) nghi ngờ.
 
 Quyền lực của Melko trong những tác phẩm đầu tiên này được cho là rất lớn: anh ta có thể thống trị tâm trí của Tiên tộc bất cứ nơi nào họ đến, bằng cách gieo rắc nỗi sợ hãi của mình vào họ. Do đó, ngay cả những nô lệ đã trốn thoát cũng không thực sự được tự do. Không thể tưởng tượng được rằng trong quan niệm ban đầu này, Thrall-Noldoli đã được sử dụng để nhân giống [Orc](../O/Orcs.md).
 

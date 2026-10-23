@@ -35,7 +35,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Quân đội của [Théoden](../T/Théoden.md)được biết từ các trinh sát của họ rằng [Minas Tirith](Minas_Tirith.md) đang bị bao vây. Trong số quân có [Merry](Meriadoc_Brandybuck.md) và [Éowyn](../_/Éowyn.md). Cả hai được cho là đã ở lại và đến trong bí mật. Éowyn bảo Merry hãy can đảm lên vì mọi chuyện sẽ sớm qua thôi. Merry nói với Éowyn rằng cô ấy công bằng, dũng cảm và có rất nhiều lý do để sống. Anh ấy nói hy vọng chẳng ích gì, Anh ấy không phải là hiệp sĩ của những chiến công vĩ đại, anh ấy là một người hobbit. Anh ấy nói anh ấy biết mình không thể cứu được [Trung Địa](Middle-earth.md), anh ấy chỉ muốn giúp đỡ bạn bè mình. Théoden thông báo rằng họ sẽ xuất quân và lên đường tham chiến.
+Quân đội của [Théoden](../T/Théoden.md) được biết từ các trinh sát của họ rằng [Minas Tirith](Minas_Tirith.md) đang bị bao vây. Trong số quân có [Merry](Meriadoc_Brandybuck.md) và [Éowyn](../_/Éowyn.md). Cả hai được cho là đã ở lại và đến trong bí mật. Éowyn bảo Merry hãy can đảm lên vì mọi chuyện sẽ sớm qua thôi. Merry nói với Éowyn rằng cô ấy công bằng, dũng cảm và có rất nhiều lý do để sống. Anh ấy nói hy vọng chẳng ích gì, Anh ấy không phải là hiệp sĩ của những chiến công vĩ đại, anh ấy là một người hobbit. Anh ấy nói anh ấy biết mình không thể cứu được [Trung Địa](Middle-earth.md), anh ấy chỉ muốn giúp đỡ bạn bè mình. Théoden thông báo rằng họ sẽ xuất quân và lên đường tham chiến.
 
 ## Sự khác biệt {#Differences}
 

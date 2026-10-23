@@ -41,7 +41,7 @@ infobox:
 
 <i><b>Kho tàng văn học thiếu nhi sắc màu</b></i> là tuyển tập truyện thiếu nhi. Tuyển tập bao gồm chương "[Một bữa tiệc bất ngờ](../A/An_Unexpected_Party.md)" từ *[The Hobbit](The_Hobbit.md)*, được minh họa bởi Robert J. Lee.
 
-Tolkien đã nhận được bản sao cuốn sách từ [Joy Hill](../J/Joy_Hill.md) vào đầu tháng 1 [1967](../_/1967.md), và [đã viết cho cô ấy vào ngày 5 tháng 1](<../L/Letter_to_Joy_Hill_(5_January_1967).md>) rằng mặc dù anh ấy coi "rất nhiều hình minh họa" là "rất hay", nhưng các hình minh họa *Hobbit* của Robert J. Lee đối với anh ấy là "thô tục, ngu ngốc và hoàn toàn không phù hợp với nội dung".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Anh ấy cũng viết rằng anh ấy sẽ tặng cuốn sách cho cháu trai của ông, [Christopher Tolkien](../C/Christopher_Tolkien.md)con trai [Simon](../S/Simon_Tolkien.md) (8 tuổi).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tolkien đã nhận được bản sao cuốn sách từ [Joy Hill](../J/Joy_Hill.md) vào đầu tháng 1 [1967](../_/1967.md), và [đã viết cho cô ấy vào ngày 5 tháng 1](<../L/Letter_to_Joy_Hill_(5_January_1967).md>) rằng mặc dù anh ấy coi "rất nhiều hình minh họa" là "rất hay", nhưng các hình minh họa *Hobbit* của Robert J. Lee đối với anh ấy là "thô tục, ngu ngốc và hoàn toàn không phù hợp với nội dung".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Anh ấy cũng viết rằng anh ấy sẽ tặng cuốn sách cho cháu trai của ông, [Christopher Tolkien](../C/Christopher_Tolkien.md) con trai [Simon](../S/Simon_Tolkien.md) (8 tuổi).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

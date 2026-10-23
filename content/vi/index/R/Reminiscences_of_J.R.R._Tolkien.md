@@ -32,7 +32,7 @@ sort_keys:
 - [1982](../../main/_/1982.md): *[The Road to Middle-earth](../../main/T/The_Road_to_Middle-earth.md)*
 - [1983](../../main/_/1983.md): *[In Search of C.S. Lewis](../../main/I/In_Search_of_C.S._Lewis.md)*
 - [1985](../../main/_/1985.md): *[A Path from Rome: An Autobiography](../../main/A/A_Path_from_Rome.md)* của [Anthony Kenny](../../main/A/Anthony_Kenny.md)
-- [1987](../../main/_/1987.md): *[Pictures under Discussion](../../main/P/Pictures_under_Discussion.md)* bởi John Loengard
+- [1987](../../main/_/1987.md): *[Pictures under Discussion](../../main/P/Pictures_under_Discussion.md)* của John Loengard
 - [1987](../../main/_/1987.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Inventing_the_Middle_Ages&amp;action=edit&amp;redlink=1" title="Inventing the Middle Ages (page does not exist)">Phát minh ra phần giữa Kỷ nguyên</a></i> của Norman F. Cantor.
 - [1991](../../main/_/1991.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Laughter_and_the_Love_of_Friends:_Reminiscences_of_the_Distinguished_English_Priest_and_Philosopher&amp;action=edit&amp;redlink=1" title="Laughter and the Love of Friends: Reminiscences of the Distinguished English Priest and Philosopher (page does not exist)">Tiếng cười và tình yêu của bạn bè: Hồi tưởng của vị linh mục và triết gia xuất chúng người Anh</a> của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Martin_C._D%E2%80%99Arcy&amp;action=edit&amp;redlink=1" title="Martin C. D’Arcy (page does not exist)">Martin C. D'Arcy</a></i>
 - [1999](../../main/_/1999.md): *[George Allen &amp; Unwin: A Remembrancer](../../main/G/George_Allen_and_Unwin%253A_A_Remembrancer.md)*
@@ -41,7 +41,7 @@ sort_keys:
 - [2005](../../main/_/2005.md): *[Remembering C.S. Lewis: Recollections by Those Who Knew Him](../../main/R/Remembering_C.S._Lewis.md)*
 - [2007](../../main/_/2007.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Penultimate_Adventures_with_Britannia:_Personalities,_Politics_and_Culture&amp;action=edit&amp;redlink=1" title="Penultimate Adventures with Britannia: Personalities, Politics and Culture (page does not exist)">Những cuộc phiêu lưu áp chót với Britannia: Tính cách, Chính trị và Văn hóa</a> của Wm. Roger Louis (Biên tập viên) bao gồm "Tolkien trong Thế chiến thứ nhất" của Martin Gilbert.</i>
 - [2008](../../main/_/2008.md): *[Tolkien - min vän Ronald och hans världar](../../main/T/Tolkien_-_min_vän_Ronald_och_hans_världar.md)* (xuất bản bằng tiếng Anh dưới tên *[J.R.R. Tolkien's Double Worlds and Creative Process](../../main/J/J.R.R._Tolkien's_Double_Worlds_and_Creative_Process.md)* năm 2011) bởi [Arne Zettersten](../../main/A/Arne_Zettersten.md)
-- [2013](../../main/_/2013.md): *[La Conexion Española de J.R.R. Tolkien](../../main/L/La_Conexion_Española_de_J.R.R._Tolkien.md)* bởi [José Manuel Ferrández Bru](../../main/J/José_Manuel_Ferrández_Bru.md)
+- [2013](../../main/_/2013.md): *[La Conexion Española de J.R.R. Tolkien](../../main/L/La_Conexion_Española_de_J.R.R._Tolkien.md)* của [José Manuel Ferrández Bru](../../main/J/José_Manuel_Ferrández_Bru.md)
 - [2013](../../main/_/2013.md): *[Penelope Fitzgerald: A Life](../../main/P/Penelope_Fitzgerald%253A_A_Life.md)*
 - [2014](../../main/_/2014.md): *Mémoires* của Louis Bouyer (xuất bản bằng tiếng Anh dưới tên *Hồi ký của Louis Bouyer: Từ tuổi trẻ và sự cải đạo sang Vatican II, cuộc cải cách phụng vụ và sau* trong [2015](../../main/_/2015.md))<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - [2014](../../main/_/2014.md): *[The Unexpected Professor](../../main/T/The_Unexpected_Professor.md)* của John Carey
@@ -93,18 +93,18 @@ sort_keys:
 - [1989](../../main/_/1989.md): *BBC Radio 4*, ngày 20 tháng 1,
     - Chương trình “Giữ cho ký ức xanh” Humphrey Carpenter nhìn về [Tolkien Xã hội](../../main/T/Tolkien_Society.md)
 - [1989](../../main/_/1989.md): "Minas Tirith Sao Hôm, Tập 18, Số 1, trang 5-9"
-    - "Cuộc phỏng vấn với Michael Tolkien"Union Lake", bởi Gary Hunnewell
+    - "Phỏng vấn với Michael Tolkien"Union Lake", bởi Gary Hunnewell
 - [1990](../../main/_/1990.md): *Mythlore* 64
     - "Giáo sư J.R.R. Tolkien: Hồi ký cá nhân", của [Robert Havard](../../main/R/Robert_Havard.md)
 - [1992](../../main/_/1992.md): *The Brown Book* (Tháng 12)
-    - "Ký ức J.R.R. Tolkien trong 100 năm của Ngài" (trang 12-14; [Priscilla Tolkien](../../main/P/Priscilla_Tolkien.md))
+    - "Ký ức J.R.R. Tolkien trong Kỷ niệm 100 năm của Ngài" (trang 12-14; [Priscilla Tolkien](../../main/P/Priscilla_Tolkien.md))
 - [1993](../../main/_/1993.md): *Angerthas* 34 (Tháng 7)
-    - "J.R.R. Tolkien và Edith Tolkien ở Staffordshire 1916, 1917 và 1918" (trang 4-5) ([Priscilla Tolkien](../../main/P/Priscilla_Tolkien.md))
+    - "J.R.R. Tolkien và Edith Tolkien Ở Staffordshire 1916, 1917 và 1918" (trang 4-5) ([Priscilla Tolkien](../../main/P/Priscilla_Tolkien.md))
 - [1994](../../main/_/1994.md): *Tygodnik Powszechny*, số 14
     - "Oksfordzcy mistrzowie wyobraźni" \["Bậc thầy về trí tưởng tượng của người Oxford"; cuộc phỏng vấn với Przemyslaw Mroczkowski do Tomasz Fiałkowskim thực hiện\] (để biết thêm thông tin về nội dung cuộc phỏng vấn, xem [Przemyslaw Mroczkowski](../../main/P/Przemyslaw_Mroczkowski.md))
 - [1995](../../main/_/1995.md): *[Proceedings of the J.R.R. Tolkien Centenary Conference](../../main/P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md)*
     - Phần 1: Hồi ức và tưởng nhớ
-        - "Hồi tưởng: Oxford năm 1920, Gặp gỡ Tolkien và Trở thành Tác giả ở tuổi 77" ([Vera Chapman](../../main/V/Vera_Chapman.md))
+        - "Hồi tưởng: Oxford năm 1920, Gặp gỡ Tolkien và trở thành tác giả ở tuổi 77" ([Vera Chapman](../../main/V/Vera_Chapman.md))
         - "Tolkien Địa chỉ tiệc kỷ niệm 100 năm" ([Glen H. Goodknight](../../main/G/Glen_H._Goodknight.md))
         - "Bài giảng trong Lễ tạ ơn, Nhà nguyện Đại học Keble, ngày 23 tháng 8 năm 1992" ([Robert Murray](../../main/R/Robert_Murray.md))
         - "Hồi ức về J.R.R. Tolkien" ([George Sayer](../../main/G/George_Sayer.md))
@@ -137,7 +137,7 @@ sort_keys:
 - [2002](../../main/_/2002.md): *Bilbo's Farewell Song*, ngày 26 tháng 8
     - "<a class="external text" href="http://archives.theonering.net/perl/newsview/8/1030403585" rel="noreferrer noopener" target="_blank">Pauline Baynes</a>"
 - [2002](../../main/_/2002.md): *Chesterton Review* Tháng 2, Tập 28, Số 1/2, Trang 119-123
-    - "Tolkien, Nhẫn và tôi " của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Milward&amp;action=edit&amp;redlink=1" title="Peter Milward (page does not exist)">Peter Milward</a>
+    - "Tolkien, Chiếc nhẫn và tôi " của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Milward&amp;action=edit&amp;redlink=1" title="Peter Milward (page does not exist)">Peter Milward</a>
 - [2003](../../main/_/2003.md): *The Mail*,23 tháng 2
     - "<a class="external text" href="http://www.simontolkien.com/mygrandfather.html" rel="noreferrer noopener" target="_blank">Ký ức đầu tiên của tôi về Ông nội</a>" của [Simon Tolkien](../../main/S/Simon_Tolkien.md)
 - [2003](../../main/_/2003.md): *BBC.co.uk", 27 March*
@@ -151,7 +151,7 @@ sort_keys:
 - [2005](../../main/_/2005.md): www.inf.ed.ac.uk
     - "<a class="external text" href="http://www.inf.ed.ac.uk/events/amcintosh.html" rel="noreferrer noopener" target="_blank">'Angus McIntosh'</a>"
 - [2006](../../main/_/2006.md): www.martingilbert.com/
-    - "<a class="external text" href="http://www.martingilbert.com/tolkein-read-more/" rel="noreferrer noopener" target="_blank">“Điều Tolkien đã dạy tôi về Trận Somme”</a>"
+    - "<a class="external text" href="http://www.martingilbert.com/tolkein-read-more/" rel="noreferrer noopener" target="_blank">“Điều Tolkien đã dạy tôi về Trận chiến Somme”</a>"
 - [2006](../../main/_/2006.md): Andwerve, ngày 08 tháng 1
     - "<a class="external text" href="http://www.tolkienguide.com/modules/wiwimod/index.php?page=Brem+Interview#anchor1" rel="noreferrer noopener" target="_blank">Kết nối với lịch sử - Phỏng vấn Barbara Remington</a>"
 - [2007](../../main/_/2007.md): Cuốn sách cuối cùng Tolkien được ký trước khi ông qua đời trong cuộc đấu giá của Bonhams
@@ -163,7 +163,7 @@ sort_keys:
 - [2008](../../main/_/2008.md): Trang web Thekindlings
     - "<a class="external text" href="http://www.thekindlings.com/podcasts/dick-staub-interviews-journeys/george-sayer-jack-a-life-of-cs-lewis-podcast-journeys-interview-segment-1-of-1/" rel="noreferrer noopener" target="_blank">Cuộc phỏng vấn podcast Thekindlings với George Sayer</a>"
 - [2008](../../main/_/2008.md): thecuttingedgenews.com
-    - "<a class="external text" href="http://www.thecuttingedgenews.com/index.php?article=716&amp;pageid=23&amp;pagename=Arts" rel="noreferrer noopener" target="_blank">Điều Tolkien đã dạy tôi về Trận Somme</a>"
+    - "<a class="external text" href="http://www.thecuttingedgenews.com/index.php?article=716&amp;pageid=23&amp;pagename=Arts" rel="noreferrer noopener" target="_blank">Điều Tolkien đã dạy tôi về Trận chiến Somme</a>"
 - [2009](../../main/_/2009.md): *Telegraph*, ngày 8 tháng 5
     - "<a class="external text" href="http://www.telegraph.co.uk/culture/books/authorinterviews/5286395/Culture-Clinic-Sister-Wendy-Beckett.html" rel="noreferrer noopener" target="_blank">Phòng khám Văn hóa: Sơ Wendy Beckett</a>" (phỏng vấn Sơ Wendy Beckett)
 - [2009](../../main/_/2009.md): *Examiner*, ngày 26 tháng 10
@@ -186,12 +186,12 @@ sort_keys:
 - [2012](../../main/_/2012.md): *[The Saga of Hrolf Kraki](../../main/T/The_Saga_of_Hrolf_Kraki.md)*
     - Lời nói đầu (bởi [Priscilla Tolkien](../../main/P/Priscilla_Tolkien.md))
 - [2012](../../main/_/2012.md): Người bảo vệ, 03 tháng Chín
-    - "<a class="external text" href="http://www.theguardian.com/theguardian/2012/sep/03/archive-1973-hobbit-lord-rings-tolkien-death" rel="noreferrer noopener" target="_blank">Từ kho lưu trữ, 3 tháng Chín 1973: Hobbit và tác giả Chúa tể những chiếc nhẫn J. R. R. Tolkien qua đời</a>"
+    - "<a class="external text" href="http://www.theguardian.com/theguardian/2012/sep/03/archive-1973-hobbit-lord-rings-tolkien-death" rel="noreferrer noopener" target="_blank">Từ kho lưu trữ, 3 tháng Chín 1973: Hobbit và tác giả Chúa tể của những chiếc nhẫn J. R. R. Tolkien qua đời</a>"
 - [2012](../../main/_/2012.md): *staustinreview.com*, tháng 9
-    - "<a class="external text" href="http://www.staustinreview.com/uploads/issues/Sept_Oct_2012_Milward.pdf" rel="noreferrer noopener" target="_blank">Tolkien, Lewis và Nữ hoàng của đạo Thiên Chúa</a> của Peter Milward
+    - "<a class="external text" href="http://www.staustinreview.com/uploads/issues/Sept_Oct_2012_Milward.pdf" rel="noreferrer noopener" target="_blank">Tolkien, Lewis và Nữ hoàng của đạo Thiên chúa</a> của Peter Milward
 - [2012](../../main/_/2012.md): *Times of Malta*, ngày 24 tháng 12
     - "<a class="external text" href="http://www.timesofmalta.com/articles/view/20121224/local/A-quest-for-The-Hobbit.450767" rel="noreferrer noopener" target="_blank">Nhiệm vụ tìm kiếm The Hobbit</a>" (bởi Kristina Chetcuti).(phỏng vấn Charles Calleja)
-- [2013](../../main/_/2013.md): BBC Tin tức, ngày 21 tháng 3 năm 2013
+- [2013](../../main/_/2013.md): BBC News, ngày 21 tháng 3 năm 2013
     - "<a class="external text" href="http://www.bbc.co.uk/news/uk-northern-ireland-21859633" rel="noreferrer noopener" target="_blank">Có phải Gollum tên của anh ấy lấy được từ một hang động ở Burren Ireland không?</a>" (bởi Nuala McCann). \[Bao gồm ký ức được cho là của Rose MacNamara\].
 - [2013](../../main/_/2013.md): [*Mallorn* 54](../../main/M/Mallorn_54.md)
     - "Hồi ức về Tolkien: Canon Gerard Hanlon" (eds, Daniel Helen và [Morgan Thomsen](../../main/M/Morgan_Thomsen.md))
@@ -200,7 +200,7 @@ sort_keys:
 - [2013](../../main/_/2013.md): *The Independent*, ngày 22 tháng 11
     - "<a class="external text" href="http://www.independent.co.uk/life-style/health-and-families/features/cs-lewis-in-the-shadow-of-jfks-death-8955470.html" rel="noreferrer noopener" target="_blank">C.S.Lewis: trong bóng tối của cái chết của JFK...</a>"
 - [2014](../../main/_/2014.md): *goodreads.com*
-    - "<a class="external text" href="http://www.goodreads.com/author_blog_posts/5677234-under-the-shadow-of-the-ring-my-writing-beginnings" rel="noreferrer noopener" target="_blank">Dưới cái bóng của Nhẫn: sự khởi đầu viết lách của tôi</a>" của Paula Coston
+    - "<a class="external text" href="http://www.goodreads.com/author_blog_posts/5677234-under-the-shadow-of-the-ring-my-writing-beginnings" rel="noreferrer noopener" target="_blank">Dưới bóng của chiếc nhẫn: sự khởi đầu viết lách của tôi</a>" của Paula Coston
 - [2014](../../main/_/2014.md): *The Journal of Inklings Studies*, Tập. 4, số 1
     - "C.S. Lewis và J.R.R. Tolkien như tôi đã biết (Never Well)" của Eric Stanley.
 - [2015](../../main/_/2015.md): *theimaginativeconservative.org*
@@ -214,7 +214,7 @@ sort_keys:
 - [2017](../../main/_/2017.md): *The Times*, ngày 22 tháng 5
     - <a class="external text" href="http://www.thetimes.co.uk/article/roger-highfield-7spwb8xrs" rel="noreferrer noopener" target="_blank">Cáo phó: Roger Highfield</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[4]</a></sup>
 - [2017](../../main/_/2017.md): www.quora.com
-    - "<a class="external text" href="http://www.quora.com/After-Lord-of-the-Rings-was-there-any-mention-of-the-entwives/answer/Pip-Willis" rel="noreferrer noopener" target="_blank">Sau Chúa tể của những chiếc nhẫn có đề cập gì đến những người đồng đội không?: Trả lời</a>" của Pip Willis
+    - "<a class="external text" href="http://www.quora.com/After-Lord-of-the-Rings-was-there-any-mention-of-the-entwives/answer/Pip-Willis" rel="noreferrer noopener" target="_blank">Sau Chúa tể của những chiếc nhẫn có bất kỳ đề cập nào đến các cặp vợ chồng không?: Trả lời</a>" của Pip Willis
 - [2018](../../main/_/2018.md): *Simbelmynë* #2 (31)
     - "<a class="external text" href="http://www.elendilion.pl/wp-content/uploads/2019/01/Sn_31_English.pdf" rel="noreferrer noopener" target="_blank">Ký ức J.R.R. Tolkien của tôi</a>", bởi Zbigniew Pełczyński
 - [2025](../../main/_/2025.md): Cuộc trò chuyện với Peter Burke tại Emmanuel College, Cambridge
@@ -224,7 +224,7 @@ sort_keys:
 - [2011](../../main/_/2011.md): *BBC Radio 4*, ngày 25 tháng 11
     - "<a class="external text" href="http://www.bbc.co.uk/programmes/b017c8gp" rel="noreferrer noopener" target="_blank">Phỏng vấn Robert Hardy</a>
 - [2012](../../main/_/2012.md): *The Hobbit, the Musical*, chương trình phát thanh (London: [BBC](../../main/B/BBC.md), [2012](../../main/_/2012.md))
-    - Giới thiệu hồi ức của <a class="extiw" href="http://en.wikipedia.org/wiki/Paul_Drayton_(composer)" title="wikipedia:Paul Drayton (composer)">Paul Drayton</a> về cuộc gặp của anh ấy và [Humphrey Carpenter](../../main/H/Humphrey_Carpenter.md)với Tolkien vào [1967](../../main/_/1967.md) để xin phép [*The Hobbit* (chuyển thể giai đoạn 1967)](<../../main/T/The_Hobbit_(1967_stage_adaptation).md>).
+    - Giới thiệu hồi ức của <a class="extiw" href="http://en.wikipedia.org/wiki/Paul_Drayton_(composer)" title="wikipedia:Paul Drayton (composer)">Paul Drayton</a> về cuộc gặp của anh ấy và [Humphrey Carpenter](../../main/H/Humphrey_Carpenter.md) với Tolkien vào [1967](../../main/_/1967.md) để xin phép [*The Hobbit* (chuyển thể giai đoạn 1967)](<../../main/T/The_Hobbit_(1967_stage_adaptation).md>).
 - [2012](../../main/_/2012.md): *Sister Wendy Beckett*, chương trình phát thanh (London: [BBC](../../main/B/BBC.md), [2012](../../main/_/2012.md)) <a class="external text" href="http://www.bbc.co.uk/radio4/features/desert-island-discs/castaway/e39b7f00#b01p9g3w" rel="noreferrer noopener" target="_blank">Đĩa Đảo Sa Mạc</a>
 - [2013](../../main/_/2013.md): *Beyond Belief*, chương trình phát thanh (London: [BBC](../../main/B/BBC.md), [2013](../../main/_/2013.md)) <a class="external text" href="http://www.bbc.co.uk/programmes/b03bqchj" rel="noreferrer noopener" target="_blank">Robert Hardy</a>
 - [2014](../../main/_/2014.md): *Men @ Work with Michael Tolkien*, ngày 11 tháng 10
@@ -235,7 +235,7 @@ sort_keys:
 Hồi ức bởi:
 
 - <a class="external text" href="http://www.tolkiensociety.org/2015/07/watch-leslie-megahey-talks-about-tolkien-in-oxford/" rel="noreferrer noopener" target="_blank">Leslie Megahey nói về “Tolkien trong Oxford”</a> tại tolkiensociety.org
-- [2011](../../main/_/2011.md): <a class="external text" href="http://www.bbc.co.uk/news/uk-england-oxfordshire-14272863" rel="noreferrer noopener" target="_blank">BBC Phil Gayle của đài Oxford nói chuyện với Robert Hardy</a>
+- [2011](../../main/_/2011.md): <a class="external text" href="http://www.bbc.co.uk/news/uk-england-oxfordshire-14272863" rel="noreferrer noopener" target="_blank">Phil Gayle của BBC Radio Oxford nói chuyện với Robert Hardy</a>
 - <a class="external text" href="https://www.youtube.com/watch?v=M4BmdMBnsdA" rel="noreferrer noopener" target="_blank">Peter Burke, nhà sử học, học trò của Tolkien tại Oxford</a>
 - <a class="external text" href="https://www.youtube.com/watch?v=_Z47Qgy_6g4" rel="noreferrer noopener" target="_blank">Douglas Gresham Nhớ cuộc gặp gỡ J.R.R. Tolkien</a>
 - <a class="external text" href="https://www.youtube.com/watch?v=34rrfsoQieg" rel="noreferrer noopener" target="_blank">Douglas Gresham - Hội nghị Đại học Liberty</a>

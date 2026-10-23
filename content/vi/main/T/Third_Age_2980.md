@@ -38,7 +38,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 - [Théoden](Théoden.md), con trai của Thengel, trở thành Vua thứ mười bảy của [Rohan](../R/Rohan.md).<sup id="cite_ref-Mark_6-1" class="reference"><a href="#cite_note-Mark-6">[6]</a></sup>
 - Cái chết của [Thain](Thain.md) [Fortinbras Took II](../F/Fortinbras_Took_II.md).<sup id="cite_ref-Took_4-2" class="reference"><a href="#cite_note-Took-4">[4]</a></sup>
 - [Ferumbras Took III](../F/Ferumbras_Took_III.md), con trai của Fortinbras, trở thành Thain thứ ba mươi của [ Shire](The_Shire.md).<sup id="cite_ref-Took_4-3" class="reference"><a href="#cite_note-Took-4">[4]</a></sup>
-- Cái chết của [Drogo Baggins](../D/Drogo_Baggins.md) và [Primula Brandybuck](../P/Primula_Brandybuck.md); họ bị chết đuối trong [Brandywine](../B/Brandywine.md). Con trai của họ, [Frodo Baggins](../F/Frodo_Baggins.md), được người chú [Rorimac Brandybuck](../R/Rorimac_Brandybuck.md)nhận nuôi.<sup id="cite_ref-Brandybuck_5-1" class="reference"><a href="#cite_note-Brandybuck-5">[5]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+- Cái chết của [Drogo Baggins](../D/Drogo_Baggins.md) và [Primula Brandybuck](../P/Primula_Brandybuck.md); họ bị chết đuối trong [Brandywine](../B/Brandywine.md). Con trai của họ, [Frodo Baggins](../F/Frodo_Baggins.md), được người chú [Rorimac Brandybuck](../R/Rorimac_Brandybuck.md) nhận nuôi.<sup id="cite_ref-Brandybuck_5-1" class="reference"><a href="#cite_note-Brandybuck-5">[5]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 <span></span>
 

@@ -22,7 +22,7 @@ sort_keys:
 - "Thư từ nhân viên hội học sinh"
 - "Hỏi đáp với Giáo sư [Verlyn Flieger](../V/Verlyn_Flieger.md)"
 - [Anthony S. Burdge](../A/Anthony_S._Burdge.md): "Truy tìm sử thi"
-- [Anthony S. Burdge](../A/Anthony_S._Burdge.md): "Thần thoại của [Tolkien](../J/J.R.R._Tolkien.md)là gì?"
+- [Anthony S. Burdge](../A/Anthony_S._Burdge.md): "Thần thoại của [Tolkien](../J/J.R.R._Tolkien.md) là gì?"
 - Jessica Burke: "Suy nghĩ về huyền thoại"
 - [Anthony S. Burdge](../A/Anthony_S._Burdge.md): "[Sưu tầm trình chiếu](../S/Sideshow_Collectibles.md)/Bài thuyết trình của Heren Istarion: Billy Boyd"
 - Jessica Burke: "Trình chiếu Weta/Heren Istarion: [Viggo Mortensen](../V/Viggo_Mortensen.md)"

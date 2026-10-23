@@ -23,9 +23,9 @@ images:
 
 Thực hiện cuộc hành trình cùng [Học bổng](../F/Fellowship_of_the_Ring.md) và giành lấy các lãnh thổ của [Trung Địa](Middle-earth.md) trong phiên bản đặc biệt này của Trò chơi độc quyền cổ điển. Thu thập sức mạnh khi bạn di chuyển vào và ra khỏi các lãnh thổ này, xây dựng các thành trì và pháo đài để bảo vệ tài sản của mình. Bạn thậm chí có thể có được các di vật như quyền trượng của [Pháp sư](../W/Wizards.md). Trở thành người chơi mạnh nhất trong suốt Trung Địa để trở thành người chiến thắng.
 
-Chơi phiên bản cổ điển hoặc tận dụng sức mạnh của [the One Nhẫn](../T/The_One_Ring.md) với cách chơi tùy chọn The Lord of the Rings đặc biệt. [Con Mắt của Sauron](../E/Eye_of_Sauron.md) tiến lên Một Nhẫn và di chuyển trò chơi một cách nhanh chóng.
+Chơi phiên bản cổ điển hoặc tận dụng sức mạnh của [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) với cách chơi tùy chọn The Lord of the Rings đặc biệt. [Con Mắt của Sauron](../E/Eye_of_Sauron.md) nâng cao One Ring và di chuyển trò chơi một cách nhanh chóng.
 
-Phiên bản của Người sưu tập này bao gồm: sáu mã thông báo sưu tập, bảng trò chơi đầy màu sắc, chứng nhận danh hiệu đại diện cho các lãnh thổ trên khắp Trung Địa, 32 thành trì bằng nhựa và 12 pháo đài, thẻ NHÂN DÂN và SỰ KIỆN thay thế thẻ Cơ hội và Rương cộng đồng, bảy Mệnh giá quyền lực thay thế tiền chơi, một xúc xắc đặc biệt với Con Mắt của Sauron, một xúc xắc tiêu chuẩn, vòng thiếc màu vàng và các mã thông báo sưu tập mô tả [Aragorn](../A/Aragorn.md), [Frodo](../F/Frodo_Baggins.md), [Gimli](../G/Gimli.md), [Galadriel](../G/Galadriel.md), [Gandalf](../G/Gandalf.md)và [Legolas](../L/Legolas.md).
+Phiên bản của Người sưu tập này bao gồm: sáu mã thông báo sưu tập, bảng trò chơi đầy màu sắc, chứng nhận danh hiệu đại diện cho các lãnh thổ trên khắp Trung Địa, 32 thành trì bằng nhựa và 12 pháo đài, thẻ NHÂN DÂN và SỰ KIỆN thay thế thẻ Cơ hội và Rương cộng đồng, bảy Mệnh giá quyền lực thay thế tiền chơi, một xúc xắc đặc biệt với Con Mắt của Sauron, một xúc xắc tiêu chuẩn, vòng thiếc màu vàng và các mã thông báo sưu tập mô tả [Aragorn](../A/Aragorn.md), [Frodo](../F/Frodo_Baggins.md), [Gimli](../G/Gimli.md), [Galadriel](../G/Galadriel.md), [Gandalf](../G/Gandalf.md) và [Legolas](../L/Legolas.md).
 
 Dành cho 2 đến 6 người chơi.
 

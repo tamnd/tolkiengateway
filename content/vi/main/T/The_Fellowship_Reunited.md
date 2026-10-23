@@ -36,7 +36,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Frodo](../F/Frodo.md)từ từ tỉnh dậy trên chiếc giường trắng, tắm trong ánh sáng. Trong sự kinh ngạc và không thể tin được, anh thấy mình đang nhìn [Gandalf](../G/Gandalf.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Phù thủy và chàng hobbit đều cười vui vẻ, [Merry](../M/Merry.md) và [Pippin](../P/Pippin.md) lao vào phòng và nhảy lên giường của Frodo để ôm anh, vui mừng khi thấy anh tỉnh dậy. [Gimli](../G/Gimli.md), [Legolas](../L/Legolas.md)và [Aragorn](../A/Aragorn.md) tham gia Frodo, đoàn tụ các thành viên còn lại của [Học bổng](../F/Fellowship_of_the_Ring.md).
+[Frodo](../F/Frodo.md) từ từ tỉnh dậy trên chiếc giường trắng, tắm trong ánh sáng. Trong sự kinh ngạc và không thể tin được, anh thấy mình đang nhìn [Gandalf](../G/Gandalf.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Phù thủy và chàng hobbit đều cười vui vẻ, [Merry](../M/Merry.md) và [Pippin](../P/Pippin.md) lao vào phòng và nhảy lên giường của Frodo để ôm anh, vui mừng khi thấy anh tỉnh dậy. [Gimli](../G/Gimli.md), [Legolas](../L/Legolas.md) và [Aragorn](../A/Aragorn.md) tham gia Frodo, đoàn tụ các thành viên còn lại của [Học bổng](../F/Fellowship_of_the_Ring.md).
 
 Cuối cùng, [Sam](../S/Sam.md) bước vào, đứng ở ngưỡng cửa. Khi Frodo nhìn thấy anh ấy, hai hobbit nhìn nhau một lúc lâu đầy ẩn ý và chỉ mỉm cười với nhau.
 

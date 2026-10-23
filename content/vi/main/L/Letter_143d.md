@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong thư gửi [Rayner Unwin](../R/Rayner_Unwin.md)này, Tolkien thảo luận về thiết kế bìa được đề xuất cho *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Ông đồng ý với ý tưởng sử dụng cùng một thiết bị trung tâm cho cả ba tập, với mỗi tập được phân biệt bằng một màu khác nhau. Tolkien tin rằng cách tiếp cận này nhấn mạnh tính thống nhất của câu chuyện, mà anh coi đó là một cuốn sách duy nhất chứ không phải là ba tập riêng biệt.
+Trong thư gửi [Rayner Unwin](../R/Rayner_Unwin.md) này, Tolkien thảo luận về thiết kế bìa được đề xuất cho *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Ông đồng ý với ý tưởng sử dụng cùng một thiết bị trung tâm cho cả ba tập, với mỗi tập được phân biệt bằng một màu khác nhau. Tolkien tin rằng cách tiếp cận này nhấn mạnh tính thống nhất của câu chuyện, mà anh coi đó là một cuốn sách duy nhất chứ không phải là ba tập riêng biệt.
 
 Anh ấy bày tỏ sự ưa thích đối với thiết kế có ba chiếc nhẫn phụ, vì điều này thể hiện tốt hơn tính biểu tượng bao trùm của câu chuyện so với thiết kế thay thế có tâm màu đen và [chiếc nhẫn nạm ngọc đỏ](../N/Narya.md) tượng trưng cho sự đối lập của [Gandalf](../G/Gandalf.md). <br>
 

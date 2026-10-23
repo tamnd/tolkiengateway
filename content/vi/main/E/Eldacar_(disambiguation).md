@@ -32,7 +32,7 @@ images:
 
 - [Eldacar](<Eldacar_(King_of_Arnor).md>) ([T.A.](../T/Third_Age.md) [87](../T/Third_Age_87.md) - [339](../T/Third_Age_339.md)), [Vua](../K/Kings_of_Arnor.md) thứ tư của [Arnor](../A/Arnor.md) và là cháu trai của [Isildur](../I/Isildur.md).
 - [Eldacar](<Eldacar_(King_of_Gondor).md>) ([T.A.](../T/Third_Age.md) [1255](../T/Third_Age_1255.md) - [1490](../T/Third_Age_1490.md)), [Vua](../K/Kings_of_Gondor.md) thứ 21 của [Gondor](../G/Gondor.md), người đã phải chiến đấu để giành lấy ngai vàng của mình trong [Xung đột họ hàng](../K/Kin-strife~3650.md).
-- "Eldakar" là tên ban đầu của cả [Aragorn II](../A/Aragorn.md)và cha anh [Arathorn II](../A/Arathorn_II.md), trong [các phiên bản trước của truyền thuyết](../T/The_Treason_of_Isengard.md).
+- "Eldakar" là tên ban đầu của cả [Aragorn II](../A/Aragorn.md) và cha anh [Arathorn II](../A/Arathorn_II.md), trong [các phiên bản trước của truyền thuyết](../T/The_Treason_of_Isengard.md).
 - Eldacar là tên được sử dụng trên [Thẻ giải mã](../T/The_Lord_of_the_Rings_Trading_Card_Game.md) của một trong những người bảo vệ Beacon, do <a class="new" href="https://tolkiengateway.net/w/index.php?title=Christian_Rivers&amp;action=edit&amp;redlink=1" title="Christian Rivers (page does not exist)">Christian Rivers</a>thủ vai.
 
 <hr style="margin-top:15px;"/>

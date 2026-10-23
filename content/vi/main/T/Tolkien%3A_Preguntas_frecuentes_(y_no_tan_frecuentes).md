@@ -41,7 +41,7 @@ Ngoài ra, cuốn sách còn có lời tựa của [Eduardo Segura](../E/Eduardo
 
 ## Nội dung {#Content}
 
-Cuốn sách khám phá nhiều lĩnh vực kiến ​​thức khác nhau về truyền thuyết do J.R.R. Tolkien tạo ra, trả lời các câu hỏi về các sinh vật [Arda](../A/Arda.md), [Tiên tộc](../E/Elves.md), [Người Lùn](../D/Dwarves.md), [Hobbit](../H/Hobbits.md)và các khía cạnh thường khiến người hâm mộ thắc mắc, chẳng hạn như [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md). Mỗi "câu hỏi thường gặp" đều được trả lời bằng nghiên cứu kỹ lưỡng, bao gồm các trích dẫn từ sách, [thư](../../category/L/Letters.md) của Tolkien và bất kỳ nguồn liên quan nào khác để tìm ra câu trả lời (nếu có). Nó cũng bao gồm một phần câu hỏi về chính Tolkien.
+Cuốn sách khám phá nhiều lĩnh vực kiến ​​thức khác nhau về truyền thuyết do J.R.R. Tolkien tạo ra, trả lời các câu hỏi về các sinh vật [Arda](../A/Arda.md), [Tiên tộc](../E/Elves.md), [Người Lùn](../D/Dwarves.md), [Hobbit](../H/Hobbits.md) và các khía cạnh thường khiến người hâm mộ thắc mắc, chẳng hạn như [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md). Mỗi "câu hỏi thường gặp" đều được trả lời bằng nghiên cứu kỹ lưỡng, bao gồm các trích dẫn từ sách, [thư](../../category/L/Letters.md) của Tolkien và bất kỳ nguồn liên quan nào khác để tìm ra câu trả lời (nếu có). Nó cũng bao gồm một phần câu hỏi về chính Tolkien.
 
 Cuốn sách được bán vào tháng 10 năm 2004 và Minotauro thông báo rằng ấn bản đầu tiên đã bán hết trong vòng chưa đầy một năm, tính đến tháng 6 năm 2005.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>Hiện tại vẫn chưa biết liệu Minotauro có xuất bản ấn bản mới của cuốn sách hay không.
 

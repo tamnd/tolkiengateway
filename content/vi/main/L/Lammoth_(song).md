@@ -38,7 +38,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Lammoth** là ca khúc thứ ba trong album chủ đề [Tolkien](../J/J.R.R._Tolkien.md) [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md) của [Blind Guardian](../B/Blind_Guardian.md). Bài hát là tiếng hét của [Morgoth](../M/Morgoth.md) sau khi bị [Ungoliant](../U/Ungoliant.md) tấn công vì từ chối đưa [Silmaril](../S/Silmarils.md)cho cô. Khu vực này sau này được gọi là "Great Echo" hay [Lammoth](Lammoth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Lammoth** là ca khúc thứ ba trong album chủ đề [Tolkien](../J/J.R.R._Tolkien.md) [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md) của [Blind Guardian](../B/Blind_Guardian.md). Bài hát là tiếng hét của [Morgoth](../M/Morgoth.md) sau khi bị [Ungoliant](../U/Ungoliant.md) tấn công vì từ chối đưa [Silmaril](../S/Silmarils.md) cho cô. Khu vực này sau này được gọi là "Great Echo" hay [Lammoth](Lammoth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_the_Flight_of_the_Noldor.md" title="Of the Flight of the Noldor">Of the Flight of the Noldor</a>&#34;</span>

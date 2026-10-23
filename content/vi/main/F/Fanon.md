@@ -21,7 +21,7 @@ categories:
 
 Ví dụ về các khái niệm phi kinh điển được cộng đồng TV Tropes coi là phổ biến trong fanfiction, trong số đó, việc sử dụng các thuật ngữ như “người lùn” và “yêu tinh”, khái niệm [Tiên tộc](../E/Elves.md) ăn chay nghiêm ngặt và sử dụng cấp bậc quân sự hiện đại.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Một công việc chính của fanon trong fandom *Lord of the Rings* là <a class="external text" href="https://notionclubarchives.fandom.com" rel="noreferrer noopener" target="_blank">Kho lưu trữ Notion Club mới</a>, là một dự án tìm cách gắn kết một [Arda](../A/Arda.md)mạch lạc, dày đặc và phức tạp hơn lại với nhau, sử dụng các khái niệm từ nhiều bản chuyển thể khác nhau được diễn giải lại và điều chỉnh cho nhất quán.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Ngược lại, nó được sử dụng làm nguồn cho các dự án dành cho người hâm mộ khác như *[The Lord of the Rings: Realms in Exile](../T/The_Lord_of_the_Rings%253A_Realms_in_Exile.md)*.
+Một công việc chính của fanon trong fandom *Lord of the Rings* là <a class="external text" href="https://notionclubarchives.fandom.com" rel="noreferrer noopener" target="_blank">Kho lưu trữ Notion Club mới</a>, là một dự án tìm cách gắn kết một [Arda](../A/Arda.md) mạch lạc, dày đặc và phức tạp hơn lại với nhau, sử dụng các khái niệm từ nhiều bản chuyển thể khác nhau được diễn giải lại và điều chỉnh cho nhất quán.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Ngược lại, nó được sử dụng làm nguồn cho các dự án dành cho người hâm mộ khác như *[The Lord of the Rings: Realms in Exile](../T/The_Lord_of_the_Rings%253A_Realms_in_Exile.md)*.
 
 ## Xem thêm {#See_also}
 

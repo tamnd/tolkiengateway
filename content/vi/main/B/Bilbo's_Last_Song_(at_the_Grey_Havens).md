@@ -61,17 +61,17 @@ Bài thơ lần đầu tiên xuất hiện dưới dạng áp phích (60×40 cm
 
 Ấn bản sách đầu tiên được xuất bản vào năm [1990](../_/1990.md), được minh họa bởi cùng một họa sĩ. Đó là một cuốn sách tranh màu dày 32 trang, mỗi trang đôi có hai dòng thơ, với gần 50 bức tranh của Baynes.
 
-Bài thơ được đưa vào ấn bản thứ hai của *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*, được [Donald Swann](../D/Donald_Swann.md)phổ nhạc, trong [1978](../_/1978.md).
+Bài thơ được đưa vào ấn bản thứ hai của *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*, được [Donald Swann](../D/Donald_Swann.md) phổ nhạc, trong [1978](../_/1978.md).
 
 ## Nền {#Background}
 
 Ban đầu nó là một sáng tác trong tiếng Bắc Âu cổ, có tựa đề *Vestr um haf* ("Phương Tây trên biển"), được viết vào đầu những năm 1920. Vào [1968](../_/1968.md), sau khi [Joy Hill](../J/Joy_Hill.md), thư ký của Tolkien, phát hiện lại nó trong một chồng sách, Tolkien đã tặng nó cho cô như một món quà vì sự hỗ trợ của cô trong việc thành lập văn phòng mới của anh.
 
-Sau cái chết của Tolkien vào [1973](../_/1973.md), Hill đưa bài thơ cho [Donald Swann](../D/Donald_Swann.md)xem, người này thích bài thơ đến mức ông đã phổ nhạc và đưa nó vào ấn bản thứ hai của *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)* trong [1978](../_/1978.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bài thơ cũng được minh họa bởi [Pauline Baynes](../P/Pauline_Baynes.md)và được xuất bản dưới dạng áp phích vào [26 tháng 11](../_/26_November.md) [1974](../_/1974.md).
+Sau cái chết của Tolkien vào [1973](../_/1973.md), Hill đưa bài thơ cho [Donald Swann](../D/Donald_Swann.md) xem, người này thích bài thơ đến mức ông đã phổ nhạc và đưa nó vào ấn bản thứ hai của *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)* trong [1978](../_/1978.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bài thơ cũng được minh họa bởi [Pauline Baynes](../P/Pauline_Baynes.md) và được xuất bản dưới dạng áp phích vào [26 tháng 11](../_/26_November.md) [1974](../_/1974.md).
 
-Bài hát đã được đưa vào bản chuyển thể BBC Radio 4 của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (1981), với phần nhạc của Stephen Oliver. Câu đầu tiên được John Le Mesurier đọc thành Bilbo, câu thứ hai bị bỏ qua và câu thứ ba được hát bởi một giọng nữ cao nam.
+Bài hát đã được đưa vào bản chuyển thể *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của BBC Radio 4 (1981), với phần nhạc của Stephen Oliver. Câu đầu tiên được John Le Mesurier tụng là Bilbo, câu thứ hai bị bỏ qua và câu thứ ba được hát bởi một giọng nữ cao.
 
-Năm 1996, bài hát được ban nhạc [Hiệp hội Tolkien Hà Lan](../U/Unquendor.md) [The Hobbitons](../T/The_Hobbitons.md) thu âm với sự cho phép của [Tolkien Estate](../T/Tolkien_Estate.md)cho CD *J.R.R. Tolkien's Songs from Middle-earth*của họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Năm 1996, bài hát được ban nhạc [Hiệp hội Tolkien Hà Lan](../U/Unquendor.md) [The Hobbitons](../T/The_Hobbitons.md) thu âm với sự cho phép của [Tolkien Estate](../T/Tolkien_Estate.md) cho CD *J.R.R. Tolkien's Songs from Middle-earth* của họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Bản quyền bài thơ đã được Tolkien trao cho Hill cùng với chính bài thơ. Sau khi bà qua đời vào năm 1991, Hill đã trao bản quyền cho <a class="extiw" href="http://en.wikipedia.org/wiki/Order_of_the_Holy_Paraclete" title="wikipedia:Order of the Holy Paraclete">Order of the Holy Paraclete</a>. Các minh họa của Baynes cho *Bilbo's Last Song* không được đưa vào di sản của Dòng nhưng đã được trao cho <a class="extiw" href="http://en.wikipedia.org/wiki/Williams-Exeter_Programme_at_Oxford" title="wikipedia:Williams-Exeter Programme at Oxford">Chương trình Williams-Exeter tại Oxford</a> sau khi bà qua đời vào năm 2008.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

@@ -12,7 +12,7 @@ categories:
   - "The Return of the King (1980 film) soundtrack"
 ---
 
-**Leave Tomorrow Till It Comes** là bài hát được viết bởi [Maury Laws](../M/Maury_Laws.md) (nhạc) và [Jules Bass](../J/Jules_Bass.md) (lời) và được [Glenn Yarbrough](../G/Glenn_Yarbrough.md) thể hiện cho bộ phim hoạt hình [1980](../_/1980.md) [*The Return of the King*](<../T/The_Return_of_the_King_(1980_film).md>). Bài hát phát ra khi [Frodo](../F/Frodo_Baggins.md) mơ về chiến thắng của anh và [Sam](../S/Samwise_Gamgee.md)trước Chiếc nhẫn.
+**Leave Tomorrow Till It Comes** là bài hát được viết bởi [Maury Laws](../M/Maury_Laws.md) (nhạc) và [Jules Bass](../J/Jules_Bass.md) (lời) và được [Glenn Yarbrough](../G/Glenn_Yarbrough.md) thể hiện cho bộ phim hoạt hình [1980](../_/1980.md) [*The Return of the King*](<../T/The_Return_of_the_King_(1980_film).md>). Bài hát phát ra khi [Frodo](../F/Frodo_Baggins.md) mơ về chiến thắng của anh và [Sam](../S/Samwise_Gamgee.md) trước Chiếc nhẫn.
 
 ## Lời bài hát {#Lyrics}
 

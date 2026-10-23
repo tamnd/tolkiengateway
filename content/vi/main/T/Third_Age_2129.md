@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cái chết của [Galador](../G/Galador.md) của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Elendil_1-0" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup>
-Đứa con trai giấu tên của - [Galador](../G/Galador.md)trở thành [Thân vương](../P/Princes_of_Dol_Amroth.md) thứ hai trong [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Elendil_1-1" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup>
+Đứa con trai giấu tên của - [Galador](../G/Galador.md) trở thành [Thân vương](../P/Princes_of_Dol_Amroth.md) thứ hai trong [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-Elendil_1-1" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup>
 
 <span></span>
 

@@ -90,7 +90,7 @@ Tổ tiên của Hador, [Malach](../M/Malach.md), đã sống 14 năm ở Vươn
 
 Noble Hador được nhớ đến như một [Bạn của Tiên tộc](../E/Elf-friend.md) (chỉ [Elvish](../E/Elvish.md) được nói trong gia đình ông<sup id="cite_ref-Had_7-1" class="reference"><a href="#cite_note-Had-7">[7]</a></sup>), thủ lĩnh vĩ đại nhất của Edain và ngang hàng với các lãnh chúa Tiên, và Gia tộc của ông trở thành gia tộc vĩ đại nhất trong [Ba Nhà](../T/Three_Houses.md) của [Edain](../E/Edain.md). Ông cai trị Dor-lómin trong 39 năm cho đến [Dagor Bragollach](../D/Dagor_Bragollach.md). Ông chỉ huy hậu quân Fingolfin của mình ở mùa xuân [Eithel Sirion](../E/Eithel_Sirion.md), nhưng bị giết cùng với con trai út Gundor. Để vinh danh ông, con cháu của ông sẽ tự gọi mình là [Nhà Hador](House_of_Hador.md).<sup id="cite_ref-Ruin_8-0" class="reference"><a href="#cite_note-Ruin-8">[8]</a></sup>
 
-Hàng ngàn năm sau, tại [The Hội đồng Elrond](../T/The_Council_of_Elrond.md), Hador được mệnh danh là "Những người bạn Yêu tinh hùng mạnh ngày xưa", cùng với Húrin, [Túrin](../T/Túrin.md)và [Beren](../B/Beren.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Hàng ngàn năm sau, tại [The Hội đồng Elrond](../T/The_Council_of_Elrond.md), Hador được mệnh danh là "Những người bạn Yêu tinh hùng mạnh ngày xưa", cùng với Húrin, [Túrin](../T/Túrin.md) và [Beren](../B/Beren.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

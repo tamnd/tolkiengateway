@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh này được [Narfil Palùrfalas](https://tolkiengateway.net/wiki/User:Narfil_Pal%C3%B9rfalas) tạo từ đầu trong Microsoft Fireworks, dựa trên bản đồ trong [The Atlas of Middle-earth](../../main/T/The_Atlas_of_Middle-earth.md)của [Karen Wynn Fonstad](../../main/K/Karen_Wynn_Fonstad.md).
+Hình ảnh này được [Narfil Palùrfalas](https://tolkiengateway.net/wiki/User:Narfil_Pal%C3%B9rfalas) tạo từ đầu trong Microsoft Fireworks, dựa trên bản đồ trong [The Atlas of Middle-earth](../../main/T/The_Atlas_of_Middle-earth.md) của [Karen Wynn Fonstad](../../main/K/Karen_Wynn_Fonstad.md).
 
 ## Giấy phép {#Licensing}
 

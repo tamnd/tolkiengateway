@@ -90,7 +90,7 @@ Sự kiện xảy ra vào ngày 25 tháng Chín.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Sau khi [Tiên tộc](../E/Elves.md)rời đi, [Khamûl](../K/Khamûl.md) tiếp tục cuộc tìm kiếm Chiếc nhẫn.<sup id="cite_ref-RC164_1-0" class="reference"><a href="#cite_note-RC164-1">[1]</a></sup>
+    - Sau khi [Tiên tộc](../E/Elves.md) rời đi, [Khamûl](../K/Khamûl.md) tiếp tục cuộc tìm kiếm Chiếc nhẫn.<sup id="cite_ref-RC164_1-0" class="reference"><a href="#cite_note-RC164-1">[1]</a></sup>
     - Các hobbit ăn sáng với bánh mì, trái cây và đồ uống [High Elves](../H/High_Elves.md) còn lại cho họ. Frodo quyết định tiếp tục [Bucklebury](../B/Bucklebury.md) bằng cách cắt ngang [Green Hill Country](../G/Green_Hill_Country.md) và [ Marish](../T/The_Marish.md).<sup id="cite_ref-short_2-0" class="reference"><a href="#cite_note-short-2">[2]</a></sup>
     - Họ bị chặn bởi [Stock-brook](../S/Stock-brook.md), cho đến khi họ nhìn thấy [Kỵ Sĩ Đen](../B/Black_Riders.md) lần thứ ba, phía sau họ; họ buộc phải lao vào bụi rậm bên bờ sông và tiếp tục đi dọc theo đó.<sup id="cite_ref-short_2-1" class="reference"><a href="#cite_note-short-2">[2]</a></sup>
     - Họ lội suối và chạy vào rừng; mưa rơi trên Marish. Vào giữa ngày, họ ăn trưa bên cạnh một [cây du](../E/Elms.md) được che chở.<sup id="cite_ref-short_2-2" class="reference"><a href="#cite_note-short-2">[2]</a></sup>

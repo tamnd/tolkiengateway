@@ -50,7 +50,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Angelica là con gái của [Ponto II](../P/Ponto_Baggins_II.md), cháu gái của [Bilbo Baggins](../B/Bilbo_Baggins.md)đã ba lần bị loại bỏ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Mặc dù mối quan hệ của cô với Bilbo xa cách hơn nhưng cô vẫn gọi ông là "Chú Bilbo". Cô được mời đến [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md) ở [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md) và nhận được một chiếc gương cầu lồi tròn làm quà vì rõ ràng cô rất ngưỡng mộ vẻ ngoài của mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Angelica là con gái của [Ponto II](../P/Ponto_Baggins_II.md), cháu gái của [Bilbo Baggins](../B/Bilbo_Baggins.md) đã ba lần bị loại bỏ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Mặc dù mối quan hệ của cô với Bilbo xa cách hơn nhưng cô vẫn gọi ông là "Chú Bilbo". Cô được mời đến [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md) ở [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md) và nhận được một chiếc gương cầu lồi tròn làm quà vì rõ ràng cô rất ngưỡng mộ vẻ ngoài của mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

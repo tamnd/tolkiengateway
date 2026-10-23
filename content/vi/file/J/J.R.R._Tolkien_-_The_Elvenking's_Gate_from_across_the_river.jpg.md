@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-“Cổng [Vua Tiên](../../main/T/Thranduil.md)bên kia sông” của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
+“Cổng [Vua Tiên](../../main/T/Thranduil.md) bên kia sông” của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Giấy phép {#Licensing}
 

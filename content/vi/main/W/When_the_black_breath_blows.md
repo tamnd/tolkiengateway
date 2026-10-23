@@ -30,7 +30,7 @@ In the king&#39;s hand lying!
 
 <b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">The Lord of the Rings: War in the North</a></i> </b>
 
-Bài thơ được kể lại bởi một trong những người chữa bệnh tại nơi đóng quân của [Halbarad](../H/Halbarad.md)ở [Sarn Ford](../S/Sarn_Ford.md), mặc dù "athelas" ở đây bị phát âm sai thành "ah-THAY-lus" chứ không phải "ATH-e-lass" như bài thơ gợi ý.
+Bài thơ được kể lại bởi một trong những người chữa bệnh tại nơi đóng quân của [Halbarad](../H/Halbarad.md) ở [Sarn Ford](../S/Sarn_Ford.md), mặc dù "athelas" ở đây bị phát âm sai thành "ah-THAY-lus" chứ không phải "ATH-e-lass" như bài thơ gợi ý.
 
 ## Xem thêm {#See_also}
 

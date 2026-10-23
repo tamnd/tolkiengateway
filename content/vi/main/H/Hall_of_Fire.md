@@ -29,7 +29,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_The_Hall_of_Fire.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4f/Anke_Ei%C3%9Fmann_-_The_Hall_of_Fire.jpg/250px-Anke_Ei%C3%9Fmann_-_The_Hall_of_Fire.jpg" decoding="async" loading="lazy" width="250" height="145" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4f/Anke_Ei%C3%9Fmann_-_The_Hall_of_Fire.jpg/375px-Anke_Ei%C3%9Fmann_-_The_Hall_of_Fire.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4f/Anke_Ei%C3%9Fmann_-_The_Hall_of_Fire.jpg/500px-Anke_Ei%C3%9Fmann_-_The_Hall_of_Fire.jpg 2x" data-file-width="850" data-file-height="494"/></a><figcaption>&#34;The Hall of Fire&#34; by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
 
-**Sảnh Lửa** là một căn phòng lớn trong nhà của [Elrond](../E/Elrond.md)ở [Rivendell](../R/Rivendell.md). Giữa những cây cột được chạm khắc trong một lò sưởi lớn, một ngọn lửa luôn được thắp sáng, với rất ít ánh sáng khác hiện diện. Trong khi hầu hết các ngày hội trường trống rỗng, thì vào ban đêm, nó được dành cho việc kể chuyện và ca hát.
+**Sảnh Lửa** là một căn phòng lớn trong nhà của [Elrond](../E/Elrond.md) ở [Rivendell](../R/Rivendell.md). Giữa những cây cột được chạm khắc trong một lò sưởi lớn, một ngọn lửa luôn được thắp sáng, với rất ít ánh sáng khác hiện diện. Trong khi hầu hết các ngày hội trường trống rỗng, thì vào ban đêm, nó được dành cho việc kể chuyện và ca hát.
 
 ## Lịch sử {#History}
 

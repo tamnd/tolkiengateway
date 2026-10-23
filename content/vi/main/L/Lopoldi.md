@@ -23,7 +23,7 @@ Không rõ mô tả của chúng, nhưng có vẻ như chúng là [thỏ](../R/R
 
 *Lopoldi* là từ [Quenya](../Q/Quenya.md) số nhiều của "Thỏ".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
-Trong một bản viết tay ngôn ngữ học từ những năm 1930, xuất hiện [Quenya](../Q/Quenya.md) bóng *lopo* ("con thỏ") từ nguyên thủy *lopō*<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> và nối với gốc *LOP*. Trong [Qenya](../Q/Qenya.md)trước đó, đó là *lapatte*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+Trong một bản viết tay ngôn ngữ học từ những năm 1930, xuất hiện [Quenya](../Q/Quenya.md) bóng *lopo* ("con thỏ") từ nguyên thủy *lopō*<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> và nối với gốc *LOP*. Trong [Qenya](../Q/Qenya.md) trước đó, đó là *lapatte*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
 ## Ghi chú {#Notes}
 

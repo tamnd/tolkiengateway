@@ -30,7 +30,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**Primitive Quendian** là ngôn ngữ nguyên thủy của **[Quendi](../Q/Quendi.md)** hoặc [Tiên tộc](../E/Elves.md)mà họ đã nói ngay sau khi [Thức tỉnh](../A/Awakening_of_the_Elves.md).
+**Primitive Quendian** là ngôn ngữ nguyên thủy của **[Quendi](../Q/Quendi.md)** hoặc [Tiên tộc](../E/Elves.md) mà họ đã nói ngay sau khi [Thức tỉnh](../A/Awakening_of_the_Elves.md).
 
 ## Lịch sử {#History}
 

@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Thị trấn Hồ trong cuộc tấn công của [Smaug](../../main/S/Smaug.md)từ *[The Hobbit: The Battle of the Five Armies](../../main/T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*.
+Thị trấn Hồ trong cuộc tấn công của [Smaug](../../main/S/Smaug.md) từ *[The Hobbit: The Battle of the Five Armies](../../main/T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*.
 
 ## Giấy phép {#Licensing}
 

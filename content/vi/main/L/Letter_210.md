@@ -31,9 +31,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã được gửi kịch bản cho bộ phim *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*do <a class="new" href="https://tolkiengateway.net/w/index.php?title=Morton_Grady_Zimmerman&amp;action=edit&amp;redlink=1" title="Morton Grady Zimmerman (page does not exist)">Morton Grady Zimmerman</a>đề xuất và Tolkien đã viết một câu trả lời dài về nó.
+Tolkien đã được gửi kịch bản cho bộ phim *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* do <a class="new" href="https://tolkiengateway.net/w/index.php?title=Morton_Grady_Zimmerman&amp;action=edit&amp;redlink=1" title="Morton Grady Zimmerman (page does not exist)">Morton Grady Zimmerman</a>đề xuất và Tolkien đã viết một câu trả lời dài về nó.
 
-Đầu tiên, anh xin lỗi vì nghe có vẻ khó chịu hoặc khó chịu, nhưng đó là vì anh cảm thấy câu chuyện được xử lý một cách bất cẩn, thậm chí đôi khi còn thiếu thận trọng. Câu chuyện về cơ bản đã bị rút gọn thành chiến đấu và phép thuật, còn phần cuối của [Người Mang Nhẫn](../R/Ring-bearer.md)đã bị "giết hại".
+Đầu tiên, anh xin lỗi vì nghe có vẻ khó chịu hoặc khó chịu, nhưng đó là vì anh cảm thấy câu chuyện được xử lý một cách bất cẩn, thậm chí đôi khi còn thiếu thận trọng. Câu chuyện về cơ bản đã bị rút gọn thành chiến đấu và phép thuật, còn phần cuối của [Người Mang Nhẫn](../R/Ring-bearer.md) đã bị "giết hại".
 
 Các tài liệu tham khảo được tính theo số trang của kịch bản mà Zimmerman (gọi đơn giản là "Z" trong thư) đã gửi cho anh ta.
 
@@ -43,7 +43,7 @@ Các tài liệu tham khảo được tính theo số trang của kịch bản m
 
 Tolkien cũng đề cập đến dòng thời gian của bộ phim: nó được rút gọn rất nhiều và không tính đến các mùa. Những mùa này rất quan trọng: bắt đầu từ mùa thu, qua mùa đông và kết thúc vào mùa xuân. Trong suy nghĩ của Z, một cơn bão tuyết chắc chắn sẽ xảy ra vào Mùa hè. Mặc dù *The Lord of the Rings* là một câu chuyện cổ tích, "dặm là dặm, ngày là ngày và thời tiết là thời tiết."
 
-- Trang 7: [Tom Bombadil](../T/Tom_Bombadil.md). Anh ta được miêu tả là chủ nhân của [khu rừng](../O/Old_Forest.md), và ngôn ngữ của anh ta rất ngớ ngẩn. [Goldberry](../G/Goldberry.md)cũng vậy; cô ấy sẽ tốt hơn nếu bị bỏ qua.
+- Trang 7: [Tom Bombadil](../T/Tom_Bombadil.md). Anh ta được miêu tả là chủ nhân của [khu rừng](../O/Old_Forest.md), và ngôn ngữ của anh ta rất ngớ ngẩn. [Goldberry](../G/Goldberry.md) cũng vậy; cô ấy sẽ tốt hơn nếu bị bỏ qua.
 
 - Trang 8: [Barliman Butterbur](../B/Barliman_Butterbur.md). Anh ta muốn khách "đăng ký", nhưng đăng ký khách sạn không tồn tại, vì [Bree](../B/Bree.md) không có cảnh sát cũng như chính phủ. Ngoài ra, trái ngược với cách xử lý của Z, các phòng đều không được đánh số.
 
@@ -51,9 +51,9 @@ Tolkien cũng đề cập đến dòng thời gian của bộ phim: nó được
 
 - Trang 10. [Rivendell](../R/Rivendell.md) và [Narsil](../N/Narsil.md). Đó không phải là một khu rừng lung linh. Đó là [Lothlórien](Lothlórien.md), nó không giống chút nào. Z cũng làm cho nó có thể nhìn thấy được từ [Weathertop](../W/Weathertop.md), mặc dù nó ở cách xa 200 dặm và ở trong một khe núi. Aragorn sẽ không "rút kiếm"; rốt cuộc thì nó đã bị hỏng. Z đã mang lại [Narsil](../N/Narsil.md) ánh sáng thần tiên, đó lại là một [sự mong đợi](../A/Andúril.md) Tolkien không thích.
 
-- Trang 11. [Weathertop](../W/Weathertop.md). Aragorn, thay vì [Sam](../S/Samwise_Gamgee.md), đã hát *[the Fall of Gil-galad](../T/The_Fall_of_Gil-galad.md)*, điều này hoàn toàn không phù hợp. Kỵ sĩ Đen hét lên trong kịch bản của Z, nhưng Tolkien nói rằng họ giữ một sự im lặng đáng sợ hơn. Sam cắm thanh kiếm của mình vào đùi của Wraith, nhưng nó không vỡ vụn như [Merry](../M/Meriadoc_Brandybuck.md)sau này. Toàn bộ khung cảnh đã được viết lại và nó không làm Tolkien hài lòng chút nào.
+- Trang 11. [Weathertop](../W/Weathertop.md). Aragorn, thay vì [Sam](../S/Samwise_Gamgee.md), đã hát *[the Fall of Gil-galad](../T/The_Fall_of_Gil-galad.md)*, điều này hoàn toàn không phù hợp. Kỵ sĩ Đen hét lên trong kịch bản của Z, nhưng Tolkien nói rằng họ giữ một sự im lặng đáng sợ hơn. Sam cắm thanh kiếm của mình vào đùi của Wraith, nhưng nó không vỡ vụn như [Merry](../M/Meriadoc_Brandybuck.md) sau này. Toàn bộ khung cảnh đã được viết lại và nó không làm Tolkien hài lòng chút nào.
 
-- Trang 15. Nhẫn Tiến về phía Nam. Z một lần nữa thể hiện sự hiểu lầm hoàn toàn của mình về câu chuyện khi để Đại Bàng làm taxi.
+- Trang 15. Chiếc Nhẫn Đi Về Phía Nam. Z một lần nữa thể hiện sự hiểu lầm hoàn toàn của mình về câu chuyện khi để Đại Bàng làm taxi.
 
 - Trang 19. [Orc](../O/Orcs.md). Orc có mỏ và lông vũ, theo Z. Not cũng như Tolkien, người đã mô tả chúng có hình dạng giống con người.
 

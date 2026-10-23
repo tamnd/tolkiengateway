@@ -49,7 +49,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../H/Haldir.md" title="Haldir">Haldir</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Lothlórien** là chương thứ sáu của cuốn thứ hai trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Các nhân vật chính là Công ty còn lại bao gồm [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) sau sự sụp đổ của [Gandalf](../G/Gandalf.md): [Frodo Baggins](../F/Frodo_Baggins.md), [Samwise Gamgee](../S/Samwise_Gamgee.md), [Aragorn](../A/Aragorn.md), [Legolas](Legolas.md), [Gimli](../G/Gimli.md), [Peregrin Took](../P/Peregrin_Took.md), [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md)và [Boromir](../B/Boromir.md). Chương này giới thiệu về vương quốc [Tiên](../E/Elven.md) của [Lothlórien](Lothlórien.md) và con người của nó, [Galadhrim](../G/Galadhrim.md).
+**Lothlórien** là chương thứ sáu của cuốn thứ hai trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Các nhân vật chính là Công ty còn lại bao gồm [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) sau sự sụp đổ của [Gandalf](../G/Gandalf.md): [Frodo Baggins](../F/Frodo_Baggins.md), [Samwise Gamgee](../S/Samwise_Gamgee.md), [Aragorn](../A/Aragorn.md), [Legolas](Legolas.md), [Gimli](../G/Gimli.md), [Peregrin Took](../P/Peregrin_Took.md), [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) và [Boromir](../B/Boromir.md). Chương này giới thiệu về vương quốc [Tiên](../E/Elven.md) của [Lothlórien](Lothlórien.md) và con người của nó, [Galadhrim](../G/Galadhrim.md).
 
 Trọng tâm của chương này là đoạn Công ty đi vào Lothlórien - Rừng Vàng - cho thấy sự tương phản giữa mối nguy hiểm của Moria và sự thanh bình, cổ xưa và sức mạnh được bảo vệ của Tiên tộc. Chương này bắt đầu khám phá những động lực thay đổi trong Hiệp hội, khi nỗi đau buồn về sự sụp đổ của Gandalf ngày càng sâu sắc và các thành viên phản ứng khác nhau trước điều kỳ diệu của Lórien.
 
@@ -65,7 +65,7 @@ Khi Công ty đến gần Golden Wood, Frodo nói với Gimli rằng anh ấy c�
 
 Ở bìa rừng, Công ty nghỉ ngơi và ở đó có [Haldir](../H/Haldir.md) cùng các anh em [Orophin](../O/Orophin.md) và [Rúmil](<../R/Rúmil_(elf_of_Lórien).md>), họ đã mời Legolas và Frodo trèo lên cây và tham gia cùng họ trên một [hải hạm](../T/Telain.md) để thảo luận về những gì sẽ xảy ra tiếp theo. Tiên tộc quyết định rằng Gimli có thể đi qua rừng nếu bị bịt mắt, vì Tiên tộc của Lothlórien không tin tưởng [Người Lùn](../D/Dwarves.md) hoặc cho phép họ vào vùng đất của họ.
 
-Những người còn lại của Đại đội trèo lên cây và qua đêm ở đó với ba Silvan ELves. Vào đêm khuya, một đại đội [Orc](../O/Orcs.md) đi ngang qua, cũng như [Gollum](../G/Gollum.md)đang tìm kiếm [Chiếc nhẫn](../O/One_Ring.md).
+Những người còn lại của Đại đội trèo lên cây và qua đêm ở đó với ba Silvan ELves. Vào đêm khuya, một đại đội [Orc](../O/Orcs.md) đi ngang qua, cũng như [Gollum](../G/Gollum.md) đang tìm kiếm [Chiếc nhẫn](../O/One_Ring.md).
 
 Ngày hôm sau, Aragorn quyết định rằng nếu Gimli phải bịt mắt thì tất cả sẽ tiến hành bịt mắt, phản đối sự phản đối của [Legolas](Legolas.md). Cuối ngày, có tin nhắn từ [Chúa và Phu nhân Galadhrim](Lord_and_Lady_of_Galadhrim.md), chào mừng tất cả họ, và khăn bịt mắt được tháo ra.
 
@@ -73,7 +73,7 @@ Khi họ đi sâu hơn vào Lórien, Công ty đã ngạc nhiên trước vẻ �
 
 ## Thành phần {#Composition}
 
-Các chương diễn ra trong Lórien lần đầu tiên có lẽ được viết vào cuối [1941](../_/1941.md). Trong giai đoạn này, và trong khi viết (các) chương này, Tolkien đã quyết định đổi tên của Aragorn/[Trotter](../T/Trotter.md), thay thế bằng *[Elfstone](../E/Elfstone.md)*và tạm thời *[Ingold](../I/Ingold.md)* trước khi chọn lại *Elfstone*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+Các chương diễn ra trong Lórien lần đầu tiên có lẽ được viết vào cuối [1941](../_/1941.md). Trong giai đoạn này, và trong khi viết (các) chương này, Tolkien đã quyết định đổi tên của Aragorn/[Trotter](../T/Trotter.md), thay thế bằng *[Elfstone](../E/Elfstone.md)* và tạm thời *[Ingold](../I/Ingold.md)* trước khi chọn lại *Elfstone*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

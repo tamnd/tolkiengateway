@@ -37,7 +37,7 @@ infobox:
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-CliffsNotes về Chúa tể những chiếc nhẫn theo sau cuộc phiêu lưu của [Frodo](../F/Frodo_Baggins.md)trong [Trung Địa](../M/Middle-earth.md) đến [The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md), [The Two Towers](../T/The_Two_Towers.md)và [The Return of the King](../T/The_Return_of_the_King.md)của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Khi [hobbit](../H/Hobbits.md) Frodo nhận được [Người Nhẫn](../T/The_One_Ring.md) do ác quỷ [Sauron](../S/Sauron.md)giả mạo, anh ta tham gia cùng [Sam](../S/Samwise_Gamgee.md), [Pippin](../P/Peregrin_Took.md), [Merry](../M/Meriadoc_Brandybuck.md), [Gandalf](../G/Gandalf.md), [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md), [Boromir](../B/Boromir.md)và [Gimli](../G/Gimli.md) trong một nhiệm vụ nguy hiểm là ném chiếc nhẫn vào lửa của [Núi Doom](../M/Mount_Doom.md). Chúa tể của những chiếc nhẫn đóng vai trò then chốt trong sự phát triển của thể loại giả tưởng như ngày nay.
+CliffsNotes về Chúa tể những chiếc nhẫn theo sau cuộc phiêu lưu của [Frodo](../F/Frodo_Baggins.md) trong [Trung Địa](../M/Middle-earth.md) đến [The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md), [The Two Towers](../T/The_Two_Towers.md) và [The Return of the King](../T/The_Return_of_the_King.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Khi [hobbit](../H/Hobbits.md) Frodo nhận được [Chiếc Nhẫn Chúa](../T/The_One_Ring.md) do ác quỷ [Sauron](../S/Sauron.md) rèn, anh ta tham gia cùng [Sam](../S/Samwise_Gamgee.md), [Pippin](../P/Peregrin_Took.md), [Merry](../M/Meriadoc_Brandybuck.md), [Gandalf](../G/Gandalf.md), [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md), [Boromir](../B/Boromir.md) và [Gimli](../G/Gimli.md) trong một nhiệm vụ nguy hiểm là ném chiếc nhẫn vào ngọn lửa của [Núi Doom](../M/Mount_Doom.md). Chúa tể của những chiếc nhẫn đóng vai trò then chốt trong sự phát triển của thể loại giả tưởng như ngày nay.
 
 ## Nội dung {#Contents}
 
@@ -69,7 +69,7 @@ CliffsNotes về Chúa tể những chiếc nhẫn theo sau cuộc phiêu lưu c
     - Quyển 6, Chương 1–5: Cirith Ungol về sự trở lại của Vua
     - Quyển 6, Chương 6–10: Hành trình về nhà và truy quét Shire
     - Phụ lục
-- Phân tích nhân vật
+- Phân tích ký tự
     - Frodo Baggins
     - Sam Trò chơi
     - Gandalf the Grey
@@ -77,7 +77,7 @@ CliffsNotes về Chúa tể những chiếc nhẫn theo sau cuộc phiêu lưu c
     - Gollum
 - Bài luận phê bình
     - "Điều này còn tệ hơn Mordor!": Kết luận về việc quét sạch Shire
-    - Sự cám dỗ của Nhẫn
+    - Sự cám dỗ của chiếc nhẫn
 - Trợ giúp học tập
     - Đố vui
     - Câu hỏi tiểu luận

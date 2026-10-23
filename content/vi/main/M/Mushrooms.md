@@ -42,7 +42,7 @@ Nấm là niềm vui đặc biệt của giới trẻ [Frodo Baggins](../F/Frodo
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một ghi chú thảo luận về [Drúedain](../D/Drúedain.md), Tolkien đã đề cập đến các loại nấm trong [Kỷ Đệ Nhất](../F/First_Age.md): chúng thường bị [Tiên tộc](../E/Elves.md) và hầu hết [Edain](../E/Edain.md)coi là xấu xí và nguy hiểm, và những người ít khôn ngoan hơn gọi chúng là "cây ork", tin rằng chúng bị [Morgoth](Morgoth.md)nguyền rủa và tàn lụi. Những con Eldar không ăn chúng và chỉ một số ít Edain biết cách phân biệt những con ăn được và có thể ăn chúng vì cơn đói khủng khiếp khi bị lạc trong tự nhiên. Người Drúedain có truyền thuyết về thực vật và ăn nấm một cách thích thú (trước sự ngạc nhiên của những dân tộc khác), và họ đã nuôi trồng những loại nấm mà họ yêu thích. Họ truyền đạt kiến ​​thức này cho [Haladin](../H/Haladin.md), những người sẽ ăn chúng khi có khách không lịch sự và giải quyết cho họ khi cần. Tolkien sau đó đã loại bỏ ghi chú vì tin rằng đặc điểm này khiến Drúedain "quá giống Hobbit".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong một ghi chú thảo luận về [Drúedain](../D/Drúedain.md), Tolkien đã đề cập đến các loại nấm trong [Kỷ Đệ Nhất](../F/First_Age.md): chúng thường bị [Tiên tộc](../E/Elves.md) và hầu hết [Edain](../E/Edain.md) coi là xấu xí và nguy hiểm, và những người ít khôn ngoan hơn gọi chúng là "cây ork", tin rằng chúng bị [Morgoth](Morgoth.md) nguyền rủa và tàn lụi. Những con Eldar không ăn chúng và chỉ một số ít Edain biết cách phân biệt những con ăn được và có thể ăn chúng vì cơn đói khủng khiếp khi bị lạc trong tự nhiên. Người Drúedain có truyền thuyết về thực vật và ăn nấm một cách thích thú (trước sự ngạc nhiên của những dân tộc khác), và họ đã nuôi trồng những loại nấm mà họ yêu thích. Họ truyền đạt kiến ​​thức này cho [Haladin](../H/Haladin.md), những người sẽ ăn chúng khi có khách không lịch sự và giải quyết cho họ khi cần. Tolkien sau đó đã loại bỏ ghi chú vì tin rằng đặc điểm này khiến Drúedain "quá giống Hobbit".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -85,7 +85,7 @@ Trong một ghi chú thảo luận về [Drúedain](../D/Drúedain.md), Tolkien 
 
 <dl><dd><b>Carnestad</b> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> “red healing”) was described in the book as a squat mushroom with a bright red cap, native to <a href="Mirkwood.md" title="Mirkwood">Mirkwood</a>. It neutralized disease, broke fevers, and alleviated symptoms of sickness. Elves guarded its patches carefully, while Men sought to sell them and Orcs tried to deny others their benefits.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Mushrooms can be grown by players who are farmers by profession. Players who are cooks can make these into mushroom pie, fried mushroom and fried dace with mushrooms. These are foods for low leveled characters that can increase different traits.</dd></dl>
 
@@ -93,7 +93,7 @@ Trong một ghi chú thảo luận về [Drúedain](../D/Drúedain.md), Tolkien 
 
 <dl><dd>During the <a href="../W/White_Council.md" title="White Council">White Council</a> <a href="../S/Saruman.md" title="Saruman">Saruman</a>, in order to dismiss <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>&#39;s fears about the <a class="mw-redirect" href="../N/Necromancer.md" title="Necromancer">Necromancer</a>, mentions that <a href="../R/Radagast.md" title="Radagast">Radagast</a> consumes mushrooms excessively, which have blurred his cognition and judgement.</dd></dl>
 
-<b>2014: <i><a href="Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Middle-earth: Shadow of Mordor</a></i></b>
+<b>2014: <i><a href="Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung Địa: Bóng Tối trong số Mordor</a></i></b>
 
 <dl><dd>Several mushrooms can be foraged in the game:<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 

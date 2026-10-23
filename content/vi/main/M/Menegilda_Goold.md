@@ -50,7 +50,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Menegilda kết hôn với [Rorimac Brandybuck](../R/Rorimac_Brandybuck.md)và sinh ra hai người con, [Saradoc](../S/Saradoc_Brandybuck.md) và [Merimac](Merimac_Brandybuck.md).
+Menegilda kết hôn với [Rorimac Brandybuck](../R/Rorimac_Brandybuck.md) và sinh ra hai người con, [Saradoc](../S/Saradoc_Brandybuck.md) và [Merimac](Merimac_Brandybuck.md).
 
 Không giống như chồng và các con trai, bà không có mặt tại [Bilbo Baggins](../B/Bilbo_Baggins.md)' [Tiệc sinh nhật](../B/Bilbo's_Farewell_Party.md) ở [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

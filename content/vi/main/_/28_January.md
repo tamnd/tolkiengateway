@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 28 tháng 1.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1949](1949.md)** - Bức thư "[Cardinal Mindszenty](../C/Cardinal_Mindszenty.md)", do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)đồng ký, được đăng trên *The Times*.
+- **[1949](1949.md)** - Bức thư "[Cardinal Mindszenty](../C/Cardinal_Mindszenty.md)", do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đồng ký, được đăng trên *The Times*.
 - **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Doris Elizabeth Sykes](<../L/Letter_to_Doris_Elizabeth_Sykes_(28_January_1956).md>).
 - **[1981](1981.md)** - Diễn viên [Elijah Wood](../E/Elijah_Wood.md) ra đời.
 - **[1982](1982.md)** - *[The Old English Exodus](../T/The_Old_English_Exodus.md)* được xuất bản.

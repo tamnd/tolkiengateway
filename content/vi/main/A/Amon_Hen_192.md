@@ -62,7 +62,7 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
 Thông báo - Thận trọng trước đây Rồng (sự kiện[C.S. Lewis](../C/C.S._Lewis.md))
 - Cáo phó: [Humphrey Carpenter](../H/Humphrey_Carpenter.md)
     - Bởi: [C. Noad](../C/Charles_Noad.md) và J. Yates
-- Cái [Hall of Fire](../H/Hall_of_Fire.md)
+- [Sảnh lửa](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Đủ rồi
     - Bởi: *[Beruthiel](../B/Berúthiel.md)'s Pet*

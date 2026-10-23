@@ -29,7 +29,7 @@ infobox:
 
 ## Nền {#Background}
 
-Tolkien đã đến [BBC](../B/BBC.md) hai ngày trước đó và đọc bản dịch *[Sir Gawain and the Green Knight](<../S/Sir_Gawain_and_the_Green_Knight_(edition).md>)* của anh ấy và buổi thử giọng này đã được ghi lại. Để chuẩn bị cho buổi thử giọng, Tolkien đã được [Christopher](../C/Christopher_Tolkien.md)giúp đỡ thực hiện ba thí nghiệm giọng nói trên máy ghi âm.
+Tolkien đã đến [BBC](../B/BBC.md) hai ngày trước đó và đọc bản dịch *[Sir Gawain and the Green Knight](<../S/Sir_Gawain_and_the_Green_Knight_(edition).md>)* của anh ấy và buổi thử giọng này đã được ghi lại. Để chuẩn bị cho buổi thử giọng, Tolkien đã được [Christopher](../C/Christopher_Tolkien.md) giúp đỡ thực hiện ba thí nghiệm giọng nói trên máy ghi âm.
 
 ## Tóm tắt {#Summary}
 

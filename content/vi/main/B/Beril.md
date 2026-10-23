@@ -44,7 +44,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Beril là con thứ ba và con gái thứ hai của [Boromir](<Boromir_(Lord_of_Ladros).md>), con [Lãnh chúa Ladros](../L/Lord_of_Ladros.md)đầu tiên.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Beril là con thứ ba và con gái thứ hai của [Boromir](<Boromir_(Lord_of_Ladros).md>), con [Lãnh chúa Ladros](../L/Lord_of_Ladros.md) đầu tiên.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

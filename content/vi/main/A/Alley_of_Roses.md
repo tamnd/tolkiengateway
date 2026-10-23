@@ -16,7 +16,7 @@ categories:
 
 **Hẻm Hoa Hồng** là một con phố ở [Gondolin](../G/Gondolin.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
-Đó là lối vào phía bắc của [Quảng trường Cung điện](../S/Square_of_the_Palace.md) và là một nơi công bằng để tham quan và đi bộ vào. Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md) nó đã bị đốt cháy và phá hủy bởi một [Thỏ lửa](../F/Fire-drake.md) trong cuộc rào chắn ở Quảng trường do [Egalmoth](../E/Egalmoth.md) và [Tuor](../T/Tuor.md)trấn giữ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Đó là lối vào phía bắc của [Quảng trường Cung điện](../S/Square_of_the_Palace.md) và là một nơi công bằng để tham quan và đi bộ vào. Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md) nó đã bị đốt cháy và phá hủy bởi một [Thỏ lửa](../F/Fire-drake.md) trong cuộc rào chắn ở Quảng trường do [Egalmoth](../E/Egalmoth.md) và [Tuor](../T/Tuor.md) trấn giữ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

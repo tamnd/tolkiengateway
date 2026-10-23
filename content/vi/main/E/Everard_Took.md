@@ -59,7 +59,7 @@ Everard là con trai út của [Adelard Took](../A/Adelard_Took.md).<sup id="cit
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Tên của Everard ban đầu là 'Prospero' cho đến phiên bản dự thảo thứ sáu của [Tolkien](../J/J.R.R._Tolkien.md)của [Một bữa tiệc được mong đợi từ lâu](../A/A_Long-expected_Party.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Tên của Everard ban đầu là 'Prospero' cho đến phiên bản dự thảo thứ sáu của [Tolkien](../J/J.R.R._Tolkien.md) của [Một bữa tiệc được mong đợi từ lâu](../A/A_Long-expected_Party.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

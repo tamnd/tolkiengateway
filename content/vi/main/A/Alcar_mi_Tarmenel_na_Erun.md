@@ -13,7 +13,7 @@ categories:
   - "Quenya texts"
 ---
 
-**Alcar mi Tarmenel na Erun** là bản dịch của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) <i><a class="extiw" href="http://en.wikipedia.org/wiki/Gloria_in_excelsis_Deo" title="wikipedia:Gloria in excelsis Deo">Gloria in excelsis Deo</a></i> sang [Quenya](../Q/Quenya.md). Bản thảo có một số sửa đổi và các đoạn liên quan đã được xuất bản trong [*Vinyar Tengwar*, Số 44](../V/Vinyar_Tengwar_44.md), tháng 6 năm 2002, do [Arden R. Smith](Arden_R._Smith.md)biên tập.
+**Alcar mi Tarmenel na Erun** là bản dịch của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) <i><a class="extiw" href="http://en.wikipedia.org/wiki/Gloria_in_excelsis_Deo" title="wikipedia:Gloria in excelsis Deo">Gloria in excelsis Deo</a></i> sang [Quenya](../Q/Quenya.md). Bản thảo có một số sửa đổi và các đoạn liên quan đã được xuất bản trong [*Vinyar Tengwar*, Số 44](../V/Vinyar_Tengwar_44.md), tháng 6 năm 2002, do [Arden R. Smith](Arden_R._Smith.md) biên tập.
 
 ## Cầu nguyện {#Prayer}
 
@@ -24,7 +24,7 @@ Phiên bản biên tập cuối cùng của lời cầu nguyện:
 
 ## Xem thêm {#See_also}
 
-- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 ## Liên kết ngoài {#External_links}
 

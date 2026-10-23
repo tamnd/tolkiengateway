@@ -36,7 +36,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Bilbo](../B/Bilbo.md) quay lại [Bag End](../B/Bag_End.md) và bắt đầu đóng gói đồ đạc, nhưng anh ta sớm bị [Gandalf](../G/Gandalf.md)làm gián đoạn. Gandalf câu hỏi Bilbo liên quan đến <a class="mw-redirect mw-disambig" href="../R/Ring.md" title="Ring">Chiếc nhẫn</a>, lo ngại về việc Bilbo gắn bó với nó không tốt cho sức khỏe. Bilbo chuyển sang phòng thủ, sau đó trở nên tức giận và buộc tội Gandalf cố gắng đánh cắp nó. Gandalf sử dụng sức mạnh của chính mình để khiến Bilbo kinh ngạc trong thời gian ngắn và đưa anh ta về thực tế. Bilbo miễn cưỡng đồng ý từ bỏ Chiếc nhẫn nhưng cần được Gandalf nhắc nhở thêm. Cuối cùng anh ta đánh rơi chiếc nhẫn xuống sàn khi rời khỏi nhà. Bilbo đột nhiên cảm thấy nhẹ nhõm và lên đường vào màn đêm sau khi chia tay Gandalf.
+[Bilbo](../B/Bilbo.md) quay lại [Bag End](../B/Bag_End.md) và bắt đầu đóng gói đồ đạc, nhưng anh ta sớm bị [Gandalf](../G/Gandalf.md) làm gián đoạn. Gandalf câu hỏi Bilbo liên quan đến <a class="mw-redirect mw-disambig" href="../R/Ring.md" title="Ring">Chiếc nhẫn</a>, lo ngại về việc Bilbo gắn bó với nó không tốt cho sức khỏe. Bilbo chuyển sang phòng thủ, sau đó trở nên tức giận và buộc tội Gandalf cố gắng đánh cắp nó. Gandalf sử dụng sức mạnh của chính mình để khiến Bilbo kinh ngạc trong thời gian ngắn và đưa anh ta về thực tế. Bilbo miễn cưỡng đồng ý từ bỏ Chiếc nhẫn nhưng cần được Gandalf nhắc nhở thêm. Cuối cùng anh ta đánh rơi chiếc nhẫn xuống sàn khi rời khỏi nhà. Bilbo đột nhiên cảm thấy nhẹ nhõm và lên đường vào màn đêm sau khi chia tay Gandalf.
 
 ## Sự khác biệt {#Differences}
 

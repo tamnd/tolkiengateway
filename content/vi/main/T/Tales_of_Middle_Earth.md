@@ -46,7 +46,7 @@ infobox:
 
 ## Lịch sử phát triển {#Development_History}
 
-Trò chơi ban đầu có tên là **PernAngband** và về cơ bản là một trò chơi chéo đặt các nhân vật từ thế giới hư cấu Pern của Anne McCaffrey vào thế giới hư cấu [Arda](../A/Arda.md)của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+Trò chơi ban đầu có tên là **PernAngband** và về cơ bản là một trò chơi chéo đặt các nhân vật từ thế giới hư cấu Pern của Anne McCaffrey vào thế giới hư cấu [Arda](../A/Arda.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 Đến thời điểm phiên bản 5.x.x, PernAngband đã thu hút được một cộng đồng trực tuyến đáng kể. Tuy nhiên, nó đang bị đe dọa pháp lý từ Anne McCaffrey và từ <a class="external text" href="https://en.wikipedia.org/wiki/Ubisoft" rel="noreferrer noopener" target="_blank">Ubisoft</a>, một công ty đã tạo ra một số trò chơi được cấp phép liên quan đến Pern. Casalini đã loại bỏ các yếu tố Pern và đổi tên trò chơi thành ToME.
 

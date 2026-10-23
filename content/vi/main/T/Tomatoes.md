@@ -22,11 +22,11 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tales_of_the_Shire_-_Tomato.png.md"><img src="https://tolkiengateway.net/w/images/6/6f/Tales_of_the_Shire_-_Tomato.png" decoding="async" loading="lazy" width="96" height="105" class="mw-file-element" data-file-width="96" data-file-height="105"/></a><figcaption>A Tomato - <i><a href="Tales_of_the_Shire%253A_A_%2522The_Lord_of_the_Rings%2522_Game.md" title="Tales of the Shire: A &#34;The Lord of the Rings&#34; Game">Tales of the Shire: A &#34;The Lord of the Rings&#34; Game</a></i></figcaption></figure>
 
-**Cà chua** được cho là một loại cây được [Hobbit](../H/Hobbits.md)biết đến.
+**Cà chua** được cho là một loại cây được [Hobbit](../H/Hobbits.md) biết đến.
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Cà chua đã được nhắc đến trong ấn bản đầu tiên của *[The Hobbit](The_Hobbit.md)*,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> nhưng [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã đổi tên này thành "dưa chua" trong ấn bản thứ ba (1966).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Lời giải thích thông thường nhất cho sự thay đổi này là đời sống thực vật ở Mỹ sẽ không phù hợp với bối cảnh [Trung Địa](../M/Middle-earth.md)cổ xưa của ông. Tuy nhiên, như [John D. Rateliff](../J/John_D._Rateliff.md)đã chỉ ra, có thể đơn giản là Tolkien cảm thấy rằng còn quá sớm trong năm đối với cà chua và thay vào đó là thực phẩm bảo quản.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Cà chua đã được nhắc đến trong ấn bản đầu tiên của *[The Hobbit](The_Hobbit.md)*,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> nhưng [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã đổi tên này thành "dưa chua" trong ấn bản thứ ba (1966).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Lời giải thích thông thường nhất cho sự thay đổi này là đời sống thực vật ở Mỹ sẽ không phù hợp với bối cảnh [Trung Địa](../M/Middle-earth.md) cổ xưa của ông. Tuy nhiên, như [John D. Rateliff](../J/John_D._Rateliff.md) đã chỉ ra, có thể đơn giản là Tolkien cảm thấy rằng còn quá sớm trong năm đối với cà chua và thay vào đó là thực phẩm bảo quản.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

@@ -44,7 +44,7 @@ infobox:
 
 <i><b>The Hobbit Tarot</b></i> là cuốn sách mô tả <a class="extiw" href="http://en.wikipedia.org/wiki/Tarot" title="wikipedia:Tarot">bộ bài Tarot</a> với hình ảnh minh họa về các nhân vật và cảnh trong *[The Hobbit](The_Hobbit.md)*. Sách đi kèm bộ bài Tarot có tên <i><b>The Hobbit Tarot</b></i>.
 
-Đây là lần hợp tác thứ hai liên quan đến Tolkien tarot giữa Terry Donaldson và Peter Pracownik, người cũng là tác giả [The Lord of the Rings Tarot](The_Lord_of_the_Rings_Tarot.md), phát hành năm 1997. Không giống như lần phát hành đó, *The Hobbit Tarot* không có hướng dẫn chơi trò chơi bằng các lá bài.
+Đây là lần hợp tác Tolkien thứ hai liên quan đến tarot giữa Terry Donaldson và Peter Pracownik, người cũng là tác giả của [The Lord of the Rings Tarot](The_Lord_of_the_Rings_Tarot.md), phát hành năm 1997. Không giống như lần phát hành đó, *The Hobbit Tarot* không có hướng dẫn chơi trò chơi bằng các lá bài.
 
 ## Tóm tắt từ nhà xuất bản {#Synopsis_from_the_publisher}
 
@@ -87,13 +87,13 @@ infobox:
 - *Ace of Coins*: [Cái Arkenstone](../A/Arkenstone.md)
 - *Two of Coins*: Hai thành viên của [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) đến [Bag End](../B/Bag_End.md)
 - *Three of Coins*: [William, Tom và Bert](../W/William,_Tom,_and_Bert.md) trói [ Người Lùn](Thorin_and_Company.md)
-- *Four of Coins*: [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) tìm kiếm trong đám [Smaug](../S/Smaug.md)ở [Erebor](../L/Lonely_Mountain.md)
+- *Four of Coins*: [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) tìm kiếm trong đám [Smaug](../S/Smaug.md) ở [Erebor](../L/Lonely_Mountain.md)
 - *Five of Coins*: [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) trong [Mirkwood](../M/Mirkwood.md)
-- *Six of Coins*: [Bilbo](../B/Bilbo_Baggins.md) và [nhóm Người Lùn](Thorin_and_Company.md) đang tìm kiếm thông qua đám [Smaug](../S/Smaug.md)ở [Erebor](../L/Lonely_Mountain.md)
+- *Six of Coins*: [Bilbo](../B/Bilbo_Baggins.md) và [nhóm Người Lùn](Thorin_and_Company.md) đang tìm kiếm thông qua đám [Smaug](../S/Smaug.md) ở [Erebor](../L/Lonely_Mountain.md)
 - *Seven of Coins*: [Bilbo](../B/Bilbo_Baggins.md) cố gắng lấy lại chiếc thùng đầu tiên mà anh ta và [người Người Lùn](Thorin_and_Company.md) đã trốn thoát được [Sảnh của Vua Tiên](../E/Elvenking's_Halls.md)
 - *Eight of Coins*: [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) băng qua [Sông Đen](../E/Enchanted_River.md)
 - *Nine of Coins*: [Bilbo](../B/Bilbo_Baggins.md) quyết định giao [ Arkenstone](../A/Arkenstone.md) cho [Bard](../B/Bard.md) và [ Vua Tiên](Thranduil.md)
-- *Ten of Coins*: đám [Smaug](../S/Smaug.md)ở [the Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md)
+- *Ten of Coins*: đám [Smaug](../S/Smaug.md) ở [the Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md)
 - *Page of Coins*: [Beorn](../B/Beorn.md) ở dạng [gấu](../B/Bears.md)
 - *Knight of Coins*: [Bard](../B/Bard.md) chuẩn bị bắn [mũi tên đen](../B/Black_arrow.md) vào [Rồng](../D/Dragons.md) [Smaug](../S/Smaug.md)
 - *Queen of Coins*: Một [Quý cô](../L/Lake-men.md) của [Thị trấn Hồ](../L/Lake-town.md)
@@ -102,7 +102,7 @@ infobox:
 #### Cốc {#Cups}
 
 - *Ace of Cups*: [Bảy ngôi sao](../S/Seven_Stars.md) tỏa sáng phía trên chiếc cốc nạm đá quý có dòng chữ "[Thorin Oaken](Thorin.md)" bằng [chữ rune](../R/Runes.md)
-- *Two of Cups*: [Gandalf](../G/Gandalf.md) gặp [Bilbo Baggins](../B/Bilbo_Baggins.md)đang hút thuốc bên ngoài [Bag End](../B/Bag_End.md)
+- *Two of Cups*: [Gandalf](../G/Gandalf.md) gặp [Bilbo Baggins](../B/Bilbo_Baggins.md) đang hút thuốc bên ngoài [Bag End](../B/Bag_End.md)
 - *Three of Cups*: [Bilbo](../B/Bilbo_Baggins.md) hút thuốc trong khi [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) nghỉ ngơi trong rừng
 - *Four of Cups*: [Gandalf](../G/Gandalf.md) lặng lẽ phản chiếu trong khi đổ đầy ống của mình bên cạnh nước
 - *Five of Cups*: [Bilbo](../B/Bilbo_Baggins.md), đeo [chiếc nhẫn của mình](The_One_Ring.md), khám phá ra ngục tối nơi [các Người Lùn](Thorin_and_Company.md) được giam giữ trong [Sảnh của Vua Tiên](../E/Elvenking's_Halls.md)
@@ -113,7 +113,7 @@ infobox:
 - *Ten of Cups*: Một tấm bảo vệ [Tiên](../E/Elves_of_Mirkwood.md) ở rìa của [Mirkwood](../M/Mirkwood.md)
 - *Page of Cups*: [Elrond](../E/Elrond.md)
 - *Knight of Cups*: [Balin](../B/Balin.md)
-- *Queen of Cups*: [Tom Bombadil](Tom_Bombadil.md)xem [Goldberry](../G/Goldberry.md)tắm
+- *Queen of Cups*: [Tom Bombadil](Tom_Bombadil.md) xem [Goldberry](../G/Goldberry.md) tắm
 - *King of Cups*: [Bilbo](../B/Bilbo_Baggins.md) trong [Hobbiton](../H/Hobbiton.md)
 
 #### Kiếm {#Swords}
@@ -126,11 +126,11 @@ infobox:
 - *Six of Swords*: [Bilbo](../B/Bilbo_Baggins.md) thoát khỏi [Warg](../W/Wargs.md) lên cây
 - *Seven of Swords*: [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) đếm đầu người sau khi thoát khỏi [Great Goblin](../G/Great_Goblin.md)
 - *Eight of Swords*: [ Tiên tộc của Mirkwood](../E/Elves_of_Mirkwood.md) chụp [Thorin](Thorin.md)
-- *Nine of Swords*: [Người Hồ](../L/Lake-men.md), [Tiên tộc của Mirkwood](../E/Elves_of_Mirkwood.md) và [Người Lùn](Thorin_and_Company.md) nghe tin quân đội [Goblin](../O/Orcs.md) của [Bolg](../B/Bolg.md)đang đến
+- *Nine of Swords*: [Người Hồ](../L/Lake-men.md), [Tiên tộc của Mirkwood](../E/Elves_of_Mirkwood.md) và [Người Lùn](Thorin_and_Company.md) nghe tin quân đội [Goblin](../O/Orcs.md) của [Bolg](../B/Bolg.md) đang đến
 - *Ten of Swords*: Phần thân của [Thorin](Thorin.md)
 - *Page of Swords*: [Bilbo](../B/Bilbo_Baggins.md) tiêu diệt kẻ thù đầu tiên của mình bằng [thanh kiếm](../S/Sting.md): một [con nhện](../S/Spiders.md) của [Mirkwood](../M/Mirkwood.md). Anh ta đặt tên cho thanh kiếm là "[Sting](../S/Sting.md)"
 - *Knight of Swords*: Một [Người hồ](../L/Lake-men.md) bọc thép chuẩn bị cho trận chiến
-- *Queen of Swords*: Một nữ lãnh đạo [Warg](../W/Wargs.md) thương tiếc sự ra đi của người thân trong [Trận chiến năm cánh quân](../B/Battle_of_the_Five_Armies.md)
+- *Queen of Swords*: Một nữ thủ lĩnh [Warg](../W/Wargs.md) thương tiếc sự ra đi của người thân trong [Trận chiến của năm cánh quân](../B/Battle_of_the_Five_Armies.md)
 - *King of Swords*: [Thorin Oakenshield](Thorin.md)
 
 #### Cây đũa phép {#Wands}
@@ -140,7 +140,7 @@ infobox:
 - *Three of Wands*: [Bilbo](../B/Bilbo_Baggins.md) nhập [Cửa Sau](../B/Back_Door.md)
 - *Four of Wands*: [Công ty](Thorin_and_Company.md) tại [Long Lake](../L/Long_Lake.md)
 - *Five of Wands*: [Goblin](../O/Orcs.md) phục kích [Đại đội](Thorin_and_Company.md) trong hang động
-- *Six of Wands*: [Gandalf](../G/Gandalf.md) và [các Người Lùn](Thorin_and_Company.md) chiến đấu với lực lượng của [Thị trấn Yêu Tinh](../G/Goblin-town.md)
+- *Six of Wands*: [Gandalf](../G/Gandalf.md) và [nhóm Người Lùn](Thorin_and_Company.md) chiến đấu với lực lượng của [Thị trấn yêu tinh](../G/Goblin-town.md)
 - *Seven of Wands*: Một [Warg](../W/Wargs.md) hú lên sau khi bị đốt cháy bởi những quả thông do [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) ném xuống
 - *Eight of Wands*: Các [Đại Bàng](../E/Eagles.md) đến giải cứu [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) khỏi [Warg](../W/Wargs.md) và [Goblin](../O/Orcs.md)
 - *Nine of Wands*: Một [Người khổng lồ bằng đá](../G/Giants.md), chuẩn bị ném một tảng đá

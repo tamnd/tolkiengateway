@@ -33,7 +33,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Cô quan sát thấy [Bard](../B/Bard.md) buôn lậu [Bilbo Baggins](../B/Bilbo_Baggins.md) và [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) vào nhà anh ta, đồng thời kể cho những người khác về những gì cô nhìn thấy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sau khi Thị trấn Hồ bị [Smaug](../S/Smaug.md)phá hủy, cô là người lên tiếng nhiều nhất về việc Bard dẫn đầu và giúp đỡ những người sống sót tìm nơi ẩn náu. Cô cũng nhiều lần cố gắng vạch trần sự phản bội và hèn nhát của [Alfrid](../A/Alfrid.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Cô quan sát thấy [Bard](../B/Bard.md) buôn lậu [Bilbo Baggins](../B/Bilbo_Baggins.md) và [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) vào nhà anh ta, đồng thời kể cho những người khác về những gì cô nhìn thấy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sau khi Thị trấn Hồ bị [Smaug](../S/Smaug.md) phá hủy, cô là người lên tiếng nhiều nhất về việc Bard dẫn đầu và giúp đỡ những người sống sót tìm nơi ẩn náu. Cô cũng nhiều lần cố gắng vạch trần sự phản bội và hèn nhát của [Alfrid](../A/Alfrid.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

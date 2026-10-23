@@ -35,7 +35,7 @@ Tolkien đã nhận được [Huân chương của Đế quốc Anh](../O/Order_
 
 ## Tóm tắt {#Summary}
 
-Tolkien rất biết ơn sự giúp đỡ của Rayner, cho chính anh ấy, [John Tolkien](../J/John_Tolkien.md)và [Priscilla Tolkien](../P/Priscilla_Tolkien.md). Anh ấy rất thích bữa tiệc, chỗ ở khách sạn rất tuyệt vời, và khi trời mưa lúc 6 giờ sáng, anh ấy biết rằng sau đó trời sẽ tạnh ráo cho dịp này. Các nghi lễ bên trong Cung điện có phần tẻ nhạt và hài hước, nhưng Tolkien đã vô cùng xúc động trước cuộc gặp ngắn ngủi của ông với Nữ hoàng.
+Tolkien rất biết ơn sự giúp đỡ của Rayner, cho chính anh ấy, [John Tolkien](../J/John_Tolkien.md) và [Priscilla Tolkien](../P/Priscilla_Tolkien.md). Anh ấy rất thích bữa tiệc, chỗ ở khách sạn rất tuyệt vời, và khi trời mưa lúc 6 giờ sáng, anh ấy biết rằng sau đó trời sẽ tạnh ráo cho dịp này. Các nghi lễ bên trong Cung điện có phần tẻ nhạt và hài hước, nhưng Tolkien đã vô cùng xúc động trước cuộc gặp ngắn ngủi của ông với Nữ hoàng.
 
 Tolkien hỏi liệu Rayner có sử dụng tên thánh của Tolkien không vì giờ đây họ đã là những người bạn rất lâu năm và thân thiết (anh ấy đã đưa ra yêu cầu tương tự trong [Thư 281](Letter_281.md)).
 

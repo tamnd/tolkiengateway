@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Hiswel%C3%B3k%C3%AB%27s_Sindarin_dictionary"
 ---
 
-**Rồng Ngọn lửa** là một ứng dụng phần mềm miễn phí dựa trên [Từ điển Sindarin của Hiswelókë](../H/Hiswelókë.md), được phát triển bởi [Didier Willis](Didier_Willis.md) và Benjamin Babut. Nó được phát hành lần đầu tiên vào tháng 12 [2002](../_/2002.md). Phiên bản mới nhất, Rồng Flame 2.0 dành cho Windows, có từ tháng 12 [2003](../_/2003.md)và Rồng Flame 2.0.1 dành cho Linux từ tháng 7 [2004](../_/2004.md).
+**Rồng Ngọn lửa** là một ứng dụng phần mềm miễn phí dựa trên [Từ điển Sindarin của Hiswelókë](../H/Hiswelókë.md), được phát triển bởi [Didier Willis](Didier_Willis.md) và Benjamin Babut. Nó được phát hành lần đầu tiên vào tháng 12 [2002](../_/2002.md). Phiên bản mới nhất, Rồng Flame 2.0 dành cho Windows, có từ tháng 12 [2003](../_/2003.md) và Rồng Flame 2.0.1 dành cho Linux từ tháng 7 [2004](../_/2004.md).
 
 Thomas Deniau đã đóng góp một bản viết lại hoàn chỉnh cho hệ thống Mac OS trong [2004](../_/2004.md), dưới tên **Hesperides**.
 

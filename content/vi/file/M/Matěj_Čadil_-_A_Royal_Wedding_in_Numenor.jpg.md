@@ -36,7 +36,7 @@ file:
 
 Đám cưới của [Tar-Meneldur](../../main/T/Tar-Meneldur.md) và [Almarian](../../main/A/Almarian.md) ở [Armenelos](../../main/A/Armenelos.md). [Meneltarma](../../main/M/Meneltarma.md) có thể được nhìn thấy ở chế độ nền.
 
-Đường viền được trang trí thể hiện ảnh hưởng từ <a class="new" href="https://tolkiengateway.net/w/index.php?title=File:J.R.R._Tolkien_-_Tile_2.jpg&amp;action=edit&amp;redlink=1" title="File:J.R.R. Tolkien - Tile 2.jpg (page does not exist)">hàng dệt</a> của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)từ [Númenor](../../main/N/Númenor.md) (xuất bản lần đầu trong [The Silmarillion Calendar 1978](../../main/T/The_Silmarillion_Calendar_1978.md)), mô phỏng một số nghệ thuật "Númenorean".
+Đường viền trang trí thể hiện ảnh hưởng từ <a class="new" href="https://tolkiengateway.net/w/index.php?title=File:J.R.R._Tolkien_-_Tile_2.jpg&amp;action=edit&amp;redlink=1" title="File:J.R.R. Tolkien - Tile 2.jpg (page does not exist)">hàng dệt</a> của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) từ [Númenor](../../main/N/Númenor.md) (xuất bản lần đầu trong [The Silmarillion Calendar 1978](../../main/T/The_Silmarillion_Calendar_1978.md)), mô phỏng một số tác phẩm nghệ thuật "Númenorean".
 
 ## Giấy phép {#Licensing}
 

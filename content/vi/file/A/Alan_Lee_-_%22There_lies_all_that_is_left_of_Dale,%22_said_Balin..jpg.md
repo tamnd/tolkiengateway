@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-""Đó là tất cả những gì còn lại của [Dale](../../main/D/Dale.md)," [Balin](../../main/B/Balin.md)nói." bởi [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+""Đó là tất cả những gì còn lại của [Dale](../../main/D/Dale.md)," [Balin](../../main/B/Balin.md) nói." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

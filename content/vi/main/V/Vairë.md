@@ -87,7 +87,7 @@ Tên [Noldorin](../N/Noldorin.md) của cô ấy được cho là <i><b>Gwîr</b
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Một [Vairë](<Vairë_(wife_of_Lindo).md>) khác xuất hiện trong một số bài viết đầu tiên của [Tolkien](../J/J.R.R._Tolkien.md). Trong *[The Book of Lost Tales Part One](../T/The_Book_of_Lost_Tales_Part_One.md)*, cô ấy là [Tiên](../E/Elves.md) của [Tol Eressëa](../T/Tol_Eressëa.md)và là con gái của [Tulkastor](../T/Tulkastor.md). Cô và chồng [Lindo](../L/Lindo.md) kể những câu chuyện sau này trở thành [Silmarillion](../Q/Quenta_Silmarillion.md) đối với người thủy thủ con người [Ælfwine](../_/Ælfwine.md)/[Eriol](../E/Eriol.md). Vai trò người kể chuyện của cô có thể đã ảnh hưởng đến việc đặt tên cho Vala người chịu trách nhiệm ghi lại câu chuyện.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Một [Vairë](<Vairë_(wife_of_Lindo).md>) khác xuất hiện trong một số bài viết đầu tiên của [Tolkien](../J/J.R.R._Tolkien.md). Trong *[The Book of Lost Tales Part One](../T/The_Book_of_Lost_Tales_Part_One.md)*, cô ấy là [Tiên](../E/Elves.md) của [Tol Eressëa](../T/Tol_Eressëa.md) và là con gái của [Tulkastor](../T/Tulkastor.md). Cô và chồng [Lindo](../L/Lindo.md) kể những câu chuyện sau này trở thành [Silmarillion](../Q/Quenta_Silmarillion.md) đối với người thủy thủ [Ælfwine](../_/Ælfwine.md)/[Eriol](../E/Eriol.md). Vai trò người kể chuyện của cô có thể đã ảnh hưởng đến việc đặt tên cho Vala người chịu trách nhiệm ghi lại câu chuyện.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 <span></span>
 

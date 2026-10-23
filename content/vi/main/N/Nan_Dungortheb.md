@@ -54,7 +54,7 @@ infobox:
 
 Sau khi [Ungoliant](../U/Ungoliant.md) bỏ trốn [Lammoth](../L/Lammoth.md) và [Balrog](../B/Balrogs.md) của [Morgoth](../M/Morgoth.md) cô ấy tìm đường đến thung lũng bên dưới Ered Gorgoroth. Ở đó, cô đã gây ra nỗi kinh hoàng đến mức thung lũng được đặt tên là *Nan Dungortheb*. Sau khi cô rời đi, vùng đất bị [con cháu của cô](../S/Spiders.md) tàn phá.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Những dòng nước tràn vào thung lũng từ Ered Gorgoroth đã bị ô uế, khiến trái tim của những người uống chúng tràn ngập sự điên loạn và tuyệt vọng. Tất cả các sinh vật sống ngoài nhện đều tránh thung lũng, bao gồm cả [Noldor](Noldor.md) chúng sẽ chỉ băng qua nó bằng những con đường gần Doriath nhất.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Khi [Aredhel](../A/Aredhel.md), con gái của [Fingolfin](../F/Fingolfin.md), cố gắng cưỡi ngựa về phía đông băng qua Nan Dungortheb, nhóm của cô đã bị ngăn cách bởi bóng tối. Trong khi cô thành công trong việc tiếp cận [Himlad](../H/Himlad.md), những người bạn đồng hành của cô không thể tìm thấy cô và bị lũ nhện đuổi đi. Quay lại [Gondolin](../G/Gondolin.md)thì họ báo cô ấy bị mất tích ở [Turgon](../T/Turgon.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Khi [Aredhel](../A/Aredhel.md), con gái của [Fingolfin](../F/Fingolfin.md), cố gắng cưỡi ngựa về phía đông băng qua Nan Dungortheb, nhóm của cô đã bị ngăn cách bởi bóng tối. Trong khi cô thành công trong việc tiếp cận [Himlad](../H/Himlad.md), những người bạn đồng hành của cô không thể tìm thấy cô và bị lũ nhện đuổi đi. Quay lại [Gondolin](../G/Gondolin.md) thì họ báo cô ấy bị mất tích ở [Turgon](../T/Turgon.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 [Beren](../B/Beren.md), bị áp lực nặng nề bởi lực lượng [Morgoth](../M/Morgoth.md) đang tìm kiếm anh ở [Dorthonion](../D/Dorthonion.md), đã vượt qua Ered Gorgoroth và vượt qua Nan Dungortheb từ Bắc vào Nam. Anh ấy không bao giờ kể về cuộc hành trình của mình qua vùng đất này vì sợ nỗi kinh hoàng về nó sẽ quay trở lại trong tâm trí anh ấy.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
@@ -72,7 +72,7 @@ Tên *Nan Dungortheb* được dịch là "Thung lũng chết chóc",<sup id="ci
 
 ### The Lays of Beleriand {#The_Lays_of_Beleriand}
 
-Trong *[Lay of the Children of Húrin](../L/Lay_of_the_Children_of_Húrin.md)*, [Túrin](../T/Túrin.md) và [Flinding](../G/Gwindor.md) tình cờ gặp <i><b>Nan Dungorthin</b></i> trong ánh chạng vạng mờ ảo sau vụ [Beleg](../B/Beleg.md)vô tình bị sát hại. Nó được mô tả như sau:<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+Trong *[Lay of the Children of Húrin](../L/Lay_of_the_Children_of_Húrin.md)*, [Túrin](../T/Túrin.md) và [Flinding](../G/Gwindor.md) tình cờ gặp <i><b>Nan Dungorthin</b></i> trong ánh chạng vạng mờ ảo sau vụ [Beleg](../B/Beleg.md) vô tình bị sát hại. Nó được mô tả như sau:<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 <div class="poem">
 <p>Thus reached they the roots   and the ruinous feet<br/>

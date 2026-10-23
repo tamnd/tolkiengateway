@@ -42,7 +42,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Mimosa kết hôn [Ponto Baggins](../P/Ponto_Baggins_I.md). Họ có hai con; [Rosa](../R/Rosa_Baggins.md) sinh năm [S.R.](../S/Shire_Reckoning.md) [1256](../T/Third_Age_2856.md)và [Polo Baggins](../P/Polo_Baggins.md) ngay sau đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Mimosa kết hôn [Ponto Baggins](../P/Ponto_Baggins_I.md). Họ có hai con; [Rosa](../R/Rosa_Baggins.md) sinh năm [S.R.](../S/Shire_Reckoning.md) [1256](../T/Third_Age_2856.md) và [Polo Baggins](../P/Polo_Baggins.md) ngay sau đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

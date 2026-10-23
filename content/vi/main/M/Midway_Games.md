@@ -18,7 +18,7 @@ categories:
 
 **Inevitable Entertainment**, nhà phát triển trò chơi [2003](../_/2003.md) *[The Hobbit](<../T/The_Hobbit_(2003_video_game).md>)*, đã được Midway mua lại vào [2004](../_/2004.md) và đổi tên thành Midway Austin. **Phần mềm siêu thực**, nhà phát triển trò chơi [2002](../_/2002.md) *[The Fellowship of the Ring](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)*, cũng được mua lại, nhưng công ty đó vẫn giữ thương hiệu ban đầu.
 
-Công ty bị giải thể vào [ngày 9 tháng 6](../_/9_June.md) năm [2010](../_/2010.md)do phá sản. ΜPhần lớn tài sản của Midway đã được [Warner Bros.](../W/Warner_Bros..md) mua.
+Công ty bị giải thể vào [ngày 9 tháng 6](../_/9_June.md) năm [2010](../_/2010.md) do phá sản. ΜPhần lớn tài sản của Midway đã được [Warner Bros.](../W/Warner_Bros..md) mua.
 
 ## Liên kết ngoài {#External_links}
 

@@ -72,7 +72,7 @@ infobox:
         - Bởi: Louis Markos
     - "Lịch sử thực và ảo trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*"
         - Bởi: Franco Manni
-    - "[Tolkien](../J/J.R.R._Tolkien.md)thêm món nợ của Haggard"
+    - "[Tolkien](../J/J.R.R._Tolkien.md) thêm món nợ của Haggard"
         - Bởi: Dale Nelson
 - **Thơ**
     - *Sự ra đi của những con người hòa bình*

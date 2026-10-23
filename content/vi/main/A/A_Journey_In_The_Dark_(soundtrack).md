@@ -45,7 +45,7 @@ infobox:
 </p>
 </div>
 
-Đây là tuyển tập từ bản dịch đầy đủ<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> của [David Salo](../D/David_Salo.md)bài thơ của [Philippa Boyens](../P/Philippa_Boyens.md):
+Đây là tuyển tập từ bản dịch đầy đủ<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> của [David Salo](../D/David_Salo.md) bài thơ của [Philippa Boyens](../P/Philippa_Boyens.md):
 
 <div class="poem">
 <p><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;"><i>Durin ku bin-amrad<br/>Ugmal sullu addad<br/>Ku bakana<br/>Ana aznân<br/>Undu abad<br/>Ku ganaga<br/>Tur ganâd abanul<br/>Durin ku bin-amrad<br/>Uzbad Khazad-dûmu<br/>Ku baraka<br/>Aznân<br/>ra karaka<br/>atkât<br/>ala lukhudizu!<br/>ala galabizu!<br/>ala ukratizu!<br/>Khazad-dûm!</i></span>

@@ -12,7 +12,7 @@ categories:
   - "The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack"
 ---
 
-**In Dreams** là bài hát được hát trong [The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md) trong ca khúc *[The Breaking Of The Fellowship](<../T/The_Breaking_Of_The_Fellowship_(soundtrack).md>)* do [Howard Shore](../H/Howard_Shore.md) và [Fran Walsh](../F/Fran_Walsh.md)sáng tác và được hát bởi [Edward Ross](../E/Edward_Ross.md). Giai điệu rất giống với bài thánh ca truyền thống “<i><a class="external text" href="https://hymnary.org/text/this_is_my_fathers_world_and_to_my" rel="noreferrer noopener" target="_blank">Đây là thế giới của Cha tôi</a></i>”, và đoạn nhạc mở đầu cũng giống hệt. Giai điệu này thường được phát theo chủ đề "[Hobbit](../H/Hobbits.md)" hoặc "[Shire](../T/The_Shire.md)" xuyên suốt bộ phim.
+**In Dreams** là bài hát được hát trong [The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md) trong ca khúc *[The Breaking Of The Fellowship](<../T/The_Breaking_Of_The_Fellowship_(soundtrack).md>)* do [Howard Shore](../H/Howard_Shore.md) và [Fran Walsh](../F/Fran_Walsh.md) sáng tác và được hát bởi [Edward Ross](../E/Edward_Ross.md). Giai điệu rất giống với bài thánh ca truyền thống “<i><a class="external text" href="https://hymnary.org/text/this_is_my_fathers_world_and_to_my" rel="noreferrer noopener" target="_blank">Đây là thế giới của Cha tôi</a></i>”, và đoạn nhạc mở đầu cũng giống hệt. Giai điệu này thường được phát theo chủ đề "[Hobbit](../H/Hobbits.md)" hoặc "[Shire](../T/The_Shire.md)" xuyên suốt bộ phim.
 
 Những lời này bằng tiếng Anh và làm theo ở đây.
 

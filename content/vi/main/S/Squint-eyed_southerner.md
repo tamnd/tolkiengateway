@@ -57,7 +57,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a><sup id="cite_ref-FRI11_1-0" class="reference"><a href="#cite_note-FRI11-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Người miền nam mắt lác** là một tên cướp vô danh bị đuổi khỏi [Dunland](../D/Dunland.md), được đồn đại là có dòng máu [Orc](../O/Orcs.md)trong huyết quản. Ban đầu anh ta đóng vai trò là một trong những đặc vụ và gián điệp đáng tin cậy nhất của [Pháp sư](../W/Wizards.md) [Saruman](Saruman.md), trước khi bị buộc phải phục vụ [Nazgûl](../N/Nazgûl.md) với tư cách là người cung cấp thông tin.
+**Người miền nam mắt lác** là một tên cướp vô danh bị đuổi khỏi [Dunland](../D/Dunland.md), được đồn đại là có dòng máu [Orc](../O/Orcs.md) trong huyết quản. Ban đầu anh ta đóng vai trò là một trong những đặc vụ và gián điệp đáng tin cậy nhất của [Pháp sư](../W/Wizards.md) [Saruman](Saruman.md), trước khi bị buộc phải phục vụ [Nazgûl](../N/Nazgûl.md) với tư cách là người cung cấp thông tin.
 
 ## Lịch sử {#History}
 

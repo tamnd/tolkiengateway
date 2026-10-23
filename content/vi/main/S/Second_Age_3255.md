@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cái chết của [Tar-Palantir](../T/Tar-Palantir.md).<sup id="cite_ref-Palantir_1-0" class="reference"><a href="#cite_note-Palantir-1">[1]</a></sup>
-- [Ar-Pharazôn](../A/Ar-Pharazôn.md) lấy con gái Tar-Palantir của [Míriel](../T/Tar-Míriel.md)làm vợ trái với ý muốn của cô ấy.<sup id="cite_ref-Palantir_1-1" class="reference"><a href="#cite_note-Palantir-1">[1]</a></sup>
+- [Ar-Pharazôn](../A/Ar-Pharazôn.md) lấy con gái Tar-Palantir của [Míriel](../T/Tar-Míriel.md) làm vợ trái với ý muốn của cô ấy.<sup id="cite_ref-Palantir_1-1" class="reference"><a href="#cite_note-Palantir-1">[1]</a></sup>
 - [Ar-Pharazôn](../A/Ar-Pharazôn.md) [Vàng](../G/Golden.md) chiếm giữ [Vương trượng Númenor](Sceptre_of_Númenor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>

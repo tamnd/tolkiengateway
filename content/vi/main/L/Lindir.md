@@ -44,7 +44,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Sau khi [Bilbo Baggins](../B/Bilbo_Baggins.md)trình diễn *[Eärendillinwë](../E/Eärendillinwë.md)*của mình, Lindir tuyên bố rằng anh không thể biết phần nào được viết bởi [Aragorn](../A/Aragorn.md)và phần nào do chính Bilbo viết, đồng thời giải thích rằng anh biết rất ít về [Người phàm](../M/Mortals.md) và cách thức của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Sau khi [Bilbo Baggins](../B/Bilbo_Baggins.md) trình diễn *[Eärendillinwë](../E/Eärendillinwë.md)* của mình, Lindir tuyên bố rằng anh không thể biết phần nào được viết bởi [Aragorn](../A/Aragorn.md) và phần nào do chính Bilbo viết, đồng thời giải thích rằng anh biết rất ít về [Người phàm](../M/Mortals.md) và cách thức của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -71,7 +71,7 @@ Tên *Lindir* dường như được tạo thành từ *[lind](Lind.md)* ("giai 
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Lindir can be found in the <a href="../H/Hall_of_Fire.md" title="Hall of Fire">Hall of Fire</a> in <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>. He is engaged in a conversation with <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a> and the two ask the player to join them in a <a href="../R/Riddle-game.md" title="Riddle-game">Riddle-game</a>.</dd></dl>
 

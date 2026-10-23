@@ -12,4 +12,4 @@ categories:
   - "Germanic names"
 ---
 
-Tên [tiếng Anh](../../main/M/Modern_English.md) trong tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md). Vì tiếng Anh không được nói bằng [Trung Địa](../../main/M/Middle-earth.md)nên tất cả những tên này đều được sử dụng theo nghĩa "dịch". Vui lòng giới hạn việc sử dụng danh mục này cho những tên xuất hiện trong [huyền thoại](../../main/L/Legendarium.md) của Tolkien—không phải mọi bài viết trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) có tên tiếng Anh đều liên quan đến câu chuyện nội bộ.
+Tên [tiếng Anh](../../main/M/Modern_English.md) trong tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md). Vì tiếng Anh không được nói bằng [Trung Địa](../../main/M/Middle-earth.md) nên tất cả những tên này đều được sử dụng theo nghĩa "dịch". Vui lòng giới hạn việc sử dụng danh mục này cho những tên xuất hiện trong [huyền thoại](../../main/L/Legendarium.md) của Tolkien—không phải mọi bài viết trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) có tên tiếng Anh đều liên quan đến câu chuyện nội bộ.

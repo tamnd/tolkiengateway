@@ -20,7 +20,7 @@ Thành phố này đã được đề cập đến trong câu chuyện *[the Fal
 
 ## Từ nguyên {#Etymology}
 
-Tên *Bablon* có trong [Gnomish](../G/Gnomish.md)nhưng ý nghĩa của nó không rõ ràng. Tuy nhiên, có lẽ đó là sự bắt chước âm vị của *Babylon*.<sup id="cite_ref-Bab_1-1" class="reference"><a href="#cite_note-Bab-1">[1]</a></sup>
+Tên *Bablon* có trong [Gnomish](../G/Gnomish.md) nhưng ý nghĩa của nó không rõ ràng. Tuy nhiên, có lẽ đó là sự bắt chước âm vị của *Babylon*.<sup id="cite_ref-Bab_1-1" class="reference"><a href="#cite_note-Bab-1">[1]</a></sup>
 
 <span></span>
 

@@ -22,7 +22,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_Glyn_Robbins.JPG.md"><img src="https://tolkiengateway.net/w/images/a/a3/The_Hobbit_Glyn_Robbins.JPG" decoding="async" loading="lazy" width="263" height="320" class="mw-file-element" data-file-width="263" data-file-height="320"/></a><figcaption></figcaption></figure>
 
-<i><b>The Hobbit</b></i> là bản chuyển thể sân khấu từ tác phẩm *[The Hobbit](The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)do [Glyn Robbins](../G/Glyn_Robbins.md) viết. Vở kịch được công chiếu lần đầu tiên từ [28 tháng 11](../_/28_November.md) [2001](../_/2001.md) đến [9 tháng 2](../_/9_February.md) [2002](../_/2002.md), tại <a class="external text" href="http://www.queens-theatre.co.uk/" rel="noreferrer noopener" target="_blank">Queen's Theater</a> ở London. Vở kịch được biểu diễn theo giấy phép của [Trung Địa Enterprises](../M/Middle-earth_Enterprises.md).
+<i><b>The Hobbit</b></i> là bản chuyển thể sân khấu từ tác phẩm *[The Hobbit](The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) do [Glyn Robbins](../G/Glyn_Robbins.md) viết. Vở kịch được công chiếu lần đầu tiên từ [28 tháng 11](../_/28_November.md) [2001](../_/2001.md) đến [9 tháng 2](../_/9_February.md) [2002](../_/2002.md), tại <a class="external text" href="http://www.queens-theatre.co.uk/" rel="noreferrer noopener" target="_blank">Queen's Theater</a> ở London. Vở kịch được biểu diễn theo giấy phép của [Trung Địa Enterprises](../M/Middle-earth_Enterprises.md).
 
 ## Thông cáo báo chí {#Press_Release}
 

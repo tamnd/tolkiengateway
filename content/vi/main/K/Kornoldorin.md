@@ -23,7 +23,7 @@ Ngôn ngữ cũng có một số thay đổi nhỏ về nguyên âm và phụ â
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong giai đoạn [huyền thoại](../L/Legendarium.md) sau này, [Tolkien](../J/J.R.R._Tolkien.md) đã sắp xếp lại một số chi tiết: ngôn ngữ được mô tả là Old Noldorin được lấy theo phương ngữ Noldorin của [Quenya](../Q/Quenya.md)và ngôn ngữ có tên Noldorin được đổi tên thành "[Sindarin](../S/Sindarin.md)" và thay thế cho Ilkorin bản ngữ trong [Beleriand](../B/Beleriand.md).
+Trong giai đoạn [huyền thoại](../L/Legendarium.md) sau này, [Tolkien](../J/J.R.R._Tolkien.md) đã sắp xếp lại một số chi tiết: ngôn ngữ được mô tả là Old Noldorin được lấy theo phương ngữ Noldorin của [Quenya](../Q/Quenya.md) và ngôn ngữ có tên Noldorin được đổi tên thành "[Sindarin](../S/Sindarin.md)" và thay thế cho Ilkorin bản ngữ trong [Beleriand](../B/Beleriand.md).
 
 Old Noldorin thuộc một giai đoạn trình tự thời gian và âm vị học mà Sindarin thông thường cũng đã trải qua, cụ thể là giai đoạn mà các nguyên âm cuối vẫn còn tồn tại và các phụ âm chưa trải qua [sự khoan dung](../L/Lenition.md); tuy nhiên giai đoạn này không được Tolkien đặt tên hoặc mô tả ngoài một số ví dụ tái tạo từ nguyên.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Người hâm mộ đặt tên cho giai đoạn này là "[Old Sindarin](../O/Old_Sindarin.md)".
 

@@ -17,7 +17,7 @@ categories:
 
 - Có cùng nguồn gốc: [Quenya](../Q/Quenya.md) *[anna](Anna.md)*
 
-Trong [Sindarin](../S/Sindarin.md)sau này, *ant* được sửa đổi thành *ann* và *anw*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Sindarin](../S/Sindarin.md) sau này, *ant* được sửa đổi thành *ann* và *anw*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Các dạng lỗi thời: [Noldorin](../N/Noldorin.md) *ant* ban đầu được viết là *ann*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <span></span>
 

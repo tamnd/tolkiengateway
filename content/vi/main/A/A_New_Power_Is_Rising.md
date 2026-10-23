@@ -33,7 +33,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>A New Power is Rising</b></i> là ca khúc đầu tiên trong album [Let Mortal Heroes Sing Your Fame](../L/Let_Mortal_Heroes_Sing_Your_Fame.md) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát có thể được lấy từ các từ [Saruman](../S/Saruman.md) đến [Gandalf](../G/Gandalf.md) trong thời gian người này bị giam trong tòa tháp [Orthanc](../O/Orthanc.md) như đã kể trong [The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Lời bài hát nằm trong [Hắc Ngữ](../B/Black_Speech.md)và là [dòng chữ](../R/Ring_Verse.md) được viết trên [One Ring](../T/The_One_Ring.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>A New Power is Rising</b></i> là ca khúc đầu tiên trong album [Let Mortal Heroes Sing Your Fame](../L/Let_Mortal_Heroes_Sing_Your_Fame.md) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát có thể được lấy từ các từ [Saruman](../S/Saruman.md) đến [Gandalf](../G/Gandalf.md) trong thời gian người này bị giam trong tòa tháp [Orthanc](../O/Orthanc.md) như đã kể trong [The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Lời bài hát nằm trong [Hắc Ngữ](../B/Black_Speech.md) và là [dòng chữ](../R/Ring_Verse.md) được viết trên [One Ring](../T/The_One_Ring.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Lời bài hát {#Lyrics}
 

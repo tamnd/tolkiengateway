@@ -38,7 +38,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien thảo luận về cuộc gặp gỡ của [Christopher](../C/Christopher_Tolkien.md)với một thành viên khác của gia đình Unwin, Harold "Chris" Unwin, và đưa ra những suy nghĩ về [Rayner Unwin](../R/Rayner_Unwin.md), người mà Tolkien mô tả là một "anh chàng trẻ tuổi đen tối và có vẻ ngoài khá đẹp trai." Tolkien đối lập Rayner với cha anh, [Stanley Unwin](../S/Stanley_Unwin.md), người mà anh hài hước nhận xét giống một trong những người lùn của anh.
+Tolkien thảo luận về cuộc gặp gỡ của [Christopher](../C/Christopher_Tolkien.md) với một thành viên khác của gia đình Unwin, Harold "Chris" Unwin, và đưa ra những suy nghĩ về [Rayner Unwin](../R/Rayner_Unwin.md), người mà Tolkien mô tả là một "anh chàng trẻ tuổi đen tối và có vẻ ngoài khá đẹp trai." Tolkien đối lập Rayner với cha anh, [Stanley Unwin](../S/Stanley_Unwin.md), người mà anh hài hước nhận xét giống một trong những người lùn của anh.
 
 Sau đó, anh ấy chuyển sang một ghi chú cá nhân hơn, bày tỏ hy vọng và lời cầu nguyện cho Christopher khi anh ấy rời bỏ tuổi thiếu niên đầy rắc rối, bị tàn phá bởi bệnh tật và chiến tranh và bước vào tuổi đôi mươi. Tolkien suy ngẫm về những thách thức và nỗi thất vọng trong cuộc sống, đưa ra những suy ngẫm triết học về việc sử dụng thời gian và hy vọng vào những hoàn cảnh tốt đẹp hơn. Anh ấy kết thúc bằng cách bày tỏ mong muốn được gặp lại Christopher và gợi ý rằng việc chịu đựng những khó khăn hiện tại có thể coi như một hình thức Luyện ngục được dự đoán trước. <br>
 

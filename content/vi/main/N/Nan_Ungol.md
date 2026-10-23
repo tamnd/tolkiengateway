@@ -21,7 +21,7 @@ images:
 
 Nó xuất hiện lần đầu trên bản đồ hàng hóa Mordor dành cho *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* do [Daniel Reeve](../D/Daniel_Reeve.md)<sup id="cite_ref-reeve-site_1-0" class="reference"><a href="#cite_note-reeve-site-1">[1]</a></sup> vẽ vào năm 2003<sup id="cite_ref-reeve-mail_2-0" class="reference"><a href="#cite_note-reeve-mail-2">[2]</a></sup>.
 
-Trong *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md)* có đề cập rằng trong khi một số trẻ em của [Shelob](../S/Shelob.md)đi du lịch về phía nam, có
+Trong *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md)* có đề cập rằng trong khi một số trẻ em của [Shelob](../S/Shelob.md) đi du lịch về phía nam, có
 
 <blockquote class="tg-quote noexcerpt">
 <p>taken Nan Ungol (Sindarin for &#34;Valley of the Spiders&#34;) as their primary home, they&#39;ve since spread across Mordor taking residence in its caves and other dark places, and are actively reporting back to their queen.

@@ -40,7 +40,7 @@ Một phiên bản đặc biệt có tên **Phiên bản quý giá** đã đư�
 
 ## Lô đồ {#Plot}
 
-Trò chơi khám phá một câu chuyện chưa từng được kể về [Gollum](../G/Gollum.md)và lấy bối cảnh 8 năm trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Trò chơi khám phá một câu chuyện chưa từng được kể về [Gollum](../G/Gollum.md) và lấy bối cảnh 8 năm trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 Sau khi Gollum bị tra tấn ở [Mordor](../M/Mordor.md), anh ta bị bắt làm nô lệ trong hầm mỏ [Ephel Duath](../E/Ephel_Duath.md) ở rìa Mordor. Tại đây Gollum hoàn thành nhiệm vụ của mình và đôi khi lén lút gây ra một số trò nghịch ngợm.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Khi thoát khỏi cảnh nô lệ, Gollum đi vào đường hầm của [Shelob](../S/Shelob.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
@@ -52,7 +52,7 @@ Trò chơi được thiết kế tập trung vào tính năng lén lút,<sup id=
 
 ## Lễ tân {#Reception}
 
-Trò chơi đã nhận được vô số phản hồi tiêu cực, trong đó một số người gọi đây là trò chơi tệ nhất trong năm.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Các tiêu đề bao gồm *luộc nó, nghiền nát nó, cho vào thùng*,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> liên quan đến lời thoại của [Sam](../S/Samwise_Gamgee.md)trong phim, *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*. Trên Metacritic, nó đạt Metascore là 39/100 và điểm người dùng là 2,0/10 tính đến [5 tháng 7](../_/5_July.md) năm 2023.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> <span></span>
+Trò chơi đã nhận được vô số phản hồi tiêu cực, trong đó một số người gọi đây là trò chơi tệ nhất trong năm.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Các tiêu đề bao gồm *luộc nó, nghiền nát nó, cho vào thùng*,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> liên quan đến lời thoại của [Sam](../S/Samwise_Gamgee.md) trong phim, *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*. Trên Metacritic, nó đạt Metascore là 39/100 và điểm người dùng là 2,0/10 tính đến [5 tháng 7](../_/5_July.md) năm 2023.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

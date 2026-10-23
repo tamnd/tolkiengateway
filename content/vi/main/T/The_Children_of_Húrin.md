@@ -86,13 +86,13 @@ infobox:
 
 Cốt truyện bao gồm phần mở rộng câu chuyện về những chuyến lang thang và hành động của [Túrin Turambar](Túrin_Turambar.md), con trai của [Húrin](../H/Húrin.md), và em gái [Niënor](../N/Niënor.md), trong cuộc đấu tranh chống lại số phận của họ (và lời nguyền giáng xuống người thân của Húrin). Nó được coi là một trong những ví dụ đen tối nhất trong số các tác phẩm của Tolkien.
 
-Câu chuyện là một trong ba "[câu chuyện hay](../A/Atanatarion.md)" lấy bối cảnh trong [Kỷ Đệ Nhất](../F/First_Age.md) của [Trung Địa](../M/Middle-earth.md)của Tolkien, hai câu chuyện còn lại là *[Beren and Lúthien](../B/Beren_and_Lúthien.md)* và *[The Fall of Gondolin](The_Fall_of_Gondolin.md)*.
+Câu chuyện là một trong ba "[câu chuyện hay](../A/Atanatarion.md)" lấy bối cảnh trong [Kỷ Đệ Nhất](../F/First_Age.md) của [Trung Địa](../M/Middle-earth.md) của Tolkien, hai câu chuyện còn lại là *[Beren and Lúthien](../B/Beren_and_Lúthien.md)* và *[The Fall of Gondolin](The_Fall_of_Gondolin.md)*.
 
 ## Tóm tắt {#Synopsis}
 
 "Có những câu chuyện về Trung Địa từ rất lâu trước *The Lord of the Rings*, và câu chuyện được kể trong cuốn sách này lấy bối cảnh ở đất nước vĩ đại nằm ngoài [Cảng Xám](../G/Grey_Havens.md) ở phía Bắc: vùng đất nơi [Treebeard](Treebeard.md) từng đi bộ nhưng đã bị nhấn chìm trong trận đại hồng thủy kết thúc [Kỷ Đệ Nhất](../F/First_Age.md) của Thế giới.
 
-"Vào thời điểm [Morgoth](../M/Morgoth.md)xa xôi đó, Chúa tể Bóng tối đầu tiên, cư trú trong pháo đài rộng lớn [Angband](../A/Angband.md) ở phía Bắc; và bi kịch của [Túrin](Túrin.md) và em gái [Niënor](../N/Niënor.md) diễn ra trong bóng tối của nỗi sợ hãi Angband và cuộc chiến do Morgoth tiến hành chống lại các vùng đất và thành phố bí mật của Tiên tộc.
+"Vào thời điểm [Morgoth](../M/Morgoth.md) xa xôi đó, Chúa tể Bóng tối đầu tiên, cư trú trong pháo đài rộng lớn [Angband](../A/Angband.md) ở phía Bắc; và bi kịch của [Túrin](Túrin.md) và em gái [Niënor](../N/Niënor.md) diễn ra trong bóng tối của nỗi sợ hãi Angband và cuộc chiến do Morgoth tiến hành chống lại các vùng đất và thành phố bí mật của Tiên tộc.
 
 "Cuộc đời ngắn ngủi và đam mê của họ bị chi phối bởi lòng căm thù nguyên tố Morgoth mang đến cho họ khi còn là con của Húrin, người đàn ông đã dám thách thức và khinh miệt anh ta. Ngài gửi người hầu đáng gờm của mình, [Glaurung](../G/Glaurung.md), một linh hồn mạnh mẽ dưới hình dạng một [con rồng](../D/Dragon.md) lửa khổng lồ không cánh. Trong câu chuyện của anh ta về cuộc chinh phục và trốn chạy tàn bạo, về những nơi ẩn náu và truy đuổi trong rừng, về sự kháng cự với hy vọng ngày càng giảm bớt, những nhân vật thần thoại của Chúa và Rồng bước vào dưới hình thức mỉa mai và chế nhạo một cách đáng sợ, Glaurung đã thao túng số phận của Túrin và Niënor bằng những lời dối trá xảo quyệt và quỷ quyệt, và lời nguyền Morgoth đã được ứng nghiệm.
 

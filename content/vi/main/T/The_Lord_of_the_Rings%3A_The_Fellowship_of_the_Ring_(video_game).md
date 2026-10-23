@@ -158,7 +158,7 @@ Những người bạn đồng hành của Frodo lại bị lạc và Frodo ph�
 
 <dl><dt>The Prancing Pony</dt></dl>
 
-Frodo và những người khác vào quán trọ Prancing Pony và nhận phòng bằng [Barliman Butterbur](../B/Barliman_Butterbur.md). Trong thời gian này, Frodo có thể tự do tương tác với [Strider](../A/Aragorn.md), [Bill Ferny](../B/Bill_Ferny.md)và những khách quen khác của nhà trọ. Sau một "tai nạn" khi Frodo vô tình đeo Nhẫn Chúa trước mặt những khách hàng quen, Strider tiết lộ danh tính của mình là Aragorn cho Hobbit và nói với họ rằng họ đang gặp nguy hiểm.
+Frodo và những người khác vào quán trọ Prancing Pony và nhận phòng bằng [Barliman Butterbur](../B/Barliman_Butterbur.md). Trong thời gian này, Frodo có thể tự do tương tác với [Strider](../A/Aragorn.md), [Bill Ferny](../B/Bill_Ferny.md) và những khách quen khác của nhà trọ. Sau một "tai nạn" khi Frodo vô tình đeo Nhẫn Chúa trước mặt những khách hàng quen, Strider tiết lộ danh tính của mình là Aragorn cho Hobbit và nói với họ rằng họ đang gặp nguy hiểm.
 
 <dl><dt>Town of Bree</dt></dl>
 
@@ -172,7 +172,7 @@ Sau khi phát hiện tia sét ở đỉnh [Weathertop](../W/Weathertop.md), Arag
 
 <dl><dt>A Knife in the Dark</dt></dl>
 
-Trong một đoạn cắt cảnh, Frodo bị [Vua Phù thủy](../W/Witch-king.md)đâm và Aragorn phải ngăn Nazgûl đâm Frodo nhiều hơn nữa, chống lại chúng bằng lửa.
+Trong một đoạn cắt cảnh, Frodo bị [Vua Phù thủy](../W/Witch-king.md) đâm và Aragorn phải ngăn Nazgûl đâm Frodo nhiều hơn nữa, chống lại chúng bằng lửa.
 
 <dl><dt>Troll Shaws</dt></dl>
 

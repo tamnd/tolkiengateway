@@ -38,11 +38,11 @@ images:
 
 ### Tuổi đầu {#First_age}
 
-Sói là đồng minh cũ của [Chúa tể Bóng tối](../D/Dark_Lord.md),<sup id="cite_ref-Fifth_1-0" class="reference"><a href="#cite_note-Fifth-1">[1]</a></sup> và thường được [Orc](../O/Orcs.md)sử dụng làm chiến mã.<sup id="cite_ref-Beren_2-0" class="reference"><a href="#cite_note-Beren-2">[2]</a></sup> Sói, hoặc những sinh vật có hình dạng sói, lần đầu tiên đến [Beleriand](../B/Beleriand.md) vượt qua những con đèo hoặc xuyên qua những khu rừng tối cùng với những sinh vật sa ngã khác trong thời kỳ bị giam cầm thứ ba của [Melkor](../M/Morgoth.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Sói là đồng minh cũ của [Chúa tể Bóng tối](../D/Dark_Lord.md),<sup id="cite_ref-Fifth_1-0" class="reference"><a href="#cite_note-Fifth-1">[1]</a></sup> và thường được [Orc](../O/Orcs.md) sử dụng làm chiến mã.<sup id="cite_ref-Beren_2-0" class="reference"><a href="#cite_note-Beren-2">[2]</a></sup> Sói, hoặc những sinh vật có hình dạng sói, lần đầu tiên đến [Beleriand](../B/Beleriand.md) vượt qua những con đèo hoặc xuyên qua những khu rừng tối cùng với những sinh vật sa ngã khác trong thời kỳ bị giam cầm thứ ba của [Melkor](../M/Morgoth.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Trong trận đấu tự sát của [Fingolfin](../F/Fingolfin.md) với [Morgoth](../M/Morgoth.md), thi thể của anh ta bị đập vỡ và ném cho những con sói lớn [Angband](../A/Angband.md), chỉ để [Thorondor](../T/Thorondor.md) mang thi thể đi chôn cất.<sup id="cite_ref-Fingolfin_4-0" class="reference"><a href="#cite_note-Fingolfin-4">[4]</a></sup> [Rochallor](../R/Rochallor.md) ở lại với Fingolfin cho đến khi chết. Ấy vậy mà khi bị bầy sói lớn tấn công, con chiến mã to lớn đã thoát chết ngay lập tức nhờ chạy nhanh hơn chúng và chỉ chết khi trái tim tan vỡ khi đến [Hithlum](../H/Hithlum.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Khi [Sauron](../S/Sauron.md) tiếp quản hòn đảo [Tol Sirion](../T/Tol_Sirion.md), ông đã xây dựng một tháp canh trên đó và đổi tên hòn đảo thành [Tol-in-Gaurhoth](../T/Tol-in-Gaurhoth.md)và trở thành *"Lord of [Werewolves](Werewolves.md)"*.<sup id="cite_ref-Fingolfin_4-1" class="reference"><a href="#cite_note-Fingolfin-4">[4]</a></sup> Những người sói Angband này được lai tạo từ con sói lớn [Draugluin](../D/Draugluin.md). Trong đó, [Carcharoth](../C/Carcharoth.md) được cho là hậu duệ vĩ đại nhất của ông.<sup id="cite_ref-Beren_2-1" class="reference"><a href="#cite_note-Beren-2">[2]</a></sup>
+Khi [Sauron](../S/Sauron.md) tiếp quản hòn đảo [Tol Sirion](../T/Tol_Sirion.md), ông đã xây dựng một tháp canh trên đó và đổi tên hòn đảo thành [Tol-in-Gaurhoth](../T/Tol-in-Gaurhoth.md) và trở thành *"Lord of [Werewolves](Werewolves.md)"*.<sup id="cite_ref-Fingolfin_4-1" class="reference"><a href="#cite_note-Fingolfin-4">[4]</a></sup> Những người sói Angband này được lai tạo từ con sói lớn [Draugluin](../D/Draugluin.md). Trong đó, [Carcharoth](../C/Carcharoth.md) được cho là hậu duệ vĩ đại nhất của ông.<sup id="cite_ref-Beren_2-1" class="reference"><a href="#cite_note-Beren-2">[2]</a></sup>
 
 Khi [Gorlim](../G/Gorlim.md) bị lừa phản bội [Barahir](../B/Barahir.md), anh nghe thấy tiếng sói tru khi hành vi lừa dối bị vạch trần và Sauron lộ diện.<sup id="cite_ref-Beren_2-2" class="reference"><a href="#cite_note-Beren-2">[2]</a></sup>
 
@@ -52,7 +52,7 @@ Khi Huan và [Lúthien](../L/Lúthien.md) tấn công tháp canh Sauron, họ g�
 
 Sói nằm trong số những sinh vật đã chiến đấu vì Morgoth trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), sau đó, chúng di chuyển tự do dọc theo Orc vào [Beleriand](../B/Beleriand.md) xa về phía nam tới tận [Nan-tathren](../N/Nan-tathren.md) và [Ossiriand](../O/Ossiriand.md).<sup id="cite_ref-Fifth_1-1" class="reference"><a href="#cite_note-Fifth-1">[1]</a></sup>
 
-Sói nằm trong số Orc đang giam giữ [Túrin](../T/Túrin.md). Bốn trong số những lính canh Sói này đã bị [Tiên](../E/Elves.md), [Beleg](../B/Beleg.md)bắn để giải thoát bạn mình.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Sói nằm trong số Orc đang giam giữ [Túrin](../T/Túrin.md). Bốn trong số những lính canh Sói này đã bị [Tiên](../E/Elves.md), [Beleg](../B/Beleg.md) bắn để giải thoát bạn mình.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 Sói nằm trong số lực lượng Morgoth từng tấn công thành phố [Gondolin](../G/Gondolin.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
@@ -70,17 +70,17 @@ Vào [13 tháng 1](../_/13_January.md) ngày [T.A.](../T/Third_Age.md) [3019](..
 
 **Wolf** cũng được dùng dưới dạng rút gọn của **[Người sói](Werewolves.md)**.
 
-Trong [Quenya](../Q/Quenya.md), một trong những từ dành cho "sói" là *ñarmo* hoặc *narmo*. Các từ cùng gốc có nghĩa tương tự là [Doriathrin](../D/Doriathrin.md) *garm*và [Noldorin](../N/Noldorin.md) *garaf*. ("Tiếng sói hú" là *naule* trong Quenya và *gaul* trong Noldorin.)<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+Trong [Quenya](../Q/Quenya.md), một trong những từ dành cho "sói" là *ñarmo* hoặc *narmo*. Các từ cùng gốc có nghĩa tương tự là [Doriathrin](../D/Doriathrin.md) *garm* và [Noldorin](../N/Noldorin.md) *garaf*. ("Tiếng sói hú" là *naule* trong Quenya và *gaul* trong Noldorin.)<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
 Một từ Quenya khác cho "sói" là *ráka*. Các từ cùng gốc, cũng có nghĩa là "sói", là [Exilic Noldorin](../N/Noldorin.md) *draug* và Doriathrin *drôg*.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
-Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md)về ngôn ngữ [Tiên](../E/Elvish.md), "sói" là *harog* hoặc *harw*; "sói cái" là *harach*;<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> [Qenya](../Q/Qenya.md) có *ulku* "sói".<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md) về ngôn ngữ [Tiên](../E/Elvish.md), "sói" là *harog* hoặc *harw*; "sói cái" là *harach*;<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> [Qenya](../Q/Qenya.md) có *ulku* "sói".<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
 Trong [The Book of Lost Tales Part One](../T/The_Book_of_Lost_Tales_Part_One.md), cặp anh em [Valar](../V/Valar.md) bị loại bỏ, [Makar](../M/Makar.md) và [Meássë](../M/Meássë.md), đã săn sói và [Gấu](../B/Bears.md) trong vùng núi đen.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
 
-Trong [The Book of Lost Tales Part Two](../T/The_Book_of_Lost_Tales_Part_Two.md)người ta kể rằng rắn độc sống ở nơi sói lang thang.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+Trong [The Book of Lost Tales Part Two](../T/The_Book_of_Lost_Tales_Part_Two.md) người ta kể rằng rắn độc sống ở nơi sói lang thang.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

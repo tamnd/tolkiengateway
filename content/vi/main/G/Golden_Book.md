@@ -21,7 +21,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<i><b>Sách Vàng</b></i> ([Q.](../Q/Quenya.md)*Parma Kuluina*) là cuốn sách về lịch sử của [Ngày của Người cao tuổi](../E/Elder_Days.md), được lưu giữ bởi Tiên tộc của [Tol Eressëa](../T/Tol_Eressëa.md) tại thành phố [Kortirion](../K/Kortirion.md)của họ. [Pengolodh](../P/Pengolodh.md) đã tham khảo Sách Vàng khi biên soạn *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)*. [Eriol](../E/Eriol.md)/[Ælfwine](../_/Ælfwine.md) được phép đọc *Parma Kuluina*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>Sách Vàng</b></i> ([Q.](../Q/Quenya.md)*Parma Kuluina*) là cuốn sách về lịch sử của [Ngày của Người cao tuổi](../E/Elder_Days.md), được lưu giữ bởi Tiên tộc của [Tol Eressëa](../T/Tol_Eressëa.md) tại thành phố [Kortirion](../K/Kortirion.md) của họ. [Pengolodh](../P/Pengolodh.md) đã tham khảo Sách Vàng khi biên soạn *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)*. [Eriol](../E/Eriol.md)/[Ælfwine](../_/Ælfwine.md) được phép đọc *Parma Kuluina*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -70,7 +70,7 @@ Sự kiện xảy ra vào ngày 18 tháng 4.
 - **[1955](1955.md)** - [Grant Major](../G/Grant_Major.md) ra đời.
 - **[1963](1963.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt đầu viết [một bức thư gửi ông bà Kloos](../L/Letter_to_Mr_and_Mrs_Kloos.md).
 - **[1984](1984.md)** - Diễn viên lồng tiếng [Francis de Wolff](../F/Francis_de_Wolff.md) qua đời.
-- **[2007](2007.md)** - Ngày thứ tư và cũng là ngày cuối cùng của [The Children of Húrin Bữa tiệc phát hành](../T/The_Children_of_Húrin_Release_Party.md) do [Tolkien Gateway](../T/Tolkien_Gateway.md)chủ trì.
+- **[2007](2007.md)** - Ngày thứ tư và cũng là ngày cuối cùng của [The Children of Húrin Bữa tiệc phát hành](../T/The_Children_of_Húrin_Release_Party.md) do [Tolkien Gateway](../T/Tolkien_Gateway.md) chủ trì.
 
 ## Trong Arda {#In_Arda}
 

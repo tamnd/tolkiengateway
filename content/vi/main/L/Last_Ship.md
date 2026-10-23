@@ -18,7 +18,7 @@ categories:
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>, <i>Eriador, Arnor, and the Heirs of Isildur</i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Con Tàu Cuối Cùng** là con tàu cuối cùng do [Círdan](../C/Círdan.md)đóng, khởi hành từ [Cảng Xám](../G/Grey_Havens.md) đến [Tối cùng Phương Tây](../U/Uttermost_West.md) chở theo [Tiên tộc](../E/Elves.md) cuối cùng từ [Trung Địa](../M/Middle-earth.md).
+**Con Tàu Cuối Cùng** là con tàu cuối cùng do [Círdan](../C/Círdan.md) đóng, khởi hành từ [Cảng Xám](../G/Grey_Havens.md) đến [Tối cùng Phương Tây](../U/Uttermost_West.md) chở theo [Tiên tộc](../E/Elves.md) cuối cùng từ [Trung Địa](../M/Middle-earth.md).
 
 [Círdan](../C/Círdan.md) đã duy trì nơi trú ẩn ít nhất cho đến [Thời đại thứ tư](../F/Fourth_Age.md) (lần cuối đề cập đến [Grey Havens](../G/Grey_Havens.md) là [Samwise Gamgee](../S/Samwise_Gamgee.md) khởi hành <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Tây</a> ở [Fo.A.](../F/Fourth_Age.md) [61](../F/Fourth_Age_61.md)),<sup id="cite_ref-Later_1-0" class="reference"><a href="#cite_note-Later-1">[1]</a></sup> nhưng người ta nhận ra rằng cuối cùng, mục đích của nó sẽ đạt được kết thúc khi không còn Yêu tinh nào muốn vượt qua [Biển](../S/Sea.md). Vào thời điểm đó, Círdan sẽ từ bỏ Grey Havens và cuối cùng tự mình đi đến [Con đường thẳng](../S/Straight_Road.md).
 

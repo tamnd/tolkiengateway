@@ -37,7 +37,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Dor Daedeloth</b></i> là ca khúc thứ 11 và cũng là ca khúc cuối cùng trong album [Minas Morgul](<../M/Minas_Morgul_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [Dor Daedeloth](Dor_Daedeloth.md), vùng đất [Morgoth](../M/Morgoth.md) trong [Kỷ Đệ Nhất](../F/First_Age.md)*.* Lời bài hát đề cập đến chính khu vực đó, [Dãy Núi Sắt](../I/Iron_Mountains.md)và [Dãy Núi của Khủng bố](../E/Ered_Gorgoroth.md).
+<i><b>Dor Daedeloth</b></i> là ca khúc thứ 11 và cũng là ca khúc cuối cùng trong album [Minas Morgul](<../M/Minas_Morgul_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [Dor Daedeloth](Dor_Daedeloth.md), vùng đất [Morgoth](../M/Morgoth.md) trong [Kỷ Đệ Nhất](../F/First_Age.md)*.* Lời bài hát đề cập đến chính khu vực đó, [Dãy Núi Sắt](../I/Iron_Mountains.md) và [Dãy Núi của Khủng bố](../E/Ered_Gorgoroth.md).
 
 ## Lời bài hát {#Lyrics}
 

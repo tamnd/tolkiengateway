@@ -27,7 +27,7 @@ infobox:
 
 Ở [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md), **Khâradûnê** hoặc **Hyarnustar**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup> hoặc chỉ **Hyarn**<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 2]</a></sup>, là một vùng ven biển trên bờ biển phía tây nam của Trung Địa giữa [Belegaer](../B/Belegaer.md) và sườn phía tây của Ered Laranor<sup id="cite_ref-Hyarn_4-0" class="reference"><a href="#cite_note-Hyarn-4">[2]</a></sup> phía nam của [Tulwang](../T/Tulwang.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[3]</a></sup> và phía bắc [Elorna](../D/Dominions_of_the_Seven.md)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[4]</a></sup>. Biên giới phía bắc của nó được hình thành bởi sông Aronduin ([S.](../S/Sindarin.md) "Sông rừng"). Các thung lũng sông trù phú nằm dọc theo ranh giới phía bắc, nhưng phần lớn khu vực nội địa là vùng cây bụi hoặc đồng cỏ bán khô cằn.<sup id="cite_ref-Hyarn_4-1" class="reference"><a href="#cite_note-Hyarn-4">[2]</a></sup>
 
-Mặc dù ban đầu nó được thành lập bởi Adena, nhưng sau đó nó đã bị [người Númenor](../N/Númenóreans.md)xâm chiếm. Những hậu duệ lai giàu có của những người định cư Númenórean sống gần bờ biển và các thung lũng sông dọc biên giới phía bắc, trong khi những người Adena có dòng máu tương đối thuần chủng sống khắp vùng nội địa. Nhiều Adena kinh doanh nhiều sản phẩm gỗ trong khu vực.<sup id="cite_ref-Hyarn_4-2" class="reference"><a href="#cite_note-Hyarn-4">[2]</a></sup>
+Mặc dù ban đầu nó được thành lập bởi Adena, nhưng sau đó nó đã bị [người Númenor](../N/Númenóreans.md) xâm chiếm. Những hậu duệ lai giàu có của những người định cư Númenórean sống gần bờ biển và các thung lũng sông dọc biên giới phía bắc, trong khi những người Adena có dòng máu tương đối thuần chủng sống khắp vùng nội địa. Nhiều Adena kinh doanh nhiều sản phẩm gỗ trong khu vực.<sup id="cite_ref-Hyarn_4-2" class="reference"><a href="#cite_note-Hyarn-4">[2]</a></sup>
 
 ## Lịch sử {#History}
 
@@ -40,7 +40,7 @@ Ciryamir, cha của [Akhôrahil](../F/Fifth_of_the_Nazgûl.md), đã đến Khâ
 <span><div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Đừng nhầm lẫn với <a href="../H/Hyarnustar.md" title="Hyarnustar">Hyarnustar</a> trên đảo <a href="../N/Númenor.md" title="Númenor">Númenor</a></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Tên Hyarn đã được sử dụng trong MERP ấn phẩm trước đó, chẳng hạn như Bóng Tối ở miền Nam, hoặc trên bản đồ lục địa Trung Địa</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Tên Hyarn đã được sử dụng trong các ấn phẩm MERP trước đó, chẳng hạn như Bóng Tối ở miền Nam hoặc trên bản đồ lục địa Trung Địa</span>
 </li>
 </ol></div></span>
 

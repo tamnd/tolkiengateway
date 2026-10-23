@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Lúc này, nhờ Sauron vắng mặt ở [Trung Địa](../M/Middle-earth.md)nên sức mạnh của [Gil-galad](../G/Gil-galad.md)đã mở rộng đến [Rhovanion](../R/Rhovanion.md).<sup id="cite_ref-rings_1-0" class="reference"><a href="#cite_note-rings-1">[1]</a></sup>
+- Lúc này, nhờ Sauron vắng mặt ở [Trung Địa](../M/Middle-earth.md) nên sức mạnh của [Gil-galad](../G/Gil-galad.md) đã mở rộng đến [Rhovanion](../R/Rhovanion.md).<sup id="cite_ref-rings_1-0" class="reference"><a href="#cite_note-rings-1">[1]</a></sup>
 - [Ar-Pharazôn](../A/Ar-Pharazôn.md) tấn công [Valinor](../V/Valinor.md).<sup id="cite_ref-SA_2-0" class="reference"><a href="#cite_note-SA-2">[2]</a></sup>
 - Cái chết của Ar-Pharazôn<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và [Tar-Míriel](../T/Tar-Míriel.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 - [Sự thay đổi của thế giới](../C/Changing_of_the_World.md) và [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md); [Vùng Đất Bất Tử](../U/Undying_Lands.md) bị xóa khỏi [Arda](../A/Arda.md) và trở thành hình tròn.<sup id="cite_ref-SA_2-1" class="reference"><a href="#cite_note-SA-2">[2]</a></sup><sup id="cite_ref-akal_5-0" class="reference"><a href="#cite_note-akal-5">[5]</a></sup>

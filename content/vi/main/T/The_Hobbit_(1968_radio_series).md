@@ -48,9 +48,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_(1968_radio_series).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/73/The_Hobbit_%281968_radio_series%29.jpg/320px-The_Hobbit_%281968_radio_series%29.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/73/The_Hobbit_%281968_radio_series%29.jpg/480px-The_Hobbit_%281968_radio_series%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/73/The_Hobbit_%281968_radio_series%29.jpg/640px-The_Hobbit_%281968_radio_series%29.jpg 2x" data-file-width="1000" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Hobbit</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Narrator</th><td class="tg-infobox-data"><a href="../A/Anthony_Jackson.md" title="Anthony Jackson">Anthony Jackson</a>, <a href="../P/Paul_Daneman.md" title="Paul Daneman">Paul Daneman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../B/BBC.md" title="BBC">BBC</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/29_September.md" title="29 September">29 September</a> - <a href="../_/17_November.md" title="17 November">17 November</a>, <a href="../_/1968.md" title="1968">1968</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Radio broadcast</td></tr><tr><th scope="row" class="tg-infobox-label">Running time</th><td class="tg-infobox-data">4 hours</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/9780553455625" title="Special:BookSources/9780553455625">9780553455625</a></td></tr></tbody></table>
 
-<i><b>The Hobbit</b></i> là một [1968](../_/1968.md) [BBC Đài phát thanh](../B/BBC.md) chuyển thể từ [The Hobbit](The_Hobbit.md)của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>The Hobbit</b></i> là [1968](../_/1968.md) [Đài BBC](../B/BBC.md) chuyển thể từ [The Hobbit](The_Hobbit.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Bộ phim này được Michael Kilgariff chuyển thể và John Powell sản xuất thành tám tập đơn âm dài nửa giờ cho BBC Radio 4.
+Bộ phim được Michael Kilgariff chuyển thể và John Powell sản xuất thành tám tập đơn âm dài nửa giờ cho BBC Radio 4.
 
 ## Câu chuyện {#Story}
 
@@ -236,21 +236,21 @@ Mặc dù kịch bản gần giống với tiểu thuyết gốc, Kilgariff vẫ
 
 ## Sản xuất {#Production}
 
-Quá trình sản xuất chương trình rất phức tạp do bao gồm nhiều hiệu ứng âm thanh (thường được chèn trực tiếp trong khi ghi hình các màn trình diễn của các diễn viên), các bài hát trong tiểu thuyết cũng như các âm thanh đặc biệt và phương pháp xử lý giọng nói điện tử do BBC Radiophonic Workshop tạo ra. Tất cả quỷ lùn, yêu tinh, yêu tinh, chiến binh và đại bàng đều được xử lý giọng nói, giống như Gandalf khi bắt chước quỷ lùn.
+Quá trình sản xuất chương trình rất phức tạp do bao gồm nhiều hiệu ứng âm thanh (thường được chèn trực tiếp trong khi ghi âm màn trình diễn của các diễn viên), các bài hát trong tiểu thuyết cũng như các âm thanh đặc biệt và phương pháp xử lý giọng nói điện tử do BBC Radiophonic Workshop tạo ra. Tất cả quỷ lùn, yêu tinh, yêu tinh, chiến binh và đại bàng đều được xử lý giọng nói, giống như Gandalf khi bắt chước quỷ lùn.
 
 ## Xóa và phục hồi {#Wiping_and_recovery}
 
 Các băng gốc ban đầu của loạt phim dường như đã bị xóa vào khoảng những năm 1970. Nguyên nhân không rõ ràng, mặc dù có tin đồn là do tranh chấp với tài sản Tolkien (nếu vậy thì việc thu hồi và vấn đề thương mại của bộ truyện sau đó chứng tỏ tranh chấp đã được giải quyết).
 
-BBC cuối cùng đã khôi phục loạt phim này từ bản ghi FM không dây trong nước, dường như bao gồm các phần tổng hợp dài 90 và 60 phút được chỉnh sửa cùng nhau từ các tập gốc. Chất lượng âm thanh của những bản ghi âm này rõ ràng và dễ đọc, mặc dù nó kém hơn đáng kể so với bản ghi chất lượng phòng thu và có tiếng rít băng nổi bật.
+BBC cuối cùng đã khôi phục loạt phim này từ bản ghi âm FM không dây trong nước, dường như bao gồm các phần tổng hợp dài 90 và 60 phút được chỉnh sửa cùng nhau từ các tập gốc. Chất lượng âm thanh của những bản ghi âm này rõ ràng và dễ đọc, mặc dù nó kém hơn đáng kể so với bản ghi chất lượng phòng thu và có tiếng rít băng nổi bật.
 
-Vì mục đích phát sóng và âm thanh tại nhà, BBC đã biên tập lại các phần tổng hợp này thành các tập dài nửa giờ, thêm một đoạn ngắn giai điệu chủ đề ở đầu và cuối mỗi tập. Tiêu đề *The Hobbit* chỉ được nói ở đầu tập đầu tiên và không có phần mở đầu hoặc kết thúc. Rất có thể phần ghi công không bao giờ được đưa vào các tập phim mà ban đầu sẽ được người thông báo liên tục đọc ở cuối mỗi tập.
+Đối với mục đích phát sóng và âm thanh gia đình, BBC đã biên tập lại các phần tổng hợp này thành các tập dài nửa giờ, thêm một đoạn ngắn giai điệu chủ đề ở đầu và cuối mỗi tập. Tiêu đề *The Hobbit* chỉ được nói ở đầu tập đầu tiên và không có phần mở đầu hoặc kết thúc. Rất có thể phần ghi công không bao giờ được đưa vào các tập phim mà ban đầu sẽ được người thông báo liên tục đọc ở cuối mỗi tập.
 
 ## Bản phát hành âm thanh và tài liệu tham khảo {#Audio_release_and_reference}
 
-Đã có một số bản phát hành âm thanh tại nhà của bộ truyện trên băng cassette và CD. Bản phát hành CD [1997](../_/1997.md) bao gồm một CD tặng kèm chứa 9 phút 45 giây nhạc bổ sung ở dạng âm thanh nổi, rõ ràng là *was* được lấy từ băng chính chưa được xóa. Bộ sách năm 1997 còn có cuốn "Hồi ký cá nhân" của nhà sản xuất bộ truyện John Powell, từ đó rút ra một số thông tin trong bài viết này.
+Đã có một số bản phát hành âm thanh tại nhà của bộ truyện trên băng cassette và CD. Bản phát hành CD [1997](../_/1997.md) bao gồm một CD tặng kèm chứa 9 phút 45 giây nhạc bổ sung ở dạng âm thanh nổi, rõ ràng là *was* được lấy từ băng chính chưa được xóa. Bộ phim năm 1997 còn có "Hồi ký cá nhân" của nhà sản xuất loạt phim John Powell, từ đó rút ra một số thông tin trong bài viết này.
 
-Vào [ngày 29 tháng 7](../_/29_July.md), [2008](../_/2008.md), một ấn bản đã được xuất bản bởi BBC AudioBooks America; nó bao gồm các cuộc phỏng vấn với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào [ngày 29 tháng 7](../_/29_July.md), [2008](../_/2008.md), một ấn bản đã được BBC AudioBooks America xuất bản; nó bao gồm các cuộc phỏng vấn với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

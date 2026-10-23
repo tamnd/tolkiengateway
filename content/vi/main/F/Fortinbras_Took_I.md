@@ -51,7 +51,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Fortinbras là con trai của [Ferumbras II](Ferumbras_Took_II.md). Ông thừa kế quyền Thainship sau cái chết của cha mình vào năm [S.R.](../S/Shire_Reckoning.md) [1201](../T/Third_Age_2801.md)và truyền lại nó cho con trai [Gerontius](../G/Gerontius_Took.md) sau khi ông qua đời.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Fortinbras là con trai của [Ferumbras II](Ferumbras_Took_II.md). Ông thừa kế quyền Thainship sau cái chết của cha mình vào năm [S.R.](../S/Shire_Reckoning.md) [1201](../T/Third_Age_2801.md) và truyền lại nó cho con trai [Gerontius](../G/Gerontius_Took.md) sau khi ông qua đời.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

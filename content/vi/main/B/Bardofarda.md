@@ -12,7 +12,7 @@ categories:
   - "Singers"
 ---
 
-**BardOfArda** là một TikToker và người sáng tạo nội dung, chuyên tạo các tiểu phẩm ngắn và bài hát nhại lại *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và [Legendarium](../L/Legendarium.md)của [Tolkien](../T/Tolkien.md). Anh ấy là biên tập viên của podcast Tolkien with Friends.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**BardOfArda** là một TikToker và người sáng tạo nội dung, chuyên tạo các tiểu phẩm ngắn và bài hát nhại lại *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và [Legendarium](../L/Legendarium.md) của [Tolkien](../T/Tolkien.md). Anh ấy là biên tập viên của podcast Tolkien with Friends.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <br> Vào ngày 27 tháng 6 năm 2026, BardOfArda đã đăng lên YouTube một video ASMR dài 25 phút đọc trang của [Tolkien Gateway](../T/Tolkien_Gateway.md) [Rivendell](../R/Rivendell.md) trong khi kiểm tra tài liệu tham khảo và các liên kết liên quan.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

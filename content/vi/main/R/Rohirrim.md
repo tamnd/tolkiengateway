@@ -111,7 +111,7 @@ Rohirrim cao, tóc vàng và hầu hết có mắt xanh. Họ đánh giá cao nh
 
 Rohirrim đã từng tiếp xúc với [Tiên tộc](../E/Elves.md) từ xa xưa và biết đến [Eru](../I/Ilúvatar.md), nhưng cũng giống như Dúnedain họ không thờ phụng ông ở bất kỳ ngôi đền nào. Họ dường như đánh giá cao [Vala](../V/Valar.md) [Oromë](../O/Oromë.md) Thợ săn, người mà họ gọi là [Béma](../O/Oromë.md#History).
 
-Họ đo thời gian bằng lịch lấy từ [Con Người của Thung lũng Anduin](../M/Men_of_the_Vales_of_Anduin.md) và có những điểm tương đồng rõ ràng với [Lịch của Shire](../S/Shire_Calendar.md) và [Bree](../B/Bree_Calendar.md)cũng như với lịch của [Dale](../D/Dale.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Những điểm tương đồng này đã được [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) ghi nhận trong tác phẩm của ông *[Reckoning of Years](Reckoning_of_Years.md)*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Họ đo thời gian bằng lịch lấy từ [Con Người của Thung lũng Anduin](../M/Men_of_the_Vales_of_Anduin.md) và có những điểm tương đồng rõ ràng với [Lịch của Shire](../S/Shire_Calendar.md) và [Bree](../B/Bree_Calendar.md) cũng như với lịch của [Dale](../D/Dale.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Những điểm tương đồng này đã được [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) ghi nhận trong tác phẩm của ông *[Reckoning of Years](Reckoning_of_Years.md)*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 Họ được cai trị bởi dòng dõi các vị vua có nguồn gốc từ Eorl the Young, người đầu tiên đưa họ đến Rohan, và trong thời kỳ chiến tranh, tất cả những người đàn ông tài năng đều cưỡi ngựa đến gặp Muster của Rohan.
 

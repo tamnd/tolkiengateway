@@ -41,7 +41,7 @@ Một đoạn trích từ *Beowulf*, được biểu diễn bởi Tolkien bằng
 
 ## Ảnh hưởng đến di tích {#Influence_on_the_legendarium}
 
-Tolkien đánh giá cao *Beowulf*và điều này ảnh hưởng trực tiếp lẫn gián tiếp đến [tác phẩm giàu trí tưởng tượng](../L/Legendarium.md) của chính anh ấy. Ví dụ: tập trong *[The Hobbit](../T/The_Hobbit.md)* trong đó Bilbo đánh cắp một chiếc cốc từ kho tích trữ của [Smaug](../S/Smaug.md)là sự tôn kính có chủ ý đối với một vụ trộm tương tự trong *Beowulf*.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Tolkien đánh giá cao *Beowulf* và điều này ảnh hưởng trực tiếp lẫn gián tiếp đến [tác phẩm giàu trí tưởng tượng](../L/Legendarium.md) của chính anh ấy. Ví dụ: tập trong *[The Hobbit](../T/The_Hobbit.md)* trong đó Bilbo đánh cắp một chiếc cốc từ kho tích trữ của [Smaug](../S/Smaug.md) là sự tôn kính có chủ ý đối với một vụ trộm tương tự trong *Beowulf*.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 ## Xem thêm {#See_also}
 

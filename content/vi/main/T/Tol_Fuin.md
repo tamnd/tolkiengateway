@@ -39,7 +39,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Khi những đợt sóng tiêu diệt [Beleriand](../B/Beleriand.md) và các khu vực xung quanh nó sau [War of Wrath](../W/War_of_Wrath.md), không phải tất cả các vùng đất phía Tây đều bị mất. Vùng cao nguyên [Dorthonion](../D/Dorthonion.md)và nay được gọi là [Taur-nu-Fuin](<Taur-nu-Fuin_(Dorthonion).md>), một phần đã sống sót sau đợt biển xâm nhập và vẫn tồn tại như một hòn đảo xa bờ biển phía tây của Forlindon.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Khi những đợt sóng tiêu diệt [Beleriand](../B/Beleriand.md) và các khu vực xung quanh nó sau [War of Wrath](../W/War_of_Wrath.md), không phải tất cả các vùng đất phía Tây đều bị mất. Vùng cao nguyên [Dorthonion](../D/Dorthonion.md) và nay được gọi là [Taur-nu-Fuin](<Taur-nu-Fuin_(Dorthonion).md>), một phần đã sống sót sau đợt biển xâm nhập và vẫn tồn tại như một hòn đảo xa bờ biển phía tây của Forlindon.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

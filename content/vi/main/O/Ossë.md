@@ -71,7 +71,7 @@ infobox:
 
 ## Thuộc tính {#Attributes}
 
-Ossë là chư hầu của Ulmo, nhưng anh ta yêu gió và thích các bờ biển và đảo của [Trung Địa](../M/Middle-earth.md)<sup id="cite_ref-s3_1-0" class="reference"><a href="#cite_note-s3-1">[1]</a></sup> hơn vực sâu của chủ nhân mình. Có chút đen tối và bạo lực trong tâm hồn anh ta, có lẽ là sau khi bị [Melkor](../M/Morgoth.md)dụ dỗ, và anh ta thích nổi cơn thịnh nộ trong giông bão bất chấp ý muốn của Ulmo; chỉ có người phối ngẫu của anh ta, [Uinen](../U/Uinen.md), mới có thể kiềm chế được những ham muốn ngông cuồng của anh ta. Anh tuân theo ý muốn của [Mandos](../M/Mandos.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và là bạn của tất cả các thủy thủ, nhưng họ không tin vào tính khí thất thường của anh.<sup id="cite_ref-vala_3-0" class="reference"><a href="#cite_note-vala-3">[3]</a></sup>
+Ossë là chư hầu của Ulmo, nhưng anh ta yêu gió và thích các bờ biển và đảo của [Trung Địa](../M/Middle-earth.md)<sup id="cite_ref-s3_1-0" class="reference"><a href="#cite_note-s3-1">[1]</a></sup> hơn vực sâu của chủ nhân mình. Có chút đen tối và bạo lực trong tâm hồn anh ta, có lẽ là sau khi bị [Melkor](../M/Morgoth.md) dụ dỗ, và anh ta thích nổi cơn thịnh nộ trong giông bão bất chấp ý muốn của Ulmo; chỉ có người phối ngẫu của anh ta, [Uinen](../U/Uinen.md), mới có thể kiềm chế được những ham muốn ngông cuồng của anh ta. Anh tuân theo ý muốn của [Mandos](../M/Mandos.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và là bạn của tất cả các thủy thủ, nhưng họ không tin vào tính khí thất thường của anh.<sup id="cite_ref-vala_3-0" class="reference"><a href="#cite_note-vala-3">[3]</a></sup>
 
 ## Lịch sử {#History}
 
@@ -100,7 +100,7 @@ Vào [Kỷ nguyên thứ hai](../S/Second_Age.md) ông đã nuôi dưỡng hòn 
 
 ## Từ nguyên {#Etymology}
 
-Có ít nhất hai cách giải thích cho cái tên *Ossë*. Trong *[The Etymologies](../T/The_Etymologies.md)*được hiểu là từ [Qenya](../Q/Qenya.md) *osse* ("khủng bố"), xuất phát từ [gốc](../S/Sundocarme.md) GOS ("kinh hoàng").<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Có ít nhất hai cách giải thích cho cái tên *Ossë*. Trong *[The Etymologies](../T/The_Etymologies.md)* được hiểu là từ [Qenya](../Q/Qenya.md) *osse* ("khủng bố"), xuất phát từ [gốc](../S/Sundocarme.md) GOS ("kinh hoàng").<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 Thay vào đó, một ghi chú sau đó liên quan đến cái tên gợi ý rằng đó là một cái tên không có nguồn gốcElvish, bắt nguồn từ [Valarin](../V/Valarin.md) *Oš(o)šai* ("phun, sủi bọt").<sup id="cite_ref-WJ_9-0" class="reference"><a href="#cite_note-WJ-9">[9]</a></sup> Ghi chú tương tự sau đó đề cập rằng tên [Sindarin](../S/Sindarin.md) của Ossë là <i><b>Gaerys</b></i> (cũng chứa phần tử S. *gaer* "dread")<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> và <i><b>Yssion</b></i>.<sup id="cite_ref-WJ_9-1" class="reference"><a href="#cite_note-WJ-9">[9]</a></sup>
 

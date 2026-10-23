@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Theune, Mariet"
 ---
 
-**Mariët Theune** là một nghệ sĩ hâm mộ người hâm mộ đã tạo ra nhiều hình minh họa lấy cảm hứng từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)trong khoảng thời gian 1985-1987.
+**Mariët Theune** là một nghệ sĩ hâm mộ người hâm mộ đã tạo ra nhiều hình minh họa lấy cảm hứng từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong khoảng thời gian 1985-1987.
 
 ## Xem thêm {#See_also}
 

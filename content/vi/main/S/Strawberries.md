@@ -29,13 +29,13 @@ infobox:
 
 **Dâu tây** là loại quả dại được tìm thấy ở một số vùng của [Trung Địa](../M/Middle-earth.md).
 
-[Bilbo Baggins](../B/Bilbo_Baggins.md) đã cố gắng thỏa mãn cơn đói của mình bằng dâu tây dại mọc gần một con suối ở thượng nguồn Vales, khi [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) thoát khỏi [Thị trấn Yêu Tinh](../G/Goblin-town.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> vào đầu [tháng 7](../J/July.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Bilbo Baggins](../B/Bilbo_Baggins.md) đã cố gắng thỏa mãn cơn đói của mình bằng dâu tây dại mọc gần một con suối ở thượng nguồn Vales, khi [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) trốn thoát khỏi [Thị trấn yêu tinh](../G/Goblin-town.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> vào đầu [tháng 7](../J/July.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong những năm cuối [Kỷ Đệ Tam](../T/Third_Age.md), dâu tây là một trong nhiều loại trái cây được [The Shire](../T/The_Shire.md)sản xuất và được giới trẻ [Hobbit](../H/Hobbits.md)yêu thích.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong những năm cuối [Kỷ Đệ Tam](../T/Third_Age.md), dâu tây là một trong nhiều loại trái cây được [The Shire](../T/The_Shire.md) sản xuất và được giới trẻ [Hobbit](../H/Hobbits.md) yêu thích.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Cuộc phiêu lưu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)ở [Thụy Sĩ](Switzerland.md) ở [1911](../_/1911.md) là nguồn cảm hứng cho hành trình từ [Rivendell](../R/Rivendell.md) đến phía bên kia của [Dãy Núi Sương Mù](../M/Misty_Mountains.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> và rất có thể anh ấy đã ăn dâu tây trong thời gian này. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Michael_Coren&amp;action=edit&amp;redlink=1" title="Michael Coren (page does not exist)">Michael Coren</a> lưu ý, "Đối với món tráng miệng, anh ấy thích một món ăn vặt hoặc vào mùa hè, dâu tây với nhiều kem."<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Cuộc phiêu lưu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ở [Thụy Sĩ](Switzerland.md) ở [1911](../_/1911.md) là nguồn cảm hứng cho hành trình từ [Rivendell](../R/Rivendell.md) đến phía bên kia của [Dãy Núi Sương Mù](../M/Misty_Mountains.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> và rất có thể anh ấy đã ăn dâu tây trong thời gian này. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Michael_Coren&amp;action=edit&amp;redlink=1" title="Michael Coren (page does not exist)">Michael Coren</a> lưu ý, "Đối với món tráng miệng, anh ấy thích một món ăn vặt hoặc vào mùa hè, dâu tây với nhiều kem."<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Trong *[J.R.R. Tolkien: Artist and Illustrator](../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)*, số 23 có hình minh họa của J.R.R. Tolkien về một quả dâu tây.
 

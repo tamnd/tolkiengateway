@@ -44,7 +44,7 @@ Khái niệm này phát triển theo một vũ trụ học khác trong *[The Lat
 
 Từ *Ilu* là [Quenya](../Q/Quenya.md) và có nghĩa là "vũ trụ", và là một dạng thay thế của *[ilúvë](Ilúvë.md)*. Chúng đến từ [gốc](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=IL&amp;action=edit&amp;redlink=1" title="IL (page does not exist)">IL</a> có nghĩa là "tất cả".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Ilu không xuất hiện trong [Silmarillion](../S/Silmarillion.md)đã xuất bản, nhưng dạng thay thế *[ilúvë](Ilúvë.md)* vẫn tồn tại, như trong tên *[Ilúvatar](Ilúvatar.md)*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Ilu không xuất hiện trong [Silmarillion](../S/Silmarillion.md) đã xuất bản, nhưng dạng thay thế *[ilúvë](Ilúvë.md)* vẫn tồn tại, như trong tên *[Ilúvatar](Ilúvatar.md)*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

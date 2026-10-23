@@ -21,7 +21,7 @@ sort_keys:
 
 Nó cũng xuất hiện dưới dạng danh từ: *airë-* được hiểu là "thánh thiện",<sup id="cite_ref-PE17_2-1" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup> *airë* (*airē*) được hiểu là "thánh thiện, thánh thiện",<sup id="cite_ref-Eldarin_3-0" class="reference"><a href="#cite_note-Eldarin-3">[3]</a></sup> và *airë* được hiểu là "thánh thiêng".<sup id="cite_ref-Shibb_1-1" class="reference"><a href="#cite_note-Shibb-1">[1]</a></sup>
 
-Người ta nói rằng [Eldar](../E/Eldar.md) đã sử dụng từ *Airë* làm tiêu đề địa chỉ cho [Valar](../V/Valar.md) và [Maiar](../M/Maiar.md)lớn hơn.<sup id="cite_ref-PE17_2-2" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup> Một ví dụ là [Varda](../V/Varda.md), người được gọi là *Airë [Tári](../T/Tári.md)*, "thánh nữ hoàng"<sup id="cite_ref-Shibb_1-2" class="reference"><a href="#cite_note-Shibb-1">[1]</a></sup> (xem thêm *airetári* trong Lời than thở của [Galadriel](../N/Namárië.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>).
+Người ta nói rằng [Eldar](../E/Eldar.md) đã sử dụng từ *Airë* làm tiêu đề địa chỉ cho [Valar](../V/Valar.md) và [Maiar](../M/Maiar.md) lớn hơn.<sup id="cite_ref-PE17_2-2" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup> Một ví dụ là [Varda](../V/Varda.md), người được gọi là *Airë [Tári](../T/Tári.md)*, "thánh nữ hoàng"<sup id="cite_ref-Shibb_1-2" class="reference"><a href="#cite_note-Shibb-1">[1]</a></sup> (xem thêm *airetári* trong Lời than thở của [Galadriel](../N/Namárië.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>).
 
 ## Từ nguyên {#Etymology}
 

@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>The Passing of the Grey Company</b></i> là ca khúc thứ ba trong album [Minas Morgul](<../M/Minas_Morgul_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ chương [cùng tên](The_Passing_of_the_Grey_Company.md) trong [The Return of the King](The_Return_of_the_King.md). Lời bài hát đề cập trực tiếp đến việc [Aragorn đi vào Con đường của người chết](../A/Aragorn_Takes_the_Paths_of_the_Dead.md), bao gồm [Grey Company](../G/Grey_Company.md), [Tảng đá Erech](../S/Stone_of_Erech.md)và [Những kẻ vi phạm lời thề](../O/Oathbreakers.md).
+<i><b>The Passing of the Grey Company</b></i> là ca khúc thứ ba trong album [Minas Morgul](<../M/Minas_Morgul_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ chương [cùng tên](The_Passing_of_the_Grey_Company.md) trong [The Return of the King](The_Return_of_the_King.md). Lời bài hát đề cập trực tiếp đến việc [Aragorn đi vào Con đường của người chết](../A/Aragorn_Takes_the_Paths_of_the_Dead.md), bao gồm [Grey Company](../G/Grey_Company.md), [Tảng đá Erech](../S/Stone_of_Erech.md) và [Những kẻ vi phạm lời thề](../O/Oathbreakers.md).
 
 ## Lời bài hát {#Lyrics}
 

@@ -29,7 +29,7 @@ categories:
 
 ## Phân tích {#Analysis}
 
-Cùng với *[The Flight of the Noldoli](../T/The_Flight_of_the_Noldoli_from_Valinor.md)* và *[The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)*, đây là đoạn thơ ám chỉ khác liên quan đến vấn đề của *[Lost Tales](../L/Lost_Tales.md)*, nhưng đây là giai đoạn sáng tác đầu tiên và cực kỳ thô sơ. Nó kể nhanh về [Sự sụp đổ của Gondolin](Fall_of_Gondolin.md), cuộc trốn thoát của những kẻ chạy trốn xuống [đường hầm bí mật](../I/Idril's_secret_way.md) và chuyến bay tại [Cristhorn](../C/Cristhorn.md), kết thúc bằng chuyến lang thang dài trong vùng hoang dã sau đó. Những hành động này sẽ đóng vai trò như lời giới thiệu về Lay. Điểm khác biệt duy nhất đối với "[The Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)" là: Cristhorn không ở phía nam của [Gondolin](../G/Gondolin.md)mà ở phía bắc, và những người lưu vong đã tìm kiếm [Sirion](../S/Sirion.md) trong suốt ba mươi mùa trăng.<sup id="cite_ref-LB_1-1" class="reference"><a href="#cite_note-LB-1">[1]</a></sup>
+Cùng với *[The Flight of the Noldoli](../T/The_Flight_of_the_Noldoli_from_Valinor.md)* và *[The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)*, đây là đoạn thơ ám chỉ khác liên quan đến vấn đề của *[Lost Tales](../L/Lost_Tales.md)*, nhưng đây là giai đoạn sáng tác đầu tiên và cực kỳ thô sơ. Nó kể nhanh về [Sự sụp đổ của Gondolin](Fall_of_Gondolin.md), cuộc trốn thoát của những kẻ chạy trốn xuống [đường hầm bí mật](../I/Idril's_secret_way.md) và chuyến bay tại [Cristhorn](../C/Cristhorn.md), kết thúc bằng chuyến lang thang dài trong vùng hoang dã sau đó. Những hành động này sẽ đóng vai trò như lời giới thiệu về Lay. Điểm khác biệt duy nhất đối với "[The Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)" là: Cristhorn không ở phía nam của [Gondolin](../G/Gondolin.md) mà ở phía bắc, và những người lưu vong đã tìm kiếm [Sirion](../S/Sirion.md) trong suốt ba mươi mùa trăng.<sup id="cite_ref-LB_1-1" class="reference"><a href="#cite_note-LB-1">[1]</a></sup>
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -46,7 +46,7 @@ and its whitehewn walls were whispering ash.
 ## Xem thêm {#See_also}
 
 - [Eärendillinwë](../E/Eärendillinwë.md)
-- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 <span></span>
 

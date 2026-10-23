@@ -99,7 +99,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../G/Gléowine.md" title="Gléowine">Gléowine</a>&#39;s <a href="../O/Out_of_doubt,_out_of_dark,_to_the_day’s_rising.md" title="Out of doubt, out of dark, to the day’s rising">poem</a> in <i><a href="The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../M/Many_Partings.md" title="Many Partings">Many Partings</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Théoden** là [Vua Rohan](../K/Kings_of_Rohan.md)thứ mười bảy, trị vì trong 39 năm, từ [T.A.](Third_Age.md) [2980](Third_Age_2980.md) cho đến khi qua đời. Anh ấy là người cuối cùng của Tuyến thứ hai.<sup id="cite_ref-Mark_1-2" class="reference"><a href="#cite_note-Mark-1">[1]</a></sup>
+**Théoden** là [Vua Rohan](../K/Kings_of_Rohan.md) thứ mười bảy, trị vì trong 39 năm, từ [T.A.](Third_Age.md) [2980](Third_Age_2980.md) cho đến khi qua đời. Anh ấy là người cuối cùng của Tuyến thứ hai.<sup id="cite_ref-Mark_1-2" class="reference"><a href="#cite_note-Mark-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
@@ -113,7 +113,7 @@ Théoden rất yêu thương em gái mình [Théodwyn](Théodwyn.md). Sau khi v�
 
 Théoden trở thành vua sau cái chết của cha mình vào năm [T.A.](Third_Age.md) [2980](Third_Age_2980.md).<sup id="cite_ref-Mark_1-6" class="reference"><a href="#cite_note-Mark-1">[1]</a></sup>
 
-Vào [T.A.](Third_Age.md) [3014](Third_Age_3014.md), sức khỏe của Théoden bắt đầu suy giảm do bùa chú của [Saruman phe Trắng](../S/Saruman.md).<sup id="cite_ref-Mark_1-7" class="reference"><a href="#cite_note-Mark-1">[1]</a></sup> Các yếu tố khác có thể góp phần khiến tình trạng của ông trở nên tồi tệ hơn, chẳng hạn như tuổi già, khi đó ông đã 66 tuổi. Mặc dù vậy, Rohirrim thường sống qua 80 tuổi. Sự suy tàn của ông cũng có thể được đẩy nhanh bởi chất độc tinh vi do [Gríma](../G/Gríma.md)quản lý.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup> Gríma (hoặc *Wormtongue* như hầu hết những người khác trong [Mark](../R/Riddermark.md) gọi anh ta) đã bí mật phục vụ Saruman.
+Vào [T.A.](Third_Age.md) [3014](Third_Age_3014.md), sức khỏe của Théoden bắt đầu suy giảm do bùa chú của [Saruman phe Trắng](../S/Saruman.md).<sup id="cite_ref-Mark_1-7" class="reference"><a href="#cite_note-Mark-1">[1]</a></sup> Các yếu tố khác có thể góp phần khiến tình trạng của ông trở nên tồi tệ hơn, chẳng hạn như tuổi già, khi đó ông đã 66 tuổi. Mặc dù vậy, Rohirrim thường sống qua 80 tuổi. Sự suy tàn của ông cũng có thể được đẩy nhanh bởi chất độc tinh vi do [Gríma](../G/Gríma.md) quản lý.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup> Gríma (hoặc *Wormtongue* như hầu hết những người khác trong [Mark](../R/Riddermark.md) gọi anh ta) đã bí mật phục vụ Saruman.
 
 ### Cuộc chiến Nhẫn {#War_of_the_Ring}
 
@@ -163,7 +163,7 @@ Théoden có mái tóc dài được tết lại<sup id="cite_ref-18" class="ref
 
 Biệt danh *Ednew* của ông có nguồn gốc từ chữ tiếng Anh cổ *edneowe*, có nghĩa là "đổi mới".<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[26]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[27]</a></sup>
 
-Trong từ nguyên hư cấu của Tolkien, tên *Théoden* là bản dịch tiếng Anh cổ của [Rohanese](../R/Rohanese.md) *Tûrac*gốc, một từ cũ cho Vua.<sup id="cite_ref-PM_29-0" class="reference"><a href="#cite_note-PM-29">[28]</a></sup>
+Trong từ nguyên hư cấu của Tolkien, tên *Théoden* là bản dịch tiếng Anh cổ của [Rohanese](../R/Rohanese.md) *Tûrac* gốc, một từ cũ cho Vua.<sup id="cite_ref-PM_29-0" class="reference"><a href="#cite_note-PM-29">[28]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

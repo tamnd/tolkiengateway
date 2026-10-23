@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien và vợ anh ta đã rất thích thú với lời kể của [Christopher Tolkien](../C/Christopher_Tolkien.md)về Lễ chắp cánh. Ông tự hỏi làm thế nào con trai mình có thể nhìn thấy và nhớ được một câu trích dẫn trong cuốn sách Gnomics của Exeter. Nhìn thấy Anglo-Saxon mà Christopher viết đã khiến anh vui lên.
+Tolkien và vợ anh ta đã rất thích thú với lời kể của [Christopher Tolkien](../C/Christopher_Tolkien.md) về Lễ chắp cánh. Ông tự hỏi làm thế nào con trai mình có thể nhìn thấy và nhớ được một câu trích dẫn trong cuốn sách Gnomics của Exeter. Nhìn thấy Anglo-Saxon mà Christopher viết đã khiến anh vui lên.
 
 Một sự kiện buổi tối [Inklings](../I/Inklings.md) đã diễn ra. Anh ấy đã đến Mitre lúc 8 giờ, tham gia [C.W.](../C/Charles_Williams.md) và [Đô đốc đỏ](../R/Robert_Havard.md), uống một chút, sau đó tham gia [C.S.L](../C/C.S._Lewis.md) và [Owen Barfield](../O/Owen_Barfield.md). C.S.L. đã bay cao, tất cả đều ở trạng thái tốt và O.B. là người duy nhất có thể xử lý C.S.L. Một buổi tối gây tranh cãi nhất mà người ngoài cuộc có thể nghĩ rằng một cuộc gặp gỡ của những kẻ thù đã ngã xuống tung ra những lời lăng mạ chết người trước khi rút súng. Khán giả đã từ chối nghe C.S.L. diễn thuyết và định nghĩa "Cơ hội". Anh ấy đã nói, "Nếu tối nay cậu chết, cậu sẽ bị cắt đứt thông tin về Chance ít hơn những gì cậu có thể biết." [Warnie](../W/Warren_Lewis.md) đáp lại, "Mỗi đám mây đều có lớp lót bạc." Barfield đã diễn một vở kịch ngắn về Jason và Medea, hai bài sonnet xuất sắc đã được đọc, "những bóng ma" được thảo luận và tính chất đặc biệt của các bài thánh ca đã được nói ra. Tolkien đã ở lại đến 12h30.
 

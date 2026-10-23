@@ -20,7 +20,7 @@ images:
 
 ## Trung Địa {#Middle-earth}
 
-- **[Khazad-dûm](../M/Moria.md)hoặc Moria, một thành phố [người lùn](../D/Dwarves.md) ở [Dãy Núi Sương Mù](../M/Misty_Mountains.md).**
+- **[Khazad-dûm](../M/Moria.md) hoặc Moria, một thành phố [người lùn](../D/Dwarves.md) ở [Dãy Núi Sương Mù](../M/Misty_Mountains.md).**
 
 ## Chương {#Chapters}
 

@@ -27,7 +27,7 @@ Trong khi thuật ngữ này cũng thường được sử dụng để bao gồ
 
 ### Lời nguyền Amok {#Amok_Curse}
 
-Một bùa chú rune làm suy yếu tinh thần của nạn nhân và buộc họ phải truyền rune cho người khác. Nó xuất hiện vào [Fornost](../F/Fornost.md) vào năm [T.A.](../T/Third_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Age_1781&amp;action=edit&amp;redlink=1" title="Third Age 1781 (page does not exist)">1781</a> qua những bức thư giả mạo bọc da được cho là được gửi từ [Gondor](../G/Gondor.md)và ảnh hưởng nặng nề đến các Nhà tiên tri của Fornost. Những tài liệu bị nguyền rủa vẫn còn xuất hiện trong đám kho báu vào thời điểm Cuộc chiến Nhẫn.
+Một bùa chú rune làm suy yếu tinh thần của nạn nhân và buộc họ phải truyền rune cho người khác. Nó xuất hiện vào [Fornost](../F/Fornost.md) vào năm [T.A.](../T/Third_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Age_1781&amp;action=edit&amp;redlink=1" title="Third Age 1781 (page does not exist)">1781</a> qua những bức thư giả mạo bọc da được cho là được gửi từ [Gondor](../G/Gondor.md) và ảnh hưởng nặng nề đến các Nhà tiên tri của Fornost. Những tài liệu bị nguyền rủa vẫn còn xuất hiện trong đám kho báu vào thời điểm Cuộc chiến Nhẫn.
 
 ### Mắt đỏ cuồng loạn {#Bloodeye_Ravish}
 

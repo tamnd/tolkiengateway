@@ -48,7 +48,7 @@ infobox:
 
 Belemir là con trai của [Beldir](Beldir.md) và là chồng của [Adanel](../A/Adanel.md) của [Nhà Marach](../H/House_of_Hador.md). Ông là cha của [Beren](<Beren_(son_of_Belemir).md>), ông nội của [Beren Erchamion](Beren.md), anh hùng của Kỷ Đệ Nhất.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Giữa anh và người em họ [Andreth](../A/Andreth.md)có một tình yêu sâu sắc, và cô ấy đã ở rất lâu trong nhà anh. Khi ở đó, Andreth đã học được nhiều truyền thuyết về dân gian [Marach](../M/Marach.md) từ Adanel.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Giữa anh và người em họ [Andreth](../A/Andreth.md) có một tình yêu sâu sắc, và cô ấy đã ở rất lâu trong nhà anh. Khi ở đó, Andreth đã học được nhiều truyền thuyết về dân gian [Marach](../M/Marach.md) từ Adanel.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Trong [F.A.](../F/First_Age.md) [409](../F/First_Age_409.md), [Finrod](../F/Finrod.md) là khách đến nhà anh ta và [đã tổ chức một cuộc tranh luận kéo dài](../A/Athrabeth_Finrod_ah_Andreth.md) với Andreth.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

@@ -111,7 +111,7 @@ images:
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/Q/Quentin_Lowagie_-_Arda_in_the_Second_Age.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/de/Quentin_Lowagie_-_Arda_in_the_Second_Age.png/250px-Quentin_Lowagie_-_Arda_in_the_Second_Age.png" decoding="async" loading="lazy" width="250" height="266" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/de/Quentin_Lowagie_-_Arda_in_the_Second_Age.png/375px-Quentin_Lowagie_-_Arda_in_the_Second_Age.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/de/Quentin_Lowagie_-_Arda_in_the_Second_Age.png/500px-Quentin_Lowagie_-_Arda_in_the_Second_Age.png 2x" data-file-width="1539" data-file-height="1636"/></a><figcaption><i>Arda in the Second Age</i> by <a href="../../category/I/Images_by_Quentin_Lowagie.md" title="Category:Images by Quentin Lowagie">Quentin Lowagie</a></figcaption></figure>
 
-**Thời đại thứ hai**, thường được viết tắt là **S.A.**, bắt đầu sau sự tàn phá của [Beleriand](../B/Beleriand.md) trong [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md), cũng như việc hành quyết và trục xuất [Morgoth](../M/Morgoth.md) từ [Eä](../E/Eä.md) vào [Hư Không](../V/Void.md)sau đó.
+**Thời đại thứ hai**, thường được viết tắt là **S.A.**, bắt đầu sau sự tàn phá của [Beleriand](../B/Beleriand.md) trong [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md), cũng như việc hành quyết và trục xuất [Morgoth](../M/Morgoth.md) từ [Eä](../E/Eä.md) vào [Hư Không](../V/Void.md) sau đó.
 
 Sự thành lập của [Lindon](../L/Lindon.md) (từ tàn tích của [Ossiriand](../O/Ossiriand.md)) và sự hình thành của [Númenor](../N/Númenor.md), hai vương quốc [Elvish](../E/Elves.md) và [Mannish](../M/Men.md) lớn của Thời đại, diễn ra ngay sau đó.
 

@@ -36,7 +36,7 @@ images:
 
 **Mirrormere** là một hồ nước tối ở [Thung lũng Dimrill](../D/Dimrill_Dale.md)<sup id="cite_ref-South_1-0" class="reference"><a href="#cite_note-South-1">[1]</a></sup> ở phía đông của [Dãy Núi Sương Mù](Misty_Mountains.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Hồ nằm cách [Cổng Đông](../G/Great_Gates.md) của [Khazad-dûm](Moria.md)chưa đầy một dặm. Nó dài và hình bầu dục với hình dạng giống như một cái đầu giáo lớn. Vùng nước sâu Mirrormere có màu xanh đậm như bầu trời buổi tối trong vắt nhìn từ căn phòng có ánh đèn và có bề mặt tĩnh lặng. Gần đầu phía nam của hồ có một cái cột với phần đỉnh bị gãy, được gọi là [Hòn đá Durin](../D/Durin's_Stone.md). Cách mặt hồ không xa là một con suối với làn nước trong vắt, lạnh như băng, là nguồn của dòng sông [Silverlode](../C/Celebrant.md)<sup id="cite_ref-Lorien_3-0" class="reference"><a href="#cite_note-Lorien-3">[3]</a></sup>
+Hồ nằm cách [Cổng Đông](../G/Great_Gates.md) của [Khazad-dûm](Moria.md) chưa đầy một dặm. Nó dài và hình bầu dục với hình dạng giống như một cái đầu giáo lớn. Vùng nước sâu Mirrormere có màu xanh đậm như bầu trời buổi tối trong vắt nhìn từ căn phòng có ánh đèn và có bề mặt tĩnh lặng. Gần đầu phía nam của hồ có một cái cột với phần đỉnh bị gãy, được gọi là [Hòn đá Durin](../D/Durin's_Stone.md). Cách mặt hồ không xa là một con suối với làn nước trong vắt, lạnh như băng, là nguồn của dòng sông [Silverlode](../C/Celebrant.md)<sup id="cite_ref-Lorien_3-0" class="reference"><a href="#cite_note-Lorien-3">[3]</a></sup>
 
 ## Lịch sử {#History}
 

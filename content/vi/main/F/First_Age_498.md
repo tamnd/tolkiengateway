@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - **[Ngày giữa năm](../M/Mid-year's_Day.md)** - Sau khi đính hôn vào mùa xuân, [Túrin Turambar](../T/Túrin.md) kết hôn <a class="mw-disambig" href="../N/Niënor_Níniel.md" title="Niënor Níniel">Niënor Níniel</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-[Orc](../O/Orcs.md) của - [Glaurung](../G/Glaurung.md)bắt đầu đột kích [Brethil](../B/Brethil.md). Túrin ban đầu từ chối tham chiến nhưng bị [Dorlas](../D/Dorlas.md) thuyết phục. Túrin chiếm [Gurthang](../G/Gurthang.md) và đánh bại lũ Orc; tin tức về Hắc Kiếm đến Glaurung.<sup id="cite_ref-GA_2-0" class="reference"><a href="#cite_note-GA-2">[2]</a></sup>
+[Orc](../O/Orcs.md) của - [Glaurung](../G/Glaurung.md) bắt đầu đột kích [Brethil](../B/Brethil.md). Túrin ban đầu từ chối tham chiến nhưng bị [Dorlas](../D/Dorlas.md) thuyết phục. Túrin chiếm [Gurthang](../G/Gurthang.md) và đánh bại lũ Orc; tin tức về Hắc Kiếm đến Glaurung.<sup id="cite_ref-GA_2-0" class="reference"><a href="#cite_note-GA-2">[2]</a></sup>
 
 <span></span>
 

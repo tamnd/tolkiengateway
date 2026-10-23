@@ -16,7 +16,7 @@ categories:
 
 ## Lịch sử {#History}
 
-Sau khi người vợ đầu [Míriel](../M/Míriel.md) của [Finwë](../F/Finwë.md)qua đời, ông sống trong đau buồn suốt nhiều năm. [Ingwë](../I/Ingwë.md), với mong muốn làm nhẹ lòng anh, đã mời anh rời khỏi [Túna](../T/Túna.md) và đến thăm anh, nơi ánh sáng của [Hai Cây](../T/Two_Trees.md) có thể mang lại cho anh sự chữa lành. Khi ông đến gần ngôi nhà của Ingwë trên sườn phía tây của [Oiolossë](../O/Oiolossë.md), con gái của Ingwë [Indis](../I/Indis.md) nhìn thấy Finwë và hát một bài hát vui mừng cho ông, "như bài hát của *lirulin* trên bầu trời." Nhìn thấy Indis lúc này đã khiến Finwë phải lòng cô và một năm sau hai người kết hôn.<sup id="cite_ref-Finwe_1-1" class="reference"><a href="#cite_note-Finwe-1">[1]</a></sup>
+Sau khi người vợ đầu [Míriel](../M/Míriel.md) của [Finwë](../F/Finwë.md) qua đời, ông sống trong đau buồn suốt nhiều năm. [Ingwë](../I/Ingwë.md), với mong muốn làm nhẹ lòng anh, đã mời anh rời khỏi [Túna](../T/Túna.md) và đến thăm anh, nơi ánh sáng của [Hai Cây](../T/Two_Trees.md) có thể mang lại cho anh sự chữa lành. Khi ông đến gần ngôi nhà của Ingwë trên sườn phía tây của [Oiolossë](../O/Oiolossë.md), con gái của Ingwë [Indis](../I/Indis.md) nhìn thấy Finwë và hát một bài hát vui mừng cho ông, "như bài hát của *lirulin* trên bầu trời." Nhìn thấy Indis lúc này đã khiến Finwë phải lòng cô và một năm sau hai người kết hôn.<sup id="cite_ref-Finwe_1-1" class="reference"><a href="#cite_note-Finwe-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

@@ -28,7 +28,7 @@ file:
 
 Ảnh ghép các bản đồ của Fonstad, chỉnh sửa tất cả tên và chữ cái cũng như những thay đổi khác để gắn kết các bản đồ lại với nhau. The Shire là ảnh ghép từ bản đồ shire khu vực cũng của Fonstad, nhưng không hiển thị rõ ràng ở độ phân giải đó. Một số yếu tố từ bản đồ gốc của CT đã được sử dụng. Các hòn đảo được đặt theo vị trí tương ứng Beleriand.
 
-AFAIK đây là bản đồ duy nhất kết hợp cực bắc của Trung Địa được cung cấp trong *[The Treason of Isengard](../../main/T/The_Treason_of_Isengard.md)và là bản đồ duy nhất bao gồm cả 3 hòn đảo ngoài khơi bờ biển M-e và cả Harad.*
+AFAIK đây là bản đồ duy nhất kết hợp cực bắc của Trung Địa được cung cấp trong *[The Treason of Isengard](../../main/T/The_Treason_of_Isengard.md) và là bản đồ duy nhất bao gồm cả 3 hòn đảo ngoài khơi bờ biển M-e và cả Harad.*
 
 ## Giấy phép {#Licensing}
 

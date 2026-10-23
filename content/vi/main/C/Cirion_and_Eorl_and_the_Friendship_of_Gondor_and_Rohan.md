@@ -48,7 +48,7 @@ langlinks:
 <li><a href="../T/The_Palantíri.md" title="The Palantíri">The Palantíri</a></li></ul>
 </td></tr></tbody></table>
 
-**Cirion và Eorl và Tình bạn của Gondor và Rohan** là một chương trong cuốn sách *[Unfinished Tales](../U/Unfinished_Tales.md)*, được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và được con trai ông, [Christopher Tolkien](Christopher_Tolkien.md)xuất bản sau khi qua đời. Chương này tìm hiểu sự phát triển của quốc gia [Rohan](../R/Rohan.md) và tình bạn của quốc gia này với [Gondor](../G/Gondor.md). Chúng ta thấy [Lời thề của Eorl](../O/Oath_of_Eorl.md) trên [Ngôi mộ Elendil](../T/Tomb_of_Elendil.md) và lời giải thích về [Truyền thống Isildur](../T/Tradition_of_Isildur.md).
+**Cirion và Eorl và Tình bạn của Gondor và Rohan** là một chương trong cuốn sách *[Unfinished Tales](../U/Unfinished_Tales.md)*, được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và được con trai ông, [Christopher Tolkien](Christopher_Tolkien.md) xuất bản sau khi qua đời. Chương này tìm hiểu sự phát triển của quốc gia [Rohan](../R/Rohan.md) và tình bạn của quốc gia này với [Gondor](../G/Gondor.md). Chúng ta thấy [Lời thề của Eorl](../O/Oath_of_Eorl.md) trên [Ngôi mộ Elendil](../T/Tomb_of_Elendil.md) và lời giải thích về [Truyền thống Isildur](../T/Tradition_of_Isildur.md).
 
 ## Tóm tắt {#Synopsis}
 
@@ -64,7 +64,7 @@ Tại [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md), [miền đông](
 
 ### Chuyến đi của Eorl {#The_Ride_of_Eorl}
 
-Vào những ngày Eärnil II, Éothéod di chuyển đến vùng đất phía bắc Mirkwood, giữa [Dãy Núi Sương Mù](../M/Misty_Mountains.md) và [Forest River](../F/Forest_River.md), để thoát khỏi cái bóng của [Dol Guldur](../D/Dol_Guldur.md). Trong [2489](../T/Third_Age_2489.md), Cirion trở thành [Quản lý của Gondor](../S/Steward_of_Gondor.md), và nhanh chóng nhận ra rằng những kẻ thù mới đang tràn ra từ phía đông. Mùa đông năm 2509, [Balchoth](../B/Balchoth.md)liên minh với [Orc](../O/Orcs.md)chuẩn bị tấn công Gondor dọc theo mái hiên phía nam Mirkwood. Cirion đã cử sáu người đưa tin đến [Eorl](../E/Eorl.md), Lãnh chúa của Éothéod để nhờ giúp đỡ. Cirion sau đó chỉ huy một lực lượng lớn nhất có thể và dẫn nó về phía bắc tới [Calenardhon](Calenardhon.md).
+Vào những ngày Eärnil II, Éothéod di chuyển đến vùng đất phía bắc Mirkwood, giữa [Dãy Núi Sương Mù](../M/Misty_Mountains.md) và [Forest River](../F/Forest_River.md), để thoát khỏi cái bóng của [Dol Guldur](../D/Dol_Guldur.md). Trong [2489](../T/Third_Age_2489.md), Cirion trở thành [Quản lý của Gondor](../S/Steward_of_Gondor.md), và nhanh chóng nhận ra rằng những kẻ thù mới đang tràn ra từ phía đông. Mùa đông năm 2509, [Balchoth](../B/Balchoth.md) liên minh với [Orc](../O/Orcs.md) chuẩn bị tấn công Gondor dọc theo mái hiên phía nam Mirkwood. Cirion đã cử sáu người đưa tin đến [Eorl](../E/Eorl.md), Lãnh chúa của Éothéod để nhờ giúp đỡ. Cirion sau đó chỉ huy một lực lượng lớn nhất có thể và dẫn nó về phía bắc tới [Calenardhon](Calenardhon.md).
 
 Chỉ một trong sáu người đưa tin, [Borondir Udalraph](../B/Borondir_Udalraph.md), đến được Éothéod, vì vùng đất giữa đã trở nên nguy hiểm. Khi Eorl nghe được tin nhắn này, anh ta đã tập hợp một lượng lớn các kỵ sĩ và cung thủ có vũ trang mà anh ta có thể tập hợp được, và với sự hướng dẫn của Borondir, đưa họ đến nơi đội quân của Gondor đang chiến đấu với Balchoth. Đây là [Trận chiến trên Cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md), và người của Gondor đã thua. Với sự xuất hiện của Eorl, số phận đã đảo ngược và Balchoth bị đẩy ra ngoài.
 

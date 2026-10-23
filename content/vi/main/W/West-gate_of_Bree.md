@@ -36,7 +36,7 @@ Cổng Phương Tây là một trong hai lỗ của hàng rào bao quanh Bree, t
 
 ## Lịch sử {#History}
 
-[Frodo](../F/Frodo_Baggins.md), [Merry](../M/Meriadoc_Brandybuck.md), [Pippin](../P/Peregrin_Took.md)và [Sam](../S/Samwise_Gamgee.md) đã đến cổng Phương Tây vào ngày [29 tháng Chín](../_/29_September.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> sau khi trời tối. Harry Goatleaf đang ngồi trong một ngôi nhà nghỉ bên ngoài cổng nhưng khi hai hobbit đến, anh ấy nhảy lên, lấy một chiếc đèn lồng và nhìn qua cổng. Ông tra hỏi các du khách trước khi cho phép họ vào. Sau khi các hobbit rời đi, một bóng đen trèo qua cổng mà Harry không hề hay biết.<sup id="cite_ref-Pony_1-2" class="reference"><a href="#cite_note-Pony-1">[1]</a></sup>
+[Frodo](../F/Frodo_Baggins.md), [Merry](../M/Meriadoc_Brandybuck.md), [Pippin](../P/Peregrin_Took.md) và [Sam](../S/Samwise_Gamgee.md) đã đến cổng Phương Tây vào ngày [29 tháng Chín](../_/29_September.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> sau khi trời tối. Harry Goatleaf đang ngồi trong một ngôi nhà nghỉ bên ngoài cổng nhưng khi hai hobbit đến, anh ấy nhảy lên, lấy một chiếc đèn lồng và nhìn qua cổng. Ông tra hỏi các du khách trước khi cho phép họ vào. Sau khi các hobbit rời đi, một bóng đen trèo qua cổng mà Harry không hề hay biết.<sup id="cite_ref-Pony_1-2" class="reference"><a href="#cite_note-Pony-1">[1]</a></sup>
 
 Sau đó [Strider](../A/Aragorn.md) nói với các hobbit rằng [Kỵ sĩ Đen](../N/Nazgûl.md) đã đến thăm Harry Goatleaf tại cổng Phương Tây vào thứ Hai<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> ([27 tháng Chín](../_/27_September.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>).
 
@@ -44,7 +44,7 @@ Sau Cuộc chiến Nhẫn bốn hobbit quay trở lại Bree trên hành trình 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The West Gate is one of the two main entrances to Bree-town. It is a major hub for stable-master travel to northern <a href="../E/Eriador.md" title="Eriador">Eriador</a> locations.</dd></dl>
 

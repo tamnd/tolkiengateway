@@ -25,7 +25,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Terence_Tiller"
 ---
 
-**Terence Rogers Tiller** ([tháng Chín 19](../_/19_September.md), [1916](../_/1916.md) - [24 tháng 12](../_/24_December.md), [1987](../_/1987.md)) là một nhà thơ và nhà sản xuất đài phát thanh người Anh. Anh ấy đã chuyển thể *[The Lord of the Rings](The_Lord_of_the_Rings.md)* cho một [loạt phim phát thanh](<The_Lord_of_the_Rings_(1956_radio_series).md>) trong [1955](../_/1955.md)mà [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) không thích lắm, như đã đọc trong [Thư](The_Letters_of_J.R.R._Tolkien.md) [175](../L/Letter_175.md), [176](../L/Letter_176.md), [177](../L/Letter_177.md), [194](../L/Letter_194.md) và [198](../L/Letter_198.md).
+**Terence Rogers Tiller** ([tháng Chín 19](../_/19_September.md), [1916](../_/1916.md) - [24 tháng 12](../_/24_December.md), [1987](../_/1987.md)) là một nhà thơ và nhà sản xuất đài phát thanh người Anh. Anh ấy đã chuyển thể *[The Lord of the Rings](The_Lord_of_the_Rings.md)* cho một [loạt phim phát thanh](<The_Lord_of_the_Rings_(1956_radio_series).md>) trong [1955](../_/1955.md) mà [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) không thích lắm, như đã đọc trong [Thư](The_Letters_of_J.R.R._Tolkien.md) [175](../L/Letter_175.md), [176](../L/Letter_176.md), [177](../L/Letter_177.md), [194](../L/Letter_194.md) và [198](../L/Letter_198.md).
 
 ## Xem thêm {#See_also}
 

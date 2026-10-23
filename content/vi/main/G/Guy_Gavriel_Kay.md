@@ -51,11 +51,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Guy_Gavriel_Kay.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b6/Guy_Gavriel_Kay.jpg/320px-Guy_Gavriel_Kay.jpg" decoding="async" loading="lazy" width="320" height="411" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b6/Guy_Gavriel_Kay.jpg 1.5x" data-file-width="350" data-file-height="449"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Guy Gavriel Kay</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/7_November.md" title="7 November">7 November</a> <a href="../_/1954.md" title="1954">1954</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Canada</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.brightweavings.com/" rel="noreferrer noopener" target="_blank">Official website</a></td></tr></tbody></table>
 
-**Guy Gavriel Kay** ([7 tháng 11](../_/7_November.md) [1954](../_/1954.md)) là một tác giả người Canada đã chuyển đến [Oxford](../O/Oxford.md) ở [1974](../_/1974.md) để hỗ trợ [Christopher Tolkien](../C/Christopher_Tolkien.md) xuất bản *[The Silmarillion](../T/The_Silmarillion.md)*. Kể từ đó, Kay đã trở thành một tác giả truyện giả tưởng từng đoạt nhiều giải thưởng.<sup id="cite_ref-FBC_1-0" class="reference"><a href="#cite_note-FBC-1">[1]</a></sup>
+**Guy Gavriel Kay** ([7 November](../_/7_November.md) [1954](../_/1954.md)) là một tác giả người Canada, ông chuyển đến [Oxford](../O/Oxford.md) vào năm [1974](../_/1974.md) để hỗ trợ [Christopher Tolkien](../C/Christopher_Tolkien.md) trong việc xuất bản *[The Silmarillion](../T/The_Silmarillion.md)*. Kể từ đó, Kay đã trở thành một tác giả fantasy giành được nhiều giải thưởng.<sup id="cite_ref-FBC_1-0" class="reference"><a href="#cite_note-FBC-1">[1]</a></sup>
 
-## Làm việc trên *The Silmarillion* {#Work_on_The_Silmarillion}
+## Công việc biên soạn *The Silmarillion* {#Work_on_The_Silmarillion}
 
-Christopher Tolkien đã nhận xét rằng "hầu hết mọi thay đổi đáng kể" được thực hiện đối với các bản thảo của cha ông để xuất bản *The Silmarillion* vào năm 1977 là:
+Christopher Tolkien từng nhận xét rằng “gần như mọi thay đổi đáng kể” được thực hiện đối với các bản thảo của cha ông để xuất bản thành *The Silmarillion* vào năm 1977 đều là:
 
 <blockquote class="tg-quote noexcerpt">
 <p>discussed with Guy Kay. He indeed made many suggestions for the construction of the text (such as, in the tale of <a href="../B/Beren.md" title="Beren">Beren</a> and <a href="../L/Lúthien.md" title="Lúthien">Lúthien</a>, the introduction of a passage from the <a href="../L/Lay_of_Leithian.md" title="Lay of Leithian">Lay of Leithian</a>), and proposed solutions to problems arising in the making of a composite narrative -- in some cases of major significance to the structure ...
@@ -63,9 +63,9 @@ Christopher Tolkien đã nhận xét rằng "hầu hết mọi thay đổi đán
 <p class="tg-quote-footer"><cite><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
 </blockquote>
 
-## Cảm hứng {#Inspiration}
+## Nguồn cảm hứng {#Inspiration}
 
-Khi được hỏi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ảnh hưởng thế nào đến công việc của anh, Kay trả lời:
+Khi được hỏi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã ảnh hưởng đến các tác phẩm của mình như thế nào, Kay trả lời:
 
 <blockquote class="tg-quote noexcerpt">
 <p>The influences are complex and might be unexpected. Take too long to answer properly. I&#39;ll say this, the main effect of my year working on The Silmarillion was to reduce the level of awe and the sense of a vast shadow (if I may put it that way, speaking of this!) lying over High Fantasy. Because I saw the false starts, the errors, the drafts and redrafts, I emerged, quite young, with a sense that The Lord of the Rings and his other work had not simply sprung full-grown from the high brow of easy genius, but that long, diligent work might produce something. I was desensitized, in a way, to intimidation.
@@ -73,7 +73,7 @@ Khi được hỏi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ảnh hưởng thế
 <p class="tg-quote-footer"><cite>From an interview with Kay for a website.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></cite></p>
 </blockquote>
 
-Khi được một trang web khác hỏi Tolkien ảnh hưởng đến công việc của anh như thế nào, Kay trả lời:
+Khi được một trang web khác hỏi Tolkien đã ảnh hưởng đến tác phẩm của mình như thế nào, Kay trả lời:
 
 <blockquote class="tg-quote noexcerpt">
 <p>I think, looking back, that the exposure to JRRT&#39;s drafts, notes, false starts, dead ends helped to make me less awed and intimidated, later, when I started my own large fantasy. At the time I began Fionavar most of the &#39;serious&#39; writers exploring fantasy were working AWAY from the epic form, as if surrendering it. That was the period when, for example, &#39;urban fantasy&#39; was being shaped. My experience with The Silmarillion and the papers helped me to avoid that need to &#39;go somewhere else&#39; in fiction. Later, I did move elsewhere to a degree, but it was because I was testing my own boundaries as a writer, not because I was abandoning the form.
@@ -81,13 +81,13 @@ Khi được một trang web khác hỏi Tolkien ảnh hưởng đến công vi�
 <p class="tg-quote-footer"><cite>From an interview with Kay on Wotmania.com<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></cite></p>
 </blockquote>
 
-Kay còn nhận xét thêm rằng "*Tolkien là lớp học bậc thầy trong việc khai thác thần thoại và truyền thuyết vào câu chuyện và chủ đề*."<sup id="cite_ref-FBC_1-1" class="reference"><a href="#cite_note-FBC-1">[1]</a></sup>
+Kay còn nhận xét thêm rằng "*Tolkien là bậc thầy trong việc vận dụng thần thoại và truyền thuyết để xây dựng cốt truyện và chủ đề*."<sup id="cite_ref-FBC_1-1" class="reference"><a href="#cite_note-FBC-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.brightweavings.com/" rel="noreferrer noopener" target="_blank">Trang web chính thức</a>
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Guy_Gavriel_Kay" title="wikipedia:Guy Gavriel Kay">Guy Gavriel Kay</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="http://www.theguardian.com/books/2014/oct/29/guy-gavriel-kay-jrr-tolkien-interview-fionovar-tapesty-the-summer-tree" rel="noreferrer noopener" target="_blank">Cuộc phỏng vấn Guy Kay</a> tại The Guardian.
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Guy_Gavriel_Kay" title="wikipedia:Guy Gavriel Kay">Guy Gavriel Kay</a> trên <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="external text" href="http://www.theguardian.com/books/2014/oct/29/guy-gavriel-kay-jrr-tolkien-interview-fionovar-tapesty-the-summer-tree" rel="noreferrer noopener" target="_blank">Cuộc phỏng vấn Guy Kay</a> trên The Guardian.
 
 <span></span>
 

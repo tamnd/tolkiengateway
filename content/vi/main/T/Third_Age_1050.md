@@ -22,8 +22,8 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Hyarmendacil](../H/Hyarmendacil_I.md) chinh phục [Harad](../H/Harad.md).<sup id="cite_ref-AppB_1-0" class="reference"><a href="#cite_note-AppB-1">[1]</a></sup>
 - [Gondor](../G/Gondor.md) đạt đến đỉnh cao quyền lực.<sup id="cite_ref-AppB_1-1" class="reference"><a href="#cite_note-AppB-1">[1]</a></sup>
-- Vào khoảng thời gian này, một [bóng](../S/Shadow.md) đổ xuống [Rừng Xanh](../M/Mirkwood.md)và [đàn ông](../M/Men.md) bắt đầu gọi nó là [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-AppB_1-2" class="reference"><a href="#cite_note-AppB-1">[1]</a></sup>
-- Vào khoảng thời gian này, linh hồn của [Sauron](../S/Sauron.md)di chuyển một số [Phục sinh](../E/Easterlings.md) vào [Rhovanion](../R/Rhovanion.md) cho đến [Thung lũng Anduin](../V/Vales_of_Anduin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Vào khoảng thời gian này, một [bóng](../S/Shadow.md) đổ xuống [Rừng Xanh](../M/Mirkwood.md) và [đàn ông](../M/Men.md) bắt đầu gọi nó là [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-AppB_1-2" class="reference"><a href="#cite_note-AppB-1">[1]</a></sup>
+- Vào khoảng thời gian này, linh hồn của [Sauron](../S/Sauron.md) di chuyển một số [Phục sinh](../E/Easterlings.md) vào [Rhovanion](../R/Rhovanion.md) cho đến [Thung lũng Anduin](../V/Vales_of_Anduin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - Được cảnh báo bởi bóng tối của [Dol Guldur](../D/Dol_Guldur.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Periannath](../P/Periannath.md) bắt đầu [di cư về phía tây](../W/Wandering_Days.md). Chúng lần đầu tiên được đề cập trong hồ sơ khi [Harfoots](../H/Harfoots.md) đến [Eriador](../E/Eriador.md).<sup id="cite_ref-AppB_1-3" class="reference"><a href="#cite_note-AppB-1">[1]</a></sup>
 
 <span></span>

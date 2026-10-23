@@ -32,7 +32,7 @@ Cô có bằng Địa lý và Lịch sử, chuyên về Tiền sử và Khảo c
 
 ## Làm việc trên Oeuvre và Fenopaedia của J.R.R. Tolkien {#Work_on_J.R.R._Tolkien’s_Oeuvre_and_the_Fenopaedia}
 
-Mối quan tâm của cô đối với tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)bắt đầu từ hơn 30 năm trước khi cô đọc [The Hobbit](../T/The_Hobbit.md) bằng tiếng Serbo-Croatia. Sau đó, cô tham gia vào cộng đồng Tolkien trực tuyến, đặc biệt là thông qua trang web [Elfenomeno.com](../E/Elfenomeno.com.md), nơi cô ban đầu đóng góp bằng cách phát triển các câu hỏi thường gặp (FAQ) về Trung Địa.
+Mối quan tâm của cô đối với tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt đầu từ hơn 30 năm trước khi cô đọc [The Hobbit](../T/The_Hobbit.md) bằng tiếng Serbo-Croatia. Sau đó, cô tham gia vào cộng đồng Tolkien trực tuyến, đặc biệt là thông qua trang web [Elfenomeno.com](../E/Elfenomeno.com.md), nơi cô ban đầu đóng góp bằng cách phát triển các câu hỏi thường gặp (FAQ) về Trung Địa.
 
 Năm 2004, cô khởi động Dự án <a class="external text" href="https://www.elfenomeno.com/menu/top/fenopaedia" rel="noreferrer noopener" target="_blank">Fenopaedia</a>, nơi cô đã xuất bản các mục trong tất cả các danh mục, đặc biệt tập trung vào các nhân vật, đồ vật, kelvar, olvar và chủng tộc. Với hơn 1.180 mục được xuất bản trong số 2.800 mục có sẵn, công việc của cô đã giúp cô trở thành một trong những người có thẩm quyền hàng đầu về tác phẩm của Tolkien bằng tiếng Tây Ban Nha.
 
@@ -47,7 +47,7 @@ Ngoài ra, cô còn viết và đồng tác giả nhiều bài báo và tiểu l
 
 - Vũ khí có tên riêng trong tác phẩm của Tolkien.
 - Người khổng lồ của Tolkien là loại sinh vật gì?
-- Saruman có giả mạo được Nhẫn Quyền năng không?
+- Saruman có rèn được Chiếc nhẫn quyền lực không?
 - Chuyện gì đã xảy ra với Celebrían?
 - Balrog chưa bao giờ có cánh.
 - Christopher Tolkien, tác giả The Silmarillion.

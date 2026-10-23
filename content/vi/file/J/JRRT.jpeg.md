@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-chữ lồng của [Tolkien](../../main/T/Tolkien.md)và có thể cũng là thương hiệu của anh ấy.
+chữ lồng của [Tolkien](../../main/T/Tolkien.md) và có thể cũng là thương hiệu của anh ấy.
 
 ## Giấy phép {#Licensing}
 

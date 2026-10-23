@@ -17,7 +17,7 @@ images:
 
 **Ciryandil** hoặc **Kiryandil** có thể đề cập đến:
 
-- [Ciryandil](Ciryandil.md), [Vua Gondor](../K/King_of_Gondor.md)thứ mười bốn.
+- [Ciryandil](Ciryandil.md), [Vua Gondor](../K/King_of_Gondor.md) thứ mười bốn.
 - [Kiryandil](<../K/Kiryandil_(son_of_Siriondil).md>), cha đẻ của Vua [Eärnil II](../E/Eärnil_II.md), theo một dự thảo bị bỏ rơi của *[Appendices](../A/Appendices.md)*.
 - [Kiryandil](<../E/Elendur_(son_of_Isildur).md>), phiên bản đầu tiên của Elendur, con trai cả của [Isildur](../I/Isildur.md), theo bản thảo bị bỏ rơi của *Appendices*.
 

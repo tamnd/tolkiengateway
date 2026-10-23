@@ -58,7 +58,7 @@ Cái chết rõ ràng của anh ta cho thấy khả năng bạo lực của Bón
 
 ## Từ nguyên {#Etymology}
 
-*Brânk* dường như không có bất kỳ bản dịch nào bằng [ngôn ngữ](../L/Languages.md) của [Tolkien](../J/J.R.R._Tolkien.md)và có thể là phát minh của những người tạo ra bộ truyện. Đó có thể là một cái tên trong [Rhûnnic](../R/Rhûnnic.md).
+*Brânk* dường như không có bất kỳ bản dịch nào bằng [ngôn ngữ](../L/Languages.md) của [Tolkien](../J/J.R.R._Tolkien.md) và có thể là phát minh của những người tạo ra bộ truyện. Đó có thể là một cái tên trong [Rhûnnic](../R/Rhûnnic.md).
 
 *Brank* là một từ tiếng Anh được định nghĩa là "một dụng cụ bao gồm một khung sắt bao quanh đầu và một miếng kim loại sắc nhọn hoặc miếng bịt miệng nhét vào miệng trước đây dùng để trừng phạt."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><span></span>
 

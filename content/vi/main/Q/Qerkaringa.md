@@ -32,7 +32,7 @@ Phần tử đầu tiên trong tên [Qenya](Qenya.md) *Qerkaringa* có khả nă
 
 Trong bản thảo trước đó của văn bản mô tả khu vực này trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, *Qerkaringa* đề cập đến cổ đất, mặc dù có nêu tên này đôi khi cũng được áp dụng cho âm thanh của nước theo phần mở rộng. [Tolkien](../T/Tolkien.md) sau đó quyết định *Qerkaringa* là nước và gọi là cổ đất *Helkaraksë*. Anh ấy ghi chú lại tên nào thuộc về tên nào ở lề.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Trong [Silmarillion](../S/Silmarillion.md)đã xuất bản, eo biển đầy băng nguy hiểm giữa [Trung Địa](../M/Middle-earth.md) và [Araman](../A/Araman.md) là [Helcaraxë](../H/Helcaraxë.md). Nó đã bị [Fingolfin](../F/Fingolfin.md) vượt qua và của [Noldor](../N/Noldor.md) bị [Fëanor](../F/Fëanor.md)bỏ lại.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong [Silmarillion](../S/Silmarillion.md) đã xuất bản, eo biển đầy băng nguy hiểm giữa [Trung Địa](../M/Middle-earth.md) và [Araman](../A/Araman.md) là [Helcaraxë](../H/Helcaraxë.md). Nó đã bị [Fingolfin](../F/Fingolfin.md) vượt qua và của [Noldor](../N/Noldor.md) bị [Fëanor](../F/Fëanor.md) bỏ lại.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Xem thêm {#See_also}
 

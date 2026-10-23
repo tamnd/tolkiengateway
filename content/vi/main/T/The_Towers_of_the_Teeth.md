@@ -16,7 +16,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the song by <a href="../M/Maury_Laws.md" title="Maury Laws">Maury Laws</a></b>. For the Towers of the Black Gate, see <b><a href="Towers_of_the_Teeth.md" title="Towers of the Teeth">Towers of the Teeth</a></b>.</div></div>
 
-** Tháp Răng** là bài hát được viết bởi [Maury Laws](../M/Maury_Laws.md) (nhạc) và [Jules Bass](../J/Jules_Bass.md) (lời) cho bộ phim hoạt hình [1980](../_/1980.md) [*The Return of the King*](<The_Return_of_the_King_(1980_film).md>). Bài hát vang lên khi các anh hùng hành quân đến [Cổng Đen](../B/Black_Gate.md) và sau khán giả của [Aragorn](../A/Aragorn.md)với [Miệng của Sauron](../M/Mouth_of_Sauron.md).
+** Tháp Răng** là bài hát được viết bởi [Maury Laws](../M/Maury_Laws.md) (nhạc) và [Jules Bass](../J/Jules_Bass.md) (lời) cho bộ phim hoạt hình [1980](../_/1980.md) [*The Return of the King*](<The_Return_of_the_King_(1980_film).md>). Bài hát vang lên khi các anh hùng hành quân đến [Cổng Đen](../B/Black_Gate.md) và sau khán giả của [Aragorn](../A/Aragorn.md) với [Miệng của Sauron](../M/Mouth_of_Sauron.md).
 
 ## Lời bài hát {#Lyrics}
 

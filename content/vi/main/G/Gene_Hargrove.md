@@ -22,7 +22,7 @@ sort_keys:
   "People by name": "Hargrove, Gene"
 ---
 
-**Eugene C. Hargrove** (Tháng 10 [1944](../_/1944.md)) là giáo sư triết học tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_North_Texas" title="wikipedia:University of North Texas">Đại học Bắc Texas</a>. Anh ấy được giới thiệu với [Tolkien](../J/J.R.R._Tolkien.md) bởi [Ace bìa mềm](../A/Ace_Books.md) và bắt đầu có hứng thú với âm nhạc sau khi nghe [take](<../T/The_Road_Goes_Ever_On_(book).md>) của [Donald Swann](../D/Donald_Swann.md)và không thích nó.
+**Eugene C. Hargrove** (Tháng 10 [1944](../_/1944.md)) là giáo sư triết học tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_North_Texas" title="wikipedia:University of North Texas">Đại học Bắc Texas</a>. Anh ấy được giới thiệu với [Tolkien](../J/J.R.R._Tolkien.md) bởi [Ace bìa mềm](../A/Ace_Books.md) và bắt đầu có hứng thú với âm nhạc sau khi nghe [take](<../T/The_Road_Goes_Ever_On_(book).md>) của [Donald Swann](../D/Donald_Swann.md) và không thích nó.
 
 ## Thư mục {#Bibliography}
 

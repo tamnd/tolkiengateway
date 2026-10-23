@@ -27,7 +27,7 @@ images:
 
 **New Line Cinema** là một xưởng sản xuất phim của Mỹ. Nó được thành lập vào năm [1967](../_/1967.md) bởi Robert Shaye. Trong [2008](../_/2008.md), nó đã được sáp nhập với [Warner Bros.](../W/Warner_Bros..md) và kết quả là nó hiện là công ty con của Warner Bros., đến lượt nó lại thuộc về Warner Bros. Discovery. Chủ tịch hiện tại là Richard Brener.
 
-[*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>) cảm ơn New Line Cinema đã tài trợ cho họ, điều mà các công ty điện ảnh khác ngại làm. New Line Cinema cũng đã tham gia cùng [MGM](../M/MGM.md)vào quá trình sản xuất [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>).
+[*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>) cảm ơn New Line Cinema đã tài trợ cho họ, điều mà các công ty điện ảnh khác ngại làm. New Line Cinema cũng đã tham gia cùng [MGM](../M/MGM.md) vào quá trình sản xuất [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>).
 
 Hiện tại, nó tham gia, với tư cách là nhà đồng sản xuất, cùng với [Tolkien Estate](../T/Tolkien_Estate.md), [The Tolkien Trust](../T/The_Tolkien_Trust.md) và [HarperCollins](../H/HarperCollins.md), trong quá trình sản xuất [The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md), mặc dù nhà sản xuất chính là [Amazon](../A/Amazon.com_Incorporated.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

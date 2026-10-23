@@ -23,7 +23,7 @@ Ví dụ:
 
 ## Định nghĩa mâu thuẫn {#Conflicting_Definition}
 
-Trước đó trong quá trình phát triển [Sindarin](../S/Sindarin.md)của [Tolkien](../J/J.R.R._Tolkien.md), *aeg* có nghĩa là "ngã" hoặc "thảm khốc" và tương đương với [Quenya](../Q/Quenya.md) *[aica](Aica.md)*. Tolkien sau đó đã bác bỏ định nghĩa này, quyết định rằng *aeg* chỉ được dịch là "điểm". Điều này làm phức tạp bản dịch của một số tên, vì Tolkien chưa bao giờ phát triển Sindarin tên khác tương đương với *[aica](Aica.md)*.
+Trước đó trong quá trình phát triển [Sindarin](../S/Sindarin.md) của [Tolkien](../J/J.R.R._Tolkien.md), *aeg* có nghĩa là "ngã" hoặc "thảm khốc" và tương đương với [Quenya](../Q/Quenya.md) *[aica](Aica.md)*. Tolkien sau đó đã bác bỏ định nghĩa này, quyết định rằng *aeg* chỉ được dịch là "điểm". Điều này làm phức tạp bản dịch của một số tên, vì Tolkien chưa bao giờ phát triển Sindarin tên khác tương đương với *[aica](Aica.md)*.
 
 Ví dụ:
 

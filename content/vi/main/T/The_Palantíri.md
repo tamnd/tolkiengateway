@@ -58,6 +58,6 @@ images:
 <li><a class="mw-selflink selflink">The Palantíri</a></li></ul>
 </td></tr></tbody></table>
 
-** Palantíri** là một chương trong *[Unfinished Tales](../U/Unfinished_Tales.md)*, tác phẩm được xuất bản sau khi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)được xuất bản bởi [Christopher Tolkien](../C/Christopher_Tolkien.md).
+** Palantíri** là một chương trong *[Unfinished Tales](../U/Unfinished_Tales.md)*, tác phẩm được xuất bản sau khi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được xuất bản bởi [Christopher Tolkien](../C/Christopher_Tolkien.md).
 
 ## Tóm tắt {#Synopsis}

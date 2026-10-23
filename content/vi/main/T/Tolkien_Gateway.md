@@ -235,7 +235,7 @@ Vào ngày 22 tháng 11 năm 2012, Tolkienseminariet ("Chủng viện Tolkien") 
 
 Vào tháng 12 năm 2013, xung quanh việc phát hành *[The Hobbit: The Desolation of Smaug](The_Hobbit%253A_The_Desolation_of_Smaug.md)*, lưu lượng truy cập tăng vọt đồng nghĩa với việc Tolkien Gateway đã nhanh chóng trở thành trang web top 50.000 trên toàn thế giới.<sup id="cite_ref-Alexa_3-1" class="reference"><a href="#cite_note-Alexa-3">[3]</a></sup>
 
-Trong bản dịch tiếng Brazil của Michael <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien:_A_Biography&amp;action=edit&amp;redlink=1" title="Tolkien: A Biography (page does not exist)">Tolkien: A Biography</a></i> (*J.R.R. Tolkien, O Senhor da Fantasia*của White's, Tolkien Gateway được liệt kê trong phụ lục của người biên tập là một trong những trang web tốt nhất về Tolkien.
+Trong bản dịch tiếng Brazil của Michael <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien:_A_Biography&amp;action=edit&amp;redlink=1" title="Tolkien: A Biography (page does not exist)">Tolkien: A Biography</a></i> (*J.R.R. Tolkien, O Senhor da Fantasia* của White's, Tolkien Gateway được liệt kê trong phụ lục của người biên tập là một trong những trang web tốt nhất về Tolkien.
 
 #### 2014 {#2014}
 
@@ -283,7 +283,7 @@ Vào [1 tháng 4](../_/1_April.md), Tolkien Gateway được công bố là ngư
 
 #### 2024 {#2024}
 
-Vào [30 tháng 4](../_/30_April.md), Tolkien Gateway đã tặng hai mươi bản [J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md) của [Humphrey Carpenter](../H/Humphrey_Carpenter.md)cùng với một vài cuốn sách khác cho một trường học ở California J.R.R. Tolkien.
+Vào [30 tháng 4](../_/30_April.md), Tolkien Gateway đã tặng hai mươi bản [J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md) của [Humphrey Carpenter](../H/Humphrey_Carpenter.md) cùng với một vài cuốn sách khác cho một trường học ở California J.R.R. Tolkien.
 
 #### 2025 {#2025}
 

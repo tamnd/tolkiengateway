@@ -74,7 +74,7 @@ Sự kiện xảy ra vào ngày 1 tháng 11
 - **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thực hiện [cuộc phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md) với [Richard Plotz](../D/Dick_Plotz.md).
 - **[1970](1970.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 317](../L/Letter_317.md).
 - **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 330](../L/Letter_330.md).
-- **[1972](1972.md)** - Bàn của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)được [bán tại Sotheby's](../S/Sotheby's_Fine_English_and_Continental_Furniture_Bronzes,_Textiles_and_Works_of_Art_1825-1930_and_French_Animalier_Bronzes.md).
+- **[1972](1972.md)** - Bàn của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được [bán tại Sotheby's](../S/Sotheby's_Fine_English_and_Continental_Furniture_Bronzes,_Textiles_and_Works_of_Art_1825-1930_and_French_Animalier_Bronzes.md).
 - **[1975](1975.md)** - Họa sĩ truyện tranh [Lise Myhre](../L/Lise_Myhre.md) ra đời.
 - **[1977](1977.md)** - [Ted Johnstone](../T/Ted_Johnstone.md) qua đời.
 - <b><a href="1979.md" title="1979">1979</a> - <i><a href="../P/Pictures_by_J.R.R._Tolkien.md" title="Pictures by J.R.R. Tolkien">Ảnh của J.R.R. Tolkien</a></i> được xuất bản lần đầu ở Vương quốc Anh.</b>
@@ -89,7 +89,7 @@ Sự kiện xảy ra vào ngày 1 tháng 11
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md)tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
     - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):

@@ -63,7 +63,7 @@ Telperion là đàn anh của Hai Cây và được tạo ra bởi [Vala](../V/V
 
 Tuy nhiên, một trong những bông hoa của Telperion đã sống sót sau Bóng tối và được Valar đặt trên cao; đây là ánh sáng của [Mặt Trăng](../M/Moon.md), được mang theo bởi [Tilion](Tilion.md) [Maia](../M/Maia.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong [Kỷ Đệ Nhất](../F/First_Age.md), [Turgon](Turgon.md) đã tạo ra các hình ảnh của Hai Cây đứng trước tòa án [Gondolin](../G/Gondolin.md)của anh ta, và hình ảnh được tạo ra để tưởng nhớ Telperion là [Belthil](../B/Belthil.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Kỷ Đệ Nhất](../F/First_Age.md), [Turgon](Turgon.md) đã tạo ra các hình ảnh của Hai Cây đứng trước tòa án [Gondolin](../G/Gondolin.md) của anh ta, và hình ảnh được tạo ra để tưởng nhớ Telperion là [Belthil](../B/Belthil.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <h3><span id="Telperion.27s_descendants"></span><span class="mw-headline" id="Telperion&#39;s_descendants">Telperion&#39;s descendants</span></h3>
 
@@ -81,7 +81,7 @@ Biểu mẫu [Quenya](../Q/Quenya.md) thực tế là *Tyelperion* nhưng Quenya
 
 Một tên [Quenya](../Q/Quenya.md) khác của Telperion là <i><b>Silpion</b></i>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Nó có nguồn gốc từ gốc [SIL](../S/SIL~59984.md) (tỏa sáng (với ánh sáng trắng hoặc bạc))"<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> hoặc từ gốc mở rộng <a class="new" href="https://tolkiengateway.net/w/index.php?title=SILIP&amp;action=edit&amp;redlink=1" title="SILIP (page does not exist)">SILIP</a>,<sup id="cite_ref-SILIP_13-0" class="reference"><a href="#cite_note-SILIP-13">[13]</a></sup> và hậu tố *-ion*.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Đôi khi nó được làm bóng "Cây Trắng của Valinor",<sup id="cite_ref-SILIP_13-1" class="reference"><a href="#cite_note-SILIP-13">[13]</a></sup> hoặc đơn giản là "Cây Trắng".
 
-<i><b>Ninquelótë</b></i> là danh hiệu [Quenya](../Q/Quenya.md) của Telperion.<sup id="cite_ref-Days_1-1" class="reference"><a href="#cite_note-Days-1">[1]</a></sup> *Ninquelótë* có nghĩa là "Hoa Trắng" hoặc (có lẽ nhiều khả năng trong bối cảnh này) "Hoa Trắng". [Sindarin](../S/Sindarin.md) tương đương với tên Quenya này là *[Nimloth](../N/Nimloth_of_Númenor.md)*và thực sự tên đó được kế thừa bởi Cây Trắng phát triển trong [Vua Tòa án](../K/King's_Court.md) của [Númenor](../N/Númenor.md).
+<i><b>Ninquelótë</b></i> là danh hiệu [Quenya](../Q/Quenya.md) của Telperion.<sup id="cite_ref-Days_1-1" class="reference"><a href="#cite_note-Days-1">[1]</a></sup> *Ninquelótë* có nghĩa là "Hoa Trắng" hoặc (có lẽ nhiều khả năng trong bối cảnh này) "Hoa Trắng". [Sindarin](../S/Sindarin.md) tương đương với tên Quenya này là *[Nimloth](../N/Nimloth_of_Númenor.md)* và thực sự tên đó được kế thừa bởi Cây Trắng phát triển trong [Vua Tòa án](../K/King's_Court.md) của [Númenor](../N/Númenor.md).
 
 <i><b>Ibrīniðilpathānezel</b></i> là tên trong [Valarin](../V/Valarin.md) của Telperion.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
 

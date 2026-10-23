@@ -23,7 +23,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Lucifer_Chu"
 ---
 
-**Lucifer Hsueh-Heng "Luc" Chu** (<a class="extiw" href="http://en.wikipedia.org/wiki/Hanzi" title="wikipedia:Hanzi">Hanzi</a> **朱學恆**) là một dịch giả, nhà từ thiện và doanh nhân internet người Đài Loan. Chu tốt nghiệp Đại học Quốc gia Trung ương Đài Loan năm [1998](../_/1998.md)với bằng Cử nhân Kỹ thuật Điện.
+**Lucifer Hsueh-Heng "Luc" Chu** (<a class="extiw" href="http://en.wikipedia.org/wiki/Hanzi" title="wikipedia:Hanzi">Hanzi</a> **朱學恆**) là một dịch giả, nhà từ thiện và doanh nhân internet người Đài Loan. Chu tốt nghiệp Đại học Quốc gia Trung ương Đài Loan năm [1998](../_/1998.md) với bằng Cử nhân Kỹ thuật Điện.
 
 Với tin tức về [loạt phim hành động trực tiếp](<../T/The_Lord_of_the_Rings_(film_series).md>) sắp ra mắt về *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* vào cuối những năm 1990, Chu đã tiếp cận một nhà xuất bản địa phương để dịch tác phẩm với mức phí tối thiểu; 9 phần trăm nếu bán được 10.000 bộ hộp (hoặc 40.000 bản riêng lẻ); nếu không, anh ấy đã tặng miễn phí các dịch vụ của mình.
 

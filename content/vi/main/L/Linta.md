@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Từ nguyên không rõ ràng, nhưng có lẽ gợi ý đến [Gốc](../S/Sundocarmë.md) \*LIN hoặc \*LIT
+Từ nguyên không rõ ràng, nhưng có lẽ gợi ý về [Gốc](../S/Sundocarmë.md) \*LIN hoặc \*LIT
 
 ## Ví dụ {#Examples}
 
@@ -37,7 +37,7 @@ Từ nguyên không rõ ràng, nhưng có lẽ gợi ý đến [Gốc](../S/Sund
 
 ## Cảm hứng {#Inspiration}
 
-Từ này là một di tích từ ngôn ngữ dành cho trẻ vị thành niên của [Tolkien](../J/J.R.R._Tolkien.md)có tên là [Nevbosh](../N/Nevbosh.md). Trong ngôn ngữ đó *lint* có nghĩa là "nhanh chóng, thông minh, nhanh nhẹn"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Từ này là một di tích từ ngôn ngữ dành cho trẻ vị thành niên của [Tolkien](../J/J.R.R._Tolkien.md) có tên là [Nevbosh](../N/Nevbosh.md). Trong ngôn ngữ đó *lint* có nghĩa là "nhanh chóng, thông minh, nhanh nhẹn"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

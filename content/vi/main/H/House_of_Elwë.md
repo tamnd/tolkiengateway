@@ -57,7 +57,7 @@ Dòng dõi cổ xưa được bắt đầu bởi **Elwë** Singollo (còn đư�
 
 ### Cái chết của Thingol {#Death_of_Thingol}
 
-Thingol, sau khi được [Húrin](Húrin.md)tặng chiếc vòng cổ vàng ([Nauglamír](../N/Nauglamír.md)), đã thuê những thợ rèn người lùn lành nghề [Nogrod](../N/Nogrod.md) để khôi phục chiếc vòng cổ về vẻ đẹp lộng lẫy trước đây của nó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nhưng [Người Lùn](../D/Dwarves.md), say mê kho báu xinh đẹp và [Silmaril](../S/Silmarils.md) chứa trong đó, đã tìm cách chiếm lấy nó cho riêng mình. Sau khi hoàn thành công việc, họ từ chối giao Nauglamír với lý do anh ta không có quyền đối với tay nghề thủ công của người lùn. Thingol, nhận thấy rằng họ muốn có Silmaril, đã yêu cầu họ rời khỏi đất của anh ta mà không trả tiền. Nhưng những người thợ rèn đã giết chết anh ta, lấy đi viên ngọc quý và bỏ trốn về phía núi.
+Thingol, sau khi được [Húrin](Húrin.md) tặng chiếc vòng cổ vàng ([Nauglamír](../N/Nauglamír.md)), đã thuê những thợ rèn người lùn lành nghề [Nogrod](../N/Nogrod.md) để khôi phục chiếc vòng cổ về vẻ đẹp lộng lẫy trước đây của nó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nhưng [Người Lùn](../D/Dwarves.md), say mê kho báu xinh đẹp và [Silmaril](../S/Silmarils.md) chứa trong đó, đã tìm cách chiếm lấy nó cho riêng mình. Sau khi hoàn thành công việc, họ từ chối giao Nauglamír với lý do anh ta không có quyền đối với tay nghề thủ công của người lùn. Thingol, nhận thấy rằng họ muốn có Silmaril, đã yêu cầu họ rời khỏi đất của anh ta mà không trả tiền. Nhưng những người thợ rèn đã giết chết anh ta, lấy đi viên ngọc quý và bỏ trốn về phía núi.
 
 ## Phả hệ {#Genealogy}
 

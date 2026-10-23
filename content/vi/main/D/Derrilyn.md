@@ -19,7 +19,7 @@ langlinks:
 
 **Derrilyn** là tên một con sông trong bài thơ *[Errantry](../E/Errantry.md)* của [Bilbo Baggins](../B/Bilbo_Baggins.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tên này thực chất không phải là [Elvish](../E/Elvish.md) mà là một phát minh theo phong cách Elvish.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Không rõ Derrilyn có đề cập đến một con sông có thật trong [Trung Địa](../M/Middle-earth.md)hay đó chỉ là một phát minh của nhà thơ.
+Không rõ Derrilyn có đề cập đến một con sông có thật trong [Trung Địa](../M/Middle-earth.md) hay đó chỉ là một phát minh của nhà thơ.
 
 <span></span>
 

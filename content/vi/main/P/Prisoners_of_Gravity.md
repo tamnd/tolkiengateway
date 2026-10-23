@@ -13,7 +13,7 @@ categories:
   - "Documentaries"
 ---
 
-<i><b>Prisoners of Gravity</b></i> là một chương trình tin tức truyền hình Canada về khoa học viễn tưởng, giả tưởng, kinh dị và truyện tranh, do TvOntario sản xuất. Tập [24 tháng 11](../_/24_November.md) [1993](../_/1993.md) nói về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)và có các cuộc phỏng vấn với nhiều tác giả chịu ảnh hưởng của Tolkien. Tập phim có nội dung phỏng vấn với [Guy Gavriel Kay](../G/Guy_Gavriel_Kay.md).
+<i><b>Prisoners of Gravity</b></i> là một chương trình tin tức truyền hình Canada về khoa học viễn tưởng, giả tưởng, kinh dị và truyện tranh, do TvOntario sản xuất. Tập [24 tháng 11](../_/24_November.md) [1993](../_/1993.md) nói về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và có các cuộc phỏng vấn với nhiều tác giả chịu ảnh hưởng của Tolkien. Tập phim có nội dung phỏng vấn với [Guy Gavriel Kay](../G/Guy_Gavriel_Kay.md).
 
 <h2><span id="About_the_program_.22Tolkien.22"></span><span class="mw-headline" id="About_the_program_&#34;Tolkien&#34;">About the program &#34;Tolkien&#34;</span></h2>
 

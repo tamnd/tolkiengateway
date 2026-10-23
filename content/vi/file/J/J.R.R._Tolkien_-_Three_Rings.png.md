@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Tổng hợp các hình minh họa của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)về Ba Chiếc Nhẫn từ *[The Fellowship of the Ring](../../main/T/The_Fellowship_of_the_Ring.md)* [thiết kế tấm che bụi](J.R.R._Tolkien_-_The_Fellowship_of_the_Ring_2.jpg.md) của anh ấy
+Tổng hợp các hình minh họa của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) về Ba Chiếc Nhẫn từ *[The Fellowship of the Ring](../../main/T/The_Fellowship_of_the_Ring.md)* [thiết kế tấm che bụi](J.R.R._Tolkien_-_The_Fellowship_of_the_Ring_2.jpg.md) của anh ấy
 
 ## Giấy phép {#Licensing}
 

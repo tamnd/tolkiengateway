@@ -94,7 +94,7 @@ Ranh giới của Rhovanion có lẽ là:
 
 Các con sông quan trọng là [Anduin](../A/Anduin.md) hay sông Lớn và [Celduin](River_Running.md) hoặc River Running.<sup id="cite_ref-Map_6-2" class="reference"><a href="#cite_note-Map-6">[6]</a></sup>
 
-Đặc điểm chính là rừng của [Mirkwood](../M/Mirkwood.md)và [Long Lake](../L/Long_Lake.md) của [Esgaroth](../L/Lake-town.md).<sup id="cite_ref-Wilderland_3-1" class="reference"><a href="#cite_note-Wilderland-3">[3]</a></sup>
+Đặc điểm chính là rừng của [Mirkwood](../M/Mirkwood.md) và [Long Lake](../L/Long_Lake.md) của [Esgaroth](../L/Lake-town.md).<sup id="cite_ref-Wilderland_3-1" class="reference"><a href="#cite_note-Wilderland-3">[3]</a></sup>
 
 ## Lịch sử {#History}
 
@@ -106,7 +106,7 @@ Sau sự thức tỉnh của Tiên tộc, tổ tiên của [Râu dài](../L/Long
 
 Sau khi [thức tỉnh](../A/Awakening_of_Men.md) ở [Hildórien](../H/Hildórien.md) ở vùng viễn đông của Trung Địa, một số nhóm [Con Người](../M/Men.md) đã đi qua Rhovanion trên đường về phía tây của Trung Địa cho đến khi đến Greenwood the Great rồi chia thành các nhóm khác nhau. Một số trong số chúng đi qua giữa rìa phía bắc của Greenwood the Great và Dãy Núi Xám. Những người khác đi qua phía nam rìa phía nam của Greenwood the Great cho đến khi đến sông Anduin rồi di cư về phía bắc lên Thung lũng Anduin. Chỉ một phần nhỏ trong số họ chuyển sang Eriador và Beleriand. Hầu hết những Con Người còn lại ở phía bắc Rhovanion đều có liên quan đến Nhà Hador và được gọi là Người phương Bắc. Họ là những tay đua điêu luyện và chủ yếu sống ở các trang trại, làng mạc và thị trấn nhỏ rải rác, được củng cố tốt nhất bằng hàng rào gỗ và đê điều. Râu Dài Người Lùn sớm bắt đầu buôn bán công cụ, vũ khí, vũ khí và các mặt hàng khác đòi hỏi nhiều kỹ năng hoặc đắt tiền và dịch vụ của họ với tư cách là thợ xây, thợ mỏ và người làm đường để đổi lấy thực phẩm do Con Người sản xuất với tư cách là nông dân và người chăn nuôi.<sup id="cite_ref-relations_13-1" class="reference"><a href="#cite_note-relations-13">[13]</a></sup>
 
-[Orc](../O/Orcs.md) đã ngừng quấy rối khu vực khi hầu hết tập trung đến [Cuộc chiến Châu báu](../B/Battles_of_Beleriand.md) ở [Beleriand](../B/Beleriand.md)và Rhovanion tồn tại trong hòa bình tương đối;<sup id="cite_ref-relations_13-2" class="reference"><a href="#cite_note-relations-13">[13]</a></sup> nó không được nhắc đến cho đến [Thời thứ hai](../S/Second_Age.md).
+[Orc](../O/Orcs.md) đã ngừng quấy rối khu vực khi hầu hết tập trung đến [Cuộc chiến Châu báu](../B/Battles_of_Beleriand.md) ở [Beleriand](../B/Beleriand.md) và Rhovanion tồn tại trong hòa bình tương đối;<sup id="cite_ref-relations_13-2" class="reference"><a href="#cite_note-relations-13">[13]</a></sup> nó không được nhắc đến cho đến [Thời thứ hai](../S/Second_Age.md).
 
 ### Tuổi thứ hai {#Second_Age}
 
@@ -130,7 +130,7 @@ Trong [T.A.](../T/Third_Age.md) [1851](../T/Third_Age_1851.md), [Trận chiến 
 
 #### Lịch sử sau này {#Later_history}
 
-Ở Kỷ Đệ Tam sau này, ở phía bắc là vương quốc [Người lùn](../D/Dwarves.md) của [Erebor](../L/Lonely_Mountain.md) và các đại sảnh Người lùn ở Ered Mithrin, vương quốc của [Dale](../D/Dale.md), và ở phía bắc của con sông lớn [Anduin](../A/Anduin.md) là vương quốc của [Éothéod](../_/Éothéod.md). Ở phía bắc Rừng Xanh sinh sống Silvan Tiên tộc do [Thranduil](../T/Thranduil.md)cai trị, và ở phía nam Rừng Xanh và bên kia sông ở Lórinand cai trị [Amdír](../A/Amdír.md) và sau đó là [Amroth](../A/Amroth.md). Ở cực nam, gần thác lớn [Sarn Gebir](../S/Sarn_Gebir.md), canh gác phía bắc của [Gondor](../G/Gondor.md), và trong các thung lũng của Anduin sống Stoors.
+Ở Kỷ Đệ Tam sau này, ở phía bắc là vương quốc [Người lùn](../D/Dwarves.md) của [Erebor](../L/Lonely_Mountain.md) và các đại sảnh Người lùn ở Ered Mithrin, vương quốc của [Dale](../D/Dale.md), và ở phía bắc của con sông lớn [Anduin](../A/Anduin.md) là vương quốc của [Éothéod](../_/Éothéod.md). Ở phía bắc Rừng Xanh sinh sống Silvan Tiên tộc do [Thranduil](../T/Thranduil.md) cai trị, và ở phía nam Rừng Xanh và bên kia sông ở Lórinand cai trị [Amdír](../A/Amdír.md) và sau đó là [Amroth](../A/Amroth.md). Ở cực nam, gần thác lớn [Sarn Gebir](../S/Sarn_Gebir.md), canh gác phía bắc của [Gondor](../G/Gondor.md), và trong các thung lũng của Anduin sống Stoors.
 
 Vào khoảng [T.A.](../T/Third_Age.md) [2460](../T/Third_Age_2460.md), [Sauron](../S/Sauron.md) trở về với tư cách là Necromancer anh ta cư trú tại [Dol Guldur](../D/Dol_Guldur.md) ở phía nam Rừng Xanh. Và Rừng Xanh trở thành ác quỷ và được đổi tên thành Mirkwood. Người Lùn Erebor và Người Dale đã bị phá hủy và phân tán khi [Rồng](../D/Dragons.md) [Smaug](../S/Smaug.md) chiếm lấy Erebor và Gondor rút lui khỏi Thác. Một số Con Người vẫn còn sống dọc theo khu rừng, đặc biệt là [Beornings](../B/Beornings.md) và Con Người của [Esgaroth](../L/Lake-town.md) trên [Long Lake](../L/Long_Lake.md). Con Người của Éothéod di chuyển về phía nam theo lời mời của Gondor và định cư vùng đồng bằng [Calenardhon](../C/Calenardhon.md), sau đó là [Rohan](Rohan.md). Sau khi bị đuổi khỏi Erebor, Người Lùn đã được di dời, một số đã chuyển đến Dãy Đồi Sắt, nhưng hầu hết đã chuyển đến [Ered Luin](../E/Ered_Luin.md) trong [Eriador](../E/Eriador.md).
 

@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Fëanor](../../main/F/Fëanor.md) thiết kế [Tengwar](../../main/T/Tengwar.md)đầu tiên. Hình minh họa này của [Ryszard Derdziński](../../main/R/Ryszard_Derdziński.md), đã được sử dụng trên trang bìa của *[Elvish Linguistic Calendar Spring 2001 - Stirring 2002](../../main/E/Elvish_Linguistic_Calendar_Spring_2001_-_Stirring_2002.md)*.
+[Fëanor](../../main/F/Fëanor.md) thiết kế [Tengwar](../../main/T/Tengwar.md) đầu tiên. Hình minh họa này của [Ryszard Derdziński](../../main/R/Ryszard_Derdziński.md), đã được sử dụng trên trang bìa của *[Elvish Linguistic Calendar Spring 2001 - Stirring 2002](../../main/E/Elvish_Linguistic_Calendar_Spring_2001_-_Stirring_2002.md)*.
 
 ## Giấy phép {#Licensing}
 

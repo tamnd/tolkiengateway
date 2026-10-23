@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Harding of the Hill](../H/Harding_of_the_Hill.md), người thừa kế của [Samwise Gamgee](../S/Samwise_Gamgee.md)qua đời.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Harding of the Hill](../H/Harding_of_the_Hill.md), người thừa kế của [Samwise Gamgee](../S/Samwise_Gamgee.md) qua đời.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

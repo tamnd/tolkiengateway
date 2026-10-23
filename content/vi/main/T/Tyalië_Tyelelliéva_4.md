@@ -28,7 +28,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Tyalië Tyelelliéva, issue 4</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Edited by <a href="../L/Lisa_Star.md" title="Lisa Star">Lisa Star</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Appleyard Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/16_February.md" title="16 February">February 16</a>, <a href="../_/1995.md" title="1995">1995</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Magazine</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">28</td></tr></tbody></table>
 
-<b><i>Tyalië Tyelelliéva</i> 4</b> là số tạp chí [Người Lùn](../D/Dwarves.md)của tạp chí *[Tyalië Tyelelliéva](Tyalië_Tyelelliéva.md)*.
+<b><i>Tyalië Tyelelliéva</i> 4</b> là số tạp chí [Người Lùn](../D/Dwarves.md) của tạp chí *[Tyalië Tyelelliéva](Tyalië_Tyelelliéva.md)*.
 
 ## Nội dung {#Contents}
 
@@ -38,11 +38,11 @@ infobox:
 - Quenya động từ có -ta và -ya, phản hồi bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
 - \-eva với tư cách là một sở hữu cách bộ phận, phản hồi của [Ivan Derzhanski](../I/Ivan_Derzhanski.md)
 - Câu chuyện về tàn tích Doriath của Dain Ironfoot của Alberto Monteiro (tiểu thuyết)
-- Cup và Nhẫn Bản đồ của Lisa Star (một bản đồ dành cho người lùn mà Tolkien dường như chưa từng thấy)
+- Bản đồ cốc và nhẫn của Lisa Star (bản đồ dành cho người lùn mà Tolkien dường như chưa từng thấy)
 - Mảnh Bakken của Helge Fauskanger (một văn bản quan trọng trong Quenya mà Tolkien dường như chưa bao giờ nhìn thấy)
 - Cuộc chiến Châu báu Báo cáo của Lisa Star (đánh giá sách)
 - Danh sách từ về người lùn của Lisa Star
 - Người lùn (bài tập về Trang Bas du của bạn, bao gồm cả việc thực hành viết rune Người lùn)
-- Chữ cổ Erebor, biểu đồ của Lisa Star
+- Runes của Erebor, biểu đồ của Lisa Star
 
 <center><a href="Tyalië_Tyelelliéva_3.md" title="Tyalië Tyelelliéva 3">Previous Issue</a> <b>||</b> <a href="Tyalië_Tyelelliéva_5.md" title="Tyalië Tyelelliéva 5">Next Issue</a></center>

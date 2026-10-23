@@ -53,7 +53,7 @@ Về địa lý của Far Downs, hầu như không có gì được biết, ngo�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phiên bản bìa mềm của [Ballantine Books](../B/Ballantine_Books.md)của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* có một lỗi in sai trong phần [Lời mở đầu](../P/Prologue_Concerning_Hobbits,_and_other_matters.md) khiến Far Downs được đặt tên không chính xác là **Fox Downs**.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong phiên bản bìa mềm của [Ballantine Books](../B/Ballantine_Books.md) của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* có một lỗi in sai trong phần [Lời mở đầu](../P/Prologue_Concerning_Hobbits,_and_other_matters.md) khiến Far Downs được đặt tên không chính xác là **Fox Downs**.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

@@ -60,7 +60,7 @@ Trận Gwathló bắt đầu ở nơi hợp lưu của sông [Hoarwell](../H/Hoa
 
 Những tàu có mớn nước nhỏ hơn có thể đi hoặc chèo lên Gwathló xa tới Tharbad.<sup id="cite_ref-FirstParagraph_1-3" class="reference"><a href="#cite_note-FirstParagraph-1">[1]</a></sup> Trạng thái tự nhiên của thượng nguồn Gwathló gần Tharbad là một con sông rộng, chảy chậm, lan vào vùng đất liền.<sup id="cite_ref-Glanduin_4-1" class="reference"><a href="#cite_note-Glanduin-4">[4]</a></sup> Đất xung quanh Tharbad sau đó đã được thoát nước và đê được xây dựng để xây dựng một cảng lớn<sup id="cite_ref-FifthParagraph_2-1" class="reference"><a href="#cite_note-FifthParagraph-2">[2]</a></sup> cho tàu biển,<sup id="cite_ref-Author_6-0" class="reference"><a href="#cite_note-Author-6">[6]</a></sup> a cầu,<sup id="cite_ref-Glanduin_4-2" class="reference"><a href="#cite_note-Glanduin-4">[4]</a></sup> pháo đài trên các công trình đất lớn ở hai bên bờ sông để bảo vệ cầu,<sup id="cite_ref-Author_6-1" class="reference"><a href="#cite_note-Author-6">[6]</a></sup> và các đường đắp cao dài ở hai bên Gwathló và Mitheithel trên đó có đường chạy đến cầu Tharbad<sup id="cite_ref-Glanduin_4-3" class="reference"><a href="#cite_note-Glanduin-4">[4]</a></sup>.
 
-Sau khi được [người Númenor](../N/Númenóreans.md)xây dựng, [Con đường Bắc-Nam](../N/North-South_Road.md) đã vượt sông Gwathló tại Tharbad.<sup id="cite_ref-Map_5-4" class="reference"><a href="#cite_note-Map-5">[5]</a></sup>
+Sau khi được [người Númenor](../N/Númenóreans.md) xây dựng, [Con đường Bắc-Nam](../N/North-South_Road.md) đã vượt sông Gwathló tại Tharbad.<sup id="cite_ref-Map_5-4" class="reference"><a href="#cite_note-Map-5">[5]</a></sup>
 
 ## Lịch sử {#History}
 

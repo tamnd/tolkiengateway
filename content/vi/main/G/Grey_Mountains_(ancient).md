@@ -25,9 +25,9 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the ancient mountains</b>. For the later mountains called Ered Mithrin, see <b><a href="Grey_Mountains.md" title="Grey Mountains">Grey Mountains</a></b>.</div></div>
 
-**Dãy Núi Xám** cổ xưa là một dãy núi tiếp nối đường [Dãy Núi Xanh](../B/Blue_Mountains.md) là rìa phía tây của [Endor](../E/Endor.md), nhưng ở [Southlands](../D/Dark_Land.md) của lục địa. Vị trí của chúng đối xứng với [Dãy Núi Vàng](../Y/Yellow_Mountains.md) ở phía đông. Phạm vi này được tạo ra khi [Valar](../V/Valar.md) đẩy [Trung Địa](../M/Middle-earth.md) về phía đông để tăng cường bảo vệ cho [Valinor](../V/Valinor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Dãy Núi Xám** cổ xưa là một dãy núi tiếp nối đường [Dãy Núi Xanh](../B/Blue_Mountains.md) là rìa phía tây của [Endor](../E/Endor.md), nhưng ở [Southlands](../D/Dark_Land.md) của lục địa. Vị trí của chúng đối xứng với [Dãy núi Vàng](../Y/Yellow_Mountains.md) ở phía đông. Phạm vi này được tạo ra khi [Valar](../V/Valar.md) đẩy [Trung Địa](../M/Middle-earth.md) về phía đông để tăng cường bảo vệ cho [Valinor](../V/Valinor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Vì không có bản đồ nào của toàn thế giới tồn tại sau [Kỷ Đệ Nhất](../F/First_Age.md)nên không biết sau này dãy núi này có còn tồn tại hay không. Trong mọi trường hợp, họ không xuất hiện trong các câu chuyện.
+Vì không có bản đồ nào của toàn thế giới tồn tại sau [Kỷ Đệ Nhất](../F/First_Age.md) nên không biết sau này dãy núi này có còn tồn tại hay không. Trong mọi trường hợp, họ không xuất hiện trong các câu chuyện.
 
 <span></span>
 

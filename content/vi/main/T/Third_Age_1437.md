@@ -22,7 +22,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Đốt Osgiliath](../B/Burning_of_Osgiliath.md) và thất thoát *[palantír](../M/Master_Stone_of_Osgiliath.md)* trên sông [Anduin](../A/Anduin.md).<sup id="cite_ref-AppB2_1-0" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup><sup id="cite_ref-AppA2_2-0" class="reference"><a href="#cite_note-AppA2-2">[2]</a></sup>
 - [Vua](../K/Kings_of_Gondor.md) [Eldacar](<../E/Eldacar_(King_of_Gondor).md>) bỏ trốn đến [Rhovanion](../R/Rhovanion.md); con trai ông [Ornendil](../O/Ornendil.md) bị sát hại.<sup id="cite_ref-AppB2_1-1" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
-- [Castamir "Kẻ soán ngôi"](../C/Castamir.md), [Thuyền trưởng](../C/Captain_of_Ships.md), chiếm ngôi [Gondor](../G/Gondor.md) để trở thành [Vua](../K/Kings_of_Gondor.md)thứ 22.<sup id="cite_ref-AppA1_3-0" class="reference"><a href="#cite_note-AppA1-3">[3]</a></sup>
+- [Castamir "Kẻ soán ngôi"](../C/Castamir.md), [Thuyền trưởng](../C/Captain_of_Ships.md), chiếm ngôi [Gondor](../G/Gondor.md) để trở thành [Vua](../K/Kings_of_Gondor.md) thứ 22.<sup id="cite_ref-AppA1_3-0" class="reference"><a href="#cite_note-AppA1-3">[3]</a></sup>
 
 <span></span>
 

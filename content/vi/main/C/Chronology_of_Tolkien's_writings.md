@@ -26,7 +26,7 @@ Mục đích của trang này là trình bày niên đại các tác phẩm củ
 
 Đây là một công cụ hữu ích khi tranh luận về Canon - cho dù sở thích của bạn là Ý định cao hay Ý định cuối cùng hay bất kỳ ý định nào khác. Nguồn thông tin chủ yếu là những chỉ dẫn bằng văn bản được đưa ra bởi Christopher Tolkien trong bộ Lịch sử Trung Địa.
 
-[Tolkien](../T/Tolkien.md)thời gian viết bài rất dài, trình tự thời gian này được chia thành 3 giai đoạn sản xuất.
+[Tolkien](../T/Tolkien.md) thời gian viết bài rất dài, trình tự thời gian này được chia thành 3 giai đoạn sản xuất.
 
 ## Những năm đầu - thời kỳ Thần thoại {#Early_Years_-_the_Mythology_period}
 

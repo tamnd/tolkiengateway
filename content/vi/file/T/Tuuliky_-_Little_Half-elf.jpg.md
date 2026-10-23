@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Maglor](../../main/M/Maglor.md), con trai thứ hai của [Fëanor](../../main/F/Fëanor.md)và [Elrond](../../main/E/Elrond.md) [Half-elven](../../main/H/Half-elven.md).
+[Maglor](../../main/M/Maglor.md), con trai thứ hai của [Fëanor](../../main/F/Fëanor.md) và [Elrond](../../main/E/Elrond.md) [Half-elven](../../main/H/Half-elven.md).
 
 ## Giấy phép {#Licensing}
 

@@ -81,7 +81,7 @@ infobox:
 
 **Không gian thần thoại**
 
-- "Những thảm họa mang tính chu kỳ, khuôn mẫu Semitic và cải cách tôn giáo: [Númenor](../N/Númenor.md)của một người theo chủ nghĩa cổ điển" của Pamina Fernández Camacho
+- "Những thảm họa mang tính chu kỳ, khuôn mẫu Semitic và cải cách tôn giáo: [Númenor](../N/Númenor.md) của một người theo chủ nghĩa cổ điển" của Pamina Fernández Camacho
 - "Từ năm 2012 sau Công nguyên đến Atlantis và quay lại lần nữa – Hành trình vòng quanh thời gian của Tolkien" của Xavier de la Huerga
 - " [Notion Club Các bài báo](../N/Notion_Club_Papers.md): Tóm tắt" của [David Doughan](../D/David_Doughan.md)
 - "Tạo ra huyền thoại: Cách J.R.R. Tolkien phỏng theo Thần thoại từ tiếng Anh cổ" của Zachary A. Rhone

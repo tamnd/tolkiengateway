@@ -60,9 +60,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Fréawine là con trai của [Fréa](Fréa.md) và cháu trai của [Aldor](../A/Aldor.md) Già. Do triều đại kéo dài vô cùng lâu dài của ông nội, Fréawine, giống như cha mình trước đó, đã trở thành Vua của [Rohan](../R/Rohan.md)khi về già, khi ông đã hơn sáu mươi tuổi. Người ta ít nói về 21 năm làm Vua của ông, ngoại trừ đó là khoảng thời gian hòa bình và sung túc ở Mark. Fréawine được con trai ông là [Goldwine](../G/Goldwine.md) kế vị.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Fréawine là con trai của [Fréa](Fréa.md) và cháu trai của [Aldor](../A/Aldor.md) Già. Do triều đại kéo dài vô cùng lâu dài của ông nội, Fréawine, giống như cha mình trước đó, đã trở thành Vua của [Rohan](../R/Rohan.md) khi về già, khi ông đã hơn sáu mươi tuổi. Người ta ít nói về 21 năm làm Vua của ông, ngoại trừ đó là khoảng thời gian hòa bình và sung túc ở Mark. Fréawine được con trai ông là [Goldwine](../G/Goldwine.md) kế vị.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Có thể Fréawine còn có những hậu duệ khác cuối cùng đã hòa nhập với [Dunlending](../D/Dunlendings.md) những người đã trở lại sau thời Goldwine. Chúa [Freca](Freca.md) tự nhận là một trong những hậu duệ của ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Có thể Fréawine còn có những hậu duệ khác cuối cùng đã hòa nhập với [Dunlendings](../D/Dunlendings.md) những người đã trở lại sau thời Goldwine. Chúa [Freca](Freca.md) tự nhận là một trong những hậu duệ của ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

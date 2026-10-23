@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Thiết bị huy hiệu của Cortirion, tức là [Kortirion](../../main/K/Kortirion.md), được trích từ [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), "Bảng chữ cái của Rúmil & Những mảnh vỡ sớm Noldorin", trong [*Parma Eldalamberon* XIII](../../main/P/Parma_Eldalamberon_13.md) (được biên tập bởi [Carl F. Hostetter](../../main/C/Carl_F._Hostetter.md), [Christopher Gilson](../../main/C/Christopher_Gilson.md), [Arden R. Smith](../../main/A/Arden_R._Smith.md), [Patrick H. Wynne](../../main/P/Patrick_H._Wynne.md)và [Bill Welden](../../main/B/Bill_Welden.md)), p. 95.
+Thiết bị huy hiệu của Cortirion, tức là [Kortirion](../../main/K/Kortirion.md), được trích từ [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), "Bảng chữ cái của Rúmil & Những mảnh vỡ sớm Noldorin", trong [*Parma Eldalamberon* XIII](../../main/P/Parma_Eldalamberon_13.md) (được biên tập bởi [Carl F. Hostetter](../../main/C/Carl_F._Hostetter.md), [Christopher Gilson](../../main/C/Christopher_Gilson.md), [Arden R. Smith](../../main/A/Arden_R._Smith.md), [Patrick H. Wynne](../../main/P/Patrick_H._Wynne.md) và [Bill Welden](../../main/B/Bill_Welden.md)), p. 95.
 
 ## Giấy phép {#Licensing}
 

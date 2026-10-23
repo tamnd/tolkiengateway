@@ -32,7 +32,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../A/Arnor.md" title="Arnor">Arnorian</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Gilbarad</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../S/Sindarin.md" title="Sindarin">Sindarin</a>, <a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../I/Ivorwen.md" title="Ivorwen">Ivorwen</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Gilbarad** là cha của [Ivorwen](../I/Ivorwen.md)và là ông cố ngoại của [Aragorn](../A/Aragorn.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Gilbarad** là cha của [Ivorwen](../I/Ivorwen.md) và là ông cố ngoại của [Aragorn](../A/Aragorn.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

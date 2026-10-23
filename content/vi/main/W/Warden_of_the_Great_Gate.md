@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Suuren_portin_is%C3%A4nt%C3%A4"
 ---
 
-**Người bảo vệ Cổng lớn** là chức danh được trao cho người canh giữ [Cổng thép](../G/Gate_of_Steel.md), người nắm quyền tối cao đối với tất cả [Bảy Cánh Cổng](../S/Seven_Gates.md) của [Orfalch Echor](../O/Orfalch_Echor.md). Vào thời điểm [Tuor](../T/Tuor.md)đến [Gondolin](../G/Gondolin.md), đây là [Ecthelion](../E/Ecthelion.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Người bảo vệ Cổng lớn** là danh hiệu được trao cho người giữ [Cổng thép](../G/Gate_of_Steel.md), người nắm quyền tối cao đối với tất cả [Bảy Cánh Cổng](../S/Seven_Gates.md) của [Orfalch Echor](../O/Orfalch_Echor.md). Vào thời điểm [Tuor](../T/Tuor.md) đến [Gondolin](../G/Gondolin.md), đây là [Ecthelion](../E/Ecthelion.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

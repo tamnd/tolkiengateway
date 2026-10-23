@@ -43,7 +43,7 @@ infobox:
 
 <b><i>Mythlore</i> 56</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol15/iss2/" rel="noreferrer noopener" target="_blank">Tập 15, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội thần thoại](Mythopoeic_Society.md) xuất bản và có hình minh họa trang bìa của [Patrick Wynne](../P/Patrick_Wynne.md).
 
-Bài viết “Narqelion: A Single, Falling Leaf at Mặt Trời-fading” của [Paul Nolan Hyde](../P/Paul_Nolan_Hyde.md) (in lại trong *[Vinyar Tengwar 6](../V/Vinyar_Tengwar_6.md)*) bao gồm toàn văn bài thơ '[Narqelion](../N/Narqelion.md)' của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)(4 dòng được sao chép trong *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)* của [Humphrey Carpenter](../H/Humphrey_Carpenter.md)năm 1977). Bài thơ cũng được in lại bằng phông chữ tengwar trên máy tính ở bìa dưới.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Bài viết “Narqelion: A Single, Falling Leaf at Mặt Trời-fading” của [Paul Nolan Hyde](../P/Paul_Nolan_Hyde.md) (in lại trong *[Vinyar Tengwar 6](../V/Vinyar_Tengwar_6.md)*) bao gồm toàn văn bài thơ '[Narqelion](../N/Narqelion.md)' của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)(4 dòng được sao chép trong *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)* của [Humphrey Carpenter](../H/Humphrey_Carpenter.md) năm 1977). Bài thơ cũng được in lại bằng phông chữ tengwar trên máy tính ở bìa dưới.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Contents}
 

@@ -63,7 +63,7 @@ infobox:
 
 Dírhael đã kết hôn với [Ivorwen](../I/Ivorwen.md) và có một cô con gái tên là [Gilraen](../G/Gilraen.md).<sup id="cite_ref-Tale_2-1" class="reference"><a href="#cite_note-Tale-2">[2]</a></sup> Họ sống ở một nơi ẩn náu bí mật trong vùng hoang dã của [Eriador](../E/Eriador.md),<sup id="cite_ref-Arwen_3-0" class="reference"><a href="#cite_note-Arwen-3">[3]</a></sup> có thể ở [Angle](../A/Angle.md).
 
-Khi [Arathorn](../A/Arathorn_II.md), con trai của [Thủ lĩnh nhà Dúnedain](../C/Chieftains_of_the_Dúnedain.md) [Arador](../A/Arador.md)muốn cưới [Gilraen](../G/Gilraen.md), cha của Gilraen Dírhael đã phản đối cuộc hôn nhân này, vì Gilraen vẫn còn quá trẻ để kết hôn theo phong tục của Dúnedain và ông đã thấy trước rằng Arathorn sẽ sớm có Thủ lĩnh và chỉ có một thời gian ngắn cuộc sống.
+Khi [Arathorn](../A/Arathorn_II.md), con trai của [Thủ lĩnh nhà Dúnedain](../C/Chieftains_of_the_Dúnedain.md) [Arador](../A/Arador.md) muốn cưới [Gilraen](../G/Gilraen.md), cha của Gilraen Dírhael đã phản đối cuộc hôn nhân này, vì Gilraen vẫn còn quá trẻ để kết hôn theo phong tục của Dúnedain và ông đã thấy trước rằng Arathorn sẽ sớm có Thủ lĩnh và chỉ có một thời gian ngắn cuộc sống.
 
 Tuy nhiên, Ivorwen cũng có tài nhìn xa và đã thuyết phục chồng cho phép kết hôn bằng cách nói rằng những ngày sắp tối trước cơn bão, và rằng [hy vọng](../E/Estel.md) có thể nảy sinh cho Dúnedain nếu Arathorn kết hôn Gilraen bây giờ thay vì trì hoãn cuộc hôn nhân.<sup id="cite_ref-Tale_2-2" class="reference"><a href="#cite_note-Tale-2">[2]</a></sup>
 

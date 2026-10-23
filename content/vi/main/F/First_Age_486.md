@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Tìm kiếm [Túrin](../T/Túrin.md), [Beleg](../B/Beleg.md) tìm thấy [Gaurwaith](../G/Gaurwaith.md), nhưng vì bạn của anh ta không có ở đó nên họ nhầm [Tiên](../E/Elf.md) là gián điệp và tra tấn anh ta cho đến khi Túrin quay trở lại.
-- Beleg không thể thuyết phục Túrin đi cùng mình, mặc dù anh ta đã được [Thingol](../T/Thingol.md)ân xá. Beleg rời đi để trở về [Doriath](../D/Doriath.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Beleg không thể thuyết phục Túrin đi cùng mình, mặc dù anh ta đã được [Thingol](../T/Thingol.md) ân xá. Beleg rời đi để trở về [Doriath](../D/Doriath.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - Số lượng [orc](../O/Orcs.md) ngày càng tăng nhập [Brethil](../B/Brethil.md); [Gaurwaith](../G/Gaurwaith.md) bị buộc phải đi về phía nam dọc theo [Đường Nam cũ](<../O/Old_South_Road_(Beleriand).md>).<sup id="cite_ref-CH_2-0" class="reference"><a href="#cite_note-CH-2">[2]</a></sup>
 - Những kẻ ngoài vòng pháp luật chạm trán với [người lùn nhỏ](../P/Petty-dwarves.md) [Mîm](../M/Mîm.md) người đã đề nghị cho họ ngôi nhà của mình [Amon Rûdh](../A/Amon_Rûdh.md) để đổi lấy mạng sống của mình. Nó được gọi là Bar-en-Danwedh, [Ngôi nhà đòi tiền chuộc](../H/House_of_Ransom.md).<sup id="cite_ref-CH_2-1" class="reference"><a href="#cite_note-CH-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
 - Cái chết của [Khîm](../K/Khîm.md).<sup id="cite_ref-CH_2-2" class="reference"><a href="#cite_note-CH-2">[2]</a></sup>

@@ -59,15 +59,15 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="The_Flight_of_the_Noldoli_from_Valinor.md" title="The Flight of the Noldoli from Valinor">The Flight of the Noldoli from Valinor</a>, vv.1-2</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Hai Cây của Valinor** là **[Telperion](Telperion.md)** và **[Laurelin](../L/Laurelin.md)**, Cây Bạc và Cây Vàng đã mang lại [Ánh sáng](../L/Light_of_Valinor.md) cho Vùng đất của [Valar](../V/Valar.md) vào thời cổ đại. Chúng đã bị [Melkor](../M/Morgoth.md) và [Ungoliant](../U/Ungoliant.md)tiêu diệt, nhưng bông hoa và quả cuối cùng của chúng đã được Valar tạo thành [Mặt Trăng](../M/Moon.md) và [Mặt Trời](../S/Sun.md).
+**Hai Cây của Valinor** là **[Telperion](Telperion.md)** và **[Laurelin](../L/Laurelin.md)**, Cây Bạc và Cây Vàng đã mang lại [Ánh sáng](../L/Light_of_Valinor.md) cho Vùng đất của [Valar](../V/Valar.md) vào thời cổ đại. Chúng đã bị [Melkor](../M/Morgoth.md) và [Ungoliant](../U/Ungoliant.md) tiêu diệt, nhưng bông hoa và quả cuối cùng của chúng đã được Valar tạo thành [Mặt Trăng](../M/Moon.md) và [Mặt Trời](../S/Sun.md).
 
 ## Lịch sử {#History}
 
 ### Sự sáng tạo và đặc điểm {#Creation_and_characteristics}
 
-Nguồn ánh sáng đầu tiên cho tất cả [Arda](../A/Arda.md) là hai [Đèn](Two_Lamps.md) khổng lồ, [Illuin](../I/Illuin.md), chiếc đèn bạc ở phía bắc và [Ormal](../O/Ormal.md), chiếc đèn vàng ở phía nam. Chúng đã bị [Melkor](../M/Morgoth.md)đánh sập và phá hủy. Sau đó, Valar chuyển sang [Valinor](../V/Valinor.md) và [Yavanna](../Y/Yavanna.md) tạo ra Hai Cây, [Telperion](Telperion.md) bạc và [Laurelin](../L/Laurelin.md)vàng. Telperion được coi là nam và Laurelin nữ. Cây cối nằm trên ngọn đồi [Ezellohar](../E/Ezellohar.md) nằm ngay bên ngoài cổng phía tây của [Valimar](../V/Valimar.md). Họ lớn lên trước sự chứng kiến ​​của tất cả [Valar](../V/Valar.md), được tưới bằng nước mắt của [Nienna](../N/Nienna.md).<sup id="cite_ref-Days_1-0" class="reference"><a href="#cite_note-Days-1">[1]</a></sup>
+Nguồn ánh sáng đầu tiên cho tất cả [Arda](../A/Arda.md) là hai [Đèn](Two_Lamps.md) khổng lồ, [Illuin](../I/Illuin.md), chiếc đèn bạc ở phía bắc và [Ormal](../O/Ormal.md), chiếc đèn vàng ở phía nam. Chúng đã bị [Melkor](../M/Morgoth.md) đánh sập và phá hủy. Sau đó, Valar chuyển sang [Valinor](../V/Valinor.md) và [Yavanna](../Y/Yavanna.md) tạo ra Hai Cây, [Telperion](Telperion.md) bạc và [Laurelin](../L/Laurelin.md) vàng. Telperion được coi là nam và Laurelin nữ. Cây cối nằm trên ngọn đồi [Ezellohar](../E/Ezellohar.md) nằm ngay bên ngoài cổng phía tây của [Valimar](../V/Valimar.md). Họ lớn lên trước sự chứng kiến ​​của tất cả [Valar](../V/Valar.md), được tưới bằng nước mắt của [Nienna](../N/Nienna.md).<sup id="cite_ref-Days_1-0" class="reference"><a href="#cite_note-Days-1">[1]</a></sup>
 
-Mỗi cái cây là một nguồn ánh sáng: bạc của Telperion và vàng của Laurelin. Telperion có những chiếc lá sẫm màu (một mặt màu bạc) và sương bạc của nó được thu thập làm nguồn nước và ánh sáng. Laurelin có lá dát vàng và sương của cô cũng được [Varda](../V/Varda.md)thu thập.
+Mỗi cái cây là một nguồn ánh sáng: bạc của Telperion và vàng của Laurelin. Telperion có những chiếc lá sẫm màu (một mặt màu bạc) và sương bạc của nó được thu thập làm nguồn nước và ánh sáng. Laurelin có lá dát vàng và sương của cô cũng được [Varda](../V/Varda.md) thu thập.
 
 Đếm [Thời gian](Time.md) và [Năm của Cây](../Y/Years_of_the_Trees.md) bắt đầu với ánh sáng đầu tiên của Telperion. Một "ngày" kéo dài mười hai giờ. Lần lượt, mỗi Cây sẽ phát ra ánh sáng trong bảy giờ (đạt đến độ sáng tối đa rồi lại từ từ tàn lụi), để cứ một giờ mỗi cây "bình minh" và "chạng vạng" sẽ cùng nhau tỏa ra ánh sáng vàng và bạc dịu nhẹ.<sup id="cite_ref-Days_1-1" class="reference"><a href="#cite_note-Days-1">[1]</a></sup>
 
@@ -83,11 +83,11 @@ Sau khi Melkor và Ungoliant bỏ trốn, Yavanna đến gặp Ezellohar và ph�
 
 [Yavanna](../Y/Yavanna.md) đã hát và [Nienna](../N/Nienna.md) khóc, nhưng cuối cùng họ chỉ thành công trong việc hồi sinh bông hoa cuối cùng của Telperion (trở thành [Mặt Trăng](../M/Moon.md)) và trái cây cuối cùng của Laurelin(trở thành [Mặt Trời](../S/Sun.md)). Những thứ này lần lượt được giao cho [những linh hồn kém cỏi hơn](../M/Maiar.md), [Tilion](Tilion.md) và [Arien](../A/Arien.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Tuy nhiên, ánh sáng thực sự của Cây, trước khi bị Ungoliant đầu độc, được cho là hiện chỉ tồn tại trong [Silmaril](../S/Silmarils.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Người ta nói rằng theo [Lời tiên tri thứ hai của Mandos](../S/Second_Prophecy_of_Mandos.md), sau khi Trái đất tan vỡ, ánh sáng của Silmaril sẽ được Yavanna sử dụng để thắp lại Hai Cây, thứ sẽ thắp sáng cả thế giới.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Tuy nhiên, ánh sáng thực sự của Cây, trước khi bị Ungoliant đầu độc, được cho là hiện chỉ tồn tại trong [Silmaril](../S/Silmarils.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Người ta nói rằng theo [Lời Tiên tri Thứ hai của Mandos](../S/Second_Prophecy_of_Mandos.md), sau khi Trái đất tan vỡ, ánh sáng của Silmaril sẽ được Yavanna sử dụng để thắp lại Hai Cây, thứ sẽ thắp sáng cả thế giới.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Di sản {#Legacy}
 
-Hình ảnh của Hai Cây được Eldar sử dụng trong nghệ thuật của họ, trong thơ ca (như *[Aldudénië](../A/Aldudénië.md)*của [Elemmírë](../E/Elemmírë.md)) hoặc đồ thủ công. Đặc biệt nổi tiếng là những hình ảnh do [Turgon](Turgon.md)thực hiện, có tên là [Glingal và Belthil](../G/Glingal_and_Belthil.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Hình ảnh của Hai Cây được Eldar sử dụng trong nghệ thuật của họ, trong thơ ca (như *[Aldudénië](../A/Aldudénië.md)* của [Elemmírë](../E/Elemmírë.md)) hoặc đồ thủ công. Đặc biệt nổi tiếng là những hình ảnh do [Turgon](Turgon.md) thực hiện, có tên là [Glingal và Belthil](../G/Glingal_and_Belthil.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 Hai Cây của Valinor tồn tại vào thời điểm mà nguồn ánh sáng duy nhất khác là các ngôi sao (được tạo ra vì lợi ích của Tiên tộc' bởi [Varda](../V/Varda.md) từ sương thu được từ Hai Cây). Khi ba Tiên đại sứ được đưa đến tận mắt Valinor để thuyết phục Tiên tộc đến Valinor, có vẻ như Hai Cây đã ảnh hưởng đến họ đáng kể nhất.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
@@ -114,7 +114,7 @@ Trong các bài viết mới nhất của Tolkien, trong đó Arda là một [th
 
 ## Cảm hứng {#Inspiration}
 
-Trong một [cuộc phỏng vấn](../_/1965_BBC_Interview.md), Tolkien được hỏi liệu Laurelin và Telperion có phải là hình ảnh phản chiếu của <a class="extiw" href="http://en.wikipedia.org/wiki/Yggdrasil" title="wikipedia:Yggdrasil">Cây của Thế giới</a> trong [thần thoại Bắc Âu](../N/Norse_mythology.md)hay không, nhưng anh ta phủ nhận điều đó và nói rằng chúng giống những cây của mặt trời và mặt trăng trong các câu chuyện về Alexander Đại đế hơn.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> [Michael Martinez](../M/Michael_Martinez.md) giải thích:
+Trong một [cuộc phỏng vấn](../_/1965_BBC_Interview.md), Tolkien được hỏi liệu Laurelin và Telperion có phải là hình ảnh phản chiếu của <a class="extiw" href="http://en.wikipedia.org/wiki/Yggdrasil" title="wikipedia:Yggdrasil">Cây của Thế giới</a> trong [thần thoại Bắc Âu](../N/Norse_mythology.md) hay không, nhưng anh ta phủ nhận điều đó và nói rằng chúng giống những cây của mặt trời và mặt trăng trong các câu chuyện về Alexander Đại đế hơn.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> [Michael Martinez](../M/Michael_Martinez.md) giải thích:
 
 <blockquote class="tg-quote noexcerpt">
 <p>there is a legend of two cypress trees, the Trees of the Sun and Moon, that are said to have been planted by Zoroaster himself. Alexander the Great, hearing of these trees, visited them when he conquered Persia. He asked the oracle of the trees what his future would be. The oracle told him that he would go on to conquer India but that he would then die soon afterward. In some versions of the legend the trees themselves speak to Alexander. According to Marco Polo, the Khalif Motawakkil had one of the trees cut down in the 9th Century CE (when the tree was said to be 1450 years old) and sent to Baghdad. The Khalif was subsequently murdered by his own guards (Cf. The Book of Ser by Marco Polo, the Venetian).<i></i>
@@ -123,7 +123,7 @@ Trong một [cuộc phỏng vấn](../_/1965_BBC_Interview.md), Tolkien được
 
 Mặc dù không có mối liên hệ trực tiếp nào giữa J.R.R. Tolkien và Marco Polo, Martinez đã được [Jane Chance](../J/Jane_Chance.md) thông báo rằng Tolkien biết rõ bài thơ [tiếng Anh trung cổ](../M/Middle_English.md) "<a class="extiw" href="http://en.wikipedia.org/wiki/Kyng_Alisaunder" title="wikipedia:Kyng Alisaunder">Kyng Alisaunder</a>", trong đó có câu chuyện về những cái cây.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
 
-[Clyde S. Kilby](../C/Clyde_S._Kilby.md) cũng nhận thấy rằng Hai Cây tuân theo khuôn mẫu Kinh thánh của [Ánh sáng](../L/Light.md) ban đầu, tồn tại trước Mặt Trời và Mặt Trăng. Nhiều tác giả, như Milton trong tác phẩm *Paradise Lost*của ông, tin rằng có một khoảng thời gian dài giữa hai loại đèn.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
+[Clyde S. Kilby](../C/Clyde_S._Kilby.md) cũng nhận thấy rằng Hai Cây tuân theo khuôn mẫu Kinh thánh của [Ánh sáng](../L/Light.md) ban đầu, tồn tại trước Mặt Trời và Mặt Trăng. Nhiều tác giả, như Milton trong tác phẩm *Paradise Lost* của ông, tin rằng có một khoảng thời gian dài giữa hai loại đèn.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

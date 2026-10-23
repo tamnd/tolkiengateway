@@ -12,4 +12,4 @@ categories:
   - "People by occupation"
 ---
 
-Người dịch các tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)sang nhiều ngôn ngữ khác nhau.
+Người dịch các tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) sang nhiều ngôn ngữ khác nhau.

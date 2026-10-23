@@ -18,7 +18,7 @@ sort_keys:
   "Folk music": "McAllister, Adele"
 ---
 
-**Adele McAllister** là ca sĩ kiêm nhạc sĩ có trụ sở tại Washington D.C.. Vào năm 2014, cô đã phát hành một album nhạc dân gian lấy cảm hứng từ [Tolkien](../J/J.R.R._Tolkien.md)mang tên <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Roads_Go_Ever_On_and_On:_Songs_from_Tolkien%27s_Middle-earth&amp;action=edit&amp;redlink=1" title="Roads Go Ever On and On: Songs from Tolkien&#39;s Middle-earth (page does not exist)">Roads Go Ever On and On: Các bài hát từ Trung Địa</a></i>của Tolkien.
+**Adele McAllister** là ca sĩ kiêm nhạc sĩ có trụ sở tại Washington D.C.. Vào năm 2014, cô đã phát hành một album nhạc dân gian lấy cảm hứng từ [Tolkien](../J/J.R.R._Tolkien.md) mang tên <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Roads_Go_Ever_On_and_On:_Songs_from_Tolkien%27s_Middle-earth&amp;action=edit&amp;redlink=1" title="Roads Go Ever On and On: Songs from Tolkien&#39;s Middle-earth (page does not exist)">Roads Go Ever On and On: Các bài hát từ Trung Địa</a></i>của Tolkien.
 
 ## Liên kết ngoài {#External_links}
 

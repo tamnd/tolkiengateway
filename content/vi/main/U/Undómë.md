@@ -20,7 +20,7 @@ langlinks:
     url: "https://kontu.wiki/Und%C3%B3m%C3%AB"
 ---
 
-**Undómë** là một trong những [Tiên tộc](../E/Elves.md)tên gọi cho giờ sao mở vào cuối ngày: tức là hoàng hôn. Undómë là tên [Quenya](../Q/Quenya.md) cho thời điểm này, với [Sindarin](../S/Sindarin.md) tương đương là [aduial](../A/Aduial.md). Ngoài ra còn có một bản dịch thơ [Mannish](../M/Mannish.md), [Evendim](../E/Evendim.md) (nghĩa là ánh sáng mờ ảo của buổi tối).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Từ này là nguồn gốc của họ [Undómiel](Undómiel.md) của [Arwen](../A/Arwen.md), dịch là 'Evenstar'.
+**Undómë** là một trong những [Tiên tộc](../E/Elves.md) tên gọi cho giờ sao mở vào cuối ngày: tức là hoàng hôn. Undómë là tên [Quenya](../Q/Quenya.md) cho thời điểm này, với [Sindarin](../S/Sindarin.md) tương đương là [aduial](../A/Aduial.md). Ngoài ra còn có một bản dịch thơ [Mannish](../M/Mannish.md), [Evendim](../E/Evendim.md) (nghĩa là ánh sáng mờ ảo của buổi tối).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Từ này là nguồn gốc của họ [Undómiel](Undómiel.md) của [Arwen](../A/Arwen.md), dịch là 'Evenstar'.
 
 <span></span>
 

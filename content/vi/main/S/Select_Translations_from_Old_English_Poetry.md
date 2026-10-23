@@ -23,6 +23,6 @@ images:
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Hiện đã có lại trong ấn bản mới này của bộ sưu tập bản dịch cổ điển của Cook và Tinker của Alfred Lord Tennyson, Hallam Tennyson và những người khác, được xuất bản lần đầu vào năm 1902, bao gồm bản dịch thơ The Wanderer của Emily H. Hickey đã được điều chỉnh để sử dụng trong [The Lord of the Rings](../T/The_Lord_of_the_Rings.md)của Peter Jackson: [The Return of the King](../T/The_Return_of_the_King.md). Với các chỉ mục, chỉnh sửa và sửa đổi được cập nhật.
+Hiện đã có lại trong ấn bản mới này của bộ sưu tập bản dịch cổ điển của Cook và Tinker của Alfred Lord Tennyson, Hallam Tennyson và những người khác, được xuất bản lần đầu vào năm 1902, bao gồm bản dịch thơ The Wanderer của Emily H. Hickey đã được điều chỉnh để sử dụng trong [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) của Peter Jackson: [The Return of the King](../T/The_Return_of_the_King.md). Với các chỉ mục, chỉnh sửa và sửa đổi được cập nhật.
 
 <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0975397060">ISBN 0975397060</a> <br> **Định dạng:** Bìa mềm, 208 trang <br> **Xuất bản. Ngày:** Tháng 2 năm 2005 <br> **Nhà xuất bản:** Nhà xuất bản Ma Kết <br>

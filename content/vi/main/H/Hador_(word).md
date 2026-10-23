@@ -21,7 +21,7 @@ images:
 
 [Tolkien](../J/J.R.R._Tolkien.md) tiếp tục sử dụng tên *Hador* trong các bài viết của [huyền thoại](../L/Legendarium.md) sau quá trình phát triển từ Noldorin thành [Sindarin](../S/Sindarin.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> mặc dù không biết liệu anh ta có ý định giữ lại ý nghĩa Noldorin hay không.
 
-Trong cả danh sách từ [Neo-Sindarin](../N/Neo-Elvish.md) của [David Salo](../D/David_Salo.md)và [Didier Willis](../D/Didier_Willis.md), *hador* và *hadron* ("người ném") xuất hiện dưới dạng biểu mẫu Sindarin hợp lệ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong cả danh sách từ [Neo-Sindarin](../N/Neo-Elvish.md) của [David Salo](../D/David_Salo.md) và [Didier Willis](../D/Didier_Willis.md), *hador* và *hadron* ("người ném") xuất hiện dưới dạng biểu mẫu Sindarin hợp lệ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

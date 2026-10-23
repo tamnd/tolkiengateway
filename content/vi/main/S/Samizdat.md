@@ -17,7 +17,7 @@ images:
 
 **Samizdat** (tiếng Nga: **самиздат**) là một thuật ngữ bắt nguồn từ tiếng Nga, mô tả một cuốn sách tự xuất bản. Nó có nguồn gốc từ thời Xô Viết, khi các tác phẩm bất đồng chính kiến ​​​​được xuất bản và phân phối riêng tư.
 
-[Mark T. Hooker](../M/Mark_T._Hooker.md) lần đầu tiên sử dụng thuật ngữ này để mô tả nhiều bản dịch trái phép hoặc "vi phạm bản quyền" tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)sang tiếng Nga, nhưng theo thời gian, thuật ngữ này đã được áp dụng cho các bản dịch sang tất cả các ngôn ngữ. Theo Olga Markova, đã có ít nhất mười bản dịch trái phép [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) giữa [1990](../_/1990.md) và [2005](../_/2005.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Mark T. Hooker](../M/Mark_T._Hooker.md) lần đầu tiên sử dụng thuật ngữ này để mô tả nhiều bản dịch trái phép hoặc "vi phạm bản quyền" tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sang tiếng Nga, nhưng theo thời gian, thuật ngữ này đã được áp dụng cho các bản dịch sang tất cả các ngôn ngữ. Theo Olga Markova, đã có ít nhất mười bản dịch trái phép [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) giữa [1990](../_/1990.md) và [2005](../_/2005.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Danh sách các Samizdats {#List_of_Samizdats}
 

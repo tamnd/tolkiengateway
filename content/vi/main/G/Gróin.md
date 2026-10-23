@@ -64,11 +64,11 @@ infobox:
 
 Gróin là một nhân vật quan trọng trong gia phả hoàng gia [Người Lùn](../D/Dwarves.md), Gróin là cháu trai của [Borin](../B/Borin.md), con trai nhỏ của Vua [Náin II](../N/Náin_II.md), và do đó có thể tự nhận mình là hậu duệ trực tiếp từ <a class="mw-redirect mw-disambig" href="../D/Durin.md" title="Durin">Durin Bất Tử</a>. Đến lượt mình, Gróin là em trai của [Fundin](../F/Fundin.md), cha của [Óin](../_/Óin.md) và [Glóin](Glóin.md), đồng thời là chú của [Balin](../B/Balin.md) và [Dwalin](../D/Dwalin.md), cả bốn người đều đã du hành trong [Nhiệm vụ Erebor](../Q/Quest_of_Erebor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Thông qua con trai Glóin, ông cũng là ông nội của [Gimli Bạn của Tiên tộc](Gimli.md) của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md). Tuy nhiên, đối với tất cả tầm quan trọng về phả hệ của ông, chúng ta hầu như không biết gì về cuộc đời ông. Tuy nhiên, ngày sinh và ngày mất của ông cho chúng ta thấy rằng ông còn sống vào thời điểm [Cuộc cướp phá Erebor](../S/Sack_of_Erebor.md)của [Smaug](../S/Smaug.md)và [Cuộc chiến giữa Người lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md) 29 năm sau. Rất có thể anh ấy đã có mặt ở cả hai sự kiện này.
+Thông qua con trai Glóin, ông cũng là ông nội của [Gimli Bạn của Tiên tộc](Gimli.md) của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md). Tuy nhiên, đối với tất cả tầm quan trọng về phả hệ của ông, chúng ta hầu như không biết gì về cuộc đời ông. Tuy nhiên, ngày sinh và ngày mất của ông cho chúng ta thấy rằng ông còn sống vào thời điểm [Cuộc cướp phá Erebor](../S/Sack_of_Erebor.md) của [Smaug](../S/Smaug.md) và [Cuộc chiến giữa Người Lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md) 29 năm sau. Rất có thể anh ấy đã có mặt ở cả hai sự kiện này.
 
 ## Từ nguyên {#Etymology}
 
-[Jim Allan](../J/Jim_Allan.md) đã gợi ý rằng *Gróin* (như *[Grór](Grór.md#Etymology)*) có nguồn gốc từ [tiếng Bắc Âu cổ](../O/Old_Norse.md) *gróa* ("để phát triển"), do đó có nghĩa là "Một người đang phát triển".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Jim Allan](../J/Jim_Allan.md) đã gợi ý rằng *Gróin* (như *[Grór](Grór.md#Etymology)*) có nguồn gốc từ [tiếng Bắc Âu cổ](../O/Old_Norse.md) *gróa* ("phát triển"), do đó có nghĩa là "Một người đang phát triển".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -88,7 +88,7 @@ Thông qua con trai Glóin, ông cũng là ông nội của [Gimli Bạn của T
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Gróin appears in an extended flashback depicting the <a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Battle of Azanulbizar</a>, in which he fights alongside his sons <a href="../_/Óin.md" title="Óin">Óin</a> and <a href="Glóin.md" title="Glóin">Glóin</a> and the rest of <a href="../F/Farin.md" title="Farin">Farin</a>&#39;s kin.</dd></dl>
 

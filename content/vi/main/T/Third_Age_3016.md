@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Elrond](../E/Elrond.md) gửi cho [Arwen](../A/Arwen.md)và cô ấy quay lại [Imladris](../R/Rivendell.md); [Dãy Núi](../M/Mountains.md) và tất cả các vùng đất phía đông đang trở nên nguy hiểm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+- [Elrond](../E/Elrond.md) gửi cho [Arwen](../A/Arwen.md) và cô ấy quay lại [Imladris](../R/Rivendell.md); [Dãy Núi](../M/Mountains.md) và tất cả các vùng đất phía đông đang trở nên nguy hiểm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 ## Ghi chú {#Notes}
 

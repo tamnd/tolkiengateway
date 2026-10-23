@@ -73,7 +73,7 @@ Tên *Neldoreth* không rõ ràng, nhưng dường như là sự kết hợp c�
 
 Trên bản đồ phác thảo ban đầu cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Tolkien chỉ ra rằng *[Neldoreth](<../N/Neldoreth_(Rhûn).md>)* là tên khu rừng giáp ranh với bờ biển phía đông bắc của [Biển Rhûn](../S/Sea_of_Rhûn.md). Khu rừng này không được đặt tên trong các bản đồ sau này.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Nhà của [Treebeard](../T/Treebeard.md)còn được gọi là **Rừng Neldoreth** trong dự thảo ban đầu.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Nhà của [Treebeard](../T/Treebeard.md) còn được gọi là **Rừng Neldoreth** trong dự thảo ban đầu.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 <span></span>
 

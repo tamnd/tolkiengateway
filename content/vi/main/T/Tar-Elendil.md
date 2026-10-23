@@ -85,7 +85,7 @@ Elendil là [Quenya](../Q/Quenya.md). Nó có nghĩa là "Bạn của Tiên tộ
 
 Sự tỉnh táo của anh ấy *Parmaitë* là Quenya. Nó có nghĩa là "Sách cầm tay"<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> hoặc "Sách tiện dụng".<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
 
-Nếu anh ta có cùng tên [Adûnaic](../A/Adûnaic.md) với hậu duệ xa [Elendil](../E/Elendil.md)của mình, thì tên [Adûnaic](../A/Adûnaic.md) của Tar-Elendil có thể là "Ar-<a class="new" href="https://tolkiengateway.net/w/index.php?title=Nimruz%C3%AEr&amp;action=edit&amp;redlink=1" title="Nimruzîr (page does not exist)">Nimruzîr</a>", mặc dù điều này không được Tolkien đề cập đến.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
+Nếu anh ta có cùng tên [Adûnaic](../A/Adûnaic.md) với hậu duệ xa [Elendil](../E/Elendil.md) của mình, thì tên [Adûnaic](../A/Adûnaic.md) của Tar-Elendil có thể là "Ar-<a class="new" href="https://tolkiengateway.net/w/index.php?title=Nimruz%C3%AEr&amp;action=edit&amp;redlink=1" title="Nimruzîr (page does not exist)">Nimruzîr</a>", mặc dù điều này không được Tolkien đề cập đến.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

@@ -29,7 +29,7 @@ images:
 
 - "Strider", một tiếng vang [Aragorn](../A/Aragorn.md) ở phía bắc.
     - [Telcontar](../T/Telcontar.md), Ngôi nhà của [Elessar](../A/Aragorn.md), tạm dịch là "Strider".
-- [Strider](<Strider_(pony).md>), chú ngựa con của [Frodo Baggins](../F/Frodo_Baggins.md)theo tên [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) được đặt theo tên của Aragorn.
+- [Strider](<Strider_(pony).md>), chú ngựa con của [Frodo Baggins](../F/Frodo_Baggins.md) theo tên [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) được đặt theo tên của Aragorn.
 
 ## Khác {#Other}
 

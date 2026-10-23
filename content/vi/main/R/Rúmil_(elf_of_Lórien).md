@@ -56,7 +56,7 @@ Rúmil là anh trai của [Haldir](../H/Haldir.md) và [Orophin](../O/Orophin.md
 
 ## Từ nguyên {#Etymology}
 
-"Rúmil" là một tên [Quenya](../Q/Quenya.md)đã học.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:54</sup> Vì tên này giống hệt với Quenya tên của [nhà hiền triết đã học của Valinor](<Rúmil_(elf_of_Tirion).md>) và Silvan hoặc [Sindar](../S/Sindar.md) Tiên tộc, [Tolkien](../T/Tolkien.md) đã quyết định rằng nó phải được đặt bởi chính [Galadriel](../G/Galadriel.md), nhưng anh ấy đặt câu hỏi tại sao lại có cái tên như vậy sẽ được trao cho "một trong những người lính và vệ binh bình thường" của vương quốc.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:51</sup>
+"Rúmil" là một tên [Quenya](../Q/Quenya.md) đã học.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:54</sup> Vì tên này giống hệt với Quenya tên của [nhà hiền triết đã học của Valinor](<Rúmil_(elf_of_Tirion).md>) và Silvan hoặc [Sindar](../S/Sindar.md) Tiên tộc, [Tolkien](../T/Tolkien.md) đã quyết định rằng nó phải được đặt bởi chính [Galadriel](../G/Galadriel.md), nhưng anh ấy đặt câu hỏi tại sao lại có cái tên như vậy sẽ được trao cho "một trong những người lính và vệ binh bình thường" của vương quốc.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:51</sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -65,7 +65,7 @@ Rúmil là anh trai của [Haldir](../H/Haldir.md) và [Orophin](../O/Orophin.md
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bản nháp, ký tự này được gọi là *Rhimbron*, *Rhomrin*và *Romrin*, trước khi được đặt tên là *Rúmil*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong bản nháp, ký tự này được gọi là *Rhimbron*, *Rhomrin* và *Romrin*, trước khi được đặt tên là *Rúmil*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -94,7 +94,7 @@ Trong bản nháp, ký tự này được gọi là *Rhimbron*, *Rhomrin*và *Ro
 
 <dl><dd>Rumil is one of the named heroes in the Lothlorien army in the Middle-Earth Strategy Battle Game. The lore given with his rules say he is renowned for his skill with the blade, and he has a unique ability that forces enemies to reroll duel rolls.</dd></dl>
 
-<b>2009: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2009: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Rúmil can be found on the western outskirts of <a class="mw-redirect" href="../L/Lothlorien.md" title="Lothlorien">Lothlorien</a>, defending the borders against the <a class="mw-redirect" href="../O/Orc.md" title="Orc">orc</a> attacks.</dd></dl>
 

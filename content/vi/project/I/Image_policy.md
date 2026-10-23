@@ -18,7 +18,7 @@ categories:
 
 **Chính sách hình ảnh** của [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) cung cấp hướng dẫn về những hình ảnh nào nên và không nên tải lên wiki này cũng như hướng dẫn cần tuân theo khi thực hiện việc đó.
 
-Là bộ bách khoa toàn thư Tolkien lớn nhất thế giới, Tolkien Gateway hướng tới mục tiêu có được một danh mục toàn diện về các hình ảnh trình bày trực quan về các tác phẩm của [Tolkien](../../main/J/J.R.R._Tolkien.md)cũng như các hình ảnh liên quan khác về Tolkien [fandom](../../main/T/Tolkien_fandom.md) và học thuật. Chúng tôi bao gồm [ảnh của những cá nhân đáng chú ý](<../../category/I/Images_of_people_(real-life).md>) cũng như hình ảnh của [xuất bản](../../category/I/Images_of_publications.md) và [bản chuyển thể](../../category/I/Images_from_adaptations.md). Những hình ảnh này được sử dụng để minh họa cho các bài viết của chúng tôi cũng như giáo dục người đọc về cách thể hiện các tác phẩm của Tolkien.
+Là bộ bách khoa toàn thư Tolkien lớn nhất thế giới, Tolkien Gateway hướng tới mục tiêu có được một danh mục toàn diện về các hình ảnh trình bày trực quan về các tác phẩm của [Tolkien](../../main/J/J.R.R._Tolkien.md) cũng như các hình ảnh liên quan khác về Tolkien [fandom](../../main/T/Tolkien_fandom.md) và học thuật. Chúng tôi bao gồm [ảnh của những cá nhân đáng chú ý](<../../category/I/Images_of_people_(real-life).md>) cũng như hình ảnh của [xuất bản](../../category/I/Images_of_publications.md) và [bản chuyển thể](../../category/I/Images_from_adaptations.md). Những hình ảnh này được sử dụng để minh họa cho các bài viết của chúng tôi cũng như giáo dục người đọc về cách thể hiện các tác phẩm của Tolkien.
 
 ## Quy ước đặt tên {#Naming_conventions}
 

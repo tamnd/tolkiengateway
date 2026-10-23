@@ -40,7 +40,7 @@ Trong lịch sử của [Arda](../A/Arda.md), các ngôn ngữ [Elvish](../E/Elv
 
 Trong Quenya, *[lambë](Lambë.md)* là thuật ngữ dành cho ngôn ngữ nói hoặc giao tiếp bằng lời nói trong khi *tengwesta* là thuật ngữ trừu tượng hơn để chỉ một hệ thống hoặc mã ký hiệu và có thể được dịch là "ngữ pháp". Như [Pengolodh](../P/Pengolodh.md) đã lưu ý, "Việc tạo ra một con cừu non là đặc điểm chính của một Hóa thân," bao gồm cả [Valar](../V/Valar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Vào [Valinor](../V/Valinor.md), Tiên tộc bắt đầu quan tâm đến bản chất ngôn ngữ của họ. Những bậc thầy truyền thuyết này được gọi là [lambengolmor](Lambengolmor.md). Thông thường họ sẽ so sánh [Quenya](../Q/Quenya.md) đúng với [Telerin](../T/Telerin.md) và chỉ ra [Primitive Quendian](../P/Primitive_Quendian.md)gốc.
+Vào [Valinor](../V/Valinor.md), Tiên tộc bắt đầu quan tâm đến bản chất ngôn ngữ của họ. Những bậc thầy truyền thuyết này được gọi là [lambengolmor](Lambengolmor.md). Thông thường họ sẽ so sánh [Quenya](../Q/Quenya.md) đúng với [Telerin](../T/Telerin.md) và chỉ ra [Primitive Quendian](../P/Primitive_Quendian.md) gốc.
 
 Việc phát minh ra chữ viết được cho là của [Rúmil](<../R/Rúmil_(elf_of_Tirion).md>), người đầu tiên phát minh ra bảng chữ cái: [Sarati](../S/Sarati.md) (nghĩa đen là "chữ cái"). [Fëanor](../F/Fëanor.md) sau đó đã cải tiến và phát triển thêm bảng chữ cái này thành [Tengwar](../T/Tengwar.md), được [Ñoldor](../N/Noldor.md) phổ biến sang Trung Địa và vẫn được sử dụng cho đến mãi mãi về sau.
 
@@ -68,7 +68,7 @@ Các ngôn ngữ 2. [Mannish](../M/Mannish.md) (tất cả đều chịu ảnh h
     - Ngôn ngữ của tổ tiên của Nhà thứ nhất và thứ ba của [Atanatári](../A/Atanatári.md) ("[Người Nam Bắc](../N/Northern_Mannish.md)")
         - [Taliska](../T/Taliska.md) (hai phương ngữ)
             - [Adûnaic](../A/Adûnaic.md)
-                - [Westron](../W/Westron.md) (chịu ảnh hưởng của [Sindarin](../S/Sindarin.md)và ngôn ngữ của Eriador)
+                - [Westron](../W/Westron.md) (chịu ảnh hưởng của [Sindarin](../S/Sindarin.md) và ngôn ngữ của Eriador)
                     - [Hobbitish](../H/Hobbitish.md) (chịu ảnh hưởng của các ngôn ngữ Người phương Bắc)
                     - [Stoorish](../S/Stoorish.md) (chịu ảnh hưởng của [Dunlendish](../D/Dunlendish.md))
                 - Đen Adûnaic của [Đen người Númenor](../B/Black_Númenóreans.md)
@@ -96,7 +96,7 @@ Các ngôn ngữ 2. [Mannish](../M/Mannish.md) (tất cả đều chịu ảnh h
     - Nhiều ngôn ngữ [tiếng Ork](../O/Orkish.md) (chịu ảnh hưởng của nhiều ngôn ngữ)
 7. [Hắc Ngữ](../B/Black_Speech.md) (được xây dựng bởi [Sauron](../S/Sauron.md), chịu ảnh hưởng của [Valarin](../V/Valarin.md))
     - "Thuần khiết" [Hắc Ngữ](../B/Black_Speech.md)
-    - "Gỡ lỗi" [Hắc Ngữ](../B/Black_Speech.md) (chịu ảnh hưởng của [tiếng Orkish](../O/Orkish.md))
+    - "Gỡ lỗi" [Hắc Ngữ](../B/Black_Speech.md) (chịu ảnh hưởng của [tiếng Ork](../O/Orkish.md))
 8. Ngôn ngữ khác:
     - [Tiếng sói](../W/Wolf-language.md)
     - [Ngôn ngữ tưa miệng](../T/Thrush.md)

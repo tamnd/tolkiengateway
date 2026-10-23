@@ -60,7 +60,7 @@ Năm 2005 [Lord of the Brush](../L/Lord_of_the_Brush.md), một bộ phim tài l
 
 ## Tác phẩm nghệ thuật đã xuất bản {#Published_Artwork}
 
-Howe là một trong những nghệ sĩ [HarperCollins](../H/HarperCollins.md)được sử dụng nhiều nhất và ảnh bìa của anh ấy cũng thường xuyên xuất hiện trên các bản dịch.
+Howe là một trong những nghệ sĩ [HarperCollins](../H/HarperCollins.md) được sử dụng nhiều nhất và ảnh bìa của anh ấy cũng thường xuyên xuất hiện trên các bản dịch.
 
 ### Nhiều phiên bản {#Multiple_editions}
 

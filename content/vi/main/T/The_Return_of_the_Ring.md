@@ -30,7 +30,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Return_of_the_Ring.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/47/Return_of_the_Ring.png/320px-Return_of_the_Ring.png" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/47/Return_of_the_Ring.png/480px-Return_of_the_Ring.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/47/Return_of_the_Ring.png/640px-Return_of_the_Ring.png 2x" data-file-width="800" data-file-height="800"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Return of the Ring</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Loughborough_University" title="wikipedia:Loughborough University">Loughborough University</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">England</a></td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data"><a href="../_/16_August.md" title="16 August">16</a>-<a href="../_/20_August.md" title="20 August">20 August</a>, <a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Attendees</th><td class="tg-infobox-data">344</td></tr></tbody></table>
 
-**Sự trở lại của chiếc nhẫn: Kỷ niệm Tolkien vào năm 2012** là một hội nghị do [Hội Tolkien](The_Tolkien_Society.md)tổ chức. Nó được tổ chức tại Đại học Loughborough, Anh, [16](../_/16_August.md)-[20 tháng 8](../_/20_August.md), [2012](../_/2012.md). Hội nghị đánh dấu kỷ niệm 75 năm xuất bản *[The Hobbit](The_Hobbit.md)*.
+**Sự trở lại của chiếc nhẫn: Kỷ niệm Tolkien vào năm 2012** là một hội nghị do [Hội Tolkien](The_Tolkien_Society.md) tổ chức. Nó được tổ chức tại Đại học Loughborough, Anh, [16](../_/16_August.md)-[20 tháng 8](../_/20_August.md), [2012](../_/2012.md). Hội nghị đánh dấu kỷ niệm 75 năm xuất bản *[The Hobbit](The_Hobbit.md)*.
 
 ## Sự kiện {#Events}
 
@@ -62,7 +62,7 @@ infobox:
 - **[Colin Duriez](../C/Colin_Duriez.md)**, Tác giả và **[Inklings](../I/Inklings.md)** học giả
 - **[Anke Eißmann](../A/Anke_Eißmann.md)**, Tolkien nghệ sĩ
 - <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tor_Fauskanger&amp;action=edit&amp;redlink=1" title="Tor Fauskanger (page does not exist)">Tor Fauskanger</a></b>, Tolkien nghệ sĩ
-- **[Dimitra Fimi](../D/Dimitra_Fimi.md)**, Tác giả và giảng viên về thần thoại và văn học dân gian
+- **[Dimitra Fimi](../D/Dimitra_Fimi.md)**, Tác giả và giảng viên về thần thoại và văn hóa dân gian
 - **[Verlyn Flieger](../V/Verlyn_Flieger.md)**, Học thuật và tác giả
 - **[John Garth](../J/John_Garth.md)**, Tác giả, <i><b><a href="Tolkien_and_the_Great_War.md" title="Tolkien and the Great War">Tolkien và cuộc Đại chiến</a></b></i>
 - <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Gilliver&amp;action=edit&amp;redlink=1" title="Peter Gilliver (page does not exist)">Peter Gilliver</a></b>, Nhà từ điển học và tác giả

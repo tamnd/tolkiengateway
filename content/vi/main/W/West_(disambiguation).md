@@ -20,9 +20,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../S/Standing_Silence.md" title="Standing Silence">Standing Silence</a> in <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/The_Window_on_the_West.md" title="The Window on the West">The Window on the West</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Phương Tây** là thuật ngữ tương đối trong [Arda](../A/Arda.md), thường gắn liền với cảnh hoàng hôn. Nó được biết đến trong [Sindarin](../S/Sindarin.md) là *[annûn](../A/Annûn.md)* hoặc *[dûn](../D/Dûn.md)*, trong [Quenya](../Q/Quenya.md) là *[andúnë](../A/Andúnë.md)* hoặc *[númen](../N/Númen.md)*và trong [Adûnaic](../A/Adûnaic.md) là *[adûn](../A/Adûn.md)*.
+**Phương Tây** là thuật ngữ tương đối trong [Arda](../A/Arda.md), thường gắn liền với cảnh hoàng hôn. Nó được biết đến trong [Sindarin](../S/Sindarin.md) là *[annûn](../A/Annûn.md)* hoặc *[dûn](../D/Dûn.md)*, trong [Quenya](../Q/Quenya.md) là *[andúnë](../A/Andúnë.md)* hoặc *[númen](../N/Númen.md)* và trong [Adûnaic](../A/Adûnaic.md) là *[adûn](../A/Adûn.md)*.
 
-Theo một nghĩa trừu tượng, "the Phương Tây" được vinh danh là ngôi nhà của [Valar](../V/Valar.md) và [Eldar](../E/Eldar.md)cũng như di sản của [Númenor](../N/Númenor.md). Về mặt chính trị, nó bao gồm [các vương quốc và dân tộc](../F/Free_peoples~19934.md) của [Westlands](Westlands.md) thuộc phạm vi văn hóa của [Tiên tộc](../E/Elves.md) và [Dúnedain](../D/Dúnedain.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và liên minh với họ để chống lại [Sauron](../S/Sauron.md).
+Theo một nghĩa trừu tượng, "the Phương Tây" được vinh danh là ngôi nhà của [Valar](../V/Valar.md) và [Eldar](../E/Eldar.md) cũng như di sản của [Númenor](../N/Númenor.md). Về mặt chính trị, nó bao gồm [các vương quốc và dân tộc](../F/Free_peoples~19934.md) của [Westlands](Westlands.md) thuộc phạm vi văn hóa của [Tiên tộc](../E/Elves.md) và [Dúnedain](../D/Dúnedain.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và liên minh với họ để chống lại [Sauron](../S/Sauron.md).
 
 *West* có thể đề cập đến:
 
@@ -33,7 +33,7 @@ Theo một nghĩa trừu tượng, "the Phương Tây" được vinh danh là ng
 - ** [Cực Tây](../U/Uttermost_West.md) hay Viễn Tây, [Aman](../A/Aman.md). Ở đó, [Valar](../V/Valar.md) cư trú và Yêu tinh ra đi khi họ "đi thuyền về phía Tây".**
 - [Beleriand](../B/Beleriand.md), vùng đất cực tây phía đông Belegaer. Yêu tinh sống ở đây đôi khi được gọi là <a class="new" href="https://tolkiengateway.net/w/index.php?title=D%C3%BAnedhil&amp;action=edit&amp;redlink=1" title="Dúnedhil (page does not exist)">Dúnedhil</a>, Yêu tinh phương Tây, để phân biệt với [Avari](../A/Avari.md).
 - Miền Tây, hay [Westernesse](../N/Númenor.md), nằm ở Belegaer, phía Tây của [Trung Địa](../M/Middle-earth.md). [Dúnedain](../D/Dúnedain.md), hay Người phương Tây, lấy tên của họ theo nghĩa này.
-- **After the drowning of both Beleriand and Númenor, "the West" generally referred to the north-western portions of [Middle-earth](../M/Middle-earth.md), or [Westlands](Westlands.md), specifically [Eriador](../E/Eriador.md); hoặc ít nhất là [những người phản đối Sauron](../F/Free_peoples~19934.md).**
+- **Sau khi cả Beleriand và Númenor bị chết đuối, "miền Tây" thường được dùng để chỉ các phần phía tây bắc của [Trung Địa](../M/Middle-earth.md) hoặc [Westlands](Westlands.md), cụ thể là [Eriador](../E/Eriador.md); hoặc ít nhất là [những người phản đối Sauron](../F/Free_peoples~19934.md).**
 
 <dl><dd><i>Also:</i></dd></dl>
 

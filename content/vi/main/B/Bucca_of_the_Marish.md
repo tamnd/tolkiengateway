@@ -50,7 +50,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Khoảng [S.R.](../S/Shire_Reckoning.md) [379](../T/Third_Age_1979.md), khoảng bốn năm sau khi [Vương quốc phương Bắc](../A/Arnor.md)sụp đổ, Hobbit của [ Shire](../T/The_Shire.md) đã bầu từ giữa họ một Bucca của [Marish](../M/Marish.md) làm Thain đầu tiên. Anh ta sẽ cai trị vùng đất thay cho [Vua](../K/King_of_Arthedain.md). Người ta biết rất ít về ông, ngoài việc ông đã mang lại hòa bình và thịnh vượng cho Hobbit.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khoảng [S.R.](../S/Shire_Reckoning.md) [379](../T/Third_Age_1979.md), khoảng bốn năm sau khi [Vương quốc phương Bắc](../A/Arnor.md) sụp đổ, Hobbit của [ Shire](../T/The_Shire.md) đã bầu từ giữa họ một Bucca của [Marish](../M/Marish.md) làm Thain đầu tiên. Anh ta sẽ cai trị vùng đất thay cho [Vua](../K/King_of_Arthedain.md). Người ta biết rất ít về ông, ngoài việc ông đã mang lại hòa bình và thịnh vượng cho Hobbit.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Gia đình anh trở thành [Oldbucks](../O/Oldbucks.md) và cuối cùng là [Brandybucks](Brandybuck_Family~66350.md).
 

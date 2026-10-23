@@ -37,7 +37,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md)và [Gimli](../G/Gimli.md) tiếp tục truy đuổi con đường [Uruk-hai](../U/Uruk-hai.md) đang di chuyển nhanh qua vùng đồng bằng Rohan. Legolas nhận xét về tốc độ di chuyển của quân Uruk và Gimli phải vật lộn với việc truy đuổi.
+[Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) tiếp tục truy đuổi con đường [Uruk-hai](../U/Uruk-hai.md) đang di chuyển nhanh qua vùng đồng bằng Rohan. Legolas nhận xét về tốc độ di chuyển của quân Uruk và Gimli phải vật lộn với việc truy đuổi.
 
 <blockquote class="tg-quote noexcerpt">
 <p>They run as if the very whips of their masters were behind them.

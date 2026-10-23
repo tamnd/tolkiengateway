@@ -34,7 +34,7 @@ Trong bản phác thảo này được nhìn thấy
 
 <dl><dd>&#39;long sloping causeway that led up on to the Mountain&#39;s eastern side&#39;</dd></dl>
 
-chở Đường của [Sauron](../../main/S/Sauron.md)từ [Barad-dûr](../../main/B/Barad-dûr.md) đến lối vào tối tăm của [Sammath Naur](../../main/S/Sammath_Naur.md). Nó được xuất bản như một phần phụ của bức tranh về Barad-dur trong [The Lord of the Rings Lịch 1977](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md).
+chở Đường của [Sauron](../../main/S/Sauron.md) từ [Barad-dûr](../../main/B/Barad-dûr.md) đến lối vào tối tăm của [Sammath Naur](../../main/S/Sammath_Naur.md). Nó được xuất bản như một phần phụ của bức tranh về Barad-dur trong [The Lord of the Rings Lịch 1977](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md).
 
 ## Giấy phép {#Licensing}
 

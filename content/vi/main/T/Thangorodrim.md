@@ -75,7 +75,7 @@ Vị trí và kích thước của Thangorodrim không rõ ràng. Một bức v�
 
 *Thangorodrim* là [Sindarin](../S/Sindarin.md) dành cho "Dãy Núi của Bạo chúa"<sup id="cite_ref-PE17_7-0" class="reference"><a href="#cite_note-PE17-7">[7]</a></sup> hoặc "chuỗi núi chuyên chế".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Tên bao gồm *[thang](Thang.md)* ("cưỡng bức, áp bức") + *[orodrim](../O/Orodrim.md)* ("chuỗi núi").<sup id="cite_ref-PE17_7-1" class="reference"><a href="#cite_note-PE17-7">[7]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
-Trong [Noldorin](../N/Noldorin.md)trước đó, *Thangorodrim* được gọi là "Dãy Núi của sự cưỡng bức".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+Trong [Noldorin](../N/Noldorin.md) trước đó, *Thangorodrim* được gọi là "Dãy Núi của sự cưỡng bức".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

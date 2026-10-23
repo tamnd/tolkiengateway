@@ -38,7 +38,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Không có ghi chép trực tiếp nào về Isumbras II, nhưng rõ ràng ông đã tồn tại giữa [Isumbras I](Isumbras_Took_I.md), người sáng lập dòng Took của Thains ở [S.R.](../S/Shire_Reckoning.md) [740](../T/Third_Age_2340.md)và [Isumbras III](Isumbras_Took_III.md) sau này.<sup id="cite_ref-App|Took_1-0" class="reference"><a href="#cite_note-App|Took-1">[1]</a></sup> Triều đại của Isumbras II có thể diễn ra không muộn hơn [S.R.](../S/Shire_Reckoning.md) [1083](../T/Third_Age_2683.md), khi [Isengrim II](Isengrim_Took_II.md) trở thành Thain, vì không có khoảng trống nào trong phả hệ của gia đình Took.<sup id="cite_ref-App|B2_2-0" class="reference"><a href="#cite_note-App|B2-2">[2]</a></sup>
+Không có ghi chép trực tiếp nào về Isumbras II, nhưng rõ ràng ông đã tồn tại giữa [Isumbras I](Isumbras_Took_I.md), người sáng lập dòng Took của Thains ở [S.R.](../S/Shire_Reckoning.md) [740](../T/Third_Age_2340.md) và [Isumbras III](Isumbras_Took_III.md) sau này.<sup id="cite_ref-App|Took_1-0" class="reference"><a href="#cite_note-App|Took-1">[1]</a></sup> Triều đại của Isumbras II có thể diễn ra không muộn hơn [S.R.](../S/Shire_Reckoning.md) [1083](../T/Third_Age_2683.md), khi [Isengrim II](Isengrim_Took_II.md) trở thành Thain, vì không có khoảng trống nào trong phả hệ của gia đình Took.<sup id="cite_ref-App|B2_2-0" class="reference"><a href="#cite_note-App|B2-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

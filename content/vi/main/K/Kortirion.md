@@ -128,7 +128,7 @@ Thành phố **Cortirion** ở Tol Eressëa cũng xuất hiện trong phần k�
 
 ## Cảm hứng {#Inspiration}
 
-Thành phố Kortirion được lấy cảm hứng từ thị trấn <a class="extiw" href="http://en.wikipedia.org/wiki/Warwick" title="wikipedia:Warwick">Warwick</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>, nơi [Edith Bratt](../E/Edith_Bratt.md) sống từ [1913](../_/1913.md) cho đến khi kết hôn với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ở [1916](../_/1916.md)và nơi Tolkien đến thăm cô từ [Oxford](../O/Oxford.md).<sup id="cite_ref-Ala_2-1" class="reference"><a href="#cite_note-Ala-2">[2]</a></sup>
+Thành phố Kortirion được lấy cảm hứng từ thị trấn <a class="extiw" href="http://en.wikipedia.org/wiki/Warwick" title="wikipedia:Warwick">Warwick</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>, nơi [Edith Bratt](../E/Edith_Bratt.md) sống từ [1913](../_/1913.md) cho đến khi kết hôn với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ở [1916](../_/1916.md) và nơi Tolkien đến thăm cô từ [Oxford](../O/Oxford.md).<sup id="cite_ref-Ala_2-1" class="reference"><a href="#cite_note-Ala-2">[2]</a></sup>
 
 Dòng Nước Lượn chảy qua Kortirion có lẽ được lấy cảm hứng từ dòng sông <a class="extiw" href="http://en.wikipedia.org/wiki/River_Avon,_Warwickshire" title="wikipedia:River Avon, Warwickshire">Avon</a>, chảy qua Warwick.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[32]</a></sup>
 

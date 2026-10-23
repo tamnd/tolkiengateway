@@ -27,7 +27,7 @@ images:
 
 **Udûn**, **Sâu**, là một khái niệm thường gắn liền với Địa ngục. Nó có thể đề cập đến:
 
-- [Udûn (thành trì)](<Udûn_(stronghold).md>), [Sindarin](../S/Sindarin.md) cho thành trì của "[Utumno](Utumno.md)", [Morgoth](../M/Morgoth.md)trước [Kỷ Đệ Nhất](../F/First_Age.md); Địa ngục.
+- [Udûn (thành trì)](<Udûn_(stronghold).md>), [Sindarin](../S/Sindarin.md) cho thành trì của "[Utumno](Utumno.md)", [Morgoth](../M/Morgoth.md) trước [Kỷ Đệ Nhất](../F/First_Age.md); Địa ngục.
     - [Ngọn lửa của Udûn](../D/Durin's_Bane.md), [Balrog](../B/Balrogs.md) của [Moria](../M/Moria.md) bị phá hủy bởi [Gandalf](../G/Gandalf.md).
 - [Udûn (thung lũng)](<Udûn_(valley).md>), một thung lũng ở phía bắc [Mordor](../M/Mordor.md).
 

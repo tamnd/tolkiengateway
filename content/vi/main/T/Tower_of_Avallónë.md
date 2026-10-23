@@ -33,7 +33,7 @@ infobox:
 
 **Tháp Avallónë** được nâng lên để nhìn ra thiên đường của [Avallónë](../A/Avallónë.md) trên đảo [Tol Eressëa](Tol_Eressëa.md). Ở đó *[Master Palantír](../M/Master-stone.md)* được lưu giữ. Người ta kể rằng khi một thủy thủ đi thuyền tới [Aman](../A/Aman.md), trước hết anh ta đã nhìn thấy tòa tháp ở phía chân trời.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-[Đá Elostirion](../E/Elostirion-stone.md), một trong những *[palantíri](../P/Palantíri.md)* được dựng lên ở tòa tháp cao nhất của [Emyn Beraid](../E/Emyn_Beraid.md), có thể hiển thị tòa tháp khi Vua [Elendil](../E/Elendil.md)sử dụng. Điều này sẽ an ủi anh khi anh khao khát Phương Tây.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Đá Elostirion](../E/Elostirion-stone.md), một trong những *[palantíri](../P/Palantíri.md)* được dựng lên ở tòa tháp cao nhất của [Emyn Beraid](../E/Emyn_Beraid.md), có thể hiển thị tòa tháp khi Vua [Elendil](../E/Elendil.md) sử dụng. Điều này sẽ an ủi anh khi anh khao khát Phương Tây.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

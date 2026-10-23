@@ -176,7 +176,7 @@ Sau khi truy cập [Elrond](../E/Elrond.md), [Thorin và Đoàn tùy tùng](Thor
 
 #### Những câu đố trong bóng tối {#Riddles_in_the_Dark}
 
-Sau khi bị yêu tinh bắt, Bilbo bị tách khỏi phần còn lại của Công ty. Cấp độ này giới thiệu [Thị trấn Yêu Tinh](../G/Goblin-town.md) là một mỏ Người lùn, hoàn chỉnh với thang máy và đường ray xe đẩy tàu lượn siêu tốc. Ở cấp độ này, Bilbo gặp [Balfor](../B/Balfor.md), một Người lùn của [Dãy Đồi Sắt](../I/Iron_Hills.md)và Ugslap, người bảo vệ Yêu tinh. Cấp độ kết thúc với Bilbo tìm thấy Nhẫn.
+Sau khi bị yêu tinh bắt, Bilbo bị tách khỏi phần còn lại của Công ty. Cấp độ này giới thiệu [Goblin-town](../G/Goblin-town.md) như một mỏ Người lùn, hoàn chỉnh với thang máy và đường ray xe đẩy tàu lượn siêu tốc. Ở cấp độ này, Bilbo gặp [Balfor](../B/Balfor.md), một Người lùn của [Dãy Đồi Sắt](../I/Iron_Hills.md) và Ugslap, người bảo vệ Yêu tinh. Cấp độ kết thúc với việc Bilbo tìm thấy Chiếc nhẫn.
 
 <dl><dd><i>At this point, an animation starts, depicting the riddle game, followed by a story board telling of Bilbo&#39;s reuniting with the Dwarves. A second animation depicts the hiding in the trees and the rescue by the <a class="mw-redirect" href="../E/Eagles.md" title="Eagles">Eagles</a>. The narrator then summarizes the story from the drop off at the edge of Mirkwood (<a href="../B/Beorn.md" title="Beorn">Beorn</a> is omitted at this stage) to the capture of the Dwarves by the spiders.</i></dd></dl>
 
@@ -186,11 +186,11 @@ Bilbo bị lạc và phải tìm đường vượt qua một con nhện Mirkwood
 
 #### Thùng hết hạn {#Barrels_Out_of_Bond}
 
-Bilbo và những người lùn vẫn chưa an toàn khi ra khỏi Mirkwood. Những người lùn bị yêu tinh bắt giữ và Bilbo phải tìm cách giải cứu họ cũng như tìm cách trốn thoát, đồng thời tránh bị yêu tinh nhìn thấy. Cấp độ này giới thiệu việc sử dụng rộng rãi [Nhẫn](The_One_Ring.md). Sau khi bước vào hội trường, Bilbo gặp lại Lianna, người sẽ giúp đỡ anh. Bilbo phải tìm Người Lùn và các loại thảo mộc để đánh thuốc mê [Galion](../G/Galion.md), đồng thời chiến đấu với những sinh vật giống ếch và nhiều loài nhện khác. Từ các cuộc trò chuyện Bilbo xuất hiện khi vượt qua Tiên tộc [Bạch Hội Đồng](../W/White_Council.md) được đề cập: cuối cùng họ đã tấn công [Dol Guldur](../D/Dol_Guldur.md).
+Bilbo và những người lùn vẫn chưa an toàn khi ra khỏi Mirkwood. Những người lùn bị yêu tinh bắt giữ và Bilbo phải tìm cách giải cứu họ cũng như tìm cách trốn thoát, đồng thời tránh bị yêu tinh nhìn thấy. Cấp độ này giới thiệu cách sử dụng rộng rãi [Chiếc nhẫn](The_One_Ring.md). Sau khi bước vào hội trường, Bilbo gặp lại Lianna, người sẽ giúp đỡ anh. Bilbo phải tìm Người Lùn và các loại thảo mộc để đánh thuốc mê [Galion](../G/Galion.md), đồng thời chiến đấu với những sinh vật giống ếch và nhiều loài nhện khác. Từ các cuộc trò chuyện Bilbo xuất hiện khi vượt qua Tiên tộc [Bạch Hội Đồng](../W/White_Council.md) được đề cập: cuối cùng họ đã tấn công [Dol Guldur](../D/Dol_Guldur.md).
 
 #### Chào mừng nồng nhiệt {#A_Warm_Welcome}
 
-Bilbo quản lý để đặt Người Lùn vào thùng và trốn thoát đến [Thị trấn Hồ](../L/Lake-town.md). Ở Laketown, [Bard](../B/Bard.md) và [Calamar](../C/Calamar.md), [Chủ nhân của Thị trấn Hồ](../M/Master_of_Lake-town.md), tuyển dụng Bilbo để thực hiện thêm các vụ trộm và gián điệp. Anh ta phải ngăn chặn một nhóm tội phạm gồm Người Hồ và Orc, những kẻ đã đánh cắp [Mũi tên đen](../B/Black_Arrow~68980.md). Tất cả Người Lùn đều nằm rải rác xung quanh Thị trấn Hồ và nhiều trong số chúng xuất hiện lần đầu tiên ở đây.
+Bilbo quản lý để đặt Người Lùn vào thùng và trốn thoát đến [Thị trấn Hồ](../L/Lake-town.md). Tại Laketown, [Bard](../B/Bard.md) và [Calamar](../C/Calamar.md), [Bậc thầy của Thị trấn Hồ](../M/Master_of_Lake-town.md), tuyển dụng Bilbo để thực hiện thêm các vụ trộm và gián điệp. Anh ta phải ngăn chặn một tổ chức tội phạm gồm Người Hồ và Orc, những kẻ đã đánh cắp [Mũi tên đen](../B/Black_Arrow~68980.md). Tất cả Người Lùn đều nằm rải rác xung quanh Thị trấn Hồ và nhiều trong số chúng xuất hiện lần đầu tiên ở đây.
 
 #### Thông tin nội bộ {#Inside_Information}
 

@@ -69,7 +69,7 @@ infobox:
 
 Đây cũng là tập thứ hai của *[The History of The Lord of the Rings](The_History_of_The_Lord_of_the_Rings.md)*, ghi lại quá trình viết của *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
 
-Cuốn sách này bao gồm một phần của *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)* và một phần của *[The Two Towers](The_Two_Towers.md)*. Nó tiếp tục cuộc gặp với [Théoden](Théoden.md) vua của [Rohan](../R/Rohan.md), và bao gồm việc phát minh và phát triển [Lothlórien](../L/Lothlórien.md) và [Galadriel](../G/Galadriel.md); kế hoạch tiến tới [Frodo](../F/Frodo.md) và [Sam](../S/Sam.md)lên [Mordor](../M/Mordor.md); phát minh và sự phát triển của [Treebeard](Treebeard.md), [Ent](../E/Ents.md)và [Fangorn](../F/Fangorn_Forest.md); thảo luận về bản đồ gốc của Trung Địa ở cuối Kỷ Đệ Tam; và sự phát triển của [Cirth](../C/Cirth.md) trong phần phụ lục.
+Cuốn sách này bao gồm một phần của *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)* và một phần của *[The Two Towers](The_Two_Towers.md)*. Nó tiếp tục cuộc gặp với [Théoden](Théoden.md) vua của [Rohan](../R/Rohan.md), và bao gồm việc phát minh và phát triển [Lothlórien](../L/Lothlórien.md) và [Galadriel](../G/Galadriel.md); kế hoạch tiến tới [Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) lên [Mordor](../M/Mordor.md); phát minh và sự phát triển của [Treebeard](Treebeard.md), [Ent](../E/Ents.md) và [Fangorn](../F/Fangorn_Forest.md); thảo luận về bản đồ gốc của Trung Địa ở cuối Kỷ Đệ Tam; và sự phát triển của [Cirth](../C/Cirth.md) trong phần phụ lục.
 
 Tựa *The Treason of Isengard* là tựa gốc của Quyển III của *The Lord of the Rings*, cuối cùng không được sử dụng.
 

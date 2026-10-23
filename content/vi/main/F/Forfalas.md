@@ -22,9 +22,9 @@ sort_keys:
   "Sindarin locations": "Forfalas"
 ---
 
-**Forfalas** là nửa phía bắc của vùng [Falas](Falas.md), nằm ở phía nam [Nevrast](../N/Nevrast.md)và phía tây bắc [Eglamar](<../E/Eglamar_(Falas).md>).<sup id="cite_ref-For_1-0" class="reference"><a href="#cite_note-For-1">[1]</a></sup><sup id="cite_ref-Bel_2-0" class="reference"><a href="#cite_note-Bel-2">[2]</a></sup>
+**Forfalas** là nửa phía bắc của vùng [Falas](Falas.md), nằm ở phía nam [Nevrast](../N/Nevrast.md) và phía tây bắc [Eglamar](<../E/Eglamar_(Falas).md>).<sup id="cite_ref-For_1-0" class="reference"><a href="#cite_note-For-1">[1]</a></sup><sup id="cite_ref-Bel_2-0" class="reference"><a href="#cite_note-Bel-2">[2]</a></sup>
 
-Vùng Forfalas được đánh dấu trên *[the Second 'Silmarillion' Map](../T/The_Second_'Silmarillion'_Map.md)*,<sup id="cite_ref-For_1-1" class="reference"><a href="#cite_note-For-1">[1]</a></sup> làm cơ sở cho [bản đồ Beleriand](../M/Map_of_Beleriand_and_the_Lands_to_the_North.md) trong *[Silmarillion](../S/Silmarillion.md)*được xuất bản.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Vùng Forfalas được đánh dấu trên *[the Second 'Silmarillion' Map](../T/The_Second_'Silmarillion'_Map.md)*,<sup id="cite_ref-For_1-1" class="reference"><a href="#cite_note-For-1">[1]</a></sup> làm cơ sở cho [bản đồ Beleriand](../M/Map_of_Beleriand_and_the_Lands_to_the_North.md) trong *[Silmarillion](../S/Silmarillion.md)* được xuất bản.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Tuy nhiên, ngoài việc được dán nhãn trên bản đồ nói trên, Forfalas không bao giờ được nhắc đến nữa, cũng như không xuất hiện trong bất kỳ câu chuyện, biên niên sử hay tiểu luận nào được đặt trong [Kỷ Đệ Nhất](First_Age.md).<sup id="cite_ref-Bel_2-1" class="reference"><a href="#cite_note-Bel-2">[2]</a></sup>
 

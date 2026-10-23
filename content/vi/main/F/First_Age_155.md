@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Morgoth](../M/Morgoth.md) cử một lực lượng nhỏ xuống Firth của [Drengist](../D/Drengist.md) để tấn công [Fingolfin](Fingolfin.md) mà không hề hay biết, nhưng [lũ Orc](../O/Orcs.md) đã bị [Fingon](Fingon.md)đánh bại. Sau đó Morgoth, nhận thấy lũ Orc không phải là đối thủ của [Noldor](../N/Noldor.md), bắt đầu nghĩ đến [những sinh vật khác](../D/Dragons.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Morgoth](../M/Morgoth.md) cử một lực lượng nhỏ xuống Firth của [Drengist](../D/Drengist.md) để tấn công [Fingolfin](Fingolfin.md) mà không hề hay biết, nhưng [lũ Orc](../O/Orcs.md) đã bị [Fingon](Fingon.md) đánh bại. Sau đó Morgoth, nhận thấy lũ Orc không phải là đối thủ của [Noldor](../N/Noldor.md), bắt đầu nghĩ đến [những sinh vật khác](../D/Dragons.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

@@ -69,7 +69,7 @@ Sự kiện xảy ra vào ngày 3 tháng 6
 - **[1930](1930.md)** - Tác giả [Marion Zimmer Bradley](../M/Marion_Zimmer_Bradley.md) ra đời.
 - **[1945](1945.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 101](../L/Letter_101.md).
 - **[1947](1947.md)** - Diễn viên lồng tiếng [Matthew Locricchio](../M/Matthew_Locricchio.md) ra đời.
-- **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được [Đại học Oxford](../U/University_of_Oxford.md)trao tặng bằng Tiến sĩ Văn học danh dự.
+- **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được [Đại học Oxford](../U/University_of_Oxford.md) trao tặng bằng Tiến sĩ Văn học danh dự.
 - **[1998](1998.md)** - Nhà sản xuất [William Lawrence Snyder](../W/William_Lawrence_Snyder.md) qua đời.
 - **[2004](2004.md)** - [The Lord of the Rings Bản giao hưởng](../T/The_Lord_of_the_Rings_Symphony.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Atlanta" title="wikipedia:Atlanta">Atlanta</a> Nhà hát giao hưởng, <a class="extiw" href="http://en.wikipedia.org/wiki/Georgia_(U.S._state)" title="wikipedia:Georgia (U.S. state)">Georgia</a>.
 - **[2005](2005.md)** - [Tolkien Gateway](../T/Tolkien_Gateway.md) mở dưới dạng wiki.

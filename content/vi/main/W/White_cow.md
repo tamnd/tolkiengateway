@@ -37,7 +37,7 @@ Một **con bò [màu trắng](../C/Cows.md)** màu trắng "thuộc về [các 
 
 ## Cảm hứng {#Inspiration}
 
-Như [Arden R. Smith](../A/Arden_R._Smith.md)đã lưu ý, "không có thông tin nào về con bò trắng trong Artanor hoặc [Doriath](../D/Doriath.md) xuất hiện ở nơi khác trong [truyền thuyết](../L/Legendarium.md) đã xuất bản, nhưng những con bò trắng như những cư dân của thế giới cổ tích là mô-típ phổ biến trong [Celtic](../C/Celtic.md) thần thoại".<sup id="cite_ref-PE18_1-1" class="reference"><a href="#cite_note-PE18-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Như [Arden R. Smith](../A/Arden_R._Smith.md) đã lưu ý, "không có thông tin nào về con bò trắng trong Artanor hoặc [Doriath](../D/Doriath.md) xuất hiện ở nơi khác trong [truyền thuyết](../L/Legendarium.md) đã xuất bản, nhưng những con bò trắng như những cư dân của thế giới cổ tích là mô-típ phổ biến trong [Celtic](../C/Celtic.md) thần thoại".<sup id="cite_ref-PE18_1-1" class="reference"><a href="#cite_note-PE18-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -28,7 +28,7 @@ infobox:
 
 Trong [Kỷ Đệ Nhất](../F/First_Age.md), [Túrin Turambar](../T/Túrin.md) là đội trưởng của [Gaurwaith](../G/Gaurwaith.md), một băng nhóm ngoài vòng pháp luật, đang tìm kiếm một hang ổ mới thì họ bắt được [Mîm](../M/Mîm.md) [Người lùn nhỏ](../P/Petty-dwarves.md). Để đổi lấy mạng sống của mình, Mîm đã dẫn [Con Người](../M/Men.md) về nhà của mình, nơi được khắc trên đỉnh [Amon Rûdh](../A/Amon_Rûdh.md). Khi họ đến gần nơi ẩn náu bí mật từ phía bắc, ánh sáng mặt trời từ phía tây chiếu sáng ngọn đồi và những bông hoa đỏ rực của nó, khiến kẻ ngoài vòng pháp luật [Andróg](../A/Andróg.md) phải thốt lên: "Thấy chưa! Có máu trên đỉnh đồi".<sup id="cite_ref-Mim_1-1" class="reference"><a href="#cite_note-Mim-1">[1]</a></sup>
 
-Mîm sau đó đã phản bội Túrin và những người theo hắn vào một nhóm gồm [Orc](../O/Orcs.md). Orc tấn công nơi ẩn náu và giết chết tất cả trừ Túrin và người bạn yêu tinh [Beleg](../B/Beleg.md)của anh ta. Máu của những kẻ sống ngoài vòng pháp luật còn lại đã chảy trên *seregon*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Mîm sau đó đã phản bội Túrin và những người theo hắn vào một nhóm gồm [Orc](../O/Orcs.md). Orc tấn công nơi ẩn náu và giết chết tất cả trừ Túrin và người bạn yêu tinh [Beleg](../B/Beleg.md) của anh ta. Máu của những kẻ sống ngoài vòng pháp luật còn lại đã chảy trên *seregon*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

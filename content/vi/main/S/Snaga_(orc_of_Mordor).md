@@ -48,11 +48,11 @@ Một [Orc](../O/Orcs.md), có địa chỉ là **Snaga**, là một phần củ
 
 Snaga đang chạy xuống cầu thang của tòa tháp thì gặp phải thứ mà anh ấy nghĩ là "[Chiến binh Tiên tuyệt vời](Samwise_Gamgee.md)" trên cầu thang. Xoay người, anh ta bỏ chạy trở lại con đường anh ta đã đến. “Chiến binh Tiên vĩ đại” thực chất là [Samwise Gamgee](Samwise_Gamgee.md) người đã đi theo Orc, dù mệt mỏi nhưng vẫn tụt lại phía sau kẻ thù của mình.
 
-Snaga gặp [Shagrat](Shagrat.md), người đã ra lệnh cho anh ta gửi tin tới [Sauron](Sauron.md) rằng họ đã bắt được một [Halfling](../F/Frodo_Baggins.md). Snaga từ chối và sau một hồi rượt đuổi ngắn, anh đã lên được đỉnh tháp. Tại đây, ông ta dùng roi quất người tù [Frodo Baggins](../F/Frodo_Baggins.md). Anh ta nhanh chóng bị [Samwise Gamgee](Samwise_Gamgee.md)khống chế và rơi qua cửa bẫy và tử vong.<sup id="cite_ref-Tower_1-1" class="reference"><a href="#cite_note-Tower-1">[1]</a></sup>
+Snaga gặp [Shagrat](Shagrat.md), người đã ra lệnh cho anh ta gửi tin tới [Sauron](Sauron.md) rằng họ đã bắt được một [Halfling](../F/Frodo_Baggins.md). Snaga từ chối và sau một hồi rượt đuổi ngắn, anh đã lên được đỉnh tháp. Tại đây, ông ta dùng roi quất người tù [Frodo Baggins](../F/Frodo_Baggins.md). Anh ta nhanh chóng bị [Samwise Gamgee](Samwise_Gamgee.md) khống chế và rơi qua cửa bẫy và tử vong.<sup id="cite_ref-Tower_1-1" class="reference"><a href="#cite_note-Tower-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Snaga là một thuật ngữ khinh thường dành cho [Orc](../O/Orcs.md) nhỏ hơn của [Mordor](../M/Mordor.md) và [Isengard](../I/Isengard.md), được sử dụng đặc biệt trong số [Uruk-hai](../U/Uruk-hai.md)lớn hơn và mạnh hơn. Nó xuất phát từ một từ trong [Hắc Ngữ](../B/Black_Speech.md) có nghĩa là 'nô lệ' hoặc 'người hầu'.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Snaga là một thuật ngữ khinh thường dành cho [Orc](../O/Orcs.md) nhỏ hơn của [Mordor](../M/Mordor.md) và [Isengard](../I/Isengard.md), được sử dụng đặc biệt trong số [Uruk-hai](../U/Uruk-hai.md) lớn hơn và mạnh hơn. Nó xuất phát từ một từ trong [Hắc Ngữ](../B/Black_Speech.md) có nghĩa là 'nô lệ' hoặc 'người hầu'.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

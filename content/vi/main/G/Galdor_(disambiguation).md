@@ -27,7 +27,7 @@ images:
 
 - [Galdor (yêu tinh của Gondolin)](<Galdor_(elf_of_Gondolin).md>), chúa tể của [Nhà Cây](../H/House_of_the_Tree.md).
 - [Galdor (Chúa tể của Dor-lómin)](<Galdor_(Lord_of_Dor-lómin).md>), cha của [Húrin Thalion](../H/Húrin.md), người đã chết trước [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md).
-- [Galdor (yêu tinh của thiên đường)](<Galdor_(elf_of_the_Havens).md>), đại diện của [Círdan](../C/Círdan.md)tại [Hội đồng Elrond](../C/Council_of_Elrond.md).
+- [Galdor (yêu tinh của thiên đường)](<Galdor_(elf_of_the_Havens).md>), đại diện của [Círdan](../C/Círdan.md) tại [Hội đồng Elrond](../C/Council_of_Elrond.md).
 - [Galdor (người đàn ông của Rohan)](<Galdor_(man_of_Rohan).md>), quản lý của [Edoras](../E/Edoras.md).
 
 <hr style="margin-top:15px;"/>

@@ -35,7 +35,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Tosser Grubb là người bán đấu giá cho [Messrs Grubb, Grubb và Burrowes](../M/Messrs_Grubb,_Grubb_and_Burrowes.md) phụ trách bán tài sản của [Bilbo Baggins](../B/Bilbo_Baggins.md)và [Bag End](../B/Bag_End.md). Khi Bilbo đến, Tosser tỏ ra lo sợ. Bilbo đã đưa cho anh ta hợp đồng mà anh ta có với Người Lùn, mà Tosser thấy đủ để chứng minh danh tính của anh ta.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Tosser Grubb là người bán đấu giá cho [Messrs Grubb, Grubb và Burrowes](../M/Messrs_Grubb,_Grubb_and_Burrowes.md) phụ trách bán tài sản của [Bilbo Baggins](../B/Bilbo_Baggins.md) và [Bag End](../B/Bag_End.md). Khi Bilbo đến, Tosser tỏ ra lo sợ. Bilbo đã đưa cho anh ta hợp đồng mà anh ta có với Người Lùn, mà Tosser thấy đủ để chứng minh danh tính của anh ta.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

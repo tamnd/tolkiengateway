@@ -40,7 +40,7 @@ Các thành viên được biết đến là [Rúmil](<../R/Rúmil_(elf_of_Tirio
 
 Một khái niệm tương tự là **Quettúri** ("Các bậc thầy về từ"), những người Noldor thực hiện [lámatyávë](Lámatyávë.md) tạo ra các hệ thống từ mới.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong Valinor, Fëanor là trưởng nhóm nghiên cứu truyền thuyết về ngôn ngữ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Những người truyền thuyết không phải là một hội riêng biệt hay những người ghi chép hiền lành; họ bao gồm những vị vua, hoàng tử và chiến binh vĩ đại nhất như Fëanor, thuyền trưởng của [Gondolin](../G/Gondolin.md), [Finrod](../F/Finrod.md)và [Orodreth](../O/Orodreth.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Những người truyền thuyết không phải là một hội riêng biệt hay những người ghi chép hiền lành; họ bao gồm những vị vua, hoàng tử và chiến binh vĩ đại nhất như Fëanor, thuyền trưởng của [Gondolin](../G/Gondolin.md), [Finrod](../F/Finrod.md) và [Orodreth](../O/Orodreth.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -48,7 +48,7 @@ Những người truyền thuyết không phải là một hội riêng biệt h
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Lore-masters are a playable class in Turbine&#39;s MMORPG for the races of Men and Elves. Lore-masters in this adaptation play a support role, casting spells to improve the performance of their allies.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 

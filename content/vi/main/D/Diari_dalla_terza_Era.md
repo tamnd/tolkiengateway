@@ -71,7 +71,7 @@ infobox:
 
 Diari dalla Terza Era diễn ra giữa các sự kiện [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) và [The Silmarillion](../T/The_Silmarillion.md) cụ thể là ở [T.A.](../T/Third_Age.md) [1975](../T/Third_Age_1975.md) trong sự sụp đổ của Vương quốc [Angmar](../A/Angmar.md).
 
-Bộ phim kể về một [Người đàn ông](../M/Men.md) được biết đến với cái tên "Il Campione" (tiếng Ý: Nhà vô địch), người truy đuổi [Witch-Vua của Angmar](../W/Witch-King~20091.md) bất chấp lời tiên tri của [Glorfindel](../G/Glorfindel.md)nêu rõ:
+Bộ phim kể về một [Người đàn ông](../M/Men.md) được biết đến với cái tên "Il Campione" (tiếng Ý: Nhà vô địch), người truy đuổi [Witch-Vua của Angmar](../W/Witch-King~20091.md) bất chấp lời tiên tri của [Glorfindel](../G/Glorfindel.md) nêu rõ:
 
 <blockquote class="tg-quote noexcerpt">
 <p>He will not return to this land.  Far off yet is his doom, and not by the hand of man will he fall.

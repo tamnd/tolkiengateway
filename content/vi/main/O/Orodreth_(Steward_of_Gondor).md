@@ -60,7 +60,7 @@ infobox:
 
 Orodreth là con trai của [Belecthor I](../B/Belecthor_I.md). Vì nhiều Người quản lý cầm quyền được đặt theo tên của những nhân vật huyền thoại [Kỷ Đệ Nhất](../F/First_Age.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Orodreth được đặt theo tên của [Tiên-lord](Orodreth.md) của [Nargothrond](../N/Nargothrond.md).
 
-Sau cái chết của cha mình vào năm [T.A.](../T/Third_Age.md) [2655](../T/Third_Age_2655.md), anh đã kế vị ông làm Người quản lý cai trị. Ông cai trị trong một thời kỳ có vẻ yên bình và không có biến cố gì đối với Vương quốc của ông. Ông có một người con trai là [Ecthelion](../E/Ecthelion_I.md)kế vị ông.
+Sau cái chết của cha mình vào năm [T.A.](../T/Third_Age.md) [2655](../T/Third_Age_2655.md), anh đã kế vị ông làm Người quản lý cai trị. Ông cai trị trong một thời kỳ có vẻ yên bình và không có biến cố gì đối với Vương quốc của ông. Ông có một người con trai là [Ecthelion](../E/Ecthelion_I.md) kế vị ông.
 
 ## Từ nguyên {#Etymology}
 

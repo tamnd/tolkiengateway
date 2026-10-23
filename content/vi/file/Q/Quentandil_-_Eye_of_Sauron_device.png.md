@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Được vẽ lại rõ ràng và đóng khung từ [bản vẽ Con Mắt của Sauron](<../J/J.R.R._Tolkien_-_The_Lord_of_the_Rings_cover_(detail).jpg.md>) của [Tolkien](../../main/T/Tolkien.md)cho bìa *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*.
+Được vẽ lại rõ ràng và đóng khung từ [bản vẽ Con Mắt của Sauron](<../J/J.R.R._Tolkien_-_The_Lord_of_the_Rings_cover_(detail).jpg.md>) của [Tolkien](../../main/T/Tolkien.md) cho bìa *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*.
 
 ## Giấy phép {#Licensing}
 

@@ -23,7 +23,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../B/Boromir.md" title="Boromir">Boromir</a></cite></p>
 </blockquote></div></div>
 
-**ambalotsë** là một chiếc mũ có huy hiệu, đặc biệt là chiếc mũ được lãnh chúa [Tiên](../E/Elves.md)đội trong trận chiến. Đỉnh thường có hình một hoặc nhiều bông hoa.
+**ambalotsë** là một chiếc mũ có huy hiệu, đặc biệt là chiếc mũ được lãnh chúa [Tiên](../E/Elves.md) đội trong trận chiến. Đỉnh thường có hình một hoặc nhiều bông hoa.
 
 *Ambalotsë* có nghĩa là "Bông hoa nổi dậy" trong [Quenya](../Q/Quenya.md), từ *[amba](Amba.md)* ("hướng lên") + *[lótë](../L/Lótë.md)* ("hoa"). Kiểu mũ này được gọi là *[amloth](Amloth.md)* trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

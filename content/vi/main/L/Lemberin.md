@@ -23,9 +23,9 @@ images:
 
 **Lemberin** là tên trong các phiên bản đầu tiên của [huyền thoại](Legendarium.md) cho ngôn ngữ mà sau này được gọi là [Avarin](../A/Avarin.md) ngôn ngữ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong các bài viết ban đầu của Tolkien về Trung Địa, Elvish hay Quendian, các ngôn ngữ được chia thành ba nhóm, Lemberin, [Eldarin](../E/Eldarin.md)và [Ilkorin](../I/Ilkorin.md). Những người nói tiếng Lemberin được gọi là Lembi, hay Lingerers.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong các bài viết ban đầu của Tolkien về Trung Địa, Elvish hay Quendian, các ngôn ngữ được chia thành ba nhóm, Lemberin, [Eldarin](../E/Eldarin.md) và [Ilkorin](../I/Ilkorin.md). Những người nói tiếng Lemberin được gọi là Lembi, hay Lingerers.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong *[The Tree of Tongues](../T/The_Tree_of_Tongues.md)* và *[The Lhammas](../T/The_Lhammas.md)*trước đó, Tolkien có ngôn ngữ [Mannish](../M/Mannish.md) bắt nguồn từ Lemberin; trong *Tree* và *Lhammas*sau này, Lemberin chỉ ảnh hưởng đến các ngôn ngữ Mannish (cũng như [Danian](../D/Danian.md), [Orc-speech](../O/Orkish.md) và [Người lùn-speech](../K/Khuzdul.md))<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> một khái niệm được tuân theo trong *[The Silmarillion](../T/The_Silmarillion.md)*đã xuất bản.
+Trong *[The Tree of Tongues](../T/The_Tree_of_Tongues.md)* và *[The Lhammas](../T/The_Lhammas.md)* trước đó, Tolkien có ngôn ngữ [Mannish](../M/Mannish.md) bắt nguồn từ Lemberin; trong *Tree* và *Lhammas* sau này, Lemberin chỉ ảnh hưởng đến các ngôn ngữ Mannish (cũng như [Danian](../D/Danian.md), [Orc-speech](../O/Orkish.md) và [Người lùn-speech](../K/Khuzdul.md))<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> một khái niệm được tuân theo trong *[The Silmarillion](../T/The_Silmarillion.md)* đã xuất bản.
 
 Lemberin ban đầu sẽ là ngôn ngữ mẹ đẻ của [Celeborn](../C/Celeborn.md), nhưng sau đó được đổi thành [Telerin](../T/Telerin.md).
 

@@ -20,8 +20,8 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Vua Phù thủy](../W/Witch-king.md) đến [Mordor](../M/Mordor.md) và tập hợp [Nazgûl](../N/Nazgûl.md)ở đó.<sup id="cite_ref-AppB2_1-0" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
-- Một [Balrog](../D/Durin's_Bane.md) xuất hiện trong [Moria](../M/Moria.md)và giết [Vua](../K/Kings_of_Durin's_Folk.md) [Durin VI](../D/Durin_VI.md).<sup id="cite_ref-AppB2_1-1" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
+- [Vua Phù thủy](../W/Witch-king.md) đến [Mordor](../M/Mordor.md) và tập hợp [Nazgûl](../N/Nazgûl.md) ở đó.<sup id="cite_ref-AppB2_1-0" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
+- Một [Balrog](../D/Durin's_Bane.md) xuất hiện trong [Moria](../M/Moria.md) và giết [Vua](../K/Kings_of_Durin's_Folk.md) [Durin VI](../D/Durin_VI.md).<sup id="cite_ref-AppB2_1-1" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
 - [Náin I](../N/Náin_I.md), con trai của Durin VI, trở thành Vua của [Dân gian Durin](../D/Durin's_Folk~15256.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>

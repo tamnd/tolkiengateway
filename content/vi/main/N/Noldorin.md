@@ -38,9 +38,9 @@ images:
 
 [Kornoldorin](../K/Kornoldorin.md) ("Gnomish của [Kôr](../K/Kôr.md)" hoặc "Old Noldorin") là ngôn ngữ của [Gnomes](../G/Gnomes.md) trong [Valinor](../V/Valinor.md). Nó tương tự như [Qenya](../Q/Qenya.md), ngôn ngữ của [Lindar](../V/Vanyar.md), nhưng kết hợp ảnh hưởng của [Solosimpin](../S/Solosimpi.md).
 
-Khi Noldoli đến [Great Lands](../G/Great_Lands.md) với [Fëanor](../F/Fëanor.md), họ đã trộn lẫn với [Ilkorindi](../I/Ilkorindi.md), [Tiên Hắc Ám](../D/Dark_Elves.md)và ngôn ngữ của họ, Kornoldorin và [Ilkorin](../I/Ilkorin.md) tương ứng, cũng được trộn lẫn. Đây là nguồn gốc của Noldorin.
+Khi Noldoli đến [Great Lands](../G/Great_Lands.md) với [Fëanor](../F/Fëanor.md), họ đã trộn lẫn với [Ilkorindi](../I/Ilkorindi.md), [Tiên Hắc Ám](../D/Dark_Elves.md) và ngôn ngữ của họ, Kornoldorin và [Ilkorin](../I/Ilkorin.md) tương ứng, cũng được trộn lẫn. Đây là nguồn gốc của Noldorin.
 
-Noldorin có nhiều phương ngữ khác nhau, bao gồm các phương ngữ [Mithrim](../M/Mithrim.md), [Gondolin](../G/Gondolin.md), [Nargothrond](Nargothrond.md)và [Himring](../H/Himring.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> cũng như [phương ngữ Fëanorian](../F/Fëanorian_dialect.md) của [Đông Beleriand](../E/East_Beleriand.md) được nói bởi dân gian [các Con trai của Fëanor](../S/Sons_of_Fëanor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Noldorin có nhiều phương ngữ khác nhau, bao gồm các phương ngữ [Mithrim](../M/Mithrim.md), [Gondolin](../G/Gondolin.md), [Nargothrond](Nargothrond.md) và [Himring](../H/Himring.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> cũng như [phương ngữ Fëanorian](../F/Fëanorian_dialect.md) của [Đông Beleriand](../E/East_Beleriand.md) được nói bởi dân gian [các Con trai của Fëanor](../S/Sons_of_Fëanor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Hệ thống chữ viết {#Writing_System}
 
@@ -66,7 +66,7 @@ Theo *Etymologies*, từ Old Noldorin *raika* phát triển thành Noldorin *rho
 
 - [Kornoldorin](../K/Kornoldorin.md)
 - [Salmar](../S/Salmar.md), cũng được đặt tên là *Noldorin* trong các bản thảo đầu tiên
-- [Gnomish](../G/Gnomish.md)hay còn gọi là *Goldogrin*, tiền thân của Noldorin
+- [Gnomish](../G/Gnomish.md) hay còn gọi là *Goldogrin*, tiền thân của Noldorin
 
 ## Liên kết ngoài {#External_links}
 

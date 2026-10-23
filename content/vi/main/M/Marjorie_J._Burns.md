@@ -31,7 +31,7 @@ Tiến sĩ của cô ấy. đến từ <a class="extiw" href="http://en.wikipedi
 ### Sách {#Books}
 
 - [2006](../_/2006.md): *[Perilous Realms: Celtic and Norse in Tolkien's Middle-earth](../P/Perilous_Realms%253A_Celtic_and_Norse_in_Tolkien's_Middle-earth.md)*
-- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia.md)* (liên kết biên tập với [Douglas A. Anderson](../D/Douglas_A._Anderson.md), [Verlyn Flieger](../V/Verlyn_Flieger.md)và [Tom Shippey](../T/Tom_Shippey.md))
+- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia.md)* (cộng tác viên biên tập với [Douglas A. Anderson](../D/Douglas_A._Anderson.md), [Verlyn Flieger](../V/Verlyn_Flieger.md) và [Tom Shippey](../T/Tom_Shippey.md))
 
 ### Điều và Chương {#Articles_and_Chapters}
 
@@ -69,7 +69,7 @@ Tiến sĩ của cô ấy. đến từ <a class="extiw" href="http://en.wikipedi
 - [2011](../_/2011.md): *[The Ring and the Cross](../T/The_Ring_and_the_Cross.md)*
     - "Những người mẹ thánh thiện và xa cách"
 - [2014](../_/2014.md): *[Tolkien in the New Century: Essays in Honor of Tom Shippey](../T/Tolkien_in_the_New_Century.md)*
-    - "Sói đêm, nửa quỷ lùn và xác chết không chịu khuất phục"
+    - "Sói đêm, nửa quỷ khổng lồ và xác chết không chịu khuất phục"
 
 ## Liên kết ngoài {#External_links}
 

@@ -70,11 +70,11 @@ Sự kiện xảy ra vào ngày 7 tháng 8
 - **[1982](1982.md)** - Tập thứ 4 phiên bản mới của loạt phim phát thanh [1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
 - **[1994](1994.md)** - [Mythcon 25](../M/Mythcon_25.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/American_University" title="wikipedia:American University">Đại học Mỹ</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Washington,_D.C." title="wikipedia:Washington, D.C.">Washington, D.C.</a>
 - **[1995](1995.md)** - [Mythcon 26](../M/Mythcon_26.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
-- **[2005](2005.md)** - <a class="external text" href="http://omentielva.com/" rel="noreferrer noopener" target="_blank">Omentielva Minya</a> - Hội nghị quốc tế lần thứ 1 về các ngôn ngữ được phát minh của [Tolkien](../J/J.R.R._Tolkien.md)ở <a class="extiw" href="http://en.wikipedia.org/wiki/Stockholm" title="wikipedia:Stockholm">Stockholm</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Sweden" title="wikipedia:Sweden">Thụy Điển</a>.
+- **[2005](2005.md)** - <a class="external text" href="http://omentielva.com/" rel="noreferrer noopener" target="_blank">Omentielva Minya</a> - Hội nghị quốc tế lần thứ 1 về các ngôn ngữ được phát minh của [Tolkien](../J/J.R.R._Tolkien.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Stockholm" title="wikipedia:Stockholm">Stockholm</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Sweden" title="wikipedia:Sweden">Thụy Điển</a>.
 - **[2006](2006.md)** - [Mythcon 37](../M/Mythcon_37.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Oklahoma" title="wikipedia:University of Oklahoma">Đại học Oklahoma</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Norman,_Oklahoma" title="wikipedia:Norman, Oklahoma">Norman</a>.
 - **[2009](2009.md)** - Tại <a class="extiw" href="http://en.wikipedia.org/wiki/Worldcon" title="wikipedia:Worldcon">WorldCon</a>ở Montreal, *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* giành được Giải thưởng Prometheus Hall of Fame năm 2009 cho tác phẩm văn học cổ điển hay nhất về tự do.
-- **[2009](2009.md)** - <a class="external text" href="http://omentielva.com/" rel="noreferrer noopener" target="_blank">Omentielva Nelya</a> - Hội nghị quốc tế lần thứ 3 về các ngôn ngữ được phát minh của [Tolkien](../J/J.R.R._Tolkien.md)ở <a class="extiw" href="http://en.wikipedia.org/wiki/Whitehaven" title="wikipedia:Whitehaven">Whitehaven</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
-- **[2015](2015.md)** - [Omentielva Enquea](../O/Omentielva.md) - Hội nghị quốc tế lần thứ sáu về các ngôn ngữ được phát minh của [Tolkien](../J/J.R.R._Tolkien.md)tại [Bảo tàng Greisinger](../G/Greisinger_Museum.md), Thụy Sĩ.
+- **[2009](2009.md)** - <a class="external text" href="http://omentielva.com/" rel="noreferrer noopener" target="_blank">Omentielva Nelya</a> - Hội nghị quốc tế lần thứ 3 về các ngôn ngữ được phát minh của [Tolkien](../J/J.R.R._Tolkien.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Whitehaven" title="wikipedia:Whitehaven">Whitehaven</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
+- **[2015](2015.md)** - [Omentielva Enquea](../O/Omentielva.md) - Hội nghị quốc tế lần thứ sáu về các ngôn ngữ được phát minh của [Tolkien](../J/J.R.R._Tolkien.md) tại [Bảo tàng Greisinger](../G/Greisinger_Museum.md), Thụy Sĩ.
 - **[2019](2019.md)** - *[Tolkien and the Classics](../T/Tolkien_and_the_Classics.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
@@ -83,7 +83,7 @@ Sự kiện xảy ra vào ngày 7 tháng 8
     - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-Đoàn hộ tống đám tang của     - [Théoden](../T/Théoden.md)đến [Edoras](../E/Edoras.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Đoàn hộ tống đám tang của     - [Théoden](../T/Théoden.md) đến [Edoras](../E/Edoras.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -61,7 +61,7 @@ Trong [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), Bữa tiệc b�
 
 Để kỷ niệm sinh nhật lần thứ 111 và [Frodo](../F/Frodo_Baggins.md) 33 tuổi của ông cũng như ngày ông rời Shire, tại [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md) Bilbo đã tổ chức [Tiệc chia tay](../F/Farewell_Party.md).<sup id="cite_ref-third_7-1" class="reference"><a href="#cite_note-third-7">[7]</a></sup>
 
-Trên [23 tháng Chín](../_/23_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md)và [Pippin](../P/Peregrin_Took.md) bên trái [Bag End](../B/Bag_End.md) hướng tới [Crickhollow](../C/Crickhollow.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+Trên [23 tháng Chín](../_/23_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Pippin](../P/Peregrin_Took.md) bên trái [Bag End](../B/Bag_End.md) hướng tới [Crickhollow](../C/Crickhollow.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 Sau khi trở về từ cuộc phiêu lưu ở phía nam, Frodo, Sam, Pippin và [Merry](../M/Meriadoc_Brandybuck.md) quay trở lại Shire và ở Westfarthing, họ là những người lãnh đạo trong [Trận Bywater](../B/Battle_of_Bywater.md), vào [1 tháng 11](../_/1_November.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 

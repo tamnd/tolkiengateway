@@ -22,7 +22,7 @@ langlinks:
     url: "https://kontu.wiki/The_Mythic_Circle"
 ---
 
-**Vòng tròn thần thoại** là một tạp chí văn học nhỏ được xuất bản hàng năm bởi [Hiệp hội thần thoại](../M/Mythopoeic_Society.md) nhằm tôn vinh tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [C.S. Lewis](../C/C.S._Lewis.md)và [Charles Williams](../C/Charles_Williams.md). Những nhà văn thích phiêu lưu này tự coi mình là người đóng góp cho truyền thống giàu trí tưởng tượng bao gồm các tác giả khác nhau như <a class="extiw" href="http://en.wikipedia.org/wiki/Homer" title="wikipedia:Homer">Homer</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/H.G._Wells" title="wikipedia:H.G. Wells">H.G. Wells</a>.
+**Vòng tròn thần thoại** là một tạp chí văn học nhỏ được xuất bản hàng năm bởi [Hiệp hội thần thoại](../M/Mythopoeic_Society.md) nhằm tôn vinh tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [C.S. Lewis](../C/C.S._Lewis.md) và [Charles Williams](../C/Charles_Williams.md). Những nhà văn thích phiêu lưu này tự coi mình là người đóng góp cho truyền thống giàu trí tưởng tượng bao gồm các tác giả khác nhau như <a class="extiw" href="http://en.wikipedia.org/wiki/Homer" title="wikipedia:Homer">Homer</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/H.G._Wells" title="wikipedia:H.G. Wells">H.G. Wells</a>.
 
 Tạp chí, ban đầu là xuất bản hàng quý, được thành lập vào năm 1987 bởi Sherwood Smith và Lynn Maudlin nhằm cung cấp cho các nhà văn một hội thảo về in ấn.
 

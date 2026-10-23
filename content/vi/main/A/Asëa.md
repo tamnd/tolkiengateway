@@ -19,7 +19,7 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-Ý nghĩa và từ nguyên của *asëa* là vấn đề gây tranh cãi. Trong [1998](../_/1998.md), William Cloud Hicklin tuyên bố đã "thảo luận liên tục về nguồn gốc của \[từ [athelas](Athelas.md)\]" với [Christopher Tolkien](../C/Christopher_Tolkien.md)và viết trong một thông báo trên diễn đàn rằng:
+Ý nghĩa và từ nguyên của *asëa* là vấn đề gây tranh cãi. Trong [1998](../_/1998.md), William Cloud Hicklin tuyên bố đã "thảo luận liên tục về nguồn gốc của \[từ [athelas](Athelas.md)\]" với [Christopher Tolkien](../C/Christopher_Tolkien.md) và viết trong một thông báo trên diễn đàn rằng:
 
 "<i>một ghi chú rất muộn [bởi Tolkien] (1970 hoặc muộn hơn) nói rằng Asea [...] là tên trong Quenya, thường được phỏng theo và kết hợp với -las trong Sindarin. Loại cây này đã được biết đến bởi các bậc thầy về y học của Noldor. Gốc là *ATHAYA, 'hữu ích, tử tế, có lợi.</i>"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
@@ -27,7 +27,7 @@ Khẳng định của Hicklin đã thu hút sự chú ý rộng rãi trên Inter
 
 Một đề cập khác về sự tồn tại của từ nguyên chưa được công bố của *athelas*/*asëa* xảy ra trong *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)* ([2005](../_/2005.md)/[2008](../_/2008.md)), trong đó các tác giả đề cập đến tuyên bố của [Arden R. Smith](Arden_R._Smith.md). Ở đây viết rằng phần tử đầu tiên trong *athelas* được kết nối với Quenya *asëa*.<sup id="cite_ref-RC183_12-0" class="reference"><a href="#cite_note-RC183-12">[11]</a></sup>
 
-Với việc xuất bản bản thảo "Từ, Cụm từ & Đoạn văn trong *The Lord of the Rings*" của [Tolkien](../J/J.R.R._Tolkien.md)trong [2007](../_/2007.md), từ nguyên của *athelas*/*asëa* đã được xuất bản và biên tập viên [Christopher Gilson](../C/Christopher_Gilson.md) đã viết trong một nhận xét rằng từ nguyên này là nguồn gốc của tuyên bố trong *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)*.
+Với việc xuất bản bản thảo "Từ, Cụm từ & Đoạn văn trong *The Lord of the Rings*" của [Tolkien](../J/J.R.R._Tolkien.md) trong [2007](../_/2007.md), từ nguyên của *athelas*/*asëa* đã được xuất bản và biên tập viên [Christopher Gilson](../C/Christopher_Gilson.md) đã viết trong một nhận xét rằng từ nguyên này là nguồn gốc của tuyên bố trong *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)*.
 
 Vì bản thảo của Tolkien có niên đại từ cuối những năm 1950 và đầu những năm 1960 (và không bao gồm bất kỳ đề cập nào đến gốc ATHAYA), tuyên bố của Hicklin về một từ nguyên chưa được công bố có niên đại từ những năm 1970 vẫn chưa được xác minh trong các nguồn đã xuất bản.
 

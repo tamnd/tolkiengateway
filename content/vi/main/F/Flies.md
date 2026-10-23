@@ -24,7 +24,7 @@ langlinks:
 
 Tên [Quenya](../Q/Quenya.md) của "côn trùng nhỏ, ruồi" là *pī*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md)về ngôn ngữ [Tiên](../E/Elvish.md), từ "ruồi" là *sitha*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> Tên [Qenya](../Q/Qenya.md) cho "ruồi nhỏ" là *mí*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> Từ [Common Eldarin](../C/Common_Eldarin.md) cho "ruồi lớn" là *buzbō*, với các từ phái sinh là [Telerin](../T/Telerin.md) *buspo*, [Quenya](../Q/Quenya.md) *puspo, pupso*và [Sindarin](../S/Sindarin.md) *buðu*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md) về ngôn ngữ [Tiên](../E/Elvish.md), từ "ruồi" là *sitha*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> Tên [Qenya](../Q/Qenya.md) cho "ruồi nhỏ" là *mí*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> Từ [Common Eldarin](../C/Common_Eldarin.md) cho "ruồi lớn" là *buzbō*, với các từ phái sinh là [Telerin](../T/Telerin.md) *buspo*, [Quenya](../Q/Quenya.md) *puspo, pupso* và [Sindarin](../S/Sindarin.md) *buðu*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh [Eärendil](../../main/E/Eärendil.md)lúc trẻ, của Natalie Chen.
+Hình ảnh [Eärendil](../../main/E/Eärendil.md) lúc trẻ, của Natalie Chen.
 
 ## Giấy phép {#Licensing}
 

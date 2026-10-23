@@ -30,7 +30,7 @@ images:
 ## Các bản chuyển thể {#Adaptations}
 
 - *[Andúril - Flame of the West](Andúril_-_Flame_of_the_West.md)*, cảnh trong [The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
-- *[Andúril (soundtrack)](<Andúril_(soundtrack).md>)*, một bản nhạc trong [The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md)của [Howard Shore](../H/Howard_Shore.md).
+- *[Andúril (soundtrack)](<Andúril_(soundtrack).md>)*, một ca khúc trong [The Lord of the Rings: The Return of the King của [Howard Shore](../H/Howard_Shore.md) - Nhạc phim gốc](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md).
 
 <hr style="margin-top:15px;"/>
 

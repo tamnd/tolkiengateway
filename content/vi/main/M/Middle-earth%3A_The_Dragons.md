@@ -36,7 +36,7 @@ infobox:
 
 **Trung Địa: Rồng**, được phát hành vào [1996](../_/1996.md), là bộ mở rộng đầu tiên cho *[Middle-earth: The Wizards](Middle-earth%253A_The_Wizards.md)*, bộ cơ bản đầu tiên của [Trung Địa Trò chơi Thẻ sưu tập](Middle-earth_Collectible_Card_Game.md). Đúng như tên gọi, nó chủ yếu liên quan đến [Rồng](../D/Dragons.md), kho báu của họ và các khu vực phía bắc của Trung Địa.
 
-Năm loài rồng mới đã được giới thiệu: [Bairanax](../B/Bairanax.md), [Eärcaraxë](../E/Eärcaraxë.md), [Itangast](../I/Itangast.md), [Scatha](../S/Scatha.md)và [Scorba](../S/Scorba.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Các thẻ bài mới hỗ trợ các loài rồng hiện có [Agburanar](../A/Agburanar.md), [Daelomin](../D/Daelomin.md), [Leucaruth](../L/Leucaruth.md), và [Smaug](../S/Smaug.md) cũng đã được phát hành.
+Năm loài rồng mới đã được giới thiệu: [Bairanax](../B/Bairanax.md), [Eärcaraxë](../E/Eärcaraxë.md), [Itangast](../I/Itangast.md), [Scatha](../S/Scatha.md) và [Scorba](../S/Scorba.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Các thẻ bài mới hỗ trợ các loài rồng hiện có [Agburanar](../A/Agburanar.md), [Daelomin](../D/Daelomin.md), [Leucaruth](../L/Leucaruth.md), và [Smaug](../S/Smaug.md) cũng đã được phát hành.
 
 *The Dragons* đã được bán theo gói tăng cường gồm 15 thẻ (36 thẻ tăng cường trên mỗi màn hình), bao gồm 1 thẻ hiếm, 4 thẻ thông thường và 10 thẻ chung cho mỗi gói tăng cường. [Hướng dẫn người chơi tương ứng](Middle-earth%253A_The_Dragons_Player_Guide.md) cũng đã được phát hành.
 

@@ -47,7 +47,7 @@ infobox:
 
 <b><i>Amon Hen</i> 116</b> là số thứ một trăm mười lăm của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 5 [1992](../_/1992.md).
 
-Phần "Vật phẩm quan trọng được bán đấu giá tại Sotherby's \[sic\] vào tháng 7" (trong Báo cáo) bao gồm một số trích dẫn và mô tả ghi chú của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)trong bản sao chứng minh của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
+Phần "Vật phẩm quan trọng được bán đấu giá tại Sotherby's \[sic\] vào tháng 7" (trong Báo cáo) bao gồm một số trích dẫn và mô tả ghi chú của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong bản sao chứng minh của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
 ## Nội dung {#Contents}
 

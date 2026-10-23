@@ -30,7 +30,7 @@ Grogoruk
 </p>
 Krvoruk</td></tr></tbody></table>
 
-**Uruk High** là ban nhạc Heavy/stoner metal liên quan đến Tolkien được thành lập vào năm 2023 tại Varaždin, Croatia. Tên của ban nhạc được phát trên [Uruk-hai](Uruk-hai.md)và lời bài hát kết hợp các chủ đề stoner-metal có liên quan đến [Trung Địa](../M/Middle-earth.md). Album đầu tay của họ *Isenguardian* (2025) bao gồm các bài hát như "White Hand Pass", "Warg Rider", "Takin' the Hobbudz to Isengard", "Saruman's Stash" và "Smoky Mỏ Moria".
+**Uruk High** là ban nhạc Heavy/stoner metal liên quan đến Tolkien được thành lập vào năm 2023 tại Varaždin, Croatia. Tên của ban nhạc được phát trên [Uruk-hai](Uruk-hai.md) và lời bài hát kết hợp các chủ đề stoner-metal có liên quan đến [Trung Địa](../M/Middle-earth.md). Album đầu tay của họ *Isenguardian* (2025) bao gồm các bài hát như "White Hand Pass", "Warg Rider", "Takin' the Hobbudz to Isengard", "Saruman's Stash" và "Smoky Mines of Moria".
 
 ## Thành viên {#Members}
 
@@ -53,5 +53,5 @@ Krvoruk</td></tr></tbody></table>
 - <a class="external text" href="https://open.spotify.com/artist/4AduA3mPxKDfKXtgz6wXnZ" rel="noreferrer noopener" target="_blank">Spotify</a>
 - <a class="external text" href="https://tidal.com/artist/52909073" rel="noreferrer noopener" target="_blank">Thủy triều</a>
 - <a class="external text" href="https://youtube.com/@haxanuruk?si=uD4mlpIlaTNvOw2I" rel="noreferrer noopener" target="_blank">YouTube</a>
-- <a class="external text" href="https://music.amazon.com/artists/B0DRTYTQRD/uruk-high" rel="noreferrer noopener" target="_blank">Amazon Nhạc</a>
+- <a class="external text" href="https://music.amazon.com/artists/B0DRTYTQRD/uruk-high" rel="noreferrer noopener" target="_blank">Âm nhạc Amazon</a>
 - <a class="external text" href="https://music.apple.com/us/artist/uruk-high/1787810807" rel="noreferrer noopener" target="_blank">Apple Music</a>

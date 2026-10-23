@@ -62,14 +62,14 @@ infobox:
         - Được đánh giá bởi Kastytis Zubovas
     - "Cuộc cách mạng xanh": *[Ents, Elves, And Eriador: The Environmental Vision of J. R. R. Tolkien](../E/Ents,_Elves,_and_Eriador.md)* của [Matthew Dickerson](Matthew_Dickerson.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jonathan_Evans&amp;action=edit&amp;redlink=1" title="Jonathan Evans (page does not exist)">Jonathan Evans</a>
         - Được đánh giá bởi Kusumita P. Pedersen
-    - "Sư tử, phù thủy và những nhà sản xuất bối rối": <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_The_Voyage_of_the_Dawn_Treader" title="wikipedia:The Chronicles of Narnia: The Voyage of the Dawn Treader">Biên niên sử Narnia: Hành trình trên con đường bình minh</a></i>
-        - Được xem xét bởi [Chad Chisholm](../C/Chad_Chisholm.md)
+    - "Sư tử, phù thủy và những nhà sản xuất bối rối": <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_The_Voyage_of_the_Dawn_Treader" title="wikipedia:The Chronicles of Narnia: The Voyage of the Dawn Treader">Biên niên sử Narnia: Chuyến du hành trên con đường bình minh</a></i>
+        - Được đánh giá bởi [Chad Chisholm](../C/Chad_Chisholm.md)
     - "Một chút phép thuật trong phim": <i><a class="extiw" href="http://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2" title="wikipedia:Harry Potter and the Deathly Hallows – Part 2">Harry Potter và Bảo bối Tử thần Phần 2</a></i>
         - Được đánh giá bởi [Henry Gee](../H/Henry_Gee.md)
     - "Chuyến đi đến Iceland": *Where the Shadows Lie* của Michael Ridpath
         - Được đánh giá bởi [Pat Reynolds](../P/Patricia_Reynolds.md)
 - **Bình luận**
-    - "Vứt bỏ thủ quỹ: [Tolkien](../J/J.R.R._Tolkien.md)sử dụng <i><a class="mw-redirect mw-disambig" href="../P/Pearl.md" title="Pearl">Ngọc trai</a></i> trong *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*"
+    - "Vứt bỏ thủ quỹ: [Tolkien](../J/J.R.R._Tolkien.md) sử dụng <i><a class="mw-redirect mw-disambig" href="../P/Pearl.md" title="Pearl">Ngọc trai</a></i> trong *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*"
         - Bởi: Leigh Smith
     - "Người phụ nữ dũng cảm: [Éowyn](../_/Éowyn.md) trong *War and Peace*"
         - Bởi: Catherine Madsen

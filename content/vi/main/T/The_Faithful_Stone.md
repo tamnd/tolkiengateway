@@ -20,7 +20,7 @@ sort_keys:
 
 ## Nền {#Background}
 
-Trong phần ghi chú tiếp theo câu chuyện, Christopher Tolkien chỉ ra rằng cha anh không chỉ muốn nhấn mạnh sự khác biệt rõ rệt giữa [hobbit](../H/Hobbits.md) và [drúedain](../D/Drúedain.md) về ngoại hình, mà còn muốn phân biệt phép thuật của Drúedain với phép thuật của [người lùn](../D/Dwarf.md). Câu chuyện này là minh họa cho sự trung thành của Drúedain, như tiêu đề đã nói và phép thuật của họ - cách Drûgs có khả năng truyền sức mạnh sang một vật thể mà họ tạo ra. Câu chuyện này cũng có thể gây ấn tượng với một số người vì đây là phiên bản thu nhỏ của quá trình [Sauron](../S/Sauron.md)chuyển giao quyền lực cho các hiện vật như Chiếc Nhẫn và nền tảng của [Barad-dûr](../B/Barad-dûr.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong phần ghi chú tiếp theo câu chuyện, Christopher Tolkien chỉ ra rằng cha anh không chỉ muốn nhấn mạnh sự khác biệt rõ rệt giữa [hobbit](../H/Hobbits.md) và [drúedain](../D/Drúedain.md) về ngoại hình, mà còn muốn phân biệt phép thuật của Drúedain với phép thuật của [người lùn](../D/Dwarf.md). Câu chuyện này là minh họa cho sự trung thành của Drúedain, như tiêu đề đã nói và phép thuật của họ - cách Drûgs có khả năng truyền sức mạnh sang một vật thể mà họ tạo ra. Câu chuyện này cũng có thể gây ấn tượng với một số người vì đây là phiên bản thu nhỏ của quá trình [Sauron](../S/Sauron.md) chuyển giao quyền lực cho các hiện vật như Chiếc nhẫn Chúa và nền tảng của [Barad-dûr](../B/Barad-dûr.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Tóm tắt {#Synopsis}
 

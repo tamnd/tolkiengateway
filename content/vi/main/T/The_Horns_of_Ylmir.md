@@ -39,7 +39,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../U/Ulmo.md" title="Ulmo">Ulmo</a></td></tr>
 </tbody></table>
 
-<i><b>Sừng của Ylmir</b></i> là bài thơ được viết lần đầu bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong [1914](../_/1914.md)và xuất bản trong *[The Shaping of Middle-earth](The_Shaping_of_Middle-earth.md)*, dưới dạng phụ lục của "[The Quenta](The_Quenta.md)".<sup id="cite_ref-Horns_1-0" class="reference"><a href="#cite_note-Horns-1">[1]</a></sup>
+<i><b>Sừng của Ylmir</b></i> là bài thơ được viết lần đầu bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong [1914](../_/1914.md) và xuất bản trong *[The Shaping of Middle-earth](The_Shaping_of_Middle-earth.md)*, dưới dạng phụ lục của "[The Quenta](The_Quenta.md)".<sup id="cite_ref-Horns_1-0" class="reference"><a href="#cite_note-Horns-1">[1]</a></sup>
 
 Tiêu đề đề cập đến [Ulumúri](../U/Ulumúri.md), những chiếc ốc xà cừ [Ulmo](../U/Ulmo.md) mang đến âm nhạc biển và gây ra [khao khát biển cả](../S/Sea-longing.md).
 
@@ -73,8 +73,8 @@ To great grey waters heaving round the rocks where sea-birds swim.
 
 ## Xem thêm {#See_also}
 
-- [Của Tuor và Sự đến với Gondolin](../O/Of_Tuor_and_his_Coming_to_Gondolin.md)
-- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Của Tuor và Việc Anh Đến Gondolin](../O/Of_Tuor_and_his_Coming_to_Gondolin.md)
+- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 <span></span>
 

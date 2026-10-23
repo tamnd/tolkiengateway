@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-" [Người Lùn](../../main/D/Dwarves.md) của[Dáin](../../main/D/Dáin_Ironfoot.md)đang tiếp cận [ Ngọn Núi Cô Đơn](../../main/L/Lonely_Mountain.md)" của [Henning Janssen](../../main/H/Henning_Janssen.md)
+" [Người Lùn](../../main/D/Dwarves.md) của[Dáin](../../main/D/Dáin_Ironfoot.md) đang tiếp cận [ Ngọn Núi Cô Đơn](../../main/L/Lonely_Mountain.md)" của [Henning Janssen](../../main/H/Henning_Janssen.md)
 
 ## Giấy phép {#Licensing}
 

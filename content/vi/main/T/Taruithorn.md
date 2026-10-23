@@ -17,7 +17,7 @@ categories:
 
 **Taruithorn** là một thị trấn ở [Tol Eressëa](Tol_Eressëa.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*. Sau này nó được gọi là **[Oxford](../O/Oxford.md)**.<sup id="cite_ref-Oxf_1-0" class="reference"><a href="#cite_note-Oxf-1">[1]</a></sup>
 
-Sau [Faring Forth](../F/Faring_Forth.md)và việc di chuyển Tol Eressëa đến [Great Lands](../G/Great_Lands.md), nó đã bị chinh phục bởi [Horsa](../H/Horsa.md), một trong những con trai của [Eriol](../E/Eriol.md), thủy thủ [Mannish](../M/Men.md) đã đến thăm Đảo Cô đơn nhiều năm trước.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sau [Faring Forth](../F/Faring_Forth.md) và việc di chuyển Tol Eressëa đến [Great Lands](../G/Great_Lands.md), nó đã bị chinh phục bởi [Horsa](../H/Horsa.md), một trong những con trai của [Eriol](../E/Eriol.md), thủy thủ [Mannish](../M/Men.md) đã đến thăm Đảo Cô đơn nhiều năm trước.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

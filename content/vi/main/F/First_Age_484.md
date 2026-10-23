@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sau khi chế nhạo [Túrin](../T/Túrin.md), [Saeros](../S/Saeros.md) rơi xuống vực sâu và chết. Túrin không hề hay biết, anh đã được [Thingol](../T/Thingol.md)ân xá. Tuy nhiên, [Túrin](../T/Túrin.md) bỏ trốn [Doriath](../D/Doriath.md); [Beleg](../B/Beleg.md) đi tìm anh ta.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Sau khi chế nhạo [Túrin](../T/Túrin.md), [Saeros](../S/Saeros.md) rơi xuống vực sâu và chết. Túrin không hề hay biết, anh đã được [Thingol](../T/Thingol.md) ân xá. Tuy nhiên, [Túrin](../T/Túrin.md) bỏ trốn [Doriath](../D/Doriath.md); [Beleg](../B/Beleg.md) đi tìm anh ta.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

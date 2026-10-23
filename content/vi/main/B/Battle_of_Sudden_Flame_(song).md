@@ -38,7 +38,7 @@ infobox:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Battle of Sudden Flame</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Battle_of_Sudden_Flame_(disambiguation).md" title="Battle of Sudden Flame (disambiguation)">Battle of Sudden Flame (disambiguation)</a></b>.</div></div>
 
-**Trận chiến ngọn lửa bất ngờ** là ca khúc thứ mười hai trong album chủ đề [Tolkien](../J/J.R.R._Tolkien.md) [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md) của [Blind Guardian](Blind_Guardian.md). Bài hát kể về [Dagor Bragollach](../D/Dagor_Bragollach.md), trong đó [Morgoth](../M/Morgoth.md) phá vỡ [Cuộc vây hãm Angband](../S/Siege_of_Angband.md) bằng cách sử dụng [Balrog](Balrogs.md) và [Rồng](../D/Dragons.md)của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Trận chiến ngọn lửa bất ngờ** là ca khúc thứ mười hai trong album chủ đề [Tolkien](../J/J.R.R._Tolkien.md) [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md) của [Blind Guardian](Blind_Guardian.md). Bài hát kể về [Dagor Bragollach](../D/Dagor_Bragollach.md), trong đó [Morgoth](../M/Morgoth.md) phá vỡ [Cuộc vây hãm Angband](../S/Siege_of_Angband.md) bằng cách sử dụng [Balrog](Balrogs.md) và [Rồng](../D/Dragons.md) của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lời bài hát {#Lyrics}
 

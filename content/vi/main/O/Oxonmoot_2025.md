@@ -33,15 +33,15 @@ Oxonmoot là một truyền thống lâu đời quy tụ Tolkien những ngườ
 
 Việc tham gia trực tuyến được tạo điều kiện thuận lợi thông qua các hội thảo trực tuyến, cuộc họp và phòng đột phá theo chủ đề trên Zoom, cũng như các kênh dành riêng trong máy chủ Society Discord Tolkien để trò chuyện, thảo luận thoại và video.
 
-Áo phông chính thức của Oxonmoot 2025 được thiết kế bởi [Matěj Čadil](../M/Matěj_Čadil.md). Thiết kế có tên "Ngôi sao hy vọng" mô tả khoảnh khắc sâu sắc khi [Samwise Gamgee](../S/Samwise_Gamgee.md) nhìn thấy [ngôi sao Eärendil](../S/Star_of_Eärendil.md) xuyên qua bóng tối, đóng vai trò như một biểu tượng của hy vọng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Chiếc áo phông chính thức của Oxonmoot 2025 được thiết kế bởi [Matěj Čadil](../M/Matěj_Čadil.md). Thiết kế có tên "Ngôi sao hy vọng" mô tả khoảnh khắc sâu sắc khi [Samwise Gamgee](../S/Samwise_Gamgee.md) nhìn thấy [ngôi sao Eärendil](../S/Star_of_Eärendil.md) xuyên qua bóng tối, đóng vai trò như một biểu tượng của hy vọng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ### Chương trình {#Programme}
 
 Sự kiện có sự góp mặt:
 
-- **Bài giảng và bài viết**: Bao gồm nhiều chủ đề liên quan đến Tolkien. Các diễn giả bao gồm [Douglas A. Anderson](../D/Douglas_A._Anderson.md), [David T. Wenzel](../D/David_T._Wenzel.md), [Sara Brown](../S/Sara_Brown.md), [Dimitra Fimi](../D/Dimitra_Fimi.md)và [Brian Sibley](../B/Brian_Sibley.md).
+- **Bài giảng và bài viết**: Bao gồm nhiều chủ đề liên quan đến Tolkien. Các diễn giả bao gồm [Douglas A. Anderson](../D/Douglas_A._Anderson.md), [David T. Wenzel](../D/David_T._Wenzel.md), [Sara Brown](../S/Sara_Brown.md), [Dimitra Fimi](../D/Dimitra_Fimi.md) và [Brian Sibley](../B/Brian_Sibley.md).
 - **Hội thảo và thảo luận**: Bao gồm các buổi học về thủ công, trang phục và chủ đề
-- **Triển lãm nghệ thuật**: Triển lãm kết hợp được tổ chức cả tại chỗ và thông qua nền tảng Kunstmatrix
+- **Triển lãm nghệ thuật**: Một triển lãm kết hợp được tổ chức cả tại chỗ và thông qua nền tảng Kunstmatrix
 - **Giải trí**: Câu đố, biểu diễn và sự kiện buổi tối
 - **Lễ Enyalië**: Lễ viếng mộ truyền thống của Tolkien vào chiều Chủ nhật
 

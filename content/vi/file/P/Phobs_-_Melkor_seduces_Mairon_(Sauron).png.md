@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Sự quyến rũ của [Vala](../../main/V/Valar.md), [Melkor](../../main/M/Morgoth.md)đối với [Maia](../../main/M/Maiar.md), [Mairon](../../main/S/Sauron.md).
+Sự quyến rũ của [Vala](../../main/V/Valar.md), [Melkor](../../main/M/Morgoth.md) đối với [Maia](../../main/M/Maiar.md), [Mairon](../../main/S/Sauron.md).
 
 "Chính đức tính của \[Mairon\] (và do đó cũng là nguyên nhân dẫn đến sự sa ngã của anh ấy...) khiến anh ấy yêu thích trật tự và sự phối hợp, đồng thời không thích mọi sự nhầm lẫn và xích mích lãng phí." Và “chính ý chí và sức mạnh rõ ràng của Melkor để thực hiện các thiết kế của anh ấy một cách nhanh chóng và thành thạo đã lần đầu tiên thu hút Sauron đối với anh ấy.” - *[Morgoth's Ring](../../main/M/Morgoth's_Ring.md)* tr. 396
 

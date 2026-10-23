@@ -26,7 +26,7 @@ images:
 
 [Simbelmynë](../S/Simbelmynë.md) mọc ở phía tây của các gò đất và dày hơn ở Helm's.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Người ta không biết liệu các vị Vua của Dòng thứ ba (bắt đầu bằng [Éomer](../_/Éomer.md)) có còn được chôn cất ở đó trong [Kỷ Đệ Tứ](../F/Fourth_Age.md)hay không.
+Người ta không biết liệu các vị Vua của Dòng thứ ba (bắt đầu bằng [Éomer](../_/Éomer.md)) có còn được chôn cất ở đó trong [Kỷ Đệ Tứ](../F/Fourth_Age.md) hay không.
 
 ## Từ nguyên {#Etymology}
 
@@ -34,7 +34,7 @@ Tên này có nghĩa là "cánh đồng chứa mộ".<sup id="cite_ref-Nomen_3-0
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Barrowfield is located to the sides of the road leading to Edoras, and the barrows of all individual Kings can be identified.</dd></dl>
 

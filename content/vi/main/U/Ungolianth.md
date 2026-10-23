@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Ungolianth</b></i> là ca khúc thứ bảy trong album [Minas Morgul](<../M/Minas_Morgul_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát là lỗi chính tả của mẹ Nhện [Ungoliant](Ungoliant.md). Lời bài hát đề cập đến Ungoliant, cũng như nơi ở của cô ấy [Avathar](../A/Avathar.md)và Chúa tể Bóng tối [Morgoth](../M/Morgoth.md) sau khi anh ấy đã nhận được [Silmaril](../S/Silmarils.md).
+<i><b>Ungolianth</b></i> là ca khúc thứ bảy trong album [Minas Morgul](<../M/Minas_Morgul_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát là lỗi chính tả của mẹ Nhện [Ungoliant](Ungoliant.md). Lời bài hát đề cập đến Ungoliant, cũng như nơi ở của cô ấy [Avathar](../A/Avathar.md) và Chúa tể Bóng tối [Morgoth](../M/Morgoth.md) sau khi anh ấy đã nhận được [Silmaril](../S/Silmarils.md).
 
 ## Lời bài hát {#Lyrics}
 

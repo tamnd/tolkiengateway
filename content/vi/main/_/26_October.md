@@ -63,7 +63,7 @@ Sự kiện xảy ra vào ngày 26 tháng 10
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1916](1916.md)** - Trong khi ở lực lượng dự bị, tiểu đoàn của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)được <a class="extiw" href="http://en.wikipedia.org/wiki/Douglas_Haig" title="wikipedia:Douglas Haig">Sir Douglas Haig</a>, chỉ huy người Anh, kiểm tra tại [Trận Somme](../B/Battle_of_the_Somme.md).
+- **[1916](1916.md)** - Trong khi ở lực lượng dự bị, tiểu đoàn của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được <a class="extiw" href="http://en.wikipedia.org/wiki/Douglas_Haig" title="wikipedia:Douglas Haig">Sir Douglas Haig</a>, chỉ huy người Anh, kiểm tra tại [Trận Somme](../B/Battle_of_the_Somme.md).
 - **[1945](1945.md)** - [Jane Chance](../J/Jane_Chance.md) ra đời.
 - **[1958](1958.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi L.M. Cutts](../L/Letter_to_L.M._Cutts.md).
 - **[1966](1966.md)** - Thấy mình thiếu chủ đề phát biểu, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đọc *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* trước một căn phòng khoảng 800 người.
@@ -75,9 +75,9 @@ Sự kiện xảy ra vào ngày 26 tháng 10
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md)tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Kẻ duy nhất Nhẫn](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
     - Trăng non<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>

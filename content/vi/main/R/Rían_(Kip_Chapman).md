@@ -47,7 +47,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong suốt [Thời thứ hai](../S/Second_Age.md), Rían đã đồng hành cùng [Galadriel](../G/Galadriel.md) trong cuộc săn lùng [Sauron](../S/Sauron.md)của cô.
+Trong suốt [Thời thứ hai](../S/Second_Age.md), Rían đã đồng hành cùng [Galadriel](../G/Galadriel.md) trong cuộc săn lùng [Sauron](../S/Sauron.md) của cô.
 
 Nhiệm vụ mới nhất là nhiệm vụ mà họ phải tìm một [pháo đài](../D/Dúrnost.md) nào đó trong [Forodwaith](../N/Northern_Waste.md). Khi tìm thấy và bắt đầu điều tra ở đó, Rían là người đầu tiên nhận thấy [Hristorco](../S/Snow-troll.md) đang rình rập, hét lên cảnh báo những người còn lại trong công ty.
 

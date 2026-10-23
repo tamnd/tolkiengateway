@@ -29,7 +29,7 @@ images:
 
 **Lothlann**, một đồng bằng "rộng và trống trải",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> nằm ở phía đông [Ard-galen](../A/Ard-galen.md) và phía bắc [Đông Beleriand](../E/East_Beleriand.md), vượt quá [tháng 3 Maedhros](../M/March_of_Maedhros.md) và [Khe Maglor](../M/Maglor's_Gap.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong [Dagor Bragollach](../D/Dagor_Bragollach.md) các tay đua của người dân [Fëanor](../F/Fëanor.md) đã bị choáng ngợp trong Lothlann khi [rồng](../D/Dragons.md) [Glaurung](../G/Glaurung.md) đến và đi qua [Khe Maglor](../M/Maglor's_Gap.md). Nhiều kỵ binh của [Maglor](../M/Maglor.md)đã bị thiêu sống trên đồng bằng khi [Morgoth](../M/Morgoth.md) đốt cháy nó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Dagor Bragollach](../D/Dagor_Bragollach.md) các tay đua của người dân [Fëanor](../F/Fëanor.md) đã bị choáng ngợp trong Lothlann khi [rồng](../D/Dragons.md) [Glaurung](../G/Glaurung.md) đến và đi qua [Khe Maglor](../M/Maglor's_Gap.md). Nhiều kỵ binh của [Maglor](../M/Maglor.md) đã bị thiêu sống trên đồng bằng khi [Morgoth](../M/Morgoth.md) đốt cháy nó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Giống như hầu hết [Beleriand](../B/Beleriand.md), nó đã bị [Đại Hải](../G/Great_Sea.md) nhấn chìm ở cuối [Kỷ Đệ Nhất](../F/First_Age.md).
 

@@ -27,7 +27,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Rhûn</b></i> là bài hát do [Bear McCreary](../B/Bear_McCreary.md) sáng tác cho [tập thứ hai](../W/Where_the_Stars_are_Strange.md) của mùa thứ hai của *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*. Nó có lời bài hát được hát bằng [Rhûnnic](Rhûnnic.md) bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Mystery_of_the_Bulgarian_Voices&amp;action=edit&amp;redlink=1" title="The Mystery of the Bulgarian Voices (page does not exist)">The Mystery of the Bulgarian Voices</a>. Theo Bear McCreary, ngôn ngữ hát lời bài hát được tạo ra từ một số ghi chú chưa được xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)mà một số học giả Tolkien đã khai quật được.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Rhûn</b></i> là bài hát do [Bear McCreary](../B/Bear_McCreary.md) sáng tác cho [tập thứ hai](../W/Where_the_Stars_are_Strange.md) của mùa thứ hai của *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*. Nó có lời bài hát được hát bằng [Rhûnnic](Rhûnnic.md) bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Mystery_of_the_Bulgarian_Voices&amp;action=edit&amp;redlink=1" title="The Mystery of the Bulgarian Voices (page does not exist)">The Mystery of the Bulgarian Voices</a>. Theo Bear McCreary, ngôn ngữ hát lời bài hát được tạo ra từ một số ghi chú chưa được xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) mà một số học giả Tolkien đã khai quật được.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lời bài hát {#Lyrics}
 

@@ -68,7 +68,7 @@ Théoden sau đó bắt đầu nghi ngờ sức mạnh của người của mìn
 
 Chương này cùng với năm chương cuối của Quyển III được ông viết trọn vẹn (không phải do đó) trong thời gian rảnh rỗi vào mùa hè và mùa thu [1942](../_/1942.md). Trong các bản thảo tiếp theo của chương, công sự của Vực sâu và trận chiến ngày càng trở nên công phu và phức tạp hơn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Chương này bao gồm câu thoại của [Gimli](../G/Gimli.md)khét tiếng "Cho đến bây giờ tôi chẳng đẽo được gì ngoài gỗ [kể từ khi tôi rời đi Moria](<../L/Lothlórien_(chapter).md>)", như thể "quên" [Orc](../O/Orcs.md) mà anh ta đã giết trong [Phá vỡ tình bằng hữu](../B/Breaking_of_the_Fellowship.md). Hammond và Scull đã biết rõ sự mâu thuẫn này, nhưng đã quyết định không giải quyết nó trong khi biên tập [Phiên bản kỷ niệm 50 năm](<../T/The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>) vì nó sẽ cần phải viết lại để sửa đổi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Chương này bao gồm câu thoại của [Gimli](../G/Gimli.md) khét tiếng "Cho đến bây giờ tôi chẳng đẽo được gì ngoài gỗ [kể từ khi tôi rời đi Moria](<../L/Lothlórien_(chapter).md>)", như thể "quên" [Orc](../O/Orcs.md) mà anh ta đã giết trong [Phá vỡ tình bằng hữu](../B/Breaking_of_the_Fellowship.md). Hammond và Scull đã biết rõ sự mâu thuẫn này, nhưng đã quyết định không giải quyết nó trong khi biên tập [Phiên bản kỷ niệm 50 năm](<../T/The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>) vì nó sẽ cần phải viết lại để sửa đổi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

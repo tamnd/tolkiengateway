@@ -43,11 +43,11 @@ infobox:
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Lấy cảm hứng từ trò chơi board game Cuộc chiến Nhẫn bán chạy nhất và từng đoạt giải thưởng, Cuộc chiến Nhẫn - Trò chơi bài cho phép người chơi hành trình đến thế giới [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) của J.R.R. Tolkien và tạo ra phiên bản riêng của họ về cuộc xung đột kịch tính giữa Chúa tể Bóng tối, [Sauron](../S/Sauron.md)và [Dân tộc Tự do](../F/Free_Peoples.md) của Trung Địa.
+Lấy cảm hứng từ trò chơi board game Cuộc chiến Nhẫn bán chạy nhất và từng đoạt giải thưởng, Cuộc chiến Nhẫn - Trò chơi bài cho phép người chơi hành trình đến thế giới [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) của J.R.R. Tolkien và tạo ra phiên bản riêng của họ về cuộc xung đột kịch tính giữa Chúa tể Bóng tối, [Sauron](../S/Sauron.md) và [Dân tộc Tự do](../F/Free_Peoples.md) của Trung Địa.
 
 Trong Cuộc chiến Nhẫn - Trò chơi bài, tối đa 4 người chơi thi đấu thành hai đội, Bóng Tối đấu với Dân tộc Tự do, mỗi người chơi sử dụng một bộ bài cụ thể và khác nhau đại diện cho điểm mạnh và điểm yếu của các phe phái khác nhau tham gia vào cuộc chiến.
 
-Nhân dân Tự do cố gắng hoàn thành nhiệm vụ tiêu diệt [One Ring](../O/One_Ring.md), đồng thời bảo vệ quê hương của họ khỏi đám Sauron xâm lấn và khỏi các đồng minh độc ác của hắn. Người chơi Bóng Tối phải tấn công nhanh chóng và dứt khoát trước khi [Người mang nhẫn](../R/Ring-bearers.md) có thể hoàn thành nhiệm vụ của mình; hoặc cố gắng làm tha hóa [Frodo](../F/Frodo.md)từ từ, tạo cho anh ta những vết thương, sự cực nhọc và nỗi đau buồn vì mất đi những Người bạn đồng hành của mình.
+Nhân dân Tự do cố gắng hoàn thành nhiệm vụ tiêu diệt [One Ring](../O/One_Ring.md), đồng thời bảo vệ quê hương của họ khỏi đám Sauron xâm lấn và khỏi các đồng minh độc ác của hắn. Người chơi Bóng Tối phải tấn công nhanh chóng và dứt khoát trước khi [Người mang nhẫn](../R/Ring-bearers.md) có thể hoàn thành nhiệm vụ của mình; hoặc cố gắng làm tha hóa [Frodo](../F/Frodo.md) từ từ, tạo cho anh ta những vết thương, sự cực nhọc và nỗi đau buồn vì mất đi những Người bạn đồng hành của mình.
 
 ## Mở rộng {#Expansions}
 

@@ -30,7 +30,7 @@ images:
 
 **Valandil** có nghĩa là "Tận hiến cho [Valar](Valar.md)" trong [Quenya](../Q/Quenya.md) (từ *[-ndil](../_/-ndil.md)*, "bạn bè, người yêu, hết lòng") và có thể ám chỉ:
 
-- [Valandil](<Valandil_(Lord_of_Andúnië).md>) (sinh [S.A.](../S/Second_Age.md) [630](../S/Second_Age_630.md)), [Lãnh chúa Andúnië](../L/Lords_of_Andúnië.md)đầu tiên.
+- [Valandil](<Valandil_(Lord_of_Andúnië).md>) (sinh [S.A.](../S/Second_Age.md) [630](../S/Second_Age_630.md)), [Lãnh chúa Andúnië](../L/Lords_of_Andúnië.md) đầu tiên.
 - [Valandil](<Valandil_(King_of_Arnor).md>) ([S.A.](../S/Second_Age.md) [3430](../S/Second_Age_3430.md) - [T.A.](../T/Third_Age.md) [249](../T/Third_Age_249.md)), con trai út của [Isildur](../I/Isildur.md) và [Vua](../K/Kings_of_Arnor.md) thứ ba của [Arnor](../A/Arnor.md).
 - [Valandil](<Valandil_(The_Lost_Road).md>), cha hoặc anh trai của [Elendil](../E/Elendil.md) ở giai đoạn đầu của [huyền thoại](../L/Legendarium.md).
 

@@ -105,13 +105,13 @@ Một truyền thuyết địa phương của [người dân bản địa](../P/
 
 ### Cư dân {#Inhabitants}
 
-Trong suốt lịch sử, Dãy Núi Trắng chủ yếu là nơi sinh sống của Con Người, bao gồm [Drúedain](../D/Drúedain.md), [Dunlendings](../D/Dunlendings.md), [Rohirrim](../R/Rohirrim.md)và [người Gondor](../G/Gondor.md); nhưng đôi khi cũng có [Orc](../O/Orcs.md) và trong Kỷ Đệ Tứ [Người Lùn](../D/Dwarves.md).
+Trong suốt lịch sử, Dãy Núi Trắng chủ yếu là nơi sinh sống của Con Người, bao gồm [Drúedain](../D/Drúedain.md), [Dunlendings](../D/Dunlendings.md), [Rohirrim](../R/Rohirrim.md) và [người Gondor](../G/Gondor.md); nhưng đôi khi cũng có [Orc](../O/Orcs.md) và trong Kỷ Đệ Tứ [Người Lùn](../D/Dwarves.md).
 
 Người Drúedain sống dọc theo rìa phía bắc của nó, để lại [Púkel-men](../P/Púkel-men.md) tại [Starkhorn](../S/Starkhorn.md) và [Drúwaith Iaur](../D/Drúwaith_Iaur.md). Họ tái định cư tại một khu rừng mà sau này được đặt theo tên của họ: [Tawar in-Drúedain](../D/Drúadan_Forest.md).
 
 Vào [Kỷ nguyên thứ hai](../S/Second_Age.md), Dãy Núi Trắng được cư trú bởi những người có liên quan đến Dunlendings từng là người hầu của [Sauron](../S/Sauron.md). Họ đã thề trung thành với [Isildur](../I/Isildur.md), nhưng lại phản bội anh ta và bị nguyền rủa: họ được biết đến với cái tên [Những kẻ vi phạm lời thề](../O/Oathbreakers.md).
 
-Thung lũng ở phía nam nằm dưới sự cai trị của [Vua Gondor](../K/Kings_of_Gondor.md)và các lãnh chúa của [Blackroot Vale](../B/Blackroot_Vale.md), [Ringló Vale](../R/Ringló_Vale.md), [Tumladen](<../T/Tumladen_(Gondor).md>) và [Lossarnach](../L/Lossarnach.md) là những thái ấp trung thành.<sup id="cite_ref-rkmap_3-0" class="reference"><a href="#cite_note-rkmap-3">[3]</a></sup>
+Thung lũng ở phía nam nằm dưới sự cai trị của [Vua Gondor](../K/Kings_of_Gondor.md) và các lãnh chúa của [Blackroot Vale](../B/Blackroot_Vale.md), [Ringló Vale](../R/Ringló_Vale.md), [Tumladen](<../T/Tumladen_(Gondor).md>) và [Lossarnach](../L/Lossarnach.md) là những thái ấp trung thành.<sup id="cite_ref-rkmap_3-0" class="reference"><a href="#cite_note-rkmap-3">[3]</a></sup>
 
 Từ [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md), các thung lũng và ngọn đồi phía bắc nằm dưới sự cai trị của Rohirrim, những kỵ mã hùng mạnh đến từ phương Bắc. Họ định cư ở [Helm's Deep](../H/Helm's_Deep.md), [Dunharrow](../D/Dunharrow.md) và [Grimslade](../G/Grimslade.md), đồng thời xây dựng thủ đô [Edoras](../E/Edoras.md) trên một ngọn đồi xa xôi.<sup id="cite_ref-rkmap_3-1" class="reference"><a href="#cite_note-rkmap-3">[3]</a></sup>
 

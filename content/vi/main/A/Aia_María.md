@@ -23,7 +23,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Aia_María.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/68/J.R.R._Tolkien_-_Aia_Mar%C3%ADa.png/400px-J.R.R._Tolkien_-_Aia_Mar%C3%ADa.png" decoding="async" loading="lazy" width="400" height="97" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/68/J.R.R._Tolkien_-_Aia_Mar%C3%ADa.png/600px-J.R.R._Tolkien_-_Aia_Mar%C3%ADa.png 1.5x, https://tolkiengateway.net/w/images/6/68/J.R.R._Tolkien_-_Aia_Mar%C3%ADa.png 2x" data-file-width="740" data-file-height="179"/></a><figcaption>Tolkien&#39;s manuscript of the final version, <i>Aia María IV</i></figcaption></figure>
 
-**Aia María** ("Ave Maria" trong [Quenya](../Q/Quenya.md)) là bản dịch Quenya của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)từ <a class="extiw" href="http://en.wikipedia.org/wiki/Ave_Maria" title="wikipedia:Ave Maria">Ave Maria</a>, một lời cầu nguyện [Công giáo La Mã](../C/Christianity.md) truyền thống gửi tới [Đức Trinh Nữ Maria](../V/Virgin_Mary.md). Các phiên bản khác nhau của lời cầu nguyện đã được xuất bản trong [*Vinyar Tengwar*, Số 43](../V/Vinyar_Tengwar_43.md), tháng 1 năm 2002, do [Patrick H. Wynne](../P/Patrick_H._Wynne.md), [Arden R. Smith](Arden_R._Smith.md)và [Carl F. Hostetter](../C/Carl_F._Hostetter.md)biên tập.
+**Aia María** ("Ave Maria" trong [Quenya](../Q/Quenya.md)) là bản dịch Quenya của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) từ <a class="extiw" href="http://en.wikipedia.org/wiki/Ave_Maria" title="wikipedia:Ave Maria">Ave Maria</a>, một lời cầu nguyện [Công giáo La Mã](../C/Christianity.md) truyền thống gửi tới [Đức Trinh Nữ Maria](../V/Virgin_Mary.md). Các phiên bản khác nhau của lời cầu nguyện đã được xuất bản trong [*Vinyar Tengwar*, Số 43](../V/Vinyar_Tengwar_43.md), tháng 1 năm 2002, do [Patrick H. Wynne](../P/Patrick_H._Wynne.md), [Arden R. Smith](Arden_R._Smith.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md) biên tập.
 
 ## Phiên bản cuối cùng của Lời cầu nguyện {#Final_version_of_the_Prayer}
 
@@ -53,7 +53,7 @@ images:
 ## Xem thêm {#See_also}
 
 - [Ortírielyanna](../O/Ortírielyanna.md)
-- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 ## Liên kết ngoài {#External_links}
 

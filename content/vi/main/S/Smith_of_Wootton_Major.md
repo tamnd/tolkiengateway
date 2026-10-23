@@ -69,13 +69,13 @@ infobox:
 
 <i><b>Smith of Wootton Major</b></i> là một truyện ngắn được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), xuất bản lần đầu trên tạp chí [1967](../_/1967.md).
 
-Cuốn sách ban đầu được minh họa bởi [Pauline Baynes](../P/Pauline_Baynes.md). Truyện đã xuất hiện cùng với các tác phẩm khác trong tuyển tập, bao gồm *[The Tolkien Reader](../T/The_Tolkien_Reader.md)*, *[Poems and Stories](../P/Poems_and_Stories.md)*và *[Tales from the Perilous Realm](../T/Tales_from_the_Perilous_Realm.md)*.
+Cuốn sách ban đầu được minh họa bởi [Pauline Baynes](../P/Pauline_Baynes.md). Truyện đã xuất hiện cùng với các tác phẩm khác trong tuyển tập, bao gồm *[The Tolkien Reader](../T/The_Tolkien_Reader.md)*, *[Poems and Stories](../P/Poems_and_Stories.md)* và *[Tales from the Perilous Realm](../T/Tales_from_the_Perilous_Realm.md)*.
 
 ## Tổng quan {#Overview}
 
 Cuốn sách bắt đầu như một nỗ lực nhằm giải thích ý nghĩa của [Thần tiên](../F/Faery.md) bằng câu chuyện về một người đầu bếp và chiếc bánh của anh ta, và Tolkien ban đầu nghĩ sẽ gọi nó là *The Great Cake*. Nó được dự định là một phần lời tựa của Tolkien cho câu chuyện cổ tích nổi tiếng của [George MacDonald](../G/George_MacDonald.md) *[The Golden Key](../T/The_Golden_Key.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tolkien câu chuyện đã phát triển thành một câu chuyện theo đúng nghĩa của nó.
 
-*Smith of Wootton Major* chứa mô típ chủ đề "Thần tiên" về người du hành đến một vùng đất nằm ngoài thế giới bình thường và thường nằm ngoài tầm với của con người. Do đó, Smith có thể được ví như [Beren](../B/Beren.md) trong lĩnh vực [Thingol](../T/Thingol.md), hoặc [Eärendil](../E/Eärendil.md) hành trình tới [Valinor](../V/Valinor.md), hoặc chuyến thăm của [Ælfwine](../_/Ælfwine.md)tới [Tol Eressëa](../T/Tol_Eressëa.md).
+*Smith of Wootton Major* chứa mô típ chủ đề "Thần tiên" về người du hành đến một vùng đất nằm ngoài thế giới bình thường và thường nằm ngoài tầm với của con người. Do đó, Smith có thể được ví như [Beren](../B/Beren.md) trong lĩnh vực [Thingol](../T/Thingol.md), hoặc [Eärendil](../E/Eärendil.md) hành trình tới [Valinor](../V/Valinor.md), hoặc chuyến thăm của [Ælfwine](../_/Ælfwine.md) tới [Tol Eressëa](../T/Tol_Eressëa.md).
 
 ## Tóm tắt {#Synopsis}
 

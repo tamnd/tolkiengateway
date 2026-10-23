@@ -18,7 +18,7 @@ categories:
 
 Do sự cô lập tương đối và lộ trình khác nhau trong [Những ngày lang thang](../W/Wandering_Days.md), người [Stoors](../S/Stoors.md) (tổ tiên của [Người vùng Buckland](Bucklanders.md)) đã mượn cách cư xử ngôn ngữ đặc biệt từ [Thung lũng Anduin](../V/Vales_of_Anduin.md) và [Angle](../A/Angle.md) của [Eriador](../E/Eriador.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Những đặc điểm ngôn ngữ này, với nền tảng [Dunlendish](../D/Dunlendish.md) của họ, sau này được giữ lại trong [The Shire](../T/The_Shire.md) và trở thành đặc điểm của tiếng Buckland.
 
-Những người [Stoors](../S/Stoors.md)định cư ở những vùng như [Buckland](Buckland.md)đã nói một phương ngữ phản ánh nền tảng [Dunlendish](../D/Dunlendish.md) của họ. Phương ngữ của Stoors chịu ảnh hưởng của tiếng Buckland và nhiều [người dân vùng Buckland](Bucklanders.md), bao gồm cả [Brandybucks](Brandybucks.md), đã giữ lại những cái tên đặc biệt bắt nguồn từ ngôn ngữ trước đó này.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Những người [Stoors](../S/Stoors.md) định cư ở những vùng như [Buckland](Buckland.md) đã nói một phương ngữ phản ánh nền tảng [Dunlendish](../D/Dunlendish.md) của họ. Phương ngữ của Stoors chịu ảnh hưởng của tiếng Buckland và nhiều [người dân vùng Buckland](Bucklanders.md), bao gồm cả [Brandybucks](Brandybucks.md), đã giữ lại những cái tên đặc biệt bắt nguồn từ ngôn ngữ trước đó này.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 *[Bombadil](Bombadil.md)* được cho là một cái tên Bucklandish, được các nhà biên niên sử Hobbit thêm vào cho nhiều cái tên cũ hơn của Tom Bombadil. Nó, giống như nhiều cái tên của Bucklanders, không thể dịch được.<sup id="cite_ref-Preface_1-1" class="reference"><a href="#cite_note-Preface-1">[1]</a></sup>
 
@@ -26,7 +26,7 @@ Những người [Stoors](../S/Stoors.md)định cư ở những vùng như [Buc
 
 Tolkien đã nói với Dịch giả người Hà Lan, [Max Schuchart](../M/Max_Schuchart.md), rằng có "các phần tử '[Celtic](../C/Celtic.md)' trong tên [Buckland](Buckland.md) và [phương Đông-farthing](../E/Eastfarthing.md)."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Các phần tử Stoors có [Celtic](../C/Celtic.md) trong tên phản ánh nền tảng [TiềnNúmenórean](../P/Pre-Númenórean.md) của chúng (thông qua Dunlending).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Tolkien đã đề cập rằng sự tồn tại của dấu vết của ngôn ngữ cũ hơn của Stoors và [Bree-men](Bree-landers.md) giống như sự tồn tại của các phần tử Celtic ở Anh.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Các Stoors có các phần tử [Celtic](../C/Celtic.md) trong tên phản ánh nền tảng [TiềnNúmenórean](../P/Pre-Númenórean.md) của họ (thông qua Dunlendings).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Tolkien đã đề cập rằng sự tồn tại của dấu vết của ngôn ngữ cổ hơn của Stoors và [Bree-men](Bree-landers.md) giống như sự tồn tại của các phần tử Celtic ở Anh.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Miêu tả trong chuyển thể {#Portrayals_in_adaptations}
 
@@ -34,7 +34,7 @@ Các phần tử Stoors có [Celtic](../C/Celtic.md) trong tên phản ánh nề
 
 <dl><dd><a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Meriadoc Brandybuck</a> is described as being the linguistic &#34;oddball&#34; of the group: his accent is noticeably distinct from the other Hobbits seen on-screen, something of an invention between actor <a href="../D/Dominic_Monaghan.md" title="Dominic Monaghan">Dominic Monaghan</a> and the dialect coaches, to reflect his unique origin.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i></b>
 
 <dl><dd>In keeping with Tolkien&#39;s usage of Celtic for non-<a href="../W/Westron.md" title="Westron">Westron</a> elements, the Stoor characters in Dunland are often seen with <a href="../W/Welsh.md" title="Welsh">Welsh</a> names.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 

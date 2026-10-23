@@ -37,7 +37,7 @@ infobox:
 
 Tháp Trắng được xây dựng trên [Emyn Beraid](../T/Tower_Hills.md) bởi [Gil-galad](../G/Gil-galad.md) như một món quà dành cho [Elendil](../E/Elendil.md),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> có lẽ sau khi [Arnor](../A/Arnor.md) được thành lập ([S.A.](../S/Second_Age.md) [3320](../S/Second_Age_3320.md)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>).
 
-Đôi khi chúng là điểm đến hành hương của [Các nhóm lang thang](Wandering_Companies.md) của [Tiên tộc](../E/Elves.md), những người sẽ nhìn về [Valinor](../V/Valinor.md) qua *palantír*. Một ban nhạc như vậy, dẫn đầu bởi [Gildor Inglorion](../G/Gildor.md), đã gặp [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md)và [Pippin](../P/Peregrin_Took.md) tại [Woody End](Woody_End.md) của Shire vào [24 tháng Chín](../_/24_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
+Đôi khi chúng là điểm đến hành hương của [Các nhóm lang thang](Wandering_Companies.md) của [Tiên tộc](../E/Elves.md), những người sẽ nhìn về [Valinor](../V/Valinor.md) qua *palantír*. Một ban nhạc như vậy, dẫn đầu bởi [Gildor Inglorion](../G/Gildor.md), đã gặp [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Pippin](../P/Peregrin_Took.md) tại [Woody End](Woody_End.md) của Shire vào [24 tháng Chín](../_/24_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
 
 Theo thời gian, [Shire-hobbit](../S/Shire-hobbits.md) trở nên xa lạ với Tiên tộc và khái niệm về Biển trở thành một từ kinh hoàng và chết chóc, và họ tránh nhìn vào các tòa tháp ở phía tây.<sup id="cite_ref-hobbits_4-1" class="reference"><a href="#cite_note-hobbits-4">[3]</a></sup>
 
@@ -59,7 +59,7 @@ Theo [Danh mục chưa hoàn thành](../U/Unfinished_index.md) của J.R.R. Tolk
 		</li>
 </ul>
 
-<b>1988: <i><a href="../J/J.R.R._Tolkien&#39;s_War_in_Middle_Earth.md" title="J.R.R. Tolkien&#39;s War in Middle Earth">J.R.R. Tolkien của Chiến tranh ở Trung Địa</a></i>:</b>
+<b>1988: Cuộc chiến của <i><a href="../J/J.R.R._Tolkien&#39;s_War_in_Middle_Earth.md" title="J.R.R. Tolkien&#39;s War in Middle Earth">J.R.R. Tolkien ở Trung Địa</a></i>:</b>
 
 <dl><dd>The White Towers can be seen at the background of the Towers Hills map.</dd></dl>
 

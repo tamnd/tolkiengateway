@@ -52,9 +52,9 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../D/David_Doughan.md" title="David Doughan">David Doughan</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-<i><b>Tolkien Nghiên cứu: Đánh giá học thuật hàng năm</b></i> là tạp chí học thuật hàng năm về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và các công trình của ông. Kể từ khi *[The Hobbit](The_Hobbit.md)* được xuất bản trên [1937](../_/1937.md), các bài viết của J.R.R. Tolkien đã được cả thế giới ngưỡng mộ. Với việc xuất bản *[The Lord of the Rings](The_Lord_of_the_Rings.md)*vào những năm 1950, lối viết kỳ ảo của Tolkien bắt đầu thu hút sự chú ý của giới học thuật trong cả lớp học và thế giới học thuật. Gần đây nhất, bộ phim chuyển thể gồm ba phần của [Peter Jackson](../P/Peter_Jackson.md)đã bổ sung thêm những học giả nghiên cứu về điện ảnh cho những người say mê tác phẩm của Tolkien.
+<i><b>Tolkien Nghiên cứu: Đánh giá học thuật hàng năm</b></i> là tạp chí học thuật hàng năm về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và các công trình của ông. Kể từ khi *[The Hobbit](The_Hobbit.md)* được xuất bản trên [1937](../_/1937.md), các bài viết của J.R.R. Tolkien đã được cả thế giới ngưỡng mộ. Với việc xuất bản *[The Lord of the Rings](The_Lord_of_the_Rings.md)* vào những năm 1950, lối viết kỳ ảo của Tolkien bắt đầu thu hút sự chú ý của giới học thuật trong cả lớp học và thế giới học thuật. Gần đây nhất, bộ phim chuyển thể gồm ba phần của [Peter Jackson](../P/Peter_Jackson.md) đã bổ sung thêm những học giả nghiên cứu về điện ảnh cho những người say mê tác phẩm của Tolkien.
 
-Nó trình bày số lượng ngày càng tăng các bình luận phê bình và học thuật về tiểu thuyết đồ sộ của J. R. R. Tolkien cũng như công trình học thuật của ông trong lĩnh vực văn học và ngôn ngữ. Các biên tập viên sáng lập — [Douglas A. Anderson](../D/Douglas_A._Anderson.md), [Michael D.C. Drout](../M/Michael_D.C._Drout.md), và [Verlyn Flieger](../V/Verlyn_Flieger.md) — và các thành viên ban biên tập — [David Bratman](../D/David_Bratman.md), [Carl F. Hostetter](../C/Carl_F._Hostetter.md), [Tom Shippey](Tom_Shippey.md), [Richard C. West](../R/Richard_C._West.md) và [Marjorie Burns](../M/Marjorie_Burns.md) — đều là những học giả Tolkien xuất sắc.
+Nó trình bày số lượng ngày càng tăng các bình luận phê bình và học thuật về tiểu thuyết đồ sộ của J. R. R. Tolkien cũng như công trình học thuật của ông trong lĩnh vực văn học và ngôn ngữ. Các biên tập viên sáng lập — [Douglas A. Anderson](../D/Douglas_A._Anderson.md), [Michael D.C. Drout](../M/Michael_D.C._Drout.md) và [Verlyn Flieger](../V/Verlyn_Flieger.md) — và các thành viên ban biên tập — [David Bratman](../D/David_Bratman.md), [Carl F. Hostetter](../C/Carl_F._Hostetter.md), [Tom Shippey](Tom_Shippey.md), [Richard C. West](../R/Richard_C._West.md) và [Marjorie Burns](../M/Marjorie_Burns.md) — đều là những học giả Tolkien xuất sắc.
 
 Bạn có thể mua các số in của những năm gần đây thông qua trang web chính thức, trong khi tất cả các số phát hành sau (từ năm 2004) đều có sẵn để truy cập và mua ở định dạng kỹ thuật số.
 
@@ -63,9 +63,9 @@ Bạn có thể mua các số in của những năm gần đây thông qua trang
 - [Tolkien Nghiên cứu: Tập 1](Tolkien_Studies%253A_Volume_1.md)
 - [Tolkien Nghiên cứu: Tập 2](Tolkien_Studies%253A_Volume_2.md)
 - [Tolkien Studies: Volume 3](Tolkien_Studies%253A_Volume_3.md)
-- [Tolkien Studies: Volume 4](Tolkien_Studies%253A_Volume_4.md)
+- [Tolkien Nghiên cứu: Tập 4](Tolkien_Studies%253A_Volume_4.md)
 - [Tolkien Nghiên cứu: Tập 5](Tolkien_Studies%253A_Volume_5.md)
-- [Tolkien Studies: Volume 6](Tolkien_Studies%253A_Volume_6.md)
+- [Tolkien Nghiên cứu: Tập 6](Tolkien_Studies%253A_Volume_6.md)
 - [Tolkien Nghiên cứu: Tập 7](Tolkien_Studies%253A_Volume_7.md)
 - [Tolkien Nghiên cứu: Tập 8](Tolkien_Studies%253A_Volume_8.md)
 - [Tolkien Nghiên cứu: Tập 9](Tolkien_Studies%253A_Volume_9.md)
@@ -73,7 +73,7 @@ Bạn có thể mua các số in của những năm gần đây thông qua trang
 - [Tolkien Nghiên cứu: Tập 11](Tolkien_Studies%253A_Volume_11.md)
 - [Tolkien Nghiên cứu: Tập 12](Tolkien_Studies%253A_Volume_12.md)
 - [Tolkien Nghiên cứu: Tập 13](Tolkien_Studies%253A_Volume_13.md)
-- [Tolkien Studies: Volume 14](Tolkien_Studies%253A_Volume_14.md)
+- [Tolkien Nghiên cứu: Tập 14](Tolkien_Studies%253A_Volume_14.md)
 - [Tolkien Nghiên cứu: Tập 15](Tolkien_Studies%253A_Volume_15.md)
 - [Tolkien Nghiên cứu: Tập 16](Tolkien_Studies%253A_Volume_16.md)
 - [Tolkien Nghiên cứu: Tập 17](Tolkien_Studies%253A_Volume_17.md)

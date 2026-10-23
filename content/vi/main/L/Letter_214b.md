@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong thư này, Tolkien trả lời con trai [Michael](../M/Michael_Tolkien.md)xuất viện sau ca phẫu thuật viêm ruột thừa. Anh ấy mô tả rằng anh ấy cảm thấy kiệt sức và cũng đang gặp khó khăn đáng kể về tài chính. Anh ấy đề cập đến sự cần thiết phải rời bỏ chỗ ở đắt tiền hiện tại của mình, một phần do [Edith](../E/Edith_Tolkien.md) mất khả năng lao động do chấn thương ở cánh tay và cân nhắc việc chuyển đến một khách sạn ở Bournemouth, nơi sẽ có giá cả phải chăng hơn.
+Trong thư này, Tolkien trả lời con trai [Michael](../M/Michael_Tolkien.md) xuất viện sau ca phẫu thuật viêm ruột thừa. Anh ấy mô tả rằng anh ấy cảm thấy kiệt sức và cũng đang gặp khó khăn đáng kể về tài chính. Anh ấy đề cập đến sự cần thiết phải rời bỏ chỗ ở đắt tiền hiện tại của mình, một phần do [Edith](../E/Edith_Tolkien.md) mất khả năng lao động do chấn thương ở cánh tay và cân nhắc việc chuyển đến một khách sạn ở Bournemouth, nơi sẽ có giá cả phải chăng hơn.
 
 Tolkien dự định sẽ sớm rời bệnh viện nhưng thừa nhận tình trạng suy yếu của mình do cuộc phẫu thuật và các biến chứng liên quan. Bất chấp những thách thức này, anh ấy vẫn lạc quan về sự hồi phục của mình và gửi tình yêu cũng như lời cầu nguyện đến Michael. <br>
 

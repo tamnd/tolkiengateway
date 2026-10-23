@@ -40,7 +40,7 @@ Tanta kết hôn với [Largo Baggins](../L/Largo_Baggins.md) và là mẹ của
 
 ## Từ nguyên {#Etymology}
 
-Cái tên *Tanta* không có ý nghĩa gì trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md)đương thời. Nó đại diện cho tên gốc *Tante* hoặc *Tanto*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Cái tên *Tanta* không có ý nghĩa gì trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md) đương thời. Nó đại diện cho tên gốc *Tante* hoặc *Tanto*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

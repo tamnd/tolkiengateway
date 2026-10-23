@@ -24,7 +24,7 @@ images:
 
 Anh **Joseph Power** ([2 tháng 2](../_/2_February.md) [1925](../_/1925.md) - [19 tháng 10](../_/19_October.md) [2011](../_/2011.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là giáo sư Ngôn ngữ và Văn học Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/Walsh_University" title="wikipedia:Walsh University">Đại học Walsh</a>. Anh ấy đã nhận được B.A. từ <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_London" title="wikipedia:University of London">Đại học London</a>, và sau đó đã giành được một suất triển lãm tại Đại học St. Catherine, Oxford (đọc để lấy bằng danh dự về Ngôn ngữ và Văn học Anh).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong thời gian này, anh ấy đã đến thăm nhà của [J.R.R. Tolkien](J.R.R._Tolkien.md)để được hướng dẫn buổi tối về [tiếng Anh cổ](../O/Old_English.md), nhưng thay vào đó anh ấy lại tham gia cùng Tolkiens trong lễ kỷ niệm nền cộng hòa của *[The Hobbit](../T/The_Hobbit.md)* (có thể là phiên bản thứ hai của [1951](../_/1951.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong thời gian này, anh ấy đã đến thăm nhà của [J.R.R. Tolkien](J.R.R._Tolkien.md) để được hướng dẫn buổi tối về [tiếng Anh cổ](../O/Old_English.md), nhưng thay vào đó anh ấy lại tham gia cùng Tolkiens trong lễ kỷ niệm nền cộng hòa của *[The Hobbit](../T/The_Hobbit.md)* (có thể là phiên bản thứ hai của [1951](../_/1951.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Năm 1965, Joseph Power chuyển đến Hoa Kỳ.
 

@@ -61,7 +61,7 @@ Bài tiểu luận thể hiện một quan điểm ngôn ngữ học cũ về [C
 
 - Ngành *Valarin* là nguồn gốc của tất cả các ngành khác và dẫn đến [Valarin](../V/Valarin.md) (ngôn ngữ của [Valar](../V/Valar.md).)
 - *[Oromëan](../O/Oromëan.md)* được đặt tên theo Vala [Oromë](../O/Oromë.md) và được sử dụng cho tất cả các ngôn ngữ của [Tiên tộc](../E/Elves.md), vì Oromë đã dạy ngôn ngữ Tiên tộc. Hầu hết các ngôn ngữ của [Con Người](../M/Men.md) cũng thuộc ngành này.
-- *[Aulëan](../A/Aulëan.md)* được đặt theo tên của Vala [Aulë](../A/Aulë.md), cha đẻ của [Người Lùn](../D/Dwarves.md)và là nguồn gốc của ngôn ngữ [Khuzdul](../K/Khuzdul.md). Nó đã có một số ảnh hưởng đến ngôn ngữ của Con Người.
+- *[Aulëan](../A/Aulëan.md)* được đặt theo tên của Vala [Aulë](../A/Aulë.md), cha đẻ của [Người Lùn](../D/Dwarves.md) và là nguồn gốc của ngôn ngữ [Khuzdul](../K/Khuzdul.md). Nó đã có một số ảnh hưởng đến ngôn ngữ của Con Người.
 - *[Melkian](../M/Melkian.md)* được đặt theo tên của Vala [Melkor](../M/Morgoth.md) (hoặc Morgoth) đã sa ngã, và là nguồn gốc của [Hắc Ngữ](../B/Black_Speech.md) của [Orc](../O/Orcs.md) và những sinh vật tà ác khác.
 
 [Tolkien](../J/J.R.R._Tolkien.md) sau đó đã sửa đổi và đơn giản hóa lịch sử ngôn ngữ trong thế giới của anh ấy và một số yếu tố không thể áp dụng cho các ngôn ngữ sau này của Trung Địa. Tuy nhiên, Tolkien trong các tác phẩm sau này vẫn cho rằng [Rúmil](<../R/Rúmil_(elf_of_Tirion).md>) đã viết <i><b>L</b>ammas</i>, nhưng bản thân ông chưa bao giờ viết một dạng "cập nhật" phù hợp với thần thoại sau này của ông.

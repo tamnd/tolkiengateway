@@ -12,7 +12,7 @@ categories:
   - "Index"
 ---
 
-**Mục lục:Bản thảo của J.R.R. Tolkien** là danh sách theo thứ tự thời gian các bài viết của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)liên quan đến [Arda](../../main/A/Arda.md) (bao gồm cả các bài viết về ngôn ngữ).
+**Mục lục:Bản thảo của J.R.R. Tolkien** là danh sách theo thứ tự thời gian các bài viết của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) liên quan đến [Arda](../../main/A/Arda.md) (bao gồm cả các bài viết về ngôn ngữ).
 
 <br>
 

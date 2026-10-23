@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Yestar%C3%AB"
 ---
 
-**Yestarë**, nghĩa là "Ngày đầu tiên", là tên được sử dụng trong lịch của [Tiên tộc](../E/Elves.md)và những lịch bắt nguồn từ chúng, cho ngày đầu tiên của năm. Đó là ngày đầu tiên của mùa xuân và sự đổi mới của thiên nhiên. Nó rơi ngoài tháng.
+**Yestarë**, nghĩa là "Ngày đầu tiên", là tên được sử dụng trong lịch của [Tiên tộc](../E/Elves.md) và những lịch bắt nguồn từ chúng, cho ngày đầu tiên của năm. Đó là ngày đầu tiên của mùa xuân và sự đổi mới của thiên nhiên. Nó rơi ngoài tháng.
 
 Ngày thực tế của Yestarë khác nhau giữa các lịch; trong một số trường hợp, nó đến gần điểm xuân phân, chẳng hạn như trong [Tính toán Rivendell](../R/Reckoning_of_Rivendell.md) (ít nhiều là ngày 29 tháng 3) và [Tính toán mới](../N/New_Reckoning.md) (khoảng ngày 17 tháng 3);<sup id="cite_ref-guide_1-0" class="reference"><a href="#cite_note-guide-1">[1]</a></sup> trong các lịch khác, nó rơi vào ngày đông chí, chẳng hạn như trong [Tính toán của các vị vua](../K/Kings'_Reckoning.md) và [Quản lý' Tính toán](../S/Stewards'_Reckoning.md).<sup id="cite_ref-guide_1-1" class="reference"><a href="#cite_note-guide-1">[1]</a></sup>
 

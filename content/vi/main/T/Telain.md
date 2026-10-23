@@ -33,7 +33,7 @@ images:
 
 ## Lịch sử {#History}
 
-*Telain*được xây dựng trên những cây [Mallorn](../M/Mallorn.md)cao, tạo ở không gian thân cây chia thành nhiều nhánh; chúng không có tường, thậm chí không có đường ray, nhưng những tấm màn di động được lắp đặt để chắn gió; chúng chỉ có thể tiếp cận được bằng thang dây *[hithlain](../H/Hithlain.md)* được hạ thấp. Chúng chủ yếu được sử dụng làm trạm gác và tháp canh xung quanh rìa [Lothlórien](../L/Lothlórien.md).<sup id="cite_ref-Loth_2-0" class="reference"><a href="#cite_note-Loth-2">[2]</a></sup>
+*Telain* được xây dựng trên những cây [Mallorn](../M/Mallorn.md) cao, tạo ở không gian thân cây chia thành nhiều nhánh; chúng không có tường, thậm chí không có đường ray, nhưng những tấm màn di động được lắp đặt để chắn gió; chúng chỉ có thể tiếp cận được bằng thang dây *[hithlain](../H/Hithlain.md)* được hạ thấp. Chúng chủ yếu được sử dụng làm trạm gác và tháp canh xung quanh rìa [Lothlórien](../L/Lothlórien.md).<sup id="cite_ref-Loth_2-0" class="reference"><a href="#cite_note-Loth-2">[2]</a></sup>
 
 Tuy nhiên, trong [Caras Galadhon](../C/Caras_Galadhon.md), *telain* phổ biến hơn và phục vụ nhiều chức năng nghi lễ hơn: chính trên một ngôi nhà được xây trên *talan* mà [Học bổng](../F/Fellowship_of_the_Ring.md) đã gặp [Galadriel](../G/Galadriel.md) và [Celeborn](../C/Celeborn.md).<sup id="cite_ref-Mirror_3-0" class="reference"><a href="#cite_note-Mirror-3">[3]</a></sup>
 
@@ -51,7 +51,7 @@ Từ [Sindarin](../S/Sindarin.md) *talan* hoặc *tâl* ("không gian phẳng, n
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg/250px-The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg/375px-The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg/500px-The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Telain of Caras Galadhon in <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2008: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2008: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>All Telain outside of Caras Galadhon have open sides and perform mostly defensive function, although some are recreational. Within Caras Galadhon itself, the larger telain are enclosed from the outside, while the wooden platforms themselves still provide an open walkable area.</dd></dl>
 

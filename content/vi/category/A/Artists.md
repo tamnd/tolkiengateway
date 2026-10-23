@@ -12,4 +12,4 @@ categories:
   - "People by occupation"
 ---
 
-Dưới đây là danh sách **Nghệ sĩ** đã đóng góp cho các tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)bằng hình ảnh minh họa của họ.
+Dưới đây là danh sách **Nghệ sĩ** đã đóng góp cho các tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) bằng hình ảnh minh họa của họ.

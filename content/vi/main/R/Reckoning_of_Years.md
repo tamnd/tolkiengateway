@@ -30,7 +30,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-<i><b>Tính toán của năm</b></i> là cuốn sách được viết bởi [Merry Brandybuck](../M/Meriadoc_Brandybuck.md) khoảng sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md). Trong tác phẩm này Merry đã thảo luận về mối quan hệ giữa [lịch](../S/Shire_Calendar.md) của [lịch Shire](../T/The_Shire.md) và [của](../B/Bree_Calendar.md) [Bree](../B/Bree.md) với các lịch của [Rivendell](Reckoning_of_Rivendell.md), [Gondor](../N/New_Reckoning.md)và [Rohan](Rohan.md).
+<i><b>Tính toán của năm</b></i> là cuốn sách được viết bởi [Merry Brandybuck](../M/Meriadoc_Brandybuck.md) khoảng sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md). Trong tác phẩm này Merry đã thảo luận về mối quan hệ giữa [lịch](../S/Shire_Calendar.md) của [lịch Shire](../T/The_Shire.md) và [của](../B/Bree_Calendar.md) [Bree](../B/Bree.md) với các lịch của [Rivendell](Reckoning_of_Rivendell.md), [Gondor](../N/New_Reckoning.md) và [Rohan](Rohan.md).
 
 Cuốn sách này là một trong những cuốn sách quan trọng được lưu giữ trong thư viện của [Bucklebury](../B/Bucklebury.md), có lẽ là một trong những tác phẩm quan trọng chưa được sao chép vào [Sách Đỏ](Red_Book.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

@@ -69,9 +69,9 @@ Sự kiện xảy ra vào ngày 21 tháng 5
 - **[1944](1944.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 70](../L/Letter_70.md).
 - **[1951](1951.md)** - Nghệ sĩ [Angelo Montanini](../A/Angelo_Montanini.md) ra đời.
 - **[2000](2000.md)** – Bảng tin [Minastirith.com](../M/Minastirith.com.md) trực tuyến.
-- **[2011](2011.md)** – Lustrumfeest của [Unquendor](../U/Unquendor.md).
-- **[2011](2011.md)** – Cuối tuần Trung Địa của [Hội Tolkien](../T/The_Tolkien_Society.md)ở [Sarehole](../S/Sarehole_Mill.md), [Birmingham](../B/Birmingham.md).
-- **[2013](2013.md)** - <b><i><a href="../T/The_Fall_of_Arthur.md" title="The Fall of Arthur">The Fall of Arthur</a></i> được xuất bản.</b>
+- **[2011](2011.md)** – Lễ hội Lustrumfeest của [Unquendor](../U/Unquendor.md).
+- **[2011](2011.md)** – Cuối tuần Trung Địa của [Hội Tolkien](../T/The_Tolkien_Society.md) ở [Sarehole](../S/Sarehole_Mill.md), [Birmingham](../B/Birmingham.md).
+- **[2013](2013.md)** - <b><i><a href="../T/The_Fall_of_Arthur.md" title="The Fall of Arthur">Sự sụp đổ của Arthur</a></i> được xuất bản.</b>
 
 ## Trong Arda {#In_Arda}
 

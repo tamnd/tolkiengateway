@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Elrond](../../main/E/Elrond.md)nhà và [cây cầu](../../main/L/Last_Bridge.md) ở [Rivendell](../../main/R/Rivendell.md)" của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
+"[Elrond](../../main/E/Elrond.md) nhà và [cây cầu](../../main/L/Last_Bridge.md) ở [Rivendell](../../main/R/Rivendell.md)" của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
 
 ## Giấy phép {#Licensing}
 

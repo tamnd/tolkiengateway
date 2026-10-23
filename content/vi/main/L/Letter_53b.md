@@ -31,7 +31,7 @@ Christopher đã về nhà trong kỳ nghỉ lễ Giáng sinh nhưng phải tr�
 
 ## Tóm tắt {#Summary}
 
-Tolkien bày tỏ sự vui mừng khi nhận được tin nhắn từ [Christopher](../C/Christopher_Tolkien.md) và gửi lời chúc phúc. Anh ấy suy ngẫm về việc mất tích Christopher kể từ [ngày 1 tháng 1](../_/1_January.md) và hối hận vì đã không dành nhiều thời gian bên nhau hơn. Tolkien cập nhật Christopher về cuộc gặp với [C.S. Lewis](../C/C.S._Lewis.md), [Charles Williams](../C/Charles_Williams.md)và [Warren "Warnie" Lewis](../W/Warren_%2522Warnie%2522_Lewis.md) và chia sẻ suy nghĩ của mình về cuốn tiểu thuyết thứ ba của C.S. Lewis. Anh ta hứa sẽ viết một bức thư chi tiết hơn sau, vì hiện tại anh ta đang bận rộn với nhiều nhiệm vụ và xin Christopher cầu nguyện cho anh ta. <br>
+Tolkien bày tỏ sự vui mừng khi nhận được tin nhắn từ [Christopher](../C/Christopher_Tolkien.md) và gửi lời chúc phúc. Anh ấy suy ngẫm về việc mất tích Christopher kể từ [ngày 1 tháng 1](../_/1_January.md) và hối hận vì đã không dành nhiều thời gian bên nhau hơn. Tolkien cập nhật Christopher về cuộc gặp với [C.S. Lewis](../C/C.S._Lewis.md), [Charles Williams](../C/Charles_Williams.md) và [Warren "Warnie" Lewis](../W/Warren_%2522Warnie%2522_Lewis.md) và chia sẻ suy nghĩ của mình về cuốn tiểu thuyết thứ ba của C.S. Lewis. Anh ta hứa sẽ viết một bức thư chi tiết hơn sau, vì hiện tại anh ta đang bận rộn với nhiều nhiệm vụ và xin Christopher cầu nguyện cho anh ta. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

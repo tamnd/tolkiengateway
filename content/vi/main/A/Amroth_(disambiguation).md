@@ -21,7 +21,7 @@ images:
     - [Dol Amroth](../D/Dol_Amroth.md), [công quốc](../P/Prince.md) ở Gondor.
         - [Thân vương Dol Amroth](../P/Princes_of_Dol_Amroth.md).
         - [Amrothos](Amrothos.md), con trai của [Imrahil](../I/Imrahil.md).
-    - [Edhellond](../E/Edhellond.md)hoặc Haven của Amroth.
+    - [Edhellond](../E/Edhellond.md) hoặc Haven của Amroth.
 
 <hr style="margin-top:15px;"/>
 

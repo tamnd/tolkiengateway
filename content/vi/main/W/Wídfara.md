@@ -48,7 +48,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Nhà của anh ấy ở [the Wold](../T/The_Wold.md), vùng đồng cỏ hoang dã ở biên giới phía bắc của [Rohan](../R/Rohan.md), và ở vùng đất phía bắc này, anh ấy đã có được khả năng cảm nhận thời tiết đặc biệt. Anh ấy đã đi theo [Théoden](../T/Théoden.md) đến [Minas Tirith](../M/Minas_Tirith.md) và chính anh ấy là người đầu tiên báo cáo về sự thay đổi của gió trong suốt chuyến đi dài, một sự thay đổi báo trước sự kết thúc của bóng tối lờ mờ của [Sauron](../S/Sauron.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Anh ấy đã chiến đấu trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md)tiếp theo.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nhà của anh ấy ở [the Wold](../T/The_Wold.md), vùng đồng cỏ hoang dã ở biên giới phía bắc của [Rohan](../R/Rohan.md), và ở vùng đất phía bắc này, anh ấy đã có được khả năng cảm nhận thời tiết đặc biệt. Anh ấy đã đi theo [Théoden](../T/Théoden.md) đến [Minas Tirith](../M/Minas_Tirith.md) và chính anh ấy là người đầu tiên báo cáo về sự thay đổi của gió trong suốt chuyến đi dài, một sự thay đổi báo trước sự kết thúc của bóng tối lờ mờ của [Sauron](../S/Sauron.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Anh ấy đã chiến đấu trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md) tiếp theo.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -56,7 +56,7 @@ Nhà của anh ấy ở [the Wold](../T/The_Wold.md), vùng đồng cỏ hoang d
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Wídfara comes from the <a class="mw-redirect" href="Wold.md" title="Wold">Wold</a>. When a remote region of Wildermore stops sending messengers, <a href="../H/Harding_(rider_of_Rohan).md" title="Harding (rider of Rohan)">Harding</a> sends a group of riders to check on them, including Wídfara. The group is ambushed and the few survivors are scattered. Wídfara&#39;s horse Windfoot is killed and he himself sustains a wound, after which he slowly makes it to the village of Scylfig on foot. There he is found by the party of the player, <a href="../G/Gléowine.md" title="Gléowine">Gléowine</a> and <a href="../H/Horn_(rider_of_Rohan).md" title="Horn (rider of Rohan)">Horn</a>.</dd>
 <dd>Wídfara later recovers from his wounds and returns to the <a class="mw-redirect" href="Wold.md" title="Wold">Wold</a> just in time to answer the muster of the Rohirrim. He rides with Harding&#39;s men to the summons and is met again by the player in the <a href="../D/Drúadan_Forest.md" title="Drúadan Forest">Drúadan Forest</a>. He survives the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a>.</dd></dl>

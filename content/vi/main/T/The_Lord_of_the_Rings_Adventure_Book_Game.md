@@ -33,7 +33,7 @@ infobox:
 
 Chơi qua bộ ba sử thi The Lord of the Rings trong 8 chương! Trải nghiệm sống động này có một "cuốn sách trò chơi" độc đáo gồm các bảng trò chơi minh họa. Mỗi bảng đưa ra một thử thách mới và khoảnh khắc phim mang tính biểu tượng.
 
-Tránh [Kỵ sĩ Đen](../B/Black_Riders.md) trong [Shire](../S/Shire.md), sống sót trong [Mỏ Moria](../M/Mines_of_Moria.md) và khám phá nhiều địa điểm hơn nữa từ The Lord of the Rings khi bạn hướng dẫn các nhân vật được yêu thích như [Frodo](../F/Frodo.md), [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md)và [Gimli](../G/Gimli.md).
+Tránh [Kỵ sĩ Đen](../B/Black_Riders.md) trong [Shire](../S/Shire.md), sống sót trong [Mỏ Moria](../M/Mines_of_Moria.md) và khám phá nhiều địa điểm hơn nữa từ The Lord of the Rings khi bạn hướng dẫn các nhân vật được yêu thích như [Frodo](../F/Frodo.md), [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md).
 
 Trò chơi sách phiêu lưu sử dụng một “cuốn sách trò chơi” độc đáo với các trang chuyển sang bảng mới thể hiện những cảnh quan trọng trong những câu chuyện cổ điển. Tuyệt vời cho những đêm chơi game định kỳ hoặc một ngày tràn ngập niềm vui!
 

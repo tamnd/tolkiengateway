@@ -48,7 +48,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Diamond đến từ [Long Cleeve](../L/Long_Cleeve.md), một ngôi làng ở [Northfarthing](../N/Northfarthing.md). Bà kết hôn với [Peregrin Took](../P/Peregrin_Took.md) ở [S.R.](../S/Shire_Reckoning.md) [1427](../F/Fourth_Age_6.md)và có một con trai [Faramir](../F/Faramir_Took_I.md), đặt theo tên [Thân vương](../P/Prince_of_Ithilien.md) [Faramir](../F/Faramir.md) của [Gondor](../G/Gondor.md).<sup id="cite_ref-Took_2-0" class="reference"><a href="#cite_note-Took-2">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+Diamond đến từ [Long Cleeve](../L/Long_Cleeve.md), một ngôi làng ở [Northfarthing](../N/Northfarthing.md). Bà kết hôn với [Peregrin Took](../P/Peregrin_Took.md) ở [S.R.](../S/Shire_Reckoning.md) [1427](../F/Fourth_Age_6.md) và có một con trai [Faramir](../F/Faramir_Took_I.md), đặt theo tên [Thân vương](../P/Prince_of_Ithilien.md) [Faramir](../F/Faramir.md) của [Gondor](../G/Gondor.md).<sup id="cite_ref-Took_2-0" class="reference"><a href="#cite_note-Took-2">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -62,7 +62,7 @@ Diamond đến từ [Long Cleeve](../L/Long_Cleeve.md), một ngôi làng ở [N
 
 <dl><dd>Whilst unnamed in the film itself, the Hobbit next to Pippin at <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a>&#39;s wedding is identified as Diamond on a <a class="mw-redirect" href="Decipher_Card.md" title="Decipher Card">Decipher Card</a>. She is played by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Emma_Deakin&amp;action=edit&amp;redlink=1" title="Emma Deakin (page does not exist)">Emma Deakin</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup></dd></dl>
 
-<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Her true name is given as &#34;Adamanda North-took&#34;, with Diamond being her nickname. Her mother, &#34;Rosalinda&#34;, is the Reeve of &#34;<a href="../T/The_Yondershire.md" title="The Yondershire">the Yondershire</a>&#34;.<sup id="cite_ref-Diamond_Hunting_6-0" class="reference"><a href="#cite_note-Diamond_Hunting-6">[5]</a></sup></dd></dl>
 

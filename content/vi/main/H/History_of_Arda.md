@@ -91,7 +91,7 @@ Sau đó Ilúvatar tạo ra [Eä](../E/Eä.md), chính vũ trụ, và Ainur hìn
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../D/Days_before_days.md" title="Days before days">Days before days</a></b></div></div>
 
-<br> **Những ngày trước** bắt đầu ngay sau khi Arda được [Valar](../V/Valar.md)tạo ra. Sau khi Valar bước vào thế giới, có một ánh sáng bao phủ mặt đất. Valar lấy ánh sáng này và tập trung thành hai đèn lớn [Illuin](../I/Illuin.md) và [Ormal](../O/Ormal.md). Trong một phiên bản, Vala [Melkor](../M/Morgoth.md) đã rèn nên những cây cột lớn, một ở cực bắc và một ở sâu nhất về phía nam. Người Valar sống ở giữa, tại đảo [Almaren](../A/Almaren.md). Sự kết thúc của Ngày trước được đánh dấu bằng việc [Melkor](../M/Morgoth.md)phá hủy Hai Ngọn Đèn.
+<br> **Những ngày trước** bắt đầu ngay sau khi Arda được [Valar](../V/Valar.md) tạo ra. Sau khi Valar bước vào thế giới, có một ánh sáng bao phủ mặt đất. Valar lấy ánh sáng này và tập trung thành hai đèn lớn [Illuin](../I/Illuin.md) và [Ormal](../O/Ormal.md). Trong một phiên bản, Vala [Melkor](../M/Morgoth.md) đã rèn nên những cây cột lớn, một ở cực bắc và một ở sâu nhất về phía nam. Người Valar sống ở giữa, tại đảo [Almaren](../A/Almaren.md). Sự kết thúc của Ngày trước được đánh dấu bằng việc [Melkor](../M/Morgoth.md) phá hủy Hai Ngọn Đèn.
 
 #### Mùa Xuân của Arda {#Spring_of_Arda}
 
@@ -103,13 +103,13 @@ Sau đó Ilúvatar tạo ra [Eä](../E/Eä.md), chính vũ trụ, và Ainur hìn
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Years of the Trees</a></b></div></div>
 
-<br> Ngay sau khi Hai Ngọn Đèn bị phá hủy, [Yavanna](../Y/Yavanna.md) đã tạo ra [Hai Cây](../T/Two_Trees.md), được đặt tên là [Telperion](../T/Telperion.md) (cây bạc) và [Laurelin](../L/Laurelin.md) (cây vàng) tại vùng đất [Aman](../A/Aman.md), nơi Valar hiện đang sinh sống. Cây cối chiếu sáng Aman, để lại Trung Địa trong bóng tối.
+<br> Ngay sau khi Hai Ngọn Đèn bị phá hủy, [Yavanna](../Y/Yavanna.md) đã tạo ra [Hai Cây](../T/Two_Trees.md), được đặt tên là [Telperion](../T/Telperion.md) (cây bạc) và [Laurelin](../L/Laurelin.md) (cây vàng) ở vùng đất [Aman](../A/Aman.md), nơi Valar hiện đang sinh sống. Cây cối chiếu sáng Aman, để lại Trung Địa trong bóng tối.
 
 [Tiên tộc thức dậy](../A/Awakening_of_the_Elves.md) vào lúc [Cuiviénen](../C/Cuiviénen.md) khi các ngôi sao được nhen nhóm lại, bắt đầu [Kỷ nguyên của Những Người Con của Ilúvatar](../A/Ages_of_the_Children_of_Ilúvatar.md). Nhiều người, mặc dù không phải tất cả, trong số [Tiên tộc](../E/Elves.md) đã được thuyết phục đi theo [Đại Hành Trình](../G/Great_Journey.md) về phía tây tới Aman. Trong suốt cuộc hành trình, một số nhóm Tiên tộc đã nán lại, đặc biệt là [Nandor](../N/Nandor.md) và [Sindar](../S/Sindar.md). Ba clan đã đến Aman là [Vanyar](../V/Vanyar.md), [Ñoldor](../N/Noldor.md) và [Teleri](../T/Teleri.md).
 
-Valar đã bắt giữ Melkor và xích anh ta vào Aman. Sau khi tỏ ra ăn năn và được thả, anh ta đã gieo rắc mối bất hòa lớn giữa Tiên tộc, đồng thời khơi dậy sự cạnh tranh giữa hai con trai [Fëanor](../F/Fëanor.md) và [Fingolfin](../F/Fingolfin.md)của Ñoldorin Vua [Finwë](../F/Finwë.md). Vì ghen tị và căm thù Silmaril—ba viên đá quý do Feänor chế tạo chứa đựng ánh sáng của Hai Cây—anh ta đã đánh cắp chúng, giết chết Finwë người đang canh giữ những viên ngọc; sau đó với sự giúp đỡ của sinh vật [Ungoliant](../U/Ungoliant.md) anh ta đã tiêu diệt Hai Cây và trốn thoát đến Trung Địa.
+Valar đã bắt giữ Melkor và xích anh ta vào Aman. Sau khi tỏ ra ăn năn và được thả, anh ta đã gieo rắc mối bất hòa lớn giữa Tiên tộc, đồng thời khơi dậy sự cạnh tranh giữa hai con trai [Fëanor](../F/Fëanor.md) và [Fingolfin](../F/Fingolfin.md) của Ñoldorin Vua [Finwë](../F/Finwë.md). Vì ghen tị và căm thù Silmaril—ba viên đá quý do Feänor chế tạo chứa đựng ánh sáng của Hai Cây—anh ta đã đánh cắp chúng, giết chết Finwë người đang canh giữ những viên ngọc; sau đó với sự giúp đỡ của sinh vật [Ungoliant](../U/Ungoliant.md) anh ta đã tiêu diệt Hai Cây và trốn thoát đến Trung Địa.
 
-Cay đắng trước sự không hoạt động của Valar, Feänor cùng nhà bỏ đi để truy đuổi Melkor, chửi bới cái tên 'Morgoth'. Một đội quân lớn hơn, do [Fingolfin](../F/Fingolfin.md) chỉ huy đi theo anh ta. Họ đến thành phố cảng Telerin [Alqualondë](../A/Alqualondë.md)và bị cấm sử dụng tàu Telerin. Feänor quyết định chiếm giữ họ bằng vũ lực và do đó [Cuộc tàn sát người thân đầu tiên](../K/Kinslaying_at_Alqualondë.md) xảy ra sau đó và chỉ nhờ sức mạnh về quân số mà Teleri đã vượt qua và những con tàu công bằng của họ bị đánh cắp.
+Cay đắng trước sự không hoạt động của Valar, Feänor cùng nhà bỏ đi để truy đuổi Melkor, chửi bới cái tên 'Morgoth'. Một đội quân lớn hơn, do [Fingolfin](../F/Fingolfin.md) chỉ huy đi theo anh ta. Họ đến thành phố cảng Telerin [Alqualondë](../A/Alqualondë.md) và bị cấm sử dụng tàu Telerin. Feänor quyết định chiếm giữ họ bằng vũ lực và do đó [Cuộc tàn sát người thân đầu tiên](../K/Kinslaying_at_Alqualondë.md) xảy ra sau đó và chỉ nhờ sức mạnh về quân số mà Teleri đã vượt qua và những con tàu công bằng của họ bị đánh cắp.
 
 Đội quân của Feänor đi trên các con tàu và đốt chúng khi anh đến Trung Địa. Bị bỏ lại phía sau, Fingolfin và đại đội của anh ta băng qua Trung Địa qua [Băng mài](Helcaraxë.md) ở cực bắc. Cùng khoảng thời gian đó nhưng riêng biệt, Galadriel và Celeborn khởi hành đi Trung Địa mà không có sự cho phép của Valar.
 
@@ -117,7 +117,7 @@ Cay đắng trước sự không hoạt động của Valar, Feänor cùng nhà 
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../Y/Years_of_the_Sun.md" title="Years of the Sun">Years of the Sun</a></b></div></div>
 
-Những Năm của Mặt Trời bắt đầu khi Valar tạo ra Mặt Trời và Mặt Trăng từ quả cuối cùng của [Laurelin](../L/Laurelin.md) và bông hoa cuối cùng của [Telperion](../T/Telperion.md) và đặt chúng trên thiên đường. Những năm sau đó được tính vào Trung Địa như trong thế giới thực của chúng ta. Kỷ Đệ Nhất của Những Người Con của Ilúvatar tiếp tục được tính toán theo thời gian mới này.
+Những năm Mặt Trời bắt đầu khi Valar tạo ra Mặt Trời và Mặt Trăng từ trái cuối cùng của [Laurelin](../L/Laurelin.md) và bông hoa cuối cùng của [Telperion](../T/Telperion.md) và đặt chúng trên thiên đường. Những năm sau đó được tính vào Trung Địa như trong thế giới thực của chúng ta. Kỷ Đệ Nhất của Những Người Con của Ilúvatar tiếp tục được tính toán theo thời gian mới này.
 
 <h4><span id="First_Age.27s_Years_of_the_Sun"></span><span class="mw-headline" id="First_Age&#39;s_Years_of_the_Sun">First Age&#39;s Years of the Sun</span></h4>
 
@@ -127,7 +127,7 @@ Những Năm của Mặt Trời bắt đầu khi Valar tạo ra Mặt Trời và
 
 Thời kỳ Hòa bình Dài lâu tồn tại hàng trăm năm; trong thời gian đó [Con Người](../M/Men.md) đã đến [Dãy Núi Xanh](../B/Blue_Mountains.md). Nhưng hòa bình không kéo dài; và từng vương quốc — kể cả những vương quốc ẩn giấu của [Gondolin](../G/Gondolin.md) và [Doriath](../D/Doriath.md) — đều sụp đổ.
 
-Vào cuối thời đại, tất cả những gì còn lại của Tiên tộc và Con Người tự do ở [Beleriand](../B/Beleriand.md) là một khu định cư ở cửa sông [Sirion](../S/Sirion.md) và một khu định cư khác trên đảo Balar. [Eärendil](../E/Eärendil.md) sở hữu một chiếc Silmaril mà tổ tiên của vợ [Elwing](../E/Elwing.md)là [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md) đã lấy từ Morgoth. Nhưng người Feänorian vẫn có quyền sở hữu Silmaril và do đó đã xảy ra một vụ Giết người thân khác. Eärendil và Elwing đã đưa Silmaril băng qua [Đại Hải](../B/Belegaer.md)để cầu xin Valar trợ giúp.
+Vào cuối thời đại, tất cả những gì còn lại của Tiên tộc và Con Người tự do ở [Beleriand](../B/Beleriand.md) là một khu định cư ở cửa sông [Sirion](../S/Sirion.md) và một khu định cư khác trên đảo Balar. [Eärendil](../E/Eärendil.md) sở hữu một chiếc Silmaril mà tổ tiên của vợ [Elwing](../E/Elwing.md) là [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md) đã lấy từ Morgoth. Nhưng người Feänorian vẫn có quyền sở hữu Silmaril và do đó đã xảy ra một vụ Giết người thân khác. Eärendil và Elwing đã đưa Silmaril băng qua [Đại Hải](../B/Belegaer.md) để cầu xin Valar trợ giúp.
 
 Họ đã trả lời. Melkor bị đày vào Hư Không; và hầu hết các tác phẩm của ông đã bị phá hủy. Việc này phải trả giá đắt vì bản thân [Beleriand](../B/Beleriand.md) đã bị đánh chìm.
 
@@ -137,7 +137,7 @@ Họ đã trả lời. Melkor bị đày vào Hư Không; và hầu hết các t
 
 <br> Những người Con Người vẫn trung thành được trao hòn đảo [Númenor](../N/Númenor.md), ở giữa Đại Hải; trong khi Tiên tộc được phép trở về nhà.
 
-Người Númenor trở thành những thủy thủ vĩ đại nhưng lại ghen tị với Tiên tộc vì sự bất tử của họ. Trong khi đó, tại Trung Địa, rõ ràng là [Sauron](../S/Sauron.md), người hầu chính của Morgoth, vẫn còn hoạt động. Anh ta làm việc với Tiên thợ rèn ở [Eregion](../E/Eregion.md) về nghề chế tác nhẫn và rèn ra [Người Nhẫn](../T/The_One_Ring.md) để thống trị tất cả. Tiên tộc nhận thấy điều này và loại bỏ chúng.
+Người Númenor trở thành những thủy thủ vĩ đại nhưng lại ghen tị với Tiên tộc vì sự bất tử của họ. Trong khi đó, tại Trung Địa, rõ ràng là [Sauron](../S/Sauron.md), người hầu chính của Morgoth, vẫn còn hoạt động. Anh ấy đã làm việc với Tiên thợ rèn ở [Eregion](../E/Eregion.md) về nghề chế tác nhẫn và rèn ra [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) để thống trị tất cả. Tiên tộc nhận thấy điều này và loại bỏ chúng.
 
 Càng về cuối thời đại, người Númenor ngày càng trở nên kiêu ngạo. Vua [Ar-Pharazôn](../A/Ar-Pharazôn.md) thậm chí còn hạ nhục Sauron và đưa anh ta về Númenor làm con tin. Sauron tìm đường vào triều đình của Pharazôn và trở thành thầy tế lễ thượng phẩm trong giáo phái Melkor. Cuối cùng, Pharazôn bị thuyết phục tiến hành xâm chiếm Aman và được hứa rằng sẽ đạt được sự bất tử.
 
@@ -145,7 +145,7 @@ Càng về cuối thời đại, người Númenor ngày càng trở nên kiêu 
 
 Thế giới biến thành một hình cầu và con đường thẳng từ Trung Địa đến Aman bị phá vỡ. Númenor đã bị phá hủy hoàn toàn, cũng như cơ thể trắng trẻo của Sauron. Elendil và các con trai của ông đã thành lập vương quốc [Gondor](../G/Gondor.md) và [Arnor](../A/Arnor.md).
 
-Sauron lại trỗi dậy và thách thức họ. Tiên tộc liên minh với Con Người để tạo thành [Liên minh Cuối cùng](../L/Last_Alliance.md) và đánh bại anh ta. Cái Nhẫn của anh ấy đã bị Isildur lấy đi nhưng không bị phá hủy.
+Sauron lại trỗi dậy và thách thức họ. Tiên tộc liên minh với Con Người để tạo thành [Liên minh Cuối cùng](../L/Last_Alliance.md) và đánh bại anh ta. Chiếc Nhẫn Chúa của anh đã bị Isildur lấy đi nhưng không bị phá hủy.
 
 #### Kỷ Đệ Tam {#Third_Age}
 
@@ -153,13 +153,13 @@ Sauron lại trỗi dậy và thách thức họ. Tiên tộc liên minh với C
 
 <br> Kỷ Đệ Tam chứng kiến ​​sự trỗi dậy quyền lực của các vương quốc [Arnor](../A/Arnor.md) và [Gondor](../G/Gondor.md), cũng như sự sụp đổ của chúng. Arnor bị chia thành ba Vương quốc nhỏ, từng Vương quốc lần lượt sụp đổ, trong khi Gondor trở thành nạn nhân của [Xung đột họ tộc](../K/Kin-strife~3650.md), bệnh dịch, kỵ binh và cướp biển.
 
-Vào thời điểm *The Lord of the Rings*, [Sauron](../S/Sauron.md) đã hồi phục trở lại và đang tìm kiếm Người Nhẫn. Anh ta phát hiện ra rằng nó thuộc quyền sở hữu của một [Hobbit](Hobbits.md) có tên [Baggins](../B/Bilbo_Baggins.md)và đã cử [Nazgûl](../N/Nazgûl.md) đi tìm anh ta và lấy nó.
+Vào thời điểm *The Lord of the Rings*, [Sauron](../S/Sauron.md) đã hồi phục trở lại và đang tìm kiếm Chiếc nhẫn Chúa. Anh ta phát hiện ra rằng nó thuộc quyền sở hữu của một [Hobbit](Hobbits.md) có tên [Baggins](../B/Bilbo_Baggins.md) và đã cử [Nazgûl](../N/Nazgûl.md) đi tìm anh ta và lấy nó.
 
-Người Mang Nhẫn, [Frodo Baggins](../F/Frodo_Baggins.md), được gửi đến [Rivendell](../R/Rivendell.md), nơi người ta quyết định rằng Cái Nhẫn phải bị phá hủy một lần và mãi mãi — và nó chỉ có thể được hủy tạo ở độ sâu rực lửa của [Núi Doom](../M/Mount_Doom.md) nơi nó được rèn. Anh ấy bắt đầu thực hiện nhiệm vụ này cùng với tám người bạn đồng hành khác bao gồm *The Fellowship of the Ring*.
+Người Mang Nhẫn, [Frodo Baggins](../F/Frodo_Baggins.md), được gửi đến [Rivendell](../R/Rivendell.md), nơi người ta quyết định rằng Chiếc Nhẫn Chúa phải bị phá hủy một lần và mãi mãi — và nó chỉ có thể bị phá hủy ở độ sâu rực lửa của [Núi Doom](../M/Mount_Doom.md) nơi nó được rèn. Anh ấy bắt đầu thực hiện nhiệm vụ này cùng với tám người bạn đồng hành khác bao gồm *The Fellowship of the Ring*.
 
 Sau một hành trình dài và khó khăn, cuối cùng anh và [Samwise Gamgee](../S/Samwise_Gamgee.md) cũng hoàn thành nhiệm vụ, thành công phần lớn nhờ một sự kiện bất ngờ nằm ​​ngoài tầm kiểm soát của họ. [Sauron](../S/Sauron.md) do đó bị tiêu diệt vĩnh viễn và họ được ca ngợi như những anh hùng.
 
-[Aragorn](../A/Aragorn.md) thay thế vị trí Vua của [Vương quốc Thống nhất](../R/Reunited_Kingdom.md) của [Arnor](../A/Arnor.md) và [Gondor](../G/Gondor.md), cuối cùng khôi phục lại dòng dõi Vua từ [Quan Chấp chính của Gondor](../S/Stewards_of_Gondor.md).
+[Aragorn](../A/Aragorn.md) thay thế vị trí Vua của [Vương quốc Thống nhất](../R/Reunited_Kingdom.md) của [Arnor](../A/Arnor.md) và [Gondor](../G/Gondor.md), cuối cùng khôi phục lại dòng dõi Vua từ [Quan Chấp Chính của Gondor](../S/Stewards_of_Gondor.md).
 
 #### Kỷ Đệ Tứ và sau {#Fourth_Age_and_after}
 

@@ -13,4 +13,4 @@ categories:
   - "Letters"
 ---
 
-Danh mục này liệt kê những cá nhân, công ty và tổ chức đã được [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)gửi thư, được xuất bản ở *[The Letters of J.R.R. Tolkien](../../main/T/The_Letters_of_J.R.R._Tolkien.md)* hoặc [ở nơi khác](../../main/L/Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md).
+Danh mục này liệt kê những cá nhân, công ty và tổ chức đã được [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) gửi thư, được xuất bản ở *[The Letters of J.R.R. Tolkien](../../main/T/The_Letters_of_J.R.R._Tolkien.md)* hoặc [ở nơi khác](../../main/L/Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md).

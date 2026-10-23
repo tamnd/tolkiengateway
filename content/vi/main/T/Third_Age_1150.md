@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Lúc này, [Fallohides](../F/Fallohides.md) nhập [Eriador](../E/Eriador.md).<sup id="cite_ref-AppB_1-0" class="reference"><a href="#cite_note-AppB-1">[1]</a></sup>
-- Lúc này, [Stoors](../S/Stoors.md) đi qua [Đèo Redhorn](../C/Caradhras.md#The_Redhorn_Gate) và di chuyển đến [Angle](../A/Angle_of_Eriador.md)hoặc tới [Dunland](../D/Dunland.md).<sup id="cite_ref-AppB_1-1" class="reference"><a href="#cite_note-AppB-1">[1]</a></sup>
+- Lúc này, [Stoors](../S/Stoors.md) đi qua [Đèo Redhorn](../C/Caradhras.md#The_Redhorn_Gate) và di chuyển đến [Angle](../A/Angle_of_Eriador.md) hoặc tới [Dunland](../D/Dunland.md).<sup id="cite_ref-AppB_1-1" class="reference"><a href="#cite_note-AppB-1">[1]</a></sup>
 
 <span></span>
 

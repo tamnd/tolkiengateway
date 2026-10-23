@@ -29,7 +29,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Christian_History_78.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/db/Christian_History_78.png/320px-Christian_History_78.png" decoding="async" loading="lazy" width="320" height="423" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/db/Christian_History_78.png 1.5x" data-file-width="387" data-file-height="511"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Christian History: J.R.R. Tolkien (issue 78)</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Contributors</th><td class="tg-infobox-data">Various</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Christianity_Today" title="wikipedia:Christianity Today">Christianity Today International</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2003.md" title="2003">2003</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr></tbody></table>
 
-<b><i>Lịch sử Thiên chúa giáo</i> 78</b> là một số được dành riêng hoàn toàn cho [Tolkien](../J/J.R.R._Tolkien.md)của tạp chí định kỳ *Christian History*.
+<b><i>Lịch sử Thiên chúa giáo</i> 78</b> là một số được dành riêng hoàn toàn cho [Tolkien](../J/J.R.R._Tolkien.md) của tạp chí định kỳ *Christian History*.
 
 ## Bài viết {#Articles}
 

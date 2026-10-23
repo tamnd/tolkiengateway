@@ -40,7 +40,7 @@ Trong [1956](../_/1956.md) Waldman đã cố gắng xuất bản *[The Hobbit](.
 
 Trong [1989](../_/1989.md) [Grafton](../G/Grafton.md) đã trở thành một phần của HarperCollins.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Khoảng [1994](../_/1994.md) HarperCollins đã mua [Unwin Hyman](../U/Unwin_Hyman.md) kế nhiệm công ty với tư cách là nhà xuất bản chính của Tolkien. Năm đó *The Lord of the Rings* được thiết lập lại dưới dạng điện tử để dễ biên tập và sửa chữa, nhưng không phải không xuất hiện một số lỗi mới, những lỗi này không chỉ tồn tại trong các phiên bản tiếp theo mà còn bị rò rỉ sang các phiên bản Mỹ dựa trên cài đặt đó. Một số lỗi đã được sửa trong các ấn bản [2002](../_/2002.md), [2004](../_/2004.md)và [2005](../_/2005.md) tái bản.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Khoảng [1994](../_/1994.md) HarperCollins đã mua [Unwin Hyman](../U/Unwin_Hyman.md) kế nhiệm công ty với tư cách là nhà xuất bản chính của Tolkien. Năm đó *The Lord of the Rings* được thiết lập lại dưới dạng điện tử để dễ biên tập và sửa chữa, nhưng không phải không xuất hiện một số lỗi mới, những lỗi này không chỉ tồn tại trong các phiên bản tiếp theo mà còn bị rò rỉ sang các phiên bản Mỹ dựa trên cài đặt đó. Một số lỗi đã được sửa trong các ấn bản [2002](../_/2002.md), [2004](../_/2004.md) và [2005](../_/2005.md) tái bản.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 HarperCollins đã mua bản quyền tất cả sách liên quan đến [*The Lord of the Rings* loạt phim](<../T/The_Lord_of_the_Rings_(film_series).md>).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 

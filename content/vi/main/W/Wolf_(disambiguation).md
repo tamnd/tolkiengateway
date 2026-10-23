@@ -22,7 +22,7 @@ images:
 - [Gaurwaith](../G/Gaurwaith.md), hay Người Sói, một nhóm người sống ngoài vòng pháp luật.
 - [Sói-Sauron](Wolf-Sauron.md), [Sauron](../S/Sauron.md) ở dạng Sói.
 - [Sói](Wolves.md), sinh vật của cái ác:
-    - [Warg](Wargs.md)hoặc Wild Sói, sinh vật của [Rhovanion](../R/Rhovanion.md) và một phần của [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md).
+    - [Warg](Wargs.md) hoặc Wild Sói, sinh vật của [Rhovanion](../R/Rhovanion.md) và một phần của [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md).
     - [Người sói](Werewolves.md), trong đó mạnh nhất là [Carcharoth](../C/Carcharoth.md).
     - [White Sói](White_Wolves.md), những động vật từ [Forodwaith](<../F/Forodwaith_(lands).md>) đã tấn công [the Shire](../T/The_Shire.md) ở [S.R.](../S/Shire_Reckoning.md) [1311](../T/Third_Age_2911.md).
 - [Tiếng sói](Wolf-language.md), ngôn ngữ của sói và chó

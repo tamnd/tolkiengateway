@@ -37,7 +37,7 @@ infobox:
 
 **Rod Jellema** ([1927](../_/1927.md) - [2018](../_/2018.md)) là một nhà thơ, nhà giáo và dịch giả người Mỹ. Năm 1956, Jellema bắt đầu giảng dạy các khóa nhập môn văn học và sáng tác tại Đại học Maryland, nơi ông hiện là Giáo sư danh dự môn tiếng Anh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Vào mùa xuân năm 1966, Jellema đã trao đổi thư từ với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) liên quan đến tranh cãi xung quanh cuốn sách dự định của [W.H. Auden](../W/W.H._Auden.md)về Tolkien (xem thư [Thư gửi Rod Jellema](../L/Letter_to_Rod_Jellema.md)).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Vào mùa xuân năm 1966, Jellema đã trao đổi thư từ với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) liên quan đến tranh cãi xung quanh cuốn sách dự định của [W.H. Auden](../W/W.H._Auden.md) về Tolkien (xem thư [Thư gửi Rod Jellema](../L/Letter_to_Rod_Jellema.md)).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 

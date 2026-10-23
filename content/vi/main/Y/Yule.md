@@ -34,7 +34,7 @@ Xung quanh họ, lễ hội [Yuletide](Yuledays.md) kéo dài sáu ngày đã đ
 
 Yule đại diện cho một "bản dịch" của một từ [Hobbitish](../H/Hobbitish.md), nhưng bản thân từ đó không xuất hiện trong [Westron](../W/Westron.md).<sup id="cite_ref-Nomen_4-0" class="reference"><a href="#cite_note-Nomen-4">[3]</a></sup>
 
-Tuy nhiên, có thể nó bắt nguồn từ một dạng [tiếng Mannish miền Bắc](../N/Northern_Mannish.md) và sau đó được sử dụng trong [Rohanese](../R/Rohanese.md). Vì [người Gondor](../G/Gondorians.md) trong số [Kỷ Đệ Tam](../T/Third_Age.md) là một phần [Người phương Bắc](../N/Northmen.md)nên từ này có thể được nhận biết như một 'tên miền Bắc' cho lễ hội giữa mùa đông.<sup id="cite_ref-Nomen_4-1" class="reference"><a href="#cite_note-Nomen-4">[3]</a></sup>
+Tuy nhiên, có thể nó bắt nguồn từ một dạng [tiếng Mannish miền Bắc](../N/Northern_Mannish.md) và sau đó được sử dụng trong [Rohanese](../R/Rohanese.md). Vì [người Gondor](../G/Gondorians.md) trong số [Kỷ Đệ Tam](../T/Third_Age.md) là một phần [Người phương Bắc](../N/Northmen.md) nên từ này có thể được nhận biết như một 'tên miền Bắc' cho lễ hội giữa mùa đông.<sup id="cite_ref-Nomen_4-1" class="reference"><a href="#cite_note-Nomen-4">[3]</a></sup>
 
 Từ [Quenya](../Q/Quenya.md) cho "Yule và sự khởi đầu của sự trở lại của [Mặt Trời](../S/Sun.md)" là <i><b>Amanar</b></i>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
@@ -42,7 +42,7 @@ Từ [Quenya](../Q/Quenya.md) cho "Yule và sự khởi đầu của sự trở 
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../T/Turuhalmë.md" title="Turuhalmë">Turuhalmë</a></b></div></div>
 
-Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md)về ngôn ngữ [Tiên](../E/Elvish.md), từ "Yule(night), tức là Log-night" là *durufui*. *Tanfui* có nghĩa là "Đêm Yule".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md) về ngôn ngữ [Tiên](../E/Elvish.md), từ "Yule(night), tức là Log-night" là *durufui*. *Tanfui* có nghĩa là "Đêm Yule".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
 ## Ghi chú {#Notes}
 

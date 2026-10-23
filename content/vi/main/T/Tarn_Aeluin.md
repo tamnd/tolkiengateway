@@ -61,7 +61,7 @@ Tarn Aeluin được cho là đã được [Melian](../M/Melian.md) thần thán
 
 Khi [Aegnor](../A/Aegnor.md) nhìn thấy hình ảnh phản chiếu của [Andreth](../A/Andreth.md) trong Tarn Aeluin, anh đã yêu cô.<sup id="cite_ref-MR_2-1" class="reference"><a href="#cite_note-MR-2">[2]</a></sup>
 
-[Barahir](../B/Barahir.md) và [mười hai người theo dõi](../X/XII_Bëorings.md) của hắn đã trốn khỏi lực lượng của [Morgoth](../M/Morgoth.md) sau [Dagor Bragollach](../D/Dagor_Bragollach.md) và làm hang ổ của chúng tại Tarn Aeluin. Ở đó, họ ẩn náu cho đến khi bị [Gorlim](../G/Gorlim.md)phản bội.<sup id="cite_ref-Beren_1-3" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
+[Barahir](../B/Barahir.md) và [mười hai người theo dõi](../X/XII_Bëorings.md) của hắn đã trốn khỏi lực lượng của [Morgoth](../M/Morgoth.md) sau [Dagor Bragollach](../D/Dagor_Bragollach.md) và làm hang ổ của chúng tại Tarn Aeluin. Ở đó, họ ẩn náu cho đến khi bị [Gorlim](../G/Gorlim.md) phản bội.<sup id="cite_ref-Beren_1-3" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

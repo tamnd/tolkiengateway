@@ -33,7 +33,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Long Lost to Where No Pathway Goes</b></i> là ca khúc thứ hai trong album [Stronghold](../S/Stronghold.md) của ban nhạc [Summoning](../S/Summoning.md). Lời bài hát chịu ảnh hưởng của [The Lays of Beleriand](../T/The_Lays_of_Beleriand.md), [The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)và bài thơ [Tolkien](../J/J.R.R._Tolkien.md) [Imram](../I/Imram.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Long Lost to Where No Pathway Goes</b></i> là ca khúc thứ hai trong album [Stronghold](../S/Stronghold.md) của ban nhạc [Summoning](../S/Summoning.md). Lời bài hát chịu ảnh hưởng của [The Lays of Beleriand](../T/The_Lays_of_Beleriand.md), [The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md) và bài thơ [Tolkien](../J/J.R.R._Tolkien.md) [Imram](../I/Imram.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lời bài hát {#Lyrics}
 

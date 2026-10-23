@@ -53,7 +53,7 @@ The <a class="extiw" href="http://en.wikipedia.org/wiki/Dome" title="wikipedia:D
 <p class="tg-quote-footer"><cite><a href="../V/Valaquenta.md" title="Valaquenta">Valaquenta</a>: Of the Valar</cite></p>
 </blockquote>
 
-Trong [bữa tiệc cao cấp](../H/High_feast.md) trước [Tối của Valinor](../D/Darkening_of_Valinor.md), [Maiar](../M/Maiar.md), [Vanyar](../V/Vanyar.md)và [Noldor](../N/Noldor.md) đã hát trước Manwë và Varda trong hội trường của họ.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong [bữa tiệc cao cấp](../H/High_feast.md) trước [Tối của Valinor](../D/Darkening_of_Valinor.md), [Maiar](../M/Maiar.md), [Vanyar](../V/Vanyar.md) và [Noldor](../N/Noldor.md) đã hát trước Manwë và Varda trong hội trường của họ.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

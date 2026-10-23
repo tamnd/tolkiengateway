@@ -72,7 +72,7 @@ Sự kiện xảy ra vào ngày 5 tháng 3
 - **[1971](1971.md)** - Diễn viên lồng tiếng [Yuri Lowenthal](../Y/Yuri_Lowenthal.md) ra đời.
 - **[1983](1983.md)** - Diễn viên [Owain Arthur](../O/Owain_Arthur.md) ra đời.
 - **[2004](2004.md)** - Ngày đầu tiên của "[RingCon IV](../R/RingCon.md)" tại <a class="extiw" href="http://en.wikipedia.org/wiki/Seattle" title="wikipedia:Seattle">Seattle</a>.
-- **[2015](2015.md)** - Nghệ sĩ, nhà ngôn ngữ học [Tom Loback](../T/Tom_Loback.md) qua đời.
+- **[2015](2015.md)** - Nghệ sĩ và nhà ngôn ngữ học [Tom Loback](../T/Tom_Loback.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 
@@ -80,4 +80,4 @@ Sự kiện xảy ra vào ngày 5 tháng 3
     - [Wormtongue](../G/Gríma.md) đạt [Isengard](../I/Isengard.md) vào buổi sáng.
     - [Théoden](../T/Théoden.md) và công ty đến [Isengard](../I/Isengard.md) vào buổi trưa. Họ có một ván đấu với [Saruman](../S/Saruman.md) và cắm trại ở [Dol Baran](../D/Dol_Baran.md).
     - [Pippin](../P/Peregrin_Took.md) nhìn vào [Orthanc-stone](../O/Orthanc-stone.md) và một lúc sau, [có cánh Nazgûl](../N/Nazgûl.md) bay qua trại. Đáp lại, [Gandalf](../G/Gandalf.md) bắt đầu với Hobbit cho [Minas Tirith](../M/Minas_Tirith.md).
-    - [Frodo](../F/Frodo_Baggins.md) ẩn mình trong tầm nhìn của [Morannon](../M/Morannon.md)và rời đi vào lúc hoàng hôn.
+    - [Frodo](../F/Frodo_Baggins.md) ẩn mình trong tầm nhìn của [Morannon](../M/Morannon.md) và rời đi vào lúc hoàng hôn.

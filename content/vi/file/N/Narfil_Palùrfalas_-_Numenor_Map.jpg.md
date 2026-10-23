@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bản đồ Númenor của [Narfil Palùrfalas](https://tolkiengateway.net/wiki/User:Narfil_Pal%C3%B9rfalas), dựa trên [The Atlas of Middle-earth](../../main/T/The_Atlas_of_Middle-earth.md)của [Karen Fonstad](../../main/K/Karen_Fonstad.md).
+Bản đồ Númenor của [Narfil Palùrfalas](https://tolkiengateway.net/wiki/User:Narfil_Pal%C3%B9rfalas), dựa trên [The Atlas of Middle-earth](../../main/T/The_Atlas_of_Middle-earth.md) của [Karen Fonstad](../../main/K/Karen_Fonstad.md).
 
 ## Giấy phép {#Licensing}
 

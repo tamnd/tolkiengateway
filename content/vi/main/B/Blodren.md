@@ -37,7 +37,7 @@ infobox:
 
 Blodren con trai của [Ban](Ban~49919.md) là một [Easterling](<../E/Easterlings_(First_Age).md>) bị [Morgoth](../M/Morgoth.md) bắt và bị dày vò vì là một trong những tín đồ đã chống lại [Uldor Kẻ bị nguyền rủa](../U/Uldor.md). Sau đó, Blodren gia nhập quân đội Morgoth và được trả tự do; anh ấy được cử đi tìm kiếm Túrin.<sup id="cite_ref-Blodren_1-2" class="reference"><a href="#cite_note-Blodren-1">[1]</a></sup>
 
-Sau đó, anh gia nhập [công ty](../G/Gaurwaith.md) ẩn náu ở [Dimbar](../D/Dimbar.md)và trung thành phục vụ Túrin trong hai năm. Sau khi nhìn thấy cơ hội của mình, anh ta đã phản bội nơi ẩn náu của [Beleg](Beleg.md) và Túrin để đến với [Orc](../O/Orcs.md), hoàn thành mục đích của mình.<sup id="cite_ref-Blodren_1-3" class="reference"><a href="#cite_note-Blodren-1">[1]</a></sup>
+Sau đó, anh gia nhập [công ty](../G/Gaurwaith.md) ẩn náu ở [Dimbar](../D/Dimbar.md) và trung thành phục vụ Túrin trong hai năm. Sau khi nhìn thấy cơ hội của mình, anh ta đã phản bội nơi ẩn náu của [Beleg](Beleg.md) và Túrin để đến với [Orc](../O/Orcs.md), hoàn thành mục đích của mình.<sup id="cite_ref-Blodren_1-3" class="reference"><a href="#cite_note-Blodren-1">[1]</a></sup>
 
 Thế là nơi ẩn náu của họ đã bị bao vây và chiếm giữ. Túrin bị bắt sống và bị đưa về phía [Angband](../A/Angband.md); nhưng Beleg bị bỏ mặc cho đến chết trong số những người bị giết.<sup id="cite_ref-Blodren_1-4" class="reference"><a href="#cite_note-Blodren-1">[1]</a></sup>
 
@@ -51,7 +51,7 @@ Tuy nhiên, trong trận chiến đó, chính Blodren cũng bị giết bởi m�
 
 Blodrin, một [Gnome](../G/Gnome.md) của [Nhà Fëanor](../H/House_of_Fëanor.md), và con trai của Ban, là thành viên của công ty ngoài vòng pháp luật của Túrin trong các phiên bản trước của huyền thoại.<sup id="cite_ref-q12_6-0" class="reference"><a href="#cite_note-q12-6">[6]</a></sup>
 
-Anh ta đã chung sống lâu dài với [Người Lùn](../D/Dwarves.md)và có trái tim ác độc. Anh gia nhập nhóm ngoài vòng pháp luật của Túrin vì thích cướp bóc;<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> nhưng sau cuộc chạm trán của Túrin với Beleg và cuộc cải cách sau đó, Blodrin trở nên không hài lòng với cuộc sống mới nơi những kẻ ngoài vòng pháp luật chỉ nhắm tới Orc, một "cuộc sống mà vết thương còn nhiều hơn chiến lợi phẩm". Blodrin phản bội nơi ẩn náu của Túrin để đến với Orc, nhưng vô tình bị giết bởi mũi tên của đồng minh độc ác mới của hắn.<sup id="cite_ref-q12_6-1" class="reference"><a href="#cite_note-q12-6">[6]</a></sup>
+Anh ta đã chung sống lâu dài với [Người Lùn](../D/Dwarves.md) và có trái tim ác độc. Anh gia nhập nhóm ngoài vòng pháp luật của Túrin vì thích cướp bóc;<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> nhưng sau cuộc chạm trán của Túrin với Beleg và cuộc cải cách sau đó, Blodrin trở nên không hài lòng với cuộc sống mới nơi những kẻ ngoài vòng pháp luật chỉ nhắm tới Orc, một "cuộc sống mà vết thương còn nhiều hơn chiến lợi phẩm". Blodrin phản bội nơi ẩn náu của Túrin để đến với Orc, nhưng vô tình bị giết bởi mũi tên của đồng minh độc ác mới của hắn.<sup id="cite_ref-q12_6-1" class="reference"><a href="#cite_note-q12-6">[6]</a></sup>
 
 <span></span>
 

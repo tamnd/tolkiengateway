@@ -96,7 +96,7 @@ Kết quả là, Ungoliant chống lại Melkor, áp đảo anh ta và quấn an
 
 Khi chạy trốn về phía nam từ Lammoth, Ungoliant đã đến [Beleriand](../B/Beleriand.md).<sup id="cite_ref-Lammoth_2-5" class="reference"><a href="#cite_note-Lammoth-2">[2]</a></sup> Dưới sự "nỗi kinh hoàng của bóng tối", cô đã cố gắng tiến vào [Rừng Neldoreth](../F/Forest_of_Neldoreth.md) trong [vương quốc](../D/Doriath.md) của [Thingol](../T/Thingol.md), nhưng bị cản trở bởi sức mạnh của [Maia](../M/Maiar.md) [Melian](../M/Melian.md). Tuy nhiên, cô ấy đã định cư ở vùng núi phía nam [Dorthonion](../D/Dorthonion.md), và không có Tiên nào đến đó, đặt tên cho những ngọn núi đó là [Ered Gorgoroth](../E/Ered_Gorgoroth.md).<sup id="cite_ref-Doriath_3-0" class="reference"><a href="#cite_note-Doriath-3">[3]</a></sup> Ở đó, Ungoliant gặp nhau, giao phối và cuối cùng ăn thịt "những sinh vật hôi hám khác có dạng nhện" đã cư trú ở đó kể từ khi Angband lần đầu tiên được đào sâu. Cô ấy có nhiều [con cháu](../S/Spiders.md) với họ, bao gồm cả [Shelob](../S/Shelob.md), trước khi cô ấy rời khỏi nơi đó.<sup id="cite_ref-Lammoth_2-6" class="reference"><a href="#cite_note-Lammoth-2">[2]</a></sup>
 
-Ungoliant cuối cùng đã đi vào miền nam bị lãng quên của thế giới ngay trước khi [Mặt Trời](../S/Sun.md)trỗi dậy, nơi cô ấy sẽ biến mất khỏi lịch sử.<sup id="cite_ref-Lammoth_2-7" class="reference"><a href="#cite_note-Lammoth-2">[2]</a></sup>
+Ungoliant cuối cùng đã đi vào miền nam bị lãng quên của thế giới ngay trước khi [Mặt Trời](../S/Sun.md) trỗi dậy, nơi cô ấy sẽ biến mất khỏi lịch sử.<sup id="cite_ref-Lammoth_2-7" class="reference"><a href="#cite_note-Lammoth-2">[2]</a></sup>
 
 ## Di sản {#Legacy}
 

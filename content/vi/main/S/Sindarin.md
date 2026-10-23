@@ -58,7 +58,7 @@ images:
 
 Sindarin là ngôn ngữ của [Sindar](Sindar.md), những ngôn ngữ [Teleri](../T/Teleri.md) đã bị bỏ lại trên [Đại Hành Trình](../G/Great_Journey.md) của [Tiên tộc](../E/Elves.md). Nó được bắt nguồn từ một ngôn ngữ trước đó có tên là [Common Telerin](../C/Common_Telerin.md). Khi [Noldor](../N/Noldor.md) quay trở lại Trung Địa, họ đã sử dụng ngôn ngữ Sindarin, mặc dù họ tin rằng ngôn ngữ [Quenya](../Q/Quenya.md) bản địa của họ đẹp hơn.
 
-Vị vua của Teleri ở [Doriath](../D/Doriath.md)[, Elu Thingol](../T/Thingol.md), khi biết về vụ [Tàn sát người thân ở Alqualondë](../K/Kinslaying_at_Alqualondë.md), đã tuyên bố rằng [Quenya](../Q/Quenya.md), ngôn ngữ của Noldor, nên bị cấm ở vùng đất của ông ta. Vì Noldor đang sinh sống ở vùng đất nói Sindarin và do lệnh cấm sử dụng tiếng mẹ đẻ của họ (mặc dù nó không ảnh hưởng trực tiếp đến họ), nên họ dần dần chuyển hoàn toàn sang Sindarin. Sự thay đổi giữa các ngôn ngữ này cũng ảnh hưởng đến tên của chúng, chẳng hạn như *Finwë-Ñolofinwë* thành [Fingolfin](../F/Fingolfin.md)và *Turukáno* thành [Turgon](../T/Turgon.md).
+Vị vua của Teleri ở [Doriath](../D/Doriath.md)[, Elu Thingol](../T/Thingol.md), khi biết về vụ [Tàn sát người thân ở Alqualondë](../K/Kinslaying_at_Alqualondë.md), đã tuyên bố rằng [Quenya](../Q/Quenya.md), ngôn ngữ của Noldor, nên bị cấm ở vùng đất của ông ta. Vì Noldor đang sinh sống ở vùng đất nói Sindarin và do lệnh cấm sử dụng tiếng mẹ đẻ của họ (mặc dù nó không ảnh hưởng trực tiếp đến họ), nên họ dần dần chuyển hoàn toàn sang Sindarin. Sự thay đổi giữa các ngôn ngữ này cũng ảnh hưởng đến tên của chúng, chẳng hạn như *Finwë-Ñolofinwë* thành [Fingolfin](../F/Fingolfin.md) và *Turukáno* thành [Turgon](../T/Turgon.md).
 
 Khi [Tiên tộc của Beleriand](../E/Elves_of_Beleriand.md) lần đầu tiên gặp người lùn, họ không thể hiểu được một từ nào trong [lưỡi của Người Lùn](../K/Khuzdul.md). Người Lùn học rất nhanh và thực sự sẵn sàng học Sindarin hơn là dạy kiến ​​thức của họ cho những người thuộc chủng tộc ngoài hành tinh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -445,7 +445,7 @@ Sindarin được thiết kế để có âm vị học giống [tiếng Wales](
 
 #### Số nhiều {#Pluralization}
 
-Sindarin số nhiều được đặc trưng bởi *[i-affection](../I/I-affection.md)*hoặc *umlaut* (xem thêm *[prestanneth](../P/Prestanneth.md)* "tình cảm của nguyên âm").<sup id="cite_ref-Letter347_2-1" class="reference"><a href="#cite_note-Letter347-2">[2]</a></sup> Hầu như tất cả các từ Sindarin đều tạo thành số nhiều như man/men và ngỗng/ngỗng trong tiếng Anh — bằng cách thay đổi các nguyên âm trong từ. Các mẫu số nhiều thông thường nhất là:
+Sindarin số nhiều được đặc trưng bởi *[i-affection](../I/I-affection.md)* hoặc *umlaut* (xem thêm *[prestanneth](../P/Prestanneth.md)* "tình cảm của nguyên âm").<sup id="cite_ref-Letter347_2-1" class="reference"><a href="#cite_note-Letter347-2">[2]</a></sup> Hầu như tất cả các từ Sindarin đều tạo thành số nhiều như man/men và ngỗng/ngỗng trong tiếng Anh — bằng cách thay đổi các nguyên âm trong từ. Các mẫu số nhiều thông thường nhất là:
 
 <table rules="all" style="border:1px solid darkgray; border-collapse:collapse" cellpadding="4" cellspacing="0">
 <tbody><tr>
@@ -576,7 +576,7 @@ Sindarin cũng có một số hậu tố biểu thị cái gọi là lớp số 
 
 Sindarin có một loạt đột biến phức tạp. Có ba loại đột biến chính khác nhau: *soft mutation* (hoặc lenition), *nasal mutation* và *stop* (tắc) *mutation*. Ngoài ra, a *mixed mutation* và a *sibilant mutation* cũng được quan sát thấy sau một số tiểu từ hoặc giới từ nhất định. Cuối cùng, người ta cho rằng Sindarin cũng từng có thứ mà chúng ta có thể gọi là *archaic spirantal mutation* (đôi khi còn được các học giả gọi là *liquid mutation*). Hiện vẫn chưa chắc chắn liệu đột biến này có còn hiệu quả hay không hay nó chỉ xảy ra ở các công trình kiến ​​trúc cổ xưa.
 
-Không được nhầm lẫn các đột biến ban đầu với các sự đồng hóa có thể xảy ra trong các từ ghép (chẳng hạn như trong các tên *[Araphor](../A/Araphor.md)*, *[Arassuil](../A/Arassuil.md)*và *[Caradhras](../C/Caradhras.md)*).
+Không được nhầm lẫn các đột biến ban đầu với các sự đồng hóa có thể xảy ra trong các từ ghép (chẳng hạn như trong các tên *[Araphor](../A/Araphor.md)*, *[Arassuil](../A/Arassuil.md)* và *[Caradhras](../C/Caradhras.md)*).
 
 Bảng sau đây phác thảo các phụ âm khác nhau bị ảnh hưởng như thế nào bởi các đột biến khác nhau:
 
@@ -807,13 +807,13 @@ Các từ bắt đầu bằng *b-*, *d-*hoặc *g-* có nguồn gốc từ *mb-*
 <td>g...
 </td></tr></tbody></table>
 
-Lấy ví dụ, mạo từ chỉ định *i*, gây ra đột biến mềm. Khi thêm vào một từ như *[tâl](../T/Tâl.md)*, nó sẽ trở thành *i dâl*. Trong lịch sử âm vị học của Sindarin, *t* trở thành *d* ở giữa một từ. Vì *i tâl* tại thời điểm đó được coi là một từ nên *t* trở thành *d*và do đó *i dâl*. Tuy nhiên, nếu không có mạo từ thì từ đó vẫn là *tâl*.
+Lấy ví dụ, mạo từ chỉ định *i*, gây ra đột biến mềm. Khi thêm vào một từ như *[tâl](../T/Tâl.md)*, nó sẽ trở thành *i dâl*. Trong lịch sử âm vị học của Sindarin, *t* trở thành *d* ở giữa một từ. Vì *i tâl* tại thời điểm đó được coi là một từ nên *t* trở thành *d* và do đó *i dâl*. Tuy nhiên, nếu không có mạo từ thì từ đó vẫn là *tâl*.
 
 Đột biến được kích hoạt theo nhiều cách khác nhau:
 
 - Đột biến mềm, đột biến xảy ra rộng rãi nhất, được kích hoạt bởi mạo từ số ít *i*, tiền tố *athra-, ath-, [go-](../G/Go-.md), [gwa-](../G/Go-.md),* và *ú-*, cũng như giới từ *ab, am, be, di, na,* và *nu,* và sau *avo*. Nó cũng ảnh hưởng đến tính từ theo sau danh từ và tân ngữ của động từ.
-- Đột biến mũi được kích hoạt bởi mạo từ số nhiều *in*và các giới từ *an* và *dan*.
-- Đột biến hỗn hợp được kích hoạt bởi mạo từ sở hữu cách *en*và giới từ *ben, erin, nan, 'nin,* và *uin*.
+- Đột biến mũi được kích hoạt bởi mạo từ số nhiều *in* và các giới từ *an* và *dan*.
+- Đột biến hỗn hợp được kích hoạt bởi mạo từ sở hữu cách *en* và giới từ *ben, erin, nan, 'nin,* và *uin*.
 - Dừng đột biến được kích hoạt bởi giới từ *ed, ned,* và *o(d)*.
 - Đột biến chất lỏng có lẽ được kích hoạt bởi giới từ *or*.
 - Đột biến âm thanh được kích hoạt bởi liên từ *ah* và giới từ *oh*.
@@ -953,7 +953,7 @@ Sự hình thành thì quá khứ của các động từ cơ bản có một s�
 - Ví dụ về Kéo dài Nguyên âm: †*kar-* (trong chính tả hiện đại *car-* "to do, make") trở thành †*akar-* khi tăng thêm và *akāre-* với việc kéo dài. Do lịch sử âm vị học phức tạp của Sindarin, *a* dài cổ xưa trở thành *o* ở dạng đa âm tiết, tạo ra *agor*, *agóre-* ở dạng Sindarin hiện đại (lưu ý độ biến thiên của *c* thành *g*). Ở đây *agor* có nghĩa là "(anh ấy/cô ấy/nó) đã làm" và *agóren*, *agórer* có nghĩa là "Tôi đã làm", "họ đã làm".
     - Sau khi kéo dài, *a* trở thành **o/ó** (như trong ví dụ); *e* trở thành **i/í**; *i* trở thành **i/í**; *o* trở thành **u/ú**; *y* trở thành **u/ú** (<i>*ýl-</i> > *uiul*, *uiúle-*).
 
-Thì tương lai được hình thành bằng cách thêm *-atha(-)*. Giống như các động từ dẫn xuất, *a* cuối cùng trở thành *o* với việc bổ sung các hậu tố danh từ ngoại trừ bao gồm ngôi thứ nhất số nhiều *-(a)b*và ngôi thứ ba số nhiều *-(a)r*: *carathon*, *carathar*.
+Thì tương lai được hình thành bằng cách thêm *-atha(-)*. Giống như các động từ dẫn xuất, *a* cuối cùng trở thành *o* với việc bổ sung các hậu tố danh từ ngoại trừ bao gồm ngôi thứ nhất số nhiều *-(a)b* và ngôi thứ ba số nhiều *-(a)r*: *carathon*, *carathar*.
 
 Mệnh lệnh được hình thành bằng việc thêm *-o* vào thân: *caro!*, *mado!*.
 
@@ -983,7 +983,7 @@ Không có từ gốc nào cho *Sindarin* được biết đến.
 
 ## Cảm hứng {#Inspiration}
 
-Tolkien ban đầu tưởng tượng rằng ngôn ngữ sau này trở thành *Sindarin* được nói bởi Noldor. Tuy nhiên, Tolkien sau đó quyết định rằng đó là ngôn ngữ của Sindar. Vì lý do này, nó được gọi là "[Noldorin](../N/Noldorin.md)" trong tài liệu cũ hơn, chẳng hạn như *[Etymologies](../T/The_Etymologies.md)*. Khi Noldorin trở thành Sindarin, nó cũng áp dụng một số tính năng của ngôn ngữ ban đầu không liên quan *[Ilkorin](../I/Ilkorin.md)*. Tolkien dựa trên âm thanh và một số ngữ pháp của Noldorin/Sindarin của anh ấy trên [tiếng Wales](../W/Welsh.md)và Sindarin hiển thị các đột biến phụ âm đặc trưng cho các ngôn ngữ Celtic (đặc biệt là Brythonic). Ngôn ngữ này có lẽ cũng bị ảnh hưởng ở một mức độ nào đó bởi các ngôn ngữ Đức, vì Tolkien là một học giả về cả [tiếng Anh cổ](../O/Old_English.md) và [tiếng Bắc Âu cổ](../O/Old_Norse.md).
+Tolkien ban đầu tưởng tượng rằng ngôn ngữ sau này trở thành *Sindarin* được nói bởi Noldor. Tuy nhiên, Tolkien sau đó quyết định rằng đó là ngôn ngữ của Sindar. Vì lý do này, nó được gọi là "[Noldorin](../N/Noldorin.md)" trong tài liệu cũ hơn, chẳng hạn như *[Etymologies](../T/The_Etymologies.md)*. Khi Noldorin trở thành Sindarin, nó cũng áp dụng một số tính năng của ngôn ngữ ban đầu không liên quan *[Ilkorin](../I/Ilkorin.md)*. Tolkien dựa trên âm thanh và một số ngữ pháp của Noldorin/Sindarin của anh ấy trên [tiếng Wales](../W/Welsh.md) và Sindarin hiển thị các đột biến phụ âm đặc trưng cho các ngôn ngữ Celtic (đặc biệt là Brythonic). Ngôn ngữ này có lẽ cũng bị ảnh hưởng ở một mức độ nào đó bởi các ngôn ngữ Đức, vì Tolkien là một học giả về cả [tiếng Anh cổ](../O/Old_English.md) và [tiếng Bắc Âu cổ](../O/Old_Norse.md).
 
 ## Liên kết ngoài {#External_links}
 

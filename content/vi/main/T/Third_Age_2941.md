@@ -51,7 +51,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Bard](../B/Bard.md) trong số [Esgaroth](../L/Lake-town.md) giết [Smaug](../S/Smaug.md).<sup id="cite_ref-TA_3-5" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
 - [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md) trong [Dale](../D/Dale.md).<sup id="cite_ref-TA_3-6" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
-- Cái chết của [Thorin](Thorin.md) Oakenshield, [Fíli](../F/Fíli.md)và [Kíli](../K/Kíli.md).<sup id="cite_ref-TA_3-7" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
+- Cái chết của [Thorin](Thorin.md) Oakenshield, [Fíli](../F/Fíli.md) và [Kíli](../K/Kíli.md).<sup id="cite_ref-TA_3-7" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
 - Cái chết của [Bolg](../B/Bolg.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 - [Dáin II Ironfoot](../D/Dáin_Ironfoot.md) của [Dãy Đồi Sắt](../I/Iron_Hills.md) trở thành [Vua Dưới Núi](../K/King_under_the_Mountain.md).<sup id="cite_ref-TA_3-8" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
 

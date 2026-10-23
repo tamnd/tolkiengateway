@@ -27,7 +27,7 @@ langlinks:
     url: "https://kontu.wiki/Calmindon"
 ---
 
-**Calmindon** là một tòa tháp được xây dựng trên [Tol Uinen](../T/Tol_Uinen.md), một hòn đảo trong vịnh dài [Rómenna](../R/Rómenna.md) chạy vào vùng đất ven biển phía đông của [Númenor](../N/Númenor.md). Hòn đảo này rất thiêng liêng đối với [Uinen](../U/Uinen.md) và chính tại đây [Guild of Venturers](../G/Guild_of_Venturers.md) thường neo đậu tàu guild [Eämbar](../E/Eämbar.md) của họ. Thuyền trưởng của Guild [Aldarion](../T/Tar-Aldarion.md)đã xây dựng một tòa tháp cao trên đảo để cảnh báo các tàu thuyền trong vịnh. Ông gọi tòa tháp này là Calmindon, một cái tên đơn giản là [Elvish](../E/Elvish.md) nghĩa là 'Tháp ánh sáng'.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Calmindon** là một tòa tháp được xây dựng trên [Tol Uinen](../T/Tol_Uinen.md), một hòn đảo trong vịnh dài [Rómenna](../R/Rómenna.md) chạy vào vùng đất ven biển phía đông của [Númenor](../N/Númenor.md). Hòn đảo này rất thiêng liêng đối với [Uinen](../U/Uinen.md) và chính tại đây [Guild of Venturers](../G/Guild_of_Venturers.md) thường neo đậu tàu guild [Eämbar](../E/Eämbar.md) của họ. Thuyền trưởng của Guild [Aldarion](../T/Tar-Aldarion.md) đã xây dựng một tòa tháp cao trên đảo để cảnh báo các tàu thuyền trong vịnh. Ông gọi tòa tháp này là Calmindon, một cái tên đơn giản là [Elvish](../E/Elvish.md) nghĩa là 'Tháp ánh sáng'.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

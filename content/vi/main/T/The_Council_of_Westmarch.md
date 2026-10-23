@@ -15,7 +15,7 @@ sort_keys:
   "Smials": "The Council of Westmarch"
 ---
 
-<i><b> Hội đồng của Westmarch</b></i> (viết tắt là "CofW") là một biểu tượng của [Hội Tolkien](The_Tolkien_Society.md)có trụ sở tại Montana (Hoa Kỳ). CofW họp thường xuyên để thảo luận tích cực và hấp dẫn về các tác phẩm của Tolkien. Các cuộc họp thường liên quan đến Hội đồng công việc kinh doanh, thảo luận về sách và những câu đố có thưởng. Nhóm cũng tổ chức các sự kiện kỷ niệm hàng năm, gây quỹ và diễn thuyết công khai hàng năm về các chủ đề liên quan đến Tolkien. Hội đồng của Westmarch là nụ cười duy nhất ở Montana và các bang lân cận.
+<i><b> Hội đồng của Westmarch</b></i> (viết tắt là "CofW") là một biểu tượng của [Hội Tolkien](The_Tolkien_Society.md) có trụ sở tại Montana (Hoa Kỳ). CofW họp thường xuyên để thảo luận tích cực và hấp dẫn về các tác phẩm của Tolkien. Các cuộc họp thường liên quan đến Hội đồng công việc kinh doanh, thảo luận về sách và những câu đố có thưởng. Nhóm cũng tổ chức các sự kiện kỷ niệm hàng năm, gây quỹ và diễn thuyết công khai hàng năm về các chủ đề liên quan đến Tolkien. Hội đồng của Westmarch là nụ cười duy nhất ở Montana và các bang lân cận.
 
 ## Lịch sử {#History}
 

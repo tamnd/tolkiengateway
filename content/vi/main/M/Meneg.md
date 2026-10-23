@@ -50,7 +50,7 @@ Có thể từ [OS](../O/OS.md) \**meneke* ([root](../R/Root.md) <a class="new" 
 
 Không rõ từ này ám chỉ câu tục ngữ nghìn, như trong "một con số lớn", hay con số chính xác là 1.000.
 
-Nếu là vế sau, chúng ta có thể giả sử rằng nếu từ này ám chỉ <a class="new" href="https://tolkiengateway.net/w/index.php?title=Duodecimal_system&amp;action=edit&amp;redlink=1" title="Duodecimal system (page does not exist)">hệ nhị thập phân</a> của [Tiên tộc](../E/Elves.md)thì 1.000 của chúng đúng hơn là 1728 (144 X 12).
+Nếu là vế sau, chúng ta có thể giả sử rằng nếu từ này ám chỉ <a class="new" href="https://tolkiengateway.net/w/index.php?title=Duodecimal_system&amp;action=edit&amp;redlink=1" title="Duodecimal system (page does not exist)">hệ nhị thập phân</a> của [Tiên tộc](../E/Elves.md) thì 1.000 của chúng đúng hơn là 1728 (144 X 12).
 
 ## Cảm hứng {#Inspiration}
 

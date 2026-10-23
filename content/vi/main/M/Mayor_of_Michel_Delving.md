@@ -41,7 +41,7 @@ Thị trưởng được [hobbit](../H/Hobbits.md) lựa chọn bảy năm một
 
 Đến cuối [Kỷ Đệ Tam](../T/Third_Age.md), Thị trưởng Michel Delving là "quan chức thực sự duy nhất ở Shire", nên ông thường được biết đến với cái tên **Thị trưởng của Shire**<sup id="cite_ref-OrderingShire_2-1" class="reference"><a href="#cite_note-OrderingShire-2">[2]</a></sup>
 
-Vào [Kỷ Đệ Tứ](../F/Fourth_Age.md) [13](../F/Fourth_Age_13.md) ([S.R.](../S/Shire_Reckoning.md) 1434), Thị trưởng Michel Delving, cùng với [Thain](../T/Thain.md) và [Chủ nhân của Buckland](Master_of_Buckland.md), đã được [Vua](../H/High_King_of_the_Dúnedain.md) [Elessar](../A/Aragorn.md)phong làm Cố vấn của [Vương quốc phương Bắc](../A/Arnor.md) mới được tái lập.<sup id="cite_ref-AppBLater_3-0" class="reference"><a href="#cite_note-AppBLater-3">[3]</a></sup>
+Vào [Kỷ Đệ Tứ](../F/Fourth_Age.md) [13](../F/Fourth_Age_13.md) ([S.R.](../S/Shire_Reckoning.md) 1434), Thị trưởng Michel Delving, cùng với [Thain](../T/Thain.md) và [Chủ nhân của Buckland](Master_of_Buckland.md), đã được [Vua](../H/High_King_of_the_Dúnedain.md) [Elessar](../A/Aragorn.md) phong làm Cố vấn của [Vương quốc phương Bắc](../A/Arnor.md) mới được tái lập.<sup id="cite_ref-AppBLater_3-0" class="reference"><a href="#cite_note-AppBLater-3">[3]</a></sup>
 
 ### Thị trưởng Michel Delving {#Mayors_of_Michel_Delving}
 

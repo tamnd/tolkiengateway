@@ -20,7 +20,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/U/Unspoiled_Earth_1984.jpg.md"><img src="https://tolkiengateway.net/w/images/3/3f/Unspoiled_Earth_1984.jpg" decoding="async" loading="lazy" width="253" height="350" class="mw-file-element" data-file-width="253" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**Trái đất hoang sơ 1984** là bộ lịch do Friends of the Earth (New Zealand) Ltd. xuất bản với hình ảnh về [New Zealand](../N/New_Zealand.md) địa điểm của Barney Brewster. Các bức ảnh này nhằm phản ánh các cảnh trong [Trung Địa](../M/Middle-earth.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)với các tiêu đề theo chủ đề Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Trái đất hoang sơ 1984** là bộ lịch do Friends of the Earth (New Zealand) Ltd. xuất bản với hình ảnh về [New Zealand](../N/New_Zealand.md) địa điểm của Barney Brewster. Các bức ảnh này nhằm phản ánh các cảnh trong [Trung Địa](../M/Middle-earth.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) với các tiêu đề theo chủ đề Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <br>
 

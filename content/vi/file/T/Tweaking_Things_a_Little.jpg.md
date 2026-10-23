@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bìa *[Tweaking Things a Little: Essays on the Epic Fantasy of J.R.R. Tolkien and G.R.R. Martin](../../main/T/Tweaking_Things_a_Little.md)*, do [Nhà xuất bản Cây biết đi](../../main/W/Walking_Tree_Publishers.md)xuất bản. Minh họa bởi [Jay Johnstone](../../main/J/Jay_Johnstone.md).
+Bìa của *[Tweaking Things a Little: Essays on the Epic Fantasy of J.R.R. Tolkien and G.R.R. Martin](../../main/T/Tweaking_Things_a_Little.md)*, được xuất bản bởi [Nhà xuất bản Cây biết đi](../../main/W/Walking_Tree_Publishers.md). Minh họa của [Jay Johnstone](../../main/J/Jay_Johnstone.md).
 
 <br>
 

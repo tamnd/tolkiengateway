@@ -19,7 +19,7 @@ langlinks:
 
 **Gia đình Lá Dê** là một gia đình của [Con Người](../M/Men.md) của [Bree](../B/Bree.md). Như một điển hình ở Con Người vùng đó, cái tên này bắt nguồn từ một loài thực vật.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-[Harry Goatleaf](../H/Harry_Goatleaf.md) đã có lúc theo dõi cổng [Phương Tây của Bree](../W/West-gate_of_Bree.md), nhưng đã lao vào cuộc cùng với những tên côn đồ của [Bill Ferny](../B/Bill_Ferny.md) và [Saruman](../S/Saruman.md)trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Harry Goatleaf](../H/Harry_Goatleaf.md) đã có lúc theo dõi cổng [Phương Tây của Bree](../W/West-gate_of_Bree.md), nhưng đã lao vào cuộc cùng với những tên côn đồ của [Bill Ferny](../B/Bill_Ferny.md) và [Saruman](../S/Saruman.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

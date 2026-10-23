@@ -46,7 +46,7 @@ Gói nhân vật là những bản mở rộng nhỏ bổ sung thêm kẻ thù v
 
 ### Chiến dịch có thể tải xuống {#Downloadable_Campaigns}
 
-Ứng dụng đi kèm với một chiến dịch miễn phí, *Bones of Arnor*và có hai chiến dịch có thể tải xuống cũng như một chiến dịch đi kèm với *Shadowed Paths Expansion*(Chiến dịch có thể tải xuống thứ hai yêu cầu *Shadowed Paths Expansion*).
+Ứng dụng đi kèm với một chiến dịch miễn phí, *Bones of Arnor* và có hai chiến dịch có thể tải xuống cũng như một chiến dịch đi kèm với *Shadowed Paths Expansion*(Chiến dịch có thể tải xuống thứ hai yêu cầu *Shadowed Paths Expansion*).
 
 - *Bones of Arnor*
 
@@ -56,7 +56,7 @@ Các vương quốc cổ đại từng trải dài trên lãnh thổ [Arnor](../
 
 - *The Hunt for the Ember Crown*
 
-Những con đường [Bree-land](../B/Bree-land.md) bị bao vây bởi [Warg](../W/Wargs.md)cướp bóc, táo bạo và khôn ngoan hơn vùng đất đã biết từ nhiều năm nay. [Thain](Thain.md) của [Shire](../S/Shire.md) đã phản ứng chậm, vì (như tin đồn) có điều gì đó khác khiến suy nghĩ của anh ấy đen tối hơn. Th Thain đã chào đón những vị khách lạ vào nhà mình và anh ấy luôn giữ kín mọi chuyện về những điều khiến anh ấy lo lắng. Khi Thain bị phân tâm, nhiệm vụ thuộc về bạn là bảo vệ Shire, vì chỉ những anh hùng dũng cảm mới dám đi đến vùng hoang dã trong thời điểm khó khăn này...
+Những con đường [Bree-land](../B/Bree-land.md) bị bao vây bởi [Warg](../W/Wargs.md) cướp bóc, táo bạo và khôn ngoan hơn vùng đất đã biết từ nhiều năm nay. [Thain](Thain.md) của [Shire](../S/Shire.md) đã phản ứng chậm, vì (như tin đồn) có điều gì đó khác khiến suy nghĩ của anh ấy đen tối hơn. Th Thain đã chào đón những vị khách lạ vào nhà mình và anh ấy luôn giữ kín mọi chuyện về những điều khiến anh ấy lo lắng. Khi Thain bị phân tâm, nhiệm vụ thuộc về bạn là bảo vệ Shire, vì chỉ những anh hùng dũng cảm mới dám đi đến vùng hoang dã trong thời điểm khó khăn này...
 
 - *Shadowed Paths*
 

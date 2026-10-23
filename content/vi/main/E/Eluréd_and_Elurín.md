@@ -56,7 +56,7 @@ Eluréd và Elurín là [anh em sinh đôi](../T/Twins.md) và có một em gái
 
 Nhưng chẳng bao lâu sau, chưa được bao năm, một người đưa tin đã mang [Nauglamír](../N/Nauglamír.md) đến Dior, báo với anh rằng Beren and Lúthien đã biến mất khỏi thế giới. Tin tức về Vòng cổ của Người Lùn, mang một trong những [Silmaril](../S/Silmarils.md), đang được Dior cất giữ đã kích động các con trai của [Fëanor](../F/Fëanor.md) tấn công Menegroth.
 
-Trong cuộc xung đột sau đó, cả Dior và Nimloth đều bị tiêu diệt, Eluréd và Elurín bị bắt, trong khi Elwing trốn thoát cùng với Silmaril. Sau đó, hai cậu bé bị người hầu của [Celegorm](../C/Celegorm.md)đưa vào rừng để trả thù cho cái chết của lãnh chúa và bị bỏ đói.
+Trong cuộc xung đột sau đó, cả Dior và Nimloth đều bị tiêu diệt, Eluréd và Elurín bị bắt, trong khi Elwing trốn thoát cùng với Silmaril. Sau đó, hai cậu bé bị người hầu của [Celegorm](../C/Celegorm.md) đưa vào rừng để trả thù cho cái chết của lãnh chúa và bị bỏ đói.
 
 [Maedhros](../M/Maedhros.md), con trai cả của [Fëanor](../F/Fëanor.md), tuy đã ăn năn và tìm kiếm cả hai nhưng không bao giờ tìm thấy và số phận của họ vẫn chưa được biết.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -89,7 +89,7 @@ Cái tên **Elurín** trong [Sindarin](../S/Sindarin.md) có nghĩa là "Tưởn
 
 ### Eluréd {#Eluréd}
 
-Trong giai đoạn đầu, Eluréd được gọi là "<a class="mw-redirect mw-disambig" href="Elbereth.md" title="Elbereth">Elbereth</a>", tên [Ilkorin](../I/Ilkorin.md) chứa từ *bereth* "valor". Trong quá trình viết *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, tên được áp dụng cho [Varda](../V/Varda.md)và ý nghĩa ban đầu<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 1]</a></sup> bị gạch bỏ và ký tự được đổi tên thành "Eldún".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
+Trong giai đoạn đầu, Eluréd được gọi là "<a class="mw-redirect mw-disambig" href="Elbereth.md" title="Elbereth">Elbereth</a>", tên [Ilkorin](../I/Ilkorin.md) chứa từ *bereth* "valor". Trong quá trình viết *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, tên được áp dụng cho [Varda](../V/Varda.md) và ý nghĩa ban đầu<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 1]</a></sup> bị gạch bỏ và ký tự được đổi tên thành "Eldún".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
 
 Trong bảng phả hệ của [Nhà Bëor](../H/House_of_Bëor.md), ngày sinh của "Eldún" được ghi là [F.A.](../F/First_Age.md) 492 (và anh ấy không phải là anh em sinh đôi). Anh ấy và anh trai đã chết vào năm [506](../F/First_Age_506.md) nhưng cha họ đã chết vào năm [511](../F/First_Age_511.md). Trong phần bình luận sau bảng, [Christopher Tolkien](../C/Christopher_Tolkien.md) giải thích năm 511 cho cái chết của Dior là không chính xác và trong các nguồn sau này, hai anh em là cặp song sinh sinh vào năm [F.A.](../F/First_Age.md) [500](../F/First_Age_500.md).<sup id="cite_ref-beor_3-1" class="reference"><a href="#cite_note-beor-3">[3]</a></sup>
 

@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Vaiverovarvas"
 ---
 
-**Heathertoes** là một trong những tên thực vật kỳ lạ được người dân [Bree](../B/Bree.md)ưa thích.
+**Heathertoes** là một trong những tên thực vật kỳ lạ được người dân [Bree](../B/Bree.md) ưa thích.
 
 ## Từ nguyên {#Etymology}
 

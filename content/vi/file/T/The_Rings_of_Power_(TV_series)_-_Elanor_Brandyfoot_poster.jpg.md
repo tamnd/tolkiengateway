@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh chính thức của [Elanor Brandyfoot](../../main/E/Elanor_Brandyfoot.md) từ loạt phim [Amazon](../../main/A/Amazon_Studios.md)của *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
+Hình ảnh chính thức của [Elanor Brandyfoot](../../main/E/Elanor_Brandyfoot.md) từ loạt phim [Amazon](../../main/A/Amazon_Studios.md) của *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 
 ## Giấy phép {#Licensing}
 

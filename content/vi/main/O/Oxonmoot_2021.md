@@ -24,7 +24,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Oxonmoot 2021</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/St_Antony%27s_College,_Oxford" title="wikipedia:St Antony&#39;s College, Oxford">St Antony&#39;s College</a>, <a href="../U/University_of_Oxford.md" title="University of Oxford">Oxford</a> and Online</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data">2-5 September 2021</td></tr></tbody></table>
 
-**Oxonmoot 2021**, [Oxonmoot](Oxonmoot.md) thường niên lần thứ 48 do [Hội Tolkien](../T/The_Tolkien_Society.md)tổ chức, đã diễn ra [2](../_/2_September.md)-[5 tháng Chín](../_/5_September.md) [2021](../_/2021.md) tại St Antony's College, [Oxford](../U/University_of_Oxford.md) và trực tuyến.
+**Oxonmoot 2021**, [Oxonmoot](Oxonmoot.md) thường niên lần thứ 48 do [Hội Tolkien](../T/The_Tolkien_Society.md) tổ chức, đã diễn ra [2](../_/2_September.md)-[5 tháng Chín](../_/5_September.md) [2021](../_/2021.md) tại St Antony's College, [Oxford](../U/University_of_Oxford.md) và trực tuyến.
 
 ## Liên kết ngoài {#External_links}
 

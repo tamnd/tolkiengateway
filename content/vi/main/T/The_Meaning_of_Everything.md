@@ -39,7 +39,7 @@ infobox:
 
 <i><b>Ý nghĩa của mọi thứ: Câu chuyện về Từ điển tiếng Anh Oxford</b></i> ghi lại lịch sử của *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)*.
 
-Công việc của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)với *Oxford English Dictionary* được đề cập ngắn gọn trong cuốn sách (trang 206–7, 246). Trong Lời nói đầu có ghi rằng Tolkien nằm trong số 150 người đàn ông được mời đến dự bữa tối vào [ngày 6 tháng 6](../_/6_June.md) [1928](../_/1928.md) để kỷ niệm việc hoàn thành *Oxford English Dictionary*, được tổ chức tại <a class="extiw" href="http://en.wikipedia.org/wiki/Worshipful_Company_of_Goldsmiths" title="wikipedia:Worshipful Company of Goldsmiths">Goldsmith's Hall</a>, London (trang xix–xxv).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Công việc của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) với *Oxford English Dictionary* được đề cập ngắn gọn trong cuốn sách (trang 206–7, 246). Trong Lời nói đầu có ghi rằng Tolkien nằm trong số 150 người đàn ông được mời đến dự bữa tối vào [ngày 6 tháng 6](../_/6_June.md) [1928](../_/1928.md) để kỷ niệm việc hoàn thành *Oxford English Dictionary*, được tổ chức tại <a class="extiw" href="http://en.wikipedia.org/wiki/Worshipful_Company_of_Goldsmiths" title="wikipedia:Worshipful Company of Goldsmiths">Goldsmith's Hall</a>, London (trang xix–xxv).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nhà xuất bản {#From_the_publishers}
 

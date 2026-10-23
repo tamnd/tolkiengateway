@@ -66,7 +66,7 @@ Lời tiên tri này được viết dưới dạng câu thơ ám chỉ tiếng 
 
 <b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i> </b>
 
-Khi Aragorn, [Legolas](../L/Legolas.md)và [Gimli](../G/Gimli.md) đi theo [Đường Dimholt](../D/Dimholt.md) vào vùng núi, Legolas đọc một phần lời tiên tri sau khi kể lại lịch sử về Con Người của Ngọn núi và lời thề bị phá vỡ của họ với [Isildur](../I/Isildur.md):
+Khi Aragorn, [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) đi theo [Đường Dimholt](../D/Dimholt.md) vào vùng núi, Legolas đọc một phần lời tiên tri sau khi kể lại lịch sử về Con Người của Ngọn núi và lời thề bị phá vỡ của họ với [Isildur](../I/Isildur.md):
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Who shall call them from the grey twilight, the forgotten people?<br/>

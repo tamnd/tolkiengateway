@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Eldarin_kolme_sukukuntaa"
 ---
 
-**Ba giống** là [Vanyar](../V/Vanyar.md), [Noldor](../N/Noldor.md)và [Teleri](Teleri.md); ba chủ thể của [Tiên tộc](../E/Elves.md) đã đi theo lệnh triệu tập của [Valar](../V/Valar.md) và bắt đầu [Đại Hành Trình](../G/Great_Journey.md) tới [Aman](../A/Aman.md).
+**Ba giống** là [Vanyar](../V/Vanyar.md), [Noldor](../N/Noldor.md) và [Teleri](Teleri.md); ba chủ thể của [Tiên tộc](../E/Elves.md) đã đi theo lệnh triệu tập của [Valar](../V/Valar.md) và bắt đầu [Đại Hành Trình](../G/Great_Journey.md) tới [Aman](../A/Aman.md).
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>

@@ -27,7 +27,7 @@ images:
 <p class="tg-quote-footer"><cite>Aragorn in <i><a href="The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="The_Departure_of_Boromir.md" title="The Departure of Boromir">The Departure of Boromir</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
 
-"**Ba Thợ Săn**" là cái tên [Aragorn](../A/Aragorn.md) đặt cho chính anh ấy, [Legolas](../L/Legolas.md)và [Gimli](../G/Gimli.md) khi họ bắt đầu truy đuổi [Uruk-hai](../U/Uruk-hai.md) kẻ đã bắt giữ [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) và [Peregrin Took](../P/Peregrin_Took.md) bởi [Nen Hithoel](../N/Nen_Hithoel.md) tại lễ [Phá vỡ tình bạn](../B/Breaking_of_the_Fellowship.md).
+"**Ba Thợ Săn**" là cái tên [Aragorn](../A/Aragorn.md) đặt cho chính anh ấy, [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) khi họ bắt đầu truy đuổi [Uruk-hai](../U/Uruk-hai.md) kẻ đã bắt giữ [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) và [Peregrin Took](../P/Peregrin_Took.md) bởi [Nen Hithoel](../N/Nen_Hithoel.md) tại lễ [Phá vỡ tình bạn](../B/Breaking_of_the_Fellowship.md).
 
 ## Lịch sử {#History}
 

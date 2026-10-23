@@ -39,7 +39,7 @@ Brogan thích *[goblins](../O/Orcs.md#Orcs_and_Goblins)* hơn *[orcs](../O/Orcs.
 
 Tolkien rất biết ơn Brogan vì dường như chỉ có anh và *Manchester Guardian* mới chú ý đến *verses* trong cuốn sách. Anh ta nói với Brogan rằng [Frodo](../F/Frodo_Baggins.md) không phải là một [Bilbo](../B/Bilbo_Baggins.md) khác và Frodo đã bị tan vỡ bởi nỗi sợ hãi và kinh hoàng. Cả anh ấy và tất cả những người hobbit khác đều không xuất hiện theo kiểu Shire thuần túy.
 
-Trung Địa chỉ là thế giới cổ xưa của đàn ông. Nó vẫn như vậy kể từ khi bắt đầu Kỷ Đệ Tam, tròn trịa và không thể thoát khỏi, dẫn đến lịch sử thông thường. Nếu bạn đi về phía tây, bạn sẽ chỉ đi vòng quanh địa cầu vì thời gian "thần thoại" của [Valinor](../V/Valinor.md), [Eressëa](../E/Eressëa.md)và [Númenor](../N/Númenor.md) đã biến mất.
+Trung Địa chỉ là thế giới cổ xưa của đàn ông. Nó vẫn như vậy kể từ khi bắt đầu Kỷ Đệ Tam, tròn trịa và không thể thoát khỏi, dẫn đến lịch sử thông thường. Nếu bạn đi về phía tây, bạn sẽ chỉ đi vòng quanh địa cầu vì thời gian "thần thoại" của [Valinor](../V/Valinor.md), [Eressëa](../E/Eressëa.md) và [Númenor](../N/Númenor.md) đã biến mất.
 
 Tolkien cảm ơn Brogan đã nhớ đến anh và gửi thư cho anh. Một số lượng khủng khiếp sách phải bán trước khi thanh toán chi phí và *then* anh ấy sẽ được trả tiền, nhưng điều quan trọng là nếu bán được nhiều thì anh ấy sẽ có thể *publish* nhiều hơn nữa. Những bức ảnh quá đắt để đưa vào và bản sao các trang bị đốt cháy của [Sách Mazarbul](../B/Book_of_Mazarbul.md) đã bị từ chối để giữ giá ở mức 21 shilling.
 

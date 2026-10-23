@@ -32,7 +32,7 @@ images:
 
 **Tiếng Anh trung cổ** là tên do các nhà ngôn ngữ học lịch sử đặt cho các dạng ngôn ngữ tiếng Anh đa dạng được sử dụng từ cuối thế kỷ 11 đến khoảng năm 1470, mặc dù các học giả không đồng ý về niên đại chính xác của thời kỳ này. Thường được viết tắt là M.E., dạng tiếng Anh này phát triển từ [tiếng Anh cổ](../O/Old_English.md) và sau đó chuyển thành **[Tiếng Anh hiện đại sớm](Modern_English.md)**.
 
-Trong số các bài viết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)liên quan đến tiếng Anh trung cổ, chúng tôi tìm thấy *[Sir Gawain and the Green Knight](<../S/Sir_Gawain_and_the_Green_Knight_(edition).md>)*, *[A Middle English Vocabulary](../A/A_Middle_English_Vocabulary.md)*, *[Sir Gawain and the Green Knight, Pearl and Sir Orfeo](../S/Sir_Gawain_and_the_Green_Knight,_Pearl_and_Sir_Orfeo.md)*, các tiểu luận *[Ancrene Wisse and Hali Meiðhad](../A/Ancrene_Wisse_and_Hali_Meiðhad.md)* và *[Middle English 'Losenger'](Middle_English_'Losenger'.md)*, và bài thơ "[The Clerkes Compleinte](../T/The_Clerkes_Compleinte.md)".
+Trong số các bài viết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) liên quan đến tiếng Anh trung cổ, chúng tôi tìm thấy *[Sir Gawain and the Green Knight](<../S/Sir_Gawain_and_the_Green_Knight_(edition).md>)*, *[A Middle English Vocabulary](../A/A_Middle_English_Vocabulary.md)*, *[Sir Gawain and the Green Knight, Pearl and Sir Orfeo](../S/Sir_Gawain_and_the_Green_Knight,_Pearl_and_Sir_Orfeo.md)*, các tiểu luận *[Ancrene Wisse and Hali Meiðhad](../A/Ancrene_Wisse_and_Hali_Meiðhad.md)* và *[Middle English 'Losenger'](Middle_English_'Losenger'.md)*, và bài thơ "[The Clerkes Compleinte](../T/The_Clerkes_Compleinte.md)".
 
 ## Xem thêm {#See_also}
 

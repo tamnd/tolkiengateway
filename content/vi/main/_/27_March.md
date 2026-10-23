@@ -67,7 +67,7 @@ Sự kiện xảy ra vào ngày 27 tháng 3.
 - **[1928](1928.md)** - [Tolkien](../J/J.R.R._Tolkien.md) hoạt động trên phần sau của [Canto IV](../L/Lay_of_Leithian_Canto_IV.md) của *[Lay of Leithian](../L/Lay_of_Leithian.md)*.
 - **[1939](1939.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thực hiện khóa đào tạo đầu tiên trong ba ngày với Trường Mật mã và Mật mã tuyệt mật của Chính phủ (GCCS) tại trụ sở chính ở London.
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 56a](../L/Letter_56a.md).
-- **[1972](1972.md)** – [Rayner Unwin](../R/Rayner_Unwin.md) tổ chức tiệc mừng CBE của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)vào [ngày hôm sau](28_March.md).
+- **[1972](1972.md)** – [Rayner Unwin](../R/Rayner_Unwin.md) tổ chức tiệc mừng CBE của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào [ngày hôm sau](28_March.md).
 
 ## Trong Arda {#In_Arda}
 

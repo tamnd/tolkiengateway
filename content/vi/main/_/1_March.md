@@ -87,10 +87,10 @@ Sự kiện xảy ra vào ngày 1 tháng 3
 - [T.A.](../T/Third_Age.md) [2931](../T/Third_Age_2931.md):
     - [Aragorn](../A/Aragorn.md), con trai của [Arathorn](../A/Arathorn_II.md), [Người thừa kế Isildur](../H/Heir_of_Isildur.md), chào đời.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) bắt đầu hành trình [Đầm lầy Chết](../D/Dead_Marshes.md) vào lúc bình minh. Họ tạm thời dừng lại và trốn khỏi [Nazgûl](../N/Nazgûl.md)đang bay.
+    - [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) bắt đầu hành trình [Đầm lầy Chết](../D/Dead_Marshes.md) vào lúc bình minh. Họ tạm thời dừng lại và trốn khỏi [Nazgûl](../N/Nazgûl.md) đang bay.
     - [Entmoot](../E/Entmoot.md), bắt đầu vào [30 tháng 2](30_February.md), vẫn tiếp tục.
     - Aragorn vào Fangorn và gặp [Gandalf the White](../G/Gandalf.md). Họ lên đường tới [Edoras](../E/Edoras.md).
-    - [Faramir](../F/Faramir.md) và người của hắn lên đường tới [Ithilien](../I/Ithilien.md) để phục kích [quân miền Nam](../S/Southrons.md) đang hành quân tới [Mordor](../M/Mordor.md).
+    - [Faramir](../F/Faramir.md) và người của hắn lên đường tới [Ithilien](../I/Ithilien.md) để phục kích [quân miền Nam](../S/Southrons.md) đang hành quân đến [Mordor](../M/Mordor.md).
 - [Kỷ Đệ Tứ](../F/Fourth_Age.md) [120](../F/Fourth_Age_120.md):
     - Cái chết của Vua [Elessar](../A/Aragorn.md) của Vương quốc Thống nhất của [Gondor](../G/Gondor.md) và [Arnor](../A/Arnor.md). [Eldarion](../E/Eldarion.md), con của Elessar và [Arwen](../A/Arwen.md), trở thành Vua.
 - [Kỷ Đệ Tứ](../F/Fourth_Age.md) [121](../F/Fourth_Age_121.md):

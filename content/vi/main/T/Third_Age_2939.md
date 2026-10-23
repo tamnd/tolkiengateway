@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Saruman](../S/Saruman.md) phát hiện ra rằng người hầu của [Sauron](../S/Sauron.md)đang tìm kiếm [Anduin](../A/Anduin.md) gần [Gladden Fields](../G/Gladden_Fields.md), và Sauron do đó đã biết được kết cục của [Isildur](../I/Isildur.md). Anh ta hoảng hốt nhưng không nói gì với [Bạch Hội Đồng](../W/White_Council.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Saruman](../S/Saruman.md) phát hiện ra rằng người hầu của [Sauron](../S/Sauron.md) đang tìm kiếm [Anduin](../A/Anduin.md) gần [Gladden Fields](../G/Gladden_Fields.md), và Sauron do đó đã biết được kết cục của [Isildur](../I/Isildur.md). Anh ta hoảng hốt nhưng không nói gì với [Bạch Hội Đồng](../W/White_Council.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - Cái chết của [Thain](Thain.md) [Isumbras Took IV](../I/Isumbras_Took_IV.md).<sup id="cite_ref-Took_2-0" class="reference"><a href="#cite_note-Took-2">[2]</a></sup>
 - [Fortinbras Took II](../F/Fortinbras_Took_II.md), con trai của Isumbras, trở thành Thain thứ hai mươi chín của [ Shire](The_Shire.md).<sup id="cite_ref-Took_2-1" class="reference"><a href="#cite_note-Took-2">[2]</a></sup>
 

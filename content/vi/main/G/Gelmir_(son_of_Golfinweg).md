@@ -45,7 +45,7 @@ Chỉ có [Turgon](../T/Turgon.md), cháu trai của Gelmir, cùng với những
 
 ## Từ nguyên {#Etymology}
 
-Tên *Gelmir* có trong [Noldorin](../N/Noldorin.md)nhưng ý nghĩa của nó không rõ ràng. [Qenya](../Q/Qenya.md) cùng nguồn gốc của nó là <i><b>Nelmer</b></i>.<sup id="cite_ref-Gel_1-2" class="reference"><a href="#cite_note-Gel-1">[1]</a></sup>
+Tên *Gelmir* có trong [Noldorin](../N/Noldorin.md) nhưng ý nghĩa của nó không rõ ràng. [Qenya](../Q/Qenya.md) cùng nguồn gốc của nó là <i><b>Nelmer</b></i>.<sup id="cite_ref-Gel_1-2" class="reference"><a href="#cite_note-Gel-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

@@ -48,7 +48,7 @@ infobox:
 
 <b>Sir Ian Murray McKellen <a class="external text" href="https://en.wikipedia.org/wiki/Order_of_the_Companions_of_Honour" rel="noreferrer noopener" target="_blank">CH</a></b> [CBE](../O/Order_of_the_British_Empire.md) (sinh ngày 25 tháng 5 năm 1939) đã đóng vai [Gandalf](../G/Gandalf.md) trong [*The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(film_series).md>) và [*The Hobbit* loạt phim](<../T/The_Hobbit_(film_series).md>).
 
-Anh ấy cũng viết lời tựa cho *[The Lord of the Rings Sketchbook](../T/The_Lord_of_the_Rings_Sketchbook.md)* của [Alan Lee](../A/Alan_Lee.md)và [Brian Sibley](../B/Brian_Sibley.md) của *[The Lord of the Rings: The Making of the Movie Trilogy](../T/The_Lord_of_the_Rings%253A_The_Making_of_the_Movie_Trilogy.md)*.
+Anh ấy cũng viết lời tựa cho *[The Lord of the Rings Sketchbook](../T/The_Lord_of_the_Rings_Sketchbook.md)* của [Alan Lee](../A/Alan_Lee.md) và [Brian Sibley](../B/Brian_Sibley.md) *[The Lord of the Rings: The Making of the Movie Trilogy](../T/The_Lord_of_the_Rings%253A_The_Making_of_the_Movie_Trilogy.md)*.
 
 ## Trích dẫn {#Quotes}
 

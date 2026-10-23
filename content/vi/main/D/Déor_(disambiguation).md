@@ -16,7 +16,7 @@ images:
 
 **Déor** có thể đề cập đến:
 
-- **[Déor](Déor.md)**, [Vua Rohan](../K/King_of_Rohan.md)thứ bảy.
+- **[Déor](Déor.md)**, [Vua Rohan](../K/King_of_Rohan.md) thứ bảy.
 - [Déor](<Déor_(father_of_Ælfwine).md>), cha đẻ của [Ælfwine](../_/Ælfwine.md).
 
 <hr style="margin-top:15px;"/>

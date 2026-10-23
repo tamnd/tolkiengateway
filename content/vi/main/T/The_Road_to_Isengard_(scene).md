@@ -46,7 +46,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Gandalf](../G/Gandalf.md), [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md), [Gimli](../G/Gimli.md), [Théoden](Théoden.md)và [Éomer](../_/Éomer.md) đi qua [Rừng Fangorn](../F/Fangorn_Forest.md), tiếp cận [Isengard](../I/Isengard.md).
+[Gandalf](../G/Gandalf.md), [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md), [Gimli](../G/Gimli.md), [Théoden](Théoden.md) và [Éomer](../_/Éomer.md) đi qua [Rừng Fangorn](../F/Fangorn_Forest.md), tiếp cận [Isengard](../I/Isengard.md).
 
 [Merry](../M/Merry.md) và [Pippin](../P/Pippin.md) ngồi trên tường, cười đùa và hút [Lá đáy dài](../L/Longbottom_Leaf.md) mà [họ tìm thấy trong nhà kho của Saruman](<../F/Flotsam_and_Jetsam_(scene).md>). Khi họ nhìn thấy Gandalf và những người khác cưỡi ngựa ra khỏi rừng, Merry đứng dậy và chào đón họ, khiến Aragorn rất vui.
 

@@ -28,7 +28,7 @@ images:
 
 **Sâu phát sáng** là những sinh vật gắn liền với ánh sáng lấp lánh trong môi trường tối.<sup id="cite_ref-stairs_1-0" class="reference"><a href="#cite_note-stairs-1">[1]</a></sup>
 
-Vào [10 tháng 3](../_/10_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> khi [Frodo Baggins](../F/Frodo_Baggins.md), [Samwise Gamgee](../S/Samwise_Gamgee.md)và [Gollum](Gollum.md) leo lên [Cầu thang của Cirith Ungol](../S/Stairs_of_Cirith_Ungol.md) để tránh tiếp tục đi tới [Minas Morgul](../M/Minas_Morgul.md), [con đường ma quái](../M/Morgul-road.md) được ví như một "sợi dây phát sáng" trong bóng tối tại một thời điểm khi Frodo nhìn xuống [Thung lũng Morgul](../M/Morgul_Vale.md) từ trên cao trên Cầu thang của Cirith Ungol.<sup id="cite_ref-stairs_1-1" class="reference"><a href="#cite_note-stairs-1">[1]</a></sup>
+Vào [10 tháng 3](../_/10_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> khi [Frodo Baggins](../F/Frodo_Baggins.md), [Samwise Gamgee](../S/Samwise_Gamgee.md) và [Gollum](Gollum.md) leo lên [Cầu thang của Cirith Ungol](../S/Stairs_of_Cirith_Ungol.md) để tránh tiếp tục đi tới [Minas Morgul](../M/Minas_Morgul.md), [con đường ma quái](../M/Morgul-road.md) được ví như một "sợi dây phát sáng" trong bóng tối tại một thời điểm khi Frodo nhìn xuống [Thung lũng Morgul](../M/Morgul_Vale.md) từ trên cao trên Cầu thang của Cirith Ungol.<sup id="cite_ref-stairs_1-1" class="reference"><a href="#cite_note-stairs-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
@@ -54,7 +54,7 @@ Một số con đom đóm được nhìn thấy phát sáng quanh chỗ rẽ c�
 		</li>
 </ul>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>&#34;Glow-worm&#34; is a type of monster found in the Dark Delvings of Moria and in The Hall of Lights in Mirkwood,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> portrayed as a giant glow-worm and classified as &#34;Spiders and Insects Crawler&#34;.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
 

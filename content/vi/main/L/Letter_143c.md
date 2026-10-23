@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư gửi nhà xuất bản [Allen &amp; Unwin](../A/Allen_&_Unwin.md)này, Tolkien đề cập đến một số vấn đề về bằng chứng của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Anh ta trả lại các bản in thử và thảo luận các vấn đề với một số [Elvish tập lệnh](../T/Tengwar.md) có vẻ viết kém và kích thước không chính xác. Anh ta xác định một lỗi nghiêm trọng trong dòng chữ Elvish và đề nghị sửa chữa.
+Trong bức thư gửi nhà xuất bản [Allen &amp; Unwin](../A/Allen_&_Unwin.md) này, Tolkien đề cập đến một số vấn đề về bằng chứng của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Anh ta trả lại các bản in thử và thảo luận các vấn đề với một số [Elvish tập lệnh](../T/Tengwar.md) có vẻ viết kém và kích thước không chính xác. Anh ta xác định một lỗi nghiêm trọng trong dòng chữ Elvish và đề nghị sửa chữa.
 
 Mặc dù không muốn trì hoãn việc xuất bản thêm nữa, Tolkien bày tỏ mong muốn có một thiết kế khối mới, cải tiến, gửi hai thiết kế mẫu để xem xét. Nếu điều này không khả thi, anh ta sẽ yêu cầu sửa chữa cụ thể trong văn bản để giải quyết lỗi.
 

@@ -37,7 +37,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(musical)_LOGO.jpg.md"><img src="https://tolkiengateway.net/w/images/b/b2/The_Lord_of_the_Rings_%28musical%29_LOGO.jpg" decoding="async" loading="lazy" width="311" height="320" class="mw-file-element" data-file-width="311" data-file-height="320"/></a><figcaption>The official logo for <b>The Lord of the Rings Musical</b></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data">Matthew Warchus</td></tr><tr><th scope="row" class="tg-infobox-label">Writer</th><td class="tg-infobox-data">Shaun McKenna and Matthew Warchus</td></tr><tr><th scope="row" class="tg-infobox-label">Based on</th><td class="tg-infobox-data"><i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Producer</th><td class="tg-infobox-data">Kevin Wallace and <a href="../S/Saul_Zaentz.md" title="Saul Zaentz">Saul Zaentz</a></td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="../A/A.R._Rahman.md" title="A.R. Rahman">A.R. Rahman</a> and <a href="../V/Värttinä.md" title="Värttinä">Värttinä</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2006.md" title="2006">2006</a>: Toronto<br/><a href="../_/2007.md" title="2007">2007</a>: London<br/><a href="../_/2023.md" title="2023">2023</a>: Newbury<br/><a href="../_/2024.md" title="2024">2024</a>: Chicago</td></tr></tbody></table>
 
-**The Lord of the Rings Nhạc kịch** là nỗ lực lớn nhất và tốn kém nhất để chuyển thể *[The Lord of the Rings](The_Lord_of_the_Rings.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)thành nhạc kịch. Nó được chiếu lần đầu tiên ở Toronto nhưng nhận được nhiều ý kiến ​​​​trái chiều. Phim đóng cửa sớm và mở lại ở London với kịch bản mới mặc dù các bài đánh giá vẫn chưa hoàn hảo.
+**The Lord of the Rings Nhạc kịch** là nỗ lực lớn nhất và tốn kém nhất để chuyển thể *[The Lord of the Rings](The_Lord_of_the_Rings.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thành nhạc kịch. Nó được chiếu lần đầu tiên ở Toronto nhưng nhận được nhiều ý kiến ​​​​trái chiều. Phim đóng cửa sớm và mở lại ở London với kịch bản mới mặc dù các bài đánh giá vẫn chưa hoàn hảo.
 
 ## Sản phẩm {#Productions}
 
@@ -99,14 +99,14 @@ Vào năm 2024, tác phẩm Cối xay nước được thông báo sẽ ra mắt
 
 ### Màn I {#Act_I}
 
-- "Lò xo Nhẫn" – Công ty
+- "Nhẫn lò xo" – Công ty
 - "Mở đầu" ('Lasto i lamath') – Arwen
 - "[Con đường vẫn tiếp tục](<The_Road_Goes_Ever_On_(song).md>)" – Frodo, Sam, Pippin, Merry và Công ty
 - "Saruman" – Giọng nữ
 - "Con mèo và Mặt Trăng" – Frodo, Sam, Pippin, Merry và Công ty
 - "Chuyến bay tới Ford" – Glorfindel và Giọng nữ
 - "Bài ca hy vọng" – Arwen
-- "Ngôi sao Eärendil" – Arwen và Công ty
+- "Ngôi sao của Eärendil" – Arwen và Công ty
 - "Than tiếc cho Moria" – Gandalf và Gimli
 
 ### Màn II {#Act_II}

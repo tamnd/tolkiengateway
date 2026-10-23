@@ -205,7 +205,7 @@ Tôi biết nó dài hơn - và tôi không bận tâm việc nó được làm 
 <p class="tg-quote-footer"><cite><i><a href="../../main/T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../../main/T/The_Palantír.md" title="The Palantír">The Palantír</a>&#34;</cite></p>
 </blockquote>
 
-Được [Người dùng:Quentandil](https://tolkiengateway.net/wiki/User:Quentandil) đơn phương chọn để phù hợp với chủ đề Númenórean của Trang chính.
+Được [Người dùng:Quentandil](https://tolkiengateway.net/wiki/User:Quentandil) đơn phương lựa chọn để phù hợp với chủ đề Númenórean của Trang Chính.
 
 ## 2 tháng 1 năm 2024 - 24 tháng 6 năm 2024 {#2_January_2024_-_24_June_2024}
 

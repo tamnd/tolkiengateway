@@ -47,11 +47,11 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../U/Uglúk.md" title="Uglúk">Uglúk</a> in <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, <i><a href="../T/The_Uruk-hai.md" title="The Uruk-hai">The Uruk-hai</a></i> </cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Một [Orc](../O/Orcs.md), có địa chỉ là **Snaga**, là một trinh sát dưới sự chỉ huy của [Uglúk](../U/Uglúk.md)và là thành viên của một đại đội đang đưa [Peregrin Took](../P/Peregrin_Took.md) và [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) đến [Isengard](../I/Isengard.md). Anh ta đã bị giết khi các tay đua của [Éomer](../_/Éomer.md)tấn công trại của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Một [Orc](../O/Orcs.md), được gọi là **Snaga**, là một trinh sát dưới sự chỉ huy của [Uglúk](../U/Uglúk.md) và là thành viên của một đại đội đang đưa [Peregrin Took](../P/Peregrin_Took.md) và [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) đến [Isengard](../I/Isengard.md). Anh ta đã bị giết khi các tay đua của [Éomer](../_/Éomer.md) tấn công trại của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-**Snaga** là một thuật ngữ mang tính khinh thường dành cho [Orc](../O/Orcs.md) nhỏ hơn của [Mordor](../M/Mordor.md) và [Isengard](../I/Isengard.md), được sử dụng đặc biệt trong số [Uruk-hai](../U/Uruk-hai.md)lớn hơn và mạnh hơn. Nó xuất phát từ một từ trong [Hắc Ngữ](../B/Black_Speech.md) có nghĩa là 'nô lệ' hoặc 'người hầu'.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Snaga** là một thuật ngữ mang tính khinh thường dành cho [Orc](../O/Orcs.md) nhỏ hơn của [Mordor](../M/Mordor.md) và [Isengard](../I/Isengard.md), được sử dụng đặc biệt trong số [Uruk-hai](../U/Uruk-hai.md) lớn hơn và mạnh hơn. Nó xuất phát từ một từ trong [Hắc Ngữ](../B/Black_Speech.md) có nghĩa là 'nô lệ' hoặc 'người hầu'.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -91,7 +91,7 @@ Một [Orc](../O/Orcs.md), có địa chỉ là **Snaga**, là một trinh sát 
 
 <dl><dd>Snaga is played by <a href="../J/Jed_Brophy.md" title="Jed Brophy">Jed Brophy</a>, and voiced by an uncredited <a href="../A/Andy_Serkis.md" title="Andy Serkis">Andy Serkis</a>. In the film, he is depicted as an Orc of Mordor under <a href="../G/Grishnákh.md" title="Grishnákh">Grishnákh</a>&#39;s command. After attempting to eat Merry and Pippin, he is decapitated by <a href="../U/Uglúk.md" title="Uglúk">Uglúk</a> and cannibalized by the ravenous Uruk-hai.</dd></dl>
 
-<b><a href="../_/2013.md" title="2013">2013</a>: <i><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Guardians of Middle-earth</a></i>:</b>
+<b><a href="../_/2013.md" title="2013">2013</a>: <i><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Người giám hộ của Trung Địa</a></i>:</b>
 
 <dl><dd>Snaga was added as a playable Guardian in a 2013 piece of DLC.</dd></dl>
 

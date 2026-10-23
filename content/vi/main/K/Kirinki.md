@@ -32,7 +32,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/Kirinki.jpg.md"><img src="https://tolkiengateway.net/w/images/2/23/Kirinki.jpg" decoding="async" loading="lazy" width="148" height="200" class="mw-file-element" data-file-width="148" data-file-height="200"/></a><figcaption>Kirinki portrayed in <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">MERP</a></i></figcaption></figure>
 
-**Kirinki** là một trong nhiều loài chim có nguồn gốc ở [Númenor](../N/Númenor.md). Người ta không biết rằng những con chim nhỏ này có thể tìm thấy ở bất kỳ đâu trong [Aman](../A/Aman.md) và [Trung Địa](../M/Middle-earth.md). Người ta cho rằng kirinki không lớn hơn hồng tước, với bộ lông màu đỏ tươi và giọng nói cao đến mức [Con Người](../M/Men.md)khó có thể nghe thấy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Kirinki** là một trong nhiều loài chim có nguồn gốc ở [Númenor](../N/Númenor.md). Người ta không biết rằng những con chim nhỏ này có thể tìm thấy ở bất kỳ đâu trong [Aman](../A/Aman.md) và [Trung Địa](../M/Middle-earth.md). Người ta cho rằng kirinki không lớn hơn hồng tước, với bộ lông màu đỏ tươi và giọng nói cao đến mức [Con Người](../M/Men.md) khó có thể nghe thấy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
