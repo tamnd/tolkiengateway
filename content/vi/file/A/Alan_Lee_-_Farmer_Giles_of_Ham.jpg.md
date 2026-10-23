@@ -1,0 +1,34 @@
+---
+title: "File:Alan Lee - Farmer Giles of Ham.jpg"
+page_id: 51869
+namespace: 6
+revision_id: 381477
+timestamp: "2023-10-15T01:22:10Z"
+source_url: "https://tolkiengateway.net/wiki/File:Alan_Lee_-_Farmer_Giles_of_Ham.jpg"
+content_sha256: d4d7e6d933da278788439ecfeb85e1e5ae8fad1fa5ba3a3bb4b10adc12990ce3
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Alan Lee"
+  - "Images of Farmer Giles of Ham"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/2/25/Alan_Lee_-_Farmer_Giles_of_Ham.jpg"
+  mime: "image/jpeg"
+  size: 515863
+  width: 1058
+  height: 1058
+  sha1: "d3d1e22684460a6af9408159aa3637f683304b13"
+  timestamp: "2023-10-15T01:22:10Z"
+  user: "Projetotolkien"
+---
+
+## Giấy phép {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Alan Lee</span></span>
+<p>This work is copyrighted and owned by <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></li>
+<li><b>Website:</b> Unavailable</li>
+<li><b><a href="../../project/C/Copyrights%252FAlan_Lee.md" title="Tolkien Gateway:Copyrights/Alan Lee">Permission for use on Tolkien Gateway</a></b></li></ul></div>

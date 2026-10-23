@@ -1,0 +1,24 @@
+---
+title: "Category:Scottish users"
+page_id: 47804
+namespace: 14
+revision_id: 396867
+timestamp: "2024-06-26T11:22:01Z"
+source_url: "https://tolkiengateway.net/wiki/Category:Scottish_users"
+content_sha256: ea7e5064a18ade20989e3a79c0e3343db854eed38d0a2bc8eb9becbe2606fda2
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "British users"
+sort_keys:
+  "British users": "Scotland"
+images:
+  - "Scotland.png"
+---
+
+<div style="float:right;"><div class="template-userbox metadata" style="border-color:#C00000;background:orange"><div class="template-userbox-id template-userbox-id-1" style="color:#000"><span><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Scotland.png.md"><img src="https://tolkiengateway.net/w/images/thumb/2/27/Scotland.png/78px-Scotland.png" decoding="async" loading="lazy" width="78" height="47" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/27/Scotland.png/117px-Scotland.png 1.5x, https://tolkiengateway.net/w/images/thumb/2/27/Scotland.png/156px-Scotland.png 2x" data-file-width="800" data-file-height="480"/></a></span></span></div><div class="template-userbox-info" style="color:#000"><span>This user is from <b><a class="extiw" href="http://en.wikipedia.org/wiki/Scotland" title="wikipedia:Scotland">Scotland</a></b>.</span></div></div>
+</div>
+
+Người dùng đến từ <b><a class="extiw" href="http://en.wikipedia.org/wiki/Scotland" title="wikipedia:Scotland">Scotland</a></b>.<br><br>Bạn có thể thêm chính mình vào danh mục này bằng cách thêm hộp người dùng: {{[Người dùng Scotland](https://tolkiengateway.net/wiki/Template:User_Scotland)}} hoặc thêm thông tin sau vào [trang người dùng](../../help/U/User_page.md) của bạn:
+
+<pre>[[Category:Scottish users|{{PAGENAME}}]]</pre>

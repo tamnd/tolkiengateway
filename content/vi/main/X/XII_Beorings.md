@@ -1,0 +1,13 @@
+---
+title: "XII Beorings"
+page_id: 68631
+namespace: 0
+revision_id: 420421
+source_url: "https://tolkiengateway.net/wiki/XII_Beorings"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Barahir's outlaws"
+---
+
+Chuyển hướng tới [Barahir những kẻ ngoài vòng pháp luật](../B/Barahir's_outlaws.md).

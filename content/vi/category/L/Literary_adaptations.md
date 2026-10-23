@@ -1,0 +1,15 @@
+---
+title: "Category:Literary adaptations"
+page_id: 31803
+namespace: 14
+revision_id: 195929
+timestamp: "2012-06-13T18:50:36Z"
+source_url: "https://tolkiengateway.net/wiki/Category:Literary_adaptations"
+content_sha256: 3784fc7aa88e5fe59042a10db017a2d978ed79bc76d22b5b5ac5743e4fce6097
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Adaptations"
+---
+
+Thể loại này và các thể loại con của nó liệt kê tất cả các bài viết liên quan đến **chuyển thể văn học** từ các tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

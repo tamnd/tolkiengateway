@@ -1,0 +1,35 @@
+---
+title: "File:Interrupted Music - The Making of Tolkien's Mythology.jpg"
+page_id: 14611
+namespace: 6
+revision_id: 214496
+timestamp: "2012-10-19T12:19:40Z"
+source_url: "https://tolkiengateway.net/wiki/File:Interrupted_Music_-_The_Making_of_Tolkien's_Mythology.jpg"
+content_sha256: cc1d104ef8d8f168e81229609f1191119971d832fe75b40beea8db3841dde8ed
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images of books"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/4/47/Interrupted_Music_-_The_Making_of_Tolkien%27s_Mythology.jpg"
+  mime: "image/jpeg"
+  size: 108994
+  width: 545
+  height: 800
+  sha1: "a92963779e618a82946b4ccbee06328960b3f645"
+  timestamp: "2007-03-10T23:11:09Z"
+  user: "Hyarion"
+---
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
+<p>The copyright of this image is most likely owned by the publisher or the artist who created the cover. It is believed that this image,
+</p>
+<ul><li><b>used to illustrate articles discussing the book, calendar, film, game, journal or music in question</b>,</li>
+<li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fls/fl102.html" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>
