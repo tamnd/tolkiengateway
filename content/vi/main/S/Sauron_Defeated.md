@@ -73,7 +73,7 @@ Tựa đề *The End of the Third Age* là tựa gốc cho Quyển 6 của *TLot
     - IV. "Núi Doom"
     - V. "Cánh đồng Kormallen"
     - VI. "Quản gia và Vua"
-    - VII. "Many Partings"
+    - VIII. "Many Partings"
     - VIII. "Trở Về Nhà"
     - IX. "Cuộc thanh trừng của Shire"
     - X. "Cái Cảng Xám"

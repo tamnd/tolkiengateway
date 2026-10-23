@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tirin na Gilweth"
 ---
 
-Chuyển hướng đến [Tirin na Gilweth](Tirin_na_Gilweth.md).
+Chuyển hướng tới [Tirin na Gilweth](Tirin_na_Gilweth.md).

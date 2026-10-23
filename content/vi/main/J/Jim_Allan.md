@@ -65,7 +65,7 @@ sort_keys:
 - [1977](../_/1977.md): *[Parma Eldalamberon 5](../P/Parma_Eldalamberon_5.md)*
     - "Sửa đổi Tengwar và các giá trị nhất định được gán trong các phiên bản hiện tại của *The Lord of the Rings*"
 - [2012](../_/2012.md): [*Amon Hen* 236](../A/Amon_Hen_236.md)
-    - "Cymry và Cimmerian"
+    - "Cymry và Cimmeria"
 - [2013](../_/2013.md): [*Amon Hen* 239](../A/Amon_Hen_239.md)
     - "Tolkien và Bản quyền"
 - [2013](../_/2013.md): *Beyond Bree*, tháng 4 năm 2013

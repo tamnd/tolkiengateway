@@ -78,7 +78,7 @@ Pelóri còn được gọi là **Dãy Núi của Aman** và **Dãy Núi của P
 
 ## Ở những câu chuyện khác {#In_other_stories}
 
-Pelóri - giống như Dãy Núi của Elvenholme - được tham chiếu trong *[Roverandom](../R/Roverandom.md)*của Tolkien. Trong câu chuyện được viết trong [1927](../_/1927.md), cá voi lớn [Uin](../U/Uin.md) đưa chú chó bị phù phép [Roverandom](../R/Rover.md) (trước đây gọi là Rover) vào cuộc phiêu lưu xuyên biển: Uin đưa Roverandom qua [Shadowy Seas](../S/Shadowy_Seas.md) đến [Vịnh Tiên tích](../B/Bay_of_Eldamar.md) ngoài [Đảo ma thuật](../E/Enchanted_Isles.md) nơi Rover nhìn thấy Dãy Núi của Elvenhome và ánh sáng của Thần tiên. Roverandom nghĩ mình có thể nhìn thấy ánh sáng trắng của [thành phố Tiên tộc trên ngọn đồi xanh ở phía xa](../T/Tirion.md).<sup id="cite_ref-Roverandom_11-0" class="reference"><a href="#cite_note-Roverandom-11">[11]</a></sup>
+Pelóri - giống như Dãy Núi của Elvenholme - được tham chiếu trong *[Roverandom](../R/Roverandom.md)*của Tolkien. Trong câu chuyện được viết trong [1927](../_/1927.md), cá voi lớn [Uin](../U/Uin.md) đưa chú chó bị phù phép [Roverandom](../R/Rover.md) (trước đây gọi là Rover) tham gia chuyến phiêu lưu xuyên biển: Uin đưa Roverandom qua [Shadowy Seas](../S/Shadowy_Seas.md) đến [Vịnh Tiên giới](../B/Bay_of_Eldamar.md) ngoài [Đảo ma thuật](../E/Enchanted_Isles.md) nơi Rover nhìn thấy Dãy Núi của Elvenhome và ánh sáng của Thần tiên. Roverandom nghĩ mình có thể nhìn thấy ánh sáng trắng của [thành phố Tiên tộc trên ngọn đồi xanh ở phía xa](../T/Tirion.md).<sup id="cite_ref-Roverandom_11-0" class="reference"><a href="#cite_note-Roverandom-11">[11]</a></sup>
 
 <span></span>
 

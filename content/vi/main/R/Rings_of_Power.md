@@ -67,7 +67,7 @@ Ba Chiếc Nhẫn, Bảy và Chín đều được đính đá quý phù hợp, 
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../N/Nine_Rings.md" title="Nine Rings">Nine Rings</a></b></div></div>
 
-Những *Nine Rings* bị chia rẽ giữa những kẻ có trái tim độc ác, những người nhận thấy khả năng của mình ngày càng tăng lên và trở thành phù thủy và Vua trong số Con Người. Chúng có được tuổi thọ nhưng sau đó lụi tàn để trở thành [Nazgûl](../N/Nazgûl.md), Nazgûl, bị thống trị bởi ý chí Sauron.
+*Nine Rings* được chia thành những kẻ có trái tim độc ác, những người nhận thấy khả năng của mình ngày càng tăng lên và trở thành phù thủy và Vua trong số Con Người. Chúng có được tuổi thọ nhưng sau đó lụi tàn để trở thành [Nazgûl](../N/Nazgûl.md), Nazgûl, bị thống trị bởi ý chí Sauron.
 
 ### Bảy {#The_Seven}
 
@@ -145,7 +145,7 @@ Trong một bản thảo trước đó có đề cập rằng khi bị chiếc N
 
 ## Cảm hứng {#Inspiration}
 
-Những chiếc Nhẫn là câu chuyện nền được bổ sung bởi Tolkien, từ chiếc Nhẫn xuất hiện trong *[The Hobbit](../T/The_Hobbit.md)*. Truyền thuyết về Những chiếc nhẫn (đặc biệt là Chiếc nhẫn) thường được so sánh với *[The Ring of the Nibelung](../D/Der_Ring_des_Nibelungen.md)*, mặc dù Tolkien tố cáo bất kỳ nguồn cảm hứng trực tiếp nào.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+Những chiếc Nhẫn là câu chuyện nền được bổ sung bởi Tolkien, từ chiếc Nhẫn xuất hiện trong *[The Hobbit](../T/The_Hobbit.md)*. Truyền thuyết về Những chiếc nhẫn (đặc biệt là Chiếc Nhẫn) thường được so sánh với *[The Ring of the Nibelung](../D/Der_Ring_des_Nibelungen.md)*, mặc dù Tolkien phủ nhận bất kỳ nguồn cảm hứng trực tiếp nào.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

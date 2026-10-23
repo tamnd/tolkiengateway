@@ -36,7 +36,7 @@ images:
 
 ## Thuộc tính {#Properties}
 
-Cây cỏ nổi tiếng vì hoa thơm. Nó ưa khí hậu miền Nam và phát triển nhiều ở [Gondor](../G/Gondor.md). Ở các vùng phía bắc, như [Eriador](../E/Eriador.md), nó không phong phú và rộng lớn và chưa bao giờ được tìm thấy trong tự nhiên; nó chỉ phát triển mạnh ở những nơi có mái che ấm áp như sườn phía nam của [Bree-hill](../B/Bree-hill.md)hoặc [Longbottom](../L/Longbottom.md) ở [ Shire](../T/The_Shire.md).<sup id="cite_ref-pipeweed_1-0" class="reference"><a href="#cite_note-pipeweed-1">[1]</a></sup>
+Cây cỏ nổi tiếng vì hoa thơm. Nó ưa khí hậu miền Nam và phát triển nhiều ở [Gondor](../G/Gondor.md). Ở các vùng phía Bắc, như [Eriador](../E/Eriador.md), nó không phong phú và rộng lớn và chưa bao giờ được tìm thấy trong tự nhiên; nó chỉ phát triển mạnh ở những nơi có mái che ấm áp như sườn phía nam của [Bree-hill](../B/Bree-hill.md)hoặc [Longbottom](../L/Longbottom.md) ở [ Shire](../T/The_Shire.md).<sup id="cite_ref-pipeweed_1-0" class="reference"><a href="#cite_note-pipeweed-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 

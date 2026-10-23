@@ -31,7 +31,7 @@ langlinks:
 
 **Vua của Númenor** là tước hiệu của 22 người cai trị của [Númenor](../N/Númenor.md) (cũng có ba [Nữ hoàng cai trị](../R/Ruling_Queens_of_Númenor.md)). Bắt đầu với [Elros Tar-Minyatur](../E/Elros.md) ở [S.A.](../S/Second_Age.md) [32](../S/Second_Age_32.md), dòng dõi các vị vua kéo dài 3.287 năm, cho đến khi [Ar-Pharazôn](../A/Ar-Pharazôn.md) mang lại [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Tất cả các vị Vua của Númenor đều sử dụng tiền tố [Quenya](../Q/Quenya.md) *[Tar](../T/Tar.md)* hoặc tiền tố [Adûnaic](../A/Adûnaic.md) *[Ar](../A/Ar.md)* trước tên hoàng gia của họ. Cả hai tiền tố đều có nghĩa là "Cao".
+Tất cả các vị vua của Númenor đều sử dụng tiền tố [Quenya](../Q/Quenya.md) *[Tar](../T/Tar.md)* hoặc tiền tố [Adûnaic](../A/Adûnaic.md) *[Ar](../A/Ar.md)* trước tên hoàng gia của họ. Cả hai tiền tố đều có nghĩa là "Cao".
 
 <table class="wikitable mw-collapsible">
 <tbody><tr style="background: var(--tg-color-surface-2);">

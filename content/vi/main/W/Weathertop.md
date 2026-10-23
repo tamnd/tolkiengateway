@@ -70,7 +70,7 @@ Một tòa tháp đã đứng trên đồi từ những ngày [Elendil](../E/Ele
 
 Sau khi Vua [Eärendur](<../E/Eärendur_(King_of_Arnor).md>) trôi qua và vương quốc bị chia làm ba, tất cả các con trai của ông đều thèm muốn ngọn đồi, hay đúng hơn là [Hòn đá](../A/Amon_Sûl-stone.md) bên trong. Nó nằm chính xác ở điểm ba bang, nhưng cuối cùng được chuyển đến [Arthedain](../A/Arthedain.md), vương quốc của [Amlaith](../A/Amlaith.md), con trai cả của Eärendur, mặc dù nó đã sở hữu [còn lại](../E/Elostirion-stone.md) [hai](../A/Annúminas-stone.md) Viên đá.<sup id="cite_ref-Eriador_3-0" class="reference"><a href="#cite_note-Eriador-3">[3]</a></sup>
 
-### Tiêu diệt {#Destruction}
+### Tiêu hủy {#Destruction}
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Fall_of_Amon_Sul_RotWK.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/da/Fall_of_Amon_Sul_RotWK.png/300px-Fall_of_Amon_Sul_RotWK.png" decoding="async" loading="lazy" width="300" height="171" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/da/Fall_of_Amon_Sul_RotWK.png/450px-Fall_of_Amon_Sul_RotWK.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/da/Fall_of_Amon_Sul_RotWK.png/600px-Fall_of_Amon_Sul_RotWK.png 2x" data-file-width="615" data-file-height="350"/></a><figcaption>The Fall of Amon Sûl in <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i></figcaption></figure>
 

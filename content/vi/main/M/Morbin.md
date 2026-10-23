@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Morben"
 ---
 
-Chuyển hướng tới [Morben](Morben.md).
+Chuyển hướng đến [Morben](Morben.md).

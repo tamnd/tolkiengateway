@@ -160,7 +160,7 @@ Chắc hẳn trong thời gian Gandalf bị giam cầm ở Orthanc, Saruman đã
 
 Gandalf sau đó đã trốn thoát, và do đó, sự phản bội và tuyên bố trung thành của Saruman với Sauron đã được những người còn lại trong Bạch Hội Đồng biết đến khi Gandalf báo cáo điều này trong [Hội đồng Elrond](../C/Council_of_Elrond.md)tiếp theo.<sup id="cite_ref-FRCouncil_16-1" class="reference"><a href="#cite_note-FRCouncil-16">[16]</a></sup>
 
-Saruman cũng sớm phản bội chủ nhân của mình, Sauron, bằng cách nói dối [Vua Phù thủy](../W/Witch-king.md) khi anh ta đến Isengard. Sauron đã cử [Nazgûl](../N/Nazgûl.md) đi tìm [Baggins](../B/Bilbo_Baggins.md), người đã tìm thấy Chiếc nhẫn Chúa nhiều năm trước và Shire, ngôi nhà của anh ta. Saruman giả vờ như không biết gì về Shire. Nhưng Chúa tể Minas Morgul và đồng đội của ông ta không đủ sức để tấn công Chiếc nhẫn Isengard. Saruman nói với họ rằng anh ta tin rằng Gandalf biết nơi ở của Chiếc nhẫn và Nazgûl đã rời đi.<sup id="cite_ref-UTHunt_17-0" class="reference"><a href="#cite_note-UTHunt-17">[17]</a></sup>
+Saruman cũng sớm phản bội chủ nhân của mình, Sauron, bằng cách nói dối [Vua Phù thủy](../W/Witch-king.md) khi anh ta đến Isengard. Sauron đã cử [Nazgûl](../N/Nazgûl.md) đi tìm [Baggins](../B/Bilbo_Baggins.md), người đã tìm thấy Chiếc nhẫn Chúa nhiều năm trước và Shire, ngôi nhà của anh ta. Saruman giả vờ như không biết gì về Shire. Nhưng Chúa tể của Minas Morgul và đồng đội của ông ta không đủ sức để tấn công Chiếc nhẫn Isengard. Saruman nói với họ rằng anh ta tin rằng Gandalf biết nơi ở của Chiếc nhẫn và Nazgûl đã rời đi.<sup id="cite_ref-UTHunt_17-0" class="reference"><a href="#cite_note-UTHunt-17">[17]</a></sup>
 
 Trong tháng Chín của [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), Nazgûl đã bắt được một trong những Shire [gián điệp](Squint-eyed_southerner.md) của mình, người đã kể cho [Vua Phù thủy](../W/Witch-king.md) mọi chuyện, phản bội Saruman và vạch trần hành vi phản bội kép của Pháp sư. Họ cũng thu giữ một số bản đồ và thông tin về Shire và [Baggins](../B/Baggins.md).<sup id="cite_ref-UT10_14-1" class="reference"><a href="#cite_note-UT10-14">[14]</a></sup> Bị Dân Tự do coi là kẻ phản bội và lo sợ bị bắt là chư hầu không chung thủy của Mordor, Saruman đã nỗ lực hết sức để trấn an Sauron về cam kết của anh ta hoặc giành được Chiếc nhẫn Chúa cho riêng mình.<sup id="cite_ref-UTHunt_17-1" class="reference"><a href="#cite_note-UTHunt-17">[17]</a></sup>
 
@@ -228,7 +228,7 @@ Gríma Wormtongue đóng một vai trò quan trọng trong kế hoạch của Sa
 
 Saruman đã từng có quan hệ tốt với Tiên tộc và được bầu làm thủ lĩnh của Bạch Hội Đồng, một nhóm Tiên tộc và Istari đoàn kết chống lại Sauron.
 
-Saruman biết rằng Gandalf đã được Elvish chiếc nhẫn Narya thứ ba bởi Círdan Thợ đóng tàu. Điều này đã nuôi dưỡng sự ghen tị của anh ấy với Gandalf và sự oán giận của anh ấy đối với Tiên tộc.
+Saruman biết rằng Gandalf đã được Elvish chiếc nhẫn Narya thứ ba trao cho Círdan Thợ đóng tàu. Điều này đã nuôi dưỡng sự ghen tị của anh ấy với Gandalf và sự oán giận của anh ấy đối với Tiên tộc.
 
 Saruman ít được sử dụng hoặc quan tâm đến Tiên tộc, những người đang suy thoái và đất đai của họ rất ít và bí mật; mặc dù họ nắm giữ sức mạnh kỳ diệu và hai Những Chiếc Nhẫn Quyền Năng, nhưng chúng không hữu ích cũng như không thể tiếp cận được đối với tham vọng của Saruman. Ngoài ra, họ không dễ dàng khuất phục trước sự thao túng như các chủng tộc khác.
 
@@ -248,11 +248,11 @@ Người hầu của Saruman gọi anh ta là "[Sharkey](Sharkey.md)" cả ở I
 
 Saruman đã liên lạc với Ent ở Rừng Fangorn ngay sau khi anh ta định cư ở Isengard. Người lớn tuổi nhất trong số Ent, [Treebeard](../T/Treebeard.md) đã tiếp nhận anh ta và cho anh ta vào rừng miễn phí.<sup id="cite_ref-Treebeard_23-0" class="reference"><a href="#cite_note-Treebeard-23">[23]</a></sup>
 
-Saruman cũng đã tham khảo ý kiến ​​của Treebeard, tìm hiểu nhiều truyền thuyết cổ xưa mà Ent hẳn đã nhớ từ xa xưa. Saruman đã không đáp lại ân huệ này mà chỉ lắng nghe.<sup id="cite_ref-Treebeard_23-1" class="reference"><a href="#cite_note-Treebeard-23">[23]</a></sup>
+Saruman cũng đã tham khảo ý kiến ​​của Treebeard, tìm hiểu nhiều truyền thuyết xưa mà Ent hẳn đã nhớ từ xa xưa. Saruman đã không đáp lại ân huệ này mà chỉ lắng nghe.<sup id="cite_ref-Treebeard_23-1" class="reference"><a href="#cite_note-Treebeard-23">[23]</a></sup>
 
 Ent đã sớm nhận ra sự phản bội của Saruman và trở nên rất lo ngại, chủ yếu là việc Orc của Saruman chặt cây ở rìa Fangorn để sử dụng trong các lò nung của Isengard và đôi khi không có lý do gì cả.
 
-Ent dường như cũng có ý thức về trật tự, mọi việc phải như thế nào thì Saruman mới lấn chiếm. Việc lai giữa Con Người và Orc đặc biệt khiến họ lo lắng, vượt xa những mối lo ngại khác mà kẻ thù của Saruman có thể có. Điều đáng báo động nữa là sự thật về sự phản bội của anh ta - Istari được cho là có trách nhiệm đặc biệt.
+Ent dường như cũng có ý thức về trật tự, mọi việc phải thế nào thì Saruman mới lấn chiếm. Việc lai giữa Con Người và Orc đặc biệt khiến họ lo lắng, vượt xa những mối lo ngại khác mà kẻ thù của Saruman có thể có. Điều đáng báo động nữa là sự thật về sự phản bội của anh ta - Istari được cho là có trách nhiệm đặc biệt.
 
 Saruman đã sử dụng rừng Ent và Fangorn mà không quan tâm đến hậu quả. Rõ ràng anh ta đã đánh giá sai khả năng và ý chí hành động của Ent. Điều này có thể không quá thận trọng như vẻ ngoài của nó, vì các yếu tố chính góp phần vào hành động của Ent là lời khuyên và yêu cầu từ Gandalf cũng như mối lo ngại về sức mạnh đang lên của Sauron (và mong muốn hỗ trợ quân đội tiền tuyến của cuộc chiến, Rohan và Gondor của họ).
 

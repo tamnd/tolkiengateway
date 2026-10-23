@@ -109,7 +109,7 @@ Chính Oromë đã đặt cho Tiên tộc cái tên "[Eldar](../E/Eldar.md)". Đ
 
 Sau khi Hai Cây của Valinor bị tiêu diệt, Oromë dẫn đầu vật chủ của mình truy đuổi Morgoth và [Ungoliant](../U/Ungoliant.md). Tuy nhiên, họ đã bị cản trở bởi sự thiếu sáng của Ungoliant.<sup id="cite_ref-Darkening_7-0" class="reference"><a href="#cite_note-Darkening-7">[7]</a></sup>
 
-Bởi vì Oromë là Vala duy nhất du hành ở Trung Địa trong [Ngày của Người cao tuổi](../E/Elder_Days.md) nên người ta tin rằng, ngay cả trong [Kỷ Đệ Tam](../T/Third_Age.md) rằng [con bò](../C/Cows.md) hoang dã được tìm thấy gần [Biển của Rhun](../S/Sea_of_Rhun.md) có nguồn gốc từ [Kine](../K/Kine_of_Araw.md) của anh ấy.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Bởi vì Oromë là Vala duy nhất du hành ở Trung Địa trong [Ngày của Người cao tuổi](../E/Elder_Days.md) nên người ta tin rằng, ngay cả trong [Kỷ Đệ Tam](../T/Third_Age.md) rằng [con bò](../C/Cows.md) hoang dã được tìm thấy gần [Biển của Rhun](../S/Sea_of_Rhun.md) có nguồn gốc từ [Kine](../K/Kine_of_Araw.md) của anh ta.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 ## Di sản {#Legacy}
 

@@ -72,7 +72,7 @@ Theo truyền thống,<sup id="cite_ref-2" class="reference"><a href="#cite_note
 
 ### người Númenor {#Númenóreans}
 
-Đối với người Númenor, [Mặt Trời](../S/Sun.md) và **Mặt Trăng** - *Ûri* và *Nîlû*, còn được gọi chung là *Ûriyat* ("hai mặt trời") hoặc *Ûrinîl(uw)at* ("hai mặt trời-mặt trăng") - là những thực thể được nhân cách hóa, [Người đàn ông trong Mặt Trăng](Man_in_the_Moon.md) và [Quý cô của Mặt Trời](../L/Lady_of_the_Sun.md).<sup id="cite_ref-Drowning_4-0" class="reference"><a href="#cite_note-Drowning-4">[4]</a></sup> Họ là những ngọn đèn chính của thiên đường và là kẻ thù của Bóng tối vĩnh cửu.<sup id="cite_ref-L347_5-0" class="reference"><a href="#cite_note-L347-5">[5]</a></sup>
+Đối với người Númenor, [Mặt Trời](../S/Sun.md) và **Mặt Trăng** - *Ûri* và *Nîlû*, còn được gọi chung là *Ûriyat* ("hai mặt trời") hoặc *Ûrinîl(uw)at* ("hai mặt trời-mặt trăng") - là những thực thể được nhân cách hóa, [Người đàn ông trong Mặt Trăng](Man_in_the_Moon.md) và [Quý bà của Mặt Trời](../L/Lady_of_the_Sun.md).<sup id="cite_ref-Drowning_4-0" class="reference"><a href="#cite_note-Drowning-4">[4]</a></sup> Họ là những ngọn đèn chính của thiên đường và là kẻ thù của Bóng tối vĩnh cửu.<sup id="cite_ref-L347_5-0" class="reference"><a href="#cite_note-L347-5">[5]</a></sup>
 
 Khái niệm này đã được chuyển sang [Gondor](../G/Gondor.md), nơi các con trai của [Elendil](../E/Elendil.md) mỗi người đều có một trong hai ngọn đèn mang tên mình: [Isildur](../I/Isildur.md) và [Anárion](../A/Anárion.md), cùng với họ là các thành phố [Minas Ithil](Minas_Ithil.md) và [Minas Anor](Minas_Anor.md)cũng như các vùng đất xung quanh họ, [Ithilien](../I/Ithilien.md) và [Anórien](../A/Anórien.md).<sup id="cite_ref-L347_5-1" class="reference"><a href="#cite_note-L347-5">[5]</a></sup>
 
@@ -96,7 +96,7 @@ Trong Hobbit văn hóa dân gian, mặt trăng được tưởng tượng là n�
 - <i><b>Elfaron</b></i>: Nghĩa là "Thợ săn sao" là sự kết hợp của [EL](../E/EL~31035.md) và PHAR.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
 - <i><b>Phanaikelūth</b></i>: Tên được ghi chép lâu đời nhất của Mặt Trăng là tên [Valarin](../V/Valarin.md) của nó, *Phanaikelūth*. Điều này được cho là có nghĩa là "gương sáng";<sup id="cite_ref-QaE_19-0" class="reference"><a href="#cite_note-QaE-19">[19]</a></sup> khiến nó trở thành cái tên duy nhất mô tả chính xác nguồn gốc của ánh trăng.
 - [Gollum](../G/Gollum.md) gọi Mặt Trăng là *The White Face*.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
-- Trăng tròn vào giữa[tháng 11](../N/November.md) được gọi là <b><a class="extiw" href="http://en.wikipedia.org/wiki/Hunter%27s_moon" title="wikipedia:Hunter&#39;s moon">Ngày của thợ săn Mặt Trăng</a></b>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
+- Trăng tròn vào giữa [tháng 11](../N/November.md) được gọi là <b><a class="extiw" href="http://en.wikipedia.org/wiki/Hunter%27s_moon" title="wikipedia:Hunter&#39;s moon">Ngày của thợ săn Mặt Trăng</a></b>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

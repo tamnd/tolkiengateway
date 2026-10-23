@@ -55,7 +55,7 @@ file:
 
 <br>
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 {{subst:Điểm đánh dấu giấy phép tùy chỉnh được thêm bởi UW}}
 

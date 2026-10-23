@@ -29,7 +29,7 @@ file:
 
 Một người lùn Ironfist của Daniel Falconer, xuất hiện trong Mike Austin Mearls và Chris Seeman, *[The Lord of the Rings Trò chơi nhập vai](../../main/T/The_Lord_of_the_Rings_Roleplaying_Game.md): [Moria](../../main/T/The_Lord_of_the_Rings_Roleplaying_Game%253A_Moria.md)* (Decipher, 2003).
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.decipher.com/" rel="noreferrer noopener" target="_blank">Decipher</a>. It is believed that the limited use of this file,

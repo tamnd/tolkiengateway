@@ -60,7 +60,7 @@ Sau 14 năm ở Leeds, Shippey chuyển đến <a class="extiw" href="http://en.
 
 <h3><span id="Peter_Jackson.27s_The_Lord_of_the_Rings"></span><span class="mw-headline" id="Peter_Jackson&#39;s_The_Lord_of_the_Rings">Peter Jackson&#39;s The Lord of the Rings</span></h3>
 
-Được coi là chuyên gia hàng đầu về Tolkien, Shippey đã xuất hiện trong một số bộ phim tài liệu xoay quanh [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>). Anh ấy cũng hỗ trợ các huấn luyện viên phương ngữ<sup id="cite_ref-white_4-2" class="reference"><a href="#cite_note-white-4">[4]</a></sup> và được đích thân cảm ơn trong phần giới thiệu cuối phim.<sup id="cite_ref-imdb_5-0" class="reference"><a href="#cite_note-imdb-5">[5]</a></sup> Sau đó anh ấy đã nhớ lại những trải nghiệm của mình:
+Được coi là chuyên gia hàng đầu về Tolkien, Shippey đã xuất hiện trong một số bộ phim tài liệu xoay quanh [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>). Anh ấy cũng đã hỗ trợ các huấn luyện viên phương ngữ<sup id="cite_ref-white_4-2" class="reference"><a href="#cite_note-white-4">[4]</a></sup> và được cảm ơn cá nhân trong phần ghi công cuối phim.<sup id="cite_ref-imdb_5-0" class="reference"><a href="#cite_note-imdb-5">[5]</a></sup> Sau đó anh ấy đã nhớ lại những trải nghiệm của mình:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>The funny thing about interviews is you never know which bits they&#39;re going to pick. It always feels as if they sit you down, shine bright lights in your eyes, and ask you questions till you say something really silly, and that&#39;s the bit they choose. At least they didn&#39;t waterboard me. But it was good fun, and I&#39;d cheerfully do it again.
@@ -96,7 +96,7 @@ Danh sách dưới đây rất phong phú nhưng chưa đầy đủ.
 ### Bài viết {#Articles}
 
 - [1975](../_/1975.md): *[J.R.R. Tolkien, Scholar and Story-Teller: Essays in Memoriam](../J/J.R.R._Tolkien%253A_Scholar_and_Storyteller.md)*
-    - "Sáng tạo từ Ngữ văn trong *The Lord of the Rings*"
+    - "Sáng tạo từ ngữ văn trong *The Lord of the Rings*"
 - [1980](../_/1980.md): *[Amon Hen 45](../A/Amon_Hen_45.md)*
     - "Wose với bất kỳ tên nào khác"
 - [1988](../_/1988.md): *[Arda 1984](../A/Arda_1984%252F1985.md)*
@@ -172,7 +172,7 @@ Danh tiếng học thuật của     - "Tolkien hiện nay"
     - "Học giả văn học thời trung cổ, ảnh hưởng của"
     - "Ylfe, Álfar, [Tiên tộc](../E/Elves.md)"
 - [2006](../_/2006.md): *[The Lord of the Rings 1954-2004: Scholarship in Honor of Richard E. Blackwelder](The_Lord_of_the_Rings_1954-2004%253A_Scholarship_in_Honor_of_Richard_E._Blackwelder.md)*
-    - "Lịch sử bằng lời nói: Niềm đam mê thống trị của Tolkien"
+    - "Lịch sử bằng lời nói: Niềm đam mê cai trị của Tolkien"
 - [2007](../_/2007.md): *[Myth and Magic: Art according to the Inklings](../M/Myth_and_Magic%253A_Art_according_to_the_Inklings.md)*
     - "Học tập mới và sự thiếu hiểu biết mới: Magia, Goeteia và Inklings"
 - [2007](../_/2007.md): *[Silver Leaves](../S/Silver_Leaves.md)* 1

@@ -24,7 +24,7 @@ images:
 
 Tuy nhiên, dù Valar khôn ngoan đến đâu, họ cũng không lường trước được mưu mô của [Sauron](../S/Sauron.md). Kẻ Maia sa ngã đã thuyết phục một cách sai lầm [Vua cuối cùng của Númenor](../K/King_of_Númenor.md), [Ar-Pharazôn](../A/Ar-Pharazôn.md), rằng người cai trị Vùng Đất Bất Tử sẽ tự mình bất tử. Tin tưởng vào Sauron, Ar-Pharazôn đã tập hợp một lực lượng hải quân hùng mạnh và giương buồm về phía tây để thực hiện cuộc chiến vô vọng trên Valar nhằm giành lấy phần thưởng tưởng tượng là sự sống vô tận.
 
-Valar không thể cho phép điều này: [Manwë](../M/Manwë.md) đã kêu gọi [Ilúvatar](../I/Ilúvatar.md), và vùng đất Númenor đã bị phá hủy và mất đi vĩnh viễn. Vùng Đất Bất Tử, cho đến thời điểm đó vẫn là một phần của Thế giới, đã bị loại bỏ vĩnh viễn khỏi tầm tay của Con Người phàm trần, mặc dù Tiên tộc vẫn có thể chèo thuyền Phương Tây và đến đó, nếu họ muốn.
+Valar không thể cho phép điều này: [Manwë](../M/Manwë.md) đã kêu gọi [Ilúvatar](../I/Ilúvatar.md), và vùng đất Númenor đã bị phá hủy và mất đi mãi mãi. Vùng Đất Bất Tử, cho đến thời điểm đó vẫn là một phần của Thế giới, đã bị loại bỏ vĩnh viễn khỏi tầm tay của Con Người phàm trần, mặc dù Tiên tộc vẫn có thể chèo thuyền Phương Tây và đến đó, nếu họ muốn.
 
 Đó là Vùng Đất Bất Tử mà [Con Tàu Trắng](../W/White_Ship.md) đi ở cuối *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. [Những người mang nhẫn](../R/Ring-bearers.md), [Bilbo Baggins](../B/Bilbo_Baggins.md) và [Frodo Baggins](../F/Frodo_Baggins.md) nằm trong số rất ít sinh vật phàm trần đặt chân lên bờ biển của Vùng Đất Bất Tử. Sau đó [Samwise Gamgee](../S/Samwise_Gamgee.md), rồi [Gimli](../G/Gimli.md) và [Legolas](../L/Legolas.md) cùng nhau mạo hiểm tìm kiếm Vùng Đất Bất Tử.
 

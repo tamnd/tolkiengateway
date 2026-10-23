@@ -80,7 +80,7 @@ Phải gần bốn trăm năm người dân Durin mới quay trở lại Ngọn 
 
 Thrór cuối cùng đã đến được Ngọn Núi Cô Đơn và tuyên bố chính mình là [Vua Dưới Núi](King_under_the_Mountain.md). Dưới sự cai trị của Thrór, Ngọn Núi Cô Đơn một lần nữa trở thành thủ đô của dân tộc Durin, [Người Lùn Erebor](../D/Dwarves_of_Erebor.md) trở thành những thợ rèn và thợ xây giỏi nhất ở Wilderland, giao thương gia tăng với những người bà con của họ ở Dãy Đồi Sắt và những nơi khác, đồng thời họ cũng trở nên rất giàu có.
 
-### Cuộc cướp phá Erebor {#Sack_of_Erebor}
+### cuộc cướp phá Erebor {#Sack_of_Erebor}
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../S/Sack_of_Erebor.md" title="Sack of Erebor">Sack of Erebor</a></b></div></div>
 

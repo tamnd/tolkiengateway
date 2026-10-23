@@ -85,7 +85,7 @@ Sự kiện xảy ra vào ngày 1 tháng 3
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2931](../T/Third_Age_2931.md):
-    - [Aragorn](../A/Aragorn.md), con trai của [Arathorn](../A/Arathorn_II.md), [Người Thừa Kế Isildur](../H/Heir_of_Isildur.md), chào đời.
+    - [Aragorn](../A/Aragorn.md), con trai của [Arathorn](../A/Arathorn_II.md), [Người thừa kế Isildur](../H/Heir_of_Isildur.md), chào đời.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) bắt đầu hành trình [Đầm lầy Chết](../D/Dead_Marshes.md) vào lúc bình minh. Họ tạm thời dừng lại và trốn khỏi [Nazgûl](../N/Nazgûl.md)đang bay.
     - [Entmoot](../E/Entmoot.md), bắt đầu vào [30 tháng 2](30_February.md), vẫn tiếp tục.

@@ -11,4 +11,4 @@ redirect_target: "Westron"
 redirect_fragment: "Etymology and names"
 ---
 
-Chuyển hướng tới [Westron](../W/Westron.md#Etymology_and_names).
+Chuyển hướng đến [Westron](../W/Westron.md#Etymology_and_names).

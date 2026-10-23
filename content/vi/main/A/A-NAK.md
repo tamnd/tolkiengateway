@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "ÁNAK"
 ---
 
-Chuyển hướng tới [ÁNAK](../_/ÁNAK.md).
+Chuyển hướng đến [ÁNAK](../_/ÁNAK.md).

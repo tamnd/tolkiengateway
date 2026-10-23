@@ -23,12 +23,12 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Used in Citizen skin
+Được sử dụng trong da Citizen
 
 - Kích thước: 196x256px (2x của 96x128px để hỗ trợ màn hình 2x, vì kích thước này được sử dụng làm hình nền CSS)
 - Nén WebP: 75%
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by INSERT COPYRIGHT HOLDER WITH WEBSITE LINK. It is believed that the limited use of this file,

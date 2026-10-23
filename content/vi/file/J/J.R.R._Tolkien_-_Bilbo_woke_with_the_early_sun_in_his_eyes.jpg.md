@@ -30,7 +30,7 @@ file:
 
 Bức tranh này, để minh họa những từ đầu tiên trong Chương 7 của [The Hobbit](../../main/T/The_Hobbit.md) ([Queer Lodgings](../../main/Q/Queer_Lodgings.md)), không được sử dụng trong bản in tiếng Anh đầu tiên để chứa các bức tranh màu, nhưng xuất hiện trong ấn bản đầu tiên ở Mỹ, năm 1938. Nó được sao chép trong [Lịch J.R.R. Tolkien 1973](../../main/T/The_J.R.R._Tolkien_Calendar_1973.md) và 1974 và trong [The Hobbit Lịch 1976](../../main/T/The_Hobbit_Calendar_1976.md). Con đại bàng được lấy cảm hứng từ bức tranh Đại bàng vàng của Archibald Thorburn.
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by the <a class="external text" href="http://www.tolkienestate.com/" rel="noreferrer noopener" target="_blank">Tolkien Estate</a>. It is believed that the limited use of this file,

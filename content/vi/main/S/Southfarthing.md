@@ -48,7 +48,7 @@ Các tính năng khác bao gồm:
 
 - Những ngọn đồi: Một phần của [Quốc gia Green Hill](../G/Green_Hill_Country.md)
 - Đầm lầy: [Đầm lầy ở phía nam](../M/Marshes_in_the_south.md)
-- Đường: Một con đường không tên băng qua Southfarthing tới [Sarn Ford](Sarn_Ford.md).
+- Đường: Một con đường không tên băng qua Southfarthing đến [Sarn Ford](Sarn_Ford.md).
 - Thị trấn: Longbottom, [Pincup](../P/Pincup.md).
 
 ## Lịch sử {#History}

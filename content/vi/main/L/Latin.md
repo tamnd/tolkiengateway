@@ -57,7 +57,7 @@ Một trong những nỗ lực đầu tiên của Tolkien trong việc tạo ra 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Latin" title="wikipedia:Latin">Tiếng Latinh</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 - <a class="external text" href="http://glaemscrafu.jrrvf.com/english/latin.html" rel="noreferrer noopener" target="_blank">Văn bản và mẫu âm thanh</a> tại [Glǽmscrafu](../G/Glǽmscrafu.md)
 - <a class="external text" href="https://antigonejournal.com/2022/01/farmer-giles-tolkien-latin/" rel="noreferrer noopener" target="_blank">Niềm vui của các bữa tiệc Latin và lễ Giáng sinh: <i>Farmer Giles of Ham</i></a> của J.R.R. Tolkien của Mateusz Stróżyński
-- <a class="external text" href="http://www.legonium.com/hobbitus-i" rel="noreferrer noopener" target="_blank">Hobbitus-i</a>, bản tóm tắt minh họa về *[The Hobbit](../T/The_Hobbit.md)* bằng tiếng Latinh của Anthony Gibbins
+- <a class="external text" href="http://www.legonium.com/hobbitus-i" rel="noreferrer noopener" target="_blank">Hobbitus-i</a>, bản tóm tắt minh họa về *[The Hobbit](../T/The_Hobbit.md)* bằng tiếng Latin của Anthony Gibbins
 - <a class="external text" href="https://medium.com/in-medias-res/would-tolkien-approve-of-the-hobbit-in-latin-1b51089ee301" rel="noreferrer noopener" target="_blank">"Liệu Tolkien có chấp thuận <i>The Hobbit</i> bằng tiếng Latinh không?"</a>, Đánh giá phê bình về *Hobbitus Ille* của Robert Ziomkowski.
 
 ## Ghi chú {#Notes}

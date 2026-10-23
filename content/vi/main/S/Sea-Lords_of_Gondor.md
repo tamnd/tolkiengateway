@@ -54,7 +54,7 @@ GẶP GỠ CÁC SEA-LORS VÀ KHÁM PHÁ:
 - LEBENNIN, Tỉnh Ngũ Hà
 - MIỆNG CỦA ANDUIN, vùng đồng bằng kỳ lạ trên Vịnh Belfalas.
 
-Trong Pelargir Những người trung thành với Numenor đã xây dựng ngôi nhà mới của họ và tại bến cảng tráng lệ này, Kẻ chiếm đoạt Castimir đã trở thành Lãnh chúa của bọn cướp biển trong cuộc xung đột Kin-xanh đẫm máu. Tại đây, Aragorn đã chiếm giữ Hạm đội Đen và lật ngược tình thế trong Trận Cánh đồng Pelennor.
+Trong Pelargir Những người trung thành với Numenor đã xây dựng ngôi nhà mới của họ và tại bến cảng tráng lệ này, Kẻ chiếm đoạt Castimir đã trở thành Lãnh chúa của bọn cướp biển trong cuộc xung đột Kin-xanh đẫm máu. Tại đây, Aragorn đã chiếm giữ Hạm đội Đen và lật ngược tình thế trong Trận cánh đồng Pelennor.
 
 SEA-LORS OF GONDOR bao gồm:
 

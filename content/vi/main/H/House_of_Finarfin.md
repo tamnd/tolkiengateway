@@ -80,7 +80,7 @@ Sau khi [Morgoth](../M/Morgoth.md)bị lật đổ, Gil-galad đã dẫn dắt n
 
 Sau khi rèn [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md), Gil-galad đã được tặng quà [Vilya](../V/Vilya.md) và [Galadriel](../G/Galadriel.md) được tặng quà [Nenya](../N/Nenya.md) vì chúng được coi là mạnh nhất trong số Eldar và được đặt ở vị trí tốt nhất để bảo vệ những chiếc nhẫn khỏi [Sauron](../S/Sauron.md). Trong khi Gil-galad chuyển Vilya sang [Elrond](../E/Elrond.md) trước khi chết vào cuối [Cuộc chiến của Liên minh Cuối cùng](../W/War_of_the_Last_Alliance.md), Galadriel tiếp tục sử dụng Nenya thông qua [Kỷ Đệ Tam](../T/Third_Age.md) với tư cách là Phu nhân cai trị của Lothlorien. Trong Thời đại này, dòng dõi Finarfin tiếp tục với sự ra đời của [Elrohir](../E/Elrohir.md), [Elladan](../E/Elladan.md) và [Arwen](../A/Arwen.md) thành Celebrian. Đồng thời, những người theo dõi Nhà Finarfin dường như nằm trong số những nhóm lang thang Eldar nán lại ở Trung Địa vì [Gildor Inglorion](../G/Gildor_Inglorion.md) tự nhận là thuộc Nhà của Finrod.
 
-Bất chấp điều đó, Nhà Finarfin dường như cuối cùng đã quay trở lại Valinor vào đầu Kỷ Đệ Tứ khi Galadriel đi về hướng Tây. Tuy nhiên, với sự lựa chọn trở thành phàm nhân của Arwen, dòng máu của Nhà Finarfin vẫn tiếp tục tồn tại trong Trung Địa thông qua các hậu duệ phàm trần của cô ấy.
+Bất chấp điều đó, Nhà Finarfin dường như cuối cùng đã quay trở lại Valinor vào đầu Kỷ Đệ Tứ khi Galadriel đi về phía Tây. Tuy nhiên, với sự lựa chọn trở thành phàm nhân của Arwen, dòng máu của Nhà Finarfin vẫn tiếp tục tồn tại trong Trung Địa thông qua các hậu duệ phàm trần của cô ấy.
 
 ## Từ nguyên {#Etymology}
 

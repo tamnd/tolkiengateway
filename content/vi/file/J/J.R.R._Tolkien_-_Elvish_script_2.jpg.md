@@ -27,7 +27,7 @@ file:
 
 Trang Elvish chữ viết này do [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) sao chép ở đây đã được xuất bản trong [The Silmarillion Lịch 1978](../../main/T/The_Silmarillion_Calendar_1978.md). Về bản chất, chúng không có mối liên hệ nào với [The Silmarillion](../../main/T/The_Silmarillion.md), trên thực tế là phần mở đầu của (các phiên bản) của các bài thơ [Errantry](../../main/E/Errantry.md) và [The Adventures of Tom Bombadil](../../main/T/The_Adventures_of_Tom_Bombadil.md).
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by the <a class="external text" href="http://www.tolkienestate.com/" rel="noreferrer noopener" target="_blank">Tolkien Estate</a>. It is believed that the limited use of this file,

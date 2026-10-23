@@ -29,7 +29,7 @@ sort_keys:
 - [1971](../_/1971.md): *[Mythlore 7](Mythlore_7.md)*
 - [1972](../_/1972.md): *[Mythlore 8](Mythlore_8.md)*
 - [1973](../_/1973.md): *[Mythlore 9](Mythlore_9.md)* (giống như *[Tolkien Journal](../T/Tolkien_Journal.md)* #16)
-- [1975](../_/1975.md): *[Mythlore 10](Mythlore_10.md)* (giống như *[Tolkien Journal](../T/Tolkien_Journal.md)* #17; Tolkien Vấn đề tưởng nhớ)
+- [1975](../_/1975.md): *[Mythlore 10](Mythlore_10.md)* (giống như *[Tolkien Journal](../T/Tolkien_Journal.md)* #17; Tolkien Vấn đề tưởng niệm)
 - [1976](../_/1976.md): *[Mythlore 11](Mythlore_11.md)* (giống như <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Journal_18&amp;action=edit&amp;redlink=1" title="Tolkien Journal 18 (page does not exist)"><i>Tolkien Journal</i> #18</a>)
 - [1976](../_/1976.md): *[Mythlore 12](Mythlore_12.md)*
 - [1976](../_/1976.md): *[Mythlore 13](Mythlore_13.md)*

@@ -52,7 +52,7 @@ Narog dài 80 dặm.<sup id="cite_ref-Beleriand_1-0" class="reference"><a href="
 
 Trong *[The Etymologies](../T/The_Etymologies.md)*, tên của dòng sông được cho là có nghĩa là "cuồng nhiệt, bạo lực".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tuy nhiên, trong một văn bản sau này của [Tolkien](../J/J.R.R._Tolkien.md), tên [Sindarin](../S/Sindarin.md) *Narog* có thể có hai [Khuzdul](../K/Khuzdul.md) nguồn gốc: *[Narâg](Narâg.md)* ("đen") và *[naruka](Naruka.md)* (không rõ nghĩa).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Trong bản dịch [tiếng Anh cổ](../O/Old_English.md) của [Eriol](../E/Eriol.md), Narog được gọi là *Hlyda* ("ồn ào"). [các Tiên tộc Nargothrond](../E/Elves_of_Nargothrond.md) được đặt tên là *Hlydingas*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong bản dịch [tiếng Anh cổ](../O/Old_English.md) của [Eriol](../E/Eriol.md), Narog được gọi là *Hlyda* ("ồn ào"). [Các Tiên tộc Nargothrond](../E/Elves_of_Nargothrond.md) được đặt tên là *Hlydingas*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Xem thêm {#See_also}
 

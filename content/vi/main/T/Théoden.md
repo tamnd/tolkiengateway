@@ -297,7 +297,7 @@ Trong một trong những bản nháp đầu tiên của Tolkien, Théoden cũng
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Theo <a href="Thengel.md" title="Thengel">Thengel</a> trong <a href="../A/Appendix_A.md" title="Appendix A">Phụ lục A</a> có ghi: "Bà sinh cho ông ba đứa con ở Gondor, trong đó Théoden, người thứ hai, là con trai duy nhất của ông. […] Morwen sinh cho ông thêm hai cô con gái ở Rohan"</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Theo <a href="Thengel.md" title="Thengel">Thengel</a> trong <a href="../A/Appendix_A.md" title="Appendix A">Phụ lục A</a> có ghi: "Bà sinh cho ông ba đứa con ở Gondor, trong đó Théoden, người con thứ hai, là con trai duy nhất của ông. […] Morwen sinh cho ông thêm hai đứa con gái ở Rohan"</span>
 </li>
 </ol></div></span>
 

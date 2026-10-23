@@ -78,7 +78,7 @@ infobox:
 
 Miệng của Sauron là một [ Númenórean](../B/Black_Númenóreans.md) đen "đã phục vụ [Tháp bóng tối](../B/Barad-dûr.md) khi nó lần đầu tiên trỗi dậy trở lại".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup> Anh ta đã quên tên ban đầu của mình, điều này không được nhớ đến trong bất kỳ câu chuyện nào.<sup id="cite_ref-Gate_2-1" class="reference"><a href="#cite_note-Gate-2">[2]</a></sup>
 
-Miệng của Sauron đã học được phép thuật tuyệt vời và biết nhiều kế hoạch của Chúa tể Bóng tối với tư cách là người hầu của Sauron. Tàn bạo và xảo quyệt hơn [Orc](../O/Orcs.md), hắn ngày càng có quyền lực và được sủng ái.<sup id="cite_ref-Gate_2-2" class="reference"><a href="#cite_note-Gate-2">[2]</a></sup>
+Miệng của Sauron đã học được phép thuật tuyệt vời và biết nhiều kế hoạch của Chúa tể Bóng tối với tư cách là người hầu của Sauron. Tàn bạo và xảo quyệt hơn cả một [Orc](../O/Orcs.md), hắn đã giành được quyền lực và sự sủng ái.<sup id="cite_ref-Gate_2-2" class="reference"><a href="#cite_note-Gate-2">[2]</a></sup>
 
 ### Muộn Kỷ Đệ Tam {#Late_Third_Age}
 

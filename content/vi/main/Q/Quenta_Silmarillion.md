@@ -92,7 +92,7 @@ Vào thời điểm Silmaril được tạo ra, thời gian bị giam cầm củ
 
 Fëanor giận dữ đi theo Melkor và đổi tên thành [Morgoth](../M/Morgoth.md). Cuộc truy đuổi này được thực hiện trái với ý muốn của Valar, và trong chuyến bay của Fëanor, anh ta đã giết chết nhiều Teleri vì họ từ chối cho anh ta mượn tàu của họ ([First Kinslaying](../F/First_Kinslaying.md)). Vì hành động nghiêm trọng này, anh ta và những người theo anh ta bị cấm tiếp cận Aman một lần nữa. Fëanor phớt lờ sự trừng phạt này và băng qua Đại Dương về phía đông. Ở đó, anh ấy tham gia cùng với Sindar, những người đã ở trong Trung Địa từ lâu. Nhiều năm sau chuyến bay này, để giảm bớt bóng tối, Valar đã phóng Mặt Trời để làm tan bóng tối của Melkor.
 
-Morgoth, sau khi quay trở lại Trung Địa, củng cố pháo đài phụ trước đây của mình, [Angband](../A/Angband.md) với thủ đô là [Thangorodrim](../T/Thangorodrim.md). Từ đó anh ta tiến hành chiến tranh với Sindar. Tuy nhiên, với sự giúp đỡ của Noldor vừa vượt Đại dương, đòn tấn công dữ dội đầu tiên của Morgoth đã bị đẩy lùi.
+Morgoth, sau khi quay trở lại Trung Địa, củng cố pháo đài phụ trước đây của mình, [Angband](../A/Angband.md) với thủ đô là [Thangorodrim](../T/Thangorodrim.md). Từ đó anh ta tiến hành chiến tranh với Sindar. Tuy nhiên, với sự giúp đỡ của Noldor vừa vượt Đại dương, đợt tấn công dữ dội đầu tiên của Morgoth đã bị đẩy lùi.
 
 Sau đó, Noldor được giải quyết bằng Sindar trong Phương Tây của Trung Địa, được gọi là [Beleriand](../B/Beleriand.md). Họ đã sử dụng ngôn ngữ [Sindarin](../S/Sindarin.md) thay vì ngôn ngữ [Quenya](Quenya.md)bản địa của họ. Thời kỳ hòa bình và ổn định tương đối này chỉ tồn tại trong thời gian ngắn (ít nhất là theo tiêu chuẩn Tiên tộc'). Một trong những nạn nhân đầu tiên của cuộc chiến này chính là Fëanor. Thời gian trôi qua, Morgoth ngày càng tập hợp được nhiều lực lượng hơn.
 
@@ -104,7 +104,7 @@ Valar đã đồng ý ân xá cho Noldor. Họ lên đường chiến đấu Mor
 
 Valar đã đề nghị Tiên tộc sự tha thứ của họ và quyền đến với Aman. Nhiều người trong số họ thực sự đã rời khỏi Trung Địa, mệt mỏi sau hàng thế kỷ chiến tranh chống lại cái ác ngày càng gia tăng. Các bộ lạc Con Người đã giúp đỡ Tiên tộc đã được cấp cả một hòn đảo của riêng họ, trên đó họ thành lập vương quốc [Númenor](../N/Númenor.md).
 
-Eärendil vì sở hữu cả di sản phàm trần và bất tử nên được trao cơ hội lựa chọn số phận; một món quà cũng được trao cho tất cả con cháu của ông, những người được sinh ra từ cha mẹ bất tử. Silmaril của anh đã trở thành một ngôi sao sáng. Một chiếc Silmaril bị chìm trong vùng nước của Đại Dương, và chiếc thứ ba bị mất tích dưới độ sâu của Trái đất. Như vậy, ngoài mặt trời và mặt trăng ở trên, không còn dấu vết nào trên Trung Địa của [Hai Cây của Valinor](../T/Two_Trees_of_Valinor.md); nhưng ảnh hưởng của chúng vẫn tồn tại trong các yếu tố: không khí, nước và lửa/đất.
+Eärendil vì sở hữu cả di sản phàm trần và bất tử nên được trao cơ hội lựa chọn số phận; một món quà cũng được trao cho tất cả con cháu của ông, những người được sinh ra từ cha mẹ bất tử. Silmaril của anh đã trở thành một ngôi sao sáng. Một chiếc Silmaril bị chìm trong vùng nước của Đại Dương, và chiếc thứ ba bị mất tích dưới lòng đất. Như vậy, ngoài mặt trời và mặt trăng ở trên, không còn dấu vết nào trên Trung Địa của [Hai Cây của Valinor](../T/Two_Trees_of_Valinor.md); nhưng ảnh hưởng của chúng vẫn tồn tại trong các yếu tố: không khí, nước và lửa/đất.
 
 ## Từ nguyên {#Etymology}
 

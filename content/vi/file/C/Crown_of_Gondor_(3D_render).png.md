@@ -27,7 +27,7 @@ file:
 
 Bản vẽ mô phỏng 3D của [Vương miện của Gondor](../../main/C/Crown_of_Gondor.md), theo bản vẽ của Tolkien. Xem thêm nhiều góc độ hơn tại <a class="external text" href="https://www.artstation.com/artwork/qJXm1a" rel="noreferrer noopener" target="_blank">trang nghệ thuật của người mẫu</a>.
 
-## License {#License}
+## Giấy phép {#License}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>This work is licensed under the <a class="external text" href="http://creativecommons.org/" rel="noreferrer noopener" target="_blank">Creative Commons</a> <a class="external text" href="http://creativecommons.org/licenses/by/3.0/" rel="noreferrer noopener" target="_blank">Attribution 3.0</a> License.

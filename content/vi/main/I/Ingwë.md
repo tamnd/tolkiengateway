@@ -194,7 +194,7 @@ Và mặc dù Tiên tộc đã chiến thắng, Melko bị đánh bại và bị
 
 Sau chiến tranh, với việc Tiên tộc bị cấm quay trở lại Valinor,<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[26]</a></sup> Ingil, con trai ông đã dẫn họ từ Great Lands đến [Tol Eressëa](../T/Tol_Eressëa.md), Lonely Isle, nơi ông trở thành thủ lĩnh của họ.<sup id="cite_ref-Gil_24-1" class="reference"><a href="#cite_note-Gil-24">[23]</a></sup>
 
-Họ hàng và hậu duệ của ông được gọi là [Inwir](Inwir.md), một trong số đó là [Meril-i-Turinqi](../M/Meril-i-Turinqi.md) chắt gái của ông,<sup id="cite_ref-Dea_22-2" class="reference"><a href="#cite_note-Dea-22">[21]</a></sup> Phu nhân của Tol Eressëa vào thời điểm [Eriol](../E/Eriol.md) Mariner xuất hiện, vào năm c. <a class="extiw" href="http://en.wikipedia.org/wiki/5th_century" title="wikipedia:5th century">Thế kỷ thứ 5 sau Công nguyên</a>.<sup id="cite_ref-Com_19-1" class="reference"><a href="#cite_note-Com-19">[18]</a></sup>
+Họ hàng và hậu duệ của ông được gọi là [Inwir](Inwir.md), một trong số đó là [Meril-i-Turinqi](../M/Meril-i-Turinqi.md) chắt gái của ông,<sup id="cite_ref-Dea_22-2" class="reference"><a href="#cite_note-Dea-22">[21]</a></sup> Phu nhân của Tol Eressëa vào thời điểm [Eriol](../E/Eriol.md) Mariner xuất hiện, vào năm c. <a class="extiw" href="http://en.wikipedia.org/wiki/5th_century" title="wikipedia:5th century">Thế kỷ thứ 5 sau Công Nguyên</a>.<sup id="cite_ref-Com_19-1" class="reference"><a href="#cite_note-Com-19">[18]</a></sup>
 
 Trong một phác thảo, hòn đảo Tol Eressëa cũng được gọi là *[Inwinórë](Inwinórë.md)* theo tên Inwë, nhưng sau đó được đổi thành *[Ingilnórë](Ingilnórë.md)*, để vinh danh con trai ông là Ingil.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[27]</a></sup>
 

@@ -81,8 +81,8 @@ Tiêu đề *The Return of the Shadow* là tiêu đề bị loại bỏ cho *The
     - IV. "[Tới trang trại của Maggot và Buckland](To_Maggot's_Farm_and_Buckland.md)"
     - V. "[Cái Khu Rừng Cổ và cái Withywindle](The_Old_Forest_and_the_Withywindle.md)"
     - VI. "[Tom Bombadil](<Tom_Bombadil_(chapter).md>)"
-    - VIII. "[Barrow-wight](The_Barrow-wight.md)"
-    - VIII. "[Đến lúc Bree](../A/Arrival_at_Bree.md)"
+    - VII. "[Barrow-wight](The_Barrow-wight.md)"
+    - VII. "[Đến lúc Bree](../A/Arrival_at_Bree.md)"
     - IX. "[Nước kiệu và hành trình tới Weathertop](Trotter_and_the_Journey_to_Weathertop.md)"
     - X. "[Cuộc tấn công vào Weathertop](The_Attack_on_Weathertop.md)"
     - XI. "[Từ Weathertop tới Ford](../F/From_Weathertop_to_the_Ford.md)"
@@ -93,8 +93,8 @@ Tiêu đề *The Return of the Shadow* là tiêu đề bị loại bỏ cho *The
     - XIV. "[Quay lại Hobbiton](../R/Return_to_Hobbiton.md)"
     - XV. "Lịch sử cổ đại"
     - XVI. “Sự chậm trễ là nguy hiểm”
-    - XVII. "Một đường cắt ngắn cho nấm"
-    - XVIII. "Lại từ Buckland đến Withywindle"
+    - XVIII. "Một đường cắt ngắn cho nấm"
+    - XVIII. "Lại từ Buckland tới Withywindle"
 
 - **Giai đoạn thứ ba**
     - XIX. "Hành trình tới Bree"

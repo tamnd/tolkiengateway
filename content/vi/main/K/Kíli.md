@@ -183,7 +183,7 @@ Kíli đã bị giết cùng với anh trai của mình trong [Trận chiến N�
 
 <dl><dd><blockquote class="tg-quote noexcerpt"></blockquote></dd></dl>
 
-Em trai của Fíli, Kíli là cháu trai trung thành của Thorin Oakenshield. Vô tư và có phần liều lĩnh, Kíli đã có một cuộc sống hạnh phúc và bình yên cho đến thời điểm này. Đẹp trai và có thể chất tốt, Kíli sở hữu lòng dũng cảm bất khả chiến bại của tuổi trẻ. Anh ta là một chiến binh lành nghề và là một cung thủ lão luyện, đã được huấn luyện sử dụng vũ khí ngay từ khi còn nhỏ. Là một trong những người trẻ nhất trong Công ty Người Lùn. Kíli quyết tâm ghi dấu ấn và chứng minh giá trị của mình.
+Em trai của Fíli, Kíli là cháu trai trung thành của Thorin Oakenshield. Vô tư và có phần liều lĩnh, Kíli đã có một cuộc sống hạnh phúc và bình yên cho đến thời điểm này. Đẹp trai và có thể chất tốt, Kíli sở hữu lòng dũng cảm bất khả chiến bại của tuổi trẻ. Anh ta là một chiến binh lành nghề và là một cung thủ lão luyện, đã được huấn luyện sử dụng vũ khí ngay từ khi còn nhỏ. Là một trong những người trẻ nhất trong Công ty Người Lùn. Kíli quyết tâm ghi dấu ấn và chứng tỏ giá trị của mình.
 
 <p class="tg-quote-footer"><cite><a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros.</a><sup id="cite_ref-HobbitApp_17-0" class="reference"><a href="#cite_note-HobbitApp-17">[17]</a></sup></cite></p>
 

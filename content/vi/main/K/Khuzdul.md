@@ -47,7 +47,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a> in <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Ring_Goes_South.md" title="The Ring Goes South">The Ring Goes South</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Khuzdul**, hay **Người lùn**, là ngôn ngữ bí mật của [Người Lùn](../D/Dwarves.md).
+**Khuzdul** hay **Người lùn**, là ngôn ngữ bí mật của [Người Lùn](../D/Dwarves.md).
 
 ## Lịch sử {#History}
 
@@ -71,7 +71,7 @@ Người Lùn sẽ sử dụng lại tên do một số sự kiện, chẳng h�
 
 Người ta nói rằng Người Lùn có hệ thống chữ viết hoặc chạm khắc tượng hình hoặc tượng hình phức tạp, nhưng điều này họ kiên quyết giữ bí mật. Họ không phát minh ra hệ thống bảng chữ cái của riêng mình.<sup id="cite_ref-DM_5-4" class="reference"><a href="#cite_note-DM-5">[5]</a></sup>
 
-Trong khoảng năm đó [Y.T.](../Y/Years_of_the_Trees.md) [1300](../Y/Year_of_the_Trees_1300.md) [Người lùn Belegost](../D/Dwarves_of_Belegost.md) đã tham gia phục vụ [Thingol](../T/Thingol.md) để hỗ trợ việc xây dựng [Menegroth](../M/Menegroth.md);<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> khi ở đó họ biết được [Các cổ ngữ của Daeron](../C/Cirth.md) mà họ rất hài lòng và mang về.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+Trong khoảng năm đó [Y.T.](../Y/Years_of_the_Trees.md) [1300](../Y/Year_of_the_Trees_1300.md) [Người Lùn Belegost](../D/Dwarves_of_Belegost.md) đã tham gia phục vụ [Thingol](../T/Thingol.md) để hỗ trợ việc xây dựng [Menegroth](../M/Menegroth.md);<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> khi ở đó họ biết được [Các cổ ngữ của Daeron](../C/Cirth.md) mà họ rất hài lòng và mang về.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 Vào [Kỷ thứ hai](../S/Second_Age.md), [Râu dài Người Lùn](../D/Durin's_Folk~15256.md) có mối quan hệ và tình bạn thân thiết với Tiên tộc của [Eregion](../E/Eregion.md). Trong lần tiếp xúc này, các Cổ ngữ được Tiên tộc sử dụng đã thu hút sự chú ý của họ và họ đã áp dụng và sửa đổi chúng theo cách sử dụng riêng của mình.<sup id="cite_ref-DM_5-5" class="reference"><a href="#cite_note-DM-5">[5]</a></sup>
 

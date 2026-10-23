@@ -27,7 +27,7 @@ file:
 
 [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) có [Edith Bratt](../../main/E/Edith_Bratt.md) trong một bức ảnh.
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color: var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);">
 <p>The copyright status of this file is <b>unknown</b>. This file will be deleted unless it is assigned a proper <a href="../../project/F/File_licensing_templates.md" title="Tolkien Gateway:File licensing templates">file licensing template</a>.

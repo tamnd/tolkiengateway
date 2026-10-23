@@ -34,7 +34,7 @@ Cùng ngày sinh nhật với [Bilbo](../B/Bilbo_Baggins.md) và [Frodo Baggins]
 - [René van Rossenberg (còn gọi là Parmahosta)](../R/René_van_Rossenberg.md)
 - [Renee Vink](../R/Renée_Vink.md)
 
-## Tụ họp {#Gatherings}
+## Tụ tập {#Gatherings}
 
 Unquendor tổ chức một số sự kiện trên khắp Hà Lan với sự tham dự của khắp đất nước (và trong lịch sử cũng có một số thành viên từ Flanders):
 

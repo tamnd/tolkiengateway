@@ -36,7 +36,7 @@ images:
 
 ## Lịch sử {#History}
 
-Trong gần bốn trăm năm sau khi thành lập, Shire đã là một phần của vùng đất [Arthedain](../A/Arthedain.md)và nằm dưới sự cai trị của vùng đất [Vua](../K/Kings_of_Arthedain.md)đó. Cuối cùng, Arthedain rơi vào tay lực lượng của [Angmar](../A/Angmar.md), và Vua cuối cùng của nó, [Arvedui](../A/Arvedui.md), bị mất vào [T.A.](Third_Age.md) [1975](Third_Age_1975.md),<sup id="cite_ref-TA_2-0" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> khiến [Shire-hobbit](../S/Shire-hobbits.md) không có người cai trị. Họ đã khắc phục điều này bằng cách chọn một thủ lĩnh mới trong số họ, [Bucca của Marish](../B/Bucca_of_the_Marish.md), người được phong tước hiệu *thain*, một từ đơn giản có nghĩa là "thủ lĩnh" trong [phương ngữ của họ](../H/Hobbitish.md).
+Trong gần bốn trăm năm sau khi thành lập, Shire đã là một phần của vùng đất [Arthedain](../A/Arthedain.md)và nằm dưới sự cai trị của [Vua](../K/Kings_of_Arthedain.md)vùng đất đó. Cuối cùng, Arthedain rơi vào tay lực lượng của [Angmar](../A/Angmar.md), và Vua cuối cùng của nó, [Arvedui](../A/Arvedui.md), bị mất vào [T.A.](Third_Age.md) [1975](Third_Age_1975.md),<sup id="cite_ref-TA_2-0" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> khiến [Shire-hobbit](../S/Shire-hobbits.md) không có người cai trị. Họ đã khắc phục điều này bằng cách chọn một thủ lĩnh mới trong số họ, [Bucca của Marish](../B/Bucca_of_the_Marish.md), người được phong tước hiệu *thain*, một từ đơn giản có nghĩa là "thủ lĩnh" trong [phương ngữ của họ](../H/Hobbitish.md).
 
 Vốn là cơ quan quân đội, Thainship quản lý nghiêm ngặt tuyến nam.<sup id="cite_ref-Letter_3-0" class="reference"><a href="#cite_note-Letter-3">[3]</a></sup>
 

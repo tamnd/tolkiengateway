@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>Onnalúmë</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "Thời của những đứa con".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và diễn tả khoảng thời gian (thường được biểu thị bằng *[löar](../L/Löa.md)*) mà việc sinh con trong cuộc đời của người mẹ[tinh](../E/Elves.md), từ lần thụ thai đầu tiên cho đến lần sinh con cuối cùng.
+<i><b>Onnalúmë</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "Thời của những đứa con".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và diễn tả khoảng thời gian (thường được biểu thị bằng *[löar](../L/Löa.md)*) mà việc sinh con trong cuộc đời của người mẹ [tinh](../E/Elves.md), từ lần thụ thai đầu tiên cho đến lần sinh con cuối cùng.
 
 ## Từ nguyên {#Etymology}
 

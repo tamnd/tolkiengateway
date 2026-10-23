@@ -84,7 +84,7 @@ Cuốn sách này bao gồm sự phát triển của [Mở đầu](The_Prologue.
     - IV. "[Lịch](The_Calendars.md)"
     - V. "[Lịch sử của Akallabeth](The_History_of_the_Akallabeth.md)"
     - VI. "[The Tale of Years của Thời đại thứ hai](The_Tale_of_Years_of_the_Second_Age.md)"
-    - VII. "[Những người thừa kế của Elendil](The_Heirs_of_Elendil.md)"
+    - VIII. "[Những người thừa kế của Elendil](The_Heirs_of_Elendil.md)"
     - VIII. "[The Tale of Years của Kỷ Đệ Tam](The_Tale_of_Years_of_the_Third_Age.md)"
     - IX. "[Quá trình hình thành Appendix A](The_Making_of_Appendix_A.md)"
         - (i) Cõi lưu vong

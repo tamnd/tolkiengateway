@@ -71,7 +71,7 @@ Mỗi cái cây là một nguồn ánh sáng: bạc của Telperion và vàng c�
 
 Đếm [Thời gian](Time.md) và [Năm của Cây](../Y/Years_of_the_Trees.md) bắt đầu với ánh sáng đầu tiên của Telperion. Một "ngày" kéo dài mười hai giờ. Lần lượt, mỗi Cây sẽ phát ra ánh sáng trong bảy giờ (đạt đến độ sáng tối đa rồi lại từ từ tàn lụi), để cứ một giờ mỗi cây "bình minh" và "chạng vạng" sẽ cùng nhau tỏa ra ánh sáng vàng và bạc dịu nhẹ.<sup id="cite_ref-Days_1-1" class="reference"><a href="#cite_note-Days-1">[1]</a></sup>
 
-### Tiêu diệt {#Destruction}
+### Tiêu hủy {#Destruction}
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Luis_F._Bejarano_-_The_Darkening_of_Valinor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ee/Luis_F._Bejarano_-_The_Darkening_of_Valinor.jpg/220px-Luis_F._Bejarano_-_The_Darkening_of_Valinor.jpg" decoding="async" loading="lazy" width="220" height="242" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ee/Luis_F._Bejarano_-_The_Darkening_of_Valinor.jpg/330px-Luis_F._Bejarano_-_The_Darkening_of_Valinor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ee/Luis_F._Bejarano_-_The_Darkening_of_Valinor.jpg/440px-Luis_F._Bejarano_-_The_Darkening_of_Valinor.jpg 2x" data-file-width="726" data-file-height="800"/></a><figcaption>&#34;The Darkening of Valinor&#34; by <a href="../L/Luis_F._Bejarano.md" title="Luis F. Bejarano">Luis F. Bejarano</a></figcaption></figure>
 
@@ -83,7 +83,7 @@ Sau khi Melkor và Ungoliant bỏ trốn, Yavanna đến gặp Ezellohar và ph�
 
 [Yavanna](../Y/Yavanna.md) đã hát và [Nienna](../N/Nienna.md) khóc, nhưng cuối cùng họ chỉ thành công trong việc hồi sinh bông hoa cuối cùng của Telperion (trở thành [Mặt Trăng](../M/Moon.md)) và trái cây cuối cùng của Laurelin(trở thành [Mặt Trời](../S/Sun.md)). Những thứ này lần lượt được giao cho [những linh hồn kém cỏi hơn](../M/Maiar.md), [Tilion](Tilion.md) và [Arien](../A/Arien.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Tuy nhiên, ánh sáng thực sự của Cây, trước khi bị Ungoliant đầu độc, được cho là hiện chỉ tồn tại trong [Silmaril](../S/Silmarils.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Người ta nói rằng theo [Lời Tiên tri Thứ hai của Mandos](../S/Second_Prophecy_of_Mandos.md), sau khi Trái đất tan vỡ, ánh sáng của Silmaril sẽ được Yavanna sử dụng để thắp lại Hai Cây, thứ sẽ thắp sáng cả thế giới.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Tuy nhiên, ánh sáng thực sự của Cây, trước khi bị Ungoliant đầu độc, được cho là hiện chỉ tồn tại trong [Silmaril](../S/Silmarils.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Người ta nói rằng theo [Lời tiên tri thứ hai của Mandos](../S/Second_Prophecy_of_Mandos.md), sau khi Trái đất tan vỡ, ánh sáng của Silmaril sẽ được Yavanna sử dụng để thắp lại Hai Cây, thứ sẽ thắp sáng cả thế giới.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Di sản {#Legacy}
 

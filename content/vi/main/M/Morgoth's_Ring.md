@@ -85,7 +85,7 @@ Tiêu đề của tập sách này xuất phát từ một tuyên bố trong m�
         - IV. "Của Thingol và Melian"
         - V. "Của Eldanor và các hoàng tử của Eldalië"
         - VI. "Của Silmaril và Bóng tối của Valinor"
-        - VII. "Về chuyến bay của Noldor"
+        - VIII. "Về chuyến bay của Noldor"
         - VIII. "Về Mặt Trời và Mặt Trăng và Sự ẩn giấu của Valinor"
     - Giai đoạn thứ hai
         - "Vaquenta"

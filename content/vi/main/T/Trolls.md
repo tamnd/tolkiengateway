@@ -100,7 +100,7 @@ Sự tham gia của Troll vào [Cuộc chiến Châu báu](../W/Wars_of_Belerian
 
 Chủ nhà của [Angband](../A/Angband.md) đã tấn công và tiêu diệt toàn bộ hậu quân của anh em [Húrin](../H/Húrin.md) và [Huor](../H/Huor.md) cùng tàn quân [Con Người](../E/Edain.md) của [Nhà Hador](../H/House_of_Hador.md) từ [Dor-lómin](../D/Dor-lómin.md) ngoại trừ Húrin tại sông [Rivil](../R/Rivil.md).
 
-Khi Húrin là người cuối cùng đứng vững, anh ta vứt bỏ khiên và nắm chặt rìu bằng cả hai tay. Một [bài hát](<../N/Narn_i_Chîn_Húrin_(tale).md>) kể rằng chiếc rìu của anh ta bốc khói trong máu đen của lũ bảo vệ Troll của [Gothmog](<../G/Gothmog_(balrog).md>), Chúa tể của [Balrog](../B/Balrogs.md) và Thuyền trưởng cấp cao của Angband cho đến khi cuối cùng anh ta bị Orc bắt sống theo lệnh của Morgoth, bị trói bởi Gothmog và bị kéo đến Angband.<sup id="cite_ref-Fifth_7-0" class="reference"><a href="#cite_note-Fifth-7">[6]</a></sup>
+Khi Húrin là người cuối cùng đứng vững, anh ta ném chiếc khiên của mình đi và nắm chặt chiếc rìu của mình bằng cả hai tay. Một [bài hát](<../N/Narn_i_Chîn_Húrin_(tale).md>) kể rằng chiếc rìu của anh ta bốc khói trong máu đen của lũ bảo vệ Troll của [Gothmog](<../G/Gothmog_(balrog).md>), Chúa tể của [Balrog](../B/Balrogs.md) và Thuyền trưởng cấp cao của Angband cho đến khi cuối cùng anh ta bị Orc bắt sống theo lệnh của Morgoth, bị trói bởi Gothmog và bị kéo đến Angband.<sup id="cite_ref-Fifth_7-0" class="reference"><a href="#cite_note-Fifth-7">[6]</a></sup>
 
 ### Thứ hai và Kỷ Đệ Tam {#Second_and_Third_Ages}
 

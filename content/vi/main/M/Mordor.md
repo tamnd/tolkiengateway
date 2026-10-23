@@ -75,7 +75,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../R/Ring_Verse.md" title="Ring Verse">Ring Verse</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Mordor** là vùng đất ở phía đông nam [các vùng đất phía Tây](../W/Westlands.md) phía đông [Gondor](../G/Gondor.md). Trong hầu hết [Thứ hai](../S/Second_Age.md) và [Kỷ Đệ Tam](../T/Third_Age.md), nó được cai trị bởi [Sauron](../S/Sauron.md) và đây là nơi ở và căn cứ của anh ta mà từ đó anh ta cố gắng chinh phục [Trung Địa](Middle-earth.md).
+**Mordor** là vùng đất ở phía đông nam của [Westlands](../W/Westlands.md) phía đông [Gondor](../G/Gondor.md). Trong hầu hết [Thứ hai](../S/Second_Age.md) và [Kỷ Đệ Tam](../T/Third_Age.md), nó được cai trị bởi [Sauron](../S/Sauron.md) và đây là nơi ở và căn cứ của anh ta mà từ đó anh ta cố gắng chinh phục [Trung Địa](Middle-earth.md).
 
 Mordor được bao quanh bởi ba rặng núi khổng lồ từ phía Bắc, từ Phương Tây và từ phía Nam, bảo vệ nó khỏi một cuộc xâm lược bất ngờ của bất kỳ [các Dân tộc Tự do](../F/Free_peoples~19934.md)nào.
 
@@ -115,7 +115,7 @@ Trong khi đó Mordor đã chuẩn bị sẵn sàng cho anh ta từ lâu và tuy
 
 ### Cuộc chiến Nhẫn {#War_of_the_Ring}
 
-Trong Cuộc chiến Nhẫn, Sauron đã tập hợp toàn bộ lực lượng của mình để Mordor. Sau [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), Đạo quân phương Tây đã chuyển đến Cổng Đen. Sauron cử quân đi tiêu diệt Con Người của Gondor và Rohan, nhưng sau đó [Frodo Baggins](../F/Frodo_Baggins.md) phá hủy Nhẫn Chúa và Mordor thất thủ. Tháp Bóng tối, Cổng Đen và Tháp Răng sụp đổ thành đống đổ nát. Núi Doom phát nổ. Cả Sauron và Nazgûl của anh ta rõ ràng đã bị phá hủy.
+Trong Cuộc chiến Nhẫn, Sauron đã tập hợp toàn bộ lực lượng của mình để Mordor. Sau [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), Đạo quân Phương Tây đã chuyển đến Cổng Đen. Sauron cử quân đi tiêu diệt Con Người của Gondor và Rohan, nhưng sau đó [Frodo Baggins](../F/Frodo_Baggins.md) phá hủy Nhẫn Chúa và Mordor thất thủ. Tháp Bóng tối, Cổng Đen và Tháp Răng sụp đổ thành đống đổ nát. Núi Doom phát nổ. Cả Sauron và Nazgûl của anh ta rõ ràng đã bị phá hủy.
 
 Sau thất bại cuối cùng của Sauron, Mordor lại trở nên gần như trống rỗng khi [Orc](../O/Orcs.md) bên trong nó bỏ chạy hoặc bị giết. Bị tê liệt bởi hàng ngàn năm bị lạm dụng và bỏ mặc, nhưng có khả năng duy trì sự sống, vùng đất Mordor được trao cho những kẻ thù bị đánh bại của Gondor như một niềm an ủi, cũng như cho những nô lệ được giải phóng của Nurn, những người trước đây bị buộc phải làm nông nghiệp ở đó để nuôi quân đội của Mordor.
 

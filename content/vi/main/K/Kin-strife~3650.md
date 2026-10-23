@@ -49,7 +49,7 @@ images:
 </p>
 </small></td></tr></tbody></table>
 
-**Xung đột họ tộc** là một cuộc nội chiến thảm khốc ở [Gondor](../G/Gondor.md).
+**Xung đột họ hàng** là một cuộc nội chiến thảm khốc ở [Gondor](../G/Gondor.md).
 
 ## Lịch sử {#History}
 

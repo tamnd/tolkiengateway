@@ -54,7 +54,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Hội Tolkien được thành lập vào năm 1969 bởi [Vera Chapman](../V/Vera_Chapman.md), một giáo viên/công chức đã nghỉ hưu có trình độ học vấn [Oxford](../U/University_of_Oxford.md), người kinh hoàng trước việc sáp nhập các tác phẩm của Tolkien bởi 'các tác phẩm hướng đến ma túy của giới hippie',<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> đã quyết định thành lập một nhóm dành riêng cho việc đánh giá thực sự các tác phẩm của Tolkien.
+Hội Tolkien được thành lập vào năm 1969 bởi [Vera Chapman](../V/Vera_Chapman.md), một giáo viên/công chức đã nghỉ hưu có trình độ học vấn [Oxford](../U/University_of_Oxford.md), người kinh hoàng trước việc sáp nhập các tác phẩm của Tolkien bởi 'các tác phẩm thiên về ma túy của giới hippie',<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> đã quyết định thành lập một nhóm dành riêng cho việc đánh giá thực sự các tác phẩm của Tolkien.
 
 Vào [ngày 6 tháng 11](../_/6_November.md) [1969](../_/1969.md), Chapman tuyên bố thành lập Hiệp hội Tolkien tại Vương quốc Anh tại *New Statesman*.<sup id="cite_ref-CGII_6-0" class="reference"><a href="#cite_note-CGII-6">[6]</a></sup> Ban đầu có trụ sở tại London, Hiệp hội sẽ họp tại căn hộ ở Bắc Luân Đôn của Chapman; họ giữ liên lạc qua một bản tin được sao chụp có tên *[Belladonna's Broadsheet](../B/Belladonna's_Broadsheet.md)* (Chapman đã lấy tên "[Belladonna Took](../B/Belladonna_Took.md)" làm bí danh Trung Địa của cô), được xuất bản lần đầu vào tháng 12 năm 1969.<sup id="cite_ref-CGII_6-1" class="reference"><a href="#cite_note-CGII-6">[6]</a></sup> Cuộc họp khai mạc của Hiệp hội được tổ chức vào tháng 1 [1970](../_/1970.md),<sup id="cite_ref-CGII_6-2" class="reference"><a href="#cite_note-CGII-6">[6]</a></sup> và điều lệ của nó đã được phê chuẩn vào [15 tháng 1](../_/15_January.md) [1972](../_/1972.md).
 
@@ -68,7 +68,7 @@ Trong [2025](../_/2025.md) Hiệp hội được tái cơ cấu thành một <a 
 
 ## Quan hệ với J.R.R. Tolkien {#Relations_with_J.R.R._Tolkien}
 
-Vào năm 1972 <a class="extiw" href="http://en.wikipedia.org/wiki/New_Year_Honours" title="wikipedia:New Year Honours">Danh hiệu Năm mới</a>, Tolkien được phong làm [CBE](../O/Order_of_the_British_Empire.md) (Tư lệnh của Huân chương Đế quốc Anh) chỉ hai ngày trước ngày sinh nhật của ông. [Allen & Unwin](../A/Allen_and_Unwin.md) đã khuyến khích Hiệp hội Tolkien viết thư cho Tolkien nhân dịp này và họ đã gửi bức điện sau:
+Vào năm 1972 <a class="extiw" href="http://en.wikipedia.org/wiki/New_Year_Honours" title="wikipedia:New Year Honours">Danh hiệu Năm mới</a>, Tolkien được phong làm [CBE](../O/Order_of_the_British_Empire.md) (Tư lệnh của Huân chương Đế quốc Anh) chỉ hai ngày trước ngày sinh nhật của ông. [Allen &amp; Unwin](../A/Allen_and_Unwin.md) đã khuyến khích Hội Tolkien viết thư cho Tolkien nhân dịp này và họ đã gửi bức điện sau:
 
 <blockquote class="tg-quote noexcerpt">
 <p>CONGRATULATIONS ON 80TH BIRTHDAY AND HONOUR. ANOTHER 50 YEARS TO BEAT THE OLD TOOK.<br/>THE TOLKIEN SOCIETY (IN BRITAIN)

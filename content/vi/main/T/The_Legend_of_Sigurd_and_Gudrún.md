@@ -99,7 +99,7 @@ Cuốn sách cũng bao gồm hai bài thơ ngắn hơn, có liên quan trong [ti
     - IV. *Fæddr Sigurðr* (Sigurd Sinh ra)
     - V. *Regin* (Trị vì)
     - VI. *Brynhildr* (Brynhild)
-    - VII. *Guðrún* (Gudrún)
+    - VIII. *Guðrún* (Gudrún)
     - VIII. *Svikin Brynhildr* (Brynhild Bị Phản Bội)
     - IX. *Deild* (Xung đột)
 

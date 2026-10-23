@@ -68,7 +68,7 @@ infobox:
 
 <i><b>The History of The Hobbit</b></i> là một nghiên cứu gồm hai tập về tiểu thuyết *[The Hobbit](The_Hobbit.md)*của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được xuất bản trên [2007](../_/2007.md).
 
-Nó chứa các bản thảo tiểu thuyết chưa xuất bản của Tolkien, với lời bình của [John D. Rateliff](../J/John_D._Rateliff.md). Nó cũng nêu chi tiết các sửa đổi khác nhau của Tolkien đối với *The Hobbit*, bao gồm các sửa đổi bị bỏ dở cho ấn bản thứ ba chưa được xuất bản của tác phẩm, dự định cho năm 1960, cũng như các bản đồ và hình minh họa gốc chưa được xuất bản trước đây do chính Tolkien vẽ.
+Nó chứa các bản thảo tiểu thuyết chưa được xuất bản của Tolkien, với lời bình của [John D. Rateliff](../J/John_D._Rateliff.md). Nó cũng nêu chi tiết các sửa đổi khác nhau của Tolkien đối với *The Hobbit*, bao gồm các sửa đổi bị bỏ dở cho ấn bản thứ ba chưa được xuất bản của tác phẩm, dự định cho năm 1960, cũng như các bản đồ và hình minh họa gốc chưa được xuất bản trước đây do chính Tolkien vẽ.
 
 Một phiên bản viết tắt đã được [HarperCollins](../H/HarperCollins.md) xuất bản trong [2015](../_/2015.md) dưới dạng <i><b><a href="../A/A_Brief_History_of_The_Hobbit.md" title="A Brief History of The Hobbit">Lịch sử tóm tắt về The Hobbit</a></b></i>. Phiên bản này giữ lại văn bản của Tolkien và các ghi chú văn bản do Rateliff cung cấp nhưng bỏ qua các bài tiểu luận của ông về các khía cạnh khác nhau của văn bản.
 

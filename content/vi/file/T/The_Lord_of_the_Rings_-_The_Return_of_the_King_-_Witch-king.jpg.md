@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Vua Phù thủy](../../main/W/Witch-king.md) của [Angmar](../../main/A/Angmar.md) tại [Trận Cánh đồng Pelennor](../../main/B/Battle_of_the_Pelennor_Fields.md). Ảnh chụp màn hình từ *[The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
+[Vua Phù thủy](../../main/W/Witch-king.md) của [Angmar](../../main/A/Angmar.md) tại [Trận cánh đồng Pelennor](../../main/B/Battle_of_the_Pelennor_Fields.md). Ảnh chụp màn hình từ *[The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
 
 ## Giấy phép {#Licensing}
 

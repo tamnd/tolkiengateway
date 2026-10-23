@@ -57,7 +57,7 @@ infobox:
 
 *The Lord of the Rings: Lối chơi của Battle for Middle Earth* chứa đựng nhiều nguyên lý cốt lõi của một RTS điển hình như góc nhìn camera "mắt thần" từ trên xuống, thu thập tài nguyên, xây dựng các tòa nhà căn cứ cũng như sự phát triển và chiến đấu của quân đội. Nó cũng áp dụng xu hướng của các trò chơi RTS hiện đại mới hơn như dòng *Total War*, trong đó có cơ chế tuyển dụng các đơn vị tiêu chuẩn dưới dạng đội thay vì được tuyển dụng dưới dạng chiến binh đơn lẻ, trong khi các đơn vị "Anh hùng" đơn lẻ mạnh mẽ có thể được tuyển dụng với chi phí cao hơn.
 
-Tuy nhiên, trò chơi có sự khác biệt đáng chú ý so với các quy ước RTS truyền thống hơn. Ví dụ: việc thu thập tài nguyên được sắp xếp hợp lý để chỉ yêu cầu thu thập một tài nguyên duy nhất thay vì *Age of Empires'* năm tài nguyên thông thường hơn. *The Battle for Middle Earth* cũng thực hiện yêu cầu xây dựng trên các lô đất định trước thay vì có thể đặt căn cứ một cách tự do. Những âm mưu này bắt đầu như những trại đơn giản, từ từ xây dựng thành các tiền đồn và cuối cùng mở rộng thành các lâu đài kiên cố khi người chơi tiếp tục thu thập thêm tài nguyên và tích lũy kinh nghiệm bằng cách tiêu diệt kẻ thù.
+Tuy nhiên, trò chơi có sự khác biệt đáng chú ý so với các quy ước RTS truyền thống hơn. Ví dụ: việc thu thập tài nguyên được sắp xếp hợp lý để chỉ yêu cầu thu thập một tài nguyên duy nhất thay vì *Age of Empires'* năm tài nguyên thông thường hơn. *The Battle for Middle Earth* cũng thực hiện yêu cầu xây dựng trên các lô đất định sẵn thay vì có thể đặt căn cứ một cách tự do. Những âm mưu này bắt đầu như những trại đơn giản, từ từ xây dựng thành các tiền đồn và cuối cùng mở rộng thành các lâu đài kiên cố khi người chơi tiếp tục thu thập thêm tài nguyên và tích lũy kinh nghiệm bằng cách tiêu diệt kẻ thù.
 
 Điểm mạnh và điểm yếu của các đơn vị tạo thành một hệ thống giống như oẳn tù tì. Ví dụ: Kiếm sĩ đánh thương thương, giáo đánh kỵ binh, kỵ binh đánh cung thủ, cung thủ đánh kiếm sĩ. Khi các đơn vị tiêu diệt các đơn vị khác, họ sẽ nhận được kinh nghiệm và cấp độ, trở nên mạnh mẽ hơn khi thăng cấp, với hầu hết các đơn vị đều có các nâng cấp có thể mua được. Các đơn vị anh hùng có những khả năng đặc biệt cũng có thể được mua bằng điểm kinh nghiệm. Các đơn vị bình thường cũng có thể có các khả năng như thay đổi vũ khí, thay đổi đội hình và kết hợp với các loại đơn vị khác.
 
@@ -67,11 +67,11 @@ Trò chơi có bốn phe, trong đó hai phe thuộc phe "Thiện" và hai phe t
 
 Bên "Tốt" chứa [Rohan](../R/Rohan.md), tập trung vào Kỵ sĩ và Cung thủ và cung cấp phong cách chỉ huy chiến lược hơn. Nó cũng có tính năng [Gondor](../G/Gondor.md), tập trung vào phòng thủ nhưng có các đơn vị đắt tiền.
 
-Phe "Ác ma" chứa [Isengard](../I/Isengard.md), những đơn vị có giá khá rẻ, thay vào đó tập trung vào tiến bộ công nghệ. [Mordor](../M/Mordor.md) tập trung vào các nhóm đơn vị yếu hơn nhưng đông đảo, yêu cầu người chơi phải áp đảo đối thủ bằng đám [Orc](../O/Orcs.md) và [Easterlings](../E/Easterlings.md).
+Bên "Ác ma" chứa [Isengard](../I/Isengard.md), những đơn vị của chúng khá rẻ tiền, thay vào đó tập trung vào tiến bộ công nghệ. [Mordor](../M/Mordor.md) tập trung vào các nhóm đơn vị yếu hơn nhưng đông đảo, yêu cầu người chơi phải áp đảo đối thủ bằng đám [Orc](../O/Orcs.md) và [Easterlings](../E/Easterlings.md).
 
 ## Chế độ trò chơi {#Game_modes}
 
-Trò chơi có hai chế độ chơi chính là Chơi một mình và Nhiều người chơi. Chơi Solo bao gồm Chế độ Chiến dịch và Chế độ Giao tranh, trong khi Nhiều người chơi cho phép tham gia các trận đấu trực tuyến và mạng LAN. Ngoài ra còn có Chế độ trường học chiến đấu, đóng vai trò là hướng dẫn của trò chơi và bao gồm một số trò chơi và đoạn phim được ghi sẵn để chỉ cho người chơi những kiến ​​​​thức cơ bản về cách chơi chế độ Chiến dịch và Giao tranh.
+Trò chơi có hai chế độ chơi chính là Chơi một mình và Nhiều người chơi. Chơi Solo bao gồm Chế độ Chiến dịch và Chế độ Giao tranh, trong khi Nhiều người chơi cho phép các trận đấu trực tuyến và mạng LAN. Ngoài ra còn có Chế độ trường học chiến đấu, đóng vai trò là hướng dẫn của trò chơi và bao gồm một số trò chơi và đoạn phim được ghi sẵn để chỉ cho người chơi những kiến ​​​​thức cơ bản về cách chơi chế độ Chiến dịch và Giao tranh.
 
 ### Chiến dịch {#Campaign}
 
@@ -115,7 +115,7 @@ Giờ đây, Chiếc Nhẫn Chúa đã được lấy lại, sự sụp đổ c�
 
 ### Cuộc giao tranh {#Skirmish}
 
-Chế độ Skirmish là chế độ chiến đấu thông thường trong chiến dịch, nơi người ta có thể đấu với CPU hoặc người chơi khác (đối với Chế độ nhiều người chơi). Hệ thống này sử dụng hệ thống Bản đồ chiến đấu tùy chỉnh, sử dụng bản đồ chiến dịch mà không có mục tiêu cụ thể. Mục tiêu là đánh bại từng người chơi của kẻ thù bằng cách phá hủy tất cả các khu định cư của chúng (lâu đài, trại và tiền đồn).
+Chế độ giao tranh là chế độ chiến đấu thông thường trong chiến dịch, nơi người ta có thể đấu với CPU hoặc người chơi khác (đối với Chế độ nhiều người chơi). Hệ thống này sử dụng hệ thống Bản đồ chiến đấu tùy chỉnh, sử dụng bản đồ chiến dịch mà không có mục tiêu cụ thể. Mục tiêu là đánh bại từng người chơi của kẻ thù bằng cách phá hủy tất cả các khu định cư của chúng (lâu đài, trại và tiền đồn).
 
 Đối với Chế độ giao tranh một người chơi, trò chơi cung cấp hệ thống thăng cấp cho từng phe, trong đó người chơi tăng cấp độ của mình bằng cách chiến thắng CPU tùy thuộc vào mức độ khó. Hệ thống thăng cấp này không cung cấp bất kỳ tính năng bổ sung nào cho lối chơi, chỉ phục vụ như một cách để đo điểm của người chơi bằng cách sử dụng một phe cụ thể.
 

@@ -43,7 +43,7 @@ infobox:
 
 *The Wizards* đề cập đến phe *good* và bao gồm hầu hết các nhân vật chính trong sách, như [Gandalf](../G/Gandalf.md), [Frodo](../F/Frodo_Baggins.md) và [Aragorn](../A/Aragorn.md). Bộ này có lối chơi khá đơn giản với các thẻ *marshalling point* và *hazard creatures*tương đối đơn giản.
 
-*The Wizards* đã được bán dưới dạng gói khởi đầu và gói tăng cường. Một gói tăng cường (15 thẻ, 36 thẻ tăng cường trên mỗi màn hình) chứa 1 thẻ hiếm, 3 thẻ thông thường và 11 thẻ chung. Người khởi đầu giữ một bộ cố định (ngẫu nhiên), 3 món hiếm, 9 món không phổ biến và 40 món chung. [người bạn đồng hành](Middle-earth%253A_The_Wizards_Companion.md) và [hướng dẫn người chơi](Middle-earth%253A_The_Wizards_Player_Guide.md) tương ứng cũng đã được phát hành.
+*The Wizards* đã được bán dưới dạng gói khởi đầu và gói tăng cường. Một gói tăng cường (15 thẻ, 36 thẻ tăng cường trên mỗi màn hình) chứa 1 thẻ hiếm, 3 thẻ thông thường và 11 thẻ chung. Người khởi đầu giữ một bộ cố định (ngẫu nhiên), 3 món hiếm, 9 món không phổ biến và 40 món chung. [Người đồng hành](Middle-earth%253A_The_Wizards_Companion.md) và [hướng dẫn người chơi](Middle-earth%253A_The_Wizards_Player_Guide.md) tương ứng cũng đã được phát hành.
 
 ## Danh sách thẻ {#Card_list}
 

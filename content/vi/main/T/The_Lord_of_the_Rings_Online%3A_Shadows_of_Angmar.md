@@ -152,7 +152,7 @@ Bạn được [Halbarad](../H/Halbarad.md) yêu cầu hỗ trợ phòng thủ N
 
 ### Quyển V - Nơi ẩn náu cuối cùng {#Book_V_-_The_Last_Refuge}
 
-Việc tìm kiếm [Nazgûl](../N/Nazgûl.md) sẽ đưa bạn đến thành trì cuối cùng của Skorgrim và Dourhands. Một cuộc tấn công do Gimli chỉ huy sẽ dẫn đến sự sụp đổ của Skorgrim và Dourhands. Nhưng Nazgûl đã trốn đến Helegrod, nơi Rồng Thorog cổ đại đã được hồi sinh để phục vụ [Chúa tể Bóng tối](../S/Sauron.md). Bạn đến đúng lúc để ngăn chặn Nazgûl, đánh bại hắn và khiến Rồng trở nên vô hại vào lúc này. Bây giờ Rivendell đã an toàn, đã đến lúc chuyển sang [Angmar](../A/Angmar.md).
+Việc tìm kiếm [Nazgûl](../N/Nazgûl.md) sẽ đưa bạn đến thành trì cuối cùng của Skorgrim và Dourhands. Một cuộc tấn công do Gimli chỉ huy sẽ dẫn đến sự sụp đổ của Skorgrim và Dourhands. Nhưng Nazgûl đã trốn đến Helegrod, nơi Rồng Thorog cổ xưa đã được hồi sinh để phục vụ [Chúa tể Bóng tối](../S/Sauron.md). Bạn đến đúng lúc để ngăn chặn Nazgûl, đánh bại hắn và khiến Rồng trở nên vô hại vào lúc này. Bây giờ Rivendell đã an toàn, đã đến lúc chuyển sang [Angmar](../A/Angmar.md).
 
 ### Quyển VI - Hỏa hoạn ở miền Bắc {#Book_VI_-_Fires_in_the_North}
 
@@ -183,7 +183,7 @@ Cập nhật bao gồm:
 
 Bản cập nhật nội dung miễn phí thứ hai được phát hành vào ngày 21 tháng 8 năm 2007 tại Bắc Mỹ và vào ngày 24 tháng 8 năm 2007 tại Châu Âu.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
-Một trận chiến lớn ở Annúminas xảy ra sau đó, [Tiên](../E/Elves.md) Laerdan thông thái đề nghị phục vụ Calenglad. Một trong những thuyền trưởng của Amarthiel bị bắt, nhưng trong khi bị giam cầm, anh ta chọc giận Laerdan, khiến Tiên quyết định tự mình chiến đấu với Amarthiel nhằm bù đắp những lỗi lầm trong quá khứ. Một lần nữa những Người Tự do lại bị Amarthiel và những người hầu của cô ta lừa. Cùng với Rangers of Evendim, bạn có thể giành lấy *palantír* khỏi nanh vuốt của Amarthiel, nhưng Laerdan đã bị mất. Nhưng bên trong *palantír*, Amarthiel thoáng nhìn thấy Narchuil, chiếc nhẫn cổ xưa của cô, nằm ở đâu. Bây giờ cô quyết tâm sở hữu sức mạnh của nó một lần nữa.
+Một trận chiến lớn ở Annúminas xảy ra sau đó, [Tiên](../E/Elves.md) Laerdan thông thái đề nghị phục vụ Calenglad. Một trong những thuyền trưởng của Amarthiel bị bắt, nhưng trong khi bị giam cầm, anh ta chọc giận Laerdan, khiến Tiên quyết định tự mình chiến đấu với Amarthiel nhằm bù đắp những lỗi lầm trong quá khứ. Một lần nữa những Người Tự do lại bị Amarthiel và những người hầu của cô ta lừa. Cùng với Rangers of Evendim, bạn có thể giành được *palantír* khỏi nanh vuốt của Amarthiel, nhưng Laerdan đã bị mất. Nhưng bên trong *palantír*, Amarthiel thoáng nhìn thấy Narchuil, chiếc nhẫn cổ xưa của cô, nằm ở đâu. Bây giờ cô quyết tâm sở hữu sức mạnh của nó một lần nữa.
 
 Cập nhật bao gồm:
 
@@ -214,7 +214,7 @@ Amarthiel đã vận chuyển Laerdan đến Angmar, nơi cô biết được t�
 
 ### Quyển XIII: Ngày tận thế-Vua {#Book_XIII:_Doom_of_the_Last-King}
 
-Bản cập nhật nội dung miễn phí thứ năm được phát hành vào ngày 24 tháng 4 năm 2008 ở Bắc Mỹ và vào ngày 1 tháng 5 năm 2008 ở Châu Âu.
+Bản cập nhật nội dung miễn phí thứ năm được phát hành vào ngày 24 tháng 4 năm 2008 tại Bắc Mỹ và vào ngày 1 tháng 5 năm 2008 tại Châu Âu.
 
 Đang cố gắng tìm hiểu thêm về nửa còn lại của Narchuil, bạn sẽ được đưa đến [Forochel](../F/Forochel.md). Tuy nhiên lực lượng của Amarthiel đã đến và đang tìm kiếm. Trong nỗ lực tìm kiếm chiếc nhẫn trước Angmarim, người chơi nhận được sự trợ giúp từ Ghost của [Arvedui](../A/Arvedui.md). Trong chương cuối cùng, có vẻ như Mordrambor đã phản bội Amarthiel; cả hai bắt đầu chiến đấu và biến mất khỏi tầm nhìn. Sau đó, người chơi lấy nửa sau của Narchuil và trả lại cho Rivendell.
 
@@ -228,7 +228,7 @@ Bản cập nhật nội dung miễn phí thứ năm được phát hành vào n
 
 Bản cập nhật nội dung miễn phí thứ sáu được phát hành vào ngày 22 tháng 7 năm 2008 tại Bắc Mỹ. Nó được phát hành vào ngày 24 tháng 7 năm 2008 tại Châu Âu.
 
-Vẫn đang tìm cách cứu Narmeleth, Laerdan du hành cùng hai nửa Narchuil đến [Eregion](../E/Eregion.md). Amarthiel dụ anh ta vào, đòi lại Narchuil cho riêng mình. Elrond gửi nhiều Sứ giả Rivendell đến mọi ngóc ngách của [Eriador](../E/Eriador.md) để giúp anh ta tìm kiếm truyền thuyết về Chiếc nhẫn bị thất lạc. Nhưng mọi nỗ lực đều đã quá muộn, vì Narchuil đã được rèn luyện lại khi Người Tự do đạt tới Eregion. Mọi chuyện nhanh chóng trở nên rõ ràng rằng không ai có thể chống lại Narchuil, cho đến khi Mordrambor, người hầu cũ của Amarthiel, đến. Họ đi ra ngoài, nơi Mordirith đến. Mordirith nắm quyền một lần nữa, nhưng Amarthiel không đầu hàng và tin rằng cô có thể đánh bại anh ta bằng Narchuil. Nhưng Mordirith có sức mạnh của Vua Phù thủy và đánh bại cô ấy. Mordrambor tuyên bố Narchuil là của riêng mình, và khi anh ta chuẩn bị kết liễu Amarthiel thì Laerdan xuất hiện. Bây giờ anh ấy biết Mordirith thực sự là [Eärnur](../E/Eärnur.md), Vua cuối cùng của [Gondor](../G/Gondor.md). Mordirith ra lệnh cho Mordrambor giết Laerdan, sau đó cả hai rời đi. Amarthiel đang khóc thương cha mình và bị Người Tự do bắt giữ.
+Vẫn đang tìm cách cứu Narmeleth, Laerdan du hành cùng hai nửa Narchuil tới [Eregion](../E/Eregion.md). Amarthiel dụ anh ta vào, đòi lại Narchuil cho riêng mình. Elrond gửi nhiều Sứ giả Rivendell đến mọi ngóc ngách của [Eriador](../E/Eriador.md) để giúp anh ta tìm kiếm truyền thuyết về Chiếc nhẫn bị thất lạc. Nhưng mọi nỗ lực đều đã quá muộn, vì Narchuil đã được rèn luyện lại khi Người Tự do đạt tới Eregion. Mọi chuyện nhanh chóng trở nên rõ ràng rằng không ai có thể chống lại Narchuil, cho đến khi Mordrambor, người hầu cũ của Amarthiel, đến. Họ đi ra ngoài, nơi Mordirith đến. Mordirith nắm quyền một lần nữa, nhưng Amarthiel không đầu hàng và tin rằng cô có thể đánh bại anh ta bằng Narchuil. Nhưng Mordirith có sức mạnh của Vua Phù thủy và đánh bại cô ấy. Mordrambor tuyên bố Narchuil là của riêng mình, và khi anh ta chuẩn bị kết liễu Amarthiel thì Laerdan xuất hiện. Bây giờ anh ấy biết Mordirith thực sự là [Eärnur](../E/Eärnur.md), Vua cuối cùng của [Gondor](../G/Gondor.md). Mordirith ra lệnh cho Mordrambor giết Laerdan, sau đó cả hai rời đi. Amarthiel đang khóc thương cha mình và bị Người Tự do bắt giữ.
 
 Đã bao gồm các bản cập nhật (<a class="external text" href="http://lorebook.lotro.com/wiki/Release_Notes_Book_14_Official" rel="noreferrer noopener" target="_blank">ghi chú phát hành đầy đủ</a>):
 

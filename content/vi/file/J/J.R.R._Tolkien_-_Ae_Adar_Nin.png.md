@@ -27,7 +27,7 @@ file:
 
 Những ghi chú viết tay của Tolkien về "[Ae Adar Nín](../../main/A/Ae_Adar_Nín.md)", xuất hiện dưới dạng minh họa trang bìa trên [*Tolkien Studies*: Tập 4](../../main/T/Tolkien_Studies%253A_Volume_4.md).
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.tolkienestate.com/" rel="noreferrer noopener" target="_blank">The Tolkien Estate</a>. It is believed that the limited use of this file,
