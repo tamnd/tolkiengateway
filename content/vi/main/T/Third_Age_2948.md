@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sinh ra [Théoden](Théoden.md) ở [Gondor](../G/Gondor.md), con trai của [Vua](../K/Kings_of_Rohan.md) [Thengel](Thengel.md) của [Rohan](../R/Rohan.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Sinh [Théoden](Théoden.md) năm [Gondor](../G/Gondor.md), con trai [Vua](../K/Kings_of_Rohan.md) [Thengel](Thengel.md) [Rohan](../R/Rohan.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - Sự ra đời của [Seredic Brandybuck](../S/Seredic_Brandybuck.md), con trai của [Saradas Brandybuck](../S/Saradas_Brandybuck.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - Sự ra đời của [Porto Baggins](../P/Porto_Baggins.md), con thứ hai và con trai của [Posco Baggins](../P/Posco_Baggins.md) và [Gilly Brownlock](../G/Gilly_Brownlock.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 - Cái chết của [Donnamira Took](../D/Donnamira_Took.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>

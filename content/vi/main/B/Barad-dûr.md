@@ -183,7 +183,7 @@ Các dạng [Quenya](../Q/Quenya.md) của *Barad-dûr* là *Taras Lúna* (“Th
 
 <dl><dd>Barad-dûr is portrayed as a simple fortress. During a <a href="../T/The_One_Ring.md" title="The One Ring">ring</a>-induced dream, <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> dreams of taking the Ring and storming the Tower, but his common sense gains the upper hand in time.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></dd></dl>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (1981 radio series)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
 <dl><dd>Barad-dûr is one of the first sites visited. After the <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> captures <a href="../G/Gollum.md" title="Gollum">Gollum</a> snooping on the edge of Mordor, the <a href="../M/Mouth_of_Sauron.md" title="Mouth of Sauron">Mouth of Sauron</a> questions the creature in the Dark Tower.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></dd></dl>
 
@@ -196,15 +196,15 @@ Các dạng [Quenya](../Q/Quenya.md) của *Barad-dûr* là *Taras Lúna* (“Th
 
 <dl><dd>The Tower is briefly visible in the opening scene. <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> narrates a vision from her <a href="../M/Mirror_of_Galadriel.md" title="Mirror of Galadriel">Mirror</a>. It is only referred to as &#34;The Dark Tower of Mordor&#34;, and it is the base of the <a href="../N/Nazgûl.md" title="Nazgûl">Ringwraiths</a> (as opposed to <a href="../M/Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a>). The Eye of Sauron is portrayed as a fiery eye at the top, but is only visible for a split second.</dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
 
 <dl><dd>Barad-dûr is shown in the introduction scene. It&#39;s design is similar to that of the tower in the movies. It does not play a role in any of the campaigns, and does not appear on any of the maps.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
 <dl><dd>Like in its predecessor, the tower of Barad-dûr plays no active role in this game. In the &#34;War of the Ring&#34; mode, it can be seen in the territory of Mordor, but is absent on the map itself.</dd></dl>
 
-<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>With the destruction of the One Ring, the main tower of Barad-dûr had collapsed, but the foundations remain standing and teeming with Sauron&#39;s servants. The dungeons of Barad-dûr, the &#34;Mordath&#34;, have been exposed to the sky above through the cracks in the earth.</dd></dl>
 

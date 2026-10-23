@@ -53,10 +53,10 @@ infobox:
 #### Tính năng {#Features}
 
 - Jones, Susan F. Báo cáo hội nghị. 10.
-- GoodKnight, Glen H. “Pháp sư — Khởi động buồn tẻ cho phim LotR.” Đánh giá về *Wizards*, đạo diễn Ralph Bakshi. 11.
+- GoodKnight, Glen H. “Pháp sư — Khởi động buồn tẻ cho phim LotR.” Đánh giá *Wizards*, do Ralph Bakshi chỉ đạo. 11.
 - GoodKnight, Glen H. “Nhận xét về một số bức ảnh.” 23+.
 - Tolkien Hội nghị VI / Hội nghị thần thoại VIII. 25.
-- Patterson, Nancy-Lou. “Xà phòng và ánh nắng mặt trời.” Đánh giá *C.S. Lewis: The Shape of His Faith and Thought* của Paul L. Holmer. 26.
+- Patterson, Nancy-Lou. “Xà phòng và ánh nắng mặt trời.” Review *C.S. Lewis: The Shape of His Faith and Thought* của Paul L. Holmer. 26.
 - Colvin, George. “Chỉ niềm vui của Chesterton.” Đánh giá *The Napoleon of Notting Hill* của G.K. Chesterton. 26.
 - Thư. 28+.
 - Christopher, Joe R. “Một Inklings Thư mục (5).” 40-46.
@@ -75,7 +75,7 @@ infobox:
 - Michael Kucharski: 28, 29, 30, 31, 32, 33, 34
 - Bruce McMenomy: trang bìa, 4
 - Thadara Ottobris: 26, 35
-- John Uhumacher: 36, 37
+- John Uhrumacher: 36, 37
 - Mike Austin Công nhân: 39
 - Bìa: Bruce McMenomy, “Chiếc đồng hồ bấm giờ từ *The Dark Tower.*”
 

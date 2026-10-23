@@ -80,7 +80,7 @@ infobox:
     - Bởi: Ian Collier & Anke Buttner
 - Các loại của Annie
     - Bởi: Annie Haward
-- Truyện dân gian
+- Truyện dân ca
 - Thành viên/Ủy ban mới
 
 <br>

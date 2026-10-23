@@ -50,7 +50,7 @@ infobox:
 - Thompson, Joseph. "Merlin là ai? Nhìn kỹ hơn về nhân vật trong Charles Williams' *Taliessin* Thơ."
 - Shaham, Inbar. "Bánh xe quyền lực trong *Game of Thrones*của HBO."
 - Young, Joseph R. "Sterner Stuff; Sansa Stark và Hệ thống giả tưởng Gothic."
-- Flieger, Verlyn. "Một Lost Tale, Một người có ảnh hưởng được tìm thấy: Earendel và Tinúviel."
+- Flieger, Verlyn. "Một Lost Tale, Một ảnh hưởng được tìm thấy: Earendel và Tinúviel."
 - Dugan, Owen và James Krasner. "Súp, Xương và Shakespeare: Quyền tác giả văn học và sự ám chỉ trong Trung Địa."
 - Ostaltsev, Alex (Oleksiy). "Tolkien và Bakhtin: Bản giao hưởng thời gian trong *The Lord of the Rings*."
 - Larsen, Kristine. "Nhìn thấy đôi: Tolkien và cặp song sinh thần thánh Ấn-Âu."

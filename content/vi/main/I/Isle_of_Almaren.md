@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Almaren"
 ---
 
-Chuyển hướng đến [Almaren](../A/Almaren.md).
+Chuyển hướng tới [Almaren](../A/Almaren.md).

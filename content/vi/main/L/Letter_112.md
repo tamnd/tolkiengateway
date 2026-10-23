@@ -33,7 +33,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Katharine Farrer, một nhà văn bí ẩn và là hàng xóm của Tolkien rõ ràng đã yêu cầu chữ ký vào bản sao *[The Hobbit](../T/The_Hobbit.md)* của cô ấy. Thay vào đó, [Tolkien](../J/J.R.R._Tolkien.md) đã viết cho cô ấy một ghi chú bằng [Runes](../R/Runes.md). Trong thư, Tolkien cảm ơn vì yêu cầu của cô ấy và nói với cô ấy rằng anh ấy rất vui vì *The Hobbit* lại có thể mua được (hầu hết các cửa hàng đã hết hàng). Anh ấy nói với cô ấy về "[cuốn sách tiếp theo](../T/The_Lord_of_the_Rings.md)" và nó sẽ chứa [thông tin thêm](../A/Appendix_E.md) về bảng chữ cái như thế nào.
+Katharine Farrer, một nhà văn bí ẩn và là hàng xóm của Tolkien rõ ràng đã yêu cầu chữ ký vào bản sao *[The Hobbit](../T/The_Hobbit.md)* của cô ấy. Thay vào đó, [Tolkien](../J/J.R.R._Tolkien.md) đã viết cho cô ấy một ghi chú bằng [Runes](../R/Runes.md). Trong thư, Tolkien cảm ơn lời yêu cầu của cô ấy và nói với cô ấy rằng anh ấy rất vui vì *The Hobbit* lại có thể mua được (hầu hết các cửa hàng đã hết hàng). Anh ấy nói với cô ấy về "[cuốn sách tiếp theo](../T/The_Lord_of_the_Rings.md)" và nó sẽ chứa [thông tin thêm](../A/Appendix_E.md) về bảng chữ cái như thế nào.
 
 ## Ghi chú {#Notes}
 

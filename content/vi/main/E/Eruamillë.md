@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Virgin Mary"
 ---
 
-Chuyển hướng tới [Đức Trinh Nữ Maria](../V/Virgin_Mary.md).
+Chuyển hướng đến [Đức Trinh Nữ Maria](../V/Virgin_Mary.md).

@@ -62,7 +62,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-*Otsola* chứa *[otso](Otso.md)* ("bảy") và *galā* ("ban ngày") (xem sau [Quenya](../Q/Quenya.md) *[cala](../C/Cala.md)*). Bản dịch [Gnomish](../G/Gnomish.md) của nó là <i><b>othlad</b></i>, từ *odin* ("bảy") và Tolkien bắt nguồn từ [Nguyên thủy Elvish](../P/Primitive_Elvish.md) <i>*ot·g'lāta</i>.<sup id="cite_ref-gl62_2-0" class="reference"><a href="#cite_note-gl62-2">[2]</a></sup>
+*Otsola* chứa *[otso](Otso.md)* ("bảy") và *galā* ("ban ngày") (xem sau [Quenya](../Q/Quenya.md) *[cala](../C/Cala.md)*). Bản dịch [Gnomish](../G/Gnomish.md) của nó là <i><b>othlad</b></i>, từ *odin* ("bảy") và Tolkien bắt nguồn từ [Primitive Elvish](../P/Primitive_Elvish.md) <i>*ot·g'lāta</i>.<sup id="cite_ref-gl62_2-0" class="reference"><a href="#cite_note-gl62-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

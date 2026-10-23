@@ -22,8 +22,8 @@ Kể từ [2024](../_/2024.md), chỉ có thể tìm thấy các tài liệu tha
 
 Xã hội này đã xuất bản:
 
-- [1986](../_/1986.md): *The Kẻ Vô Danh Wood: Những người theo chủ nghĩa tưởng tượng thời Victoria, thành tựu, ảnh hưởng của họ*: Kỷ yếu của Hội nghị thường niên lần thứ hai của Inner Ring, Hiệp hội văn học thần thoại Úc, \[Tháng 7\] 1986, Đại học New England, Armidale, N.S.W.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- [1992](../_/1992.md): *Tưởng tượng: Hội nghị thường niên lần thứ tám của Vòng trong*: Hiệp hội Văn học Thần thoại Úc, Đại học Queensland, ngày 5 đến ngày 9 tháng 7 năm 1992<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- [1986](../_/1986.md): *The Kẻ Vô Danh Wood: Những người theo chủ nghĩa tưởng tượng thời Victoria, thành tựu, ảnh hưởng của họ*: Kỷ yếu của Hội nghị thường niên lần thứ hai của Nội tâm Nhẫn, Hiệp hội Văn học Thần thoại Úc, \[Tháng 7\] 1986, Đại học New England, Armidale, N.S.W.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [1992](../_/1992.md): *Tưởng tượng: Hội nghị thường niên lần thứ tám của Nội tâm Nhẫn*: Hiệp hội Văn học Thần thoại Úc, Đại học Queensland, ngày 5–9 tháng 7 năm 1992<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - [1994](../_/1994.md): *Tạp chí thần thoại, giả tưởng và chủ nghĩa lãng mạn*<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>

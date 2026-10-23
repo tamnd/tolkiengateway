@@ -25,7 +25,7 @@ images:
 
 ## Cranor {#Cranor}
 
-<i><b>Crano</b></i> (“Cây-vàng”) là một loại nhựa được phát minh bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Daen&amp;action=edit&amp;redlink=1" title="Daen (page does not exist)">Daen</a> của [Dãy Núi Trắng](../W/White_Mountains.md) lưu trữ tĩnh điện. Chất cực kỳ cứng được tạo ra bằng nhựa Sorglasora (“Thông vàng”) và mật hoa Huệ trắng. Nó được sử dụng để chôn vùi các thủ lĩnh người Dunnish.<sup id="cite_ref-firstpage_1-1" class="reference"><a href="#cite_note-firstpage-1">[1]</a></sup>
+<i><b>Crano</b></i> (“Cây-vàng”) là một loại nhựa được phát minh bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Daen&amp;action=edit&amp;redlink=1" title="Daen (page does not exist)">Daen</a> của [Dãy Núi Trắng](../W/White_Mountains.md) lưu trữ tĩnh điện. Chất cực kỳ cứng được tạo ra bằng nhựa Sorglasora (“Thông vàng”) và mật hoa Huệ trắng. Nó được sử dụng để chôn cất các thủ lĩnh người Dunnish.<sup id="cite_ref-firstpage_1-1" class="reference"><a href="#cite_note-firstpage-1">[1]</a></sup>
 
 ## Eo {#Eog}
 

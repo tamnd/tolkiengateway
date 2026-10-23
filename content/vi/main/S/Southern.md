@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "South (disambiguation)"
 ---
 
-Chuyển hướng tới [Miền Nam (định hướng)](<South_(disambiguation).md>).
+Chuyển hướng đến [Miền Nam (định hướng)](<South_(disambiguation).md>).

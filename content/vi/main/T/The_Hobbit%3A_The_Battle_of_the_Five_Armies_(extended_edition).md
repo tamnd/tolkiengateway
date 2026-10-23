@@ -59,7 +59,7 @@ LƯU Ý: Phim được chia thành 2 đĩa cho cả phiên bản DVD và Blu-ray
 - 40\. Trận chiến tại Ravenhill
 - 41\. Đến cái chết
 
-## Các Phụ lục: Phần Mười Một - Bão Táp: Biên Niên Sử *[The Hobbit](The_Hobbit.md)* - Phần 3 (đĩa 2)\*\* {#The_Appendices:_Part_Eleven_-_The_Gathering_Storm:_The_Chronicles_of_The_Hobbit_-_Part_3_(disc_2)**}
+## Bộ Phụ lục: Phần 11 - Bão Táp: Biên Niên Sử *[The Hobbit](The_Hobbit.md)* - Phần 3 (đĩa 2)\*\* {#The_Appendices:_Part_Eleven_-_The_Gathering_Storm:_The_Chronicles_of_The_Hobbit_-_Part_3_(disc_2)**}
 
 - Mở\*
 - "Trong ngục tối của [Necromancer](../S/Sauron.md#Sauron's_Return)" Phim tài liệu\*
@@ -79,7 +79,7 @@ LƯU Ý: Phim được chia thành 2 đĩa cho cả phiên bản DVD và Blu-ray
 <h2><span id="The_Appendices:_Part_Twelve_-_Here_at_Journey.27s_End_.28disc_3.29.5E.5E"></span><span class="mw-headline" id="The_Appendices:_Part_Twelve_-_Here_at_Journey&#39;s_End_(disc_3)^^">The Appendices: Part Twelve - Here at Journey&#39;s End (disc 3)^^</span></h2>
 
 - "Bên dưới sấm sét: Rèn luyện [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md)" Phim tài liệu^
-    - Một kế hoạch tổng thể còn lâu mới được thực hiện
+    - Một kế hoạch Chủ nhân, còn lâu mới được thực hiện
     - Trên tiền tuyến của chiến trường ảo
     - Lật ngược tình thế
 - Phim tài liệu"Người dân và cư dân [Trung Địa](../M/Middle-earth.md)"

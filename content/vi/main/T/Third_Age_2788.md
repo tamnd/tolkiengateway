@@ -24,7 +24,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Tính ngày {#Calculation_of_the_Date}
 
-[Thorin và Đoàn tùy tùng](Thorin_and_Company.md) đến [Erebor](../E/Erebor.md) vào [T.A.](Third_Age.md) [2941](Third_Age_2941.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Khi họ gặp Roäc, anh ấy nói với họ rằng "đã một trăm lẻ ba năm mươi năm kể từ khi tôi ra khỏi quả trứng".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trừ 153 năm từ 2941 sẽ ra năm 2788. <span></span>
+[Thorin và Đoàn tùy tùng](Thorin_and_Company.md) đến [Erebor](../E/Erebor.md) vào [T.A.](Third_Age.md) [2941](Third_Age_2941.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Khi họ gặp Roäc anh ấy nói với họ rằng "đã một trăm lẻ ba năm mươi năm kể từ khi tôi ra khỏi quả trứng".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trừ 153 năm từ 2941 sẽ ra năm 2788. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

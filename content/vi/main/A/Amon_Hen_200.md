@@ -73,7 +73,7 @@ infobox:
 - Hai tòa tháp của con người
     - Bởi: Lyn Wilshire
 Thông báo - [Oxonmoot](../O/Oxonmoot.md)
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- Cái [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Phiên bản được mong đợi từ lâu
     - Bởi: *[Beruthiel](../B/Berúthiel.md)'s Pet*

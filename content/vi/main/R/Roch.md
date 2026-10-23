@@ -11,4 +11,4 @@ redirect_target: "Horses"
 redirect_fragment: "Names"
 ---
 
-Chuyển hướng đến [Ngựa](../H/Horses.md#Names).
+Chuyển hướng tới [Ngựa](../H/Horses.md#Names).

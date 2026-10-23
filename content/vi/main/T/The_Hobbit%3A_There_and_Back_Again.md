@@ -33,7 +33,7 @@ infobox:
 
 ## Cách chơi {#Gameplay}
 
-Lối chơi cốt lõi bao gồm việc tung một nhóm gồm năm viên xúc xắc tùy chỉnh sáu mặt và một viên xúc xắc mười hai mặt, sau đó lần lượt chọn chúng để thu thập tài nguyên và vẽ đường đi trên từng bảng người chơi. Ba viên xúc xắc hiển thị các hình dạng polyomino để vẽ đường, trong khi hai viên cung cấp tài nguyên (bánh mì, kiếm và mũ phù thủy) và chức năng của d12 thay đổi theo chương. Thứ tự chơi bắt đầu với người chơi thấp nhất—một chủ đề thể hiện tầm vóc nhỏ bé của người Hobbit.
+Lối chơi cốt lõi bao gồm việc tung một nhóm gồm năm viên xúc xắc tùy chỉnh sáu mặt và một viên xúc xắc mười hai mặt, sau đó lần lượt chọn chúng để thu thập tài nguyên và vẽ đường đi trên từng bảng người chơi. Ba viên xúc xắc hiển thị các hình dạng polyomino để vẽ đường, trong khi hai viên cung cấp tài nguyên (bánh mì, kiếm và mũ phù thủy) và chức năng của d12 thay đổi theo chương. Thứ tự chơi bắt đầu với người chơi thấp nhất—một chủ đề thể hiện tầm vóc nhỏ bé của người hobbit.
 
 ## Thành phần {#Components}
 

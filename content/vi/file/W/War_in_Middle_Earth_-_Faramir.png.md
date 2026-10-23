@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Faramir](../../main/F/Faramir.md) trong [Ithilien](../../main/I/Ithilien.md) trong Cuộc chiến ở Trung Địa của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
+[Faramir](../../main/F/Faramir.md) trong [Ithilien](../../main/I/Ithilien.md) trong [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
 
 ## Giấy phép {#Licensing}
 

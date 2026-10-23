@@ -74,7 +74,7 @@ Tolkien dịch tên này là **Loudwater**.<sup id="cite_ref-14" class="referenc
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Bruinen.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/47/The_Lord_of_the_Rings_Online_-_Bruinen.jpg/250px-The_Lord_of_the_Rings_Online_-_Bruinen.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/47/The_Lord_of_the_Rings_Online_-_Bruinen.jpg/375px-The_Lord_of_the_Rings_Online_-_Bruinen.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/47/The_Lord_of_the_Rings_Online_-_Bruinen.jpg/500px-The_Lord_of_the_Rings_Online_-_Bruinen.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Bruinen in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Bruinen river defines the landscape of the <a href="../T/Trollshaws.md" title="Trollshaws">Trollshaws</a> region, its course past Rivendell definining the &#34;Bruinen Gorges&#34; and &#34;Tal Bruinen&#34; before it flows into western <a href="../E/Eregion.md" title="Eregion">Eregion</a>.</dd></dl>
 

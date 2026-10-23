@@ -67,7 +67,7 @@ infobox:
     - Bởi: Howard J. Bates
 - Thông báo của Oxonmoot
 - Kêu gọi thảo luận về Oxonmoot
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- Cái [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Phía sau cánh cửa kính
     - Bởi: Madeline Flint

@@ -30,13 +30,13 @@ De Meij hiện nay sống ở khu vực tàu điện ngầm NYC và thường xu
     1. Gandalf
     2. Lothlórien
     3. Gollum
-    4. Hành trình trong bóng tối<br>a. Các mỏ Moria<br>b. Cầu Khazad-Dûm
+    4. Hành trình trong bóng tối<br>a. Mỏ Moria<br>b. Cầu Khazad-Dûm
     5. Hobbit
 
 - [2018](../_/2018.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Symphony_No._5_%22Return_to_Middle-earth%22&amp;action=edit&amp;redlink=1" title="Symphony No. 5 &#34;Return to Middle-earth&#34; (page does not exist)">Bản giao hưởng số 5 "Trở về Trung Địa"</a>
     1. Miri na Fëanor (Viên ngọc của Fëanor)
     2. Tinúviel (Chim sơn ca)
-    3. Ancalagon i-môr (Ancalagon, Đen)
+    3. Ancalagon i-môr (Ancalagon, người da đen)
     4. Arwen Undómiel (Evenstar)
     5. Dagor Delothrin (Cuộc chiến phẫn nộ)
     6. Thuringwethil (Người phụ nữ bí mật Bóng Tối)
@@ -53,5 +53,5 @@ De Meij hiện nay sống ở khu vực tàu điện ngầm NYC và thường xu
 
 - <a class="external text" href="http://www.euronet.nl/~amsmusic/" rel="noreferrer noopener" target="_blank">Trang web chính thức</a>
 - <a class="external text" href="http://www.amazon.com/Lord-Rings-Symphonie-No-1/dp/B000009Q5Q" rel="noreferrer noopener" target="_blank">Mua bản giao hưởng số 1 từ Amazon</a>
-- <a class="external text" href="https://www.amazon.com/Return-Middle-Earth-Johan-Meij/dp/B07VD9ZNJH" rel="noreferrer noopener" target="_blank">Mua Bản giao hưởng số 5 từ Amazon</a>
+- <a class="external text" href="https://www.amazon.com/Return-Middle-Earth-Johan-Meij/dp/B07VD9ZNJH" rel="noreferrer noopener" target="_blank">Mua bản giao hưởng số 5 từ Amazon</a>
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Johan_de_Meij" title="wikipedia:Johan de Meij">Johan de Meij</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>

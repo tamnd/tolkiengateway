@@ -22,7 +22,7 @@ images:
 
 ## Từ nguyên {#Etymology}
 
-- [Root](../S/Sundocarme.md) LIND ("đẹp", đặc biệt là giọng hát)<sup id="cite_ref-Lind_1-1" class="reference"><a href="#cite_note-Lind-1">[1]</a></sup>
+- [Gốc](../S/Sundocarme.md) LIND ("đẹp", đặc biệt là giọng nói)<sup id="cite_ref-Lind_1-1" class="reference"><a href="#cite_note-Lind-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

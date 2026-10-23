@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bản đồ [Ithilien](../../main/I/Ithilien.md). Nó được thực hiện bởi Mark Fisher và được lấy từ [Bách khoa toàn thư Arda](../../main/E/Encyclopedia_of_Arda.md).
+Bản đồ [Ithilien](../../main/I/Ithilien.md). Nó được tạo ra bởi Mark Fisher và được lấy từ [Bách khoa toàn thư Arda](../../main/E/Encyclopedia_of_Arda.md).
 
 ## Giấy phép {#Licensing}
 

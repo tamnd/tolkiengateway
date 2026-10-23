@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Laer Cú Beleg"
 ---
 
-Chuyển hướng tới [Laer Cú Beleg](../L/Laer_Cú_Beleg.md).
+Chuyển hướng đến [Laer Cú Beleg](../L/Laer_Cú_Beleg.md).

@@ -62,7 +62,7 @@ Sự kiện xảy ra vào ngày 5 tháng 6
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1946](1946.md)** - Diễn viên [John Bach](../J/John_Bach.md) ra đời.
+- **[1946](1946.md)** - Diễn viên [John Bạch](../J/John_Bach.md) ra đời.
 - **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 137b](../L/Letter_137b.md).
 - **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 137c](../L/Letter_137c.md).
 - **[1955](1955.md)** – Harvey Breit viết một bài về [Tolkien](../J/J.R.R._Tolkien.md) trên *New York Times Book Review*. Breit kể về "Tiến sĩ [Tolkein](../T/Tolkein.md)" và còn nhiều lỗi khác. Tolkien sau đó viết [một bức thư giận dữ về việc đó](../L/Letter_165.md).

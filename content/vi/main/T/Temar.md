@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Témar"
 ---
 
-Chuyển hướng tới [Témar](Témar.md).
+Chuyển hướng đến [Témar](Témar.md).

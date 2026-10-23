@@ -14,4 +14,4 @@ sort_keys:
   "Images by artist": "Howe, Fataneh"
 ---
 
-Thể loại này liệt kê tất cả **hình ảnh của [Fataneh Howe](../../main/F/Fataneh_Howe.md)**.
+Danh mục này liệt kê tất cả **hình ảnh theo [Fataneh Howe](../../main/F/Fataneh_Howe.md)**.

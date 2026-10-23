@@ -46,7 +46,7 @@ infobox:
 
 <i><b>Tolkien's Legendarium: Tiểu luận về The History of Middle-earth</b></i> là tập hợp các tiểu luận học thuật được biên soạn bởi [Verlyn Flieger](../V/Verlyn_Flieger.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md) trên *[History of Middle-earth](The_History_of_Middle-earth.md)*, một bộ sách liên quan đến tiểu thuyết hư cấu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), do con trai ông, [Christopher Tolkien](../C/Christopher_Tolkien.md)biên soạn và biên tập. Nó được xuất bản bởi Rừng Xanh Press vào [2000](../_/2000.md).
 
-Nó bao gồm thư mục các tác phẩm của Christopher Tolkien do [Douglas A. Anderson](../D/Douglas_A._Anderson.md) biên soạn.
+Nó bao gồm thư mục các tác phẩm của Christopher Tolkien được biên soạn bởi [Douglas A. Anderson](../D/Douglas_A._Anderson.md).
 
 Cuốn sách đã đoạt giải Giải thưởng Học thuật Mythopoeic cho Nghiên cứu về nhóm Inklings năm 2002.
 
@@ -76,7 +76,7 @@ Cuốn sách đã đoạt giải Giải thưởng Học thuật Mythopoeic cho N
 - [Richard C. West](../R/Richard_C._West.md) — "Túrin's *Ofermod*: Một tiếng Anh cổ Chủ đề trong quá trình phát triển câu chuyện của Túrin"
 
 - Phụ lục
-    - [Douglas A. Anderson](../D/Douglas_A._Anderson.md) — "Christopher Tolkien: Một thư mục"
+    - [Douglas A. Anderson](../D/Douglas_A._Anderson.md) — "Christopher Tolkien: Thư mục"
 
 ## Liên kết ngoài {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: A Reader's Companion"
 ---
 
-Chuyển hướng tới [The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md).
+Chuyển hướng đến [The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md).

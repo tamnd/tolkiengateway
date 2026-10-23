@@ -73,8 +73,8 @@ To great grey waters heaving round the rocks where sea-birds swim.
 
 ## Xem thêm {#See_also}
 
-- [Của Tuor và Việc Anh Đến Gondolin](../O/Of_Tuor_and_his_Coming_to_Gondolin.md)
-- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Của Tuor và Sự đến với Gondolin](../O/Of_Tuor_and_his_Coming_to_Gondolin.md)
+- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 <span></span>
 

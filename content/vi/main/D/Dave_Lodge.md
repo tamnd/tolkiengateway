@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "David Lodge"
 ---
 
-Chuyển hướng đến [David Lodge](David_Lodge.md).
+Chuyển hướng tới [David Lodge](David_Lodge.md).

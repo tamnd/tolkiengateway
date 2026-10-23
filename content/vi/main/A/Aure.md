@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aurë"
 ---
 
-Chuyển hướng đến [Aurë](Aurë.md).
+Chuyển hướng tới [Aurë](Aurë.md).

@@ -56,7 +56,7 @@ Vị trí của Mount Gram chưa bao giờ được xác định và ngọn núi
 
 Mặt khác, [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md) (cũng không có lời giải thích) đã đặt nó trên một mỏm đất ở [Ettenmoors](../E/Ettenmoors.md).<sup id="cite_ref-Atlas_2-1" class="reference"><a href="#cite_note-Atlas-2">[2]</a></sup>
 
-[John D. Rateliff](../J/John_D._Rateliff.md) xem xét tên [Bắc Âu](../N/Norse.md) của ngọn núi (đại diện cho [Người Mannish phía Bắc](../N/Northern_Mannish.md)) và định vị nó ở phía đông bắc của Shire, gợi ý rằng nó đề cập đến Dãy Núi Sương Mù: "đặc biệt gắn liền với lũ yêu tinh trên khắp *Hobbit*, dường như cũng là những ngọn núi gần nhà của Bilbo nhất". Ông cũng xem xét khả năng đó là tên gọi khác của Núi [Gundabad](../G/Gundabad.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+[John D. Rateliff](../J/John_D._Rateliff.md) xem xét tên [Bắc Âu](../N/Norse.md) của ngọn núi (đại diện cho [Người Mannish phía Bắc](../N/Northern_Mannish.md)) và định vị nó ở phía đông bắc của Shire, gợi ý rằng nó đề cập đến Dãy Núi Sương Mù: "đặc biệt gắn liền với lũ yêu tinh trên khắp *Hobbit*, dường như cũng là những ngọn núi gần nhà Bilbo nhất". Ông cũng xem xét khả năng đó là tên gọi khác của Núi [Gundabad](../G/Gundabad.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
@@ -72,11 +72,11 @@ Có một Mount Gram ở Albania.
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Mount_Gram.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a1/The_Lord_of_the_Rings_Online_-_Mount_Gram.jpg/300px-The_Lord_of_the_Rings_Online_-_Mount_Gram.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a1/The_Lord_of_the_Rings_Online_-_Mount_Gram.jpg/450px-The_Lord_of_the_Rings_Online_-_Mount_Gram.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a1/The_Lord_of_the_Rings_Online_-_Mount_Gram.jpg/600px-The_Lord_of_the_Rings_Online_-_Mount_Gram.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Mount Gram in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>1988: Cuộc chiến của <i><a href="../J/J.R.R._Tolkien&#39;s_War_in_Middle_Earth.md" title="J.R.R. Tolkien&#39;s War in Middle Earth">J.R.R. Tolkien ở Trung Địa</a></i>:</b>
+<b>1988: <i><a href="../J/J.R.R._Tolkien&#39;s_War_in_Middle_Earth.md" title="J.R.R. Tolkien&#39;s War in Middle Earth">J.R.R. Tolkien của Chiến tranh ở Trung Địa</a></i>:</b>
 
 <dl><dd>Mount Gram is located North of the <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a>, West of the <a href="Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a>, South-west of <a class="mw-redirect" href="Mount_Gundabad.md" title="Mount Gundabad">Mount Gundabad</a>, and just South of the <a href="Mountains_of_Angmar.md" title="Mountains of Angmar">Mountains of Angmar</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Mount Gram is located in the <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a>, the game&#39;s only Player-versus-Player area. At the foot of it sits &#34;Gramsfoot&#34;, the war-camp of <a href="../A/Angmar.md" title="Angmar">Angmar</a> which is the only stronghold of the Evil players and cannot be entered by the Free Peoples.</dd></dl>
 

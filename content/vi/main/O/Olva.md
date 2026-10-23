@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Olvar"
 ---
 
-Chuyển hướng tới [Olvar](Olvar.md).
+Chuyển hướng đến [Olvar](Olvar.md).

@@ -14,4 +14,4 @@ sort_keys:
   "Images by artist": "Wegrzyn, Karolina"
 ---
 
-Danh mục này liệt kê tất cả **hình ảnh của [Karolina Węgrzyn](https://tolkiengateway.net/wiki/User:Sirielle)**.
+Danh mục này liệt kê tất cả **hình ảnh theo [Karolina Węgrzyn](https://tolkiengateway.net/wiki/User:Sirielle)**.

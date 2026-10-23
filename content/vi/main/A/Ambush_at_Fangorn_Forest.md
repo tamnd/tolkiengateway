@@ -48,13 +48,13 @@ infobox:
 
 ## Mô tả {#Description}
 
-Những [Uruks](../U/Uruk-hai.md), mang theo hai tù nhân ([Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) và [Peregrin Took](../P/Peregrin_Took.md)), đang lo lắng cố gắng tiếp cận Isengard càng nhanh càng tốt. Tuy nhiên, họ có sự tham gia của [Orc Mordor](../O/Orcs_of_Mordor.md) có tên [Grishnákh](../G/Grishnákh.md), cũng như một công ty gồm [Orc từ Dãy Núi](../O/Orcs_of_the_Misty_Mountains.md). Grishnákh đang tìm kiếm [Chiếc Nhẫn Chúa](../T/The_One_Ring.md) để giao cho [Nazgûl](../N/Nazgûl.md)của chủ nhân mình [Sauron](../S/Sauron.md), và nhóm sau tìm cách trả thù [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) vì sự xâm nhập trước đó của họ vào [Moria](../M/Moria.md).
+Những [Uruks](../U/Uruk-hai.md), mang theo hai tù nhân ([Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) và [Peregrin Took](../P/Peregrin_Took.md)), đang lo lắng cố gắng tiếp cận Isengard càng nhanh càng tốt. Tuy nhiên, họ có sự tham gia của [Orc trong số Mordor](../O/Orcs_of_Mordor.md) có tên [Grishnákh](../G/Grishnákh.md), cũng như một công ty gồm [Orc từ Dãy Núi](../O/Orcs_of_the_Misty_Mountains.md). Grishnákh đang tìm kiếm [Người Nhẫn](../T/The_One_Ring.md) để giao cho [Nazgûl](../N/Nazgûl.md)của chủ nhân [Sauron](../S/Sauron.md)của mình, và nhóm sau tìm cách trả thù [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) vì sự xâm nhập trước đó của họ vào [Moria](../M/Moria.md).
 
-Điều này dẫn đến hàng loạt bất đồng với quân Uruk khiến tiến độ của họ bị trì hoãn nhiều lần. Trong một trong những cuộc xung đột này, một số người trong Mountain-Orc đã bị giết, dẫn đến việc Grishnákh biến mất và quay trở lại cùng một đội [Mordor](../M/Mordor.md) Orc.
+Điều này dẫn đến hàng loạt bất đồng với quân Uruk khiến tiến độ của họ bị trì hoãn nhiều lần. Trong một trong những cuộc xung đột này, một số người trong nhóm Mountain-Orc đã bị giết, dẫn đến Grishnákh biến mất và quay trở lại cùng một đội [Mordor](../M/Mordor.md) Orc.
 
 Vào thời điểm ba bên đi đến thỏa thuận, các kỵ sĩ của [Rohan](../R/Rohan.md) đã bắt kịp Orc và Uruk (do không giết được một trong những trinh sát của họ) và truy đuổi họ xuyên qua Rohan. Trong cơn hoảng loạn, phần lớn Núi-Orc bỏ chạy về phía trước, nhưng bị suy nhược do ánh nắng chói chang và bị quân Isengarders bỏ mặc cho đến chết khi họ đến được mái hiên của [Rừng Fangorn](../F/Fangorn_Forest.md).
 
-Tại đó, Rohirrim phát động cuộc tấn công cuối cùng và tàn sát tất cả Orc và Uruk-hai có mặt. Bản thân Éomer đã đấu tay đôi với [Uglúk](../U/Uglúk.md), thủ lĩnh của Isengarders và giết chết anh ta.
+Tại đó, Rohirrim phát động cuộc tấn công cuối cùng và tàn sát tất cả Orc và Uruk-hai có mặt. Bản thân Éomer đã giao chiến với [Uglúk](../U/Uglúk.md), thủ lĩnh của Isengarders và giết chết anh ta.
 
 ## Hậu quả {#Aftermath}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hirilondë"
 ---
 
-Chuyển hướng đến [Hirilondë](../H/Hirilondë.md).
+Chuyển hướng tới [Hirilondë](../H/Hirilondë.md).

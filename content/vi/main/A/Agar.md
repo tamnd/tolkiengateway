@@ -58,7 +58,7 @@ Thị trấn được cai trị bởi một trưởng trấn, người được 
 
 - [Buldar](../B/Buldar.md)
 - [Elmar](../E/Elmar.md)
-- [Hazad](../H/Hazad.md)
+- [Nguy hiểm](../H/Hazad.md)
 - [Tal-Elmar](<../T/Tal-Elmar_(character).md>)
 - [Mogru](../M/Mogru.md)
 

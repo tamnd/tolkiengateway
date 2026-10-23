@@ -36,7 +36,7 @@ images:
 
 ### Nguồn gốc của Emyn Arnen {#Origins_of_the_Emyn_Arnen}
 
-[Emyn Arnen](../E/Emyn_Arnen.md) là một dãy đồi ở [South Ithilien](../S/South_Ithilien.md), phía đông [Anduin](../A/Anduin.md) và ngang qua [Minas Tirith](../M/Minas_Tirith.md). Những ngọn đồi này trong lịch sử là quê hương của [Nhà Húrin](../H/House_of_Húrin.md), nhà cai trị của [Quản gia Gondor](../S/Steward_of_Gondor.md). Trước khi Quản lý chuyển nơi cư trú của họ đến Minas Tirith trong [Kỷ Đệ Tam](../T/Third_Age.md), Emyn Arnen là trung tâm hành chính quản lý của họ.
+[Emyn Arnen](../E/Emyn_Arnen.md) là một dãy đồi ở [South Ithilien](../S/South_Ithilien.md), phía đông [Anduin](../A/Anduin.md) và ngang qua [Minas Tirith](../M/Minas_Tirith.md). Những ngọn đồi này trong lịch sử là quê hương của [Nhà Húrin](../H/House_of_Húrin.md), nhà cai trị của [Quản gia Gondor](../S/Steward_of_Gondor.md). Trước khi Người quản lý chuyển nơi cư trú của họ đến Minas Tirith trong [Kỷ Đệ Tam](../T/Third_Age.md), Emyn Arnen là trung tâm hành chính quản lý của họ.
 
 Những ngọn đồi của Emyn Arnen bị bỏ hoang trong cuộc đấu tranh lâu dài của Gondor chống lại [Mordor](../M/Mordor.md) và những người hầu của nó. Ithilien trở nên thưa thớt dân số và nguy hiểm do ảnh hưởng ngày càng tăng của [Sauron](../S/Sauron.md), nhưng sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), nó đã được khôi phục thành một khu vực hưng thịnh dưới sự lãnh đạo của Thân vương [Faramir](../F/Faramir.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

@@ -33,11 +33,11 @@ Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu c�
 
 <dl><dd>Demons are portrayed as to exist in several types: Balrogs, Black Demons, <i>Lassaraukar</i> (&#34;Leaf-demons&#34;), Vampires, Demon-trolls, etc.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
-<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Roleplaying Game</a></i>:</b>
+<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a></i>:</b>
 
 <dl><dd>A distinction is made between &#34;animate demons&#34; and &#34;place-demons&#34;. The former have a body, and entail such creatures as lesser and greater Balrogs, <i>Helegrogs</i> (&#34;demons of ice&#34;) and <i>Dindair</i> (&#34;silent shadow&#34;, demons of shadow). Place-demons (<i>bandúrhoth</i>, &#34;people of the dark prison&#34;) are incorporeal and &#34;<i>cannot be physically battled</i>&#34;, an example being Caradhras the Cruel.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The <i>Regmyl</i> (sing. <i>Rogmul</i>) are fire-demon spirits, called forth by the will of a Balrog.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 

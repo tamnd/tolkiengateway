@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ava-"
 ---
 
-Chuyển hướng đến [Ava-](Ava-.md).
+Chuyển hướng tới [Ava-](Ava-.md).

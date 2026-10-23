@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of Words and Worlds"
 ---
 
-Chuyển hướng đến [Từ ngữ và Thế giới](Of_Words_and_Worlds.md).
+Chuyển hướng đến [Từ ngữ và thế giới](Of_Words_and_Worlds.md).

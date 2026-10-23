@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kurúki"
 ---
 
-Chuyển hướng tới [Kurúki](Kurúki.md).
+Chuyển hướng đến [Kurúki](Kurúki.md).

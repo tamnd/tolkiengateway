@@ -57,7 +57,7 @@ Lưỡi kiếm được khắc [tengwar](../T/Tengwar.md) rune bằng [neo-](../
 
 ## Phiên bản khác {#Other_versions}
 
-Trong ý tưởng ban đầu về thanh kiếm, dòng chữ có thêm một câu văn có nội dung như sau: *Idril i hel en aran Gond dolen*, khi dịch là "Idril, con gái của vua [Hòn đá ẩn giấu](../G/Gondolin.md)". Văn bản này đã bị lược bỏ trong thiết kế cuối cùng của thanh kiếm do thiếu khoảng trống trên phần chống hoàn thiện.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong ý tưởng ban đầu về thanh kiếm, dòng chữ có thêm một câu văn có nội dung như sau: *Idril i hel en aran Gond dolen*, khi dịch là "Idril, con gái của vua [Hòn đá ẩn giấu](../G/Gondolin.md)". Văn bản này đã bị lược bỏ trong thiết kế cuối cùng của thanh kiếm do thiếu chỗ trên phần chống hoàn thiện.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Trong "[The Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)" của [The Book of Lost Tales](../T/The_Book_of_Lost_Tales%253A_Part_Two.md), Tolkien có ghi rằng Idril mang một thanh kiếm và dùng nó để cứu Tiên-phụ nữ và trẻ em trong bao tải lớn.<sup id="cite_ref-losttales_5-0" class="reference"><a href="#cite_note-losttales-5">[5]</a></sup>
 

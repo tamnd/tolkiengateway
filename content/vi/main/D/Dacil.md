@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-ndacil"
 ---
 
-Chuyển hướng đến [-ndacil](../_/-ndacil.md).
+Chuyển hướng tới [-ndacil](../_/-ndacil.md).

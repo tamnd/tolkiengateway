@@ -67,18 +67,18 @@ infobox:
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
 - Dù tốt hay xấu, giờ đây bạn đã bị ảnh hưởng
     - Bởi: *Beruthiel's Pet*
-- [Tolkien 2005](../T/Tolkien_2005.md): Chiếc nhẫn vẫn tiếp tục tồn tại
-- Sảnh lửa
+- [Tolkien 2005](../T/Tolkien_2005.md): Nhẫn vẫn tiếp tục hoạt động
+- Cái Hall of Fire
     - Bởi: Lynn Forest-Hill
 - Báo cáo: Cuộc phiêu lưu ở Sicily
     - Bởi: Trevor Reynolds
-- Khu vườn Trung Địa - Phần thứ ba: Cây cối Shire
+- Khu vườn Trung Địa - Phần thứ ba: Những cái cây Shire
     - Bởi: Suzanna Nemeth
 - Phía sau cánh cửa kính
     - Bởi: [Sally Kennett](../S/Sally_Kennett.md)
 - Báo cáo: Tolkien Cuối tuần tại Sarehole Mill
     - Bởi: Dave Corby
-- Ảnh minh họa: *Untitled* ([Frodo](../F/Frodo_Baggins.md) & [Sam](../S/Samwise_Gamgee.md) đang đến gần [Núi Doom](../M/Mount_Doom.md))
+- Tác phẩm: *Untitled* ([Frodo](../F/Frodo_Baggins.md) & [Sam](../S/Samwise_Gamgee.md) đang đến gần [Núi Doom](../M/Mount_Doom.md))
     - Bởi: [Katrin Kunde](../K/Katrin_Kunde.md)
 - Đánh giá: *[Tolkien Studies Volume 1](../T/Tolkien_Studies%253A_Volume_1.md)*
     - Bởi: Christopher Kreuzer
@@ -99,7 +99,7 @@ infobox:
 - Thành viên mới
 - Hồ sơ thành viên
     - Bởi: James Taylor
-- Ngày ghi nhật ký của bạn
+- Ngày tháng trong Nhật ký của bạn
 - Ủy ban
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 187</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_187.md" title="Amon Hen 187">Amon Hen 187</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 188</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 189</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_189.md" title="Amon Hen 189">Amon Hen 189</a></div></div></div>

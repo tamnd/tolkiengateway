@@ -31,7 +31,7 @@ images:
     - [Tol Morwen](../T/Tol_Morwen.md), một hòn đảo trên biển sau vụ chết đuối của [Beleriand](../B/Beleriand.md), trên đó có [Hòn đá của sự bất hạnh](../S/Stone_of_the_Hapless.md) và mộ của **Morwen Eledhwen**
 - [Morwen](<Morwen_(daughter_of_Belecthor).md>) (fl. c. [T.A.](../T/Third_Age.md) [2600](../T/Third_Age_2600.md)), con gái của [Quản lý](../R/Ruling_Steward.md) [Belecthor I](../B/Belecthor_I.md) của [Gondor](../G/Gondor.md) và bà của [Egalmoth](<../E/Egalmoth_(Steward_of_Gondor).md>)
 - [Morwen Steelsheen](Morwen_Steelsheen.md) (sinh [T.A.](../T/Third_Age.md) [2922](../T/Third_Age_2922.md)), vợ của [Vua](../K/Kings_of_Rohan.md) [Thengel](../T/Thengel.md) của [Rohan](../R/Rohan.md) và mẹ của [Théoden](../T/Théoden.md).
-- [Morwen, con gái của Húrin of the Keys](<Morwen_(daughter_of_Húrin).md>), một nhân vật bị loại bỏ trong bản nháp của [Phụ lục](../A/Appendices.md)
+- [Morwen, con gái của Húrin of the Keys](<Morwen_(daughter_of_Húrin).md>), một nhân vật bị loại bỏ trong bản thảo của [Phụ lục](../A/Appendices.md)
 
 ## Các bản chuyển thể {#Adaptations}
 

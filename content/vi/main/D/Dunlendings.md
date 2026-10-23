@@ -128,7 +128,7 @@ Có khả năng Tolkien muốn ví sự kình địch giữa người Dunland ng
 
 ## Hình tượng trong các tác phẩm chuyển thể {#Portrayals_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Dunlendings.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9b/The_Lord_of_the_Rings_Online_-_Dunlendings.jpg/300px-The_Lord_of_the_Rings_Online_-_Dunlendings.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9b/The_Lord_of_the_Rings_Online_-_Dunlendings.jpg/450px-The_Lord_of_the_Rings_Online_-_Dunlendings.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9b/The_Lord_of_the_Rings_Online_-_Dunlendings.jpg/600px-The_Lord_of_the_Rings_Online_-_Dunlendings.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Men and Women of Dunland</figcaption></figure>
 

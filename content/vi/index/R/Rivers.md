@@ -37,7 +37,7 @@ Trang này liệt kê tất cả [Sông](../../category/R/Rivers.md) trong [Arda
 - [Ascar](../../main/A/Ascar.md)
 - [Brilthor](../../main/B/Brilthor.md)
 - [Brithon](../../main/B/Brithon.md)
-- [Những người nổi tiếng](../../main/C/Celebros.md)
+- [Celebros](../../main/C/Celebros.md)
 - [Celon](../../main/C/Celon.md)
 - [Sông cạn](../../main/D/Dry_River.md)
 - [Duilwen](../../main/D/Duilwen.md)

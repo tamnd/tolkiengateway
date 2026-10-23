@@ -72,7 +72,7 @@ Trong văn bản có nói rằng bức tượng Vị Vua Sa Ngã có một bộ 
 		</li>
 </ul>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Cross-roads exist in both pre-battle and post-<a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a> versions of <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>. During the passage of the <a href="../A/Army_of_the_West.md" title="Army of the West">Army of the West</a> the player participates in the restoration of the statue.</dd></dl>
 

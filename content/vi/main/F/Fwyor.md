@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fuiyáru"
 ---
 
-Chuyển hướng đến [Fuiyáru](Fuiyáru.md).
+Chuyển hướng tới [Fuiyáru](Fuiyáru.md).

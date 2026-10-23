@@ -46,7 +46,7 @@ Số này còn có sự đóng góp về mặt ngôn ngữ của Christian Hass 
 - Biên tập - ([Chris Seeman](../C/Chris_Seeman.md)) \[2 pgs\]
 - Tính năng ma thuật: Lời lệnh - (Andy Mack) \[cơ chế trò chơi cụ thể cho WoC; 3 trang\]
 - Bản đồ lục địa thay thế cho MERP - ([Thomas Morwinsky](../T/Thomas_Morwinsky.md)) \[ghi chú về thiết kế của bản đồ lục địa Endor mới; 2 trang + chèn bản đồ\]
-- Mûmakanril - (Christian Haas) \[nền tảng văn hóa, công báo và số liệu thống kê phát triển; 9 trang + chèn bản đồ\]
+- The Mûmakanril - (Christian Haas) \[nền tảng văn hóa, công báo và số liệu thống kê phát triển; 9 trang + chèn bản đồ\]
 - Tính năng Mithril: Tấm gương lửa - ([Chris Seeman](../C/Chris_Seeman.md)) \[2 pgs\]
 - The Sisters of Ishtra - (Cory Rushton) \[lý lịch và số liệu thống kê về một dòng tu ở miền nam; 4 trang\]
 - Phần bổ sung: Vương quốc [Bellakar](../B/Bellakar.md) - (Eric Dubourg) \[lịch sử về một vương quốc hoàn toàn mới ở phía nam Trung Địa; 56 trang + chèn bản đồ\]

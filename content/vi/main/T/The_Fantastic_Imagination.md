@@ -53,7 +53,7 @@ infobox:
 7. <a class="extiw" href="http://en.wikipedia.org/wiki/H._E._Bates" title="wikipedia:H. E. Bates">H.E. Bates</a>: "Cây đào"
 8. <a class="extiw" href="http://en.wikipedia.org/wiki/Alexander_Grin" title="wikipedia:Alexander Grin">Alexander Grin</a>: "Con yêu tinh lắm lời"
 9. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md): "[Những câu đố trong bóng tối](../R/Riddles_in_the_Dark.md)"
-10. [C.S. Lewis](../C/C.S._Lewis.md): "Cuốn sách của nhà ảo thuật"
+10. [C.S. Lewis](../C/C.S._Lewis.md): "Cuốn sách của pháp sư"
 11. [C.S. Lewis](../C/C.S._Lewis.md): "The Dufflepuds Made Happy"
 12. <a class="extiw" href="http://en.wikipedia.org/wiki/Mark_van_Doren" title="wikipedia:Mark van Doren">Mark van Doren</a>: "Người cao"
 13. <a class="extiw" href="http://en.wikipedia.org/wiki/Lloyd_Alexander" title="wikipedia:Lloyd Alexander">Lloyd Alexander</a>: "Người sáng lập"

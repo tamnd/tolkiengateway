@@ -45,9 +45,9 @@ infobox:
 
 <i><b>Người đồng hành với J.R.R. Tolkien</b></i> là một cuốn sách học thuật về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) do [Stuart D. Lee](../S/Stuart_D._Lee.md) biên tập, xuất bản năm [2014](../_/2014.md). Nó là một phần của bộ *Blackwell Companions to Literature*, được đánh giá là tác phẩm tham khảo có uy tín.
 
-Cuốn sách trình bày 36 bài tiểu luận của một số Tolkien tác giả nổi tiếng. Các bài luận được sắp xếp thành năm phần, trình bày về cuộc đời, công việc, các chủ đề nổi bật, những ảnh hưởng và phản ứng phê bình đối với bài viết của ông.
+Cuốn sách trình bày 36 bài tiểu luận của một số Tolkien tác giả nổi tiếng. Các bài luận được sắp xếp thành năm phần, trình bày về cuộc đời, công việc, các chủ đề nổi bật, những ảnh hưởng và phản ứng phê phán đối với bài viết của ông.
 
-Ấn bản thứ hai được xuất bản trên [2022](../_/2022.md), cập nhật các ấn phẩm mới, các bản chuyển thể và học thuật nguyên gốc. Năm bài tiểu luận mới đã được thêm vào để mang lại những quan điểm và hiểu biết mới.
+Ấn bản thứ hai được xuất bản trên [2022](../_/2022.md), cập nhật các ấn phẩm mới, các bản chuyển thể và học thuật nguyên bản. Năm bài tiểu luận mới đã được thêm vào để mang lại những quan điểm và hiểu biết mới.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 

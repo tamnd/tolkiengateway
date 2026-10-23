@@ -77,7 +77,7 @@ infobox:
 - Sự kiện kỳ diệu
     - Bởi: [Amanda Campbell](Amanda_Campbell.md)
 - Thư
-- Truyện dân gian
+- Truyện dân ca
 - Ủy ban
 
 <br>

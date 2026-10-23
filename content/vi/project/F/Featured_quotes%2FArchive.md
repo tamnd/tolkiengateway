@@ -118,7 +118,7 @@ Tôi biết nó dài hơn - và tôi không bận tâm việc nó được làm 
 <p class="tg-quote-footer"><cite><i><a href="../../main/T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../../main/A/An_Unexpected_Party.md" title="An Unexpected Party">An Unexpected Party</a>&#34;</cite></p>
 </blockquote>
 
-Được [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith) đơn phương chọn do không có đề cử thành công.
+Được [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith) đơn phương lựa chọn do không có đề cử thành công.
 
 ## 26 tháng 11 năm 2017 - 25 tháng 12 năm 2018 {#26_November_2017_-_25_December_2018}
 
@@ -128,7 +128,7 @@ Tôi biết nó dài hơn - và tôi không bận tâm việc nó được làm 
 <p class="tg-quote-footer"><cite><i><a href="../../main/T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a class="mw-redirect" href="../../main/T/The_Grey_Havens.md" title="The Grey Havens">The Grey Havens</a>&#34;</cite></p>
 </blockquote>
 
-Được [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith) đơn phương chọn do không có đề cử thành công.
+Được [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith) đơn phương lựa chọn do không có đề cử thành công.
 
 ## 25 tháng 12 năm 2018 - 3 tháng 7 năm 2020 {#25_December_2018_-_3_July_2020}
 
@@ -138,7 +138,7 @@ Tôi biết nó dài hơn - và tôi không bận tâm việc nó được làm 
 <p class="tg-quote-footer"><cite><i><a href="../../main/T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../../main/T/The_White_Rider.md" title="The White Rider">The White Rider</a>&#34;</cite></p>
 </blockquote>
 
-Được [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith) đơn phương chọn do không có đề cử thành công.
+Được [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith) đơn phương lựa chọn do không có đề cử thành công.
 
 ## 3 tháng 7 năm 2020 - 2 tháng 1 năm 2021 {#3_July_2020_-_2_January_2021}
 
@@ -148,7 +148,7 @@ Tôi biết nó dài hơn - và tôi không bận tâm việc nó được làm 
 <p class="tg-quote-footer"><cite><i><a href="../../main/T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../../main/T/The_Return_Journey.md" title="The Return Journey">The Return Journey</a>&#34;</cite></p>
 </blockquote>
 
-Được [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith) đơn phương chọn do không có đề cử thành công.
+Được [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith) đơn phương lựa chọn do không có đề cử thành công.
 
 ## 2 tháng 1 năm 2021 - 20 tháng 1 năm 2022 {#2_January_2021_-_20_January_2022}
 
@@ -205,7 +205,7 @@ Tôi biết nó dài hơn - và tôi không bận tâm việc nó được làm 
 <p class="tg-quote-footer"><cite><i><a href="../../main/T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../../main/T/The_Palantír.md" title="The Palantír">The Palantír</a>&#34;</cite></p>
 </blockquote>
 
-Được [Người dùng:Quentandil](https://tolkiengateway.net/wiki/User:Quentandil) đơn phương lựa chọn để phù hợp với chủ đề Númenórean của Trang Chính.
+Được [Người dùng:Quentandil](https://tolkiengateway.net/wiki/User:Quentandil) đơn phương chọn để phù hợp với chủ đề Númenórean của Trang chính.
 
 ## 2 tháng 1 năm 2024 - 24 tháng 6 năm 2024 {#2_January_2024_-_24_June_2024}
 

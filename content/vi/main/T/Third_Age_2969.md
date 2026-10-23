@@ -20,8 +20,8 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sự ra đời của [Reginard Took](../R/Reginard_Took.md), con đầu lòng và con trai của [Adelard Took](../A/Adelard_Took.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- Sự ra đời của [Halfred Gamgee](../H/Halfred_Gamgee.md), con thứ hai và con trai thứ hai của [Hamfast Gamgee](../H/Hamfast_Gamgee.md) và [Bell Goodchild](../B/Bell_Goodchild.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Birth of [Reginard Took](../R/Reginard_Took.md), first child and son of [Adelard Took](../A/Adelard_Took.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Birth of [Halfred Gamgee](../H/Halfred_Gamgee.md), second child and second son of [Hamfast Gamgee](../H/Hamfast_Gamgee.md) and [Bell Goodchild](../B/Bell_Goodchild.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

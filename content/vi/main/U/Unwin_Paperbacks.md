@@ -13,4 +13,4 @@ categories:
   - "British businesses"
 ---
 
-**Unwin Sách bìa mềm** là công ty con của [Allen &amp; Unwin](../A/Allen_and_Unwin.md). Họ đã xuất bản nhiều ấn bản bìa mềm của các cuốn sách về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+**Unwin Paperbacks** là công ty con của [Allen &amp; Unwin](../A/Allen_and_Unwin.md). Họ đã xuất bản nhiều ấn bản bìa mềm của các cuốn sách về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).

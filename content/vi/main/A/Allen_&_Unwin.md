@@ -34,7 +34,7 @@ Vào [10 tháng 7](../_/10_July.md) [1990](../_/1990.md), công ty được [Har
 ## Xem thêm {#See_also}
 
 - [Rayner Unwin](../R/Rayner_Unwin.md)
-- [Stanley Unwin](../S/Stanley_Unwin.md)
+- [Stanley không thắng](../S/Stanley_Unwin.md)
 
 ## Liên kết ngoài {#External_links}
 

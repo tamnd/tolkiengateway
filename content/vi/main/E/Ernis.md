@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Erien"
 ---
 
-Chuyển hướng tới [Erien](Erien.md).
+Chuyển hướng đến [Erien](Erien.md).

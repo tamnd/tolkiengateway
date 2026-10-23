@@ -30,7 +30,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bìa *[The Broken Scythe: Death and Immortality in the Works of J.R.R. Tolkien](../../main/T/The_Broken_Scythe.md)*, do [Nhà xuất bản Cây đi bộ](../../main/W/Walking_Tree_Publishers.md) xuất bản. Hình minh họa bìa là *[The Departure of Boromir](../../main/T/The_Departure_of_Boromir.md)* (2003) của [Anke Eißmann](../../main/A/Anke_Eißmann.md).
+Bìa *[The Broken Scythe: Death and Immortality in the Works of J.R.R. Tolkien](../../main/T/The_Broken_Scythe.md)*, do [Nhà xuất bản Cây biết đi](../../main/W/Walking_Tree_Publishers.md)xuất bản. Hình minh họa bìa là *[The Departure of Boromir](../../main/T/The_Departure_of_Boromir.md)* (2003) của [Anke Eißmann](../../main/A/Anke_Eißmann.md).
 
 ## Giấy phép {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - Maiden of Thranduil's Realm.jpg"
 ---
 
-Chuyển hướng tới [Tệp:Ted Nasmith - Maiden of Thranduil's Realm.jpg](Ted_Nasmith_-_Maiden_of_Thranduil's_Realm.jpg.md).
+Chuyển hướng đến [Tệp:Ted Nasmith - Maiden of Thranduil's Realm.jpg](Ted_Nasmith_-_Maiden_of_Thranduil's_Realm.jpg.md).

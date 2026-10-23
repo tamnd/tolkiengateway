@@ -63,7 +63,7 @@ infobox:
     - Bởi: Ian Collier
 - Tolkien và The Hobbit Lịch Shire Đang tính toán!
     - Bởi: Mick Henry
-- Núi Doom và Chiếc Nhẫn Một
+- Núi Doom và Người Nhẫn
     - Bởi: Steven Gibb
 - Xem lại Chúa tể của những chiếc nhẫn trực tuyến
     - Bởi: Joseph Friesen

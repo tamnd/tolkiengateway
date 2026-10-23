@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Meássë"
 ---
 
-Chuyển hướng tới [Meássë](Meássë.md).
+Chuyển hướng đến [Meássë](Meássë.md).

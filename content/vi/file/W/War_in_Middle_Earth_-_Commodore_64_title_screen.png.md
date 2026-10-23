@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Cuộc chiến của [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md) dành cho <a class="extiw" href="http://en.wikipedia.org/wiki/Commodore_64" title="wikipedia:Commodore 64">Commodore 64</a>.
+[J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md) cho <a class="extiw" href="http://en.wikipedia.org/wiki/Commodore_64" title="wikipedia:Commodore 64">Commodore 64</a>.
 
 ## Giấy phép {#Licensing}
 

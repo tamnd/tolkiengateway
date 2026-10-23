@@ -16,7 +16,7 @@ sort_keys:
 
 Ngày [13](../_/13_June.md)-[ngày 15 tháng 6](../_/15_June.md) [1964](../_/1964.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) gửi ông W.R. Matthews**.
 
-- **Mô tả:** Tolkien đã tạo một bản sao của bức thư và đưa nó vào thư mục bản thảo chứa *Words, Phrases &amp; Passages in* The Lord of the Rings*. Bức thư có nội dung thảo luận về [Hắc Ngữ](../B/Black_Speech.md).*
+- **Mô tả:** Tolkien đã tạo một bản sao của bức thư và đưa nó vào thư mục bản thảo chứa *Words, Phrases &amp; Passages in* The Lord of the Rings *. Bức thư có nội dung thảo luận về [Hắc Ngữ](../B/Black_Speech.md).*
 - **Xuất bản:** Một phần lớn của bức thư đã được xuất bản trong [*Parma Eldalamberon*, số 17](../P/Parma_Eldalamberon_17.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>

@@ -69,7 +69,7 @@ May là con gái thứ hai và là con thứ tư của [Hamfast Gamgee](../G/Gaf
 		</li>
 </ul>
 
-<b><a href="../_/2010.md" title="2010">2010</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2010.md" title="2010">2010</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>During the Harvest Festival, May is present near the Party Tree. By talking to her, &#34;The Great Hobbit Rescue&#34; questline can be initiated, in which she asks for help finding her lost friends in the Haunted Burrow.</dd></dl>
 

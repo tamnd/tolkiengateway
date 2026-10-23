@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Trāgu"
 ---
 
-Chuyển hướng đến [Trāgu](Trāgu.md).
+Chuyển hướng tới [Trāgu](Trāgu.md).

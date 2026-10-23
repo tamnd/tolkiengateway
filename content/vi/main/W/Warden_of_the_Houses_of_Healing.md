@@ -52,7 +52,7 @@ Nghe tin đó, ông cai ngục của Y viện vui mừng, lòng ông phấn kh�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The position of the Warden of the Houses of Healing is occupied by a man called <b>Torchún</b>, who is one of the many Wardens sitting on the <a href="../C/Council_of_Gondor.md" title="Council of Gondor">Council of Gondor</a>. Before the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a> he is concerned about gathering as many goods and supplies for his healers as possible. After the battle, he asks the player to assist in both helping the countless wounded as well as driving away numerous well-wishers and visitors who crowd the place.</dd></dl>
 

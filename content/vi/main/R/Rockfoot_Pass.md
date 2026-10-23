@@ -31,6 +31,6 @@ infobox:
 
 ## Lịch sử {#History}
 
-Vào cuối [Kỷ nguyên thứ hai](../S/Second_Age.md), Rockfoot Pass là địa điểm mà một [cộng đồng Harfoot](../H/Harfoots.md) nào đó đã đi qua khi di cư từ nơi trú ẩn theo mùa này sang nơi trú ẩn theo mùa khác, đặc biệt là từ [Norfield Glen](../N/Norfield_Glen.md) đến [Grove](../G/Grove.md).
+Vào cuối [Kỷ nguyên thứ hai](../S/Second_Age.md), Rockfoot Pass là địa điểm mà [cộng đồng Harfoot](../H/Harfoots.md) nhất định đi qua khi di cư từ nơi trú ẩn theo mùa này sang nơi trú ẩn theo mùa khác, đặc biệt là từ [Norfield Glen](../N/Norfield_Glen.md) đến [Grove](../G/Grove.md).
 
 Trong một lần di cư như vậy, con đường di cư thông thường qua Đèo Rockfoot trở nên không thể vượt qua, khiến đoàn lữ hành chính của cộng đồng Harfoot phải cố gắng đi theo một con đường khác xuyên qua một khu rừng kỳ lạ [có sói xâm nhập](../W/Wolves.md). Gia đình Brandyfoot, [Poppy Proudfellow](../P/Poppy_Proudfellow.md) và [The Stranger](../T/The_Stranger.md) vội vã theo sau họ. Trong thời gian này, [Dilly Brandyfoot](../D/Dilly_Brandyfoot.md) bày tỏ sự không thích khu rừng kỳ lạ và Poppy Proudfellow suy ngẫm về điều gì đã khiến đoàn lữ hành chính đến đó. Về vấn đề này, [Elanor Brandyfoot](../E/Elanor_Brandyfoot.md) cho rằng Đèo Rockfoot chắc chắn đã bị chặn. Cuộc thảo luận sau đó đã bị dừng lại bởi [Marigold Brandyfoot](../M/Marigold_Brandyfoot.md), người đưa ra lý do rằng việc kéo xe sẽ không dễ dàng hơn vào đêm đó. The Stranger bắt chước lời cô nói "*Easier in the dark*".

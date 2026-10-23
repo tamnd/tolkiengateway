@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nivrim"
 ---
 
-Chuyển hướng đến [Nivrim](../N/Nivrim.md).
+Chuyển hướng tới [Nivrim](../N/Nivrim.md).

@@ -40,7 +40,7 @@ Bài hát của 11. Sam trong tòa tháp Orc
 12. Bài hát dạo phố (II)
 13. Tiên Thánh ca tặng Elbereth Gilthoniel (III)
 14. Bài hát chia tay của Merry & Pippin
-15. Hobbit giai điệu: Jigs 'n' Reels, Trực tiếp từ Buổi hòa nhạc ở Lâu đài Ledreborg 2005
+15. Hobbit giai điệu: Jigs 'n' Reels, Trực tiếp từ Buổi hòa nhạc tại Lâu đài Ledreborg 2005
 16. Bài hát của Đại bàng, Trực tiếp từ Buổi hòa nhạc ở Lâu đài Ledreborg 2005
 Bài hát của 17. Galadriel của Eldamar (I), Trực tiếp từ Nhà hát Nhạc kịch Bremen 2008
 18. Jigs 'n' Reels (phiên bản encore), Trực tiếp từ Nhà hát Nhạc kịch Bremen 2008

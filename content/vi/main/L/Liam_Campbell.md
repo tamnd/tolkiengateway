@@ -29,7 +29,7 @@ sort_keys:
 ### Bài viết {#Articles}
 
 - [2010](../_/2010.md): *[Middle-earth and Beyond: Essays on the World of J.R.R. Tolkien](../M/Middle-earth_and_Beyond.md)*
-    - "Ông Bombadil bí ẩn: Vai trò của Tom Bombadil là Đại diện cho Tự nhiên trong *The Lord of the Rings*"
+    - "Ông Bombadil bí ẩn: Vai trò của Tom Bombadil là Đại diện cho Thiên nhiên trong *The Lord of the Rings*"
 
 <span></span>
 

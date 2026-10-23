@@ -15,7 +15,7 @@ sort_keys:
   "The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack - Special Edition": "212"
 ---
 
-**Thráin** là bài hát thứ mười hai trong đĩa hai của [The Hobbit: The Battle of the Five Armies - Nhạc phim gốc - Phiên bản đặc biệt](The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md), của [Howard Shore](../H/Howard_Shore.md).
+**Thráin** là bài hát thứ mười hai trong đĩa hai của [The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack - Special Edition](The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md), bởi [Howard Shore](../H/Howard_Shore.md).
 
 ## Xem thêm {#See_also}
 

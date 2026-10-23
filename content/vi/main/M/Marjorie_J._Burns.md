@@ -31,17 +31,17 @@ Tiến sĩ của cô ấy. đến từ <a class="extiw" href="http://en.wikipedi
 ### Sách {#Books}
 
 - [2006](../_/2006.md): *[Perilous Realms: Celtic and Norse in Tolkien's Middle-earth](../P/Perilous_Realms%253A_Celtic_and_Norse_in_Tolkien's_Middle-earth.md)*
-- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia.md)* (cộng tác viên biên tập với [Douglas A. Anderson](../D/Douglas_A._Anderson.md), [Verlyn Flieger](../V/Verlyn_Flieger.md)và [Tom Shippey](../T/Tom_Shippey.md))
+- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia.md)* (liên kết biên tập với [Douglas A. Anderson](../D/Douglas_A._Anderson.md), [Verlyn Flieger](../V/Verlyn_Flieger.md)và [Tom Shippey](../T/Tom_Shippey.md))
 
 ### Điều và Chương {#Articles_and_Chapters}
 
 - [1988](../_/1988.md): *Mythlore: Tạp chí J.R.R. Tolkien, C.S. Lewis và Charles Williams*, Số 53, Tập. 14, không. 3, mùa xuân 1988
     - "Truyện cổ tích vô danh: Vua dòng sông vàng của Ruskin" (trang 38–42)
-- [1989](../_/1989.md): *Mythlore: Tạp chí J.R.R. Tolkien, C.S. Lewis và Charles Williams*, Số 58, Tập. 15, không. 4, mùa hè năm 1989
+- [1989](../_/1989.md): *Mythlore: Tạp chí J.R.R. Tolkien, C.S. Lewis và Charles Williams*, Số 58, Tập. 15, không. Ngày 4, mùa hè năm 1989
     - "J.R.R. Tolkien và Hành trình về phía Bắc" (trang 5–9)
 - [1990](../_/1990.md): *Pacific Coast Philology*, Quyển. XXV, số 1-2, tháng 11 năm 1990
     - "J.R.R. Tolkien: Người Anh và Bắc Âu căng thẳng" (trang 49–59)
-- [1991](../_/1991.md): *Studies in Medievalism*, Tập. III, không. 3-4, mùa đông, xuân 1991
+- [1991](../_/1991.md): *Studies in Medievalism*, Quyển. III, không. 3-4, mùa đông, xuân 1991
     - "Tiếng vang của William Morris' *Icelandic Journals* trong J.R.R. Tolkien" (trang 367–373)
 - [1995](../_/1995.md): *[Proceedings of the J.R.R. Tolkien Centenary Conference](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md)*
     - "Ăn uống, ngấu nghiến, hy sinh và món tráng miệng cuối cùng" (trang 108–114)
@@ -69,7 +69,7 @@ Tiến sĩ của cô ấy. đến từ <a class="extiw" href="http://en.wikipedi
 - [2011](../_/2011.md): *[The Ring and the Cross](../T/The_Ring_and_the_Cross.md)*
     - "Những người mẹ thánh thiện và xa cách"
 - [2014](../_/2014.md): *[Tolkien in the New Century: Essays in Honor of Tom Shippey](../T/Tolkien_in_the_New_Century.md)*
-    - "Sói đêm, nửa quỷ khổng lồ và xác chết không chịu khuất phục"
+    - "Sói đêm, nửa quỷ lùn và xác chết không chịu khuất phục"
 
 ## Liên kết ngoài {#External_links}
 

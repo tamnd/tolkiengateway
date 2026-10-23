@@ -57,7 +57,7 @@ infobox:
         - Bởi: John Carswell
     - "'Đúng là đầy tớ!': Bilbo Baggins, nhà thầu độc lập"
         - Bởi: Murray Smith
-    - "Tolkien, Thảm họa và việc viết lại truyền thuyết thời Trung cổ"
+    - "Tolkien, Thảm họa và việc viết lại truyền thuyết thời Trung Cổ"
         - Bởi: Jane Beal
     - "Tiếng nói của Beorn: Ngôn ngữ đạo đức hóa sự quái dị như thế nào"
         - Bởi: Garrett Senney

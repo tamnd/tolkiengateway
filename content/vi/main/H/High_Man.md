@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tarkil"
 ---
 
-Chuyển hướng tới [Tarkil](../T/Tarkil.md).
+Chuyển hướng đến [Tarkil](../T/Tarkil.md).

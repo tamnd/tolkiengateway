@@ -66,7 +66,7 @@ infobox:
     - Bởi: Jessica Collins & Shirley Dixon
 - Báo cáo: Đảng Premier RotK của Hawaii
     - Bởi: Shalane Sambor
-- Sảnh lửa
+- Cái Hall of Fire
     - Bởi: Lynn Forest-Hill
 - Sự trở lại của nhà phê bình
     - Bởi: *Beruthiel's Pet*

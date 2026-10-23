@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Matěj Čadil - In western lands.jpg"
 ---
 
-Chuyển hướng tới [Tệp:Matěj Čadil - Ở vùng đất phía Tây.jpg](../M/Matěj_Čadil_-_In_western_lands.jpg.md).
+Chuyển hướng đến [Tệp:Matěj Čadil - Ở vùng đất phía Tây.jpg](../M/Matěj_Čadil_-_In_western_lands.jpg.md).

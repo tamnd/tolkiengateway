@@ -29,7 +29,7 @@ infobox:
 
 **Dâu tây** là loại quả dại được tìm thấy ở một số vùng của [Trung Địa](../M/Middle-earth.md).
 
-[Bilbo Baggins](../B/Bilbo_Baggins.md) đã cố gắng thỏa mãn cơn đói của mình bằng dâu tây dại mọc gần một con suối ở thượng nguồn Vales, khi [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) trốn thoát khỏi [Thị trấn yêu tinh](../G/Goblin-town.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> vào đầu [tháng 7](../J/July.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Bilbo Baggins](../B/Bilbo_Baggins.md) đã cố gắng thỏa mãn cơn đói của mình bằng dâu tây dại mọc gần một con suối ở thượng nguồn Vales, khi [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) thoát khỏi [Thị trấn Yêu Tinh](../G/Goblin-town.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> vào đầu [tháng 7](../J/July.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Trong những năm cuối [Kỷ Đệ Tam](../T/Third_Age.md), dâu tây là một trong nhiều loại trái cây được [The Shire](../T/The_Shire.md)sản xuất và được giới trẻ [Hobbit](../H/Hobbits.md)yêu thích.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

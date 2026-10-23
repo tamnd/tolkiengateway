@@ -61,7 +61,7 @@ infobox:
     - Bởi: Ian Spittlehouse
 - Sự đốt cháy *[Palantír](../P/Palantíri.md)* 2
     - Bởi: Ian Collier
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Những ngôi sao sáng nhất của [George Allen &amp; Unwin Ltd](Allen_and_Unwin.md)
     - Bởi: David Doerr

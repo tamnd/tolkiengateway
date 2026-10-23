@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "List of The Lord of the Rings Trading Card Game cards"
 ---
 
-Chuyển hướng tới [Danh sách The Lord of the Rings Thẻ trò chơi trao đổi thẻ](List_of_The_Lord_of_the_Rings_Trading_Card_Game_cards.md).
+Chuyển hướng đến [Danh sách The Lord of the Rings Trading Card Game thẻ](List_of_The_Lord_of_the_Rings_Trading_Card_Game_cards.md).

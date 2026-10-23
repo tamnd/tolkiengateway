@@ -33,7 +33,7 @@ infobox:
 
 **Bà. Proudfoot** là [Hobbit](../H/Hobbits.md) trong số [The Shire](../T/The_Shire.md) người đã khiển trách [chồng cô](../E/Everard_Proudfoot.md) không lời nói vì thích thú với trò hề bắn pháo hoa của [Gandalf](../G/Gandalf.md).
 
-Bà Proudfoot là sáng tạo độc đáo dành cho *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*. Cô được miêu tả bởi [Megan Edwards](Megan_Edwards.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Mrs. Proudfoot là tác phẩm độc đáo dành cho *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*. Cô được miêu tả bởi [Megan Edwards](Megan_Edwards.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

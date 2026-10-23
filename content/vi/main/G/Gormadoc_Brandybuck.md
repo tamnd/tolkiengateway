@@ -64,7 +64,7 @@ Có thể trong thời gian làm việc ông ấy đã phóng to [Brandy Hall](.
 
 Ý nghĩa của tên *Gormadoc* vẫn chưa được biết. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên của Bucklanders có phong cách [Celtic](../C/Celtic.md) mơ hồ.<sup id="cite_ref-Translation_3-0" class="reference"><a href="#cite_note-Translation-3">[3]</a></sup>
 
-[Jim Allan](../J/Jim_Allan.md) gợi ý rằng nó chứa phần tử *gor*, có nghĩa là "kết thúc" trong [tiếng Wales](../W/Welsh.md) làm tiền tố cho [Madoc](../M/Madoc_Brandybuck.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> tên của con trai Gormadoc Brandybuck.
+[Jim Allan](../J/Jim_Allan.md) gợi ý rằng nó chứa phần tử *gor*, có nghĩa là "trên" trong [tiếng Wales](../W/Welsh.md) làm tiền tố cho [Madoc](../M/Madoc_Brandybuck.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> tên của con trai Gormadoc Brandybuck.
 
 <span></span>
 

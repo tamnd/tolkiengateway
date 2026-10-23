@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Gollum](../../main/G/Gollum.md) nhìn [Núi Doom](../../main/M/Mount_Doom.md) từ xa trong ảnh chụp màn hình của trò chơi [The Lord of the Rings: Gollum](../../main/T/The_Lord_of_the_Rings%253A_Gollum.md).
+[Gollum](../../main/G/Gollum.md) nhìn thấy [Núi Doom](../../main/M/Mount_Doom.md) từ xa trong ảnh chụp màn hình của trò chơi [The Lord of the Rings: Gollum](../../main/T/The_Lord_of_the_Rings%253A_Gollum.md).
 
 ## Giấy phép {#Licensing}
 

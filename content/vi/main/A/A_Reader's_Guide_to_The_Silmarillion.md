@@ -50,7 +50,7 @@ infobox:
 - VII - Sự xuất hiện của Con Người
 - VIII - Beren and Lúthien
 - IX - Trận chiến của những giọt nước mắt không đếm xuể: Nirnaeth Arnoediad
-- X - Túrin Turambar, Bậc thầy của sự diệt vong
+- X - Túrin Turambar, Chủ nhân của Doom
 - XI - Sự tàn tích của Doriath
 - XII - Tuor và Sự sụp đổ của Gondolin
 - XIII - Eärendil và Cuộc chiến Phẫn nộ

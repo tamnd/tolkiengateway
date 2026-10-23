@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Hrethel - Rider of Rohan.jpg"
 ---
 
-Chuyển hướng đến [Tệp:The Lord of the Rings - The Two Towers - Hrethel - Rider of Rohan.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Hrethel_-_Rider_of_Rohan.jpg.md).
+Chuyển hướng tới [Tệp:The Lord of the Rings - The Two Towers - Hrethel - Rider of Rohan.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Hrethel_-_Rider_of_Rohan.jpg.md).

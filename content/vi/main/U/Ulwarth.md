@@ -105,7 +105,7 @@ Ngoài ra, những ngày tháng được tìm thấy trong *The Earliest Annals 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Mặc dù <i><a href="../E/Eldamo.md" title="Eldamo">Eldamo</a></i> coi tên <i>Ulwarth</i> là Sindarin, các phần cấu thành của nó thực tế nằm trong <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> (vốn là ngôn ngữ tiền thân của Sindarin).</span>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Trong khi <i><a href="../E/Eldamo.md" title="Eldamo">Eldamo</a></i> coi tên <i>Ulwarth</i> là Sindarin, các phần cấu thành của nó thực sự nằm trong <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> (vốn là ngôn ngữ tiền thân của Sindarin).</span>
 </li>
 </ol></div></span>
 

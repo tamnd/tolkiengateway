@@ -33,7 +33,7 @@ Haldir gia nhập [Liên minh Maedhros](../U/Union_of_Maedhros.md) và lãnh đ�
 
 Sau đó, [Haladin](Haladin.md) có được sự yên bình tương đối trong khu rừng của họ trong hơn 20 năm, cho đến khi bị [Orc](../O/Orcs.md)tấn công bất ngờ. [Handir](Handir.md) lên đường đánh bại họ, nhưng người của anh ta đã bị đánh bại và chính anh ta cũng bị giết.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Ngay sau khi [Brandir](../B/Brandir.md) kế vị, [Túrin](../T/Túrin.md) đến [Brethil](../B/Brethil.md)và không lâu sau bắt đầu nắm quyền kiểm soát [Haladin](Haladin.md). Sau cái chết của [Glaurung](../G/Glaurung.md), Brandir đã bị Túrin giết trong cơn giận dữ trong [F.A.](../F/First_Age.md) [499](../F/First_Age_499.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Sau đó đã có một số tranh cãi trong Brethil liên quan đến việc ai sẽ trở thành Halad tiếp theo. Nhiều người đã mong muốn bầu chọn [Manthor](../M/Manthor.md) nhưng Hardang xuất thân từ nhánh cấp cao của gia đình dưới quyền [Halmir](Halmir.md) và đạt được danh hiệu.<sup id="cite_ref-Wanderings_1-3" class="reference"><a href="#cite_note-Wanderings-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:270</sup>
+Ngay sau khi [Brandir](../B/Brandir.md)kế vị, [Túrin](../T/Túrin.md) đã đến [Brethil](../B/Brethil.md)và không lâu sau bắt đầu nắm quyền kiểm soát [Haladin](Haladin.md). Sau cái chết của [Glaurung](../G/Glaurung.md), Brandir bị Túrin giết trong cơn tức giận ở [F.A.](../F/First_Age.md) [499](../F/First_Age_499.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Sau đó đã có một số tranh cãi trong Brethil liên quan đến việc ai sẽ trở thành Halad tiếp theo. Nhiều người đã mong muốn bầu chọn [Manthor](../M/Manthor.md) nhưng Hardang xuất thân từ nhánh cấp cao của gia đình dưới quyền [Halmir](Halmir.md) và đạt được danh hiệu.<sup id="cite_ref-Wanderings_1-3" class="reference"><a href="#cite_note-Wanderings-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:270</sup>
 
 ## Danh sách thủ lĩnh {#List_of_Chieftains}
 
@@ -42,7 +42,7 @@ Ngay sau khi [Brandir](../B/Brandir.md) kế vị, [Túrin](../T/Túrin.md) đ�
 3. **[Halmir](Halmir.md)**, [F.A.](../F/First_Age.md) [451](../F/First_Age_451.md)–[471](../F/First_Age_471.md)
 4. **[Haldir](<Haldir_(Chieftain_of_the_Haladin).md>)**, [F.A.](../F/First_Age.md) [471](../F/First_Age_471.md)–[472](../F/First_Age_472.md)
 5. **[Handir](Handir.md)**, [F.A.](../F/First_Age.md) [472](../F/First_Age_472.md)–[495](../F/First_Age_495.md)
-6. **[Brandir Kẻ Què](../B/Brandir_the_Lame.md)**, [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md)–[499](../F/First_Age_499.md)
+6. **[Brandir Kẻ què](../B/Brandir_the_Lame.md)**, [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md)–[499](../F/First_Age_499.md)
 7. **[Hardang](Hardang.md)**, [F.A.](../F/First_Age.md) [499](../F/First_Age_499.md)–[501](../F/First_Age_501.md)
 8. **[Avranc](../A/Avranc.md)**, [F.A.](../F/First_Age.md) [501](../F/First_Age_501.md)–[F.A.](../F/First_Age.md)???
 

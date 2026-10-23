@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Lừa dối [Orc](../../main/O/Orcs.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md). Được tạo ra vào năm 2002, dựa trên các bản phác thảo được thực hiện vào năm 1978, ban đầu được thiết kế cho lịch năm 1979.
+“Lừa dối [Orc](../../main/O/Orcs.md)” bởi [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md). Được tạo ra vào năm 2002, dựa trên các bản phác thảo được thực hiện vào năm 1978, ban đầu được thiết kế cho lịch năm 1979.
 
 ## Giấy phép {#Licensing}
 

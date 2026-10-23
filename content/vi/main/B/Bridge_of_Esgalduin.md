@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Iant Iaur"
 ---
 
-Chuyển hướng đến [Iant Iaur](../I/Iant_Iaur.md).
+Chuyển hướng tới [Iant Iaur](../I/Iant_Iaur.md).

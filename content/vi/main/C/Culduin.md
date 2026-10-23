@@ -32,7 +32,7 @@ Trang fansite [Thelandofshadow.com](../T/Thelandofshadow.com.md) đã lấy mộ
 </p>
 </blockquote>
 
-Thông tin từ The Land of Bóng Tối đã được đưa vào dưới dạng sửa đổi một chút vào quạt *Mordor Gazetteer* của nhóm mô-đun quạt Middle-earth Role Playing (MERP).
+Thông tin từ Vùng đất của Bóng Tối đã được đưa vào dưới dạng sửa đổi một chút vào quạt *Mordor Gazetteer* của nhóm mô-đun quạt Middle-earth Role Playing (MERP).
 
 ## Từ nguyên {#Etymology}
 

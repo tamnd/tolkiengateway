@@ -29,7 +29,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Vì Biển Bắc nằm ngay phía tây [Vịnh băng Forochel](../I/Icebay_of_Forochel.md), nơi từng là một phần của vùng đất phía bắc [Beleriand](../B/Beleriand.md), nên có vẻ như Biển Bắc ít nhất được hình thành một phần do [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tuy nhiên, vẫn chưa rõ liệu Biển Bắc có phải là một vùng biển riêng hay không, tiền thân của Biển Bắc. [Belegaer](../B/Belegaer.md), tên khác của [Vịnh băng Forochel](../I/Icebay_of_Forochel.md), hoặc tên của các khu vực phía bắc Belegaer.
+Vì Biển Bắc nằm ngay phía tây của [Vịnh băng Forochel](../I/Icebay_of_Forochel.md), nơi từng là một phần đất liền ở phía bắc [Beleriand](../B/Beleriand.md), nên có vẻ như Biển Bắc ít nhất được hình thành một phần do [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tuy nhiên, vẫn chưa rõ liệu Biển Bắc có phải là một vùng biển riêng hay không, tiền thân của Biển Bắc. [Belegaer](../B/Belegaer.md), tên khác của [Vịnh băng Forochel](../I/Icebay_of_Forochel.md), hoặc tên của các khu vực phía bắc Belegaer.
 
 ### Quần đảo {#Islands}
 

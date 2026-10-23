@@ -56,7 +56,7 @@ infobox:
 
 ## Từ nguyên {#Etymology}
 
-*Axantur* là tên [Quenya](../Q/Quenya.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng rõ ràng nó là sự kết hợp của *[axan](Axan.md)* ("luật pháp, quy tắc, điều răn") + *[tur](../T/Tur.md)* ("chủ, chúa"); nghĩa rõ ràng là "Thạc sĩ luật".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Axantur* là tên [Quenya](../Q/Quenya.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng rõ ràng nó là sự kết hợp của *[axan](Axan.md)* ("luật pháp, quy tắc, điều răn") + *[tur](../T/Tur.md)* ("chủ, chúa"); ý nghĩa rõ ràng là "Chủ nhân của Luật".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

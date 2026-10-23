@@ -27,7 +27,7 @@ file:
 
 Bản đồ cảnh quan Trung Địa.
 
-Được tạo bằng <a class="external text" href="http://www.povray.org/" rel="noreferrer noopener" target="_blank">POV-Ray dành cho Linux</a> và <a class="external text" href="http://geomorph.sourceforge.net/" rel="noreferrer noopener" target="_blank">Geomorph</a>. Bản đồ gốc của [Christopher Tolkien](../../main/C/Christopher_Tolkien.md) được sử dụng làm nguồn.
+Được tạo bằng <a class="external text" href="http://www.povray.org/" rel="noreferrer noopener" target="_blank">POV-Ray cho Linux</a> và <a class="external text" href="http://geomorph.sourceforge.net/" rel="noreferrer noopener" target="_blank">Geomorph</a>. Bản đồ gốc của [Christopher Tolkien](../../main/C/Christopher_Tolkien.md) được sử dụng làm nguồn.
 
 ## Giấy phép {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Roäc"
 ---
 
-Chuyển hướng tới [Roäc](Roäc.md).
+Chuyển hướng đến [Roäc](Roäc.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tehtar"
 ---
 
-Chuyển hướng tới [Tehtar](Tehtar.md).
+Chuyển hướng đến [Tehtar](Tehtar.md).

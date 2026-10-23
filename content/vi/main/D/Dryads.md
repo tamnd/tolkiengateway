@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dryads (disambiguation)"
 ---
 
-Chuyển hướng đến [Dryads (định hướng)](<Dryads_(disambiguation).md>).
+Chuyển hướng tới [Dryads (định hướng)](<Dryads_(disambiguation).md>).

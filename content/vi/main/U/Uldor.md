@@ -92,7 +92,7 @@ Một điều gây tò mò về cái tên *Uldor* là nó vẫn không thay đ�
 
 ### Các phiên bản trước của *[Nirnaeth](../N/Nirnaeth.md)* {#Earlier_versions_of_the_Nirnaeth}
 
-Theo các phiên bản trước của truyền thuyết, thay vì bị giết bởi Maglor trong Trận chiến nước mắt không đếm được, Uldor lại bị giết bởi Cranthir (tên trước đó của Caranthir).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
+Theo các phiên bản trước của truyền thuyết, thay vì bị giết bởi Maglor trong Trận chiến nước mắt không đếm được, Uldor lại bị giết bởi Cranthir (tên trước đây của Caranthir).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
 
 Chỉ trong *[The Grey Annals](../T/The_Grey_Annals.md)* (c. [1951](../_/1951.md)) câu chuyện về cái chết của Uldor dưới bàn tay của Maglor mới xuất hiện, cũng như ý tưởng rằng Uldor đã triệu tập thêm Con Người từ phía đông của Beleriand.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup>
 

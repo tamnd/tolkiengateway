@@ -47,7 +47,7 @@ Trong bài đánh giá về *Lords of Middle-earth: Vol. I* trên tạp chí *[W
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-NHỮNG NGƯỜI BẤT CỨ: ELVES, MAIAR VÀ VALAR
+THE IMMORTALS: ELVES, MAIAR, AND VALAR
 
 Trong trò chơi nhập vai giả tưởng, bạn trở thành nhân vật chính trong cuộc phiêu lưu giả tưởng do chính bạn tạo ra. Với bản tóm tắt nhân vật này, bạn có thể gặp những nhân vật thú vị nhất của Trung Địa! Gọi họ ra để tăng thêm kịch tính và nguy hiểm cho trò chơi giả tưởng của bạn. Đấu trí với Saruman quân Trắng... thách thức sức mạnh của Balrog! Bạn có thể vượt qua Glorfindel hoặc chống lại sự hiện diện của Chúa tể những chiếc nhẫn không?
 

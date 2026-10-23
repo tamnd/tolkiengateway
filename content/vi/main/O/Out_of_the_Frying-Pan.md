@@ -50,7 +50,7 @@ sort_keys:
 <li><a href="../D/Dreaming_of_Bag_End.md" title="Dreaming of Bag End">Dreaming of Bag End</a></li></ol>
 </td></tr></tbody></table>
 
-**Out of the Frying-Pan** là bài hát thứ mười của đĩa hai của *[The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack](../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.md)* và [nhạc phim phiên bản đặc biệt](../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md), của [Howard Shore](../H/Howard_Shore.md).
+**Out of the Frying-Pan** là bài hát thứ mười của đĩa hai của *[The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack](../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.md)* và [nhạc phim phiên bản đặc biệt](../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md) của [Howard Shore](../H/Howard_Shore.md).
 
 ## Xem thêm {#See_also}
 

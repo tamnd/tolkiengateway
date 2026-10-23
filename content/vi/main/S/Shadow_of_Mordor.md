@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: Shadow of Mordor"
 ---
 
-Chuyển hướng đến [Trung Địa: Bóng Tối trong số Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md).
+Chuyển hướng đến [Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md).

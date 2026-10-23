@@ -60,9 +60,9 @@ Những người hầu của Saruman cũng bao gồm những sinh vật được
 
 Nguồn gốc và bản chất của nửa orc vẫn chưa được biết. Trong [Kỷ Đệ Tam](../T/Third_Age.md), rõ ràng Saruman đã biết rằng có thể kết hợp [Con Người](../M/Men.md) với Orc. Vì vậy, ông đã tạo ra những nửa Orc và yêu tinh phục vụ ông. Không giống như Orc bình thường, nửa orc hoàn toàn không bị ảnh hưởng bởi ánh sáng mặt trời.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-[Người miền nam mắt lác](../S/Squint-eyed_southerner.md), một kẻ sống ngoài vòng pháp luật bị đuổi từ [Dunland](../D/Dunland.md) đến [Bree](../B/Bree.md) và phục tùng Saruman, có thể là một nửa orc.<sup id="cite_ref-Knife_2-1" class="reference"><a href="#cite_note-Knife-2">[2]</a></sup><sup id="cite_ref-UT10_6-0" class="reference"><a href="#cite_note-UT10-6">[6]</a></sup>
+[Người miền Nam mắt lác](../S/Squint-eyed_southerner.md), một kẻ sống ngoài vòng pháp luật bị đuổi từ [Dunland](../D/Dunland.md) đến [Bree](../B/Bree.md) và phục tùng Saruman, có thể là một nửa orc.<sup id="cite_ref-Knife_2-1" class="reference"><a href="#cite_note-Knife-2">[2]</a></sup><sup id="cite_ref-UT10_6-0" class="reference"><a href="#cite_note-UT10-6">[6]</a></sup>
 
-Một nửa orc nằm trong số [Dunlending](../D/Dunlendings.md) đến với biểu ngữ [Bàn tay trắng](../W/White_Hand.md) của Saruman ở [Isengard](../I/Isengard.md).<sup id="cite_ref-TTIII9_3-1" class="reference"><a href="#cite_note-TTIII9-3">[3]</a></sup> Nhiều người được coi là những người hầu mạnh nhất của Saruman. Hầu hết các nửa orc đều bỏ mạng tại [Trận Hornburg](../B/Battle_of_the_Hornburg.md), trước các bức tường pháo đài hoặc trước [Huorn](Huorns.md).
+Bán orc nằm trong số những [Dunlending](../D/Dunlendings.md) đến với biểu ngữ [Bàn tay trắng](../W/White_Hand.md) của Saruman trong [Isengard](../I/Isengard.md).<sup id="cite_ref-TTIII9_3-1" class="reference"><a href="#cite_note-TTIII9-3">[3]</a></sup> Nhiều người được coi là những người hầu mạnh nhất của Saruman. Hầu hết các nửa orc đều bỏ mạng tại [Trận Hornburg](../B/Battle_of_the_Hornburg.md), trước các bức tường pháo đài hoặc trước [Huorn](Huorns.md).
 
 Sau đó, nhiều Half-orc khác cũng theo [Saruman](../S/Saruman.md) đi lưu vong, và nằm trong số [Ruffians](../R/Ruffians.md) của hắn đã chiếm đóng [ Shire](../T/The_Shire.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
@@ -111,7 +111,7 @@ Về nguồn gốc của nửa orc, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đ�
 
 <dl><dd>Half-orcs and Greater Half-orcs are Orc Factions, playable by Fallen Wizards.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Half-orcs were categorized as one of the varieties of Orc-kind, along with Orcs, Goblins, <a href="Hobgoblins.md" title="Hobgoblins">Hobgoblins</a> and Uruks. Half-orc Bandits were found in the <a href="../L/Lone-lands.md" title="Lone-lands">Lone-lands</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> They were affiliated with <a href="../S/Saruman.md" title="Saruman">Saruman</a> and could be found in almost every region he had influence in. His half-orcs in <a href="../E/Eriador.md" title="Eriador">Eriador</a> included many in <a href="../D/Dunland.md" title="Dunland">Dunland</a>, <a href="../E/Enedwaith.md" title="Enedwaith">Enedwaith</a>, <a href="../E/Eregion.md" title="Eregion">Eregion</a>, the Lone-lands, and <a href="../A/Andrath.md" title="Andrath">Andrath</a> in Bree-land. A small number of half-orcs could be found as far as Nan Gurth in <a href="../A/Angmar.md" title="Angmar">Angmar</a>. His half-orcs also could be found in <a href="../R/Rohan.md" title="Rohan">Rohan</a> as far east as the Sutcrofts in the <a href="../E/Eastemnet.md" title="Eastemnet">Eastemnet</a>.</dd></dl>
 

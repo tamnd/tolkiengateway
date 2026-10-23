@@ -24,11 +24,11 @@ images:
 ## Chương {#Chapters}
 
 - *[Minas Tirith (chapter)](<Minas_Tirith_(chapter).md>)*, chương đầu tiên của [Quyển V](../T/The_Return_of_the_King.md) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Minas_Tirith_(The_War_of_the_Ring)&amp;action=edit&amp;redlink=1" title="Minas Tirith (The War of the Ring) (page does not exist)">Minas Tirith (The Cuộc chiến Nhẫn)</a></i>, chương thứ ba của phần thứ ba (còn gọi là *Minas Tirith*) của *[The War of the Ring](../T/The_War_of_the_Ring.md)*
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Minas_Tirith_(The_War_of_the_Ring)&amp;action=edit&amp;redlink=1" title="Minas Tirith (The War of the Ring) (page does not exist)">Minas Tirith (The War of the Ring)</a></i>, chương thứ ba của phần thứ ba (còn gọi là *Minas Tirith*) của *[The War of the Ring](../T/The_War_of_the_Ring.md)*
 
 ## Các tác phẩm chuyển thể và sách {#Adaptations_and_books}
 
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Minas_Tirith_(episode)&amp;action=edit&amp;redlink=1" title="Minas Tirith (episode) (page does not exist)">Minas Tirith (tập)</a></i>, tập thứ 16 của [Đài phát thanh BBC](../B/BBC.md) năm 1981 [loạt phim phát thanh *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>), phát sóng [ngày 5 tháng 7](../_/5_July.md), [1981](../_/1981.md)
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Minas_Tirith_(episode)&amp;action=edit&amp;redlink=1" title="Minas Tirith (episode) (page does not exist)">Minas Tirith (tập)</a></i>, tập thứ 16 của [BBC Radio](../B/BBC.md) năm 1981 [sê-ri radio *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>), phát sóng [ngày 5 tháng 7](../_/5_July.md), [1981](../_/1981.md)
 - *[Minas Tirith (scene)](<Minas_Tirith_(scene).md>)*, cảnh thứ chín trong phiên bản chiếu rạp của bộ phim [2003](../_/2003.md) *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*và cảnh thứ mười một trong [phiên bản mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>)
     - *[Minas Tirith (soundtrack)](<Minas_Tirith_(soundtrack).md>)*, một bài hát trên *[The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md)*
 - [Middle-earth Role Playing](Middle-earth_Role_Playing.md)

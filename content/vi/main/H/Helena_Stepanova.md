@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images by Helena Stepanova"
 ---
 
-Chuyển hướng đến [Danh mục:Hình ảnh của Helena Stepanova](../../category/I/Images_by_Helena_Stepanova.md).
+Chuyển hướng tới [Danh mục:Hình ảnh của Helena Stepanova](../../category/I/Images_by_Helena_Stepanova.md).

@@ -68,7 +68,7 @@ Thông qua con trai Glóin, ông cũng là ông nội của [Gimli Bạn của T
 
 ## Từ nguyên {#Etymology}
 
-[Jim Allan](../J/Jim_Allan.md) đã gợi ý rằng *Gróin* (như *[Grór](Grór.md#Etymology)*) có nguồn gốc từ [tiếng Bắc Âu cổ](../O/Old_Norse.md) *gróa* ("phát triển"), do đó có nghĩa là "Một người đang phát triển".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Jim Allan](../J/Jim_Allan.md) đã gợi ý rằng *Gróin* (như *[Grór](Grór.md#Etymology)*) có nguồn gốc từ [tiếng Bắc Âu cổ](../O/Old_Norse.md) *gróa* ("để phát triển"), do đó có nghĩa là "Một người đang phát triển".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -88,7 +88,7 @@ Thông qua con trai Glóin, ông cũng là ông nội của [Gimli Bạn của T
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Gróin appears in an extended flashback depicting the <a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Battle of Azanulbizar</a>, in which he fights alongside his sons <a href="../_/Óin.md" title="Óin">Óin</a> and <a href="Glóin.md" title="Glóin">Glóin</a> and the rest of <a href="../F/Farin.md" title="Farin">Farin</a>&#39;s kin.</dd></dl>
 

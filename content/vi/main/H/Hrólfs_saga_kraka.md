@@ -20,7 +20,7 @@ sort_keys:
 
 ## Lô đồ {#Plot}
 
-Câu chuyện mô tả lịch sử phức tạp, bạo lực của hoàng gia Đan Mạch (Skjöldungs), bao gồm cả cuộc hôn nhân loạn luân dẫn đến sự ra đời của Hrólf. Với tư cách là vua, Hrólf tập hợp một nhóm gồm những kẻ điên cuồng và những nhà vô địch. Nổi tiếng nhất trong số này là Böðvar Bjarki, một "chiến binh gấu", người có thể phóng một linh hồn gấu khổng lồ ra chiến trường trong khi cơ thể anh ta vẫn ở trạng thái thôi miên. Vương quốc bị cản trở bởi những mụ phù thủy lôi kéo, những lời nguyền của người già và xung đột với Vua Aðils của Thụy Điển. Vào cuối câu chuyện, Hrólf bị người chị cùng cha khác mẹ Skúld phản bội từ bên trong, dẫn đến một trận chiến cuối cùng hoành tráng nhưng đầy chết chóc.
+Câu chuyện mô tả lịch sử phức tạp, bạo lực của hoàng gia Đan Mạch (Skjöldungs), bao gồm cả cuộc hôn nhân loạn luân dẫn đến sự ra đời của Hrólf. Với tư cách là vua, Hrólf tập hợp một nhóm gồm những kẻ điên cuồng và những nhà vô địch. Nổi tiếng nhất trong số này là Böðvar Bjarki, một "chiến binh gấu", người có thể phóng một linh hồn gấu khổng lồ ra chiến trường trong khi cơ thể anh ta vẫn ở trạng thái xuất thần. Vương quốc bị cản trở bởi những mụ phù thủy lôi kéo, những lời nguyền của người già và xung đột với Vua Aðils của Thụy Điển. Vào cuối câu chuyện, Hrólf bị người chị cùng cha khác mẹ Skúld phản bội từ bên trong, dẫn đến một trận chiến cuối cùng hoành tráng nhưng chết chóc.
 
 ## Nền {#Background}
 
@@ -28,7 +28,7 @@ Tolkien được biết là đã tạo ra một truyện ngắn dựa trên *Hr�
 
 Trong [1933](../_/1933.md), học trò của Tolkien [Stella M. Mills](../S/Stella_M._Mills.md) đã xuất bản bản dịch *[The Saga of Hrolf Kraki](../T/The_Saga_of_Hrolf_Kraki.md)*. Mills dành tặng cuốn sách này cho Tolkien.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Bản thảo được xuất bản trong [John D. Rateliff](../J/John_D._Rateliff.md) *[The History of The Hobbit](../T/The_History_of_The_Hobbit.md)* tiết lộ rằng Tolkien những ghi chú nguệch ngoạc ban đầu cho thấy việc Beorn thay đổi hình dạng là một lời nguyền sẽ được dỡ bỏ sau [Trận chiến của năm đạo quân](../B/Battle_of_Five_Armies.md). Điều này phản ánh trực tiếp lời nguyền ma thuật bi thảm của cha Bjarki, mặc dù Tolkien cuối cùng đã thay đổi ý định trong cuốn sách cuối cùng, khiến việc thay đổi làn da trở thành một phần bản chất tự nhiên của Beorn. Tolkien đã phổ biến thuật ngữ **"**người thay đổi làn da" (*hamrammr* trong tiếng Bắc Âu cổ) cho nhân vật Beorn của anh ấy.
+Các bản nháp được xuất bản trong [John D. Rateliff](../J/John_D._Rateliff.md) *[The History of The Hobbit](../T/The_History_of_The_Hobbit.md)* tiết lộ rằng Tolkien những ghi chú nguệch ngoạc ban đầu cho thấy việc Beorn thay đổi hình dạng là một lời nguyền sẽ được dỡ bỏ sau [Trận chiến của năm đạo quân](../B/Battle_of_Five_Armies.md). Điều này phản ánh trực tiếp lời nguyền ma thuật bi thảm của cha Bjarki, mặc dù Tolkien cuối cùng đã thay đổi ý định trong cuốn sách cuối cùng, khiến việc thay đổi làn da trở thành một phần bản chất tự nhiên của Beorn. Tolkien đã phổ biến thuật ngữ **"**người thay đổi làn da" (*hamrammr* trong tiếng Bắc Âu cổ) cho nhân vật Beorn của anh ấy.
 
 ## Liên kết ngoài {#External_links}
 

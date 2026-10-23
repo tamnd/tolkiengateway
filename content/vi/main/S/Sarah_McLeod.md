@@ -40,7 +40,7 @@ infobox:
 
 **Sarah McLeod** (b. [18 tháng 7](../_/18_July.md), [1971](../_/1971.md)) là nữ diễn viên New Zealand đóng vai [Rose Cotton](../R/Rose_Cotton.md) trong [*The Lord of the Rings* loạt phim](<../T/The_Lord_of_the_Rings_(film_series).md>).
 
-Vào tháng 6 [2007](../_/2007.md), cô và 14 diễn viên khác đã đệ đơn <a class="external text" href="https://us.imdb.com/news/ni0058227/" rel="noreferrer noopener" target="_blank">đơn kiện</a> chống lại [New Line Cinema](../N/New_Line_Cinema.md) về việc buôn bán tiền bản quyền.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vụ kiện đã được giải quyết bên ngoài tòa án vào tháng 10 [2008](../_/2008.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào tháng 6 [2007](../_/2007.md), cô và 14 diễn viên khác đã đệ đơn <a class="external text" href="https://us.imdb.com/news/ni0058227/" rel="noreferrer noopener" target="_blank">đơn kiện</a> chống lại [New Line Cinema](../N/New_Line_Cinema.md) về việc buôn bán tiền bản quyền.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vụ kiện đã được giải quyết ngoài tòa án vào tháng 10 [2008](../_/2008.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Trích dẫn {#Quotes}
 

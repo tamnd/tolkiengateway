@@ -71,7 +71,7 @@ Anh đi cùng đoàn tùy tùng của Isildur từ [Gondor](../G/Gondor.md) đ�
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Ohtar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/86/The_Lord_of_the_Rings_Online_-_Ohtar.jpg/150px-The_Lord_of_the_Rings_Online_-_Ohtar.jpg" decoding="async" loading="lazy" width="150" height="295" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/86/The_Lord_of_the_Rings_Online_-_Ohtar.jpg/225px-The_Lord_of_the_Rings_Online_-_Ohtar.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/86/The_Lord_of_the_Rings_Online_-_Ohtar.jpg/300px-The_Lord_of_the_Rings_Online_-_Ohtar.jpg 2x" data-file-width="550" data-file-height="1080"/></a><figcaption>Ohtar in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Ohtar appears in an extended flashback depicting the the <a href="../W/War_of_the_Last_Alliance.md" title="War of the Last Alliance">War of the Last Alliance</a>.</dd></dl>
 

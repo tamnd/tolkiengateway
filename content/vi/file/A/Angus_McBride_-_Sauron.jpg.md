@@ -29,7 +29,7 @@ file:
 
 [Sauron](../../main/S/Sauron.md) của [Angus McBride](../../main/A/Angus_McBride.md), xuất hiện trong [Jessica Ney](../../main/J/Jessica_M._Ney-Grimm.md), *[Angus McBride's Characters of Middle-earth](../../main/A/Angus_McBride's_Characters_of_Middle-earth.md)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #8007, ed.; 1990) .
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.ironcrown.com/" rel="noreferrer noopener" target="_blank">Iron Crown Enterprises</a>. It is believed that the limited use of this file,

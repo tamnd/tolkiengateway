@@ -21,9 +21,9 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Sauron](Sauron.md) bị lật đổ bởi [Elendil](../E/Elendil.md) và [Gil-galad](../G/Gil-galad.md), những người thiệt mạng.<sup id="cite_ref-ddddd_1-0" class="reference"><a href="#cite_note-ddddd-1">[1]</a></sup>
-- [Isildur](../I/Isildur.md) lấy [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).<sup id="cite_ref-ddddd_1-1" class="reference"><a href="#cite_note-ddddd-1">[1]</a></sup>
+- [Isildur](../I/Isildur.md) lấy [Người Nhẫn](../T/The_One_Ring.md).<sup id="cite_ref-ddddd_1-1" class="reference"><a href="#cite_note-ddddd-1">[1]</a></sup>
 - [Sauron](Sauron.md) qua đi và [Nazgûl](../N/Nazgûl.md) chìm vào bóng tối.<sup id="cite_ref-ddddd_1-2" class="reference"><a href="#cite_note-ddddd-1">[1]</a></sup>
-- [Thời đại thứ hai](Second_Age.md) kết thúc.<sup id="cite_ref-ddddd_1-3" class="reference"><a href="#cite_note-ddddd-1">[1]</a></sup>
+- [Thời thứ hai](Second_Age.md) kết thúc.<sup id="cite_ref-ddddd_1-3" class="reference"><a href="#cite_note-ddddd-1">[1]</a></sup>
 
 <span></span>
 

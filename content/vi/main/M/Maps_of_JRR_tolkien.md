@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Maps"
 ---
 
-Chuyển hướng tới [Danh mục:Bản đồ](../../category/M/Maps.md).
+Chuyển hướng đến [Danh mục:Bản đồ](../../category/M/Maps.md).

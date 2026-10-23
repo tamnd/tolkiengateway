@@ -121,7 +121,7 @@ of Beren son of Barahir!&#39;
 <p class="tg-quote-footer"><cite>vv. 942-945</cite></p>
 </blockquote>
 
-Lúthien đã Thingol thề không giết hoặc bỏ tù Beren, rồi dẫn anh ta vào trong Menegroth. Tiếp theo là phần mô tả sinh động (xem *[Menegroth](../M/Menegroth.md)*). Beren quá choáng váng để trả lời bất kỳ câu hỏi nào, cho đến khi anh nhìn vào mắt Melian và lấy hết can đảm.
+Lúthien đã Thingol thề không giết hoặc bỏ tù Beren, rồi dẫn anh ta vào trong Menegroth. Tiếp theo là phần mô tả sống động (xem *[Menegroth](../M/Menegroth.md)*). Beren quá choáng váng để trả lời bất kỳ câu hỏi nào, cho đến khi anh nhìn vào mắt Melian và lấy hết can đảm.
 
 <blockquote class="tg-quote noexcerpt">
 <p>...and thence was slowly drawn his gaze<br/>

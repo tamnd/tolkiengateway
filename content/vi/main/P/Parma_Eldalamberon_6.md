@@ -46,7 +46,7 @@ infobox:
 
 <i><b>Parma Eldalamberon 6</b></i> là số thứ sáu của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, tạp chí nghiên cứu ngôn ngữ học về các ngôn ngữ Elvish và tên gọi trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Đây là số đầu tiên sau khi được [Christopher Gilson](../C/Christopher_Gilson.md)hồi sinh. John Closson đóng góp với bức thư pháp trên bìa trước và Silas Andrews với tác phẩm nghệ thuật nội thất.
+Đây là số đầu tiên sau khi được [Christopher Gilson](../C/Christopher_Gilson.md)hồi sinh. John Closson đóng góp phần thư pháp trên bìa trước và Silas Andrews đóng góp tác phẩm nghệ thuật nội thất.
 
 Nó bao gồm một lá thư của [Rhona Beare](../R/Rhona_Beare.md) báo cáo những ghi chú ngắn gọn được thực hiện trên phiên bản nháp của [Bản đồ của Thrór](../T/Thrór's_Map.md). Những ghi chú này bao gồm cụm từ *"Cửa cao năm thước và ba người có thể đi ngang nhau"* trong [Noldorin](../N/Noldorin.md) và [tiếng Anh cổ](../O/Old_English.md). Rhone Beare đã sao chép các ghi chú từ bản đồ khi nó được trưng bày trong cuộc triển lãm "Sự tò mò về bản đồ" tại Bảo tàng Anh. Bản nháp của Bản đồ của Thrór được đưa vào *[J.R.R. Tolkien: Artist and Illustrator](../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)*, hình 85.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

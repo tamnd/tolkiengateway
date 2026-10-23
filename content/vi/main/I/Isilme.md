@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Isilmë"
 ---
 
-Chuyển hướng tới [Isilmë](Isilmë.md).
+Chuyển hướng đến [Isilmë](Isilmë.md).

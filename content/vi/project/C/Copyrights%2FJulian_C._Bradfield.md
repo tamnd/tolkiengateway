@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Bradfield, Julian C."
 ---
 
-- Người giữ bản quyền Julian C. Bradfield cấp phép qua email để sử dụng [Julian C. Bradfield.png](../../file/J/Julian_C._Bradfield.png.md) trên Tolkien Gateway.
+- Người giữ bản quyền Julian C. Bradfield đã cấp phép qua email để sử dụng [Julian C. Bradfield.png](../../file/J/Julian_C._Bradfield.png.md) trên Tolkien Gateway.
 - Ngày: 12 tháng Chín năm 2011
 - Người dùng đã xin phép: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

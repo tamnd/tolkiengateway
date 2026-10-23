@@ -44,7 +44,7 @@ infobox:
 
 **Beltronding** là một [cung](Bows.md) hùng mạnh, được làm bằng gỗ thủy tùng đen, được mang bởi cung thủ dũng mãnh nhất của [Kỷ Đệ Nhất](../F/First_Age.md), [Beleg](Beleg.md) Strongbow của [Doriath](../D/Doriath.md). Với nó, anh ấy nợ [biệt hiệu](../E/Epessë.md) của riêng mình, *Cúthalion* ("Strongbow").
 
-Với nó, anh đã bảo vệ biên giới của Vua [Thingol](../T/Thingol.md)trong một thời gian dài, và khi rời [Doriath](../D/Doriath.md) để tìm kiếm người bạn [Túrin](../T/Túrin.md)của mình, anh đã mang nó theo. Khi anh ấy tìm thấy anh ấy, cùng nhau, từ hội trường của [Mîm](../M/Mîm.md) ở [Amon Rûdh](../A/Amon_Rûdh.md), họ đã thành lập vương quốc [Dor-Cúarthol](../D/Dor-Cúarthol.md) - Vùng đất của Cung và Helm - với anh ấy là 'Cung'.
+Với nó, anh ấy đã bảo vệ biên giới Vua [Thingol](../T/Thingol.md)từ lâu, và khi rời [Doriath](../D/Doriath.md) để tìm kiếm người bạn [Túrin](../T/Túrin.md)của mình, anh ấy đã mang nó theo. Khi anh ấy tìm thấy anh ấy, cùng nhau, từ hội trường của [Mîm](../M/Mîm.md) ở [Amon Rûdh](../A/Amon_Rûdh.md), họ đã thành lập vương quốc [Dor-Cúarthol](../D/Dor-Cúarthol.md) - Vùng đất của Cung và Helm - với anh ấy là 'Cung'.
 
 Khi cả hai bị [Orc](../O/Orcs.md)phản bội, Beleg đã đi giải thoát bạn mình, nhưng trong một ngã rẽ bi thảm của số phận Túrin đã nhầm anh ta là kẻ thù và giết chết anh ta. Quá đau buồn, Túrin đã đào một ngôi mộ cho Beleg và chôn cất Belthronding bên cạnh người chủ quá cố của nó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

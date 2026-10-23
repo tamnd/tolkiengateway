@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letters to Przemyslaw Mroczkowski (1958)"
 ---
 
-Chuyển hướng tới [Thư gửi Przemyslaw Mroczkowski (1958)](<../L/Letters_to_Przemyslaw_Mroczkowski_(1958).md>).
+Chuyển hướng đến [Thư gửi Przemyslaw Mroczkowski (1958)](<../L/Letters_to_Przemyslaw_Mroczkowski_(1958).md>).

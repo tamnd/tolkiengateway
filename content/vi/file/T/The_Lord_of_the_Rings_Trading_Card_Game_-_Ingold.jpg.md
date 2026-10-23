@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Return of the King - Ingold.jpg"
 ---
 
-Chuyển hướng đến [Tệp:The Lord of the Rings - The Return of the King - Ingold.jpg](The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Ingold.jpg.md).
+Chuyển hướng tới [Tệp:The Lord of the Rings - The Return of the King - Ingold.jpg](The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Ingold.jpg.md).

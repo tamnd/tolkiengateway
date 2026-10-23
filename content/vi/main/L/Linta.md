@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Từ nguyên không rõ ràng, nhưng có lẽ gợi ý về [Gốc](../S/Sundocarmë.md) \*LIN hoặc \*LIT
+Từ nguyên không rõ ràng, nhưng có lẽ gợi ý đến [Gốc](../S/Sundocarmë.md) \*LIN hoặc \*LIT
 
 ## Ví dụ {#Examples}
 

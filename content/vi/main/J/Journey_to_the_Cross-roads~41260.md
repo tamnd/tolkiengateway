@@ -43,6 +43,6 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) nằm trong [Ithilien](../I/Ithilien.md). Trong khi Sam ngủ, Frodo vuốt ve [Chiếc nhẫn](../T/The_One_Ring.md) nhưng nhanh chóng giấu nó đi khi nghe thấy [Gollum](../G/Gollum.md) đến gần. Gollum nói với họ rằng họ cần phải nhanh chóng tiếp tục. Anh ấy rời đi khi Frodo và Sam ăn ít bánh mì [lembas](../L/Lembas.md). Frodo được biết từ Sam rằng anh ấy đã chia khẩu phần bánh mì lembas còn lại để họ có đủ cho chuyến hành trình về nhà. Nghe vậy, Frodo dừng lại và không nói gì.
+[Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) nằm trong [Ithilien](../I/Ithilien.md). Trong khi Sam ngủ, Frodo vuốt ve [Nhẫn](../T/The_One_Ring.md)nhưng nhanh chóng giấu nó đi khi nghe thấy [Gollum](../G/Gollum.md) đến gần. Gollum nói với họ rằng họ cần phải nhanh chóng tiếp tục. Anh ấy rời đi khi Frodo và Sam ăn ít bánh mì [lembas](../L/Lembas.md). Frodo được biết từ Sam rằng anh ấy đã chia khẩu phần bánh mì lembas còn lại để họ có đủ cho chuyến hành trình về nhà. Nghe vậy, Frodo dừng lại và không nói gì.
 
 Hai hobbit lê bước qua khung cảnh hấp hối theo sau Gollum, người nói với họ rằng họ hiện "rất gần với [Mordor](../M/Mordor.md)".

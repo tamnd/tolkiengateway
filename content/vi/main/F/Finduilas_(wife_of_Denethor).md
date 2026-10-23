@@ -93,7 +93,7 @@ Vào năm [T.A.](../T/Third_Age.md) [2984](../T/Third_Age_2984.md) Ecthelion qua
 
 ## Di sản {#Legacy}
 
-Denethor không bao giờ tái hôn và trở nên lạnh lùng, im lặng hơn trước. Không lâu sau khi cô qua đời, anh ta ngồi một mình lâu trong tòa tháp của mình, trầm ngâm suy nghĩ, đoán trước rằng cuộc tấn công từ Mordor sẽ đến vào thời điểm của anh ta.<sup id="cite_ref-A_2-2" class="reference"><a href="#cite_note-A-2">[2]</a></sup> Vì vậy, anh ta bắt đầu sử dụng *[palantír](../P/Palantíri.md)* của [Minas Tirith](../M/Minas_Tirith.md), và nỗi tuyệt vọng dâng lên trong tâm trí anh ta đã khiến anh ta trở nên điên loạn tột độ và tự tử khoảng 31 năm sau.
+Denethor không bao giờ tái hôn mà trở nên dữ tợn và im lặng hơn trước. Không lâu sau khi cô qua đời, anh ta ngồi một mình lâu trong tòa tháp của mình, trầm ngâm suy nghĩ, đoán trước rằng cuộc tấn công từ Mordor sẽ đến vào thời điểm của anh ta.<sup id="cite_ref-A_2-2" class="reference"><a href="#cite_note-A-2">[2]</a></sup> Vì vậy, anh ta bắt đầu sử dụng *[palantír](../P/Palantíri.md)* của [Minas Tirith](../M/Minas_Tirith.md), và nỗi tuyệt vọng dâng lên trong tâm trí anh ta đã khiến anh ta trở nên điên loạn tột độ và tự tử khoảng 31 năm sau.
 
 ## Phả hệ {#Genealogy}
 

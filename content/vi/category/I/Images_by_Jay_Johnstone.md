@@ -14,4 +14,4 @@ sort_keys:
   "Images by artist": "Johnstone, Jay"
 ---
 
-Thể loại này liệt kê tất cả **hình ảnh của [Jay Johnstone](../../main/J/Jay_Johnstone.md)**.
+Danh mục này liệt kê tất cả **hình ảnh theo [Jay Johnstone](../../main/J/Jay_Johnstone.md)**.

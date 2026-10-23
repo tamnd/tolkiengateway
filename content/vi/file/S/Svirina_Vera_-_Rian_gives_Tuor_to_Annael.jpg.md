@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh [Rian](../../main/R/Rian.md) trao [Tuor](../../main/T/Tuor.md) cho [Annael](../../main/A/Annael.md), như được mô tả trong [Của Tuor và Sự đến với Gondolin](../../main/O/Of_Tuor_and_his_Coming_to_Gondolin.md) của anh ấy
+Hình ảnh [Rian](../../main/R/Rian.md) trao [Tuor](../../main/T/Tuor.md) cho [Annael](../../main/A/Annael.md), như được mô tả trong [Của Tuor và Sự đến với Gondolin](../../main/O/Of_Tuor_and_his_Coming_to_Gondolin.md)
 
 ## Giấy phép {#Licensing}
 

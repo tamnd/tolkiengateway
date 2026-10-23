@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[The Kỵ sĩ Đen](../../main/N/Nazgûl.md)" của [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), bản phác thảo trên bảng đen của một tác phẩm được xuất bản lần đầu trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Greg_and_Tim_Hildebrandt:_The_Tolkien_Years&amp;action=edit&amp;redlink=1" title="Greg and Tim Hildebrandt: The Tolkien Years (page does not exist)">Greg và Tim Hildebrandt: The Tolkien Years</a>
+"[The Kỵ sĩ Đen](../../main/N/Nazgûl.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), bản phác thảo trên bảng đen của một tác phẩm được xuất bản lần đầu trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Greg_and_Tim_Hildebrandt:_The_Tolkien_Years&amp;action=edit&amp;redlink=1" title="Greg and Tim Hildebrandt: The Tolkien Years (page does not exist)">Greg và Tim Hildebrandt: The Tolkien Years</a>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p> A stunning piece based on the original sketch by Greg and Tim Hildebrandt created for their 1979 Tolkien Calendar, which was not produced. The Brothers eventually created the painting in 2001 for their 2002 book Greg and Tim Hildebrandt, The Tolkien Years, which also was produced as a limited edition giclée. Pastel on black board with an image area of 29.5&#34; x 19.5&#34;

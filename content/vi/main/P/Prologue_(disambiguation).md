@@ -14,7 +14,7 @@ images:
   - "Disambig.png"
 ---
 
-**Lời mở đầu** là phần mở đầu cho một câu chuyện nhằm thiết lập bối cảnh và cung cấp các chi tiết cơ bản cũng như các thông tin linh tinh khác. Ở đây, nó có thể đề cập đến:
+**Mở đầu** là phần mở đầu cho một câu chuyện nhằm thiết lập bối cảnh và cung cấp các chi tiết cơ bản cũng như các thông tin linh tinh khác. Ở đây, nó có thể đề cập đến:
 
 ## Sách {#Books}
 

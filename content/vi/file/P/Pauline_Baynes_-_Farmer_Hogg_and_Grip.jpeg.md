@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Minh họa [Grip](<../../main/G/Grip_(Bill_Butcher's_dog).md>) và [Farmer Hogg](../../main/F/Farmer_Hogg.md). Tác phẩm của [Pauline Baynes](../../main/P/Pauline_Baynes.md) từ *[The Adventures of Tom Bombadil and Other Verses from the Red Book](../../main/T/The_Adventures_of_Tom_Bombadil.md)*
+Minh họa [Grip](<../../main/G/Grip_(Bill_Butcher's_dog).md>) và [Nông dân Hogg](../../main/F/Farmer_Hogg.md). Tác phẩm của [Pauline Baynes](../../main/P/Pauline_Baynes.md) từ *[The Adventures of Tom Bombadil and Other Verses from the Red Book](../../main/T/The_Adventures_of_Tom_Bombadil.md)*
 
 ## Giấy phép {#Licensing}
 

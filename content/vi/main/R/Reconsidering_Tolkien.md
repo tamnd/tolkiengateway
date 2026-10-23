@@ -45,7 +45,7 @@ infobox:
 
 - Marion Gymnich: "Xem xét lại ngôn ngữ học của Trung Địa: Ngôn ngữ được phát minh và các đặc điểm ngôn ngữ khác trong J.R.R. Tolkien của The Lord of the Rings"
 - [Eduardo Segura](../E/Eduardo_Segura.md) và Guillermo Peris: "Tolkien với tư cách là Philo-Logist"
-- [Thomas M. Honegger](../T/Thomas_M._Honegger.md): "Tolkien Qua con mắt của một nhà thời Trung cổ"
+- [Thomas M. Honegger](../T/Thomas_M._Honegger.md): "Tolkien Qua con mắt của một nhà thời Trung Cổ"
 - Paul E. Kerry: "Suy nghĩ về The Lord of the Rings của J.R.R. Tolkien và Lịch sử"
 - [Nataša Tučev](../N/Nataša_Tučev.md): "Con dao, Sting và Răng: Biểu hiện của Bóng Tối trong The Lord of the Rings"
 - Jean-Christophe Dufau: "Không gian thần thoại trong tác phẩm của Tolkien"

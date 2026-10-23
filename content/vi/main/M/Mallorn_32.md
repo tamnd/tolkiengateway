@@ -50,9 +50,9 @@ infobox:
     - Bởi: Clive Tolley
 - "Sự sụp đổ từ ân sủng"
     - Bởi: Len Stanford
-- "Một thần tiên được thanh lọc sắc tộc? Tolkien và vấn đề nước Anh"
+- "Một thần tiên được thanh lọc sắc tộc? Tolkien và vấn đề của nước Anh"
     - Bởi: [David Doughan](../D/David_Doughan.md)
-- **Cuộc thi làm thơ chuông**
+- **Nhẫn Cuộc thi thơ**
 - **Thư**
 - "Ghi chú về lịch sử của những người phương Đông"
     - Bởi: [Ruth Lacon](../R/Ruth_Lacon.md)

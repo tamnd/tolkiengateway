@@ -74,7 +74,7 @@ Sự kiện xảy ra vào ngày 28 tháng 8
 - **[1981](1981.md)** - [Tom Shippey](../T/Tom_Shippey.md) đánh giá *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)* cho *The Times Literary Supplement*.
 - **[1982](1982.md)** - Tập thứ 7 phiên bản mới của loạt phim phát thanh [1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
 - **[1987](1987.md)** - Diễn viên lồng tiếng [John Huston](../J/John_Huston.md) qua đời.
-- **[2010](2010.md)** - Hội thảo Nam bán cầu của [Hội Tolkien](../T/The_Tolkien_Society.md): "Tolkien's Odysseys - Trung Địa và hơn thế nữa".
+- **[2010](2010.md)** - Hội thảo Nam bán cầu của [Hội Tolkien](../T/The_Tolkien_Society.md): "Tolkien's Odysseys - Trung Địa and Beyond".
 - **[2014](2014.md)** - *[Tolkien Calendar 2015](../T/Tolkien_Calendar_2015.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}

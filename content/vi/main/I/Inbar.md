@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-inbar"
 ---
 
-Chuyển hướng tới [-inbar](../_/-inbar.md).
+Chuyển hướng đến [-inbar](../_/-inbar.md).

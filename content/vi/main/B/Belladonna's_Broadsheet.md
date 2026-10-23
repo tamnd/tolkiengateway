@@ -15,7 +15,7 @@ categories:
   - "The Tolkien Society"
 ---
 
-<i><b>Belladonna's Broadsheet</b></i> là ấn phẩm đầu tiên của [Hội Tolkien](../T/The_Tolkien_Society.md). Nó được đặt theo tên người biên tập (và người sáng lập Hiệp hội), [Vera Chapman](../V/Vera_Chapman.md), người đã lấy tên "[Belladonna Took](Belladonna_Took.md)" làm bí danh Trung Địa của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Belladonna's Broadsheet</b></i> là ấn phẩm đầu tiên của [Hội Tolkien](../T/The_Tolkien_Society.md). Nó được đặt theo tên người biên tập (và người sáng lập Hội), [Vera Chapman](../V/Vera_Chapman.md), người đã lấy tên "[Belladonna Took](Belladonna_Took.md)" làm bí danh Trung Địa của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Vấn đề {#Issues}
 

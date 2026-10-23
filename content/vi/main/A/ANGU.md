@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "ANGWA"
 ---
 
-Chuyển hướng tới [ANGWA](ANGWA.md).
+Chuyển hướng đến [ANGWA](ANGWA.md).

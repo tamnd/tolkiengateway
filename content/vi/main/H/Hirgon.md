@@ -89,7 +89,7 @@ Trong *The Lord of the Rings* bản nháp từ những năm 1940, nhân vật n�
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Hirgon.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f8/The_Lord_of_the_Rings_Online_-_Hirgon.jpg/300px-The_Lord_of_the_Rings_Online_-_Hirgon.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f8/The_Lord_of_the_Rings_Online_-_Hirgon.jpg/450px-The_Lord_of_the_Rings_Online_-_Hirgon.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f8/The_Lord_of_the_Rings_Online_-_Hirgon.jpg/600px-The_Lord_of_the_Rings_Online_-_Hirgon.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Hirgon&#39;s body in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Hirgon&#39;s body can be found outside the northern wall of the Rammas in the pre-battle version of Minas Tirith. The player learns that Denethor had seen the body of the messenger in the palantir and had come to the believe that Hirgon had never even reached Rohan and that no aid would come to the city.</dd></dl>
 

@@ -39,7 +39,7 @@ Anh ấy hiểu được những khó khăn tài chính. Một kỳ nghỉ thự
 
 Tolkien trả về một "bản sao của [Lewis](../C/C.S._Lewis.md)"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup> và một bản sao của *Encounter* chứa một cú vô lê [Auden](../W/W.H._Auden.md). Cô ấy có thể giữ *Encounter* vì anh ấy đã mua nó cho cô ấy. [Ent](../E/Ents.md) dường như đã thành công.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 4]</a></sup> Như thường lệ với chính anh ấy, Tolkien nói, họ đã phát triển từ cái tên của mình chứ không phải ngược lại. Anh luôn cảm thấy cần phải làm gì đó với từ Anglo-Saxon đặc biệt *ent* để chỉ một "người khổng lồ".
 
-Anh ấy đã bị tụt lại phía sau một cách vô vọng với "[Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md)" của Tập III và [Chris](../C/Christopher_Tolkien.md) quá choáng ngợp để có thể trợ giúp về bản đồ. Tuy nhiên, anh ấy đã ở đó.
+Anh ấy đã bị tụt lại phía sau một cách vô vọng với "[Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md)" đến Tập III và [Chris](../C/Christopher_Tolkien.md) quá choáng ngợp để có thể trợ giúp về bản đồ. Tuy nhiên, anh ấy đã ở đó.
 
 ## Ghi chú {#Notes}
 

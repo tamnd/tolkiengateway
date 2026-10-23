@@ -47,7 +47,7 @@ infobox:
 
 ## Nội dung {#Contents}
 
-- Bìa: "The Host of Gondolin" — Tom Loback
+- Bìa: "Chủ nhà của Gondolin" — Tom Loback
 - E.L.F. News
 - Thư gửi *VT*
 

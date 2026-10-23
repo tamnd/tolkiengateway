@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oakley"
 ---
 
-Chuyển hướng tới [Oakley](../O/Oakley.md).
+Chuyển hướng đến [Oakley](../O/Oakley.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of manuscripts"
 ---
 
-Chuyển hướng tới [Thể loại:Hình ảnh bản thảo](../../category/I/Images_of_manuscripts.md).
+Chuyển hướng đến [Thể loại:Hình ảnh bản thảo](../../category/I/Images_of_manuscripts.md).

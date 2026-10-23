@@ -69,11 +69,11 @@ J.R.R. Tolkien lưu ý rằng gia đình Bolger có phong tục sử dụng nh�
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Filibert_Bolger.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f8/The_Lord_of_the_Rings_Online_-_Filibert_Bolger.jpg/150px-The_Lord_of_the_Rings_Online_-_Filibert_Bolger.jpg" decoding="async" loading="lazy" width="150" height="313" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f8/The_Lord_of_the_Rings_Online_-_Filibert_Bolger.jpg/225px-The_Lord_of_the_Rings_Online_-_Filibert_Bolger.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f8/The_Lord_of_the_Rings_Online_-_Filibert_Bolger.jpg/300px-The_Lord_of_the_Rings_Online_-_Filibert_Bolger.jpg 2x" data-file-width="480" data-file-height="1000"/></a><figcaption>Filibert Bolger in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2001-2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi đánh bài</a></i>:</b>
+<b>2001-2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i>:</b>
 
 <dl><dd>A <a href="../D/Decipher.md" title="Decipher">Decipher</a> card identifies one of the Hobbits at the Bilbo&#39;s Party in <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> as Filibert Bolger. However, in the film the same hobbit is seen cheering when <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> calls &#34;<a class="mw-redirect" href="../G/Grubb_Family~66393.md" title="Grubb Family">Grubbs</a>!&#34;.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Filibert Bolger lives in <a href="../N/Needlehole.md" title="Needlehole">Needlehole</a>. He asks the player to find his cow who had become lost in the <a href="../R/Rushock_Bog.md" title="Rushock Bog">Rushock Bog</a>.</dd></dl>
 

@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ảnh của [Ronald Kyrmse](../../main/R/Ronald_Kyrmse.md).
+Ảnh [Ronald Kyrmse](../../main/R/Ronald_Kyrmse.md).
 
 ## Giấy phép {#Licensing}
 

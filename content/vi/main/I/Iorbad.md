@@ -35,7 +35,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Vào cuối [Kỷ thứ hai](../S/Second_Age.md), cư dân Iorbad là những người cuối cùng chạy trốn đến Tháp Canh Ostirith để được bảo vệ khỏi [Orc](../O/Orcs.md) do [Adar](../A/Adar.md) lãnh đạo. Ngôi làng có lẽ đã bị phá hủy trong [vụ phun trào](<../U/Udûn_(episode).md>) [Orodruin](../M/Mount_Doom.md) nếu nó chưa bị Orc phá hủy như [Hordern](../H/Hordern.md).
+Vào cuối [Kỷ thứ hai](../S/Second_Age.md), cư dân Iorbad là những người cuối cùng chạy trốn đến Tháp Canh Ostirith để được bảo vệ khỏi [Orc](../O/Orcs.md) do [Adar](../A/Adar.md) lãnh đạo. Ngôi làng có lẽ đã bị phá hủy trong [vụ phun trào](<../U/Udûn_(episode).md>) của [Orodruin](../M/Mount_Doom.md) nếu nó chưa bị phá hủy bởi Orc như [Hordern](../H/Hordern.md).
 
 ## Từ nguyên {#Etymology}
 

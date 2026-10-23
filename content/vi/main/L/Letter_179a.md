@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien viết cho con trai mình [John](../J/John_Tolkien.md), người đang làm giám tuyển ở Birmingham và gần như không thể về nhà vào dịp Giáng sinh do yêu cầu của Giáo hội. Tolkien bày tỏ rằng anh ấy sẽ nhớ sự hiện diện của John đến mức nào trong kỳ nghỉ nhưng lại thấy an ủi khi nghĩ đến việc gặp lại anh ấy vào đầu năm mới.
+Tolkien viết cho con trai mình [John](../J/John_Tolkien.md), người đang làm giám tuyển ở Birmingham và gần như không thể về nhà vào dịp Giáng sinh do yêu cầu của Giáo hội. Tolkien bày tỏ rằng anh sẽ nhớ sự hiện diện của John trong kỳ nghỉ nhưng lại thấy an ủi khi nghĩ đến việc gặp lại anh vào đầu năm mới.
 
-Anh ấy hạn chế gửi quà Giáng sinh, thích chọn thứ gì đó đặc biệt khi John đến thăm. Trong lúc chờ đợi, anh ta gửi kèm một tấm séc trị giá £1, yêu cầu John nói hai thánh lễ: một cho người mẹ quá cố của Tolkien, [Mabel Tolkien](../M/Mabel_Tolkien.md), và một thánh lễ khác để tôn vinh [Đức Mẹ](../C/Christianity.md). Tolkien khép lại bức thư với những lời chúc Giáng sinh của John bao gồm cả niềm vui và lao động tinh thần, bày tỏ tình yêu thương và xin cầu nguyện cho nhu cầu của bản thân. <br>
+Anh ấy hạn chế gửi quà Giáng sinh, thích chọn thứ gì đó đặc biệt khi John ghé thăm. Trong lúc chờ đợi, ông gửi kèm một tấm séc trị giá £1, yêu cầu John cử hành hai thánh lễ: một cho người mẹ quá cố của Tolkien, [Mabel Tolkien](../M/Mabel_Tolkien.md), và một thánh lễ khác để tôn vinh [Đức Mẹ](../C/Christianity.md). Tolkien khép lại bức thư với những lời chúc Giáng sinh John vừa vui vừa lao động tinh thần, bày tỏ tình yêu thương và cầu nguyện cho nhu cầu của bản thân. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

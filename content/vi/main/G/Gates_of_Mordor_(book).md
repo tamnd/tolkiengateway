@@ -52,7 +52,7 @@ Một lô hàng rượu và bia đã biến mất ở miền Bắc Ithilien. Fir
 
 Tòa tháp của Barad Perras từng trụ vững trước những nỗ lực bao vây Orc. Nhiều năm sau, nó bị bỏ hoang và lãng quên... Tuy nhiên, gần đây, một nhóm Scara-hai Orc đã tuyên bố tòa tháp là căn cứ để khủng bố khu vực. Bạn có sẵn sàng đối mặt với Rắc rối ở Littlehorn không?
 
-Người dân Minas Tirith nói về một nhóm Orc kỳ lạ và thủ lĩnh phù thủy Gaurhîr của họ. Những con Scara-hai này đã được lai tạo cho những kế hoạch rất đặc biệt, những kế hoạch sắp đạt được kết quả khủng khiếp. Bạn có đủ can đảm để đối mặt với Master of Durthang không?
+Người dân Minas Tirith nói về một nhóm Orc kỳ lạ và thủ lĩnh phù thủy Gaurhîr của họ. Những Scara-hai này đã được lai tạo cho những kế hoạch rất đặc biệt, những kế hoạch sắp đạt được kết quả khủng khiếp. Bạn có đủ can đảm để đối mặt với Chủ nhân của Durthang không?
 
 Nguy hiểm ở khắp mọi nơi, nhưng phần thưởng trong 3 cuộc phiêu lưu thú vị này cũng vậy!
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Naglur-Danlo"
 ---
 
-Chuyển hướng tới [Naglur-Danlo](Naglur-Danlo.md).
+Chuyển hướng đến [Naglur-Danlo](Naglur-Danlo.md).

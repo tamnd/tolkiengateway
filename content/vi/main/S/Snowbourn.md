@@ -44,7 +44,7 @@ Snowbourn đóng vai trò là ranh giới giữa [Westfold](../W/Westfold.md) v�
 
 ## Lịch sử {#History}
 
-Sau [Trận Hornburg](../B/Battle_of_the_Hornburg.md), Vua [Théoden](../T/Théoden.md) và các tay đua của anh đi theo con đường núi dẫn xuống Harrowdale. Vào [9 tháng 3](../_/9_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> họ đi xuống thung lũng theo một con suối cuối cùng đã nhập vào Snowbourn. Ngày hôm sau, Đội quân Mark tập trung trên cánh đồng ven sông rồi đi theo con sông khi nó đi qua [Underharrow](../U/Underharrow.md) và [Upbourn](../U/Upbourn.md). Chủ nhà cắm trại trong bụi liễu nơi Snowbourn gặp Entwash. Từ đó các tay đua tiếp tục đi đến [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-Muster_3-1" class="reference"><a href="#cite_note-Muster-3">[3]</a></sup>
+Sau [Trận Hornburg](../B/Battle_of_the_Hornburg.md), Vua [Théoden](../T/Théoden.md) và các tay đua của anh đi theo con đường núi dẫn xuống Harrowdale. Vào [9 tháng 3](../_/9_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> họ đi xuống thung lũng theo một con suối cuối cùng đã nhập vào Snowbourn. Ngày hôm sau, Đội quân Mark tập trung trên cánh đồng ven sông rồi đi theo con sông khi nó đi qua [Underharrow](../U/Underharrow.md) và [Upbourn](../U/Upbourn.md). Chủ nhà cắm trại trong bụi liễu nơi Snowbourn gặp Entwash. Từ đó các tay đua tiếp tục đi tới [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-Muster_3-1" class="reference"><a href="#cite_note-Muster-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

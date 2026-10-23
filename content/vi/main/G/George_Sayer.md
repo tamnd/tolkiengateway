@@ -32,7 +32,7 @@ Trong quá trình chuẩn bị xuất bản *The Lord of the Ring*, Tolkien khô
 
 ### Sách {#Books}
 
-- [1988](../_/1988.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Jack:_C.S._Lewis_and_His_Times&amp;action=edit&amp;redlink=1" title="Jack: C.S. Lewis and His Times (page does not exist)">Jack: C.S. Lewis and His Times</a></i>
+- [1988](../_/1988.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Jack:_C.S._Lewis_and_His_Times&amp;action=edit&amp;redlink=1" title="Jack: C.S. Lewis and His Times (page does not exist)">Jack: C.S. Lewis và Thời đại của ông</a></i>
 
 ### Bài viết {#Articles}
 

@@ -44,7 +44,7 @@ Diễn viên người Anh **Shaun Mark "Sean" Bean** (sinh [17 tháng 4](../_/17
 
 Bean trước đây từng đóng vai Richard Sharpe trong bộ phim truyền hình nổi tiếng của Anh <i><a class="extiw" href="http://en.wikipedia.org/wiki/Sharpe_(TV_series)" title="wikipedia:Sharpe (TV series)">Sharpe</a></i>, dựa trên tiểu thuyết về Chiến tranh Napoléon của Bernard Cornwell. Nhận xét của Boromir về các mảnh [Narsil](../N/Narsil.md) trong *[The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* ("Vẫn còn sắc nét!") được cho là được đưa vào như một lời khẳng định cho vai trò đó.
 
-Bean tái hợp với [Orlando Bloom](../O/Orlando_Bloom.md) trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Troy_(2004_film)" title="wikipedia:Troy (2004 film)">Troy</a></i> trong vai Odysseus, trong khi Bloom đóng vai Paris.
+Bean tái hợp với [Orlando Bloom](../O/Orlando_Bloom.md) ở <i><a class="extiw" href="http://en.wikipedia.org/wiki/Troy_(2004_film)" title="wikipedia:Troy (2004 film)">Troy</a></i> trong vai Odysseus, trong khi Bloom đóng vai Paris.
 
 Anh cũng từng tham gia loạt phim <a class="extiw" href="http://en.wikipedia.org/wiki/Game_of_Thrones" title="wikipedia:Game of Thrones">Game of Thrones</a>, được chuyển thể từ loạt tiểu thuyết *A Song of Ice and Fire* của [George R. R. Martin](../G/George_R._R._Martin.md).
 

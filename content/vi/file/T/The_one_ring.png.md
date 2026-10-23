@@ -34,4 +34,4 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Một bức ảnh tôi đã chụp màn hình và chỉnh sửa chiếc Nhẫn Chúa từ một trong bộ ba phim LotR…Tôi không nhớ nó là của phim nào.
+Một bức ảnh tôi đã chụp màn hình và chỉnh sửa của One Nhẫn từ một trong bộ ba phim LotR…Tôi không nhớ nó là từ phim nào.

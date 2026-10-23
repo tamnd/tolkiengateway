@@ -41,7 +41,7 @@ Tên [Sindarin](../S/Sindarin.md) *Celos* bắt nguồn từ [gốc](../S/Sundoc
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The river Celos divides <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a> into Lower <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a> located in the region of Central <a href="../G/Gondor.md" title="Gondor">Gondor</a> and Upper Lebennin in the region of Eastern Gondor. The river <a href="../S/Sirith.md" title="Sirith">Sirith</a> joined it to the east, below the <a href="../W/Warning_beacons_of_Gondor.md" title="Warning beacons of Gondor">beacon</a> of &#34;Sirthanc&#34;. The village of &#34;Erynos&#34; stood across from the mouth of the Sirith, on the western bank of the juncture. South of the meeting of the rivers the combined river flowed south through the city of <a href="../P/Pelargir.md" title="Pelargir">Pelargir</a> and into the <a href="../A/Anduin.md" title="Anduin">Anduin</a>. The Celos was the domain of the lighthearted River-maid &#34;Silverfroth&#34;, one of the Five Sisters, though she and her sisters were widely considered a myth by the time of the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a>.</dd></dl>
 

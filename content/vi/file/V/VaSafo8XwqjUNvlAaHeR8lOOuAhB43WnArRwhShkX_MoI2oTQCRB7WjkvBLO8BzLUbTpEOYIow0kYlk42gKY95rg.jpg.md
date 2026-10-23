@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Denis Gordeev - Paths of the Dead.jpg"
 ---
 
-Chuyển hướng đến [Tệp:Denis Gordeev - Paths of the Dead.jpg](../D/Denis_Gordeev_-_Paths_of_the_Dead.jpg.md).
+Chuyển hướng tới [Tệp:Denis Gordeev - Paths of the Dead.jpg](../D/Denis_Gordeev_-_Paths_of_the_Dead.jpg.md).

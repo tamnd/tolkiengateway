@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Cái cây chết](../../main/D/Darkening_of_Valinor.md)" của [Alan Lee](../../main/A/Alan_Lee.md)
+"[Cái cây bị chết](../../main/D/Darkening_of_Valinor.md)" của [Alan Lee](../../main/A/Alan_Lee.md)
 
 ## Giấy phép {#Licensing}
 

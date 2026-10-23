@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Chi tiết bức tranh "[The Ivy Bush](Miriam_Ellis_-_The_Ivy_Bush.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), mô tả [Old Noakes](../../main/O/Old_Noakes.md)
+Chi tiết tác phẩm "[The Ivy Bush](Miriam_Ellis_-_The_Ivy_Bush.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), mô tả [Old Noakes](../../main/O/Old_Noakes.md)
 
 ## Giấy phép {#Licensing}
 

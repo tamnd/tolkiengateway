@@ -40,7 +40,7 @@ Từ này được cho là [Rohanese](../R/Rohanese.md) và phần tử *dim* c�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Dimholt lies on the edge of the <a href="../F/Firienfeld.md" title="Firienfeld">Firienfeld</a>. The wood is devoid of animals, who are avoiding the <a href="Dark_Door.md" title="Dark Door">Dark Door</a>.</dd></dl>
 

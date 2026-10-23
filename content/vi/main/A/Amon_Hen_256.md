@@ -60,7 +60,7 @@ infobox:
     - Bởi: Ian Spittlehouse
 - Sự đốt cháy [Palantír](../P/Palantíri.md) 16
     - Bởi: Ian Collier
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Verne Walker
 - Cáo phó: Tiến sĩ Chris Upton
     - Bởi: [Bob Blackham](../R/Robert_S._Blackham.md)

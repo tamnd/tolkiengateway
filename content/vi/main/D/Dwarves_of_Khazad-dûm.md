@@ -30,7 +30,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="Dwarves.md" title="Dwarves">Dwarf</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Dwarves of Khazad-dûm</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Khazad-dûm, also known as <a href="../M/Moria.md" title="Moria">Moria</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="Durin&#39;s_Folk~15256.md" title="Durin&#39;s Folk">Durin&#39;s Folk</a>, Elves of <a href="../E/Eregion.md" title="Eregion">Eregion</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../K/Khuzdul.md" title="Khuzdul">Khuzdul</a></td></tr></tbody></table>
 
-The **Dwarves of Khazad-dûm** were the [Dwarves](Dwarves.md) of [Durin's Folk](Durin's_Folk~15256.md) who mined and worked mithril for long ages in the halls of [Khazad-dûm](../M/Moria.md), and who had the friendship of the [Elves](../E/Elves.md) of [Eregion](../E/Eregion.md) during the [Second Age](../S/Second_Age.md).
+**Người lùn Khazad-dûm** là [Người Lùn](Dwarves.md) của [Dân tộc Durin](Durin's_Folk~15256.md), những người đã khai thác và làm việc mithril trong thời gian dài trong các hành lang của [Khazad-dûm](../M/Moria.md), đồng thời là người có tình bạn với [Tiên tộc](../E/Elves.md) của [Eregion](../E/Eregion.md) trong [Thời đại thứ hai](../S/Second_Age.md).
 
 ## Lịch sử {#History}
 

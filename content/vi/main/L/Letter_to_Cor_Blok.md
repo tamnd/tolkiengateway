@@ -14,7 +14,7 @@ sort_keys:
   "Letters": "Blok, Cor"
 ---
 
-Vào [1 tháng 2](../_/1_February.md) [1962](../_/1962.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Cor Blok](../C/Cor_Blok.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào [1 tháng 2](../_/1_February.md) [1962](../_/1962.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Cor Blok](../C/Cor_Blok.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Nội dung:** Bức thư là thư trả lời của Tolkien, liên quan đến một cuộc triển lãm. Tolkien cũng hỏi liệu anh ấy có thể mua hai tác phẩm nghệ thuật từ Blok không.
 - **Xuất bản:** Trong [2011](../_/2011.md), một bản sao của bức thư xuất hiện trong *[A Tolkien Tapestry](../A/A_Tolkien_Tapestry.md)* (trang \[6\]).

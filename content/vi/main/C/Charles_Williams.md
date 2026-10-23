@@ -92,10 +92,10 @@ infobox:
 
 - **Andrea Charicoryides** -
 - **Polygrapheus** -
-- **Logothete of the Theme of Geodesia in the Empire** -
-- **Bard of the Court of Camelot** -
+- **Logothete của chủ đề Geodesia trong Đế chế** -
+- **Bard của Tòa án Camelot** -
 - **Malleus Malitiarium** -
-- **Inclinga Sum** -
+- **Tổng Inclinga** -
 
 ## Thư mục, tuyển chọn {#Bibliography,_selected}
 

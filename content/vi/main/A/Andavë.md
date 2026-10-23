@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andave"
 ---
 
-Chuyển hướng tới [Andave](Andave.md).
+Chuyển hướng đến [Andave](Andave.md).

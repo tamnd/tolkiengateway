@@ -35,7 +35,7 @@ Vào [7 tháng 12](../_/7_December.md) [1967](../_/1967.md), [J.R.R. Tolkien](..
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://newboards.theonering.net/forum/gforum/perl/gforum.cgi?post=452405;sb=post_time;so=DESC;forum_view=forum_view_collapsed;guest=19262590" rel="noreferrer noopener" target="_blank">Tolkien - "Tôi chưa bao giờ là người yêu sách dành cho trẻ em.."</a> tại <a class="external text" href="http://newboards.theonering.net/forum/gforum/perl/gforum.cgi?guest=19262590" rel="noreferrer noopener" target="_blank">Diễn đàn One Ring</a>
+- <a class="external text" href="http://newboards.theonering.net/forum/gforum/perl/gforum.cgi?post=452405;sb=post_time;so=DESC;forum_view=forum_view_collapsed;guest=19262590" rel="noreferrer noopener" target="_blank">Tolkien - "Tôi chưa bao giờ là người yêu sách dành cho trẻ em.."</a> tại <a class="external text" href="http://newboards.theonering.net/forum/gforum/perl/gforum.cgi?guest=19262590" rel="noreferrer noopener" target="_blank">Chiếc nhẫn duy nhất Diễn đàn</a>
 
 <span></span>
 

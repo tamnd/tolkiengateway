@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Adrahil"
 ---
 
-Chuyển hướng tới [Adrahil](Adrahil.md).
+Chuyển hướng đến [Adrahil](Adrahil.md).

@@ -19,7 +19,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Andúril</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Andúril_(disambiguation).md" title="Andúril (disambiguation)">Andúril (disambiguation)</a></b>.</div></div>
 
-<i><b>Andúril</b></i>, do John Martin biên tập, bắt đầu là bản tin chính thức thứ hai của [Hội Tolkien](../T/The_Tolkien_Society.md). Nó đã trở thành một fanzine độc ​​lập sau số 2 (mặc dù số 3 đã được phân phối cho các thành viên của Hội Tolkien). Sau đó, phạm vi của nó ngày càng trở nên ít Tolkienian hơn. *[Amon Hen](<Amon_Hen_(journal).md>)* (số đầu tiên có tiêu đề *Henneth Annûn*) đã thay thế nó thành bản tin chính thức của Hội.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Andúril</b></i>, do John Martin biên tập, bắt đầu là bản tin chính thức thứ hai của [Hội Tolkien](../T/The_Tolkien_Society.md). Nó trở thành một fanzine độc ​​lập sau số 2 (mặc dù số 3 đã được phân phối cho các thành viên của Hội Tolkien). Sau đó, phạm vi của nó ngày càng trở nên ít Tolkienian hơn. *[Amon Hen](<Amon_Hen_(journal).md>)* (số đầu tiên có tiêu đề *Henneth Annûn*) đã thay thế nó thành bản tin chính thức của Hội.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Kích thước trang vấn đề thay đổi theo từng vấn đề (không thường xuyên). Ba số đầu tiên có phụ đề: *The bulletin of the Tolkien Society*, trong khi các số sau có phụ đề: *Magazine of fantasy*.
 
@@ -43,7 +43,7 @@ Số 0-7 trong bộ sưu tập Marquette Hunnewell. Số 0-6 trong kho lưu tr�
 
 - Xuất bản: tháng 6 năm 1972
 - Độ dài: 38 trang
-- Nó bao gồm một tờ bổ sung lưu ý rằng Tolkien đã đồng ý làm Chủ tịch danh dự của Hiệp hội khi Vera Chapman gặp ông vào [27 tháng 6](../_/27_June.md) [1972](../_/1972.md).
+- Nó bao gồm một tờ bổ sung ghi rằng Tolkien đã đồng ý làm Chủ tịch danh dự của Hiệp hội khi Vera Chapman gặp ông ấy vào [27 tháng 6](../_/27_June.md) [1972](../_/1972.md).
 - Số cuối cùng là bản tin chính thức của Hiệp hội Tolkien.
 
 ### *Andúril* 3 {#Andúril_3}

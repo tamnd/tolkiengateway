@@ -46,6 +46,6 @@ infobox:
 - Mới Trung Địa: Khám phá vượt xa Dãy Núi - Martin Baker
 - Đánh giá sản phẩm: Sinh vật Trung Địa - Bjorn Asle Taranger
 - Đánh giá sản phẩm: Middle-earth Role Playing: Ấn bản thứ hai - Anarsil Istaratan
-- Nghề MERP mới: Thủy thủ - Anarsil Istaratan
+- Nghề MERP Mới: Thủy thủ - Anarsil Istaratan
 - Đánh giá sản phẩm: Miền Nam Gondor: Con Người - Mark Thorne
 - Đánh giá sản phẩm: Miền Nam Gondor: Người ... Đánh giá thứ hai - Luke Potter

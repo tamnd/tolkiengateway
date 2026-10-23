@@ -58,7 +58,7 @@ Sirannon là một cái tên [Sindarin](Sindarin.md).<sup id="cite_ref-Eldamo_14
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The waters of Sirannon still flow into the Black Pool before the <a class="mw-redirect" href="../D/Door_of_Durin.md" title="Door of Durin">Door of Durin</a> but not out - instead the water seeps through its bottom into the Water-works of <a href="../M/Moria.md" title="Moria">Moria</a>. The dry riverbed of Sirannon&#39;s former course can be followed to the point of meeting with <a href="../G/Glanduin.md" title="Glanduin">Glanduin</a>.</dd></dl>
 

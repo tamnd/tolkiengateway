@@ -44,16 +44,16 @@ Bìa trước có hình minh họa "Mordor Where the Shadows Lie" của S. Chave
 - "Sự mất mát của một đứa con trai"—được dịch bởi [Poul Anderson](../P/Poul_Anderson.md) (trang 3–4) \[dựa trên "Sonatorrek" của skald Iceland thời trung cổ, Egill Skalla-Grimsson\]
 - "Beren và Tiniuviel"—minh họa bởi Robin Wood (tr. 4)
 - "'Sự quyến rũ mạnh mẽ của cô ấy thất bại': Nghiên cứu về *Queen of Air and Darkness*của Poul Anderson"—Patrick L. McGuire (trang 5–13)
-- "Dành cho John Sommerfeldt" (thơ) -- Deborah Rogers (tr. 13)
+- "Dành cho John Sommerfeldt" (bài thơ) -- Deborah Rogers (tr. 13)
 - "Già Rồng đến anh hùng trẻ" (thơ) -- Anne Etkin (tr. 13)
 - Bài thơ khác, không có tiêu đề của Mary Kay Bond (tr. 25), Arthur Winfield Knight (tr. 16), Glee Knight (tr. 16), Deborah Rogers (tr. 25)
 - "Biểu tượng màu sắc trong *The Lord of the Rings*"—Robert A. Bunda (trang 14–16)
 - "Vua Arthur ở Alabama"—đánh giá của Roger Schlobin của Sanders Anne Laubenthal, Excalibur (Ballantine, 1973, 1977) (tr. 16)
 - "Chủ nghĩa bảo thủ của J.R.R. Tolkien"—Michael J. Ehling (trang 17–22)
 - "Fanzine of Excellence, Khi nào nó đến?"—double dactyl của Anne Etkin (tr. 22)
-- "Moot Point" (trang 22–25) \[thư từ James Allan (21 tháng 5 năm 1972), Henry Noel (19 tháng 7 năm 1972), Mary Kay Bond (3 tháng 8 năm 1972), Lois Newman (21 tháng 8 năm 1972), Maureen W. Mills (27 tháng Chín 1972), Nan C. Scott (10 tháng 11 1972)
+- "Moot Point" (trang 22–25) \[thư của James Allan (21 tháng 5 năm 1972), Henry Noel (19 tháng 7 năm 1972), Mary Kay Bond (3 tháng 8 năm 1972), Lois Newman (21 tháng 8 năm 1972), Maureen W. Mills (27 tháng Chín 1972), Nan C. Scott (10 tháng 11 1972)
 - " Ent được làm bằng gì?"—John Leland (tr. 25)
-- Các minh họa khác, không có tiêu đề của Jim Cawthorn (trang 22, 25); John Chambers (tr. 23); Michael Ừm. Kaluta (tr. 13)
+- Các minh họa khác, không có tiêu đề của Jim Cawthorn (trang 22, 25); John Buồng (tr. 23); Michael Ừm. Kaluta (tr. 13)
 
 Bìa sau: "Nơi Gollum Sống" minh họa bởi Carmal Palmer.
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dol"
 ---
 
-Chuyển hướng tới [Dol](Dol.md).
+Chuyển hướng đến [Dol](Dol.md).

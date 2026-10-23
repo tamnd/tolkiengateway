@@ -54,7 +54,7 @@ Một số con đom đóm được nhìn thấy phát sáng quanh chỗ rẽ c�
 		</li>
 </ul>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>&#34;Glow-worm&#34; is a type of monster found in the Dark Delvings of Moria and in The Hall of Lights in Mirkwood,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> portrayed as a giant glow-worm and classified as &#34;Spiders and Insects Crawler&#34;.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
 

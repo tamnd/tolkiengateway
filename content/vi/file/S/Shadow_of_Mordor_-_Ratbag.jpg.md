@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Túi chuột](../../main/R/Ratbag.md) trong [Trung Địa: Bóng Tối trong số Mordor](../../main/M/Middle-earth%253A_Shadow_of_Mordor.md).
+[Túi chuột](../../main/R/Ratbag.md) ở [Middle-earth: Shadow of Mordor](../../main/M/Middle-earth%253A_Shadow_of_Mordor.md).
 
 ## Giấy phép {#Licensing}
 

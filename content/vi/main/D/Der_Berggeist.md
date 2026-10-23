@@ -26,7 +26,7 @@ images:
 
 Trong khi Carpenter cho biết Tolkien đã nhận được tấm bưu thiếp vào [1911](../_/1911.md), con gái của họa sĩ đã được phỏng vấn và nói rằng bức tranh rất có thể được tạo ra vào giữa đến cuối những năm 1920. Carpenter lưu ý rằng tuyên bố của ông dựa trên những ghi chú ghi ngày tháng đi kèm với tấm bưu thiếp, do đó người ta thường cho rằng tấm bưu thiếp này được mua vào khoảng giữa những năm 1920.
 
-Chủ nhân của bức tranh gốc đã gặp nghệ sĩ hai lần và nhớ Madlener là người cao (khoảng 6 feet) và thích nấu nướng. Khi người đàn ông quay lại thăm Madlener ở [1946](../_/1946.md) hoặc [1947](../_/1947.md), anh ta đề cập đến việc anh ta yêu thích bức tranh đến mức nào và Madlener đã bán bức tranh cho anh ta vì anh ta muốn bức tranh có một ngôi nhà tốt.
+Chủ nhân của bức tranh gốc đã gặp nghệ sĩ hai lần và nhớ Madlener là người cao (khoảng 6 feet) và thích nấu ăn. Khi người đàn ông quay lại thăm Madlener ở [1946](../_/1946.md) hoặc [1947](../_/1947.md), anh ta đề cập đến việc anh ta yêu thích bức tranh đến mức nào và Madlener đã bán bức tranh cho anh ta vì anh ta muốn bức tranh có một ngôi nhà tốt.
 
 Bức tranh sau đó đã được bán tại Sotheby's lô 423 vào ngày 12 tháng 7 [2005](../_/2005.md). Giá trị ước tính là từ 20.000 đến 30.000 bảng Anh.
 

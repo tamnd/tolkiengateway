@@ -38,7 +38,7 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.tolkienguide.com/modules/newbb/viewtopic.php?post_id=50078#forumpost50078" rel="noreferrer noopener" target="_blank">Hình ảnh và mô tả cuốn sách</a> trong cáo phó của Charles Noad trên [Tolkien Collector's Guide](Tolkien_Collector's_Guide.md)
+- <a class="external text" href="https://www.tolkienguide.com/modules/newbb/viewtopic.php?post_id=50078#forumpost50078" rel="noreferrer noopener" target="_blank">Hình ảnh và mô tả cuốn sách</a> trong cáo phó của Charles Noad trên [Tolkien Hướng dẫn sưu tầm](Tolkien_Collector's_Guide.md)
 
 ## Xem thêm {#See_also}
 

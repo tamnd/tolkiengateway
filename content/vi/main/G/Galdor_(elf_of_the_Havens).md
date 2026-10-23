@@ -47,11 +47,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong thời gian [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) anh ta được cử đi làm việc vặt ở [Elrond](../E/Elrond.md) ở [Rivendell](../R/Rivendell.md). Anh ấy có mặt tại [Hội đồng Elrond](../C/Council_of_Elrond.md) đại diện cho Círdan. Anh ta hỏi về bằng chứng cho thấy chiếc nhẫn của [người Halfling](../F/Frodo_Baggins.md) thực sự là [Chiếc Nhẫn Một](../O/One_Ring.md), đồng thời hỏi tại sao [Saruman](../S/Saruman.md) không ở cùng với họ. Chính [Gandalf](Gandalf.md) là người đã trả lời các câu hỏi của anh, kể lại câu chuyện anh phát hiện ra Chiếc nhẫn Chúa như thế nào và sự phản bội của Saruman.
+Trong thời gian [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) anh ta được cử đi làm việc vặt ở [Elrond](../E/Elrond.md) ở [Rivendell](../R/Rivendell.md). Anh ấy có mặt tại [Hội đồng Elrond](../C/Council_of_Elrond.md) đại diện cho Círdan. Anh ta hỏi về bằng chứng cho thấy chiếc nhẫn của [người lai](../F/Frodo_Baggins.md) thực sự là [Một Nhẫn](../O/One_Ring.md), đồng thời hỏi tại sao [Saruman](../S/Saruman.md) không ở cùng với họ. Chính [Gandalf](Gandalf.md) là người đã trả lời các câu hỏi của anh, kể lại câu chuyện anh đã phát hiện ra Đấng Nhẫn như thế nào và sự phản bội của Saruman.
 
-Ở một điểm sau đó, Galdor đề cập rằng anh ta biết về hình dáng của [Iarwain](../I/Iarwain.md), và anh ta đồng ý với [Glorfindel](Glorfindel.md) rằng anh ta không có quyền thách thức [Sauron](../S/Sauron.md) và giữ Chiếc nhẫn khỏi tay anh ta.
+Ở một điểm sau đó, Galdor đề cập rằng anh ta biết về nhân vật của [Iarwain](../I/Iarwain.md) và anh ta đồng ý với [Glorfindel](Glorfindel.md) rằng anh ta không có quyền thách thức [Sauron](../S/Sauron.md) và giữ Nhẫn khỏi anh ta.
 
-Sau đó, anh ấy đồng ý với Gandalf rằng ngay cả [Biển](../S/Sea.md) cũng không thể giấu được Chiếc nhẫn mãi mãi. Galdor đã mong đợi rằng [Nazgûl](../R/Ringwraiths.md) (những kẻ vừa bị đánh bại ở [Bruinen](../B/Bruinen.md)) sẽ sớm quay trở lại và [Gondor](Gondor.md) không thể ngăn cản Sauron tiến đến tận [Lindon](../L/Lindon.md) và đến được Biển. Đây là những nhận xét cuối cùng trước khi Elrond quyết định rằng lựa chọn duy nhất là phá hủy Chiếc nhẫn trong [Núi Doom](../M/Mount_Doom.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Sau đó, anh ấy đồng ý với Gandalf rằng ngay cả [Biển](../S/Sea.md) cũng không thể giấu được Nhẫn mãi mãi. Galdor dự đoán rằng [Nazgûl](../R/Ringwraiths.md) (vừa bị đánh bại ở [Bruinen](../B/Bruinen.md)) sẽ sớm quay trở lại và [Gondor](Gondor.md) không thể ngăn cản Sauron tiến đến tận [Lindon](../L/Lindon.md) và đến được Biển. Đây là những nhận xét cuối cùng trước khi Elrond quyết định rằng lựa chọn duy nhất là hủy Nhẫn trong [Núi Doom](../M/Mount_Doom.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
@@ -87,7 +87,7 @@ Trong những bài viết gần đây, Tolkien đã suy đoán rằng Galdor nà
 
 <dl><dd>A card from <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i> expansion: <i>Realms of the Elf Lords</i> identifies one of the <a href="../E/Elves.md" title="Elves">Elves</a> at <a href="../C/Council_of_Elrond.md" title="Council of Elrond">the Council of Elrond</a> as Galdor.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> He is portrayed by <a href="../N/Nathan_Clark.md" title="Nathan Clark">Nathan Clark</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>First met in <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a> around the time of the Council of <a href="../E/Elrond.md" title="Elrond">Elrond</a>, Galdor player a rather minor role in the game. During the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a> he travels south and in March of <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a> can be found in <a href="../E/Edhellond.md" title="Edhellond">Edhellond</a> near <a href="../B/Belfalas.md" title="Belfalas">Belfalas</a> on an errand about which he would not elaborate.</dd></dl>
 

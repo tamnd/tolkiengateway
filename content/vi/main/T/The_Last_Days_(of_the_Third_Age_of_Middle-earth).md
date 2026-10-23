@@ -89,7 +89,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/TLD_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/68/TLD_logo.png/320px-TLD_logo.png" decoding="async" loading="lazy" width="320" height="80" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/68/TLD_logo.png/480px-TLD_logo.png 1.5x, https://tolkiengateway.net/w/images/6/68/TLD_logo.png 2x" data-file-width="600" data-file-height="150"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Last Days (of the Third Age of Middle-earth)</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a class="external text" href="https://www.moddb.com/company/tld" rel="noreferrer noopener" target="_blank">The Last Days Team</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">N/A (freeware mod)</td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">Microsoft Windows</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/16_October.md" title="16 October">October 16</a>, <a href="../_/2011.md" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Action RPG / Adventure / Strategy</td></tr></tbody></table>
 
-<i><b>The Last Days (của Kỷ Đệ Tam của Trung Địa)</b></i> (viết tắt **TLD**) là một mod chuyển đổi tổng thể do người hâm mộ tạo ra (phần mềm miễn phí, phi thương mại) cho các trò chơi trên máy tính <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade" title="wikipedia:Mount &amp; Blade">Mount & Blade</a></i> và <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade:_Warband" title="wikipedia:Mount &amp; Blade: Warband">Mount & Blade: Warband</a></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Bản mod mở rộng này, bao gồm các sự kiện của [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), được phát hành lần đầu tiên vào tháng 10 năm 2011 cho *Mount &amp; Blade* và phiên bản *Mount &amp; Blade: Warband* của trò chơi.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+<i><b>The Last Days (of the Third Age of Middle-earth)</b></i> (viết tắt **TLD**) là một mod chuyển đổi tổng thể do người hâm mộ tạo ra (phần mềm miễn phí, phi thương mại) dành cho các trò chơi trên máy tính <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade" title="wikipedia:Mount &amp; Blade">Mount & Blade</a></i> và <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade:_Warband" title="wikipedia:Mount &amp; Blade: Warband">Mount & Blade: Warband</a></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Bản mod mở rộng này, bao gồm các sự kiện của [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), được phát hành lần đầu tiên vào tháng 10 năm 2011 cho *Mount &amp; Blade* và phiên bản *Mount &amp; Blade: Warband* của trò chơi.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 "TLD" tuân theo cơ chế trò chơi cơ bản của loạt trò chơi *Mount &amp; Blade*, đồng thời thay đổi nhiều cơ chế để người chơi hòa nhập tốt hơn vào Trung Địa của Tolkien(chủ yếu là [Rhovanion](../R/Rhovanion.md), [Rohan](../R/Rohan.md), [Gondor](../G/Gondor.md) và các vùng đất ở phía đông) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
 
@@ -129,7 +129,7 @@ Chiến dịch “Tốt”: *The Dawn of a New Age*
 - [Vương quốc Dale](../K/Kingdom_of_Dale.md) ([Bardings](../B/Bardings.md) của [Dale](../D/Dale.md) và [Esgaroth](../E/Esgaroth.md))
 - [Beornings](../B/Beornings.md) và [Người Rừng](../W/Woodmen.md)
 
-Gondor đáng chú ý vì có thêm một số phe phái phụ, nhằm đại diện cho các vùng và tỉnh khác nhau của vương quốc cũng như các truyền thống và đặc sản quân sự khác nhau của họ. Chúng có cây phát triển quân đội độc đáo của riêng mình. (Dol Amroth có các hiệp sĩ Thiên Nga, giáo thủ và cung thủ Pinnath Gelin, cung thủ Blackroot Vale, lính rìu Lossarnach và Pelargir thủy quân lục chiến.) Biệt đội phương Bắc là một phân nhánh của chủ nhà Rivendell (cũng có cây phát triển quân đội riêng của họ so với cây Imladris yêu tinh) và Beornings và Người Rừng tạo thành một phe chung (với cả hai nhóm đều có cây phát triển quân đội riêng của họ).
+Gondor đáng chú ý vì có thêm một số phe phái phụ, nhằm đại diện cho các vùng và tỉnh khác nhau của vương quốc cũng như các truyền thống và đặc sản quân sự khác nhau của họ. Chúng có cây phát triển quân đội độc đáo của riêng mình. (Dol Amroth có các hiệp sĩ Thiên Nga, Pinnath Gelin giáo và cung thủ, cung thủ Blackroot Vale, lính rìu Lossarnach và Pelargir thủy quân lục chiến.) Biệt đội phương Bắc là một phân nhánh của chủ nhà Rivendell (cũng có cây phát triển quân đội riêng của họ so với cây Imladris yêu tinh) và Beornings và Người Rừng tạo thành một phe chung (với cả hai nhóm đều có cây phát triển quân đội riêng của họ).
 
 #### Lực lượng của Sauron {#The_Forces_of_Sauron}
 
@@ -144,9 +144,9 @@ Chiến dịch "Ác quỷ": *The Twilight of Man*
 - [Isengard](../I/Isengard.md)
 - [Orc](../O/Orcs.md) trong số [Moria](../M/Moria.md)
 - [Gundabad](../G/Gundabad.md) [orc](../O/Orcs.md)
-- [Cho vay khó khăn](../D/Dunlendings.md)
+- [Dunlending](../D/Dunlendings.md)
 
-Dunlendings là phe yếu nhất và nhỏ nhất trong các phe đối kháng.
+Dunlending là phe yếu nhất và nhỏ nhất trong các phe đối kháng.
 
 ## Âm nhạc {#Music}
 
@@ -619,9 +619,9 @@ Nhóm phát triển ban đầu của toàn bộ chuyển đổi hoặc các nhó
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.moddb.com/mods/the-last-days" rel="noreferrer noopener" target="_blank"><i>Những ngày cuối cùng (của Kỷ Đệ Tam của Trung Địa)</i> tổng quan chính</a> tại <a class="external text" href="https://www.moddb.com/" rel="noreferrer noopener" target="_blank">ModDB.com</a> (tin tức và cập nhật thường xuyên)
+- <a class="external text" href="https://www.moddb.com/mods/the-last-days" rel="noreferrer noopener" target="_blank"><i>The Last Days (of the Third Age of Middle-earth)</i> tổng quan chính</a> tại <a class="external text" href="https://www.moddb.com/" rel="noreferrer noopener" target="_blank">ModDB.com</a> (tin tức và cập nhật thường xuyên)
 - <a class="external text" href="http://synnaskole.sweb.cz/TLDManual3.3.pdf" rel="noreferrer noopener" target="_blank">Sách hướng dẫn bằng tiếng Anh cho <i>Những ngày cuối cùng</i></a> (cập nhật cho phiên bản 3.3 trở lên)
-- <a class="external text" href="https://forums.taleworlds.com/index.php?threads/tld-the-last-days-lotr-mod-for-m-b-1-011-info.199243/" rel="noreferrer noopener" target="_blank">Chủ đề chính cho <i>Những ngày cuối cùng (của Kỷ Đệ Tam của Trung Địa)</i> tổng số chuyển đổi (cho <i>Mount & Blade</i> 1.011)</a> tại diễn đàn chính thức của TaleWorlds Entertainment, "Các bản mod đã phát hành"
+- <a class="external text" href="https://forums.taleworlds.com/index.php?threads/tld-the-last-days-lotr-mod-for-m-b-1-011-info.199243/" rel="noreferrer noopener" target="_blank">Chủ đề chính về tổng số chuyển đổi <i>The Last Days (of the Third Age of Middle-earth)</i> (cho <i>Mount & Blade</i> 1.011)</a> tại diễn đàn chính thức của TaleWorlds Entertainment, "Các bản mod đã phát hành"
 - <a class="external text" href="http://mbx.streetofeyes.com/index.php/board,20.0.html" rel="noreferrer noopener" target="_blank">Diễn đàn phát triển và khắc phục sự cố cho <i>Những ngày cuối cùng</i></a> (lưu trữ)
 
 <br>

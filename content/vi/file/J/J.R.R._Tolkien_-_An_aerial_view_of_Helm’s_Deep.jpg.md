@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh từ trên không của [Helm's Deep](../../main/H/Helm's_Deep.md), c.[1942](../../main/_/1942.md), được phác thảo bên dưới phần mô tả bằng văn bản tương tự, từ Quyển 3, ch. 7 trong số [The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md).
+Hình ảnh nhìn từ trên không của [Helm's Deep](../../main/H/Helm's_Deep.md), c.[1942](../../main/_/1942.md), được phác thảo bên dưới phần mô tả bằng văn bản tương tự, từ Quyển 3, ch. 7 trong số [The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md).
 
 ## Giấy phép {#Licensing}
 

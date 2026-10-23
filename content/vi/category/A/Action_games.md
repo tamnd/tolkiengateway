@@ -12,4 +12,4 @@ categories:
   - "Video games by genre"
 ---
 
-Thể loại này liệt kê tất cả **trò chơi hành động** liên quan đến tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
+Thể loại này liệt kê tất cả **trò chơi hành động** liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) tác phẩm.

@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-- **2** – Xếp hạng này có nghĩa là thường không được chấp nhận là chuẩn. Về các chủ đề nói chung (chẳng hạn như *[The Fall of Gondolin](<../../main/T/The_Fall_of_Gondolin_(chapter).md>)*), điều đó có nghĩa là các chi tiết không nên được chấp nhận là sự thật chắc chắn, ngay cả khi không mâu thuẫn ở nơi khác. Phần này chủ yếu bao gồm các bài viết trước đó của Tolkien. Tìm thấy trong danh mục này có thể là những bài viết như *[Orcobal](../../main/O/Orcobal.md)*.
+- **2** – Xếp hạng này có nghĩa là thường không được chấp nhận là chuẩn. Về các chủ đề nói chung (chẳng hạn như *[The Fall of Gondolin](<../../main/T/The_Fall_of_Gondolin_(chapter).md>)*), điều đó có nghĩa là các chi tiết không nên được chấp nhận là sự thật chắc chắn, ngay cả khi không mâu thuẫn ở nơi khác. Phần này chủ yếu bao gồm các bài viết trước đó của Tolkien. Tìm thấy trong thể loại này có thể là những bài viết như *[Orcobal](../../main/O/Orcobal.md)*.
 
 ## Giấy phép {#Licensing}
 

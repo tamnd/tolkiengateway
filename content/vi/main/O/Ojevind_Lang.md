@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Öjevind Lång"
 ---
 
-Chuyển hướng tới [Öjevind Lång](../_/Öjevind_Lång.md).
+Chuyển hướng đến [Öjevind Lång](../_/Öjevind_Lång.md).

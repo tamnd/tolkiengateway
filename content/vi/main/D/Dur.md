@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-ndur"
 ---
 
-Chuyển hướng đến [-ndur](../_/-ndur.md).
+Chuyển hướng tới [-ndur](../_/-ndur.md).

@@ -45,7 +45,7 @@ infobox:
     - nghệ thuật của Kay Woollard
 - "Thơ Giáng Sinh" của Mark Simmons
     - nghệ thuật của Kay Woollard
-- "Những cái cây phương Bắc" của Sheena Moore
+- "Cây phương Bắc" của Sheena Moore
     - nghệ thuật của Kay Woollard
 - Nghệ thuật của Lynn Close
 - "Bản ballad của lũ quỷ"

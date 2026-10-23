@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ages"
 ---
 
-Chuyển hướng tới [Kỷ nguyên](Ages.md).
+Chuyển hướng đến [Kỷ nguyên](Ages.md).

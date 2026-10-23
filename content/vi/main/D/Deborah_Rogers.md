@@ -50,7 +50,7 @@ images:
 - [1975](../_/1975.md): *[A Tolkien Compass](../A/A_Tolkien_Compass.md)*
     - "Everyclod và Everyhero: Hình ảnh con người trong Tolkien"
 - [1987](../_/1987.md): [*Mythlore* 52](../M/Mythlore_52.md)
-    - "Nỗi đau khổ yêu... Gốc rễ của tội ác"
+    - "Khốn khổ yêu… Một Gốc của Nhân vật phản diện"
 
 ## Xem thêm {#See_also}
 

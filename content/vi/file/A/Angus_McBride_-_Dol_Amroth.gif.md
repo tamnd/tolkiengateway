@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Angus McBride - Sack of Osgiliath.gif"
 ---
 
-Chuyển hướng tới [Tệp:Angus McBride - Bao Osgiliath.gif](Angus_McBride_-_Sack_of_Osgiliath.gif.md).
+Chuyển hướng đến [Tệp:Angus McBride - Bao Osgiliath.gif](Angus_McBride_-_Sack_of_Osgiliath.gif.md).

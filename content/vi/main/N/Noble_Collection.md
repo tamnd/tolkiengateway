@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Noble Collection"
 ---
 
-Chuyển hướng tới [Bộ sưu tập cao quý](../T/The_Noble_Collection.md).
+Chuyển hướng đến [Bộ sưu tập cao quý](../T/The_Noble_Collection.md).

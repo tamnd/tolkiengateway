@@ -34,7 +34,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 11</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Susan_Dagnall&amp;action=edit&amp;redlink=1" title="Susan Dagnall (page does not exist)">Susan Dagnall</a>, <a class="mw-redirect" href="../A/Allen_and_Unwin.md" title="Allen and Unwin">Allen &amp; Unwin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/5_February.md" title="5 February">5 February</a> <a href="../_/1937.md" title="1937">1937</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i></td></tr></tbody></table>
 
-**Thư 11** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên tạp chí *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
+**Thư 11** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
 
 ## Tóm tắt {#Summary}
 
@@ -42,7 +42,7 @@ Bức thư này liên quan đến việc xuất bản *[The Hobbit](../T/The_Hob
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Mở đầu thư Tolkien thể hiện lòng biết ơn đối với Phòng Sản xuất vì công việc của họ và chấp thuận việc lựa chọn các hình ảnh minh họa của họ. Và cuối cùng, anh ấy mong được gặp cô Dagnall và lẽ ra anh ấy sẽ trả lời thư sớm hơn nếu có thời gian.
+Mở đầu thư Tolkien thể hiện lòng biết ơn đối với Phòng Sản xuất vì công việc của họ và chấp thuận việc họ lựa chọn các hình ảnh minh họa. Và cuối cùng, anh ấy mong được gặp cô Dagnall và lẽ ra anh ấy sẽ trả lời thư sớm hơn nếu có thời gian.
 
 <br>
 

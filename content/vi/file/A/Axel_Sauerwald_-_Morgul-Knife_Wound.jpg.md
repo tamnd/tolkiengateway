@@ -30,7 +30,7 @@ file:
 
 [Vết thương do dao Morgul](../../main/M/Morgul-wound.md) - *[The Lord of the Rings: Tales of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md)* tác phẩm nghệ thuật của Axel Sauerwald
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="https://company.wizards.com/en" rel="noreferrer noopener" target="_blank">Wizards of the Coast</a> through <a href="../../main/M/Middle-earth_Enterprises.md" title="Middle-earth Enterprises">Middle-earth Enterprises</a>. It is believed that the limited use of this file,

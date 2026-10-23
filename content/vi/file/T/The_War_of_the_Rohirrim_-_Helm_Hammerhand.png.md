@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Helm Hammerhand từ *The Lord of the Rings: Cuộc chiến của Rohirrim* <i></i>
+Helm Hammerhand từ *The Lord of the Rings: The War of the Rohirrim* <i></i>
 
 ## Giấy phép {#Licensing}
 

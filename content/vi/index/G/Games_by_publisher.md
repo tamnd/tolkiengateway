@@ -92,13 +92,13 @@ images:
 - [Cầu Catzad-Dum](../../main/T/The_Bridge_of_Catzad-Dum.md)
 - [Khu rừng sợ hãi](../../main/T/The_Forest_of_Fear.md)
 - [Haradwaith](<../../main/H/Haradwaith_(video_game).md>)
-- [Cuộc săn lùng chiếc nhẫn](<../../main/T/The_Hunt_for_the_Ring_(video_game).md>)
+- [Cuộc săn lùng Nhẫn](<../../main/T/The_Hunt_for_the_Ring_(video_game).md>)
 - [Nhà tù sắt](../../main/T/The_Iron_Prison.md)
-- [Mỏ Moria](<../../main/T/The_Mines_of_Moria_(video_game).md>)
+- [Cái Mỏ Moria](<../../main/T/The_Mines_of_Moria_(video_game).md>)
 - [Nhiệm vụ của Erebor](<../../main/Q/Quest_of_Erebor_(video_game).md>)
 - [Quay lại Moria](../../main/R/Return_to_Moria.md)
 - [Cái Vòng Phán xét](<../../main/T/The_Ring_of_Doom_(video_game).md>)
-- [Chiếc nhẫn kinh hoàng](../../main/T/Thror's_Ring.md)
+- [Thror Nhẫn](../../main/T/Thror's_Ring.md)
 
 ## [Nghệ thuật điện tử](../../main/E/Electronic_Arts.md) {#Electronic_Arts}
 
@@ -145,7 +145,7 @@ images:
 ## [Trò chơi sốt cà chua](../../main/K/Ketchup_Games.md) {#Ketchup_Games}
 
 - [Mỏ Moria](<../../main/M/Mines_of_Moria_(video_game).md>)
-- [Mìn của Moria II: Cuộc đào thoát](../../main/M/Mines_of_Moria_II%253A_The_Escape_Out.md)
+- [Mỏ Moria II: Cuộc tẩu thoát](../../main/M/Mines_of_Moria_II%253A_The_Escape_Out.md)
 - [Mỏ Moria 3](../../main/M/Mines_of_Moria_3.md)
 
 ## [Konami](../../main/K/Konami_Corporation.md) {#Konami}
@@ -208,7 +208,7 @@ Những kỵ sĩ của - [J.R.R. Tolkien của Rohan](../../main/J/J.R.R._Tolkie
 
 ## [Trò chơi đá đứng](../../main/S/Standing_Stone_Games.md) {#Standing_Stone_Games}
 
-- [The Lord of the Rings Trực tuyến](../../main/T/The_Lord_of_the_Rings_Online.md) (ban đầu được phát hành dưới tên Codemasters và Turbine)
+- [The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md) (ban đầu được phát hành dưới tên Codemasters và Turbine)
 
 ## [Trò chơi giả tưởng chiến lược của Úc](../../main/S/Strategic_Fantasy_Games_of_Australia.md) {#Strategic_Fantasy_Games_of_Australia}
 

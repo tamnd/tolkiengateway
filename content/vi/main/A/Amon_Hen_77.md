@@ -52,7 +52,7 @@ infobox:
 - Biên tập
     - Bởi: Iwan Rhys Morus
 - Thông báo ĐHĐCĐ
-Thông báo - [Người giải quyết](../U/Unquendor.md)
+- [Unquendor](../U/Unquendor.md) Thông báo
 - Truyện dân gian/Thông báo
 - Vấn đề về lưng
 - Kết quả cuộc thi Nhà văn

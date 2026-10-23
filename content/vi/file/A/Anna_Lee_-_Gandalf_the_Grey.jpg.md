@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*[Gandalf](../../main/G/Gandalf.md) the Grey* của [Anna Lee](../../main/A/Anna_Lee.md).
+*[Gandalf](../../main/G/Gandalf.md) the Grey* bởi [Anna Lee](../../main/A/Anna_Lee.md).
 
 ## Giấy phép {#Licensing}
 

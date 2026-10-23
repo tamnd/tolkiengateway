@@ -133,7 +133,7 @@ Từ *Eorl* là bản dịch bằng tiếng [Anh cổ](../O/Old_English.md) củ
 		</li>
 </ul>
 
-<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Eorl appears in a series of flashbacks narrating the history of the <a href="../_/Éothéod.md" title="Éothéod">Éothéod</a>. Additionally, he is depicted on tapestries found throughout Rohan. A statue of Eorl and Cirion is erected near the site of their first meeting.</dd></dl>
 

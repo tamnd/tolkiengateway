@@ -14,4 +14,4 @@ sort_keys:
   "Images by artist": "Hildenbrandt"
 ---
 
-Thể loại này liệt kê tất cả **hình ảnh của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md)**.
+Danh mục này liệt kê tất cả **hình ảnh theo [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md)**.

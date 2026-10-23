@@ -61,4 +61,4 @@ Carl là con trai thứ hai của [Cottar](Cottar.md), em trai của [Cotman](Co
 
 ## Tài liệu tham khảo {#References}
 
-- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, [Phụ lục C](../A/Appendix_C.md), "Cây bố già của thầy Samwise"
+- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, [Phụ lục C](../A/Appendix_C.md), "Cây bố già Chủ nhân Samwise"

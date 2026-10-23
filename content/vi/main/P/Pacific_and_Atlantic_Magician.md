@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Artaxerxes"
 ---
 
-Chuyển hướng đến [Artaxerxes](../A/Artaxerxes.md).
+Chuyển hướng tới [Artaxerxes](../A/Artaxerxes.md).

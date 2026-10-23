@@ -60,7 +60,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Madoc là con trai của [Gormadoc Brandybuck](../G/Gormadoc_Brandybuck.md) và [Malva Headstrong](Malva_Headstrong.md). Ông kết hôn với [Hanna Goldworthy](../H/Hanna_Goldworthy.md) và là cha của [Marmadoc Brandybuck](Marmadoc_Brandybuck.md). Ông giữ chức vụ [Bậc thầy Buckland](Master_of_Buckland.md) giữa [S.R.](../S/Shire_Reckoning.md) [1236](../T/Third_Age_2836.md) và [S.R.](../S/Shire_Reckoning.md) [1277](../T/Third_Age_2877.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Madoc là con trai của [Gormadoc Brandybuck](../G/Gormadoc_Brandybuck.md) và [Malva Headstrong](Malva_Headstrong.md). Ông kết hôn với [Hanna Goldworthy](../H/Hanna_Goldworthy.md) và là cha của [Marmadoc Brandybuck](Marmadoc_Brandybuck.md). Anh ấy từng là [Chủ nhân của Buckland](Master_of_Buckland.md) giữa [S.R.](../S/Shire_Reckoning.md) [1236](../T/Third_Age_2836.md) và [S.R.](../S/Shire_Reckoning.md) [1277](../T/Third_Age_2877.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

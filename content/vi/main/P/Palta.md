@@ -19,7 +19,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Từ [Nguyên thủy Elvish](Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pal%27t%C3%A2&amp;action=edit&amp;redlink=1" title="Pal&#39;tâ (page does not exist)">pal'tâ</a></i> [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=PAL&amp;action=edit&amp;redlink=1" title="PAL (page does not exist)">PAL</a>
+Từ [Primitive Elvish](Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pal%27t%C3%A2&amp;action=edit&amp;redlink=1" title="Pal&#39;tâ (page does not exist)">pal'tâ</a></i> [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=PAL&amp;action=edit&amp;redlink=1" title="PAL (page does not exist)">PAL</a>
 
 ---
 
@@ -27,7 +27,7 @@ Từ [Nguyên thủy Elvish](Primitive_Elvish.md) <i><a class="new" href="https:
 
 ## Từ nguyên {#Etymology_2}
 
-Nó bắt nguồn từ [Nguyên thủy Elvish](Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pal%C3%A1ta&amp;action=edit&amp;redlink=1" title="Paláta (page does not exist)">paláta</a></i> [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=PAL&amp;action=edit&amp;redlink=1" title="PAL (page does not exist)">PAL</a>
+Nó bắt nguồn từ [Primitive Elvish](Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pal%C3%A1ta&amp;action=edit&amp;redlink=1" title="Paláta (page does not exist)">paláta</a></i> [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=PAL&amp;action=edit&amp;redlink=1" title="PAL (page does not exist)">PAL</a>
 
 ## Có cùng nguồn gốc {#Cognates}
 

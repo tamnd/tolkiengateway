@@ -16,7 +16,7 @@ categories:
 
 Nó đã quảng cáo các bộ phim của Sir [Peter Jackson](../P/Peter_Jackson.md), chẳng hạn như "Hobbit Jet", đồng thời, với sự hợp tác với Jackson và [Weta Workshop](../W/Weta_Workshop.md), đã phát hành một số video lấy cảm hứng từ Trung Địa quảng cáo chéo.
 
-Các video có [Tolkien](../T/Tolkien.md) các ký tự như [Gandalf](../G/Gandalf.md) và [Gwaihir](../G/Gwaihir.md), [Orc](../O/Orcs.md), [Hobbit](../H/Hobbits.md) và [Tiên tộc](../E/Elves.md) hoặc [One Ring](../O/One_Ring.md). Jackson, [Dean O'Gorman](../D/Dean_O'Gorman.md), [Sylvester McCoy](../S/Sylvester_McCoy.md) và [Elijah Wood](../E/Elijah_Wood.md) đóng vai khách mời.
+Các video có [Tolkien](../T/Tolkien.md) ký tự như [Gandalf](../G/Gandalf.md) và [Gwaihir](../G/Gwaihir.md), [Orc](../O/Orcs.md), [Hobbit](../H/Hobbits.md) và [Tiên tộc](../E/Elves.md) hoặc [Một Nhẫn](../O/One_Ring.md). Jackson, [Dean O'Gorman](../D/Dean_O'Gorman.md), [Sylvester McCoy](../S/Sylvester_McCoy.md) và [Elijah Wood](../E/Elijah_Wood.md) đóng vai khách mời.
 
 ## Liên kết ngoài {#External_links}
 

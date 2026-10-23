@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Túrin"
 ---
 
-Chuyển hướng tới [Túrin](../T/Túrin.md).
+Chuyển hướng đến [Túrin](../T/Túrin.md).

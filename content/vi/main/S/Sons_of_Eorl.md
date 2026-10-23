@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eorlingas"
 ---
 
-Chuyển hướng đến [Eorlingas](../E/Eorlingas.md).
+Chuyển hướng tới [Eorlingas](../E/Eorlingas.md).

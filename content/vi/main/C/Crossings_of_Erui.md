@@ -41,7 +41,7 @@ Cách [Minas Tirith](../M/Minas_Tirith.md)khoảng 50 dặm về phía nam, con 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The Crossings of Erui were found in Eastern Gondor, and connected Upper <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a> to <a href="../L/Lossarnach.md" title="Lossarnach">Lossarnach</a>. During the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a>, the ford was haunted by ancient <a href="../G/Gondorians.md" title="Gondorians">Gondorian</a> armour animated by water under the command of the angry River-maid the Lone Lady, preventing the invading <a href="../H/Haradrim.md" title="Haradrim">Haradrim</a> from crossing. The Lone Lady animated the long-lost armour of <a href="Castamir.md" title="Castamir">Castamir</a> himself before being calmed by her sisters.</dd></dl>
 

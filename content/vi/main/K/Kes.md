@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kes-"
 ---
 
-Chuyển hướng đến [Kes-](Kes-.md).
+Chuyển hướng tới [Kes-](Kes-.md).

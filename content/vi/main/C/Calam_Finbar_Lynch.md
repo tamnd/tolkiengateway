@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calam Lynch"
 ---
 
-Chuyển hướng đến [Calam Lynch](Calam_Lynch.md).
+Chuyển hướng tới [Calam Lynch](Calam_Lynch.md).

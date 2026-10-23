@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tîn"
 ---
 
-Chuyển hướng tới [Tîn](Tîn.md).
+Chuyển hướng đến [Tîn](Tîn.md).

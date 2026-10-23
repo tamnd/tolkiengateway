@@ -63,9 +63,9 @@ infobox:
 - Quảng cáo: [Mithril Armory](../M/Mithril_Armoury.md)
 - Tolkien 2005 Sản phẩm
     - Bởi: Malcolm Lindley
-- Thông báo về Lễ hội học bổng
+- Thông báo về Lễ hội Học bổng
 Thông báo - [Oxonmoot](../O/Oxonmoot.md)
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- Cái [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Về 'Bà chủ', Sự đúng đắn về Chính trị và Orc
     - Bởi: *[Beruthiel](../B/Berúthiel.md)'s Pet*

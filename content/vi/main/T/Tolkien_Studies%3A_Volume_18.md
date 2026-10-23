@@ -65,11 +65,11 @@ infobox:
     - *[Tolkien Đọc hiện đại](Tolkien's_Modern_Reading.md): Trung Địa Beyond the Middle Kỷ nguyên*, bởi Holly Ordway, được Zachary đánh giá D. Schmoll
     - *Chủ đề không tưởng và đen tối trong Tolkien's Legendarium* của Mark Doyle, được Jay Rimmer đánh giá
     - *Tolkien's Cosmology: Divine Beings and Middle-earth*, bởi Sam McBride, được đánh giá bởi Alyssa House-Thomas
-    - *[Music in Tolkien's Work and Beyond](../M/Music_in_Tolkien's_Work_and_Beyond.md)*, do Julian Eilmann và Friedhelm Schneidewind biên tập, David Bratman xem xét
+    - *[Music in Tolkien's Work and Beyond](../M/Music_in_Tolkien's_Work_and_Beyond.md)*, do Julian Eilmann và Friedhelm Schneidewind biên tập, được David Bratman đánh giá
     - *J.R.R. Tolkien: Hướng dẫn dành cho người bối rối*, của Toby Widdicombe, được David Bratman đánh giá
 
-- David Bratman, Kate Neville, Jennifer Rogers, Robin Anne Reid, Jason Fisher, John Wm. Houghton và John Magoun, "Công trình nghiên cứu Tolkien của năm 2018"
-- David Bratman, "Thư mục (bằng tiếng Anh) cho năm 2019"
+- David Bratman, Kate Neville, Jennifer Rogers, Robin Anne Reid, Jason Fisher, John Wm. Houghton và John Magoun, "Công việc của năm trong nghiên cứu Tolkien 2018"
+- David Bratman, "Thư mục (bằng tiếng Anh) năm 2019"
 
 ## Liên kết ngoài {#External_links}
 

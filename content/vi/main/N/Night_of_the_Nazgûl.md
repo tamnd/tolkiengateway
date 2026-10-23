@@ -41,5 +41,5 @@ Thời gian ngay trước Cuộc chiến Nhẫn. The Shire đang gặp nguy hi�
 
 - Chọn ký tự sẵn sàng chạy
 - Tạo nhân vật của riêng bạn bằng hệ thống QuestGame
-- Tạo nhân vật CHƠI VAI TRÒ TRUNG ĐỊA (MERP) của riêng bạn
+- Tạo nhân vật CHƠI VAI TRÒ TRUNG BÌNH (MERP) của riêng bạn
 - Tương thích với các hệ thống nhập vai khác

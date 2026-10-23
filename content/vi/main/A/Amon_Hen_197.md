@@ -59,7 +59,7 @@ infobox:
 - Quảng cáo: *Journey of the Ring CD*
 - Thông báo
 - Thông báo ĐHĐCĐ
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- Cái [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Đại Lục Xanh Rồng
     - Bởi: Carol Brownlow

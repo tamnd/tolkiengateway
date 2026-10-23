@@ -47,7 +47,7 @@ Sự giám hộ của Morgan không chỉ mang tính kinh tế và tinh thần, 
 
 Khi Tolkien mười bảy tuổi, ông bắt đầu nảy sinh tình cảm với [Edith Bratt](../E/Edith_Bratt.md), nhưng Cha Francis yêu cầu ông chờ đến khi trưởng thành (21 tuổi) mới được nói chuyện với cô. Dù tình cảnh nghiêm khắc ấy, Tolkien vẫn tuân theo mệnh lệnh một cách tuyệt đối, và vào [8 tháng 1](../_/8_January.md) năm [1913](../_/1913.md), ông và Edith đính hôn. Mối quan hệ được nối lại đã làm gia tăng lòng nhiệt thành tôn giáo của Tolkien, và ông bắt đầu một cuốn nhật ký có nhan đề "<i>JRRT và <a href="../E/Edith_Tolkien.md" title="Edith Tolkien">EMB</a> cùng ghi chép, <a class="extiw" href="http://en.wikipedia.org/wiki/Ad_maiorem_Dei_gloriam" title="wikipedia:Ad maiorem Dei gloriam">AMDG</a></i>", trong đó, ngoài những điều khác, ông ghi lại việc thực hiện các bổn phận tôn giáo của mình.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup> Điều kiện duy nhất Tolkien đưa ra với Edith là cô phải cải đạo sang Công giáo; cô đã chấp nhận, bất chấp những bất tiện mà việc đó sẽ đem lại. Họ kết hôn vào [22 tháng 3](../_/22_March.md) năm [1916](../_/1916.md), với lời chúc phúc của Cha Francis.<sup id="cite_ref-Bio_1-5" class="reference"><a href="#cite_note-Bio-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:78–79</sup>
 
-### The Inklings {#The_Inklings}
+### Cái Inklings {#The_Inklings}
 
 Khi trở lại Oxford với tư cách giáo sư vào năm [1925](../_/1925.md), ông là một giáo dân tích cực, vừa tham gia ban tuyên úy của trường đại học vừa tham gia các cộng đồng Công giáo ở [Oxford](../O/Oxford.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
 

@@ -11,4 +11,4 @@ redirect_target: "Salmar"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Chuyển hướng đến [Salmar](../S/Salmar.md#Other_versions_of_the_legendarium).
+Chuyển hướng tới [Salmar](../S/Salmar.md#Other_versions_of_the_legendarium).

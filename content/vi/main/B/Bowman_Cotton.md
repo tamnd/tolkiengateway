@@ -70,7 +70,7 @@ Cùng với cha và các anh trai của mình, Nick đã chiến đấu trong [T
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Nick Cotton can be found on his family farm, working the soil alongside his brother Jolly. He plays no role in the storyline.</dd></dl>
 

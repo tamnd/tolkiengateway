@@ -17,7 +17,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../W/Wizards.md" title="Wizards">Wizards</a></b></div></div>
 
-**Istar** (pl. <i><b>Istari</b></i>) Một từ [Quenya](../Q/Quenya.md) có nghĩa gần đúng "*Wise One*", được dịch là "*[Wizard](../W/Wizards.md)*",<sup id="cite_ref-UT_1-0" class="reference"><a href="#cite_note-UT-1">[1]</a></sup> hoặc "những người biết".<sup id="cite_ref-L156_2-0" class="reference"><a href="#cite_note-L156-2">[2]</a></sup>
+**Istar** (pl. <i><b>Istari</b></i>) Một từ [Quenya](../Q/Quenya.md) có nghĩa xấp xỉ "*Wise One*", được dịch là "*[Wizard](../W/Wizards.md)*",<sup id="cite_ref-UT_1-0" class="reference"><a href="#cite_note-UT-1">[1]</a></sup> hoặc "những người biết".<sup id="cite_ref-L156_2-0" class="reference"><a href="#cite_note-L156-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -34,7 +34,7 @@ Từ này xuất phát từ động từ *[ista-](Ista-.md)* ("biết") và có 
 ## Ví dụ {#Examples}
 
 - *[Heren Istarion](../O/Order_of_Wizards.md)*<sup id="cite_ref-UT_1-3" class="reference"><a href="#cite_note-UT-1">[1]</a></sup>
-- **Istar**, tên ban đầu, bị loại bỏ, của [Tar-Míriel](../T/Tar-Míriel.md)
+- **Istar**, bản gốc, bị loại bỏ, tên của [Tar-Míriel](../T/Tar-Míriel.md)
 
 <span></span>
 

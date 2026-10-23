@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-li"
 ---
 
-Chuyển hướng đến [-li](-li.md).
+Chuyển hướng tới [-li](-li.md).

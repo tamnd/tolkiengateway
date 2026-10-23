@@ -63,7 +63,7 @@ Ngay cả vào cuối [Kỷ Đệ Tam](../T/Third_Age.md), khi [Đoàn Hộ Nh�
 		</li>
 </ul>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>A portion of the Brown Lands is accessible across the Anduin from <a href="../F/Field_of_Celebrant.md" title="Field of Celebrant">Field of Celebrant</a>, hosting encampments of the <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a> preparing to attack the <a class="mw-redirect" href="../W/Wold.md" title="Wold">Wold</a>. It contains the Gardens of the Entwives, long abandoned and desolate.</dd></dl>
 

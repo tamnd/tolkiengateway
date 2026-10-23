@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Chiếc nhẫn man rợ](../../main/N/Nine_Rings.md#Portrayals_in_adaptations)
+[Nhẫn sự man rợ](../../main/N/Nine_Rings.md#Portrayals_in_adaptations)
 
 ## Giấy phép {#Licensing}
 

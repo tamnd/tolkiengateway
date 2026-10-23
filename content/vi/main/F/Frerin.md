@@ -58,7 +58,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Cùng với những người còn lại trong gia đình, Frerin bị đuổi khỏi [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md) khi [Rồng](../D/Dragons.md) [Smaug](../S/Smaug.md) [tấn công](../S/Sack_of_Erebor.md) nhà của họ. Sau đó anh đã tham gia [Cuộc chiến giữa Người lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md)đẫm máu, mặc dù lúc đó anh vẫn còn rất trẻ.
+Cùng với những người còn lại trong gia đình, Frerin bị đuổi khỏi [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md) khi [Rồng](../D/Dragons.md) [Smaug](../S/Smaug.md) [tấn công](../S/Sack_of_Erebor.md) nhà của họ. Sau đó anh đã tham gia [Cuộc chiến giữa Người Lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md)đẫm máu, mặc dù lúc đó anh vẫn còn rất trẻ.
 
 Trong cuộc xung đột cuối cùng của cuộc chiến, [Trận Azanulbizar](../B/Battle_of_Azanulbizar.md), Frerin đã tham gia cuộc tấn công đầu tiên của đội tiên phong do cha anh chỉ huy, nhưng đã bị thất bại. Frerin và phần còn lại của đội tiên phong bị đẩy vào một khu rừng cây lớn gần hồ [Mirrormere](../M/Mirrormere.md). Tại đó Frerin đã bị giết, cùng với người bà con [Fundin](Fundin.md)và nhiều người khác.
 

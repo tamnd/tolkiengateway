@@ -36,7 +36,7 @@ infobox:
 
 Tolkien bắt đầu viết lại *The Lord of the Rings* nhưng gặp lỗi khi đồng bộ hóa chuyển động của [Frodo](../F/Frodo_Baggins.md) và những người khác. Phải mất một hoặc hai ngày để tìm ra vấn đề và anh ấy đã đoán trước được những thay đổi nhỏ mệt mỏi trong nhiều chương để khắc phục nó. Ít nhất, anh ấy nói, anh ấy thực sự đã bắt đầu Quyển Năm, cuốn cuối cùng có khoảng mười chương.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
-Biên tập viên của tờ Dublin Review yêu cầu một số đoạn thơ hoặc bài tường thuật nên Tolkien đã gửi cho anh ta *Leaf by Niggle*.
+Biên tập viên của tờ Dublin Review yêu cầu một số đoạn thơ hoặc bài tường thuật nên Tolkien đã gửi cho anh ấy *Leaf by Niggle*.
 
 ## Lưu ý {#Note}
 

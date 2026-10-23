@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Tolkien 1916 (colourized).png"
 ---
 
-Chuyển hướng đến [Tệp:Tolkien 1916 (colourized).png](<Tolkien_1916_(colourized).png.md>).
+Chuyển hướng tới [Tệp:Tolkien 1916 (colourized).png](<Tolkien_1916_(colourized).png.md>).

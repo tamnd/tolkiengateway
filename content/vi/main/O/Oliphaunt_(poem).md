@@ -67,7 +67,7 @@ Phiên bản đầu tiên của bài thơ đã được xuất bản với tên 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2024: <i><a href="../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md" title="The Lord of the Rings: The War of the Rohirrim">The Lord of the Rings: Cuộc chiến của Rohirrim</a></i>:</b>
+<b>2024: <i><a href="../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md" title="The Lord of the Rings: The War of the Rohirrim">The Lord of the Rings: The War of the Rohirrim</a></i>:</b>
 
 <dl><dd>At one point in the film, it is mentioned that the <a href="../R/Rohan.md" title="Rohan">Rohan</a> has a poem about Oliphaunts, implying that the <a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a> are either aware of the Hobbit poem or that they have their own variation of the Hobbit poem.</dd></dl>
 

@@ -58,7 +58,7 @@ infobox:
 - Thông báo
 - Quảng cáo: Sectus (Hội nghị Harry Potter)
 - Quảng cáo: Triển lãm nghệ thuật Moreton-in-Marsh
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- Cái [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Sự kết thúc đã ở trước mắt
     - Bởi: *[Beruthiel](../B/Berúthiel.md)'s Pet*
@@ -95,6 +95,6 @@ infobox:
     - Bởi: [Sally Kennett](../S/Sally_Kennett.md)
 - Thành viên mới
 - Hồ sơ thành viên - Suzanna Nemeth
-- Truyện dân gian/Ủy ban
+- Truyện dân ca/Ủy ban
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 200</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_200.md" title="Amon Hen 200">Amon Hen 200</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 201</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 202</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_202.md" title="Amon Hen 202">Amon Hen 202</a></div></div></div>

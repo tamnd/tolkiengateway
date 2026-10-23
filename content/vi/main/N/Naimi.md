@@ -31,7 +31,7 @@ infobox:
 
 **Naimi** là cháu gái của [Vairë](<../V/Vairë_(wife_of_Lindo).md>), [Tiên](../E/Elves.md) của [Tol Eressëa](../T/Tol_Eressëa.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Cô kết hôn với [Eriol](../E/Eriol.md), thủy thủ [Mannish](../M/Men.md), sau khi anh ta được *[limpë](../L/Limpë.md)*làm cho trẻ lại và có với nhau một đứa con trai tên là [Heorrenda](../H/Heorrenda.md).<sup id="cite_ref-Nai_1-0" class="reference"><a href="#cite_note-Nai-1">[1]</a></sup>
 
-Cô ấy chỉ được đề cập trong một bản tóm tắt về phần tiếp theo của *Lost Tales*và không có thông tin nào khác về cô ấy.
+Cô ấy chỉ được đề cập trong một bản tóm tắt về phần tiếp theo của *Lost Tales*và không có thông tin gì khác về cô ấy.
 
 ## Từ nguyên {#Etymology}
 

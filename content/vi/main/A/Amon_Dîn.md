@@ -55,7 +55,7 @@ Amon Dîn là Beacon-hill đầu tiên ở phía tây Minas Tirith và có lẽ 
 
 ## Lịch sử {#History}
 
-Vào đêm [7 tháng 3](../_/7_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> [Gandalf](../G/Gandalf.md) và [Pippin](../P/Peregrin_Took.md), đang đi về hướng đông trên [Shadowfax](../S/Shadowfax.md), nhìn thấy các đèn hiệu được thắp sáng để kêu gọi viện trợ từ Rohan.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Vào đêm [7 tháng 3](../_/7_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> [Gandalf](../G/Gandalf.md) và [Pippin](../P/Peregrin_Took.md), đang đi về hướng đông trên [Shadowfax](../S/Shadowfax.md), thấy đèn hiệu được thắp sáng để kêu gọi viện trợ từ Rohan.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -79,7 +79,7 @@ Vào đêm [7 tháng 3](../_/7_March.md) [T.A.](../T/Third_Age.md) [3019](../T/T
 
 <dl><dd>The beacon upon Amon Dîn is shown as the second one being lit after the beacon just above the city of Minas Tirith.</dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The beacon on Amon Dîn lies somewhat north-east of the <a href="../D/Drúadan_Forest.md" title="Drúadan Forest">Drúadan Forest</a>. By March 13 the orcs have established a blockade on the road beneath Amon Dîn, blocking the path of <a href="../T/Théoden.md" title="Théoden">Théoden</a>&#39;s riders. They patrol the area around and have doused the beacon. Despite the Riders of Rohan already on their way, the player is asked to relight the beacon.</dd></dl>
 

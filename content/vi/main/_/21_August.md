@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 21 tháng 8
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1917](1917.md)** - [Edith Tolkien](../E/Edith_Tolkien.md) viết một lá thư cho chồng trước khi rời Withernsea đến Cheltenham.
+- **[1917](1917.md)** - [Edith Tolkien](../E/Edith_Tolkien.md) viết thư cho chồng trước khi rời Withernsea đến Cheltenham.
 - **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Nevill Coghill](../L/Letter_to_Nevill_Coghill.md).
 - **[1957](1957.md)** – Nghệ sĩ [John Howe](../J/John_Howe.md) ra đời.
 - **[1961](1961.md)** – Một [cuộc phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ("[Den besynnerlige Professor Tolkien](../D/Den_besynnerlige_professor_Tolkien.md)") được xuất bản bằng tiếng Thụy Điển.

@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Murchie, Jeff"
 ---
 
-**Jeff Murchie** là một họa sĩ minh họa người Mỹ, hiện là nghệ sĩ tạo ý tưởng nhân vật cao cấp cho 38 Studios.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Anh ấy đã tạo ra phần lớn ý tưởng nghệ thuật cho *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*, trong đó anh ấy nói rằng đã bị ảnh hưởng bởi các tác phẩm của [Angus McBride](../A/Angus_McBride.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Jeff Murchie** là một họa sĩ minh họa người Mỹ, hiện là nghệ sĩ tạo ý tưởng nhân vật cấp cao cho 38 Studios.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Anh ấy đã tạo ra phần lớn ý tưởng nghệ thuật cho *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*, trong đó anh ấy nói rằng đã bị ảnh hưởng bởi các tác phẩm của [Angus McBride](../A/Angus_McBride.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oiomúrë"
 ---
 
-Chuyển hướng đến [Oiomúrë](Oiomúrë.md).
+Chuyển hướng tới [Oiomúrë](Oiomúrë.md).

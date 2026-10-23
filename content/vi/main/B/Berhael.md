@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Perhael"
 ---
 
-Chuyển hướng đến [Perhael](../P/Perhael.md).
+Chuyển hướng tới [Perhael](../P/Perhael.md).

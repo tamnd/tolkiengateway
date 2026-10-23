@@ -21,7 +21,7 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-Từ [Nguyên thủy](../P/Primitive.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=N%C3%AAth%C3%A2&amp;action=edit&amp;redlink=1" title="Nêthâ (page does not exist)">nêthâ</a></i> [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NETH&amp;action=edit&amp;redlink=1" title="NETH (page does not exist)">NETH</a>.
+Từ [Nguyên thủy](../P/Primitive.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=N%C3%AAth%C3%A2&amp;action=edit&amp;redlink=1" title="Nêthâ (page does not exist)">nêthâ</a></i> [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NETH&amp;action=edit&amp;redlink=1" title="NETH (page does not exist)">NETH</a>.
 
 ## Xem thêm {#See_also}
 

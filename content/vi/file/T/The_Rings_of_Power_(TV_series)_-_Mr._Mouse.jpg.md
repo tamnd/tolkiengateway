@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh "Mr. Mouse" từ *The Lord of the Rings của Amazon: Những Chiếc Nhẫn Quyền Năng*.
+Hình ảnh "Mr. Mouse" trong *The Lord of the Rings của Amazon: Những Chiếc Nhẫn Quyền Năng*.
 
 ## Giấy phép {#Licensing}
 

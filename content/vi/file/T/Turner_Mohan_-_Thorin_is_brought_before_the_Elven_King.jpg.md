@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Turner Mohan - Two Kings.jpg"
 ---
 
-Chuyển hướng đến [Tệp:Turner Mohan - Two Kings.jpg](Turner_Mohan_-_Two_Kings.jpg.md).
+Chuyển hướng tới [Tệp:Turner Mohan - Two Kings.jpg](Turner_Mohan_-_Two_Kings.jpg.md).

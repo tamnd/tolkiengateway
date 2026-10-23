@@ -28,7 +28,7 @@ images:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The Quick Post is the Shire&#39;s mail delivery service and is responsible for the timely and confidential delivery of letters, which the Hobbits write to each other in great numbers. The players can join the Quick Post and assist them in various deliveries between the towns and villages of the Shire.</dd></dl>
 

@@ -18,7 +18,7 @@ images:
 
 Nói chung, thuật ngữ “**Sự sụp đổ**” được dùng làm tên viết tắt cho các sự kiện sau:
 
-- Sự [Sự sụp đổ của Barad-dûr](../D/Downfall_of_Barad-dûr.md) ([T.A.](Third_Age.md) [3019](Third_Age_3019.md)), sự tàn phá của pháo đài [Sauron](../S/Sauron.md)do [Một chiếc nhẫn](../O/One_Ring.md) bị phá hủy.
+- Sự [Sự sụp đổ của Barad-dûr](../D/Downfall_of_Barad-dûr.md) ([T.A.](Third_Age.md) [3019](Third_Age_3019.md)), sự tàn phá của pháo đài [Sauron](../S/Sauron.md)do sự phá hủy của [One Nhẫn](../O/One_Ring.md).
 - Sự [Sự sụp đổ của Dol Guldur](../F/Fall_of_Dol_Guldur.md) ([T.A.](Third_Age.md) [3019](Third_Age_3019.md)), một trận chiến trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) dẫn đến sự sụp đổ của [Dol Guldur](../D/Dol_Guldur.md).
 - Sự [Sự sụp đổ của Falas](../F/Fall_of_the_Falas.md) ([F.A.](../F/First_Age.md) [473](../F/First_Age_473.md)), sự tàn phá của [Falas](../F/Falas.md) bởi quân đội của [Morgoth](../M/Morgoth.md).
 - Sự [Sự sụp đổ của Fingolfin](../F/Fall_of_Fingolfin.md) ([F.A.](../F/First_Age.md) [455](../F/First_Age_455.md)), cái chết của [Fingolfin](../F/Fingolfin.md), [Đại Vương của Noldor](../H/High_King_of_the_Noldor.md), trong trận chiến đơn lẻ với [Morgoth](../M/Morgoth.md).

@@ -46,7 +46,7 @@ sort_keys:
     - "Il ritorno della Regina"
 - [2007](../_/2007.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Paesaggi_dalla_Terra_di_Mezzo&amp;action=edit&amp;redlink=1" title="Paesaggi dalla Terra di Mezzo (page does not exist)">Paesaggi dalla Terra di Mezzo</a></i>
     - "Tôi quattro yếu tố"
-    - "Shelob và il mito di Aracne"
+    - "Shelob và mito của Aracne"
     - "Alberi che camminano: i tiền nhiệm degli Ent"
 - [2019](../_/2019.md): *[Tolkien and the Classics](../T/Tolkien_and_the_Classics.md)*
     - "Tolkien và Grahame"

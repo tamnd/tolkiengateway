@@ -39,7 +39,7 @@ infobox:
 
 **Niphredil** là một loài hoa nhỏ màu trắng mọc đầu tiên vào thời điểm [Lúthien](../L/Lúthien.md)ra đời vào năm [Doriath](../D/Doriath.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó cũng được tìm thấy trong số những cây vàng của [Lothlórien](../L/Lothlórien.md), dày nhất trên [Cerin Amroth](../C/Cerin_Amroth.md), nơi có thể nhìn thấy một số giống màu xanh nhạt.<sup id="cite_ref-Lothlórien_1-1" class="reference"><a href="#cite_note-Lothlórien-1">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Nó giống như "một giống hoa tuyết mỏng manh."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+It was like "a delicate kin of a snowdrop."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

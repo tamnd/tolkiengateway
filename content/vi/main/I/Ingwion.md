@@ -65,7 +65,7 @@ infobox:
 
 Ingwion sinh ra tại [Cuiviénen](../C/Cuiviénen.md) trước [Đại Hành Trình](../G/Great_Journey.md) với Ingwë và vợ [Ilwen](Ilwen.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[note 2]</a></sup><sup id="cite_ref-Nom_1-3" class="reference"><a href="#cite_note-Nom-1">[1]</a></sup>
 
-Vài nghìn năm sau, ông đã dẫn dắt [Vanyar](../V/Vanyar.md) [Đạo quân Phương Tây](../H/Host_of_the_Valar.md) đến [Trung Địa](../M/Middle-earth.md) chiến đấu trong [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md) vào cuối [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-Van_7-1" class="reference"><a href="#cite_note-Van-7">[6]</a></sup>
+Vài nghìn năm sau, ông đã dẫn dắt [Vanyar](../V/Vanyar.md) [Đạo quân phương Tây](../H/Host_of_the_Valar.md) đến [Trung Địa](../M/Middle-earth.md) chiến đấu trong [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md) vào cuối [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-Van_7-1" class="reference"><a href="#cite_note-Van-7">[6]</a></sup>
 
 Không có gì khác được biết về số phận của anh ta, trong hoặc sau chiến tranh.
 

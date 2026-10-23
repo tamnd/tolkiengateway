@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valimar"
 ---
 
-Chuyển hướng tới [Valimar](Valimar.md).
+Chuyển hướng đến [Valimar](Valimar.md).

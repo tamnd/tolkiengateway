@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fourth of the Nazgûl"
 ---
 
-Chuyển hướng tới [Kỷ Đệ Tứ của Nazgûl](../F/Fourth_of_the_Nazgûl.md).
+Chuyển hướng đến [Kỷ Đệ Tứ của Nazgûl](../F/Fourth_of_the_Nazgûl.md).

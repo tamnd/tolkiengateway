@@ -48,7 +48,7 @@ infobox:
 
 **Fang** là một trong những [chó](../D/Dogs.md) bảo vệ [Bamfurlong](../B/Bamfurlong.md)của [Farmer Maggot](Farmer_Maggot.md). Fang là một trong ba con chó to lớn giống sói (hai con còn lại được đặt tên là '[Grip](../G/Grip.md)' và '[Wolf](<../W/Wolf_(dog).md>)').
 
-Những con vật hung dữ nhưng được huấn luyện bài bản này sống tại trang trại của anh ấy vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), nhưng rõ ràng anh ấy đã nuôi những con chó khác trước những con chó này. [Frodo](Frodo_Baggins.md) có những ký ức đáng sợ về những con chó của Maggot cách đây khoảng ba mươi năm, nhưng những con chó đã đe dọa anh ba thập kỷ trước đó khó có thể là Fang, Grip hay Wolf.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Những con vật hung dữ nhưng được huấn luyện bài bản này sống tại trang trại của anh ấy vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), nhưng rõ ràng anh ấy đã nuôi những con chó khác trước những con chó này. [Frodo](Frodo_Baggins.md) có những ký ức đáng sợ về những con chó của Maggot cách đây khoảng ba mươi năm, nhưng những con chó đã đe dọa ông ba thập kỷ trước đó khó có thể là Fang, Grip hay Sói.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -75,7 +75,7 @@ Fang có nghĩa là "răng nanh" nhưng cũng là một động từ tiếng Anh
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Fang, along with <a href="../W/Wolf_(dog).md" title="Wolf (dog)">Wolf</a> and <a href="../G/Grip.md" title="Grip">Grip</a>, is found next to <a href="Farmer_Maggot.md" title="Farmer Maggot">Farmer Maggot</a> in <a href="../B/Bamfurlong.md" title="Bamfurlong">Bamfurlong</a>. The dogs can be interacted with during the &#34;Chicken Play&#34; and are also part of a festival &#34;Maggot&#39;s Mushroom Hunt&#34; mini-game.</dd></dl>
 

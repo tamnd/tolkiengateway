@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lord of the Ring (title)"
 ---
 
-Chuyển hướng đến [Chúa tể của chiếc nhẫn (tiêu đề)](<Lord_of_the_Ring_(title).md>).
+Chuyển hướng tới [Chúa tể Nhẫn (tiêu đề)](<Lord_of_the_Ring_(title).md>).

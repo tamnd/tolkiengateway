@@ -61,7 +61,7 @@ infobox:
         - Bởi John B. Abbott
     - Bia mật ong (công thức bia)
         - Ian Shaw
-    - Tôn giáo của một Hobbit
+    - Tôn giáo của Hobbit
         - Bởi Belladonna Took ([Vera Chapman](../V/Vera_Chapman.md))
     - Hippy so với Hobbit
         - Bởi Belladonna Took ([Vera Chapman](../V/Vera_Chapman.md))

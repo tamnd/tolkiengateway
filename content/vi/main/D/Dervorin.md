@@ -81,7 +81,7 @@ Hành động của Dervorin trong cuộc bao vây Minas Tirith và [Trận chi�
 
 <dl><dd>A card from <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i> identifies one of the Gondorians of <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> as Devorin.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 
-<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Dervorin&#39;s father, Lord Borhador of the <a class="mw-redirect" href="../R/Ringlo_Vale.md" title="Ringlo Vale">Ringlo Vale</a> is now very old and rarely leaves his halls in <a href="../E/Ethring.md" title="Ethring">Ethring</a>. The player first hears of Dervorin second-hand from his family, and after finding him in <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> before the attack, delivers to him the news of his home, which raises his spirit. Dervorin fights on the walls of the First Circle during the siege, managed to survive the <a class="mw-redirect" href="../B/Battle_of_Pelennor_Fields.md" title="Battle of Pelennor Fields">Battle of Pelennor Fields</a>, and proceeded to join Aragorn&#39;s march to the <a href="../B/Black_Gate.md" title="Black Gate">Black Gate</a>.</dd></dl>
 

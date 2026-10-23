@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "AYA(R)"
 ---
 
-Chuyển hướng tới [AYA(R)](<AYA(R).md>).
+Chuyển hướng đến [AYA(R)](<AYA(R).md>).

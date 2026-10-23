@@ -43,7 +43,7 @@ infobox:
 
 *Southern Gondor: The Land* thể hiện các tỉnh ven biển của Gondor bằng màu sắc sống động và chi tiết. Con đường quê khiêm tốn và đường cao tốc nổi tiếng; sự rải rác của trang viên, thôn, làng, thị trấn qua đồi và thung lũng; bố trí các ngọn hải đăng, đồn gác, nơi trú ẩn và thành trì; sự lên xuống của nguy hiểm và phiêu lưu - tất cả đều góp phần tạo nên khu vực thú vị này.
 
-Du hành trên các đường cao tốc và đường nhỏ của miền nam Gondor giống như Nhà văn dũng cảm của Vua, người đã kiểm tra tính chính xác của các bản đồ của vị vua của mình. Khám phá những vật chủ thiên tài, những cách thức dân gian khác thường, những kỳ quan địa chất và những bí mật còn sót lại từ Thời đại thứ hai và các thuộc địa Númenórean được che chở bởi lục địa giữa. Và hãy cẩn thận với nỗi khao khát biển cả đang khuấy động trái tim của tất cả những ai nán lại quá lâu bởi sóng và gió Belegaer. Miền Nam Gondor: Land bao gồm số liệu thống kê đầy đủ cho MERP và Rolemaster.
+Du hành trên các đường cao tốc và đường nhỏ của miền nam Gondor giống như Nhà văn dũng cảm của Vua, người đã kiểm tra tính chính xác của các bản đồ của vị vua của mình. Khám phá những vật chủ thiên tài, những cách thức dân gian khác thường, những kỳ quan địa chất và những bí mật còn sót lại từ Thời đại thứ hai và các thuộc địa Númenórean được che chở bởi lục địa giữa. Và hãy cẩn thận với nỗi khao khát biển cả đang khuấy động trái tim của tất cả những ai nán lại quá lâu bởi sóng và gió Belegaer. Miền Nam Gondor: Vùng đất bao gồm các số liệu thống kê đầy đủ cho MERP và Rolemaster.
 
 Miền Nam Gondor: Vùng đất có đặc điểm:
 

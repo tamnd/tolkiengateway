@@ -70,7 +70,7 @@ Căn phòng rộng, vuông vức và chỉ được chiếu sáng lờ mờ.<sup
 <li>There is only one proper door explicitly shown leading into the chamber, rather than the two described in the book. This door is also made of wood in the film, rather than stone. There is, however, one smashed doorway out of the back of the chamber, with the window illuminating Balin&#39;s tomb above it, which the Fellowship flee out of.</li>
 <li>A well is also introduced into the layout, directly below the shaft of light. This well was found in the <a class="new" href="https://tolkiengateway.net/w/index.php?title=Well-chamber&amp;action=edit&amp;redlink=1" title="Well-chamber (page does not exist)">Well-chamber</a><sup id="cite_ref-chronology_4-0" class="reference"><a href="#cite_note-chronology-4">[4]</a></sup> of the crossroads in the book, but was transplanted here to serve greater dramatic purpose.</li></ul></dd></dl>
 
-<br> <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<br> <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Chamber of Mazarbul is the final stand in the battle for the <a href="../T/Twenty-first_Hall.md" title="Twenty-first Hall">Twenty-first Hall</a>, one of the three battles where the Iron Garrison battle Orcs to drive them out of <a href="../M/Moria.md" title="Moria">Khazad-dûm</a> in <a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">Mines of Moria</a>, Book V: &#34;Drums in the Deep&#34;.</dd></dl>
 

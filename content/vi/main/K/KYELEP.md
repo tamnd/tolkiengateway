@@ -30,7 +30,7 @@ Mục ban đầu trong *[Etymologies](../T/The_Etymologies.md)* có "**KYELEP-**
 
 ## Xem thêm {#See_also}
 
-- [Telerin](../T/Telerin.md) *[telepi](../T/Telepi.md)* (bắt nguồn từ [Nguyên thủy Elvish](../P/Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kyelep%C4%93&amp;action=edit&amp;redlink=1" title="Kyelepē (page does not exist)">kyelepē</a></i>)<sup id="cite_ref-L347_5-0" class="reference"><a href="#cite_note-L347-5">[5]</a></sup>
+- [Telerin](../T/Telerin.md) *[telepi](../T/Telepi.md)* (bắt nguồn từ [Primitive Elvish](../P/Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kyelep%C4%93&amp;action=edit&amp;redlink=1" title="Kyelepē (page does not exist)">kyelepē</a></i>)<sup id="cite_ref-L347_5-0" class="reference"><a href="#cite_note-L347-5">[5]</a></sup>
 
 <span></span>
 

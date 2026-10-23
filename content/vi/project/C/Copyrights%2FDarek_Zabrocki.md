@@ -16,4 +16,4 @@ sort_keys:
 
 - Darek Zabrocki đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Darek_Zabrocki.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 13 tháng 10 năm 2014
-- Người dùng đã xin phép thông qua deviantArt: [Người dùng:Amroth](https://tolkiengateway.net/wiki/User:Amroth)
+- Người dùng đã xin phép qua deviantArt: [Người dùng:Amroth](https://tolkiengateway.net/wiki/User:Amroth)

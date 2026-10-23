@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: Tales of Middle-earth"
 ---
 
-Chuyển hướng tới [The Lord of the Rings: Truyện Trung Địa](The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md).
+Chuyển hướng đến [The Lord of the Rings: Tales of Middle-earth](The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md).

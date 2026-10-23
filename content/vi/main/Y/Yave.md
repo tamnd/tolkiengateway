@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yávë"
 ---
 
-Chuyển hướng tới [Yávë](Yávë.md).
+Chuyển hướng đến [Yávë](Yávë.md).

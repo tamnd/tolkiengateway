@@ -61,7 +61,7 @@ infobox:
 Thông báo - [Oxonmoot](../O/Oxonmoot.md)
 - Quảng cáo: Triển lãm Moreton-in-Marsh
 - Quảng cáo: Hiệp hội Chesterton Hoa Kỳ
-- Sở thích: [Kay Woollard](../K/Kay_Woollard.md) ([Dora Baggins](../D/Dora_Baggins.md)) 1924-2008
+- Hobbituary: [Kay Woollard](../K/Kay_Woollard.md) ([Dora Baggins](../D/Dora_Baggins.md)) 1924-2008
     - Bởi: Denis Bridoux
 - Tác phẩm nghệ thuật: *Hai gã gaffer và một gã cờ bạc, Phương Tây Xì hơi*
     - Bởi: [Kay Woollard](../K/Kay_Woollard.md)
@@ -83,7 +83,7 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
     - Bởi: Lynn Whitaker
 - [Toán học](../M/Mathom.md)
     - Bởi: Anne Forbes
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Tin tức từ [Fangorn](../F/Fangorn_Forest.md)
     - Bởi: Carol Brownlow

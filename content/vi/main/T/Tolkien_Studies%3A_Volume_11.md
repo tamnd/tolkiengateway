@@ -59,7 +59,7 @@ infobox:
     - *J.R.R. Tolkien: The Hobbit và The Lord of the Rings*, do Peter Hunt biên tập, Gerard Hynes đánh giá
     - *[The Riddles of The Hobbit](The_Riddles_of_The_Hobbit.md)*, của Adam Roberts, được Thomas Honegger đánh giá
     - *[Sự mất mát và sự im lặng](The_Loss_and_the_Silence.md): Các khía cạnh của chủ nghĩa hiện đại trong các tác phẩm C.S. Lewis, J.R.R. Tolkien & Charles Williams* của Margaret Hiley, được Catherine Butler đánh giá
-    - *[Việc tạo ra Trung Địa](The_Making_of_Middle-earth.md): Một cái nhìn mới bên trong thế giới J.R.R. Tolkien*, của Christopher Snyder và *Sách đố vui và câu đố thiết yếu Tolkien: Một Trung Địa Linh tinh*, của William MacKay, được đánh giá bởi David Bratman
+    - *[Việc tạo ra Trung Địa](The_Making_of_Middle-earth.md): Một cái nhìn mới bên trong thế giới của J.R.R. Tolkien*, bởi Christopher Snyder và *Sách đố vui và câu đố Tolkien Thiết yếu: Một Trung Địa Linh tinh*, của William MacKay, được đánh giá bởi David Bratman
 
 - Merlin DeTardo, "Công việc của năm trong nghiên cứu Tolkien năm 2011"
 - Rebecca Epstein và David Bratman, "Thư mục (bằng tiếng Anh) năm 2012"

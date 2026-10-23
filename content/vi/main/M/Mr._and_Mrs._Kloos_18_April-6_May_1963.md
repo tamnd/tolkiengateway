@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Mr and Mrs Kloos"
 ---
 
-Chuyển hướng tới [Thư gửi ông bà Kloos](../L/Letter_to_Mr_and_Mrs_Kloos.md).
+Chuyển hướng đến [Thư gửi ông bà Kloos](../L/Letter_to_Mr_and_Mrs_Kloos.md).

@@ -72,7 +72,7 @@ Tên gọi [Sindarin](../S/Sindarin.md) cổ hơn của khu rừng là <i><b>Ery
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The forest had receded since the days of Eorl, with the great West Road now passing north of it in all places.</dd></dl>
 

@@ -68,7 +68,7 @@ Trong hai phiên bản trước của ghi chú về phần tử *ló* trong tên
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Ringló originates in the &#34;Ringló Vale&#34; area of the Central <a href="../G/Gondor.md" title="Gondor">Gondor</a> in-game region, flowing through <a href="../E/Ethring.md" title="Ethring">Ethring</a> before entering <a href="../L/Lamedon.md" title="Lamedon">Lamedon</a> proper.</dd></dl>
 

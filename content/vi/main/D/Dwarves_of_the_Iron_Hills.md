@@ -88,7 +88,7 @@ Nhiều năm sau, người anh em họ của Dáin là [Thorin](../T/Thorin.md) 
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>It is possible for Dwarf player characters to choose the Iron Hills as their background, though this is only for aesthetic purposes and has no impact on the game&#39;s story or mechanics.</dd>
 <dd>The Dwarves of the Iron Hills first make an appearance as non-player characters in the <a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">Mines of Moria</a> expansion in the form of the &#34;Iron Garrison&#34;, an expedition led by the sons and grandsons of <a href="../B/Bifur.md" title="Bifur">Bifur</a> and <a href="../B/Bofur.md" title="Bofur">Bofur</a> that attempts to colonize Moria and investigate <a href="../B/Balin.md" title="Balin">Balin</a>&#39;s fate.</dd></dl>

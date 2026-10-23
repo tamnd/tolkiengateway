@@ -30,7 +30,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Lúthien](../../main/L/Lúthien.md) và [Beren](../../main/B/Beren.md) lần lượt cải trang thành [Thuringwethil](../../main/T/Thuringwethil.md) và [Draugluin](../../main/D/Draugluin.md) - Minh họa của [Alan Lee](../../main/A/Alan_Lee.md) cho *[Beren and Lúthien](../../main/B/Beren_and_Lúthien.md)*
+[Lúthien](../../main/L/Lúthien.md) và [Beren](../../main/B/Beren.md) cải trang lần lượt thành [Thuringwethil](../../main/T/Thuringwethil.md) và [Draugluin](../../main/D/Draugluin.md) - Minh họa bởi [Alan Lee](../../main/A/Alan_Lee.md) cho *[Beren and Lúthien](../../main/B/Beren_and_Lúthien.md)*
 
 ## Giấy phép {#Licensing}
 

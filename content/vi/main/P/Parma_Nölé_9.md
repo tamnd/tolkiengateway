@@ -26,7 +26,7 @@ sort_keys:
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Emily_Newhouse&amp;action=edit&amp;redlink=1" title="Emily Newhouse (page does not exist)">Emily Newhouse</a>: "Éowyn"
 - Laura Cooper: "Bài hát cho Bóng Tối vale" và "Bài hát cho Artuntoure"
 - [Amy H. Sturgis](../A/Amy_H._Sturgis.md): "Cuộc phỏng vấn với Giuseppe Festa"
-- [Amy H. Sturgis](../A/Amy_H._Sturgis.md): "Nhìn lại và nhìn lại: Sự tập hợp của tình bằng hữu"
+- [Amy H. Sturgis](../A/Amy_H._Sturgis.md): "Tìm kiếm There and Back Again: Sự tập hợp của Hội đồng hương"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Patty_Howerton&amp;action=edit&amp;redlink=1" title="Patty Howerton (page does not exist)">Patty Howerton</a>: "Ký ức từ [Cuộc hội ngộ của Hội đồng hương](../T/The_Gathering_of_the_Fellowship.md) – 2003"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Deborah_Singer&amp;action=edit&amp;redlink=1" title="Deborah Singer (page does not exist)">Deborah Singer</a>: "Hồi tưởng về buổi họp mặt hội học sinh năm 2003 của
 - S.K. Thoth, Maureen Woodman, Giuseppe Festa, Jerry Reed, Kristin M. Sauber và Mary McCann: "Tại sao Tolkien?"

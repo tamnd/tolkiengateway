@@ -45,7 +45,7 @@ Christopher dán nhãn các bảng cây phả hệ trong chương này bằng m�
 
 Trong một số cây gia phả Tolkien đã có những thay đổi lớn về tên cũng như ngày sinh hoặc ngày mất. Christopher giải thích rằng những thay đổi này không chỉ mang tính chất cầu kỳ mà còn được thực hiện khi câu chuyện được viết sao cho tên và tuổi của các hobbit xuất hiện trong câu chuyện được thể hiện một cách trung thực trên cây.
 
-Christopher lưu ý rằng các bảng Bolger và Boffin đã sẵn sàng để in trong Phụ lục C trong các phiên bản đầu tiên nhưng chúng đã bị rút ra trước khi xuất bản. Ông báo cáo không có bằng chứng nào liên quan đến lý do từ chối và chỉ có thể suy đoán rằng nó có liên quan đến sự thiếu hụt trầm trọng chỗ trống dành cho các Phụ lục.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Christopher lưu ý rằng các bảng Bolger và Boffin đã sẵn sàng để in trong Phụ lục C trong các phiên bản đầu tiên nhưng chúng đã bị rút ra trước khi xuất bản. Anh ta không đưa ra bằng chứng nào về lý do từ chối và chỉ có thể suy đoán rằng nó liên quan đến tình trạng thiếu không gian nghiêm trọng được phân bổ cho Phụ lục.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lưu ý {#Note}
 

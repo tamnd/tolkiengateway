@@ -37,7 +37,7 @@ Tiến sĩ **Alison Milbank** là Phó Giáo sư tại Khoa Thần học và Ngh
 - [2008](../_/2008.md): *[Tolkien's The Lord of the Rings – Sources of Inspiration](../T/Tolkien's_The_Lord_of_the_Rings_–_Sources_of_Inspiration.md)*
     - "Tolkien, Chesterton và chủ nghĩa Thom"
 - [2013](../_/2013.md): *[J.R.R. Tolkien: the Forest and the City](../J/J.R.R._Tolkien%253A_the_Forest_and_the_City.md)*
-    - "Tolkien và Thiên đường trần thế của Dante: Hòa nhập thiên nhiên"
+    - "Tolkien và Thiên đường trần gian của Dante: Hòa nhập thiên nhiên"
 
 ## Liên kết ngoài {#External_links}
 

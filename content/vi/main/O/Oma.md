@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Óma"
 ---
 
-Chuyển hướng tới [Óma](../_/Óma.md).
+Chuyển hướng đến [Óma](../_/Óma.md).

@@ -19,7 +19,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-- [Gốc](../S/Sundocarme.md) MIQI ("nụ hôn")<sup id="cite_ref-PE12_1-1" class="reference"><a href="#cite_note-PE12-1">[1]</a></sup>
+- [Gốc](../S/Sundocarme.md) MIQI ("hôn")<sup id="cite_ref-PE12_1-1" class="reference"><a href="#cite_note-PE12-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -32,4 +32,4 @@ infobox:
 
 - <a class="external text" href="http://www.oxonmoot.org/" rel="noreferrer noopener" target="_blank">Trang web Oxonmoot</a>
 - <a class="external text" href="http://www.tolkiensociety.org/" rel="noreferrer noopener" target="_blank">Hội Tolkien trang web</a>
-- <a class="external text" href="http://www.bbc.co.uk/news/uk-england-oxfordshire-15038836" rel="noreferrer noopener" target="_blank">Bài báo của BBC News về Oxonmoot 2011</a>
+- <a class="external text" href="http://www.bbc.co.uk/news/uk-england-oxfordshire-15038836" rel="noreferrer noopener" target="_blank">BBC Tin tức về Oxonmoot 2011</a>

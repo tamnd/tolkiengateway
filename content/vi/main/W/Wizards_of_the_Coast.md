@@ -30,7 +30,7 @@ infobox:
 
 Năm 1999 công ty được Hasbro mua lại.
 
-Vào ngày 23 tháng 6 năm 2023, Pháp sư phát hành [The Lord of the Rings: Tales of Trung Địa](../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md) một bộ Magic: The Gathering mới với 451 lá bài là phiên bản mới của nhiều nhân vật và sự kiện khác nhau trong bộ ba Chúa tể của những chiếc nhẫn.
+Vào ngày 23 tháng 6 năm 2023, Pháp sư đã phát hành [The Lord of the Rings: Tales of Middle-earth](../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md) bộ Magic: The Gathering mới với 451 lá bài là phiên bản mới của nhiều nhân vật và sự kiện khác nhau trong bộ ba Chúa tể của những chiếc nhẫn.
 
 Vào tháng 8 năm 2026, Pháp sư sẽ phát hành sản phẩm thứ hai liên quan đến Tolkien Magic: The Gathering Universes Beyond, [Magic: The Gathering \| The Hobbit](../M/Magic%253A_The_Gathering_-_The_Hobbit.md).
 

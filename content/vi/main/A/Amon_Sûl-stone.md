@@ -29,7 +29,7 @@ Mang theo những báu vật gia truyền này cùng các báu vật khác, ông
 
 ## Cách khắc họa trong các bản chuyển thể {#Portrayal_in_adaptations}
 
-<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a></i>:</b>
+<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
 <dl><dd>The card <i>Palantír</i> of Amon Sûl was released in two versions in two different sets: <i><a href="../M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a></i> and <i><a href="../M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a></i>. A Resource Item, the card can be used by a player to look at the opponent&#39;s hand.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 

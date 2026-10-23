@@ -51,7 +51,7 @@ infobox:
 - **18** NHỮNG ANH HÙNG VUI VẺ
     - Cuộc đời của luật sư New Zealand Matt Cooper có một bước ngoặt thú vị khi anh gia nhập bộ phận địa điểm sản xuất phim The Lord of the Rings.
 - **70** TẬP TRUNG CỦA QUẠT
-    - Báo cáo về buổi tụ tập người hâm mộ vào tháng 8 cho buổi biểu diễn ở Hollywood Bowl với điểm The Fellowship of the Ring của Howard Shore, cùng với điểm nổi bật là Australian Fellowship và một cuộc thi mới.
+    - Báo cáo về buổi tụ tập người hâm mộ tháng 8 cho buổi biểu diễn ở Hollywood Bowl với điểm số Howard Shore The Fellowship of the Ring, cùng với điểm nổi bật là Australian Fellowship và một cuộc thi mới.
 - **73** DANH MỤC
 - **82** ĐÁNG GIÁ
 
@@ -62,10 +62,10 @@ infobox:
 - **24** CẬP NHẬT VỚI PETER JACKSON
     - Đây có thể là cuộc phỏng vấn yêu thích của chúng tôi với đạo diễn The Lord of the Rings. Bạn sẽ không muốn bỏ lỡ những tiết lộ của Jackson về một diễn viên nào đó bị thương khi máy quay đang quay nhưng vẫn không bỏ lỡ nhịp nào; ngày anh phải quay phim mà không được nhìn thấy; cảm giác của anh ấy khi tham dự buổi ra mắt; và nhiều hơn nữa
 - **34** TÌM KIẾM SARUMAN
-    - Diễn viên huyền thoại người Anh Christopher Lee nói anh không đóng vai phản diện - anh đóng vai người. Lee nói với chúng ta rằng Saruman, nhân vật của anh trong The Lord of the Rings, không phải là một kẻ phản diện mà là một "người đàn ông vĩ đại bị lòng tham quyền lực hạ thấp."
+    - Diễn viên huyền thoại người Anh Christopher Lee nói anh không đóng vai phản diện - anh đóng vai con người. Lee nói với chúng ta rằng Saruman, nhân vật của anh trong The Lord of the Rings, không phải là một kẻ phản diện mà là một "người đàn ông vĩ đại bị lòng tham quyền lực hạ thấp."
 - **44** MỘT LẦN NỮA CHO VI PHẠM - Phỏng vấn Bernard Hill
     - Diễn viên người Anh thú vị nói rằng làm việc trên The Lord of the Rings là một trải nghiệm phim đặc biệt ở nhiều cấp độ. Anh ấy chia sẻ những câu chuyện hậu trường và hiểu biết sâu sắc với chúng ta đúng lúc anh ấy ra mắt với vai Theoden trong The Two Towers.
 - **54** HIỆN PHẨM - Uruk-hai Vũ khí
     - Richard Taylor kể lại "câu chuyện phía sau" mà ông và nhóm thiết kế của mình đã mơ ước về Uruk-hai trước khi tạo ra loại vũ khí tàn bạo mà khán giả xem phim sẽ thấy trong Trận chiến Helm's Deep.
 - **66** XUỐNG CON ĐƯỜNG PHIÊU LƯU - The Business of Blades
-    - Justin Pakes nói chuyện với các nghệ nhân của United Cutlery về thách thức tạo ra các bản sao cho người hâm mộ và nhà sưu tập sao cho phù hợp với những thanh kiếm và vũ khí khác có chi tiết tỉ mỉ do Weta Workshop tạo ra cho The Lord of the Rings.
+    - Justin Pakes trò chuyện với các nghệ nhân của United Cutlery về thách thức trong việc tạo ra các bản sao cho người hâm mộ và nhà sưu tập sao cho phù hợp với những thanh kiếm và vũ khí khác được chế tạo tỉ mỉ đến từng chi tiết do Weta Workshop tạo ra cho The Lord of the Rings.

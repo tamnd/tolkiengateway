@@ -14,4 +14,4 @@ sort_keys:
   "Images of card games": "Decipher"
 ---
 
-Hình ảnh được sử dụng cho [Thẻ giải mã](../../main/D/Decipher_Cards.md). Mặc dù thường là hình ảnh (ảnh tĩnh hoặc ảnh dàn dựng) từ [*The Lord of the Rings* (loạt phim)](<../../main/T/The_Lord_of_the_Rings_(film_series).md>), [Weta Workshop](../../main/W/Weta_Workshop.md) cũng dàn dựng một số nhân vật không phải phim.
+Hình ảnh được sử dụng cho [Thẻ giải mã](../../main/D/Decipher_Cards.md). Mặc dù thường là hình ảnh (ảnh tĩnh hoặc ảnh dàn dựng) từ [*The Lord of the Rings* (loạt phim)](<../../main/T/The_Lord_of_the_Rings_(film_series).md>), [Weta Workshop](../../main/W/Weta_Workshop.md) cũng có dàn dựng một số nhân vật không phải phim.

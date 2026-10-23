@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Lúthien](../../main/L/Lúthien.md) dưới hình dạng [con dơi](../../main/T/Thuringwethil.md)" của [Oleg Poluyanov](../../category/I/Images_by_Oleg_Poluyanov.md)
+"[Lúthien](../../main/L/Lúthien.md) dưới dạng [một con dơi](../../main/T/Thuringwethil.md)" của [Oleg Poluyanov](../../category/I/Images_by_Oleg_Poluyanov.md)
 
 ## Giấy phép {#Licensing}
 

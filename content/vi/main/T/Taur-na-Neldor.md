@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Forest of Neldoreth"
 ---
 
-Chuyển hướng tới [Rừng Neldoreth](../F/Forest_of_Neldoreth.md).
+Chuyển hướng đến [Rừng Neldoreth](../F/Forest_of_Neldoreth.md).

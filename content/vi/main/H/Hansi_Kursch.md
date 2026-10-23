@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hansi Kürsch"
 ---
 
-Chuyển hướng đến [Hansi Kürsch](Hansi_Kürsch.md).
+Chuyển hướng tới [Hansi Kürsch](Hansi_Kürsch.md).

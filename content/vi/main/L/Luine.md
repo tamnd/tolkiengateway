@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Luinë"
 ---
 
-Chuyển hướng tới [Luinë](Luinë.md).
+Chuyển hướng đến [Luinë](Luinë.md).

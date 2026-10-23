@@ -66,7 +66,7 @@ infobox:
 
 #### Đánh giá {#Reviews}
 
-- *Phantastes: Annotated Edition* của George MacDonald. Được biên tập bởi John Pennington và Roderick McGillis. Đánh giá bởi Tiến sĩ Tiffany Brooke Martin.
+- *Phantastes: Annotated Edition* của George MacDonald. Biên tập bởi John Pennington và Roderick McGillis. Đánh giá bởi Tiến sĩ Tiffany Brooke Martin.
 - *Giá sách của Faun: C.S. Lewis về Tại sao huyền thoại lại quan trọng* của Charlie Starr. Được đánh giá bởi Louis Markos.
 - *Những người tạo ra thần thoại Cơ đốc giáo: C.S. Lewis. Madeleine L’Engle, J.R.R. Tolkien, C.S Lewis, và cộng sự* của Rolland Hein. Chuyển tiếp bởi Clyde S. Kilby. Đánh giá bởi Tiến sĩ Sharon L. Bolding.
 - *Death and Immortality in Middle-earth*. Ed. Daniel Helen. Được đánh giá bởi Mike Austin Foster.
@@ -75,7 +75,7 @@ infobox:
 - *Thế giới đĩa và các nguyên tắc: Những cách tiếp cận phê bình đối với tác phẩm của Terry Pratchett*. Biên tập. Anne Hiebert Alton và William C. Spruiell. Được đánh giá bởi Janet Brennan Croft.
 - *The Hobbit and Tolkien's Mythology.* Biên tập. Bradford Lee Eden. Được đánh giá bởi David L. Emerson.
 - *Chủ nghĩa Trung cổ trong A Song of Ice and Fire và Game of Thrones* của Shiloh Carroll. Được đánh giá bởi Joseph Young.
-- *Thơ và Ca trong tác phẩm J.R.R. Tolkien*. Ed. Anna Milon. Được đánh giá bởi Diane Joy Baker.
+- *Thơ và Ca khúc trong tác phẩm của J.R.R. Tolkien*. Ed. Anna Milon. Được đánh giá bởi Diane Joy Baker.
 - Lưu ý ngắn gọn: *Tolkien: Maker of Middle-earth*. Ed. Catherine McIlwaine. Được đánh giá bởi Janet Brennan Croft.
 - Ghi chú ngắn gọn: *The Complete Fairy Tales* của Charles Perrault. Ed. Christopher Cược; và Minh họa của Gustave Doré. Mabinogion, do Sioned Davies dịch. Được đánh giá bởi Janet Brennan Croft.
 

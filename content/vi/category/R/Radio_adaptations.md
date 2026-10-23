@@ -12,4 +12,4 @@ categories:
   - "Audible adaptations"
 ---
 
-Thể loại này liệt kê tất cả **bản chuyển thể trên radio** của các tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
+Thể loại này liệt kê tất cả **bản chuyển thể trên radio** của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) tác phẩm.

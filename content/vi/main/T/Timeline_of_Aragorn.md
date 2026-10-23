@@ -79,7 +79,7 @@ Mẹ - Aragorn [Gilraen](../G/Gilraen.md) đưa cậu đến [Rivendell](../R/Ri
 
 - [1 tháng 5](../_/1_May.md): Aragorn gặp Gandalf tại [Sarn Ford](../S/Sarn_Ford.md) và biết được kế hoạch rời khỏi [the Shire](The_Shire.md) ở tháng Chín.<sup id="cite_ref-GY_3-2" class="reference"><a href="#cite_note-GY-3">[3]</a></sup> của [Frodo](../F/Frodo_Baggins.md)
 
-- [29 tháng Chín](../_/29_September.md): Aragorn gặp Frodo Baggins tại [Bree](../B/Bree.md).<sup id="cite_ref-GY_3-3" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
+- [29 tháng Chín](../_/29_September.md): Aragorn gặp Frodo Baggins ở [Bree](../B/Bree.md).<sup id="cite_ref-GY_3-3" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
 - [30 tháng Chín](../_/30_September.md): Aragorn dẫn đầu [Hobbit](../H/Hobbits.md) trong số Bree.<sup id="cite_ref-GY_3-4" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
 
 - [6 tháng 10](../_/6_October.md): Năm [Nazgûl](../N/Nazgûl.md) tấn công trại lúc [Weathertop](../W/Weathertop.md).<sup id="cite_ref-GY_3-5" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>

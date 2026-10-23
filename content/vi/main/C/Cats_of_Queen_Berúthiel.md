@@ -46,7 +46,7 @@ Trong phiên bản trước đó của chương sau này trở thành chương [
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>While the cats of Queen Berúthiel do not make direct appearances, there is a type of enemy that the player faces called <b>Spying Cats</b>. They appear during the undead <a href="../T/Tarannon_Falastur.md" title="Tarannon Falastur">Tarannon Falastur</a> fight in the Silent Street instance. Should the player attack Tarannon, the cats give off the &#34;Watchful Spies&#34; effect which reflects 50% of the damage back onto the player.</dd></dl>
 

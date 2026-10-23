@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Marchwardens"
 ---
 
-Chuyển hướng đến [Marchwardens](Marchwardens.md).
+Chuyển hướng tới [Marchwardens](Marchwardens.md).

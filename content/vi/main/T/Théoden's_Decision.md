@@ -44,13 +44,13 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Aragorn](../A/Aragorn.md) nhìn thấy [đèn hiệu sáng](The_Lighting_of_the_Beacons.md) và chạy đến [Sảnh Vàng](../G/Golden_Hall.md) nơi có [Théoden](Théoden.md), hét lên "Đèn hiệu đã sáng rồi! [Gondor](../G/Gondor.md) kêu cứu!" Sau một hồi lâu, Théoden quyết định rằng [Rohan](../R/Rohan.md) sẽ trả lời cuộc gọi và đến hỗ trợ Gondor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> [Rohirrim](../R/Rohirrim.md) sẵn sàng rời đi; Théoden ra lệnh cho [Éomer](../_/Éomer.md) và [Cờ bạc](../G/Gamling.md) đưa các tay đua từ khắp Rohan đến [Dunharrow](../D/Dunharrow.md), nơi quân đội sẽ tập hợp.
+[Aragorn](../A/Aragorn.md) nhìn thấy [đèn hiệu sáng](The_Lighting_of_the_Beacons.md) và chạy đến [Golden Hall](../G/Golden_Hall.md) nơi có [Théoden](Théoden.md), hét lên "Đèn hiệu đã sáng lên! [Gondor](../G/Gondor.md) kêu cứu!" Sau một lúc lâu, Théoden quyết định rằng [Rohan](../R/Rohan.md) sẽ trả lời cuộc gọi và đến trợ giúp Gondor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> [Rohirrim](../R/Rohirrim.md) đã sẵn sàng rời đi; Théoden ra lệnh cho [Éomer](../_/Éomer.md) và [Gamling](../G/Gamling.md) đưa các kỵ binh từ khắp Rohan đến [Dunharrow](../D/Dunharrow.md), nơi quân đội sẽ tập hợp.
 
 [Éowyn](../_/Éowyn.md) chuẩn bị ngựa. Aragorn rất ngạc nhiên về điều này, nhưng cô ấy khẳng định "theo truyền thống, phụ nữ trong triều phải chia tay đàn ông". Anh nhìn thấy thanh kiếm giấu kín của cô nhưng cô lại che nó lại và nói với anh "Bạn đã cho chúng tôi hy vọng".
 
 [Merry](../M/Merry.md) đề nghị dịch vụ của mình cho Théoden và người này vui vẻ chấp nhận. "Bạn sẽ là Meriadoc, cận vệ của Rohan," Théoden nói, khiến Merry rất vui.
 
-Trong khi đó, [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) sẵn sàng rời đi. Gimli chế giễu những kỵ binh và mong muốn có một đội quân [người lùn](../D/Dwarves.md). Tuy nhiên, Legolas gợi ý rằng chiến tranh cũng có thể đang đến gần vùng đất của người lùn.
+Trong khi đó, [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) sẵn sàng rời đi. Gimli chế giễu những kỵ sĩ và mong muốn có một đội quân [người lùn](../D/Dwarves.md). Tuy nhiên, Legolas cho rằng chiến tranh cũng có thể đang đến gần vùng đất của người lùn.
 
 Théoden nghiêm túc nhìn người của mình.
 

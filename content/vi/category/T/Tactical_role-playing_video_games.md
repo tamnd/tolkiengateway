@@ -12,4 +12,4 @@ categories:
   - "Video games by genre"
 ---
 
-Danh mục này liệt kê tất cả **Trò chơi điện tử nhập vai chiến thuật** liên quan đến tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
+Danh mục này liệt kê tất cả **Trò chơi điện tử nhập vai chiến thuật** liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) tác phẩm.

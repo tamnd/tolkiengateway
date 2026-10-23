@@ -33,8 +33,8 @@ sort_keys:
     8. Lời cầu nguyện cho những người đã ngã xuống – 02:11
     9. Những kỵ sĩ của Rohan – 04:18
     10. Minas Morgul – 04:30
-    11. Những người mang nhẫn – 06:56
-    12. Những ngôi nhà chữa lành – 03:50
+    11. Những người mang Nhẫn – 06:56
+    12. Ngôi nhà chữa lành – 03:50
     13. Nơi tận cùng của mọi chuyện – 03:35
     14. Bờ biển trắng và bình minh nhanh chóng – 06:03
 - **Trở về Arda**, 2022-11-01
@@ -42,7 +42,7 @@ sort_keys:
     2. Bài hát của Biển – 05:18
     3. Khi tuyết tan – 05:56
     4. Bên kia sóng vỡ – 05:59
-    5. Bài hát của Trái đất – 05:00
+    5. Bài ca của Trái đất – 05:00
     6. Tiếng Gọi Của Núi – 05:39
     7. Beren và Luthien – 04:43
     8. Niềm vui vượt qua bức tường của thế giới này – 03:48
@@ -80,9 +80,9 @@ Bài hát của     12. Yavanna– 01:38
     - Sally Minnear: Giọng hát
     - Dave Brons: Guitar chính
     - Ngày Daniel: Guitar Bass, Còi Ailen
-    - John Biglands: Trống và guitar acoustic trong Ringbearers
+    - John Biglands: Trống và guitar acoustic trên Ringbearers
     - Mark Swift: Piano và Synths Catherine Ashcroft: Ống Uilleann và còi
-    - Matt Steady: Violin và Guitar nhịp điệu
+    - Matt Steady: Violin và ghi-ta nhịp điệu
     - Ian Brons: Cello trên những người mang nhẫn
 - **Dàn hợp xướng**
     - **Giọng nữ cao**
@@ -101,7 +101,7 @@ Bài hát của     12. Yavanna– 01:38
         - Dave Lumb: Trombone
         - Hiệp sĩ Joseph: Trombone & Euphonium
 - **Tín dụng**
-    - Sự sắp xếp dàn đồng thau và hợp xướng của Stephen Bradnum
+    - Sự sắp xếp dàn đồng và hợp xướng của Stephen Bradnum
     - Âm thanh trực tiếp và ghi âm bởi
     - Darren Bishop và Ben Stinson cho thuê ở Yorkshire PA
     - Phối hợp bởi Dave Brons

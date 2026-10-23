@@ -70,13 +70,13 @@ Phần này bắt đầu bằng việc nêu ra những khác biệt giữa [Con 
 
 ### Truyền thống hôn nhân {#Marital_tradition}
 
-Tiên tộc thường kết hôn ngay sau khi đến tuổi trưởng thành. Họ chỉ kết hôn một lần và có ít con, hiếm khi có quá bốn người, không có ai vượt quá [Fëanor](../F/Fëanor.md) là cha mẹ của bảy người con. Việc kết hôn và nuôi dạy con cái, trừ những hoàn cảnh không may mắn, được coi là lẽ tự nhiên trong cuộc sống của Tiên tộc.
+Tiên tộc thường kết hôn ngay sau khi đến tuổi trưởng thành. Họ chỉ kết hôn một lần và có ít con, hiếm khi vượt quá bốn, không có ai vượt quá [Fëanor](../F/Fëanor.md) là cha mẹ của bảy người con. Việc kết hôn và nuôi dạy con cái, trừ những hoàn cảnh không may mắn, được coi là lẽ tự nhiên trong cuộc sống của Tiên tộc.
 
 ### Sự tham gia {#Engagement}
 
-Lễ đính hôn được công bố với gia đình cả hai yêu tinh bằng việc trao đổi nhẫn bạc giữa những người đã hứa hôn. Việc đính hôn kéo dài từ một năm trở lên và có thể bị thu hồi bất cứ lúc nào.
+Lễ hứa hôn được thông báo cho gia đình cả hai yêu tinh bằng việc trao đổi nhẫn bạc giữa những người đã hứa hôn. Việc đính hôn kéo dài từ một năm trở lên và có thể bị thu hồi bất cứ lúc nào.
 
-Sau khi đính hôn, hai nhà tổ chức tiệc chiêu đãi để mừng lễ thành hôn. Đôi tân hôn thề thốt gọi tên [Eru](../I/Ilúvatar.md) và trả lại nhẫn bạc cho nhau để đổi lấy chiếc nhẫn vàng đeo ở ngón trỏ bàn tay phải.
+Sau khi đính hôn, hai nhà sẽ tổ chức tiệc chiêu đãi để mừng lễ thành hôn. Đôi tân hôn thề thốt gọi tên [Eru](../I/Ilúvatar.md) và trả lại nhẫn bạc cho nhau để đổi lấy chiếc nhẫn vàng đeo ở ngón trỏ bàn tay phải.
 
 ### Hôn nhân thông qua sự kết hợp thể xác {#Marriage_via_bodily_union}
 
@@ -122,7 +122,7 @@ Người ta cho rằng nỗi sợ hãi của Tiên trẻ em được nuôi dư�
 
 Một fëa vô gia cư đã lựa chọn hoặc được phép quay trở lại cuộc sống thường chỉ có thể được tái hiện thông qua việc sinh con. Fëa tái sinh sẽ trải qua thời thơ ấu một lần nữa, nhưng sẽ chỉ nhớ về kiếp trước khi đạt được khả năng làm chủ cơ thể của mình. Thông qua niềm vui của tuổi thơ thứ hai này, những nỗi buồn ở kiếp trước của fëa có thể được bù đắp.
 
-Tuy nhiên, nếu fëa sẵn sàng rời khỏi cơ thể đầu tiên của mình, nó không thể quay trở lại cho đến khi cơ thể tan biến. Điều này xảy ra nhanh chóng trong [Trung Địa](../M/Middle-earth.md), nhưng trong Aman không có sự phân rã. Vì vậy, trong trường hợp của [Miriel](../M/Míriel.md), linh hồn của cô ấy có thể được đưa vào cơ thể của chính mình.
+Tuy nhiên, nếu fëa sẵn sàng rời khỏi cơ thể đầu tiên của mình, nó không thể quay trở lại cho đến khi cơ thể tan rã. Điều này xảy ra nhanh chóng trong [Trung Địa](../M/Middle-earth.md), nhưng trong Aman không có sự phân rã. Vì vậy, trong trường hợp của [Miriel](../M/Míriel.md), linh hồn của cô ấy có thể được đưa vào cơ thể của chính mình.
 
 Những người tái sinh được cho là mạnh mẽ hơn và có khả năng làm chủ cơ thể tốt hơn cũng như sức mạnh tinh thần cao hơn. Tuy nhiên, rất ít trường hợp có nhiều hơn một lần tái sinh được ghi lại, vì nhiều người chết hai lần không muốn quay trở lại.
 
@@ -138,9 +138,9 @@ Người ta biết rất ít về nỗi sợ hãi của [yêu tinh bóng tối](
 
 ### Triệu tập của Mandos {#The_summons_of_Mandos}
 
-Fëar được triệu tập tới Sảnh của Mandos và không thể đến Sảnh nếu không có lệnh triệu hồi này, tuy nhiên việc triệu hồi có thể bị từ chối. Trong số Tiên tộc đã từ chối lệnh triệu tập ban đầu của [Valar](../V/Valar.md) đến Aman, việc từ chối này là phổ biến. Sự từ chối này ít phổ biến hơn khi [Morgoth](../M/Morgoth.md) và [Sauron](../S/Sauron.md) cư trú trong Arda, vì các linh hồn sẽ chạy trốn trong nỗi kinh hoàng và tìm nơi ẩn náu trong Mandos. Những linh hồn rơi vào Bóng Tối sẽ không chịu nổi lệnh phản triệu hồi của Morgoth và nằm dưới sự thống trị của hắn.
+Fëar được triệu tập đến Sảnh của Mandos và không thể đến Sảnh nếu không có lệnh triệu hồi này, tuy nhiên việc triệu hồi có thể bị từ chối. Trong số Tiên tộc đã từ chối lệnh triệu tập ban đầu của [Valar](../V/Valar.md) đến Aman, việc từ chối này là phổ biến. Sự từ chối này ít phổ biến hơn khi [Morgoth](../M/Morgoth.md) và [Sauron](../S/Sauron.md) cư trú trong Arda, vì các linh hồn sẽ chạy trốn trong nỗi kinh hoàng và tìm nơi ẩn náu trong Mandos. Những linh hồn rơi vào Bóng Tối sẽ không chịu nổi lệnh phản triệu hồi của Morgoth và nằm dưới sự thống trị của hắn.
 
-Nhiều linh hồn trong những ngày sau đó sẽ từ chối lời triệu hồi và trú ngụ trong Trung Địa mà không thể cư trú hoàn toàn ở đó. Những linh hồn này hiếm khi tử tế, vì việc từ chối lệnh triệu tập là dấu hiệu của sự hư hỏng. Do đó, Eldar bị cấm giao tiếp với những linh hồn vô gia cư trừ khi được cấp có thẩm quyền cấp cao hơn chỉ định làm như vậy. Cố gắng làm chủ những linh hồn vô gia cư được coi là thuật chiêu hồn, được coi là một tội ác lớn trong phạm vi mục đích của Morgoth và Sauron.
+Nhiều linh hồn trong những ngày sau đó sẽ từ chối lời triệu hồi và trú ngụ trong Trung Địa mà không thể cư ngụ hoàn toàn ở đó. Những linh hồn này hiếm khi tử tế, vì việc từ chối lệnh triệu tập là dấu hiệu của sự hư hỏng. Do đó, Eldar bị cấm giao tiếp với các linh hồn vô gia cư trừ khi được cấp có thẩm quyền cấp cao hơn chỉ định làm như vậy. Cố gắng làm chủ những linh hồn vô gia cư được coi là thuật chiêu hồn, được coi là một tội ác lớn trong phạm vi mục đích của Morgoth và Sauron.
 
 Những linh hồn vô gia cư có thể khao khát thể xác và cố gắng xâm nhập vào một cơ thể sống và làm nô lệ cho vật chủ của nó. Sauron được cho là đã đạt được thành tích này và đã dạy những người theo mình cách làm điều đó.
 
@@ -150,7 +150,7 @@ Những linh hồn vô gia cư có thể khao khát thể xác và cố gắng x
 
 Mặc dù hôn nhân đạt được bằng sự kết hợp thể xác, nhưng nó vẫn xuất phát từ ý chí của fëa, và do đó được duy trì bởi ý chí. Như vậy, cái chết không thể giải tán một cuộc hôn nhân vì nỗi sợ hãi về Tiên tộc vẫn tồn tại sau cái chết của thể xác. Nếu một Tiên được tái hiện, cuộc hôn nhân của họ vẫn còn nguyên vẹn ngay cả khi có sự xuất hiện của một người phối ngẫu mới, vì cốt lõi của ý chí tạo nên cuộc hôn nhân nằm ở fëa của người phối ngẫu đó.
 
-Lưu ý: Sau phần này, Tolkien bỏ viết bài.
+Lưu ý: Sau phần này Tolkien bỏ viết bài.
 
 <span></span>
 

@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Halbrand](../../main/H/Halbrand.md) hét vào mặt [Galadriel](../../main/G/Galadriel.md) trong [tập thứ tám](../../main/A/Alloyed.md) của *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
+[Halbrand](../../main/H/Halbrand.md) la hét với [Galadriel](../../main/G/Galadriel.md) trong [tập thứ tám](../../main/A/Alloyed.md) của *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 
 ## Giấy phép {#Licensing}
 

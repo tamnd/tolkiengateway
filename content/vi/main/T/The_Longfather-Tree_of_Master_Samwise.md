@@ -11,4 +11,4 @@ redirect_target: "Gamgee family"
 redirect_fragment: "The Longfather.E2.80.93Tree of Master Samwise"
 ---
 
-Chuyển hướng đến [gia đình Gamgee](../G/Gamgee_family.md#The_Longfather.E2.80.93Tree_of_Master_Samwise).
+Chuyển hướng tới [gia đình Gamgee](../G/Gamgee_family.md#The_Longfather.E2.80.93Tree_of_Master_Samwise).

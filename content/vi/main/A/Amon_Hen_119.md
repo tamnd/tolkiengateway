@@ -68,7 +68,7 @@ infobox:
 - Đánh giá
     - Bởi: nhiều người đóng góp
 - Thông báo
-- Truyện dân gian
+- Truyện dân ca
 - Các loại của Annie
     - Bởi: Annie Haward
 - Toán học

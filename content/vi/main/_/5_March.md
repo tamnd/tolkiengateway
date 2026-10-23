@@ -72,7 +72,7 @@ Sự kiện xảy ra vào ngày 5 tháng 3
 - **[1971](1971.md)** - Diễn viên lồng tiếng [Yuri Lowenthal](../Y/Yuri_Lowenthal.md) ra đời.
 - **[1983](1983.md)** - Diễn viên [Owain Arthur](../O/Owain_Arthur.md) ra đời.
 - **[2004](2004.md)** - Ngày đầu tiên của "[RingCon IV](../R/RingCon.md)" tại <a class="extiw" href="http://en.wikipedia.org/wiki/Seattle" title="wikipedia:Seattle">Seattle</a>.
-- **[2015](2015.md)** - Nghệ sĩ và nhà ngôn ngữ học [Tom Loback](../T/Tom_Loback.md) qua đời.
+- **[2015](2015.md)** - Nghệ sĩ, nhà ngôn ngữ học [Tom Loback](../T/Tom_Loback.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 

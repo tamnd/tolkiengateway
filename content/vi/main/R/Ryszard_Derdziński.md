@@ -46,7 +46,7 @@ infobox:
 - *The Lord of the Rings* sách phim (tiếng Ba Lan, tư vấn)
 - *[Untangling Tolkien](../U/Untangling_Tolkien.md)* của Nhà xuất bản Muza (tiếng Ba Lan)
 - *[The Art of The Hobbit](../T/The_Art_of_The_Hobbit.md)* của Nhà xuất bản Amber (tiếng Ba Lan)
-- [Phụ lục](../A/Appendices.md) của *The Lord of the Rings* của Nhà xuất bản Amber (tiếng Ba Lan)
+- [Phụ lục](../A/Appendices.md) trong số *The Lord of the Rings* của Nhà xuất bản Amber (tiếng Ba Lan)
 - *[Appendix D](../A/Appendix_D.md) and [E](../A/Appendix_E.md) of* [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) *by Muza Publishers (Polish)*
 - *[The Nature of Middle-earth](../T/The_Nature_of_Middle-earth.md)* của Zysk i S-ka (tiếng Ba Lan)
 

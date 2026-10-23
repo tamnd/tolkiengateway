@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Vào tháng 8 năm 1965 [Ballantine Books](../B/Ballantine_Books.md) xuất bản cuốn sách bìa mềm *[The Hobbit](../T/The_Hobbit.md)* được "ủy quyền" đầu tiên của Mỹ mà không có sự sửa đổi văn bản của Tolkien. Bìa có hình một con sư tử, hai con chim đà điểu và một cái cây có quả hình củ hành.
+Vào tháng 8 năm 1965 [Ballantine Books](../B/Ballantine_Books.md) xuất bản cuốn sách bìa mềm *[The Hobbit](../T/The_Hobbit.md)* được "ủy quyền" đầu tiên của Mỹ mà không có sự sửa đổi văn bản của Tolkien. Bìa có hình một con sư tử, hai con đà điểu và một cái cây có quả hình củ hành.
 
 Tolkien đã viết thư cho Ballantine Books bày tỏ một cách vừa phải sự không thích bìa của *The Hobbit*. Anh ấy nói với họ rằng nó thật xấu xí nhưng có lẽ họ đánh giá tốt hơn những gì đã thu hút người mua ở Mỹ. Tuy nhiên, anh ấy hỏi chi tiết đó có liên quan gì đến câu chuyện. Nơi này là đâu, tại sao lại có sư tử và chim đà điểu, và cái thứ có bóng đèn màu hồng đó là gì vậy? Quan điểm của ông đã bị bỏ qua, ngay cả trong bức thư mới nhất của họ, cho thấy rằng họ không bao giờ đọc những bức thư hoặc chỉ những bức thư có "phản ứng thuận lợi".
 

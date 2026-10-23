@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"*[Nerdanel](../../main/N/Nerdanel.md) and [Fëanáro](../../main/F/Fëanor.md)*", của [Elena Kukanova](../../main/E/Elena_Kukanova.md)
+"*[Nerdanel](../../main/N/Nerdanel.md) and [Fëanáro](../../main/F/Fëanor.md)*", bởi [Elena Kukanova](../../main/E/Elena_Kukanova.md)
 
 ## Giấy phép {#Licensing}
 

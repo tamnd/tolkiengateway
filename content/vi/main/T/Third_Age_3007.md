@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Gandalf](../G/Gandalf.md) tiếp tục truy cập [Frodo](../F/Frodo_Baggins.md) theo từng khoảng thời gian.<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
+- [Gandalf](../G/Gandalf.md) tiếp tục truy cập [Frodo](../F/Frodo_Baggins.md) theo định kỳ.<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 - Cái chết của [Vua](../K/King_of_Dale.md) [Bain](../B/Bain.md).<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 - [Brand](../B/Brand.md), con trai của Bain, trở thành Vua của [Dale](../D/Dale.md).<sup id="cite_ref-TA_1-2" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 - Cái chết của [Gilraen](../G/Gilraen.md).<sup id="cite_ref-TA_1-3" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>

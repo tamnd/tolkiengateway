@@ -67,7 +67,7 @@ Thơ của <i><b>Tolkien</b></i> là tập hợp mười bài luận khảo sát
     - Bởi: [Michael D.C. Drout](../M/Michael_D.C._Drout.md)
 - Sự phát triển của Tolkien với tư cách là nhà văn viết thơ điệp âm bằng tiếng Anh hiện đại
     - Bởi: [Tom Shippey](Tom_Shippey.md)
-- "Một chiếc đồng hồ mà tôi đã phát minh ra": Những manh mối về nhịp độ của Tolkien trong "[Errantry](../E/Errantry.md)"
+- "Một chiếc đồng hồ mà tôi đã phát minh": Những manh mối về nhịp độ của Tolkien trong "[Errantry](../E/Errantry.md)"
     - Bởi: John R. Holmes
 - "[Dành cho W.H.A.](../F/For_W.H.A..md)" – Bài thơ ca ngợi Auden của Tolkien
     - Bởi: [Carl Phelpstead](../C/Carl_Phelpstead.md)

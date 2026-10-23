@@ -65,7 +65,7 @@ EÄRENDIL (Im lặng), con của Tuor và Idril
 
 <br> *Eöl, họ hàng của Thingol, đã định cư ở khu rừng xa xôi của Nan-Elmoth gần Doriath.  Để trả công cho việc được phép sống ở đó, anh ta miễn cưỡng tạo ra thanh kiếm đen Anglachel.  Ác ý của anh đổ vào lưỡi dao và Melian cảnh báo chồng cô đừng bao giờ sử dụng nó.*
 
-<br> **Nền tảng của Thành Phố Ẩn Giấu (Cảnh một)**
+<br> **Nền móng của Thành Phố Ẩn Giấu (Cảnh một)**
 
 Thành phố công bằng Gondolin được xây dựng.  Turgon sống ở đó cùng với con gái Idril Celebrindal và em gái Aredhel. Turgon đã ra lệnh rằng không ai biết vị trí của thành phố có thể khởi hành. Aredhel, mệt mỏi với niềm vui của Gondolin, thông báo với anh trai rằng cô có ý định rời thành phố.
 

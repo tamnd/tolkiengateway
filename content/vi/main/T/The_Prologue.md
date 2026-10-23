@@ -55,7 +55,7 @@ P5 chứa rất nhiều vật liệu mới. Tolkien đã thảo luận về ph�
 
 P6 đã đưa Đoạn mở đầu gần giống với hình thức của phiên bản đầu tiên của *The Lord of the Rings*. Nó vẫn thiếu sự phân chia thành bốn phần được đánh số và việc tìm kiếm chiếc nhẫn vẫn tuân theo *[Hobbit](The_Hobbit.md)*ban đầu. [Trận chiến trên cánh đồng xanh](../B/Battle_of_Greenfields.md) hiện đã được đưa vào.<sup id="cite_ref-Prologue_1-4" class="reference"><a href="#cite_note-Prologue-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:11–12</sup>
 
-P7 về cơ bản là phiên bản của Lời mở đầu được xuất bản trong ấn bản đầu tiên. Cuối cùng nó chứa đựng "câu chuyện có thật" về việc tìm thấy Chiếc nhẫn. Tuy nhiên, Lời mở đầu đã nhận được thông tin bổ sung trong ấn bản thứ hai, "Ghi chú về bản ghi Shire". Tolkien ban đầu dự định đưa thông tin này vào lời nói đầu của *[The Silmarillion](The_Silmarillion.md)*.<sup id="cite_ref-Prologue_1-5" class="reference"><a href="#cite_note-Prologue-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:12–15</sup>
+P7 về cơ bản là phiên bản của Lời mở đầu được xuất bản trong ấn bản đầu tiên. Cuối cùng nó chứa đựng "câu chuyện có thật" về việc tìm thấy Nhẫn. Tuy nhiên, Lời mở đầu đã nhận được thông tin bổ sung trong ấn bản thứ hai, "Ghi chú về bản ghi Shire". Tolkien ban đầu dự định đưa thông tin này vào lời nói đầu của *[The Silmarillion](The_Silmarillion.md)*.<sup id="cite_ref-Prologue_1-5" class="reference"><a href="#cite_note-Prologue-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:12–15</sup>
 
 <span></span>
 

@@ -52,7 +52,7 @@ Kiến trúc     - Hobbit
 - Bảng thuật ngữ
     - Bách khoa toàn thư
     - Bảng thuật ngữ tên các vùng, làng và sông của người Hobbit
-    - Chúng ta nói chuyện về chuyện đó nhé! Ngôn ngữ của người Hobbit
+    - Chúng ta nói chuyện về chuyện đó nhé! Ngôn ngữ của người hobbit
 - Thư giãn và chơi game
 - Khám phá
     - pratchett và thế giới đĩa

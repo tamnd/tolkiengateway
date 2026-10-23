@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Bilbo](../../main/B/Bilbo_Baggins.md) tại [Bag End](../../main/B/Bag_End.md) của [Raoul Vitale](../../category/I/Images_by_Raoul_Vitale.md)
+"[Bilbo](../../main/B/Bilbo_Baggins.md) tại [Bag End](../../main/B/Bag_End.md) bởi [Raoul Vitale](../../category/I/Images_by_Raoul_Vitale.md)
 
 ## Giấy phép {#Licensing}
 

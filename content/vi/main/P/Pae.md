@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Caer"
 ---
 
-Chuyển hướng đến [Caer](../C/Caer.md).
+Chuyển hướng tới [Caer](../C/Caer.md).

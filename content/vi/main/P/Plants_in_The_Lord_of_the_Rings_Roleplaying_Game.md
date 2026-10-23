@@ -43,9 +43,9 @@ images:
 
 <i><b>Naurant</b></i> ([S.](../S/Sindarin.md) “gân đỏ”) là một loại dương xỉ có gân đỏ thẫm, được tìm thấy ở phía đông sông Sirich. Gondor những người chữa bệnh đã sử dụng nó như một loại thuốc an thần. <sup id="cite_ref-thirdpage_4-1" class="reference"><a href="#cite_note-thirdpage-4">[4]</a></sup>
 
-## Rễ lính {#Soldier’s_Root}
+## Người lính Gốc {#Soldier’s_Root}
 
-<i><b>Rễ lính</b></i> ([S.](../S/Sindarin.md) *dagorthond*, “rễ chiến đấu”) là một loại cây quý hiếm có rễ màu cam, mềm, được tìm thấy dọc theo [Loudwater](../B/Bruinen.md) gần [Rivendell](../R/Rivendell.md). Nó mang lại sức mạnh to lớn nhưng lại mang theo tác dụng phụ nguy hiểm của cơn thịnh nộ trong trận chiến, thường dẫn đến bạo lực quá mức. Điều này dẫn đến việc Tiên tộc loại bỏ nhà máy khỏi tầm ngắm.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+<i><b>Soldier's Gốc</b></i> ([S.](../S/Sindarin.md) *dagorthond*, “battle-root”) là một loại cây quý hiếm có rễ màu cam, mềm, được tìm thấy dọc theo [Loudwater](../B/Bruinen.md) gần [Rivendell](../R/Rivendell.md). Nó mang lại sức mạnh to lớn nhưng lại mang theo tác dụng phụ nguy hiểm của cơn thịnh nộ trong trận chiến, thường dẫn đến bạo lực quá mức. Điều này dẫn đến việc Tiên tộc loại bỏ nhà máy khỏi tầm ngắm.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

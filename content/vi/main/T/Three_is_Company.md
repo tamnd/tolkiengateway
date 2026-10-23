@@ -45,9 +45,9 @@ infobox:
 
 **Three is Company** là chương thứ ba của cuốn sách đầu tiên trong *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)*. Các ký tự chính bao gồm [Frodo Baggins](../F/Frodo_Baggins.md), [Gandalf](../G/Gandalf.md), [Samwise Gamgee](../S/Samwise_Gamgee.md), [Peregrin "Pippin" Took](../P/Peregrin_Took.md), [Meriadoc "Merry" Brandybuck](../M/Meriadoc_Brandybuck.md) và [Gildor Inglorion](../G/Gildor.md). [Kỵ sĩ Đen](../N/Nazgûl.md) được giới thiệu.
 
-Chương này kể về sự khởi đầu của cuộc hành trình của Frodo từ [Hobbiton](../H/Hobbiton.md) đến [Rivendell](../R/Rivendell.md) với [Chiếc nhẫn duy nhất](The_One_Ring.md) và mô tả những cuộc gặp gỡ đầu tiên với Kỵ Sĩ Đen và [Tiên tộc](../E/Elves.md), qua đó Frodo trở thành [Bạn của Tiên tộc](../E/Elf-friends.md). Chương này giới thiệu các chủ đề quan trọng cho các phần sau của câu chuyện: bí mật và lừa dối; tình bạn và lòng trung thành; gánh nặng cho [Người mang nhẫn](../R/Ring-bearers.md); và lòng dũng cảm và chủ nghĩa anh hùng cần có trên hành trình hào hùng phía trước.
+Chương này kể về sự khởi đầu của cuộc hành trình của Frodo từ [Hobbiton](../H/Hobbiton.md) đến [Rivendell](../R/Rivendell.md) với [Chiếc nhẫn duy nhất](The_One_Ring.md) và mô tả những cuộc gặp gỡ đầu tiên với Kỵ Sĩ Đen và [Tiên tộc](../E/Elves.md), qua đó Frodo trở thành [Bạn của Tiên tộc](../E/Elf-friends.md). Chương này giới thiệu các chủ đề quan trọng cho các phần sau của câu chuyện: bí mật và lừa dối; tình bạn và lòng trung thành; gánh nặng cho [Người mang nhẫn](../R/Ring-bearers.md); và lòng dũng cảm, chủ nghĩa anh hùng cần có trên hành trình hào hùng phía trước.
 
-Chương này đề cập đến sự thích thú của một [con cáo](../F/Foxes.md) khi nhìn thấy những người hobbit ở ngoài cửa, điều này góp phần tạo nên giọng điệu [Hobbit giống](The_Hobbit.md) cho những chương đầu của câu chuyện.
+Chương này đề cập đến sự thích thú của một [con cáo](../F/Foxes.md) khi nhìn thấy những người hobbit ở ngoài cửa, điều này góp phần tạo nên giọng điệu [Hobbit giống](The_Hobbit.md) cho các chương đầu của câu chuyện.
 
 ## Tổng quan {#Overview}
 
@@ -63,7 +63,7 @@ Sáng hôm sau, không có dấu hiệu Gandalf, Frodo quyết định đợi đ
 
 ### Rời đi Hobbiton {#Leaving_Hobbiton}
 
-Trước ngày khởi hành, Frodo đi dạo lần cuối bên ngoài, mong rằng Gandalf có thể bất ngờ xuất hiện. Trong khi đi dạo, anh tình cờ nghe thấy [Gaffer Gamgee](../G/Gaffer_Gamgee.md) nói chuyện với một người lạ mặt, có giọng nói the thé. Gaffer nói với người lạ mặt rằng Frodo đã bán Bag End và chuyển sang [Bucklebury](../B/Bucklebury.md).
+Trước ngày khởi hành, Frodo đi dạo lần cuối bên ngoài, mong rằng Gandalf có thể bất ngờ xuất hiện. Trong khi đi dạo, anh tình cờ nghe được [Gaffer Gamgee](../G/Gaffer_Gamgee.md) nói chuyện với một người lạ mặt, có giọng nói the thé. Gaffer nói với người lạ mặt rằng Frodo đã bán Bag End và chuyển sang [Bucklebury](../B/Bucklebury.md).
 
 Frodo, Sam và Pippin rời đi Bag End sau khi trời tối, băng qua cánh đồng thay vì đường chính. Cả nhóm khởi hành từ Hobbiton, leo lên một ngọn đồi nhìn ra thị trấn, nơi Frodo chào tạm biệt lần cuối. Cả nhóm tiếp tục đi về phía [Bến phà Bucklebury](../B/Bucklebury_Ferry.md), cho đến khi được Pippin nài nỉ, cuối cùng họ dừng lại để ngủ dưới rễ một cây linh sam lớn.
 
@@ -79,9 +79,9 @@ Những người Hobbit tiếp tục đi dọc con đường nhưng vẫn giữ 
 
 ### Gặp phải Tiên tộc {#Encounter_with_the_Elves}
 
-Sam kêu lên rằng đây là giọng nói của Tiên tộc và gần như chạy về phía họ trước khi bị hai Hobbit còn lại chặn lại. Những giọng nói đó tiến lại gần, trong đó một giọng được nghe rõ hơn những giọng khác khi nó hát [Tiên Thánh ca tặng Elbereth](../E/Elven_Hymn_to_Elbereth.md). Frodo đã nhận ra tên của Elbereth và kết luận rằng đây là [High Elves](../H/High_Elves.md).
+Sam kêu lên rằng đây là giọng nói của Tiên tộc và suýt chạy về phía họ trước khi bị hai Hobbit còn lại chặn lại. Những giọng nói đó đến gần, trong đó một giọng được nghe rõ hơn những giọng khác khi nó hát [Tiên Thánh ca tặng Elbereth](../E/Elven_Hymn_to_Elbereth.md). Frodo đã nhận ra tên của Elbereth và kết luận rằng đây là [High Elves](../H/High_Elves.md).
 
-Những người Hobbit vẫn ẩn nấp và để Tiên tộc đi qua, nhìn họ như thể được tắm trong ánh trăng huyền bí vào một đêm không trăng. Chiếc Tiên đi phía sau dừng lại và gọi tên Frodo, tự hỏi Hobbit có thể đang làm gì dọc đường vào thời điểm này trong đêm. Frodo hỏi Tiên làm sao anh ta biết tên mình. Tiên tự giới thiệu mình là [Gildor Inglorion](../G/Gildor_Inglorion.md) của [Gia tộc Finrod](../H/House_of_Finrod.md) và nói rằng nhóm của anh ta là một trong những [Những người lưu vong](../_/Ñoldor.md) cuối cùng còn lại ở Trung Địa, [lang thang trên vùng đất](../W/Wandering_Companies.md), định mệnh sẽ đến một ngày nào đó để nghỉ phép trên khắp [Đại Hải](../G/Great_Sea.md). Anh ấy nói với Frodo rằng Tiên tộc đã thỉnh thoảng quan sát anh ấy cùng với Bilbo, mặc dù anh ấy chưa bao giờ nhận thấy sự hiện diện của họ.
+Những người Hobbit vẫn ẩn nấp và để Tiên tộc đi qua, nhìn họ như thể được tắm trong ánh trăng huyền bí vào một đêm không trăng. Chiếc Tiên đi phía sau dừng lại và gọi tên Frodo, tự hỏi Hobbit có thể đang làm gì dọc đường vào thời điểm này trong đêm. Frodo hỏi Tiên làm sao anh ta biết tên mình. Tiên tự giới thiệu mình là [Gildor Inglorion](../G/Gildor_Inglorion.md) của [Gia tộc Finrod](../H/House_of_Finrod.md) và nói rằng nhóm của anh ta là một trong những [Những người lưu vong](../_/Ñoldor.md) cuối cùng còn lại ở Trung Địa, [lang thang trên vùng đất](../W/Wandering_Companies.md), định mệnh sẽ đến một ngày nào đó để nghỉ phép trên khắp [Đại Hải](../G/Great_Sea.md). Anh ấy nói với Frodo rằng Tiên tộc thỉnh thoảng đã quan sát thấy anh ấy cùng với Bilbo, mặc dù anh ấy chưa bao giờ nhận thấy sự hiện diện của họ.
 
 Frodo hỏi liệu Hobbit có thể mang Tiên tộc đi cùng được không. Tiên tộc cười nhạo đề xuất này, gọi Hobbit là "ngu ngốc". Pippin đột nhiên xen vào và yêu cầu Tiên tộc kể cho họ nghe về Kỵ sĩ Đen. Tiên tộc trở nên nghiêm túc khi họ nghe được câu chuyện về cuộc chạm trán của Hobbit với hai tay đua như vậy. Họ bảo Hobbit đi cùng họ đến một ngọn đồi nhìn ra Woodhall, nơi họ có thể ngủ an toàn suốt đêm. Gildor cầu xin Hobbit đừng tiết lộ bất kỳ bí mật nào. Frodo cảm ơn Gildor và thốt lên lời chúc [Quenya](../Q/Quenya.md) mà anh đã học được từ Bilbo:
 
@@ -111,7 +111,7 @@ Frodo nói với Gildor rằng Gandalf đã bỏ lỡ điểm hẹn và đã lâ
 <p class="tg-quote-footer"><cite><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Điều này khiến Gildor cảm thấy thích thú, cuối cùng anh cũng hài lòng và nói với Frodo rằng có lẽ anh nên tiếp tục lên đường càng sớm càng tốt. Anh giục Frodo đừng đi một mình. Ông vẫn từ chối giải thích về Kỵ sĩ Đen nhưng nhấn mạnh mối nguy hiểm mà họ đặt ra với tư cách là "đầy tớ của Kẻ Thù". Khi Frodo hỏi Gildor để trấn an, Gildor trả lời:
+Điều này khiến Gildor thích thú, người cuối cùng cũng hài lòng và nói với Frodo rằng có lẽ anh nên tiếp tục lên đường càng sớm càng tốt. Anh giục Frodo đừng đi một mình. Ông vẫn từ chối giải thích về Kỵ sĩ Đen nhưng nhấn mạnh mối nguy hiểm mà họ đặt ra với tư cách là "đầy tớ của Kẻ Thù". Khi Frodo hỏi Gildor để trấn an, Gildor trả lời:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Courage is found in unlikely places.
@@ -119,4 +119,4 @@ Frodo nói với Gildor rằng Gandalf đã bỏ lỡ điểm hẹn và đã lâ
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../G/Gildor_Inglorion.md" title="Gildor Inglorion">Gildor Inglorion</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Gildor mệnh danh Frodo là "[Bạn của Tiên tộc](../E/Elf-friend.md)", và hứa rằng bất kỳ Công ty Lang thang nào của Tiên tộc đi ngang qua sẽ trông chừng anh ta và hỗ trợ nếu họ có thể. Frodo buồn ngủ, được dẫn đến chiếc giường êm ái bên cạnh Pippin và chìm vào giấc ngủ say.
+Gildor mệnh danh Frodo là "[Bạn của Tiên tộc](../E/Elf-friend.md)", và hứa rằng bất kỳ Công ty Lang thang nào của Tiên tộc đi ngang qua sẽ trông chừng anh ta và hỗ trợ nếu họ có thể. Frodo buồn ngủ, được dẫn đến chiếc giường êm ái cạnh giường Pippin và ngủ ngon lành.

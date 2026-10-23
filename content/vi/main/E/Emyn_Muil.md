@@ -51,23 +51,23 @@ Những ngọn đồi thoai thoải nâng cao dần về phía bắc, với nh�
 
 [Anduin](../A/Anduin.md) cắt ngang những ngọn đồi trên hành trình chảy về phía nam. Ở phía bắc, dòng sông thu hẹp lại và chảy qua [Sarn Gebir](../S/Sarn_Gebir.md). Không chiếc thuyền nào có thể vượt qua những ghềnh thác này, vì vậy lữ khách phải sử dụng một con đường vận chuyển thuyền trên bờ tây. Phía nam Sarn Gebir, dòng sông lao xuống giữa những vách đá cao chót vót cho đến khi chảy qua khoảng giữa hai bức tượng khổng lồ của [Argonath](../A/Argonath.md). Xa hơn một chút, dòng nước bị dồn lại mở rộng thành một hồ dài hình bầu dục, được gọi là [Nen Hithoel](../N/Nen_Hithoel.md). Ở đầu phía nam của hồ có ba đỉnh núi: [Amon Lhaw](../A/Amon_Lhaw.md) trên bờ đông, [Tol Brandir](../T/Tol_Brandir.md) nằm giữa hai nhánh sông, và [Amon Hen](../A/Amon_Hen.md) ở phía tây. Dưới chân Amon Hen là một khoảng đất trống xanh tươi, [Parth Galen](../P/Parth_Galen.md), và phía nam nơi này là [Bậc Thang phía Bắc](../N/North_Stair.md), cho phép đi xuống chân thác Rauros và tới Emyn Muil.<sup id="cite_ref-River_3-2" class="reference"><a href="#cite_note-River-3">[3]</a></sup>
 
-## History {#History}
+## Lịch sử {#History}
 
-After Prince [Minalcar](../R/Rómendacil_II.md) of [Gondor](../G/Gondor.md) had defeated a large army of [Easterlings](Easterlings.md) in [T.A.](../T/Third_Age.md) [1248](../T/Third_Age_1248.md) (and took the name Rómendacil) he fortified the west bank of the Anduin and built the pillars of the Argonath in the Emyn Muil.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Sau khi Thân vương [Minalcar](../R/Rómendacil_II.md) của [Gondor](../G/Gondor.md) đánh bại một đội quân lớn [Easterlings](Easterlings.md) ở [T.A.](../T/Third_Age.md) [1248](../T/Third_Age_1248.md) (và lấy tên là Rómendacil), ông đã củng cố bờ tây của Anduin và xây dựng các trụ cột của Argonath ở Emyn Muil.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
-In [2510](../T/Third_Age_2510.md), the Steward [Cirion](../C/Cirion.md) bequeathed the land of [Calenardhon](../C/Calenardhon.md) to [Eorl the Young](Eorl.md). After pledging the [Oath of Eorl](../O/Oath_of_Eorl.md) the bounds of the new realm of [Rohan](../R/Rohan.md) were determined; in the east these were the Anduin and the [west-cliff](East_Wall_of_Rohan.md) of the Emyn Muil.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Năm [2510](../T/Third_Age_2510.md), Quản gia [Cirion](../C/Cirion.md) để lại di sản cho mảnh đất [Calenardhon](../C/Calenardhon.md) cho [Eorl the Young](Eorl.md). Sau khi cam kết [Lời thề của Eorl](../O/Oath_of_Eorl.md) giới hạn của vương quốc mới [Rohan](../R/Rohan.md) đã được xác định; ở phía đông là Anduin và [vách đá phía tây](East_Wall_of_Rohan.md) của Emyn Muil.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
-In [3002](../T/Third_Age_3002.md) [Orc](../O/Orc.md) raiders battled with some [Rohirrim](../R/Rohirrim.md), and [Éomund](../_/Éomund.md) was slain there.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+Trong [3002](../T/Third_Age_3002.md) [Orc](../O/Orc.md) những kẻ đột kích đã chiến đấu với một số [Rohirrim](../R/Rohirrim.md)và [Éomund](../_/Éomund.md) đã bị giết ở đó.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
-[Aragorn](../A/Aragorn.md) captured [Gollum](../G/Gollum.md) on [1 February](../_/1_February.md),<sup id="cite_ref-Hunt_11-0" class="reference"><a href="#cite_note-Hunt-11">[11]</a></sup> [3017](../T/Third_Age_3017.md) in the [Dead Marshes](../D/Dead_Marshes.md).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> To avoid detection by the spies of [Sauron](../S/Sauron.md), Aragorn drove his captive through the northern Emyn Muil before crossing the Anduin.<sup id="cite_ref-Hunt_11-1" class="reference"><a href="#cite_note-Hunt-11">[11]</a></sup>
+[Aragorn](../A/Aragorn.md) bị bắt [Gollum](../G/Gollum.md) vào [ngày 1 tháng 2](../_/1_February.md),<sup id="cite_ref-Hunt_11-0" class="reference"><a href="#cite_note-Hunt-11">[11]</a></sup> [3017](../T/Third_Age_3017.md) ở [Đầm lầy Chết](../D/Dead_Marshes.md).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Để tránh bị gián điệp của [Sauron](../S/Sauron.md)phát hiện, Aragorn đã đưa kẻ bị bắt đi qua phía bắc Emyn Muil trước khi băng qua Anduin.<sup id="cite_ref-Hunt_11-1" class="reference"><a href="#cite_note-Hunt-11">[11]</a></sup>
 
-In [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) the Fellowship of the Ring encountered the Emyn Muil. The following list of dates show what events took place in the hilly region:<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+Trong [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) Đoàn Hộ Nhẫn đã gặp phải Emyn Muil. Danh sách ngày tháng sau đây cho biết những sự kiện nào đã diễn ra ở vùng đồi núi:<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
-- [23 February](../_/23_February.md): The Fellowship was attacked near Sarn Gebir
-- [25 February](../_/25_February.md): They passed the Argonath and camped at Parth Galen.
-- [26 February](../_/26_February.md): The [Fellowship broke](../B/Breaking_of_the_Fellowship.md) and [Boromir](../B/Boromir.md) was slain. Frodo and Sam struck east across the Emyn Muil while Aragorn, [Gimli](../G/Gimli.md), and [Legolas](../L/Legolas.md) pursued the [Orcs](../O/Orcs.md) carrying [Merry](../M/Meriadoc_Brandybuck.md) and [Pippin](../P/Peregrin_Took.md) west through the hills.
-- [27 February](../_/27_February.md): Aragorn and his companions left the Emyn Muil at dawn, entering the [Eastemnet](Eastemnet.md).
-- [29 February](../_/29_February.md): Frodo and Sam descended from the Emyn Muil and captured Gollum.
+- [23 tháng 2](../_/23_February.md): Hiệp hội bị tấn công gần Sarn Gebir
+- [25 tháng 2](../_/25_February.md): Họ vượt qua Argonath và cắm trại ở Parth Galen.
+- [26 tháng 2](../_/26_February.md): [Hiệp hội tan vỡ](../B/Breaking_of_the_Fellowship.md) và [Boromir](../B/Boromir.md) bị giết. Frodo và Sam tấn công về phía đông qua Emyn Muil trong khi Aragorn, [Gimli](../G/Gimli.md)và [Legolas](../L/Legolas.md) truy đuổi [Orc](../O/Orcs.md) chở [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) về phía tây qua những ngọn đồi.
+- [27 tháng 2](../_/27_February.md): Aragorn và đồng bọn rời Emyn Muil vào lúc bình minh, tiến vào [Eastemnet](Eastemnet.md).
+- [29 tháng 2](../_/29_February.md): Frodo và Sam đi xuống từ Emyn Muil và bị bắt Gollum.
 
 ## Từ nguyên {#Etymology}
 

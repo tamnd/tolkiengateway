@@ -96,7 +96,7 @@ Một chi tiết bị bỏ sót trong phần mô tả chiếc thuyền thiên ng
 
 <dl><dd><a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> rides a Swan-ship prior to giving the <a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Fellowship of the Ring</a> their gifts.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>A Swan-ship can be seen along the banks of <a href="../C/Celebrant.md" title="Celebrant">Celebrant</a>, a small river running from <a href="../M/Mirrormere.md" title="Mirrormere">Mirrormere</a> to <a href="../A/Anduin.md" title="Anduin">Anduin</a>, near the tributary to Anduin in <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a>.</dd></dl>
 

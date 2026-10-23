@@ -52,19 +52,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Grishnakh.jpg.md"><img src="https://tolkiengateway.net/w/images/a/ac/John_Howe_-_Grishnakh.jpg" decoding="async" loading="lazy" width="244" height="342" class="mw-file-element" data-file-width="244" data-file-height="342"/></a><figcaption>&#34;Grishnakh&#34; by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../O/Orcs.md" title="Orcs">Orc</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Grishnákh</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data"><a href="../O/Orcs.md" title="Orcs">Orc</a>-captain</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../M/Mordor.md" title="Mordor">Mordor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../S/Sauron.md" title="Sauron">Sauron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a href="../_/29_February.md" title="29 February">29 February</a>, <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a><br/>Edge of <a href="../F/Fangorn_Forest.md" title="Fangorn Forest">Fangorn Forest</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Height</th><td class="tg-infobox-data">Short</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Grishnákh.md" title="Category:Images of Grishnákh">Images of Grishnákh</a></td></tr></tbody></table>
 
-**Grishnákh** là đội trưởng của [Orc](../O/Orcs.md) từ [Mordor](../M/Mordor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Anh ta được mô tả là một sinh vật thấp bé, chân cong, rộng, với đôi tay dài buông thõng gần chạm đất.<sup id="cite_ref-Uruk_2-0" class="reference"><a href="#cite_note-Uruk-2">[2]</a></sup>
+**Grishnákh** là một đội trưởng của [Orcs](../O/Orcs.md) đến từ [Mordor](../M/Mordor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Hắn được mô tả là một sinh vật thấp lùn, chân vòng kiềng, thân hình rộng bè, với hai cánh tay dài gần chạm đất.<sup id="cite_ref-Uruk_2-0" class="reference"><a href="#cite_note-Uruk-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
-Vào [26 tháng 2](../_/26_February.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-Great_3-0" class="reference"><a href="#cite_note-Great-3">[3]</a></sup> Grishnákh là thành viên của nhóm đột kích đã chiếm được [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) tại [Parth Galen](../P/Parth_Galen.md). Anh ta là đội trưởng của một nhóm Mordor-orc đã gia nhập lực lượng của [Uglúk](../U/Uglúk.md) trên vùng đồng bằng [Rohan](../R/Rohan.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md). Khi Pippin tỉnh dậy và nghe Orc tranh cãi, ông nhận thấy giọng của Grishnákh nghe nhẹ nhàng hơn nhưng ác độc hơn những người khác. Grishnákh đe dọa sẽ báo cáo hành động của loài Orc miền núi và của Uglúk cho Lugbúrz ([Barad-dûr](../B/Barad-dûr.md)).<sup id="cite_ref-Uruk_2-1" class="reference"><a href="#cite_note-Uruk-2">[2]</a></sup>
+Vào ngày [26 tháng 2](../_/26_February.md) năm [3019](../T/Third_Age_3019.md) [Kỷ Đệ Tam](../T/Third_Age.md)<sup id="cite_ref-Great_3-0" class="reference"><a href="#cite_note-Great-3">[3]</a></sup>, Grishnákh là thành viên của một toán quân đột kích đã bắt giữ [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) tại [Parth Galen](../P/Parth_Galen.md). Hắn là đội trưởng của một nhóm Orc Mordor đã gia nhập lực lượng của [Uglúk](../U/Uglúk.md) trên vùng đồng bằng [Rohan](../R/Rohan.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md). Khi Pippin tỉnh dậy và nghe thấy các Orc đang tranh cãi, cậu nhận thấy giọng Grishnákh nghe có vẻ trầm hơn nhưng độc ác hơn những kẻ khác. Grishnákh đe dọa sẽ báo cáo những hành động của đám Orc miền núi và Uglúk lên Lugbúrz ([Barad-dûr](../B/Barad-dûr.md)).<sup id="cite_ref-Uruk_2-1" class="reference"><a href="#cite_note-Uruk-2">[2]</a></sup>
 
-Vào [28 tháng 2](../_/28_February.md)<sup id="cite_ref-Great_3-1" class="reference"><a href="#cite_note-Great-3">[3]</a></sup> Grishnákh và những người đi theo anh ta tách khỏi đại đội của Uglúk để tiến về phía đông, nhưng lại rơi vào nhóm [Isengarders](../O/Orcs_of_Isengard.md) khi các tay đua của [Éomer](../_/Éomer.md)đến gần. Vào ban đêm khi có cơ hội, Grishnákh đã cố gắng tìm kiếm [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) của người hobbit (làm sao mà anh ta biết về nó thì không rõ; có thể anh ta đã có mặt trong cuộc tra tấn và thẩm vấn [Gollum](Gollum.md) ở Barad-dûr). Sau khi nghe Pippin bắt chước tiếng rên rỉ của Gollum, anh tin rằng họ có Chiếc nhẫn Chúa và cố gắng trốn thoát cùng hai hobbit. Trước khi có thể thực hiện được điều này, anh đã bị giết bởi các Kỵ sĩ của [Éomer](../_/Éomer.md) gần mái hiên của [Rừng Fangorn](../F/Fangorn_Forest.md).<sup id="cite_ref-Uruk_2-2" class="reference"><a href="#cite_note-Uruk-2">[2]</a></sup>
+Vào ngày [28 tháng 2](../_/28_February.md)<sup id="cite_ref-Great_3-1" class="reference"><a href="#cite_note-Great-3">[3]</a></sup>, Grishnákh và những thuộc hạ của hắn tách khỏi toán quân của Uglúk để đi về phía đông, nhưng sau đó lại nhập bọn với các [Orc Isengard](../O/Orcs_of_Isengard.md) khi những kỵ binh của [Éomer](../_/Éomer.md) đến gần. Trong đêm, khi có cơ hội, Grishnákh tìm cách lục soát người các hobbit để tìm [Chiếc Nhẫn Chủ](../T/The_One_Ring.md) (không rõ hắn biết về nó bằng cách nào; có lẽ hắn đã có mặt trong lúc [Gollum](Gollum.md) bị tra tấn và thẩm vấn tại Barad-dûr). Sau khi nghe Pippin bắt chước tiếng khò khè của Gollum, hắn tin rằng hai hobbit đang giữ Chiếc Nhẫn Chủ và tìm cách trốn thoát cùng họ. Trước khi kịp thực hiện ý định này, hắn đã bị các Kỵ binh của [Éomer](../_/Éomer.md) giết chết gần rìa [Rừng Fangorn](../F/Fangorn_Forest.md).<sup id="cite_ref-Uruk_2-2" class="reference"><a href="#cite_note-Uruk-2">[2]</a></sup>
 
-## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
+## Các phiên bản khác của truyền thuyết hệ {#Other_versions_of_the_legendarium}
 
-Dạng trước đó của tên *Grishnákh* được [Tolkien](../T/Tolkien.md) sử dụng là *Gríshnák*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Dạng tên gọi trước đó của *Grishnákh* được [Tolkien](../T/Tolkien.md) sử dụng là *Gríshnák*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
+## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 285px">
@@ -118,17 +118,17 @@ Dạng trước đó của tên *Grishnákh* được [Tolkien](../T/Tolkien.md)
 		</li>
 </ul>
 
-<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd><a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> convinces Grishnákh that he and <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> have <a href="../T/The_One_Ring.md" title="The One Ring">the One Ring</a> in hopes of getting the Orc to untie him. Grishnákh begins searching them and Merry tells him that <a href="../U/Uglúk.md" title="Uglúk">Uglúk</a> will be back any minute and that he will be left with nothing if he does not untie them. Grishnákh yells &#34;be quiet!&#34; and pulls out a dagger. Pippin tells him &#34;wait! You can&#39;t find it without our help!&#34; and Grishnákh raises his dagger, asking &#34;you? help me?&#34;. Just as he is about to strike the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a>, an <a href="../_/Éored.md" title="Éored">Éored</a> fires an arrow which strikes Grishnákh in the neck. He falls back and dies.</dd></dl>
 
-<b><a href="../_/1997.md" title="1997">1997</a>: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
+<b><a href="../_/1997.md" title="1997">1997</a>: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm Middle-earth</a></i>:</b>
 
 <dl><dd>Grishnákh is depicted in the <a href="../_/1997.md" title="1997">1997</a> expansion <i><a href="../M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a></i>, illustrated by Omar Rayyan. The card has the following effects:</dd></dl>
 
-> Bỏ đi khi có kết quả kiểm tra cơ thể là 8.
+> Loại bỏ khi kết quả kiểm tra cơ thể là 8.
 
-<b><a href="../_/2001.md" title="2001">2001</a>: <a href="../L/Lord_of_the_Rings_(board_game).md" title="Lord of the Rings (board game)"><i>Chúa tể của những chiếc nhẫn</i> (trò chơi board game)</a>:</b>
+<b><a href="../_/2001.md" title="2001">2001</a>: <a href="../L/Lord_of_the_Rings_(board_game).md" title="Lord of the Rings (board game)"><i>Lord of the Rings</i> (trò chơi bàn)</a>:</b>
 
 <dl><dd>Grishnákh is illustrated by <a href="../J/John_Howe.md" title="John Howe">John Howe</a> in the Friends &amp; Foes expansion.</dd></dl>
 
@@ -136,25 +136,25 @@ Dạng trước đó của tên *Grishnákh* được [Tolkien](../T/Tolkien.md)
 
 <dl><dd>Grishnákh is played by <a href="../S/Stephen_Ure.md" title="Stephen Ure">Stephen Ure</a>. He is a common orc who is crushed by <a href="../T/Treebeard.md" title="Treebeard">Treebeard</a> after he attempts to kill Merry and <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a>.</dd></dl>
 
-<b><a href="../_/2002.md" title="2002">2002</a>: <a class="mw-redirect" href="../P/Pán_prsteňov_(2001-2003_Slovak_radio_series).md" title="Pán prsteňov (2001-2003 Slovak radio series)"><i>Pán prsteňov</i> (Loạt đài phát thanh Slovakia 2001-2003)</a>:</b>
+<b><a href="../_/2002.md" title="2002">2002</a>: <a class="mw-redirect" href="../P/Pán_prsteňov_(2001-2003_Slovak_radio_series).md" title="Pán prsteňov (2001-2003 Slovak radio series)"><i>Pán prsteňov</i> (loạt chương trình phát thanh tiếng Slovakia 2001-2003)</a>:</b>
 
 <dl><dd>The voice of Grishnákh is provided by Eduard Vitek.</dd></dl>
 
-<b><a href="../_/2004.md" title="2004">2004</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: Cuộc chiến Nhẫn</a></i>:</b>
+<b><a href="../_/2004.md" title="2004">2004</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: War of the Ring</a></i>:</b>
 
 <dl><dd>Grishnákh is a captain in the evil faction. He is voiced by <a href="../D/David_Lodge.md" title="David Lodge">David Lodge</a>.</dd></dl>
 
-<b><a href="../_/2014.md" title="2014">2014</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Lord of the Rings: Trò chơi bài</a></i>:</b>
+<b><a href="../_/2014.md" title="2014">2014</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Lord of the Rings: The Card Game</a></i>:</b>
 
 <dl><dd>Grishnákh is depicted in the <a href="../_/2015.md" title="2015">2015</a> expansion <i>The Treason of Saruman</i> on the &#34;Devilry of Saruman&#34; card, illustrated by Claudio Pozas. The card has the following effects:</dd></dl>
 
-> Bắt buộc: Sau khi Grishnákh bước vào trận đấu, người chơi đầu tiên đã gắn 1 trong số các tù nhân vào anh ta. Nếu Grishnákh bị đánh bại, hãy đặt Captive được đính kèm ở bên dưới Để Isengard!<br>Bắt buộc: Khi kết thúc giai đoạn nhiệm vụ, gây 1 sát thương cho Captive được đính kèm.
+> Cưỡng chế: Sau khi Grishnákh tham gia cuộc chơi, người chơi đầu tiên gắn 1 Tù binh vào hắn. Nếu Grishnákh bị đánh bại, đặt Tù binh được gắn ngửa mặt ở bên dưới To Isengard!<br>Cưỡng chế: Vào cuối giai đoạn nhiệm vụ, gây 1 sát thương lên Tù binh được gắn.
 
-<b><a href="../_/2023.md" title="2023">2023</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">The Lord of the Rings: Những câu chuyện về Trung Địa</a></i>:</b>
+<b><a href="../_/2023.md" title="2023">2023</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">The Lord of the Rings: Tales of Middle-earth</a></i>:</b>
 
 <dl><dd>Grishnákh on the &#34;Grishnákh, Brash Instigator&#34; card, illustrated by Victor Harmatiuk. The card has the following effects:</dd></dl>
 
-> Khi Grishnákh bước vào, tích lũy Orc 2. Khi bạn làm như vậy, cho đến hết lượt, giành quyền kiểm soát sinh vật phi huyền thoại mục tiêu mà đối thủ điều khiển với sức mạnh nhỏ hơn hoặc bằng sức mạnh của Quân đội tích lũy. Hãy giải phóng sinh vật đó. Nó tăng tốc cho đến hết lượt.
+> Khi Grishnákh tiến vào, tích lũy 2 Orc. Khi bạn làm vậy, cho đến hết lượt, giành quyền kiểm soát sinh vật mục tiêu không phải Huyền thoại mà đối thủ điều khiển, có sức mạnh nhỏ hơn hoặc bằng sức mạnh của Đội quân được tích lũy. Bỏ trạng thái xoay của sinh vật đó. Nó nhận khả năng Hối hả cho đến hết lượt.
 
 <span></span>
 

@@ -62,7 +62,7 @@ Trong bản mở rộng này đã có thêm hai vùng bắt đầu: [Swanfleet](
 - Một cốt truyện mới, được gọi là *The Song of Waves and Wind*, đã được thêm vào. Trong câu chuyện này, bạn phải giúp Gondor phục hồi sau Cuộc chiến Nhẫn.
 - Đã có độ khó cảnh quan mới, được gọi là *The Paths of the Valour*.
 
-### Cập nhật 37: Những ngôi nhà khiêm tốn của Holbytlan {#Update_37:_The_Humble_Homes_of_The_Holbytlan}
+### Cập nhật 37: Những ngôi nhà khiêm nhường của Holbytlan {#Update_37:_The_Humble_Homes_of_The_Holbytlan}
 
 *The Humble Homes of The Holbytlan* được phát hành vào [29 tháng 8](../_/29_August.md), [2023](../_/2023.md).
 

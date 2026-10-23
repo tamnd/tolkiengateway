@@ -50,7 +50,7 @@ Tuy nhiên, Tinwelint đã bị lòng tham làm mờ mắt và quyết định b
 
 Ufedhin đề nghị hướng dẫn quân đội của Nogrod và Belegost vượt qua [Dây đai](../G/Girdle_of_Melian.md) xung quanh Artanor. Vào thời điểm đó, một Tiên khác từ Artanor tên là [Narthseg](../N/Narthseg.md) đã tiết lộ với Naugladur rằng Tinwelint sẽ kỷ niệm [Cuộc Săn Sói](../H/Hunting_of_the_Wolf.md) bằng một cuộc đi săn vĩ đại trong khu rừng gần biên giới của Artanor.
 
-Trong khu rừng này, Tinwelint đã bị Naugladur giết chết, và đội quân Nogrod đã tàn phá Artanor. Đến Menegroth, với Naugladur ôm đầu Tinwelint và đeo Nauglafring quanh cổ, Ufedhin bước tới ngai vàng của Tinwelint và ngồi ngay cạnh vợ mình là Gwendelin, người đã khiển trách hành động của anh ta. Lời mắng mỏ này sẽ tiếp tục ám ảnh Ufedhin.
+Trong khu rừng này, Tinwelint đã bị Naugladur giết chết, và đội quân Nogrod đã tàn phá Artanor. Đến Menegroth, với Naugladur ôm đầu Tinwelint và đeo Nauglafring quanh cổ, Ufedhin bước tới ngai vàng của Tinwelint và ngồi ngay cạnh vợ mình là Gwendelin, người đã khiển trách hành động của anh ta. Lời chửi rủa này sẽ tiếp tục ám ảnh Ufedhin.
 
 Trên đường về Nogrod, Ufedhin đã cố giết Naugladur trong giấc ngủ vì thèm muốn Nauglafring. Bodruith, người cũng ham muốn chiếc vòng cổ, đã lần lượt cố gắng giết Ufedhin nhưng bị hắn giết chết. Lúc đó Naugladur tỉnh dậy nhưng Ufedhin đã bỏ trốn. Khi đang chạy trốn, anh ta đã bị bắt bởi [Tiên Xanh](../G/Green-elves.md) do [Beren](../B/Beren.md) cầm đầu, kẻ đã nghe tin về bao tải Artanor và cái chết của Tinwelint bởi Gwendelin. Tuy nhiên, anh ta đã che giấu danh tính của mình và nói cho Beren biết nơi Naugladur và chủ nhân của anh ta sẽ đi qua trên đường trở về Nogrod.
 

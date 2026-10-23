@@ -27,7 +27,7 @@ images:
 
 Đĩa đầu tiên chứa phiên bản mở rộng của phim với phần bình luận bằng âm thanh sau:
 
-- [Peter Jackson](../P/Peter_Jackson.md), [Fran Walsh](../F/Fran_Walsh.md) và [Philippa Boyens](../P/Philippa_Boyens.md)
+- [Peter Jackson](../P/Peter_Jackson.md), [Fran Walsh](../F/Fran_Walsh.md)và [Philippa Boyens](../P/Philippa_Boyens.md)
 - Nhóm thiết kế
 - Đội ngũ sản xuất và hậu kỳ
 - Dàn diễn viên
@@ -41,7 +41,7 @@ images:
 - 19\. En bản nháp
 - 21\. Tang lễ của Théodred
 - 24\. Brego
-- 25\. Chiếc Nhẫn Barahir
+- 25\. Nhẫn của Barahir
 
 ### Cảnh mở rộng {#Extended_Scenes}
 
@@ -82,13 +82,13 @@ images:
 - 53\. Cuộc rút lui về Hornburg
 - 56\. Tháng Ba cuối cùng của Ent
 
-## Phụ lục: Phần thứ ba - Hành trình tiếp tục (đĩa 3) {#The_Appendices:_Part_Three_-_The_Journey_Continues_(disc_3)}
+## Phần Phụ lục: Phần thứ ba - Hành trình tiếp tục (đĩa 3) {#The_Appendices:_Part_Three_-_The_Journey_Continues_(disc_3)}
 
 - Giới thiệu
 - "J.R.R. Tolkien: Nguồn gốc của phim tài liệu Trung Địa"
 - Phim tài liệu "Từ sách đến kịch bản - Đi tìm câu chuyện"
 - Phim tài liệu "Thiết kế Trung Địa"
-- Phim tài liệu "Weta Workshop"
+- "Weta Workshop" Phim tài liệu
 - Phòng trưng bày "Các dân tộc ở Trung Địa" có âm thanh
 - Phòng trưng bày "The Realms Of Middle-Earth" có âm thanh
 - "Sự thuần hóa Sméagol", Phim tài liệu
@@ -97,7 +97,7 @@ images:
 - Bản đồ tương tác"Atlas Trung Địa: Truy tìm hành trình của tình bằng hữu"
 - "[New Zealand dưới dạng Trung Địa](../N/New_Zealand_as_Middle-earth.md)" bản đồ tương tác với cảnh quay tại địa điểm
 
-## Phụ lục: Phần thứ tư - Trận chiến Trung Địa Bắt đầu (đĩa 4) {#The_Appendices:_Part_Four_-_The_Battle_for_Middle-earth_Begins_(disc_4)}
+## Phần Phụ lục: Phần thứ tư - Trận chiến Trung Địa Bắt đầu (đĩa 4) {#The_Appendices:_Part_Four_-_The_Battle_for_Middle-earth_Begins_(disc_4)}
 
 - Giới thiệu
 - Phim tài liệu "Những chiến binh Kỷ Đệ Tam"

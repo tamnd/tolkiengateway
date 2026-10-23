@@ -45,7 +45,7 @@ Ba cuộc phiêu lưu ở cấp độ thấp đến trung bình, mỗi cuộc ph
 
 Trong nhiều năm, người dân Bor Leath đã trải qua những nguy hiểm khó khăn nhất. Giờ đây, một nỗi kinh hoàng mới đang diễn ra trong đêm. Bạn có thể dừng lại The Haunting of Bor Leath không?
 
-Mười dặm về phía bắc của Bor Leath là quê hương của Coel, bà chủ thảo dược. Cô đã kết bạn với những động vật địa phương, những người bảo vệ cô khỏi những nguy hiểm của Rừng Đen. Bạn sẽ gặp phải điều gì trong Cuộc phiêu lưu quanh Cabden?
+Mười dặm về phía bắc của Bor Leath là quê hương của Coel, bà chủ thảo mộc. Cô đã kết bạn với những động vật địa phương, những người bảo vệ cô khỏi những nguy hiểm của Rừng Đen. Bạn sẽ gặp phải điều gì trong Cuộc phiêu lưu quanh Cabden?
 
 Woses tận dụng tốt những hang động rộng lớn đi sâu vào Đồi Trần. Họ canh gác cẩn thận các đại sảnh và kho báu, nhắc nhở về sự thịnh vượng trong quá khứ. Bạn có sẵn lòng đối đầu với Darkwood Woses không?
 

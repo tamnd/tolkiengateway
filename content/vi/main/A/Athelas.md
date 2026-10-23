@@ -118,7 +118,7 @@ Từ đồng nguyên trong [Quenya](../Q/Quenya.md) là <i><b>asëa aranion</b><
 		</li>
 </ul>
 
-<b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Treasures of Middle-earth</a></i></b>
+<b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Kho báu của Trung Địa</a></i></b>
 
 <dl><dd><i>Athelas&#39;</i> description generally follows that of the books, though it elaborates on several aspects. It&#39;s mentioned that knowledge of its healing properties was gradually forgotten after the <a href="../G/Great_Plague.md" title="Great Plague">Great Plague</a>, and that it&#39;s associated with good luck. Beyond places where Dúnedain camped, the plant is also common in <a href="../C/Calenardhon.md" title="Calenardhon">Calenardhon</a> and Northern Gondor, as well as <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a>&#39;s highlands.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
 

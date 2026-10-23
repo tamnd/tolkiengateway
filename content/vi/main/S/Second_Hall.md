@@ -48,7 +48,7 @@ infobox:
 
 Trong [T.A.](../T/Third_Age.md) [2994](../T/Third_Age_2994.md), [Orc](../O/Orcs.md) đã tham gia trận chiến với [Người Lùn](../D/Dwarves.md) Thuộc địa của [Balin](../B/Balin's_Colony~64118.md) trong hội trường. Trong [cuộc ẩu đả sau đó,](../B/Battle_of_the_Second_Hall.md) [Lóni](../L/Lóni.md), [Náli](../N/Náli.md) và [Frár](../F/Frár.md) đã bị giết trong khi phần còn lại của Thuộc địa trốn thoát đến [Cấp thứ bảy](Seventh_Level.md), cho phép Orc chiếm lại Sảnh.
 
-Đây là hội trường lớn nhất mà [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) gặp khi họ đi qua Moria từ tây sang đông. Trên đường từ Sảnh thứ nhất đến Sảnh thứ hai, họ gặp nhau [Tai họa của Durin](../D/Durin's_Bane.md) tại Cầu Khazad-dûm và [Gandalf](../G/Gandalf.md) rơi xuống vực sâu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Đây là hội trường lớn nhất mà [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) gặp khi họ đi qua Moria từ tây sang đông. Trên đường đến Sảnh thứ nhất từ ​​Sảnh thứ hai, họ gặp nhau [Tai họa của Durin](../D/Durin's_Bane.md) tại Cầu Khazad-dûm và [Gandalf](../G/Gandalf.md) rơi xuống vực sâu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

@@ -64,9 +64,9 @@ infobox:
 - *Từ cô gái đến nữ thần: Hành trình của nữ anh hùng xuyên qua huyền thoại và truyền thuyết.* Valerie Estelle Frankel. Được đánh giá bởi Janet Brennan Croft.
 - * Pháp sư xứ Oz và triết học: Trí tuệ độc ác của Phương Tây (Văn hóa và triết học đại chúng, Tập 37).* Ed. Randall E. Auxier và Phillip S. Seng. Được đánh giá bởi Ruth Berman.
 - *C.S. Lewis Lost Aeneid: Arms and the Exile.* Biên tập với lời giới thiệu bởi A.T. Reyes. Được đánh giá bởi Richard C. West.
-- *Chiếc nhẫn và cây thánh giá: Cơ đốc giáo và The Lord of the Rings.* Biên tập bởi Paul E. Kerry. Được đánh giá bởi Harley J. Sims.
+- *Cái Nhẫn và Thập giá: Cơ đốc giáo và The Lord of the Rings.* Biên tập bởi Paul E. Kerry. Được đánh giá bởi Harley J. Sims.
 - *Fastitocalon: Nghiên cứu về thuyết huyền ảo từ cổ đại đến hiện đại. 1.2 (2010).* Ed. Thomas Honegger và Fanfan Chen. Được đánh giá bởi Janet Brennan Croft.
-- *Tạp chí nghiên cứu Inklings. 1.1 (tháng 3 năm 2011).* Ed. Judith Wolfe. Được đánh giá bởi Janet Brennan Croft.
+- *Tạp chí nghiên cứu Inklings. 1.1 (Tháng 3 năm 2011).* Ed. Judith Wolfe. Được đánh giá bởi Janet Brennan Croft.
 - *VII: Tạp chí văn học Anh-Mỹ. 27 (2010).* Ed. Marjorie đèn Mead. Được đánh giá bởi Janet Brennan Croft.
 - *Tolkien Nghiên cứu: Đánh giá học thuật hàng năm. 7 (2010).* Ed. Douglas A. Anderson, Michael D.C. Drout và Verlyn Flieger. Được đánh giá bởi Janet Brennan Croft.
 - *Tolkien và nghiên cứu về các nguồn của ông: Các bài luận phê bình.* Biên tập bởi Jason Fisher. Được đánh giá bởi Mike Austin Foster.

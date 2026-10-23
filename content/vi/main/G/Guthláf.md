@@ -82,7 +82,7 @@ Trong [tiếng Anh cổ](../O/Old_English.md) *Guþláf* có nghĩa là "ngườ
 		</li>
 </ul>
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Guthláf has been dismissed from his duty as <a href="../T/Théoden.md" title="Théoden">Théoden</a>&#39;s banner-bearer by <a href="Gríma.md" title="Gríma">Gríma</a> and had return home, protecting the lumber camp near the village of Imping in <a href="../E/Eastfold.md" title="Eastfold">Eastfold</a>. After the <a class="mw-redirect" href="../B/Battle_of_Helm&#39;s_Deep.md" title="Battle of Helm&#39;s Deep">Battle of Helm&#39;s Deep</a> Guthláf is restored in his duties by the King and rides south to <a href="Gondor.md" title="Gondor">Gondor</a> at his side. Player next meets him in the <a class="mw-redirect" href="../D/Druadan_Forest.md" title="Druadan Forest">Druadan Forest</a>, from where the Rohirrim set out for the <a href="../P/Pelennor_Fields.md" title="Pelennor Fields">Pelennor Fields</a>. Guthláf is killed when the <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> of <a href="../A/Angmar.md" title="Angmar">Angmar</a> attacks King Théoden.</dd></dl>
 

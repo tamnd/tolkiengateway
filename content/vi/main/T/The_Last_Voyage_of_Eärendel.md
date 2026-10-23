@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éalá Éarendel Engla Beorhtast"
 ---
 
-Chuyển hướng tới [Éalá Éarendel Engla Beorhtast](../_/Éalá_Éarendel_Engla_Beorhtast.md).
+Chuyển hướng đến [Éalá Éarendel Engla Beorhtast](../_/Éalá_Éarendel_Engla_Beorhtast.md).

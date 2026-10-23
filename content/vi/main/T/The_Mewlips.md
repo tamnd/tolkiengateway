@@ -67,7 +67,7 @@ Trong phần ghi chú cốt truyện mà [J.R.R. Tolkien](../J/J.R.R._Tolkien.md
 
 <dl><dd>The <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i> took inspiration from the poem and came up with their own interpretations of Mewlips and Gorcrows on various supplements. Mewlips are described and given statistics as <a href="../U/Undead.md" title="Undead">Undead</a> beings living within swamps and marshes. The race was conceived as having been created by <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a> during the <a href="../E/Elder_Days.md" title="Elder Days">Elder Days</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Gorcrows are said to have 4 ft. wingspan and to be smaller cousins of the <i><a href="../C/Crebain.md" title="Crebain">crebain</a></i>,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> being attracted to shiny things.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[note 1]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[13]</a></sup> Northern Gorcrows lived in <a href="../N/Northern_Waste.md" title="Northern Waste">Forodwaith</a>, being described as larger versions of common Gorcrows. The <a href="../L/Lossoth.md" title="Lossoth">Lossoth</a> are said to have regarded northern Gorcrows as birds of ill-omen.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[14]</a></sup></dd></dl>
 
-<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd><i>Gore-crows</i> are a type of crebain native to the <a href="../L/Lone-lands.md" title="Lone-lands">Lone-lands</a>. They also appear in great number in <a href="../M/Mordor.md" title="Mordor">Mordor</a>.</dd></dl>
 
@@ -82,7 +82,7 @@ Trong phần ghi chú cốt truyện mà [J.R.R. Tolkien](../J/J.R.R._Tolkien.md
 ## Xem thêm {#See_also}
 
 - [Hình ảnh của Mewlips](../../category/I/Images_of_Mewlips.md)
-- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 ## Liên kết ngoài {#External_links}
 

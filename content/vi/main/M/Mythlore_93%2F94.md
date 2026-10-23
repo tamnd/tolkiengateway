@@ -46,11 +46,11 @@ infobox:
 #### Bài viết {#Articles}
 
 - McLaren, Scott. "Chủ nghĩa kín đáo và siêu hình học về cái thiện trong tiểu thuyết Charles Williams."
-- Gaarden, Bonnie. "'Chìa khóa vàng": Đọc đôi."
+- Gaarden, Bonnie. "'The Golden Key": Đọc kép."
 - Persyn, Catherine. "'Cuối cùng là sự khởi đầu của tôi': Mô-típ *fin-negans* trong tác phẩm *Phía sau cơn gió Bắc* của George MacDonald."
-- Niedbala, Amanda M. "Từ địa ngục đến thiên đường: Ảnh hưởng thần thoại Hy Lạp trong *The Silver Chair*của C. S. Lewis."
+- Niedbala, Amanda M. "Từ địa ngục đến thiên đường: Ảnh hưởng thần thoại Hy Lạp trong C. S. Lewis *The Silver Chair*."
 - Petrina, Alessandra. "Rừng Cấm, Lâu đài bị phù phép: Không gian Arthurian trong tiểu thuyết Harry Potter."
-- Nelson, Dale J. "Haggard's *She*: Sự thăng hoa của Burke trong một câu chuyện lãng mạn phổ biến."
+- Nelson, Dale J. " *She*của Haggard: Sự thăng hoa của Burke trong một câu chuyện lãng mạn phổ biến."
 - Kightley, Michael R. "Heorot hay Meduseld?: Việc Tolkien sử dụng *Beowulf* trong 'The Vua của Sảnh Vàng'."
 - Zemmour, Corinne. "Tolkien tại Vùng đất Arthur: Tập Khu Rừng Cổ từ *The Lord of the Rings*."
 - Sturgis, Amy H. "Tái hiện lại bông hồng: Những miêu tả về Rosie Cotton của Tolkien trong tiểu thuyết dành cho người hâm mộ thế kỷ 21."

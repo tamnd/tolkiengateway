@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Bilbo Baggins](../../main/B/Bilbo_Baggins.md) tìm thấy [Chiếc nhẫn duy nhất](../../main/O/One_Ring.md) khi bị thất lạc ở [Thị trấn yêu tinh](../../main/G/Goblin-town.md).
+[Bilbo Baggins](../../main/B/Bilbo_Baggins.md) tìm thấy [Một Nhẫn](../../main/O/One_Ring.md) khi bị mất trong [Thị trấn Yêu Tinh](../../main/G/Goblin-town.md).
 
 ## Giấy phép {#Licensing}
 

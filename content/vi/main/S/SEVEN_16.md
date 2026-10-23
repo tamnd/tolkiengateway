@@ -39,7 +39,7 @@ infobox:
 
 ## Nội dung {#Contents}
 
-- "Ảnh hưởng của Charles Williams đến cuộc sống và công việc của W.H. Auden"
+- "Ảnh Hưởng Của Charles Williams Đến Cuộc Sống Và Công Việc Của W.H. Auden"
     - Bởi: Cicero Bruce
 - "'Ngôn ngữ đã học của Tiên tộc': Owen Barfield, *The Hobbit*và *The Lord of the Rings*"
     - Bởi: Stephen Medcalf

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tower of the King"
 ---
 
-Chuyển hướng tới [Tháp Vua](Tower_of_the_King.md).
+Chuyển hướng đến [Tháp của Vua](Tower_of_the_King.md).

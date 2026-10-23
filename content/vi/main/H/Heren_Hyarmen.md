@@ -16,7 +16,7 @@ sort_keys:
   "Tolkien Societies": "Brazilian Tolkien Society"
 ---
 
-**Heren Hyarmen** (**Huân chương miền Nam**) là tổ chức Smial trực thuộc [Tolkien chính thức đầu tiên của Hiệp hội](../T/Tolkien_Society.md) ở Châu Mỹ Latinh. Nó được thành lập vào [19 tháng 3](../_/19_March.md) [1989](../_/1989.md) bởi [Ronald Kyrmse](../R/Ronald_Kyrmse.md), tại São Paulo, Brazil. Tên đã được đổi vào [ngày 9 tháng 1](../_/9_January.md) [2003](../_/2003.md) thành "Heren Hyarmeno", cách sở hữu Quenya chính xác có nghĩa là "Trật tự miền Nam".<sup id="cite_ref-Marq_1-0" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
+**Heren Hyarmen** (**Huân chương miền Nam**) là tổ chức Smial trực thuộc [Tolkien chính thức đầu tiên của Hiệp hội](../T/Tolkien_Society.md) ở Châu Mỹ Latinh. Nó được thành lập vào [19 tháng 3](../_/19_March.md) [1989](../_/1989.md) bởi [Ronald Kyrmse](../R/Ronald_Kyrmse.md), ở São Paulo, Brazil. Tên đã được đổi vào [ngày 9 tháng 1](../_/9_January.md) [2003](../_/2003.md) thành "Heren Hyarmeno", cách sở hữu Quenya chính xác có nghĩa là "Trật tự miền Nam".<sup id="cite_ref-Marq_1-0" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
 
 Nụ cười của Hội Tolkien này không còn tồn tại kể từ năm 2023, nó không còn được liệt kê là đang hoạt động nữa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

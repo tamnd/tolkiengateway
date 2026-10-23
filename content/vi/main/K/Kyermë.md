@@ -27,7 +27,7 @@ Trong mọi trường hợp, âm vị học Quenya truyền thống cấm sự t
 
 ## Ví dụ {#Examples}
 
-- [Eru**kyermë**](../E/Erukyermë.md): "Cầu nguyện tới [Eru](../I/Ilúvatar.md)"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Eru **kyermë**](../E/Erukyermë.md): "Cầu nguyện tới [Eru](../I/Ilúvatar.md)"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -30,7 +30,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../E/Elrond.md" title="Elrond">Elrond</a> in <i><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="The_Council_of_Elrond.md" title="The Council of Elrond">The Council of Elrond</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Nguồn gốc thần thoại của [Tom Bombadil](Tom_Bombadil.md)trong vũ trụ học nội tại của [Trung Địa](../M/Middle-earth.md) đã khiến ngay cả những người hâm mộ uyên bác cũng phải bối rối. Ví dụ: việc Chiếc nhẫn không có quyền lực đối với Tom sẽ gợi ý rằng Tom tồn tại ở cả hai thế giới [Thấy được](../S/Seen.md) và [Không nhìn thấy](../U/Unseen.md) hoặc rằng Cái vô hình không ảnh hưởng gì đến anh ấy vì "Anh ấy là [chủ nhân](../M/Master.md) của chính mình".
+Nguồn gốc thần thoại của [Tom Bombadil](Tom_Bombadil.md)trong vũ trụ học nội tại của [Trung Địa](../M/Middle-earth.md) đã khiến ngay cả những người hâm mộ uyên bác cũng phải bối rối. Ví dụ: việc Nhẫn không có quyền lực đối với Tom sẽ gợi ý rằng Tom tồn tại ở cả hai cõi [Đã nhìn thấy](../S/Seen.md) và [Không nhìn thấy](../U/Unseen.md) hoặc rằng cõi Vô hình không có ảnh hưởng gì đến anh ấy vì "Anh ấy là [chủ nhân](../M/Master.md) của chính mình".
 
 Những ý tưởng suy đoán về bản chất thực sự của anh ta bao gồm từ một [Tiên](../E/Elves.md) ẩn sĩ thông thái đơn giản đến một [Maia](../M/Maiar.md) hoặc [Vala](../V/Valar.md), thậm chí cả [Ilúvatar](../I/Ilúvatar.md) chính anh ta.
 
@@ -66,11 +66,11 @@ Tolkien gợi ý rằng ngay cả trong [thế giới thứ cấp](../S/Secondar
 
 ## Tom vai Eru Ilúvatar {#Tom_as_Eru_Ilúvatar}
 
-Khi Goldberry được [Frodo Baggins](../F/Frodo_Baggins.md) hỏi anh ta là ai, cô chỉ nói "*He is*" trùng với tên thánh của Chúa trong Cơ đốc giáo, "*ὁ ὤν*" (Đấng, Đấng hiện hữu). Goldberry còn cho rằng Tom đơn giản là " [Master](../M/Master.md)",<sup id="cite_ref-Council_4-0" class="reference"><a href="#cite_note-Council-4">[4]</a></sup> và giả thuyết Tom là hóa thân, hiện thân hay "hình đại diện" của Ilúvatar đã được người hâm mộ ưa chuộng.<sup id="cite_ref-FAQ_5-0" class="reference"><a href="#cite_note-FAQ-5">[5]</a></sup>
+Khi Goldberry được [Frodo Baggins](../F/Frodo_Baggins.md) hỏi anh ta là ai, cô chỉ nói "*He is*" trùng với tên thánh của Chúa trong Cơ đốc giáo, "*ὁ ὤν*" (Đấng, Đấng hiện hữu). Goldberry còn cho rằng Tom chỉ đơn giản là " [Chủ nhân](../M/Master.md)",<sup id="cite_ref-Council_4-0" class="reference"><a href="#cite_note-Council-4">[4]</a></sup> và giả thuyết Tom là hóa thân, hiện thân hay "avatar" của Ilúvatar đã được người hâm mộ ưa chuộng.<sup id="cite_ref-FAQ_5-0" class="reference"><a href="#cite_note-FAQ-5">[5]</a></sup>
 
 Tuy nhiên, Tolkien sau đó đã nhận xét rằng cuộc đối thoại này không ám chỉ đến Thiên Chúa, giống như danh hiệu "Cha" ám chỉ đến một linh mục không ám chỉ đến Thiên Chúa.<sup id="cite_ref-L153_2-1" class="reference"><a href="#cite_note-L153-2">[2]</a></sup>
 
-Trong [Hội đồng Elrond](../C/Council_of_Elrond.md), người ta đề cập rằng Tom có ​​kiến ​​thức và hiểu biết hạn chế về sức mạnh của Chiếc nhẫn, điều này cho thấy rằng anh ấy không phải là Ilúvatar.
+Trong [Hội đồng Elrond](../C/Council_of_Elrond.md), người ta đề cập rằng Tom có ​​kiến ​​thức và hiểu biết hạn chế về sức mạnh của Nhẫn, điều này cho thấy rằng anh ấy không phải là Ilúvatar.
 
 Elrond gọi Bombadil là "một *creature*kỳ lạ" \[nhấn mạnh thêm\] và đây không phải là mô tả chính xác về một Đấng sáng tạo chưa được tạo ra. Tuy nhiên, có thể trừ khi Elrond cũng không biết gì về bản chất của Bombadil.
 
@@ -86,7 +86,7 @@ Vì tất cả bảy Valar đều được đặt tên và tính toán,<sup id="
 
 Tom nhớ mình là *"[Anh cả](../E/Eldest.md), tôi chính là vậy...Tom nhớ giọt mưa đầu tiên và quả sồi đầu tiên...Anh ấy biết bóng tối dưới những vì sao khi nó không hề sợ hãi – trước khi Chúa tể Bóng tối đến từ [Bên ngoài](Timeless_Halls.md)"*. Nhân tiện, "Người lớn tuổi nhất" cũng là danh hiệu được đặt cho [Treebeard](Treebeard.md).
 
-Sau khi Chiếc Nhẫn Chúa bị phá hủy, Gandalf đến nói chuyện với Tom, gợi ý về mối quan hệ sâu sắc giữa hai người. Ít nhất, chuyến thăm của Gandalf tới Tom, cho thấy mối liên hệ quan trọng với Maiar. Tuy nhiên, Chiếc nhẫn không có tác dụng với anh ta, mặc dù nó có tác dụng nhất định với [Saruman](../S/Saruman.md) và [Gandalf](../G/Gandalf.md), cả hai đều là Maia. Ngoài ra, Gandalf trong Hội đồng Elrond nói rằng Tom "trung lập" và sẽ không hiểu nguyên nhân của [các Dân tộc Tự do](../F/Free_peoples~19934.md), trong khi tất cả những Maiar khác đã biết đều đứng về phía nào.
+Sau khi Kẻ Nhẫn bị phá hủy, Gandalf đến nói chuyện với Tom, gợi ý về mối quan hệ sâu sắc giữa hai người. Ít nhất, chuyến thăm của Gandalf tới Tom, cho thấy mối liên hệ quan trọng với Maiar. Tuy nhiên, Nhẫn không có tác dụng gì với anh ta, mặc dù nó có một số tác dụng lên [Saruman](../S/Saruman.md) và [Gandalf](../G/Gandalf.md), cả hai đều là Maia. Ngoài ra, Gandalf trong Hội đồng Elrond nói rằng Tom "trung lập" và sẽ không hiểu nguyên nhân của [các Dân tộc Tự do](../F/Free_peoples~19934.md), trong khi tất cả những Maiar khác đã biết đều đứng về phía nào.
 
 ## Tom là hiện thân của Arda {#Tom_as_the_embodiment_of_Arda}
 
@@ -96,7 +96,7 @@ Sau khi Chiếc Nhẫn Chúa bị phá hủy, Gandalf đến nói chuyện với
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien explaining Tom to <a href="../N/Nevill_Coghill.md" title="Nevill Coghill">Nevill Coghill</a><sup id="cite_ref-coghill_3-2" class="reference"><a href="#cite_note-coghill-3">[3]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Một lý thuyết cấp tiến và trừu tượng hơn cho rằng anh ta có thể là hiện thân của chính [Arda](../A/Arda.md), một "Cha Thiên nhiên". Tom dù gần gũi với thiên nhiên nhưng cũng có lúc tách mình ra khỏi thiên nhiên. Một ví dụ như vậy là trong Khu Rừng Cổ khi chiến đấu chống lại Old Man Willow và có tính cách khác với Khu Rừng Cổ, được mô tả là đen tối và đầy căm ghét mọi thứ diễn ra tự do. Mặt khác, Tom hát liên tục ngay cả khi chiến đấu với kẻ đánh xe: *"Chưa ai bắt được anh ta, đối với Tom, anh ta là Bậc thầy: Các bài hát của anh ta là những bài hát mạnh mẽ hơn và đôi chân của anh ta nhanh hơn"*.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+Một lý thuyết cấp tiến và trừu tượng hơn cho rằng anh ta có thể là hiện thân của chính [Arda](../A/Arda.md), một "Cha Thiên nhiên". Tom dù gần gũi với thiên nhiên nhưng cũng có lúc tách mình ra khỏi thiên nhiên. Một ví dụ như vậy là trong Khu Rừng Cổ khi chiến đấu chống lại Ông già liễu và có tính cách khác với Khu Rừng Cổ, được mô tả là đen tối và đầy căm thù đối với mọi thứ diễn ra tự do. Mặt khác, Tom hát liên tục ngay cả khi chiến đấu với kẻ đánh xe: *"Chưa ai bắt được anh ta, đối với Tom, anh ta là Chủ nhân: Những bài hát của anh ấy là những bài hát mạnh mẽ hơn và đôi chân của anh ấy nhanh hơn"*.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
 ## Những sinh vật giống anh ấy {#Beings_like_him}
 
@@ -139,7 +139,7 @@ Gandalf, khi kể lại cuộc chiến của mình với [Tai họa của Durin]
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.glyphweb.com/arda/t/tombombadil.html" rel="noreferrer noopener" target="_blank">Mục trong Bách khoa toàn thư của Arda</a> (tổng quan ngắn gọn về cuộc thảo luận)
+- <a class="external text" href="http://www.glyphweb.com/arda/t/tombombadil.html" rel="noreferrer noopener" target="_blank">Mục trong Bách khoa toàn thư Arda</a> (tổng quan ngắn gọn về cuộc thảo luận)
 - <a class="external text" href="http://tolkien.slimy.com/essays/Bombadil.html" rel="noreferrer noopener" target="_blank"><i> Tom Bombadil là gì?</i></a> của Steuard Jensen (giải thích chi tiết)
 - <a class="external text" href="http://www.cas.unt.edu/~hargrove/bombadil.html" rel="noreferrer noopener" target="_blank"><i> Tom Bombadil là ai?</i></a> của Gene Hargrove (một bài luận có phần không chính thống nhưng được trình bày tốt)
 - <a class="external text" href="http://www.whoistombombadil.blogspot.com" rel="noreferrer noopener" target="_blank">"Ai là Tom Bombadil?"</a> của Ranger đến từ miền Bắc (lập luận sâu rộng về Lý thuyết Âm nhạc)

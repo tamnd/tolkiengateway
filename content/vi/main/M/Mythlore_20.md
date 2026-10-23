@@ -66,7 +66,7 @@ infobox:
 - Patterson, Nancy-Lou. “Rời đi qua Lewis.” Đánh giá *The Joyful Christian* của C.S. Lewis. 32.
 - Ellwood, Robert S., Jr. “Lịch sử của hai vương quốc.” Đánh giá *Science Fiction: An Illustrated History* của Sam J. Lundwall; *Cuốn sách giả tưởng: Lịch sử minh họa từ Dracula đến Tolkien* của Franz Rottensteiner. 33.
 - Patterson, Nancy-Lou. “Sét nhẹ.” Đánh giá về *Lightning From a Clear Sky* của Richard Mathews. 34.
-- Patterson, Nancy-Lou. “Một chiếc nhẫn Inklings.” Đánh giá *[The Inklings](<../T/The_Inklings_(book).md>)* của [Humphrey Carpenter](../H/Humphrey_Carpenter.md). 34.
+- Patterson, Nancy-Lou. “Một Nhẫn của Inklings.” Đánh giá *[The Inklings](<../T/The_Inklings_(book).md>)* của [Humphrey Carpenter](../H/Humphrey_Carpenter.md). 34.
 - Nicholson, Daile. “Nửa đường tới Narnia: Đài truyền hình Tames Aslan.” Đánh giá về *Sư tử, Phù thủy và Tủ quần áo*, Bill Melendez Productions, 1979. 35.
 - Christopher, Joe R. “Một Inklings Thư mục (9).” 40-46.
 - Speth, Lee. Cách đối xử ung dung: “Một Connecticut Yankee ở Gormanghast.” 46-47.

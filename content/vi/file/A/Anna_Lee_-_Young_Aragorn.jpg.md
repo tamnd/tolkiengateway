@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*Young [Aragorn](../../main/A/Aragorn.md)* của [Anna Lee](../../main/A/Anna_Lee.md).
+*Young [Aragorn](../../main/A/Aragorn.md)* bởi [Anna Lee](../../main/A/Anna_Lee.md).
 
 ## Giấy phép {#Licensing}
 

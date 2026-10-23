@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:John Howe - The Uruk-hai.jpg"
 ---
 
-Chuyển hướng tới [Tệp:John Howe - Tệp Uruk-hai.jpg](John_Howe_-_The_Uruk-hai.jpg.md).
+Chuyển hướng đến [Tệp:John Howe - Tệp Uruk-hai.jpg](John_Howe_-_The_Uruk-hai.jpg.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Temple"
 ---
 
-Chuyển hướng đến [Đền](Temple.md).
+Chuyển hướng đến [Đền thờ](Temple.md).

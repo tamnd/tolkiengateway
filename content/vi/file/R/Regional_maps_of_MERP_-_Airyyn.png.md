@@ -21,4 +21,4 @@ file:
   user: "Airyn"
 ---
 
-Bản đồ khu vực của Trò chơi Middle-earth Role Playing (MERP) 1982-1997. Infographic của Airyyn (2025) – Đặc biệt cảm ơn Irwin. Thiết kế bản đồ chung của Peter C. Fenlon, Jr & Terry K. Amthor. Tất cả sản phẩm và nhãn hiệu đều là © Vương miện Sắt Enterprises (I.C.E.).
+Bản đồ khu vực của Trò chơi Middle-earth Role Playing (MERP) 1982-1997. Infographic của Airyyn (2025) – Đặc biệt cảm ơn Irwin. Thiết kế bản đồ chung của Peter C. Fenlon, Jr & Terry K. Amthor. Tất cả các sản phẩm và nhãn hiệu đều là © Vương miện Sắt Enterprises (I.C.E.).

@@ -48,14 +48,14 @@ infobox:
 
 ## Nội dung {#Contents}
 
-- "'My Precious': Chiếc nhẫn được tôn sùng của Tolkien" (bởi [Alison Milbank](../A/Alison_Milbank.md))
+- "'My Precious': Tolkien được tôn sùng Nhẫn" (bởi [Alison Milbank](../A/Alison_Milbank.md))
 - "*Über*hobbit: Tolkien, Nietzsche, và ý chí quyền lực" (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Douglas_K._Blount&amp;action=edit&amp;redlink=1" title="Douglas K. Blount (page does not exist)">Douglas K. Blount</a>)
-- "Những kết thúc có hậu và niềm hy vọng tôn giáo: The Lord of the Rings như một câu chuyện cổ tích sử thi" (của <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_J._Davenport&amp;action=edit&amp;redlink=1" title="John J. Davenport (page does not exist)">John J. Davenport</a>)
+- "Những kết thúc có hậu và niềm hy vọng tôn giáo: The Lord of the Rings như một câu chuyện cổ tích sử thi" (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_J._Davenport&amp;action=edit&amp;redlink=1" title="John J. Davenport (page does not exist)">John J. Davenport</a>)
 - "Tolkien Sáu chìa khóa dẫn đến hạnh phúc" (của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Gregory_Bassham&amp;action=edit&amp;redlink=1" title="Gregory Bassham (page does not exist)">Gregory Bassham</a>)
 - "Nhiệm vụ Sam và Gollum cho cuộc sống hạnh phúc" (của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jorge_J.E._Gracia&amp;action=edit&amp;redlink=1" title="Jorge J.E. Gracia (page does not exist)">Jorge J.E. Gracia</a>)
-- "'Tạm biệt Lórien': Niềm vui giới hạn của những người theo chủ nghĩa hiện sinh và Tiên tộc" (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Eric_Bronson&amp;action=edit&amp;redlink=1" title="Eric Bronson (page does not exist)">Eric Bronson</a>)
+- "'Vĩnh biệt Lórien': Niềm vui giới hạn của những người theo chủ nghĩa hiện sinh và Tiên tộc" (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Eric_Bronson&amp;action=edit&amp;redlink=1" title="Eric Bronson (page does not exist)">Eric Bronson</a>)
 - "Những chiếc nhẫn của Tolkien và Plato: Bài học về quyền lực, sự lựa chọn và đạo đức" (của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Eric_Katz&amp;action=edit&amp;redlink=1" title="Eric Katz (page does not exist)">Eric Katz</a>)
-- " Cracks of Doom: Mối đe dọa của các công nghệ mới nổi và Tolkien của Những Chiếc Nhẫn Quyền Năng" (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Theodore_Schick&amp;action=edit&amp;redlink=1" title="Theodore Schick (page does not exist)">Theodore Schick</a>)
+- " Cracks of Doom: Mối đe dọa của các công nghệ mới nổi và Tolkien Những Chiếc Nhẫn Quyền Năng" (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Theodore_Schick&amp;action=edit&amp;redlink=1" title="Theodore Schick (page does not exist)">Theodore Schick</a>)
 - "Tolkien và bản chất của cái ác" (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Scott_A._Davison&amp;action=edit&amp;redlink=1" title="Scott A. Davison (page does not exist)">Scott A. Davison</a>)
 - "Đức hạnh và tội lỗi trong *The Lord of the Rings*" (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Aeon_J._Skoble&amp;action=edit&amp;redlink=1" title="Aeon J. Skoble (page does not exist)">Aeon J. Skoble</a>)
 - "Chọn cái chết: Món quà của sự chết trong Trung Địa" (bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bill_Davis&amp;action=edit&amp;redlink=1" title="Bill Davis (page does not exist)">Bill Davis</a>)

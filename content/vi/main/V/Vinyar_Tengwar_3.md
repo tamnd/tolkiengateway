@@ -49,7 +49,7 @@ infobox:
 - Thư gửi *VT*
 
 - "Đàm thoại Quenya?" — Margaret Dean
-- "Orc Nói chuyện" — [Tom Loback](../T/Tom_Loback.md)
+- "Orc Trò chuyện" — [Tom Loback](../T/Tom_Loback.md)
 
 <br>
 

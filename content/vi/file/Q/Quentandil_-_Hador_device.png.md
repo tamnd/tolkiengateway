@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Được vẽ lại rõ ràng từ [bản vẽ thiết bị huy hiệu của Hador](../J/J.R.R._Tolkien_-_Hador_heraldic_device.jpg.md) của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
+Được vẽ lại hoàn toàn từ [bản vẽ thiết bị huy hiệu của Hador](../J/J.R.R._Tolkien_-_Hador_heraldic_device.jpg.md) của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
 
 ## Giấy phép {#Licensing}
 

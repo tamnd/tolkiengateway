@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vista"
 ---
 
-Chuyển hướng tới [Vista](../V/Vista.md).
+Chuyển hướng đến [Vista](../V/Vista.md).

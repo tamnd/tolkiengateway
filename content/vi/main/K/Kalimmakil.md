@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calimmacil"
 ---
 
-Chuyển hướng đến [Calimmacil](../C/Calimmacil.md).
+Chuyển hướng tới [Calimmacil](../C/Calimmacil.md).

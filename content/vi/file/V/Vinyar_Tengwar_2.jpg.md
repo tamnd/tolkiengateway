@@ -24,7 +24,7 @@ file:
   user: "Luotiansha"
 ---
 
-Hình minh họa bìa của [Tom Loback](../../main/T/Tom_Loback.md).
+Bìa minh họa bởi [Tom Loback](../../main/T/Tom_Loback.md).
 
 ## Giấy phép {#Licensing}
 

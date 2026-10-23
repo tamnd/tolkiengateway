@@ -34,7 +34,7 @@ Cf. <a class="external text" href="https://tai.tolkienists.org/tai/67/" rel="nor
 - *[The Tolkien Diary 1992](../../main/T/The_Tolkien_Diary_1992.md)* ([1991](../../main/_/1991.md)), 1992-04-04
 - *[The Silmarillion](../../main/T/The_Silmarillion.md): Illustrated by J.R.R. Tolkien* ([2022](../../main/_/2022.md)), trang i, 57
 
-Dòng chữ trong bản thảo viết: "Cổ xưa / Biểu tượng / đại diện / một nguồn gốc của / Silmaril / từ ánh sáng của / những cái cây trên / Ezellohar".
+Dòng chữ trong bản viết tay có nội dung: "Cổ xưa / Biểu tượng / đại diện / một nguồn gốc của / Silmaril / từ ánh sáng của / những cái cây trên / Ezellohar".
 
 ## Giấy phép {#Licensing}
 

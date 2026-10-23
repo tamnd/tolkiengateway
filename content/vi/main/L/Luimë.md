@@ -19,7 +19,7 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-Có thể có [PQ](../P/PQ.md) dạng \**luimê* từ [Root](../S/Sundocarmë.md) \*LUY.
+Có thể có [PQ](../P/PQ.md) mẫu \**luimê* từ [Gốc](../S/Sundocarmë.md) \*LUY.
 
 ## Phiên bản khác {#Other_versions}
 

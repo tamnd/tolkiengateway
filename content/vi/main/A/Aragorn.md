@@ -457,7 +457,7 @@ Trong ấn bản đầu tiên của *The Lord of the Rings*, năm mất của Ar
 
 ### Phim {#Films}
 
-<b>1971: <a href="../S/Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)"><i>Sagan om Ringen</i> (1971 film)</a>:</b>
+<b>1971: <a href="../S/Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)"><i>Sagan om Ringen</i> (phim 1971)</a>:</b>
 
 <dl><dd>Aragorn meets the Hobbits at the <i><a class="mw-redirect" href="../P/Prancing_Pony.md" title="Prancing Pony">Prancing Pony</a> Inn</i> and joins them after a letter from Gandalf confirmes he is trustworthy. On the way to <a href="../B/Bree.md" title="Bree">Bree</a>, they meet with <a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a> who heals <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> and gifts him <a href="Asfaloth.md" title="Asfaloth">Asfaloth</a>. Aragorn arrives at <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a> and participates in the <a href="../C/Council_of_Elrond.md" title="Council of Elrond">Council of Elrond</a>. He was chosen as the representative for the race of <a href="../M/Men.md" title="Men">Men</a> in the <a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Fellowship of the Ring</a>. He departed from Rivendell second, after <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>.</dd></dl>
 
@@ -465,7 +465,7 @@ Trong ấn bản đầu tiên của *The Lord of the Rings*, năm mất của Ar
 
 <dl><dd>The voice of Aragorn is provided by <a href="../J/John_Hurt.md" title="John Hurt">John Hurt</a>. Some critics have commented that he looks Native American.<sup id="cite_ref-76" class="reference"><a href="#cite_note-76">[74]</a></sup></dd></dl>
 
-<b>1980: <i><a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King (1980 film)</a></i>:</b>
+<b>1980: <i><a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King (phim 1980)</a></i>:</b>
 
 <dl><dd>Aragorn was voiced by <a href="../T/Theodore_Bikel.md" title="Theodore Bikel">Theodore Bikel</a> in the 1980 <a href="../R/Rankin%252FBass.md" title="Rankin/Bass">Rankin/Bass</a> animated film. His role is dramatically reduced to a handful of scenes and there is no mention of any previous involvement with the <a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Fellowship of the Ring</a>.</dd></dl>
 
@@ -493,7 +493,7 @@ Trong ấn bản đầu tiên của *The Lord of the Rings*, năm mất của Ar
 
 ### Loạt chương trình phát thanh {#Radio_series}
 
-<b>1955: <a href="../T/The_Lord_of_the_Rings_(1955_radio_series).md" title="The Lord of the Rings (1955 radio series)"><i>The Lord of the Rings</i> (1955 radio series)</a>:</b>
+<b>1955: <a href="../T/The_Lord_of_the_Rings_(1955_radio_series).md" title="The Lord of the Rings (1955 radio series)"><i>The Lord of the Rings</i> (loạt đài phát thanh 1955)</a>:</b>
 
 <dl><dd>The voice of Aragorn is provided by <a href="../G/Godfrey_Kenton.md" title="Godfrey Kenton">Godfrey Kenton</a>.</dd></dl>
 
@@ -501,7 +501,7 @@ Trong ấn bản đầu tiên của *The Lord of the Rings*, năm mất của Ar
 
 <dl><dd>The voice of Aragorn is provided by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tom_Luce&amp;action=edit&amp;redlink=1" title="Tom Luce (page does not exist)">Tom Luce</a>.</dd></dl>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (1981 radio series)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
 <dl><dd>Aragorn was voiced by <a href="../R/Robert_Stephens.md" title="Robert Stephens">Robert Stephens</a>.  For his early scenes, according to <a href="../J/John_McAndrew.md" title="John McAndrew">John McAndrew</a> (Pippin), Stephens adopted an accurate Bristol accent to help suggest the disguise Strider adopted in Bree.</dd></dl>
 
@@ -511,7 +511,7 @@ Trong ấn bản đầu tiên của *The Lord of the Rings*, năm mất của Ar
 
 ### Trò chơi {#Games}
 
-<b>1988: <i><a href="../J/J.R.R._Tolkien&#39;s_War_in_Middle_Earth.md" title="J.R.R. Tolkien&#39;s War in Middle Earth">J.R.R. Tolkien&#39;s War in Middle Earth</a></i>:</b>
+<b>1988: Cuộc chiến của <i><a href="../J/J.R.R._Tolkien&#39;s_War_in_Middle_Earth.md" title="J.R.R. Tolkien&#39;s War in Middle Earth">J.R.R. Tolkien ở Trung Địa</a></i>:</b>
 
 <dl><dd>Aragorn is a playable character. He has brown hair and is bearded, he bears a golden sword.</dd></dl>
 
@@ -531,19 +531,19 @@ Trong ấn bản đầu tiên của *The Lord of the Rings*, năm mất của Ar
 
 <dl><dd>Aragorn is a Hero Unit for the Free People side. He is present in Lothlorien, the Battle of Hornburg and the Siege of Minas Morgul.</dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
 
 <dl><dd>Aragorn is a Hero Unit for the Rohan faction in skirmishes. He also accompanies the Fellowship in the storyline mode.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
 <dl><dd>Aragorn is now the Hero for the Men of the West faction.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>In the Prologue, Aragorn saves Men/Hobbit characters from brigands, but is forced to leave soon, as he has to intercept Frodo in Bree. Later arriving at the Prancing Pony, the characters meet him again and help him look in the surrounding area for Hobbits, who did not arrive in time. When the player returns, Aragorn and the Hobbits have already departed, and their next meeting is in Rivendell, where Aragorn entrusts the player with defence of the North while the Fellowship is gone. Later, in <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a>, Aragorn is seen residing in <a href="../C/Caras_Galadhon.md" title="Caras Galadhon">Caras Galadhon</a>.</dd></dl>
 
-<b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Conquest</a></i>:</b>
+<b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Chinh phục</a></i>:</b>
 
 <dl><dd>Aragorn is a playable hero available in several missions in the War of the Ring campaign.</dd></dl>
 
@@ -558,7 +558,7 @@ Trong ấn bản đầu tiên của *The Lord of the Rings*, năm mất của Ar
 
 <dl><dd>A mini figure of Aragorn is included in the <a href="../L/Lego.md#Sets" title="Lego">sets</a> &#34;Attack at Weathertop&#34;, &#34;The Battle of Helm&#39;s Deep&#34;, &#34;The Battle at the Black Gate&#34;, and &#34;The Pirate ship Ambush&#34;.<sup id="cite_ref-2012_sets_82-0" class="reference"><a href="#cite_note-2012_sets-82">[80]</a></sup>  In <a href="../_/2012.md" title="2012">2012</a>&#39;s <i><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: The Video Game</a></i>, Aragorn joins the rest of the <a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Fellowship</a> in traveling to the <a href="../G/Grey_Havens.md" title="Grey Havens">Grey Havens</a> to bid Frodo and Gandalf farewell.</dd></dl>
 
-<b>2023: <i><a href="../T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md" title="The Lord of the Rings: Heroes of Middle-earth">The Lord of the Rings: Heroes of Middle-earth</a></i>:</b>
+<b>2023: <i><a href="../T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md" title="The Lord of the Rings: Heroes of Middle-earth">The Lord of the Rings: Những anh hùng Trung Địa</a></i>:</b>
 
 <dl><dd>Aragorn is included as a playable character in the specific video game.</dd></dl>
 

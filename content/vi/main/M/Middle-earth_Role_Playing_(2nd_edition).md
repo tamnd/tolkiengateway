@@ -51,7 +51,7 @@ Trò chơi nhập vai giả tưởng lấy bối cảnh ở Thế giới của J
 
 Trong trò chơi nhập vai, bạn đóng vai một nhân vật trong một "cuốn tiểu thuyết sống. Middle-earth Role Playing (MERP) và các sách nguồn đi kèm của nó cung cấp cấu trúc và khuôn khổ cho việc nhập vai trong bối cảnh giả tưởng vĩ đại nhất mọi thời đại... Trung Địa của J.R.R. Tolkien.
 
-Middle-earth Role Playing là bước tiếp theo dành cho những ai đã trải nghiệm cảm giác hồi hộp trong trò chơi nhập vai giới thiệu của ICE, Trò chơi phiêu lưu Chúa tể những chiếc nhẫn. Nó cũng hoàn hảo cho những game thủ có kinh nghiệm hơn đang tìm kiếm một game nhập vai giả tưởng thực tế, dễ chơi.
+Middle-earth Role Playing là bước tiếp theo dành cho những ai đã trải nghiệm cảm giác hồi hộp của trò chơi nhập vai giới thiệu Lord of the Rings Adventure Game của ICE. Nó cũng hoàn hảo cho những game thủ có kinh nghiệm hơn đang tìm kiếm một game nhập vai giả tưởng thực tế, dễ chơi.
 
 Middle-earth Role Playing, Phiên bản thứ 2 bao gồm:
 

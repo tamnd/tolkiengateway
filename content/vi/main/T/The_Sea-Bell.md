@@ -36,7 +36,7 @@ J.R.R. Tolkien từng nói với [Pauline Baynes](../P/Pauline_Baynes.md) rằng
 
 ## Xem thêm {#See_also}
 
-- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 ## Liên kết ngoài {#External_links}
 

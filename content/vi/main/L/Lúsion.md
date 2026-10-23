@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lúthien (son of Telimektar)"
 ---
 
-Chuyển hướng đến [Lúthien (con trai của Telimektar)](<Lúthien_(son_of_Telimektar).md>).
+Chuyển hướng tới [Lúthien (con trai của Telimektar)](<Lúthien_(son_of_Telimektar).md>).

@@ -67,11 +67,11 @@ infobox:
 - Đánh giá sách:
     - "Đánh giá về Lost Chaucer của Tolkien của John Bowers"
         - Bởi: Benjamin Weber
-    - "Đánh giá về việc lựa chọn cộng đồng: Hành động, niềm tin và niềm vui trong công việc của Dorothy L. Sayers của Christine A. Colón"
+    - "Đánh giá về việc lựa chọn cộng đồng: Hành động, niềm tin và niềm vui trong công việc của Dorothy L. Sayers bởi Christine A. Colón"
         - Bởi: Barbara Prescott
-    - "Đánh giá về Dorothy L. Sayers, Chúa, Hitler và Chúa Peter Wimsey: Các bài luận, bài phát biểu và bài viết chọn lọc do Suzanne Bray biên tập"
+    - "Đánh giá về Dorothy L. Sayers, Chúa, Hitler và Chúa Peter Wimsey: Các tiểu luận, bài phát biểu và bài viết chọn lọc do Suzanne Bray biên tập"
         - Bởi: David Llewellyn Dodds
-    - "Đánh giá về Phantastes: Phiên bản có chú thích của George MacDonald, do John Pennington và Roderick McGillis biên tập"
+    - "Đánh giá về Phantastes: Phiên bản có chú thích của George MacDonald, được biên tập bởi John Pennington và Roderick McGillis"
         - Bởi: Daniel Gabelman
     - "Đánh giá về động vật trong bài viết C.S. Lewis của Michael J. Gilmour"
         - Bởi: Matthew Dickerson

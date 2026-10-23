@@ -21,7 +21,7 @@ images:
 
 **Bàn tay đen** là danh hiệu của [Morgoth](../M/Morgoth.md), được [Beleg](Beleg.md) sử dụng để giải thích quyền lực của Morgoth đã mở rộng về phía nam như thế nào [Beleriand](Beleriand.md) sau [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong [Kỷ Đệ Tam](../T/Third_Age.md), [Gollum](../G/Gollum.md) đã hai lần áp dụng cùng một biểu tượng cho tay trái của [Sauron](../S/Sauron.md). Gollum đã đề cập đến việc Sauron chỉ có bốn ngón tay trên "bàn tay đen" của mình, điều này tất nhiên là do [Isildur](../I/Isildur.md) đã cắt đứt ngón tay mang [Một chiếc nhẫn](../T/The_One_Ring.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong [Kỷ Đệ Tam](../T/Third_Age.md), [Gollum](../G/Gollum.md) đã hai lần áp dụng cùng một biểu tượng cho tay trái của [Sauron](../S/Sauron.md). Gollum đã đề cập đến việc Sauron chỉ có bốn ngón tay trên "bàn tay đen" của mình, điều này tất nhiên là do [Isildur](../I/Isildur.md) đã cắt bỏ ngón tay mang [Một Nhẫn](../T/The_One_Ring.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

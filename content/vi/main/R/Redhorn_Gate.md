@@ -24,13 +24,13 @@ Trong [T.A.](../T/Third_Age.md) [1150](../T/Third_Age_1150.md), [Stoors](../S/St
 
 Trong [T.A.](../T/Third_Age.md) [2509](../T/Third_Age_2509.md) [Celebrían](../C/Celebrían.md), vợ của [Elrond](../E/Elrond.md), bị [Orc của Dãy Núi Sương Mù](../O/Orcs_of_the_Misty_Mountains.md) bắt giữ vào ngày Đèo Redhorn.<sup id="cite_ref-Celebrian_3-1" class="reference"><a href="#cite_note-Celebrian-3">[3]</a></sup>
 
-Vào [11 tháng 1](../_/11_January.md) - [12](../_/12_January.md), [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) đã cố gắng vượt qua Dãy Núi Sương Mù bằng Cổng Redhorn khi họ thực hiện [Nhiệm vụ Núi Doom](../Q/Quest_of_Mount_Doom.md). Họ gặp phải một trận bão tuyết dữ dội và không thể đi xa hơn vì tuyết dày. Vì vậy, họ đã bị đánh bại bởi ý chí xấu xa của ngọn núi và buộc phải vượt qua Dãy Núi Sương Mù qua Mỏ Moria.<sup id="cite_ref-South_1-1" class="reference"><a href="#cite_note-South-1">[1]</a></sup>
+Vào [11 tháng 1](../_/11_January.md) - [12](../_/12_January.md), [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) đã cố gắng vượt qua Dãy Núi Sương Mù bằng Cổng Redhorn khi họ thực hiện [Nhiệm vụ Núi Doom](../Q/Quest_of_Mount_Doom.md). Họ gặp phải một trận bão tuyết dữ dội và không thể đi xa hơn vì tuyết dày. Vì vậy, họ đã bị đánh bại bởi ác ý của ngọn núi và buộc phải vượt qua Dãy Núi Sương Mù qua Mỏ Moria.<sup id="cite_ref-South_1-1" class="reference"><a href="#cite_note-South-1">[1]</a></sup>
 
 Vào [13 tháng Chín](../_/13_September.md) [Celeborn](../C/Celeborn.md), [Galadriel](../G/Galadriel.md) và các yêu tinh từ [Lórien](../L/Lórien.md) chia tay các thành viên còn lại của Đoàn Hộ Nhẫn trong Eregion để vượt qua Cổng Redhorn để trở về vương quốc của riêng họ.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2009: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2009: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The Redhorn Gate is featured in the region of <a href="../E/Eregion.md" title="Eregion">Eregion</a>. The snowstorms are very strong in this area, and an avalanche prevents further travel to the lands of the east.</dd></dl>
 

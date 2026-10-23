@@ -43,7 +43,7 @@ infobox:
     - Bởi: Stephen Dunning
 - "Dorothy L. Sayers và C.S. Lewis: Hai cách tiếp cận sáng tạo và kêu gọi"
     - Bởi: Diana Pavlac Glyer và Laura K. Simmons
-- "'Trả giá cho cái cây nhổ bỏ gốc rễ trên trái đất của anh ấy': Mô típ từ Macbeth trong *The Lord of the Rings*"
+- "'Trả giá cho cái cây gỡ bỏ phần đất của anh ấy Gốc': Mô típ từ Macbeth trong *The Lord of the Rings*"
     - Bởi: [Janet Brennan Croft](../J/Janet_Brennan_Croft.md)
 - "Lewis và Morris"
     - Bởi: Robert Boenig

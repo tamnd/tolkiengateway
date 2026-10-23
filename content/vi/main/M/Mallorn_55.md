@@ -66,7 +66,7 @@ infobox:
         - Bởi: [Tom Shippey](../T/Tom_Shippey.md)
     - "'Xem một bức tranh trước mắt chúng ta': Lời bình của Tolkien trong [bản dịch *Beowulf*](../B/Beowulf%253A_A_Translation_and_Commentary.md) của anh ấy"
         - Bởi: [Mark Atherton](Mark_Atherton.md)
-    - "Tolkien Kỹ thuật dịch trong văn xuôi *Beowulf*: Chủ nghĩa văn học và tính văn chương"
+    - "Tolkien Kỹ thuật dịch trong văn xuôi *Beowulf*: Chủ nghĩa văn học và tính văn học"
         - Bởi: Britton Brooks
     - "Tolkien và Văn học dân gian: *[Sellic Spell](../S/Sellic_Spell.md)* và *[The Lay of Beowulf](../T/The_Lay_of_Beowulf.md)*"
         - Bởi: [Dimitra Fimi](../D/Dimitra_Fimi.md)

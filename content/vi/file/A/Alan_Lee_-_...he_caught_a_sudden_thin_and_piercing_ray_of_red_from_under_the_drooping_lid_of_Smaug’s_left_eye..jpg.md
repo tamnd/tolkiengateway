@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"...[anh ta](../../main/B/Bilbo_Baggins.md) bất ngờ nhìn thấy một tia đỏ mỏng và xuyên thấu từ dưới mi mắt trái đang sụp xuống của [Smaug](../../main/S/Smaug.md)." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"...[anh ta](../../main/B/Bilbo_Baggins.md) bất ngờ nhìn thấy một tia đỏ mỏng và xuyên thấu từ dưới mi mắt trái đang sụp xuống của [Smaug](../../main/S/Smaug.md)." bởi [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

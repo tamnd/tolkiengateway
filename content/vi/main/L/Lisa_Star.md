@@ -44,7 +44,7 @@ Kể từ [2008](../_/2008.md) Star dường như đã rút khỏi [Tolkien hi�
     - "Quenya Danh từ đại chúng và sở hữu cách bộ phận"
     - "Dự án thơ Gnomic" (với Andy Mariani)
 - [1995](../_/1995.md): [*Tyalië Tyelelliéva* 4](../T/Tyalië_Tyelelliéva_4.md)
-    - "Bản đồ cốc và nhẫn"
+    - "Cúp và Nhẫn Bản đồ"
     - "Danh sách từ người lùn"
     - "Các cổ ngữ của Erebor"
 - [1995](../_/1995.md): [*Tyalië Tyelelliéva* 5](../T/Tyalië_Tyelelliéva_5.md)
@@ -55,7 +55,7 @@ Kể từ [2008](../_/2008.md) Star dường như đã rút khỏi [Tolkien hi�
 - [1995](../_/1995.md): [*Tyalië Tyelelliéva* 6](../T/Tyalië_Tyelelliéva_6.md)
     - "Ngôn ngữ Ent"
     - "Ở đây, kia và Yon"
-    - "Glamarye: Tolkien và các Vua Cây"
+    - "Glammarye: Tolkien và các Vua Cây"
     - "Lege Artis"
     - "Giữa những cái cây"
 - [1995](../_/1995.md): [*Tyalië Tyelelliéva* 7](../T/Tyalië_Tyelelliéva_7.md)

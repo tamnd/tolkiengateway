@@ -44,7 +44,7 @@ Sau Cuộc chiến Nhẫn bốn hobbit quay trở lại Bree trên hành trình 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The West Gate is one of the two main entrances to Bree-town. It is a major hub for stable-master travel to northern <a href="../E/Eriador.md" title="Eriador">Eriador</a> locations.</dd></dl>
 

@@ -52,8 +52,8 @@ infobox:
 **Kết luận : Sur les Rivages de la Terre du Milieu**
 
 - Phụ lục
-- Bản tóm tắt âm mưu
-- Repères tiểu sử
+- Lý lịch âm mưu
+- Tiểu sử của Repères
 - Avant-propos des deux editions anglaises
 - Thư mục chọn lọc
 - Chỉ mục

@@ -134,7 +134,7 @@ Vai trò của ông vẫn để lại một điểm bất thường nhỏ trong 
 
 <dl><dd>In the <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (extended edition)</a>, <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> greets Fredegar Bolger at the <a href="../B/Bilbo&#39;s_Farewell_Party.md" title="Bilbo&#39;s Farewell Party">Farewell Party</a>. The audio commentary reveals that he is played by <a href="Fran_Walsh.md" title="Fran Walsh">Fran Walsh</a>&#39;s uncle Tom.</dd></dl>
 
-<b>2001-2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i>:</b>
+<b>2001-2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi đánh bài</a></i>:</b>
 
 <dl><dd>A Decipher card portrays Fatty Bolger by Norman Cates.</dd></dl>
 
@@ -142,7 +142,7 @@ Vai trò của ông vẫn để lại một điểm bất thường nhỏ trong 
 
 <dl><dd>A <i>Fredregar</i> Bolger lives at 10, <a href="../B/Bagshot_Row.md" title="Bagshot Row">Bagshot Row</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Fredegar is a non-playable character that can be found at <a href="../C/Crickhollow.md" title="Crickhollow">Crickhollow</a>. The player meets with him during Book I: &#34;Stirrings in the Darkness&#34; where the player first learns about Frodo having <a href="../T/The_One_Ring.md" title="The One Ring">the One Ring</a>.</dd></dl>
 

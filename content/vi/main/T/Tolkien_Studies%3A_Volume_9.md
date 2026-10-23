@@ -51,13 +51,13 @@ infobox:
 
 - Đánh giá sách
     - *[Tolkien và xứ Wales](Tolkien_and_Wales.md): Ngôn ngữ, văn học và bản sắc* của Carl Phelpstead, Marjorie Burns đánh giá
-    - *[Trung Địa và hơn thế nữa](../M/Middle-earth_and_Beyond.md): Các bài tiểu luận về thế giới của J.R.R. Tolkien*, do Kathleen Dubs và Janka Kascáková biên tập, John D. Rateliff xem xét
-    - *[The Ecological Augury in the Works of J.R.R. Tolkien](The_Ecological_Augury_in_the_Works_of_JRR_Tolkien.md)*, của Liam Campbell, được đánh giá bởi Kristine Larsen
+    - *[Trung Địa và hơn thế nữa](../M/Middle-earth_and_Beyond.md): Các bài tiểu luận về thế giới của J.R.R. Tolkien*, do Kathleen Dubs và Janka Kascáková biên tập, được John D. Rateliff biên tập
+    - *[The Ecological Augury in the Works of J.R.R. Tolkien](The_Ecological_Augury_in_the_Works_of_JRR_Tolkien.md)*, bởi Liam Campbell, được đánh giá bởi Kristine Larsen
     - *[Tolkien and the Study of His Sources](Tolkien_and_the_Study_of_His_Sources.md)*, do Jason Fisher biên tập, được Paul Edmund Thomas đánh giá
-    - *[Hình ảnh Tolkien](../P/Picturing_Tolkien.md): Tiểu luận về The Lord of the Rings Bộ ba phim* của Peter Jackson, do Janice M. Bogstad và Philip E. Kaveny biên tập, Anne C. Petty biên tập
-    - *[Chiếc nhẫn và cây thánh giá](The_Ring_and_the_Cross.md): Cơ đốc giáo và Chúa tể của những chiếc nhẫn*, do Paul E. Kerry biên tập và *[Ánh sáng vượt xa tất cả Bóng Tối](../L/Light_Beyond_All_Shadow.md): Trải nghiệm tôn giáo trong tác phẩm của Tolkien*, do Paul E. Kerry và Sandra Miesel biên tập, Jonathan Evans đánh giá
+    - *[Hình ảnh Tolkien](../P/Picturing_Tolkien.md): Các bài tiểu luận về The Lord of the Rings Bộ ba phim* của Peter Jackson, do Janice M. Bogstad và Philip E. Kaveny biên tập, Anne C. Petty biên tập
+    - *[ Nhẫn và cây thánh giá](The_Ring_and_the_Cross.md): Cơ đốc giáo và Chúa tể của những chiếc nhẫn*, do Paul E. Kerry biên tập và *[Ánh sáng vượt lên trên tất cả Bóng Tối](../L/Light_Beyond_All_Shadow.md): Trải nghiệm tôn giáo trong tác phẩm của Tolkien*, do Paul E. Kerry và Sandra Miesel biên tập, được Jonathan Evans đánh giá
 
-- David Bratman và Merlin DeTardo, "Công trình nghiên cứu Tolkien của năm 2009"
+- David Bratman và Merlin DeTardo, "Công việc của năm trong nghiên cứu Tolkien 2009"
 - Rebecca Epstein, Michael D.C. Drout, David Bratman, và Merlin DeTardo, "Thư mục (bằng tiếng Anh) cho năm 2010"
 
 ## Liên kết ngoài {#External_links}

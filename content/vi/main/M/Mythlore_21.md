@@ -46,7 +46,7 @@ infobox:
 #### Bài viết {#Articles}
 
 - Goselin, Peter Damien. “Hai khuôn mặt của Eve: Galadriel và Shelob trong vai các nhân vật hoạt hình.” 3-4.
-- Patterson, Nancy-Lou. “Guardaci Ben: Người phụ nữ nhìn xa trông rộng trong C.S. Lewis’ Biên niên sử Narnia và sức mạnh ghê tởm đó (Phần 1).” 6-10.
+- Patterson, Nancy-Lou. “Guardaci Ben: Người phụ nữ có tầm nhìn trong C.S. Lewis' Biên niên sử Narnia và sức mạnh ghê tởm đó (Phần 1).” 6-10.
 - Chapman, Edgar L. “Các nhân vật hoạt hình trong một vở hài kịch ma quỷ trong truyền thống của Lewis: Cỗ xe lửa của E.E.Y. Hales.” 19-23.
 - McGillis, Roderick F. “”Nếu bạn gọi tôi là bà, điều đó sẽ làm được”. 27-28.
 - Wolfshohl, Clarence. “Khu rừng bên kia thế giới của William Morris: Thế giới Victoria Vs. Sự vĩnh cửu thần thoại.” 29-32.

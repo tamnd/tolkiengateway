@@ -44,8 +44,8 @@ Bắt đầu từ số này, tạp chí bây giờ có phụ đề là "Nhật k
 - Kỷ niệm:
     - Barbara Reynolds được các biên tập viên VII ghi nhớ
     - David Gresham được Abigail Santamaria nhớ đến
-    - David Neuhouser được Jerry Root nhớ đến
-    - Bruce L. Edwards được Jerry Root nhớ đến
+    - David Neuhouser được Jerry nhớ đến Gốc
+    - Bruce L. Edwards được Jerry nhớ đến Gốc
 - "C.S. Lewis Thư chưa công bố trong tiếng Anh cổ"
     - Bởi: George Musacchio
 - "'Nhận thức được vẻ đẹp đáng yêu của tính cách con người thông qua tất cả các sắc thái sai lầm đương thời': George MacDonald, Lady Byron và Annabella Milbanke đáng chú ý"

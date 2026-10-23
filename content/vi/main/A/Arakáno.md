@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aracáno"
 ---
 
-Chuyển hướng tới [Aracáno](Aracáno.md).
+Chuyển hướng đến [Aracáno](Aracáno.md).

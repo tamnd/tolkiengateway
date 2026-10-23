@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aratar"
 ---
 
-Chuyển hướng tới [Aratar](../A/Aratar.md).
+Chuyển hướng đến [Aratar](../A/Aratar.md).

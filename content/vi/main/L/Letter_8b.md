@@ -31,7 +31,7 @@ infobox:
 
 [Christopher Tolkien](../C/Christopher_Tolkien.md), lúc đó 11 tuổi, đang đi nghỉ ở Devon cùng với gia đình bạn bè Dorothy và Charlie Moore. Tolkien viết rằng anh ấy rất vui vì thời tiết cho kỳ nghỉ đến nay vẫn tốt, trái ngược với thời tiết ở London. Anh ấy đề cập đến việc dành thời gian với bạn bè John Binney và [C.L. Wrenn](../C/C.L._Wrenn.md), đồng thời báo cáo rằng [Priscilla](../P/Priscilla_Tolkien.md) đã bị cảm lạnh từ [John](../J/John_Tolkien.md).
 
-Tolkien đề cập đến buổi phát sóng của BBC về bản dịch <i><a class="mw-redirect mw-disambig" href="../P/Pearl.md" title="Pearl">Pearl</a></i>của ông, mà ông nói là đã được thực hiện rất tệ. Ông cũng nói rằng *[The Hobbit](../T/The_Hobbit.md)* "gần như đã hoàn thành và các nhà xuất bản đang kêu gọi điều đó".
+Tolkien đề cập đến buổi phát sóng BBC bản dịch <i><a class="mw-redirect mw-disambig" href="../P/Pearl.md" title="Pearl">Pearl</a></i>của ông, mà ông cho rằng đã được thực hiện một cách tồi tệ. Ông cũng nói rằng *[The Hobbit](../T/The_Hobbit.md)* "gần như đã hoàn thành và các nhà xuất bản đang kêu gọi điều đó".
 
 <br>
 

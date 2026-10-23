@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hröa"
 ---
 
-Chuyển hướng đến [Hröa](Hröa.md).
+Chuyển hướng tới [Hröa](Hröa.md).

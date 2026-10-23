@@ -37,7 +37,7 @@ Tại Mithe có một bến đỗ tên là [Mithe Steps](Mithe_Steps.md),<sup id
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The river Shirebourn itself is currently inaccessible, as the <a href="../S/Southfarthing.md" title="Southfarthing">Southfarthing</a> of the <a class="mw-redirect" href="../S/Shire.md" title="Shire">Shire</a> is not present in the game. The Mithe however can be accessed from the <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a> side.</dd></dl>
 

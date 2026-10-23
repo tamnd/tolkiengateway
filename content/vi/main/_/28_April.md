@@ -71,7 +71,7 @@ Sự kiện xảy ra vào ngày 28 tháng 4.
 - **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Deirdre Levinson](<../L/Letter_to_Deirdre_Levinson_(28_April_1956).md>).
 - **[1961](1961.md)** - Diễn viên [Jamieson Price](../J/Jamieson_Price.md) ra đời.
 - **[1965](1965.md)** - Diễn viên [Steven Jay Blum](../S/Steven_Jay_Blum.md) ra đời.
-- **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho John Leyerle](../L/Letter_to_John_Leyerle.md).
+- **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho John Leyerle](../L/Letter_to_John_Leyerle.md).
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho bà Robertson](../L/Letter_to_Mrs_Robertson.md).
 - **[1979](1979.md)** - *[One Ring to Bind Them All: Tolkien's Mythology](../O/One_Ring_to_Bind_Them_All%253A_Tolkien's_Mythology.md)* được xuất bản.
 - **[2001](2001.md)** - Diễn viên [Paul Daneman](../P/Paul_Daneman.md) qua đời.

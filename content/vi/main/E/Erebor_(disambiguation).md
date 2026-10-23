@@ -24,7 +24,7 @@ images:
 
 ### Trò chơi {#Games}
 
-- *[Erebor - The Lonely Mountain](<Erebor_(The_One_Ring_role-playing_game).md>)*, phần bổ sung cho [The One Ring (trò chơi nhập vai)](<../T/The_One_Ring_(role-playing_game).md>)
+- *[Erebor - The Lonely Mountain](<Erebor_(The_One_Ring_role-playing_game).md>)*, phần bổ sung cho [Chiếc nhẫn duy nhất (trò chơi nhập vai)](<../T/The_One_Ring_(role-playing_game).md>)
 
 ### Âm nhạc {#Music}
 

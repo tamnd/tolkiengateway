@@ -54,7 +54,7 @@ infobox:
 - Sas, Katherine. "Cảm giác về một góc nhìn đen tối hơn: Cách bọn Marauders truyền tải 'Ấn tượng về chiều sâu' của Tolkien trong *Harry Potter và Tù nhân ngục Azkaban*."
 - Sợi dây, Emily. "Người máy Dobby: Khoa học viễn tưởng trong *Harry Potter*."
 - Biểu đồ, Liam. “'Tôi là người đàn ông nào?' Hành trình của Người anh hùng, Sự khởi đầu của sự cá nhân hóa và *Taran Wanderer*."
-- Van Eecke, Christophe. "Thổi cối: Nghi thức của người đàn ông trong *Stag Boy*của William Rayner."
+- Van Eecke, Christophe. "Thổi xác chết: Nghi thức của người đàn ông trong *Stag Boy*của William Rayner."
 - Martin, Tiffany Brooke. “Cái chết, hy vọng và sự trọn vẹn trong truyện cổ tích của Owen Barfield.”
 
 #### Tính năng {#Features}

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-ings"
 ---
 
-Chuyển hướng tới [-ings](-ings.md).
+Chuyển hướng đến [-ings](-ings.md).

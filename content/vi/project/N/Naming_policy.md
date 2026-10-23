@@ -20,7 +20,7 @@ Thông thường, tiêu đề là tên của khái niệm/chủ đề của bài
 
 ## Hướng dẫn đặt tên {#Naming_guidelines}
 
-Khi đặt tên cho bất kỳ bài viết nào, vui lòng lưu ý các nguyên tắc sau (<a class="extiw" href="http://en.wikipedia.org/wiki/Wikipedia:Article_titles" title="wikipedia:Wikipedia:Article titles">tương tự như các nguyên tắc được sử dụng trên Wikipedia</a>):
+Khi đặt tên bất kỳ bài viết nào, vui lòng lưu ý các nguyên tắc sau (<a class="extiw" href="http://en.wikipedia.org/wiki/Wikipedia:Article_titles" title="wikipedia:Wikipedia:Article titles">tương tự như các nguyên tắc được sử dụng trên Wikipedia</a>):
 
 - **Khả năng nhận biết** - tiêu đề của chủ đề phải dễ dàng được nhận ra đối với người quen thuộc với lĩnh vực chủ đề. Ví dụ: "[Gondolin](../../main/G/Gondolin.md)" dễ nhận biết hơn nhiều so với "Lothengriol";
 - **Sự ngắn gọn** - nên càng ngắn càng tốt. Ví dụ: "[Gandalf](../../main/G/Gandalf.md)" chứ không phải "Gandalf the Grey";
@@ -33,19 +33,19 @@ Nếu có nhiều hơn một khái niệm cùng tên, vui lòng tham khảo ph�
 
 ## Quy ước đặt tên cụ thể {#Specific_naming_conventions}
 
-- **Mạo từ xác định/không xác định** - tránh mạo từ xác định ("the") và mạo từ không xác định ("a"/"an") trừ khi đề cập đến tên sách, bộ truyện, phim, v.v. Ví dụ: "[Đoàn Hộ Nhẫn](../../main/F/Fellowship_of_the_Ring.md)" là mạo từ cho nhóm nhân vật, trong khi "<i><a href="../../main/T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring"><b>The</b> Đoàn Hộ Nhẫn</a></i>" là bài viết mô tả tập đầu tiên của *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*. Tất nhiên, vẫn có một số trường hợp ngoại lệ, như "[Chiếc nhẫn duy nhất](../../main/T/The_One_Ring.md)" hoặc "[the Shire](../../main/T/The_Shire.md)".
+- **Mạo từ xác định/không xác định** - tránh mạo từ xác định ("the") và mạo từ không xác định ("a"/"an") trừ khi đề cập đến tên sách, bộ truyện, phim, v.v. Ví dụ: "[Đoàn Hộ Nhẫn](../../main/F/Fellowship_of_the_Ring.md)" là mạo từ cho nhóm nhân vật, trong khi "<i><a href="../../main/T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring"><b>The</b> Đoàn Hộ Nhẫn</a></i>" là bài viết mô tả tập đầu tiên của *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*. Tất nhiên, vẫn có một số trường hợp ngoại lệ, như "[the One Nhẫn](../../main/T/The_One_Ring.md)" hoặc "[the Shire](../../main/T/The_Shire.md)".
 - **Nhóm** - trái với chính sách của Wikipedia, tên của nhóm phải ở số nhiều thay vì số ít. Ví dụ: "[Tiên tộc](../../main/E/Elves.md)". Tuy nhiên, nếu số nhiều bị tranh chấp - đặc biệt trong trường hợp các từ [Elvish](../../main/E/Elvish.md) - thì chúng phải ở số ít, ví dụ: "[Mallorn](../../main/M/Mallorn.md)".
 - **Hình ảnh** - xem [Chính sách đặt tên hình ảnh](../I/Image_policy.md).
 - **Danh sách** - danh sách có thể khó duy trì. Tuy nhiên, nếu bạn quyết định thiết lập một danh sách thì chúng nên được đặt tên là "Danh sách ...";
 - **Người trong thế giới thực** - người thật nên được liệt kê theo cái tên mà họ được biết đến nhiều nhất, tốt nhất không nên dùng bút danh.
-- **Trò chơi điện tử** - nếu tiêu đề đã được sử dụng ở nơi khác thì tiêu đề bài viết phải có "(trò chơi điện tử)" ở cuối, ví dụ: "[The Lord of the Rings: The Two Towers (trò chơi điện tử)](<../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>)". Nếu tên của trò chơi điện tử không được sử dụng ở nơi khác thì "(trò chơi điện tử)" là không cần thiết, ví dụ: "[The Lord of the Rings: War in the North](../../main/T/The_Lord_of_the_Rings%253A_War_in_the_North.md)".
+- **Trò chơi điện tử** - nếu tiêu đề đã được sử dụng ở nơi khác thì tiêu đề bài viết phải có "(trò chơi điện tử)" ở cuối, ví dụ: "[The Lord of the Rings: The Two Towers (trò chơi điện tử)](<../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>)". Nếu tên trò chơi điện tử không được sử dụng ở nơi khác thì "(trò chơi điện tử)" là không cần thiết, ví dụ: "[The Lord of the Rings: War in the North](../../main/T/The_Lord_of_the_Rings%253A_War_in_the_North.md)".
 - **Năm** - năm trong thế giới thực chỉ đơn giản là năm, chẳng hạn như [2014](../../main/_/2014.md). Đối với các năm trong vũ trụ, tiêu đề phải là độ tuổi theo sau bởi năm, chẳng hạn như "[Năm của Cây 1250](../../main/Y/Year_of_the_Trees_1250.md)", "[Tuổi thứ hai 750](../../main/S/Second_Age_750.md)" và "[Kỷ Đệ Tam 2043](../../main/T/Third_Age_2043.md)".
 
 ## Định hướng {#Disambiguation}
 
 <table class="noprint" style="float: right; border:var(--tg-border-base); background:var(--tg-color-surface-2); margin: .3em .3em .3em 1em; padding: 10px; text-align: center;border-radius:var(--tg-border-radius-large);"><tbody><tr><th style="border: none; background: transparent;" class="plainlist"><small>Shortcut:<br/><a class="mw-redirect" href="../D/DISAMBIG.md" title="Tolkien Gateway:DISAMBIG">TG:DISAMBIG</a></small></th></tr></tbody></table>
 
-Định hướng là quá trình giải quyết sự mơ hồ giữa hai hoặc nhiều khái niệm có tên giống nhau. Bởi vì một số tên nhất định có thể được sử dụng nhiều lần nên chúng tôi có chính sách phân biệt để quản lý việc này.
+Định hướng là quá trình giải quyết sự mơ hồ giữa hai hoặc nhiều khái niệm có tên giống nhau. Bởi vì một số tên nhất định có thể được sử dụng nhiều lần nên chúng tôi có chính sách định hướng để quản lý việc này.
 
 ### Các phương pháp định hướng {#Methods_of_disambiguation}
 

@@ -24,7 +24,7 @@ Trong bài phát biểu của ông Tolkien nhận xét rằng vì ông chưa bao
 
 > *Mười bốn năm nữa đã trôi qua mà tôi vẫn chẳng có gì đặc biệt để nói. Đó là, không có gì thuộc loại phù hợp với lễ nhậm chức - theo như tôi có thể đánh giá dựa trên những gì tôi đã đọc: sản phẩm của những bộ óc lạc quan hơn, hoặc hiệu quả và uy quyền hơn của tôi.* <br>
 >
-> *Chẩn đoán sai sót và tự tin đưa ra phương pháp chữa trị; tầm nhìn rộng, sự khảo sát bậc thầy; kế hoạch và lời tiên tri: những điều này chưa bao giờ nằm trong kế hoạch của tôi.* <br>
+> *Chẩn đoán sai lầm và tự tin đưa ra phương pháp chữa trị; tầm nhìn rộng, sự khảo sát bậc thầy; kế hoạch và lời tiên tri: những điều này chưa bao giờ nằm trong kế hoạch của tôi.* <br>
 >
 > *Tôi luôn thà cố gắng vắt nước cốt ra khỏi một câu, hoặc khám phá hàm ý của một từ hơn là cố gắng tóm tắt một giai đoạn trong một bài giảng, hoặc tóm tắt một nhà thơ trong một đoạn văn. Và tôi sợ rằng điều tôi thích làm lại chính là điều tôi vẫn thường làm.*
 

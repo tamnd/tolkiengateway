@@ -32,7 +32,7 @@ Trang fansite [Thelandofshadow.com](../T/Thelandofshadow.com.md) đã lấy mộ
 </p>
 </blockquote>
 
-Thông tin từ Vùng đất Bóng Tối đã được đưa vào dưới dạng sửa đổi đôi chút vào chiếc quạt *Mordor Gazetteer* của nhóm mô-đun quạt Middle-earth Role Playing (MERP) trong đó tên của dòng sông bị sai chính tả *Sirilith*.
+Thông tin từ Vùng đất của Bóng Tối đã được đưa vào dưới dạng sửa đổi đôi chút vào chiếc quạt *Mordor Gazetteer* của nhóm mô-đun quạt Middle-earth Role Playing (MERP) trong đó tên của dòng sông bị sai chính tả *Sirilith*.
 
 ## Từ nguyên {#Etymology}
 

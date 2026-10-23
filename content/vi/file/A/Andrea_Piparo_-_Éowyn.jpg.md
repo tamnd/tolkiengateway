@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Éowyn](../../main/_/Éowyn.md)" của [Andrea Piparo](../../category/I/Images_by_Andrea_Piparo.md) cho [Cuộc chiến Nhẫn: Trò chơi bài](../../main/W/War_of_the_Ring%253A_The_Card_Game.md)<i></i>
+"[Éowyn](../../main/_/Éowyn.md)" của [Andrea Piparo](../../category/I/Images_by_Andrea_Piparo.md) cho [War of the Ring: The Card Game](../../main/W/War_of_the_Ring%253A_The_Card_Game.md)<i></i>
 
 ## Giấy phép {#Licensing}
 

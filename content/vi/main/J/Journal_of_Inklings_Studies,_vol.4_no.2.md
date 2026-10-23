@@ -34,7 +34,7 @@ infobox:
 
 - Bài viết
     - [J.R.R. Tolkien](J.R.R._Tolkien.md), "Sách Giô-na"
-    - Brendan N. Wolfe, "Tolkien Jonah"
+    - Brendan N. Wolfe, "Tolkien's Jonah"
     - Leslie Baynes, "C. S. Lewis Việc sử dụng Kinh thánh trong Lập luận 'Kẻ nói dối, Kẻ mất trí, Chúa'"
     - Stratford Caldecott, "Ánh sáng mới. Triết lý sáng tạo của Tolkien trong The Silmarillion"
     - Bruce R. Johnson, "Kinh thánh, bối cảnh và khán giả trong các cuộc nói chuyện của RAF C. S. Lewis"

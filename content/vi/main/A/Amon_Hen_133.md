@@ -74,7 +74,7 @@ infobox:
     - Bởi: Sarah Mackie
 - Máy ép nhỏ
     - Bởi: [Gary Hunnewell](../S/Sumner_Gary_Hunnewell.md)
-- Truyện dân ca
+- Truyện dân gian
 - Ủy ban
 - Ghi chú dành cho người đóng góp
 

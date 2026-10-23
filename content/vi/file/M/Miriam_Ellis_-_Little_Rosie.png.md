@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Chi tiết bức tranh "[Yule at Bag End, 1427](Miriam_Ellis_-_Yule_at_Bag_End,_1427.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), miêu tả [Rose Gardner](../../main/R/Rose_Gardner.md)
+Chi tiết bức tranh "[Yule at Bag End, 1427](Miriam_Ellis_-_Yule_at_Bag_End,_1427.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), mô tả [Rose Gardner](../../main/R/Rose_Gardner.md)
 
 ## Giấy phép {#Licensing}
 

@@ -70,7 +70,7 @@ Có thể những sinh vật này có liên quan đến họ dế Gryllidae.<sup
 
 ## Liên kết ngoài {#External_links}
 
-- <cite class="citation cite-web"><span class="cite-web-author"><a href="../J/Jason_Fisher.md" title="Jason Fisher">Jason Fisher</a> (16 tháng 11 năm 2011)</span>. <span class="cite-web-article"><a class="external text" href="http://lingwe.blogspot.com/2011/11/beware-neekerbreekers.html" rel="noreferrer noopener" target="_blank">"Hãy coi chừng lũ Neekerbreekers"</a></span>. <span class="cite-web-website"><a class="external text" href="http://lingwe.blogspot.com" rel="noreferrer noopener" target="_blank">Lingwë - Suy nghĩ của một con cá</a></span>. <span class="cite-web-accessed">Truy cập ngày 19 tháng 11 năm 2011</span></cite>
+- <cite class="citation cite-web"><span class="cite-web-author"><a href="../J/Jason_Fisher.md" title="Jason Fisher">Jason Fisher</a> (16 tháng 11 năm 2011)</span>. <span class="cite-web-article"><a class="external text" href="http://lingwe.blogspot.com/2011/11/beware-neekerbreekers.html" rel="noreferrer noopener" target="_blank">"Hãy coi chừng lũ Neekerbreeker"</a></span>. <span class="cite-web-website"><a class="external text" href="http://lingwe.blogspot.com" rel="noreferrer noopener" target="_blank">Lingwë - Suy nghĩ của một con cá</a></span>. <span class="cite-web-accessed">Truy cập ngày 19 tháng 11 năm 2011</span></cite>
 
 <span></span>
 

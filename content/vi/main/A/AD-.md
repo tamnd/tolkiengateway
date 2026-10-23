@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "AD"
 ---
 
-Chuyển hướng tới [AD](AD.md).
+Chuyển hướng đến [AD](AD.md).

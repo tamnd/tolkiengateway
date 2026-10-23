@@ -32,7 +32,7 @@ infobox:
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Trận đấu kinh điển vì số phận của [Trung Địa](../M/Middle-earth.md)! Trong The Lord of the Rings - Đấu tay đôi vì Trung Địa, hai người chơi đối đầu để quyết định số phận của Trung Địa. Một người chơi là hiện thân của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md), tìm cách bảo vệ các dân tộc tự do và tiêu diệt [One Ring](../O/One_Ring.md), trong khi người còn lại đóng vai [Sauron](../S/Sauron.md), cố gắng bắt giữ [Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) và áp đảo Trung Địa bằng lũ tà ác của mình.
+Trận đấu kinh điển vì số phận của [Trung Địa](../M/Middle-earth.md)! Trong The Lord of the Rings - Đấu tay đôi vì Trung Địa, hai người chơi đối đầu để quyết định số phận của Trung Địa. Một người chơi là hiện thân của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md), tìm cách bảo vệ các dân tộc tự do và tiêu diệt [Một Nhẫn](../O/One_Ring.md), trong khi người còn lại đóng vai [Sauron](../S/Sauron.md), cố gắng bắt giữ [Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) và áp đảo Trung Địa bằng lũ tà ác của mình.
 
 <br>
 

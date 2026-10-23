@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Súrion"
 ---
 
-Chuyển hướng tới [Tar-Súrion](../T/Tar-Súrion.md).
+Chuyển hướng đến [Tar-Súrion](../T/Tar-Súrion.md).

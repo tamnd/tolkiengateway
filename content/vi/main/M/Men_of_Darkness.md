@@ -26,7 +26,7 @@ Những dân tộc sau đây có thể được coi là Con Người trong số 
 - [Đen người Númenor](../B/Black_Númenóreans.md) và [Hải tặc Umbar](../C/Corsairs_of_Umbar.md)
 - [Nửa troll](../H/Half-trolls.md)
 - [Haradrim](../H/Haradrim.md)
-- [Cho vay khó khăn](../D/Dunlendings.md)
+- [Dunlending](../D/Dunlendings.md)
 - [Hill-men](../H/Hill-men.md)
 
 Trong ghi chú về cái chết của [Baldor](../B/Baldor.md), Tolkien giải thích:

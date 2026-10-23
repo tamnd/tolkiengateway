@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings Online - Minas Tirith Map.jpg"
 ---
 
-Chuyển hướng tới [Tệp:The Lord of the Rings Trực tuyến - Minas Tirith Map.jpg](The_Lord_of_the_Rings_Online_-_Minas_Tirith_Map.jpg.md).
+Chuyển hướng đến [Tệp:The Lord of the Rings Online - Minas Tirith Map.jpg](The_Lord_of_the_Rings_Online_-_Minas_Tirith_Map.jpg.md).

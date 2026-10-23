@@ -27,7 +27,7 @@ images:
 
 Đĩa đầu tiên chứa phiên bản mở rộng của phim với phần bình luận bằng âm thanh sau:
 
-- [Peter Jackson](../P/Peter_Jackson.md), [Fran Walsh](../F/Fran_Walsh.md) và [Philippa Boyens](../P/Philippa_Boyens.md)
+- [Peter Jackson](../P/Peter_Jackson.md), [Fran Walsh](../F/Fran_Walsh.md)và [Philippa Boyens](../P/Philippa_Boyens.md)
 - Nhóm thiết kế
 - Đội ngũ sản xuất và hậu kỳ
 - Dàn diễn viên
@@ -41,13 +41,13 @@ images:
 
 ### Cảnh mở rộng {#Extended_Scenes}
 
-- 1\. Việc tìm thấy chiếc nhẫn
+- 1\. Việc tìm thấy Nhẫn
 - 3\. Đường tới Isengard
-- 5\. Trở về Edoras
+- 5\. Quay lại Edoras
 - 8\. Palantír
 - 11\. Minas Tirith
 - 14\. "Hít thở sâu trước khi lao xuống"
-- 18\. Osgiliath Đã xâm chiếm
+- 18\. Osgiliath Bị xâm chiếm
 - 20\. Quyết định của Théoden
 - 21\. Sự sụp đổ của Osgiliath
 - 29\. Đang tập trung tại Dunharrow
@@ -65,7 +65,7 @@ images:
 - 37\. Hải tặc Umbar
 - 39\. Sự dũng cảm đơn giản của Merry
 - 41\. Ngôi mộ của những người quản lý
-- 45\. Giờ của Phù Thủy Vua
+- 45\. Giờ của Vua Phù thủy
 - 56\. Ngôi nhà chữa bệnh
 - 60\. Aragorn Làm chủ Palantír
 - 61\. Thuyền trưởng và Bà Trắng
@@ -85,7 +85,7 @@ images:
 - 63\. Vùng đất Bóng Tối
 - 68\. Núi Doom
 
-## Các Phụ lục: Phần 5 - Phần Cuộc chiến Nhẫn (đĩa 3) {#The_Appendices:_Part_Five_-_The_War_of_the_Ring_(disc_3)}
+## Phần Phụ lục: Phần thứ năm - The War of the Ring (đĩa 3) {#The_Appendices:_Part_Five_-_The_War_of_the_Ring_(disc_3)}
 
 - Giới thiệu từ Peter Jackson
 - "J.R.R. Tolkien: Phim tài liệu về di sản của Trung Địa"
@@ -93,16 +93,16 @@ images:
 - Khái niệm bị bỏ rơi: [Aragorn](../A/Aragorn.md) trận chiến [Sauron](../S/Sauron.md)
 - Phim tài liệu "Thiết kế Trung Địa"
 - "[Những nhân vật lớn](../B/Bigatures.md)" Phim tài liệu
-- Phim tài liệu "Weta Workshop"
+- "Weta Workshop" Phim tài liệu
 - Phim tài liệu "Thiết kế trang phục"
 - Phòng trưng bày "Các dân tộc ở Trung Địa" có âm thanh
 - Phòng trưng bày "The Realms Of Middle-Earth" có âm thanh
 - Phòng trưng bày "Thu nhỏ" có âm thanh
 - Phim tài liệu "Ngôi nhà của chúa tể ngựa"
-- Bản đồ tương tác"Atlas Trung Địa: Truy tìm hành trình của tình bằng hữu"
+- Bản đồ tương tác "Atlas Trung Địa: Truy tìm hành trình của tình bằng hữu"
 - "[New Zealand dưới dạng Trung Địa](../N/New_Zealand_as_Middle-earth.md)" bản đồ tương tác với cảnh quay tại địa điểm
 
-## Các Phụ lục: Phần Sáu - Một thời đại trôi qua (đĩa 4) {#The_Appendices:_Part_Six_-_The_Passing_of_an_Age_(disc_4)}
+## Phần Phụ lục: Phần thứ sáu - Sự trôi qua của một thời đại (đĩa 4) {#The_Appendices:_Part_Six_-_The_Passing_of_an_Age_(disc_4)}
 
 - Lời giới thiệu của [Elijah Wood](../E/Elijah_Wood.md), [Sean Astin](../S/Sean_Astin.md), [Billy Boyd](../B/Billy_Boyd.md), [Dominic Monaghan](../D/Dominic_Monaghan.md)
 - Phim tài liệu "Máy ảnh ở Trung Địa"

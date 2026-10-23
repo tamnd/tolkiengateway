@@ -34,12 +34,12 @@ Trong [Quenya](../Q/Quenya.md)/[Qenya](../Q/Qenya.md), từ "bướm" là *wilwa
 
 Các từ *wilwarindëa* và *wilwarindië* (dạng [Qenya](../Q/Qenya.md) cũ hơn là *wilwarindeën*<sup id="cite_ref-matc_8-0" class="reference"><a href="#cite_note-matc-8">[6]</a></sup>) là dạng số ít và số nhiều tương ứng có nghĩa là "giống như một *wilwarin* hoặc con bướm".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[7]</a></sup> Trong Qenya cũng có từ *wilwarindon* ("như một con bướm").<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[8]</a></sup>
 
-Các từ này có cùng gốc (*wil-*, "bay, lơ lửng trong không khí") như Q. *[vilya](<../V/Vilya_(word).md>)*/S. *[gwilith](../G/Gwilith.md)* "air", và tên của Ring of Air, *[Vilya](../V/Vilya.md)*.<sup id="cite_ref-ety_6-1" class="reference"><a href="#cite_note-ety-6">[4]</a></sup>
+Các từ này có cùng gốc (*wil-*, "bay, lơ lửng trong không khí") như Q. *[vilya](<../V/Vilya_(word).md>)*/S. *[gwilith](../G/Gwilith.md)* "air" và tên của Nhẫn của Air, *[Vilya](../V/Vilya.md)*.<sup id="cite_ref-ety_6-1" class="reference"><a href="#cite_note-ety-6">[4]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Mặc dù không được đề cập cụ thể nhưng có thể những con bướm này, giống như các sinh vật khác của Mirkwood, đã bị nhiễm <a href="../S/Shadow.md" title="Shadow">Bóng Tối</a> của <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a> mà chúng có màu này.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Mặc dù không được đề cập cụ thể, nhưng có thể những con bướm này, giống như các sinh vật khác của Mirkwood, đã bị nhiễm <a href="../S/Shadow.md" title="Shadow">Bóng Tối</a> của <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a> mà chúng có màu này.</span>
 </li>
 <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> liên kết nó với <a class="extiw" href="http://en.wikipedia.org/wiki/Cassiopeia_(constellation)" title="wikipedia:Cassiopeia (constellation)">Cassiopeia</a></span>
 </li>

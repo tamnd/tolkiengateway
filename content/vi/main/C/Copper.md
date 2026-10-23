@@ -28,7 +28,7 @@ Từ gốc [RUN](../R/RUN.md) có nghĩa là "đỏ, rực sáng" xuất hiện 
 
 <dl><dd>Copper is given the <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> name <i>Paer</i> in the book. It was common in <a href="../E/Eriador.md" title="Eriador">Eriador</a>, especially <a href="../R/Rhudaur.md" title="Rhudaur">Rhudaur</a>. In <a href="../M/Moria.md" title="Moria">Moria</a> it was used to line basins and waterthroughs, while Men used it for pots, pans, gutters, roofing, wiring and even statues. In <a href="../T/Tharbad.md" title="Tharbad">Tharbad</a> dwarf-sourced copper was used for coinage before the wars with <a href="../A/Angmar.md" title="Angmar">Angmar</a>. Only the <a href="../N/Noldor.md" title="Noldor">Noldor</a> are noted as regarding the metal highly.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Copper ore can be mined by apprentice prospectors in <a href="../S/Swanfleet.md" title="Swanfleet">Swanfleet</a>, <a href="../B/Blue_Mountains.md" title="Blue Mountains">Ered Luin</a>, <a href="../T/The_Shire.md" title="The Shire">the Shire</a>, and <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 

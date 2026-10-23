@@ -45,10 +45,10 @@ infobox:
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Danielle_Richards&amp;action=edit&amp;redlink=1" title="Danielle Richards (page does not exist)">Danielle Richards</a>: "J.R.R. Tolkien: Một nhịp điệu may mắn"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Deanna_Delmar_Evans&amp;action=edit&amp;redlink=1" title="Deanna Delmar Evans (page does not exist)">Deanna Delmar Evans</a>: "'Lay of Lúthien' chưa hoàn thành củaTolkien và bản tiếng Anh trung cổ Sir Orfeo"
 - [Bradford Lee Eden](../B/Bradford_Lee_Eden.md): "Các dòng Elvish Bài hát và Tiếng nói: Chủ nghĩa Trung cổ thời Victoria, Âm nhạc và Tolkien"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Keith_W._Jensen&amp;action=edit&amp;redlink=1" title="Keith W. Jensen (page does not exist)">Keith W. Jensen</a>: "Sự bất hòa trong chủ đề thiêng liêng: Vấn đề về ý chí tự do trong Silmarillion của Tolkien"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Keith_W._Jensen&amp;action=edit&amp;redlink=1" title="Keith W. Jensen (page does not exist)">Keith W. Jensen</a>: "Sự bất hòa trong chủ đề thần thánh: Vấn đề về ý chí tự do trong Silmarillion của Tolkien"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Amy_M._Amendt-Raduege&amp;action=edit&amp;redlink=1" title="Amy M. Amendt-Raduege (page does not exist)">Amy M. Amendt-Raduege</a>: "'Xứng đáng là một bài hát': Ký ức, Cái chết và Âm nhạc"
 - [Amy H. Sturgis](../A/Amy_H._Sturgis.md): "'Tolkien là Gió và Con Đường': Giá trị giáo dục của Tolkien-Âm nhạc Thế giới đầy cảm hứng"
-- [David Bratman](../D/David_Bratman.md): "Liquid Tolkien: Âm nhạc, Tolkien, Trung Địa và Âm nhạc khác"
+- [David Bratman](../D/David_Bratman.md): "Chất lỏng Tolkien: Âm nhạc, Tolkien, Trung Địa và Âm nhạc khác"
 - [Anthony S. Burdge](../A/Anthony_S._Burdge.md): "Nghệ thuật biểu diễn trong đường hầm: Người sáng tạo âm nhạc phụ trong truyền thống Tolkien"
 
 ## Liên kết ngoài {#External_links}

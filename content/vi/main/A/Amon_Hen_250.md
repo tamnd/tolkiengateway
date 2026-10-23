@@ -58,7 +58,7 @@ infobox:
     - Bởi: Ian Collier
 - Tất cả Bran
     - Bởi: Ian Spittlehouse
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill/Verne Walker
 - Quảng cáo: triển lãm *Con đường phía trước đã đi*
 - Một chút trường học cũ

@@ -97,7 +97,7 @@ Nghĩa đen của *Ethraid Engrin* là "các khúc cạn bằng sắt" (*[ethrai
 		</li>
 </ul>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i></b>
 
 <dl><dd>Two different versions of the Fords exist in the game. When approached from the direction of <a href="../D/Dunland.md" title="Dunland">Dunland</a> in the west, the Fords are held by the <a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a> forces led by <a href="../G/Grimbold.md" title="Grimbold">Grimbold</a> in anticipation of the <a href="First_Battle_of_the_Fords_of_Isen.md" title="First Battle of the Fords of Isen">First Battle of the Fords of Isen</a>, in which the player participates. When approached from the direction of <a href="../W/Westfold.md" title="Westfold">Westfold</a> in the east, the Fords are in the aftermath of the <a href="../S/Second_Battle_of_the_Fords_of_Isen.md" title="Second Battle of the Fords of Isen">Second Battle of the Fords of Isen</a>, with all Rohirrim defenders scattered or slain and <a href="../D/Dunlendings.md" title="Dunlendings">Dunlending</a> looters searching the bodies of the fallen.</dd></dl>
 

@@ -49,7 +49,7 @@ infobox:
 - [2009](../_/2009.md): <i><a href="../T/Tolkien_Studies%253A_Volume_6.md" title="Tolkien Studies: Volume 6"><i>Tolkien Nghiên cứu</i>: Tập 6</a></i>
     - "J.R.R. Tolkien và Kẻ lang thang: Từ phiên bản đến ứng dụng"
 - [2018](../_/2018.md): <i><a href="../T/Tolkien_Studies%253A_Volume_15.md" title="Tolkien Studies: Volume 15"><i>Tolkien Nghiên cứu</i>: Tập 15</a></i>
-    - "Tolkien trong Oxford' (BBC, 1968): Một cuộc tái thiết"
+    - "Tolkien trong Oxford' (BBC, 1968): Một sự tái thiết"
 - [2022](../_/2022.md): *[The Great Tales Never End](../T/The_Great_Tales_Never_End.md)*
     - "Một cột mốc quan trọng trong lịch sử BBC? Vở kịch trên đài phát thanh 1955-56 của The Lord of the Rings"
 - [2026](../_/2026.md): *[J.R.R. Tolkien and G.B. Smith: With Wind in our Ears](../J/J.R.R._Tolkien_and_G.B._Smith%253A_With_Wind_in_our_Ears.md)*

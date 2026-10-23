@@ -259,7 +259,7 @@ Trong những bản thảo sớm nhất của *[The Lord of the Rings](../T/The_
 
 <dl><dd>Balin is omitted. <a href="../T/Thorin.md" title="Thorin">Thorin Oakenshield</a> only travels with an unnamed guard and the princess of Dale.<sup id="cite_ref-Deitch_26-0" class="reference"><a href="#cite_note-Deitch-26">[24]</a></sup></dd></dl>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (1977 film)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>Balin&#39;s voice is provided by <a href="../D/Don_Messick.md" title="Don Messick">Don Messick</a>. Apart from Thorin, he is one of only three of the other Dwarves who speaks with any regularity (<a href="../D/Dori.md" title="Dori">Dori</a> and <a href="Bombur.md" title="Bombur">Bombur</a> being the others). Before the <a href="Battle_of_Five_Armies.md" title="Battle of Five Armies">Battle of Five Armies</a> he is named General by Thorin. It is unknown if he survived the Battle of Five Armies, as only six of the thirteen survive (with Thorin and Bombur among the casualties and <a href="../G/Glóin.md" title="Glóin">Glóin</a> amongst the survivors) in this film.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[25]</a></sup></dd></dl>
 
@@ -311,15 +311,15 @@ Là hậu duệ của giới quý tộc và bản thân cũng là một Lãnh ch
 
 <dl><dd>No actor is credited for the role of Balin. He is one of the older dwarves, and has a long white beard. He is the team&#39;s lookout.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[32]</a></sup></dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
 
 <dl><dd>Balin&#39;s Tomb is one of the objectives of the first act in the Good Campaign. Several groups of orcs, as well as three trolls, have to be fought off before a break in the wall allows access to the next hall and the Bridge.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[33]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Young Balin makes a cameo appearance in a flashback sequence depicting the <a href="Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Battle of Azanulbizar</a>. Older Balin makes another silent cameo during the Company&#39;s departure for the <a href="../Q/Quest_of_Erebor.md" title="Quest of Erebor">Quest of Erebor</a>. In the present day, the fate of Balin&#39;s expedition in Moria is uncovered by the sons of <a href="Bifur.md" title="Bifur">Bifur</a> and <a href="Bofur.md" title="Bofur">Bofur</a>.</dd></dl>
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">The Lord of the Rings: Aragorn&#39;s Quest</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">The Lord of the Rings: Nhiệm vụ của Aragorn</a></i>:</b>
 
 <dl><dd>Balin&#39;s Tomb is featured in Moria.</dd></dl>
 

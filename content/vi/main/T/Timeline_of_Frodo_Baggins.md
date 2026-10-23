@@ -34,7 +34,7 @@ Dòng thời gian về cuộc đời của [Frodo Baggins](../F/Frodo_Baggins.md
 
 ## [3001](Third_Age_3001.md) {#3001}
 
-- 22 tháng Chín: Frodo đã trưởng thành và thừa kế Bag End cũng như [Chiếc nhẫn](The_One_Ring.md) từ Bilbo.
+- 22 tháng Chín: Frodo đã trưởng thành và kế thừa Bag End và [Nhẫn](The_One_Ring.md) từ Bilbo.
 
 ## [3004](Third_Age_3004.md) {#3004}
 
@@ -47,21 +47,21 @@ Dòng thời gian về cuộc đời của [Frodo Baggins](../F/Frodo_Baggins.md
 ## [3018](Third_Age_3018.md) {#3018}
 
 - [12 tháng 4](../_/12_April.md): Gandalf đến Bag End.
-- [13 tháng 4](../_/13_April.md): Frodo biết mình có Chiếc nhẫn Chúa và quyết định rời bỏ Shire.
+- [13 tháng 4](../_/13_April.md): Frodo biết mình có Người Nhẫn và quyết định rời khỏi Shire.
 
 - [22 tháng Chín](../_/22_September.md): Frodo bước sang tuổi 50.
 - [23 tháng Chín](../_/23_September.md): Frodo rời đi Bag End.
 - [24 tháng Chín](../_/24_September.md): Frodo suýt bị một trong các [Nazgûl](../N/Nazgûl.md) bắt hai lần và gặp [Gildor](../G/Gildor.md) ở [Woody End](../W/Woody_End.md).
 - [25 tháng Chín](../_/25_September.md): Frodo biết được ý định đi cùng mình của bạn bè.
 - [26 tháng Chín](../_/26_September.md): Frodo và những người bạn đồng hành của mình đi qua [Khu Rừng Cổ](../O/Old_Forest.md) và đến Nhà của [Tom Bombadil](Tom_Bombadil.md).
-- [28 tháng Chín](../_/28_September.md): Người Hobbit bị mắc kẹt bởi [Barrow-wight](../B/Barrow-wights.md). Frodo phản đối việc đeo Nhẫn.
+- [28 tháng Chín](../_/28_September.md): Người Hobbit bị mắc kẹt bởi [Barrow-wight](../B/Barrow-wights.md). Frodo chống lại việc đeo Nhẫn.
 - [29 tháng Chín](../_/29_September.md): Frodo gặp [Aragorn](../A/Aragorn.md) ở [Bree](../B/Bree.md).
 
 - [6 tháng 10](../_/6_October.md): Frodo bị thương bởi [Vua Phù thủy](../W/Witch-king.md) lúc [Weathertop](../W/Weathertop.md).
 - [20 tháng 10](../_/20_October.md): Frodo vượt qua [Ford of Bruinen](../F/Ford_of_Bruinen.md) mà Nazgûl truy đuổi.
 - [23 tháng 10](../_/23_October.md): [Elrond](../E/Elrond.md) lấy mảnh [Morgul-blade](../M/Morgul-knife.md) ra khỏi cơ thể Frodo.
 - [24 tháng 10](../_/24_October.md): Frodo thức dậy vào [Rivendell](../R/Rivendell.md).
-- [25 tháng 10](../_/25_October.md): Tại [Hội đồng Elrond](../C/Council_of_Elrond.md), Frodo tình nguyện viên mang Chiếc Nhẫn đến [Mordor](../M/Mordor.md).
+- [25 tháng 10](../_/25_October.md): Tại [Hội đồng Elrond](../C/Council_of_Elrond.md), Frodo tình nguyện viên đi Nhẫn đến [Mordor](../M/Mordor.md).
 
 - [25 tháng 12](../_/25_December.md): Frodo và [Học bổng](../F/Fellowship_of_the_Ring.md) rời đi Rivendell.
 
@@ -73,7 +73,7 @@ Dòng thời gian về cuộc đời của [Frodo Baggins](../F/Frodo_Baggins.md
 
 - [14 tháng 2](../_/14_February.md): Frodo nhìn vào [Gương của Galadriel](../M/Mirror_of_Galadriel.md).
 - [16 tháng 2](../_/16_February.md): Frodo và Học bổng rời đi Lothlórien.
-- [26 tháng 2](../_/26_February.md): Vào lúc Amon Hen, [Boromir](../B/Boromir.md) cố gắng lấy Chiếc nhẫn. Frodo quyết định đi tới Mordor một mình nhưng bị theo sau bởi [Sam](../S/Samwise_Gamgee.md).
+- [26 tháng 2](../_/26_February.md): Vào lúc Amon Hen, [Boromir](../B/Boromir.md) cố gắng lấy Nhẫn. Frodo quyết định đi đến Mordor một mình nhưng bị theo sau bởi [Sam](../S/Samwise_Gamgee.md).
 - [29 tháng 2](../_/29_February.md): Frodo gặp [Gollum](../G/Gollum.md) và tha mạng.
 
 - [1 tháng 3](../_/1_March.md)-[2 tháng 3](../_/2_March.md): Gollum dẫn Hobbit qua [Đầm lầy Chết](../D/Dead_Marshes.md).
@@ -81,7 +81,7 @@ Dòng thời gian về cuộc đời của [Frodo Baggins](../F/Frodo_Baggins.md
 - [7 tháng 3](../_/7_March.md): Frodo gặp [Faramir](../F/Faramir.md), anh trai của Boromir.
 - [8 tháng 3](../_/8_March.md): Frodo yêu cầu Faramir tha mạng cho Gollum tại [Bể Cấm](../F/Forbidden_Pool.md). Người Hobbit chia tay Faramir vào buổi sáng.
 - [9 tháng 3](../_/9_March.md): Người Hobbit đến [Đường Morgul](../M/Morgul-road.md) vào lúc hoàng hôn.
-- [10 tháng 3](../_/10_March.md): Người Hobbit đến [Ngã Tư](../C/Cross-roads.md) và tiếp tục đến [Thung lũng Morgul](../M/Morgul_Vale.md). Frodo nhìn thấy Vua Phù thủy dẫn đầu một đội quân từ [Minas Morgul](../M/Minas_Morgul.md) và chống lại việc đeo Nhẫn.
+- [10 tháng 3](../_/10_March.md): Người Hobbit đến [Ngã Tư](../C/Cross-roads.md) và tiếp tục đến [Thung lũng Morgul](../M/Morgul_Vale.md). Frodo nhìn thấy Vua Phù thủy dẫn đầu một đội quân từ [Minas Morgul](../M/Minas_Morgul.md) và chống lại việc đưa Nhẫn vào.
 - [12 tháng 3](../_/12_March.md): Gollum dẫn Frodo và Sam vào [Hang ổ của Shelob](../S/Shelob's_Lair.md).
 - [13 tháng 3](../_/13_March.md): Frodo bị [Shelob](../S/Shelob.md) làm bị thương và bị [Orc](../O/Orcs_of_Mordor.md) bắt làm tù binh đến [Tháp Cirith Ungol](Tower_of_Cirith_Ungol.md).
 - [14 tháng 3](../_/14_March.md): Sam tìm thấy Frodo trong Tháp Cirith Ungol.
@@ -92,7 +92,7 @@ Dòng thời gian về cuộc đời của [Frodo Baggins](../F/Frodo_Baggins.md
 - [22 tháng 3](../_/22_March.md): Frodo và Sam rời đường và rẽ về phía nam theo hướng Núi Doom.
 - [23 tháng 3](../_/23_March.md): Người Hobbit vứt bỏ trang bị của họ.
 - [24 tháng 3](../_/24_March.md): Người Hobbit đến chân Núi Doom.
-- [25 tháng 3](../_/25_March.md): Frodo đến [Cracks of Doom](../C/Cracks_of_Doom.md) và nhận Chiếc nhẫn cho chính mình. Gollum cắn đứt ngón tay của Frodo và rơi xuống vực sâu rực lửa. Chiếc Nhẫn bị phá hủy.
+- [25 tháng 3](../_/25_March.md): Frodo đến [Cracks of Doom](../C/Cracks_of_Doom.md) và nhận Nhẫn cho chính mình. Gollum cắn đứt ngón tay của Frodo và rơi xuống vực sâu rực lửa. Nhẫn bị phá hủy.
 
 - [8 tháng 4](../_/8_April.md): Frodo và Sam được vinh danh tại [Cánh đồng Cormallen](../F/Field_of_Cormallen.md).
 
@@ -110,7 +110,7 @@ Dòng thời gian về cuộc đời của [Frodo Baggins](../F/Frodo_Baggins.md
 
 ## [3020](Third_Age_3020.md) {#3020}
 
-- [13 tháng 3](../_/13_March.md): Frodo bị ốm vào ngày kỷ niệm cuộc gặp gỡ với Shelob.
+- [13 tháng 3](../_/13_March.md): Frodo bị ốm vào ngày kỷ niệm ngày gặp Shelob.
 
 - [1 tháng 5](../_/1_May.md): Sam kết hôn với [Rosie Cotton](../R/Rosie_Cotton.md) và chuyển đến Bag End.
 

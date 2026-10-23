@@ -23,7 +23,7 @@ images:
 Vào [19 tháng Chín](../_/19_September.md) [1956](../_/1956.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho [Terence Tiller](../T/Terence_Tiller.md)**, một nhà sản xuất đài phát thanh [BBC](../B/BBC.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 - **Nội dung:** Tolkien, trả lời lá thư của ông Tiller viết ngày 17 tháng Chín năm 1956,<sup id="cite_ref-Hammond_3-0" class="reference"><a href="#cite_note-Hammond-3">[3]</a></sup> cho phép 'về nguyên tắc' ông Tiller sản xuất bản chuyển thể trên đài phát thanh (xem [*The Lord of the Rings* (loạt phim phát thanh năm 1955)](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>)) của *[The Two Towers](../T/The_Two_Towers.md)* và *[The Return of the King](../T/The_Return_of_the_King.md)*.
-- **Xuất bản:** Không có. Mô tả về bức thư đã được cung cấp trên trang web [Tolkien Thư viện](../T/Tolkien_Library.md). Bức thư dường như không được lưu giữ trong kho lưu trữ của BBC.<sup id="cite_ref-Hammond_3-1" class="reference"><a href="#cite_note-Hammond-3">[3]</a></sup>
+- **Xuất bản:** Không có. Mô tả của bức thư đã được cung cấp trên trang web [Tolkien Library](../T/Tolkien_Library.md). Bức thư dường như không được lưu giữ trong kho lưu trữ BBC.<sup id="cite_ref-Hammond_3-1" class="reference"><a href="#cite_note-Hammond-3">[3]</a></sup>
 - **Mô tả:** Có chữ ký, (chữ ký đầy đủ và viết tắt) 1 trang (chỉ mặt trước) thư viết tay.
 
 ## Phiên âm {#Transcription}

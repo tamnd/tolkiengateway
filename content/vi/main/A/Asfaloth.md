@@ -50,7 +50,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Asfaloth đã được Glorfindel cưỡi trong quá trình tìm kiếm [Aragorn](Aragorn.md) và [Hobbit](../T/Travellers.md) trên đường đến [Rivendell](../R/Rivendell.md). Sau khi tìm thấy chúng và [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công, Glorfindel xuống ngựa và đặt [Frodo Baggins](../F/Frodo_Baggins.md) ( [Người Mang Nhẫn](../R/Ring-bearers.md)) lên lưng nó, sau đó ra lệnh cho nó chuyển tiếp đến nơi an toàn tại [Ford of Bruinen](../F/Ford_of_Bruinen.md). Asfaloth là một con ngựa có tốc độ đáng kinh ngạc, vượt xa những con chiến mã đen của Kỵ sĩ Đen, thậm chí nó còn đến được Fords trước.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Asfaloth đã được Glorfindel cưỡi trong quá trình tìm kiếm [Aragorn](Aragorn.md) và [Hobbit](../T/Travellers.md) trên đường tới [Rivendell](../R/Rivendell.md). Sau khi tìm thấy chúng và [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công, Glorfindel xuống ngựa và đặt [Frodo Baggins](../F/Frodo_Baggins.md) ( [Người Mang Nhẫn](../R/Ring-bearers.md)) lên lưng nó, sau đó ra lệnh cho nó chuyển tiếp đến nơi an toàn tại [Ford of Bruinen](../F/Ford_of_Bruinen.md). Asfaloth là một con ngựa có tốc độ đáng kinh ngạc, vượt xa những con chiến mã đen của Kỵ sĩ Đen, thậm chí nó còn đến được Fords trước.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -76,7 +76,7 @@ Trả lời câu hỏi của [Rhona Beare](../R/Rhona_Beare.md) năm 1958, Tolki
 
 <dl><dd>Asfaloth is the horse of Glorfindel. He sends it to carry Frodo to Rivendell.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>With Glorfindel added, Asfaloth is now Glorfindel&#39;s horse when mounted. Arwen&#39;s horse, also white, is not named.</dd></dl>
 

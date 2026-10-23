@@ -28,7 +28,7 @@ images:
 
 **Đường Đồi** là một con đường nằm trong [Hobbiton](Hobbiton.md) của [The Shire](../T/The_Shire.md) dẫn đến [Overhill](../O/Overhill.md), qua [Hobbiton Đồi](Hobbiton_Hill.md) và [Bag End](../B/Bag_End.md).
 
-Vào tối [23 tháng Chín](../_/23_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Frodo Baggins](../F/Frodo_Baggins.md) đi bộ đến cuối con đường, đi qua một cánh cổng, và một đoạn xuôi xuống Đường Hill với nỗi lo lắng chờ đợi sự xuất hiện của [Gandalf](../G/Gandalf.md); ngay góc đường là [Bagshot Row](../B/Bagshot_Row.md) và [smial](../S/Smial.md) của [Gia đình Gamgee](../G/Gamgee_Family~66365.md). Khi ở đó Frodo nghe thấy [Hamfast Gamgee](Hamfast_Gamgee.md) nói chuyện với [một người lạ nào đó](../K/Khamûl.md) với giọng khó chịu.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào tối [23 tháng Chín](../_/23_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Frodo Baggins](../F/Frodo_Baggins.md) đi bộ đến cuối con đường, đi qua một cánh cổng, và một đoạn xuôi xuống Đường Hill với nỗi lo lắng chờ đợi sự xuất hiện của [Gandalf](../G/Gandalf.md); ngay góc đường là [Bagshot Row](../B/Bagshot_Row.md) và [nụ cười](../S/Smial.md) của [Gia đình Gamgee](../G/Gamgee_Family~66365.md). Khi ở đó Frodo nghe thấy [Hamfast Gamgee](Hamfast_Gamgee.md) nói chuyện với [một người lạ nào đó](../K/Khamûl.md) với giọng khó chịu.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -36,7 +36,7 @@ Vào tối [23 tháng Chín](../_/23_September.md) [T.A.](../T/Third_Age.md) [30
 
 <dl><dd><a href="../R/Robin_Smallburrow.md" title="Robin Smallburrow">Robin Smallburrow</a> lives at 9, Hill Road, though all the other houses and holes in the street are said to be on <a href="../B/Bagshot_Row.md" title="Bagshot Row">Bagshot Row</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The road leads from <a href="Hobbiton.md" title="Hobbiton">Hobbiton</a> to <a href="../O/Overhill.md" title="Overhill">Overhill</a> and continues to <a class="mw-redirect" href="../B/Brockenborings.md" title="Brockenborings">Brockenborings</a>.</dd></dl>
 

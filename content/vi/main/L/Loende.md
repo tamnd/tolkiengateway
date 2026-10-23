@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Loëndë"
 ---
 
-Chuyển hướng tới [Loëndë](Loëndë.md).
+Chuyển hướng đến [Loëndë](Loëndë.md).

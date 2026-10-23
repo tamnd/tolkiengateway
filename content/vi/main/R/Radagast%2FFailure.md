@@ -38,7 +38,7 @@ Theo những điều khoản này thì Radagast đã thất bại. Tuy nhiên, n
 
 Theo [John D. Rateliff](../J/John_D._Rateliff.md), cảm nhận của Tolkien về sự thành công hay thất bại của Radagast hẳn cũng đã thay đổi. Anh ta suy đoán rằng Radagast đã chiếm khu vực và xung quanh [Mirkwood](../M/Mirkwood.md) dưới sự bảo vệ của anh ta (giống như Pháp sư Xanh đã chiếm phần phía đông dưới sự bảo vệ của họ). Anh ta cung cấp bằng chứng chắc chắn hơn khi lập luận rằng Radagast và Gandalf giống nhau nhiều:
 
-- Radagast và Gandalf đến cùng lúc tại [Trung Địa](../M/Middle-earth.md);
+- Radagast và Gandalf đến cùng lúc ở [Trung Địa](../M/Middle-earth.md);
 - cả hai đều là bạn của những con đại bàng (sinh vật của [Manwë](../M/Manwë.md) và sẽ kết giao với một số ít nhưng rất quan trọng);
 - cả hai đều được coi là có mối liên kết chặt chẽ ngay từ đầu - họ là 'anh em họ' trong *The Hobbit*.
 
@@ -54,7 +54,7 @@ Do đó, Rateliff kết luận rằng Radagast rất giống Gandalf; cả hai �
 
 Vì vậy rất khó để kết luận liệu Radagast có thất bại hay không. Nhưng rõ ràng là Tolkien đã nghi ngờ sau những lời chỉ trích anh ta trong bài Istari và Radagast chắc chắn không rơi vào tình trạng xấu xa. Quả thực Radagast là một nhân vật khó nắm bắt đến mức khó có thể đưa ra bất kỳ kết luận táo bạo nào, chẳng hạn như liệu anh ta có quay lại [Valinor](../V/Valinor.md)hay không.
 
-Tolkien kể ngắn gọn về một hội đồng của [Valar](../V/Valar.md) nơi họ quyết định cử sứ giả đến Trung Địa để tranh chấp ý chí của Sauron. Trong đó có nói 'rằng mỗi Istar được chọn bởi mỗi Valar vì những đặc điểm bẩm sinh của mình'.<sup id="cite_ref-UTIstari_1-2" class="reference"><a href="#cite_note-UTIstari-1">[1]</a></sup> Điều này rất quan trọng vì nó cho thấy [Yavanna](../Y/Yavanna.md) đã chọn Aiwendil (Radagast) vì tình yêu với các sinh vật hoang dã, và có lẽ anh ta được Yavanna cử đến [Trung Địa](../M/Middle-earth.md) để phục vụ mục đích này.<sup id="cite_ref-UTIstari_1-3" class="reference"><a href="#cite_note-UTIstari-1">[1]</a></sup> Nếu đây là nhiệm vụ được chỉ định của Radagast thì sẽ không phù hợp khi cho rằng anh ta đã thất bại. Tuy nhiên, thật khó để đánh giá việc thực hiện nhiệm vụ này đã tạo điều kiện cho sự sụp đổ của [Sauron](../S/Sauron.md)đến mức nào.
+Tolkien kể ngắn gọn về một hội đồng của [Valar](../V/Valar.md) nơi họ quyết định cử sứ giả đến Trung Địa để tranh chấp ý chí của Sauron. Trong đó có nói 'rằng mỗi Istar được chọn bởi mỗi Valar vì những đặc điểm bẩm sinh của mình'.<sup id="cite_ref-UTIstari_1-2" class="reference"><a href="#cite_note-UTIstari-1">[1]</a></sup> Điều này rất quan trọng vì nó cho thấy [Yavanna](../Y/Yavanna.md) chọn Aiwendil (Radagast) vì tình yêu với các sinh vật hoang dã, và có lẽ anh ta được Yavanna cử đến [Trung Địa](../M/Middle-earth.md) để phục vụ mục đích này.<sup id="cite_ref-UTIstari_1-3" class="reference"><a href="#cite_note-UTIstari-1">[1]</a></sup> Nếu đây là nhiệm vụ được chỉ định của Radagast thì sẽ không phù hợp khi tuyên bố rằng anh ấy đã thất bại. Tuy nhiên, thật khó để đánh giá việc thực hiện nhiệm vụ này đã tạo điều kiện cho sự sụp đổ của [Sauron](../S/Sauron.md)đến mức nào.
 
 Có lẽ bạn có thể tìm thấy hình ảnh rõ ràng nhất về cảm xúc của Tolkien về Radagast trong đoạn trích dẫn này:
 
@@ -67,7 +67,7 @@ Có lẽ bạn có thể tìm thấy hình ảnh rõ ràng nhất về cảm xú
 Ở đây có tuyên bố rằng cả Saruman và Radagast đều quay lưng lại với nhiệm vụ cuối cùng là đánh bại Sauron. Nhưng khi Saruman kiêu ngạo và ham muốn quyền lực (những đặc điểm dẫn đến sự hủy hoại của chính anh ta), Radagast lại lơ là và tìm kiếm sự đồng hành với các loài chim và thú dữ khi hợp tác với các Dân tộc Tự do của Trung Địa. Vì vậy, đặc điểm bẩm sinh của Radagast có nghĩa là anh ta chỉ có thể đóng một vai trò nhỏ trong sự sụp đổ của Chúa tể những chiếc nhẫn.
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Các đại từ trong ngoặc vuông được John D. Rateliff diễn giải trong 
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Các đại từ trong ngoặc vuông được giải thích bởi John D. Rateliff trong 
 <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../J/John_D._Rateliff.md" title="John D. Rateliff">John D. Rateliff</a> (ed.), “Giai đoạn thứ hai: Medwed,” trong <i><a href="../T/The_History_of_The_Hobbit.md" title="The History of The Hobbit">The History of The Hobbit: Mr. Baggins</a></i> (2007), "(vi) Radagast"</span>
 </li>
 </ol></div></span>

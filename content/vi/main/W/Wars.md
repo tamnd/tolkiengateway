@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index:Conflicts"
 ---
 
-Chuyển hướng tới [Chỉ mục:Xung đột](../../index/C/Conflicts.md).
+Chuyển hướng đến [Chỉ mục:Xung đột](../../index/C/Conflicts.md).

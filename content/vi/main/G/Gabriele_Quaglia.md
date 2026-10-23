@@ -17,7 +17,7 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**Gabriele Quaglia** là tác giả người Ý, người viết cho phiên bản thứ hai của [*The One Ring* trò chơi nhập vai](<../T/The_One_Ring_(role-playing_game).md>) .
+**Gabriele Quaglia** là tác giả người Ý, người viết cho ấn bản thứ hai của [*The One Ring* trò chơi nhập vai](<../T/The_One_Ring_(role-playing_game).md>) .
 
 Quaglia có lịch sử lâu đời với cả game nhập vai và tác phẩm Tolkien. Anh ấy từng là cầu thủ của *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và sau đó là *The One Ring*. Với tư cách là một người hâm mộ, anh ấy đã viết bài cho [Other Minds](../O/Other_Minds.md) và là người đóng góp chính cho nhóm <a class="new" href="https://tolkiengateway.net/w/index.php?title=MERP_Fan_Modules&amp;action=edit&amp;redlink=1" title="MERP Fan Modules (page does not exist)">Mô-đun người hâm mộ MERP</a>. Anh ấy chuyển sang làm công việc được cấp phép chính thức sau khi [Francesco Nepitello](../F/Francesco_Nepitello.md) tiếp cận Quaglia vào đầu những năm 2020 liên quan đến một bài báo mà anh ấy đã viết về [Cảng Xám](Grey_Havens.md).<sup id="cite_ref-interview_1-0" class="reference"><a href="#cite_note-interview-1">[1]</a></sup> <span></span>
 

@@ -49,7 +49,7 @@ infobox:
 - **18** - Giữa: Frodo Búp bê giấy của Francesco S. Savi
 - **20** - So sánh các ghi chú của Caroline Flynn
 - **22** - Tolkien Hồ sơ thành viên xã hội
-- **24** - Đánh giá sách: Trí tuệ của Hobbit: Khai quật nhân loại của chúng ta tại 3 Bagshot Row của Amanda Drake
+- **24** - Đánh giá sách: Trí tuệ của Hobbit: Khai phá nhân loại của chúng ta ở tuổi 3 Bagshot Row của Amanda Drake
 - **25** - Cáo phó: Joanna Tolkien của Charles E. Noad
 - **26** - Mathom
 - **30** - Tin từ Fangorn

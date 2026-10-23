@@ -58,7 +58,7 @@ infobox:
 - Quảng cáo: Các khóa học trực tuyến do Cardiff tổ chức
 - Quảng cáo: [Birmingham](../B/Birmingham.md) Chuyến tham quan bằng xe khách
 - Ngày ghi nhật ký của bạn
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- Cái [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Công chúa đến từ Biển - một câu chuyện thần tiên [Gondor](../G/Gondorians.md)
     - Bởi: Sally Anh

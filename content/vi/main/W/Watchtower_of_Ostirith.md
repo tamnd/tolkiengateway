@@ -61,7 +61,7 @@ Sau đó, theo lệnh của Adar, Waldreg quay trở lại tàn tích của Thá
 
 ## Từ nguyên {#Etymology}
 
-*Ostirith* là sự kết hợp của các từ [Sindarin](../S/Sindarin.md) *[ost](../O/Ost.md)* ("bao vây; pháo đài, thành trì; thị trấn kiên cố; pháo đài hoặc thành trì")<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và *[tirith](../T/Tirith.md)* ("canh, phường, canh gác; canh chừng, canh gác")<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>.
+*Ostirith* là sự kết hợp của các từ [Sindarin](../S/Sindarin.md) *[ost](../O/Ost.md)* ("bao vây; pháo đài, thành trì; thị trấn kiên cố; pháo đài hoặc thành trì")<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và *[tirith](../T/Tirith.md)* ("canh chừng, phường, canh gác; canh chừng, canh gác")<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>.
 
 <span></span>
 

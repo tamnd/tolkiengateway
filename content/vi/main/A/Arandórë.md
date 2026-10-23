@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arandor"
 ---
 
-Chuyển hướng đến [Arandor](Arandor.md).
+Chuyển hướng tới [Arandor](Arandor.md).

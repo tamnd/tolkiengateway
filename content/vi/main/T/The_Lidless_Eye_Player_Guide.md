@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: The Lidless Eye Player Guide"
 ---
 
-Chuyển hướng tới [Trung Địa: Hướng dẫn cho người chơi có mắt không mí](../M/Middle-earth%253A_The_Lidless_Eye_Player_Guide.md).
+Chuyển hướng tới [Trung Địa: Hướng dẫn dành cho người chơi có mắt không mí](../M/Middle-earth%253A_The_Lidless_Eye_Player_Guide.md).

@@ -66,11 +66,11 @@ Sự kiện xảy ra vào ngày 27 tháng 1.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1819](1819.md)** - [John Benjamin Tolkien](<../J/John_Benjamin_Tolkien_(George's_father).md>) qua đời.
+- **[1819](1819.md)** - [John Benjamin Tolkien](<../J/John_Benjamin_Tolkien_(George's_father).md>) chết.
 - **[1969](1969.md)** - Diễn viên kiêm tác giả [Cliff Broadway](../C/Cliff_Broadway.md) ra đời.
 - **[1989](1989.md)** - Diễn viên lồng tiếng [David Buck](../D/David_Buck.md) qua đời.
 - **[2004](2004.md)** - *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* được đề cử cho 11 giải <a class="extiw" href="http://en.wikipedia.org/wiki/76th_Academy_Awards" title="wikipedia:76th Academy Awards">Giải thưởng Học viện</a>.
-- **[2017](2017.md)** - Diễn viên [John Hurt](../J/John_Hurt.md) qua đời.
+- **[2017](2017.md)** - Diễn viên [John Bị thương](../J/John_Hurt.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 

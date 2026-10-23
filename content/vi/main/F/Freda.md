@@ -48,7 +48,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Freda và anh trai cô [Éothain](<../_/Éothain_(film_character).md>) được mẹ [Morwen](<../M/Morwen_(film_character).md>) cử đi để cảnh báo [Vua Théoden](../T/Théoden.md) rằng [Wild Con Người](../D/Dunlendings.md) đang cướp phá [Rohan](../R/Rohan.md). Éothain và Freda được giữ an toàn tại [Edoras](../E/Edoras.md) cho đến khi Théoden dẫn người của mình đến [Helm's Deep](../H/Helm's_Deep.md), nơi họ được đoàn tụ với mẹ của mình.
+Freda và anh trai cô [Éothain](<../_/Éothain_(film_character).md>) được mẹ [Morwen](<../M/Morwen_(film_character).md>) cử đi để cảnh báo [Vua Théoden](../T/Théoden.md) rằng [Wild Con Người](../D/Dunlendings.md) đang cướp bóc [Rohan](../R/Rohan.md). Éothain và Freda được giữ an toàn tại [Edoras](../E/Edoras.md) cho đến khi Théoden dẫn người của mình đến [Helm's Deep](../H/Helm's_Deep.md), nơi họ được đoàn tụ với mẹ của mình.
 
 <span></span>
 

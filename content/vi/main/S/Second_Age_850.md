@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Aldarion thuyết phục [Erendis](../E/Erendis.md) đi thuyền cùng anh ta từ [Rómenna](../R/Rómenna.md) đến [Andúnië](../A/Andúnië.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Aldarion thuyết phục [Erendis](../E/Erendis.md) đi thuyền cùng mình từ [Rómenna](../R/Rómenna.md) đến [Andúnië](../A/Andúnië.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - [Valandil](<../V/Valandil_(Lord_of_Andúnië).md>) tổ chức tiệc vinh danh [Aldarion](../T/Tar-Aldarion.md) nhân kỷ niệm 100 năm thành lập [Hiệp hội những người mạo hiểm](../G/Guild_of_Venturers.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>

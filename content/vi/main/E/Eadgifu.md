@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éadgifu"
 ---
 
-Chuyển hướng đến [Éadgifu](../_/Éadgifu.md).
+Chuyển hướng tới [Éadgifu](../_/Éadgifu.md).

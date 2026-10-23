@@ -68,7 +68,7 @@ Sự kiện xảy ra vào ngày 21 tháng 2.
 - **[1935](1935.md)** – Tác giả và [người nhận thư](../L/Letter_to_Richard_Lupoff.md) [Richard A. Lupoff](../R/Richard_A._Lupoff.md) ra đời.
 - **[1946](1946.md)** – Diễn viên lồng tiếng [Anthony Daniels](../A/Anthony_Daniels.md) ra đời.
 - **[1958](1958.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 205](../L/Letter_205.md).
-- **[1963](1963.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho bà Gill](../L/Letter_to_Mrs_Gill.md).
+- **[1963](1963.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho bà Gill](../L/Letter_to_Mrs_Gill.md).
 
 ## Trong Arda {#In_Arda}
 

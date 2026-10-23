@@ -41,7 +41,7 @@ Danh mục sao chép bốn đoạn trích từ các bản thảo được tạo 
 
 1. 'Orthanc và Isengard' - một bản phác thảo.
 2. 'Bản đồ Anorien và Minas Tirith' - bản đồ phác thảo.
-3. 'Bản thảo dòng chữ trên chiếc nhẫn' - ở tengwar.
+3. 'Bản thảo của dòng chữ Nhẫn' - trong tengwar.
 4. 'The Lord of the Rings - Herumillion' - một dòng chữ tengwar.
 
 <span></span>

@@ -23,4 +23,4 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ảnh diễn viên người Scotland John Bell, người đóng vai Bain trong TH:BoFA
+Hình ảnh diễn viên người Scotland John Bell, người đóng vai Bain trong TH:BoFA

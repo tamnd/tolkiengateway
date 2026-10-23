@@ -57,12 +57,12 @@ infobox:
     - *[Trong Kẻ Vô Danh Rừng](../I/In_the_Nameless_Wood.md): Khám phá vùng nội địa triết học của các sáng tạo văn học của Tolkien*, bởi [J.S. Ryan](../J/John_Ryan.md), được đánh giá bởi Christopher Gilson
     - *[Tolkien and Philosophy](Tolkien_and_Philosophy.md)*, được chỉnh sửa bởi Roberto Arduini và Claudio A. Testi, được đánh giá bởi Andrew Higgins
     - *Cơ thể trong Tolkien's Legendarium: Các tiểu luận về Trung Địa Thân xác*, do Christopher Vaccaro biên tập, Valerie Estelle Frankel duyệt lại
-    - *[Tolkien trong Thế kỷ Mới](Tolkien_in_the_New_Century.md): Các bài tiểu luận tôn vinh Tom Shippey*, do John Wm biên tập. Houghton, Janet Brennan Croft, Nancy Martsch, John D. Rateliff và Robin Anne Reid, được đánh giá bởi Valerie Estelle Frankel
-    - *[Nghệ thuật The Lord of the Rings](The_Art_of_The_Lord_of_the_Rings.md) của J.R.R. Tolkien*, của Wayne G. Hammond và Christina Scull, được đánh giá bởi Sarah Beach
+    - *[Tolkien trong thế kỷ mới](Tolkien_in_the_New_Century.md): Các bài tiểu luận tôn vinh Tom Shippey*, biên tập bởi John Wm. Houghton, Janet Brennan Croft, Nancy Martsch, John D. Rateliff và Robin Anne Reid, được đánh giá bởi Valerie Estelle Frankel
+    - *[The Art of The Lord of the Rings](The_Art_of_The_Lord_of_the_Rings.md) của J.R.R. Tolkien*, của Wayne G. Hammond và Christina Scull, được đánh giá bởi Sarah Beach
     - *[Arda Nơi sinh sống](../A/Arda_Inhabited.md): Mối quan hệ môi trường ở The Lord of the Rings*, bởi Susan Jeffers, được Kristine Larsen đánh giá
-    - Ghi chú sách, của David Bratman
+    - Ghi chú sách, bởi David Bratman
 
-- David Bratman, Edith L. Crowe, Jason Fisher, John Wm. Houghton, John Magoun và Robin Anne Reid, "Công trình nghiên cứu Tolkien của năm 2013"
+- David Bratman, Edith L. Crowe, Jason Fisher, John Wm. Houghton, John Magoun, và Robin Anne Reid, "Công trình nghiên cứu Tolkien của năm 2013"
 - David Bratman, "Thư mục (bằng tiếng Anh) năm 2014"
 
 ## Liên kết ngoài {#External_links}

@@ -19,9 +19,9 @@ images:
 
 **Cành cây trở về xanh** là một nhánh của [Cây thơm](../F/Fragrant_Trees.md) [Oiolairë](../O/Oiolairë.md) được đặt ở mũi tàu [Númenórean](../N/Númenóreans.md) như một biểu tượng của sự may mắn (và là biểu tượng của tình bạn với [Ossë](../O/Ossë.md) và [Uinen](../U/Uinen.md)). Theo phong tục, cành cây phải do một người phụ nữ mang đến, thường là họ hàng thân thiết của thuyền trưởng.
 
-Khi [Aldarion](../T/Tar-Aldarion.md), con trai của [Tar-Meneldur](../T/Tar-Meneldur.md), hoàn thành con tàu lớn [Palarran](../P/Palarran.md) và có ý định ra khơi, cha anh đã cấm bất kỳ ai trong gia đình mang cành cây lên tàu của ông. [Erendis](../E/Erendis.md) đã thực hiện nghi thức này và vào ngày hôm đó Aldarion đã yêu cô ấy.
+Khi [Aldarion](../T/Tar-Aldarion.md), con trai của [Tar-Meneldur](../T/Tar-Meneldur.md), hoàn thành con tàu lớn [Palarran](../P/Palarran.md) và có ý định ra khơi, cha anh đã cấm bất kỳ ai trong gia đình mang cành cây lên tàu của ông. [Erendis](../E/Erendis.md) đã thực hiện nghi thức này và ngày hôm đó Aldarion đã yêu cô.
 
-Tuy nhiên, sau này, khi Erendis trở thành vợ của Tar-Aldarion và xa lánh anh ta, cô đã từ chối mang theo cành cây để thể hiện sự không đồng tình với những chuyến đi thường xuyên của chồng tới [Trung Địa](../M/Middle-earth.md). Vì vậy, trên mũi con tàu sau này của Aldarion [Hirilondë](../H/Hirilondë.md) có hình một con đại bàng chứ không phải là Cành cây xanh trở về.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Tuy nhiên, sau này, khi Erendis đã trở thành vợ của Tar-Aldarion và xa lánh anh ta, cô đã từ chối mang theo cành cây để thể hiện sự bất đồng với việc chồng thường xuyên đi đến [Trung Địa](../M/Middle-earth.md). Vì vậy, trên mũi con tàu sau này của Aldarion [Hirilondë](../H/Hirilondë.md) có hình một con đại bàng chứ không phải là Cành cây xanh trở về.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

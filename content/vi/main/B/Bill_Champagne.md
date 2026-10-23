@@ -16,7 +16,7 @@ sort_keys:
   "People by name": "Champagne, Bill"
 ---
 
-**Bill Champagne** là nhà soạn nhạc, người viết nhạc cho [Standing Stone Games](../S/Standing_Stone_Games.md), cụ thể là [The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md). Anh là người soạn nhạc cho Nhạc phim Battle of the Cổng Đen, Nhạc phim Legacy of the Necromancer, Nhạc phim Where Rồng Dwell, Nhạc phim Thung lũng Anduin, Nhạc phim Minas Morgul Chính thức, Nhạc phim Mists của Wilderland, Nhạc phim War of Three Peaks, Nhạc phim The Wildwood of Bree-land, Nhạc phim Blood of Azog, Nhạc phim kỷ niệm 15 năm, Before the Bóng Tối Nhạc phim, Nhạc phim Rangers và Ruins, Nhạc phim Yondershire, Những cuộc phiêu lưu xa hơn của Elladan và Elrohir Nhạc phim, Trở lại Nhạc phim Carn Dûm, Nhạc phim Gondor được làm mới, Nhạc phim Hải tặc Umbar và Nhạc phim Đấu trường Xung đột.
+**Bill Champagne** là nhà soạn nhạc, người viết nhạc cho [Standing Stone Games](../S/Standing_Stone_Games.md), cụ thể là [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md). Anh là người soạn nhạc cho Nhạc phim Battle of the Cổng Đen, Nhạc phim Legacy of the Necromancer, Nhạc phim Where Rồng Dwell, Nhạc phim Thung lũng Anduin, Nhạc phim Minas Morgul Chính thức, Nhạc phim Mists của Wilderland, Nhạc phim War of Three Peaks, Nhạc phim The Wildwood of Bree-land, Nhạc phim Blood of Azog, Nhạc phim Kỷ niệm 15 năm, Trước Nhạc phim Bóng Tối, Nhạc phim Rangers and Ruins, Nhạc phim Yondershire, Những cuộc phiêu lưu xa hơn của Elladan và Elrohir Nhạc phim, Quay lại nhạc phim Carn Dûm, Nhạc phim Gondor được làm mới, Nhạc phim Hải tặc Umbar và Nhạc phim Đấu trường xung đột.
 
 ## Liên kết ngoài {#External_links}
 

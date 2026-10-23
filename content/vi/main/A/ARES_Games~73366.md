@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ares Games"
 ---
 
-Chuyển hướng tới [Trò chơi Ares](Ares_Games.md).
+Chuyển hướng đến [Trò chơi Ares](Ares_Games.md).

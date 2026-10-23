@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Måns Björkman](../../main/M/Måns_Björkman.md) đã cho phép sử dụng các thiết bị huy hiệu của mình, dựa trên bản vẽ và mô tả của [Tolkien](../../main/T/Tolkien.md), với điều kiện phải đề cập đến <a class="external text" href="http://www.forodrim.org/gobennas/heraldry/heraldry.htm" rel="noreferrer noopener" target="_blank">Nguồn</a>.
+[Måns Björkman](../../main/M/Måns_Björkman.md) đã cho phép sử dụng các thiết bị huy hiệu của mình, dựa trên bản vẽ và mô tả của [Tolkien](../../main/T/Tolkien.md), với điều kiện phải nêu rõ <a class="external text" href="http://www.forodrim.org/gobennas/heraldry/heraldry.htm" rel="noreferrer noopener" target="_blank">Nguồn</a>.
 
 ## Giấy phép {#Licensing}
 

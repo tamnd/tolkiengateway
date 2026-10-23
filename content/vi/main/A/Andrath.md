@@ -36,7 +36,7 @@ images:
 
 ## Lịch sử {#History}
 
-Khi [Kỵ sĩ Đen](../N/Nazgûl.md) đến Greenway để tìm kiếm [Một chiếc nhẫn](../T/The_One_Ring.md), [Thuyền trưởng Áo đen](../W/Witch-king.md) đã thành lập trại tại Andrath. Từ đó, anh ấy cử một số Kỵ sĩ đi tuần tra trong khi anh ấy đến thăm Barrow-downs.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Khi [Kỵ sĩ Đen](../N/Nazgûl.md) đến Greenway để tìm kiếm [Một Nhẫn](../T/The_One_Ring.md), [Thuyền trưởng Áo đen](../W/Witch-king.md) đã thành lập trại tại Andrath. Từ đó, anh ấy cử một số Kỵ sĩ đi tuần tra trong khi anh ấy đến thăm Barrow-downs.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -44,7 +44,7 @@ Khi [Kỵ sĩ Đen](../N/Nazgûl.md) đến Greenway để tìm kiếm [Một ch
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Andrath is a prominent area within <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a> and contains the prominent &#34;Halecatch Lake&#34;. The &#34;South-guard Ruins&#34; on the <a href="../G/Greenway.md" title="Greenway">Greenway</a> divide into norther and southern Andrath, the latter belonging to the in-game <a href="../C/Cardolan.md" title="Cardolan">Cardolan</a> region.</dd></dl>
 

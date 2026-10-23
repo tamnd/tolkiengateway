@@ -56,7 +56,7 @@ infobox:
 
 ## Mô tả {#Description}
 
-Hai Người canh gác là hai nhân vật vĩ đại đang ngồi trên ngai vàng ở hai bên cổng. Hình dáng của họ được tạo thành từ ba cơ thể với đầu có khuôn mặt kền kền và đôi mắt bằng đá đen. Một đầu nhìn ra ngoài, một đầu nhìn vào trong và đầu thứ ba nhìn chằm chằm vào cánh cổng. Họ là nơi sinh sống của "một số [linh hồn đáng sợ](../S/Spirits.md) cảnh giác tà ác". Không một sinh vật [hữu hình](../S/Seen.md) hay [vô hình](../U/Unseen.md) nào bị họ chú ý. Họ có khả năng xác định kẻ thù và chặn chúng vào hoặc ra khỏi cổng chỉ bằng sức mạnh ý chí của mình, đồng thời có thể phát ra một cuộc gọi báo động chói tai nếu cảnh giác của họ bị xâm phạm.<sup id="cite_ref-Tower_1-0" class="reference"><a href="#cite_note-Tower-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:902</sup>
+Hai Người canh gác là hai nhân vật vĩ đại đang ngồi trên ngai vàng ở hai bên cổng. Hình dáng của họ được tạo thành từ ba cơ thể với đầu có khuôn mặt kền kền và đôi mắt bằng đá đen. Một đầu nhìn ra ngoài, một đầu nhìn vào trong và đầu thứ ba nhìn chằm chằm vào chính cánh cổng. Họ là nơi sinh sống của "một số [linh hồn đáng sợ](../S/Spirits.md) cảnh giác tà ác". Không một sinh vật [hữu hình](../S/Seen.md) hay [vô hình](../U/Unseen.md) nào bị họ chú ý. Họ có khả năng xác định kẻ thù và chặn chúng vào hoặc ra khỏi cổng chỉ bằng sức mạnh ý chí của mình, đồng thời có thể phát ra một cuộc gọi báo động chói tai nếu cảnh giác của họ bị xâm phạm.<sup id="cite_ref-Tower_1-0" class="reference"><a href="#cite_note-Tower-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:902</sup>
 
 ## Lịch sử {#History}
 

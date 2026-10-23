@@ -24,7 +24,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>There and Back Again</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="There_and_Back_Again_(disambiguation).md" title="There and Back Again (disambiguation)">There and Back Again (disambiguation)</a></b>.</div></div>
 
-<i><b>Ở đó và Quay lại: Bản đồ Hành trình của Bilbo qua Eriador và Rhovanion</b></i> là bản đồ [1971](../_/1971.md) được minh họa bởi [Pauline Baynes](../P/Pauline_Baynes.md) dựa trên *[The Hobbit](The_Hobbit.md)*.
+<i><b>There and Back Again: Bản đồ Hành trình của Bilbo qua Eriador và Rhovanion</b></i> là bản đồ [1971](../_/1971.md) được minh họa bởi [Pauline Baynes](../P/Pauline_Baynes.md) dựa trên *[The Hobbit](The_Hobbit.md)*.
 
 Nó tái tạo *[Map of Wilderland](../M/Map_of_Wilderland.md)* của *The Hobbit*nhưng cũng mở rộng sang [Eriador](../E/Eriador.md). Do đó, nó bao gồm tất cả các vùng mà [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) đã đi qua trong [nhiệm vụ](../Q/Quest_of_Erebor.md) từ [Hobbiton](../H/Hobbiton.md) đến [Erebor](../L/Lonely_Mountain.md).
 
@@ -38,7 +38,7 @@ Có một số lỗi chính tả trên bản đồ: Dimril Dale thay vì [Thung 
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://mythoi.tolkienindex.net/#post10" rel="noreferrer noopener" target="_blank">Pauline Baynes’ ‘Ở đó và quay lại’: Một số ghi chú</a> của [Morgan Thomsen](../M/Morgan_Thomsen.md)
+- <a class="external text" href="http://mythoi.tolkienindex.net/#post10" rel="noreferrer noopener" target="_blank">Pauline Baynes’ ‘There and Back Again’: Một số ghi chú</a> của [Morgan Thomsen](../M/Morgan_Thomsen.md)
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>

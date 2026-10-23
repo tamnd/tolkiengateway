@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ar"
 ---
 
-Chuyển hướng tới [Ar](Ar.md).
+Chuyển hướng đến [Ar](Ar.md).

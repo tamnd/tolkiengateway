@@ -20,8 +20,8 @@ categories:
 - [Tìm thanh kiếm bị gãy](Seek_for_the_Sword_that_was_broken.md)
 - [The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(song).md>) - *a.k.a. The Old Walking song*
 - [Bài hát của Nimrodel](../A/Amroth.md#Amroth_in_Song) - *Dòng đầu: Một Tiên-cô hầu ngày xưa*
-- [Người đàn ông trong Mặt Trăng Thức khuya](../T/The_Man_in_the_Moon_Stayed_Up_Too_Late.md) - *Dòng đầu tiên: Có một quán trọ, một quán trọ cũ vui vẻ*
-- [Thơ chuông](../O/One_Ring.md) - *Dòng đầu tiên: Ba Chiếc Nhẫn dành cho Tiên-những vị vua dưới bầu trời*
+- [Người Người đàn ông trong Mặt Trăng Thức khuya](../T/The_Man_in_the_Moon_Stayed_Up_Too_Late.md) - *Dòng đầu tiên: Có một quán trọ, một quán trọ cũ vui vẻ*
+- [Nhẫn Câu thơ](../O/One_Ring.md) - *Dòng đầu tiên: Ba Chiếc Nhẫn dành cho Tiên-các vị vua dưới bầu trời*
 - [Bài hát đi bộ](../A/A_Walking_Song.md) - *Dòng đầu tiên: Trong lò sưởi, ngọn lửa đỏ*
 - [Tuyết trắng! Bạch Tuyết! Ôi Bà rõ ràng!](Snow-white!_Snow-white!_O_Lady_clear!.md) - *Dòng đầu tiên: Bạch Tuyết! Bạch Tuyết! Hỡi quý cô trong sạch!*
 - [Ồ! ồ! ồ! Tôi đi tới cái chai](../H/Ho!_Ho!_Ho!_To_the_Bottle_I_Go.md) - *Dòng đầu tiên: Ho! ồ! ồ! tôi đi tới cái chai*
@@ -36,8 +36,8 @@ Các bài hát của - [Tom Bombadil](../H/Hey_dol!_merry_dol!_ring_a_dong_dillo
 - [Bài hát Beren and Lúthien](Song_of_Beren_and_Lúthien.md) - *Dòng đầu tiên: Lá dài, cỏ xanh*
 - [Quỷ đá](../T/The_Stone_Troll.md) - *Dòng đầu tiên: Troll ngồi một mình trên ghế đá*
 - [Eärendillinwë](../E/Eärendillinwë.md) - *First Line: Eärendil was a mariner*
-- [Cảnh báo về mùa đông](../W/When_winter_first_begins_to_bite.md) - *Dòng đầu tiên: Khi mùa đông đầu tiên bắt đầu đến*
-- [Thần chú của Barrow-wight](../C/Cold_be_hand_and_heart_and_bone,.md) - *Dòng đầu tiên: Lạnh cả tay, cả tim và xương*
+- [Cảnh báo về mùa đông](../W/When_winter_first_begins_to_bite.md) - *Dòng đầu tiên: Khi mùa đông đầu tiên bắt đầu ập đến*
+- [Barrow-wight câu thần chú](../C/Cold_be_hand_and_heart_and_bone,.md) - *Dòng đầu tiên: Lạnh cả bàn tay, trái tim và xương*
 
 ### [The Two Towers](../T/The_Two_Towers.md) {#The_Two_Towers}
 
@@ -77,7 +77,7 @@ Tin nhắn của - [Galadriel](../G/Galadriel's_Messages~22123.md) - *Dòng đ�
 
 ## Từ bản chuyển thể trên đài phát thanh {#From_the_Radio_Adaptations}
 
-Bài hát cuối cùng của - [Bilbo](<../B/Bilbo's_Last_Song_(at_the_Grey_Havens).md>)
+- [Bilbo Bài hát cuối cùng](<../B/Bilbo's_Last_Song_(at_the_Grey_Havens).md>)
 
 ## Liên kết ngoài {#External_links}
 

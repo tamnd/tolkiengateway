@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Parmatéma"
 ---
 
-Chuyển hướng tới [Parmatéma](Parmatéma.md).
+Chuyển hướng đến [Parmatéma](Parmatéma.md).

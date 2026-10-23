@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bill the Pony"
 ---
 
-Chuyển hướng đến [Bill the Pony](Bill_the_Pony.md).
+Chuyển hướng tới [Bill the Pony](Bill_the_Pony.md).

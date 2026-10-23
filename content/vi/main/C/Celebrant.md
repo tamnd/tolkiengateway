@@ -90,13 +90,13 @@ Trên [Bản đồ đầu tiên của The Lord of the Rings](../T/The_First_Map_
 		</li>
 </ul>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Celebrant is called &#34;<b>Kibil-nâla</b>&#34; by the Dwarves. During its flow through <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a>, the river is covered in golden <a href="../M/Mallorn.md" title="Mallorn">mallorn</a> leaves.</dd></dl>
 
 ## Xem thêm {#See_also}
 
-- [Field of Celebrant](../F/Field_of_Celebrant.md)
+- [Trường Celebrant](../F/Field_of_Celebrant.md)
 
 <span></span>
 

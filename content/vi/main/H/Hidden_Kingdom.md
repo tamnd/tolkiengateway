@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hidden Kingdom (disambiguation)"
 ---
 
-Chuyển hướng đến [Vương quốc ẩn giấu (định hướng)](<Hidden_Kingdom_(disambiguation).md>).
+Chuyển hướng tới [Vương quốc ẩn giấu (định hướng)](<Hidden_Kingdom_(disambiguation).md>).

@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Johansson, Emil"
 ---
 
-- Emil Johansson đã vui lòng cho phép [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) sử dụng [những bức ảnh của anh ấy từ The Return of the Ring](../../category/I/Images_from_The_Return_of_the_Ring.md).
+- Emil Johansson đã vui lòng cho phép [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) sử dụng [các bức ảnh của anh ấy từ The Return of the Nhẫn](../../category/I/Images_from_The_Return_of_the_Ring.md).
 - Ngày: 21 tháng Chín năm 2012
 - Người dùng đã xin phép qua email: [Người dùng:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

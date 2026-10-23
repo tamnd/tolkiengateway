@@ -12,4 +12,4 @@ categories:
   - "The Lord of the Rings: The Hunt for Gollum"
 ---
 
-Danh mục này liệt kê <i><b><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Lord of the Rings: Cuộc săn lùng Gollum</a></b></i>.
+Danh mục này liệt kê <i><b><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Lord of the Rings: Cuộc săn tìm Gollum</a></b></i>.

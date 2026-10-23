@@ -86,9 +86,9 @@ infobox:
     - Cuộc chiến trên cây
     - Cây Sự Sống
     - Tolkien và Cây cối
-    - Chiếc Nhẫn
+    - Cái Nhẫn
     - Phép thuật vs Bùa mê
-    - Chiếc nhẫn như một cỗ máy khổng lồ
+    - Nhẫn là cỗ máy Mega
     - Mordor trên Trái đất
     - Cuộc chiến với sự sống
     - Bán mình
@@ -96,11 +96,11 @@ infobox:
     - Cuộc sống là một cây sồi
     - Hãy cứu chúng tôi khỏi các chuyên gia
 - **4. Biển: Tâm linh và đạo đức**
-    - "Vấn đề" của cái ác
+    - “Vấn đề” của cái ác
     - Cái chết
     - May mắn, Định mệnh, Thượng đế
     - Một công việc Cơ Đốc?
-    - Một tác phẩm ngoại giáo?
+    - Một tác phẩm ngoại đạo?
     - Pháp sư và Sao
     - Tất cả và Không có
     - Hậu Thiên Chúa giáo/Tân ngoại giáo/Thời đại mới
@@ -113,8 +113,8 @@ infobox:
     - Quay lại huyền thoại
     - Các cách tiếp cận khác đối với huyền thoại
     - Câu chuyện
-    - Ảo tưởng
-    - *The Lord of the Rings* ở dạng Ảo tưởng
+    - Giả tưởng
+    - *The Lord of the Rings* dưới dạng Ảo tưởng
     - Thế giới Disney
     - Angela Carter
     - Thế giới đĩa

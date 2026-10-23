@@ -46,4 +46,4 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Merry và Pippin chạy xuyên rừng, theo sau là Grishnákh. Grishnákh cuối cùng cũng đuổi kịp Merry và cố gắng "tạo một lỗ giòi trong bụng \[anh ta\]". Pippin trèo lên cây thì phát hiện có mắt. [Treebeard](Treebeard.md) phái Grishnákh đi và tóm lấy cả hai người Hobbit, nhầm họ với lũ Orc, những kẻ mà Treebeard tuyên bố là có tính hủy diệt. Các hobbit đã thành công trong việc thuyết phục Treebeard về bản chất của họ, và sau đó Treebeard để các hobbit trên sàn, bên cạnh một phù thủy da trắng.
+Merry và Pippin chạy xuyên rừng, theo sau là Grishnákh. Grishnákh cuối cùng cũng đuổi kịp Merry và cố gắng "làm một lỗ giòi trong bụng \[anh\]". Pippin trèo lên cây thì phát hiện có mắt. [Treebeard](Treebeard.md) phái Grishnákh và tóm lấy cả hai người Hobbit, nhầm họ với lũ Orc, những kẻ mà Treebeard tuyên bố là có tính phá hoại. Các hobbit đã thành công trong việc thuyết phục Treebeard bản chất của họ, và sau đó Treebeard để các hobbit trên sàn, bên cạnh một phù thủy da trắng.

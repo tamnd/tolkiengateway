@@ -52,7 +52,7 @@ Nó mọc ở [Quảng trường Lớn](Great_Square.md), một khoảng sân r�
 
 Galathilion là [Sindarin](../S/Sindarin.md) cho "Cây Trắng",<sup id="cite_ref-s5_1-2" class="reference"><a href="#cite_note-s5-1">[1]</a></sup> từ *[galadh](Galadh.md)* ("cây") + *[thil](../S/Sil.md)* ("bạc sáng bóng)".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Yếu tố cuối cùng có thể là tên đệm *[-ion](../_/-ion.md)*, có lẽ biểu thị nguồn gốc cây từ Telperion.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Phần tử cuối cùng có thể là tên đệm *[-ion](../_/-ion.md)*, có lẽ biểu thị nguồn gốc của cây từ Telperion.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Tên khác {#Other_names}
 

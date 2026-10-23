@@ -66,7 +66,7 @@ Dưới đây là danh sách các **Tolkien Hiệp hội**.
     - Vương quốc Anh:
         - [Hội Tolkien Cambridge](../C/Cambridge_Tolkien_Society.md) (hoạt động)
         - [Taruithorn - Hội Oxford Tolkien](<Taruithorn_(Tolkien_Society).md>) (hoạt động)
-        - **[Hội Tolkien](The_Tolkien_Society.md)** (đang hoạt động)
+        - **[Hội Tolkien](The_Tolkien_Society.md)** (hoạt động)
 
 - *Asia Pacific*
     - Nhật Bản: [Shiro no Norite](../S/Shiro_no_Norite.md) (không rõ)
@@ -88,7 +88,7 @@ Dưới đây là danh sách các **Tolkien Hiệp hội**.
 - *Europe*
     - Bỉ: [Belegaer - Cercle d'etudes de Tolkien en Belgique](<../B/Belegaer_(Tolkien_Society).md>)
     - Đan Mạch:
-        - [Dansk Tolkien Selskab](../D/Dansk_Tolkien_Selskab.md) (được sáp nhập để trở thành Imladris)
+        - [Dansk Tolkien Selskab](../D/Dansk_Tolkien_Selskab.md) (sáp nhập thành Imladris)
         - [Tolkiens Følge](Tolkiens_Følge.md) (được sáp nhập để trở thành Imladris)
     - Estonia: [Xã hội Tolkien Estonia](../E/Estonian_Tolkien_Society.md)
     - Pháp:

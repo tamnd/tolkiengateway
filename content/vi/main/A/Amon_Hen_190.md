@@ -58,11 +58,11 @@ infobox:
 - Bywater Thông báo
     - Bởi: Malcolm Lindley
 - Thông báo
-Cập nhật - [Tolkien 2005](../T/Tolkien_2005.md)
+- [Tolkien 2005](../T/Tolkien_2005.md) Cập nhật
 - Tolkien 2005 Sản phẩm
     - Bởi: Malcolm Lindley
 - Ngày ghi nhật ký của bạn
-- Sảnh lửa
+- Cái Hall of Fire
     - Bởi: Lynn Forest-Hill
 - Quảng cáo: "Middan-Geard" từ Nhà xuất bản DarkLake
 - Tempus Fugit hoặc lại đến thời điểm đó trong năm rồi

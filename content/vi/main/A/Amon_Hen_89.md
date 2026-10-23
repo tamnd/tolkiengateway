@@ -60,7 +60,7 @@ infobox:
     - Bởi: John Ellison
 - Cuộc họp thảo luận Oxonmoot '87
     - Bởi: Jessica Yates
-- Truyện dân ca
+- Truyện dân gian
 - Báo cáo MythCon
     - Bởi: [Christina Scull](../C/Christina_Scull.md)
 - Tác phẩm nghệ thuật: *Dragon*

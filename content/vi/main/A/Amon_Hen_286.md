@@ -70,7 +70,7 @@ Những cõi ẩn giấu của - Tolkien và ý nghĩa của chúng - Phần M�
     - Bởi: Kristina Velis
 - Bài thơ: Nhiều cuộc họp ảo
     - Bởi: Sultana Raza
-- *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* Câu đố khó nhất từ trước đến nay
+- *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* Câu hỏi khó nhất từ trước đến nay
     - Bởi: [John Garth](../J/John_Garth.md)
 - Toán học
     - Bởi: Jan Boom

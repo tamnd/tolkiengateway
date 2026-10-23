@@ -69,7 +69,7 @@ infobox:
     - Bởi: Debi Haigh-Hutchinson
 - Sự học hỏi của Debi
     - Bởi: Debi Haigh-Hutchinson
-- Truyện dân ca
+- Truyện dân gian
 - Tác phẩm nghệ thuật: Denethor
     - Bởi: Tom Sherry
 - Toán học

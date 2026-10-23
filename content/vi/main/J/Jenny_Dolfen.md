@@ -44,7 +44,7 @@ infobox:
 
 Dolfen được giới thiệu các tác phẩm của Tolkien thông qua mẹ cô, một người hâm mộ cuồng nhiệt.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tác phẩm nghệ thuật của cô nổi tiếng vào đầu những năm 2000 vì nó mô tả các sự kiện từ [The Silmarillion](../T/The_Silmarillion.md), vốn không phổ biến vào thời điểm đó.<sup id="cite_ref-tor_2-0" class="reference"><a href="#cite_note-tor-2">[2]</a></sup>
 
-Cô là khách mời thường xuyên tại các sự kiện liên quan đến Tolkien, từng phát biểu tại hội thảo nghệ sĩ tại [The Return of the Ring](../T/The_Return_of_the_Ring.md), [Tolkien Thing](../T/Tolkien_Thing.md) 2013 và [Tolkien 2019](../T/Tolkien_2019.md).
+Cô là khách mời thường xuyên tại các sự kiện liên quan đến Tolkien, từng phát biểu tại hội thảo nghệ sĩ tại [The Return of the Nhẫn](../T/The_Return_of_the_Ring.md), [Tolkien Thing](../T/Tolkien_Thing.md) 2013 và [Tolkien 2019](../T/Tolkien_2019.md).
 
 Năm 2018, chị được chẩn đoán mắc một bệnh lý không rõ nguyên nhân về mắt<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> khiến chị bị khiếm thị. Cô "khắc phục" tình trạng của mình bằng cách sử dụng kính lúp và tranh vẽ kỹ thuật số.<sup id="cite_ref-tor_2-1" class="reference"><a href="#cite_note-tor-2">[2]</a></sup> Khi được hỏi về tác động của tình trạng khuyết tật đối với nghệ thuật, cô nói: "*\[T\]đã có những lúc trong bốn năm qua tôi cảm thấy mình không thể tiếp tục sáng tạo, nhưng tôi luôn tìm ra cách để quay trở lại—Tôi nghĩ sáng tạo là chế độ mặc định của tôi và dù việc sáng tạo có khó đến đâu thì việc không sáng tạo luôn trở nên khó hơn!*"<sup id="cite_ref-tor_2-2" class="reference"><a href="#cite_note-tor-2">[2]</a></sup>
 

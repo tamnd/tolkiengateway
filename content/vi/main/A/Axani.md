@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Axan"
 ---
 
-Chuyển hướng đến [Axan](Axan.md).
+Chuyển hướng tới [Axan](Axan.md).

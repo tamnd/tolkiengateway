@@ -105,7 +105,7 @@ Hệ thống niên đại của bức thư không được mô tả trong Phụ 
 
 1 N.R. = [S.R.](../S/Shire_Reckoning.md) [1420](../T/Third_Age_3020.md) = [T.A.](../T/Third_Age.md) [3020](../T/Third_Age_3020.md) (không phải [T.A.](../T/Third_Age.md) [3021](../T/Third_Age_3021.md) như [Christopher Tolkien](../C/Christopher_Tolkien.md) gợi ý trong chú thích cuối trang).
 
-Lưu ý rằng điều này tương ứng với hệ thống lịch bị loại bỏ được hiển thị trong *The Peoples of Middle-earth* đã bị loại bỏ và mâu thuẫn với hệ thống của các Phụ lục trong đó 31 echuir sẽ đại diện cho [24 tháng 2](../_/24_February.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Lưu ý rằng điều này tương ứng với hệ thống lịch bị loại bỏ được hiển thị trong *The Peoples of Middle-earth* đã bị loại bỏ và mâu thuẫn với hệ thống lịch của Phụ lục trong đó 31 echuir sẽ đại diện cho [24 tháng 2](../_/24_February.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

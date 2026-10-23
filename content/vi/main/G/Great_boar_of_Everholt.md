@@ -71,7 +71,7 @@ images:
 
 <dl><dd>A tapestry recounting Folca&#39;s hunt of the <b>Boar of Everholt</b> hangs at <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a>.</dd></dl>
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>A flashback sequence shows King <a href="../F/Folca.md" title="Folca">Folca</a>&#39;s hunt and his mutual kill with the <b>Boar of Everholt</b>. A tapestry depicting it is also found in <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a>. A group of <a href="../W/White_Mountains.md" title="White Mountains">White Mountains</a> <a href="../O/Orcs.md" title="Orcs">orcs</a> witnesses the event and, impressed by the creature that slayed their greatest foe, begin styling themselves after the boar, incorporating boar tusks and bones into their armor.</dd></dl>
 

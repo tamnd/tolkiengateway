@@ -56,7 +56,7 @@ infobox:
 
 Phần **Phần ba của [Nazgûl](../N/Nazgûl.md)** chưa bao giờ được phân biệt trong các tác phẩm của Tolkien, nhưng một số bản chuyển thể đã gán những đặc điểm riêng cho Nazgûl cụ thể này.
 
-[Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) đã xây dựng một cốt truyện phức tạp không[chuẩn](../C/Canon.md) cho [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md), xác định nhân vật là *Dwar of Waw*, một cốt truyện cũng được sử dụng trong [Trung Địa Trò chơi sưu tập thẻ bài](../M/Middle-earth_Collectible_Card_Game.md).<sup id="cite_ref-ICE_1-3" class="reference"><a href="#cite_note-ICE-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) đã xây dựng một cốt truyện phức tạp không [chuẩn](../C/Canon.md) cho [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md), xác định nhân vật là *Dwar of Waw*, một cốt truyện cũng được sử dụng trong [Trung Địa Trò chơi sưu tập thẻ bài](../M/Middle-earth_Collectible_Card_Game.md).<sup id="cite_ref-ICE_1-3" class="reference"><a href="#cite_note-ICE-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 [Giải mã](../D/Decipher.md), đối với [Trò chơi thẻ giao dịch](The_Lord_of_the_Rings_Trading_Card_Game.md) của họ, thay vào đó, họ đã giới hạn việc cá nhân hóa này ở việc đặt tên cho nhân vật *[Úlairë](../N/Nazgûl.md#Other_names) [Nelya](../N/Nelya.md)* ([Q.](../Q/Quenya.md) Thứ ba Nazgûl) và gán tên gọi là *Black Hunter*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
@@ -74,7 +74,7 @@ Vào [S.A.](../S/Second_Age.md) <a class="new" href="https://tolkiengateway.net/
 
 Người lùn xuất hiện trở lại xung quanh [T.A.](Third_Age.md) [1050](Third_Age_1050.md), cư trú một thời gian ngắn với Sauron tại [Dol Guldur](../D/Dol_Guldur.md) trước khi quay trở lại Waw. Trong 589 năm tiếp theo, ông cai trị nơi đây từ trong bóng tối. Anh ấy đã được triệu hồi về Phương Tây ở [T.A.](Third_Age.md) [1640](Third_Age_1640.md) để giúp chuẩn bị Mordor cho Sauron trở về. Anh tiếp tục công việc chăn nuôi chó săn và tham gia đánh bắt [Minas Ithil](../M/Minas_Morgul.md).
 
-Trong [Hòa bình thận trọng](../W/Watchful_Peace.md), Người lùn đi theo Sauron về phía đông và bị [Blue Pháp sư](../B/Blue_Wizards.md) tranh chấp. Anh ấy quay lại Mordor vào [T.A.](Third_Age.md) [2941](Third_Age_2941.md) để giúp xây dựng lại Barad-dûr.
+Trong [Hòa bình thận trọng](../W/Watchful_Peace.md), Người lùn đi theo Sauron về phía đông và bị [Blue Pháp sư](../B/Blue_Wizards.md) tranh giành. Anh ấy quay lại Mordor vào [T.A.](Third_Age.md) [2941](Third_Age_2941.md) để giúp xây dựng lại Barad-dûr.
 
 Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Người lùn cưỡi Kỵ sĩ Đen để tìm kiếm [Chiếc nhẫn duy nhất](The_One_Ring.md). Sau cuộc tìm kiếm không có kết quả, anh gia nhập những hồn ma còn lại tại [Trận Morannon](../B/Battle_of_the_Morannon.md), nơi anh bỏ mạng với Sauron thất bại.<sup id="cite_ref-ICE_1-4" class="reference"><a href="#cite_note-ICE-1">[1]</a></sup>
 

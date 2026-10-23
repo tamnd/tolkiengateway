@@ -59,7 +59,7 @@ Một bài viết được viết từ quan điểm [thế giới thứ cấp](.
 
 ### Các thứ tiếng khác {#Other_tongues}
 
-Những ngôn ngữ khó hiểu hơn như [Khuzdul](../K/Khuzdul.md), [Hắc Ngữ](../B/Black_Speech.md), "[Adûnaic](Adûnaic.md) lưỡi" và những ngôn ngữ khó hiểu hơn ([Westron](../W/Westron.md), [Mannish](../M/Mannish.md), [Entish](../E/Entish.md), "[Valinorean](../V/Valinorean.md)") cũng được thảo luận ngắn gọn. Nguồn của chúng chủ yếu là thông tin được nêu trong [Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md).
+Những ngôn ngữ khó hiểu hơn như [Khuzdul](../K/Khuzdul.md), [Hắc Ngữ](../B/Black_Speech.md), "[Adûnaic](Adûnaic.md) lưỡi" và những ngôn ngữ khó hiểu hơn ([Westron](../W/Westron.md), [Mannish](../M/Mannish.md), [Entish](../E/Entish.md), "[Valinorean](../V/Valinorean.md)") cũng được thảo luận ngắn gọn. Nguồn của họ chủ yếu là thông tin được đưa ra trong [Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md).
 
 ### Tên cá nhân {#Personal_names}
 
@@ -91,7 +91,7 @@ Các lý thuyết cũng mô tả sự tiến hóa của Sindarin thông qua các
 
 Các tác giả thường cho rằng Proto-Eldarin đã mất âm thanh cuối cùng trước giai đoạn Quenya. Ví dụ: Quenya *[alda](Alda.md)* đã bị gán sai cho từ Proto-Eldarin \*\**galdar*, bị mất *-r*; dạng số nhiều \*\**galdari* tạo ra Quenya số nhiều *aldar*. Trong [Sindarin nhánh](../C/Common_Telerin.md), dạng \*\**gald* tạo ra Sindarin *[galadh](../G/Galadh.md)* thông qua <a class="new" href="https://tolkiengateway.net/w/index.php?title=Epenthesis&amp;action=edit&amp;redlink=1" title="Epenthesis (page does not exist)">epenthesis</a> (được gọi là *svarabhakti* trong sách).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Phân tích cũng giả định chính xác sự tồn tại của các điểm dừng mũi ban đầu, chẳng hạn như *mb-* phát triển thành Quenya *m-* và Sindarin *b-*. Trớ trêu thay, lời tựa của cuốn sách đề cập rằng lý thuyết này được cho là không tương thích với dữ liệu Elvish mới được tìm thấy trong *Silmarillion*gần đây và cho rằng bằng chứng về tình trạng nghẹt mũi chỉ là kết quả của sự trùng hợp ngẫu nhiên.<sup id="cite_ref-post_2-1" class="reference"><a href="#cite_note-post-2">[2]</a></sup> Tuy nhiên, các nguồn sau này như *The Etymologies* đã xác nhận rằng tình trạng dừng mũi ban đầu thực sự đã tồn tại trong giai đoạn Primitive Quendian (xem các từ như *ndōro*, *mbandō*, *ñgōlē*).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Phân tích cũng giả định chính xác sự tồn tại của các điểm dừng mũi ban đầu, chẳng hạn như *mb-* phát triển thành Quenya *m-* và Sindarin *b-*. Trớ trêu thay, lời tựa của cuốn sách lại đề cập rằng lý thuyết này được coi là không tương thích với dữ liệu Elvish mới được tìm thấy trong *Silmarillion*gần đây và cho rằng bằng chứng về tình trạng nghẹt mũi chỉ là kết quả của sự trùng hợp ngẫu nhiên.<sup id="cite_ref-post_2-1" class="reference"><a href="#cite_note-post-2">[2]</a></sup> Tuy nhiên, các nguồn sau này như *The Etymologies* đã xác nhận rằng tình trạng dừng mũi ban đầu thực sự đã tồn tại trong giai đoạn Primitive Quendian (xem các từ như *ndōro*, *mbandō*, *ñgōlē*).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

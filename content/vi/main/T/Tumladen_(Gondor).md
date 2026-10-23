@@ -31,7 +31,7 @@ Tumladen là tên [Sindarin](../S/Sindarin.md).<sup id="cite_ref-UI_3-1" class="
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Tumladen was located in Upper <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a> in Eastern <a href="../G/Gondor.md" title="Gondor">Gondor</a>. The river <a href="../S/Sirith.md" title="Sirith">Sirith</a> flowed through it. &#34;Imladir&#34; was the Captain of the Guard of Tumladen, but in the days before the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a> the &#34;Lady Terenis&#34;, sister of Steward <a href="../D/Denethor.md" title="Denethor">Denethor</a>, dwelt in Tumladen and held the true power in the valley.</dd></dl>
 

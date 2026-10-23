@@ -32,9 +32,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Balfor là một Người lùn của [Dãy Đồi Sắt](../I/Iron_Hills.md), bị [Goblin](../G/Goblins.md)bắt giữ. Anh ấy được giao nhiệm vụ chế tạo các thiết bị lạ Người lùn ở [Thị trấn yêu tinh](../G/Goblin-town.md). <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ugslap&amp;action=edit&amp;redlink=1" title="Ugslap (page does not exist)">Ugslap</a> là người bảo vệ anh ta.
+Balfor là một Người lùn của [Dãy Đồi Sắt](../I/Iron_Hills.md), bị [Goblin](../G/Goblins.md)bắt giữ. Anh ấy được giao nhiệm vụ chế tạo các thiết bị lạ được Người lùn chế tạo ở [Thị trấn Yêu Tinh](../G/Goblin-town.md). <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ugslap&amp;action=edit&amp;redlink=1" title="Ugslap (page does not exist)">Ugslap</a> là người bảo vệ anh ta.
 
-[Bilbo Baggins](Bilbo_Baggins.md) gặp anh ta khi anh ta bị lạc trong [Dãy Núi Sương Mù](../M/Misty_Mountains.md). Sau khi thỏa thuận với Ugslap để giải thoát Balfor trở nên tồi tệ, Balfor bị đưa trở lại phòng giam khác. Bilbo né tránh lính canh và mở phòng giam, sau đó Balfor giết chết mọi yêu tinh trong phòng. Sau đó anh ta chỉ cho Bilbo một lối thoát khỏi thị trấn Goblin. Tuy nhiên, Bilbo lại rơi vào hang động của [Gollum](../G/Gollum.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+[Bilbo Baggins](Bilbo_Baggins.md) gặp anh ta khi anh ta bị lạc trong [Dãy Núi Sương Mù](../M/Misty_Mountains.md). Sau khi thỏa thuận với Ugslap để giải thoát Balfor trở nên tồi tệ, Balfor bị đưa trở lại phòng giam khác. Bilbo né tránh lính canh và mở phòng giam, sau đó Balfor giết chết mọi yêu tinh trong phòng. Sau đó anh ta chỉ cho Bilbo một lối thoát khỏi Thị trấn Yêu Tinh. Tuy nhiên, Bilbo lại rơi vào hang của [Gollum](../G/Gollum.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

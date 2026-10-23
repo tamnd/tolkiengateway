@@ -25,7 +25,7 @@ The **Third Deep** was a level in [Khazad-dûm](../M/Moria.md) that had treasuri
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2024: <i><a href="The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">Chiếc nhẫn duy nhất</a> — <a href="../M/Moria_-_Through_the_Doors_of_Durin.md" title="Moria - Through the Doors of Durin">Moria: Qua cánh cửa của Durin</a></i>:</b>
+<b>2024: <i><a href="The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">Chiếc nhẫn duy nhất</a> — <a href="../M/Moria_-_Through_the_Doors_of_Durin.md" title="Moria - Through the Doors of Durin">Moria: Qua Cánh cửa Durin</a></i>:</b>
 
 <dl><dd>The Third Deep is contextualized as arsenal and garrison of the Dwarven Tunnel-guards. All of them perished when <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a> unleashed deadly poison during the fall of <a class="mw-redirect" href="../K/Khazad-dûm.md" title="Khazad-dûm">Khazad-dûm</a>. By <a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_2965.md" title="Third Age 2965">2965</a>, due to the lingering poison the armouries remained largely intact. The Lower Armoury, locked with a special key, held the <a href="../D/Durin&#39;s_Axe.md" title="Durin&#39;s Axe">Axe of Durin</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 

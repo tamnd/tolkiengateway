@@ -60,9 +60,9 @@ infobox:
 - Christopher, Joe R. “Sayers và Ousby trên Wilkie Collins.” Đánh giá về *Wilkie Collins: Một nghiên cứu phê bình và tiểu sử* của Dorothy L. Sayers; *Bloodhounds of Heaven: The Detective in English Fiction from Godwin to Doyle* của Ian Ousby. 31-32.
 - Patterson, Nancy-Lou. “Lớp vỏ mỏng thế nào.” Đánh giá *The Dark Tower and Other Stories* của C.S. Lewis. 32-33.
 - Patterson, Nancy-Lou. “Chủ đề, địa điểm, sinh vật, sự vật.” Bài đánh giá về *The Mythology of Middle-earth* của Ruth S. Noel. 33-35.
-- Ellwood, Robert S., Jr. “Về Hình ảnh và Từ ngữ.” Bài đánh giá về *Faeries* của Brian Froud và Alan Lee; *Eschatus* của Bruce Pennington. 35.
-- Walker, Steven C. “Tolkien Theo Bakshi.” Đánh giá về *The Lord of the Rings*, do Ralph Bakshi đạo diễn. 36.
-- Ziegler, Dale. “Ring-Wrath: Hoặc lại là Bakshi.” Đánh giá về *The Lord of the Rings*, do Ralph Bakshi đạo diễn. 37-38.
+- Ellwood, Robert S., Jr. “Về Hình ảnh và Từ ngữ.” Đánh giá *Faeries* của Brian Froud và Alan Lee; *Eschatus* của Bruce Pennington. 35.
+- Walker, Steven C. “Tolkien Theo Bakshi.” Đánh giá *The Lord of the Rings*, do Ralph Bakshi chỉ đạo. 36.
+- Ziegler, Dale. “Nhẫn-Wrath: Hoặc lại là Bakshi.” Đánh giá *The Lord of the Rings*, do Ralph Bakshi chỉ đạo. 37-38.
 - Ellwood, Gracia Fay. Biên tập. 38.
 - Christopher, Joe R. “Một Inklings Thư mục (8).” 46-47.
 

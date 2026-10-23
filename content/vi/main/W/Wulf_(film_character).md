@@ -44,7 +44,7 @@ infobox:
 <p class="tg-quote-footer"><cite>Wulf on the <a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a>.</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Wulf**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một Thủ lĩnh của [Dunlending](../D/Dunlendings.md). Anh ấy đã có mặt khi [Saruman](../S/Saruman.md) tập hợp Dunlendings chống lại [Rohirrim](../R/Rohirrim.md) tại [Isengard](../I/Isengard.md). Khi Saruman nhắc họ rằng Rohirrim đã chiếm đất Dunlending, Wulf đã hét lên "những kẻ sát nhân!". Saruman ra lệnh cho họ "lấy lại đất đai mà họ đã cướp của bạn" và "Đốt cháy mọi ngôi làng!" và nhà Dunlending buộc tội.
+**Wulf**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là Thủ lĩnh của [Dunlending](../D/Dunlendings.md). Anh ấy đã có mặt khi [Saruman](../S/Saruman.md) tập hợp Dunlending chống lại [Rohirrim](../R/Rohirrim.md) tại [Isengard](../I/Isengard.md). Khi Saruman nhắc họ rằng Rohirrim đã chiếm vùng đất Dunlending, Wulf đã hét lên "những kẻ sát nhân!". Saruman ra lệnh cho họ "lấy lại đất đai mà họ đã cướp của bạn" và "Đốt cháy mọi ngôi làng!" và Dunlending được tính phí.
 
 Wulf là tác phẩm nguyên bản dành cho phim *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
 

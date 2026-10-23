@@ -66,11 +66,11 @@ Dưới đây là danh sách các album **nhạc phim** chính thức dựa trê
 ## 2007 {#2007}
 
 - *[The Lord of the Rings: The Return of the King - The Complete Recordings](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)*
-- [*The Lord of the Rings Trực tuyến: Bóng tối của Angmar* (nhạc phim)](<../../main/T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar_(soundtrack).md>)
+- [*The Lord of the Rings Online: Bóng tối của Angmar* (nhạc phim)](<../../main/T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar_(soundtrack).md>)
 
 ## 2008 {#2008}
 
-- [*The Lord of the Rings Trực tuyến: Mỏ của Moria* (nhạc phim)](<../../main/T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria_(soundtrack).md>)
+- [*The Lord of the Rings Online: Mỏ Moria* (nhạc phim)](<../../main/T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria_(soundtrack).md>)
 
 ## 2011 {#2011}
 

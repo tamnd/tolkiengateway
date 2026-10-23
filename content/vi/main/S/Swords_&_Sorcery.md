@@ -43,7 +43,7 @@ De Camp đề cập đến Tolkien trong phần Giới thiệu của mình: "..c
 
 ## Nội dung {#Contents}
 
-- [L. Sprague de Camp](../L/L._Sprague_de_Camp.md): "Giới thiệu: Ảo tưởng anh hùng"
+- [L. Sprague de Camp](../L/L._Sprague_de_Camp.md): "Giới thiệu: Ảo mộng anh hùng"
 - [Poul Anderson](../P/Poul_Anderson.md): "Sự dũng cảm của Cappen Varra"
 - Lãnh chúa Dunsany: "Câu chuyện đau buồn về người thợ kim hoàn Thangobrind"
 - Robert E. Howard: "Bóng tối trong ánh trăng"

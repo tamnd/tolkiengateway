@@ -61,7 +61,7 @@ infobox:
 - "Các xã hội khác"
     - "Đa Engliscan Gesiðas" của Archie Mercer
     - "Xã hội Bắc Borneo Frodo" của Jim Allan
-    - "Hiệp hội tưởng tượng" của Jim Allan
+    - "Hiệp hội giả tưởng" của Jim Allan
 - "Tạp chí"
 - "Mười bốn hai mươi" của Hartley Patterson
 - "Lời cuối cùng - hẹn gặp lại lần sau"

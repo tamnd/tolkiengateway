@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Việc [Hobbit](../../main/H/Hobbits.md) cướp phá [Bilbo's House](../../main/B/Bag_End.md) II" của [Cor Blok](../../main/C/Cor_Blok.md), được tạo vào [ngày 15 tháng 4](../../main/_/15_April.md), [1960](../../main/_/1960.md).
+"Việc [Hobbit](../../main/H/Hobbits.md) cướp phá [Bilbo Ngôi nhà](../../main/B/Bag_End.md) II" của [Cor Blok](../../main/C/Cor_Blok.md), được tạo vào [ngày 15 tháng 4](../../main/_/15_April.md), [1960](../../main/_/1960.md).
 
 ## Giấy phép {#Licensing}
 

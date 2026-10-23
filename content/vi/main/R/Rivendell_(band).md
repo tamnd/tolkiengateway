@@ -81,7 +81,7 @@ Hang ổ của     6. Rồng
     5. Chuyến hành trình
     6. Vương miện
     7. Cảng Xám
-- Fangorn: Những bài thơ về Dãy Núi và Rừng (EP, 2024; phát hành lại bản demo Fangorn năm 1998)
+- Fangorn: Những bài thơ về Dãy Núi và Rừng (EP, 2024; tái phát hành bản demo Fangorn năm 1998)
 - The Bóng Tối-Folk (Đĩa đơn, 2025)
 - Vùng đất ẩn giấu (Đĩa đơn, 2025)
 

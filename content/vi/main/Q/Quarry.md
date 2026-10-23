@@ -46,7 +46,7 @@ Từ <a class="extiw" href="http://en.wiktionary.org/wiki/quarry#Etymology_1" ti
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007:<i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007:<i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Quarry is a stone quarry in the Shire, in the town Scary, currently overtaken by spiders. There is also a cave which is filled with them.</dd></dl>
 

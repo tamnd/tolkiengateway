@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gléowine"
 ---
 
-Chuyển hướng tới [Gléowine](Gléowine.md).
+Chuyển hướng đến [Gléowine](Gléowine.md).

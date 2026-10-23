@@ -99,14 +99,14 @@ Vào năm 2024, tác phẩm Cối xay nước được thông báo sẽ ra mắt
 
 ### Màn I {#Act_I}
 
-- "Nhẫn lò xo" – Công ty
+- "Lò xo Nhẫn" – Công ty
 - "Mở đầu" ('Lasto i lamath') – Arwen
 - "[Con đường vẫn tiếp tục](<The_Road_Goes_Ever_On_(song).md>)" – Frodo, Sam, Pippin, Merry và Công ty
 - "Saruman" – Giọng nữ
 - "Con mèo và Mặt Trăng" – Frodo, Sam, Pippin, Merry và Công ty
 - "Chuyến bay tới Ford" – Glorfindel và Giọng nữ
 - "Bài ca hy vọng" – Arwen
-- "Ngôi sao của Eärendil" – Arwen và Công ty
+- "Ngôi sao Eärendil" – Arwen và Công ty
 - "Than tiếc cho Moria" – Gandalf và Gimli
 
 ### Màn II {#Act_II}

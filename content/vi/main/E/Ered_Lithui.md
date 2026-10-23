@@ -63,7 +63,7 @@ Vào ngày [5 tháng 3](../_/5_March.md) năm [3019](../T/Third_Age_3019.md),<su
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Ered_Lithui.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/23/The_Lord_of_the_Rings_Online_-_Ered_Lithui.jpg/250px-The_Lord_of_the_Rings_Online_-_Ered_Lithui.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/23/The_Lord_of_the_Rings_Online_-_Ered_Lithui.jpg/375px-The_Lord_of_the_Rings_Online_-_Ered_Lithui.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/23/The_Lord_of_the_Rings_Online_-_Ered_Lithui.jpg/500px-The_Lord_of_the_Rings_Online_-_Ered_Lithui.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Ered Lithui in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Ered Lithui are heavily guarded from inside, with a series of fortresses ensuring that nobody can pass unseen.</dd></dl>
 

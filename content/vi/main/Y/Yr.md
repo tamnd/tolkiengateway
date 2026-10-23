@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Iôr"
 ---
 
-Chuyển hướng đến [Iôr](../I/Iôr.md).
+Chuyển hướng tới [Iôr](../I/Iôr.md).

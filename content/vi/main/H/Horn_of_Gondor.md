@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Horn"
 ---
 
-Chuyển hướng tới [Great Horn](../G/Great_Horn.md).
+Chuyển hướng đến [Great Horn](../G/Great_Horn.md).

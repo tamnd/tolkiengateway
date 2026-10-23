@@ -42,7 +42,7 @@ infobox:
 
 Trong [1987](../_/1987.md), phiên bản thứ 2 của mô-đun này đã được phát hành, bao gồm bản đồ khu vực đầy màu sắc mới.
 
-Để sử dụng cùng với phần bổ sung này, [Mithril Miniatures](../M/Mithril_Miniatures.md) đã phát hành một bộ mô hình thu nhỏ bằng kim loại (M26 - M31 *Riders of Rohan*).
+Để sử dụng với phần bổ sung này, [Mithril Miniatures](../M/Mithril_Miniatures.md) đã phát hành một bộ mô hình thu nhỏ bằng kim loại (M26 - M31 *Riders of Rohan*).
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
@@ -57,11 +57,11 @@ Gói này bao gồm RIDERS OF ROHAN trong 3 giai đoạn riêng biệt:
 - *bao gồm bố cục cho Helm's Deep, Edoras, Dunharrow và Harrowdale*
 - *thông tin về Vidugavia, Frumgar, Fram the Rồng-slayer, Wormtongue, Helm, Theoden, Eomer và Eowyn*
 
-Hầu hết mọi thứ về Người phương Bắc đã thay đổi khi họ có được ngựa: phương pháp săn bắn, tôn giáo, mối quan hệ của họ với những Con Người - Con Người khác không sở hữu ngựa. Tuy nhiên, thái độ của họ đối với Chúa tể Bóng tối vẫn không thay đổi. Họ khinh thường anh ta và những sáng tạo của anh ta, cũng như tất cả Con Người tà ác tôn thờ bóng tối ... và họ vẫn không tin vào phép thuật và các pháp sư, bất kể họ tuyên bố đứng về phía nào.
+Hầu hết mọi thứ về Người phương Bắc đã thay đổi sau khi họ có được ngựa: phương pháp săn bắn, tôn giáo, mối quan hệ của họ với những Con Người - Con Người khác không sở hữu ngựa. Tuy nhiên, thái độ của họ đối với Chúa tể Bóng tối vẫn không thay đổi. Họ khinh thường anh ta và những sáng tạo của anh ta, cũng như tất cả Con Người tà ác tôn thờ bóng tối ... và họ vẫn không tin vào phép thuật và các pháp sư, bất kể họ tuyên bố đứng về phía nào.
 
 Kỵ Sĩ ROHAN bao gồm:
 
 - 6 TRANG ĐẦY MÀU: bản đồ 2 trang của khu vực Hornburg, cùng với bản đồ của Framsburg, Rừng Drúadan, Edoras và bản đồ khu vực của Rohan
 - BỐ CỤC CHÍNH: của Buhr Marling (một ngôi làng của Chúa tể Ngựa kiên cố), Ilanin (một ngôi làng wain), The Hornburg, The Juggler's Hall, The Signal-tower và The Inn of Grays
 - NGƯỜI Kỵ Sĩ: tổng quan về Người phương Bắc Các chúa tể kỵ mã từ Kỷ Đệ Tam đến những năm đầu của Kỷ Đệ Tứ
-- Cư dân KHÁC: Người Dunlending, Bán Orc, Người hầu của Bàn tay trắng và Drúedain
+- Cư dân KHÁC: Dunlending, Bán Orc, Người hầu của Bàn tay trắng và Drúedain

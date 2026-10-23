@@ -30,20 +30,20 @@ sort_keys:
     - "Mục đích, mục tiêu và kế hoạch của Hội học bổng Ngôn ngữ Elvish"
     - "Báo cáo từ Mythcon 19"
     - "Cơ bản Elvish: Tên các số trong Elvish"
-    - "Elvish Thơ: Bài thơ Chiếc nhẫn trong Quenya" (với [Christopher Gilson](../C/Christopher_Gilson.md))
+    - "Elvish Thơ: Bài thơ Nhẫn trong Quenya" (với [Christopher Gilson](../C/Christopher_Gilson.md))
     - "Những lá thư J.R.R. Tolkien, Tập II: Trò lừa bịp?"
     - "Lời bạt của bài xã luận"
 - [1988](../_/1988.md): *[Parma Eldalamberon 7](../P/Parma_Eldalamberon_7.md)*
     - "Corma Laire Quenyasse"
     - "Từ điển tiếng Anh làm việc"
 - [1988](../_/1988.md): *[Vinyar Tengwar 2](../V/Vinyar_Tengwar_2.md)* (biên tập viên)
-    - "*Halls of the Elven-king* của Tom Loback" (đánh giá)
+    - "*Halls of the Elven-king* bởi Tom Loback" (đánh giá)
     - "Danh mục thiên văn Elvish"
     - "Đánh giá ngôn ngữ học của J.R.R. Tolkien *The Return of the Shadow*"
     - "Đánh giá ngắn gọn về *The Annotated Hobbit* của J.R.R. Tolkien, ghi chú của Douglas A. Anderson"
     - "Số tiếp theo và Lời bạt của bài xã luận"
 - [1989](../_/1989.md): *[Vinyar Tengwar 3](../V/Vinyar_Tengwar_3.md)* (biên tập viên)
-    - "Số tiếp theo và lời bạt của bài xã luận"
+    - "Số tiếp theo và Lời bạt của bài xã luận"
 - [1989](../_/1989.md): *[Vinyar Tengwar 4](../V/Vinyar_Tengwar_4.md)* (biên tập viên)
     - "Lời bạt của bài xã luận và số tiếp theo"
 - [1989](../_/1989.md): *[Vinyar Tengwar 5](../V/Vinyar_Tengwar_5.md)* (biên tập viên)
@@ -67,7 +67,7 @@ sort_keys:
     - "Nole i Meneldilo: Truyền thuyết về nhà thiên văn học" (với <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ned_Raggett&amp;action=edit&amp;redlink=1" title="Ned Raggett (page does not exist)">Ned Raggett</a>)
     - "Narqelion: Bản dịch của Paul Nolan Hyde"
 - [1990](../_/1990.md): *[Vinyar Tengwar 13](../V/Vinyar_Tengwar_13.md)*
-    - "Khảo sát các bản dịch bài thơ nhẫn"
+    - "Khảo sát Nhẫn Dịch thơ"
 - [1990](../_/1990.md): *[Parma Eldalamberon](../P/Parma_Eldalamberon.md)* 9
     - "I Tyel Ehteliono ar Cosmoco"
 - [1993](../_/1993.md): [*Other Hands* 2](../O/Other_Hands_2.md)

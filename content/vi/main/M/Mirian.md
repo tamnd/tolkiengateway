@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Castar"
 ---
 
-Chuyển hướng tới [Castar](../C/Castar.md).
+Chuyển hướng đến [Castar](../C/Castar.md).

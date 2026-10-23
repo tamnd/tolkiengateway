@@ -26,7 +26,7 @@ Vào [5 tháng 1](../_/5_January.md) [1961](../_/1961.md), [J.R.R. Tolkien](../J
 
 - **Chủ đề:** Tolkien viết về [bản dịch tiếng Hà Lan](../M/Max_Schuchart.md) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*và trả lời câu hỏi về từ nguyên của tên *[Númenor](../N/Númenor.md)*, cùng những nội dung khác.
 - **Mô tả**: Thư viết tay.
-- **Xuất bản:** Một đoạn trích lớn từ bức thư đã được xuất bản dưới tên [Thư 227](Letter_227.md) trong *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
+- **Xuất bản:** Một đoạn trích lớn từ bức thư đã được xuất bản dưới dạng [Thư 227](Letter_227.md) trong *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
 
 ## Trích {#Excerpt}
 

@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-- [Gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=WAR&amp;action=edit&amp;redlink=1" title="WAR (page does not exist)">WAR</a>
+- [Gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=WAR&amp;action=edit&amp;redlink=1" title="WAR (page does not exist)">CHIẾN</a>
 
 ## Xem thêm {#See_also}
 

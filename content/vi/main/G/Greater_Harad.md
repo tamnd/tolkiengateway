@@ -41,7 +41,7 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Phía nam và phía đông của vùng cát cháy Far Harad là các thành phố [Sîrayn](../S/Sîrayn.md). Họ chỉ huy các tuyến đường thương mại thịnh vượng của Greater Harad, một miền ven sông màu mỡ nằm giữa sa mạc khắc nghiệt và những ngọn tháp đáng sợ của [Dãy núi Vàng](../Y/Yellow_Mountains.md). Các triều đại đến và đi trong ốc đảo quốc tế rộng lớn này. Giữa những cuộc cạnh tranh thương mại, một nỗi kinh hoàng mới đối đầu với Haradrim. [Akhôrahil Ma Nhẫn](../F/Fifth_of_the_Nazgûl.md) — Cơn Bão khủng khiếp Vua — âm mưu chinh phục Greater Harad.
+Phía nam và phía đông của vùng cát cháy Far Harad là các thành phố [Sîrayn](../S/Sîrayn.md). Họ chỉ huy các tuyến đường thương mại thịnh vượng của Greater Harad, một miền ven sông màu mỡ nằm giữa sa mạc khắc nghiệt và những ngọn tháp đáng sợ của [Dãy Núi Vàng](../Y/Yellow_Mountains.md). Các triều đại đến và đi trong ốc đảo quốc tế rộng lớn này. Giữa những cuộc cạnh tranh thương mại, một nỗi kinh hoàng mới đối đầu với Haradrim. [Akhôrahil Ringwraith](../F/Fifth_of_the_Nazgûl.md) — Cơn bão khủng khiếp Vua — âm mưu chinh phục Greater Harad.
 
 Tìm kiếm vận may của bạn ở vùng đất Greater Harad nơi các lãnh chúa thương gia thống trị các con đường và tên bạo chúa độc ác lên ngôi ở Tûl Isra cai trị các thành phố độc lập một thời. Những tay sai hắc ám đang thống trị dân chúng và chế độ nô lệ phát triển mạnh. Những câu chuyện được đồn thổi về Obed xứ Másra gợi ý rằng những vũ khí huyền thoại của người anh hùng vẫn chưa có người nhận trong một hầm mộ đổ nát.
 
@@ -50,7 +50,7 @@ HARAD TUYỆT VỜI bao gồm
 - BẢN ĐỒ ĐẦY MÀU 22" x 17" mô tả khu vực.
 - 3 BẢN ĐỒ THÀNH PHỐ ĐẦY MÀU hiển thị [Tûl Isra](../T/Tûl_Isra.md), [Tûl Harar](../T/Tûl_Harar.md) và [Charnesra](../C/Charnesra.md).
 - BỐ CỤC CHI TIẾT về các khu mỏ cổ bên dưới Ghabaras, các hang động ma ám ở Moghóly Dask và các địa điểm phiêu lưu khác.
-- THÔNG TIN CHUYÊN SÂU về các dân tộc, văn hóa, chính trị, các tuyến đường thương mại và chiến thuật thống trị các thung lũng sông Greater Harad.
+- THÔNG TIN CHUYÊN SÂU về các dân tộc, văn hóa, chính trị, tuyến đường thương mại và chiến thuật thống trị các thung lũng sông Greater Harad.
 - THỐNG KÊ VÀ THÔNG TIN CƠ BẢN về những cá nhân nổi bật như [Tartas Izain](../T/Tartas_Izain.md), Taraskon của Tûl Isra và chủ nhân Nazgûl độc ác của hắn, Akhôrahil the Storm Vua.
 
 ## Xem thêm {#See_also}

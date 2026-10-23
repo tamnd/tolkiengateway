@@ -22,7 +22,7 @@ Vào [14 tháng 6](../_/14_June.md) [1973](../_/1973.md), [J.R.R. Tolkien](../J/
 
 - **Chủ đề:** Thảo luận về việc dịch *[The Hobbit](../T/The_Hobbit.md)* sang tiếng Ý.
 - **Mô tả:** Thư đánh máy, có chữ ký; Cao đẳng Merton, Oxford; 1½ trang, 4 trang, được dập ghim ở phía trên bên trái.
-- **Ấn phẩm:** Trích dẫn từ bức thư xuất hiện trong *[Christie's Fine Printed Books and Manuscripts 19 June 2012](../C/Christie's_Fine_Printed_Books_and_Manuscripts_19_June_2012.md)*. Trang đầu tiên của bức thư được sao chép trong một bức ảnh.
+- **Ấn bản:** Trích dẫn từ bức thư xuất hiện trong *[Christie's Fine Printed Books and Manuscripts 19 June 2012](../C/Christie's_Fine_Printed_Books_and_Manuscripts_19_June_2012.md)*. Trang đầu tiên của bức thư được sao chép trong một bức ảnh.
 
 ## Trích đoạn {#Excerpts}
 

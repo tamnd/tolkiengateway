@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calben"
 ---
 
-Chuyển hướng đến [Calben](Calben.md).
+Chuyển hướng tới [Calben](Calben.md).

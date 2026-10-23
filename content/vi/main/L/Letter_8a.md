@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã viết thư cho con trai [John](../J/John_Tolkien.md), mười sáu tuổi và là học sinh tại Trường Oratory ở Birmingham, để thảo luận về kế hoạch của cậu ấy cho những học kỳ sắp tới. Ông gửi lời chia buồn về việc John không đạt được tín chỉ bằng tiếng Latinh và cảnh báo rằng John đang sắp bước vào "những năm tháng nghiêm túc" của cuộc đời. Anh ta cũng đề xuất hủy các buổi học vẽ của John do chi phí cao và sự thiếu quan tâm rõ ràng của John.
+Tolkien đã viết thư cho con trai [John](../J/John_Tolkien.md), mười sáu tuổi và là học sinh tại Trường Oratory ở Birmingham, để thảo luận về kế hoạch của cậu cho những học kỳ sắp tới. Ông gửi lời chia buồn về việc John không đạt được tín nhiệm bằng tiếng Latinh và cảnh báo rằng John đang đứng trước những "năm nghiêm túc" của cuộc đời. Anh ta cũng đề nghị hủy buổi học vẽ của John do chi phí và sự thiếu quan tâm rõ ràng của John.
 
 <br>
 

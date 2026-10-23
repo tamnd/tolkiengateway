@@ -102,7 +102,7 @@ Trong các phiên bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*
 
 <dl><dd>Aeglos is wielded by <a href="../C/Celebrimbor.md" title="Celebrimbor">Celebrimbor</a>&#39;s wraith. The blade bears the inscription: &#34;Gil-galad wields a well made spear / The Orc will fear my point of ice / When he sees me, in fear of death / He will know my name: Aeglos&#34;<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Gil-galad wields the spear during the <a href="../B/Battle_of_Dagorlad.md" title="Battle of Dagorlad">Battle of Dagorlad</a>. After <a href="../S/Sauron.md" title="Sauron">Sauron</a>&#39;s fall, Aeglos is discovered perched atop a pillar-like pinnacle in the Plateau of <a class="mw-redirect" href="../G/Gorgoroth.md" title="Gorgoroth">Gorgoroth</a>, where it continues to emit a bright light. It is left as a beacon of hope to those who traverse the scorched plains of <a href="../M/Mordor.md" title="Mordor">Mordor</a>.</dd></dl>
 

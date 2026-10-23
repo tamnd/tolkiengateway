@@ -37,7 +37,7 @@ infobox:
 
 Nhân viên *Oxford English Dictionary*, biên soạn một mục cho *hobbit* trong phần phụ lục thứ hai của họ, đã hỏi về nguồn gốc của từ này và liệu nó có phải từ một câu chuyện trước đó hay không. Tolkien thừa nhận mối quan tâm cá nhân đối với nó và muốn ý nghĩa của nó được làm rõ. Anh ấy đã cảnh báo họ rằng nhìn vào mọi thứ là tìm kiếm rắc rối.
 
-Anh ta đã được các chuyên gia điều tra từ nguyên "được phát minh bởi J.R.R. Tolkien". Anh ấy biết tuyên bố của mình không rõ ràng nhưng anh ấy không bận tâm về điều đó cho đến khi phần bổ sung thứ hai xuất hiện. Sau đó, ông đưa ra một định nghĩa, giả định rằng từ nguyên có thể tồn tại:
+Anh ta đã được các chuyên gia điều tra từ nguyên "được phát minh bởi J.R.R. Tolkien". Anh ấy biết tuyên bố của mình không rõ ràng nhưng anh ấy không bận tâm về điều đó cho đến khi phần bổ sung thứ hai xuất hiện. Sau đó, ông đưa ra một định nghĩa, giả định rằng từ nguyên có thể đứng vững:
 
 <blockquote class="tg-quote noexcerpt">
 <p>One of an imaginary people, a small variety of the human race, that gave themselves the name (meaning &#34;hole-dweller&#34;) but were called by others <i>halflings</i>, since they were half the height of normal men.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>

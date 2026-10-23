@@ -58,7 +58,7 @@ Lịch <i><b>Tolkien 2004</b></i> là lịch Tolkien chính thức được xu�
 - Tháng 4 - "[Éowyn và Nazgûl](../../file/T/Ted_Nasmith_-_Éowyn_and_the_Nazgûl.jpg.md)"
 - Tháng 5 - "[Mái vòm của người chết](../../file/T/Ted_Nasmith_-_The_Domes_of_the_Dead.jpg.md)"
 - Tháng 6 - "[Tàn cuộc trên núi](../../file/T/Ted_Nasmith_-_Endgame_on_the_Mountain.jpg.md)"
-- Centrefold - "[Vội vàng đến Thành phố Trắng](../../file/T/Ted_Nasmith_-_In_Haste_to_the_White_City.jpg.md)"
+- Trung tâm - "[Vội vàng đến Thành phố Trắng](../../file/T/Ted_Nasmith_-_In_Haste_to_the_White_City.jpg.md)"
 - Tháng 7 - "[ Bóng Tối của Sauron](../../file/T/Ted_Nasmith_-_The_Shadow_of_Sauron.jpg.md)"
 - Tháng 8 - "[Éowyn và Faramir](../../file/T/Ted_Nasmith_-_Éowyn_and_Faramir.jpg.md)"
 - tháng Chín - "[Saruman bị vượt qua](../../file/T/Ted_Nasmith_-_Saruman_is_Overtaken.jpg.md)"

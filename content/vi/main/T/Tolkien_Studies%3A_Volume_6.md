@@ -73,11 +73,11 @@ Tập này xuất bản lần đầu tiên bài tiểu luận "[Số phận và 
     - *[Tolkien, Lịch sử chủng tộc và văn hóa](Tolkien,_Race_and_Cultural_History.md): Từ các nàng tiên đến Hobbit*, bởi Dimitra Fimi, được đánh giá bởi Thomas Honegger
     - *[Tolkien's "The Lord of the Rings": Sources of Inspiration](Tolkien's_The_Lord_of_the_Rings_–_Sources_of_Inspiration.md)*, do Stratford Caldecott và Thomas Honegger biên tập, Gerald Seaman xem xét
     - *[Tolkien's Oxford](Tolkien's_Oxford.md)*, của Robert S. Blackham, được David Doughan đánh giá
-    - *[Tolkien Tác phẩm ngắn hơn](Tolkien's_Shorter_Works.md): Kỷ yếu Hội thảo lần thứ 4 của Deutsche Tolkien Gesellschaft & Hội nghị Mười năm của Nhà xuất bản Cây đi bộ*, do Margaret Hiley và Frank Weinreich biên tập, John D. Rateliff đánh giá
+    - *[Tolkien Các tác phẩm ngắn hơn](Tolkien's_Shorter_Works.md): Kỷ yếu Hội thảo lần thứ 4 của Deutsche Tolkien Gesellschaft & Nhà xuất bản Cây biết đi Hội nghị Thập niên*, do Margaret Hiley và Frank Weinreich biên tập, được John D. Rateliff xem xét
     - *Sự thật được thổi qua bạc: Di sản đạo đức và thần thoại Inklings*, do Jonathan B. Himes, Joe R. Christopher và Salwa Khoddam biên tập, được Richard C. West biên tập
     - Ghi chú sách, của Douglas A. Anderson
 
-- David Bratman, "Công trình nghiên cứu Tolkien của năm 2006"
+- David Bratman, "Công trình nghiên cứu của năm Tolkien 2006"
 - Jason Rea, Kathryn Paar, và Michael D.C. Drout, "Thư mục (bằng tiếng Anh) năm 2007"
 
 ## Liên kết ngoài {#External_links}

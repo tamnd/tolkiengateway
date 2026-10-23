@@ -14,15 +14,15 @@ categories:
   - "Qenya names"
 ---
 
-**Amnon** là một [nhà tiên tri](../S/Seer.md) thời xưa theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Lời tiên tri được biết đến nhiều nhất của ông là "*Great is the [fall of Gondolin](../F/Fall_of_Gondolin.md)*", được trích dẫn lại bởi [Turgon](../T/Turgon.md), Vua của [Gondolin](../G/Gondolin.md), tại thời điểm sự kiện diễn ra.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Amnon** là một [nhà tiên tri](../S/Seer.md) xưa theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Lời tiên tri được biết đến nhiều nhất của ông là "*Great is the [fall of Gondolin](../F/Fall_of_Gondolin.md)*", được trích dẫn lại bởi [Turgon](../T/Turgon.md), Vua của [Gondolin](../G/Gondolin.md), tại thời điểm sự kiện diễn ra.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phiên bản đầu tiên của [Lời nguyền của Mandos](../D/Doom_of_Mandos.md) xuất hiện trong *The Book of Lost Tales*, người hầu của [Vefántur](../V/Vefántur.md) là người tuyên bố, cùng với những bất hạnh khác, sự sụp đổ của Gondolin; và [Noldoli](../N/Noldoli.md) ghi nhớ những lời đó là "Lời tiên tri của Amnos" (*[Amnos](Amnos.md)* là nơi họ đã nghe thấy chúng).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Sau đó, [Tolkien](../T/Tolkien.md) đã viết một vài ghi chú đề cập đến "Lời tiên tri của Amnon", với dòng chữ "*Sự sụp đổ của Gondolin thật tuyệt vời. Khi [hoa huệ của thung lũng](../L/Lothengriol.md) khô héo thì Turgon mờ dần*", nhưng không rõ ở đây *Amnon* là địa điểm hay con người. Như [Christopher Tolkien](../C/Christopher_Tolkien.md) gợi ý, nhà tiên tri Amnon có thể là người hầu của Vefántur đã tuyên bố về sự diệt vong của Noldoli.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong phiên bản đầu tiên của [Lời nguyền của Mandos](../D/Doom_of_Mandos.md) xuất hiện trong *The Book of Lost Tales*, người hầu của [Vefántur](../V/Vefántur.md) là người tuyên bố, cùng với những bất hạnh khác, sự sụp đổ của Gondolin; và [Noldoli](../N/Noldoli.md) ghi nhớ những lời đó là "Lời tiên tri về Amnos" (*[Amnos](Amnos.md)* là nơi họ đã nghe thấy chúng).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Sau đó, [Tolkien](../T/Tolkien.md) đã viết một vài ghi chú đề cập đến "Lời tiên tri về Amnon", với dòng chữ "*Sự sụp đổ của Gondolin thật tuyệt vời. Khi [hoa huệ của thung lũng](../L/Lothengriol.md) khô héo thì Turgon mờ dần*", nhưng không rõ ở đây *Amnon* là một địa điểm hay một con người. Như [Christopher Tolkien](../C/Christopher_Tolkien.md) gợi ý, nhà tiên tri Amnon có thể là người hầu của Vefántur đã tuyên bố về sự diệt vong của Noldoli.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Trong Kinh thánh, Amnon là đứa con cả độc ác của vua David. [Tolkien](../J/J.R.R._Tolkien.md) chắc chắn đã biết đến nhân vật này (vì anh ta là một người Công giáo), và thật tò mò khi suy đoán về việc anh ta đặc biệt chọn cái tên này như thế nào trong các tác phẩm trước đây của anh ta.
+Trong Kinh thánh, Amnon là đứa con trai cả độc ác của vua David. [Tolkien](../J/J.R.R._Tolkien.md) chắc chắn đã biết đến nhân vật này (vì anh ta là một người Công giáo), và thật tò mò khi suy đoán về việc anh ta đặc biệt chọn cái tên này như thế nào trong các tác phẩm trước đây của anh ta.
 
 <span></span>
 

@@ -120,7 +120,7 @@ Trong hai ghi chú cốt truyện cho *[The Hobbit](../T/The_Hobbit.md)*, Girion
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Dale-BFME2.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/96/Dale-BFME2.jpg/200px-Dale-BFME2.jpg" decoding="async" loading="lazy" width="200" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/96/Dale-BFME2.jpg/300px-Dale-BFME2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/96/Dale-BFME2.jpg/400px-Dale-BFME2.jpg 2x" data-file-width="512" data-file-height="384"/></a><figcaption>Dale in <a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II"><i>BFME</i> II</a></figcaption></figure>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
 <dl><dd>The City of Dale appears in the <i>Erebor</i> map, just south-east of the mountain itself. It appears to contain several houses, taverns and bridges, as well as a statue of a man. The city is built around the mountain&#39;s river.</dd></dl>
 
@@ -136,7 +136,7 @@ Trong hai ghi chú cốt truyện cho *[The Hobbit](../T/The_Hobbit.md)*, Girion
 
 <dl><dd>After the death of <a href="../S/Smaug.md" title="Smaug">Smaug</a>, the villagers of <a href="../L/Lake-town.md" title="Lake-town">Lake-town</a> seek refuge in the ruined city. During the <a href="../B/Battle_of_Five_Armies.md" title="Battle of Five Armies">Battle of Five Armies</a>, they hide inside Dale while the <a href="../L/Lake-men.md" title="Lake-men">Lake-men</a> combat the enemy forces. When the <a href="../O/Orcs.md" title="Orcs">Orc</a> army attacks the ruined city, Bard and the Lake-towners run to defend it, leaving the <a href="Dwarves.md" title="Dwarves">Dwarves</a> and the <a href="../E/Elves.md" title="Elves">Elves</a> to protect the gates of Erebor. The Elves later come to join the <a href="../M/Men.md" title="Men">Men</a> in defending the city.</dd></dl>
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Dale.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9f/The_Lord_of_the_Rings_Online_-_Dale.jpg/300px-The_Lord_of_the_Rings_Online_-_Dale.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9f/The_Lord_of_the_Rings_Online_-_Dale.jpg/450px-The_Lord_of_the_Rings_Online_-_Dale.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9f/The_Lord_of_the_Rings_Online_-_Dale.jpg/600px-The_Lord_of_the_Rings_Online_-_Dale.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Dale in <i>The Lord of the Rings Online</i></figcaption></figure>
 

@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Có lẽ là [OS](../O/OS.md) \**keleka*, từ [PQ](../P/PQ.md) \**kyelekâ*, [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=KYELEK&amp;action=edit&amp;redlink=1" title="KYELEK (page does not exist)">KYELEK</a>
+Có lẽ là [OS](../O/OS.md) \**keleka*, từ [PQ](../P/PQ.md) \**kyelekâ*, [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=KYELEK&amp;action=edit&amp;redlink=1" title="KYELEK (page does not exist)">KYELEK</a>
 
 ## Ví dụ {#Examples}
 

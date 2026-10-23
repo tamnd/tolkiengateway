@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Calmacil"
 ---
 
-Chuyển hướng đến [Tar-Calmacil](../T/Tar-Calmacil.md).
+Chuyển hướng tới [Tar-Calmacil](../T/Tar-Calmacil.md).

@@ -14,4 +14,4 @@ sort_keys:
   "Images by artist": "Piparo, Andrea"
 ---
 
-Danh mục này liệt kê tất cả **hình ảnh của [Andrea Piparo](../../main/A/Andrea_Piparo.md)**.
+Danh mục này liệt kê tất cả **hình ảnh theo [Andrea Piparo](../../main/A/Andrea_Piparo.md)**.

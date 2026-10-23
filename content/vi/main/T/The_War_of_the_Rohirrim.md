@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The War of the Rohirrim"
 ---
 
-Chuyển hướng tới [The Lord of the Rings: Cuộc chiến của Rohirrim](The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md).
+Chuyển hướng đến [The Lord of the Rings: The War of the Rohirrim](The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md).

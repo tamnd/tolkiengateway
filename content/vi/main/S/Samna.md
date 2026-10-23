@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Trước đó *thamna* từ [PQ](../P/PQ.md) \**stabnâ* ([Root](Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=STAB&amp;action=edit&amp;redlink=1" title="STAB (page does not exist)">STAB</a>)
+Trước đó *thamna* từ [PQ](../P/PQ.md) \**stabnâ* ([Gốc](Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=STAB&amp;action=edit&amp;redlink=1" title="STAB (page does not exist)">STAB</a>)
 
 <span></span>
 

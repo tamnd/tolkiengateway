@@ -66,7 +66,7 @@ Tên [Westron](../W/Westron.md) chính hãng là <i><a class="new" href="https:/
 
 <dl><dd><a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> recounts his dream to <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> in <a href="../F/Fangorn_Forest.md" title="Fangorn Forest">Fangorn Forest</a>. In his dream, they smoked a large barrel, full of pipe-weed and Pippin vomited. He says &#39;I&#39;d give anything for a whiff of Old Toby.&#39;</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The smoke from Old Toby Pipe-weed takes the form of a large heart with a ring inside it.</dd></dl>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yúnece"
 ---
 
-Chuyển hướng đến [Yúnece](Yúnece.md).
+Chuyển hướng tới [Yúnece](Yúnece.md).

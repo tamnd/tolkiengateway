@@ -27,9 +27,9 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Thengel](../../main/T/Thengel.md), của [Warren Mahy](../../main/W/Warren_Mahy.md). Từ [Isengard (LOTRRPG)](<../../main/I/Isengard_(LOTRRPG).md>).
+[Thengel](../../main/T/Thengel.md), bởi [Warren Mahy](../../main/W/Warren_Mahy.md). Từ [Isengard (LOTRRPG)](<../../main/I/Isengard_(LOTRRPG).md>).
 
-Lưu ý rằng các sự kiện trong kịch bản và ở một mức độ nào đó trong hình ảnh khác với các sự kiện trong [Appendix A](../../main/A/Appendix_A.md) và [B](../../main/A/Appendix_B.md). Trong kịch bản, [Théoden](../../main/T/Théoden.md) được sinh ra vào năm [Rohan](../../main/R/Rohan.md) dưới thời trị vì của [Thengel](../../main/T/Thengel.md) và [Saruman](../../main/S/Saruman.md) có mặt (mặc dù không được mời) tại "lễ rửa tội". Trong sách, Théoden được sinh ra vào năm [Gondor](../../main/G/Gondor.md), dưới thời trị vì của [Fengel](../../main/F/Fengel.md) và không có nghi lễ sinh nở nào tương tự như lễ rửa tội từng được ghi lại.
+Lưu ý rằng các sự kiện trong kịch bản và ở một mức độ nào đó trong hình ảnh khác với các sự kiện trong [Appendix A](../../main/A/Appendix_A.md) và [B](../../main/A/Appendix_B.md). Trong kịch bản, [Théoden](../../main/T/Théoden.md) được sinh ra vào năm [Rohan](../../main/R/Rohan.md) dưới thời trị vì của [Thengel](../../main/T/Thengel.md)và [Saruman](../../main/S/Saruman.md) có mặt (mặc dù không được mời) tại "lễ rửa tội". Trong sách, Théoden được sinh ra vào năm [Gondor](../../main/G/Gondor.md), dưới thời trị vì của [Fengel](../../main/F/Fengel.md) và không có nghi lễ sinh nở nào tương tự như lễ rửa tội từng được ghi lại.
 
 ## Giấy phép {#Licensing}
 

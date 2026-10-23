@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Khuzd"
 ---
 
-Chuyển hướng đến [Khuzd](Khuzd.md).
+Chuyển hướng tới [Khuzd](Khuzd.md).

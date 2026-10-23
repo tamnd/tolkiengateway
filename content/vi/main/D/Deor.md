@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Déor"
 ---
 
-Chuyển hướng đến [Déor](Déor.md).
+Chuyển hướng tới [Déor](Déor.md).

@@ -21,7 +21,7 @@ images:
 
 ## Lịch sử {#History}
 
-Hội được thành lập tại [1991](../_/1991.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Elche" title="wikipedia:Elche">Elche</a>, nhân dịp kỷ niệm [Kỷ niệm 100 năm](../_/1992.md) sắp tới, có cuộc họp chính thức đầu tiên vào [ngày 9 tháng 2](../_/9_February.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Chủ tịch đầu tiên của Hội là [José Manuel Ferrández Bru](../J/José_Manuel_Ferrández_Bru.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Mặc dù Ban chấp hành và trụ sở của Hội được đặt ở một địa phương cụ thể, nhưng có rất nhiều phái đoàn địa phương được triệu tập "cười".
+Hiệp hội được thành lập tại [1991](../_/1991.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Elche" title="wikipedia:Elche">Elche</a>, nhân kỷ niệm [Kỷ niệm 100 năm](../_/1992.md) sắp tới, có cuộc họp chính thức đầu tiên vào [9 tháng 2](../_/9_February.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Chủ tịch đầu tiên của Hiệp hội là [José Manuel Ferrández Bru](../J/José_Manuel_Ferrández_Bru.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Mặc dù Ban chấp hành và trụ sở của nó được đặt ở một địa phương cụ thể, nhưng có nhiều đoàn đại biểu địa phương được gọi là "smials".
 
 Kể từ [2015](../_/2015.md), một [podcast](../P/Podcast.md) chính thức được phát hành hàng tháng, có tên là "<a class="external text" href="https://www.sociedadtolkien.org/podcast/" rel="noreferrer noopener" target="_blank">Regreso a Hobbiton</a>".
 

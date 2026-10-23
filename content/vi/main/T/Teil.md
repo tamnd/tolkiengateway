@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tâl"
 ---
 
-Chuyển hướng tới [Tâl](Tâl.md).
+Chuyển hướng đến [Tâl](Tâl.md).

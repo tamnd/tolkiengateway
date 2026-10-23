@@ -100,7 +100,7 @@ Tolkien ban đầu gọi Léod là Garman.
 
 <dl><dd>A tapestry depicting the death of Léod hangs at <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a>.</dd></dl>
 
-<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Léod appears briefly in a flashback narrating the history of the <a href="../_/Éothéod.md" title="Éothéod">Éothéod</a>.</dd></dl>
 

@@ -59,7 +59,7 @@ Nhìn chung, lịch sử học bổng Tolkien được chia thành 4 khoảng th
 - đánh giá cuốn sách
 - thời kỳ sùng bái và những phản ứng dữ dội đối với nó
 - sự chấp nhận Tolkien với tư cách là tác nhân văn học
-- và cuối cùng là giai đoạn hậu[phim](<The_Lord_of_the_Rings_(film_series).md>), bao gồm các tập mở rộng, tái bản và nhiều chủ đề khác nhau.<sup id="cite_ref-ScholOverview_5-0" class="reference"><a href="#cite_note-ScholOverview-5">[5]</a></sup>
+- và cuối cùng là giai đoạn hậu [phim](<The_Lord_of_the_Rings_(film_series).md>), bao gồm các tập mở rộng, tái bản và nhiều chủ đề khác nhau.<sup id="cite_ref-ScholOverview_5-0" class="reference"><a href="#cite_note-ScholOverview-5">[5]</a></sup>
 
 Hai giai đoạn đầu đã được [Tom Shippey](Tom_Shippey.md) tóm tắt là "Thời đại ngây thơ": thời gian trước khi xuất bản *[The Silmarillion](The_Silmarillion.md)*, *[Unfinished Tales](../U/Unfinished_Tales.md)*, *[The Letters of J.R.R. Tolkien](The_Letters_of_J.R.R._Tolkien.md)* và *[The History of Middle-earth](The_History_of_Middle-earth.md)*. Sau khi xuất bản ít nhất một số trong số đó, nhiều suy ngẫm, lý thuyết và phỏng đoán đã bị san phẳng bởi thông tin bổ sung.<sup id="cite_ref-CompFore_6-0" class="reference"><a href="#cite_note-CompFore-6">[6]</a></sup> Lĩnh vực được các nhà phê bình văn học quan tâm vẫn còn mỏng và nghiên cứu học thuật nghiêm túc còn hiếm. Hội nghị đầu tiên về văn học Tolkien được tổ chức vào [1966](../_/1966.md); Trước đó, chỉ có những tác phẩm sưu tầm về văn học thiếu nhi mới gây được sự chú ý đặc biệt cho *The Hobbit* và *The Lord of the Rings*.<sup id="cite_ref-ScholFirst_7-0" class="reference"><a href="#cite_note-ScholFirst-7">[7]</a></sup>
 

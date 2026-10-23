@@ -18,7 +18,7 @@ images:
 
 - JLazarusEB đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_JLazarusEB.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 8 tháng 7 năm 2021
-- Người dùng đã xin phép thông qua DeviantArt: [Một quý ông Hobbit](https://tolkiengateway.net/wiki/User:A_Hobbit_Gentleman)
+- Người dùng đã xin phép thông qua DeviantArt: [A Hobbit Quý ông](https://tolkiengateway.net/wiki/User:A_Hobbit_Gentleman)
 - Ảnh chụp màn hình bằng chứng về sự cho phép của tác giả:
 
 <ul class="gallery mw-gallery-packed-hover">

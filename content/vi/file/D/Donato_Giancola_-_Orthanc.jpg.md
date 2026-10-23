@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"*[Orthanc](../../main/O/Orthanc.md)*", của [Donato Giancola](../../main/D/Donato_Giancola.md)
+"*[Orthanc](../../main/O/Orthanc.md)*", bởi [Donato Giancola](../../main/D/Donato_Giancola.md)
 
 ## Giấy phép {#Licensing}
 

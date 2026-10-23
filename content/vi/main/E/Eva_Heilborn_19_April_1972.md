@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Eva Heilborn"
 ---
 
-Chuyển hướng tới [Thư gửi Eva Heilborn](../L/Letter_to_Eva_Heilborn.md).
+Chuyển hướng đến [Thư gửi Eva Heilborn](../L/Letter_to_Eva_Heilborn.md).

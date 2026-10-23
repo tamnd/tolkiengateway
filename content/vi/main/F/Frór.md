@@ -106,7 +106,7 @@ Anh trai của Frór là [Thrór](../T/Thrór.md) sau đó trở thành [Vua c�
 
 <dl><dd><a href="../D/Decipher.md" title="Decipher">Decipher</a> gave names to many of the unnamed characters in <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, including those at the council. One card is named &#34;Frór, Gimli&#39;s Kinsman&#34;, however the Dwarf depicted is not a character in the film. Decipher used a photo of Gimli&#39;s scale double <a class="new" href="https://tolkiengateway.net/w/index.php?title=Brett_Beattie&amp;action=edit&amp;redlink=1" title="Brett Beattie (page does not exist)">Brett Beattie</a> during the <a href="../C/Council_of_Elrond.md" title="Council of Elrond">Council of Elrond</a> and presented him as though he was another character. This is incompatible with the film, as only four Dwarves are seen during the Council and &#34;Frór&#34; is sitting in Gimli&#39;s spot.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>In <a class="mw-redirect" href="../D/Dáin&#39;s_Halls~64102.md" title="Dáin&#39;s Halls">Thikil-gundu</a>, &#34;The Steel Keep&#34;, it is revealed that Frór, along with a number of other deceased dwarves, were brought back to life as dwarf-wights, and now stalk the halls of the Steel Keep. He is encountered by <a href="../D/Dori.md" title="Dori">Dori</a>&#39;s Company inside Afhân-binnîn, &#34;The Lore Trove&#34;.</dd></dl>
 

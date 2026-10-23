@@ -58,8 +58,8 @@ Hai tác phẩm được tái bản là:
     - IX. Những chuyến du lịch của Mandeville
     - X. John Bruce của Barbour
     - XI. John Wiclif
-    - XII. John Gower
-    - XIII. Bản dịch của John of Trevisa về Polychronicon của Higden
+    - XII. John Goer
+    - XIII. John Bản dịch Higden's Polychronicon của Trevisa
     - XIV. Mảnh ghép chính trị
     - XV. Những mảnh ghép khác trong câu thơ
     - XVI. Vở kịch 'Sự đau khổ của địa ngục' ở York

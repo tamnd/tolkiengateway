@@ -66,7 +66,7 @@ Aegnor là một [Tiên](../E/Elves_of_Rivendell.md) của [Rivendell](../R/Rive
 
 Khi [Elrond](../E/Elrond.md), Chúa tể của Rivendell, mời đại diện các phe phái của [the các Dân tộc Tự do của Trung Địa](Free_peoples~19934.md) tới một Hội đồng nhằm mục đích giải quyết mối đe dọa ngày càng tăng của [Mordor](../M/Mordor.md), Figwit đã tham dự. Anh ấy ngồi giữa [Tiên](../E/Elves.md) và [Aragorn](../A/Aragorn.md)khác.<sup id="cite_ref-Council_5-0" class="reference"><a href="#cite_note-Council-5">[5]</a></sup>
 
-Hội đồng nổ ra hỗn loạn khi các thành viên bất đồng về việc phải làm gì với [Chiếc Nhẫn Chúa](../T/The_One_Ring.md). Figwit đứng dậy và bắt đầu la hét. Anh ta và Tiên bên cạnh tranh cãi với [Járnsmid](../J/Járnsmid.md) và [Hugin](../H/Hugin.md) của [Dale](../D/Dale.md). Cuộc tranh cãi nảy lửa của Hội đồng tiếp tục diễn ra cho đến khi [Frodo Baggins](Frodo_Baggins.md), [Shire-hobbit](../S/Shire-hobbits.md) đã mang Chiếc nhẫn đến Rivendell, tình nguyện mang Chiếc nhẫn đến Mordor và phá hủy nó. Figwit quan sát tám người khác đề nghị tham gia Frodo vào nhiệm vụ của anh ấy. Anh ngồi xuống và xem Chúa Elrond lồng tiếng Frodo và tám người bạn đồng hành của mình "[The Fellowship of the Ring](Fellowship_of_the_Ring.md)".<sup id="cite_ref-Council_5-1" class="reference"><a href="#cite_note-Council-5">[5]</a></sup>
+Hội đồng nổ ra hỗn loạn khi các thành viên bất đồng về việc phải làm gì với [the One Nhẫn](../T/The_One_Ring.md). Figwit đứng dậy và bắt đầu la hét. Anh ta và Tiên bên cạnh tranh cãi với [Járnsmid](../J/Járnsmid.md) và [Hugin](../H/Hugin.md) của [Dale](../D/Dale.md). Cuộc tranh cãi nảy lửa của Hội đồng tiếp tục diễn ra cho đến khi [Frodo Baggins](Frodo_Baggins.md), [Shire-hobbit](../S/Shire-hobbits.md) đã mang Nhẫn đến Rivendell, tình nguyện đưa Nhẫn đến Mordor và tiêu diệt nó. Figwit quan sát tám người khác đề nghị tham gia Frodo trong nhiệm vụ của anh ấy. Anh ngồi xuống và xem Chúa Elrond lồng tiếng Frodo và tám người bạn đồng hành của mình "[The Fellowship of the Ring](Fellowship_of_the_Ring.md)".<sup id="cite_ref-Council_5-1" class="reference"><a href="#cite_note-Council-5">[5]</a></sup>
 
 ### Đi du lịch tới Cảng Xám {#Travelling_to_the_Grey_Havens}
 
@@ -92,7 +92,7 @@ Cái tên **Figwit** là từ viết tắt hài hước do người hâm mộ t�
 
 ## Tên khác {#Other_names}
 
-Figwit được ghi nhận trong phần tín dụng của *[The Return of the King](../T/The_Return_of_the_King.md)* dưới cái tên **Tiên Escort** và [Thẻ Giải mã](../D/Decipher_Card.md) của anh ấy có tên **[Aegnor](../A/Aegnor.md)**, một cái tên bắt nguồn từ *[The Silmarillion](../T/The_Silmarillion.md)*.<sup id="cite_ref-website_7-2" class="reference"><a href="#cite_note-website-7">[7]</a></sup>
+Figwit được ghi nhận trong phần tín dụng của *[The Return of the King](../T/The_Return_of_the_King.md)* dưới cái tên **Tiên Escort** và [Thẻ giải mã](../D/Decipher_Card.md) của anh ấy có tên **[Aegnor](../A/Aegnor.md)**, một cái tên bắt nguồn từ *[The Silmarillion](../T/The_Silmarillion.md)*.<sup id="cite_ref-website_7-2" class="reference"><a href="#cite_note-website-7">[7]</a></sup>
 
 Trong [fanfiction](Fanfiction.md), Figwit đôi khi được gọi là **Melpomaen**, một bản dịch kém chất lượng của các yếu tố "fig" (*melpo* trong [Qenya](../Q/Qenya.md)) và "wit" (*maen* trong [Noldorin](../N/Noldorin.md)).<sup id="cite_ref-website_7-3" class="reference"><a href="#cite_note-website-7">[7]</a></sup>
 

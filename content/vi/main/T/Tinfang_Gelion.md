@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tinfang Warble"
 ---
 
-Chuyển hướng tới [Tinfang Warble](Tinfang_Warble.md).
+Chuyển hướng đến [Tinfang Warble](Tinfang_Warble.md).

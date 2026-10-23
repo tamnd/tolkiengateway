@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wayne Che Yip"
 ---
 
-Chuyển hướng đến [Wayne Che Yip](Wayne_Che_Yip.md).
+Chuyển hướng tới [Wayne Che Yip](Wayne_Che_Yip.md).

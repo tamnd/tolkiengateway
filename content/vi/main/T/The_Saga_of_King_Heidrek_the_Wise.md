@@ -84,4 +84,4 @@ Tại [2010](../_/2010.md) cuốn sách đã được tái bản ở định d�
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.amazon.co.uk/Saga-King-Heidrek-Wise/dp/0008767637" rel="noreferrer noopener" target="_blank"><i>The Saga of Vua Heidrek the Wise</i></a> trên Amazon UK
+- <a class="external text" href="https://www.amazon.co.uk/Saga-King-Heidrek-Wise/dp/0008767637" rel="noreferrer noopener" target="_blank"><i>Câu chuyện về Vua Heidrek the Wise</i></a> trên Amazon Vương quốc Anh

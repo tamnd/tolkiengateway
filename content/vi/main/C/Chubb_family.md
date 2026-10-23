@@ -24,7 +24,7 @@ langlinks:
     url: "https://kontu.wiki/P%C3%B6nkeli"
 ---
 
-**Gia đình Chubb** là một gia đình gồm [Shire hobbit](../S/Shire-hobbits.md), trong đó một số người đã có mặt tại [Bilbo Baggins](../B/Bilbo_Baggins.md)' [Bữa tiệc chia tay](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Mối liên hệ chính của họ với gia đình [Baggins](../B/Baggins_family.md) là thông qua ông nội của Bilbo, [Old Took](../G/Gerontius_Took.md), người có vợ [Adamanta Chubb](../A/Adamanta_Chubb.md) là mẹ của không ít hơn mười hai người con, trong đó có mẹ của Bilbo [Belladonna](../B/Belladonna_Took.md).
+**Gia đình Chubb** là một gia đình gồm [Shire hobbit](../S/Shire-hobbits.md), trong đó một số người đã có mặt tại [Bilbo Baggins](../B/Bilbo_Baggins.md)' [Bữa tiệc chia tay](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Mối liên hệ chính của họ với gia đình [Baggins](../B/Baggins_family.md) là thông qua Bilbo ông nội, [Old Took](../G/Gerontius_Took.md), người có vợ là [Adamanta Chubb](../A/Adamanta_Chubb.md) là mẹ của không dưới 12 đứa con các con, trong đó có Bilbo mẹ [Belladonna](../B/Belladonna_Took.md).
 
 Việc kết hôn với gia đình [Took](../T/Took.md) và [Baggins](../B/Baggins.md), cũng như việc sử dụng các tên hoa và đồ trang sức kỳ lạ, cho thấy rằng gia đình Chubbs thuộc tầng lớp cao hơn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

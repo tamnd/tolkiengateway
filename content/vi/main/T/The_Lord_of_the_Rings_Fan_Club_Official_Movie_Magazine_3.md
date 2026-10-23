@@ -47,11 +47,11 @@ infobox:
 
 - **8** TÚI THƯ
 - **10** TIN TỪ TRUNG ĐỊA
-    - Câu lạc bộ người hâm mộ “Fellowship of 22” hội tụ L.A. cho lễ trao giải Oscar cuối tuần…Fran Walsh trong The Two Towers quay lại…Các sự kiện sắp tới…và hơn thế nữa!
-- **20** NGÔN NGỮ CỦA TRUNG ĐỊA — Vũ khí của Yêu tinh
-    - [Daniel Falconer](../D/Daniel_Falconer.md) của Weta Workshop, người đã giúp tạo ra nhiều loại vũ khí cho phim Chúa tể của những chiếc nhẫn, quay lại số báo này để kể câu chuyện đằng sau một số vũ khí của Yêu tinh và dịch ý nghĩa của những dòng chữ khắc trên chúng.
+    - Câu lạc bộ người hâm mộ “Fellowship of 22” hội tụ L.A. cho cuối tuần trao giải Oscar…Fran Walsh vào The Two Towers quay lại…Sự kiện sắp tới…và hơn thế nữa!
+- **20** NGÔN NGỮ CỦA TRUNG ĐỊA — Tiên Vũ khí
+    - Weta Workshop [Daniel Falconer](../D/Daniel_Falconer.md), người đã giúp tạo ra nhiều loại vũ khí cho các bộ phim The Lord of the Rings, đã quay lại số báo này để kể câu chuyện đằng sau một số loại vũ khí Tiên và dịch ý nghĩa của những dòng chữ khắc trên chúng.
 - **22** CẬP NHẬT VỚI PETER JACKSON
-    - Đạo diễn Chúa tể của những chiếc nhẫn chia sẻ suy nghĩ của mình về Hai tòa tháp và DVD phiên bản mở rộng Fellowship of the Ring- và tiết lộ bộ phim nào trong ba bộ phim mà ông yêu thích nhất!
+Đạo diễn     - The Lord of the Rings chia sẻ suy nghĩ của mình về The Two Towers và phiên bản mở rộng Đoàn Hộ Nhẫn DVD- và tiết lộ bộ phim nào trong ba bộ phim mà ông yêu thích nhất!
 
 <br>
 

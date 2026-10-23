@@ -66,7 +66,7 @@ infobox:
     - Bởi: [Charles Noad](../C/Charles_Noad.md)
 - Tác phẩm nghệ thuật: *Battles of the Pelennor Fields*
     - Bởi: Philip Robson
-- Truyện dân gian
+- Truyện dân ca
 - Thư
 - Tác phẩm nghệ thuật: *[Bard](../B/Bard.md) the Bowman*
     - Bởi: Ley Holloway

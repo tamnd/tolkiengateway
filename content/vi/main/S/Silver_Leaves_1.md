@@ -31,7 +31,7 @@ sort_keys:
 - Gerda Marz và [Jo-Anna Dueck](../J/Jo-Anna_Dueck.md): "Tolkien Chuỗi bài giảng 2007'
 - Sunny Timmons và [Ted Nasmith](../T/Ted_Nasmith.md): "Tưởng nhớ Giáo sư Daniel Timmons"
 - Rebecca Kirkland và Bruce Hopkins: "Hành trình tiếp tục tìm lại tuổi trẻ của chúng ta"
-- John Adcox: "Ảo tưởng có thể là huyền thoại không? Thần thoại và The Lord of the Rings"
+- John Adcox: "Ảo tưởng có thể là huyền thoại được không? Thần thoại và The Lord of the Rings"
 - L. Lara Sookoo: "Bảo vệ Trung địa khỏi cáo buộc phân biệt chủng tộc"
 - [Janet Brennan Croft](../J/Janet_Brennan_Croft.md): "Tôi đã tìm hiểu thêm về Hobbit như thế nào"
 - [Michael D.C. Drout](../M/Michael_D.C._Drout.md): "Một số suy nghĩ khi đọc to The Lord of the Rings"

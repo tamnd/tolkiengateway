@@ -59,7 +59,7 @@ infobox:
 
 - Croft, Janet Brennan. Biên tập.
 - Rosengrant, John. Bình luận về “1904: Tolkien, Chấn thương và những ngày kỷ niệm của nó”.
-- Polesiak, Debra. Jean Louise đến Tháp Bóng tối Đã đến.
+- Polesiak, Debra. Jean Louise đến Tòa Tháp Bóng Tối Đã đến.
 - Miller, Ryder W. American Người sống sót: Truyện ngụ ngôn của William Faulkner.
 
 #### Đánh giá {#Reviews}

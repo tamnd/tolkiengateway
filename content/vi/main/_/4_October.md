@@ -69,7 +69,7 @@ Sự kiện xảy ra vào ngày 4 tháng 10
 - **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Agatha Carew Hunt](../L/Letter_to_Agatha_Carew_Hunt.md).
 - **[1979](1979.md)** - Tập *[Jackanory](../J/Jackanory.md)* "Ra khỏi chảo rán và vào lửa" được phát sóng trên kênh [BBC](../B/BBC.md).
 - **[1999](1999.md)** - *[Poems from The Hobbit](../P/Poems_from_The_Hobbit.md)* được xuất bản.
-- **[2009](2009.md)** - [Ring\*Con 2009](../R/Ring%252ACon_2009.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Bonn" title="wikipedia:Bonn">Bonn</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2009](2009.md)** - [Nhẫn\*Con 2009](../R/Ring%252ACon_2009.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Bonn" title="wikipedia:Bonn">Bonn</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 
 ## Trong Arda {#In_Arda}
 

@@ -61,7 +61,7 @@ Vào [Kỷ nguyên thứ hai](../S/Second_Age.md), có [những người đàn �
 
 Sau [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md), [Elendil](../E/Elendil.md) thành lập thủ đô [Arnor](../A/Arnor.md), [Annúminas](../A/Annúminas.md), trên bờ phía nam của hồ ở [S.A.](../S/Second_Age.md) [3320](../S/Second_Age_3320.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Trong [T.A.](../T/Third_Age.md) [1975](../T/Third_Age_1975.md),<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> [Trận Fornost](../B/Battle_of_Fornost.md) đã diễn ra trận chiến trên đồng bằng giữa Hồ Evendim và [North Downs](../N/North_Downs.md) giữa [Đạo quân Phương Tây](<../H/Host_of_the_West_(Arnor).md>) và lực lượng của [Angmar](../A/Angmar.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Trong [T.A.](../T/Third_Age.md) [1975](../T/Third_Age_1975.md),<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> [Trận Fornost](../B/Battle_of_Fornost.md) đã diễn ra trận chiến trên đồng bằng giữa Hồ Evendim và [North Downs](../N/North_Downs.md) giữa [Đạo quân phương Tây](<../H/Host_of_the_West_(Arnor).md>) và lực lượng của [Angmar](../A/Angmar.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 Trong [Kỷ Đệ Tứ](../F/Fourth_Age.md) [15](../F/Fourth_Age_15.md) [Vua Elessar](../K/King_Elessar.md) đạp xe từ [Minas Tirith](../M/Minas_Tirith.md) để dành chút thời gian ở bên Hồ.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
@@ -73,7 +73,7 @@ Hồ Evendim là bản dịch của [Sindarin](../S/Sindarin.md) *Nenuial*, ngh�
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Evendim.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3d/The_Lord_of_the_Rings_Online_-_Evendim.jpg/300px-The_Lord_of_the_Rings_Online_-_Evendim.jpg" decoding="async" loading="lazy" width="300" height="177" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3d/The_Lord_of_the_Rings_Online_-_Evendim.jpg/450px-The_Lord_of_the_Rings_Online_-_Evendim.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3d/The_Lord_of_the_Rings_Online_-_Evendim.jpg/600px-The_Lord_of_the_Rings_Online_-_Evendim.jpg 2x" data-file-width="836" data-file-height="492"/></a><figcaption>Evendim in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>While possible to swim across, swift travel across Lake Evendim (located in the region of <a href="../E/Evendim.md" title="Evendim">Evendim</a>) is provided by several boatkeepers.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></dd></dl>
 

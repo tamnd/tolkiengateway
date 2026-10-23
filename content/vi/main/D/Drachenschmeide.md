@@ -13,7 +13,7 @@ categories:
   - "Businesses"
 ---
 
-**Drachenschmeide** là nhà phát hành và quản lý trò chơi ở Đức của [Trung Địa Play-By-Mail](../M/Middle-earth_Play-By-Mail.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Drachenschmeide** là nhà phát hành và quản lý trò chơi ở Đức của [Trung Địa Phát qua thư](../M/Middle-earth_Play-By-Mail.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

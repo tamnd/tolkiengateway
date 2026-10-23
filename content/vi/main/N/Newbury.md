@@ -49,7 +49,7 @@ Có một thị trấn tên là <a class="extiw" href="http://en.wikipedia.org/w
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Newbury is a small hamlet just past the <a href="../B/Buckland_Gate.md" title="Buckland Gate">Buckland Gate</a>. At which Newbury ends and <a href="../B/Bucklebury.md" title="Bucklebury">Bucklebury</a> begins can be hard to determine.</dd></dl>
 

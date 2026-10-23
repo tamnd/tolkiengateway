@@ -19,7 +19,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-- [Gốc](../S/Sundocarme.md) OQO ("đường cong, uốn cong")<sup id="cite_ref-PE_1-1" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
+- [Gốc](../S/Sundocarme.md) OQO ("đường cong, khúc cua")<sup id="cite_ref-PE_1-1" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
 
 <span></span>
 

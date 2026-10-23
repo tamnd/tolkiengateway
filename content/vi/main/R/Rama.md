@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ráma"
 ---
 
-Chuyển hướng đến [Ráma](Ráma.md).
+Chuyển hướng tới [Ráma](Ráma.md).

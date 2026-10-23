@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "23 July"
 ---
 
-Chuyển hướng đến [23 tháng 7](../_/23_July.md).
+Chuyển hướng tới [23 tháng 7](../_/23_July.md).

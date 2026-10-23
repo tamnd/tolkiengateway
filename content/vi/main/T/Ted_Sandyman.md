@@ -125,7 +125,7 @@ Có thể [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lấy cảm hứng t
 
 <dl><dd>Sandyman is standing in front of his mill, looking for an iron pin (that <a href="../S/Sancho_Proudfoot.md" title="Sancho Proudfoot">Sancho Proudfoot</a> later admits to have stolen). Retrieving the pin, which is stuck in the Old Grange&#39;s weather vane. He is ill-tempered, but expresses gratitude to Frodo after he is assisted, before moaning the fact that he sent <a class="mw-redirect" href="../M/Mugwort.md" title="Mugwort">Mugwort</a> to <a href="../B/Bree.md" title="Bree">Bree</a> to fetch a new pin.</dd></dl>
 
-<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Ted Sandyman can be found at his mill, but is not involved in any regular quests and only has lines during two of the seasonal festivals.</dd></dl>
 

@@ -65,7 +65,7 @@ infobox:
     - Bởi: Margaret Thomson
 - Lưu trữ bản in lại
 Đánh giá - [Đài](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>)
-- Một câu chuyện không được nhắc tới
+- Một câu chuyện không được nhắc đến
     - Bởi: Andrew Sutherland
 - Hobbit-theo pháp luật
     - Bởi: [Brin Dunsire](../B/Brin_Dunsire.md)
@@ -95,7 +95,7 @@ infobox:
 - Đánh giá: *Symboliek van Tolkien In de ban van de ring*
     - Bởi: [Johan Vanhecke](../J/Johan_Vanhecke.md)
 - Hãy mỉm cười
-- Truyện dân ca
+- Truyện dân gian
 - Olórin
     - Bởi: Takashi Okunishi
 - Hướng dẫn người quá giang cho Tolkien xã hội

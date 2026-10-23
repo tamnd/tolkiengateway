@@ -14,7 +14,7 @@ categories:
 
 **Aerlinn** là [Sindarin](../S/Sindarin.md) nghĩa là 'bài hát thánh' hoặc có thể là 'bài hát biển'.<sup id="cite_ref-VT_1-0" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
 
-Việc sử dụng từ này duy nhất được đưa ra trong tiêu đề của bài hát [A Elbereth Gilthoniel](A_Elbereth_Gilthoniel.md): <i><b>Aerlinn</b> in edhil o imladris</i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Do đó, *aerlinn* có thể là một Tiên bài hát hoặc bài thánh ca gửi đến [Elbereth](../V/Varda.md), hoặc nhiều hơn có thể là cho bất kỳ ai trong số những người Valar.
+Cách sử dụng duy nhất của từ này được đưa ra trong tiêu đề của bài hát [A Elbereth Gilthoniel](A_Elbereth_Gilthoniel.md): <i><b>Aerlinn</b> in edhil o imladris</i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Do đó, *aerlinn* có thể là một Tiên bài hát hoặc bài thánh ca gửi đến [Elbereth](../V/Varda.md) hoặc có thể hơn nữa là dành cho bất kỳ Valar nào.
 
 Ý nghĩa chính xác của từ này rất mơ hồ: từ "thánh" đã được chứng thực trong Sindarin tương đương với từ [Quenya](../Q/Quenya.md) *[airë](Airë.md)*.<sup id="cite_ref-VT_1-1" class="reference"><a href="#cite_note-VT-1">[1]</a></sup> Mặt khác *[aer](Aer.md)* có nghĩa là 'biển'. Trong trường hợp đó, những bài hát này thể hiện niềm khao khát [Valinor](../V/Valinor.md) vượt xa [Biển](../S/Sea.md).
 

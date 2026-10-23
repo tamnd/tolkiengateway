@@ -56,7 +56,7 @@ Không thể nói chắc chắn rằng những con thú to lớn được sử d
 
 <dl><dd>In this video game the basic design of the great beasts from Peter Jackson&#39;s <i>The Lord of the Rings</i> is kept. However, a new idea is introduced: the creatures called &#34;great beasts&#34; were originally used by Dwarves in the Misty Mountains as underground draft animals (depicted as being much smaller than Sauron&#39;s beasts of burden). The Dwarves called them <i>yurgs</i>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>In the Mordor expansion pack, the great beasts were given the name <b>Sulokil</b>. They were depicted as being horned, stony-skinned beasts that were a local subspecies of <a href="../K/Kine_of_Araw.md" title="Kine of Araw">Aurochs</a>. Despite living in the &#34;Dor Amarth&#34; region of <a href="../P/Plateau_of_Gorgoroth.md" title="Plateau of Gorgoroth">Plateau of Gorgoroth</a> and being used as beasts of burden by <a href="../S/Sauron.md" title="Sauron">Sauron</a>, the Sulokil were  docile unless provoked.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> According to <a href="../I/Ingold.md" title="Ingold">Ingold</a>, their meat was &#34;rather good when cooked and seasoned&#34;.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></dd></dl>
 

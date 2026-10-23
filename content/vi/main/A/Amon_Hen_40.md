@@ -70,7 +70,7 @@ infobox:
     - Bởi: [Helen Armstrong](../H/Helen_Armstrong.md)
     - Bởi: Neil R. Campling
     - Bởi: Barbara Banta
-- Truyện dân ca
+- Truyện dân gian
 - Báo cáo bầu cử mùa hè của Folkestone
     - Bởi: S. Rule
 - Từ Coron Tengwar

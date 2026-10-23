@@ -197,11 +197,11 @@ Thủ lĩnh của liên minh chống lại [Thû](../T/Thû.md) (Sauron) đượ
 
 <dl><dd>In the film&#39;s prologue, Elendil is played by <a href="../P/Peter_McKenzie.md" title="Peter McKenzie">Peter McKenzie</a>. Unlike in the books, Elendil is killed by a blow of <a href="../S/Sauron.md" title="Sauron">Sauron</a> instead of having a part in destroying him with <a href="../G/Gil-galad.md" title="Gil-galad">Gil-galad</a>. Instead, <a href="../I/Isildur.md" title="Isildur">Isildur</a> deals the fatal blow to the still-living Sauron by cutting off his fingers with the broken blade of <a href="../N/Narsil.md" title="Narsil">Narsil</a>, and, with them, the <a href="../T/The_One_Ring.md" title="The One Ring">ring of power</a>.</dd></dl>
 
-<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md" title="The Lord of the Rings: The Two Towers (video game)">The Lord of the Rings: The Two Towers (video game)</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md" title="The Lord of the Rings: The Two Towers (video game)">The Lord of the Rings: The Two Towers (trò chơi điện tử)</a></i>:</b>
 
 <dl><dd>Elendil appears in the game&#39;s first level as a non-playable character, where he has the likeness of <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a>&#39;s <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)">movie counterpart</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Elendil appears in several flashbacks depicting the <a href="../W/War_of_the_Last_Alliance.md" title="War of the Last Alliance">War of the Last Alliance</a>. His ultimate fate is more accurate to the books than the film version, showing Elendil and <a href="../G/Gil-galad.md" title="Gil-galad">Gil-galad</a> both battling and defeating <a href="../S/Sauron.md" title="Sauron">Sauron</a> at the cost of their lives, with Elendil dealing the killing blow.</dd></dl>
 

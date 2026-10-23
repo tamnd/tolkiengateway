@@ -44,6 +44,6 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) ngủ, [Chiếc nhẫn](../T/The_One_Ring.md) được siết chặt an toàn trong tay Frodo.
+[Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) ngủ, chiếc [Nhẫn](../T/The_One_Ring.md) được siết chặt an toàn trong tay Frodo.
 
 [Gollum](Gollum.md) nán lại gần đó, thì thầm với chính mình *"We must have the precious!"* Anh ta tiếp tục tranh cãi với Sméagol, người cho rằng Frodo là bạn của họ. Gollum nói với Sméagol anh ta là kẻ dối trá, kẻ trộm và kẻ giết người. Sméagol đau khổ vì điều này và bảo Gollum biến đi. Gollum chế giễu, nói rằng hai người họ sống sót là nhờ anh ta. Sméagol thút thít *"I hate you,"* và nói với Gollum rằng Frodo hãy bảo vệ anh ấy ngay bây giờ. *"We don't need you,"* Sméagol kể cho Gollum, ai càng tức giận và ác độc hơn sau mỗi bình luận của Sméagol. Sau khi thông báo Gollum với *"Leave now and never come back"* nhiều lần, Sméagol nhận thấy rằng Gollum đã biến mất. Anh ta nhảy lên vui sướng và hét lên *"Sméagol is free!"*

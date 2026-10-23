@@ -36,7 +36,7 @@ Nó mọc trên cỏ nhưng nhỏ và trắng như hải quỳ. Dù cây nở ho
 
 ## Từ nguyên {#Etymology}
 
-*Simbelmynë* là tên của loài hoa trong [Rohan](../R/Rohan.md), có nghĩa là "[Evermind](../E/Evermind.md)",<sup id="cite_ref-TTIII6_1-1" class="reference"><a href="#cite_note-TTIII6-1">[1]</a></sup> ám chỉ ký ức của những người đã khuất trên ngôi mộ mà bông hoa đã mọc lên. Do đó, cái tên này giống với 'đừng quên tôi', nhưng nó có ý định là một loại hoa hoàn toàn khác. [Tiên tộc](../E/Elves.md) gọi chúng là *uilos* và *alfirin*.
+*Simbelmynë* là tên của loài hoa trong [Rohan](../R/Rohan.md), có nghĩa là "[Evermind](../E/Evermind.md)",<sup id="cite_ref-TTIII6_1-1" class="reference"><a href="#cite_note-TTIII6-1">[1]</a></sup> ám chỉ ký ức của những người đã khuất trên ngôi mộ mà bông hoa đã mọc lên. Do đó, cái tên này giống với 'đừng quên tôi', nhưng lại có ý định là một loại hoa hoàn toàn khác. [Tiên tộc](../E/Elves.md) gọi chúng là *uilos* và *alfirin*.
 
 Chính tả dường như không được sửa hoàn toàn. Trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*và trong hầu hết các nguồn khác, tên của nó được đánh vần là *simbelmynë*. Tuy nhiên, có ít nhất một trường hợp được ghi lại trong đó Tolkien thích *symbelmynë*hơn.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Những biến thể này không ảnh hưởng đến ý nghĩa tên của nó.
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sindanórië"
 ---
 
-Chuyển hướng đến [Sindanórië](Sindanórië.md).
+Chuyển hướng tới [Sindanórië](Sindanórië.md).

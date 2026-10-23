@@ -26,9 +26,9 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Barad-dûr](../../main/B/Barad-dûr.md), như được thấy trong cảnh giới thiệu của [The Lord of the Rings: Trận chiến vì Trung Địa](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)
+[Barad-dûr](../../main/B/Barad-dûr.md), như được thấy trong cảnh giới thiệu của [The Lord of the Rings: The Battle for Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)
 
-# =Licensing {#=Licensing}
+# =Cấp phép {#=Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.ea.com/" rel="noreferrer noopener" target="_blank">Electronic Arts</a>. It is believed that the limited use of this file,

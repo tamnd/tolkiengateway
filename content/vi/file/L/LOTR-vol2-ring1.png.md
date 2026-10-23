@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Chiếc nhẫn duy nhất](../../main/O/One_Ring.md) trong [The Lord of the Rings, Tập. II: The Two Towers](../../main/T/The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md).
+[Một Nhẫn](../../main/O/One_Ring.md) trong [The Lord of the Rings, Tập. II: The Two Towers](../../main/T/The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md).
 
 ## Giấy phép {#Licensing}
 

@@ -136,7 +136,7 @@ Trong những ghi chú viết bằng bút chì cho chương mà sau này trở t
 
 <dl><dd>Note that in the film, the statues are of Isildur and <a href="../E/Elendil.md" title="Elendil">Elendil</a> (as almost all references to Anárion were cut from the films <sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[note 1]</a></sup>) and the statue of Elendil is holding <a href="../N/Narsil.md" title="Narsil">Narsil</a> rather than an axe.</dd></dl>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Argonath is a prominent landmark in the <a href="../E/East_Wall_of_Rohan.md" title="East Wall of Rohan">East Wall</a> area of the <a href="../E/Eastemnet.md" title="Eastemnet">Eastemnet</a> region.</dd></dl>
 

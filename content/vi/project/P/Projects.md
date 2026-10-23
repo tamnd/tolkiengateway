@@ -32,7 +32,7 @@ Xem đề xuất tại *[Tolkien Gateway:Projects/Adaptations](Projects%252FAdap
 
 <dl><dd><i>Supervisor: <b><a href="https://tolkiengateway.net/wiki/User:Luotiansha" title="User:Luotiansha">Luotiansha</a></b></i></dd></dl>
 
-Mục tiêu của dự án là tạo ra một bài viết cho mỗi cuốn sách đã xuất bản hoặc chưa xuất bản có liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) và các tác phẩm của anh ấy. Sự tập trung cũng là vào các ấn bản, ấn tượng, bìa sách, cũng như các tác giả.
+Mục tiêu của dự án là tạo ra một bài viết cho từng cuốn sách đã xuất bản hoặc chưa xuất bản có liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) và các tác phẩm của anh ấy. Sự tập trung cũng là vào các ấn bản, ấn tượng, bìa sách, cũng như các tác giả.
 
 - Tác giả: Hãy thử lập danh sách các tác phẩm đã xuất bản - sách, bài báo - về mỗi tác giả. Hãy thử danh mục thư viện, LexisNexis, Google, v.v.
 - Tác giả: Bao gồm nghề nghiệp (Đại học), động cơ, hình ảnh (nếu có) và các thông tin hộp thông tin khác.
@@ -79,7 +79,7 @@ Mục tiêu của dự án là xin phép và tải lên mọi phần hình ảnh
 - Có bộ sưu tập tác phẩm nghệ thuật lấy cảm hứng từ Tolkien lớn nhất trên web toàn cầu.
 - Nếu có thể, hãy tải lên ít nhất một hình ảnh cho mỗi bài viết.
 - Tải lên nhiều hơn, chất lượng cao hơn, hình ảnh từ [*The Lord of the Rings* (loạt phim)](<../../main/T/The_Lord_of_the_Rings_(film_series).md>) và [*The Hobbit* (loạt phim)](<../../main/T/The_Hobbit_(film_series).md>).
-- <s>Xin phép <a href="../../main/T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a>, <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a>và <a href="../../main/J/John_Howe.md" title="John Howe">John Howe</a> để lưu trữ tác phẩm nghệ thuật của họ trên Tolkien Gatgeway.</s>
+- <s>Có được sự cho phép của <a href="../../main/T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a>, <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a>và <a href="../../main/J/John_Howe.md" title="John Howe">John Howe</a> để lưu trữ tác phẩm nghệ thuật của họ trên Tolkien Gatgeway.</s>
     - <s>Tải lên tất cả tác phẩm nghệ thuật của Ted Nasmith.</s>
     - Tải lên tất cả tác phẩm nghệ thuật của Alan Lee.
     - <s>Tải lên tất cả tác phẩm nghệ thuật của John Howe.</s>

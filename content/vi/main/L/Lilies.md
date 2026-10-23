@@ -28,7 +28,7 @@ images:
 
 <dl><dd><i><b>Ladylock</b></i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Finhiril</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Herifindë</i>), also known as <i>Hanging Lily</i>, was a grey-green moss-like plant that hung from ancient deciduous branches. It could be placed briefly in hot water and then laid on a wound to stop bleeding. Dried and brewed as tea it could rouse patients from a <a href="../P/Plants_in_Middle-earth_Role_Playing.md#Saewedhil" title="Plants in Middle-earth Role Playing">saewedhil</a>-induced coma.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd><i><b>Lily-of-the-Valley</b></i>, a plant with small white flowers, can be grown by apprentice farmers<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>, while scholars can use its leaves to create dyes and paints in various green shades.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> A <i><b>wood lily</b></i> is a red flower that players earn as a reward during their quests.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
 

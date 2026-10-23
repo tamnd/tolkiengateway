@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Háma trong *The Lord of the Rings: Cuộc chiến của Rohirrim*
+Hama từ *The Lord of the Rings: The War of the Rohirrim*
 
 ## Giấy phép {#Licensing}
 

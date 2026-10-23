@@ -30,7 +30,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Đó là vào [Ngày đầu tiên tháng 5](../../main/_/1_May.md#In_Arda), [the](../../main/B/Bilbo_Baggins.md) [hai](../../main/G/Gandalf.md) cuối cùng đã quay trở lại bờ vực thung lũng [Rivendell](../../main/R/Rivendell.md)..." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"Đó là vào [Ngày đầu tiên](../../main/_/1_May.md#In_Arda) mà [](../../main/B/Bilbo_Baggins.md) [hai](../../main/G/Gandalf.md) cuối cùng đã quay trở lại bờ vực thung lũng [Rivendell](../../main/R/Rivendell.md)..." bởi [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

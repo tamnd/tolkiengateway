@@ -64,7 +64,7 @@ infobox:
 - Quảng cáo: "Những số phận được chọn" của The Baldric Press
 - Bà chủ của tôi đã đến Lễ hội Học bổng và tất cả những gì bạn nhận được là bản báo cáo tệ hại này
     - Bởi: *[Beruthiel](../B/Berúthiel.md)'s Pet*
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- Cái [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Báo cáo: [Mythcon 35](../M/Mythcon_35.md)
     - Bởi: [Pat Reynolds](../P/Patricia_Reynolds.md)

@@ -27,7 +27,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hobbit_Tales_from_the_Green_Dragon_Inn.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/69/Hobbit_Tales_from_the_Green_Dragon_Inn.jpg/320px-Hobbit_Tales_from_the_Green_Dragon_Inn.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Hobbit_Tales_from_the_Green_Dragon_Inn.jpg/480px-Hobbit_Tales_from_the_Green_Dragon_Inn.jpg 1.5x, https://tolkiengateway.net/w/images/6/69/Hobbit_Tales_from_the_Green_Dragon_Inn.jpg 2x" data-file-width="600" data-file-height="850"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Board game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hobbit Tales from the Green Dragon Inn</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data"><a href="../M/Marco_Maggi.md" title="Marco Maggi">Marco Maggi</a> and <a href="../F/Francesco_Nepitello.md" title="Francesco Nepitello">Francesco Nepitello</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/Jon_Hodgson.md" title="Jon Hodgson">Jon Hodgson</a>, Andy Hepworth, Ralph Horsley, Jeremy Mchugh, <a href="../J/Jan_Pospíšil.md" title="Jan Pospíšil">Jan Pospíšil</a></td></tr><tr><th scope="row" class="tg-infobox-label">Contributors</th><td class="tg-infobox-data">Jon Hodgson (graphic design &amp; art direction), Paul Bourne (graphic design)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../C/Cubicle_7_Entertainment.md" title="Cubicle 7 Entertainment">Cubicle 7 Entertainment</a></td></tr></tbody></table>
 
-<i><b>Hobbit Tales from the Green Rồng Inn</b></i> là một trò chơi board game từ [Tủ 7](../C/Cubicle_7_Entertainment.md). Theo tùy chọn, các thẻ của nó có thể được sử dụng với trò chơi nhập vai [The One Ring](<../T/The_One_Ring_(role-playing_game).md>).
+<i><b>Hobbit Tales from the Green Rồng Inn</b></i> là một trò chơi board game từ [Tủ 7](../C/Cubicle_7_Entertainment.md). Tùy chọn, thẻ của nó có thể được sử dụng với trò chơi nhập vai [Chiếc nhẫn duy nhất](<../T/The_One_Ring_(role-playing_game).md>).
 
 ## Mô tả chính thức {#Official_description}
 
@@ -37,7 +37,7 @@ Trong trò chơi, người chơi lần lượt đóng vai Người kể chuyện
 
 *Hobbit Tales* là trò chơi dành cho 2 đến 5 người Hobbit, được sáng tác bởi các nhà thiết kế từng đoạt giải thưởng Marco Maggi và Francesco Nepitello, những người sáng tạo ra trò chơi chiến lược *War of the Ring* theo chủ đề Tolkien và trò chơi nhập vai *The One Ring*.
 
-Trò chơi này bao gồm một bộ quy tắc, 1 bàn cờ, 75 thẻ Phiêu lưu, 40 thẻ Nguy hiểm, 5 đế lót ly, một bộ thẻ bìa cứng và một con súc sắc The One Ring Feat mười hai mặt.
+Trò chơi này bao gồm một bộ quy tắc, 1 bàn cờ, 75 thẻ Phiêu lưu, 40 thẻ Nguy hiểm, 5 đế lót ly, một bộ thẻ bìa cứng và một xúc xắc chiến công Chiếc nhẫn duy nhất mười hai mặt.
 
 Bao gồm các quy tắc để sử dụng *Hobbit Tales* kết hợp với *The One Ring*, trò chơi nhập vai của Cubicle 7 lấy bối cảnh trong Trung Địa của Tolkien.
 

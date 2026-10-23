@@ -12,7 +12,7 @@ categories:
   - "Published articles"
 ---
 
-**Theo bước chân ông nội tôi** là tựa đề bài viết của [Simon Tolkien](../S/Simon_Tolkien.md) trên Huffington Post vào ngày [26 tháng 4](../_/26_April.md), [2010](../_/2010.md).
+**Theo bước chân ông nội tôi** là tựa đề bài viết được đăng bởi [Simon Tolkien](../S/Simon_Tolkien.md) trên Huffington Post vào ngày [26 tháng 4](../_/26_April.md), [2010](../_/2010.md).
 
 Simon thảo luận về sáng tạo văn học của chính mình liên quan đến tác phẩm của người họ hàng nổi tiếng của ông, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Anh cũng nhớ lại những ký ức về ông nội, khi còn là một cậu bé, *"đến ở với ông và bà tôi trong kỳ nghỉ bên bờ biển tại khách sạn Miramar ở Bournemouth trên bờ biển phía nam nước Anh. Chúng tôi chơi trò chơi chữ không ngừng nghỉ và tôi đã hỏi ông vô số câu hỏi về Trung Địa và ông luôn tử tế và trìu mến. Bây giờ tôi có thể nhắm mắt lại và nhìn thấy ông, quấn trong làn khói như Gandalf khi ông châm tẩu thuốc bằng que diêm Swan Vesta rực lửa và nói bằng một giọng trầm về rồng và Vào buổi chiều, chúng tôi đi dạo dọc bãi biển với gió tạt vào mặt và anh ấy chỉ cho tôi những viên đá đen mỏng phù hợp để lướt ra ngoài sóng, tuy nhiên, dù cố gắng đến đâu tôi cũng không bao giờ có thể lướt được xa như anh ấy, mặc dù anh ấy hơn tôi sáu mươi bảy tuổi."*
 

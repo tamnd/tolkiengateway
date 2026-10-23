@@ -54,7 +54,7 @@ infobox:
 - Tầm nhìn từ trên đồi (Biên tập)
     - Bởi: Richard Fraser Overton
 - Nội dung
-- Tác phẩm: Chưa có tiêu đề (Ông già liễu nắm Merry)
+- Tác phẩm nghệ thuật: Không có tiêu đề (Ông già liễu tay cầm Merry)
     - Bởi: Nick Basi
 - Thông báo
 - Bưu điện Bywater

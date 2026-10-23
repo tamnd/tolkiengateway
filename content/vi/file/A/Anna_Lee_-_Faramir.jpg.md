@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*[Faramir](../../main/F/Faramir.md)* của [Anna Lee](../../main/A/Anna_Lee.md).
+*[Faramir](../../main/F/Faramir.md)* bởi [Anna Lee](../../main/A/Anna_Lee.md).
 
 ## Giấy phép {#Licensing}
 

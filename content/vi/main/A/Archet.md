@@ -66,7 +66,7 @@ Tên *Archet* được mô phỏng theo một di tích của một tên gọi �
 
 <dl><dd>The village became a hold of <a href="Angmar.md" title="Angmar">Angmar</a> in <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1409.md" title="Third Age 1409">1409</a> and it took until <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Age_1420&amp;action=edit&amp;redlink=1" title="Third Age 1420 (page does not exist)">1420</a> for the village to be rechartered. Its farmers sold a distinct cheese, which was the result of goats eating a native wildflower known as the <i>arin yalassë</i> (<a href="../Q/Quenya.md" title="Quenya">Q.</a> “morning-petal”).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Archet is the settlement players start at if they are Hobbits or of the Race of Man. During the Introduction of the <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">Shadows of Angmar</a></i> it comes under attack by <a href="../B/Blackwolds.md" title="Blackwolds">Blackwold</a> brigands who burn many of the homes to the ground. The settlement is commanded by Captain Brackenbrook, a retired sell-sword, but command passes on to his son, <a href="../J/Jon_Brackenbrook.md" title="Jon Brackenbrook">Jon Brackenbrook</a>, when his father is killed in the attack.</dd></dl>
 

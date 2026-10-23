@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mrs. Bunce"
 ---
 
-Chuyển hướng đến [Mrs. Bunce](Mrs._Bunce.md).
+Chuyển hướng đến [Ms. Bunce](Mrs._Bunce.md).

@@ -77,7 +77,7 @@ And meat was hard to come by.<sup id="cite_ref-4" class="reference"><a href="#ci
 
 ## Nền {#Background}
 
-Bài thơ được viết lần đầu tiên vào khoảng năm 1923 hoặc 1924 với tên Latin <i><b>Pēro & Pōdex</b></i>, trước khi được sửa lại và đổi tên thành <i><b>The Root of the Boot</b></i>. Phiên bản này xuất hiện trong *[The History of The Hobbit](The_History_of_The_Hobbit.md)*.
+Bài thơ được viết lần đầu tiên vào khoảng năm 1923 hoặc 1924 với tên Latin <i><b>Pēro & Pōdex</b></i>, trước khi được sửa lại và đổi tên thành <i><b>The Gốc of the Boot</b></i>. Phiên bản này xuất hiện trong *[The History of The Hobbit](The_History_of_The_Hobbit.md)*.
 
 Phiên bản *The Root of the Boot* được đặt theo giai điệu của *The Fox Went Out*và được xuất bản lần đầu dưới dạng bài hát thứ 22 trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* ở [1936](../_/1936.md). Phiên bản này đã được in lại trong *[The Poetry of J.R.R. Tolkien](The_Poetry_of_J.R.R._Tolkien.md)* và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Tolkien_Papers&amp;action=edit&amp;redlink=1" title="The Tolkien Papers (page does not exist)">Các tài liệu Tolkien</a></i> ([1967](../_/1967.md)), và *[The Annotated Hobbit](The_Annotated_Hobbit.md)* ([1988](../_/1988.md)). Một biểu mẫu sửa đổi đã xuất hiện trong *[The Return of the Shadow](The_Return_of_the_Shadow.md)* trong [1988](../_/1988.md).
 
@@ -93,7 +93,7 @@ Tolkien sau đó đã sửa lại bài thơ thành *The Stone Troll* và đưa n
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://digital.library.leeds.ac.uk/10486/" rel="noreferrer noopener" target="_blank"><i>The Root of the Boot</i> bản thảo</a> tại Đại học Leeds
+- <a class="external text" href="http://digital.library.leeds.ac.uk/10486/" rel="noreferrer noopener" target="_blank"><i>Bản thảo Gốc của Chiếc giày</i></a> tại Đại học Leeds
 
 <span></span>
 

@@ -19,7 +19,7 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-[Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=MAN&amp;action=edit&amp;redlink=1" title="MAN (page does not exist)">MAN</a> <span></span>
+[Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=MAN&amp;action=edit&amp;redlink=1" title="MAN (page does not exist)">ĐÀN NGƯỜI</a> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

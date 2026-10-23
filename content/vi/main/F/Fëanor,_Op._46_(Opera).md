@@ -129,7 +129,7 @@ Fingolfin, Con trai của Vua Finwë (Giọng nam trung): Philip Lloyd-Evans
 
 Fëanor, Con trai của Vua Finwë  (Giọng nam cao): Simon Crosby Buttle
 
-Mandos, Kẻ thống trị cõi chết (Giọng nam trung): Julian Boyce
+Mandos, Kẻ thống trị cõi chết (Baritone): Julian Boyce
 
 Elbereth, Nữ hoàng ánh sáng (Giọng nữ cao): Emma Mary Llewellyn
 

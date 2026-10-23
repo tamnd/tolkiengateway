@@ -66,7 +66,7 @@ Nếu hình ảnh đã được tạo cho Tolkien Gateway và nó chưa được
 
 ### LGPL {#LGPL}
 
-<a class="extiw" href="http://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License" title="wikipedia:GNU Lesser General Public License">Giấy phép Công cộng Chung Ít hơn GNU</a> yêu cầu văn bản giấy phép phải được bao gồm trong tất cả các lần sử dụng lại tệp. Để áp dụng mẫu này, chỉ cần sử dụng thẻ sau trong phần tóm tắt tải lên: "[{{LGPL}}](https://tolkiengateway.net/wiki/Template:LGPL)". Sau đây là một ví dụ về mẫu này đang được sử dụng:
+<a class="extiw" href="http://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License" title="wikipedia:GNU Lesser General Public License">Giấy phép Công cộng Chung Ít hơn của GNU</a> yêu cầu văn bản giấy phép phải được bao gồm trong tất cả các lần sử dụng lại tệp. Để áp dụng mẫu này, chỉ cần sử dụng thẻ sau trong phần tóm tắt tải lên: "[{{LGPL}}](https://tolkiengateway.net/wiki/Template:LGPL)". Sau đây là một ví dụ về mẫu này đang được sử dụng:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);">
 <p>This work is free software; you can redistribute it and/or modify it under the terms of the <a class="extiw" href="http://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License" title="wikipedia:GNU Lesser General Public License">GNU Lesser General Public License</a> as published by the <a class="extiw" href="http://en.wikipedia.org/wiki/Free_Software_Foundation" title="wikipedia:Free Software Foundation">Free Software Foundation</a>; either version 2.1 of the License, or (at your option) any later version.

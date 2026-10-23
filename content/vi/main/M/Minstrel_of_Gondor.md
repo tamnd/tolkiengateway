@@ -70,7 +70,7 @@ Người hát rong nằm gần như suốt ngày hôm đó và kết thúc ngay 
 
 <dl><dd>The minstrel of Gondor appears in an identical role to that seen in the book.</dd></dl>
 
-<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The Minstrel is named <b>Garthebir</b>, his name and appearance are a tribute to the late musician <a class="external text" href="https://en.wikipedia.org/wiki/Gord_Downie" rel="noreferrer noopener" target="_blank">Gord Downie</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> He also attends the royal wedding of Kind <a class="mw-redirect mw-disambig" href="../E/Elessar.md" title="Elessar">Elessar</a> and Queen <a href="../A/Arwen.md" title="Arwen">Arwen</a>.</dd></dl>
 

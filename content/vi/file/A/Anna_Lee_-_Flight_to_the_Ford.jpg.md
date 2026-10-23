@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bức ảnh Idril của [Anna Lee](../../main/A/Anna_Lee.md).
+Một bức ảnh Idril của [Anna Lee](../../main/A/Anna_Lee.md).
 
 ## Giấy phép {#Licensing}
 

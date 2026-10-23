@@ -32,7 +32,7 @@ Trước Bức tường, có một thung lũng nông leo về phía tây tới m
 
 <dl><dd>Fellowship passes the Walls of Moria before reaching the Durin&#39;s Gate.</dd></dl>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">The Lord of the Rings Trực tuyến: Mỏ Moria</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">The Lord of the Rings Online: Mỏ Moria</a></i>:</b>
 
 <dl><dd>The Walls of Moria are a small sub-area of Eregion, where the &#34;Iron Garrison&#34;, an expedition of Dwarves from <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a> and the <a href="../I/Iron_Hills.md" title="Iron Hills">Iron Hills</a>, seek to gain entry into <a href="../M/Moria.md" title="Moria">Moria</a>. Players must pass through this place before entering the Mines themselves. This may not be so easy considering the <a href="Watcher_in_the_Water.md" title="Watcher in the Water">Watcher in the Water</a> still lurking in the deep waters.</dd></dl>
 

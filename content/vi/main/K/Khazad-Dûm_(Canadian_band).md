@@ -24,7 +24,7 @@ infobox:
 
 *Đừng nhầm lẫn với [Khazad-dûm](<Khazad-dûm_(British_band).md>), ban nhạc tang lễ doom/death metal của Reading.*
 
-**Khazad-Dûm** là ban nhạc death metal/deathcore đến từ Edmonton, Canada.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ban nhạc lấy tên từ [Khazad-dûm](Khazad-dûm.md), vương quốc Người lùn cổ xưa còn được gọi là Moria và các đĩa đơn của nhóm được đặt theo tên [Smaug](../S/Smaug.md) và [Shelob](../S/Shelob.md).
+**Khazad-Dûm** là một ban nhạc death metal/deathcore đến từ Edmonton, Canada.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ban nhạc lấy tên từ [Khazad-dûm](Khazad-dûm.md), vương quốc Người lùn cổ xưa còn được gọi là Moria và các đĩa đơn của nhóm được đặt theo tên [Smaug](../S/Smaug.md) và [Shelob](../S/Shelob.md).
 
 ## Thành viên {#Members}
 

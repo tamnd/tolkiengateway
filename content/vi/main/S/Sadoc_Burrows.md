@@ -52,7 +52,7 @@ Không có nhiều thông tin về quá khứ của Sadoc. Vào một thời đi
 
 Trước khi bắt đầu mùa thu, Sadoc đã tổ chức <a class="new" href="https://tolkiengateway.net/w/index.php?title=Harvest_Festival&amp;action=edit&amp;redlink=1" title="Harvest Festival (page does not exist)">Lễ hội thu hoạch</a> để chuẩn bị cho cuộc di cư từ [Norfield Glen](../N/Norfield_Glen.md) đến [Grove](../G/Grove.md).
 
-Vào khoảng thời gian [The Stranger](../T/The_Stranger.md) đến, Sadoc bắt đầu nhận thấy một [chòm sao](../H/Hermit's_Hat.md) kỳ lạ và kỳ lạ trên bầu trời.
+Vào khoảng thời gian [The Stranger](../T/The_Stranger.md) đến, Sadoc bắt đầu nhận thấy một [chòm sao](../H/Hermit's_Hat.md) kỳ lạ và kỳ dị trên bầu trời.
 
 Sau khi việc [Elanor Brandyfoot](../E/Elanor_Brandyfoot.md) vi phạm quy tắc bị phát hiện, Sadoc miễn cưỡng buộc xe <a class="new" href="https://tolkiengateway.net/w/index.php?title=Brandyfoot_family&amp;action=edit&amp;redlink=1" title="Brandyfoot family (page does not exist)">Brandyfoot</a> đi theo phía sau đoàn lữ hành, khiến họ có nguy cơ bị bỏ lại phía sau.
 

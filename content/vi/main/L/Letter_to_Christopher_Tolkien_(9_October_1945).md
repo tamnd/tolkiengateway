@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter 102a"
 ---
 
-Chuyển hướng đến [Thư 102a](Letter_102a.md).
+Chuyển hướng tới [Thư 102a](Letter_102a.md).

@@ -44,7 +44,7 @@ infobox:
 
 Hầu như không thể nói gì về nguồn gốc của Người Hillmen, ngoại trừ việc họ Con Người và có thể họ sống trong hoặc gần Rhudaur.
 
-Có thể họ [Pre-Númenóreans](../P/Pre-Númenóreans.md) có liên quan đến [Dunlendings](../D/Dunlendings.md) và [Người Bree](../M/Men_of_Bree.md) mà tổ tiên của họ đã sống ở các thung lũng của [Dãy Núi Trắng](../W/White_Mountains.md) và chuyển đến các thung lũng phía nam của [Dãy Núi Sương Mù](../M/Misty_Mountains.md) và sau đó xa về phía bắc đến [Barrow-downs](../B/Barrow-downs.md) trong [Những Năm Tháng Đen Tối](../D/Dark_Years.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Có thể họ [Pre-Númenóreans](../P/Pre-Númenóreans.md) có quan hệ họ hàng với [Dunlending](../D/Dunlendings.md) và [Người Bree](../M/Men_of_Bree.md) mà tổ tiên của họ đã sống ở các thung lũng của [Dãy Núi Trắng](../W/White_Mountains.md) và chuyển đến các thung lũng phía nam của [Dãy Núi Sương Mù](../M/Misty_Mountains.md) và sau đó xa về phía bắc đến [Barrow-downs](../B/Barrow-downs.md) trong [Những Năm Tháng Đen Tối](../D/Dark_Years.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Cũng có thể họ là Con Người thuộc loại tà ác không liên quan đến [Atani](../A/Atani.md) thù địch với các Vua của [Dúnedain của Arnor](../D/Dúnedain_of_Arnor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Họ là hậu duệ của [Người phương Đông](<../E/Easterlings_(First_Age).md>) chạy trốn qua [Dãy Núi Xanh](../B/Blue_Mountains.md) trở về phía đông sau [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md) vào cuối [Kỷ Đệ Nhất](../F/First_Age.md) từ [Beleriand](../B/Beleriand.md) hoặc hậu duệ của những người phương Đông chưa vượt qua Dãy Núi Xanh vào Beleriand.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
@@ -66,7 +66,7 @@ Trong phiên bản viết tay muộn nhất của cái mà sau này trở thành
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>In the game&#39;s version of <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>, many tribes of Hillmen still roam the land in the late Third Age. These include the Corcur of the <a href="../T/Trollshaws.md" title="Trollshaws">Trollshaws</a> and the <a href="../M/Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a> (descendants of the Men of Rhudaur), the Créoth of the <a href="../L/Lone-lands.md" title="Lone-lands">Lone-lands</a>, and the Trév Duvardain of <a href="../A/Angmar.md" title="Angmar">Angmar</a>. A second tribe of Angmar, the Trév Gállorg, are shown to be friendly towards the <a class="mw-redirect" href="../F/Free_Peoples.md" title="Free Peoples">Free Peoples</a>. These tribal names are original to the game and do not exist in the works of Tolkien.</dd></dl>
 

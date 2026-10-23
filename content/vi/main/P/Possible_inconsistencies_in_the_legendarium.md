@@ -146,7 +146,7 @@ Treebeard nói với Merry và Pippin rằng [Morgoth](../M/Morgoth.md) đã t�
 <dl><dt>Explanation</dt>
 <dd>Tolkien went through several attempts to explain <a href="../O/Orcs%252FOrigin.md" title="Orcs/Origin">the origin of orcs</a> and never stated a definitive answer. However, when he addressed this point in &#34;<a href="../L/Letter_153.md" title="Letter 153">Letter 153</a>&#34;, he described Treebeard as &#34;not one of the Wise&#34;, and he quoted and endorsed Frodo&#39;s line above.</dd></dl>
 
-#### Câu chuyện về người hobbit {#Tales_of_hobbits}
+#### Câu chuyện về người Hobbit {#Tales_of_hobbits}
 
 Pippin kể với [Théoden](../T/Théoden.md), "Tôi đã lang thang ở nhiều vùng đất, kể từ khi tôi rời nhà, và cho đến bây giờ tôi chưa tìm thấy người nào biết bất kỳ câu chuyện nào liên quan đến người Hobbit."<sup id="cite_ref-Isengard_9-1" class="reference"><a href="#cite_note-Isengard-9">[9]</a></sup> Nhưng người Hobbit sống ở [Bree](../B/Bree.md), Tom Bombadil biết nhiều câu chuyện về người Hobbit, người ta sẽ nghĩ [Rangers](../R/Rangers_of_the_North.md) (những người bảo vệ [Shire](../T/The_Shire.md) và Bree) và Yêu tinh ở Rivendell (nơi Bilbo đang sống) chắc hẳn biết một số người, và Yêu tinh ở Lórien ít nhất đã nghe nói về người Hobbit.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup>
 

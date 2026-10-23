@@ -15,7 +15,7 @@ sort_keys:
   "Albums": "First Ring, The"
 ---
 
-<i><b>The First Ring</b></i> là bộ sưu tập [2009](../_/2009.md) [Tolkien](../J/J.R.R._Tolkien.md) [âm nhạc](../M/Music.md) lấy cảm hứng từ người hâm mộ người Pháp Fabien Simonetti và nhạc sĩ Alex Wieser. CD được phát hành dưới dạng phiên bản giới hạn 1000 bản.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b> Nhẫn</b></i> đầu tiên là bộ sưu tập [2009](../_/2009.md) [Tolkien](../J/J.R.R._Tolkien.md) [âm nhạc](../M/Music.md) lấy cảm hứng từ người hâm mộ người Pháp Fabien Simonetti và nhạc sĩ Alex Wieser. CD được phát hành dưới dạng phiên bản giới hạn 1000 bản.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bài hát {#Tracks}
 

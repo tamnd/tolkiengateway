@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dírhaval"
 ---
 
-Chuyển hướng tới [Dírhaval](Dírhaval.md).
+Chuyển hướng đến [Dírhaval](Dírhaval.md).

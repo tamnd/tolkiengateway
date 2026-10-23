@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fréawine"
 ---
 
-Chuyển hướng tới [Fréawine](Fréawine.md).
+Chuyển hướng đến [Fréawine](Fréawine.md).

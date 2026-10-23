@@ -29,7 +29,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Luis_F._Bejarano_-_The_Gate_of_Wood.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ea/Luis_F._Bejarano_-_The_Gate_of_Wood.jpg/250px-Luis_F._Bejarano_-_The_Gate_of_Wood.jpg" decoding="async" loading="lazy" width="250" height="183" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ea/Luis_F._Bejarano_-_The_Gate_of_Wood.jpg/375px-Luis_F._Bejarano_-_The_Gate_of_Wood.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ea/Luis_F._Bejarano_-_The_Gate_of_Wood.jpg/500px-Luis_F._Bejarano_-_The_Gate_of_Wood.jpg 2x" data-file-width="800" data-file-height="584"/></a><figcaption><i>The Gate of Wood</i> by <a href="../L/Luis_F._Bejarano.md" title="Luis F. Bejarano">Luis F. Bejarano</a></figcaption></figure>
 
-**Bảy Cánh Cổng của Gondolin** là bảy cánh cổng hùng mạnh bảo vệ [Orfalch Echor](../O/Orfalch_Echor.md), một khe núi mà [Gondolin](../G/Gondolin.md) có thể tiếp cận qua [Tumladen](../T/Tumladen.md).
+**Bảy Cánh Cổng của Gondolin** là bảy cánh cổng hùng vĩ bảo vệ [Orfalch Echor](../O/Orfalch_Echor.md), một khe núi mà [Gondolin](../G/Gondolin.md) có thể tiếp cận qua [Tumladen](../T/Tumladen.md).
 
 ## Lịch sử {#History}
 

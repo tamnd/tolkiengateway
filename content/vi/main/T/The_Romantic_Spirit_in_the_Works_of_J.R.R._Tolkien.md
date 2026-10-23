@@ -46,23 +46,23 @@ infobox:
 
 - **Giới thiệu** của Will Sherwood
 - **Chủ nghĩa dân tộc, lịch sử và những thứ khác**
-    - "'Người Anglo-Saxon trên lưng ngựa' hay 'Sioux hoặc Cheyenne mặc áo thư'? Những người Mỹ bản địa lãng mạn và Tolkien Rohirrim" của Valentina P. Aparicio và Elliott Greene
-    - "Tolkien, Tình cảm thời trung cổ và tinh thần lãng mạn" của Lynn Forest-Hill
-    - "J.R.R. Tolkien, Walter Scott và Chủ nghĩa lãng mạn kiểu Scott" của Sharin Schroeder
+    - "'Người Anglo-Saxon trên lưng ngựa' hay 'Người Sioux hay người Cheyenne mặc áo thư'? Những người Mỹ bản địa lãng mạn và người Rohirrim của Tolkien" của Valentina P. Aparicio và Elliott Greene
+    - "Tolkien, Lãng mạn thời trung cổ và Tinh thần lãng mạn" của Lynn Forest-Hill
+    - "J.R.R. Tolkien, Walter Scott và Chủ nghĩa lãng mạn kiểu Scotland" của Sharin Schroeder
     - "Cái nhìn lãng mạn đen tối: Sự khác biệt và cái ác ở Hoffmann và Tolkien" của Mariana Rios Maldonado
 - **Ngôn ngữ, nghệ thuật và âm nhạc**
     - "Từ, từ, từ: Tolkien, [Barfield](../O/Owen_Barfield.md) và Chủ nghĩa lãng mạn" của [Verlyn Flieger](../V/Verlyn_Flieger.md)
-    - "Sừng, đạn và nhẫn: Tolkien'sự yêu thích tột độ' dành cho Carl Maria von Weber" của Chiara Bertoglio
+    - "Sừng, Đạn và Nhẫn: 'sự yêu thích tột độ' của Tolkien dành cho Carl Maria von Weber" của Chiara Bertoglio
     - "Ảnh hưởng nghệ thuật gián tiếp: Nghệ thuật thị giác của J.R.R. Tolkien và William Blake" của Annise Rogers
-    - "'Những hình dạng sống chuyển động từ tâm trí này sang tâm trí khác': Chủ nghĩa lãng mạn thị giác của Tolkien" của David Smith
+    - "'Những hình dạng sống chuyển từ tâm trí này sang tâm trí khác': Chủ nghĩa lãng mạn thị giác của Tolkien" của David Smith
 - **Trí tưởng tượng, ham muốn và cảm giác**
-    - "Tolkien's Romantic Gusto" của Kacie L. Wills và Christopher Hagan
+    - "Niềm vui lãng mạn của Tolkien" của Kacie L. Wills và Christopher Hagan
     - "Tolkien và Coleridge: Hành động và khao khát trong *[The Silmarillion](The_Silmarillion.md)*" của Adam Neikirk
-    - "Trí tưởng tượng lãng mạn, lạ mắt và kalymma trong Tolkien's ‘[Về những câu chuyện cổ tích](../O/On_Fairy-stories~23735.md)’" của John R. Holmes
-    - "'Phía sau cây': Tolkien, Chủ nghĩa lãng mạn thần học của Anh, & Trí tưởng tượng tuyệt vời" của Austin M. Freeman
-    - "'Các bài hát của anh ấy là những bài hát mạnh mẽ hơn': Sáng tạo thẩm mỹ, Sự mê hoặc và Sự thăng hoa của Wordsworthian trong Tolkien" của Brandon Wernette
+    - "Trí tưởng tượng lãng mạn, lạ mắt và kalymma trong ‘[Về những câu chuyện cổ tích](../O/On_Fairy-stories~23735.md)’ của Tolkien R. Holmes
+    - "'Phía sau cây': Tolkien, Nhà lãng mạn thần học Anh, & Trí tưởng tượng tuyệt vời" của Austin M. Freeman
+    - "'Các bài hát của anh ấy là những bài hát mạnh mẽ hơn': Sáng tạo thẩm mỹ, Sự mê hoặc và Sự siêu phàm của Wordsworthian trong Tolkien" của Brandon Wernette
 - **Thiên nhiên và Du lịch**
-    - "Bước vào Mordor: Tolkien và Viết về chuyến du lịch lãng mạn" của Eva Lippold
+    - "Bước vào Mordor: Tolkien và tác phẩm du ký lãng mạn" của Eva Lippold
     - "'Ngôn ngữ ma quái của Trái đất cổ đại': Tolkien, Địa chất và Thạch học lãng mạn" của Nick Groom
 
 <h2><span id="Publisher.27s_description"></span><span class="mw-headline" id="Publisher&#39;s_description">Publisher&#39;s description</span></h2>

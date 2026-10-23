@@ -40,7 +40,7 @@ Bao gồm bản sao của [bưu thiếp từ Tolkien đến Rayner Unwin](<../L/
 
 ## Nội dung {#Contents}
 
-Ngoài việc cung cấp cái nhìn tổng quan về việc sưu tầm và các bộ phim khác nhau, bao gồm bản xem trước chung về *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*sắp ra mắt, cuốn sách còn đề cập đến các sản phẩm được cấp phép từ những năm 1970 trở đi, bao gồm [sách](../../category/B/Books.md), [lịch](../../category/C/Calendars.md), trò chơi và đồ sưu tầm từ nhiều công ty khác nhau ([Kinder Sur ngạc](../K/Kinder_Surprise.md), [Mithril Miniatures](../M/Mithril_Miniatures.md), [Sideshow-WETA sưu tầm](../S/Sideshow_Collectibles.md)).
+Ngoài việc cung cấp cái nhìn tổng quan về việc sưu tầm và các bộ phim khác nhau, bao gồm bản xem trước chung về *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*sắp ra mắt, cuốn sách còn đề cập đến các sản phẩm được cấp phép từ những năm 1970 trở đi, bao gồm [sách](../../category/B/Books.md), [lịch](../../category/C/Calendars.md), trò chơi và đồ sưu tầm từ nhiều công ty khác nhau ([Kinder Sur ngạc](../K/Kinder_Surprise.md), [Mithril Miniatures](../M/Mithril_Miniatures.md), [Sideshow-WETA Collectibles](../S/Sideshow_Collectibles.md)).
 
 ## Lễ tân {#Reception}
 

@@ -39,4 +39,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Helm's Deep** là ca khúc thứ mười hai trong *[The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](Howard_Shore.md).
+**Helm's Deep** là bài hát thứ mười hai trong *[The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](Howard_Shore.md).

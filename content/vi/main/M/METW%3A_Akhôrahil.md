@@ -41,7 +41,7 @@ infobox:
 
 ## Các thẻ liên quan {#Related_cards}
 
-- MELE: Akhôrahil Ma Nhẫn
+- MELE: Akhôrahil Ringwraith
 - MELE: Akhôrahil được giải phóng
 
 <span></span>

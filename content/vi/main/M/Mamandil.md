@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hallacar"
 ---
 
-Chuyển hướng tới [Hallacar](../H/Hallacar.md).
+Chuyển hướng đến [Hallacar](../H/Hallacar.md).

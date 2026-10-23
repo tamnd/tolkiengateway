@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Goblin-town"
 ---
 
-Chuyển hướng tới [Thị trấn yêu tinh](Goblin-town.md).
+Chuyển hướng đến [Thị trấn Yêu Tinh](Goblin-town.md).

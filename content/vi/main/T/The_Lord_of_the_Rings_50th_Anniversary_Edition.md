@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings (50th Anniversary Edition)"
 ---
 
-Chuyển hướng tới [The Lord of the Rings (Phiên bản kỷ niệm 50 năm)](<The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>).
+Chuyển hướng đến [The Lord of the Rings (Phiên bản kỷ niệm 50 năm)](<The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>).

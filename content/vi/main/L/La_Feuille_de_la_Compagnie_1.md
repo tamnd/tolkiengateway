@@ -56,7 +56,7 @@ infobox:
     - V. Flieger & C. F. Hostetter, Tolkien's Legendarium, par [M. Devaux](../M/Michaël_Devaux.md), tr. 133
     - J. Pearce, Tolkien. Con người và huyền thoại, par [M. Devaux](../M/Michaël_Devaux.md), tr. 141
     - W. A. Senior, ed., « Số Tolkien » du Tạp chí Điều kỳ diệu trong nghệ thuật, par [M. Devaux](../M/Michaël_Devaux.md), p. 143
-    - S. van der Weide, ed., Kỷ yếu Hội nghị Lustrum lần thứ ba của Unquendor, par [M. Devaux](../M/Michaël_Devaux.md), p. 145
+    - S. van der Weide, ed., Kỷ yếu của Hội nghị Lustrum lần thứ ba của Unquendor, par [M. Devaux](../M/Michaël_Devaux.md), p. 145
 
 ## Liên kết ngoài {#External_links}
 

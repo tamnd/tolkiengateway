@@ -38,7 +38,7 @@ infobox:
 
 ## Từ Nhà xuất bản {#From_the_Publisher}
 
-Tuyển tập các bài tiểu luận này đề cập đến nhiều khía cạnh khác nhau trong các bộ phim chuyển thể từ tác phẩm của Tolkien *The Lord of the Rings* của Peter Jackson bao gồm việc viết kịch bản và quá trình sáng tạo, vị trí của các bộ phim trong lịch sử điện ảnh, vai trò giới tính trong phim và sách, trí tuệ và hội đồng, người hobbit và chủ nghĩa anh hùng, văn hóa của người hâm mộ và fanfic, việc sử dụng ngôn ngữ của Tolkien trong phim và các vấn đề khác.
+Tuyển tập các bài tiểu luận này đề cập đến nhiều khía cạnh khác nhau trong các bộ phim chuyển thể từ truyện của Tolkien *The Lord of the Rings* của Peter Jackson bao gồm viết kịch bản và quá trình sáng tạo, vị trí của các bộ phim trong lịch sử điện ảnh, vai trò giới tính trong phim và sách, trí tuệ và hội đồng, người Hobbit và chủ nghĩa anh hùng, văn hóa của người hâm mộ và fanfic, việc sử dụng ngôn ngữ của Tolkien trong phim và các vấn đề khác.
 
 <dl><dd><i>I read it with real interest.</i> — <a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a>, author of <i><a href="../S/Splintered_Light.md" title="Splintered Light">Splintered Light: Logos and Language in Tolkien&#39;s World</a></i></dd></dl>
 

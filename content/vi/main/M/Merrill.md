@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bruinen"
 ---
 
-Chuyển hướng tới [Bruinen](../B/Bruinen.md).
+Chuyển hướng đến [Bruinen](../B/Bruinen.md).

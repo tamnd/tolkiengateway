@@ -32,7 +32,7 @@ infobox:
 
 ## Từ nguyên {#Etymology}
 
-*Smakkabagms* là một từ [Gothic](../G/Gothic.md) có nghĩa là "cây sung".<sup id="cite_ref-collectedpoems_2-1" class="reference"><a href="#cite_note-collectedpoems-2">[2]</a></sup>
+*Smakkabagms* là một từ [Gothic](../G/Gothic.md) có nghĩa là "cây vả".<sup id="cite_ref-collectedpoems_2-1" class="reference"><a href="#cite_note-collectedpoems-2">[2]</a></sup>
 
 <span></span>
 

@@ -127,7 +127,7 @@ Trong một bản thảo ban đầu của chương "[The Steward and the King](.
 		</li>
 </ul>
 
-<b>2001-2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i>:</b>
+<b>2001-2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi đánh bài</a></i>:</b>
 
 <dl><dd>Although Ghân-buri-Ghân does not appear in <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> film series</a>, Decipher produced a card for the character. He was portrayed by <a href="../W/Wi_Kuki_Kaa.md" title="Wi Kuki Kaa">Wi Kuki Kaa</a>.</dd></dl>
 
@@ -135,7 +135,7 @@ Trong một bản thảo ban đầu của chương "[The Steward and the King](.
 
 <dl><dd>The voice of Ghân-buri-Ghân is provided by Ján Króner.</dd></dl>
 
-<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Ghân-buri-Ghân has two sons, the younger of whom is Khôr-buri-Ghân and the eldest Bhai-buri-Ghân was recently slain by the <a href="../O/Orcs.md" title="Orcs">orcs</a>, which is what motivates him to assist the outsiders. The player is the first to discover the Woses and after spending some time gaining Ghân-buri-Ghân&#39;s trust it is the player who leads him to King <a href="../T/Théoden.md" title="Théoden">Théoden</a>&#39;s company.</dd></dl>
 

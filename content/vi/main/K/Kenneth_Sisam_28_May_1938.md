@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Kenneth Sisam (28 May 1938)"
 ---
 
-Chuyển hướng đến [Thư gửi Kenneth Sisam (28 tháng 5 năm 1938)](<../L/Letter_to_Kenneth_Sisam_(28_May_1938).md>).
+Chuyển hướng tới [Thư gửi Kenneth Sisam (28 tháng 5 năm 1938)](<../L/Letter_to_Kenneth_Sisam_(28_May_1938).md>).

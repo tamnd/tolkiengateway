@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-- [Gốc](../S/Sundocarme.md) MINI ("đứng một mình, xông ra")<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+- [Gốc](../S/Sundocarme.md) MINI ("độc lập, đứng ngoài")<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

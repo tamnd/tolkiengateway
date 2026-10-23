@@ -17,7 +17,7 @@ categories:
 
 ### Từ nguyên {#Etymology}
 
-[Root](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=WAN&amp;action=edit&amp;redlink=1" title="WAN (page does not exist)">WAN</a>;<sup id="cite_ref-WAN_1-1" class="reference"><a href="#cite_note-WAN-1">[1]</a></sup> điều chỉnh từ *[auta-](../A/Auta-.md)*.
+[Gốc](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=WAN&amp;action=edit&amp;redlink=1" title="WAN (page does not exist)">WAN</a>;<sup id="cite_ref-WAN_1-1" class="reference"><a href="#cite_note-WAN-1">[1]</a></sup> điều chỉnh từ *[auta-](../A/Auta-.md)*.
 
 ## Ví dụ {#Examples}
 

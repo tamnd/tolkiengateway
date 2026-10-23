@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oromand"
 ---
 
-Chuyển hướng đến [Oromand](https://tolkiengateway.net/wiki/Oromand).
+Chuyển hướng tới [Oromand](https://tolkiengateway.net/wiki/Oromand).

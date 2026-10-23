@@ -55,9 +55,9 @@ Ondoher đã có ý định triển khai toàn bộ quân đội của mình tr�
 
 Minohtar kiểm tra bước tiến của kẻ thù trong một lúc. Lúc này [thủ lĩnh của Éothéod](../L/Leader_of_the_Éothéod.md) đến với tin tức rằng con trai út của Vua, [Faramir](<../F/Faramir_(son_of_Ondoher).md>), đã bị giết. Lẽ ra hoàng tử nên ở lại [Minas Anor](Minas_Anor.md) nhưng đã cải trang để tham gia trận chiến. Anh ta đang đi cùng chiếc [Người phương Bắc](../N/Northmen.md) khi nhóm của anh ta bị bắt gần [Đầm lầy Chết](../D/Dead_Marshes.md). Minohtar đang trong quá trình gửi tin nhắn tới Faramir thì tin tức đau lòng này đến.
 
-Ngay sau đó Wainriders đã đột phá được vị trí của Minohtar. Cuối ngày thứ mười ba của [Cermië](../C/Cermië.md), Minohtar bị áp đảo và bị giết bởi một mũi tên. Thi thể của anh ta được quân hậu phương mang đi khi họ chạy đi tìm Adrahil.
+Ngay sau đó Wainriders đã đột phá được vị trí của Minohtar. Cuối ngày thứ mười ba của [Cermië](../C/Cermië.md), Minohtar bị áp đảo và bị giết bởi một mũi tên. Thi thể của anh ta được quân hậu quân mang đi khi họ chạy đi tìm Adrahil.
 
-Cùng năm đó, [Eärnil](../E/Eärnil_II.md), Đội trưởng Quân đội miền Nam, đã trả thù cho Minohtar, Vua và những người khác đã chết trong [thảm họa Morannon](../D/Disaster_of_the_Morannon.md) bằng cách định tuyến Wainriders trong [Trận chiến trong trại](../B/Battle_of_the_Camp.md). Người chiến thắng Eärnil sau đó đã được [trao](../L/Law_of_Succession_in_Númenor.md#Realms_in_Exile) vương miện Gondor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Cùng năm đó, [Eärnil](../E/Eärnil_II.md), Đội trưởng Quân đội miền Nam, đã trả thù cho Minohtar, Vua và những người khác đã chết trong [thảm họa Morannon](../D/Disaster_of_the_Morannon.md) bằng cách định tuyến Wainriders trong [Trận chiến trong trại](../B/Battle_of_the_Camp.md). Người chiến thắng Eärnil sau đó đã được [được trao](../L/Law_of_Succession_in_Númenor.md#Realms_in_Exile) vương miện Gondor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

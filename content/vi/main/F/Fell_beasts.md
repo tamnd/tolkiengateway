@@ -203,7 +203,7 @@ Trong thư hồi đáp, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết rằng �
 
 <dl><dd>A Nazgûl mounted on a fell beast (depicted as a dragon-like creature) appears in the <a href="../A/Amon_Hen.md" title="Amon Hen">Amon Hen</a> stage of the PC and console versions of the game, where it serves as the final boss. In the first phase of the battle, the beast crawls on the ground and fights Aragorn (armed with his sword). During the second and final phase, it flies into the sky and shoots green fireballs from its mouth down at Aragorn (who shoots back at it with his bow), until it is weakened and finally shot down by Legolas in the game&#39;s ending cutscene.</dd></dl>
 
-<b><a href="../_/2002.md" title="2002">2002</a>-<a href="../_/2005.md" title="2005">5</a>: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Roleplaying Game</a></i>:</b>
+<b><a href="../_/2002.md" title="2002">2002</a>-<a href="../_/2005.md" title="2005">5</a>: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a></i>:</b>
 
 <dl><dd>Hell-hawks, employed as mounts by the Ringwraiths and found wild in southern Mirkwood and (after the War of the Ring) in Gondor, resemble a &#34;cross between lizards and featherless birds&#34;. They were bred by Sauron in mockery of the <a class="mw-redirect" href="../E/Eagles.md" title="Eagles">Great Eagles</a>.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[33]</a></sup></dd></dl>
 
@@ -211,7 +211,7 @@ Trong thư hồi đáp, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết rằng �
 
 <dl><dd>Agandaûr has several Fell beasts under his control. At the end of Chapter 1, Agandaûr flees on the back of one of them.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[34]</a></sup></dd></dl>
 
-<b><a href="../_/2023.md" title="2023">2023</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Return to Moria</a></i>:</b>
+<b><a href="../_/2023.md" title="2023">2023</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Trở về Moria</a></i>:</b>
 
 <dl><dd>Fell beasts are among the monsters infesting Moria. The female dragon Narag-Shazon claims that Sauron forcibly employed her to breed the creatures.</dd></dl>
 

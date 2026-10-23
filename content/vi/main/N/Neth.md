@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nessa"
 ---
 
-Chuyển hướng đến [Nessa](Nessa.md).
+Chuyển hướng tới [Nessa](Nessa.md).

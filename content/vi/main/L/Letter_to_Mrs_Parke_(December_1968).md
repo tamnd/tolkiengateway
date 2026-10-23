@@ -27,7 +27,7 @@ Vào [tháng 12](../D/December.md) [1968](../_/1968.md), [J.R.R. Tolkien](../J/J
 
 ## Từ cuộc đấu giá {#From_the_auction}
 
-1pp., 6 dòng có hình cây nhựa ruồi Giáng sinh vẽ tay ở một góc và ký tên "J.R.R.T.", \[1968\], chúc bà Parke những điều tốt đẹp nhất cho Giáng sinh và một năm 1969 hạnh phúc, may mắn hơn, gấp, 8vo . Bà Parke đóng vai trò là người lái xe và người trợ giúp chung cho Tolkiens trong vài giờ một tuần, sau khi trả lời một quảng cáo trên một tờ báo địa phương ở Bournemouth do Edith Tolkien đăng.
+1pp., 6 dòng có hình cây nhựa ruồi Giáng sinh vẽ tay ở một góc và ký tên "J.R.R.T.", \[1968\], chúc bà Parke những điều tốt đẹp nhất cho Giáng sinh và một năm 1969 hạnh phúc, may mắn hơn, gấp, 8vo . Bà Parke đóng vai trò là tài xế và người trợ giúp chung cho Tolkiens trong vài giờ một tuần, sau khi trả lời một quảng cáo trên tờ báo địa phương ở Bournemouth do Edith Tolkien đăng.
 
 <span></span>
 

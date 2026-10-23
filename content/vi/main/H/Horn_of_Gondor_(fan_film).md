@@ -54,7 +54,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Sau cuộc xâm lược của bầy [Balchoth](../B/Balchoth.md)hung hãn, [Gondor](../G/Gondor.md) đang trên bờ vực diệt vong. [Người quản lý cầm quyền](../R/Ruling_Steward.md) [Cirion](../C/Cirion.md) đặt hy vọng vào quốc gia bị lãng quên một nửa của các Lãnh chúa ở phía bắc. Liệu hiệp sĩ [Borondir](../B/Borondir.md) có thành công và truyền tải được thông điệp của Cirion không?
+Sau cuộc xâm lược của bầy [Balchoth](../B/Balchoth.md)hung hãn, [Gondor](../G/Gondor.md) đang trên bờ vực diệt vong. [Người quản lý cầm quyền](../R/Ruling_Steward.md) [Cirion](../C/Cirion.md) đặt hy vọng vào quốc gia bị lãng quên một nửa của các Lãnh chúa Kỵ sĩ ở phía bắc. Liệu hiệp sĩ [Borondir](../B/Borondir.md) có thành công và truyền tải được thông điệp của Cirion?
 
 ## Truyền {#Cast}
 

@@ -62,7 +62,7 @@ Cách chơi này rất giống với người tiền nhiệm của nó, bao gồ
 
 Người chơi thường vượt qua các cấp độ tuyến tính để chiến đấu với đám kẻ thù ngày càng khó khăn hơn và thường là trùm ở cuối. Thường có một số yếu tố ở cấp độ tương tác như xe chở thuốc nổ có thể phát nổ bằng cách bắn mũi tên vào chúng, cửa phải mở bằng đòn bẩy vận hành và giáo có thể nhặt và ném vào kẻ thù.
 
-Ngoài ra còn có yếu tố RPG: mỗi nhân vật tích lũy điểm kinh nghiệm (EXP) sau khi đánh bại kẻ thù. Người chơi có thể nhận được nhiều EXP hơn cho mỗi kẻ thù bằng cách kết hợp các đòn tấn công và combo mà không bị sát thương. EXP được sử dụng để tăng cấp, tạo ra các chiêu thức kết hợp mới. Như trong *The Two Towers* EXP được sử dụng ở cuối mỗi cấp độ cho các chiêu thức kết hợp mới và tăng sức khỏe, tuy nhiên cũng có yếu tố chiến lược về cách thực hiện điều này trong *The Return in the King*; với việc người chơi có thể lựa chọn giữa việc mở khóa chiêu thức cho chỉ một nhân vật hoặc cho toàn bộ tình bạn, với chi phí thêm EXP. Tuy nhiên, mỗi nhân vật vẫn phải đạt đến cấp độ yêu cầu để sử dụng chiêu thức thông công đã mở khóa.
+Ngoài ra còn có yếu tố RPG: mỗi nhân vật tích lũy điểm kinh nghiệm (EXP) sau khi đánh bại kẻ thù. Người chơi có thể nhận được nhiều EXP hơn cho mỗi kẻ thù bằng cách kết hợp các đòn tấn công và combo mà không bị sát thương. EXP được sử dụng để tăng cấp, tạo ra các chiêu thức kết hợp mới. Như trong *The Two Towers* EXP được sử dụng ở cuối mỗi cấp độ cho các chiêu thức kết hợp mới và tăng sức khỏe, tuy nhiên cũng có yếu tố chiến lược về cách thực hiện điều này trong *The Return in the King*; với việc người chơi có thể lựa chọn giữa việc mở khóa chiêu thức chỉ cho một nhân vật hoặc cho toàn bộ tình bạn, với chi phí EXP bổ sung. Tuy nhiên, mỗi nhân vật vẫn phải đạt đến cấp độ yêu cầu để sử dụng chiêu thức thông công đã mở khóa.
 
 ### Nhân vật {#Characters}
 
@@ -202,7 +202,7 @@ Bây giờ người chơi phải một mình chiến đấu với Vua của Ngư
 
 #### Cổng phía Nam {#The_Southern_Gate}
 
-Người chơi phải vượt qua cổng phía Nam để giúp đỡ Rohirrim tại [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Tuy nhiên, thật không may, anh ta phải chiến đấu chống lại hàng trăm Uruk và Orc đang phục kích. Hai con quỷ lùn cũng đang rình rập. Người chơi phải bắn ba máy phóng, hai máy vào tháp và một máy vào con quỷ lùn, để lên đến đỉnh cổng. Sau khi đánh bại con quỷ khổng lồ ở trên đỉnh, anh ta phải tiêu diệt [Mumak](../M/Mûmak.md) bằng cách bắn vào áo giáp của nó và cho nổ tung nó. Sau đó anh ta phải mở cổng. Cấp độ kết thúc khi người chơi sống sót qua được cổng.
+Người chơi phải vượt qua cổng phía Nam để giúp đỡ Rohirrim tại [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Tuy nhiên, thật không may, anh ta phải chiến đấu chống lại hàng trăm Uruk và Orc đang phục kích. Hai con quỷ lùn cũng đang rình rập. Người chơi phải bắn ba máy phóng, hai máy vào tháp và một máy vào con troll để lên đến đỉnh cổng. Sau khi đánh bại con quỷ khổng lồ ở trên đỉnh, anh ta phải tiêu diệt [Mumak](../M/Mûmak.md) bằng cách bắn vào áo giáp của nó và cho nổ tung nó. Sau đó anh ta phải mở cổng. Cấp độ kết thúc khi người chơi sống sót qua được cổng.
 
 **Thất bại như thế nào:** Người chơi chết.
 
@@ -222,7 +222,7 @@ Cấp độ bắt đầu với việc người chơi đối mặt với [Miệng
 
 #### Thoát khỏi Osgiliath {#Escape_from_Osgiliath}
 
-Người chơi phải vượt qua thành phố [Osgiliath](../O/Osgiliath.md) bị bao vây và trốn thoát qua hệ thống cống rãnh. Orc có mặt ở khắp mọi nơi và Nazgul không ngừng tìm kiếm Chiếc Nhẫn. Người chơi phải chiến đấu để vượt qua Osgiliath và ẩn nấp hoặc rời khỏi mái nhà càng nhanh càng tốt khi Nazgûl đang tìm kiếm. Cấp độ kết thúc khi người chơi đánh bại nhà vô địch Orc đóng quân gần lối ra cống và thoát khỏi thành phố.
+Người chơi phải vượt qua thành phố [Osgiliath](../O/Osgiliath.md) bị bao vây và trốn thoát qua hệ thống cống rãnh. Orc có mặt ở khắp mọi nơi và Nazgul đang không ngừng tìm kiếm Nhẫn. Người chơi phải chiến đấu để vượt qua Osgiliath và ẩn nấp hoặc rời khỏi mái nhà càng nhanh càng tốt khi Nazgûl đang tìm kiếm. Cấp độ kết thúc khi người chơi đánh bại nhà vô địch Orc đóng quân gần lối ra cống và thoát khỏi thành phố.
 
 **Cách thất bại:** Người chơi chết hoặc bị Nazgul bắt Frodo.
 
@@ -240,7 +240,7 @@ Phần thứ hai đơn giản hơn nhưng khó hơn; chỉ có một con đườ
 
 <dl><dt>The third part</dt></dl>
 
-Người chơi bây giờ phải chiến đấu với Shelob. Cô ấy bắt đầu bằng những cú đâm có thể đỡ đòn, nhưng đôi khi sẽ lao vào một góc và triệu hồi nhện để tấn công người chơi. Cách duy nhất (và cách dễ dàng nhất) là tấn công Shelob cho đến khi cô ta bị đánh bại. Frodo sẽ bị bắt bởi hai con Orc, kết thúc màn chơi.
+Bây giờ người chơi phải chiến đấu Shelob. Cô ấy bắt đầu bằng những cú đâm có thể đỡ đòn, nhưng đôi khi sẽ lao vào một góc và triệu hồi nhện để tấn công người chơi. Cách duy nhất (và cách dễ dàng nhất) là hack Shelob cho đến khi cô ta bị đánh bại. Frodo sẽ bị bắt bởi hai con Orc, kết thúc màn chơi.
 
 **Thất bại như thế nào:** Người chơi chết.
 
@@ -254,7 +254,7 @@ Phần thứ hai là trận đấu trùm ngắn với Gorbag. Ban đầu, ngư�
 
 #### Crack of Doom {#Crack_of_Doom}
 
-Cấp độ này về cơ bản là một trận đấu trùm: đó là Sam và Frodo chống lại Gollum. Gollum chỉ có các đòn tấn công cận chiến, nhưng đòn tấn công vuốt và nhảy của anh ta có thể khá nguy hiểm nếu không kịp phòng thủ. Để gây sát thương Gollum, người chơi phải dụ anh ta đến rìa của bục, chém anh ta, hạ gục anh ta bằng đòn tấn công O và kết thúc combo bằng một chiêu thức kết liễu. (Lưu ý: Điều này tương tự như chiêu thức Phán xét cuối cùng.) Người chơi phải sử dụng quy trình này tổng cộng sáu lần; mỗi lần, lại có thêm chướng ngại vật như đá rơi và dung nham rỉ ra trên nền tảng. Sau khi hoàn thành combo tiêu diệt Gollum thứ sáu, Gollum rơi xuống dung nham và Chiếc nhẫn bị phá hủy.
+Cấp độ này về cơ bản là một trận đấu trùm: đó là Sam và Frodo chống lại Gollum. Gollum chỉ có các đòn tấn công cận chiến, nhưng các đòn tấn công vuốt và nhảy của anh ta có thể khá nguy hiểm nếu không kịp phòng thủ. Để gây sát thương Gollum, người chơi phải dụ anh ta đến rìa của bục, chém anh ta, hạ gục anh ta bằng đòn tấn công O và kết thúc combo bằng một chiêu thức kết liễu. (Lưu ý: Điều này tương tự như chiêu thức Phán xét cuối cùng.) Người chơi phải sử dụng quy trình này tổng cộng sáu lần; mỗi lần, lại có thêm chướng ngại vật như đá rơi và dung nham chảy ra trên nền tảng. Sau khi hoàn thành combo tiêu diệt Gollum thứ sáu, Gollum rơi xuống dung nham và Nhẫn bị phá hủy.
 
 **Thất bại như thế nào:** Người chơi chết.
 

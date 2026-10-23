@@ -30,7 +30,7 @@ images:
 
 ## Xem thêm {#See_also}
 
-- <a class="mw-disambig" href="../T/The_Mines_of_Moria_(disambiguation).md" title="The Mines of Moria (disambiguation)">Mỏ Moria (định hướng)</a>
+- <a class="mw-disambig" href="../T/The_Mines_of_Moria_(disambiguation).md" title="The Mines of Moria (disambiguation)">Cái Mỏ Moria (định hướng)</a>
 
 <hr style="margin-top:15px;"/>
 

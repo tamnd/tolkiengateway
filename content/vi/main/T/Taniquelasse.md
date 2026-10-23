@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Taniquelassë"
 ---
 
-Chuyển hướng tới [Taniquelassë](Taniquelassë.md).
+Chuyển hướng đến [Taniquelassë](Taniquelassë.md).

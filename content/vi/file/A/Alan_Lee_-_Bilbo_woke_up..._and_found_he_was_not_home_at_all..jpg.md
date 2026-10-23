@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Bilbo](../../main/B/Bilbo_Baggins.md) tỉnh dậy... và phát hiện mình không có ở nhà." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"[Bilbo](../../main/B/Bilbo_Baggins.md) tỉnh dậy... và phát hiện mình không có ở nhà." bởi [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

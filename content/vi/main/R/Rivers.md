@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Rivers"
 ---
 
-Chuyển hướng tới [Danh mục:Sông](../../category/R/Rivers.md).
+Chuyển hướng đến [Danh mục:Sông](../../category/R/Rivers.md).

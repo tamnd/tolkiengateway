@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*[Arwen Evenstar](../../main/A/Arwen_Evenstar.md) roamed around in [Rivendell](../../main/R/Rivendell.md)* của [Anna Lee](../../main/A/Anna_Lee.md).
+*[Arwen Evenstar](../../main/A/Arwen_Evenstar.md) roamed around in [Rivendell](../../main/R/Rivendell.md)* bởi [Anna Lee](../../main/A/Anna_Lee.md).
 
 ## Giấy phép {#Licensing}
 

@@ -47,7 +47,7 @@ Dorwinion, Vùng đất của những trinh nữ, nằm ở đầu phía đông 
 Tính năng CHẠY SÔNG:
 
 - 6 CUỘC PHIÊU LƯU TUYỆT VỜI, trong đó tay sai của Chúa tể Bóng tối cố gắng mang đến sự hủy diệt cho Dorwinion và tất cả những ai du hành River Running.
-- HOÀN THÀNH BỐ TRÍ & BẢN ĐỒ cho mỗi cuộc phiêu lưu - tổng cộng hơn 12 trang.
+- HOÀN THÀNH BỐ CỤC & BẢN ĐỒ cho mỗi cuộc phiêu lưu - tổng cộng hơn 12 trang.
 - THỐNG KÊ cho tất cả quái thú, quái vật và NPC đối đầu với các nhà thám hiểm.
 - BẢNG kết quả và phản ứng của NPC cho tất cả các cuộc phiêu lưu.
 - GHI CHÚ GM MỞ RỘNG để chơi thú vị và vận hành tốt.

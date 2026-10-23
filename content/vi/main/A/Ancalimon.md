@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Ancalimon"
 ---
 
-Chuyển hướng tới [Tar-Ancalimon](../T/Tar-Ancalimon.md).
+Chuyển hướng đến [Tar-Ancalimon](../T/Tar-Ancalimon.md).

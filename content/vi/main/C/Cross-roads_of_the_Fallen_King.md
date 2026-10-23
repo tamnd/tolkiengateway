@@ -38,7 +38,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Gollum](../G/Gollum.md) tiếp tục dẫn [Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) về phía [Mordor](../M/Mordor.md). Frodo bày tỏ mối lo ngại của mình với Sam rằng anh ấy có thể sẽ không quay trở lại sau cuộc hành trình này, điều mà Sam bác bỏ là "suy nghĩ bệnh hoạn", nói rằng họ sẽ đi *there and back again*, giống như [Bilbo](../B/Bilbo.md) đã làm.
+[Gollum](../G/Gollum.md) continues to lead [Frodo](../F/Frodo.md) and [Sam](../S/Sam.md) towards [Mordor](../M/Mordor.md). Frodo bày tỏ mối lo ngại của mình với Sam rằng anh ấy có thể sẽ không quay trở lại sau cuộc hành trình này, điều mà Sam bác bỏ là "suy nghĩ bệnh hoạn", nói rằng họ sẽ đi *there and back again*, giống như [Bilbo](../B/Bilbo.md) đã làm.
 
 Cả ba tình cờ gặp bức tượng của một vị vua, bị ô uế và bị chặt đầu, đầu của nó được thay thế bằng một tảng đá lớn. Khi họ đi ngang qua đầu đá trên mặt đất, mặt trời ló dạng trong chốc lát, chiếu sáng đầu nhà vua, đội vương miện bằng những bông hoa thắp sáng dưới ánh nắng.
 
@@ -52,7 +52,7 @@ Khoảnh khắc trôi qua khi những đám mây lại che khuất mặt trời 
 
 ## Sự khác biệt {#Differences}
 
-Nửa sau của cảnh này rất phù hợp với cuốn sách. Tượng nhà vua giống với tượng mà Frodo và Sam gặp trong chương [Hành trình đến ngã tư](../J/Journey_to_the_Cross-Roads.md). Trong ánh sáng rực rỡ của [Mặt Trời](../S/Sun.md), Frodo nhìn thấy "một nhân vật khổng lồ đang ngồi, tĩnh lặng và trang nghiêm như những vị vua bằng đá vĩ đại của [Argonath](../A/Argonath.md)... Đầu của nó đã biến mất, và ở vị trí của nó được đặt vào một hòn đá tròn đẽo thô đầy giễu cợt". Một điểm khác biệt nhỏ là, trong tài liệu nguồn, chính Frodo để ý đến đầu của nhà vua và nói *"Nhìn kìa! Nhà vua lại có vương miện!"* với Sam.<sup id="cite_ref-TT_Journey_p._702_1-0" class="reference"><a href="#cite_note-TT_Journey_p._702-1">[1]</a></sup>
+The second half of this scene is very closely aligned with the book. The statue of the king resembles that which Frodo and Sam encounter in the chapter [Journey to the Cross-Roads](../J/Journey_to_the_Cross-Roads.md). Trong ánh sáng rực rỡ của [Mặt Trời](../S/Sun.md), Frodo nhìn thấy "một nhân vật khổng lồ đang ngồi, tĩnh lặng và trang nghiêm như những vị vua bằng đá vĩ đại của [Argonath](../A/Argonath.md)... Đầu của nó đã biến mất, và ở vị trí của nó được đặt vào một hòn đá tròn đẽo thô đầy giễu cợt". Một điểm khác biệt nhỏ là, trong tài liệu nguồn, chính Frodo để ý đến đầu của nhà vua và nói *"Nhìn kìa! Nhà vua lại có vương miện!"* với Sam.<sup id="cite_ref-TT_Journey_p._702_1-0" class="reference"><a href="#cite_note-TT_Journey_p._702-1">[1]</a></sup>
 
 ## Ghi chú {#Notes}
 

@@ -41,7 +41,7 @@ infobox:
 <p class="tg-quote-footer"><cite>Mike Singleton<sup id="cite_ref-interview_2-0" class="reference"><a href="#cite_note-interview-2">[2]</a></sup></cite></p>
 </blockquote>
 
-**Shadowfax** là một trò chơi điện tử hành động arcade thương mại, không có giấy phép được phát hành vào năm [1982](../_/1982.md).<sup id="cite_ref-Tolkien_Games_3-0" class="reference"><a href="#cite_note-Tolkien_Games-3">[3]</a></sup> Người thiết kế chính là [Mike Austin Singleton](../M/Mike_Singleton.md), người sau này làm việc trên *[J.R.R. Tolkien's War in Middle Earth](../J/J.R.R._Tolkien's_War_in_Middle_Earth.md)*của [Interplay](../I/Interplay_Productions.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+**Shadowfax** là một trò chơi điện tử hành động arcade thương mại, không có giấy phép được phát hành vào năm [1982](../_/1982.md).<sup id="cite_ref-Tolkien_Games_3-0" class="reference"><a href="#cite_note-Tolkien_Games-3">[3]</a></sup> Người thiết kế chính là [Mike Austin Singleton](../M/Mike_Singleton.md), người sau này đã làm việc trên *[J.R.R. Tolkien's War in Middle Earth](../J/J.R.R._Tolkien's_War_in_Middle_Earth.md)*của [Interplay](../I/Interplay_Productions.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Thiết kế {#Design}
 

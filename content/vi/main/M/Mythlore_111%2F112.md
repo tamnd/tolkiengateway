@@ -50,10 +50,10 @@ infobox:
 - Miller, T. S. "Làm lại huyền thoại trong Bóng Tối của Vergil: Giọng nói bị giam cầm(-ated) của Ursula K. Le Guin's *Lavina*."
 - Whitaker, Lynn. "Vẻ đẹp hư hỏng: Tường thuật hiếp dâm trong *The Silmarillion*."
 - McBride, Sam. "Công ty mà họ không giữ: Những người phụ nữ hợp tác trong những bức thư C.S. Lewis."
-- Mitchell, Jesse. "Bậc thầy của sự diệt vong do Doom làm chủ: Chủ nghĩa anh hùng, số phận và cái chết trong *The Children of Húrin*."
+- Mitchell, Jesse. "Chủ nhân of Doom của Doom Mastered: Chủ nghĩa anh hùng, Số phận và Cái chết trong *The Children of Húrin*."
 - Whitt, Richard J. "Tiếng Đức *Fate* và *Doom* trong *The Silmarillion*của J.R.R. Tolkien."
-- Croft, Janet Brennan. "Sợi dây dẫn đến sự diệt vong: Ý chí tự do, sự bất tuân và thảm họa trong Tolkien's Trung Địa."
-- Stoddard, William H. "*Simbelmynë*: Tỷ lệ tử vong và Ký ức trong Trung Địa."
+- Croft, Janet Brennan. "Sợi dây dẫn đến sự diệt vong: Ý chí tự do, sự bất tuân và thảm họa trong Tolkien Trung Địa."
+- Stoddard, William H. "*Simbelmynë*: Cái chết và ký ức trong Trung Địa."
 
 #### Tính năng {#Features}
 
@@ -66,8 +66,8 @@ infobox:
 - *Tolkien, Lịch sử chủng tộc và văn hóa: Từ các nàng tiên đến Hobbit.* Dimitra Fimi. Được đánh giá bởi Jason Fisher.
 - *Charles Williams and his Contemporaries.* Suzanne Bray và Richard Sturch, biên tập. Được đánh giá bởi Joe R. Christopher.
 - *Ở vùng đất của những ngôn ngữ được phát minh: Những ngôi sao nhạc rock Esperanto, những nhà thơ Klingon, những người yêu thích Loglan và những kẻ mộng mơ điên cuồng đã cố gắng xây dựng một ngôn ngữ hoàn hảo.* Arika Okrent. Được đánh giá bởi Harley J. Sims.
-- *Tạo dựng huyền thoại thiên niên kỷ: Các bài tiểu luận về sức mạnh của khoa học viễn tưởng và văn học giả tưởng, phim và trò chơi.* John Perlich & David Whitt, eds. Được đánh giá bởi Priscilla Hobbs
-- *Trung Địa Minstrel: Các bài tiểu luận về âm nhạc trong Tolkien.* Bradford Lee Eden, ed. Được đánh giá bởi Emily A. Moniz.
+- *Tạo dựng huyền thoại thiên niên kỷ: Các bài tiểu luận về sức mạnh của khoa học viễn tưởng và văn học giả tưởng, phim và trò chơi.* John Perlich & David Whitt, biên tập. Được đánh giá bởi Priscilla Hobbs
+- *Trung Địa Minstrel: Các bài luận về âm nhạc trong Tolkien.* Bradford Lee Eden, ed. Được đánh giá bởi Emily A. Moniz.
 - *Harry Potter & Trí tưởng tượng: Con đường giữa hai thế giới.* Travis Prinzi. Được đánh giá bởi David D. Oberhelman.
 - *Fastitocalon: Nghiên cứu về thuyết huyền ảo từ cổ đại đến hiện đại: Người bất tử và xác sống.* Eds. Thomas Honneger và Fanfan Chen. Được đánh giá bởi Janet Brennan Croft.
 - *Theodor Seuss Geisel* \[*sic*\]. Donald E. Pease. Được đánh giá bởi Joe R. Christopher.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:J.R.R. Tolkien - Water Wind & Sand.jpg"
 ---
 
-Chuyển hướng đến [Tệp:J.R.R. Tolkien - Water Wind & Sand.jpg](J.R.R._Tolkien_-_Water_Wind_&_Sand.jpg.md).
+Chuyển hướng tới [Tệp:J.R.R. Tolkien - Water Wind & Sand.jpg](J.R.R._Tolkien_-_Water_Wind_&_Sand.jpg.md).

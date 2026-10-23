@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Súlë"
 ---
 
-Chuyển hướng tới [Súlë](../S/Súlë.md).
+Chuyển hướng đến [Súlë](../S/Súlë.md).

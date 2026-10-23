@@ -32,9 +32,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Mountain range</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Yellow Mountains</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">South-east of <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Mountain range</td></tr></tbody></table>
 
-**Dãy núi Vàng** là một dãy núi ở phía đông nam của [Trung Địa](../M/Middle-earth.md) trong [Southlands](../D/Dark_Land.md), phần tiếp nối về phía nam của [Red Dãy Núi](../O/Orocarni.md). Cả hai phạm vi đều được tạo khi [Valar](../V/Valar.md) đẩy trung tâm Trung Địa về phía đông để bảo vệ thêm cho [Valinor](../V/Valinor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Dãy Núi Vàng** là một dãy núi ở phía đông nam của [Trung Địa](../M/Middle-earth.md) trong [Southlands](../D/Dark_Land.md), phần tiếp nối về phía nam của [Red Dãy Núi](../O/Orocarni.md). Cả hai phạm vi đều được tạo khi [Valar](../V/Valar.md) đẩy trung tâm Trung Địa về phía đông để bảo vệ thêm cho [Valinor](../V/Valinor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong [Ambarkanta bản đồ](../A/Ambarkanta_maps.md), Dãy núi Vàng không được hiển thị trên Bản đồ V, được gắn nhãn *"After the [War of the Gods](../B/Battle_of_the_Powers.md)"*.
+Trong [Ambarkanta bản đồ](../A/Ambarkanta_maps.md), Dãy Núi Vàng không được hiển thị trên Bản đồ V, được gắn nhãn *"After the [War of the Gods](../B/Battle_of_the_Powers.md)"*.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

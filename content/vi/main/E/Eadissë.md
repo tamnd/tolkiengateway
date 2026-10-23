@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Earissë"
 ---
 
-Chuyển hướng đến [Earissë](Earissë.md).
+Chuyển hướng tới [Earissë](Earissë.md).

@@ -1010,8 +1010,8 @@ Mỗi thẻ được sắp xếp theo trọng tâm chính của tác phẩm ngh�
     - <a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=621296" rel="noreferrer noopener" target="_blank">Cá voi khổng lồ</a>
     - <a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=621425" rel="noreferrer noopener" target="_blank">Pháo đài băng</a>
     - <a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=620755" rel="noreferrer noopener" target="_blank">Bài hát của Eärendil</a>
-- [Ở đó và quay lại](There_and_Back_Again.md)
-    - <a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=616981" rel="noreferrer noopener" target="_blank">Ở đó và quay lại</a>
+- [There and Back Again](There_and_Back_Again.md)
+    - <a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=616981" rel="noreferrer noopener" target="_blank">There and Back Again</a>
 - [The Tale of Tinúviel](The_Tale_of_Tinúviel.md)
     - <a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=616864" rel="noreferrer noopener" target="_blank">Câu chuyện về Tinúviel</a>
 

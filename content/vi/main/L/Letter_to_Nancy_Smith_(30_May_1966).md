@@ -19,7 +19,7 @@ Vào [30 tháng 5](../_/30_May.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J
 
 - **Nội dung:** Trong thư Tolkien có đề cập ngắn gọn về Ford Madox Ford và bài viết trên tạp chí *Diplomat*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - **Mô tả:** Thư đánh máy có chữ ký ("J.R.R. Tolkien"). Một trang, 4t, trên văn phòng phẩm in nổi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- **Xuất bản:** Được sao chép đầy đủ tại *[Christie's Fine Printed Books and Manuscripts 24 May 2002](../C/Christie's_Fine_Printed_Books_and_Manuscripts_24_May_2002.md)*.
+- **Xuất bản:** Được sao chép đầy đủ trong *[Christie's Fine Printed Books and Manuscripts 24 May 2002](../C/Christie's_Fine_Printed_Books_and_Manuscripts_24_May_2002.md)*.
 
 ## Trích đoạn {#Excerpts}
 

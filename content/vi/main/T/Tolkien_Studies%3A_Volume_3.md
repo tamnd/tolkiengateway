@@ -78,7 +78,7 @@ infobox:
     - *[War and the Works of J.R.R. Tolkien](../W/War_and_the_Works_of_J.R.R._Tolkien.md)*, bởi Janet Brennan Croft, được đánh giá bởi John Garth
     - Ghi chú sách, của Douglas A. Anderson
 
-- David Bratman, "Công trình nghiên cứu Tolkien của năm 2003"
+- David Bratman, "Công trình nghiên cứu của năm Tolkien 2003"
 - Michael D.C. Drout, Marcel R. Bulles, và Rebecca Epstein, "Thư mục (bằng tiếng Anh) năm 2004"
 
 ## Liên kết ngoài {#External_links}

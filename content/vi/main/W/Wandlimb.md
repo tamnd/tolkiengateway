@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fimbrethil"
 ---
 
-Chuyển hướng đến [Fimbrethil](../F/Fimbrethil.md).
+Chuyển hướng tới [Fimbrethil](../F/Fimbrethil.md).

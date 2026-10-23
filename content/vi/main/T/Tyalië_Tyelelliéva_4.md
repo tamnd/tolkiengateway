@@ -37,12 +37,12 @@ infobox:
 - Ấn phẩm sắp xuất bản, báo cáo của [Wayne Hammond](../W/Wayne_G._Hammond.md)
 - Quenya động từ có -ta và -ya, phản hồi bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
 - \-eva với tư cách là một sở hữu cách bộ phận, phản hồi của [Ivan Derzhanski](../I/Ivan_Derzhanski.md)
-- Câu chuyện về sự tàn tích Doriath của Dain Ironfoot của Alberto Monteiro (tiểu thuyết)
-- Bản đồ cốc và nhẫn của Lisa Star (bản đồ dành cho người lùn mà Tolkien dường như chưa từng thấy)
+- Câu chuyện về tàn tích Doriath của Dain Ironfoot của Alberto Monteiro (tiểu thuyết)
+- Cup và Nhẫn Bản đồ của Lisa Star (một bản đồ dành cho người lùn mà Tolkien dường như chưa từng thấy)
 - Mảnh Bakken của Helge Fauskanger (một văn bản quan trọng trong Quenya mà Tolkien dường như chưa bao giờ nhìn thấy)
 - Cuộc chiến Châu báu Báo cáo của Lisa Star (đánh giá sách)
 - Danh sách từ về người lùn của Lisa Star
 - Người lùn (bài tập về Trang Bas du của bạn, bao gồm cả việc thực hành viết rune Người lùn)
-- Runes của Erebor, biểu đồ của Lisa Star
+- Chữ cổ Erebor, biểu đồ của Lisa Star
 
 <center><a href="Tyalië_Tyelelliéva_3.md" title="Tyalië Tyelelliéva 3">Previous Issue</a> <b>||</b> <a href="Tyalië_Tyelelliéva_5.md" title="Tyalië Tyelelliéva 5">Next Issue</a></center>

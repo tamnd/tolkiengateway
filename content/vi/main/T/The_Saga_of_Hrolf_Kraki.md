@@ -40,7 +40,7 @@ infobox:
 
 <i><b>The Saga of Hrolf Kraki</b></i> là ấn bản của [tiếng Bắc Âu cổ](../O/Old_Norse.md) *[Hrólfs saga kraka](../H/Hrólfs_saga_kraka.md)*, được xuất bản lần đầu trong [1933](../_/1933.md). Nó được dịch bởi [Stella M. Mills](../S/Stella_M._Mills.md), một học sinh của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)và cuốn sách được dành tặng cho [E.V. Gordon](../E/E.V._Gordon.md), Tolkien và <a class="extiw" href="http://en.wikipedia.org/wiki/Charles_Talbut_Onions" title="wikipedia:Charles Talbut Onions">C.T. Onions</a>.
 
-Trong [2012](../_/2012.md), cuốn sách đã được tái bản bởi công ty xuất bản [Nodens Books](../N/Nodens_Books.md) của [Douglas A. Anderson](../D/Douglas_A._Anderson.md), với Lời nói đầu mới của [Priscilla Tolkien](../P/Priscilla_Tolkien.md).
+Vào năm [2012](../_/2012.md), cuốn sách đã được tái bản bởi nhà xuất bản [Nodens Books](../N/Nodens_Books.md) của [Douglas A. Anderson](../D/Douglas_A._Anderson.md), với Lời nói đầu mới của [Priscilla Tolkien](../P/Priscilla_Tolkien.md).
 
 ## Từ nhà xuất bản {#From_the_publisher}
 

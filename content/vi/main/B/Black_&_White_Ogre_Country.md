@@ -48,7 +48,7 @@ Gần đây, những câu chuyện được phát hiện bởi Hilary trong mộ
 
 ## Đánh giá {#Reviews}
 
-"Rõ ràng là hai anh em cực kỳ thân thiết; những trải nghiệm chung của họ khi còn nhỏ, được khuyến khích bởi Hilary hoang dã hơn, phiêu lưu thể chất hơn, đã mang lại cho Ronald nền tảng về thiên nhiên giúp neo giữ trí tưởng tượng của anh với trái đất. Đọc những đoạn gần như kỳ lạ này giống như quét bản thiết kế thô sơ cho Chúa tể của những chiếc nhẫn và The Hobbit. \[...\] Là một tuyển tập truyện dành cho trẻ em, nó có sức hấp dẫn to lớn. Nhưng đối với những người hâm mộ Tolkien, nó mang đến một bản thiết kế cho đến nay vẫn chưa được tiết lộ. cái nhìn sâu sắc về nguồn gốc của các tác phẩm giả tưởng hoành tráng của ông."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+"Rõ ràng là hai anh em cực kỳ thân thiết; những trải nghiệm được chia sẻ khi còn nhỏ của họ, được khuyến khích bởi Hilary hoang dã hơn, phiêu lưu thể chất hơn, đã tạo cho Ronald nền tảng trong thiên nhiên gắn liền trí tưởng tượng của anh với trái đất. Đọc những đoạn gần như kỳ lạ này giống như quét bản thiết kế thô sơ cho Chúa tể của những chiếc nhẫn và The Hobbit. \[...\] Là một tuyển tập truyện dành cho trẻ em, nó có sức hấp dẫn vô cùng. Nhưng đối với những người hâm mộ Tolkien, nó mang đến một điều cho đến nay cái nhìn sâu sắc chưa được tiết lộ về nguồn gốc của các tác phẩm giả tưởng hoành tráng của ông."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

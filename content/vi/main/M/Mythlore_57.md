@@ -46,7 +46,7 @@ infobox:
 #### Bài viết {#Articles}
 
 - Christensen, Bonniejean. “Kỹ thuật sáng tạo củaTolkien: *Beowulf* và *The Hobbit*.”
-- Jones, Carla Faust. “Phân tích máy tính trinh thám văn học về sự khác biệt về phong cách giữa 'The Dark Tower' và C.S. Lewis' Bộ ba không gian sâu thẳm."
+- Jones, Carla Faust. “Phân tích máy tính trinh thám văn học về sự khác biệt về phong cách giữa Bộ ba không gian sâu ' Tòa Tháp Bóng Tối' và C.S. Lewis'."
 - Anderson, Thủy thủ Angelee. “Bản chất của thành phố: Tầm nhìn về Vương quốc và các vị thánh của nó trong Charles Williams' *All Hallows' Eve*.”
 - Patterson, Nancy-Lou. “Phim hài về những chiếc mặt nạ: Lãnh chúa Peter trong vai Harlequin trong *Murder Must Adverstise*.”
 - Sorensen, Gail D. “ *The Rose and The Ring*của Thackeray: Truyện cổ tích của một tiểu thuyết gia.”

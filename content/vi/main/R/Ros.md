@@ -18,13 +18,13 @@ categories:
 ## Ví dụ {#Examples}
 
 - [Cair Andros](../C/Cair_Andros.md)
-- [Những người nổi tiếng](../C/Celebros.md)
+- [Celebros](../C/Celebros.md)
 - [Elros](../E/Elros.md)
 - [Rauros](Rauros.md)
 
 ## Xem thêm {#See_also}
 
-- [Vấn đề của Ros](../T/The_Problem_of_Ros.md)
+- [The Problem of Ros](../T/The_Problem_of_Ros.md)
 
 <span></span>
 

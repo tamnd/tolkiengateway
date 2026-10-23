@@ -86,7 +86,7 @@ Ra mắt xã hội - Ý Tolkien
     - Bởi: Denis Collins
 - Hobbit Lỗ
     - Bởi: Ian Smalley & Sally Bijl
-- Truyện dân gian
+- Truyện dân ca
 - Hexham 1993
     - Bởi: Christine Davidson
 - Toán học

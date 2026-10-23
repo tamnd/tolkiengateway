@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Xuất hiện lần đầu tiên trong ấn bản minh họa của *The Silmarillion*, được xuất bản bởi HarperCollins vào năm 1998.
+Xuất hiện lần đầu trong ấn bản minh họa của *The Silmarillion*, được xuất bản bởi HarperCollins vào năm 1998.
 
 ## Giấy phép {#License}
 

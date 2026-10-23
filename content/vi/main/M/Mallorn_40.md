@@ -62,11 +62,11 @@ Tầm nhìn Thánh Mẫu của - Tolkien về [Trung Địa](Middle-earth.md)
     - Bởi: Susanne Stopfel
 Giọng nói của - [Treebeard](../T/Treebeard.md)
     - Bởi: [John Ellison](../J/John_Ellison.md)
-- [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) và Tứ Yêu
+- [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) and the Four Loves
     - Bởi: Dale Nelson
 - Vấn đề nhị phân và vấn đề nữ quyền trong LOTR
     - Bởi: Dale Nelson
-Việc - J.R.R. Tolkien sử dụng bùa tiếng Anh cổ
+- J.R.R. Tolkien's use of an tiếng Anh cổ charm
     - Bởi: Edward Pettit
 - Chiếc Nhẫn: tiểu luận về thần thoại của Tolkien
     - Bởi: Håken Arvidsson

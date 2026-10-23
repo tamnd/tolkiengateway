@@ -99,8 +99,8 @@ infobox:
 - David Weber: "Nỗi buồn được chuyển hóa: Đặc điểm của nỗi buồn trong The Lord of the Rings"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Constance_Wagner&amp;action=edit&amp;redlink=1" title="Constance Wagner (page does not exist)">Constance G.J. Wagner</a>: "Cuộc chiến bên trong: Frodo với tư cách là Anh hùng hy sinh"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Beth_Russell&amp;action=edit&amp;redlink=1" title="Beth Russell (page does not exist)">Beth Russell</a>: "Galadriel và những người tình của cô ấy"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Judith_Klinger&amp;action=edit&amp;redlink=1" title="Judith Klinger (page does not exist)">Judith Klinger</a>: "Những sai lầm về quyền lực: Sự phản kháng của Frodo đối với chiếc nhẫn"
-- [Lynnette R. Porter](../L/Lynnette_Porter.md): "Lòng can đảm và khả năng thích ứng"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Judith_Klinger&amp;action=edit&amp;redlink=1" title="Judith Klinger (page does not exist)">Judith Klinger</a>: "Những sai lầm về quyền lực: Sự phản kháng của Frodo đối với Nhẫn"
+- [Lynnette R. Porter](../L/Lynnette_Porter.md): "Lòng dũng cảm và khả năng thích ứng"
 
 <h3><span id="Section_Seven:_Tolkien.27s_Legacy"></span><span class="mw-headline" id="Section_Seven:_Tolkien&#39;s_Legacy">Section Seven: Tolkien&#39;s Legacy</span></h3>
 
@@ -116,9 +116,9 @@ infobox:
 - Davide Cattaneo: "Sự hiện diện và quan phòng của Thiên Chúa trong The Lord of the Rings"
 - Greg Wright: "Tình bạn và những chiếc nhẫn: Cách tiếp cận đại kết đối với Tolkien"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ronald_Hutton&amp;action=edit&amp;redlink=1" title="Ronald Hutton (page does not exist)">Ronald Hutton</a>: "Kẻ ngoại đạo Tolkien"
-- Zach Watkins: "Satan và The Silmarillion: Sự suy tàn thiên thần của John Milton trong Melkor của J.R.R. Tolkien"
+- Zach Watkins: "Satan và The Silmarillion: John Sự suy giảm thiên thần của Milton trong Melkor của J.R.R. Tolkien"
 - Zach Watkins: "Tử vong và bất tử: Một cuộc thảo luận nhóm về 'Tử vong và bất tử'"
-- Pedro Ángeles-Ruiz: "'contrafactura' huyền thoại Công giáo trong một số bài viết của J.R.R. Tolkien
+- Pedro Ángeles-Ruiz: "'contrafactura' huyền thoại Công giáo trong một số tác phẩm của J.R.R. Tolkien
 - Beppe Roncari và Davide Cattaneo: "Tolkien và Cơ đốc giáo"
 - Dean Slavic: "Thế giới ngầm trong tiểu thuyết của Tolkien The Lord of the Rings"
 - [Thomas Fornet-Ponse](Thomas_Fornet-Ponse.md): "Các khái niệm khác nhau về cái ác trong The Lord of the Rings?"
@@ -130,7 +130,7 @@ infobox:
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Colin_Manlove&amp;action=edit&amp;redlink=1" title="Colin Manlove (page does not exist)">Colin Manlove</a>: " Tolkien nợ công của George MacDonald bao nhiêu?"
 - [Renée Vink](../R/Renée_Vink.md): "Sự bất tử và cái chết của tình yêu: J.R.R. Tolkien và Simone de Beauvoir"
 - Sash Uusjärv: "Ảnh hưởng của Kalevala ở The Silmarillion bởi J.R.R. Tolkien"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Michael_Scott_Rohan&amp;action=edit&amp;redlink=1" title="Michael Scott Rohan (page does not exist)">Michael Scott Rohan</a>: "Tôi thắc mắc câu chuyện nào? Gandalf nói… Tolkien có phải là Kẻ trộm nhẫn thật không?"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Michael_Scott_Rohan&amp;action=edit&amp;redlink=1" title="Michael Scott Rohan (page does not exist)">Michael Scott Rohan</a>: "Tôi tự hỏi câu chuyện nào? Gandalf nói… Tolkien có phải là tên trộm Nhẫn thực sự không?"
 - Maria Artamanova: "Tolkien các bài viết bằng tiếng Đức cổ"
 - [David Bratman](../D/David_Bratman.md): "Hobbit Những cái tên không đến từ Kentucky"
 - Murray Smith: "Một số nguồn gốc có thể có của Quan Chấp chính của Gondor"

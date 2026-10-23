@@ -17,7 +17,7 @@ categories:
   - "Vanyar"
 ---
 
-**Vanyarin**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> hoặc **Vanyarin Quenya** và đôi khi còn được gọi là **Quendya** (phát âm là <span title="Pronunciation in IPA" class="IPA">[ˈkʷeɲɟa]</span>) là phương ngữ của [Quenya](../Q/Quenya.md) được nói bởi [Vanyar](Vanyar.md) ở [Valimar](Valimar.md), được phân biệt với Noldorin/[Exilic Quenya](../E/Exilic_Quenya.md).
+**Vanyarin**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> hoặc **Vanyarin Quenya** và đôi khi còn được gọi là **Quendya** (phát âm là <span title="Pronunciation in IPA" class="IPA">[ˈkʷeɲɟa]</span>) là phương ngữ của [Quenya](../Q/Quenya.md) được nói bởi [Vanyar](Vanyar.md) trong [Valimar](Valimar.md), để phân biệt với Noldorin/[Người lưu đày Quenya](../E/Exilic_Quenya.md).
 
 ## Lịch sử {#History}
 
@@ -25,11 +25,11 @@ Ngôn ngữ Quenya phát triển trong [Valinor](Valinor.md), nhưng cũng có t
 
 Cách nói của Vanyar (gần giống với Valar), có nhiều [Valarin](Valarin.md) từ mượn trong ngôn ngữ của họ.<sup id="cite_ref-P_3-0" class="reference"><a href="#cite_note-P-3">[3]</a></sup> Hơn nữa, phương ngữ của họ bảo thủ hơn so với phương ngữ của Noldor, những người sáng tạo hơn.
 
-Tuy nhiên, các nhà truyền thuyết Vanyarin sẽ đồng ý với những thay đổi do Noldor đưa ra để được coi là Quenya chân thực trong cộng đồng ngôn ngữ chung của họ.<sup id="cite_ref-V_4-0" class="reference"><a href="#cite_note-V-4">[4]</a></sup> Một trong những thay đổi đó là phụ âm -r trong các từ số nhiều thay vì -i mà Vanyar đã sử dụng.<sup id="cite_ref-P_3-1" class="reference"><a href="#cite_note-P-3">[3]</a></sup>
+Tuy nhiên, Vanyarin các nhà truyền thuyết sẽ đồng ý với những thay đổi do Noldor đưa ra để được coi là Quenya chân thực trong cộng đồng ngôn ngữ chung của họ.<sup id="cite_ref-V_4-0" class="reference"><a href="#cite_note-V-4">[4]</a></sup> Một trong những thay đổi đó là phụ âm -r trong các từ số nhiều thay vì -i mà Vanyar đã sử dụng.<sup id="cite_ref-P_3-1" class="reference"><a href="#cite_note-P-3">[3]</a></sup>
 
 Liên quan đến sự phát triển song song của hai ngôn ngữ, chúng tôi được biết rằng [Fëanor](../F/Fëanor.md) coi vấn đề thay đổi âm thanh *þ* thành *s* của người dân của mình như một sự xúc phạm cá nhân đối với ký ức về người mẹ của anh ta, người được gọi là [Þerindë](../M/Míriel.md), và phản đối việc đó.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Mặt khác, Vanyar cũng phát âm âm thanh *f-* rất nhẹ nhàng, đe dọa hợp nhất nó với *hw-*, và Fëanor đùa rằng họ sẽ phát âm tên anh là *Hwëanáro*.<sup id="cite_ref-V_4-1" class="reference"><a href="#cite_note-V-4">[4]</a></sup>
 
-Kể từ khi Noldor đến [Trung Địa](../M/Middle-earth.md) và ngôn ngữ của họ được biết đến trong [Sindar](../S/Sindar.md), [Silvan](../S/Silvan_Elves.md) và sau đó là [Dúnedain](../D/Dúnedain.md), Vanyarin được coi là một phương ngữ ít được biết đến, khó nắm bắt, chỉ được nói bằng Valinor.
+Kể từ khi Noldor xuất hiện [Trung Địa](../M/Middle-earth.md) và ngôn ngữ của chúng được biết đến trong [Sindar](../S/Sindar.md), [Silvan](../S/Silvan_Elves.md) và sau đó là [Dúnedain](../D/Dúnedain.md), Vanyarin được coi là một phương ngữ ít được biết đến, khó nắm bắt, chỉ được nói bằng Valinor.
 
 ## Biến thể {#Variations}
 

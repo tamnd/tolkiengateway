@@ -19,7 +19,7 @@ categories:
 
 Từ này bắt nguồn từ [gốc](../S/Sundocarme.md) [MOR](MOR~34024.md).<sup id="cite_ref-L297_1-1" class="reference"><a href="#cite_note-L297-1">[1]</a></sup>
 
-## Sự khoan hồng {#Lenition}
+## Sự khoan dung {#Lenition}
 
 Dạng [lenited](../L/Lenition.md) <i><b>vorn</b></i> (*m* > *v*) dường như xuất hiện trong *[Eryn Vorn](../E/Eryn_Vorn.md)* ("Blackwood").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-RClxv_5-0" class="reference"><a href="#cite_note-RClxv-5">[5]</a></sup> Nó cũng có thể được thấy trong hợp chất <i><a href="../G/Galvorn.md" title="Galvorn">gal<b>vorn</b></a></i> và có lẽ cả trong <i><a href="../A/Aravorn.md" title="Aravorn">Ara<b>vorn</b></a></i>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 

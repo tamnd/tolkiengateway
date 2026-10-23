@@ -24,7 +24,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Michael John Moorcock</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/18_December.md" title="18 December">18 December</a>, <a href="../_/1939.md" title="1939">1939</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Novelist, journalist, script writer, musician, editor</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data">www.michaelmoorcock.net</td></tr></tbody></table>
 
-**Michael John Moorcock** là nhà văn khoa học viễn tưởng và giả tưởng người Anh.
+**Michael John Moorcock** là một nhà văn khoa học viễn tưởng và giả tưởng người Anh.
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 

@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ảnh của Nicola-Claire Lydon và [Peter Pracownik](../../main/P/Peter_Pracownik.md) - Nguồn: <a class="external text" href="https://web.archive.org/web/20120915002447/http://www.peterpracownik.com/pages/about.htm" rel="noreferrer noopener" target="_blank">Giới thiệu - Peter Pracownik và một thế giới xanh khác</a>
+Ảnh của Nicola-Claire Lydon và [Peter Pracownik](../../main/P/Peter_Pracownik.md) - Nguồn: <a class="external text" href="https://web.archive.org/web/20120915002447/http://www.peterpracownik.com/pages/about.htm" rel="noreferrer noopener" target="_blank">Giới thiệu - Peter Pracownik và Thế giới xanh khác</a>
 
 ## Giấy phép {#Licensing}
 

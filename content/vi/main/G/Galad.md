@@ -24,8 +24,8 @@ categories:
 
 Tolkien đã thử nghiệm một số từ nguyên có thể có của *galad*:
 
-1. *galad* bắt nguồn từ [Nguyên thủy Elvish](../P/Primitive_Elvish.md) *galatā* ("rạng rỡ, tỏa sáng"), từ [gốc](../S/Sundocarme.md) [KAL](../K/KAL.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-2. *galad* bắt nguồn từ [Nguyên thủy Elvish](../P/Primitive_Elvish.md) *ñaladā*, từ [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%91AL&amp;action=edit&amp;redlink=1" title="ÑAL (page does not exist)">ÑGAL</a> ("lấp lánh, tỏa sáng").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+1. *galad* xuất phát từ [Primitive Elvish](../P/Primitive_Elvish.md) *galatā* ("bức xạ, bức xạ"), từ [gốc](../S/Sundocarme.md) [KAL](../K/KAL.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+2. *galad* bắt nguồn từ [Primitive Elvish](../P/Primitive_Elvish.md) *ñaladā*, từ [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%91AL&amp;action=edit&amp;redlink=1" title="ÑAL (page does not exist)">ÑGAL</a> ("lấp lánh, óng ả").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 3. *galad* bắt nguồn từ [Common Eldarin](../C/Common_Eldarin.md) *ñalatā* ("tỏa sáng, phản chiếu lấp lánh"), từ [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%91AL&amp;action=edit&amp;redlink=1" title="ÑAL (page does not exist)">ÑAL</a> ("tỏa sáng nhờ phản chiếu").<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 ### Ví dụ {#Examples}

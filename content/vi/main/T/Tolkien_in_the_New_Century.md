@@ -52,29 +52,29 @@ infobox:
 - Các từ viết tắt và các quy ước khác  7
 
 - I. Memoirs
-    - "Tư vấn *Scippigræd*: T.A. Shippey dạy chúng tôi đọc như thế nào" (John R. Holmes) 11
-    - "Shippey: Nhà ngữ văn và các nhà phê bình" ([David Bratman](../D/David_Bratman.md)) 14
+    - "Tư vấn *Scippigræd*: T.A. Shippey Dạy chúng tôi đọc như thế nào" (John R. Holmes) 11
+    - "Shippey: Nhà ngữ văn và nhà phê bình" ([David Bratman](../D/David_Bratman.md)) 14
     - "Tom Shippey, và một vài chiếc lá mới trên một số rễ và cành cũ" (E.L. Risden) 16
     - "Cuộc nói chuyện của Tom Shippey" (Todd Jensen) 20
     - "Tom Shippey và Hội Tolkien" (<a class="new" href="https://tolkiengateway.net/w/index.php?title=Jessica_Yates&amp;action=edit&amp;redlink=1" title="Jessica Yates (page does not exist)">Jessica Yates</a>) 22
     - "Shippey Trong số những người lính đánh thuê" (John Wm. Houghton) 25
 - II. Trả lời câu hỏi
     - "'Quý bà mặc áo choàng đơn giản và cánh tay trắng' *or* Những ảnh hưởng có thể có của các minh họa sách thế kỷ 19 và đầu thế kỷ 20 đối với tác phẩm của Tolkien([Nancy Martsch](../N/Nancy_Martsch.md)) 29
-    - "Những nơi có những vì sao kỳ lạ: Ảo tưởng và không tưởng trong Tolkien'sTrung Địa" (Robert T. Tally, Jr.) 41
+    - "Những nơi có những vì sao kỳ lạ: Ảo mộng và không tưởng trong Tolkien'sTrung Địa" (Robert T. Tally, Jr.) 41
     - "Trung Địa và Vùng đất hoang: Rừng Xanh, Ngày tận thế và Nghị quyết sau chiến tranh" (E.L. Risden) 57
-    - "Những viên ngọc, viên đá, chiếc nhẫn và sự tạo nên ý nghĩa" ([Verlyn Flieger](../V/Verlyn_Flieger.md)) 65
+    - "Những viên ngọc, viên đá, Nhẫn và sự tạo nên ý nghĩa" ([Verlyn Flieger](../V/Verlyn_Flieger.md)) 65
     - "Tolkien và sự bổ nhiệm" (Leslie Stratyner) 78
 - III. "Những câu hỏi ngữ văn"
     - "Giữ lời khuyên: Lời khuyên trong tiểu thuyết của Tolkien" (John R. Holmes) 87
     - "Tolkien's Wraiths, Rings và Rồng: Một bài tập về ngôn ngữ học văn học" ([Jason Fisher](../J/Jason_Fisher.md)) 97
     - "'Anh ấy hát một bài hát ma thuật': Lời nói có sức mạnh trong Trung Địa" (B.S.W. Barootes) 115
 - IV. “Truyền thống đích thực”
-    - "Bên trong văn học: Những khám phá về thể loại thời trung cổ của Tolkien" ([John D. Rateliff](../J/John_D._Rateliff.md)) 133
+    - "Bên trong văn học: Những khám phá của Tolkien về các thể loại thời trung cổ" ([John D. Rateliff](../J/John_D._Rateliff.md)) 133
     - "'Kém Sméagol': Gollum bị lưu đày ở *The Lord of the Rings*" (Yvette Kisor) 153
     - "Sự hiện diện của quá khứ trong *The Lord of the Rings*" (John B. Marino) 169
     - "Sói đêm, nửa quỷ lùn và xác chết không chịu khuất phục" ([Marjorie Burns](../M/Marjorie_J._Burns.md)) 182
 - V. Perspectives từ Bên ngoài Chu trình
-    - "Vainamoinen inTrung Địa: Sự hiện diện lan tỏa của *Kalevala* trong các Chương Bombadil của *The Lord of the Rings*" (David L. Dettman) 197
+    - "Vainamoinen inTrung Địa: Sự hiện diện tràn lan của *Kalevala* trong các Chương Bombadil của *The Lord of the Rings*" (David L. Dettman) 197
     - "'Thiếu lời khuyên không có lòng can đảm': J.R.R. Tolkien Phê phán đạo đức anh hùng trong *The Children of Húrin*" ([Richard C. West](../R/Richard_C._West.md)) 216
     - "'Alone Between the Dark and Light': "The Lay of Aotrou and Itroun" và Bài học từ tương lai *Legendarium*" ([Kristine Larsen](../K/Kristine_Larsen.md)) 221
 

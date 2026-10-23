@@ -52,35 +52,35 @@ infobox:
     - Bởi: [Andrew Butler](Andrew_Butler.md), Spike Jones, R.P. Weston, Bert Lee
 - Tác phẩm nghệ thuật: *White Ship*
     - Bởi: [Soni Alcorn-Hender](../S/Soni_Alcorn-Hender.md)
-- Nội dung
+- Contents
 - Ngày ghi nhật ký của bạn
     - Bởi: Ian Collier
 - Thông báo
 - Thông báo ĐHĐCĐ
-- Thông báo Oxonmoot
+- Oxonmoot Announcement
 - Tác phẩm nghệ thuật: *Sam at Caradhras*
-    - Bởi: [Jef Murray](../J/Jef_Murray.md)
+    - By: [Jef Murray](../J/Jef_Murray.md)
 - Tất cả Bran
     - Bởi: Ian Spittlehouse
 - Báo cáo: Nhiệm vụ nhẫn bão tố 2020
     - Bởi: Alan Baxter
-- Sau cánh cửa kính (hóa đơn đôi)
+- Behind Glass Doors (double bill)
     - Bởi: Ian Collier
 - Thư
-- Cuộc gặp gỡ: Yêu cầu
+- Encounters: The Request
     - Bởi: M.R. Willetts
 - Tác phẩm nghệ thuật: *Seat of Seeing*
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
-- Mới từ Fangorn
+- New From Fangorn
     - Bởi: Carol Brownlow
-- Báo cáo: Nụ cười ba viên đá đánh rắm
-    - Bởi: Maggie Bailey
+- Report: Three Farthing Stone Smial
+    - By: Maggie Bailey
 - Tác phẩm nghệ thuật: *Into the Wild*
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
 Linh tinh của - Michael
     - Bởi: Michael Hoa
 - Tác phẩm nghệ thuật: *Somewhere in Mordor...*
-    - Bởi: Gordon Palmer
+    - By: Gordon Palmer
 - Ủy ban
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 281</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_281.md" title="Amon Hen 281">Amon Hen 281</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 282</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 283</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_283.md" title="Amon Hen 283">Amon Hen 283</a></div></div></div>

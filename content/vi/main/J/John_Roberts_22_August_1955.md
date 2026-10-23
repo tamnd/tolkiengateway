@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to John Roberts"
 ---
 
-Chuyển hướng đến [Thư gửi John Roberts](../L/Letter_to_John_Roberts.md).
+Chuyển hướng tới [Thư gửi John Roberts](../L/Letter_to_John_Roberts.md).

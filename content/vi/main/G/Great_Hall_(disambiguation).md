@@ -17,7 +17,7 @@ images:
 **Đại sảnh** có thể đề cập đến:
 
 - [Đại sảnh tiệc](Great_Hall_of_Feasts.md), sảnh tiệc của Vua ở [Minas Tirith](../M/Minas_Tirith.md).
-- Đại sảnh [Đại sảnh Osgiliath](Great_Hall_of_Osgiliath.md), đại sảnh của các vị Vua ở [Osgiliath](../O/Osgiliath.md).
+- Đại sảnh [Đại sảnh Osgiliath](Great_Hall_of_Osgiliath.md), đại sảnh của các vị vua ở [Osgiliath](../O/Osgiliath.md).
 - [Đại sảnh Thráin](Great_Hall_of_Thráin.md), sảnh chính [Erebor](../E/Erebor.md) nơi [Smaug](../S/Smaug.md) đặt chiếc giường vàng của ông.
 - [Đại sảnh đường Wootton Major](Great_Hall_of_Wootton_Major.md) ở thị trấn [Wootton Major](../W/Wootton_Major.md), nơi dân làng gặp nhau trong nhiều dịp khác nhau, bao gồm cả [Lễ trẻ ngoan](../T/The_Feast_of_Good_Children.md).
 

@@ -60,7 +60,7 @@ Sau khi không nhận được tin tức gì từ thuộc địa trong hai mươ
 
 <dl><dd>In a departure from the novel, the Fellowship find the skeletal remains of slain dwarves immediately upon passing the <a href="../D/Doors_of_Durin.md" title="Doors of Durin">Doors of Durin</a>. Balin is the only member of his folk to be named.</dd></dl>
 
-<b>2024: <i><a href="../T/The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">The One Ring</a> — <a href="../M/Moria_-_Through_the_Doors_of_Durin.md" title="Moria - Through the Doors of Durin">Moria: Through the Doors of Durin</a></i>:</b>
+<b>2024: <i><a href="../T/The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">Chiếc nhẫn duy nhất</a> — <a href="../M/Moria_-_Through_the_Doors_of_Durin.md" title="Moria - Through the Doors of Durin">Moria: Qua cánh cửa của Durin</a></i>:</b>
 
 <dl><dd>The expedition&#39;s first entry into Moria succeeded because an earlier civil war among Orcs had left the East-gate mostly undefended. By <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Age_2992&amp;action=edit&amp;redlink=1" title="Third Age 2992 (page does not exist)">2992</a>, reinforcements from <a class="mw-redirect" href="../M/Mount_Gundabad.md" title="Mount Gundabad">Mount Gundabad</a> led to the tide beginning to turn against Balin. His attempts to enlist aid from the <a href="Beornings.md" title="Beornings">Beornings</a> failed because his messengers were killed en route by Orcs.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup></dd></dl>
 

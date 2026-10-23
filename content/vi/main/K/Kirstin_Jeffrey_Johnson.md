@@ -26,7 +26,7 @@ sort_keys:
 
 ### Chương sách {#Book_Chapters}
 
-- 2007: “Tolkien & Thần thoại” trong <i><a class="external text" href="http://tolkiengateway.net/wiki/Tree_of_Tales" rel="noreferrer noopener" target="_blank">Cây chuyện: Tolkien, Văn học và Thần học</a>,</i> ed. Trevor Hart và Ivan Khovacs. Nhà xuất bản Baylor. \[được gán cho “Kirstin Johnson,” tựa gốc: “Cành trên cây cổ tích: Tolkien và thần thoại.”\]
+- 2007: “Tolkien & Thần thoại” trong <i><a class="external text" href="http://tolkiengateway.net/wiki/Tree_of_Tales" rel="noreferrer noopener" target="_blank">Cây chuyện: Tolkien, Văn học và Thần học</a>,</i> ed. Trevor Hart và Ivan Khovacs. Nhà xuất bản Baylor. \[được gán cho “Kirstin Johnson,” tựa gốc: “Cành trên cây kể chuyện: Tolkien và Thần thoại.”\]
 
 - 2007: “Đối thoại liên văn bản của Curdie,” trong *George MacDonald: Literary Heritage and Heirs,* ed. Roderick McGillis, Nhà xuất bản Zossima.
 

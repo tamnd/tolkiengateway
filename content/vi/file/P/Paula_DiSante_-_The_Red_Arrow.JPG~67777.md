@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Paula DiSante - The Red Arrow.jpg"
 ---
 
-Chuyển hướng tới [Tệp:Paula DiSante - Mũi tên đỏ.jpg](Paula_DiSante_-_The_Red_Arrow.jpg.md).
+Chuyển hướng đến [Tệp:Paula DiSante - Mũi tên đỏ.jpg](Paula_DiSante_-_The_Red_Arrow.jpg.md).

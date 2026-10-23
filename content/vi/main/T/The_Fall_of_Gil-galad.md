@@ -33,7 +33,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miriam_Ellis_-_For_into_darkness_fell_his_star.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c3/Miriam_Ellis_-_For_into_darkness_fell_his_star.jpg/300px-Miriam_Ellis_-_For_into_darkness_fell_his_star.jpg" decoding="async" loading="lazy" width="300" height="419" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/c3/Miriam_Ellis_-_For_into_darkness_fell_his_star.jpg 1.5x" data-file-width="450" data-file-height="629"/></a><figcaption><i>For into darkness fell his star</i> by <a href="../M/Miriam_Ellis.md" title="Miriam Ellis">Miriam Ellis</a></figcaption></figure>
 
-<i><b>Sự sụp đổ của Gil-galad</b></i> là một đoạn kể về sự mất mát của [Ereinion Gil-galad](../G/Gil-galad.md), vị vua Tiên vĩ đại cuối cùng của Trung Địa, trong [Cuộc vây hãm Barad-dûr](../S/Siege_of_Barad-dûr.md) ở cuối [Cuộc chiến của Liên minh Cuối cùng](../W/War_of_the_Last_Alliance.md).
+<i><b>Sự sụp đổ của Gil-galad</b></i> là người kể về sự mất mát của [Ereinion Gil-galad](../G/Gil-galad.md), vị vua Tiên vĩ đại cuối cùng của Trung Địa, trong [Cuộc vây hãm Barad-dûr](../S/Siege_of_Barad-dûr.md) ở cuối [Cuộc chiến của Liên minh Cuối cùng](../W/War_of_the_Last_Alliance.md).
 
 ## Trích đoạn thơ {#Poem_excerpt}
 

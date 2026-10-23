@@ -19,7 +19,7 @@ images:
 ## Trung Địa {#Middle-earth}
 
 - [Cirith Ungol](Cirith_Ungol.md), chuyển qua [Ephel Dúath](../E/Ephel_Dúath.md) vào [Mordor](../M/Mordor.md).
-- [Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md), một tòa tháp phía trên Cirith Ungol nơi [Frodo Baggins](../F/Frodo_Baggins.md) bị giam giữ.
+- [Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md), một tòa tháp phía trên Cirith Ungol nơi [Frodo Baggins](../F/Frodo_Baggins.md) bị giam cầm.
 - Cầu thang [của Cirith Ungol](../S/Stairs_of_Cirith_Ungol.md), cầu thang dẫn từ [Minas Morgul](../M/Minas_Morgul.md) đến Cirith Ungol.
 - Trận [Trận Cirith Ungol](../B/Battle_of_Cirith_Ungol.md), trận chiến giữa hai nhóm [orc](../O/Orcs.md) dẫn đến việc giải cứu [Frodo](../F/Frodo_Baggins.md).
 

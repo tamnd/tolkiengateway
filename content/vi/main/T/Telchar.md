@@ -46,7 +46,7 @@ Telchar được huấn luyện bởi [Gamil Zirak](../G/Gamil_Zirak.md), một 
 
 Không xác định được tên Telchar là [Sindarin](../S/Sindarin.md) hay [Khuzdul](../K/Khuzdul.md). Đội hình dường như được cho là Sindarin vì chữ ghép *ch* không được sử dụng trong Khuzdul.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-[Jim Allan](../J/Jim_Allan.md) lưu ý sự tương đồng với <i><a class="extiw" href="http://en.wikipedia.org/wiki/Telchines" title="wikipedia:Telchines">Telchines</a></i> trong thần thoại Hy Lạp, một chủng tộc thần thoại của những thợ thủ công thần thánh.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+[Jim Allan](../J/Jim_Allan.md) ghi nhận sự tương đồng với <i><a class="extiw" href="http://en.wikipedia.org/wiki/Telchines" title="wikipedia:Telchines">Telchines</a></i> trong thần thoại Hy Lạp, một chủng tộc thần thoại của những thợ thủ công thần thánh.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

@@ -75,7 +75,7 @@ infobox:
 - Tác phẩm nghệ thuật: *[Luthien](../L/Luthien.md)*
     - Bởi: [Ted Nasmith](../T/Ted_Nasmith.md)
 - Máy ép nhỏ
-- Truyện dân gian
+- Truyện dân ca
 - Sự học hỏi của Debi
     - Bởi: Debi Haigh-Hutchinson
 - Viết ở đâu (Ủy ban)

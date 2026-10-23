@@ -123,7 +123,7 @@ Một số nhóm như Wainrider và Balchoth sở hữu những cỗ xe chiến 
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Men collectively referred to as Easterlings by the Free Peoples of the West are portrayed as several clans distinct in appearance that are only united by the might of <a href="../S/Sauron.md" title="Sauron">Sauron</a>. The <b>Khundolar</b> Easterlings attack the <a class="mw-redirect" href="../W/Wold.md" title="Wold">Wold</a> of <a href="../R/Rohan.md" title="Rohan">Rohan</a> from the <a href="../B/Brown_Lands.md" title="Brown Lands">Brown Lands</a> and also fight on Sauron&#39;s side at the <a href="../B/Battle_of_the_Morannon.md" title="Battle of the Morannon">Battle of the Morannon</a>. The <b>Jangovar</b> Easterlings attack <a href="../D/Dale.md" title="Dale">Dale</a> and the <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Lonely Mountain</a> in the north, and after Sauron&#39;s defeat the remainder of that army continues to linger in those lands. The <b>Sûhalar</b> Easterlings are shorter in stature and armed with axes, to the point where some mistake them for <a href="../D/Dwarves.md" title="Dwarves">dwarves</a>, their armies participate in the <a class="mw-redirect" href="../S/Siege_of_Minas_Tirith.md" title="Siege of Minas Tirith">Siege of Minas Tirith</a>.</dd></dl>
 

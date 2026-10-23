@@ -71,7 +71,7 @@ Sau [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md), [Elendil](.
 </li>
 <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Không giải thích được tại sao "Cảng biển cổ và các bến cảng lớn của nó lại bị tàn phá", nhưng trận đại hồng thủy của Sự sụp đổ có thể là nguyên nhân.</span>
 </li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Có lẽ là Master Heatherton</span>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Có lẽ là Chủ nhân Heatherton</span>
 </li>
 </ol></div></span>
 

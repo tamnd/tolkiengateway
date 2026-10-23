@@ -191,11 +191,11 @@ Trong một đoạn bị loại bỏ khỏi Lời tựa của *[The End of Bovad
 
 <dl><dd>Stone-giants are golem-like creatures that appear in the fourth level, hurling rocks at Bilbo as he tries to travel along a mountain path. They are completely made of stone, and their stones are dangerous.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup></dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
 <dl><dd>&#34;Mountain Giants&#34; are large and powerful beings in the Goblin faction, with brown scaly skin. They can hurl stones at great distance, and serve as the faction&#39;s artillery units.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Several tribes of giants appear in the game, including <i>Stone-giants</i>, Ogres (also called Jorthkyn or Earth-kin), and Ice-giants. While some are enemy creatures, others remain neutral and can be befriended by the player.</dd></dl>
 
@@ -203,7 +203,7 @@ Trong một đoạn bị loại bỏ khỏi Lời tựa của *[The End of Bovad
 
 <dl><dd>A renegade <i>Stone-Giant</i> named Bargrisar appears in the game, serving as a boss character. Swayed by <a href="../S/Sauron.md" title="Sauron">Sauron</a> to serve him, he becomes the leader of a large party of Orcs and Trolls. Backed by his army, Bargrisar seeks to destroy the nests of the <a href="Great_Eagles.md" title="Great Eagles">Great Eagles</a> and plunder the North for riches. Similar to the portrayal in <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>, he is a being composed entirely of stone.</dd></dl>
 
-<b>2014: <i><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit: The Video Game</a></i>:</b>
+<b>2014: <i><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit: Trò chơi điện tử</a></i>:</b>
 
 <dl><dd>Multiple stone-giants appear as the main conflict in the level <i>Over Hill and Under Hill</i>, in which their fighting poses a threat to the party.</dd></dl>
 
@@ -216,9 +216,9 @@ Trong một đoạn bị loại bỏ khỏi Lời tựa của *[The End of Bovad
 ## Xem thêm {#See_also}
 
 - [Etten](../E/Etten.md)
-- [Ents](../E/Ents.md)
-- [Ogres](../O/Ogres.md)
-- [Trolls](../T/Trolls.md)
+- [Ent](../E/Ents.md)
+- [Yêu tinh](../O/Ogres.md)
+- [Troll](../T/Trolls.md)
 
 ## Liên kết ngoài {#External_links}
 

@@ -38,7 +38,7 @@ infobox:
     - Bởi Thomas Morwinsky
 - "Thông tin nội bộ"
     - Bởi Thomas Morwinsky
-- "Chiến đấu gắn kết trong Nhẫn Một"
+- "Chiến đấu gắn kết trong Chiếc nhẫn duy nhất"
     - Bởi Paul Kirk
 - "Giới thiệu về The Lord of the Rings mặt bàn"
     - Bởi Olaf Anguera

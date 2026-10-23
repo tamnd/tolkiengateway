@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fôs' Almir"
 ---
 
-Chuyển hướng tới [Fôs' Almir](../F/Fôs'_Almir.md).
+Chuyển hướng đến [Fôs' Almir](../F/Fôs'_Almir.md).

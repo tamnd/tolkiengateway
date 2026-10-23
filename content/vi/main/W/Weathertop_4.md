@@ -36,7 +36,7 @@ infobox:
 
 ## Nội dung {#Contents}
 
-- Ảnh bìa của [Kay Woollard](../K/Kay_Woollard.md)<br>Thiết kế bìa trung tâm của Debra Haigh-Hutchinson
+- Ảnh bìa của [Kay Woollard](../K/Kay_Woollard.md)<br>Thiết kế trung tâm của bìa bởi Debra Haigh-Hutchinson
 - Nội dung
     - nghệ thuật của Debra Haigh-Hutchinson
 - Biên tập

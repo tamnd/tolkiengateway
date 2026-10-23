@@ -33,7 +33,7 @@ Không biết tên *Southward Road* là tên gọi khác của **Đường Bắc
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The road runs south from the <a href="../B/Black_Gate.md" title="Black Gate">Black Gate</a> through <a href="../N/North_Ithilien.md" title="North Ithilien">North Ithilien</a> until the <a href="../C/Cross-roads.md" title="Cross-roads">Cross-roads</a>, after which it continues south as <a href="../H/Harad_Road.md" title="Harad Road">Harad Road</a>.</dd></dl>
 

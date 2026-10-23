@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Jon Hodgson - Barding.jpg"
 ---
 
-Chuyển hướng tới [Tệp:Jon Hodgson - Barding.jpg](../J/Jon_Hodgson_-_Barding.jpg.md).
+Chuyển hướng đến [Tệp:Jon Hodgson - Barding.jpg](../J/Jon_Hodgson_-_Barding.jpg.md).

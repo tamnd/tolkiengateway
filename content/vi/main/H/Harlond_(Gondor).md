@@ -53,7 +53,7 @@ Vào [15 tháng 3](../_/15_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>In the original version of <a href="../G/Gondor.md" title="Gondor">Gondor</a>, Harlond was added as part of <a href="../L/Lossarnach.md" title="Lossarnach">Lossarnach</a> with the Eastern <a href="../G/Gondor.md" title="Gondor">Gondor</a> region. It was seized by <a href="../M/Minas_Morgul.md" title="Minas Morgul">Morgul</a>-<a href="../O/Orcs.md" title="Orcs">orcs</a> who blockaded the road as the <a href="../S/Siege_of_Gondor.md" title="Siege of Gondor">Siege of Gondor</a> began. This version of Harlond is filled with enemy tents and siege engines, with the quests focusing on undermining the enemy forces. During the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">battle of the Pelennor Fields</a>, the player meets <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> and the <a href="../G/Grey_Company.md" title="Grey Company">Grey Company</a> as they disembark from the ships and fights alongside them throughout the city. After the war, Harlond is in the process of being rebuilt, with the quests focusing on aiding in restoration and renewal.</dd></dl>
 

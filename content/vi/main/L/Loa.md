@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-A <i><b>loa</b></i> (hoặc <i><b>löa</b></i>, số nhiều <i><b>löar</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là tên được [Tiên tộc](../E/Elves.md) sử dụng trong một năm; còn được gọi là *[coranar](../C/Coranar.md)*. 144 *löar* lên tới một *[yén](../Y/Yén.md)*một lần, một Elvish 'năm dài'.<sup id="cite_ref-Calendars_2-0" class="reference"><a href="#cite_note-Calendars-2">[2]</a></sup>
+A <i><b>loa</b></i> (hoặc <i><b>löa</b></i>, số nhiều <i><b>löar</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là tên được [Tiên tộc](../E/Elves.md) sử dụng trong một năm; còn được gọi là *[coranar](../C/Coranar.md)*. 144 *löar* tương đương một *[yén](../Y/Yén.md)*một lần, một Elvish 'năm dài'.<sup id="cite_ref-Calendars_2-0" class="reference"><a href="#cite_note-Calendars-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

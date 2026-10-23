@@ -18,10 +18,10 @@ images:
 
 ## Trung Địa {#Middle-earth}
 
-- *[Estel](../E/Estel.md)*, từ [Sindarin](../S/Sindarin.md) tượng trưng cho "hy vọng", tên của [Aragorn](../A/Aragorn.md) và một khái niệm triết học.
-- *[Amdir](<../A/Amdir_(Sindarin_word).md>)*, một từ [Sindarin](../S/Sindarin.md) mang ý nghĩa "hy vọng", nhưng lại là một khái niệm khác.
-- [Niềm hy vọng cũ](../O/Old_Hope.md), niềm tin của một số [Con Người](../M/Men.md) sau khi họ sa ngã.
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Harthad&amp;action=edit&amp;redlink=1" title="Harthad (page does not exist)">Harthad</a></i>, một [Noldorin](../N/Noldorin.md) thuật ngữ cho "hy vọng".
+- *[Estel](../E/Estel.md)*, từ [Sindarin](../S/Sindarin.md) mang ý nghĩa "hy vọng", tên của [Aragorn](../A/Aragorn.md) và một khái niệm triết học.
+- *[Amdir](<../A/Amdir_(Sindarin_word).md>)*, một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "hy vọng", nhưng là một khái niệm khác.
+- The [Old Hope](../O/Old_Hope.md), niềm tin của một số [Đàn ông](../M/Men.md) sau khi họ sa ngã.
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Harthad&amp;action=edit&amp;redlink=1" title="Harthad (page does not exist)">Harthad</a></i>, một thuật ngữ [Noldorin](../N/Noldorin.md) cho "hy vọng".
 
 ## Các bản chuyển thể {#Adaptations}
 

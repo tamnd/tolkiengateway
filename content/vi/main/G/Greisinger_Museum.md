@@ -17,16 +17,16 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/G/Greisinger_Museum_logotype.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0d/Greisinger_Museum_logotype.png/300px-Greisinger_Museum_logotype.png" decoding="async" loading="lazy" width="300" height="170" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/0/0d/Greisinger_Museum_logotype.png 1.5x" data-file-width="319" data-file-height="181"/></a><figcaption></figcaption></figure>
 
-**Bảo tàng Greisinger** là một quỹ lưu giữ Bộ sưu tập Greisinger (GC), một bộ sưu tập tư nhân gồm các tác phẩm nghệ thuật, văn học và vật phẩm sưu tầm lấy cảm hứng từ [Middle-earth](../M/Middle-earth.md). Bảo tàng tọa lạc tại <a class="extiw" href="http://en.wikipedia.org/wiki/Jenins" title="wikipedia:Jenins">Jenins</a>, Thụy Sĩ. Bảo tàng mở cửa vào ngày [7 tháng 9](../_/7_September.md) [năm 2013](../_/2013.md) (công trình được khởi công từ giữa năm 2008).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Bảo tàng Greisinger** là nền tảng chứa Bộ sưu tập Greisinger (GC), một bộ sưu tập nghệ thuật, văn học và đồ sưu tầm tư nhân lấy cảm hứng từ [Trung Địa](../M/Middle-earth.md). Bảo tàng nằm ở <a class="extiw" href="http://en.wikipedia.org/wiki/Jenins" title="wikipedia:Jenins">Jenins</a>, Thụy Sĩ. Nó mở cửa vào [7 tháng Chín](../_/7_September.md) [2013](../_/2013.md) (được xây dựng từ giữa năm 2008).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bộ sưu tập {#Collection}
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Greisinger_Museum_-_Bag_End.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b7/Greisinger_Museum_-_Bag_End.jpg/300px-Greisinger_Museum_-_Bag_End.jpg" decoding="async" loading="lazy" width="300" height="132" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b7/Greisinger_Museum_-_Bag_End.jpg/450px-Greisinger_Museum_-_Bag_End.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b7/Greisinger_Museum_-_Bag_End.jpg/600px-Greisinger_Museum_-_Bag_End.jpg 2x" data-file-width="860" data-file-height="379"/></a><figcaption><a class="mw-redirect" href="../H/Hobbit-hole.md" title="Hobbit-hole">Hobbit-hole</a> at Greisinger Museum</figcaption></figure>
 
-Bộ sưu tập Greisinger là bộ sưu tập tư nhân của Bernd Greisinger, bao gồm các hiện vật liên quan đến Trung Địa. Một số hiện vật tiêu biểu trong bộ sưu tập gồm có:
+Bộ sưu tập Greisinger là bộ sưu tập riêng của Bernd Greisinger gồm các vật phẩm liên quan đến Trung Địa. Một lựa chọn của bộ sưu tập bao gồm:
 
-- hơn 600 bức tranh gốc của hơn 100 họa sĩ lấy cảm hứng từ các tác phẩm của Tolkien (bao gồm [Roger Garland](../R/Roger_Garland.md), [hai anh em Hildebrandt](../T/The_Brothers_Hildebrandt.md), [Alan Lee](../A/Alan_Lee.md), [Ted Nasmith](../T/Ted_Nasmith.md) và nhiều người khác)
-- một bản của mỗi lần in thuộc các ấn bản đầu tiên tại Anh của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, cùng với một bản của mỗi lần in tại Anh của *[The Hobbit](../T/The_Hobbit.md)* từ năm 1937 đến năm 1999 (bao gồm nhiều cuốn sách quý hiếm có chữ ký).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- hơn 600 bức tranh gốc của hơn 100 họa sĩ lấy cảm hứng từ tác phẩm của Tolkien(bao gồm [Roger Garland](../R/Roger_Garland.md), [anh em Hildebrandt](../T/The_Brothers_Hildebrandt.md), [Alan Lee](../A/Alan_Lee.md), [Ted Nasmith](../T/Ted_Nasmith.md)và nhiều người khác)
+- bản sao của mọi ấn bản của ấn bản đầu tiên ở Vương quốc Anh của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, cũng như bản sao của mỗi ấn bản ở Vương quốc Anh của *[The Hobbit](../T/The_Hobbit.md)* từ năm 1937 đến năm 1999 (bao gồm nhiều sách hiếm có chữ ký).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

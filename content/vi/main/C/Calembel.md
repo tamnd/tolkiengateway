@@ -47,7 +47,7 @@ Vào [9 tháng 3](../_/9_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_A
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Calembel is the seat of Lord <a href="../A/Angbor.md" title="Angbor">Angbor</a>, who was charged by Prince <a href="../I/Imrahil.md" title="Imrahil">Imrahil</a> with protecting the land from the Corsairs of <a href="../U/Umbar.md" title="Umbar">Umbar</a> when the other Lords of Gondor rode to the defence of <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>. Deciding to make a stand against the Corsairs in <a href="../L/Linhir.md" title="Linhir">Linhir</a>, Angbor left his son Drambor in charge of Calembel, which served as a refuge for inhabitants of the nearby village of Lothgobel when it was attacked by the Corsairs.</dd></dl>
 

@@ -43,7 +43,7 @@ infobox:
 
 Arnor: Vùng đất mô tả tất cả lãnh thổ bao quanh vương quốc Dúnadan của Arnor và ba tiểu bang kế thừa của nó - Arthedain, Cardolan và Rhudaur. Được hỗ trợ bởi một bộ bản đồ địa hình kết nối trang nhã, tập sách này khám phá mọi chi tiết về cả môi trường tự nhiên và nhân tạo của khung cảnh phiêu lưu tuyệt vời này. Thông tin chuyên sâu về các thành phố, thị trấn, pháo đài và các địa điểm quan tâm khác cũng như tổng quan sâu rộng về địa lý, hệ thực vật và động vật, nắm bắt được bản chất của vùng đất. Một công báo đầy đủ, được sắp xếp theo thứ tự bảng chữ cái sẽ cấu trúc tất cả thông tin này thành một định dạng dễ tiếp cận. Chín kịch bản sẵn sàng chạy tạo cơ hội phiêu lưu ngay lập tức ở vùng đất Eriador; cả trong những năm 1640 của Kỷ Đệ Tam và ở đỉnh điểm tận thế của Thế kỷ thứ hai.
 
-*Arnor: The Land* thể hiện bản cập nhật kỹ lưỡng cho nửa sau của mô-đun vương quốc Arnor được đánh giá cao của ICE (xuất bản trước đây vào năm 1994) và bao gồm số liệu thống kê trò chơi hoàn chỉnh cho MERP, Rolemaster và Trò chơi phiêu lưu Chúa tể những chiếc nhẫn.
+*Arnor: The Land* thể hiện bản cập nhật kỹ lưỡng cho nửa sau của mô-đun vương quốc Arnor được đánh giá cao của ICE (xuất bản trước đó vào năm 1994) và bao gồm số liệu thống kê trò chơi hoàn chỉnh cho MERP, Rolemaster và Lord of the Rings Adventure Game.
 
 *Arnor: The Land* tính năng:
 

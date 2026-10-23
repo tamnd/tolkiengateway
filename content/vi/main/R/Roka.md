@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rog"
 ---
 
-Chuyển hướng tới [Rog](Rog.md).
+Chuyển hướng đến [Rog](Rog.md).

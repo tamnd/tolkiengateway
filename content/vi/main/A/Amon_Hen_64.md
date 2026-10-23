@@ -71,7 +71,7 @@ infobox:
 - Góc của Jessica
     - Bởi: Jessica Yates
 - Hãy mỉm cười
-- Truyện dân gian
+- Truyện dân ca
 - Thư
 - Thảo luận về nụ cười
     - Bởi: Anne Haward

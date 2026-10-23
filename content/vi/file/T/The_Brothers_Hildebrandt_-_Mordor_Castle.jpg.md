@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Brothers Hildebrandt - The Dark Tower (Sketch).jpg"
 ---
 
-Chuyển hướng tới [Tệp:Anh em nhà Hildebrandt - Tháp bóng tối (Sketch).jpg](<The_Brothers_Hildebrandt_-_The_Dark_Tower_(Sketch).jpg.md>).
+Chuyển hướng tới [Tệp:Anh em nhà Hildebrandt - Tòa Tháp Bóng Tối (Sketch).jpg](<The_Brothers_Hildebrandt_-_The_Dark_Tower_(Sketch).jpg.md>).

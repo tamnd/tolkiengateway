@@ -85,7 +85,7 @@ Trong một ghi chú thảo luận về [Drúedain](../D/Drúedain.md), Tolkien 
 
 <dl><dd><b>Carnestad</b> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> “red healing”) was described in the book as a squat mushroom with a bright red cap, native to <a href="Mirkwood.md" title="Mirkwood">Mirkwood</a>. It neutralized disease, broke fevers, and alleviated symptoms of sickness. Elves guarded its patches carefully, while Men sought to sell them and Orcs tried to deny others their benefits.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Mushrooms can be grown by players who are farmers by profession. Players who are cooks can make these into mushroom pie, fried mushroom and fried dace with mushrooms. These are foods for low leveled characters that can increase different traits.</dd></dl>
 
@@ -93,7 +93,7 @@ Trong một ghi chú thảo luận về [Drúedain](../D/Drúedain.md), Tolkien 
 
 <dl><dd>During the <a href="../W/White_Council.md" title="White Council">White Council</a> <a href="../S/Saruman.md" title="Saruman">Saruman</a>, in order to dismiss <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>&#39;s fears about the <a class="mw-redirect" href="../N/Necromancer.md" title="Necromancer">Necromancer</a>, mentions that <a href="../R/Radagast.md" title="Radagast">Radagast</a> consumes mushrooms excessively, which have blurred his cognition and judgement.</dd></dl>
 
-<b>2014: <i><a href="Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung Địa: Bóng Tối trong số Mordor</a></i></b>
+<b>2014: <i><a href="Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Middle-earth: Shadow of Mordor</a></i></b>
 
 <dl><dd>Several mushrooms can be foraged in the game:<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 

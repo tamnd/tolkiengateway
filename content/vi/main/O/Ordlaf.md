@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ordláf"
 ---
 
-Chuyển hướng đến [Ordláf](Ordláf.md).
+Chuyển hướng tới [Ordláf](Ordláf.md).

@@ -17,7 +17,7 @@ categories:
 
 Ví dụ:
 
-- [Ephel Brandir](Ephel_Brandir.md), "hàng rào bao quanh [Brandir](../B/Brandir.md)";<sup id="cite_ref-silmindex_1-1" class="reference"><a href="#cite_note-silmindex-1">[1]</a></sup> thường được gọi đơn giản là *the Ephel*<sup id="cite_ref-silmtt_3-0" class="reference"><a href="#cite_note-silmtt-3">[3]</a></sup>
+- [Ephel Brandir](Ephel_Brandir.md), "hàng rào bao vây [Brandir](../B/Brandir.md)";<sup id="cite_ref-silmindex_1-1" class="reference"><a href="#cite_note-silmindex-1">[1]</a></sup> thường được gọi đơn giản là *the Ephel*<sup id="cite_ref-silmtt_3-0" class="reference"><a href="#cite_note-silmtt-3">[3]</a></sup>
 - [Ephel Dúath](Ephel_Dúath.md), "Hàng rào Bóng Tối";<sup id="cite_ref-silmindex_1-2" class="reference"><a href="#cite_note-silmindex-1">[1]</a></sup> thường được gọi là "Dãy Núi Bóng Tối"<sup id="cite_ref-lotrbg_4-0" class="reference"><a href="#cite_note-lotrbg-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}

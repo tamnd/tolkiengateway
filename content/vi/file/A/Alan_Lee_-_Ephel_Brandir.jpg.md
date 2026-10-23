@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Ephel Brandir](../../main/E/Ephel_Brandir.md). Xuất hiện tại Chương XIII của *[The Children of Húrin](../../main/T/The_Children_of_Húrin.md)* (HarperCollins).
+[Êphel Brandir](../../main/E/Ephel_Brandir.md). Xuất hiện tại Chương XIII của *[The Children of Húrin](../../main/T/The_Children_of_Húrin.md)* (HarperCollins).
 
 ## Giấy phép {#Licensing}
 

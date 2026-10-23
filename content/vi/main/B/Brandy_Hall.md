@@ -67,7 +67,7 @@ Trong ấn bản đầu tiên của *[The Fellowship of the Ring](../T/The_Fello
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Brandy_Hall.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_Online_-_Brandy_Hall.jpg/250px-The_Lord_of_the_Rings_Online_-_Brandy_Hall.jpg" decoding="async" loading="lazy" width="250" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_Online_-_Brandy_Hall.jpg/375px-The_Lord_of_the_Rings_Online_-_Brandy_Hall.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_Online_-_Brandy_Hall.jpg/500px-The_Lord_of_the_Rings_Online_-_Brandy_Hall.jpg 2x" data-file-width="1920" data-file-height="960"/></a><figcaption>Brandy Hall in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Brandy Hall is a prominent landmark in <a href="Buckland.md" title="Buckland">Buckland</a>, but the interior of it is not accessible.</dd></dl>
 

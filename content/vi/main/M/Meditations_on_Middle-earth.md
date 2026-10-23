@@ -58,7 +58,7 @@ Một bài tiểu luận được gửi tới bộ sưu tập, tuy nhiên chưa 
 - [Poul Anderson](../P/Poul_Anderson.md): "Đánh thức Tiên tộc"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Michael_Swanwick&amp;action=edit&amp;redlink=1" title="Michael Swanwick (page does not exist)">Michael Swanwick</a>: "A Changeling Returns"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Esther_M._Friesner&amp;action=edit&amp;redlink=1" title="Esther M. Friesner (page does not exist)">Esther M. Friesner</a>: "Nếu bạn cho một cô gái một Hobbit"
-- [Harry Turtledove](../H/Harry_Turtledove.md): "Chiếc nhẫn và tôi"
+- [Harry Turtledove](../H/Harry_Turtledove.md): " Nhẫn và tôi"
 - [Terry Pratchett](../T/Terry_Pratchett.md): "Cult Classic"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Robin_Hobb&amp;action=edit&amp;redlink=1" title="Robin Hobb (page does not exist)">Robin Hobb</a>: "Một quán bar và một nhiệm vụ"
 - [Ursula K. Le Guin](../U/Ursula_K._Le_Guin.md): "Mẫu nhịp điệu trong *The Lord of the Rings*"

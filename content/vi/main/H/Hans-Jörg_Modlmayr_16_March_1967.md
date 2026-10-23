@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Hans-Jörg Modlmayr (16 March 1967)"
 ---
 
-Chuyển hướng đến [Thư gửi Hans-Jörg Modlmayr (16 tháng 3 năm 1967)](<../L/Letter_to_Hans-Jörg_Modlmayr_(16_March_1967).md>).
+Chuyển hướng tới [Thư gửi Hans-Jörg Modlmayr (16 tháng 3 năm 1967)](<../L/Letter_to_Hans-Jörg_Modlmayr_(16_March_1967).md>).

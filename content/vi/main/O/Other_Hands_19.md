@@ -42,5 +42,5 @@ infobox:
 - Gondor phong tục tang lễ - Deena McKinney
 - Suy nghĩ về phả hệ của các vị vua Noldorin - Brian Carlton
 - Nhật ký của Rastarin - Bridget Buxton
-- Đánh giá sản phẩm: Trò chơi phiêu lưu Chúa tể những chiếc nhẫn - [Chris Seeman](../C/Chris_Seeman.md)
+- Đánh giá sản phẩm: Lord of the Rings Adventure Game - [Chris Seeman](../C/Chris_Seeman.md)
 - Đánh giá sản phẩm: Northern Waste - Jeff Erwin

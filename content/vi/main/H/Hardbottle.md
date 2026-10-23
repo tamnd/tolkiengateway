@@ -36,7 +36,7 @@ infobox:
 
 **Hardbottle** là một khu định cư của [Hobbit](Hobbits.md) nằm ở phần phía bắc đầy đá của [ Shire](../T/The_Shire.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup>
 
-[Gia đình Bracegirdle](../B/Bracegirdle_Family~66349.md) có nguồn gốc từ Hardbottle. Khi [Lobelia Sackville-Baggins](../L/Lobelia_Sackville-Baggins.md) được thả ra khỏi [Lỗ khóa](../L/Lockholes.md) của [Michel Delving](../M/Michel_Delving.md) sau [Trận Bywater](../B/Battle_of_Bywater.md) cô ấy (đã từng là Bracegirdle trước khi kết hôn) trở về với gia đình mình ở Hardbottle. Cô ấy làm vậy vì cô ấy đã mất đi người thân cuối cùng của gia đình mình, con trai [Lotho](../L/Lotho_Sackville-Baggins.md), và cô ấy đã trả lại [Bag End](../B/Bag_End.md) cho [Frodo Baggins](../F/Frodo_Baggins.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[1]</a></sup>
+[Gia đình Bracegirdle](../B/Bracegirdle_Family~66349.md) có nguồn gốc từ Hardbottle. Khi [Lobelia Sackville-Baggins](../L/Lobelia_Sackville-Baggins.md) được thả ra khỏi [Lỗ khóa](../L/Lockholes.md) của [Michel Delving](../M/Michel_Delving.md) sau [Trận Bywater](../B/Battle_of_Bywater.md) cô ấy (đã từng là Bracegirdle trước khi kết hôn) trở về với gia đình mình ở Hardbottle. Cô ấy làm vậy vì cô ấy đã mất đi người thân cuối cùng của gia đình mình, đứa con trai [Lotho](../L/Lotho_Sackville-Baggins.md), và cô ấy đã trả lại [Bag End](../B/Bag_End.md) cho [Frodo Baggins](../F/Frodo_Baggins.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

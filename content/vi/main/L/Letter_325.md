@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-"Những người bất tử" được phép tìm kiếm [Aman](../A/Aman.md) đi trên những con tàu được thiết kế đặc biệt và thiêng liêng cho chuyến đi này, và hướng Phương Tây về phía địa điểm cổ xưa [Valinor](../V/Valinor.md) và [Eressëa](../T/Tol_Eressëa.md). Họ chỉ khởi hành sau khi mặt trời lặn, nhưng một người quan sát tinh tường theo dõi một trong những con tàu này sẽ không bao giờ nhìn thấy nó <a class="extiw" href="http://en.wikipedia.org/wiki/Hull-down" title="wikipedia:Hull-down">hạ thân</a> mà chỉ giảm dần theo khoảng cách. Nó đi theo con đường thẳng về phía tây thực sự chứ không phải khúc quanh của bề mặt trái đất. Người đã đi không thể trở về.
+"Những người bất tử" được phép tìm kiếm [Aman](../A/Aman.md) đi trên những con tàu được chế tạo đặc biệt và thiêng liêng cho chuyến đi này, và đi về hướng Tây tới địa điểm cổ xưa [Valinor](../V/Valinor.md) và [Eressëa](../T/Tol_Eressëa.md). Họ chỉ khởi hành sau khi mặt trời lặn, nhưng một người quan sát tinh tường theo dõi một trong những con tàu này sẽ không bao giờ nhìn thấy nó <a class="extiw" href="http://en.wikipedia.org/wiki/Hull-down" title="wikipedia:Hull-down">hạ thân</a> mà chỉ giảm dần theo khoảng cách. Nó đi theo con đường thẳng về phía tây thực sự chứ không phải khúc quanh của bề mặt trái đất. Người đã đi không thể trở về.
 
 Các thiên thần bất tử, [Valar](../V/Valar.md), và những thiên thần khác cùng đẳng cấp nhưng có sức mạnh kém hơn, không cần dịch chuyển trừ khi họ đã được tái sinh. Đối với [Frodo](../F/Frodo_Baggins.md) hoặc những người phàm khác, họ chỉ có thể cư trú trong Aman trong một thời gian giới hạn. Đó là một "luyện ngục" yên bình và chữa lành, từ đó họ sẽ chết theo ý muốn và ý chí tự do của chính mình.
 

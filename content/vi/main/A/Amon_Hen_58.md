@@ -47,33 +47,33 @@ infobox:
 ## Nội dung {#Contents}
 
 - Bìa: *Untitled*
-    - Bởi: Jeremy Gaydon
+    - By: Jeremy Gaydon
 - Nội dung
 - Biên tập
     - Bởi: Christine Woolrich
 - Báo cáo Oxonmoot
     - Bởi: M. Burniston
 - T. Shirts
-- Opera tại Oxonmoot
+- Opera at Oxonmoot
     - Bởi: [H. Armstrong](../H/Helen_Armstrong.md)
-- Quà Giáng Sinh
-    - Bởi: [Belladonna](../V/Vera_Chapman.md)
+- Yuletide Presents
+    - By: [Belladonna](../V/Vera_Chapman.md)
 - Đánh giá
     - Bởi: nhiều người đóng góp
 - Rồng
     - Bởi: A. Appleyard
 - C.S. Lewis
     - Bởi: A. Hindle
-- Vấn đề quay lại và HUY HIỆU
-- Góc của Jessica
+- Back Issues and BAdges
+- Jessica's Corner
     - Bởi: J. Yates
-- Hãy mỉm cười
-- Truyện dân gian
+- Smial Please
+- Truyện dân ca
 - Thư
 - Máy ép nhỏ
-    - Bởi: [H. Armstrong](../H/Helen_Armstrong.md)
-- Đống của Helen
-    - Bởi: [H. Armstrong](../H/Helen_Armstrong.md)
-- Trang sau
+    - By: [H. Armstrong](../H/Helen_Armstrong.md)
+- Helen's Heap
+    - By: [H. Armstrong](../H/Helen_Armstrong.md)
+- Back Page
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 57</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_57.md" title="Amon Hen 57">Amon Hen 57</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 58</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 59</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_59.md" title="Amon Hen 59">Amon Hen 59</a></div></div></div>

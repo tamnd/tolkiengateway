@@ -52,19 +52,19 @@ infobox:
 
 ## Lịch sử {#History}
 
-Merimas là con cả và con trai duy nhất của [Marmadas Brandybuck](Marmadas_Brandybuck.md). Anh ấy đã có mặt tại bữa tiệc sinh nhật của [Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Merimas là con cả và con trai duy nhất của [Marmadas Brandybuck](Marmadas_Brandybuck.md). Anh ấy đã có mặt tại [Bilbo Tiệc sinh nhật](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 Ý nghĩa của tên *Merimas* vẫn chưa được biết. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên của Bucklanders có phong cách [Celtic](../C/Celtic.md) mơ hồ.<sup id="cite_ref-Translation_2-0" class="reference"><a href="#cite_note-Translation-2">[2]</a></sup>
 
-[Jim Allan](../J/Jim_Allan.md) gợi ý rằng *Merimas* là một biến thể của tên *[Merimac](Merimac_Brandybuck.md)* với phần cuối *-as*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Jim Allan](../J/Jim_Allan.md) gợi ý rằng *Merimas* là một biến thể của tên *[Merimac](Merimac_Brandybuck.md)* có đuôi *-as*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Phần tử đầu tiên, *Meri* cũng xuất hiện trong *[Meriadoc](Meriadoc_Brandybuck.md)*.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Merimas Brandybuck can be found in <a href="../B/Buckland.md" title="Buckland">Buckland</a>. He occupies the role of a crafting vendor in the game and plays no role in the storyline.</dd></dl>
 

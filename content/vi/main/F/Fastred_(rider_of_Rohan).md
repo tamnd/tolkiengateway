@@ -71,11 +71,11 @@ Fastred cưỡi ngựa cùng vua [Théoden](../T/Théoden.md) của mình đến
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd></dd></dl>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">The Lord of the Rings Trực tuyến: Các tay đua của Rohan</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">The Lord of the Rings Online: Tay đua của Rohan</a></i>:</b>
 
 <dl><dd>Fastred is a major character in the <a href="../R/Rohan.md" title="Rohan">Rohan</a> storyline. A great warrior, Fastred is also stubborn and rash, always seeking to revenge against the <a href="../O/Orcs.md" title="Orcs">Orcs</a> for the death of his father. When <a href="../_/Éomer.md" title="Éomer">Éomer</a> orders all people to abandon <a href="../E/Eastemnet.md" title="Eastemnet">Eastemnet</a> and move across the <a href="../E/Entwash.md" title="Entwash">Entwash</a> river, Fastred openly defies his order, keeping his family in the city and leading his riders against the raiding parties of the <a href="../M/Mordor.md" title="Mordor">Mordor</a> Orcs instead. Fastred is next met by the player in the <a class="mw-redirect" href="../D/Druadan_Forest.md" title="Druadan Forest">Druadan Forest</a> during the ride of the Rohirrim to <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>, and he later fights in the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a>.</dd></dl>
 

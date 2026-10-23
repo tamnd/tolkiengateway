@@ -78,7 +78,7 @@ Baranor có thể được đặt theo tên [tên Người đàn ông cùng tên
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Baranor is found in <a class="mw-redirect" href="../A/Arnach.md" title="Arnach">Arnach</a>, the city of <a href="../L/Lossarnach.md" title="Lossarnach">Lossarnach</a> that serves as the seat of Lord <a href="../F/Forlong.md" title="Forlong">Forlong</a>. Baranor is the Captain of the City&#39;s Guard, leading its defence in his Lord&#39;s absence.</dd></dl>
 

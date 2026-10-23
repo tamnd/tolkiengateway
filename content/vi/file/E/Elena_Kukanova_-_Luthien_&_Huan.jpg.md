@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"*[Lúthien](../../main/L/Lúthien.md) &amp; [Huan](../../main/H/Huan.md)*", của [Elena Kukanova](../../main/E/Elena_Kukanova.md)
+"*[Lúthien](../../main/L/Lúthien.md) &amp; [Huan](../../main/H/Huan.md)*", bởi [Elena Kukanova](../../main/E/Elena_Kukanova.md)
 
 ## Giấy phép {#Licensing}
 

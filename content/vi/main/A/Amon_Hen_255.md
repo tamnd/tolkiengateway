@@ -63,11 +63,11 @@ infobox:
     - Bởi: Ian Spittlehouse
 - Sự đốt cháy [Palantír](../P/Palantíri.md) 15
     - Bởi: Ian Collier
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Verne Walker
 - 1934 Bản phác thảo của [Tolkien](../J/J.R.R._Tolkien.md) Được phát hiện lại sau 70 năm
     - Bởi: Michael Hoa
-- Ooo Errr Tôi có gì trong túi vậy?
+- Ooo Errr tôi có gì trong túi vậy?
     - Bởi: Mick Henry
 - Tác phẩm nghệ thuật: *[Trolls](../T/Trolls.md)*
     - Bởi: Jef Murray

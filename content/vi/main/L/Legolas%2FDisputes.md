@@ -29,7 +29,7 @@ Seven mounds upon the left, and nine upon the right,&#34; said Aragorn. &#34;Man
 
 Nếu Legolas thực sự được sinh ra trong [Kỷ Đệ Tam](../T/Third_Age.md), điều này có vẻ rất có thể xảy ra, thì nó xảy ra trước [T.A.](../T/Third_Age.md) [1050](../T/Third_Age_1050.md) khi bóng của [Dol Guldur](../D/Dol_Guldur.md) phủ lên [Greenwood the Great](../M/Mirkwood.md) ngay từ đầu,<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1085</sup> hoặc trong [Hòa bình thận trọng](../W/Watchful_Peace.md) giữa [T.A.](../T/Third_Age.md) [2063](../T/Third_Age_2063.md) và [2460](../T/Third_Age_2460.md),<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1087</sup> kể từ những điều đó thời kỳ này sẽ là thời điểm hoàn hảo để sinh con bởi những người [Tiên tộc](../E/Elves.md), những người chỉ sinh con vào những năm hòa bình và thịnh vượng.<sup id="cite_ref-" class="reference"><a href="#cite_note-">[2]</a></sup>
 
-Trong *Laws and Customs Among the Eldar*, Tolkien cũng nêu rõ sự phát triển tinh thần của trẻ Tiên-nhanh hơn rất nhiều so với trẻ em Mannish. Đến năm đầu tiên, Tiên-trẻ đã có thể đi, nói và thậm chí nhảy múa.
+Trong *Laws and Customs Among the Eldar*, Tolkien cũng nêu rõ sự phát triển trí tuệ của trẻ Tiên-nhanh hơn rất nhiều so với trẻ em Mannish. Đến năm đầu tiên, Tiên-trẻ đã có thể đi, nói và thậm chí nhảy múa.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>The Eldar grew in bodily form slower than Men, but in mind more swiftly. They learned to speak before they were one year old; and in the same time they learned to walk and to dance, for their wills came soon to the mastery of their bodies. Nonetheless there was less difference between the two Kindreds, Elves and Men, in early youth; and a man who watched elf-children at play might well have believed that they were the children of Men, of some fair and happy people.
@@ -59,7 +59,7 @@ Ngoài ra, anh ta còn nói về việc chứng kiến ​​những cây sồi 
 
 Tuy nhiên, ngay cả con số tối thiểu 500 vẫn có thể áp dụng ở đây, vì Tolkien có thể đã nghĩ đến gỗ sồi Anh và nó có thể tồn tại tới khoảng 500 năm.
 
-Ngoài ra, một số độc giả còn chỉ ra rằng ngày sinh của ông không được ghi trong các Phụ lục. Đối với họ, đây có thể là dấu hiệu cho thấy ông sinh vào năm [Kỷ Đệ Nhất](../F/First_Age.md), vì các Phụ lục chỉ ghi ngày từ [Kỷ thứ hai](../S/Second_Age.md) trở đi. Ít nhất, điều đó có thể có nghĩa là anh ta được sinh ra trước [Kỷ Đệ Tam](../T/Third_Age.md), vì ngày sinh của các nhân vật sinh vào thời điểm đó (ngay cả những ngày tương đối nhỏ như [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md)) *are* thường được đưa ra.
+Ngoài ra, một số độc giả còn chỉ ra rằng ngày sinh của anh ấy không được ghi trong Phụ lục. Đối với họ, đây có thể là dấu hiệu cho thấy anh ta sinh vào [Kỷ Đệ Nhất](../F/First_Age.md), vì Phụ lục chỉ ghi chép có niên đại từ [Thời thứ hai](../S/Second_Age.md) trở đi. Ít nhất, điều đó có thể có nghĩa là anh ta được sinh ra trước [Kỷ Đệ Tam](../T/Third_Age.md), vì ngày sinh của các nhân vật sinh vào thời điểm đó (ngay cả những ngày tương đối nhỏ như [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md)) *are* thường được đưa ra.
 
 ## Giấy khai sinh {#Birth_order}
 
@@ -67,7 +67,7 @@ Một số người cho rằng anh là con một; tuy nhiên, anh ta có thể c
 
 ## Màu tóc {#Hair_color}
 
-Cha của anh [Thranduil](../T/Thranduil.md) có tóc vàng, nên nhiều người cho rằng Legolas chắc chắn cũng có tóc vàng (thực tế, cả [Ralph Bakshi](../R/Ralph_Bakshi.md) và [Peter Jackson](../P/Peter_Jackson.md) đều khiến ông có tóc vàng). Tuy nhiên, Tolkien mô tả đầu của anh ta là "đen tối" khi anh ta bắn hạ [Ma Ringwraith](../N/Nazgûl.md) của [Thú vật sa ngã](../F/Fell_beasts.md) trong *The Fellowship of the Ring* trong trích dẫn sau, gợi ý điều ngược lại với một số người:
+Cha của anh [Thranduil](../T/Thranduil.md) có mái tóc vàng, nên nhiều người cho rằng Legolas cũng phải có tóc vàng (thực tế, cả [Ralph Bakshi](../R/Ralph_Bakshi.md) và [Peter Jackson](../P/Peter_Jackson.md) đều khiến ông có màu vàng). Tuy nhiên, Tolkien mô tả đầu của anh ta là "đen tối" khi anh ta bắn hạ [Fell beast](../F/Fell_beasts.md) của [Ringwraith](../N/Nazgûl.md)trong *The Fellowship of the Ring* trong trích dẫn sau, gợi ý điều ngược lại với một số người:
 
 <blockquote class="tg-quote noexcerpt">
 <p>Frodo looked up at the Elf standing tall above him, as he gazed into the night, seeking a mark to shoot at. His head was dark, crowned with sharp white stars that glittered in the black pools of the sky behind.

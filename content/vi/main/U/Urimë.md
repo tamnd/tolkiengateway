@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Úrimë"
 ---
 
-Chuyển hướng đến [Úrimë](../_/Úrimë.md).
+Chuyển hướng tới [Úrimë](../_/Úrimë.md).

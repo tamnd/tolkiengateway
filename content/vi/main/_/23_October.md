@@ -76,5 +76,5 @@ Sự kiện xảy ra vào ngày 23 tháng 10
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
     - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md)tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) hồi phục sau vết thương trong [Rivendell](../R/Rivendell.md). [Elrond](../E/Elrond.md) tìm thấy mảnh lưỡi dao trên vai anh ta và lấy nó ra.
+    - [Frodo](../F/Frodo_Baggins.md) hồi phục sau vết thương trong [Rivendell](../R/Rivendell.md). [Elrond](../E/Elrond.md) tìm thấy mảnh lưỡi kiếm trên vai anh ta và lấy nó ra.
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

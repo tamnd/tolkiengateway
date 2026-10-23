@@ -16,7 +16,7 @@ categories:
 
 Các **đề cử** hiện tại cho trạng thái **[trích dẫn nổi bật](Featured_quotes.md)** được liệt kê ở đây. Các đề cử trước đây (thành công và không thành công) được liệt kê tại [Tolkien Gateway:Trích dẫn nổi bật/Lưu trữ](Featured_quotes%252FArchive.md).
 
-Khi xem xét một báo giá, vui lòng xem lại các tiêu chí đề cử bên dưới để tự đánh giá xem báo giá đó có đáp ứng các tiêu chí hay không. Nếu bạn hài lòng thì hãy tạo một phần mới ở cuối trang. Nếu đề cử thành công, trích dẫn có thể sớm được đăng trên [Trang chính](../../main/M/Main_Page.md).
+Khi xem xét một báo giá, vui lòng xem lại các tiêu chí đề cử bên dưới để tự đánh giá xem báo giá đó có đáp ứng các tiêu chí hay không. Nếu bạn hài lòng thì hãy tạo một phần mới ở cuối trang. Nếu đề cử thành công, báo giá có thể sớm được đăng trên [Trang chính](../../main/M/Main_Page.md).
 
 ## Tiêu chí đề cử {#Nomination_criteria}
 

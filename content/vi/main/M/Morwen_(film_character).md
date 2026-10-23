@@ -41,7 +41,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Morwen là mẹ của [Freda](../F/Freda.md) và [Éothain](<../_/Éothain_(film_character).md>), người mà cô cử đến để cảnh báo [Théoden](../T/Théoden.md) rằng [Wild Con Người](../D/Dunlendings.md) đang cướp bóc [Rohan](../R/Rohan.md). Các con của bà bị giữ tại [Edoras](../E/Edoras.md) cho đến khi Théoden dẫn người về trú ẩn tại [Helm's Deep](../H/Helm's_Deep.md), nơi các cháu được đoàn tụ với mẹ.
+Morwen là mẹ của [Freda](../F/Freda.md) và [Éothain](<../_/Éothain_(film_character).md>), người mà cô cử đến để cảnh báo [Théoden](../T/Théoden.md) rằng [Wild Con Người](../D/Dunlendings.md) đang cướp phá [Rohan](../R/Rohan.md). Các con của bà bị giữ tại [Edoras](../E/Edoras.md) cho đến khi Théoden dẫn người về trú ẩn tại [Helm's Deep](../H/Helm's_Deep.md), nơi các cháu được đoàn tụ với mẹ.
 
 ## Từ nguyên {#Etymology}
 

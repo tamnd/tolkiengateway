@@ -70,7 +70,7 @@ infobox:
     - Tiểu thuyết Elric của Michael Moorcock
         - Được đánh giá bởi Rosie Turner
     - *The Wood Beyond the World* của [William Morris](../W/William_Morris.md)
-        - Được đánh giá bởi Belladonna Took ([Vera Chapman](../V/Vera_Chapman.md))
+        - Được xem xét bởi Belladonna Took ([Vera Chapman](../V/Vera_Chapman.md))
 - **Minh họa**
     - Bởi Bryan Talbot, John B. Abbott, Roger Nixon và Hal Broome
 

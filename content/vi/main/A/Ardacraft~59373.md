@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "ArdaCraft"
 ---
 
-Chuyển hướng tới [ArdaCraft](ArdaCraft.md).
+Chuyển hướng đến [ArdaCraft](ArdaCraft.md).

@@ -25,7 +25,7 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/arts/livres/herbier_de_la_comte"
 ---
 
-<i><b>Herblore of the Shire</b></i> là cuốn sách được viết bởi [Merry Brandybuck](../M/Meriadoc_Brandybuck.md), một trong nhiều chuyên luận mà ông là tác giả sau khi trở về từ [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md)nhưng trước khi ông trở thành [Bậc thầy về Buckland](../M/Master_of_Buckland.md).
+<i><b>Herblore of the Shire</b></i> là cuốn sách được viết bởi [Merry Brandybuck](../M/Meriadoc_Brandybuck.md), một trong nhiều chuyên luận mà ông là tác giả sau khi trở về từ [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), nhưng trước khi ông trở thành [Chủ nhân của Buckland](../M/Master_of_Buckland.md).
 
 Cuốn sách thảo luận về nguồn gốc và lịch sử của [Hobbit](Hobbits.md)' 'nghệ thuật' [hút thuốc](../S/Smoking.md) [Pipe-weed](../P/Pipe-weed.md), truy tìm nó từ [Tobold Hornbutter](../T/Tobold_Hornblower.md) (người đã giới thiệu nó với [ Shire](../T/The_Shire.md)) đến nguồn gốc cuối cùng của nó ở [Trung Địa](../M/Middle-earth.md), ở [vùng đất dọc theo](../V/Vales_of_Anduin.md) bờ nam của sông [Anduin](../A/Anduin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Road to Middle-earth"
 ---
 
-Chuyển hướng đến [Con đường tới Trung Địa](../T/The_Road_to_Middle-earth.md).
+Chuyển hướng đến [The Road to Middle-earth](../T/The_Road_to_Middle-earth.md).

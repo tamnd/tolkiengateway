@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Chi tiết về "[Buckland](Miriam_Ellis_-_Buckland.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), mô tả [Rorimac Brandybuck](../../main/R/Rorimac_Brandybuck.md)
+Chi tiết "[Buckland](Miriam_Ellis_-_Buckland.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), mô tả [Rorimac Brandybuck](../../main/R/Rorimac_Brandybuck.md)
 
 ## Giấy phép {#Licensing}
 

@@ -128,4 +128,4 @@ Of historic note, these selections from <a href="The_Hobbit.md" title="The Hobbi
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.amazon.com/J-R-R-Tolkien-Audio-Collection/dp/0694525707" rel="noreferrer noopener" target="_blank">Trang sản phẩm của Amazon</a>
+- <a class="external text" href="https://www.amazon.com/J-R-R-Tolkien-Audio-Collection/dp/0694525707" rel="noreferrer noopener" target="_blank">Amazon Trang sản phẩm</a>

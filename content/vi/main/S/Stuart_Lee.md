@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Stuart D. Lee"
 ---
 
-Chuyển hướng tới [Stuart D. Lee](Stuart_D._Lee.md).
+Chuyển hướng đến [Stuart D. Lee](Stuart_D._Lee.md).

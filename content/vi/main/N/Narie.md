@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nárië"
 ---
 
-Chuyển hướng tới [Nárië](Nárië.md).
+Chuyển hướng đến [Nárië](Nárië.md).

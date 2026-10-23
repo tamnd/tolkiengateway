@@ -57,7 +57,7 @@ Wikipedia đưa ra từ nguyên *frith* "bảo vệ"/ *farð* "hành trình" và
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Ferdibrand Took lives in <a href="../S/Staddle.md" title="Staddle">Staddle</a> but plays no role in the storyline.</dd></dl>
 

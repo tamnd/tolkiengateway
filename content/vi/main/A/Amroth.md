@@ -159,7 +159,7 @@ Với tư cách là con trai của Galadriel và Celeborn, Tolkien từng cân n
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Amroth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d2/The_Lord_of_the_Rings_Online_-_Amroth.jpg/150px-The_Lord_of_the_Rings_Online_-_Amroth.jpg" decoding="async" loading="lazy" width="150" height="251" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d2/The_Lord_of_the_Rings_Online_-_Amroth.jpg/225px-The_Lord_of_the_Rings_Online_-_Amroth.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d2/The_Lord_of_the_Rings_Online_-_Amroth.jpg/300px-The_Lord_of_the_Rings_Online_-_Amroth.jpg 2x" data-file-width="580" data-file-height="970"/></a><figcaption>Amroth in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Amroth appears during an extended flashback set during the <a href="../S/Siege_of_Barad-dûr.md" title="Siege of Barad-dûr">Siege of Barad-dûr</a> in the year <a href="../S/Second_Age_3440.md" title="Second Age 3440">S.A. 3440</a>.</dd></dl>
 

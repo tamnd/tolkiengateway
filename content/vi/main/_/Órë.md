@@ -33,7 +33,7 @@ images:
 <i><b>óre</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa:
 
 1. "trái tim (nội tâm)"<sup id="cite_ref-Names_1-0" class="reference"><a href="#cite_note-Names-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
-2. "thúc giục"<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+2. "thúc đẩy"<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 3. "tăng" (danh từ)<sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[2]</a></sup>
 
 ### Các hình thức khác {#Other_forms}
@@ -76,7 +76,7 @@ Trong [*Etymologies*](../T/The_Etymologies.md), từ *óre* ("tăng") có nguồ
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Thuật ngữ <i>óre</i>, mặc dù được dịch là "trái tim", nhưng không có ý nghĩa như trong tiếng Anh: nó không tương ứng với cơ quan vật lý, trí nhớ, sự phản ánh, cảm xúc, cảm xúc hoặc xung động tích cực. <i>óre</i> là lương tâm hoặc bản năng khuyên nhủ hoặc cảnh báo <a href="../I/Incarnate.md" title="Incarnate">Hồi sinh</a> về những hành động thích hợp. (Cf. <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, "Ghi chú về <i>Óre</i>" (được biên tập bởi <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>), trong <a href="../V/Vinyar_Tengwar_41.md" title="Vinyar Tengwar 41"><i>Vinyar Tengwar</i>, Số 41</a>, tháng 7 năm 2000, tr. 11-2)</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Thuật ngữ <i>óre</i>, mặc dù được dịch là "trái tim", nhưng không có ý nghĩa như trong tiếng Anh: nó không tương ứng với cơ quan vật lý, trí nhớ, sự phản ánh, cảm xúc, cảm xúc hoặc xung lực tích cực. <i>óre</i> là lương tâm hoặc bản năng khuyên nhủ hoặc cảnh báo <a href="../I/Incarnate.md" title="Incarnate">Hồi sinh</a> về những hành động thích hợp. (Cf. <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, "Ghi chú về <i>Óre</i>" (được biên tập bởi <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>), trong <a href="../V/Vinyar_Tengwar_41.md" title="Vinyar Tengwar 41"><i>Vinyar Tengwar</i>, Số 41</a>, tháng 7 năm 2000, tr. 11-2)</span>
 </li>
 </ol></div></span>
 

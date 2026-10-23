@@ -21,7 +21,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-**LUH** là một từ gốc [Mannish](../M/Mannish.md) liên quan đến ngựa, có lẽ có nguồn gốc từ phương bắc.
+**LUH** là một từ gốc [Mannish](../M/Mannish.md) liên quan đến ngựa, có lẽ có nguồn gốc từ phương Bắc.
 
 - [Rohanese](../R/Rohanese.md): *[Lōgrad](Lōgrad.md), <a class="new" href="https://tolkiengateway.net/w/index.php?title=Loht%C3%BBr&amp;action=edit&amp;redlink=1" title="Lohtûr (page does not exist)">Lohtûr</a>, loho-/lô-* (tiền tố của tên)
 

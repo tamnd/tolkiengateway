@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Sự ra đời của [Marmadas Brandybuck](../M/Marmadas_Brandybuck.md), con trai của [Gorbulas Brandybuck](../G/Gorbulas_Brandybuck.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- [Vua](../K/Kings_of_Rohan.md) [Thengel](Thengel.md) kết hôn với [Morwen Steelsheen](../M/Morwen_Steelsheen.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Vua](../K/Kings_of_Rohan.md) [Thengel](Thengel.md) đám cưới [Morwen Steelsheen](../M/Morwen_Steelsheen.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

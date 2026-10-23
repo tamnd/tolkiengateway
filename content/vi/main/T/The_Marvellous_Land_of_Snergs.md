@@ -38,7 +38,7 @@ infobox:
 
 <i><b>Vùng đất kỳ diệu của Snergs</b></i> là tiểu thuyết giả tưởng dành cho trẻ em của E. A. Wyke-Smith, xuất bản lần đầu trên tạp chí [1927](../_/1927.md) với hình minh họa của George Morrow. Tác phẩm là nguồn cảm hứng cho *[The Hobbit](The_Hobbit.md)*của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-AH_2-0" class="reference"><a href="#cite_note-AH-2">[2]</a></sup>
 
-Trong [1996](../_/1996.md), [Douglas A. Anderson](../D/Douglas_A._Anderson.md) đã mang lại bản in của cuốn tiểu thuyết (Old Earth Books; <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/1882968042">ISBN 1882968-04-2</a>; bìa mềm), và đóng góp vào quá trình tái bản bằng phần giới thiệu phê bình và danh sách thư mục có chú thích.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-Old_4-0" class="reference"><a href="#cite_note-Old-4">[4]</a></sup>
+Trong [1996](../_/1996.md), [Douglas A. Anderson](../D/Douglas_A._Anderson.md) đã đưa lại cuốn tiểu thuyết in (Old Earth Books; <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/1882968042">ISBN 1882968-04-2</a>; bìa mềm) và đóng góp cho việc tái bản bằng phần giới thiệu phê bình và danh sách thư mục có chú thích.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-Old_4-0" class="reference"><a href="#cite_note-Old-4">[4]</a></sup>
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -46,7 +46,7 @@ Trong [1996](../_/1996.md), [Douglas A. Anderson](../D/Douglas_A._Anderson.md) �
 
 Tất cả những ai yêu mến Peter Pan cũng sẽ yêu thích câu chuyện này dành cho trẻ em ở mọi lứa tuổi và mọi tầng lớp
 
-Cuốn sách mở đầu bằng phần mô tả về Thỏa thuận dàn xếp cho những đứa trẻ thừa thãi. Một chút về phía bắc của Khu định cư Vanderdecken và thủy thủ đoàn của anh ta đang ở trong khu bờ biển; chiếc *Flying Dutchman* neo gần đó. Ở phía nam là những Snergs thân thiện nhưng kém thông minh, một số nhánh của pixies. Ngược lại, Joe và Sylvia nghịch ngợm bỏ chạy, và cùng với Gorbo - trong số những người kém thông minh nhất của Snerg - bị trộn lẫn với phép thuật và thấy mình *the wrong side of the river*. Trốn thoát khỏi Golithos, một yêu tinh được cải tạo không hoàn hảo; từ Mẹ Meldrum, mụ phù thủy nham hiểm đó; từ kẻ ác Vua Kul; và cuộc giải cứu của Vanderdecken và gia đình Snergs, lấp đầy một tập truyện vui vẻ.<sup id="cite_ref-AH_2-1" class="reference"><a href="#cite_note-AH-2">[2]</a></sup>
+Cuốn sách mở đầu bằng phần mô tả về Thỏa thuận dàn xếp cho những đứa trẻ thừa thãi. Một chút về phía bắc của Khu định cư Vanderdecken và thủy thủ đoàn của anh ta đang ở trong khu bờ biển; chiếc *Flying Dutchman* neo gần đó. Ở phía nam là những Snergs thân thiện nhưng không thông minh, một số nhánh của pixies. Ngược lại, Joe và Sylvia nghịch ngợm bỏ chạy, và cùng với Gorbo - trong số những người kém thông minh nhất của Snerg - bị trộn lẫn với phép thuật và thấy mình *the wrong side of the river*. Trốn thoát khỏi Golithos, một yêu tinh được cải tạo không hoàn hảo; từ Mẹ Meldrum, mụ phù thủy nham hiểm đó; từ kẻ ác Vua Kul; và cuộc giải cứu của Vanderdecken và gia đình Snergs, lấp đầy một tập truyện vui vẻ.<sup id="cite_ref-AH_2-1" class="reference"><a href="#cite_note-AH-2">[2]</a></sup>
 
 ### Ấn bản năm 1996 {#1996_edition}
 

@@ -80,7 +80,7 @@ infobox:
     - Bởi: Michael Cunningham
 Lời cầu xin - [Toán học](../M/Mathoms.md)
     - Bởi: Anne Forbes
-- Ngày đầu tiên của tôi: [Ở đó và quay lại](../T/There_and_Back_Again.md)
+- Ngày đầu tiên của tôi: [There and Back Again](../T/There_and_Back_Again.md)
     - Bởi: Jordan Stewart
 - Tác phẩm: Chưa có tiêu đề (giải cứu đại bàng)
     - Bởi: Neil Loughan

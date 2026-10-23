@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Turuhalmë"
 ---
 
-Chuyển hướng đến [Turuhalmë](../T/Turuhalmë.md).
+Chuyển hướng tới [Turuhalmë](../T/Turuhalmë.md).

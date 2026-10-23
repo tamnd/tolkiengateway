@@ -85,19 +85,19 @@ infobox:
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mysilvergreen_-_Eonwe.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c0/Mysilvergreen_-_Eonwe.jpg/200px-Mysilvergreen_-_Eonwe.jpg" decoding="async" loading="lazy" width="200" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c0/Mysilvergreen_-_Eonwe.jpg/300px-Mysilvergreen_-_Eonwe.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c0/Mysilvergreen_-_Eonwe.jpg/400px-Mysilvergreen_-_Eonwe.jpg 2x" data-file-width="900" data-file-height="900"/></a><figcaption>&#34;Eonwe&#34; by <a href="../../category/I/Images_by_Mysilvergreen.md" title="Category:Images by Mysilvergreen">Mysilvergreen</a></figcaption></figure>
 
-When [Eärendil](Eärendil.md) reached the shores of [Aman](../A/Aman.md), it was Eönwë who first greeted him and summoned him to come before the Powers of [Arda](../A/Arda.md).
+Khi [Eärendil](Eärendil.md) đến bờ biển [Aman](../A/Aman.md), chính Eönwë là người đầu tiên chào đón anh và triệu tập anh đến trước Quyền năng của [Arda](../A/Arda.md).
 
-When [Manwë](../M/Manwë.md) decided to heed the appeal, he gave [his sword](../S/Sword_of_Manwë.md) to Eönwë<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup> and sent him to Middle-earth to fight the [War of Wrath](../W/War_of_Wrath.md), leading the [Vanyar](../V/Vanyar.md).<sup id="cite_ref-Earendil_4-0" class="reference"><a href="#cite_note-Earendil-4">[3]</a></sup> It is said that it was Eönwë who overthrew Morgoth.<sup id="cite_ref-PM_5-0" class="reference"><a href="#cite_note-PM-5">[4]</a></sup>
+Khi [Manwë](../M/Manwë.md) quyết định nghe theo lời kháng cáo, ông đã trao [thanh kiếm của mình](../S/Sword_of_Manwë.md) cho Eönwë<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup> và cử anh ta đến Trung Địa để chiến đấu với [War of Wrath](../W/War_of_Wrath.md), lãnh đạo [Vanyar](../V/Vanyar.md).<sup id="cite_ref-Earendil_4-0" class="reference"><a href="#cite_note-Earendil-4">[3]</a></sup> Người ta nói rằng chính Eönwë đã lật đổ Morgoth.<sup id="cite_ref-PM_5-0" class="reference"><a href="#cite_note-PM-5">[4]</a></sup>
 
-When [Morgoth](../M/Morgoth.md) was defeated Eönwë played a key role in the aftermath. He took the two remaining [Silmarils](../S/Silmarils.md) and held them for safekeeping, but when the two remaining [Sons of Fëanor](../S/Sons_of_Fëanor.md) stole them and fled, Eönwë did not allow them to be slain.<sup id="cite_ref-Earendil_4-1" class="reference"><a href="#cite_note-Earendil-4">[3]</a></sup>
+Khi [Morgoth](../M/Morgoth.md) bị đánh bại, Eönwë đóng một vai trò quan trọng sau đó. Anh ta lấy hai [Silmaril](../S/Silmarils.md) còn lại và giữ chúng để bảo quản, nhưng khi hai [các Con trai của Fëanor](../S/Sons_of_Fëanor.md) còn lại cướp chúng và bỏ trốn, Eönwë đã không cho phép chúng bị giết.<sup id="cite_ref-Earendil_4-1" class="reference"><a href="#cite_note-Earendil-4">[3]</a></sup>
 
-Afterwards, [Sauron](../S/Sauron.md) paid obeisance to Eönwë and abjured all of his evil deeds. But because Eönwë had not the power to pardon Sauron, he commanded him to return to Aman to receive Manwë's judgement. Unwilling to receive humiliation and sentencing, when Eönwë left Sauron hid in [Middle-earth](../M/Middle-earth.md) and fell back into evil.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+Sau đó, [Sauron](../S/Sauron.md) đã tỏ lòng tôn kính Eönwë và từ bỏ mọi hành vi xấu xa của anh ta. Nhưng vì Eönwë không có quyền ân xá cho Sauron nên đã ra lệnh cho anh ta quay trở lại Aman để nhận sự phán xét của Manwë. Không muốn nhận sự sỉ nhục và tuyên án, khi Eönwë bỏ đi Sauron trốn vào [Trung Địa](../M/Middle-earth.md) và lại sa vào tội ác.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
-### Second Age {#Second_Age}
+### Tuổi thứ hai {#Second_Age}
 
-At the dawn of the [Second Age](../S/Second_Age.md), Eönwë came among the three faithful houses of the [Edain](Edain.md) and taught them many things; and they were blessed with wisdom and power and longer [life-spans](../M/Mortality.md).<sup id="cite_ref-Akallabeth_7-0" class="reference"><a href="#cite_note-Akallabeth-7">[6]</a></sup>
+Vào buổi bình minh của [Kỷ nguyên thứ hai](../S/Second_Age.md), Eönwë đã đến giữa ba gia tộc trung thành của [Edain](Edain.md) và dạy họ nhiều điều; và họ được ban phước với trí tuệ, sức mạnh và [tuổi thọ](../M/Mortality.md) dài hơn.<sup id="cite_ref-Akallabeth_7-0" class="reference"><a href="#cite_note-Akallabeth-7">[6]</a></sup>
 
-These Edain eventually became the [High Men](../H/High_Men.md) of [Númenor](../N/Númenor.md).<sup id="cite_ref-Akallabeth_7-1" class="reference"><a href="#cite_note-Akallabeth-7">[6]</a></sup>
+Những Edain này cuối cùng đã trở thành [Cao Con Người](../H/High_Men.md) của [Númenor](../N/Númenor.md).<sup id="cite_ref-Akallabeth_7-1" class="reference"><a href="#cite_note-Akallabeth-7">[6]</a></sup>
 
 ## Từ nguyên học {#Etymology}
 

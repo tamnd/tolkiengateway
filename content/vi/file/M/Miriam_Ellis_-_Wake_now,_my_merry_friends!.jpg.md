@@ -31,7 +31,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Dậy đi, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tom_Bomadil&amp;action=edit&amp;redlink=1" title="Tom Bomadil (page does not exist)"></a> [các bạn vui vẻ](../../main/T/Travellers.md) của tôi!" của [Miriam Ellis](../../main/M/Miriam_Ellis.md).
+"Dậy đi, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tom_Bomadil&amp;action=edit&amp;redlink=1" title="Tom Bomadil (page does not exist)"></a> [các bạn vui vẻ](../../main/T/Travellers.md) của tôi!" bởi [Miriam Ellis](../../main/M/Miriam_Ellis.md).
 
 ## Giấy phép {#Licensing}
 

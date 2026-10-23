@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Gollum](../../main/G/Gollum.md) cầm [One Ring](../../main/O/One_Ring.md) ở *[The Lord of the Rings: Gollum](../../main/T/The_Lord_of_the_Rings%253A_Gollum.md)*, sản phẩm này đã hoàn tất quá trình phát triển trước khi phát hành.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Gollum](../../main/G/Gollum.md) đang nắm giữ [One Nhẫn](../../main/O/One_Ring.md) trong *[The Lord of the Rings: Gollum](../../main/T/The_Lord_of_the_Rings%253A_Gollum.md)*, đã hoàn tất quá trình phát triển trước khi phát hành.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Giấy phép {#Licensing}
 

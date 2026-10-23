@@ -32,7 +32,7 @@ infobox:
 
 <b><i>Tolkien Ghi chú ngôn ngữ</i> 2</b> là một số của fanzine *Tolkien Language Notes*.
 
-Tạp chí bao gồm bài viết "Danh từ Quenya" của [Jim Allan](../J/Jim_Allan.md)\[?\] - bài này bao gồm bản chép lại trang bản thảo "[Sự suy giảm Plotz](The_Plotz_Declension.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Tạp chí bao gồm bài viết\[?\] của [Jim Allan](../J/Jim_Allan.md)"Danh từ Quenya" - bài này bao gồm bản chép lại trang bản thảo "[Sự suy giảm Plotz](The_Plotz_Declension.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

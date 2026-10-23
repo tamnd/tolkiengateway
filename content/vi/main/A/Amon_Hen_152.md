@@ -69,7 +69,7 @@ báo cáo - *Not the Seminar*
     - Bởi: [Sally Kennett](../S/Sally_Kennett.md)
 - Tác phẩm nghệ thuật: *Bilbo Baggins*
     - Bởi: Ellen D. Walker
-- Bậc thầy
+- Cái Chủ nhân
     - Bởi: Lyn Ritchie
 - Tác phẩm nghệ thuật: *Bilbo and [Smaug](../S/Smaug.md)*
     - Bởi: Nick Basi
@@ -84,7 +84,7 @@ báo cáo - *Not the Seminar*
     - Bởi: Ian Collier & Anke Büttner
 - Tác phẩm nghệ thuật: *The Lord of the Nazgûl*
     - Bởi: Nick Basi
-- Truyện dân ca
+- Truyện dân gian
 - Thành viên/Ủy ban mới
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 151</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_151.md" title="Amon Hen 151">Amon Hen 151</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 152</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 153</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_153.md" title="Amon Hen 153">Amon Hen 153</a></div></div></div>

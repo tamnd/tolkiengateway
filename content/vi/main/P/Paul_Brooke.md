@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Brooke, Paul"
 ---
 
-**Paul Brooke** là một diễn viên phát thanh và truyền hình người Anh. Các vai diễn của anh bao gồm loạt phim phát thanh *Dr. Who* và *Bridget Jones' Diary*, nhưng vai diễn mang tính biểu tượng nhất của anh là vai <a class="external text" href="http://starwars.wikia.com/wiki/Malakili" rel="noreferrer noopener" target="_blank">người bảo vệ Rancor bụng phệ, khóc lóc</a> trong bộ phim *Star Wars* thứ ba, *The Return of the Jedi*. Ông lồng tiếng cho phần [Gríma Wormtongue](../G/Gríma.md) trong [The Lord of the Rings loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) phát sóng trên đài BBC 4.
+**Paul Brooke** là một diễn viên phát thanh và truyền hình người Anh. Các vai diễn của anh bao gồm loạt phim phát thanh *Dr. Who* và *Bridget Jones' Diary*, nhưng vai diễn mang tính biểu tượng nhất của anh là vai <a class="external text" href="http://starwars.wikia.com/wiki/Malakili" rel="noreferrer noopener" target="_blank">người bảo vệ Rancor bụng phệ, khóc lóc</a> trong bộ phim *Star Wars* thứ ba, *The Return of the Jedi*. Anh lồng tiếng cho phần [Gríma Wormtongue](../G/Gríma.md) trong [The Lord of the Rings loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) phát sóng trên BBC 4.
 
 ## Liên kết ngoài {#External_links}
 

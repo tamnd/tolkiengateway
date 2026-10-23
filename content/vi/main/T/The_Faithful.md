@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Faithful"
 ---
 
-Chuyển hướng đến [Trung thành](../F/Faithful.md).
+Chuyển hướng tới [Trung thành](../F/Faithful.md).

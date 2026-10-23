@@ -53,7 +53,7 @@ infobox:
 
 - "*Elityellë*" (cột) — Eli Bar-Yahalom
 - "Từ ngữ và thiết bị: Vẫn còn tồn tại những người khổng lồ, Phần 2" (cột) — Patrick H. Wynne và Carl F. Hostetter.
-- "*Essitalmar*: Mở mè!" (cột) — Tom loback
+- "*Essitalmar*: Mở mè!" (cột) — Tom Loback
 - "Chuyển đổi trong bản dịch: *Runot suomentanut Panu Pekkanen*" (cột) — Arden R. Smith
 
 <br>

@@ -205,7 +205,7 @@ Tolkien từng cân nhắc dời năm sinh của Arwen từ [T.A.](../T/Third_Ag
 
 <dl><dd>Arwen does not appear in this film.</dd></dl>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (1981 radio series)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
 <dl><dd>Arwen is voiced by <a href="../S/Sonia_Fraser.md" title="Sonia Fraser">Sonia Fraser</a>.</dd></dl>
 
@@ -227,7 +227,7 @@ Tolkien từng cân nhắc dời năm sinh của Arwen từ [T.A.](../T/Third_Ag
 
 <dl><dd>The voice of Arwen is provided by Slávka Halčáková. She only appears in person in the third series (season) of the adaptation, during the events of <i>The Return of the King</i>, but is alluded to earlier.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Arwen can be found in a gazebo overlooking the path from <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a> into the Misty Mountains. Her roles in the game was initially small, and her only significant interaction with the player was the passing of Elessar&#39;s banner that she made for <a href="Aragorn.md" title="Aragorn">Aragorn</a> and bid the player to deliver to <a href="../H/Halbarad.md" title="Halbarad">Halbarad</a>. After the downfall of <a href="../S/Sauron.md" title="Sauron">Sauron</a>, her prominence increases as <a href="../E/Elrond.md" title="Elrond">Elrond</a> and his household travel to <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> for her wedding. On their way towards <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a> from the lands of the <a href="../B/Beornings.md" title="Beornings">Beornings</a>, Arwen asks her father to visit the cave in which her mother <a class="mw-redirect" href="../C/Celebrian.md" title="Celebrian">Celebrian</a> was tormented by <a href="../O/Orcs.md" title="Orcs">orcs</a> before being rescued. She later discusses that experience with Lady <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a>.</dd></dl>
 

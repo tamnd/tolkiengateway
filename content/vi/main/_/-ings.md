@@ -14,7 +14,7 @@ sort_keys:
   "Suffixes": "ings"
 ---
 
-<i><b>-ings</b></i> (hoặc *-ingas*) là hậu tố, được sử dụng trong [huyền thoại](../L/Legendarium.md) để biểu thị những người như vậy. Thường dùng cho những người thuộc về một lãnh tụ nào đó (hoặc là con cháu của một tổ tiên chung) như Bard (Bardings), hoặc thuộc một vùng đất nhất định, như Dunland (Dunlendings).
+<i><b>-ings</b></i> (hoặc *-ingas*) là hậu tố, được sử dụng trong [huyền thoại](../L/Legendarium.md) để biểu thị những người như vậy. Thường dùng cho những người thuộc về một lãnh tụ nào đó (hoặc là con cháu của một tổ tiên chung) là Bard (Bardings), hoặc thuộc một vùng đất nhất định, là Dunland (Dunlending).
 
 ## Ví dụ {#Examples}
 
@@ -22,7 +22,7 @@ sort_keys:
 - [Beornings](../B/Beornings.md)
 - [Eorlingas](../E/Eorlingas.md)
 - [Helmingas](../H/Helmingas.md)
-- [Cho vay khó khăn](../D/Dunlendings.md)
+- [Dunlending](../D/Dunlendings.md)
 
 ## Từ nguyên {#Etymology}
 

@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Đột nhiên không có tín hiệu [chúng](../../main/T/Thorin_and_Company.md) lặng lẽ lao về phía trước để tấn công." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"Đột nhiên không có tín hiệu [chúng](../../main/T/Thorin_and_Company.md) lặng lẽ lao về phía trước để tấn công." bởi [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

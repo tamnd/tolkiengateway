@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sự ra đời của [Thengel](Thengel.md), con trai của [Vua](../K/Kings_of_Rohan.md) [Fengel](../F/Fengel.md) của [Rohan](../R/Rohan.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Sinh ra [Thengel](Thengel.md), con trai của [Vua](../K/Kings_of_Rohan.md) [Fengel](../F/Fengel.md) của [Rohan](../R/Rohan.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

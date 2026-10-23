@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tuilë"
 ---
 
-Chuyển hướng đến [Tuilë](Tuilë.md).
+Chuyển hướng tới [Tuilë](Tuilë.md).

@@ -79,23 +79,23 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Guardians_of_Middle-earth.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fd/Guardians_of_Middle-earth.png/320px-Guardians_of_Middle-earth.png" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fd/Guardians_of_Middle-earth.png/480px-Guardians_of_Middle-earth.png 1.5x, https://tolkiengateway.net/w/images/f/fd/Guardians_of_Middle-earth.png 2x" data-file-width="600" data-file-height="900"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Guardians of Middle-earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a href="../M/Monolith_Productions.md" title="Monolith Productions">Monolith Productions</a> (Xbox 360, PS3)<br/>Zombie Studios (Windows)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../W/Warner_Bros._Interactive_Entertainment.md" title="Warner Bros. Interactive Entertainment">Warner Bros. Interactive Entertainment</a></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Xbox_360" title="wikipedia:Xbox 360">Xbox 360</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_3" title="wikipedia:PlayStation 3">PlayStation 3</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Microsoft_Windows" title="wikipedia:Microsoft Windows">Windows</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/4_December.md" title="4 December">4 December</a> <a href="../_/2012.md" title="2012">2012</a> (PS3, Xbox)<br/><a href="../_/29_August.md" title="29 August">29 August</a> <a href="../_/2013.md" title="2013">2013</a> (Windows)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Multiplayer_online_battle_arena" title="wikipedia:Multiplayer online battle arena">Multiplayer online battle arena</a></td></tr><tr><th scope="row" class="tg-infobox-label">Modes</th><td class="tg-infobox-data">Single-player, multi-player</td></tr><tr><th scope="row" class="tg-infobox-label">Rating</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board" title="wikipedia:Entertainment Software Rating Board">ESRB</a>: T<br/><a class="extiw" href="http://en.wikipedia.org/wiki/Pan_European_Game_Information" title="wikipedia:Pan European Game Information">PEGI</a>: 12+</td></tr><tr><th scope="row" class="tg-infobox-label">Distribution</th><td class="tg-infobox-data">Physical and digital</td></tr></tbody></table>
 
-<i><b>Guardians of Trung Địa</b></i> là một trò chơi điện tử <a class="extiw" href="http://en.wikipedia.org/wiki/multiplayer_online_battle_arena" title="wikipedia:multiplayer online battle arena">đấu trường chiến đấu trực tuyến nhiều người chơi</a> do Monolith Productions phát triển cho <a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_3" title="wikipedia:PlayStation 3">PlayStation 3</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Xbox_360" title="wikipedia:Xbox 360">Xbox 360</a>.<sup id="cite_ref-Game_info_2-0" class="reference"><a href="#cite_note-Game_info-2">[2]</a></sup>
+<i><b>Guardians of Middle-earth</b></i> là một trò chơi điện tử thuộc thể loại <a class="extiw" href="http://en.wikipedia.org/wiki/multiplayer_online_battle_arena" title="wikipedia:multiplayer online battle arena">đấu trường trực tuyến nhiều người chơi</a> do Monolith Productions phát triển cho <a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_3" title="wikipedia:PlayStation 3">PlayStation 3</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Xbox_360" title="wikipedia:Xbox 360">Xbox 360</a>.<sup id="cite_ref-Game_info_2-0" class="reference"><a href="#cite_note-Game_info-2">[2]</a></sup>
 
-Từ năm 2018 đến năm 2019, trò chơi đã lặng lẽ bị xóa khỏi tất cả các thị trường và tất cả các máy chủ trò chơi đều ngừng hoạt động. Không có thông báo chính thức nào từ nhà phát triển hoặc nhà xuất bản được đưa ra.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong giai đoạn từ năm 2018 đến năm 2019, trò chơi âm thầm bị gỡ khỏi tất cả các cửa hàng trực tuyến và toàn bộ máy chủ trò chơi ngừng hoạt động. Nhà phát triển và nhà phát hành đều không đưa ra bất kỳ thông báo chính thức nào.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-## Cách chơi {#Gameplay}
+## Lối chơi {#Gameplay}
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Guardians_of_Middle-earth_-_Combat.png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bb/Guardians_of_Middle-earth_-_Combat.png/300px-Guardians_of_Middle-earth_-_Combat.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bb/Guardians_of_Middle-earth_-_Combat.png/450px-Guardians_of_Middle-earth_-_Combat.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/bb/Guardians_of_Middle-earth_-_Combat.png/600px-Guardians_of_Middle-earth_-_Combat.png 2x" data-file-width="787" data-file-height="443"/></a><figcaption></figcaption></figure>
 
-Người chơi chiến đấu trong một trận chiến gồm mười chiến binh, năm người mỗi bên, được điều khiển bởi người chơi trực tuyến hoặc AI. Người chơi có thể chọn trong số 20 "người bảo vệ" khác nhau, những người có sức mạnh và khả năng riêng. Bạn có thể kiếm được tiền trong trò chơi trong các trận chiến và có thể dùng để mua vật phẩm. Trong trận chiến, người chơi sẽ có thể giao tiếp với những người chơi đồng minh bằng giao tiếp bằng giọng nói trong trò chơi.<sup id="cite_ref-Game_info_2-1" class="reference"><a href="#cite_note-Game_info-2">[2]</a></sup>
+Người chơi tham gia vào một trận chiến gồm mười đấu sĩ, chia thành hai phe, mỗi phe năm người. Các đấu sĩ được điều khiển bởi người chơi trực tuyến hoặc AI. Người chơi có thể lựa chọn một trong hai mươi “guardian” khác nhau, mỗi guardian sở hữu những điểm mạnh và năng lực riêng. Người chơi có thể kiếm tiền tệ trong trò chơi thông qua các trận chiến và sử dụng số tiền này để mua vật phẩm. Trong các trận chiến, người chơi có thể giao tiếp với đồng minh thông qua tính năng liên lạc bằng giọng nói trong trò chơi.<sup id="cite_ref-Game_info_2-1" class="reference"><a href="#cite_note-Game_info-2">[2]</a></sup>
 
-## Người giám hộ {#Guardians}
+## Các Hộ vệ {#Guardians}
 
-*Guardians of Middle-earth* có 36 người giám hộ khác nhau:
+*Guardians of Middle-earth* có ba mươi sáu hộ vệ khác nhau:
 
 - [Agandaûr](../A/Agandaûr.md)<sup id="cite_ref-Guardians_4-0" class="reference"><a href="#cite_note-Guardians-4">[4]</a></sup>
 - [Arathorn](../A/Arathorn_II.md)<sup id="cite_ref-Arathorn_Sauron_5-0" class="reference"><a href="#cite_note-Arathorn_Sauron-5">[5]</a></sup>
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Barrow-wight_Lord&amp;action=edit&amp;redlink=1" title="Barrow-wight Lord (page does not exist)">Chúa tể Barrow-Wight</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Barrow-wight_Lord&amp;action=edit&amp;redlink=1" title="Barrow-wight Lord (page does not exist)">Chúa tể Barrow-wight</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 - [Beregond](../B/Beregond.md)<sup id="cite_ref-Guardians_4-1" class="reference"><a href="#cite_note-Guardians-4">[4]</a></sup>
 - [Bert](../W/William,_Tom,_and_Bert.md)<sup id="cite_ref-Bilbo_Bert_7-0" class="reference"><a href="#cite_note-Bilbo_Bert-7">[7]</a></sup>
 - [Bilbo Baggins](../B/Bilbo_Baggins.md)<sup id="cite_ref-Bilbo_Bert_7-1" class="reference"><a href="#cite_note-Bilbo_Bert-7">[7]</a></sup>
@@ -108,7 +108,7 @@ Người chơi chiến đấu trong một trận chiến gồm mười chiến b
 - [Glóin](Glóin.md)<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 - [Gollum](Gollum.md)<sup id="cite_ref-Guardians_4-5" class="reference"><a href="#cite_note-Guardians-4">[4]</a></sup>
 - [Gothmog](<Gothmog_(Lieutenant_of_Morgul).md>)<sup id="cite_ref-Gothmog_Thrain_13-0" class="reference"><a href="#cite_note-Gothmog_Thrain-13">[13]</a></sup>
-- [Yêu tinh vĩ đại](Great_Goblin.md)<sup id="cite_ref-GreatGoblin_Thorin_14-0" class="reference"><a href="#cite_note-GreatGoblin_Thorin-14">[14]</a></sup>
+- [Đại Yêu tinh](Great_Goblin.md)<sup id="cite_ref-GreatGoblin_Thorin_14-0" class="reference"><a href="#cite_note-GreatGoblin_Thorin-14">[14]</a></sup>
 - [Haldir](../H/Haldir.md)<sup id="cite_ref-Haldir_Lugbol_15-0" class="reference"><a href="#cite_note-Haldir_Lugbol-15">[15]</a></sup>
 - [Hildifons](../H/Hildifons_Took.md)<sup id="cite_ref-Guardians_4-6" class="reference"><a href="#cite_note-Guardians-4">[4]</a></sup>
 - [Kíli](../K/Kíli.md)<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
@@ -119,18 +119,18 @@ Người chơi chiến đấu trong một trận chiến gồm mười chiến b
 - [Nori](../N/Nori.md)<sup id="cite_ref-Guardians_4-9" class="reference"><a href="#cite_note-Guardians-4">[4]</a></sup>
 - [Ori](../O/Ori.md)<sup id="cite_ref-Guardians_4-10" class="reference"><a href="#cite_note-Guardians-4">[4]</a></sup>
 - [Radagast](../R/Radagast.md)<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Runsig&amp;action=edit&amp;redlink=1" title="Runsig (page does not exist)">Runig</a><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Runsig&amp;action=edit&amp;redlink=1" title="Runsig (page does not exist)">Runsig</a><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
 - [Saruman](../S/Saruman.md)<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
 - [Sauron](../S/Sauron.md)<sup id="cite_ref-Trailer_11-1" class="reference"><a href="#cite_note-Trailer-11">[11]</a></sup><sup id="cite_ref-Arathorn_Sauron_5-1" class="reference"><a href="#cite_note-Arathorn_Sauron-5">[5]</a></sup>
 - [Snaga](<../S/Snaga_(orc_of_Isengard).md>)<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
-- [Thorin Oakenshield](../T/Thorin.md)<sup id="cite_ref-GreatGoblin_Thorin_14-1" class="reference"><a href="#cite_note-GreatGoblin_Thorin-14">[14]</a></sup>
+- [Thorin Khiên Ngà](../T/Thorin.md)<sup id="cite_ref-GreatGoblin_Thorin_14-1" class="reference"><a href="#cite_note-GreatGoblin_Thorin-14">[14]</a></sup>
 - [Thráin](../T/Thráin.md)<sup id="cite_ref-Guardians_4-11" class="reference"><a href="#cite_note-Guardians-4">[4]</a></sup><sup id="cite_ref-Gothmog_Thrain_13-1" class="reference"><a href="#cite_note-Gothmog_Thrain-13">[13]</a></sup>
 - [Uglúk](../U/Uglúk.md)<sup id="cite_ref-Guardians_4-12" class="reference"><a href="#cite_note-Guardians-4">[4]</a></sup>
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Unglob&amp;action=edit&amp;redlink=1" title="Unglob (page does not exist)">Unglob</a><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>
-- [Mụ phù thủy-Vua](../W/Witch-king.md)<sup id="cite_ref-Guardians_4-13" class="reference"><a href="#cite_note-Guardians-4">[4]</a></sup>
+- [Vua Phù thủy](../W/Witch-king.md)<sup id="cite_ref-Guardians_4-13" class="reference"><a href="#cite_note-Guardians-4">[4]</a></sup>
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Wulfrun&amp;action=edit&amp;redlink=1" title="Wulfrun (page does not exist)">Wulfrun</a><sup id="cite_ref-Guardians_4-14" class="reference"><a href="#cite_note-Guardians-4">[4]</a></sup>
 
-### Người giám hộ của Trung Địa {#Guardians_of_Middle-earth}
+### Guardians of Middle-earth {#Guardians_of_Middle-earth}
 
 <ul class="gallery mw-gallery-packed">
 		<li class="gallerybox" style="width: 138px">
@@ -400,8 +400,8 @@ Người chơi chiến đấu trong một trận chiến gồm mười chiến b
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://web.archive.org/web/20121211024031/http://www.guardiansofmiddleearth.co.uk/home" rel="noreferrer noopener" target="_blank"><i>Người bảo vệ Trung Địa</i> trang web chính thức</a>
-- <a class="external text" href="http://sacnoths.blogspot.se/2013/03/guardians-of-middle-earth-computer-game.html" rel="noreferrer noopener" target="_blank">Guardians of Trung Địa (trò chơi máy tính)</a> của [John D. Rateliff](../J/John_D._Rateliff.md)
+- <a class="external text" href="https://web.archive.org/web/20121211024031/http://www.guardiansofmiddleearth.co.uk/home" rel="noreferrer noopener" target="_blank"><i>Guardians of Middle-earth</i> trang web chính thức</a>
+- <a class="external text" href="http://sacnoths.blogspot.se/2013/03/guardians-of-middle-earth-computer-game.html" rel="noreferrer noopener" target="_blank">Guardians of Middle-earth (trò chơi điện tử)</a> của [John D. Rateliff](../J/John_D._Rateliff.md)
 
 <span></span>
 

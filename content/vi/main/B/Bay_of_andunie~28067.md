@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bay of Andúnië"
 ---
 
-Chuyển hướng tới [Vịnh Andúnië](Bay_of_Andúnië.md).
+Chuyển hướng đến [Vịnh Andúnië](Bay_of_Andúnië.md).

@@ -103,7 +103,7 @@ Người tuyết, còn được gọi là *Théoden's Bane* và *Master's Bane*,
 
 <dl><dd><a href="../T/Théoden.md" title="Théoden">Théoden</a> rides Snowmane during the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a>. He gives his speech and charges into the battle on him. During the battle, the <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a>&#39;s <a href="../F/Fell_beasts.md" title="Fell beasts">Fell Beast</a> bites Snowmane and throws him away with <a href="../T/Théoden.md" title="Théoden">Théoden</a> still on his back, crushing him. Snowmane lies inanimate, presumably dead.</dd></dl>
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Snowmane accompanied Théoden to the <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Battle of the Hornburg</a>, and was ridden on the final charge out of the fortress. He fell on the <a href="../P/Pelennor_Fields.md" title="Pelennor Fields">Pelennor Fields</a> much as described in the book.</dd></dl>
 

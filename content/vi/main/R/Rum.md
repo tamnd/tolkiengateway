@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rûm"
 ---
 
-Chuyển hướng tới [Rûm](Rûm.md).
+Chuyển hướng đến [Rûm](Rûm.md).

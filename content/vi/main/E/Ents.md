@@ -178,23 +178,23 @@ Trong một dịp khác, Tolkien thừa nhận rằng Ents có lẽ chịu ảnh
 
 <dl><dd>A Summoned Ent is the strongest magic power available to the Free Peoples; an Ent&#39;s strength is equal only to the <a href="../B/Balrogs.md" title="Balrogs">Balrog</a> on the Evil site.</dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
 
 <dl><dd>In the storyline missions, Ents are assisting Merry and Pippin in the escape from the Uruks as well as destroying Isengard concurrent with the Battle of Helm&#39;s Deep. In the skirmish mode, Ents can be summoned both as a &#34;Magic&#34; power by all free peoples and as permanent units by the Rohan faction.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
 <dl><dd>Ents are units of the Elven faction and can be summoned in battles.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Before the release of the <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">Rise of Isengard</a></i> expansion, the only Ent appearing in the game was the one called Longbough, who could be found in the Eavespires in <a href="Evendim.md" title="Evendim">Evendim</a>.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[42]</a></sup> The <i>Rise of Isengard</i> expansion and subsequent updates introduced more Ent characters, among them <a href="../Q/Quickbeam.md" title="Quickbeam">Quickbeam</a>, Gnarlstump, Thickbark, Greylimb, and Twistroot. A creature similar to Ents is called <i>Bog-lurker</i>, said to have assisted the Ents in shepherding the trees.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[43]</a></sup></dd></dl>
 
-<b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Conquest</a></i>:</b>
+<b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Chinh phục</a></i>:</b>
 
 <dl><dd>Ents are featured in the game as playable characters, with their appearance being based on that of <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> film series</a>.</dd></dl>
 
-<b>2013: <i><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: The Video Game</a></i>:</b>
+<b>2013: <i><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: Trò chơi điện tử</a></i>:</b>
 
 <dl><dd>The role of the Ents is largely the same as in the film series. Notably, to accommodate two-player gameplay, Merry is carried by an unidentified second Ent during the Last March of the Ents instead of by Treebeard with Pippin.</dd></dl>
 

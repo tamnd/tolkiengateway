@@ -51,7 +51,7 @@ Và trong khoảnh khắc đó, thế giới bắt đầu thay đổi.
 
 Biên giới, ngăn cách thế giới của chúng ta với Quần đảo trong mơ, đã thất thủ. Những con thú đen tối và khủng khiếp lang thang khắp nước Anh. Không ai có thể được triệu tập từ Quần đảo. Và cả hai thế giới đều rơi vào bóng tối dưới sự cai trị của một vị vua độc ác và khủng khiếp.
 
-Hy vọng duy nhất để khôi phục trật tự thích hợp của mọi thứ nằm trên một hòn đảo bị lãng quên ở rìa Quần đảo, nơi thiết bị du hành thời gian do Jules Verne để lại phải được sử dụng để chạy xuyên qua chính lịch sử — từ Thời đại đồ đồng đến Alexandria cổ đại và sự hình thành của Ngai Bạc — trong một đêm. Và trong đêm duy nhất đó, John và Jack sẽ thấy rằng cách duy nhất để cứu bạn mình và ngăn chặn sự hỗn loạn đang tàn phá thế giới là giải đáp bí ẩn 2.000 năm tuổi: Người vẽ bản đồ là ai?
+Hy vọng duy nhất để khôi phục trật tự thích hợp của mọi thứ nằm trên một hòn đảo bị lãng quên ở rìa Quần đảo, nơi thiết bị du hành thời gian do Jules Verne để lại phải được sử dụng để chạy xuyên qua chính lịch sử — từ Thời đại đồ đồng đến Alexandria cổ đại và sự hình thành của Ngai Bạc — trong một đêm. Và trong đêm duy nhất đó, John và Jack sẽ nhận ra rằng cách duy nhất để cứu bạn mình và ngăn chặn sự hỗn loạn đang tàn phá thế giới là giải đáp bí ẩn 2.000 năm tuổi: Người vẽ bản đồ là ai?
 
 <br clear="all"/>
 

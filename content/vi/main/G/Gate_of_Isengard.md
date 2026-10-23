@@ -34,6 +34,6 @@ Theo một số tài liệu cơ bản, Saruman đã ban cho Cổng của mình n
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The Gate of Isengard is protected by two great Trolls that can kill a player of their level in two hits and require a dozen or more to take them down.</dd></dl>

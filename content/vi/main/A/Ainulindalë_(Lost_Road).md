@@ -61,7 +61,7 @@ Dù mỗi câu đều được viết lại nhưng điểm khác biệt đáng c
 
 Nhiều năm sau, Tolkien viết một phiên bản mới bằng [1946](../_/1946.md), trong đó chỉ còn lại một trang bị rách.
 
-Vào cuối những năm 1940, Tolkien cho bà [Katharine Farrer](../K/Katharine_Farrer.md) mượn bản thảo B (cf. [Thư 115](../L/Letter_115.md)), mà ông gọi là "Phiên bản Thế giới phẳng" (cùng với một "Phiên bản[Thế giới tròn](../R/Round_World.md)"). Từ đó rút ra các phiên bản khác của *[Ainulindalë](<Ainulindalë_(Morgoth's_Ring).md>)*, được giải thích và xuất bản trong *[Morgoth's Ring](../M/Morgoth's_Ring.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào cuối những năm 1940, Tolkien cho bà [Katharine Farrer](../K/Katharine_Farrer.md) mượn bản thảo B (cf. [Thư 115](../L/Letter_115.md)), mà ông gọi là "Phiên bản Thế giới phẳng" (cùng với một "Phiên bản [Thế giới tròn](../R/Round_World.md)"). Từ đó rút ra các phiên bản khác của *[Ainulindalë](<Ainulindalë_(Morgoth's_Ring).md>)*, được giải thích và xuất bản trong *[Morgoth's Ring](../M/Morgoth's_Ring.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

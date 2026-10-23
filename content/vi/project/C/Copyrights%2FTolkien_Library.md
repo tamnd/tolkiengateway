@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Tolkien Library"
 ---
 
-- [Tolkien Thư viện](../../main/T/Tolkien_Library.md) đã vui lòng cấp phép sử dụng [El hobito - Được ghi bởi Tolkien.jpg](../../file/E/El_hobito_-_Inscribed_by_Tolkien.jpg.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- [Tolkien Library](../../main/T/Tolkien_Library.md) đã vui lòng cấp phép sử dụng [El hobito - Được ghi bởi Tolkien.jpg](../../file/E/El_hobito_-_Inscribed_by_Tolkien.jpg.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 27 tháng 8 năm 2013
 - Người dùng đã xin phép qua tin nhắn riêng tư: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

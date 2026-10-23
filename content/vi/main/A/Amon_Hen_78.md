@@ -78,7 +78,7 @@ infobox:
     - Bởi: [John Ellison](../J/John_Ellison.md)
 - Thông báo của Thư viện
     - Bởi: Christine Davidson
-- Máy ép nhỏ
+- Báo chí nhỏ
     - Bởi: Anne Haward
 - Các loại của Anne
     - Bởi: Anne Haward

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Battle for Middle-earth II"
 ---
 
-Chuyển hướng tới [The Lord of the Rings: Trận chiến vì Trung Địa II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md).
+Chuyển hướng đến [The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md).

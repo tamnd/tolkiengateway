@@ -28,7 +28,7 @@ infobox:
 <article class="tabber__panel" id="tabber-tabpanel-LOTRO-0" role="tabpanel" tabindex="0" aria-labelledby="tabber-tab-LOTRO-0"><table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Gwindeth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Blue Lady of Evendim</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Gwindethrond, <a href="../L/Lake_Evendim.md" title="Lake Evendim">Lake Evendim</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../A/Arnor.md" title="Arnor">Arnor</a></td></tr></tbody></table></article>
 </section></div></div>
 
-**Một tinh thần [Hồ Evendim](../L/Lake_Evendim.md)** xuất hiện trong [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md) và [The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md)
+Một **tinh thần [Hồ Evendim](../L/Lake_Evendim.md)** xuất hiện trong [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md) và [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)
 
 ## Trong *Middle-earth Role Playing* {#In_Middle-earth_Role_Playing}
 

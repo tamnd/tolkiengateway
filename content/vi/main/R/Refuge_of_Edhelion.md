@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Edhelion"
 ---
 
-Chuyển hướng tới [Edhelion](../E/Edhelion.md).
+Chuyển hướng đến [Edhelion](../E/Edhelion.md).

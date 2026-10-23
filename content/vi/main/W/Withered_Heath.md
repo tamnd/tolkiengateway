@@ -67,7 +67,7 @@ Trong bản thảo của *[The Hobbit](../T/The_Hobbit.md)*, Bladorthin (tiền 
 
 <dl><dd>The Withered Heath (Quenya <i>Sarch nia Linquelíë</i>) is a volcanic basin covering some 8,600 square miles, home to the Drakes of the Grey Mountains.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Withered_Heath.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/37/The_Lord_of_the_Rings_Online_-_Withered_Heath.jpg/250px-The_Lord_of_the_Rings_Online_-_Withered_Heath.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/37/The_Lord_of_the_Rings_Online_-_Withered_Heath.jpg/375px-The_Lord_of_the_Rings_Online_-_Withered_Heath.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/37/The_Lord_of_the_Rings_Online_-_Withered_Heath.jpg/500px-The_Lord_of_the_Rings_Online_-_Withered_Heath.jpg 2x" data-file-width="2560" data-file-height="1440"/></a><figcaption>The Withered Heath in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 

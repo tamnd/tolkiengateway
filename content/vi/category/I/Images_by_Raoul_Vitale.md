@@ -14,4 +14,4 @@ sort_keys:
   "Images by artist": "Vitale, Raoul"
 ---
 
-Danh mục này liệt kê tất cả **hình ảnh của [Raoul Vitale](../../main/R/Raoul_Vitale.md)**.
+Danh mục này liệt kê tất cả **hình ảnh theo [Raoul Vitale](../../main/R/Raoul_Vitale.md)**.

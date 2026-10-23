@@ -107,11 +107,11 @@ Trong những phiên bản đầu tiên, cuộc xung đột quanh Erebor kết t
 
 ## Khắc họa trong các bản chuyển thể {#Portrayal_in_adaptations}
 
-<b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (1967 film)</a>:</b>
+<b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim 1967)</a>:</b>
 
 <dl><dd>The battle is completely omitted. Bilbo kills the dragon, and returns home.<sup id="cite_ref-Deitch_12-0" class="reference"><a href="#cite_note-Deitch-12">[12]</a></sup></dd></dl>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (1977 film)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>The &#34;Five Armies&#34; are the Elves, the Men, the Dwarves, the Goblins (and <a href="../W/Wargs.md" title="Wargs">Wargs</a>) and the Eagles. Bilbo estimates the force of the Men and Elves on 10,000, but this may not be an accurate estimate. The number of Dwarves of <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a> to have died is seven, but only Thorin and <a href="Bombur.md" title="Bombur">Bombur</a> are named among the dead. Only <a href="../G/Glóin.md" title="Glóin">Glóin</a> is shown as having survived the battle.</dd></dl>
 

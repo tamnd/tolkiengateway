@@ -139,11 +139,11 @@ Mặc dù *Halbarad* không được đánh bóng, nhưng [David Salo](../D/Davi
 
 <dl><dd>Halbarad, a sage/diplomat hero character, is illustrated by <a href="../Q/Quinton_Hoover.md" title="Quinton Hoover">Quinton Hoover</a>.</dd></dl>
 
-<b>2001-7: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi đánh bài</a></i>:</b>
+<b>2001-7: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i>:</b>
 
 <dl><dd>Halbarad is portrayed by <a href="../W/Warren_Mahy.md" title="Warren Mahy">Warren Mahy</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Halbarad is in command of <a href="../E/Esteldín.md" title="Esteldín">Esteldín</a>, a hidden <a href="../D/Dúnedain.md" title="Dúnedain">Dúnedain</a> city in the <a href="../N/North_Downs.md" title="North Downs">North Downs</a>. After receiving orders from Elrond to seek out Aragorn in Rohan, Halbarad gathered a large company of Rangers to head south. After suffering short delays in Enedwaith, Halbarad managed to form an alliance of sorts with the Falcon Clan in Dunland. However, Halbarad and his company were soon betrayed and imprisoned by the Falcon Clan. Some of the Rangers with Halbarad managed to escape and soon the Grey Company was free, at the cost of many lives. By the time they reached the borders of Rohan, only 30 of their number remained. At the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a>, Halbarad sacrifices himself to protect Aragorn from being killed by <a class="mw-redirect mw-disambig" href="../G/Gothmog.md" title="Gothmog">Gothmog</a>.</dd></dl>
 

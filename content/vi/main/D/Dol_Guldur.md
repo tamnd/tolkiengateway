@@ -159,17 +159,17 @@ Trên [Bản đồ đầu tiên của The Lord of the Rings](../T/The_First_Map_
 
 ### Trò chơi {#Games}
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: War of the Ring</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: Cuộc chiến Nhẫn</a></i>:</b>
 
 <dl><dd>Dol Guldur makes appearance during both &#34;Good&#34; and &#34;Evil&#34; campaigns as a site of a major battleground.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
 <dl><dd>Dol Guldur is commanded by the <a href="../M/Mouth_of_Sauron.md" title="Mouth of Sauron">Mouth of Sauron</a>, not <a href="../K/Khamûl.md" title="Khamûl">Khamûl</a>. Dol Guldur (or Mordor itself) sent a huge army of Orcs, Haradrim, and Trolls to assault <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Erebor</a>. The attack fails, and the Mouth of Sauron is killed along with all the attacking force. Dol Guldur is then itself attacked by a combined army of Elves and Dwarves led by <a href="../E/Elrond.md" title="Elrond">Elrond</a>, <a href="../A/Arwen.md" title="Arwen">Arwen</a>, <a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a>, <a href="../G/Glóin.md" title="Glóin">Glóin</a>, and <a href="Dáin_Ironfoot.md" title="Dáin Ironfoot">Dáin Ironfoot</a>. After a long and hard struggle, the Elves and Dwarves finally overrun Dol Guldur and lay waste to the evil that dwelled there, ending Sauron&#39;s war campaign in the North once and for all.</dd></dl>
 
 <dl><dd>In the Evil Campaign, the Goblins from Dol Guldur eliminate the Elves and the Ents that guard the Forest Road in Mirkwood.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Dol Guldur is a central point in the game&#39;s second expansion, <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md" title="The Lord of the Rings Online: Siege of Mirkwood">The Lord of the Rings Online: Siege of Mirkwood</a></i>. In its storyline, Celeborn and Galadriel organize a military campaign against Dol Guldur while the Fellowship still resides in Lothlórien (not to be confused with the later battle during the War of the Ring). The announced goal is to sow chaos into Orc forces by destroying as many of their troops, weapons and supplies as possible, to delay an inevitable assault upon Lothlórien. The true purpose, however, is to distract the Eye of Sauron from the company departing down the shores of Anduin.</dd></dl>
 

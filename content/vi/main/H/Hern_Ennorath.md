@@ -31,7 +31,7 @@ Kể từ [2023](../_/2023.md), Hern Ennorath đã tổ chức Ozmoot, hội ngh
 Ozmoot trước đây:
 
 - Ozmoot [2023](../_/2023.md): Đại học Queensland, Brisbane
-- Ozmoot [2024](../_/2024.md): Tòa thị chính Cộng đồng Harold Park, Sydney
+- Ozmoot [2024](../_/2024.md): Tòa thị chính cộng đồng Harold Park, Sydney
 - Ozmoot [2025](../_/2025.md): Trung tâm khu dân cư Richmond, Melbourne
 - Ozmoot [2026](../_/2026.md): Trung tâm khu phố Holt, Canberra
 

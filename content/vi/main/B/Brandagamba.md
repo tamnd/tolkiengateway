@@ -25,7 +25,7 @@ Nó chứa thành phần *[branda](Branda.md)-* 'vùng biên giới' (ám chỉ 
 
 Nửa sau của từ ghép, <i>-<a class="new" href="https://tolkiengateway.net/w/index.php?title=Gamba&amp;action=edit&amp;redlink=1" title="Gamba (page does not exist)">gamba</a></i>, là sự tái xuất hiện từ tên cũ *[Zaragamba](../Z/Zaragamba.md)* (hoặc *[Oldbuck](../O/Oldbuck_Family.md)* trong bản dịch), theo nghĩa là một con nai đực hoặc một con cừu đực.
 
-Dòng sông Branda-nîn sau đó được gọi đùa là *[Bralda-hîm](Bralda-hîm.md)*, 'bia mạnh'. Theo Tolkien, "chỉ có một hobbit rất táo bạo mới dám gọi [Bậc thầy của Buckland](../M/Master_of_Buckland.md) *braldagamba* trong phiên điều trần của mình".<sup id="cite_ref-AppF_1-1" class="reference"><a href="#cite_note-AppF-1">[1]</a></sup>
+Dòng sông Branda-nîn sau đó được gọi đùa là *[Bralda-hîm](Bralda-hîm.md)*, 'bia mạnh'. Theo Tolkien, "chỉ có một hobbit rất táo bạo mới dám gọi [Chủ nhân của Buckland](../M/Master_of_Buckland.md) *braldagamba* trong thính giác của mình".<sup id="cite_ref-AppF_1-1" class="reference"><a href="#cite_note-AppF-1">[1]</a></sup>
 
 ### Lưu ý về dịch thuật {#Note_on_translation}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Headstrong Family"
 ---
 
-Chuyển hướng tới [Gia đình Headstrong](Headstrong_Family.md).
+Chuyển hướng đến [Gia đình Headstrong](Headstrong_Family.md).

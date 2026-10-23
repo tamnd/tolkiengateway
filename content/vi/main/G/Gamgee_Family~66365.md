@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gamgee family"
 ---
 
-Chuyển hướng đến [gia đình Gamgee](Gamgee_family.md).
+Chuyển hướng tới [gia đình Gamgee](Gamgee_family.md).

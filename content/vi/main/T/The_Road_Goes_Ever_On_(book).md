@@ -54,9 +54,9 @@ infobox:
 
 <i><b>The Road Goes Ever On: A Song Cycle</b></i> là một tập sách nhạc, thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), nhạc của [Donald Swann](../D/Donald_Swann.md).
 
-Ấn bản đầu tiên được xuất bản trong [1967](../_/1967.md), gồm sáu bài thơ từ *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và một bài từ *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)*. Trong cuốn sách có ghi chú và bản dịch của chính Tolkien trên hai văn bản Elvish: "[Namárië](../N/Namárië.md)" và "[A Elbereth Gilthoniel](../A/A_Elbereth_Gilthoniel.md)", do đó đây cũng là một tài liệu quan trọng về bảng thuật ngữ và truyền thuyết về [Elvish](../E/Elvish.md).
+Ấn bản đầu tiên được xuất bản trong [1967](../_/1967.md), gồm sáu bài thơ từ *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và một bài từ *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)*. Trong cuốn sách có ghi chú của chính Tolkien và bản dịch trên hai văn bản Elvish: "[Namárië](../N/Namárië.md)" và "[A Elbereth Gilthoniel](../A/A_Elbereth_Gilthoniel.md)", do đó đây cũng là một tài liệu quan trọng về bảng thuật ngữ và kiến ​​thức về [Elvish](../E/Elvish.md).
 
-Ấn bản thứ hai được phát hành vào năm [1978](../_/1978.md), bổ sung thêm "Bài hát cuối cùng của [Bilbo](../B/Bilbo's_Last_Song.md)"; trong lời tựa Swann kể lại những lần hợp tác với J.R.R. Tolkien; và tái bản lần thứ ba trong [2002](../_/2002.md), có thêm bài thơ "[Lúthien Tinúviel](../S/Song_of_Parting.md)" từ *[The Silmarillion](The_Silmarillion.md)*.
+Ấn bản thứ hai được phát hành vào năm [1978](../_/1978.md), bổ sung thêm "[Bilbo Bài hát cuối cùng](../B/Bilbo's_Last_Song.md)"; trong lời tựa Swann kể lại những lần hợp tác với J.R.R. Tolkien; và tái bản lần thứ ba trong [2002](../_/2002.md), bổ sung thêm bài thơ "[Lúthien Tinúviel](../S/Song_of_Parting.md)" từ *[The Silmarillion](The_Silmarillion.md)*.
 
 Ấn bản thứ ba, sau một thời gian dài hết bản in, cuối cùng đã được tái bản vào tháng Chín năm 2023 và đã có trở lại.
 
@@ -78,8 +78,8 @@ Cuốn sách chứa một trong những mẫu ngôn ngữ [Quenya](../Q/Quenya.m
 - 4\. [Ở vùng đất phương Tây](../I/In_Western_Lands_beneath_the_Sun.md)
 - 5\. [Namárië (Tạm biệt)](../N/Namárië.md)
 - 6\. [Tôi ngồi bên đống lửa](../I/I_Sit_beside_the_Fire_and_Think.md)
-- 7\. [Lỗi](../E/Errantry.md)
-- 8\. Bài hát cuối cùng của [Bilbo](<../B/Bilbo's_Last_Song_(at_the_Grey_Havens).md>)
+- 7\. [Errantry](../E/Errantry.md)
+- 8\. [Bilbo Bài hát cuối cùng](<../B/Bilbo's_Last_Song_(at_the_Grey_Havens).md>)
 
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Notes_and_Translations&amp;action=edit&amp;redlink=1" title="Notes and Translations (page does not exist)">Ghi chú và bản dịch</a></i>
 
@@ -118,7 +118,7 @@ Một đĩa CD được phát hành với ấn bản thứ ba, bao gồm tập b
 		</li>
 </ul>
 
-- [George Allen và Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1968](../_/1968.md)), trang 80. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0047840099">ISBN 0047840099</a>
+- [George Allen và Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1968](../_/1968.md)), trang 80. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0047840099">ISBN 0047840099</a>
 - [George Allen và Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1978](../_/1978.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0047840110">ISBN 0047840110</a>
 - [HarperCollins](../H/HarperCollins.md), bìa cứng ([2002](../_/2002.md)), trang 96. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007136552">ISBN 0007136552</a>
 

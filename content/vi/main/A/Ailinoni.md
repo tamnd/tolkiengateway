@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ailinónë"
 ---
 
-Chuyển hướng đến [Ailinónë](Ailinónë.md).
+Chuyển hướng tới [Ailinónë](Ailinónë.md).

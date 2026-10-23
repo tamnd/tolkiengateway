@@ -94,7 +94,7 @@ Julian Boyce/Stephen Wells/Jasey Hall/George Newton-Fitzgerald
 
 14\. Tới Biển \[03:21\]
 
-15\. Dưới trăng sao anh lang thang thật xa \[03:24\]
+15\. Dưới trăng sao anh lang thang xa xôi \[03:24\]
 
 16\. Cảnh thứ năm: Một Silmaril Fëanor vẫn cháy trong rừng Nimbrethil \[01:22\]
 
@@ -126,7 +126,7 @@ Julian Boyce/Stephen Wells/Jasey Hall/George Newton-Fitzgerald
 
 11\. Cảnh 8: Hãy trả lại những viên ngọc Fëanor cha chúng ta đã làm ra \[08:00\]
 
-12\. Thế là Silmaril đã tìm được ngôi nhà dài của mình \[01:50\]
+12\. Vì vậy, mọi chuyện đã xảy ra khi Silmaril tìm thấy ngôi nhà dài của họ \[01:50\]
 
 13\. Cảnh Chín: Đoạn kết \[00:55\]
 

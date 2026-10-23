@@ -76,4 +76,4 @@ Sự kiện xảy ra vào ngày 10 tháng 2.
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
-    - Bắc [Sarn Gebir](../S/Sarn_Gebir.md), [Uglúk](../U/Uglúk.md) chạm trán [Grishnákh](../G/Grishnákh.md) lần đầu tiên.
+    - Phía bắc [Sarn Gebir](../S/Sarn_Gebir.md), [Uglúk](../U/Uglúk.md) chạm trán [Grishnákh](../G/Grishnákh.md) lần đầu tiên.

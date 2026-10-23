@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Alalminórë"
 ---
 
-Chuyển hướng đến [Alalminórë](Alalminórë.md).
+Chuyển hướng tới [Alalminórë](Alalminórë.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ingil"
 ---
 
-Chuyển hướng tới [Ingil](Ingil.md).
+Chuyển hướng đến [Ingil](Ingil.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ungwë"
 ---
 
-Chuyển hướng đến [Ungwë](Ungwë.md).
+Chuyển hướng tới [Ungwë](Ungwë.md).

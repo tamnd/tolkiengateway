@@ -16,7 +16,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Teak&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
-**Teak** là loại cây xuất hiện trong [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md) và [The Lord of the Rings Trực tuyến](The_Lord_of_the_Rings_Online.md).
+**Teak** là loại cây xuất hiện ở [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md) và [The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md).
 
 ## Trong *Middle-earth Role Playing* {#In_Middle-earth_Role_Playing}
 

@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ảnh chụp màn hình Sảnh thứ 21 trong Chúa Tể Những Chiếc Nhẫn Online
+Ảnh chụp màn hình Sảnh thứ 21 trong Chúa tể những chiếc nhẫn trực tuyến
 
 ## Giấy phép {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Alan Lee - Bombur slept on with a smile on his fat face.jpg"
 ---
 
-Chuyển hướng tới [Tệp:Alan Lee - Bombur ngủ tiếp với nụ cười trên khuôn mặt béo.jpg](Alan_Lee_-_Bombur_slept_on_with_a_smile_on_his_fat_face.jpg.md).
+Chuyển hướng đến [Tệp:Alan Lee - Bombur ngủ tiếp với nụ cười trên khuôn mặt béo.jpg](Alan_Lee_-_Bombur_slept_on_with_a_smile_on_his_fat_face.jpg.md).

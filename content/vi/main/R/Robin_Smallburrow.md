@@ -54,7 +54,7 @@ infobox:
 
 Sinh ra và lớn lên ở [Hobbiton](../H/Hobbiton.md), Robin là bạn cũ của [Gamgees](../G/Gamgee_Family~66365.md). Anh ấy thích hoạt động ngoài trời và trở thành [Cảnh sát trưởng](../S/Shirriff.md) để có thể gặp gỡ những người mới (và quan trọng không kém là các quán trọ).<sup id="cite_ref-Scouring_1-0" class="reference"><a href="#cite_note-Scouring-1">[1]</a></sup>
 
-Ban đầu là một trong mười hai người duy nhất<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> dưới triều đại của [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md), Robin nhận thấy mình đã vượt quá giới hạn của mình. Anh ta được bổ nhiệm lại vào [Đội quân Eastfarthing đầu tiên](../F/First_Eastfarthing_Troop.md) ở [Frogmorton](../F/Frogmorton.md), được giao nhiệm vụ thực thi [Quy tắc](../T/The_Rules.md).
+Ban đầu là một trong mười hai người duy nhất<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> dưới triều đại của [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md), Robin nhận ra mình đã vượt quá giới hạn của mình. Anh ta được bổ nhiệm lại vào [Đội quân Eastfarthing đầu tiên](../F/First_Eastfarthing_Troop.md) ở [Frogmorton](../F/Frogmorton.md), được giao nhiệm vụ thực thi [Quy tắc](../T/The_Rules.md).
 
 Robin là một trong những Cảnh sát trưởng được phái đến để bắt giữ [bốn Hobbit](../T/Travellers.md) những người đã xâm nhập trái phép vào Shire tại [Cầu Brandywine](../B/Brandywine_Bridge.md). Đó giống một cuộc hộ tống hơn là một cuộc bắt giữ, vì Robin và quân của anh ấy đi bộ và bốn Hobbit có ngựa con. Tại [Hòn đá ba rắm](../T/Three-Farthing_Stone.md), Cảnh sát trưởng đã bỏ cuộc và để tù nhân của họ tiếp tục mà không có họ.<sup id="cite_ref-Scouring_1-1" class="reference"><a href="#cite_note-Scouring-1">[1]</a></sup> Không rõ liệu anh ta có nằm trong số Cảnh sát trưởng tham gia cuộc nổi dậy hay không.
 
@@ -103,11 +103,11 @@ Cái tên "Smallburrow" có thể ám chỉ Robin xuất thân từ một gia đ
 
 <dl><dd>Robin Smallburrow can be found at the <a class="mw-redirect" href="../G/Green_Dragon~72852.md" title="Green Dragon">Green Dragon</a>, voiced by an uncredited <a href="../J/James_Arnold_Taylor.md" title="James Arnold Taylor">James Arnold Taylor</a>. <a href="../L/Lobelia_Sackville-Baggins.md" title="Lobelia Sackville-Baggins">Lobelia Sackville-Baggins</a> orders <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a> to ring the town bell to warn Robin that wolves are in the Shire, which Robin will dismiss as being a rumour. Later at night, he is attacked by a wolf on the streets of <a href="../B/Bywater.md" title="Bywater">Bywater</a>. Frodo can either let the wolf kill him, or save him to increase his Purity meter.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi đánh bài</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i>:</b>
 
 <dl><dd>Despite not featuring in <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> film series</a>, Decipher produced a card depicting the character. He was played by <a href="../T/Timothy_Bartlett.md" title="Timothy Bartlett">Timothy Bartlett</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Shirriff Robin Smallburrow is found at <i><a href="../T/The_Ivy_Bush.md" title="The Ivy Bush">The Ivy Bush</a></i> tavern in <a href="../H/Hobbiton.md" title="Hobbiton">Hobbiton</a>. He helps the player to deal with a problem in <a href="../O/Overhill.md" title="Overhill">Overhill</a> and is also involved in several seasonal festivals.</dd></dl>
 

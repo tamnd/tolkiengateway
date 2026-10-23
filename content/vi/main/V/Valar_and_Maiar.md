@@ -41,7 +41,7 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-*"...Nhưng không phải lũ troll đã khiến Tiên khiếp sợ. Hàng ngũ lũ orc đã mở ra, và chúng chen chúc nhau bỏ đi, như thể chính chúng đang sợ hãi. Có thứ gì đó đang tiến đến phía sau chúng. Không thể nhìn thấy thứ đó: nó giống như một cái bóng lớn, ở giữa đó là một hình thể đen tối, có lẽ có hình dạng con người, nhưng lớn hơn; và dường như có một sức mạnh và nỗi kinh hoàng ở trong đó và đi trước nó."* - The Fellowship of the Ring
+*"...Nhưng không phải lũ troll đã khiến Tiên khiếp sợ. Hàng ngũ lũ orc đã mở ra, và chúng chen chúc nhau bỏ đi, như thể chính chúng đang sợ hãi. Có thứ gì đó đang tiến đến phía sau chúng. Không thể nhìn thấy thứ đó: nó giống như một cái bóng to lớn, ở giữa đó là một hình thù đen tối, có lẽ có hình dạng con người, nhưng lớn hơn; và dường như có một sức mạnh và nỗi kinh hoàng ở trong đó và đi trước nó."* - The Fellowship of the Ring
 
 Hãy tưởng tượng, sau khi nghe tất cả những truyền thuyết khủng khiếp, cuối cùng phải đối mặt với một linh hồn đáng sợ sinh ra từ Ác ma vĩ đại của Ngày xưa, một con quỷ bất tử thức dậy từ giấc ngủ nguyên thủy của mình. Hãy tưởng tượng bạn gặp một Balrog.
 

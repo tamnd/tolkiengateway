@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to John Leyerle"
 ---
 
-Chuyển hướng tới [Thư gửi John Leyerle](../L/Letter_to_John_Leyerle.md).
+Chuyển hướng đến [Thư gửi John Leyerle](../L/Letter_to_John_Leyerle.md).

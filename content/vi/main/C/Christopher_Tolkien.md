@@ -235,7 +235,7 @@ Người vợ thứ hai của Christopher là [Baillie](../B/Baillie_Tolkien.md)
 
 ### Điện ảnh {#Filmography}
 
-- [1996](../_/1996.md): [J.R.R.T.: A Film Portrait of J.R.R. Tolkien](../J/J.R.R.T.%253A_A_Film_Portrait_of_J.R.R._Tolkien.md)
+- [1996](../_/1996.md): [J.R.R.T.: Phim Chân dung J.R.R. Tolkien](../J/J.R.R.T.%253A_A_Film_Portrait_of_J.R.R._Tolkien.md)
 
 ### Khác {#Other}
 

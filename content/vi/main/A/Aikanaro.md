@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aegnor"
 ---
 
-Chuyển hướng tới [Aegnor](Aegnor.md).
+Chuyển hướng đến [Aegnor](Aegnor.md).

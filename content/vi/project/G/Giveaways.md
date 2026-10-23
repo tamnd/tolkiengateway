@@ -31,14 +31,14 @@ categories:
 
 ## <strike>Tháng 6 năm 2023</strike> {#June_2023}
 
-- **Giải thưởng:** Bạn chọn bất kỳ Trung Địa bản in nào từ <a class="external text" href="https://donatoarts.com/online-store/secure-store/Middle-earth-c34110463" rel="noreferrer noopener" target="_blank">cửa hàng của Donato Giancola</a> (bao gồm các bản in có chữ ký và đánh số!)
+- **Giải thưởng:** Bạn chọn bất kỳ bản in Trung Địa nào từ cửa hàng của <a class="external text" href="https://donatoarts.com/online-store/secure-store/Middle-earth-c34110463" rel="noreferrer noopener" target="_blank">Donato Giancola</a> (bao gồm các bản in có chữ ký và đánh số!)
 - **Cách tham gia:** đóng góp ít nhất một chỉnh sửa cho [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) trong tháng 6, [2023](../../main/_/2023.md). Một người chiến thắng ngẫu nhiên sẽ được chọn vào cuối tháng.
 - **Quy tắc:** Tạo nhiều tài khoản hoặc gửi các chỉnh sửa không có giá trị sẽ dẫn đến việc bị loại.
 - Người chiến thắng sẽ được công bố trước [ngày 5 tháng 7](../../main/J/July_5.md) năm 2023 và họ sẽ được liên hệ qua e-mail. Nếu chúng tôi không thể tìm được người chiến thắng trước ngày 31 tháng 7, người chiến thắng khác sẽ được chọn.
 
 ### Mục {#Entries}
 
-Aenorean Airyn Akhorahil Cùngexpectedsoundscape Mơ hồGrammar Angol Ar-Zigûr Ayapo Bard Cadarn Brightgalrs Chen Geller Hội đồng of the Rings Dausuul DerUnterstrich Derp MaGerp Dingolthron Earthshine Eastfarth Ed8r Emyn Duir Fenrir71 Fornad01 GandalftheGraeme GondolinFan Grace18 Bàn tay của a người chữa lành Headrock Hyarion JR Snow Jennifer Morris Joaquiego Jtauber KingMyrddin Kyrmse Leongut Lorehouse LorenzoCB LunarWolfBlue Malachi MallornTea Maria Lombide MikeyofGondor25 MimEnjoyer Mith Mjpwolf Mord Ms sho64 Mythago Nightkite Noone Oberiko Olwe Oromë Otaku-sempai Pdisante Pleistocene88 ProjetoTolkien Quirinius Rabdel Rookster SCB74656 Sage Samarqand Hát tối thứ bảyOrc Sm8900 Sodanomat Sthynir Tarkil The Zahir Thebadgamer98 Tik Trahald Undercat WieldableMars0 Zeallsh
+Aenorean Airyn Akhorahil Cùngexpectedsoundscape Mơ hồGrammar Angol Ar-Zigûr Ayapo Bard Cadarn Brightgalrs Chen Geller Hội đồng of the Rings Dausuul DerUnterstrich Derp MaGerp Dingolthron Earthshine Eastfarth Ed8r Emyn Duir Fenrir71 Fornad01 GandalftheGraeme GondolinFan Grace18 Bàn tay của a người chữa lành Headrock Hyarion JR Snow Jennifer Morris Joaquiego Jtauber KingMyrddin Kyrmse Leongut Lorehouse LorenzoCB LunarWolfBlue Malachi MallornTea Maria Lombide MikeyofGondor25 MimEnjoyer Mith Mjpwolf Mord Ms sho64 Mythago Nightkite Noone Oberiko Olwe Oromë Otaku-sempai Pdisante Pleistocene88 ProjetoTolkien Quirinius Rabdel Rookster SCB74656 Sage Samarqand Saturdaynight SingingOrc Sm8900 Sodanomat Sthynir Tarkil The Zahir Thebadgamer98 Tik Trahald Undercat WieldableMars0 Zeallsh
 
 ### Người chiến thắng ngẫu nhiên {#Random_Winner}
 

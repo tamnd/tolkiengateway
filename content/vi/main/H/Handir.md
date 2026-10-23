@@ -69,11 +69,11 @@ Xung quanh [F.A.](../F/First_Age.md) [485](../F/First_Age_485.md) một nhóm l�
 
 Bắt đầu từ [490](../F/First_Age_490.md) Các Tiên tộc Nargothrond, dưới sự lãnh đạo của [Túrin](../T/Túrin.md), đã công khai chiến đấu và đánh đuổi Orc ra khỏi [Tây Beleriand](../W/West_Beleriand.md); tuy nhiên, khi làm như vậy, họ đã bộc lộ bản thân trước cơn thịnh nộ của [Morgoth](../M/Morgoth.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Vào mùa xuân năm [495](../F/First_Age_495.md),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Orc đã xâm chiếm vùng đất Handir để bảo vệ các Đường giao nhau của Teiglin nhằm chuẩn bị cho một cuộc tấn công chống lại Nargothrond.<sup id="cite_ref-ch11_7-0" class="reference"><a href="#cite_note-ch11-7">[7]</a></sup> Handir đã giao chiến với họ, nhưng anh ta đã bị giết và người dân của anh ta bị đẩy lùi vào vùng đất trong rừng.<sup id="cite_ref-ch11_7-1" class="reference"><a href="#cite_note-ch11-7">[7]</a></sup> Orc không truy đuổi họ và tiếp tục tập trung sức mạnh cho đến khi [tấn công Nargothrond vào mùa thu năm đó](../B/Battle_of_Tumhalad.md).<sup id="cite_ref-ch11_7-2" class="reference"><a href="#cite_note-ch11-7">[7]</a></sup>
 
-Với cái chết của Handir, con trai ông là Brandir trở thành thủ lĩnh tiếp theo.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Với cái chết của Handir, con trai ông Brandir trở thành thủ lĩnh tiếp theo.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 ## Gia đình {#Family}
 
-Handir là con trai của [Haldir](<Haldir_(Chieftain_of_the_Haladin).md>) và [Glóredhel](../G/Glóredhel.md), và do đó là anh em họ đầu tiên của [Húrin](Húrin.md) và [Huor](Huor.md). Ông kết hôn với [Beldis](../B/Beldis.md) của [Nhà Bëor](House_of_Bëor.md)và là cha của Brandir Què.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Handir là con trai của [Haldir](<Haldir_(Chieftain_of_the_Haladin).md>) và [Glóredhel](../G/Glóredhel.md), và do đó là anh em họ đầu tiên của [Húrin](Húrin.md) và [Huor](Huor.md). Ông kết hôn với [Beldis](../B/Beldis.md) của [Nhà Bëor](House_of_Bëor.md)và là cha của Brandir Kẻ què.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 Beldis được đưa vào truyền thuyết muộn và già hơn đáng kể so với Haldir; trong khi Handir sinh năm [441](../F/First_Age_441.md), Beldis được tuyên bố là sinh năm [411](../F/First_Age_411.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> [Christopher Tolkien](../C/Christopher_Tolkien.md) không đưa ra bình luận về khoảng cách tuổi tác cũng như việc Beldis dường như trở thành mẹ của Brandir (sinh [465](../F/First_Age_465.md)) ở tuổi 54.
 

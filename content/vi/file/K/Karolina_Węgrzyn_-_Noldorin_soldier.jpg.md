@@ -32,7 +32,7 @@ Màn đêm buông xuống. [Aman](../../main/A/Aman.md) bị bóng tối bao ph�
 
 <b><a class="external text" href="http://sirielle.deviantart.com/art/Nightfall-in-19136132" rel="noreferrer noopener" target="_blank">Phiên bản hoạt hình của hình ảnh này</a></b>, có thêm *presss release*, Precious của tôi.
 
-Nghệ thuật © Karolina Węgrzyn <a class="external free" href="http://www.sirielle.com/" rel="noreferrer noopener" target="_blank">http://www.sirielle.com/</a> Được nghệ sĩ tải lên. Không sử dụng nó bên ngoài Tolkien Gateway mà không có sự cho phép của nghệ sĩ.
+Art © Karolina Węgrzyn <a class="external free" href="http://www.sirielle.com/" rel="noreferrer noopener" target="_blank">http://www.sirielle.com/</a> Được nghệ sĩ tải lên. Không sử dụng nó bên ngoài Tolkien Gateway mà không có sự cho phép của nghệ sĩ.
 
 ## Giấy phép {#Licensing}
 

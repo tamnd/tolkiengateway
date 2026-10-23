@@ -67,7 +67,7 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
 - Giải pháp cho vấn đề [Tom Bombadil](../T/Tom_Bombadil.md)
     - Bởi: O.V. Nance
 - Ngày ghi nhật ký của bạn
-- Tác phẩm nghệ thuật: Không có tiêu đề ( [Troll](../T/Troll.md) và Vợ Troll)
+- Tác phẩm nghệ thuật: Không có tiêu đề ( [Quỷ lùn](../T/Troll.md) và Vợ quỷ lùn)
     - Bởi: Jef Murray
 - Bài thơ: *Algae's Song*
     - Bởi: Ẩn danh I của Dorset
@@ -79,7 +79,7 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
     - Bởi: [Jill Thwaites](../J/Jill_Thwaites.md)
 - Sự thoải mái của Nữ hoàng [Arwen](Arwen.md)Phần thứ hai
     - Bởi: Dena Hunt
-- với tác phẩm nghệ thuật ("Tôi nhìn chiếc áo choàng nâu của anh ấy biến mất giữa những tán cây...)
+- với tác phẩm nghệ thuật ("Tôi nhìn chiếc áo choàng màu nâu của anh ấy biến mất giữa những tán cây...)
 - và ("Cô ấy ngồi... và tôi ngồi với cô ấy.")
     - Bởi: Jef Murray
 - Đánh giá: *Chosen Destinies*

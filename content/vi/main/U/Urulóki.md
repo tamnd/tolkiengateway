@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Urulókë"
 ---
 
-Chuyển hướng tới [Urulókë](Urulókë.md).
+Chuyển hướng đến [Urulókë](Urulókë.md).

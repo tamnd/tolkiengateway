@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oldbuck Family"
 ---
 
-Chuyển hướng tới [Gia đình Oldbuck](Oldbuck_Family.md).
+Chuyển hướng đến [Gia đình Oldbuck](Oldbuck_Family.md).

@@ -24,7 +24,7 @@ Nhiệm vụ của Nguyên soái thứ ba, giống như nhiệm vụ của [Nguy
 
 ## Trong Cuộc chiến Nhẫn {#During_the_War_of_the_Ring}
 
-Trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Vua [Théoden](Théoden.md) nằm dưới quyền lực của [Saruman](../S/Saruman.md)và ảnh hưởng của [Grima Wormtongue](../G/Gríma.md), người đã ra lệnh cho Vua qua giọng nói của người này. Vào thời điểm này và trong Cuộc chiến Nhẫn, Nguyên soái thứ ba là [Éomer](../_/Éomer.md), con trai của [Éomund](../_/Éomund.md) (cũng là Nguyên soái) và là cháu trai của Vua Théoden.  Cơ sở hoạt động của Éomer là ở [Aldburg](../A/Aldburg.md) ở [Folde](../F/Folde.md).
+Trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Vua [Théoden](Théoden.md) nằm dưới quyền lực của [Saruman](../S/Saruman.md)và ảnh hưởng của [Grima Wormtongue](../G/Gríma.md), người đã ra lệnh cho Vua qua giọng nói của người này. Vào thời điểm này và trong Cuộc chiến Nhẫn, Nguyên soái thứ ba là [Éomer](../_/Éomer.md), con trai của [Éomund](../_/Éomund.md) (đồng thời là Thống chế) và là cháu trai của Vua Théoden.  Cơ sở hoạt động của Éomer là ở [Aldburg](../A/Aldburg.md) ở [Folde](../F/Folde.md).
 
 Sau khi Théodred bị giết và Vua Théoden đã lấy lại được sức khỏe, Éomer thực sự đã trở thành Thống chế đầu tiên của Riddermark, mặc dù không chính thức nhận danh hiệu đó. [Erkenbrand](../E/Erkenbrand.md) nắm quyền chỉ huy Western Muster.  Tại Full Muster trước [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), [Grimbold](../G/Grimbold.md) đã nắm quyền chỉ huy Muster của West-mark, tuy nhiên danh hiệu Nguyên soái thứ ba không được trao.  Grombold bị giết trong Trận cánh đồng Pelennor.
 

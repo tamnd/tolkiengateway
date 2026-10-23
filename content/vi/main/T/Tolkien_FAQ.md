@@ -40,7 +40,7 @@ Kể từ phiên bản cuối cùng (1996) của Câu hỏi thường gặp, m�
 
 ## Di sản {#Legacy}
 
-Vào cuối những năm 1990, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Steuard_Jensen&amp;action=edit&amp;redlink=1" title="Steuard Jensen (page does not exist)">Steuard Jensen</a>, đã tạo ra "Câu hỏi thường gặp về nhóm tin" trong đó có các câu hỏi, gợi ý và hướng dẫn liên quan đến tư cách thành viên và hành vi trong các nhóm mới của Usenet rec.arts.books.tolkien và alt.fan.tolkien. Phần thứ ba chứa cả hai phần của Câu hỏi thường gặp và được mở rộng bằng phần thứ ba mới có tiêu đề "Những cuộc tranh luận lớn"; phần mới này tóm tắt các chủ đề thảo luận nóng thường gặp và các giải pháp khả thi cho các cuộc tranh cãi.
+Vào cuối những năm 1990, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Steuard_Jensen&amp;action=edit&amp;redlink=1" title="Steuard Jensen (page does not exist)">Steuard Jensen</a>, đã tạo ra "Câu hỏi thường gặp về nhóm tin" trong đó có các câu hỏi, gợi ý và hướng dẫn liên quan đến tư cách thành viên và hành vi trong các nhóm mới của Usenet rec.arts.books.tolkien và alt.fan.tolkien. Phần thứ ba chứa cả hai phần của Câu hỏi thường gặp và được mở rộng bằng phần thứ ba mới có tiêu đề "Cuộc tranh luận lớn"; phần mới này tóm tắt các chủ đề thảo luận nóng thường gặp và các giải pháp khả thi cho các cuộc tranh cãi.
 
 Kể từ [2009](../_/2009.md), Câu hỏi thường gặp về Nhóm tin vẫn được mở rộng, duy trì và cập nhật và hiện có cấu trúc khác. <span></span>
 

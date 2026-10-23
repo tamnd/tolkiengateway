@@ -68,7 +68,7 @@ Nguồn gốc của - [Treebeard](../T/Treebeard.md)là từ truyền thống ch
     - Bởi: Tony Steele
 - Đạo đức lãnh đạo quân sự ở Tolkien của JRR *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*
     - Bởi: [Janet Brennan Croft](../J/Janet_Brennan_Croft.md)
-- Các góc nhìn về hiện thực trong *Lord of the Rings*
+- Những góc nhìn về hiện thực trong *Lord of the Rings*
     - Bởi: Gerado Barajos Garrido
 - Giới thiệu về các tác giả
 - Nghệ thuật bên trong

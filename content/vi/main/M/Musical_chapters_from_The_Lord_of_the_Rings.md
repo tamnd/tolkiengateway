@@ -30,7 +30,7 @@ images:
     - "Tom Bombadil" - 38 phút
     - "The Prancing Pony" - 25 phút
     - "Chuyến bay tới chiếc Ford" - 30 phút
-- **"Phần 2: Chiếc nhẫn tiến về phương Nam"**
+- **"Phần 2: Nhẫn Tiến về phía Nam"**
     - "The Hội đồng Elrond" - 54 phút
     - "Tạm biệt Rivendell" - 23 phút
     - "Hành trình trong bóng tối" - 23 phút
@@ -39,20 +39,20 @@ images:
 - **"Phần 3: The Treason of Isengard"**
     - "Đồng bằng và rừng" - 33 phút
     - "Những tay đua của Rohan" - 32 phút
-    - "The Vua của Sảnh Vàng" - 31 phút
+    - "The Vua Sảnh Vàng" - 31 phút
     - "Hành trình tới Isengard" - 34 phút
     - "Tiếng nói của Saruman" - 29 phút
-- **"Phần 4: Chiếc nhẫn đi phương Đông"**
+- **"Phần 4: Nhẫn Đi phương Đông"**
     - " Cổng Đen đã đóng" - 37 phút
     - "Cửa sổ trên Phương Tây" - 39 phút
     - "Cirith Ungol" - 36 phút
-- **"Phần 5: Cuộc chiến Nhẫn"**
+- **"Phần 5: The War of the Ring"**
     - "Minas Tirith" - 22 phút
     - "Sự ra đi của Công ty Xám" - 32 phút
     - "The Cuộc vây hãm Gondor" - 26 phút
     - "cánh đồng Pelennor" - 29 phút
-    - "Ngôi nhà chữa bệnh" - 35 phút
-    - " Cổng Đen Mở" - 13 phút
+    - "Ngôi nhà chữa lành" - 35 phút
+    - "The Cổng Đen Mở" - 13 phút
 - **"Phần 6: Cái kết của Kỷ Đệ Tam"**
     - "Núi Doom" - 45 phút
     - "The Cánh đồng Cormallen" - 26 phút

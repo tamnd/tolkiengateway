@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Trong cuộc phỏng vấn do [Hiệp hội người hâm mộ](../../main/F/Fellowship_of_Fans.md) tổ chức, [Wayne Che Yip](../../main/W/Wayne_Che_Yip.md), đạo diễn tập của *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*, đã trình bày chi tiết về một số tài liệu tham khảo về trứng Phục sinh đến [Tuor](../../main/T/Tuor.md) và [Gondolin](../../main/G/Gondolin.md) trong hội thảo của [Celebrimbor](../../main/C/Celebrimbor.md) ở [Thành phố của Tiên-thợ rèn](../../main/O/Ost-in-Edhil.md) và Tháp của <a class="new" href="https://tolkiengateway.net/w/index.php?title=King%27s_house&amp;action=edit&amp;redlink=1" title="King&#39;s house (page does not exist)">Vua</a> ở [Armenelos](../../main/A/Armenelos.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong cuộc phỏng vấn do [Hiệp hội người hâm mộ](../../main/F/Fellowship_of_Fans.md) tổ chức, [Wayne Che Yip](../../main/W/Wayne_Che_Yip.md), đạo diễn tập phim về *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*, đã trình bày chi tiết về một số tài liệu tham khảo về trứng Phục sinh đến [Tuor](../../main/T/Tuor.md) và [Gondolin](../../main/G/Gondolin.md) trong hội thảo của [Celebrimbor](../../main/C/Celebrimbor.md) ở [Thành phố của Tiên-thợ rèn](../../main/O/Ost-in-Edhil.md) và Tháp của <a class="new" href="https://tolkiengateway.net/w/index.php?title=King%27s_house&amp;action=edit&amp;redlink=1" title="King&#39;s house (page does not exist)">Vua</a> ở [Armenelos](../../main/A/Armenelos.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Giấy phép {#Licensing}
 

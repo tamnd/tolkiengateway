@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fanuidhol"
 ---
 
-Chuyển hướng đến [Fanuidhol](../F/Fanuidhol.md).
+Chuyển hướng tới [Fanuidhol](../F/Fanuidhol.md).

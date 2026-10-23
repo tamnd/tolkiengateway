@@ -27,7 +27,7 @@ Bản giao hưởng gồm năm chương:<sup id="cite_ref-2" class="reference"><
 - II. Lothlórien (Rừng Yêu Tinh)
 - III. Gollum (Sméagol)
 - IV. Hành trình trong bóng tối
-    - a. Các mỏ Moria
+    - a. Mỏ của Moria
     - b. Cầu Khazad-Dûm
 - V. Hobbits
 

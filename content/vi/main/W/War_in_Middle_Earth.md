@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien's War in Middle Earth"
 ---
 
-Chuyển hướng đến Cuộc chiến của [J.R.R. Tolkien ở Trung Địa](../J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
+Chuyển hướng đến [J.R.R. Tolkien ở Trung Địa](../J/J.R.R._Tolkien's_War_in_Middle_Earth.md).

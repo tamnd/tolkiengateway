@@ -58,7 +58,7 @@ Các thùng Lá Longbottom được [Saruman](../S/Saruman.md) cất giữ ở [
 
 <dl><dd>In  <a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">the extended edition</a>&#39;s <a href="../F/Flotsam_and_Jetsam_(scene).md" title="Flotsam and Jetsam (scene)">Flotsam and Jetsam</a> scene, <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> and <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> raid <a href="../S/Saruman.md" title="Saruman">Saruman</a>&#39;s Storeroom in <a href="../I/Isengard.md" title="Isengard">Isengard</a> following the <a href="../B/Battle_of_Isengard.md" title="Battle of Isengard">Last March of the Ents</a>. They discover barrels of Longbottom Leaf and debate whether to share it with <a href="../T/Treebeard.md" title="Treebeard">Treebeard</a>. Eventually they decide to keep it for themselves, mischievously citing the idea that it could be a &#39;distant relative&#39; of his.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The smoke from Longbottom Leaf takes the form of a horizontal smoke ring that appears behind the character&#39;s head. This effect appears to be broken or bugged. From the front, only the default cloud of thick smoke can be seen.</dd></dl>
 

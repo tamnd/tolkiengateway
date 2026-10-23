@@ -21,7 +21,7 @@ Vào ngày [7 tháng Chín](../_/7_September.md) [1937](../_/1937.md), [J.R.R. T
 
 ## Trích {#Excerpt}
 
-*"\[Wilfred Rowland Childe\] đặc biệt quan tâm đến yêu tinh và các sinh vật liên quan. Anh ấy (dù sao đi nữa) là một nhà thơ khá nổi tiếng và vẫn là một nhà thơ giỏi; đồng thời có quan hệ mật thiết với nhiều nhóm văn học và báo chí cũng như dân gian, đặc biệt là ở miền Bắc. Anh ấy có thể sẽ làm gì đó nếu có được một bản sao. Anh ấy đã xem \[bản thảo\] và rất có thiện ý"* <span></span>
+*"\[Wilfred Rowland Childe\] đặc biệt quan tâm đến yêu tinh và các sinh vật liên quan. Anh ấy (dù sao đi nữa) là một nhà thơ khá nổi tiếng và vẫn là một nhà thơ giỏi; đồng thời có quan hệ mật thiết với nhiều nhóm văn học và báo chí cũng như dân gian, đặc biệt là ở miền Bắc. Anh ấy có thể sẽ làm gì đó nếu có được một bản sao. Anh ấy đã xem \[bản thảo\] và rất có thiện chí"* <span></span>
 
 ## Tài liệu tham khảo {#References}
 

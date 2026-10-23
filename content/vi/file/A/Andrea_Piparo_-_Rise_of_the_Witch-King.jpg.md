@@ -31,7 +31,7 @@ file:
 
 "Sự trỗi dậy của [Witch-Vua](../../main/W/Witch-king.md)" - Tác phẩm nghệ thuật của [Andrea Piparo](../../category/I/Images_by_Andrea_Piparo.md) cho *[The Lord of the Rings: Tales of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md)*
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Andrea Piparo</span></span>
 <p>This work is copyrighted and owned by Andrea Piparo and Ares Games for the War of the Ring - the card game. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:

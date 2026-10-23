@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Hobbit (2003) Balfor Baruk-Khazâd.jpg"
 ---
 
-Chuyển hướng tới [Tệp:The Hobbit (2003) Balfor Baruk-Khazâd.jpg](<The_Hobbit_(2003)_Balfor_Baruk-Khazâd.jpg.md>).
+Chuyển hướng đến [Tệp:The Hobbit (2003) Balfor Baruk-Khazâd.jpg](<The_Hobbit_(2003)_Balfor_Baruk-Khazâd.jpg.md>).

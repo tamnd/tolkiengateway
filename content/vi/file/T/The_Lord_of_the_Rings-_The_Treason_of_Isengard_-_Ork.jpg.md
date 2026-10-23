@@ -24,7 +24,7 @@ file:
   user: "Amroth"
 ---
 
-Bản vẽ ý tưởng về một [orc](../../main/O/Orcs.md) cho [The Lord of the Rings: The Treason of Isengard](../../main/T/The_Lord_of_the_Rings%253A_The_Treason_of_Isengard.md).
+Ý tưởng nghệ thuật về một [orc](../../main/O/Orcs.md) cho [The Lord of the Rings: The Treason of Isengard](../../main/T/The_Lord_of_the_Rings%253A_The_Treason_of_Isengard.md).
 
 \== Cấp phép ==
 

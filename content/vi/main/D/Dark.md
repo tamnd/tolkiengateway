@@ -64,7 +64,7 @@ Có thể<sup id="cite_ref-collectedpoems_2-4" class="reference"><a href="#cite_
 
 Vào [25 tháng 3](../_/25_March.md), Smith đã gửi một lá thư cho Tolkien, bày tỏ sự tán thành của ông đối với bài thơ.<sup id="cite_ref-chronology25_6-0" class="reference"><a href="#cite_note-chronology25-6">[6]</a></sup> Vào buổi chiều<sup id="cite_ref-chronologytrinity_7-0" class="reference"><a href="#cite_note-chronologytrinity-7">[7]</a></sup> ngày [25 tháng 4](../_/25_April.md), Wiseman đã thảo luận về những bài thơ của Tolkien với [Robert Quilter Gilson](../R/Robert_Quilter_Gilson.md),<sup id="cite_ref-chronologytrinity_7-1" class="reference"><a href="#cite_note-chronologytrinity-7">[7]</a></sup> trước khi gửi một lá thư tới Tolkien với những nhận xét về bài thơ, gọi nó là <i><b>Copernicus & Ptolemy</b></i>.<sup id="cite_ref-reader_4-2" class="reference"><a href="#cite_note-reader-4">[4]</a></sup>
 
-Wiseman sau đó đã gửi Tolkien thêm bình luận về bài thơ.<sup id="cite_ref-chronology1917_8-0" class="reference"><a href="#cite_note-chronology1917-8">[8]</a></sup>
+Wiseman sau đó đã gửi thêm Tolkien bình luận về bài thơ.<sup id="cite_ref-chronology1917_8-0" class="reference"><a href="#cite_note-chronology1917-8">[8]</a></sup>
 
 Vào một ngày nào đó giữa [1917](../_/1917.md) và [1924](../_/1924.md), Tolkien đã sửa lại bài thơ lần cuối, đổi tên thành *Dark*.<sup id="cite_ref-collectedpoems_2-8" class="reference"><a href="#cite_note-collectedpoems-2">[2]</a></sup>
 

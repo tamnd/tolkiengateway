@@ -26,7 +26,7 @@ langlinks:
 
 ## Từ nguyên {#Etymology}
 
-Một [Root](../S/Sundocarmë.md) có thể có \*TRAH.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Một [Gốc](../S/Sundocarmë.md) \*TRAH.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> có thể
 
 ## Các từ liên quan {#Related_words}
 

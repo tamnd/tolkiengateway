@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Turambar (disambiguation)"
 ---
 
-Chuyển hướng đến [Turambar (định hướng)](<Turambar_(disambiguation).md>).
+Chuyển hướng tới [Turambar (định hướng)](<Turambar_(disambiguation).md>).

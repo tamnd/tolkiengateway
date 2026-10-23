@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lórellin"
 ---
 
-Chuyển hướng tới [Lórellin](Lórellin.md).
+Chuyển hướng đến [Lórellin](Lórellin.md).

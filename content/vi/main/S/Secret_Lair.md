@@ -25,7 +25,7 @@ infobox:
 
 ## Thêm những cuộc phiêu lưu trong Trung Địa {#More_Adventures_in_Middle-earth}
 
-<i><b>Những cuộc phiêu lưu khác trong Trung Địa</b></i> được phát hành vào [26 tháng 6](../_/26_June.md) [2023](../_/2023.md). Nó bao gồm các thẻ được in lại từ [The Lord of the Rings: Tales of Trung Địa](../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md), với tác phẩm nghệ thuật thay thế từ [bộ phim năm 1978](<../T/The_Lord_of_the_Rings_(1978_film).md>).<sup id="cite_ref-more_1-1" class="reference"><a href="#cite_note-more-1">[1]</a></sup>
+<i><b>Những cuộc phiêu lưu khác trong Trung Địa</b></i> được phát hành vào [26 tháng 6](../_/26_June.md) [2023](../_/2023.md). Nó bao gồm các thẻ được in lại từ [The Lord of the Rings: Tales of Middle-earth](../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md), với tác phẩm nghệ thuật thay thế từ [bộ phim năm 1978](<../T/The_Lord_of_the_Rings_(1978_film).md>).<sup id="cite_ref-more_1-1" class="reference"><a href="#cite_note-more-1">[1]</a></sup>
 
 Các thẻ in lại là<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>:
 

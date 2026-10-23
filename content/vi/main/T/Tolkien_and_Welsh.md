@@ -48,7 +48,7 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienlibrary.com/press/1044_Tolkien_and_Welsh_Mark_Hooker.php" rel="noreferrer noopener" target="_blank"><i>Tolkien và tiếng Wales</i></a> tại Thư viện [Tolkien](Tolkien_Library.md)
+- <a class="external text" href="http://www.tolkienlibrary.com/press/1044_Tolkien_and_Welsh_Mark_Hooker.php" rel="noreferrer noopener" target="_blank"><i>Tolkien và tiếng Wales</i></a> tại [Tolkien Library](Tolkien_Library.md)
 - <a class="external text" href="http://llyfrawr.com/TolkienAndWelsh/TableOfContents.html" rel="noreferrer noopener" target="_blank"><i>Mục lục</i></a> tại trang web của nhà xuất bản
 
 <span></span>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Otso"
 ---
 
-Chuyển hướng đến [Otso](Otso.md).
+Chuyển hướng tới [Otso](Otso.md).

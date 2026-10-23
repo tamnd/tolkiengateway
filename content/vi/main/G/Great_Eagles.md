@@ -152,7 +152,7 @@ Hơn nữa, Đại Bàng Vĩ đại sẽ khá rõ ràng và không có khả nă
 
 ## Cảm hứng {#Inspiration}
 
-Bức vẽ con đại bàng trên vách đá của Tolkien xuất hiện trong một số ấn bản của *The Hobbit*. Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), tác giả đã vẽ bức tranh này dựa trên bức tranh vẽ một chú Đại bàng vàng chưa trưởng thành của Archibald Thorburn mà Christopher đã tìm thấy cho ông trong *The Birds of the British Isles* của T.A. Coward. Tuy nhiên, việc Tolkien sử dụng mô hình này không nhất thiết có nghĩa là gà của anh ta có màu Vàng Đại Bàng thông thường.
+Bức vẽ con đại bàng trên vách đá của Tolkien xuất hiện trong một số ấn bản của *The Hobbit*. Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), tác giả đã vẽ bức tranh này dựa trên bức tranh vẽ một chú Đại bàng vàng chưa trưởng thành của Archibald Thorburn mà Christopher đã tìm thấy cho ông trong *The Birds of the British Isles* của T.A. Coward. Tuy nhiên, việc Tolkien sử dụng mô hình này không nhất thiết có nghĩa là gà của anh ta có màu Vàng Đại Bàng bình thường.
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

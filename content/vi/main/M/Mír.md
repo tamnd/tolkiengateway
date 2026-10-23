@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mîr"
 ---
 
-Chuyển hướng đến [Mîr](Mîr.md).
+Chuyển hướng tới [Mîr](Mîr.md).

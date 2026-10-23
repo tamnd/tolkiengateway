@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bìa của *[The Romantic Spirit in the Works of J.R.R. Tolkien](../../main/T/The_Romantic_Spirit_in_the_Works_of_J.R.R._Tolkien.md)*, được xuất bản bởi [Nhà xuất bản Cây biết đi](../../main/W/Walking_Tree_Publishers.md). Hình minh họa bìa của [Jay Johnstone](../../main/J/Jay_Johnstone.md).
+Bìa *[The Romantic Spirit in the Works of J.R.R. Tolkien](../../main/T/The_Romantic_Spirit_in_the_Works_of_J.R.R._Tolkien.md)*, do [Nhà xuất bản Cây biết đi](../../main/W/Walking_Tree_Publishers.md)xuất bản. Minh họa bìa bởi [Jay Johnstone](../../main/J/Jay_Johnstone.md).
 
 ## Giấy phép {#Licensing}
 

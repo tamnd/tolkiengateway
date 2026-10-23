@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of the Morgai"
 ---
 
-Chuyển hướng đến [Danh mục:Hình ảnh của Morgai](Images_of_the_Morgai.md).
+Chuyển hướng tới [Danh mục:Hình ảnh của Morgai](Images_of_the_Morgai.md).

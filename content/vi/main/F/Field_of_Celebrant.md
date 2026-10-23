@@ -36,7 +36,7 @@ Vào [Kỷ Đệ Tam](../T/Third_Age.md) [năm 2510](../T/Third_Age_2510.md)<sup
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Field of Celebrant is a landmark in the &#34;Parth Celebrant&#34; area.</dd></dl>
 

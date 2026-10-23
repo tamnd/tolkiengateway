@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ír"
 ---
 
-Chuyển hướng tới [Ír](../_/Ír.md).
+Chuyển hướng đến [Ír](../_/Ír.md).

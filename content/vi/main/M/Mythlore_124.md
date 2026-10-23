@@ -70,7 +70,7 @@ infobox:
 - *Truyện cổ tích được tái hiện lại: Các tiểu luận về những câu chuyện kể mới.* Ed. của Susan Redington Bobby. Được đánh giá bởi Kazia Estrada.
 Perelandra của - *C.S. Lewis: Định hình lại hình ảnh của vũ trụ.* Ed. Judith Wolfe và Brendan Wolfe. Được đánh giá bởi Holly Ordway.
 - *Lý tưởng về Vương quyền trong các tác phẩm Charles Williams, C.S. Lewis và J.R.R. Tolkien: Vương quyền thiêng liêng được phản ánh ở Trung Địa.* Christopher Khăn quàng cổ. Được đánh giá bởi Melody Green.
-- *Nhẫn từ ngữ: Tolkien và Từ điển tiếng Anh Oxford.* Của Peter Gilliver, Jeremy Marshall và Edmund Weiner. Được đánh giá bởi Mike Austin Foster.
+- *The Ring of Words: Tolkien và Từ điển tiếng Anh Oxford.* Của Peter Gilliver, Jeremy Marshall và Edmund Weiner. Được đánh giá bởi Mike Austin Foster.
 - *Tolkien: The Forest and the City.* Biên tập. Helen Conrad-O'Briain và Gerard Hynes. Được đánh giá bởi T.S. Miller.
 - *Tolkien Studies X.* Được biên tập bởi Michael D.C. Drout, Verlyn Flieger và David Bratman. Được đánh giá bởi Janet Brennan Croft.
 - *Seven: An Anglo-American Literary Review 30.* Biên tập bởi Marjorie Lamp Mead. Được đánh giá bởi Janet Brennan Croft.

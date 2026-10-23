@@ -38,7 +38,7 @@ Phần tử Deeping trong tên Deeping-stream có nghĩa là dòng suối thuộ
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bức vẽ không có tiêu đề Helm's Deep của J.R.R. Tolkien, đường dòng Deeping-stream dường như chảy về phía tây sau khi rời khỏi Deeping-coomb.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Trong bức vẽ không có tiêu đề Helm's Deep của J.R.R. Tolkien đường dòng của Deeping-stream dường như chảy về phía tây sau khi rời khỏi Deeping-coomb.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

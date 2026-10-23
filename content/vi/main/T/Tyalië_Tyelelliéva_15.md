@@ -44,7 +44,7 @@ infobox:
 - Từ nguyên của Athelas, được đăng trên Internet (điều này cũng được liên kết từ trang Bản thảo chưa xuất bản
 - Tiên-Skaldic Verse của Leonid Korablev, (bài thơ trong Quenya với thư pháp tengwar và phân tích ngôn ngữ)
 - Tolkien Bộ sưu tập tại Marquette (Phần 1), báo cáo của Lisa Star về tài sản thư viện được các nhà ngôn ngữ học đặc biệt quan tâm
-- Gnomish Tên cây hạt dẻ, bài viết của Tiến sĩ Rhona Beare
+- Gnomish Tên các loại cây hạt dẻ, bài viết của Tiến sĩ Rhona Beare
 - George Allen &amp; Unwin: Người tưởng nhớ, sách của Rayner Unwin, đánh giá của Lisa Star
 - Land O'Hobbit Báo cáo, về một "điểm đến" du lịch ở California (báo cáo)
 - [Chân dung tự họa của Jan Boom](../J/Jan_Boom.md) với tư cách là một Ent

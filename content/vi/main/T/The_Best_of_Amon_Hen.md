@@ -61,7 +61,7 @@ infobox:
 - [*Amon Hen* 135](../A/Amon_Hen_135.md): "Suy nghĩ của người ra đi Tiên" của Timothy M. Farr
 - [*Amon Hen* 138](../A/Amon_Hen_138.md): "Círdan - Một trong những anh hùng vô danh" của [Marcel Bülles](../M/Marcel_Bülles.md)
 - [*Amon Hen* 139](../A/Amon_Hen_139.md): "A Lost Tale" của Lyn Ritchie
-- [*Amon Hen* 140](../A/Amon_Hen_140.md): "Vera Chapman - 'Belladonna Took'" của [Charles Noad](../C/Charles_Noad.md)
+- [*Amon Hen* 140](../A/Amon_Hen_140.md): "Vera Chapman - 'Belladonna Took'" bởi [Charles Noad](../C/Charles_Noad.md)
 - [*Amon Hen* 142](../A/Amon_Hen_142.md): "Hiệp sĩ hoa vàng" của Juha-Matti Henriksen
 - [*Amon Hen* 145](../A/Amon_Hen_145.md): "Lời thì thầm xuyên qua những chiếc lá" của Matt Bower
 - [*Amon Hen* 145](../A/Amon_Hen_145.md): "And Have a Eye to That Người lùn" của [Helen Armstrong](../H/Helen_Armstrong.md)
@@ -75,7 +75,7 @@ infobox:
 - [*Amon Hen* 94](../A/Amon_Hen_94.md): "Làm giấy ở Shire" của [Wayne Hammond](../W/Wayne_Hammond.md)
 - [*Amon Hen* 96](../A/Amon_Hen_96.md): "Ngày kỷ niệm khác" của Jessica Yates
 - [*Amon Hen* 97](../A/Amon_Hen_97.md): "A Blacker Shade of Pale" của Jess Stevenson
-- [*Amon Hen* 97](../A/Amon_Hen_97.md): "Vài suy nghĩ về ông già liễu" của Dylan Pugh
+- [*Amon Hen* 97](../A/Amon_Hen_97.md): "Một số suy nghĩ về Ông già liễu" của Dylan Pugh
 - [*Amon Hen* 98](../A/Amon_Hen_98.md): "Về Ham, và điều gì đã xảy ra với nó" của [Brin Dunsire](../B/Brin_Dunsire.md)
 - [*Amon Hen* 99](../A/Amon_Hen_99.md): "Kết nối Einstein" của Marc Read
 - [*Amon Hen* 100](../A/Amon_Hen_100.md): "Lá từ cây tiệc tùng" của [Vera Chapman](../V/Vera_Chapman.md)

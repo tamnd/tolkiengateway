@@ -16,7 +16,7 @@ sort_keys:
 
 Vào [ngày 9 tháng 12](../_/9_December.md) [1965](../_/1965.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi Jane Dixon** ở Ohio.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 
-- **Chủ đề:** Tolkien rất biết ơn Dixon đã gửi cho anh ấy bản sao của một bài báo trên *Saturday Review* về ấn bản [Ace Books](../A/Ace_Books.md) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Ông cũng viết rằng cả ông và các nhà xuất bản của ông ([George Allen và Unwin](../A/Allen_and_Unwin.md)) đều không có ý định cấp phép cho [Walt Disney](../T/The_Walt_Disney_Company.md) làm phim về sách của ông.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+- **Chủ đề:** Tolkien rất biết ơn Dixon đã gửi cho anh ấy bản sao của một bài báo trên *Saturday Review* về ấn bản [Ace Books](../A/Ace_Books.md) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Anh ấy cũng viết rằng cả anh ấy và các nhà xuất bản của anh ấy ([George Allen và Unwin](../A/Allen_and_Unwin.md)) đều không có ý định cấp phép cho [Walt Disney](../T/The_Walt_Disney_Company.md) làm phim về sách của anh ấy.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 - **Xuất bản:** Mô tả về bức thư xuất hiện trong *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.
 
 <span></span>

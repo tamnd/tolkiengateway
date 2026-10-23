@@ -57,7 +57,7 @@ Trong phiên bản trước của cùng bài thơ, cụm từ [Qenya](../Q/Qenya
 
 <dl><dd>The faces of the dead are classified as phantoms, a subdivision of ghosts.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Corpse-candles are a form of the Dead, floating balls of light that haunt marshes and grave-sites, swarming around the player.</dd></dl>
 

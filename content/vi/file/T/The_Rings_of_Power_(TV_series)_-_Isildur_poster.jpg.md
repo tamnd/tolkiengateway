@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh chính thức của [Isildur](../../main/I/Isildur.md) từ loạt sản phẩm *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*của [Amazon](../../main/A/Amazon_Studios.md).
+Hình ảnh chính thức của [Isildur](../../main/I/Isildur.md) từ bộ truyện [Amazon](../../main/A/Amazon_Studios.md)của *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 
 ## Giấy phép {#Licensing}
 

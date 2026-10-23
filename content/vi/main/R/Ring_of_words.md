@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Ring of Words"
 ---
 
-Chuyển hướng đến [Nhẫn ngôn từ](../T/The_Ring_of_Words.md).
+Chuyển hướng đến [The Ring of Words](../T/The_Ring_of_Words.md).

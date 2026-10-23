@@ -45,7 +45,7 @@ infobox:
 - Linde Hriven của Alessio, (một bài thơ trong Quenya)
 - Ohtallo Tiriossen của Michael Johansson, (một bài thơ trong Quenya)
 - Quái vật của Al McFarland, (tác phẩm nghệ thuật)
-- Dòng chữ cổ điển tiếng Hebrew của [Helge K. Fauskanger](../H/Helge_Fauskanger.md), (một văn bản giống một cách kỳ lạ với Bài thơ Chiếc nhẫn, bằng thư pháp có phân tích)
+- Dòng chữ cổ điển tiếng Hebrew của [Helge K. Fauskanger](../H/Helge_Fauskanger.md), (một văn bản giống một cách kỳ lạ với Bài thơ Nhẫn, bằng thư pháp có phân tích)
 - Người canh gác dưới nước của Christopher Larson, (tác phẩm nghệ thuật)
 - Bài đọc mới về Sách Mazarbul của [Edward Kloczko](../E/Edward_Kloczko.md)
 - Phân tích các cánh cửa Moria Tengwar của Lisa Star, (so sánh các phiên bản khác nhau được xuất bản trong Tolkien: Artist & Illustrator, với biểu đồ tengwar)

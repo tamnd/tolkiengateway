@@ -62,11 +62,11 @@ images:
 - [Khu rừng sợ hãi](../../main/T/The_Forest_of_Fear.md)
 - [Fuddo và Slam](../../main/F/Fuddo_and_Slam.md)
 - [Sáng thế](../../main/G/Genesis.md)
-- [Người bảo vệ của Trung Địa](../../main/G/Guardians_of_Middle-earth.md)
+- [Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)
 - [Haradwaith](<../../main/H/Haradwaith_(video_game).md>)
 - [The Hobbit](<../../main/T/The_Hobbit_(1982_video_game).md>)
 - [Hobbit - Câu chuyện có thật](../../main/H/Hobbit_-_The_True_Story.md)
-- [Cuộc săn lùng chiếc nhẫn](<../../main/T/The_Hunt_for_the_Ring_(video_game).md>)
+- [Cuộc săn lùng Nhẫn](<../../main/T/The_Hunt_for_the_Ring_(video_game).md>)
 - [Nhà tù sắt](../../main/T/The_Iron_Prison.md)
 - [Bộ máy bay phản lực Willy: The Lord of the Rings](../../main/J/Jet_Set_Willy%253A_The_Lord_of_the_Rings.md)
 - [Viên ngọc của Bóng Tối](../../main/J/Jewels_of_Darkness.md)
@@ -74,7 +74,7 @@ images:
 - [Vua Dưới Núi](<../../main/K/King_Under_the_Mountain_(minigame).md>)
 - [Chúa tể của những chiếc nhẫn: Cuộc đấu tay đôi](<../../main/L/Lord_of_the_Rings%253A_The_Duel_(video_game).md>)
 - [Chúa tể của những chiếc nhẫn: Trò chơi thứ nhất](../../main/L/Lord_of_the_Rings%253A_Game_One.md)
-- [The Lord of the Rings Trực tuyến](../../main/T/The_Lord_of_the_Rings_Online.md)
+- [The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)
 - [The Lord of the Rings NHIỀU](../../main/T/The_Lord_of_the_Rings_MUSH.md)
 - [The Lord of the Rings & The Two Towers](../../main/T/The_Lord_of_the_Rings_&_The_Two_Towers.md)
 - [Chúa tể của những chiếc nhẫn tập. 1](../../main/L/Lord_of_the_Rings_vol._1.md)
@@ -86,9 +86,9 @@ images:
 - [Trung Địa: Câu đố](../../main/M/Middle-earth%253A_The_Riddles.md)
 - [The Middle-Earth Trilogy](../../main/T/The_Middle-Earth_Trilogy.md) / [Bộ ba khổng lồ](../../main/C/Colossal_Trilogy.md)
 - [Mỏ Moria](<../../main/M/Mines_of_Moria_(video_game).md>)
-- [Mìn Moria II: Cuộc đào thoát](../../main/M/Mines_of_Moria_II%253A_The_Escape_Out.md)
+- [Mỏ Moria II: Cuộc đào thoát](../../main/M/Mines_of_Moria_II%253A_The_Escape_Out.md)
 - [Mỏ Moria 3](../../main/M/Mines_of_Moria_3.md)
-- [Mỏ của Moria](<../../main/T/The_Mines_of_Moria_(video_game).md>)
+- [Cái Mỏ Moria](<../../main/T/The_Mines_of_Moria_(video_game).md>)
 - [Mordor](<../../main/M/Mordor_(1998_video_game).md>)
 - [Mogul](<../../main/M/Morgul_(video_game).md>)
 - [Moria](<../../main/M/Moria_(video_game).md>)
@@ -102,17 +102,17 @@ images:
 - [Vòng Phán xét / Ödesringen](<../../main/R/Ring_of_Doom_(video_game).md>)
 - [Cái Vòng Phán xét](<../../main/T/The_Ring_of_Doom_(video_game).md>)
 - [Shadowfax](../../main/S/Shadowfax.md)
-- [Bóng tối của Mordor](../../main/S/Shadows_of_Mordor.md)
-- [Chiếc nhẫn của Thror](../../main/T/Thror's_Ring.md)
+- [Bóng của Mordor](../../main/S/Shadows_of_Mordor.md)
+- [Thror Nhẫn](../../main/T/Thror's_Ring.md)
 - [Bộ ba Tolkien](../../main/T/The_Tolkien_Trilogy.md)
 - [Tolkien Thông tin bên lề](<../../main/T/Tolkien_Trivia_(video_game).md>)
 - [Tolkien Tìm kiếm từ](../../main/T/Tolkien_WordSearch.md)
-- [The Two Towers BÙN](../../main/T/The_Two_Towers_MUD.md)
+- [The Two Towers Bùn](../../main/T/The_Two_Towers_MUD.md)
 - [Chiến tranh ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md)
 
 ## Tiếng Pháp {#French}
 
-- [Người giám hộ của Trung Địa](../../main/G/Guardians_of_Middle-earth.md)
+- [Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)
 - [Vương quốc O' Magic](../../main/K/Kingdom_O'_Magic.md)
 - [Le Seigneur des Anneaux Online](../../main/T/The_Lord_of_the_Rings_Online.md) (dưới dạng tệp trò chơi được bản địa hóa)
 - [Seigneur de la Bague tập. 1](../../main/L/Lord_of_the_Rings_vol._1.md)
@@ -121,7 +121,7 @@ images:
 ## Tiếng Đức {#German}
 
 - [Bản ngãPhiêu lưu](../../main/E/EgoAdventure.md)
-- [Người giám hộ của Trung Địa](../../main/G/Guardians_of_Middle-earth.md)
+- [Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)
 - [Vương quốc O' Magic](../../main/K/Kingdom_O'_Magic.md)
 - [Der Kleine Hobbit](../../main/D/Der_Kleine_Hobbit.md)
 - [Der Herr der Ringe Online](../../main/T/The_Lord_of_the_Rings_Online.md) (dưới dạng tệp trò chơi được bản địa hóa)
@@ -130,7 +130,7 @@ images:
 
 ## Tiếng Ý {#Italian}
 
-- [Người giám hộ của Trung Địa](../../main/G/Guardians_of_Middle-earth.md)
+- [Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)
 - [Gioco Postale della Terra di Mezzo](../../main/M/Middle-earth_Play-By-Mail.md)
 - [Vương quốc O' Magic](../../main/K/Kingdom_O'_Magic.md)
 
@@ -152,7 +152,7 @@ images:
 
 ## Tiếng Tây Ban Nha {#Spanish}
 
-- [Người giám hộ của Trung Địa](../../main/G/Guardians_of_Middle-earth.md)
+- [Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)
 - [Vương quốc O' Magic](../../main/K/Kingdom_O'_Magic.md)
 - [La Tierra Media JPC](../../main/M/Middle-earth_Play-By-Mail.md)
 - [El Señor de los Anillos, Phần I: La Communidad del Anillo (Libro 1)](<../../main/E/El_Señor_de_los_Anillos,_Parte_I%253A_La_Communidad_del_Anillo_(Libro_1).md>)

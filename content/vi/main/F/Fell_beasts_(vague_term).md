@@ -44,7 +44,7 @@ Liên quan đến cách diễn đạt "những thứ bị rơi" trong *[The Lord
 
 **Những con thú dị dạng**, cùng với ác quỷ, Rồng và Orc, nằm trong số những thứ xấu xa do Morgoth nghĩ ra trong thời kỳ hắn thống trị và tiếp tục gây rắc rối [Con Người](../M/Men.md) trong suốt [Những Năm Tháng Đen Tối](../D/Dark_Years.md) của Thời đại thứ hai.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>
 
-**[Thú vật](../M/Magic.md)làm nô lệ**, cùng với Orc, Troll, [Easterlings](../E/Easterlings.md) và [Haradrim](../H/Haradrim.md), là một phần trong đội quân của [Sauron](../S/Sauron.md)trong [Trận Morannon](../B/Battle_of_the_Morannon.md)<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup>.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> Bản chất chính xác của những con thú này vẫn chưa được biết.
+**[Thú vật](../M/Magic.md) làm nô lệ**, cùng với Orc, Troll, [Easterlings](../E/Easterlings.md) và [Haradrim](../H/Haradrim.md), là một phần trong đội quân của [Sauron](../S/Sauron.md)trong [Trận Morannon](../B/Battle_of_the_Morannon.md)<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup>.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> Bản chất chính xác của những con thú này vẫn chưa được biết.
 
 ## Xem thêm {#See_also}
 

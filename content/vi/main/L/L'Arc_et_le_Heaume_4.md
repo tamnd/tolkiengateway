@@ -25,17 +25,17 @@ images:
 - biên luận
     - Histoire d'un aller et retour – Laura Martin-Gomez và Audrey Morelle
 - Thực tế
-    - Phỏng vấn [Douglas A. Anderson](../D/Douglas_A._Anderson.md) — Laura Martin-Gomez
+    - Phỏng vấn của [Douglas A. Anderson](../D/Douglas_A._Anderson.md) — Laura Martin-Gomez
     - *Le Hobbit Annoté* — Benjamin Bories
     - *Promenades au Pays des Hobbits* của J-R Turlin — Stéphanie Loubechine
     - *Dictionnaire Tolkien* người hướng dẫn của Vincent Ferré — Maria Kayed
-    - *Le Hobbit* : các chuyến đi thứ hai không được tham dự — Vivien Stocker
+    - *Le Hobbit* : số lượng người tham dự hai lần — Vivien Stocker
 - Tổng hợp
     - Thư mục tự động của bạn *Hobbit* — Vivien Stocker
     - Danh mục nhân vật — Maria Kayed
 - Tiểu luận
     - Allers et retours en Terre du Milieu — Solveig Boissay
-    - Hình du lecteur et du narrateur — Laura Martin-Gomez
+    - Hình du giảng viên và người kể chuyện — Laura Martin-Gomez
     - Bí mật của mọi người : Les noms des Nains dans l'œuvre de J.R.R. Tolkien — Damien Bador
 - Ngôn ngữ
     - Les tengwar : un mode pour les Nains — Vivien Stocker
@@ -54,7 +54,7 @@ images:
 - Tin tức
     - Phỏng vấn [Douglas A. Anderson](../D/Douglas_A._Anderson.md) — Laura Martin-Gomez
     - *The Hobbit Annotated* — Benjamin Bories
-    - *Bước đi trên vùng đất Hobbit* của J-R Turlin — Stéphanie Loubechine
+    - *Bước đi trong vùng đất Hobbit* của J-R Turlin — Stéphanie Loubechine
     - *Tolkien Dictionary* được chỉnh sửa bởi Vincent Ferré — Maria Kayed
     - *The Hobbit*: hai bản phát hành bất ngờ — Vivien Stocker
 - Tổng hợp

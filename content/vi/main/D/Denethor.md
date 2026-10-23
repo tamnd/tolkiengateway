@@ -239,7 +239,7 @@ Denethor có khuôn mặt "chạm khắc"<sup id="cite_ref-Appearance_4-1" class
 
 <dl><dd><a href="../W/William_Conrad.md" title="William Conrad">William Conrad</a> is the voice of Denethor. His role is essentially reduced to presaging the doom of the arrival of the Black Ships (as he has seen in the <i><a href="../P/Palantíri.md" title="Palantíri">palantír</a></i>) to <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> and <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a>, and then calling for his own execution.</dd></dl>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (1981 radio series)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
 <dl><dd>The voice of Denethor is provided by <a href="../P/Peter_Vaughan.md" title="Peter Vaughan">Peter Vaughan</a>.</dd></dl>
 
@@ -261,7 +261,7 @@ Denethor có khuôn mặt "chạm khắc"<sup id="cite_ref-Appearance_4-1" class
 
 <dl><dd>The voice of Denethor is provided by Marián Slovák.</dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Denethor&#39;s role in the game is relatively minor, as, by the time the player reaches <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>, <a href="../F/Faramir.md" title="Faramir">Faramir</a> already lies wounded and the Steward&#39;s will is failing. One notable change is his betrothal of Boromir to <a href="../L/Lothíriel.md" title="Lothíriel">Lothíriel</a> of Dol Amroth.</dd></dl>
 

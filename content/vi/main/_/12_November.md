@@ -70,7 +70,7 @@ Sự kiện xảy ra vào ngày 12 tháng 11
 - **[1970](1970.md)** - Diễn viên [Craig Parker](../C/Craig_Parker.md) ra đời.
 - **[1995](1995.md)** - Diễn viên [Robert Stephens](../R/Robert_Stephens.md) qua đời.
 - **[2002](2002.md)** - *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* ([Phiên bản mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>)) được phát hành dưới dạng DVD.
-- **[2006](2006.md)** - [Ring\*Con 2006](../R/Ring%252ACon_2006.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Fulda" title="wikipedia:Fulda">Fulda</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2006](2006.md)** - [Nhẫn\*Con 2006](../R/Ring%252ACon_2006.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Fulda" title="wikipedia:Fulda">Fulda</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 - **[2008](2008.md)** - *[Fantasy, Myth and the Measure of Truth](../F/Fantasy,_Myth_and_the_Measure_of_Truth.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
@@ -78,4 +78,4 @@ Sự kiện xảy ra vào ngày 12 tháng 11
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
     - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md)tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Kẻ duy nhất Nhẫn](../T/The_One_Ring.md).

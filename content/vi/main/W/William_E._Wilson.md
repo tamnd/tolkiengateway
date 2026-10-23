@@ -22,7 +22,7 @@ sort_keys:
 
 **William E. Wilson** là tác giả người Mỹ đã viết *[Greater Harad](../G/Greater_Harad.md)* và *[Nazgûl's Citadel](../N/Nazgûl's_Citadel.md)* cho [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md). Sau khi làm việc với tư cách chính thức, anh ấy đã duy trì một số tài nguyên về trò chơi trên trang web cá nhân của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Bất chấp công việc của mình trên Middle-earth Role Playing, chính anh ấy đã tìm ra hệ thống [Trò chơi phiêu lưu Chúa tể những chiếc nhẫn](../L/Lord_of_the_Rings_Adventure_Game.md) để phù hợp với bối cảnh hơn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Dù đang làm Middle-earth Role Playing nhưng bản thân anh cũng thấy hệ thống [Lord of the Rings Adventure Game](../L/Lord_of_the_Rings_Adventure_Game.md) phù hợp với bối cảnh hơn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

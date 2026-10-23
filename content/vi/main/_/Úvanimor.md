@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Úvanimo"
 ---
 
-Chuyển hướng đến [Úvanimo](Úvanimo.md).
+Chuyển hướng tới [Úvanimo](Úvanimo.md).

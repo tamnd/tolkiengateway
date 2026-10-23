@@ -248,7 +248,7 @@ Minh họa cho [J.R.R. Tolkien Hội nghị trăm năm](../J/J.R.R._Tolkien_Cent
 
 ## *[Weathertop](<../W/Weathertop_(journal).md>)* bao gồm {#Weathertop_covers}
 
-Cả năm bìa đều có cùng một khung do Kay Woollard thiết kế, nhưng họa sĩ minh họa cho phần bên trong thì khác nhau. Kay cũng đã cung cấp phần trung tâm hai lần.
+Cả năm bìa đều có cùng một khung do Kay Woollard thiết kế, nhưng họa sĩ minh họa cho phần bên trong lại khác nhau. Kay cũng đã cung cấp phần trung tâm hai lần.
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 235px">
@@ -348,7 +348,7 @@ Sáu bộ đầu tiên đã được đặt hàng và xuất bản dưới dạn
 
 <h2><span id="Pages_from_Hob_Painter.27s_Sketchbook"></span><span class="mw-headline" id="Pages_from_Hob_Painter&#39;s_Sketchbook"><i>Pages from Hob Painter&#39;s Sketchbook</i></span></h2>
 
-*Hob Painter* là một nhân vật tự truyện do Kay Woollard sáng tạo ra. Anh ấy là một người vẽ tranh độc lập, người chủ yếu (hầu như không) kiếm sống bằng nghề vẽ biển hiệu quán trọ, nhưng chủ đề yêu thích của anh ấy là chân dung và phong cảnh.
+*Hob Painter* là một nhân vật tự truyện được sáng tạo bởi Kay Woollard. Anh ấy là một người vẽ tranh độc lập, người chủ yếu (hầu như không) kiếm sống bằng nghề vẽ biển hiệu quán trọ, nhưng chủ đề yêu thích của anh ấy là chân dung và phong cảnh.
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 235px">

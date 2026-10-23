@@ -31,11 +31,11 @@ Người ta biết rất ít về bên ngoài của ngôi nhà, ngoại trừ vi
 
 Bên trong có nhiều phòng. Căn phòng chính dài và thấp, có một chiếc bàn lớn bằng gỗ bóng tối và những chiếc ghế cói thấp. Nó được thắp sáng bằng những ngọn đèn trên cao cũng như những ngọn nến trên bàn và một lò sưởi rộng bằng đá. Ngôi nhà có một nhà bếp, không được mô tả. Bên ngoài có một khu vườn bếp kéo dài từ bức tường phía đông của ngôi nhà.
 
-Khi [Frodo](../F/Frodo.md) đến thăm nhà, anh và những người bạn đồng hành ở trong căn penthouse nối với sảnh chính bằng một lối đi ngắn có khúc cua gấp. Các bức tường của căn hộ áp mái được trang trí bằng những tấm thảm treo màu xanh lá cây. Nó có hai cửa sổ, một hướng đông và một hướng tây, được che bằng rèm màu vàng. Cửa sổ phía đông mở thẳng ra vườn bếp. Có bốn tấm nệm trên sàn dựa vào một bức tường và một chiếc ghế dài ở đối diện.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Khi [Frodo](../F/Frodo.md) đến thăm nhà, anh và những người bạn đồng hành ở trong căn penthouse nối với sảnh chính bằng một lối đi ngắn có khúc cua gấp. Các bức tường của căn hộ áp mái được trang trí bằng những tấm thảm treo màu xanh lá cây. Nó có hai cửa sổ, một hướng về phía đông và một hướng về phía tây, được che bằng rèm màu vàng. Cửa sổ phía đông mở thẳng ra vườn bếp. Có bốn tấm nệm trên sàn dựa vào một bức tường và một chiếc ghế dài ở đối diện.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Tên {#Name}
 
-Ngôi nhà của Tom Bombadil không có tên trong *The Lord of the Rings*. Tên "Underhill" chỉ xuất hiện trong *[The Chronology of The Lord of the Rings](../T/The_Chronology_of_The_Lord_of_the_Rings.md)*. Mục nhập của nó cho tháng Chín 28 có nội dung "Khởi hành từ Underhill. Bị Barrow-wight bắt giữ."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Ngôi nhà của Tom Bombadil không có tên trong *The Lord of the Rings*. Tên "Underhill" chỉ xuất hiện trong *[The Chronology of The Lord of the Rings](../T/The_Chronology_of_The_Lord_of_the_Rings.md)*. Mục nhập của nó cho tháng Chín 28 có nội dung "Khởi hành từ Underhill. Bị bắt bởi Barrow-wight."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

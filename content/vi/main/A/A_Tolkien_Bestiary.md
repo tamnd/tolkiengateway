@@ -50,8 +50,8 @@ Cuốn sách có các hình minh họa đơn sắc và đầy đủ màu sắc c
 
 Cuốn sách đã được các nhà xuất bản khác nhau phát hành dưới nhiều nhan đề khác nhau, bao gồm:
 
-- <i><b>Guide to Tolkien&#39;s World: A Bestiary</b></i> (2002, 2010)
-- <i><b>Characters from Tolkien</b></i> (2001)
+- <i><b>Hướng dẫn về thế giới của Tolkien: Một người thú</b></i> (2002, 2010)
+- <i><b>Nhân vật trong Tolkien</b></i> (2001)
 
 ## Đánh giá {#Reception}
 

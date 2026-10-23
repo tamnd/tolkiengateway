@@ -63,7 +63,7 @@ infobox:
 - Tác phẩm nghệ thuật: *[Bilbo Baggins](../B/Bilbo_Baggins.md) and [Gandalf](../G/Gandalf.md)*
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
 - Thông báo Oxonmoot
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- Cái [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Kẻ tái phạm
     - Bởi: Jeff Stevenson

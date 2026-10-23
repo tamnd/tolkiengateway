@@ -35,7 +35,7 @@ infobox:
 ## Nội dung {#Contents}
 
 - Bài xã luận: Nhiệm vụ khẩn cấp! - [Chris Seeman](../C/Chris_Seeman.md)
-- Những kẻ vi phạm lời thề và những kẻ cho vay nặng lãi - [Chris Seeman](../C/Chris_Seeman.md)
+- Những kẻ vi phạm lời thề và Dunlending - [Chris Seeman](../C/Chris_Seeman.md)
 - Bộ binh Angmar - [Chris Seeman](../C/Chris_Seeman.md)
 - Chiến dịch trong Northern Waste - [Bridget Buxton](../B/Bridget_Buxton.md)
 - Nhật ký của Rastarin

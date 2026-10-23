@@ -21,4 +21,4 @@ Từ "ca sĩ" độc lập có lẽ là \**nello*.
 
 ## Từ nguyên {#Etymology}
 
-Nó có thể xuất phát từ [Primitive Elvish](../P/Primitive_Elvish.md) \**nyeldo* [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NYEL&amp;action=edit&amp;redlink=1" title="NYEL (page does not exist)">NYEL</a>.
+Nó có thể xuất phát từ [Primitive Elvish](../P/Primitive_Elvish.md) \**nyeldo* [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NYEL&amp;action=edit&amp;redlink=1" title="NYEL (page does not exist)">NYEL</a>.

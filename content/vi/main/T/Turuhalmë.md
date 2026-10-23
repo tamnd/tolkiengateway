@@ -16,9 +16,9 @@ sort_keys:
   "Qenya names": "Turuhalme"
 ---
 
-**Turuhalmë**, hay **Lễ ghi nhật ký**, là một ngày lễ [Elvish](../E/Elves.md) của [Yule](../Y/Yule.md),<sup id="cite_ref-app_1-0" class="reference"><a href="#cite_note-app-1">[1]</a></sup> tập trung vào việc mang gỗ đến [Mar Vanwa Tyaliéva](../M/Mar_Vanwa_Tyaliéva.md) để nuôi [Tale-fire](Tale-fire.md), theo phiên bản sớm nhất của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Turuhalmë**, hay **Lễ ghi nhật ký**, là một ngày lễ [Elvish](../E/Elves.md) của [Yule](../Y/Yule.md),<sup id="cite_ref-app_1-0" class="reference"><a href="#cite_note-app-1">[1]</a></sup> tập trung vào việc mang gỗ đến [Mar Vanwa Tyaliéva](../M/Mar_Vanwa_Tyaliéva.md) để nuôi [Tale-fire](Tale-fire.md), theo phiên bản sớm nhất của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Như [Lindo](../L/Lindo.md) mô tả trong [Ngôi nhà của trò chơi lạc lối](../C/Cottage_of_Lost_Play.md), đó là một ngày thể thao trên tuyết và những khúc gỗ được kéo ra từ trong rừng, sau đó là ca hát và uống rượu, sau đó những câu chuyện được kể xung quanh [Lửa truyện cổ tích](Tale-fire.md). Trong đêm nay, [Eriol](../E/Eriol.md) đã được nghe câu chuyện về [Câu chuyện của Noldoli](../G/Gilfanon's_Tale%253A_The_Travail_of_the_Noldoli_and_the_Coming_of_Mankind.md) từ [Ailios](../A/Ailios.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Như được mô tả bởi [Lindo](../L/Lindo.md) trong [Ngôi nhà của Lost Play](../C/Cottage_of_Lost_Play.md), đó là một ngày thể thao trên tuyết, những khúc gỗ được kéo từ trong rừng ra, sau đó là ca hát và uống rượu, sau đó những câu chuyện được kể xung quanh [Tale-fire](Tale-fire.md). Trong đêm nay, [Eriol](../E/Eriol.md) đã được nghe câu chuyện về [Câu chuyện của Noldoli](../G/Gilfanon's_Tale%253A_The_Travail_of_the_Noldoli_and_the_Coming_of_Mankind.md) từ [Ailios](../A/Ailios.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

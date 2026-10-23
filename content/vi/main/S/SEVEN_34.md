@@ -45,7 +45,7 @@ infobox:
     - Bởi: Charles Huttar
 - "Tolkien về quê hương"
     - Bởi: Nancy Bunting
-- "Bài giảng Giáng sinh cho người ngoại giáo"
+- "Bài giảng Giáng sinh cho người ngoại đạo"
     - Bởi: C.S. Lewis
 - "Khám phá 'Bài giảng Giáng sinh cho người ngoại đạo'"
     - Bởi: Joel Heck và Christopher Marsh

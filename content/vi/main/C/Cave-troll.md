@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cave-trolls"
 ---
 
-Chuyển hướng đến [Quỷ hang động](Cave-trolls.md).
+Chuyển hướng tới [Quỷ hang động](Cave-trolls.md).

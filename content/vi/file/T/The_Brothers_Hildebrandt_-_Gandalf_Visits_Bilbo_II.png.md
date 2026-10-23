@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Gandalf](../../main/G/Gandalf.md) thăm [Bilbo](../../main/B/Bilbo_Baggins.md)" của [Anh em Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), được ủy quyền tại [2018](../../main/_/2018.md).
+"[Gandalf](../../main/G/Gandalf.md) lượt truy cập [Bilbo](../../main/B/Bilbo_Baggins.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), được ủy quyền trong [2018](../../main/_/2018.md).
 
 ## Giấy phép {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Alan Lee - Gorbag and Shagrat.jpg"
 ---
 
-Chuyển hướng tới [Tệp:Alan Lee - Gorbag ​​và Shagrat.jpg](Alan_Lee_-_Gorbag_and_Shagrat.jpg.md).
+Chuyển hướng đến [Tệp:Alan Lee - Gorbag ​​và Shagrat.jpg](Alan_Lee_-_Gorbag_and_Shagrat.jpg.md).

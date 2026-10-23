@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) đọc [Người đàn ông trong Mặt Trăng thức quá muộn](../../main/T/The_Man_in_the_Moon_Stayed_Up_Too_Late.md)
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) đọc [Người Người đàn ông trong Mặt Trăng thức quá muộn](../../main/T/The_Man_in_the_Moon_Stayed_Up_Too_Late.md)
 
 ## Giấy phép {#Licensing}
 

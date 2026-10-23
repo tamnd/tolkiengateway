@@ -12,4 +12,4 @@ categories:
   - "Musicians"
 ---
 
-Thể loại này liệt kê tất cả **ca sĩ** liên quan đến tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md). Đối với trang về Nhạc sĩ, hãy truy cập [Nhạc sĩ](../../main/M/Musicians.md)
+Thể loại này liệt kê tất cả **ca sĩ** liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) tác phẩm. Đối với trang về Nhạc sĩ, hãy truy cập [Nhạc sĩ](../../main/M/Musicians.md)

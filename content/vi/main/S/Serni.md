@@ -53,7 +53,7 @@ Trên [Bản đồ chung của Trung Địa](../G/General_Map_of_Middle-earth.md
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The river Serni was found in Lower <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a> in the region of Central <a href="../G/Gondor.md" title="Gondor">Gondor</a>. As its name indicated, it was strewn with rocks. There were two fords, with the western one being south of the town of &#34;Malbarth&#34; and the eastern one south of &#34;Ost Anglebed&#34;. The Serni was the domain of the stern River-maid Grey-eye, one of the Five Sisters, though she and her sisters were widely considered a myth by the time of the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a>.</dd></dl>
 

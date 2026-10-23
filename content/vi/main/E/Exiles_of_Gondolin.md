@@ -18,13 +18,13 @@ images:
 
 **Những người lưu vong của Gondolin** là những người sống sót sau [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md).
 
-## History {#History}
+## Lịch sử {#History}
 
-During the confusion of the sack of the city, [Tuor](../T/Tuor.md) and [Idril](../I/Idril.md) gathered all the remnants of the [Gondolindrim](../G/Gondolindrim.md) they could find. They escaped through [Idril's secret way](../I/Idril's_secret_way.md), a tunnel that led to [Tumladen](../T/Tumladen.md). Thanks to the burning of the fountains and the city of [Gondolin](../G/Gondolin.md), they were covered in fume and mists, so they could cross the plain unnoticed.
+Trong lúc hỗn loạn trong cuộc cướp bóc thành phố, [Tuor](../T/Tuor.md) và [Idril](../I/Idril.md) đã thu thập tất cả tàn tích của [Gondolindrim](../G/Gondolindrim.md) mà họ có thể tìm thấy. Họ trốn thoát bằng con đường bí mật của [Idril](../I/Idril's_secret_way.md), một đường hầm dẫn đến [Tumladen](../T/Tumladen.md). Nhờ việc đốt các đài phun nước và thành phố [Gondolin](../G/Gondolin.md), họ bị bao phủ bởi khói và sương mù nên họ có thể băng qua đồng bằng mà không bị chú ý.
 
-The group ran to [Cirith Thoronath](../C/Cirith_Thoronath.md), where [Glorfindel](../G/Glorfindel.md) killed the Balrog, saving them. Then they passed over the mountains, reaching the [Sirion](../S/Sirion.md) river, which they followed south. After many dangers, they came to [Nan-tathren](../N/Nan-tathren.md), and they could rest there for a while, healing their wounds, but not their sorrow.
+Cả nhóm chạy đến [Cirith Thoronath](../C/Cirith_Thoronath.md)thì [Glorfindel](../G/Glorfindel.md) giết chết Balrog, cứu họ. Sau đó, họ vượt qua những ngọn núi, đến sông [Sirion](../S/Sirion.md) rồi đi theo hướng nam. Sau bao hiểm nguy, họ đã đến được [Nan-tathren](../N/Nan-tathren.md), ở đó họ có thể nghỉ ngơi một thời gian, vết thương sẽ lành nhưng nỗi buồn thì không.
 
-Finally, they continued their way to the [Sea](../S/Sea.md), finding refuge in the [Havens of Sirion](../H/Havens_of_Sirion.md), along with the people of [Elwing](Elwing.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Cuối cùng, họ tiếp tục hành trình đến [Biển](../S/Sea.md), tìm nơi ẩn náu ở [Các Cảng Sirion](../H/Havens_of_Sirion.md), cùng với những người dân của [Elwing](Elwing.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

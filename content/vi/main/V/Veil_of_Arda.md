@@ -27,7 +27,7 @@ langlinks:
 
 ## Xem thêm {#See_also}
 
-- [Những Bức Tường của Thế Giới](../W/Walls_of_the_World.md)
+- [Những Bức Tường của Thế giới](../W/Walls_of_the_World.md)
 
 <span></span>
 

@@ -89,11 +89,11 @@ Sau chiến thắng ở [Helm's Deep](../H/Helm's_Deep.md) và việc thắp [bi
 
 <dl><dd>Grimbold is briefly glimpsed twice in this film. The first time is as <a href="../T/Théoden.md" title="Théoden">Théoden</a> arrives at Dunharrow and calls out to Grimbold. In this scene he appears as an elderly man in the armour of the guard of Edoras. Later on in the film as the Rohirrim arrive at the <a href="../P/Pelennor_Fields.md" title="Pelennor Fields">Pelennor Fields</a> Théoden gives Grimbold orders and tells him to &#34;Go forth and fear no darkness!&#34;. In these scenes he was played by <a href="../B/Bruce_Phillips.md" title="Bruce Phillips">Bruce Phillips</a>.</dd></dl>
 
-<b>2003: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi đánh bài</a></i>:</b>
+<b>2003: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i>:</b>
 
 <dl><dd>Contrary to the film&#39;s dialogue, <i>The Return of the King</i> set identifies a different <a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a> at <a href="../E/Edoras.md" title="Edoras">Edoras</a> from <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i> as Grimbold, not played by Bruce Phillips.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup></dd></dl>
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Grimbold is first met in his encampment in the <a href="Gap_of_Rohan.md" title="Gap of Rohan">Gap of Rohan</a>, where he is concerned with slowing the inevitable advance of the <a href="../D/Dunlendings.md" title="Dunlendings">Dunlendings</a>. During the First Battle of the Fords, Grimbold fights shoulder-to-shoulder with the player for most of the day, but Grimbold is too late to save the Théodred from a mortal blow by a large Uruk, for which he blames himself. In the aftermath of the second battle of the Fords, Gandalf tasks the player with searching for Grimbold, and after a lengthy search the player eventually finds him defending the grave of the Prince at the <a href="../F/Fords_of_Isen.md" title="Fords of Isen">Fords of Isen</a>, his only wish to die defending it.</dd>
 <dd>The player does not see Grimbold again until much later, when the Rohirrim are passing through the <a href="../D/Drúadan_Forest.md" title="Drúadan Forest">Drúadan Forest</a> on their way to the <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>. Grimbold perishes on the fields of Pelennor, mauled to death by a <a class="mw-redirect" href="../F/Fell_beast.md" title="Fell beast">fell beast</a>.</dd></dl>
@@ -109,7 +109,7 @@ Sau chiến thắng ở [Helm's Deep](../H/Helm's_Deep.md) và việc thắp [bi
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Trái ngược với lời thoại trong phim, <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi thẻ giao dịch</a></i> xác định một <a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a> khác với <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i> là Grimbold</span>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Trái ngược với lời thoại trong phim, <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i> xác định một <a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a> khác với <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i> là Grimbold</span>
 </li>
 </ol></div></span>
 

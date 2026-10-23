@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cûl"
 ---
 
-Chuyển hướng tới [Cûl](Cûl.md).
+Chuyển hướng đến [Cûl](Cûl.md).

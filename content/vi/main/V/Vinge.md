@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>Vinge</b></i> là một danh từ có nghĩa là "bọt" hoặc "phun" trong [Quenya](../Q/Quenya.md), bắt nguồn từ [Primitive Elvish](../P/Primitive_Quendian.md) <i><b>wingē</b></i><sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>*.* Tolkien bị bỏ trống rất nhiều về hình thức của từ này, và nó cũng vậy được tìm thấy dưới dạng <b><i>winga</i>, <i>vinga</i>,</b> và <i><b>winge,</b></i> và có dạng gốc <b><i>vingi-</i>.</b><sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> Nó có cùng nguồn gốc với *[gwing](../G/Gwing.md)* trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
+<i><b>Vinge</b></i> là một danh từ có nghĩa là "bọt" hoặc "xịt" trong [Quenya](../Q/Quenya.md), bắt nguồn từ [Primitive Elvish](../P/Primitive_Quendian.md) <i><b>wingē</b></i><sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>*.* Tolkien bị bỏ trống rất nhiều về dạng của từ này, và vì vậy nó cũng được tìm thấy là <b><i>winga</i>, <i>vinga</i>,</b> và <i><b>winge,</b></i> và có dạng gốc <b><i>vingi-</i>.</b><sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> Nó có cùng nguồn gốc với *[gwing](../G/Gwing.md)* trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
 
 Ví dụ:
 

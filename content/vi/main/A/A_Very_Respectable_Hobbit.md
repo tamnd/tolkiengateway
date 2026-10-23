@@ -14,7 +14,7 @@ sort_keys:
   "The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition": "214"
 ---
 
-**A Very Becomeable Hobbit** là bài hát thứ mười bốn của đĩa hai trong *[The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition](../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md)*, của [Howard Shore](../H/Howard_Shore.md). Đây là bài hát đầu tiên trong số bốn 'bài hát thưởng độc quyền'.
+**A Very Becomeable Hobbit** là bài hát thứ mười bốn trong đĩa hai của *[The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition](../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md)*, bởi [Howard Shore](../H/Howard_Shore.md). Đây là bài hát đầu tiên trong số bốn 'bài hát thưởng độc quyền'.
 
 ## Xem thêm {#See_also}
 

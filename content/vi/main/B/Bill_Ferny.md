@@ -132,7 +132,7 @@ Trong một bản thảo trước đó của [The Scouring of the Shire](../T/Th
 
 <dl><dd>Bill is one of the guests at the <i>Prancing Pony</i>, who doesn&#39;t want to be disturbed by Hobbits. Afterwards, he confronts Strider in the streets, and is killed.</dd></dl>
 
-<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Bill Ferny is encountered at several points in the game, spreading mischief throughout <a href="Bree-land.md" title="Bree-land">Bree-land</a>. At one points he attempts to forge an alliance between Sharkey&#39;s Men and a band of <a href="../O/Orcs.md" title="Orcs">Orcs</a> from <a href="../A/Angmar.md" title="Angmar">Angmar</a> that have been cut off, but that arrangement falls through due to intervention of the Dunedain Rangers.</dd></dl>
 

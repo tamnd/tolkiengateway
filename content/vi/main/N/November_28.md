@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "28 November"
 ---
 
-Chuyển hướng tới [28 tháng 11](../_/28_November.md).
+Chuyển hướng đến [28 tháng 11](../_/28_November.md).

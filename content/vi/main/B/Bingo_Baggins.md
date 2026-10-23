@@ -64,7 +64,7 @@ Bingo là con út trong số 5 người con của [Mungo Baggins](../M/Mungo_Bag
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các bản thảo đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, tên *Bingo* được sử dụng cho ký tự mà sau này được đặt tên là *[Frodo](../F/Frodo_Baggins.md)*; đầu tiên anh ấy là con trai của Bilbo, sau đó là "Bingo Bolger-Baggins" anh họ nuôi của anh ấy.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-rc_3-0" class="reference"><a href="#cite_note-rc-3">[3]</a></sup>
+Trong các bản thảo đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, tên *Bingo* được sử dụng cho ký tự mà sau này được đặt tên là *[Frodo](../F/Frodo_Baggins.md)*; đầu tiên anh ấy là Bilbo con trai, sau đó là "Bingo Bolger-Baggins" anh họ nuôi của anh ấy.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-rc_3-0" class="reference"><a href="#cite_note-rc-3">[3]</a></sup>
 
 Trong các phiên bản trước, [Phụ lục C](../A/Appendix_C.md) ghi cái chết của ông là [S.R.](../S/Shire_Reckoning.md) [1360](../T/Third_Age_2960.md), nhưng trong một số phiên bản sau, năm được ghi nhầm thành [1363](../T/Third_Age_2963.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

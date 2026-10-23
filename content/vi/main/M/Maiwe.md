@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Maiwë"
 ---
 
-Chuyển hướng tới [Maiwë](Maiwë.md).
+Chuyển hướng đến [Maiwë](Maiwë.md).

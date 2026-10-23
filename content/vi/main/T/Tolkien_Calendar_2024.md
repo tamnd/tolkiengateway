@@ -57,12 +57,12 @@ Lịch <i><b>Tolkien 2024</b></i> là lịch Tolkien chính thức được xu�
 - [Tháng 4](../A/April.md) - "[Tòa nhà Barad-dûr](../../file/A/Alan_Lee_-_The_building_of_Barad-dur.jpg.md)"
 - [Tháng 5](../M/May.md) - "[Việc rèn những chiếc nhẫn](../../file/A/Alan_Lee_-_The_forging_of_the_Rings.jpg.md)"
 - [Tháng 6](../J/June.md) - "[Galadriel dẫn Tiên tộc đến Moria](../../file/A/Alan_Lee_-_Galadriel_in_Moria.jpg.md)"
-- [Tháng 7](../J/July.md) - "[Đền Sauron](../../file/A/Alan_Lee_-_The_Temple_of_Sauron.jpg.md)"
+- [Tháng 7](../J/July.md) - "[ Đền thờ của Sauron](../../file/A/Alan_Lee_-_The_Temple_of_Sauron.jpg.md)"
 - [Tháng 8](../A/August.md) - "[Ar-Pharazôn tấn công Valinor](../../file/A/Alan_Lee_-_Ar-Pharazon_assails_Valinor.jpg.md)"
-- [tháng Chín](../S/September.md) - "[The Fall of Númenor](../../file/A/Alan_Lee_-_Fall_of_Númenor.jpg.md)" có phần phụ "[ Đại Bàng và Quân đội](../../file/A/Alan_Lee_-_The_Eagles_and_the_Army.jpg.md)"
+- [tháng Chín](../S/September.md) - "[The Fall of Númenor](../../file/A/Alan_Lee_-_Fall_of_Númenor.jpg.md)" có phần phụ "[The Đại Bàng và Quân đội](../../file/A/Alan_Lee_-_The_Eagles_and_the_Army.jpg.md)"
 - [Tháng 10](../O/October.md) - "[Gil-galad Vượt qua Dãy Núi Sương Mù](../../file/A/Alan_Lee_-_Gil-Galad_Crosses_the_Misty_Mountains.jpg.md)"
 - [Tháng 11](../N/November.md) - "[ Liên minh Cuối cùng của Tiên tộc và Con Người](../../file/A/Alan_Lee_-_The_Last_Alliance_of_Elves_and_Men.jpg.md)"
-- [Tháng 12](../D/December.md) - "[Isildur mất Chiếc nhẫn](../../file/A/Alan_Lee_-_Isildur_loses_the_Ring.jpg.md)"
+- [Tháng 12](../D/December.md) - "[Isildur thua Nhẫn](../../file/A/Alan_Lee_-_Isildur_loses_the_Ring.jpg.md)"
 - [2025](../_/2025.md) - "<a class="new" href="https://tolkiengateway.net/w/index.php?title=File:Alan_Lee_-_The_Faithful_escaping_the_Downfall&amp;action=edit&amp;redlink=1" title="File:Alan Lee - The Faithful escaping the Downfall (page does not exist)">Người trung thành thoát khỏi Sự sụp đổ</a>"
 
 ## Liên kết ngoài {#External_links}

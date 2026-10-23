@@ -22,7 +22,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Rings_of_Power_Season_2_Soundtrack.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/90/Rings_of_Power_Season_2_Soundtrack.jpg/320px-Rings_of_Power_Season_2_Soundtrack.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/90/Rings_of_Power_Season_2_Soundtrack.jpg/480px-Rings_of_Power_Season_2_Soundtrack.jpg 1.5x, https://tolkiengateway.net/w/images/9/90/Rings_of_Power_Season_2_Soundtrack.jpg 2x" data-file-width="640" data-file-height="640"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: The Rings of Power<br/>(Season Two: Amazon Original Series Soundtrack)</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Soundtrack by <a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/23_August.md" title="23 August">23 August</a>, <a href="../_/2024.md" title="2024">2024</a></td></tr></tbody></table>
 
-<i><b>The Lord of the Rings: The Rings of Power (Phần hai: Nhạc phim loạt phim gốc của Amazon)</b></i> là một album do [Bear McCreary](../B/Bear_McCreary.md) sáng tác cho mùa thứ hai của loạt phim truyền hình *[The Lord of the Rings: The Rings of Power](The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*. Bài hát được phát hành trực tuyến vào [23 tháng 8](../_/23_August.md), [2024](../_/2024.md) bởi Amazon Music.
+<i><b>The Lord of the Rings: The Rings of Power (Phần hai: Amazon Nhạc phim loạt phim gốc)</b></i> là album do [Bear McCreary](../B/Bear_McCreary.md) sáng tác cho mùa thứ hai của loạt phim truyền hình *[The Lord of the Rings: The Rings of Power](The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*. Nó được phát hành trực tuyến vào [23 tháng 8](../_/23_August.md), [2024](../_/2024.md) bởi Amazon Music.
 
 ## Nội dung {#Contents}
 
@@ -44,7 +44,7 @@ Sự hoàn hảo của 5. <a class="new" href="https://tolkiengateway.net/w/inde
 16. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Forgiveness_Takes_an_Age&amp;action=edit&amp;redlink=1" title="Forgiveness Takes an Age (page does not exist)">Sự tha thứ mất rất nhiều thời gian</a>
 17. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Candles_on_the_Tide&amp;action=edit&amp;redlink=1" title="Candles on the Tide (page does not exist)">Nến trên thủy triều</a> (feat. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Clydene_Jackson&amp;action=edit&amp;redlink=1" title="Clydene Jackson (page does not exist)">Clydene Jackson</a>)
 18. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Army_of_Orcs&amp;action=edit&amp;redlink=1" title="Army of Orcs (page does not exist)">Quân đội Orc</a>
-19. [Bản Ballad cuối cùng của Damrod](The_Last_Ballad_of_Damrod.md) (feat. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jens_Kidman&amp;action=edit&amp;redlink=1" title="Jens Kidman (page does not exist)">Jens Kidman</a>)
+19. [Bản ballad cuối cùng của Damrod](The_Last_Ballad_of_Damrod.md) (feat. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jens_Kidman&amp;action=edit&amp;redlink=1" title="Jens Kidman (page does not exist)">Jens Kidman</a>)
 20. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Battle_for_Eregion&amp;action=edit&amp;redlink=1" title="Battle for Eregion (page does not exist)">Trận chiến Eregion</a>
 21. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Durin%27s_Bane_(soundtrack)&amp;action=edit&amp;redlink=1" title="Durin&#39;s Bane (soundtrack) (page does not exist)">Tai ương của Durin</a>
 22. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Last_Temptation&amp;action=edit&amp;redlink=1" title="Last Temptation (page does not exist)">Cám dỗ cuối cùng</a>
@@ -58,7 +58,7 @@ Sự hoàn hảo của 5. <a class="new" href="https://tolkiengateway.net/w/inde
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://press.amazonmgmstudios.com/us/en/press-release/ithe-lord-of-the-rings-the-rings-of-poweri-season--1" rel="noreferrer noopener" target="_blank">The Lord of the Rings: The Rings of Power (Phần hai: Nhạc phim gốc của Amazon) sẽ được phát hành trên toàn thế giới vào ngày 23 tháng 8 năm 2024</a>
+- <a class="external text" href="https://press.amazonmgmstudios.com/us/en/press-release/ithe-lord-of-the-rings-the-rings-of-poweri-season--1" rel="noreferrer noopener" target="_blank">The Lord of the Rings: The Rings of Power (Phần hai: Amazon Nhạc phim gốc) Sẽ được phát hành trên toàn thế giới vào ngày 23 tháng 8 năm 2024</a>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

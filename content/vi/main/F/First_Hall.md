@@ -46,11 +46,11 @@ Sau sự sụp đổ của [Gandalf](../G/Gandalf.md), các thành viên còn l�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The <a href="../B/Bridge_of_Khazad-dûm.md" title="Bridge of Khazad-dûm">Bridge of Khazad-dûm</a> is now broken, so to access the First Hall one has to make a long and dangerous journey north of the chasm.</dd></dl>
 
-<b>2024: <i><a href="../T/The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">Chiếc nhẫn duy nhất</a> — <a href="../M/Moria_-_Through_the_Doors_of_Durin.md" title="Moria - Through the Doors of Durin">Moria: Qua cánh cửa của Durin</a></i>:</b>
+<b>2024: <i><a href="../T/The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">Chiếc nhẫn duy nhất</a> — <a href="../M/Moria_-_Through_the_Doors_of_Durin.md" title="Moria - Through the Doors of Durin">Moria: Qua Cánh cửa Durin</a></i>:</b>
 
 <dl><dd>Divided into an Outer Hall and an Inner Hall by a stone partition known as Durin&#39;s Door, the inner shrine held the original coronation throne of the Longbeards and ancient wall carvings carved by Durin the Deathless himself. When Moria fell, <a href="../N/Náin_I.md" title="Náin I">Náin I</a> ordered the craftsmen to cut the carvings from the walls and hide them to prevent their destruction. Despite never being crowned, Náin&#39;s name was scratched onto the slabs of royal names, though as the fifth of his name, a clue towards the lost Fifth Hall.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 

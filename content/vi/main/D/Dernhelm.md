@@ -42,7 +42,7 @@ Tên này có nghĩa là “người bảo vệ ẩn mình” trong [Tiếng Anh
 
 <dl><dd>Éowyn does not make use of the name, only dressing like a man. Her hair is tucked underneath an open-faced helmet, which she removes while confronting the Witch-king.</dd></dl>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (1981 radio series)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
 <dl><dd>Here Éowyn does introduce herself as Dernhelm, and is stated to wear a helmet with a visor that obscures her face.</dd></dl>
 

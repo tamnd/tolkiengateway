@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Velindo"
 ---
 
-Chuyển hướng đến [Velindo](../V/Velindo.md).
+Chuyển hướng tới [Velindo](../V/Velindo.md).

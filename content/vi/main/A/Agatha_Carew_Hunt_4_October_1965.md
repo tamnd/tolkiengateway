@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Agatha Carew Hunt"
 ---
 
-Chuyển hướng đến [Thư gửi Agatha Carew Hunt](../L/Letter_to_Agatha_Carew_Hunt.md).
+Chuyển hướng tới [Thư gửi Agatha Carew Hunt](../L/Letter_to_Agatha_Carew_Hunt.md).

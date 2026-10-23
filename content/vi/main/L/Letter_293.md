@@ -30,7 +30,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-William Foster, nhà báo của tờ <a class="extiw" href="http://en.wikipedia.org/wiki/The_Scotsman" title="wikipedia:The Scotsman"><i>The Scotsman</i></a>, đã yêu cầu một [phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md). Tolkien được đánh giá cao *The Scotsman*nhưng cho biết mình không thể phỏng vấn do thời gian hạn hẹp. Các cuộc phỏng vấn mới sẽ có khi cuốn sách tiếp theo của anh ấy ra mắt.
+William Foster, nhà báo của tờ <a class="extiw" href="http://en.wikipedia.org/wiki/The_Scotsman" title="wikipedia:The Scotsman"><i>The Scotsman</i></a>, đã yêu cầu một [phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md). Tolkien được đánh giá cao *The Scotsman*nhưng cho biết mình không thể phỏng vấn do thời gian hạn chế. Các cuộc phỏng vấn mới sẽ có khi cuốn sách tiếp theo của anh ấy ra mắt.
 
 ## Ghi chú {#Notes}
 

@@ -41,7 +41,7 @@ images:
 
 ## Lịch sử {#History}
 
-Sau khi giết vợ [Aredhel](../A/Aredhel.md), [Eöl](../E/Eöl.md) tên [Dark Tiên](../D/Dark_Elf.md) bị kết án tử hình bằng cách ném xuống Caragdûr. Ngay trước khi ngã xuống, Eöl đã hét lên với [Maeglin](../M/Maeglin.md), con trai ông rằng cậu sẽ chết ở chính nơi đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nhiều năm sau, trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Maeglin đã ra tay [Idril](../I/Idril.md) nhưng bị [Tuor](../T/Tuor.md)ngăn cản. Tuor đã chiến đấu với Maeglin và ném anh ta ra xa khiến cơ thể của Maeglin đập ba lần vào sườn dốc của [Amon Gwareth](../A/Amon_Gwareth.md). Mặc dù Maeglin không được cho là đã chết khi rơi từ Caragdûr, nhưng anh ấy đã chịu chung số phận với Eöl ở một địa điểm gần đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sau khi giết vợ [Aredhel](../A/Aredhel.md), [Eöl](../E/Eöl.md) tên [Dark Tiên](../D/Dark_Elf.md) bị kết án tử hình bằng cách ném xuống Caragdûr. Ngay trước khi ngã xuống, Eöl đã hét lên với [Maeglin](../M/Maeglin.md), con trai ông rằng cậu sẽ chết ở chính nơi đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nhiều năm sau, trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Maeglin đã ra tay [Idril](../I/Idril.md) nhưng bị [Tuor](../T/Tuor.md)ngăn cản. Tuor đánh nhau với Maeglin và hất anh ta ra xa khiến cơ thể của Maeglin đập ba lần vào sườn [Amon Gwareth](../A/Amon_Gwareth.md). Mặc dù Maeglin không được cho là đã chết khi rơi từ Caragdûr, nhưng anh ấy đã chịu chung số phận với Eöl ở một địa điểm gần đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

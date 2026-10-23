@@ -37,7 +37,7 @@ infobox:
 
 ## Từ bìa sau {#From_the_back_cover}
 
-*The Fairy-tale of Tolkien* kể về người sáng tạo kỳ lạ của những câu chuyện về Chiếc Nhẫn. Giáo sư Åke Ohlmarks - dịch giả người Thụy Điển cuốn sách Tolkien - giới thiệu bức chân dung của J.R.R. Tolkien, bao gồm cuộc đời và sự nghiệp của ông. Cuốn sách cũng cung cấp lời bình luận về bộ ba - về sự sáng tạo, ngôn ngữ và nguồn gốc của nó. Đây là cuốn tiểu sử Thụy Điển đầu tiên tập trung vào người kể chuyện vĩ đại nhất trong thế kỷ chúng ta.
+*The Fairy-tale of Tolkien* kể về người sáng tạo ra những câu chuyện đặc biệt về Nhẫn. Giáo sư Åke Ohlmarks - dịch giả người Thụy Điển cuốn Tolkien - giới thiệu bức chân dung J.R.R. Tolkien, bao quát cuộc đời và sự nghiệp của ông. Cuốn sách cũng cung cấp lời bình luận về bộ ba - về sự sáng tạo, ngôn ngữ và nguồn gốc của nó. Đây là cuốn tiểu sử Thụy Điển đầu tiên tập trung vào người kể chuyện vĩ đại nhất trong thế kỷ chúng ta.
 
 \[Được dịch miễn phí từ tiếng Thụy Điển\]
 

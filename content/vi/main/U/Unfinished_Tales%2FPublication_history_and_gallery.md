@@ -73,8 +73,8 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 
 - [1980](../_/1980.md): [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md), bìa cứng, trang 472. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231797">ISBN 0048231797</a> - (bìa dựa trên tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md))
     - Ấn bản bìa cứng năm 1980, lần in thứ 8 ([1987](../_/1987.md))
-- [1982](../_/1982.md): Unicorn / Unwin Bìa mềm, bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232084">ISBN 0048232084</a> - (ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
-    - Ấn bản bìa mềm năm 1982, lần in thứ 9 ([1987](../_/1987.md))
+- [1982](../_/1982.md): Unicorn / Unwin Paperbacks, bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232084">ISBN 0048232084</a> - (ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
+    - Ấn bản bìa mềm năm 1982, ấn bản thứ 9 ([1987](../_/1987.md))
 
 ## 1990-2000 {#1990-2000}
 

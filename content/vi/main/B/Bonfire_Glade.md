@@ -29,7 +29,7 @@ images:
 
 **Bonfire Glade** là lời nhắc nhở về 'cuộc chiến' kỳ lạ diễn ra giữa những cái cây độc ác của [Khu Rừng Cổ](../O/Old_Forest.md) và [Hobbit](../H/Hobbits.md) của [Buckland](Buckland.md), đôi khi giữa [T.A.](../T/Third_Age.md) [2340](../T/Third_Age_2340.md) và [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md).
 
-Cây cối đã tấn công [Hedge](../H/High_Hay.md) bảo vệ [Bucklanders](Bucklanders.md), và để trả thù, [Hobbit](../H/Hobbits.md) đã xâm chiếm khu rừng và đốt cháy hàng trăm cây trong một đống lửa lớn. Bonfire Glade là nơi xảy ra vụ cháy lớn đó, và thậm chí sau nhiều năm, cây cối vẫn để lại một nơi trống trải và trống trải.
+Cây cối đã tấn công [Hedge](../H/High_Hay.md) bảo vệ [Bucklanders](Bucklanders.md), và để trả thù, [Hobbit](../H/Hobbits.md) đã xâm chiếm khu rừng và đốt cháy hàng trăm cây trong một đống lửa lớn. Bonfire Glade là nơi xảy ra vụ cháy lớn đó, và thậm chí sau nhiều năm, cây cối vẫn để lại một nơi trống trải và trống rỗng.
 
 [Merry](../M/Meriadoc_Brandybuck.md) dẫn [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md)và [Pippin](../P/Peregrin_Took.md) đến trảng cỏ và ra phía bên kia trên con đường dẫn vào trung tâm của Khu Rừng Cổ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

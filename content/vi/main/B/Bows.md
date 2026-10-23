@@ -94,7 +94,7 @@ Có thể niềm say mê cung tên của Tolkien bắt nguồn từ những câu
 
 <dl><dd>Bows, just like all weapons from the films, were designed during the pre-production by artists like <a href="../W/Warren_Mahy.md" title="Warren Mahy">Warren Mahy</a>, with aid from <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> and <a href="../J/John_Howe.md" title="John Howe">John Howe</a>. The majorty of them were hand-crafted by <a class="mw-redirect" href="../W/Weta_Workshop.md" title="Weta Workshop">Weta Workshop</a> employees.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Races seen using bows include Men, Elves and Orcs. In <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i>, the <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a> use <a href="../C/Cross-bows.md" title="Cross-bows">crossbows</a> in the beginning of the <a class="mw-redirect" href="Battle_of_Helm&#39;s_Deep.md" title="Battle of Helm&#39;s Deep">Battle of Helm&#39;s Deep</a> (non-canonical to orcs).<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Bows are available to player characters as handheld ranged weapons.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> There are also crossbows, less common.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></dd></dl>
 

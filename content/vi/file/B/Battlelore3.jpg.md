@@ -23,7 +23,7 @@ file:
   user: "Mthomas"
 ---
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
 <p>The copyright of this image is most likely owned by the publisher or the artist who created the cover. It is believed that this image,

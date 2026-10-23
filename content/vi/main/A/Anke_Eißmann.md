@@ -61,27 +61,27 @@ Eißmann biết đến thế giới của [J.R.R. Tolkien](../J/J.R.R._Tolkien.m
 - [2006](../_/2006.md): *[Hither Shore 3](../H/Hither_Shore_3.md)*
 - [2006](../_/2006.md): *[Tolkien's The Lord of the Rings – Sources of Inspiration](../T/Tolkien's_The_Lord_of_the_Rings_–_Sources_of_Inspiration.md)*
 - [2007](../_/2007.md): *[Hither Shore 4](../H/Hither_Shore_4.md)*
-- [2008](../_/2008.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_5&amp;action=edit&amp;redlink=1" title="Hither Shore 5 (page does not exist)">Hither Shore 5</a></i>
+- [2008](../_/2008.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_5&amp;action=edit&amp;redlink=1" title="Hither Shore 5 (page does not exist)">Bên kia 5</a></i>
 - [2009](../_/2009.md): *[Beowulf and the Dragon](../B/Beowulf_and_the_Dragon.md)*
 - [2009](../_/2009.md): *[Hither Shore 6](../H/Hither_Shore_6.md)*
 - [2010](../_/2010.md): *[Music in Middle-earth](../M/Music_in_Middle-earth.md)*
 - [2010](../_/2010.md): *[Music in Tolkien's Work and Beyond](../M/Music_in_Tolkien's_Work_and_Beyond.md)*
-- [2010](../_/2010.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_7&amp;action=edit&amp;redlink=1" title="Hither Shore 7 (page does not exist)">Hither Shore 7</a></i>
-- [2011](../_/2011.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_8&amp;action=edit&amp;redlink=1" title="Hither Shore 8 (page does not exist)">Hither Shore 8</a></i>
+- [2010](../_/2010.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_7&amp;action=edit&amp;redlink=1" title="Hither Shore 7 (page does not exist)">Bên kia 7</a></i>
+- [2011](../_/2011.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_8&amp;action=edit&amp;redlink=1" title="Hither Shore 8 (page does not exist)">Bờ này 8</a></i>
 - [2012](../_/2012.md): *[Sub-creating Middle-earth](../S/Sub-creating_Middle-earth.md)*
 - [2012](../_/2012.md): *[Hither Shore 9](../H/Hither_Shore_9.md)*
 - [2013](../_/2013.md): *[O What a Tangled Web](../O/O_What_a_Tangled_Web.md)*
-- [2013](../_/2013.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_10&amp;action=edit&amp;redlink=1" title="Hither Shore 10 (page does not exist)">Hither Shore 10</a></i>
+- [2013](../_/2013.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_10&amp;action=edit&amp;redlink=1" title="Hither Shore 10 (page does not exist)">Bên kia 10</a></i>
 - [2014](../_/2014.md): *[From Peterborough to Faëry](../F/From_Peterborough_to_Faëry.md)*
-- [2014](../_/2014.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_11&amp;action=edit&amp;redlink=1" title="Hither Shore 11 (page does not exist)">Hither Shore 11</a></i>
+- [2014](../_/2014.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_11&amp;action=edit&amp;redlink=1" title="Hither Shore 11 (page does not exist)">Bên kia 11</a></i>
 - [2014](../_/2014.md): *[Tolkien and Philosophy](../T/Tolkien_and_Philosophy.md)*
-- [2015](../_/2015.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_12&amp;action=edit&amp;redlink=1" title="Hither Shore 12 (page does not exist)">Hither Shore 12</a></i>
+- [2015](../_/2015.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_12&amp;action=edit&amp;redlink=1" title="Hither Shore 12 (page does not exist)">Bên kia 12</a></i>
 - [2016](../_/2016.md): *[Hither Shore 13](../H/Hither_Shore_13.md)*
-- [2017](../_/2017.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_14&amp;action=edit&amp;redlink=1" title="Hither Shore 14 (page does not exist)">Hither Shore 14</a></i>
-- [2018](../_/2018.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_15&amp;action=edit&amp;redlink=1" title="Hither Shore 15 (page does not exist)">Hither Shore 15</a></i>
-- [2019](../_/2019.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_16&amp;action=edit&amp;redlink=1" title="Hither Shore 16 (page does not exist)">Hither Shore 16</a></i>
-- [2020](../_/2020.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_17&amp;action=edit&amp;redlink=1" title="Hither Shore 17 (page does not exist)">Hither Shore 17</a></i>
-- [2021](../_/2021.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_18&amp;action=edit&amp;redlink=1" title="Hither Shore 18 (page does not exist)">Hither Shore 18</a></i>
+- [2017](../_/2017.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_14&amp;action=edit&amp;redlink=1" title="Hither Shore 14 (page does not exist)">Bên kia 14</a></i>
+- [2018](../_/2018.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_15&amp;action=edit&amp;redlink=1" title="Hither Shore 15 (page does not exist)">Bên kia 15</a></i>
+- [2019](../_/2019.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_16&amp;action=edit&amp;redlink=1" title="Hither Shore 16 (page does not exist)">Bên kia 16</a></i>
+- [2020](../_/2020.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_17&amp;action=edit&amp;redlink=1" title="Hither Shore 17 (page does not exist)">Bờ này 17</a></i>
+- [2021](../_/2021.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_18&amp;action=edit&amp;redlink=1" title="Hither Shore 18 (page does not exist)">Bờ này 18</a></i>
 - [2022](../_/2022.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Drag%C3%B3n_Verde_13&amp;action=edit&amp;redlink=1" title="Dragón Verde 13 (page does not exist)">Dragón Verde 13</a></i>
 - [2024](../_/2024.md): *[Germanic Heroes, Courage, and Fate](../G/Germanic_Heroes,_Courage,_and_Fate.md)*
 

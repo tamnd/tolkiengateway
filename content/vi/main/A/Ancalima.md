@@ -18,7 +18,7 @@ categories:
 ## Ví dụ {#Examples}
 
 - <i><a href="Aiya_Eärendil_elenion_ancalima!.md" title="Aiya Eärendil elenion ancalima!">Aiya Eärendil elenion <b>ancalima</b>!</a></i> = "Mưa đá Eärendil **sáng nhất** của các vì sao!"
-- <i><a href="Aiya.md" title="Aiya">Aiya</a> <a href="../E/Elen.md" title="Elen">elenion</a> <b>ancalima</b>!</i> = "Mưa đá **sáng nhất** của các vì sao!"
+- <i><a href="Aiya.md" title="Aiya">Aiya</a> <a href="../E/Elen.md" title="Elen">elenion</a> <b>ancalima</b>!</i> = "Mưa đá **sáng nhất** của các ngôi sao!"
 
 <span></span>
 

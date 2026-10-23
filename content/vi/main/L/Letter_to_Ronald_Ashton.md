@@ -18,7 +18,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Ronald_Ashton_12_March_1927.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/23/Ronald_Ashton_12_March_1927.jpg/300px-Ronald_Ashton_12_March_1927.jpg" decoding="async" loading="lazy" width="300" height="184" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/2/23/Ronald_Ashton_12_March_1927.jpg 1.5x" data-file-width="357" data-file-height="219"/></a><figcaption></figcaption></figure>
 
-Vào [12 tháng 3](../_/12_March.md) [1927](../_/1927.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho Ronald Ashton** (cựu sinh viên tại [Đại học Leeds](../U/University_of_Leeds.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào [12 tháng 3](../_/12_March.md) [1927](../_/1927.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) gửi Ronald Ashton** (cựu sinh viên tại [Đại học Leeds](../U/University_of_Leeds.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Chủ đề**: Tolkien đề nghị viết <a class="extiw" href="http://en.wikipedia.org/wiki/Testimonial" title="wikipedia:Testimonial">lời chứng thực</a>. Nhận xét về [Oxford](../O/Oxford.md), "*trung tâm của ngành công nghiệp ô tô: sự điên rồ tuyệt vời đó*" và về các trường Đại học ở Leeds và Oxford.
 - **Ấn bản:** Các trích dẫn xuất hiện trong *[Michael Silverman, Catalogue Twenty-Seven](../M/Michael_Silverman_Catalogue_27.md)*.

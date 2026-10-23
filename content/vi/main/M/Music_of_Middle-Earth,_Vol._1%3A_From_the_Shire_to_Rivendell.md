@@ -35,5 +35,5 @@ Vần điệu của quỷ lùn 15. Sam
 16. Bài hát của Earendil
 Câu đố của 17. Boromir
 18. Cảnh báo mùa đông
-Bài hát của 19. Bilbo
+19. Bilbo Bài hát
 20. Mèo

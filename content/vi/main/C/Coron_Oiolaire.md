@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ezellohar"
 ---
 
-Chuyển hướng tới [Ezellohar](../E/Ezellohar.md).
+Chuyển hướng đến [Ezellohar](../E/Ezellohar.md).

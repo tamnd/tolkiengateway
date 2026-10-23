@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Eldacar](<../../main/E/Eldacar_(King_of_Gondor).md>) của [Gondor](../../main/G/Gondor.md)" của [Matěj Čadil](../../main/M/Matěj_Čadil.md)
+"[Eldacar](<../../main/E/Eldacar_(King_of_Gondor).md>) của [Gondor](../../main/G/Gondor.md)" bởi [Matěj Čadil](../../main/M/Matěj_Čadil.md)
 
 ## Giấy phép {#Licensing}
 

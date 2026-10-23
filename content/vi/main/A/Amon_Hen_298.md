@@ -48,7 +48,7 @@ infobox:
 - **8** - Thơ: Théodred của Eren Goetz
 - **10** - Từ Goth Persephone đến Đức Mẹ Sầu Bi: Bản chất tiến hóa của Nienna của Marilyn R. Pukkila
 - **17** - Oxonmoot
-- **18** - Giữa trang: Mùa đông ở Shire của [Matěj Čadil](../M/Matěj_Čadil.md)
+- **18** - Centerfold: Mùa đông ở Shire của [Matěj Čadil](../M/Matěj_Čadil.md)
 - **20** - Trò chơi trên tuyết của Helen Armstrong
 - **24** - Đánh giá [The Fall of Númenor: và những câu chuyện khác từ thời thứ hai Trung Địa](../T/The_Fall_of_Númenor.md) của Amanda Drak
 - **26** - Lembas Thêm năm 2022 Númenor của [Brian Sibley](../B/Brian_Sibley.md)

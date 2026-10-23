@@ -163,7 +163,7 @@ Một bài viết kỹ lưỡng bao gồm cốt truyện, nhân vật, lịch s�
 
 **20 tháng 1 năm 2022 - 21 tháng 5 năm 2022**
 
-Một bài viết kỹ lưỡng bao gồm cốt truyện, nhân vật, lịch sử xuất bản và sự tiếp nhận của giới phê bình đối với cuốn sách. Ngoài ra còn có các bài viết liên quan cho các nhân vật quan trọng hơn. Bài viết được tham khảo đầy đủ và đáp ứng đủ 10 tiêu chí nêu trên. --<a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith"><span style="color:#2F4F4F"><b>Mith</b></span></a> <small>(<a href="https://tolkiengateway.net/wiki/User_talk:Mith" title="User talk:Mith"><span style="color:#696969"><b>Thảo luận</b></span></a>/<a href="https://tolkiengateway.net/wiki/Special:Contributions/Mith" title="Special:Contributions/Mith"><span style="color:#708090">Đóng góp</span></a>/<a href="https://tolkiengateway.net/wiki/Special:Editcount/Mith/Edits" title="Special:Editcount/Mith/Edits"><span style="color:#778899">Chỉnh sửa</span></a>)</small> 22:11, ngày 26 tháng 12 năm 2018 (UTC)
+Một bài viết kỹ lưỡng bao gồm cốt truyện, nhân vật, lịch sử xuất bản và sự tiếp nhận của giới phê bình đối với cuốn sách. Ngoài ra còn có các bài viết liên quan cho các nhân vật quan trọng hơn. Bài viết được tham khảo đầy đủ và đáp ứng tất cả mười tiêu chí nêu trên. --<a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith"><span style="color:#2F4F4F"><b>Mith</b></span></a> <small>(<a href="https://tolkiengateway.net/wiki/User_talk:Mith" title="User talk:Mith"><span style="color:#696969"><b>Thảo luận</b></span></a>/<a href="https://tolkiengateway.net/wiki/Special:Contributions/Mith" title="Special:Contributions/Mith"><span style="color:#708090">Đóng góp</span></a>/<a href="https://tolkiengateway.net/wiki/Special:Editcount/Mith/Edits" title="Special:Editcount/Mith/Edits"><span style="color:#778899">Chỉnh sửa</span></a>)</small> 22:11, ngày 26 tháng 12 năm 2018 (UTC)
 
 <dl><dd><b>Agree</b>. Thoroughly written, great article in general. I think it would do nicely. --<a href="https://tolkiengateway.net/wiki/User:Holdwine_Meriadoc" title="User:Holdwine Meriadoc"><span style="color:#B8860B"><b>Holdwine Meriadoc</b></span></a><small> (<a href="https://tolkiengateway.net/wiki/User_talk:Holdwine_Meriadoc" title="User talk:Holdwine Meriadoc"><span style="color:#B8860B"><b>Talk</b></span></a>/<a href="https://tolkiengateway.net/wiki/Special:Contributions/Holdwine_Meriadoc" title="Special:Contributions/Holdwine Meriadoc"><span style="color:#B8860B">Contribs</span></a>/<a href="https://tolkiengateway.net/wiki/Special:Editcount/Holdwine_Meriadoc/Edits" title="Special:Editcount/Holdwine Meriadoc/Edits"><span style="color:#B8860B">Edits</span></a>)</small></dd>
 <dd><b>Agree</b>. --<a class="mw-redirect" href="https://tolkiengateway.net/wiki/User:LorenzoCB" title="User:LorenzoCB">LorenzoCB</a> 12:13, 20 January 2022 (UTC)</dd></dl>
@@ -176,7 +176,7 @@ Một bài viết kỹ lưỡng bao gồm cốt truyện, nhân vật, lịch s�
 
 **Đồng ý**: Tôi nghĩ sẽ thật tuyệt vời nếu đăng một bài viết về vũ khí, đặc biệt là loại vũ khí có lịch sử ban đầu như vậy. Bài viết rất hấp dẫn và được thực hiện tốt -Sindarinelf
 
-**Đồng ý**. Tôi nghĩ bài viết này được viết rất hay và sẽ rất tuyệt nếu giới thiệu một loại vũ khí, đặc biệt là một loại vũ khí quan trọng như Gurthang. -[Ancalagon phe Đen](https://tolkiengateway.net/wiki/User:Ancalagon_the_Black) 17:40, ngày 4 tháng 10 năm 2020 (UTC)
+**Đồng ý**. Tôi nghĩ bài viết này được viết rất hay và sẽ rất tuyệt nếu giới thiệu một loại vũ khí, đặc biệt là một loại vũ khí quan trọng như Gurthang. -[Ancalagon Đen](https://tolkiengateway.net/wiki/User:Ancalagon_the_Black) 17:40, ngày 4 tháng 10 năm 2020 (UTC)
 
 **Đồng ý**. Tôi nghĩ việc giới thiệu một loại vũ khí là một ý tưởng tuyệt vời và đây là một thứ rất quan trọng trong truyền thuyết. Bài viết rõ ràng và mang tính giải trí. -Mithrandir
 
@@ -216,7 +216,7 @@ Tôi đang đưa một số công việc vào trang [Curufin](../../main/C/Curuf
 
 **12 tháng 6 năm 2024 - Hiện tại**
 
-Bài viết này đã được thêm vào như một bài viết nổi bật tại thời điểm thiết kế lại Trang Chính. Không có hồ sơ đề cử.
+Bài viết này đã được thêm vào làm bài viết nổi bật tại thời điểm thiết kế lại Trang chính. Không có hồ sơ đề cử.
 
 ## Đề cử không thành công {#Unsuccessful_nominations}
 

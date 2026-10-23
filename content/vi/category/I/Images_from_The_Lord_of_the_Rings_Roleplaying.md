@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images from The One Ring Second Edition"
 ---
 
-Chuyển hướng đến [Danh mục:Hình ảnh từ Phiên bản thứ hai của The One Ring](Images_from_The_One_Ring_Second_Edition.md).
+Chuyển hướng đến [Danh mục:Hình ảnh từ Chiếc nhẫn duy nhất Ấn bản thứ hai](Images_from_The_One_Ring_Second_Edition.md).

@@ -42,9 +42,9 @@ Trò chơi được thiết kế bởi [Mark Whittlesey](../M/Mark_Whittlesey.md
 
 ## Cách chơi {#Gameplay}
 
-Cách chơi được sao chép từ trò chơi đầu tiên<sup id="cite_ref-El_Anillo_3-4" class="reference"><a href="#cite_note-El_Anillo-3">[3]</a></sup> nhưng được làm dễ dàng hơn đáng kể. Không giống như người tiền nhiệm, không có nhân vật cố định: có thể chơi được một số nhân vật,<sup id="cite_ref-Moby_5-1" class="reference"><a href="#cite_note-Moby-5">[5]</a></sup> mỗi nhân vật có một lựa chọn vũ khí.
+Cách chơi được sao chép từ trò chơi đầu tiên<sup id="cite_ref-El_Anillo_3-4" class="reference"><a href="#cite_note-El_Anillo-3">[3]</a></sup> nhưng được làm dễ dàng hơn đáng kể. Không giống như phiên bản trước, không có nhân vật cố định: có thể chơi được một số nhân vật,<sup id="cite_ref-Moby_5-1" class="reference"><a href="#cite_note-Moby-5">[5]</a></sup> mỗi nhân vật có một lựa chọn vũ khí.
 
-Trò chơi cũng có hệ thống <a class="extiw" href="http://en.wikipedia.org/wiki/Automap" title="wikipedia:Automap">tự động ánh xạ</a> và tỷ lệ đã được giảm xuống để cải thiện khả năng định hướng của người chơi.
+Trò chơi cũng có hệ thống <a class="extiw" href="http://en.wikipedia.org/wiki/Automap" title="wikipedia:Automap">ánh xạ tự động</a> và tỷ lệ đã được giảm xuống để cải thiện khả năng định hướng của người chơi.
 
 ## Xem thêm {#See_also}
 

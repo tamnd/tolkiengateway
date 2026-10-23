@@ -32,6 +32,6 @@ Sử dụng các kỹ thuật lập bản đồ tiên tiến mới nhất và ng
     - Đĩa Một: Phân tích phê phán toàn diện về Hiệp hội những chiếc nhẫn và The Two Towers
     - Đĩa Hai: Phân tích phê bình toàn diện về The Return of the King
     - Cuốn sách: Phân tích phê bình toàn diện về The Lord of the Rings
-    - Anh em Hildebrandt và nghệ thuật Trung Địa
+    - Anh em nhà Hildebrandt và nghệ thuật Trung Địa
     - Chủ yếu là mùa thu: Âm nhạc lấy cảm hứng từ The Lord of the Rings
     - Tolkien: cuộc sống và công việc của anh được những người thân thiết nhất trong đó có gia đình và cộng sự nhớ lại.

@@ -57,7 +57,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Vòng Phán xét nằm bên ngoài cánh cổng vàng phía tây của thành phố [Valimar](../V/Valimar.md) với ngai vàng của Valar được sắp xếp thành hình tròn.<sup id="cite_ref-s1_2-0" class="reference"><a href="#cite_note-s1-2">[2]</a></sup> Ngọn đồi xanh tươi của [Ezellohar](../E/Ezellohar.md), trên đó [Hai Cây](../T/Two_Trees_of_Valinor.md) của [Valinor](../V/Valinor.md) phát triển cho đến khi [Tối tăm](../D/Darkening_of_Valinor.md), nằm trong Vòng tròn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Vòng Phán xét nằm bên ngoài cánh cổng vàng phía tây của thành phố [Valimar](../V/Valimar.md) với ngai vàng của Valar được sắp xếp thành hình tròn.<sup id="cite_ref-s1_2-0" class="reference"><a href="#cite_note-s1-2">[2]</a></sup> Ngọn đồi thường xanh của [Ezellohar](../E/Ezellohar.md), trên đó [Hai Cây](../T/Two_Trees_of_Valinor.md) của [Valinor](../V/Valinor.md) phát triển cho đến khi [Tối dần](../D/Darkening_of_Valinor.md), nằm trong Nhẫn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Các Valar đang ngồi trên ngai vàng của mình trong khi xem [Yavanna](../Y/Yavanna.md) tụng kinh, mang Hai Cây đến với Ezellohar.<sup id="cite_ref-s1_2-1" class="reference"><a href="#cite_note-s1-2">[2]</a></sup> Mãi mãi về sau, các Quyền lực ngồi tắm trong ánh sáng của Cây để tổ chức các hội đồng vĩ đại của họ, và tại đây một số quyết định quan trọng nhất trong lịch sử [Eä](../E/Eä.md)đã được đưa ra.
 

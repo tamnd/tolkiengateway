@@ -40,15 +40,15 @@ infobox:
 
 <i><b>Angmar</b></i> là phần bổ sung (trong dòng *Realm*) cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, Phiên bản thứ 2. Nó thay thế Ấn bản đầu tiên *[Empire of the Witch-king](../E/Empire_of_the_Witch-king.md)*, bản thân nó kết hợp tài liệu sửa đổi từ Ấn bản đầu tiên *[Angmar: Land of the Witch King](Angmar%253A_Land_of_the_Witch_King.md)* với hơn 70 trang văn bản mới.
 
-Để sử dụng cùng với phần bổ sung này, [Mithril Miniatures](../M/Mithril_Miniatures.md) đã phát hành một bộ mô hình thu nhỏ bằng kim loại (M42 - M51 *Witch-king of Angmar Army*).
+Để sử dụng với phần bổ sung này, [Mithril Miniatures](../M/Mithril_Miniatures.md) đã phát hành một bộ mô hình thu nhỏ bằng kim loại (M42 - M51 *Witch-king of Angmar Army*).
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-*"Vì vào thời điểm đó, vương quốc Angmar nổi lên ở phía Bắc ngoài Ettenmoors. Vùng đất của nó nằm ở hai bên Dãy núi và tập trung nhiều kẻ ác, lũ Orc và những sinh vật sa ngã khác. \[Lãnh chúa của vùng đất đó được biết đến với cái tên Vua phù thủy, nhưng mãi về sau người ta mới biết rằng ông ta thực sự là thủ lĩnh của Ma Nhẫn, kẻ đã đến phía bắc với mục đích tiêu diệt người Dûnedain ở Arnor, nhìn thấy hy vọng trong sự bất hòa của họ, trong khi Gondor còn mạnh mẽ.\]"* - Sự trở lại của nhà vua, Phụ lục A
+*"Vì vào thời điểm đó, vương quốc Angmar nổi lên ở phía Bắc ngoài Ettenmoors. Vùng đất của nó nằm ở hai bên Dãy núi và tập trung nhiều kẻ ác, lũ Orc và những sinh vật sa ngã khác. \[Lãnh chúa của vùng đất đó được biết đến với cái tên Vua phù thủy, nhưng mãi về sau người ta mới biết rằng ông ta thực sự là thủ lĩnh của các Ma Nhẫn, kẻ đã đến phía bắc với mục đích tiêu diệt người Dûnedain ở Arnor, nhìn thấy hy vọng trong sự chia rẽ của họ, trong khi Gondor còn mạnh mẽ.\]"* - Sự trở lại của nhà vua, Phụ lục A
 
 Ngôi nhà sắt, lãnh địa của Vua Phù thủy, là một vùng đất lạnh lẽo, ảm đạm được lang thang bởi các Linh mục Chiến binh mặc áo choàng đen. Những kẻ lang thang nham hiểm này giám sát các nô lệ, lính lính và các bộ tộc Orc phục vụ chủ nhân của Carn Dûm. Nỗi sợ hãi là tay cầm roi và che khuất sự thức tỉnh của họ. Nắng Angmar thưa thớt, cái cay đắng của khí hậu in sâu vào mảnh đất và cư dân nơi đây. Bóng tối lạnh lẽo của Ngôi nhà sắt đe dọa không chỉ nước láng giềng Arthedain, vương quốc kế thừa của Arnor, mà còn đe dọa tất cả các Dân tộc Tự do của Trung Địa.
 
-Angmar là bản tái bản của mô-đun chiến dịch ICE năm 1989 có tựa đề Empire of the Vua Phù thủy. Lần tái bản này như một tác phẩm vương quốc có sự xuất sắc của cuốn sách bán chạy nhất trước đó cùng với vô số hình minh họa mới tinh tế. Angmar bao gồm số liệu thống kê đầy đủ cho MERP, Trò chơi phiêu lưu Chúa tể những chiếc nhẫn và Rolemaster.
+Angmar là bản tái bản của mô-đun chiến dịch ICE năm 1989 có tựa đề Empire of the Vua Phù thủy. Lần tái bản này như một tác phẩm vương quốc có sự xuất sắc của cuốn sách bán chạy nhất trước đó cùng với vô số hình minh họa mới tinh tế. Angmar bao gồm số liệu thống kê đầy đủ cho MERP, Lord of the Rings Adventure Game và Rolemaster.
 
 Angmar tính năng:
 

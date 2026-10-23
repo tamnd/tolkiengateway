@@ -56,7 +56,7 @@ infobox:
     - Bởi [Charles E. Noad](../C/Charles_Noad.md)
 - Cáo phó của J.R.R. Tolkien
     - In lại từ *The Times*
-- Đế chế Dunedan ở Trung Địa
+- Các đế chế Dunedan ở Trung Địa
     - Bởi Peter Burley
 
 ### Quảng cáo {#Creative}

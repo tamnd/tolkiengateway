@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ban đầu được vẽ bởi [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) với màu [đen và trắng](J.R.R._Tolkien_-_Tol_Sirion.jpg.md), phiên bản này được thêm màu bởi [H.E. Riddett](../../main/H/H.E._Riddett.md) và xuất hiện trong [The Silmarillion Lịch 1978](../../main/T/The_Silmarillion_Calendar_1978.md).
+Ban đầu được vẽ bởi [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) với màu [đen và trắng](J.R.R._Tolkien_-_Tol_Sirion.jpg.md), phiên bản này được thêm màu bởi [H.E. Riddett](../../main/H/H.E._Riddett.md) và xuất hiện trong [The Silmarillion Calendar 1978](../../main/T/The_Silmarillion_Calendar_1978.md).
 
 ## Giấy phép {#Licensing}
 

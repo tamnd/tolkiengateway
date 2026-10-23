@@ -36,7 +36,7 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - "<a class="external text" href="http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&amp;objectid=109103" rel="noreferrer noopener" target="_blank">Thẩm phán là chủ mưu của New Zealand</a>" tại New Zealand Herald
-- <a class="external text" href="http://www.bbc.co.uk/programmes/b00qr337" rel="noreferrer noopener" target="_blank">Người chủ mưu của BBC</a>
+- <a class="external text" href="http://www.bbc.co.uk/programmes/b00qr337" rel="noreferrer noopener" target="_blank">BBC Chủ mưu</a>
 
 <span></span>
 

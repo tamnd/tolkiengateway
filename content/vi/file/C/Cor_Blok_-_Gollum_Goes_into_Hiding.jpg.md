@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Gollum](../../main/G/Gollum.md) Đi trốn" của [Cor Blok](../../main/C/Cor_Blok.md).
+"[Gollum](../../main/G/Gollum.md) Đi ẩn náu" của [Cor Blok](../../main/C/Cor_Blok.md).
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Alas, poor Gollum! Crawling downward in the dark forever, clutching your Precious — only to discover, too late, that It will betray you and that your long, long quest to retrieve It will end in mutual destruction!

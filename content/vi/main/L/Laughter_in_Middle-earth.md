@@ -55,9 +55,9 @@ infobox:
 - "Sự thiếu hiểu biết rõ ràng ở dạng thô tục: Sự hài hước dị thường của Tolkien trong *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)*" của [Łukasz Neubauer](../_/Łukasz_Neubauer.md)
 - "'Tất nhiên đây là cách nói chuyện với rồng': Hài hước dựa trên nghi thức xã giao trong *[The Hobbit](../T/The_Hobbit.md)*" của Laura Lee Smith
 - "Nhại lại tác phẩm của J.R.R. Tolkien" của Evelyn Koch
-- "Chiến lược hài hước trong trò nhại chiếc nhẫn ngu ngốc" của Sherrylyn Branchaw
+- "Chiến lược hài hước trong tác phẩm nhại Nhẫn ngu ngốc" của Sherrylyn Branchaw
 - "Sự hài hước trong nghệ thuật khắc họa Trung Địa" của Davide Martini
-- "Hài hước, hài kịch, hài hước, hài hước, chơi chữ, chơi chữ, 'kỳ ảo' và 'Hài hước kiểu Anh' trong và xung quanh Tolkien và Tác phẩm của anh ấy, và trong số Inklings" của [Jared Lobdell](../J/Jared_Lobdell.md)
+- "Hài hước, hài kịch, hài hước, hài hước, chơi chữ, chơi chữ, 'Huyền tưởng' và 'Hài hước kiểu Anh' trong và xung quanh Tolkien và Tác phẩm của anh ấy, và trong số Inklings" của [Jared Lobdell](../J/Jared_Lobdell.md)
 
 ## Từ nhà xuất bản {#From_the_publisher}
 

@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"...hành lý và gói hàng...được xác nhận bởi [Goblin](../../main/O/Orcs.md)..." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"...hành lý và gói hàng...được [Goblin](../../main/O/Orcs.md)nhận" bởi [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

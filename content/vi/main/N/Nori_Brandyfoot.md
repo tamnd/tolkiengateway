@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elanor Brandyfoot"
 ---
 
-Chuyển hướng tới [Elanor Brandyfoot](../E/Elanor_Brandyfoot.md).
+Chuyển hướng đến [Elanor Brandyfoot](../E/Elanor_Brandyfoot.md).

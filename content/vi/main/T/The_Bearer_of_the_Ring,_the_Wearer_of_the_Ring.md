@@ -12,7 +12,7 @@ categories:
   - "The Return of the King (1980 film) soundtrack"
 ---
 
-**Người mang chiếc nhẫn, người đeo chiếc nhẫn** là bài hát được viết bởi [Maury Laws](../M/Maury_Laws.md) (nhạc) và [Jules Bass](../J/Jules_Bass.md) (lời) cho bộ phim hoạt hình [1980](../_/1980.md) [*The Return of the King*](<The_Return_of_the_King_(1980_film).md>). Các đoạn trích của bài hát tái diễn xuyên suốt bộ phim, cho thấy sức nặng tâm lý của [Chiếc nhẫn duy nhất](The_One_Ring.md) đè nặng lên cả [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) trong hành trình tiêu diệt nó.
+**The Bearer of the Nhẫn, the Wearer of the Nhẫn** là bài hát được viết bởi [Maury Laws](../M/Maury_Laws.md) (nhạc) và [Jules Bass](../J/Jules_Bass.md) (lời) cho bộ phim hoạt hình [1980](../_/1980.md) [*The Return of the King*](<The_Return_of_the_King_(1980_film).md>). Các đoạn trích của bài hát tái hiện xuyên suốt bộ phim, cho thấy sức nặng tâm lý của [Đấng Nhẫn](The_One_Ring.md) đè nặng lên cả [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) trong hành trình tiêu diệt nó.
 
 ## Lời bài hát {#Lyrics}
 

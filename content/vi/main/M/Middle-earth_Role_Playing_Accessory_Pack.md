@@ -43,7 +43,7 @@ infobox:
 
 Middle-earth Role Playing Gói phụ kiện bao gồm:
 
-THE LOONS OF THE LONG FELL, một cuộc phiêu lưu đầy mê hoặc trong Trollshaws giới thiệu cho những người mới sử dụng MERP về thế giới của Tolkien và những điều kỳ diệu của vai diễn giả tưởng trong Trung Địa. Kịch bản bao gồm:
+THE LOONS OF THE LONG FELL, một cuộc phiêu lưu đầy mê hoặc trong Trollshaws giới thiệu MERP người mới làm quen với thế giới của Tolkien và những điều kỳ diệu của vai diễn giả tưởng trong Trung Địa. Kịch bản bao gồm:
 
 - 6 nhân vật được phát triển đầy đủ sẵn sàng chơi và tận hưởng mà không cần chuẩn bị hay rắc rối.
 - Ghi chú mở rộng dành cho Quản trị viên trò chơi nhằm giúp các GM ít kinh nghiệm hơn tìm hiểu sự tinh tế trong việc chế tạo và thực hiện một cuộc phiêu lưu.
@@ -52,7 +52,7 @@ THE LOONS OF THE LONG FELL, một cuộc phiêu lưu đầy mê hoặc trong Tro
 - 16 TRANG HIỂN THỊ MÀU khiến cuộc phiêu lưu trở nên sống động khi các nhân vật đứng được đặt trên bề mặt của chúng. Bạn sẽ thấy một cái nhìn toàn cảnh về địa hình và hành động. Các màn hình bao gồm bản đồ màu và sơ đồ tầng của:
 - The Last Inn, Fulcwian's House và The Long Fell cho cuộc phiêu lưu trong Gói Phụ kiện này.
 - Lâu đài đổ nát & Hang ổ của quỷ khổng lồ cho kịch bản trong sách quy tắc Middle-earth Role Playing.
-- DICE để sử dụng với MERP và The Loons of the Long Fell.
+- XÚC XÚC để sử dụng với MERP và The Loons of the Long Fell.
 
 (Một số tài liệu này trước đây đã được xuất bản trong ấn bản đầu tiên được đóng hộp của Middle-earth Role Playing)
 

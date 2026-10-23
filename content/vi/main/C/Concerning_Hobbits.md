@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Prologue (The Lord of the Rings)"
 ---
 
-Chuyển hướng đến [Mở đầu (The Lord of the Rings)](<../P/Prologue_(The_Lord_of_the_Rings).md>).
+Chuyển hướng tới [Mở đầu (The Lord of the Rings)](<../P/Prologue_(The_Lord_of_the_Rings).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Led Zeppelin"
 ---
 
-Chuyển hướng tới [Led Zeppelin](../L/Led_Zeppelin.md).
+Chuyển hướng đến [Led Zeppelin](../L/Led_Zeppelin.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "First Battle of the Fords of Isen"
 ---
 
-Chuyển hướng tới [Trận chiến thứ nhất của Fords của Isen](First_Battle_of_the_Fords_of_Isen.md).
+Chuyển hướng đến [Trận chiến thứ nhất của Fords của Isen](First_Battle_of_the_Fords_of_Isen.md).

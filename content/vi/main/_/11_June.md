@@ -64,10 +64,10 @@ Sự kiện xảy ra vào ngày 11 tháng 6
 - **[1902](1902.md)** - Họa sĩ minh họa [Eric Fraser](../E/Eric_Fraser.md) ra đời.
 - **[1920](1920.md)** - Dịch giả người Đức [Walter Scherf](../W/Walter_Scherf.md) ra đời.
 - **[1935](1935.md)** – Người giám hộ và là "người cha thứ hai" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) [Cha Phanxicô](../F/Francis_Xavier_Morgan.md) qua đời.
-- **[1953](1953.md)** - *[Pearl](<../P/Pearl_(E.V._Gordon).md>)*, được chỉnh sửa bởi [E.V. Gordon](../E/E.V._Gordon.md) và bao gồm sự đóng góp của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được xuất bản.
+- **[1953](1953.md)** - *[Pearl](<../P/Pearl_(E.V._Gordon).md>)*, do [E.V. Gordon](../E/E.V._Gordon.md) biên tập và có sự đóng góp của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được xuất bản.
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Robert Burchfield](<../L/Letter_to_Robert_Burchfield_(11_June_1972).md>).
 - **[1975](1975.md)** - Diễn viên [John Tui](../J/John_Tui.md) ra đời.
-- **[1977](1977.md)** - [Trò chơi vòng tròn Wisconsin](../W/Wisconsin_Ring_Game.md) đầu tiên được tổ chức tại <a class="external text" href="https://en.wikipedia.org/wiki/Governor_Dodge_State_Park" rel="noreferrer noopener" target="_blank">Governor Dodge State Park</a> ở miền nam Wisconsin.
+- **[1977](1977.md)** - [Trận đấu Nhẫn Wisconsin](../W/Wisconsin_Ring_Game.md) đầu tiên được tổ chức tại <a class="external text" href="https://en.wikipedia.org/wiki/Governor_Dodge_State_Park" rel="noreferrer noopener" target="_blank">Governor Dodge State Park</a> ở miền nam Wisconsin.
 - **[2006](2006.md)** - Nghệ sĩ [Tim Hildebrandt](../T/The_Brothers_Hildebrandt.md) qua đời.
 - **[2009](2009.md)** - *[The Road Goes Ever On and On: The Map of Tolkien's Middle-earth](../T/The_Road_Goes_Ever_On_and_On%253A_The_Map_of_Tolkien's_Middle-earth.md)* được xuất bản.
 

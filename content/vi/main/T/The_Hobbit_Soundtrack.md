@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit: The Complete Original Soundtrack"
 ---
 
-Chuyển hướng tới [The Hobbit: Bản nhạc gốc hoàn chỉnh](The_Hobbit%253A_The_Complete_Original_Soundtrack.md).
+Chuyển hướng đến [The Hobbit: Bản nhạc gốc hoàn chỉnh](The_Hobbit%253A_The_Complete_Original_Soundtrack.md).

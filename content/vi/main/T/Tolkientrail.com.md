@@ -22,4 +22,4 @@ hidden_categories:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.tolkientrail.com" rel="noreferrer noopener" target="_blank">Trang web chính thức</a>
-- <a class="external text" href="http://entmoot.tolkientrail.com" rel="noreferrer noopener" target="_blank">Thảo luận</a>
+- <a class="external text" href="http://entmoot.tolkientrail.com" rel="noreferrer noopener" target="_blank">Entmoot</a>

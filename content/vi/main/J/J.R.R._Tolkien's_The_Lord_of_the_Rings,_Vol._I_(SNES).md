@@ -42,7 +42,7 @@ Trò chơi xoay quanh việc khám phá những môi trường rộng lớn đ�
 
 ## Lô đồ {#Plot}
 
-Trò chơi tiếp nối phần đầu tiên của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md),* bắt đầu [ Shire](../T/The_Shire.md) trong Bữa tiệc sinh nhật của [Bilbo](../B/Bilbo's_Birthday_Party.md) và tiến dần đến [Bree](../B/Bree.md) và [Rivendell](../R/Rivendell.md). Trò chơi kết thúc bằng cuộc chiến giữa [Học bổng](../F/Fellowship_of_the_Ring.md) và [Balrog](../B/Balrogs.md) trong [Mỏ Moria](../M/Moria.md).<sup id="cite_ref-Gamefaqs_1-0" class="reference"><a href="#cite_note-Gamefaqs-1">[1]</a></sup>
+Trò chơi tiếp nối phần đầu tiên của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md),* bắt đầu [ Shire](../T/The_Shire.md) trong [Bilbo Tiệc sinh nhật](../B/Bilbo's_Birthday_Party.md) và tiến dần đến [Bree](../B/Bree.md) và [Rivendell](../R/Rivendell.md). Trò chơi kết thúc bằng cuộc chiến giữa [Học bổng](../F/Fellowship_of_the_Ring.md) và [Balrog](../B/Balrogs.md) trong [Mỏ Moria](../M/Moria.md).<sup id="cite_ref-Gamefaqs_1-0" class="reference"><a href="#cite_note-Gamefaqs-1">[1]</a></sup>
 
 Mặc dù trò chơi có tựa đề "*The Lord of the Rings, Tập 1*", nhưng không có phần tiếp theo nào được phát hành do bị đánh giá kém.
 

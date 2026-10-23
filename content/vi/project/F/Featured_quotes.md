@@ -25,7 +25,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Featured_quotes%252FNominations.md" title="Tolkien Gateway:Featured quotes/Nominations">Tolkien Gateway:Featured quotes/Nominations</a></b></div></div>
 
-Tất cả các đề cử diễn ra tại [Tolkien Gateway:Trích dẫn nổi bật/Đề cử](Featured_quotes%252FNominations.md). Quy trình đề cử được chính thức hóa bởi [User:Mith](https://tolkiengateway.net/wiki/User:Mith) trong [2014](../../main/_/2014.md):
+Tất cả các đề cử diễn ra tại [Tolkien Gateway:Trích dẫn nổi bật/Đề cử](Featured_quotes%252FNominations.md). Quy trình đề cử được chính thức hóa bởi [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith) tại [2014](../../main/_/2014.md):
 
 <blockquote class="tg-quote noexcerpt">
 <p>Any registered user can nominate an quote for <b>featured</b> status. It should meet these specific criteria:

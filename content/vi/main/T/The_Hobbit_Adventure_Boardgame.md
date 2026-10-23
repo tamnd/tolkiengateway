@@ -74,7 +74,7 @@ Hộp *The Hobbit Adventure Boardgame* bao gồm:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://boardgamegeek.com/boardgame/1586/the-hobbit-adventure-boardgame" rel="noreferrer noopener" target="_blank">The Hobbit Trò chơi board game phiêu lưu</a> tại <a class="external text" href="http://boardgamegeek.com/" rel="noreferrer noopener" target="_blank">BoardGameGeek</a>
+- <a class="external text" href="http://boardgamegeek.com/boardgame/1586/the-hobbit-adventure-boardgame" rel="noreferrer noopener" target="_blank">The Hobbit Trò chơi boardgame phiêu lưu</a> tại <a class="external text" href="http://boardgamegeek.com/" rel="noreferrer noopener" target="_blank">BoardGameGeek</a>
 
 <span></span>
 

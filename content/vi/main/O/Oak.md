@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oaks"
 ---
 
-Chuyển hướng đến [Oaks](Oaks.md).
+Chuyển hướng tới [Oaks](Oaks.md).

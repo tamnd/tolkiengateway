@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tal-Elmar (disambiguation)"
 ---
 
-Chuyển hướng tới [Tal-Elmar (định hướng)](<Tal-Elmar_(disambiguation).md>).
+Chuyển hướng đến [Tal-Elmar (định hướng)](<Tal-Elmar_(disambiguation).md>).

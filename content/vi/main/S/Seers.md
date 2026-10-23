@@ -15,7 +15,7 @@ categories:
 Một **Nhà tiên tri** hay **Nhà tiên tri**, là người có năng khiếu [tầm nhìn xa](../F/Foresight.md) cực cao. Trong khi nhiều [Eldar](../E/Eldar.md) và [Edain](../E/Edain.md) có tầm nhìn xa, những nhà tiên tri đã dự đoán những sự kiện quan trọng trong tương lai xa:
 
 - [Agaldor](../A/Agaldor.md), người đã nhìn thấy trước sự xuất hiện của [người Númenor](../N/Númenóreans.md) và sự cứu rỗi của [Con người](../M/Men.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- [Amnon](../A/Amnon.md) người đã dự đoán [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Amnon](../A/Amnon.md) ai đã dự đoán [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - [Glirhuin](../G/Glirhuin.md) của [Kỷ Đệ Nhất](../F/First_Age.md), người đã tiên đoán rằng [Hòn đá của sự xui xẻo](Stone_of_the_Hapless.md) sẽ không bao giờ bị ô uế hoặc chìm dưới đáy biển.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - [Malbeth](../M/Malbeth.md) giữa[Kỷ Đệ Tam](../T/Third_Age.md), người đã tiên đoán rằng [Arvedui](../A/Arvedui.md) sẽ là vị vua cuối cùng của [Arthedain](../A/Arthedain.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> và cũng đã thấy trước số phận của [Người của Người chết](../D/Dead_Men.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 

@@ -60,7 +60,7 @@ infobox:
     - Bởi: [John Rateliff](../J/John_Rateliff.md)
 - "Rồng từ Câu chuyện kể lại Sigurd của Andrew Lang đến Chrysophylax của Tolkien"
     - Bởi: [Christina Scull](../C/Christina_Scull.md)
-- "Nguồn gốc của 'Sự nằm xuống của Aotrou và Itroun'"
+- "Nguồn của 'The Lay of Aotrou and Itroun'"
     - Bởi: Jessica Yates
 - "Tom Bombadil và *The Lord of the Rings*"
     - Bởi: [Christina Scull](../C/Christina_Scull.md)

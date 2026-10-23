@@ -24,7 +24,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Weapon</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Caudimordax</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Tailbiter</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">The <a href="../M/Middle_Kingdom.md" title="Middle Kingdom">Middle Kingdom</a>, the <a href="../L/Little_Kingdom.md" title="Little Kingdom">Little Kingdom</a></td></tr><tr><th scope="row" class="tg-infobox-label">Owner</th><td class="tg-infobox-data"><a href="../B/Bellomarius.md" title="Bellomarius">Bellomarius</a>, <a href="../F/Farmer_Giles.md" title="Farmer Giles">Farmer Giles</a></td></tr><tr><th scope="row" class="tg-infobox-label">Appearance</th><td class="tg-infobox-data">Unfashionable plain heavy blade with epigraphical signs</td></tr></tbody></table>
 
-**Caudimordax** là một thanh kiếm nổi tiếng mà trong các câu chuyện tình lãng mạn phổ biến thường được gọi một cách thô tục là "Tailbiter", là bản dịch từ tên Latin của nó. Với vũ khí nổi tiếng này, [Farmer Giles](../F/Farmer_Giles.md) đã có thể khuất phục [con rồng](../D/Dragons.md#Other_fiction) [Chrysophylax](Chrysophylax.md)hùng mạnh.
+**Caudimordax** là một thanh kiếm nổi tiếng mà trong các câu chuyện tình lãng mạn phổ biến thường được gọi một cách thô tục là "Tailbiter", là bản dịch từ tên Latin của nó. Với vũ khí nổi tiếng này, [Farmer Giles](../F/Farmer_Giles.md) đã có thể khuất phục được [con rồng](../D/Dragons.md#Other_fiction) [Chrysophylax](Chrysophylax.md)hùng mạnh.
 
 ## Lịch sử {#History}
 

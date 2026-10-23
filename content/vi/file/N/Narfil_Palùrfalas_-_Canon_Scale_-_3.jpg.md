@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-- **3** – Xếp hạng này đơn giản có nghĩa là chuẩn trừ khi có mâu thuẫn ở nơi khác. Nó là một trung tính. *[The Silmarillion](../../main/T/The_Silmarillion.md)* nhìn chung đều thuộc loại này. Các phần riêng lẻ của Silmarillion không bị mâu thuẫn ở nơi khác là **4**; những điều mâu thuẫn sau đó là **2**s.
+- **3** – Xếp hạng này đơn giản có nghĩa là chuẩn trừ khi có mâu thuẫn ở nơi khác. Nó là một trung lập. *[The Silmarillion](../../main/T/The_Silmarillion.md)* nhìn chung đều thuộc loại này. Các phần riêng lẻ của Silmarillion không bị mâu thuẫn ở nơi khác là **4**; những điều mâu thuẫn sau đó là **2**s.
 
 ## Giấy phép {#Licensing}
 

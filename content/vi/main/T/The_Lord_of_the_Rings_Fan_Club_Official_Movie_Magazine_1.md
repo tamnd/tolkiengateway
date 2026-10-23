@@ -67,6 +67,6 @@ infobox:
 - **56** QUAY WEB CHƯA TỪNG NHẪN
     - Gặp gỡ những con nhện bận rộn đằng sau ba trang web dành cho người hâm mộ The Lord of the Rings phổ biến nhất.
 - **60** ĐỒ VẬT PHẨM: Rèn kiếm cùng Richard Taylor
-    - Người đứng đầu Weta Workshop Richard Taylor tiết lộ tất cả công việc khó khăn để tạo ra những thanh kiếm thực sự cho hoạt động thực tế — cộng với cái nhìn thực sự kỹ lưỡng về ba loại vũ khí huyền thoại.
+Người đứng đầu     - Weta Workshop Richard Taylor tiết lộ tất cả công việc khó khăn để tạo ra những thanh kiếm thực sự cho hoạt động thực sự — cộng với cái nhìn thực sự kỹ lưỡng về ba loại vũ khí huyền thoại.
 - **68** XUỐNG CON ĐƯỜNG PHIÊU LƯU:
     - Việc tạo ra trò chơi thẻ giao dịch Chúa tể của những chiếc nhẫn Hiện có nhiều cách để trải nghiệm The Lord of the Rings và Decipher đảm bảo rằng game thủ sẽ có thể đi theo con đường trò chơi giao dịch thẻ bài tới Trung Địa.

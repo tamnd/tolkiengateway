@@ -12,4 +12,4 @@ categories:
   - "Stage adaptations"
 ---
 
-Danh mục này liệt kê tất cả **Opera** liên quan đến tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
+Danh mục này liệt kê tất cả **Opera** liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) công việc.

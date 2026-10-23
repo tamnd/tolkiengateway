@@ -56,7 +56,7 @@ Con ngựa của Sigurd trong "Sigurd the Volsung" của Morris có tên là "Gr
 
 <dl><dd>Hasufel is loaned to Aragorn as in the book, but they become separated in a battle with warg riders. Aragorn is then found by the films-exclusive horse <a href="../B/Brego_(horse).md" title="Brego (horse)">Brego</a>, who then becomes his chosen mount.</dd></dl>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd><a href="../A/Arod.md" title="Arod">Arod</a> and Hasufel, led by <a href="../S/Shadowfax.md" title="Shadowfax">Shadowfax</a>, appear in a mission in which the player has to stop <a href="../M/Mordor.md" title="Mordor">Mordor</a> <a href="../O/Orcs.md" title="Orcs">orcs</a> from stealing Black Horses of <a href="../R/Rohan.md" title="Rohan">Rohan</a>.</dd></dl>
 

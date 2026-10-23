@@ -30,4 +30,4 @@ sort_keys:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienlibrary.com/press/1058-interview-elizabeth-m-stephen.php" rel="noreferrer noopener" target="_blank">Phỏng vấn Elizabeth M. Stephen</a> tại [Tolkien Thư viện](../T/Tolkien_Library.md)
+- <a class="external text" href="http://www.tolkienlibrary.com/press/1058-interview-elizabeth-m-stephen.php" rel="noreferrer noopener" target="_blank">Phỏng vấn Elizabeth M. Stephen</a> tại [Tolkien Library](../T/Tolkien_Library.md)

@@ -35,7 +35,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ông là chồng của [Bregil](../B/Bregil.md), con gái của [Bregor](../B/Bregor.md). Họ có với nhau hai người con: [Brandir](<../B/Brandir_(son_of_Arachon).md>) và [Beldis](../B/Beldis.md), sau này trở thành mẹ của [Brandir the Lame](../B/Brandir.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ông là chồng của [Bregil](../B/Bregil.md), con gái của [Bregor](../B/Bregor.md). Họ có với nhau hai người con: [Brandir](<../B/Brandir_(son_of_Arachon).md>) và [Beldis](../B/Beldis.md), người sẽ trở thành mẹ của [Brandir the Lame](../B/Brandir.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

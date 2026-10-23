@@ -17,4 +17,4 @@ categories:
 
 ## Lời bài hát {#Lyrics}
 
-*"Hãy ngồi đây, và nhìn ra những vùng đất xấu xa và sự tuyệt vọng sẽ ập đến với những người bạn yêu thương. Bạn đã dám chế nhạo tôi và đặt câu hỏi về sức mạnh của [Melkor](../M/Morgoth.md), Chủ nhân của số phận [Arda](../A/Arda.md). Vì vậy, bạn sẽ nhìn thấy bằng mắt của tôi, và bằng tai tôi, bạn sẽ nghe thấy và bạn sẽ không bao giờ rời khỏi nơi này cho đến khi tất cả tràn ngập cho đến tận cùng cay đắng của nó."*
+*"Hãy ngồi đây, và nhìn ra những vùng đất xấu xa và sự tuyệt vọng sẽ ập đến với những người bạn yêu thương. Bạn đã dám chế nhạo tôi, và đặt câu hỏi về sức mạnh của [Melkor](../M/Morgoth.md), Chủ nhân số phận của [Arda](../A/Arda.md). Vì vậy, bạn sẽ nhìn thấy bằng mắt tôi, bằng tai tôi, bạn sẽ nghe thấy và không bao giờ rời khỏi nơi này cho đến khi tất cả tràn ngập cho đến tận cùng cay đắng của nó."*

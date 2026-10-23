@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "ABA"
 ---
 
-Chuyển hướng tới [ABA](ABA.md).
+Chuyển hướng đến [ABA](ABA.md).

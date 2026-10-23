@@ -33,7 +33,7 @@ Giống như Rồng lớn hơn, chúng có khả năng nói. Tuy nhiên, họ k�
 
 Một giống cụ thể của Cave-drake là Cave Worm, những sinh vật không có chi và nhầy nhụa sống ở [Vực sâu](../U/Under-deeps.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Cả Cave-drakes và Cave Worm đều xuất hiện trong [Trung Địa Trò chơi bài sưu tầm](../M/Middle-earth_Collectible_Card_Game.md), cũng được xuất bản bởi [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Cả Cave-drakes và Cave Worm đều xuất hiện trong [Trung Địa Trò chơi thẻ bài](../M/Middle-earth_Collectible_Card_Game.md), cũng được xuất bản bởi [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Trung Địa Trò chơi chiến đấu chiến lược {#Middle-earth_Strategy_Battle_Game}
 

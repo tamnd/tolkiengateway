@@ -29,4 +29,4 @@ file:
 <p class="tg-quote-footer"><cite><a href="../../main/G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-[Tệp:Angus McBride - Gương của Galadriel.jpg](Angus_McBride_-_Mirror_of_Galadriel.jpg.md) (định dạng tệp tốt hơn)
+[Tệp:Angus McBride - Bản sao của Galadriel.jpg](Angus_McBride_-_Mirror_of_Galadriel.jpg.md) (định dạng tệp tốt hơn)

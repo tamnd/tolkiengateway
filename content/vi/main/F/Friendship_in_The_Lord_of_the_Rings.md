@@ -48,7 +48,7 @@ infobox:
 ## Nội dung {#Contents}
 
 - Món quà hạt giống của Cesar Machado
-- Lời nói đầu - Người bạn tưởng tượng của [Ronald Kyrmse](../R/Ronald_Kyrmse.md)
+- Lời nói đầu - Người bạn ảo của [Ronald Kyrmse](../R/Ronald_Kyrmse.md)
 - Lời nói đầu
 - Chương 1: Rất vui được gặp bạn. Giới thiệu ngắn gọn
 - Chương 2: Đạo đức và thẩm mỹ trong trí tưởng tượng của Tolkien

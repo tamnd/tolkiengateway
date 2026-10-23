@@ -51,7 +51,7 @@ infobox:
 - **20** NHỮNG ANH HÙNG VUI VẺ
     - Gặp gỡ Ed Mulholland bản xứ New Zealand, người giám sát việc xây dựng mọi bộ được tạo cho The Lord of the Rings.
 - **68** TẬP TRUNG CỦA QUẠT
-    - Báo cáo về buổi tụ tập người hâm mộ vào tháng 8 cho buổi biểu diễn ở Hollywood Bowl với điểm số The Fellowship of the Ring của Howard Shore, cùng với điểm nổi bật là Australian Fellowship và một cuộc thi mới.
+    - Báo cáo về buổi tụ tập người hâm mộ tháng 8 cho buổi biểu diễn ở Hollywood Bowl với điểm số The Fellowship of the Ring của Howard Shore, cùng với điểm nổi bật là Australian Fellowship và một cuộc thi mới.
 - **73** DANH MỤC
 - **82** ĐÁNG GIÁ
 
@@ -65,8 +65,8 @@ infobox:
     - Nữ diễn viên trò chuyện với Dan Madsen về những niềm vui cũng như khó khăn khi vào vai nhân vật có lẽ gây tranh cãi nhất trong các bộ phim The Lord of the Rings.
 - **40** NGƯỜI ĐÀN ÔNG đằng sau ÂM NHẠC — Cuộc phỏng vấn với Nhà soạn nhạc Howard Shore
     - Peter Jackson cho biết nhà soạn nhạc của anh đã trở nên “bị ám ảnh” giống như anh và các nhà làm phim đồng nghiệp về The Lord of the Rings. Trong một cuộc phỏng vấn gần đây, nhà soạn nhạc từng đoạt giải Oscar đã kể cho chúng tôi cách ông tiếp cận nhiệm vụ khó khăn là đưa âm nhạc vào một câu chuyện được yêu thích như vậy.
-- **50** NGƯỜI HÙNG THẬT CỦA The Lord of the Rings Nhà sản xuất kỳ cựu của Hollywood, Barrie Osborne, nói về nhiệm vụ tốn nhiều công sức và đầy thách thức trong việc sản xuất bộ ba phim làm nên lịch sử của New Line.
-- **58** ĐỒNG VẬT — Cấu trúc của Trung Địa
+- **50** NGƯỜI ANH HÙNG THẬT CỦA The Lord of the Rings Nhà sản xuất kỳ cựu của Hollywood, Barrie Osborne, nói về nhiệm vụ tốn nhiều công sức và đầy thách thức trong việc sản xuất bộ ba phim làm nên lịch sử của New Line.
+- **58** MÔ TẢ — Kết cấu của Trung Địa
     - Lesley Earl-Templeton kể cho Dan Madsen nghe những lá cờ, biểu ngữ đẹp đẽ và các đạo cụ bằng vải phức tạp khác cho The Lord of the Rings đã được tạo ra như thế nào— và bộ phim đầu tiên của cô đã thay đổi cuộc đời cô như thế nào.
 - **70** XUỐNG CON ĐƯỜNG PHIÊU LƯU — Xây dựng nhân vật: Những nghệ sĩ của Toy Biz
-    - Sắp tới, những người sưu tập và trẻ em ở mọi lứa tuổi sẽ có thể mang về nhà Aragorn, Legolas, Gandalf và nhiều nhân vật The Lord of the Rings được yêu thích khác, nhờ vào công việc cần mẫn của các nghệ sĩ nhân vật hành động tại Toy Biz.
+    - Sắp tới, các nhà sưu tập và trẻ em ở mọi lứa tuổi sẽ có thể mang về nhà Aragorn, Legolas, Gandalf và nhiều nhân vật The Lord of the Rings được yêu thích khác, nhờ vào công việc cần mẫn của các nghệ sĩ nhân vật hành động tại Toy Biz.

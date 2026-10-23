@@ -19,7 +19,7 @@ Nó là tên chơi đùa của ngón tay út (xem thêm <i><a class="new" href="
 
 ## Từ nguyên {#Etymology}
 
-[Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=WINI&amp;action=edit&amp;redlink=1" title="WINI (page does not exist)">WINI</a> với [Quenya](../Q/Quenya.md) nhỏ gọn -ce <span></span>
+[Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=WINI&amp;action=edit&amp;redlink=1" title="WINI (page does not exist)">WINI</a> với [Quenya](../Q/Quenya.md) nhỏ -ce <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -29,7 +29,7 @@ Quản trị viên có khả năng kỹ thuật để thực hiện các hành �
 - [xóa trang](../D/Deletion_policy.md) và [hình ảnh](../I/Image_policy.md);
 - hoàn nguyên các trang nhanh chóng thông qua chức năng \[rollback\];
 - [di chuyển một trang](https://tolkiengateway.net/wiki/Special:Log/move) qua một trang đã tồn tại;
-- chỉnh sửa [các trang được bảo vệ](https://tolkiengateway.net/wiki/Special:ProtectedPages) (bao gồm [Trang Chính](../../main/M/Main_Page.md));
+- chỉnh sửa [các trang được bảo vệ](https://tolkiengateway.net/wiki/Special:ProtectedPages) (bao gồm [Trang chính](../../main/M/Main_Page.md));
 - xem và khôi phục các trang đã xóa;
 - ẩn và xóa các sửa đổi trang;
 - thay đổi [giao diện](https://tolkiengateway.net/wiki/Special:AllMessages) bằng cách chỉnh sửa không gian tên MediaWiki (bao gồm [CSS](https://tolkiengateway.net/wiki/MediaWiki:Common.css) trên toàn trang web và [JavaScript](https://tolkiengateway.net/wiki/MediaWiki:Common.js)).

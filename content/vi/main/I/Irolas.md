@@ -63,7 +63,7 @@ Irolas là tác phẩm nguyên bản dành cho phim *[The Lord of the Rings: The
 
 ## Lịch sử {#History}
 
-Irolas và những người lính Gondor khác theo dõi Gandalf cưỡi trên [Shadowfax](../S/Shadowfax.md), bảo vệ [Faramir](../F/Faramir.md) và quân của anh ta đang chạy trốn khỏi [Osgiliath](../O/Osgiliath.md) bằng cách đẩy lùi [Nazgûl](../N/Nazgûl.md) bằng cây trượng của mình. Irolas chào Faramir và những người lính ở cổng [Minas Tirith](../M/Minas_Tirith.md). Ông ca ngợi sự khôn ngoan của [Denethor II](../D/Denethor.md), cho rằng ông đã thấy trước cuộc tấn công [Orc](../O/Orcs.md) vào Osgiliath. [Gandalf](../G/Gandalf.md) bác bỏ "Đã thấy trước và không làm gì cả".
+Irolas và những người lính Gondor khác theo dõi Gandalf tiến lên [Shadowfax](../S/Shadowfax.md), bảo vệ [Faramir](../F/Faramir.md) và quân của anh ta đang chạy trốn khỏi [Osgiliath](../O/Osgiliath.md) bằng cách đẩy lùi [Nazgûl](../N/Nazgûl.md) bằng cây trượng của mình. Irolas chào Faramir và những người lính ở cổng [Minas Tirith](../M/Minas_Tirith.md). Ông ca ngợi sự khôn ngoan của [Denethor II](../D/Denethor.md), cho rằng ông đã thấy trước cuộc tấn công [Orc](../O/Orcs.md) vào Osgiliath. [Gandalf](../G/Gandalf.md) bác bỏ "Đã thấy trước và không làm gì cả".
 
 Sau khi Faramir quay trở lại sau cuộc tấn công vào Osgiliath, Irolas vội vã đưa cơ thể bị thương nặng của mình đi qua Minas Tirith. Anh ta được đưa ra tòa và Denethor xuất hiện, hỏi xem Faramir có bị ngã không. Irolas nói với anh rằng họ đông hơn và không ai sống sót.
 

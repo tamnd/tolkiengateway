@@ -40,7 +40,7 @@ infobox:
 - Tiểu sử của cộng tác viên
 - Định vị chỉ mục
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=J._%E2%80%98Mach%E2%80%99_Wust&amp;action=edit&amp;redlink=1" title="J. ‘Mach’ Wust (page does not exist)">J. ‘Mach’ Wust</a>: "Các chế độ [Sindarin](../S/Sindarin.md) [Tengwar](../T/Tengwar.md)"
-- [Måns Björkman](../M/Måns_Björkman.md): "'Trên đầu ngón chân của cô ấy': Một số lưu ý về sự phát triển của 'Nieninque'"
+- [Måns Björkman](../M/Måns_Björkman.md): "'Trên đầu ngón chân': Một số lưu ý về quá trình phát triển của 'Nieninque'"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Valeria_Barouch&amp;action=edit&amp;redlink=1" title="Valeria Barouch (page does not exist)">Valeria Barouch</a>: "Ngôi nhà sự sống, Ánh sáng trong nhà và những cuộc gặp gỡ khác"
 - [Roman Rausch](../R/Roman_Rausch.md): "Giải thích từ ngữ *hobbit*"
 - [Helge Fauskanger](../H/Helge_Fauskanger.md): "Lưu ý về khả năng tương thích chéo của [Quenya](../Q/Quenya.md) Từ vựng ở các giai đoạn khác nhau"

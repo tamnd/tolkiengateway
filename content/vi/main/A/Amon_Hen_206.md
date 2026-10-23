@@ -68,7 +68,7 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
     - Bởi: Susanne Stopfel
 - Lời chia tay cuối cùng
     - Patricia Meadway
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- Cái [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Âm thanh hơn ý nghĩa
     - Bởi: *[Beruthiel](../B/Berúthiel.md)'s Pet*

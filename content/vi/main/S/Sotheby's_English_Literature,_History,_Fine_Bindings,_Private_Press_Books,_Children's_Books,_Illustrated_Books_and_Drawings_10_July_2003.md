@@ -30,7 +30,7 @@ infobox:
 
 - 469 (trang 294–5) - Lô này bao gồm một bản sao Ấn bản đầu tiên của *The Hobbit* được viết cho dì của Tolkien [Jane Neave](../J/Jane_Neave.md), cùng với một trang [bức thư ngày 22 tháng Chín 1937](<../L/Letter_to_Jane_Neave_(22_September_1937).md>). Mô tả lô hàng bao gồm một vài trích dẫn ngắn từ bức thư và phần mở đầu được sao chép trong một bức ảnh.
 
-- 473 (tr. 296) - Lô này bao gồm một bộ *The Lord of the Rings*được khắc năm 1967, cùng với một bản sao viết tay được tô điểm của cuốn I Sit Beside The Fire bằng chữ thư pháp của Tolkien. Trang thơ được sao chép trong một bức ảnh nhỏ. Bản sao *The Fellowship* của Chiếc nhẫn được dành tặng cho người Tolhurst và có một dòng chữ bằng tiếng Latinh: "hoc opus Dominae amabili loscelinae in Honorem inscripsit auctor Reginualdus".
+- 473 (tr. 296) - Lô này bao gồm một bộ *The Lord of the Rings*được khắc năm 1967, cùng với một bản sao viết tay được tô điểm của cuốn I Sit Beside The Fire bằng chữ thư pháp của Tolkien. Trang thơ được sao chép trong một bức ảnh nhỏ. Bản sao *The Fellowship* của Nhẫn được dành tặng cho người Tolhurst và có một dòng chữ bằng tiếng Latinh: "hoc opus Dominae amabili loscelinae in Honorem inscripsit auctor Reginualdus".
 
 - 474 (tr. 297) - Một lá thư ba trang [gửi bà L.M. Cutts, ngày 26 tháng 10 năm 1958](../L/Letter_to_L.M._Cutts.md). Phần mô tả lô hàng bao gồm một số đoạn trích từ bức thư thảo luận về bản chất của phát minh, chi phí của những cuốn sách và quá trình sản xuất chúng, cũng như những người hobbit, ent và xe đẩy. Một phần của bức thư được sao chép trong một bức ảnh.
 

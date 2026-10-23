@@ -11,4 +11,4 @@ redirect_target: "Camels"
 redirect_fragment: "Etymology"
 ---
 
-Chuyển hướng đến [Lạc đà](../C/Camels.md#Etymology).
+Chuyển hướng tới [Lạc đà](../C/Camels.md#Etymology).

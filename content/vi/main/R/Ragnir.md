@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ragnir (disambiguation)"
 ---
 
-Chuyển hướng đến [Ragnir (định hướng)](<Ragnir_(disambiguation).md>).
+Chuyển hướng tới [Ragnir (định hướng)](<Ragnir_(disambiguation).md>).

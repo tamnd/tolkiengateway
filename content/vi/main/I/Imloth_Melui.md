@@ -43,7 +43,7 @@ images:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Located in the <a href="../L/Lossarnach.md" title="Lossarnach">Lossarnach</a> area of Eastern <a href="../G/Gondor.md" title="Gondor">Gondor</a>, the valley of Imloth Melui also contains a town of the same time. The river <a href="../E/Erui.md" title="Erui">Erui</a> flows through the valley, dividing the city in two. During the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a> it hosts many refugees from the White City, primarily women, children and the elderly. In Lord <a href="../F/Forlong.md" title="Forlong">Forlong</a>&#39;s absence it was ruled by his wife Lady Vanyalos, the sister of Steward <a href="../D/Denethor.md" title="Denethor">Denethor</a>.</dd></dl>
 

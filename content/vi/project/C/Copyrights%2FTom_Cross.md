@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Cross, Tom"
 ---
 
-- Patti Cross has kindly granted [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) permission to host [Tom Cross](../../main/T/Tom_Cross.md)'s [artwork](../../category/I/Images_by_Tom_Cross.md).
-- Date: 19 September 2012
-- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)
+- Patti Cross đã vui lòng cấp cho [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) quyền lưu trữ [tác phẩm nghệ thuật](../../category/I/Images_by_Tom_Cross.md) của [Tom Cross](../../main/T/Tom_Cross.md).
+- Ngày: 19 tháng Chín năm 2012
+- Người dùng đã xin phép qua email: [Người dùng:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

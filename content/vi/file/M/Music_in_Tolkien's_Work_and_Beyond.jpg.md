@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bìa [Âm nhạc trong Tolkien's Work and Beyond](../../main/M/Music_in_Tolkien's_Work_and_Beyond.md), do [Walking Tree Publishing](../../main/W/Walking_Tree_Publishers.md) xuất bản. Hình minh họa bìa là "Gunnar in the Snakepit" của [Anke Eißmann](../../main/A/Anke_Eißmann.md).
+Bìa [Nhạc trong Work and Beyond của Tolkien](../../main/M/Music_in_Tolkien's_Work_and_Beyond.md), do [Nhà xuất bản Cây biết đi](../../main/W/Walking_Tree_Publishers.md)xuất bản. Hình minh họa bìa là "Gunnar in the Snakepit" của [Anke Eißmann](../../main/A/Anke_Eißmann.md).
 
 ## Giấy phép {#Licensing}
 

@@ -69,7 +69,7 @@ Bài đánh giá của [Christina Scull](../C/Christina_Scull.md)về *[The Marv
 - Thư
 - Những Chiếc Nhẫn Quyền Năng - Phần II
     - Bởi: Len Sanford
-- Truyện dân ca
+- Truyện dân gian
 - Viết ở đâu (Ủy ban)
 - Thư pháp và tác phẩm nghệ thuật bổ sung
     - Bởi: Kirsty Beck, Neil Loughran, Susanne Stopfel, Marian Haas, Rob Brown, Steve Lines, Walter Clark, Ian Collier & Martin Roe

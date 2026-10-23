@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-va"
 ---
 
-Chuyển hướng tới [-va](../_/-va.md).
+Chuyển hướng đến [-va](../_/-va.md).

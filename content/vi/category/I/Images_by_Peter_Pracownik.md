@@ -14,4 +14,4 @@ sort_keys:
   "Images by artist": "Pracownik, Peter"
 ---
 
-Thể loại này liệt kê tất cả **hình ảnh của [Peter Pracownik](../../main/P/Peter_Pracownik.md)**.
+Danh mục này liệt kê tất cả **hình ảnh theo [Peter Pracownik](../../main/P/Peter_Pracownik.md)**.

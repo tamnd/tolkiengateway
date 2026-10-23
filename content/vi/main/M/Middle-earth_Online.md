@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings Online"
 ---
 
-Chuyển hướng tới [The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md).
+Chuyển hướng đến [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md).

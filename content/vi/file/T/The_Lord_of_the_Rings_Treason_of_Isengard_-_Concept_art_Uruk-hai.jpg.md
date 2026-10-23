@@ -24,7 +24,7 @@ file:
   user: "Amroth"
 ---
 
-Ý tưởng phác họa [Uruk](../../main/U/Uruk-hai.md) dành cho [The Lord of the Rings: The Treason of Isengard](../../main/T/The_Lord_of_the_Rings%253A_The_Treason_of_Isengard.md).
+Ý tưởng nghệ thuật của [Uruk](../../main/U/Uruk-hai.md) dành cho [The Lord of the Rings: The Treason of Isengard](../../main/T/The_Lord_of_the_Rings%253A_The_Treason_of_Isengard.md).
 
 \== Cấp phép ==
 

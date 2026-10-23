@@ -50,10 +50,10 @@ infobox:
 
 ## Nội dung {#Contents}
 
-- Giới thiệu: Thạc sĩ và Giáo sư - Wagner và Tolkien
+- Giới thiệu: Chủ nhân và Giáo sư - Wagner và Tolkien
 - Phần thứ nhất, Hai chiếc nhẫn tròn
     - Chương 1, Một âm mưu bị vạch trần?
-        - 1\.1. Một chiếc nhẫn quyền lực
+        - 1\.1. Một Nhẫn Quyền năng
         - 1\.2. Hai chiếc nhẫn tròn
         - 1\.3. Tolkien biết Wagner rõ đến mức nào?
     - Chương 2, Tìm kiếm nguồn
@@ -75,7 +75,7 @@ infobox:
         - 6\.3. Huyền thoại hiện đại
     - Chương 7, Bản chất và sự ô nhiễm của nó
     - Chương 8, Một thế giới quá nhiều? Phim truyền hình giả tưởng và (sân khấu)
-        - 8\.1. Thần thoại và kịch, Tường thuật kịch tính / Kịch Faërian / Minh họa trực quan
+        - 8\.1. Thần thoại và kịch, Tường thuật kịch tính / Kịch Faërian / Minh họa bằng hình ảnh
         - 8\.2. Kịch giả tưởng
         - 8\.3. Âm nhạc, ngôn từ và sân khấu vô hình
     - Chương 9, Bi kịch, bi kịch, thảm họa
@@ -93,8 +93,8 @@ infobox:
         - 12\.2. Tái phát hiện điệp âm, vần Stave / Một số kỹ thuật / Câu thơ của Wagner / Sự phát triển của Tolkien/ Nhịp điệu và khuôn mẫu
         - 12\.3. tục ngữ
     - Chương 13, Các yếu tố tự sự
-        - 13\.1. Chiếc nhẫn và Truyền thuyết – thư từ, Giới thiệu / Từ đầu đến Ragnarök / Baldr / Người anh hùng mặt trời và Đấng Cứu Thế / Odin và Wotan
-        - 13\.2. Chiếc nhẫn và Truyền thuyết – sự khác biệt, Sự khác biệt các loại / Lựa chọn đặc trưng / Anh em cùng cha khác mẹ và cùng cha khác mẹ
+        - 13\.1. Nhẫn và Truyền thuyết – tương ứng, Giới thiệu / Từ đầu đến Ragnarök / Baldr / Người anh hùng mặt trời và Đấng Cứu Thế / Odin và Wotan
+        - 13\.2. Nhẫn và Truyền thuyết – sự khác biệt, Sự khác biệt các loại / Lựa chọn đặc trưng / Anh em cùng cha khác mẹ và cùng cha khác mẹ
         - 13\.3. Giải quyết câu hỏi hóc búa: Chiếc nhẫn cốt lõi, Nguồn gốc / Truyền thống sai lầm / Vòng lửa / Họ đã làm được điều đó à?
     - Chương 14, Kết luận
 - Lời bạt

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Carnil"
 ---
 
-Chuyển hướng đến [Carnil](../C/Carnil.md).
+Chuyển hướng tới [Carnil](../C/Carnil.md).

@@ -82,7 +82,7 @@ Nhiều [tài liệu chưa được xuất bản](../../index/U/Unpublished_mate
 
 - [2022](../_/2022.md) — "J.R.R. Tolkien: Nghệ thuật viết tay" — (Bảo tàng nghệ thuật Haggerty, Đại học Marquette)
     - *Xuất bản: [J.R.R. Tolkien: Nghệ thuật viết tay](../J/J.R.R._Tolkien%253A_The_Art_of_the_Manuscript.md)*
-- [2023](../_/2023.md) - "Tolkien - Uomo, Giáo sư, Autore" — (Galleria Nazionale, Rome)
+- [2023](../_/2023.md) - "Tolkien - Uomo, Professore, Autore" — (Galleria Nazionale, Rome)
     - *Publication: [TOLKIEN - Uomo, Professore, Autore](TOLKIEN_-_Uomo,_Professore,_Autore.md)*
 
 ## Xem thêm {#See_also}

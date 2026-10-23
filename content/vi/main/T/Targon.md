@@ -49,7 +49,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Targon làm việc tại nhà kho và xưởng bơ cho [Đội Cận vệ Thành Trì](../G/Guards_of_the_Citadel.md) ở [Minas Tirith](../M/Minas_Tirith.md). Sáng [9/3](../_/9_March.md), [T.A.](Third_Age.md) [3019](Third_Age_3019.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> anh đưa [Beregond](../B/Beregond.md) và [Peregrin Took](../P/Peregrin_Took.md) đồ ăn thức uống đi dã ngoại.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Targon làm việc tại nhà kho và xưởng bơ cho [Đội Cận vệ Thành trì](../G/Guards_of_the_Citadel.md) ở [Minas Tirith](../M/Minas_Tirith.md). Sáng [9/3](../_/9_March.md), [T.A.](Third_Age.md) [3019](Third_Age_3019.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> anh đưa [Beregond](../B/Beregond.md) và [Peregrin Took](../P/Peregrin_Took.md) đồ ăn thức uống đi dã ngoại.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -74,7 +74,7 @@ Targon làm việc tại nhà kho và xưởng bơ cho [Đội Cận vệ Thành
 
 <dl><dd>A card from <i><a href="The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i> identifies one of the Gondorian soldiers riding with <a href="../F/Faramir.md" title="Faramir">Faramir</a> as Targon.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
-<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Targon can be found on the sixth level of the pre-battle <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>. He has no lines and plays no role in the storyline.</dd></dl>
 

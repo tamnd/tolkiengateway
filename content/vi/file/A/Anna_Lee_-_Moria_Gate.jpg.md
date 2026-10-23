@@ -37,7 +37,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*[Moria Gate](../../main/D/Doors_of_Durin.md)* của [Anna Lee](../../main/A/Anna_Lee.md).
+*[Moria Gate](../../main/D/Doors_of_Durin.md)* bởi [Anna Lee](../../main/A/Anna_Lee.md).
 
 ## Giấy phép {#Licensing}
 

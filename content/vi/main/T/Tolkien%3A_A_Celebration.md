@@ -55,7 +55,7 @@ Bài viết "Tolkien và C.S. Lewis: Cuộc phỏng vấn với [Walter Hooper](
 - "Tolkien và sự phục hưng văn học Công giáo" ([Joseph Pearce](../J/Joseph_Pearce.md))
 - "Một tia sáng Phúc âm xa xôi: Sự cứu rỗi trong *The Lord of the Rings*của Tolkien" (<a class="external text" href="https://en.wikipedia.org/wiki/Colin_Gunton" rel="noreferrer noopener" target="_blank">Colin Gunton</a>)
 - "Gốc và Cây: Sự phát triển của các bài viết của Tolkien" (<a class="new" href="https://tolkiengateway.net/w/index.php?title=Richard_Jeffery&amp;action=edit&amp;redlink=1" title="Richard Jeffery (page does not exist)">Richard Jeffery</a>)
-- "J.R.R. Tolkien: Bậc thầy của Trung Địa" (<a class="external text" href="https://en.wikipedia.org/wiki/Stephen_R._Lawhead" rel="noreferrer noopener" target="_blank">Stephen R. Lawhead</a>)
+- "J.R.R. Tolkien: Chủ nhân của Trung Địa" (<a class="external text" href="https://en.wikipedia.org/wiki/Stephen_R._Lawhead" rel="noreferrer noopener" target="_blank">Stephen R. Lawhead</a>)
 - "Niềm đam mê theo Tolkien" (<a class="external text" href="https://en.wikipedia.org/wiki/Sean_McGrath_(philosopher)" rel="noreferrer noopener" target="_blank">Sean McGrath</a>)
 - "Chuyển động Oxford khác: Tolkien và Inklings" ([Walter Hooper](../W/Walter_Hooper.md))
 - "Tolkien và С. S. Lewis: Cuộc phỏng vấn với Walter Hooper"

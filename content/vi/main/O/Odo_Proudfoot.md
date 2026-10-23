@@ -65,7 +65,7 @@ Odo là một trong những vị khách tại [Tiệc chia tay của Bilbo](../B
 
 ## Từ nguyên {#Etymology}
 
-Cái tên *Odo* là vô nghĩa trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md)đương thời. Nó đại diện cho một tên ban đầu *Oda*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Cái tên *Odo* là vô nghĩa trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md)đương đại. Nó đại diện cho một tên ban đầu *Oda*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

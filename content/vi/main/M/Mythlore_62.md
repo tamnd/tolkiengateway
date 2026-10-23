@@ -46,7 +46,7 @@ infobox:
 #### Bài viết {#Articles}
 
 - Borhek, Mary V. “*A Grief Observed*: Sự thật hay hư cấu?”
-- Loback, Tom. “Orc Chủ nhà, quân đội và quân đoàn: Một nghiên cứu về nhân khẩu học.”
+- Loback, Tom. “Orc Quân chủ, quân đội và quân đoàn: Một nghiên cứu về nhân khẩu học.”
 - Evans, Gwyneth. “Ba quan điểm hiện đại của Merlin.”
 - Patterson, Nancy-Lou. “Chiếc chốt của Tash: Hình tượng của Satan trong C.S. Lewis' *The Horse and His Boy* và *The Last Battle*.”
 - Bettridge, William Edwin. “Thần thoại ‘Mới’ củaTolkien.”

@@ -111,7 +111,7 @@ Sam cưỡi Bill khi đi cùng [Frodo](../F/Frodo_Baggins.md) trong chuyến đi
 
 <dl><dd>A pony accompanies the <a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Fellowship of the Ring</a> from <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a> to the Doors of Durin. There, it is released by <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>. Both Aragorn and Sam refer to it as &#34;Bill.&#34;</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Bill can be found lost just west of Moria. There is a quest where the player has to escort Bill to safety from a pack of wolves.</dd></dl>
 

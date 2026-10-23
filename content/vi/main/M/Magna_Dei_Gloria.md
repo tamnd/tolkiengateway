@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Magna Dei Gloria (Warwick)"
 ---
 
-Chuyển hướng tới [Magna Dei Gloria (Warwick)](<Magna_Dei_Gloria_(Warwick).md>).
+Chuyển hướng đến [Magna Dei Gloria (Warwick)](<Magna_Dei_Gloria_(Warwick).md>).

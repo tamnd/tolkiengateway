@@ -51,7 +51,7 @@ infobox:
 - Hyde, Paul Nolan. “Gandalf, Làm ơn, không nên ‘nói lắp bắp.’”
 - Flieger, Verlyn. “Người đàn ông yêu phụ nữ: Những khía cạnh nữ tính trong Zimiamvia của Eddison.”
 - Myers, Doris T. “Những gì Lewis thực sự đã làm với cỗ máy thời gian và Con Người đầu tiên trong Mặt Trăng.”
-- Christopher, Joe R. “Artorius của John Heath-Stubbs và ảnh hưởng của Charles Williams. (Phần II).”
+- Christopher, Joe R. “John Artorius của Heath-Stubbs và ảnh hưởng của Charles Williams. (Phần II).”
 - Thompson, George H. “Các bài báo, bình luận ban đầu, vân vân về J.R.R. Tolkien.”
 
 #### Thơ {#Poetry}
@@ -69,7 +69,7 @@ infobox:
 - *Sự hình thành của Trung Địa: The Quenta, Ambarkanta và Biên niên sử.* J.R.R. Tolkien. Ed. bởi Christopher Tolkien. Được đánh giá bởi Nancy-Lou Patterson.
 - *The 1987 J.R.R. Tolkien Calendar.* Minh họa bởi Alan Lee, Roger Garland, Ted Nasmith và John Howe. Được đánh giá bởi Paula DiSanti.
 - *Present Concerns.* C.S. Lewis. Ed. của Walter Hooper. Được đánh giá bởi Nancy-Lou Patterson.
-- *Clive Staples Lewis: A Dramatic Life.* William Griffin. Được đánh giá bởi Nancy-Lou Patterson.
+- *Clive Staples Lewis: A Dramatic Life.*William Griffin. Được đánh giá bởi Nancy-Lou Patterson.
 - *Many Waters.* Madeleine L'Engle. Được đánh giá bởi Wayne G. Hammond.
 - *Apple, Staff, and Silver Crown.* Nancy-Lou Patterson. Được đánh giá bởi bãi biển Sarah.
 - *Ảo tưởng sử thi trong thế giới hiện đại: Một vài quan sát.* Stephen R. Donaldson. Được đánh giá bởi Wayne G. Hammond.

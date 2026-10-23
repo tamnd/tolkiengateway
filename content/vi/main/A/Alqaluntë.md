@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Alqualondë"
 ---
 
-Chuyển hướng tới [Alqualondë](Alqualondë.md).
+Chuyển hướng đến [Alqualondë](Alqualondë.md).

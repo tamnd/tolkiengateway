@@ -50,7 +50,7 @@ infobox:
 - **10** - Khi Tolkien Gặp Gamgee của Christian Kriticos
 - **12** - Đưa việc đọc xa vào Tolkien và các tác phẩm giả tưởng khác của Christina Nguyễn
 - **15** - Câu chuyện về hai câu chuyện: Chúa tể của những chiếc nhẫn và cồn cát do Casey Telling xem xét
-- **18** - Giữa trang: Ring-verse của [Ralph Damiani](../R/Ralph_Damiani.md)
+- **18** - Giữa: Nhẫn-verse của [Ralph Damiani](../R/Ralph_Damiani.md)
 - **20** - Boromir: Vượt ra ngoài biên giới của Gretchen Lorenzen
 - **25** - Bạn Tolkien có biết về Talbot House không? của Bertin Deneire
 - **28** - Thơ: Beren và Luthien của Eryn Go

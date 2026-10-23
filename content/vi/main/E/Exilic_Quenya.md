@@ -55,7 +55,7 @@ Sau này, Quenya cổ điển sẽ là:
 </li>
 </ol></div>
 
-<small><dl><dd><dl><dd><ul><li><a class="external text" href="http://www.uib.no/people/hnohf/qevolution.pdf" rel="noreferrer noopener" target="_blank">Sự tiến hóa từ nguyên thủy Elvish đến Quenya</a></li></ul></dd></dl></dd></dl></small>
+<small><dl><dd><dl><dd><ul><li><a class="external text" href="http://www.uib.no/people/hnohf/qevolution.pdf" rel="noreferrer noopener" target="_blank">Sự phát triển từ Primitive Elvish đến Quenya</a></li></ul></dd></dl></dd></dl></small>
 
 <small></small>
 

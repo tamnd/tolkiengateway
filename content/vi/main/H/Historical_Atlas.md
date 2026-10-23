@@ -37,7 +37,7 @@ images:
 
 Cũng vào lúc này, [Melian](../M/Melian.md) muốn ngắm sao từ [Taniquetil](../T/Taniquetil.md), nhìn thấy [Trung Địa](../M/Middle-earth.md) và mong muốn nó.
 
-Những năm tiếp theo, Tiên tộc ([Minyar](../M/Minyar.md), [Tatyar](../T/Tatyar.md) và [Nelyar](../N/Nelyar.md)) đã sống dưới nước dưới những vì sao trong thời gian dài đầy kinh ngạc và bắt đầu lên tiếng, [Nguyên thủy Elvish](../P/Primitive_Elvish.md), mẹ đẻ của [ngôn ngữ](../E/Elvish.md) của họ, tự gọi mình là *[Kwendî](../K/Kwende.md)* "những người nói bằng giọng nói" vì họ không biết những thứ hùng hồn khác. Tuy nhiên họ đã bị gián điệp của [Kẻ Thù](../M/Morgoth.md) quấy rối và bắt giữ, đưa họ đi [Utumno](../U/Utumno.md) về phía Bắc. Họ đã sợ hãi khi [Oromë](../O/Oromë.md) cưỡi [Nahar](../N/Nahar.md) khiến họ kinh ngạc.
+Những năm tiếp theo, Tiên tộc ([Minyar](../M/Minyar.md), [Tatyar](../T/Tatyar.md) và [Nelyar](../N/Nelyar.md)) đã sống dưới nước dưới những vì sao trong thời gian dài đầy kinh ngạc và bắt đầu phát biểu, [Primitive Elvish](../P/Primitive_Elvish.md), mẹ của [ngôn ngữ](../E/Elvish.md) của họ, tự gọi mình là *[Kwendî](../K/Kwende.md)* "những người nói bằng giọng nói" vì họ không biết những thứ hùng hồn khác. Tuy nhiên họ đã bị gián điệp của [Kẻ Thù](../M/Morgoth.md) quấy rối và bắt giữ, đưa họ đi [Utumno](../U/Utumno.md) về phía Bắc. Họ đã sợ hãi khi [Oromë](../O/Oromë.md) cưỡi [Nahar](../N/Nahar.md) khiến họ kinh ngạc.
 
 ## 1105 YT {#1105_YT}
 

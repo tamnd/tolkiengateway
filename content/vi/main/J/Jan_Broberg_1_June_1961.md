@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Jan Broberg"
 ---
 
-Chuyển hướng tới [Thư gửi Jan Broberg](../L/Letter_to_Jan_Broberg.md).
+Chuyển hướng đến [Thư gửi Jan Broberg](../L/Letter_to_Jan_Broberg.md).

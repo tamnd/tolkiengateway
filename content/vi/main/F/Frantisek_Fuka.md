@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "František Fuka"
 ---
 
-Chuyển hướng tới [František Fuka](František_Fuka.md).
+Chuyển hướng đến [František Fuka](František_Fuka.md).

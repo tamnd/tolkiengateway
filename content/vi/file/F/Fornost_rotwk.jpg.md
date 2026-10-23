@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Fornost Erain](../../main/F/Fornost_Erain.md), như đã xuất hiện trong [The Battle for Trung Địa II: The Rise of the Vua Phù thủy](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md) của EA.
+[Fornost Erain](../../main/F/Fornost_Erain.md), như xuất hiện trong [EA's The Battle for Middle-earth II: The Rise of the Witch-king](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md).
 
 ## Giấy phép {#Licensing}
 

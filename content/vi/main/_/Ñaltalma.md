@@ -20,7 +20,7 @@ sort_keys:
 
 ## Lịch sử {#History}
 
-Truyền thuyết kể rằng thiết bị này, cũng như nhiều phát minh khác, do chính [Fëanor](../F/Fëanor.md) phát minh, được [Trung Địa](../M/Middle-earth.md) mang đến [Noldor bị lưu đày](../E/Exiled_Noldor.md) và được [Sindar](../S/Sindar.md) nhận nuôi. Tuy nhiên, nó có lẽ đã lâu đời hơn rất nhiều, vì không có bằng chứng rõ ràng nào cho thấy đó là một trong nhiều điều mà Sindar đã học được từ [Noldor](../N/Noldor.md).<sup id="cite_ref-Ñaltalma_1-0" class="reference"><a href="#cite_note-Ñaltalma-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
+Truyền thuyết kể rằng thiết bị này, cũng như nhiều phát minh khác, do chính [Fëanor](../F/Fëanor.md) phát minh, được [Trung Địa](../M/Middle-earth.md) mang đến [Noldor bị lưu đày](../E/Exiled_Noldor.md) và được [Sindar](../S/Sindar.md) nhận nuôi. Tuy nhiên, nó có lẽ lâu đời hơn nhiều, vì không có bằng chứng xác thực nào cho thấy đó là một trong nhiều điều mà Sindar học được từ [Noldor](../N/Noldor.md).<sup id="cite_ref-Ñaltalma_1-0" class="reference"><a href="#cite_note-Ñaltalma-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
 
 Trong [Kỷ nguyên](../A/Ages.md)sau này, lịch sử nguồn gốc của nó cũng như các chi tiết về hình thức và cách sử dụng của nó đã bị mất khỏi hồ sơ.<sup id="cite_ref-Ñaltalma_1-1" class="reference"><a href="#cite_note-Ñaltalma-1">[1]</a></sup>
 

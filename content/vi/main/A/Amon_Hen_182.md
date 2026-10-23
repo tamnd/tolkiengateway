@@ -58,7 +58,7 @@ infobox:
     - Bởi: Malcolm Lindley
 - Quảng cáo: Kho vũ khí Mithril
 - Thông báo
-- Sảnh lửa
+- Cái Hall of Fire
     - Bởi: Lynn Forest-Hill
 - Kỵ Sĩ Đen Được phát hiện trong Shire
     - Bởi: Ellen Denham
@@ -74,7 +74,7 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
     - Bởi: [Sally Kennett](../S/Sally_Kennett.md)
 - *A Long Awaited Homecoming*
     - Bởi: Ellen Denham
-- Đọc, biểu quyết và gian lận
+- Đọc, bỏ phiếu và gian lận
     - Bởi: Ian Collier
 - Đánh giá: *[The Real Middle Earth](../T/The_Real_Middle-earth.md)*
     - Bởi: Marion Kershaw
@@ -100,6 +100,6 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
 - Thành viên mới
 - Tác phẩm nghệ thuật: *Wicked Dragon*
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
-- Truyện dân ca/Ủy ban
+- Truyện dân gian/Ủy ban
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 181</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_181.md" title="Amon Hen 181">Amon Hen 181</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 182</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 183</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_183.md" title="Amon Hen 183">Amon Hen 183</a></div></div></div>

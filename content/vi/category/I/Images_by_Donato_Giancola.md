@@ -14,4 +14,4 @@ sort_keys:
   "Images by artist": "Giancola, Donato"
 ---
 
-Danh mục này liệt kê tất cả **hình ảnh của [Donato Giancola](../../main/D/Donato_Giancola.md)**.
+Danh mục này liệt kê tất cả **hình ảnh theo [Donato Giancola](../../main/D/Donato_Giancola.md)**.

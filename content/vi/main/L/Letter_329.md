@@ -37,7 +37,7 @@ Tolkien cho biết ông không có thời gian để cung cấp tài liệu thư
 
 Thứ hai, Tolkien không quan tâm đến lịch sử văn học nối tiếp hay lịch sử của “tiểu thuyết” tiếng Anh. Tác phẩm của ông là một tác phẩm "lãng mạn anh hùng", một thể loại văn học cổ hơn và khá khác biệt.
 
-Thứ ba, ông nói rằng việc dán nhãn cho nhà văn là một thủ tục không phù hợp và là một trò giải trí trẻ con của những bộ óc nhỏ bé. Nó gây nhàm chán, nhấn mạnh quá mức những điểm chung của một nhóm nhà văn trong khi bỏ qua những điểm chung không thể phân loại và mang tính cá nhân của mỗi người. Anh ấy không thể hiểu làm thế nào mà anh ấy lại có thể được gắn mác “người tin vào chủ nghĩa giáo huấn đạo đức” vì nó hoàn toàn trái ngược với quy trình của anh ấy trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. <span></span>
+Thứ ba, ông nói rằng việc dán nhãn cho nhà văn là một thủ tục không phù hợp và là một trò giải trí trẻ con của những bộ óc nhỏ bé. Nó gây nhàm chán, nhấn mạnh quá mức những điểm chung của một nhóm nhà văn trong khi bỏ qua những điểm chung không thể phân loại và mang tính cá nhân của mỗi người. Anh ấy không thể hiểu làm thế nào mà anh ấy lại có thể bị gắn mác là “người tin vào chủ nghĩa giáo huấn đạo đức” vì nó hoàn toàn trái ngược với quy trình của anh ấy trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nimrodel (river)"
 ---
 
-Chuyển hướng đến [Nimrodel (sông)](<Nimrodel_(river).md>).
+Chuyển hướng tới [Nimrodel (sông)](<Nimrodel_(river).md>).

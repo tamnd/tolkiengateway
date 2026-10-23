@@ -28,7 +28,7 @@ file:
 
 Ảnh chụp màn hình quảng cáo bên ngoài [Meduseld](../../main/M/Meduseld.md) (Hội trường Vàng) từ *[The Last Days (of the Third Age of Middle-earth)](<../../main/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth).md>)*, một <a class="extiw" href="http://en.wikipedia.org/wiki/Freeware" title="wikipedia:Freeware">phần mềm miễn phí</a> [mod chuyển đổi toàn bộ](../../category/M/Modifications.md) cho các trò chơi <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade" title="wikipedia:Mount &amp; Blade">Mount & Blade</a></i> và <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade:_Warband" title="wikipedia:Mount &amp; Blade: Warband">Mount & Blade: Warband</a></i>.
 
-Ảnh chụp màn hình này mô tả hình dáng bên ngoài của Meduseld trong các phiên bản hiện tại của phiên bản mod <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade" title="wikipedia:Mount &amp; Blade">Mount & Blade</a></i> và <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade:_Warband" title="wikipedia:Mount &amp; Blade: Warband">Mount & Blade: Warband</a></i>.
+Ảnh chụp màn hình này mô tả hình dáng bên ngoài của Meduseld trong các bản phát hành hiện tại của phiên bản mod <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade" title="wikipedia:Mount &amp; Blade">Mount & Blade</a></i> và <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade:_Warband" title="wikipedia:Mount &amp; Blade: Warband">Mount & Blade: Warband</a></i>.
 
 ## Giấy phép {#Licensing}
 

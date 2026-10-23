@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Midway Games"
 ---
 
-Chuyển hướng tới [Trò chơi Midway](../M/Midway_Games.md).
+Chuyển hướng đến [Trò chơi Midway](../M/Midway_Games.md).

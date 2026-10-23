@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bởi [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) và xuất bản trong [Những bức thư Giáng sinh của Cha](../../main/T/The_Father_Christmas_Letters.md), 1976, và một lần nữa (đã bỏ viền trang trí) trong [Lịch J.R.R. Tolkien 1979](../../main/T/The_J.R.R._Tolkien_Calendar_1979.md), bức tranh vẽ nội thất của Ngôi nhà Cliff ở Bắc Cực này, cùng với một lá thư mô tả sự kiện, đã được gửi đến các con của J. R. R. Tolkien vào dịp Giáng sinh năm 1928, và do đó thuộc về thời kỳ hưng thịnh của hội họa mà từ đó các minh họa được lấy ra [The Silmarillion](../../main/T/The_Silmarillion.md) trong cuốn sách này.
+Bởi [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) và xuất bản trong [Những bức thư Giáng sinh của Cha](../../main/T/The_Father_Christmas_Letters.md), 1976, và một lần nữa (đã loại bỏ viền trang trí) trong [Lịch J.R.R. Tolkien 1979](../../main/T/The_J.R.R._Tolkien_Calendar_1979.md), bức tranh vẽ nội thất của Ngôi nhà Cliff ở Bắc Cực này, cùng với một lá thư mô tả sự kiện, đã được gửi đến các con của J. R. R. Tolkien vào dịp Giáng sinh năm 1928, và do đó thuộc về thời kỳ sung mãn của hội họa mà từ đó các minh họa được tạo ra. [The Silmarillion](../../main/T/The_Silmarillion.md) trong cuốn sách này.
 
 ## Giấy phép {#Licensing}
 

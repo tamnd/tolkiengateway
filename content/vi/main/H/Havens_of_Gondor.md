@@ -49,14 +49,14 @@ infobox:
 
 KHÁM PHÁ:
 
-- DOL AMROTH, một trong những cổng tốt nhất của Gondor,
+- DOL AMROTH, one of Gondor's finest ports,
 - EDHELLOND, Elfhaven, quê hương của những bến cảng đường hầm và những con tàu Thiên nga thần kỳ,
-- LINHIR, cửa ngõ vào trung tâm Gondor,
-- BELFALAS, tỉnh của các Hoàng tử.
+- LINHIR, the gateway to central Gondor,
+- BELFALAS, the province of the Princes.
 
 Lấy bối cảnh là vùng cao nguyên ven biển hoang dã, những vịnh có vách đá và những hòn đảo nhỏ kỳ lạ, HAVENS OF GONDOR mang đến sự phấn khích vô song! Làm sáng tỏ những âm mưu của triều đình Dol Amroth, khám phá những bí ẩn của Yêu tinh, chiến đấu với những kẻ buôn lậu và Corsairs, cảm nhận sức mạnh của tôn giáo đen tối trên những ngôi làng miền núi xa xôi.
 
-HAVENS OF GONDOR bao gồm:
+HAVENS OF GONDOR includes:
 
 - 5 TRANG ĐẦY MÀU: bản đồ khu vực 2 trang đẹp mắt của vùng Belfalas Nam Gondor; bản đồ khu vực đầy đủ trang; và một bản đồ 2 trang về Dol Amroth, Thành phố của những con tàu trắng.
 - BỐ CỤC CHÍNH: bao gồm 2 bản đồ Tiên-thiên đường, cảng Linhir, một ngôi làng miền núi nguy hiểm, tháp canh ven biển, Đồi Pyre, Lâu đài Amrûnaur, cùng với 2 trang sơ đồ boong tàu.

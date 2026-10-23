@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Decipher"
 ---
 
-Chuyển hướng đến [Giải mã](Decipher.md).
+Chuyển hướng tới [Giải mã](Decipher.md).

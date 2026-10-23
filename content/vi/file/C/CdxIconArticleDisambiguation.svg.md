@@ -25,7 +25,7 @@ file:
 
 Được sử dụng làm nội dung cho các mẫu <a class="external free" href="https://github.com/wikimedia/design-codex/tree/main" rel="noreferrer noopener" target="_blank">https://github.com/wikimedia/design-codex/tree/main</a>
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);">
 <p>This work is <a class="extiw" href="http://en.wikipedia.org/wiki/free_software" title="wikipedia:free software">free software</a>; you can redistribute it and/or modify it under the terms of the <a class="extiw" href="http://en.wikipedia.org/wiki/GNU_General_Public_License" title="wikipedia:GNU General Public License">GNU General Public License</a> as published by the <a class="extiw" href="http://en.wikipedia.org/wiki/Free_Software_Foundation" title="wikipedia:Free Software Foundation">Free Software Foundation</a>; either version 2 of the License, or any later version.

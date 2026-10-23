@@ -10,4 +10,4 @@ license: CC BY-SA 4.0
 source: Tolkien Gateway
 ---
 
-Danh mục này liệt kê tất cả **The Lord of the Rings thẻ Trò chơi thẻ giao dịch** từ *[The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)*.
+Danh mục này liệt kê tất cả **The Lord of the Rings Trading Card Game thẻ** từ *[The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)*.

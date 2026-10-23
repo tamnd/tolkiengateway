@@ -20,7 +20,7 @@ images:
 
 ## Trung Địa {#Middle-earth}
 
-- **Nơi [Hội đồng Elrond](../C/Council_of_Elrond.md), nơi số phận của [Chiếc Nhẫn Chúa](The_One_Ring.md) được quyết định.**
+- **Nơi [Hội đồng Elrond](../C/Council_of_Elrond.md), nơi số phận của [Người Nhẫn](The_One_Ring.md) được quyết định.**
 
 ## Sách {#Books}
 

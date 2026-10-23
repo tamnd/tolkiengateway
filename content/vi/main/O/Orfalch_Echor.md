@@ -28,9 +28,9 @@ images:
 
 ## Lịch sử {#History}
 
-Orfalch Echor là tuyến đường mà [Elemmakil](../E/Elemmakil.md) dẫn [Tuor](../T/Tuor.md) và [Voronwë](../V/Voronwë.md) đi qua để gặp [Ecthelion của Đài phun nước](../E/Ecthelion.md). Ở đầu dưới của nó là Cổng thứ nhất, [Cổng gỗ](../G/Gate_of_Wood.md). Orfalch tiếp tục đi qua phần còn lại của [Bảy Cánh Cổng của Gondolin](../S/Seven_Gates_of_Gondolin.md), đến Cổng thứ bảy, [Cổng thép](../G/Gate_of_Steel.md). Ở đầu phía trên là một khu vực cao cho tầm nhìn ra [Tumladen](../T/Tumladen.md) và thành phố ở trung tâm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Orfalch Echor là tuyến đường mà [Elemmakil](../E/Elemmakil.md) dẫn [Tuor](../T/Tuor.md) và [Voronwë](../V/Voronwë.md) đi qua để gặp [Ecthelion Đài phun nước](../E/Ecthelion.md). Ở đầu dưới của nó là Cổng thứ nhất, [Cổng gỗ](../G/Gate_of_Wood.md). Orfalch tiếp tục đi qua phần còn lại của [Bảy Cánh Cổng của Gondolin](../S/Seven_Gates_of_Gondolin.md), đến Cổng thứ bảy, [Cổng thép](../G/Gate_of_Steel.md). Ở đầu phía trên là một khu vực cao cho tầm nhìn ra [Tumladen](../T/Tumladen.md) và thành phố ở trung tâm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong khi [Húrin](../H/Húrin.md) [lang thang](../T/The_Wanderings_of_Húrin.md), anh ấy đã gặp Orfalch Echor, chỉ để tìm ra Lối thoát cũ bị chôn vùi bên dưới *"một tảng đá lớn rơi bên dưới bức tường đá dựng đứng"*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Húrin](../H/Húrin.md) [lang thang](../T/The_Wanderings_of_Húrin.md), anh ấy đã đến Orfalch Echor, chỉ để tìm thấy Lối thoát cũ bị chôn vùi bên dưới *"một khối đá lớn bên dưới bức tường đá dựng đứng"*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

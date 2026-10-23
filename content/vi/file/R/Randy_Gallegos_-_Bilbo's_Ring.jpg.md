@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Bilbo của](../../main/B/Bilbo_Baggins.md) [Nhẫn](../../main/T/The_One_Ring.md)" của [Randy Gallegos](../../category/I/Images_by_Randy_Gallegos.md) cho *[The Lord of the Rings: Tales of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md)*
+"[Bilbo](../../main/B/Bilbo_Baggins.md) [Nhẫn](../../main/T/The_One_Ring.md)" của [Randy Gallegos](../../category/I/Images_by_Randy_Gallegos.md) cho *[The Lord of the Rings: Tales of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md)*
 
 ## Giấy phép {#Licensing}
 

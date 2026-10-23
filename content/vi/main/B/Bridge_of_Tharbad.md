@@ -27,11 +27,11 @@ Cây cầu ** Tharbad** là nơi [Con đường Bắc-Nam](../N/North-South_Road
 
 Sau khi thành lập, cả hai vương quốc [Arnor](../A/Arnor.md) và [Gondor](../G/Gondor.md) đều có chung mối quan tâm đến [Enedwaith](../E/Enedwaith.md), mặc dù nó không thuộc về bên nào. Vì Con đường Bắc-Nam vĩ đại là tuyến đường liên lạc chính giữa hai vương quốc cùng nhau nên họ đã xây dựng và bảo trì Cây cầu Tharbad. Những con đường đắp cao dẫn đến cây cầu và một lượng lớn binh lính, thủy thủ và kỹ sư đồn trú gần đó. Cầu được bảo vệ bởi một pháo đài trải dài hai bên bờ sông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Tuy nhiên, sau khi [Đại Dịch](../G/Great_Plague.md) xuất hiện [T.A.](../T/Third_Age.md) [1636](../T/Third_Age_1636.md), khu vực này nhanh chóng rơi vào tình trạng phân hủy. Đến [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), khi [Boromir](Boromir.md) thực hiện hành trình vĩ đại từ [Minas Tirith](../M/Minas_Tirith.md) đến [Rivendell](../R/Rivendell.md), những con đường đắp cao đã đổ nát, Tharbad biến thành những gò đất nhỏ dần, và tàn tích của cây cầu đã tạo thành một khúc cạn nguy hiểm.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Boromir mất ngựa tại cây cầu đổ nát.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tuy nhiên, sau khi [Đại Dịch](../G/Great_Plague.md) xuất hiện [T.A.](../T/Third_Age.md) [1636](../T/Third_Age_1636.md), khu vực này nhanh chóng rơi vào tình trạng phân rã. Đến [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), khi [Boromir](Boromir.md) thực hiện hành trình vĩ đại từ [Minas Tirith](../M/Minas_Tirith.md) đến [Rivendell](../R/Rivendell.md), những con đường đắp cao đã đổ nát, Tharbad biến thành những gò đất nhỏ dần, và tàn tích của cây cầu đã tạo thành một khúc cạn nguy hiểm.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Boromir mất ngựa tại cây cầu đổ nát.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Named &#34;the Great Bridge&#34;, the bridge of Tharbad is utterly broken and in ruin.</dd></dl>
 

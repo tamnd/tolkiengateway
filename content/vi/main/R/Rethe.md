@@ -51,7 +51,7 @@ Tháng thứ ba của [Lịch Shire](../S/Shire_Calendar.md), nằm giữa [Solm
 
 Cái tên thể hiện sự [hiện đại hóa](../H/Hobbitish.md) của tên [tiếng Anh cổ](../O/Old_English.md) cho tháng 3, <i><a class="extiw" href="http://en.wiktionary.org/wiki/hre%C3%BEmona%C3%BE" title="wiktionary:hreþmonaþ">Hreþmōnaþ</a></i>, nghĩa là "tháng khó khăn".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Ngoài ra, cái tên này có thể có nghĩa là "tháng bão", theo cách đọc của Tiến sĩ Eleanor Parker trong bài bình luận của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về từ "Hreðmanna" trong [Beowulf: A Translation and Commentary](../B/Beowulf%253A_A_Translation_and_Commentary.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Ngoài ra, cái tên này có thể có nghĩa là "tháng bão", theo cách đọc [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bình luận của Tiến sĩ Eleanor Parker về từ "Hreðmanna" trong [Beowulf: A Translation and Commentary](../B/Beowulf%253A_A_Translation_and_Commentary.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

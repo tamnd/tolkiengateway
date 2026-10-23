@@ -59,7 +59,7 @@ Phelpstead dựa trên các bản thảo chưa xuất bản sau đây được l
 
 - <a class="external text" href="http://web.archive.org/web/20160909042545/http://www.carlphelpstead.info/-tolkien-and-wales" rel="noreferrer noopener" target="_blank"><i>Tolkien và Wales</i> tại trang web của Phelpstead</a>
 - <a class="external text" href="http://wayneandchristina.wordpress.com/2011/07/27/tolkien-and-wales/" rel="noreferrer noopener" target="_blank">Đánh giá</a> bởi [Christina Scull](../C/Christina_Scull.md)
-- <a class="external text" href="http://www.bbc.co.uk/news/uk-wales-south-east-wales-13472344" rel="noreferrer noopener" target="_blank">Bài viết của BBC News về việc ra mắt <i>Tolkien và xứ Wales</i></a>
+- <a class="external text" href="http://www.bbc.co.uk/news/uk-wales-south-east-wales-13472344" rel="noreferrer noopener" target="_blank">BBC Tin tức về lễ ra mắt <i>Tolkien và xứ Wales</i></a>
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orne"
 ---
 
-Chuyển hướng đến [Orne](Orne.md).
+Chuyển hướng tới [Orne](Orne.md).

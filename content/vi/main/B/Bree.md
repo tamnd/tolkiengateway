@@ -104,11 +104,11 @@ Do hầu hết các bản chuyển thể đều lược bỏ [Tom Bombadil](../T
 
 <dl><dd>After leaving the <a href="../O/Old_Forest.md" title="Old Forest">Old Forest</a>, the Hobbits appear in the Prancing Pony without delay or introduction. The rooms were raided by <a href="../N/Nazgûl.md" title="Nazgûl">Ringwraiths</a> rather than servants of them.</dd></dl>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (1981 radio series)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
 <dl><dd>Here too, Bombadil and the Barrow-downs were omitted. After taking a short walk through Bree, the hobbits enter the Pony. Merry goes out for a walk, and is found by <a href="Bob.md" title="Bob">Bob</a> the ostler. Once again, it is the Ringwraiths rather than servants of them who raid the Pony.</dd></dl>
 
-<b>1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../A/Arnor%253A_The_Land.md" title="Arnor: The Land">Arnor: The Land</a></i></b>
+<b>1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../A/Arnor%253A_The_Land.md" title="Arnor: The Land">Arnor: Vùng đất</a></i></b>
 
 <dl><dd>The armies of <a href="../A/Angmar.md" title="Angmar">Angmar</a> razed Bree in <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1409.md" title="Third Age 1409">1409</a>, though its inhabitants had found refuge among the elves of <a href="../S/Siragalë.md" title="Siragalë">Siragalë</a> thanks to the intervention of Gandalf.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup> Near the end of the <a href="../A/Angmar_conflict.md" title="Angmar conflict">Angmar conflict</a>, Bree was razed once again, and its inhabitants also fled to the Shire. Rebuilding went slower because of the fall of Arthedain.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup></dd></dl>
 
@@ -120,7 +120,7 @@ Do hầu hết các bản chuyển thể đều lược bỏ [Tom Bombadil](../T
 
 <dl><dd>The role of Bree is greatly expanded, due to the interactiveness of the medium. It is the place where the Hobbits meet Strider, and the player shifts perspective. Strider searches the streets of Bree for Merry and materials to make decoys for (once again) the Ringwraiths to slash, while the streets are crowded with robbers and wolves.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Bree is one of the major cities in the north, located in Bree-land, probably the most important city in the game. It faces threats from several fronts: <a href="../S/Sharkey.md" title="Sharkey">Sharkey</a>&#39;s brigands have already began making their way into <a href="Bree-land.md" title="Bree-land">Bree-land</a>, the <a href="Barrow-downs.md" title="Barrow-downs">Barrow-downs</a> are stirring following the passage of the <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> and a small band of <a href="../O/Orcs.md" title="Orcs">Orcs</a> has made their way from the <a href="../N/North_Downs.md" title="North Downs">North Downs</a>. The citizens of Bree know more of the bigger world than <a href="../T/The_Shire.md" title="The Shire">Shire</a> dwellers, but are still oblivious to the dangers they could face. The town&#39;s mayor and the watchers don&#39;t trust the <a href="../R/Rangers_of_the_North.md" title="Rangers of the North">Rangers of the North</a>, insisting they can manage their own affairs. Later, during the winter of <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a>, Bree is overrun by Sharkey&#39;s Brigands and <a href="../H/Half-orcs.md" title="Half-orcs">Half-orcs</a> and has to be liberated by Free Peoples - an event references as &#34;Thievery and Mischief&#34; by <a href="Barliman_Butterbur.md" title="Barliman Butterbur">Barliman Butterbur</a> later.</dd></dl>
 

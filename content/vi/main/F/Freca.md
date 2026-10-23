@@ -90,7 +90,7 @@ Việc Freca bị giết không bị người dân của ông lãng quên, và t
 		</li>
 </ul>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>A tapestry depicting Helm Hammerhand killing Freca is found in <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a>.</dd></dl>
 

@@ -40,7 +40,7 @@ Tolkien hỏi liệu trong tình hình hiện tại,<sup id="cite_ref-1" class="
 
 Việc đốt The Hobbit là một đòn đau nhưng Tolkien lại tự trách mình vì đã không bày tỏ sự cảm thông trước sự mất mát của họ.
 
-Tolkien hỏi liệu Unwin có xem xét một tập truyện ngắn hơn có thơ không. Ông cho biết *Farmer Giles* đã làm hài lòng rất nhiều trẻ em và người lớn. Nếu quá ngắn bé có thể thêm một hoặc hai câu chuyện và "[Tom Bombadil](../T/Tom_Bombadil.md)".
+Tolkien hỏi liệu Unwin có xem xét một tập truyện ngắn có thơ không. Ông cho biết *Farmer Giles* đã làm hài lòng rất nhiều trẻ em và người lớn. Nếu quá ngắn bé có thể thêm một hoặc hai câu chuyện và "[Tom Bombadil](../T/Tom_Bombadil.md)".
 
 ## Ghi chú {#Notes}
 

@@ -17,7 +17,7 @@ categories:
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Nguyên thủy Elvish](../P/Primitive_Quendian.md) *rokkō*<sup id="cite_ref-L211_2-0" class="reference"><a href="#cite_note-L211-2">[2]</a></sup><sup id="cite_ref-L297_3-0" class="reference"><a href="#cite_note-L297-3">[3]</a></sup>
+- [Primitive Elvish](../P/Primitive_Quendian.md) *rokkō*<sup id="cite_ref-L211_2-0" class="reference"><a href="#cite_note-L211-2">[2]</a></sup><sup id="cite_ref-L297_3-0" class="reference"><a href="#cite_note-L297-3">[3]</a></sup>
     - [Quenya](../Q/Quenya.md): *[rocco/rokko](../H/Horses.md#Names)*<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
     - [Sindarin](../S/Sindarin.md)/[Noldorin](../N/Noldorin.md): *[roch](../H/Horses.md#Names)*<sup id="cite_ref-LR_1-2" class="reference"><a href="#cite_note-LR-1">[1]</a></sup><sup id="cite_ref-L211_2-1" class="reference"><a href="#cite_note-L211-2">[2]</a></sup><sup id="cite_ref-L297_3-1" class="reference"><a href="#cite_note-L297-3">[3]</a></sup>
 

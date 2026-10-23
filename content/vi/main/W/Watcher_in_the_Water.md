@@ -62,9 +62,9 @@ Số phận của Người canh gác dưới nước vẫn chưa rõ, nhưng Ng�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bản thảo dài hai trang có tựa đề "Bản phác thảo các mỏ của chương Moria", Người canh gác dưới nước được ám chỉ là "'**cư dân dưới nước**'" ngăn cản người dân [Balin](../B/Balin's_folk.md) đi qua [cổng phía tây](../D/Doors_of_Durin.md) của [Moria](../M/Moria.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Trong bản thảo đầu tiên của chương "[Hành trình trong thế giới Dark](../A/A_Journey_in_the_Dark.md)", được đánh số "XIV", các xúc tu của **Cư dân trong hồ bơi** hoặc **cư dân trong hồ bơi**, được mô tả là "xám xanh nhạt" thay vì "xanh nhạt"<sup id="cite_ref-Dark_1-3" class="reference"><a href="#cite_note-Dark-1">[1]</a></sup> không giống như văn bản đã xuất bản.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Trong cùng một bản dự thảo, bản thân sinh vật này được mô tả là "quái vật nước".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Trong bản thảo dài hai trang có tựa đề "Bản phác thảo của chương Mỏ Moria", Người canh gác dưới nước được ám chỉ là "**cư dân dưới nước**'" ngăn cản người dân [Balin](../B/Balin's_folk.md) đi qua [cổng phía tây](../D/Doors_of_Durin.md) của [Moria](../M/Moria.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Trong bản thảo đầu tiên của chương "[Hành trình trong thế giới Dark](../A/A_Journey_in_the_Dark.md)", được đánh số "XIV", các xúc tu của **Cư dân trong hồ bơi** hoặc **cư dân trong hồ bơi**, được mô tả là "xám xanh nhạt" thay vì "xanh nhạt"<sup id="cite_ref-Dark_1-3" class="reference"><a href="#cite_note-Dark-1">[1]</a></sup> không giống như văn bản đã xuất bản.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Trong cùng một bản dự thảo, bản thân sinh vật này được mô tả là "quái vật nước".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
-Trong bản thảo có tựa đề "The Mines of Moria (1): The Chúa tể Moria", các xúc tu của Người canh gác trong nước ban đầu lấp lánh dưới mặt trăng khi chúng "quằn quại qua ngưỡng cửa" chứ không phải "dưới ánh sao"<sup id="cite_ref-Dark_1-4" class="reference"><a href="#cite_note-Dark-1">[1]</a></sup> không giống như văn bản đã xuất bản.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Khi Frodo hỏi Gandalf về sinh vật này, Gandalf ban đầu nói rằng anh "chưa bao giờ nhìn thấy hoặc nghe kể về một sinh vật như vậy", nhưng điều này bit đã bị đánh ra. Bên cạnh bản thảo, Tolkien có ghi chú bằng bút chì:<sup id="cite_ref-fingers_10-0" class="reference"><a href="#cite_note-fingers-10">[10]</a></sup>
+Trong bản nháp có tựa đề "The Mỏ Moria (1): The Chúa tể Moria", các xúc tu của Người canh gác trong nước ban đầu lấp lánh dưới mặt trăng khi chúng "quằn quại qua ngưỡng cửa" chứ không phải "dưới ánh sao"<sup id="cite_ref-Dark_1-4" class="reference"><a href="#cite_note-Dark-1">[1]</a></sup> không giống như văn bản đã xuất bản.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Khi Frodo hỏi Gandalf về sinh vật này, Gandalf ban đầu nói rằng anh "chưa bao giờ nhìn thấy hoặc nghe kể về một sinh vật như vậy", nhưng đoạn này đã bị đánh trúng ra ngoài. Bên cạnh bản thảo, Tolkien có ghi chú bằng bút chì:<sup id="cite_ref-fingers_10-0" class="reference"><a href="#cite_note-fingers-10">[10]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
 <p>? Insert words of Gimli saying that there were traditions among the Dwarves about strangling fingers in the dark.<sup id="cite_ref-fingers_10-1" class="reference"><a href="#cite_note-fingers-10">[10]</a></sup>
@@ -111,11 +111,11 @@ Trong bản thảo có tựa đề "The Mines of Moria (1): The Chúa tể Moria
 
 <dl><dd>The Watcher in the Water is the first real boss that Berethor&#39;s party has to face. Its attacks consist mainly of tentacle attacks and &#34;Reeking Spout&#34;, a gust of foul breath and slime that deals significant damage to the whole party. After a brief but fierce battle, Berethor&#39;s company is able to anger the Watcher enough to clear the way for them to enter Moria. Shortly after, they end up fighting the Watcher again, this time in a huge lake that has flooded part of Moria. This time, they kill it for good.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>The Watcher in the Water is a power to use in <a href="../I/Isengard.md" title="Isengard">Isengard</a> and the <a class="mw-redirect" href="../G/Goblins.md" title="Goblins">Goblins</a> in the Evil Campaign or in a Skirmish. When it attacks, it uses its tentacles to smack any surrounding enemies. When picking up an enemy with one of its tentacles, it eats it and its health heals. It is a commander on the Good Campaign in Missions 2, 6 &amp; 8.When it dies or its time is done it goes back into the water pool where it goes to its home until it is summoned again. In the Evil Campaign it cost ten power points, while in a Skirmish it costs 15.</dd></dl>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The Watcher is explicitly classified as one of the <a href="../N/Nameless_things.md" title="Nameless things">Nameless</a> that was able to reach the surface through the flooded passages. Other creatures of the same type are encountered in the game, from the sewers of <a href="../C/Carn_Dûm.md" title="Carn Dûm">Carn Dûm</a> in the North, all the way to <a href="../U/Umbar.md" title="Umbar">Umbar</a> in the South.</dd></dl>
 
@@ -125,7 +125,7 @@ Trong bản thảo có tựa đề "The Mines of Moria (1): The Chúa tể Moria
 
 <dl><dd>The Watcher in the Water appears in a role virtually identical to that in the films, though the events of its encounter with the Fellowship is added onto for gameplay purposes.</dd></dl>
 
-<b>2014: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung Địa: Bóng Tối trong số Mordor</a></i>:</b>
+<b>2014: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Middle-earth: Shadow of Mordor</a></i>:</b>
 
 <dl><dd>The in-game description of the <a class="new" href="https://tolkiengateway.net/w/index.php?title=N%C3%BArnen_Fishery&amp;action=edit&amp;redlink=1" title="Núrnen Fishery (page does not exist)">Núrnen Fishery</a> explains that after the Uruks took it over to produce food for Sauron&#39;s armies, the <a href="../M/Men.md" title="Men">Men</a> of <a href="../N/Nurn.md" title="Nurn">Nurn</a> believe in a legend regarding a creature in the <a href="../S/Sea_of_Núrnen.md" title="Sea of Núrnen">Sea of Núrnen</a> that is implied to be another Watcher in the Water.</dd></dl>
 
@@ -134,7 +134,7 @@ Trong bản thảo có tựa đề "The Mines of Moria (1): The Chúa tể Moria
 </p>
 </blockquote>
 
-<b>2024: <i><a href="../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md" title="The Lord of the Rings: The War of the Rohirrim">The Lord of the Rings: Cuộc chiến của Rohirrim</a></i>:</b>
+<b>2024: <i><a href="../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md" title="The Lord of the Rings: The War of the Rohirrim">The Lord of the Rings: The War of the Rohirrim</a></i>:</b>
 
 <dl><dd>A Watcher appears in <a href="../R/Rohan.md" title="Rohan">Rohan</a> and is used to bring about the death of a rampaging <a class="mw-redirect" href="../O/Oliphant.md" title="Oliphant">oliphant</a>.</dd></dl>
 

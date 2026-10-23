@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Quy hoạch [Ngôi nhà nông dân trồng bông](../../main/F/Farmer_Cotton.md)" của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
+"Quy hoạch [Ngôi nhà của nông dân trồng bông](../../main/F/Farmer_Cotton.md)" của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
 
 ## Giấy phép {#Licensing}
 

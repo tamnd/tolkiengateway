@@ -42,7 +42,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Lord_of_the_Éothéod.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f1/The_Lord_of_the_Rings_Online_-_Lord_of_the_%C3%89oth%C3%A9od.png/100px-The_Lord_of_the_Rings_Online_-_Lord_of_the_%C3%89oth%C3%A9od.png" decoding="async" loading="lazy" width="100" height="413" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f1/The_Lord_of_the_Rings_Online_-_Lord_of_the_%C3%89oth%C3%A9od.png/150px-The_Lord_of_the_Rings_Online_-_Lord_of_the_%C3%89oth%C3%A9od.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f1/The_Lord_of_the_Rings_Online_-_Lord_of_the_%C3%89oth%C3%A9od.png/200px-The_Lord_of_the_Rings_Online_-_Lord_of_the_%C3%89oth%C3%A9od.png 2x" data-file-width="930" data-file-height="3839"/></a><figcaption>The genealogy in LOTRO</figcaption></figure>
 
-<b>2020: <i><a href="../../main/T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2020: <i><a href="../../main/T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The player travels with a Rohirric scholar who relays to them the full history of the Lords of the Éothéod, totalling twenty-eight rulers between <a href="../../main/M/Marhari.md" title="Marhari">Marhari</a> and <a href="../../main/E/Eorl.md" title="Eorl">Eorl</a>.</dd></dl>
 
@@ -72,7 +72,7 @@ Xin chào {{{name}}} và [chào mừng](../C/Community_Portal.md) đến với *
     - <a class="extiw" href="http://en.wikipedia.org/wiki/Wikipedia:Picture_tutorial" title="wikipedia:Wikipedia:Picture tutorial">Hướng dẫn bằng hình ảnh</a>
     - <a class="extiw" href="http://en.wikipedia.org/wiki/Wikipedia:How_to_write_a_great_article" title="wikipedia:Wikipedia:How to write a great article">Cách viết một bài viết hay</a>
 
-Tôi hy vọng bạn thích chỉnh sửa ở đây và chúng tôi mong chờ những chỉnh sửa trong tương lai của bạn. Nhân tiện, bạn có thể ký tên của mình trên các trang Thảo luận và bình chọn bằng cách sử dụng ba dấu ngã, như thế này: \~\~\~. Bốn dấu ngã (\~\~\~\~) tạo ra tên của bạn và ngày hiện tại. Nếu bạn có bất kỳ câu hỏi nào, hãy xem [trang trợ giúp](../../help/C/Contents.md), thêm câu hỏi vào [Hội đồng diễn đàn](https://tolkiengateway.net/wiki/Forums:Council), [tham gia cuộc trò chuyện của chúng tôi](../C/Chat.md) hoặc hỏi tôi trên {{{trang thảo luận của tôi}}}. Hãy tiếp tục công việc tuyệt vời!
+Tôi hy vọng bạn thích chỉnh sửa ở đây và chúng tôi mong chờ những chỉnh sửa trong tương lai của bạn. Nhân tiện, bạn có thể ký tên mình trên các trang Thảo luận và bình chọn bằng cách sử dụng ba dấu ngã, như thế này: \~\~\~. Bốn dấu ngã (\~\~\~\~) tạo ra tên của bạn và ngày hiện tại. Nếu bạn có bất kỳ câu hỏi nào, hãy xem [trang trợ giúp](../../help/C/Contents.md), thêm câu hỏi vào [Hội đồng diễn đàn](https://tolkiengateway.net/wiki/Forums:Council), [tham gia cuộc trò chuyện của chúng tôi](../C/Chat.md) hoặc hỏi tôi trên {{{trang thảo luận của tôi}}}. Hãy tiếp tục công việc tuyệt vời!
 
 ## Cách sử dụng {#Usage}
 

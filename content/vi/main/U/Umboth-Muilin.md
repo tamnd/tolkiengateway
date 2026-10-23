@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aelin-uial"
 ---
 
-Chuyển hướng tới [Aelin-uial](../A/Aelin-uial.md).
+Chuyển hướng đến [Aelin-uial](../A/Aelin-uial.md).

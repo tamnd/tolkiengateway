@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ae Adar Nín"
 ---
 
-Chuyển hướng tới [Ae Adar Nín](Ae_Adar_Nín.md).
+Chuyển hướng đến [Ae Adar Nín](Ae_Adar_Nín.md).

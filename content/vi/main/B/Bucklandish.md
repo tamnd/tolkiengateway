@@ -26,7 +26,7 @@ Những người [Stoors](../S/Stoors.md)định cư ở những vùng như [Buc
 
 Tolkien đã nói với Dịch giả người Hà Lan, [Max Schuchart](../M/Max_Schuchart.md), rằng có "các phần tử '[Celtic](../C/Celtic.md)' trong tên [Buckland](Buckland.md) và [phương Đông-farthing](../E/Eastfarthing.md)."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Các Stoors có các phần tử [Celtic](../C/Celtic.md) trong tên phản ánh nền tảng [TiềnNúmenórean](../P/Pre-Númenórean.md) của họ (thông qua Dunlendings).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Tolkien đã đề cập rằng sự tồn tại của dấu vết của ngôn ngữ cổ hơn của Stoors và [Bree-men](Bree-landers.md) giống như sự tồn tại của các phần tử Celtic ở Anh.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Các phần tử Stoors có [Celtic](../C/Celtic.md) trong tên phản ánh nền tảng [TiềnNúmenórean](../P/Pre-Númenórean.md) của chúng (thông qua Dunlending).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Tolkien đã đề cập rằng sự tồn tại của dấu vết của ngôn ngữ cũ hơn của Stoors và [Bree-men](Bree-landers.md) giống như sự tồn tại của các phần tử Celtic ở Anh.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Miêu tả trong chuyển thể {#Portrayals_in_adaptations}
 
@@ -34,7 +34,7 @@ Các Stoors có các phần tử [Celtic](../C/Celtic.md) trong tên phản ánh
 
 <dl><dd><a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Meriadoc Brandybuck</a> is described as being the linguistic &#34;oddball&#34; of the group: his accent is noticeably distinct from the other Hobbits seen on-screen, something of an invention between actor <a href="../D/Dominic_Monaghan.md" title="Dominic Monaghan">Dominic Monaghan</a> and the dialect coaches, to reflect his unique origin.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i></b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></b>
 
 <dl><dd>In keeping with Tolkien&#39;s usage of Celtic for non-<a href="../W/Westron.md" title="Westron">Westron</a> elements, the Stoor characters in Dunland are often seen with <a href="../W/Welsh.md" title="Welsh">Welsh</a> names.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 

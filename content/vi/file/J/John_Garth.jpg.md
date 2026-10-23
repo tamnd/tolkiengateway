@@ -24,7 +24,7 @@ file:
   user: "KingAragorn"
 ---
 
-[John Garth](../../main/J/John_Garth.md) tại [Sự trở lại của chiếc nhẫn](../../main/T/The_Return_of_the_Ring.md) năm 2012.
+[John Garth](../../main/J/John_Garth.md) tại [Sự trở lại của Nhẫn](../../main/T/The_Return_of_the_Ring.md) vào năm 2012.
 
 ## Giấy phép {#Licensing}
 

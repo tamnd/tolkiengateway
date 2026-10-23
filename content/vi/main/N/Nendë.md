@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nende"
 ---
 
-Chuyển hướng tới [Nende](Nende.md).
+Chuyển hướng đến [Nende](Nende.md).

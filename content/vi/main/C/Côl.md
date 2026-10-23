@@ -11,4 +11,4 @@ redirect_target: "Malt"
 redirect_fragment: "Other versions"
 ---
 
-Chuyển hướng tới [Malt](../M/Malt.md#Other_versions).
+Chuyển hướng đến [Malt](../M/Malt.md#Other_versions).

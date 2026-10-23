@@ -24,7 +24,7 @@ images:
 
 [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](Christina_Scull.md) đã lưu ý rằng sự tồn tại của "Clarendon Chaucer" hầu như không được biết đến trước khi xuất bản *[The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)* ([2006](../_/2006.md)).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> của họ.
 
-Trong [2019](../_/2019.md), cuốn sách *[Tolkien's Lost Chaucer](../T/Tolkien's_Lost_Chaucer.md)* của John M. Bowers khám phá dự án bị bỏ hoang này và làm sáng tỏ nhiều về nguồn gốc, sự tiến hóa và số phận cuối cùng của nó.
+Trong [2019](../_/2019.md), cuốn sách John M. Bowers *[Tolkien's Lost Chaucer](../T/Tolkien's_Lost_Chaucer.md)* khám phá dự án bị bỏ hoang này và làm sáng tỏ nhiều về nguồn gốc, sự tiến hóa và số phận cuối cùng của nó.
 
 Trong [2024](../_/2024.md), cuốn sách tiếp theo của Bowers *[Tolkien on Chaucer, 1913-1959](../T/Tolkien_on_Chaucer,_1913-1959.md)* xuất bản những tài liệu quan trọng từ tác phẩm này.
 

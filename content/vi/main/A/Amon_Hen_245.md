@@ -55,7 +55,7 @@ infobox:
     - Bởi: Ian Collier
 - Thông báo
 - Thông báo ĐHĐCĐ
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Sarah Clemetson - Một sự tưởng nhớ
 - Tất cả Bran
@@ -63,7 +63,7 @@ infobox:
 - Sự đốt cháy Palantír 5
     - Bởi: Ian Collier
 - Quảng cáo: *Riddles by a J.R.R. Tolkien Fan*
-- Báo cáo: [C.S. Lewis](../C/C.S._Lewis.md) Hội nghị chuyên đề và dịch vụ
+- Báo cáo: [C.S. Lewis](../C/C.S._Lewis.md) Hội nghị chuyên đề và Dịch vụ
     - Bởi: Christopher Kreuzer
 - Ngồi và suy nghĩ
     - Bởi: Mark Bednarowski

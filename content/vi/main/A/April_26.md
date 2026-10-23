@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "26 April"
 ---
 
-Chuyển hướng tới [26 tháng 4](../_/26_April.md).
+Chuyển hướng đến [26 tháng 4](../_/26_April.md).

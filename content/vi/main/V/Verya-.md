@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-- [Gốc](../R/Root.md) BER ("giao phối, kết hôn, kết hôn")<sup id="cite_ref-Vinyar_1-1" class="reference"><a href="#cite_note-Vinyar-1">[1]</a></sup>
+- [Gốc](../R/Root.md) BER ("kết đôi, kết đôi, kết hôn")<sup id="cite_ref-Vinyar_1-1" class="reference"><a href="#cite_note-Vinyar-1">[1]</a></sup>
 
 ## Các hình thức khác {#Other_forms}
 

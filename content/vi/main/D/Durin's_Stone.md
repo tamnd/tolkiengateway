@@ -48,7 +48,7 @@ Theo [Người Lùn](Dwarves.md) của [Dân gian Durin](Durin's_Folk~15256.md),
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Durin&#39;s Stone is located along the southern coast of <a href="../M/Mirrormere.md" title="Mirrormere">Mirrormere</a>. The location of the stone has been taken over by an encampment of <a href="../O/Orcs.md" title="Orcs">orcs</a>.</dd></dl>
 

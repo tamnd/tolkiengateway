@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Canon"
 ---
 
-Chuyển hướng đến [Canon](../C/Canon.md).
+Chuyển hướng tới [Canon](../C/Canon.md).

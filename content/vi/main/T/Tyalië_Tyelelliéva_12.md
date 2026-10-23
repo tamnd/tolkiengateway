@@ -37,7 +37,7 @@ infobox:
 - Kẻ hề của Nữ hoàng Beruthiel, được dịch bởi Basil Firsov, (một bài thơ Quenya)
 - Phát triển 'Galadriel's Lament' của David Salo, (phân tích ngôn ngữ)
 - Danh sách các phiên bản khảo sát Namaria của Lisa Star
-- The Lời Tiên tri Thứ hai của Mandos của Helge K. Fauskanger, (bản dịch sang Quenya với tengwar và một bản phân tích)
+- The Lời tiên tri thứ hai của Mandos của Helge K. Fauskanger, (bản dịch sang Quenya với tengwar và một bản phân tích)
 - Pháp sư của Al McFarland, (tác phẩm nghệ thuật)
 - Báo cáo công bố MERP
 - Hình ảnh Tolkien của một nghệ sĩ vô danh

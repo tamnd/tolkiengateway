@@ -86,7 +86,7 @@ Tolkien sau đó làm lại bài thơ thành Canto III của *[The Lay of Leithi
 
 Trong khi viết *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Tolkien đã tạo ra một biến thể khác cho tên bài thơ, **Ánh sáng trên cây bồ đề**, và sửa lại cho đến khi gần giống với phiên bản đã xuất bản.<sup id="cite_ref-lotr_10-0" class="reference"><a href="#cite_note-lotr-10">[10]</a></sup>
 
-Trong phiên bản đầu tiên của Rivendell chương, [Bilbo Baggins](../B/Bilbo_Baggins.md) đã hát **Tinúviel**, một đoạn trích từ Lay of Lúthien có thể giống với Light as Leaf trên Lindentree. Tolkien quyết định phản đối điều này, thay vào đó Bilbo hát phiên bản đầu tiên của *[Eärendillinwë](Song_of_Eärendil.md)*.<sup id="cite_ref-bilbo_11-0" class="reference"><a href="#cite_note-bilbo-11">[11]</a></sup>
+Trong phiên bản đầu tiên của Rivendell chương, [Bilbo Baggins](../B/Bilbo_Baggins.md) đã hát **Tinúviel**, một đoạn trích từ Lay của Lúthien có thể giống với Light as Leaf trên Lindentree. Tolkien quyết định phản đối điều này, thay vào đó Bilbo hát phiên bản đầu tiên của *[Eärendillinwë](Song_of_Eärendil.md)*.<sup id="cite_ref-bilbo_11-0" class="reference"><a href="#cite_note-bilbo-11">[11]</a></sup>
 
 ## Phân tích {#Analysis}
 

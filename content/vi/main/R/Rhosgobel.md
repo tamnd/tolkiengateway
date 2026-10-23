@@ -48,15 +48,15 @@ infobox:
 
 ## Vị trí {#Location}
 
-Rhosgobel nằm gần biên giới [Mirkwood](../M/Mirkwood.md)<sup id="cite_ref-Council_2-0" class="reference"><a href="#cite_note-Council-2">[2]</a></sup> gần đầu phía nam của Mirkwood,<sup id="cite_ref-Queer_3-0" class="reference"><a href="#cite_note-Queer-3">[3]</a></sup> có lẽ ở phía tây của nó về phía nam [Gladden Fields](../G/Gladden_Fields.md) và đối diện với [phương Đông Bight](../E/East_Bight.md) của khu rừng,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> vì các trinh sát do [Elrond](../E/Elrond.md) cử đến đã sử dụng đường đèo tại đầu nguồn của [Sông Gladden](../G/Gladden_River.md), đã đi xuống [Wilderland](../W/Wilderland.md) trở lên Gladden Fields để đến Rhosgobel và quay trở lại qua đèo cao được gọi là [Cổng Redhorn](Redhorn_Gate.md) đến [Rivendell](Rivendell.md).<sup id="cite_ref-South_1-1" class="reference"><a href="#cite_note-South-1">[1]</a></sup>
+Rhosgobel nằm gần biên giới [Mirkwood](../M/Mirkwood.md)<sup id="cite_ref-Council_2-0" class="reference"><a href="#cite_note-Council-2">[2]</a></sup> gần đầu phía nam của Mirkwood,<sup id="cite_ref-Queer_3-0" class="reference"><a href="#cite_note-Queer-3">[3]</a></sup> có lẽ ở phía tây của nó về phía nam [Gladden Fields](../G/Gladden_Fields.md) và đối diện với [phương Đông Bight](../E/East_Bight.md) của khu rừng,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> vì các trinh sát do [Elrond](../E/Elrond.md) cử đến đã sử dụng đường đèo tại đầu nguồn của [Sông Gladden](../G/Gladden_River.md), đã đi xuống [Wilderland](../W/Wilderland.md) trở lên Gladden Fields để đến Rhosgobel và quay trở lại vượt qua đèo cao được gọi là [Cổng Sừng Đỏ](Redhorn_Gate.md) đến [Rivendell](Rivendell.md).<sup id="cite_ref-South_1-1" class="reference"><a href="#cite_note-South-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Vào một thời điểm nào đó sau khi đến Trung Địa vào khoảng [T.A.](../T/Third_Age.md) [1000](../T/Third_Age_1000.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>, phù thủy Radagast đã định cư tại Rhosgobel.
+Vào một thời điểm nào đó sau khi đến Trung Địa vào khoảng [T.A.](../T/Third_Age.md) [1000](../T/Third_Age_1000.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>, phù thủy Radagast đã đặt nhà ở Rhosgobel.
 
-Theo lời kể của phù thủy [Gandalf](../G/Gandalf.md) Radagast sống tại Rhosgobel<sup id="cite_ref-Queer_3-1" class="reference"><a href="#cite_note-Queer-3">[3]</a></sup> ở [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Theo thuật sĩ [Gandalf](../G/Gandalf.md) Radagast sống tại Rhosgobel<sup id="cite_ref-Queer_3-1" class="reference"><a href="#cite_note-Queer-3">[3]</a></sup> ở [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Sau [Hội đồng Elrond](../C/Council_of_Elrond.md), một số trinh sát từ [Rivendell](Rivendell.md) đã vượt qua [Dãy Núi Sương Mù](../M/Misty_Mountains.md) bằng đường đèo ở đầu nguồn Sông Gladden để đi xuống Wilderland và vượt qua Gladden Fields để đến Rhosgobel, nhưng họ phát hiện ra Radagast không có ở đó.<sup id="cite_ref-South_1-2" class="reference"><a href="#cite_note-South-1">[1]</a></sup>
+Sau [Hội đồng Elrond](../C/Council_of_Elrond.md), một số trinh sát từ [Rivendell](Rivendell.md) đã vượt qua [Dãy Núi Sương Mù](../M/Misty_Mountains.md) bằng đường đèo ở đầu nguồn Sông Gladden để đi xuống Wilderland và vượt qua Gladden Fields để đến Rhosgobel, nhưng họ phát hiện ra rằng Radagast không có ở đó.<sup id="cite_ref-South_1-2" class="reference"><a href="#cite_note-South-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -64,7 +64,7 @@ Sau [Hội đồng Elrond](../C/Council_of_Elrond.md), một số trinh sát t�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một ghi chú rất muộn về tên của Istari Rhosgobel được cho là nằm ở ranh giới khu rừng giữa [Carrock](../C/Carrock.md) và Đường [Khu Rừng Cổ](../O/Old_Forest_Road.md).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+Trong một ghi chú rất muộn về tên của Istari Rhosgobel được cho là nằm ở ranh giới rừng giữa [Carrock](../C/Carrock.md) và Đường [Khu Rừng Cổ](../O/Old_Forest_Road.md).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -91,7 +91,7 @@ Trong một ghi chú rất muộn về tên của Istari Rhosgobel được cho 
 
 <dl><dd>A layout, and a detailed description, is given of Rhosgobel. It is built around a large furry oak tree.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></dd></dl>
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Lord of the Rings: Trò chơi bài</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Lord of the Rings: The Card Game</a></i>:</b>
 
 <dl><dd>Rhosgobel is depicted as a u-shaped wooden house nestled in the woods surrounding a small blue pool of water or pond.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></dd></dl>
 
@@ -103,13 +103,13 @@ Trong một ghi chú rất muộn về tên của Istari Rhosgobel được cho 
 
 <dl><dd>Rhosgobel appears in a single scene, when <a href="Radagast.md" title="Radagast">Radagast</a> takes <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> from <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a> to Rhosgobel after alerting the <a href="../W/White_Council.md" title="White Council">White Council</a> to his presence there.</dd></dl>
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Rhosgobel, located in the <a href="../V/Vales_of_Anduin.md" title="Vales of Anduin">Vales of Anduin</a> region, is a large set of ruins located in the region of &#34;Laerlad&#34;, once occupied by the <a class="mw-redirect" href="../W/Wood-elves.md" title="Wood-elves">Wood-elves</a>, but abandoned long ago. The cottage of <a href="Radagast.md" title="Radagast">Radagast</a> is located inside the ruins, which, after briefly being overrun by the &#34;Ungoladan&#34; tribe in the aftermath of the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a>, was reclaimed by Radagast, who restored it as a refuge and sanctuary for the animals of Middle-earth.</dd></dl>
 
 ## Liên kết ngoài {#External_links}
 
-- <cite class="citation cite-web"><span class="cite-web-author"><a href="../M/Michael_Martinez.md" title="Michael Martinez">Michael Martinez</a></span>. <span class="cite-web-article"><a class="external text" href="https://middle-earth.xenite.org/where-and-what-is-rhosgobel/" rel="noreferrer noopener" target="_blank">"Rhosgobel là gì và ở đâu?"</a></span>. <span class="cite-web-website"><a class="external text" href="https://middle-earth.xenite.org/" rel="noreferrer noopener" target="_blank">Trung Địa Blog</a></span></cite>
+- <cite class="citation cite-web"><span class="cite-web-author"><a href="../M/Michael_Martinez.md" title="Michael Martinez">Michael Martinez</a></span>. <span class="cite-web-article"><a class="external text" href="https://middle-earth.xenite.org/where-and-what-is-rhosgobel/" rel="noreferrer noopener" target="_blank">" Rhosgobel là ở đâu và là gì?"</a></span>. <span class="cite-web-website"><a class="external text" href="https://middle-earth.xenite.org/" rel="noreferrer noopener" target="_blank">Trung Địa Blog</a></span></cite>
 
 ## Ghi chú {#Notes}
 

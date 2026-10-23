@@ -36,71 +36,71 @@ langlinks:
 
 Scull kết hôn với [Wayne G. Hammond](../W/Wayne_G._Hammond.md) vào năm 1994 và sau đó đã hợp tác với ông trong một số dự án.
 
-## Bibliography, selected {#Bibliography,_selected}
+## Thư mục, đã chọn {#Bibliography,_selected}
 
-### Books {#Books}
+### Sách {#Books}
 
-- [1993](../_/1993.md): *[Tolkien Portraiture](../T/Tolkien_Portraiture.md)* (as assistant)
-- [1995](../_/1995.md): *[J.R.R. Tolkien: Artist and Illustrator](../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)* (with Wayne Hammond)
-- [1998](../_/1998.md): *[Roverandom](../R/Roverandom.md)* - (edited with Wayne Hammond)
-- [1999](../_/1999.md): <i><a href="../F/Farmer_Giles_of_Ham.md#50th_Anniversary_Edition" title="Farmer Giles of Ham"><i>Farmer Giles of Ham</i> (50th Anniversary Edition)</a></i> - (edited with Wayne Hammond)
-- [2005](../_/2005.md): *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)* (with Wayne Hammond)
-- [2006](../_/2006.md): *[The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)* (with Wayne Hammond)
-- [2006](../_/2006.md): *[The Lord of the Rings 1954-2004: Scholarship in Honor of Richard E. Blackwelder](../T/The_Lord_of_the_Rings_1954-2004.md)* (edited with Wayne Hammond)
-- [2011](../_/2011.md): *[The Art of The Hobbit](../T/The_Art_of_The_Hobbit.md)* (with Wayne G. Hammond)
-- [2014](../_/2014.md): <a href="../T/The_Adventures_of_Tom_Bombadil.md#Expanded_edition" title="The Adventures of Tom Bombadil"><i>The Adventures of Tom Bombadil and Other Verses from the Red Book</i> (expanded edition)<i></i></a> (with Wayne G. Hammond)
-- [2015](../_/2015.md): *[The Art of The Lord of the Rings by J.R.R. Tolkien](../T/The_Art_of_The_Lord_of_the_Rings.md)* (with Wayne G. Hammond)
-- [2024](../_/2024.md): *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)* (edited with Wayne G. Hammond)
+- [1993](../_/1993.md): *[Tolkien Portraiture](../T/Tolkien_Portraiture.md)* (làm trợ lý)
+- [1995](../_/1995.md): *[J.R.R. Tolkien: Artist and Illustrator](../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)* (với Wayne Hammond)
+- [1998](../_/1998.md): *[Roverandom](../R/Roverandom.md)* - (được chỉnh sửa bằng Wayne Hammond)
+- [1999](../_/1999.md): <i><a href="../F/Farmer_Giles_of_Ham.md#50th_Anniversary_Edition" title="Farmer Giles of Ham"><i>Farmer Giles of Ham</i> (Phiên bản kỷ niệm 50 năm)</a></i> - (được chỉnh sửa bằng Wayne Hammond)
+- [2005](../_/2005.md): *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)* (với Wayne Hammond)
+- [2006](../_/2006.md): *[The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)* (với Wayne Hammond)
+- [2006](../_/2006.md): *[The Lord of the Rings 1954-2004: Scholarship in Honor of Richard E. Blackwelder](../T/The_Lord_of_the_Rings_1954-2004.md)* (được chỉnh sửa bằng Wayne Hammond)
+- [2011](../_/2011.md): *[The Art of The Hobbit](../T/The_Art_of_The_Hobbit.md)* (với Wayne G. Hammond)
+- [2014](../_/2014.md): <a href="../T/The_Adventures_of_Tom_Bombadil.md#Expanded_edition" title="The Adventures of Tom Bombadil"><i>The Adventures of Tom Bombadil và các câu khác từ Sách Đỏ</i> (phiên bản mở rộng)<i></i></a> (với Wayne G. Hammond)
+- [2015](../_/2015.md): *[The Art of The Lord of the Rings by J.R.R. Tolkien](../T/The_Art_of_The_Lord_of_the_Rings.md)* (với Wayne G. Hammond)
+- [2024](../_/2024.md): *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)* (được chỉnh sửa bởi Wayne G. Hammond)
 
-### Articles {#Articles}
+### Bài viết {#Articles}
 
 - [1986](../_/1986.md): [*Amon Hen* 81](../A/Amon_Hen_81.md)
-    - "Art Review" (with [John Ellison](../J/John_Ellison.md))
+    - "Đánh giá nghệ thuật" (với [John Ellison](../J/John_Ellison.md))
 - [1986](../_/1986.md): [*Mallorn* 23](../M/Mallorn_23.md)
-    - "The Fairy Tale Tradition"
+    - "Truyền thống truyện cổ tích"
 - [1988](../_/1988.md): [*Amon Hen* 89](../A/Amon_Hen_89.md)
-    - MythCon Report
+    - Báo cáo MythCon
 - [1988](../_/1988.md): [*Amon Hen* 93](../A/Amon_Hen_93.md)
-    - "Tolkien's Poetry"
+    - "Thơ củaTolkien"
 - [1989](../_/1989.md): [*Amon Hen* 95](../A/Amon_Hen_95.md)
-    - [Middle-earth](../M/Middle-earth.md) on Radio
+    - [Trung Địa](../M/Middle-earth.md) trên Đài phát thanh
 - [1989](../_/1989.md): [*Amon Hen* 98](../A/Amon_Hen_98.md)
-    - The Publishing History of *[Farmer Giles](../F/Farmer_Giles_of_Ham.md)*
+    - Lịch sử xuất bản của *[Farmer Giles](../F/Farmer_Giles_of_Ham.md)*
 - [1990](../_/1990.md): [*Mallorn* 27](../M/Mallorn_27.md)
-    - "On Reading and Re-reading *The Lord of the Rings*"
+    - "Đọc và đọc lại *The Lord of the Rings*"
 - [1991](../_/1991.md): *[Leaves from the Tree](../L/Leaves_from_the_Tree.md)*
-    - "Dragons from Andrew Lang's Retelling of Sigurd to Tolkien's Chrysophylax"
-    - "Tom Bombadil and The Lord of the Rings"
+    - "Rồng từ Câu chuyện kể lại Sigurd của Andrew Lang đến Chrysophylax của Tolkien"
+    - "Tom Bombadil và The Lord of the Rings"
 - [1992](../_/1992.md): *[Tolkien Centenary Conference 1992](../T/Tolkien_Centenary_Conference_1992.md)*
-    - "Chairman's Welcome"
+    - "Chào mừng Chủ tịch"
 - [1993](../_/1993.md): *[Scholarship and Fantasy](../S/Scholarship_and_Fantasy.md)*
-    - "The Influence of Archaeology and History on Tolkien's Middle-earth"
+    - "Ảnh hưởng của Khảo cổ học và Lịch sử đối với Trung Địa của Tolkien"
 - [1993](../_/1993.md): [*Mallorn* 30](../M/Mallorn_30.md)
-    - "*The Hobbit* and Tolkien's Other Pre-war Writings" (with [John Rateliff](../J/John_D._Rateliff.md))
+    - "*The Hobbit* và các bài viết tiền chiến khác của Tolkien" (với [John Rateliff](../J/John_D._Rateliff.md))
 - [1995](../_/1995.md): *[Proceedings of the J.R.R. Tolkien Centenary Conference](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md)*
-    - "Open Minds, Closed Minds in *The Lord of the Rings*"
+    - "Tư duy mở, tư duy khép kín trong *The Lord of the Rings*"
 - [1995](../_/1995.md): *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*
-    - "Index" (with Wayne G. Hammond)
-- [1998](../_/1998.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lembas_Extra_1998&amp;action=edit&amp;redlink=1" title="Lembas Extra 1998 (page does not exist)">Lembas Extra 1998</a></i>
-    - "The Making of *[J.R.R. Tolkien: Artist &amp; Illustrator](../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)*" (with Wayne G. Hammond)
-- [2002](../_/2002.md): [*The Best of Amon Hen* Part 2](../T/The_Best_of_Amon_Hen.md)
-    - "Tolkien's Poetry"
-- [2002](../_/2002.md): *The Bark*, issue 18, Spring 2002, pp. 84–5 (with Wayne G. Hammond)
-    - "Tolkien's Dogs"
-- [2004](../_/2004.md): *The Lord of the Rings*. Text of presentation pack booklet for Tolkien commemorative stamps. Royal Mail.
+    - "Chỉ mục" (với Wayne G. Hammond)
+- [1998](../_/1998.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lembas_Extra_1998&amp;action=edit&amp;redlink=1" title="Lembas Extra 1998 (page does not exist)">Lembas Thêm 1998</a></i>
+    - "Việc tạo ra *[J.R.R. Tolkien: Artist &amp; Illustrator](../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)*" (với Wayne G. Hammond)
+- [2002](../_/2002.md): [*The Best of Amon Hen* Phần 2](../T/The_Best_of_Amon_Hen.md)
+    - "Thơ củaTolkien"
+- [2002](../_/2002.md): *The Bark*, số 18, Mùa xuân năm 2002, trang 84–5 (với Wayne G. Hammond)
+    - "Những chú chó củaTolkien"
+- [2004](../_/2004.md): *The Lord of the Rings*. Nội dung tập sách giới thiệu tem kỷ niệm Tolkien. Thư Hoàng Gia.
 - [2011](../_/2011.md): [*Amon Hen* 231](../A/Amon_Hen_231.md)
-    - "The Great Gate Debate" (with [Wayne G. Hammond](../W/Wayne_G._Hammond.md) and David Doerr)
+    - "The Great Gate Debate" (với [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và David Doerr)
 - [2018](../_/2018.md): *[Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md)*
-    - "Tolkien's Visual Art" (with [Wayne G. Hammond](../W/Wayne_G._Hammond.md))
+    - "Tolkien Nghệ thuật thị giác" (với [Wayne G. Hammond](../W/Wayne_G._Hammond.md))
 - [2022](../_/2022.md): *[The Great Tales Never End](../T/The_Great_Tales_Never_End.md)*
-    - "‘I Wisely Started with a Map’: J.R.R. Tolkien as Cartographer" (with [Wayne G. Hammond](../W/Wayne_G._Hammond.md))
+    - "'Tôi bắt đầu một cách khôn ngoan với bản đồ': J.R.R. Tolkien với tư cách là Người vẽ bản đồ" (với [Wayne G. Hammond](../W/Wayne_G._Hammond.md))
 
-### Reviews {#Reviews}
+### Đánh giá {#Reviews}
 
 - [1993](../_/1993.md): [*Mallorn* 30](../M/Mallorn_30.md)
     - *J.R.R Tolkien: Life and Legend*
-- [1995](../_/1995.md): [*SEVEN: An Anglo-American Literary Review*, Volume 12](../S/SEVEN_12.md)
-    - *The History of Middle Earth* (with Wayne G. Hammond)
+- [1995](../_/1995.md): [*SEVEN: An Anglo-American Literary Review*, Tập 12](../S/SEVEN_12.md)
+    - *The History of Middle Earth* (với Wayne G. Hammond)
 
 ## Giải thưởng {#Awards}
 

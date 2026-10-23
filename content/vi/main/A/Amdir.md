@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amdír"
 ---
 
-Chuyển hướng tới [Amdír](Amdír.md).
+Chuyển hướng đến [Amdír](Amdír.md).

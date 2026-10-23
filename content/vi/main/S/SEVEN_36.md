@@ -41,7 +41,7 @@ infobox:
 
 - "Qua màn ảnh: Hành trình đến những thế giới mới của Dorothy L. Sayers"
     - Bởi: Crystal Downing
-- "Tưởng tượng lâm sàng (đã được sửa đổi): Phụ lục chưa được xuất bản về vấn đề đau đớn"
+- "Tưởng tượng lâm sàng (đã sửa đổi): Phụ lục chưa được xuất bản về vấn đề đau đớn"
     - Bởi: Sarah O'Dell
 - "Nỗi đau và Hành vi trong Thực hành Y khoa": Dự thảo Phụ lục về Vấn đề Đau đớn của Robert E. Havard"
     - Bởi: Robert E. Havard
@@ -51,7 +51,7 @@ infobox:
     - Bởi: Andrew Barron
 - "Được chọn để làm gì? (Vấn đề của người Do Thái theo đạo Cơ đốc)"
     - Bởi: Joy Davidman
-- "Sám hối chủ nghĩa khoa học: Vai trò quan trọng của Dante trong Lilith của George MacDonald"
+- "Sám hối chủ nghĩa khoa học: Chức năng quan trọng của Dante trong Lilith của George MacDonald"
     - Bởi: Michael Wayne Wilhelm
 - "C. S. Lewis Giáo sĩ: Công việc của ông trong Ủy ban Anh giáo sửa đổi Thánh vịnh"
     - Bởi: Joel D. Heck

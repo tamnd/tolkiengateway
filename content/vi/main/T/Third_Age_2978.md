@@ -27,7 +27,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Tính toán ngày cho Théodred và Elfhild {#Calculation_of_the_Dates_for_Théodred_and_Elfhild}
 
-Trong [Appendix A](../A/Appendix_A.md) có ghi rằng [Éomund](../_/Éomund.md), cha của [Éomer](../_/Éomer.md) và [Éowyn](../_/Éowyn.md), đã chết vào năm [T.A.](Third_Age.md) [3002](Third_Age_3002.md). Vợ ông [Théodwyn](Théodwyn.md), em gái yêu quý của Vua Théoden, qua đời ngay sau đó. Nhà vua nhận con của em gái mình vì ông chỉ có một đứa con, Théodred, năm 3002 24 tuổi và do đó sinh năm 2978. Người ta cũng nói rằng vợ của Théoden là Elfhild đã chết khi sinh con.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Appendix A](../A/Appendix_A.md) có ghi rằng [Éomund](../_/Éomund.md), cha của [Éomer](../_/Éomer.md) và [Éowyn](../_/Éowyn.md), chết vào năm [T.A.](Third_Age.md) [3002](Third_Age_3002.md). Vợ ông [Théodwyn](Théodwyn.md), em gái yêu quý của Vua Théoden, qua đời ngay sau đó. Nhà vua nhận con của em gái mình vì ông chỉ có một đứa con, Théodred, năm 3002 24 tuổi và do đó sinh năm 2978. Người ta cũng nói rằng vợ của Théoden là Elfhild đã chết khi sinh con.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

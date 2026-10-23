@@ -18,8 +18,8 @@ sort_keys:
   "People by name": "Rye, John"
 ---
 
-**John Rye** lồng tiếng cho phần [Miệng của Sauron](../M/Mouth_of_Sauron.md) trong [The Lord of the Rings loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) phát sóng trên BBC 4.
+**John Rye** lồng tiếng cho phần [Miệng của Sauron](../M/Mouth_of_Sauron.md) trong [The Lord of the Rings loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) được phát sóng trên BBC 4.
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.imdb.com/name/nm0753228/" rel="noreferrer noopener" target="_blank">John Rye</a> tại IMDb
+- <a class="external text" href="http://www.imdb.com/name/nm0753228/" rel="noreferrer noopener" target="_blank">John Lúa mạch đen</a> tại IMDb

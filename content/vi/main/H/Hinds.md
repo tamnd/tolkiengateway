@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "White deer"
 ---
 
-Chuyển hướng tới [Hươu trắng](../W/White_deer.md).
+Chuyển hướng đến [Hươu trắng](../W/White_deer.md).

@@ -27,7 +27,7 @@ infobox:
 **Akallabeth MUSH** là một <a class="extiw" href="http://en.wikipedia.org/wiki/MUSH" title="wikipedia:MUSH">MUSH</a> được đặt ở [Trung Địa](../M/Middle-earth.md) trong [S.A.](../S/Second_Age.md) 3179.<sup id="cite_ref-Tolkien_Games_1-0" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup><sup id="cite_ref-Review_2-0" class="reference"><a href="#cite_note-Review-2">[2]</a></sup> Có bốn chủng tộc:<sup id="cite_ref-Review_2-1" class="reference"><a href="#cite_note-Review-2">[2]</a></sup>
 
 - [Một Tiên](../H/High_Elves.md) dưới vương quyền của [Gil-galad](../G/Gil-galad.md)
-- [Một người Númenoréan](../N/Númenóreans.md), cả nam lẫn nữ.
+- [Một người Númenoréan](../N/Númenóreans.md), cả nam và nữ.
 - [Một Orc](../O/Orcs.md) từ [Mordor](../M/Mordor.md).
 - [Người dân đồi](../H/Hill-men.md).
 

@@ -11,4 +11,4 @@ redirect_target: "Hendwine"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Chuyển hướng đến [Hendwine](Hendwine.md#Other_versions_of_the_legendarium).
+Chuyển hướng tới [Hendwine](Hendwine.md#Other_versions_of_the_legendarium).

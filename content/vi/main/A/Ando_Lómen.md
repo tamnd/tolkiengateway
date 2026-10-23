@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Door of Night"
 ---
 
-Chuyển hướng tới [Cánh Cửa Đêm](../D/Door_of_Night.md).
+Chuyển hướng đến [Cánh Cửa Đêm](../D/Door_of_Night.md).

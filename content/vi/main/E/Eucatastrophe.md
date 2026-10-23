@@ -51,7 +51,7 @@ Tolkien sẽ trình bày chi tiết hơn về thảm họa bạch đàn trong [m
 
 ## Trong truyền thuyết {#Within_the_legendarium}
 
-Bản thân Tolkien đã nhiều lần sử dụng ẩn dụ bạch đàn trong các bài viết của mình. Cách sử dụng nổi tiếng nhất là việc phá hủy [One Ring](../O/One_Ring.md) cuối cùng trong [Núi Doom](../M/Mount_Doom.md). Frodo không thể phá hủy Chiếc nhẫn bằng sức mạnh của chính mình. Chiếc Nhẫn bị phá hủy bởi sự can thiệp của [Ilúvatar](../I/Ilúvatar.md) sau khi nó được lấy từ Frodo bởi [Gollum](../G/Gollum.md), người mà chính Frodo đã tha trước đó trong câu chuyện. Nếu Gollum không có ở đó, chiếc Nhẫn có thể chỉ bị phá hủy bằng cách Frodo ném mình vào lửa, nếu nó hoàn toàn bị phá hủy.
+Bản thân Tolkien đã nhiều lần sử dụng ẩn dụ bạch đàn trong các bài viết của mình. Cách sử dụng nổi tiếng nhất là sự phá hủy cuối cùng của [Một Nhẫn](../O/One_Ring.md) bên trong [Núi Doom](../M/Mount_Doom.md). Frodo không thể tiêu diệt Nhẫn bằng sức riêng của mình. Nhẫn bị phá hủy bởi sự can thiệp của [Ilúvatar](../I/Ilúvatar.md) sau khi nó được lấy từ Frodo bởi [Gollum](../G/Gollum.md), người mà chính Frodo đã tha trước đó trong câu chuyện. Nếu Gollum không có ở đó, Nhẫn có thể chỉ bị phá hủy bằng cách Frodo ném mình vào lửa, nếu nó đã bị phá hủy.
 
 Một ví dụ nổi tiếng khác về thảm họa bạch đàn là Cuộc chiến phẫn nộ diễn ra thay mặt cho Eldar vào cuối [Kỷ Đệ Nhất](../F/First_Age.md). [Eärendil](Eärendil.md) đã có thể tiếp cận [Valinor](../V/Valinor.md) và thuyết phục [Valar](../V/Valar.md) tham chiến chống lại [Morgoth](../M/Morgoth.md) vì lợi ích của [Tiên tộc](Elves.md) và [Con Người](../M/Men.md). Nếu không có sự can thiệp của Valar, Morgoth sẽ không bao giờ bị đánh bại bởi bất kỳ sức mạnh phàm trần nào.
 

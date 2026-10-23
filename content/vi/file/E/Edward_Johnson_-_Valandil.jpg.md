@@ -27,9 +27,9 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Valandil](<../../main/V/Valandil_(King_of_Arnor).md>). Từ Wesley Frank, *[The Shire](<../../main/T/The_Shire_(book).md>)* ([Vương miện Sắt Doanh nghiệp](../../main/I/Iron_Crown_Enterprises.md) #2017, 1995) .
+[Valandil](<../../main/V/Valandil_(King_of_Arnor).md>). Từ Wesley Frank, *[The Shire](<../../main/T/The_Shire_(book).md>)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2017, 1995) .
 
-Lưu ý rằng, mặc dù hình ảnh không mô tả tên Vua của Arnor nhưng câu chuyện về năm tháng đi kèm kể rằng nhân vật gốc *Elindiel* đã thề trung thành với Các vị vua Arnor trong [T.A.](../../main/T/Third_Age.md) [10](../../main/T/Third_Age_10.md), vào thời kỳ trị vì của Valandil.
+Lưu ý rằng, mặc dù hình ảnh không mô tả tên Vua của Arnor nhưng câu chuyện về năm tháng đi kèm kể rằng nhân vật gốc *Elindiel* đã thề trung thành với các vị Vua Arnor trong [T.A.](../../main/T/Third_Age.md) [10](../../main/T/Third_Age_10.md), vào thời kỳ trị vì của Valandil.
 
 ## Giấy phép {#Licensing}
 

@@ -28,14 +28,14 @@ Vào [14 tháng 12](../_/14_December.md) [1970](../_/1970.md), [J.R.R. Tolkien](
 Bức thư bao gồm các tài liệu tham khảo đến:<sup id="cite_ref-TL_1-1" class="reference"><a href="#cite_note-TL-1">[1]</a></sup>
 
 - Cái chết của vợ của [Hilary Tolkien](../H/Hilary_Tolkien.md) là Magdalen vào ngày 5 tháng 4
-- Lễ cầu siêu và chôn cất cô được thực hiện bởi [Edith](../E/Edith_Tolkien.md) và con trai của Ronald [John](../J/John_Tolkien.md)
+- Lễ cầu siêu và chôn cất bà được thực hiện bởi [Edith](../E/Edith_Tolkien.md) và con trai của Ronald [John](../J/John_Tolkien.md)
 Gabriel, con trai của - Hilary, vợ và các con chuyển từ Wesham đến sống cùng anh
 - Cú ngã vào tháng 3 của Edith và những chấn thương sau đó
 - Đang chờ chuyến thăm của con trai John và con gái [Priscilla](../P/Priscilla_Tolkien.md)
 - "Con dâu người Canada" [Baillie](../B/Baillie_Tolkien.md) ở Winnipeg
-- "Tai nạn" [1968](../_/1968.md) của Ronald và việc họ chuyển đến Poole
+"Tai nạn" [1968](../_/1968.md) của - Ronald và việc họ chuyển đến Poole
 - Những “rắc rối” của Canada năm 1970
-- Mong muốn đến thăm [Canada](../../category/C/Canada.md) và [Nam Phi](../../category/S/South_Africa.md) của Ronald
+- Ronald mong muốn được đến thăm [Canada](../../category/C/Canada.md) và [Nam Phi](../../category/S/South_Africa.md)
 - Chuyến thăm mùa hè vui vẻ của "[Ding](../D/Dorothy_Wood.md)" — "một người tuyệt vời"
 
 <span></span>

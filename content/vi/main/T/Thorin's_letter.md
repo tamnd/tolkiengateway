@@ -27,7 +27,7 @@ images:
 
 ## Lịch sử {#History}
 
-[Thorin](Thorin.md) [Oakenshield](../O/Oakenshield.md) đã viết tin nhắn sau bữa tiệc bất ngờ ở [T.A.](Third_Age.md) [2941](Third_Age_2941.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và để nó trên bệ lò sưởi của Bilbo ngay dưới đồng hồ. Sáng hôm sau, chưa lau bụi bệ lò sưởi, Bilbo không thấy lá thư cho đến khi [Gandalf](../G/Gandalf.md) bước vào và chỉ ra.
+[Thorin](Thorin.md) [Oakenshield](../O/Oakenshield.md) đã viết tin nhắn sau bữa tiệc bất ngờ ở [T.A.](Third_Age.md) [2941](Third_Age_2941.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và để nó trên bệ lò sưởi Bilbo ngay dưới đồng hồ. Sáng hôm sau, chưa lau bụi bệ lò sưởi, Bilbo không thấy lá thư cho đến khi [Gandalf](../G/Gandalf.md) bước vào và chỉ ra.
 
 Bức thư bắt đầu bằng lời chào gửi tới "Kẻ trộm Bilbo" và cảm ơn vì lòng hiếu khách cũng như lời đề nghị giúp đỡ của anh ta. Sau đó, một danh sách ngắn các điều khoản hợp đồng đã được đưa ra, hứa hẹn Bilbo một phần mười bốn lợi nhuận (nếu có), bao gồm chi phí đi lại và tang lễ. Sau đó, lá thư giải thích rằng [những người lùn](Thorin_and_Company.md) đã đi trước để chuẩn bị và Bilbo dự kiến ​​sẽ có mặt tại Green Rồng Inn ở [Bywater](../B/Bywater.md) lúc 11 giờ. Câu cuối cùng nhấn mạnh Thorin mong anh đến đúng giờ.
 
@@ -37,7 +37,7 @@ Cuối cùng Bilbo mang ra lá thư của Thorin ở trại của [Vua Tiên](Th
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bản thảo lá thư của *[The Hobbit](The_Hobbit.md)* Thorin, được [John D. Rateliff](../J/John_D._Rateliff.md)gọi là "hợp đồng củaBilbo", giống với bản đã xuất bản, ngoại trừ điểm hẹn là [Great Mill](../O/Old_Mill.md). Tuy nhiên, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cũng đã tạo ra một phiên bản viết tay của bức thư bằng [tengwar](Tengwar.md), được đề cập trong [bức thư gửi *The Observer*](../L/Letter_25.md) của anh ấy vào tháng 2 [1938](../_/1938.md), được chứng minh là quá khó để sao chép để xuất bản. Cuối cùng nó đã được đưa vào, cùng với bản ghi của [Taum Santoski](Taum_Santoski.md), trong *[The History of The Hobbit](The_History_of_The_Hobbit.md)* của Rateliff làm bìa cho Phần thứ hai: *Return to Bag-End*. Văn bản Tengwar có tính chất bán ngữ âm.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong bản thảo lá thư của *[The Hobbit](The_Hobbit.md)* Thorin, đượcBilbo gọi là "hợp đồng" [John D. Rateliff](../J/John_D._Rateliff.md), giống với bản đã xuất bản, ngoại trừ điểm hẹn là [Great Mill](../O/Old_Mill.md). Tuy nhiên, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cũng đã tạo ra một phiên bản viết tay của bức thư bằng [tengwar](Tengwar.md), được đề cập trong [bức thư gửi *The Observer*](../L/Letter_25.md) của anh ấy vào tháng 2 [1938](../_/1938.md), được chứng minh là quá khó để sao chép để xuất bản. Cuối cùng nó đã được đưa vào, cùng với bản ghi của [Taum Santoski](Taum_Santoski.md), trong *[The History of The Hobbit](The_History_of_The_Hobbit.md)* của Rateliff làm bìa cho Phần thứ hai: *Return to Bag-End*. Văn bản Tengwar có tính chất bán ngữ âm.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

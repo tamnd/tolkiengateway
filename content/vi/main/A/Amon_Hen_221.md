@@ -59,7 +59,7 @@ infobox:
 - Quảng cáo: [Parma Eldalamberon 18](../P/Parma_Eldalamberon_18.md)
 - Quảng cáo: Đại hội Modena
 - Quảng cáo: Tolkien Chuyện 2010
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Rath Dínen: "Con bò Yak" & Dorine Ratulangie
 Câu hỏi hóc búa của - [Celeborn](../C/Celeborn.md)

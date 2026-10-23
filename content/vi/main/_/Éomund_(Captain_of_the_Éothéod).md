@@ -37,7 +37,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../R/Rohirrim.md" title="Rohirrim">Rohir</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Éomund</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data">Chief Captain of the Host of Éothéod</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../R/Rohanese.md" title="Rohanese">Rohanese</a> and <a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">before <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2510.md" title="Third Age 2510">2510</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Éomund** là đội trưởng cấp cao của [Éothéod](Éothéod.md).
+**Éomund** là thuyền trưởng cấp cao của [Éothéod](Éothéod.md).
 
 ## Lịch sử {#History}
 

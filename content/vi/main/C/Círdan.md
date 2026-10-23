@@ -117,11 +117,11 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a class="mw-redirect" href="../T/The_Grey_Havens.md" title="The Grey Havens">The Grey Havens</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Círdan** was one of the highest and most noble of the [Sindar](../S/Sindar.md),<sup id="cite_ref-Cirdan_8-1" class="reference"><a href="#cite_note-Cirdan-8">[7]</a></sup> lord of the [Falas](../F/Falas.md) during the [First Age](../F/First_Age.md), and Master of the [Grey Havens](../G/Grey_Havens.md) through the [Second](../S/Second_Age.md), [Third](../T/Third_Age.md), and [Fourth Age](../F/Fourth_Age.md).
+**Círdan** là một trong những vị cao nhất và cao quý nhất của [Sindar](../S/Sindar.md),<sup id="cite_ref-Cirdan_8-1" class="reference"><a href="#cite_note-Cirdan-8">[7]</a></sup> chúa tể của [Falas](../F/Falas.md) trong thời [Kỷ Đệ Nhất](../F/First_Age.md), và là Chủ nhân của [Cảng Xám](../G/Grey_Havens.md) cho đến [Nhì](../S/Second_Age.md), [Ba](../T/Third_Age.md) và [Kỷ Đệ Tứ](../F/Fourth_Age.md).
 
-He was one of the wisest and most foresighted of the [Elves](../E/Elves.md), and by the [Second Age](../S/Second_Age.md), one of the oldest named [Elves](../E/Elves.md) in [Middle-earth](../M/Middle-earth.md) to remain so throughout that age and into the [Fourth Age](../F/Fourth_Age.md) as well.
+Ông là một trong những người khôn ngoan nhất và có tầm nhìn xa nhất trong [Tiên tộc](../E/Elves.md), và cho đến [Thời đại thứ hai](../S/Second_Age.md), ông là một trong những người lớn tuổi nhất có tên [Tiên tộc](../E/Elves.md) ở [Trung Địa](../M/Middle-earth.md) vẫn giữ nguyên như vậy trong suốt thời đại đó cũng như cho đến [Kỷ Đệ Tứ](../F/Fourth_Age.md).
 
-He was also gifted [Narya](../N/Narya.md), one of the [Three Rings](../T/Three_Rings.md), by [Celebrimbor](Celebrimbor.md) until he surrendered it to [Gandalf](../G/Gandalf.md). As the Lord of the Havens, he oversaw the departure of the Elves of Middle-earth to the West and eventually sought the [Last Ship](../L/Last_Ship.md) with his kinsman [Celeborn](Celeborn.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+Anh ấy cũng được [Celebrimbor](Celebrimbor.md) tặng [Narya](../N/Narya.md), một trong những [Ba Chiếc Nhẫn](../T/Three_Rings.md)cho đến khi anh ấy giao nó cho [Gandalf](../G/Gandalf.md). Với tư cách là Lãnh chúa của Bến cảng, ông đã giám sát sự ra đi của Tiên tộc của Trung Địa đến Phương Tây và cuối cùng đã tìm kiếm [Con Tàu Cuối Cùng](../L/Last_Ship.md) cùng với người bà con [Celeborn](Celeborn.md)của mình.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 ## Lịch sử {#History}
 
@@ -354,7 +354,7 @@ Không có nơi nào khác trong toàn bộ truyền thuyết sử từng xem C�
 
 <dl><dd>Círdan briefly appears as Frodo and Bilbo make their trip to the lands of the West.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Círdan  appears in several flashbacks depicting the <a href="../W/War_of_the_Last_Alliance.md" title="War of the Last Alliance">War of the Last Alliance</a>.</dd></dl>
 

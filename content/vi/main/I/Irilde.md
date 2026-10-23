@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Írildë"
 ---
 
-Chuyển hướng tới [Írildë](../_/Írildë.md).
+Chuyển hướng đến [Írildë](../_/Írildë.md).

@@ -72,12 +72,12 @@ infobox:
 - *Nhiều lần và nhiều nơi: C.S. Lewis và Giá trị của Lịch sử* của K. Alan Snyder và Jamin Metcalf. Được đánh giá bởi Landon Loftin.
 - *Thiếu tá và nhà truyền giáo: Những lá thư của Warren Hamilton Lewis và Blanche Biggs*, do Diana Pavlac Glyer biên tập. Được đánh giá bởi Bruce R. Johnson.
 - *The Phantomwise Tarot and Guidebook* của Erin Morgenstern. Được đánh giá bởi Emily E. Auger.
-- *Sự thương hại, quyền lực và chiếc nhẫn Tolkien: Thống trị số phận của nhiều người* của Thomas P. Hillman. Được đánh giá bởi Giovanni Carmine Costabile.
-- *Khoa học, Công nghệ và Phép thuật trong The Witcher: Câu chuyện thời Trung cổ xoay quanh Quái vật Hiện đại* của Kristine Larsen. Được đánh giá bởi Amber Lehning.
+- *Sự thương hại, quyền lực và Tolkien của Nhẫn: Thống trị số phận của nhiều người* của Thomas P. Hillman. Được đánh giá bởi Giovanni Carmine Costabile.
+- *Khoa học, Công nghệ và Phép thuật trong The Witcher: Câu chuyện thời Trung cổ về Quái vật Hiện đại* của Kristine Larsen. Được đánh giá bởi Amber Lehning.
 - *Representing Middle-Earth: Tolkien, Form, and Ideology* của Robert T. Tally, Jr. Được đánh giá bởi Norbert Schürer.
 - *Tolkien's Faith: A Spiritual Biography* của Holly Ordway và *C.S. Lewis: Spirituality for Mere Christians* của William Griffin. Được đánh giá bởi Martina Juričková.
 - *Barfield nghĩ gì: Giới thiệu về tác phẩm của Owen Barfield* của Landon Loftin và Max Leyf. Được đánh giá bởi Katherine Sas.
-- *Sách hướng dẫn về Quái vật: Triết học, Tôn giáo và Hiện tượng huyền bí* của Ryan J. Stark. Được đánh giá bởi Mark A. Brians II.
+- *Sách hướng dẫn về Quái vật: Triết học, Tôn giáo và Điều huyền bí* của Ryan J. Stark. Được đánh giá bởi Mark A. Brians II.
 - *Thần thoại phương Tây (Mặt nạ của Chúa, Tập 3)* của Joseph Campbell. Được đánh giá bởi Phillip Fitzsimmons.
 - *Đọc Tolkien bằng tiếng Trung: Tôn giáo, Ảo tưởng và Dịch thuật* của Eric Reinders. Được đánh giá bởi Cait Coker.
 - Lưu ý ngắn gọn: *Ràng buộc tất cả: Quan điểm liên ngành về J.R.R. Tolkien và các tác phẩm của ông*, do Monika Kirner-Ludwig et al. Được đánh giá bởi Troels Forchhammer.

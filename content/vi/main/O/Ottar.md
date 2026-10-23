@@ -47,9 +47,9 @@ Ottar là [Người hồ](../L/Lake-men.md) của [Thị trấn Hồ](../L/Lake-
 
 Khi [Gandalf the Grey](../G/Gandalf.md) bịt miệng [Boromir](../B/Boromir.md) bằng cách đọc [Bài phát biểu của người da đen](../B/Black_speech~14903.md), Ottar xem Pháp sư, rõ ràng là rất lo lắng.
 
-Hội đồng nổ ra khi các thành viên bất đồng về việc phải làm gì với [Chiếc Nhẫn Chúa](../T/The_One_Ring.md). Ottar tỏ ra tương đối bình tĩnh và cố gắng hòa giải giữa Erestor và một Người đàn ông khác.
+Hội đồng nổ ra khi các thành viên của nó bất đồng về việc phải làm gì với [the One Nhẫn](../T/The_One_Ring.md). Ottar tỏ ra tương đối bình tĩnh và cố gắng hòa giải giữa Erestor và một Người đàn ông khác.
 
-Tiếng la hét giận dữ của Hội đồng tiếp tục diễn ra cho đến khi [Frodo Baggins](../F/Frodo_Baggins.md), [Shire-hobbit](../S/Shire-hobbits.md), người đã mang Chiếc nhẫn đến Rivendell, tình nguyện mang Chiếc nhẫn đến Mordor và phá hủy nó. Ottar quan sát tám người khác đề nghị tham gia Frodo trong nhiệm vụ của anh ấy. Anh ngồi xuống và nhìn Chúa Elrond lồng tiếng Frodo và tám người bạn đồng hành của mình "[The Fellowship of the Ring](../F/Fellowship_of_the_Ring.md)".
+Tiếng la hét giận dữ của Hội đồng tiếp tục diễn ra cho đến khi [Frodo Baggins](../F/Frodo_Baggins.md), [Shire-hobbit](../S/Shire-hobbits.md), người đã mang Nhẫn đến Rivendell, tình nguyện mang Nhẫn đến Mordor và tiêu diệt nó. Ottar quan sát tám người khác đề nghị tham gia Frodo trong nhiệm vụ của anh ấy. Anh ngồi xuống và nhìn Chúa Elrond lồng tiếng Frodo và tám người bạn đồng hành của mình "[The Fellowship of the Ring](../F/Fellowship_of_the_Ring.md)".
 
 <span></span>
 

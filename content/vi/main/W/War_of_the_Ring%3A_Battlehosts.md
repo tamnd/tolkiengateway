@@ -36,7 +36,7 @@ infobox:
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Cuộc chiến Nhẫn đã nhấn chìm vùng đất trong bóng tối. Đội quân Con Người, Tiên tộc và Người Lùn đụng độ với vô số quân đoàn Sauron. Đi đầu trong những đội quân này là những anh hùng và chiến binh nổi tiếng đã tập hợp lại để chống lại Chúa tể Bóng tối hoặc tiêu diệt nhân danh hắn. Chính nhờ hành động của những chiến binh này mà Cuộc chiến trên chiếc nhẫn và số phận của Trung Địa sẽ được quyết định.
+The War of the Ring đã nhấn chìm vùng đất trong bóng tối. Đội quân Con Người, Tiên tộc và Người Lùn đụng độ với vô số quân đoàn Sauron. Đi đầu trong những đội quân này là những anh hùng và chiến binh nổi tiếng đã tập hợp lại để chống lại Chúa tể Bóng tối hoặc tiêu diệt nhân danh hắn. Chính nhờ hành động của những chiến binh này mà Cuộc chiến của Nhẫn và số phận của Trung Địa sẽ được quyết định.
 
 Cuốn sách mở rộng dài 80 trang này chứa tất cả các quy tắc, thông tin và nguồn cảm hứng mà bạn cần để mang những nhóm chiến binh mang tính biểu tượng nhất từ ​​thần thoại *The Lord of the Rings* lên bàn của bạn. Ngoài ra còn có Vận may và Số phận mới, cũng như lời khuyên về cách sử dụng chiến cơ của bạn trong các tình huống khác, trò chơi được liên kết và các cuộc chạm trán nổi tiếng.
 

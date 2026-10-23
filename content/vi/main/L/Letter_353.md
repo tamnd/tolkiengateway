@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien cảm ơn trước <a class="extiw" href="http://en.wikipedia.org/wiki/John_Giffard,_3rd_Earl_of_Halsbury" title="wikipedia:John Giffard, 3rd Earl of Halsbury">Lãnh chúa Halsbury</a> về rượu whisky mà Halsbury gửi đến, đồng thời nhớ lại lần Halsbury đến thăm, vào [ngày 26 tháng 7](../_/26_July.md). Đoạn này kết thúc bằng một tuyên bố về [Galadriel](../G/Galadriel.md). Cô ấy "không tì vết", không nằm trong [việc làm](../O/Oath_of_Fëanor.md) của [Fëanor](../F/Fëanor.md). Cô khao khát được ở lại [Trung Địa](../M/Middle-earth.md)và không may là lúc ra đi, [Manwë](../M/Manwë.md) đã nói [lệnh cấm di cư](../D/Doom_of_Mandos.md).
+Tolkien cảm ơn trước <a class="extiw" href="http://en.wikipedia.org/wiki/John_Giffard,_3rd_Earl_of_Halsbury" title="wikipedia:John Giffard, 3rd Earl of Halsbury">Lãnh chúa Halsbury</a> về rượu whisky mà Halsbury gửi đến, đồng thời nhớ lại lần Halsbury đến thăm, vào [ngày 26 tháng 7](../_/26_July.md). Đoạn này kết thúc bằng một tuyên bố về [Galadriel](../G/Galadriel.md). Cô ấy "không tì vết", không nằm trong [việc làm](../O/Oath_of_Fëanor.md) của [Fëanor](../F/Fëanor.md). Cô khao khát được ở lại [Trung Địa](../M/Middle-earth.md)và không may là lúc ra đi, [Manwë](../M/Manwë.md) đã nói ra [lệnh cấm di cư](../D/Doom_of_Mandos.md).
 
 ## Ghi chú {#Notes}
 

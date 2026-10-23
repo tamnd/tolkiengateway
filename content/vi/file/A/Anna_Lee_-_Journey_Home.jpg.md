@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*Journey Home* của [Anna Lee](../../main/A/Anna_Lee.md).
+*Journey Home* bởi [Anna Lee](../../main/A/Anna_Lee.md).
 
 ## Giấy phép {#Licensing}
 

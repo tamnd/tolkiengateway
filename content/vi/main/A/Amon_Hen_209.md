@@ -63,7 +63,7 @@ Bài viết "Một số mối liên hệ gia đình với J.R.R. Tolkien" của 
 - Thông báo ĐHĐCĐ
 - Một số kết nối gia đình với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
     - Bởi: B.S. Benedikz
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- Cái [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Có rất nhiều suy đoán
     - Bởi: *[Beruthiel](../B/Berúthiel.md)'s Pet*

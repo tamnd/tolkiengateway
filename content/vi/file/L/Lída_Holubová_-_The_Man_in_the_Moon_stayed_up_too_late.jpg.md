@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Người đàn ông trong Mặt Trăng thức quá khuya](../../main/T/The_Man_in_the_Moon_Stayed_Up_Too_Late.md)" của [Lída Holubová](../../main/L/Lída_Holubová.md)
+"[ Người đàn ông trong Mặt Trăng thức quá khuya](../../main/T/The_Man_in_the_Moon_Stayed_Up_Too_Late.md)" của [Lída Holubová](../../main/L/Lída_Holubová.md)
 
 ## Giấy phép {#Licensing}
 

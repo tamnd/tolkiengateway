@@ -31,7 +31,7 @@ infobox:
 **Mythcon 49** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 49.
 
 - **Chủ đề:** "Trên vai những người khổng lồ"
-- **Khách mời danh dự:** Robin Anne Reid Ph.D. (Giáo sư Văn học và Ngôn ngữ) và [Donato Giancola](../D/Donato_Giancola.md) (nghệ sĩ)
+- **Khách mời danh dự:** Robin Anne Reid Ph.D. (Giáo sư Văn học và Ngôn ngữ), và [Donato Giancola](../D/Donato_Giancola.md) (nghệ sĩ)
 
 ## Liên kết ngoài {#External_links}
 

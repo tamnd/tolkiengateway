@@ -69,7 +69,7 @@ Argonui qua đời vào năm [2912](../T/Third_Age_2912.md),<sup id="cite_ref-Ar
 
 ## Từ nguyên {#Etymology}
 
-Tên *Argonui* có trong [Sindarin](../S/Sindarin.md), có thể có nghĩa là "Sự dũng cảm của Hoàng gia" theo *[Tolkiendil](<../T/Tolkiendil_(Tolkien_society).md>)*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Tên *Argonui* nằm trong [Sindarin](../S/Sindarin.md), có thể có nghĩa là "Sự dũng cảm của Hoàng gia" theo *[Tolkiendil](<../T/Tolkiendil_(Tolkien_society).md>)*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 Thành phần đầu tiên của tên là *[ar(a)](Ara.md)*- ("cao quý, hoàng gia, cao quý"); tuy nhiên, yếu tố thứ hai không rõ ràng, mặc dù nó có thể bao gồm danh từ *[caun](../C/Caun.md)* ("prince, Chief, head") + hậu tố tính từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-ui&amp;action=edit&amp;redlink=1" title="-ui (page does not exist)">-ui</a></i>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 

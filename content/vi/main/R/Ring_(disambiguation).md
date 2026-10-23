@@ -20,43 +20,43 @@ images:
 
 ### Trang sức {#Jewellery}
 
-- **[Một chiếc nhẫn](../O/One_Ring.md)**, được rèn bởi [Sauron](../S/Sauron.md).
-    - Dấu hiệu [Chữ trên chiếc nhẫn](Ring-inscription.md), dòng chữ [Tengwar](../T/Tengwar.md) xung quanh Chiếc nhẫn.
-    - [Chúa tể của những chiếc nhẫn](../L/Lord_of_the_Ring.md), danh hiệu Sauron.
-    - Cuộc [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), một cuộc chiến tranh lớn dẫn đến sự phá hủy của Nhẫn Chúa và Sauron.
-    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md), chín thành viên được giao nhiệm vụ phá hủy Chiếc Nhẫn Chúa.
-    - Người [Người tìm nhẫn](Ring-finder.md) và [Người mang nhẫn](Ring-bearers.md).
+- **[Một chiếc Nhẫn](../O/One_Ring.md)**, được rèn bởi [Sauron](../S/Sauron.md).
+    - Dòng [Nhẫn dòng chữ](Ring-inscription.md), dòng chữ [Tengwar](../T/Tengwar.md) xung quanh Đấng Nhẫn.
+    - [Chúa tể của Nhẫn](../L/Lord_of_the_Ring.md), danh hiệu Sauron.
+    - Cuộc [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), một cuộc chiến tranh vĩ đại dẫn đến sự hủy diệt của Cái Một Nhẫn và Sauron.
+    - The [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md), chín thành viên được giao nhiệm vụ tiêu diệt Kẻ Nhẫn.
+    - Người [Nhẫn người tìm kiếm](Ring-finder.md) và [Người mang nhẫn](Ring-bearers.md).
 - Chiếc **[Những Chiếc Nhẫn Quyền Năng](Rings_of_Power.md)**, được rèn bởi [Celebrimbor](../C/Celebrimbor.md).
-    - [Ba](../T/Three_Rings.md) cho [Tiên tộc](../E/Elves.md):
-        - [Narya](../N/Narya.md), Chiếc Nhẫn Lửa, được đeo bởi [Gil-galad](../G/Gil-galad.md), [Círdan](../C/Círdan.md) và cuối cùng là [Gandalf](../G/Gandalf.md).
-        - [Nenya](../N/Nenya.md), Chiếc Nhẫn Nước, được [Galadriel](../G/Galadriel.md)đeo.
-        - [Vilya](../V/Vilya.md), Chiếc Nhẫn Không Khí, được đeo bởi [Gil-galad](../G/Gil-galad.md) và [Elrond](../E/Elrond.md).
+    - [Bộ ba](../T/Three_Rings.md) dành cho [Tiên tộc](../E/Elves.md):
+        - [Narya](../N/Narya.md), Nhẫn của Lửa, được đeo bởi [Gil-galad](../G/Gil-galad.md), [Círdan](../C/Círdan.md) và cuối cùng là [Gandalf](../G/Gandalf.md).
+        - [Nenya](../N/Nenya.md), Nhẫn của Nước, được đeo bởi [Galadriel](../G/Galadriel.md).
+        - [Vilya](../V/Vilya.md), Nhẫn của Air, được đeo bởi [Gil-galad](../G/Gil-galad.md) và [Elrond](../E/Elrond.md).
     - [The Nine](../N/Nine_Rings.md) dành cho [Con Người](../M/Men.md), được trao cho thứ sẽ trở thành [Nazgûl](../N/Nazgûl.md).
     - [Bảy](../S/Seven_Rings.md) cho [Người Lùn](../D/Dwarves.md), trong đó chỉ có một được biết:
-        - [Vòng Thrór](Ring_of_Thrór.md).
+        - [Nhẫn trong số Thrór](Ring_of_Thrór.md).
 
 - Các **[các vòng nhỏ hơn](../L/Lesser_rings.md)**, được rèn bởi [Tiên tộc](../E/Elves.md).
-- Chiếc nhẫn của Saruman, một chiếc nhẫn nhỏ hơn được rèn bởi [Saruman](../S/Saruman.md) trong nỗ lực tạo ra một chiếc nhẫn sức mạnh.
-- Chiếc nhẫn [của Barahir](Ring_of_Barahir.md), vật gia truyền của [Dúnedain](../D/Dúnedain.md).
+- Nhẫn của Saruman, một chiếc nhẫn nhỏ hơn được rèn bởi [Saruman](../S/Saruman.md) trong nỗ lực tạo ra một chiếc nhẫn sức mạnh.
+- Chiếc [Nhẫn của Barahir](Ring_of_Barahir.md), vật gia truyền của [Dúnedain](../D/Dúnedain.md).
 
 ### Địa điểm {#Locations}
 
 - [Máhanaxar](../M/Máhanaxar.md), *Ring of Doom* nơi [Valar](../V/Valar.md) gặp nhau.
-- Vòng [Vòng Isengard](Ring_of_Isengard.md), các bức tường xung quanh [Orthanc](../O/Orthanc.md).
+- Các [Nhẫn của Isengard](Ring_of_Isengard.md), các bức tường xung quanh [Orthanc](../O/Orthanc.md).
 
 ## [Thế giới thực](../../category/R/Real-world.md) {#Real-world}
 
 ### Sách {#Books}
 
 - *[Morgoth's Ring](../M/Morgoth's_Ring.md)*, cuốn thứ mười trong bộ *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)*.
-Chiếc nhẫn của     - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Morgoth%27s_Ring_(concept)&amp;action=edit&amp;redlink=1" title="Morgoth&#39;s Ring (concept) (page does not exist)">Morgoth(khái niệm)</a>.
+    - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Morgoth%27s_Ring_(concept)&amp;action=edit&amp;redlink=1" title="Morgoth&#39;s Ring (concept) (page does not exist)">Morgoth Nhẫn (khái niệm)</a>.
 - *[The Ring goes South](../T/The_Ring_goes_South~59655.md)*, chương thứ mười lăm của [The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md).
 - *[The Ring of Words](../T/The_Ring_of_Words.md)*, cuốn sách về thời [Tolkien](../J/J.R.R._Tolkien.md)tại [Oxford Từ điển tiếng Anh](../O/Oxford_English_Dictionary.md).
 - *[Tolkien's Ring](../T/Tolkien's_Ring.md)*, sách của [David Day](../D/David_Day.md).
 
 ### Âm nhạc {#Music}
 
-- *[The Ring Goes South (soundtrack)](<../T/The_Ring_Goes_South_(soundtrack).md>)*, ca khúc thứ 11 trên [Howard Shore](../H/Howard_Shore.md) của *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)*
+- *[The Ring Goes South (soundtrack)](<../T/The_Ring_Goes_South_(soundtrack).md>)*, bài hát thứ 11 trên *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md)
 - *[Der Ring des Nibelungen](../D/Der_Ring_des_Nibelungen.md)*, vở nhạc kịch do [Richard Wagner](Richard_Wagner.md) sáng tác (còn được gọi là *Ring Cycle*), thường được so sánh với *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*
 
 ## Xem thêm {#See_also}

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ilinsor"
 ---
 
-Chuyển hướng đến [Ilinsor](../I/Ilinsor.md).
+Chuyển hướng tới [Ilinsor](../I/Ilinsor.md).

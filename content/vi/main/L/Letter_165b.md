@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong thư này gửi cho nhà xuất bản của Tolkien, [Allen &amp; Unwin](../A/Allen_&_Unwin.md), anh ấy thảo luận về những vấn đề phức tạp mà anh ấy gặp phải khi kiểm tra các phần còn lại của [Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md) cho *[The Return of the King](../T/The_Return_of_the_King.md)*, cụ thể là bảng [Angerthas](../A/Angerthas.md) trong [Phụ lục E](../A/Appendix_E.md). Anh thừa nhận rằng quá trình này đã trở nên rối loạn, một phần do bản thân còn thiếu kinh nghiệm. Tolkien gợi ý rằng lẽ ra anh ta có thể tiết kiệm được thời gian và tiền bạc nếu anh ta có thể gặp nhóm sản xuất trước khi tài liệu được gửi đến nhà in.
+Trong bức thư này gửi cho nhà xuất bản của Tolkien, [Allen &amp; Unwin](../A/Allen_&_Unwin.md), anh ấy thảo luận về những vấn đề phức tạp mà anh ấy gặp phải khi kiểm tra các phần còn lại của [Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md) cho *[The Return of the King](../T/The_Return_of_the_King.md)*, cụ thể là bảng [Angerthas](../A/Angerthas.md) trong [Phụ lục E](../A/Appendix_E.md). Anh thừa nhận rằng quá trình này đã trở nên rối loạn, một phần do bản thân còn thiếu kinh nghiệm. Tolkien gợi ý rằng lẽ ra anh ta có thể tiết kiệm được thời gian và tiền bạc nếu anh ta có thể gặp nhóm sản xuất trước khi tài liệu được gửi đến nhà in.
 
 Tolkien giải thích rằng một trang cụ thể được dùng làm chìa khóa cho các chữ rune trang trí mà không làm gián đoạn hình thức của các Angerthas được vẽ cẩn thận hơn. Những ký hiệu mà ông chọn không hoàn toàn theo ngữ âm mà nằm trong phạm vi của một 'phông chữ không chuyên dụng'. Trang anh ấy gửi chỉ nhằm mục đích hướng dẫn in ấn chứ không phải là bản in cuối cùng và điều này dẫn đến vẻ ngoài lôi thôi và kém hấp dẫn.
 

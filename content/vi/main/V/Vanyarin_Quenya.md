@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vanyarin"
 ---
 
-Chuyển hướng tới [Vanyarin](Vanyarin.md).
+Chuyển hướng đến [Vanyarin](Vanyarin.md).

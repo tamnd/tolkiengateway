@@ -38,7 +38,7 @@ Tolkien kể cho [Michael](<../M/Michael_Tolkien_(b._1920).md>) về gia đình 
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Câu mở đầu cho thấy [Edith](../E/Edith_Tolkien.md) lần đầu tiên được giới thiệu với gia đình Incledon của gia đình Tolkien, ở Worcestershire.
+Câu mở đầu cho thấy [Edith](../E/Edith_Tolkien.md) lần đầu tiên được giới thiệu với gia đình Incledon của Tolkien, ở Worcestershire.
 
 ## Ghi chú {#Notes}
 

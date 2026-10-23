@@ -74,7 +74,7 @@ infobox:
 - Thông báo: Sự kiện lớn tiếp theo
 - Báo cáo: Nippon 2007 \[WorldCon\]
     - Bởi: Pat Reynolds
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- Cái [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Tác phẩm nghệ thuật: *[Frodo](../F/Frodo_Baggins.md) and [Sam](../S/Samwise_Gamgee.md) meeting [Elves](../E/Elves.md)... 2*
     - Bởi: Katrin Kunde
@@ -97,7 +97,7 @@ infobox:
 - Thành viên mới
 - Hồ sơ thành viên
     - Ngày tháng Tư
-- Truyện dân gian
+- Truyện dân ca
 - Ủy ban
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 207</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_207.md" title="Amon Hen 207">Amon Hen 207</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 208</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 209</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_209.md" title="Amon Hen 209">Amon Hen 209</a></div></div></div>

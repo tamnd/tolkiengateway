@@ -85,7 +85,7 @@ Nhưng khi Valar nghỉ ngơi sau công việc vất vả của mình, [Melkor](
 
 Melkor ẩn mình khỏi Valar ở [Utumno](../U/Utumno.md), sau cuộc tấn công, nằm ở phía bắc của [Trung Địa](../M/Middle-earth.md). Xung quanh anh ta là những con thú khủng bố, nhiều trong số chúng [Maiar](../M/Maiar.md) ở dạng [Balrog](../B/Balrogs.md). Đây vẫn là một số người hầu trung thành và đáng sợ nhất của anh ta.
 
-Lúc này, tất cả đều tối đen. Vì vậy, trên gò đất của [Ezellohar](../E/Ezellohar.md) ở Valinor, [Yavanna](../Y/Yavanna.md), với sự hỗ trợ của [Nienna](../N/Nienna.md), đã sinh ra [Hai Cây](../T/Two_Trees.md): con trưởng lão [Telperion](../T/Telperion.md), với những chiếc lá bạc sáng rung rinh, và con [Laurelin](../L/Laurelin.md)trẻ hơn, từ đó tỏa ra ánh sáng vàng rực rỡ. Thế là bắt đầu [Những ngày hạnh phúc](../D/Days_of_Bliss.md) của Valinor và [Số lượng thời gian](../T/Time.md).
+Lúc này, tất cả đều tối đen. Vì vậy, trên gò đất của [Ezellohar](../E/Ezellohar.md) ở Valinor, [Yavanna](../Y/Yavanna.md), với sự hỗ trợ của [Nienna](../N/Nienna.md), đã sinh ra [Hai Cây](../T/Two_Trees.md): con trưởng [Telperion](../T/Telperion.md), với những chiếc lá bạc sáng rung rinh, và con [Laurelin](../L/Laurelin.md)trẻ hơn, từ đó tỏa ra ánh sáng vàng rực rỡ. Thế là bắt đầu [Những ngày hạnh phúc](../D/Days_of_Bliss.md) của Valinor và [Số lượng thời gian](../T/Time.md).
 
 ## Liên kết ngoài {#External_links}
 

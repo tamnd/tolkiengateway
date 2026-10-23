@@ -49,11 +49,11 @@ infobox:
     - Bởi Jessica Burke
 - Chương Ba: Về loài nhện và (Tính thẩm mỹ thời Trung cổ của) Ánh sáng: Hy vọng và hành động trong nỗi kinh hoàng ở hang ổ của [Shelob](../S/Shelob.md)
     - Bởi Reno E. Lauro
-- Chương 4: Shelob và người thân của cô ấy: Sự tiến hóa của nhện Tolkien
+- Chương 4: Shelob và họ hàng của cô ấy: Sự tiến hóa của loài nhện Tolkien
     - Bởi Rainer Nagel
-- Chương Năm: Bóng Tối Bên kia ánh lửa: Các nguyên mẫu và hình ảnh thời tiền Cơ đốc giáo Gặp gỡ thần học Cơ đốc giáo trong cách xử lý cái ác và nỗi kinh hoàng của Tolkien
+- Chương Năm: Bóng Tối Bên kia ánh lửa: Các nguyên mẫu và hình ảnh thời tiền Cơ đốc giáo Gặp gỡ Thần học Cơ đốc giáo trong cách xử lý cái ác và nỗi kinh hoàng của Tolkien
     - Bởi Shandi Stevenson
-- Chương Sáu: *Tiếng kêu trong gió và Bóng Tối trên Mặt Trăng*: Tính giới hạn và Cấu trúc Kinh dị trong *[The Lord of the Rings](The_Lord_of_the_Rings.md)*
+- Chương Sáu: *Tiếng kêu trong gió và Bóng Tối trên Mặt Trăng*: Tính giới hạn và Cấu trúc của Kinh dị trong *[The Lord of the Rings](The_Lord_of_the_Rings.md)*
     - Bởi Michael Cunningham
 - Chương bảy: Barrows, Wights và những người bình thường: Cái chết bất yên trong *The Lord of the Rings* của J.R.R. Tolkien
     - Bởi Amy Amendt-Raduege

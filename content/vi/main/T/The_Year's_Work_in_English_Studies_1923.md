@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Year's Work in English Studies"
 ---
 
-Chuyển hướng đến [Công việc của năm về nghiên cứu tiếng Anh](The_Year's_Work_in_English_Studies.md).
+Chuyển hướng tới [Công việc của năm về nghiên cứu tiếng Anh](The_Year's_Work_in_English_Studies.md).

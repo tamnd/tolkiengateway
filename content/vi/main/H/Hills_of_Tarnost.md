@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tarnost"
 ---
 
-Chuyển hướng đến [Tarnost](../T/Tarnost.md).
+Chuyển hướng tới [Tarnost](../T/Tarnost.md).

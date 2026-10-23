@@ -80,11 +80,11 @@ Người ta cho rằng [Bucklebury Ferry](Bucklebury_Ferry.md) nằm cách Cầu
 		</li>
 </ul>
 
-<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Brandywine Bridge is a landmark in the Bridgefields. Talking to a character near the bridge starts the quest &#34;The Tale of the Shipwrecked Mariners&#34;.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
 
-<b><a href="../_/2010.md" title="2010">2010</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">The Lord of the Rings: Aragorn&#39;s Quest</a></i>:</b>
+<b><a href="../_/2010.md" title="2010">2010</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">The Lord of the Rings: Nhiệm vụ của Aragorn</a></i>:</b>
 
 <dl><dd>The meeting of Elessar and the Mayor in <a href="../F/Fourth_Age.md" title="Fourth Age">Fo.A.</a> <a href="../F/Fourth_Age_15.md" title="Fourth Age 15">15</a> is featured in a cutscene after the last mission. It is portrayed as a low, wooden bridge.<sup id="cite_ref-YouTube_12-0" class="reference"><a href="#cite_note-YouTube-12">[12]</a></sup></dd></dl>
 

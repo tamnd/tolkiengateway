@@ -16,6 +16,6 @@ sort_keys:
   "Images for Tolkien Gateway": "E"
 ---
 
-Đây là một tiểu thể loại hình ảnh cho danh mục [Bằng chứng về sự cho phép của chủ sở hữu bản quyền](../E/Evidence_of_permission_granted_by_copyright_holders.md).
+Đây là một danh mục con hình ảnh cho danh mục [Bằng chứng về sự cho phép của chủ sở hữu bản quyền](../E/Evidence_of_permission_granted_by_copyright_holders.md).
 
 Danh mục con hình ảnh này chỉ nên chứa các hình ảnh bao gồm ảnh chụp màn hình mô tả bằng chứng về việc chủ sở hữu bản quyền cho phép sử dụng tác phẩm nghệ thuật và phương tiện hình ảnh khác của họ trên Tolkien Gateway.

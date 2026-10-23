@@ -61,7 +61,7 @@ Tên có nghĩa là "dòng ranh giới". *Mering* đại diện cho [tiếng Anh
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The Mering Stream is only accessible from the <a href="../R/Rohan.md" title="Rohan">Rohan</a> side, as the <a href="../G/Gondor.md" title="Gondor">Gondorian</a> side is blocked by impassable cliffs and reeds. The only way to cross the river is through a guarded ford, which also transitions the player between the <a href="../R/Rhovanion.md" title="Rhovanion">Rhovanion</a> to the <a href="../G/Gondor.md" title="Gondor">Gondor</a> in-game landmasses, a transition very noticeable because all of Gondor is covered under the <a href="../D/Dawnless_Day.md" title="Dawnless Day">Dawnless Day</a> at that time, regardless of the daylight conditions on the Rohan side. A Rohirrim town of &#34;Beaconwatch&#34; sits on the bank of the river, with a clear view across into the <a class="mw-redirect" href="../F/Firien_Wood.md" title="Firien Wood">Firien Wood</a> and <a href="../H/Halifirien.md" title="Halifirien">Halifirien</a>.</dd></dl>
 

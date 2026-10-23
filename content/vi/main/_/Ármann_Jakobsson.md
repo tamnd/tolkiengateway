@@ -37,4 +37,4 @@ infobox:
 
 ## Sách {#Books}
 
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_and_the_Ring&amp;action=edit&amp;redlink=1" title="Tolkien and the Ring (page does not exist)">Tolkien và Chiếc nhẫn</a></i> (*Tolkien og hringurinn*) (Reykjavík: Forlagið, [2003](2003.md))
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_and_the_Ring&amp;action=edit&amp;redlink=1" title="Tolkien and the Ring (page does not exist)">Tolkien và Nhẫn</a></i> (*Tolkien og hringurinn*) (Reykjavík: Forlagið, [2003](2003.md))

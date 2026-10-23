@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Dunlendings](../D/Dunlendings.md) chiếm được vành đai hoang vắng của [Isengard](../I/Isengard.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Dunlending](../D/Dunlendings.md) chiếm được vòng tròn hoang vắng của [Isengard](../I/Isengard.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

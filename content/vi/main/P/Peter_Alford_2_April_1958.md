@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Peter Alford (2 April 1958)"
 ---
 
-Chuyển hướng đến [Thư gửi Peter Alford (2 tháng 4 năm 1958)](<../L/Letter_to_Peter_Alford_(2_April_1958).md>).
+Chuyển hướng tới [Thư gửi Peter Alford (2 tháng 4 năm 1958)](<../L/Letter_to_Peter_Alford_(2_April_1958).md>).

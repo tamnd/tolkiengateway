@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wídfara"
 ---
 
-Chuyển hướng đến [Wídfara](Wídfara.md).
+Chuyển hướng tới [Wídfara](Wídfara.md).

@@ -39,7 +39,7 @@ infobox:
 ## Các giấy tờ được trình bày {#Papers_Presented}
 
 - Tiến sĩ. Janice Bogstad, "Đỉnh cao khoa học/ma thuật: Thế kỷ 15 ở Crowley, Sinh thái, nhẹ nhàng và giả tưởng đương đại chọn lọc"
-- [David Bratman](../D/David_Bratman.md), "Hugo Dyson: Inkling, Teacher, Bon Vivant" và "So sánh địa lý hành chính của Anh và Trung Địa"
+- [David Bratman](../D/David_Bratman.md), "Hugo Dyson: Mơ hồ, Thầy giáo, Bon Vivant" và "So sánh Địa lý Hành chính của Anh và Trung Địa"
 - Tiến sĩ. Joe Christopher, "Thơ tự nhiên của C.S. Lewis" và "Cấu trúc Dantean của cuộc ly hôn vĩ đại"
 - Steve Deyo, "Diễn tả thần thoại-thơ: Nguồn gốc của huyền thoại trong các tác phẩm của Owen Barfield" và "Một phó bí mật được xem xét lại: Căn nguyên ngày nay"
 - David Downing, "Phát triển hình ảnh thiên nhiên thế giới khác của Lewis"
@@ -57,7 +57,7 @@ infobox:
 - Heidi Peterson, "Khởi đầu: Đọc Lewis vào quy luật viết về bản chất"
 - David Sandner, "Sự thăng hoa tuyệt vời: "Về những câu chuyện cổ tích" của Tolkien và Sự thăng hoa lãng mạn"
 - Tiến sĩ. William Sarjeant, "Địa chất Trung Địa"
-- Tim Schindler, "Những cám dỗ của Nhẫn quyền lực duy nhất tương quan với Ba cơn cám dỗ của Chúa Kitô trong vùng hoang dã"
+- Tim Schindler, "Những cám dỗ của một người Nhẫn Quyền năng tương quan với ba cơn cám dỗ của Chúa Kitô trong hoang địa"
 - [Arden R. Smith](../A/Arden_R._Smith.md), "Hội thảo bảng chữ cái Rúmilian"
 
 ## Liên kết ngoài {#External_links}

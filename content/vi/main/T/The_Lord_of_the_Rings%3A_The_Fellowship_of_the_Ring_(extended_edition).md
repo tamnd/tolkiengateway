@@ -20,13 +20,13 @@ images:
 
 <b><i>The Lord of the Rings: The Fellowship of the Ring</i> (phiên bản mở rộng)</b> là phiên bản mở rộng của *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*. Nó có 30 phút cảnh quay bổ sung được thêm lại vào phim (nâng tổng thời lượng chiếu lên 208 phút), cũng như nhiều phim tài liệu về quá trình làm phim dưới dạng phần bổ sung.
 
-Ấn bản này được tạo ra từ sự thành công của bộ phim được chiếu rạp và được phát hành dưới dạng DVD [12 tháng 11](../_/12_November.md), [2002](../_/2002.md) cùng với bốn bài bình luận và hàng giờ tài liệu bổ sung. Nó thành công đến mức các phần tiếp theo đều được phát hành tương tự. Đặc điểm chính của nó là, thay vì chỉ chèn những cảnh đã xóa, [Peter Jackson](../P/Peter_Jackson.md) tiếp cận phiên bản này như thể anh ấy đang tạo ra một phiên bản hoàn toàn mới của bộ phim. Anh ấy và người biên tập, John Gilbert, đã đánh giá tài liệu chưa được phát hành và làm việc để hoàn thiện nó giống như phần còn lại của tính năng. Hiệu ứng hình ảnh đã được hoàn thiện, lời thoại được ghi âm, hiệu ứng âm thanh được tạo ra và để đảm bảo tất cả các cảnh quay đều trôi chảy, [Howard Shore](../H/Howard_Shore.md) đã sáng tác và ghi âm bản nhạc mới cùng với Dàn nhạc Giao hưởng London.
+Ấn bản này được tạo ra từ sự thành công của bộ phim được chiếu rạp và được phát hành dưới dạng DVD [12 tháng 11](../_/12_November.md), [2002](../_/2002.md) cùng với bốn bài bình luận và hàng giờ tài liệu bổ sung. Nó thành công đến mức các phần tiếp theo đều được phát hành tương tự. Đặc điểm chính của nó là, thay vì chỉ chèn những cảnh đã xóa, [Peter Jackson](../P/Peter_Jackson.md) tiếp cận phiên bản này như thể anh ấy đang tạo ra một phiên bản hoàn toàn mới của bộ phim. Anh ấy và người biên tập, John Gilbert, đã đánh giá tài liệu chưa được phát hành và làm việc để hoàn thiện nó giống như phần còn lại của tính năng. Hiệu ứng hình ảnh đã được hoàn thiện, lời thoại được ghi âm, hiệu ứng âm thanh được tạo ra và, để đảm bảo tất cả các cảnh quay trôi chảy, [Howard Shore](../H/Howard_Shore.md) sáng tác và ghi âm bản nhạc mới cùng với Dàn nhạc Giao hưởng London.
 
 ## Phiên bản mở rộng đặc biệt - Phần thứ nhất (đĩa 1) {#Special_Extended_Edition_-_Part_One_(disc_1)}
 
 Đĩa đầu tiên chứa phiên bản mở rộng của phim với phần bình luận bằng âm thanh sau:
 
-- [Peter Jackson](../P/Peter_Jackson.md), [Fran Walsh](../F/Fran_Walsh.md) và [Philippa Boyens](../P/Philippa_Boyens.md)
+- [Peter Jackson](../P/Peter_Jackson.md), [Fran Walsh](../F/Fran_Walsh.md)và [Philippa Boyens](../P/Philippa_Boyens.md)
 - Nhóm thiết kế
 - Đội ngũ sản xuất và hậu kỳ
 - Dàn diễn viên
@@ -40,7 +40,7 @@ images:
 
 ### Cảnh mở rộng {#Extended_Scenes}
 
-- 1\. [Lời mở đầu: Một chiếc nhẫn thống trị tất cả...](../P/Prologue%253A_One_Ring_to_Rule_Them_All....md)
+- 1\. [Mở đầu: Một Nhẫn thống trị tất cả...](../P/Prologue%253A_One_Ring_to_Rule_Them_All....md)
 - 3\. [The Shire](<The_Shire_(scene).md>)
 - 4\. [Những người bạn rất cũ](../V/Very_Old_Friends.md)
 - 5\. [Bữa tiệc được mong đợi từ lâu](<../A/A_Long-expected_Party_(scene).md>)
@@ -61,34 +61,34 @@ images:
 
 ### Cảnh mở rộng {#Extended_Scenes_2}
 
-- 31\. [Vòng tiến về phía Nam](<The_Ring_Goes_South_(scene).md>)
+- 31\. [Cuộc Nhẫn Tiến về phía Nam](<The_Ring_Goes_South_(scene).md>)
 - 32\. [Thẻ Caradhras](The_Pass_of_Caradhras.md)
 - 33\. [Moria](<../M/Moria_(scene).md>)
 - 34\. [Hành trình trong bóng tối](<../A/A_Journey_in_the_Dark_(scene).md>)
 - 35\. [Balin lăng mộ](<../B/Balin's_Tomb_(scene).md>)
 - 37\. [Lothlórien](<../L/Lothlórien_(scene).md>)
 - 38\. [Caras Galadhon](<../C/Caras_Galadhon_(scene).md>)
-- 39\. [Tấm gương Galadriel](<The_Mirror_of_Galadriel_(scene).md>)
+- 39\. [Tấm gương của Galadriel](<The_Mirror_of_Galadriel_(scene).md>)
 - 41\. [Tạm biệt Lórien](<../F/Farewell_to_Lórien_(scene).md>)
-- 42\. [Sông lớn](<The_Great_River_(scene).md>)
+- 42\. [Sông Lớn](<The_Great_River_(scene).md>)
 - 44\. [Sự tan vỡ của tình bạn](<The_Breaking_of_the_Fellowship_(scene).md>)
 - 45\. [Sự khởi hành của Boromir](<The_Departure_of_Boromir_(scene).md>)
 
-## Các Phụ lục: Phần Một - Từ Sách đến Tầm nhìn (đĩa 3) {#The_Appendices:_Part_One_-_From_Book_to_Vision_(disc_3)}
+## Phần Phụ lục: Phần Một - Từ Sách Đến Tầm Nhìn (đĩa 3) {#The_Appendices:_Part_One_-_From_Book_to_Vision_(disc_3)}
 
 - Giới thiệu
 - "<a class="new" href="https://tolkiengateway.net/w/index.php?title=J.R.R._Tolkien:_Creator_of_Middle-Earth&amp;action=edit&amp;redlink=1" title="J.R.R. Tolkien: Creator of Middle-Earth (page does not exist)">J.R.R. Tolkien: Người tạo ra Trung Địa</a>" Phim tài liệu
 - Phim tài liệu "Từ sách đến kịch bản"
 - Phim truyện ngắn "Bảng phân cảnh và Pre-Viz"
 - Phim tài liệu "Thiết kế Trung Địa"
-- Phim tài liệu "Weta Workshop"
+- "Weta Workshop" Phim tài liệu
 - Phim tài liệu "Thiết kế trang phục"
 - Phòng trưng bày "Các dân tộc ở Trung Địa" có âm thanh
 - Phòng trưng bày "The Realms Of Middle-Earth" có âm thanh
-- Bản đồ tương tác"Atlas Trung Địa: Truy tìm hành trình của tình bằng hữu"
+- Bản đồ tương tác "Atlas Trung Địa: Truy tìm hành trình của tình bằng hữu"
 - "[New Zealand dưới dạng Trung Địa](../N/New_Zealand_as_Middle-earth.md)" bản đồ tương tác với cảnh quay tại địa điểm
 
-## Các Phụ lục: Phần thứ hai - Từ Tầm nhìn đến Hiện thực (đĩa 4) {#The_Appendices:_Part_Two_-_From_Vision_to_Reality_(disc_4)}
+## Phần Phụ lục: Phần thứ hai - Từ tầm nhìn đến hiện thực (đĩa 4) {#The_Appendices:_Part_Two_-_From_Vision_to_Reality_(disc_4)}
 
 - Giới thiệu
 - Phim tài liệu "Tình đoàn kết của dàn diễn viên"

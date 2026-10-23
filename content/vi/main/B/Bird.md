@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Birds"
 ---
 
-Chuyển hướng đến [Danh mục:Chim](../../category/B/Birds.md).
+Chuyển hướng tới [Danh mục:Chim](../../category/B/Birds.md).

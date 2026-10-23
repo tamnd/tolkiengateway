@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Gimli](../../main/G/Gimli.md) và [Legolas](../../main/L/Legolas.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), được xuất bản lần đầu dưới dạng trang bìa của *[1978 J.R.R. Tolkien Calendar](../../main/_/1978_J.R.R._Tolkien_Calendar.md)*.
+"[Gimli](../../main/G/Gimli.md) và [Legolas](../../main/L/Legolas.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), được xuất bản lần đầu dưới dạng bìa của *[1978 J.R.R. Tolkien Calendar](../../main/_/1978_J.R.R._Tolkien_Calendar.md)*.
 
 ## Giấy phép {#Licensing}
 

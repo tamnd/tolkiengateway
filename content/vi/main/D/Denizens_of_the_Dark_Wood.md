@@ -49,7 +49,7 @@ Sự hiện diện của Necromancer ở Mirkwood đã kéo dài bóng tối c�
 
 Một số chàng trai và cô gái ở Ulgarstat, một ngôi làng ở bìa rừng và phía tây Thị trấn Hồ, đã biến mất không một dấu vết. Bạn sẽ mạo hiểm với những nguy hiểm chưa biết để tìm và giải cứu những thanh niên mất tích trong Attercop Attack?
 
-Một thương gia ở thị trấn Lake đã bị mất một đoàn lữ hành Troll dọc theo Con Người-i-Naugrim. Bạn sẽ đối mặt với Tereg đáng sợ để lấy lại hàng hóa của Master Eolsen và khám phá số phận của những người làm thuê của hắn trong Trouble With Troll chứ?
+Một thương gia ở thị trấn Lake đã bị mất một đoàn lữ hành Troll dọc theo Con Người-i-Naugrim. Bạn sẽ đối mặt với Tereg đáng sợ để lấy lại hàng hóa của Chủ nhân Eolsen và khám phá số phận của những người làm thuê của hắn trong Trouble With Troll chứ?
 
 Một chiến binh Beorning đã biết về việc dâng phần mười cho Necromancer từ Orc cuối cùng mà anh ta đã giết khi đang du hành Mirkwood. Bạn sẽ đi cùng Grimbold vào rừng để đánh cắp kho báu trước khi nó đi vào thành trì của Necromancer trong Chuyến tàu thập phân chứ?
 

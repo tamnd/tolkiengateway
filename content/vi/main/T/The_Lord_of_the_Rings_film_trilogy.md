@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings (film series)"
 ---
 
-Chuyển hướng tới [The Lord of the Rings (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>).
+Chuyển hướng đến [The Lord of the Rings (film series)](<The_Lord_of_the_Rings_(film_series).md>).

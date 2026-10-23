@@ -96,11 +96,11 @@ Trong một phiên bản trước đó của phần về sau trở thành Phụ 
 
 <dl><dd>Hobbits&#39; passage through the Barrow-downs is represented by a respective level.</dd></dl>
 
-<b>2006: <i><a class="mw-redirect" href="../T/The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Battle for Middle-earth II: The Rise of the Witch-king">The Battle for Middle-earth II: The Rise of the Witch-king</a></i>:</b>
+<b>2006: <i><a class="mw-redirect" href="../T/The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Battle for Middle-earth II: The Rise of the Witch-king">Trận chiến Trung Địa II: Sự trỗi dậy của Vua Phù thủy</a></i>:</b>
 
 <dl><dd>In his campaign against the former kingdom of Arnor the Witch-king dispatches his men led by <a href="../H/Hwaldar.md" title="Hwaldar">Hwaldar</a> to claim the royal barrows to enrage Cardolan and lure out their forces to destroy their army and lay Cardolan bare for his attacks, while unintentionally slaying a prince of Cardolan. Later he attacked the Barrow-downs a second time to desecrate the barrows to create a plague to weaken the rest of Arnor and to demoralize the Dúnedain of Cardolan by using the barrows as the plague&#39;s ground zero. In the resulting battle <a href="../K/Karsh.md" title="Karsh">Carthaen</a>, a general of Cardolan, was slain and Cardolan&#39;s sent army was destroyed.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Barrow-downs, part of the <a href="Bree-land.md" title="Bree-land">Bree-land</a> region, are divided into North and South Barrows, depicted as a series of mounds crowned with megaliths. The region is inhabited by wights, recently stirred by the passage of the <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a>. The largest and oldest barrow is called &#34;<a class="mw-redirect" href="../O/Othrongroth.md" title="Othrongroth">Othrongroth</a>&#34;.</dd></dl>
 

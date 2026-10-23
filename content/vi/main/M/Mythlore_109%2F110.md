@@ -46,7 +46,7 @@ infobox:
 #### Bài viết {#Articles}
 
 - Nelson, Marie. "'Leaf by Niggle' củaJ.R.R. Tolkien: Một câu chuyện ngụ ngôn về sự biến đổi."
-- Bilbro, Jeffrey. "Sự thoái lui ảo tưởng: Sự trở lại của dục vọng và hành động trong *Phantastes* và *The Pilgrim's Regress*."
+- Bilbro, Jeffrey. "Sự thoái lui ảo tưởng: Sự trở lại của ham muốn và hành động trong *Phantastes* và *The Pilgrim's Regress*."
 - Oziewicz, Marek và Daniel Hade. "Cuộc hôn nhân của thiên đường và địa ngục? Philip Pullman, C.S. Lewis, và truyền thống giả tưởng."
 - Christopher, Joe R. "'Thiên thạch' củaC.S. Lewis và tầm quan trọng của bối cảnh."
 - Martínez, Helios De Rosario. "*Fairy* và *Elves* trong Tolkien và Văn học truyền thống."

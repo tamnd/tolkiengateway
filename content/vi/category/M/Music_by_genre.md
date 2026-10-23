@@ -12,4 +12,4 @@ categories:
   - "Music"
 ---
 
-Danh mục này và các danh mục con của nó liệt kê **âm nhạc theo thể loại** liên quan đến các tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
+Danh mục này và các danh mục con của nó liệt kê **âm nhạc theo thể loại** liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) tác phẩm.

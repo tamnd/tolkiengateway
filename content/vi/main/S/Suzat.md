@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sûza"
 ---
 
-Chuyển hướng tới [Sûza](Sûza.md).
+Chuyển hướng đến [Sûza](Sûza.md).

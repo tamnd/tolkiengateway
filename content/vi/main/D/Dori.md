@@ -154,7 +154,7 @@ Vào đêm mưa trước khi gặp bọn Quỷ khổng lồ, phiên bản trư�
 
 <dl><dd>Dori is omitted. <a href="../T/Thorin.md" title="Thorin">Thorin Oakenshield</a> only travels with an unnamed guard and the princess of Dale.<sup id="cite_ref-Deitch_15-0" class="reference"><a href="#cite_note-Deitch-15">[15]</a></sup></dd></dl>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (1977 film)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>Dori is voiced by <a href="../J/John_Stephenson.md" title="John Stephenson">John Stephenson</a>. Apart from Thorin, he is one of only three of the other Dwarves who speaks with any regularity (<a href="../B/Balin.md" title="Balin">Balin</a> and <a href="../B/Bombur.md" title="Bombur">Bombur</a> being the others). As in the book, he sometimes carries <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> on his back. He is the one to discover the Hobbit is missing during their escape from <a href="../G/Goblin-town.md" title="Goblin-town">Goblin-town</a>. Bilbo also holds onto his leg (much to his chagrin) while the <a class="mw-redirect" href="../E/Eagles.md" title="Eagles">Eagles</a> are flying the Company to safety. Later, after reclaiming Erebor, you see the dwarves celebrating as Dori jokingly says about him being king under the mountain, though Thorin dismisses the dwarf&#39;s joke. During the Battle of Five Armies you see Dori, stabbed (making him possibly one of the dwarves that passed away during the battle).</dd></dl>
 
@@ -196,7 +196,7 @@ Là họ hàng xa của Thorin Oakenshield, Dori là anh cả trong số các an
 
 <dl><dd>Dori has a long brown beard without moustache. He does not appear in the game until <a href="../L/Lake-town.md" title="Lake-town">Lake-town</a>, though he can be seen in the fir tree with Bilbo, much like the scene in the book.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Dori is a non-playable character, who is the official &#34;High Hoard Seeker&#34; of <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a>. He is captured along with the gems he was bringing to the Dwarves of Othrikar by the Dourhands. The player must rescue him in Vol I, Book III, Chapter 4 &#34;Freeing Dori&#34;. He also makes an appearance during the Dwarven Introduction quest line, at Thorin&#39;s Gate. Much later, after the events of <a href="../S/Sauron.md" title="Sauron">Sauron</a>&#39;s Fall, he is found in various places in Erebor, and leads an expedition into the <a href="../G/Grey_Mountains.md" title="Grey Mountains">Ered Mithrin</a> to save his brother <a href="../N/Nori.md" title="Nori">Nori</a>.</dd></dl>
 

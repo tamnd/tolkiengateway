@@ -23,7 +23,7 @@ file:
   user: "Hyarion"
 ---
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
 <p>It is believed that the use of this writing, based on the <a href="../../main/T/Tengwar.md" title="Tengwar">Tengwar</a> script devised by <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>,
