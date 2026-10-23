@@ -1,0 +1,24 @@
+---
+title: "Category:Russian users"
+page_id: 36020
+namespace: 14
+revision_id: 170402
+timestamp: "2011-09-06T17:58:28Z"
+source_url: "https://tolkiengateway.net/wiki/Category:Russian_users"
+content_sha256: 5fbbab18dac09ff43e5e87a44aafbaf60d169a0f1e00fd3a8fd837b08619f898
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Gatekeepers by nationality"
+sort_keys:
+  "Gatekeepers by nationality": "Russia"
+images:
+  - "Russia.png"
+---
+
+<div style="float:right;"><div class="template-userbox metadata" style="border-color:#C00000;background:orange"><div class="template-userbox-id template-userbox-id-1" style="color:#000"><span><span typeof="mw:File"><a class="mw-file-description" href="../../file/R/Russia.png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ee/Russia.png/70px-Russia.png" decoding="async" loading="lazy" width="70" height="47" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ee/Russia.png/105px-Russia.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/ee/Russia.png/140px-Russia.png 2x" data-file-width="800" data-file-height="533"/></a></span></span></div><div class="template-userbox-info" style="color:#000"><span>This user is from <b><a class="extiw" href="http://en.wikipedia.org/wiki/Russia" title="wikipedia:Russia">Russia</a></b>.</span></div></div>
+</div>
+
+Người dùng đến từ <b><a class="extiw" href="http://en.wikipedia.org/wiki/Russia" title="wikipedia:Russia">Nga</a></b>.<br><br>Bạn có thể thêm chính mình vào danh mục này bằng cách thêm hộp người dùng: {{[Người dùng Nga](https://tolkiengateway.net/wiki/Template:User_Russia)}} hoặc thêm thông tin sau vào [trang người dùng](../../help/U/User_page.md) của bạn:
+
+<pre>[[Category:Russian users|{{PAGENAME}}]]</pre>

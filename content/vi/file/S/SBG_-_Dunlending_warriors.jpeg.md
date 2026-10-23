@@ -1,0 +1,35 @@
+---
+title: "File:SBG - Dunlending warriors.jpeg"
+page_id: 11746
+namespace: 6
+revision_id: 203815
+timestamp: "2012-07-09T23:21:54Z"
+source_url: "https://tolkiengateway.net/wiki/File:SBG_-_Dunlending_warriors.jpeg"
+content_sha256: a42de3c9572044b25ecfafa1f581da5ff3020face79cdeee14732bf36ffd78bc
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images of SBG miniatures"
+  - "Images of Dunlendings"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/a/aa/SBG_-_Dunlending_warriors.jpeg"
+  mime: "image/jpeg"
+  size: 34798
+  width: 365
+  height: 354
+  sha1: "46a2be6b1f81cb8777da3953b23cf9369c33d02a"
+  timestamp: "2006-08-29T01:30:32Z"
+  user: "Narfil Palùrfalas"
+---
+
+<br>
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
+<p>This work is copyrighted and owned by <a class="external text" href="http://www.games-workshop.com/" rel="noreferrer noopener" target="_blank">Games Workshop</a>. It is believed that the limited use of this file,
+</p>
+<ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

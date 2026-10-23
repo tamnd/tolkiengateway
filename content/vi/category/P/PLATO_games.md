@@ -1,0 +1,15 @@
+---
+title: "Category:PLATO games"
+page_id: 32275
+namespace: 14
+revision_id: 196038
+timestamp: "2012-06-13T18:54:53Z"
+source_url: "https://tolkiengateway.net/wiki/Category:PLATO_games"
+content_sha256: 8b3a77abb86382d3880a8d9b8fe27d044657e56c22afdcbc2161533a0cfe4266
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Video games by platform"
+---
+
+Thể loại này liệt kê tất cả các **trò chơi PLATO** liên quan đến tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

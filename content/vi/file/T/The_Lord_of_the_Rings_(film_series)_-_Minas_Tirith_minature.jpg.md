@@ -1,0 +1,35 @@
+---
+title: "File:The Lord of the Rings (film series) - Minas Tirith minature.jpg"
+page_id: 21883
+namespace: 6
+revision_id: 260401
+timestamp: "2014-12-09T19:27:27Z"
+source_url: "https://tolkiengateway.net/wiki/File:The_Lord_of_the_Rings_(film_series)_-_Minas_Tirith_minature.jpg"
+content_sha256: 0b39ea58b3a93238ef9662a3370afbedc06b4278bd8b110a96a048e39af52aae
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images of Minas Tirith"
+  - "Images of bigatures"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/4/42/The_Lord_of_the_Rings_%28film_series%29_-_Minas_Tirith_minature.jpg"
+  mime: "image/jpeg"
+  size: 22305
+  width: 360
+  height: 472
+  sha1: "2a931077b2a3f7be2d362ae34fac3a93fb7e0e77"
+  timestamp: "2009-03-25T17:44:55Z"
+  user: "Mthomas"
+---
+
+## Giấy phép {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
+<p>This work is copyrighted and owned by <a class="external text" href="http://www.newline.com" rel="noreferrer noopener" target="_blank">New Line Cinema</a>. It is believed that the limited use of this file,
+</p>
+<ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

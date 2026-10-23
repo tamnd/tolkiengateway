@@ -1,0 +1,19 @@
+---
+title: "Tolkien Gateway:Copyrights/Michael D.C. Drout"
+page_id: 48571
+namespace: 4
+revision_id: 259888
+timestamp: "2014-12-03T15:54:16Z"
+source_url: "https://tolkiengateway.net/wiki/Tolkien_Gateway:Copyrights/Michael_D.C._Drout"
+content_sha256: 3877eb5d1be3beab8b239c938f93ef79075d627e1dd8fb608f0d5fdfe76fe1e6
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Evidence of permission granted by copyright holders"
+sort_keys:
+  "Evidence of permission granted by copyright holders": "Drout, Michael D.C."
+---
+
+- Quyền được chủ sở hữu bản quyền [Michael D.C. Drout](../../main/M/Michael_D.C._Drout.md) cấp để sử dụng tệp [Michael D.C. Drout.png](../../file/M/Michael_D.C._Drout.png.md) trên Tolkien Gateway.
+- Ngày: 3 tháng 12 năm 2014.
+- Người dùng đã xin phép qua email: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan).

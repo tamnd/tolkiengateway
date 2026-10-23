@@ -1,0 +1,42 @@
+---
+title: "Letter to Fay Darrington (16 February 1972)"
+display_title: "Letter to Fay Darrington <span style=\"font-size:0.7em\">(16 February 1972)</span>"
+page_id: 48221
+namespace: 0
+revision_id: 387972
+timestamp: "2024-03-18T08:31:30Z"
+source_url: "https://tolkiengateway.net/wiki/Letter_to_Fay_Darrington_(16_February_1972)"
+content_sha256: db2f17d9d2280ebf152a0802542cafd16ce3c96a0fc5589f382788ab73c1cbb9
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Letters"
+sort_keys:
+  "Letters": "Darrington, Fay (1972-02-16)"
+images:
+  - "Letter_to_Darrington_(16_February_1972).jpg"
+---
+
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Letter_to_Darrington_(16_February_1972).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/74/Letter_to_Darrington_%2816_February_1972%29.jpg/300px-Letter_to_Darrington_%2816_February_1972%29.jpg" decoding="async" loading="lazy" width="300" height="485" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/74/Letter_to_Darrington_%2816_February_1972%29.jpg/450px-Letter_to_Darrington_%2816_February_1972%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/74/Letter_to_Darrington_%2816_February_1972%29.jpg/600px-Letter_to_Darrington_%2816_February_1972%29.jpg 2x" data-file-width="1266" data-file-height="2048"/></a><figcaption></figcaption></figure>
+
+Vào [16 tháng 2](../_/16_February.md) [1972](../_/1972.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho cô Fay Darrington**.<sup id="cite_ref-dreweattss_1-0" class="reference"><a href="#cite_note-dreweattss-1">[1]</a></sup>
+
+- **Xuất bản:** Không có.
+- **Mô tả:** Một trang, in tiêu đề, viết tay chữ ký.
+
+## Từ cuộc đấu giá {#From_the_auction}
+
+Thư xin chữ ký gửi tới Fay Darrington, 1p. & phong bì, 8vo, Hotel Miramar, Bournemouth, ngày 16 tháng 2 năm 1972, cảm ơn cô về bức thư "sự ấm áp của lòng biết ơn và niềm vui của cô đối với những cuốn sách của tôi" và thảo luận về "việc buồn khi phải phá bỏ thư viện và ngôi nhà của tôi và bán nhà của tôi", gấp, một vài điểm nhỏ.
+
+## Xem thêm {#See_also}
+
+- [Thư gửi Fay Darrington (16 tháng 11 năm 1971)](<Letter_to_Fay_Darrington_(16_November_1971).md>)
+
+<span></span>
+
+## Tài liệu tham khảo {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-dreweattss-1"><span class="mw-cite-backlink"><a href="#cite_ref-dreweattss_1-0">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.dreweatts.com/cms/pages/lot/36158/454" rel="noreferrer noopener" target="_blank">&#34;Lot No:454, Important Books and Works on Paper&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.dreweatts.com" rel="noreferrer noopener" target="_blank">www.dreweatts.com</a></span>. <span class="cite-web-accessed">Retrieved 2 November 2014</span></cite></span>
+</li>
+</ol></div>

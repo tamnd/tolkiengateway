@@ -1,0 +1,140 @@
+---
+title: "Siril"
+page_id: 4500
+namespace: 0
+revision_id: 423131
+timestamp: "2025-08-16T05:48:40Z"
+source_url: "https://tolkiengateway.net/wiki/Siril"
+content_sha256: 55d8e2e7a087e37572161b712d6fdb0a3e0b5ddfe1476a32a133a41b32ccd56d
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+short_description: "Numenorean river"
+categories:
+  - "Númenor"
+  - "Quenya locations"
+  - "Rivers"
+hidden_categories:
+  - "Pages with short description"
+langlinks:
+  - lang: "de"
+    name: "Deutsch"
+    title: "Siril"
+    url: "https://www.ardapedia.org/wiki/Siril"
+  - lang: "fi"
+    name: "suomi"
+    title: "Siril"
+    url: "https://kontu.wiki/Siril"
+images:
+  - "Alan_Lee_-_Of_the_Shape_of_Numenor.jpg"
+  - "The_Rings_of_Power_(TV_series)_-_King_Stones.png"
+infobox:
+  - label: "Location"
+    value: "Southern Númenor"
+  - label: "Type"
+    value: "River"
+  - label: "Inhabitants"
+    value: "Fisher-folk at its lower course"
+  - label: "Gallery"
+    value: "Images of Siril"
+---
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_Of_the_Shape_of_Numenor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/96/Alan_Lee_-_Of_the_Shape_of_Numenor.jpg/320px-Alan_Lee_-_Of_the_Shape_of_Numenor.jpg" decoding="async" loading="lazy" width="320" height="206" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/96/Alan_Lee_-_Of_the_Shape_of_Numenor.jpg/480px-Alan_Lee_-_Of_the_Shape_of_Numenor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/96/Alan_Lee_-_Of_the_Shape_of_Numenor.jpg/640px-Alan_Lee_-_Of_the_Shape_of_Numenor.jpg 2x" data-file-width="1252" data-file-height="805"/></a><figcaption>&#34;Of the Shape of Númenor&#34; by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">River</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Siril</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Southern <a href="../N/Númenor.md" title="Númenor">Númenor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">River</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data">Fisher-folk at its lower course</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Siril.md" title="Category:Images of Siril">Images of Siril</a></td></tr></tbody></table>
+
+**Siril** là con sông lớn nhất trong số ít con sông trên đảo [Númenor](../N/Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó bắt nguồn từ thung lũng [Noirinan](../N/Noirinan.md) bên dưới [Meneltarma](../M/Meneltarma.md)và chảy thẳng về phía nam để đổ ra biển tại cảng cá [Nindamos](../N/Nindamos.md), trên biên giới của [Hyarnustar](../H/Hyarnustar.md) và [Hyarrostar](../H/Hyarrostar.md). Ở hạ lưu, nó trở thành một dòng suối chảy chậm và quanh co, gặp biển giữa những đầm lầy rộng và những bãi lau sậy.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+
+## Từ nguyên {#Etymology}
+
+Trong [*Etymologies*](../T/The_Etymologies.md), [Quenya](../Q/Quenya.md) *siril* có nghĩa là "lòng sông".<sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
+
+## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
+
+### Siril trong các bản chuyển thể {#Siril_in_adaptations}
+
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 235px">
+			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Rings_of_Power_(TV_series)_-_King_Stones.png.md" title="The King Stones along the river Siril in The Lord of the Rings: The Rings of Power."><img alt="The King Stones along the river Siril in The Lord of the Rings: The Rings of Power." src="https://tolkiengateway.net/w/images/thumb/b/ba/The_Rings_of_Power_%28TV_series%29_-_King_Stones.png/200px-The_Rings_of_Power_%28TV_series%29_-_King_Stones.png" decoding="async" loading="lazy" width="200" height="83" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/ba/The_Rings_of_Power_%28TV_series%29_-_King_Stones.png/300px-The_Rings_of_Power_%28TV_series%29_-_King_Stones.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/ba/The_Rings_of_Power_%28TV_series%29_-_King_Stones.png/400px-The_Rings_of_Power_%28TV_series%29_-_King_Stones.png 2x" data-file-width="1920" data-file-height="794"/></a></span></div>
+			<div class="gallerytext">
+<p>The <i>King Stones</i> along the river Siril in <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>.
+</p>
+			</div>
+		</li>
+</ul>
+
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
+
+<dl><dd><b>September 8: <i><a href="../A/Adar_(episode).md" title="Adar (episode)">Adar</a></i>:</b>
+<dl><dd>As <a href="../E/Elendil.md" title="Elendil">Captain Elendil</a> takes <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> and <a href="../H/Halbrand.md" title="Halbrand">Halbrand</a> to the great city of <a href="../A/Armenelos.md" title="Armenelos">Armenelos</a> in <a href="../N/Númenor.md" title="Númenor">Númenor</a>; his ship travels up a river that is likely the Siril, there are some stone faces carved into the cliff face on both sides of the river. These are referred to as the <b>King Stones</b>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl></dd></dl>
+
+<dl><dd><b>September 16: <i><a href="../T/The_Great_Wave.md" title="The Great Wave">The Great Wave</a></i>:</b>
+<dl><dd>During a vision, <a href="../T/Tar-Míriel.md" title="Tar-Míriel">Queen Regent Míriel</a> witnesses <a href="../D/Downfall_of_Númenor.md" title="Downfall of Númenor">many great waves</a> coming from every direction, one of which likely came from from the river that is likely the Siril.</dd></dl></dd></dl>
+
+<dl><dd><b>October 14: <i><a href="../A/Alloyed.md" title="Alloyed">Alloyed</a></i>:</b>
+<dl><dd>Upon leaving the <a href="../M/Mordor.md" title="Mordor">Southlands</a>, <a href="../T/Tar-Míriel.md" title="Tar-Míriel">Queen Regent Míriel&#39;s</a> fleet returns to Armenelos up the river that is likely the Siril.</dd></dl></dd></dl>
+
+<span></span>
+
+## Tài liệu tham khảo {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../N/Númenórë_(map).md" title="Númenórë (map)">[Map of] Númenórë</a>&#34;</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../A/A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">A Description of the Island of Númenor</a>&#34;</span>
+</li>
+<li id="cite_note-LR-3"><span class="mw-cite-backlink"><a href="#cite_ref-LR_3-0">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 385</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Amazon Staff (18 August 2022)</span>. <span class="cite-web-article"><a class="external text" href="https://www.aboutamazon.com/news/entertainment/8-secrets-of-numenor-an-unseen-kingdom-in-the-lord-of-the-rings-the-rings-of-power" rel="noreferrer noopener" target="_blank">&#34;8 secrets of Númenor—an unseen kingdom in ‘The Lord of the Rings: The Rings of Power’&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.aboutamazon.com" rel="noreferrer noopener" target="_blank">Amazon.com</a></span>. <span class="cite-web-accessed">Retrieved 4 January 2022</span></cite></span>
+</li>
+</ol></div>
+
+<table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
+<tbody><tr>
+<th align="center" style="background:var(--tg-color-surface-5);" colspan="3"><b><a href="../N/Númenor.md" title="Númenor">Númenor</a></b>
+</th></tr>
+<tr>
+<td align="center" style="background: var(--tg-color-surface-3); font-size: 90%;" colspan="3"><i>Andor · Atalantë · <a href="../E/Elenna.md" title="Elenna">Elenna</a> · Mar-nu-Falmar · Númenórë · Westernesse</i>
+</td></tr>
+<tr>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Regions
+</th>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Andustar.md" title="Andustar">Andustar</a> · <a href="../A/Arandor.md" title="Arandor">Arandor</a> · <a href="../E/Emerië.md" title="Emerië">Emerië</a> · <a href="../F/Forostar.md" title="Forostar">Forostar</a> · <a href="../H/Hyarastorni.md" title="Hyarastorni">Hyarastorni</a> · <a href="../H/Hyarnustar.md" title="Hyarnustar">Hyarnustar</a> · <a href="../H/Hyarrostar.md" title="Hyarrostar">Hyarrostar</a> · <a href="../M/Mittalmar.md" title="Mittalmar">Mittalmar</a> · <a href="../N/Nísimaldar.md" title="Nísimaldar">Nísimaldar</a> · <a href="../O/Orrostar.md" title="Orrostar">Orrostar</a>
+</td></tr>
+<tr>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Towns and cities
+</th>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Almaida.md" title="Almaida">Almaida</a> · <a href="../A/Andúnië.md" title="Andúnië">Andúnië</a> · <a href="../A/Armenelos.md" title="Armenelos">Armenelos</a> · <a href="../E/Eldalondë.md" title="Eldalondë">Eldalondë</a> · <a href="../M/Moriondë.md" title="Moriondë">Moriondë</a> · <a href="../N/Nindamos.md" title="Nindamos">Nindamos</a> · <a href="../O/Ondosto.md" title="Ondosto">Ondosto</a> · <a href="../R/Rómenna.md" title="Rómenna">Rómenna</a>
+</td></tr>
+<tr>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Buildings
+</th>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../C/Calmindon.md" title="Calmindon">Calmindon</a> · <a href="../E/Eämbar.md" title="Eämbar">Eämbar</a> · <a href="../K/King&#39;s_Court.md" title="King&#39;s Court">King&#39;s Court</a> · <a href="../T/Temple.md" title="Temple">Temple</a> · <a href="../W/White_House_of_Erendis.md" title="White House of Erendis">White House of Erendis</a>
+</td></tr>
+<tr>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Natural features
+</th>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../B/Bay_of_Eldanna.md" title="Bay of Eldanna">Bay of Eldanna</a> · <a href="../B/Bay_of_Rómenna.md" title="Bay of Rómenna">Bay of Rómenna</a> · <a href="../F/Firth_of_Rómenna.md" title="Firth of Rómenna">Firth of Rómenna</a> · <a href="../H/Hallow_of_Eru.md" title="Hallow of Eru">Hallow of Eru</a> · <a href="../M/Meneltarma.md" title="Meneltarma">Meneltarma</a> (mountain) · <a href="../N/Nísinen.md" title="Nísinen">Nísinen</a> (lake) · <a href="../N/North_Cape.md" title="North Cape">North Cape</a> · <a href="../N/Nunduinë.md" title="Nunduinë">Nunduinë</a> (river) · <a href="../O/Oromet.md" title="Oromet">Oromet</a> (mountain) · <a class="mw-selflink selflink">Siril</a> (river) · <a href="Sorontil.md" title="Sorontil">Sorontil</a> (mountain) · <a href="../T/Tarmasundar.md" title="Tarmasundar">Tarmasundar</a> (ridges) · <a href="../T/Tompollë.md" title="Tompollë">Tompollë</a>
+</td></tr>
+<tr>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Plants and trees
+</th>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../F/Fragrant_Trees.md" title="Fragrant Trees">Fragrant Trees</a> · <a href="../L/Lairelossë.md" title="Lairelossë">Lairelossë</a> · <a href="../L/Laurinquë.md" title="Laurinquë">Laurinquë</a> · <a href="../L/Lavaralda.md" title="Lavaralda">Lavaralda</a> · <a href="../N/Nessamelda.md" title="Nessamelda">Nessamelda</a> · <a href="../N/Nimloth_(tree).md" title="Nimloth (tree)">Nimloth</a> · <a href="../O/Oiolairë.md" title="Oiolairë">Oiolairë</a> · <a href="../T/Taniquelassë.md" title="Taniquelassë">Taniquelassë</a> · <a href="../V/Vardarianna.md" title="Vardarianna">Vardarianna</a> · <a href="../Y/Yavannamírë.md" title="Yavannamírë">Yavannamírë</a>
+</td></tr>
+<tr>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Heirlooms
+</th>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Aranrúth.md" title="Aranrúth">Aranrúth</a> · <a href="../B/Bow_of_Bregor.md" title="Bow of Bregor">Bow of Bregor</a> · <a href="../D/Dramborleg.md" title="Dramborleg">Dramborleg</a> · <a class="mw-redirect" href="../E/Elendilmir.md" title="Elendilmir">Elendilmir</a> · <a href="../N/Narsil.md" title="Narsil">Narsil</a> · &#34;<a href="../N/Númenórean_helmet.md" title="Númenórean helmet">Númenórean helmet</a>&#34; · <a href="../P/Palantíri.md" title="Palantíri">Palantíri</a> · <a href="../R/Ring_of_Barahir.md" title="Ring of Barahir">Ring of Barahir</a> · <a href="Sceptre_of_Annúminas.md" title="Sceptre of Annúminas">Sceptre of Annúminas</a> · <a href="Sceptre_of_Númenor.md" title="Sceptre of Númenor">Sceptre of Númenor</a> · <i><a href="../../file/J/J.R.R._Tolkien_-_Númenórean_carpet_I.jpg.md" title="File:J.R.R. Tolkien - Númenórean carpet I.jpg">Carpets</a> <a href="../../file/J/J.R.R._Tolkien_-_Númenórean_carpet_II.jpg.md" title="File:J.R.R. Tolkien - Númenórean carpet II.jpg">and</a> <a href="../../file/J/J.R.R._Tolkien_-_Númenórean_Tile.jpg.md" title="File:J.R.R. Tolkien - Númenórean Tile.jpg">tile</a></i>
+</td></tr>
+<tr>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Concepts
+</th>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Adûnaic.md" title="Adûnaic">Adûnaic</a> · <a href="../B/Ban_of_the_Valar.md" title="Ban of the Valar">Ban of the Valar</a> · <a href="../C/Council_of_the_Sceptre.md" title="Council of the Sceptre">Council of the Sceptre</a> · <a href="../D/Downfall_of_Númenor.md" title="Downfall of Númenor">Downfall of Númenor</a> · <a href="../G/Great_Bear-dance.md" title="Great Bear-dance">Great Bear-dance</a> · <a href="../K/King&#39;s_Heir.md" title="King&#39;s Heir">Heirship</a> · <a href="../N/Númenórean_Sindarin.md" title="Númenórean Sindarin">Númenórean Sindarin</a> · <a href="../T/Three_Prayers.md" title="Three Prayers">Three Prayers</a> <i>(<a href="../E/Eruhantalë.md" title="Eruhantalë">Eruhantalë</a> · <a href="../E/Erukyermë.md" title="Erukyermë">Erukyermë</a> · <a href="../E/Erulaitalë.md" title="Erulaitalë">Erulaitalë</a>)</i>
+</td></tr>
+<tr>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Key people
+</th>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../T/Tar-Aldarion.md" title="Tar-Aldarion">Aldarion</a> · <a href="../A/Amandil.md" title="Amandil">Amandil</a> · <a href="../A/Anárion.md" title="Anárion">Anárion</a> · <a href="../C/Captain_of_the_King&#39;s_Ships.md" title="Captain of the King&#39;s Ships">Captain of the King&#39;s Ships</a> · <a href="../E/Elendil.md" title="Elendil">Elendil</a> · <a href="../E/Elros.md" title="Elros">Elros</a> (<a href="../H/House_of_Elros.md" title="House of Elros">House of Elros</a>) · <a href="../E/Erendis.md" title="Erendis">Erendis</a> · <a href="../F/Faithful.md" title="Faithful">Faithful</a> · <a href="../G/Great_Armament.md" title="Great Armament">Great Armament</a> · <a href="../G/Guild_of_Venturers.md" title="Guild of Venturers">Guild of Venturers</a> · <a href="../G/Guild_of_Weaponsmiths.md" title="Guild of Weaponsmiths">Guild of Weaponsmiths</a> · <a href="../I/Isildur.md" title="Isildur">Isildur</a> · <a href="../K/King_of_Númenor.md" title="King of Númenor">Kings</a> and <a href="../R/Ruling_Queens_of_Númenor.md" title="Ruling Queens of Númenor">Queens</a> of Númenor · <a href="../K/King&#39;s_Archers.md" title="King&#39;s Archers">King&#39;s Archers</a> · <a href="../K/King&#39;s_Men.md" title="King&#39;s Men">King&#39;s Men</a> · <a class="mw-redirect" href="../L/Lords_of_Andúnië.md" title="Lords of Andúnië">Lords of Andúnië</a> · <a href="../T/Tar-Meneldur.md" title="Tar-Meneldur">Meneldur</a> · <a href="../T/Tar-Míriel.md" title="Tar-Míriel">Miriel</a> · <a href="../T/Tar-Palantir.md" title="Tar-Palantir">Palantir</a> · <a href="../A/Ar-Pharazôn.md" title="Ar-Pharazôn">Pharazôn</a> · <a href="Sauron.md" title="Sauron">Sauron</a> · <a href="Silmariën.md" title="Silmariën">Silmariën</a>
+</td></tr>
+<tr>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Main texts
+</th>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> (&#34;<a href="../A/Akallabêth.md" title="Akallabêth">Akallabêth</a>&#34;) · <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i> (&#34;<a href="../A/A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">A Description of the Island of Númenor</a>&#34; · &#34;<a href="../A/Aldarion_and_Erendis%253A_The_Mariner&#39;s_Wife.md" title="Aldarion and Erendis: The Mariner&#39;s Wife">Aldarion and Erendis: The Mariner&#39;s Wife</a>&#34; · &#34;<a href="../T/The_Line_of_Elros%253A_Kings_of_Númenor.md" title="The Line of Elros: Kings of Númenor">The Line of Elros: Kings of Númenor</a>&#34;) · <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> (&#34;<a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>&#34; · &#34;<a href="../A/Appendix_B.md" title="Appendix B">Appendix B</a>&#34;) · <i><a href="../T/The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> (&#34;Lives of the Númenóreans&#34; · &#34;Of the land and beasts of Númenor&#34;)
+</td></tr></tbody></table>

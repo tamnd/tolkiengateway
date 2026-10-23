@@ -1,0 +1,228 @@
+---
+title: "Horn of Gondor (fan film)"
+page_id: 58481
+namespace: 0
+revision_id: 404323
+timestamp: "2024-08-22T19:34:26Z"
+source_url: "https://tolkiengateway.net/wiki/Horn_of_Gondor_(fan_film)"
+content_sha256: e531d09f71ee67f3a849bb0c3f2c89bda9d15adc6f0f5aee8fe6f37d7403a897
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Fan films"
+images:
+  - "Horn_of_Gondor_Poster.jpg"
+  - "CdxIconArticleDisambiguation.svg"
+infobox:
+  - label: "Director"
+    value: "Simon Pesta"
+  - label: "Screenplay"
+    value: "Simon Pesta"
+  - label: "Based on"
+    value: "\"Cirion and Eorl and the Friendship of Gondor and Rohan\" by J.R.R. Tolkien"
+  - label: "Starring"
+    value: "Borek Belfin"
+  - label: "Cinematography"
+    value: "Ondrej Penicka"
+  - label: "Editing"
+    value: "Simon Pesta"
+  - label: "Music"
+    value: "Petr Kubelik"
+  - label: "Distributor"
+    value: "YouTube"
+  - label: "Released"
+    value: "18 September 2020"
+  - label: "Runtime"
+    value: "19 min"
+  - label: "Country"
+    value: "Czech Republic"
+  - label: "Language"
+    value: "English"
+  - label: "Budget"
+    value: "€11,142"
+  - label: "Website"
+    value: "Kickstarter"
+  - label: "IMDb"
+    value: "Profile"
+---
+
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the 2020 fan film</b>. For the actual horn within the Legendarium, see <b><a href="../G/Great_Horn.md" title="Great Horn">Great Horn</a></b>.</div></div>
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Horn_of_Gondor_Poster.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/Horn_of_Gondor_Poster.jpg/320px-Horn_of_Gondor_Poster.jpg" decoding="async" loading="lazy" width="320" height="451" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7d/Horn_of_Gondor_Poster.jpg/480px-Horn_of_Gondor_Poster.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7d/Horn_of_Gondor_Poster.jpg/640px-Horn_of_Gondor_Poster.jpg 2x" data-file-width="720" data-file-height="1015"/></a><figcaption>Poster</figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Horn of Gondor</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data">Simon Pesta</td></tr><tr><th scope="row" class="tg-infobox-label">Screenplay</th><td class="tg-infobox-data">Simon Pesta</td></tr><tr><th scope="row" class="tg-infobox-label">Based on</th><td class="tg-infobox-data">&#34;<a href="../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md" title="Cirion and Eorl and the Friendship of Gondor and Rohan">Cirion and Eorl and the Friendship of Gondor and Rohan</a>&#34; by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data">Borek Belfin</td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data">Ondrej Penicka</td></tr><tr><th scope="row" class="tg-infobox-label">Editing</th><td class="tg-infobox-data">Simon Pesta</td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data">Petr Kubelik</td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data">YouTube</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">18 September 2020</td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">19 min</td></tr><tr><th scope="row" class="tg-infobox-label">Country</th><td class="tg-infobox-data">Czech Republic</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Budget</th><td class="tg-infobox-data">€11,142</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="https://www.kickstarter.com/projects/482524377/horn-of-gondor-tolkien-fan-film" rel="noreferrer noopener" target="_blank">Kickstarter</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt10852750" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
+
+**Horn of Gondor** là một [phim dành cho người hâm mộ](../../category/F/Fan_films.md) dựa trên [một truyện ngắn](../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md) trong *[Unfinished Tales](../U/Unfinished_Tales.md)*. Phim đã được phát hành trên YouTube vào ngày [18 tháng Chín](../_/18_September.md) [2020](../_/2020.md).
+
+## Tóm tắt {#Synopsis}
+
+Sau cuộc xâm lược của bầy [Balchoth](../B/Balchoth.md)hung hãn, [Gondor](../G/Gondor.md) đang trên bờ vực diệt vong. [Người quản lý cầm quyền](../R/Ruling_Steward.md) [Cirion](../C/Cirion.md) đặt hy vọng vào quốc gia bị lãng quên một nửa của các Lãnh chúa ở phía bắc. Liệu hiệp sĩ [Borondir](../B/Borondir.md) có thành công và truyền tải được thông điệp của Cirion không?
+
+## Truyền {#Cast}
+
+<table class="wikitable">
+<tbody><tr bgcolor="#CCCCCC">
+<th>Role</th>
+<th>Actor
+</th></tr>
+<tr>
+<td><a href="../B/Borondir.md" title="Borondir">Borondir</a></td>
+<td><a class="external text" href="http://www.imdb.com/name/nm8555455/" rel="noreferrer noopener" target="_blank">Borek Belfin</a>
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="../O/Orc.md" title="Orc">Orc</a> 1</td>
+<td><a class="external text" href="http://www.imdb.com/name/nm8555457/" rel="noreferrer noopener" target="_blank">Josef Berousek</a>
+</td></tr>
+<tr>
+<td>Messenger 4</td>
+<td><a class="external text" href="http://www.imdb.com/name/nm9711357/" rel="noreferrer noopener" target="_blank">Roman Dvorak</a>
+</td></tr>
+<tr>
+<td>Man of <a href="../B/Balchoth.md" title="Balchoth">Balchoth</a></td>
+<td><a class="external text" href="http://www.imdb.com/name/nm4267087/" rel="noreferrer noopener" target="_blank">Zdenek Gloser</a>
+</td></tr>
+<tr>
+<td>Messenger 3</td>
+<td><a class="external text" href="http://www.imdb.com/name/nm10934670/" rel="noreferrer noopener" target="_blank">Ales Hadac</a>
+</td></tr>
+<tr>
+<td>Messenger 1</td>
+<td><a class="external text" href="http://www.imdb.com/name/nm10934668/" rel="noreferrer noopener" target="_blank">Stepan Kincl</a>
+</td></tr>
+<tr>
+<td>Messenger 5</td>
+<td><a class="external text" href="http://www.imdb.com/name/nm10934671/" rel="noreferrer noopener" target="_blank">Tomas Komanski</a>
+</td></tr>
+<tr>
+<td>Messenger 2</td>
+<td><a class="external text" href="http://www.imdb.com/name/nm10934669/" rel="noreferrer noopener" target="_blank">Ondrej Pospisil</a>
+</td></tr>
+<tr>
+<td>Orc 2</td>
+<td><a class="external text" href="http://www.imdb.com/name/nm8555394/" rel="noreferrer noopener" target="_blank">Stepan Radima</a>
+</td></tr>
+<tr>
+<td><a href="../C/Cirion.md" title="Cirion">Cirion</a></td>
+<td><a class="external text" href="http://www.imdb.com/name/nm1770320/" rel="noreferrer noopener" target="_blank">Zdenek Tomes</a>
+</td></tr>
+<tr>
+<td>Librarian</td>
+<td><a class="external text" href="http://www.imdb.com/name/nm1735014/" rel="noreferrer noopener" target="_blank">Ludek Zilka</a>
+</td></tr></tbody></table>
+
+## Phi hành đoàn {#Crew}
+
+- Đạo diễn: <a class="external text" href="http://www.imdb.com/name/nm7956943/" rel="noreferrer noopener" target="_blank">Simon Pesta</a>
+- Nhà đồng sản xuất:
+    - Victor Formosa
+    - Adam Pesta
+- Trợ lý Giám đốc thứ nhất: Irene Maffei
+- Trợ lý sản xuất: Tomas Stehlik
+
+Nhạc của <a class="external text" href="http://www.imdb.com/name/nm7739226/" rel="noreferrer noopener" target="_blank">Petr Kubelik</a>. Xem: <i><a class="external text" href="http://www.youtube.com/playlist?list=PLFB7xQHB6Y9Cdk-6CNxSRgX2NT8f1Ti6M" rel="noreferrer noopener" target="_blank">Sừng của Gondor Nhạc phim gốc</a></i>.
+
+## Đoạn giới thiệu {#Trailer}
+
+<figure class="embedvideo" data-service="youtube" style="width:640px"><span class="embedvideo-wrapper" style="height:360px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; autoplay" modestbranding="1" allowfullscreen="true" width="640" height="360" src="//www.youtube-nocookie.com/embed/xeXet09ZGoU"></iframe></span>
+<p class="mw-empty-elt"></p>
+</figure>
+
+## Liên kết ngoài {#External_links}
+
+- <b><a class="external text" href="http://www.facebook.com/hornofgondorfilm" rel="noreferrer noopener" target="_blank">Facebook chính thức</a></b>
+- <a class="external text" href="http://www.imdb.com/title/tt10852750/" rel="noreferrer noopener" target="_blank">Sừng của Gondor</a> tại <a class="external text" href="http://www.imdb.com/" rel="noreferrer noopener" target="_blank">IMDb</a>
+
+<br clear="all"/>
+
+<table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" align="center">
+<tbody><tr>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>-related fan films</b>
+</td></tr>
+<tr>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2003</b>
+</td>
+<td style="font-size: 90%;" align="left"><i><a href="../B/Bogans.md" title="Bogans">Bogans</a></i> · <i><a href="../T/The_Two_Towers%253A_The_Purist_Edit.md" title="The Two Towers: The Purist Edit">The Two Towers: The Purist Edit</a></i>
+</td></tr>
+<tr>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2004</b>
+</td>
+<td style="font-size: 90%;" align="left"><i><a href="../M/Mr._Bliss_(2004_film).md" title="Mr. Bliss (2004 film)">Mr. Bliss</a></i> · <i><a href="../T/The_Ring_Thing.md" title="The Ring Thing">The Ring Thing</a></i>
+</td></tr>
+<tr>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2005</b>
+</td>
+<td style="font-size: 90%;" align="left"><i><a href="../A/Almost_There_And_Back_Again.md" title="Almost There And Back Again">Almost There And Back Again</a></i>
+</td></tr>
+<tr>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2007</b>
+</td>
+<td style="font-size: 90%;" align="left"><i><a href="../T/The_Peril_to_the_Shire.md" title="The Peril to the Shire">The Peril to the Shire</a></i> · <i><a href="../J/Journey_in_the_Woods.md" title="Journey in the Woods">Journey in the Woods</a></i>
+</td></tr>
+<tr>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2009</b>
+</td>
+<td style="font-size: 90%;" align="left"><i><a href="../B/Born_of_Hope.md" title="Born of Hope">Born of Hope</a></i> · <i><a href="Halifirien%253A_The_Hallowed_Mountain.md" title="Halifirien: The Hallowed Mountain">Halifirien: The Hallowed Mountain</a></i> · <i><a href="../T/The_Hunt_for_Gollum.md" title="The Hunt for Gollum">The Hunt for Gollum</a></i>
+</td></tr>
+<tr>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2011</b>
+</td>
+<td style="font-size: 90%;" align="left"><i><a href="../W/Wings_Over_Arda%253A_The_First_Age.md" title="Wings Over Arda: The First Age">Wings Over Arda: The First Age</a></i>
+</td></tr>
+<tr>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2013</b>
+</td>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Beren_%26_L%C3%BAthien_(short_film)&amp;action=edit&amp;redlink=1" title="Beren &amp; Lúthien (short film) (page does not exist)">Beren &amp; Lúthien</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Rise_of_the_Nazg%C3%BBl&amp;action=edit&amp;redlink=1" title="The Rise of the Nazgûl (page does not exist)">The Rise of the Nazgûl</a></i> · <i><a href="../D/Diari_dalla_terza_Era.md" title="Diari dalla terza Era">Third Age Journals</a></i>
+</td></tr>
+<tr>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2014</b>
+</td>
+<td style="font-size: 90%;" align="left"><i><a href="../T/Tolkien&#39;s_Road.md" title="Tolkien&#39;s Road">Tolkien&#39;s Road</a></i>
+</td></tr>
+<tr>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2015</b>
+</td>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ainulindal%C3%AB_(short_film)&amp;action=edit&amp;redlink=1" title="Ainulindalë (short film) (page does not exist)">Ainulindalë</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tulisielu&amp;action=edit&amp;redlink=1" title="Tulisielu (page does not exist)">Soul of Fire</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Price_of_Peace&amp;action=edit&amp;redlink=1" title="The Price of Peace (page does not exist)">The Price of Peace</a></i>
+</td></tr>
+<tr>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2016</b>
+</td>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Dagor_Dagorath_(short_film)&amp;action=edit&amp;redlink=1" title="Dagor Dagorath (short film) (page does not exist)">Dagor Dagorath</a></i>
+</td></tr>
+<tr>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2017</b>
+</td>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Angbandin_Saarto&amp;action=edit&amp;redlink=1" title="Angbandin Saarto (page does not exist)">The Siege of Angband</a></i>
+</td></tr>
+<tr>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2018</b>
+</td>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Beren_%26_L%C3%BAthien_(fan_film)&amp;action=edit&amp;redlink=1" title="Beren &amp; Lúthien (fan film) (page does not exist)">Beren &amp; Lúthien</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Return_of_the_Ring_(fan_film)&amp;action=edit&amp;redlink=1" title="The Return of the Ring (fan film) (page does not exist)">The Return of the Ring</a></i>
+</td></tr>
+<tr>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2019</b>
+</td>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=H%C3%BArinin_Lasten_Tarina&amp;action=edit&amp;redlink=1" title="Húrinin Lasten Tarina (page does not exist)">The Children of Húrin</a></i>
+</td></tr>
+<tr>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2020</b>
+</td>
+<td style="font-size: 90%;" align="left"><i><a class="mw-selflink selflink">Horn of Gondor</a></i>
+</td></tr>
+<tr>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2022</b>
+</td>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Battles_of_the_Fords_of_Isen_(fan_film)&amp;action=edit&amp;redlink=1" title="Battles of the Fords of Isen (fan film) (page does not exist)">Battles of the Fords of Isen</a></i>
+</td></tr>
+<tr>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2024</b>
+</td>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Gondolinin_Tuho&amp;action=edit&amp;redlink=1" title="Gondolinin Tuho (page does not exist)">The Fall of Gondolin</a></i>
+</td></tr>
+<tr>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2025</b>
+</td>
+<td style="font-size: 90%;" align="left"><i><a href="../T/The_Beacons.md" title="The Beacons">The Beacons</a></i>
+</td></tr>
+<tr>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>Unknown</b>
+</td>
+<td style="font-size: 90%;" align="left"><i><a href="../T/The_Legend_of_Gurthang.md" title="The Legend of Gurthang">The Legend of Gurthang</a></i>
+</td></tr></tbody></table>

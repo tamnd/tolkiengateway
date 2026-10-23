@@ -1,0 +1,13 @@
+---
+title: "File:Exodus.jpg"
+page_id: 74639
+namespace: 6
+revision_id: 439231
+source_url: "https://tolkiengateway.net/wiki/File:Exodus.jpg"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "File:Old English Exodus 1982.jpg"
+---
+
+Chuyển hướng tới [Tệp:tiếng Anh cổ Exodus 1982.jpg](../O/Old_English_Exodus_1982.jpg.md).

@@ -1,0 +1,13 @@
+---
+title: "J.R.R. Tolkien - Master of the Rings Gift Set"
+page_id: 23335
+namespace: 0
+revision_id: 86377
+source_url: "https://tolkiengateway.net/wiki/J.R.R._Tolkien_-_Master_of_the_Rings_Gift_Set"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Master of the Rings: The Unauthorized Story Behind J.R.R. Tolkien's 'Lord of the Rings'"
+---
+
+Chuyển hướng đến [Bậc thầy những chiếc nhẫn: Câu chuyện trái phép đằng sau 'Chúa tể những chiếc nhẫn'](../M/Master_of_the_Rings%253A_The_Unauthorized_Story_Behind_J.R.R._Tolkien's_'Lord_of_the_Rings'.md) của J.R.R. Tolkien.

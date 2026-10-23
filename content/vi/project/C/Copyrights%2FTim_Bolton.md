@@ -1,0 +1,19 @@
+---
+title: "Tolkien Gateway:Copyrights/Tim Bolton"
+page_id: 62628
+namespace: 4
+revision_id: 353774
+timestamp: "2022-08-23T22:37:24Z"
+source_url: "https://tolkiengateway.net/wiki/Tolkien_Gateway:Copyrights/Tim_Bolton"
+content_sha256: ae880e99ed8a717a283b972804874494ded28adde9e491d9d5573fffc7214247
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Evidence of permission granted by copyright holders"
+sort_keys:
+  "Evidence of permission granted by copyright holders": "Bolton, Tim"
+---
+
+- Tim Bolton đã vui lòng cho phép sử dụng <a class="new" href="https://tolkiengateway.net/w/index.php?title=Category:Images_by_Tim_Bolton&amp;action=edit&amp;redlink=1" title="Category:Images by Tim Bolton (page does not exist)">tác phẩm nghệ thuật của ông</a> trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Ngày: 19 tháng 8 năm 2022
+- Người dùng đã xin phép qua tin nhắn Twitter: [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

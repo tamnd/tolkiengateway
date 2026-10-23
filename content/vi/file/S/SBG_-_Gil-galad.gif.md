@@ -1,0 +1,35 @@
+---
+title: "File:SBG - Gil-galad.gif"
+page_id: 11783
+namespace: 6
+revision_id: 203877
+timestamp: "2012-07-09T23:24:23Z"
+source_url: "https://tolkiengateway.net/wiki/File:SBG_-_Gil-galad.gif"
+content_sha256: 2890907606e5194009d2fe2a36ec6f1df0eb1ec7135885510c4d35ba8f70be3e
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images of SBG miniatures"
+  - "Images of Gil-galad"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/8/80/SBG_-_Gil-galad.gif"
+  mime: "image/gif"
+  size: 9177
+  width: 92
+  height: 206
+  sha1: "f203a57cc6364facb4ad172c2c2538b58a554e34"
+  timestamp: "2006-08-29T01:43:04Z"
+  user: "Narfil Palùrfalas"
+---
+
+<br>
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
+<p>This work is copyrighted and owned by <a class="external text" href="http://www.games-workshop.com/" rel="noreferrer noopener" target="_blank">Games Workshop</a>. It is believed that the limited use of this file,
+</p>
+<ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

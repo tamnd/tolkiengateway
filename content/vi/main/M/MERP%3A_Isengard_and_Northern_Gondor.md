@@ -1,0 +1,13 @@
+---
+title: "MERP: Isengard and Northern Gondor"
+page_id: 29479
+namespace: 0
+revision_id: 130813
+source_url: "https://tolkiengateway.net/wiki/MERP:_Isengard_and_Northern_Gondor"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Isengard and Northern Gondor"
+---
+
+Chuyển hướng tới [Isengard và miền Bắc Gondor](../I/Isengard_and_Northern_Gondor.md).

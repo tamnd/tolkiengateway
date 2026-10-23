@@ -1,0 +1,85 @@
+---
+title: "24 August"
+page_id: 19021
+namespace: 0
+revision_id: 441397
+timestamp: "2026-08-22T08:56:12Z"
+source_url: "https://tolkiengateway.net/wiki/24_August"
+content_sha256: 4a682defb0b47f97a193b307d5a1f2b17864359edfaf2e025c1b0a98c945cc26
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Event cards"
+  - "Dates"
+sort_keys:
+  "Dates": "237"
+langlinks:
+  - lang: "de"
+    name: "Deutsch"
+    title: "24. August"
+    url: "https://www.ardapedia.org/wiki/24._August"
+  - lang: "fi"
+    name: "suomi"
+    title: "24. elokuuta"
+    url: "https://kontu.wiki/24._elokuuta"
+images:
+  - "Stephen_Fry.jpg"
+---
+
+<div class="template-month floatright"><div class="tg-card tg-event-card" style=""><div class="tg-card-image"><div class="tg-card-background"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/d/d6/Stephen_Fry.jpg/400px-Stephen_Fry.jpg" decoding="async" loading="lazy" width="400" height="318" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d6/Stephen_Fry.jpg/600px-Stephen_Fry.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d6/Stephen_Fry.jpg/800px-Stephen_Fry.jpg 2x" data-file-width="2392" data-file-height="1904"/></span></span></div><div class="tg-card-label"><span><span class="tg-event-card-year">1957</span><span class="tg-event-card-month">AUG</span><span class="tg-event-card-day">24</span></span></div><div class="tg-card-content"><div class="tg-card-title">Actor Stephen Fry is born</div><div class="tg-card-caption">On Earth</div></div><div class="tg-card-link"><a href="../S/Stephen_Fry.md" title="Stephen Fry">Stephen Fry</a></div></div></div><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=24_August/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Edit curated event</a></div><div class="tg-section-divider"><span><a href="../A/August.md" title="August">August</a></span></div>
+<div class="template-month__grid">
+<div class="template-month__day"><a href="1_August.md" title="1 August">1</a></div>
+<div class="template-month__day"><a href="2_August.md" title="2 August">2</a></div>
+<div class="template-month__day"><a href="3_August.md" title="3 August">3</a></div>
+<div class="template-month__day"><a href="4_August.md" title="4 August">4</a></div>
+<div class="template-month__day"><a href="5_August.md" title="5 August">5</a></div>
+<div class="template-month__day"><a href="6_August.md" title="6 August">6</a></div>
+<div class="template-month__day"><a href="7_August.md" title="7 August">7</a></div>
+<div class="template-month__day"><a href="8_August.md" title="8 August">8</a></div>
+<div class="template-month__day"><a href="9_August.md" title="9 August">9</a></div>
+<div class="template-month__day"><a href="10_August.md" title="10 August">10</a></div>
+<div class="template-month__day"><a href="11_August.md" title="11 August">11</a></div>
+<div class="template-month__day"><a href="12_August.md" title="12 August">12</a></div>
+<div class="template-month__day"><a href="13_August.md" title="13 August">13</a></div>
+<div class="template-month__day"><a href="14_August.md" title="14 August">14</a></div>
+<div class="template-month__day"><a href="15_August.md" title="15 August">15</a></div>
+<div class="template-month__day"><a href="16_August.md" title="16 August">16</a></div>
+<div class="template-month__day"><a href="17_August.md" title="17 August">17</a></div>
+<div class="template-month__day"><a href="18_August.md" title="18 August">18</a></div>
+<div class="template-month__day"><a href="19_August.md" title="19 August">19</a></div>
+<div class="template-month__day"><a href="20_August.md" title="20 August">20</a></div>
+<div class="template-month__day"><a href="21_August.md" title="21 August">21</a></div>
+<div class="template-month__day"><a href="22_August.md" title="22 August">22</a></div>
+<div class="template-month__day"><a href="23_August.md" title="23 August">23</a></div>
+<div class="template-month__day"><a class="mw-selflink selflink">24</a></div>
+<div class="template-month__day"><a href="25_August.md" title="25 August">25</a></div>
+<div class="template-month__day"><a href="26_August.md" title="26 August">26</a></div>
+<div class="template-month__day"><a href="27_August.md" title="27 August">27</a></div>
+<div class="template-month__day"><a href="28_August.md" title="28 August">28</a></div>
+<div class="template-month__day"><a href="29_August.md" title="29 August">29</a></div>
+<div class="template-month__day"><a href="30_August.md" title="30 August">30</a></div>
+<div class="template-month__day"><a href="31_August.md" title="31 August">31</a></div>
+</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
+</div>
+
+Sự kiện xảy ra vào ngày 24 tháng 8
+
+## Trên Trái đất {#On_Earth}
+
+- **[1917](1917.md)** - [Edith Tolkien](../E/Edith_Tolkien.md) viết lá thư đầu tiên cho chồng mình tại Brooklands Officers' từ Cheltenham.
+- **[1951](1951.md)** - Tác giả [Orson Scott Card](../O/Orson_Scott_Card.md) ra đời.
+- **[1957](1957.md)** - Diễn viên [Stephen Fry](../S/Stephen_Fry.md) ra đời.
+- **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 275a](../L/Letter_275a.md).
+- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cho mượn [Rayner Unwin](../R/Rayner_Unwin.md) bản đọc của *[The End of Bovadium](../T/The_End_of_Bovadium.md)*.
+- **[1973](1973.md)** - Nữ diễn viên [Grey DeLisle](../G/Grey_DeLisle.md) ra đời.
+- **[1974](1974.md)** - [Mythcon 5](../M/Mythcon_5.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Scripps_College" title="wikipedia:Scripps College">Scripps College</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Claremont,_California" title="wikipedia:Claremont, California">Claremont</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
+- **[1992](1992.md)** - [Tolkien Hội nghị trăm năm](../T/Tolkien_Centenary_Conference.md), sự kết hợp giữa [Oxonmoot](../O/Oxonmoot.md) và [Mythcon](../M/Mythcon.md).
+- **[1998](1998.md)** - *[CarolinaCon Regional MECCG Newsletter](../C/CarolinaCon_Regional_MECCG_Newsletter.md)* số 2 được xuất bản.
+- **[2006](2006.md)** - [Hội thảo Oxford Tolkien](../T/The_Oxford_Tolkien_Conference.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College, Oxford</a>.
+- **[2007](2007.md)** - *[The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "The City of Kings" được phát hành ở Châu Âu.
+
+## Trong Arda {#In_Arda}
+
+- [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

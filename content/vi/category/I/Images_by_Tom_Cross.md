@@ -1,0 +1,17 @@
+---
+title: "Category:Images by Tom Cross"
+page_id: 9260
+namespace: 14
+revision_id: 182197
+timestamp: "2012-01-03T20:42:11Z"
+source_url: "https://tolkiengateway.net/wiki/Category:Images_by_Tom_Cross"
+content_sha256: d0a29dd194c8454343d378bb0e8c26dcd6b2ae21257204aaec04383141e80744
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by artist"
+sort_keys:
+  "Images by artist": "Cross, Tom"
+---
+
+Thể loại này liệt kê tất cả **hình ảnh của [Tom Cross](../../main/T/Tom_Cross.md)**.

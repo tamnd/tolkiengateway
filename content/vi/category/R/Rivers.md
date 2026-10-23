@@ -1,0 +1,17 @@
+---
+title: "Category:Rivers"
+page_id: 1042
+namespace: 14
+revision_id: 195480
+timestamp: "2012-06-13T18:10:54Z"
+source_url: "https://tolkiengateway.net/wiki/Category:Rivers"
+content_sha256: 1a56ad73cb07fb9bc961977ebffa3eaa1749d0c15a4d3930e0e9f80e7ff326f3
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Bodies of water"
+---
+
+Danh mục này liệt kê tất cả **Sông** trong Arda.
+
+- *See also [Index:Rivers](../../index/R/Rivers.md)*

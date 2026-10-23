@@ -1,0 +1,35 @@
+---
+title: "File:The Lord of the Rings Online - Celebrimbor.jpg"
+page_id: 64651
+namespace: 6
+revision_id: 372141
+timestamp: "2023-04-16T08:27:07Z"
+source_url: "https://tolkiengateway.net/wiki/File:The_Lord_of_the_Rings_Online_-_Celebrimbor.jpg"
+content_sha256: 4a0ad2b1088120d8fd1c99af855df24865dd12ca33038c17095f5d07302cb633
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images from The Lord of the Rings Online"
+  - "Images of Celebrimbor"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/7/73/The_Lord_of_the_Rings_Online_-_Celebrimbor.jpg"
+  mime: "image/jpeg"
+  size: 241685
+  width: 570
+  height: 1080
+  sha1: "6380dff2fe4342f3e1322a27973e916b9593ccac"
+  timestamp: "2023-04-16T08:27:07Z"
+  user: "Malachi"
+---
+
+## Tóm tắt {#Summary}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
+<p>This work is copyrighted and owned by <a class="external text" href="http://standingstonegames.com/" rel="noreferrer noopener" target="_blank">Standing Stone Games</a>. It is believed that the limited use of this file,
+</p>
+<ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

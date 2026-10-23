@@ -1,0 +1,36 @@
+---
+title: "File:Liz Danforth - Marhwini.jpg"
+page_id: 29858
+namespace: 6
+revision_id: 203328
+timestamp: "2012-07-09T18:15:30Z"
+source_url: "https://tolkiengateway.net/wiki/File:Liz_Danforth_-_Marhwini.jpg"
+content_sha256: 8bfe8fa77cf5844d64f61ecff8c0c1bee82e7411c6e0e7fdd3046738d542b8e3
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images from MERP"
+  - "Images of Marhwini"
+  - "Images by Liz Danforth"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/1/14/Liz_Danforth_-_Marhwini.jpg"
+  mime: "image/jpeg"
+  size: 23870
+  width: 278
+  height: 306
+  sha1: "62eedc83da27b4cc0db1379cfcbd8fac5176a76d"
+  timestamp: "2010-11-12T22:05:14Z"
+  user: "Ederchil"
+---
+
+## Giấy phép {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
+<p>This work is copyrighted and owned by <a class="external text" href="http://www.ironcrown.com/" rel="noreferrer noopener" target="_blank">Iron Crown Enterprises</a>. It is believed that the limited use of this file,
+</p>
+<ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

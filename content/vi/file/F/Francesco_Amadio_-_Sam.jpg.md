@@ -1,0 +1,34 @@
+---
+title: "File:Francesco Amadio - Sam.jpg"
+page_id: 48454
+namespace: 6
+revision_id: 258804
+timestamp: "2014-11-13T14:11:55Z"
+source_url: "https://tolkiengateway.net/wiki/File:Francesco_Amadio_-_Sam.jpg"
+content_sha256: 1e2ef42a3a96e8402ee53cdc83633714c9745ac37e9d499367f0ec836fa27ebe
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Francesco Amadio"
+  - "Images of Samwise Gamgee"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/9/97/Francesco_Amadio_-_Sam.jpg"
+  mime: "image/jpeg"
+  size: 251646
+  width: 900
+  height: 1484
+  sha1: "ad1ad5a35087a7089fda23702d6609f7967ba122"
+  timestamp: "2014-11-13T14:11:55Z"
+  user: "Mith"
+---
+
+## Giấy phép {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Francesco Amadio</span></span>
+<p>This work is copyrighted and owned by Francesco Amadio. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> Francesco Amadio</li>
+<li><b>Website:</b> <a class="external text" href="http://tolmancotton.deviantart.com/" rel="noreferrer noopener" target="_blank">Francesco Amadio on DeviantArt</a></li>
+<li><b><a href="../../project/C/Copyrights%252FFrancesco_Amadio.md" title="Tolkien Gateway:Copyrights/Francesco Amadio">Permission for use on Tolkien Gateway</a></b></li></ul></div>

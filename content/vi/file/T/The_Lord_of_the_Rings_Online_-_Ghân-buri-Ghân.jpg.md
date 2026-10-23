@@ -1,0 +1,35 @@
+---
+title: "File:The Lord of the Rings Online - Ghân-buri-Ghân.jpg"
+page_id: 58660
+namespace: 6
+revision_id: 378440
+timestamp: "2023-08-11T12:46:53Z"
+source_url: "https://tolkiengateway.net/wiki/File:The_Lord_of_the_Rings_Online_-_Ghân-buri-Ghân.jpg"
+content_sha256: 94f9bf5e6c5473da766a993fdc35689a0172313f9a0a00208d140dbc84cce0bc
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images from The Lord of the Rings Online"
+  - "Images of Ghân-buri-Ghân"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/5/59/The_Lord_of_the_Rings_Online_-_Gh%C3%A2n-buri-Gh%C3%A2n.jpg"
+  mime: "image/jpeg"
+  size: 210545
+  width: 560
+  height: 1080
+  sha1: "b84029bbf69d70dad1649e27ae2e702e4b29eddb"
+  timestamp: "2023-08-11T12:46:53Z"
+  user: "Malachi"
+---
+
+## Giấy phép {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
+<p>This work is copyrighted and owned by <a class="external text" href="http://standingstonegames.com/" rel="noreferrer noopener" target="_blank">Standing Stone Games</a>. It is believed that the limited use of this file,
+</p>
+<ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

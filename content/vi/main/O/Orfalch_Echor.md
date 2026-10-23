@@ -1,0 +1,104 @@
+---
+title: "Orfalch Echor"
+page_id: 4205
+namespace: 0
+revision_id: 404816
+timestamp: "2024-08-23T02:10:24Z"
+source_url: "https://tolkiengateway.net/wiki/Orfalch_Echor"
+content_sha256: 3d5d9e6f65cbb110c3bd5e72d567a7e74605dabbae6f5b592f2cd0f63c32b71e
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Cliffs and ravines"
+  - "Gondolin"
+  - "Passes"
+  - "Sindarin locations"
+langlinks:
+  - lang: "fr"
+    name: "français"
+    title: "encyclo/geographie/routes/orfalch echor"
+    url: "https://www.tolkiendil.com/encyclo/geographie/routes/orfalch_echor"
+images:
+  - "Alarie_-_The_First_Gate.jpg"
+---
+
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alarie_-_The_First_Gate.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b6/Alarie_-_The_First_Gate.jpg/250px-Alarie_-_The_First_Gate.jpg" decoding="async" loading="lazy" width="250" height="188" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b6/Alarie_-_The_First_Gate.jpg/375px-Alarie_-_The_First_Gate.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b6/Alarie_-_The_First_Gate.jpg/500px-Alarie_-_The_First_Gate.jpg 2x" data-file-width="1024" data-file-height="769"/></a><figcaption><i>The First Gate</i> by <a href="../../category/I/Images_by_Alarie.md" title="Category:Images by Alarie">Alarie</a></figcaption></figure>
+
+**Orfalch Echor** là khe núi lớn xuyên qua [Sông khô](../D/Dry_River.md) của [Vòng vây Dãy Núi](../E/Encircling_Mountains.md) nơi [Gondolin](../G/Gondolin.md) được tiếp cận.
+
+## Lịch sử {#History}
+
+Orfalch Echor là tuyến đường mà [Elemmakil](../E/Elemmakil.md) dẫn [Tuor](../T/Tuor.md) và [Voronwë](../V/Voronwë.md) đi qua để gặp [Ecthelion của Đài phun nước](../E/Ecthelion.md). Ở đầu dưới của nó là Cổng thứ nhất, [Cổng gỗ](../G/Gate_of_Wood.md). Orfalch tiếp tục đi qua phần còn lại của [Bảy Cánh Cổng của Gondolin](../S/Seven_Gates_of_Gondolin.md), đến Cổng thứ bảy, [Cổng thép](../G/Gate_of_Steel.md). Ở đầu phía trên là một khu vực cao cho tầm nhìn ra [Tumladen](../T/Tumladen.md) và thành phố ở trung tâm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+
+Trong khi [Húrin](../H/Húrin.md) [lang thang](../T/The_Wanderings_of_Húrin.md), anh ấy đã gặp Orfalch Echor, chỉ để tìm ra Lối thoát cũ bị chôn vùi bên dưới *"một tảng đá lớn rơi bên dưới bức tường đá dựng đứng"*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+
+## Từ nguyên {#Etymology}
+
+Tên *Orfalch Echor* được Paul Strack đề xuất là sự kết hợp của [Noldorin](../N/Noldorin.md) *or* ("ở trên"), *falch* ("khe hở") và *echor* ("vòng tròn bên ngoài"), có lẽ có nghĩa là "Kẽ hở cao của vòng tròn bên ngoài".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+
+## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
+
+Trong *[The Book of Lost Tales](<../T/The_Fall_of_Gondolin_(chapter).md>)*, **Lối thoát** là lối vào chính của [Gondolin](../G/Gondolin.md)và nó không phải là một khe núi tự nhiên mà thay vào đó được xây dựng bởi [Gondothlim](../G/Gondothlim.md) để những [Noldoli](../N/Noldoli.md) trốn thoát khỏi [Melko](../M/Melko.md)<sup id="cite_ref-LT_5-0" class="reference"><a href="#cite_note-LT-5">[5]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:163</sup> sử dụng và như một lối thoát trong trường hợp thành phố bị tấn công, như thực tế cuối cùng đã xảy ra. Vì [Meglin](../M/Maeglin.md) phản quốc, Melko biết được con đường này nên rất nhiều người sống sót đã bị quái vật giết chết ở đó khi cố gắng trốn thoát nhanh chóng bất chấp lời cảnh báo của [Idril](../I/Idril.md).<sup id="cite_ref-LT_5-1" class="reference"><a href="#cite_note-LT-5">[5]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:189</sup>
+
+Cách này còn được gọi là *Bad Uthwen* trong [Gnomish](../G/Gnomish.md) và *Uswevandë* trong [Qenya](../Q/Qenya.md).<sup id="cite_ref-LT_5-2" class="reference"><a href="#cite_note-LT-5">[5]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:336</sup>
+
+<span></span>
+
+## Tài liệu tham khảo {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Of Tuor and his Coming to Gondolin</a>&#34;</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="Of_Tuor_and_the_Fall_of_Gondolin.md" title="Of Tuor and the Fall of Gondolin">Of Tuor and the Fall of Gondolin</a>&#34;</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Three. The Wanderings of Húrin and Other Writings not forming part of the <i>Quenta Silmarillion</i>: I. <a href="../T/The_Wanderings_of_Húrin.md" title="The Wanderings of Húrin">The Wanderings of Húrin</a>&#34;, pp. 271, 302</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Paul Strack</span>. <span class="cite-web-article"><a class="external text" href="http://eldamo.org/content/words/word-677947469.html" rel="noreferrer noopener" target="_blank">&#34;S. <i>Orfalch Echor</i> loc.&#34;</a></span>. <span class="cite-web-website"><a href="../E/Eldamo.md" title="Eldamo">Eldamo - An Elvish Lexicon</a></span>. <span class="cite-web-accessed">Retrieved 16 March 2019</span></cite></span>
+</li>
+<li id="cite_note-LT-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LT_5-0">5.0</a></sup> <sup><a href="#cite_ref-LT_5-1">5.1</a></sup> <sup><a href="#cite_ref-LT_5-2">5.2</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_Two.md" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i>, &#34;III. <a href="../T/The_Fall_of_Gondolin_(chapter).md" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a>&#34;</span>
+</li>
+</ol></div>
+
+<table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
+<tbody><tr>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="../G/Gondolin.md" title="Gondolin">Realm of Gondolin</a></b>
+</th></tr>
+<tr>
+<td align="center" style="background: var(--tg-color-surface-4); font-size: 90%;" colspan="3"><i>Ondolindë</i> · Hidden City · City of Seven Names
+</td></tr>
+<tr>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Outside locations
+</th>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a class="mw-redirect" href="../A/Amon_Gwared.md" title="Amon Gwared">Amon Gwared</a> · <a href="../A/Anghabar.md" title="Anghabar">Anghabar</a> · <a href="../E/Echoriad.md" title="Echoriad">Echoriad</a> (<a href="../C/Crissaegrim.md" title="Crissaegrim">Crissaegrim</a> · <a href="../E/Eithel_Nínui.md" title="Eithel Nínui">Eithel Nínui</a> · <a href="../F/Fingolfin&#39;s_Cairn.md" title="Fingolfin&#39;s Cairn">Fingolfin&#39;s cairn</a>) · <a href="../S/Seven_Gates_of_Gondolin.md" title="Seven Gates of Gondolin">Seven Gates of Gondolin</a> (<a href="../G/Gate_of_Wood.md" title="Gate of Wood">Gate of Wood</a> · <a href="../G/Gate_of_Stone.md" title="Gate of Stone">Gate of Stone</a> · <a href="../G/Gate_of_Bronze.md" title="Gate of Bronze">Gate of Bronze</a> · <a href="../G/Gate_of_Writhen_Iron.md" title="Gate of Writhen Iron">Gate of Writhen Iron</a> · <a href="../G/Gate_of_Silver.md" title="Gate of Silver">Gate of Silver</a> · <a href="../G/Gate_of_Gold.md" title="Gate of Gold">Gate of Gold</a> · <a href="../G/Gate_of_Steel.md" title="Gate of Steel">Gate of Steel</a>) · <a class="mw-selflink selflink">Orfalch Echor</a> · <a href="../T/Tumladen.md" title="Tumladen">Tumladen</a>
+</td></tr>
+<tr>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Inside locations
+</th>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Alley_of_Roses.md" title="Alley of Roses">Alley of Roses</a> · <a href="../A/Arch_of_Inwë.md" title="Arch of Inwë">Arch of Inwë</a> · <a href="../C/Caragdûr.md" title="Caragdûr">Caragdûr</a> · <a href="../F/Fountains_of_the_South.md" title="Fountains of the South">Fountains of the South</a> · <a href="../G/Gar_Ainion.md" title="Gar Ainion">Gar Ainion</a> · <a href="../G/Great_Market.md" title="Great Market">Great Market</a> · <a href="../L/Lesser_Market.md" title="Lesser Market">Lesser Market</a> · <a href="../I/Idril&#39;s_secret_way.md" title="Idril&#39;s secret way">Idril&#39;s secret way</a> · <a href="../S/Square_of_the_Palace.md" title="Square of the Palace">Place of the Fountain</a> · <a href="../P/Place_of_the_Well.md" title="Place of the Well">Place of the Well</a> · <a href="../R/Road_of_Arches.md" title="Road of Arches">Road of Arches</a> · <a href="../R/Road_of_Pomps.md" title="Road of Pomps">Road of Pomps</a> · <a href="../T/Tower_of_the_King.md" title="Tower of the King">Tower of the King</a> · <a href="../W/Way_of_Running_Waters.md" title="Way of Running Waters">Way of Running Waters</a>
+</td></tr>
+<tr>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Objects
+</th>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Anguirel.md" title="Anguirel">Anguirel</a> · <a class="mw-redirect" href="../A/Axe_of_Tuor.md" title="Axe of Tuor">Axe of Tuor</a> · <a href="../C/Crown_of_the_Hidden_Kingdom.md" title="Crown of the Hidden Kingdom">Crown of the Hidden Kingdom</a> · <a href="../E/Elfstone.md" title="Elfstone">Elfstone</a> · <a href="../G/Glamdring.md" title="Glamdring">Glamdring</a> · <a href="../G/Glingal_and_Belthil.md" title="Glingal and Belthil">Glingal and Belthil</a> · <a href="Orcrist.md" title="Orcrist">Orcrist</a> · <a href="../S/Sting.md" title="Sting">Sting</a>
+</td></tr>
+<tr>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../T/Twelve_houses_of_the_Gondothlim.md" title="Twelve houses of the Gondothlim">Houses</a>
+</th>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../H/House_of_the_King.md" title="House of the King">House of the King</a> · <a href="../H/House_of_the_Wing.md" title="House of the Wing">House of the Wing</a> · <a href="../H/House_of_the_Mole.md" title="House of the Mole">House of the Mole</a> · <a href="../H/House_of_the_Swallow.md" title="House of the Swallow">House of the Swallow</a> · <a href="../H/House_of_the_Heavenly_Arch.md" title="House of the Heavenly Arch">House of the Heavenly Arch</a> · <a href="../H/House_of_the_Pillar.md" title="House of the Pillar">House of the Pillar</a> · <a href="../H/House_of_the_Tower_of_Snow.md" title="House of the Tower of Snow">House of the Tower of Snow</a> · <a href="../H/House_of_the_Tree.md" title="House of the Tree">House of the Tree</a> · <a href="../H/House_of_the_Golden_Flower.md" title="House of the Golden Flower">House of the Golden Flower</a> · <a href="../H/House_of_the_Fountain.md" title="House of the Fountain">House of the Fountain</a> · <a href="../H/House_of_the_Harp.md" title="House of the Harp">House of the Harp</a> · <a href="../H/House_of_the_Hammer_of_Wrath.md" title="House of the Hammer of Wrath">House of the Hammer of Wrath</a>
+</td></tr>
+<tr>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;"><a href="../G/Gondolindrim.md" title="Gondolindrim">People</a>
+</th>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Aranwë.md" title="Aranwë">Aranwë</a> · <a href="../A/Aredhel.md" title="Aredhel">Aredhel</a> · <a href="../D/Dark_Guard.md" title="Dark Guard">Dark Guard</a> · <a href="../D/Duilin_(elf_of_Gondolin).md" title="Duilin (elf of Gondolin)">Duilin</a> · <a href="../E/Eärendil.md" title="Eärendil">Eärendil</a> · <a href="../E/Ecthelion.md" title="Ecthelion">Ecthelion</a> · <a href="../E/Egalmoth.md" title="Egalmoth">Egalmoth</a> · <a href="../E/Elemmakil.md" title="Elemmakil">Elemmakil</a> · <a href="../E/Elenwë.md" title="Elenwë">Elenwë</a> · <a href="../E/Enerdhil.md" title="Enerdhil">Enerdhil</a> · <a href="../E/Eöl.md" title="Eöl">Eöl</a> · <a class="mw-redirect" href="../L/Lothlim.md" title="Lothlim">Exiles of Gondolin</a> · <a href="../G/Galdor_(elf_of_Gondolin).md" title="Galdor (elf of Gondolin)">Galdor</a> · <a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a> · <a href="../H/Huor.md" title="Huor">Huor</a> · <a href="../H/Húrin.md" title="Húrin">Húrin</a> · <a href="../H/Hendor.md" title="Hendor">Hendor</a> · <a href="../I/Idril.md" title="Idril">Idril</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Iron_Guards&amp;action=edit&amp;redlink=1" title="Iron Guards (page does not exist)">Iron Guards</a> · <a href="../L/Legolas_(elf_of_Gondolin).md" title="Legolas (elf of Gondolin)">Legolas</a> · <a href="../M/Maeglin.md" title="Maeglin">Maeglin</a> · <a href="../M/Meleth_(nurse).md" title="Meleth (nurse)">Meleth</a> · <a href="../P/Pengolodh.md" title="Pengolodh">Pengolodh</a> · <a href="../P/Penlod.md" title="Penlod">Penlod</a> · <a href="../R/Rog.md" title="Rog">Rog</a> · <a href="../S/Salgant.md" title="Salgant">Salgant</a> · <a href="../T/Tuor.md" title="Tuor">Tuor</a> · <a href="../T/Turgon.md" title="Turgon">Turgon</a> · <a href="../U/Ulmo.md" title="Ulmo">Ulmo</a> · <a href="../V/Voronwë.md" title="Voronwë">Voronwë</a> · <a href="../W/Warden_of_the_Great_Gate.md" title="Warden of the Great Gate">Warden of the Great Gate</a>
+</td></tr>
+<tr>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Events
+</th>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../F/Fall_of_Gondolin.md" title="Fall of Gondolin">Fall of Gondolin</a> · <a href="../G/Gates_of_Summer.md" title="Gates of Summer">Gates of Summer</a> · <a href="../N/Nirnaeth_Arnoediad.md" title="Nirnaeth Arnoediad">Nirnaeth Arnoediad</a> · <a href="../U/Ulmo&#39;s_warning.md" title="Ulmo&#39;s warning">Ulmo&#39;s warning</a> · <a class="mw-redirect" href="../W/Wanderings_of_Húrin.md" title="Wanderings of Húrin">Wanderings of Húrin</a>
+</td></tr>
+<tr>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Main texts
+</th>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../T/The_Book_of_Lost_Tales.md" title="The Book of Lost Tales">Lost Tale</a> of <a href="../T/The_Fall_of_Gondolin_(chapter).md" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a> (<a href="../_/1916.md" title="1916">1916</a>-<a href="../_/1920.md" title="1920">20</a>) · <a href="../T/The_Lay_of_the_Fall_of_Gondolin.md" title="The Lay of the Fall of Gondolin">The Lay of the Fall of Gondolin</a> (c. 1920) · <a href="Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Of Tuor and his Coming to Gondolin</a> (<a href="../_/1950.md" title="1950">1950</a>) · <a href="Of_Tuor_and_the_Fall_of_Gondolin.md" title="Of Tuor and the Fall of Gondolin">Of Tuor and the Fall of Gondolin</a> (<a href="../_/1977.md" title="1977">1977</a>) · <i><a href="../T/The_Fall_of_Gondolin.md" title="The Fall of Gondolin">The Fall of Gondolin</a></i> (<a href="../_/2018.md" title="2018">2018</a>)
+</td></tr></tbody></table>

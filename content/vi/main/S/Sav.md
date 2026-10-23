@@ -1,0 +1,37 @@
+---
+title: "Sav"
+display_title: "sav"
+page_id: 22489
+namespace: 0
+revision_id: 407189
+timestamp: "2024-08-23T07:31:20Z"
+source_url: "https://tolkiengateway.net/wiki/Sav"
+content_sha256: e14749acdcd69b0fb3899ac66defcce3517e967b69673d032a5a7cc041e6f255
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Quenya verbs"
+---
+
+<i><b>savin</b></i> là [Quenya](../Q/Quenya.md) nghĩa là "Tôi tin" (ám chỉ sự tồn tại hoặc thực tế của một điều gì đó).
+
+## Từ nguyên {#Etymology}
+
+- [Gốc](Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=SAB&amp;action=edit&amp;redlink=1" title="SAB (page does not exist)">SAB</a><sup id="cite_ref-VT49_1-0" class="reference"><a href="#cite_note-VT49-1">[1]</a></sup>
+
+## Biểu mẫu {#Forms}
+
+- *savin* "Tôi tin rằng anh ấy/cô ấy/nó thực sự tồn tại/tồn tại"<sup id="cite_ref-VT49_1-1" class="reference"><a href="#cite_note-VT49-1">[1]</a></sup>
+
+## Ví dụ {#Examples}
+
+- *Savin Elessar - ar i náne aran Ondóreo* "Tôi tin rằng [Elessar](../A/Aragorn.md) thực sự tồn tại - và ông ấy là [vua của Gondor](../K/King_of_Gondor.md)"<sup id="cite_ref-VT49_1-2" class="reference"><a href="#cite_note-VT49-1">[1]</a></sup>
+
+<span></span>
+
+## Tài liệu tham khảo {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-VT49-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-VT49_1-0">1.0</a></sup> <sup><a href="#cite_ref-VT49_1-1">1.1</a></sup> <sup><a href="#cite_ref-VT49_1-2">1.2</a></sup></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_49.md" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007, p. 27</span>
+</li>
+</ol></div>

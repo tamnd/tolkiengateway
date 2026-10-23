@@ -1,0 +1,13 @@
+---
+title: "Sara M. Morello"
+page_id: 75013
+namespace: 0
+revision_id: 441704
+source_url: "https://tolkiengateway.net/wiki/Sara_M._Morello"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Category:Images by Sara M. Morello"
+---
+
+Chuyển hướng đến [Danh mục:Hình ảnh của Sara M. Morello](../../category/I/Images_by_Sara_M._Morello.md).

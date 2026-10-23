@@ -1,0 +1,17 @@
+---
+title: "Category:Images by Lída Holubová"
+page_id: 53675
+namespace: 14
+revision_id: 334017
+timestamp: "2021-07-30T14:48:45Z"
+source_url: "https://tolkiengateway.net/wiki/Category:Images_by_Lída_Holubová"
+content_sha256: 17b85354b727096240a945085eee5b66546863873d9020425cd33ab43bc99ebd
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by artist"
+sort_keys:
+  "Images by artist": "Holubová, Lída"
+---
+
+Thể loại này liệt kê tất cả **hình ảnh của [Lída Holubová](../../main/L/Lída_Holubová.md)**.

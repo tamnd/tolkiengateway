@@ -1,0 +1,34 @@
+---
+title: "File:Soni Alcorn-Hender - Filigree Minas Tirith.jpg"
+page_id: 54133
+namespace: 6
+revision_id: 293596
+timestamp: "2017-06-17T07:19:38Z"
+source_url: "https://tolkiengateway.net/wiki/File:Soni_Alcorn-Hender_-_Filigree_Minas_Tirith.jpg"
+content_sha256: 42bd4ae9fb9826137dcfaa2d3c4239344f3b0e73c0c30d440df7f5082b22b359
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Soni Alcorn-Hender"
+  - "Images of Minas Tirith"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/b/b4/Soni_Alcorn-Hender_-_Filigree_Minas_Tirith.jpg"
+  mime: "image/jpeg"
+  size: 410535
+  width: 496
+  height: 702
+  sha1: "b66ebebbb2678b325af588c61f28a1ca25f03726"
+  timestamp: "2017-06-17T07:19:38Z"
+  user: "Mith"
+---
+
+## Giấy phép {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Soni Alcorn-Hender</span></span>
+<p>This work is copyrighted and owned by Soni Alcorn-Hender. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> Soni Alcorn-Hender</li>
+<li><b>Website:</b> <a class="external text" href="http://www.bohemianweasel.com/" rel="noreferrer noopener" target="_blank">Soni Alcorn-Hender&#39;s website</a></li>
+<li><b><a href="../../project/C/Copyrights%252FSoni_Alcorn-Hender.md" title="Tolkien Gateway:Copyrights/Soni Alcorn-Hender">Permission for use on Tolkien Gateway</a></b></li></ul></div>

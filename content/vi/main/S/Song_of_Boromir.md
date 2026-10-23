@@ -1,0 +1,102 @@
+---
+title: "Song of Boromir"
+page_id: 13518
+namespace: 0
+revision_id: 427964
+timestamp: "2025-11-15T15:31:58Z"
+source_url: "https://tolkiengateway.net/wiki/Song_of_Boromir"
+content_sha256: da1f1692c8bddda1e5993223ab1759aee505a8299c5d8c5222c3a71419395d99
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Poems in The Two Towers"
+  - "Songs"
+langlinks:
+  - lang: "de"
+    name: "Deutsch"
+    title: "Klage um Boromir"
+    url: "https://www.ardapedia.org/wiki/Klage_um_Boromir"
+images:
+  - "CdxIconArticleDisambiguation.svg"
+  - "Anke_Eißmann_-_The_departure_of_Boromir.jpg"
+---
+
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the lament for <a href="../B/Boromir.md" title="Boromir">Boromir</a></b>. For the book chapter in <a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a>, see <b><a href="../T/The_Departure_of_Boromir.md" title="The Departure of Boromir">The Departure of Boromir</a></b>.</div></div>
+
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_The_departure_of_Boromir.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/46/Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg/250px-Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg" decoding="async" loading="lazy" width="250" height="191" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/46/Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg/375px-Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/46/Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg/500px-Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg 2x" data-file-width="850" data-file-height="648"/></a><figcaption>&#34;The departure of Boromir&#34; by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
+
+Bài **Bài ca Boromir**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là lời than thở được hát bởi [Aragorn](../A/Aragorn.md) và [Legolas](../L/Legolas.md) khi chiếc thuyền tang lễ của [Boromir](../B/Boromir.md) trôi đi.
+
+## Bài hát {#Song}
+
+<blockquote>
+<dl><dd>Aragorn sang:</dd></dl>
+<p><i>Through <a href="../R/Rohan.md" title="Rohan">Rohan</a> over fen and field where the long grass grows<br/></i>
+<i>The West Wind comes walking, and about the walls it goes. <br/></i>
+<i>‘What news from the West, O wandering wind, do you bring to me tonight? <br/></i>
+<i>Have you seen Boromir the Tall by moon or by starlight? <br/></i>
+<i>‘I saw him ride over seven streams, over waters wide and grey, <br/></i>
+<i>I saw him walk in empty lands until he passed away <br/></i>
+<i>Into the shadows of the North, I saw him then no more. <br/></i>
+<i>The North Wind may have heard the horn of the son of <a href="../D/Denethor.md" title="Denethor">Denethor</a>, <br/></i>
+<i>‘O Boromir! From the high walls westward I looked afar, <br/></i>
+<i>But you came not from the empty lands where no men are.’ <br/></i>
+<br/>
+</p>
+<dl><dd>Then Legolas sang:</dd></dl>
+<p><i>From the mouths of the <a href="../B/Bay_of_Belfalas.md" title="Bay of Belfalas">Sea</a> the South Wind flies, from the sandhills and the stones, <br/></i>
+<i>The wailing of the gulls it bears, and at the gate it moans. <br/></i>
+<i>‘What news from the South, O sighing wind, do you bring to me at eve? <br/></i>
+<i>Where now is Boromir the Fair? He tarries and I grieve. <br/></i>
+<i>‘Ask not of me where he doth dwell – so many bones there lie, <br/></i>
+<i>On the white shores and the dark shores under the stormy sky, <br/></i>
+<i>So many have passed down <a href="../A/Anduin.md" title="Anduin">Anduin</a> to find the flowing Sea. <br/></i>
+<i>Ask of the North Wind news of them the North Wind sends to me!’ <br/></i>
+<i>‘O Boromir! Beyond the gate the seaward road runs south, <br/></i>
+<i>But you came not with the wailing gulls from the grey sea’s mouth’. <br/></i>
+<br/>
+</p>
+<dl><dd>Then Aragorn sang again:</dd></dl>
+<p><i>From the <a href="../A/Argonath.md" title="Argonath">Gate of the Kings</a> the North Wind rides, and past the roaring falls, <br/></i>
+<i>And clear and cold about the tower its loud horn calls. <br/></i>
+<i>‘What news from the North, O mighty wind, do you bring to me today? <br/></i>
+<i>What news of Boromir the bold? For he is long away.’ <br/></i>
+<i>‘Beneath <a href="../A/Amon_Hen.md" title="Amon Hen">Amon Hen</a> I heard his cry. There many foes he fought, <br/></i>
+<i>His cloven shield, his broken sword, they to the water brought. <br/></i>
+<i>His head so proud, his face so fair, his limbs they laid to rest, <br/></i>
+<i>And <a href="../R/Rauros.md" title="Rauros">Rauros</a>, golden Rauros-falls, bore him upon its breast. <br/></i>
+<i>‘O Boromir! The <a class="mw-redirect" href="../T/Tower_of_Guard.md" title="Tower of Guard">Tower of Guard</a> shall ever northward gaze, <br/></i>
+<i>To Rauros, golden Rauros-falls, until the end of days.&#39; <br/></i>
+</p>
+</blockquote>
+
+[Gimli](../G/Gimli.md) sau đó nhận xét rằng họ để gió đông cho anh ấy, nhưng anh ấy sẽ không hát về nó. Aragorn đáp rằng người dân Gondor hứng gió đông nhưng không hỏi tin tức, vì hướng đó có [Mordor](../M/Mordor.md) và Ác quỷ ở trong phương Đông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+
+## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
+
+<b>2001: <a class="mw-redirect" href="../P/Pán_prsteňov_(2001-2003_Slovak_radio_series).md" title="Pán prsteňov (2001-2003 Slovak radio series)"><i>Pán prsteňov</i> (Loạt đài tiếng Slovak 2001-2003)</a>:</b>
+
+<dl><dd>The song, accompanied by a slow and mournful melody, appears during the watery funeral of Boromir, with Legolas (portrayed by Richard Stanke), Aragorn (portrayed by Boriš Farkaš) and Gimli (portrayed by Vladimír Hajdu) taking turns while singing.</dd></dl>
+
+## Xem thêm {#See_also}
+
+- [Bài thơ trong *The Lord of the Rings*](../P/Poems_in_The_Lord_of_the_Rings.md)
+
+## Liên kết ngoài {#External_links}
+
+- <a class="external text" href="https://www.youtube.com/watch?v=ONMEwDdatSM" rel="noreferrer noopener" target="_blank">Than tiếc cho Boromir do Adele McCallister hát</a>
+- <a class="external text" href="https://www.youtube.com/watch?v=kM8KIMYv4os" rel="noreferrer noopener" target="_blank">Bản trình diễn từ loạt đài phát thanh Slovakia những năm 2000</a> *(được hát bởi Richard Stanke trong vai Legolas, Boris Farkaš trong vai Aragorn, Vladimír Hajdu trong vai Gimli)*
+- <a class="external text" href="https://www.youtube.com/watch?v=LjPxuY9djhw" rel="noreferrer noopener" target="_blank">Than thở cho Boromir - Phiên bản nâng cao - Clamavi De Profundis</a>
+- <a class="external text" href="https://www.youtube.com/watch?v=vDN1sA3Fpqg" rel="noreferrer noopener" target="_blank">Karliene - Than thở cho Boromir</a>
+
+<span></span>
+
+## Tài liệu tham khảo {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a></i>, &#34;XIX. The Departure of Boromir&#34;, note 8</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/The_Departure_of_Boromir.md" title="The Departure of Boromir">The Departure of Boromir</a>&#34;</span>
+</li>
+</ol></div>

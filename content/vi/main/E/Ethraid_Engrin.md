@@ -1,0 +1,13 @@
+---
+title: "Ethraid Engrin"
+page_id: 3934
+namespace: 0
+revision_id: 372761
+source_url: "https://tolkiengateway.net/wiki/Ethraid_Engrin"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Fords of Isen"
+---
+
+Chuyển hướng tới [Ford của Isen](../F/Fords_of_Isen.md).

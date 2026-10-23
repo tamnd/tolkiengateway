@@ -1,0 +1,39 @@
+---
+title: "Yávë"
+display_title: "yávë"
+page_id: 30227
+namespace: 0
+revision_id: 326093
+timestamp: "2021-01-14T15:31:10Z"
+source_url: "https://tolkiengateway.net/wiki/Yávë"
+content_sha256: 9a0c2f2ee406c3ed1b756336138436f1d72413200795f66535b39f1f0cbfc5d0
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Quenya nouns"
+sort_keys:
+  "Quenya nouns": "Yave"
+---
+
+<i><b>yávë</b></i> có nghĩa là "trái cây" trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+
+## Từ nguyên {#Etymology}
+
+Từ này bắt nguồn từ [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=YAB&amp;action=edit&amp;redlink=1" title="YAB (page does not exist)">YAB</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+
+## Ví dụ {#Examples}
+
+- <i><a href="Yavanna.md#Etymology" title="Yavanna"><b>Yav</b>anna</a></i> = "Người tặng trái cây"
+- <i><a href="Yávië.md" title="Yávië"><b>yáv</b>ië</a></i> = "mùa thu, thu hoạch"
+- <i><a href="../A/Aia_María.md" title="Aia María">aistana i <b>yávë</b> món mónalyo</a></i> = "phúc thay con của bạn"
+
+<span></span>
+
+## Tài liệu tham khảo {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, entry <i>yávë</i></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 399</span>
+</li>
+</ol></div>

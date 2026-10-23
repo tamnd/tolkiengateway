@@ -1,0 +1,73 @@
+---
+title: "Mythlore 79"
+display_title: "<i>Mythlore</i> 79"
+page_id: 65895
+namespace: 0
+revision_id: 406709
+timestamp: "2024-08-23T06:18:08Z"
+source_url: "https://tolkiengateway.net/wiki/Mythlore_79"
+content_sha256: 167297bf4384ae1f4d6d78d7e16bc85be05ecd202dd99a6d7d3cd129e8601414
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Mythlore"
+hidden_categories:
+  - "Pages with non-sufficient width image in infobox"
+sort_keys:
+  "Pages with non-sufficient width image in infobox": "Mythlore 079"
+  "Mythlore": "Mythlore 079"
+images:
+  - "Mythlore_79.gif"
+  - "WikimediaUI-ArrowPrevious-ltr.svg"
+  - "WikimediaUI-ArrowNext-ltr.svg"
+infobox:
+  - label: "Editor"
+    value: "Glen GoodKnight"
+  - label: "Publisher"
+    value: "Mythopoeic Society"
+  - label: "Released"
+    value: "Summer 1995"
+  - label: "Format"
+    value: "Paperback"
+  - label: "Pages"
+    value: "67"
+  - label: "Preceded by"
+    value: "Mythlore 78"
+  - label: "Followed by"
+    value: "Mythlore 80"
+---
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_79.gif.md"><img src="https://tolkiengateway.net/w/images/6/69/Mythlore_79.gif" decoding="async" loading="lazy" width="225" height="292" class="mw-file-element" data-file-width="225" data-file-height="292"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 79</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Summer <a href="../_/1995.md" title="1995">1995</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">67</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_78.md" title="Mythlore 78">Mythlore 78</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a class="mw-redirect" href="Mythlore_80.md" title="Mythlore 80">Mythlore 80</a></td></tr></tbody></table>
+
+<b><i>Mythlore</i> 79</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol21/iss1/" rel="noreferrer noopener" target="_blank">Tập 21, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+
+## Nội dung {#Contents}
+
+#### Bài viết {#Articles}
+
+- Houghton, John. “Augustine và Ainulindale.”
+- Serrano, Amanda. "T.H. White Sự bảo vệ của Guenever: Chân dung của một con người 'thực sự'."
+- Cô đơn, Douglas. "C.S. Lewis Nợ E.M. Forster của *'The Celestial Omnibus' and Other Stories*."
+- Adderley, C. M. "Những vấn đề sơ bộ: Những khúc dạo đầu bị bỏ quên cho Charles Williams' Arthuriad."
+- Hill, Darci N. '"Quân đội Nhà thờ" sống lại: Các yếu tố thần thoại trong Ngôi đền của George Herbert.'
+- Smith, Arden R. "*Duzen* và *Ihrzen* trong bản dịch tiếng Đức của *The Lord of the Rings*."
+- Christopher, Joe R. "C.S. Lewis' Huyền thoại ngôn ngữ."
+- Simmons, Joe. “Nghệ thuật tưởng tượng và phụ nữ chiến binh: Một phê bình thẩm mỹ về hình ảnh nữ tính.”
+
+#### Tính năng {#Features}
+
+- Chúc ngủ ngon, Glen. Lời giới thiệu của biên tập: Trong số này.
+- Christopher, Joe R. và Wayne G. Hammond. Một thư mục Inklings (55).
+- DiSante, Paula. “Nhận xét của nghệ sĩ.”
+
+#### Đánh giá {#Reviews}
+
+- *Sách về người Narnia: Sư tử, Phù thủy và những kẻ khác.* C.S. Lewis. Được đánh giá bởi Nancy-Lou Patterson.
+- *The Map of Tolkien's Middle-earth.* Văn bản của Brian Sibley, Hình ảnh của John Howe. Được đánh giá bởi Glen GoodKnight.
+- *Biên niên sử Narnia: Hình mẫu của một thế giới kỳ thú.* Colin Manlove. Được đánh giá bởi Nancy-Lou Patterson.
+- *Người tạo ra Narnia: Câu chuyện về C.S. Lewis.* Michael Coren. Được đánh giá bởi Nancy-Lou Patterson.
+- *Bộ lấy mẫu Barfield: Thơ và Tiểu thuyết của Owen Barfield.* Do Jeanne Clayton Hunter và Thomas Kranidas biên tập. Được đánh giá bởi David Bratman.
+- *C.S. Lewis in Context.*Doris T. Myers. Được đánh giá bởi Nancy-Lou Patterson.
+- *Các bài tiểu luận về C.S. Lewis và George MacDonald: Sự thật, hư cấu và sức mạnh của trí tưởng tượng.* Cynthia Marshall. Được đánh giá bởi Nancy-Lou Patterson.
+
+<div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 78</div></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_78.md" title="Mythlore 78">Mythlore 78</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 79</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 80</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a class="mw-redirect" href="Mythlore_80.md" title="Mythlore 80">Mythlore 80</a></div></div></div>

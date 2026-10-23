@@ -1,0 +1,19 @@
+---
+title: "Tolkien Gateway:Copyrights/Insant"
+page_id: 66164
+namespace: 4
+revision_id: 381447
+timestamp: "2023-10-14T13:15:57Z"
+source_url: "https://tolkiengateway.net/wiki/Tolkien_Gateway:Copyrights/Insant"
+content_sha256: a076837455cd1cd15c2429b2bb78f4dc2588fa520206f25afe6398786dadd9ca
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Evidence of permission granted by copyright holders"
+sort_keys:
+  "Evidence of permission granted by copyright holders": "Insant"
+---
+
+- Insant đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Insant.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Ngày: 14 tháng 10 năm 2023
+- Người dùng đã xin phép qua DeviantArt: [Người dùng:IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

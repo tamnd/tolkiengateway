@@ -1,0 +1,21 @@
+---
+title: "Category:Images of Gorbag"
+page_id: 11285
+namespace: 14
+revision_id: 312941
+timestamp: "2020-05-12T11:18:10Z"
+source_url: "https://tolkiengateway.net/wiki/Category:Images_of_Gorbag"
+content_sha256: 3712e3f56d8ba5b2100ed05617e97b68710c10f17ac48decfb7d5d5e8af0239a
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images of Orcs"
+  - "Images of characters in The Lord of the Rings"
+sort_keys:
+  "Images of Orcs": "Gorbag"
+  "Images of characters in The Lord of the Rings": "Gorbag"
+images:
+  - "CdxIconArticle.svg"
+---
+
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../../main/G/Gorbag.md" title="Gorbag">Gorbag</a></b></div></div>

@@ -1,0 +1,35 @@
+---
+title: "File:Mr. Bliss (2004 film).jpg"
+page_id: 29666
+namespace: 6
+revision_id: 260563
+timestamp: "2014-12-09T22:10:55Z"
+source_url: "https://tolkiengateway.net/wiki/File:Mr._Bliss_(2004_film).jpg"
+content_sha256: cf137adb73d2c9d7e16af1610fbb3087838a167ae9a82705585f0902fef26fc1
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images from films"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/b/b0/Mr._Bliss_%282004_film%29.jpg"
+  mime: "image/jpeg"
+  size: 9249
+  width: 126
+  height: 170
+  sha1: "3fcdd01ef51475d594eeaeca400323469a6fba21"
+  timestamp: "2010-11-01T21:55:18Z"
+  user: "Morgan"
+---
+
+## Giấy phép {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
+<p>The copyright of this image is most likely owned by the publisher or the artist who created the cover. It is believed that this image,
+</p>
+<ul><li><b>used to illustrate articles discussing the book, calendar, film, game, journal or music in question</b>,</li>
+<li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fls/fl102.html" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

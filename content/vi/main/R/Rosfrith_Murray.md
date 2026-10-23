@@ -1,0 +1,34 @@
+---
+title: "Rosfrith Murray"
+page_id: 39241
+namespace: 0
+revision_id: 246277
+timestamp: "2014-05-29T00:46:54Z"
+source_url: "https://tolkiengateway.net/wiki/Rosfrith_Murray"
+content_sha256: bb82599bc8405e0d13c3066aa48f14f7b60ca9da4598f6de7e6bee49042b2d0b
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "British people"
+  - "Letter receivers"
+  - "People by name"
+sort_keys:
+  "British people": "Murray, Rosfrith"
+  "Letter receivers": "Murray, Rosfrith"
+  "People by name": "Murray, Rosfrith"
+---
+
+**Rosfrith Murray** ([1884](../_/1884.md)-[1973](../_/1973.md)) là con gái thứ tư của Ngài <a class="extiw" href="http://en.wikipedia.org/wiki/James_Murray_(lexicographer)" title="wikipedia:James Murray (lexicographer)">James A.H. Murray</a>, người sáng lập *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)*. Murray đã dành phần lớn cuộc đời mình để làm việc cho cha cô về Từ điển với vai trò trợ lý. Vào tháng 11 [1918](../_/1918.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gia nhập đội ngũ nhân viên với vai trò trợ lý soạn từ điển. Trong thời gian này anh gặp Rosfrith Murray và hai người phát triển tình bạn thân thiết.<sup id="cite_ref-TL_1-0" class="reference"><a href="#cite_note-TL-1">[1]</a></sup>
+
+## Xem thêm {#See_also}
+
+- [Thư gửi Rosfrith Murray](../L/Letter_to_Rosfrith_Murray.md) (thư)
+
+<span></span>
+
+## Tài liệu tham khảo {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-TL-1"><span class="mw-cite-backlink"><a href="#cite_ref-TL_1-0">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../P/Pieter_Collier.md" title="Pieter Collier">Pieter Collier</a></span>. <span class="cite-web-article"><a class="external text" href="http://www.tolkienlibrary.com/pcollier/DSC00003.htm" rel="noreferrer noopener" target="_blank">&#34;#DSC003 - Smith of Wooton Major - Signed by J.R.R. Tolkien on half title page - with author letter from J.R.R. Tolkien to Rosfrith Murray&#34;</a></span>. <span class="cite-web-website"><a href="../T/Tolkien_Library.md" title="Tolkien Library">Tolkien Library</a></span>. <span class="cite-web-accessed">Retrieved 21 May 2012</span></cite></span>
+</li>
+</ol></div>

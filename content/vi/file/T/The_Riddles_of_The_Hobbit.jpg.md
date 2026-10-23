@@ -1,0 +1,35 @@
+---
+title: "File:The Riddles of The Hobbit.jpg"
+page_id: 49306
+namespace: 6
+revision_id: 264355
+timestamp: "2015-03-22T22:31:59Z"
+source_url: "https://tolkiengateway.net/wiki/File:The_Riddles_of_The_Hobbit.jpg"
+content_sha256: 7d1568e4a3e25d6a8a682181442f68a117c3caa67ff33ab41efe87b9db7fe8c7
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images of books"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/b/bf/The_Riddles_of_The_Hobbit.jpg"
+  mime: "image/jpeg"
+  size: 42904
+  width: 343
+  height: 525
+  sha1: "ffdc4f10d466fb8fa75ceae035a7e3c871ce4d20"
+  timestamp: "2015-03-22T22:31:59Z"
+  user: "Morgan"
+---
+
+## Giấy phép {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
+<p>The copyright of this image is most likely owned by the publisher or the artist who created the cover. It is believed that this image,
+</p>
+<ul><li><b>used to illustrate articles discussing the book, calendar, film, game, journal or music in question</b>,</li>
+<li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fls/fl102.html" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>
