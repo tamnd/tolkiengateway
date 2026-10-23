@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tarondor (disambiguation)"
 ---
 
-Chuyển hướng tới [Tarondor (định hướng)](<Tarondor_(disambiguation).md>).
+Chuyển hướng đến [Tarondor (định hướng)](<Tarondor_(disambiguation).md>).

@@ -52,6 +52,6 @@ file:
 
 <br>
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 <a class="new" href="https://tolkiengateway.net/w/index.php?title=Template:Cc-by-sa-4.0&amp;action=edit&amp;redlink=1" title="Template:Cc-by-sa-4.0 (page does not exist)">Bản mẫu:Cc-by-sa-4.0</a>

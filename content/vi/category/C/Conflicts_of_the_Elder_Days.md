@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Conflicts of the First Age"
 ---
 
-Chuyển hướng đến [Thể loại:Xung đột của Kỷ Đệ Nhất](Conflicts_of_the_First_Age.md).
+Chuyển hướng đến [Danh mục:Xung đột của Kỷ Đệ Nhất](Conflicts_of_the_First_Age.md).

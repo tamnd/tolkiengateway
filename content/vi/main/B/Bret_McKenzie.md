@@ -42,7 +42,7 @@ infobox:
 
 **Bret McKenzie** là một diễn viên và nhạc sĩ New Zealand, được biết đến nhiều nhất với tư cách là một nửa của bộ đôi giải trí <i><a class="extiw" href="http://en.wikipedia.org/wiki/Flight_of_the_Conchords" title="wikipedia:Flight of the Conchords">Chuyến bay của Conchords</a></i>. Anh là con trai của nam diễn viên [Peter McKenzie](../P/Peter_McKenzie.md).
 
-McKenzie đã thu thập được một lượng lớn người theo dõi trên mạng nhờ vai diễn nhỏ bé của anh là nhân vật nền trong [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>), sau này được mệnh danh là "[Figwit](../F/Figwit.md)". Anh đóng vai [Lindir](../L/Lindir.md) trong [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>). Anh còn viết lời và thể hiện ca khúc "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Frodo,_Don%27t_Wear_the_Ring&amp;action=edit&amp;redlink=1" title="Frodo, Don&#39;t Wear the Ring (page does not exist)">Frodo, Don't Wear the Ring</a>" cùng *Flight of the Conchords*.
+McKenzie đã thu thập được một lượng lớn người theo dõi trên mạng nhờ vai diễn nhỏ bé của anh là nhân vật nền trong [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>), sau này được mệnh danh là "[Figwit](../F/Figwit.md)". Anh đóng vai [Lindir](../L/Lindir.md) trong [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>). Anh còn viết và thể hiện ca khúc "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Frodo,_Don%27t_Wear_the_Ring&amp;action=edit&amp;redlink=1" title="Frodo, Don&#39;t Wear the Ring (page does not exist)">Frodo, Don't Wear the Nhẫn</a>" cùng *Flight of the Conchords*.
 
 ## Vai trò {#Roles}
 

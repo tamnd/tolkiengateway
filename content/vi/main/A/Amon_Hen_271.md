@@ -58,7 +58,7 @@ infobox:
 - Tất cả Bran
     - Bởi: Ian Spittlehouse
 - Quảng cáo: Triển lãm Alexander Genov
-- Phương Tây Nhiệm vụ cất giữ và đeo vòng 2018 - cập nhật
+- Phương Tây Xếp hàng và Nhẫn Nhiệm vụ 2018 - cập nhật
 - Báo cáo: ĐHĐCĐ TS & Springmoot 2018
     - Bởi: Ian Coller
 - Tóm tắt ĐHĐCĐ TS

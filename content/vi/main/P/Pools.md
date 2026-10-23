@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Lakes"
 ---
 
-Chuyển hướng đến [Danh mục:Hồ](../../category/L/Lakes.md).
+Chuyển hướng tới [Danh mục:Hồ](../../category/L/Lakes.md).

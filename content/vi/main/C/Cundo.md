@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kundo"
 ---
 
-Chuyển hướng tới [Kundo](../K/Kundo.md).
+Chuyển hướng đến [Kundo](../K/Kundo.md).

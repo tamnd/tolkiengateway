@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*Một bữa ăn nhồi nhét - Người Lùn tạm dừng trên một hành trình*, của [Kay Woollard](../../main/K/Kay_Woollard.md), một trong những bức tranh minh họa được thực hiện cho Peter Bolton.
+*Một bữa ăn nhồi nhét - Người Lùn tạm dừng trên một hành trình*, bởi [Kay Woollard](../../main/K/Kay_Woollard.md), một trong những bức tranh minh họa được thực hiện cho Peter Bolton.
 
 Đây là một phần của bức tranh ghép: bức còn lại mô tả Hobbit đi dã ngoại và được gọi là **Bữa ăn bánh**, tạo nên sự tương phản mạnh mẽ với nó. Hai mảnh đã được tách ra do mua mảnh thứ hai và không có ảnh của mảnh thứ hai.
 

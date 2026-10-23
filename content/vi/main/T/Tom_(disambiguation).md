@@ -28,7 +28,7 @@ images:
 - <b><a class="mw-redirect mw-disambig" href="Tom.md" title="Tom">Tom</a>, một kẻ troll trong <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>;</b>
 - **[Tom Bombadil](Tom_Bombadil.md), một nhân vật bí ẩn sống ở [Khu Rừng Cổ](../O/Old_Forest.md);**
 - [Tom Bombadil (chương)](<Tom_Bombadil_(chapter).md>), chương thứ sáu trong *[The Return of the Shadow](The_Return_of_the_Shadow.md)*.
-- [Tolman "Tom" Cotton Senior](Tolman_Cotton_Senior.md) ([S.R.](../S/Shire_Reckoning.md) [1341](Third_Age_2941.md) - [S.R.](../S/Shire_Reckoning.md) [1440](../F/Fourth_Age_19.md)), còn được gọi là Nông dân Cotton, cha đẻ của [Rose Cotton](../R/Rose_Cotton.md);
+- [Tolman "Tom" Cotton Senior](Tolman_Cotton_Senior.md) ([S.R.](../S/Shire_Reckoning.md) [1341](Third_Age_2941.md) - [S.R.](../S/Shire_Reckoning.md) [1440](../F/Fourth_Age_19.md)), còn được gọi là Nông dân Bông, cha đẻ của [Rose Cotton](../R/Rose_Cotton.md);
 - [Tolman "Tom" Cotton Junior](Tolman_Cotton_Junior.md) (sinh [S.R.](../S/Shire_Reckoning.md) [1380](Third_Age_2980.md)), con trai cả của Tom Cotton Senior;
 - [Tolman "Tom" Gardner](Tolman_Gardner.md) (sinh [S.R.](../S/Shire_Reckoning.md) [1442](../F/Fourth_Age_21.md)), con trai út của [Samwise Gamgee](../S/Samwise_Gamgee.md) và [Rose Cotton](../R/Rose_Cotton.md);
 - [Tom](<Tom_(The_Stone_Troll).md>), nhân vật chính trong Sam bài thơ "[Con quỷ đá](The_Stone_Troll.md)" của Gamgee;
@@ -49,13 +49,13 @@ images:
 - [Thomas Kenneth Barnsley](Thomas_Kenneth_Barnsley.md), một trong những [T.C.B.S.](T.C.B.S..md);
 - [Tom Cross](Tom_Cross.md), nghệ sĩ;
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tom_Davidson&amp;action=edit&amp;redlink=1" title="Tom Davidson (page does not exist)">Tom Davidson</a>, tác giả;
-- [Thomas M. Honegger](Thomas_M._Honegger.md), tác giả và người đóng góp cho [Bộ truyện Cormarë](../C/Cormarë_Series.md);
+- [Thomas M. Honegger](Thomas_M._Honegger.md), tác giả và người đóng góp cho [Sê-ri Cormarë](../C/Cormarë_Series.md);
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tom_Luce&amp;action=edit&amp;redlink=1" title="Tom Luce (page does not exist)">Tom Luce</a>, diễn viên;
 - [Tom Kane](Tom_Kane.md), diễn viên lồng tiếng;
 - [Tom Loback](Tom_Loback.md), nghệ sĩ, tác giả và nhà ngôn ngữ học;
 - [Thomas Meleteas](https://tolkiengateway.net/wiki/User:Mthomas), nghệ sĩ;
 - [Thomas Morwinsky](Thomas_Morwinsky.md), [MERP](../M/Middle-earth_Role_Playing.md)-nhà văn và người vẽ bản đồ;
-- [Thomas Robins](Thomas_Robins.md), diễn viên đóng vai [Déagol](../D/Déagol.md) trong *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*;
+- [Thomas Robins](Thomas_Robins.md), diễn viên đóng [Déagol](../D/Déagol.md) trong *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*;
 - [Thomas Rouillard](Thomas_Rouillard.md), nghệ sĩ;
 - [Taum Santoski](Taum_Santoski.md), tác giả và nhà ngôn ngữ học;
 - [Tom Sherry](Tom_Sherry.md), nghệ sĩ;

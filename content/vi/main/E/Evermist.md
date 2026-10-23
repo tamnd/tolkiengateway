@@ -33,7 +33,7 @@ Nguồn gốc của Evermist bắt nguồn từ hậu quả của Cuộc cướp
 
 Trong gần hai năm, những người tị nạn trốn tránh sự truy đuổi của Celebring, một người hầu Noldo của Sauron. Được hướng dẫn bởi những tầm nhìn của Óleth và những bài hát về sức mạnh của Lindor, họ băng qua vùng hoang dã băng giá, cuối cùng cố gắng vượt qua [Bleak Dãy Núi](../B/Bleak_Mountains.md). Ở đó, Lindor bỏ mạng trong một trận đấu tay đôi với con quỷ [Eloeklo](Eloeklo.md), thứ đã giúp những người tị nạn trốn thoát.
 
-Sau cái chết của Lindor, Óleth nắm quyền lãnh đạo Noldor còn lại. Mặc dù không phải tất cả đều tuân theo sự dẫn dắt của cô, được hướng dẫn bởi những hình ảnh tiên tri, nhưng cô đã dẫn phần còn lại của tám mươi người sống sót đến [Morgoth's Well](../D/Durlach.md), nơi cha cô là Thilgon đã qua đời.
+Sau cái chết của Lindor, Óleth nắm quyền lãnh đạo Noldor còn lại. Mặc dù không phải tất cả đều đi theo sự dẫn dắt của cô, được hướng dẫn bởi những hình ảnh tiên tri, cô đã dẫn phần còn lại của 80 người sống sót đến [Morgoth's Well](../D/Durlach.md), nơi cha cô là Thilgon đã qua đời.
 
 Óleth tiết lộ rằng hy vọng duy nhất của họ nằm ở việc hoàn thành nhiệm vụ do cha cô bắt đầu: khôi phục ký ức về [Arda Unmarred](../A/Arda_Unmarred.md) ở miền Bắc thối nát. Dẫn dắt người dân của mình vượt ra ngoài Giếng Morgoth và băng qua Ered Rhívamar, bởi [S.A.](../S/Second_Age.md) [1700](../S/Second_Age_1700.md) cô đã phát hiện ra một thung lũng ẩn giấu được duy trì bởi suối khoáng nóng. Thung lũng này phát triển màu mỡ ngay cả ở miền Bắc khắc nghiệt, hóa ra không rõ nguồn gốc hạt giống mà cha cô đã sử dụng.
 

@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Nó bắt nguồn từ [Nguyên thủy Elvish](Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pal%C3%A1ta&amp;action=edit&amp;redlink=1" title="Paláta (page does not exist)">paláta</a></i> [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=PAL&amp;action=edit&amp;redlink=1" title="PAL (page does not exist)">PAL</a>
+Nó bắt nguồn từ [Primitive Elvish](Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pal%C3%A1ta&amp;action=edit&amp;redlink=1" title="Paláta (page does not exist)">paláta</a></i> [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=PAL&amp;action=edit&amp;redlink=1" title="PAL (page does not exist)">PAL</a>
 
 ## Có cùng nguồn gốc {#Cognates}
 

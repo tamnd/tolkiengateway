@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Daneman, Paul"
 ---
 
-**Paul Daneman** ([29 tháng 10](../_/29_October.md), [1925](../_/1925.md) - [28 tháng 4](../_/28_April.md), [2001](../_/2001.md)) là người lồng tiếng cho [Bilbo Baggins](../B/Bilbo_Baggins.md) trong chương trình chuyển thể radio *[The Hobbit](<../T/The_Hobbit_(1968_radio_series).md>)* trên BBC Radio 4.
+**Paul Daneman** ([29 tháng 10](../_/29_October.md), [1925](../_/1925.md) - [28 tháng 4](../_/28_April.md), [2001](../_/2001.md)) là người lồng tiếng cho [Bilbo Baggins](../B/Bilbo_Baggins.md) trong *[The Hobbit](<../T/The_Hobbit_(1968_radio_series).md>)* chương trình phát thanh chuyển thể trên đài BBC Radio 4.
 
 ## Lnik bên ngoài {#External_lniks}
 

@@ -14,4 +14,4 @@ sort_keys:
   "Images of merchandise": "Video game boxes"
 ---
 
-Hình hộp của trò chơi điện tử liên quan đến Tolkien, chủ yếu để sử dụng trong [Bản mẫu:Hộp thông tin trò chơi điện tử](https://tolkiengateway.net/wiki/Template:Video_game_infobox)
+Hình hộp của trò chơi điện tử liên quan đến Tolkien, chủ yếu để sử dụng trong [Mẫu:Hộp thông tin trò chơi điện tử](https://tolkiengateway.net/wiki/Template:Video_game_infobox)

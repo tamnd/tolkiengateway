@@ -56,7 +56,7 @@ infobox:
 - [Oxonmoot](../O/Oxonmoot.md) 1997
 - Thông báo và chỉnh sửa
 - Tolkien Sự kiện
-- Thư viện Hội
+- Thư viện xã hội
     - Bởi: [Sally Kennett](../S/Sally_Kennett.md)
 - Bywater Thông báo
     - Bởi: Malcolm Lindley
@@ -77,7 +77,7 @@ Một nửa của - Hildifons của Amon Hen
     - Bởi: Ian Collier & Anke Buttner
 - Các loại của Annie
     - Bởi: Annie Haward
-- Truyện dân gian
+- Truyện dân ca
 - Thành viên/Ủy ban mới
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 145</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_145.md" title="Amon Hen 145">Amon Hen 145</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 146</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 147</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_147.md" title="Amon Hen 147">Amon Hen 147</a></div></div></div>

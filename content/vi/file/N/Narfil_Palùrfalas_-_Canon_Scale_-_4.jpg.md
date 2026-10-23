@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-- **4** – Xếp hạng này có nghĩa là nó thường được coi là Canon và được hầu hết mọi người coi là Canon. Các bài viết trong thể loại này không bị mâu thuẫn trong một bài viết sau này. Chủ đề đánh giá “4” sẽ được viết như thực tế trong bài viết và bất kỳ phản đối nào được viết trên trang chính cho bài viết đó. Điều này bao gồm *[The Hobbit](../../main/T/The_Hobbit.md)*, cũng như các bài viết sau này như *[The Shibboleth of Fëanor](../../main/T/The_Shibboleth_of_Fëanor.md)* và các bài viết khác được tìm thấy trong *[The Peoples of Middle-earth](../../main/T/The_Peoples_of_Middle-earth.md)*.
+- **4** – Xếp hạng này có nghĩa là nó thường được coi là Canon và được hầu hết mọi người coi là Canon. Các bài viết trong thể loại này không bị mâu thuẫn trong một bài viết sau này. Chủ đề đánh giá “4” sẽ được viết như thực tế trong bài viết, và bất kỳ phản đối nào được viết trên trang chính cho bài viết đó. Điều này bao gồm *[The Hobbit](../../main/T/The_Hobbit.md)*, cũng như các văn bản sau này như *[The Shibboleth of Fëanor](../../main/T/The_Shibboleth_of_Fëanor.md)* và các văn bản khác được tìm thấy trong *[The Peoples of Middle-earth](../../main/T/The_Peoples_of_Middle-earth.md)*.
 
 ## Giấy phép {#Licensing}
 

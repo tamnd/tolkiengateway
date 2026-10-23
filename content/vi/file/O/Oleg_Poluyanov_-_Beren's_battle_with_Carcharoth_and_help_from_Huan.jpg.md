@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Beren](../../main/B/Beren.md) [trận chiến](../../main/H/Hunting_of_the_Wolf.md) với [Carcharoth](../../main/C/Carcharoth.md) và sự giúp đỡ từ [Huan](../../main/H/Huan.md)" của [Oleg Poluyanov](../../category/I/Images_by_Oleg_Poluyanov.md)
+"[Beren](../../main/B/Beren.md) [trận chiến](../../main/H/Hunting_of_the_Wolf.md) với [Carcharoth](../../main/C/Carcharoth.md) và sự trợ giúp từ [Huan](../../main/H/Huan.md)" của [Oleg Poluyanov](../../category/I/Images_by_Oleg_Poluyanov.md)
 
 ## Giấy phép {#Licensing}
 

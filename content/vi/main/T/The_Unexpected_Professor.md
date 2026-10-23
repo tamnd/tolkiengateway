@@ -50,4 +50,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.theguardian.com/books/2014/feb/27/unexpected-professor-john-carey-review" rel="noreferrer noopener" target="_blank">Bài review của Giáo sư bất ngờ – câu đố của John Carey</a> tại theguardian.com
+- <a class="external text" href="http://www.theguardian.com/books/2014/feb/27/unexpected-professor-john-carey-review" rel="noreferrer noopener" target="_blank">Bài đánh giá của Giáo sư bất ngờ – câu đố của John Carey</a> tại theguardian.com

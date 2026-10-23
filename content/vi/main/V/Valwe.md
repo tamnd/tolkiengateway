@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valwë"
 ---
 
-Chuyển hướng đến [Valwë](Valwë.md).
+Chuyển hướng tới [Valwë](Valwë.md).

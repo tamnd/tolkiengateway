@@ -25,7 +25,7 @@ images:
 
 ## Lịch sử {#History}
 
-Sau khi Frodo và [Sam Gamgee](../S/Sam_Gamgee.md) thấy mình hoàn toàn chìm trong bóng tối, họ nhận thấy [Gollum](../G/Gollum.md) đã bỏ rơi họ vào một cái bẫy. Sau đó Sam nhắc nhở chủ nhân của mình về [Ống thuốc Galadriel](../P/Phial_of_Galadriel.md) mà Frodo đã quên mất. Anh ấy kêu lên "<i><b>Aiya Eärendil elenion ancalima!</b></i>". Ánh sáng của chiếc lọ cho họ thấy đôi mắt của [Shelob](../S/Shelob.md), người đã biết tiếng kêu đó từ lâu và không hề sợ hãi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sau khi Frodo và [Sam Gamgee](../S/Sam_Gamgee.md) thấy mình hoàn toàn chìm trong bóng tối, họ nhận thấy [Gollum](../G/Gollum.md) đã bỏ rơi họ vào một cái bẫy. Sau đó Sam nhắc nhở chủ nhân của mình về [Ống thuốc Galadriel](../P/Phial_of_Galadriel.md) mà Frodo đã quên mất. Anh ấy kêu lên "<i><b>Aiya Eärendil elenion ancalima!</b></i>". Ánh sáng của chiếc lọ cho họ thấy đôi mắt của [Shelob](../S/Shelob.md), người đã biết tiếng kêu đó từ ngàn xưa và không hề sợ hãi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Sau đó, Frodo kêu lên một biến thể: "<i><b>Aiya elenion ancalima!</b></i>", trong khi băng qua [Hai Người canh gác](../T/Two_Watchers.md), một lần nữa với sự trợ giúp của ánh sáng của Phial.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

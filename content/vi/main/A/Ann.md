@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "And"
 ---
 
-Chuyển hướng tới [Và](And.md).
+Chuyển hướng đến [Và](And.md).

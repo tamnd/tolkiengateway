@@ -66,7 +66,7 @@ Tên gọi này ám chỉ việc nó nằm bên cạnh [hồ](Bywater_Pool.md), 
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Bywater.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1d/The_Lord_of_the_Rings_Online_-_Bywater.jpg/300px-The_Lord_of_the_Rings_Online_-_Bywater.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1d/The_Lord_of_the_Rings_Online_-_Bywater.jpg/450px-The_Lord_of_the_Rings_Online_-_Bywater.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1d/The_Lord_of_the_Rings_Online_-_Bywater.jpg/600px-The_Lord_of_the_Rings_Online_-_Bywater.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Bywater in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Bywater lies directly east of <a href="../H/Hobbiton.md" title="Hobbiton">Hobbiton</a> and is notable as the cite of the annual &#34;Farmer&#39;s Faire&#34; festival.</dd></dl>
 

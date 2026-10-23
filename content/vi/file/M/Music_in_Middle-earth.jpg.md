@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bìa [Nhạc trong Trung Địa](../../main/M/Music_in_Middle-earth.md), do [Nhà xuất bản Cây đi bộ](../../main/W/Walking_Tree_Publishers.md) xuất bản. Hình minh họa bìa là "Daeron và Lúthien" của [Anke Eißmann](../../main/A/Anke_Eißmann.md).
+Bìa [Nhạc trong Trung Địa](../../main/M/Music_in_Middle-earth.md), do [Nhà xuất bản Cây biết đi](../../main/W/Walking_Tree_Publishers.md)xuất bản. Hình minh họa bìa là "Daeron và Lúthien" của [Anke Eißmann](../../main/A/Anke_Eißmann.md).
 
 ## Giấy phép {#Licensing}
 

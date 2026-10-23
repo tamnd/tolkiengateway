@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "High King of the Noldor"
 ---
 
-Chuyển hướng tới [Đại Vương của Noldor](High_King_of_the_Noldor.md).
+Chuyển hướng đến [Đại Vương của Noldor](High_King_of_the_Noldor.md).

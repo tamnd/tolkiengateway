@@ -68,4 +68,4 @@ Hơn nữa, ADC Art and Books đã tạo ra một khung cảnh vui nhộn về t
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.adcbooks.co.uk/index.html" rel="noreferrer noopener" target="_blank">Trang web Sách và Nghệ thuật ADC</a>
+- <a class="external text" href="http://www.adcbooks.co.uk/index.html" rel="noreferrer noopener" target="_blank">Trang web Sách & Nghệ thuật ADC</a>

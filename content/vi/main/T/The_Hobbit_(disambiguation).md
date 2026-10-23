@@ -62,7 +62,7 @@ images:
 ### Trò chơi {#Games}
 
 - [*The Hobbit* (trò chơi điện tử năm 1982)](<The_Hobbit_(1982_video_game).md>), trò chơi điện tử dựa trên cuốn sách.
-- *[The Hobbit Adventure Boardgame](The_Hobbit_Adventure_Boardgame.md)*, một trò chơi bảng [1994](../_/1994.md) của [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md).
+- *[The Hobbit Adventure Boardgame](The_Hobbit_Adventure_Boardgame.md)*, một trò chơi board game [1994](../_/1994.md) của [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md).
 - *[The Hobbit (action game)](<The_Hobbit_(action_game).md>)*, một trò chơi điện tử chưa được phát hành dựa trên cuốn sách.
 - [*The Hobbit* (trò chơi điện tử năm 2003)](<The_Hobbit_(2003_video_game).md>), trò chơi điện tử dựa trên cuốn sách.
 - *[Lego The Hobbit: The Video Game](../L/Lego_The_Hobbit%253A_The_Video_Game.md)*, một trò chơi điện tử [Lego](../L/Lego.md) dựa trên hai bộ phim đầu tiên trong The Hobbit](<The_Hobbit_(film_series).md>) của [Peter Jackson.
@@ -72,7 +72,7 @@ images:
 - [Hobbit (ban nhạc)](<../H/Hobbit_(band).md>), một trong những ban nhạc có chủ đề Tolkien lâu đời nhất.
 - [The Hobbit (nhà công cộng)](<The_Hobbit_(public_house).md>), một nhà công cộng ở Southampton, Anh.
 - [*The Hobbit* (truyện tranh)](<The_Hobbit_(comic_book).md>), tiểu thuyết đồ họa chuyển thể từ cuốn sách của [David T. Wenzel](../D/David_T._Wenzel.md).
-- [The Hobbit Tarot](The_Hobbit_Tarot.md), bộ bài tarot với hình minh họa mới về các nhân vật và cảnh trong *The Hobbit*
+- [The Hobbit Tarot](The_Hobbit_Tarot.md), một bộ bài tarot với hình minh họa mới về các nhân vật và cảnh trong *The Hobbit*
 
 <hr style="margin-top:15px;"/>
 

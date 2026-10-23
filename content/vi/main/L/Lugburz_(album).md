@@ -48,7 +48,7 @@ infobox:
 4. Nơi mùa đông khóc mãi - *4:04*
 5. Qua Thung lũng Vương quốc Băng giá - *6:22*
 6. [Tăng trưởng cùng trận chiến-Orc](../R/Raising_with_the_Battle-Orcs.md) - *5:44*
-7. Bậc thầy của mồi nhử cũ - *4:14*
+7. Chủ nhân của Mồi nhử xưa - *4:14*
 8. Giữa Ánh Sáng và Bóng Tối - *3:29*
 9. Vùng đất lửa vĩnh cửu - 3:36
 10. Rồng thời gian - *6:01*

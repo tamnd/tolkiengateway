@@ -51,7 +51,7 @@ infobox:
 - "Suy ngẫm về những câu chuyện cổ tích" của Gwydion M. Williams
 - "Nước Anh? Nước Anh nào?: Khái niệm về tiếng Anh 1982-1954" của [David Doughan](../D/David_Doughan.md)
 - "Một số người tạo ra huyền thoại người Anh: Thành công và thất bại trước Tolkien" của Christine Davidson
-Thần thoại nước Anh của - "Tolkien: The Shire với tư cách là 'Cộng đồng địa phương'" của [John Ellison](../J/John_Ellison.md)
+- "Tolkien Thần thoại nước Anh: The Shire với tư cách là 'Cộng đồng địa phương'" của [John Ellison](../J/John_Ellison.md)
 
 <br clear="all"/>
 

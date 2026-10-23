@@ -11,4 +11,4 @@ redirect_target: "Canon"
 redirect_fragment: "Determining a priority"
 ---
 
-Chuyển hướng đến [Canon](../C/Canon.md#Determining_a_priority).
+Chuyển hướng tới [Canon](../C/Canon.md#Determining_a_priority).

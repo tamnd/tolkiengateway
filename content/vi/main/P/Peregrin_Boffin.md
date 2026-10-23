@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Trotter"
 ---
 
-Chuyển hướng tới [Trotter](../T/Trotter.md).
+Chuyển hướng đến [Trotter](../T/Trotter.md).

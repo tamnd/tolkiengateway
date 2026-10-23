@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Một nửa kẻ hung bạo từ [The Lord of the Rings trực tuyến](../../main/T/The_Lord_of_the_Rings_Online.md).
+Một kẻ nửa hung ác từ [The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md).
 
 ## Giấy phép {#Licensing}
 

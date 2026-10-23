@@ -26,9 +26,9 @@ infobox:
 
 <i><b>Basil Bunting và J.R.R. Tolkien</b></i> là sách nói có các cuộc phỏng vấn với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và <a class="extiw" href="http://en.wikipedia.org/wiki/Basil_Bunting" title="wikipedia:Basil Bunting">Basil Bunting</a>. Đã có một số gợi ý về việc nên đưa cuộc phỏng vấn vào:
 
-- **[Bài phỏng vấn BBC năm 1965](../_/1965_BBC_Interview.md)** (người phỏng vấn: [Denys Gueroult](../D/Denys_Gueroult.md))<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- **[1964 Phỏng vấn BBC](../_/1964_BBC_Interview.md), Phần đầu tiên** (người phỏng vấn: Irene Slade): "Người phỏng vấn tạo cảm giác như đang bắt nạt và dọa nạt một yêu tinh Tolkien, nhưng vẫn đưa ra cái nhìn sâu sắc về người đàn ông đằng sau *The Lord of the Rings*"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
-- **[1964 Phỏng vấn BBC](../_/1964_BBC_Interview.md), Phần thứ hai** (người phỏng vấn: Denys Gueroult)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+- **[1965 BBC Phỏng vấn](../_/1965_BBC_Interview.md)** (người phỏng vấn: [Denys Gueroult](../D/Denys_Gueroult.md))<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- **[1964 BBC Phỏng vấn](../_/1964_BBC_Interview.md), Phần đầu tiên** (người phỏng vấn: Irene Slade): "Người phỏng vấn mang đến cảm giác bắt nạt và dọa nạt một yêu tinh Tolkien, nhưng vẫn đưa ra cái nhìn sâu sắc về người đàn ông đằng sau *The Lord of the Rings*"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- **[1964 BBC Phỏng vấn](../_/1964_BBC_Interview.md), Phần thứ hai** (người phỏng vấn: Denys Gueroult)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Chi tiết {#Details}
 

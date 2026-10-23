@@ -51,7 +51,7 @@ Khi [Voronwë](../V/Voronwë.md) dẫn [Túor](../T/Túor.md) về phía đông 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Vì các khu rừng không xuất hiện trong <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>nên chúng đã bị loại khỏi <a href="../../file/C/Christopher_Tolkien_-_Map_of_Beleriand_(colored_by_H.E._Riddett).jpg.md" title="File:Christopher Tolkien - Map of Beleriand (colored by H.E. Riddett).jpg">bản đồ</a> của Beleriand. Tên xuất hiện trong <a href="../../file/C/Christopher_Tolkien_-_Map_of_Beleriand_2.jpg.md" title="File:Christopher Tolkien - Map of Beleriand 2.jpg">bản đồ</a> được cung cấp trong <i><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a>.</i></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Vì các khu rừng không xuất hiện trong <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>nên chúng bị loại khỏi <a href="../../file/C/Christopher_Tolkien_-_Map_of_Beleriand_(colored_by_H.E._Riddett).jpg.md" title="File:Christopher Tolkien - Map of Beleriand (colored by H.E. Riddett).jpg">bản đồ</a> của Beleriand. Tên xuất hiện trong <a href="../../file/C/Christopher_Tolkien_-_Map_of_Beleriand_2.jpg.md" title="File:Christopher Tolkien - Map of Beleriand 2.jpg">bản đồ</a> được cung cấp trong <i><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a>.</i></span>
 </li>
 </ol></div></span>
 

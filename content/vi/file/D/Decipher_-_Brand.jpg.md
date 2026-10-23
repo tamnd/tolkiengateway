@@ -29,4 +29,4 @@ file:
 <p class="tg-quote-footer"><cite><a href="../../main/G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-Bản sao của [Tệp:The Lord of the Rings Trò chơi đánh bài - Brand, Vua của Dale.jpg](../T/The_Lord_of_the_Rings_Trading_Card_Game_-_Brand,_King_of_Dale.jpg.md)
+Bản sao của [Tệp:The Lord of the Rings Trading Card Game - Brand, Vua của Dale.jpg](../T/The_Lord_of_the_Rings_Trading_Card_Game_-_Brand,_King_of_Dale.jpg.md)

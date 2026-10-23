@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Đã xóa khỏi <a class="external text" href="https://www.facebook.com/groups/6301243471/permalink/10161792392828472" rel="noreferrer noopener" target="_blank">danh sách bán hàng</a>
+Đã xóa khỏi <a class="external text" href="https://www.facebook.com/groups/6301243471/permalink/10161792392828472" rel="noreferrer noopener" target="_blank">danh sách giảm giá</a>
 
 ## Giấy phép {#Licensing}
 

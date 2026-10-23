@@ -47,7 +47,7 @@ infobox:
 
 - Calin, William. "C.S. Lewis, Nhà phê bình văn học: Đánh giá lại."
 - White, Donna R. "Nhân vật phản diện trong tưởng tượng xã hội của Carol Kendall." .
-- Bratman, David. "R.B. McCallum: Bậc thầy mơ hồ."
+- Bratman, David. "R.B. McCallum: Chủ nhân mơ hồ."
 - Umland, Rebecca A. và Samuel J. Umland. "Tất cả vì tình yêu: Huyền thoại về niềm đam mê lãng mạn trong điện ảnh Nhật Bản."
 - Crowe, Edith L. "Tạo dựng và hủy bỏ ở Trung Địa và những nơi khác."
 - Timmons, Daniel. "Hobbit Tình dục và nhục dục trong *The Lord of the Rings*."

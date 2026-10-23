@@ -44,7 +44,7 @@ images:
 
 ### Sách {#Books}
 
-- **[Chiếc nhẫn đi về phương Nam](../T/The_Ring_goes_South~59655.md)**, chương thứ ba của cuốn thứ hai trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*.
+- **[Người Nhẫn đi về hướng Nam](../T/The_Ring_goes_South~59655.md)**, chương thứ ba của cuốn thứ hai trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*.
 
 - *[Southern Gondor: The People](Southern_Gondor%253A_The_People.md)*, phần bổ sung [1996](../_/1996.md) cho [MERP](../M/Middle-earth_Role_Playing.md).
 - *[Southern Gondor: The Land](Southern_Gondor%253A_The_Land.md)*, phần bổ sung [1996](../_/1996.md) cho [MERP](../M/Middle-earth_Role_Playing.md).
@@ -52,7 +52,7 @@ images:
 
 ### Khác {#Other_2}
 
-- [The Ring Goes South (nhạc phim)](<../T/The_Ring_Goes_South_(soundtrack).md>), một ca khúc từ [Howard Shore](../H/Howard_Shore.md) của *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)*.
+- [The Nhẫn Goes South (nhạc phim)](<../T/The_Ring_Goes_South_(soundtrack).md>), một ca khúc từ *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)*của [Howard Shore](../H/Howard_Shore.md).
 - [Nam Phi](../../category/S/South_Africa.md)
 - [South Away](South_Away.md), một bài hát của ban nhạc [Summoning](Summoning.md).
 

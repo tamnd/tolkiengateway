@@ -94,7 +94,7 @@ Trong bản nháp, ký tự này được gọi là *Rhimbron*, *Rhomrin*và *Ro
 
 <dl><dd>Rumil is one of the named heroes in the Lothlorien army in the Middle-Earth Strategy Battle Game. The lore given with his rules say he is renowned for his skill with the blade, and he has a unique ability that forces enemies to reroll duel rolls.</dd></dl>
 
-<b>2009: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2009: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Rúmil can be found on the western outskirts of <a class="mw-redirect" href="../L/Lothlorien.md" title="Lothlorien">Lothlorien</a>, defending the borders against the <a class="mw-redirect" href="../O/Orc.md" title="Orc">orc</a> attacks.</dd></dl>
 

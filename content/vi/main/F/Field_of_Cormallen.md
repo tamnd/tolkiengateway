@@ -53,7 +53,7 @@ Người [Gondor](../G/Gondorians.md) có lẽ đã sử dụng tên gọi *Corm
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Field_of_Cormallen.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/32/The_Lord_of_the_Rings_Online_-_Field_of_Cormallen.jpg/250px-The_Lord_of_the_Rings_Online_-_Field_of_Cormallen.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/32/The_Lord_of_the_Rings_Online_-_Field_of_Cormallen.jpg/375px-The_Lord_of_the_Rings_Online_-_Field_of_Cormallen.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/32/The_Lord_of_the_Rings_Online_-_Field_of_Cormallen.jpg/500px-The_Lord_of_the_Rings_Online_-_Field_of_Cormallen.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The Field of Cormallen in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Two versions of the Field of Cormallen exist in the game. Prior to the <a href="../B/Battle_of_the_Morannon.md" title="Battle of the Morannon">Battle of the Morannon</a>, the field is a pristine glade with only wild beasts nearby. After the destruction of the One Ring, the field is bustling with activity, full of tents and pavilions where soldiers of Rohan and Gondor celebrate the victory.</dd></dl>
 

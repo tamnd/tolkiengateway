@@ -65,16 +65,16 @@ images:
 - [Khu rừng sợ hãi](../../main/T/The_Forest_of_Fear.md)
 - [Haradwaith](<../../main/H/Haradwaith_(video_game).md>)
 - [The Hobbit](<../../main/T/The_Hobbit_(1982_video_game).md>)
-- [Cuộc săn lùng chiếc nhẫn](<../../main/T/The_Hunt_for_the_Ring_(video_game).md>)
+- [Cuộc săn lùng Nhẫn](<../../main/T/The_Hunt_for_the_Ring_(video_game).md>)
 - [Nhà tù sắt](../../main/T/The_Iron_Prison.md)
 - [Viên ngọc của Bóng Tối](../../main/J/Jewels_of_Darkness.md)
 - [Chúa tể của những chiếc nhẫn: Trò chơi thứ nhất](../../main/L/Lord_of_the_Rings%253A_Game_One.md)
-- [Mỏ Moria](<../../main/T/The_Mines_of_Moria_(video_game).md>)
+- [Cái Mỏ Moria](<../../main/T/The_Mines_of_Moria_(video_game).md>)
 - [Nhiệm vụ của Erebor](<../../main/Q/Quest_of_Erebor_(video_game).md>)
 - [Quay lại Moria](../../main/R/Return_to_Moria.md)
 - [Cái Vòng Phán xét](<../../main/T/The_Ring_of_Doom_(video_game).md>)
 - [Bóng của Mordor](../../main/S/Shadows_of_Mordor.md)
-- [Chiếc nhẫn kinh hoàng](../../main/T/Thror's_Ring.md)
+- [Thoror Nhẫn](../../main/T/Thror's_Ring.md)
 
 ## Apple IIGS {#Apple_IIGS}
 
@@ -96,16 +96,16 @@ images:
 
 - [Nhiệm vụ phiêu lưu](../../main/A/Adventure_Quest.md)
 - [Belegost](<../../main/B/Belegost_(video_game).md>)
-- [Cuộc phiêu lưu vĩ đại](../../main/C/Colossal_Adventure.md)
+- [Cuộc phiêu lưu khổng lồ](../../main/C/Colossal_Adventure.md)
 - [Cuộc phiêu lưu trong ngục tối](../../main/D/Dungeon_Adventure.md)
 - [Ngục tối của Moria](<../../main/T/The_Dungeons_of_Moria_(video_game).md>)
 - [Viên ngọc của Bóng Tối](../../main/J/Jewels_of_Darkness.md)
 
-## BBC Micro B {#BBC_Micro_B}
+## BBC Vi B {#BBC_Micro_B}
 
 - [Nhiệm vụ phiêu lưu](../../main/A/Adventure_Quest.md)
 - [Chán nhẫn](<../../main/B/Bored_of_the_Rings_(video_game).md>)
-- [Cuộc phiêu lưu vĩ đại](../../main/C/Colossal_Adventure.md)
+- [Cuộc phiêu lưu khổng lồ](../../main/C/Colossal_Adventure.md)
 - [Cuộc phiêu lưu trong ngục tối](../../main/D/Dungeon_Adventure.md)
 - [The Hobbit](<../../main/T/The_Hobbit_(1982_video_game).md>)
 - [Chúa tể của những chiếc nhẫn: Trò chơi thứ nhất](../../main/L/Lord_of_the_Rings%253A_Game_One.md)
@@ -127,8 +127,8 @@ images:
 ## Trò chơi bài {#Card_Games}
 
 - [Trung Địa Trò chơi bài sưu tầm](../../main/M/Middle-earth_Collectible_Card_Game.md)
-- [The Lord of the Rings Trò chơi trao đổi thẻ bài](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)
-- The Lord of the Rings TCG trực tuyến
+- [The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)
+- The Lord of the Rings Online TCG
 
 ## CNC {#CNC}
 
@@ -139,7 +139,7 @@ images:
 - [Nhiệm vụ phiêu lưu](../../main/A/Adventure_Quest.md)
 - [Ông Kẹ](../../main/T/The_Boggit.md)
 - [Chán nhẫn](<../../main/B/Bored_of_the_Rings_(video_game).md>)
-- [Cuộc phiêu lưu vĩ đại](../../main/C/Colossal_Adventure.md)
+- [Cuộc phiêu lưu khổng lồ](../../main/C/Colossal_Adventure.md)
 - [Crack of Doom Phiêu lưu phần mềm](../../main/C/Crack_of_Doom_Software_Adventure.md)
 - [Cuộc phiêu lưu trong ngục tối](../../main/D/Dungeon_Adventure.md)
 - [The Hobbit](<../../main/T/The_Hobbit_(1982_video_game).md>)
@@ -153,7 +153,7 @@ images:
 - [Shadowfax](<../../main/S/Shadowfax_(video_game).md>)
 - [Bóng của Mordor](../../main/S/Shadows_of_Mordor.md)
 - [Bộ ba Tolkien](../../main/T/The_Tolkien_Trilogy.md)
-Cuộc chiến của - [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md)
+- [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md)
 
 ## 20/12 {#DEC-20}
 
@@ -226,7 +226,7 @@ Cuộc chiến của - [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tol
 - [The Lord of the Rings, Tập. II: The Two Towers](../../main/J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md)
 - [Mỏ Moria 3](../../main/M/Mines_of_Moria_3.md)
 - [Mogul](<../../main/M/Morgul_(video_game).md>)
-- [J.R.R. Tolkien Kỵ sĩ của Rohan](../../main/J/J.R.R._Tolkien's_Riders_of_Rohan.md)
+Kỵ sĩ của - [J.R.R. Tolkien của Rohan](../../main/J/J.R.R._Tolkien's_Riders_of_Rohan.md)
 - [Rung chuông](../../main/R/Ringen.md)
 - [Bóng của Mordor](../../main/S/Shadows_of_Mordor.md)
 - [Chiến tranh ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md)
@@ -254,7 +254,7 @@ Cuộc chiến của - [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tol
 
 ## Nintendo DS {#Nintendo_DS}
 
-- [The Lord of the Rings: Nhiệm vụ của Aragorn](../../main/T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)
+- [The Lord of the Rings: Aragorn's Quest](../../main/T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)
 - [The Lord of the Rings: Chinh phục](../../main/T/The_Lord_of_the_Rings%253A_Conquest.md)
 
 ## Nintendo 3DS {#Nintendo_3DS}
@@ -268,7 +268,7 @@ Cuộc chiến của - [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tol
 
 - [Akallabeth MUSH](../../main/A/Akallabeth_MUSH.md)
 - [Bilbo Câu đố trượt](../../main/B/Bilbo_Slider_Puzzle.md)
-- [Con mắt rực cháy](../../main/T/The_Burning_Eye.md)
+- [Con mắt rực lửa](../../main/T/The_Burning_Eye.md)
 - [Bản ngãPhiêu lưu](../../main/E/EgoAdventure.md)
 - [Elendor](../../main/E/Elendor.md)
 - [Người tị nạn Elendor MUX](../../main/E/Elendor_Refugee_MUX.md)
@@ -297,17 +297,17 @@ Cuộc chiến của - [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tol
 - [The Hobbit: Khúc mở đầu cho The Lord of the Rings](<../../main/T/The_Hobbit_(2003_video_game).md>)
 - [The Lord of the Rings: The Fellowship of the Ring](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)
 - [The Lord of the Rings: The Return of the King](<../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>)
-- [The Lord of the Rings: Trận chiến vì Trung Địa](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)
-- [The Lord of the Rings: Trận chiến vì Trung Địa II](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)
-    - [The Lord of the Rings: Trận chiến Trung Địa II: Sự trỗi dậy của Vua Phù thủy](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)
+- [The Lord of the Rings: The Battle for Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)
+- [The Lord of the Rings: The Battle for Middle-earth II](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)
+    - [The Lord of the Rings: The Battle for Middle-earth II: Sự trỗi dậy của Vua Phù thủy](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)
 - [Bùn trung bình](../../main/M/Midden-aarde_MUD.md)
 - [The Lord of the Rings: Chinh phục](../../main/T/The_Lord_of_the_Rings%253A_Conquest.md)
-- [The Lord of the Rings Trực tuyến](../../main/T/The_Lord_of_the_Rings_Online.md)
+- [The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)
     - [The Lord of the Rings Online: Bóng tối của Angmar](../../main/T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md) - Tập I
-    - [The Lord of the Rings Trực tuyến: Mỏ Moria](../../main/T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md) - Tập II
+    - [The Lord of the Rings Online: Mỏ Moria](../../main/T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md) - Tập II
     - [The Lord of the Rings Online: Cuộc vây hãm Mirkwood](../../main/T/The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md) - Quyển IX Tập II và Quyển I-III Tập III
-    - [The Lord of the Rings Trực tuyến: Sự trỗi dậy của Isengard](../../main/T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md)
-    - [The Lord of the Rings Trực tuyến: Tay đua của Rohan](../../main/T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md)
+    - [The Lord of the Rings Online: Sự trỗi dậy của Isengard](../../main/T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md)
+    - [The Lord of the Rings Online: Tay đua của Rohan](../../main/T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md)
 - [The Lord of the Rings: War in the North](../../main/T/The_Lord_of_the_Rings%253A_War_in_the_North.md)
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Middle-Earth:_Shadow_of_Mordor&amp;action=edit&amp;redlink=1" title="Middle-Earth: Shadow of Mordor (page does not exist)">Trung Địa: Bóng Tối trong số Mordor</a>
 
@@ -320,7 +320,7 @@ Cuộc chiến của - [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tol
 ## PlayStation 2 {#PlayStation_2}
 
 - [The Hobbit: Khúc mở đầu cho The Lord of the Rings](<../../main/T/The_Hobbit_(2003_video_game).md>)
-- [The Lord of the Rings: Nhiệm vụ của Aragorn](../../main/T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)
+- [The Lord of the Rings: Aragorn's Quest](../../main/T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)
 - [The Lord of the Rings: The Fellowship of the Ring](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)
 - [The Lord of the Rings: Kỷ Đệ Tam](../../main/T/The_Lord_of_the_Rings%253A_The_Third_Age.md)
 - [The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)
@@ -328,7 +328,7 @@ Cuộc chiến của - [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tol
 
 ## PlayStation 3 {#PlayStation_3}
 
-- [Người giám hộ của Trung Địa](../../main/G/Guardians_of_Middle-earth.md)
+- [Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)
 - [The Lord of the Rings: War in the North](../../main/T/The_Lord_of_the_Rings%253A_War_in_the_North.md)
 - [The Lord of the Rings: Bạch Hội Đồng](../../main/T/The_Lord_of_the_Rings%253A_The_White_Council.md) (Đã hủy)
 
@@ -338,12 +338,12 @@ Cuộc chiến của - [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tol
 
 ## PSP {#PSP}
 
-- [The Lord of the Rings: Nhiệm vụ của Aragorn](../../main/T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)
+- [The Lord of the Rings: Aragorn's Quest](../../main/T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)
 - [The Lord of the Rings: Chiến thuật](../../main/T/The_Lord_of_the_Rings%253A_Tactics.md)
 
 ## Nhập vai {#Role_Playing}
 
-- [Middle-earth Role Playing](../../main/M/Middle-earth_Role_Playing.md) ([Vương miện Sắt Doanh nghiệp](../../main/I/Iron_Crown_Enterprises.md))
+- [Middle-earth Role Playing](../../main/M/Middle-earth_Role_Playing.md) ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md))
 - The Lord of the Rings RPG (Giải Mã)
 
 ## Sinclair QL {#Sinclair_QL}
@@ -374,12 +374,12 @@ Cuộc chiến của - [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tol
 
 ## Wii {#Wii}
 
-- [The Lord of the Rings: Nhiệm vụ của Aragorn](../../main/T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)
+- [The Lord of the Rings: Aragorn's Quest](../../main/T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)
 
 ## Windows 3.X {#Windows_3.X}
 
 - [Mỏ Moria](<../../main/M/Mines_of_Moria_(video_game).md>)
-- [Mìn của Moria II: Cuộc đào thoát](../../main/M/Mines_of_Moria_II%253A_The_Escape_Out.md)
+- [Mỏ Moria II: Cuộc tẩu thoát](../../main/M/Mines_of_Moria_II%253A_The_Escape_Out.md)
 - [Truy tìm Mordor](../../main/Q/Quest_For_Mordor.md)
 
 ## Xbox {#Xbox}
@@ -393,7 +393,7 @@ Cuộc chiến của - [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tol
 
 - [Cuộc chiến giành Trung Địa](../../main/E/EA's_The_Battle_for_Middle-earth.md) của EA
 - [Trận chiến vì Trung Địa II của EA](../../main/E/EA's_The_Battle_for_Middle-earth_II.md)
-- [Người giám hộ của Trung Địa](../../main/G/Guardians_of_Middle-earth.md)
+- [Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)
 - [The Lord of the Rings: War in the North](../../main/T/The_Lord_of_the_Rings%253A_War_in_the_North.md)
 - [The Lord of the Rings: Bạch Hội Đồng](../../main/T/The_Lord_of_the_Rings%253A_The_White_Council.md)
 - [The Lord of the Rings: Chinh phục](../../main/T/The_Lord_of_the_Rings%253A_Conquest.md)
@@ -423,6 +423,6 @@ Cuộc chiến của - [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tol
 - [Không phải Chúa tể của những chiếc nhẫn](../../main/N/Not_Lord_of_the_Rings.md)
 - [Sinh vật chậm phát triển và hang động](../../main/R/Retarded_Creatures_and_Caverns.md)
 - [Shadowfax](<../../main/S/Shadowfax_(video_game).md>)
-- [Bóng của Mordor](../../main/S/Shadows_of_Mordor.md)
+- [Bóng tối của Mordor](../../main/S/Shadows_of_Mordor.md)
 - [Bộ ba Tolkien](../../main/T/The_Tolkien_Trilogy.md)
 - [Chiến tranh ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md)

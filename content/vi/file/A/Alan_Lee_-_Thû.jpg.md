@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Thû](../../main/T/Thû.md) và [the Pháp sư's Isle](../../main/T/Tol-in-Gaurhoth.md) - Tác phẩm nghệ thuật của [Alan Lee](../../main/A/Alan_Lee.md) cho *[Beren and Lúthien](../../main/B/Beren_and_Lúthien.md)*
+[Thû](../../main/T/Thû.md) và [Đảo của Pháp sư](../../main/T/Tol-in-Gaurhoth.md) - Tác phẩm nghệ thuật của [Alan Lee](../../main/A/Alan_Lee.md) cho *[Beren and Lúthien](../../main/B/Beren_and_Lúthien.md)*
 
 ## Giấy phép {#Licensing}
 

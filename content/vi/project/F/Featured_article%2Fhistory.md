@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Featured articles/Archive"
 ---
 
-Chuyển hướng tới [Tolkien Gateway:Bài viết nổi bật/Lưu trữ](Featured_articles%252FArchive.md).
+Chuyển hướng đến [Tolkien Gateway:Bài viết nổi bật/Lưu trữ](Featured_articles%252FArchive.md).

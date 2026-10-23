@@ -60,7 +60,7 @@ Có khả năng [Người lùn](../D/Dwarves.md) đã giành lại Moria trong [
 
 ## Khắc họa trong các bản chuyển thể {#Portrayal_in_adaptations}
 
-<b>2024: <i><a href="../T/The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">The One Ring</a> — <a href="../M/Moria_-_Through_the_Doors_of_Durin.md" title="Moria - Through the Doors of Durin">Moria: Through the Doors of Durin</a></i>:</b>
+<b>2024: <i><a href="../T/The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">Chiếc nhẫn duy nhất</a> — <a href="../M/Moria_-_Through_the_Doors_of_Durin.md" title="Moria - Through the Doors of Durin">Moria: Qua cánh cửa của Durin</a></i>:</b>
 
 <dl><dd><a href="../D/Durin_I.md" title="Durin I">Durin I</a> made the chasm, though it is not know through which means he did so. By <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2965.md" title="Third Age 2965">2965</a>, the wailing of captives in the Ledge of Woe, an Orcish prison far below which opened to the chasm, could be heard from the Bridge.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 

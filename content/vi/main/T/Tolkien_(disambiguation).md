@@ -37,7 +37,7 @@ images:
 - [Michael Tolkien](../M/Michael_Tolkien.md) ([1920](../_/1920.md) - [1984](../_/1984.md)), con trai thứ hai của J.R.R. Tolkien.
 - [Priscilla Tolkien](../P/Priscilla_Tolkien.md) (sinh [1929](../_/1929.md)), con gái của J.R.R. Tolkien.
 - [Rachel Tolkien](../R/Rachel_Tolkien.md) (sinh [1971](../_/1971.md)), con gái của [Christopher](../C/Christopher_Tolkien.md) và [Baillie Tolkien](../B/Baillie_Tolkien.md).
-- [Royd Tolkien](../R/Royd_Tolkien.md) (sinh ra [1969](../_/1969.md)), chắt của J.R.R. Tolkien, cháu trai của [Michael Tolkien](../M/Michael_Tolkien.md) và là nhà xuất bản nổi tiếng.
+- [Royd Tolkien](../R/Royd_Tolkien.md) (sinh [1969](../_/1969.md)), chắt của J.R.R. Tolkien, cháu trai của [Michael Tolkien](../M/Michael_Tolkien.md) và là nhà xuất bản nổi tiếng.
 - [Simon Tolkien](../S/Simon_Tolkien.md) (sinh [1959](../_/1959.md)), con trai cả của [Christopher Tolkien](../C/Christopher_Tolkien.md) và là một tác giả theo đúng nghĩa của mình.
 - [Tim Tolkien](Tim_Tolkien.md) (sinh [1962](../_/1962.md)), cháu trai của [Hilary Tolkien](../H/Hilary_Tolkien.md) và là nhà điêu khắc nổi tiếng.
 

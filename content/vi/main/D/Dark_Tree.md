@@ -12,7 +12,7 @@ categories:
   - "Concepts"
 ---
 
-**Cây tối** là một thuật ngữ trừu tượng trong đoạn truyện có tên *[The New Shadow](../T/The_New_Shadow.md)*.
+**Cây tối** là một thuật ngữ trừu tượng trong đoạn truyện có tựa đề *[The New Shadow](../T/The_New_Shadow.md)*.
 
 ## Lịch sử {#History}
 

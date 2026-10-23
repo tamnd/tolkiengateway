@@ -27,7 +27,7 @@ infobox:
 
 **Adam Hornbutter** là thợ rèn ở [Hobbiton](../H/Hobbiton.md) ở phần mở đầu của chương *[The Shadow of the Past](../T/The_Shadow_of_the_Past.md)* của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*, chương này tại thời điểm viết bài này được gọi là *[Of Gollum and the Ring](../O/Of_Gollum_and_the_Ring.md)*.<sup id="cite_ref-Shadow_1-1" class="reference"><a href="#cite_note-Shadow-1">[1]</a></sup>
 
-Anh ấy đã được [Gandalf](../G/Gandalf.md) nhắc đến trong cuộc trò chuyện với [Frodo](../F/Frodo.md), về việc không gì có thể làm tan chảy [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).<sup id="cite_ref-Shadow_1-2" class="reference"><a href="#cite_note-Shadow-1">[1]</a></sup>
+Anh ấy đã được [Gandalf](../G/Gandalf.md) nhắc đến trong cuộc trò chuyện với [Frodo](../F/Frodo.md), về việc không có gì có thể tan chảy được [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).<sup id="cite_ref-Shadow_1-2" class="reference"><a href="#cite_note-Shadow-1">[1]</a></sup>
 
 <span></span>
 

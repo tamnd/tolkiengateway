@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amon"
 ---
 
-Chuyển hướng đến [Amon](../A/Amon.md).
+Chuyển hướng tới [Amon](../A/Amon.md).

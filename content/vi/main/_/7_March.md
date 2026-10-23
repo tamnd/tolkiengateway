@@ -74,7 +74,7 @@ Sự kiện xảy ra vào ngày 7 tháng 3.
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - [Faramir](../F/Faramir.md) dẫn đầu một cuộc đột kích chống lại [Haradrim](../H/Haradrim.md) ở [Ithilien](../I/Ithilien.md).
-    - Anh ta tìm thấy [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) và đưa họ đến [Henneth Annûn](../H/Henneth_Annûn.md). Anh ta biết về việc Frodo mang theo [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) nhưng không cố lấy nó.
+    - Anh ta tìm thấy [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) và đưa họ đến [Henneth Annûn](../H/Henneth_Annûn.md). Anh ta biết về việc Frodo mang theo [Người Nhẫn](../T/The_One_Ring.md) nhưng không cố gắng lấy nó.
     - [Gandalf](../G/Gandalf.md) di chuyển với [Pippin](../P/Peregrin_Took.md) dọc theo [Dãy Núi Trắng](../W/White_Mountains.md) hướng tới [Minas Tirith](../M/Minas_Tirith.md).
     - [Aragorn](../A/Aragorn.md) đạt [Dunharrow](../D/Dunharrow.md) khi màn đêm buông xuống.
     - [Théoden](../T/Théoden.md) và [éoherë](Éoherë.md) di chuyển về phía [Dunharrow](../D/Dunharrow.md).

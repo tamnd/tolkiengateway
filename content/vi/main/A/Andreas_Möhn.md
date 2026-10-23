@@ -40,7 +40,7 @@ Vào tháng 10 [2014](../_/2014.md) một số bài viết đã bị xóa khỏi
 ## Liên kết ngoài {#External_links}
 
 - <b><a class="external text" href="http://lalaithmesp.blogspot.com" rel="noreferrer noopener" target="_blank">Trang khoa học Trung Địa của Lalaith</a></b>
-Sách của - <a class="external text" href="https://www.amazon.fr/dp/B0C8BX25W4?binding=kindle_edition&amp;ref_=ast_author_bsi" rel="noreferrer noopener" target="_blank"><i>Trung Địa Bộ sưu tập khoa học</i></a> trên amazon
+Sách của - <a class="external text" href="https://www.amazon.fr/dp/B0C8BX25W4?binding=kindle_edition&amp;ref_=ast_author_bsi" rel="noreferrer noopener" target="_blank"><i>Trung Địa Bộ sưu tập Khoa học</i></a> trên amazon
 
 <span></span>
 

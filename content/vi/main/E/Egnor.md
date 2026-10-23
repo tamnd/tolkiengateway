@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Egnor (disambiguation)"
 ---
 
-Chuyển hướng đến [Egnor (định hướng)](<Egnor_(disambiguation).md>).
+Chuyển hướng tới [Egnor (định hướng)](<Egnor_(disambiguation).md>).

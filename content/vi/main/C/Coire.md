@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Coirë"
 ---
 
-Chuyển hướng tới [Coirë](Coirë.md).
+Chuyển hướng đến [Coirë](Coirë.md).

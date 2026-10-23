@@ -87,7 +87,7 @@ Một tài khoản khác nói rằng *Durinn* là một trong những Người l
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Durin_II.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/25/The_Lord_of_the_Rings_Online_-_Durin_II.jpg/150px-The_Lord_of_the_Rings_Online_-_Durin_II.jpg" decoding="async" loading="lazy" width="150" height="217" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/25/The_Lord_of_the_Rings_Online_-_Durin_II.jpg/225px-The_Lord_of_the_Rings_Online_-_Durin_II.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/25/The_Lord_of_the_Rings_Online_-_Durin_II.jpg/300px-The_Lord_of_the_Rings_Online_-_Durin_II.jpg 2x" data-file-width="890" data-file-height="1290"/></a><figcaption>Durin II in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 

@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Stirling, Lindsey"
 ---
 
-**Lindsey Stirling** là nghệ sĩ violin và nhạc sĩ sống ở Santa Ana, California. Vào năm 2014, cô đã phát hành một bài hát dựa trên chủ đề các sáng tác phim của [Howard Shore](../H/Howard_Shore.md), mang tên "Liên khúc Chúa tể của những chiếc nhẫn".
+**Lindsey Stirling** là nghệ sĩ violin và nhạc sĩ sống ở Santa Ana, California. Năm 2014, cô phát hành một bài hát dựa trên chủ đề sáng tác phim của [Howard Shore](../H/Howard_Shore.md), mang tên "Liên khúc Chúa tể của những chiếc nhẫn".
 
 ## Liên kết ngoài {#External_links}
 

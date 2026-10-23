@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Otsola"
 ---
 
-Chuyển hướng đến [Otsola](Otsola.md).
+Chuyển hướng tới [Otsola](Otsola.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Egalmoth"
 ---
 
-Chuyển hướng tới [Egalmoth](../E/Egalmoth.md).
+Chuyển hướng đến [Egalmoth](../E/Egalmoth.md).

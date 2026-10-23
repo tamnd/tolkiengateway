@@ -109,7 +109,7 @@ Black Gate còn được gọi là Morannon,<sup id="cite_ref-Closed_3-4" class=
 
 <dl><dd>The Black Gate is present in the film series. in <a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">the second film</a> it appears as a double gate, operated by Trolls, where <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> and <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> attempt to go through the Gate until convinced by <a href="../G/Gollum.md" title="Gollum">Gollum</a> not to do so. In <a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">the third film</a> the Black Gate is a focal point of the <a href="Battle_of_the_Morannon.md" title="Battle of the Morannon">Battle of the Morannon</a>, and after the destruction of <a href="../T/The_One_Ring.md" title="The One Ring">the One Ring</a> the Black Gate and the <a href="../T/Towers_of_the_Teeth.md" title="Towers of the Teeth">Towers of the Teeth</a> are seen to collapse.</dd></dl>
 
-<b><a href="../_/2017.md" title="2017">2017</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b><a href="../_/2017.md" title="2017">2017</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Black Gate appears in the game as the location of a number of quests in the lead up to the defeat of <a href="../S/Sauron.md" title="Sauron">Sauron</a>.</dd></dl>
 

@@ -84,7 +84,7 @@ Trong các phiên bản trước của [huyền thoại](../L/Legendarium.md), *
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Nhân vật Thuringwethil xuất hiện lần đầu tiên trong [huyền thoại](../L/Legendarium.md) trong *[Lay of Leithian](../L/Lay_of_Leithian.md)*. Vì vậy, trong *[The Tale of Tinúviel](The_Tale_of_Tinúviel.md)* (phiên bản đầu tiên của câu chuyện về Beren and Lúthien), [Tinúviel](Tinúviel.md) chỉ cần mặc chiếc áo choàng đen của giấc ngủ ma thuật khi bước vào [Angamandi](../A/Angamandi.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
+Nhân vật Thuringwethil xuất hiện lần đầu tiên trong [huyền thoại](../L/Legendarium.md) trong *[Lay of Leithian](../L/Lay_of_Leithian.md)*. Vì vậy, trong *[The Tale of Tinúviel](The_Tale_of_Tinúviel.md)* (phiên bản đầu tiên của câu chuyện về Beren and Lúthien), [Tinúviel](Tinúviel.md) chỉ cần khoác chiếc áo choàng đen của giấc ngủ ma thuật khi bước vào [Angamandi](../A/Angamandi.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
 
 ## Ghi chú {#Notes}
 

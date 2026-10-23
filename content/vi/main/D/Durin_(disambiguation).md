@@ -33,7 +33,7 @@ images:
 
 - **[Durin I](Durin_I.md), "Bất tử", một trong bảy [Tổ phụ của người Lùn](../F/Fathers_of_the_Dwarves.md).**
 - [Durin II](Durin_II.md)
-- [Durin III](Durin_III.md), được [Celebrimbor](../C/Celebrimbor.md)trao [Chiếc nhẫn sức mạnh](../R/Ring_of_Thrór.md).
+- [Durin III](Durin_III.md), được [Nhẫn Quyền năng](../R/Ring_of_Thrór.md) cấp cho [Celebrimbor](../C/Celebrimbor.md).
 - [Durin IV](Durin_IV.md)
 - [Durin V](Durin_V.md)
 - [Durin VI](Durin_VI.md), bị giết bởi [Tai họa của Durin](Durin's_Bane.md).

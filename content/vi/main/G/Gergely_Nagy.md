@@ -53,7 +53,7 @@ sort_keys:
     - "Truyền miệng"
     - "Plato"
     - "Silmarillion, Cái"
-    - "Lý thuyết chủ đề và ký hiệu học"
+    - "Lý thuyết chủ đề và Ký hiệu học"
     - "Văn bản"
 - [2013](../_/2013.md): *[The Body in Tolkien's Legendarium](../T/The_Body_in_Tolkien's_Legendarium.md)*
     - "Một huyền thoại: Đại diện cho Sauron trong *The Lord of the Rings*"
@@ -62,7 +62,7 @@ sort_keys:
 
 ### Bản dịch {#Translations}
 
-- [2008](../_/2008.md)-[9](../_/2009.md): "[Beowulf: Những con quái vật và những kẻ phê bình](../B/Beowulf%253A_The_Monsters_and_the_Critics.md)"
+- [2008](../_/2008.md)-[9](../_/2009.md): "[Beowulf: Những con quái vật và những kẻ phê phán](../B/Beowulf%253A_The_Monsters_and_the_Critics.md)"
 
 ## Liên kết ngoài {#External_links}
 

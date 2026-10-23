@@ -72,7 +72,7 @@ Sự kiện xảy ra vào ngày 15 tháng 1.
 - **[1967](1967.md)** - [Bài phỏng vấn của Philip Norman](../../index/I/Interviews_with_J.R.R._Tolkien.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được đăng trên *[The Sunday Times Magazine](../T/The_Sunday_Times_Magazine_15_January_1967.md)* và *[The New York Times Magazine](../T/The_New_York_Times_Magazine_15_January_1967.md)*.
 - **[1970](1970.md)** - Nhạc sĩ [Charles Deenen](../C/Charles_Deenen.md) ra đời.
 - **[1972](1972.md)** - [Hội Tolkien](../T/The_Tolkien_Society.md) tổ chức đại hội và chính thức được thành lập.
-- **[2005](2005.md)** - Ngày thứ hai của "[Lễ kỷ niệm một chiếc nhẫn](../T/The_One_Ring_Celebration.md)" đầu tiên.
+- **[2005](2005.md)** - Ngày thứ hai của "[Chiếc nhẫn duy nhất Lễ kỷ niệm](../T/The_One_Ring_Celebration.md) đầu tiên.
 - **[2015](2015.md)** - *[A Brief History of The Hobbit](../A/A_Brief_History_of_The_Hobbit.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}

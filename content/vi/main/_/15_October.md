@@ -70,7 +70,7 @@ Sự kiện xảy ra vào ngày 15 tháng 10
 - **[1959](1959.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 220](../L/Letter_220.md).
 - **[1963](1963.md)** – Khi đang ăn tối, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã cứu sống một bà già suýt nghẹn vì khúc xương trắng.
 - **[1999](1999.md)** - Tác giả [Barbara Strachey](../B/Barbara_Strachey.md) qua đời năm [Oxford](../O/Oxford.md).
-- **[2007](2007.md)** - [Ring\*Con 2007](../R/Ring%252ACon_2007.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Fulda" title="wikipedia:Fulda">Fulda</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2007](2007.md)** - [Nhẫn\*Con 2007](../R/Ring%252ACon_2007.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Fulda" title="wikipedia:Fulda">Fulda</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 - **[2009](2009.md)** - Mereth Aderthad XV, hay "EstelCon", ở <a class="extiw" href="http://en.wikipedia.org/wiki/Cardona,_Spain" title="wikipedia:Cardona, Spain">Cardona</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Spain" title="wikipedia:Spain">Tây Ban Nha</a>.
 - **[2010](2010.md)** - [Peter Jackson](../P/Peter_Jackson.md) chính thức được công bố là đạo diễn của [The Hobbit loạt phim](<../T/The_Hobbit_(film_series).md>).
 - **[2012](2012.md)** - *[The Lord of the Rings Online: Riders of Rohan](../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md)* bản mở rộng được phát hành.

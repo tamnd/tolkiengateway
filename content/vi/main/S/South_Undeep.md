@@ -24,7 +24,7 @@ images:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The South Undeep is located in the northern Wold, connecting two riverbanks through a small island in the middle of the river. Due to the unstable political situation in Rohan, a party of <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a> has been able to take the crossing and establish a fortified camp on the western bank, from which they attack and burn the Rohirrim town of <i>Langhold</i>.</dd></dl>
 

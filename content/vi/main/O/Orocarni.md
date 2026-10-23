@@ -43,7 +43,7 @@ infobox:
 
 ## Địa lý {#Geography}
 
-Trên sườn phía tây của Orocarni mọc lên *[Wild Wood](../W/Wild_Wood.md)*và gần một thác nước lớn của con sông chảy vào Nội địa [Biển Helcar](../S/Sea_of_Helcar.md) là vịnh [Cuiviénen](../C/Cuiviénen.md), nơi [Tiên tộc](../E/Elves.md) đầu tiên thức dậy.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Ở rìa phía bắc của chúng, Orocarni đến gần [Ered Engrin](../I/Iron_Mountains.md),<sup id="cite_ref-SMA4_2-1" class="reference"><a href="#cite_note-SMA4-2">[2]</a></sup> tương tự như [Ered Luin](../B/Blue_Mountains.md) ở cực tây bắc.
+Trên sườn phía tây của Orocarni mọc lên *[Wild Wood](../W/Wild_Wood.md)*, và gần một thác nước lớn của con sông chảy vào Nội địa [Biển Helcar](../S/Sea_of_Helcar.md) là vịnh [Cuiviénen](../C/Cuiviénen.md), nơi [Tiên tộc](../E/Elves.md) đầu tiên thức dậy.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Ở rìa phía bắc của chúng, Orocarni đến gần [Ered Engrin](../I/Iron_Mountains.md),<sup id="cite_ref-SMA4_2-1" class="reference"><a href="#cite_note-SMA4-2">[2]</a></sup> tương tự như [Ered Luin](../B/Blue_Mountains.md) ở cực tây bắc.
 
 Vị trí của bốn gia tộc [Người lùn](../D/Dwarves.md) sống trong phương Đông vẫn chưa được xác định; họ có thể đã hoặc chưa cư trú ở Orocarni. Khoảng cách giữa dinh thự của họ trong phương Đông và [Dãy Núi Sương Mù](../M/Misty_Mountains.md), cụ thể là [Gundabad](../G/Gundabad.md), được cho là bằng hoặc lớn hơn khoảng cách của Gundabad với [Dãy Núi Xanh](../B/Blue_Mountains.md) trong Phương Tây.<sup id="cite_ref-Oro_1-1" class="reference"><a href="#cite_note-Oro-1">[1]</a></sup>
 
@@ -53,7 +53,7 @@ Tên *Orocarni* là [Quenya](../Q/Quenya.md) và được dịch là 'Red Dãy N
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Lacking the rights to the name &#34;Orocarni&#34;, the game contains mentions of &#34;Ered Cernin&#34;, a mountain range in the East which is home to <a href="../I/Ironfists.md" title="Ironfists">Zhélruka</a> and <a href="../S/Stonefoots.md" title="Stonefoots">Abnúzhu</a> clans of Dwarves.</dd></dl>
 

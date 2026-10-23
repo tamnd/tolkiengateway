@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andvír"
 ---
 
-Chuyển hướng tới [Andvír](Andvír.md).
+Chuyển hướng đến [Andvír](Andvír.md).

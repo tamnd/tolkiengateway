@@ -174,7 +174,7 @@ Trong bản viết lại chưa hoàn tất năm [1960](../_/1960.md) của Tolki
 
 <dl><dd>Bombur is omitted. <a href="../T/Thorin.md" title="Thorin">Thorin Oakenshield</a> only travels with an unnamed guard and the princess of Dale.<sup id="cite_ref-Deitch_23-0" class="reference"><a href="#cite_note-Deitch-23">[23]</a></sup></dd></dl>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (1977 film)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>Bombur is played by <a href="../P/Paul_Frees.md" title="Paul Frees">Paul Frees</a>. Apart from Thorin, he is one of the only three other Dwarves who speaks with any regularity (<a href="Balin.md" title="Balin">Balin</a> and <a href="../D/Dori.md" title="Dori">Dori</a> being the others). Unlike in the book, Bombur dies while looking for <a href="Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> due to wounds sustained in the <a href="Battle_of_Five_Armies.md" title="Battle of Five Armies">Battle of Five Armies</a>. Thorin and five other unnamed Dwarves perish too.</dd></dl>
 

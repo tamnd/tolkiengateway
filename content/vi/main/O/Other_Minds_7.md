@@ -40,13 +40,13 @@ infobox:
     - Bởi Thomas Morwinsky
 - "Bên kia"
     - Bởi José Enrique Vacas de la Rosa
-- "Quy tắc bổ sung MERP"
+- "MERP Quy tắc bổ sung"
     - Bởi Thomas Morwinsky
 - "Sự thăng trầm của Númenórean Công nghệ"
     - Bởi António Simões
 - "Bản in đẹp và tuyên bố miễn trừ trách nhiệm"
 - "Giấy phép Creative Commons"
-- "Appendix A: Danh sách chính tả cho 'Quy tắc bổ sung MERP'"
+- "Appendix A: Danh sách chính tả cho 'MERP Quy tắc bổ sung'"
 - "Phụ lục B: Niên đại của 'Sự thăng trầm của Númenórean Công nghệ'"
 
 - **Tác phẩm nghệ thuật / Bản đồ:**

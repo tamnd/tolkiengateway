@@ -23,7 +23,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Willy_Wielek-Berg"
 ---
 
-**Willy Wielek-Berg** ([14 tháng 6](../_/14_June.md), [1919](../_/1919.md) - [7 tháng 1](../_/7_January.md), [2004](../_/2004.md)) là một dịch giả người Hà Lan. Cô đã dịch một số truyện không phải[Trung Địa](../M/Middle-earth.md) của [Tolkien](../J/J.R.R._Tolkien.md)sang tiếng Hà Lan và là người đầu tiên dịch *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* và *[Leaf by Niggle](../L/Leaf_by_Niggle.md)*. Trong số những bản dịch khác của cô có tác phẩm của [Vera Chapman](../V/Vera_Chapman.md).
+**Willy Wielek-Berg** ([14 tháng 6](../_/14_June.md), [1919](../_/1919.md) - [7 tháng 1](../_/7_January.md), [2004](../_/2004.md)) là một dịch giả người Hà Lan. Cô đã dịch một số truyện không phải[Trung Địa](../M/Middle-earth.md) của [Tolkien](../J/J.R.R._Tolkien.md)sang tiếng Hà Lan và là người đầu tiên dịch *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* và *[Leaf by Niggle](../L/Leaf_by_Niggle.md)*. Trong số các bản dịch khác của cô có tác phẩm [Vera Chapman](../V/Vera_Chapman.md).
 
 ## Bản dịch {#Translations}
 

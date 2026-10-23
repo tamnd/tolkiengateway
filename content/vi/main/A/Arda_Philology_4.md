@@ -42,7 +42,7 @@ infobox:
 - [Arden R. Smith](Arden_R._Smith.md): "Chỉnh sửa bảng chữ cái của Tolkien"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Georgia_Kyte&amp;action=edit&amp;redlink=1" title="Georgia Kyte (page does not exist)">Georgia Kyte</a>: "Bí ẩn và phép thuật ở những vùng đất xa xôi: Tên của [Ithryn Luin](../B/Blue_Wizards.md) là manh mối cho vai trò và tầm quan trọng của họ"
 - [Ivan A. Derzhanski](../I/Ivan_A._Derzhanski.md): "Một số điểm tương đồng giữa các đại từ trong J.R.R. Tolkien và ngôn ngữ trong thế giới thực"
-- [Måns Björkman](../M/Måns_Björkman.md): "Người tham gia của [Quenya](../Q/Quenya.md)"
+- [Måns Björkman](../M/Måns_Björkman.md): "[Quenya của](../Q/Quenya.md) Người tham gia"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Aleksandar_Miki%C4%87&amp;action=edit&amp;redlink=1" title="Aleksandar Mikić (page does not exist)">Aleksandar Mikić</a>: "Của *orivaine*, *kamilot*, và họ hàng của họ: Từ dành cho cây họ đậu trong ngôn ngữ được phát minh của Tolkien"
 - [Arden R. Smith](Arden_R._Smith.md): "Các ký hiệu ngữ âm trong tài liệu chữ cái ban đầu của Tolkien"
 - [Roman Rausch](../R/Roman_Rausch.md): "Chủ nghĩa tượng trưng âm thanh trong Elvish"

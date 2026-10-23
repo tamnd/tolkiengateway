@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orn"
 ---
 
-Chuyển hướng đến [Orn](../O/Orn.md).
+Chuyển hướng tới [Orn](../O/Orn.md).

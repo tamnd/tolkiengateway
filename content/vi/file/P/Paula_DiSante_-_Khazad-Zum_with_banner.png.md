@@ -29,7 +29,7 @@ Một chút Trung Địa hài hước.
 
 Khazad-zûm của Paula DiSante. Bản quyền 2023.
 
-Bạn nhận được gì khi vượt qua Mỏ Moria với đại dịch Đoàn Hộ Nhẫn và Trung Địa trên toàn thế giới?
+Bạn nhận được gì khi vượt qua Mỏ Moria với Đoàn Hộ Nhẫn và đại dịch lan rộng Trung Địa?
 
 ## Giấy phép {#Licensing}
 

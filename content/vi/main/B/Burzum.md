@@ -17,7 +17,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the word</b>. For the the band, see <b><a href="Burzum_(band).md" title="Burzum (band)">Burzum (band)</a></b>.</div></div>
 
-<i><b>burzum</b></i> là một từ trong [Hắc Ngữ](Black_Speech.md) có nghĩa là "bóng tối". Nó được tìm thấy trong [Dòng chữ](../R/Ring-inscription.md). Nó được hình thành từ gốc *[búrz](Búrz.md)* ("tối") và hậu tố đặc biệt hoặc 'mạo từ' *um*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><span></span>
+<i><b>burzum</b></i> là một từ trong [Hắc Ngữ](Black_Speech.md) có nghĩa là "bóng tối". Nó được tìm thấy trong [Nhẫn-dòng chữ](../R/Ring-inscription.md). Nó được hình thành từ gốc *[búrz](Búrz.md)* ("tối") và hậu tố đặc biệt hoặc 'mạo từ' *um*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><span></span>
 
 ## Tài liệu tham khảo {#References}
 

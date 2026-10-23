@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rómendacil I"
 ---
 
-Chuyển hướng tới [Rómendacil I](Rómendacil_I.md).
+Chuyển hướng đến [Rómendacil I](Rómendacil_I.md).

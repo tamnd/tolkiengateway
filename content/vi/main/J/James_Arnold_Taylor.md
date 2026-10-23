@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Taylor, James Arnold"
 ---
 
-**James Arnold Taylor** ([22 tháng 7](../_/22_July.md), [1969](../_/1969.md)) là một diễn viên lồng tiếng người Mỹ, được công nhận rộng rãi là người lồng tiếng cho Obi Wan-Kenobi trong nhiều trò chơi và loạt phim *Star Wars*, Johnny Test trong chương trình cùng tên và Wooldoor Sockbat trong *Drawn Together*. Taylor đã lồng tiếng cho một số trò chơi điện tử [Vivendi](../V/Vivendi.md).
+**James Arnold Taylor** ([22 tháng 7](../_/22_July.md), [1969](../_/1969.md)) là một diễn viên lồng tiếng người Mỹ, được công nhận rộng rãi là người lồng tiếng cho Obi Wan-Kenobi trong nhiều trò chơi và loạt phim *Star Wars*, Johnny Test trong chương trình cùng tên và Wooldoor Sockbat trong *Drawn Together*. Taylor đã cung cấp một số giọng nói cho trò chơi điện tử [Vivendi](../V/Vivendi.md).
 
 ## Vai trò {#Roles}
 

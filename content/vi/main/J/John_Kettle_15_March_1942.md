@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to John Kettle"
 ---
 
-Chuyển hướng đến [Thư gửi John Kettle](../L/Letter_to_John_Kettle.md).
+Chuyển hướng đến [Thư gửi John Ấm đun nước](../L/Letter_to_John_Kettle.md).

@@ -59,15 +59,15 @@ infobox:
 
 **Arveleg I** ([T.A.](../T/Third_Age.md) [1309](../T/Third_Age_1309.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> - [T.A.](../T/Third_Age.md) [1409](../T/Third_Age_1409.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>) là vị vua thứ tám của [Arthedain](Arthedain.md), kế vị cha mình là [Argeleb I](Argeleb_I.md).
 
-## History {#History}
+## Lịch sử {#History}
 
-During his lifetime, the father of Arveleg, Argeleb son of [Malvegil](../M/Malvegil.md), was the only King in Arnor that still had [Isildur](../I/Isildur.md)'s heritage. As such, he claimed lordship over [Rhudaur](../R/Rhudaur.md) and [Cardolan](../C/Cardolan.md). The men of Rhudaur resisted this claim, and a captain of the [Hill-men](../H/Hill-men.md) of that land formed a secret alliance with Argeleb's enemy, the [Witch-king](../W/Witch-king.md) of [Angmar](Angmar.md). Thus Arveleg grew up in an era of War. The armies of [Angmar](Angmar.md) and Rhudaur laid siege to the [Weather Hills](../W/Weather_Hills.md), and Argeleb fell. And so, in [T.A.](../T/Third_Age.md) [1356](../T/Third_Age_1356.md), Arveleg became the eighth King of Arthedain.
+Trong suốt cuộc đời của mình, cha của Arveleg, Argeleb, con trai của [Malvegil](../M/Malvegil.md), là Vua duy nhất trong Arnor vẫn còn di sản của [Isildur](../I/Isildur.md). Như vậy, ông đã tuyên bố quyền thống trị đối với [Rhudaur](../R/Rhudaur.md) và [Cardolan](../C/Cardolan.md). Những người của Rhudaur chống lại yêu sách này và một thuyền trưởng của [Hill-men](../H/Hill-men.md) vùng đất đó đã thành lập một liên minh bí mật với kẻ thù của Argeleb, [Vua Phù thủy](../W/Witch-king.md) của [Angmar](Angmar.md). Vì vậy Arveleg lớn lên trong thời đại Chiến tranh. Quân đội của [Angmar](Angmar.md) và Rhudaur bao vây [Weather Hills](../W/Weather_Hills.md), và Argeleb thất thủ. Và vì vậy, trong [T.A.](../T/Third_Age.md) [1356](../T/Third_Age_1356.md), Arveleg trở thành Vua thứ tám của Arthedain.
 
-With the help of the Dúnedain of Cardolan and the [Elves of Lindon](../E/Elves_of_Lindon.md), Arveleg managed to drive out the enemies from the Weather Hills. Arthedain and Cardolan kept a guarded border along the Weather Hills, the [East Road](../E/East_Road.md) and the lower [Hoarwell](../H/Hoarwell.md). This defence was apparently effective, as Angmar shifted its attention to [Rivendell](../R/Rivendell.md) instead.
+Với sự trợ giúp của Dúnedain của Cardolan và [Tiên tộc của Lindon](../E/Elves_of_Lindon.md), Arveleg đã đánh đuổi được kẻ thù khỏi Weather Hills. Arthedain và Cardolan giữ biên giới được canh gác dọc theo Weather Hills, [phương Đông Đường](../E/East_Road.md) và [Hoarwell](../H/Hoarwell.md)phía dưới. Cách phòng thủ này rõ ràng đã có hiệu quả, vì Angmar thay vào đó đã chuyển sự chú ý sang [Rivendell](../R/Rivendell.md).
 
-In [T.A.](../T/Third_Age.md) [1409](../T/Third_Age_1409.md), the armies of Angmar and Rhudaur crossed the Hoarwell, occupied Cardolan, and closed in on Weathertop. In a bloody [battle](../F/Fall_of_Amon_Sûl.md), both Arveleg and the [last prince of Cardolan](../L/Last_prince_of_Cardolan.md) were slain.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The [palantír](Amon_Sûl-stone.md) of Amon Sûl could be saved, however, and was brought to the capital of Arthedain, [Fornost](../F/Fornost_Erain.md).
+Trong [T.A.](../T/Third_Age.md) [1409](../T/Third_Age_1409.md), quân đội của Angmar và Rhudaur đã vượt qua Hoarwell, chiếm đóng Cardolan và áp sát Weathertop. Trong một [trận chiến](../F/Fall_of_Amon_Sûl.md) đẫm máu, cả Arveleg và [hoàng tử cuối cùng của Cardolan](../L/Last_prince_of_Cardolan.md) đều bị giết.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tuy nhiên, [palantír](Amon_Sûl-stone.md) của Amon Sûl có thể được cứu và được đưa về thủ đô của Arthedain, [Fornost](../F/Fornost_Erain.md).
 
-After his death, Arveleg was succeeded by his 18-year old son, [Araphor](Araphor.md). Though this was a young age for one of [Númenórean](../N/Númenóreans.md) blood, he was valiant. With the help of the [Círdan](../C/Círdan.md) of Lindon, he repelled attacks on Fornost and the [North Downs](../N/North_Downs.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Sau khi ông qua đời, Arveleg được kế vị bởi đứa con trai 18 tuổi của ông, [Araphor](Araphor.md). Mặc dù đây là tuổi trẻ của một người mang dòng máu [Númenórean](../N/Númenóreans.md) nhưng anh ấy rất dũng cảm. Với sự giúp đỡ của [Círdan](../C/Círdan.md) của Lindon, anh đã đẩy lùi các cuộc tấn công vào Fornost và [North Downs](../N/North_Downs.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -89,11 +89,11 @@ After his death, Arveleg was succeeded by his 18-year old son, [Araphor](Araphor
 
 ## Hình tượng trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a> — <a href="Arnor%253A_The_People.md" title="Arnor: The People">Arnor: The People</a></i>:</b>
+<b>1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a> — <a href="Arnor%253A_The_People.md" title="Arnor: The People">Arnor: Con người</a></i>:</b>
 
 <dl><dd>Arveleg was noted to be “fond of pomp and splendor”. <sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
 <dl><dd>The events surrounding Arveleg play a major role in the expansion pack, <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Rise of the Witch-king</a></i>. Arveleg, voiced by <a href="../C/Cam_Clarke.md" title="Cam Clarke">Cam Clarke</a>, is portrayed as using the <a href="Amon_Sûl-stone.md" title="Amon Sûl-stone">palantír of Amon Sûl</a> to anticipate the Witch-king&#39;s plans. He survives the Fall of Amon Sûl and takes the palantír with him, but destroys it (and himself in the process) to prevent it from falling in the Witch-king&#39;s hands.</dd></dl>
 

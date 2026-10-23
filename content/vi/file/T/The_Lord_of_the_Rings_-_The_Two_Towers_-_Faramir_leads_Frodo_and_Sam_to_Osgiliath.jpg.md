@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Một cảnh tĩnh từ cảnh *[The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*, "[Osgiliath](<../../main/O/Osgiliath_(scene).md>)", cho thấy Faramir dẫn đầu [Frodo](../../main/F/Frodo.md) và [Sam](../../main/S/Sam.md) đến [Osgiliath](../../main/O/Osgiliath.md).
+Một ảnh tĩnh từ cảnh *[The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*, "[Osgiliath](<../../main/O/Osgiliath_(scene).md>)", hiển thị Faramir dẫn [Frodo](../../main/F/Frodo.md) và [Sam](../../main/S/Sam.md) đến [Osgiliath](../../main/O/Osgiliath.md).
 
 ## Giấy phép {#Licensing}
 

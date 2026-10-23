@@ -64,7 +64,7 @@ infobox:
 - Câu đố: Lời giải của 'Trên đường tới Mordor' xuất hiện trong [Mallorn 10](Mallorn_10.md)
     - Bởi: Jessica Kemball-Cook
 - Hồ sơ: Vera Chapman
-- Bài viết: Elbereth Gilthoniel
+- Bài viết: A Elbereth Gilthoniel
     - Bởi: [Jim Allan](../J/Jim_Allan.md)
 - Bài thơ: Con Tyger
     - Bởi: Joe R. Christopher

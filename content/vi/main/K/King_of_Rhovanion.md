@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Rhovanionin_kuningas"
 ---
 
-**Vua của Rhovanion** là danh hiệu được tuyên bố bởi những người cai trị [Người phương Bắc](../N/Northmen.md) của [Rhovanion](../R/Rhovanion.md).
+**Vua của Rhovanion** là danh hiệu được tuyên bố bởi [Người phương Bắc](../N/Northmen.md) những người cai trị [Rhovanion](../R/Rhovanion.md).
 
 [Vidugavia](../V/Vidugavia.md), hoàng tử của [Người phương Bắc](../N/Northmen.md), vào thế kỷ 13 của [Kỷ Đệ Tam](../T/Third_Age.md) đã tuyên bố danh hiệu như vậy và vương quốc của ông, "Vương quốc Rhovanion", nằm giữa [Rừng Xanh](../M/Mirkwood.md) và [River Running](../R/River_Running.md). Tuy nhiên, ngay cả khi ông là hoàng tử quyền lực nhất trong số nhiều hoàng tử phương Bắc, ông chưa bao giờ thực sự thống nhất tất cả Người phương Bắc dưới quyền vương quyền mà mình tuyên bố.<sup id="cite_ref-gondor_1-0" class="reference"><a href="#cite_note-gondor-1">[1]</a></sup>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ernil i Pheriannath"
 ---
 
-Chuyển hướng đến [Ernil i Pheriannath](../E/Ernil_i_Pheriannath.md).
+Chuyển hướng tới [Ernil i Pheriannath](../E/Ernil_i_Pheriannath.md).

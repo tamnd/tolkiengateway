@@ -50,7 +50,7 @@ Trong một ghi chú dành cho người dịch, Tolkien nói, nhưng không nói
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Dwaling  is the northernmost settlement of the Shire, located within the in-game <a href="../E/Evendim.md" title="Evendim">Evendim</a> region. It is the first Shire settlement to be overrun by southern ruffians, who have already moved in and began pusing out the Hobbits by October of <a href="../T/Third_Age_3018.md" title="Third Age 3018">Third Age 3018</a>.</dd></dl>
 

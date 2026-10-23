@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: Weapons and Warfare"
 ---
 
-Chuyển hướng đến [The Lord of the Rings: Vũ khí và Chiến tranh](../T/The_Lord_of_the_Rings%253A_Weapons_and_Warfare.md).
+Chuyển hướng đến [The Lord of the Rings: Weapons and Warfare](../T/The_Lord_of_the_Rings%253A_Weapons_and_Warfare.md).

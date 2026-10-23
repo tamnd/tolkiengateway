@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bạn có thể tìm thấy hình minh họa này trong *[J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)* và trên <a class="external text" href="https://www.tolkienestate.com/painting/for-children/" rel="noreferrer noopener" target="_blank">trang web</a> của [Tolkien Estate](../../main/T/Tolkien_Estate.md), nơi nó có tựa đề <i><b>Khu vườn của cung điện Merking từ câu chuyện <a href="../../main/R/Roverandom.md" title="Roverandom">Roverandom</a></b></i>.
+Bạn có thể tìm thấy hình minh họa này trong *[J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)* và trên <a class="external text" href="https://www.tolkienestate.com/painting/for-children/" rel="noreferrer noopener" target="_blank">trang web</a> của [Tolkien Estate](../../main/T/Tolkien_Estate.md), nơi nó có tựa đề <i><b>Khu vườn của cung điện Merking từ câu chuyện về <a href="../../main/R/Roverandom.md" title="Roverandom">Roverandom</a></b></i>.
 
 [Bìa trước](../R/Roverandom_1998_hardcover.jpeg.md) của *[Roverandom](../../main/R/Roverandom.md)* được dựa trên *Khu vườn của cung điện Merking trong Câu chuyện Roverandom*.
 

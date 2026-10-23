@@ -59,11 +59,11 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
     - Bởi: Ian Collier
 - [Quốc tế](../I/International_Tolkien_Fellowship.md) Sự kiện sắp tới
     - Bởi: Susan Frances Edwards
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Người kể chuyện Ba Bể
     - Bởi: Lê Tường-Phi
-- Bí ẩn về sự phá hủy của [Chiếc nhẫn](../T/The_One_Ring.md)
+- Bí ẩn về sự hủy diệt của [Nhẫn](../T/The_One_Ring.md)
     - Bởi: Chris Mac Arthur
 - Phía sau cánh cửa kính
     - Bởi: Madeline Flint
@@ -73,7 +73,7 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
     - Bởi: Michael Cunningham
 - Thư
 - Vòng quanh thế giới trong 80 xã hội (?)
-    - [Người giải quyết](../U/Unquendor.md)
+    - [Unquendor](../U/Unquendor.md)
 - Tin tức từ [Fangorn](../F/Fangorn_Forest.md)
     - Bởi: Carol Brownlow
 - [Toán học](../M/Mathoms.md)

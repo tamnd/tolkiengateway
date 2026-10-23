@@ -27,7 +27,7 @@ images:
 
 ## Thành phần {#Composition}
 
-Bài thơ có <a class="extiw" href="http://en.wikipedia.org/wiki/Iamb_(poetry)" title="wikipedia:Iamb (poetry)">bốn câu iamb trong mỗi dòng</a>, và các dòng <a class="extiw" href="http://en.wikipedia.org/wiki/Couplet" title="wikipedia:Couplet">vần theo cặp</a>.<sup id="cite_ref-Kamelen_2-0" class="reference"><a href="#cite_note-Kamelen-2">[2]</a></sup> [Verlyn Flieger](../V/Verlyn_Flieger.md) đã miêu tả bài thơ như một đoạn "thơ ca dân gian".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Bài thơ có <a class="extiw" href="http://en.wikipedia.org/wiki/Iamb_(poetry)" title="wikipedia:Iamb (poetry)">bốn câu iamb trong mỗi dòng</a>, và các dòng <a class="extiw" href="http://en.wikipedia.org/wiki/Couplet" title="wikipedia:Couplet">vần theo cặp</a>.<sup id="cite_ref-Kamelen_2-0" class="reference"><a href="#cite_note-Kamelen-2">[2]</a></sup> [Verlyn Flieger](../V/Verlyn_Flieger.md) đã mô tả bài thơ như một đoạn "thơ ca dân gian".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Tên {#Name}
 

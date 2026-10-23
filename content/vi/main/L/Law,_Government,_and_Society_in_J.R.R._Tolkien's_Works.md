@@ -57,7 +57,7 @@ infobox:
     - Giữa Luật pháp và Tội lỗi: Sự diệt vong của Noldor và Lệnh cấm Con Người đặt chân vào Valinor
     - Luật hiện đại: 'Leaf by Niggle'
 - **Phần thứ hai: Luật pháp và Chính phủ trong Arda**
-    - Chúng tôi, những vị vua
+    - Chúng tôi, những vị Vua
     - Quyền lực của các vị vua: Nhà lập pháp, nhà quản lý, thẩm phán
     - 'Sau này ngươi sẽ là Vua!': Về Quy tắc kế vị ngai vàng
     - 'Sau này ngươi có trở thành Nữ hoàng không?': Phụ nữ và ngai vàng
@@ -80,7 +80,7 @@ infobox:
 Cách sử dụng luật lỗi thời của     - Tolkien
     - Arcadia đầy thử thách: Bí ẩn của Chính phủ Shire
     - Max Weber trong Shire: Về việc Hobbit sử dụng vũ lực thể chất
-    - Farmer Giles of Ham và việc sử dụng pháp luật mang tính chế giễu
+    - Farmer Giles of Ham và việc sử dụng pháp luật mang tính chế nhạo
 - Phần kết: The Lord of the Rings là công cụ giảng dạy Luật Lao động
 - **Phụ lục: Pháp luật trong đời sống cá nhân của Tolkien**
     - "A Hobbit về mọi mặt ngoại trừ quy mô": Cuộc sống cá nhân của anh ấy từ góc độ pháp lý

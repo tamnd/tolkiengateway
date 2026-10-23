@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Fellowship of the Ring - Golradir - Councilor of Imladris.jpg"
 ---
 
-Chuyển hướng đến [Tệp:The Lord of the Rings - The Fellowship of the Ring - Golradir - Ủy viên hội đồng Imladris.jpg](The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Golradir_-_Councilor_of_Imladris.jpg.md).
+Chuyển hướng tới [Tệp:The Lord of the Rings - The Fellowship of the Ring - Golradir - Ủy viên hội đồng Imladris.jpg](The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Golradir_-_Councilor_of_Imladris.jpg.md).

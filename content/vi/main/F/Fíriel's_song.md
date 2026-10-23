@@ -88,7 +88,7 @@ in that day beyond the end when my Sun faileth?
 
 ## Xem thêm {#See_also}
 
-- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 ## Liên kết ngoài {#External_links}
 

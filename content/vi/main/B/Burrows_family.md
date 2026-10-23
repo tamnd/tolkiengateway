@@ -30,9 +30,9 @@ Số nhiều đúng của tên là "Burrowses".<sup id="cite_ref-1" class="refer
 
 ## Lịch sử {#History}
 
-Có một mối liên hệ gia đình giữa Hang Sóc và [Bagginses](Baggins_family.md): Anh họ xa của Bilbo là [Peony Baggins](../P/Peony_Baggins.md) đã kết hôn với [Milo Burrows](../M/Milo_Burrows.md) và họ có với nhau bốn người con.<sup id="cite_ref-Baggins_2-0" class="reference"><a href="#cite_note-Baggins-2">[2]</a></sup>
+Có một mối liên hệ gia đình giữa Burrowses và [Bagginses](Baggins_family.md): Bilbo anh họ xa [Peony Baggins](../P/Peony_Baggins.md) đã kết hôn với [Milo Burrows](../M/Milo_Burrows.md)và họ có với nhau bốn người con.<sup id="cite_ref-Baggins_2-0" class="reference"><a href="#cite_note-Baggins-2">[2]</a></sup>
 
-Công ty [Messrs Grubb, Grubb và Burrowes](../M/Messrs_Grubb,_Grubb_and_Burrowes.md) chịu trách nhiệm bán đấu giá tài sản của Bilbo.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
+Công ty [Messrs Grubb, Grubb và Burrowes](../M/Messrs_Grubb,_Grubb_and_Burrowes.md) chịu trách nhiệm bán đấu giá Bilbo đồ đạc.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
 
 Một số thành viên đã có mặt tại [Bữa tiệc chia tay](Bilbo's_Farewell_Party.md) nổi tiếng của [Bilbo Baggins](Bilbo_Baggins.md).<sup id="cite_ref-Baggins_2-1" class="reference"><a href="#cite_note-Baggins-2">[2]</a></sup>
 

@@ -12,4 +12,4 @@ categories:
   - "Realms"
 ---
 
-Danh mục này liệt kê tất cả **Ainur cõi** trong Arda.
+Danh mục này liệt kê tất cả **Ainur lĩnh vực** trong Arda.

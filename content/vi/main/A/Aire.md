@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Airë"
 ---
 
-Chuyển hướng đến [Airë](Airë.md).
+Chuyển hướng tới [Airë](Airë.md).

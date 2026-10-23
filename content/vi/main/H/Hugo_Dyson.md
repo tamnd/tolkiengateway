@@ -39,7 +39,7 @@ Anh ấy thích nói chuyện hơn là đọc bài đọc tại các cuộc họ
 
 ## Đọc thêm {#Further_reading}
 
-- "Hugo Dyson: Người giáo viên mơ hồ, *Bon Vivant*", của [David Bratman](../D/David_Bratman.md). *[Mythlore](../M/Mythlore.md)* 21:4 (toàn bộ [số 82](../M/Mythlore_82.md)) (Mùa đông 1997): 19-34.
+- "Hugo Dyson: Người thầy mơ hồ, *Bon Vivant*", của [David Bratman](../D/David_Bratman.md). *[Mythlore](../M/Mythlore.md)* 21:4 (toàn bộ [số 82](../M/Mythlore_82.md)) (Mùa đông 1997): 19-34.
 
 ## Liên kết ngoài {#External_links}
 

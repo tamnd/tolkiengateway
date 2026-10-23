@@ -60,7 +60,7 @@ Tên [Qenya](../Q/Qenya.md) của "lạc đà" là <i><b>ulun(t)</b></i>.<sup id
 
 <dl><dd>Camels, level 4 animals, are called <i>devevi</i> (sing. <i>deve</i>) in Apysaic (a language of south-western Endor). There are both one- and two-humped variants of the beast.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> Staibir is the name of a War Camel appearing in an adventure set in Southwestern Middle-earth.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup></dd></dl>
 
-<b>1987-: <i><a href="../M/Mithril_Miniatures.md" title="Mithril Miniatures">Tác phẩm thu nhỏ Mithril</a></i>:</b>
+<b>1987-: <i><a href="../M/Mithril_Miniatures.md" title="Mithril Miniatures">Mithril Miniatures</a></i>:</b>
 
 <dl><dd>A camel was released as part of the 32mm scale figure &#34;Haradrian Champion on War Camel&#34;.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup></dd></dl>
 

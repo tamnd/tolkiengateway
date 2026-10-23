@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Chi tiết về "[Pháo hoa Old Took, Đêm hè, 1301](Miriam_Ellis_-_The_Old_Took’s_Fireworks,_Midsummer’s_Eve,_1301.jpg.md) của [Miriam Ellis](../../main/M/Miriam_Ellis.md), mô tả [Drogo Baggins](../../main/D/Drogo_Baggins.md) khi còn nhỏ
+Chi tiết tác phẩm "[Pháo hoa Old Took, Đêm Hạ chí, 1301](Miriam_Ellis_-_The_Old_Took’s_Fireworks,_Midsummer’s_Eve,_1301.jpg.md) của [Miriam Ellis](../../main/M/Miriam_Ellis.md), miêu tả [Drogo Baggins](../../main/D/Drogo_Baggins.md) khi còn nhỏ
 
 ## Giấy phép {#Licensing}
 

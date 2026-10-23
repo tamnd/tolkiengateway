@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of the Hammer of Wrath"
 ---
 
-Chuyển hướng tới [House of the Hammer of Wrath](../H/House_of_the_Hammer_of_Wrath.md).
+Chuyển hướng đến [House of the Hammer of Wrath](../H/House_of_the_Hammer_of_Wrath.md).

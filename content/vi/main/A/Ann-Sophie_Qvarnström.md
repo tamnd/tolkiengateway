@@ -21,7 +21,7 @@ images:
   - "Ann-Sophie_Qvarnström_-_Rohan.jpg"
 ---
 
-**Ann-Sophie Qvarnström** (sinh [1958](../_/1958.md)), thợ bạc và họa sĩ minh họa người Thụy Điển, đã tạo ra một số bản đồ [Trung Địa](../M/Middle-earth.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)vào những năm 1980 cho *Sagan om Ringen: Rollspelet* (phiên bản tiếng Thụy Điển của *[MERP](../M/Middle-earth_Role_Playing.md)*). Các bản đồ được tạo bằng cách sử dụng sơn bột màu và được thiết kế theo bản đồ MERP ban đầu được tạo bởi [Pete Fenlon](../P/Pete_Fenlon.md).
+**Ann-Sophie Qvarnström** (sinh [1958](../_/1958.md)), thợ bạc và họa sĩ minh họa người Thụy Điển, đã tạo ra một số bản đồ về [Trung Địa](../M/Middle-earth.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)vào những năm 1980 cho *Sagan om Ringen: Rollspelet* (phiên bản tiếng Thụy Điển của *[MERP](../M/Middle-earth_Role_Playing.md)*). Các bản đồ được tạo bằng cách sử dụng sơn gouache và được thiết kế theo MERP bản đồ ban đầu được tạo bởi [Pete Fenlon](../P/Pete_Fenlon.md).
 
 ## Thư mục {#Bibliography}
 

@@ -13,4 +13,4 @@ categories:
   - "Unmade projects"
 ---
 
-Danh mục này liệt kê tất cả **trò chơi điện tử đã bị hủy** liên quan đến tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
+Danh mục này liệt kê tất cả **trò chơi điện tử đã bị hủy** liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) tác phẩm.

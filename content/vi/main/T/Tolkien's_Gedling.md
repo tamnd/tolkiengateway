@@ -44,4 +44,4 @@ Tập trung vào sự kiện duy nhất này, Andrew Morton và John Hayes bắt
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.tolkienlibrary.com/press/830-Interview_with_Andrew_H_Morton_on_Tolkien_Gedling.php" rel="noreferrer noopener" target="_blank">Phỏng vấn tác giả</a>
-- <a class="external text" href="http://www.bbc.co.uk/nottingham/content/articles/2008/10/29/lord_of_the_rings_tolkien_gedling_feature.shtml" rel="noreferrer noopener" target="_blank">Tolkien Đi dạo trong BBC</a>
+- <a class="external text" href="http://www.bbc.co.uk/nottingham/content/articles/2008/10/29/lord_of_the_rings_tolkien_gedling_feature.shtml" rel="noreferrer noopener" target="_blank">Tolkien Đi lại trong BBC</a>

@@ -40,7 +40,7 @@ Vào ngày [18 tháng Chín](../_/18_September.md) [1967](../_/1967.md), [J.R.R.
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienlibrary.com/press/Tolkien_Letter_for_sale.php" rel="noreferrer noopener" target="_blank">Tolkien Thư viện</a>
+- <a class="external text" href="http://www.tolkienlibrary.com/press/Tolkien_Letter_for_sale.php" rel="noreferrer noopener" target="_blank">Tolkien Library</a>
 
 <span></span>
 

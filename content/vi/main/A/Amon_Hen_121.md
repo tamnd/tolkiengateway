@@ -75,7 +75,7 @@ infobox:
     - Bởi: Tom Stafford
 - Tin tức về Belladonna
     - Bởi: Jessica Yates
-- Sự phá hủy chiếc nhẫn
+- Sự hủy diệt của Nhẫn
     - Bởi: Reg Arnold
 - Đại bàng đã hạ cánh
     - Bởi: nhiều người đóng góp
@@ -95,7 +95,7 @@ infobox:
 - Thư gửi Shire
 - Tác phẩm nghệ thuật: *Untitled*
     - Bởi: [Ruth Lacon](../R/Ruth_Lacon.md)
-- Truyện dân ca
+- Truyện dân gian
 - Phía sau cánh cửa kính
     - Bởi: Annie Haward
 - Tác phẩm nghệ thuật: *[Saruman](../S/Saruman.md) with Palantir*

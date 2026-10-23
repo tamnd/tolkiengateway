@@ -33,7 +33,7 @@ Vào [15 tháng 12](../_/15_December.md) [1937](../_/1937.md), [J.R.R. Tolkien](
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.bbc.com/news/entertainment-arts-19965058" rel="noreferrer noopener" target="_blank">Thư của JRR Tolkien tiết lộ doanh thu kém của The Hobbit</a> tại BBC.com
+- <a class="external text" href="http://www.bbc.com/news/entertainment-arts-19965058" rel="noreferrer noopener" target="_blank">Thư JRR Tolkien tiết lộ doanh số bán hàng The Hobbit</a> kém tại BBC.com
 - <a class="external text" href="http://www.leeds.ac.uk/news/article/3305/" rel="noreferrer noopener" target="_blank">Tolkien: "Doanh số không cao lắm"</a> tại Leeds.ac.uk
 - <a class="external text" href="http://eprints.whiterose.ac.uk/78192/1/Hall%26Kaislaniemi_editorille.pdf" rel="noreferrer noopener" target="_blank">'Bạn lôi cuốn tôi một cách sâu sắc vào một bài tiểu luận thần thoại': J. R. R. Tolkien thư từ của Arthur Ransome</a> của Alaric Hall và Samuli Kaislaniemi
 

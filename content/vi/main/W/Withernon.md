@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tol Withernon"
 ---
 
-Chuyển hướng đến [Tol Withernon](../T/Tol_Withernon.md).
+Chuyển hướng tới [Tol Withernon](../T/Tol_Withernon.md).

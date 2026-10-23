@@ -135,7 +135,7 @@ Sau Vua Siriondil là bốn [Vua tàu](../S/Ship-kings.md) của Gondor, những
 </li>
 </ol></div>
 
-### Kỷ nguyên xung đột gia tộc {#Era_of_the_Kin-strife}
+### Kỷ nguyên xung đột gia đình {#Era_of_the_Kin-strife}
 
 Sau Atanatar II, sự chú ý của Gondor chuyển sang phía bắc và phía đông. Lo ngại về lòng trung thành của [Người phương Bắc](../N/Northmen.md) và mất tinh thần trước [Những người phương Đông](../E/Easterlings.md), Minalcar đã dẫn một đội quân đến phía đông để loại bỏ mối đe dọa Easterling. Con trai ông là Valacar làm đại sứ cho Vidugavia và bất ngờ cưới con gái ông. Từ sự kết hợp này đã phát triển [Xung đột họ hàng](../K/Kin-strife~3650.md), cái ác lớn đầu tiên xảy ra Gondor.
 

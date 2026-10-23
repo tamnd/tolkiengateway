@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "E.V. Gordon"
 ---
 
-Chuyển hướng tới [E.V. Gordon](E.V._Gordon.md).
+Chuyển hướng đến [E.V. Gordon](E.V._Gordon.md).

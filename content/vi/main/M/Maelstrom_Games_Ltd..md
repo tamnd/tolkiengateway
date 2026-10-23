@@ -14,4 +14,4 @@ categories:
   - "Video Game publishers"
 ---
 
-**Maelstrom Games Ltd.** là một trong những công ty đã phát triển [War in Middle Earth](../W/War_in_Middle_Earth.md).
+**Maelstrom Games Ltd.** là một trong những công ty đã phát triển [Chiến tranh ở Trung Địa](../W/War_in_Middle_Earth.md).

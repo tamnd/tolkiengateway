@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rhîs"
 ---
 
-Chuyển hướng đến [Rhîs](Rhîs.md).
+Chuyển hướng tới [Rhîs](Rhîs.md).

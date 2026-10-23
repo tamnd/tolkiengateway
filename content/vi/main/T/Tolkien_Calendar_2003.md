@@ -60,13 +60,13 @@ Lịch <i><b>Tolkien 2003</b></i> là lịch Tolkien chính thức được xu�
 - Tháng 4 - "[Người lạ trong rừng](../../file/T/Ted_Nasmith_-_The_Stranger_in_the_Forest.jpg.md)"
 - Tháng 5 - "[Những người chăn cừu](../../file/T/Ted_Nasmith_-_The_Tree_Shepherds.jpg.md)"
 - Tháng 6 - "[Những lần hiện ra](../../file/T/Ted_Nasmith_-_Apparitions.jpg.md)"
-- Centrefold - "[Cơn thịnh nộ của Ent](../../file/T/Ted_Nasmith_-_The_Wrath_of_the_Ents.jpg.md)"
+- Centrefold - "[Sự phẫn nộ của Ent](../../file/T/Ted_Nasmith_-_The_Wrath_of_the_Ents.jpg.md)"
 - Tháng 7 - "[Cái nhìn đầu tiên về Ithilien](../../file/T/Ted_Nasmith_-_First_Sight_of_Ithilien.jpg.md)"
 - Tháng 8 - "[Mûmak của Harad](../../file/T/Ted_Nasmith_-_The_Mûmak_of_Harad.jpg.md)"
 - tháng Chín - "[Sân thượng ở Henneth Annûn](../../file/T/Ted_Nasmith_-_The_Terrace_at_Henneth_Annûn.jpg.md)"
 - Tháng 10 - "[Tại Ngã Tư](../../file/T/Ted_Nasmith_-_At_the_Cross-roads.jpg.md)"
-- Tháng 11 - "[Tháp của Mặt Trăng](../../file/T/Ted_Nasmith_-_The_Tower_of_the_Moon.jpg.md)"
-- Tháng 12 - "[Shelob's Retreat](../../file/T/Ted_Nasmith_-_Shelob's_Retreat.jpg.md)"
+- Tháng 11 - "[Tháp Mặt Trăng](../../file/T/Ted_Nasmith_-_The_Tower_of_the_Moon.jpg.md)"
+- Tháng 12 - "[Shelob Kỳ nghỉ dưỡng](../../file/T/Ted_Nasmith_-_Shelob's_Retreat.jpg.md)"
 
 ## Biến thể {#Variants}
 

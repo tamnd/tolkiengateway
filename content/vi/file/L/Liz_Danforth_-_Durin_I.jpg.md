@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-<a class="mw-redirect mw-disambig" href="../../main/D/Durin.md" title="Durin">Durin I</a>, của [Liz Danforth](../../main/L/Liz_Danforth.md). Hình ảnh từ [Lãnh chúa của Trung Địa: Tập. III](../../main/L/Lords_of_Middle-earth%253A_Vol._III.md)
+<a class="mw-redirect mw-disambig" href="../../main/D/Durin.md" title="Durin">Durin I</a>, bởi [Liz Danforth](../../main/L/Liz_Danforth.md). Hình ảnh từ [Lãnh chúa của Trung Địa: Tập. III](../../main/L/Lords_of_Middle-earth%253A_Vol._III.md)
 
 ## Giấy phép {#Licensing}
 

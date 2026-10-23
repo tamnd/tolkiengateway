@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Osgiliath Fords"
 ---
 
-Chuyển hướng đến [Osgiliath Fords](../O/Osgiliath_Fords.md).
+Chuyển hướng tới [Osgiliath Fords](../O/Osgiliath_Fords.md).

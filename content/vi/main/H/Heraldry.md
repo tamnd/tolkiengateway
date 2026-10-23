@@ -773,7 +773,7 @@ Trong một số "[Những đoạn văn xuôi theo sau Lost Tales](../P/Prose_Fr
 </p>
 </blockquote>
 
-Những [con trai của Fëanor](../S/Sons_of_Fëanor.md) (ở đây không liên quan đến hoàng gia) được cho là những người đã tạo ra cờ hiệu và cờ hiệu, giúp chúng đứng dưới ánh mặt trời, mặt trăng, bóng tối hoặc sương mù, nhờ những viên đá quý [ma thuật](../M/Magic.md) được đính trên đó.<sup id="cite_ref-Prose_51-1" class="reference"><a href="#cite_note-Prose-51">[49]</a></sup>
+Những [con trai của Fëanor](../S/Sons_of_Fëanor.md) (ở đây không liên quan đến hoàng gia) được cho là những người đã tạo ra cờ hiệu và cờ hiệu, giúp chúng đứng vững dưới ánh mặt trời, mặt trăng, bóng tối hoặc sương mù, nhờ những viên đá quý [ma thuật](../M/Magic.md) được đính trên chúng.<sup id="cite_ref-Prose_51-1" class="reference"><a href="#cite_note-Prose-51">[49]</a></sup>
 
 Trong các phiên bản tiếp theo của câu chuyện ở cả *[Sketch of the Mythology](../S/Sketch_of_the_Mythology.md)* ([1926](../_/1926.md))<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[50]</a></sup> và *[Qenta Noldorinwa](../Q/Qenta_Noldorinwa.md)* ([1930](../_/1930.md)),<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[51]</a></sup> các biểu ngữ chỉ được đề cập là "xanh và bạc".
 

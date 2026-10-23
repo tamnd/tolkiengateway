@@ -24,7 +24,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Rings_of_Power_(Season_One_-_Amazon_Original_Series_Soundtrack).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d6/The_Lord_of_the_Rings_-_The_Rings_of_Power_%28Season_One_-_Amazon_Original_Series_Soundtrack%29.jpg/320px-The_Lord_of_the_Rings_-_The_Rings_of_Power_%28Season_One_-_Amazon_Original_Series_Soundtrack%29.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d6/The_Lord_of_the_Rings_-_The_Rings_of_Power_%28Season_One_-_Amazon_Original_Series_Soundtrack%29.jpg/480px-The_Lord_of_the_Rings_-_The_Rings_of_Power_%28Season_One_-_Amazon_Original_Series_Soundtrack%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d6/The_Lord_of_the_Rings_-_The_Rings_of_Power_%28Season_One_-_Amazon_Original_Series_Soundtrack%29.jpg/640px-The_Lord_of_the_Rings_-_The_Rings_of_Power_%28Season_One_-_Amazon_Original_Series_Soundtrack%29.jpg 2x" data-file-width="1000" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: The Rings of Power<br/>(Season One: Amazon Original Series Soundtrack)</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Soundtrack by <a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/19_August.md" title="19 August">19 August</a>, <a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Length</th><td class="tg-infobox-data">156 minutes</td></tr></tbody></table>
 
-<i><b>The Lord of the Rings: The Rings of Power (Phần một: Nhạc phim loạt phim gốc của Amazon)</b></i> là một album do [Bear McCreary](../B/Bear_McCreary.md) sáng tác cho mùa đầu tiên của loạt phim truyền hình *[The Lord of the Rings: The Rings of Power](The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*. Bài hát được phát hành trực tuyến vào [19 tháng 8](../_/19_August.md), [2022](../_/2022.md) bởi Amazon Music.
+<i><b>The Lord of the Rings: The Rings of Power (Phần một: Amazon Nhạc phim loạt phim gốc)</b></i> là một album do [Bear McCreary](../B/Bear_McCreary.md) sáng tác cho mùa đầu tiên của loạt phim truyền hình *[The Lord of the Rings: The Rings of Power](The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*. Nó được phát hành trực tuyến vào [19 tháng 8](../_/19_August.md), [2022](../_/2022.md) bởi Amazon Music.
 
 ## Nội dung {#Contents}
 
@@ -55,10 +55,10 @@ infobox:
 25. [Ngày lang thang này](This_Wandering_Day.md) (kết hợp với [Megan Richards](../M/Megan_Richards.md)) (2:10)
 26. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Scherzo_for_Violins_and_Swords&amp;action=edit&amp;redlink=1" title="Scherzo for Violins and Swords (page does not exist)">Scherzo cho đàn violin và kiếm</a> (1:52)
 27. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sailing_into_the_Dawn&amp;action=edit&amp;redlink=1" title="Sailing into the Dawn (page does not exist)">Chèo thuyền vào bình minh</a> (4:18)
-28. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Find_the_Light&amp;action=edit&amp;redlink=1" title="Find the Light (page does not exist)">Tìm ánh sáng</a> (Độc quyền của Amazon Music) (3:27)
+28. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Find_the_Light&amp;action=edit&amp;redlink=1" title="Find the Light (page does not exist)">Find the Light</a> (Amazon Âm nhạc độc quyền) (3:27)
 29. <a class="new" href="https://tolkiengateway.net/w/index.php?title=For_the_Southlands&amp;action=edit&amp;redlink=1" title="For the Southlands (page does not exist)">Dành cho miền Nam</a> (4:32)
 30. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Cavalry&amp;action=edit&amp;redlink=1" title="Cavalry (page does not exist)">Kỵ binh</a> (4:06)
-31. <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Promised_King&amp;action=edit&amp;redlink=1" title="The Promised King (page does not exist)">The Promised Vua</a> (Độc quyền của Amazon Music) (4:06)
+31. <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Promised_King&amp;action=edit&amp;redlink=1" title="The Promised King (page does not exist)">The Promised Vua</a> (Amazon Âm nhạc độc quyền) (4:06)
 32. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Water_and_Flame&amp;action=edit&amp;redlink=1" title="Water and Flame (page does not exist)">Nước và Lửa</a> (3:29)
 33. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Into_the_Mines&amp;action=edit&amp;redlink=1" title="Into the Mines (page does not exist)">Vào Mỏ</a> (8:14)
 34. <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Veil_of_Smoke&amp;action=edit&amp;redlink=1" title="The Veil of Smoke (page does not exist)">Màn khói</a> (4:59)
@@ -75,7 +75,7 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.amazon.com/music/player/albums/B0B9CJ445S" rel="noreferrer noopener" target="_blank">Album tại Amazon Music</a>
+- <a class="external text" href="https://www.amazon.com/music/player/albums/B0B9CJ445S" rel="noreferrer noopener" target="_blank">Album tại Amazon Âm nhạc</a>
 - <a class="external text" href="https://mondoshop.com/products/the-lord-of-the-rings-the-rings-of-power-season-one-original-soundtrack-2xcd" rel="noreferrer noopener" target="_blank">Đĩa vật lý tại Mondo</a>
 - <a class="external text" href="https://www.amazon.com/dp/B0B9ZHW8V3" rel="noreferrer noopener" target="_blank">Phiên bản Vinyl tại Amazon</a>
 

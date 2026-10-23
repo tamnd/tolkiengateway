@@ -40,9 +40,9 @@ infobox:
 
 TRUNG ĐỊA
 
-Cuộc chiến Nhẫn đã kết thúc nhưng những điều xấu xa vẫn tiếp tục tồn tại. Trên cao Weathertop, địa điểm cổ xưa và được tôn kính có tên là Amon Sûl, Orc tập hợp lại để tấn công các du khách trên Đại Lộ phía Đông. Bên trong đỉnh núi có một lối đi bí mật dẫn đến Vực sâu, những hang động lớn bên dưới lòng đất được canh giữ bởi những cư dân đáng sợ. Trong một hang động có Cây gậy Chân lý huyền thoại, thánh tích mạnh mẽ của Edain. Một câu đố dẫn bạn tìm kiếm vũ khí ma thuật hứa hẹn những sức mạnh to lớn. Bạn có thể giải được câu đố, tìm được cây trượng và trốn thoát được không? Một cuộc phiêu lưu nhập vai hoàn chỉnh... nơi bạn kiểm soát vận mệnh của mình!
+The War of the Ring đã kết thúc nhưng những điều xấu xa vẫn còn tồn tại. Trên cao Weathertop, địa điểm cổ xưa và được tôn kính có tên là Amon Sûl, Orc tập hợp lại để tấn công các du khách trên Đại Lộ phía Đông. Bên trong đỉnh núi có một lối đi bí mật dẫn đến Vực sâu, những hang động lớn bên dưới lòng đất được canh giữ bởi những cư dân đáng sợ. Trong một hang động có Cây gậy Chân lý huyền thoại, thánh tích mạnh mẽ của Edain. Một câu đố dẫn bạn tìm kiếm vũ khí ma thuật hứa hẹn những sức mạnh to lớn. Bạn có thể giải được câu đố, tìm được cây trượng và trốn thoát được không? Một cuộc phiêu lưu nhập vai hoàn chỉnh... nơi bạn kiểm soát vận mệnh của mình!
 
 - Chọn ký tự sẵn sàng chạy
 - Tạo nhân vật của riêng bạn bằng hệ thống QuestGame
-- Tạo nhân vật CHƠI VAI TRÒ TRUNG ĐỊA (MERP) của riêng bạn
+- Tạo nhân vật CHƠI VAI TRÒ TRUNG BÌNH (MERP) của riêng bạn
 - Tương thích với các hệ thống nhập vai khác

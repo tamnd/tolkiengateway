@@ -12,11 +12,11 @@ categories:
   - "Interviews with J.R.R. Tolkien"
 ---
 
-**Phỏng vấn "Lễ hội sách" năm 1957** là [cuộc phỏng vấn được ghi âm](../../index/A/Audio_recordings_of_J.R.R._Tolkien.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào [ngày 15 tháng 1](15_January.md), [1957](1957.md), cho chương trình phát thanh <a class="extiw" href="http://en.wikipedia.org/wiki/NBC" title="wikipedia:NBC">NBC</a> "Lễ hội sách" do Ruth Harshaw tổ chức. Một trích đoạn được đăng trong *[The Annotated Hobbit: Revised and Expanded Edition](../T/The_Annotated_Hobbit%253A_Revised_and_Expanded_Edition.md)* trang 210; trong đó, Tolkien đề cập đến lý do tại sao anh ấy sử dụng [nhện](../S/Spiders.md) trong *[The Hobbit](../T/The_Hobbit.md)*.
+**Phỏng vấn "Lễ hội sách" năm 1957** là [cuộc phỏng vấn được ghi âm](../../index/A/Audio_recordings_of_J.R.R._Tolkien.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào [ngày 15 tháng 1](15_January.md), [1957](1957.md), cho chương trình phát thanh <a class="extiw" href="http://en.wikipedia.org/wiki/NBC" title="wikipedia:NBC">NBC</a> "Lễ hội sách", do Ruth Harshaw tổ chức. Một trích đoạn được đăng trong *[The Annotated Hobbit: Revised and Expanded Edition](../T/The_Annotated_Hobbit%253A_Revised_and_Expanded_Edition.md)* trang 210; trong đó, Tolkien đề cập đến lý do tại sao anh ấy sử dụng [nhện](../S/Spiders.md) trong *[The Hobbit](../T/The_Hobbit.md)*.
 
 ## Trích xuất {#Extract}
 
-"Tôi đưa những con nhện vào phần lớn vì bạn nhớ rằng cuốn sách này chủ yếu được viết cho các con tôi (ít nhất là tôi đã nghĩ đến chúng), và một trong những đứa con trai của tôi đặc biệt cực kỳ ghét nhện. Tôi đã làm điều đó để khiến nó hoàn toàn sợ hãi và nó đã làm như vậy!"
+"Tôi đưa những con nhện vào phần lớn bởi vì, bạn nhớ đấy, chủ yếu viết cho các con tôi (ít nhất là tôi đã nghĩ đến chúng), và một trong những đứa con trai của tôi đặc biệt cực kỳ ghét nhện. Tôi đã làm điều đó để khiến nó hoàn toàn sợ hãi và nó đã làm như vậy!"
 
 ## Liên kết ngoài {#External_links}
 

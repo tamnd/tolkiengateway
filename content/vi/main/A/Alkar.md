@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Alcar"
 ---
 
-Chuyển hướng đến [Alcar](Alcar.md).
+Chuyển hướng tới [Alcar](Alcar.md).

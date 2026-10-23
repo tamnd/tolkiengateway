@@ -11,4 +11,4 @@ redirect_target: "Ring-inscription"
 redirect_fragment: "Ring-verse"
 ---
 
-Chuyển hướng tới [Dòng chữ](Ring-inscription.md#Ring-verse).
+Chuyển hướng tới [Nhẫn-dòng chữ](Ring-inscription.md#Ring-verse).

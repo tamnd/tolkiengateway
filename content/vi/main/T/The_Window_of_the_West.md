@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Window on the West"
 ---
 
-Chuyển hướng đến [Cửa sổ trên Phương Tây](The_Window_on_the_West.md).
+Chuyển hướng tới [Cửa sổ trên Phương Tây](The_Window_on_the_West.md).

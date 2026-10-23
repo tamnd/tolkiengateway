@@ -41,16 +41,16 @@ infobox:
 - **Vấn đề trước mắt**
     - Biên tập: "Hãy nói chuyện chuyển thể" của Luke Shelton
 - **Bài viết**
-    - "'Tất cả những gì lấp lánh không phải là vàng': Chiếc nhẫn quyền lực và sự lừa dối của sự so sánh" của Sara Brown
+    - "'Tất cả những gì lấp lánh không phải là vàng': Nhẫn Quyền năng và sự lừa dối của sự so sánh" của Sara Brown
     - "Trung Địa ở South Park: ‘Sự trở lại của Đoàn Hộ Nhẫn với hai tòa tháp’ dưới dạng nhại lại" của Nick Polk
     - "Các vị thánh và phù thủy: Morwen, Morwenna và Morgan le Fay" của Clare Moore
 - **Ghi chú**
-    - "Vẻ đẹp phù du này: Tolkien của Legendarium qua các thể loại thẩm mỹ Phật giáo Nhật Bản" của Robert Steed
+    - "Vẻ đẹp phù du này: Tolkien của Legendarium Thông qua các thể loại thẩm mỹ Phật giáo Nhật Bản" của Robert Steed
     - "Trả lời bình luận của Noad về bài báo 'Kiểm tra sự thật'" của Nancy Bunting
 - **Đánh giá**
     - *[Law, Government, and Society in J.R.R. Tolkien's Works](../L/Law,_Government,_and_Society_in_J.R.R._Tolkien's_Works.md)* của José Maria Miranda Boto (được đánh giá bởi Dominic Nardi)
     - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien,_Enchantment,_and_Loss&amp;action=edit&amp;redlink=1" title="Tolkien, Enchantment, and Loss (page does not exist)">Tolkien, Sự mê hoặc và Mất mát</a></i> của John Rosegrant (được đánh giá bởi Mercury Natis)
-    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Map_of_Wilderland&amp;action=edit&amp;redlink=1" title="The Map of Wilderland (page does not exist)">Bản đồ Wilderland: Những phản ánh quan trọng về sinh thái về Huyền thoại về vùng hoang dã Tolkien</a></i> của Amber Lehning (được đánh giá bởi Laura Zanetti và Hélio Parente)
+    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Map_of_Wilderland&amp;action=edit&amp;redlink=1" title="The Map of Wilderland (page does not exist)">Bản đồ Wilderland: Những phản ánh phê bình sinh thái về Huyền thoại về vùng hoang dã Tolkien</a></i> của Amber Lehning (được Laura Zanetti và Hélio Parente đánh giá)
     - *[The Gallant Edith Bratt](../T/The_Gallant_Edith_Bratt.md)* của Nancy Bunting và Seamus Hamill-Keays (được đánh giá bởi [Shaun Gunner](../S/Shaun_Gunner.md))
 - **Bài gửi**
     - Thư

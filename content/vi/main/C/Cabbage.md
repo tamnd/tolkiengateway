@@ -35,7 +35,7 @@ infobox:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">The Lord of the Rings Trực tuyến: Bóng tối của Angmar</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">The Lord of the Rings Online: Bóng tối của Angmar</a></i>:</b>
 
 Bắp cải có thể được tìm thấy thông qua [Eriador](../E/Eriador.md) trên ruộng bắp cải. Người chơi với nghề nông dân cũng có thể sản xuất bắp cải trên ruộng rau.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

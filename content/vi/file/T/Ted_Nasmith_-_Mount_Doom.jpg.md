@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - Across Gorgoroth.jpg"
 ---
 
-Chuyển hướng đến [Tệp:Ted Nasmith - Xuyên qua Gorgoroth.jpg](Ted_Nasmith_-_Across_Gorgoroth.jpg.md).
+Chuyển hướng tới [Tệp:Ted Nasmith - Trên khắp Gorgoroth.jpg](Ted_Nasmith_-_Across_Gorgoroth.jpg.md).

@@ -796,7 +796,7 @@ infobox:
 #### Chi tiết {#Details}
 
 - Giới hạn 1.000 bộ được đánh số và ký bởi Alan Lee
-- Bìa một phần tư bằng da với các mặt vải được viền bạc và có nhãn minh họa bên trong
+- Bìa quý bằng da với các mặt vải được viền bạc và có nhãn minh họa bên trong
 - In chữ giới hạn hình tròn trên giấy Tintoretto có viền vàng
 - Đặt trong Dante với Bản di chúc làm màn hình
 - Tổng cộng 1.504 trang trên ba tập được in trên giấy Munken Pure
@@ -804,7 +804,7 @@ infobox:
 - Tổng cộng 53 hình minh họa màu được in trên giấy Veltique có viền in
 - 57 phần mở đầu chương được minh họa
 - Giấy in theo thiết kế của họa sĩ
-- Cũng bao gồm Ghi chú về Văn bản của Douglas A. Anderson, Ghi chú về Văn bản đã sửa đổi của Wayne G. Hammond và Christina Scull, Lời nói đầu của Tolkien cho Ấn bản thứ hai và Lời mở đầu, cũng như các Phụ lục và Chỉ mục.
+- Cũng bao gồm Ghi chú về Văn bản của Douglas A. Anderson, Ghi chú về Văn bản đã sửa đổi của Wayne G. Hammond và Christina Scull, Lời nói đầu của Tolkien cho Ấn bản thứ hai và Lời mở đầu, cũng như Phụ lục và các Chỉ mục.
 - Các đầu trang màu bạc
 - Dấu ruy băng sa tanh màu đỏ tía
 - Hai bản đồ được in cùng nhau bằng màu đen và đỏ và được đựng trong hộp có phủ vải chặn
@@ -829,7 +829,7 @@ Vào [ngày 19 tháng 11](../N/November_19.md), [2024](../_/2024.md) The Folio S
 - Nhiều hình minh họa tích hợp đường đen trắng
 - 28 hình minh họa màu, nghiêng bằng tay như những tấm trong đường viền
 - Các đầu trang màu bạc
-- Dấu ruy băng
+- Dải ruy băng
 - Túi đựng có lớp lót in hình
 - Bản đồ riêng biệt bao gồm bản đồ của Thror và bản đồ của Wilderland
 - Bản in riêng biệt được trình bày trong một thư mục

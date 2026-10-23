@@ -28,7 +28,7 @@ infobox:
 
 **Vicenç Luján** là một nghệ sĩ người Tây Ban Nha. Vào những năm 1990, ông được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền tạo tác phẩm nghệ thuật thiệp cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.
 
-Năm 1997, anh đại diện thi đấu tại giải *Dia de Joc*Tây Ban Nha, cùng với [Liz Danforth](../L/Liz_Danforth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Năm 1997, anh đại diện thi đấu tại *Dia de Joc*Tây Ban Nha, cùng với [Liz Danforth](../L/Liz_Danforth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

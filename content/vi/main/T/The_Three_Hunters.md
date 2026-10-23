@@ -53,4 +53,4 @@ infobox:
 <p class="tg-quote-footer"><cite>Aragorn</cite></p>
 </blockquote>
 
-Họ nhận ra rằng họ đang đuổi kịp Uruk-hai những kẻ đã bắt giữ những người bạn trẻ của họ và tiếp tục đi tiếp, còn Gimli đang chật vật trong cuộc rượt đuổi. Khi leo lên đỉnh đồi, họ nhìn ra vùng đồng bằng [Rohan](../R/Rohan.md). Aragorn hỏi Legolas mắt Tiên của anh ấy có thể nhìn thấy gì. Tiên trả lời, "Bọn Uruk quay về phía đông bắc. Chúng đang tiến [Hobbit](../H/Hobbits.md) đến [Isengard](../I/Isengard.md)!"
+Họ nhận ra rằng họ đang đuổi kịp Uruk-hai những kẻ đã bắt giữ những người bạn trẻ của họ và tiếp tục đi tiếp, còn Gimli đang chật vật trong cuộc rượt đuổi. Khi leo lên đỉnh đồi, họ nhìn ra vùng đồng bằng [Rohan](../R/Rohan.md). Aragorn hỏi Legolas mắt Tiên của anh ấy có thể nhìn thấy gì. Tiên trả lời, "Bọn Uruk quay về phía đông bắc. Chúng đang tiến [Hobbit](../H/Hobbits.md) tới [Isengard](../I/Isengard.md)!"

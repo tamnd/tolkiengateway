@@ -53,4 +53,4 @@ Các sinh vật Trung Địa bao gồm:
 - QUÁI VẬT - từ những Ma cà rồng có khả năng thay đổi hình dạng hùng mạnh của Morgoth, chẳng hạn như Thuringwethil, cho đến bọn Wights canh gác các ngôi mộ trong Barrow-downs, cho đến Crebain ranh mãnh từng làm Sauron gián điệp.
 - MAPS - 21 bản đồ trắng đen mô tả nơi sinh sống trong Endor của mỗi sinh vật.
 
-Bản tóm tắt này là phiên bản sửa đổi của cuốn sách nguồn phát hành năm 1988. Nó bao gồm tài liệu mở rộng về những con rồng của Trung Địa, nhiều hình ảnh minh họa và số liệu thống kê khác cho MERP, Rolemaster và Trò chơi phiêu lưu Chúa tể những chiếc nhẫn.
+Bản tóm tắt này là phiên bản sửa đổi của cuốn sách nguồn phát hành năm 1988. Nó bao gồm tài liệu mở rộng về những con rồng của Trung Địa, nhiều hình ảnh minh họa và số liệu thống kê khác cho MERP, Rolemaster và Lord of the Rings Adventure Game.

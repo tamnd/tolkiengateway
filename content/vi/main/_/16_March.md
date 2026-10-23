@@ -83,5 +83,5 @@ Sự kiện xảy ra vào ngày 16 tháng 3
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
     - [Borondir](../B/Borondir.md) đang trên đường tìm kiếm [Éothéod](Éothéod.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Tập hợp [Đạo quân Phương Tây](../A/Army_of_the_West.md). [Cuộc tranh luận](../L/Last_Debate.md) của các chỉ huy bên ngoài [Minas Tirith](../M/Minas_Tirith.md).
+    - Tập hợp [Đạo quân phương Tây](../A/Army_of_the_West.md). [Cuộc tranh luận](../L/Last_Debate.md) của các chỉ huy bên ngoài [Minas Tirith](../M/Minas_Tirith.md).
     - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) đi về phía bắc dọc theo [Morgai](../M/Morgai.md). Họ nhìn ra khu trại [Núi Doom](../M/Mount_Doom.md).

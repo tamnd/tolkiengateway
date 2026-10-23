@@ -44,7 +44,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) đang ở địa điểm cắm trại trong rừng vào buổi tối. Trong khi Sam đang nấu đồ ăn trên bếp lửa, họ nghe thấy [Tiên rừng](../W/Wood-elves.md) tiếng hát từ xa và chạy đến xem. Các Tiên tộc đang diễu hành trang trọng trên đường tới [Cảng Xám](../G/Grey_Havens.md). Sam nói rằng anh ấy rất buồn khi Tiên tộc rời đi Trung Địa.
+[Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) đang ở địa điểm cắm trại trong rừng vào buổi tối. Trong khi Sam đang nấu đồ ăn trên bếp lửa, họ nghe thấy [Tiên rừng](../W/Wood-elves.md) tiếng hát từ xa và chạy đến xem. Các Tiên tộc đang diễu hành trang trọng trên đường đến [Cảng Xám](../G/Grey_Havens.md). Sam nói rằng anh ấy rất buồn khi Tiên tộc rời đi Trung Địa.
 
 Sau đó, khi Frodo và Sam đã đi ngủ qua đêm, Sam phàn nàn về việc nằm dưới đất giữa những rễ cây, để làm thú vui cho Frodo.
 

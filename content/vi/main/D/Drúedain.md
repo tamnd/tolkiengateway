@@ -146,15 +146,15 @@ Người Drúedain ở Rừng Brethil, sống cùng [Dân tộc Haleth](../H/Hal
 
 Từ *Wose* là bản dịch của [Tolkien](../J/J.R.R._Tolkien.md) cho từ thực tế *[róg](../R/Róg.md)* trong ngôn ngữ của [Rohirrim](../R/Rohirrim.md).<sup id="cite_ref-Note14_3-1" class="reference"><a href="#cite_note-Note14-3">[3]</a></sup> Nó có nghĩa là “người hoang dã của rừng”. Đây là dạng hiện đại hóa của từ Anglo-Saxon *wása*.<sup id="cite_ref-Note14_3-2" class="reference"><a href="#cite_note-Note14-3">[3]</a></sup> Thành tố [Old English](../O/Old_English.md) *wasa* ban đầu có nghĩa là một người cô độc hoặc bị ruồng bỏ. Nó xuất hiện trong *wudewasa*, có nghĩa là “hoang dã, bị bỏ mặc”. Từ này được thấy trong tên *Wuduwasas*, nguồn cảm hứng trực tiếp cho Woses, và có nghĩa là “những người man dã” (của rừng).<sup id="cite_ref-Woses_25-0" class="reference"><a href="#cite_note-Woses-25">[25]</a></sup>
 
-## Other names {#Other_names}
+## Tên khác {#Other_names}
 
-- **[Drú](Drú.md)/Drúin:** the simple [Sindarin](../S/Sindarin.md) name for the Drughu, singular and plural.<sup id="cite_ref-Note6_23-2" class="reference"><a href="#cite_note-Note6-23">[23]</a></sup>
-- **Drúath:** another Sindarin plural form of Drú.<sup id="cite_ref-Note6_23-3" class="reference"><a href="#cite_note-Note6-23">[23]</a></sup>
-- **Drû-folk:** rarely used collective term.<sup id="cite_ref-Note6_23-4" class="reference"><a href="#cite_note-Note6-23">[23]</a></sup>
-- **[Púkel-men](../P/Púkel-men.md):** the name used by the Rohirrim in Rohan for the statues on the road to Dunharrow<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> and for the Drúedain.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup>
-- **[Rú](../R/Rú.md)/[Rúatani](../R/Rúatani.md):** Quenya terms for the Drughu, derived from their Sindarin counterparts. Singular/plural respectively.<sup id="cite_ref-Note6_23-5" class="reference"><a href="#cite_note-Note6-23">[23]</a></sup>
-- **[Róg](../R/Róg.md)/[Rógin](../R/Rógin.md):** the name in [Rohanese](../R/Rohanese.md), singular/plural respectively.<sup id="cite_ref-Note14_3-3" class="reference"><a href="#cite_note-Note14-3">[3]</a></sup>
-- **[Oghor-hai](../O/Oghor-hai.md):** the name used by [Orcs](../O/Orcs.md).<sup id="cite_ref-Druedain_4-7" class="reference"><a href="#cite_note-Druedain-4">[4]</a></sup>
+- **[Drú](Drú.md)/Drúin:** tên [Sindarin](../S/Sindarin.md) đơn giản của Drughu, số ít và số nhiều.<sup id="cite_ref-Note6_23-2" class="reference"><a href="#cite_note-Note6-23">[23]</a></sup>
+- **Drúath:** một dạng Sindarin số nhiều khác của Drú.<sup id="cite_ref-Note6_23-3" class="reference"><a href="#cite_note-Note6-23">[23]</a></sup>
+- **Drû-dân gian:** hiếm khi sử dụng thuật ngữ tập thể.<sup id="cite_ref-Note6_23-4" class="reference"><a href="#cite_note-Note6-23">[23]</a></sup>
+- **[Púkel-men](../P/Púkel-men.md):** tên được Rohirrim sử dụng trong Rohan cho các bức tượng trên đường tới Dunharrow<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> và cho Drúedain.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup>
+- **[Rú](../R/Rú.md)/[Rúatani](../R/Rúatani.md):** Quenya thuật ngữ dành cho người Drughu, bắt nguồn từ Sindarin thuật ngữ tương đương của họ. Số ít/số nhiều tương ứng.<sup id="cite_ref-Note6_23-5" class="reference"><a href="#cite_note-Note6-23">[23]</a></sup>
+- **[Róg](../R/Róg.md)/[Rógin](../R/Rógin.md):** tên ở dạng [Rohanese](../R/Rohanese.md), số ít/số nhiều tương ứng.<sup id="cite_ref-Note14_3-3" class="reference"><a href="#cite_note-Note14-3">[3]</a></sup>
+- **[Oghor-hai](../O/Oghor-hai.md):** tên được sử dụng bởi [Orc](../O/Orcs.md).<sup id="cite_ref-Druedain_4-7" class="reference"><a href="#cite_note-Druedain-4">[4]</a></sup>
 
 ## Nguồn cảm hứng {#Inspiration}
 
@@ -185,7 +185,7 @@ Trong bài thơ *[Sir Gawain and the Green Knight](<../S/Sir_Gawain_and_the_Gree
 
 <dl><dd>The card game features three different factions of the race: the &#34;Woses of the <a href="Drúadan_Forest.md" title="Drúadan Forest">Drúadan Forest</a>&#34; and the &#34;Woses of Old Pûkel-land&#34; in the set <i><a href="../M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">The Wizards</a></i>, and the &#34;Woses of the <a href="../E/Eryn_Vorn.md" title="Eryn Vorn">Eryn Vorn</a>&#34; in the expansion <i><a href="../M/Middle-earth%253A_Against_the_Shadow.md" title="Middle-earth: Against the Shadow">Against the Shadow</a></i>.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></dd></dl>
 
-<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Other than the settlement in the <a href="Drúadan_Forest.md" title="Drúadan Forest">Drúadan Forest</a>, another group of Drúedain is found in <a href="../M/Mordor.md" title="Mordor">Mordor</a> where their ancestors stayed before migrating westward. At the end of the <a href="../F/First_Age.md" title="First Age">First Age</a>, a cataclysm caused the mountains to rise and cut off the Nêbh Rûdh, the Red Sky Clan, from the valley which they shared with <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a>. Separated from the <a href="../P/Plateau_of_Gorgoroth.md" title="Plateau of Gorgoroth">Plateau of Gorgoroth</a> to the west by an unreachable mountain pass, they were trapped within a small forest where they lived in peace and isolation for thousands of years, away from the Great Eye&#39;s reach. When the <a class="mw-redirect" href="../O/One_Ring.md" title="One Ring">One Ring</a> is destroyed, the eruption of <a href="../M/Mount_Doom.md" title="Mount Doom">Mount Doom</a> causes a rockslide that makes the pass traversable again, exposing the Red Sky Clan to whatever evil still remains lurking in Mordor.</dd></dl>
 

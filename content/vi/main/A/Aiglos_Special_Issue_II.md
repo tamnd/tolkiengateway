@@ -34,7 +34,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Aiglos_Special_Issue_II_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/95/Aiglos_Special_Issue_II_cover.jpg/320px-Aiglos_Special_Issue_II_cover.jpg" decoding="async" loading="lazy" width="320" height="454" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/9/95/Aiglos_Special_Issue_II_cover.jpg 1.5x" data-file-width="400" data-file-height="567"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Aiglos Special Issue II</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Anna_Adamczyk-Śliwińska.md" title="Anna Adamczyk-Śliwińska">Anna Adamczyk-Śliwińska</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../S/Sekcja_Tolkienowska_ŚKF.md" title="Sekcja Tolkienowska ŚKF">Sekcja Tolkienowska ŚKF</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="August.md" title="August">August</a> <a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 glossy paperback, black and white</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">370</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1732-2375</td></tr></tbody></table>
 
-<i><b>Aiglos Số đặc biệt II. Tuyển tập Tolkien nghiên cứu ở Ba Lan 2006-2011</b></i> là ấn bản tiếng Anh thứ hai của <i><b><a href="Aiglos_(journal).md" title="Aiglos (journal)">Aiglos</a></b></i>, được chuẩn bị cho hội nghị [Sự trở lại của chiếc nhẫn](../T/The_Return_of_the_Ring.md) kỷ niệm 75 năm ngày xuất bản *[The Hobbit](../T/The_Hobbit.md)* của J.R.R.Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Aiglos Số đặc biệt II. Tuyển tập các nghiên cứu Tolkien ở Ba Lan 2006-2011</b></i> là ấn bản tiếng Anh thứ hai của <i><b><a href="Aiglos_(journal).md" title="Aiglos (journal)">Aiglos</a></b></i>, được chuẩn bị cho [Sự trở lại của hội nghị Nhẫn](../T/The_Return_of_the_Ring.md) kỷ niệm 75 năm ngày xuất bản *[The Hobbit](../T/The_Hobbit.md)* của J.R.R.Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Contents}
 
@@ -71,9 +71,9 @@ infobox:
         - Bởi: Agnieszka Kruszyńska
     - "*The Volsunga Saga* như nguồn cảm hứng cho J.R.R. Tolkien"
         - Bởi: Renata Leśniakiewicz-Drzymała
-    - "Bậc thầy của sự diệt vong và Người Mang Nhẫn: Số phận và ý chí tự do trong Trung Địa của Đầu tiên và Kỷ Đệ Tam"
+    - "Chủ nhân của Doom và Người Mang Nhẫn: Số phận và Ý chí Tự do trong Trung Địa của Cái đầu tiên và Kỷ Đệ Tam"
         - Bởi: Tadeusz A. Olszański 'Halbarad Dúnadan'
-    - "Không tin cả biên tập viên lẫn dịch giả, hay việc tôi gần như sát vai với một người nổi tiếng"
+    - "Không tin cả biên tập viên lẫn dịch giả, hay việc tôi suýt sánh vai với một người nổi tiếng"
         - Bởi: [Agnieszka Sylwanowicz 'Evermind HS Took'](Agnieszka_Sylwanowicz.md)
 
 - **Truyện fanfic và thơ**

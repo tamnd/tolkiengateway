@@ -23,7 +23,7 @@ hidden_categories:
 
 <dl><dd>A type of Oak tree, namely <i><b>Furry Oak</b></i>, is described in the book. It was named for the fuzz on the underside of its leaves and the caps of acorns. These acorns were well-liked by the <a href="../G/Galadhrim.md" title="Galadhrim">Galadhrim</a> and the <a href="../W/Woodmen.md" title="Woodmen">Woodmen</a>, who used them in baking.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Wood of this tree can be foraged by <i>Eastemnet</i> foresters in <a href="../R/Rohan.md" title="Rohan">Rohan</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 

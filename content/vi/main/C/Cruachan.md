@@ -56,7 +56,7 @@ Sau khi đổi tên thành Cruachan, họ được biết đến với việc k�
 
 ## Cựu thành viên {#Former_Members}
 
-- John Clohessy – bass (1992–2012)
+- John Clohessy – trầm (1992–2012)
 - John (O'Fathaigh) Fay – còi thiếc, sáo Ailen, keyboard, bộ gõ (1993–1997, 1999–2002, 2003, 2008–2016)
 - Jay O'Neill – trống, bộ gõ (1993–1997)
 - Steven Anderson – guitar, hát (1993–1994)

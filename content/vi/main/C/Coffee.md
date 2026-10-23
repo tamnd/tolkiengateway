@@ -21,7 +21,7 @@ langlinks:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Coffee beans can be grown by farmers,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and characters with the cooking craft can produce a &#34;Cup of Westemnet Coffee&#34;.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 

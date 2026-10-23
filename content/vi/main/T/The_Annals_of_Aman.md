@@ -54,4 +54,4 @@ langlinks:
 <dd><b>Part Five: <a href="../M/Myths_Transformed.md" title="Myths Transformed">Myths Transformed</a></b></dd></dl>
 </td></tr></tbody></table>
 
-**Biên niên sử của Aman** là chương thứ hai của *[Morgoth's Ring](../M/Morgoth's_Ring.md)*, tập thứ mười của *[The History of Middle-earth](The_History_of_Middle-earth.md)*. Nó bao gồm trình tự thời gian chi tiết từ khi tạo ra thế giới cho đến khi kết thúc [Kỷ Đệ Nhất](../F/First_Age.md), bao gồm phần giải thích về cách tính thời gian theo [Năm Valian](../V/Valian_Years.md).
+**Biên niên sử của Aman** là chương thứ hai của *[Morgoth's Ring](../M/Morgoth's_Ring.md)*, tập thứ mười của *[The History of Middle-earth](The_History_of_Middle-earth.md)*. Nó bao gồm trình tự thời gian chi tiết từ khi tạo ra thế giới cho đến khi kết thúc [Kỷ Đệ Nhất](../F/First_Age.md), bao gồm phần giải thích về cách tính thời gian trong [Năm Valian](../V/Valian_Years.md).

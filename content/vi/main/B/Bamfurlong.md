@@ -63,7 +63,7 @@ Trong ấn bản đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_th
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Bamfurlong.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/27/The_Lord_of_the_Rings_Online_-_Bamfurlong.jpg/250px-The_Lord_of_the_Rings_Online_-_Bamfurlong.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/27/The_Lord_of_the_Rings_Online_-_Bamfurlong.jpg/375px-The_Lord_of_the_Rings_Online_-_Bamfurlong.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/27/The_Lord_of_the_Rings_Online_-_Bamfurlong.jpg/500px-The_Lord_of_the_Rings_Online_-_Bamfurlong.jpg 2x" data-file-width="2560" data-file-height="1440"/></a><figcaption>Bamfurlong in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Bamfurlong is a prominent landmark in the <a href="../M/Marish.md" title="Marish">Marish</a>.</dd></dl>
 

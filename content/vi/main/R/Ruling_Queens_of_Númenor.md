@@ -18,7 +18,7 @@ images:
   - "Juliana_Pinho_-_Tar-Vanimelde.png"
 ---
 
-**Các Nữ hoàng cai trị của Númenor** là những phụ nữ cai trị vương quốc [Númenor](../N/Númenor.md). Trong số 25 [người cai trị](../K/King_of_Númenor.md) của Númenor, có ba người là nữ.
+**Các Nữ hoàng cai trị của Númenor** là những người phụ nữ cai trị vương quốc [Númenor](../N/Númenor.md). Trong số 25 [người cai trị](../K/King_of_Númenor.md) của Númenor, có ba người là nữ.
 
 ## Luật kế thừa {#Laws_of_Succession}
 

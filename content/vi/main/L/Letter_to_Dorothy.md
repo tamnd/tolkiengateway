@@ -32,9 +32,9 @@ Vào [ngày 1 tháng 4](../_/1_April.md) [1999](../_/1999.md), con trai của Da
 
 ### Ý nghĩa và tính xác thực {#Significance_and_authenticity}
 
-Các nhà ngôn ngữ học của [Tolklang](../T/Tolklang.md) và [Elfling](../E/Elfling.md) coi câu Elvish là một phần của câu đố Quenya; quan trọng nhất là những từ chưa biết trước đó *sa* "that" (giới thiệu câu phụ) và *nó* "trước". Họ cũng sửa từ đầu tiên *meriu* là đọc sai *merin*: u và n có xu hướng trông giống nhau trong chữ viết tay của Tolkien,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và từ này được cho là một động từ ở [ngôi thứ nhất số ít](../Q/Quenya.md#Pronouns).
+Các nhà ngôn ngữ học của [Tolklang](../T/Tolklang.md) và [Elfling](../E/Elfling.md) coi câu Elvish là một phần của câu đố Quenya; quan trọng nhất là những từ chưa biết trước đây *sa* "that" (giới thiệu câu phụ) và *nó* "trước". Họ cũng sửa từ đầu tiên *meriu* là đọc sai *merin*: u và n có xu hướng trông giống nhau trong chữ viết tay của Tolkien,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và từ này được cho là một động từ ở [ngôi thứ nhất số ít](../Q/Quenya.md#Pronouns).
 
-Câu Quenya, được gọi là "Câu Merin", đã được phân tích phê phán trong các ấn phẩm như [*Tyalië Tyelelliéva* 14](../T/Tyalië_Tyelelliéva_14.md) của [Lisa Star](Lisa_Star.md).
+Câu Quenya, được gọi là "Câu Merin", đã được phân tích phê bình trong các ấn phẩm như [*Tyalië Tyelelliéva* 14](../T/Tyalië_Tyelelliéva_14.md) của [Lisa Star](Lisa_Star.md).
 
 Một số điều kỳ lạ liên quan đến cụm từ này là Michael Dawson đã gửi thư của anh ấy vào ngày 1 tháng 4 (<a class="extiw" href="http://en.wikipedia.org/wiki/Fool%27s_Day" title="wikipedia:Fool&#39;s Day">Ngày Cá Ngừ</a>), và sau đó không ai có thể liên lạc được với anh ấy.<sup id="cite_ref-Helge_3-0" class="reference"><a href="#cite_note-Helge-3">[3]</a></sup> [Carl F. Hostetter](../C/Carl_F._Hostetter.md) và [Christopher Tolkien](../C/Christopher_Tolkien.md) (người được Hostetter chuyển tiếp thư của Dawson) nói rằng họ chưa gặp phải những từ 'mới' như vậy trong bất kỳ bài báo chưa xuất bản nào của Tolkien.<sup id="cite_ref-Carl_1-1" class="reference"><a href="#cite_note-Carl-1">[1]</a></sup>
 

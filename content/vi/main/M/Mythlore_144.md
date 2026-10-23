@@ -58,8 +58,8 @@ infobox:
 #### Tính năng {#Features}
 
 - Croft, Janet Brennan và Erin Giannini. Giới thiệu về Số đặc biệt: Fantasy Goes to Hell.
-- Oser, Lee. "Hẹn hò với Tháp Tối."
-- Nước muối, G. Connor. "Chuyện gì đã xảy ra với *The Princess Bride*?: Những suy nghĩ cho nghiên cứu sâu hơn của William Goldman."
+- Oser, Lee. "Hẹn hò Tòa Tháp Bóng Tối."
+- Mũi muối, G. Connor. "Chuyện gì đã xảy ra với *The Princess Bride*?: Những suy nghĩ cho nghiên cứu sâu hơn của William Goldman."
 - Thompson-Handell, Matthew. "Một số quan sát trên các báo cáo về bài giảng của Andrew Lang Tolkien năm 1939."
 - Croft, Janet Brennan. Tưởng nhớ: Peter J. Schakel.
 - Croft, Janet Brennan. Tưởng nhớ: Richard Plotz.

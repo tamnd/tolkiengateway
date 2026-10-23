@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Durin II"
 ---
 
-Chuyển hướng đến [Durin II](Durin_II.md).
+Chuyển hướng tới [Durin II](Durin_II.md).

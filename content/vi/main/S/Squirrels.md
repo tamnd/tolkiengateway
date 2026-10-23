@@ -38,11 +38,11 @@ Trong [Mirkwood](../M/Mirkwood.md), những con sóc có màu đen.<sup id="cite
 
 <dl><dd>Black squirrels are described and given role-playing statistics. The creature is portrayed as an ally of the Wood-elves and the Woodmen.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
-**2004:** <i><b>Sảnh lửa</b></i>
+**2004:** <i><b> Hall of Fire</b></i>
 
 <dl><dd>Black squirrels are described and given statistics in the RPG magazine <i>The Hall of Fire</i> (intended for use with <a href="../D/Decipher.md" title="Decipher">Decipher</a>&#39;s <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Roleplaying Game</a></i>). Black squirrels are conceived as having been created by the &#39;dark magics&#39; of, and act as spy for, the <a class="mw-redirect" href="../N/Necromancer.md" title="Necromancer">Necromancer</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Squirrels are found throughout Middle-earth. Lore-masters can also have a non-combat squirrel pet.</dd></dl>
 

@@ -33,7 +33,7 @@ Theo một nghĩa trừu tượng, "the Phương Tây" được vinh danh là ng
 - ** [Cực Tây](../U/Uttermost_West.md) hay Viễn Tây, [Aman](../A/Aman.md). Ở đó, [Valar](../V/Valar.md) cư trú và Yêu tinh ra đi khi họ "đi thuyền về phía Tây".**
 - [Beleriand](../B/Beleriand.md), vùng đất cực tây phía đông Belegaer. Yêu tinh sống ở đây đôi khi được gọi là <a class="new" href="https://tolkiengateway.net/w/index.php?title=D%C3%BAnedhil&amp;action=edit&amp;redlink=1" title="Dúnedhil (page does not exist)">Dúnedhil</a>, Yêu tinh phương Tây, để phân biệt với [Avari](../A/Avari.md).
 - Miền Tây, hay [Westernesse](../N/Númenor.md), nằm ở Belegaer, phía Tây của [Trung Địa](../M/Middle-earth.md). [Dúnedain](../D/Dúnedain.md), hay Người phương Tây, lấy tên của họ theo nghĩa này.
-- **Sau khi cả Beleriand và Númenor bị chết đuối, "miền Tây" thường được dùng để chỉ các phần phía tây bắc của [Trung Địa](../M/Middle-earth.md) hoặc [Westlands](Westlands.md), cụ thể là [Eriador](../E/Eriador.md); hoặc ít nhất là [những người phản đối Sauron](../F/Free_peoples~19934.md).**
+- **After the drowning of both Beleriand and Númenor, "the West" generally referred to the north-western portions of [Middle-earth](../M/Middle-earth.md), or [Westlands](Westlands.md), specifically [Eriador](../E/Eriador.md); hoặc ít nhất là [những người phản đối Sauron](../F/Free_peoples~19934.md).**
 
 <dl><dd><i>Also:</i></dd></dl>
 

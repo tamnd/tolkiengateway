@@ -48,7 +48,7 @@ infobox:
 
 <i><b>Từ vựng tiếng Anh trung cổ</b></i> là bảng chú giải các từ [tiếng Anh trung cổ](../M/Middle_English.md) tuân thủ theo [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được xuất bản trong [1922](../_/1922.md).
 
-Nó dự định được xuất bản cùng với <a class="new" href="https://tolkiengateway.net/w/index.php?title=Kenneth_Sisam&amp;action=edit&amp;redlink=1" title="Kenneth Sisam (page does not exist)">Kenneth Sisam</a> *[Fourteenth Century Verse &amp; Prose](../F/Fourteenth_Century_Verse_&_Prose.md)* trong [1921](../_/1921.md), nhưng chưa hoàn thành kịp thời nên đã được xuất bản riêng trong [1922](../_/1922.md), đây trở thành cuốn sách được xuất bản đầu tiên của Tolkien.
+It was intended to be published together with <a class="new" href="https://tolkiengateway.net/w/index.php?title=Kenneth_Sisam&amp;action=edit&amp;redlink=1" title="Kenneth Sisam (page does not exist)">Kenneth Sisam</a>'s *[Fourteenth Century Verse &amp; Prose](../F/Fourteenth_Century_Verse_&_Prose.md)* in [1921](../_/1921.md), but it was not finished in time, so it was published separately in [1922](../_/1922.md), which became Tolkien's first published book.
 
 *Vocabulary* chứa khoảng 4.740 mục với gần 6.800 định nghĩa, dài 167 trang.<sup id="cite_ref-a_1-0" class="reference"><a href="#cite_note-a-1">[1]</a></sup>
 

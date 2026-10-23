@@ -65,7 +65,7 @@ infobox:
 - Thông báo
 - Tác phẩm: *Khi buổi tối ở [ Shire](../T/The_Shire.md) xám xịt*
     - Bởi: Chiara Rizzarda "Shelidon"
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- Cái [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Gột rửa bùn mệt nhọc
     - Bởi: *[Beruthiel](../B/Berúthiel.md)'s Pet*

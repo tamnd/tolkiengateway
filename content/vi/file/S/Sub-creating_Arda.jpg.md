@@ -24,7 +24,7 @@ file:
   user: "Pachyderminator"
 ---
 
-Bìa của *[Sub-creating Arda: World-building in J.R.R. Tolkien's Works, its Precursors, and Legacies](../../main/S/Sub-creating_Arda.md)*, được xuất bản bởi [Nhà xuất bản Cây biết đi](../../main/W/Walking_Tree_Publishers.md). Hình minh họa bìa của [Jay Johnstone](../../main/J/Jay_Johnstone.md).
+Bìa *[Sub-creating Arda: World-building in J.R.R. Tolkien's Works, its Precursors, and Legacies](../../main/S/Sub-creating_Arda.md)*, do [Nhà xuất bản Cây biết đi](../../main/W/Walking_Tree_Publishers.md)xuất bản. Minh họa bìa bởi [Jay Johnstone](../../main/J/Jay_Johnstone.md).
 
 ## Giấy phép {#Licensing}
 

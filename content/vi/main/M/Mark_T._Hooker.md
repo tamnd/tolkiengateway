@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Hooker, Mark T."
 ---
 
-**Mark T. Hooker** là học giả thỉnh giảng tại Viện tiếng Nga và phương Đông Châu Âu (REEI) của Đại học Indiana. Ông là thành viên Hội đồng Cố vấn Học thuật của [Nhà xuất bản Cây đi bộ](../W/Walking_Tree_Publishers.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và năm 2012 đã giành được [Giải thưởng Beyond Bree lần thứ Năm](../B/Beyond_Bree.md#Beyond_Bree_Awards).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Mark T. Hooker** là học giả thỉnh giảng tại Viện tiếng Nga và phương Đông Châu Âu (REEI) của Đại học Indiana. Ông là thành viên Ban cố vấn học thuật của [Nhà xuất bản Cây biết đi](../W/Walking_Tree_Publishers.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và năm 2012 đã giành được [Giải thưởng Beyond Bree lần thứ Năm](../B/Beyond_Bree.md#Beyond_Bree_Awards).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Thư mục {#Bibliography}
 
@@ -52,11 +52,11 @@ sort_keys:
 - [2010](../_/2010.md): <a class="external text" href="http://www.lotrplaza.com/" rel="noreferrer noopener" target="_blank">Trung tâm cuồng tín Chúa tể những chiếc nhẫn</a>
     - <a class="external text" href="http://www.lotrplaza.com/forum/forum_posts.asp?TID=238202" rel="noreferrer noopener" target="_blank">Người Frisian Smaug</a>
 - [2011](../_/2011.md): *[Tolkien and the Study of His Sources](../T/Tolkien_and_the_Study_of_His_Sources.md)*
-    - "Đọc John Buchan để tìm kiếm J.R.R. Tolkien"
+    - "Đọc John Buchan đang tìm kiếm J.R.R. Tolkien"
 - [2011](../_/2011.md): [Lembas Bổ sung](../L/Lembas_Extra_2011.md)
     - "Tiếng Frisian Hobbit"
     - "Tiếng Slovenia Hobbit"
-- [2013](../_/2013.md): [Beyond Bree](../B/Beyond_Bree.md) Số phát hành tháng 5
+- [2013](../_/2013.md): [Beyond Bree](../B/Beyond_Bree.md) Số tháng 5
     - "Hành trình đến trung tâm của Trung Địa" (Ảnh hưởng của Jules Verne đối với [The Hobbit](../T/The_Hobbit.md))
 - [2020](../_/2020.md): [Beyond Bree](../B/Beyond_Bree.md) Số tháng 11
     - "Bản ghi có chú thích của Tolkien 1904 [Thư phản bác gửi Cha Phanxicô](../L/Letter_to_Father_Francis_Morgan.md)"

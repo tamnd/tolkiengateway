@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Salmar"
 ---
 
-Chuyển hướng đến [Salmar](../S/Salmar.md).
+Chuyển hướng tới [Salmar](../S/Salmar.md).

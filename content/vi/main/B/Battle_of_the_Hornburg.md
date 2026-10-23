@@ -50,17 +50,17 @@ infobox:
 
 **Trận chiến tại Hornburg** diễn ra tại pháo đài miền núi [Hornburg](../H/Hornburg.md) trong thung lũng [Helm's Deep](../H/Helm's_Deep.md) ở [Rohan](../R/Rohan.md). Diễn ra trong đêm [3](../_/3_March.md)-[4 tháng Ba](../_/4_March.md) năm [Kỷ Đệ Tam](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), trận chiến chứng kiến đạo quân [Isengard](../I/Isengard.md) tấn công của [Saruman](../S/Saruman.md) bị đánh bại bởi [Rohirrim](../R/Rohirrim.md) dưới sự chỉ huy của [Théoden](../T/Théoden.md) và [Erkenbrand](../E/Erkenbrand.md).
 
-## Strategy and array {#Strategy_and_array}
+## Chiến lược và mảng {#Strategy_and_array}
 
 ### Rohan {#Rohan}
 
-The army of Rohan consisted of 1000 cavalry forces from [Edoras](../E/Edoras.md) led by [King](../K/King_of_Rohan.md) Théoden. This force included [Aragorn](../A/Aragorn.md), [Gimli](../G/Gimli.md), [Legolas](../L/Legolas.md), and Théoden's nephew [Éomer](../_/Éomer.md). This army joined with Rohan's garrison of around 1000 at the [Hornburg](../H/Hornburg.md).
+Đội quân của Rohan gồm 1000 lực lượng kỵ binh từ [Edoras](../E/Edoras.md) do [Vua](../K/King_of_Rohan.md) Théoden chỉ huy. Lực lượng này bao gồm [Aragorn](../A/Aragorn.md), [Gimli](../G/Gimli.md), [Legolas](../L/Legolas.md)và cháu trai của Théoden [Éomer](../_/Éomer.md). Đội quân này tham gia cùng lực lượng đồn trú khoảng 1000 người của Rohan tại [Hornburg](../H/Hornburg.md).
 
-The army was reinforced by 1000 scattered Rohirrim troops from the [Westfold](../W/Westfold.md) rallied by the [Wizard](../W/Wizards.md) [Gandalf](../G/Gandalf.md) and led by [Erkenbrand](../E/Erkenbrand.md). A forest of [Huorns](../H/Huorns.md) entered the valley independently, seeking revenge on Saruman's Orcs.
+Quân đội được tăng viện bởi 1000 quân Rohirrim phân tán từ [Westfold](../W/Westfold.md) do [Pháp sư](../W/Wizards.md) [Gandalf](../G/Gandalf.md) tập hợp và do [Erkenbrand](../E/Erkenbrand.md)chỉ huy. Một khu rừng [Huorn](../H/Huorns.md) tiến vào thung lũng một cách độc lập, tìm cách trả thù Orc của Saruman.
 
 ### Isengard {#Isengard}
 
-The army of the corrupted Wizard [Saruman](../S/Saruman.md), amassed both in service and in competition of his [Lord](../D/Dark_Lord.md) [Sauron](../S/Sauron.md), consisted of [his Orcs](../O/Orcs_of_Isengard.md),<sup id="cite_ref-Deep_1-0" class="reference"><a href="#cite_note-Deep-1">[1]</a></sup> including his specially bred [Uruk-hai](../U/Uruk-hai.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and [Half-orcs](../H/Half-orcs.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> supported by [Dunlendings](../D/Dunlendings.md).<sup id="cite_ref-Deep_1-1" class="reference"><a href="#cite_note-Deep-1">[1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> It was mentioned to consist of "about ten thousand Orcs", with an unknown but far smaller number of Dunlendings.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Đội quân của Pháp sư [Saruman](../S/Saruman.md)tham nhũng, được tập hợp để phục vụ và cạnh tranh với [Chúa](../D/Dark_Lord.md) [Sauron](../S/Sauron.md)của hắn, bao gồm [ Orc](../O/Orcs_of_Isengard.md),<sup id="cite_ref-Deep_1-0" class="reference"><a href="#cite_note-Deep-1">[1]</a></sup> bao gồm cả [Uruk-hai](../U/Uruk-hai.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và [Half-orc](../H/Half-orcs.md) của hắn,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> được hỗ trợ bởi [Dunlending](../D/Dunlendings.md).<sup id="cite_ref-Deep_1-1" class="reference"><a href="#cite_note-Deep-1">[1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Nó được đề cập là bao gồm "khoảng mười nghìn Orc", với số lượng Dunlending chưa xác định nhưng nhỏ hơn nhiều.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Lịch sử {#History}
 
@@ -98,7 +98,7 @@ Sau trận chiến, những người Dunland đầu hàng được Vua Théoden 
 
 <dl><dd>In the movie, the thousands of troops of Saruman lay siege to the fortress, which is defended by around 300 men (many of whom were, in fact, depicted as children or elders, to add further anxiety and villainy to the events) which the Rohirrim could muster and the aforementioned Elven Archers. When Legolas says there are &#34;300&#34; Rohirrim there he may have meant <i>at that time</i> as more were fleeing to the fortress, because visually there are more than 300 Rohirrim appearing on screen in the battle. This reference to &#34;300 against 10,000&#34; was probably meant as a reference to the ancient Battle of Thermopylae. These forces suffer heavy losses, but hold out till dawn when Gandalf arrives with thousands of riders who finally turn the tide of the battle and send Saruman&#39;s forces into retreat. These riders are led by Éomer in the film, whereas they are led by Erkenbrand in the book.</dd></dl>
 
-<b>2013 : <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Helm&#39;s_Deep.md" title="The Lord of the Rings Online: Helm&#39;s Deep">The Lord of the Rings Online: Helm&#39;s Deep</a></i>:</b>
+<b>2013 : <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Helm&#39;s_Deep.md" title="The Lord of the Rings Online: Helm&#39;s Deep">The Lord of the Rings Trực tuyến: Helm's Deep</a></i>:</b>
 
 <dl><dd>The Battle of the Hornburg is a key part of the Epic Storyline of this expansion.</dd></dl>
 

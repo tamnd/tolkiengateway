@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yasen Atour"
 ---
 
-Chuyển hướng tới [Yasen Atour](Yasen_Atour.md).
+Chuyển hướng đến [Yasen Atour](Yasen_Atour.md).

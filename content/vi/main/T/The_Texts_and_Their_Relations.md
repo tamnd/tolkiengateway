@@ -42,7 +42,7 @@ categories:
 1. *[Ainulindalë](<../A/Ainulindalë_(Lost_Road).md>)*, phần kể lại mới về [Lost Tale](The_Book_of_Lost_Tales_Part_One.md) của "[The Âm nhạc của các Ainur](The_Music_of_the_Ainur.md)" dưới dạng một tác phẩm riêng biệt.
 2. *[The Later Annals of Valinor](The_Later_Annals_of_Valinor.md)*, phiên bản mới của "[Biên niên sử sớm nhất về Valinor](The_Earliest_Annals_of_Valinor.md)".
 3. *[The Later Annals of Beleriand](The_Later_Annals_of_Beleriand.md)*, phiên bản mới của "[Biên niên sử sớm nhất của Beleriand](The_Earliest_Annals_of_Beleriand.md)", có hai phiên bản.
-4. *[The Lhammas](The_Lhammas.md)*, có liên quan chặt chẽ đến thành phần của *Quenta Silmarillion* có tên dưới đây.
+4. *[The Lhammas](The_Lhammas.md)*, có liên quan chặt chẽ đến thành phần của *Quenta Silmarillion* có tên bên dưới.
 5. *[Quenta Silmarillion](<../Q/Quenta_Silmarillion_(Lost_Road).md>)*, phiên bản mới của "[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)" đã được gửi chưa hoàn thiện tới [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md) như một phần của "Tài liệu Gnomes".
 
 Nhóm tác phẩm này dường như là một dấu ấn rõ ràng về sự phát triển của truyền thuyết, và Christopher giải thích rằng bây giờ ông chắc chắn rằng *[Ambarkanta](../A/Ambarkanta.md)* thuộc về giai đoạn này, mặc dù trước đó ông đã nói rằng không có cách nào để biết liệu nó được sáng tác trước hay sau "Biên niên sử sớm nhất của Valinor".

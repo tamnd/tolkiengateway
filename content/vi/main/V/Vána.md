@@ -109,7 +109,7 @@ Sau [Tối của Valinor](../D/Darkening_of_Valinor.md) và [chuyến bay của 
 
 ### Các phiên bản sau {#Later_versions}
 
-Khi các tác phẩm của Tolkien phát triển, vai trò của Vána bị giảm đi, nên trong *[The Silmarillion](../T/The_Silmarillion.md)* cô không can thiệp vào câu chuyện về Mặt Trời và Mặt Trăng, nước mắt của Nienna là thứ đã gột rửa cây cối và các bài hát của Yavanna đã mang đến sự nở hoa cuối cùng của Telperion và trái của Laurelin.
+Khi các tác phẩm của Tolkien phát triển, vai trò của Vána bị giảm đi, nên trong *[The Silmarillion](../T/The_Silmarillion.md)* cô không can thiệp vào câu chuyện về Mặt Trời và Mặt Trăng, nước mắt của Nienna là thứ gột rửa cây cối và các bài hát của Yavanna đã mang đến sự nở hoa cuối cùng của Telperion và kết trái của Laurelin.
 
 <span></span>
 

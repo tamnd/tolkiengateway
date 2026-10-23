@@ -14,4 +14,4 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Fisher, Mark"
 ---
 
-Mark Fisher <a class="external text" href="http://www.glyphweb.com/arda/faq/use.html" rel="noreferrer noopener" target="_blank">cấp phép</a> sử dụng lại đồ họa của mình với điều kiện là cung cấp liên kết tới [Bách khoa toàn thư Arda](../../main/E/Encyclopedia_of_Arda.md).
+Mark Fisher <a class="external text" href="http://www.glyphweb.com/arda/faq/use.html" rel="noreferrer noopener" target="_blank">cấp quyền</a> sử dụng lại đồ họa của mình với điều kiện là cung cấp liên kết tới [Bách khoa toàn thư Arda](../../main/E/Encyclopedia_of_Arda.md).

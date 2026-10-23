@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brown family"
 ---
 
-Chuyển hướng đến [Gia đình Brown](Brown_family.md).
+Chuyển hướng tới [Gia đình Brown](Brown_family.md).

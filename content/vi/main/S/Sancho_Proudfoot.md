@@ -49,7 +49,7 @@ Trong bản thảo đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_
 
 ## Từ nguyên {#Etymology}
 
-Jim Allan nhận ra cái tên này là một trong những cái tên [Hobbitish](../H/Hobbitish.md) ngắn vô nghĩa<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> trong trường hợp đó nó có thể đại diện cho Hobbitish *Sancha*chính hãng.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Jim Allan nhận ra tên này là một trong những tên [Hobbitish](../H/Hobbitish.md) ngắn vô nghĩa<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> trong trường hợp đó nó có thể đại diện cho Hobbitish *Sancha*chính hãng.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <a class="external text" href="http://en.wiktionary.org/wiki/Sancho" rel="noreferrer noopener" target="_blank">Sancho</a> là tên thật của tiếng Tây Ban Nha có nguồn gốc từ tiếng Latin *sanctius* "thánh". Điều này khiến Sancho trở thành một trong số rất ít cái tên Tây Ban Nha xuất hiện trong [huyền thoại](../L/Legendarium.md).
 

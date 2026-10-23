@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sackville Family"
 ---
 
-Chuyển hướng tới [Gia đình Sackville](Sackville_Family.md).
+Chuyển hướng đến [Gia đình Sackville](Sackville_Family.md).

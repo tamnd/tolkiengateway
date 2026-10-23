@@ -268,7 +268,7 @@ infobox:
 
 Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amazon đi kèm với tập phim.
 
-- Cảnh 2 - "Hầu hết các chi tiết và chi tiết được nêu ở đây đều bắt nguồn từ '[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)', phần mở đầu có tựa đề '[Liên quan đến Hobbit](../C/Concerning_Hobbits.md)' và [Phụ lục](../A/Appendices.md), [A](../A/Appendix_A.md) đến [F](../A/Appendix_F.md), nơi người du hành dũng cảm có thể hành trình khám phá những chân trời xa hơn nữa."
+- Cảnh 2 - "Hầu hết các chi tiết và công phu được nêu ở đây đều bắt nguồn từ '[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)', đoạn mở đầu có tựa đề '[Liên quan đến Hobbit](../C/Concerning_Hobbits.md)' và [Phụ lục](../A/Appendices.md), [A](../A/Appendix_A.md) đến [F](../A/Appendix_F.md), nơi người du hành dũng cảm có thể hành trình để khám phá những chân trời xa hơn nữa."
 - Cảnh 6 - "[Halflings](../H/Halflings.md) không đi giày vì chân của chúng có đế bằng da cứng, được bao phủ bởi lớp lông dày uốn cong và chúng có thể chịu đựng được hầu hết mọi địa hình. (Liên quan đến Hobbit)"
 - Cảnh 8 - "Khả năng chịu đựng ánh nắng mặt trời của Adar cho thấy anh ta không phải là orc - hoặc không hoàn toàn - vì anh ta dường như sở hữu một số năng khiếu của yêu tinh: Sự bất tử và khả năng đứng dưới ánh sáng ban ngày mà không gặp khó khăn. Con cái của anh ta, loài orc, tránh những ánh nhìn đau đớn của nó bằng cách sử dụng áo choàng chống nắng để ngăn tia nắng chiếu vào da."
 - Cảnh 10 - "Númenor sử dụng sách thay vì cuộn giấy để dễ dàng truyền tải thông tin từ thế hệ này sang thế hệ tiếp theo. Ban đầu, họ viết bằng chữ viết của yêu tinh, Tengwar, nhưng theo thời gian, nó đã thay đổi để phù hợp với ngôn ngữ của họ và trở thành một chữ viết độc đáo của riêng họ."

@@ -75,5 +75,5 @@ Sự kiện xảy ra vào ngày 19 tháng 3
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
     - [Borondir](../B/Borondir.md) đang trên đường tìm kiếm [Éothéod](Éothéod.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [ Đạo quân Phương Tây](../A/Army_of_the_West.md) đạt tới [Thung lũng Morgul](../M/Morgul_Vale.md). Bộ binh gia nhập kỵ binh.
+    - [ Đạo quân phương Tây](../A/Army_of_the_West.md) đạt tới [Thung lũng Morgul](../M/Morgul_Vale.md). Bộ binh gia nhập kỵ binh.
     - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) thoát khỏi [Orc](../O/Orcs.md) và bắt đầu cuộc hành trình dọc theo con đường tới [Barad-dûr](../B/Barad-dûr.md).

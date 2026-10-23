@@ -23,7 +23,7 @@ Vào [27 tháng 5](../_/27_May.md) [1958](../_/1958.md), [J.R.R. Tolkien](../J/J
 
 ## Từ cuộc đấu giá {#From_Auction}
 
-TOLKIEN, John Ronald Reuel (1892-1973). Các ghi chú bản thảo có chữ ký ("J.R.R. Tolkien" ở trang 3 và ký tên đầu tiên ở cuối), bao gồm hướng dẫn chi tiết về mục lục cho The Lord of the Rings. Ngày 12 tháng 3 năm 1958. 4 trang, 4t. Với một bảng câu hỏi đánh máy có tiêu đề là "Các câu hỏi chỉ mục", của Smith được chú thích bằng Tolkien màu đỏ, 2 trang, 4to. GHI CHÚ BẢN BẢN CỦA TOLKIEN CHO CHỈ SỐ 'CHÚY CỦA NHẪN'
+TOLKIEN, John Ronald Reuel (1892-1973). Các ghi chú bản thảo có chữ ký ("J.R.R. Tolkien" ở trang 3 và ký tên đầu tiên ở cuối), bao gồm hướng dẫn chi tiết về mục lục The Lord of the Rings. Ngày 12 tháng 3 năm 1958. 4 trang, 4t. Với một bảng câu hỏi đánh máy có tiêu đề là "Các câu hỏi chỉ mục", của Smith được chú thích bằng Tolkien màu đỏ, 2 trang, 4to. GHI CHÚ BẢN BẢN CỦA TOLKIEN CHO CHỈ SỐ 'CHÚY CỦA NHẪN'
 
 Sau khi xuất bản tập cuối cùng của bộ ba Chúa tể những chiếc nhẫn, nhu cầu của độc giả về chỉ mục cho tác phẩm đồ sộ này ngày càng tăng và nhà xuất bản George Allen &amp; Unwin Ltd., cuối cùng chỉ tuân thủ những yêu cầu này sau khi chính Tolkien tìm kiếm chỉ mục cho riêng mình. Giám đốc điều hành của công ty, Rayner S. Unwin đã giao nhiệm vụ này cho bà Nancy Smith, một biên tập viên và là bạn của gia đình. Chồng bà, Bernard S. Smith, là một sĩ quan ngoại giao người Anh, ở chung phòng tại Oxford với Christopher Tolkien và Rayner Unwin.
 

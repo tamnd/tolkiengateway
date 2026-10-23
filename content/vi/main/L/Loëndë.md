@@ -25,7 +25,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-**Loëndë** còn được biết đến, đặc biệt là vào [Hobbit](../H/Hobbits.md), với tên gọi [Ngày Giữa Năm](../M/Mid-year's_Day.md). *Loëndë* là ngày rơi vào giữa năm trong nhiều bộ lịch [Trung Địa](../M/Middle-earth.md).
+**Loëndë** còn được biết đến, đặc biệt là vào [Hobbit](../H/Hobbits.md), với tên gọi [Ngày Giữa Năm](../M/Mid-year's_Day.md). *Loëndë* là ngày rơi vào giữa năm trong nhiều bộ lịch của [Trung Địa](../M/Middle-earth.md).
 
 ## Sử dụng trong các lịch khác nhau {#Uses_in_different_calendars}
 

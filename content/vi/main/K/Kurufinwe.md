@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Curufinwë"
 ---
 
-Chuyển hướng tới [Curufinwë](../C/Curufinwë.md).
+Chuyển hướng đến [Curufinwë](../C/Curufinwë.md).

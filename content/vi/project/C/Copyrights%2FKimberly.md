@@ -19,4 +19,4 @@ sort_keys:
 - Người dùng đã xin phép qua tin nhắn riêng tư: [Người dùng:Sandy](https://tolkiengateway.net/wiki/User:Sandy)
 
 - Ngày: 14 tháng 8 năm 2014
-- Người dùng đã xác nhận lại quyền thông qua deviantArt: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)
+- Người dùng đã xác nhận lại quyền qua deviantArt: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

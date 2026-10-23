@@ -169,7 +169,7 @@ Hai Pháp sư Xanh chưa từng xuất hiện trực tiếp trong bất kỳ b�
 
 <dl><dd>The Two Wizards were to have been depicted in &#34;an insertion of a shot or two of the wizards arriving, probably with no dialogue, as a quick flash-back.&#34; <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> created sketches for hand-props for the Wizards, including their staffs. Props were made and costumes were &#34;roughed out&#34; before the idea was canned.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[13]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Khundolar tribe of the <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a> had among them the &#34;Blue Caste&#34; of sorcerers. Their Master, &#34;Yirokhsar the Blue&#34;, forbade his followers to march with the Dark Lord&#39;s forces, but many still joined their kings who had fallen under the sway of <a href="../S/Sauron.md" title="Sauron">Sauron</a>. Also, the Jangovar Easterlings viewed Sauron as a god, but were confused why their master, &#34;Yetkeyin the Violet&#34;, refused to obey Sauron.</dd></dl>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Austria"
 ---
 
-Chuyển hướng đến [Danh mục:Áo](../../category/A/Austria.md).
+Chuyển hướng tới [Danh mục:Áo](../../category/A/Austria.md).

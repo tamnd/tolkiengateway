@@ -12,4 +12,4 @@ categories:
   - "People by occupation"
 ---
 
-Dưới đây là danh sách theo thứ tự bảng chữ cái những người đã xuất bản các tác phẩm liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) và các tác phẩm của ông.
+Dưới đây là danh sách theo thứ tự chữ cái của những người đã xuất bản các tác phẩm liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) và các tác phẩm của ông.

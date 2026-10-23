@@ -42,7 +42,7 @@ infobox:
 
 ## Sự khác biệt {#Differences}
 
-Phần lớn lời thoại của [Elrond](../E/Elrond.md) trong cảnh này được chuyển thể từ phần cuối của [Câu chuyện về Aragorn và Arwen](../T/The_Tale_of_Aragorn_and_Arwen.md) trong [Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md), trong đó người ta kể rằng [Aragorn](Aragorn.md) đã chết và [Arwen](Arwen.md) đi đến [Lórien](../L/Lórien.md) một mình sau khi chết.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Phần lớn lời thoại của [Elrond](../E/Elrond.md) trong cảnh này được chuyển thể từ phần cuối của [Câu chuyện về Aragorn và Arwen](../T/The_Tale_of_Aragorn_and_Arwen.md) trong [phần Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md), nơi người ta kể rằng [Aragorn](Aragorn.md) đã chết và [Arwen](Arwen.md) đi đến [Lórien](../L/Lórien.md) một mình sau khi chết.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

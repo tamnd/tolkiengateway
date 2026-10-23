@@ -30,8 +30,8 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 - [Túrin](../T/Túrin.md), cùng với [Hunthor](../H/Hunthor.md) và [Dorlas](../D/Dorlas.md), đi tìm [Glaurung](../G/Glaurung.md). [Hunthor](../H/Hunthor.md) bị đá rơi giết chết và [Dorlas](../D/Dorlas.md) bị [Brandir](../B/Brandir.md) giết vì tội đào ngũ Túrin.<sup id="cite_ref-CH17_2-0" class="reference"><a href="#cite_note-CH17-2">[2]</a></sup>
 - Túrin tìm thấy Glaurung và giết chết con rồng.<sup id="cite_ref-CH17_2-1" class="reference"><a href="#cite_note-CH17-2">[2]</a></sup>
 - Với những lời hấp hối của mình, Glaurung tiết lộ với Níniel rằng cô ấy là Nienor và Túrin là anh trai cô ấy. Cô ấy tự tử bằng cách ném mình từ [Cabed-en-Aras](../C/Cabed-en-Aras.md) xuống sông [Taeglin](../T/Taeglin.md). Brandir chứng kiến điều này.<sup id="cite_ref-Turin_3-0" class="reference"><a href="#cite_note-Turin-3">[3]</a></sup>
-- Brandir nói với Túrin rằng vợ anh cũng là em gái anh. Túrin không tin anh ta và giết Brandir trong cơn tức giận.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
-- Túrin biết được từ [Mablung](../M/Mablung.md) rằng Brandir đã nói sự thật. Túrin tự sát bằng cách ngã vào [thanh kiếm của mình](../G/Gurthang.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+- Brandir kể Túrin vợ anh cũng là em gái anh. Túrin không tin anh ta và giết chết Brandir trong cơn tức giận.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- Túrin học được từ [Mablung](../M/Mablung.md) rằng Brandir đã nói sự thật. Túrin tự sát bằng cách ngã vào [thanh kiếm của mình](../G/Gurthang.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 - Người [Haladin](../H/House_of_Haleth.md) dựng mộ cho Túrin và Nienor.<sup id="cite_ref-Turin_3-1" class="reference"><a href="#cite_note-Turin-3">[3]</a></sup>
 
 ## Sau {#Later}

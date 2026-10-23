@@ -34,7 +34,7 @@ Một cuộc điều tra dân số vào [T.A.](Third_Age.md) <a class="new" href
 
 ## Lịch sử {#History}
 
-Tûl Isra ban đầu được thành lập vào đầu [Kỷ thứ hai](../S/Second_Age.md). Vị trí của nó mang tính chiến lược, nằm ở nơi tuyến đường thương mại *Yûl Isra* phân nhánh từ Đường Camel gần ngã ba sông Siresha và Sông Maudar, dẫn về phía nam tới [Dãy núi Vàng](../Y/Yellow_Mountains.md). Thành phố ban đầu nằm ở phía tây bắc của Hayk Sarzain cho đến khi bị phá hủy vào [S.A.](../S/Second_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Second_Age_1933&amp;action=edit&amp;redlink=1" title="Second Age 1933 (page does not exist)">1933</a> bởi quân đội của [Bão Vua](../F/Fifth_of_the_Nazgûl.md).
+Tûl Isra ban đầu được thành lập vào đầu [Kỷ thứ hai](../S/Second_Age.md). Vị trí của nó mang tính chiến lược, nằm ở nơi tuyến đường thương mại *Yûl Isra* phân nhánh từ Đường Camel gần ngã ba sông Siresha và Sông Maudar, dẫn về phía nam đến [Dãy núi Vàng](../Y/Yellow_Mountains.md). Thành phố ban đầu nằm ở phía tây bắc của Hayk Sarzain cho đến khi bị phá hủy vào [S.A.](../S/Second_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Second_Age_1933&amp;action=edit&amp;redlink=1" title="Second Age 1933 (page does not exist)">1933</a> bởi quân đội của [Bão Vua](../F/Fifth_of_the_Nazgûl.md).
 
 Sau đó vào Thời đại thứ hai, một ngôi làng tên là Mumett được thành lập ở bờ phía đông của hồ. Vào [T.A.](Third_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Age_83&amp;action=edit&amp;redlink=1" title="Third Age 83 (page does not exist)">83</a>, các thành viên của Clan Másra đã tái lập Tûl Isra ngay phía nam Mumett. Địa điểm mới này có một con đường dốc có thể phòng thủ được, giúp tăng cường những bức tường cao 20 foot của thành phố. Đá để tái thiết được khai thác từ [Brû Isra](../S/Sîrayn.md#Isra) gần đó hoặc được trục vớt từ các di tích cổ.
 
@@ -60,7 +60,7 @@ Các quận bên ngoài kém sang trọng hơn, được xây dựng chủ yếu
 
 Rìa phía đông của thành phố vẫn còn hoang tàn, là kết quả của ngọn lửa ma thuật do các phù thủy [Charnesra](../C/Charnesra.md) gây ra vào năm [T.A.](Third_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Age_1457&amp;action=edit&amp;redlink=1" title="Third Age 1457 (page does not exist)">1457</a>.<sup id="cite_ref-history_1-5" class="reference"><a href="#cite_note-history-1">[1]</a></sup>
 
-### Chợ ngoại thành {#The_Outer_City_Market}
+### Chợ ngoại ô {#The_Outer_City_Market}
 
 Nằm bên ngoài cổng thành về phía bắc là khu vực dành cho đoàn lữ hành. Họ là nơi thường xuyên lui tới của các thương nhân Haradan, Người Lùn từ Dãy núi Vàng và Tiên tộc từ quần đảo phía nam.<sup id="cite_ref-history_1-6" class="reference"><a href="#cite_note-history-1">[1]</a></sup> <span></span>
 

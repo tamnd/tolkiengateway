@@ -39,12 +39,12 @@ Những sự kiện đáng chú ý trong năm này bao gồm:
 - [Húrin](../H/Húrin.md) và [Gwindor](../G/Gwindor.md) bị bắt. [Húrin](../H/Húrin.md) từ chối tiết lộ cho [Morgoth](../M/Morgoth.md) vị trí của [Gondolin](../G/Gondolin.md); Morgoth chế giễu Húrin tại [Haudh-en-Ndengin](../H/Hill_of_the_Slain.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 - [Turgon](../T/Turgon.md) kế vị [Fingon](Fingon.md) trở thành [Đại vương của người Noldor](../H/High_King_of_the_Noldor.md) tại [Middle-earth](../M/Middle-earth.md) và trở về [Gondolin](../G/Gondolin.md).<sup id="cite_ref-Fifth_3-4" class="reference"><a href="#cite_note-Fifth-3">[3]</a></sup>
 
-## Late {#Late}
+## Muộn {#Late}
 
-- Birth of [Tuor](../T/Tuor.md). [Rían](../R/Rían.md) commits Tuor to the care of the elf [Annael](../A/Annael.md).<sup id="cite_ref-GA_5-0" class="reference"><a href="#cite_note-GA-5">[5]</a></sup>
-- Rían goes to the [Haudh-en-Nirnaeth](../H/Hill_of_the_Slain.md) and dies.<sup id="cite_ref-GA_5-1" class="reference"><a href="#cite_note-GA-5">[5]</a></sup>
-- Death of [Glóredhel](../G/Glóredhel.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
-- [Túrin](../T/Túrin.md) sent to [Doriath](../D/Doriath.md) by his mother [Morwen](../M/Morwen.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+- Sự ra đời của [Tuor](../T/Tuor.md). [Rían](../R/Rían.md) cam kết Tuor chăm sóc yêu tinh [Annael](../A/Annael.md).<sup id="cite_ref-GA_5-0" class="reference"><a href="#cite_note-GA-5">[5]</a></sup>
+- Rían đi đến [Haudh-en-Nirnaeth](../H/Hill_of_the_Slain.md) và chết.<sup id="cite_ref-GA_5-1" class="reference"><a href="#cite_note-GA-5">[5]</a></sup>
+- Cái chết của [Glóredhel](../G/Glóredhel.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+- [Túrin](../T/Túrin.md) được mẹ anh [Doriath](../D/Doriath.md) gửi tới [Morwen](../M/Morwen.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 <span></span>
 

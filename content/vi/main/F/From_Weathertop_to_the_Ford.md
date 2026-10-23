@@ -53,7 +53,7 @@ categories:
 
 ## Tóm tắt {#Synopsis}
 
-Trong chương này, không giống như chương trước, Christopher luân phiên giữa tóm tắt và trình bày toàn văn. Trong tóm tắt ban đầu *[athelas](../A/Athelas.md)* chưa được [người Númenor](../N/Númenóreans.md) mang đến [Trung Địa](../M/Middle-earth.md), nó chỉ là một loài thực vật chỉ có [Tiên tộc](../E/Elves.md) và những kẻ lang thang biết đến. Vết thương trong Bingo<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> được mô tả là ở bên phải; sau đó nó được chuyển sang bên trái. Rời khỏi dell, cả nhóm mang theo củi. Thiếu sự trẻ hóa của [con ngựa con của họ](../B/Bill_the_Pony.md). Hành trình về phía đông từ [Weathertop](../W/Weathertop.md) lúc đầu rất khớp với văn bản đã xuất bản, nhưng có thời gian hơi khác một chút.
+Trong chương này, không giống như chương trước, Christopher luân phiên giữa tóm tắt và trình bày toàn văn. Trong tóm tắt ban đầu *[athelas](../A/Athelas.md)* chưa được [người Númenor](../N/Númenóreans.md) mang đến [Trung Địa](../M/Middle-earth.md), nó chỉ là một loài thực vật chỉ có [Tiên tộc](../E/Elves.md) và những kẻ lang thang biết đến. Vết thương trong Bingo<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> được mô tả là ở bên phải; sau đó nó được chuyển sang bên trái. Rời khỏi dell, cả nhóm mang theo củi. Thiếu sự trẻ hóa cho [con ngựa con của họ](../B/Bill_the_Pony.md). Hành trình về phía đông từ [Weathertop](../W/Weathertop.md) lúc đầu rất khớp với văn bản đã xuất bản, nhưng có thời gian hơi khác một chút.
 
 Trước khi ngày đầu tiên kết thúc, nỗi đau của Bingo ngày càng tăng dù anh ấy không đề cập đến nó. Ba hoặc bốn ngày trôi qua mà không có nhiều thay đổi ngoại trừ Weathertop ngày càng xa hơn và [ngọn núi](../M/Misty_Mountains.md) đến gần hơn. Kẻ thù dường như đã mất dấu vết. Họ đi lên từ một thung lũng nông và vào ngày thứ năm họ nhìn thấy [con đường](../E/East_Road.md) bên dưới và một con sông nhỏ ở bên phải. Sáng hôm sau họ băng qua đường và tiến vào [ngọn đồi](../T/Trollshaws.md). [Trotter](../T/Trotter.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup> dẫn những người hobbit khác theo một đường thẳng nhất có thể về phía [Ford](Ford_of_Bruinen.md) nhưng đường đi của họ trở nên khó khăn hơn khi đi trên đồi.
 
@@ -71,7 +71,7 @@ Khi họ đến gần chiếc Ford, Kỵ sĩ Đen đuổi theo Bingo trên con n
 
 ## Bình luận {#Commentary}
 
-Christopher Tolkien lưu ý rằng chương này nói rõ rằng Ma nhẫn có thể gửi lệnh bằng thần giao cách cảm đến người mang [Chiếc nhẫn](../T/The_One_Ring.md). Ngoài ra, vết thương từ con dao của Nhẫn ma từ từ tạo ra tác dụng tương tự như việc đeo Nhẫn, bước vào một thế giới mờ mịt và u ám.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[3]</a></sup>
+Christopher Tolkien lưu ý rằng chương này nói rõ rằng các hồn ma Nhẫn có thể gửi lệnh bằng thần giao cách cảm đến người mang [Nhẫn](../T/The_One_Ring.md). Ngoài ra, vết thương từ con dao của hồn ma Nhẫn từ từ tạo ra hiệu ứng tương tự như việc đeo Nhẫn, bước vào một thế giới mờ mịt và u ám.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[3]</a></sup>
 
 ## Đường giữa Weathertop và Rivendell {#Road_between_Weathertop_and_Rivendell}
 
@@ -83,7 +83,7 @@ Ban đầu Hoarwell không được đưa vào câu chuyện. Trong câu chuyệ
 
 ## Lưu ý về sông Rivendell {#Note_on_the_river_of_Rivendell}
 
-Trong bản thảo, con sông thứ hai, nơi các Kỵ sĩ đen bị lũ cuốn trôi, được xác định là con sông chảy qua Rivendell. Trong câu chuyện đã xuất bản, Aragorn đặt tên cho con sông này là Bruinen,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[6]</a></sup> Phòng của Bilbo nhìn về phía nam qua khe núi Bruinen,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[7]</a></sup> và Frodo đi bộ trên các bậc thang phía trên Bruinen.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[8]</a></sup> Tất cả đều hoàn toàn rõ ràng ngoại trừ nhiều bản đồ khác nhau tạo ra sự mơ hồ.
+Trong bản thảo, con sông thứ hai, nơi Kỵ sĩ Đen bị lũ cuốn trôi, được xác định là con sông chảy qua Rivendell. Trong câu chuyện đã xuất bản Aragorn đặt tên cho con sông này là Bruinen,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[6]</a></sup> Bilbo căn phòng nhìn về phía nam qua khe núi Bruinen,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[7]</a></sup> và Frodo đi bộ trên các bậc thang phía trên Bruinen.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[8]</a></sup> Tất cả đều hoàn toàn rõ ràng ngoại trừ việc nhiều bản đồ khác nhau gây ra sự mơ hồ.
 
 Trong bản đồ Wilderland ở *The Hobbit*<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[9]</a></sup> các nhánh sông không tên và ngôi nhà của [Elrond](../E/Elrond.md) nằm giữa chúng. Trong một bản đồ phác thảo cho *The Hobbit* Tolkien có nhãn dòng trên là Bruinen và nhánh dưới là *Merrill*. Mặc dù thú vị nhưng Christopher nói rằng không thể đưa ra kết luận nào từ bản đồ phác thảo.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[10]</a></sup>
 

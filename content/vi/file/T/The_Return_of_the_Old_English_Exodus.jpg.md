@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Reprint of the Old English Exodus.jpg"
 ---
 
-Chuyển hướng tới [Tệp:Bản in lại của tiếng Anh cổ Exodus.jpg](The_Reprint_of_the_Old_English_Exodus.jpg.md).
+Chuyển hướng đến [Tệp:Bản in lại của tiếng Anh cổ Exodus.jpg](The_Reprint_of_the_Old_English_Exodus.jpg.md).

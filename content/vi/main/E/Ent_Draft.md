@@ -39,7 +39,7 @@ infobox:
 
 ## Sự khác biệt {#Differences}
 
-Trong cảnh này, Merry và Pippin bị mắc kẹt trong sự bám chặt của một cái cây đang thức giấc. Một sự kiện tương tự xảy ra trong chương sách [The Khu Rừng Cổ](../T/The_Old_Forest.md), nơi [Ông già Willow](../O/Old_Man_Willow.md) mắc kẹt Merry và Pippin. [Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) kêu cứu [Tom Bombadil](../T/Tom_Bombadil.md) người đã trừng phạt cái cây, giải thoát hai người hobbit bị mắc kẹt.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Lời thoại của Treebeard ở cuối cảnh này được lấy từ sự kiện này trong sách.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong cảnh này, Merry và Pippin bị mắc kẹt trong sự bám chặt của một cái cây đang thức giấc. Một sự kiện tương tự xảy ra trong chương sách [The Khu Rừng Cổ](../T/The_Old_Forest.md), nơi [Ông già liễu](../O/Old_Man_Willow.md) bị mắc kẹt Merry và Pippin. [Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) kêu cứu [Tom Bombadil](../T/Tom_Bombadil.md) người đã trừng phạt cái cây, giải thoát hai người hobbit bị mắc kẹt.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Lời thoại của Treebeard ở cuối cảnh này được lấy từ sự kiện này trong sách.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

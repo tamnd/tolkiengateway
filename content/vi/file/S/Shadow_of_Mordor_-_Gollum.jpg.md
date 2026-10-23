@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Gollum như được mô tả trong [Trung Địa: Bóng Tối của Mordor](../../main/M/Middle-earth%253A_Shadow_of_Mordor.md).
+Gollum như được mô tả trong [Middle-earth: Shadow of Mordor](../../main/M/Middle-earth%253A_Shadow_of_Mordor.md).
 
 ## Giấy phép {#Licensing}
 

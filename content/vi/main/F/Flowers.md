@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Flowers"
 ---
 
-Chuyển hướng tới [Danh mục:Hoa](../../category/F/Flowers.md).
+Chuyển hướng đến [Danh mục:Hoa](../../category/F/Flowers.md).

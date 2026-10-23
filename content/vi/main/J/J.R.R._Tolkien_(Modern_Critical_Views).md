@@ -99,7 +99,7 @@ infobox:
 - *"Thay đổi làn da theo nhiều nghĩa: Sự phức tạp của Beorn"*
     - Bởi [Marjorie Burns](../M/Marjorie_Burns.md) (từ *[Perilous Realms: Celtic and Norse in Tolkien's Middle-earth](../P/Perilous_Realms%253A_Celtic_and_Norse_in_Tolkien's_Middle-earth.md)*)
 - *"Bằng chứng về những điều chưa được nhìn thấy: Thần thoại phê phán và The Lord of the Rings"*
-    - Tác giả John C. Hunter (từ *Journal of Modern Literature* Tập 29, Số 2)
+    - Bởi John C. Hunter (từ *Journal of Modern Literature* Tập 29, Số 2)
 - Niên đại
 - Người đóng góp
 - Thư mục

@@ -71,7 +71,7 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
     - Bởi: Ian Collier & Lynn Forest-Hill
 - Báo cáo: ĐHĐCĐ & Tiệc tối TS 2004
     - Bởi: Marion Kershaw
-- Sảnh lửa
+- Cái Hall of Fire
     - Bởi: Lynn Forest-Hill
 - Thả yêu tinh bên trong
     - Bởi: *[Beruthiel](../B/Berúthiel.md)'s Pet*
@@ -99,6 +99,6 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
 - Thành viên mới
 - Hồ sơ thành viên
     - Bởi: Paul Johnson
-- Truyện dân gian/Ủy ban
+- Truyện dân ca/Ủy ban
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 186</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_186.md" title="Amon Hen 186">Amon Hen 186</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 187</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 188</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_188.md" title="Amon Hen 188">Amon Hen 188</a></div></div></div>

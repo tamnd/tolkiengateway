@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ishmalog"
 ---
 
-Chuyển hướng tới [Ishmalog](../I/Ishmalog.md).
+Chuyển hướng đến [Ishmalog](../I/Ishmalog.md).

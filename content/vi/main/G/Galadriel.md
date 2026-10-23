@@ -194,7 +194,7 @@ White Council không hành động cho đến khi Gandalf phát hiện ra rằng
 
 Vài năm sau, [Aragorn](../A/Aragorn.md) đến Lothlórien sau nhiều chuyến hành trình và được Galadriel tiếp nhận. Bà bảo chàng thay bộ quần áo đã sờn rách, rồi cho chàng mặc trang phục xứng đáng với một vị hoàng tử. Cũng vào thời điểm ấy, Aragorn đính hôn với cháu gái của bà là [Arwen](../A/Arwen.md).<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[36]</a></sup>
 
-#### War of the Ring {#War_of_the_Ring}
+#### Cuộc chiến Nhẫn {#War_of_the_Ring}
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Ralph_Damiani_-_The_Trial.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/aa/Ralph_Damiani_-_The_Trial.png/300px-Ralph_Damiani_-_The_Trial.png" decoding="async" loading="lazy" width="300" height="424" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/aa/Ralph_Damiani_-_The_Trial.png/450px-Ralph_Damiani_-_The_Trial.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/aa/Ralph_Damiani_-_The_Trial.png/600px-Ralph_Damiani_-_The_Trial.png 2x" data-file-width="765" data-file-height="1080"/></a><figcaption><i>The Trial</i> by <a href="../../category/I/Images_by_Ralph_Damiani.md" title="Category:Images by Ralph Damiani">Ralph Damiani</a></figcaption></figure>
 
@@ -451,7 +451,7 @@ Christopher Tolkien biết về [quan niệm mới nhất](#Unstained_exile) c�
 
 ### Phim {#Films}
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (1978 film)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
 
 <dl><dd>Galadriel is voiced by <a href="../A/Annette_Crosbie.md" title="Annette Crosbie">Annette Crosbie</a>.</dd></dl>
 
@@ -503,19 +503,19 @@ Christopher Tolkien biết về [quan niệm mới nhất](#Unstained_exile) c�
 
 <dl><dd>Galadriel, voiced by <a href="../J/Jennifer_Hale.md" title="Jennifer Hale">Jennifer Hale</a>, is the narrator of the Prologue and the Epilogue, and appears in Lothlórien.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
 <dl><dd>Galadriel is the strongest of &#34;Hero&#34; units available to the Free Peoples. If a player&#39;s army manages to spot <a href="Gollum.md" title="Gollum">Gollum</a> on the battlefield, take The One Ring from him and deliver it to their forces, the option to &#34;summon&#34; Galadriel unlocks for a large amount of resources. Thus, Lady Galadriel is represented as succumbing to corruption of The Ring, similar to the respective scene in the <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> movie.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Introduced in <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">The Lord of the Rings Online: Mines of Moria</a></i>, Galadriel plays a prominent role during the Epic storyline with guidance and support. During the final days of the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a>, Galadriel assembles the Council of Elven Lords, where it is decided to bring their armies against <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>. After she brings down the walls of Dol Guldur, Galadriel accompanies Arwen on her journey south to her wedding, and they visit the site of <a class="mw-redirect" href="../C/Celebrian.md" title="Celebrian">Celebrian</a>&#39;s captivity in the <a href="../M/Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a> together. Afterwards, she and Celeborn join the procession of <a href="../E/Elrond.md" title="Elrond">Elrond</a>&#39;s house and travel to <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> to attend the wedding of Arwen and Aragorn.</dd></dl>
 
-**2014: [Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md):**
+**2014: [Trung Địa: Bóng Tối trong số Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md):**
 
 <dl><dd>Galadriel is featured in the game, although she is a non-playable character. She is voiced by <a href="../J/Jennifer_Hale.md" title="Jennifer Hale">Jennifer Hale</a> and she narrates the prologue in a showing of the game.</dd></dl>
 
-**2017: [Middle-earth: Shadow of War](../M/Middle-earth%253A_Shadow_of_War.md):**
+**2017: [Trung Địa: Bóng Tối của chiến tranh](../M/Middle-earth%253A_Shadow_of_War.md):**
 
 <dl><dd>Galadriel is featured in the game, although she is a non-playable character, with <a href="../J/Jennifer_Hale.md" title="Jennifer Hale">Jennifer Hale</a> reprising her role from the game.</dd></dl>
 

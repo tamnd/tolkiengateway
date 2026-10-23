@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The J.R.R. Tolkien Calendar 1974"
 ---
 
-Chuyển hướng đến [Lịch J.R.R. Tolkien 1974](The_J.R.R._Tolkien_Calendar_1974.md).
+Chuyển hướng đến [The J.R.R. Tolkien Calendar 1974](The_J.R.R._Tolkien_Calendar_1974.md).

@@ -61,7 +61,7 @@ infobox:
         - Bởi: Harry Lee Poe
     - "Đánh giá về ấn bản có chú thích của Wade về Người đàn ông sinh ra để trở thành Vua của Dorothy L. Sayers, chú thích của Kathryn Wehr"
         - Bởi: Carolyn Weber
-    - "Đánh giá về những tài năng nghiệp dư của David Bratman"
+    - "Đánh giá về Tài năng Tài năng của David Bratman"
         - Bởi: Giovanni Carmine Costabile
     - "Đánh giá về Trận chiến Maldon cùng với Sự trở lại của Beorhtnoth của J.R.R. Tolkien, được biên tập bởi Peter Grybauskas"
         - Bởi: David Llewellyn Dodds

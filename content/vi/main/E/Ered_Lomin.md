@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ered Lómin"
 ---
 
-Chuyển hướng tới [Ered Lómin](Ered_Lómin.md).
+Chuyển hướng đến [Ered Lómin](Ered_Lómin.md).

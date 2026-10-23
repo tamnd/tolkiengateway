@@ -23,4 +23,4 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Được vẽ lại rõ ràng bởi [User:Interlinked](https://tolkiengateway.net/wiki/User:Interlinked) từ [Tolkien](../../main/T/Tolkien.md) [bản vẽ về thiết bị thứ hai của Lúthien Tinúviel](../J/J.R.R._Tolkien_-_Luthien_Heraldic_Device_II.jpg.md).
+Được vẽ lại sạch sẽ bởi [Người dùng:Đã liên kết](https://tolkiengateway.net/wiki/User:Interlinked) từ [bản vẽ của thiết bị Lúthien Tinúviel thứ hai](../J/J.R.R._Tolkien_-_Luthien_Heraldic_Device_II.jpg.md) của [Tolkien](../../main/T/Tolkien.md).

@@ -49,7 +49,7 @@ infobox:
 
 **Nimloth** là Cây Trắng phát triển trong [Vua Tòa án](../K/King's_Court.md) ở [Armenelos](../A/Armenelos.md) của [Númenor](Númenor.md). Nó được [Eldar](../E/Eldar.md) từ [Tol Eressëa](../T/Tol_Eressëa.md)mang đến làm quà, dưới dạng một cây con từ [Celeborn](<../C/Celeborn_(White_Tree).md>) như một biểu tượng của tình bạn giữa hai chủng tộc. Những bông hoa của nó xuất hiện như bộ [Mặt Trời](../S/Sun.md), và hương thơm của chúng tràn ngập màn đêm ở thành phố hoàng gia của [Númenor](Númenor.md).
 
-Ngay sau [S.A.](../S/Second_Age.md) [3262](../S/Second_Age_3262.md), nó đã bị đốn hạ theo sự xúi giục của [Sauron](../S/Sauron.md) và gỗ của nó được dùng để thắp lên những ngọn lửa đầu tiên trong ngọn lửa của [Đền thờ](../T/Temple.md) của tôn giáo mới thờ phụng [Melkor](../M/Morgoth.md).
+Ngay sau [S.A.](../S/Second_Age.md) [3262](../S/Second_Age_3262.md), nó đã bị đốn hạ theo sự xúi giục của [Sauron](../S/Sauron.md) và gỗ của nó được dùng để thắp lên những ngọn lửa đầu tiên trong ngọn lửa [Đền thờ](../T/Temple.md) của tôn giáo mới tôn thờ [Melkor](../M/Morgoth.md).
 
 Tuy nhiên, đêm hôm trước [Isildur](../I/Isildur.md) đã trộm một quả trên cây và lén trồng. Quả phát triển thành một cây con Isildur mang theo bên mình [Trung Địa](../M/Middle-earth.md) trong [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md). Cây giống đó được trồng vào [Minas Ithil](../M/Minas_Ithil.md)và đã bị phá hủy trước khi kết thúc [Thời đại thứ hai](../S/Second_Age.md). Cây con của nó lần lượt phát triển thành [Cây Trắng đầu tiên của Gondor](../W/White_Tree_of_Gondor.md).
 

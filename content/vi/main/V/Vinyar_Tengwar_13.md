@@ -51,8 +51,8 @@ infobox:
 
 - "Mythcon XXI: Đánh giá" — Bruce Leonard
 - "Con đường 'hồi sinh' Elvish: Một mô hình Cornish?" — Alexei Kondratiev
-- "Khảo sát các bản dịch bài thơ nhẫn" — Jorge Quiñónez
-- "*Essitalmar*: Star-struck" (cột) — Tom Loback
+- "Khảo sát các bản dịch thơ Nhẫn" — Jorge Quiñónez
+- "*Essitalmar*: Bị sao" (cột) — Tom Loback
 - "Chuyển đổi trong bản dịch: 'Chuyển phiên bản' bằng tiếng Đức Hobbit, Phần 1" (cột) — Arden R. Smith
 
 <br>

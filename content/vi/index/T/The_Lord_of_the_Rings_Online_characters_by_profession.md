@@ -12,7 +12,7 @@ categories:
   - "Index"
 ---
 
-Đây là danh sách nhân vật theo nghề nghiệp trong [The Lord of the Rings Trực tuyến](../../main/T/The_Lord_of_the_Rings_Online.md). Chỉ những ký tự có bài viết hoặc một phần trong danh sách các ký tự phụ mới được đề cập. Những nhân vật không có nghề nghiệp được xếp vào <a class="mw-selflink-fragment" href="#Others">"Khác"</a>.
+Đây là danh sách nhân vật theo nghề nghiệp trong [The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md). Chỉ những ký tự có bài viết hoặc một phần trong danh sách các ký tự phụ mới được đề cập. Những nhân vật không có nghề nghiệp được xếp vào <a class="mw-selflink-fragment" href="#Others">"Khác"</a>.
 
 ## Người đổi hàng {#Barters}
 

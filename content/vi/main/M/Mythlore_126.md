@@ -52,7 +52,7 @@ infobox:
 - Khốc liệt, Rodney M.D. "Thật lãng mạn phải không? Cơ quan hy sinh cho sự lãng mạn trong *The Chronicles of Prydain*."
 - Holtz-Wodzak, Victoria. "Tolkien Nằm ngoài: Xây dựng lực lượng không chiến đấu trong *The Children of Hurin*."
 - Gavin, John. "Thánh Jerome *Narnia*: Sự biến đổi và khổ hạnh trong sa mạc và bên ngoài tủ quần áo."
-- Rosegrant, John. "Tolkien Cuộc đối thoại giữa mê hoặc và mất mát."
+- Rosegrant, John. "Tolkien Đối thoại giữa mê hoặc và mất mát."
 - Tarcsay, Tibor. "*Chaoskampf*, Salvation, và Rồng: Nguyên mẫu trong Earendel của Tolkien."
 
 #### Tính năng {#Features}
@@ -63,13 +63,13 @@ infobox:
 #### Đánh giá {#Reviews}
 
 - *Christianity and the Detective Story.* Biên tập. Anya Morlan và Walter Raubicheck. Được đánh giá bởi Melody Green.
-- *Cuộc phiêu lưu của pháp sư: Homer, Tolkien và trải nghiệm có tầm nhìn* Robert Tindall với Susana Bustos. Lời nói đầu của John Perkins. Được đánh giá bởi Emily E. Auger.
+- *Cuộc phiêu lưu của pháp sư: Homer, Tolkien và trải nghiệm nhìn xa trông rộng* Robert Tindall với Susana Bustos. Lời tựa của John Perkins. Được đánh giá bởi Emily E. Auger.
 - *Có được khuôn mặt: Chủ nghĩa lãng mạn của C.S. Lewis.* James Prothero và Donald T. Williams. Được đánh giá bởi Crystal Hurd.
 - *Từ A-Z của C.S. Lewis: Bách khoa toàn thư về cuộc đời, tư tưởng và bài viết của ông.* Colin Duriez. Được đánh giá bởi Andrew Stout.
 - *Dưới lòng thương xót: Charles Williams & Chén Thánh.* Robert Peirano. Được đánh giá bởi Eric Rauscher.
 - *Tolkien và những người theo chủ nghĩa hiện đại: Phản ứng văn học trước những ngày mới đen tối của thế kỷ 20.* Theresa Freda Nicolay. Được đánh giá bởi Robert T. Tally Jr.
 - *Tolkien tại Exeter College: Cách một sinh viên Oxford tạo ra Trung Địa.* John Garth. Được đánh giá bởi Mike Austin Foster
 - *Fastitocalon: Nghiên cứu về thuyết huyền ảo từ cổ đại đến hiện đại.* Tổng biên tập Thomas Honegger và Fanfan Chen. Được đánh giá bởi Janet Brennan Croft.
-- *TOLKIEN Studies XI* Biên tập viên: Michael D.C. Drout, Verlyn Flieger và David Bratman. Được đánh giá bởi Janet Brennan Croft.
+- *TOLKIEN Studies XI* Người biên tập: Michael D.C. Drout, Verlyn Flieger và David Bratman. Được đánh giá bởi Janet Brennan Croft.
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 125</div></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_125.md" title="Mythlore 125">Mythlore 125</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 126</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 127</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_127.md" title="Mythlore 127">Mythlore 127</a></div></div></div>

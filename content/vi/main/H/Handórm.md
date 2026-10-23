@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ring of Thrór"
 ---
 
-Chuyển hướng đến [Vòng Thrór](../R/Ring_of_Thrór.md).
+Chuyển hướng tới [Nhẫn của Thrór](../R/Ring_of_Thrór.md).

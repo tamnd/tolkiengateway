@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Christopher Tolkien Centenary Set 4.png"
 ---
 
-Chuyển hướng đến [Tệp:Christopher Tolkien Bộ trăm năm 4.png](../C/Christopher_Tolkien_Centenary_Set_4.png.md).
+Chuyển hướng tới [Tệp:Christopher Tolkien Bộ trăm năm 4.png](../C/Christopher_Tolkien_Centenary_Set_4.png.md).

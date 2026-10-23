@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lótë"
 ---
 
-Chuyển hướng tới [Lótë](Lótë.md).
+Chuyển hướng đến [Lótë](Lótë.md).

@@ -42,7 +42,7 @@ infobox:
 - Alexander Zapryagaev: "Thơ ca và thi ca trong các ngôn ngữ [Eldarin](../E/Eldarin.md)"
 - [Bill Welden](../B/Bill_Welden.md): "Làm thế nào chúng tôi có được [Sindarin](../S/Sindarin.md)"
 - [Roman Rausch](../R/Roman_Rausch.md): "Lập bản đồ các không gian ngữ nghĩa trong [Elvish](../E/Elvish.md)"
-- Miriam Mayburd: "Những từ trong mơ, truyền thuyết về giấc mơ và ngôn ngữ đi lên: Từ điển [Qenya](../Q/Qenya.md) và [Gnomish](../G/Gnomish.md) của Tolkien dưới ánh sáng của Thực hành chiêm nghiệm và Thẩm mỹ đồng cảm thời Trung cổ"
+- Miriam Mayburd: "Những từ trong mơ, truyền thuyết về giấc mơ và ngôn ngữ đi lên: Từ vựng [Qenya](../Q/Qenya.md) và [Gnomish](../G/Gnomish.md) của Tolkien dưới ánh sáng của Thực hành chiêm nghiệm và Thẩm mỹ đồng thời thời Trung cổ"
 - Måns Berg: " 'Thường bị bỏ qua': Lịch sử lâu dài và phức tạp của [hwesta sindarinwa](../H/Hwesta_Sindarinwa.md)"
 - Henrik Williams (với sự đóng góp của biên tập viên): "Tảng đá Saluda và dòng chữ Russellville"
 

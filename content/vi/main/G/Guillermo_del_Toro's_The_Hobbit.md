@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit (film series)"
 ---
 
-Chuyển hướng đến [The Hobbit (loạt phim)](<../T/The_Hobbit_(film_series).md>).
+Chuyển hướng tới [The Hobbit (loạt phim)](<../T/The_Hobbit_(film_series).md>).

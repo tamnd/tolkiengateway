@@ -38,7 +38,7 @@ Cuộc chạm trán với một con nai cái màu trắng xảy ra trong "[The L
 
 Những con vật huyền bí có màu trắng rất phổ biến trong [Celtic](../C/Celtic.md) và [tiếng Wales](Welsh.md) thần thoại. Truyền thuyết về Vua Arthur bao gồm một câu chuyện về việc truy đuổi một con nai lớn <a class="external text" href="https://mortedarthur.fandom.com/wiki/White_hart" rel="noreferrer noopener" target="_blank">trắng</a>, dẫn đến việc đến cái giếng huyền diệu của Ngài Pellinore.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Douglas A. Anderson](../D/Douglas_A._Anderson.md) đã lưu ý rằng sự xuất hiện của hươu trắng ở *The Hobbit* báo trước việc Bilbo và nhóm bạn đến khu vực [Wood-elven](../E/Elves_of_Mirkwood.md) của Mirkwood, vì truyền thống "*\[i\]n Celtic, việc chạm trán với động vật trắng (đặc biệt là hươu trắng) thường báo trước một cuộc gặp gỡ với những sinh vật từ Thế giới khác ([Faërie](../F/Faerie.md))*".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Douglas A. Anderson](../D/Douglas_A._Anderson.md) đã lưu ý rằng sự xuất hiện của hươu trắng ở *The Hobbit* báo trước cách tiếp cận của Bilbo và đồng đội tới khu vực [Yêu tinh rừng](../E/Elves_of_Mirkwood.md) của Mirkwood, vì truyền thống "*\[i\]n Celtic, việc chạm trán với động vật trắng (đặc biệt là hươu trắng) thường báo trước một cuộc gặp gỡ với những sinh vật từ Thế giới khác ([Faërie](../F/Faerie.md))*".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 

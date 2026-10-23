@@ -83,13 +83,13 @@ categories:
     - "Cây bạc và cây vàng: Hướng dẫn về bản thảo Koivienéni" — Patrick H. Wynne và Christopher Gilson
 
 - [Số 26](Vinyar_Tengwar_26.md), tháng 11 năm 1992
-    - "Uglúk đến hố phân" — Carl F. Hostetter
+    - "Uglúk tới hố phân" — Carl F. Hostetter
 
 - [Số 24](Vinyar_Tengwar_24.md), tháng 7 năm 1992
     - "*[Sauron Defeated](../S/Sauron_Defeated.md)*: Đánh giá ngôn ngữ học" — Carl F. Hostetter
 
 - [Số 21](Vinyar_Tengwar_21.md), tháng 1 năm 1992
-    - "*Sí man i·yulmar n(g)win enquatuva*: Dòng chữ *Tengwar* mới được phát hiện" — Carl F. Hostetter
+    - "*Sí man i·yulmar n(g)win enquatuva*: Một dòng chữ *Tengwar* mới được phát hiện" — Carl F. Hostetter
 
 - [Số 14](Vinyar_Tengwar_14.md), tháng 11 năm 1990
     - "The Tiên tộc tại Koivienéni: Một câu Quenya mới" — Christopher Gilson và Patrick H. Wynne

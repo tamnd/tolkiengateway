@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sinh ra [Galador](../G/Galador.md), con trai của [Imrazôr](../I/Imrazôr.md) và [Mithrellas](../M/Mithrellas.md).<sup id="cite_ref-Dol_Amroth_1-0" class="reference"><a href="#cite_note-Dol_Amroth-1">[1]</a></sup>
+- Sinh con [Galador](../G/Galador.md), con trai [Imrazôr](../I/Imrazôr.md) và [Mithrellas](../M/Mithrellas.md).<sup id="cite_ref-Dol_Amroth_1-0" class="reference"><a href="#cite_note-Dol_Amroth-1">[1]</a></sup>
 - Sự ra đời của [Gilmith](../G/Gilmith.md), con gái của [Imrazôr](../I/Imrazôr.md) và [Mithrellas](../M/Mithrellas.md).<sup id="cite_ref-Dol_Amroth_1-1" class="reference"><a href="#cite_note-Dol_Amroth-1">[1]</a></sup>
 
 <span></span>

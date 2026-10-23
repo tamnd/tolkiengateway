@@ -18,7 +18,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Trong một lá thư, [Tolkien](../J/J.R.R._Tolkien.md) nêu rõ rằng dạng *tyelpe* bắt nguồn từ [Nguyên thủy Elvish](../P/Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kyelep%C4%93&amp;action=edit&amp;redlink=1" title="Kyelepē (page does not exist)">kyelepē</a></i>.<sup id="cite_ref-L347_4-0" class="reference"><a href="#cite_note-L347-4">[4]</a></sup>
+Trong một lá thư, [Tolkien](../J/J.R.R._Tolkien.md) nêu rằng hình thức *tyelpe* bắt nguồn từ [Primitive Elvish](../P/Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kyelep%C4%93&amp;action=edit&amp;redlink=1" title="Kyelepē (page does not exist)">kyelepē</a></i>.<sup id="cite_ref-L347_4-0" class="reference"><a href="#cite_note-L347-4">[4]</a></sup>
 
 Có vẻ như *tyelpe* là từ cổ xưa nhất (hoặc "tinh khiết") Quenya dành cho bạc; dạng *telpe*, đã trở thành dạng thông thường trong các [Tiên tộc](../E/Elves.md)nói Quenya, được mượn từ (hoặc chịu ảnh hưởng bởi) [Telerin](Telerin.md) *[telpe](Telepi.md)* (bản thân nó rõ ràng là một dạng sau của dạng Telerin ban đầu *[telepi](Telepi.md)*).<sup id="cite_ref-Shibb_2-1" class="reference"><a href="#cite_note-Shibb-2">[2]</a></sup><sup id="cite_ref-UT6e_3-1" class="reference"><a href="#cite_note-UT6e-3">[3]</a></sup><sup id="cite_ref-L347_4-1" class="reference"><a href="#cite_note-L347-4">[4]</a></sup><sup id="cite_ref-LR_5-0" class="reference"><a href="#cite_note-LR-5">[5]</a></sup>
 

@@ -38,7 +38,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đón nhận nó với lòng biết ơn và hỏi thăm về chồng mình. Sau đó, ông kể về hoàn cảnh gia đình mình: [John](../J/John_Tolkien.md) và [Michael](../M/Michael_Tolkien.md) đầu tiên, sau đó là vợ và người bảo mẫu của ông đã bị bệnh sởi gần hết tháng Giêng.
+Tolkien đón nhận nó với lòng biết ơn và hỏi thăm về chồng mình. Sau đó, ông kể về hoàn cảnh gia đình mình: [John](../J/John_Tolkien.md) và [Michael](../M/Michael_Tolkien.md) đầu tiên, sau đó là vợ và người bảo mẫu của ông bị bệnh sởi gần hết tháng Giêng.
 
 Trong phần tái bút, anh thông báo với cô rằng môn ngữ văn đang có tiến bộ ở [Đại học Leeds](../U/University_of_Leeds.md). <br>
 

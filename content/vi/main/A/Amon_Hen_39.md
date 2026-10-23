@@ -62,7 +62,7 @@ infobox:
 - Câu hỏi [Glorfindel](../G/Glorfindel.md) - Phần 93
     - Bởi: [Brin Dunsire](../B/Brin_Dunsire.md)
 - Thư
-- Truyện dân ca
+- Truyện dân gian
 - Góc của Jeremy
     - Bởi: Jeremy Morgan
 - Đấu giá lớn

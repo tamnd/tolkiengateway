@@ -118,7 +118,7 @@ Ngoài ra, trong những phiên bản trước đây về lời kể của Tom B
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Cardolan_map.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/45/The_Lord_of_the_Rings_Online_-_Cardolan_map.jpg/300px-The_Lord_of_the_Rings_Online_-_Cardolan_map.jpg" decoding="async" loading="lazy" width="300" height="225" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/45/The_Lord_of_the_Rings_Online_-_Cardolan_map.jpg/450px-The_Lord_of_the_Rings_Online_-_Cardolan_map.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/45/The_Lord_of_the_Rings_Online_-_Cardolan_map.jpg/600px-The_Lord_of_the_Rings_Online_-_Cardolan_map.jpg 2x" data-file-width="1024" data-file-height="768"/></a><figcaption>Map of Cardolan from <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>.</figcaption></figure>
 
-<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Cardolan, translated as &#34;Land of Red Hills&#34;, is featured in its ruined and mostly-abandoned state at the end of the <a href="../T/Third_Age.md" title="Third Age">Third Age</a>.</dd></dl>
 

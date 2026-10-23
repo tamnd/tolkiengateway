@@ -63,7 +63,7 @@ infobox:
 - Mỉm cười
     - Bởi: [J.S. Ryan](../J/John_Ryan.md)
 - Hãy mỉm cười
-- Truyện dân ca
+- Truyện dân gian
 - Thư
 - Ô chữ
 - Máy ép nhỏ

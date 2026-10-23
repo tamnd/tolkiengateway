@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-në"
 ---
 
-Chuyển hướng tới [-në](-në.md).
+Chuyển hướng đến [-në](-në.md).

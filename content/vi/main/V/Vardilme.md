@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vardilmë"
 ---
 
-Chuyển hướng đến [Vardilmë](Vardilmë.md).
+Chuyển hướng tới [Vardilmë](Vardilmë.md).

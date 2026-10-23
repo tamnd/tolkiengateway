@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ista-"
 ---
 
-Chuyển hướng đến [Ista-](Ista-.md).
+Chuyển hướng tới [Ista-](Ista-.md).

@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư gửi con trai [Michael](../M/Michael_Tolkien.md), Tolkien bày tỏ hy vọng rằng Michael đã bình phục sau thời gian làm việc quá sức và bệnh tật để tận hưởng Giáng sinh. Anh kể lại một Giáng sinh yên tĩnh nhưng vui vẻ, trở nên thú vị hơn nhờ chuyến thăm của ["Prisca"](../P/Priscilla_Tolkien.md).
+Trong bức thư gửi con trai [Michael](../M/Michael_Tolkien.md), Tolkien bày tỏ hy vọng rằng Michael đã bình phục sau thời gian làm việc quá sức và bệnh tật để tận hưởng Giáng sinh. Anh kể lại một Giáng sinh yên tĩnh nhưng vui vẻ, trở nên thú vị hơn nhờ chuyến viếng thăm của ["Prisca"](../P/Priscilla_Tolkien.md).
 
 Tolkien chia sẻ anh vẫn dễ mệt mỏi và gặp khó khăn trong việc sắp xếp không gian làm việc và sách vở để đối phó với áp lực công việc ngày càng tăng. Ông ghi nhận sự thành công đáng kể của doanh số bán sách bìa mềm *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* đã vượt trội so với tất cả các cuốn sách khác trên thị trường Giáng sinh, đồng thời doanh số bán *[The Hobbit](../T/The_Hobbit.md)* cũng tăng đáng kể. Bất chấp thành công về mặt thương mại này, Tolkien đã đề cập đến những căng thẳng tài chính do hóa đơn thuế đáng kể đối với thu nhập tăng lên của anh ấy trước khi quỹ tín thác của anh ấy bắt đầu hoạt động, khiến thu nhập thực tế của anh ấy giảm đáng kể và nhu cầu tài chính lớn trong năm tới.
 

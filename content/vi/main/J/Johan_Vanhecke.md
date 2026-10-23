@@ -45,7 +45,7 @@ Năm 1992, Vanhecke đã tổ chức một cuộc triển lãm Tolkien thành c�
 - [1980](../_/1980.md): [*Amon Hen* 43](../A/Amon_Hen_43.md)
     - "Cũ Tom Bombadil Là A ..."
 - [1980](../_/1980.md): *Hexa* 2
-    - "Het Mandala-Symbool trong *The Lord of the Rings*" (trang 28–44)
+    - "Het Mandala-Biểu tượng trong *The Lord of the Rings*" (trang 28–44)
 - [1981](../_/1981.md): [*Amon Hen* 50](../A/Amon_Hen_50.md)
     - "Đánh giá Uyldert"
 - [1981](../_/1981.md): [*Mallorn* 17](../M/Mallorn_17.md)

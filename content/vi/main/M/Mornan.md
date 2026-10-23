@@ -39,7 +39,7 @@ Vào [8 tháng 3](../_/8_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_A
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The name &#34;Mornan&#34; is not used due to licensing restrictions, but Morthond does originate in a dark valley matching its description.</dd></dl>
 

@@ -29,7 +29,7 @@ Trong một bài thơ, [Tom Bombadil](../T/Tom_Bombadil.md) bị kéo xuống s�
 
 ### Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The <b>River-maidens</b> are spirits that watch over the waters of <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>, one is said to be present whenever a river is flowing. <a href="../G/Goldberry.md" title="Goldberry">Goldberry</a> is the River-maiden of <a href="../W/Withywindle.md" title="Withywindle">Withywindle</a>, and others can be found watching over <a class="mw-redirect" href="../M/Midgewater.md" title="Midgewater">Midgewater</a>, <a class="mw-redirect" href="../M/Mitheithel.md" title="Mitheithel">Mitheithel</a>, <a href="../G/Gladden_River.md" title="Gladden River">Gladden</a>, <a href="../G/Gilrain.md" title="Gilrain">Gilrain</a>, <a href="../S/Serni.md" title="Serni">Serni</a>, <a href="../C/Celos.md" title="Celos">Celos</a>, <a href="../S/Sirith.md" title="Sirith">Sirith</a> and <a href="../E/Erui.md" title="Erui">Erui</a>. Some show themselves openly, others are secretive and only reveal themselves to the Wise and the descendants of the <a href="../N/Númenóreans.md" title="Númenóreans">Númenóreans</a> who had known of River-maidens in the years of old. But some were driven mad by the bloodshed spilled over their waters, or even slain by the servants of the Enemy who then take on their fair appearance.</dd></dl>
 

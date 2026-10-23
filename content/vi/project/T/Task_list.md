@@ -53,7 +53,7 @@ Trong lần chia cắt thứ 2, Nandor (Q. dành cho "những người quay tr�
 
 "Silvan Elvish" bản thân nó là một thuật ngữ chung cho các phương ngữ khác nhau của Elvish được sử dụng bởi nhiều nhóm Tiên tộc khác nhau trong Kỷ nguyên sau này. Các ngôn ngữ này bắt nguồn từ phương Đông phương ngữ Danian, nhưng không đồng nghĩa với nó/chúng, bởi vì chúng không cùng tồn tại: phương Đông Danian đề cập đến ngôn ngữ của miền đông Nandor trong Kỷ nguyên thứ nhất, "Silvan Elvish" là một thuật ngữ áp dụng cho Kỷ nguyên thứ 2 & thứ 3. Hơn nữa, các ngôn ngữ Silvan Elvish được ghi nhận là bị ảnh hưởng bởi các ngôn ngữ Avarin, do những dân tộc Avarin di cư về phía Tây theo thời gian và hòa trộn với Silvan Tiên tộc; phương Đông Danian chưa có những ảnh hưởng như vậy.
 
-Tóm lại: phương Đông Danian đã phát triển theo thời gian, với một số Avarin ảnh hưởng, thành cái mà sau này được gọi là "Silvan Elvish", bản thân nó là một thuật ngữ chung cho một số phương ngữ có liên quan chặt chẽ - tương tự như mối quan hệ giữa tiếng Anh cổ và tiếng Anh hiện đại. Xin lưu ý thêm, tôi sẽ cẩn thận khi nói "Danian (từ lãnh đạo Dân)", vì nó hiện được diễn đạt trên cả hai trang bạn liên kết; đây là một giả định sai lầm. Phần tử dan- có cùng nguồn gốc với Q. nan- trong các ngôn ngữ Telerin, ví dụ: Quenya Nandor "những người quay trở lại" tương đương với các thuật ngữ Sindarin Danedhel, Danwaith, Danathrim. Phần tử đầu tiên này đến từ Nguyên thủy Elvish √NDAN.
+Tóm lại: phương Đông Danian đã phát triển theo thời gian, với một số Avarin ảnh hưởng, thành cái mà sau này được gọi là "Silvan Elvish", bản thân nó là một thuật ngữ chung cho một số phương ngữ có liên quan chặt chẽ - tương tự như mối quan hệ giữa tiếng Anh cổ và tiếng Anh hiện đại. Xin lưu ý thêm, tôi sẽ cẩn thận khi nói "Danian (từ lãnh đạo Dân)", vì nó hiện được diễn đạt trên cả hai trang bạn liên kết; đây là một giả định sai lầm. Phần tử dan- có cùng nguồn gốc với Q. nan- trong các ngôn ngữ Telerin, ví dụ: Quenya Nandor "những người quay trở lại" tương đương với các thuật ngữ Sindarin Danedhel, Danwaith, Danathrim. Phần tử đầu tiên này đến từ Primitive Elvish √NDAN.
 
 Tuy nhiên, điều này dường như không liên quan gì đến Lenwe/ Dân/Denweg: nếu tên của anh ấy có cùng gốc thì đó sẽ là Nenwe trong Quenya, không phải Lenwe. Trong trường hợp của anh ấy, phần tử là √DAN, phần tử này chưa được chứng thực và có khả năng liên quan đến √NDAN, nhưng khác biệt với nó. Quan điểm của tôi là - nói "Danian người Dân" là trộn lẫn nhân quả.
 
@@ -148,22 +148,22 @@ Một lưu ý phụ khác - tham chiếu số 2 trong cả hai trang này (tríc
     - Sửa lại toàn bộ bài viết của [C:Elvish từ](../../category/E/Elvish_words.md):
         - Tên bài viết đúng: nhiều lần các bài viết được tạo ra mà không tính đến các quy tắc khoan dung (ví dụ: *aearon* thay vì *gaearon*).
         - Sự khác biệt giữa sớm/sau Elvish, đặc biệt Gnomish/Noldorin/Sindarin.
-        - Tài liệu tham khảo (tốt nhất là tài liệu chính, chẳng hạn như *The Silmarillion* phụ lục, không cần phải viết quá nhiều cho mỗi tác phẩm có từ đó xuất hiện).
+        - Tài liệu tham khảo (tốt nhất là chính, chẳng hạn như *The Silmarillion* phụ lục, không cần phải viết quá nhiều cho mỗi tác phẩm có từ đó xuất hiện).
         - Phần từ nguyên bao gồm gốc, nếu tồn tại.
         - Phần ví dụ không có tài liệu tham khảo nhưng có liên kết đến các bài viết khác.
         - Phần có cùng nguồn gốc, nếu có.
     - Tải lên hình ảnh [có chất lượng tốt hơn của Tengwar](../../category/I/Images_of_Tengwar.md)
 - Tóm tắt các cuốn sách không liên quan đến [huyền thoại](../../main/L/Legendarium.md):
-    - *[The Legend of Sigurd and Gudrún](../../main/T/The_Legend_of_Sigurd_and_Gudrún.md)*: mỗi bài thơ có bài viết riêng.
+    - *[The Legend of Sigurd and Gudrún](../../main/T/The_Legend_of_Sigurd_and_Gudrún.md)*: mỗi bài thơ cần có bài viết riêng.
     - *[The Fall of Arthur](../../main/T/The_Fall_of_Arthur.md)*: bài thơ cần có bản tóm tắt ở đâu đó.
     - *[Sir Gawain and the Green Knight, Pearl and Sir Orfeo](../../main/S/Sir_Gawain_and_the_Green_Knight,_Pearl_and_Sir_Orfeo.md)*: mỗi văn bản cần có bài viết riêng.
-    - "[Về truyện cổ tích](../../main/O/On_Fairy-Stories.md)" vẫn còn sơ khai.
+    - "[Về Truyện Cổ Tích](../../main/O/On_Fairy-Stories.md)" vẫn còn sơ khai.
 - Cập nhật và dọn sạch tất cả các chỉ mục ([Danh mục:Chỉ mục](../../category/I/Index.md))
     - Dọn dẹp [Chỉ mục:Bài viết theo năm](../../index/W/Writings_by_year.md) và có thể chuyển nó sang "Chỉ mục:Tolkien nghiên cứu các ấn phẩm theo năm" hoặc đại loại như thế.
 - Tuổi thọ của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
     - Bài viết gốc đầy đủ về cuộc đời ông, có tài liệu tham khảo!
     - [Oxford](../../main/O/Oxford.md)
-- Xóa tất cả các thẻ sơ khai được tích lũy bởi [Danh mục:The Lord of the Rings cảnh (loạt phim)](<../../category/T/The_Lord_of_the_Rings_(film_series)_scenes.md>)
+- Xóa tất cả các thẻ sơ khai được tích lũy bởi [Danh mục:The Lord of the Rings (film series) cảnh](<../../category/T/The_Lord_of_the_Rings_(film_series)_scenes.md>)
 - Lập danh sách chi tiết hơn về thư mục của TG.
 - Rất nhiều số tạp chí đang chờ được tạo (không chỉ những số gần đây nhất!):
     - *[Mallorn](<../../main/M/Mallorn_(journal).md>)*

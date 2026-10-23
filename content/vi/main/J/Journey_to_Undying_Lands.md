@@ -12,7 +12,7 @@ categories:
   - "Songs by Battlelore"
 ---
 
-<i><b>Journey to Vùng Đất Bất Tử</b></i> là một bài hát của ban nhạc epic metal [Battlelore](../B/Battlelore.md) về [Valinor](../V/Valinor.md). Nó xuất hiện trong album dài đầu tiên của họ, [...Where the Shadows Lie](../_/%252E..Where_the_Shadows_Lie.md), phát hành vào năm [2002](../_/2002.md).
+<i><b>Journey to Vùng Đất Bất Tử</b></i> là một bài hát của ban nhạc epic metal [Battlelore](../B/Battlelore.md) về [Valinor](../V/Valinor.md). It appears in their first full-lenght album, [...Where the Shadows Lie](../_/%252E..Where_the_Shadows_Lie.md), released in [2002](../_/2002.md).
 
 ## Lời bài hát {#Lyrics}
 

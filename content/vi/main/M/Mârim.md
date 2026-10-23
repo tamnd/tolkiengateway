@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "En-keladim"
 ---
 
-Chuyển hướng tới [En-keladim](../E/En-keladim.md).
+Chuyển hướng đến [En-keladim](../E/En-keladim.md).

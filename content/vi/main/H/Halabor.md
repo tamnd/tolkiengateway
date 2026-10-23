@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angbor (stone)"
 ---
 
-Chuyển hướng tới [Angbor (đá)](<../A/Angbor_(stone).md>).
+Chuyển hướng đến [Angbor (đá)](<../A/Angbor_(stone).md>).

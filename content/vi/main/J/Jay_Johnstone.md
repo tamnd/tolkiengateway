@@ -26,7 +26,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**Jay Johnstone** là một họa sĩ chuyên minh họa cho [huyền thoại](../L/Legendarium.md) của [J.R.R. Tolkien](J.R.R._Tolkien.md). Phong cách của ông được lấy cảm hứng từ <a class="extiw" href="http://en.wikipedia.org/wiki/icon" title="wikipedia:icon">biểu tượng</a>tôn giáo và thời trung cổ.
+**Jay Johnstone** là họa sĩ chuyên minh họa cho [huyền thoại](../L/Legendarium.md) của [J.R.R. Tolkien](J.R.R._Tolkien.md). Phong cách của ông được lấy cảm hứng từ <a class="extiw" href="http://en.wikipedia.org/wiki/icon" title="wikipedia:icon">biểu tượng</a>tôn giáo và thời trung cổ.
 
 ## Tác phẩm đã xuất bản {#Published_artwork}
 

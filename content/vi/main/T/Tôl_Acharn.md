@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tûl Acharn"
 ---
 
-Chuyển hướng tới [Tûl Acharn](Tûl_Acharn.md).
+Chuyển hướng đến [Tûl Acharn](Tûl_Acharn.md).

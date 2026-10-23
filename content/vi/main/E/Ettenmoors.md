@@ -58,21 +58,21 @@ Ettenmoors còn được gọi là **troll-fells**,<sup id="cite_ref-Flight_3-1"
 
 Vương quốc [Rhudaur](../R/Rhudaur.md) nằm giữa Ettenmoors ở phía bắc và vùng [Angle](../A/Angle.md), nằm giữa hai con sông [Hoarwell](../H/Hoarwell.md) và [Loudwater](../B/Bruinen.md), ở phía nam.<sup id="cite_ref-Eriador_6-0" class="reference"><a href="#cite_note-Eriador-6">[6]</a></sup> Có giả thuyết cho rằng [Mount Gram](../M/Mount_Gram.md), nơi một đạo quân [Orc](../O/Orcs.md) [tấn công](../B/Battle_of_Greenfields.md) [the Shire](../T/The_Shire.md), nằm trong Ettenmoors.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-## History {#History}
+## Lịch sử {#History}
 
-Since the [Elder Days](Elder_Days.md), [Trolls](../T/Trolls.md) concentrated especially around the Ettenmoors, and they increased during the rule of [Angmar](../A/Angmar.md), that was founded in the north.<sup id="cite_ref-NM_4-1" class="reference"><a href="#cite_note-NM-4">[4]</a></sup>
+Kể từ [Ngày của Người cao tuổi](Elder_Days.md), [Troll](../T/Trolls.md) tập trung đặc biệt xung quanh Ettenmoors và chúng gia tăng dưới thời cai trị của [Angmar](../A/Angmar.md), được thành lập ở phía bắc.<sup id="cite_ref-NM_4-1" class="reference"><a href="#cite_note-NM-4">[4]</a></sup>
 
-In [S.A.](../S/Second_Age.md) [3320](../S/Second_Age_3320.md) when the realm of Arnor was founded by the [Dúnedain](../D/Dúnedain.md),<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> the Ettenmoors probably became part of Arnor.
+Vào [S.A.](../S/Second_Age.md) [3320](../S/Second_Age_3320.md) khi vương quốc Arnor được thành lập bởi [Dúnedain](../D/Dúnedain.md),<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Ettenmoors có lẽ đã trở thành một phần của Arnor.
 
-When the kingdom of [Arnor](../A/Arnor.md) split into three successor kingdoms after the death of King [Eärendur](<Eärendur_(King_of_Arnor).md>) in [T.A.](../T/Third_Age.md) [861](../T/Third_Age_861.md),<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> the Ettenmoors probably became a part of the kingdom of Rhudaur.<sup id="cite_ref-Eriador_6-1" class="reference"><a href="#cite_note-Eriador-6">[6]</a></sup>
+Khi vương quốc [Arnor](../A/Arnor.md) chia thành ba vương quốc kế thừa sau cái chết của Vua [Eärendur](<Eärendur_(King_of_Arnor).md>) vào [T.A.](../T/Third_Age.md) [861](../T/Third_Age_861.md),<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Ettenmoors có lẽ đã trở thành một phần của vương quốc Rhudaur.<sup id="cite_ref-Eriador_6-1" class="reference"><a href="#cite_note-Eriador-6">[6]</a></sup>
 
-In [T.A.](../T/Third_Age.md) [1975](../T/Third_Age_1975.md) after his defeat in the [Battle of Fornost](../B/Battle_of_Fornost.md)<sup id="cite_ref-TA1975_10-0" class="reference"><a href="#cite_note-TA1975-10">[10]</a></sup> the [Witch-king](../W/Witch-king.md) of [Angmar](../A/Angmar.md) fled with the remains of his troops to the north to reach his realm of Angmar and the shelter of [Carn Dûm](../C/Carn_Dûm.md),<sup id="cite_ref-Gondor_11-0" class="reference"><a href="#cite_note-Gondor-11">[11]</a></sup> but was pursued to the Ettenmoors<sup id="cite_ref-TA1975_10-1" class="reference"><a href="#cite_note-TA1975-10">[10]</a></sup> where he was overtaken by the cavalry of [Gondor](../G/Gondor.md) and a force from Rivendell led by Glorfindel.<sup id="cite_ref-Gondor_11-1" class="reference"><a href="#cite_note-Gondor-11">[11]</a></sup> After the fall of Angmar, the Trolls retreated to the east of the [Misty Mountains](../M/Misty_Mountains.md) but returned in the 28th century and even expanded westwards as far as the [North Downs](../N/North_Downs.md).<sup id="cite_ref-NM_4-2" class="reference"><a href="#cite_note-NM-4">[4]</a></sup>
+Trong [T.A.](../T/Third_Age.md) [1975](../T/Third_Age_1975.md) sau thất bại ở [Trận Fornost](../B/Battle_of_Fornost.md)<sup id="cite_ref-TA1975_10-0" class="reference"><a href="#cite_note-TA1975-10">[10]</a></sup> [Vua Phù thủy](../W/Witch-king.md) của [Angmar](../A/Angmar.md) chạy trốn cùng với tàn quân của mình về phía bắc để đến vương quốc Angmar và nơi trú ẩn [Carn Dûm](../C/Carn_Dûm.md),<sup id="cite_ref-Gondor_11-0" class="reference"><a href="#cite_note-Gondor-11">[11]</a></sup> nhưng bị truy đuổi đến Ettenmoors<sup id="cite_ref-TA1975_10-1" class="reference"><a href="#cite_note-TA1975-10">[10]</a></sup> nơi anh ta bị kỵ binh của [Gondor](../G/Gondor.md) và một lực lượng từ đó truy đuổi Rivendell do Glorfindel lãnh đạo.<sup id="cite_ref-Gondor_11-1" class="reference"><a href="#cite_note-Gondor-11">[11]</a></sup> Sau khi Angmar thất thủ, Troll rút lui về phía đông của [Dãy Núi Sương Mù](../M/Misty_Mountains.md) nhưng đã quay trở lại vào thế kỷ 28 và thậm chí còn mở rộng về phía tây đến tận [North Downs](../N/North_Downs.md).<sup id="cite_ref-NM_4-2" class="reference"><a href="#cite_note-NM-4">[4]</a></sup>
 
-It is possible that [Chieftain](../C/Chieftains_of_the_Dúnedain.md) [Arador](../A/Arador.md) was slain by trolls in this area<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> in [2930](../T/Third_Age_2930.md).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+Có thể [Thủ lĩnh](../C/Chieftains_of_the_Dúnedain.md) [Arador](../A/Arador.md) đã bị lũ troll giết chết ở khu vực này<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> ở [2930](../T/Third_Age_2930.md).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
-Around [November](../N/November.md) or [December](../D/December.md)<sup id="cite_ref-South_14-0" class="reference"><a href="#cite_note-South-14">[14]</a></sup> [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md),<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> scouts from [Rivendell](../R/Rivendell.md) investigated the Ettenmoors for any activities concerning [Ringwraiths](../N/Nazgûl.md) or other servants of [Sauron](../S/Sauron.md), but they came with no warning news.<sup id="cite_ref-South_14-1" class="reference"><a href="#cite_note-South-14">[14]</a></sup>
+Khoảng [Tháng 11](../N/November.md) hoặc [Tháng 12](../D/December.md)<sup id="cite_ref-South_14-0" class="reference"><a href="#cite_note-South-14">[14]</a></sup> [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md),<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> các trinh sát từ [Rivendell](../R/Rivendell.md) đã điều tra Ettenmoors về bất kỳ hoạt động nào liên quan đến [Nazgûl](../N/Nazgûl.md) hoặc những người hầu khác của [Sauron](../S/Sauron.md), nhưng họ không đưa ra tin tức cảnh báo nào.<sup id="cite_ref-South_14-1" class="reference"><a href="#cite_note-South-14">[14]</a></sup>
 
-In October [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md) [Gandalf](../G/Gandalf.md) after his battle with the Ringwraiths at [Weathertop](../W/Weathertop.md) [Gandalf](../G/Gandalf.md) fled riding on [Shadowfax](../S/Shadowfax.md) to the north in the hope of drawing off some of the Ringwraiths. He had to send Shadowfax away in the Ettenmoors, because he was not able to ride among the rocks there.<sup id="cite_ref-Council_16-0" class="reference"><a href="#cite_note-Council-16">[16]</a></sup>
+Vào tháng 10 [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md) [Gandalf](../G/Gandalf.md) sau trận chiến với Nazgûl tại [Weathertop](../W/Weathertop.md) [Gandalf](../G/Gandalf.md) đã bỏ trốn trên [Shadowfax](../S/Shadowfax.md) về phía bắc với hy vọng tiêu diệt được một số Nazgûl. Anh ta phải gửi Shadowfax đi trong Ettenmoors, vì anh ta không thể cưỡi ngựa giữa những tảng đá ở đó.<sup id="cite_ref-Council_16-0" class="reference"><a href="#cite_note-Council-16">[16]</a></sup>
 
 ## Từ nguyên học {#Etymology}
 
@@ -131,11 +131,11 @@ Tên gọi *Ettenmoors* tương tự như vùng đất <a class="external text" 
 
 <dl><dd>A <a class="external text" href="https://www.ccgtrader.net/card/5976/ettenmoors" rel="noreferrer noopener" target="_blank">card</a> from <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i> identifies one of locations in which <a href="../A/Arwen.md" title="Arwen">Arwen</a> evaded the <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> as the Ettenmoors.</dd></dl>
 
-<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Roleplaying Game</a></i>:</b>
+<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a></i>:</b>
 
 <dl><dd>The Ettenmoors are the homeland of the <i><a href="Etten.md" title="Etten">Ettens</a></i> who resemble <a href="../H/Hill-trolls.md" title="Hill-trolls">Hill-trolls</a>, but they possess &#34;not one but two long heads&#34;.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Ettenmoors is the region where Player vs Monster Player play takes place, pitting the &#34;Army of <a href="../A/Angmar.md" title="Angmar">Angmar</a>&#34; against the &#34;Coldfells Army&#34; of the <a class="mw-redirect" href="../F/Free_Peoples.md" title="Free Peoples">Free Peoples</a>. The two factions each have a home base which cannot be entered by the opposing side and a secondary base which can be assailed but not captured. Between them are five major control points: the keeps of &#34;Lugazag&#34;, &#34;Tirith Rhaw&#34;, and &#34;Tol Ascarnen&#34;, the &#34;Isendeep Mine&#34;, and &#34;Grimwood Lumber Camp&#34;; as well as several smaller outposts, all of which can be captured by either side.</dd></dl>
 
@@ -143,7 +143,7 @@ Tên gọi *Ettenmoors* tương tự như vùng đất <a class="external text" 
 
 ## Xem thêm {#See_also}
 
-- [Coldfells](../C/Coldfells.md)
+- [Coldfell](../C/Coldfells.md)
 
 <span></span>
 

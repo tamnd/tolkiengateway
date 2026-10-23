@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Đã chụp trong [2005](../../main/_/2005.md).
+Được chụp trong [2005](../../main/_/2005.md).
 
 ## Giấy phép {#Licensing}
 

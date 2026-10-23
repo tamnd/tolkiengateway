@@ -75,7 +75,7 @@ infobox:
 - Tác phẩm nghệ thuật: "Azog<i></i>
     - Bởi: Vince Price
 - Hãy mỉm cười
-- Truyện dân gian
+- Truyện dân ca
 - Thư
 - Góc của Jessica
     - Bởi: Jessica Yates

@@ -223,7 +223,7 @@ infobox:
 
 Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amazon đi kèm với tập phim.
 
-- Cảnh 2 - "Hầu hết các chi tiết và chi tiết được nêu ở đây đều bắt nguồn từ '[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)', phần mở đầu có tựa đề '[Liên quan đến Hobbit](../C/Concerning_Hobbits.md)' và [Phụ lục](../A/Appendices.md), [A](../A/Appendix_A.md) đến [F](../A/Appendix_F.md), nơi người du hành dũng cảm có thể hành trình khám phá những chân trời xa hơn nữa."
+- Cảnh 2 - "Hầu hết các chi tiết và công phu được nêu ở đây đều bắt nguồn từ '[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)', đoạn mở đầu có tựa đề '[Liên quan đến Hobbit](../C/Concerning_Hobbits.md)' và [Phụ lục](../A/Appendices.md), [A](../A/Appendix_A.md) đến [F](../A/Appendix_F.md), nơi người du hành dũng cảm có thể hành trình để khám phá những chân trời xa hơn nữa."
 
 ## Sản xuất {#Production}
 

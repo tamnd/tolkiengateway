@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Harry C. Bauer"
 ---
 
-Chuyển hướng tới [Thư gửi Harry C. Bauer](../L/Letter_to_Harry_C._Bauer.md).
+Chuyển hướng đến [Thư gửi Harry C. Bauer](../L/Letter_to_Harry_C._Bauer.md).

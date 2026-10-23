@@ -122,7 +122,7 @@ Trong bài hát *[In the Willow-meads of Tasarinan](../I/In_the_Willow-meads_of_
 
 ## Khắc họa trong các bản chuyển thể {#Portrayal_in_adaptations}
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Fangorn Forest is realized in the game not as a single region, but as a series of consecutive areas in five different game regions. From north-east to south-west they are: Limlight Gorge south of the river <a href="../L/Limlight.md" title="Limlight">Limlight</a> in the &#34;<a href="../A/Anduin.md" title="Anduin">Great River</a>&#34; region, Balewood in the &#34;Wildermore&#34; region, Eaves of Fangorn in the &#34;<a href="../E/Eastemnet.md" title="Eastemnet">East Rohan</a>&#34; region, Entwood in the &#34;<a href="../W/Westemnet.md" title="Westemnet">West Rohan</a>&#34; region, and Fangorn&#39;s Edge in <a href="../N/Nan_Curunír.md" title="Nan Curunír">Nan Curunír</a> (which is part of the <a href="../D/Dunland.md" title="Dunland">Dunland</a> region). Some of these areas are connected to one another but feature significant jumps in the level range of the enemies. When following the natural progression of the main story, the player will end up visiting each of these areas at different times and not in the order described.</dd></dl>
 

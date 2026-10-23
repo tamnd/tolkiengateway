@@ -42,7 +42,7 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Hai trong số những tòa tháp đáng sợ nhất ở Trung Địa, Răng của Mordor bảo vệ lối vào Mordor, vùng đất của Sauron. Những pháo đài được Gondor dựng lên nhằm ngăn chặn những sinh vật tà ác quay trở lại Vùng Đất Đen. Sau Đại Dịch, nó đã được tái lập bởi chính Orc và Troll mà nó được thiết kế để cấm.
+Hai trong số những tòa tháp đáng sợ nhất trong Trung Địa, Răng của Mordor bảo vệ lối vào Mordor, vùng đất của Sauron. Những pháo đài được Gondor dựng lên nhằm ngăn chặn những sinh vật tà ác quay trở lại Vùng Đất Đen. Sau Đại Dịch, nó đã được tái tạo lại bởi chính Orc và Troll mà nó được thiết kế để cấm.
 
 Cao gần 200 feet, Răng được gọi riêng là Carchost (s. "Fang-fort") và Narchost (s. "Fire-fort"). Những tòa tháp này và thành lũy nối liền của chúng tạo ra khoảng cách giữa Dãy Núi của Ash và Dãy Núi Bóng Tối. Được đục bằng xỉ mịn và trong như thủy tinh, chúng phun trào từ vùng đồng bằng bị tra tấn giống như những chiếc hàm khổng lồ bằng gỗ mun sẵn sàng áp sát kẻ xâm nhập ngu ngốc.
 

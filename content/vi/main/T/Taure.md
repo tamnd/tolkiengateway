@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Taurë"
 ---
 
-Chuyển hướng đến [Taurë](Taurë.md).
+Chuyển hướng tới [Taurë](Taurë.md).

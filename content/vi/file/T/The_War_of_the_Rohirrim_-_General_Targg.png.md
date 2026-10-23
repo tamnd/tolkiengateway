@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Tướng Targg từ *The Lord of the Rings: Cuộc chiến Rohirrim*
+Tướng Targg từ *The Lord of the Rings: The War of the Rohirrim*
 
 ## Giấy phép {#Licensing}
 

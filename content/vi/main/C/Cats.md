@@ -76,7 +76,7 @@ Khi những cuộc phiêu lưu của Rover kết thúc, Tinker không tin bất 
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Cats are found throughout Middle-earth, especially in Bree-land. There is a &#34;cat lady&#34; who has a house full of cats. Lore-masters can also have a non-combat cat pet.</dd></dl>
 

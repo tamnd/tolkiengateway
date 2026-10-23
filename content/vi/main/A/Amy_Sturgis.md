@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amy H. Sturgis"
 ---
 
-Chuyển hướng tới [Amy H. Sturgis](Amy_H._Sturgis.md).
+Chuyển hướng đến [Amy H. Sturgis](Amy_H._Sturgis.md).

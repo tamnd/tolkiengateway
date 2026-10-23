@@ -52,7 +52,7 @@ infobox:
 - Mende, Lisa Anne. “Gondolin, Minas Tirith và thảm họa Eucata.”
 - Warren, Colleen. “Wentworth trong khu vườn Gomorrah: Một nghiên cứu về Anima khi xuống địa ngục.”
 - Rawls, Melanie. “Herland và Out of the Silent Planet: So sánh giữa một điều không tưởng về nữ quyền và một điều tưởng tượng về nhân vật nam.”
-- Christopher, Joe R. “Artorius của John Heath-Stubbs và ảnh hưởng của Charles Williams (Phần 1).”
+- Christopher, Joe R. “John Artorius của Heath-Stubbs và ảnh hưởng của Charles Williams (Phần 1).”
 
 #### Thơ {#Poetry}
 

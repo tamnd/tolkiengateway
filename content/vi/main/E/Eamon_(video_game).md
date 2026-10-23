@@ -21,18 +21,18 @@ Những cuộc phiêu lưu *Eamon* sau đây lấy bối cảnh ở Trung Địa
 
 Bởi [Sam Ruby](../S/Sam_Ruby.md):
 
-- <i><b><a href="../T/The_Mines_of_Moria_(video_game).md" title="The Mines of Moria (video game)">Mỏ Moria</a></b></i>, tháng 8 [1985](../_/1985.md)
+- <i><b><a href="../T/The_Mines_of_Moria_(video_game).md" title="The Mines of Moria (video game)">Ngày Mỏ Moria</a></b></i>, tháng 8 [1985](../_/1985.md)
 - <i><b><a href="../T/The_Forest_of_Fear.md" title="The Forest of Fear">Khu rừng sợ hãi</a></b></i>, tháng 8 [1985](../_/1985.md)
 - <i><b><a href="../T/The_Iron_Prison.md" title="The Iron Prison">Nhà tù sắt</a></b></i>, tháng 6 [1986](../_/1986.md)
 - <i><b><a href="../T/The_Ring_of_Doom_(video_game).md" title="The Ring of Doom (video game)">Ngày Vòng Phán xét</a></b></i>, tháng 6 [1986](../_/1986.md)
 - <i><b><a href="../H/Haradwaith_(video_game).md" title="Haradwaith (video game)">Haradwaith</a></b></i>, tháng 1 [1987](../_/1987.md)
-- <i><b><a href="../T/The_Hunt_for_the_Ring_(video_game).md" title="The Hunt for the Ring (video game)">Cuộc săn lùng chiếc nhẫn</a></b></i>, tháng 1 [1987](../_/1987.md)
+- <i><b><a href="../T/The_Hunt_for_the_Ring_(video_game).md" title="The Hunt for the Ring (video game)">Cuộc săn lùng Nhẫn</a></b></i>, tháng 1 [1987](../_/1987.md)
 - <i><b><a href="../R/Return_to_Moria.md" title="Return to Moria">Trở về Moria</a></b></i>, tháng 1 [1987](../_/1987.md)
 - <i><b><a href="../Q/Quest_of_Erebor_(video_game).md" title="Quest of Erebor (video game)">Nhiệm vụ của Erebor</a></b></i>, tháng 1 [1987](../_/1987.md)
 
 Bởi [Tom Zuchowski](../T/Tom_Zuchowski.md):
 
-- <i><b><a href="../T/Thror&#39;s_Ring.md" title="Thror&#39;s Ring">Chiếc nhẫn của Thror</a></b></i>, tháng 10 [1985](../_/1985.md)
+- <i><b><a href="../T/Thror&#39;s_Ring.md" title="Thror&#39;s Ring">Thror's Nhẫn</a></b></i>, tháng 10 [1985](../_/1985.md)
 - <i><b><a href="../A/Assault_on_Dolni_Keep.md" title="Assault on Dolni Keep">Tấn công Dolni Keep</a></b></i>, Tháng 1 [1987](../_/1987.md)
 
 Bởi [Nathan Segerlind](../N/Nathan_Segerlind.md):

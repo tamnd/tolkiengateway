@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Trước đó \**thanya* từ [PQ](../P/PQ.md) \**stanjâ*, [Root](Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=STAN&amp;action=edit&amp;redlink=1" title="STAN (page does not exist)">STAN</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trước đó \**thanya* từ [PQ](../P/PQ.md) \**stanjâ*, [Gốc](Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=STAN&amp;action=edit&amp;redlink=1" title="STAN (page does not exist)">STAN</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

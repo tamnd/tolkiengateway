@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*[Legolas](../../main/L/Legolas.md)* của [Anna Lee](../../main/A/Anna_Lee.md).
+*[Legolas](../../main/L/Legolas.md)* bởi [Anna Lee](../../main/A/Anna_Lee.md).
 
 ## Giấy phép {#Licensing}
 

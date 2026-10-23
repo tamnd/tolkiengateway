@@ -64,7 +64,7 @@ infobox:
     - Bởi: Jessica Yates
 - Thư
 - Hãy mỉm cười
-- Truyện dân gian
+- Truyện dân ca
 - Các loại của Anne
     - Bởi: Anne Haward
 - Máy ép nhỏ

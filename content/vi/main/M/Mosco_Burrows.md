@@ -46,7 +46,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Mosco là con cả của [Milo](Milo_Burrows.md) và [Peony Burrows](../P/Peony_Baggins.md). Anh ấy đã có mặt tại [Bữa tiệc sinh nhật](../B/Bilbo's_Farewell_Party.md) nổi tiếng của Bilbo khi mới mười bốn tuổi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Mosco là con cả của [Milo](Milo_Burrows.md) và [Peony Burrows](../P/Peony_Baggins.md). Anh ấy đã có mặt tại Bilbo [Bữa tiệc sinh nhật](../B/Bilbo's_Farewell_Party.md) nổi tiếng khi mới mười bốn tuổi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

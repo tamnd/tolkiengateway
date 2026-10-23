@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đồng ý với Marjorie về mong muốn và sự cần thiết của việc thỉnh thoảng thoát khỏi "cuộc sống cộng đồng". Trường đại học của anh đã đối xử với anh bằng lòng tốt và sự hào phóng, đáp ứng mọi nhu cầu của anh. Họ đã phong anh ta làm Thành viên danh dự nội trú (anh ta nói, anh ta được coi là "trang trí"). Phòng sinh hoạt chung có số lượng gấp ba lần so với khi anh còn là Hội viên tích cực, tiêu chuẩn của họ đã tăng lên rất nhiều và họ đều là những người bạn đồng hành rất tốt.
+Tolkien đồng ý với Marjorie về mong muốn và sự cần thiết của việc thỉnh thoảng thoát khỏi "cuộc sống cộng đồng". Trường đại học của anh đã đối xử với anh bằng lòng tốt và sự hào phóng, đáp ứng mọi nhu cầu của anh. Họ đã phong anh ta làm Thành viên Danh dự khu dân cư (anh ta nói, anh ta được coi là "trang trí"). Phòng sinh hoạt chung có số lượng gấp ba lần so với khi anh còn là Hội viên tích cực, tiêu chuẩn của họ đã tăng lên rất nhiều và họ đều là những người bạn đồng hành rất tốt.
 
 Tuy nhiên Tolkien thường cô đơn và khao khát một sự thay đổi. Sau kỳ học, anh ấy ở một mình trong một ngôi nhà lớn; chỉ có người chăm sóc và vợ anh ta ở dưới tầng hầm. Gặp rắc rối bởi những kẻ xâm nhập và những kẻ bất chính, anh sống sau những cánh cửa khóa kín.
 

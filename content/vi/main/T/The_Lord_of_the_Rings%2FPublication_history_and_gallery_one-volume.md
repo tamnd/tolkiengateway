@@ -132,9 +132,9 @@ Dưới đây là *major* ấn bản một tập **tại Vương quốc Anh** c�
     - Ấn bản bìa mềm năm 1968, ấn bản thứ 11 ([1972](../_/1972.md))
     - Ấn bản bìa mềm năm 1968, ấn bản thứ 12 ([1973](../_/1973.md))
 - [1969](../_/1969.md): [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md), bìa cứng đựng trong hộp/hộp, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/004823091X">ISBN 004823091X</a> - (ấn bản giấy sang trọng ở Ấn Độ)
-- [1978](../_/1978.md): [Bỏ sách bìa mềm](../U/Unwin_Paperbacks.md), bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231495">ISBN 0048231495</a> - (ấn bản 1 tập thứ hai)
+- [1978](../_/1978.md): [Unwin Paperbacks](../U/Unwin_Paperbacks.md), bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231495">ISBN 0048231495</a> - (ấn bản 1 tập thứ hai)
     - Ấn bản bìa mềm năm 1978, ấn bản đính kèm [phim 1978](<The_Lord_of_the_Rings_(1978_film).md>) - (bìa phim)
-- [1983](../_/1983.md): Unicorn / Unwin Bìa mềm, bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232297">ISBN 0048232297</a> - (ấn bản 1 tập thứ ba, ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
+- [1983](../_/1983.md): Unicorn / Unwin Paperbacks, bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232297">ISBN 0048232297</a> - (ấn bản 1 tập thứ ba, ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
     - Ấn bản bìa mềm năm 1983, ấn bản thứ 8 ([1987](../_/1987.md))
     - Ấn bản bìa mềm năm 1983, lần in thứ 12 ([1989](../_/1989.md))
 - [1988](../_/1988.md): [Giải phóng Hyman](../U/Unwin_Hyman.md), bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0044403054">ISBN 0044403054</a>

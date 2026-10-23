@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Chi tiết về "[Bên trong dãy túi đựng trà số 3](Miriam_Ellis_-_Inside_Number_3_Bagshot_Row_for_Tea.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), mô tả [Daisy Gamgee](../../main/D/Daisy_Gamgee.md)
+Chi tiết "[Inside Number 3 Bagshot Row for Tea](Miriam_Ellis_-_Inside_Number_3_Bagshot_Row_for_Tea.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), miêu tả [Daisy Gamgee](../../main/D/Daisy_Gamgee.md)
 
 ## Giấy phép {#Licensing}
 

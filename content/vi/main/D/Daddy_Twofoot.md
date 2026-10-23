@@ -50,7 +50,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Daddy Twofoot sống trong một cái hố ở [Bagshot Row](../B/Bagshot_Row.md) ở [Hobbiton](../H/Hobbiton.md), ngay cạnh [Hamfast Gamgee](../G/Gaffer_Gamgee.md) và gia đình anh ta. Anh ấy là khách thường xuyên của [Ivy Bush Inn](../I/Ivy_Bush.md), nơi anh ấy có mặt vào một buổi tối đặc biệt ở [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md), khi Hamfast Gamgee chiêu đãi những khách hàng quen của mình bằng kiến ​​thức về [Bag End](../B/Bag_End.md) và "[Mad Baggins](../B/Bilbo_Baggins.md)". Trong cuộc trò chuyện, bố tán thành thái độ khinh thường của [Old Noakes](../O/Old_Noakes.md)đối với [Người vùng Bucklander](../B/Bucklanders.md), coi họ là những người xa lạ kỳ dị.<sup id="cite_ref-ALEP_1-1" class="reference"><a href="#cite_note-ALEP-1">[1]</a></sup>
+Daddy Twofoot sống trong một cái hố ở [Bagshot Row](../B/Bagshot_Row.md) ở [Hobbiton](../H/Hobbiton.md), ngay cạnh [Hamfast Gamgee](../G/Gaffer_Gamgee.md) và gia đình anh ta. Anh ấy là khách thường xuyên của [Ivy Bush Inn](../I/Ivy_Bush.md), nơi anh ấy có mặt vào một buổi tối đặc biệt ở [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md), khi Hamfast Gamgee chiêu đãi những khách hàng quen của mình bằng kiến ​​thức về [Bag End](../B/Bag_End.md) và "[Mad Baggins](../B/Bilbo_Baggins.md)". Trong cuộc trò chuyện, bố tán thành thái độ khinh thường của [Old Noakes](../O/Old_Noakes.md)đối với [Người vùng Bucklander](../B/Bucklanders.md), coi họ là những người xa lạ kỳ lạ.<sup id="cite_ref-ALEP_1-1" class="reference"><a href="#cite_note-ALEP-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

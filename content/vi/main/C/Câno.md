@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cāno"
 ---
 
-Chuyển hướng đến [Cāno](Cāno.md).
+Chuyển hướng tới [Cāno](Cāno.md).

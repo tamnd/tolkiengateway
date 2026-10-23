@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Snaga (disambiguation)"
 ---
 
-Chuyển hướng tới [Snaga (định hướng)](<Snaga_(disambiguation).md>).
+Chuyển hướng đến [Snaga (định hướng)](<Snaga_(disambiguation).md>).

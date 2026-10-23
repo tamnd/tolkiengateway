@@ -19,7 +19,7 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-- [Gốc](../S/Sundocarme.md) USU<sup id="cite_ref-LT1_1-1" class="reference"><a href="#cite_note-LT1-1">[1]</a></sup>
+- [Gốc](../S/Sundocarme.md)USU<sup id="cite_ref-LT1_1-1" class="reference"><a href="#cite_note-LT1-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

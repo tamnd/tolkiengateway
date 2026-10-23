@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tári"
 ---
 
-Chuyển hướng tới [Tári](Tári.md).
+Chuyển hướng đến [Tári](Tári.md).

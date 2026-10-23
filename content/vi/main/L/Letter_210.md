@@ -53,7 +53,7 @@ Tolkien cũng đề cập đến dòng thời gian của bộ phim: nó được
 
 - Trang 11. [Weathertop](../W/Weathertop.md). Aragorn, thay vì [Sam](../S/Samwise_Gamgee.md), đã hát *[the Fall of Gil-galad](../T/The_Fall_of_Gil-galad.md)*, điều này hoàn toàn không phù hợp. Kỵ sĩ Đen hét lên trong kịch bản của Z, nhưng Tolkien nói rằng họ giữ một sự im lặng đáng sợ hơn. Sam cắm thanh kiếm của mình vào đùi của Wraith, nhưng nó không vỡ vụn như [Merry](../M/Meriadoc_Brandybuck.md)sau này. Toàn bộ khung cảnh đã được viết lại và nó không làm Tolkien hài lòng chút nào.
 
-- Trang 15. Chiếc Nhẫn Đi Về Phía Nam. Z một lần nữa thể hiện sự hiểu lầm hoàn toàn của mình về câu chuyện khi để Đại Bàng làm taxi.
+- Trang 15. Nhẫn Tiến về phía Nam. Z một lần nữa thể hiện sự hiểu lầm hoàn toàn của mình về câu chuyện khi để Đại Bàng làm taxi.
 
 - Trang 19. [Orc](../O/Orcs.md). Orc có mỏ và lông vũ, theo Z. Not cũng như Tolkien, người đã mô tả chúng có hình dạng giống con người.
 

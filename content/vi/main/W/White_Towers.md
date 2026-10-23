@@ -59,7 +59,7 @@ Theo [Danh mục chưa hoàn thành](../U/Unfinished_index.md) của J.R.R. Tolk
 		</li>
 </ul>
 
-<b>1988: Cuộc chiến của <i><a href="../J/J.R.R._Tolkien&#39;s_War_in_Middle_Earth.md" title="J.R.R. Tolkien&#39;s War in Middle Earth">J.R.R. Tolkien ở Trung Địa</a></i>:</b>
+<b>1988: <i><a href="../J/J.R.R._Tolkien&#39;s_War_in_Middle_Earth.md" title="J.R.R. Tolkien&#39;s War in Middle Earth">J.R.R. Tolkien của Chiến tranh ở Trung Địa</a></i>:</b>
 
 <dl><dd>The White Towers can be seen at the background of the Towers Hills map.</dd></dl>
 

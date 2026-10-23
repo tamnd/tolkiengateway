@@ -46,7 +46,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Belen được sinh ra sau [Baran](Baran.md)ba năm, người thừa kế chức chủ gia đình từ cha mình. Đối với Belen, con trai thứ hai của ông, Bëor Người Cũ chủ yếu truyền lại trí tuệ và truyền thuyết của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Belen là cha của [Beldir](Beldir.md), và là tổ tiên của [Beren Erchamion](Beren.md).<sup id="cite_ref-WJBeor_2-0" class="reference"><a href="#cite_note-WJBeor-2">[2]</a></sup>
+Belen sinh sau [Baran](Baran.md)ba năm, người thừa kế chức chủ gia đình từ cha mình. Đối với Belen, con trai thứ hai của ông, Bëor Người Cũ chủ yếu truyền lại trí tuệ và truyền thuyết của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Belen là cha của [Beldir](Beldir.md), và là tổ tiên của [Beren Erchamion](Beren.md).<sup id="cite_ref-WJBeor_2-0" class="reference"><a href="#cite_note-WJBeor-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -65,7 +65,7 @@ Belen được sinh ra sau [Baran](Baran.md)ba năm, người thừa kế chức
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phần giới thiệu *[The Grey Annals](../T/The_Grey_Annals.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) nói rằng chúng được viết vào những năm 1930.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tác phẩm này bị gác lại trong khi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết *The Lord of the Rings*, sau đó ông quay lại với công việc của mình vào những ngày trước. Trong các bài viết sau này của ông, Tolkien đã xác định lại sự xuất hiện của [Edain](../E/Edain.md) so với [Dãy Núi Xanh](Blue_Mountains.md) gần một thế kỷ trước đó, điều này dẫn đến một cuộc cải tổ quy mô lớn về niên đại và phả hệ.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong phần giới thiệu *[The Grey Annals](../T/The_Grey_Annals.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) nói rằng chúng được viết vào những năm 1930.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tác phẩm này bị gác lại trong khi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết *The Lord of the Rings*, sau đó ông quay lại với công việc của mình vào những ngày trước. Trong các bài viết sau này của ông, Tolkien đã xác định lại sự xuất hiện của [Edain](../E/Edain.md) so với [Dãy Núi Xanh](Blue_Mountains.md) gần một thế kỷ trước đó, điều này đã tạo ra một cuộc đại tu quy mô lớn về niên đại và phả hệ.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Ở *Grey Annals* Bëor lớn hơn, tiếp theo là các con trai của ông [Bregolas](Bregolas.md) và [Barahir](Barahir.md). Trong phiên bản mới, bốn thế hệ được chèn vào giữa Bëor và anh em Bregolas và Barahir. Cùng với thay đổi này, *Belen* đã được thêm làm tổ tiên của Beren.<sup id="cite_ref-WJBeor_2-1" class="reference"><a href="#cite_note-WJBeor-2">[2]</a></sup>
 

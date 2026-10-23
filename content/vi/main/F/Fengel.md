@@ -70,7 +70,7 @@ Fengel là con trai thứ ba và duy nhất còn sống của [Folcwine](Folcwin
 
 Hai anh trai của Fengel, [Folcred](Folcred.md) và [Fastred](<Fastred_(son_of_Folcwine).md>), đã bị giết trong thái ấp [South Gondor](../S/South_Gondor.md) khi chiến đấu vì [Gondor](../G/Gondor.md), và kết quả là Fengel lớn lên khá hư hỏng. Khi trưởng thành, anh ta nổi tiếng vì lòng tham và tình yêu vàng.
 
-Con trai ông [Thengel](../T/Thengel.md) bỏ đi Rohan vì bất đồng với cha, thay vào đó sống với gia đình [vợ](../M/Morwen_Steelsheen.md) ở [Gondor](../G/Gondor.md).
+Con trai ông [Thengel](../T/Thengel.md) bỏ đi Rohan vì bất đồng với bố, thay vào đó sống với gia đình [vợ](../M/Morwen_Steelsheen.md) ở [Gondor](../G/Gondor.md).
 
 Sau hơn 50 năm cai trị, Fengel qua đời vào năm [T.A.](../T/Third_Age.md) [2953](../T/Third_Age_2953.md), và Thengel miễn cưỡng quay trở lại Rohan.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
@@ -94,14 +94,14 @@ Sau hơn 50 năm cai trị, Fengel qua đời vào năm [T.A.](../T/Third_Age.md
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>In the last winter of his reign, King Fengel was hunting north of the <a href="../E/Entwade.md" title="Entwade">Entwade</a> when an elderly woman named Wyrgende stumbled into his camp. Fengel sent her away into the dark night and the next day she was found frozen to death at the foot of a tall boulder, in which she had carved a curse against him. King Fengel was furious and ordered Wyrgende&#39;s body burned and the stone destroyed, but no man of his company could more her, and every hammer and mattock they set to the stone shattered on contact. Fengel himself assailed the stone with his sword until the blade shattered, and a shard pierced his thigh. The wound festered, and King Fengel died of poisoned blood on the first day of Spring.</dd></dl>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Dưới thời Fengel ở <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a> có ghi: "Thengel, đứa con thứ ba và là con trai duy nhất của ông, đã rời đi Rohan khi trưởng thành và sống lâu ở Gondor, đồng thời giành được vinh dự khi phục vụ Turgon."</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Dưới thời Fengel ở <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a> có ghi: "Thengel, đứa con thứ ba và con trai duy nhất của ông, đã rời đi Rohan khi đến tuổi trưởng thành và sống lâu dài ở Gondor, đồng thời giành được vinh dự khi phục vụ Turgon."</span>
 </li>
 </ol></div></span>
 

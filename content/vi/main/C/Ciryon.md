@@ -61,7 +61,7 @@ infobox:
 
 Trong Cuộc chiến [Liên minh Cuối cùng của Tiên tộc và Con Người](../L/Last_Alliance_of_Elves_and_Men.md), Ciryon và anh trai [Aratan](../A/Aratan.md) đã không tham gia vào [Cuộc vây hãm Barad-dûr](../S/Siege_of_Barad-dûr.md). Isildur đã cử hai anh em này đến gặp người [Minas Ithil](../M/Minas_Ithil.md) để bảo vệ [Cirith Dúath](Cirith_Dúath.md) và ngăn chặn khả năng đột phá của [Sauron](../S/Sauron.md) nếu anh ta thoát khỏi vòng vây.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong [Thảm họa Cánh đồng Gladden](../D/Disaster_of_the_Gladden_Fields.md), Ciryon là người anh đầu tiên chết; Aratan bị trọng thương khi cố gắng cứu anh ta. Sau sự sụp đổ của hai anh em này, [Elendur](<../E/Elendur_(son_of_Isildur).md>) đã khuyên cha mình đeo [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) và trốn thoát.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Thảm họa Cánh đồng Gladden](../D/Disaster_of_the_Gladden_Fields.md), Ciryon là người anh đầu tiên chết; Aratan bị trọng thương khi cố gắng cứu anh ta. Sau sự sụp đổ của hai anh em này, [Elendur](<../E/Elendur_(son_of_Isildur).md>) đã khuyên cha mình mặc [The One Nhẫn](../T/The_One_Ring.md) và trốn thoát.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -87,7 +87,7 @@ Trong các bản thảo đầu tiên, Ciryon được đặt tên là *Vëandur*
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The three elder sons of Isildur appear during an extended flashback set during the <a href="../S/Siege_of_Barad-dûr.md" title="Siege of Barad-dûr">Siege of Barad-dûr</a> in the year <a href="../S/Second_Age_3440.md" title="Second Age 3440">S.A. 3440</a>. However, because the game&#39;s license does not cover the works in which they are named, they are referred to only by their war-time aliases, meant to hide their kinship with the King. Ciryon uses the name &#34;Vëamacil&#34; as his alias.</dd></dl>
 

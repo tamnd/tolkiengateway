@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Thuyền Thiên Nga](../../main/S/Swan-ships.md)" - Tác phẩm nghệ thuật của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), được tạo ra vào năm [2003](../../main/_/2003.md) để thiết lập màu sắc và ánh sáng từ một bản phác thảo cũ được thực hiện vào những năm 70.
+"[Thuyền Thiên Nga](../../main/S/Swan-ships.md)" - Tác phẩm nghệ thuật của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), được tạo vào năm [2003](../../main/_/2003.md) để xác lập màu sắc và ánh sáng từ một bản phác thảo cũ được thực hiện vào những năm 70.
 
 ## Giấy phép {#Licensing}
 

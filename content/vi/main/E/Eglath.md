@@ -23,13 +23,13 @@ langlinks:
     url: "https://kontu.wiki/Eglath"
 ---
 
-**Eglath** ("Kẻ bị bỏ rơi") là [Teleri](../T/Teleri.md) [Tiên tộc](Elves.md) ([Eldar](Eldar.md)) của [Great March](../G/Great_March.md) đã quyết định ở lại [Beleriand](../B/Beleriand.md) để tìm kiếm thủ lĩnh đã mất của họ [Elwë](Elwë.md) ([Thingol](../T/Thingol.md)). Chủ nhà chính của Teleri đã theo sau [Olwe](../O/Olwe.md) trên đường tới [Aman](../A/Aman.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Eglath** ("Kẻ bị bỏ rơi") là [Teleri](../T/Teleri.md) [Tiên tộc](Elves.md) ([Eldar](Eldar.md)) của [Great March](../G/Great_March.md) đã quyết định ở lại [Beleriand](../B/Beleriand.md) để tìm kiếm thủ lĩnh đã mất của họ [Elwë](Elwë.md) ([Thingol](../T/Thingol.md)). Chủ nhà chính của Teleri đã theo dõi [Olwe](../O/Olwe.md) trên đường đến [Aman](../A/Aman.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Eglath cuối cùng đã trở thành [Sindar](../S/Sindar.md) với Thingol là Vua của họ.
 
 ## Từ nguyên {#Etymology}
 
-Tên này bắt nguồn từ [Sindarin](../S/Sindarin.md) động từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Egla&amp;action=edit&amp;redlink=1" title="Egla (page does not exist)">egla</a></i> cộng với đuôi số nhiều *[-ath](../_/-ath.md)*. <span></span>
+Tên này xuất phát từ [Sindarin](../S/Sindarin.md) động từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Egla&amp;action=edit&amp;redlink=1" title="Egla (page does not exist)">egla</a></i> cộng với đuôi số nhiều *[-ath](../_/-ath.md)*. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

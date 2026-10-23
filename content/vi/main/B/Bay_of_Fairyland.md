@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bay of Eldamar"
 ---
 
-Chuyển hướng tới [Vịnh Eldamar](Bay_of_Eldamar.md).
+Chuyển hướng đến [Vịnh Eldamar](Bay_of_Eldamar.md).

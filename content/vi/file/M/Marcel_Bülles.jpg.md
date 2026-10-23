@@ -23,7 +23,7 @@ file:
   user: "Morgan"
 ---
 
-Ảnh của [Marcel Bülles](../../main/M/Marcel_Bülles.md), được chụp bởi Peter Becher (<a class="external text" href="http://www.starcontinuum.net/" rel="noreferrer noopener" target="_blank">Starcontinuum.net</a>) tại [Ring\*Con](../../main/R/Ring%252ACon.md) 2012.
+Bức ảnh của [Marcel Bülles](../../main/M/Marcel_Bülles.md), được chụp bởi Peter Becher (<a class="external text" href="http://www.starcontinuum.net/" rel="noreferrer noopener" target="_blank">Starcontinuum.net</a>) tại [Nhẫn\*Con](../../main/R/Ring%252ACon.md) 2012.
 
 ## Giấy phép {#Licensing}
 

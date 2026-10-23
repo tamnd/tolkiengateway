@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galvorn"
 ---
 
-Chuyển hướng đến [Galvorn](../G/Galvorn.md).
+Chuyển hướng tới [Galvorn](../G/Galvorn.md).

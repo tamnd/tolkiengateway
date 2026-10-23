@@ -63,14 +63,14 @@ infobox:
     - Bởi: Michael Hoa
 - Báo cáo: Của các thiên thần, các hiệp hội và mắt cá chân
     - Bởi: Mike Austin & Maggie Percival
-- Tử vong ở [Bree](../B/Bree.md) Tứ giác Lạch
+- Tiêu diệt [Bree](../B/Bree.md) Lạch Tứ giác
     - Bởi: [Kristine Larsen](../K/Kristine_Larsen.md)
 - Bi kịch [Arvedui](Arvedui.md) và liên quan đến *[LotR](../T/The_Lord_of_the_Rings.md)* Phần 1
     - Bởi: Angela Nicholas
 - Phía sau cánh cửa kính
     - Bởi: Ian Collier
 - Thư
-- Tin từ [Fangorn](../F/Fangorn_Forest.md)
+- Tin tức từ [Fangorn](../F/Fangorn_Forest.md)
     - Bởi: Carol Brownlow
 - Toán học
     - Bởi: Jan Boom

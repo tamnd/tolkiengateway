@@ -71,7 +71,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Những hành động của Durin VII đã được tiên tri từ rất lâu trước khi ông được sinh ra; sự ra đời của ông rõ ràng đã được tiên tri khi [Dáin II](Dáin_II.md) lên ngôi sau [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[4]</a></sup>
+Những hành động của Durin VII đã được tiên tri từ rất lâu trước khi anh được sinh ra; sự ra đời của ông rõ ràng đã được tiên tri khi [Dáin II](Dáin_II.md) lên ngôi sau [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[4]</a></sup>
 
 Durin VII là hậu duệ trực tiếp của [Thorin III Stonehelm](../T/Thorin_III_Stonehelm.md) (theo một số nguồn tin thì ông là con trai ông).<sup id="cite_ref-Making_2-2" class="reference"><a href="#cite_note-Making-2">[1]</a></sup>
 
@@ -96,7 +96,7 @@ Một tài khoản khác nói rằng *Durinn* là một trong những Người l
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Prince Durin is the son of King <a href="../T/Thorin_Stonehelm.md" title="Thorin Stonehelm">Thorin III Stonehelm</a>. In the game&#39;s storyline other Dwarves have been given that name and yet proved not to be the Father of the Longbeards returned, so a major part of his motivation is to prove whether he truly is or will be Durin VII.</dd></dl>
 

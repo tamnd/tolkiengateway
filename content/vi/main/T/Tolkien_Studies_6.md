@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Studies: Volume 6"
 ---
 
-Chuyển hướng tới [Tolkien Nghiên cứu: Tập 6](Tolkien_Studies%253A_Volume_6.md).
+Chuyển hướng đến [Tolkien Studies: Volume 6](Tolkien_Studies%253A_Volume_6.md).

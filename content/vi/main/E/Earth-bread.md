@@ -28,7 +28,7 @@ Khi [Túrin](../T/Túrin.md) và [ban nhạc ngoài vòng pháp luật](../G/Gau
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung Địa: Bóng Tối trong số Mordor</a></i></b>
+<b>2014: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Middle-earth: Shadow of Mordor</a></i></b>
 
 <dl><dd>“Earthbread” was a rare starchy root, which was known to the Rangers of the Black Gate. When properly washed, peeled, and cooked with salt, it yielded a flavour resembling fine milled bread.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 

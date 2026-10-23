@@ -51,7 +51,7 @@ infobox:
     - Bởi: [David Bratman](../D/David_Bratman.md)
 - Đánh giá âm nhạc - Huyền thoại "Edda" từ Iceland thời trung cổ
     - Bởi: [John Ellison](../J/John_Ellison.md)
-Kết nối Kinh Thánh của - Tom Bombadil
+Mối liên hệ Kinh thánh của - Tom Bombadil
     - Bởi: Ron Pirson
 - Đánh giá sách - *[Tolkien: Man and Myth. A Literary Life](../T/Tolkien%253A_Man_and_Myth.md)*
     - Bởi: [Michael Tolkien](Michael_George_Tolkien.md)

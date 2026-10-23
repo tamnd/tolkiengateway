@@ -57,13 +57,13 @@ infobox:
         - Bởi: Daniel Timmons
     - Hiểu được quyết định ra đi của Frodo
         - Bởi: Karyn Milos
-    - "Tổn thương quá sâu sắc"
+    - "Đau quá"
         - Bởi: Karyn Milos
     - Tiền sử của Hobbit
         - Bởi: [Ruth Lacon](../R/Ruth_Lacon.md)
-    - Chuyến đi bộ kỷ niệm 50 năm (hoặc There and Back Again, một ngày đi chơi của học giả)
+    - Chuyến đi bộ kỷ niệm 50 năm (hoặc There and Back Again, ngày đi chơi của học giả)
         - Bởi: [Alex Lewis](../A/Alex_Lewis.md)
-    - Hai chữ cái [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
+    - Hai chữ cái của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
 Thế giới của     - Tolkien và Wagner: âm nhạc của ngôn ngữ và ngôn ngữ của âm nhạc
         - Bởi: [John Ellison](../J/John_Ellison.md)
     - Sự phô trương dành cho người bình thường

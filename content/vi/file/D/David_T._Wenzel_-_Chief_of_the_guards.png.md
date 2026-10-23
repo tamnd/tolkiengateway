@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Người đứng đầu đội cận vệ](../../main/C/Chief_of_the_guards.md) - [*The Hobbit* (truyện tranh)](<../../main/T/The_Hobbit_(comic_book).md>) minh họa của [David T. Wenzel](../../main/D/David_T._Wenzel.md)
+[Đội trưởng đội cận vệ](../../main/C/Chief_of_the_guards.md) - [*The Hobbit* (truyện tranh)](<../../main/T/The_Hobbit_(comic_book).md>) minh họa của [David T. Wenzel](../../main/D/David_T._Wenzel.md)
 
 ## Giấy phép {#Licensing}
 

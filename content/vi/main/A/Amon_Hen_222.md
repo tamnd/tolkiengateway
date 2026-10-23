@@ -59,14 +59,14 @@ infobox:
 - Quảng cáo: Triển lãm Moreton-in-Marsh
 - Thông báo ĐHĐCĐ
 - Quảng cáo: Lễ hội ở Shire
-- Quảng cáo: [Giáo sư Tolkien](../T/The_Tolkien_Professor.md)
+- Advertisement: [The Tolkien Professor](../T/The_Tolkien_Professor.md)
     - Bởi: Ethan Smith
-- Đặt chỗ cho Hội thảo Xã hội Tolkien năm 2010
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- Booking for the 2010 Tolkien Society Seminars
+- [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)việc sử dụng từ "Waver..."
     - Bởi: Chris McArthur
-- Một đài tưởng niệm xứng đáng (+ yêu cầu trợ giúp về trang web)
+- A Worthy Memorial (+ request for website help)
     - Bởi: Liz Stephen
 - Tác phẩm nghệ thuật: *Eldarion*
     - Bởi: Jef Murray

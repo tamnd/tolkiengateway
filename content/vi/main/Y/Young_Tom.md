@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolman Cotton Junior"
 ---
 
-Chuyển hướng đến [Tolman Cotton Junior](../T/Tolman_Cotton_Junior.md).
+Chuyển hướng tới [Tolman Cotton Junior](../T/Tolman_Cotton_Junior.md).

@@ -46,7 +46,7 @@ LƯU Ý: Phim được chia thành 2 đĩa cho cả phiên bản DVD và Blu-ray
 - 22\. Bạch Hội Đồng
 - 26\. Yêu tinh vĩ đại
 
-## Các Phụ lục: Phần 7 - Hành trình đáng mong đợi: Biên niên sử *[The Hobbit](The_Hobbit.md)* - Phần 1 (đĩa 2)\*\* {#The_Appendices:_Part_Seven_-_A_Long-Expected_Journey:_The_Chronicles_of_The_Hobbit_-_Part_1_(disc_2)**}
+## Bộ Phụ lục: Phần Bảy - Hành trình đáng mong đợi: Biên niên sử *[The Hobbit](The_Hobbit.md)* - Phần 1 (đĩa 2)\*\* {#The_Appendices:_Part_Seven_-_A_Long-Expected_Journey:_The_Chronicles_of_The_Hobbit_-_Part_1_(disc_2)**}
 
 - Giới thiệu từ Peter Jackson\*
 - Phim tài liệu"Hành trình trở về Trung Địa"\*
@@ -67,7 +67,7 @@ LƯU Ý: Phim được chia thành 2 đĩa cho cả phiên bản DVD và Blu-ray
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_An_Unexpected_Journey_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1d/The_Hobbit_-_An_Unexpected_Journey_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg/150px-The_Hobbit_-_An_Unexpected_Journey_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg" decoding="async" loading="lazy" width="150" height="194" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1d/The_Hobbit_-_An_Unexpected_Journey_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg/225px-The_Hobbit_-_An_Unexpected_Journey_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1d/The_Hobbit_-_An_Unexpected_Journey_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg/300px-The_Hobbit_-_An_Unexpected_Journey_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg 2x" data-file-width="1113" data-file-height="1438"/></a><figcaption>Blu-ray 3-D cover</figcaption></figure>
 
-## Các Phụ lục: Phần 8 - Trở về [Trung Địa](../M/Middle-earth.md) (đĩa 3)^ {#The_Appendices:_Part_Eight_-_Return_to_Middle-earth_(disc_3)^^}
+## Phần Phụ lục: Phần 8 - Trở về [Trung Địa](../M/Middle-earth.md) (đĩa 3)^ {#The_Appendices:_Part_Eight_-_Return_to_Middle-earth_(disc_3)^^}
 
 - Phim tài liệu "Công ty của [Thorin](Thorin.md)"
     - Lắp ráp Người Lùn
@@ -83,12 +83,12 @@ LƯU Ý: Phim được chia thành 2 đĩa cho cả phiên bản DVD và Blu-ray
     - [Radagast](../R/Radagast.md) màu nâu
     - [Goblin](../O/Orcs.md#Orcs_and_Goblins)
     - [Azog](../A/Azog.md) Trình lọc
-- "Vương quốc của [Kỷ Đệ Tam](Third_Age.md): Từ [Bag End](../B/Bag_End.md) đến [Thị trấn yêu tinh](../G/Goblin-town.md)" Phim tài liệu^
+- "Vương quốc của [Kỷ Đệ Tam](Third_Age.md): Từ [Bag End](../B/Bag_End.md) đến [Thị trấn Yêu Tinh](../G/Goblin-town.md)" Phim tài liệu^
     - Hobbiton
     - [Rhosgobel](../R/Rhosgobel.md)
     - [Rivendell](../R/Rivendell.md)
     - Cái [Dãy Núi Sương Mù](../M/Misty_Mountains.md)
-    - Thị trấn yêu tinh
+    - Thị trấn Yêu Tinh
 - Phim tài liệu "Những bài hát của *The Hobbit*"\*
 - Tín dụngº
 

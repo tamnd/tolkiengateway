@@ -244,7 +244,7 @@ Các bản sao có chữ ký của - Tolkien hiện được lưu giữ tại Th
 ### *Latin-English Dictionary* {#Latin-English_Dictionary}
 
 - 1857: William Smith: *Từ điển tiếng Anh Latinh: Dựa trên tác phẩm của Forcellini và Freund*. Luân Đôn: John Murray, Phố Albemarle.
-- Mô tả: Trên trang tiêu đề có ghi "John Ronald Reuel Tolkien" và các chữ cái đầu cũng như ngày tháng "K.E.S 1908" được viết bên dưới.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
+- Mô tả: Trên trang tiêu đề có ghi "John Ronald Reuel Tolkien" và các chữ cái đầu và ngày tháng "K.E.S 1908" được viết bên dưới.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
 
 #### Hình ảnh {#Pictures_5}
 
@@ -490,7 +490,7 @@ Các bản sao có chữ ký của - Tolkien hiện được lưu giữ tại Th
 ### *Thet Freske Riim - Tractatus Alvini Martinus Mijhoff* {#Thet_Freske_Riim_-_Tractatus_Alvini_Martinus_Mijhoff}
 
 - [1952](../_/1952.md): *Thet Freske Riim - Tractatus Alvini Martinus Mijhoff*, của Alistair Campbell.
-- Mô tả: Vải gốc của nhà xuất bản, dj có vài vết sứt mẻ ở các góc, mặt trên và mặt dưới gáy sách. viii + 234 trang. Được biên tập viên khắc bằng mực, trên mặt trước miễn phí: "J.R.R.T. với lời chào trân trọng của biên tập viên." Chỉnh sửa bằng Tolkien bằng bút chì trên ba trang. Biên tập viên, Alistair Campbell, là một trong những người bạn của Tolkien và thường đến thăm anh tại căn hộ trên Phố Merton ở Oxford, nơi Tolkien trải qua những năm cuối đời sau cái chết của Edith vào năm 1971.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[38]</a></sup>
+- Mô tả: Vải gốc của nhà xuất bản, dj có vài vết sứt mẻ ở các góc, mặt trên và mặt dưới gáy. viii + 234 trang. Được biên tập viên ghi bằng mực, trên mặt trước miễn phí: "J.R.R.T. với lời chào trân trọng của biên tập viên." Chỉnh sửa bằng Tolkien bằng bút chì trên ba trang. Biên tập viên, Alistair Campbell, là một trong những người bạn của Tolkien và thường đến thăm anh tại căn hộ trên Phố Merton ở Oxford, nơi Tolkien trải qua những năm cuối đời sau cái chết của Edith vào năm 1971.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[38]</a></sup>
 
 ### *Book II of the Faerie Queene* {#Book_II_of_the_Faerie_Queene}
 

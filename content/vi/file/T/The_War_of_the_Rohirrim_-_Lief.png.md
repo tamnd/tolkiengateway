@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Lời nói dối từ *The Lord of the Rings: Cuộc chiến Rohirrim*
+Nói dối từ *The Lord of the Rings: The War of the Rohirrim*
 
 ## Giấy phép {#Licensing}
 

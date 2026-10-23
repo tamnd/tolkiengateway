@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "20 August"
 ---
 
-Chuyển hướng đến [20 tháng 8](../_/20_August.md).
+Chuyển hướng tới [20 tháng 8](../_/20_August.md).

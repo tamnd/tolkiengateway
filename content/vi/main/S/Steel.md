@@ -22,7 +22,7 @@ categories:
 
 <dl><dd>Steel, also called <i>Borang</i> (<a href="Sindarin.md" title="Sindarin">S.</a> “Steadfast-iron”), has its composition explained in this book. It is an alloy with <i>morasarn</i> (carbon) and a small amount of one or more odd metals. The <a href="../M/Mírdain.md" title="Mírdain">mírdain</a> are noted find it an ugly and flawed material, but make much use of it nonetheless.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Expert prospectors can forge steel ingots using iron ingots and lumps of coal.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 

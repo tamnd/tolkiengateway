@@ -39,7 +39,7 @@ Có ít nhất hai cách giải thích về từ nguyên của *tark*, chỉ hơ
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Whenever a keep is flipped in favor of the Servants of the Eye, an orc calls out &#34;look at the feeble târks run!&#34;</dd></dl>
 
@@ -47,7 +47,7 @@ Có ít nhất hai cách giải thích về từ nguyên của *tark*, chỉ hơ
 
 <dl><dd>Tharzog mentions Tarks in Fornost.</dd></dl>
 
-<b>2014: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung Địa: Bóng Tối trong số Mordor</a></i>:</b>
+<b>2014: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Middle-earth: Shadow of Mordor</a></i>:</b>
 
 <dl><dd>Orcs and Orc Captains refer to Talion, a ranger of the Black Gates as &#34;the Tark&#34;.</dd></dl>
 

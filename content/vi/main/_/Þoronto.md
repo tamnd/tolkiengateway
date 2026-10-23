@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Soronto"
 ---
 
-Chuyển hướng đến [Soronto](../S/Soronto.md).
+Chuyển hướng tới [Soronto](../S/Soronto.md).

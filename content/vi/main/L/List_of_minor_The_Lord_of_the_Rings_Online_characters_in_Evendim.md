@@ -27,7 +27,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-Danh sách này chứa tất cả các ký tự phụ trong [Evendim](../E/Evendim.md) được tạo riêng cho [The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md).
+Danh sách này chứa tất cả các ký tự phụ trong [Evendim](../E/Evendim.md) được tạo riêng cho [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md).
 
 ## Aranhir {#Aranhir}
 

@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Glorfindel](../../main/G/Glorfindel.md), được tiết lộ" bởi [Miriam Ellis](../../main/M/Miriam_Ellis.md)
+"[Glorfindel](../../main/G/Glorfindel.md), tiết lộ" bởi [Miriam Ellis](../../main/M/Miriam_Ellis.md)
 
 ## Giấy phép {#Licensing}
 

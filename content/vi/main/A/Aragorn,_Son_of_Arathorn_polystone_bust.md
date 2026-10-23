@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "List of Sideshow Collectibles"
 ---
 
-Chuyển hướng tới [Danh sách sưu tầm trình chiếu](../L/List_of_Sideshow_Collectibles.md).
+Chuyển hướng đến [Danh sách sưu tầm trình chiếu](../L/List_of_Sideshow_Collectibles.md).

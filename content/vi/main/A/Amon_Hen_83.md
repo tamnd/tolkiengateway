@@ -77,7 +77,7 @@ infobox:
 - Thư
 - Các loại của Anne
     - Bởi: Anne Haward
-- Máy ép nhỏ
+- Báo chí nhỏ
     - Bởi: Anne Haward
 - Bìa sau
 

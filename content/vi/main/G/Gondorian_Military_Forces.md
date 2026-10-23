@@ -41,7 +41,7 @@ Trong [Kỷ Đệ Tam](../T/Third_Age.md), sức mạnh quân sự của Gondor 
 
 Thân vương và **[Thuyền trưởng của Gondor](../C/Captain_of_Gondor.md)** [Earnur](../E/Earnur.md) đã tổ chức [Đạo quân Phương Tây](<../H/Host_of_the_West_(Arnor).md>), hợp lực với [Arnor](../A/Arnor.md) và Tiên tộc.
 
-**[Đội Cận vệ Thành Trì](Guards_of_the_Citadel.md)** mặc giáp đen với mũ [mithril](../M/Mithril.md) và áo khoác ngoài màu đen và bạc.
+**[Đội Cận vệ Thành trì](Guards_of_the_Citadel.md)** mặc giáp đen với mũ [mithril](../M/Mithril.md) và áo khoác ngoài màu đen và bạc.
 
 ## Kỵ binh {#Cavalry}
 

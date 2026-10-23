@@ -13,9 +13,9 @@ categories:
   - "Roads and streets"
 ---
 
-**Hàng mới** là một dãy [hố hobbit](../H/Hobbit-holes.md) cắt vào mặt phía nam của [Hobbiton Đồi](../H/Hobbiton_Hill.md) sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md). Chúng được tạo ra để thay thế [Bagshot Row](../B/Bagshot_Row.md) đã bị phá hủy bởi Con Người](../R/Ruffians.md) của [Sharkey. Việc gọi Hàng Mới là "Kết thúc củaSharkey" đã trở thành trò đùa trong [Bywater](../B/Bywater.md), vì [Saruman](../S/Saruman.md) (Sharkey) đã chết ở đó.
+**Hàng mới** là một dãy [hố hobbit](../H/Hobbit-holes.md) cắt vào mặt phía nam của [Hobbiton Đồi](../H/Hobbiton_Hill.md) sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md). Chúng được tạo ra để thay thế [Bagshot Row](../B/Bagshot_Row.md)đã bị Con Người](../R/Ruffians.md) của [Sharkey phá hủy. Việc gọi Hàng Mới là "Kết thúc củaSharkey" đã trở thành trò đùa trong [Bywater](../B/Bywater.md), vì [Saruman](../S/Saruman.md) (Sharkey) đã chết ở đó.
 
-Sau khi khôi phục, [Gaffer Gamgee](../G/Gaffer_Gamgee.md) quay trở lại Số 3, và con trai ông [Sam](../S/Samwise_Gamgee.md) sống với ông cho đến khi Sam kết hôn với [Rose Cotton](../R/Rose_Cotton.md) và chuyển đến Bag End.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+Sau khi được khôi phục, [Gaffer Gamgee](../G/Gaffer_Gamgee.md) trở về Số 3 và con trai ông [Sam](../S/Samwise_Gamgee.md) sống với ông cho đến khi Sam kết hôn [Rose Cotton](../R/Rose_Cotton.md) và chuyển đến Bag End.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

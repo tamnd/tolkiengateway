@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Erendis"
 ---
 
-Chuyển hướng tới [Erendis](Erendis.md).
+Chuyển hướng đến [Erendis](Erendis.md).

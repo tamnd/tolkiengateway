@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vorondil"
 ---
 
-Chuyển hướng tới [Vorondil](Vorondil.md).
+Chuyển hướng đến [Vorondil](Vorondil.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Harn"
 ---
 
-Chuyển hướng tới [Harn](Harn.md).
+Chuyển hướng đến [Harn](Harn.md).

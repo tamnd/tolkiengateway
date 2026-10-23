@@ -28,7 +28,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Heike Kubasch** là tác giả trò chơi nhập vai người Mỹ. Tại [1980](../_/1980.md), bà là một trong những người sáng lập [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Heike Kubasch** là tác giả chuyên viết game nhập vai người Mỹ. Ở [1980](../_/1980.md), bà là một trong những người sáng lập [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

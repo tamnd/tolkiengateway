@@ -51,7 +51,7 @@ Trong [S.R.](../S/Shire_Reckoning.md) [1341](../T/Third_Age_2941.md)<sup id="cit
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_Hobbiton_Befouled.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/dd/Mat%C4%9Bj_%C4%8Cadil_-_Hobbiton_Befouled.jpg/300px-Mat%C4%9Bj_%C4%8Cadil_-_Hobbiton_Befouled.jpg" decoding="async" loading="lazy" width="300" height="436" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/dd/Mat%C4%9Bj_%C4%8Cadil_-_Hobbiton_Befouled.jpg/450px-Mat%C4%9Bj_%C4%8Cadil_-_Hobbiton_Befouled.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/dd/Mat%C4%9Bj_%C4%8Cadil_-_Hobbiton_Befouled.jpg/600px-Mat%C4%9Bj_%C4%8Cadil_-_Hobbiton_Befouled.jpg 2x" data-file-width="800" data-file-height="1163"/></a><figcaption>Hobbiton with the New Mill</figcaption></figure>
 
-Ngay sau khi Lotho chuyển đến Bag End, Nhà máy bị phá bỏ và thay thế bằng Nhà máy Mới, do Ted Sandyman và một số [Ruffians](../R/Ruffians.md)điều hành. Nó được mô tả là "một tòa nhà gạch lớn nằm giữa dòng suối, nơi nó bị ô nhiễm bởi dòng nước tràn đầy khói và hôi thối." Khi [Sharkey](../S/Saruman.md) đến [ Shire](../T/The_Shire.md), tất cả quá trình mài đều dừng lại. Sau khi Sharkey bị đuổi đi, tòa nhà gạch mới này đã bị phá bỏ.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Ngay sau khi Lotho chuyển đến Bag End, Nhà máy đã bị phá bỏ và được thay thế bằng Nhà máy Mới, do Ted Sandyman và một số [Ruffians](../R/Ruffians.md)điều hành. Nó được mô tả là "một tòa nhà gạch lớn nằm giữa dòng suối, nơi nó bị ô nhiễm bởi dòng nước tràn đầy khói và hôi thối." Khi [Sharkey](../S/Saruman.md) đến [ Shire](../T/The_Shire.md), tất cả quá trình mài đều dừng lại. Sau khi Sharkey bị đuổi đi, tòa nhà gạch mới này đã bị phá bỏ.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
@@ -99,7 +99,7 @@ Trong phiên bản gốc của lá thư [Thorin](../T/Thorin.md)gửi cho Bilbo 
 
 <dl><dd>The Mill stands next to the broken bridge. Sandyman cannot fix the bridge because his son <a href="../S/Sandyman.md" title="Sandyman">Carl</a> stole his hammer and nails. The nails are on the mill&#39;s first floor. <a href="../B/Bell_Goodchild.md" title="Bell Goodchild">Bell Goodchild</a> hides out at the second floor, only accessible by riding the water-wheel.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The Mill is a prominent landmark in the Shire, directly south of Bag End. <a href="../T/Ted_Sandyman.md" title="Ted Sandyman">Ted Sandyman</a> can be found outside, but to date he only has lines during some of the seasonal festivals and plays no role in the main story.</dd></dl>
 

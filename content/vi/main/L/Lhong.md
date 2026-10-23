@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Long"
 ---
 
-Chuyển hướng tới [Dài](Long.md).
+Chuyển hướng đến [Dài](Long.md).

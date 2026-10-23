@@ -61,7 +61,7 @@ infobox:
 
 Nông dân Cotton đóng một vai trò quan trọng trong [Trận Bywater](../B/Battle_of_Bywater.md), nơi ông tập hợp nhiều hobbit để chiến đấu với người của [Sharkey](../S/Sharkey.md).<sup id="cite_ref-Scouring_1-1" class="reference"><a href="#cite_note-Scouring-1">[1]</a></sup>
 
-Vào một thời điểm nào đó trong hai năm tiếp theo, từ [13 tháng 3](../_/13_March.md) đến [6 tháng 10](../_/6_October.md), Cotton tìm thấy [Frodo](Frodo.md) nằm ốm trên giường, tay cầm một viên ngọc trắng theo cách gợi nhớ đến Chiếc nhẫn Một.
+Vào một thời điểm nào đó trong hai năm tiếp theo, từ [13 tháng 3](../_/13_March.md) đến [6 tháng 10](../_/6_October.md), Cotton tìm thấy [Frodo](Frodo.md) nằm ốm trên giường, tay ôm chặt một viên ngọc trắng theo cách gợi nhớ đến Đấng Nhẫn.
 
 ## Từ nguyên {#Etymology}
 
@@ -110,11 +110,11 @@ Vào một thời điểm nào đó trong hai năm tiếp theo, từ [13 tháng 
 
 <dl><dd>The Cottons live at South Lane in Bywater. Tolman lives at number 3 and <a href="../W/Wilcome_Cotton_II.md" title="Wilcome Cotton II">his son Wilcome</a> at number 5.</dd></dl>
 
-<b>2001-7: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi đánh bài</a></i>: </b>
+<b>2001-7: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i>: </b>
 
 <dl><dd>A Hobbit with a large pumpkin from <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> is identified by <a href="../D/Decipher.md" title="Decipher">Decipher</a> as being Tolman Cotton.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Tom lives with his family at a farm just north of Bywater and next to the Three Farthing Stone. During the Farmers Faire he can be found at the mushroom tent near the Three Farthing Stone chatting with <a href="Farmer_Maggot.md" title="Farmer Maggot">Farmer Maggot</a> and <a class="mw-redirect" href="../H/Hamfast_Gamgee.md" title="Hamfast Gamgee">Hamfast Gamgee</a>.</dd></dl>
 

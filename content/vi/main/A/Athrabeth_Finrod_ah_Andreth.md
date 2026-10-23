@@ -218,7 +218,7 @@ Finrod đã rời khỏi Trung Địa trước khi bất kỳ cuộc hôn nhân 
 
 - [Arda Marred](Arda_Marred.md)
 - [Arda Unmarred](Arda_Unmarred.md)
-- [Second Prophecy of Mandos](../S/Second_Prophecy_of_Mandos.md)
+- [Lời Tiên tri Thứ hai của Mandos](../S/Second_Prophecy_of_Mandos.md)
 
 <span></span>
 

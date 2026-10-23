@@ -32,7 +32,7 @@ Ghi chú của tác giả về nguồn cảm hứng trong thế giới thực ch
 
 Xem thêm *[The Seven Houses of the Khazad](Artigas_-_The_Seven_Houses_of_the_Khazad.jpg.md)* và *[Dwarven Axes](Artigas_-_Dwarven_Axes.jpg.md)* của cùng một tác giả để biết mô tả về Bảy Ngôi nhà của Người Lùn và những chiếc rìu một tay của người lùn.
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Artigas</span></span>
 <p>This work is copyrighted and owned by Artigas. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:

@@ -63,7 +63,7 @@ infobox:
 - Thông báo về Mythcon 42
 - [Quốc tế](../I/International_Tolkien_Fellowship.md) Sự kiện sắp tới
     - Bởi: Susan Frances Edwards
-- Sảnh lửa
+- Hall of Fire
     - Bởi: Lynn Forest-Hill
 - Về tầm quan trọng của ngày [25 tháng 3](../_/25_March.md)...
     - Bởi: David Doerr

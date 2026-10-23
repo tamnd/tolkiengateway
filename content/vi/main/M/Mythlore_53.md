@@ -45,7 +45,7 @@ infobox:
 
 #### Bài viết {#Articles}
 
-- Reckford, Kenneth J. “'Có và quay lại' \~ Odysseus và Bilbo Baggins."
+- Reckford, Kenneth J. “‘There and Back Again’ \~ Odysseus và Bilbo Baggins.”
 - Westbrook, Dee Anne. “Linh hồn của động vật: Sự tiến hóa của lý tưởng chiến đấu.”
 - White, Donna R. “Nữ tư tế và Nữ thần: Sự tiến hóa của ý thức con người trong các Trump lớn hơn.”
 - Người xanh, David. “The Silmarillion với tư cách là Bi kịch sử thi của Aristotle.”
@@ -53,7 +53,7 @@ infobox:
 - Musacchio, George. “Cơ đốc nhân chiến đấu.”
 - Veith, Gene Edward. “Tưởng tượng và truyền thống của nghệ thuật Kitô giáo.”
 - Burns, Marjorie J. “Truyện cổ tích vô danh: Vua dòng sông Vàng của Ruskin.”
-- Madsen, Catherine. “Ánh sáng từ ngọn đèn vô hình: Tôn giáo tự nhiên trong The Lord of the Rings.”
+- Madsen, Catherine. “Ánh sáng từ ngọn đèn vô hình: Tôn giáo tự nhiên ở The Lord of the Rings.”
 - Boenig, Robert. “Tiếng trống diệt vong: H.G. Wells' Đầu tiên Con Người trong Mặt Trăng và The Lord of the Rings.”
 - Deyo, Steven Mark. “Wyrd and Will: Fate, Fatalism, and Free Will in The Northern Elegy và J.R.R. Tolkien.”
 

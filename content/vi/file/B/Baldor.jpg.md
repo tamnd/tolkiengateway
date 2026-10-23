@@ -24,7 +24,7 @@ file:
   user: "Ederchil"
 ---
 
-[Baldor](../../main/B/Baldor.md)'s corpse. Hình minh họa nội thất từ ​​sách [MERP](../../main/M/Middle-earth_Role_Playing.md) *[Erech and the Paths of the Dead](../../main/E/Erech_and_the_Paths_of_the_Dead.md)*.
+xác của [Baldor](../../main/B/Baldor.md). Hình minh họa nội thất từ ​​sách [MERP](../../main/M/Middle-earth_Role_Playing.md) *[Erech and the Paths of the Dead](../../main/E/Erech_and_the_Paths_of_the_Dead.md)*.
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.ironcrown.com/" rel="noreferrer noopener" target="_blank">Iron Crown Enterprises</a>. It is believed that the limited use of this file,

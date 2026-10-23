@@ -29,7 +29,7 @@ infobox:
 
 ## Nền {#Background}
 
-Mùa hè năm 1943, [Christopher](../C/Christopher_Tolkien.md), lúc đó mới 18 tuổi, được gọi vào Lực lượng Không quân Hoàng gia. Khi bức thư này được viết, anh ấy đang ở Trung tâm tiếp nhận phi hành đoàn ở St John's Wood, London.
+Mùa hè năm 1943, [Christopher](../C/Christopher_Tolkien.md), lúc đó mới 18 tuổi, được gọi vào Lực lượng Không quân Hoàng gia. Khi lá thư này được viết, anh ấy đang ở Trung tâm tiếp nhận phi hành đoàn ở St John's Wood, London.
 
 ## Tóm tắt {#Summary}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Paladin Took II"
 ---
 
-Chuyển hướng đến [Paladin Took II](Paladin_Took_II.md).
+Chuyển hướng tới [Paladin Took II](Paladin_Took_II.md).

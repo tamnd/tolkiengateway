@@ -41,7 +41,7 @@ Như trong [Rushey](../R/Rushey.md), phần cuối <i><a class="extiw" href="htt
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Girdley Island was once a beacon-hill of <a href="../A/Arnor.md" title="Arnor">Arnor</a>, but was abandoned after the founding of the <a href="../T/The_Shire.md" title="The Shire">Shire</a>. It is located on the border with the in-game region of <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a>. While identified as a point of interest, no quests take place there, nor are there any enemies.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 

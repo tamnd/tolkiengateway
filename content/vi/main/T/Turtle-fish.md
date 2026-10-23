@@ -22,7 +22,7 @@ Cá rùa hiện lên như những hòn đảo nguy hiểm, thực chất là qu�
 
 ## Cảm hứng {#Inspiration}
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lấy cảm hứng từ một [tiếng Anh cổ](../O/Old_English.md) thú vật xuất hiện trong <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_Book" title="wikipedia:Exeter Book">Sách Exeter</a>. Ý tưởng về loài rùa biển khổng lồ cuối cùng bắt nguồn từ thần thoại phương Đông, và trong các phiên bản châu Âu, quái vật này thường bị nhầm lẫn với cá voi.<sup id="cite_ref-L255_2-1" class="reference"><a href="#cite_note-L255-2">[2]</a></sup>
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lấy cảm hứng từ một [tiếng Anh cổ](../O/Old_English.md) thú vật xuất hiện trong <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_Book" title="wikipedia:Exeter Book">Sách Exeter</a>. Ý tưởng về rùa biển khổng lồ cuối cùng bắt nguồn từ thần thoại phương Đông, và trong các phiên bản châu Âu, quái vật này thường bị nhầm lẫn với cá voi.<sup id="cite_ref-L255_2-1" class="reference"><a href="#cite_note-L255-2">[2]</a></sup>
 
 ## Phiên bản khác của truyền thuyết {#Other_version_of_the_legendarium}
 

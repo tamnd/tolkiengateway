@@ -59,7 +59,7 @@ Tên địa danh [tiếng Wales](../W/Welsh.md) ngoài đời thực <i><a class
 
 <dl><dd>The village was burned down in <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1409.md" title="Third Age 1409">1409</a>, after which it became an Orc-hold for two years. It took until <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Age_1420&amp;action=edit&amp;redlink=1" title="Third Age 1420 (page does not exist)">1420</a> for the village to be rechartered.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Combe is a busy village that is visted by the player during &#34;Stirrings in the Darkness&#34;. Weary travellers can relax and drink in the Comb and Wattle Inn. The village is commanded by Constable Underhill.</dd></dl>
 

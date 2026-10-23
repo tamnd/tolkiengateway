@@ -24,7 +24,7 @@ file:
   user: "Amroth"
 ---
 
-Ý tưởng nghệ thuật [troll](../../main/T/Trolls.md) cho [The Lord of the Rings: The Treason of Isengard](../../main/T/The_Lord_of_the_Rings%253A_The_Treason_of_Isengard.md).
+Ý tưởng nghệ thuật về một [troll](../../main/T/Trolls.md) dành cho [The Lord of the Rings: The Treason of Isengard](../../main/T/The_Lord_of_the_Rings%253A_The_Treason_of_Isengard.md).
 
 \== Cấp phép ==
 

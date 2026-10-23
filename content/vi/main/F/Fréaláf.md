@@ -109,7 +109,7 @@ Trong lễ đăng quang của ông, [Pháp sư](../W/Wizard.md) [Saruman](../S/S
 		</li>
 </ul>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>A tapestry depicting Fréaláf killing Wulf is found in <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a> and can be acquired for use in player&#39;s houses.</dd></dl>
 

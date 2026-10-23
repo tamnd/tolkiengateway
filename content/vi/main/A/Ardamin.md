@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Ardamin"
 ---
 
-Chuyển hướng tới [Tar-Ardamin](../T/Tar-Ardamin.md).
+Chuyển hướng đến [Tar-Ardamin](../T/Tar-Ardamin.md).

@@ -55,7 +55,7 @@ Qua hàng thiên niên kỷ, số lượng của chúng tăng lên, cho đến k
 
 ## Khắc họa trong các bản chuyển thể {#Portrayal_in_adaptations}
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Cold-drakes appear throughout the northern lands of <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>, particularly in the <a class="mw-redirect" href="../E/Ered_Mithrin.md" title="Ered Mithrin">Ered Mithrin</a> where they serve &#34;Hrímil Frost-Heart&#34;, a dragon who consumed one of the dwarven <a href="../R/Rings_of_Power.md" title="Rings of Power">Rings of Power</a>. Hrímil&#39;s mightiest spawn, the cold-drake &#34;Vethúg Wintermind&#34;, was the one to slay King <a href="../D/Dáin_I.md" title="Dáin I">Dáin I</a> and his son <a href="../F/Frór.md" title="Frór">Frór</a> in Thikil-gundu, &#34;The Steel Keep&#34; (otherwise known as <a class="mw-redirect" href="../D/Dáin&#39;s_Halls~64102.md" title="Dáin&#39;s Halls">Dáin&#39;s Halls</a>). The game&#39;s cold-drakes often project icy breath, even though the exact nature of the &#34;cold breath&#34;<sup id="cite_ref-collectedpoems_1-3" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup> of Tolkien&#39;s cold-drakes is simply not known.</dd></dl>
 

@@ -69,7 +69,7 @@ Beren đang ẩn náu gần hồ Tarn Aeluin.  Anh ta được viếng thăm b�
 
 <br> **Chim sơn ca (Cảnh ba)**
 
-Cuộc hành trình của Beren kết thúc tại khu rừng Doriath.  Một tiếng sáo xa vang lên trong rừng khi công chúa yêu tinh Lúthien bắt đầu điệu nhảy của mình. Sự xuất hiện bất ngờ của Beren khiến cô giật mình và bỏ chạy vào rừng. Beren bị bỏ rơi, nhưng cô sớm xuất hiện trở lại và mời anh tham gia điệu nhảy của mình. Beren dần dần đến gần cô, gọi tên Elvish cô, Tinúviel (Chim sơn ca) và khi tiếng sáo xa xa vang lên một lần nữa, cô lại chìm vào vòng tay anh.
+Cuộc hành trình của Beren kết thúc tại khu rừng Doriath.  Một tiếng sáo xa vang lên trong rừng khi công chúa yêu tinh Lúthien bắt đầu điệu nhảy của mình. Sự xuất hiện bất ngờ của Beren khiến cô giật mình và bỏ chạy vào rừng. Beren bị bỏ rơi, nhưng cô sớm xuất hiện trở lại và mời anh tham gia điệu nhảy của mình. Beren dần dần đến gần cô, gọi tên Elvish của cô, Tinúviel (Chim sơn ca) và khi tiếng sáo xa xa vang lên một lần nữa, cô lại chìm vào vòng tay anh.
 
 <br> **Lời thề (Cảnh bốn)**
 

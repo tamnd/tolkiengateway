@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sarati"
 ---
 
-Chuyển hướng đến [Sarati](../S/Sarati.md).
+Chuyển hướng tới [Sarati](../S/Sarati.md).

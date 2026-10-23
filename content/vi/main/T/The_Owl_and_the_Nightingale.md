@@ -18,14 +18,14 @@ sort_keys:
   "Unpublished material": "Owl and the Nightingale, The"
 ---
 
-<i><b>Cú và chim sơn ca</b></i> là một bài thơ [tiếng Anh trung cổ](../M/Middle_English.md). [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt đầu dịch bài thơ nhưng chưa bao giờ được xuất bản.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong [bức thư từ năm 1967](../L/Letter_to_John_Leyerle.md), Tolkien viết:
+<i><b>Cú và chim sơn ca</b></i> là một bài thơ [tiếng Anh trung đại](../M/Middle_English.md). [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt đầu dịch bài thơ nhưng chưa bao giờ được xuất bản.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong [bức thư từ năm 1967](../L/Letter_to_John_Leyerle.md), Tolkien viết:
 
 <blockquote class="tg-quote noexcerpt">
 <p>I have at present given up the task [of translating The Owl and the Nightingale]. It comes off well enough in certain passages, but in general octo-syllabic couplets are defeating for a translator; there is no room to move.
 </p>
 </blockquote>
 
-Trong một bức thư viết vào ngày [8 tháng 4](../_/8_April.md) [1932](../_/1932.md), [C.S. Lewis](../C/C.S._Lewis.md) đề nghị anh trai [Warren](../W/Warren_Lewis.md) đọc bản dịch *The Owl and the Nightingale*của Tolkien.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Do đó, có vẻ như Tolkien đã hoàn thành bản dịch bài thơ vào ngày này, nhưng không hài lòng với kết quả như đã thấy trong Bức thư năm 1967.<sup id="cite_ref-Addenda_3-0" class="reference"><a href="#cite_note-Addenda-3">[3]</a></sup>
+Trong một lá thư viết vào ngày [8 tháng 4](../_/8_April.md) [1932](../_/1932.md), [C.S. Lewis](../C/C.S._Lewis.md) đề nghị anh trai [Warren](../W/Warren_Lewis.md) đọc bản dịch *The Owl and the Nightingale*của Tolkien.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Do đó, có vẻ như Tolkien đã hoàn thành bản dịch bài thơ vào ngày này, nhưng không hài lòng với kết quả như đã thấy trong Bức thư năm 1967.<sup id="cite_ref-Addenda_3-0" class="reference"><a href="#cite_note-Addenda-3">[3]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

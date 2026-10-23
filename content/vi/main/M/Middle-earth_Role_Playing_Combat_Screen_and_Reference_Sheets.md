@@ -39,6 +39,6 @@ infobox:
 
 *Cuối cùng anh ta bị bao vây ở Osgiliath, và cầm cự được lâu, cho đến khi cái đói và lực lượng lớn hơn của quân nổi dậy đẩy anh ta ra ngoài, khiến thành phố chìm trong biển lửa. Trong cuộc bao vây và đốt cháy đó, Tháp Đá Osgiliath đã bị phá hủy, và palantír bị chìm trong nước."* - The Return of the King
 
-Trong trò chơi nhập vai, bạn đảm nhận vai một nhân vật trong cuốn tiểu thuyết "sống". Middle-earth Role Playing (MERP) và các sách nguồn đi kèm của nó cung cấp khuôn khổ cho việc nhập vai trong bối cảnh giả tưởng vĩ đại nhất mọi thời đại... Trung Địa của J.R.R. Tolkien.
+Trong trò chơi nhập vai, bạn đảm nhận vai một nhân vật trong cuốn tiểu thuyết "sống". Middle-earth Role Playing (MERP) và các sách nguồn đi kèm của nó cung cấp khuôn khổ để nhập vai trong bối cảnh giả tưởng vĩ đại nhất mọi thời đại... Trung Địa của J.R.R. Tolkien.
 
-Màn hình chiến đấu Middle-earth Role Playing là điều bắt buộc đối với tất cả người chơi MERP! Bao gồm tất cả các bảng MERP cần thiết cho các trận chiến, điều động và hành động. Tất cả điều này trên một màn hình chiến đấu 34" x 11" cộng với hai tờ tham chiếu 17" x 11" có thể tăng gấp đôi như bộ mở rộng màn hình.
+Màn hình chiến đấu Middle-earth Role Playing là điều bắt buộc đối với tất cả game thủ MERP! Bao gồm tất cả các bảng MERP cần thiết cho các trận chiến, điều động và hành động. Tất cả điều này trên một màn hình chiến đấu 34" x 11" cộng với hai tờ tham chiếu 17" x 11" có thể tăng gấp đôi như bộ mở rộng màn hình.

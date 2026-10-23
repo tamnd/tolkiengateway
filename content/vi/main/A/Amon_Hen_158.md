@@ -83,7 +83,7 @@ infobox:
 - Trang thư
 - Toán học
     - Bởi: Ian Collier & Anke Buttner
-- Truyện dân ca
+- Truyện dân gian
 - Tác phẩm nghệ thuật: *Dain*
     - Bởi: Nick Basi
 - Thành viên/Ủy ban mới

@@ -13,7 +13,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**Ketchup Games** là công ty đã xuất bản bộ ba phim [Mines of Moria](<../M/Mines_of_Moria_(video_game_series).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Ketchup Games** là công ty đã xuất bản bộ ba phim [Mỏ Moria](<../M/Mines_of_Moria_(video_game_series).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

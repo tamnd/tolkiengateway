@@ -37,7 +37,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Mauhúr được cử đến tiếp viện cho quân của [Uglúk](../U/Uglúk.md) khi họ quay trở lại [Isengard](../I/Isengard.md) cùng với [Merry](Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md). Anh ta tìm thấy họ bị bao vây bởi [Rohirrim](../R/Rohirrim.md) của [Éomer](../_/Éomer.md)ở rìa [Rừng Fangorn](../F/Fangorn_Forest.md), từ đó anh ta dẫn đầu Orc của mình trong một cuộc tấn công. Cuộc tấn công này đã thất bại: Rohirrim đã có thể đánh bại Orc, ngay cả khi có quân tiếp viện của Mauhúr. Không rõ Mauhúr và binh lính của ông có bị*killed or driven off*" Rohirrim hay không.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Mauhúr được cử đến tiếp viện cho quân của [Uglúk](../U/Uglúk.md)khi họ quay trở lại [Isengard](../I/Isengard.md) cùng với [Merry](Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md). Anh ta tìm thấy họ bị bao vây bởi [Rohirrim](../R/Rohirrim.md) của [Éomer](../_/Éomer.md)ở rìa [Rừng Fangorn](../F/Fangorn_Forest.md), từ đó anh ta dẫn đầu Orc của mình trong một cuộc tấn công. Cuộc tấn công này đã thất bại: Rohirrim đã có thể đánh bại Orc, ngay cả khi có quân tiếp viện của Mauhúr. Không rõ Mauhúr và binh lính của ông có bị*killed or driven off*" Rohirrim hay không.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -82,7 +82,7 @@ Mauhúr được cử đến tiếp viện cho quân của [Uglúk](../U/Uglúk.
 
 <dl><dd>Mauhúr is portrayed as an <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a> instead of an Orc, and is played by <a href="../R/Robbie_Magasiva.md" title="Robbie Magasiva">Robbie Magasiva</a> and voiced by <a href="../A/Andy_Serkis.md" title="Andy Serkis">Andy Serkis</a>. His remarks on the lack of food enticed <a href="../S/Snaga_(orc_of_Isengard).md" title="Snaga (orc of Isengard)">Snaga</a>, who proposed eating the captives. Mauhúr was among the Uruks who devoured Snaga&#39;s corpse after the latter was beheaded for his limited discipline.</dd></dl>
 
-<b><a href="../_/2012.md" title="2012">2012</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2012.md" title="2012">2012</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Mauhúr leads a group of Uruks that split off from <a href="../U/Uglúk.md" title="Uglúk">Uglúk</a>&#39;s band and establish a camp called Kufuzg in the Norcrofts of <a href="../R/Rohan.md" title="Rohan">Rohan</a>, where he is found and defeated by the player.</dd></dl>
 

@@ -59,9 +59,9 @@ Số này in lại cáo phó do J.R.R. Tolkien viết trong [1923](../_/1923.md)
     - *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md) và các câu khác từ Sách Đỏ*, bởi J.R.R. Tolkien, được chỉnh sửa bởi Christina Scull và Wayne G. Hammond, được đánh giá bởi Richard C. West
     - *[A Companion to J.R.R. Tolkien](../A/A_Companion_to_J.R.R._Tolkien.md)*, được chỉnh sửa bởi Stuart D. Lee, được đánh giá bởi Jorge Luis Bueno-Alonso
     - *[Tolkien: The Forest and the City](../J/J.R.R._Tolkien%253A_the_Forest_and_the_City.md)*, được chỉnh sửa bởi Helen Conrad-O'Briain và Gerard Hynes, được Patrick Curry đánh giá
-    - *[Tolkien](<Tolkien_(2014_book).md>)*, của Raymond Edwards, được David Bratman đánh giá
+    - *[Tolkien](<Tolkien_(2014_book).md>)*, bởi Raymond Edwards, được đánh giá bởi David Bratman
 
-- Merlin DeTardo, Jason Fisher, David Bratman, Marjorie Burns, John Wm. Houghton và John Magoun, "Công trình nghiên cứu Tolkien của năm 2012"
+- Merlin DeTardo, Jason Fisher, David Bratman, Marjorie Burns, John Wm. Houghton, và John Magoun, "Công trình của năm trong nghiên cứu Tolkien 2012"
 - Rebecca Epstein và David Bratman, "Thư mục (bằng tiếng Anh) năm 2013"
 
 ## Liên kết ngoài {#External_links}

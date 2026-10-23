@@ -68,11 +68,11 @@ Bài xã luận - GoodKnight, Glen H. Managing.
 
 #### Đánh giá {#Reviews}
 
-- *Chúa tể những chiếc nhẫn - Phần 1 (phim)*. Ralph Bakshi. Được đánh giá bởi Jessica Yates.
+- *Chúa tể của những chiếc nhẫn - Phần 1 (phim)*. Ralph Bakshi. Được đánh giá bởi Jessica Yates.
 - *A Reader's Guide to The Silmarillion*. Paul H. Kocher. Được đánh giá bởi Nancy-Lou Patterson.
 - *Dancing in the Dragon's Jaws (album)*. Bruce Cockburn. Được đánh giá bởi Gord Wilson.
 - *Metropolis*. Thea von Harbou. Được đánh giá bởi Thomas M. Egan.
-- *Một chiếc nhẫn trói buộc tất cả: Thần thoại của Tolkien.* Anne C. Petty. Được đánh giá bởi Thomas Santoski.
+- *Một Nhẫn để trói buộc tất cả: Thần thoại của Tolkien.* Anne C. Petty. Được đánh giá bởi Thomas Santoski.
 - *Văn học giả tưởng: Thư mục toàn diện, có chú thích về tiểu thuyết giả tưởng hiện đại*. Roger C. Schlobin. Được đánh giá bởi Joe R. Christopher.
 - *The Screwtape Letters*. C.S. Lewis. Minh họa bởi Papas. Được đánh giá bởi Kathryn Lindskoog.
 

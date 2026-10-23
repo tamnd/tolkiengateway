@@ -17,7 +17,7 @@ categories:
 
 Ví dụ:
 
-- [Ilurambar](../I/Ilurambar.md), "[Những Bức Tường của Thế Giới](../W/Walls_of_the_World.md)"<sup id="cite_ref-bolt_2-0" class="reference"><a href="#cite_note-bolt-2">[2]</a></sup>
+- [Ilurambar](../I/Ilurambar.md), "[Những Bức Tường của Thế giới](../W/Walls_of_the_World.md)"<sup id="cite_ref-bolt_2-0" class="reference"><a href="#cite_note-bolt-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

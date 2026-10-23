@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Roi da nhiều dây" của [Andrea Piparo](../../category/I/Images_by_Andrea_Piparo.md) cho *[War of the Ring: The Card Game](../../main/W/War_of_the_Ring%253A_The_Card_Game.md)*
+"Roi nhiều dây" của [Andrea Piparo](../../category/I/Images_by_Andrea_Piparo.md) cho *[War of the Ring: The Card Game](../../main/W/War_of_the_Ring%253A_The_Card_Game.md)*
 
 ## Giấy phép {#Licensing}
 

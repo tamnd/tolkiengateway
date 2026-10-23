@@ -79,7 +79,7 @@ Sự kiện xảy ra vào ngày 22 tháng 3
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
     - [Borondir](../B/Borondir.md) đang trên đường tìm kiếm [Éothéod](Éothéod.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đội [Đạo quân Phương Tây](../A/Army_of_the_West.md) tiến về phía [Cổng Đen](../B/Black_Gate.md).
+    - Đội [Đạo quân phương Tây](../A/Army_of_the_West.md) tiến về phía [Cổng Đen](../B/Black_Gate.md).
     - [cuộc tấn công](../A/Assaults_on_Lothlórien.md) thứ ba vào [Lothlórien](../L/Lothlórien.md).
     - Màn đêm buông xuống khủng khiếp.
     - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) rời đường và rẽ về phía nam tới [Núi Doom](../M/Mount_Doom.md).

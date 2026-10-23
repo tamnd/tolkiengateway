@@ -43,7 +43,7 @@ infobox:
 
 <i><b>Xa Harad: Vùng đất bị đốt cháy</b></i> là một mô-đun (trong sê-ri *Campaign*) dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, Phiên bản đầu tiên.
 
-Để sử dụng cùng với phần bổ sung này, [Mithril Miniatures](../M/Mithril_Miniatures.md) đã phát hành một bộ mô hình thu nhỏ bằng kim loại (M73 - M82 *Far Harad*).
+Để sử dụng với phần bổ sung này, [Mithril Miniatures](../M/Mithril_Miniatures.md) đã phát hành một bộ mô hình thu nhỏ bằng kim loại (M73 - M82 *Far Harad*).
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 

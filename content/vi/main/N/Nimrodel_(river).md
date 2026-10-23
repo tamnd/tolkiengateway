@@ -58,7 +58,7 @@ infobox:
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Nimrodel_(river).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/28/The_Lord_of_the_Rings_Online_-_Nimrodel_%28river%29.jpg/250px-The_Lord_of_the_Rings_Online_-_Nimrodel_%28river%29.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/28/The_Lord_of_the_Rings_Online_-_Nimrodel_%28river%29.jpg/375px-The_Lord_of_the_Rings_Online_-_Nimrodel_%28river%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/28/The_Lord_of_the_Rings_Online_-_Nimrodel_%28river%29.jpg/500px-The_Lord_of_the_Rings_Online_-_Nimrodel_%28river%29.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The Falls of Nimrodel in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2009: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2009: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The river originates at <a class="mw-redirect" href="../Z/Zirakzigil.md" title="Zirakzigil">Zirakzigil</a> and is known as &#34;Labam-gairu&#34; to the Dwarves. At the Falls of Nimrodel, a statue of <a href="Nimrodel.md" title="Nimrodel">the lady herself</a> is erected on a small island.</dd></dl>
 

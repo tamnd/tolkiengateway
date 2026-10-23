@@ -145,7 +145,7 @@ Trong bản thảo chưa hoàn chỉnh sớm nhất của *The Hobbit*, lời th
 
 <dl><dd>Bofur is omitted. <a href="../T/Thorin.md" title="Thorin">Thorin Oakenshield</a> only travels with an unnamed guard and the princess of Dale.<sup id="cite_ref-Deitch_22-0" class="reference"><a href="#cite_note-Deitch-22">[22]</a></sup></dd></dl>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (1977 film)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>No actor is specified for the role of Bofur. If he does speak, it is only ever in unison with the rest of the Dwarves.</dd></dl>
 

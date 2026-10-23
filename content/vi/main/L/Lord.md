@@ -52,7 +52,7 @@ images:
 - [Chúa tể Moria](Lord_of_Moria.md) ([Người Lùn](../D/Dwarves.md))
 - [Chúa tể của Nargothrond](Lord_of_Nargothrond.md) ([Noldor](../N/Noldor.md))
 - [Chúa tể của Nogrod](Lord_of_Nogrod.md) ([Nogrod](../N/Nogrod.md))
-- [Chúa tể của chiếc nhẫn](<Lord_of_the_Ring_(title).md>)
+- [Chúa tể Nhẫn](<Lord_of_the_Ring_(title).md>)
 - [Chúa tể Rivendell](../E/Elrond.md) ([Noldor](../N/Noldor.md))
 - [Chúa tể Rohan](../K/King_of_Rohan.md) ([Rohan](../R/Rohan.md))
 - [Lãnh chúa của Valar](../V/Valar.md#Names,_hierarchy_and_relationships) ([Valar](../V/Valar.md))

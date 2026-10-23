@@ -79,7 +79,7 @@ categories:
 ## Tài liệu tham khảo văn học {#Literary_references}
 
 - "Khoa học viễn tưởng", thuật ngữ của <a class="extiw" href="http://en.wikipedia.org/wiki/Hugo_Gernsback" title="wikipedia:Hugo Gernsback">Hugo Gernsback</a>.
-- <i><a class="extiw" href="http://en.wikipedia.org/wiki/A_Voyage_to_Arcturus" title="wikipedia:A Voyage to Arcturus">Chuyến du hành đến Arcturus</a></i>, tiểu thuyết của <a class="extiw" href="http://en.wikipedia.org/wiki/David_Lindsay_(novelist)" title="wikipedia:David Lindsay (novelist)">David Lindsay</a>.
+- <i><a class="extiw" href="http://en.wikipedia.org/wiki/A_Voyage_to_Arcturus" title="wikipedia:A Voyage to Arcturus">Chuyến du hành tới Arcturus</a></i>, tiểu thuyết của <a class="extiw" href="http://en.wikipedia.org/wiki/David_Lindsay_(novelist)" title="wikipedia:David Lindsay (novelist)">David Lindsay</a>.
 - <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_First_Men_in_the_Moon" title="wikipedia:The First Men in the Moon">Người đầu tiên Con Người trong Mặt Trăng</a></i> và <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Time_Machine" title="wikipedia:The Time Machine">Cỗ máy thời gian</a></i>, tiểu thuyết của <a class="extiw" href="http://en.wikipedia.org/wiki/H._G._Wells" title="wikipedia:H. G. Wells">H.G. Wells</a>.
     - "Cavorite", một chất hư cấu trong *The First Men in the Moon*.
 - *[The Space Trilogy](The_Space_Trilogy.md)* (chủ yếu là <i><a class="extiw" href="http://en.wikipedia.org/wiki/Out_of_the_Silent_Planet" title="wikipedia:Out of the Silent Planet">Out of the Silent Planet</a></i> và <i><a class="extiw" href="http://en.wikipedia.org/wiki/Perelandra" title="wikipedia:Perelandra">Perelandra</a></i>), một bộ truyện của [C.S. Lewis](../C/C.S._Lewis.md).

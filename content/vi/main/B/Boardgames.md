@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Board games"
 ---
 
-Chuyển hướng tới [Danh mục:Trò chơi trên bàn](../../category/B/Board_games.md).
+Chuyển hướng đến [Danh mục:Trò chơi trên bàn](../../category/B/Board_games.md).

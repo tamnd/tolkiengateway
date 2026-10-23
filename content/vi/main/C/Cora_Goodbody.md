@@ -51,7 +51,7 @@ Cora kết hôn với [Rudolph Bolger](../R/Rudolph_Bolger.md). Họ có một c
 
 ## Từ nguyên {#Etymology}
 
-Cái tên *Cora* không có ý nghĩa gì trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md)đương đại. Nó đại diện cho tên gốc *Coro* hoặc *Core*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Cái tên *Cora* không có ý nghĩa gì trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md)đương thời. Nó đại diện cho tên gốc *Coro* hoặc *Core*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

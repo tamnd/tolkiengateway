@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Seven of Cups" ([Palantíri](../../main/P/Palantíri.md)) - *[The Lord of the Rings Tarot](../../main/T/The_Lord_of_the_Rings_Tarot.md)* minh họa của [Peter Pracownik](../../main/P/Peter_Pracownik.md)
+"Seven of Cups" ([Palantíri](../../main/P/Palantíri.md)) - *[The Lord of the Rings Tarot](../../main/T/The_Lord_of_the_Rings_Tarot.md)* minh họa bởi [Peter Pracownik](../../main/P/Peter_Pracownik.md)
 
 ## Giấy phép {#Licensing}
 

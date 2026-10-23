@@ -48,7 +48,7 @@ infobox:
 - Reynolds, Patricia. “Nhìn về phía trước từ tòa tháp: Mối quan hệ của bóng tối Kỷ nguyên ở Bắc Âu với văn học giả tưởng.”
 - Trùm đầu, Gwenyth. “Sauron và Dracula.”
 - Người quay phim, Kath. “Từ Belbury đến Bernt-arse: Lời hùng biện của vùng đất hoang ở Lewis, Orwell và Hoban.”
-- Rogers, Deborah Webster. “Khốn khổ yêu… Căn nguyên của tội ác.”
+- Rogers, Deborah Webster. “Khốn khổ yêu… Một Gốc nhân vật phản diện.”
 - Gardiner-Scott, Tanya. “Giải phóng trí nhớ: Chủ nghĩa hiện thực tuyệt vời của Mervyn Peake.”
 - Ngư dân, Matt. “Maskull và tiền chuộc: Đêm tối của linh hồn.”
 - Spivak, Charlotte. “Hình ảnh của Thần trong tiểu thuyết của Clive Staples Lewis.”
@@ -69,7 +69,7 @@ infobox:
 #### Đánh giá {#Reviews}
 
 - *The Lost Road and Other Writings.* J.R.R. Tolkien. Được đánh giá bởi Taum Santoski.
-- *Bảy: Tạp chí văn học Anh-Mỹ, Tập. 8.* Beatrice Batson, David S. Robb, John Coates, Diane Edwards, Gwenyth E. Hood, George Musacchio, Brian G. Marsden, Stephen Medcalf. Được đánh giá bởi Nancy-Lou Patterson.
+- *Bảy: Một bài phê bình văn học Anh-Mỹ, Tập. 8.* Beatrice Batson, David S. Robb, John Coates, Diane Edwards, Gwenyth E. Hood, George Musacchio, Brian G. Marsden, Stephen Medcalf. Được đánh giá bởi Nancy-Lou Patterson.
 - *Gesellschaft fur Literatur und Aesthetic.* Gisbert Kranz. Được đánh giá bởi Christine Lowentrout.
 - *C.S. Lewis and His World.* David Barratt. Được đánh giá bởi Nancy-Lou Patterson.
 

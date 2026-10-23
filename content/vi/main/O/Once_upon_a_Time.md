@@ -25,7 +25,7 @@ Trong [2013](../_/2013.md), bài thơ được đăng trong [*Tolkien Studies*: 
 
 Trong [2014](../_/2014.md), nó được đưa vào phiên bản mở rộng của *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)*, được biên tập bởi [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md).
 
-Trong [2024](../_/2024.md), nó xuất hiện trong tập đầu tiên của [Những bài thơ sưu tầm của J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md), cùng với lời bình của các biên tập viên [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [2024](../_/2024.md), nó xuất hiện trong tập đầu tiên của [The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md), cùng với lời bình của các biên tập viên [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -42,7 +42,7 @@ Trong [2024](../_/2024.md), nó xuất hiện trong tập đầu tiên của [Nh
 
 ## Xem thêm {#See_also}
 
-- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 <span></span>
 

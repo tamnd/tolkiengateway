@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yavannildi"
 ---
 
-Chuyển hướng đến [Yavannildi](../Y/Yavannildi.md).
+Chuyển hướng tới [Yavannildi](../Y/Yavannildi.md).

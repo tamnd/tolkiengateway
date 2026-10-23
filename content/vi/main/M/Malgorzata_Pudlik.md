@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Małgorzata Pudlik"
 ---
 
-Chuyển hướng đến [Małgorzata Pudlik](Małgorzata_Pudlik.md).
+Chuyển hướng tới [Małgorzata Pudlik](Małgorzata_Pudlik.md).

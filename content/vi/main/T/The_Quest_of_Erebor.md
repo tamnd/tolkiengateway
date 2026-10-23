@@ -65,7 +65,7 @@ images:
 
 ## Nền {#Background}
 
-**Truy tìm Erebor** (cũng như [Cuộc săn tìm chiếc nhẫn](The_Hunt_for_the_Ring.md)) ban đầu được viết giữa [1954](../_/1954.md)-[1955](../_/1955.md) để trở thành một phần của [Phụ lục](../A/Appendices.md) cho *[The Lord of the Rings](The_Lord_of_the_Rings.md)* nhưng Tolkien buộc phải bỏ qua vì thiếu chỗ,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và chỉ có một phiên bản rất rút gọn của câu chuyện xuất hiện trong Phụ lục. Tác phẩm được viết ở ngôi thứ nhất, dưới góc nhìn của [Frodo Baggins](../F/Frodo_Baggins.md), tuy nhiên gần như toàn bộ văn bản đều có lời kể của Gandalf, người kể câu chuyện theo yêu cầu của Frodo vào [Minas Tirith](../M/Minas_Tirith.md) sau lễ đăng quang của [Vua Elessar](../A/Aragorn.md).
+**Nhiệm vụ của Erebor** (cũng như [Cuộc săn lùng Nhẫn](The_Hunt_for_the_Ring.md)) ban đầu được viết giữa [1954](../_/1954.md)-[1955](../_/1955.md) để trở thành một phần của [Phụ lục](../A/Appendices.md) đến *[The Lord of the Rings](The_Lord_of_the_Rings.md)* nhưng Tolkien buộc phải bỏ qua vì thiếu chỗ,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và chỉ có một phiên bản rất rút gọn của câu chuyện xảy ra trong Phụ lục. Tác phẩm được viết ở ngôi thứ nhất, dưới góc nhìn của [Frodo Baggins](../F/Frodo_Baggins.md), tuy nhiên gần như toàn bộ văn bản đều có lời kể của Gandalf, người kể câu chuyện theo yêu cầu của Frodo vào [Minas Tirith](../M/Minas_Tirith.md) sau lễ đăng quang của [Vua Elessar](../A/Aragorn.md).
 
 ## Tóm tắt {#Synopsis}
 

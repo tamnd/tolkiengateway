@@ -58,7 +58,7 @@ infobox:
 - Báo cáo: Đi cùng các nàng tiên
     - Bởi: Lynn Forest-Hill
 - Quảng cáo: Hiệp hội Chesterton Hoa Kỳ
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- Cái [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Cuộc đấu thầu của trục chiến tranh
     - Bởi: Michael Cunningham

@@ -58,7 +58,7 @@ infobox:
 - Ngày ghi nhật ký của bạn
 - Thông báo
 - Thông báo ĐHĐCĐ
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- Cái [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Tác phẩm: *[Bilbo Baggins](../B/Bilbo_Baggins.md)* (và cuốn sách của anh ấy)
     - Bởi [Jef Murray](../J/Jef_Murray.md)
@@ -83,7 +83,7 @@ infobox:
     - Bởi: Mike Austin Johnson
 - Tác phẩm nghệ thuật: *[Misty Mountain](../M/Misty_Mountains.md) [Goblins](../O/Orcs.md)*
     - Bởi: Mike Austin Johnson
-- Vai trò của [Aragorn](Aragorn.md) trong việc phá hủy [Chiếc nhẫn](../T/The_One_Ring.md)
+- Vai trò của [Aragorn](Aragorn.md) trong việc phá hủy [ Nhẫn](../T/The_One_Ring.md)
     - Bởi: Angela Nicholas
 - Đánh giá: *[J.R.R. Tolkien Encyclopedia](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md); [Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*
     - Bởi: [David Doughan](../D/David_Doughan.md)
@@ -103,6 +103,6 @@ infobox:
 - Thành viên mới
 - Hồ sơ thành viên
     - Adrian Tucker
-- Truyện dân gian/Ủy ban
+- Truyện dân ca/Ủy ban
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 202</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_202.md" title="Amon Hen 202">Amon Hen 202</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 203</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 204</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_204.md" title="Amon Hen 204">Amon Hen 204</a></div></div></div>

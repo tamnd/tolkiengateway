@@ -281,7 +281,7 @@ Nhiều điểm tương đồng đã được đề xuất giữa <a class="exti
 
 <dl><dd><a href="../E/Erik_Bauersfeld.md" title="Erik Bauersfeld">Erik Bauersfeld</a> provided the voice of Boromir.</dd></dl>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (1981 radio series)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
 <dl><dd>Cox reprised his role of Boromir. In the meantime, he learned to pronounce Elvish words correctly: he came from &#34;My Nasty Rith&#34; in Bakshi&#39;s film, but he uses the correct pronunciation here.</dd></dl>
 
@@ -309,15 +309,15 @@ Nhiều điểm tương đồng đã được đề xuất giữa <a class="exti
 
 <dl><dd>The voice of Boromir is provided by Jozef Vajda. The same actor also portrayed Boromir&#39;s brother Faramir later in the radio series.</dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
 
 <dl><dd>Boromir is the Hero unit of the Gondor faction and also appears in the storyline campaign. In a notable deviation from the original story, the player may save Boromir on Amon Hen, in which case he will accompany the Three Hunters into Rohan, participate in the <a href="Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Battle of the Hornburg</a> and late journey with Gandalf and Pippin back to Gondor. He will also fight during the Siege of Gondor and participate in the last stand of the Men of the West in the Battle of Morannon.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
 <dl><dd>Boromir is now the Hero of the Men of the West faction.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The players first meet Boromir in Rivendell and later again during the Fellowship&#39;s stay in Lothlorien. He can also be played during his stand against the Uruk-hai at Parth Galen.</dd></dl>
 

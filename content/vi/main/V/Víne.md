@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vínë"
 ---
 
-Chuyển hướng đến [Vínë](Vínë.md).
+Chuyển hướng tới [Vínë](Vínë.md).

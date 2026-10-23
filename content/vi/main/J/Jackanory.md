@@ -48,7 +48,7 @@ Chương trình thứ 3.000 bắt đầu phần trình bày đặc biệt gồm 
 
 ### Các tập {#Episodes}
 
-Mười tập được phát sóng trên kênh BBC1, các ngày trong tuần từ 4:25 đến 4:40 chiều.
+Mười tập được phát sóng trên kênh BBC1 các ngày trong tuần từ 4:25 đến 4:40 chiều.
 
 1. [Ngày 1 tháng 10](../_/1_October.md): *An Unexpected Party*
 2. [Ngày 2 tháng 10](../_/2_October.md): *Over Hill and Under Hill*

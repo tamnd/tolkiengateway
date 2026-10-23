@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*Gandalf: A Friend To Remember* của [Tom Cross](../../main/T/Tom_Cross.md).
+*Gandalf: A Friend To Remember* bởi [Tom Cross](../../main/T/Tom_Cross.md).
 
 ## Giấy phép {#Licensing}
 

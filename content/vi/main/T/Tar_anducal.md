@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Anducal"
 ---
 
-Chuyển hướng đến [Tar-Anducal](Tar-Anducal.md).
+Chuyển hướng tới [Tar-Anducal](Tar-Anducal.md).

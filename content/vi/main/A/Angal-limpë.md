@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mirrormere"
 ---
 
-Chuyển hướng tới [Mirrormere](../M/Mirrormere.md).
+Chuyển hướng đến [Mirrormere](../M/Mirrormere.md).

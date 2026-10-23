@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Chi tiết bức tranh "[Bậc thầy của Brandy Hall, S.R. 1440](Miriam_Ellis_-_The_Master_of_Brandy_Hall,_S.R._1440.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), miêu tả [Estella Bolger](../../main/E/Estella_Bolger.md)
+Chi tiết "[The Chủ nhân of Brandy Hall, S.R. 1440](Miriam_Ellis_-_The_Master_of_Brandy_Hall,_S.R._1440.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), mô tả [Estella Bolger](../../main/E/Estella_Bolger.md)
 
 ## Giấy phép {#Licensing}
 

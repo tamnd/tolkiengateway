@@ -24,7 +24,7 @@ file:
   user: "Ederchil"
 ---
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>The copyright for this file has expired according to the law of this work&#39;s nation/territory of origin; it is therefore in the <b><a class="extiw" href="http://en.wikipedia.org/wiki/Public_domain" title="wikipedia:Public domain"><span class="licensetpl_short">public domain</span></a></b>.

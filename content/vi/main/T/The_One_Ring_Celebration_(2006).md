@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The One Ring Celebration"
 ---
 
-Chuyển hướng đến [Lễ kỷ niệm một chiếc nhẫn](The_One_Ring_Celebration.md).
+Chuyển hướng đến [Chiếc nhẫn duy nhất Lễ kỷ niệm](The_One_Ring_Celebration.md).

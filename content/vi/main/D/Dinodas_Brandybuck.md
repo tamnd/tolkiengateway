@@ -56,7 +56,7 @@ Dinodas là con thứ sáu và là con trai út của [Gorbadoc Brandybuck](../G
 
 [Jim Allan](../J/Jim_Allan.md) gợi ý rằng tên *Dinodas* là sự sắp xếp lại của tên *[Dodinas](Dodinas_Brandybuck.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-*Dodynas* và *Dinodes* đều là cách viết thay thế của Table Knight Sir Dodinas le Savage.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+*Dodynas* và *Dinodes* đều là cách viết thay thế của Hiệp sĩ Bàn Sir Dodinas le Savage.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

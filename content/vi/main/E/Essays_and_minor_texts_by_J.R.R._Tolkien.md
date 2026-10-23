@@ -150,7 +150,7 @@ Chắc chắn là có rất nhiều phương tiện truyền thông khác có nh
 
 Đầu tiên là hình cầu trướcTolkien. Đây thực tế là toàn bộ thế giới vào thời điểm Tolkien chuẩn bị lấy đi cơ thể vật lý của anh ấy. Nó chứa đựng tất cả những nội dung, thông tin và ảnh hưởng mà sau này anh ta sẽ tiếp thu và hình thành trong suy nghĩ của mình. Nó cũng bao gồm bản ngã tái sinh của chính Tolkien và tất cả những trải nghiệm trong quá khứ của anh ta.
 
-Tiếp theo là tất cả những suy nghĩ của Tolkien trong cuộc sống vật chất của mình. Điều này hoàn toàn dựa trên lớp trước, cộng với tất cả những kinh nghiệm mà anh ta đã tích lũy được trong lần tái sinh này. Ở lớp này, chúng không ở bất kỳ dạng vật lý nào nhưng có thể được truy cập hoàn hảo trong hồ sơ Akashic.
+Tiếp theo là tất cả những suy nghĩ của Tolkien trong cuộc sống trần thế. Điều này hoàn toàn dựa trên lớp trước, cộng với tất cả những kinh nghiệm mà anh ta đã tích lũy được trong lần tái sinh này. Ở lớp này, chúng không ở bất kỳ dạng vật lý nào nhưng có thể được truy cập hoàn hảo trong hồ sơ Akashic.
 
 Tiếp theo là tất cả các tài liệu bằng văn bản của mình. Điều này bao gồm bất cứ điều gì anh ấy đã từng viết ra hoặc vẽ trên bất kỳ bề mặt nào bằng bất kỳ công cụ viết nào. Có thể hiểu được, phần lớn trong số chúng đã bị mất hoặc bị phá hủy từ lâu. Tuy nhiên, chúng vẫn có sẵn trong hồ sơ.
 

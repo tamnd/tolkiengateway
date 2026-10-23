@@ -67,7 +67,7 @@ Trò chơi khám phá một câu chuyện nguyên bản, chưa từng được k
 - [Cờ bạc](../G/Gamling.md)
 - [Gimli](../G/Gimli.md)
 - [Legolas](../L/Legolas.md)
-- [Merry Rượu Brandybuck](../M/Merry_Brandybuck.md)
+- [Merry Brandybuck](../M/Merry_Brandybuck.md)
 - [Pippin Đã thực hiện](../P/Pippin_Took.md)
 - [Samwise Gamgee](../S/Samwise_Gamgee.md)
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dúnhere"
 ---
 
-Chuyển hướng đến [Dúnhere](Dúnhere.md).
+Chuyển hướng tới [Dúnhere](Dúnhere.md).

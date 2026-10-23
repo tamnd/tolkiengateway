@@ -34,7 +34,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Lugburz</b></i> là ca khúc thứ hai trong album [Minas Morgul](<../M/Minas_Morgul_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [Lugbúrz](../B/Barad-dûr.md), nghĩa là "*dark tower*" trong [Hắc Ngữ](../B/Black_Speech.md), ám chỉ [Barad-dûr](../B/Barad-dûr.md). Lời bài hát trích dẫn trực tiếp [câu thần chú](../C/Cold_be_hand_and_heart_and_bone,.md) được niệm bởi một [Barrow-wight](../B/Barrow-wights.md), người đã mắc kẹt [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md), [Pippin](../P/Peregrin_Took.md) và [Merry](../M/Meriadoc_Brandybuck.md) trong [Sương mù trên chương Barrow-downs](../F/Fog_on_the_Barrow-downs.md) của [The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md).
+<i><b>Lugburz</b></i> là ca khúc thứ hai trong album [Minas Morgul](<../M/Minas_Morgul_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [Lugbúrz](../B/Barad-dûr.md), nghĩa là "*dark tower*" trong [Hắc Ngữ](../B/Black_Speech.md), ám chỉ [Barad-dûr](../B/Barad-dûr.md). Lời bài hát trích dẫn trực tiếp [câu thần chú](../C/Cold_be_hand_and_heart_and_bone,.md) được niệm bởi một [Barrow-wight](../B/Barrow-wights.md) người đã mắc kẹt [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md), [Pippin](../P/Peregrin_Took.md) và [Merry](../M/Meriadoc_Brandybuck.md) trong [Sương mù trên chương Barrow-downs](../F/Fog_on_the_Barrow-downs.md) của [The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md).
 
 ## Lời bài hát {#Lyrics}
 

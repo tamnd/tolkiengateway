@@ -41,7 +41,7 @@ infobox:
 
 Sau [Trận chiến nước mắt không đếm được](../N/Nirnaeth_Arnoediad.md), [Melko](../M/Morgoth.md) đã tạo ra cồng chiêng<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> mang hình ảnh [Con Người](../M/Men.md) và [Tiên tộc](../E/Elves.md) nhằm lừa dối và phản bội Con Người.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
-[Mîm](../M/Mîm.md) [tiểu lùn](../P/Petty-dwarves.md) chỉ huy đội cận vệ Orc và Cồng chiêng bảo vệ kho báu của [Glorund](Glaurung.md) tại [Nargothrond](../N/Nargothrond.md). Họ đã bị giết bởi [Húrin](../H/Húrin.md) và đồng bọn của anh ta.<sup id="cite_ref-Gongs_4-0" class="reference"><a href="#cite_note-Gongs-4">[3]</a></sup>
+[Mîm](../M/Mîm.md) chú [tiểu lùn](../P/Petty-dwarves.md) chỉ huy đội quân Orc và cồng chiêng bảo vệ kho báu của [Glorund](Glaurung.md) tại [Nargothrond](../N/Nargothrond.md). Họ đã bị giết bởi [Húrin](../H/Húrin.md) và đồng bọn của anh ta.<sup id="cite_ref-Gongs_4-0" class="reference"><a href="#cite_note-Gongs-4">[3]</a></sup>
 
 Không lâu sau, một nhóm Gong đã cướp phá [Linwë](../T/Thingol.md) [sảnh](../M/Menegroth.md), giết Linwë, cướp số vàng bị nguyền rủa rồi bỏ trốn thật xa. Tuy nhiên, họ bị tấn công bởi [Beren Ermabwed](../B/Beren.md), buộc vàng và [Silmaril](../S/Silmarils.md) rơi xuống sông [Sirion](../S/Sirion.md), mặc dù Silmaril cuối cùng đã được tìm thấy bị [Nauglath](../D/Dwarves.md) cuốn trôi.<sup id="cite_ref-Gongs_4-1" class="reference"><a href="#cite_note-Gongs-4">[3]</a></sup>
 

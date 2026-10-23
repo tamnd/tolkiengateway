@@ -29,11 +29,11 @@ langlinks:
     url: "https://kontu.wiki/Bolger"
 ---
 
-**Gia đình Bolger** là một gia đình Hobbit có nguồn gốc [Fallohidish](../F/Fallohides.md)<sup id="cite_ref-trans_1-0" class="reference"><a href="#cite_note-trans-1">[1]</a></sup> gắn liền với ngôi làng [Budgeford](Budgeford.md), trên [The Water](../T/The_Water.md) ở [Eastfarthing](../E/Eastfarthing.md) của [Shire](../T/The_Shire.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Điểm chung với [Brandybucks](Brandybuck_Family~66350.md) và [Tooks](../T/Took_Family.md), Bolgers có thiên hướng đặt những cái tên anh hùng,<sup id="cite_ref-trans_1-1" class="reference"><a href="#cite_note-trans-1">[1]</a></sup> và cũng như [Fredegar](../F/Fredegar_Bolger.md), chúng tôi tìm thấy những cái tên cao quý như [Fastolph](../F/Fastolph_Bolger.md), [Gundabald](../G/Gundabald_Bolger.md) và [Odovacar](../O/Odovacar_Bolger.md).
+**Gia đình Bolger** là một gia đình Hobbit có nguồn gốc [Fallohidish](../F/Fallohides.md)<sup id="cite_ref-trans_1-0" class="reference"><a href="#cite_note-trans-1">[1]</a></sup> gắn liền với ngôi làng [Budgeford](Budgeford.md), trên [The Water](../T/The_Water.md) ở [Eastfarthing](../E/Eastfarthing.md) của [the Shire](../T/The_Shire.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Điểm chung với [Brandybucks](Brandybuck_Family~66350.md) và [Tooks](../T/Took_Family.md), Bolgers có thiên hướng đặt những cái tên anh hùng,<sup id="cite_ref-trans_1-1" class="reference"><a href="#cite_note-trans-1">[1]</a></sup> và cũng như [Fredegar](../F/Fredegar_Bolger.md), chúng tôi tìm thấy những cái tên cao quý như [Fastolph](../F/Fastolph_Bolger.md), [Gundabald](../G/Gundabald_Bolger.md) và [Odovacar](../O/Odovacar_Bolger.md).
 
 ## Từ nguyên {#Etymology}
 
-Cái tên **Bolger** ám chỉ đến kích thước "phình to" của bụng Hobbit trung bình, ám chỉ độ béo và hình ống của chúng và có lẽ bắt đầu như một biệt hiệu.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Cái tên **Bolger** ám chỉ đến kích thước "phình to" của bụng Hobbit trung bình, ám chỉ độ béo và hình ống của chúng và có lẽ bắt đầu như một biệt danh.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Cả Bolger và Bulger đều là họ tiếng Anh ngoài đời thực mặc dù không nhất thiết phải có cùng một từ nguyên.
 

@@ -42,7 +42,7 @@ infobox:
 
 Miaulë là đầu bếp làm việc trong những căn bếp tuyệt vời của Tevildo, có mái vòm rộng rãi và có ít nhất một ngọn lửa lớn. Cô giám sát công việc của Tevildo thợ rửa bát.<sup id="cite_ref-tales_1-1" class="reference"><a href="#cite_note-tales-1">[1]</a></sup>
 
-Khi gặp [Beren](../B/Beren.md) lần đầu tiên, Tevildo đã biến anh thành người nấu ăn dưới sự giám sát của Miaulë sau khi Beren trượt một bài kiểm tra khó. Sự giám sát của Miaulë đối với anh ta khốn khổ đến mức Beren cuối cùng ước rằng mình chưa bao giờ nhìn thấy [Tinúviel](../L/Lúthien.md).<sup id="cite_ref-tales_1-2" class="reference"><a href="#cite_note-tales-1">[1]</a></sup>
+Khi gặp [Beren](../B/Beren.md) lần đầu tiên, Tevildo đã biến anh thành người nấu ăn dưới sự giám sát của Miaulë sau khi Beren trượt một bài kiểm tra khó. Sự giám sát của Miaulë đối với anh khốn khổ đến mức Beren cuối cùng ước rằng mình chưa bao giờ nhìn thấy [Tinúviel](../L/Lúthien.md).<sup id="cite_ref-tales_1-2" class="reference"><a href="#cite_note-tales-1">[1]</a></sup>
 
 Một thời gian sau, khi [Umuiyan](../U/Umuiyan.md) dẫn Tinúviel lên vách đá, Tevildo đưa cô đến phòng ăn cạnh căn bếp lớn trong sảnh của anh. Tinúviel đã có thể nhìn thoáng qua Beren và nhiều con mèo, có thể bao gồm cả Miaulë. Khi Tinúviel bắt đầu nói chuyện với Tevildo, Beren đã nghe thấy giọng nói của cô, khiến anh vô tình làm rơi một lượng kim loại và bình đất nung không xác định. Miaulë trừng phạt anh ta bằng những vết xước âm thanh.<sup id="cite_ref-tales_1-3" class="reference"><a href="#cite_note-tales-1">[1]</a></sup>
 

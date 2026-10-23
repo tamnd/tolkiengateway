@@ -208,7 +208,7 @@ Trong phiên bản đầu tiên của *[The Hobbit](../T/The_Hobbit.md)*, chính
 
 <dl><dd>Dwalin is omitted. <a href="../T/Thorin.md" title="Thorin">Thorin Oakenshield</a> only travels with an unnamed guard and the princess of Dale.<sup id="cite_ref-Deitch_19-0" class="reference"><a href="#cite_note-Deitch-19">[19]</a></sup></dd></dl>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (1977 film)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>Dwalin does not have a blue beard, but a white one with a long nose and a green hood (looking as Balin, though he wears a red hood and glasses). He speaks only one line on his own (by <a href="../P/Paul_Frees.md" title="Paul Frees">Paul Frees</a>), when the Dwarves are in front of the <a href="../B/Back_Door.md" title="Back Door">Back Door</a> saying&#34; &#34;Well, what now?&#34;; otherwise, he only speaks in unison with the rest of the Company though it is unknown whether he survived the Battle of the Five Armies, as seven dwarves passed away during the battle.</dd></dl>
 
@@ -250,13 +250,13 @@ Nổi tiếng là một Chiến binh vĩ đại, Dwalin luôn thẳng thắn bà
 
 <dl><dd>Dwalin is a blue-bearded Dwarf, who is not seen in the game (other than cut-scenes) until <a href="../L/Lake-town.md" title="Lake-town">Lake-town</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>In <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3016.md" title="Third Age 3016">3016</a>, during the default introduction for new Dwarf and Elf player characters, Dwalin leads a party of dwarves from the <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Lonely Mountain</a> to <a class="mw-redirect" href="../T/Thorin&#39;s_Halls.md" title="Thorin&#39;s Halls">Thorin&#39;s Hall</a> to investigate why the Steward appointed by Thorin, Gormr Doursmith of the <a href="Dourhands.md" title="Dourhands">Dourhands</a>, has ceased sending tribute to <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a>. After the Dourhands&#39; treachery is revealed and they are expelled, Dwalin becomes the new Steward of Thorin&#39;s Hall and maintains this position through the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a>.</dd></dl>
 
 <dl><dd>Following the <a class="mw-redirect" href="../S/Siege_of_Erebor.md" title="Siege of Erebor">Siege of Erebor</a>, Dwalin travels to Erebor to pay respect to the new king <a href="../T/Thorin_Stonehelm.md" title="Thorin Stonehelm">Thorin Stonehelm</a> and, along with the other surviving dwarves of the <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Company</a>, visits the tomb of <a class="mw-redirect" href="../T/Thorin_Oakenshield.md" title="Thorin Oakenshield">Thorin Oakenshield</a>.</dd></dl>
 
-<b>2021: <i><a href="../T/The_Lord_of_the_Rings%253A_Rise_to_War.md" title="The Lord of the Rings: Rise to War">The Lord of the Rings: Rise to War</a></i>:</b>
+<b>2021: <i><a href="../T/The_Lord_of_the_Rings%253A_Rise_to_War.md" title="The Lord of the Rings: Rise to War">The Lord of the Rings: Nổi lên chiến tranh</a></i>:</b>
 
 <dl><dd>If the player chooses the Erebor faction at the start of the game, Dwalin will be received as part of the game&#39;s tutorial.</dd></dl>
 

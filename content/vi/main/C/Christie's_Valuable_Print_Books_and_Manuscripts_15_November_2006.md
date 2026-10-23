@@ -28,7 +28,7 @@ infobox:
 
 <i><b>Sách in và bản thảo có giá trị của Christie ngày 15 tháng 11 năm 2006</b></i> là một danh mục đấu giá của Christie's. Lô 152 (tr. 116) bao gồm một bộ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được khắc bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)năm 1966/1967/1967, cùng với một trang ví dụ về chữ viết [Elvish](../E/Elvish.md) và ghi chú.
 
-Bản khắc của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* là bản sao Tolkien được thấy ghi trong bộ phim tài liệu *[Tolkien in Oxford](../T/Tolkien_in_Oxford.md)*của BBC năm 1968. Dòng chữ [tengwar](../T/Tengwar.md) có nội dung: *Elen síla lúmenna omentielvo* ("Một ngôi sao tỏa sáng vào giờ chúng ta gặp mặt").
+Bản khắc của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* là bản sao mà Tolkien được thấy ghi trong bộ phim tài liệu BBC năm 1968 *[Tolkien in Oxford](../T/Tolkien_in_Oxford.md)*. Dòng chữ [tengwar](../T/Tengwar.md) có nội dung: *Elen síla lúmenna omentielvo* ("Một ngôi sao tỏa sáng vào giờ chúng ta gặp mặt").
 
 Trang ví dụ về tengwar lặp lại tiêu đề của bộ phim tài liệu ba lần: lần đầu tiên là phiên âm tiếng Anh, trong khi lần thứ hai và thứ ba là bản dịch sang [Quenya](../Q/Quenya.md) - [Arcastar](../A/Arcastar.md) Mondósaresse. Ba dòng tengwar được kèm theo những ghi chú giải thích.
 

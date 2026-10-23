@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:France"
 ---
 
-Chuyển hướng tới [Danh mục:Pháp](../../category/F/France.md).
+Chuyển hướng đến [Danh mục:Pháp](../../category/F/France.md).

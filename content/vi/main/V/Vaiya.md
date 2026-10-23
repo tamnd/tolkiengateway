@@ -24,15 +24,15 @@ langlinks:
     url: "https://kontu.wiki/Vaiya"
 ---
 
-**Vaiya** ([Q](../Q/Quenya.md), phát âm <span title="Pronunciation in IPA" class="IPA">[ˈvaɪja]</span>), hoặc **Vaia** (phát âm <span title="Pronunciation in IPA" class="IPA">[ˈvaɪ.a]</span>) hoặc **Waia** (phát âm. <span title="Pronunciation in IPA" class="IPA">[ˈwaɪ.a]</span>) là vùng biển đen tối bao quanh thế giới [Arda](../A/Arda.md) trước trận đại hồng thủy vào cuối [Kỷ nguyên thứ hai](../S/Second_Age.md). Vaiya được bao bọc trong [Ilurambar](../I/Ilurambar.md), [Những Bức Tường của Thế Giới](../W/Walls_of_the_World.md)và bên ngoài chúng là [Hư Không](Void.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Vaiya** ([Q](../Q/Quenya.md), phát âm <span title="Pronunciation in IPA" class="IPA">[ˈvaɪja]</span>), hoặc **Vaia** (phát âm <span title="Pronunciation in IPA" class="IPA">[ˈvaɪ.a]</span>) hoặc **Waia** (phát âm. <span title="Pronunciation in IPA" class="IPA">[ˈwaɪ.a]</span>) là vùng biển đen tối bao quanh thế giới [Arda](../A/Arda.md) trước trận đại hồng thủy vào cuối [Kỷ nguyên thứ hai](../S/Second_Age.md). Vaiya được bao bọc trong [Ilurambar](../I/Ilurambar.md), [Những Bức Tường của Thế giới](../W/Walls_of_the_World.md)và bên ngoài chúng là [Hư Không](Void.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Vaiya chảy hoàn toàn khắp thế giới, tạo thành một vùng biển bên dưới nó và một dạng không khí phía trên nó. Vùng nước của Biển Nội thực chất là sự kết hợp của các chất Vaiya, [Ilmen](../I/Ilmen.md) và [Ambar](../A/Ambar.md). Thế giới được mô tả là trôi nổi trên Vaiya, giống như một con tàu trên biển. [Ulmo](../U/Ulmo.md) Chúa tể của Nước ngự ở Vaiya, bên dưới cội nguồn của Ambar, [Martalmar](../M/Martalmar.md).<sup id="cite_ref-fashion_2-0" class="reference"><a href="#cite_note-fashion-2">[2]</a></sup>
+Vaiya chảy hoàn toàn khắp thế giới, tạo thành một vùng biển bên dưới nó và một dạng không khí phía trên nó. Nước của Biển Nội thực chất là sự kết hợp của các chất Vaiya, [Ilmen](../I/Ilmen.md) và [Ambar](../A/Ambar.md). Thế giới được mô tả là trôi nổi trên Vaiya, giống như một con tàu trên biển. [Ulmo](../U/Ulmo.md) Chúa tể của Nước ngự ở Vaiya, bên dưới cội nguồn của Ambar, [Martalmar](../M/Martalmar.md).<sup id="cite_ref-fashion_2-0" class="reference"><a href="#cite_note-fashion-2">[2]</a></sup>
 
 Vaiya hẹp ở Phương Tây và phương Đông thế giới, sâu nhất ở phía Bắc và phía Nam. Vaiya được mô tả là cực kỳ lạnh giá: nơi các vùng biển bên trong đổ xuống [Vực thẳm Ilmen](../C/Chasm_of_Ilmen.md), các thác nước của chúng tạo thành những cây cầu băng đóng kín vực sâu. Băng mở rộng đến tất cả Vaiya và thậm chí cả Ilurambar.<sup id="cite_ref-fashion_2-1" class="reference"><a href="#cite_note-fashion-2">[2]</a></sup> [Mặt Trời](../S/Sun.md) đi qua Vaiya trên đường đi vòng quanh thế giới, làm nó ấm lên khi đi qua.
 
 Sau khi Arda được [làm tròn](../C/Changing_of_the_World.md), Vaiya trở thành bầu khí quyển phía trên của thế giới hình cầu.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Lớp "không khí" tiếp theo, bên trong Vaiya, là [Ilmen](../I/Ilmen.md) và lớp cuối cùng, gần bề mặt nhất, là [Vista](Vista.md).<sup id="cite_ref-fashion_2-2" class="reference"><a href="#cite_note-fashion-2">[2]</a></sup>
+Lớp "không khí" tiếp theo, bên trong Vaiya, là [Ilmen](../I/Ilmen.md)và lớp cuối cùng, gần bề mặt nhất, là [Vista](Vista.md).<sup id="cite_ref-fashion_2-2" class="reference"><a href="#cite_note-fashion-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

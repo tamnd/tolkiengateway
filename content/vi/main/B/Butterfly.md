@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Butterflies"
 ---
 
-Chuyển hướng đến [Bướm](Butterflies.md).
+Chuyển hướng tới [Bướm](Butterflies.md).

@@ -54,7 +54,7 @@ Gandalf đảm bảo Pippin còn sống trước khi hỏi anh ta đã nhìn th�
 
 Khi Gandalf sẵn sàng [Shadowfax](../S/Shadowfax.md), Merry cố gắng giải thích cho Pippin rằng, vì anh ấy đã nhìn vào palantír nên Sauron sẽ tìm kiếm anh ấy. Merry đưa cho anh ấy chiếc [Chiếc lá đáy dài](../L/Longbottom_Leaf.md) cuối cùng và Pippin yêu cầu anh ấy trấn an rằng họ sẽ gặp lại nhau. Merry đưa ánh mắt ngờ vực với Gandalf trước khi nói rằng anh ấy không biết chuyện gì sẽ xảy ra.
 
-Merry và Aragorn xem Gandalf và Pippin khởi hành trên Shadowfax. Aragorn an ủi người hobbit rằng "Một điều tôi đã học được về người hobbit: họ là những người cứng rắn nhất". "Có thể là ngu ngốc. Anh ấy là Took!" Merry nói ngược lại.
+Merry và Aragorn theo dõi Gandalf và Pippin khởi hành vào Shadowfax. Aragorn an ủi người hobbit, nói rằng "Một điều tôi đã học được về người hobbit: họ là những người cứng rắn nhất". "Có thể là ngu ngốc. Anh ấy là Took!" Merry nói ngược lại.
 
 ## Sự khác biệt {#Differences}
 

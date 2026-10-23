@@ -29,7 +29,7 @@ images:
 
 ## Mô tả {#Description}
 
-Hình minh họa đường đi qua [Hobbiton](../H/Hobbiton.md) đến [Bagshot Row](../B/Bagshot_Row.md) và [Hobbiton Hill](../H/Hobbiton_Hill.md). Ngay bên dưới Đồi là [Cây Đảng](../P/Party_Tree.md). Ở phía trước được mô tả [The Water](The_Water.md) và [Nhà máy cũ](../O/Old_Mill.md). Ở trung tâm là [Old Grange](../O/Old_Grange.md). Ở phía xa, bên trái Đồi, người ta có thể thoáng thấy [Bindbale Wood](../B/Bindbale_Wood~18767.md) của [North Farthing](../N/North_Farthing.md).<sup id="cite_ref-AI_1-1" class="reference"><a href="#cite_note-AI-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Hình minh họa đường đi qua [Hobbiton](../H/Hobbiton.md) đến [Bagshot Row](../B/Bagshot_Row.md) và Đồi [Hobbiton](../H/Hobbiton_Hill.md). Ngay bên dưới Đồi là [Cây Đảng](../P/Party_Tree.md). Ở phía trước được mô tả [The Water](The_Water.md) và [Nhà máy cũ](../O/Old_Mill.md). Ở trung tâm là [Old Grange](../O/Old_Grange.md). Ở phía xa, bên trái Đồi, người ta có thể thoáng thấy [Bindbale Wood](../B/Bindbale_Wood~18767.md) của [North Farthing](../N/North_Farthing.md).<sup id="cite_ref-AI_1-1" class="reference"><a href="#cite_note-AI-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
@@ -41,7 +41,7 @@ Phiên bản màu đã được xuất bản nhiều lần. Các lịch ban đ�
 
 Trong ấn bản đầu tiên của *[Pictures by J.R.R. Tolkien](../P/Pictures_by_J.R.R._Tolkien.md)*, một bức vẽ đen trắng mô tả cùng một khung cảnh đã được xuất bản, được cho là bìa mực của lần in đầu tiên của *[The Hobbit](The_Hobbit.md)*. Tuy nhiên, [Christopher Tolkien](../C/Christopher_Tolkien.md) đã viết trong lời nói đầu của ấn bản thứ hai của *Pictures by J.R.R. Tolkien* rằng đây là một lỗi; bức vẽ, như đã được lưu ý bởi [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md), "một đường vẽ Tolkien được làm từ mặt trước bằng mực \[của lần in đầu tiên của *[The Hobbit](The_Hobbit.md)*\] để chuyển đường viền của nó sang một tờ giấy mới, trên đó anh ấy đã tạo phiên bản màu nước".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
-Một đoạn trong chương cuối của *[The Hobbit](The_Hobbit.md)*, mô tả việc Bilbo trở lại Bag-end, gợi ý rằng Tolkien đang xem một phiên bản nào đó của bức tranh khi nó được viết: “Và thế là họ băng qua cầu, đi qua nhà máy bên bờ sông và quay lại ngay trước cửa nhà Bilbo.”
+Một đoạn trong chương cuối của *[The Hobbit](The_Hobbit.md)*, mô tả Bilbo quay trở lại Bag-end, gợi ý rằng Tolkien đang xem một phiên bản nào đó của bức tranh khi nó được viết: “Và thế là họ băng qua cầu, đi qua nhà máy bên bờ sông và quay lại ngay trước cửa nhà Bilbo.”
 
 ## Cảm hứng {#Inspiration}
 

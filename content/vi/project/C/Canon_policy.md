@@ -18,7 +18,7 @@ images:
 
 <table class="noprint" style="float: right; border:var(--tg-border-base); background:var(--tg-color-surface-2); margin: .3em .3em .3em 1em; padding: 10px; text-align: center;border-radius:var(--tg-border-radius-large);"><tbody><tr><th style="border: none; background: transparent;" class="plainlist"><small>Shortcut:<br/><a class="mw-redirect" href="CANON.md" title="Tolkien Gateway:CANON">TG:CANON</a></small></th></tr></tbody></table>
 
-**Chính sách của Canon** là chính sách của [Tolkien Gateway](../../main/T/Tolkien_Gateway.md)về cách giải quyết [canon](../../main/C/Canon.md) xung đột. Chính sách hiện tại được tóm tắt bởi [User:Mith](https://tolkiengateway.net/wiki/User:Mith):
+**Chính sách của Canon** là chính sách của [Tolkien Gateway](../../main/T/Tolkien_Gateway.md)về cách giải quyết [canon](../../main/C/Canon.md) xung đột. Chính sách hiện tại được tóm tắt bởi [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith):
 
 <blockquote class="tg-quote noexcerpt">
 <p><b>It is not - and can not - be our place to decide what is canon and what is not</b>. This incurs too many value judgements on our part and opens us up to too much criticism. Certain things are canonical, certain things are not, and there is a lot of grey. The best we can do is admit the situation is grey. For articles in the grey we can have a &#34;Canonicity&#34; section. And that could list, dispassionately, arguments for and against.

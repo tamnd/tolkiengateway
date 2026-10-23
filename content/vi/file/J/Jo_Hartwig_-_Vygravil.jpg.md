@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Jo Hartwig - Vygavril.jpg"
 ---
 
-Chuyển hướng đến [Tệp:Jo Hartwig - Vygavril.jpg](Jo_Hartwig_-_Vygavril.jpg.md).
+Chuyển hướng tới [Tệp:Jo Hartwig - Vygavril.jpg](Jo_Hartwig_-_Vygavril.jpg.md).

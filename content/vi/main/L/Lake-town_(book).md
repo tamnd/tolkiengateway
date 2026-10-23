@@ -55,7 +55,7 @@ Thị trấn Hồ bao gồm:
 - BẢN ĐỒ MÀU - mô tả khu định cư Northron bằng màu sắc sống động.
 - XÁC THÂN TRONG NƯỚC - làm quen với Thị trấn Hồ bằng cách chèo thuyền xuyên qua rừng những trụ cầu đỡ nền tảng của thị trấn để tìm kiếm mối liên hệ giữa xác chết của ngôi mộ và một thùng lúa mạch bị đổ.
 - LỊCH SỬ - từ thời của những ngôi nhà sàn cổ kính, qua những năm "Trào sậy", Đại Dịch và cuộc tấn công dữ dội của Wainrider, cho đến Thời kỳ Hoàng kim khi Người Lùn mang lại hoạt động buôn bán và sự giàu có đã cám dỗ Rồng Smaug bay về phía nam tới Long Lake.
-- THE MAESTA OF ESGAROTH - Bậc thầy đối xử với kẻ thù và đồng minh của Thị trấn Hồ và làm trung gian giữa các tranh chấp thủ công edfreahir.
+- THE MAESTA OF ESGAROTH - Chủ nhân người đối xử với kẻ thù và đồng minh của Thị trấn Hồ và làm trung gian giữa các tranh chấp thủ công edfreahir.
 - LAKE-FOLK - Bedarof the Guard-lord, Saewis the Boat-wright, Bogatung the Wyrdwoman, Hildagrippa của Erannun Inn, và nhiều người khác.
-- NHÀ CAO CẤP, GROGHALLS, & KHO - những tòa nhà đứng trên nền tảng rộng lớn hỗ trợ Thị trấn Hồ, được trình bày trong hơn 40 bản đồ và sơ đồ mặt bằng chi tiết.
+- NHÀ CAO CẤP, GROGHALLS & KHO - những tòa nhà đứng trên nền tảng rộng lớn hỗ trợ Thị trấn Hồ, được trình bày trong hơn 40 bản đồ và sơ đồ mặt bằng chi tiết.
 - HAI ĐẦU TỐT HƠN MỘT - dấn thân vào Vùng hoang dã xung quanh Thị trấn Hồ để đối đầu với một con Half-troll kỳ lạ nhất và sự háu ăn phàm ăn của nó; sau đó chạy đua với Kẻ độc ác của Woad.

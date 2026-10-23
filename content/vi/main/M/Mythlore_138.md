@@ -63,7 +63,7 @@ infobox:
 
 #### Đánh giá {#Reviews}
 
-- *Tolkien's Lost Chaucer* của John M. Bowers. Được đánh giá bởi Joe R. Christopher.
+- *Tolkien's Lost Chaucer* bởi John M. Bowers. Được đánh giá bởi Joe R. Christopher.
 - *Tarot*của Jessica Hundley và *Astrology*của Andrea Richards. Được đánh giá bởi Emily E. Auger.
 - *Vượt qua biên giới vĩ đại: Các tiểu luận về Phantastes của George MacDonald*, do John Pennington biên tập. Được đánh giá bởi Tiffany Brooke Martin.
 - *Tái mê hoặc: Sự trỗi dậy của văn học giả tưởng dành cho trẻ em trong thế kỷ 20* của Maria Sachiko Cecire. Được đánh giá bởi T. S. Miller.
@@ -72,7 +72,7 @@ infobox:
 - *The Oxford Handbook of Victorian Medievalism*, do Joanne Parker và Corinna Wagner biên tập. Được đánh giá bởi Alana White.
 - *Hành trình quay lại lần nữa: Lý do nên ghé thăm lại Trung Địa*, do Diana Pavlac Glyer biên tập. Được đánh giá bởi Megan N. Fontenot.
 - *Đánh thức người chết: George MacDonald trong vai Triết gia, Nhà thần bí và Nhà biện hộ* của Dean Hardy. Được đánh giá bởi Jeremy M. Rios.
-- *Sự lộng lẫy trong bóng tối: Dymer trong cuộc đời và công việc của C.S. Lewis*, do Jerry Root biên tập. Được đánh giá bởi Melody Green.
+- *Sự lộng lẫy trong bóng tối: Dymer trong cuộc đời và công việc của C.S. Lewis*, do Jerry Gốc biên tập. Được đánh giá bởi Melody Green.
 - *Những tưởng tượng về thời gian và cái chết: Dunsany, Eddison, Tolkien* của Anna Vaninskaya. Được đánh giá bởi Sarah R. A. Waters.
 - Lưu ý ngắn gọn: Đánh giá của *Fafnir: Tạp chí Nghiên cứu Khoa học Viễn tưởng và Giả tưởng Bắc Âu*. Được đánh giá bởi Janet Brennan Croft.
 

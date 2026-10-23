@@ -39,7 +39,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Pauline_Baynes_-_The_Man_in_the_Moon_Came_Down_Too_Soon.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d2/Pauline_Baynes_-_The_Man_in_the_Moon_Came_Down_Too_Soon.jpg/250px-Pauline_Baynes_-_The_Man_in_the_Moon_Came_Down_Too_Soon.jpg" decoding="async" loading="lazy" width="250" height="257" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d2/Pauline_Baynes_-_The_Man_in_the_Moon_Came_Down_Too_Soon.jpg/375px-Pauline_Baynes_-_The_Man_in_the_Moon_Came_Down_Too_Soon.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d2/Pauline_Baynes_-_The_Man_in_the_Moon_Came_Down_Too_Soon.jpg/500px-Pauline_Baynes_-_The_Man_in_the_Moon_Came_Down_Too_Soon.jpg 2x" data-file-width="896" data-file-height="921"/></a><figcaption>The Man in the Moon caught in the  net - Illustration by <a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a></figcaption></figure>
 
-**Người [Người Đàn Ông Trong Mặt Trăng](../M/Man_in_the_Moon.md) Đã Xuống Quá Sớm** là một bài thơ [Hobbit](../H/Hobbits.md) của [Kỷ Đệ Tứ](../F/Fourth_Age.md).
+**Bài [Người đàn ông trong Mặt Trăng](../M/Man_in_the_Moon.md) Đã Xuống Quá Sớm** là một bài thơ [Hobbit](../H/Hobbits.md) của [Kỷ Đệ Tứ](../F/Fourth_Age.md).
 
 ## Lịch sử {#History}
 
@@ -115,13 +115,13 @@ Dưới đây là danh sách các thuật ngữ được sử dụng trong bài 
 - **Vịnh Bel** - Một cái tên hư cấu bắt nguồn từ [Vịnh Belfalas](../B/Belfalas.md) trong [Gondor](../G/Gondor.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 - **Tháp Seaward** - Cách viết hư cấu của [Biển-ward Tower](../S/Sea-ward_Tower.md) của [Dol Amroth](../D/Dol_Amroth.md) ở [Gondor](../G/Gondor.md).
 - **[Yule](../Y/Yule.md)** - Kỳ nghỉ lễ kéo dài sáu ngày vào cuối và đầu [Lịch Shire](../S/Shire_Calendar.md).
-- **Dãy Núi của Mặt Trăng** - Ngôi nhà hư cấu của [Người đàn ông trong Mặt Trăng](../M/Man_in_the_Moon.md) nằm trên [Mặt Trăng](../M/Moon.md). Cái tên này có thể là một tham chiếu đùa giỡn đến [Dãy Núi của Lune](../E/Ered_Luin.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+- **Dãy Núi của Mặt Trăng** - Ngôi nhà hư cấu của [Người đàn ông trong Mặt Trăng](../M/Man_in_the_Moon.md) nằm trên [Mặt Trăng](../M/Moon.md). Cái tên này có thể là một tham chiếu đùa cợt đến [Dãy Núi của Lune](../E/Ered_Luin.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
 ## Xem thêm {#See_also}
 
-- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 ## Lễ tân {#Reception}
 

@@ -41,7 +41,7 @@ Trong *[The Complete Guide to Middle-earth](../T/The_Complete_Guide_to_Middle-ea
 <p class="tg-quote-footer"><cite>The Complete Guide to Middle-earth<i> - &#34;Money&#34;</i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Cụm từ trên gợi ý rằng (trong những ngày đầu của [Tolkien fandom](../T/Tolkien_fandom.md)) có một số niềm tin rằng tiền xu được sử dụng làm "tiền tệ" thực sự không tồn tại trong Trung Địa; đề cập đến tiền bạc rất khan hiếm, không được nhấn mạnh và rõ ràng là bị lãng quên trong các câu chuyện.
+Cụm từ trên gợi ý rằng (trong những ngày đầu của [Tolkien fandom](../T/Tolkien_fandom.md)) có một số niềm tin rằng tiền xu được sử dụng làm "tiền tệ" thực tế không tồn tại trong Trung Địa; đề cập đến tiền bạc rất khan hiếm, không được nhấn mạnh và rõ ràng là bị lãng quên trong các câu chuyện.
 
 ## Xem thêm {#See_also}
 

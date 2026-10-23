@@ -149,14 +149,14 @@ Trong những phiên bản đầu của [huyền sử](../L/Legendarium.md), tê
 
 - [Sinh đôi](../T/Twins.md)
 
-## Notes {#Notes}
+## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Though Elros was regarded as belonging to the House of Hador, he was a descendant of <a href="../H/House_of_Bëor.md" title="House of Bëor">all</a> <a href="../H/House_of_Haleth.md" title="House of Haleth">three</a> <a href="../H/House_of_Hador.md" title="House of Hador">Houses</a> of the <a href="Edain.md" title="Edain">Edain</a> as well as the <a href="Elves.md" title="Elves">Elven</a> Houses of <a href="../H/House_of_Fingolfin.md" title="House of Fingolfin">Fingolfin</a> and <a href="../H/House_of_Elwë.md" title="House of Elwë">Elwë</a> (Thingol).</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Mặc dù Elros được coi là thuộc về Nhà Hador, anh ta cũng là hậu duệ của <a href="../H/House_of_Bëor.md" title="House of Bëor">tất cả</a> <a href="../H/House_of_Haleth.md" title="House of Haleth">ba</a> <a href="../H/House_of_Hador.md" title="House of Hador">Nhà</a> của <a href="Edain.md" title="Edain">Edain</a> như Nhà của <a href="Elves.md" title="Elves">Tiên</a> của <a href="../H/House_of_Fingolfin.md" title="House of Fingolfin">Fingolfin</a> và <a href="../H/House_of_Elwë.md" title="House of Elwë">Elwë</a> (Thingol).</span>
 </li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">His father, Eärendil, was a descendant of the Lords of all Three Houses</span>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Cha của ông, Eärendil, là hậu duệ của Lãnh chúa của cả Ba Nhà</span>
 </li>
-<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">Elros&#39; children <a href="../T/Tindómiel.md" title="Tindómiel">Tindómiel</a>, <a href="../M/Manwendil.md" title="Manwendil">Manwendil</a> and <a href="../A/Atanalcar.md" title="Atanalcar">Atanalcar</a> are referred to by name only in the family tree &#34;The Earlier Generations of the Line of Elros&#34;, which is included in only some editions of <i>Unfinished Tales</i>.</span>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">Elros' những đứa trẻ <a href="../T/Tindómiel.md" title="Tindómiel">Tindómiel</a>, <a href="../M/Manwendil.md" title="Manwendil">Manwendil</a> và <a href="../A/Atanalcar.md" title="Atanalcar">Atanalcar</a> chỉ được gọi bằng tên trong cây phả hệ "Các thế hệ trước của dòng dõi Elros", chỉ được bao gồm trong một số phiên bản của <i>Unfinished Tales</i>.</span>
 </li>
 </ol></div></span>
 

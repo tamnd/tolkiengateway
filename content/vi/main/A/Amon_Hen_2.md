@@ -45,7 +45,7 @@ infobox:
 - "*[Mallorns](<../M/Mallorn_(journal).md>)* sẽ đến"
 - Cuộc họp ủy ban kinh doanh
     - *Mallorn* tin tức
-    - Thông báo Đại hội thường niên của Belladonna Took ([Vera Chapman](../V/Vera_Chapman.md))
+    - Thông báo Đại hội đồng cổ đông thường niên của Belladonna Took ([Vera Chapman](../V/Vera_Chapman.md))
     - "Innmoot, London" (báo cáo của Vera Chapman)
     - Thông báo Archie Mercer làm thư ký thành viên
 - Thư gửi biên tập viên của John B. Abbott, Jon Harvey, Graham England, Grahame Lamb, Tony Fallone, Bernard Peek, Gordon Larkin và Roger Johnson
@@ -53,11 +53,11 @@ infobox:
     - "Sách mượn" của Peter Herring (sách khoa học viễn tưởng, giả tưởng và phi hư cấu được đề xuất)
     - *Rocannon's World* của [Ursula K. Le Guin](../U/Ursula_K._Le_Guin.md) (được đánh giá bởi Graham England)
     - *Njal's Saga*, ấn bản Penguin Classics (được Graham England đánh giá)
-    - *Grendel* của John Gardiner (được Graham England đánh giá)
+    - *Grendel* của John Gardiner (được đánh giá bởi Graham England)
 - Lưu ý về Smials (các chi nhánh địa phương của Hiệp hội Tolkien)
 - Thư từ [Marion Zimmer Bradley](../M/Marion_Zimmer_Bradley.md)
 - Danh sách thành viên mới và thay đổi địa chỉ
-- Thông báo bán [Tolkien bàn làm việc](../T/Tolkien's_desk.md) của Vera Chapman
+- Thông báo về việc [Tolkien bàn làm việc](../T/Tolkien's_desk.md) của Vera Chapman
 - Bài thơ không tên của Robert Grant ("Bây giờ Bilbo của Bag End nơi nghỉ ngơi yêu thương")
 - "Fourteen Twenty" của [Hartley Patterson](../H/Hartley_Patterson.md) (cột về Tolkien hoạt động kinh doanh của ủy ban xã hội)
 

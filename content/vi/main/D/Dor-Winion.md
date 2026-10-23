@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dorwinion"
 ---
 
-Chuyển hướng đến [Dorwinion](Dorwinion.md).
+Chuyển hướng tới [Dorwinion](Dorwinion.md).

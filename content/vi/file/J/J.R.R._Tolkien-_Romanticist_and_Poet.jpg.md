@@ -25,7 +25,7 @@ file:
   user: "Mith"
 ---
 
-Bìa của *[J.R.R. Tolkien: Romanticist and Poet](../../main/J/J.R.R._Tolkien%253A_Romanticist_and_Poet.md)*, được xuất bản bởi [Nhà xuất bản Cây biết đi](../../main/W/Walking_Tree_Publishers.md). Hình minh họa bìa là "Tuor Look Out Onto the Biển" của [Anke Eißmann](../../main/A/Anke_Eißmann.md).
+Bìa *[J.R.R. Tolkien: Romanticist and Poet](../../main/J/J.R.R._Tolkien%253A_Romanticist_and_Poet.md)*, do [Nhà xuất bản Cây biết đi](../../main/W/Walking_Tree_Publishers.md)xuất bản. Hình minh họa bìa là "Tuor Look Out Onto the Biển" của [Anke Eißmann](../../main/A/Anke_Eißmann.md).
 
 ## Giấy phép {#Licensing}
 

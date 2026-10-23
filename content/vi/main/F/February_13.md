@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "13 February"
 ---
 
-Chuyển hướng tới [ngày 13 tháng 2](../_/13_February.md).
+Chuyển hướng đến [ngày 13 tháng 2](../_/13_February.md).

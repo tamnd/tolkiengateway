@@ -23,7 +23,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Thương hiệu chính thức cho The Lord of the Rings: Tales of Trung Địa, bản mở rộng Magic: The Gathering Universes Beyond.
+Thương hiệu chính thức cho The Lord of the Rings: Tales of Middle-earth, bản mở rộng Magic: The Gathering Universes Beyond.
 
 ## Giấy phép {#Licensing}
 

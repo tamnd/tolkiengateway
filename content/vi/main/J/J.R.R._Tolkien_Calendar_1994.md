@@ -49,7 +49,7 @@ Lịch <i><b>J.R.R. Tolkien 1994</b></i> là lịch Tolkien chính thức đư�
 - Tháng 1 - "[Gandalf the Grey Đến vào Hobbiton](../../file/M/Michael_Kaluta_-_Gandalf_Arrives_in_Hobbiton.jpg.md)"
 - Tháng 2 - "[Elrond Tưởng nhớ các Thánh thể của Gil-Galad](../../file/M/Michael_Kaluta_-_Elrond_Recalls_the_Host_of_Gilgalad.jpg.md)"
 - Tháng 3 - "[Legolas Rút cung Galadriel](../../file/M/Michael_Kaluta_-_Legolas_Draws_the_Bow_of_Galadriel.jpg.md)"
-- Tháng 4 - "[Cuộc tranh luận](../../file/M/Michael_Kaluta_-_The_Entmoot.jpg.md)"
+- Tháng 4 - "[Ngày Entmoot](../../file/M/Michael_Kaluta_-_The_Entmoot.jpg.md)"
 - Tháng 5 - "[Éowyn Trước Cánh Cửa Meduseld](../../file/M/Michael_Kaluta_-_Eowyn_Before_the_Gates_of_Meduseld.jpg.md)"
 - Tháng 6 - "[Sét đánh đầu tiên vào lúc Helm's Deep](../../file/M/Michael_Kaluta_-_The_First_Stroke_of_Lightning_at_Helm's_Deep.jpg.md)"
 - Tháng 7 - "[ Cổng Đen đã đóng cửa](../../file/M/Michael_Kaluta_-_The_Black_Gate_is_Closed.jpg.md)"
@@ -57,7 +57,7 @@ Lịch <i><b>J.R.R. Tolkien 1994</b></i> là lịch Tolkien chính thức đư�
 - tháng Chín - "[Théoden Do thám Cờ Rắn](../../file/M/Michael_Kaluta_-_Theoden_Espies_the_Serpent_Banner.jpg.md)"
 - Tháng 10 - "[Éowyn và Phù thủy-Vua của Angmar](../../file/M/Michael_Kaluta_-_Eowyn_and_the_Witch-King_of_Angmar.jpg.md)"
 - Tháng 11 - "[Arwen và Vua Elessar](../../file/M/Michael_Kaluta_-_Arwen_and_King_Elessar.jpg.md)"
-- Tháng 12 - "[Meriadoc Người vĩ đại và những đứa trẻ của Samwise Hamfast](../../file/M/Michael_Kaluta_-_Meriadoc_the_Magnificent_and_the_Children_of_Samwise_Hamfast.jpg.md)"
+- Tháng 12 - "[Meriadoc Người vĩ đại và những đứa con của Samwise Hamfast](../../file/M/Michael_Kaluta_-_Meriadoc_the_Magnificent_and_the_Children_of_Samwise_Hamfast.jpg.md)"
 
 ## Biến thể {#Variants}
 

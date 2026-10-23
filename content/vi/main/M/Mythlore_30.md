@@ -76,7 +76,7 @@ infobox:
 #### Thơ {#Poems}
 
 - Allaby, Mark. "Cây và Lá."
-- Christopher, J.R. "Hành trình củaBilbo."
+- Christopher, J.R. "Bilbo Hành trình."
 - Christopher, J.R. "Ent."
 - Roberts, Teresa Noelle. "Kỳ lân."
 

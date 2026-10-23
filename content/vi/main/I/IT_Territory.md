@@ -15,11 +15,11 @@ categories:
   - "Video Game publishers"
 ---
 
-**Lãnh thổ CNTT** (tiếng Nga: Территория ИТ) là một công ty của Nga, chuyên phát triển và xuất bản MMO. Họ đã xuất bản [The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md) ở Nga và duy trì các máy chủ của nó ([Fornost](../F/Fornost.md#Portrayal_in_Adaptations) và [Mirkwood](../M/Mirkwood.md#Portrayal_in_Adaptations)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**IT Territory** (tiếng Nga: Территория ИТ) là một công ty của Nga, chuyên phát triển và xuất bản MMO. Họ đã xuất bản [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md) ở Nga và duy trì các máy chủ của nó ([Fornost](../F/Fornost.md#Portrayal_in_Adaptations) và [Mirkwood](../M/Mirkwood.md#Portrayal_in_Adaptations)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md)
+- [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)
 - [Tập đoàn NHN](../N/NHN_Corporation.md)
 
 ## Liên kết ngoài {#External_links}

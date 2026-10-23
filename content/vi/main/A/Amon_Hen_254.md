@@ -60,24 +60,24 @@ infobox:
     - Bởi: Ian Spittlehouse
 - Sự đốt cháy Palantír 14
     - Bởi: Ian Collier
-- Sảnh lửa
+- Hall of Fire
     - Bởi: Verne Walker
 - Quảng cáo: *Evil in the Shining Light*
 - Báo cáo: Lâu đài trên không: TS AGM 2015
     - Bởi: Ian Collier
 - Cáo phó: Ngài tuyệt vời [Christopher Lee](../C/Christopher_Lee.md) 1922-2015
-    - Bởi: Ellen Walker
+    - By: Ellen Walker
 - Tác phẩm nghệ thuật: *Christopher Lee as [Saruman](../S/Saruman.md)*
     - Bởi: Gordon Palmer
 - Phía sau cánh cửa kính
     - Bởi: Ian Collier
 - Thư
 - Đánh giá: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Tolkien%C3%A6um&amp;action=edit&amp;redlink=1" title="The Tolkienæum (page does not exist)">Tolkienæum</a></i>
-    - Bởi: Andrew Moglestue
+    - By: Andrew Moglestue
 - Đánh giá: *[The Hobbit: An Unexpected Journey: Chronicles: Art &amp; Design](../T/The_Hobbit%253A_An_Unexpected_Journey%253A_Chronicles%253A_Art_&_Design.md)*
-    - Bởi: [Shaun Gunner](../S/Shaun_Gunner.md)
+    - By: [Shaun Gunner](../S/Shaun_Gunner.md)
 - Đánh giá: *[Tolkien: A Dictionary](A_Tolkien_Bestiary.md)*
-    - Bởi: [Shaun Gunner](../S/Shaun_Gunner.md)
+    - By: [Shaun Gunner](../S/Shaun_Gunner.md)
 - Toán học
     - Bởi: Jan Boom
 - Tin từ [Fangorn](../F/Fangorn_Forest.md)

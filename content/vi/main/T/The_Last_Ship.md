@@ -49,7 +49,7 @@ Phiên bản gốc của bài thơ ban đầu có tên là <i><b>Firiel</b></i> 
 
 ## Xem thêm {#See_also}
 
-- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 <span></span>
 

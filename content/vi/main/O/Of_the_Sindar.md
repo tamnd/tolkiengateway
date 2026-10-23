@@ -74,7 +74,7 @@ Tuy nhiên, những tin đồn đen tối bắt đầu lan truyền sớm. Ngư�
 
 Có một yêu tinh khác tên [Denethor](../D/Denethor.md) đã dẫn người của mình vào Beleriand. Sau này chúng được gọi là [Xanh Tiên tộc](../G/Green_Elves.md). Thingol chào đón họ và họ cư trú tại [Ossiriand](Ossiriand.md).
 
-Thật không may, hòa bình không kéo dài được lâu, Morgoth đã trốn thoát Valinor và quay trở lại Trung Địa. Morgoth đã xây dựng lại Angband và tung quân đội của mình tấn công Beleriand, tấn công Doriath. Thingol đã kêu gọi Denethor hỗ trợ và họ đã tấn công Orc. Quân đội của Orc đã bị đánh tan tác, nhưng không phải trước khi họ tiêu diệt Denethor và phân tán quân Tiên tộc Xanh. Nhiều Tiên tộc Xanh đã đến sống trong miền của Thingol.
+Thật không may, hòa bình không kéo dài được lâu, Morgoth đã trốn thoát khỏi Valinor và quay trở lại Trung Địa. Morgoth đã xây dựng lại Angband và tung quân đội của mình tấn công Beleriand, tấn công Doriath. Thingol đã kêu gọi Denethor hỗ trợ và họ đã tấn công Orc. Quân đội của Orc đã bị đánh tan tác, nhưng không phải trước khi họ tiêu diệt Denethor và phân tán quân Tiên tộc Xanh. Nhiều Tiên tộc Xanh đã đến sống trong miền của Thingol.
 
 Melian đã sử dụng sức mạnh của mình để tạo ra [Vành đai Melian](../G/Girdle_of_Melian.md), một tấm màn bảo vệ xung quanh Doriath ngăn chặn không chỉ lực lượng của Morgoth mà còn bất kỳ ai cố gắng xâm nhập trái với ý muốn của Melian hoặc Thingol. Có hòa bình bên trong bức màn Doriath, nhưng sự hỗn loạn bên ngoài ngự trị, vì lực lượng của Morgoth đã tràn ngập Beleriand.
 

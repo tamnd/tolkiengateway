@@ -40,7 +40,7 @@ Ban nhạc được thành lập vào năm 1990 với tên gọi "The Hounds", g
 
 Ấn bản đầu tiên của album *[In Elven Lands](../I/In_Elven_Lands.md)* có sự góp giọng của Jon Anderson (ca sĩ chính của ban nhạc progressive rock "Yes") trong bốn bài hát.<sup id="cite_ref-Kolb_1-1" class="reference"><a href="#cite_note-Kolb-1">[1]</a></sup> Đối với Phiên bản thứ hai được làm lại bằng kỹ thuật số, Jon Anderson vắng mặt, được thay thế bởi giọng nam cao người Nam Phi Stephen Diaz và New Zealand ca sĩ người Maori Dennise Pehi.<sup id="cite_ref-site_2-1" class="reference"><a href="#cite_note-site-2">[2]</a></sup>
 
-Hội cũng đã sáng tạo và biểu diễn các bản cover nhạc đầu tiên của một số chủ đề từ [*The Lord of the Rings* loạt phim](<The_Lord_of_the_Rings_(film_series).md>) và [*The Hobbit* loạt phim](<The_Hobbit_(film_series).md>) cho phần ghi công cuối cùng của phim tài liệu hậu trường của mỗi bộ phim. Những bản cover nhạc cụ này dựa trên các chủ đề đã có sẵn của Howard Shore cho Gondor, Dale, The Shire và người Hobbit, chủ đề người lùn, chủ đề yêu tinh của Mirkwood và Lothlórien, v.v.
+Hội cũng đã sáng tạo và biểu diễn các bản cover nhạc đầu tiên của một số chủ đề từ [*The Lord of the Rings* loạt phim](<The_Lord_of_the_Rings_(film_series).md>) và [*The Hobbit* loạt phim](<The_Hobbit_(film_series).md>) cho phần ghi công cuối cùng của phim tài liệu hậu trường của mỗi bộ phim. Những bản cover nhạc cụ này dựa trên các chủ đề đã thiết lập của Howard Shore dành cho Gondor, Dale, The Shire và các hobbit, chủ đề người lùn, chủ đề yêu tinh của Mirkwood và Lothlórien, v.v.
 
 ## Thành viên {#Members}
 

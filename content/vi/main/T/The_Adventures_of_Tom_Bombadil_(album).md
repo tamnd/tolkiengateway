@@ -20,17 +20,17 @@ sort_keys:
 ## Danh sách bản nhạc {#Track_listing}
 
 - The Adventures of Tom Bombadil
-- Bombadil đi chèo thuyền
-- Lỗi
+- Bombadil Goes Boating
+- Errantry
 - Công chúa Mee
-- Người đàn ông trong Mặt Trăng thức quá khuya
-- Người đàn ông trong Mặt Trăng Xuống Quá Sớm
+- Người Người đàn ông trong Mặt Trăng thức quá muộn
+- Người đàn ông trong Mặt Trăng Đã xuống quá sớm
 - Con quỷ đá
 - Perry-nháy mắt
 - Mewlips
 - Oliphaunt
 - Fastitocalon
-- Con mèo
+- Mèo
 - Bóng Tối-Cô dâu
 - Kho tích trữ
 - Cái chuông Biển

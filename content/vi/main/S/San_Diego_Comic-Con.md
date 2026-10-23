@@ -12,7 +12,7 @@ categories:
   - "Conventions"
 ---
 
-**San Diego Comic-Con** is a convention that is held annually in San Diego, in California, which features numerous collectibles inspired by [J.R.R. Tolkien's](../J/J.R.R._Tolkien.md) [legendarium](../L/Legendarium.md).
+**San Diego Comic-Con** là một hội nghị được tổ chức hàng năm tại San Diego, California, nơi trưng bày nhiều bộ sưu tập lấy cảm hứng từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) [huyền thoại](../L/Legendarium.md).
 
 ## Quy ước {#Conventions}
 

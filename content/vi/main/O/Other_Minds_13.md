@@ -42,7 +42,7 @@ infobox:
     - Bởi Thomas Morwinsky
 - "The Road Goes Ever On"
     - Bởi Thomas Morwinsky
-- "Đánh giá về [Chiếc nhẫn duy nhất-*Những cuộc phiêu lưu ở rìa nơi hoang dã*"](../T/The_One_Ring%253A_Adventures_over_the_Edge_of_the_Wild.md)
+- "Đánh giá về [Chiếc nhẫn duy nhất-*Những cuộc phiêu lưu nơi rìa hoang dã*"](../T/The_One_Ring%253A_Adventures_over_the_Edge_of_the_Wild.md)
     - Bởi Neville Percy
 - "Nghệ thuật phép thuật-với chỉ số TOR"
     - Bởi Daniel Vacaflores

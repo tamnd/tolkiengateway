@@ -47,11 +47,11 @@ Min-Rimmon là đỉnh cao nhất trong nhóm vách đá được gọi là <i><
 
 ## Lịch sử {#History}
 
-Vào đêm [7 tháng 3](../_/7_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Gandalf](../G/Gandalf.md) và [Pippin](../P/Peregrin_Took.md), đang đi về hướng đông trên [Shadowfax](../S/Shadowfax.md), nhìn thấy các đèn hiệu được thắp sáng để kêu gọi viện trợ từ Rohan.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Vào đêm [7 tháng 3](../_/7_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Gandalf](../G/Gandalf.md) và [Pippin](../P/Peregrin_Took.md), đang đi về hướng đông trên [Shadowfax](../S/Shadowfax.md), thấy đèn hiệu được thắp sáng để kêu gọi viện trợ từ Rohan.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Vào [12 tháng 3](../_/12_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), [Théoden](../T/Théoden.md), trên đường đến Minas Tirith, đã cắm trại đội quân [Rohirrim](../R/Rohirrim.md) của mình dưới sự chỉ huy của Min-Rimmon.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Sau thất bại của [Sauron](../S/Sauron.md), tin tức về lễ đăng quang của [Aragorn](../A/Aragorn.md)đã được gửi đến "*tất cả các vùng của Gondor, từ Min-Rimmon thậm chí đến [Pinnath Gelin](../P/Pinnath_Gelin.md) và các bờ biển xa xôi*".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Điều này cho thấy rằng đã có một khu định cư nào đó ở Min-Rimmon và nó đánh dấu ranh giới phía tây của khu định cư Gondor ở Anórien vào cuối Kỷ Đệ Tam.
+Sau thất bại của [Sauron](../S/Sauron.md), tin tức về lễ đăng quang của [Aragorn](../A/Aragorn.md)đã được gửi tới "*tất cả các vùng của Gondor, từ Min-Rimmon thậm chí đến [Pinnath Gelin](../P/Pinnath_Gelin.md) và các bờ biển xa xôi*".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Điều này cho thấy rằng có một khu định cư nào đó ở Min-Rimmon và nó đánh dấu ranh giới phía tây của khu định cư Gondor ở Anórien vào cuối thế kỷ 20. Kỷ Đệ Tam.
 
 ## Từ nguyên {#Etymology}
 
@@ -59,7 +59,7 @@ Sau thất bại của [Sauron](../S/Sauron.md), tin tức về lễ đăng quan
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Min-Rimmon sits above Ost Rimmon, a small but formidable Gondorian town. Because of this, its beacon is the best-maintained out of all the northern beacons.</dd></dl>
 

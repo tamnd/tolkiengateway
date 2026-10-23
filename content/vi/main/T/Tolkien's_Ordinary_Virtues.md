@@ -64,10 +64,10 @@ Những đức hạnh thông thường của <i><b>Tolkien</b></i> là một cu�
 
 <dl><dd><b>Part Three: A New Beginning</b></dd></dl>
 
-- XII. Sự Chuộc Tội
+- XIII. Sự Chuộc Tội
 - XIII. đau khổ
 - XIV. Phục sinh
-- XV. Khiêm tốn
+- XV. Khiêm nhường
 - XVI. quan phòng
 
 <dl><dd><b>Part Four: Help-Unlooked-For</b></dd></dl>
@@ -88,7 +88,7 @@ Những đức hạnh thông thường của <i><b>Tolkien</b></i> là một cu�
 
 <dl><dd><b>Part Six: The Road Goes Ever On and On</b></dd></dl>
 
-- XXVII. Kiên trì
+- XXVIII. Kiên trì
 - XXVIII. Lễ kỷ niệm
 - XXXX. Công lý
 - XXX. Yêu

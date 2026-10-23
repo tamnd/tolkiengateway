@@ -45,7 +45,7 @@ Có một ngôi làng <a class="extiw" href="http://en.wikipedia.org/wiki/Rushoc
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Rushock Bog lies to the south of <a href="../N/Needlehole.md" title="Needlehole">Needlehole</a> and to the east of <a href="../L/Little_Delving.md" title="Little Delving">Little Delving</a>.</dd></dl>
 

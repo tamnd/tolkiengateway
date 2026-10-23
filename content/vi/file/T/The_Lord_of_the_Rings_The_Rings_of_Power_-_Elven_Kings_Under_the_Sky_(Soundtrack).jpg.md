@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ảnh bìa cho nhạc phim của tập đầu tiên của *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* mùa 2, "\[\[Tiên Kings Under the Sky \]\]".
+Ảnh bìa cho nhạc nền của tập đầu tiên của *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* mùa 2, "\[\[Tiên Kings Under the Sky \]\]".
 
 ## Giấy phép {#Licensing}
 

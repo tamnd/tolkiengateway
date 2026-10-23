@@ -69,7 +69,7 @@ infobox:
 
 Aldor là con trai thứ hai của Vua [Brego](../B/Brego.md), nhưng đã trở thành người thừa kế ngai vàng khi anh trai [Baldor](../B/Baldor.md) biến mất trong [T.A.](../T/Third_Age.md) [2569](../T/Third_Age_2569.md), trong nỗ lực bước đi trên [Con đường của Người chết](../P/Paths_of_the_Dead.md). Cha của anh ấy [Brego](../B/Brego.md) qua đời vì đau buồn trong [2570](../T/Third_Age_2570.md) nên Aldor sau đó trở thành Vua Rohan. Ông trị vì trong 75 năm, thời gian dài nhất so với bất kỳ người cai trị Rohan nào, và được biết đến với cái tên Aldor Già.
 
-Trong thời kỳ trị vì của ông, dân số [Rohirrim](../R/Rohirrim.md) đã tăng lên. Những [Dunlending](../D/Dunlendings.md) còn lại ở phía đông Sông [Isen](../I/Isen.md) đã bị đẩy lùi hoặc bị khuất phục, và [Harrowdale](../H/Harrowdale.md) cũng như các thung lũng khác ở [Ered Nimrais](../W/White_Mountains.md) đã được định cư.
+Trong thời kỳ trị vì của ông, dân số [Rohirrim](../R/Rohirrim.md) đã tăng lên. Phần [Dunlending](../D/Dunlendings.md) còn lại ở phía đông Sông [Isen](../I/Isen.md) đã bị đẩy lùi hoặc bị khuất phục, còn [Harrowdale](../H/Harrowdale.md) và các thung lũng khác trong [Ered Nimrais](../W/White_Mountains.md) đã được định cư.
 
 Aldor có ba cô con gái trước khi đứa con trai đầu lòng [Fréa](../F/Fréa.md) chào đời.<sup id="cite_ref-Mark_1-1" class="reference"><a href="#cite_note-Mark-1">[1]</a></sup>
 
@@ -97,7 +97,7 @@ Aldor có ba cô con gái trước khi đứa con trai đầu lòng [Fréa](../F
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Aldor_the_Old_drives_the_Dunlendings_out_of_the_Westfold.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5c/The_Lord_of_the_Rings_Online_-_Aldor_the_Old_drives_the_Dunlendings_out_of_the_Westfold.jpg/300px-The_Lord_of_the_Rings_Online_-_Aldor_the_Old_drives_the_Dunlendings_out_of_the_Westfold.jpg" decoding="async" loading="lazy" width="300" height="266" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5c/The_Lord_of_the_Rings_Online_-_Aldor_the_Old_drives_the_Dunlendings_out_of_the_Westfold.jpg/450px-The_Lord_of_the_Rings_Online_-_Aldor_the_Old_drives_the_Dunlendings_out_of_the_Westfold.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5c/The_Lord_of_the_Rings_Online_-_Aldor_the_Old_drives_the_Dunlendings_out_of_the_Westfold.jpg/600px-The_Lord_of_the_Rings_Online_-_Aldor_the_Old_drives_the_Dunlendings_out_of_the_Westfold.jpg 2x" data-file-width="1110" data-file-height="984"/></a><figcaption><i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i> tapestry: Aldor the Old drives the Dunlendings out of the Westfold</figcaption></figure>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>: Một tấm thảm thêu mô tả Aldor Già được tìm thấy ở [Meduseld](../M/Meduseld.md) và có thể mua được để sử dụng trong nhà ở của người chơi.
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>: Một tấm thảm thêu mô tả Aldor Già được tìm thấy ở [Meduseld](../M/Meduseld.md) và có thể mua được để sử dụng trong nhà ở của người chơi.
 
 <span></span>
 

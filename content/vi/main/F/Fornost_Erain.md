@@ -141,15 +141,15 @@ Những tên gọi trước đây của Fornost là *Osforod, the Northburg*,<su
 		</li>
 </ul>
 
-<b>1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a> — <a href="../A/Arnor%253A_The_Land.md" title="Arnor: The Land">Arnor: The Land</a></i>:</b>
+<b>1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a> — <a href="../A/Arnor%253A_The_Land.md" title="Arnor: The Land">Arnor: Vùng đất</a></i>:</b>
 
 <dl><dd>Fornost Erain was the heavily fortified capital of <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a> during its final centuries, its militaristic citadel a stark contrast to the open scholarly city of Annúminas. It housed the <i>Dagorwaith Aran</i> (S. “Royal Army”) and the <i>Ostirith</i> (S. “Citadel Guard”). <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, <a class="mw-redirect" href="../E/Elladan.md" title="Elladan">Elladan</a>, and <a class="mw-redirect" href="../E/Elrohir.md" title="Elrohir">Elrohir</a> were known to regularly visit the city. The citadel was built on limestone bedrock, the cracks of which were used to drain sewage, though its deep caves led into the <a href="../U/Under-deeps.md" title="Under-deeps">Under-deeps</a>.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></dd></dl>
 
-<b>2006: <i><a class="mw-redirect" href="../T/The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Battle for Middle-earth II: The Rise of the Witch-king">The Battle for Middle-earth II: The Rise of the Witch-king</a></i>:</b>
+<b>2006: <i><a class="mw-redirect" href="../T/The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Battle for Middle-earth II: The Rise of the Witch-king">Trận chiến Trung Địa II: Sự trỗi dậy của Vua Phù thủy</a></i>:</b>
 
 <dl><dd>In the expansion pack, <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Rise of the Witch-king</a></i>, Fornost is besieged by the forces of the Witch-king.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Fornost Erain, simply called Fornost, was located in the northern end of the <a href="../N/North_Downs.md" title="North Downs">North Downs</a>. Its ruins were overrun with wights, orcs and wargs. The fall of the city was possibly hastened by traitors who were bewitched by <a href="../A/Amarthiel.md" title="Amarthiel">Amarthiel</a>.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></dd></dl>
 

@@ -184,7 +184,7 @@ Nhân vật Tídwald, xuất hiện trong bài thơ "[The Homecoming of Beorhtno
 
 <dl><dd>Remnants haunting their own tombs, the Barrow Wights are a type of greater Undead Beings. They draw energy from living beings, sacrificing their victims.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></dd></dl>
 
-<b>2001-2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i>:</b>
+<b>2001-2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi đánh bài</a></i>:</b>
 
 <dl><dd>Although the Barrow-wights did not appear in <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> films</a>, <a href="../D/Decipher.md" title="Decipher">Decipher</a> did produce a card depicting a Barrow-wight.</dd></dl>
 
@@ -192,11 +192,11 @@ Nhân vật Tídwald, xuất hiện trong bài thơ "[The Homecoming of Beorhtno
 
 <dl><dd>The voice of the barrow-wight that temporarily imprisons Frodo and his three companions is provided by Vladimír Jedľovský.</dd></dl>
 
-<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Roleplaying Game</a></i>:</b>
+<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a></i>:</b>
 
 <dl><dd>Barrow-wights (not to be confused with the <a href="../G/Ghosts.md" title="Ghosts">ghost</a>-type <i>wights</i> appearing in the same game) are corpses of Men animated by evil spirits.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></dd></dl>
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd><a href="../S/Sambrog.md" title="Sambrog">Sambrog</a> is a Wight-lord of the Barrow-downs. Barrow Wights are not just confined to the Barrow Downs, but have risen in many parts of Middle-earth mainly around the decaying ruins of Arnor. Wights can be found haunting the darkest corners of Mirkwood to even the Elven ruins which dot Ered Luin. A clan of warriors in Dunland has even gone as far as trying to raise their own undead army.</dd></dl>
 

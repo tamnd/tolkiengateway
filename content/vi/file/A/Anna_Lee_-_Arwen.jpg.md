@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*[Arwen](../../main/A/Arwen.md) in Rivendell* của [Anna Lee](../../main/A/Anna_Lee.md).
+*[Arwen](../../main/A/Arwen.md) in Rivendell* bởi [Anna Lee](../../main/A/Anna_Lee.md).
 
 ## Giấy phép {#Licensing}
 

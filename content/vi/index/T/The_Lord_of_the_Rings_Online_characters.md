@@ -12,7 +12,7 @@ categories:
   - "Index"
 ---
 
-Danh sách này chứa tất cả các ký tự được tạo riêng cho [The Lord of the Rings Trực tuyến](../../main/T/The_Lord_of_the_Rings_Online.md). Danh sách này chỉ bao gồm các ký tự có mạo từ hoặc dành cho những người có một phần trong danh sách các ký tự phụ.
+Danh sách này chứa tất cả các ký tự được tạo riêng cho [The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md). Danh sách này chỉ bao gồm các ký tự có mạo từ hoặc dành cho những người có một phần trong danh sách các ký tự phụ.
 
 ## Một {#A}
 

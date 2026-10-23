@@ -54,7 +54,7 @@ Bilbo là con thứ mười của [Samwise Gamgee](../S/Samwise_Gamgee.md) và [
 
 ## Từ nguyên {#Etymology}
 
-Cái tên *Bilbo* là vô nghĩa trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md)đương thời. Nó đại diện cho một tên ban đầu *Bilba*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Cái tên *Bilbo* là vô nghĩa trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md)đương đại. Nó đại diện cho một tên ban đầu *Bilba*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

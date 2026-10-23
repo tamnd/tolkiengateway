@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Bovadium Fragments: together with The Origin of Bovadium"
 ---
 
-Chuyển hướng tới [Các mảnh Bovadium: cùng với Nguồn gốc của Bovadium](The_Bovadium_Fragments%253A_together_with_The_Origin_of_Bovadium.md).
+Chuyển hướng đến [The Bovadium Fragments: together with The Origin of Bovadium](The_Bovadium_Fragments%253A_together_with_The_Origin_of_Bovadium.md).

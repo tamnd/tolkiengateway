@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Leslie Holloway"
 ---
 
-Chuyển hướng đến [Thư gửi Leslie Holloway](Letter_to_Leslie_Holloway.md).
+Chuyển hướng tới [Thư gửi Leslie Holloway](Letter_to_Leslie_Holloway.md).

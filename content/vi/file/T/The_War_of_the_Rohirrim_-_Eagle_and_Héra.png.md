@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Đại bàng và Héra trong *The Lord of the Rings: Cuộc chiến Rohirrim*
+Một con đại bàng và Héra trong *The Lord of the Rings: The War of the Rohirrim*
 
 ## Giấy phép {#Licensing}
 

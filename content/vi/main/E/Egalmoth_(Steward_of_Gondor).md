@@ -64,7 +64,7 @@ Egalmoth có lẽ được đặt tên theo [Noldorin](../N/Noldor.md) [Tiên](E
 
 Ông đã kế vị người anh họ [Ecthelion tôi](Ecthelion_I.md) sau khi ông qua đời vào năm [T.A.](../T/Third_Age.md) [2698](../T/Third_Age_2698.md). Egalmoth là cháu trai của [Morwen](<../M/Morwen_(daughter_of_Belecthor).md>), con gái của [Belecthor I](../B/Belecthor_I.md). Trong thời gian ông cai trị đã xảy ra chiến tranh mới với [Orc](../O/Orcs.md).<sup id="cite_ref-Elendil_1-1" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
 
-Trong [T.A.](../T/Third_Age.md) [2710](../T/Third_Age_2710.md) Vua [Déor](../D/Déor.md) đã nhờ giúp đỡ để đánh đuổi [Dunlendings](../D/Dunlendings.md) khỏi [Vòng Isengard](../R/Ring_of_Isengard.md) bị chiếm đóng, nhưng Quản lý không thể gửi trợ giúp.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Trong [T.A.](../T/Third_Age.md) [2710](../T/Third_Age_2710.md) Vua [Déor](../D/Déor.md) đã nhờ giúp đỡ để đánh đuổi [Dunlending](../D/Dunlendings.md) khỏi [Nhẫn bị chiếm đóng của Isengard](../R/Ring_of_Isengard.md), nhưng Quản lý không thể gửi trợ giúp.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 Egalmoth theo sau là con trai ông [Beren](<../B/Beren_(Steward_of_Gondor).md>) khi ông qua đời vào [T.A.](../T/Third_Age.md) [2743](../T/Third_Age_2743.md).<sup id="cite_ref-South_2-1" class="reference"><a href="#cite_note-South-2">[2]</a></sup>
 

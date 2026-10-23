@@ -44,17 +44,17 @@ infobox:
     - "Bên dòng nước Anduin, chúng ta nằm xuống và khóc: *[Akallabêth](../A/Akallabêth.md)* của Tolkien và trí tưởng tượng tiên tri" của Tom Emanuel
     - "Trở về quá khứ? Gỡ rối Elvish Tham khảo thời gian và không gian" của Maria Zielenbach
 - **Ghi chú**
-    - "Có sự tham gia Trung Địa: Cộng hưởng cổ xưa và chiếc nhẫn thống trị" của Jason Monroe
-    - "*Eruanno* trong Tolkien's *[Aia María](../A/Aia_María.md)*" của Michael Corso
+    - "Có sự tham gia Trung Địa: Tiếng vang cổ xưa và sự cai trị Nhẫn" của Jason Monroe
+    - "*Eruanno* trong *[Aia María](../A/Aia_María.md)*của Tolkien" của Michael Corso
 Bài giảng bị mất của     - "Tolkien về *Hamlet*, được xây dựng lại" bởi Jessica Yates
-    - "Liên quan đến ‘[Liên quan đến phân biệt chủng tộc và Tolkien](../A/Amon_Hen_299.md)’" của Clare Moore
+    - "Liên quan đến ‘[Liên quan đến phân biệt chủng tộc và Tolkien](../A/Amon_Hen_299.md)'" của Clare Moore
     - " [Người miền Nam mắt lác](../S/Squint-eyed_Southerner~64042.md) như một nghiên cứu điển hình về chủ nghĩa phương Đông trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* §" của Mercury Natis
     - "Vấn đề của học viện da trắng §" của Robin Anne Reid
     - "Tolkien và [Fallohides](../F/Fallohides.md) §" của Luke Shelton
     - "Ghi chú về Hội nghị bàn tròn: Về 'Tolkien và Cấu trúc chủng tộc thời Trung cổ' tại ICMS 2023 §" của Mariana Rios Maldonado
 - **Đánh giá**
 Chủ nghĩa không tưởng và tác phẩm kinh điển của     - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=J.R.R._Tolkien%E2%80%99s_Utopianism_and_The_Classics&amp;action=edit&amp;redlink=1" title="J.R.R. Tolkien’s Utopianism and The Classics (page does not exist)">J.R.R. Tolkien</a></i> của Hamish Williams (được Nicholas Birns đánh giá)
-    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=A_Sense_of_Tales_Untold&amp;action=edit&amp;redlink=1" title="A Sense of Tales Untold (page does not exist)">A Sense of Tales Untold</a></i> của Peter Grybauskas (Rebecca Davis đánh giá)
+    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=A_Sense_of_Tales_Untold&amp;action=edit&amp;redlink=1" title="A Sense of Tales Untold (page does not exist)">A Sense of Tales Untold</a></i> của Peter Grybauskas (được đánh giá bởi Rebecca Davis)
     - *[Tweaking Things a Little: Essays on the Epic Fantasy of J.R.R. Tolkien and George R.R. Martin](../T/Tweaking_Things_a_Little.md)* của [Thomas Honegger](../T/Thomas_Honegger.md) (được đánh giá bởi Kristine Larsen)
     - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Dogmatics&amp;action=edit&amp;redlink=1" title="Tolkien Dogmatics (page does not exist)">Tolkien Giáo lý: Thần học thông qua Thần thoại trong Trung Địa</a></i> của Austin Freeman (được Nick Polk đánh giá)
 - **Bài gửi**

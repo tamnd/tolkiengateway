@@ -156,7 +156,7 @@ Trong *[Gnomish Lexicon](../G/Gnomish_Lexicon.md)* thời kỳ đầu, phiên b�
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Aulë is frequently invoked by the dwarves, although due to the game not having the license to the <i>Silmarillion</i>, he is referred to simply as &#34;The First Crafter&#34;.</dd></dl>
 

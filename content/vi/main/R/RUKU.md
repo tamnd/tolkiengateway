@@ -37,7 +37,7 @@ Ngoài ra trong [*Etymologies*](../T/The_Etymologies.md) xuất hiện gốc **�
 
 - [Primitive Quendian](../P/Primitive_Quendian.md): *órku*
     - [Quenya](../Q/Quenya.md): *orko* (vui lòng *orqi*)
-    - [Noldorin](../N/Noldorin.md): *orch* (pl *yrch*, cổ xưa *yrchy*<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>)
+    - [Noldorin](../N/Noldorin.md): *orch* (pl *yrch*, cổ điển *yrchy*<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>)
     - [Danian](../N/Nandorin.md): *urc* (vui lòng *yrc*)
     - [Doriathrin](../D/Doriathrin.md): *urch* (vui lòng *urchin*)
 

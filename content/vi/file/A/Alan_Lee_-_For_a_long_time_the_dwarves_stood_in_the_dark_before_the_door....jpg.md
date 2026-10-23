@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-“Trong một thời gian dài [những người lùn](../../main/T/Thorin_and_Company.md) đứng trong bóng tối trước cửa…” của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+“Đã rất lâu [những người lùn](../../main/T/Thorin_and_Company.md) đứng trong bóng tối trước cửa…” của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

@@ -20,13 +20,13 @@ images:
 
 ### Sách {#Books}
 
-- <b><i><a href="There_and_Back_Again.md" title="There and Back Again">Có và quay lại</a></i>, sách của <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>.</b>
+- <b><i><a href="There_and_Back_Again.md" title="There and Back Again">There and Back Again</a></i>, một cuốn sách của <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>.</b>
 
 ## Thế giới thực {#Real-world}
 
 ### Sách {#Books_2}
 
-- <b><i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit, hoặc, There and Back Again</a></i>, cuốn sách <a href="../_/1937.md" title="1937">1937</a> của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</b>
+- <b><i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit, hoặc There and Back Again</a></i>, cuốn sách <a href="../_/1937.md" title="1937">1937</a> của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</b>
 - *[There and Back Again: An Actor's Tale](There_and_Back_Again%253A_An_Actor's_Tale.md)*, một cuốn sách [2004](../_/2004.md) của [Sean Astin](../S/Sean_Astin.md).
 - *[There and Back Again: In the Footsteps of J.R.R. Tolkien's England](There_and_Back_Again%253A_In_the_Footsteps_of_J.R.R._Tolkien's_England.md)*, cuốn sách năm 2004 của Mathew Lyons.
 - *[There and Back Again: J.R.R. Tolkien and the Origins of The Hobbit](There_and_Back_Again%253A_J.R.R._Tolkien_and_the_Origins_of_The_Hobbit.md)*, cuốn sách năm 2012 của Mark Atherton.

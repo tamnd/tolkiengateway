@@ -98,11 +98,11 @@ Người [Éothéod](../_/Éothéod.md), tổ tiên của người [Rohirrim](..
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Lord of the Rings: Trận chiến vì Trung Địa II: Sự trỗi dậy của Vua Phù thủy</a></i>:</b>
 
 <dl><dd>Angmar is a playable faction in the game, featuring mostly heroes and units not found within Tolkien&#39;s <a href="../L/Legendarium.md" title="Legendarium">Legendarium</a>. Moreover, during the game&#39;s campaign, Angmar is besieged in <a href="../C/Carn_Dûm.md" title="Carn Dûm">Carn Dûm</a> by <a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a> and his <a href="../E/Elves.md" title="Elves">Elves</a>, however he wins the siege and destroys <a href="Arnor.md" title="Arnor">Arnor</a> and <a class="mw-redirect" href="../F/Fornost.md" title="Fornost">Fornost</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Angmar_map.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8e/The_Lord_of_the_Rings_Online_-_Angmar_map.jpg/300px-The_Lord_of_the_Rings_Online_-_Angmar_map.jpg" decoding="async" loading="lazy" width="300" height="240" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8e/The_Lord_of_the_Rings_Online_-_Angmar_map.jpg/450px-The_Lord_of_the_Rings_Online_-_Angmar_map.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8e/The_Lord_of_the_Rings_Online_-_Angmar_map.jpg/600px-The_Lord_of_the_Rings_Online_-_Angmar_map.jpg 2x" data-file-width="1280" data-file-height="1024"/></a><figcaption>Map of Angmar from <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
@@ -124,7 +124,7 @@ Người [Éothéod](../_/Éothéod.md), tổ tiên của người [Rohirrim](..
 
 <dl><dd><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> tells <a href="../T/Thranduil.md" title="Thranduil">Thranduil</a> and <a href="../B/Bard.md" title="Bard">Bard</a> that <a href="../S/Sauron.md" title="Sauron">Sauron&#39;s</a> final goal was to conquer the <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Lonely Mountain</a> due to its strategic position. This would enable Sauron to restore Angmar and gain dominance over the north of <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>.</dd></dl>
 
-**2016: <i><a href="../T/Third_Age%253A_Total_War.md" title="Third Age: Total War">Third Age: Total War</a> - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Divide_and_Conquer_(MII:TW_mod)&amp;action=edit&amp;redlink=1" title="Divide and Conquer (MII:TW mod) (page does not exist)">Divide and Conquer</a></i>:**
+**2016: <i><a href="../T/Third_Age%253A_Total_War.md" title="Third Age: Total War">Kỷ Đệ Tam: Chiến tranh tổng lực</a> - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Divide_and_Conquer_(MII:TW_mod)&amp;action=edit&amp;redlink=1" title="Divide and Conquer (MII:TW mod) (page does not exist)">Chia rẽ và chinh phục</a></i>:**
 
 <dl><dd>Following Angmar&#39;s destruction, only a few of the Witch-king&#39;s servants gathered in the lands that once stood as his domain, with the descendants of those few gathering in the old fortresses. They waited patiently and diligently for their master&#39;s return, but let the very hillmen that they once ruled over colonise the territories of Rhuduar, which they claimed as their own. As the ring once again called for its master, Sauron sent his Nazgûl to Eriador, where the Witch-king took the remnants of his Kingdom and demanded his servants to go forth and wage war once again in the name of the Iron Crown.</dd></dl>
 

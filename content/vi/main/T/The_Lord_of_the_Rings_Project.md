@@ -12,7 +12,7 @@ categories:
   - "Websites"
 ---
 
-**The Lord of the Rings Dự án** là một trang web nhằm mục đích 'đặt mọi nhân vật trong vũ trụ hư cấu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào một cây phả hệ'.<sup id="cite_ref-LOTRPAbout_1-0" class="reference"><a href="#cite_note-LOTRPAbout-1">[1]</a></sup>
+**The Lord of the Rings Dự án** là một trang web nhằm mục đích 'đặt mọi nhân vật trong [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vũ trụ hư cấu vào một cây phả hệ'.<sup id="cite_ref-LOTRPAbout_1-0" class="reference"><a href="#cite_note-LOTRPAbout-1">[1]</a></sup>
 
 Ngoài cây phả hệ, Dự án Chúa tể những chiếc nhẫn còn có dòng thời gian về các sự kiện quan trọng trong lịch sử của [Trung Địa](../M/Middle-earth.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> bản đồ tương tác của Trung Địa trong [Kỷ Đệ Tam](Third_Age.md) và nhiều số liệu thống kê chi tiết khác nhau.
 

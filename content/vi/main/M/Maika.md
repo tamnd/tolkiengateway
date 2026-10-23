@@ -18,7 +18,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-- [Gốc](../S/Sundocarme.md) MAK ("cắt, đẽo bằng cạnh sắc")<sup id="cite_ref-VT39_2-1" class="reference"><a href="#cite_note-VT39-2">[2]</a></sup>
+- [Gốc](../S/Sundocarme.md) MAK ("cắt, đẽo có cạnh sắc")<sup id="cite_ref-VT39_2-1" class="reference"><a href="#cite_note-VT39-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

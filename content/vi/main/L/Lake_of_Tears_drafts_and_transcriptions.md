@@ -11,4 +11,4 @@ redirect_target: "Lake of Tears"
 redirect_fragment: "Other versions"
 ---
 
-Chuyển hướng tới [Hồ nước mắt](Lake_of_Tears.md#Other_versions).
+Chuyển hướng đến [Hồ nước mắt](Lake_of_Tears.md#Other_versions).

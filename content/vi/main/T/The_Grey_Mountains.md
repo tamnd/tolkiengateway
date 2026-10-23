@@ -51,5 +51,5 @@ Dãy Núi Xám bao gồm:
 - Bản đồ đủ màu 17" x 22" mô tả phạm vi Dãy Núi Xám và phía Bắc Rhovanion.
 - 9 Cuộc phiêu lưu đầy thử thách, bao gồm một chiến dịch nhỏ gồm 4 cuộc phiêu lưu. Những công việc khó khăn này đưa những người khám phá đi từ đầu này đến đầu kia của Dãy Núi Xám.
 - Bố cục chi tiết của thành phố Người lùn, Norr Dum, pháo đài Orc băng, Kala Dulakurth và vô số địa điểm ám ảnh khác nằm rải rác khắp dãy núi hùng vĩ này.
-- Thông tin chuyên sâu về Rồng và Người Lùn của Dãy Núi Xám và cây thạch thảo khô héo.
+- Thông tin chuyên sâu về Rồng và Người Lùn của Dãy Núi Xám và cây thạch nam khô héo.
 - Số liệu thống kê và thông tin cơ bản về nhiều nhân cách và quái vật lang thang ở miền bắc băng giá Trung Địa.

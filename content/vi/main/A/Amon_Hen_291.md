@@ -45,13 +45,13 @@ infobox:
 - **4** - Phía sau cánh cửa kính
 - **6** - Melkor - Ý chí tự do và sự cứu chuộc của Steven Gibb
 - **7** - Melkor của Jenna Kass
-- **10** - Tol Fuin, Nơi trú ẩn của cái ác và nơi an nghỉ cuối cùng của linh hồn tan vỡ Sauron của Cameron Kenneth Miller
+- **10** - Tol Fuin, Nơi trú ẩn cho cái ác và nơi an nghỉ cuối cùng cho linh hồn tan nát Sauron của Cameron Kenneth Miller
 - **13** - Nazgûl của Erin Goetz
 - **14** - Sự trả thù của chú thỏ của Kristine Larse
 - **18** - Giữa trang: Thuringwethil của Kathrin Hei
 - **20** - Bài đánh giá về Thụy Sĩ của Tolkien của Liz Stephen
 - **22** - Tolkien Tabletop #4: Trò chơi trừu tượng của David MeanS
-- **24** - Nhiệm vụ chiếc nhẫn - Sự kiện 20 năm Tolkien của Alan Baxter
+- **24** - Nhẫn Nhiệm vụ - Sự kiện 20 năm Tolkien của Alan Baxter
 - **26** - Tolkien Mặt bàn...Theo nghĩa đen! bởi Scott Ismail
 - **28** - Mathom
 - **32** - Tin tức từ Fangorn

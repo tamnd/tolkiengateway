@@ -88,7 +88,7 @@ Nhiều năm sau, các con trai ông, với tư cách là thành viên của [Đ
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Fundin appears in an extended flashback depicting the <a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Battle of Azanulbizar</a>, in which he fights alongside his sons <a href="../B/Balin.md" title="Balin">Balin</a> and <a href="../D/Dwalin.md" title="Dwalin">Dwalin</a> and the rest of <a href="Farin.md" title="Farin">Farin</a>&#39;s kin. He is slain by arrows while covering the retreat of <a href="../T/Thráin.md" title="Thráin">Thráin</a>&#39;s vanguard.</dd></dl>
 

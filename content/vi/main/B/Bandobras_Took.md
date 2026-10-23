@@ -140,7 +140,7 @@ Có thể [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã được truyền cảm 
 
 <dl><dd>The first Hobbit outside <a href="Bag_End.md" title="Bag End">Bag End</a> recounts the story of Bandobras, followed by the accusations that young hobbits do not know enough about their history.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The public test server is named Bullroarer after Bandobras Took.</dd></dl>
 
@@ -148,7 +148,7 @@ Có thể [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã được truyền cảm 
 
 <dl><dd>Besides inventing golf, Bandobras also invented fence walking. Every morning Bullroarer would drink his favorite beer and then walk across a fence. It is said that he did this to improve his balance. Hobbits would play fence walking as part of the Bullroarer Took Day celebration.</dd></dl>
 
-<b>2014: <i><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit: The Video Game</a></i></b>
+<b>2014: <i><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit: Trò chơi điện tử</a></i></b>
 
 <dl><dd>Bandobras is an obtainable playable character.</dd></dl>
 

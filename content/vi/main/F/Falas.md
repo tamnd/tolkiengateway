@@ -77,7 +77,7 @@ Xem thêm: [Anfalas](../A/Anfalas.md), [Tolfalas](../T/Tolfalas.md), [Falastur](
 
 ## Từ cùng gốc {#Cognates}
 
-- [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Falasse&amp;action=edit&amp;redlink=1" title="Falasse (page does not exist)">falasse</a></i>
+- [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Falasse&amp;action=edit&amp;redlink=1" title="Falasse (page does not exist)">giả mạo</a></i>
 
 <span></span>
 

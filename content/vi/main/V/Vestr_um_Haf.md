@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bilbo's Last Song (at the Grey Havens)"
 ---
 
-Chuyển hướng tới Bài hát cuối cùng của [Bilbo(tại Cảng Xám)](<../B/Bilbo's_Last_Song_(at_the_Grey_Havens).md>).
+Chuyển hướng đến [Bilbo Bài hát cuối cùng (tại Cảng Xám)](<../B/Bilbo's_Last_Song_(at_the_Grey_Havens).md>).

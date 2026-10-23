@@ -35,7 +35,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Pippin](Pippin.md) ngồi trên một chiếc ghế dài trong bộ đồng phục của [Đội Cận vệ Thành Trì](../G/Guards_of_the_Citadel.md) suy nghĩ về quyết định trung thành với [Denethor](../D/Denethor.md)của anh ta và tự hỏi anh ta, một [hobbit](../H/Hobbit.md), có thể phục vụ [Quản lý](../D/Denethor.md) như thế nào. [Faramir](../F/Faramir.md) đi về phía anh ta và nói với anh ta rằng *"một hành động hào phóng không nên bị kiểm tra bằng lời khuyên lạnh lùng"*. Mỉm cười với Pippin, Faramir nói với anh rằng bộ đồ anh đang mặc từng là của anh khi anh còn nhỏ. Anh ta nói với người hobbit rằng [Boromir](../B/Boromir.md) luôn là một người lính và anh trai và cha anh ta rất giống nhau.
+[Pippin](Pippin.md) ngồi trên một chiếc ghế dài trong bộ đồng phục của [Đội Cận vệ Thành trì](../G/Guards_of_the_Citadel.md) suy nghĩ về quyết định trung thành với [Denethor](../D/Denethor.md)của anh ta và tự hỏi anh ta, một [hobbit](../H/Hobbit.md), có thể phục vụ [Quản lý](../D/Denethor.md) như thế nào. [Faramir](../F/Faramir.md) đi về phía anh ta và nói với anh ta rằng *"một hành động hào phóng không nên bị kiểm tra bằng lời khuyên lạnh lùng"*. Mỉm cười với Pippin, Faramir nói với anh rằng bộ đồ anh đang mặc từng là của anh khi anh còn nhỏ. Anh ta nói với người hobbit rằng [Boromir](../B/Boromir.md) luôn là một người lính và anh trai và cha anh ta rất giống nhau.
 
 <blockquote class="tg-quote noexcerpt">
 <p>I think you have strength of a different kind. And one day, your father will see it.

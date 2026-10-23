@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Người đàn ông trong Mặt Trăng Đến quá sớm](../../main/T/The_Man_in_the_Moon_Came_Down_Too_Soon.md)" của [Roger Garland](../../main/R/Roger_Garland.md)
+"[ Người đàn ông trong Mặt Trăng Đã sụp đổ quá sớm](../../main/T/The_Man_in_the_Moon_Came_Down_Too_Soon.md)" của [Roger Garland](../../main/R/Roger_Garland.md)
 
 ## Giấy phép {#Licensing}
 

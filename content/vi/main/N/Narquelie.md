@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Narquelië"
 ---
 
-Chuyển hướng tới [Narquelië](Narquelië.md).
+Chuyển hướng đến [Narquelië](Narquelië.md).

@@ -26,8 +26,8 @@ Quá trình sản xuất bị lu mờ bởi [BBC](<The_Lord_of_the_Rings_(1981_r
 ## Các tập {#Episodes}
 
 1. "Một bữa tiệc được mong đợi từ lâu"
-2. "Chiếc nhẫn rời đi The Shire"
-3. "Được giải cứu bởi Tom Bombadil"
+2. "Các Nhẫn Lá The Shire"
+3. "Được cứu bởi Tom Bombadil"
 4. "Strider Và Nazgûl"
 5. "Chuyến bay tới chiếc Ford"
 6. " Hội đồng Của Elrond"

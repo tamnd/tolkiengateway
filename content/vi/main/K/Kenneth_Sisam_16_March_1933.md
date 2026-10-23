@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Kenneth Sisam (16 March 1933)"
 ---
 
-Chuyển hướng tới [Thư gửi Kenneth Sisam (16 tháng 3 năm 1933)](<../L/Letter_to_Kenneth_Sisam_(16_March_1933).md>).
+Chuyển hướng đến [Thư gửi Kenneth Sisam (16 tháng 3 năm 1933)](<../L/Letter_to_Kenneth_Sisam_(16_March_1933).md>).

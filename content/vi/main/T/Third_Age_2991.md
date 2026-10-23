@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sự ra đời của [Éomer](../_/Éomer.md), đứa con đầu lòng và con trai của [Éomund](../_/Éomund.md) và [Théodwyn](Théodwyn.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Sinh con [Éomer](../_/Éomer.md), con đầu lòng của [Éomund](../_/Éomund.md) và [Théodwyn](Théodwyn.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - Sự ra đời của [Ilberic Brandybuck](../I/Ilberic_Brandybuck.md), con thứ hai và con trai thứ hai của [Seredic Brandybuck](../S/Seredic_Brandybuck.md) và [Hilda Bracegirdle](../H/Hilda_Bracegirdle.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - Sự ra đời của [Moro Burrows](../M/Moro_Burrows.md), đứa con thứ hai và con trai thứ hai của [Milo Burrows](../M/Milo_Burrows.md) và [Hoa mẫu đơn Baggins](../P/Peony_Baggins.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - Cái chết của [Sigismond Took](../S/Sigismond_Took.md).<sup id="cite_ref-Took_4-0" class="reference"><a href="#cite_note-Took-4">[4]</a></sup>

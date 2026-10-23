@@ -73,7 +73,7 @@ Bài viết của [Glen GoodKnight](../G/Glen_GoodKnight.md) "Cái chết và kh
 - [Tim Kirk](../T/Tim_Kirk.md): bìa, 18
 - Barbara Mann: 25
 - [Paula Marmor](../P/Paula_Marmor.md): 16, 17, 35
-- John Uhumacher: 34
+- John Uhrumacher: 34
 - Bìa: Tim Kirk, “Chơi đùa khi nhìn thấy cái cây”
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 9</div></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_9.md" title="Mythlore 9">Mythlore 9</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 10</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 11</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_11.md" title="Mythlore 11">Mythlore 11</a></div></div></div>

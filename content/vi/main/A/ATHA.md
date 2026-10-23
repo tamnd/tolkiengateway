@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "ATH"
 ---
 
-Chuyển hướng tới [ATH](ATH~33243.md).
+Chuyển hướng đến [ATH](ATH~33243.md).

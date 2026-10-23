@@ -69,9 +69,9 @@ Sự kiện xảy ra vào ngày 14 tháng 1.
 - **[1936](1936.md)** - Trong Lời tựa cho *[Roman Britain and the English Settlements](../R/Roman_Britain_and_the_English_Settlements.md)*, R.G. Collingwood vào ngày này có viết về đóng góp của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)cho cuốn sách.
 - **[1938](1938.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) nói chuyện về *Anglo-Saxon Verse* trên [BBC Radio](../B/BBC.md).
 - **[1956](1956.md)** - Tolkien viết [Thư 180](../L/Letter_180.md).
-- **[1956](1956.md)** - Tolkien viết [một lá thư cho Peter Alford](<../L/Letter_to_Peter_Alford_(14_January_1956).md>).
+- **[1956](1956.md)** - Tolkien viết [một bức thư cho Peter Alford](<../L/Letter_to_Peter_Alford_(14_January_1956).md>).
 - **[1973](1973.md)** - Bạn đọc N.J. Kyle viết [thư gửi J.R.R. Tolkien](../L/Letter_to_N.J._Kyle.md).
-- **[2005](2005.md)** - "[Lễ kỷ niệm một chiếc nhẫn](../T/The_One_Ring_Celebration.md)" đầu tiên bắt đầu.
+- **[2005](2005.md)** - "[Chiếc nhẫn duy nhất Lễ kỷ niệm](../T/The_One_Ring_Celebration.md)" đầu tiên bắt đầu.
 - **[2008](2008.md)** - *[The Lord of the Rings: The Ultimate Critical Review](../T/The_Lord_of_the_Rings%253A_The_Ultimate_Critical_Review.md)* được phát hành.
 
 ## Trong Arda {#In_Arda}

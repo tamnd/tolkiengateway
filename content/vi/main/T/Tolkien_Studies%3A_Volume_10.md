@@ -68,7 +68,7 @@ Số này in lại bài thơ "[Ngày xửa ngày xưa](../O/Once_upon_a_Time.md)
     - *A Hobbit Journey*, bởi [Matthew Dickerson](../M/Matthew_Dickerson.md) và *A Hobbit Devotional*, bởi Ed Strauss, được đánh giá bởi Donald T. Williams
 
 - Merlin DeTardo, "Công việc của năm trong nghiên cứu Tolkien năm 2010"
-- Rebecca Epstein, David Bratman, và Merlin DeTardo, "Thư mục (bằng tiếng Anh) năm 2011"
+- Rebecca Epstein, David Bratman, và Merlin DeTardo, "Thư mục (bằng tiếng Anh) cho năm 2011"
 
 ## Liên kết ngoài {#External_links}
 

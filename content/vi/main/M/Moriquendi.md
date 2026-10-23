@@ -43,7 +43,7 @@ langlinks:
 
 ## Lịch sử {#History}
 
-Khi Vala [Oromë](../O/Oromë.md) đến mời Tiên tộc của [Cuiviénen](../C/Cuiviénen.md) đến sống ở [Valinor](../V/Valinor.md), 56 trong số 144 người đã chọn ở lại, trở thành [Avari](../A/Avari.md), trong khi 26 trong số 144 người khác dừng lại trên đường đi, trở thành [Nandor](../N/Nandor.md) và [Sindar](../S/Sindar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup> Tất cả những Tiên tộc chưa bao giờ đạt tới Valinor đều là "Tiên Hắc Ám."
+Khi Vala [Oromë](../O/Oromë.md) đến mời Tiên tộc của [Cuiviénen](../C/Cuiviénen.md) đến sống ở [Valinor](../V/Valinor.md), 56 trong số 144 người đã chọn ở lại, trở thành [Avari](../A/Avari.md), trong khi 26 trong số 144 người khác dừng lại dọc đường, trở thành [Nandor](../N/Nandor.md) và [Sindar](../S/Sindar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup> Tất cả những Tiên tộc chưa bao giờ đạt được Valinor đều là "Tiên Hắc Ám."
 
 Trong [Kỷ Đệ Nhất](../F/First_Age.md), Sindar coi thuật ngữ "Moriquendi" là xúc phạm, vì vậy Noldorin [Những người lưu vong](../E/Exiles.md) đã đặt cái tên [Úmanyar](../_/Úmanyar.md) ("Những người không thuộc [Aman](../A/Aman.md)") cho những người đã bắt đầu cuộc hành trình nhưng không kết thúc nó. Điều này đặc biệt bao gồm Sindar và [Laiquendi](../L/Laiquendi.md), và nói chung là cả Nandor khác và các hậu duệ [Silvan](../S/Silvan.md) và [Galadhrim](../G/Galadhrim.md) của chúng.
 

@@ -87,7 +87,7 @@ Argeleb chỉ trị vì bảy năm, và sau khi ông qua đời vào [T.A.](../T
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
 <dl><dd>In the Angmar campaign of the <a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">expansion pack <i>The Rise of the Witch-king</i></a>, Argeleb comes to the aid of the struggling kingdom of Rhudaur. He arrives from the North after the player destroys the first of two fortresses, and has to be defeated for the level to pass.</dd></dl>
 

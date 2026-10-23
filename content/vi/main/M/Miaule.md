@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Miaulë"
 ---
 
-Chuyển hướng đến [Miaulë](Miaulë.md).
+Chuyển hướng tới [Miaulë](Miaulë.md).

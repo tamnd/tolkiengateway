@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grishnákh"
 ---
 
-Chuyển hướng tới [Grishnákh](Grishnákh.md).
+Chuyển hướng đến [Grishnákh](Grishnákh.md).

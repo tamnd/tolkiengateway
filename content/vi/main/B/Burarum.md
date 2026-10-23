@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Burárum"
 ---
 
-Chuyển hướng đến [Burárum](Burárum.md).
+Chuyển hướng tới [Burárum](Burárum.md).

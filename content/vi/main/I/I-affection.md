@@ -61,7 +61,7 @@ Sau đó, tất cả các nguyên âm cuối đều <a class="new" href="https:/
 
 ## Cảm hứng {#Inspiration}
 
-Hiện tượng này phổ biến trong tiếng Đức và tiếng Wales, dựa trên Sindarin. Ví dụ: số nhiều của W. *bard* (< classic \**bardos*) là *beird* (< \**bardoi*)<sup id="cite_ref-ITE_3-1" class="reference"><a href="#cite_note-ITE-3">[3]</a></sup> Quá trình tương tự chịu trách nhiệm cho một số số nhiều trong tiếng Anh, chẳng hạn như *man &gt; men* hoặc *foot &gt; feet*. <span></span>
+Hiện tượng này phổ biến trong tiếng Đức và tiếng Wales, dựa trên đó Sindarin. Ví dụ: số nhiều của W. *bard* (< classic \**bardos*) là *beird* (< \**bardoi*)<sup id="cite_ref-ITE_3-1" class="reference"><a href="#cite_note-ITE-3">[3]</a></sup> Quá trình tương tự chịu trách nhiệm cho một số số nhiều trong tiếng Anh, chẳng hạn như *man &gt; men* hoặc *foot &gt; feet*. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

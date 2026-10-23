@@ -30,7 +30,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Sau [Tinwë Linto](../T/Tinwë_Linto.md), thủ lĩnh ban đầu của Solosimpi, bị mê hoặc bởi [fay](../F/Fays.md) [Wendelin](../W/Wendelin.md) ở [Hisilómë](../H/Hisilómë.md) trong [march](../G/Great_Journey.md) của [Tiên tộc](Elves.md)từ [Palisor](../P/Palisor.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Solosimpi đã chọn một Ellu làm của họ chúa tể,<sup id="cite_ref-Ell_1-3" class="reference"><a href="#cite_note-Ell-1">[1]</a></sup> người cuối cùng đã dẫn họ đến [Valinor](../V/Valinor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Sau [Tinwë Linto](../T/Tinwë_Linto.md), thủ lĩnh ban đầu của Solosimpi, bị mê hoặc bởi [fay](../F/Fays.md) [Wendelin](../W/Wendelin.md) ở [Hisilómë](../H/Hisilómë.md) trong [march](../G/Great_Journey.md) của [Tiên tộc](Elves.md)từ [Palisor](../P/Palisor.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Solosimpi đã chọn một Ellu làm của họ chúa tể,<sup id="cite_ref-Ell_1-3" class="reference"><a href="#cite_note-Ell-1">[1]</a></sup> người cuối cùng đã dẫn họ tới [Valinor](../V/Valinor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Nhiều năm sau, khi [Melko](../M/Melko.md) bắt đầu gieo rắc tình trạng bất ổn giữa các [Gnomes](../G/Gnomes.md) ở Valinor, vua [Nólemë](../N/Nólemë.md) của họ đã tìm đến lời khuyên của Ellu, người cùng với [Inwë](../I/Inwë.md) và [Fëanor](../F/Fëanor.md)đã khuyên anh nên thông báo cho [Manwë](../M/Manwë.md) về âm mưu của Melko.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

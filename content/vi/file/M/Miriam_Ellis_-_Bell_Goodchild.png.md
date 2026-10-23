@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Chi tiết "[Bên trong dãy túi đựng trà số 3](Miriam_Ellis_-_Inside_Number_3_Bagshot_Row_for_Tea.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), mô tả [Bell Goodchild](../../main/B/Bell_Goodchild.md)
+Chi tiết tác phẩm "[Inside Number 3 Bagshot Row for Tea](Miriam_Ellis_-_Inside_Number_3_Bagshot_Row_for_Tea.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), mô tả [Bell Goodchild](../../main/B/Bell_Goodchild.md)
 
 ## Giấy phép {#Licensing}
 

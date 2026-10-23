@@ -18,7 +18,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/The_Homecoming_of_Beorhtnoth,_Beorhthelm%E2%80%99s_Son_(H%C3%B6rspiel)"
 ---
 
-Vào [ngày 3 tháng 12](../_/3_December.md), [1954](../_/1954.md), [Chương trình thứ ba của BBC](../B/BBC.md) đã phát sóng một vở kịch phát thanh dài nửa giờ về <i><b>The Homecoming of Beorhtnoth, Beorhthelm's Son</b></i>, sau bài thơ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)cùng tên](The_Homecoming_of_Beorhtnoth.md) của [.
+Vào [ngày 3 tháng 12](../_/3_December.md), [1954](../_/1954.md), [BBC Chương trình thứ ba](../B/BBC.md) đã phát sóng vở kịch radio kéo dài nửa giờ <i><b>The Homecoming of Beorhtnoth, Beorhthelm's Son</b></i>, sau bài thơ cùng tên của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) [cùng tên](The_Homecoming_of_Beorhtnoth.md).
 
 ## Truyền {#Cast}
 

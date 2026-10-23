@@ -40,7 +40,7 @@ Ronald.
 
 ## Lịch sử {#History}
 
-Tolkien tạm thời làm mất lá thư và cuối cùng phải gửi cho [dì Jane](../J/Jane_Neave.md) một bản sao *[The Hobbit](../T/The_Hobbit.md)* khác cùng với một lá thư khác đề ngày [ngày 6 tháng 10](../O/October_6.md). Cuối cùng anh ấy đã tìm thấy bức thư gốc và giữ nó trong bộ sưu tập của mình.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Bức thư được dán vào trang đầu của cuốn sách bằng băng dính và được chuyển cho [Simon Tolkien](../S/Simon_Tolkien.md) sau cái chết của Tolkien.<sup id="cite_ref-Antiques_2-1" class="reference"><a href="#cite_note-Antiques-2">[2]</a></sup> Cuốn sách được giới thiệu trong một tập của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Antiques_Roadshow&amp;action=edit&amp;redlink=1" title="Antiques Roadshow (page does not exist)">Antiques Roadshow</a> phát sóng năm 1990 (bộ 12 hoặc 13), do vợ của Simon là Tracy mang đến Steinberg.<sup id="cite_ref-Antiques_2-2" class="reference"><a href="#cite_note-Antiques-2">[2]</a></sup> Cuốn sách sau đó đã được bán cùng với bức thư vào năm 2003.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Tolkien tạm thời làm mất lá thư và cuối cùng phải gửi cho [dì Jane](../J/Jane_Neave.md) một bản sao *[The Hobbit](../T/The_Hobbit.md)* khác cùng với một lá thư khác đề ngày [ngày 6 tháng 10](../O/October_6.md). Cuối cùng anh ấy đã tìm thấy bức thư gốc và giữ nó trong bộ sưu tập của mình.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Bức thư được dán vào trang đầu của cuốn sách bằng băng dính và được chuyển cho [Simon Tolkien](../S/Simon_Tolkien.md) sau cái chết của Tolkien.<sup id="cite_ref-Antiques_2-1" class="reference"><a href="#cite_note-Antiques-2">[2]</a></sup> Cuốn sách được giới thiệu trong một tập của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Antiques_Roadshow&amp;action=edit&amp;redlink=1" title="Antiques Roadshow (page does not exist)">Antiques Roadshow</a> phát sóng năm 1990 (loạt 12 hoặc 13), do Tracy Steinberg, vợ của Simon mang đến.<sup id="cite_ref-Antiques_2-2" class="reference"><a href="#cite_note-Antiques-2">[2]</a></sup> Cuốn sách sau đó được bán cùng với bức thư vào năm 2003.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Xem thêm {#See_also}
 
@@ -48,7 +48,7 @@ Tolkien tạm thời làm mất lá thư và cuối cùng phải gửi cho [dì 
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.youtube.com/watch?v=E5fr9NfFd_0&amp;ab_channel=BBCStudios" rel="noreferrer noopener" target="_blank">Bản sao siêu hiếm của The Hobbit! | Roadshow đồ cổ | Hãng phim BBC</a> trên *YouTube*
+- <a class="external text" href="https://www.youtube.com/watch?v=E5fr9NfFd_0&amp;ab_channel=BBCStudios" rel="noreferrer noopener" target="_blank">Bản sao siêu hiếm của The Hobbit! | Roadshow đồ cổ | BBC Phim trường</a> trên *YouTube*
 - <a class="external text" href="https://www.youtube.com/watch?v=SJ6RJ-fxKA8" rel="noreferrer noopener" target="_blank">Cuốn sách đắt nhất từng có trên Roadshow đồ cổ ❦ The Hobbit (1937)</a> của Tom Ayling trên *YouTube*
 
 <span></span>

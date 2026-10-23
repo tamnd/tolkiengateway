@@ -119,13 +119,13 @@ Vào Kỷ thứ Hai, loài Người ở Trung Địa gọi Ered Luin là **Dãy 
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
 <dl><dd>The Blue Mountains are featured as a location of a fight between Dwarves and <a href="../D/Drogoth.md" title="Drogoth">Drogoth</a>.</dd></dl>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Ered_Luin_map.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_Online_-_Ered_Luin_map.jpg/300px-The_Lord_of_the_Rings_Online_-_Ered_Luin_map.jpg" decoding="async" loading="lazy" width="300" height="225" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_Online_-_Ered_Luin_map.jpg/450px-The_Lord_of_the_Rings_Online_-_Ered_Luin_map.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_Online_-_Ered_Luin_map.jpg/600px-The_Lord_of_the_Rings_Online_-_Ered_Luin_map.jpg 2x" data-file-width="1024" data-file-height="768"/></a><figcaption>Map of Ered Luin from <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>.</figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Blue Mountains appear as the game&#39;s westernmost region, Ered Luin. Ered Luin is the beginner&#39;s region for four of the game&#39;s races: Elves, <a href="../C/Calaquendi.md" title="Calaquendi">High Elves</a>, Dwarves, and &#34;<a href="../S/Stout-axe.md" title="Stout-axe">Stout-axe</a>&#34; dwarves. The region&#39;s storyline is based around a conflict in the early stages of the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a> between the allied Elves and Longbeards and a rogue group of Dwarves called the <a href="../D/Dourhands.md" title="Dourhands">Dourhands</a> and their allies, the &#34;Blue Crag&#34; <a href="../O/Orcs.md" title="Orcs">Goblins</a>.</dd></dl>
 

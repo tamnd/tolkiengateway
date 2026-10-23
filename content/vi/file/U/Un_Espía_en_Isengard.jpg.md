@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:MEQ - A Spy In Isengard (Spanish Cover).jpg"
 ---
 
-Chuyển hướng đến [Tệp:MEQ - A Spy In Isengard (Bìa tiếng Tây Ban Nha).jpg](<../M/MEQ_-_A_Spy_In_Isengard_(Spanish_Cover).jpg~72438.md>).
+Chuyển hướng tới [Tệp:MEQ - A Spy In Isengard (Bìa tiếng Tây Ban Nha).jpg](<../M/MEQ_-_A_Spy_In_Isengard_(Spanish_Cover).jpg~72438.md>).

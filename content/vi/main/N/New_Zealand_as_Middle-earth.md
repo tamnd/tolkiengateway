@@ -32,7 +32,7 @@ images:
 
 ### [Hobbiton](../H/Hobbiton.md) {#Hobbiton}
 
-- **Matamata**. Một cánh đồng bên ngoài Matamata, một thị trấn nhỏ ở Đảo Bắc, là địa điểm quay phim nhỏ cho các cảnh [Bag End](../B/Bag_End.md) và [Shire](../T/The_Shire.md) bên ngoài và có thể dành cho bữa tiệc của Bilbo
+- **Matamata**. Một cánh đồng bên ngoài Matamata, một thị trấn nhỏ ở Đảo Bắc, là địa điểm quay phim nhỏ cho các cảnh [Bag End](../B/Bag_End.md) và [Shire](../T/The_Shire.md) bên ngoài và có thể dành cho bữa tiệc Bilbo
 
 - **Trang trại Keeling, Manukau**
 - **Rừng Otaki Totara**
@@ -84,6 +84,6 @@ Nơi diễn ra cuộc chiến chống lại [Uruk-hai](../U/Uruk-hai.md) và cá
 
 ## Tài liệu tham khảo {#References}
 
-- [*The Lord of the Rings: The Fellowship of the Ring* (ấn bản mở rộng)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>), Đĩa 3: Các Phụ lục phần Một.
-- [*The Lord of the Rings: The Two Towers* (ấn bản mở rộng)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>), Đĩa 3: Các Phụ lục phần Ba.
-- [*The Lord of the Rings: The Return of the King* (ấn bản mở rộng)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>), Đĩa 3: Các Phụ lục phần Năm.
+- [*The Lord of the Rings: The Fellowship of the Ring* (phiên bản mở rộng)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>), Đĩa 3: Phần Phụ lục Một.
+- [*The Lord of the Rings: The Two Towers* (phiên bản mở rộng)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>), Đĩa 3: Phần Phụ lục thứ ba.
+- [*The Lord of the Rings: The Return of the King* (phiên bản mở rộng)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>), Đĩa 3: Phụ lục phần Năm.

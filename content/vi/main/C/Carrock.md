@@ -70,13 +70,13 @@ Vì vậy, *Carrock* là một từ ghép <a class="extiw" href="http://en.wikip
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Carrock.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/84/The_Lord_of_the_Rings_Online_-_Carrock.jpg/250px-The_Lord_of_the_Rings_Online_-_Carrock.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/84/The_Lord_of_the_Rings_Online_-_Carrock.jpg/375px-The_Lord_of_the_Rings_Online_-_Carrock.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/84/The_Lord_of_the_Rings_Online_-_Carrock.jpg/500px-The_Lord_of_the_Rings_Online_-_Carrock.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Carrock in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Carrock is located in the &#34;<a href="../V/Vales_of_Anduin.md" title="Vales of Anduin">Vales of Anduin</a>&#34; region, where one can access the <a class="mw-redirect" href="../E/Eagles&#39;_Eyrie.md" title="Eagles&#39; Eyrie">Eagles&#39; Eyrie</a> via Great Eagle. A secret cave located in the base of The Carrock, can only be accessed by the kin of <a href="../B/Beorn.md" title="Beorn">Beorn</a> and <a href="../G/Grimbeorn.md" title="Grimbeorn">Grimbeorn</a>.</dd></dl>
 
 ## Xem thêm {#See_also}
 
-- [Ford of Carrock](../F/Ford_of_Carrock.md)
+- [Ford của Carrock](../F/Ford_of_Carrock.md)
 
 <span></span>
 

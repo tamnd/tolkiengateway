@@ -29,7 +29,7 @@ Hang đá của **Fingolfin** là nơi an nghỉ cho thi thể của Vua [Fingol
 
 ## Lịch sử {#History}
 
-Khi lực lượng của Morgoth giành được chiến thắng ở [Dagor Bragollach](../D/Dagor_Bragollach.md), Vua Fingolfin tin rằng ông đang chứng kiến ​​sự kết thúc của Noldor. Anh ta cưỡi ngựa đến cổng [Angband](../A/Angband.md) và thách thức Kẻ thù chiến đấu. Morgoth bước ra, họ [chiến đấu](Fall_of_Fingolfin.md), và Fingolfin chết sau khi làm bị thương đối thủ của mình. Morgoth bẻ gãy thi thể của Nhà vua và định ném nó cho bầy sói của mình thì con đại bàng [Thorondor](../T/Thorondor.md) lao tới và cướp xác đi.
+Khi lực lượng của Morgoth giành được chiến thắng ở [Dagor Bragollach](../D/Dagor_Bragollach.md), Vua Fingolfin tin rằng ông đang chứng kiến ​​sự kết thúc của Noldor. Anh ta cưỡi ngựa đến cổng [Angband](../A/Angband.md) và thách thức Kẻ thù chiến đấu. Morgoth bước ra, họ [chiến đấu](Fall_of_Fingolfin.md), và Fingolfin chết sau khi làm bị thương đối thủ của mình. Morgoth đập vỡ xác của Nhà vua và định ném nó cho bầy sói của mình thì con đại bàng [Thorondor](../T/Thorondor.md) sà vào và giật lấy xác đi.
 
 Con đại bàng lớn đặt xác của Fingolfin lên một ngọn núi phía trên Gondolin. Sau đó, con trai của Fingolfin, [Turgon](../T/Turgon.md), đến và chất một ụ đá cao lên thi thể. Người ta nói rằng không có [Orc](../O/Orcs.md) nào dám đến gần lăng mộ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

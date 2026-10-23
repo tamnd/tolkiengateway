@@ -25,7 +25,7 @@ images:
 ## Sách {#Books}
 
 - <b><i><a href="The_Bridge_of_Khazad-dûm.md" title="The Bridge of Khazad-dûm">Chương Cầu Khazad-dûm</a></i>, chương thứ năm của cuốn sách thứ hai của <i><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>.</b>
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Mines_of_Moria_(2):_The_Bridge&amp;action=edit&amp;redlink=1" title="The Mines of Moria (2): The Bridge (page does not exist)">Mỏ của Moria (2): Cây cầu</a></i>, chương thứ mười của *[The Treason of Isengard](The_Treason_of_Isengard.md)*.
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Mines_of_Moria_(2):_The_Bridge&amp;action=edit&amp;redlink=1" title="The Mines of Moria (2): The Bridge (page does not exist)">The Mỏ Moria (2): Cây cầu</a></i>, chương thứ mười của *[The Treason of Isengard](The_Treason_of_Isengard.md)*.
 
 ## Các bản chuyển thể {#Adaptations}
 

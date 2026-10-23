@@ -37,7 +37,7 @@ infobox:
 
 Vào [10 tháng 3](../_/10_March.md), [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> khi [Frodo Baggins](../F/Frodo_Baggins.md), [Samwise Gamgee](../S/Samwise_Gamgee.md)và [Gollum](../G/Gollum.md) đang tiến đến gần cây cầu bắc qua [Morgulduin](../M/Morgulduin.md), hơi lạnh tỏa ra từ dòng sông khiến Frodo.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Vào [19 tháng 3](../_/19_March.md),<sup id="cite_ref-name_1-1" class="reference"><a href="#cite_note-name-1">[1]</a></sup> khi <a class="mw-redirect mw-disambig" href="../H/Host_of_the_West.md" title="Host of the West">Đạo quân Phương Tây</a> đến và đi qua [Ngã Tư](../C/Cross-roads.md), một đội tiên phong do [Aragorn](../A/Aragorn.md) và [Gandalf](../G/Gandalf.md) dẫn đầu đã tiến tới Thung lũng Morgul và ở đó đã phá hủy cây cầu và đốt cháy Meads Độc<sup id="cite_ref-name_1-2" class="reference"><a href="#cite_note-name-1">[1]</a></sup>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Vào [19 tháng 3](../_/19_March.md),<sup id="cite_ref-name_1-1" class="reference"><a href="#cite_note-name-1">[1]</a></sup> khi <a class="mw-redirect mw-disambig" href="../H/Host_of_the_West.md" title="Host of the West">Đạo quân phương Tây</a> đến và đi qua [Ngã Tư](../C/Cross-roads.md), một đội tiên phong do [Aragorn](../A/Aragorn.md) và [Gandalf](../G/Gandalf.md) dẫn đầu đã tiến tới Thung lũng Morgul và ở đó đã phá hủy cây cầu và đốt cháy Meads Độc<sup id="cite_ref-name_1-2" class="reference"><a href="#cite_note-name-1">[1]</a></sup>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

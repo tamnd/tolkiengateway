@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"*[Niënor](../../main/N/Niënor.md) found by [Túrin](../../main/T/Túrin.md)*", của [Elena Kukanova](../../main/E/Elena_Kukanova.md)
+"*[Niënor](../../main/N/Niënor.md) found by [Túrin](../../main/T/Túrin.md)*", bởi [Elena Kukanova](../../main/E/Elena_Kukanova.md)
 
 ## Giấy phép {#Licensing}
 

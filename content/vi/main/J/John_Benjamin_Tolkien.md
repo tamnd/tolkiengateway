@@ -41,7 +41,7 @@ images:
 
 **John Benjamin Tolkien** ([27 tháng 3](../_/27_March.md) [1807](../_/1807.md) - [1 tháng 8](../_/1_August.md) [1896](../_/1896.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>), con trai của [George Tolkien](../G/George_Tolkien.md), là ông nội của [J.R.R. Tolkien](J.R.R._Tolkien.md). Anh ấy sinh ra ở <a class="extiw" href="http://en.wikipedia.org/wiki/Middlesex" title="wikipedia:Middlesex">Middlesex</a>, London. Ông là một nhà sản xuất đàn piano, giáo viên và người chỉnh dây.
 
-Người vợ đầu tiên của ông là Jane Holmwood, người có với ông 4 người con: Emily (1838), Louisa (1840), John Benjamin (1845) và Jane, (1846).
+Người vợ đầu tiên của ông là Jane Holmwood, người có với ông bốn người con: Emily (1838), Louisa (1840), John Benjamin (1845) và Jane, (1846).
 
 Sau đó anh kết hôn với [Mary Jane Stow](../M/Mary_Jane_Stow.md) vào [ngày 16 tháng 2](../_/16_February.md), [1856](../_/1856.md) tại Nhà thờ Giáo xứ All Saints, Birmingham, Warwickshire, Anh và họ có đứa con đầu lòng, Arthur, vào năm sau.
 

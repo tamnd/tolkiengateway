@@ -46,9 +46,9 @@ infobox:
 - [1988](../_/1988.md): *Inklings: Jahrbuch für Literatur und Ästhetik*, Quyển. 6
 - [1989](../_/1989.md): *Inklings: Jahrbuch für Literatur und Ästhetik*, Quyển. 7
 - [1990](../_/1990.md): *Inklings: Jahrbuch für Literatur und Ästhetik*, Quyển. 8
-- [1991](../_/1991.md): *Inklings: Jahrbuch für Literatur und Ästhetik*, Tập. 9
+- [1991](../_/1991.md): *Inklings: Jahrbuch für Literatur und Ästhetik*, Quyển. 9
 - [1992](../_/1992.md): *Inklings: Jahrbuch für Literatur und Ästhetik*, Quyển. 10
-- [1993](../_/1993.md): *Inklings: Jahrbuch für Literatur und Ästhetik*, Tập. 11
+- [1993](../_/1993.md): *Inklings: Jahrbuch für Literatur und Ästhetik*, Quyển. 11
 - [1994](../_/1994.md): *Inklings: Jahrbuch für Literatur und Ästhetik*, Quyển. 12
 - [1995](../_/1995.md): *Inklings: Jahrbuch für Literatur und Ästhetik*, Quyển. 13
 - [1996](../_/1996.md): *Inklings: Jahrbuch für Literatur und Ästhetik*, Tập. 14

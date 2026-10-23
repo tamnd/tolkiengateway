@@ -45,7 +45,7 @@ Tolkien cảm ơn Brogan đã nhớ đến anh và gửi thư cho anh. Một s�
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Trong ba đoạn đầu Tolkien trước tiên xin lỗi vì thiếu phản hồi, sau đó lưu ý rằng Tập. II và III đang trong quá trình chuẩn bị và sẽ ra mắt ngay sau đó. Anh ấy giải thích rằng tác phẩm không bao giờ có ý nghĩa là một "bộ ba", mà là một tổng thể "hình đơn", nên việc người đánh giá gọi là Tập. Tôi “vô hình”; và nó chỉ được xuất bản thành các tập riêng biệt vì một tập sẽ quá lớn và đắt tiền. Cuối cùng, ông nói thật an ủi khi thấy cuốn sách đã tìm được độc giả, khi tái bản Tập. Tôi đã cần thiết rồi.
+Trong ba đoạn đầu tiên Tolkien trước tiên xin lỗi vì thiếu phản hồi, sau đó lưu ý rằng Tập. II và III đang trong quá trình chuẩn bị và sẽ ra mắt ngay sau đó. Anh ấy giải thích rằng tác phẩm không bao giờ có ý nghĩa là một "bộ ba", mà là một tổng thể "hình đơn", nên việc người đánh giá gọi là Tập. Tôi “vô hình”; và nó chỉ được xuất bản thành các tập riêng biệt vì một tập sẽ quá lớn và đắt tiền. Cuối cùng, ông nói thật an ủi khi thấy cuốn sách đã tìm được độc giả, khi tái bản Tập. Tôi đã cần thiết rồi.
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Foalókë"
 ---
 
-Chuyển hướng đến [Foalókë](Foalókë.md).
+Chuyển hướng tới [Foalókë](Foalókë.md).

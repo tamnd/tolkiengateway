@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Astulat"
 ---
 
-Chuyển hướng đến [Astulat](../A/Astulat.md).
+Chuyển hướng tới [Astulat](../A/Astulat.md).

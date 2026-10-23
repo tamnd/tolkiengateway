@@ -66,7 +66,7 @@ infobox:
 - Thông báo Oxonmoot
 - Tất cả Bran
     - Bởi: Ian Spittlehouse
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill/Verne Walker
 - Phía sau cánh cửa kính
     - Bởi: Ian Collier

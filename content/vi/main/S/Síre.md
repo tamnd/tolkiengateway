@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sír"
 ---
 
-Chuyển hướng tới [Sír](Sír.md).
+Chuyển hướng đến [Sír](Sír.md).

@@ -43,7 +43,7 @@ infobox:
 
 Bây giờ [Gandalf](../G/Gandalf.md) đã trở về từ cõi chết, anh ấy giữ chức vụ thuyền trưởng của [Ba Thợ Săn](Three_Hunters.md); [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md).
 
-Ông đã dẫn họ về phía Nam qua [Westemnet](../W/Westemnet.md), qua các nhánh của [Entwash](../E/Entwash.md), qua [Simbelmynë](../S/Simbelmynë.md) được bao phủ bởi [Barrowfields](../B/Barrowfield.md) và tới thành phố [Edoras](../E/Edoras.md). Đây là thủ đô của [Rohan](../R/Rohan.md), được xây dựng trên một ngọn đồi ở [Harrowdale](../H/Harrowdale.md), một thung lũng của [Dãy Núi Trắng](../W/White_Mountains.md). Ở đó, họ nói với lính canh rằng họ quay lại để trả lại những con ngựa [Éomer](../_/Éomer.md) đã cho họ mượn.
+Ông đã dẫn họ về phía Nam qua [Westemnet](../W/Westemnet.md), qua các nhánh của [Entwash](../E/Entwash.md), qua [Simbelmynë](../S/Simbelmynë.md) được bao phủ bởi [Barrowfields](../B/Barrowfield.md) và đến thành phố [Edoras](../E/Edoras.md). Đây là thủ đô của [Rohan](../R/Rohan.md), được xây dựng trên một ngọn đồi ở [Harrowdale](../H/Harrowdale.md), một thung lũng của [Dãy Núi Trắng](../W/White_Mountains.md). Ở đó, họ nói với lính canh rằng họ quay lại để trả lại những con ngựa [Éomer](../_/Éomer.md) đã cho họ mượn.
 
 Bốn người bạn đồng hành vào thành phố và được hướng dẫn lên đỉnh đồi, nơi tọa lạc đại sảnh vàng [Meduseld](../M/Meduseld.md), nơi ở của [Vua Théoden](Théoden.md). Ở đó [Háma](../H/Háma.md), Người gác cửa của Théoden, ra lệnh cho họ cất vũ khí sang một bên trước khi được phép vào, Aragorn miễn cưỡng đặt [Andúril](../A/Andúril.md) sang một bên nhưng buộc phải làm như vậy hoặc không được vào. Những người khác đã sẵn lòng làm như vậy, để vũ khí của họ bên ngoài lối vào hội trường, chỉ giữ lại Gandalf cây trượng của mình, đã lừa được Doorward Hama rằng đó chỉ là một cây gậy để hỗ trợ anh ta.
 
@@ -53,7 +53,7 @@ Gandalf đã cố gắng cho thấy Théoden rằng vẫn còn hy vọng và nh�
 
 Théoden nhận ra sai lầm của mình khi tin tưởng Wormtongue và quyết định sẽ dẫn dắt các tay đua của [Rohan](../R/Rohan.md) đấu với [Saruman](../S/Saruman.md). Wormtongue được lựa chọn; cùng họ tham chiến để chứng minh lòng trung thành của mình với Théoden trong trận chiến, hoặc đi đến nơi nào anh ta muốn, mặc dù anh ta sẽ không nhận được sự thương xót nếu bị tìm thấy. Anh ta chọn cách nhổ vào chân nhà vua và chạy trốn khỏi thành phố.
 
-Théoden thì khen Gandalf và tặng anh [Shadowfax](../S/Shadowfax.md) làm quà, không được mượn nữa. Gandalf sau đó nói chuyện với Théoden về độ sâu của sự phản bội của Saruman, và họ lên kế hoạch tiến tới [Isengard](../I/Isengard.md) và gây chiến chống lại anh ta. Anh ta tuyên bố rằng [Éowyn](../_/Éowyn.md) sẽ cai trị thay anh ta cho đến khi anh ta quay trở lại và sau đó dẫn đầu đội quân [Rohirrim](../R/Rohirrim.md) cùng với Gandalf họ tiến vào Phương Tây hướng tới Isengard.
+Théoden thì khen Gandalf và tặng [Shadowfax](../S/Shadowfax.md) làm quà, không còn mượn nữa. Gandalf sau đó nói chuyện với Théoden về độ sâu của sự phản bội của Saruman, và họ lên kế hoạch tiến tới [Isengard](../I/Isengard.md) và gây chiến chống lại anh ta. Anh ta tuyên bố rằng [Éowyn](../_/Éowyn.md) sẽ cai trị thay anh ta cho đến khi anh ta quay trở lại và sau đó dẫn đầu đội quân [Rohirrim](../R/Rohirrim.md) cùng với Gandalf họ tiến vào Phương Tây hướng tới Isengard.
 
 ## Diện mạo {#Appearances}
 

@@ -31,7 +31,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Cây thường xuân](../../main/T/The_Ivy_Bush.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
+"[Bụi cây thường xuân](../../main/T/The_Ivy_Bush.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
 
 ## Giấy phép {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yúyo"
 ---
 
-Chuyển hướng đến [Yúyo](Yúyo.md).
+Chuyển hướng tới [Yúyo](Yúyo.md).

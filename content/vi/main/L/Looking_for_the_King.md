@@ -58,7 +58,7 @@ David C. Downing, Tiến sĩ, là R. W. Schlosser Giáo sư tiếng Anh tại Đ
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienlibrary.com/press/955-Looking_for_the_king.php" rel="noreferrer noopener" target="_blank">Xem tại <i>Tolkien Thư viện</i></a>
+- <a class="external text" href="http://www.tolkienlibrary.com/press/955-Looking_for_the_king.php" rel="noreferrer noopener" target="_blank">Đánh giá tại <i>Tolkien Library</i></a>
 - <a class="external text" href="https://www.youtube.com/watch?v=Zt_rMtKhPuo" rel="noreferrer noopener" target="_blank">Tìm kiếm Vua - Trailer sách</a>
 
 <span></span>

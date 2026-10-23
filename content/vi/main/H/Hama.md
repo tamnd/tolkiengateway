@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Háma"
 ---
 
-Chuyển hướng tới [Háma](Háma.md).
+Chuyển hướng đến [Háma](Háma.md).

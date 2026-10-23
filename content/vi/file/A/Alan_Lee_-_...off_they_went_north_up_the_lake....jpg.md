@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"...họ đi về hướng bắc lên [hồ](../../main/L/Long_Lake.md)..." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"...họ đi về hướng bắc lên [hồ](../../main/L/Long_Lake.md)..." bởi [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

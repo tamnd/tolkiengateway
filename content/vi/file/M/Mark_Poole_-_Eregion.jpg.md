@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Mark Poole - Ost-in-Edhil.jpg"
 ---
 
-Chuyển hướng đến [Tệp:Mark Poole - Ost-in-Edhil.jpg](Mark_Poole_-_Ost-in-Edhil.jpg.md).
+Chuyển hướng tới [Tệp:Mark Poole - Ost-in-Edhil.jpg](Mark_Poole_-_Ost-in-Edhil.jpg.md).

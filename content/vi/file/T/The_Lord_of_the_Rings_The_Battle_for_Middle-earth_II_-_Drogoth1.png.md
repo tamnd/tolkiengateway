@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Drogoth](../../main/D/Drogoth.md) trong [The Lord of the Rings: Trận chiến vì Trung Địa II](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md).
+[Drogoth](../../main/D/Drogoth.md) trong [The Lord of the Rings: The Battle for Middle-earth II](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md).
 
 ## Giấy phép {#Licensing}
 

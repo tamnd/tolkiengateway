@@ -34,7 +34,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hither_Shore_3.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/28/Hither_Shore_3.jpg/320px-Hither_Shore_3.jpg" decoding="async" loading="lazy" width="320" height="465" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/28/Hither_Shore_3.jpg/480px-Hither_Shore_3.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/28/Hither_Shore_3.jpg/640px-Hither_Shore_3.jpg 2x" data-file-width="1408" data-file-height="2048"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hither Shore Band 3<br/><small>Die History of Middle-Earth - Entstehung und Hintergründe einer Mythologie</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Fornet-Ponse.md" title="Thomas Fornet-Ponse">Thomas Fornet-Ponse</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../D/Deutsche_Tolkien_Gesellschaft.md" title="Deutsche Tolkien Gesellschaft">Deutsche Tolkien Gesellschaft</a>/Scriptorium Oxoniae</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/30_March.md" title="30 March">30 March</a> <a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">300</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-3-9810612-1-5" title="Special:BookSources/978-3-9810612-1-5">978-3-9810612-1-5</a></td></tr></tbody></table>
 
-<b><i>Hither Shore </i>Băng 3: <i>Lịch sử Trung Địa</i></b> là tập thứ ba của tạp chí [Hither Shore](<Hither_Shore_(journal).md>).
+<b><i>Hither Shore </i>Band 3: <i>Lịch sử Trung Địa</i></b> là tập thứ ba của tạp chí [Hither Shore](<Hither_Shore_(journal).md>).
 
 ## Nội dung {#Contents}
 
@@ -65,7 +65,7 @@ infobox:
     - Lieder und Poesie als Teil der kulturellen Kommunikation Mittelerdes của Julian Eilmann (Aachen)
     - Tóm tắt
 - Rezensionen
-    - Peter Gilliver, Jeremy Marshall, Edmund Weiner: Chiếc nhẫn ngôn từ. Tolkien và Từ điển tiếng Anh Oxford
+    - Peter Gilliver, Jeremy Marshall, Edmund Weiner: The Ring of Words. Tolkien và Từ điển tiếng Anh Oxford
     - Mark T. Hooker: Một toán học Tolkienian
     - Tolkien Nghiên cứu: Đánh giá học thuật hàng năm. Tập III, 2006
     - Karen Armstrong: Eine kurze Geschichte des Mythos

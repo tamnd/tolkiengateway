@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Óswine (disambiguation)"
 ---
 
-Chuyển hướng tới [Óswine (định hướng)](<Óswine_(disambiguation).md>).
+Chuyển hướng đến [Óswine (định hướng)](<Óswine_(disambiguation).md>).

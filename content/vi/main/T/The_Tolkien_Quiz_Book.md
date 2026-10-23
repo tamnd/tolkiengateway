@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tolkien Quiz Book (disambiguation)"
 ---
 
-Chuyển hướng đến [Sách đố vui Tolkien (định hướng)](<The_Tolkien_Quiz_Book_(disambiguation).md>).
+Chuyển hướng đến [The Tolkien Quiz Book (định hướng)](<The_Tolkien_Quiz_Book_(disambiguation).md>).

@@ -136,7 +136,7 @@ Trong những trước tác khác, tương đối muộn, từng có một ý t�
 
 ## Khắc họa trong các bản chuyển thể {#Portrayal_in_adaptations}
 
-<b>2024: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2024: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Kintai.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b3/The_Lord_of_the_Rings_Online_-_Kintai.jpg/300px-The_Lord_of_the_Rings_Online_-_Kintai.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b3/The_Lord_of_the_Rings_Online_-_Kintai.jpg/450px-The_Lord_of_the_Rings_Online_-_Kintai.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b3/The_Lord_of_the_Rings_Online_-_Kintai.jpg/600px-The_Lord_of_the_Rings_Online_-_Kintai.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The Avari in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 

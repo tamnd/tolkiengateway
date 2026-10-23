@@ -36,7 +36,7 @@ infobox:
 
 Trong quá trình nhân vật người chơi truy đuổi [Vua Phù thủy](../W/Witch-king.md) bên trong [Othrongroth](../O/Othrongroth.md), họ đã bước vào một căn phòng ngai vàng rộng lớn với [Chúa tể chiến binh](../B/Barrow-wights.md) Sambrog đang ngồi trên một ngai vàng vĩ đại. Sambrog chào đón và ra lệnh cho nhân vật của người chơi đến gần. Khi thông báo rằng Vua Phù thủy gửi lời chào của mình, Sambrog cho nhân vật của người chơi một khán giả để cung cấp thông tin về ý định của Vua Phù thủy, nhưng anh ta cũng tiết lộ rằng anh ta tin rằng người chơi sẽ không để Othrongroth còn sống để làm hỏng bất cứ điều gì.
 
-Sambrog tiết lộ nhiều điều cho người chơi một cách khó hiểu, nói rằng trong khi [Chủ nhân](../W/Witch-king.md) của anh ta tìm kiếm sức mạnh cho [Sauron](Sauron.md), các kế hoạch khác cũng đang được thực hiện: [Pale Người lùn](Skorgrím_Dourhand.md) sẽ xây dựng một đội quân dưới danh nghĩa [Angmar](../A/Angmar.md) khi người gầy gò được gửi đến Agamaur ở [phía đông](../L/Lone-lands.md) để đánh thức một Sức mạnh đang ngủ yên trong vùng nước.
+Sambrog tiết lộ nhiều điều cho người chơi một cách khó hiểu, nói rằng trong khi [Chủ nhân](../W/Witch-king.md) của anh ta tìm kiếm sức mạnh cho [Sauron](Sauron.md), các kế hoạch khác cũng đang được thực hiện: [Pale Người lùn](Skorgrím_Dourhand.md) sẽ xây dựng một đội quân dưới tên [Angmar](../A/Angmar.md) khi quân đội gầy gò được gửi đến Agamaur ở [phía đông](../L/Lone-lands.md) để đánh thức một Sức mạnh đang ngủ yên trong vùng nước.
 
 Như đã nói, Sambrog kết thúc buổi tiếp kiến ​​của mình với nhân vật người chơi, thông báo rằng cái chết đang chờ đợi họ và anh ta không thể bị đánh bại.
 
@@ -50,7 +50,7 @@ Vào *[The One Ring](../T/The_One_Ring.md)*, một Wight-king giấu tên đã t
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://lotro-wiki.com/wiki/Sambrog" rel="noreferrer noopener" target="_blank">Sambrog</a> trên <a class="external text" href="https://lotro-wiki.com/wiki" rel="noreferrer noopener" target="_blank">The Lord of the Rings Wiki trực tuyến</a>
+- <a class="external text" href="https://lotro-wiki.com/wiki/Sambrog" rel="noreferrer noopener" target="_blank">Sambrog</a> trên <a class="external text" href="https://lotro-wiki.com/wiki" rel="noreferrer noopener" target="_blank">The Lord of the Rings Online Wiki</a>
 
 <span></span>
 

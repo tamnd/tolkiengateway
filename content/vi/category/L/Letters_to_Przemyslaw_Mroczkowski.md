@@ -14,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Mroczkowski, Przemyslaw"
 ---
 
-Thư của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) gửi [Przemyslaw Mroczkowski](../../main/P/Przemyslaw_Mroczkowski.md).
+Những bức thư của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) gửi [Przemyslaw Mroczkowski](../../main/P/Przemyslaw_Mroczkowski.md).

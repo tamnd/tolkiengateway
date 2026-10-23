@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "LAK"
 ---
 
-Chuyển hướng tới [LAK](../L/LAK.md).
+Chuyển hướng đến [LAK](../L/LAK.md).

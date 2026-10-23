@@ -63,7 +63,7 @@ Có một <a class="extiw" href="http://en.wikipedia.org/wiki/Frogmore" title="w
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Frogmorton is located in a swampy area, where a great many frogs can indeed by found.</dd></dl>
 

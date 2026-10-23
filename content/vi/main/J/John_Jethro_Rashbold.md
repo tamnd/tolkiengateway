@@ -37,7 +37,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-John Jethro Rashbold từng là sinh viên đại học tại <a class="extiw" href="http://en.wikipedia.org/wiki/Magdalen_College,_Oxford" title="wikipedia:Magdalen College, Oxford">Magdalen College</a> ở [Oxford](../O/Oxford.md). Ông là một học giả cổ điển và một nhà thơ tập sự. Anh được giới thiệu với [Notion Club](../N/Notion_Club.md) bởi [Philip Frankley](../P/Philip_Frankley.md), người mà anh rất gắn bó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+John Jethro Rashbold là sinh viên đại học tại <a class="extiw" href="http://en.wikipedia.org/wiki/Magdalen_College,_Oxford" title="wikipedia:Magdalen College, Oxford">Magdalen College</a> ở [Oxford](../O/Oxford.md). Ông là một học giả cổ điển và một nhà thơ tập sự. Anh được giới thiệu với [Notion Club](../N/Notion_Club.md) bởi [Philip Frankley](../P/Philip_Frankley.md), người mà anh rất gắn bó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

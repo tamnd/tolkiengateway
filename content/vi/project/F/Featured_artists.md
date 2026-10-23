@@ -29,7 +29,7 @@ images:
   - "Eric_Velhagen_-_Glorfindel_and_Balrog.jpg"
 ---
 
-**Các nghệ sĩ nổi bật** trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) được giới thiệu trên [Trang chính](../../main/M/Main_Page.md) như một cách để ghi nhận những người vui lòng cho phép tác phẩm của họ được sử dụng trong wiki. Việc đề cập được kèm theo một tác phẩm nghệ thuật tiêu biểu. Một nghệ sĩ mới được giới thiệu mỗi khi Trang chính được cập nhật, được chọn bởi một trong các [quản trị viên](../A/Administrators.md). Không giống như [bài viết](Featured_articles.md) và [trích dẫn](Featured_quotes.md) nổi bật, không có quy trình đề cử nghệ sĩ nổi bật vì tiêu chí không dựa trên sở thích mà dựa trên sự hiện diện tổng thể của nghệ sĩ trên toàn wiki.
+**Các nghệ sĩ nổi bật** trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) được giới thiệu trong [Trang chính](../../main/M/Main_Page.md) như một cách để ghi nhận những người vui lòng cho phép tác phẩm của họ được sử dụng trong wiki. Việc đề cập được kèm theo một tác phẩm nghệ thuật tiêu biểu. Một nghệ sĩ mới sẽ xuất hiện mỗi khi Trang chính được cập nhật, được chọn bởi một trong những [quản trị viên](../A/Administrators.md). Không giống như [bài viết](Featured_articles.md) và [trích dẫn](Featured_quotes.md) nổi bật, không có quy trình đề cử nghệ sĩ nổi bật vì tiêu chí không dựa trên sở thích mà dựa trên sự hiện diện tổng thể của nghệ sĩ trên toàn wiki.
 
 ## Lưu trữ {#Archive}
 

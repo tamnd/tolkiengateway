@@ -32,8 +32,8 @@ infobox:
 
 ## Nội dung {#Contents}
 
-1. <a class="new" href="https://tolkiengateway.net/w/index.php?title=History_of_the_Ring&amp;action=edit&amp;redlink=1" title="History of the Ring (page does not exist)">Lịch sử của chiếc nhẫn</a> (6:31)
-2. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Gandalf_throws_the_Ring&amp;action=edit&amp;redlink=1" title="Gandalf throws the Ring (page does not exist)">Gandalf ném Chiếc Nhẫn</a> (3:55)
+1. <a class="new" href="https://tolkiengateway.net/w/index.php?title=History_of_the_Ring&amp;action=edit&amp;redlink=1" title="History of the Ring (page does not exist)">Lịch sử của Nhẫn</a> (6:31)
+2. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Gandalf_throws_the_Ring&amp;action=edit&amp;redlink=1" title="Gandalf throws the Ring (page does not exist)">Gandalf ném Nhẫn</a> (3:55)
 3. <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Journey_Begins;_Encounter_with_the_Ringwraiths&amp;action=edit&amp;redlink=1" title="The Journey Begins; Encounter with the Ringwraiths (page does not exist)">Hành trình bắt đầu; Gặp phải Nazgûl</a> (4:28)
 4. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Trying_to_kill_Hobbits&amp;action=edit&amp;redlink=1" title="Trying to kill Hobbits (page does not exist)">Cố giết Hobbit</a> (3:03)
 5. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Escape_to_Rivendell&amp;action=edit&amp;redlink=1" title="Escape to Rivendell (page does not exist)">Thoát tới Rivendell</a> (6:22)

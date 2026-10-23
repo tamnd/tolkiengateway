@@ -37,7 +37,7 @@ langlinks:
 
 Yếu tố khác \**dénie* rõ ràng có nghĩa là "than thở", có từ nguyên có vấn đề vì "d" trung gian không tồn tại trong [Quenya](../Q/Quenya.md) (chỉ có "ld" "nd" và "rd" hiện diện).
 
-Một từ Quenya tương tự khác để than thở là *[nainië](../N/Nainië.md)* từ [Root](../S/Sundocarmë.md) KHÔNG. <span></span>
+Một từ Quenya tương tự khác để than thở là *[nainië](../N/Nainië.md)* từ [Gốc](../S/Sundocarmë.md) KHÔNG. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

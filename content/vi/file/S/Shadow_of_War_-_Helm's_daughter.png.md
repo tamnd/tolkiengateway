@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Con gái của [Helm](../../main/H/Helm's_daughter.md) được miêu tả trong [Trung Địa: Bóng Tối of War](../../main/M/Middle-earth%253A_Shadow_of_War.md)
+Con gái của [Helm](../../main/H/Helm's_daughter.md) được mô tả trong [Trung Địa: Bóng Tối of War](../../main/M/Middle-earth%253A_Shadow_of_War.md)
 
 ## Giấy phép {#Licensing}
 

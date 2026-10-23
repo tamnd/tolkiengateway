@@ -48,7 +48,7 @@ infobox:
     - Bởi: [Pauline Baynes](../P/Pauline_Baynes.md)
 - Biên tập
     - Bởi: Jenny Curtis
-- *The Lord of the Rings* là Bi kịch
+- *The Lord of the Rings* là bi kịch
     - Bởi: Carol Jeffs
 - Đánh giá sách: *[The Book of Lost Tales (part I)](../T/The_Book_of_Lost_Tales_Part_One.md)*
     - Bởi: [Charles Noad](../C/Charles_Noad.md)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dome of Stars"
 ---
 
-Chuyển hướng đến [Vòm sao](../D/Dome_of_Stars.md).
+Chuyển hướng tới [Vòm sao](../D/Dome_of_Stars.md).

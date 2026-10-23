@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Trong [một cái hố trên mặt đất](../../main/B/Bag_End.md) có [một người Hobbit](../../main/B/Bilbo_Baggins.md) sống." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"Trong [một cái hố trên mặt đất](../../main/B/Bag_End.md) có [một người Hobbit](../../main/B/Bilbo_Baggins.md) sống." bởi [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

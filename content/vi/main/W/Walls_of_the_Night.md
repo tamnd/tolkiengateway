@@ -27,7 +27,7 @@ Ban đầu, chúng được gọi là Bức tường vạn vật và được co
 
 ## Xem thêm {#See_also}
 
-- [Những Bức Tường của Thế Giới](Walls_of_the_World.md)
+- [Những Bức Tường của Thế giới](Walls_of_the_World.md)
 
 <span></span>
 

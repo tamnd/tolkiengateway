@@ -27,7 +27,7 @@ infobox:
 
 ## Nền {#Background}
 
-Tolkien đã viết hai bức thư cho Christopher vào ngày [29 tháng 11](../_/29_November.md). Bản được xuất bản là [no. 91](Letter_91.md) đã được gửi cùng với một bưu kiện chứa hai chương The Lord of the Rings, '[Hang ổ của Shelob](<../S/Shelob's_Lair_(chapter).md>)' và '[Những lựa chọn của Thầy Samwise](../T/The_Choices_of_Master_Samwise.md)'. Thư 91a là từ thư chính được gửi riêng.
+Tolkien đã viết hai bức thư cho Christopher vào ngày [29 tháng 11](../_/29_November.md). Bản được xuất bản là [no. 91](Letter_91.md) đã được gửi cùng với một bưu kiện chứa hai chương The Lord of the Rings, '[Hang ổ của Shelob](<../S/Shelob's_Lair_(chapter).md>)' và '[Những lựa chọn của Chủ nhân Samwise](../T/The_Choices_of_Master_Samwise.md)'. Thư 91a là từ thư chính được gửi riêng.
 
 ## Tóm tắt {#Summary}
 

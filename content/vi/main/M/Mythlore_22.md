@@ -80,7 +80,7 @@ infobox:
 - Annette Harper: bìa, 34, 35, 36, bìa sau
 - Mary Janis Johnson: 12, 15
 - Thadara Ottobris: 6, 21
-- John Pivovarnick: 5
+- John Trụ cột: 5
 - Gord Wilson: 47
 - Bìa: Annette Harper, “Legolas.”
 - Trang 5: John Pivovarnick, “Smead Morgul.”

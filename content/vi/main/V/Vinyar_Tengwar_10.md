@@ -50,7 +50,7 @@ infobox:
 - Thư gửi *VT*
 
 - "Tiêu chuẩn của kiểu chữ Eldarin" — Lawrence Schoen
-- "*Elenaltalantë*: Sự sụp đổ của Gil-galad" — trans. Jorge Quiñónez và Jean-Marc Rulier
+- "*Elenaltalantë*: Sự sụp đổ của Gil-galad" — chuyển. Jorge Quiñónez và Jean-Marc Rulier
 - "Văn bản *Tengwar* Dòng 3994-4027 của Văn bản 'A' của '[The Lay of Leithian](../T/The_Lay_of_Leithian.md)'" — Donald O'Brien
 - "*Essitalmar*: Finduilas, một cái tên đẹp đẽ cho một thiếu nữ xinh đẹp" (cột) — Tom Loback
 - "Chuyển đổi trong bản dịch: Nhóm thuần tập tiếng Bồ Đào Nha của Sauron" (cột) — Arden R. Smith

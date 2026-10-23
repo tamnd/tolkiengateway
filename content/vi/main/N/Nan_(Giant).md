@@ -18,7 +18,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Nan</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Nan_(disambiguation).md" title="Nan (disambiguation)">Nan (disambiguation)</a></b>.</div></div>
 
-**Nan** là một [Người khổng lồ](../G/Giant.md). Thanh kiếm<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> của anh ấy, [Glend](../G/Glend.md), được biết đến là một trong những thứ cao nhất và dài nhất trên Trái đất và nó được [Tinúviel](../L/Lúthien.md) triệu hồi trong [thần chú kéo dài](../L/Lengthening_spell.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Nan** là một [Người khổng lồ](../G/Giant.md). Thanh kiếm<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> của anh ấy, [Glend](../G/Glend.md), được biết đến như một trong những thứ cao nhất và dài nhất trên Trái đất và nó được [Tinúviel](../L/Lúthien.md) gọi ra trong [thần chú kéo dài](../L/Lengthening_spell.md) của cô ấy.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

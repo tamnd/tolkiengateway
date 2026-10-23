@@ -86,8 +86,8 @@ Việc đưa các bài tiểu luận học thuật và bài thơ vào *[The Tolk
 
 ## Xem thêm {#See_also}
 
-- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
-- [Sự trở lại của Beorhtnoth, Con trai của Beorhthelm (vở phát thanh)](<The_Homecoming_of_Beorhtnoth,_Beorhthelm's_Son_(radio_play).md>)
+- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Sự trở lại của Beorhtnoth, Con trai của Beorhthelm (vở kịch trên radio)](<The_Homecoming_of_Beorhtnoth,_Beorhthelm's_Son_(radio_play).md>)
 
 <span></span>
 

@@ -19,7 +19,7 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-[PQ](../P/PQ.md) \**jârâ* < [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=YA&amp;action=edit&amp;redlink=1" title="YA (page does not exist)">YA</a> (và có thể ảnh hưởng từ <a class="new" href="https://tolkiengateway.net/w/index.php?title=GYER&amp;action=edit&amp;redlink=1" title="GYER (page does not exist)">GYER</a>)
+[PQ](../P/PQ.md) \**jârâ* < [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=YA&amp;action=edit&amp;redlink=1" title="YA (page does not exist)">YA</a> (và có thể ảnh hưởng từ <a class="new" href="https://tolkiengateway.net/w/index.php?title=GYER&amp;action=edit&amp;redlink=1" title="GYER (page does not exist)">GYER</a>)
 
 ## Các hình thức khác {#Other_forms}
 

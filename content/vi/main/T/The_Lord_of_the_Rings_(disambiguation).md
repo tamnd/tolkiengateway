@@ -20,7 +20,7 @@ images:
 
 ## Trung Địa {#Middle-earth}
 
-- ** [Chúa tể của chiếc nhẫn](../L/Lord_of_the_Ring.md), [Sauron](../S/Sauron.md).**
+- ** [Chúa tể của Nhẫn](../L/Lord_of_the_Ring.md), [Sauron](../S/Sauron.md).**
 
 ## Sách {#Books}
 
@@ -72,7 +72,7 @@ images:
 - *[The Lord of the Rings: Conquest](The_Lord_of_the_Rings%253A_Conquest.md)*, trò chơi điện tử [2009](../_/2009.md).
 - *[The Lord of the Rings: Aragorn's Quest](The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*, trò chơi điện tử [2010](../_/2010.md).
 - *[The Lord of the Rings: War in the North](The_Lord_of_the_Rings%253A_War_in_the_North.md)*, trò chơi điện tử [2011](../_/2011.md).
-- *[Lego The Lord of the Rings: The Video Game](../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md)*, trò chơi điện tử [Lego](../L/Lego.md) [2012](../_/2012.md) dựa trên [The Lord of the Rings (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>).
+- *[Lego The Lord of the Rings: The Video Game](../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md)*, trò chơi điện tử [Lego](../L/Lego.md) [2012](../_/2012.md) dựa trên [The Lord of the Rings (film series)](<The_Lord_of_the_Rings_(film_series).md>).
 - *[The Lord of the Rings: Heroes of Middle-earth](The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md)*, trò chơi điện tử [2023](../_/2023.md).
 
 ### Trò chơi khác {#Other_games}

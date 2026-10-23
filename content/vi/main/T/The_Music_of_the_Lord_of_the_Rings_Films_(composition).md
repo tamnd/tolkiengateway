@@ -26,15 +26,15 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the music composition for the Lord of the Rings films</b>. For the book about the composition for The Lord of the Rings trilogy, see <b><a href="The_Music_of_the_Lord_of_the_Rings_Films.md" title="The Music of the Lord of the Rings Films">The Music of the Lord of the Rings Films</a></b>.</div></div>
 
-Các sáng tác của Howard Shore cho *The Lord of the Rings* và *The Hobbit*, cùng với tác phẩm của Howard, Plan 9, David Long và Stephen Gallagher cho *The War of the Rohirrim*, *The Rings of Power* Phần Một và các dự án khác thể hiện một tác phẩm âm nhạc kịch tính kéo dài khoảng 24 giờ âm nhạc. Âm nhạc này dựa trên các giai điệu dân gian, thường là từng bước; hòa âm ba (mặc dù nhìn chung không ổn định về mặt phím) và dàn nhạc đông đảo, thường được trang trí bằng các nhạc cụ trần tục bên ngoài dàn nhạc đầy đủ.
+Các sáng tác của Howard Shore cho *The Lord of the Rings* và *The Hobbit*, cùng với tác phẩm của Howard, Plan 9, David Long và Stephen Gallagher cho *The War of the Rohirrim*, *The Rings of Power* Phần Một và các dự án khác thể hiện một tác phẩm âm nhạc kịch tính dài khoảng 24 giờ âm nhạc. Âm nhạc này dựa trên các giai điệu dân gian, thường là từng bước; hòa âm ba (mặc dù nhìn chung không ổn định về mặt phím) và dàn nhạc đông đảo, thường được trang trí bằng các nhạc cụ trần tục bên ngoài dàn nhạc đầy đủ.
 
 Các tác phẩm bao gồm:
 
-1. [ Những Chiếc Nhẫn Quyền Năng phần một](<../../category/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md>): Chỉ có tựa đề mở đầu ([Howard Shore](../H/Howard_Shore.md)) và bài hát gốc (Plan 9 và David Long).
+1. [Phần Những Chiếc Nhẫn Quyền Năng một](<../../category/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md>): Chỉ có tựa đề mở đầu ([Howard Shore](../H/Howard_Shore.md)) và bài hát nguồn (Kế hoạch 9 và David Long).
 2. [Cuộc chiến Rohirrim](The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md) ([Stephen Gallagher](../S/Stephen_Gallagher.md), David Long sử dụng chủ đề của Howard Shore và Kế hoạch 9)
 3. [The Hobbit bộ ba phim (nhạc phim)](<../../category/T/The_Hobbit_(film_series)_soundtracks.md>), bao gồm đoạn giới thiệu thông báo (Shore, Plan 9, Long, Gallagher *et al*)
-4. [The Lord of the Rings bộ ba phim (nhạc phim)](<../../category/T/The_Lord_of_the_Rings_(film_series)_soundtracks.md>), bao gồm cả đoạn giới thiệu Return of Vua thứ hai (Shore, Plan 9, Long *et al*)
-5. Các tác phẩm bổ sung cho sân khấu hoà nhạc (Howard Shore) hoặc *in situ* cho bộ Hobbiton (Plan 9 và David Long).
+4. [The Lord of the Rings bộ ba phim (nhạc phim)](<../../category/T/The_Lord_of_the_Rings_(film_series)_soundtracks.md>), bao gồm cả trailer Return of Vua thứ hai (Shore, Plan 9, Long *et al*)
+5. Các tác phẩm bổ sung cho sân khấu hòa nhạc (Howard Shore) hoặc *in situ* cho bộ Hobbiton (Kế hoạch 9 và David Long).
 
 ## Dàn nhạc {#Orchestration}
 

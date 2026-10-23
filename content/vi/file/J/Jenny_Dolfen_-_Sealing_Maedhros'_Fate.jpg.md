@@ -30,7 +30,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Từ trái qua phải: Caranthir, Curufin, Maglor, Celegorm, Amras.
+Từ trái sang phải: Caranthir, Curufin, Maglor, Celegorm, Amras.
 
 ## Giấy phép {#Licensing}
 

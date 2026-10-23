@@ -35,7 +35,7 @@ Sau [loạt đài phát thanh năm 1955](<../T/The_Lord_of_the_Rings_(1955_radio
 ## Ghi chú {#Notes}
 
 - Trong một ghi chú biên tập, thư từ bổ sung được đề cập. Gamgee đã viết lại thông tin gia đình và vui lòng nhận món quà.
-- Trong *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)*, trang 224-225, tình tiết này cũng được đề cập. Tiếp theo là: "\[l\]sau đó anh ấy nói: '*Đã có lúc tôi sống trong nỗi sợ hãi khi nhận được một lá thư có chữ ký* S. Gollum*. Việc đó sẽ khó giải quyết hơn.* '" Không rõ đoạn văn cụ thể này đến từ đâu, nhưng một đoạn rất giống xuất hiện trong một bức thư chưa được xuất bản gửi [Rayner Unwin](../R/Rayner_Unwin.md) từ [21 tháng 3](../_/21_March.md) [1956](../_/1956.md): *"Tôi hy vọng bây giờ tôi sẽ không nhận được thư từ S. Gollum hoặc [Shagrat](../S/Shagrat.md)."*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Trong *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)*, trang 224-225, tình tiết này cũng được đề cập. Tiếp theo là: "\[l\]sau đó anh ấy nói: '*Đã có lúc tôi sống trong nỗi sợ hãi khi nhận được một lá thư có chữ ký* S. Gollum *. Việc đó sẽ khó giải quyết hơn.* '" Không rõ đoạn văn cụ thể này đến từ đâu, nhưng một đoạn rất giống xuất hiện trong một bức thư chưa được xuất bản gửi [Rayner Unwin](../R/Rayner_Unwin.md) từ [21 tháng 3](../_/21_March.md) [1956](../_/1956.md): *"Tôi hy vọng bây giờ tôi sẽ không nhận được thư từ S. Gollum hoặc [Shagrat](../S/Shagrat.md)."*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - Bức thư đầu tiên của Gamgee từ [ngày 13 tháng 3](../_/13_March.md) [1956](../_/1956.md) được sao chép vào *[Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md)*.
 
 <br>

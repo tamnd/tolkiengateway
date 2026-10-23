@@ -53,7 +53,7 @@ infobox:
 
 - Bài viết
     - "Khảo sát một số chính tả Tengwar tiếng Anh" — Larry Krieg
-    - "Việc đặt tên *Tor* và *Tinidril*" — [Jim Allan](../J/Jim_Allan.md)
+    - "Cách đặt tên *Tor* và *Tinidril*" — [Jim Allan](../J/Jim_Allan.md)
     - "Nguồn gốc của ngôn ngữ Pidgin Gurspel" — David Strecker
     - "Đột biến phụ âm ban đầu trong Celtic và Sindarin" — được tuân thủ bởi Paula Marmor, Larry Krieg và David Strecker
     - "Tengwar Tờ thông tin và Hướng dẫn" — Larry Krieg

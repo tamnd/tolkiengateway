@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mermaids"
 ---
 
-Chuyển hướng đến [Nàng tiên cá](../M/Mermaids.md).
+Chuyển hướng tới [Nàng tiên cá](../M/Mermaids.md).

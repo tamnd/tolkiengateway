@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Shelob trong vai một người phụ nữ trong [Trung Địa: Bóng Tối of War](../../main/M/Middle-earth%253A_Shadow_of_War.md).
+Shelob trong vai một phụ nữ trong [Trung Địa: Bóng Tối of War](../../main/M/Middle-earth%253A_Shadow_of_War.md).
 
 ## Giấy phép {#Licensing}
 

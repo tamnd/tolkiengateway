@@ -84,13 +84,13 @@ Bản thân hòn đảo nghiêng về phía nam và hơi chếch về phía tây
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_The_Natural_Life_of_Númenor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/12/Alan_Lee_-_The_Natural_Life_of_N%C3%BAmenor.jpg/300px-Alan_Lee_-_The_Natural_Life_of_N%C3%BAmenor.jpg" decoding="async" loading="lazy" width="300" height="261" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/12/Alan_Lee_-_The_Natural_Life_of_N%C3%BAmenor.jpg/450px-Alan_Lee_-_The_Natural_Life_of_N%C3%BAmenor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/12/Alan_Lee_-_The_Natural_Life_of_N%C3%BAmenor.jpg/600px-Alan_Lee_-_The_Natural_Life_of_N%C3%BAmenor.jpg 2x" data-file-width="992" data-file-height="862"/></a><figcaption><i>The Natural Life of Númenor</i> by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
 
-## Flora {#Flora}
+## Hệ thực vật {#Flora}
 
-Númenor contained many species of plants that could be found nowhere else in [Middle-earth](../M/Middle-earth.md), and many of them were given to the Númenóreans by the [Eldar](Eldar.md) from [Aman](../A/Aman.md). Most important of these was the [White Tree](../W/White_Tree_of_Númenor.md) that dwelt in the King's Palace at [Armenelos](../A/Armenelos.md). A [seedling](../W/White_Tree_of_Gondor.md) from it was later planted in the [Court of the Fountain](<../C/Court_of_the_Fountain_(Minas_Tirith).md>) in [Minas Tirith](../M/Minas_Tirith.md) in [Gondor](../G/Gondor.md).
+Númenor chứa nhiều loài thực vật không thể tìm thấy ở nơi nào khác trong [Trung Địa](../M/Middle-earth.md), và nhiều loài trong số đó đã được [Eldar](Eldar.md) trao cho người Númenor từ [Aman](../A/Aman.md). Điều quan trọng nhất trong số này là [Cây Trắng](../W/White_Tree_of_Númenor.md) sống trong Cung điện của Vua tại [Armenelos](../A/Armenelos.md). Một [cây con](../W/White_Tree_of_Gondor.md) từ nó sau đó được trồng ở [Tòa đài phun nước](<../C/Court_of_the_Fountain_(Minas_Tirith).md>) ở [Minas Tirith](../M/Minas_Tirith.md) ở [Gondor](../G/Gondor.md).
 
-The other parts of Númenor contained many types of plants, many unique to each of the promontories of the island. Andustar contained great forests of [beech](../B/Beeches.md) and birch on the higher ground, and oak and elm forests at lower altitudes. The eastern part of Hyarnustar, being warm and fertile, had great vineyards.
+Các phần khác của Númenor có nhiều loại thực vật, nhiều loài đặc trưng cho từng vùng đất nhô ra trên đảo. Andustar có những khu rừng [sồi](../B/Beeches.md) và bạch dương lớn trên vùng đất cao hơn, cũng như rừng sồi và cây du ở độ cao thấp hơn. Phần phía đông của Hyarnustar ấm áp và màu mỡ, có những vườn nho rộng lớn.
 
-The greatest delight of the Númenóreans, however, were the [trees](../F/Fragrant_Trees.md) given to them by the [Eldar](Eldar.md). They grew mostly in the Western portion, Andustar. They are often remembered in song and lore, and few have flowered east of Númenor.
+Tuy nhiên, niềm vui lớn nhất của người Númenor là [những cái cây](../F/Fragrant_Trees.md) được [Eldar](Eldar.md)tặng cho họ. Họ phát triển chủ yếu ở phần phía Tây, Andustar. Chúng thường được nhớ đến trong bài hát và truyền thuyết, và rất ít loài nở hoa ở phía đông Númenor.
 
 - [Oiolairë](../O/Oiolairë.md)
 - [Lairelossë](../L/Lairelossë.md)
@@ -99,17 +99,17 @@ The greatest delight of the Númenóreans, however, were the [trees](../F/Fragra
 - [Taniquelassë](../T/Taniquelassë.md)
 - [Yavannamírë](../Y/Yavannamírë.md)
 
-Because of the diversity of wildlife in Andustar, that region was soon called [Nísimaldar](../N/Nísimaldar.md), or the [Fragrant Trees](../F/Fragrant_Trees.md). Also only in Andustar could the Golden Tree be found, [Malinornë](../M/Malinornë.md).
+Do sự đa dạng của động vật hoang dã ở Andustar nên vùng đó sớm được gọi là [Nísimaldar](../N/Nísimaldar.md) hay [Cây thơm](../F/Fragrant_Trees.md). Cũng chỉ ở Andustar mới có thể tìm thấy Cây Vàng, [Malinornë](../M/Malinornë.md).
 
-In Hyarrostar grew the tree [Laurinquë](../L/Laurinquë.md), which the Númenóreans loved because of their flowers. They incorrectly believed that it came from the Great Tree of Valinor, [Laurelin](../L/Laurelin.md).
+Ở Hyarrostar trồng cây [Laurinquë](../L/Laurinquë.md) mà người Númenor yêu thích vì hoa của chúng. Họ đã lầm tưởng rằng nó đến từ Cây Đại thụ Valinor, [Laurelin](../L/Laurelin.md).
 
-## Etymology {#Etymology}
+## Từ nguyên {#Etymology}
 
-The word *Elenna* is actually the allative form of the [Quenya](../Q/Quenya.md) word *[elen](Elen.md)* meaning "to (a) star". The "longer" name *Elenna-nórë* is glossed as "Land of the Star",<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> literally "Starwards-land". The island was so named because the [Edain](Edain.md) colonists sailed "starwards", following the [Star of Eärendil](../S/Star_of_Eärendil.md) to reach it.
+Từ *Elenna* thực chất là dạng ám chỉ của từ [Quenya](../Q/Quenya.md) *[elen](Elen.md)* có nghĩa là "đến (a) ngôi sao". Cái tên "dài hơn" *Elenna-nórë* được gọi là "Land of the Star",<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> nghĩa đen là "Starwards-land". Hòn đảo được đặt tên như vậy vì những người thực dân [Edain](Edain.md) đã đi thuyền "hướng về phía sao", đi theo [Ngôi sao Eärendil](../S/Star_of_Eärendil.md) để đến được nó.
 
-[Robert Foster](../R/Robert_Foster.md) mistakenly identifies the word as being the "<a class="extiw" href="http://en.wikipedia.org/wiki/essive_case" title="wikipedia:essive case">essive</a>" form of *elen*.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Essive is a grammatical case that exists in [Finnish](../F/Finnish.md) (but not in Quenya), and is marked by the ending *-na*, like the Quenya allative.
+[Robert Foster](../R/Robert_Foster.md) xác định nhầm từ này là dạng "<a class="extiw" href="http://en.wikipedia.org/wiki/essive_case" title="wikipedia:essive case">quan trọng</a>" của *elen*.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Tinh tế là một trường hợp ngữ pháp tồn tại trong [Tiếng Phần Lan](../F/Finnish.md) (nhưng không có trong Quenya) và được đánh dấu bằng phần cuối *-na*, giống như ám chỉ Quenya.
 
-The [Adûnaic](../A/Adûnaic.md) name was *[Gimlad](../G/Gimlad.md)* (cf. *[gimil](../G/Gimil.md)*).
+Tên [Adûnaic](../A/Adûnaic.md) là *[Gimlad](../G/Gimlad.md)* (xem *[gimil](../G/Gimil.md)*).
 
 ## Địa điểm {#Location}
 

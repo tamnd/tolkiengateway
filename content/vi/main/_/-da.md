@@ -14,7 +14,7 @@ sort_keys:
   "Quenya suffixes": "da"
 ---
 
-<i><b>-da</b></i> là hậu tố [Nguyên thủy Elvish](../P/Primitive_Elvish.md) cho sản phẩm thụ động của một hành động.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>-da</b></i> là hậu tố [Primitive Elvish](../P/Primitive_Elvish.md) cho tích bị động của một hành động.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

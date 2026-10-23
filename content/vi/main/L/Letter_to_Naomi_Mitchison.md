@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter 220a"
 ---
 
-Chuyển hướng đến [Thư 220a](Letter_220a.md).
+Chuyển hướng tới [Thư 220a](Letter_220a.md).

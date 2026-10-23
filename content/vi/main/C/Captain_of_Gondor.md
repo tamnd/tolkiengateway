@@ -20,7 +20,7 @@ langlinks:
 
 **Thuyền trưởng Gondor** là quân hàm và chức vụ [Gondor](../G/Gondor.md).
 
-Thân vương [Eärnur](../E/Eärnur.md) giữ chức Đội trưởng Gondor dẫn đầu [Đạo quân Phương Tây](<../H/Host_of_the_West_(Arnor).md>) đấu với [Angmar](../A/Angmar.md) trong [Trận Fornost](../B/Battle_of_Fornost.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Thân vương [Eärnur](../E/Eärnur.md) giữ chức Đội trưởng Gondor dẫn đầu [Đạo quân phương Tây](<../H/Host_of_the_West_(Arnor).md>) đấu với [Angmar](../A/Angmar.md) trong [Trận Fornost](../B/Battle_of_Fornost.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Một thiên niên kỷ sau, [Faramir](../F/Faramir.md) cũng giữ danh hiệu này với tư cách là thủ lĩnh của [Rangers của Ithilien](../R/Rangers_of_Ithilien.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

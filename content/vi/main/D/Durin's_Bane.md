@@ -163,7 +163,7 @@ Trong các bản thảo của chương "[Lothlórien](<../L/Lothlórien_(chapter
 
 <dl><dd>The Balrog has wings and appears capable of limited flight. The head resembles a lion but the rest of the body was rendered in matte black, a technique commonly used for shadowy surreal effect in rotoscope animation.</dd></dl>
 
-**1981:** <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i><b>The Lord of the Rings (1981 radio series)</b></i></a>
+**1981:** <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i><b>The Lord of the Rings (loạt phim phát thanh năm 1981)</b></i></a>
 
 Danh tính của Durin's Bane là một Balrog dường như đã là kiến thức phổ biến trong giới Hiền giả, bởi Gandalf giải thích lịch sử của nó cho Đoàn Hộ Nhẫn tại Moria trước khi họ chạm trán với nó. Ban đầu, ông không liên hệ được điều này với thế lực hắc ám mà mình gặp phải, và Celeborn vẫn chưa biết gì về nó. Các Balrog được cho là những tôi tớ nguy hiểm nhất của Sauron, một điều khó hiểu, mặc dù Gandalf cũng gọi nó là một Hậu duệ của [Melkor](../M/Morgoth.md)
 
@@ -175,27 +175,27 @@ Danh tính của Durin's Bane là một Balrog dường như đã là kiến th�
 
 <dl><dd>The Balrog is the boss of the level &#34;Abyss Fight&#34;. It cannot be harmed except when it is stunned with Gandalf&#39;s lightning.</dd></dl>
 
-<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Third_Age.md" title="The Lord of the Rings: The Third Age">The Lord of the Rings: The Third Age</a></i>:</b>
+<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Third_Age.md" title="The Lord of the Rings: The Third Age">The Lord of the Rings: Kỷ Đệ Tam</a></i>:</b>
 
 <dl><dd>The players must assist Gandalf in his fight with the Balrog. This fight is notable among players of the game for its difficulty and the Balrog&#39;s very high amount of health points.</dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
 
 <dl><dd>Many of the Evil factions can summon a Balrog, specifically Durin&#39;s Bane, for a short period of time. It is one of the mightiest units in the game, only able to be summoned with experience points. It is similar in design to the Balrog in the movie.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
 <dl><dd>Like in the previous installment, the Balrog can be summoned by evil factions.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The real name of Durin&#39;s Bane is given as &#34;<b>Askâdurs</b>&#34; and it is revealed to have fought against Dwarves as part of <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a>&#39;s armies during the <a href="../F/First_Age.md" title="First Age">First Age</a>. It is encountered in various flashback instances (where the player controls historical characters), which showcase his awakening by Dwarves in <a href="../T/Third_Age_1980.md" title="Third Age 1980">TA 1980</a>, the fall of Khazad-dûm <a href="../T/Third_Age_1981.md" title="Third Age 1981">the year after</a> and the Dwarves of <a href="../B/Balin.md" title="Balin">Balin</a>&#39;s company fleeing from the ancient evil, among others. After Gandalf defeats him, the lifeless body of Durin&#39;s Bane can be found on the slopes of Zirakzigil. Despite the players knowing that the Balrog is dead, another Servant of Sauron tests their will and fears by portraying an illusion of him. In the illusion, the fight between Gandalf and the Balrog on the <a href="../E/Endless_Stair.md" title="Endless Stair">Endless Stair</a> is recreated, until it ends the opposite way of the actual event: the Balrog defeats the Wizard, throwing his lifeless body from Zirakzigil. Players have to defeat the Balrog in order to combat the illusion.</dd></dl>
 
-<b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Conquest</a></i>:</b>
+<b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Chinh phục</a></i>:</b>
 
 <dl><dd>Durin&#39;s Bane is resurrected after his defeat by Gandalf, and must be fought again in Moria. In the Evil Campaign, Durin&#39;s Bane is playable in two battles. It kills Gimli, who makes his last stand in Moria, and <a href="../T/Treebeard.md" title="Treebeard">Treebeard</a>, who takes part in the final battle for <a href="../T/The_Shire.md" title="The Shire">the Shire</a>.</dd></dl>
 
-<b>2013: <i><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: The Video Game</a></i>:</b>
+<b>2013: <i><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: Trò chơi điện tử</a></i>:</b>
 
 <dl><dd>Durin&#39;s Bane is only seen as a light that chases the player(s) through Moria. When they reach the Bridge of Khazad-dûm, it appears in a cutscene where Gandalf destroys the bridge and the Balrog pulls him down. The player then controls Gandalf and has to grab Glamdring and land on Durin&#39;s Bane and stab him while avoiding the Balrog&#39;s fiery breath. When this is over, the game starts another cutscene that ends the level. Later, Gandalf appears on a snowy mountain with a tower on top. When he reaches the top of the tower, the Balrog climbs on. The Balrog repeatedly sweeps his fiery whip and strikes the ground with his sword. Lightning then begins to strike at one place and the Balrog breathes fire and is weakened. Gandalf then uses his sword to direct the lightning at Durin&#39;s Bane and his health goes down. The lightning will strike at three different places and when the Balrog loses all of his health by being hit three times, it will fall off the mountain and die.</dd></dl>
 

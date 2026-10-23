@@ -45,11 +45,11 @@ infobox:
     - "Sự phục vụ của Samwise: Chủ nghĩa anh hùng, Trí tưởng tượng và Sự phục hồi" của Sarah Shahan
     - "The Sách Đỏ và Tolkien *The Lord of the Rings*: Một sự không chắc chắn kỳ lạ" của Vincent Ferré và Pauline Loquin
 - **Ghi chú**
-    - "Bạn của SelbyTolkien" của [Douglas A. Anderson](../D/Douglas_A._Anderson.md)
+    - "Bạn củaTolkien Selby" của [Douglas A. Anderson](../D/Douglas_A._Anderson.md)
     - "Dấu nối dưới dạng hình vị từ vựng phụ trong *The Hobbit*" của Sparrow Alden
     - "Bạn có thể cho tôi biết cách đi đến phố Watling không?" bởi Kristine Larsen
 - **Đánh giá**
-    - *[Trung Địa hoặc Đến đó và Quay lại](Middle-earth,_or_There_and_Back_Again.md). Dòng Cormarë #44* của [Łukasz Neubauer](../_/Łukasz_Neubauer.md) (được đánh giá bởi Tamsin Barlow và Milton Nye Weatherhead)
+    - *[Trung Địa hoặc There and Back Again](Middle-earth,_or_There_and_Back_Again.md). Dòng Cormarë #44* của [Łukasz Neubauer](../_/Łukasz_Neubauer.md) (được đánh giá bởi Tamsin Barlow và Milton Nye Weatherhead)
     - *[Tolkien và Thế giới Cổ điển](../T/Tolkien_and_the_Classical_World.md). Dòng Cormarë #45*, ed. Hamish Williams (được đánh giá bởi Shawn Marchese)
     - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Following_the_Formula_in_Beowulf,_%C3%96rvar-Odds_saga,_and_Tolkien&amp;action=edit&amp;redlink=1" title="Following the Formula in Beowulf, Örvar-Odds saga, and Tolkien (page does not exist)">Tuân theo Công thức trong Beowulf, câu chuyện Örvar-Odds và Tolkien</a></i> của Michael Fox (do Richard Rohlin đánh giá)
     - *[Tolkien’s Modern Reading: Middle-earth Beyond the Middle Ages](../T/Tolkien's_Modern_Reading.md)* của [Holly Ordway](../H/Holly_Ordway.md) (được đánh giá bởi Putri Prihatini)

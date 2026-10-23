@@ -53,18 +53,18 @@ infobox:
 
 - Ghi chú và tài liệu
     - Maria Tsampouraki và Maria Sidiropoulou, "Chứng kiến sự thay đổi xã hội thông qua các phiên bản dịch của *The Lord of the Rings*"
-    - Josh Woods, "Bóng ma và Dracula"
+    - Josh Woods, "Nhẫn-bóng ma và Dracula"
 
 - Đánh giá sách
     - *[Tolkien's Library: An Annotated Checklist](Tolkien's_Library%253A_An_Annotated_Checklist.md)*, bởi [Oronzo Cilli](../O/Oronzo_Cilli.md), được đánh giá bởi [Janet Brennan Croft](../J/Janet_Brennan_Croft.md)
     - *[Tolkien's Lost Chaucer](Tolkien's_Lost_Chaucer.md)*, bởi John M. Bowers, được đánh giá bởi [John D. Rateliff](../J/John_D._Rateliff.md)
     - *[Flora of Middle-Earth: Plants of J.R.R. Tolkien's Legendarium](../F/Flora_of_Middle-Earth.md)*, của Walter S. Judd và Graham A. Judd, được Lynn Forest-Hill đánh giá
-    - *Một vùng hoang dã Rồng: Các bài tiểu luận tôn vinh Verlyn Flieger*, do John biên soạn D. Rateliff, được phản biện bởi Matthew A. Fisher
-    - *Trị liệu thông qua Faerie: Đặc tính trị liệu của văn học giả tưởng của Inklings và U.K. Le Guin*, của Anna Cholewa-Purgal, và *The Lure of the Ring: Power, Addiction and Transcendence trong The Lord of the Rings* của Tolkien, của Alan James Strachan và Janet Coster, đã được đánh giá bởi John Rosegrant
+    - *Một vùng hoang dã Rồng: Các bài tiểu luận tôn vinh Verlyn Flieger*, được biên tập bởi John D. Rateliff, được phản biện bởi Matthew A. Fisher
+    - *Trị liệu thông qua Faerie: Đặc tính trị liệu của văn học giả tưởng của Inklings và của U.K. Le Guin*, của Anna Cholewa-Purgal, và *Sự thu hút của Nhẫn: Quyền lực, Sự nghiện ngập và Sự siêu việt trong The Lord of the Rings* của Tolkien, của Alan James Strachan và Janet Coster, được đánh giá bởi John Rosegrant
     - *Catalogue de l'Exposition [Tolkien: Voyage en Terre du Milieu](Tolkien%253A_Voyage_en_Terre_du_Milieu.md)*, do [Vincent Ferré](../V/Vincent_Ferré.md) và Frédéric Manfrin biên tập, và *Album de l'Exposition Tolkien: Voyage en Terre du Milieu*, do Denis đánh giá cô dâu
 
-- [David Bratman](../D/David_Bratman.md), Kate Neville, Jennifer Rogers, Robin Anne Reid, [Jason Fisher](../J/Jason_Fisher.md), John Wm. Houghton và John Magoun, "Công trình nghiên cứu Tolkien của năm 2017"
-- David Bratman, "Thư mục (bằng tiếng Anh) cho năm 2018"
+- [David Bratman](../D/David_Bratman.md), Kate Neville, Jennifer Rogers, Robin Anne Reid, [Jason Fisher](../J/Jason_Fisher.md), John Wm. Houghton và John Magoun, "Công việc của năm trong nghiên cứu Tolkien năm 2017"
+- David Bratman, "Thư mục (bằng tiếng Anh) năm 2018"
 
 ## Liên kết ngoài {#External_links}
 

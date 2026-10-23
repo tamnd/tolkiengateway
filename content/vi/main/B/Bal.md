@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Balan"
 ---
 
-Chuyển hướng đến [Balan](Balan.md).
+Chuyển hướng tới [Balan](Balan.md).

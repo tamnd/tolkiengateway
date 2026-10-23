@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Olórë Mallë"
 ---
 
-Chuyển hướng đến [Olórë Mallë](../O/Olórë_Mallë.md).
+Chuyển hướng tới [Olórë Mallë](../O/Olórë_Mallë.md).

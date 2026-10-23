@@ -158,7 +158,7 @@ Tuy nhiên, Tolkien đã nhiều lần gặp những người Gamgee ngoài đ�
 
 <dl><dd>The Gaffer does not appear in the film, though Sam mentions that he saw him thrown out onto the street in his vision as he looks into the <a href="../M/Mirror_of_Galadriel.md" title="Mirror of Galadriel">Mirror of Galadriel</a>.</dd></dl>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (1981 radio series)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
 <dl><dd><a href="../J/John_Church.md" title="John Church">John Church</a> plays Gaffer Gamgee. He used a thick peasant accent for the role. He is included in early episodes including a full dramatisation of his encounter with the Nazgul. Neither Frodo or Sam learn of this exchange. He also features towards the end of the adaptation when he admonishes the returning Hobbits for wearing &#34;ironmongery.&#34; The Gaffer also is present as the travelers discuss how Sam should use Galadriel’s gift.</dd></dl>
 
@@ -174,7 +174,7 @@ Tuy nhiên, Tolkien đã nhiều lần gặp những người Gamgee ngoài đ�
 
 <dl><dd>Gaffer appears twice; at first, he drinks at the Green Dragon, but during the night, he informs Frodo of the Ringwraith that stalks the Shire. He was voiced by an uncredited <a href="../J/Jim_Piddock.md" title="Jim Piddock">Jim Piddock</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Hamfast Gamgee is found working in his garden just outside Bag End. He only offers one regional Shire quest, but has more story involvement during various seasonal festivals.</dd></dl>
 

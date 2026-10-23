@@ -24,7 +24,7 @@ file:
   user: "Pachyderminator"
 ---
 
-Bìa của *[Tolkien and the Classics](../../main/T/Tolkien_and_the_Classics.md)*, được xuất bản bởi [Nhà xuất bản Cây biết đi](../../main/W/Walking_Tree_Publishers.md). Hình minh họa bìa là của [Anke Eißmann](../../main/A/Anke_Eißmann.md).
+Bìa *[Tolkien and the Classics](../../main/T/Tolkien_and_the_Classics.md)*, do [Nhà xuất bản Cây biết đi](../../main/W/Walking_Tree_Publishers.md)xuất bản. Hình minh họa bìa là của [Anke Eißmann](../../main/A/Anke_Eißmann.md).
 
 ## Giấy phép {#Licensing}
 

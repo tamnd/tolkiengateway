@@ -62,7 +62,7 @@ Lịch <i><b>Tolkien 2001</b></i> là lịch Tolkien chính thức được xu�
 - Giữa - "[ Cuộc vây hãm Gondor](../../file/J/John_Howe_-_The_Siege_of_Gondor.jpg.md)"
 - Tháng 7 - "[ Cầu Khazad-dûm](../../file/J/John_Howe_-_The_Bridge_of_Khazad-dum.jpg.md)"
 - Tháng 8 - "[Legolas và Gimli](../../file/J/John_Howe_-_Legolas_and_Gimli_at_Helm's_Deep.jpg.md)"
-- tháng Chín - "[Shelob sắp nhảy vào Frodo](../../file/J/John_Howe_-_Shelob_About_to_Leap_on_Frodo.jpg.md)"
+- tháng Chín - "[Shelob Sắp nhảy vọt Frodo](../../file/J/John_Howe_-_Shelob_About_to_Leap_on_Frodo.jpg.md)"
 - Tháng 10 - "[Sự kết thúc của Kỷ Đệ Tam](../../file/J/John_Howe_-_The_End_of_All_Things.jpg.md)"
 - Tháng 11 - "[Zirakzigil](../../file/J/John_Howe_-_Zirak-zigil.jpg.md)"
 - Tháng 12 - "[Ngày Cảng Xám](../../file/J/John_Howe_-_The_Grey_Havens.jpg.md)"

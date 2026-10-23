@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-[Gốc](../S/Sundocarmë.md) [TOL](TOL~34330.md) có nghĩa là 'dính lên'<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Gốc](../S/Sundocarmë.md) [TOL](TOL~34330.md) có nghĩa là 'cố lên'<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -59,7 +59,7 @@ infobox:
 - Thông báo của Oxonmoot
 - Tất cả Bran
     - Bởi: Ian Spittlehouse
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Tác phẩm nghệ thuật: *Bag End*
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
@@ -73,7 +73,7 @@ infobox:
     - Bởi: Jef Murray
 - Phía sau cánh cửa kính
     - Bởi: [Alex Lewis](Alex_Lewis.md)
-- Bản gốc bìa mềm *[Lord of the Rings](../T/The_Lord_of_the_Rings.md)*
+- Bản gốc *[Lord of the Rings](../T/The_Lord_of_the_Rings.md)* bìa mềm
     - Bởi: [Jim Allan](../J/Jim_Allan.md)
 - Tác phẩm nghệ thuật: *Leaving the Shire*
     - Bởi: Gordon Palmer

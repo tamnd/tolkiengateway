@@ -43,7 +43,7 @@ Lúc này trong bức thư “Tháng 10 năm 1968” được chèn vào và Tol
 
 Tolkien cho biết thơ của ông ít được khen ngợi và cho rằng trong bầu không khí đương đại người ta tin rằng “thơ” chỉ phải phản ánh những nỗi thống khổ của cá nhân. Những câu thơ trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* đều đầy kịch tính và không phản ánh sự trăn trở của vị giáo sư già tội nghiệp.
 
-Chỉ từ khi nghỉ hưu ông mới biết mình đã là một giáo sư thành công. “Những người bạn” của anh chủ yếu hài lòng khi nói với anh rằng anh đã nói quá nhanh và quá nhỏ; quá đúng, Tolkien nói, vì có quá nhiều điều để nói trong thời gian quá ngắn. Ông nói rằng ông chưa bao giờ đọc bài phát biểu "nhậm chức" khi ngồi vào một trong hai "chiếc ghế" của mình vì quá sợ khán giả. Anh ấy đã thực hiện một “bài tốt nghiệp” ở [1959](../_/1959.md) đông nghẹt một cách đáng ngạc nhiên.
+Chỉ đến khi nghỉ hưu ông mới biết mình đã là một giáo sư thành công. “Những người bạn” của anh chủ yếu hài lòng khi nói với anh rằng anh đã nói quá nhanh và quá nhỏ; quá đúng, Tolkien nói, vì có quá nhiều điều để nói trong thời gian quá ngắn. Ông nói rằng ông chưa bao giờ đọc bài phát biểu "nhậm chức" khi ngồi vào một trong hai "chiếc ghế" của mình vì quá sợ khán giả. Anh ấy đã thực hiện một “bài tốt nghiệp” ở [1959](../_/1959.md) đông nghẹt một cách đáng ngạc nhiên.
 
 ## Ghi chú {#Notes}
 

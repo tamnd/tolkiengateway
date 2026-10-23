@@ -31,11 +31,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien được yêu cầu đóng góp cho một hội nghị chuyên đề được đăng trên tờ New Statesman. Anh ta được đưa cho một danh sách các câu hỏi mà họ hy vọng anh ta sẽ cân nhắc. Tolkien bắt đầu trả lời dài để giải quyết nhiều câu hỏi của họ, nhưng quyết định chỉ gửi lời hối tiếc của mình trong một bức thư ngắn.
+Tolkien được yêu cầu đóng góp cho một hội nghị chuyên đề được đăng trên tờ New Statesman. Anh ta được đưa cho một danh sách các câu hỏi mà họ hy vọng anh ta sẽ cân nhắc. Tolkien bắt đầu trả lời một cách dài dòng để giải quyết nhiều câu hỏi của họ, nhưng quyết định chỉ gửi lời hối tiếc của mình trong một bức thư ngắn.
 
 ### Thư đã gửi {#The_sent_letter}
 
-Ông tuyên bố rằng ông không thể tham gia hội nghị chuyên đề. Anh ấy vừa mới trở lại sau thời gian dưỡng bệnh sau một ca phẫu thuật và phải đối mặt với nhiều công việc bị bỏ bê. Học kỳ bắt đầu vào tuần sau và anh ấy không thể xuất bản bất kỳ bản sao nào kịp thời.
+Ông tuyên bố rằng ông không thể tham gia hội nghị chuyên đề. Anh ấy vừa mới trở lại sau thời gian dưỡng bệnh sau một ca phẫu thuật và phải đối mặt với nhiều công việc bị bỏ bê. Học kỳ bắt đầu vào tuần sau và anh ấy không thể xuất trình bất kỳ bản sao nào kịp thời.
 
 ### Bản nháp chưa gửi {#The_unsent_draft}
 

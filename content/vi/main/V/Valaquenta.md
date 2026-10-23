@@ -79,7 +79,7 @@ Ainur có hình dạng nam hoặc nữ, một số là cặp đôi, trong khi m�
 
 ### Của Maiar {#Of_the_Maiar}
 
-Khi xuống Arda, Valar, theo sau là Ainur có sức mạnh thấp hơn, [Maiar](../M/Maiar.md), là đối tượng, sinh viên và trợ lý của họ trong việc quản lý Arda. Valar có khả năng thay đổi hình dáng bên ngoài hoặc không có hình dạng nào cả.
+On their descent to Arda, the Valar, were followed by Ainur of lesser might, the [Maiar](../M/Maiar.md), who were their subjects, students and assistants in governing Arda. Valar có khả năng thay đổi hình dáng bên ngoài hoặc không có hình dạng nào cả.
 
 ### Của Kẻ Thù {#Of_the_Enemies}
 

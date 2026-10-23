@@ -12,7 +12,7 @@ categories:
   - "The Return of the King (1980 film) soundtrack"
 ---
 
-**Less Can Be More** là bài hát được viết bởi [Maury Laws](../M/Maury_Laws.md) (nhạc) và [Jules Bass](../J/Jules_Bass.md) (lời) và được [Glenn Yarbrough](../G/Glenn_Yarbrough.md) thể hiện cho bộ phim hoạt hình [1980](../_/1980.md) [*The Return of the King*](<../T/The_Return_of_the_King_(1980_film).md>). Bài hát phát sau khi [Sam](../S/Samwise_Gamgee.md) từ chối nhận [Chiếc nhẫn một](../O/One_Ring.md), trong một đoạn phim quay cảnh anh mơ mộng về cuộc sống giản dị cùng gia đình trong Shire sau khi Chiếc nhẫn bị phá hủy.
+**Less Can Be More** là bài hát được viết bởi [Maury Laws](../M/Maury_Laws.md) (nhạc) và [Jules Bass](../J/Jules_Bass.md) (lời) và được [Glenn Yarbrough](../G/Glenn_Yarbrough.md) thể hiện cho bộ phim hoạt hình [1980](../_/1980.md) [*The Return of the King*](<../T/The_Return_of_the_King_(1980_film).md>). Bài hát được phát sau khi [Sam](../S/Samwise_Gamgee.md) từ chối nhận [Một Nhẫn](../O/One_Ring.md), trong một đoạn phim ghi lại cảnh anh tưởng tượng về cuộc sống đơn giản cùng gia đình trong Shire sau khi Nhẫn bị phá hủy.
 
 ## Lời bài hát {#Lyrics}
 

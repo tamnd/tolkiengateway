@@ -32,7 +32,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../../project/F/File_licensing_templates.md" title="Tolkien Gateway:File licensing templates">Tolkien Gateway:File licensing templates</a></div></div>
 
-- Nếu nghệ sĩ hoặc chủ sở hữu bản quyền chưa [đã cấp](../../project/C/Copyrights.md) quyền cho Tolkien Gateway sử dụng hình ảnh của họ thì người tải lên phải liên hệ với người sáng tạo để xin phê duyệt. Chỉ khi người tải lên không thể liên hệ với người sáng tạo thì mẫu cấp phép Sử dụng Hợp lý mới có thể được áp dụng.
+- Nếu nghệ sĩ hoặc chủ sở hữu bản quyền chưa [đã cấp](../../project/C/Copyrights.md) quyền cho Tolkien Gateway sử dụng hình ảnh của họ thì người tải lên phải liên hệ với người sáng tạo để xin phê duyệt. Chỉ khi người tải lên không thể liên hệ với người sáng tạo thì mẫu giấy phép Sử dụng Hợp lý mới có thể được áp dụng.
 - Trong khi tải lên, mẫu giấy phép tệp phải được chọn từ danh sách thả xuống "Cấp phép".
 - Ngoài ra, có thể áp dụng mẫu cấp phép tệp trong hộp tóm tắt.
 - Xem [tại đây](../../project/F/File_licensing_templates.md) để biết danh sách các mẫu giấy phép tệp trên Tolkien Gateway.

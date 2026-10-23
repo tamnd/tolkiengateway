@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anar (dwarf)"
 ---
 
-Chuyển hướng tới [Anar (người lùn)](<Anar_(dwarf).md>).
+Chuyển hướng đến [Anar (người lùn)](<Anar_(dwarf).md>).

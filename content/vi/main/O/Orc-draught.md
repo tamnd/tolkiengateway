@@ -24,7 +24,7 @@ images:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bản phác thảo trước đó, [Frodo Baggins](../F/Frodo_Baggins.md) được cho là đã lấy lại được trí thông minh của mình trong [ Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md) sau vết chích của [Shelob](../S/Shelob.md) do bị [Orc](Orcs.md) đưa cho anh ta một bản nháp để chống lại chất độc.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong bản phác thảo trước đó, [Frodo Baggins](../F/Frodo_Baggins.md) được cho là đã hồi phục trí thông minh của mình trong [ Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md) sau cú chích của [Shelob](../S/Shelob.md)do một bản thảo được [Orc](Orcs.md) đưa cho anh ta để chống lại chất độc.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -80,17 +80,17 @@ Trong bản phác thảo trước đó, [Frodo Baggins](../F/Frodo_Baggins.md) �
 
 <dl><dd><a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> sees an <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk</a> drinking orc-draught and asks him to give some to <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a>, as he is sick. <a href="../U/Uglúk.md" title="Uglúk">Uglúk</a> yells &#34;Sick is he? Give him some medicine boys!&#34; and the Uruk feeds Merry the orc-draught as he coughs and splutters and Pippin begs him to stop. The Uruks laugh and Uglúk exclaims &#34;Can&#39;t take his draught!&#34;.</dd></dl>
 
-<b><a href="../_/2014.md" title="2014">2014</a>: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung Địa: Bóng Tối trong số Mordor</a></i>:</b>
+<b><a href="../_/2014.md" title="2014">2014</a>: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Middle-earth: Shadow of Mordor</a></i>:</b>
 
 <dl><dd>The green fungus <a class="new" href="https://tolkiengateway.net/w/index.php?title=Orchamarth&amp;action=edit&amp;redlink=1" title="Orchamarth (page does not exist)">Orchamarth</a> is said to be one of the primary ingredients in orc-draught.</dd></dl>
 
-<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Lord of the Rings: Trò chơi bài</a></i>:</b>
+<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Lord of the Rings: The Card Game</a></i>:</b>
 
 <dl><dd>The draught is depicted in the <a href="../_/2015.md" title="2015">2015</a> expansion <i>The Uruk-hai Nightmare</i> on the &#34;Orc-draught&#34; card, illustrated by Rafal Hrynkiewicz . The card has the following effects:</dd></dl>
 
 > Nguy hiểm. Tăng đột biến.<br>Khi lộ diện: Loại bỏ một đồng minh mà bạn điều khiển hoặc tăng giá trị truy đuổi lên 1.<br>Bóng Tối: Tiêu diệt nhân vật bạn điều khiển.
 
-<b><a href="../_/2023.md" title="2023">2023</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">The Lord of the Rings: Những câu chuyện về Trung Địa</a></i>:</b>
+<b><a href="../_/2023.md" title="2023">2023</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">The Lord of the Rings: Tales of Middle-earth</a></i>:</b>
 
 <dl><dd>The orc-draught is depicted on the &#34;Orcish Medicine&#34; card, illustrated by <a href="../../category/I/Images_by_Irvin_Rodriguez.md" title="Category:Images by Irvin Rodriguez">Irvin Rodriguez</a>. The card has the following effects:</dd></dl>
 

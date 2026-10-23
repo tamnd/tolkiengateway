@@ -68,11 +68,11 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
 - Thông báo của Hội nghị Marquette
 Thông báo 50 năm của - Tolkien
 - Thông báo hội nghị của Viện Chesterton
-- Sảnh lửa
+- Cái Hall of Fire
     - Bởi: Lynn Forest-Hill
 - Những chàng trai vàng của Hollywood?
     - Bởi: *Beruthiel's Pet*
-- Một chuyến hành trình bất ngờ hoặc LA và quay trở lại
+- Một cuộc hành trình bất ngờ hoặc LA và quay trở lại
     - Bởi: Richard Crawshaw
 - Chúng tôi có thể lấy lại cuốn sách của mình được không?
     - Bởi: Alan K. Wheatley

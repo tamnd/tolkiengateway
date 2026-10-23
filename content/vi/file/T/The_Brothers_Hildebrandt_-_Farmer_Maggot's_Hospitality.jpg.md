@@ -30,7 +30,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Farmer Maggot](../../main/F/Farmer_Maggot.md)'s Hospitality" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), xuất bản lần đầu trên *[1978 J.R.R. Tolkien Calendar](../../main/_/1978_J.R.R._Tolkien_Calendar.md)*.
+"[Farmer Maggot](../../main/F/Farmer_Maggot.md)'s Hospitality" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), được xuất bản lần đầu trên *[1978 J.R.R. Tolkien Calendar](../../main/_/1978_J.R.R._Tolkien_Calendar.md)*.
 
 ## Giấy phép {#Licensing}
 

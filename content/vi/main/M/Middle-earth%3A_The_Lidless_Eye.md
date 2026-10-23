@@ -34,7 +34,7 @@ infobox:
 
 **Trung Địa: Mắt không mí**, được phát hành vào [1997](../_/1997.md), là bộ cơ bản thứ hai của *[Middle-earth Collectible Card Game](Middle-earth_Collectible_Card_Game.md)*. *The Lidless Eye* bổ sung thêm khả năng chơi như một Ma Nhẫn của Sauron và được cho là khiến trò chơi trở nên phức tạp hơn với đủ loại thẻ hỗ trợ và hiệu ứng. Sau đó nó được mở rộng bởi bộ *[Against the Shadow](Middle-earth%253A_Against_the_Shadow.md)*.
 
-*The Lidless Eye* đã được bán ở dạng bộ khởi đầu và bộ tăng cường (không cần thẻ từ các bộ khác để chơi). Một bộ tăng cường (15 thẻ, 36 bộ tăng cường trên mỗi màn hình) chứa 1 thẻ hiếm, 4 thẻ thông thường và 10 thẻ chung. Bộ khởi động chứa một bộ cố định (bạn có thể chọn), tương đương với 3 bộ tăng cường và 7 bộ chung bổ sung. [Người đồng hành](Middle-earth%253A_The_Lidless_Eye_Companion.md) và [hướng dẫn người chơi](Middle-earth%253A_The_Lidless_Eye_Player_Guide.md) tương ứng cũng đã được phát hành.
+*The Lidless Eye* đã được bán ở dạng bộ khởi đầu và bộ tăng cường (không cần thẻ từ các bộ khác để chơi). Một bộ tăng cường (15 thẻ, 36 bộ tăng cường trên mỗi màn hình) chứa 1 thẻ hiếm, 4 thẻ thông thường và 10 thẻ chung. Bộ khởi động chứa một bộ cố định (bạn có thể chọn), tương đương với 3 bộ tăng cường và 7 bộ chung bổ sung. [người bạn đồng hành](Middle-earth%253A_The_Lidless_Eye_Companion.md) và [hướng dẫn người chơi](Middle-earth%253A_The_Lidless_Eye_Player_Guide.md) tương ứng cũng đã được phát hành.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 

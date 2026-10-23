@@ -55,8 +55,8 @@ infobox:
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
 - Thông báo
 - Thông báo ĐHĐCĐ
-- Quảng cáo: Nhiệm vụ chiếc nhẫn
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- Quảng cáo: Nhẫn Nhiệm vụ
+- [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Quảng cáo: Chuyến tham quan thảm đỏ
 - Bài thơ: *Yavanna's Vision*

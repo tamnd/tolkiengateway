@@ -60,7 +60,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Erestor, là cố vấn trưởng của gia đình [Elrond](Elrond.md)vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), đã tham gia [Hội đồng Elrond](../C/Council_of_Elrond.md). Anh ta không ủng hộ ý tưởng phá hủy [Chiếc nhẫn](../T/The_One_Ring.md), thay vào đó anh ta thích ý tưởng bảo vệ nó khỏi [Sauron](../S/Sauron.md), có lẽ với sự trợ giúp của [Iarwain ben-adar](../T/Tom_Bombadil.md). Đề nghị của ông đã bị [Glorfindel](../G/Glorfindel.md)cũng như [Galdor](../G/Galdor_of_the_Havens.md)phản đối vì họ không tin rằng Iarwain có đủ sức mạnh để thách thức Sauron.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Erestor, là cố vấn trưởng của gia đình [Elrond](Elrond.md)vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), đã tham gia [Hội đồng Elrond](../C/Council_of_Elrond.md). Anh ta không ủng hộ ý tưởng phá hủy [ Nhẫn](../T/The_One_Ring.md) và thay vào đó thích ý tưởng bảo vệ nó khỏi [Sauron](../S/Sauron.md), có lẽ với sự trợ giúp của [Iarwain ben-adar](../T/Tom_Bombadil.md). Đề nghị của ông đã bị [Glorfindel](../G/Glorfindel.md)cũng như [Galdor](../G/Galdor_of_the_Havens.md)phản đối vì họ không tin rằng Iarwain có đủ sức mạnh để thách thức Sauron.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Erestor tháp tùng [Arwen](../A/Arwen.md) tới đám cưới của cô với [Aragorn](../A/Aragorn.md) ở [Gondor](../G/Gondor.md) ở [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -106,11 +106,11 @@ Ban đầu, chỉ có Elrond, [Galadriel](../G/Galadriel.md)và [Celeborn](../C/
 
 <dl><dd>A card from <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i> expansion: <i>Realms of the Elf Lords</i> identifies the <a href="Elves.md" title="Elves">Elf</a> sitting next to <a href="Elrond.md" title="Elrond">Elrond</a> at <a href="../C/Council_of_Elrond.md" title="Council of Elrond">the Counci</a> as Erestor.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> He is portrayed by <a href="../J/Jonathan_Harding.md" title="Jonathan Harding">Jonathan Harding</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Prior to the Fellowship&#39;s departure from <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, Erestor is involved in a quest exclusive to the Elven characters. After the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a>, he joins the procession from Rivendell that travels to <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> for Lady <a href="../A/Arwen.md" title="Arwen">Arwen</a>&#39;s wedding.</dd></dl>
 
-<b><a href="../_/2023.md" title="2023">2023</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">The Lord of the Rings: Những câu chuyện về Trung Địa</a></i>:</b>
+<b><a href="../_/2023.md" title="2023">2023</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">The Lord of the Rings: Tales of Middle-earth</a></i>:</b>
 
 <dl><dd>Erestor is depicted on the &#34;Erestor of the Council&#34; card, illustrated by Syd Mills. The card has the following effects:</dd></dl>
 

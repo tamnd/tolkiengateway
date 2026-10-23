@@ -56,7 +56,7 @@ Xác sống được biết đến với nhiều cái tên:
 
 <dl><dd>The Undead is a class of monsters, which includes Ghosts, Skeletons, Ghouls, and many others.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd><a class="external text" href="http://lorebook.lotro.com/wiki/Category:The_Dead" rel="noreferrer noopener" target="_blank">The Dead</a> is a category of creatures, which includes wights, spirits, skeletons, and many others. A related category is <a class="external text" href="http://lorebook.lotro.com/wiki/Category:Unseen" rel="noreferrer noopener" target="_blank">The Unseen</a>, which includes the Nazgûl and related shadowy figures. One case of a non-Evil undead exists in the ghost of <a href="../A/Arvedui.md" title="Arvedui">Arvedui</a> in <a href="../F/Forochel.md" title="Forochel">Forochel</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 

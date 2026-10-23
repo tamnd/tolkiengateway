@@ -35,7 +35,7 @@ Một điểm khác biệt nữa so với Sindarin Cổ và Sindarin là nhìn c
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Doron&amp;action=edit&amp;redlink=1" title="Doron (page does not exist)">doron</a> - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Dorn&amp;action=edit&amp;redlink=1" title="Dorn (page does not exist)">dorn</a>
 - [goroth](../G/Gorth.md#Other_versions) - [gorth](../G/Gorth.md)
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Garaf&amp;action=edit&amp;redlink=1" title="Garaf (page does not exist)">garaf</a> - [garm](../G/Garm.md)
-- [Golodh](../G/Golodh.md) - [Gold](../G/Gold.md)
+- [Golodh](../G/Golodh.md) - [Vàng](../G/Gold.md)
 - [orod](../E/Ered.md) - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Orth&amp;action=edit&amp;redlink=1" title="Orth (page does not exist)">orth</a>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}

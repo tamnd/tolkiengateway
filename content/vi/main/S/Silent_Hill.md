@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amon Dîn"
 ---
 
-Chuyển hướng đến [Amon Dîn](../A/Amon_Dîn.md).
+Chuyển hướng tới [Amon Dîn](../A/Amon_Dîn.md).

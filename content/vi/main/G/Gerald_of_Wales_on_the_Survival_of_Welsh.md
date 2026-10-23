@@ -15,7 +15,7 @@ categories:
 
 **"Gerald of Wales về sự sống còn của tiếng Wales"** là một bài viết của W. Rhys Roberts, trong đó [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã đóng góp bản dịch một phần văn bản Latinh sang [tiếng Anh ở miền Nam Phương Tây Midlands](../A/AB_language.md) vào cuối thế kỷ 12>. Nó cũng ghi nhận một gợi ý của Tolkien về tầm quan trọng của "quidam cấp cao".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Bài viết được đăng lần đầu trên tạp chí thường niên tiếng Wales *[The Transactions of the Honourable Society of Cymmrodorion: Session 1923-24](../T/The_Transactions_of_the_Honourable_Society_of_Cymmrodorion%253A_Session_1923-24.md)* năm [1925](../_/1925.md). Trong [2005](../_/2005.md), đóng góp của Tolkien đã được in lại trong [*Tolkien Studies*: Tập 2](../T/Tolkien_Studies%253A_Volume_2.md), trong bài viết "J.R.R. Tolkien và W. Rhys 'Gerald of Wales về sự sống còn của tiếng Wales'" của Roberts bởi [Douglas A. Anderson](../D/Douglas_A._Anderson.md).
+Bài viết được đăng lần đầu trên tiếng Wales tạp chí thường niên *[The Transactions of the Honourable Society of Cymmrodorion: Session 1923-24](../T/The_Transactions_of_the_Honourable_Society_of_Cymmrodorion%253A_Session_1923-24.md)* vào năm [1925](../_/1925.md). Trong [2005](../_/2005.md), đóng góp của Tolkien đã được in lại trong [*Tolkien Studies*: Tập 2](../T/Tolkien_Studies%253A_Volume_2.md), trong bài viết "J.R.R. Tolkien và W. Rhys 'Gerald of Wales về sự sống còn của tiếng Wales'" của Roberts bởi [Douglas A. Anderson](../D/Douglas_A._Anderson.md).
 
 <span></span>
 

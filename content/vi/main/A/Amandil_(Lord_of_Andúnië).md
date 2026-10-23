@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amandil"
 ---
 
-Chuyển hướng tới [Amandil](Amandil.md).
+Chuyển hướng đến [Amandil](Amandil.md).

@@ -62,7 +62,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Tại một bữa tiệc lớn của [Edain](../E/Edain.md), Glóredhel kết hôn với [Haldir](<../H/Haldir_(Chieftain_of_the_Haladin).md>) và Galdor kết hôn với [Hareth](../H/Hareth.md), cả hai đều là con của [Halmir](../H/Halmir.md), thủ lĩnh của [Nhà Haleth](../H/House_of_Haleth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Glóredhel là mẹ của [Handir](../H/Handir.md), người sau này là cha của [Brandir Kẻ Què](../B/Brandir.md).<sup id="cite_ref-WJwest_1-1" class="reference"><a href="#cite_note-WJwest-1">[1]</a></sup>
+Tại một bữa tiệc lớn của [Edain](../E/Edain.md), Glóredhel kết hôn với [Haldir](<../H/Haldir_(Chieftain_of_the_Haladin).md>) và Galdor kết hôn với [Hareth](../H/Hareth.md), cả hai đều là con của [Halmir](../H/Halmir.md), thủ lĩnh của [Nhà Haleth](../H/House_of_Haleth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Glóredhel là mẹ của [Handir](../H/Handir.md), người sau này là cha của [Brandir Kẻ què](../B/Brandir.md).<sup id="cite_ref-WJwest_1-1" class="reference"><a href="#cite_note-WJwest-1">[1]</a></sup>
 
 Bà chết vì đau buồn sau khi biết chồng mình đã bị giết trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md) ("Trận chiến không nước mắt").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

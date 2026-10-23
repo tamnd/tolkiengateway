@@ -32,7 +32,7 @@ images:
 **Beren** có nghĩa là "đậm" trong [Sindarin](../S/Sindarin.md) và có thể đề cập đến:
 
 - [Beren](<Beren_(son_of_Belemir).md>) (sinh [F.A.](../F/First_Age.md) [374](../F/First_Age_374.md)), con trai của [Belemir](Belemir.md) và ông nội của Beren Erchamion.
-- **[Beren](Beren.md) ([F.A.](../F/First_Age.md) [443](../F/First_Age_443.md) - [503](../F/First_Age_503.md)), chồng của [Lúthien Tinúviel](../L/Lúthien.md) và anh hùng của [Kỷ Đệ Nhất](../F/First_Age.md).**
+- **[Beren](Beren.md) ([F.A.](../F/First_Age.md) [443](../F/First_Age_443.md) - [503](../F/First_Age_503.md)), chồng của [Lúthien Tinúviel](../L/Lúthien.md) và là anh hùng của [Kỷ Đệ Nhất](../F/First_Age.md).**
 - [Beren](<Beren_(Steward_of_Gondor).md>) ([T.A.](../T/Third_Age.md) [2655](../T/Third_Age_2655.md) - [2763](../T/Third_Age_2763.md)), [Quản lý cầm quyền](../R/Ruling_Steward.md) thứ mười chín của [Gondor](../G/Gondor.md).
 - Beren, tên [Gnomish](../G/Gnomish.md) của [Beorn](<Beorn_(son_of_Heden).md>), con trai của [Heden](../H/Heden.md), ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 

@@ -187,11 +187,11 @@ Những thanh kiếm bị gãy rồi được rèn lại cũng xuất hiện tro
 <dl><dd>In the <a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">extended edition</a>, the <a href="../M/Mouth_of_Sauron.md" title="Mouth of Sauron">Mouth of Sauron</a> refers to the blade as Elvish; this could either be a reference to its reforging or a mistake on behalf of the writers.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd>
 <dd>Design-wise, Andúril does not differ significantly from its predecessor, Narsil. The only notable difference is the Elvish inscription running up the length of the blade.</dd></dl>
 
-<b><a href="../_/2003.md" title="2003">2003</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: War of the Ring</a></i>:</b>
+<b><a href="../_/2003.md" title="2003">2003</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: Cuộc chiến Nhẫn</a></i>:</b>
 
 <dl><dd>Andúril is represented as a permanent upgrade called &#34;Andúril&#39;s Fury&#34; for Aragorn, who is represented as a hero unit. It makes his sword glow white as well as increasing his damage greatly, with bonus damage against enemy Heroes, Wraiths, and the Nazgûl.</dd></dl>
 
-<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The reforging of Narsil is experienced by the player in the quest arc called &#34;The Blade that was Broken&#34;. The player sets out to find the last of the Silithair, shining adamants crafted by Elves of the house of <a href="../F/Fëanor.md" title="Fëanor">Fëanor</a> in days of old, in order for the Elven smiths of Imladris to reforge the sword into Andúril.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
 

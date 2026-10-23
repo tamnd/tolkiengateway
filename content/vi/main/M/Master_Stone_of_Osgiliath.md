@@ -17,7 +17,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Angus_McBride_-_Osgiliath_stone.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f8/Angus_McBride_-_Osgiliath_stone.jpg/200px-Angus_McBride_-_Osgiliath_stone.jpg" decoding="async" loading="lazy" width="200" height="171" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/f8/Angus_McBride_-_Osgiliath_stone.jpg 1.5x" data-file-width="296" data-file-height="253"/></a><figcaption><i>Palantír of Osgiliath</i> by <a href="../A/Angus_McBride.md" title="Angus McBride">Angus McBride</a></figcaption></figure>
 
-**Viên đá chủ nhân của Osgiliath**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> có lẽ là viên đá vĩ đại nhất trong số bảy viên *[palantíri](../P/Palantíri.md)* mà [Những người trung thành](../F/Faithful.md) mang đến [Trung Địa](Middle-earth.md) từ [Númenor](../N/Númenor.md).<sup id="cite_ref-Palantiri_2-0" class="reference"><a href="#cite_note-Palantiri-2">[2]</a></sup>
+Viên đá **Chủ nhân của Osgiliath**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> có lẽ là viên đá lớn nhất trong số bảy viên *[palantíri](../P/Palantíri.md)* mà [Những người trung thành](../F/Faithful.md) mang đến [Trung Địa](Middle-earth.md) từ [Númenor](../N/Númenor.md).<sup id="cite_ref-Palantiri_2-0" class="reference"><a href="#cite_note-Palantiri-2">[2]</a></sup>
 
 Đó cũng là *palantír* duy nhất có thể được sử dụng để bí mật nghe liên lạc giữa những người dùng của *palantíri*kia.<sup id="cite_ref-Palantiri_2-1" class="reference"><a href="#cite_note-Palantiri-2">[2]</a></sup>
 

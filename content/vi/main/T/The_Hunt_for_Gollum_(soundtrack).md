@@ -15,7 +15,7 @@ sort_keys:
   "Soundtracks": "Hunt"
 ---
 
-<i><b>Cuộc săn lùng Gollum</b></i> là nhạc nền của *[The Hunt for Gollum](The_Hunt_for_Gollum.md)*. Nhạc phim do Adam Langston và Andrew Skrabutenas sáng tác, dựa trên âm nhạc của Howard Shore và Clint Mansell. Nó được phát hành miễn phí trên internet.
+<i><b>Cuộc săn lùng Gollum</b></i> là nhạc nền của *[The Hunt for Gollum](The_Hunt_for_Gollum.md)*. Nhạc nền do Adam Langston và Andrew Skrabutenas sáng tác, dựa trên nhạc của Howard Shore và Clint Mansell. Nó được phát hành miễn phí trên internet.
 
 ## Bài hát {#Tracks}
 

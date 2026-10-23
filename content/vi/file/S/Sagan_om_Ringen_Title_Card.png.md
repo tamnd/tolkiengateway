@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Thẻ tiêu đề [Sagan om Ringen](<../../main/S/Sagan_om_Ringen_(1971_film).md>)
+[Sagan om Ringen](<../../main/S/Sagan_om_Ringen_(1971_film).md>) thẻ tiêu đề
 
 ## Giấy phép {#Licensing}
 

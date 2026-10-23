@@ -43,7 +43,7 @@ categories:
 
 Phiên bản đầu tiên của Tale of Years của Kỷ Đệ Tam bắt đầu với cái chết của Isildur, tuyên bố là Năm 0. Từ đó, [Sauron](../S/Sauron.md) được cho là đã thức tỉnh trở lại và bước vào Mirkwood vào năm 1000, nơi ông thành lập Dol Dugul (trong phiên bản cuối cùng, nó sẽ trở thành [Dol Guldur](../D/Dol_Guldur.md)).
 
-Năm 1100, Deagol và Smeagol tình cờ gặp được Chiếc Nhẫn Chúa. Smeagol đã giết Deagol, trở thành [Gollum](../G/Gollum.md)và tiến vào Dãy Núi Sương Mù vào năm 1105. Riêng biệt, dân tộc của hai anh em đã nhân lên, vượt qua Dãy Núi Sương Mù vào năm 1300 và trở thành [Hobbit](../H/Hobbits.md). (Vào khoảng thời gian này Orc bắt đầu xuất hiện trở lại.) Năm 1500, Hobbit ổn định ở [Bree](../B/Bree.md). Một thế kỷ sau, Marco và Cavallo vượt qua Brandywine và nhà vua ở Fornost Erain đã ban cho họ Shire. (Sự kiện này đánh dấu sự khởi đầu của lịch Shire.)
+Năm 1100, Deagol và Smeagol tình cờ gặp Kẻ Nhẫn. Smeagol đã giết Deagol, trở thành [Gollum](../G/Gollum.md)và tiến vào Dãy Núi Sương Mù vào năm 1105. Riêng biệt, dân tộc của hai anh em đã nhân lên, vượt qua Dãy Núi Sương Mù vào năm 1300 và trở thành [Hobbit](../H/Hobbits.md). (Vào khoảng thời gian này Orc bắt đầu xuất hiện trở lại.) Năm 1500, Hobbit ổn định ở [Bree](../B/Bree.md). Một thế kỷ sau, Marco và Cavallo vượt qua Brandywine và nhà vua ở Fornost Erain đã ban cho họ Shire. (Sự kiện này đánh dấu sự khởi đầu của lịch Shire.)
 
 ## Giới thiệu về văn bản {#About_the_Text}
 

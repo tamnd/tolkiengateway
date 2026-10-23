@@ -31,7 +31,7 @@ Vào thời kỳ đầu [Kỷ Đệ Tứ](../F/Fourth_Age.md), [Borlas](../B/Bor
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến: Minas Morgul</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online: Minas Morgul</a></i>:</b>
 
 <dl><dd>After King Elessar charges Steward <a href="../F/Faramir.md" title="Faramir">Faramir</a> with cleansing the evil of <a href="../M/Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a>, Faramir leads the White Company into the <a href="../M/Morgul_Vale.md" title="Morgul Vale">Morgul Vale</a>, where they and the <a href="../R/Rangers_of_Ithilien.md" title="Rangers of Ithilien">Rangers of Ithilien</a> establish several camps outside the Dead City.</dd></dl>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Anborn - Skilled Huntsman.jpg"
 ---
 
-Chuyển hướng đến [Tệp:The Lord of the Rings - The Two Towers - Anborn - Skilled Huntsman.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Anborn_-_Skilled_Huntsman.jpg.md).
+Chuyển hướng tới [Tệp:The Lord of the Rings - The Two Towers - Anborn - Skilled Huntsman.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Anborn_-_Skilled_Huntsman.jpg.md).

@@ -20,7 +20,7 @@ Trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), có rất
 - **abjure** - từ bỏ, quay lưng lại
 - **nước ngoài** - công khai, rộng rãi
 - **kiên quyết** - kim cương, hoặc (nói chung hơn) bất kỳ chất rất cứng nào
-- **ngoài sân** - xa nhà, đặc biệt là xa nhà
+- **ngoài trời** - xa nhà, đặc biệt là xa nhà
 - **trước đây** - vào thời xa xưa hơn
 - **kinh ngạc** - kinh hãi, kinh ngạc
 - **agin** - một từ phương ngữ có nghĩa là "chống lại", "bên cạnh"
@@ -110,7 +110,7 @@ Trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), có rất
 - **cockshut-light** - chạng vạng tối (khi gà rừng bay qua khoảng trống được gọi là bụi gà và có thể mắc lưới, theo <a class="extiw" href="http://en.wikipedia.org/wiki/cockshoot" title="wikipedia:cockshoot">Wikipedia</a>, hoặc khi gia cầm bị nhốt trong chuồng, một giải pháp thay thế do *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)*đưa ra)
 - **coëval** - sinh cùng thời điểm
 - **rương** - két sắt, đặc biệt để đựng đồ có giá trị
-- **dễ chịu** - dễ nhìn
+- **dễ chịu** - dễ chịu
 - **chung** - đồ ăn chung; thiếu thốn lương thực
 - **la bàn** - hoàn thành, đạt được
 - **hội nghị** - một cuộc họp hoặc nơi tổ chức cuộc họp
@@ -143,7 +143,7 @@ Trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), có rất
 ## Đ {#D}
 
 - **ngon** - miếng nhỏ, món ngon
-- **damask** - thép và sắt được hàn đặc biệt để tạo thành hoa văn ngoằn ngoèo
+- **gấm hoa** - thép và sắt được hàn đặc biệt để tạo thành hoa văn ngoằn ngoèo
 - **bóng tối** - bóng tối (thơ mộng)
 - **dastard** - một kẻ đê tiện và hèn nhát
 - **làm nản lòng** - đe dọa
@@ -153,7 +153,7 @@ Trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), có rất
 - **làm ô uế** - hủy hoại, hư hỏng
 - **bỏ qua** - trả tiền cho
 - **dell** - thung lũng nhỏ
-- **mô tả** - bắt mắt, đặc biệt là thứ gì đó khó nhìn thấy
+- **mô tả** - bắt mắt, đặc biệt là thứ khó nhìn thấy
 - **thiết bị** - đồ vật, đặc biệt là các tình huống, được nghĩ ra hoặc thiết kế
 - **dingle** - chỗ trũng sâu, thường được che bóng bởi cây cối
 - **che đậy** - che giấu ý định thực sự của mình
@@ -181,7 +181,7 @@ Trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), có rất
 - **ell** - thước đo chiều dài, thường tương đương 45 inch hoặc 114 cm
 - **bị bao vây** - của một pháo đài, có tường thành
 - **embatled**<sub>2</sub> - của một đội quân, được tăng cường chống lại sự tấn công (đây là định nghĩa từ điển, nhưng trong *The Lord of the Rings*, cách sử dụng Tolkien dường như chỉ đơn giản là "trong trận chiến")
-- **khung che** - khung cửa hoặc cửa sổ vát cắt vào tường
+- **khung che** - khung cửa hoặc cửa sổ vát vào tường
 - **bao gồm** - bao quanh
 - **đây** - trước đây
 - **sai lầm** - hành trình tìm kiếm sự phiêu lưu
@@ -216,10 +216,10 @@ Trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), có rất
 - **hình** - được đánh dấu bằng hình vẽ hoặc chữ viết
 - **chó cứu hỏa** - andirons hỗ trợ các khúc gỗ trong lò sưởi
 - **firth** - Cửa biển tại cửa sông rộng
-- **flag** - bình hoặc cốc lớn, thường dùng để đựng rượu hoặc bia
+- **cờ** - bình hoặc cốc lớn, thường dùng để đựng rượu hoặc bia
 - **flammifer** - trong tiếng Latin, flammifer có nghĩa là "bốc lửa", nhưng cách sử dụng Tolkien có thể có nghĩa là gợi ý "người mang lửa", ám chỉ đến Silmaril rực cháy do Eärendil mang lại.
 - **sườn** - phía lộ ra của một đội quân đang tấn công hoặc hành quân
-- **flet** - trệt, lầu, nhà (nguồn gốc của "flat" nghĩa là tầng của ngôi nhà, căn hộ)
+- **flet** - trệt, lầu, nhà (gốc của "flat" nghĩa là tầng của ngôi nhà, căn hộ)
 - **flittermice** - [dơi](../B/Bats.md)
 - **flotsam** - đống đổ nát trôi nổi; các vật trôi nổi và jetsam bị biển cuốn trôi hoặc lũ lụt (cũng được dùng theo nghĩa bóng)
 - **bối rối** - hoang mang, bối rối
@@ -271,7 +271,7 @@ Trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), có rất
 
 ## H {#H}
 
-- **habergeon** - áo khoác thư không tay, ngắn hơn áo hauberk
+- **habergeon** - áo khoác thư không có tay áo, ngắn hơn áo hauberk
 - **hale** - thân hình cường tráng, cường tráng
 - **hame** - giấu, lột da
 - **treo** - để thức ăn, đặc biệt là thịt thú săn, ở ngoài trời cho đến khi nó trở nên "cao" hoặc mềm
@@ -297,7 +297,7 @@ Trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), có rất
 - **houseleek** - một loại cây thịt mọc trên tường và mái nhà
 - **hue** - hình thức hoặc hình dạng
 - **hummock** - một ngọn đồi hoặc gò nhỏ (trong The Lord of the Rings, "hummock" được dùng một cách ẩn dụ để mô tả hình dạng được tạo ra bởi [palantír](../P/Palantír.md) bên dưới áo choàng của Gandalf)
-- **bữa tiệc trăm cân** - cách chơi chữ trong mô tả của Tolkien về sinh nhật lần thứ 112 của Bilbo là một "Bữa tiệc trăm cân" dựa trên thực tế là ở Anh, một tạ một trăm cân là 112 pound.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- **bữa tiệc trăm cân** - cách chơi chữ trong mô tả của Tolkien về sinh nhật lần thứ 112 của Bilbo là "Bữa tiệc trăm cân" dựa trên thực tế là ở Anh, một tạ một trăm cân là 112 pound.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - **trăng thợ săn** - trăng tròn từ giữa đến cuối tháng 10
 - **hythe** - một bến cảng nhỏ hoặc nơi trú ẩn, đặc biệt là trên sông, "nơi thấp trên bờ sông để thuyền cập bến"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
@@ -395,7 +395,7 @@ Trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), có rất
 - **hoặc chưa** - rõ ràng có nghĩa là "đã rồi",
 - **người chăn nuôi ngựa** - người giữ chuồng ngựa
 - **otter-fell** - da rái cá
-- **ousel** blackbird, 43 (bây giờ được đánh vần là ouzel, trong Ring-ouzel và các tên chim khác).
+- **ousel** blackbird, 43 (bây giờ được đánh vần là ouzel, trong Nhẫn-ouzel và các tên chim khác).
 - **đánh đuổi** - chiếm hữu đất đai, tài sản, quyền sở hữu, v.v. của người khác.
 - **cũ** - kiệt sức
 - **hống hách** - thất bại bởi sức nặng của quân số
@@ -421,7 +421,7 @@ Trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), có rất
 - **plenilune** - thời điểm trăng tròn (xem *[Letters](../T/The_Letters_of_J.R.R._Tolkien.md)* trang 310).
 - **portage** - vận chuyển thuyền trên đất liền
 - **điềm báo** - điềm báo, dấu hiệu
-- **phía sau** - lối vào phía sau hoặc bên hông
+- **phía sau** - lối vào phía sau hoặc bên cạnh
 - **chích** - (thúc ngựa), phi nhanh. [Oromë](../O/Oromë.md) những vết chích trên đồng bằng lặp lại dòng đầu tiên của The Faerie Queene, Một hiệp sĩ hiền lành đang chích trên đồng bằng.
 - **prink** - để đánh bóng
 - **sâu sắc** - sâu sắc
@@ -475,11 +475,11 @@ Trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), có rất
 - **share** - share=ploughshare, nhưng ở đây được sử dụng để chỉ lưỡi hái.
 - **bó** - bó hoặc cụm thân
 - **bãi cạn** - một phần đặc biệt nông của đáy sông hoặc đáy biển
-- **shore** - cắt, xé (thì quá khứ cũ của "cắt")
+- **shore** - lát, xé (thì quá khứ cũ của "cắt")
 - **tránh xa** - từ chối
 - **sigaldry** - ma thuật, tạo ra rune
 - **chị-con** - cháu trai
-- **những đòn tạ** thổi như một chiếc xe trượt, một chiếc búa to nặng
+- **sledge-thổi** thổi như một chiếc xe trượt, một chiếc búa to nặng
 - **khe** - dấu vết của một con vật<sup id="cite_ref-LT2_1-9" class="reference"><a href="#cite_note-LT2-1">[1]</a></sup>
 - **slowcoach** - người di chuyển chậm hoặc thường xuyên đến muộn
 - **kẻ lười biếng** - người chậm chạp hoặc lười biếng
@@ -491,7 +491,7 @@ Trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), có rất
 - **xuất kích** - một cuộc tấn công do lực lượng bị bao vây phát động
 - **spinney** - nhóm cây, hoặc nhóm gỗ nhỏ
 - **sprent** - phân từ quá khứ của động từ bị mất sprenge "rắc, rải"
-- **Vòng lò xo** - một điệu nhảy sôi động của Shire Hobbit
+- **Vòng lò xo** - điệu nhảy sôi động của Shire Hobbit
 - **[sprite](../S/Sprites.md)** - linh hồn
 - **trụ** - địa điểm, vị trí
 - **thân** - chặn, giữ lại
@@ -598,7 +598,7 @@ Trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), có rất
 - **vì thế** - vì lý do gì (hoặc lý do nào)
 - **wherry** - một chiếc thuyền chèo dài, nhẹ chủ yếu dùng để chở hành khách
 - **whe** - mài sắc
-- **whickering** - Động từ whicker có nghĩa là cười hoặc cười khúc khích, hoặc ngựa rên rỉ, nhưng O.E.D. trích dẫn một dòng từ Masefield *những ngọn cỏ trên tường rít lên trong gió* và Phần bổ sung năm 1920 của Từ điển đưa ra ý nghĩa "tạo ra âm thanh chói tai", với một trích dẫn duy nhất trong đó từ này được sử dụng như một tiếng sét "vượt qua bầu trời". Trong phiên bản năm 1962 của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Man_in_the_Moon&amp;action=edit&amp;redlink=1" title="The Man in the Moon (page does not exist)">Người đàn ông trong Mặt Trăng</a></i> từ nhấp nháy xuất hiện trong câu này.
+- **whickering** - Động từ whicker có nghĩa là cười hoặc cười khúc khích, hoặc ngựa rên rỉ, nhưng O.E.D. trích dẫn một dòng từ Masefield *những ngọn cỏ trên tường rít lên trong gió* và Phần bổ sung năm 1920 của Từ điển đưa ra ý nghĩa "tạo ra âm thanh chói tai", với một trích dẫn duy nhất trong đó từ này được sử dụng như một tiếng sét "vượt qua bầu trời". Trong phiên bản năm 1962 của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Man_in_the_Moon&amp;action=edit&amp;redlink=1" title="The Man in the Moon (page does not exist)"> Người đàn ông trong Mặt Trăng</a></i> từ nhấp nháy xuất hiện trong câu này.
 - **bạch gai** - táo gai
 - **ở đâu** - đến nơi nào
 - **hoang mang** - bối rối, hoang mang

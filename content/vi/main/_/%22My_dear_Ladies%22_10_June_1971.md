@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter 322a"
 ---
 
-Chuyển hướng tới [Thư 322a](../L/Letter_322a.md).
+Chuyển hướng đến [Thư 322a](../L/Letter_322a.md).

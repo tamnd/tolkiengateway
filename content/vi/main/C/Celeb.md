@@ -37,7 +37,7 @@ Các dạng khác của từ này gồm Noldorin *celebren* ("bằng bạc"<sup 
 - <i><a href="Celebrían.md" title="Celebrían"><b>Celeb</b>rian</a></i>
 - <i><a href="Celebrimbor.md#Etymology" title="Celebrimbor"><b>Celebrim</b>bor</a></i>
 - <i><a class="mw-redirect" href="Celebrindal.md#Etymology" title="Celebrindal"><b>Celeb</b>rindal</a></i>
-- <i><a href="Celebrant.md#Etymology" title="Celebrant"><b>Celeb</b>rant</a></i>
+- <i><a href="Celebrant.md#Etymology" title="Celebrant"><b>Người nổi tiếng</b>rant</a></i>
 - <i><a href="Celebros.md" title="Celebros"><b>Celeb</b>ros</a></i>
 
 ## Xem thêm {#See_also}

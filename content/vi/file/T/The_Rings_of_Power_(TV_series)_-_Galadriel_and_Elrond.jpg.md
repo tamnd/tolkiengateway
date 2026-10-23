@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Elrond](../../main/E/Elrond.md) và [Galadriel](../../main/G/Galadriel.md) trong dòng sản phẩm [The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) của Amazon.
+[Elrond](../../main/E/Elrond.md) và [Galadriel](../../main/G/Galadriel.md) trong loạt [The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) của Amazon.
 
 <br>
 

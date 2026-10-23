@@ -49,7 +49,7 @@ infobox:
 - **10** TIN TỪ TRUNG ĐỊA
     - Dan Madsen báo cáo về chuyến thăm The Lord of the Rings lấy bối cảnh ở New Zealand trong quá trình quay lại Two Towers cuối cùng... Nghệ thuật của Đoàn Hộ Nhẫn mang đến cho người hâm mộ cái nhìn chi tiết về quá trình tạo ra The Lord of the Rings đạo cụ, trang phục và hơn thế nữa!
 - **16** NHỮNG ANH HÙNG VUI VẺ
-    - Bắt đầu với số này, chúng tôi giới thiệu với bạn hàng nghìn cá nhân đã đóng những vai trò quan trọng nhưng thường ẩn danh trong việc đưa The Lord of the Rings đến với điện ảnh. Số này: Đạo cụ Nick Weir.
+    - Bắt đầu với số này, chúng tôi giới thiệu với bạn hàng nghìn cá nhân đã đóng những vai trò quan trọng nhưng thường ẩn danh trong việc đưa The Lord of the Rings đến với điện ảnh. Số này: Đạo cụ Chủ nhân Nick Weir.
 - **18** CẬP NHẬT VỚI PETER JACKSON
     - Đạo diễn nói chuyện với Dan Madsen về tin tức The Lord of the Rings mới nhất, cùng với cách anh ấy xoay sở để sống sót qua lịch trình khắc nghiệt của mình!
 - **70** TẬP TRUNG CỦA QUẠT

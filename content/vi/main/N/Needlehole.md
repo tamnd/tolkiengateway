@@ -41,7 +41,7 @@ Needlehole cũng là tên một ngôi làng ở <a class="extiw" href="http://en
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Needlehole.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/dd/The_Lord_of_the_Rings_Online_-_Needlehole.jpg/300px-The_Lord_of_the_Rings_Online_-_Needlehole.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/dd/The_Lord_of_the_Rings_Online_-_Needlehole.jpg/450px-The_Lord_of_the_Rings_Online_-_Needlehole.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/dd/The_Lord_of_the_Rings_Online_-_Needlehole.jpg/600px-The_Lord_of_the_Rings_Online_-_Needlehole.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Needlehole in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Needlehole lies directly to the north of the <a href="../R/Rushock_Bog.md" title="Rushock Bog">Rushock Bog</a>. Its hobbit inhabitants are the ones most used to seeing dwarves in the Shire, as Needlehole lies directly on the road leadin to <a class="mw-redirect" href="../T/Thorin&#39;s_Halls.md" title="Thorin&#39;s Halls">Thorin&#39;s Halls</a> in <a class="mw-redirect" href="../E/Ered_Luin.md" title="Ered Luin">Ered Luin</a>.</dd></dl>
 

@@ -170,7 +170,7 @@ Trong ý tưởng ban đầu về *[The Hobbit](../T/The_Hobbit.md)*, [J.R.R. To
 
 <dl><dd>Bard is played by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Williams&amp;action=edit&amp;redlink=1" title="Peter Williams (page does not exist)">Peter Williams</a>.</dd></dl>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (1977 film)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>Bard&#39;s voice is provided by <a href="../J/John_Stephenson.md" title="John Stephenson">John Stephenson</a>. Thorin and co. meet him upon their arrival in Lake-town. Although Bard is chosen as king after slaying the dragon, there is no mention of him being of the line of Girion. He is also made king prior to the Battle of Five Armies.</dd></dl>
 

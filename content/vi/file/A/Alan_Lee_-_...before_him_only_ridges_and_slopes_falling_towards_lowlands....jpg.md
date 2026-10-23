@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"...trước \[\[Bilbo Baggins\|him\] chỉ có những rặng núi và sườn dốc đổ về vùng đất thấp..." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"...trước \[\[Bilbo Baggins\|him\] chỉ có những rặng núi và sườn dốc đổ về vùng đất thấp..." bởi [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

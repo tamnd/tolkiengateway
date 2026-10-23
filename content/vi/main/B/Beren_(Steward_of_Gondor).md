@@ -69,7 +69,7 @@ infobox:
 
 Beren kế vị cha [Egalmoth](<../E/Egalmoth_(Steward_of_Gondor).md>) khi ông qua đời vào năm [T.A.](../T/Third_Age.md) [2743](../T/Third_Age_2743.md).<sup id="cite_ref-South_2-1" class="reference"><a href="#cite_note-South-2">[2]</a></sup>
 
-Beren đã dành phần lớn thời gian cai trị của mình để chiến đấu với [Hải tặc Umbar](../C/Corsairs_of_Umbar.md) vì [các bờ biển](../O/Outlands.md) đã bị tấn công bởi ba hạm đội lớn từ [Umbar](../U/Umbar.md) và từ [Harad](../H/Harad.md) cho đến cửa [Isen](../I/Isen.md). Trong [Mùa Đông Dài](../L/Long_Winter.md) [T.A.](../T/Third_Age.md) [2758](../T/Third_Age_2758.md) - [2759](../T/Third_Age_2759.md), [Rohan](../R/Rohan.md) bị tấn công từ [Dunlendings](../D/Dunlendings.md), nhưng vì cả hai quốc gia đều bị tấn công nên không thể giúp đỡ lẫn nhau. Trước mùa xuân, con trai ông [Beregond](<Beregond_(Steward_of_Gondor).md>) đã chiến thắng quân xâm lược và đã gửi viện trợ cho Rohan và hoàn thành [Lời thề của Eorl](../O/Oath_of_Eorl.md).
+Beren đã dành phần lớn thời gian cai trị của mình để chiến đấu với [Hải tặc Umbar](../C/Corsairs_of_Umbar.md) vì [các bờ biển](../O/Outlands.md) đã bị tấn công bởi ba hạm đội lớn từ [Umbar](../U/Umbar.md) và từ [Harad](../H/Harad.md) cho đến cửa [Isen](../I/Isen.md). Trong [Mùa Đông Dài](../L/Long_Winter.md) của [T.A.](../T/Third_Age.md) [2758](../T/Third_Age_2758.md) - [2759](../T/Third_Age_2759.md), [Rohan](../R/Rohan.md) bị tấn công từ [Dunlending](../D/Dunlendings.md), nhưng vì cả hai quốc gia đều bị tấn công nên không thể giúp đỡ lẫn nhau. Trước mùa xuân, con trai ông [Beregond](<Beregond_(Steward_of_Gondor).md>) đã chiến thắng quân xâm lược và đã gửi viện trợ cho Rohan và hoàn thành [Lời thề của Eorl](../O/Oath_of_Eorl.md).
 
 Sau chiến tranh, [Saruman](../S/Saruman.md) bất ngờ xuất hiện và xin phép về ở [Isengard](../I/Isengard.md), đồng thời Beren vui vẻ trao [Pháp sư](../W/Wizard.md) chiếc [chìa khóa của Orthanc](../K/Key_of_Orthanc.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
@@ -99,7 +99,7 @@ Beregond theo sau Beren khi ông qua đời vào [2763](../T/Third_Age_2763.md).
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>A tapestry depicting Saruman and Beren is found in <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a>.</dd></dl>
 

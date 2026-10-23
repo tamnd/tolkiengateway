@@ -46,8 +46,8 @@ infobox:
 - Tin tức
     - Lệnh cấm xuất bản lậu *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (của Jessica Kemball-Cook)
     - Bệnh sức khỏe [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) (từ một bài *Times*)
-    - Sản xuất [bản chuyển thể *The Hobbit*](<../T/The_Hobbit_(1977_film).md>) của Rankin và Bass (của Jim Allan)
-    - Kêu gọi tình nguyện viên tham gia bài bình luận ngôn ngữ Tolkien của Hiệp hội Ngôn ngữ học Huyền thoại (của Jim Allan)
+    - Sản xuất [bản chuyển thể *The Hobbit*](<../T/The_Hobbit_(1977_film).md>) của Rankin và Bass (bởi Jim Allan)
+    - Kêu gọi tình nguyện viên tham gia bình luận ngôn ngữ Tolkien của Hiệp hội Ngôn ngữ học Thần thoại (bởi Jim Allan)
 - "Howard Rosenblum - đại diện thành viên - đưa ra thông báo mang tính đảng phái"
 - "John Martin, đại diện cho chính mình, đưa ra đề xuất, em yêu"
 - "*[Mallorn](<../M/Mallorn_(journal).md>)* - hoặc một ngày trong cái chết của một tạp chí văn học"
@@ -60,7 +60,7 @@ infobox:
     - "Sách mượn" của Peter Herring
     - *[J.R.R. Tolkien (Writers for the 70's)](<../J/J.R.R._Tolkien_(Writers_for_the_70's).md>)* của [Robley Evans](../R/Robley_Evans.md) (được đánh giá bởi Jim Allan)
     - *The Wolves of Willoughby Chase* / *Black Hearts in Battersea* / *Nightbirds on Nantucket* của Joan Aiken (được đánh giá bởi Pat McIntosh)
-- "Tạp chí hiện tại"
+- "Tạp chí hiện hành"
 - "Thư viện" (thông báo của thư viện Hội Tolkien)
 - Thành viên mới và thay đổi địa chỉ
 - "Tin nhắn chia tay, lời từ biệt cam chịu và tối hậu thư"

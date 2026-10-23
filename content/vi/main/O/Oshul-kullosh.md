@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Öshül-küllösh"
 ---
 
-Chuyển hướng đến [Öshül-küllösh](../_/Öshül-küllösh.md).
+Chuyển hướng tới [Öshül-küllösh](../_/Öshül-küllösh.md).

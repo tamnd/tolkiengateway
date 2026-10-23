@@ -38,7 +38,7 @@ Ghi nhận lòng biết ơn của Michael đối với anh như một người c
 </p>
 </blockquote>
 
-Tolkien thừa nhận mức độ nghiêm trọng của chiến tranh, so sánh nó với kinh nghiệm của anh trong [Chiến tranh thế giới thứ nhất](../W/World_War_I.md), khiến anh phải xa gia đình trong thời gian dài, nhưng sau này đã giúp anh thành công trong việc "đối phó với đủ loại từ học sinh đến những nhân viên cáu kỉnh". Michael, [Christopher](../C/Christopher_Tolkien.md)và [John](../J/John_Tolkien.md) đều có "sự can đảm và lòng dũng cảm đáng kể" mà họ có được từ mẹ của mình, trong khi Tolkien chỉ có một trái tim nhân hậu và đức tin của mình.
+Tolkien thừa nhận mức độ nghiêm trọng của chiến tranh, so sánh nó với kinh nghiệm của anh trong [Chiến tranh thế giới thứ nhất](../W/World_War_I.md), khiến anh phải xa gia đình trong thời gian dài, nhưng sau này đã giúp anh thành công trong việc "đối phó với đủ loại từ học sinh đến những nhân viên cáu kỉnh". Michael, [Christopher](../C/Christopher_Tolkien.md)và [John](../J/John_Tolkien.md) đều có "một phần lòng dũng cảm và lòng dũng cảm kha khá" mà họ nợ mẹ, trong khi Tolkien chỉ đơn thuần có một trái tim nhân hậu và một đức tin.
 
 <br>
 

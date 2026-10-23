@@ -70,7 +70,7 @@ Sự kiện xảy ra vào ngày 12 tháng 10
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Rayner Unwin](<../L/Letter_to_Rayner_Unwin_(12_October_1972).md>).
 - **[1979](1979.md)** - Tập *[Jackanory](../J/Jackanory.md)* "Sân khấu cuối cùng" được phát sóng trên kênh [BBC](../B/BBC.md).
 - **[2004](2004.md)** - [The Lord of the Rings Bản giao hưởng](../T/The_Lord_of_the_Rings_Symphony.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Milwaukee" title="wikipedia:Milwaukee">Milwaukee</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Wisconsin" title="wikipedia:Wisconsin">Wisconsin</a>.
-- **[2007](2007.md)** - [Ring\*Con 2007](../R/Ring%252ACon_2007.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Fulda" title="wikipedia:Fulda">Fulda</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2007](2007.md)** - [Nhẫn\*Con 2007](../R/Ring%252ACon_2007.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Fulda" title="wikipedia:Fulda">Fulda</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 
 ## Trong Arda {#In_Arda}
 

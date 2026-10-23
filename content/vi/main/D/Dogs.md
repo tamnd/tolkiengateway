@@ -47,7 +47,7 @@ Trong [Gnomish](../G/Gnomish.md), dạng sơ kỳ của Noldorin, “chó” cũ
 
 Ở cuối cảnh [The Account of Isildur](../T/The_Account_of_Isildur.md), người ta thấy một con chó sủa rồi lùi vào một [hobbit-hole](../H/Hobbit-hole.md) khi một [Black Rider](../B/Black_Rider.md) tiến đến.
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Dogs are found throughout Middle-earth, especially in the Shire. Lore-masters can also have a non-combat dog pet.</dd></dl>
 

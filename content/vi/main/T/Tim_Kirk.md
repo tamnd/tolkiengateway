@@ -24,7 +24,7 @@ images:
 
 **Tim Kirk** là một nghệ sĩ người Mỹ, người đã minh họa nhiều cảnh khác nhau trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Những bức tranh minh họa của Kirk được Tolkien người hâm mộ biết đến khi chúng xuất hiện trên các tạp chí fanzin đầu tiên của Mỹ. Anh đã hoàn thành một loạt 26 bức tranh về *[The Lord of the Rings](The_Lord_of_the_Rings.md)* để lấy bằng Thạc sĩ về Minh họa, một số bức trong số đó đã được xuất bản bởi Ballantine Books trong *[The J.R.R. Tolkien Calendar 1975](The_J.R.R._Tolkien_Calendar_1975.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Những bức tranh minh họa của Kirk được Tolkien người hâm mộ biết đến khi chúng xuất hiện trên các tạp chí fanzin đầu tiên của Mỹ. Anh đã hoàn thành một loạt 26 bức tranh về *[The Lord of the Rings](The_Lord_of_the_Rings.md)* để lấy Bằng Minh họa Chủ nhân, một số bức trong số đó đã được xuất bản bởi Ballantine Books ở *[The J.R.R. Tolkien Calendar 1975](The_J.R.R._Tolkien_Calendar_1975.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

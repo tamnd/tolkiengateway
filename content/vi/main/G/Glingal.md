@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Glingal and Belthil"
 ---
 
-Chuyển hướng đến [Glingal và Belthil](Glingal_and_Belthil.md).
+Chuyển hướng tới [Glingal và Belthil](Glingal_and_Belthil.md).

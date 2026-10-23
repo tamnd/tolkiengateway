@@ -97,7 +97,7 @@ Họ nổi tiếng là những người làm bánh tài giỏi, đặc biệt da
 
 <dl><dd>Beorn tells <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a> that in the past Azog hunted him and his people for sport and that, as a result, few of his kind are left. It is one of his prime motivations to help them in <a href="../Q/Quest_of_Erebor.md" title="Quest of Erebor">their Quest</a>.</dd></dl>
 
-**2014: [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md):**
+**2014: [The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md):**
 
 <dl><dd>The ancestors of the Beornings were taught the art of <a href="../S/Skin-changers.md" title="Skin-changers">skin-changing</a> as a gift by <a href="../R/Radagast.md" title="Radagast">Radagast</a> the Brown, &#34;master of shapes and hues&#34;. Evil men jealous of this gift captured a skin-changer and tortured him until he gave the secret away. Hearing of this, Radagast grieved and changed the gift so it could no longer be taught, only passed down to progeny. But the two new <a class="mw-redirect" href="../S/Skin-changer.md" title="Skin-changer">Skin-changer</a> tribes - &#34;Gauredain&#34;, men of the wolf, and &#34;Ungoledain&#34;, men of the spider, - persisted and remained the most bitter enemies of the Beornings, even moreso than the <a class="mw-redirect" href="../G/Goblins.md" title="Goblins">goblins</a>.</dd></dl>
 

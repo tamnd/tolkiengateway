@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Carl (disambiguation)"
 ---
 
-Chuyển hướng đến [Carl (định hướng)](<Carl_(disambiguation).md>).
+Chuyển hướng tới [Carl (định hướng)](<Carl_(disambiguation).md>).

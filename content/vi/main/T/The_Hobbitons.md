@@ -36,8 +36,8 @@ infobox:
 
 1. "[Bài hát dạo chơi](../A/A_Walking_Song.md) (Trên lò sưởi)"
 2. "[Bilbo Bài hát (Bên ngọn lửa)](../I/I_Sit_beside_the_Fire_and_Think.md)"
-3. "[Người đàn ông trong Mặt Trăng thức quá muộn](The_Man_in_the_Moon_Stayed_Up_Too_Late.md)"
-4. "[Người đàn ông trong Mặt Trăng Xuống quá sớm](The_Man_in_the_Moon_Came_Down_Too_Soon.md)"
+3. "[Người Người đàn ông trong Mặt Trăng thức quá muộn](The_Man_in_the_Moon_Stayed_Up_Too_Late.md)"
+4. "[ Người đàn ông trong Mặt Trăng Đã ngừng hoạt động quá sớm](The_Man_in_the_Moon_Came_Down_Too_Soon.md)"
 5. "[Quỷ đá](The_Stone_Troll.md)"
 6. "[Gil Galad](The_Fall_of_Gil-galad.md)"
 7. "[Bài hát dạo phố xưa (The Road Goes Ever On)](<The_Road_Goes_Ever_On_(song).md>)"

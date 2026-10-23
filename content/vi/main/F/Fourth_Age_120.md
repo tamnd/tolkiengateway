@@ -20,9 +20,9 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm này bao gồm:
 
-## March {#March}
+## Tháng 3 {#March}
 
-- **1** - Death of King [Elessar](../A/Aragorn.md) of the [Reunited Kingdom](../R/Reunited_Kingdom.md) of [Gondor](../G/Gondor.md) and [Arnor](../A/Arnor.md). [Eldarion](../E/Eldarion.md), son of Elessar and [Arwen](../A/Arwen.md), becomes King.<sup id="cite_ref-Later_1-0" class="reference"><a href="#cite_note-Later-1">[1]</a></sup>
+- **1** - Cái chết của Vua [Elessar](../A/Aragorn.md) của [Vương quốc Thống nhất](../R/Reunited_Kingdom.md) của [Gondor](../G/Gondor.md) và [Arnor](../A/Arnor.md). [Eldarion](../E/Eldarion.md), con trai của Elessar và [Arwen](../A/Arwen.md), trở thành Vua.<sup id="cite_ref-Later_1-0" class="reference"><a href="#cite_note-Later-1">[1]</a></sup>
 
 ## Về sau {#Later}
 

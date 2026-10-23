@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bands"
 ---
 
-Chuyển hướng đến [Dải](../B/Bands.md).
+Chuyển hướng tới [Dải](../B/Bands.md).

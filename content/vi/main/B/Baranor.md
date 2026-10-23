@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Baranor (disambiguation)"
 ---
 
-Chuyển hướng tới [Baranor (định hướng)](<Baranor_(disambiguation).md>).
+Chuyển hướng đến [Baranor (định hướng)](<Baranor_(disambiguation).md>).

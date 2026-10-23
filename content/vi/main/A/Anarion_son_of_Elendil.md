@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anárion"
 ---
 
-Chuyển hướng tới [Anárion](Anárion.md).
+Chuyển hướng đến [Anárion](Anárion.md).

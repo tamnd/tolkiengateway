@@ -16,7 +16,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-*nia* là tặng cách của đại từ nhân xưng <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ni&amp;action=edit&amp;redlink=1" title="Ni (page does not exist)">ni</a></i> "I".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Từ [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NI&amp;action=edit&amp;redlink=1" title="NI (page does not exist)">NI</a> <span></span>
+*nia* là tặng cách của đại từ nhân xưng <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ni&amp;action=edit&amp;redlink=1" title="Ni (page does not exist)">ni</a></i> "I".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Từ [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NI&amp;action=edit&amp;redlink=1" title="NI (page does not exist)">NI</a> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

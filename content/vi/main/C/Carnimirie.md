@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Carnimírië"
 ---
 
-Chuyển hướng tới [Carnimírië](Carnimírië.md).
+Chuyển hướng đến [Carnimírië](Carnimírië.md).

@@ -14,4 +14,4 @@ sort_keys:
   "Images by artist": "Ellis, Miriam"
 ---
 
-Thể loại này liệt kê tất cả <b>hình ảnh của <a class="external text" href="https://miriamellis.com" rel="noreferrer noopener" target="_blank">Miriam Ellis</a></b>.
+Danh mục này liệt kê tất cả <b>hình ảnh của <a class="external text" href="https://miriamellis.com" rel="noreferrer noopener" target="_blank">Miriam Ellis</a></b>.

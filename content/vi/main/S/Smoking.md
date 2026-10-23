@@ -41,7 +41,7 @@ images:
 
 Những người từng gặp Tolkien nhận thấy rằng ông hầu như luôn cầm tẩu thuốc trong tay hoặc miệng, thường khiến ông khó hiểu lời nói.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Trong [cuộc phỏng vấn năm 1966](../T/The_Man_Who_Understands_Hobbits.md), Tolkien nói: "Mỗi sáng thức dậy, tôi nghĩ: 'Tốt, thêm 24 giờ hút thuốc nữa'".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Một [hóa đơn xì gà được bán đấu giá](<../C/Cigar_bill_(3_March_1972).md>) từ [1972](../_/1972.md) đầu cho thấy Tolkien được ưa chuộng *Capstan Medium Navy Cut*.
+Một [hóa đơn xì gà được bán đấu giá](<../C/Cigar_bill_(3_March_1972).md>) từ [1972](../_/1972.md) đầu cho thấy rằng Tolkien được ưa chuộng *Capstan Medium Navy Cut*.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

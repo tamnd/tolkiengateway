@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Greater Harad"
 ---
 
-Chuyển hướng tới [Lớn hơn Harad](../G/Greater_Harad.md).
+Chuyển hướng đến [Lớn hơn Harad](../G/Greater_Harad.md).

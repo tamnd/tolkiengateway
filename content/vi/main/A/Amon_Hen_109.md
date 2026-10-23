@@ -64,7 +64,7 @@ infobox:
 - Thư
 - Phía sau cánh cửa kính
     - Bởi: Debi Haigh-Hutchinson
-- Truyện dân ca
+- Truyện dân gian
 - Toán học
     - Bởi: Gwyneth Morgan
 - Máy ép nhỏ

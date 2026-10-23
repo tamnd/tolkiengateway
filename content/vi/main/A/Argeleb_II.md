@@ -93,7 +93,7 @@ Có khả năng Argeleb II được đặt tên theo cụ của mình, [Argeleb 
 
 ## Hình tượng trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a> — <a href="Arnor%253A_The_People.md" title="Arnor: The People">Arnor: The People</a></i>:</b>
+<b>1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a> — <a href="Arnor%253A_The_People.md" title="Arnor: The People">Arnor: Con người</a></i>:</b>
 
 <dl><dd>Argeleb II was a largely military ruler, mostly wearing his signature black armour. By <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1640.md" title="Third Age 1640">1640</a>, with the wars against <a href="Angmar.md" title="Angmar">Angmar</a> at a stalemate, he was tired of war and instead sought to patronize the arts and tend to the gardens of <a class="mw-redirect" href="../F/Fornost.md" title="Fornost">Fornost</a>, which the nobles saw as a sign of weakness. While the long lives of the royal family normally meant kings could draw support from a large extended family, the <a href="../G/Great_Plague.md" title="Great Plague">Great Plague</a> had taken the relatives he had relied on.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 

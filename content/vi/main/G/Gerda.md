@@ -45,7 +45,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Gerda và anh trai cô [Gamli](Gamli.md) được sinh ra bởi Durin IV và Disa sau hai mươi năm kể từ lần [Elrond](../E/Elrond.md) ghé thăm lần cuối [Khazad-dûm](../K/Khazad-dûm.md). Gerda và Gamli chơi với nhau khi Elrond đến thăm phòng của Durin. Họ đội những chiếc đầu đá lớn mà trước đó cha họ đã dặn họ không được đội và chạy quanh phòng ăn. Durin và Disa dẫn họ trở lại giường.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong khi [Disa](../D/Disa.md) nói chuyện với Elrond, Gamli và Gerda đã hát và đấm nhau. Khi Disa bảo họ dừng lại, họ nói rằng họ đang chơi 'Trò chơi gõ cửa'. Disa, một lần nữa, bảo họ dừng lại. Sau đó, Gerda bắt đầu ký lại và Disa kêu lên 'Gerda, tôi cảnh cáo bạn!'<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Gerda và anh trai cô [Gamli](Gamli.md) được sinh ra bởi Durin IV và Disa trong hai mươi năm kể từ lần [Elrond](../E/Elrond.md) ghé thăm lần cuối [Khazad-dûm](../K/Khazad-dûm.md). Gerda và Gamli chơi với nhau khi Elrond đến thăm phòng của Durin. Họ đội những chiếc đầu đá lớn mà trước đó cha họ đã dặn họ không được đội và chạy quanh phòng ăn. Durin và Disa dẫn họ trở lại giường.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong khi [Disa](../D/Disa.md) nói chuyện với Elrond, Gamli và Gerda đã hát và đấm nhau. Khi Disa bảo họ dừng lại, họ nói rằng họ đang chơi 'Trò chơi gõ cửa'. Disa, một lần nữa, bảo họ dừng lại. Sau đó, Gerda bắt đầu ký lại và Disa kêu lên 'Gerda, tôi cảnh cáo bạn!'<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

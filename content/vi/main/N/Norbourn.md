@@ -38,7 +38,7 @@ Norbourn chỉ được đề cập trong [chỉ mục chi tiết](../U/Unfinish
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Originating in the mountains of <a href="../E/Evendim.md" title="Evendim">Evendim</a>, the Norbourn flows among the trees for most of its course, before eventually entering the <a href="../B/Bywater_Pool.md" title="Bywater Pool">Bywater Pool</a>.</dd></dl>
 

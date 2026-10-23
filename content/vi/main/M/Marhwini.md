@@ -90,7 +90,7 @@ David Salo gợi ý rằng *Marhwini* có nghĩa là "bạn của ngựa", nhưn
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Marhwini.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b4/The_Lord_of_the_Rings_Online_-_Marhwini.jpg/150px-The_Lord_of_the_Rings_Online_-_Marhwini.jpg" decoding="async" loading="lazy" width="150" height="273" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b4/The_Lord_of_the_Rings_Online_-_Marhwini.jpg/225px-The_Lord_of_the_Rings_Online_-_Marhwini.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b4/The_Lord_of_the_Rings_Online_-_Marhwini.jpg/300px-The_Lord_of_the_Rings_Online_-_Marhwini.jpg 2x" data-file-width="540" data-file-height="982"/></a><figcaption>Marhwini in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Marhwini appears in a flashback narrating the history of the <a href="../_/Éothéod.md" title="Éothéod">Éothéod</a>. His son is named Forthwini and grandson Forthári, both of whom die in battle to the <a href="../O/Orcs.md" title="Orcs">orcs</a>, leaving Forthári&#39;s son <a href="../F/Frumgar.md" title="Frumgar">Frumgar</a> as Marhwini&#39;s only heir.</dd></dl>
 

@@ -24,7 +24,7 @@ sort_keys:
 
 ### Biên tập viên {#Editor}
 
-- [L'Arc et le Heaume (Special Issue) 3](<../L/L'Arc_et_le_Heaume_(Special_Issue)_3.md>), Tolkiendil, 2022.
+- [L'Arc et le Heaume (Số đặc biệt) 3](<../L/L'Arc_et_le_Heaume_(Special_Issue)_3.md>), Tolkiendil, 2022.
 
 ### Bản dịch {#Translations}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kalormë"
 ---
 
-Chuyển hướng đến [Kalormë](../K/Kalormë.md).
+Chuyển hướng tới [Kalormë](../K/Kalormë.md).

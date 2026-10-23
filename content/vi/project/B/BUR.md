@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Bureaucrats"
 ---
 
-Chuyển hướng đến [Tolkien Gateway:Quan chức](Bureaucrats.md).
+Chuyển hướng tới [Tolkien Gateway:Quan chức](Bureaucrats.md).

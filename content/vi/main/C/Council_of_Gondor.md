@@ -36,7 +36,7 @@ Tuy nhiên, trong mọi vấn đề quan trọng trong nước hay đối ngoạ
 
 ## Khắc họa trong các bản chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Council consists of the Wardens and the Captains of the City. The Wardens are those of the Burg, of the Coffers, of the Green, of the <a href="../W/Warden_of_the_Houses_of_Healing.md" title="Warden of the Houses of Healing">Houses of Healing</a>, of the Houses of Lore, <a href="../W/Warden_of_the_Keys.md" title="Warden of the Keys">of the Keys</a>, of the Laws, of the Stores and of the Wells. The Captains are those of the Garrison, the Citadel, the Out-Wall, the South-Gate and of the Tidings. The Council recommences under King <a href="../A/Aragorn.md" title="Aragorn">Elessar</a> afer the end of the war.</dd></dl>
 

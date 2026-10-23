@@ -51,7 +51,7 @@ Lịch <i><b>J.R.R. Tolkien 1996</b></i> là lịch Tolkien chính thức đư�
 - Tháng 3 - "[Gandalf và Shadowfax](../../file/T/Ted_Nasmith_-_Gandalf_and_Shadowfax.jpg.md)"
 - Tháng 4 - "[Quét núi](../../file/T/Ted_Nasmith_-_Scouring_the_Mountain.jpg.md)"
 - Tháng 5 - "[Ngày thứ năm sau Weathertop](../../file/T/Ted_Nasmith_-_Fifth_Day_After_Weathertop.jpg.md)"
-- Tháng 6 - "[Tuor Đạt Thành phố Ẩn Giấu của Gondolin](../../file/T/Ted_Nasmith_-_Tuor_Reaches_the_Hidden_City_of_Gondolin.jpg.md)"
+- Tháng 6 - "[Tuor Đạt Thành Phố Ẩn Giấu của Gondolin](../../file/T/Ted_Nasmith_-_Tuor_Reaches_the_Hidden_City_of_Gondolin.jpg.md)"
 - Tháng 7 - "[Mật khẩu vào Moria](../../file/T/Ted_Nasmith_-_Password_Into_Moria.jpg.md)"
 - Tháng 8 - "[Qua đầm lầy](../../file/T/Ted_Nasmith_-_Through_the_Marshes.jpg.md)"
 - tháng Chín - "[Smith và Nữ hoàng thần tiên](../../file/T/Ted_Nasmith_-_Smith_and_the_Queen_of_Faery.jpg.md)"

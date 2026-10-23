@@ -40,7 +40,7 @@ infobox:
 
 Hob là một [Shirriff](../S/Shirriff.md) có hai lông vũ. Trước Cuộc chiến Nhẫn, anh ấy đã xem [Hay Gate](../B/Buckland_Gate.md) của [Buckland](../B/Buckland.md). Anh ấy rất quen với [Gia đình Brandybuck](../B/Brandybuck_Family~66350.md).
 
-Trong thời kỳ [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md) trị vì Shire, các Cảnh sát trưởng đã được tổ chức lại. Hob đã già và là một trong số các cảnh sát trưởng canh gác hàng rào mới ở [Cầu Brandywine](../B/Brandywine_Bridge.md) dưới sự chỉ huy của [Bill Ferny](../B/Bill_Ferny.md).
+Trong thời kỳ [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md) trị vì Shire, Cảnh sát trưởng đã được tổ chức lại. Hob đã già và là một trong số các cảnh sát trưởng canh gác hàng rào mới ở [Cầu Brandywine](../B/Brandywine_Bridge.md) dưới sự chỉ huy của [Bill Ferny](../B/Bill_Ferny.md).
 
 Khi [Frodo Baggins](../F/Frodo_Baggins.md) và [những người bạn đồng hành](../T/Travellers.md) trở về sau cuộc phiêu lưu, họ tìm thấy Hob ở cổng, người đã cấm họ vào cổng hàng rào. Sau khi họ đuổi Ferny đi, Hob đã thông báo cho họ về những thay đổi ở quê hương họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -50,7 +50,7 @@ A *hayward* là cán bộ địa phương có nhiệm vụ kiểm tra hàng rào
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Found at the <a href="../B/Buckland_Gate.md" title="Buckland Gate">Gate of Buckland</a>, Shirriff  Hob Hayward asks the player to invetigate a disturbance within the <a href="../O/Old_Forest.md" title="Old Forest">Old Forest</a>.</dd></dl>
 

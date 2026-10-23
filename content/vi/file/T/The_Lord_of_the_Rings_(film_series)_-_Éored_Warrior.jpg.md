@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Một chiến binh [Éored](../../main/_/Éored.md) trong [*The Lord of the Rings* (loạt phim)](<../../main/T/The_Lord_of_the_Rings_(film_series).md>)*. Image from* [The Lord of the Rings Trò chơi trao đổi thẻ bài](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md) *expansion* Kỵ Sĩ Đen<i></i>
+Một chiến binh [Éored](../../main/_/Éored.md) trong [*The Lord of the Rings* (loạt phim)](<../../main/T/The_Lord_of_the_Rings_(film_series).md>)*. Image from* [The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md) *expansion* Kỵ Sĩ Đen<i></i>
 
 ## Giấy phép {#Licensing}
 

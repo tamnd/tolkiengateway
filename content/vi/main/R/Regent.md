@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Regent (disambiguation)"
 ---
 
-Chuyển hướng đến [Regent (định hướng)](<Regent_(disambiguation).md>).
+Chuyển hướng tới [Regent (định hướng)](<Regent_(disambiguation).md>).

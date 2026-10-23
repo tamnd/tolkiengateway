@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[South Downs](../../main/S/South_Downs.md) khi chúng xuất hiện trong [The Lord of the Rings Trực tuyến](../../main/T/The_Lord_of_the_Rings_Online.md).
+[South Downs](../../main/S/South_Downs.md) khi chúng xuất hiện trong [The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md).
 
 ## Giấy phép {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "AR"
 ---
 
-Chuyển hướng tới [AR](AR~30509.md).
+Chuyển hướng đến [AR](AR~30509.md).

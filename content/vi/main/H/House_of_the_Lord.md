@@ -31,7 +31,7 @@ Không rõ Ngôi nhà của Chúa ra sao sau khi Morgoth rời đi.
 
 ## Xem thêm {#See_also}
 
-- [Chùa](../T/Temple.md)
+- [Đền thờ](../T/Temple.md)
 
 <span></span>
 

@@ -51,6 +51,6 @@ Những gì bạn nhận được
 
 - SÁCH QUY TẮC TRUNG ĐỊA bao gồm các quy tắc hoàn chỉnh để phát triển nhân vật, chiến đấu, phép thuật và hơn thế nữa, với một cuộc phiêu lưu giới thiệu hoàn chỉnh, The Trollshaws.
 - 56 NHÂN VẬT BÌA TẮM ĐẦY MÀU của tất cả các nhân vật có liên quan đến Cuộc phiêu lưu giới thiệu Trollshaws, với các phụ kiện dành cho nhân vật của người chơi, để sử dụng trên các tờ chơi.
-- MỘT TẤM CHƠI A2 & MỘT A3 HAI MẶT, bản đồ các khu vực của Trollshaws có bốn màu và được sử dụng khi chơi, với các hình bằng bìa cứng được cung cấp hoặc với các mô hình thu nhỏ 25 mm.
+- MỘT TẤM CHƠI A2 & MỘT A3 HAI MẶT, bản đồ các khu vực của Trollshaws có bốn màu và được sử dụng khi chơi, với các hình bằng bìa cứng được cung cấp hoặc với các mô hình thu nhỏ 25mm.
 - MỘT SÁCH BẢN ĐỒ liệt kê tất cả các khu vực liên quan đến Trollshaws cùng với một số khu vực gặp gỡ hoang dã.
 - Hai con xúc xắc hai mươi mặt để sử dụng khi chơi.

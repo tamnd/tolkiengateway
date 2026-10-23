@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Maegraith"
 ---
 
-Chuyển hướng tới [Thư gửi Maegraith](../L/Letter_to_Maegraith.md).
+Chuyển hướng đến [Thư gửi Maegraith](../L/Letter_to_Maegraith.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Atanatar (disambiguation)"
 ---
 
-Chuyển hướng đến [Atanatar (định hướng)](<Atanatar_(disambiguation).md>).
+Chuyển hướng tới [Atanatar (định hướng)](<Atanatar_(disambiguation).md>).

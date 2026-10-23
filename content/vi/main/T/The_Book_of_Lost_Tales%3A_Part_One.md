@@ -93,7 +93,7 @@ Trong câu chuyện khung của cuốn sách, một Người phàm đến thăm 
 - IV. "[Xâu chuỗi Melko](The_Chaining_of_Melko.md)" — *Melko* là tên trước đây của [Melkor](../M/Morgoth.md)
 - V. "[Sự xuất hiện của Tiên tộc và sự hình thành của Kôr](The_Coming_of_the_Elves_and_the_Making_of_Kôr.md)" — [Kôr](../K/Kôr.md) là [Tirion](Tirion.md) sau và ngọn đồi của nó [Túna](Túna.md)
 - VI. "[Vụ trộm Melko và Bóng tối Valinor](The_Theft_of_Melko_and_the_Darkening_of_Valinor.md)"
-- VII. "[Chuyến bay của Noldoli](The_Flight_of_the_Noldoli.md)" — *Noldoli* là những Tiên tộc sau này được gọi là [Noldor](../N/Noldor.md)
+- VIII. "[Chuyến bay của Noldoli](The_Flight_of_the_Noldoli.md)" — *Noldoli* là những Tiên tộc sau này được gọi là [Noldor](../N/Noldor.md)
 - VIII. "[Câu chuyện về Mặt Trời và Mặt Trăng](The_Tale_of_the_Sun_and_Moon.md)"
 - IX. "[Sự ẩn náu của Valinor](The_Hiding_of_Valinor.md)"
 - X. "[Câu chuyện của Gilfanon: Nỗi đau khổ của Noldoli và sự xuất hiện của loài người](../G/Gilfanon's_Tale%253A_The_Travail_of_the_Noldoli_and_the_Coming_of_Mankind.md)"

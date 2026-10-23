@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Fall of Arthur"
 ---
 
-Chuyển hướng đến [Sự sụp đổ của Arthur](../T/The_Fall_of_Arthur.md).
+Chuyển hướng đến [The Fall of Arthur](../T/The_Fall_of_Arthur.md).

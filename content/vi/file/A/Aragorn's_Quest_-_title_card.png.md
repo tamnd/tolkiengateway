@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Title card of *[The Lord of the Rings: Aragorn's Quest](../../main/T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*. Từ đoạn giới thiệu E3, <a class="external autonumber" href="http://www.youtube.com/watch?v=G6iNEuukLyo" rel="noreferrer noopener" target="_blank">[1]</a>
+Thẻ tiêu đề của *[The Lord of the Rings: Aragorn's Quest](../../main/T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*. Từ đoạn giới thiệu E3, <a class="external autonumber" href="http://www.youtube.com/watch?v=G6iNEuukLyo" rel="noreferrer noopener" target="_blank">[1]</a>
 
 ## Giấy phép {#Licensing}
 

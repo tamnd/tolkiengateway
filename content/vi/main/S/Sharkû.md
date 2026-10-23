@@ -23,7 +23,7 @@ images:
 
 ## Từ nguyên {#Etymology}
 
-Andreas Möhn đã gợi ý rằng *sharkû* có thể bắt nguồn từ [Mannish](../M/Mannish.md) [gốc](Sundocarme.md) ZAR giả định. Phần kết có thể được xác định bằng phần kết được thấy trong *[Tharkûn](../G/Gandalf.md#Names)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Andreas Möhn đã gợi ý rằng *sharkû* có thể bắt nguồn từ [Mannish](../M/Mannish.md) [gốc](Sundocarme.md) ZAR giả thuyết. Phần kết có thể được xác định bằng phần kết được thấy trong *[Tharkûn](../G/Gandalf.md#Names)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 ## Ghi chú {#Notes}
 

@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Olwyn từ *The Lord of the Rings: Cuộc chiến của Rohirrim*
+Olwyn từ *The Lord of the Rings: The War of the Rohirrim*
 
 ## Giấy phép {#Licensing}
 

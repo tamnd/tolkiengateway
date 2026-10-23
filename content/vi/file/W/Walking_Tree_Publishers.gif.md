@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Logo công ty của [Nhà xuất bản Cây đi bộ](../../main/W/Walking_Tree_Publishers.md).
+Logo công ty [Nhà xuất bản Cây biết đi](../../main/W/Walking_Tree_Publishers.md).
 
 ## Giấy phép {#Licensing}
 

@@ -25,7 +25,7 @@ images:
 
 ### Từ nguyên {#Etymoloy}
 
-- Gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=SED&amp;action=edit&amp;redlink=1" title="SED (page does not exist)">SED</a> ("phần còn lại")<sup id="cite_ref-PE19_1-1" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
+- Gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=SED&amp;action=edit&amp;redlink=1" title="SED (page does not exist)">SED</a> ("nghỉ ngơi")<sup id="cite_ref-PE19_1-1" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
 
 ### Có cùng nguồn gốc {#Cognates}
 

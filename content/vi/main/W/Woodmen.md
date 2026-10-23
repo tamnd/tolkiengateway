@@ -59,7 +59,7 @@ Vào thời điểm [Nhiệm vụ Erebor](../Q/Quest_of_Erebor.md) ở [T.A.](..
 
 Rõ ràng cuộc đột kích không bao giờ diễn ra, nhờ các sự kiện tiếp theo, bao gồm cả [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md) nơi Orc và Warg bị tàn phá. Sau Trận chiến, Con Người có thể đi lại mà không sợ hãi và nhiều người đã đến nhà [Beorn](../B/Beorn.md)để ăn mừng [Yule](../Y/Yule.md), và một số tập trung dưới quyền anh ta với tư cách là thủ lĩnh.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
-Vài năm sau, [Gollum](../G/Gollum.md) đi ngang qua Mirkwood để tìm kiếm [Chiếc nhẫn của mình](../O/One_Ring.md) và [người mang nó](../B/Bilbo_Baggins.md); điều này khiến Người Rừng người nói về "một [ma](../G/Ghosts.md) uống máu" khiếp sợ, thậm chí còn lẻn vào nhà để bắt cóc trẻ sơ sinh.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+Một vài năm sau, [Gollum](../G/Gollum.md) đi ngang qua Mirkwood để tìm kiếm [ Nhẫn](../O/One_Ring.md) của mình và [người mang nó](../B/Bilbo_Baggins.md); điều này khiến Người Rừng người nói về "một [ma](../G/Ghosts.md) uống máu" khiếp sợ, thậm chí còn lẻn vào nhà để bắt cóc trẻ sơ sinh.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 
 Có thể Người Rừng đã chiến đấu chống lại các lực lượng [Sauron](../S/Sauron.md) từ [Dol Guldur](../D/Dol_Guldur.md) trong Mirkwood trong [Cuộc chiến Nhẫn](War_of_the_Ring.md), bởi vì [Frodo Baggins](../F/Frodo_Baggins.md) đã nhìn thấy trên Ghế Thị Kiến trên [Amon Hen](../A/Amon_Hen.md) về một cuộc chiến giữa Tiên tộc và Con Người và các quái thú đã ngã xuống dưới các nhánh của Mirkwood<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> và một số Người Rừng đang sống ở rìa phía tây của Mirkwood phía bắc của Dol Guldur và phía đông của Gladden Fields.
 
@@ -75,7 +75,7 @@ Những người đưa tin từ Người Rừng của Mirkwood<sup id="cite_ref-
 
 <dl><dd><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> mentions at the meeting of the <a href="White_Council.md" title="White Council">White Council</a> that <a class="mw-redirect" href="../G/Greenwood_the_Great.md" title="Greenwood the Great">Greenwood the Great</a> is now called &#34;<a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a>&#34; by the Woodmen. In the writings of J.R.R. Tolkien men began to call it Mirkwood in T.A. 1050, almost 2000 years before this meeting of the White Council.</dd></dl>
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Woodmen.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f5/The_Lord_of_the_Rings_Online_-_Woodmen.jpg/300px-The_Lord_of_the_Rings_Online_-_Woodmen.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f5/The_Lord_of_the_Rings_Online_-_Woodmen.jpg/450px-The_Lord_of_the_Rings_Online_-_Woodmen.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f5/The_Lord_of_the_Rings_Online_-_Woodmen.jpg/600px-The_Lord_of_the_Rings_Online_-_Woodmen.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Woodmen in <i>The Lord of the Rings Online</i></figcaption></figure>
 

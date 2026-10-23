@@ -70,7 +70,7 @@ infobox:
 - Hãy mỉm cười
 - Truyện dân gian
 - Thư
-- Máy ép nhỏ
+- Báo chí nhỏ
     - Bởi: Anne Haward
 - Các loại của Anne
     - Bởi: Anne Haward

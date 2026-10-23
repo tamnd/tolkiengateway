@@ -54,7 +54,7 @@ infobox:
 - Các tác phẩm nghệ thuật trang trí bổ sung
     - Bởi: Susanne Stopfel
 - Thông báo
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Quảng cáo: Chuyến tham quan thảm đỏ
 - Bài thơ: *Celeborn's Song at Imladris*
@@ -66,14 +66,14 @@ infobox:
 - Tất cả Bran
     - Bởi: Ian Spittlehouse
 - Quảng cáo: Beyond Bree Lịch 2013
-- Báo cáo: [Sự trở lại của chiếc nhẫn](../T/The_Return_of_the_Ring.md)
+- Báo cáo: [Trả lại Nhẫn](../T/The_Return_of_the_Ring.md)
     - Bởi: Julie Sinclair
-- Báo cáo: [Sự trở lại của chiếc nhẫn](../T/The_Return_of_the_Ring.md)
+- Báo cáo: [Trả lại Nhẫn](../T/The_Return_of_the_Ring.md)
     - Bởi: [Bob Blackham](../R/Robert_S._Blackham.md)
-- [Sự trở lại của chiếc nhẫn](../T/The_Return_of_the_Ring.md)
+- [Trả lại Nhẫn](../T/The_Return_of_the_Ring.md)
     - Bởi: [Sally Kennett](../S/Sally_Kennett.md)
 - Phía sau cánh cửa kính
-    - ...không phải lúc này
+    - ...không phải lần này
 - Một đêm đầy sao ở Gondor
     - Bởi: Sue Bridgwater
 - Thư
@@ -92,10 +92,10 @@ infobox:
 Đoạn cắt của - Christopher
     - Bởi: Christopher Kreuzer
 - Thành viên mới
-- Ngày ghi nhật ký của bạn
+- Ngày trong Nhật ký của bạn
 - Tác phẩm nghệ thuật: *Three Rings*
     - Bởi: Jef Murray
-- Truyện dân gian
+- Truyện dân ca
 - Ủy ban
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 236</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_236.md" title="Amon Hen 236">Amon Hen 236</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 237</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 238</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_238.md" title="Amon Hen 238">Amon Hen 238</a></div></div></div>

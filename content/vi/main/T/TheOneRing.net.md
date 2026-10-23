@@ -43,7 +43,7 @@ Năm 2003 Cold Spring Press phát hành cuốn sách *The People's Guide to J.R.
 
 ### Tiệc trao giải Oscar {#Oscar_Party}
 
-Hơn 1.500 "Ringers" (người hâm mộ Chúa tể những chiếc nhẫn) từ khắp nơi trên thế giới đã đến dự Bữa tiệc Oscar TheOneRing.net tại Hollywood, CA, American Legion vào ngày 28 tháng 2 năm 2004. Sự kiện có sự tham dự của [Peter Jackson](../P/Peter_Jackson.md), [Fran Walsh](../F/Fran_Walsh.md), [Elijah Wood](../E/Elijah_Wood.md) và nhiều diễn viên và đoàn làm phim của The Lord of the Rings, một số người đã bỏ qua [New chính thức Line](../N/New_Line_Cinema.md) bữa tiệc tối hôm đó.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Hơn 1.500 "Ringers" (người hâm mộ Chúa tể những chiếc nhẫn) từ khắp nơi trên thế giới đã đến dự Tiệc trao giải Oscar TheOneRing.net tại Hollywood, CA, American Legion vào ngày 28 tháng 2 năm 2004. Sự kiện có sự tham dự của [Peter Jackson](../P/Peter_Jackson.md), [Fran Walsh](../F/Fran_Walsh.md), [Elijah Wood](../E/Elijah_Wood.md) và nhiều diễn viên và đoàn làm phim của The Lord of the Rings, một số người đã bỏ qua bữa tiệc [New Line](../N/New_Line_Cinema.md) chính thức hôm đó buổi tối.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ### Trồng cây kỷ niệm {#Commemorative_Tree_Planting}
 
@@ -51,7 +51,7 @@ Vào tháng Chín ngày 2 năm 2004, 11 cây kauri kỷ niệm đã được tr�
 
 ### Quy ước ORC và ELF {#ORC_and_ELF_Conventions}
 
-TheOneRing.net hợp tác với Creation Entertainment để giới thiệu Lễ kỷ niệm một chiếc nhẫn (ORC) vào năm 2005,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> 2006 và 2007. Hội nghị chị em của nó, Hội tụ người hâm mộ LOTR miền Đông (ELF), đã gặp nhau ở miền đông U.S. vào năm 2005 và 2006.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Những hội nghị này bao gồm các bảng và chữ ký của các thành viên trong dàn diễn viên như [Elijah Wood](../E/Elijah_Wood.md), [Sean Astin](../S/Sean_Astin.md), [Dominic Monaghan](../D/Dominic_Monaghan.md), [Billy Boyd](../B/Billy_Boyd.md) và [John Rhys-Davies](../J/John_Rhys-Davies.md).
+TheOneRing.net hợp tác với Creation Entertainment để giới thiệu Chiếc nhẫn duy nhất Lễ kỷ niệm (ORC) vào năm 2005,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> 2006 và 2007. Hội nghị chị em của nó, Hội tụ người hâm mộ LOTR miền Đông (ELF), đã gặp ở miền đông U.S. vào năm 2005 và 2006.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Những hội nghị này bao gồm các bảng và chữ ký của các thành viên trong dàn diễn viên như [Elijah Wood](../E/Elijah_Wood.md), [Sean Astin](../S/Sean_Astin.md), [Dominic Monaghan](../D/Dominic_Monaghan.md), [Billy Boyd](../B/Billy_Boyd.md) và [John Rhys-Davies](../J/John_Rhys-Davies.md).
 
 ### Chuyến đi tới Trung Địa {#Cruise_to_Middle-earth}
 

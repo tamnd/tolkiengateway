@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cái chết của [Madoc Brandybuck](../M/Madoc_Brandybuck.md).<sup id="cite_ref-Brandybuck_1-0" class="reference"><a href="#cite_note-Brandybuck-1">[1]</a></sup>
-- [Marmadoc Brandybuck](../M/Marmadoc_Brandybuck.md), con trai của Madoc và [Hanna Goldworthy](../H/Hanna_Goldworthy.md), trở thành [Bậc thầy của Buckland](../M/Master_of_Buckland.md).<sup id="cite_ref-Brandybuck_1-1" class="reference"><a href="#cite_note-Brandybuck-1">[1]</a></sup>
+- [Marmadoc Brandybuck](../M/Marmadoc_Brandybuck.md), con trai của Madoc và [Hanna Goldworthy](../H/Hanna_Goldworthy.md), trở thành [Chủ nhân của Buckland](../M/Master_of_Buckland.md).<sup id="cite_ref-Brandybuck_1-1" class="reference"><a href="#cite_note-Brandybuck-1">[1]</a></sup>
 
 <span></span>
 

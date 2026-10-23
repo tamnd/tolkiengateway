@@ -120,13 +120,13 @@ Trong các cuốn sách, tên này được cho là bản dịch từ tiếng [W
 
 <dl><dd>Bag End is the starting point.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
 <dl><dd>Two different maps of the Shire are used: in the evil campaign, and a map is available for skirmishes. In the former, Bag End and the Hill are located in the top left and can be destroyed as a bonus objective; in the latter, it does not appear.</dd></dl>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Bag_End.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2c/The_Lord_of_the_Rings_Online_-_Bag_End.jpg/250px-The_Lord_of_the_Rings_Online_-_Bag_End.jpg" decoding="async" loading="lazy" width="250" height="156" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2c/The_Lord_of_the_Rings_Online_-_Bag_End.jpg/375px-The_Lord_of_the_Rings_Online_-_Bag_End.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2c/The_Lord_of_the_Rings_Online_-_Bag_End.jpg/500px-The_Lord_of_the_Rings_Online_-_Bag_End.jpg 2x" data-file-width="1680" data-file-height="1050"/></a><figcaption>Bag End in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Bag End, including surrounding environs The Hill and the <a class="mw-redirect" href="../P/Party_Tree.md" title="Party Tree">Party Tree</a>, are featured in the Shire region. In autumn, during the <a href="../H/Harvestmath.md" title="Harvestmath">Harvestmath</a> festival, the basement of Bag End becomes the &#34;Haunted Burrow,&#34; a hobbit-style haunted house.</dd></dl>
 

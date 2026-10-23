@@ -53,7 +53,7 @@ Lịch <i><b>Tolkien 1998</b></i> là lịch Tolkien chính thức được xu�
 - Tháng 5 - "Treebeard và Ent" của Timothy Ide
 - Tháng 6 - "Gandalf và Pippin" của Luca Michelucci
 - Tháng 7 - "Bilbo Ruồi trên đôi cánh đại bàng" của Gerd Renshof và Ron Ploeg
-- Tháng 8 - "Mûmak of Harad" của [Cor Blok](../C/Cor_Blok.md)
+- Tháng 8 - "Mûmak của Harad" của [Cor Blok](../C/Cor_Blok.md)
 - tháng Chín - "Gandalf's Escape from Orthanc" của Fletcher
 - Tháng 10 - "[Gollum bị Tiên tộc](../../file/I/Inger_Edelfeldt_-_Gollum_Held_Captive_by_the_Elves.jpg.md) giam giữ" bởi [Inger Edelfeldt](../I/Inger_Edelfeldt.md)
 - Tháng 11 - "Chúa tể của Nazgûl bước vào Cổng Gondor" của Fletcher

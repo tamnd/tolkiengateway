@@ -54,7 +54,7 @@ infobox:
 
 Anh ấy bị thương khi quay cảnh [Parth Galen](../P/Parth_Galen.md) khi Sam chạy xuống sông sau [Frodo](../F/Frodo_Baggins.md) - lòng sông có một mảnh kính vỡ và bàn chân của Astin bị đâm thủng và chảy máu rất nhiều. Bất chấp chấn thương, anh ấy đã trở lại phim trường vào ngày hôm sau.
 
-Cha mẹ anh đều làm việc trong lĩnh vực điện ảnh: cha anh John Astin đã tạo ra nhân vật Gomez Addams trong bộ phim truyền hình "The Addams Family" trong khi mẹ anh, Patty Duke, đã giành được giải Oscar cho vai diễn trong "The Miracle Worker".
+Cha mẹ anh đều làm việc trong lĩnh vực điện ảnh: cha anh John Astin đã tạo ra nhân vật Gomez Addams trong bộ phim truyền hình "Gia đình Addams" trong khi mẹ anh, Patty Duke, đã giành được giải Oscar cho vai diễn trong "The Miracle Worker".
 
 ## Phim ảnh {#Filmography}
 

@@ -62,7 +62,7 @@ Nhân vật người quản lý thảo dược gần như giống nhau trong cá
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The Herb-master is named <b>Galathir</b>. According to <a href="../I/Ioreth.md" title="Ioreth">Ioreth</a>, he possesses great skill as a healer but has lost sight of his shortcomings and grown reliant on his own concoctions, which often heal one ill by replacing it with another. One Galathir&#39;s apprentices travels with the player and relays that he is a wise teacher, but his tasks are often far more daunting that he thinks them. Dspite knowing of a great collection of knowledge about the plants of <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>, Galathir forbids his apprentices from studying it, dismissing it as anecdotes of specimens not seen in his age.</dd></dl>
 

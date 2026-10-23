@@ -51,7 +51,7 @@ Khi [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) hoành hành ở Đông Nam
 
 <dl><dd>Though the &#34;set-to&#34; with the ruffians is mentioned by Butterbur, he does not give the names of the casualties.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Mat Heathertoes is an impoverished man of Bree living in Beggar&#39;s Alley with a half-starved pony. In the Skirmish instance Thievery and Mischief, the <a href="../H/Half-orcs.md" title="Half-orcs">half-orc</a> Bálak kills an unlabeled man who appears to be Mat before engaging the player in combat.</dd></dl>
 

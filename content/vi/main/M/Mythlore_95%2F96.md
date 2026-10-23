@@ -49,7 +49,7 @@ infobox:
 - Wriglesworth, Tchad. "'Người tạo ra thần thoại, Người tạo ra kỳ lân': C.S. Lewis và việc định hình lại tư tưởng thời Trung cổ."
 - Hall, Mark F. "Lý thuyết và thực hành thơ ám chỉ trong tác phẩm J.R.R. Tolkien."
 - Bossert, A. R. "'Chắc chắn bạn không tin': Tolkien và Pius X: Chủ nghĩa phản hiện đại trong Trung Địa."
-- Livingston, Michael. "Vụ sốc vỏ sò Hobbit: Thế chiến thứ nhất và Chấn thương chiếc nhẫn của Tolkien."
+- Livingston, Michael. "Vụ sốc Hobbit: Chiến tranh thế giới thứ nhất và chấn thương Nhẫn của Tolkien."
 - Carlson, David J. "Lãnh chúa Dunsany và cuộc đại chiến: *Don Rodriguez* và sự tái sinh của lãng mạn."
 - Hooper, Teresa. "Chơi theo luật: 'Trò chơi tuyệt vời' của Kipling so với 'Vũ điệu vĩ đại' trong Bộ ba không gian của C.S. Lewis."
 - Amison, Anne. "Một vị khách bất ngờ."

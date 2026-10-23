@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Two Towers - The Complete Recordings"
 ---
 
-Chuyển hướng đến [The Lord of the Rings: The Two Towers - Bản ghi hoàn chỉnh](The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md).
+Chuyển hướng đến [The Lord of the Rings: The Two Towers - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md).

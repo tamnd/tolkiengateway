@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Billy Callahan"
 ---
 
-Chuyển hướng đến [Thư gửi Billy Callahan](../L/Letter_to_Billy_Callahan.md).
+Chuyển hướng tới [Thư gửi Billy Callahan](../L/Letter_to_Billy_Callahan.md).

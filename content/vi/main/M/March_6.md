@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "6 March"
 ---
 
-Chuyển hướng đến [ngày 6 tháng 3](../_/6_March.md).
+Chuyển hướng tới [ngày 6 tháng 3](../_/6_March.md).

@@ -56,7 +56,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Asphodel là con gái của [Gorbadoc Brandybuck](../G/Gorbadoc_Brandybuck.md) và [Mirabella Took](../M/Mirabella_Took.md). Cô kết hôn với [Rufus Burrows](../R/Rufus_Burrows.md) và con của họ, [Milo Burrows](../M/Milo_Burrows.md), sinh năm [S.R.](../S/Shire_Reckoning.md) [1347](../T/Third_Age_2947.md). Tất cả họ đều đã tham dự bữa tiệc của [Bilbo](../B/Bilbo's_Farewell_Party.md) tại [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Asphodel là con gái của [Gorbadoc Brandybuck](../G/Gorbadoc_Brandybuck.md) và [Mirabella Took](../M/Mirabella_Took.md). Cô kết hôn với [Rufus Burrows](../R/Rufus_Burrows.md) và đứa con của họ, [Milo Burrows](../M/Milo_Burrows.md), sinh năm [S.R.](../S/Shire_Reckoning.md) [1347](../T/Third_Age_2947.md). Tất cả họ đều đã tham dự [Bilbo Bữa tiệc](../B/Bilbo's_Farewell_Party.md) tại [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

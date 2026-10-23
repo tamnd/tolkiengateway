@@ -53,13 +53,13 @@ Với tư cách là Sauron, bạn điều khiển Lực lượng của Bóng T�
 - Mức độ phức tạp là 6 (trong đó 10 là phức tạp nhất)
 - Thời gian chơi 1 đến 5 giờ
 
-Khi người chơi của Hiệp hội điều động Gandalf, Frodo, Aragorn và những người còn lại trong Hiệp hội cùng đồng minh của họ khi họ cố gắng mang Chiếc nhẫn về phía Mordor và cuối cùng nó sẽ bị phá hủy trong Cracks of Doom.
+Khi người chơi Fellowship điều động Gandalf, Frodo, Aragorn và những người còn lại trong Fellowship cũng như đồng minh của họ khi họ cố gắng mang Nhẫn về phía Mordor và cuối cùng nó bị phá hủy trong Cracks of Doom.
 
 Khi người chơi Kẻ Thù săn lùng và tiêu diệt các thế lực đáng thương của Hiệp hội bằng cách sử dụng tay sai của bạn: Nazgul, Balrog, Rồng, Nhện khổng lồ, các nhóm Orc và Troll, sát thủ và những đầy tớ độc ác khác của Sauron.
 
-The Fellowship of the Ring là trò chơi hai người chơi dựa trên sử thi ba tập của J.R.R. Tolkien, The Lord of the Rings. Hành động tập trung vào giai đoạn đầu khi Hiệp hội cố gắng di chuyển Chiếc nhẫn từ Shire đến vùng lân cận Mordor. Một người chơi điều khiển lực của Sauron, Chúa tể Bóng tối; trong khi người chơi còn lại điều khiển các nhân vật Fellowship và đồng minh của họ.
+The Fellowship of the Ring là trò chơi hai người chơi dựa trên sử thi ba tập của J.R.R. Tolkien, The Lord of the Rings. Hành động tập trung vào giai đoạn đầu khi Hiệp hội cố gắng di chuyển Nhẫn từ Shire đến vùng lân cận Mordor. Một người chơi điều khiển lực của Sauron, Chúa tể Bóng tối; trong khi người chơi còn lại điều khiển các nhân vật Fellowship và đồng minh của họ.
 
-Trò chơi sử dụng các thẻ đặc biệt và bút đánh dấu bằng nhựa để thực hiện việc triển khai và di chuyển ẩn. Các thẻ và điểm đánh dấu thậm chí còn cho phép giải quyết một số trận chiến nhất định mà không tiết lộ danh tính của các chiến binh. Người chơi Fellowship cố gắng tránh né, đánh lừa và định hướng sai cho người chơi Kẻ Thù trong khi di chuyển về phía Mordor. Người chơi Kẻ Thù cố gắng buộc người chơi Fellowship tham gia chiến đấu để có thể lấy lại Chiếc nhẫn cho chủ nhân hợp pháp của nó, Sauron của Mordor.
+Trò chơi sử dụng các thẻ đặc biệt và bút đánh dấu bằng nhựa để thực hiện việc triển khai và di chuyển ẩn. Các thẻ và điểm đánh dấu thậm chí còn cho phép giải quyết một số trận chiến nhất định mà không tiết lộ danh tính của các chiến binh. Người chơi Fellowship cố gắng tránh né, đánh lừa và định hướng sai cho người chơi Kẻ Thù trong khi di chuyển về phía Mordor. Người chơi Kẻ Thù cố gắng buộc người chơi Fellowship tham gia chiến đấu trong đó Nhẫn có thể được lấy lại cho chủ nhân hợp pháp của nó, Sauron của Mordor.
 
 Các quy tắc được tổ chức cho một kịch bản tiêu chuẩn và trò chơi cơ bản; tuy nhiên các quy tắc tùy chọn được bao gồm cho các trò chơi đơn giản và nâng cao.
 

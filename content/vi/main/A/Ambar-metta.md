@@ -25,7 +25,7 @@ Nó hầu hết được biết đến như một phần của câu nói đượ
 
 ## Từ nguyên {#Etymology}
 
-*Ambar-metta*, nghĩa là "Nơi tận cùng của thế giới", là sự kết hợp của hai từ [Quenya](../Q/Quenya.md) *[ambar](Ambar.md)* ("thế giới") và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Metta&amp;action=edit&amp;redlink=1" title="Metta (page does not exist)">metta</a></i> ("kết thúc").<sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup> Dạng thay thế <i><b>ambarmetta</b></i> đã được sử dụng trong một trong các câu liên quan đến *[Alcar mi Tarmenel na Erun](Alcar_mi_Tarmenel_na_Erun.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Ambar-metta*, nghĩa là "Nơi tận cùng của thế giới", là sự kết hợp của hai từ [Quenya](../Q/Quenya.md), *[ambar](Ambar.md)* ("thế giới") và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Metta&amp;action=edit&amp;redlink=1" title="Metta (page does not exist)">metta</a></i> ("kết thúc").<sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup> Dạng thay thế <i><b>ambarmetta</b></i> đã được sử dụng trong một trong các câu liên quan đến *[Alcar mi Tarmenel na Erun](Alcar_mi_Tarmenel_na_Erun.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

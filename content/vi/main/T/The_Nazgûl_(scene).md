@@ -38,14 +38,14 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Nazgûl](../N/Nazgûl.md) tiến vào [Bree](../B/Bree.md), lao xuống người gác cổng. Họ bước vào [Prancing Pony](../P/Prancing_Pony.md), nỗi kinh hoàng của họ vượt qua [Barliman Butterbur](../B/Barliman_Butterbur.md). Các hobbit được cho là đang ngủ khi Nazgûl đặt lưỡi kiếm của họ phía trên thứ có vẻ là Hobbit và sau đó đâm xuống dưới khi [Sam](../S/Samwise_Gamgee.md) giật mình tỉnh giấc. Tuy nhiên, thực ra các hobbit đang ở trong một căn phòng khác hoàn toàn. Nazgûl chỉ đâm vào những chiếc giường trống. Họ hét lên giận dữ khi những người hobbit khác thức dậy. Aragorn giải thích ngắn gọn rằng Nazgûl đã từng là những [Con Người](../M/Men.md) tuyệt vời được tặng [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md). Những chiếc nhẫn đã biến người nhận thành những hồn ma dưới sự kiểm soát của [Sauron](../S/Sauron.md). Giờ đây, họ tồn tại chỉ để tìm [Chiếc nhẫn duy nhất](The_One_Ring.md) và sẽ săn lùng Frodo chừng nào anh ta còn mang nó. Aragorn dẫn Hobbit rời khỏi Bree khi mặt trời ló dạng để rời xa Nazgûl.
+[Nazgûl](../N/Nazgûl.md) tiến vào [Bree](../B/Bree.md), lao xuống người gác cổng. Họ bước vào [Prancing Pony](../P/Prancing_Pony.md), nỗi kinh hoàng của họ vượt qua [Barliman Butterbur](../B/Barliman_Butterbur.md). Các hobbit được cho là đang ngủ khi Nazgûl đặt lưỡi kiếm của họ phía trên thứ có vẻ là Hobbit và sau đó đâm xuống dưới khi [Sam](../S/Samwise_Gamgee.md) giật mình tỉnh giấc. Tuy nhiên, thực ra các hobbit đang ở trong một căn phòng khác hoàn toàn. Nazgûl chỉ đâm vào những chiếc giường trống. Họ hét lên giận dữ khi những người hobbit khác thức dậy. Aragorn giải thích ngắn gọn rằng Nazgûl đã từng là những [Con Người](../M/Men.md) tuyệt vời được tặng [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md). Những chiếc nhẫn đã biến người nhận thành những hồn ma dưới sự kiểm soát của [Sauron](../S/Sauron.md). Giờ đây, họ tồn tại chỉ để tìm [Người Nhẫn](The_One_Ring.md) và sẽ săn Frodo miễn là anh ta mang nó. Aragorn dẫn Hobbit rời khỏi Bree khi mặt trời ló dạng để rời xa Nazgûl.
 
 Những người hobbit trốn thoát khỏi Bree. Merry và Frodo thảo luận ngắn gọn về độ tin cậy của Aragorn. Frodo quyết định tin tưởng Aragorn vào lúc này. Các hobbit dừng lại một chút để làm bữa sáng thứ hai trước khi Aragorn khiển trách họ. Cuối cùng họ đến được [Đầm lầy Midwater](../M/Midgewater_Marshes.md).
 
 ## Sự khác biệt {#Differences}
 
 - Trong sách, thủ phạm của vụ tấn công tại Bree là Con Người làm việc cho Nazgûl chứ không phải chính Nazgûl.
-Vai trò của - Barliman Butterbur bị giảm đi đáng kể. Trong sách, anh ấy hỗ trợ người Hobbit, nhưng trong phim, anh ấy chỉ xuất hiện một lần sau khi được giới thiệu, thu mình lại trước Nazgûl.
+Vai trò của - Barliman Butterbur bị giảm đi đáng kể. Trong sách, anh ấy hỗ trợ người hobbit, nhưng trong phim, anh ấy chỉ xuất hiện một lần sau khi được giới thiệu, thu mình lại trước Nazgûl.
 - Lời giải thích về Nazgûl không đến từ Aragorn.
 - Tuyết rơi trên mặt đất nhưng vẫn đang là giữa tháng 10.
 - Trò đùa bữa sáng thứ hai là nguyên bản trong phim.

@@ -24,7 +24,7 @@ Childe được học tại <a class="extiw" href="http://en.wikipedia.org/wiki/
 
 Khi ở Oxford, Childe đã biên tập *[Oxford Poetry](../O/Oxford_Poetry.md)* vào năm 1916 và 1917, một ấn phẩm cũng có sự đóng góp của Tolkien. Và cùng với thơ của Tolkien, tác phẩm của Childe đã được xuất bản trên *[A Northern Venture](../A/A_Northern_Venture.md)* và *[Leeds University Verse 1914-24](../L/Leeds_University_Verse_1914-24.md)*.
 
-Với Tolkien, Childe đã viết một <a class="external text" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000687/19230530/120/0004" rel="noreferrer noopener" target="_blank">một lá thư vào ngày 30 tháng 5 năm 1923</a> gửi cho <a class="extiw" href="http://en.wikipedia.org/wiki/Leeds_Intelligencer" title="wikipedia:Leeds Intelligencer">Yorkshire Post và Leeds Intelligencer</a> bảo vệ <a class="external text" href="https://www.iwm.org.uk/memorials/item/memorial/22161" rel="noreferrer noopener" target="_blank">Đài tưởng niệm Thế chiến thứ nhất của Eric Gill</a>, trong đó mô tả Chúa Kitô đuổi những người đổi tiền ra khỏi Đền thờ.
+Với Tolkien, Childe đã viết một <a class="external text" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000687/19230530/120/0004" rel="noreferrer noopener" target="_blank">một lá thư vào ngày 30 tháng 5 năm 1923</a> gửi <a class="extiw" href="http://en.wikipedia.org/wiki/Leeds_Intelligencer" title="wikipedia:Leeds Intelligencer">Yorkshire Post và Leeds Intelligencer</a> bảo vệ <a class="external text" href="https://www.iwm.org.uk/memorials/item/memorial/22161" rel="noreferrer noopener" target="_blank">Đài tưởng niệm Thế chiến thứ nhất của Eric Gill</a>, trong đó mô tả Chúa Kitô đang lái những người đổi tiền từ Đền thờ.
 
 ## Xem thêm {#See_also}
 

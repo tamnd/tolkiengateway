@@ -27,7 +27,7 @@ Dưới đây là danh sách nhiều tựa truyện tranh:
 
 ## Đoàn Hộ Nhẫn {#Fellowship_of_the_Ring}
 
-- Một lời nhắc nhở
+- Một Nhẫn từ
 - Rung chuông
 - Gonedaft vs Bullfrog
 - Gonedaft the Grey
@@ -37,7 +37,7 @@ Dưới đây là danh sách nhiều tựa truyện tranh:
 - Phim chuyển thể bán hết vé
 - Gonedaft đấu với Sourman
 - Tom Bombadill cắt
-- Chân nhẹ cụt chân
+- Chân nhẹ Không có chân
 - Moria thông báo cổng
 - Mở cổng Moria
 - Người chua nhiều màu
@@ -51,11 +51,11 @@ Dưới đây là danh sách nhiều tựa truyện tranh:
 - Người lùn mắt đại bàng
 - Yêu tinh phát sáng
 - Nhãn dán cản xe Gonedaft
-- Gonedaft từ chối Chiếc Nhẫn
+- Gonedaft từ chối Nhẫn
 - Hỏng một vòng
 - Cỏ dại nửa vời
 - Nguồn gốc của Dorcs
-- Sourone và chiếc nhẫn
+- Sourone và Nhẫn
 - Tầm nhìn của Gladwrapriel
 - Sức mạnh phép thuật chưa được sử dụng
 - Thấy được kênh Đá
@@ -89,7 +89,7 @@ Dưới đây là danh sách nhiều tựa truyện tranh:
 
 - Gollum tiết lộ
 - Gonedaft đấu với Ringwaif
-- Thùy nhỏ bé
+- Nhỏ Shelob
 - Không chân vs Oliphaunt
 - Bài hát của Pipsqueak
 - Rèn lại thanh kiếm gãy
@@ -98,10 +98,10 @@ Dưới đây là danh sách nhiều tựa truyện tranh:
 - Rời khỏi Trái đất lầy lội
 - Thạch rơi
 - Trò chơi giết chóc
-- Người to mồm
+- Người chua miệng lớn tiếng
 - Tập hợp lại với tôi
-- Chặt đầu thú ngã
-- Bài ca tử thần
+- Fell beast chặt đầu
+- Bài ca chết chóc
 - Tái tạo thanh kiếm
 
 ## Người Hobnobbit {#The_Hobnobbit}
@@ -115,7 +115,7 @@ Dưới đây là danh sách nhiều tựa truyện tranh:
 - Cắt chua
 - Peter Jackson khách mời
 - Vua Kong khách mời
-- Elvish lướt sóng
+- Elvish lướt web
 - Nhãn dán cản xe Fell Beast
 - Pippsqueak ngớ ngẩn
 - Biệt danh Gonedaft

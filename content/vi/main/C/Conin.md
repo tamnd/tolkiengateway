@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Caun"
 ---
 
-Chuyển hướng tới [Caun](Caun.md).
+Chuyển hướng đến [Caun](Caun.md).

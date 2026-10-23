@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Litany of Loreto"
 ---
 
-Chuyển hướng đến [Kinh cầu Loreto](../L/Litany_of_Loreto.md).
+Chuyển hướng tới [Kinh cầu Loreto](../L/Litany_of_Loreto.md).

@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Lotho Sackville-Baggins](../../main/L/Lotho_Sackville-Baggins.md), đi dạo trong [Bywater](../../main/B/Bywater.md). Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (trò chơi điện tử)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
+[Lotho Sackville-Baggins](../../main/L/Lotho_Sackville-Baggins.md), dạo quanh [Bywater](../../main/B/Bywater.md). Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (trò chơi điện tử)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Giấy phép {#Licensing}
 

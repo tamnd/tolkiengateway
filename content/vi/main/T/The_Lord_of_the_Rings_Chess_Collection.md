@@ -52,7 +52,7 @@ categories:
 - Vua - [Saruman](../S/Saruman.md)
 - Nữ hoàng - [Shelob](../S/Shelob.md)
 - Bishops - [Lurtz](../L/Lurtz.md), Berserker [Uruk-hai](../U/Uruk-hai.md)
-- Hiệp sĩ - ngựa [Warg](../W/Wargs.md), [Ringwraith](../N/Nazgûl.md)
+- Hiệp sĩ - [Warg](../W/Wargs.md), [Ringwraith](../N/Nazgûl.md) ngựa
 - Xe - [Balrog](../D/Durin's_Bane.md), [Quái vật sa ngã](../F/Fell_Beasts~17925.md)
 - Tốt - Cuộc vây hãm [Quỷ lùn](Trolls.md), [Easterling *(sic)*](../E/Easterlings.md), [Quỷ hang động](../C/Cave-trolls.md), [Haradrim](../H/Haradrim.md) Cung thủ, [Wormtongue](../G/Gríma.md), Quỷ bọc thép, Troll chiến đấu, Nỏ Uruk-hai
 

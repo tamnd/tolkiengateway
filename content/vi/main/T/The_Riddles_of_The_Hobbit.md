@@ -48,5 +48,5 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienlibrary.com/press/1106-the-riddles-of-the-hobbit.php" rel="noreferrer noopener" target="_blank"><i>Những câu đố về The Hobbit</i> của Adam Roberts</a> tại [Tolkien Thư viện](Tolkien_Library.md)
-- <a class="external text" href="http://mythoi.tolkienindex.net/#post11" rel="noreferrer noopener" target="_blank"><i>Những câu đố The Hobbit</i> của Adam Roberts</a>, đánh giá của [Morgan Thomsen](../M/Morgan_Thomsen.md)
+- <a class="external text" href="http://www.tolkienlibrary.com/press/1106-the-riddles-of-the-hobbit.php" rel="noreferrer noopener" target="_blank"><i>Những câu đố về The Hobbit</i> của Adam Roberts</a> tại [Tolkien Library](Tolkien_Library.md)
+- <a class="external text" href="http://mythoi.tolkienindex.net/#post11" rel="noreferrer noopener" target="_blank"><i>Những câu đố về The Hobbit</i> của Adam Roberts</a>, đánh giá của [Morgan Thomsen](../M/Morgan_Thomsen.md)

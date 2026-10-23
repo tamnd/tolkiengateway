@@ -33,7 +33,7 @@ Nhiều số của *White Dwarf* có tài liệu liên quan đến chuyển th�
     - "Khazad Dûm" của Lewis Pulsipher (cuộc phiêu lưu trong Moria cho [AD&D](../D/Dungeons_and_Dragons.md))<sup id="cite_ref-Other_3-0" class="reference"><a href="#cite_note-Other-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
     - \[Moria minh họa của John Blanche\]<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 - [1984](../_/1984.md): *White Dwarf* #50
-    - Đánh giá về [Phần bổ sung về Trung Địa](../M/Middle-earth_Role_Playing.md)
+    - Đánh giá về [Tài liệu bổ sung về Trung Địa](../M/Middle-earth_Role_Playing.md)
 - [1985](../_/1985.md): *White Dwarf* #64 (Tháng 4)
     - Vẽ phác thảo (Quảng cáo)<sup id="cite_ref-Citadel_1-1" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
     - "Bình minh của ánh sáng" của Graham Staplehurst (kịch bản cho [MERP](../M/Middle-earth_Role_Playing.md))<sup id="cite_ref-Other_3-1" class="reference"><a href="#cite_note-Other-3">[3]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
@@ -45,14 +45,14 @@ Nhiều số của *White Dwarf* có tài liệu liên quan đến chuyển th�
     - Rohirrim trên Núi (Peter Prowl)<sup id="cite_ref-Citadel_1-3" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
     - Barrow Wights (Bill Sprint)<sup id="cite_ref-Citadel_1-4" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
 - [1985](../_/1985.md): *White Dwarf* #67 (Tháng 7)
-    - Ảnh đen trắng về các tiểu cảnh trong phạm vi Chúa tể của những chiếc nhẫn của [Citadel](../C/Citadel_Miniatures.md)<sup id="cite_ref-Citadel_1-5" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
+    - Ảnh đen trắng về các tiểu cảnh trong phạm vi Chúa tể những chiếc nhẫn của [Citadel](../C/Citadel_Miniatures.md)<sup id="cite_ref-Citadel_1-5" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
     - Sauron trên ngai vàng, sơn thu nhỏ (ME61)<sup id="cite_ref-Citadel_1-6" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
 - [1985](../_/1985.md): *White Dwarf* #68 (Tháng 8)
     - Frodo cưỡi ngựa (Lindsey le Doux Paton)<sup id="cite_ref-Citadel_1-7" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
 - [1985](../_/1985.md): *White Dwarf* #69 (tháng Chín)
     - Gandalf (Stuart Parkinson)<sup id="cite_ref-Citadel_1-8" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
 - [1985](../_/1985.md): *White Dwarf* #70 (Tháng 10)
-    - Orc (John Blanche)<sup id="cite_ref-Citadel_1-9" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
+    - Orc (John Trắng)<sup id="cite_ref-Citadel_1-9" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup>
 - [1985](../_/1985.md): *White Dwarf* #72 (Tháng 12)
     - Đoàn Hộ Nhẫn Quảng cáo bộ hộp<sup id="cite_ref-Citadel_1-10" class="reference"><a href="#cite_note-Citadel-1">[1]</a></sup><sup id="cite_ref-FR_9-0" class="reference"><a href="#cite_note-FR-9">[9]</a></sup>
 - [1986](../_/1986.md): *White Dwarf* #73 (Tháng 1)

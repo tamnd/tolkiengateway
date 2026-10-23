@@ -49,7 +49,7 @@ infobox:
 
 - "Báo cáo từ Mythcon XIX" — Jorge Quiñónez
 - "Cơ bản Elvish: Tên các số trong Elvish" — Jorge Quiñónez
-- "Elvish Thơ: Bài thơ Chiếc nhẫn trong Quenya" — trans. Jorge Quiñónez và Christopher Gilson
+- "Elvish Thơ: Bài thơ Nhẫn trong Quenya" — trans. Jorge Quiñónez và Christopher Gilson
 - "*[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*, Tập II: Trò lừa bịp?" — Jorge Quiñónez
 
 <br>

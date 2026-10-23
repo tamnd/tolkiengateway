@@ -24,7 +24,7 @@ images:
 
 **Trang phục của những người thừa kế Elendil** là một chiếc áo khoác đen có thêu [cây trắng](../W/White_Tree_of_Gondor.md) đang nở hoa bên dưới vương miện bạc và những ngôi sao nhiều cánh.<sup id="cite_ref-MT_1-0" class="reference"><a href="#cite_note-MT-1">[1]</a></sup>
 
-Vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) không có ai ngoại trừ [Đội Cận vệ Thành Trì](../G/Guards_of_the_Citadel.md) đeo nó trong [Gondor](../G/Gondor.md).<sup id="cite_ref-MT_1-1" class="reference"><a href="#cite_note-MT-1">[1]</a></sup>
+Vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) không có ai ngoại trừ [Đội Cận vệ Thành trì](../G/Guards_of_the_Citadel.md) đeo nó trong [Gondor](../G/Gondor.md).<sup id="cite_ref-MT_1-1" class="reference"><a href="#cite_note-MT-1">[1]</a></sup>
 
 ## Tiêu chuẩn của Elendil {#Standard_of_Elendil}
 

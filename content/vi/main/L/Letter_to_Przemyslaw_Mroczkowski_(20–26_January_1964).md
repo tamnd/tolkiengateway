@@ -23,7 +23,7 @@ images:
 Giữa [20](../_/20_January.md)-[26 tháng 1](../_/26_January.md) [1964](../_/1964.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Przemyslaw Mroczkowski](../P/Przemyslaw_Mroczkowski.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Mô tả:** Thư có chữ ký ('Ronald Tolkien') gửi Giáo sư Przemyslaw Mroczkowski, Headington, 20–26 tháng 1 năm 1964, 3½ trang, 4to.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- **Ấn bản:** Đoạn trích và hình ảnh của bức thư được đăng trên *[Christie's Fine Printed Books and Manuscripts 1 June 2009](../C/Christie's_Fine_Printed_Books_and_Manuscripts_1_June_2009.md)*.
+- **Xuất bản:** Đoạn trích và hình ảnh của bức thư được đăng trên *[Christie's Fine Printed Books and Manuscripts 1 June 2009](../C/Christie's_Fine_Printed_Books_and_Manuscripts_1_June_2009.md)*.
 
 ## Nội dung (từ cuộc đấu giá) {#Contents_(from_the_auction)}
 

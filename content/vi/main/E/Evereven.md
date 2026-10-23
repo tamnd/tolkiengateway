@@ -18,7 +18,7 @@ langlinks:
     url: "https://kontu.wiki/Iki-ilta"
 ---
 
-**Evereven** hay **Ever-eve** là một cái tên thơ mộng cho vùng [Aman](../A/Aman.md) nơi [Eärendil](Eärendil.md) bắt đầu cuộc hành trình hoành tráng của mình bên ngoài Thế giới. Nó chỉ xuất hiện trong *[Eärendillinwë](Eärendillinwë.md)* của [Bilbo Baggins](../B/Bilbo_Baggins.md)tại [Rivendell](../R/Rivendell.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và vì vậy thuật ngữ này có thể được hiểu là phát minh của chính Bilbo. Trong bài thơ, nó được mô tả là vùng đất của những ngọn đồi và đài phun nước.
+**Evereven** hay **Ever-eve** là một cái tên thơ mộng cho vùng [Aman](../A/Aman.md) nơi [Eärendil](Eärendil.md) bắt đầu cuộc hành trình hoành tráng của mình bên ngoài Thế giới. Nó chỉ xuất hiện trong *[Eärendillinwë](Eärendillinwë.md)* của [Bilbo Baggins](../B/Bilbo_Baggins.md)tại [Rivendell](../R/Rivendell.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và do đó thuật ngữ này có thể được hiểu là phát minh của chính Bilbo. Trong bài thơ, nó được mô tả là vùng đất của những ngọn đồi và đài phun nước.
 
 Bài hát của [Galadriel](../G/Galadriel's_Song.md) đề cập đến một thuật ngữ tương tự: *Bên dưới những vì sao của Ever-eve trong [Eldamar](Eldamar.md) nó tỏa sáng.*
 

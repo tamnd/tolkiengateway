@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Othrondir"
 ---
 
-Chuyển hướng đến [Othrondir](Othrondir.md).
+Chuyển hướng tới [Othrondir](Othrondir.md).

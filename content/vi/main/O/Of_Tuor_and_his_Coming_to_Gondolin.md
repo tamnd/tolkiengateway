@@ -77,7 +77,7 @@ Cuối cùng, [Ecthelion](../E/Ecthelion.md), chúa tể của [Người dân c�
 
 ## Câu chuyện chưa hoàn chỉnh {#Incomplete_story}
 
-Ở đây, việc viết chi tiết dừng lại. Trong bản thảo đã xuất bản, câu chuyện được tiếp tục cho đến khi Tuor được Ecthelion cho phép chuyển đoạn và anh để mắt đến [Thành phố Ẩn Giấu](../G/Gondolin.md), một đoạn được lấy từ những ghi chú chưa hoàn chỉnh của Tolkien, cũng sẽ chứa mô tả về Gondolin và [Turgon](../T/Turgon.md), cũng như cuộc gặp gỡ đầu tiên của Tuor và [Idril](../I/Idril.md), những người đã trở thành vợ anh. Tuy nhiên, phiên bản cuối cùng của câu chuyện chưa bao giờ được hoàn thành.
+Ở đây, việc viết chi tiết dừng lại. Trong bản thảo đã xuất bản, câu chuyện được tiếp tục cho đến khi Tuor được Ecthelion cho phép chuyển đoạn và anh để mắt đến [Thành Phố Ẩn Giấu](../G/Gondolin.md), một đoạn được lấy từ những ghi chú chưa hoàn chỉnh của Tolkien, cũng sẽ chứa mô tả về Gondolin và [Turgon](../T/Turgon.md), cũng như cuộc gặp gỡ đầu tiên của Tuor và [Idril](../I/Idril.md), những người đã trở thành vợ anh. Tuy nhiên, phiên bản cuối cùng của câu chuyện chưa bao giờ được hoàn thành.
 
 <h2><span id="Tuor_and_Voronw.C3.AB.27s_route_towards_the_Hidden_City"></span><span class="mw-headline" id="Tuor_and_Voronwë&#39;s_route_towards_the_Hidden_City">Tuor and Voronwë&#39;s route towards the Hidden City</span></h2>
 

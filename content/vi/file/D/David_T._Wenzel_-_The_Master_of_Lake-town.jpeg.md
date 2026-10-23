@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Bậc thầy của Thị trấn Hồ](../../main/M/Master_of_Lake-town.md) - Nghệ thuật của [David T. Wenzel](../../main/D/David_T._Wenzel.md) cho [*The Hobbit* (truyện tranh)](<../../main/T/The_Hobbit_(comic_book).md>)
+[ Chủ nhân của Thị trấn Hồ](../../main/M/Master_of_Lake-town.md) - Nghệ thuật của [David T. Wenzel](../../main/D/David_T._Wenzel.md) cho [*The Hobbit* (truyện tranh)](<../../main/T/The_Hobbit_(comic_book).md>)
 
 ## Giấy phép {#Licensing}
 

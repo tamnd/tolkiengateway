@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fredegar Bolger"
 ---
 
-Chuyển hướng tới [Fredegar Bolger](Fredegar_Bolger.md).
+Chuyển hướng đến [Fredegar Bolger](Fredegar_Bolger.md).

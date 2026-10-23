@@ -46,7 +46,7 @@ infobox:
 - **18** - Nghệ thuật ở giữa: Tirion của James Rose
 - **21** - Hội Tolkien Hội thảo: Suy nghĩ lại về việc tiếp cận, tác động và cộng đồng của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Will_Sherwood&amp;action=edit&amp;redlink=1" title="Will Sherwood (page does not exist)">Will Sherwood</a>
 - **23** - Đánh giá về There's a Hole in my Bucket: A Journey of Two Brothers của Royd Tolkien
-- **24** - Một chiếc nhẫn tìm người giữ nó của Sultana Raza
+- **24** - Một Nhẫn Tìm Người Giữ Của Nó bởi Sultana Raza
 - **25** - Đánh giá sách: Trận chiến Maldon cùng với Sự trở lại của Beorhtnoth của Amanda Drake
 - **26** - Trung Địa & Nghịch lý của đống: Tiếp tục cuộc đối thoại của Larry L. Burriss
 - **30** - Phía sau cánh cửa kính

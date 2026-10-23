@@ -12,7 +12,7 @@ categories:
   - "The Hobbit (1977 film) soundtrack"
 ---
 
-**The Mountain Vua's Return** là một bài hát từ [chuyển thể năm 1977](<The_Hobbit_(1977_film).md>) của *[The Hobbit](The_Hobbit.md)*. Lời bài hát dựa trên bài thơ "[The Vua bên dưới những ngọn núi](The_King_beneath_the_mountains.md)" và được [Jules Bass](../J/Jules_Bass.md) chuyển thể với âm nhạc của [Maury Laws](../M/Maury_Laws.md). Bài hát chủ yếu được dùng làm nhạc nền cho đoạn dạo đầu ngắn gọn của [Bilbo](../B/Bilbo_Baggins.md) và [Thorin và Đoàn tùy tùng](Thorin_and_Company.md)trong [Thị trấn Hồ](../L/Lake-town.md) trong phim. Không giống như các bài hát khác trong phim, bài hát này không có trong [nhạc phim](The_Hobbit%253A_The_Complete_Original_Soundtrack.md) đi kèm.
+**The Mountain Vua's Return** là một bài hát từ [bản chuyển thể năm 1977](<The_Hobbit_(1977_film).md>) của *[The Hobbit](The_Hobbit.md)*. Lời bài hát dựa trên bài thơ "[The Vua bên dưới những ngọn núi](The_King_beneath_the_mountains.md)" và được [Jules Bass](../J/Jules_Bass.md) chuyển thể với âm nhạc của [Maury Laws](../M/Maury_Laws.md). Bài hát chủ yếu được dùng làm nhạc nền cho đoạn dạo đầu ngắn gọn của [Bilbo](../B/Bilbo_Baggins.md) và [Thorin và Đoàn tùy tùng](Thorin_and_Company.md)trong [Thị trấn Hồ](../L/Lake-town.md) trong phim. Không giống như các bài hát khác trong phim, bài hát này không có trong [nhạc phim](The_Hobbit%253A_The_Complete_Original_Soundtrack.md) đi kèm.
 
 ## Lời bài hát {#Lyrics}
 

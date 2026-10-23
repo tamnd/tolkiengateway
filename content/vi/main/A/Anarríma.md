@@ -42,7 +42,7 @@ Các thành phần của tên dường như là *[anar](Anar.md)* ("mặt trời
 
 ## Cảm hứng {#Inspiration}
 
-Anarríma không thể xác định được bằng một chòm sao thực tế. Từ *ríma* có thể ám chỉ <a class="extiw" href="http://en.wikipedia.org/wiki/Corona_Borealis" title="wikipedia:Corona Borealis">Corona Borealis</a> (Vương miện phía Bắc) hoặc <a class="extiw" href="http://en.wikipedia.org/wiki/Great_Square_of_Pegasus" title="wikipedia:Great Square of Pegasus">Quảng trường lớn của Pegasus</a>, dễ dàng nhận ra nhờ bốn ngôi sao sáng của nó.
+Anarríma không thể xác định được bằng một chòm sao thực sự. Từ *ríma* có thể ám chỉ <a class="extiw" href="http://en.wikipedia.org/wiki/Corona_Borealis" title="wikipedia:Corona Borealis">Corona Borealis</a> (Vương miện phía Bắc) hoặc <a class="extiw" href="http://en.wikipedia.org/wiki/Great_Square_of_Pegasus" title="wikipedia:Great Square of Pegasus">Quảng trường lớn của Pegasus</a>, dễ dàng nhận ra nhờ bốn ngôi sao sáng của nó.
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

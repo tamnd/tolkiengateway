@@ -39,4 +39,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Ai Dám Chiếm đóng Isengard?** là ca khúc thứ bảy trong [*The Lord of the Rings: Cuộc chiến của Rohirrim* (Nhạc phim Điện ảnh Gốc)](<../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim_(Original_Motion_Picture_Soundtrack).md>) của [Stephen Gallagher](../S/Stephen_Gallagher.md). Bài hát kết hợp mô típ [Gondor](../G/Gondor.md) từ bản nhạc của [Howard Shore](../H/Howard_Shore.md) cho [*The Lord of the Rings* bộ ba phim](<../T/The_Lord_of_the_Rings_(film_series).md>).
+**Ai dám chiếm giữ Isengard?** là bài hát thứ bảy trong [*The Lord of the Rings: The War of the Rohirrim* (Nhạc phim gốc)](<../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim_(Original_Motion_Picture_Soundtrack).md>) của [Stephen Gallagher](../S/Stephen_Gallagher.md). Bài hát kết hợp mô típ [Gondor](../G/Gondor.md) từ bản nhạc của [Howard Shore](../H/Howard_Shore.md)cho [*The Lord of the Rings* bộ ba phim](<../T/The_Lord_of_the_Rings_(film_series).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ulmo"
 ---
 
-Chuyển hướng tới [Ulmo](../U/Ulmo.md).
+Chuyển hướng đến [Ulmo](../U/Ulmo.md).

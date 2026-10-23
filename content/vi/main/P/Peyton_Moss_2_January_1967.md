@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Peyton Moss"
 ---
 
-Chuyển hướng đến [Thư gửi Peyton Moss](../L/Letter_to_Peyton_Moss.md).
+Chuyển hướng tới [Thư gửi Peyton Moss](../L/Letter_to_Peyton_Moss.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Argeleb (disambiguation)"
 ---
 
-Chuyển hướng đến [Argeleb (định hướng)](<Argeleb_(disambiguation).md>).
+Chuyển hướng tới [Argeleb (định hướng)](<Argeleb_(disambiguation).md>).

@@ -127,7 +127,7 @@ Auvergne kế thừa của - Arda
 #### Nhạc sáng tác bởi {#Music_composed_by}
 
 - Thomas Lyons - LyonsMusic -
-- Lấy cảm hứng từ Nhạc phim Chúa tể những chiếc nhẫn của Howard Shore
+- Lấy cảm hứng từ Howard Shore Nhạc phim Chúa tể những chiếc nhẫn
 
 #### Hiệu ứng hình ảnh {#Visual_Effects}
 

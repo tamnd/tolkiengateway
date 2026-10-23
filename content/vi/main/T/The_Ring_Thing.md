@@ -31,7 +31,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-**The Ring Thing** là một bộ phim [2004](../_/2004.md) Đức Thụy Sĩ nhại lại *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
+**The Nhẫn Thing** là một bộ phim [2004](../_/2004.md) Đức Thụy Sĩ nhại lại *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
 
 ## Lô đồ {#Plot}
 

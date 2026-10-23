@@ -21,7 +21,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Game Systems Inc.</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Company Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Founded</th><td class="tg-infobox-data">1990</td></tr><tr><th scope="row" class="tg-infobox-label">Products</th><td class="tg-infobox-data">Play By Mail &amp; Online Games</td></tr></tbody></table>
 
-**Game Systems Inc.** (hiện đang kinh doanh với tên **Game Systems International**) là nhà phát triển, nhà xuất bản và người quản lý trò chơi ở Hoa Kỳ của [Trung Địa Play-By-Mail](../M/Middle-earth_Play-By-Mail.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Game Systems Inc.** (hiện đang kinh doanh với tên **Game Systems International**) là nhà phát triển, nhà xuất bản và bậc thầy trò chơi tại Hoa Kỳ của [Trung Địa Phát qua thư](../M/Middle-earth_Play-By-Mail.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

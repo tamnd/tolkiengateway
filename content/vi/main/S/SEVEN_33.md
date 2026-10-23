@@ -56,7 +56,7 @@ infobox:
 - Bài luận ôn tập:
     - "Ánh sáng mới cho cuộc đại chiến"
         - Bởi: Edwin Tait
-    - "Một sự chuyển đổi không mong muốn (*C.S. Lewis: Revelation and the Christ* của Paul H. Brazier)"
+    - "Một sự chuyển đổi không được chào đón (*C.S. Lewis: Revelation and the Christ* của Paul H. Brazier)"
         - Bởi: Travis Buchanan
 - Bổ sung:
     - "Bổ sung cho 'Chữ viết tay phản diện': Nghiên cứu theo trình tự thời gian về kịch bản của C.S. Lewis"
@@ -65,9 +65,9 @@ infobox:
         - Bởi: David Paul Deavel
     - "Đánh giá *C.S. Lewis về Chính trị và Luật Tự nhiên* của Justin Buckley Dyer và Micah J. Watson"
         - Bởi: Bryan McGraw
-    - "Đánh giá về *Trí tưởng tượng đáng ngạc nhiên của C.S. Lewis: Lời giới thiệu* của Jerry Root và Mark Neal"
+    - "Đánh giá về *Trí tưởng tượng đáng ngạc nhiên của C.S. Lewis: Lời giới thiệu* của Jerry Gốc và Mark Neal"
         - Bởi: Daniel Train
-    - "Đánh giá về *Các phương pháp tiếp cận giảng dạy The Lord of the Rings của Tolkien và các tác phẩm khác*, được biên tập bởi Leslie A. Donovan"
+    - "Đánh giá về *Các phương pháp tiếp cận giảng dạy The Lord of the Rings và các tác phẩm khác* của Tolkien, được biên tập bởi Leslie A. Donovan"
         - Bởi: James Beitler
     - "Đánh giá về *Charles Williams: The Third Inkling* của Grevel Lindop"
         - Bởi: Linh mục Nancy E. Topolewski, Tiến sĩ
@@ -94,7 +94,7 @@ infobox:
         - Bởi: James W. Menzies
     - *C.S. Lewis Đi xuống địa ngục: Người bạn đồng hành và hướng dẫn nghiên cứu về những bức thư trên băng vít*
         - Bởi: William O'Flaherty
-    - *Ruộn lại vùng đất hoang: Các bài viết về Bộ ba không gian, Biên niên sử Narnia và các tác phẩm khác của C.S. Lewis, Tập I–III*
+    - *Trù chuộc vùng đất hoang: Các bài viết về Bộ ba không gian, Biên niên sử Narnia và các tác phẩm khác của C.S. Lewis, Tập I–III*
         - Bởi: Nancy-Lou Patterson
     - *C.S. Lewis và Chủ nghĩa Hậu hiện đại Kitô giáo: Lời nói, Hình ảnh và Xa hơn nữa*
         - Bởi: Kyoko Yuasa
@@ -108,7 +108,7 @@ infobox:
         - Bởi: Devin Brown
     - *Những khoảnh khắc ân sủng và chiến tranh tâm linh trong The Lord of the Rings*
         - Bởi: Anne Marie Gazzolo
-    - *Tolkien và Wagner: Chiếc nhẫn và chiếc nhẫn Der Ring*
+    - *Tolkien và Wagner: Nhẫn và Der Nhẫn*
         - Bởi: Christopher MacLachlan
     - *Trung Địa thực sự: Khám phá nguồn gốc của The Lord of the Rings*
         - Bởi: Michael Muhling

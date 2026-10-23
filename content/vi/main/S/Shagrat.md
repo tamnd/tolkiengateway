@@ -50,7 +50,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong một lần tuần tra đến [Hang ổ của Shelob](Shelob's_Lair.md), đại đội của Shagrat gặp phải một đội quân Orc từ [Minas Morgul](../M/Minas_Morgul.md) do [Gorbag](../G/Gorbag.md) chỉ huy. Cả hai không hợp nhau, nhưng trước khi mọi chuyện leo thang, họ nhận thấy có điều gì đó không đúng chỗ: một [sinh vật nhỏ kỳ lạ](../F/Frodo_Baggins.md), tất cả đều bị cuốn vào mạng của [Shelob](Shelob.md). Việc phát hiện ra thứ có vẻ là một chiếc [Tiên](../E/Elves.md) có kích thước nhỏ hơn đã khiến hai người chỉ huy phải so sánh các ghi chú của họ; họ kết luận rằng chắc chắn phải có một cái khác ở gần đó. Nhưng họ không tìm được “chiến binh Tiên vĩ đại” này.
+Trong một lần tuần tra đến [Hang ổ của Shelob](Shelob's_Lair.md), đại đội của Shagrat gặp phải một đội quân Orc từ [Minas Morgul](../M/Minas_Morgul.md) do [Gorbag](../G/Gorbag.md) chỉ huy. Cả hai không hợp nhau, nhưng trước khi mọi chuyện leo thang, họ nhận thấy có điều gì đó không đúng chỗ: một [sinh vật nhỏ kỳ lạ](../F/Frodo_Baggins.md), tất cả đều vướng vào mạng của [Shelob](Shelob.md). Việc phát hiện ra thứ có vẻ là một chiếc [Tiên](../E/Elves.md) có kích thước nhỏ hơn đã khiến hai người chỉ huy phải so sánh các ghi chú của họ; họ kết luận rằng chắc chắn phải có một cái khác ở gần đó. Nhưng họ không tìm được “chiến binh Tiên vĩ đại” này.
 
 Sự hỗn loạn lại nổi lên trong nhóm khi Gorbag ​​và Shagrat không đồng ý với những gì họ phải làm với tù nhân. Lệnh của Shagrat từ [ở trên](Sauron.md) rất đơn giản: tất cả đồ dùng cá nhân phải được gửi đến [Barad-dûr](../B/Barad-dûr.md). Shagrat không tin tưởng nhiều quân của mình và không ai trong số quân của Gorbag, vì vậy ông ta đã nhốt tù nhân vào căn phòng trên cùng của [Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -100,7 +100,7 @@ Gorbag ​​thèm muốn chiếc [Áo khoác Mithril](../M/Mithril-coat.md) Fro
 
 <dl><dd>In this adaptation, Shagrat first appears on a ledge cackling overlooking <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a> and <a href="Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a> after Gollum&#39;s initial betrayal. During the very next cutscene, he strikes, pinning Sam to the ground to prevent him from warning Frodo about <a href="Shelob.md" title="Shelob">Shelob</a>. Despite this, he is a playable character during the <a href="Shelob.md" title="Shelob">Shelob</a> boss fight solely for the purposes of making a solo moment in the films multiplayer. Similar to the films, it is Shagrat and not Gorbag who covets the <i><a href="../M/Mithril.md#The_Mithril_Coat" title="Mithril">mithril</a></i> shirt and starts the fight in the <a href="../T/Tower_of_Cirith_Ungol.md" title="Tower of Cirith Ungol">Tower of Cirith Ungol</a>.</dd></dl>
 
-<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Abscent from the main storyline, Shagrat only makes a brief cameo appearance in a scene depicting how <a href="../G/Gollum.md" title="Gollum">Gollum</a> was released from <a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a>.</dd></dl>
 

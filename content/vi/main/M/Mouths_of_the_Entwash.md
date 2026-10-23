@@ -56,5 +56,5 @@ MOUTHS OF THE ENTWASH có các tính năng:
 
 - 2 TRANG BẢN ĐỒ ĐẦY MÀU: bao gồm bản đồ khu vực và bản đồ khu vực xung quanh Tháp Micandor
 - BỐ CỤC CHỦ YẾU: của các thị trấn và làng mạc vùng đồng bằng Entwash
-- 3 CUỘC PHIÊU LƯU HOÀN THÀNH: âm mưu của tên buôn lậu trong "The Water of Life"; một bí ẩn giết người mang tên "Tháp Micandor"; và câu chuyện kinh dị mang tên "Chiếc nhẫn thất lạc"
+- 3 CUỘC PHIÊU LƯU HOÀN THÀNH: âm mưu của tên buôn lậu trong "The Water of Life"; một bí ẩn giết người mang tên "Tháp Micandor"; và một câu chuyện kinh dị mang tên "The Lost Nhẫn"
 - THỐNG KÊ: cho tất cả các đơn vị đồn trú, NPC, quái thú và quái vật

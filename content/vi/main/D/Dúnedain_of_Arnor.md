@@ -61,25 +61,25 @@ Người **Dúnedain xứ Arnor**, còn được gọi là **Dúnedain phương 
 
 “**Người dân Arnor**” là thuật ngữ dùng để chỉ cư dân của Arnor và các vương quốc kế tục, bao gồm cả những người có nguồn gốc Númenor lẫn không có nguồn gốc Númenor. Lịch sử của người dân Arnor phần lớn chịu ảnh hưởng sâu sắc từ những hành động của người Dúnedain phương Bắc.
 
-## History {#History}
+## Lịch sử {#History}
 
-### Foundation {#Foundation}
+### Nền tảng {#Foundation}
 
-After the [Downfall of Númenor](Downfall_of_Númenor.md), the [Exiles of Númenor](../E/Exiles_of_Númenor.md), led by [Elendil](../E/Elendil.md), established the [Realms in Exile](../R/Realms_in_Exile.md) of [Arnor](../A/Arnor.md) and [Gondor](../G/Gondor.md). After passing up the River [Lhûn](../L/Lhûn.md) and into [Eriador](../E/Eriador.md), he established the realm of [Arnor](../A/Arnor.md).
+Sau [Sự sụp đổ của Númenor](Downfall_of_Númenor.md), [Những người lưu vong của Númenor](../E/Exiles_of_Númenor.md), do [Elendil](../E/Elendil.md)lãnh đạo, đã thành lập [Các vương quốc lưu vong](../R/Realms_in_Exile.md) của [Arnor](../A/Arnor.md) và [Gondor](../G/Gondor.md). Sau khi vượt sông [Lhûn](../L/Lhûn.md) vào [Eriador](../E/Eriador.md), ông đã thành lập vương quốc [Arnor](../A/Arnor.md).
 
-The Exiles dwelt throughout [Eriador](../E/Eriador.md), especially along the [Lhûn](../L/Lhûn.md) and the [Baranduin](../B/Baranduin.md); but their "chief city was at [Annúminas](../A/Annúminas.md) beside Lake [Nenuial](../N/Nenuial.md). At [Fornost](../F/Fornost.md) upon the [North Downs](../N/North_Downs.md) also the Númenóreans dwelt, and in [Cardolan](../C/Cardolan.md), and in the hills of [Rhudaur](../R/Rhudaur.md); and towers they raised upon [Emyn Beraid](../E/Emyn_Beraid.md) and upon [Amon Sûl](../A/Amon_Sûl.md)".<sup id="cite_ref-rings_3-0" class="reference"><a href="#cite_note-rings-3">[3]</a></sup>
+Những người lưu vong cư trú khắp [Eriador](../E/Eriador.md), đặc biệt dọc theo [Lhûn](../L/Lhûn.md) và [Baranduin](../B/Baranduin.md); nhưng "thành phố chính của họ ở [Annúminas](../A/Annúminas.md) bên cạnh Hồ [Nenuial](../N/Nenuial.md). Tại [Fornost](../F/Fornost.md) trên [North Downs](../N/North_Downs.md) cũng có người Númenor cư trú, và ở [Cardolan](../C/Cardolan.md), và trên những ngọn đồi [Rhudaur](../R/Rhudaur.md); và những tòa tháp họ dựng lên trên [Emyn Beraid](../E/Emyn_Beraid.md) và trên [Amon Sûl](../A/Amon_Sûl.md)".<sup id="cite_ref-rings_3-0" class="reference"><a href="#cite_note-rings-3">[3]</a></sup>
 
-The Men of Arnor were always less powerful and populous than the [Gondorians](../G/Gondorians.md), despite them having precedence over their southern kin as the seat of the [High King](<../H/High_King_(Dúnedain).md>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Con Người của Arnor luôn kém mạnh mẽ và đông dân hơn so với [người Gondor](../G/Gondorians.md), mặc dù họ được ưu tiên hơn họ hàng phía nam với tư cách là trụ sở của [Đại Vương](<../H/High_King_(Dúnedain).md>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-### Decline {#Decline}
+### Từ chối {#Decline}
 
-Originally ruled by their [High King](<../H/High_King_(Dúnedain).md>), the Dúnedain in Arnor became a separate entity from their [southern kin](Dunedain_of_the_South.md) following the death of [Isildur](../I/Isildur.md), son of [Elendil](../E/Elendil.md), in [T.A.](../T/Third_Age.md) [2](../T/Third_Age_2.md).<sup id="cite_ref-rings_3-1" class="reference"><a href="#cite_note-rings-3">[3]</a></sup><sup id="cite_ref-AppB_5-0" class="reference"><a href="#cite_note-AppB-5">[5]</a></sup>
+Ban đầu được cai trị bởi [Đại Vương](<../H/High_King_(Dúnedain).md>)của họ, Dúnedain ở Arnor đã trở thành một thực thể riêng biệt với [họ hàng phía nam](Dunedain_of_the_South.md) của họ sau cái chết của [Isildur](../I/Isildur.md), con trai của [Elendil](../E/Elendil.md), ở [T.A.](../T/Third_Age.md) [2](../T/Third_Age_2.md).<sup id="cite_ref-rings_3-1" class="reference"><a href="#cite_note-rings-3">[3]</a></sup><sup id="cite_ref-AppB_5-0" class="reference"><a href="#cite_note-AppB-5">[5]</a></sup>
 
-When [Valandil](<../V/Valandil_(King_of_Arnor).md>), [Isildur](../I/Isildur.md)'s youngest son, took up his rule in [Annúminas](../A/Annúminas.md), the Men of Arnor were diminished; there were too few Númenóreans and [Men of Eriador](../M/Men_of_Eriador.md) to populate and maintain the land developed and built by the [Exiles](../E/Exiles_of_Númenor.md). This is because many Men of Arnor had died in the [War of the Last Alliance](../W/War_of_the_Last_Alliance.md) and at the [Disaster of the Gladden Fields](Disaster_of_the_Gladden_Fields.md).<sup id="cite_ref-rings_3-2" class="reference"><a href="#cite_note-rings-3">[3]</a></sup>
+Khi [Valandil](<../V/Valandil_(King_of_Arnor).md>), con trai út của [Isildur](../I/Isildur.md), nắm quyền cai trị ở [Annúminas](../A/Annúminas.md), Con Người của Arnor bị giảm đi; có quá ít người Númenor và [Con Người Eriador](../M/Men_of_Eriador.md) để sinh sống và duy trì vùng đất do [Những người lưu vong](../E/Exiles_of_Númenor.md) phát triển và xây dựng. Điều này là do nhiều Con Người Arnor đã chết trong [Cuộc chiến của Liên minh Cuối cùng](../W/War_of_the_Last_Alliance.md) và tại [Thảm họa Cánh đồng Gladden](Disaster_of_the_Gladden_Fields.md).<sup id="cite_ref-rings_3-2" class="reference"><a href="#cite_note-rings-3">[3]</a></sup>
 
-After the reign of <a class="mw-redirect mw-disambig" href="../E/Eärendur.md" title="Eärendur">Eärendur</a>, the Dúnedain of the North became divided into the petty realms of [Arthedain](../A/Arthedain.md), [Cardolan](../C/Cardolan.md), and [Rhudaur](../R/Rhudaur.md), owing to dissensions among his sons.<sup id="cite_ref-rings_3-3" class="reference"><a href="#cite_note-rings-3">[3]</a></sup><sup id="cite_ref-eriador_6-0" class="reference"><a href="#cite_note-eriador-6">[6]</a></sup>
+Sau triều đại của <a class="mw-redirect mw-disambig" href="../E/Eärendur.md" title="Eärendur">Eärendur</a>, Dúnedain phương Bắc bị chia cắt thành các vương quốc nhỏ [Arthedain](../A/Arthedain.md), [Cardolan](../C/Cardolan.md)và [Rhudaur](../R/Rhudaur.md)do sự bất hòa giữa các con trai của ông.<sup id="cite_ref-rings_3-3" class="reference"><a href="#cite_note-rings-3">[3]</a></sup><sup id="cite_ref-eriador_6-0" class="reference"><a href="#cite_note-eriador-6">[6]</a></sup>
 
-### Conflicts with Angmar {#Conflicts_with_Angmar}
+### Xung đột với Angmar {#Conflicts_with_Angmar}
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a class="mw-redirect" href="../A/Angmar_War.md" title="Angmar War">Angmar War</a></b></div></div>
 

@@ -43,7 +43,7 @@ infobox:
 ## Nội dung {#Contents}
 
 - Ghi chú của nhà xuất bản
-Chiếc nhẫn ma thuật của - Tolkien, của [Peter S. Beagle](../P/Peter_S._Beagle.md)
+Phép thuật của - Tolkien Nhẫn, bởi [Peter S. Beagle](../P/Peter_S._Beagle.md)
 - [Con trai của Beorhtnoth Beorhthelm trở về quê hương](The_Homecoming_of_Beorhtnoth.md)
 - [Ofermod](../O/Ofermod.md)
 - *[Tree and Leaf](Tree_and_Leaf.md)*

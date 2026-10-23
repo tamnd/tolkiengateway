@@ -171,7 +171,7 @@ Một ấn bản mở rộng đã được xuất bản trong tháng Chín [2008
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1998](../_/1998.md)), trang 192. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103431">ISBN 0261103431</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([2002](../_/2002.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007149123">ISBN 0007149123</a> - (bìa dựa trên tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md))
     - Ấn bản bìa mềm năm 2002, ấn bản thứ 5
-- [HarperCollins](../H/HarperCollins.md) bìa cứng ([2008](../_/2008.md)), trang 432. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007257546">ISBN 0007257546</a> - (ấn bản mở rộng, minh họa bởi [Alan Lee](../A/Alan_Lee.md))
+- [HarperCollins](../H/HarperCollins.md) bìa cứng ([2008](../_/2008.md)), trang 432. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007257546">ISBN 0007257546</a> - (ấn bản mở rộng, được minh họa bởi [Alan Lee](../A/Alan_Lee.md))
 - [HarperCollins](../H/HarperCollins.md) bìa cứng có nắp trượt ([2008](../_/2008.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/000728618X">ISBN 000728618X</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([2009](../_/2009.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007280599">ISBN 0007280599</a>
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2021](../_/2021.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008453349">ISBN 0008453349</a>

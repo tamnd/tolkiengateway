@@ -22,7 +22,7 @@ Trong [Dagor Bragollach](../D/Dagor_Bragollach.md) Vua [Finrod](../F/Finrod.md) 
 
 Trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), chính nhờ Đèo Sirion mà [Turgon](../T/Turgon.md) đã dẫn đạo quân chính của [Gondolin](../G/Gondolin.md) về phía bắc tham chiến, và sau đó lại dẫn về phía nam khi rút lui. Trong cuộc rút lui đó [Huor](../H/Huor.md) đã thành lập một hậu quân ở phía nam Đầm lầy Serech và kháng cự cho đến khi tất cả người của mình trừ một người bị giết. Người đó chính là [Húrin](../H/Húrin.md) đã bị bắt và đưa đến [Angband](../A/Angband.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-[Glaurung](../G/Glaurung.md) [con rồng](../D/Dragons.md) đã đi qua Đèo Sirion và làm ô uế vùng nước của [Eithel Ivrin](../E/Eithel_Ivrin.md) trên đường đến [Nargothrond](../N/Nargothrond.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+[Glaurung](../G/Glaurung.md) [con rồng](../D/Dragons.md) đã đi qua Đèo Sirion và làm ô uế vùng nước của [Eithel Ivrin](../E/Eithel_Ivrin.md) trên đường tới [Nargothrond](../N/Nargothrond.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

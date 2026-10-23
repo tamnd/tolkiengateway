@@ -63,7 +63,7 @@ Cái tên này cũng có thể lấy cảm hứng từ hai Orc [Shagrat](../S/Sh
 
 Trong video chơi trò chơi alpha, Ratbag ban đầu là một [uruk](../O/Orcs.md) được gọi là **Ratbag Kẻ tích trữ thịt**, người mà [Talion](../T/Talion.md) phải thống trị để tìm ra vị trí của Thống chiến.
 
-Có một Easter egg [Trung Địa: Bóng Tối của Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md) trong đó nếu Talion không có được Nemesis vào thời điểm tấn công [Ered Glamhoth](../E/Ephel_Dúath.md), thì Ratbag the Coward sẽ đóng vai trò thay thế cho Nemesis. Điều kỳ lạ là phiên bản Ratbag này được lồng tiếng bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=William_Dwight_Schultz&amp;action=edit&amp;redlink=1" title="William Dwight Schultz (page does not exist)">William Dwight Schultz</a> chứ không phải [Phillip LaMarr](../P/Phillip_LaMarr.md).
+Có một Easter egg [Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md) trong đó nếu Talion không có được Nemesis vào thời điểm tấn công [Ered Glamhoth](../E/Ephel_Dúath.md), thì Ratbag the Coward sẽ đóng vai trò thay thế cho Nemesis. Điều kỳ lạ là phiên bản Ratbag này được lồng tiếng bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=William_Dwight_Schultz&amp;action=edit&amp;redlink=1" title="William Dwight Schultz (page does not exist)">William Dwight Schultz</a> chứ không phải [Phillip LaMarr](../P/Phillip_LaMarr.md).
 
 <span></span>
 

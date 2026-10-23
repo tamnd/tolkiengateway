@@ -66,6 +66,6 @@ infobox:
 - **42** NGƯỜI ĐÀN ÔNG MẶT NẠ SẮT
     - Sala Baker người New Zealand đã rất vui mừng khi The Lord of the Rings các nhà làm phim loại anh ta khỏi hàng ngũ diễn viên đóng thế và diễn viên "nền" để đe dọa Sauron, nhân vật phản diện cuối cùng của bộ ba phim.
 - **48** VẬT PHẨM - Tiên Vũ khí và Áo giáp
-    - Vũ khí và áo giáp được tạo ra cho các chiến binh Tiên The Fellowship of the Ring và The Two Towers nổi bật với sự khởi sắc giàu trí tưởng tượng và sự chú ý tỉ mỉ đến từng chi tiết, đánh dấu mọi thứ do Richard Taylor và Weta Workshop tạo ra.
-- **60** The Lord of the Rings NGƯỜI Kể chuyện
+    - Vũ khí và áo giáp được tạo ra cho các chiến binh Tiên của The Fellowship of the Ring và The Two Towers nổi bật với sự khởi sắc giàu trí tưởng tượng và sự chú ý tỉ mỉ đến từng chi tiết, đánh dấu mọi thứ do Richard Taylor và Weta Workshop tạo ra.
+- **60** The Lord of the Rings NGƯỜI Kể Chuyện
 Người đam mê     - J.R.R. Tolkien Brian Sibley nói về cuốn sách mới nhất của anh ấy về bộ ba The Lord of the Rings, thời gian ở New Zealand và thư từ của anh ấy với Giáo sư vĩ đại.

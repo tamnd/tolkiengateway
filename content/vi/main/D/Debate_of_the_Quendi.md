@@ -13,7 +13,7 @@ categories:
   - "First Age"
 ---
 
-**Cuộc tranh luận lớn về Quendi** là sự kiện của một phiên bản muộn và chưa hoàn thiện của [huyền thoại](../L/Legendarium.md), được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong khi sửa đổi những ngày quan trọng của [Những năm Valian](../V/Valian_Years.md).
+**Cuộc tranh luận lớn về Quendi** là sự kiện của phiên bản muộn và chưa hoàn thiện của [huyền thoại](../L/Legendarium.md), được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong khi sửa đổi các ngày quan trọng của [Năm Valian](../V/Valian_Years.md).
 
 ## Lịch sử {#History}
 

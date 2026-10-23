@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ná-"
 ---
 
-Chuyển hướng tới [Ná-](Ná-.md).
+Chuyển hướng đến [Ná-](Ná-.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Horses"
 ---
 
-Chuyển hướng đến [Ngựa](../H/Horses.md).
+Chuyển hướng tới [Ngựa](../H/Horses.md).

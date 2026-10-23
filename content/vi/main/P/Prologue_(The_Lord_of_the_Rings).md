@@ -43,15 +43,15 @@ Giải thích về niềm đam mê của [Hobbit](../H/Hobbits.md)với [cỏ �
 
 Mô tả sự phân chia của [The Shire](../T/The_Shire.md) ([Bắc](../N/Northfarthing.md), [Nam](../S/Southfarthing.md), [phương Đông](../E/Eastfarthing.md) và [Westfarthings](../W/Westfarthing.md); với [Buckland](../B/Buckland.md) và [Westmarch](../W/Westmarch.md)), cũng như sự cai trị của The Shire ( [Thain](../T/Thain.md), [Thị trưởng Michel Delving](../M/Mayor_of_Michel_Delving.md) và [Cảnh sát](../S/Shirriffs.md)).
 
-### Về việc tìm thấy chiếc nhẫn {#Of_the_Finding_of_the_Ring}
+### Về việc tìm thấy Nhẫn {#Of_the_Finding_of_the_Ring}
 
-Bao gồm các chương trong *[The Hobbit](../T/The_Hobbit.md)* đề cập đến việc [Bilbo](../B/Bilbo_Baggins.md)tìm thấy [Chiếc nhẫn duy nhất](../O/One_Ring.md).
+Bao gồm các chương trong *[The Hobbit](../T/The_Hobbit.md)* đề cập đến việc [Bilbo](../B/Bilbo_Baggins.md)tìm thấy [Một Nhẫn](../O/One_Ring.md).
 
 ### Lưu ý về bản ghi Shire {#Note_on_the_Shire_Records}
 
 Chi tiết tài liệu trong [The Shire](../T/The_Shire.md) về lịch sử của [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
 
-Toàn bộ phần này chỉ được đưa vào Phần mở đầu với ấn bản thứ hai của *The Lord of the Rings*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Toàn bộ phần này chỉ được đưa vào Phần mở đầu với phiên bản thứ hai của *The Lord of the Rings*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử sáng tác {#History_of_composition}
 

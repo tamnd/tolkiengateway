@@ -53,7 +53,7 @@ images:
 - Tiểu luận
     - *Tầm quan trọng của Christopher Tolkien trong lịch sử The Lord of the Rings* - Lucas Zembrzuski
     - *Những chi tiết kín đáo như vậy: những thay đổi được thực hiện bởi J.R.R. Tolkien giữa phiên bản 1 và 2 của The Lord of the Rings* - Damien Bador
-    - *Tác động tâm lý của Chiếc nhẫn chúa* - Marion Lucibello
+    - *Tác động tâm lý của The One Nhẫn* - Marion Lucibello
     - *Hy vọng ngu ngốc: bản chất của Hy vọng trong The Lord of the Rings* - Elisabeth Laneyrie
     - *Minh họa một nàng công chúa The Lord of the Rings: Ingahild Grathmer, Eric Fraser và Hội Folio* - Marie Bretagnolle
 - Thư giãn

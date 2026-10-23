@@ -48,7 +48,7 @@ Sự phát triển của *Ainulindalë* từ phiên bản trước đó đến p
 
 Qua các tập *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)* có đề cập đến chín bản viết tay khác nhau về huyền thoại Sáng tạo, một số trong đó chỉ là bản sao hoặc bản nháp đơn giản. Dưới đây là danh sách các văn bản chính được đưa ra bởi Christopher. Thông tin chi tiết về thành phần của chúng có thể được đọc trong mỗi bài viết:
 
-- [Bản Âm nhạc của các Ainur](../T/The_Music_of_the_Ainur.md#The_Music_of_the_Ainur), được viết từ tháng 11 [1918](../_/1918.md) đến mùa xuân [1920](../_/1920.md). Được xuất bản trong *[The Book of Lost Tales Part One](../T/The_Book_of_Lost_Tales_Part_One.md)*.
+- [The Âm nhạc của các Ainur](../T/The_Music_of_the_Ainur.md#The_Music_of_the_Ainur), được viết từ tháng 11 [1918](../_/1918.md) đến mùa xuân [1920](../_/1920.md). Được xuất bản trong *[The Book of Lost Tales Part One](../T/The_Book_of_Lost_Tales_Part_One.md)*.
 - [*Ainulindalë* B](<Ainulindalë_(Lost_Road).md>), được viết vào cuối [1930](../_/1930.md). Được xuất bản trong *[The Lost Road and Other Writings](../T/The_Lost_Road_and_Other_Writings.md)*.
 - [*Ainulindalë* C\*](<Ainulindalë_(Morgoth's_Ring).md#Ainulindalë_C*>), được viết bằng [1948](../_/1948.md). Được xuất bản trong *[Morgoth's Ring](../M/Morgoth's_Ring.md)*.
 - [*Ainulindalë*C](<Ainulindalë_(Morgoth's_Ring).md#Ainulindalë_C>), viết muộn [1948](../_/1948.md). Được xuất bản trong *[Morgoth's Ring](../M/Morgoth's_Ring.md)*.

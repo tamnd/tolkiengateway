@@ -47,7 +47,7 @@ infobox:
 
 - Gottlieb, Stephen A. “Đọc về chu kỳ Arthurian của Williams.” 3-6.
 - Patterson, Nancy-Lou. “Narnia và phương Bắc: Biểu tượng của phương Bắc trong tưởng tượng của C.S. Lewis.” 9-16.
-- Green, William H. “Chiếc nhẫn ở trung tâm: Eaca ở *The Lord of the Rings*.” 17-19.
+- Green, William H. “ Nhẫn ở trung tâm: Eaca ở *The Lord of the Rings*.” 17-19.
 
 #### Tính năng {#Features}
 

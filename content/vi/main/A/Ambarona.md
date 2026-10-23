@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fangorn Forest"
 ---
 
-Chuyển hướng tới [Rừng Fangorn](../F/Fangorn_Forest.md).
+Chuyển hướng đến [Rừng Fangorn](../F/Fangorn_Forest.md).

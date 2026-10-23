@@ -73,11 +73,11 @@ Trong những phiên bản đầu của <a class="mw-redirect mw-disambig" href=
 
 <dl><dd>The first Hobbit outside <a href="Bag_End.md" title="Bag End">Bag End</a> recounts the story of Bandobras, followed by the accusations that young hobbits do not know enough about their history.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
 <dl><dd>In the evil campaign, the Goblins lay siege (and conquer) the Shire as part of their revenge; the Battle of Greenfields is not yet forgotten.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>In the <a class="external text" href="https://lotro-wiki.com/wiki/Category:Shire_Epic_Prologue_Quests" rel="noreferrer noopener" target="_blank">Shire Epic Prologue Quests</a>, a group of <a class="mw-redirect" href="../G/Goblins.md" title="Goblins">Goblins</a> led by <a class="external text" href="https://lotro-wiki.com/wiki/Lubach" rel="noreferrer noopener" target="_blank">Lubach</a>, were convinced by <a class="external text" href="https://lotro-wiki.com/wiki/Éogan" rel="noreferrer noopener" target="_blank">Éogan</a> to invade the Shire by claiming that Lubach was the heir of Golfimbul.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></dd></dl>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Poland"
 ---
 
-Chuyển hướng tới [Danh mục:Ba Lan](../../category/P/Poland.md).
+Chuyển hướng đến [Danh mục:Ba Lan](../../category/P/Poland.md).

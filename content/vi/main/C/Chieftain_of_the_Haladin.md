@@ -27,6 +27,6 @@ Cô ấy không chỉ Haleth cứu người của mình mà còn dẫn họ đ�
 5. **[Halmir](../H/Halmir.md)**, [F.A.](../F/First_Age.md) [451](../F/First_Age_451.md)–[471](../F/First_Age_471.md)
 6. **[Haldir](<../H/Haldir_(Chieftain_of_the_Haladin).md>)**, [F.A.](../F/First_Age.md) [471](../F/First_Age_471.md)–[472](../F/First_Age_472.md)
 7. **[Handir](../H/Handir.md)**, [F.A.](../F/First_Age.md) [472](../F/First_Age_472.md)–[495](../F/First_Age_495.md)
-8. **[Brandir Kẻ Què](../B/Brandir_the_Lame.md)**, [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md)–[499](../F/First_Age_499.md)
+8. **[Brandir Kẻ què](../B/Brandir_the_Lame.md)**, [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md)–[499](../F/First_Age_499.md)
 9. **[Hardang](../H/Hardang.md)**, [F.A.](../F/First_Age.md) [499](../F/First_Age_499.md)–[501](../F/First_Age_501.md)
 10. **[Avranc](../A/Avranc.md)**, [F.A.](../F/First_Age.md) [501](../F/First_Age_501.md)–[F.A.](../F/First_Age.md)???

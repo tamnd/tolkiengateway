@@ -55,7 +55,7 @@ infobox:
 
 - Patterson, Nancy-Lou. “Nghệ thuật và hiện thực.” (Đánh giá *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.) 27-28.
 - Patterson, Nancy-Lou. “Lewis Số Hai.” (Đánh giá *The Visionary Christian*.) 28-29.
-- Yates, Jessica. “Arthur của Boorman.” (Bài đánh giá về *Excalibur* của John Boorman.) 28-29.
+- Yates, Jessica. “Arthur của Boorman.” (Đánh giá về *Excalibur* của John Boorman.) 28-29.
 - Speth, Lee. “Điều trị ung dung: Thanh kiếm Ethandune.” (Đánh giá về *The Ballad of the White Horse* của G.K. Chesterton.) 32-33.
 
 #### Tính năng khác {#Other_Features}

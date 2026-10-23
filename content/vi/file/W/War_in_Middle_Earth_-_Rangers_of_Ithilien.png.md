@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Rangers của Ithilien](../../main/R/Rangers_of_Ithilien.md) trong Cuộc chiến ở Trung Địa của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
+[Rangers của Ithilien](../../main/R/Rangers_of_Ithilien.md) trong [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
 
 ## Giấy phép {#Licensing}
 

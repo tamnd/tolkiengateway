@@ -30,7 +30,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien rất vui vì Lanier đã nhận được giải thưởng nhưng không ngạc nhiên khi nó tỏ ra vô dụng. Anh cũng từng thất vọng tương tự khi một người hâm mộ gửi cho anh một chiếc cốc uống nước có khắc dòng chữ khủng khiếp từ [the Ring](../T/The_One_Ring.md). Anh ta không bao giờ uống rượu mà thay vào đó dùng nó để làm tro thuốc lá. <br>
+Tolkien rất vui vì Lanier đã nhận được giải thưởng nhưng không ngạc nhiên khi nó tỏ ra vô dụng. Anh cũng từng thất vọng tương tự khi một người hâm mộ gửi cho anh một chiếc cốc uống nước có khắc dòng chữ khủng khiếp từ [the Nhẫn](../T/The_One_Ring.md). Anh ta không bao giờ uống rượu mà thay vào đó dùng nó để làm tro thuốc lá. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

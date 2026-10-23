@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Firienholt"
 ---
 
-Chuyển hướng đến [Firienholt](../F/Firienholt.md).
+Chuyển hướng tới [Firienholt](../F/Firienholt.md).

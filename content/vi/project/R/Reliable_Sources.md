@@ -36,7 +36,7 @@ Danh sách **nguồn đáng tin cậy** và **nguồn không đáng tin cậy** 
 ### Ấn phẩm {#Publications}
 
 - *[The History of The Hobbit](../../main/T/The_History_of_The_Hobbit.md)* bởi [John D. Rateliff](../../main/J/John_D._Rateliff.md)
-- *[J.R.R. Tolkien: A Descriptive Bibliography](../../main/J/J.R.R._Tolkien%253A_A_Descriptive_Bibliography.md)* của [Wayne G. Hammond](../../main/W/Wayne_G._Hammond.md) và [Douglas A. Anderson](../../main/D/Douglas_A._Anderson.md)
+- *[J.R.R. Tolkien: A Descriptive Bibliography](../../main/J/J.R.R._Tolkien%253A_A_Descriptive_Bibliography.md)* bởi [Wayne G. Hammond](../../main/W/Wayne_G._Hammond.md) và [Douglas A. Anderson](../../main/D/Douglas_A._Anderson.md)
 - *[J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)* bởi [Wayne G. Hammond](../../main/W/Wayne_G._Hammond.md) và [Christina Scull](../../main/C/Christina_Scull.md)
 - *[J.R.R. Tolkien: Tiểu sử](../../main/J/J.R.R._Tolkien%253A_A_Biography.md) của [Humphrey Carpenter](../../main/H/Humphrey_Carpenter.md)*
 - *[The J.R.R. Tolkien Companion and Guide](../../main/T/The_J.R.R._Tolkien_Companion_and_Guide.md)* bởi [Wayne G. Hammond](../../main/W/Wayne_G._Hammond.md) và [Christina Scull](../../main/C/Christina_Scull.md)
@@ -55,11 +55,11 @@ Danh sách **nguồn đáng tin cậy** và **nguồn không đáng tin cậy** 
 
 - <a class="external text" href="http://www.theonering.net" rel="noreferrer noopener" target="_blank">TheOneRing.net</a>
 - <a class="external text" href="http://www.tolkienguide.com" rel="noreferrer noopener" target="_blank">Tolkien Hướng dẫn sưu tầm</a>
-- <a class="external text" href="http://www.tolkienlibrary.net" rel="noreferrer noopener" target="_blank">Tolkien Thư viện</a>
+- <a class="external text" href="http://www.tolkienlibrary.net" rel="noreferrer noopener" target="_blank">Tolkien Library</a>
 
 ### Ấn phẩm {#Publications_2}
 
-- *[An Introduction to Elvish](../../main/A/An_Introduction_to_Elvish.md)* của [Jim Allan](../../main/J/Jim_Allan.md)
+- *[An Introduction to Elvish](../../main/A/An_Introduction_to_Elvish.md)* bởi [Jim Allan](../../main/J/Jim_Allan.md)
 - *[The Atlas of Middle-earth](../../main/T/The_Atlas_of_Middle-earth.md)* bởi [Karen Wynn Fonstad](../../main/K/Karen_Wynn_Fonstad.md)
 
 ## Không đáng tin cậy {#Unreliable}
@@ -71,7 +71,7 @@ Danh sách **nguồn đáng tin cậy** và **nguồn không đáng tin cậy** 
 ### Ấn phẩm {#Publications_3}
 
 - *[The Languages of Tolkien's Middle-earth](../../main/T/The_Languages_of_Tolkien's_Middle-earth.md)* bởi [Ruth S. Noel](../../main/R/Ruth_S._Noel.md)
-- *[The Lord of the Rings: Weapons and Warfare](../../main/T/The_Lord_of_the_Rings%253A_Weapons_and_Warfare.md)* của [Chris Smith](../../main/C/Chris_Smith.md) (để biết Tolkien thông tin)
+- *[The Lord of the Rings: Weapons and Warfare](../../main/T/The_Lord_of_the_Rings%253A_Weapons_and_Warfare.md)* bởi [Chris Smith](../../main/C/Chris_Smith.md) (để biết thông tin về Tolkien)
 - *[Tolkien: The Illustrated Encyclopedia](../../main/T/Tolkien%253A_The_Illustrated_Encyclopedia.md)* của [David Day](../../main/D/David_Day.md) (hoặc bất kỳ tác phẩm nào khác của tác giả này)
 
 ## Xem thêm {#See_also}

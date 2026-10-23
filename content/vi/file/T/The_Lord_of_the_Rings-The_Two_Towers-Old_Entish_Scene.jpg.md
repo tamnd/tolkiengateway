@@ -23,7 +23,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Treebeard hướng tới người Hobbit.
+Treebeard hướng tới người hobbit.
 
 ## Giấy phép {#Licensing}
 

@@ -20,9 +20,9 @@ images:
 - [Dagnir](../D/Dagnir.md), một người đàn ông [Dorthonion](../D/Dorthonion.md), tên được dịch là "tai họa".
 - **[Tai họa của Durin](../D/Durin's_Bane.md), Balrog của [Moria](../M/Moria.md).**
 Tai ương của - [Glaurung](../G/Glaurung.md), [Túrin Turambar](../T/Túrin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-Tai ương của - **[Isildur](../I/Isildur.md), [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).**
+Tai ương của - **[Isildur](../I/Isildur.md), [Người duy nhất Nhẫn](../T/The_One_Ring.md).**
 - Mansbane, tên được đặt cho [Felaróf](../F/Felaróf.md) bởi [Eorl](../E/Eorl.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- Tai họa của chủ nhân, tên được đặt cho [Người tuyết](../S/Snowmane.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tai ương của - Chủ nhân, tên được đặt cho [Người Tuyết](../S/Snowmane.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - Tai họa của Troll, cái tên do [Peregrin Took](../P/Peregrin_Took.md) đặt cho thanh kiếm của hắn.
 
 <hr style="margin-top:15px;"/>

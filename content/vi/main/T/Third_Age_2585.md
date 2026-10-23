@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cái chết của [Vua](../K/Kings_of_Durin's_Folk.md) [Náin II](../N/Náin_II.md).<sup id="cite_ref-Durin_1-0" class="reference"><a href="#cite_note-Durin-1">[1]</a></sup>
-- [Dáin I](../D/Dáin_I.md), con trai của Náin II, trở thành Vua của [Dân tộc Durin](../D/Durin's_Folk~15256.md).<sup id="cite_ref-Durin_1-1" class="reference"><a href="#cite_note-Durin-1">[1]</a></sup>
+- [Dáin I](../D/Dáin_I.md), con trai của Náin II, trở thành Vua của [Dân gian Durin](../D/Durin's_Folk~15256.md).<sup id="cite_ref-Durin_1-1" class="reference"><a href="#cite_note-Durin-1">[1]</a></sup>
 
 <span></span>
 

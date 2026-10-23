@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wilcome Cotton (disambiguation)"
 ---
 
-Chuyển hướng tới [Wilcome Cotton (định hướng)](<Wilcome_Cotton_(disambiguation).md>).
+Chuyển hướng đến [Wilcome Cotton (định hướng)](<Wilcome_Cotton_(disambiguation).md>).

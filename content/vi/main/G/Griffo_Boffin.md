@@ -54,7 +54,7 @@ Griffo là con trai của [Gruffo Boffin](Gruffo_Boffin.md). Anh kết hôn vớ
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Griffo Boffin is the youngest of the eight children of Prisca Boffin and is met at several family gatherings attended by their first cousin Bingo Boffin. He is also of the assistants to Mayor <a href="../W/Will_Whitfoot.md" title="Will Whitfoot">Will Whitfoot</a>.</dd></dl>
 

@@ -21,7 +21,7 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-[Nguyên thủy Elvish](Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kwaene&amp;action=edit&amp;redlink=1" title="Kwaene (page does not exist)">kwaene</a></i> [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=KW%C4%80&amp;action=edit&amp;redlink=1" title="KWĀ (page does not exist)">KWĀ</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+[Primitive Elvish](Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kwaene&amp;action=edit&amp;redlink=1" title="Kwaene (page does not exist)">kwaene</a></i> [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=KW%C4%80&amp;action=edit&amp;redlink=1" title="KWĀ (page does not exist)">KWĀ</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

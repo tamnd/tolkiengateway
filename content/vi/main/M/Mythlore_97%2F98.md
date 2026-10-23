@@ -48,7 +48,7 @@ infobox:
 - Searle, Alison. "Sự thật kỳ diệu, Quê hương hay Nơi khác? 'Thời Trung cổ' tưởng tượng trong C.S. Lewis."
 - Donnelly, Colleen. "Các giá trị phong kiến, chư hầu và lòng trung thành trong *The Lord of the Rings*."
 - Fredrick, Candice và Sam McBride. "Chiến đấu với Nữ chiến binh: Nữ giới và Chiến đấu trong Tolkien và Lewis."
-- Người ấp nở, Melissa McCrory. "Đi tìm vai trò của phụ nữ trong *The Lord of the Rings.*"
+- Người ấp trứng, Melissa McCrory. "Đi tìm vai trò của phụ nữ trong *The Lord of the Rings.*"
 - Hall, R.D. "Qua lăng kính đen tối: *Lord of the Rings* của Jackson trong vai Nỗi kinh hoàng đáng kinh ngạc."
 - Harl, Allison. "Sự quái dị của cái nhìn: Những vấn đề nghiêm trọng với việc chuyển thể phim *The Lord of the Rings*."
 - Carter, Susan. "Galadriel và Morgan le Fey: Tolkien Sự cứu chuộc của Quý cô vùng Lacuna."

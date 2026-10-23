@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*[Boromir](../../main/B/Boromir.md)* của [Anna Lee](../../main/A/Anna_Lee.md).
+*[Boromir](../../main/B/Boromir.md)* bởi [Anna Lee](../../main/A/Anna_Lee.md).
 
 ## Giấy phép {#Licensing}
 

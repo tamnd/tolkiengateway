@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Fall of Arthur 2014 pb.png"
 ---
 
-Chuyển hướng đến [Tệp:Sự sụp đổ của Arthur 2014 pb.png](The_Fall_of_Arthur_2014_pb.png.md).
+Chuyển hướng đến [Tệp:The Fall of Arthur 2014 pb.png](The_Fall_of_Arthur_2014_pb.png.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vinya"
 ---
 
-Chuyển hướng tới [Vinya](../V/Vinya.md).
+Chuyển hướng đến [Vinya](../V/Vinya.md).

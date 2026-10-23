@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Saradoc](../../main/S/Saradoc_Brandybuck.md), Thạc sĩ Buckland - *[The Lord of the Rings: Tales of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md)*
+[Saradoc](../../main/S/Saradoc_Brandybuck.md), Chủ nhân của Buckland - *[The Lord of the Rings: Tales of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md)*
 
 ## Giấy phép {#Licensing}
 

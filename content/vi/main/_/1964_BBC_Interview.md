@@ -12,7 +12,7 @@ categories:
   - "Interviews with J.R.R. Tolkien"
 ---
 
-**1964 Phỏng vấn BBC** là một [cuộc phỏng vấn được ghi âm](../../index/A/Audio_recordings_of_J.R.R._Tolkien.md) gồm hai phần với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào [ngày 26 tháng 11](26_November.md), [1964](1964.md). Phần đầu tiên của cuộc phỏng vấn được thực hiện bởi Irene Slade cho chương trình phát thanh [BBC](../B/BBC.md) *Reluctant Olympians*. Phần còn lại của cuộc phỏng vấn thân mật hơn và được [Denys Gueroult](../D/Denys_Gueroult.md) thực hiện như một cuộc thử nghiệm cho một cuộc phỏng vấn chính thức sau này diễn ra vào năm 1965 (xem *[1965 BBC Interview](1965_BBC_Interview.md)*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**1964 BBC Phỏng vấn** là một [cuộc phỏng vấn được ghi âm](../../index/A/Audio_recordings_of_J.R.R._Tolkien.md) gồm hai phần với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào [ngày 26 tháng 11](26_November.md), [1964](1964.md). Phần đầu tiên của cuộc phỏng vấn được thực hiện bởi Irene Slade cho chương trình phát thanh [BBC](../B/BBC.md) *Reluctant Olympians*. Phần còn lại của cuộc phỏng vấn thân mật hơn và được [Denys Gueroult](../D/Denys_Gueroult.md) thực hiện như một cuộc thử nghiệm cho một cuộc phỏng vấn chính thức sau này diễn ra vào năm 1965 (xem *[1965 BBC Interview](1965_BBC_Interview.md)*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Trích xuất {#Extract}
 
@@ -60,7 +60,7 @@ D. Gueroult: Bạn đến Anh lúc mấy tuổi?
 
 J.R.R. Tolkien: Hình như… lúc đó tôi khoảng ba tuổi rưỡi. Tất nhiên là khá sâu sắc, bởi vì một trong những điều khiến mọi người nói rằng họ không nhớ là, nó giống như liên tục chụp cùng một thứ trên cùng một tấm ảnh. Những thay đổi nhỏ chỉ đơn giản là làm mờ đi. Nhưng nếu trẻ bị đột ngột như vậy là có ý thức. Những gì nó cố gắng làm là gắn những ký ức mới vào cái cũ. Tôi có một bức tranh sống động hoàn toàn rõ ràng về một ngôi nhà mà bây giờ tôi biết thực chất là một tác phẩm mô phỏng tuyệt đẹp của chính ngôi nhà của tôi ở Bloemfontein và nhà của bà tôi ở Birmingham. Tôi vẫn còn nhớ lúc đi xuống con đường ở Birmingham và tự hỏi chuyện gì đã xảy ra với phòng trưng bày lớn, chuyện gì đã xảy ra với ban công. Do đó tôi nhớ rất rõ mọi chuyện, tôi có thể nhớ việc tắm ở Ấn Độ Dương khi tôi chưa tròn hai tuổi và tôi nhớ rất rõ ràng.
 
-D. Gueroult: Frodo chấp nhận gánh nặng của Chiếc nhẫn và anh ta là hiện thân của đức tính chịu đựng và kiên trì lâu dài và bằng hành động của mình, người ta gần như có thể nói theo nghĩa Phật giáo rằng anh ta "có được công đức". Trên thực tế, anh ta gần như trở thành một nhân vật của Chúa Kitô. Tại sao bạn lại chọn Halfling, một người Hobbit cho vai diễn này?
+D. Gueroult: Frodo chấp nhận gánh nặng của Nhẫn và anh ấy là hiện thân của đức tính chịu đựng và kiên trì lâu dài và bằng hành động của mình, người ta gần như có thể nói theo nghĩa Phật giáo rằng anh ấy "có được công đức". Trên thực tế, anh ta gần như trở thành một nhân vật của Chúa Kitô. Tại sao bạn lại chọn Halfling, một người Hobbit cho vai diễn này?
 
 J.R.R. Tolkien: Tôi không có. Tôi không lựa chọn nhiều, tôi viết The Hobbit bạn thấy đấy… tất cả những gì tôi cố gắng làm là tiếp tục từ điểm mà The Hobbit đã dừng lại. Tôi đã có người Hobbit trong tay rồi phải không?
 

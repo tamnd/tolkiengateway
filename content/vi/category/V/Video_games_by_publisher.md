@@ -12,4 +12,4 @@ categories:
   - "Video games"
 ---
 
-Danh mục này và các danh mục con của nó liệt kê tất cả **Trò chơi điện tử theo nhà xuất bản** liên quan đến tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
+Danh mục này và các danh mục con của nó liệt kê tất cả **Trò chơi điện tử theo nhà xuất bản** liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) tác phẩm.

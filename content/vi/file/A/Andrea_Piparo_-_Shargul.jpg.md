@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Andrea Piparo - The Black Easterling.jpg"
 ---
 
-Chuyển hướng tới [Tệp:Andrea Piparo - The Black Easterling.jpg](Andrea_Piparo_-_The_Black_Easterling.jpg.md).
+Chuyển hướng đến [Tệp:Andrea Piparo - Màu đen Easterling.jpg](Andrea_Piparo_-_The_Black_Easterling.jpg.md).

@@ -76,10 +76,10 @@ infobox:
     - Bởi: Debi Haigh-Hutchinson
 - Tác phẩm nghệ thuật: *Hoo... Hoo... Tu-whit... Tu-whoo...*
     - Bởi: Mark Allaby
-- Truyện dân gian
+- Truyện dân ca
 - Toán học
     - Bởi: Gwyneth Morgan
 - Thư pháp và tác phẩm nghệ thuật bổ sung
-    - Bởi: Kirsty Beck, Bryan Glenet, Neil Loughran, Geraint Rees, Tom Sherry, David Phillips, Susanne Stopfel & Simon Jacobs
+    - By: Kirsty Beck, Bryan Glenet, Neil Loughran, Geraint Rees, Tom Sherry, David Phillips, Susanne Stopfel & Simon Jacobs
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 104</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_104.md" title="Amon Hen 104">Amon Hen 104</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 105</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 106</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_106.md" title="Amon Hen 106">Amon Hen 106</a></div></div></div>

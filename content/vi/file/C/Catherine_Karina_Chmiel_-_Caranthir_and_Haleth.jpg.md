@@ -25,11 +25,11 @@ file:
   user: "Ebakunin"
 ---
 
-## Art Analysis {#Art_Analysis}
+## Phân tích nghệ thuật {#Art_Analysis}
 
 <i><b>Caranthir và Haleth</b></i> của [Catherine Karina Chmiel](../../main/C/Catherine_Karina_Chmiel.md) là một tác phẩm tuyệt vời so sánh niềm kiêu hãnh bướng bỉnh của con người [Haleth](../../main/H/Haleth.md) với sự ngưỡng mộ lạnh lùng của người giải cứu cô, Tiên [Caranthir Bóng tối](../../main/C/Caranthir.md) tối cao. Tuy nhiên, đây là một vấn đề đáng chú ý. Trong cuộc đời của Haleth [người của cô](../../main/H/Haladin.md) đã vượt qua [Dãy Núi Xanh](../../main/B/Blue_Mountains.md) và gặp nhau lần đầu [High Elves](../../main/H/High_Elves.md). High Elves chịu trách nhiệm giảng dạy [Con Người](../../main/M/Men.md) nền văn hóa cao hơn, bao gồm cả nghề rèn. Haleth không thể mặc áo giáp như trong hình; có thể người của cô ấy không có áo giáp nào cả.
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Catherine Karina Chmiel</span></span>
 <p>This work is copyrighted and owned by Catherine Karina Chmiel. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:

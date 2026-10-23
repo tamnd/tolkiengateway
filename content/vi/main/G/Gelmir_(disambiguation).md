@@ -34,7 +34,7 @@ Hai [Tiên tộc](../E/Elves.md), sống trong thời [Kỷ Đệ Nhất](../F/F
 - [Gelmir (con trai Quế Lâm)](<Gelmir_(son_of_Guilin).md>), con trai [Quế Lâm](Guilin.md) bị người hầu của [Morgoth](../M/Morgoth.md)bắt tại [Dagor Bragollach](../D/Dagor_Bragollach.md).
 - [Gelmir (người đưa tin của Círdan)](<Gelmir_(messenger_of_Círdan).md>), một [Noldorin](../N/Noldor.md) [Tiên](../E/Elves.md) được gửi bởi [Círdan](../C/Círdan.md) với tư cách là người đưa tin tới [Nargothrond](../N/Nargothrond.md).
 
-## Các bài viết trước đây {#Earlier_writings}
+## Các bài viết trước đó {#Earlier_writings}
 
 Các nhân vật khác được đặt tên *Gelmir* trong các bài viết trước đó:
 

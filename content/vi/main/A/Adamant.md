@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nenya"
 ---
 
-Chuyển hướng tới [Nenya](../N/Nenya.md).
+Chuyển hướng đến [Nenya](../N/Nenya.md).

@@ -53,7 +53,7 @@ Faramir dành thời gian để cân nhắc những gì Frodo đã nói trước
 
 ## Sự khác biệt {#Differences}
 
-Trong sách, [Faramir](../F/Faramir.md) không lấy [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) thành [Osgiliath](Osgiliath.md). Khi phát hiện ra Frodo đang mang [Chiếc nhẫn](../T/The_One_Ring.md), anh ta đã nói với hai [Hobbit](../H/Hobbits.md) rằng anh ta sẽ không cố lấy nó,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và chia tay họ tại [Henneth Annûn](../H/Henneth_Annûn.md), nơi họ đi về phía [Thung lũng Morgul](../M/Morgul_Vale.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong sách, [Faramir](../F/Faramir.md) không lấy [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) thành [Osgiliath](Osgiliath.md). Khi phát hiện Frodo đang mang theo [cái Nhẫn](../T/The_One_Ring.md), anh ta đã nói với hai người [Hobbit](../H/Hobbits.md) rằng anh ta sẽ không cố lấy nó,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và chia tay họ tại [Henneth Annûn](../H/Henneth_Annûn.md), nơi họ đi về phía [Thung lũng Morgul](../M/Morgul_Vale.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Và ở rất xa... [Ngọn núi](../../main/L/Lonely_Mountain.md) hiện ra lờ mờ!" của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"Và ở rất xa... [Ngọn núi](../../main/L/Lonely_Mountain.md) hiện ra lờ mờ!" bởi [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

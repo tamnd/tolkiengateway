@@ -65,7 +65,7 @@ Bởi vì *fëar* của Con Người phải rời khỏi thế giới trong khi 
 
 ### Nửa yêu tinh {#Half-elves}
 
-Có ít nhất bốn cuộc hôn nhân giữa Tiên tộc và Con Người, dẫn đến những đứa con [Nửa Tiên](../H/Half-elven.md). Những người đã tiếp xúc với Valar được lựa chọn đánh số trong số Tiên tộc hoặc Con Người. Tất nhiên, sự lựa chọn này chủ yếu là một trong số *fëa*chứ không phải *hröa*. Ví dụ: [Lúthien Tinúviel](../L/Lúthien.md) đã chọn Định mệnh của Con Người nên *fëa* của cô ấy đã qua đời Arda và bị thất lạc với người thân của mình.
+Có ít nhất bốn cuộc hôn nhân giữa Tiên tộc và Con Người, dẫn đến những đứa con [Nửa Tiên](../H/Half-elven.md). Những người đã tiếp xúc với Valar được lựa chọn đánh số trong số Tiên tộc hoặc Con Người. Tất nhiên, sự lựa chọn này chủ yếu là một trong số *fëa*chứ không phải *hröa*. Ví dụ, [Lúthien Tinúviel](../L/Lúthien.md) đã chọn Số phận của Con Người, và do đó *fëa* của cô ấy đã qua đời Arda và bị thất lạc với người thân của mình.
 
 Trong số những người không tiếp xúc với Valar, chẳng hạn như (có thể) [Lãnh chúa của Dol Amroth](../L/Lord_of_Dol_Amroth.md), tỷ lệ tử vong của người Mannish dường như là trạng thái mặc định.
 

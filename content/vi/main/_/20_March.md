@@ -70,7 +70,7 @@ Sự kiện xảy ra vào ngày 20 tháng 3
 - **[1966](1966.md)** – Đạo diễn [Kenji Kamiyama](../K/Kenji_Kamiyama.md) ra đời.
 - **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 294b](../L/Letter_294b.md).
 - **[1968](1968.md)** – Diễn viên [Lawrence Makoare](../L/Lawrence_Makoare.md) ra đời.
-- **[1969](1969.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Amy Ronald](<../L/Letter_to_Amy_Ronald_(20_March_1969).md>).
+- **[1969](1969.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho Amy Ronald](<../L/Letter_to_Amy_Ronald_(20_March_1969).md>).
 - **[1997](1997.md)** – Người phiên dịch [Britt G. Hallqvist](../B/Britt_G._Hallqvist.md) qua đời.
 
 ## Trong Arda {#In_Arda}
@@ -78,6 +78,6 @@ Sự kiện xảy ra vào ngày 20 tháng 3
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
     - [Borondir](../B/Borondir.md) đang trên đường tìm kiếm [Éothéod](Éothéod.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đội [Đạo quân Phương Tây](../A/Army_of_the_West.md) tiến về phía [Cổng Đen](../B/Black_Gate.md).
+    - Đội [Đạo quân phương Tây](../A/Army_of_the_West.md) tiến về phía [Cổng Đen](../B/Black_Gate.md).
     - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) tiếp tục cuộc hành trình dọc theo con đường đến [Barad-dûr](../B/Barad-dûr.md).
     - [Faramir](../F/Faramir.md) gặp [Éowyn](Éowyn.md) tại [Nhà chữa bệnh](../H/Houses_of_Healing.md).

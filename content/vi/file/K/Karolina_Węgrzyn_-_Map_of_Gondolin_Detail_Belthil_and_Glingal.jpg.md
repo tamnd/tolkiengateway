@@ -31,7 +31,7 @@ file:
 
 Một chi tiết từ [Gondolin theo phong cách bản đồ giả tưởng](Karolina_Węgrzyn_-_Map_of_Gondolin_in_color_with_English_labels.jpg.md) của [Karolina Węgrzyn](https://tolkiengateway.net/wiki/User:Sirielle). Bạn có thể tìm thấy ảnh cận cảnh và các biến thể khác với mô tả chi tiết hơn về các lựa chọn được thực hiện khi xây dựng bản đồ này trong <a class="external text" href="https://sirielle.com" rel="noreferrer noopener" target="_blank">phần bản đồ sirielle.com</a>.
 
-Lưu ý - [Tháp của Vua](../../main/T/Tower_of_the_King.md) trong hình ảnh đã được di chuyển từ trung tâm Quảng trường của [Vua](../../main/S/Square_of_the_Palace.md) để trở thành một phần của cung điện, trở thành tòa tháp cao nhất trong số các tòa tháp của nó. Ban đầu Tháp Vua có lẽ là một tòa nhà riêng biệt ở trung tâm Quảng trường Vua.
+Lưu ý - [Tháp của Vua](../../main/T/Tower_of_the_King.md) trong hình ảnh đã được di chuyển từ trung tâm của [Vua Quảng trường](../../main/S/Square_of_the_Palace.md) để trở thành một phần của cung điện, trở thành tòa tháp cao nhất trong số các tòa tháp của cung điện. Ban đầu Tháp của Vua có lẽ là một tòa nhà riêng biệt ở trung tâm Quảng trường Vua.
 
 Ngoài ra còn có các biến thể của bản đồ này tại Tolkien Gateway trong *[Category:Images by Karolina Węgrzyn](../../category/I/Images_by_Karolina_Węgrzyn.md)*.
 

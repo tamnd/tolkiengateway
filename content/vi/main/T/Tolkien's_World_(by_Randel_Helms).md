@@ -51,7 +51,7 @@ Thông tin chi tiết về các phiên bản khác nhau.<sup id="cite_ref-1" cla
 
 ## Bìa sau {#Back_cover}
 
-Thế giới huyền diệu của [Tolkien](../J/J.R.R._Tolkien.md) [Trung Địa](../M/Middle-earth.md) - vùng đất nơi sinh sống của [thuốc lá](../P/Pipe-weed.md)hút thuốc lá, nấu rượu bia, các siêu anh hùng [Halfling](../H/Hobbits.md), các vị vua [Tiên](../E/Elves.md) lâu đời, những người du hành thời gian tụng kinh, [phù thủy](../I/Istari.md) thiên sai và [lãnh chúa chiến tranh](../S/Sauron.md) của quỷ satan - vẫn có phạm vi và tầm nhìn vô song và vượt trội về sức hấp dẫn và sự mê hoặc của nó đối với vô số hàng triệu người ở mọi lứa tuổi trên toàn thế giới.
+Thế giới huyền diệu của [Tolkien](../J/J.R.R._Tolkien.md) [Trung Địa](../M/Middle-earth.md) - vùng đất nơi sinh sống của [thuốc lá](../P/Pipe-weed.md) hút thuốc lá, nấu rượu bia, các siêu anh hùng [Halfling](../H/Hobbits.md), các vị vua [Tiên](../E/Elves.md) lâu đời, những người du hành thời gian tụng kinh, [phù thủy](../I/Istari.md) thiên sai và [lãnh chúa chiến tranh](../S/Sauron.md) của quỷ satan - vẫn có phạm vi và tầm nhìn vô song và vượt trội về sức hấp dẫn và sự mê hoặc của nó đối với vô số hàng triệu người ở mọi lứa tuổi trên toàn thế giới.
 
 Giờ đây, trong nghiên cứu được chờ đợi từ lâu này, Giáo sư Helms cho thấy người kể chuyện bậc thầy đã thành công như thế nào trong việc kết hợp kiến ​​thức uyên bác về văn học thần thoại truyền thống với trí tưởng tượng thiên tài để tạo ra những sử thi giả tưởng có ý nghĩa phổ quát.
 

@@ -22,7 +22,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 <h2><span id="Midyear.27s_Day"></span><span class="mw-headline" id="Midyear&#39;s_Day"><a class="mw-redirect" href="../M/Midyear&#39;s_Day.md" title="Midyear&#39;s Day">Midyear&#39;s Day</a></span></h2>
 
-- [Rose Cotton](../R/Rose_Cotton.md), vợ của [Samwise Gamgee](../S/Samwise_Gamgee.md), qua đời.<sup id="cite_ref-Later_1-0" class="reference"><a href="#cite_note-Later-1">[1]</a></sup>
+- [Rose Cotton](../R/Rose_Cotton.md), vợ của [Samwise Gamgee](../S/Samwise_Gamgee.md), chết.<sup id="cite_ref-Later_1-0" class="reference"><a href="#cite_note-Later-1">[1]</a></sup>
 
 ## [tháng Chín](../S/September.md) {#September}
 
@@ -30,7 +30,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Sau {#Later}
 
-- Samwise đến [Đồi Tháp](../T/Tower_Hills.md) và đưa [Red Book of Westmarch](../R/Red_Book_of_Westmarch.md) cho [Elanor](../E/Elanor_Gardner.md). Samwise rời đi về phía tây. Theo truyền thống của [Fairbairn](Fairbairn_Family~66364.md), anh ta đã đến [Cảng Xám](../G/Grey_Havens.md) để vượt qua [Biển](../B/Belegaer.md) và vào [Tối cùng Phương Tây](../A/Aman.md), cuối cùng trong số [Những người mang nhẫn](../R/Ring-bearers.md).<sup id="cite_ref-Later_1-2" class="reference"><a href="#cite_note-Later-1">[1]</a></sup>
+- Samwise đến [Đồi Tháp](../T/Tower_Hills.md) và đưa [Red Book of Westmarch](../R/Red_Book_of_Westmarch.md) cho [Elanor](../E/Elanor_Gardner.md). Samwise rời đi về hướng Tây. Theo truyền thống của [Fairbairn](Fairbairn_Family~66364.md), anh ta đã đến [Cảng Xám](../G/Grey_Havens.md) để vượt qua [Biển](../B/Belegaer.md) và vào [Tối cùng Phương Tây](../A/Aman.md), cuối cùng trong số [Những người mang nhẫn](../R/Ring-bearers.md).<sup id="cite_ref-Later_1-2" class="reference"><a href="#cite_note-Later-1">[1]</a></sup>
 
 <span></span>
 

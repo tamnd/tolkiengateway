@@ -87,7 +87,7 @@ Bergil đã phục vụ [Nhà chữa lành](../H/Houses_of_Healing.md) trong [Tr
 
 <dl><dd>The voice of Bergil is provided by Viktor Petrov.</dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Bergil is first found is pre-battle <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>, where he and his friends take the player on a series of adventures throughout the city. After the <a class="mw-redirect" href="Battle_of_Pelennor_Fields.md" title="Battle of Pelennor Fields">Battle of Pelennor Fields</a>, he and the player are help <a href="../I/Ioreth.md" title="Ioreth">Ioreth</a> in finding <i><a href="../A/Athelas.md" title="Athelas">athelas</a></i>.</dd></dl>
 

@@ -30,7 +30,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 61</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/18_April.md" title="18 April">18 April</a> <a href="../_/1944.md" title="1944">1944</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data">Exchanging news, progress on <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i></td></tr></tbody></table>
 
-**Thư 61** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
+**Thư 61** là một bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
 
 ## Tóm tắt {#Summary}
 
@@ -40,7 +40,7 @@ Thật ngạc nhiên khi Tolkien Christopher không thích lối sống như Jan
 
 Tolkien đã đọc cho [C.S. Lewis](../C/C.S._Lewis.md) và [Charles Williams](../C/Charles_Williams.md) chương của anh ấy về đoạn văn [Đầm lầy Chết](../D/Dead_Marshes.md) và cách tiếp cận [Mordor](../M/Mordor.md). Tolkien nói rằng anh ta đã lãng phí thời gian vào lá thư của Tập đoàn quân số 8. Đã xảy ra tranh chấp (liên quan đến Big Money) về cách phát âm chính xác tên nhà thơ Cowper. Vì anh ấy cho rằng nó thể hiện sự thông minh và thông minh trong Quân đội nên anh ấy đã gửi một câu trả lời Delphic với nhiều thông tin hơn họ có thể muốn, nhưng đã nói với họ rằng Cowper chắc chắn đã phát âm nó là "Cooper".
 
-Tolkien kể thêm nhiều sự việc, nói với con trai rằng ông nhớ con, ước gì con có thể được tuyển dụng một cách hữu ích hơn và chê bai sự ngu xuẩn của chiến tranh. Christopher đã đề cập đến điều kiện địa phương ở Nam Phi. Tolkien nói rằng việc xử lý màu sắc gần như luôn khiến bất cứ ai đến từ Anh phải kinh hãi. <br>
+Tolkien kể lại nhiều sự việc, nói với con trai rằng ông nhớ con, ước gì con có thể được tuyển dụng một cách hữu ích hơn và chê bai sự ngu xuẩn của chiến tranh. Christopher đã đề cập đến điều kiện địa phương ở Nam Phi. Tolkien nói rằng việc xử lý màu sắc gần như luôn khiến bất cứ ai đến từ Anh phải kinh hãi. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

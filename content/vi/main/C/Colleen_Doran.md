@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Doran, Colleen"
 ---
 
-**Colleen Doran** ([24 tháng 7](../_/24_July.md), [1968](../_/1968.md)) là một nghệ sĩ và nhà văn giả tưởng người Mỹ. Ngoài việc tạo ra hơn 200 [Kiệt tác Topps](../T/The_Lord_of_the_Rings_Masterpieces.md), cô còn xuất hiện tại nhiều [Ring\*Cons](../R/Ring%252ACon.md), [ORC](../T/The_One_Ring_Celebration.md) và các hội nghị khác. Cô ấy cũng xuất hiện trong *[Ringers: Lord of the Fans](../R/Ringers%253A_Lord_of_the_Fans.md)*.
+**Colleen Doran** ([24 tháng 7](../_/24_July.md), [1968](../_/1968.md)) là một nghệ sĩ và nhà văn giả tưởng người Mỹ. Ngoài việc tạo ra hơn 200 [Kiệt tác Topps](../T/The_Lord_of_the_Rings_Masterpieces.md), cô còn xuất hiện tại nhiều [Nhẫn\*Cons](../R/Ring%252ACon.md), [ORC](../T/The_One_Ring_Celebration.md) và các hội nghị khác. Cô ấy cũng xuất hiện trong *[Ringers: Lord of the Fans](../R/Ringers%253A_Lord_of_the_Fans.md)*.
 
 ## Tác phẩm tiêu biểu {#Featured_artwork}
 

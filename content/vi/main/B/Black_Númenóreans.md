@@ -121,11 +121,11 @@ Có khả năng [Faramir](../F/Faramir.md) đang nói đến King's Men hoặc B
 
 <dl><dd>A tree with the kindreds of Men lists Umbareans, Saruleans, Elornans, Ciryedain and Mirëdorans as subbranches of the Black Númenóreans.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[21]</a></sup></dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Lord of the Rings: Trận chiến vì Trung Địa II: Sự trỗi dậy của Vua Phù thủy</a></i>:</b>
 
 <dl><dd>The Black Númenóreans inhabit the land of <a href="../A/Angmar.md" title="Angmar">Angmar</a> and the <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> turns their allegiance to him to help fight against <a href="../A/Arnor.md" title="Arnor">Arnor</a>. The Black Númenóreans are playable units as well as their counterparts, Dark Rangers and Thrall Masters.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Black Númenóreans are portrayed in service of the different Lieutenants of the Enemy. The <i>Angmarim</i> inhabit the lands surrounding <a class="mw-redirect" href="../C/Carn_Dum.md" title="Carn Dum">Carn Dum</a> in Angmar and serve <a class="mw-redirect" href="../M/Mordirith.md" title="Mordirith">Mordirith</a> and later <a href="../A/Amarthiel.md" title="Amarthiel">Amarthiel</a>. Much later, <i>Umbarrim</i> Black Númenóreans make appearance in <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a> of <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a>. When the lands of <a href="../M/Mordor.md" title="Mordor">Mordor</a> are explored following the downfall of <a href="../S/Sauron.md" title="Sauron">Sauron</a>, Black Númenórean cultists known as <i>Mordorrim</i> are shown to be among its inhabitants.</dd></dl>
 

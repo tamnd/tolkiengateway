@@ -31,7 +31,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Tiệc sinh nhật của [Bilbo](../../main/B/Bilbo's_Farewell_Party.md) - Tác phẩm nghệ thuật của Livia Prime cho *[The Lord of the Rings: Tales of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md)*
+[Bilbo Tiệc sinh nhật](../../main/B/Bilbo's_Farewell_Party.md) - Nghệ thuật của Livia Prime cho *[The Lord of the Rings: Tales of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md)*
 
 ## Giấy phép {#Licensing}
 

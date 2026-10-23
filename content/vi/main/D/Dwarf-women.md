@@ -43,7 +43,7 @@ Phụ nữ gia nhập gia đình chồng. Phụ nữ hiếm khi được nêu t�
 
 ## Quan niệm sai lầm giữa các chủng tộc khác {#Misconceptions_among_other_races}
 
-Vì sự khan hiếm của Người lùn phụ nữ, sự bí mật và sự giống nhau về ngoại hình với nam giới và việc họ không được nhắc đến nên nhiều [Con Người](../M/Men.md) đã không nhận ra sự tồn tại của họ. Họ tin rằng dân số Người Lùn' chỉ bao gồm nam giới, và do đó có một truyền thuyết kể rằng họ được 'sinh ra' bằng cách lớn lên từ đá.<sup id="cite_ref-App_1-3" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
+Vì sự khan hiếm của Người lùn phụ nữ, sự bí mật và sự giống nhau về ngoại hình với nam giới và việc họ không được nhắc đến nên nhiều [Con Người](../M/Men.md) đã không nhận ra sự tồn tại của họ. Họ tin rằng dân số Người Lùn' chỉ có nam giới, và do đó có một truyền thuyết kể rằng họ được 'sinh ra' bằng cách lớn lên từ đá.<sup id="cite_ref-App_1-3" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
@@ -67,7 +67,7 @@ Thuật ngữ <i><a class="extiw" href="http://en.wiktionary.org/wiki/dwarrowdam
 
 <dl><dd>Some Dwarf women can be seen briefly in the beginning of the film, when the story of the destruction of Erebor is told. Some women have beards, whilst some have sideburns of varying length.</dd></dl>
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>After having been mentioned earlier, female Dwarves make their first definite appearance at Erebor, <a href="Dís.md" title="Dís">Dís</a> in particular. While a few special characters such as her have a distinctly feminine (yet still bearded) appearance, most Dwarf-women in the game share character models with the men. They usually have more feminine voices, but not in every case.</dd></dl>
 

@@ -182,7 +182,7 @@ Trong *[The Peoples of Middle-earth](../T/The_Peoples_of_Middle-earth.md)*, ở 
 
 <dl><dd>Although Anárion does not appear in <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> film series</a>, Decipher produced a card for the character.</dd></dl>
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Anárion appears during an extended flashback set during the <a href="../S/Siege_of_Barad-dûr.md" title="Siege of Barad-dûr">Siege of Barad-dûr</a> in the year <a href="../S/Second_Age_3440.md" title="Second Age 3440">S.A. 3440</a>, shortly before his death.</dd></dl>
 

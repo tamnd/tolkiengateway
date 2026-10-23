@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angband"
 ---
 
-Chuyển hướng tới [Angband](Angband.md).
+Chuyển hướng đến [Angband](Angband.md).

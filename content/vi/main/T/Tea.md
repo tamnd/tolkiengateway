@@ -42,7 +42,7 @@ Trong giai đoạn đầu của [huyền thoại](../L/Legendarium.md), [Tolkien
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007-: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Tea leaves can be grown by farmers, and characters with the cooking craft can produce several varieties of tea (including Black, Green, Red, and White Tea).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> In the introductory quest &#34;Sweet Bilberry Tea&#34;, <a href="../C/Celandine_Brandybuck.md#Portrayal_in_adaptations" title="Celandine Brandybuck">Celandine Brandybuck</a> asks the player to collect <a class="extiw" href="http://en.wikipedia.org/wiki/Bilberry" title="wikipedia:Bilberry">bilberries</a> for her medicinal tea.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 

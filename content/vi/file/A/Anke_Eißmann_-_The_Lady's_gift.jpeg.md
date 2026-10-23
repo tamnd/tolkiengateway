@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Mô tả của Anke Eißmann](../../main/A/Anke_Eißmann.md) về [Aragorn](../../main/A/Aragorn.md) (trái) và [Halbarad](../../main/H/Halbarad.md) (phải).
+Mô tả của [Anke Eißmann](../../main/A/Anke_Eißmann.md)về [Aragorn](../../main/A/Aragorn.md) (trái) và [Halbarad](../../main/H/Halbarad.md) (phải).
 
 ## Giấy phép {#Licensing}
 

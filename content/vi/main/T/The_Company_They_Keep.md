@@ -54,7 +54,7 @@ Phân tích của cô không chỉ thể hiện mức độ ảnh hưởng lẫn
 3. Ảnh hưởng: Đánh giá tác động
 4. Người cộng hưởng: Hỗ trợ tiến độ
 5. Đối thủ: Đưa ra lời thách thức
-6. Người biên tập: Thực hiện Thay đổi
+6. Người biên tập: Thực hiện thay đổi
 7. Cộng tác viên: Cùng nhau làm việc
 8. Người tham khảo: Viết về nhau
 9. Sáng tạo: Đánh giá cao sự tương tác

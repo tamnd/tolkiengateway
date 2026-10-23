@@ -45,11 +45,11 @@ sort_keys:
 - Mark Cooper: "Suy đoán về Phim thứ hai của The Hobbit Duology"
 - Martha Kosyfi: "Cổng sương mù"
 - John Adcox: "Trong công ty tốt"
-- Kathryn E. Darden: "The Lord of the Rings: The Return of the King - Bản ghi âm hoàn chỉnh"
+- Kathryn E. Darden: "The Lord of the Rings: The Return of the King - The Complete Recordings"
 - Sara Goodwin: "Thân vương Đánh giá Caspian"
 - Elisabeth C. Prince: "Đánh giá Caspian"
-- Kelsey Kline: "Phiên bản dở, Phim hay - nói chung, và lấy thứ này với thứ khác"
-- N.C. Graham: "Bạn phải gạt bỏ sự thuần khiết bên trong mình"
+- Kelsey Kline: "Phiên bản dở, Phim hay - nói chung, và lấy cái này với cái khác"
+- N.C. Graham: "Bạn phải gạt bỏ sự thuần khiết nội tâm của mình"
 - Rachel Gamber: "Thân vương Đánh giá Caspian"
 - Nghệ thuật của Coralie Allan, Alexa Chipman, Gerda Marz và [Jef Murray](../J/Jef_Murray.md)
 

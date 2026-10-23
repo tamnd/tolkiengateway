@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anadûnê"
 ---
 
-Chuyển hướng đến [Anadûnê](Anadûnê.md).
+Chuyển hướng tới [Anadûnê](Anadûnê.md).

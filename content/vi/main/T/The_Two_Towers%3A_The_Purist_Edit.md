@@ -31,8 +31,8 @@ Những thay đổi lớn (trong số khoảng 30):
 - Bọn Ent không từ chối tấn công Isengard
 - Tiên tộc đừng đến Helm's Deep
 - Gimli không còn tham gia cứu trợ truyện tranh nữa
-- Faramir không quyết định gửi [Chiếc nhẫn duy nhất](The_One_Ring.md) cho Gondor như một "món quà vĩ đại" dành cho cha mình
-- Frodo không cố gắng trao Chiếc nhẫn cho [Nazgûl](../N/Nazgûl.md)
+- Faramir không quyết định gửi [Người Nhẫn](The_One_Ring.md) đến Gondor như một "món quà vĩ đại" dành cho cha mình
+- Frodo không cố gắng trao Nhẫn cho [Nazgûl](../N/Nazgûl.md)
 
 ## Liên kết ngoài {#External_links}
 

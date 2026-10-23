@@ -58,7 +58,7 @@ infobox:
 - GoodKnight, Glen H. Editorial: "Tiếp tục trong điệu nhảy vĩ đại." 25+.
 - Patterson, Nancy-Lou. "Một bông hoa bạc vĩ đại." Đánh giá *The Silmarillion* của J.R.R. Tolkien. 27.
 - Patterson, Nancy-Lou. "Mận và bánh quy." Đánh giá *C.S. Lewis: Danh sách kiểm tra có chú thích các bài viết về ông và các tác phẩm của ông* của Joe R. Christopher và Joan K. Ostling. 29.
-- Patterson, Nancy-Lou. "Hướng tới bờ bụi ngọc trai." Đánh giá về *A Speculation on the Silmarillion* của Jim Allan. 29-30.
+- Patterson, Nancy-Lou. "Hướng tới bờ bụi ngọc trai." Đánh giá *A Speculation on the Silmarillion* của Jim Allan. 29-30.
 - Christopher, Joe R. "Let Us Go a-Carrolling." Đánh giá của *Lewis Carroll Observed*, do Edward Guiliano biên tập; *The Rectory Magazine*, do Lewis Carroll biên tập; *Lewis Carroll as I Knew Him* của Isa Bowman. 29-30.
 - Một số Tolkien Nghệ thuật. 31.
 - Nhận xét về Một số Bức ảnh. 32+.

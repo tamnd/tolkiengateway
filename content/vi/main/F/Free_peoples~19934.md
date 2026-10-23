@@ -45,11 +45,11 @@ Các thành viên của [Đoàn Hộ Nhẫn](Fellowship_of_the_Ring.md) được
 
 <dl><dd>In the prologue, the term &#34;Free Peoples of Middle-earth&#34; is used to describe those that formed the <a href="../L/Last_Alliance_of_Elves_and_Men.md" title="Last Alliance of Elves and Men">Last Alliance of Elves and Men</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: War of the Ring</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: Cuộc chiến Nhẫn</a></i>:</b>
 
 <dl><dd>&#34;Free Peoples&#34; is one of the playable factions, the other being &#34;Minions of Sauron&#34;. Its troops include Men of <a href="../G/Gondor.md" title="Gondor">Gondor</a> and <a href="../R/Rohan.md" title="Rohan">Rohan</a>, <a href="../D/Dwarves.md" title="Dwarves">Dwarves</a>, <a href="../E/Elves.md" title="Elves">Elves</a>, <a href="../H/Huorns.md" title="Huorns">Huorns</a> and <a href="../B/Beornings.md" title="Beornings">Beornings</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The term &#34;Free Peoples&#34; is generally used to identify the &#34;good&#34; faction in the MonsterPlay sessions. It is often abbreviated as &#34;Freeps&#34;.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 

@@ -74,7 +74,7 @@ infobox:
     - Bởi: [Helen Armstrong](../H/Helen_Armstrong.md)
 - Sự học hỏi của Debi
     - Bởi: Debi Haigh-Hutchinson
-- Truyện dân ca
+- Truyện dân gian
 - Thư pháp và tác phẩm nghệ thuật bổ sung
     - Bởi: Kirsty Beck, Bryan Glenet, Tony Curtis, Nick Brown, Martin Roe, Ian Collier, Susanne Stopfel, Geraint Rees, Steve Lines & Mervyn Finlay
 

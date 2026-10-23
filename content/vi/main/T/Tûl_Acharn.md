@@ -12,7 +12,7 @@ categories:
   - "Sindarin texts"
 ---
 
-<i><b>Tûl Acharn!</b></i> là cụm từ mà [Húrin](../H/Húrin.md) hét lên với [Lorgan](../L/Lorgan.md) trong [Hithlum](../H/Hithlum.md) sau khi anh ta được [Morgoth](../M/Morgoth.md)thả ra khỏi [Angband](../A/Angband.md).
+<i><b>Tûl Acharn!</b></i> là cụm từ mà [Húrin](../H/Húrin.md) hét lên với [Lorgan](../L/Lorgan.md) ở [Hithlum](../H/Hithlum.md) sau khi anh được [Angband](../A/Angband.md) thả ra khỏi [Morgoth](../M/Morgoth.md).
 
 ## Lịch sử {#History}
 

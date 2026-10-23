@@ -18,7 +18,7 @@ sort_keys:
   "Singers": "Torrini, Emiliana"
 ---
 
-**Emilíana Torrini** ([16 tháng 5](../_/16_May.md), [1977](../_/1977.md)) đã biểu diễn "[Gollum's Song](../G/Gollum's_Song.md)" cho *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*. [Fran Walsh](../F/Fran_Walsh.md) viết lời trong khi [Howard Shore](../H/Howard_Shore.md) chỉ đạo âm nhạc.
+**Emilíana Torrini** ([16 tháng 5](../_/16_May.md), [1977](../_/1977.md)) đã biểu diễn "[Gollum's Song](../G/Gollum's_Song.md)" cho *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*. [Fran Walsh](../F/Fran_Walsh.md) viết lời và [Howard Shore](../H/Howard_Shore.md) chỉ đạo âm nhạc.
 
 ## Giải thưởng {#Awards}
 

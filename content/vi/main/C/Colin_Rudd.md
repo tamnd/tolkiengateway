@@ -20,7 +20,7 @@ sort_keys:
   "Folk music": "Rudd, Colin"
 ---
 
-**Colin John Rudd** là một nhạc sĩ và ca sĩ người Anh, người đã phát hành nhiều bài hát trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Anh ấy đã biểu diễn tại Oxford Đại học cho [Hội Tolkien](../T/The_Tolkien_Society.md) và hiện có một tuyển tập gồm 9 bài hát liên quan đến Tolkien, được xuất bản trên [2001](../_/2001.md) với tên <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Songs_of_JRR_Tolkien&amp;action=edit&amp;redlink=1" title="Songs of JRR Tolkien (page does not exist)">Bài hát của JRR Tolkien</a></i>. Kể từ đó anh đã xuất bản 28 Tolkien bài hát liên quan trên kênh YouTube của mình; danh sách đầy đủ dưới đây.
+**Colin John Rudd** là nhạc sĩ và ca sĩ người Anh, người đã phát hành nhiều bài hát trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Anh ấy đã biểu diễn tại Oxford Đại học cho [Hội Tolkien](../T/The_Tolkien_Society.md) và hiện có một tuyển tập gồm 9 bài hát liên quan đến Tolkien, được xuất bản trên [2001](../_/2001.md) với tên <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Songs_of_JRR_Tolkien&amp;action=edit&amp;redlink=1" title="Songs of JRR Tolkien (page does not exist)">Bài hát của JRR Tolkien</a></i>. Kể từ đó anh đã xuất bản 28 Tolkien bài hát liên quan trên kênh YouTube của mình; danh sách đầy đủ dưới đây.
 
 ## Bài hát {#Songs}
 
@@ -40,14 +40,14 @@ sort_keys:
 14. [Nằm của Nimrodel](../L/Lay_of_Nimrodel.md)
 15. [Con Con Tàu Cuối Cùng (Firiel)](../T/The_Last_Ship.md)
 16. [Cái chuông Biển](../T/The_Sea-Bell.md)
-Bài hát của 17. [Bilbo... Tôi Ngồi Bên Ngọn Lửa Và Suy Nghĩ](../I/I_Sit_beside_the_Fire_and_Think.md)
+17. [Bilbo Bài hát... Ngồi Bên đống lửa suy nghĩ](../I/I_Sit_beside_the_Fire_and_Think.md)
 18. [The Road Goes Ever On Trở đi](<../T/The_Road_Goes_Ever_On_(song).md>)
 19. [Quỷ đá](../T/The_Stone_Troll.md)
 20. [Luthien Tinuviel](../S/Song_of_Parting.md)
 21. [Ở Vùng Đất Mordor.](../R/Ring-inscription.md#Ring-verse)
 22. [Sam tại Cirith Ungol](../I/In_Western_Lands_beneath_the_Sun.md)
 23. [Legolas Tiếng hát chia tay](../T/To_the_Sea,_to_the_Sea!_The_white_gulls_are_crying.md)
-Bài hát dành cho tuổi trẻ của 24. [Bilbo Frodo.](../A/A_Walking_Song.md)
+24. [Bilbo Bài Hát Cho Tuổi Trẻ Frodo.](../A/A_Walking_Song.md)
 25. [Tạm biệt (các hobbit sắp rời đi)](../F/Farewell_We_Call_to_Hearth_and_Hall!.md)
 26. [Earendil là một thủy thủ.](../S/Song_of_Eärendil.md)
 27. [Tom Bombadillo.](../H/Hey_dol!_merry_dol!_ring_a_dong_dillo!.md)

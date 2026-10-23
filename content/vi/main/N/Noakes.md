@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Noakes Family"
 ---
 
-Chuyển hướng đến [Gia đình Noakes](Noakes_Family.md).
+Chuyển hướng tới [Gia đình Noakes](Noakes_Family.md).

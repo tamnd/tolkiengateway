@@ -47,10 +47,10 @@ Tập này mô tả những kho báu được rèn giũa bởi những cư dân 
 
 Bên trong bạn sẽ tìm thấy:
 
-- Kho báu - mọi thứ từ thanh kiếm của Aragorn và Palantíri của Númenor đến Sauron Một chiếc nhẫn
+- Kho báu - mọi thứ từ thanh kiếm của Aragorn và Palantíri của Númenor đến Sauron Một Nhẫn
     - Cánh tay
     - Áo giáp
-    - Quần áo & Dụng cụ
+    - Quần áo & Đồ dùng
     - Trang sức, Đá quý & Nghệ thuật
     - Nhạc cụ
     - Nhẫn

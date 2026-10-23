@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Héra và Wulf khi còn nhỏ trong *The Lord of the Rings: Cuộc chiến Rohirrim*
+Héra và Wulf khi còn nhỏ từ *The Lord of the Rings: The War of the Rohirrim*
 
 ## Giấy phép {#Licensing}
 

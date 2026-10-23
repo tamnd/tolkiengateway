@@ -71,14 +71,14 @@ infobox:
     - Bởi: [Alex Lewis](Alex_Lewis.md)
 - Toán học
     - Bởi: Gwyneth Morgan
-- Truyện dân ca
+- Truyện dân gian
 - Báo chí nhỏ
     - Bởi: Debi Haigh-Hutchinson
 - Tác phẩm nghệ thuật: *The fight between [Thingol](../T/Thingol.md) and Boldog*
     - Bởi: Tom Loback
 - Thời trang của [Minas Tirith](../M/Minas_Tirith.md)
     - Bởi: Jeff Stevenson
-- Việc học của Debi
+- Sự học hỏi của Debi
     - Bởi: Debi Haigh-Hutchinson
 - Thư pháp và tác phẩm nghệ thuật bổ sung
     - Bởi: Kirsty Beck, Bryan Glenet, Tracey Taylor, Walter Clarke, Geraint Rees, Simon Jacobs, Susanne Stopfel, David Warren, James Hadley & Neil Loughran

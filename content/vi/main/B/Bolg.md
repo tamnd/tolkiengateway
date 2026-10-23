@@ -154,11 +154,11 @@ Trong *[The History of The Hobbit](../T/The_History_of_The_Hobbit.md)*, một t�
 
 ### Trò chơi {#Games}
 
-<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Bolg makes two brief appearances in the game&#39;s depiction of the Battle of Azanulbizar, and both times he flees without a fight.</dd></dl>
 
-<b>2023: <i><a href="../T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md" title="The Lord of the Rings: Heroes of Middle-earth">The Lord of the Rings: Heroes of Middle-earth</a></i>:</b>
+<b>2023: <i><a href="../T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md" title="The Lord of the Rings: Heroes of Middle-earth">The Lord of the Rings: Những anh hùng Trung Địa</a></i>:</b>
 
 <dl><dd>Bolg is one of the characters that you can collect, you have to get 45 Bolg shards to get him.</dd></dl>
 

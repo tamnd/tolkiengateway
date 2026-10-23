@@ -53,4 +53,4 @@ infobox:
 - "Phụ lục" (Bản đồ Harondor, bản đồ cho 'Hobbit Di chuyển')
 
 - **Tác phẩm nghệ thuật / Bản đồ:**
-    - Bởi: [Antti Autio](../A/Antti_Autio.md), [Matěj Čadil](../M/Matěj_Čadil.md), Liz Danforth, [Anke Eißmann](../A/Anke_Eißmann.md), Galendae, [Daniel Govar](../D/Daniel_Govar.md), [Jon Hodgson](../J/Jon_Hodgson.md), Julien Labit, Turner Mohan, [Jan Có thể](../J/Jan_Pospíšil.md)
+    - Bởi: [Antti Autio](../A/Antti_Autio.md), [Matěj Čadil](../M/Matěj_Čadil.md), Liz Danforth, [Anke Eißmann](../A/Anke_Eißmann.md), Galendae, [Daniel Govar](../D/Daniel_Govar.md), [Jon Hodgson](../J/Jon_Hodgson.md), Julien Labit, Turner Mohan, [Jan Pospíšil](../J/Jan_Pospíšil.md)

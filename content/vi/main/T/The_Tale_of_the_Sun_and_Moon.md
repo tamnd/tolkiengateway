@@ -36,7 +36,7 @@ sort_keys:
 
 ## Tóm tắt {#Synopsis}
 
-[Eriol](../E/Eriol.md) vẫn mong muốn *[limpë](../L/Limpë.md)*, thức uống thần tiên của thần tiên. Anh ấy hỏi Lindo về Mặt Trời và Mặt Trăng. [Gilfanon](../G/Gilfanon.md) là một trong số những vị khách của [Ngôi nhà của trò chơi lạc lối](../C/Cottage_of_Lost_Play.md) vào thời điểm đó, và [Lindo](../L/Lindo.md) đã nhận xét rằng sẽ rất tốt nếu Eriol đi cùng Gilfanon đến [Ngôi nhà của trăm ống khói](../H/House_of_the_Hundred_Chimneys.md) của anh ấy, vì Gilfanon có thể kể cho anh ấy nghe nhiều điều như vậy. Gilfanon nói đùa rằng người ta có thể nghĩ Lindo đang cố gắng đuổi hai vị khách cùng một lúc, nhưng nói rằng anh ấy sẽ ở lại khoảng một tuần và giờ Lindo có thể kể lại câu chuyện. Hài lòng, Lindo đã làm như vậy:
+[Eriol](../E/Eriol.md) vẫn mong muốn *[limpë](../L/Limpë.md)*, thức uống thần tiên của thần tiên. Anh ấy đã hỏi Lindo về Mặt Trời và Mặt Trăng. [Gilfanon](../G/Gilfanon.md) là một trong số những vị khách của [Ngôi nhà của trò chơi lạc lối](../C/Cottage_of_Lost_Play.md) vào thời điểm đó, và [Lindo](../L/Lindo.md) nhận xét rằng sẽ rất tốt nếu Eriol đi cùng Gilfanon đến [Ngôi nhà của trăm ống khói](../H/House_of_the_Hundred_Chimneys.md) của anh ấy, vì Gilfanon có thể kể cho anh ấy nghe nhiều điều như vậy. Gilfanon nói đùa rằng người ta có thể nghĩ Lindo đang cố đuổi hai vị khách cùng một lúc, nhưng lại nói rằng anh ta sẽ ở lại khoảng một tuần, và Lindo giờ có thể kể lại câu chuyện. Vui mừng, Lindo đã làm như vậy:
 
 Sau chuyến bay [Noldoli](../N/Noldoli.md) và tàn sát [Solosimpi](../S/Solosimpi.md), Tiên tộc và Valar đã rất phẫn nộ.
 

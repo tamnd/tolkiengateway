@@ -13,7 +13,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**Nacon**, trước đây gọi là **Bigben Interactive**, là một công ty trò chơi điện tử của Pháp, có trụ sở tại Lesquin. Vào năm 2022, công ty này mua lại [Daedalic Entertainment](../D/Daedalic_Entertainment.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Năm 2023, công ty này xuất bản trò chơi điện tử [The Lord of the Rings: Gollum](../T/The_Lord_of_the_Rings%253A_Gollum.md).
+**Nacon**, trước đây gọi là **Bigben Interactive**, là một công ty trò chơi điện tử của Pháp, có trụ sở tại Lesquin. Vào năm 2022, công ty này đã mua lại [Daedalic Entertainment](../D/Daedalic_Entertainment.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vào năm 2023, công ty này đã xuất bản trò chơi điện tử [The Lord of the Rings: Gollum](../T/The_Lord_of_the_Rings%253A_Gollum.md).
 
 ## Liên kết ngoài {#External_links}
 

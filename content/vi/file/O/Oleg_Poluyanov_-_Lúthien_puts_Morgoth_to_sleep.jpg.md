@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Lúthien](../../main/L/Lúthien.md) đưa [Morgoth](../../main/M/Morgoth.md) vào giấc ngủ" của [Oleg Poluyanov](../../category/I/Images_by_Oleg_Poluyanov.md)
+"[Lúthien](../../main/L/Lúthien.md) đưa [Morgoth](../../main/M/Morgoth.md) vào chế độ ngủ" bởi [Oleg Poluyanov](../../category/I/Images_by_Oleg_Poluyanov.md)
 
 ## Giấy phép {#Licensing}
 

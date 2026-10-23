@@ -76,7 +76,7 @@ infobox:
 - Báo chí nhỏ
 - Sự học hỏi của Debi
     - Bởi: Debi Haigh-Hutchinson
-- Truyện dân ca
+- Truyện dân gian
 - Ghi chú dành cho người đóng góp
 - Viết ở đâu (Ủy ban)
 - Tác phẩm nghệ thuật: *[J.R.R. Tolkien](../J/J.R.R._Tolkien.md)*

@@ -54,7 +54,7 @@ Polo là con thứ hai và là con trai duy nhất của [Ponto Baggins](Ponto_B
 
 ## Từ nguyên {#Etymology}
 
-Cái tên *Polo* là vô nghĩa trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md)đương thời. Nó đại diện cho một tên gốc *Pola*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Cái tên *Polo* là vô nghĩa trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md)đương đại. Nó đại diện cho một tên gốc *Pola*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angle"
 ---
 
-Chuyển hướng tới [Angle](Angle.md).
+Chuyển hướng đến [Angle](Angle.md).

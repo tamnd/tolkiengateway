@@ -19,7 +19,7 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-Có lẽ có thể có [PQ](../P/PQ.md) [Root](Sundocarmë.md) \*I-SIM hoặc \*SÍ.
+Có lẽ [PQ](../P/PQ.md) [Gốc](Sundocarmë.md) \*I-SIM hoặc \*SÍ có thể.
 
 Không rõ liệu nó có chứa phần cuối *[-ma](../_/-ma.md)* (*sí-ma*) hay *m* là một phần của gốc (*sím-a*).
 

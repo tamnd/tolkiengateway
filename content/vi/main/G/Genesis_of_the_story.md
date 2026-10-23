@@ -11,4 +11,4 @@ redirect_target: "The Golden Key"
 redirect_fragment: "Genesis of Smith of Wootton Major"
 ---
 
-Chuyển hướng đến [Chìa khóa vàng](../T/The_Golden_Key.md#Genesis_of_Smith_of_Wootton_Major).
+Chuyển hướng đến [The Golden Key](../T/The_Golden_Key.md#Genesis_of_Smith_of_Wootton_Major).

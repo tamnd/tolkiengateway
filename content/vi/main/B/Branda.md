@@ -20,7 +20,7 @@ categories:
 
 ### Từ nguyên {#Etymology}
 
-Dạng trong [Nguyên thủy Elvish](../P/Primitive_Elvish.md) (hoặc có lẽ [Common Telerin](../C/Common_Telerin.md)) là *b'randâ*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Điều này rõ ràng thể hiện một tính từ thậm chí còn nguyên thủy hơn \**barándâ* (gốc [BARÁD](BARAT.md)).
+Dạng trong [Primitive Elvish](../P/Primitive_Elvish.md) (hoặc có lẽ [Common Telerin](../C/Common_Telerin.md)) là *b'randâ*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Điều này dường như thể hiện một tính từ thậm chí còn nguyên thủy hơn \**barándâ* (gốc [BARÁD](BARAT.md)).
 
 ## Westron {#Westron}
 

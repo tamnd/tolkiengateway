@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calimehtar (King of Gondor)"
 ---
 
-Chuyển hướng đến [Calimehtar (Vua Gondor)](<Calimehtar_(King_of_Gondor).md>).
+Chuyển hướng tới [Calimehtar (Vua Gondor)](<Calimehtar_(King_of_Gondor).md>).

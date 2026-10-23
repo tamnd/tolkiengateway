@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Frodo Baggins](../../main/F/Frodo_Baggins.md) và [Chiếc nhẫn duy nhất](../../main/T/The_One_Ring.md). Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (trò chơi điện tử)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
+[Frodo Baggins](../../main/F/Frodo_Baggins.md) và [Người duy nhất Nhẫn](../../main/T/The_One_Ring.md). Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (trò chơi điện tử)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Giấy phép {#Licensing}
 

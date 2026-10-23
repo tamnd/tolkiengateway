@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calen"
 ---
 
-Chuyển hướng đến [Lịch](Calen.md).
+Chuyển hướng tới [Lịch](Calen.md).

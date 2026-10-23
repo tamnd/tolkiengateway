@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Asimov, Isaac"
 ---
 
-**Isaac Asimov** (tiếng Nga: **Исак Озимов**) (c. [Ngày 2 tháng 1](../_/2_January.md), [1920](../_/1920.md) - [Ngày 6 tháng 4](../_/6_April.md), [1992](../_/1992.md)) là một tác giả khoa học viễn tưởng và nhà bút chiến giỏi. Vì vậy, một số bài viết của ông thảo luận về chủ đề của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), đặc biệt là [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+**Isaac Asimov** (tiếng Nga: **Исак Озимов**) (c. [Ngày 2 tháng 1](../_/2_January.md), [1920](../_/1920.md) - [Ngày 6 tháng 4](../_/6_April.md), [1992](../_/1992.md)) là một tác giả khoa học viễn tưởng và nhà bút chiến giỏi. Vì vậy, một số bài viết của ông thảo luận về chủ đề của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), đặc biệt là [The One Nhẫn](../T/The_One_Ring.md).
 
 Trong một lá thư viết cho Charlotte và Denis Plimmer năm 1967, Tolkien nói rằng ông hiếm khi tìm được cuốn sách hiện đại nào có thể thu hút được sự chú ý của ông. Tuy nhiên, có một ngoại lệ là truyện khoa học viễn tưởng của Isaac Asimov mà Tolkien nói rằng anh ấy rất thích.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -27,9 +27,9 @@ Trong một cuộc phỏng vấn được thực hiện trên [1988](../_/1988.m
 ## Thư mục {#Bibliography}
 
 - [1980](../_/1980.md): *Panorama*
-    - ([Tháng 5](../M/May.md)): "Chiếc nhẫn duy nhất là thứ chúng tôi tạo ra"
+    - ([Tháng 5](../M/May.md)): "Chiếc nhẫn duy nhất là những gì chúng tôi tạo ra"
 - [1983](../_/1983.md): *Asimov on Science Fiction*
-    - "Chiếc nhẫn của Ác ma"
+    - " Nhẫn của Ác ma"
 - [1991](../_/1991.md): *Vũ trụ của Isaac, tập hai: Các giai đoạn hỗn loạn*
     - "Về Tolkien"
 - [1996](../_/1996.md): *Magic: The Final Fantasy Collection*

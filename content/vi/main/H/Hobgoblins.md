@@ -39,7 +39,7 @@ Trong một lá thư năm 1971 gửi [Roger Lancelyn Green](../R/Roger_Lancelyn_
 
 <dl><dd>The card &#34;Hobgoblins&#34; was released in two editions: one for the expansion set <i><a href="../M/Middle-earth%253A_The_Dragons.md" title="Middle-earth: The Dragons">Middle-earth: The Dragons</a></i> (card art by Ron Chironna) and one for <i><a href="../M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a></i> (card art by Heather Hudson).</dd></dl>
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Hobgoblins are a breed of large, tusked <a href="../O/Orcs.md" title="Orcs">Orc-kind</a> found in the <a href="../G/Grey_Mountains.md" title="Grey Mountains">Grey Mountains</a>. They are not servants of <a href="../S/Sauron.md" title="Sauron">Sauron</a> and instead belong to the <b>Frost-horde</b>, followers of the <a class="mw-redirect" href="../D/Dragon.md" title="Dragon">dragon</a> Hrímil Frost-heart. Hrímil was imprisoned in the dungeons of <a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a> for refusing to give up one of <a href="../S/Seven_Rings.md" title="Seven Rings">Seven Rings</a> that she had swallowed. For this, the Frost-horde and all hobgoblins detest Sauron and his followers, only allying with them briefly as part of deception to further their own plans.</dd></dl>
 

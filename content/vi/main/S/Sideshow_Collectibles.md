@@ -23,7 +23,7 @@ Buổi trình chiếu đã hợp tác với [New Line Cinema](../N/New_Line_Cine
 
 ## Xem thêm {#See_also}
 
-- [Danh sách sưu tầm trình chiếu](../L/List_of_Sideshow_Collectibles.md)
+- [Danh sách sưu tầm trình diễn](../L/List_of_Sideshow_Collectibles.md)
 - [Hình ảnh sưu tầm Sideshow](../../category/I/Images_of_Sideshow_Collectibles.md)
 - [Người khổng lồ hiền lành](../G/Gentle_Giant.md)
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galathilion"
 ---
 
-Chuyển hướng đến [Galathilion](../G/Galathilion.md).
+Chuyển hướng tới [Galathilion](../G/Galathilion.md).

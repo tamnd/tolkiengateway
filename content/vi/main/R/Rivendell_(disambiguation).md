@@ -28,7 +28,7 @@ images:
 ### Trò chơi {#Games}
 
 - *[Rivendell: The House of Elrond](Rivendell%253A_The_House_of_Elrond.md)*, phần bổ sung [MERP](../M/Middle-earth_Role_Playing.md)
-- *[Rivendell](<Rivendell_(The_One_Ring_role-playing_game).md>), phần bổ sung cho [The One Ring (trò chơi nhập vai)](<../T/The_One_Ring_(role-playing_game).md>)*
+- *[Rivendell](<Rivendell_(The_One_Ring_role-playing_game).md>), phần bổ sung cho [Chiếc nhẫn duy nhất (trò chơi nhập vai)](<../T/The_One_Ring_(role-playing_game).md>)*
 
 ### Âm nhạc {#Music}
 

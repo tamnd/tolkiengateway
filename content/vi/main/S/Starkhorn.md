@@ -47,7 +47,7 @@ Như [Tolkien](../J/J.R.R._Tolkien.md) lưu ý, đối với người đọc ti�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The Starkhorn is featured prominently in the Edoras skyline.</dd></dl>
 

@@ -51,7 +51,7 @@ infobox:
     - 7\. Gia đình Morgan-Osborne
     - 8\. Giáo dục ở Inglaterra
     - 9\. Nghề nghiệp
-    - 10\. La comunidad del oratorio
+    - 10\. La comunidad del Oratorio
     - 11\. Cuộc sống ngắn ngủi Birmingham ở Puerto
 - Madurez
     - 12\. Mất Tolkien

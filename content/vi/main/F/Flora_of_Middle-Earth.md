@@ -72,7 +72,7 @@ infobox:
     - Phím 2: Thảo mộc ra hoa Trung Địa
 6. **Telperion và Laurelin: Hai Cây của Valinor**
     - Từ nguyên
-    - Mô tả về Telperion
+    - Mô tả Telperion
     - Mô tả Laurelin
 7. **Thực vật của Trung Địa**
     - Danh sách cây trồng của J.R.R. Tolkien Legendarium
@@ -130,7 +130,7 @@ infobox:
     - Hoa huệ (*Lilium* spp.)
     - Cây bồ đề (*Tilia* spp.)
     - Lissuin (Một loài chưa được biết đến, chưa từng xuất hiện ở Trung Địa)
-    - Mallorn-Cây (loài duy nhất có trong truyền thuyết của J.R.R. Tolkien, một phần dựa trên *Fagus*, *Prunus*)
+    - Mallorn-Cây (loài duy nhất có trong huyền thoại của J.R.R. Tolkien, một phần dựa trên *Fagus*, *Prunus*)
     - Rêu (các loại khác nhau)
     - Nấm (*Agaricus bisporus*và các loài liên quan)
     - Nasturtians, Nasturtiums, Cải Ấn Độ (*Tropaeolum majus*và các loài liên quan)
@@ -142,7 +142,7 @@ infobox:
     - Cỏ tẩu, thuốc lá (*Nicotiana tabacum*)
     - Đậu Cực, Đậu (*Phaseolus* spp.)
     - Cây dương (*Populus* spp.)
-    - Khoai tây, khoai tây chiên (*Solanum tuberosum*)
+    - Khoai tây, khoai tây (*Solanum tuberosum*)
     - Sậy (*Phragmites australis*)
     - Hoa hồng đá (*Helianthemum nummularium*và họ hàng)
     - Rễ (có thể là *Dioscorea* spp.)
@@ -176,5 +176,5 @@ infobox:
     - Cây lương thực Trung Địa
     - Hobbit Tên
     - Bree Tên
-    - Thực vật không xác định và bị loại trừ Trung Địa
+    - Thực vật Trung Địa Không xác định và bị loại trừ
 8. **Ghi chú từ Illustrator**

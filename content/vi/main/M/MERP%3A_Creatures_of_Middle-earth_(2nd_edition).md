@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Creatures of Middle-earth (2nd edition)"
 ---
 
-Chuyển hướng tới [Sinh vật Trung Địa (ấn bản thứ 2)](<../C/Creatures_of_Middle-earth_(2nd_edition).md>).
+Chuyển hướng đến [Creatures of Middle-earth (2nd edition)](<../C/Creatures_of_Middle-earth_(2nd_edition).md>).

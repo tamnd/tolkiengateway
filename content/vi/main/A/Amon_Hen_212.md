@@ -62,7 +62,7 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
 - 2012/Trả lại Thông báo Vua
 - Báo cáo: Năm Thánh thứ 4 của [Forodrim](../F/Forodrim.md)
     - Bởi: Susan Frances Edwards
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Già gắt gỏng Con Người
     - Bởi: Patricia Medway

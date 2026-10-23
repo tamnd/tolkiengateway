@@ -46,7 +46,7 @@ infobox:
 
 Dựa trên các bài viết được xuất bản sau này của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Thomas Morwinsky](../T/Thomas_Morwinsky.md) đã xuất bản một bài báo trên *[Other Hands](../O/Other_Hands.md)* ("Lịch sử của Mount Gundabad", số ra ngày 28 tháng 1 năm 2000) về các đề xuất sửa đổi cho mô-đun *Mount Gundabad*.
 
-Để sử dụng cùng với phần bổ sung này, [Mithril Miniatures](Mithril_Miniatures.md) đã phát hành một bộ mô hình thu nhỏ bằng kim loại (M93 - M102 *Mount Gundabad*).
+Để sử dụng với phần bổ sung này, [Mithril Miniatures](Mithril_Miniatures.md) đã phát hành một bộ mô hình thu nhỏ bằng kim loại (M93 - M102 *Mount Gundabad*).
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 

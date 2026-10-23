@@ -99,7 +99,7 @@ Sau đó chính Tolkien giải thích trong một ghi chú:
 
 <dl><dd>The Grey Company encounters Baldor&#39;s corpse in the Paths of the Dead.</dd></dl>
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The remains of Baldor, clad in his golden armour, can be found in the Paths of the Dead, though is slightly off the path as compared to the books.</dd></dl>
 

@@ -43,7 +43,7 @@ Các tên ứng cử viên khác và cụ thể hơn là <i><b>Calennel</b></i> 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The name &#34;Egladil&#34; is specifically applied to the eastern area of Lothlorien, directly bordering by the Anduin.</dd></dl>
 

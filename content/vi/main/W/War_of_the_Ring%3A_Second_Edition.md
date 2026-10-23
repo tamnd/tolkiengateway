@@ -585,7 +585,7 @@ Bóng Tối Phe phái:
 
 ### *Tidings not Burdens* {#Tidings_not_Burdens}
 
-Một bản mở rộng khuyến mãi nhỏ được phát hành vào năm 2016, *Tidings not Burdens* bổ sung thêm hai thẻ Sự kiện (một thẻ cho mỗi người chơi) theo chủ đề xoay quanh cuộc tranh luận kéo dài về lý do tại sao [Đại Bàng không bay Chiếc nhẫn tới Núi Doom](../E/Eagles.md#"Flying_the_Ring_to_Mount_Doom"). Thẻ Sự kiện của Người Tự do ("Fly, You Fools") cho phép họ giành chiến thắng trong trò chơi nếu họ có thể tranh luận thành công về chủ đề này, trong khi thẻ của Người chơi Bóng Tối ("Tôi được cử đi đưa tin chứ không phải Gánh nặng") có thể thắng trò chơi nếu họ sử dụng thẻ sự kiện của mình để loại bỏ "Fly, You Fools" khỏi tay Người Tự do.
+Một bản mở rộng khuyến mãi nhỏ được phát hành vào năm 2016, *Tidings not Burdens* bổ sung thêm hai thẻ Sự kiện (một thẻ cho mỗi người chơi) theo chủ đề xoay quanh cuộc tranh luận kéo dài về lý do tại sao [Đại Bàng không bay Chiếc nhẫn đến Núi Doom](../E/Eagles.md#"Flying_the_Ring_to_Mount_Doom"). Thẻ Sự kiện của Người Tự do ("Fly, You Fools") cho phép họ giành chiến thắng trong trò chơi nếu họ có thể tranh luận thành công về chủ đề này, trong khi thẻ của Người chơi Bóng Tối ("Tôi được cử đi đưa tin chứ không phải Gánh nặng") có thể thắng trò chơi nếu họ sử dụng thẻ sự kiện của mình để loại bỏ "Fly, You Fools" khỏi tay Người Tự do.
 
 <a class="external text" href="https://boardgamegeek.com/boardgameexpansion/210039/war-of-the-ring-warriors-of-middle-earth-tidings-n" rel="noreferrer noopener" target="_blank"><i>Tin tức không phải là gánh nặng</i></a> tại <a class="external text" href="https://boardgamegeek.com" rel="noreferrer noopener" target="_blank">BoardGameGeek</a>.
 

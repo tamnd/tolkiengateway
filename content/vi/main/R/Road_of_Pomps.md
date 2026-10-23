@@ -20,7 +20,7 @@ images:
 
 **Con đường Pomps** là một con phố [Gondolin](../G/Gondolin.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
-Nó đi về phía nam từ [Quảng trường Cung điện](../S/Square_of_the_Palace.md) và một trong những tòa nhà dọc theo đó là [Gar Ainion](../G/Gar_Ainion.md). Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), [Tuor](../T/Tuor.md) nghi ngờ liệu có nên dẫn những người sống sót thẳng đến nhà mình theo [Con đường Nước chảy](../W/Way_of_Running_Waters.md) hay không, khi họ bị tấn công và buộc phải đi theo Con đường. Ở đó [Glorfindel](../G/Glorfindel.md) và rất nhiều [Hoa Vàng](../H/House_of_the_Golden_Flower.md) đã chiến đấu anh dũng bảo vệ hậu phương.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Nó đi về phía nam từ [Quảng trường Cung điện](../S/Square_of_the_Palace.md) và một trong những tòa nhà dọc theo đó là [Gar Ainion](../G/Gar_Ainion.md). Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), [Tuor](../T/Tuor.md) nghi ngờ liệu có dẫn những người sống sót thẳng đến nhà anh ta theo [Con đường Nước chảy](../W/Way_of_Running_Waters.md) hay không, khi họ bị tấn công và buộc phải đi theo Con đường. Ở đó [Glorfindel](../G/Glorfindel.md) và rất nhiều [Hoa Vàng](../H/House_of_the_Golden_Flower.md) đã chiến đấu anh dũng bảo vệ hậu phương.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

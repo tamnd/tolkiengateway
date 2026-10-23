@@ -23,7 +23,7 @@ langlinks:
 
 <i><b>golodh</b></i> (phát âm <span title="Pronunciation in IPA" class="IPA">[ˈɡoloð]</span>), số nhiều <i><b>gelydh</b></i> (<span title="Pronunciation in IPA" class="IPA">[ˈɡelyð]</span>, sau <span title="Pronunciation in IPA" class="IPA">[ˈɡelið]</span>) hoặc cũ hơn <i><b>gœlydh</b></i> (<span title="Pronunciation in IPA" class="IPA">[ˈɡølyð]</span>), là từ [Sindarin](../S/Sindarin.md) chỉ "một trong những người thông thái", a *Noldo*, pl. *[Noldor](../N/Noldor.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Dạng số nhiều của lớp <i><b>Golodhrim</b></i> (pron. <span title="Pronunciation in IPA" class="IPA">[ɡoˈloðrim]</span>) chứa *[-rim](../R/Rim.md)* dưới dạng đuôi số nhiều tập hợp.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Dạng số nhiều của lớp <i><b>Golodhrim</b></i> (pron. <span title="Pronunciation in IPA" class="IPA">[ɡoˈloðrim]</span>) chứa *[-rim](../R/Rim.md)* dưới dạng đuôi số nhiều tập thể.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

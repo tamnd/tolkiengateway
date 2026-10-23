@@ -62,7 +62,7 @@ infobox:
 
 ## Tổng quan {#Overview}
 
-"A Secret Vice" là tựa đề một bài giảng của Tolkien về chủ đề ngôn ngữ xây dựng và xây dựng thế giới. Cùng với "[Về những câu chuyện cổ tích](../O/On_Fairy-Stories.md)", đây là một trong những hiểu biết quan trọng nhất về phương pháp sáng tạo phụ của Tolkien.
+"A Secret Vice" là tựa đề bài giảng của Tolkien về chủ đề ngôn ngữ xây dựng và xây dựng thế giới. Cùng với "[Về những câu chuyện cổ tích](../O/On_Fairy-Stories.md)", đây là một trong những hiểu biết quan trọng nhất về phương pháp sáng tạo phụ của Tolkien.
 
 Được giao lần đầu tiên vào tháng 11 [1931](../_/1931.md) cho một hiệp hội văn học tại Cao đẳng Pembroke, Oxford, nó đã được sửa đổi sau đó và cuối cùng được [con trai ông](../C/Christopher_Tolkien.md) xuất bản trên *[The Monsters and the Critics, and Other Essays](../T/The_Monsters_and_the_Critics,_and_Other_Essays.md)* năm [1983](../_/1983.md).
 
@@ -110,7 +110,7 @@ Vào tháng 7 [2020](../_/2020.md), một bản bìa mềm có chỉnh sửa đ�
 
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2016](../_/2016.md)), trang 224. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008131392">ISBN 0008131392</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([2020](../_/2020.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008131414">ISBN 0008131414</a>
-    - Ấn bản bìa mềm năm 2020, lần in thứ 5 ([2025](../_/2025.md))
+    - Ấn bản bìa mềm năm 2020, in lần thứ 5 ([2025](../_/2025.md))
 
 ## Xem thêm {#See_also}
 

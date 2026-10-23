@@ -41,7 +41,7 @@ infobox:
         52 (extended)</td></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">1:45 (theatrical) <br/>
           1:44 (extended)</td></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data">The <a href="../E/Entmoot.md" title="Entmoot">Entmoot</a> decides not to intervene in wider affairs</td></tr><tr><th scope="row" class="tg-infobox-label">Characters</th><td class="tg-infobox-data"><a class="mw-redirect" href="../M/Merry.md" title="Merry">Merry</a>, <a class="mw-redirect" href="../P/Pippin.md" title="Pippin">Pippin</a>, <a href="Treebeard.md" title="Treebeard">Treebeard</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><i><a href="The_Breach_of_the_Deeping_Wall.md" title="The Breach of the Deeping Wall">The Breach of the Deeping Wall</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><i><a href="The_Retreat_of_the_Hornburg.md" title="The Retreat of the Hornburg">The Retreat of the Hornburg</a></i></td></tr></tbody></table>
 
-**The Entmoot Decisions** là cảnh thứ 41 của *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và cảnh thứ 50 của [*The Lord of the Rings: The Two Towers* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
+** Entmoot Quyết định** là cảnh thứ 41 của *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và cảnh thứ 52 của [*The Lord of the Rings: The Two Towers* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
 
 ## Tóm tắt {#Synopsis}
 

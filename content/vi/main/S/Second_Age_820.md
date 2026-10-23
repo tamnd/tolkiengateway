@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Aldarion](../T/Tar-Aldarion.md) trở về sau chuyến đi [Trung Địa](../M/Middle-earth.md) đầu tiên bằng con tàu *[Palarran](../P/Palarran.md)* và mang về một viên kim cương làm quà tặng cho [Erendis](../E/Erendis.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Aldarion](../T/Tar-Aldarion.md) trở về sau chuyến đi [Trung Địa](../M/Middle-earth.md) đầu tiên với con tàu *[Palarran](../P/Palarran.md)* và mang về một viên kim cương làm quà tặng cho [Erendis](../E/Erendis.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

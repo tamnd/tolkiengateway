@@ -58,8 +58,8 @@ infobox:
 #### Tính năng {#Features}
 
 - Croft, Janet Brennan. Biên tập.
-- Burriss, Larry L. Sentience và Sapience in the One Ring: Thực tế về chiếc nhẫn chủ của Tolkien.
-- Costabile, Giovanni Carmine. Chiếc Nhẫn Duy Nhất của Vua Solomon.
+- Burriss, Larry L. Sentience và Sapience in the One Nhẫn: Thực tế Chủ nhân Nhẫn của Tolkien.
+- Costabile, Giovanni Carmine. Chiếc nhẫn duy nhất của Vua Solomon.
 - Flieger, Verlyn. Rồng và Nhà ga xe lửa.
 
 #### Đánh giá {#Reviews}

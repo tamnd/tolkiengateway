@@ -40,11 +40,11 @@ infobox:
 
 Tolkien đã có được sự xa hoa khác thường khi nằm trên giường với bánh mì nướng, mứt cam tự làm và lá thư gần đây của Christopher. Anh ta chỉ ngủ chập chờn do tiếng còi báo động của cuộc không kích và sau đó tỉnh dậy để làm những công việc lặt vặt. Anh ấy đã không nếm thử bia kể từ thứ Năm.
 
-Tiếp tục bức thư vào ngày 26 tháng 4, Tolkien báo cáo rằng họ đang thực hiện một số công việc của người thực thi, giảng bài tồi, nhìn thấy Lewises và [Charles Williams](../C/Charles_Williams.md), cắt cỏ, viết thư và đấu tranh với "The Ring". Anh cần biết mỗi đêm mặt trăng mọc muộn bao nhiêu khi gần tròn và cách hầm một con thỏ. Sau một cuộc họp ngắn ở trường đại học lập kỷ lục, anh phải đối mặt với một trong những con gà mái của mình.
+Tiếp tục bức thư vào ngày 26 tháng 4, Tolkien báo cáo rằng họ đang thực hiện một số công việc của người thực thi, giảng bài tồi, nhìn thấy Lewises và [Charles Williams](../C/Charles_Williams.md), cắt cỏ, viết thư và đấu tranh với "The Nhẫn". Anh cần biết mỗi đêm mặt trăng mọc muộn bao nhiêu khi gần tròn và cách hầm một con thỏ. Sau một cuộc họp ngắn ở trường đại học lập kỷ lục, anh phải đối mặt với một trong những con gà mái của mình.
 
 Tolkien giải thích về việc trình bày các bài giảng nói chung là kém. Đó là một nghệ thuật đòi hỏi tài năng bẩm sinh cùng với việc học và thực hành. Nghệ thuật có thể được thực hành mà không cần đến sự chân thành hay thiêng liêng, nhưng không chỉ là một màn trình diễn được mong đợi mà còn là sự thật và sự chân thành. Những bài giảng thực sự cần có một ân sủng đặc biệt nào đó đến từ bản năng hay “cảm hứng”. Đôi khi Đức Thánh Linh phán qua miệng con người nhưng những trường hợp đó rất hiếm.
 
-Christopher đã kể lại một chuyến đi tới Johannesburg mà Tolkien thấy thú vị. Nếu Christopher đến <a class="extiw" href="http://en.wikipedia.org/wiki/Bloemfontein" title="wikipedia:Bloemfontein">Bloemfontein</a> Tolkien tự hỏi liệu nơi sinh của mình có còn đứng vững không. Anh cũng tự hỏi liệu mộ của cha anh có còn ở đó không. <br>
+Christopher đã kể lại một chuyến đi tới Johannesburg mà Tolkien thấy thú vị. Nếu Christopher đến <a class="extiw" href="http://en.wikipedia.org/wiki/Bloemfontein" title="wikipedia:Bloemfontein">Bloemfontein</a> Tolkien tự hỏi liệu nơi sinh của mình có còn đứng vững hay không. Anh cũng tự hỏi liệu mộ của cha anh có còn ở đó không. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

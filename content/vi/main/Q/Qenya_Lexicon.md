@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Qenyaqetsa"
 ---
 
-Chuyển hướng đến [Qenyaqetsa](Qenyaqetsa.md).
+Chuyển hướng tới [Qenyaqetsa](Qenyaqetsa.md).

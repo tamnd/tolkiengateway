@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Có thể từ [OS](../O/OS.md) \**ambartha* từ [PQ](../P/PQ.md) \**ambarata* < [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=MBARAT&amp;action=edit&amp;redlink=1" title="MBARAT (page does not exist)">MBARAT</a><sup id="cite_ref-E_2-0" class="reference"><a href="#cite_note-E-2">[2]</a></sup>
+Có thể từ [OS](../O/OS.md) \**ambartha* từ [PQ](../P/PQ.md) \**ambarata* < [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=MBARAT&amp;action=edit&amp;redlink=1" title="MBARAT (page does not exist)">MBARAT</a><sup id="cite_ref-E_2-0" class="reference"><a href="#cite_note-E-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 

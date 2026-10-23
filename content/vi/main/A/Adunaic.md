@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Adûnaic"
 ---
 
-Chuyển hướng tới [Adûnaic](Adûnaic.md).
+Chuyển hướng đến [Adûnaic](Adûnaic.md).

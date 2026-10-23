@@ -38,7 +38,7 @@ Có ý kiến ​​​​cho rằng *Morgulduin* là tên [Sindarin](../S/Sinda
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Morgulduin originates above the <a href="Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a> in the former cisterns of the city, now corrupted into &#34;Eithel Gwaur&#34;, the Filth-well. Its River-maiden &#34;Rauniel&#34; was killed and devoured by a creature that now lives in and pollutes her domain. The corruption of the river is unmistakable along its course, even after it flows out of the <a href="Morgul_Vale.md" title="Morgul Vale">Morgul Vale</a> into <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>, with only the mighty current of the <a href="../A/Anduin.md" title="Anduin">Anduin</a> itself able to safely dillute the poisoned waters.</dd></dl>
 

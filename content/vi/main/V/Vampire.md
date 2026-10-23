@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vampires"
 ---
 
-Chuyển hướng đến [Ma cà rồng](Vampires.md).
+Chuyển hướng tới [Ma cà rồng](Vampires.md).

@@ -50,7 +50,7 @@ images:
   - "The_Silmarillion_Read_by_Andy_Serkis.jpg"
 ---
 
-Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc Anh** của <i><b><a href="The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></b></i>.
+Dưới đây là danh sách *major* **ấn bản tại Vương quốc Anh** của <i><b><a href="The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></b></i>.
 
 ## 1977-1990 {#1977-1990}
 
@@ -94,8 +94,8 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 
 - [1977](../_/1977.md): [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md), bìa cứng, trang 365. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231398">ISBN 0048231398</a> - (bìa dựa trên tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md))
     - Một số được bảo lưu và phát hành dưới dạng [1982](../_/1982.md) ấn bản dành cho người sưu tầm trong hộp đựng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232238">ISBN 0048232238</a>
-- [1979](../_/1979.md): [Bỏ sách bìa mềm](../U/Unwin_Paperbacks.md), sách bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231533">ISBN 0048231533</a>
-- [1983](../_/1983.md): Unicorn / Unwin Bìa mềm, bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232300">ISBN 0048232300</a> - (ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
+- [1979](../_/1979.md): [Unwin Paperbacks](../U/Unwin_Paperbacks.md), bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231533">ISBN 0048231533</a>
+- [1983](../_/1983.md): Unicorn / Unwin Paperbacks, bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232300">ISBN 0048232300</a> - (ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
     - Ấn bản bìa mềm năm 1983, lần in thứ 7 ([1987](../_/1987.md))
 
 ## 1990-2000 {#1990-2000}

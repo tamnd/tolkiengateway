@@ -30,11 +30,11 @@ images:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The Dimrill Stair is a prominent waterfall dropping into the <a href="../M/Mirrormere.md" title="Mirrormere">Mirrormere</a>.</dd></dl>
 
-<b>2024: <i><a href="../T/The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">Chiếc nhẫn duy nhất</a> — <a href="../M/Moria_-_Through_the_Doors_of_Durin.md" title="Moria - Through the Doors of Durin">Moria: Qua cánh cửa của Durin</a></i>:</b>
+<b>2024: <i><a href="../T/The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">Chiếc nhẫn duy nhất</a> — <a href="../M/Moria_-_Through_the_Doors_of_Durin.md" title="Moria - Through the Doors of Durin">Moria: Qua Cánh cửa Durin</a></i>:</b>
 
 <dl><dd>Prior to the construction of West Moria and the roads beneath the mountain, the Dimrill Stair served as the primary trade highway between Khazad-dûm and Elves and Men. At its foot stood the ruins of the Second Age fortress of Dimrill Watch, which had even sheltered migrating <a href="../W/Woodmen.md" title="Woodmen">Woodmen</a> at some point. The mithril key to the Dimrill Door, a secret entrance at the 17th pillar of the stair, was captured by Orcs and sent as tribute to <a href="../S/Sauron.md" title="Sauron">Sauron</a>. By <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2965.md" title="Third Age 2965">2965</a>, Orcs of <a href="../M/Mordor.md" title="Mordor">Mordor</a> regularly used this secret entrance in their attempts to capture Moria.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> An iron copy of this key was found by Flonar in the archives of the <a href="../B/Blue_Mountains.md" title="Blue Mountains">Blue Mountains</a>, though it too was acquired by Orcs when they captured Flonar in 2965.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 

@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh [Hội đồng Elrond](../../main/C/Council_of_Elrond.md) được trích từ [File:Alan Lee - The Hội đồng Elrond.jpg](Alan_Lee_-_The_Council_of_Elrond.jpg.md).
+Hình ảnh [Hội đồng Elrond](../../main/C/Council_of_Elrond.md) được trích xuất từ ​​ [Tệp:Alan Lee - Tệp Hội đồng Elrond.jpg](Alan_Lee_-_The_Council_of_Elrond.jpg.md).
 
 ## Giấy phép {#Licensing}
 

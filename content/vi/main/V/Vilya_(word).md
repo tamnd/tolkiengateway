@@ -36,7 +36,7 @@ images:
 
 Trong [Qenya](../Q/Qenya.md)trước đó, từ này là *wilma* ("không khí bên trong hoặc thấp hơn") và xuất phát từ [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=WIL&amp;action=edit&amp;redlink=1" title="WIL (page does not exist)">WIL</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Trong *[Ambarkanta](../A/Ambarkanta.md)*trước đó, có các thuật ngữ khác nhau cho không khí trong khí quyển ([Vista](Vista.md)) và bầu trời ([Ilmen](../I/Ilmen.md)).
+Trong *[Ambarkanta](../A/Ambarkanta.md)*trước đó, có các thuật ngữ khác nhau cho không khí của khí quyển ([Vista](Vista.md)) và bầu trời ([Ilmen](../I/Ilmen.md)).
 
 <span></span>
 

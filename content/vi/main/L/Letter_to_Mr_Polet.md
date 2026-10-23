@@ -20,7 +20,7 @@ images:
 
 Vào [ngày 1 tháng 1](../_/1_January.md) [1956](../_/1956.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho ông Polet**.
 
-- **Mô tả:** Được viết tay và ký bởi Tolkien trên tờ giấy viết thư ở Đường Sandfield. 5x7"/13x17cm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- **Mô tả:** Được viết tay và ký bởi Tolkien trên tờ giấy viết thư ở Đường Sandfield. 5x7"/13x17 cm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Trích {#Excerpt}
 

@@ -30,7 +30,7 @@ file:
 
 "Con đường" của "những đỉnh núi đáng sợ của [Gorgorath](../../main/G/Gorgorath.md)" được nhìn qua "con mắt [đại bàng](../../main/E/Eagles.md)" - Minh họa của [Alan Lee](../../main/A/Alan_Lee.md) cho *[Beren and Lúthien](../../main/B/Beren_and_Lúthien.md)*
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Alan Lee</span></span>
 <p>This work is copyrighted and owned by <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:

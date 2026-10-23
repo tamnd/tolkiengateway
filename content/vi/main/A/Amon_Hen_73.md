@@ -54,14 +54,14 @@ infobox:
 - Oxonmoot 1985
 - Thông báo
 - Phía sau cánh cửa kính
-- Nguồn tốt nhất có thể cho Goblin của Tolkien và Ring-wraith
+- Nguồn tốt nhất có thể cho Goblin và Nhẫn-wraith của Tolkien
     - Bởi: [J.S. Ryan](../J/John_Ryan.md)
 - Danh sách nụ cười
 - Thông báo
 - Góc của Jessica
     - Bởi: Jessica Yates
 - Thư
-- Truyện dân gian
+- Truyện dân ca
 - Máy ép nhỏ
 - Bởi: Anne Haward
 - Các loại của Anne

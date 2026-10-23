@@ -30,7 +30,7 @@ file:
 
 "Giới thiệu TLD Mirkwood" của Jan Pospíšil.
 
-Mô tả của tác giả: "*Ở đây bạn có thể thấy một nhóm yêu tinh canh gác, hơi lo lắng về sự hiện diện ngày càng tăng của loài Orc trong rừng của họ.*"
+Mô tả của tác giả: "*Ở đây bạn có thể thấy một nhóm lính canh yêu tinh, hơi lo lắng về sự hiện diện ngày càng tăng của loài Orc trong rừng của họ.*"
 
 Ý tưởng nghệ thuật ban đầu được tạo ra cho *[The Last Days (of the Third Age of Middle-earth)](<../../main/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth).md>)*, một bản mod chuyển đổi tổng thể cho các trò chơi *Mount &amp; Blade* và *Mount &amp; Blade: Warband*.
 

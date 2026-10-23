@@ -20,7 +20,7 @@ images:
 
 ## Lịch sử {#History}
 
-Nokes được chọn làm [Master Cook](../M/Master_Cook.md) mới của [Wootton Major](../W/Wootton_Major.md) sau khi [Rider](../M/Master_Cook_Rider.md) nghỉ hưu. Nokes có thể nấu ăn (ở mức độ nhỏ) nhưng không được chọn làm học trò của Rider. Thay vào đó, Rider đã chọn một chàng trai trẻ tên [Alf](../A/Alf.md), người mà dân làng cho rằng còn quá trẻ và thiếu kinh nghiệm để kế nhiệm Rider làm Đầu bếp chính. Alf vẫn là người học việc nấu ăn sau sự ra đi của Rider.
+Nokes được chọn làm [Chủ nhân Đầu bếp](../M/Master_Cook.md) mới của [Wootton Major](../W/Wootton_Major.md) sau khi [Rider](../M/Master_Cook_Rider.md) nghỉ hưu. Nokes có thể nấu ăn (ở mức độ nhỏ) nhưng không được chọn làm học trò của Rider. Thay vào đó, Rider đã chọn một chàng trai trẻ tên [Alf](../A/Alf.md), người được dân làng cho là còn quá trẻ và thiếu kinh nghiệm để kế nhiệm Rider làm Chủ nhân Đầu bếp. Alf vẫn là người học việc nấu ăn sau sự ra đi của Rider.
 
 Nokes đã nấu ăn đầy đủ, một phần vì anh ấy đã quan sát Alf làm việc. Tuy nhiên, khi đến [Lễ Trẻ ngoan](../T/The_Feast_of_Good_Children.md) anh ấy lo lắng về [Bánh Tuyệt vời](../G/Great_Cake.md) mà anh ấy sẽ phải làm. Cuối cùng, anh ấy (thực ra phần lớn là Alf) đã tạo ra một chiếc Bánh có một ngọn núi nhỏ màu trắng trên cùng có một hình người nhỏ màu trắng, được xác định (như được viết trên lớp phủ sương) là "Nữ hoàng cổ tích". Bên trong chiếc bánh có 24 đồ trang sức và đồng xu, cùng với thứ mà Nokes nghĩ là một ngôi sao bạc. Thực ra đó là một [Fay-star](../F/Fay-star.md) nhưng Nokes cười nhạo quan điểm này. Điều đáng chú ý duy nhất về Great Cake của Nokes là nó chỉ đủ lớn cho mỗi đứa trẻ một miếng, rất tiết kiệm so với những chiếc bánh trước đây.
 

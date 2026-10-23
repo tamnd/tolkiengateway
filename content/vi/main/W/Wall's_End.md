@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ramdal"
 ---
 
-Chuyển hướng đến [Ramdal](../R/Ramdal.md).
+Chuyển hướng tới [Ramdal](../R/Ramdal.md).

@@ -108,7 +108,7 @@ Although studies of the &#34;Oxford Inklings&#34; abound, astonishingly enough, 
     - của Bradley Wells
 - 18\. "Bất kỳ Chén Rượu Thánh nào": Ý nghĩa của Chén Thánh trong Charles Williams' *War in Heaven*
     - bởi Suzanne Bray
-- Những hành vi hiệp nhất: Thần học Thánh Thể của Charles Williams' Thơ Arthurian
+- Những hành động hiệp nhất: Thần học Thánh Thể của Charles Williams' Thơ Arthurian
     - của Andrew C. Stout
 
 - Kết luận—Một thời và tương lai: Inklings, Arthur, và cái nhìn sâu sắc mang tính tiên tri

@@ -25,7 +25,7 @@ images:
 ## Sách {#Books}
 
 - *[Helm's Deep (chapter)](<Helm's_Deep_(chapter).md>)*, chương bảy cuốn đầu tiên của *[The Two Towers](../T/The_Two_Towers.md)* (Quyển III của [The Lord of the Rings](../T/The_Lord_of_the_Rings.md))
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Helm%27s_Deep_(The_War_of_the_Ring)&amp;action=edit&amp;redlink=1" title="Helm&#39;s Deep (The War of the Ring) (page does not exist)">Helm's Deep (The Cuộc chiến Nhẫn)</a></i>, chương hai của *[The War of the Ring](../T/The_War_of_the_Ring.md)*
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Helm%27s_Deep_(The_War_of_the_Ring)&amp;action=edit&amp;redlink=1" title="Helm&#39;s Deep (The War of the Ring) (page does not exist)">Helm's Deep (The War of the Ring)</a></i>, chương hai của *[The War of the Ring](../T/The_War_of_the_Ring.md)*
 
 ## Các bản chuyển thể {#Adaptations}
 

@@ -53,7 +53,7 @@ và cuối cùng là tái tạo *[Der Berggeist](../D/Der_Berggeist.md)* ("Thầ
 
 Mặc dù Carpenter suy đoán, nhưng Tolkien đã mua tấm bưu thiếp này vào kỳ nghỉ hè [1911](../_/1911.md), khi anh ấy ở Thụy Sĩ. Suy đoán này không chính xác: theo giải thích của [Manfred Zimmermann](../M/Manfred_Zimmermann.md), phiên bản bưu thiếp của *Der Berggeist* đã được xuất bản vào cuối những năm hai mươi. Phỏng vấn con gái của họa sĩ (tên khai sinh [1910](../_/1910.md)), cô cũng cho biết ngày xuất xứ của bức tranh sau đó, vì cô có thể nhớ được thời điểm cha anh vẽ nó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Bức tranh gốc đến Mỹ sau Thế chiến thứ hai và sau đó nó được phát hiện lại. Trong [2005](../_/2005.md) nó đã được bán tại Sotheby's với giá £84000.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Bức tranh gốc đến Mỹ sau Thế chiến thứ hai, nơi nó sau đó được phát hiện lại. Trong [2005](../_/2005.md) nó đã được bán tại Sotheby's với giá £84000.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Tolkien đã mua ít nhất một tấm bưu thiếp Madlener khác do Ackermann's xuất bản: <a class="external text" href="http://www.akpool.de/ansichtskarten/205063-kuenstler-ak-madlener-j-heilige-familie-esel-wald%7C" rel="noreferrer noopener" target="_blank">"Heilige Familie"</a> (Holy Family), mà ông đã gửi cho [Katherine Kilbride vào ngày 24 tháng 12 năm 1938](../L/Letter_to_Miss_Kilbride.md).
 

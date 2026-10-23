@@ -80,4 +80,4 @@ Sự kiện xảy ra vào ngày 18 tháng 1.
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
-    - [Saruman](../S/Saruman.md) nghe được [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) và cử một đại đội do [Uglúk](../U/Uglúk.md) chỉ huy để chặn chúng.
+    - [Saruman](../S/Saruman.md) nghe được [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) và cử một đại đội do [Uglúk](../U/Uglúk.md) chỉ huy đến chặn chúng.

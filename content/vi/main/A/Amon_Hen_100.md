@@ -61,10 +61,10 @@ Danh tiếng học thuật của - Tolkien hiện nay
 - Thư
 - Góc của Jessica
     - Bởi: Jessica Yates
-- Máy ép nhỏ
+- Báo chí nhỏ
 - Sự học hỏi của Debi
     - Bởi: Debi Haigh-Hutchinson
-- Truyện dân ca
+- Truyện dân gian
 - Hồi tưởng biên tập
     - Bởi: Mike Austin Percival (với thông tin từ những người chỉnh sửa trước đó)
 - Toán học

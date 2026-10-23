@@ -76,7 +76,7 @@ Cái tên rõ ràng ám chỉ việc anh ta "Bao phủ bởi mái tóc lá".<sup
 
 <dl><dd><a class="external text" href="http://lotrtcgwiki.com/wiki/lotr15030" rel="noreferrer noopener" target="_blank">A card</a> in <a href="../D/Decipher.md" title="Decipher">Decipher</a>&#39;s <a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a> identifies one of the Ents at <a href="../I/Isengard.md" title="Isengard">Isengard</a> as Leaflock.</dd></dl>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">The Lord of the Rings Trực tuyến: Các tay đua của Rohan</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">The Lord of the Rings Online: Tay đua của Rohan</a></i>:</b>
 
 <dl><dd>Leaflock is found in the North-Western part of the Fangorn Forest, near the borders of Rohan.</dd></dl>
 

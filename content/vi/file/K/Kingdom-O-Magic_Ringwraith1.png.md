@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Một [Ringwraith](../../main/R/Ringwraith.md) trong [Kingdom O' Magic](../../main/K/Kingdom_O'_Magic.md).
+Một [Ringwraith](../../main/R/Ringwraith.md) trong [Vương quốc O' Magic](../../main/K/Kingdom_O'_Magic.md).
 
 ## Giấy phép {#Licensing}
 

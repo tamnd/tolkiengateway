@@ -55,7 +55,7 @@ infobox:
 - [Anders Stenström](../A/Anders_Stenström.md): "Tolkien trong bản dịch tiếng Thụy Điển: từ *Hompen* đến *Ringarnas herre*"
 - [Vincent Ferré](../V/Vincent_Ferré.md): "Tolkien, Thẩm phán của chúng tôi Peter Jackson"
 - [Anthony S. Burdge](../A/Anthony_Burdge.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jessica_Burke&amp;action=edit&amp;redlink=1" title="Jessica Burke (page does not exist)">Jessica Burke</a>: "Những anh hùng bị sỉ nhục: Peter Jackson diễn giải về The Lord of the Rings"
-- Øystein Høgset: "Sự chuyển thể của The Lord of the Rings Một bình luận phê phán"
+- Øystein Høgset: "Sự chuyển thể của The Lord of the Rings Một bình luận phê bình"
 - [James Dunning](../J/James_Dunning.md): "Giáo sư và Giám đốc và Thiện vs. Ác trong Trung Địa"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Alexandra_Velten&amp;action=edit&amp;redlink=1" title="Alexandra Velten (page does not exist)">Alexandra Velten</a>: "Lời nhạc phim Chúa tể những chiếc nhẫn của Peter Jackson- 'Bản dịch' hợp pháp của Tolkien?"
 

@@ -36,14 +36,14 @@ Album có ảnh bìa của [Margrethe II của Đan Mạch](../M/Margrethe_II_of
 2. "Gandalf Bài hát của Lórien"
 3. "Lời than thở của Rohirrim"
 Lời than thở của 4. "Frodo dành cho Gandalf"
-5. "Bài hát củaBilbo"
+5. "Bilbo Bài hát"
 6. "Bài hát/Câu đố về Gollum"
 7. "Than tiếc cho Boromir"
 8. "[Bài hát trong rừng](../O/O!_Wanderers_in_the_shadowed_land.md#Portrayal_in_adaptations)"
 9. "Sự sụp đổ của Gil-galad"
 10. "Than tiếc cho Théoden"
 11. "Bài hát về các gò đất Mundborg"
-12. "Tiên Bài thánh ca gửi Elbereth Gilthoniel, [A Elbereth Gilthoniel](A_Elbereth_Gilthoniel.md)..."
+12. "Tiên Thánh ca tặng Elbereth Gilthoniel, [A Elbereth Gilthoniel](A_Elbereth_Gilthoniel.md)..."
 
 ## Tín dụng {#Credits}
 

@@ -23,7 +23,7 @@ images:
 
 ## Mô tả {#Description}
 
-*The Lay of Beowulf* tồn tại ở hai phiên bản khác nhau — phiên bản trước có tên "Beowulf và Grendel" và phiên bản sau có tên "Beowulf và Quái vật". Chúng được Tolkien hiển thị dưới dạng bản đánh máy, chứa một trang bìa có ghi chú viết tay "Các giai đoạn bồi đắp vật chất mới thành The Lay of Beowulf" và "Dự định được hát". Không rõ ngày sáng tác nhưng bản đầu tiên được Ronald hát cho con trai Christopher nghe vào đầu những năm 1930.<sup id="cite_ref-Lay_2-0" class="reference"><a href="#cite_note-Lay-2">[2]</a></sup>
+*The Lay of Beowulf* tồn tại ở hai phiên bản khác nhau — phiên bản trước có tên "Beowulf và Grendel" và phiên bản sau có tên "Beowulf và Quái vật". Chúng được Tolkien hiển thị dưới dạng bản đánh máy, chứa một trang bìa có ghi chú viết tay "Các giai đoạn bồi đắp vật chất mới thành The Lay of Beowulf" và "Dự định được hát". Không rõ ngày sáng tác, nhưng bản đầu tiên được Ronald hát cho con trai ông Christopher vào đầu những năm 1930.<sup id="cite_ref-Lay_2-0" class="reference"><a href="#cite_note-Lay-2">[2]</a></sup>
 
 ## Khổ đầu tiên {#First_stanza}
 

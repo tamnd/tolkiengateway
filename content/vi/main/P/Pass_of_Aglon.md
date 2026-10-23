@@ -62,7 +62,7 @@ Trong [F.A.](../F/First_Age.md) [455](../F/First_Age_455.md),<sup id="cite_ref-5
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Tên **Pass of Aglond** xuất hiện trong văn bản và trên bản đồ trong phần viết cuối cùng của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). [Christopher Tolkien](../C/Christopher_Tolkien.md) đã bỏ qua *d* khi vẽ lại bản đồ vì tin rằng đó là phần tử gốc. Tuy nhiên, ông lưu ý rằng mặc dù nó có vẻ giống như một phần tử nguyên bản nhưng *d* có thể đã được thêm vào sau đó rất nhiều.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+Tên **Pass of Aglond** xuất hiện trong văn bản và trên bản đồ trong [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bài viết cuối cùng. [Christopher Tolkien](../C/Christopher_Tolkien.md) đã bỏ qua *d* khi vẽ lại bản đồ vì tin rằng đó là phần tử gốc. Tuy nhiên, ông lưu ý rằng mặc dù nó có vẻ giống như một phần tử nguyên bản nhưng *d* có thể đã được thêm vào sau đó rất nhiều.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 <span></span>
 

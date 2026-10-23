@@ -162,7 +162,7 @@ Các lãnh địa dưới lòng đất của Azog ở miền bắc, dù đã b�
 
 ### Trò chơi {#Games}
 
-<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Azog appears in an extended flashback depicting the beginning and the end of the <a href="../W/War_of_the_Dwarves_and_Orcs.md" title="War of the Dwarves and Orcs">War of the Dwarves and Orcs</a>. Azog&#39;s youngest son &#34;Komog&#34; is slain in the halls of <a href="../G/Gundabad.md" title="Gundabad">Gundabad</a>, while his eldest son &#34;Urro&#34; is killed by <a href="../T/Thorin.md" title="Thorin">Thorin</a> during the <a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Battle of Azanulbizar</a> in the same engagement that earns him the name &#34;Oakenshield&#34;. <a href="../B/Bolg.md" title="Bolg">Bolg</a> survives as his only heir by escaping into <a href="../M/Moria.md" title="Moria">Moria</a> shortly before Azog is killed by Dáin.</dd></dl>
 

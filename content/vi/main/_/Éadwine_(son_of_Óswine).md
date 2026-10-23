@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éadwine"
 ---
 
-Chuyển hướng tới [Éadwine](Éadwine.md).
+Chuyển hướng đến [Éadwine](Éadwine.md).

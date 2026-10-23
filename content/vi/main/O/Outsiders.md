@@ -31,7 +31,7 @@ Trong các bản thảo trước đó của "Chúa tể những chiếc nhẫn" 
 
 ## Liên kết ngoài {#External_links}
 
-Nhẫn của - Tolkien: <a class="external text" href="https://tolkiensring.proboards.com/thread/1250/hobbits-tramps" rel="noreferrer noopener" target="_blank">Hobbit với tư cách là Kẻ lang thang?</a>
+- Tolkien của Nhẫn: <a class="external text" href="https://tolkiensring.proboards.com/thread/1250/hobbits-tramps" rel="noreferrer noopener" target="_blank">Hobbit trong vai Kẻ lang thang?</a>
 - Lưu trữ Zenopus: <a class="external text" href="https://zenopusarchives.blogspot.com/2014/08/tolkiens-wild-hobbits.html" rel="noreferrer noopener" target="_blank">Tolkien's Wild Hobbit</a>
 
 ## Tài liệu tham khảo {#References}

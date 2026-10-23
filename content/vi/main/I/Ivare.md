@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ivárë"
 ---
 
-Chuyển hướng tới [Ivárë](Ivárë.md).
+Chuyển hướng đến [Ivárë](Ivárë.md).

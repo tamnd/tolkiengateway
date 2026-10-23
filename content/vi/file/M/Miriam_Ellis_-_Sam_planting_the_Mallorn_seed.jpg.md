@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bản phác thảo "[Sam](../../main/S/Samwise_Gamgee.md) gieo hạt [Mallorn](../../main/M/Mallorn.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
+Phác thảo "[Sam](../../main/S/Samwise_Gamgee.md) gieo hạt [Mallorn](../../main/M/Mallorn.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
 
 ## Giấy phép {#Licensing}
 

@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Logo của [Tolkien 2005](../../main/T/Tolkien_2005.md).
+Biểu trưng của [Tolkien 2005](../../main/T/Tolkien_2005.md).
 
 ## Giấy phép {#Licensing}
 

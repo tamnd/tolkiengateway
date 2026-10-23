@@ -34,7 +34,7 @@ images:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Normally inaccessible, the Hill of Guard can be observed during a mission in which the player accompanies King <a class="mw-redirect mw-disambig" href="../E/Elessar.md" title="Elessar">Elessar</a> to the sappling of the <a class="mw-redirect mw-disambig" href="../W/White_Tree.md" title="White Tree">White Tree</a>.</dd></dl>
 

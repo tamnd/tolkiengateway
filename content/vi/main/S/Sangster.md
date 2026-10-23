@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Minstrels"
 ---
 
-Chuyển hướng đến [Minstrels](../M/Minstrels.md).
+Chuyển hướng tới [Minstrels](../M/Minstrels.md).

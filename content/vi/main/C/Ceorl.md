@@ -92,7 +92,7 @@ Giống như những [Rohirrim](../R/Rohirrim.md)khác, tên của Ceorl bắt n
 
 <dl><dd><a href="../T/Théoden.md" title="Théoden">Théoden</a> rides directly to the <a href="../H/Hornburg.md" title="Hornburg">Hornburg</a>, so there is no need for a messenger. A card from <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i> identifies one of the <a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a> as Ceorl.</dd></dl>
 
-<b><a href="../_/2013.md" title="2013">2013</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2013.md" title="2013">2013</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Ceorl encounters King Théoden&#39;s riders on their way from <a href="../E/Edoras.md" title="Edoras">Edoras</a> to the <a href="../F/Fords_of_Isen.md" title="Fords of Isen">Fords of Isen</a>. His only lines are nearly identical to those in the book.</dd></dl>
 

@@ -31,7 +31,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"At the [Prancing Pony](../../main/P/Prancing_Pony.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), xuất bản lần đầu trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=1976J.R.R._Tolkien_Calendar&amp;action=edit&amp;redlink=1" title="1976J.R.R. Tolkien Calendar (page does not exist)">1976J.R.R. Tolkien Lịch</a>
+"Tại [Prancing Pony](../../main/P/Prancing_Pony.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), xuất bản lần đầu trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=1976J.R.R._Tolkien_Calendar&amp;action=edit&amp;redlink=1" title="1976J.R.R. Tolkien Calendar (page does not exist)">1976J.R.R. Tolkien Lịch</a>
 
 ## Giấy phép {#Licensing}
 

@@ -34,7 +34,7 @@ Thế giới của <i><b>Tolkien: Những bức tranh của Trung Địa</b></i>
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-[Trung Địa](../M/Middle-earth.md), thế giới được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tạo ra trong các tác phẩm kinh điển vượt thời gian *[The Hobbit](The_Hobbit.md)*, *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và *[The Silmarillion](The_Silmarillion.md)*của ông, đã trở thành nguồn cảm hứng cho nhiều thế hệ nghệ sĩ. Tập tác phẩm nghệ thuật tuyệt đẹp này tôn vinh di sản trí tưởng tượng của ông. *Tolkien's World* bao gồm tranh của các họa sĩ từ khắp nơi trên thế giới. Từ những miêu tả mạnh mẽ về mặt tối của Trung Địa của [John Howe](../J/John_Howe.md), đến những phong cảnh giàu sức gợi của [Alan Lee](../A/Alan_Lee.md); từ những bức tranh thú vị của [Michael Hague](../M/Michael_Hague.md) trong *The Hobbit* đến hình ảnh kỳ lạ và hấp dẫn của [Roger Garland](../R/Roger_Garland.md); từ sự đơn giản hấp dẫn trong tác phẩm của [Inger Edelfeldt](../I/Inger_Edelfeldt.md) đến sự phức tạp của chủ nghĩa hiện thực đầy kịch tính trong [Ted Nasmith](Ted_Nasmith.md) - Thế giới của Tolkien trải dài trên toàn bộ Trung Địa. Mỗi bức tranh có kèm theo một trang văn bản được rút ra từ cuốn sách đã truyền cảm hứng cho nó, mô tả khung cảnh mà họa sĩ đã chọn để minh họa. Ngoài ra còn có một bài luận ngắn của mỗi nghệ sĩ về ảnh hưởng của Tolkien đối với họ.
+[Trung Địa](../M/Middle-earth.md), thế giới được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tạo ra trong các tác phẩm kinh điển vượt thời gian *[The Hobbit](The_Hobbit.md)*, *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và *[The Silmarillion](The_Silmarillion.md)*của ông, đã trở thành nguồn cảm hứng cho nhiều thế hệ nghệ sĩ. Tập tác phẩm nghệ thuật tuyệt đẹp này tôn vinh di sản trí tưởng tượng của ông. *Tolkien's World* bao gồm tranh của các họa sĩ từ khắp nơi trên thế giới. Từ những miêu tả mạnh mẽ về mặt tối của Trung Địa của [John Howe](../J/John_Howe.md), đến những phong cảnh gợi nhiều liên tưởng của [Alan Lee](../A/Alan_Lee.md); từ những bức tranh thú vị của [Michael Hague](../M/Michael_Hague.md) trong *The Hobbit* đến hình ảnh kỳ lạ và hấp dẫn của [Roger Garland](../R/Roger_Garland.md); từ sự đơn giản hấp dẫn trong tác phẩm của [Inger Edelfeldt](../I/Inger_Edelfeldt.md) đến sự phức tạp của chủ nghĩa hiện thực đầy kịch tính trong [Ted Nasmith](Ted_Nasmith.md) - Thế giới của Tolkien trải dài trên toàn bộ Trung Địa. Mỗi bức tranh có kèm theo một trang văn bản được rút ra từ cuốn sách đã truyền cảm hứng cho nó, mô tả khung cảnh mà họa sĩ đã chọn để minh họa. Ngoài ra còn có một bài luận ngắn của mỗi nghệ sĩ về ảnh hưởng của Tolkien đối với họ.
 
 ## Tác phẩm tiêu biểu {#Featured_artwork}
 
@@ -79,7 +79,7 @@ Thế giới của <i><b>Tolkien: Những bức tranh của Trung Địa</b></i>
     - [Smaug trên Esgaroth](../../file/J/John_Howe_-_Smaug_Destroys_Lake-town.jpg.md)
     - [Gandalf](../../file/J/John_Howe_-_Gandalf_the_Grey_02.jpg.md)
     - [Cái Uruk-hai](../../file/J/John_Howe_-_The_Uruk-hai.jpg.md)
-    - [Tháp bóng tối](../../file/J/John_Howe_-_The_Dark_Tower_01.jpg.md)
+    - [Cái Tòa Tháp Bóng Tối](../../file/J/John_Howe_-_The_Dark_Tower_01.jpg.md)
     - [Sam và Shelob](../../file/J/John_Howe_-_Sam_and_Shelob.jpg.md)
     - [Minas Tirith](../../file/J/John_Howe_-_Minas_Tirith.jpg.md)
     - [Trong Mordor](../../file/J/John_Howe_-_In_Mordor.jpg.md)
@@ -98,7 +98,7 @@ Tấm gương của     - [Galadriel](../../file/A/Alan_Lee_-_The_Mirror_of_Gala
     - [Núi Doom](../../file/A/Alan_Lee_-_Mount_Doom.jpg.md)
 - **[Ted Nasmith](Ted_Nasmith.md)**:
     - [Rivendell](../../file/T/Ted_Nasmith_-_Rivendell.jpg.md)
-    - [Xứ đồi xanh](../../file/T/Ted_Nasmith_-_Green_Hill_Country.jpg.md)
+    - [Xứ Green Hill](../../file/T/Ted_Nasmith_-_Green_Hill_Country.jpg.md)
     - [Rời khỏi Shire](../../file/T/Ted_Nasmith_-_Leaving_the_Shire.jpg.md)
     - [Dưới sự phù phép của Barrow-wight](../../file/T/Ted_Nasmith_-_Under_the_Spell_of_the_Barrow-wight.jpg.md)
     - [Những tay đua trên chiếc Ford](../../file/T/Ted_Nasmith_-_Riders_at_The_Ford.jpg.md)

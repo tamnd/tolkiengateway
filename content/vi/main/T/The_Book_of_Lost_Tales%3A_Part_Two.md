@@ -180,7 +180,7 @@ This second part of The Book of Lost Tales includes the tale of Beren and Lúthi
 </ul>
 
 - [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md), bìa cứng ([1984](../_/1984.md)), trang 385. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232653">ISBN 0048232653</a>
-- Unicorn / Unwin Bìa mềm, bìa mềm ([1986](../_/1986.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048233382">ISBN 0048233382</a> - (ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
+- Unicorn / Unwin Paperbacks, bìa mềm ([1986](../_/1986.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048233382">ISBN 0048233382</a> - (ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
     - Ấn bản bìa mềm năm 1986, lần in thứ 3 ([1988](../_/1988.md))
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([1991](../_/1991.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102133">ISBN 0261102133</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1995](../_/1995.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102141">ISBN 0261102141</a> - (ảnh bìa của [John Howe](../J/John_Howe.md))

@@ -43,7 +43,7 @@ infobox:
 <i><b>A Northern Venture: Những câu thơ của các thành viên của <a href="../U/University_of_Leeds.md" title="University of Leeds">Hiệp hội trường học tiếng Anh của Đại học Leeds</a></b></i> là tập hợp gồm 23 bài thơ của mười tác giả khác nhau. Tập sách gồm ba bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md):
 
 1. "[Tha Eadigan Saelidan: Những thủy thủ hạnh phúc](../T/Tha_Eadigan_Saelidan%253A_The_Happy_Mariners.md)"
-2. "[Tại sao người đàn ông trong Mặt Trăng lại xuống quá sớm](../T/The_Man_in_the_Moon_Came_Down_Too_Soon.md)"
+2. "[Tại sao Người đàn ông trong Mặt Trăng lại sập quá sớm](../T/The_Man_in_the_Moon_Came_Down_Too_Soon.md)"
 3. "[Enigmata Saxonica Nuper Inventa Duo](../E/Enigmata_Saxonica_Nuper_Inventa_Duo.md)"
 
 Các tác giả đáng chú ý khác bao gồm bạn bè và đồng nghiệp của Tolkien [Wilfred Rowland Childe](../W/Wilfred_Rowland_Childe.md) (đóng góp hai bài thơ) và [E.V. Gordon](../E/E.V._Gordon.md) (hai bài thơ), và học trò của ông <a class="new" href="https://tolkiengateway.net/w/index.php?title=A.H._Smith&amp;action=edit&amp;redlink=1" title="A.H. Smith (page does not exist)">A.H. Smith</a> (hai bài thơ).

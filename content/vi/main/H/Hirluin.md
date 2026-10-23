@@ -62,7 +62,7 @@ infobox:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Hirluin is first met in <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> shortly before the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a>, drinking in a tavern and remembering the days of their youth with his good friend <a href="../F/Forlong.md" title="Forlong">Forlong</a>. Later, both of them lead the defence of the White City, fighting on the wall alongside other defenders. When the Rohirrim army arrives, both of them rush outside the city gates and faces their foes together before Hirluin is slain before his friend.</dd></dl>
 

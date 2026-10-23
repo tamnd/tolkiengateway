@@ -70,11 +70,11 @@ Những con gấu trong [Letters from Father Christmas](../L/Letters_from_Father
 
 <dl><dd><a href="Beorn.md" title="Beorn">Beorn</a> appears only in the shape of a black bear.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
 
 <dl><dd>Bears appear as wildlife on the &#34;Mirkwood&#34; map.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Bears are found within many places of Middle-earth and range in size between that of a large dog to a small elephant. They are typically not aggressive, but will fight if a player threatens them. Players that are lore-masters are able to use a bear as a combat pet.</dd></dl>
 

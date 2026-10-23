@@ -43,7 +43,7 @@ infobox:
     - "Không có gì: Tolkien, [Ungoliant](../U/Ungoliant.md)và Tư tưởng Anselmian" của Perry Neil Harrison
 - **Đánh giá**
     - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mapping_Middle-earth:_Environmental_and_Political_Narratives_in_J.R.R._Tolkien%27s_Cartographies&amp;action=edit&amp;redlink=1" title="Mapping Middle-earth: Environmental and Political Narratives in J.R.R. Tolkien&#39;s Cartographies (page does not exist)">Lập bản đồ Trung Địa: Những câu chuyện về môi trường và chính trị trong Bản đồ của J.R.R. Tolkien</a></i> của Anahit Behrooz (được Erik Mueller-Harder đánh giá)
-    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pity,_Power,_and_Tolkien%27s_Ring&amp;action=edit&amp;redlink=1" title="Pity, Power, and Tolkien&#39;s Ring (page does not exist)">Sự thương hại, sức mạnh và chiếc nhẫn Tolkien</a></i> của Thomas P. Hillman (được đánh giá bởi Mercury Natis)
+    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pity,_Power,_and_Tolkien%27s_Ring&amp;action=edit&amp;redlink=1" title="Pity, Power, and Tolkien&#39;s Ring (page does not exist)">Sự thương hại, sức mạnh và Tolkien của Nhẫn</a></i> của Thomas P. Hillman (được đánh giá bởi Mercury Natis)
     - *[Tolkien's Transformative Women: Art in Triptych](../T/Tolkien's_Transformative_Women%253A_Art_in_Triptych.md)* của Annie Brust (được đánh giá bởi Clare Moore)
     - *[Theology and Tolkien: Practical Theology](../T/Theology_and_Tolkien%253A_Practical_Theology.md)* được chỉnh sửa bởi Douglas Estes (được Christian đánh giá S. Trenk)
 - **Lỗi**

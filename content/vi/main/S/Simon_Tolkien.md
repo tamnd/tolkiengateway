@@ -55,7 +55,7 @@ Năm [1984](../_/1984.md), anh kết hôn với Tracy Steinberg, một người 
 
 Vào [tháng 1](../J/January.md) của [2000](../_/2000.md), Simon Tolkien bắt đầu viết tiểu thuyết.<sup id="cite_ref-life_3-1" class="reference"><a href="#cite_note-life-3">[3]</a></sup> Tolkien cuốn tiểu thuyết đầu tiên của ông, *The Stepmother* (xuất bản ở Hoa Kỳ với tên *Final Witness: A Novel*), được xuất bản năm 2003. *The Inheritance: A Novel*, cuốn sách thứ hai của ông, được xuất bản vào ngày 13 tháng 4 năm 2010 bởi Minotaur Books.
 
-Simon Tolkien không đồng ý với chính sách lúc bấy giờ về [tài sản của ông nội](../T/Tolkien_Estate.md) về việc chuyển thể các tác phẩm của ông nội mình. Kết quả là anh ấy có mối quan hệ căng thẳng với cha mình về điểm đó,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> tuy nhiên sau đó họ đã hòa giải.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Simon Tolkien không đồng ý với chính sách lúc đó của [tài sản của ông nội](../T/Tolkien_Estate.md) về việc chuyển thể các tác phẩm của ông nội mình. Kết quả là anh ấy có mối quan hệ căng thẳng với cha mình về điểm đó,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> tuy nhiên sau đó họ đã hòa giải.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Anh ấy đã được tư vấn về việc phát triển loạt phim truyền hình [The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) và anh ấy đã giúp phát triển câu chuyện cũng như các tuyến nhân vật. Kết quả là anh ấy được ghi nhận là "nhà tư vấn hàng loạt".<sup id="cite_ref-SimonTolkien_6-0" class="reference"><a href="#cite_note-SimonTolkien-6">[6]</a></sup>
 
@@ -105,7 +105,7 @@ Anh ấy đã được tư vấn về việc phát triển loạt phim truyền 
 - [2010](../_/2010.md): Đài phát thanh công cộng Đông Bắc WAMC, ngày 18 tháng 5 năm 2010
     - "*Âm thanh Buổi trình diễn sách #1139 - Simon Tolkien*<sup class="noprint" style="line-height: 0.4em;">[<a href="../../project/M/Manual_of_Style.md#Redlinks" title="Tolkien Gateway:Manual of Style"><i>former link</i></a>]</sup>
 - [2010](../_/2010.md): *[Mythprint](../M/Mythprint.md)* tập. 47, không. 6
-    - "<a class="external text" href="https://www.mythsoc.org/reviews/interview-simon-tolkien.htm" rel="noreferrer noopener" target="_blank">Phỏng vấn Simon Tolkien</a>" (của [Jason Fisher](../J/Jason_Fisher.md))
+    - "<a class="external text" href="https://www.mythsoc.org/reviews/interview-simon-tolkien.htm" rel="noreferrer noopener" target="_blank">Phỏng vấn Simon Tolkien</a>" (bởi [Jason Fisher](../J/Jason_Fisher.md))
 - [2010](../_/2010.md): [*Mallorn* 50](../M/Mallorn_50.md)
     - "Người đàn ông bí ẩn" (bởi [Mike Austin Foster](../M/Mike_Foster.md))
 - [2012](../_/2012.md): *The Telegraph* ngày 18 tháng 11 năm 2012

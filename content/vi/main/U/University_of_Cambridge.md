@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cambridge"
 ---
 
-Chuyển hướng tới [Cambridge](../C/Cambridge.md).
+Chuyển hướng đến [Cambridge](../C/Cambridge.md).

@@ -46,7 +46,7 @@ images:
 
 Gandalf tuyên bố rằng những thứ không tên này trong Arda đã cũ hơn [Sauron](../S/Sauron.md), cho thấy rằng chúng còn sống trước khi một số [Maiar](../M/Maiar.md) đến Arda.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
 
-Những thực thể như vậy được cho là "nhầy nhụa hơn cá" và thích sống trong bóng tối. Người ta biết rằng họ đã sinh sống trong các hang động sâu trong lòng núi từ thời [Ngày của Người cao tuổi](../E/Elder_Days.md). Khi [Orc của Dãy Núi Sương Mù](../O/Orcs_of_the_Misty_Mountains.md) đào quanh [Thị trấn yêu tinh](../G/Goblin-town.md), đào những đường hầm mới, mở rộng và nối những đường hầm đã tồn tại, những người chủ ban đầu của chúng đã rút lui xuống vực sâu nhất và ẩn nấp ngoài tầm hiểu biết của họ.<sup id="cite_ref-Riddles_3-0" class="reference"><a href="#cite_note-Riddles-3">[2]</a></sup>
+Những thực thể như vậy được cho là "nhầy nhụa hơn cá" và thích sống trong bóng tối. Người ta biết rằng họ đã sinh sống trong các hang động sâu trong lòng núi từ thời [Ngày của Người cao tuổi](../E/Elder_Days.md). Khi [Orc của Dãy Núi Sương Mù](../O/Orcs_of_the_Misty_Mountains.md) đào xung quanh [Thị trấn Yêu Tinh](../G/Goblin-town.md), đào các đường hầm mới, mở rộng và nối các đường hầm đã tồn tại, chủ sở hữu ban đầu của chúng đã rút lui xuống vực sâu nhất và ẩn nấp ngoài tầm hiểu biết của họ.<sup id="cite_ref-Riddles_3-0" class="reference"><a href="#cite_note-Riddles-3">[2]</a></sup>
 
 Theo Gandalf, [Tai họa của Durin](../D/Durin's_Bane.md) đã học cách định hướng các đường hầm của những thứ không tên trong thời gian dài ở [Moria](../M/Moria.md). Sau khi cả hai rơi từ [Cầu Khazad-dûm](../B/Bridge_of_Khazad-dûm.md) xuống một hồ nước ngầm, [Balrog](../B/Balrogs.md) đã bỏ trốn qua những đường hầm này. Gandalf theo đuổi nó chặt chẽ, tin rằng kiến ​​thức của nó về đường hầm là hy vọng trốn thoát duy nhất của anh ta. Cuộc rượt đuổi của họ đã dẫn họ đến chân [Cầu thang vô tận](../E/Endless_Stair.md), nơi họ leo lên và cuối cùng lên đến đỉnh [Zirakzigil](../C/Celebdil.md).<sup id="cite_ref-tWR_1-2" class="reference"><a href="#cite_note-tWR-1">[1]</a></sup>
 
@@ -95,7 +95,7 @@ Todd Jensen gợi ý rằng những thứ không tên có thể được lấy c
 
 ### Trò chơi {#Games}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Nameless is a creature type categorized as &#34;Ancient Evil&#34;. They have a variety of shapes, but most of them are humanoid, only with no eyes or no head at all. They can be found in the <a href="../D/Drúadan_Forest.md" title="Drúadan Forest">Drúadan Forest</a>, having come out of the <a href="../W/White_Mountains.md" title="White Mountains">White Mountains</a> during the <a href="../D/Dawnless_Day.md" title="Dawnless Day">Dawnless Day</a>; and beneath the <a href="../I/Iron_Hills.md" title="Iron Hills">Iron Hills</a>, where a horde of <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a>&#39;s monsters were sealed away by the Dwarves long ago. The largest concentration of Nameless, however, are within the Foundations of Stone, the deepest level of Moria. The <a href="../W/Watcher_in_the_Water.md" title="Watcher in the Water">Watcher in the Water</a> is also classified as Nameless, as is &#34;Helchgam&#34;, another tentacled creature, found in the sewers of <a href="../C/Carn_Dûm.md" title="Carn Dûm">Carn Dûm</a>.</dd></dl>
 

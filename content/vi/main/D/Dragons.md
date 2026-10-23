@@ -216,7 +216,7 @@ Rồng cũng xuất hiện trong *[Letters from Father Christmas](../L/Letters_f
 
 <dl><dd>The <i>Dragon</i>, which can have the ability to breathe fire and fly, is a powerful enemy of the Good players.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[32]</a></sup> The game also includes the subterranean <i>Cave Drake</i>, a large but agile monster and natural enemy of the Dwarves.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[33]</a></sup></dd></dl>
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd><i>Dragon-kind</i> includes several varieties: <i>Cold-</i>, <i>Fire-</i> and <i>Shadow-drakes</i>, <i>Fire-worms</i>, <i>Rock-worms</i>, and many more. Related beasts include the <i>salamander</i>, a weaker and simpler breed of dragons, the pygmy-sized <i>dragonet</i>, and the turtle-like <i>avanc</i>.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[34]</a></sup></dd></dl>
 
@@ -224,11 +224,11 @@ Rồng cũng xuất hiện trong *[Letters from Father Christmas](../L/Letters_f
 
 <dl><dd><a href="../T/Thranduil.md" title="Thranduil">Thranduil</a> claims to have faced &#34;the great-serpents of the North.&#34;</dd></dl>
 
-**2017: [Middle-earth: Shadow of War](../M/Middle-earth%253A_Shadow_of_War.md):**
+**2017: [Trung Địa: Bóng Tối của chiến tranh](../M/Middle-earth%253A_Shadow_of_War.md):**
 
 <dl><dd>There are only two types of <i>drakes</i> in the game, a <i>poison-drake</i>, and a <i>fire-drake.</i> Also featured is a &#34;drake&#34; seemingly made of wood, that is controlled by Càrnan.</dd></dl>
 
-<b>2023: <i><a href="../T/The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Return to Moria</a></i>:</b>
+<b>2023: <i><a href="../T/The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Trở về Moria</a></i>:</b>
 
 <dl><dd>The female dragon Narag-Shazon is discovered to have taken up residence in Moria in the Fourth Age.</dd></dl>
 

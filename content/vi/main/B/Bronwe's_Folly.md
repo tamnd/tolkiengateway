@@ -36,4 +36,4 @@ images:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://lotro-wiki.com/wiki/Bronwe&#39;s_Folly" rel="noreferrer noopener" target="_blank">Bronwe's Folly</a> trên <a class="external text" href="https://lotro-wiki.com/wiki" rel="noreferrer noopener" target="_blank">The Lord of the Rings Wiki trực tuyến</a>
+- <a class="external text" href="https://lotro-wiki.com/wiki/Bronwe&#39;s_Folly" rel="noreferrer noopener" target="_blank">Bronwe's Folly</a> trên <a class="external text" href="https://lotro-wiki.com/wiki" rel="noreferrer noopener" target="_blank">The Lord of the Rings Online Wiki</a>

@@ -27,7 +27,7 @@ Trong tiếng Wales, <i><a class="external text" href="http://en.wiktionary.org/
 
 ## Xem thêm {#See_also}
 
-- *[brennil](Brennil.md)* ("quý bà")
+- *[brennil](Brennil.md)* ("quý cô")
 - *[hîr](../H/Hîr.md)* ("chủ, chúa")
 
 ## Ghi chú {#Notes}

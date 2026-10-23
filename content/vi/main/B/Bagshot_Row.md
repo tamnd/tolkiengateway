@@ -55,14 +55,14 @@ Nó được đặt tên như vậy vì phần đất được đào lên trong 
 
 <dl><dd>Bagshot Row is much longer than described in the book; numbers run up to ten.</dd></dl>
 
-- 1 Bagshot Row: [Bag End](Bag_End.md)
-- 2 Bagshot Row: [Daddy Twofoot](../D/Daddy_Twofoot.md)
-- 3 Bagshot Row: The Gamgees
-- 4 Bagshot Row: [Milo Burrows](../M/Milo_Burrows.md)
-- 5 Bagshot Row: [The Proudfeet](../P/Proudfoot_Family.md)
-- 6 Bagshot Row: Halfast Hornblower
-- 8 Bagshot Row: [Hugo Bracegirdle](../H/Hugo_Bracegirdle.md)
-- 10 Bagshot Row: [Fredregar *(sic)* Bolger](../F/Fredegar_Bolger.md)
+- 1 Hàng ảnh túi: [Bag End](Bag_End.md)
+- 2 Hàng ảnh chụp: [Daddy Twofoot](../D/Daddy_Twofoot.md)
+- 3 Hàng Bagshot: Gamgees
+- 4 Hàng Bagshot: [Milo Burrows](../M/Milo_Burrows.md)
+- 5 Hàng Bagshot: [The Proudfeet](../P/Proudfoot_Family.md)
+- 6 Hàng Bagshot: Người thổi kèn nửa cuối
+- 8 Hàng Bagshot: [Hugo Bracegirdle](../H/Hugo_Bracegirdle.md)
+- 10 Hàng Bagshot: [Fredregar *(sic)* Bolger](../F/Fredegar_Bolger.md)
 
 <dl><dd>Numbers 7 and 9, inhabited by <a href="../F/Folco_Boffin.md" title="Folco Boffin">Folco Boffin</a> and <a href="../R/Robin_Smallburrow.md" title="Robin Smallburrow">Robin Smallburrow</a>, are inexplicably located on the &#34;Water Road&#34; and the &#34;Hill Road&#34;.</dd></dl>
 

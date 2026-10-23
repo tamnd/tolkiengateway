@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Jan Pospíšil - Half Orc.jpeg"
 ---
 
-Chuyển hướng đến [Tệp:Jan Pospíšil - Half Orc.jpeg](Jan_Pospíšil_-_Half_Orc.jpeg.md).
+Chuyển hướng tới [Tệp:Jan Pospíšil - Half Orc.jpeg](Jan_Pospíšil_-_Half_Orc.jpeg.md).

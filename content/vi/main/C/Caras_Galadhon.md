@@ -126,7 +126,7 @@ Trong ấn bản đầu tiên của *[The Fellowship of the Ring](../T/The_Fello
 
 <dl><dd>Caras Galadhon scenes are rather brief, mostly limited to the Mirror of Galadriel scene.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Caras Galadhon is the main inhabited area in Lothlórien, where players cannot enter until they prove their friendship to Galadhrim. The map and general layout of the city is replicated from the map in <i><a href="../T/The_Atlas_of_Middle-earth.md" title="The Atlas of Middle-earth">The Atlas of Middle-earth</a></i>. The city hosts most major gameplay facilities and is composed of a large number of flets on different levels, connected by multiple ladders and staircases. It is rather hard to navigate and thus several quests consist solely of directing the player to various point of interest, then challenging him to find them again. The Company Pavilion, Galadriel&#39;s Garden and the House of Celeborn are also located there.</dd></dl>
 

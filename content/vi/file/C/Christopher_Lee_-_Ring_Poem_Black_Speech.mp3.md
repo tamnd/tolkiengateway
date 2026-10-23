@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Christopher Lee](../../main/C/Christopher_Lee.md) đọc [Hắc Ngữ](../../main/B/Black_Speech.md) của [Dòng chữ](../../main/R/Ring-inscription.md)
+[Christopher Lee](../../main/C/Christopher_Lee.md) đọc [Hắc Ngữ](../../main/B/Black_Speech.md) của [Nhẫn-dòng chữ](../../main/R/Ring-inscription.md)
 
 ## Giấy phép {#Licensing}
 

@@ -29,7 +29,7 @@ images:
 ## Các bản chuyển thể {#Adaptations}
 
 - *[The Last Debate (scene)](<The_Last_Debate_(scene).md>)*, cảnh trong [The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
-- *[The Last Debate (soundtrack)](<The_Last_Debate_(soundtrack).md>)*, bài hát từ [The Lord of the Rings: The Return of the King - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md).
+- *[The Last Debate (soundtrack)](<The_Last_Debate_(soundtrack).md>)*, bản nhạc từ [The Lord of the Rings: The Return of the King - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md).
 
 <hr style="margin-top:15px;"/>
 

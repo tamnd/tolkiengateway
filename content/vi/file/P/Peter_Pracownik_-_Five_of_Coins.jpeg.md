@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Năm đồng xu" - *[The Hobbit Tarot](../../main/T/The_Hobbit_Tarot.md)* minh họa của [Peter Pracownik](../../main/P/Peter_Pracownik.md)
+"Năm đồng xu" - *[The Hobbit Tarot](../../main/T/The_Hobbit_Tarot.md)* minh họa bởi [Peter Pracownik](../../main/P/Peter_Pracownik.md)
 
 ## Giấy phép {#Licensing}
 

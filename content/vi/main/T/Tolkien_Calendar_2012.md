@@ -61,7 +61,7 @@ Lịch <i><b>Tolkien 2012</b></i> là lịch Tolkien chính thức được xu�
 - tháng Chín - "Cắm trại ở Dunharrow"
 - Tháng 10 - "[Gríma Bị loại bỏ](../../file/C/Cor_Blok_-_Gríma_dismissed.jpg.md)"
 - Tháng 11 - "Những người theo dõi"
-- Tháng 12 - "Sự hủy diệt của chiếc nhẫn"
+- Tháng 12 - "Sự hủy diệt của Nhẫn"
 
 ## Biến thể {#Variants}
 

@@ -17,10 +17,10 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Mines of Moria</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../T/The_Mines_of_Moria_(disambiguation).md" title="The Mines of Moria (disambiguation)">The Mines of Moria (disambiguation)</a></b>.</div></div>
 
-**Mỏ của Moria** là bộ sưu tập gồm ba trò chơi điện tử. Hai trong số đó là trò chơi nền tảng dành cho Windows 3.x và một trong số đó là Trò chơi phiêu lưu văn bản dành cho MS-DOS.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Mỏ Moria** là bộ sưu tập gồm ba trò chơi điện tử. Hai trong số đó là trò chơi nền tảng dành cho Windows 3.x và một trong số đó là Trò chơi phiêu lưu văn bản dành cho MS-DOS.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - [Mỏ Moria](<Mines_of_Moria_(video_game).md>)
-- [Mìn của Moria II: Cuộc đào thoát](Mines_of_Moria_II%253A_The_Escape_Out.md)
+- [Mỏ Moria II: Cuộc tẩu thoát](Mines_of_Moria_II%253A_The_Escape_Out.md)
 - [Mỏ Moria 3](Mines_of_Moria_3.md)
 
 ## Tóm tắt {#Synopsis}

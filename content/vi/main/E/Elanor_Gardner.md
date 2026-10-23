@@ -110,7 +110,7 @@ Cái tên này ám chỉ loài hoa *[sun-star](<Elanor_(flower).md>)*, một lo�
 		</li>
 </ul>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (1981 radio series)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
 <dl><dd>Elanor can be heard crying as Frodo (<a href="../I/Ian_Holm.md" title="Ian Holm">Ian Holm</a>) tells Sam (<a href="../B/Bill_Nighy.md" title="Bill Nighy">Bill Nighy</a>) that he must go on with his life. The crying is actually by Holm&#39;s son, <a href="../H/Harry_Holm.md" title="Harry Holm">Harry</a>.</dd></dl>
 

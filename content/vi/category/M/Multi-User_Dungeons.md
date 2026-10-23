@@ -15,4 +15,4 @@ sort_keys:
   "Fan-made mods and games": "Multi-user Dungeons (MUD)"
 ---
 
-Danh mục này liệt kê tất cả <b><a class="external text" href="https://en.wikipedia.org/wiki/Multi-user_dungeon" rel="noreferrer noopener" target="_blank">Ngục tối nhiều người dùng</a></b> liên quan đến tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
+Danh mục này liệt kê tất cả <b><a class="external text" href="https://en.wikipedia.org/wiki/Multi-user_dungeon" rel="noreferrer noopener" target="_blank">Hầm ngục nhiều người dùng</a></b> liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) tác phẩm.

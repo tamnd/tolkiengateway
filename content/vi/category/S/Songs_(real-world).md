@@ -12,4 +12,4 @@ categories:
   - "Music"
 ---
 
-Thể loại này và các thể loại con của nó liệt kê tất cả **Bài hát (thế giới thực)** liên quan đến tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
+Danh mục này và các danh mục con của nó liệt kê tất cả **Bài hát (thế giới thực)** liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) tác phẩm.

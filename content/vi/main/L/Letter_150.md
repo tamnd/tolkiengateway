@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien rất tiếc vì không có bản sao nào của các Phụ lục được gửi đi. Anh ấy đang cố gắng hết sức để hoàn thành chúng trước cuối tháng. Rắc rối của anh là sự thiếu quyết đoán và những lời khuyên trái ngược nhau trong việc lựa chọn từ những nội dung quá dồi dào và dành quá nhiều thời gian để cố gắng thực hiện một lời hứa đáng tiếc được đưa ra trong Tập I của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup> Chỉ số của anh đã đạt (ở dạng thô) ở giữa *[The Two Towers](../T/The_Two_Towers.md)*. "Bảng chữ cái" sẽ cần các khối ngay cả ở dạng đơn giản nhất. Một bản đồ [Gondor](../G/Gondor.md) là cấp bách nhất và ông hy vọng có thể nhờ con trai [Christopher](../C/Christopher_Tolkien.md) tạo một bản đồ từ bản phác thảo của mình.
+Tolkien rất tiếc vì không có bản sao nào của Phụ lục được gửi. Anh ấy đang cố gắng hết sức để hoàn thành chúng trước cuối tháng. Rắc rối của anh là sự thiếu quyết đoán và những lời khuyên trái ngược nhau trong việc lựa chọn từ những nội dung quá dồi dào và dành quá nhiều thời gian để cố gắng thực hiện một lời hứa đáng tiếc được đưa ra trong Tập I của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup> Chỉ số của anh đã đạt (ở dạng thô) ở giữa *[The Two Towers](../T/The_Two_Towers.md)*. "Bảng chữ cái" sẽ cần các khối ngay cả ở dạng đơn giản nhất. Một bản đồ [Gondor](../G/Gondor.md) là cấp bách nhất và ông hy vọng có thể nhờ con trai [Christopher](../C/Christopher_Tolkien.md) tạo một bản đồ từ bản phác thảo của mình.
 
 ## Ghi chú {#Notes}
 

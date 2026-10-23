@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Tạo tuần trăng mật cho [hobbit](../../main/H/Hobbits.md) của riêng bạn" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
+"Tạo tuần trăng mật cho [hobbit](../../main/H/Hobbits.md) của riêng bạn" bởi [Miriam Ellis](../../main/M/Miriam_Ellis.md)
 
 ## Giấy phép {#Licensing}
 

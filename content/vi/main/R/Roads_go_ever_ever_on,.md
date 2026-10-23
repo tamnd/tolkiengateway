@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Road Goes Ever On (song)"
 ---
 
-Chuyển hướng đến [The Road Goes Ever On (bài hát)](<../T/The_Road_Goes_Ever_On_(song).md>).
+Chuyển hướng tới [The Road Goes Ever On (bài hát)](<../T/The_Road_Goes_Ever_On_(song).md>).

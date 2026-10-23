@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tatië"
 ---
 
-Chuyển hướng tới [Tatië](Tatië.md).
+Chuyển hướng đến [Tatië](Tatië.md).

@@ -75,7 +75,7 @@ infobox:
 - Thư
 - Nơi chim không hót
     - Bởi: James Wright
-- Truyện dân ca
+- Truyện dân gian
 - Viết ở đâu (Ủy ban)
 - Thư pháp và tác phẩm nghệ thuật bổ sung
     - Bởi: Kirsty Beck, Erin Clark, Neil Homerer, Sergei Iuchimov, Bryan Glenet, Andrew Szymanski, Victoria Clare, Ian Collier, Susanne Stopfel & Walter Clark

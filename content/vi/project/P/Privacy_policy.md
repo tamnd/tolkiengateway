@@ -28,7 +28,7 @@ Bạn có thể truy cập, thêm, cập nhật và xóa một số Thông tin c
 
 ## Sử dụng thông tin được thu thập {#Use_of_collected_information}
 
-Bất kỳ thông tin nào chúng tôi thu thập từ bạn đều có thể được sử dụng để cá nhân hóa trải nghiệm của bạn; cải thiện dịch vụ người dùng và trả lời các truy vấn và email của người dùng; điều hành và vận hành Trang web và Dịch vụ của chúng tôi. Thông tin phi cá nhân được thu thập chỉ được sử dụng để xác định các trường hợp lạm dụng tiềm ẩn và thiết lập thông tin thống kê về lưu lượng truy cập và cách sử dụng Trang web. Thông tin thống kê này không được tổng hợp theo cách có thể xác định bất kỳ người dùng cụ thể nào của hệ thống.
+Bất kỳ thông tin nào chúng tôi thu thập từ bạn đều có thể được sử dụng để cá nhân hóa trải nghiệm của bạn; cải thiện dịch vụ người dùng và trả lời các truy vấn và email của người dùng; điều hành và vận hành Trang web và Dịch vụ của chúng tôi. Thông tin phi cá nhân được thu thập chỉ được sử dụng để xác định các trường hợp lạm dụng tiềm ẩn và thiết lập thông tin thống kê về lưu lượng truy cập và cách sử dụng Trang web. Thông tin thống kê này không được tổng hợp theo cách khác để xác định bất kỳ người dùng cụ thể nào của hệ thống.
 
 ## Liên kết tới các trang web khác {#Links_to_other_websites}
 

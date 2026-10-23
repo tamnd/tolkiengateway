@@ -74,7 +74,7 @@ Trong bài đánh giá cho [Other Minds 27](../O/Other_Minds_27.md), José Enriq
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://freeleaguepublishing.com/shop/the-one-ring/tales-from-the-lone-lands/" rel="noreferrer noopener" target="_blank"><i>Những câu chuyện từ vùng đất cô đơn</i></a> tại cửa hàng của Free League
+- <a class="external text" href="https://freeleaguepublishing.com/shop/the-one-ring/tales-from-the-lone-lands/" rel="noreferrer noopener" target="_blank"><i>Những câu chuyện từ vùng đất cô độc</i></a> tại cửa hàng của Free League
 - <a class="external text" href="https://freeleaguepublishing.com/shop/the-lord-of-the-rings/tales-from-eriador/" rel="noreferrer noopener" target="_blank"><i>Những câu chuyện từ Eriador</i></a> tại cửa hàng của Free League
 
 <span></span>

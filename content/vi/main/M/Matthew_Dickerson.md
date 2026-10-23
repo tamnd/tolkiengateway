@@ -53,7 +53,7 @@ infobox:
     - "Finwë và Míriel"
     - "Tà giáo và ngoại giáo"
     - "Moria"
-    - "Ông Lão Liễu"
+    - "Ông già liễu"
     - "Thiên đường"
     - "Rivendell"
     - "Satan và Lucifer"

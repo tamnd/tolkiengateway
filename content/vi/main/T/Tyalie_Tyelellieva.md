@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tyalië Tyelelliéva"
 ---
 
-Chuyển hướng tới [Tyalië Tyelelliéva](Tyalië_Tyelelliéva.md).
+Chuyển hướng đến [Tyalië Tyelelliéva](Tyalië_Tyelelliéva.md).

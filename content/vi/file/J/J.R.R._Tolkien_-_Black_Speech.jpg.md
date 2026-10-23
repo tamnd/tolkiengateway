@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Phiên bản đầu tiên của [Dòng chữ](../../main/R/Ring-inscription.md) được viết bởi [Tolkien](../../main/T/Tolkien.md). Nó được viết không phải ở "chế độ Eregion", mà ở "dạng ngữ âm".
+Phiên bản đầu tiên của [Nhẫn-dòng chữ](../../main/R/Ring-inscription.md) được viết bởi [Tolkien](../../main/T/Tolkien.md). Nó được viết không phải ở "chế độ Eregion", mà ở "dạng ngữ âm".
 
 ## Giấy phép {#Licensing}
 

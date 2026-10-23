@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh của [Liz Danforth](../../main/L/Liz_Danforth.md), miêu tả [Aragorn](../../main/A/Aragorn.md) mang theo [athelas](../../main/A/Athelas.md), xuất hiện trong *[Treasures of Middle-earth (2nd edition)](<../../main/T/Treasures_of_Middle-earth_(2nd_edition).md>)*.
+Hình ảnh của [Liz Danforth](../../main/L/Liz_Danforth.md), miêu tả [Aragorn](../../main/A/Aragorn.md) đang mang [athelas](../../main/A/Athelas.md), xuất hiện trong *[Treasures of Middle-earth (2nd edition)](<../../main/T/Treasures_of_Middle-earth_(2nd_edition).md>)*.
 
 ## Giấy phép {#Licensing}
 

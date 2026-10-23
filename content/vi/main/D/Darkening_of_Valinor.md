@@ -55,7 +55,7 @@ Tại [Beleriand](../B/Beleriand.md), [Orcs](../O/Orcs.md) vây hãm [Các Cản
 
 ## Xem thêm {#See_also}
 
-- [Light of Valinor](../L/Light_of_Valinor.md)
+- [Ánh sáng của Valinor](../L/Light_of_Valinor.md)
 - [Nurtalë Valinóreva](../N/Nurtalë_Valinóreva.md)
 
 <span></span>

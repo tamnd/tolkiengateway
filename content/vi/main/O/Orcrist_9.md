@@ -48,7 +48,7 @@ infobox:
 - "The Lord of the Rings: Phân tích quyền lực và nguồn gốc của cái ác"—Peter Brummel (trang 17–20)
 - "Làm thế nào The Hobbit đến Milwaukee" -- [John D. Rateliff](../J/John_D._Rateliff.md) (trang 21–33)
 - "Sự đa dạng về ngôn ngữ ở Trung Địa, Malacandra, Perelandra và Anh"—Thomas A. DuBois (trang 33–39)
-- "'Quý giá' của chúng tôi: Thiền định của Phật giáo trên một chiếc nhẫn "—Zuiko Julie Redding (trang 40–44)
+- "'Quý giá' của chúng tôi: Thiền định Phật giáo về một người Nhẫn "—Zuiko Julie Redding (trang 40–44)
 - "Tales Before Tolkien: The Roots of Modern Fantasy, do Douglas biên tập A. Anderson (Del Rey, 2003)--Một bài đánh giá và hồi tưởng của Hank Luttrell (trang 44-48)
 - "Moot Point" (trang 48–49) \[thư từ Charles Noad (24 tháng 8 năm 2016) và Debra Daemmrich (11 tháng 12 năm 1988, 11 tháng 7 năm 2016)\]
 - "Earendil và Auzandil"—Nelson Goering (trang 49–52)

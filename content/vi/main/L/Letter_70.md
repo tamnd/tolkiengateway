@@ -36,7 +36,7 @@ infobox:
 
 Tolkien đã có lợi thế để viết trong một tuần lạnh giá nhưng lại gặp khó khăn. Mọi thứ được phác thảo hoặc viết trước đó đều ít có tác dụng, nhưng với sự nỗ lực hết mình, anh ấy đã viết ra tất cả những vấn đề cho đến [Frodo](../F/Frodo_Baggins.md) nắm bắt được ở mức cao tới [Mordor](../M/Mordor.md). Bây giờ anh ấy nói rằng anh ấy phải đưa những người khác đến vụ va chạm cuối cùng. Anh ta hỏi liệu *[Shelob](../S/Shelob.md)* có phải là một cái tên hay cho một con nhện khổng lồ không. Nó chỉ là "she+lob" (= nhện) nhưng được viết thành một rất ồn ào.
 
-Tiếp tục lá thư ngày 22/5, Tolkien báo lại một ngày lạnh giá tồi tệ. Anh ấy đã làm việc rất chăm chỉ cho chương của mình, điều này thật mệt mỏi khi cao trào đến gần. Với nhiều vấn đề nhỏ về cốt truyện và cơ chế, ông đã viết đi viết lại nhiều lần. Phần thưởng của anh ấy là được nghe cả [C.S. Lewis](../C/C.S._Lewis.md) và [Charles Williams](../C/Charles_Williams.md) nói rằng các chương mới nhất là hay nhất cho đến nay. [Gollum](../G/Gollum.md) tiếp tục diễn biến hấp dẫn nhất.
+Tiếp tục lá thư ngày 22/5, Tolkien báo thêm một ngày lạnh giá tồi tệ nữa. Anh ấy đã làm việc rất chăm chỉ cho chương của mình, điều này thật mệt mỏi khi cao trào đến gần. Với nhiều vấn đề nhỏ về cốt truyện và cơ chế, ông đã viết đi viết lại nhiều lần. Phần thưởng của anh là được nghe cả [C.S. Lewis](../C/C.S._Lewis.md) và [Charles Williams](../C/Charles_Williams.md) nói rằng các chương mới nhất là hay nhất cho đến nay. [Gollum](../G/Gollum.md) tiếp tục diễn biến hấp dẫn nhất.
 
 <br>
 

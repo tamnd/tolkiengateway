@@ -70,7 +70,7 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
     - Bởi: Jacki Stevens
 - Báo cáo: TRD ở Toronto
     - Bởi: Từ thiện
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- Cái [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Báo cáo: *[The Children of Húrin](../T/The_Children_of_Húrin.md)* Khởi chạy
     - Bởi: [Charles Noad](../C/Charles_Noad.md) & Jessica Yates
@@ -78,7 +78,7 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
     - Bởi: *[Faramir](../F/Faramir.md) (standing in for [B](../B/Beruthiel.md)P)*
 - Phía sau cánh cửa kính
     - Bởi: [Sally Kennett](../S/Sally_Kennett.md)
-- [Aldarion và Erendis](Aldarion_and_Erendis%253A_The_Mariner's_Wife.md) Vợ của người thủy quân lục chiến
+- [Aldarion và Erendis](Aldarion_and_Erendis%253A_The_Mariner's_Wife.md) Vợ Người Thủy Quân Lục Chiến
     - Bởi: Maddalena Tarallo
 - Tác phẩm nghệ thuật: *[Gwaihir](../G/Gwaihir.md) the Windlord...*
     - Bởi: Sandra Blizzard

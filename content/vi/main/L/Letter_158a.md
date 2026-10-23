@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong thư này Tolkien xin lỗi [Rayner Unwin](../R/Rayner_Unwin.md) vì sự chậm trễ trong việc gửi tài liệu cho [Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md) của *[The Return of the King](../T/The_Return_of_the_King.md)*. Tolkien giải thích rằng anh ta đã bị quấy rối nặng nề và bị bệnh, góp phần khiến anh ta không thể hoàn thành đúng thời hạn. Anh ấy đảm bảo với Unwin rằng anh ấy sẽ cố gắng gửi nội dung chính của Phụ lục vào ngày hôm sau, đồng thời thừa nhận rằng dù đến trước thứ Tư thì vẫn sẽ bị muộn.
+Trong thư này Tolkien xin lỗi [Rayner Unwin](../R/Rayner_Unwin.md) vì sự chậm trễ trong việc gửi tài liệu cho [Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md) của *[The Return of the King](../T/The_Return_of_the_King.md)*. Tolkien giải thích rằng anh ta đã bị quấy rối nặng nề và bị bệnh, góp phần khiến anh ta không thể hoàn thành đúng thời hạn. Anh ấy đảm bảo với Unwin rằng anh ấy sẽ cố gắng gửi nội dung chính của Phụ lục vào ngày hôm sau, thừa nhận rằng sẽ vẫn bị trễ ngay cả khi nó đến vào thứ Tư.
 
 Tolkien cũng đề cập đến sự kiệt sức của anh sau một năm đặc biệt đầy thử thách với những khó khăn cá nhân và gia đình. <br>
 

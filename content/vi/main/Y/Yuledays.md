@@ -16,7 +16,7 @@ categories:
 
 Sau [Trận chiến của năm đạo quân](../B/Battle_of_the_Five_Armies.md), [Beorn](../B/Beorn.md) đã triệu tập nhiều người phương Bắc đến [nhà của ông ta](../B/Beorn's_Hall.md) để dự tiệc. [Bilbo](../B/Bilbo.md) và [Gandalf](../G/Gandalf.md) cũng ở đó, trên đường tới Shire và vượt qua thủy triều Yule ([T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md)—[2942](../T/Third_Age_2942.md)).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Trong [Lịch Shire](../S/Shire_Calendar.md) có lễ hội Yuletide kéo dài sáu ngày ([29 Foreyule](../_/29_December.md) đến [2 Afteryule](../_/2_January.md)); trung tâm của chúng là hai [Yule](Yule.md)ngày nằm ngoài 'tháng' chính thức trong lịch, giữa [Foreyule](../F/Foreyule.md) và [Afteryule](../A/Afteryule.md).<sup id="cite_ref-D2_1-1" class="reference"><a href="#cite_note-D2-1">[1]</a></sup>
+Trong [Lịch Shire](../S/Shire_Calendar.md) có lễ hội Yuletide kéo dài sáu ngày ([29 Foreyule](../_/29_December.md) đến [2 Afteryule](../_/2_January.md)); trung tâm của chúng là hai [Yule](Yule.md) ngày nằm ngoài 'tháng' chính thức trong lịch, giữa [Foreyule](../F/Foreyule.md) và [Afteryule](../A/Afteryule.md).<sup id="cite_ref-D2_1-1" class="reference"><a href="#cite_note-D2-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

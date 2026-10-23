@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ósanwë"
 ---
 
-Chuyển hướng đến [Ósanwë](Ósanwë.md).
+Chuyển hướng tới [Ósanwë](Ósanwë.md).

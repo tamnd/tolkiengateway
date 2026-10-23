@@ -59,7 +59,7 @@ Ilberic là con trai thứ hai của [Seredic Brandybuck](../S/Seredic_Brandybuc
 
 Ý nghĩa của tên *Ilberic* vẫn chưa được biết. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên của Bucklanders có phong cách [Celtic](../C/Celtic.md) mơ hồ.<sup id="cite_ref-Translation_2-0" class="reference"><a href="#cite_note-Translation-2">[2]</a></sup>
 
-[Jim Allan](../J/Jim_Allan.md) gợi ý rằng cái tên *Ilberic* có vẻ là tiếng Đức. Nó là một biến thể của tên *Alberic* và chứa các phần tử *alb* ("[Tiên](../E/Elves.md)") và *ric* ("trị vì", "quy tắc"). <a class="extiw" href="http://en.wikipedia.org/wiki/Alberic" title="wikipedia:Alberic">Alberic</a> là một vị vua lùn trong văn học anh hùng Đức thời trung cổ xuất hiện trong [Richard Wagner](../R/Richard_Wagner.md) [Chu kỳ vòng](../D/Der_Ring_des_Nibelungen.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Jim Allan](../J/Jim_Allan.md) gợi ý rằng cái tên *Ilberic* có vẻ là tiếng Đức. Nó là một biến thể của tên *Alberic* và chứa các phần tử *alb* ("[Elf](../E/Elves.md)") và *ric* ("trị vì", "quy tắc"). <a class="extiw" href="http://en.wikipedia.org/wiki/Alberic" title="wikipedia:Alberic">Alberic</a> là một vị vua lùn trong văn học anh hùng Đức thời trung cổ xuất hiện trong [Richard Wagner](../R/Richard_Wagner.md) [Chu kỳ vòng](../D/Der_Ring_des_Nibelungen.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

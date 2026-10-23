@@ -70,12 +70,12 @@ Sự kiện xảy ra vào ngày 28 tháng 2.
 - **[1949](1949.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 119](../L/Letter_119.md).
 - **[1950](1950.md)** - Nghệ sĩ [Roger Garland](../R/Roger_Garland.md) ra đời.
 - **[1961](1961.md)** - Diễn viên [Mark Ferguson](../M/Mark_Ferguson.md) ra đời.
-- **[2022](2022.md)** - [Priscilla Tolkien](../P/Priscilla_Tolkien.md), con gái duy nhất của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), qua đời.
+- **[2022](2022.md)** - [Priscilla Tolkien](../P/Priscilla_Tolkien.md), con gái duy nhất của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), chết.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Grishnákh](../G/Grishnákh.md) trở lại.
+    - [Grishnákh](../G/Grishnákh.md) trả về.
     - [Éomer](Éomer.md) vượt qua [Orc](../O/Orcs.md) ngay bên ngoài [Rừng Fangorn](../F/Fangorn_Forest.md). Nhiều Orc dưới [Mauhúr](../M/Mauhúr.md) đến. Mười lăm Rohirrim, bao gồm [Gárulf](../G/Gárulf.md), rơi xuống.
     - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) cố gắng tìm cách vượt qua [Emyn Muil](../E/Emyn_Muil.md).
     - Một mảnh của [Great Horn](../G/Great_Horn.md) được thu hồi từ các đầm lầy của [Entwash](../E/Entwash.md).

@@ -40,6 +40,6 @@ infobox:
 - <a class="external text" href="https://www.mythsoc.org/mythcon.htm" rel="noreferrer noopener" target="_blank">Trang web Mythcon</a>
     - <a class="external text" href="https://www.mythsoc.org/mythcon.htm" rel="noreferrer noopener" target="_blank">Trang web Mythcon 46</a>
     - Báo cáo:
-        - <a class="external text" href="https://pawneeland.wordpress.com/2015/08/07/in-the-mythcon-hall-of-fire/" rel="noreferrer noopener" target="_blank">Trong Sảnh lửa Mythcon</a> của Roger Echo-Hawk
+        - <a class="external text" href="https://pawneeland.wordpress.com/2015/08/07/in-the-mythcon-hall-of-fire/" rel="noreferrer noopener" target="_blank">Trong Mythcon Hall of Fire</a> của Roger Echo-Hawk
 Báo cáo         - Mythcon 46 <a class="external text" href="http://www.cfcooper.net/mythcon-46-day-1-violation-by-any-other-name" rel="noreferrer noopener" target="_blank">Ngày thứ nhất</a>, <a class="external text" href="http://www.cfcooper.net/mythcon-46-day-2-not-english-not-french-not-latin-christian" rel="noreferrer noopener" target="_blank">Ngày thứ hai</a>và <a class="external text" href="http://www.cfcooper.net/mythcon-46-days-3-4-final-report-a-very-avery-adventure" rel="noreferrer noopener" target="_blank">Ngày thứ ba và thứ tư</a>
 - <a class="external text" href="http://www.mythsoc.org/" rel="noreferrer noopener" target="_blank">Trang web của Hội Thần thoại</a>

@@ -110,7 +110,7 @@ Trong [tiếng Anh cổ](../O/Old_English.md), *edoras* (dạng số nhiều c�
 
 <dl><dd>Edoras is featured in the <a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">second</a> and the <a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">third</a> film. It was built on <a href="../M/Mount_Sunday.md" title="Mount Sunday">Mount Sunday</a>.</dd></dl>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i></b>
 
 <dl><dd>Unlike many in-game settlements much smaller in size and prominence, Edoras is not considered a &#34;capital&#34; of its region. This is because early in the story Edoras is evacuated, with all inhabitants moving to <a href="../D/Dunharrow.md" title="Dunharrow">Dunharrow</a>, and for the majority of the game Edoras sits empty. Instead, <a href="../A/Aldburg.md" title="Aldburg">Aldburg</a> functions as the &#34;capital settlement&#34; of the Western Rohan, hosting the hub for swift travel and various player facilities.</dd></dl>
 

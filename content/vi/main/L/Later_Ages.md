@@ -149,7 +149,7 @@ Tolkien cũng tiếp tục nói rằng khoảng cách thời gian giữa năm 19
 
 Do đó, thời lượng trung bình của Kỷ Đệ Tứ đến Kỷ nguyên Thứ sáu sẽ là c. 2.430 năm<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[4]</a></sup> biện minh cho lá thư trước đó của ông gửi cho Beare rằng Kỷ nguyên hẳn phải nhanh hơn. Mặt khác, trong khi bức thư gợi ý rằng Kỷ Đệ Tam kết thúc vào khoảng năm 4.000 trước Công nguyên, thì phép tính này lại đẩy nó lùi xa hơn.
 
-### 1964 Phỏng vấn BBC {#1964_BBC_interview}
+### 1964 BBC phỏng vấn {#1964_BBC_interview}
 
 Vào [ngày 26 tháng 11](../N/November_26.md) [1964](../_/1964.md) Tolkien đã được phỏng vấn bởi [BBC](../B/BBC.md), và trong phần thân mật hơn của cuộc phỏng vấn với [Denys Gueroult](../D/Denys_Gueroult.md)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[5]</a></sup>, ông đã thẳng thắn đề cập rằng các sự kiện của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* xảy ra vào khoảng 7-8.000 năm trước hiện tại (lúc đó là năm 1964), phần nào nhất quán với bài luận *The Awakening of the Quendi*:
 

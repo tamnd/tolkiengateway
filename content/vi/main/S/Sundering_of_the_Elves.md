@@ -16,7 +16,7 @@ images:
   - "The_Sundering_of_the_Elves.svg"
 ---
 
-[Tiên tộc](../E/Elves.md) là một chủng tộc bị chia cắt và chia thành nhiều bộ lạc và dân tộc. Cái tên **[Quendi](../Q/Quendi.md)** ám chỉ *all* Tiên tộc, nhưng ngay từ [sự khởi đầu](../A/Awakening_of_the_Elves.md) của họ, loài yêu tinh đã bị chia rẽ.
+[Tiên tộc](../E/Elves.md) là một chủng tộc bị chia cắt và chia thành nhiều bộ lạc và dân tộc. Cái tên **[Quendi](../Q/Quendi.md)** ám chỉ *all* Tiên tộc, nhưng ngay từ [sự khởi đầu](../A/Awakening_of_the_Elves.md) của họ, loài yêu tinh đã bị chia cắt.
 
 <figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sundering_of_the_Elves.png.md"><img alt="The Great Journey of the Elves" src="https://tolkiengateway.net/w/images/thumb/6/67/Sundering_of_the_Elves.png/949px-Sundering_of_the_Elves.png" decoding="async" loading="lazy" width="949" height="657" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/67/Sundering_of_the_Elves.png/1424px-Sundering_of_the_Elves.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/67/Sundering_of_the_Elves.png/1898px-Sundering_of_the_Elves.png 2x" data-file-width="2428" data-file-height="1680"/></a><figcaption>The Great Journey of the Elves</figcaption></figure>
 

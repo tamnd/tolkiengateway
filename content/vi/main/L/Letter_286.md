@@ -34,7 +34,7 @@ Không có "Thần" nào trong thần thoại của ông ấy, Tolkien đã nêu
 
 ## Lưu ý {#Note}
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md) chỉ ra rằng đây là một ví dụ về những câu trả lời ngắn Tolkien gửi đến độc giả trong giai đoạn này của cuộc đời ông. Trong những năm ngay sau khi xuất bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* các câu trả lời đã dài hơn nhiều.
+[Christopher Tolkien](../C/Christopher_Tolkien.md) chỉ ra rằng đây là một ví dụ về những câu trả lời ngắn mà Tolkien gửi đến độc giả trong giai đoạn này của cuộc đời ông. Trong những năm ngay sau khi xuất bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* các câu trả lời đã dài hơn nhiều.
 
 <br>
 

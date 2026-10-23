@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Potatoes"
 ---
 
-Chuyển hướng đến [Khoai tây](Potatoes.md).
+Chuyển hướng tới [Khoai tây](Potatoes.md).

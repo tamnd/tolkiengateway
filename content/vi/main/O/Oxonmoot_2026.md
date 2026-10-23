@@ -27,7 +27,7 @@ infobox:
 
 **Oxonmoot 2026**, [Oxonmoot](Oxonmoot.md) thường niên lần thứ 53 do [Hội Tolkien](../T/The_Tolkien_Society.md) tổ chức nhằm tôn vinh cuộc đời và sự nghiệp của J.R.R. Tolkien. Sự kiện dự kiến ​​diễn ra từ chiều Thứ Năm [3](../_/3_September.md) đến chiều Chủ Nhật [6 tháng Chín](../_/6_September.md) [2026](../_/2026.md) tại St Ann's College, [Oxford](../U/University_of_Oxford.md). Giống như những năm trước, đây là một sự kiện kết hợp cả sự tham gia trực tiếp và trực tuyến.
 
-Chiếc áo thun Oxonmoot 2026 được thiết kế bởi [Miriam Ellis](../M/Miriam_Ellis.md). Thiết kế kết hợp các bức chân dung Frodo, Sam, Merry và Pippin của cô, được sắp xếp trong bốn chữ cái “O” của biểu tượng Oxonmoot, với tên viết tắt của mỗi hobbit ở chân khung.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Áo thun Oxonmoot 2026 được thiết kế bởi [Miriam Ellis](../M/Miriam_Ellis.md). Thiết kế kết hợp các bức chân dung Frodo, Sam, Merry và Pippin của cô, được sắp xếp trong bốn chữ cái “O” của biểu tượng Oxonmoot, với tên viết tắt của mỗi hobbit ở chân khung.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

@@ -62,11 +62,11 @@ Dù thế nào đi nữa, họ vẫn tiếp tục phát triển thịnh vượng
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../A/Arnor%253A_The_Land.md" title="Arnor: The Land">Arnor: The Land</a></i></b>
+<b>1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../A/Arnor%253A_The_Land.md" title="Arnor: The Land">Arnor: Vùng đất</a></i></b>
 
 <dl><dd>Bree-land was settled by <a href="../P/Pre-Númenóreans.md" title="Pre-Númenóreans">Pre-Númenóreans</a>, who also built the initial burial mounds. They remained there for two hundred years, until they left to fight in the <a href="../W/War_of_Wrath.md" title="War of Wrath">War of Wrath</a>. Other Men moved in immediately, but they were overwhelmed by the creatures of Morgoth. In the <a href="../S/Second_Age.md" title="Second Age">Second Age</a>, the region was settled by the Mebion Bron, a wandering people related to the <a href="../D/Dunlendings.md" title="Dunlendings">Dunlendings</a>, who fled the <a href="../W/War_of_the_Elves_and_Sauron.md" title="War of the Elves and Sauron">War of the Elves and Sauron</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Bree-land is a major region and one of the starting locations available to new characters. It encompasses not only the four villages and their immediate surroundings, but all the terrain from <a href="Buckland.md" title="Buckland">Buckland</a> in the far west to the <a href="../W/Weather_Hills.md" title="Weather Hills">Weather Hills</a> to the far east. The <a href="../O/Old_Forest.md" title="Old Forest">Old Forest</a>, <a href="Barrow-downs.md" title="Barrow-downs">Barrow-downs</a>, <a href="../M/Midgewater_Marshes.md" title="Midgewater Marshes">Midgewater Marshes</a> and <a href="../C/Chetwood.md" title="Chetwood">Chetwood</a> are all included within its boundaries.</dd></dl>
 

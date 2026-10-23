@@ -48,7 +48,7 @@ Calenhad là một ngọn đồi nhỏ, xanh tươi, không có cây cối, lớ
 
 ## Câu chuyện {#Hitstory}
 
-Vào đêm [7 tháng 3](../_/7_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Gandalf](../G/Gandalf.md) và [Pippin](../P/Peregrin_Took.md), đang đi về hướng đông trên [Shadowfax](../S/Shadowfax.md), nhìn thấy các đèn hiệu được thắp sáng để kêu gọi viện trợ từ Rohan.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Vào đêm [7 tháng 3](../_/7_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Gandalf](../G/Gandalf.md) và [Pippin](../P/Peregrin_Took.md), đang đi về hướng đông trên [Shadowfax](../S/Shadowfax.md), thấy đèn hiệu được thắp sáng để kêu gọi viện trợ từ Rohan.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -56,7 +56,7 @@ Trong [Unfinished Tales](../U/Unfinished_Tales.md) gợi ý rằng Calenhad có 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Calenhad is located in the <a class="mw-redirect" href="../B/Beacon-hills.md" title="Beacon-hills">Beacon-hills</a>, on a hill much smaller than the nearby Beacon-hills of <a href="../M/Min-Rimmon.md" title="Min-Rimmon">Min-Rimmon</a> and <a href="../H/Halifirien.md" title="Halifirien">Halifirien</a>. A small unnamed village sits to the south of the beacon.</dd></dl>
 

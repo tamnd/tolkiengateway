@@ -21,7 +21,7 @@ images:
 
 ## Lịch sử {#History}
 
-Smith lần đầu tiên xuất hiện với tư cách là một trong 24 đứa trẻ tại [Lễ hội những đứa trẻ ngoan](../T/The_Feast_of_Good_Children.md) khi [Nokes](../N/Nokes.md) là [Bếp trưởng](../M/Master_Cook.md) và [Alf](../A/Alf.md) là người học việc của ông. Bên trong [Great Cake](../G/Great_Cake.md) tại Lễ tiệc là một [Fay-star](../F/Fay-star.md) mà Smith đã vô tình ăn phải. Anh ấy đã tìm thấy một đồng bạc trong miếng Bánh của mình, nhưng vui lòng đưa nó cho một cô gái tên [Nell](../N/Nell_Smithson.md), người không tìm thấy món đồ trang sức may mắn nào.
+Smith lần đầu tiên xuất hiện với tư cách là một trong 24 đứa trẻ tại [Lễ hội những đứa trẻ ngoan](../T/The_Feast_of_Good_Children.md) khi [Nokes](../N/Nokes.md) là [Chủ nhân Đầu bếp](../M/Master_Cook.md) và [Alf](../A/Alf.md) là người học việc của anh ấy. Bên trong [Great Cake](../G/Great_Cake.md) tại Lễ tiệc là một [Fay-star](../F/Fay-star.md) mà Smith đã vô tình ăn phải. Anh ấy đã tìm thấy một đồng bạc trong miếng Bánh của mình, nhưng vui lòng đưa nó cho một cô gái tên [Nell](../N/Nell_Smithson.md), người không tìm thấy món đồ trang sức may mắn nào.
 
 Sinh nhật lần thứ mười của Smith là vào tháng Sáu sau mùa đông khi anh ấy tham dự Lễ hội. Vào ngày hôm đó Smith thức dậy trước bình minh và đi ra ngoài. Cảm thấy bất thường, anh bắt đầu hát và ngôi sao thần tiên mà anh đã ăn rơi ra khỏi miệng. Không cần suy nghĩ, anh vỗ tay lên trán và ngôi sao vẫn ở đó. Mặc dù ngôi sao hầu như không được chú ý nhưng nó đã mang đến những thay đổi ở anh mà dân làng đánh giá cao: Đôi mắt anh sáng lên, giọng nói trở nên tuyệt vời và công việc thợ rèn của anh trở nên rất điêu luyện (tốt nhất giữa [Far Easton](../F/Far_Easton.md) và [Westwood](../W/Westwood.md)).
 

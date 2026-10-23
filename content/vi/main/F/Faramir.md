@@ -212,11 +212,11 @@ Faramir, theo lời Tolkien, là người “khiêm nhường, công tâm, hết
 
 <dl><dd>Faramir&#39;s role has been omitted. However, a young black-haired man is shown at Aragorn&#39;s coronation, sitting on a horse beside Éowyn. It can be guessed that this is a cameo of Faramir. Whether he had at any time a larger part, that was cut for time restraints, is unknown.</dd></dl>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (1981 radio series)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
 <dl><dd>Faramir is voiced by <a href="../A/Andrew_Seear.md" title="Andrew Seear">Andrew Seear</a>. Because Boromir already named him during the Council of Elrond - in the book, he is simply called &#34;my brother&#34; - much of the mystery surrounding Faramir&#39;s first appearance is lost to the attentive listener. His flight from the Nazgûl across the Pelennor is also omitted. However, unlike some adaptations Faramir&#39;s recovery in the Houses of Healing and his budding romance with Éowyn are included, as is his role at Aragorn&#39;s coronation.</dd></dl>
 
-<b>1988: <i><a href="../J/J.R.R._Tolkien&#39;s_War_in_Middle_Earth.md" title="J.R.R. Tolkien&#39;s War in Middle Earth">J.R.R. Tolkien&#39;s War in Middle Earth</a></i>:</b>
+<b>1988: Cuộc chiến của <i><a href="../J/J.R.R._Tolkien&#39;s_War_in_Middle_Earth.md" title="J.R.R. Tolkien&#39;s War in Middle Earth">J.R.R. Tolkien ở Trung Địa</a></i>:</b>
 
 <dl><dd>Faramir is portrayed as a blond, bearded man. He can be controlled by the player.</dd></dl>
 
@@ -238,7 +238,7 @@ Faramir, theo lời Tolkien, là người “khiêm nhường, công tâm, hết
 
 <dl><dd>The voice of Faramir is provided by Jozef Vajda. The same actor also portrayed Faramir&#39;s brother Boromir earlier in the radio series.</dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Faramir&#39;s role in the War of the Ring is relatively minor in the game, as by the time the player reaches Minas Tirith Faramir has already been wounded and lies in a fever. His first prominent appearance is not until King Elessar&#39;s coronation. Afterwards, Aragorn charges the Steward and the Rangers of Ithilien with cleansing the evil of Minas Morgul and the Morgul Vale. Faramir leads the Rangers to establish several camps outside the dead city. Eventually he joins <a href="../D/Damrod.md" title="Damrod">Damrod</a>&#39;s team inside the walls Minas Morgul itself, working to combat the evil on the upper levels of the city.</dd></dl>
 

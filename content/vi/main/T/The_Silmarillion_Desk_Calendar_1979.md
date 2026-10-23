@@ -18,7 +18,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Silmarillion_Desk_Calendar_1979.jpg.md"><img src="https://tolkiengateway.net/w/images/9/93/The_Silmarillion_Desk_Calendar_1979.jpg" decoding="async" loading="lazy" width="155" height="216" class="mw-file-element" data-file-width="155" data-file-height="216"/></a><figcaption></figcaption></figure>
 
-**The Silmarillion Lịch Để Bàn 1979** được sản xuất bởi [Ballantine Books](../B/Ballantine_Books.md) với hình ảnh minh họa của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và màu sắc của [H.E. Riddett](../H/H.E._Riddett.md).
+**The Silmarillion Desk Calendar 1979** được sản xuất bởi [Ballantine Books](../B/Ballantine_Books.md) với hình ảnh minh họa của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và màu sắc của [H.E. Riddett](../H/H.E._Riddett.md).
 
 - <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0345278178">ISBN 0-345-27817-8</a>
 - Kích thước: 6,5 x 9 inch

@@ -58,7 +58,7 @@ Sam bắt đầu hát lại câu “Vượt lên trên mọi ngọn tháp mạnh
 
 Donald Swann đã viết nhạc cho bài hát này, có thể tìm thấy trong sách *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*;<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> nó cũng có trong CD đi kèm của phiên bản mới nhất.
 
-Stephen Oliver cũng viết nhạc cho bài hát cho vở kịch của Đài BBC. Nó được hát trong câu chuyện bởi Bill Nighy (được gọi là William Nighy) và trên BBC Record bởi nhà phê bình rượu vang, Oz Clarke.
+Stephen Oliver cũng viết nhạc cho bài hát cho vở kịch trên đài phát thanh BBC. Nó được hát trong câu chuyện bởi Bill Nighy (được gọi là William Nighy) và trên BBC Record của nhà phê bình rượu vang, Oz Clarke.
 
 Trong vở opera *[Beren and Lúthien](<../B/Beren_and_Lúthien,_Op._47_(Opera).md>)*của [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md), bài thơ này được tặng cho các nhân vật chính, với Lúthien hát khổ đầu tiên và Beren khổ thứ hai khi cô phát hiện ra anh ta trong hang ổ của [Sauron](../S/Sauron.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

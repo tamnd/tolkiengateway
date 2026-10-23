@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*Caradhas: A Troubled Trail Ahead* của [Tom Cross](../../main/T/Tom_Cross.md).
+*Caradhas: A Troubled Trail Ahead* bởi [Tom Cross](../../main/T/Tom_Cross.md).
 
 ## Giấy phép {#Licensing}
 

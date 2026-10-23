@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hísië"
 ---
 
-Chuyển hướng tới [Hísië](Hísië.md).
+Chuyển hướng đến [Hísië](Hísië.md).

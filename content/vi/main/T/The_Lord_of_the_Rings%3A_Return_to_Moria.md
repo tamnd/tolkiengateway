@@ -44,7 +44,7 @@ Lối chơi là tiêu chuẩn của một trò chơi điện tử sinh tồn. Tr
 
 *The Lord of the Rings: Return to Moria* lần đầu tiên được tiết lộ cùng với đoạn giới thiệu điện ảnh ngắn vào ngày 10 tháng 6 năm 2022, tại Triển lãm mùa hè Epic Games 2022. Trò chơi ban đầu được lên kế hoạch phát hành vào mùa xuân năm 2023 và cuối cùng được phát hành vào ngày 24 tháng 10 năm 2023 cho Microsoft Windows, sau đó là bản phát hành PlayStation 5 vào ngày 5 tháng 12 năm 2023. Bản phát hành Xbox Series X/S được lên kế hoạch vào đầu năm 2024.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Phiên bản Windows ban đầu được bán độc quyền trên Epic Games Store nhưng sau đó được phát hành trên Steam vào ngày 27 tháng 8 năm 2024.
 
-Trò chơi nhận được nhiều đánh giá trái chiều, với điểm 4/10 từ IGN, 3/5 từ Eurogamer và 59% trên Metacritic. Đánh giá của người dùng về trò chơi khác nhau tùy theo sở thích chung. Trò chơi bị chỉ trích vì diễn biến tuyến tính kém, thiếu sự cân bằng và có sự sai lệch rõ ràng so với nhiều tác phẩm của Tolkien. Điểm khác biệt rõ ràng nhất trong câu chuyện là cách tổ chức và số lượng trại và trùm Orc, bất chấp sự phá hủy của [Chiếc nhẫn](The_One_Ring.md) và [Sauron](../S/Sauron.md) vào cuối thời đại trước.
+Trò chơi nhận được nhiều đánh giá trái chiều, với điểm 4/10 từ IGN, 3/5 từ Eurogamer và 59% trên Metacritic. Đánh giá của người dùng về trò chơi khác nhau tùy theo sở thích chung. Trò chơi bị chỉ trích vì diễn biến tuyến tính kém, thiếu sự cân bằng và có sự sai lệch rõ ràng so với nhiều tác phẩm của Tolkien. Điểm khác biệt rõ ràng nhất trong câu chuyện là cách tổ chức và số lượng trại và trùm Orc, bất chấp sự tàn phá của [Nhẫn](The_One_Ring.md) và [Sauron](../S/Sauron.md) ở cuối thời đại trước.
 
 <span></span>
 

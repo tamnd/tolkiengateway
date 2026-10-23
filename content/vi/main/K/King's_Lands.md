@@ -29,7 +29,7 @@ images:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The area called &#34;Kingstead&#34; encompasses <a href="../H/Harrowdale.md" title="Harrowdale">Harrowdale</a> and <a href="../D/Dunharrow.md" title="Dunharrow">Dunharrow</a>. It includes the smaller hamlets of <a href="../U/Upbourn.md" title="Upbourn">Upbourn</a> and <a href="../U/Underharrow.md" title="Underharrow">Underharrow</a> to the south of <a href="../E/Edoras.md" title="Edoras">Edoras</a> as well as two larger towns north of <a href="../S/Snowbourn.md" title="Snowbourn">Snowbourn</a>: &#34;Middlemead&#34; and <a href="../E/Entwade.md" title="Entwade">Entwade</a>, the latter guarding the ford of the same name.</dd></dl>
 

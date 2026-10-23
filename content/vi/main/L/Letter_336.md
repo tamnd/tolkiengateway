@@ -38,8 +38,8 @@ Tolkien nói với Ngài Patrick Browne về cái giá của sự nổi tiếng 
 
 ## Ghi chú {#Notes}
 
-- Đoạn được chọn là phần thứ hai của bức thư thực sự. Thư viện [Tolkien](../P/Pieter_Collier.md) có hình ảnh đầy đủ của bức thư và thư từ của [Humphrey Carpenter](../H/Humphrey_Carpenter.md), <a class="external text" href="http://www.tolkienlibrary.com/sdebelder/images/LotrLetter12.jpg" rel="noreferrer noopener" target="_blank">trực tuyến</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- Mặc dù "Ngài Patrick Browne" không được xác định trong *The Letters of J.R.R. Tolkien*, nhưng rất có thể <a class="external text" href="http://www.independent.co.uk/news/people/obituary-sir-patrick-browne-1360765.html" rel="noreferrer noopener" target="_blank">Patrick Browne</a>, một thẩm phán, vì Tolkien xưng hô với ông ấy như vậy ("Kính gửi thẩm phán") trong bản sao đầy đủ.
+- Đoạn được chọn là phần thứ hai của bức thư thực sự. [Tolkien Library](../P/Pieter_Collier.md) có hình ảnh đầy đủ của lá thư và thư từ của [Humphrey Carpenter](../H/Humphrey_Carpenter.md), <a class="external text" href="http://www.tolkienlibrary.com/sdebelder/images/LotrLetter12.jpg" rel="noreferrer noopener" target="_blank">trực tuyến</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Mặc dù "Ngài Patrick Browne" không được xác định trong *The Letters of J.R.R. Tolkien*, nhưng rất có thể đó là <a class="external text" href="http://www.independent.co.uk/news/people/obituary-sir-patrick-browne-1360765.html" rel="noreferrer noopener" target="_blank">Patrick Browne</a>, một thẩm phán, vì Tolkien gọi ông ấy như vậy ("Kính gửi thẩm phán") trong bản sao đầy đủ.
 
 <span></span>
 

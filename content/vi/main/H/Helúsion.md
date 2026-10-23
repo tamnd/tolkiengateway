@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hendwine"
 ---
 
-Chuyển hướng đến [Hendwine](Hendwine.md).
+Chuyển hướng tới [Hendwine](Hendwine.md).

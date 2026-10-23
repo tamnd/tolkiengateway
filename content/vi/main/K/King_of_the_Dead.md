@@ -65,7 +65,7 @@ Rồi đến lúc lãnh chúa cũ của họ, [Sauron](../S/Sauron.md) trỗi d�
 
 Dân tộc của ông ta ngày càng suy giảm và trong những thế kỷ tiếp theo, [bóng ma](../W/Wraiths.md) của **Vua Người Chết** là một tin đồn đáng sợ đối với [Con Người của Gondor](../G/Gondorians.md) ở phía nam Dãy Núi.
 
-Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), [Aragorn](../A/Aragorn.md) đã đến [Con đường của người chết](../P/Paths_of_the_Dead.md) với tư cách là [Người Thừa Kế Isildur](../H/Heir_of_Isildur.md) và đề nghị cho họ một cách để chuộc lỗi. Trên đường tới Erech, mọi người vô cùng sợ hãi trước tin Vua của Thần Chết lại xuất hiện, những người phòng thủ cũng như kẻ thù đều bỏ chạy tán loạn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), [Aragorn](../A/Aragorn.md) đã đến [Con đường của người chết](../P/Paths_of_the_Dead.md) với tư cách là [Người thừa kế Isildur](../H/Heir_of_Isildur.md) và đề nghị cho họ một cách để chuộc lỗi. Trên đường tới Erech, mọi người vô cùng sợ hãi trước tin Vua của Thần Chết lại xuất hiện, những người phòng thủ cũng như kẻ thù đều bỏ chạy tán loạn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Những người vi phạm lời thề đã đi theo [Đại đội Xám](../G/Grey_Company.md) đến [Pelargir](../P/Pelargir.md) nơi họ đã đánh đuổi kẻ thù. Hoàn thành lời thề, Vua của Người chết bẻ gãy và ném ngọn giáo của mình xuống, cúi chào [Aragorn](../A/Aragorn.md) rồi quay đi, khi Chủ thể Bóng Tối biến mất.<sup id="cite_ref-Last_Debate_1-1" class="reference"><a href="#cite_note-Last_Debate-1">[1]</a></sup>
 
@@ -101,7 +101,7 @@ Những người vi phạm lời thề đã đi theo [Đại đội Xám](../G/G
 
 <dl><dd>The King of the Dead is played by <a href="../P/Paul_Norell.md" title="Paul Norell">Paul Norell</a>.</dd></dl>
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The King of the Dead is named Rioc. Although his men were unwilling to fight <a href="../S/Sauron.md" title="Sauron">Sauron</a> because they had worshipped him, his excuse for not honoring the oath given to <a href="../I/Isildur.md" title="Isildur">Isildur</a> was because his daughter Bravantel had an out-of-wedlock child with one of his <a class="mw-redirect" href="../N/Númenórean.md" title="Númenórean">Númenórean</a> warriors. He leads his people after joining <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>&#39;s host and is freed after the liberation of <a href="../P/Pelargir.md" title="Pelargir">Pelargir</a>.</dd></dl>
 

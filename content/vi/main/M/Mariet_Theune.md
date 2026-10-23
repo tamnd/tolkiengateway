@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mariët Theune"
 ---
 
-Chuyển hướng đến [Mariët Theune](Mariët_Theune.md).
+Chuyển hướng tới [Mariët Theune](Mariët_Theune.md).

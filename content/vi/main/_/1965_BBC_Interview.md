@@ -12,7 +12,7 @@ categories:
   - "Interviews with J.R.R. Tolkien"
 ---
 
-**1965 Cuộc phỏng vấn của BBC** là một [được ghi âm](../../index/A/Audio_recordings_of_J.R.R._Tolkien.md) [cuộc phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào [ngày 20 tháng 1](20_January.md), [1965](1965.md), sẽ được đưa vào Thư viện Thường trực về các Chương trình Ghi âm của BBC.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cuộc phỏng vấn bao gồm một cuộc thảo luận chi tiết về *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và liệu Tolkien có được nhớ đến vì tác phẩm hư cấu hay học thuật của ông hay không sự nghiệp.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**1965 BBC Phỏng vấn** là một [được ghi âm](../../index/A/Audio_recordings_of_J.R.R._Tolkien.md) [cuộc phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào [ngày 20 tháng 1](20_January.md), [1965](1965.md), sẽ được đặt trong Thư viện cố định về các chương trình được ghi lại của BBC.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cuộc phỏng vấn bao gồm một cuộc thảo luận chi tiết về *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và liệu Tolkien sẽ được nhớ đến nhờ tiểu thuyết hay sự nghiệp học thuật của ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 - Người phỏng vấn: [Từ chối Gueroult](../D/Denys_Gueroult.md)
 - Địa điểm: Khách sạn Randolph, Oxford

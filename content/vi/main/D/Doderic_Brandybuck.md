@@ -56,7 +56,7 @@ Doderic là con trai của [Seredic Brandybuck](../S/Seredic_Brandybuck.md) và 
 
 Ý nghĩa của tên *Doderic* vẫn chưa được biết. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên của Bucklanders có phong cách [Celtic](../C/Celtic.md) mơ hồ.<sup id="cite_ref-Translation_2-0" class="reference"><a href="#cite_note-Translation-2">[2]</a></sup>
 
-[Jim Allan](../J/Jim_Allan.md) gợi ý rằng cái tên *Doderic* là một dạng tiếng Đức của <a class="extiw" href="http://en.wikipedia.org/wiki/Theuderic" title="wikipedia:Theuderic">Theuderic</a> với các biến thể <a class="extiw" href="http://en.wikipedia.org/wiki/Theodoric_the_Great" title="wikipedia:Theodoric the Great">Theodoric</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Dietrich_von_Bern" title="wikipedia:Dietrich von Bern">Dietrich</a> và là sự kết hợp của các yếu tố *theud* ("người") và *ric* ("quy tắc", "trị vì").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Jim Allan](../J/Jim_Allan.md) gợi ý rằng cái tên *Doderic* là một dạng <a class="extiw" href="http://en.wikipedia.org/wiki/Theuderic" title="wikipedia:Theuderic">Theuderic</a> trong tiếng Đức với các biến thể <a class="extiw" href="http://en.wikipedia.org/wiki/Theodoric_the_Great" title="wikipedia:Theodoric the Great">Theodoric</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Dietrich_von_Bern" title="wikipedia:Dietrich von Bern">Dietrich</a> và là sự kết hợp của các yếu tố *theud* ("người") và *ric* ("quy tắc", "trị vì").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
@@ -64,7 +64,7 @@ Trong phiên bản trước đó của cây gia phả của gia tộc Brandybuck
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Doderic Brandybuck had ventured into the <a href="../O/Old_Forest.md" title="Old Forest">Old Forest</a> along with his friend Rollo, son of <a href="../F/Farmer_Maggot.md" title="Farmer Maggot">Farmer Maggot</a>. <a href="../S/Saradoc_Brandybuck.md" title="Saradoc Brandybuck">Saradoc Brandybuck</a> asks the player to find them and send them back.</dd></dl>
 

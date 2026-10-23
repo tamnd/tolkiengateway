@@ -41,7 +41,7 @@ infobox:
 
 <i><b>Lórien và Halls of the Tiên Smiths</b></i> là một mô-đun (trong dòng *Campaign*) dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, Phiên bản đầu tiên.
 
-Để sử dụng cùng với phần bổ sung này, [Mithril Miniatures](../M/Mithril_Miniatures.md) đã phát hành một bộ mô hình thu nhỏ bằng kim loại (M205 - M214 *Lórien Elves*).
+Để sử dụng với phần bổ sung này, [Mithril Miniatures](../M/Mithril_Miniatures.md) đã phát hành một bộ mô hình thu nhỏ bằng kim loại (M205 - M214 *Lórien Elves*).
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
@@ -50,7 +50,7 @@ PHIÊU LƯU VỚI:
 - GALADRIEL, Nữ hoàng của Lórien
 - CELEBORN, yêu tinh xám hùng mạnh
 - ANNATAR, Chúa tể quà tặng (người cải trang Sauron)
-- CELEBRIMBOR, Người làm nhẫn
+- CELEBRIMBOR, Nhà sản xuất Nhẫn
 
 KHÁM PHÁ:
 

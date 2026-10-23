@@ -74,7 +74,7 @@ Sự kiện xảy ra vào ngày 26 tháng 7
 - **[2002](2002.md)** - [Mythcon 33](../M/Mythcon_33.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Boulder,_Colorado" title="wikipedia:Boulder, Colorado">Boulder</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Colorado" title="wikipedia:Colorado">Colorado</a>.
 - **[2003](2003.md)** - [Mythcon 34](../M/Mythcon_34.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Nashville,_Tennessee" title="wikipedia:Nashville, Tennessee">Nashville</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Tennessee" title="wikipedia:Tennessee">Tennessee</a>.
 - **[2009](2009.md)** - [Tolkien Điều](../T/Tolkien_Thing.md) 2009 ở <a class="extiw" href="http://en.wikipedia.org/wiki/Rieneck" title="wikipedia:Rieneck">Rieneck</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
-- **[2012](2012.md)** - *[The Saga of Hrolf Kraki](../T/The_Saga_of_Hrolf_Kraki.md)*, được dịch bởi [Stella M. Mills](../S/Stella_M._Mills.md), được xuất bản trong ấn bản mới, với Lời nói đầu của [Priscilla Tolkien](../P/Priscilla_Tolkien.md).
+- **[2012](2012.md)** - *[The Saga of Hrolf Kraki](../T/The_Saga_of_Hrolf_Kraki.md)*, được dịch bởi [Stella M. Mills](../S/Stella_M._Mills.md), được xuất bản trong một ấn bản mới, với Lời nói đầu của [Priscilla Tolkien](../P/Priscilla_Tolkien.md).
 - **[2014](2014.md)** - [Laocoon](../L/Laocoon.md), một trong những cây Tolkien yêu thích, bị cụt hai chi. Sau đó, Vườn Bách Thảo Oxford quyết định phải chặt cây vì lý do an toàn.
 
 ## Trong Arda {#In_Arda}

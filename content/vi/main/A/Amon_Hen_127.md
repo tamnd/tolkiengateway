@@ -75,7 +75,7 @@ infobox:
     - Bởi: Ian Smalley và Sally Bijl
 - Khi ngọn lửa nguội dần
     - Bởi: Jim Lawrence
-- Truyện dân gian
+- Truyện dân ca
 - Đánh giá
     - Bởi: [Charles Noad](../C/Charles_Noad.md) & Andrew Wells
 - Lý thuyết kiến tạo mảng về sự chết đuối của Beleriand

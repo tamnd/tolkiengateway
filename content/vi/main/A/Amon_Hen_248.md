@@ -57,7 +57,7 @@ infobox:
     - Bởi: Ian Collier
 - Tất cả Bran
     - Bởi: Ian Spittlehouse
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill/Verne Walker
 - Cập nhật Oxonmoot 2014
     - Bởi: Lyn Wilshire

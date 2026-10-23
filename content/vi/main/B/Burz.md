@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Búrz"
 ---
 
-Chuyển hướng đến [Búrz](Búrz.md).
+Chuyển hướng tới [Búrz](Búrz.md).

@@ -16,4 +16,4 @@ sort_keys:
 
 - <a class="external text" href="http://www.ideacrylic.com/" rel="noreferrer noopener" target="_blank">Stefano Baldo</a> đã vui lòng cho phép anh sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Stefano_Baldo.md) lấy cảm hứng từ Trung Địa của Tolkien trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 31 tháng 3 năm 2014.
-- Người dùng đã xin phép thông qua liên lạc riêng tư: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan).
+- Người dùng xin phép thông qua liên lạc riêng tư: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan).

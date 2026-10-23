@@ -92,7 +92,7 @@ Trong bản nháp đầu tiên, Noakes đã hỏi về [Bingo Baggins](../F/Frod
 <dl><dd></dd>
 <dd>Old Noakes is present at the Gaffer&#39;s conversation, though the setting is moved from the Ivy Bush to the Green Dragon. When the Gaffer mentions that strange folk have been seen in the Shire, Noakes shakes his head and says &#34;War&#39;s brewing. The mountains are fair teeming with goblins.&#34; He is played by <a href="../W/William_Johnson.md" title="William Johnson">William Johnson</a>.</dd></dl>
 
-<b>2002: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi đánh bài</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i>:</b>
 
 <dl><dd>Contrary to the film, <a href="../D/Decipher.md" title="Decipher">Decipher</a> identifies a different Hobbit from Bilbo&#39;s Party as Old Noakes.</dd></dl>
 

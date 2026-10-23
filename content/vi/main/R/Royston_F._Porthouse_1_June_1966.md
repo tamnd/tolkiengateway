@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Royston F. Porthouse"
 ---
 
-Chuyển hướng tới [Thư gửi Royston F. Porthouse](../L/Letter_to_Royston_F._Porthouse.md).
+Chuyển hướng đến [Thư gửi Royston F. Porthouse](../L/Letter_to_Royston_F._Porthouse.md).

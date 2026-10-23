@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Helke"
 ---
 
-Chuyển hướng đến [Helke](Helke.md).
+Chuyển hướng tới [Helke](Helke.md).

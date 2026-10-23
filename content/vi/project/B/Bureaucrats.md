@@ -37,7 +37,7 @@ Các quan chức có năng lực kỹ thuật để thực hiện các hành đ�
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../R/Requests_for_adminship.md" title="Tolkien Gateway:Requests for adminship">Tolkien Gateway:Requests for adminship</a></div></div>
 
-Hiện tại không có thủ tục xác định nào để người dùng trở thành quan chức; các chương trình khuyến mãi trước đó đã được thống nhất trong [cuộc họp cộng đồng](../M/Meetings.md). Tuy nhiên, bước đầu tiên để trở thành quan chức là đạt được vị trí [quản trị viên](../A/Administrators.md).
+Hiện tại không có thủ tục xác định nào để người dùng trở thành quan chức; các chương trình khuyến mãi trước đó đã được thống nhất trong [cuộc họp cộng đồng](../M/Meetings.md). Tuy nhiên, bước đầu tiên để trở thành một quan chức là đạt được vị trí [quản trị viên](../A/Administrators.md).
 
 ## Xem thêm {#See_also}
 

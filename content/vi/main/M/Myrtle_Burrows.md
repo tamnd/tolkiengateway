@@ -47,7 +47,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Cô là con thứ ba và là con gái duy nhất của [Milo](Milo_Burrows.md) và [Peony Burrows](../P/Peony_Baggins.md). Khi lên 8 tuổi, cùng với gia đình, cô đã có mặt tại [Bữa tiệc sinh nhật](../B/Bilbo's_Farewell_Party.md) nổi tiếng của Bilbo, ở [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Cô là con thứ ba và là con gái duy nhất của [Milo](Milo_Burrows.md) và [Peony Burrows](../P/Peony_Baggins.md). Khi lên 8 tuổi, cùng với gia đình, cô đã có mặt tại Bilbo [Bữa tiệc sinh nhật](../B/Bilbo's_Farewell_Party.md) nổi tiếng, ở [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

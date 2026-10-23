@@ -37,7 +37,7 @@ Nó được mô tả là 'một vùng đồng hoang, bụi rậm và đầm l�
 
 Cư dân của vùng Shire được gọi là "Hobbit đằng kia", mà người dân vùng Yondershire gọi là "Hithershire".<sup id="cite_ref-Quests_2-0" class="reference"><a href="#cite_note-Quests-2">[2]</a></sup>
 
-Mọi chuyện đã được giải quyết bởi [Blanco](../B/Blanco.md), người tiếp tục lang thang trong khi anh trai [Marcho](../M/Marcho.md) trở nên mập mạp và thoải mái ở Michel Delving. Blanco xây nhà ở [Long Cleeve](../L/Long_Cleeve.md), gần nguồn [Nước](The_Water.md). Kể từ thời [Bandobras Took](../B/Bandobras_Took.md), Long Cleeve đã là quê hương của [North-tooks](../N/North-took_Family.md) và là trụ sở của thủ lĩnh của họ, Reeve of the Yondershire.<sup id="cite_ref-Sites_3-0" class="reference"><a href="#cite_note-Sites-3">[3]</a></sup>
+Mọi chuyện đã được giải quyết bởi [Blanco](../B/Blanco.md), người tiếp tục lang thang trong khi anh trai [Marcho](../M/Marcho.md) trở nên mập mạp và thoải mái ở Michel Delving. Blanco xây nhà ở [Long Cleeve](../L/Long_Cleeve.md), gần nguồn [Nước](The_Water.md). Kể từ thời [Bandobras Took](../B/Bandobras_Took.md), Long Cleeve đã là quê hương của [Bắc chiếm](../N/North-took_Family.md) và là trụ sở của thủ lĩnh của họ, Reeve của Yondershire.<sup id="cite_ref-Sites_3-0" class="reference"><a href="#cite_note-Sites-3">[3]</a></sup>
 
 Một ngôi làng quan trọng khác là [Nobottle](../N/Nobottle.md), được thành lập vào thời [Thain](Thain.md) [Ferumbras Took I](../F/Ferumbras_Took_I.md) và nằm gần Needlehole ở rìa Hithershire. Hai khu định cư còn lại là làng săn bắn [Gamwich](../G/Gamwich.md),<sup id="cite_ref-Sites_3-1" class="reference"><a href="#cite_note-Sites-3">[3]</a></sup> và [Tighfield](Tighfield.md), nổi tiếng với nghề làm dây thừng.<sup id="cite_ref-FTtG_4-0" class="reference"><a href="#cite_note-FTtG-4">[4]</a></sup>
 
@@ -58,4 +58,4 @@ Một ngôi làng quan trọng khác là [Nobottle](../N/Nobottle.md), được 
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://lotro-wiki.com/wiki/The_Yondershire" rel="noreferrer noopener" target="_blank">The Yondershire</a> trên <a class="external text" href="https://lotro-wiki.com/wiki" rel="noreferrer noopener" target="_blank">The Lord of the Rings Wiki trực tuyến</a>
+- <a class="external text" href="https://lotro-wiki.com/wiki/The_Yondershire" rel="noreferrer noopener" target="_blank">The Yondershire</a> trên <a class="external text" href="https://lotro-wiki.com/wiki" rel="noreferrer noopener" target="_blank">The Lord of the Rings Online Wiki</a>

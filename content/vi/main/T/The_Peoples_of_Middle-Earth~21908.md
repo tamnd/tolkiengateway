@@ -16,7 +16,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the extra on the Extended Editions</b>. For the the book, see <i><b><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></b></i>.</div></div>
 
-**Các dân tộc ở Trung Địa** là một chuỗi các phòng trưng bày có trong bộ ba phiên bản mở rộng Chúa tể của những chiếc nhẫn, luôn được đặt trong đĩa thứ ba của mỗi bộ phim. Nó chứa các nhánh có hình ảnh của các nghệ sĩ như [John Howe](../J/John_Howe.md) và [Alan Lee](../A/Alan_Lee.md), cùng với lời bình luận bằng âm thanh của nghệ sĩ trong những phần quan trọng nhất.
+**Các dân tộc ở Trung Địa** là một chuỗi các phòng trưng bày có trong bộ ba phiên bản mở rộng Chúa tể của những chiếc nhẫn, luôn được đặt trong đĩa thứ ba của mỗi bộ phim. Nó chứa các nhánh có hình ảnh của các nghệ sĩ như [John Howe](../J/John_Howe.md) và [Alan Lee](../A/Alan_Lee.md), với lời bình luận bằng âm thanh của nghệ sĩ trong những phần quan trọng nhất.
 
 ## [The Fellowship of the Ring Extended Edition](<The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>) galleries {#The_Fellowship_of_the_Ring_Extended_Edition_galleries}
 
@@ -106,7 +106,7 @@ images:
 
 ### Cái Kẻ Thù {#The_Enemy_3}
 
-- Bà phù thủy Vua
+- Cái Vua Phù thủy
 - Thú vật sa ngã
 - Miệng của Sauron
 - Orc

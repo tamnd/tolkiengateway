@@ -27,7 +27,7 @@ Trong [1969](../_/1969.md), "<a class="external text" href="https://gutenberg.ne
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
 - [1963](../_/1963.md): *[Swords &amp; Sorcery](../S/Swords_&_Sorcery.md)*
-    - "<a class="external text" href="https://gutenberg.net.au/ebooks06/0600971h.html" rel="noreferrer noopener" target="_blank">Bóng tối dưới ánh trăng</a>"
+    - "<a class="external text" href="https://gutenberg.net.au/ebooks06/0600971h.html" rel="noreferrer noopener" target="_blank">Bóng tối trong ánh trăng</a>"
 - [1969](../_/1969.md): *[Young Magicians](../Y/Young_Magicians.md)*
     - "<a class="external text" href="https://gutenberg.net.au/ebooks06/0600731h.html" rel="noreferrer noopener" target="_blank">Thung lũng giun</a>"
 

@@ -46,7 +46,7 @@ infobox:
 #### Bài viết {#Articles}
 
 - Người xanh, David. “Các mô hình trốn thoát và quay trở lại của Aeneidic và Odyssean trong *The Fall of Gondolin* và *The Return of the King*của Tolkien.”
-- Payne, Graig. “Sự cứu chuộc của Cain trong *Grendel*của John Gardner.”
+- Payne, Graig. “Sự cứu chuộc của Cain trong John *Grendel*của Gardner.”
 - Fike, Matthew A. “Thiên nhiên là siêu nhiên: Bản sửa đổi Spenser của Donaldson.”
 - Wynne, Patrick, Paula DiSante, Sarah Beach và Lynn Maudlin. “Dự án chung của các nghệ sĩ.”
 - Giá, Beverly. “Sheri S. Tepper và Tương lai của Chủ nghĩa Nữ quyền.”
@@ -63,8 +63,8 @@ infobox:
 
 #### Đánh giá {#Reviews}
 
-- *The Lord of the Rings.* J.R.R. Tolkien, Minh họa. của Alan Lee. Được đánh giá bởi Nancy-Lou Patterson.
-- *The Lord of the Rings.* J.R.R. Tolkien, Minh họa. của Alan Lee. Được đánh giá bởi Paula DiSante.
+- *The Lord of the Rings.* J.R.R. Tolkien, Minh họa. bởi Alan Lee. Được đánh giá bởi Nancy-Lou Patterson.
+- *The Lord of the Rings.* J.R.R. Tolkien, Minh họa. bởi Alan Lee. Được đánh giá bởi Paula DiSante.
 - *Farmer Giles of Ham.* J.R.R. Tolkien. Được đánh giá bởi Nancy-Lou Patterson.
 - *The Adventures of Tom Bombadil.* J.R.R. Tolkien. Được đánh giá bởi Nancy-Lou Patterson.
 - *Smith of Wooton Major.* J.R.R. Tolkien. Được đánh giá bởi Nancy-Lou Patterson.

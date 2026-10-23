@@ -63,7 +63,7 @@ infobox:
     - Bởi: [Belladonna Took](../V/Vera_Chapman.md)
 - Danh sách nụ cười
 - Hãy mỉm cười
-- Truyện dân gian
+- Truyện dân ca
 - Thư
 - Máy ép nhỏ
 - Các loại của Anne

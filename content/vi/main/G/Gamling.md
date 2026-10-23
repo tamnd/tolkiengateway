@@ -91,7 +91,7 @@ Tolkien ghi chú rằng đây là nguồn gốc của các họ Gamlen, Gam(b)li
 		</li>
 </ul>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (1981 radio series)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
 <dl><dd><a href="../P/Patrick_Barr.md" title="Patrick Barr">Patrick Barr</a> provided the voice of Gamling.</dd></dl>
 

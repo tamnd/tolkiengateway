@@ -33,7 +33,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-" [Người Lùn](../../main/D/Dwarves.md) dưới [sự Dãy Núi Xanh](../../main/B/Blue_Mountains.md): Tầm nhìn xa của [Gandalf](../../main/G/Gandalf.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
+" [Người Lùn](../../main/D/Dwarves.md) dưới [the Dãy Núi Xanh](../../main/B/Blue_Mountains.md): Tầm nhìn xa của [Gandalf](../../main/G/Gandalf.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
 
 ## Giấy phép {#Licensing}
 

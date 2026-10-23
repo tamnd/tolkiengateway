@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Stephen Walsh - Barad-dûr.jpg"
 ---
 
-Chuyển hướng đến [Tệp:Stephen Walsh - Barad-dûr.jpg](Stephen_Walsh_-_Barad-dûr.jpg.md).
+Chuyển hướng tới [Tệp:Stephen Walsh - Barad-dûr.jpg](Stephen_Walsh_-_Barad-dûr.jpg.md).

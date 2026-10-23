@@ -49,11 +49,11 @@ Goblin Scribe là sản phẩm độc đáo dành cho *[The Hobbit: An Unexpecte
 
 ## Lịch sử {#History}
 
-Goblin Scribe là con đẻ của Great Goblin, nhưng chưa bao giờ được anh ta công nhận thích đáng vì mẹ anh ta là người mà cha anh ta muốn quên đi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Do anh ta sinh ra rất nhỏ bé với đôi chân dị dạng và móng tay dài, anh ta không phải là một chiến binh và do đó đóng vai trò là người ghi chép, người đưa tin và có thể là phiên dịch cho cha mình. Anh ta tận dụng những móng tay dài của mình để ghi chép và viết tin nhắn trên giấy da, di chuyển quanh [Thị trấn yêu tinh](Goblin-town.md) trên một ròng rọc có gắn một chiếc ghế.
+Goblin Scribe là con đẻ của Great Goblin, nhưng chưa bao giờ được anh ta công nhận thích đáng vì mẹ anh ta là người mà cha anh ta muốn quên đi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Do anh ta sinh ra rất nhỏ bé với đôi chân dị dạng và móng tay dài, anh ta không phải là một chiến binh và do đó đóng vai trò là người ghi chép, người đưa tin và có thể là phiên dịch cho cha mình. Anh tận dụng những móng tay dài của mình để ghi chép và viết tin nhắn trên giấy da, di chuyển xung quanh [Thị trấn Yêu Tinh](Goblin-town.md) trên một ròng rọc có gắn một chiếc ghế.
 
-Khi Yêu tinh vĩ đại nhận được thông báo về tiền thưởng của [Azog](../A/Azog.md) cho cái đầu của [Thorin](../T/Thorin.md), Goblin Scribe có thể đã dịch tiền thưởng cho cha mình từ [Hắc Ngữ](../B/Black_Speech.md) sang [Westron](../W/Westron.md).
+Khi Yêu tinh vĩ đại nhận được thông báo về tiền thưởng của [Azog](../A/Azog.md) cho cái đầu của [Thorin](../T/Thorin.md), Goblin Scribe có thể đã dịch tiền thưởng cho cha mình từ [Hắc Ngữ](../B/Black_Speech.md) thành [Westron](../W/Westron.md).
 
-Trong [Nhiệm vụ của Erebor](../Q/Quest_of_Erebor.md), khi [Thorin và Công ty của anh ta](../T/Thorin_and_Company.md) bị bắt tại [Hiên nhà](../F/Front_Porch.md) và bị đưa đến trước Great Goblin, Goblin Scribe đã được cha anh ta ra lệnh viết và gửi một lá thư, có thể là ở Hắc Ngữ, để thông báo cho Pale Orc rằng Thorin và Công ty của anh ta đang ở thị trấn Goblin.
+Trong [Nhiệm vụ Erebor](../Q/Quest_of_Erebor.md), khi [Thorin và Đại đội của anh ta](../T/Thorin_and_Company.md) bị bắt tại [Hiên nhà](../F/Front_Porch.md) và bị đưa đến trước Great Goblin, Goblin Scribe đã được cha anh ta ra lệnh viết và gửi một lá thư, có thể bằng Hắc Ngữ, để thông báo cho Pale Orc rằng Thorin và Đại đội của anh ta đang ở Thị trấn Yêu Tinh.
 
 ## Phả hệ {#Genealogy}
 

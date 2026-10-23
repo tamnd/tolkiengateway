@@ -136,7 +136,7 @@ Hai người thường cùng nhau đi bộ thật lâu dọc các con đường 
 
 Frodo và Bilbo sống sung túc và yên ổn cho đến năm [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md). Vào thời điểm đó, Bilbo tổ chức một [bữa tiệc](../B/Bilbo's_Farewell_Party.md) vô cùng lớn để mừng sinh nhật lần thứ 111 của mình và sinh nhật lần thứ 33 của Frodo, ngày Frodo đến tuổi trưởng thành. Tại bữa tiệc này, Bilbo đọc bài diễn văn từ biệt, rồi thực hiện màn "biến mất" đã lên kế hoạch từ lâu và rời khỏi [the Shire](../T/The_Shire.md). Frodo, người đã được báo trước về "trò đùa" như cách Bilbo gọi nó, không phải chịu cú sốc đã giáng xuống những Hobbit khác có mặt. Frodo trở về nhà với tư cách là Master mới của Bag End, theo [di chúc của Bilbo](../B/Bilbo's_will.md). Tại đó, cậu được [Gandalf](../G/Gandalf.md) đón tiếp; ông cho cậu biết rằng, trong số những điều khác, Frodo đã thừa kế [chiếc nhẫn ma thuật](../O/One_Ring.md) của Bilbo.
 
-### Master of Bag End {#Master_of_Bag_End}
+### Bậc thầy Bag End {#Master_of_Bag_End}
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Eric_Faure-Brac_-_Bag_End.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bf/Eric_Faure-Brac_-_Bag_End.jpg/220px-Eric_Faure-Brac_-_Bag_End.jpg" decoding="async" loading="lazy" width="220" height="156" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bf/Eric_Faure-Brac_-_Bag_End.jpg/330px-Eric_Faure-Brac_-_Bag_End.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/bf/Eric_Faure-Brac_-_Bag_End.jpg/440px-Eric_Faure-Brac_-_Bag_End.jpg 2x" data-file-width="1250" data-file-height="884"/></a><figcaption><i>Bag End</i> by Eric Faure-Brac</figcaption></figure>
 
@@ -429,7 +429,7 @@ Trong bản dịch tiếng Đức, ông được gọi là *Frodo Beutlin*; tron
 
 ### Phim {#Films}
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (1978 film)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
 
 <dl><dd>Frodo was voiced by <a href="../C/Christopher_Guard.md" title="Christopher Guard">Christopher Guard</a>. <a href="../S/Sharon_Baird.md" title="Sharon Baird">Sharon Baird</a> was the model for Frodo in the live-action recordings Bakshi used for rotoscoping.</dd></dl>
 
@@ -453,7 +453,7 @@ Trong bản dịch tiếng Đức, ông được gọi là *Frodo Beutlin*; tron
 
 ### Loạt chương trình phát thanh {#Radio_series}
 
-<b>1955: <a href="../T/The_Lord_of_the_Rings_(1955_radio_series).md" title="The Lord of the Rings (1955 radio series)"><i>The Lord of the Rings</i> (1955 radio series)</a>:</b>
+<b>1955: <a href="../T/The_Lord_of_the_Rings_(1955_radio_series).md" title="The Lord of the Rings (1955 radio series)"><i>The Lord of the Rings</i> (loạt đài phát thanh 1955)</a>:</b>
 
 <dl><dd><a class="new" href="https://tolkiengateway.net/w/index.php?title=Oliver_Burt&amp;action=edit&amp;redlink=1" title="Oliver Burt (page does not exist)">Oliver Burt</a> provided the voice of Frodo.</dd></dl>
 
@@ -461,7 +461,7 @@ Trong bản dịch tiếng Đức, ông được gọi là *Frodo Beutlin*; tron
 
 <dl><dd>The voice of Frodo is provided by <a href="../J/James_Arrington.md" title="James Arrington">James Arrington</a>.</dd></dl>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (1981 radio series)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
 <dl><dd>Frodo is voiced by <a href="../I/Ian_Holm.md" title="Ian Holm">Ian Holm</a>.</dd></dl>
 
@@ -487,19 +487,19 @@ Trong bản dịch tiếng Đức, ông được gọi là *Frodo Beutlin*; tron
 
 <dl><dd>Frodo is present in all missions from Sam&#39;s perspective: escape from <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a>, Shelob&#39;s Lair, Cirith Ungol and the Crack of Doom. Completing the game allows to replay those missions from Frodo&#39;s perspective.</dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: War of the Ring</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: Cuộc chiến Nhẫn</a></i>:</b>
 
 <dl><dd>Frodo is a &#34;Hero&#34; unit of the Free People; his ability to use the Ring and turn invisible makes him ideal for scout missions.</dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
 
 <dl><dd>Unlike most other characters, Frodo and Sam make no appearance in Skirmish battles - they only appear in the storyline campaign.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
 <dl><dd>Frodo and other Hobbits are no longer permanent units, they are now a temporary power boost available to Free People forces.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Frodo is first met in Rivendell, preparing for departure. Later, he is found on Cerin Amroth in Lothlorien, weary from the loss of <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>. From <a href="../A/Amon_Hen.md" title="Amon Hen">Amon Hen</a> onwards, player experiences Frodo&#39;s journey in a series of Session Plays, alternatively playing as either Frodo, Sam or <a href="../G/Gollum.md" title="Gollum">Gollum</a>. The player meets Frodo again at the <a href="Field_of_Cormallen.md" title="Field of Cormallen">Field of Cormallen</a>, he later gives a speech at <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> and <a href="../A/Arwen.md" title="Arwen">Arwen</a>. A Hobbit actor portrays Frodo Baggins in a Hobbit-made theater play &#34;The Disappearance of Mad Baggins&#34;. Notably, the player is not told about Frodo&#39;s mission for a very long time, with <a href="../E/Elrond.md" title="Elrond">Elrond</a>, <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> and others only saying that it is &#34;of great importance&#34;.</dd></dl>
 

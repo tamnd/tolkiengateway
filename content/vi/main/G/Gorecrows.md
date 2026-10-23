@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gorcrows"
 ---
 
-Chuyển hướng tới [Gorcrows](Gorcrows.md).
+Chuyển hướng đến [Gorcrows](Gorcrows.md).

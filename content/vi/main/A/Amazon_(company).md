@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amazon.com Incorporated"
 ---
 
-Chuyển hướng tới [Amazon.com Incorporated](Amazon.com_Incorporated.md).
+Chuyển hướng đến [Amazon.com Incorporated](Amazon.com_Incorporated.md).

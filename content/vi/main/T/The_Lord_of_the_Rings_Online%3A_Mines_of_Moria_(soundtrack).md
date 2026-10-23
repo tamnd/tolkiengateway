@@ -30,7 +30,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mines_of_Moria_(soundtrack).png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f6/Mines_of_Moria_%28soundtrack%29.png/320px-Mines_of_Moria_%28soundtrack%29.png" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f6/Mines_of_Moria_%28soundtrack%29.png/480px-Mines_of_Moria_%28soundtrack%29.png 1.5x, https://tolkiengateway.net/w/images/f/f6/Mines_of_Moria_%28soundtrack%29.png 2x" data-file-width="500" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Lord of the Rings Online: Mines of Moria</i></span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Soundtrack by <br/><a href="../C/Chance_Thomas.md" title="Chance Thomas">Chance Thomas</a><br/><a href="../S/Stephen_DiGregorio.md" title="Stephen DiGregorio">Stephen DiGregorio</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/17_November.md" title="17 November">17 November</a>, <a href="../_/2008.md" title="2008">2008</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">instrumental</td></tr><tr><th scope="row" class="tg-infobox-label">Length</th><td class="tg-infobox-data">1:01:30</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Label</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine</a></td></tr></tbody></table>
 
-<i><b>The Lord of the Rings Trực tuyến: Mines of Moria</b></i> là nhạc nền của *[The Lord of the Rings Online: Mines of Moria](The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md)*. Nhạc nền được phát hành như một phần của phiên bản đặc biệt của trò chơi.
+<i><b>The Lord of the Rings Online: Mỏ Moria</b></i> là nhạc nền của *[The Lord of the Rings Online: Mines of Moria](The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md)*. Nhạc nền được phát hành như một phần của phiên bản đặc biệt của trò chơi.
 
 ## Nội dung {#Contents}
 
@@ -129,11 +129,11 @@ infobox:
 
 ## Đánh giá {#Reviews}
 
-Bản âm thanh của Mines của Moria đã nhận được những đánh giá tích cực. *Original Sound Version* cho rằng nhạc phim này "vượt trội hơn điểm phim."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Bản âm thanh của Mỏ Moria đã nhận được những đánh giá tích cực. *Original Sound Version* cho rằng nhạc phim này "vượt trội hơn so với điểm phim."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://lotro-wiki.com/wiki/Mines_of_Moria_-_Original_Video_Game_Soundtrack" rel="noreferrer noopener" target="_blank">Mỏ Moria - Nhạc phim trò chơi điện tử gốc</a> trên <a class="external text" href="https://lotro-wiki.com/wiki" rel="noreferrer noopener" target="_blank">The Lord of the Rings Wiki trực tuyến</a>
+- <a class="external text" href="https://lotro-wiki.com/wiki/Mines_of_Moria_-_Original_Video_Game_Soundtrack" rel="noreferrer noopener" target="_blank">Mỏ Moria - Nhạc phim gốc của trò chơi điện tử</a> trên <a class="external text" href="https://lotro-wiki.com/wiki" rel="noreferrer noopener" target="_blank">The Lord of the Rings Online Wiki</a>
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Rings of Power (TV series) - Barrow Wights.png"
 ---
 
-Chuyển hướng đến [Tệp:The Những Chiếc Nhẫn Quyền Năng (phim truyền hình dài tập) - Barrow Wights.png](<../T/The_Rings_of_Power_(TV_series)_-_Barrow_Wights.png.md>).
+Chuyển hướng tới [Tệp:The Những Chiếc Nhẫn Quyền Năng (phim truyền hình) - Barrow Wights.png](<../T/The_Rings_of_Power_(TV_series)_-_Barrow_Wights.png.md>).

@@ -138,7 +138,7 @@ Tuy nhiên, trong một tác phẩm được viết vào cuối thập niên 50,
 		</li>
 </ul>
 
-<b>2012: <i><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Guardians of Middle-earth</a></i>:</b>
+<b>2012: <i><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Người giám hộ của Trung Địa</a></i>:</b>
 
 <dl><dd>Arathorn II is a playable Warrior in <i><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Guardians of Middle-earth</a></i>. He tracked down the Troll who killed his father and single-handedly slew it on a cliff above the <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a>. Heroic deeds of the like earned Arathorn the respect of his people and of <a href="../E/Elladan_and_Elrohir.md" title="Elladan and Elrohir">Elladan and Elrohir</a>. His abilities combine ranged and melee attacks. His &#39;Staggering Shot&#39; stuns enemies with his bow. &#39;Rangers Strike&#39; stabs the enemy, slowing them and reducing movement speed, before sending Arathorn into stealth mode. With &#39;<a href="../D/Dúnedain.md" title="Dúnedain">Dúnedain</a> Blade&#39;, Arathorn swings his blade in an arc, damaging and slowing his opponent. &#39;Chieftain&#39;s Focus&#39; lands a powerful blow on his opponent and increases his attack speed. His passive ability, &#39;Heir of <a href="../I/Isildur.md" title="Isildur">Isildur</a>&#39;, means every 10th successful attack of his will deal critical damage and his movement speed is faster to other ranked characters in the base game.</dd></dl>
 

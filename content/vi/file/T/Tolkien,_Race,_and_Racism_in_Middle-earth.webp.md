@@ -27,7 +27,7 @@ file:
 
 Bìa *[Tolkien, Race, and Racism in Middle-earth](../../main/T/Tolkien,_Race,_and_Racism_in_Middle-earth.md)* của Robert Stuart, do Palgrave Macmillan xuất bản.
 
-Minh họa bìa: © AF archive / Alamy Stock Ảnh<br> Chú thích ảnh bìa: Peter Jackson hình dung về 'uruks, lũ orc đen có sức mạnh to lớn' của Tolkien
+Minh họa bìa: © AF archive / Alamy Stock Ảnh<br> Chú thích ảnh bìa: Peter Jackson hình dung về 'uruks, lũ Orc đen có sức mạnh to lớn' của Tolkien
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
 <p>The copyright of this image is most likely owned by the publisher or the artist who created the cover. It is believed that this image,

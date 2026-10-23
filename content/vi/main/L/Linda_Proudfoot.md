@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Linda Baggins"
 ---
 
-Chuyển hướng đến [Linda Baggins](Linda_Baggins.md).
+Chuyển hướng tới [Linda Baggins](Linda_Baggins.md).

@@ -84,11 +84,11 @@ Trong một ghi chú thảo luận về [Drúedain](../D/Drúedain.md), Tolkien 
 
 <dl><dd><b>Norrog</b> was a puffy, brown cavern fungus with a gritty taste. Even unprepared, a handful could sustain a Man for a day. Properly prepared, it increased vigour and granted resilience. Orcs often used its taste to mask poisons.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>In the game, many creatures, most commonly <a href="../O/Orcs.md" title="Orcs">Orc-kind</a>, <a href="../S/Spiders.md" title="Spiders">Spiders</a>, and <a href="../T/Trolls.md" title="Trolls">Trolls</a>, possess a fungal infection from the <a class="external text" href="https://lotro-wiki.com/wiki/Foundations_of_Stone" rel="noreferrer noopener" target="_blank">Foundations of Stone</a>. These creatures are referred to as <a class="new" href="https://tolkiengateway.net/w/index.php?title=Globsnaga&amp;action=edit&amp;redlink=1" title="Globsnaga (page does not exist)">Globsnaga</a>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></dd></dl>
 
-<b>2014: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung Địa: Bóng Tối trong số Mordor</a></i></b>
+<b>2014: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Middle-earth: Shadow of Mordor</a></i></b>
 
 <dl><dd>Several funguses can be foraged in the game:<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></dd></dl>
 

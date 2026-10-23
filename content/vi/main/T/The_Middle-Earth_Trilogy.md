@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Jewels of Darkness"
 ---
 
-Chuyển hướng tới [Những viên ngọc của Bóng Tối](../J/Jewels_of_Darkness.md).
+Chuyển hướng đến [Viên ngọc của Bóng Tối](../J/Jewels_of_Darkness.md).

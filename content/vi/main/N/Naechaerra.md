@@ -11,4 +11,4 @@ redirect_target: "Nahar"
 redirect_fragment: "Etymology"
 ---
 
-Chuyển hướng đến [Nahar](Nahar.md#Etymology).
+Chuyển hướng tới [Nahar](Nahar.md#Etymology).

@@ -36,7 +36,7 @@ sort_keys:
 
 ## Tóm tắt {#Synposis}
 
-Khi [Rúmil](<../R/Rúmil_(elf_of_Tirion).md#Other_versions_of_the_legendarium>) kể xong câu chuyện trước đây ở ngoài vườn, [Eriol](../E/Eriol.md) đã hỏi anh rất nhiều câu hỏi. Yêu tinh đồng ý trả lời họ sau, nhưng trước tiên họ phải ăn sáng. [Littleheart](../L/Littleheart.md) mang thức ăn cho Eriol, người đã dành thời gian còn lại trong ngày để đi dạo trong vườn. Vào buổi tối, tất cả lại tụ tập quanh [Tale-fire](Tale-fire.md) một lần nữa. Hầu hết họ đều muốn chơi nhạc và hát. Tuy nhiên, sau những bài hát, họ bắt đầu khao khát vẻ đẹp đã mất của những năm tháng qua và sự hồi sinh của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Magic_Sun&amp;action=edit&amp;redlink=1" title="Magic Sun (page does not exist)">Phép thuật Mặt Trời</a>. Eriol nhờ [Lindo](../L/Lindo.md) cho Rúmil kể về Valinor. Rúmil đồng ý và bắt đầu:
+Khi [Rúmil](<../R/Rúmil_(elf_of_Tirion).md#Other_versions_of_the_legendarium>) kể xong câu chuyện trước đây ở ngoài vườn, [Eriol](../E/Eriol.md) đã hỏi anh rất nhiều câu hỏi. Yêu tinh đồng ý trả lời họ sau, nhưng trước tiên họ phải ăn sáng. [Littleheart](../L/Littleheart.md) mang thức ăn cho Eriol, người đã dành thời gian còn lại trong ngày để đi dạo trong vườn. Vào buổi tối tất cả lại tụ tập quanh [Tale-fire](Tale-fire.md) một lần nữa. Hầu hết họ đều muốn chơi nhạc và hát. Tuy nhiên, sau những bài hát, họ bắt đầu khao khát vẻ đẹp đã mất của những năm tháng qua và sự hồi sinh của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Magic_Sun&amp;action=edit&amp;redlink=1" title="Magic Sun (page does not exist)">Phép thuật Mặt Trời</a>. Eriol yêu cầu [Lindo](../L/Lindo.md) cho Rúmil kể về Valinor. Rúmil đồng ý và bắt đầu:
 
 [Manwë Súlimo](../M/Manwë.md) và [Varda Người đẹp](../V/Varda.md) đến với thế giới, chắp cánh bay qua [Vaitya](../V/Vaiya.md), [Ilwë](../I/Ilmen.md) và [Vilna](../V/Vista.md), ba tầng không khí. Tiểu Vali, [Mánir](../S/Sylphs.md) và [Súruli](../S/Sylphs.md), đi cùng họ. [Melko](../M/Melko.md) đã vượt xa họ và gây náo loạn thế giới, khiến Manwë tức giận. Sau chúng, Ainur sau đây xuất hiện theo thứ tự:
 
@@ -52,7 +52,7 @@ Aulë đã làm việc suốt bảy năm để xây dựng nền móng của [Ta
 
 Sau đó Aulë, với sự giúp đỡ của Tulkas và Palúrien, cuối cùng đã có thể xây nhà cho Valar tại thành phố [Valmar](../V/Valmar.md):
 
-- Manwë có một [ngôi nhà](../I/Ilmarin.md) trên Taniquetil với mái *ilwë*. [Diều hâu](../H/Hawks.md) và sau đó là [Sorontur](../S/Sorontur.md), vua của [đại bàng](../E/Eagles.md), cũng sống ở đó;
+- Manwë có một [ngôi nhà](../I/Ilmarin.md) trên Taniquetil với mái *ilwë*. [Diều hâu](../H/Hawks.md) và sau này là [Sorontur](../S/Sorontur.md), vua của [đại bàng](../E/Eagles.md), cũng sống ở đó;
 - Aulë và Palúrien có một [ngôi nhà](../M/Mansions_of_Aulë.md) được làm từ ánh sáng với các sợi kim loại;
 - Ossë có một ngôi nhà do Ónen và Oarni làm từ ngọc trai;
 - Ulmo không sống ở Valmar. Khi cần thiết, anh là khách của Manwë;

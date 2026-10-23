@@ -69,9 +69,9 @@ Trùng hợp thay, cũng có một từ [Sindarin](../S/Sindarin.md) *arod*mang 
 		</li>
 </ul>
 
-Trong *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và *[The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*, Arod do một con ngựa trắng tên Percy thủ vai. Theo [Orlando Bloom](../O/Orlando_Bloom.md), đó là chú ngựa thân thiện nhất trên phim trường.
+Trong *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và *[The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*, Arod do một con ngựa trắng tên Percy thủ vai. Theo [Orlando Bloom](../O/Orlando_Bloom.md), nó là chú ngựa thân thiện nhất trên phim trường.
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Arod and <a href="../H/Hasufel.md" title="Hasufel">Hasufel</a>, led by <a href="../S/Shadowfax.md" title="Shadowfax">Shadowfax</a>, appear in a mission in which the player has to stop <a href="../M/Mordor.md" title="Mordor">Mordor</a> <a href="../O/Orcs.md" title="Orcs">orcs</a> from stealing Black Horses of <a href="../R/Rohan.md" title="Rohan">Rohan</a>.</dd></dl>
 

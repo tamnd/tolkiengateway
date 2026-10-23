@@ -93,7 +93,7 @@ Thủ lĩnh đã gia nhập [Minohtar](../M/Minohtar.md) ở đầu [Đường p
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Faramir_(son_of_Ondoher).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/ba/The_Lord_of_the_Rings_Online_-_Faramir_%28son_of_Ondoher%29.jpg/300px-The_Lord_of_the_Rings_Online_-_Faramir_%28son_of_Ondoher%29.jpg" decoding="async" loading="lazy" width="300" height="691" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/ba/The_Lord_of_the_Rings_Online_-_Faramir_%28son_of_Ondoher%29.jpg 1.5x" data-file-width="430" data-file-height="990"/></a><figcaption>Faramir&#39;s shade in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Faramir was cursed by his father for failing him as a son and as an heir. His <a href="../U/Undead.md" title="Undead">shade</a> still wanders the Wastes of <a href="../D/Dagorlad.md" title="Dagorlad">Dagorlad</a> near Ondoher&#39;s Folly, the hill on which his father was slain.</dd></dl>
 

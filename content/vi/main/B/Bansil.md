@@ -11,4 +11,4 @@ redirect_target: "Glingal and Belthil"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Chuyển hướng đến [Glingal và Belthil](../G/Glingal_and_Belthil.md#Other_versions_of_the_legendarium).
+Chuyển hướng tới [Glingal và Belthil](../G/Glingal_and_Belthil.md#Other_versions_of_the_legendarium).

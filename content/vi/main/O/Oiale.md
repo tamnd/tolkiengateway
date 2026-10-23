@@ -18,7 +18,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Từ này có thể là [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=OY&amp;action=edit&amp;redlink=1" title="OY (page does not exist)">OY</a> hoặc thân từ như *[oio](Oio.md)* "một khoảng thời gian vô tận", cộng với phần kết thúc *[-lë](../_/-lë.md)*.
+Từ này có thể là [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=OY&amp;action=edit&amp;redlink=1" title="OY (page does not exist)">OY</a> hoặc một gốc như *[oio](Oio.md)* "một khoảng thời gian vô tận", cộng với phần kết thúc *[-lë](../_/-lë.md)*.
 
 <span></span>
 

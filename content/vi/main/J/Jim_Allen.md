@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Jim Allan"
 ---
 
-Chuyển hướng tới [Jim Allan](Jim_Allan.md).
+Chuyển hướng đến [Jim Allan](Jim_Allan.md).

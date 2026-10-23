@@ -35,7 +35,7 @@ infobox:
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Đặc trưng: Gia đình Balden; Joseph Chamberlain; Percy Harrison; Ngài John Holder; Ngài Barry Jackson; Cyril Lander; Joseph, Harry & Oliver Lucas; ngài Herbert Manzoni; Sidney H Meteyard & Kate Eadie; Henry Morton, JRR Tolkien; William Dyke Williamson
+Đặc trưng: Gia đình Balden; Joseph Chamberlain; Percy Harrison; Ngài Chủ John; Ngài Barry Jackson; Cyril Lander; Joseph, Harry & Oliver Lucas; ngài Herbert Manzoni; Sidney H Meteyard & Kate Eadie; Henry Morton, JRR Tolkien; William Dyke Williamson
 
 ## Liên kết ngoài {#External_links}
 

@@ -68,7 +68,7 @@ infobox:
 
 ### Miền Nam {#The_Southlands}
 
-Trong đống đổ nát mới của Hordern, nơi không còn người sống sót, [Arondir](Arondir.md) và [Bronwyn](../B/Bronwyn.md) tìm và bước vào ngôi nhà bị cháy của những người bạn [Ciaran](../C/Ciaran.md) và [Hana](../H/Hana.md). Arondir đi một mình vào một đường hầm dưới lòng đất, dẫn từ ngôi nhà. Bên cạnh một hồ bơi ngầm, trong vòng một giờ, anh bất ngờ bị một kẻ thù vô danh bắt giữ trong bóng tối.
+Trong đống đổ nát mới của Hordern, nơi không có người sống sót, [Arondir](Arondir.md) và [Bronwyn](../B/Bronwyn.md) tìm và bước vào ngôi nhà bị cháy của những người bạn [Ciaran](../C/Ciaran.md) và [Hana](../H/Hana.md). Arondir đi một mình vào một đường hầm dưới lòng đất, dẫn từ ngôi nhà. Bên cạnh một hồ bơi ngầm, trong vòng một giờ, anh bất ngờ bị một kẻ thù vô danh bắt giữ trong bóng tối.
 
 Trở lại quán rượu của Waldreg ở [Tirharad](../T/Tirharad.md), Bronwyn cố gắng thuyết phục người dân truyền bá tin tức về Hordern, nhưng không gặp may. Tại nhà Bronwyn, Theo phát hiện ra bên dưới tấm ván sàn của họ một [Digger Orc](../O/Orcs.md) đã được giấu kín từ lâu (tiếng ồn mà Theo tin rằng là do chuột gây ra) ngay khi Bronwyn trở về nhà. Khi Digger Orc xuất hiện, họ trốn tránh anh ta và sau đó cố gắng giết anh ta một cách tuyệt vọng. Cô ấy đã chặt đầu Digger Orc. Với cái đầu của mình, Bronwyn đi thuyết phục người dân thị trấn tìm kiếm sự an toàn và chuyển đến [Tháp canh Ostirith](../W/Watchtower_of_Ostirith.md), tiền đồn của địa phương.
 
@@ -82,9 +82,9 @@ Durin sau đó chuyển lời đề nghị này tới Vua [Durin III](../D/Durin
 
 ### Cái Biển {#The_Sea}
 
-Đang bơi trở lại [Trung Địa](../M/Middle-earth.md), Galadriel chạm trán với một nhóm thủy thủ bị mắc kẹt đang sợ hãi trước một sinh vật không tên ở gần đó được gọi là con sâu đã làm đắm tàu ​​của họ. Trong số đó có [Halbrand](../H/Halbrand.md), Eamon và Abigail. Con sâu nhanh chóng tìm thấy họ và phá hủy chiếc bè, và Galadriel chỉ trốn thoát cùng Halbrand. Đi về phía đông, Halbrand đặt câu hỏi về công việc kinh doanh trên biển của Galadriel và sau một cuộc tranh cãi, cô rất vui khi biết được từ anh rằng Orc thực sự vẫn hoạt động trên Trung Địa, vì họ đã đuổi Halbrand khỏi nhà anh ở [Southlands](../M/Mordor.md). Vào lúc chạng vạng, nước trở nên giông bão và Galadriel suýt chết đuối trước khi Halbrand cứu cô.
+Đang bơi trở lại [Trung Địa](../M/Middle-earth.md), Galadriel chạm trán với một nhóm thủy thủ bị mắc kẹt đang sợ hãi trước một sinh vật không tên ở gần đó được gọi là con sâu đã làm đắm tàu ​​của họ. Trong số đó có [Halbrand](../H/Halbrand.md), Eamon và Abigail. Con sâu nhanh chóng tìm thấy chúng và phá hủy chiếc bè, đồng thời Galadriel chỉ trốn thoát với Halbrand. Đi về phía đông, Halbrand đặt câu hỏi về công việc kinh doanh của Galadriel trên biển và sau một cuộc tranh cãi, cô rất vui khi biết được từ anh rằng Orc thực sự vẫn hoạt động trên Trung Địa, vì họ đã đưa Halbrand rời khỏi nhà anh ở [Southlands](../M/Mordor.md). Vào lúc chạng vạng, nước trở nên giông bão và Galadriel suýt chết đuối trước khi Halbrand cứu được cô.
 
-Trong khoảnh khắc cuối cùng của tập phim, một con tàu vô danh vào sáng hôm sau tìm thấy Galadriel và Halbrand đang mệt mỏi ngủ trên bè của họ.
+Trong khoảnh khắc cuối cùng của tập phim, một con tàu vô danh vào sáng hôm sau tìm thấy Galadriel và Halbrand đang ngủ mệt mỏi trên bè của họ.
 
 ## Truyền {#Cast}
 
@@ -240,7 +240,7 @@ Trong khoảnh khắc cuối cùng của tập phim, một con tàu vô danh và
 
 Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amazon đi kèm với tập phim.
 
-- **Cảnh 2** - "Hầu hết các chi tiết và chi tiết được nêu ở đây đều bắt nguồn từ '[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)', phần mở đầu có tựa đề '[Liên quan đến Hobbit](../C/Concerning_Hobbits.md)' và [Phụ lục](Appendices.md), [A](Appendix_A.md) đến [F](Appendix_F.md)', nơi người du hành dũng cảm có thể hành trình khám phá những chân trời xa hơn nữa."
+- **Cảnh 2** - "Hầu hết các chi tiết và sự trau chuốt được kể ở đây đều bắt nguồn từ '[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)', đoạn mở đầu có tựa đề '[Liên quan đến Hobbit](../C/Concerning_Hobbits.md)' và [Phụ lục](Appendices.md), [A](Appendix_A.md) đến [F](Appendix_F.md)', nơi người du hành dũng cảm có thể hành trình khám phá những chân trời xa hơn nữa."
 - **Cảnh 3** - "Có thể tìm thấy âm nhạc ở khắp mọi nơi trong [Trung Địa](../M/Middle-earth.md): Từ [những dòng sông](../R/Rivers.md) chảy ào ạt, đến giọng nói của [Ent](../E/Ents.md), đến tiếng hát của [yêu tinh](../E/Elves.md) và [người lùn](../D/Dwarves.md), [con người](../M/Men.md) và [halflings](../H/Halflings.md) - bài hát được dệt nên khắp mọi nền văn hóa trên thế giới và thậm chí cả chính vùng đất này."
 - **Cảnh 9** - "Với kích thước nhỏ bé của mình, người lai gọi con người là 'Dân tộc Lớn' và cố gắng hết sức để tránh chạm mặt với họ, một phần nhờ vào sở trường ấn tượng của họ là biến mất nhanh chóng và âm thầm. (Liên quan đến Hobbit)"
 - **Cảnh 12** - "[Eregion](../E/Eregion.md) là vương quốc yêu tinh mới nhất ở Trung Địa, ở phía tây của [Dãy Núi Sương Mù](../M/Misty_Mountains.md). Nó được thành lập vào đầu [Kỷ thứ hai](../S/Second_Age.md) bởi [Noldor](../N/Noldor.md), [High Elves](../H/High_Elves.md) đặc biệt được biết đến với nghề thủ công của họ. ([Phụ lục B](Appendix_B.md))."
@@ -262,7 +262,7 @@ Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amaz
 
 Galadriel gặp một chiếc bè có người ở gần khu vực cô nhảy khỏi tàu. Họ nói rằng họ là những người sống sót sau một vụ đắm tàu ​​và có lẽ đang cố gắng đi tới Valinor. Con người bị Valar cấm đi thuyền đến Valinor và thường biến mất hoặc bị xử tử nếu họ cố gắng đến đó. Tuy nhiên, Galadriel dường như không biết về điều này và chỉ nghĩ rằng việc gặp phải con người ở Biển Sundering là điều bình thường.
 
-Cô gặp một người lạ tên Halbrand, người này nói rằng anh ta là người cai trị một khu vực được gọi là "The Southlands". Vùng này trong chuỗi nằm trong cùng khu vực với vùng sẽ được gọi là [Mordor](../M/Mordor.md). Tuy nhiên, trong tài liệu nguồn, các bài viết muộn hơn của Tolkien có nêu rằng Mordor đã là một vùng đất hoang hoang vắng được ghi nhận là nơi có hoạt động núi lửa trước Thời đại thứ hai và có thể đã được gọi là Mordor có nghĩa là "vùng đất đen" vì lý do đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Cô gặp một người lạ tên là Halbrand, người này nói rằng anh ta là người cai trị một khu vực được gọi là "The Southlands". Vùng này trong chuỗi nằm trong cùng khu vực với vùng sẽ được gọi là [Mordor](../M/Mordor.md). Tuy nhiên, trong tài liệu nguồn, trong các bài viết muộn của Tolkien có nêu rằng Mordor đã là một vùng đất hoang hoang vắng được ghi nhận là nơi có hoạt động núi lửa trước Thời đại thứ hai và có thể đã được gọi là Mordor có nghĩa là "vùng đất đen" vì lý do đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Southlands không bao giờ được đề cập trong tài liệu nguồn và dường như được phát minh ra cho bộ truyện cũng như tất cả các nhân vật sống ở đó. Sẽ thật vô nghĩa khi Sauron, người đã lẩn trốn trong hầu hết Thời đại thứ hai, chọn một khu vực đông dân cư như Southlands làm căn cứ của mình: đặc biệt là khi Tiên tộc đã tuần tra khu vực đó. Anh ấy chọn Mordor vì nơi đây vốn đã là một vùng đất hoang có núi lửa hoang tàn.
 

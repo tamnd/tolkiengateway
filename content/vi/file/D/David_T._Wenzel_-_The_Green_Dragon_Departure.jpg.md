@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[The Green Rồng](../../main/T/The_Green_Dragon.md) Departure" của [David T. Wenzel](../../main/D/David_T._Wenzel.md) cho [*The Hobbit* (truyện tranh)](<../../main/T/The_Hobbit_(comic_book).md>)
+"[The Green Rồng](../../main/T/The_Green_Dragon.md) Khởi hành" của [David T. Wenzel](../../main/D/David_T._Wenzel.md) cho [*The Hobbit* (truyện tranh)](<../../main/T/The_Hobbit_(comic_book).md>)
 
 ## Giấy phép {#Licensing}
 

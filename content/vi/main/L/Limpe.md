@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Limpë"
 ---
 
-Chuyển hướng đến [Limpë](Limpë.md).
+Chuyển hướng tới [Limpë](Limpë.md).

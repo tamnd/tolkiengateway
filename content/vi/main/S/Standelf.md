@@ -33,7 +33,7 @@ infobox:
 
 ## Các phiên bản khác của Legendarium {#Other_versions_of_the_Legendarium}
 
-Trong bản thảo của *[A Conspiracy Unmasked](../A/A_Conspiracy_Unmasked.md)*, Standelf được đề cập một lần (trong khi nó chưa bao giờ được đề cập trong văn bản đã xuất bản của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*) khi đi ngang qua con đường "từ [Cầu](../B/Brandywine_Bridge.md) đến Standelf và [Haysend](../H/Haysend.md)". Ở bản đồ cuối cùng, con đường dừng ở Standelf và không tiếp tục đến Haysend.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong bản thảo của *[A Conspiracy Unmasked](../A/A_Conspiracy_Unmasked.md)*, Standelf được nhắc đến một lần (trong khi nó chưa bao giờ được đề cập trong văn bản đã xuất bản của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*) khi đi ngang qua con đường "từ [Cầu](../B/Brandywine_Bridge.md) đến Standelf và [Haysend](../H/Haysend.md)". Ở bản đồ cuối cùng, con đường dừng ở Standelf và không tiếp tục đến Haysend.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Volkolak](../../main/D/Draugluin.md)" của [Oleg Poluyanov](../../category/I/Images_by_Oleg_Poluyanov.md)
+"[Volcolak](../../main/D/Draugluin.md)" của [Oleg Poluyanov](../../category/I/Images_by_Oleg_Poluyanov.md)
 
 ## Giấy phép {#Licensing}
 

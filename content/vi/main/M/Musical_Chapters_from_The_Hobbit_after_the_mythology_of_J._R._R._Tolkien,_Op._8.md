@@ -17,9 +17,9 @@ Một vở opera của nhà soạn nhạc [Paul Corfield Godfrey](../P/Paul_Corf
 
 Vào mùa thu năm 1974, nhà soạn nhạc quay lại bản nhạc, và theo lời giới thiệu của Alan Bush (gia sư sáng tác của ông vào thời điểm đó) đã thực hiện những cắt giảm đáng kể nhằm đưa toàn bộ tác phẩm chỉ trong phạm vi một buổi tối. Điểm cắt này sau đó được sử dụng làm cơ sở cho điểm toàn bộ của dàn nhạc, trong đó chỉ có hai cảnh đầu tiên được hoàn thành đầy đủ (mặc dù một số đoạn sau đó cũng được tính điểm đầy đủ). Phần cuối cùng của bản nhạc, bối cảnh của bài thơ *Roads go ever ever on*, được trích ra để trình diễn độc lập như một trong những [Tolkien Bài hát, Op. 9](../T/Tolkien_Songs,_Op._9.md).
 
-Tuy nhiên, trong giai đoạn 1982–83, một phần của bản nhạc gốc đã bị mất, và những đoạn duy nhất được bảo tồn là những đoạn đã được đưa vào dàn nhạc, những đoạn đã được dàn dựng thành bản nhạc đầy đủ và một đoạn đã được sao chụp. Một số chất liệu chuyên đề từ những bản phác thảo đó chắc chắn cũng được đưa vào các bản phác thảo và các mảnh vỡ để cuối cùng trở thành [Các chương âm nhạc từ The Lord of the Rings sau thần thoại J. R. R. Tolkien, Op. 73](Musical_chapters_from_The_Lord_of_the_Rings_after_the_mythology_of_J._R._R._Tolkien,_Op._73.md) và thậm chí cả [Những cảnh sử thi từ The Silmarillion sau thần thoại J. R. R. Tolkien (Hoàn thành)](<../E/Epic_Scenes_from_The_Silmarillion_after_the_mythology_of_J._R._R._Tolkien_(Complete).md>) - như có thể thấy trong âm nhạc gắn liền với sự phù phép của Sauron trong [Beren and Lúthien, Op. 47 (Opera)](<../B/Beren_and_Lúthien,_Op._47_(Opera).md>), bắt nguồn từ việc tìm thấy Chiếc nhẫn trong *Over Hill and Under Hill*, hoặc mô típ cho Smaug, tái xuất hiện cùng với Ancalagon tổ tiên của rồng bay ở cao trào của trận chiến trong [The War of Wrath, Op. 71 (Opera)](<../T/The_War_of_Wrath,_Op._71_(Opera).md>).
+Tuy nhiên, trong giai đoạn 1982–83, một phần của bản nhạc gốc đã bị mất, và những đoạn duy nhất được bảo tồn là những đoạn đã được đưa vào dàn nhạc, những đoạn đã được dàn dựng thành bản nhạc đầy đủ và một đoạn đã được sao chụp. Một số chất liệu chuyên đề từ những bản phác thảo đó chắc chắn cũng được đưa vào các bản phác thảo và các mảnh vỡ để cuối cùng trở thành [Các chương âm nhạc từ The Lord of the Rings sau thần thoại J. R. R. Tolkien, Op. 73](Musical_chapters_from_The_Lord_of_the_Rings_after_the_mythology_of_J._R._R._Tolkien,_Op._73.md) và thậm chí cả [Những cảnh sử thi từ The Silmarillion sau thần thoại J. R. R. Tolkien (Hoàn thành)](<../E/Epic_Scenes_from_The_Silmarillion_after_the_mythology_of_J._R._R._Tolkien_(Complete).md>) - như có thể thấy trong âm nhạc gắn liền với sự phù phép của Sauron trong [Beren and Lúthien, Op. 47 (Opera)](<../B/Beren_and_Lúthien,_Op._47_(Opera).md>), bắt nguồn từ việc tìm thấy Nhẫn trong *Over Hill and Under Hill*, hoặc mô típ cho Smaug, tái xuất hiện cùng với Ancalagon tổ tiên của rồng bay ở cao trào của trận chiến trong [The War of Wrath, Op. 71 (Opera)](<../T/The_War_of_Wrath,_Op._71_(Opera).md>).
 
-Trong giai đoạn 1998–99, nhà soạn nhạc đã quay lại bản nhạc hiện chưa hoàn chỉnh và hoàn thành công việc phối khí đầy đủ cho ba chương đầu tiên, khôi phục những đoạn đã bị cắt trước đó nếu cần thiết từ bản nhạc. Ông cũng tái tạo lại những mảnh vỡ của *Fire and Water* còn tồn tại và tái tạo lại một số phần chưa hoàn chỉnh.
+Trong giai đoạn 1998–99, nhà soạn nhạc đã quay lại bản nhạc hiện chưa hoàn chỉnh và hoàn thành công việc phối khí đầy đủ cho ba chương đầu tiên, khôi phục những đoạn đã bị cắt trước đó nếu cần thiết từ bản nhạc. Ông cũng tái tạo lại những mảnh vỡ của *Fire and Water* còn tồn tại và tái tạo lại một số phần chưa hoàn thiện.
 
 Sau khi hoàn thành [các chương âm nhạc từ The Lord of the Rings sau thần thoại J. R. R. Tolkien, Op. 73](Musical_chapters_from_The_Lord_of_the_Rings_after_the_mythology_of_J._R._R._Tolkien,_Op._73.md) sau đó anh ấy cuối cùng đã xem lại tác phẩm, làm lại các phần của nó để phù hợp theo chủ đề với cả chu kỳ đó và [Những cảnh sử thi từ The Silmarillion sau thần thoại J. R. R. Tolkien (Hoàn thành)](<../E/Epic_Scenes_from_The_Silmarillion_after_the_mythology_of_J._R._R._Tolkien_(Complete).md>) và sắp xếp lại các phần bị mất ở dạng hơi rút gọn.
 
@@ -81,7 +81,7 @@ Dain, Chúa tể của Dãy Đồi Sắt (Baritone)
 
 Bard, cung thủ của Lake Town (Baritone)
 
-Bậc thầy của Lake Town (Tenor)
+Chủ nhân của Lake Town (Tenor)
 
 Người lính thứ nhất của Lake Town (Tenor)
 
@@ -167,7 +167,7 @@ Cảnh Bốn         Bilbo đi đến chân núi và gặp Gollum người 
 
 Cảnh Năm          Bilbo có cơ hội giết Gollum, nhưng thương hại nên anh kiềm chế và né tránh, bị truy đuổi bởi những lời nguyền của Gollum. Anh ta cũng tìm cách trốn tránh những người bảo vệ lũ Orc và trốn thoát khỏi đường hầm.
 
-Cảnh Sáu             Trên sườn núi, những người lùn và Gandalf đang tranh cãi về việc họ nên làm gì để tìm kiếm người hobbit mất tích khi Bilbo tham gia cùng họ; nhưng anh ấy không nói gì về chiếc nhẫn. Sói người ta nghe thấy tiếng hú, và cả nhóm trốn thoát lên cây trong khi lũ Orc tham gia truy đuổi và ca hát chế nhạo. Chỉ khi đại bàng từ trên núi lao xuống thì cả đoàn mới có thể trốn thoát.
+Cảnh Sáu             Trên sườn núi, những người lùn và Gandalf đang tranh cãi về việc họ nên làm gì để tìm kiếm người hobbit mất tích khi Bilbo tham gia cùng họ; nhưng anh ấy không nói gì về chiếc nhẫn. Sói người ta nghe thấy tiếng hú, và cả nhóm trốn thoát lên cây khi lũ Orc tham gia truy đuổi và ca hát chế nhạo. Chỉ khi đại bàng từ trên núi lao xuống thì cả đoàn mới có thể trốn thoát.
 
 Cảnh Bảy      Những con đại bàng đồng ý chở cả nhóm rời khỏi những ngọn núi về phía đông và xa hơn trong cuộc hành trình của chúng.
 
@@ -193,7 +193,7 @@ Cảnh ba       Vua Tiên thẩm vấn Thorin trước rồi Balin, nhưng k
 
 Cảnh Bốn         Trong ngục tối, đội trưởng đội bảo vệ và quản gia đang ăn mừng khi Bilbo đánh cắp được chìa khóa và thả những người lùn.  Anh ta đóng chúng vào thùng để chuyển xuống sông, và những người khuân vác Tiên vui vẻ gửi chúng xuống nước.
 
-Cảnh Năm          Đến Lake Town, cả nhóm được chào đón bởi Bard khi người đứng đầu đội bảo vệ được đưa đến gặp Master, người đề nghị hỗ trợ họ bất chấp sự hoài nghi của ông rằng họ sẽ có thể đánh bại Smaug.
+Cảnh Năm          Đến Lake Town, cả nhóm được chào đón bởi Bard khi người đứng đầu đội bảo vệ được đưa đến Chủ nhân, người đề nghị hỗ trợ họ bất chấp sự hoài nghi của anh ta rằng họ có thể tìm cách đánh bại Smaug hay không.
 
 <br> 5             SỰ TẬP HỢP CỦA MÂY
 
@@ -203,7 +203,7 @@ Cảnh Hai          Đi xuống trung tâm Ngọn Núi, Bilbo vô hình có
 
 Cảnh Ba       Bilbo trốn thoát trở lại chỗ những người lùn trên sườn núi và nói với những người lùn về việc anh ta phát hiện ra lỗ hổng của Smaug do loài tưa miệng nghe lén được; nhưng con rồng lên đường đến Lake Town để trả thù.
 
-Cảnh Bốn         Bard kích động các cung thủ của Lake Town chống lại con rồng đang cướp bóc, nhưng phải đến khi con chim hét nói với anh ta về điểm yếu của Smaug thì mũi tên của anh ta mới có thể tìm ra dấu vết và giết chết con thú. Người dân của Thị trấn Hồ, do Chủ nhân của họ lãnh đạo, than thở về việc nơi ở của họ bị phá hủy, nhưng Bard tuyên bố rằng anh ta sẽ tìm cách tái lập vương quốc Dale của tổ tiên mình trong bóng tối của Ngọn núi mà giờ đây anh ta mong đợi sẽ bị bỏ hoang.
+Cảnh Bốn         Bard kích động các cung thủ của Lake Town chống lại con rồng đang cướp bóc, nhưng phải đến khi con chim hét nói với anh ta về điểm yếu của Smaug thì mũi tên của anh ta mới có thể tìm ra dấu vết và giết chết con thú. Người dân của Thị trấn Hồ, dẫn đầu bởi Chủ nhân của họ, than thở về sự tàn phá nơi ở của họ, nhưng Bard tuyên bố rằng anh ta sẽ tìm cách tái lập vương quốc Dale của tổ tiên mình trong bóng tối của Ngọn núi mà giờ đây anh ta mong đợi sẽ bị bỏ hoang.
 
 Cảnh Năm          Bilbo thuyết phục những người lùn rằng họ chỉ có thể trốn thoát qua những hang động thấp hơn của ngọn núi, bất chấp sự nguy hiểm của con rồng. Họ miễn cưỡng đồng ý.
 

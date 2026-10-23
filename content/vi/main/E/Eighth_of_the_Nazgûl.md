@@ -56,7 +56,7 @@ infobox:
 
 Phần **Thứ tám trong số [Nazgûl](../N/Nazgûl.md)** không bao giờ được phân biệt trong các tác phẩm của Tolkien, nhưng một số bản chuyển thể đã gán những đặc điểm riêng cho Nazgûl cụ thể này.
 
-[Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) đã xây dựng một cốt truyện phức tạp không[chuẩn](../C/Canon.md) cho [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md), xác định nhân vật là *Ren the Unclean*, một cốt truyện cũng được sử dụng trong [Trung Địa Trò chơi sưu tập thẻ bài](../M/Middle-earth_Collectible_Card_Game.md).<sup id="cite_ref-ICE_1-3" class="reference"><a href="#cite_note-ICE-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) đã xây dựng một cốt truyện phức tạp không [chuẩn](../C/Canon.md) cho [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md), xác định nhân vật là *Ren the Unclean*, một cốt truyện cũng được sử dụng trong [Trung Địa Trò chơi Thẻ sưu tập](../M/Middle-earth_Collectible_Card_Game.md).<sup id="cite_ref-ICE_1-3" class="reference"><a href="#cite_note-ICE-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 [Giải mã](../D/Decipher.md), đối với [Trò chơi thẻ giao dịch](../T/The_Lord_of_the_Rings_Trading_Card_Game.md) của họ, thay vào đó, họ đã giới hạn việc cá nhân hóa này ở việc đặt tên cho nhân vật *[Úlairë](../N/Nazgûl.md#Other_names) Toldëa* ([Q.](../Q/Quenya.md) Thứ tám Nazgûl) và gán tên gọi là *Black Shadow*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
@@ -70,7 +70,7 @@ Khoảng thời gian yên bình này kết thúc vào [S.A.](../S/Second_Age.md)
 
 Vào cuối [S.A.](../S/Second_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Second_Age_1999&amp;action=edit&amp;redlink=1" title="Second Age 1999 (page does not exist)">1999</a>, Ren tập hợp một nhóm tín đồ và tuyên bố mình là Chúa tể của Chey. Anh ta tàn nhẫn chinh phục các bộ lạc trong khu vực của mình, và đến cuối năm sau, anh ta thực sự đã trở thành Vua của Chey.
 
-[Sauron](../S/Sauron.md), quan sát cuộc hành quân tàn nhẫn của Ren, đã thấy được tiềm năng to lớn ở tên phù thủy điên cuồng. Vào [S.A.](../S/Second_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Second_Age_2001&amp;action=edit&amp;redlink=1" title="Second Age 2001 (page does not exist)">2001</a>, Ren đã chấp nhận [Chiếc nhẫn quyền lực](../N/Nine_Rings.md), trở thành Vua thứ tám nằm dưới sự thống trị của Sauron.”
+[Sauron](../S/Sauron.md), quan sát cuộc hành quân tàn nhẫn của Ren, đã thấy được tiềm năng to lớn ở tên phù thủy điên cuồng. Vào [S.A.](../S/Second_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Second_Age_2001&amp;action=edit&amp;redlink=1" title="Second Age 2001 (page does not exist)">2001</a>, Ren đã chấp nhận [Nhẫn Quyền năng](../N/Nine_Rings.md), trở thành Vua thứ tám rơi vào tầm ảnh hưởng của Sauron.”
 
 Những người không theo đạo đã bị thanh trừng, bao gồm cả gia đình của anh ta, và dân số của các bộ tộc giảm xuống chỉ còn một nửa so với trước Bệnh dịch. Ren đã lãnh đạo hai cuộc mở rộng lớn giữa [S.A.](../S/Second_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Second_Age_2155&amp;action=edit&amp;redlink=1" title="Second Age 2155 (page does not exist)">2155</a> và [S.A.](../S/Second_Age.md) [3261](../S/Second_Age_3261.md), sử dụng hệ thống đường ngựa và đồn trú để củng cố các cuộc chinh phục của mình.
 
@@ -78,11 +78,11 @@ Sau [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md), anh ta gia 
 
 Ren xuất hiện trở lại vào khoảng [T.A.](../T/Third_Age.md) [1050](../T/Third_Age_1050.md), tái lập khu vực núi lửa của mình và mở rộng nó thành một tòa thành vĩ đại dưới lòng đất. Vào [T.A.](../T/Third_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Age_1235&amp;action=edit&amp;redlink=1" title="Third Age 1235 (page does not exist)">1235</a>, anh ta bắt đầu chinh phục các bộ tộc lân cận, thống nhất họ vào [T.A.](../T/Third_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Age_1264&amp;action=edit&amp;redlink=1" title="Third Age 1264 (page does not exist)">1264</a>. Ông cai trị dưới biệt danh Lửa Vua để che giấu danh tính, mang lại một thời kỳ thịnh vượng cho người Chey.
 
-Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Ren cưỡi Kỵ sĩ Đen để tìm kiếm Chiếc Nhẫn Chúa. Sau đó, anh ta tổ chức đội quân chủ lực của Mordor từ [Barad-dûr](../B/Barad-dûr.md) và sau đó chiến đấu tại [Trận Morannon](../B/Battle_of_the_Morannon.md), nơi anh ta bỏ mạng với Sauron thất bại.<sup id="cite_ref-ICE_1-4" class="reference"><a href="#cite_note-ICE-1">[1]</a></sup>
+Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Ren đã cưỡi Kỵ sĩ Đen để tìm kiếm Người Nhẫn. Sau đó, anh ta tổ chức đội quân chủ lực của Mordor từ [Barad-dûr](../B/Barad-dûr.md) và sau đó chiến đấu tại [Trận Morannon](../B/Battle_of_the_Morannon.md), nơi anh ta bỏ mạng với Sauron thất bại.<sup id="cite_ref-ICE_1-4" class="reference"><a href="#cite_note-ICE-1">[1]</a></sup>
 
 ## Vũ khí trong Middle-earth Role Playing {#Weaponry_in_Middle-earth_Role_Playing}
 
-Ngoài [Con dao Morgul](../M/Morgul-knife.md), Ma Nhẫn còn được ghi nhận là sở hữu những vũ khí sau:
+Ngoài [Con dao Morgul](../M/Morgul-knife.md), Ringwraith được ghi nhận là còn sở hữu những vũ khí sau:
 
 - **Burning Blade**: Một thanh kiếm hai tay [galvorn](../G/Galvorn.md), có cạnh màu đỏ. Cán kiếm được làm bằng đồng đỏ và phần bảo vệ bằng [laen](../S/Stones_in_Middle-earth_Role_Playing.md#Laen) vàng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 - **Tai họa của những tín đồ**: Một chiếc cung tổng hợp đầy mê hoặc.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>

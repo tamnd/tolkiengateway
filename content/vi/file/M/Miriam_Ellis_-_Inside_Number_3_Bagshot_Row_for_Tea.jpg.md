@@ -33,7 +33,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Bên trong số 3 [Hàng Bagshot](../../main/B/Bagshot_Row.md) để uống trà" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
+"Bên trong số 3 [Bagshot Row](../../main/B/Bagshot_Row.md) phục vụ trà" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
 
 ## Giấy phép {#Licensing}
 

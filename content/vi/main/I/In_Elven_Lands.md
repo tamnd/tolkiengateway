@@ -54,7 +54,7 @@ Các phiên bản được tải xuống hợp pháp của <i><b>Trong Tiên Lan
 1. Tôi là ai
 2. Lá đáy dài
 3. Chiếc bát bạc
-4. Người đàn ông trong Mặt Trăng
+4. Cái Người đàn ông trong Mặt Trăng
 5. Một câu thơ gửi Elbereth Gilthóniel
 6. Elo Elleth
 7. Hãy coi chừng Sói
@@ -77,7 +77,7 @@ Các bài hát trong Phiên bản đầu tiên của *In Elven Lands* được v
 
 Phiên bản thứ hai cũng giới thiệu [Helge Kåre Fauskanger](../H/Helge_Kåre_Fauskanger.md) của [Neo-Quenya](../N/Neo-Elvish.md) trong bài hát *[Silmesse](../S/Silmesse.md)*. Với sự ra đi của nghệ sĩ khách mời Jon Anderson khỏi Phiên bản thứ hai, hai trong số các bài hát bằng tiếng Anh hiện đại đã bị xóa, chỉ còn lại ba bài hát bằng tiếng Anh hiện đại, thay vì tám bài bằng tiếng địa phương [Elvish](../E/Elvish.md).
 
-Theo ghi chú của album trong Phiên bản thứ hai, việc sử dụng ngôn ngữ nhằm mục đích tạo ra ấn tượng về một văn bản sau này bị hỏng, chẳng hạn như Tolkien được mô tả trong Phần giới thiệu và Phụ lục của *The Lord of the Rings*. Để tạo ảo giác về một văn bản bị hỏng (hoặc trong trường hợp này là một loạt văn bản bị hỏng), các tác giả đã sử dụng từ vựng Proto-Quenya và Proto-Sindarin lấy từ *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)* (Tập [1](../T/The_Book_of_Lost_Tales_Part_One.md) và [2](../T/The_Book_of_Lost_Tales_Part_Two.md)) và *[Unfinished Tales](../U/Unfinished_Tales.md)*. Sau đó, họ cố tình biến đổi các từ để giải thích cho sự thay đổi khẩu vị, sử dụng các từ mượn từ các ngôn ngữ khác trong Arda và trong một trường hợp chỉ đơn giản là đọc sai cách phát âm và chép lại kết quả để thể hiện tác động của "quá trình âm nhạc dân gian" thường diễn ra theo thời gian.
+Theo ghi chú của album trong Phiên bản thứ hai, việc sử dụng ngôn ngữ nhằm mục đích tạo ra ấn tượng về một văn bản sau này bị hỏng, chẳng hạn như Tolkien được mô tả trong Phần giới thiệu và Phụ lục đến *The Lord of the Rings*. Để tạo ảo giác về một văn bản bị hỏng (hoặc trong trường hợp này là một loạt văn bản bị hỏng), các tác giả đã sử dụng từ vựng Proto-Quenya và Proto-Sindarin lấy từ *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)* (Tập [1](../T/The_Book_of_Lost_Tales_Part_One.md) và [2](../T/The_Book_of_Lost_Tales_Part_Two.md)) và *[Unfinished Tales](../U/Unfinished_Tales.md)*. Sau đó, họ cố tình biến đổi các từ để giải thích cho sự thay đổi khẩu vị, sử dụng các từ mượn từ các ngôn ngữ khác trong Arda và trong một trường hợp chỉ đơn giản là đọc sai cách phát âm và chép lại kết quả để thể hiện tác động của "quá trình âm nhạc dân gian" thường diễn ra theo thời gian.
 
 ## Liên kết ngoài {#External_links}
 

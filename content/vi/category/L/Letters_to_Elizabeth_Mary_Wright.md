@@ -14,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Wright, Elizabeth Mary"
 ---
 
-Những bức thư từ [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) gửi [Elizabeth Mary Wright](../../main/E/Elizabeth_Mary_Wright.md).
+Những bức thư của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) gửi [Elizabeth Mary Wright](../../main/E/Elizabeth_Mary_Wright.md).

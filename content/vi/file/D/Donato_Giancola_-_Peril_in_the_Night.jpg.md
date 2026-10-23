@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"*Sự nguy hiểm trong đêm - [Pippin](../../main/P/Peregrin_Took.md) và [Palantír](../../main/P/Palantír.md)*", của [Donato Giancola](../../main/D/Donato_Giancola.md)
+"*Sự nguy hiểm trong đêm - [Pippin](../../main/P/Peregrin_Took.md) và [Palantír](../../main/P/Palantír.md)*", bởi [Donato Giancola](../../main/D/Donato_Giancola.md)
 
 ## Giấy phép {#Licensing}
 

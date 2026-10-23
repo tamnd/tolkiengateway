@@ -58,7 +58,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Gram là con trai của [Déor](../D/Déor.md) và là cha của [Helm Hammerhand](../H/Helm.md) và [Hild](../H/Hild.md). Triều đại của ông là thời kỳ chiến tranh với [Dunlendings](../D/Dunlendings.md), những kẻ đã chiếm đóng [Isengard](../I/Isengard.md) dưới thời cha ông và tiếp tục đột kích và quấy rối [Rohirrim](../R/Rohirrim.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Gram là con trai của [Déor](../D/Déor.md) và là cha của [Helm Hammerhand](../H/Helm.md) và [Hild](../H/Hild.md). Triều đại của ông là thời kỳ chiến tranh với [Dunlending](../D/Dunlendings.md), kẻ đã chiếm đóng [Isengard](../I/Isengard.md) dưới thời cha ông, và tiếp tục đột kích và quấy rối [Rohirrim](../R/Rohirrim.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

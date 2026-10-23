@@ -40,7 +40,7 @@ Tên *[Forgoil](../F/Forgoil.md)* thuộc về ngôn ngữ này; người ta nó
 
 ## Hình tượng trong các bản chuyển thể {#Portrayals_in_Adaptations}
 
-<b>1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../A/Arnor%253A_The_People.md" title="Arnor: The People">Arnor: The People</a></i></b>
+<b>1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../A/Arnor%253A_The_People.md" title="Arnor: The People">Arnor: Con người</a></i></b>
 
 <dl><dd>Dunlendish was called Dunael, and it was represented by Gaelic. Before this was properly established, some Dunael names in earlier publications were rendered in <a href="../W/Welsh.md" title="Welsh">Welsh</a>, the language which represents <a href="../L/Languages_in_Middle-earth_Role_Playing.md#Blarm" title="Languages in Middle-earth Role Playing">Blarm</a>. This discrepancy was explained as cultural interaction between Dunlendings and <a href="../H/Hillmen.md" title="Hillmen">Hillmen</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></dd></dl>
 

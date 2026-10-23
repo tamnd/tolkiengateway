@@ -61,7 +61,7 @@ infobox:
     - Bởi: Kristina Muñoz
 - Tất cả Bran
     - Bởi: Ian Spittlehouse
-- Báo cáo: Phá kỷ lục Ring Quest 2019
+- Báo cáo: Phá kỷ lục Nhẫn Nhiệm vụ 2019
     - Bởi: Alan Baxter
 - Báo cáo: Innmoot, Tolkien Đại hội đồng cổ đông và bữa tối
     - Bởi: Maggie Bailey

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:John Howe - The Door of Night.jpg"
 ---
 
-Chuyển hướng tới [Tệp:John Howe - Tệp Cánh Cửa Đêm.jpg](John_Howe_-_The_Door_of_Night.jpg.md).
+Chuyển hướng đến [Tệp:John Howe - Tệp Cánh Cửa Đêm.jpg](John_Howe_-_The_Door_of_Night.jpg.md).

@@ -35,4 +35,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Những giấc mơ của cây** là ca khúc thứ mười bốn của đĩa một trong *[The Lord of the Rings: The Two Towers - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).
+**Những giấc mơ của cây** là bài hát thứ mười bốn trong đĩa một trong *[The Lord of the Rings: The Two Towers - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).

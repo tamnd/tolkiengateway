@@ -56,7 +56,7 @@ Nhà của anh ấy ở [the Wold](../T/The_Wold.md), vùng đồng cỏ hoang d
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Wídfara comes from the <a class="mw-redirect" href="Wold.md" title="Wold">Wold</a>. When a remote region of Wildermore stops sending messengers, <a href="../H/Harding_(rider_of_Rohan).md" title="Harding (rider of Rohan)">Harding</a> sends a group of riders to check on them, including Wídfara. The group is ambushed and the few survivors are scattered. Wídfara&#39;s horse Windfoot is killed and he himself sustains a wound, after which he slowly makes it to the village of Scylfig on foot. There he is found by the party of the player, <a href="../G/Gléowine.md" title="Gléowine">Gléowine</a> and <a href="../H/Horn_(rider_of_Rohan).md" title="Horn (rider of Rohan)">Horn</a>.</dd>
 <dd>Wídfara later recovers from his wounds and returns to the <a class="mw-redirect" href="Wold.md" title="Wold">Wold</a> just in time to answer the muster of the Rohirrim. He rides with Harding&#39;s men to the summons and is met again by the player in the <a href="../D/Drúadan_Forest.md" title="Drúadan Forest">Drúadan Forest</a>. He survives the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a>.</dd></dl>

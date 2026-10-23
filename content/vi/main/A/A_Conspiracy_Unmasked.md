@@ -68,7 +68,7 @@ Chap này quay lại câu chuyện chính. Người Hobbit vừa lên bờ phía
 
 ### Đến nơi và ăn tối lúc Crickhollow {#Arrival_and_supper_at_Crickhollow}
 
-Sau một quãng đi bộ dài từ phà, ba Hobbit còn lại đã đến ngôi nhà mới hẻo lánh của Frodo ở Crickhollow, nơi Fatty Bolger chào đón họ. Frodo chúc mừng Merry và Fatty đã sắp xếp thành công đồ đạc của mình sao cho giống [Bag End](../B/Bag_End.md). Trong thâm tâm, anh sợ phải nói với họ rằng anh định rời đi ngay lập tức, một mình.
+Sau một quãng đi bộ dài từ phà, ba Hobbit còn lại đã đến ngôi nhà mới hẻo lánh của Frodo ở Crickhollow, nơi Fatty Bolger chào đón họ. Frodo chúc mừng Merry và Fatty đã sắp xếp thành công đồ đạc của mình cho giống [Bag End](../B/Bag_End.md). Trong thâm tâm, anh sợ phải nói với họ rằng anh định rời đi ngay lập tức, một mình.
 
 Merry đã chuẩn bị bồn tắm cho những du khách mệt mỏi. Pippin hát [Bài hát tắm](../T/The_Bath_Song.md) khi anh ấy tắm rửa. Merry và Fatty phục vụ bữa tối muộn cho bà [. Giỏ nấm của Maggot](../M/Mrs._Maggot.md). Chúng tôi được biết rằng Hobbit có sở thích đặc biệt với nấm.
 
@@ -112,7 +112,7 @@ Merry tiết lộ rằng những kẻ chủ mưu Hobbit đã nhận được nhi
 
 Với sự trấn an này, tinh thần của họ đã được nâng cao và Hobbit đã hát một phiên bản [Farewell We Call to Hearth and Hall!](../F/Farewell_We_Call_to_Hearth_and_Hall!.md) được viết bởi Merry và Pippin dành riêng cho dịp này.
 
-Frodo muốn rời đi Crickhollow càng sớm càng tốt. Merry tiết lộ rằng anh ta đã chuẩn bị sẵn sáu con ngựa con, chất đầy đồ đạc và lương thực. Anh ta ước tính rằng Kỵ sĩ Đen sẽ rất khó vào Buckland vào ban đêm, nhưng cuối cùng sẽ tìm được đường vào muộn nhất là vào sáng hôm sau. Frodo định đợi [Gandalf](../G/Gandalf.md)nhưng cuối cùng quyết định rời đi vào lúc bình minh. Không còn lựa chọn nào tốt hơn, anh quyết định tránh sự chú ý bằng cách du hành vào [Khu Rừng Cổ](../O/Old_Forest.md).
+Frodo muốn rời đi Crickhollow càng sớm càng tốt. Merry tiết lộ rằng anh ta đã chuẩn bị sẵn sáu con ngựa lùn, chất đầy đồ đạc và lương thực. Anh ta ước tính rằng Kỵ sĩ Đen sẽ rất khó vào Buckland vào ban đêm, nhưng cuối cùng sẽ tìm được đường vào muộn nhất là vào sáng hôm sau. Frodo định đợi [Gandalf](../G/Gandalf.md)nhưng cuối cùng quyết định rời đi vào lúc bình minh. Không còn lựa chọn nào tốt hơn, anh quyết định tránh sự chú ý bằng cách du hành vào [Khu Rừng Cổ](../O/Old_Forest.md).
 
 Fatty phản đối ý tưởng này, nhưng Merry khẳng định rằng nó phải an toàn hơn so với việc đối mặt với Kỵ sĩ Đen. Merry giải thích rằng Brandybucks đôi khi mạo hiểm vào Khu Rừng Cổ, đặc biệt là vào ban ngày khi cây cối yên tĩnh hơn. Dù sao đi nữa, nhiệm vụ của Fatty là ở lại, mặc một ít quần áo cũ của Frodo, giả vờ như Frodo vẫn sống ở Crickhollow. Ở lại cũng sẽ cho phép anh ta gửi tin nhắn tới Gandalf nếu anh ta xuất hiện.
 

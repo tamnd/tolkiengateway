@@ -44,7 +44,7 @@ infobox:
 
 <i><b>The Hobbit Tarot</b></i> là cuốn sách mô tả <a class="extiw" href="http://en.wikipedia.org/wiki/Tarot" title="wikipedia:Tarot">bộ bài Tarot</a> với hình ảnh minh họa về các nhân vật và cảnh trong *[The Hobbit](The_Hobbit.md)*. Sách đi kèm bộ bài Tarot có tên <i><b>The Hobbit Tarot</b></i>.
 
-Đây là lần hợp tác Tolkien thứ hai liên quan đến tarot giữa Terry Donaldson và Peter Pracownik, người cũng là tác giả của [The Lord of the Rings Tarot](The_Lord_of_the_Rings_Tarot.md), phát hành năm 1997. Không giống như lần phát hành đó, *The Hobbit Tarot* không có hướng dẫn chơi trò chơi bằng các lá bài.
+Đây là lần hợp tác thứ hai liên quan đến Tolkien tarot giữa Terry Donaldson và Peter Pracownik, người cũng là tác giả [The Lord of the Rings Tarot](The_Lord_of_the_Rings_Tarot.md), phát hành năm 1997. Không giống như lần phát hành đó, *The Hobbit Tarot* không có hướng dẫn chơi trò chơi bằng các lá bài.
 
 ## Tóm tắt từ nhà xuất bản {#Synopsis_from_the_publisher}
 
@@ -130,7 +130,7 @@ infobox:
 - *Ten of Swords*: Phần thân của [Thorin](Thorin.md)
 - *Page of Swords*: [Bilbo](../B/Bilbo_Baggins.md) tiêu diệt kẻ thù đầu tiên của mình bằng [thanh kiếm](../S/Sting.md): một [con nhện](../S/Spiders.md) của [Mirkwood](../M/Mirkwood.md). Anh ta đặt tên cho thanh kiếm là "[Sting](../S/Sting.md)"
 - *Knight of Swords*: Một [Người hồ](../L/Lake-men.md) bọc thép chuẩn bị cho trận chiến
-- *Queen of Swords*: Một nữ thủ lĩnh [Warg](../W/Wargs.md) thương tiếc sự ra đi của người thân trong [Trận chiến của năm cánh quân](../B/Battle_of_the_Five_Armies.md)
+- *Queen of Swords*: Một nữ lãnh đạo [Warg](../W/Wargs.md) thương tiếc sự ra đi của người thân trong [Trận chiến năm cánh quân](../B/Battle_of_the_Five_Armies.md)
 - *King of Swords*: [Thorin Oakenshield](Thorin.md)
 
 #### Cây đũa phép {#Wands}
@@ -140,7 +140,7 @@ infobox:
 - *Three of Wands*: [Bilbo](../B/Bilbo_Baggins.md) nhập [Cửa Sau](../B/Back_Door.md)
 - *Four of Wands*: [Công ty](Thorin_and_Company.md) tại [Long Lake](../L/Long_Lake.md)
 - *Five of Wands*: [Goblin](../O/Orcs.md) phục kích [Đại đội](Thorin_and_Company.md) trong hang động
-- *Six of Wands*: [Gandalf](../G/Gandalf.md) và [nhóm Người Lùn](Thorin_and_Company.md) chiến đấu với lực lượng của [Thị trấn yêu tinh](../G/Goblin-town.md)
+- *Six of Wands*: [Gandalf](../G/Gandalf.md) và [các Người Lùn](Thorin_and_Company.md) chiến đấu với lực lượng của [Thị trấn Yêu Tinh](../G/Goblin-town.md)
 - *Seven of Wands*: Một [Warg](../W/Wargs.md) hú lên sau khi bị đốt cháy bởi những quả thông do [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) ném xuống
 - *Eight of Wands*: Các [Đại Bàng](../E/Eagles.md) đến giải cứu [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) khỏi [Warg](../W/Wargs.md) và [Goblin](../O/Orcs.md)
 - *Nine of Wands*: Một [Người khổng lồ bằng đá](../G/Giants.md), chuẩn bị ném một tảng đá

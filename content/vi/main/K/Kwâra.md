@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kwāra"
 ---
 
-Chuyển hướng đến [Kwāra](Kwāra.md).
+Chuyển hướng tới [Kwāra](Kwāra.md).

@@ -45,7 +45,7 @@ Vào [ngày 2 tháng 3](../_/2_March.md), "một số đội quân của những
 
 Sau [Trận vượt sông thứ hai ở Isen](../S/Second_Battle_of_the_Fords_of_Isen.md), một trinh sát nhanh chóng đã báo cáo rằng "những người cưỡi sói đã ở nước ngoài trong [thung lũng](Westfold_Vale.md)" khoảng [Helm's Deep](../H/Helm's_Deep.md).<sup id="cite_ref-deep_3-1" class="reference"><a href="#cite_note-deep-3">[2]</a></sup>
 
-[Gandalf](../G/Gandalf.md) đã cử Elfhelm "với nhiều Kỵ sĩ đến [Edoras](../E/Edoras.md)" vì sợ "những kẻ cưỡi sói và cướp bóc" cưỡi ngựa đến [Meduseld](../M/Meduseld.md) khi không có ai ở đó để bảo vệ nó.<sup id="cite_ref-road_4-1" class="reference"><a href="#cite_note-road-4">[3]</a></sup>
+[Gandalf](../G/Gandalf.md) đã cử Elfhelm "với nhiều Kỵ sĩ đến [Edoras](../E/Edoras.md)" vì sợ "những kẻ cưỡi sói và cướp bóc" cưỡi ngựa tới [Meduseld](../M/Meduseld.md) khi không có ai ở đó để bảo vệ nó.<sup id="cite_ref-road_4-1" class="reference"><a href="#cite_note-road-4">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

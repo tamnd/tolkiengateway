@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bell Goodchild"
 ---
 
-Chuyển hướng đến [Bell Goodchild](Bell_Goodchild.md).
+Chuyển hướng tới [Bell Goodchild](Bell_Goodchild.md).

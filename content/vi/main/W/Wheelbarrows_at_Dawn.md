@@ -35,7 +35,7 @@ Vào ngày 8 tháng 10 năm 2021, nhà xuất bản ADC Art and Books đã công
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Tiểu sử của Hilary Tolkien, anh trai của Ronald ([JRR Tolkien](../J/J.R.R._Tolkien.md)). Chia sẻ những năm tháng trưởng thành của họ cùng nhau và sau đó tiến vào chiến hào của Cuộc chiến vĩ đại, cuốn sách cho thấy sự tương ứng giữa hai anh em Tolkien và vợ của họ trong chiến tranh và kể từ đó, cùng với những bức ảnh và thư từ gia đình. Mặc dù về Hilary, cuốn sách này cũng làm sáng tỏ và mang lại thông tin mới cho thế giới của JRR Tolkien - bao gồm trường hợp duy nhất được biết đến về bức ảnh có chữ ký của Ronald và phát hiện gần đây về bản vẽ JRRT gốc.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tiểu sử của Hilary Tolkien, anh trai của Ronald ([JRR Tolkien](../J/J.R.R._Tolkien.md)). Chia sẻ những năm tháng trưởng thành của họ cùng nhau và sau đó tiến vào chiến hào của Cuộc chiến vĩ đại, cuốn sách cho thấy sự tương ứng giữa hai anh em Tolkien và vợ của họ trong chiến tranh và kể từ đó, cùng với những bức ảnh và thư từ gia đình. Mặc dù về Hilary, cuốn sách này cũng làm sáng tỏ và mang lại thông tin mới cho thế giới của JRR Tolkien - bao gồm trường hợp duy nhất được biết đến về một bức ảnh có chữ ký của Ronald và phát hiện gần đây về một bản vẽ JRRT gốc.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

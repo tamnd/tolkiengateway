@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of Rose Cotton"
 ---
 
-Chuyển hướng đến [Danh mục:Hình ảnh Bông Hồng](Images_of_Rose_Cotton.md).
+Chuyển hướng đến [Danh mục:Hình ảnh của Rose Cotton](Images_of_Rose_Cotton.md).

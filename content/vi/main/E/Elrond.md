@@ -333,11 +333,11 @@ Lưu ý rằng trong phần mô tả này, ông không được xác định là
 
 ### Phim {#Films}
 
-<b>1971: <a href="../S/Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)"><i>Sagan om Ringen</i> (1971 film)</a>:</b>
+<b>1971: <a href="../S/Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)"><i>Sagan om Ringen</i> (phim 1971)</a>:</b>
 
 <dl><dd>Elrond is given the title &#39;alvkungen&#39;, which translates to &#39;Elf king&#39;. After <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo’s</a> recovery from the <a href="../M/Morgul-wound.md" title="Morgul-wound">Morgul-wound</a>, those present at <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a> hold a feast in celebration. The <a href="../C/Council_of_Elrond.md" title="Council of Elrond">Council of Elrond</a> convenes the next day and Elrond talks of the <a href="Elves.md" title="Elves">Elves</a> battles against <a href="../S/Sauron.md" title="Sauron">Sauron</a>. Frodo asks how he can remember this, noting that <a href="../G/Gil-galad.md" title="Gil-galad">Gil-galad</a> died over three thousand years ago. Elrond tells Frodo that he has lived in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a> for Three <a href="../A/Ages.md" title="Ages">Ages</a> and that he was present for the <a href="../S/Siege_of_Barad-dûr.md" title="Siege of Barad-dûr">defeat of Sauron</a> and watched as <a href="../I/Isildur.md" title="Isildur">Isildur</a> cut <a href="../T/The_One_Ring.md" title="The One Ring">The One Ring</a> from Sauron’s hand and took the Ring for himself. After <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> tells of how he escaped from <a href="../S/Saruman.md" title="Saruman">Saruman</a>, Elrond tells the Council of their chief goal: Bring the Ring to <a href="../M/Mordor.md" title="Mordor">Mordor</a> and destroy it in the fire in which it was created. Elrond reminds them that destroying the Ring would bring peace for all of Middle-earth and that it is imperative that they put their lives on the line to bring about peace. After the members of the <a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Fellowship of the Ring</a> are decided and they begin to prepare for their journey, Elrond farewells Gandalf and wishes him luck on their quest.</dd></dl>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (1977 film)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>Elrond appears in <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, crowned with a ring of stars. He feeds the <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Dwarves</a>, and identifies <a href="../O/Orcrist.md" title="Orcrist">Orcrist</a> and <a href="../G/Glamdring.md" title="Glamdring">Glamdring</a>. He needs little time to identify the latter. He is shown with a beard, although Tolkien clearly states <a href="Elves.md" title="Elves">Elves</a> do not have beards. His voice was provided by <a href="../C/Cyril_Ritchard.md" title="Cyril Ritchard">Cyril Ritchard</a>.</dd></dl>
 
@@ -382,7 +382,7 @@ Lưu ý rằng trong phần mô tả này, ông không được xác định là
 
 ### Loạt chương trình phát thanh {#Radio_series}
 
-<b>1955: <a href="../T/The_Lord_of_the_Rings_(1955_radio_series).md" title="The Lord of the Rings (1955 radio series)"><i>The Lord of the Rings</i> (1955 radio series)</a>:</b>
+<b>1955: <a href="../T/The_Lord_of_the_Rings_(1955_radio_series).md" title="The Lord of the Rings (1955 radio series)"><i>The Lord of the Rings</i> (loạt đài phát thanh 1955)</a>:</b>
 
 <dl><dd>The part of Elrond is voiced by <a href="../G/Garard_Green.md" title="Garard Green">Garard Green</a>.<sup id="cite_ref-RT1674_34-0" class="reference"><a href="#cite_note-RT1674-34">[32]</a></sup></dd></dl>
 
@@ -394,7 +394,7 @@ Lưu ý rằng trong phần mô tả này, ông không được xác định là
 
 <dl><dd>Elrond is played by Friedrich W. Bauschulle.</dd></dl>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (1981 radio series)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
 <dl><dd><a href="../H/Hugh_Dickson.md" title="Hugh Dickson">Hugh Dickson</a> provided the voice of Elrond in this radio series. He first appears in the episode containing the <a href="../C/Council_of_Elrond.md" title="Council of Elrond">Council of Elrond</a>, and appears unintroduced. Dickson showcases great trouble with pronouncing Elvish, and especially diphthongs. Gimli is the son of &#34;<a href="../G/Glóin.md" title="Glóin">Gloo-in</a>&#34;, who fought the dragon &#34;<a href="../S/Smaug.md" title="Smaug">Sma-oog</a>&#34;. Legolas is the son of &#34;<a href="../T/Thranduil.md" title="Thranduil">Thrandoo-uhl</a>&#34;. He reappears in the final 2 episodes - first in the return to Rivendell warning Frodo to look out for Bilbo in the Shire one Autumn soon, and finally with Galadriel and Bilbo in the Shire before they all ride to the Grey Havens.</dd></dl>
 
@@ -420,11 +420,11 @@ Lưu ý rằng trong phần mô tả này, ông không được xác định là
 
 <dl><dd>In an alternative, northern War of the Ring, Rivendell is the main base of operations for Glóin and Glorfindel. As such, Elrond is the source of missions and advice, and serves as the narrator throughout the game (Hugo Weaving reprises the role). Elrond is a playable character during the assault on <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Elrond is a non-playable character and can be found in the library of the Last Homely House in Rivendell. During the Elven Prologue set hundreds of years before the War of the Ring he participates in a battle in the refuge of Edhellion, in northern <a class="mw-redirect" href="Ered_Luin.md" title="Ered Luin">Ered Luin</a>. Elrond is heavily involved in the game original storyline and the characters are frequently bidden to return to him after uncovering troubling signs of the Enemy or achieving notable victories.</dd></dl>
 
-<b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Conquest</a></i>:</b>
+<b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Chinh phục</a></i>:</b>
 
 <dl><dd>Hugo Weaving once again reprises the role, serving as the narrator for both Good and Evil campaign.</dd></dl>
 

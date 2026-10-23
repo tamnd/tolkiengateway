@@ -35,7 +35,7 @@ Tất cả các ấn phẩm dành riêng cho [J.R.R. Tolkien](../../main/J/J.R.R
 Tolkien Gateway là một trang web bằng tiếng Anh. Để xuất bản phẩm bằng tiếng nước ngoài được đưa vào Tolkien Gateway phải đáp ứng một trong các tiêu chí sau:
 
 1. Ấn phẩm bao gồm các tác phẩm chưa từng được in bằng tiếng Anh của Tolkien (ví dụ bài phỏng vấn trong *[I fantasins världar](../../main/I/I_fantasins_världar.md)*);
-2. Ấn phẩm chứa Tolkien lời phê bình/phân tích chưa từng được in bằng tiếng Anh (ví dụ: *[Curso de Quenya](../../main/C/Curso_de_Quenya.md)*);
+2. Ấn phẩm chứa Tolkien những lời phê bình/phân tích chưa từng được in bằng tiếng Anh (ví dụ: *[Curso de Quenya](../../main/C/Curso_de_Quenya.md)*);
 3. Ấn phẩm đánh dấu một cột mốc quan trọng về thư mục (ví dụ: *[Hompen](../../main/H/Hompen.md)*, bản dịch tác phẩm ra tiếng nước ngoài đầu tiên của Tolkien);
 4. Do kết quả của những điều trên hoặc lý do khác, có niềm tin chính đáng rằng ấn phẩm này sẽ thu hút sự quan tâm của những người nói tiếng Anh bản xứ. (ví dụ: *[Ring of Darkness](../../main/R/Ring_of_Darkness.md)*).
 

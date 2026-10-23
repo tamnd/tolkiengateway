@@ -32,7 +32,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>The Golden Key</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../G/George_MacDonald.md" title="George MacDonald">George MacDonald</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1867.md" title="1867">1867</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardback &amp; paperback</td></tr></tbody></table>
 
-<i><b>Chiếc chìa khóa vàng</b></i> là truyện cổ tích được viết bởi [George MacDonald](../G/George_MacDonald.md) được xuất bản trên *Dealings with the Fairies* năm [1867](../_/1867.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) từng được tìm cách viết lời tựa cho *The Golden Key*, nhưng đã bỏ dở sau khi nó bắt đầu phát triển thành *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>The Golden Key</b></i> là truyện cổ tích được viết bởi [George MacDonald](../G/George_MacDonald.md) được xuất bản trên *Dealings with the Fairies* năm [1867](../_/1867.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) từng được tìm cách viết lời tựa cho *The Golden Key*, nhưng đã bỏ dở sau khi nó bắt đầu phát triển thành *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Tổng quan {#Overview}
 
@@ -55,8 +55,8 @@ Trong "Phỏng vấn với Tolkien", Henry Resnick (Niekas Số 18, 1967) Tolkie
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/The_Golden_Key_(MacDonald_book)" title="wikipedia:The Golden Key (MacDonald book)">Chìa khóa vàng</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="https://web.archive.org/web/20130302051047/http://www.george-macdonald.com/etexts/fiction/golden_key.html" rel="noreferrer noopener" target="_blank">Phiên bản sách điện tử miễn phí hoàn chỉnh của <i>Chìa khóa vàng</i></a> trên <a class="external text" href="https://web.archive.org/" rel="noreferrer noopener" target="_blank">Internet Archive</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/The_Golden_Key_(MacDonald_book)" title="wikipedia:The Golden Key (MacDonald book)">The Golden Key</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="external text" href="https://web.archive.org/web/20130302051047/http://www.george-macdonald.com/etexts/fiction/golden_key.html" rel="noreferrer noopener" target="_blank">Phiên bản sách điện tử miễn phí hoàn chỉnh của <i>The Golden Key</i></a> trên <a class="external text" href="https://web.archive.org/" rel="noreferrer noopener" target="_blank">Internet Archive</a>
 
 <span></span>
 

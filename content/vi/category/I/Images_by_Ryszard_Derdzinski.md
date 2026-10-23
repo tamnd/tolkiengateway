@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images by Ryszard Derdziński"
 ---
 
-Chuyển hướng đến [Danh mục:Hình ảnh của Ryszard Derdziński](Images_by_Ryszard_Derdziński.md).
+Chuyển hướng tới [Danh mục:Hình ảnh của Ryszard Derdziński](Images_by_Ryszard_Derdziński.md).

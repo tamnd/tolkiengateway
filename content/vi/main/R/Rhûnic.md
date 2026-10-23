@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rhûnnic"
 ---
 
-Chuyển hướng đến [Rhûnnic](Rhûnnic.md).
+Chuyển hướng tới [Rhûnnic](Rhûnnic.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ghâsh"
 ---
 
-Chuyển hướng tới [Ghâsh](Ghâsh.md).
+Chuyển hướng đến [Ghâsh](Ghâsh.md).

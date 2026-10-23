@@ -40,7 +40,7 @@ Tolkien kể về chuyến thăm St. Gregory gần đây với Prisca<sup id="ci
 
 Tolkien sau đó mô tả một người lang thang mà ông và con gái đã nhìn thấy khi họ rời trường St. Gregory. Kẻ lang thang mặc quần áo rách rưới, đi dép buộc dây, cổ tay đeo lon thiếc; ông ta cũng cầm một cây trượng thô bạo. Râu ria sạch sẽ, đôi mắt xanh say sưa nhìn xa xăm, người lang thang trông Tolkien giống Thánh Giuse hơn là tượng trong nhà thờ, không khỏi bố thí một ít.
 
-Bức thư đã trở nên rất đặc biệt, Tolkien nói; anh hy vọng nó không phải là điều khó hiểu. Để kết thúc “cuốn nhật ký” Tolkien, anh miêu tả nhiều điều trần tục khác nhau: Một con gà mái chết, anh gặp bạn bè và anh đã dành hàng giờ để bảo vệ cây táo của mình khỏi “sâu bướm”. Tolkien cũng kể về một nhân vật đã ngắt lời <a class="extiw" href="http://en.wikipedia.org/wiki/John_Gielgud" title="wikipedia:John Gielgud">John Gielgud</a> trong Hamlet để yêu cầu anh ta cắt bỏ những lời chửi thề.
+Bức thư đã trở nên rất đặc biệt, Tolkien nói; anh hy vọng nó không phải là điều khó hiểu. Để kết thúc “cuốn nhật ký” Tolkien, anh miêu tả nhiều điều trần tục khác nhau: Một con gà mái chết, anh gặp bạn bè và anh đã dành hàng giờ để bảo vệ cây táo của mình khỏi “sâu bướm”. Tolkien còn kể về một nhân vật đã ngắt lời <a class="extiw" href="http://en.wikipedia.org/wiki/John_Gielgud" title="wikipedia:John Gielgud">John Gielgud</a> trong Hamlet để yêu cầu anh ta cắt bỏ những lời chửi thề.
 
 ## Ghi chú {#Notes}
 

@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Lobelia](../../main/L/Lobelia_Sackville-Baggins.md) được giải cứu khỏi [Lỗ khóa](../../main/L/Lockholes.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
+"[Lobelia](../../main/L/Lobelia_Sackville-Baggins.md) được giải cứu khỏi [Lỗ khóa](../../main/L/Lockholes.md)" bởi [Miriam Ellis](../../main/M/Miriam_Ellis.md)
 
 ## Giấy phép {#Licensing}
 

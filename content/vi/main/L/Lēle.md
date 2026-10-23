@@ -23,7 +23,7 @@ Nó khác với "sẵn sàng, đồng ý, đồng ý, đồng ý". Ví dụ: m�
 
 Nó có nguồn gốc từ [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../R/Root.md) <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=DEL&amp;action=edit&amp;redlink=1" title="DEL (page does not exist)">DEL</a></b> có nghĩa là “đi bộ, đi, tiếp tục, du lịch”.<sup id="cite_ref-wj_2-1" class="reference"><a href="#cite_note-wj-2">[2]</a></sup>
 
-Trong Quenya có sự thay đổi sớm về **d** > **l** ban đầu, điều này thường xảy ra trong cả hai phương ngữ [Vanyarin](../V/Vanyarin.md) và [Ñoldorin](../_/Ñoldorin.md). Hơn nữa, <b>*del-</b> dường như đã trở thành <b>*dẫn đầu</b>, bởi sự đồng hóa. Dạng quá khứ hiển thị rõ ràng "\*led", trong khi *lelya* cũng có thể được bắt nguồn từ <i>*ledja</i>, vì **dj** trở thành **ly** về mặt y tế trong Quenya.<sup id="cite_ref-wj_2-2" class="reference"><a href="#cite_note-wj-2">[2]</a></sup>
+Trong Quenya đã có sự thay đổi sớm về **d** > **l** ban đầu, điều này thường xảy ra ở cả hai phương ngữ [Vanyarin](../V/Vanyarin.md) và [Ñoldorin](../_/Ñoldorin.md). Hơn nữa, <b>*del-</b> dường như đã trở thành <b>*dẫn đầu</b>, bởi sự đồng hóa. Dạng quá khứ hiển thị rõ ràng "\*led", trong khi *lelya* cũng có thể được bắt nguồn từ <i>*ledja</i>, vì **dj** trở thành **ly** về mặt y tế trong Quenya.<sup id="cite_ref-wj_2-2" class="reference"><a href="#cite_note-wj-2">[2]</a></sup>
 
 <span></span>
 

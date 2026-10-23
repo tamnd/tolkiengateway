@@ -112,7 +112,7 @@ Một ghi chép khác cho biết *Durinn* là một trong những Người lùn 
 
 <dl><dd><a href="../S/Saruman.md" title="Saruman">Saruman</a>&#39;s book on <a href="../M/Moria.md" title="Moria">Moria</a> has text which, when translated, reads &#34;A <a href="../B/Balrogs.md" title="Balrogs">Balrog</a> of <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a> Durin the Sixth was slain by hence its name: <a href="Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a>&#34;.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Written on the wall of <a href="../C/Chamber_of_Mazarbul.md" title="Chamber of Mazarbul">the Chamber of Mazarbul</a> is <a href="../K/Khuzdul.md" title="Khuzdul">Khuzdul</a> text translating to &#34;Durin slain by <a href="Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a>, and <a href="../N/Náin_I.md" title="Náin I">Náin</a> Durin&#39;s son, Durin&#39;s Bane also slew him&#34;.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Durin VI appears during a session play depicting the fall of <a href="../M/Moria.md" title="Moria">Moria</a>. He is present when <a href="Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a> is awoken from the slumber and is one of the first to be killed by it.</dd></dl>
 

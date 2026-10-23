@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Cái chết của [Erendis](../E/Erendis.md), người chết dưới nước tại nơi trú ẩn của [Rómenna](../R/Rómenna.md) trong khi [Tar-Aldarion](../T/Tar-Aldarion.md) đang thực hiện chuyến hành trình cuối cùng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Cái chết của [Erendis](../E/Erendis.md), người chết dưới nước tại bến cảng của [Rómenna](../R/Rómenna.md) trong khi [Tar-Aldarion](../T/Tar-Aldarion.md) đang thực hiện chuyến hành trình cuối cùng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

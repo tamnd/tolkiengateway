@@ -46,11 +46,11 @@ infobox:
 
 - Bài viết
     - Alexandra Bolintineanu, "Những cây Elegiac củaTolkien: *Enta Geweorc* và Ent xuyên thời gian"
-    - Patrick J. Murphy, "Những câu đố về *The Hobbit*, Lịch sử học thuật của cuốn sách Exeter và việc phát minh ra chiếc nhẫn Tolkien"
+    - Patrick J. Murphy, "Những câu đố về *The Hobbit*, Lịch sử học thuật của cuốn sách Exeter và Phát minh của Tolkien Nhẫn"
     - Anika Jensen, "'Tôi tự hỏi liệu có bài hát nào sẽ nhắc đến nó không': Xác định thời điểm bấp bênh trong *The Lord of the Rings*"
     - Eduardo Boheme Kumamoto, "Dịch giả trung thành: J.R.R. Tolkien, Burton Raffel và Dịch thơ"
     - [John Garth](../J/John_Garth.md) và Peter Gilliver, "Sự trở lại của kẻ lang thang: Những phát hiện mới về Tolkien trong Oxford 1918–19"
-    - Claudio A. Testi, "Từ 'Cái cây' đến '[Lá qua Niggle](../L/Leaf_by_Niggle.md)': Lên đến Dãy Núi và hơn thế nữa"
+    - Claudio A. Testi, "Từ 'Cái cây' đến '[Chiếc lá bên Niggle](../L/Leaf_by_Niggle.md)': Lên đến Dãy Núi và hơn thế nữa"
     - Peizhen Wu và [Michael D. C. Drout](../M/Michael_D._C._Drout.md), "'Tiến trình sáng tác thực tế': Phân tích một số khía cạnh của lịch sử sửa đổi *The Lord of the Rings* bằng cách sử dụng các phương pháp kỹ thuật số 'từ vựng'"
 
 - Ghi chú và tài liệu
@@ -60,9 +60,9 @@ infobox:
 - Đánh giá sách
     - *[Tolkien, Race, and Racism in Middle-earth](Tolkien,_Race,_and_Racism_in_Middle-earth.md)*, của Robert Stuart, được đánh giá bởi Yvette Kisor
     - *Representing Middle-earth: Tolkien, Form, and Ideology*, bởi Robert T. Tally, Jr., được đánh giá bởi [Douglas C. Kane](../D/Douglas_C._Kane.md)
-    - *Sự thương hại, quyền lực và chiếc nhẫn của Tolkien: Thống trị số phận của nhiều người*, bởi Thomas P. Hillman, được đánh giá bởi Clare Moore
+    - *Sự thương hại, quyền lực và Nhẫn của Tolkien: Thống trị số phận của nhiều người*, bởi Thomas P. Hillman, được đánh giá bởi Clare Moore
     - *[Theology and Tolkien: Practical Theology](Theology_and_Tolkien%253A_Practical_Theology.md)*, do Douglas Estes biên tập, Nick Polk đánh giá
-    - *Làm thế nào để hiểu lầm Tolkien: Nhà phê bình và bậc thầy ảo tưởng*, của Bruno Bacelli, được Lori Campbell-Tanner đánh giá
+    - *Làm thế nào để hiểu lầm Tolkien: Nhà phê bình và sự ảo tưởng Chủ nhân*, của Bruno Bacelli, được Lori Campbell-Tanner đánh giá
 
 - Cami D. Agan, David Bratman, Mục sư Tom Emanuel, Jonathan Evans, [Jason Fisher](../J/Jason_Fisher.md), John Magoun, "Công việc của năm trong nghiên cứu Tolkien năm 2021"
 - David Bratman, "Thư mục (bằng tiếng Anh) cho năm 2022"

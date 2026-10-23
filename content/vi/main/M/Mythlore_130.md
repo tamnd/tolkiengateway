@@ -49,7 +49,7 @@ infobox:
 - duPlessis, Nicole. "Cùng nhau phát triển hay xa nhau: Nỗi buồn dài lâu của Ent và hôn nhân ở *The Lord of the Rings*."
 - Còn trẻ, Joseph. "'Đủ về gái điếm': Đặc điểm tình dục trong Bài hát về băng và lửa."
 - Alberto, Maria. "'Đó là đức tính của anh ấy, và do đó cũng là nguyên nhân dẫn đến sự sa ngã của anh ấy': Sự quyến rũ như một huyền thoại giải thích về cái ác trong tác phẩm của Tolkien."
-- Croft, Janet Brennan. "Tên của chiếc nhẫn; Hoặc, ở đó và quay lại."
+- Croft, Janet Brennan. "Tên của Nhẫn; Hoặc, There and Back Again."
 - Chandler, Wayne A. và Carrol L. Fry. "Cốt truyện ám chỉ củaTolkien: Sự bất tử và niềm tin vào Khung hình Ảo."
 - Parker, Benjamin C. "Không tưởng ở thiên đường sâu thẳm: Bộ ba vũ trụ của Thomas More và C.S. Lewis."
 - Rosegrant, John. "Từ Làn sóng không thể tránh khỏi đến hiện thực hóa điều kỳ diệu tưởng tượng: Sự biến đổi nỗi đau tinh thần thành nghệ thuật của Tolkien."

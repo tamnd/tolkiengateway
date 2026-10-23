@@ -72,7 +72,7 @@ infobox:
     - Bởi: Madawc Williams
 - Lễ hội rồng
     - Bởi: G. MacLellan
-- Truyện dân gian
+- Truyện dân ca
 - Oxonmoot
 - Hãy mỉm cười
 - Sách về Narnia

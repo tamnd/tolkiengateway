@@ -12,4 +12,4 @@ categories:
   - "Literary adaptations"
 ---
 
-Thể loại này và các thể loại con của nó liệt kê tất cả các bài viết liên quan đến **truyện tranh** của các tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
+Thể loại này và các thể loại con của nó liệt kê tất cả các bài viết liên quan đến **truyện tranh** của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) tác phẩm.

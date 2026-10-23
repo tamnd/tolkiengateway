@@ -28,7 +28,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Lưu ý {#Note}
 
-Trong hầu hết các ấn bản, [Phụ lục C](../A/Appendix_C.md) ghi ngày mất của [Bingo Baggins](../B/Bingo_Baggins.md) là [S.R.](../S/Shire_Reckoning.md) <a class="mw-selflink selflink">1360</a>, nhưng trong một số ấn bản sau này, bao gồm cả ấn bản kỷ niệm 1994 và 50 năm, năm bị ghi nhầm là [1363](Third_Age_2963.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong hầu hết các ấn bản, [Phụ lục C](../A/Appendix_C.md) ghi ngày mất của [Bingo Baggins](../B/Bingo_Baggins.md) là [S.R.](../S/Shire_Reckoning.md) <a class="mw-selflink selflink">1360</a>, nhưng trong một số ấn bản sau này, bao gồm cả ấn bản kỷ niệm 1994 và 50 năm, năm bị ghi nhầm thành [1363](Third_Age_2963.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

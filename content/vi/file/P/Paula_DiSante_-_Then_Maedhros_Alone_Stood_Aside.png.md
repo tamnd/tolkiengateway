@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-gà mái Maedhros Một mình đứng bên cạnh (Tàu cháy ở Losgar)
+gà Maedhros Một Mình Đứng Bên (Tàu cháy ở Losgar)
 
 Nghệ thuật kỹ thuật số và Photoshop.
 

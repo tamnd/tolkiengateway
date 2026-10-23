@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Thế giới phép thuật của Inklings: J.R.R. Tolkien, C.S. Lewis, Charles Williams, Owen Barfield
+Thế giới huyền diệu của Inklings: J.R.R. Tolkien, C.S. Lewis, Charles Williams, Owen Barfield
 
 ## Giấy phép {#Licensing}
 

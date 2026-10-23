@@ -51,7 +51,7 @@ infobox:
 - Phần VIII - Chiến lược cơ bản (trang 58)
 - Phần IX - Kịch bản (trang 59)
 - Phần X - Danh sách thẻ (trang 73)
-- Phần XI - Các Phụ lục trang 93)
+- Phần XI - Phần Phụ lục trang 93)
 
 ## Từ nhà xuất bản {#From_the_publisher}
 

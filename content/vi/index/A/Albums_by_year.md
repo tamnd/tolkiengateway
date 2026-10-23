@@ -56,7 +56,7 @@ sort_keys:
 
 ## 1998 {#1998}
 
-- [Chạng vạng ở Trung Địa](../../main/N/Nightfall_in_Middle-Earth.md)
+- [Nightfall in Middle-Earth](../../main/N/Nightfall_in_Middle-Earth.md)
 
 ## 1999 {#1999}
 

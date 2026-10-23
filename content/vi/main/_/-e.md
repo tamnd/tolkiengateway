@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-ë"
 ---
 
-Chuyển hướng tới [-ë](-ë.md).
+Chuyển hướng đến [-ë](-ë.md).

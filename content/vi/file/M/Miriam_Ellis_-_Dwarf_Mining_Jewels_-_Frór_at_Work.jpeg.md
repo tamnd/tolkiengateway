@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Người lùn Khai thác đá quý - [Frór](../../main/F/Frór.md) tại nơi làm việc" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
+"Người lùn Khai thác ngọc - [Frór](../../main/F/Frór.md) tại nơi làm việc" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
 
 ## Giấy phép {#Licensing}
 

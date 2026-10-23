@@ -76,7 +76,7 @@ Thậm chí vào [Kỷ Đệ Tứ](../F/Fourth_Age.md), người Lùn vẫn sinh
 
 <dl><dd>While <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a> are lost in <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a>, <a href="../B/Bofur.md" title="Bofur">Bofur</a> finds a dwarven tobacco pouch on the ground, which he recognizes as one from the Dwarves of the Blue Mountains. <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> tells him that it is his own pouch that fell earlier, and they are going on circles.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>It is possible for Dwarf player characters to choose the Blue Mountains as their background, though this is only for aesthetic purposes and has no impact on the game&#39;s story or mechanics.</dd></dl>
 

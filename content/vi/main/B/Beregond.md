@@ -156,7 +156,7 @@ Beregond có tổ tiên là những người đến từ các thung lũng của 
 
 <dl><dd>Beregond - pronounced Buh-ray-gond - appears, though no actor is specified for the part.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (1981 radio series)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
 <dl><dd><a href="../C/Christopher_Scott.md" title="Christopher Scott">Christopher Scott</a> played the part of Beregond. His scenes from the book are entirely cut and he only has a short dialogue with Denethor to inform him of the state of the battle, taking over the part of an unarmed messenger from the book.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 
@@ -176,7 +176,7 @@ Beregond có tổ tiên là những người đến từ các thung lũng của 
 
 <dl><dd>Beregond is a playable warrior.</dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Beregond is first met in the seventh circle of <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> shortly before the battle. The player assists Beregond and his brother with their duties around Merethrond and the guest houses. For his actions in killing two guards while saving <a href="../F/Faramir.md" title="Faramir">Faramir</a>&#39;s life, <a href="../A/Aragorn.md" title="Aragorn">King Elessar</a> banishes Beregond from residing in <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>, although he and his wife Gilithel are still permitted to attend Aragorn and <a href="../A/Arwen.md" title="Arwen">Arwen</a>&#39;s wedding. After King Elessar charges Steward <a href="../F/Faramir.md" title="Faramir">Faramir</a> with cleansing the evil of <a href="../M/Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a> and the <a href="../M/Morgul_Vale.md" title="Morgul Vale">Morgul Vale</a>, Beregond joins the White Company and can be found in a camp outside the Dead City.</dd></dl>
 

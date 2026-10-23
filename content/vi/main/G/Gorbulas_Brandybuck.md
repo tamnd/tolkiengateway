@@ -44,11 +44,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Gorbulas là con trai của [Orgulas Brandybuck](../O/Orgulas_Brandybuck.md), con trai thứ của [Chủ nhân của Buckland](../M/Master_of_Buckland.md). Bản thân ông có một con trai, [Marmadas Brandybuck](../M/Marmadas_Brandybuck.md). Ông ấy đã chết trước đây [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Gorbulas là con trai của [Orgulas Brandybuck](../O/Orgulas_Brandybuck.md), con trai của [Chủ nhân của Buckland](../M/Master_of_Buckland.md). Bản thân ông có một con trai, [Marmadas Brandybuck](../M/Marmadas_Brandybuck.md). Ông ấy đã chết trước đây [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Ý nghĩa của cái tên *Gorbulas* vẫn chưa được biết. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên của Bucklanders có phong cách [Celtic](../C/Celtic.md) mơ hồ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Jim Allan](../J/Jim_Allan.md) gợi ý rằng tên *Gorbulas* kết hợp phần đầu tiên của *Gorbadoc* với phần thứ hai của *Orgulas*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Ý nghĩa của cái tên *Gorbulas* vẫn chưa được biết. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên của Bucklanders có kiểu [Celtic](../C/Celtic.md) mơ hồ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Jim Allan](../J/Jim_Allan.md) gợi ý rằng tên *Gorbulas* kết hợp phần đầu tiên của *Gorbadoc* với phần thứ hai của *Orgulas*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

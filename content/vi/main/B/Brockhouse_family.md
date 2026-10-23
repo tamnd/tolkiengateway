@@ -34,7 +34,7 @@ langlinks:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phiên bản thứ năm của chương đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* gia đình Brockhouse không có thành viên nào sống trong Shire; thay vào đó, những người tham dự bữa tiệc của Bilbo đều đến từ [Combe-under-Bree](../C/Combe.md) và là [Hobbit](../H/Hobbits.md) mà Bilbo đã kết bạn trong chuyến du lịch của anh ấy.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong phiên bản thứ năm của chương đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* gia đình Brockhouse không có thành viên nào sống trong Shire; thay vào đó, những người tham dự bữa tiệc Bilbo là từ [Combe-under-Bree](../C/Combe.md) và là [Hobbit](../H/Hobbits.md) mà Bilbo đã kết bạn trong chuyến du lịch của anh ấy.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

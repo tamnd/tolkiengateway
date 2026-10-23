@@ -19,7 +19,7 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-*Andúnë* bắt nguồn từ [gốc](../S/Sundocarme.md) NDŪ ("chìm, đi xuống").<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+*Andúnë* xuất phát từ [gốc](../S/Sundocarme.md) NDŪ ("chìm, đi xuống").<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 

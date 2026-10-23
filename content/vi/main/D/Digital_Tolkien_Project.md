@@ -33,7 +33,7 @@ Trong số các dự án của DTP có mục tiêu xác định các biến th�
 
 Tính năng <a class="external text" href="https://search.digitaltolkien.com/?terms=" rel="noreferrer noopener" target="_blank"><b>Tìm kiếm Tolkien</b></a> cho phép người dùng tìm từ hoặc chuỗi từ trong nhiều tác phẩm, thư từ của J.R.R. Tolkien. Nó cũng hiển thị tần suất tương đối của thuật ngữ tìm thấy trong văn bản.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Công cụ <a class="external text" href="https://glossary.digitaltolkien.com/" rel="noreferrer noopener" target="_blank"><b>Bảng thuật ngữ</b></a> cho phép người dùng xem từ đó xuất hiện trong sách nào, tìm kiếm theo các thẻ như ngôn ngữ, trình độ đọc, đặc điểm ngữ pháp và liệu từ đó có xuất hiện trong [The Ring of Words](../T/The_Ring_of_Words.md) hay không.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Công cụ <a class="external text" href="https://glossary.digitaltolkien.com/" rel="noreferrer noopener" target="_blank"><b>Bảng thuật ngữ</b></a> cho phép người dùng xem từ đó xuất hiện trong sách nào, tìm kiếm theo các thẻ như ngôn ngữ, trình độ đọc, đặc điểm ngữ pháp và liệu từ đó có xuất hiện trong [The Ring of Words](../T/The_Ring_of_Words.md)hay không.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Trong [2025](../_/2025.md), trang web đã giành được [Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md) cho Nội dung Trực tuyến Tốt nhất. <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

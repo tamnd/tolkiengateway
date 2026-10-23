@@ -19,7 +19,7 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-[PQ](../P/PQ.md) \**nûtê* hoặc \**nutê* từ [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NUT&amp;action=edit&amp;redlink=1" title="NUT (page does not exist)">NUT</a>.
+[PQ](../P/PQ.md) \**nûtê* hoặc \**nutê* từ [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NUT&amp;action=edit&amp;redlink=1" title="NUT (page does not exist)">NUT</a>.
 
 ## Có cùng nguồn gốc {#Cognates}
 

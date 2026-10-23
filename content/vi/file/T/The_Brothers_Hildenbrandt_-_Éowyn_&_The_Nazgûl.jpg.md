@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Éowyn](../../main/_/Éowyn.md) & [The Nazgûl](../../main/W/Witch-king.md)" - Tác phẩm nghệ thuật của [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), xuất bản lần đầu trong [1976 J.R.R. Tolkien Lịch](../../main/_/1976_J.R.R._Tolkien_Calendar.md)
+"[Éowyn](../../main/_/Éowyn.md) & [The Nazgûl](../../main/W/Witch-king.md)" - Tác phẩm nghệ thuật của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), xuất bản lần đầu trong [1976 J.R.R. Tolkien Lịch](../../main/_/1976_J.R.R._Tolkien_Calendar.md)
 
 ## Giấy phép {#Licensing}
 

@@ -63,18 +63,18 @@ infobox:
 
 #### Đánh giá {#Reviews}
 
-- Tiểu luận đánh giá: *Hiệp hội ngưỡng mộ lẫn nhau: Dorothy L. Sayers và Oxford Circle của cô ấy đã tái tạo thế giới cho phụ nữ như thế nào* của Mo Moulton. Được đánh giá bởi Barbara L. Prescott.
-- *Tolkien and the Classics*. Được đánh giá bởi Willow DiPasquale.
-- *Inklings of Truth: Các bài luận đánh dấu ngày kỷ niệm C.S. Lewis và J.R.R. Tolkien*, do Paul Shrimpton biên tập. Được đánh giá bởi Austin Freeman.
+- Tiểu luận đánh giá: *Hiệp hội ngưỡng mộ lẫn nhau: Dorothy L. Sayers và Oxford Circle của cô ấy đã tái tạo thế giới cho phụ nữ như thế nào* của Mo Moulton. Reviewed by Barbara L. Prescott.
+- *Tolkien and the Classics*. Reviewed by Willow DiPasquale.
+- *Inklings of Truth: Các bài luận đánh dấu ngày kỷ niệm C.S. Lewis và J.R.R. Tolkien*, do Paul Shrimpton biên tập. Reviewed by Austin Freeman.
 - *Celtic Huyền thoại trong thế kỷ 21: Các vị thần và câu chuyện của họ dưới góc nhìn toàn cầu*, do Emily Lyle biên tập. Được đánh giá bởi Maria Alberto.
-- *Tolkien’s Library: An Annotated Checklist*, của Oronzo Cilli. Được đánh giá bởi Andoni Cossio.
+- *Tolkien’s Library: An Annotated Checklist*, by Oronzo Cilli. Reviewed by Andoni Cossio.
 - *Re-Envisioning Mythopoeia by Nancy-Lou Patterson,* được biên tập bởi Emily E. Auger và Janet Brennan Croft. Được đánh giá bởi Kris Swank.
 - *Tăng lên và xa hơn nữa: Tìm hiểu về Narnia*, của Joseph Pearce. Được đánh giá bởi Chad Chisholm.
-- *Tolkien And Philosophy,* được biên tập bởi Roberto Arduini và Claudio A. Testi. Được đánh giá bởi David Emerson.
+- *Tolkien And Philosophy,* được biên tập bởi Roberto Arduini và Claudio A. Testi. Reviewed by David Emerson.
 - *Thông báo về Inklings: George Macdonald và Nguồn gốc của Ảo tưởng Hiện đại thời Victoria*, do Michael Partridge và Kirstin Jeffrey Johnson biên tập. Được đánh giá bởi Tiffany Brooke Martin.
-- *“Something Has Gone Crack”: Những góc nhìn mới về J.R.R. Tolkien trong cuộc Đại chiến*, do Janet Brennan Croft và Annika Röttinger biên tập. Được đánh giá bởi James Prothero.
-- *Tractacus de de deificatione sexdecim heroum per Martianum de Sancto Alosio / Luận thuyết về việc phong thần mười sáu anh hùng của Marziano Da Sant’ Alosio*, với văn bản, bản dịch, phần giới thiệu và ghi chú của Ross G.R. Caldwell và Marco Ponzi; *The Marziano Tarot Bộ bài Tarot được biết đến lâu đời nhất được hình thành bởi Marziano da Tortona, được tạo ra lần đầu tiên bởi Michelino da Besozzo ở Milan trong khoảng thời gian từ 1412 đến 1425*; *con gli occhi et con l'intelletto / Giải thích Tarot ở Ý thế kỷ 16*, bản dịch và bình luận của Ross Sinclair Caldwell, Thierry Depaulis và Marco Ponzi. Được đánh giá bởi Emily E. Auger.
-- *Trở thành C.S. Lewis: Tiểu sử của Jack Lewis thời trẻ (1898-1918)*, của Harry Lee Poe. Được đánh giá bởi Andrew C. Stout.
-- Ghi chú ngắn gọn: của Janet Brennan Croft.
+- *“Something Has Gone Crack”: Những góc nhìn mới về J.R.R. Tolkien trong cuộc Đại chiến*, do Janet Brennan Croft và Annika Röttinger biên tập. Reviewed by James Prothero.
+- *Tractacus de de deificatione sexdecim heroum per Martianum de Sancto Alosio / Luận thuyết về việc phong thần mười sáu anh hùng của Marziano Da Sant’ Alosio*, với văn bản, bản dịch, phần giới thiệu và ghi chú của Ross G.R. Caldwell và Marco Ponzi; *The Marziano Tarot Bộ bài Tarot được biết đến lâu đời nhất được hình thành bởi Marziano da Tortona, được tạo ra lần đầu tiên bởi Michelino da Besozzo ở Milan trong khoảng thời gian từ 1412 đến 1425*; *con gli occhi et con l'intelletto / Giải thích Tarot ở Ý thế kỷ 16*, bản dịch và bình luận của Ross Sinclair Caldwell, Thierry Depaulis và Marco Ponzi. Reviewed by Emily E. Auger.
+- *Trở thành C.S. Lewis: Tiểu sử của Jack Lewis thời trẻ (1898-1918)*, của Harry Lee Poe. Reviewed by Andrew C. Stout.
+- Briefly Noted: by Janet Brennan Croft.
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 135</div></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_135.md" title="Mythlore 135">Mythlore 135</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 136</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 137</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_137.md" title="Mythlore 137">Mythlore 137</a></div></div></div>

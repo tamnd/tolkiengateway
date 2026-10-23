@@ -23,11 +23,11 @@ images:
   - "Disambig.png"
 ---
 
-**Brandir** có thể đề cập đến những điều sau:
+**Brandir** có thể đề cập đến những điều sau đây:
 
-- [Brandir (con trai của Arachon)](<Brandir_(son_of_Arachon).md>) (sinh [F.A.](../F/First_Age.md) [409](../F/First_Age_409.md)), con trai của [Arachon](../A/Arachon.md) và [Bregil](Bregil.md), và là chú của Brandir the Lame.
-- **[Brandir Kẻ Què](Brandir.md) ([F.A.](../F/First_Age.md) [465](../F/First_Age_465.md) - [499](../F/First_Age_499.md)), Chúa tể của [Haladin](../H/House_of_Haleth.md) đã bị giết bởi [Túrin Turambar](../T/Túrin.md).**
-    - [Ephel Brandir](../E/Ephel_Brandir.md), cuộc định cư của Brandir Kẻ què trên [Amon Obel](../A/Amon_Obel.md).
+- [Brandir (con trai của Arachon)](<Brandir_(son_of_Arachon).md>) (sinh ra [F.A.](../F/First_Age.md) [409](../F/First_Age_409.md)), con trai của [Arachon](../A/Arachon.md) và [Bregil](Bregil.md), và là chú của Brandir the Lame.
+- **[Brandir Kẻ què](Brandir.md) ([F.A.](../F/First_Age.md) [465](../F/First_Age_465.md) - [499](../F/First_Age_499.md)), Chúa tể của [Haladin](../H/House_of_Haleth.md) đã bị giết bởi [Túrin Turambar](../T/Túrin.md).**
+    - [Ephel Brandir](../E/Ephel_Brandir.md), cuộc giải quyết Brandir Kẻ què trên [Amon Obel](../A/Amon_Obel.md).
 - [Tol Brandir](../T/Tol_Brandir.md), đỉnh cao ở giữa [Anduin](../A/Anduin.md) tại [thác Rauros](../R/Rauros.md), nằm giữa [Amon Hen](../A/Amon_Hen.md) và [Amon Lhaw](../A/Amon_Lhaw.md).
 
 <hr style="margin-top:15px;"/>

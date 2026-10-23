@@ -14,4 +14,4 @@ sort_keys:
   "Images by artist": "Danforth, Liz"
 ---
 
-Thể loại này liệt kê tất cả **hình ảnh của [Liz Danforth](../../main/L/Liz_Danforth.md)**.
+Danh mục này liệt kê tất cả **hình ảnh theo [Liz Danforth](../../main/L/Liz_Danforth.md)**.

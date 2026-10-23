@@ -26,9 +26,9 @@ images:
 
 **Quạ** là loài chim lớn màu đen,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> gắn liền với tin dữ về cái chết,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và được biết đến với giọng nói gay gắt.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Những con quạ thông minh của [Ravenhill](Ravenhill.md) gần [Erebor](../E/Erebor.md), có thể sống rất lâu và một số thậm chí có thể nói [Westron](../W/Westron.md) và thân thiện với [Người Lùn Erebor](../D/Dwarves_of_Erebor.md). [Carc](../C/Carc.md) từng là một trong số đó, và con trai ông [Roäc](Roäc.md) là thủ lĩnh của bầy quạ Erebor xung quanh [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), khi [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) giành lại ngọn núi từ [Smaug](../S/Smaug.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Những con quạ thông minh của [Ravenhill](Ravenhill.md) gần [Erebor](../E/Erebor.md), có thể sống rất lâu và một số thậm chí có thể nói [Westron](../W/Westron.md) và thân thiện với [Người Lùn Erebor](../D/Dwarves_of_Erebor.md). [Carc](../C/Carc.md) đã từng là một trong số đó, và con trai ông [Roäc](Roäc.md) là thủ lĩnh của bầy quạ Erebor xung quanh [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), khi [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) chiếm lại ngọn núi từ [Smaug](../S/Smaug.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Khi [Peregrin Took](../P/Peregrin_Took.md) trở thành một trong những [Đội Cận vệ Thành Trì](../G/Guards_of_the_Citadel.md), trang phục mới của anh ấy bao gồm một "*mũ bảo hiểm có vương miện cao với đôi cánh quạ nhỏ ở hai bên*".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Khi [Peregrin Took](../P/Peregrin_Took.md) trở thành một trong những [Đội Cận vệ Thành trì](../G/Guards_of_the_Citadel.md), trang phục mới của anh ấy bao gồm một "*mũ bảo hiểm có vương miện cao với đôi cánh quạ nhỏ ở hai bên*".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

@@ -128,7 +128,7 @@ Một ghi chép khác cho biết *Durinn* là một trong những Người Lùn 
 
 <dl><dd>In the prologue, Durin III appears with the other six Lords receiving their <a href="../S/Seven_Rings.md" title="Seven Rings">Rings</a>. He is only identified as Durin on a <a class="mw-redirect" href="Decipher_Card.md" title="Decipher Card">Decipher Card</a>.</dd></dl>
 
-<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Fate_of_Gundabad.md" title="The Lord of the Rings Online: Fate of Gundabad">The Lord of the Rings Online: Fate of Gundabad</a></i>:</b>
+<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Fate_of_Gundabad.md" title="The Lord of the Rings Online: Fate of Gundabad">The Lord of the Rings Trực tuyến: Số phận của Gundabad</a></i>:</b>
 
 <dl><dd>Durin III briefly appears in a flashback in the Second-age, sealing the <a class="mw-redirect" href="../W/West-gate.md" title="West-gate">West-gate</a> following the <a href="../S/Sack_of_Eregion.md" title="Sack of Eregion">Sack of Eregion</a>. He also was noted to have convened the Fourth Dwarrowmoot of the Seven Houses at Mount Gundabad. The name of his Ring of Power is given as Angya, or Handórm in the dwarven tongue.</dd></dl>
 

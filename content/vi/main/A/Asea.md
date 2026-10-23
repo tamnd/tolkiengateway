@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Asëa"
 ---
 
-Chuyển hướng đến [Asëa](Asëa.md).
+Chuyển hướng tới [Asëa](Asëa.md).

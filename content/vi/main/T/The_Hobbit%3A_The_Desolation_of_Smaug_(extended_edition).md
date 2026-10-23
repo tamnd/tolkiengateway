@@ -46,7 +46,7 @@ LƯU Ý: Phim được chia thành 2 đĩa cho cả phiên bản DVD và Blu-ray
 - 1\. Cuộc tìm kiếm Erebor
 - 8\. Cổng Tiên
 - 9\. Mirkwood
-- 21\. Bậc thầy của Thị trấn Hồ
+- 21\. Chủ nhân của Thị trấn Hồ
 - 22\. Thế giới Con Người
 - 25\. Lời tiên tri
 - 26\. Chào đón nồng nhiệt
@@ -55,7 +55,7 @@ LƯU Ý: Phim được chia thành 2 đĩa cho cả phiên bản DVD và Blu-ray
 - 29\. Phép thuật che giấu
 - 35\. Kẻ Thù được tiết lộ
 
-## Các Phụ lục: Phần Chín - Vào [Wilderland](../R/Rhovanion.md): Biên niên sử *[The Hobbit](The_Hobbit.md)* - Phần 2 (đĩa 2)\*\* {#The_Appendices:_Part_Nine_-_Into_the_Wilderland:_The_Chronicles_of_The_Hobbit_-_Part_2_(disc_2)**}
+## The Phụ lục: Phần Chín - Vào [Wilderland](../R/Rhovanion.md): Biên niên sử của *[The Hobbit](The_Hobbit.md)* - Phần 2 (đĩa 2)\*\* {#The_Appendices:_Part_Nine_-_Into_the_Wilderland:_The_Chronicles_of_The_Hobbit_-_Part_2_(disc_2)**}
 
 - Mở\*
 - Phim tài liệu "Chào mừng nồng nhiệt"\*
@@ -75,7 +75,7 @@ LƯU Ý: Phim được chia thành 2 đĩa cho cả phiên bản DVD và Blu-ray
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/be/The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg/150px-The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg" decoding="async" loading="lazy" width="150" height="191" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/be/The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg/225px-The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/be/The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg/300px-The_Hobbit_-_The_Desolation_of_Smaug_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg 2x" data-file-width="1945" data-file-height="2471"/></a><figcaption>Blu-ray 3-D cover</figcaption></figure>
 
-## Các Phụ lục: Phần 10 - Hành trình Erebor (đĩa 3)^ {#The_Appendices:_Part_Ten_-_The_Journey_to_Erebor_(disc_3)^^}
+## Phần Phụ lục: Phần 10 - Hành trình tới Erebor (đĩa 3)^ {#The_Appendices:_Part_Ten_-_The_Journey_to_Erebor_(disc_3)^^}
 
 - "Triệu hồi [Smaug](../S/Smaug.md): Phim tài liệu cuối cùng của [con rồng lửa](../F/Fire-drakes.md)"^
     - Cuối cùng và đầu tiên [Rồng](../D/Dragons.md)

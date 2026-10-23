@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - The Dwarves Delve Too Deep.jpg"
 ---
 
-Chuyển hướng đến [Tệp:Ted Nasmith - Người Lùn Delve Too Deep.jpg](Ted_Nasmith_-_The_Dwarves_Delve_Too_Deep.jpg.md).
+Chuyển hướng tới [Tệp:Ted Nasmith - Người Lùn Delve Too Deep.jpg](Ted_Nasmith_-_The_Dwarves_Delve_Too_Deep.jpg.md).

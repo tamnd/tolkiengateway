@@ -31,7 +31,7 @@ Tolkien, [Edith](../E/Edith_Tolkien.md) và [Priscilla](../P/Priscilla_Tolkien.m
 
 ## Tóm tắt {#Summary}
 
-Tolkien mô tả chuyến viếng thăm Nhà thờ Collegiate, nêu bật ý nghĩa lịch sử của nó và tác động của cuộc Cải cách. Ông đối lập những ngôi mộ thô tục của Tudor-Jacobean với một bức tượng Đức Mẹ Công giáo hiện đại, phản ánh những thay đổi theo thời gian. Tolkien cũng đề cập đến mô tả mang tính hướng dẫn về nhà thờ vào năm 1340 và sổ đăng ký giáo xứ, lưu ý rằng văn bản tiếng Latinh và chữ viết tay thời Trung cổ vẫn được sử dụng trong thời kỳ sinh của Shakespeare. <br>
+Tolkien mô tả chuyến viếng thăm Nhà thờ Collegiate, nêu bật ý nghĩa lịch sử của nó và tác động của cuộc Cải cách. Ông đối chiếu những ngôi mộ thô tục của Tudor-Jacobean với một bức tượng Đức Mẹ Công giáo hiện đại, phản ánh những thay đổi theo thời gian. Tolkien cũng đề cập đến mô tả mang tính hướng dẫn về nhà thờ vào năm 1340 và sổ đăng ký giáo xứ, lưu ý rằng văn bản tiếng Latinh và chữ viết tay thời Trung cổ vẫn được sử dụng trong thời kỳ sinh của Shakespeare. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

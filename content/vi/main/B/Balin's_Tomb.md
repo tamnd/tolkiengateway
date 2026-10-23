@@ -84,7 +84,7 @@ Việc sử dụng tiếng Anh để đại diện cho Ngôn ngữ Chung trong c
 
 <dl><dd>Balin&#39;s tomb is referred to as the <b>Tomb of Balin</b> and is not a straight box, but rather an elevated tomb, held up by four small Dwarf-like statues in the corners.</dd></dl>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Balin&#39;s Tomb can be found in the Chamber of Mazarbul, off the <a class="mw-redirect" href="../T/Twenty-First_Hall~21686.md" title="Twenty-First Hall">Twenty-First Hall</a>. The body of a dead dwarf is leaning on it, possibly <a href="../O/Ori.md" title="Ori">Ori</a>.</dd></dl>
 

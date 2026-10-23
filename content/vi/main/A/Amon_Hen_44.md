@@ -60,7 +60,7 @@ infobox:
 - Kết quả đấu giá qua bưu điện
 - "Năm Rồng"
     - Bởi: [Helen Armstrong](../H/Helen_Armstrong.md)
-- Một chiếc nhẫn để trói buộc tất cả!
+- Một Nhẫn để ràng buộc tất cả!
     - Thư ngỏ của: Jessica Yates
 - Đánh giá: *[Tolkien's Art: A Mythology for England](../T/Tolkien's_Art%253A_A_Mythology_for_England.md)*
     - Bởi: Jessica Yates

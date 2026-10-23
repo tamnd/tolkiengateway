@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aldëa"
 ---
 
-Chuyển hướng tới [Aldëa](Aldëa.md).
+Chuyển hướng đến [Aldëa](Aldëa.md).

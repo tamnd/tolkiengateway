@@ -52,7 +52,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ivy Bush là nơi [Hobbit](../H/Hobbits.md) của [Hobbiton](../H/Hobbiton.md) và [Bywater](../B/Bywater.md)thường xuyên lui tới. Trước [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md), nhiều người tụ tập xung quanh [Gaffer Gamgee](../G/Gaffer_Gamgee.md), quan tâm đến những câu chuyện anh kể về [Bilbo](../B/Bilbo_Baggins.md) và [Frodo Baggins](../F/Frodo_Baggins.md). [Daddy Twofoot](../D/Daddy_Twofoot.md), [Old Noakes](../O/Old_Noakes.md), người thợ xay [Sandyman](../S/Sandyman.md) và những người khác, chẳng hạn như một người lạ đến từ [Michel Delving](../M/Michel_Delving.md) đã bàn tán về Bagginses bí ẩn và kho báu được đồn đại ở [Bag End](../B/Bag_End.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ivy Bush là nơi [Hobbit](../H/Hobbits.md) của [Hobbiton](../H/Hobbiton.md) và [Bywater](../B/Bywater.md)thường xuyên lui tới. Trước [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md), rất nhiều người tụ tập quanh [Gaffer Gamgee](../G/Gaffer_Gamgee.md), thích thú với những câu chuyện anh kể về [Bilbo](../B/Bilbo_Baggins.md) và [Frodo Baggins](../F/Frodo_Baggins.md). [Daddy Twofoot](../D/Daddy_Twofoot.md), [Old Noakes](../O/Old_Noakes.md), người thợ xay [Sandyman](../S/Sandyman.md) và những người khác, chẳng hạn như một người lạ đến từ [Michel Delving](../M/Michel_Delving.md) đã bàn tán về Bagginses bí ẩn và kho báu được đồn đại ở [Bag End](../B/Bag_End.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

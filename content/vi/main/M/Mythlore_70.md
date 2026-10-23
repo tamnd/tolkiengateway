@@ -49,8 +49,8 @@ Một "Bức thư" từ [Carl F. Hostetter](../C/Carl_F._Hostetter.md) là phả
 - Herrick, Jim. “C.S. Lewis và Lập luận tường thuật trong *Out of the Silent Planet*.”
 - Hood, Gwenyth E., Dainis Bisenieks, Stephen Linhart, Gary Hunnewell, Tim Callahan, Edna Montemayor, John L. Leland và Paul Nolan Hyde. “Cống hiến cho J.R.R. Tolkien.”
 - Tiền bối, William. “Donaldson và Tolkien.”
-- Venhecke, Johan. “Tolkien bằng tiếng Hà Lan: Nghiên cứu về việc tiếp nhận tác phẩm của Tolkien ở Bỉ và Hà Lan.”
-- Payne, Craig. “Chu kỳ hoàng đạo trong *Grendel*của John Gardener.”
+- Venhecke, Johan. “Tolkien bằng tiếng Hà Lan: Nghiên cứu về việc tiếp nhận công việc của Tolkien ở Bỉ và Hà Lan.”
+- Payne, Craig. “Chu kỳ hoàng đạo trong John Người làm vườn *Grendel*.”
 
 #### Thơ {#Poetry}
 
@@ -70,7 +70,7 @@ Một "Bức thư" từ [Carl F. Hostetter](../C/Carl_F._Hostetter.md) là phả
 - *Charles Williams.* David Llewellyn Dodds. Được đánh giá bởi Nancy-Lou Patterson.
 - *Fish Soup*. Ursula K. LeGuin, Minh họa. của Patrick Wynne. Được đánh giá bởi Glen GoodKnight.
 - *J.R.R. Tolkien: Life and Legend*. *Triển lãm kỷ niệm 100 năm ngày sinh của J.R.R. Tolkien.* Giới thiệu. Judith Priestman. Được đánh giá bởi Glen GoodKnight.
-- *The 1993 Tolkien Calendar.* Minh họa. của Alan Lee. Được đánh giá bởi Glen GoodKnight.
+- *The 1993 Tolkien Calendar.* Minh họa. bởi Alan Lee. Được đánh giá bởi Glen GoodKnight.
 - *The C.S. Lewis Handbook.* Colin Duriez. Được đánh giá bởi Nancy-Lou Patterson.
 - *Tất cả con đường phía trước tôi: Nhật ký của C.S. Lewis.* C.S. Lewis. Được đánh giá bởi Nancy-Lou Patterson.
 

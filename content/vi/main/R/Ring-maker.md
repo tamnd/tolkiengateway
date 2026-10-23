@@ -12,7 +12,7 @@ categories:
   - "Epithets"
 ---
 
-**Người chế tạo nhẫn** là danh hiệu [Sauron](../S/Sauron.md), người giả mạo [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Danh hiệu này cũng được [Saruman](../S/Saruman.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> tuyên bố
+Người **Nhẫn người tạo ra** là danh hiệu của [Sauron](../S/Sauron.md), kẻ giả mạo [Người Nhẫn](../T/The_One_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó cũng được xác nhận bởi [Saruman](../S/Saruman.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

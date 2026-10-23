@@ -77,12 +77,12 @@ infobox:
     - Bởi: Richard Crawshaw
 - Toán học
     - Bởi: Gwyneth Morgan
-- Truyện dân ca
+- Truyện dân gian
 - Bài thơ: Bài hát của [Frodo Gamgee](../F/Frodo_Gamgee.md)
     - Bởi: Judith A. Cawell
 - Sự học hỏi của Debi
     - Bởi: Debi Haigh-Hutchinson
-[Tiệc chia tay](../F/Farewell_Party.md) của - Bilbo: SR 1401
+- Bilbo [Tiệc chia tay](../F/Farewell_Party.md): SR 1401
     - Bởi: Jeff Stevenson
 - Và cuối cùng...
     - Bởi: Tony Curtis

@@ -88,11 +88,11 @@ Với năm trăm cung thủ của người dân, Derufin và anh trai [Duilin](<
 		</li>
 </ul>
 
-<b><a href="../_/2003.md" title="2003">2003</a>: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi trao đổi thẻ bài</a></i>:</b>
+<b><a href="../_/2003.md" title="2003">2003</a>: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i>:</b>
 
 <dl><dd>A card from <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i> identifies one of the Gondorian soldiers at <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> as Derufin.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Derufin and <a href="Duilin_(son_of_Duinhir).md" title="Duilin (son of Duinhir)">his brother</a> were hunting enthusiasts. The brothers accompanied the player into <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a>, and the group succeeded in damaging <a href="../G/Grond_(battering_ram).md" title="Grond (battering ram)">Grond</a> before encountering <a href="../G/Gothmog_(Lieutenant_of_Morgul).md" title="Gothmog (Lieutenant of Morgul)">Gothmog</a> and being forced to retreat. Both brothers die during the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a> while leading the mûmakil away from the player.</dd></dl>
 

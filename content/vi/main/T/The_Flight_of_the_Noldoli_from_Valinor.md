@@ -43,7 +43,7 @@ Trong phần bình luận bài thơ, Christopher than thở rằng cha anh đã 
 ## Xem thêm {#See_also}
 
 - [Noldolantë](../N/Noldolantë.md)
-- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 <span></span>
 

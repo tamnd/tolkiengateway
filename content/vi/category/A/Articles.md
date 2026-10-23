@@ -15,5 +15,5 @@ categories:
 Tất cả các bài viết trong Tolkien Gateway được chia thành ba loại chính:
 
 - **Eä** là tên vũ trụ do Tolkien tạo ra (thông thường, nhưng không chính xác, được gọi là thế giới của [Trung Địa](../../main/M/Middle-earth.md)), do đó tất cả các bài viết trong Eä đều liên quan đến điều này;
-- **Các thế giới hư cấu khác** liên quan đến các thế giới hư cấu được tạo bởi Tolkien không phải Eä;
+- **Các thế giới hư cấu khác** liên quan đến các thế giới hư cấu được tạo bởi Tolkien không phải là Eä;
 - tất cả các bài viết trong **Thế giới thực** đều liên quan đến thế giới thực.

@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Shank từ *The Lord of the Rings: Cuộc chiến của Rohirrim*
+Chân từ *The Lord of the Rings: The War of the Rohirrim*
 
 ## Giấy phép {#Licensing}
 

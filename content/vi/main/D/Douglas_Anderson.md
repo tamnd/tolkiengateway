@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Douglas A. Anderson"
 ---
 
-Chuyển hướng tới [Douglas A. Anderson](Douglas_A._Anderson.md).
+Chuyển hướng đến [Douglas A. Anderson](Douglas_A._Anderson.md).

@@ -45,7 +45,7 @@ infobox:
 
 Sản phẩm này được xuất bản với bìa khác vào năm 1984, sau đó được sửa đổi và kết hợp với *[Southern Mirkwood](../S/Southern_Mirkwood.md)* (1983) và phát hành dưới tên *[Mirkwood: The Wilds of Rhovanion](../M/Mirkwood%253A_The_Wilds_of_Rhovanion.md)* (1988).
 
-Để sử dụng cùng với phần bổ sung này, [Mithril Miniatures](../M/Mithril_Miniatures.md) đã phát hành hai bộ mô hình thu nhỏ bằng kim loại (M83 - M92 *Mirkwood I* và M103 - M112 *Mirkwood II*).
+Để sử dụng với phần bổ sung này, [Mithril Miniatures](../M/Mithril_Miniatures.md) đã phát hành hai bộ mô hình thu nhỏ bằng kim loại (M83 - M92 *Mirkwood I* và M103 - M112 *Mirkwood II*).
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 

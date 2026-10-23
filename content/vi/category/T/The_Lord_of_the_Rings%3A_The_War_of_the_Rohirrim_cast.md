@@ -12,4 +12,4 @@ categories:
   - "The Lord of the Rings: The War of the Rohirrim"
 ---
 
-Thể loại này liệt kê <i><b>The Lord of the Rings: Cuộc chiến của các diễn viên Rohirrim</b></i>.
+Danh mục này liệt kê <i><b>The Lord of the Rings: The War of the Rohirrim diễn viên</b></i>.

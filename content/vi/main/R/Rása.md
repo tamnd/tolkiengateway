@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rôs"
 ---
 
-Chuyển hướng đến [Rôs](Rôs.md).
+Chuyển hướng tới [Rôs](Rôs.md).

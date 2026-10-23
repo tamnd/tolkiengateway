@@ -62,9 +62,9 @@ infobox:
 - Ngày ghi nhật ký của bạn
 - Sửa chữa khẩn cấp tại <a class="new" href="https://tolkiengateway.net/w/index.php?title=Perrott%27s_Folly&amp;action=edit&amp;redlink=1" title="Perrott&#39;s Folly (page does not exist)">Perrott's Folly</a>
 - Công viên nông thôn <a class="new" href="https://tolkiengateway.net/w/index.php?title=Shire_Country_Park&amp;action=edit&amp;redlink=1" title="Shire Country Park (page does not exist)">Shire</a>
-Đề xuất về - [Tolkien Ngày đọc](../T/Tolkien_Reading_Day.md)
+Đề xuất - [Tolkien Ngày đọc](../T/Tolkien_Reading_Day.md)
 - Thông báo ĐHĐCĐ & Bữa tối thường niên
-- [Sảnh lửa](../H/Hall_of_Fire.md)
+- Cái [Hall of Fire](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Mở màn
     - Bởi: *[Beruthiel](../B/Berúthiel.md)'s Pet*
@@ -91,7 +91,7 @@ Salad của - [Gil-galad](../G/Gil-galad.md)
 - Đoạn trích của Sally
     - Bởi: [Sally Kennett](../S/Sally_Kennett.md)
 - Thành viên mới
-- Tin từ [Fangorn](../F/Fangorn_Forest.md)
-- Truyện dân ca/Ủy ban
+- Tin tức từ [Fangorn](../F/Fangorn_Forest.md)
+- Truyện dân gian/Ủy ban
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 190</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_190.md" title="Amon Hen 190">Amon Hen 190</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 191</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 192</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_192.md" title="Amon Hen 192">Amon Hen 192</a></div></div></div>

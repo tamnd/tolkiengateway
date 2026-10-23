@@ -23,7 +23,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Decipher_-_Ithil-stone.jpg.md"><img src="https://tolkiengateway.net/w/images/3/36/Decipher_-_Ithil-stone.jpg" decoding="async" loading="lazy" width="248" height="186" class="mw-file-element" data-file-width="248" data-file-height="186"/></a><figcaption>Ithil-stone in <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i></figcaption></figure>
 
-<b>2001-2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi đánh bài</a></i>:</b>
+<b>2001-2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i>:</b>
 
 <dl><dd>A card depicting the Ithil-stone was released in the &#34;Reflections&#34; set.</dd></dl>
 

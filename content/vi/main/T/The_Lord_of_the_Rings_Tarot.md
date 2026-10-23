@@ -141,7 +141,7 @@ Các hướng dẫn đi kèm với các lá bài tarot cũng chứa một bộ q
 
 - *Ace of Wands*: Chiếc Nhẫn Chúa được rèn trong ngọn lửa [Núi Doom](../M/Mount_Doom.md) (FP)
 - *Two of Wands*: Gandalf (DF)
-- *Three of Wands*: [Aragorn, Gimli và Legolas](Three_Hunters.md) tìm kiếm những người Hobbit bị bắt (FP)
+- *Three of Wands*: [Aragorn, Gimli và Legolas](Three_Hunters.md) tìm kiếm những người hobbit bị bắt (FP)
 - *Four of Wands*: Gandalf lắc Théoden tình trạng bất ổn của mình (FP)
 - *Five of Wands*: Bilbo nhìn thấy Người Lùn bị bắt bởi [nhện](../S/Spider.md) trong [Mirkwood](../M/Mirkwood.md) (DF)
 - *Six of Wands*: Tình thế trở nên bất lợi với Orc trong [Trận chiến của năm đạo quân](../B/Battle_of_the_Five_Armies.md), khi [Beorn](../B/Beorn.md) và Đại Bàng tham gia trận chiến (FP)

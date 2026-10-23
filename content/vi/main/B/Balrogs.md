@@ -235,27 +235,27 @@ Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), có khả năng Lungort
 
 <dl><dd>The Balrog is the most powerful magical power available to Servants of Sauron. They have horns and wings.</dd></dl>
 
-<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Third_Age.md" title="The Lord of the Rings: The Third Age">The Lord of the Rings: The Third Age</a></i>:</b>
+<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Third_Age.md" title="The Lord of the Rings: The Third Age">The Lord of the Rings: Kỷ Đệ Tam</a></i>:</b>
 
 <dl><dd>The players assist Gandalf in his fight with the Balrog.</dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
 
 <dl><dd>The Balrog is the most powerful magical power available to both Mordor and Isengard faction, and is faced as a boss in the Good Campaign. Visual appearance follows the movie version.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
 <dl><dd>Unlike the original game, The Balrog is not available to Isengard faction, but only to Mordor and the new Goblin factions.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Besides <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a>, the game also features another Balrog: named Thaurlach, he can be found in the <a class="new" href="https://tolkiengateway.net/w/index.php?title=Rift_of_N%C3%BBrz_Gh%C3%A2shu&amp;action=edit&amp;redlink=1" title="Rift of Nûrz Ghâshu (page does not exist)">Rift of Nûrz Ghâshu</a>, where <a href="../A/Angmar.md" title="Angmar">Angmar</a> meets <a href="../M/Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a>. He fled there are the breaking of <a href="../T/Thangorodrim.md" title="Thangorodrim">Thangorodrim</a>, but was followed by an elf-maiden Glathlírel who was determined to end him. The Balrog eluded her for millennia, until she was able to face him in combat and defeat him. Rather than kill the Balrog, the two Blue Wizards decided to imprison him in the Rift, so that he could await his judgment at the end of days. However, by the end of the Third Age his chains were loosening and a band of players was sent to defeat the weakened Balrog - something, that as Gandalf remarked, should have been done ages ago.</dd></dl>
 
-<b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Conquest</a></i>:</b>
+<b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Chinh phục</a></i>:</b>
 
 <dl><dd>The Balrog is one of the &#34;heroes&#34; available to Servants of Sauron during evil campaign. Appearance reflects the movie version.</dd></dl>
 
-<b>2017: <i><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Middle-earth: Shadow of War</a></i>:</b>
+<b>2017: <i><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Trung Địa: Bóng Tối chiến tranh</a></i>:</b>
 
 <dl><dd>The game also features another Balrog: named Tar Goroth, who must be killed to complete a specific side-quest, has wings and is able to leap over large distances without flying.</dd></dl>
 
@@ -268,11 +268,11 @@ Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), có khả năng Lungort
 
 ## Xem thêm {#See_also}
 
-- [Balrogs/Wings](Balrogs%252FWings.md)
+- [Balrog/Cánh](Balrogs%252FWings.md)
 
 ## Liên kết ngoài {#External_links}
 
-- Conrad Dunkerson, <i><a class="external text" href="http://tolkien.slimy.com/essays/TAB.html" rel="noreferrer noopener" target="_blank">The Truth About Balrogs</a></i>
+- Conrad Dunkerson, <i><a class="external text" href="http://tolkien.slimy.com/essays/TAB.html" rel="noreferrer noopener" target="_blank">Sự thật về Balrog</a></i>
 
 ## Ghi chú {#Notes}
 

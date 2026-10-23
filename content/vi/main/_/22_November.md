@@ -78,11 +78,11 @@ Sự kiện xảy ra vào ngày 22 tháng 11
 - **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 291](../L/Letter_291.md).
 - **[1970](1970.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 318](../L/Letter_318.md).
 - **[1995](1995.md)** - *[Tyalië Tyelelliéva](../T/Tyalië_Tyelelliéva.md)* số [7](../T/Tyalië_Tyelelliéva_7.md) được xuất bản.
-- **[2002](2002.md)** - [Ring\*Con](../R/Ring%252ACon_2002.md) đầu tiên bắt đầu ở <a class="extiw" href="http://en.wikipedia.org/wiki/Bonn" title="wikipedia:Bonn">Bonn</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2002](2002.md)** - [ Nhẫn\*Con](../R/Ring%252ACon_2002.md) đầu tiên bắt đầu ở <a class="extiw" href="http://en.wikipedia.org/wiki/Bonn" title="wikipedia:Bonn">Bonn</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 - **[2005](2005.md)** - *[Ringers: Lord of the Fans](../R/Ringers%253A_Lord_of_the_Fans.md)* được phát hành.
-- **[2013](2013.md)** - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lewis_and_Tolkien:_The_Lost_Road&amp;action=edit&amp;redlink=1" title="Lewis and Tolkien: The Lost Road (page does not exist)">Lewis và Tolkien: The Lost Road</a> được phát sóng trên [Đài BBC](../B/BBC.md).
+- **[2013](2013.md)** - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lewis_and_Tolkien:_The_Lost_Road&amp;action=edit&amp;redlink=1" title="Lewis and Tolkien: The Lost Road (page does not exist)">Lewis và Tolkien: The Lost Road</a> được phát sóng trên [BBC Radio](../B/BBC.md).
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Kẻ duy nhất Nhẫn](../T/The_One_Ring.md).

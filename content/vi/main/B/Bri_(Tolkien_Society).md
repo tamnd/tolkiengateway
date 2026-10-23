@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bri, Tolkienselskabet i København"
 ---
 
-Chuyển hướng đến [Bri, Tolkienselskabet i København](Bri,_Tolkienselskabet_i_København.md).
+Chuyển hướng tới [Bri, Tolkienselskabet i København](Bri,_Tolkienselskabet_i_København.md).

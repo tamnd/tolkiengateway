@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Không lâu sau, [tốc độ](../../main/S/Smaug.md) của anh ấy quá tuyệt vời, [họ](../../main/L/Lake-men.md) có thể coi anh ấy như một tia lửa..." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"Không lâu sau, tốc độ [của anh ấy](../../main/S/Smaug.md) quá lớn, [họ](../../main/L/Lake-men.md) có thể coi anh ấy như một tia lửa..." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

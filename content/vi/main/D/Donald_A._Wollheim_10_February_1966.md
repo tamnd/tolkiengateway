@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Donald A. Wollheim"
 ---
 
-Chuyển hướng tới [Thư gửi Donald A. Wollheim](../L/Letter_to_Donald_A._Wollheim.md).
+Chuyển hướng đến [Thư gửi Donald A. Wollheim](../L/Letter_to_Donald_A._Wollheim.md).

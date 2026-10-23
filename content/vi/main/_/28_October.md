@@ -80,9 +80,9 @@ Sự kiện xảy ra vào ngày 28 tháng 10
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
     - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md)tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Kẻ duy nhất Nhẫn](../T/The_One_Ring.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Khi màn đêm buông xuống: [Gandalf](../G/Gandalf.md) và [bốn người Hobbit](../T/Travellers.md) đến gặp [Bree](../B/Bree.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và phát hiện ra nhiều điều đã thay đổi kể từ lần cuối họ ở đó.
+    - Khi màn đêm buông xuống: [Gandalf](../G/Gandalf.md) và [bốn người Hobbit](../T/Travellers.md) tiếp cận [Bree](../B/Bree.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và phát hiện ra nhiều điều đã thay đổi kể từ lần cuối họ ở đó.
 
 <span></span>
 

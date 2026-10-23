@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Penn"
 ---
 
-Chuyển hướng đến [Penn](Penn.md).
+Chuyển hướng tới [Penn](Penn.md).

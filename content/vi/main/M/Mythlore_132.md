@@ -80,7 +80,7 @@ infobox:
 
 - Auger, Emily E. “Biên tập: Bói toán và tiên tri trong văn học thần thoại \[Bài báo\].”
 - Matthews, Carol S. “Để những điều bất thường khi ngủ nói dối: Lovecraft và sự vô ích của việc bói toán \[Bài báo\].”
-- Auger, Emily E. “Tarot và T.S. Eliot trong Tiểu thuyết Tháp bóng tối của Stephen Vua\[Bài báo\].”
+- Auger, Emily E. “Tarot và T.S. Eliot trong Tòa Tháp Bóng Tối Tiểu thuyết \[Bài viết\] của Stephen Vua.”
 - Laity, K. A. “Người thợ xay khó tin & Nhà ảo thuật của Phố Threadneedle \[Bài báo\].”
 - Auger, Emily E. “Danh sách chú thích các tiểu thuyết giả tưởng kết hợp Tarot (1968-1989) \[Notes\].”
 - Tredray, Robert F. “Bói toán và tiên tri trong The Lord of the Rings của JRR Tolkien: Một số quan sát \[Ghi chú\].”

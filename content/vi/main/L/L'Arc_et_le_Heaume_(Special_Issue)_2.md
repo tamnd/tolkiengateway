@@ -23,16 +23,16 @@ images:
 ## Nội dung {#Contents}
 
 - Vivien Stocker - Biên tập
-- Phỏng vấn J.R.R. Tolkien. Réalisée par Denys Gueroult và Janvier 1965 trên đài phát thanh BBC.
+- Phỏng vấn J.R.R. Tolkien. Réalisée par Denys Gueroult en janvier 1965 pour la radio BBC.
 - Một cuộc phỏng vấn với Tolkien. Réalisée vào tháng 3 năm 1966 bởi Henry Resnick cho người hâm mộ tạp chí Niekas.
-- >Tolkien trong Oxford» (BBC, 1968) : Tái thiết Une. Article de Stuart D. Lee pour Tolkien Studies présentant l'intégralité de l'interview de Tolkien réalisée pour le documentaire télévisé « Tolkien in Oxford » của BBC năm 1968.
+- >Tolkien trong Oxford» (BBC, 1968) : Tái thiết Une. Article de Stuart D. Lee pour Tolkien Studies présentant l'intégralité de l'interview de Tolkien réalisée pour le documentaire télévisé « Tolkien in Oxford » de la BBC en 1968.
 
 ## Bản dịch tiếng Anh {#English_translation}
 
 - Vivien Stocker - Biên tập
-- Phỏng vấn J.R.R. Tolkien. Do Denys Gueroult đạo diễn vào tháng 1 năm 1965 cho đài BBC.
+- Phỏng vấn J.R.R. Tolkien. Do Denys Gueroult đạo diễn vào tháng 1 năm 1965 cho đài phát thanh BBC.
 - Cuộc phỏng vấn với Tolkien. Được sản xuất vào tháng 3 năm 1966 bởi Henry Resnick cho fanzine Niekas.
-- "Tolkien trong Oxford" (BBC, 1968): Một sự tái thiết. Bài viết của Stuart D. Lee cho Tolkien Nghiên cứu bao gồm cuộc phỏng vấn đầy đủ Tolkien được thực hiện cho bộ phim tài liệu truyền hình năm 1968 của BBC 'Tolkien ở Oxford'.
+- "Tolkien trong Oxford" (BBC, 1968): Một bản tái thiết. Bài viết của Stuart D. Lee cho Tolkien Nghiên cứu bao gồm cuộc phỏng vấn đầy đủ Tolkien được thực hiện cho bộ phim tài liệu truyền hình BBC năm 1968 'Tolkien ở Oxford'.
 
 ## Liên kết ngoài {#External_links}
 

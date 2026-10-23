@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eldalondë"
 ---
 
-Chuyển hướng tới [Eldalondë](Eldalondë.md).
+Chuyển hướng đến [Eldalondë](Eldalondë.md).

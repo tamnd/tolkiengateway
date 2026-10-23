@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sự ra đời của [Bandobras Took](../B/Bandobras_Took.md), con trai út của [Isumbras Took III](../I/Isumbras_Took_III.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Sinh ra [Bandobras Took](../B/Bandobras_Took.md), con trai út của [Isumbras Took III](../I/Isumbras_Took_III.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

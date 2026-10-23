@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Return of the Ring"
 ---
 
-Chuyển hướng đến [Sự trở lại của chiếc nhẫn](../T/The_Return_of_the_Ring.md).
+Chuyển hướng đến [Sự trở lại của Nhẫn](../T/The_Return_of_the_Ring.md).

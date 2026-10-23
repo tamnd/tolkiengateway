@@ -63,7 +63,7 @@ infobox:
 - Về tình yêu của Molly Ostertag
 - Giữa: Priscilla Tolkien
     - Bởi: Michael Gabriel
-- Frodo Có Làm chủ được Chiếc Nhẫn Một không?
+- Có phải Frodo Chủ nhân là Nhẫn không?
     - Bởi: Sergei Soloviev
 - Hẹn hò Tolkien #3
     - Bởi: Mick Henry

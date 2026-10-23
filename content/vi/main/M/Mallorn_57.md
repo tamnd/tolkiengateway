@@ -57,11 +57,11 @@ infobox:
         - Bởi: Celia Devine
     - "Số phận của [Túrin](../T/Túrin.md). hay cách tiếp cận Dumézilian của The Narn"
         - Bởi: Jean Chausse
-    - "Tolkien Quan điểm của Jung về ngôn ngữ"
+Quan điểm của Jung về ngôn ngữ của     - "Tolkien"
         - Bởi: Nancy Bunting
     - "Sáng tạo và sáng tạo phụ"
         - Bởi: Martina Juričiková
-    - "Bilbo Sự trở lại và vụ Tichborne"
+    - "Bilbo Trở về và vụ Tichborne"
         - Bởi: Murray Smith
     - "Thảm họa: Về sự cần thiết của nỗi đau buồn đối với con người"
         - Bởi: Skyler Neberman

@@ -12,4 +12,4 @@ categories:
   - "Natural features"
 ---
 
-Danh mục này liệt kê tất cả **Dãy Núi** đơn lẻ trong Arda.
+Danh mục này liệt kê tất cả **Dãy Núi** đơn trong Arda.

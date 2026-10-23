@@ -36,7 +36,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_quiz_murray.jpg.md"><img src="https://tolkiengateway.net/w/images/9/9e/Tolkien_quiz_murray.jpg" decoding="async" loading="lazy" width="290" height="471" class="mw-file-element" data-file-width="290" data-file-height="471"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Tolkien Quiz Book</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Andrew_Murray&amp;action=edit&amp;redlink=1" title="Andrew Murray (page does not exist)">Andrew Murray</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a> Publishers Ltd</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1996.md" title="1996">1996</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">160</td></tr></tbody></table>
 
-**Sách Tolkien Câu đố** là cuốn sách [1996](../_/1996.md) của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Andrew_Murray&amp;action=edit&amp;redlink=1" title="Andrew Murray (page does not exist)">Andrew Murray</a>. Một ấn bản mới, với bìa mới, được phát hành vào năm 2003.
+**The Tolkien Quiz Book** là cuốn sách [1996](../_/1996.md) của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Andrew_Murray&amp;action=edit&amp;redlink=1" title="Andrew Murray (page does not exist)">Andrew Murray</a>. Một ấn bản mới, với bìa mới, được phát hành vào năm 2003.
 
 ## Từ nhà xuất bản (ấn bản 2003) {#From_the_publisher_(2003_edition)}
 
@@ -44,4 +44,4 @@ Một bản phát hành lại được sửa đổi và mở rộng bao gồm h�
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://tolkienlibrary.com/press/1069-interview-andrew-murray-author-The-Tolkien-Quiz-Book.php" rel="noreferrer noopener" target="_blank">Phỏng vấn Andrew Murray tác giả cuốn <i>Cuốn Tolkien Đố vui</i></a> tại [Tolkien Thư viện](Tolkien_Library.md)
+- <a class="external text" href="http://tolkienlibrary.com/press/1069-interview-andrew-murray-author-The-Tolkien-Quiz-Book.php" rel="noreferrer noopener" target="_blank">Phỏng vấn Andrew Murray tác giả cuốn sách <i>The Tolkien Quiz Book</i></a> tại [Tolkien Library](Tolkien_Library.md)

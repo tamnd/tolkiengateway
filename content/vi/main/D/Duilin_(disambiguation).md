@@ -27,12 +27,12 @@ images:
   - "Disambig.png"
 ---
 
-**Duilin** có thể đề cập đến:
+**Duilin** có thể tham khảo:
 
 - [Duilin (con trai của Duinhir)](<Duilin_(son_of_Duinhir).md>), một người lính [Gondor](../G/Gondorians.md) sống trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) và chết trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
 - [Duilin (yêu tinh của Gondolin)](<Duilin_(elf_of_Gondolin).md>), lãnh chúa đã lãnh đạo [Nhà Én](../H/House_of_the_Swallow.md) trong [Lost Tale](../T/The_Book_of_Lost_Tales.md) của "[The Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)".
 - [Duilin](<Duilin_(father_of_Saelon).md>), cha của [Saelon](../S/Saelon.md), một nhân vật trong *[The New Shadow](../T/The_New_Shadow.md)*.
-- Con [chim sơn ca](../N/Nightingales.md) hay "người ca sĩ lúc hoàng hôn", *duilinn* trong [Sindarin](../S/Sindarin.md).
+- [chim sơn ca](../N/Nightingales.md) hay "người ca sĩ lúc hoàng hôn", *duilinn* trong [Sindarin](../S/Sindarin.md).
 
 <hr style="margin-top:15px;"/>
 

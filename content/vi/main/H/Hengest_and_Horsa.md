@@ -91,7 +91,7 @@ Các nhân vật Hengest và Horsa trong *The Book of Lost Tales* được dựa
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Theo một phác thảo, trong đó chính Eriol là người đã thúc đẩy Faring Forth, Hengest và Horsa được cho là đã chinh phục <i><a href="../G/Guiðlin.md" title="Guiðlin">Guiðlin</a></i> (tức là. <a class="extiw" href="http://en.wikipedia.org/wiki/Gaels" title="wikipedia:Gaels">Gaels</a>), một trong những dân tộc đã xâm lược Tol Eressëa trong Faring Forth.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Theo một phác thảo, trong đó chính Eriol là người đã thúc đẩy Faring Forth, Hengest và Horsa được cho là đã chinh phục <i><a href="../G/Guiðlin.md" title="Guiðlin">Guiðlin</a></i> (tức là. <a class="extiw" href="http://en.wikipedia.org/wiki/Gaels" title="wikipedia:Gaels">Gaels</a>), một trong những dân tộc đã xâm chiếm Tol Eressëa trong Faring Forth.</span>
 </li>
 </ol></div></span>
 

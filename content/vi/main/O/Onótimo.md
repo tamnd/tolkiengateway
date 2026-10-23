@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Quennar"
 ---
 
-Chuyển hướng đến [Quennar](../Q/Quennar.md).
+Chuyển hướng tới [Quennar](../Q/Quennar.md).

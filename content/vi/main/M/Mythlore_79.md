@@ -49,7 +49,7 @@ infobox:
 - Serrano, Amanda. "T.H. White Sự bảo vệ của Guenever: Chân dung của một con người 'thực sự'."
 - Cô đơn, Douglas. "C.S. Lewis Nợ E.M. Forster của *'The Celestial Omnibus' and Other Stories*."
 - Adderley, C. M. "Những vấn đề sơ bộ: Những khúc dạo đầu bị bỏ quên cho Charles Williams' Arthuriad."
-- Hill, Darci N. '"Quân đội Nhà thờ" sống lại: Các yếu tố thần thoại trong Ngôi đền của George Herbert.'
+- Hill, Darci N. '"Chiến binh nhà thờ" hồi sinh: Các yếu tố thần thoại trong The Đền thờ của George Herbert.'
 - Smith, Arden R. "*Duzen* và *Ihrzen* trong bản dịch tiếng Đức của *The Lord of the Rings*."
 - Christopher, Joe R. "C.S. Lewis' Huyền thoại ngôn ngữ."
 - Simmons, Joe. “Nghệ thuật tưởng tượng và phụ nữ chiến binh: Một phê bình thẩm mỹ về hình ảnh nữ tính.”

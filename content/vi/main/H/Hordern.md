@@ -39,7 +39,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Những người miền Nam xứ Hordern được chú ý vì là hậu duệ của [Con Người](<../E/Easterlings_(First_Age).md>) có lòng trung thành đặc biệt mãnh liệt với [Morgoth](../M/Morgoth.md). [Bronwyn](../B/Bronwyn.md) sinh ra và lớn lên ở Hordern trong nhiều năm trước khi cô chuyển đến ngôi làng [Tirharad](../T/Tirharad.md)gần đó.
+Những người dân miền Nam xứ Hordern được chú ý vì là hậu duệ của [Con Người](<../E/Easterlings_(First_Age).md>) có lòng trung thành đặc biệt mãnh liệt với [Morgoth](../M/Morgoth.md). [Bronwyn](../B/Bronwyn.md) sinh ra và lớn lên ở Hordern trong nhiều năm trước khi cô chuyển đến ngôi làng [Tirharad](../T/Tirharad.md)gần đó.
 
 Khi một con bò thuộc [Tredwill](../T/Tredwill.md) bắt đầu có dấu hiệu bị bệnh, [Arondir](../A/Arondir.md) và Bronwyn hành trình đến Hordern để điều tra.
 

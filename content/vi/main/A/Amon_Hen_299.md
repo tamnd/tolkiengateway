@@ -45,12 +45,12 @@ infobox:
 - Bìa trước: Annatar của Neldeathstar
 - **2** - Từ bàn biên tập
 - **4** - Đại hội đồng cổ đông thường niên 2023
-- **6** - Định giá Trung Địa: Suy ngẫm về Những Chiếc Nhẫn Quyền Năng của Amazon bởi Michael Livesey
+- **6** - Định giá Trung Địa: Suy ngẫm về Những Chiếc Nhẫn Quyền Năng của Amazon của Michael Livesey
 - **12** - “Come What May”: về Vẻ đẹp không tì vết của Những Chiếc Nhẫn Quyền Năng và lý do tại sao tôi lại hào hứng muốn biết thêm về S.R. Westvik
 - **16** - Làm thế nào Frodo Gặp Beren & Lúthien của Starý Bral
-- **18** - Màn hình chính giữa: Galadriel của Christopher Pickman
+- **18** - Màn hình giữa: Galadriel của Christopher Pickman
 - **20** - Liên quan đến phân biệt chủng tộc và Tolkien của Connor McClain
-- **26** - Bốn lần phục hồi đá Shire của Tom Knight
+- **26** - Phục hồi bốn viên đá Shire của Tom Knight
 - **28** - Mathom
 - **30** - Hẹn hò Tolkien #5 của Mick Henry
 - **31** - Tin tức từ Fangorn

@@ -61,7 +61,7 @@ infobox:
 - Vấn đề về lưng
 - Gói của Brin
     - Bởi: [Brin Dunsire](../B/Brin_Dunsire.md)
-- Hãy mỉm cười/Nói chuyện dân ca
+- Hãy mỉm cười/Nói chuyện dân gian
 - Đánh giá: *[The Languages of Middle-earth](../T/The_Languages_of_Tolkien's_Middle-earth.md)*
     - Bởi: [Helen Armstrong](../H/Helen_Armstrong.md)
 - Đánh giá: Cera-mix

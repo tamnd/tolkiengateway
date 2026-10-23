@@ -40,7 +40,7 @@ Ciryamir, cha của [Akhôrahil](../F/Fifth_of_the_Nazgûl.md), đã đến Khâ
 <span><div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Đừng nhầm lẫn với <a href="../H/Hyarnustar.md" title="Hyarnustar">Hyarnustar</a> trên đảo <a href="../N/Númenor.md" title="Númenor">Númenor</a></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Tên Hyarn đã được sử dụng trong các ấn phẩm MERP trước đó, chẳng hạn như Bóng Tối ở miền Nam hoặc trên bản đồ lục địa Trung Địa</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Tên Hyarn đã được sử dụng trong MERP ấn phẩm trước đó, chẳng hạn như Bóng Tối ở miền Nam, hoặc trên bản đồ lục địa Trung Địa</span>
 </li>
 </ol></div></span>
 

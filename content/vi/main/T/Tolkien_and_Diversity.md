@@ -45,7 +45,7 @@ infobox:
 - Lời giới thiệu của Will Sherwood
 - "Khát vọng chiếc nhẫn: cuộc phiêu lưu của một học giả Ấn Độ trong hành trình tìm kiếm vương quốc nguy hiểm" của Sonali Arvind Chunodkar
 - "Dịch thuật như một phương tiện đại diện và đa dạng trong giới học thuật và người hâm mộ Tolkien" của Martha Celis-Mendoza
-- (Bản gốc tiếng Tây Ban Nha) "La traducción como medio de đại diện và đa dạng hóa en los estudios sobre Tolkien entre la academia y los fans" của Martha Celis-Mendoza
+- (Bản gốc tiếng Tây Ban Nha) "La traducción como medio de re diệnación y diversidad en los estudios sobre Tolkien entre la academia y los fans" của Martha Celis-Mendoza
 - "Cách những người vô thần, những người theo thuyết bất khả tri và những người theo thuyết hoạt hình tương tác với Huyền thoại của Tolkien" của Robin Anne Reid
 - "Những ngôi sao ít kỳ lạ hơn: Phân tích về hư cấu fanfic và sự đại diện trong cộng đồng người hâm mộ Tolkien" của Dawn Walls-Thumma
 - "Những tầm nhìn ẩn giấu: Hình tượng về sự thay đổi trong các minh họa của Khối Xô Viết cho Chúa tể của những chiếc nhẫn" của Joel Merriner

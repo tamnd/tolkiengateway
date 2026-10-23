@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andróg"
 ---
 
-Chuyển hướng tới [Andróg](Andróg.md).
+Chuyển hướng đến [Andróg](Andróg.md).

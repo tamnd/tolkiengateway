@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Maudlin, Lynn"
 ---
 
-**Lynn Maudlin**, ca sĩ, nhạc sĩ và nghệ sĩ, đã tạo ra [Lịch KHÔNG Tolkien năm 1990](../T/The_1990_NOT_Tolkien_Calendar.md) cho [Hiệp hội thần thoại](../T/The_Mythopoeic_Society.md) vào năm 1989. Lynn là Cán bộ đặt vé Bắc Mỹ cho [Hội nghị Tolkien](../T/The_Tolkien_Society.md) năm 1992 của [Hội nghị trăm năm Tolkien](../T/Tolkien_Centenary_Conference.md) và đóng vai trò là người liên lạc của ủy ban hội nghị với [Hội thần thoại](../M/Mythopoeic_Society.md).
+**Lynn Maudlin**, ca sĩ, nhạc sĩ và nghệ sĩ, đã tạo ra [Lịch KHÔNG Tolkien năm 1990](../T/The_1990_NOT_Tolkien_Calendar.md) cho [Hiệp hội thần thoại](../T/The_Mythopoeic_Society.md) vào năm 1989. Lynn là Cán bộ đặt chỗ Bắc Mỹ cho [Hội nghị Tolkien năm 1992](../T/The_Tolkien_Society.md) của [Hội nghị trăm năm Tolkien](../T/Tolkien_Centenary_Conference.md) và đóng vai trò là người liên lạc của ủy ban hội nghị với [Hội thần thoại](../M/Mythopoeic_Society.md).
 
 ## Liên kết ngoài {#External_links}
 

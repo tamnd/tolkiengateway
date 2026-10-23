@@ -47,7 +47,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Reginard là con trai của [Adelard Took](../A/Adelard_Took.md). Anh ấy đã có mặt tại bữa tiệc chia tay của [Bilbo](../B/Bilbo_Baggins.md) [Bữa tiệc chia tay](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Reginard là con trai của [Adelard Took](../A/Adelard_Took.md). Anh ấy đã có mặt tại [Bilbo](../B/Bilbo_Baggins.md) [Tiệc chia tay](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

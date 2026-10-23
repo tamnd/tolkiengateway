@@ -11,4 +11,4 @@ redirect_target: "Meássë"
 redirect_fragment: "Etymology"
 ---
 
-Chuyển hướng tới [Meássë](../M/Meássë.md#Etymology).
+Chuyển hướng đến [Meássë](../M/Meássë.md#Etymology).

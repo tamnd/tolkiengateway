@@ -515,7 +515,7 @@ Cho thấy những thành viên nổi bật của gia tộc Baggins.<sup id="cit
 
 <dl><dd>Bilbo hosts <a href="Bilbo&#39;s_Farewell_Party.md" title="Bilbo&#39;s Farewell Party">an 111th birthday party</a> at <a href="../T/The_Shire.md" title="The Shire">The Shire</a>. He dines with <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>, <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> and <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry.</a> During the party, he dissapears, using <a href="../T/The_One_Ring.md" title="The One Ring">The One Ring</a>. The Narrator then recounts that Bilbo gifted Frodo the Ring as a birthday present. Later, in <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, Bilbo tells of <a href="../Q/Quest_of_Erebor.md" title="Quest of Erebor">his journey</a> and discovery of the One Ring. Bilbo tells that he discovered the curious properties of the Ring and begun to understand that it was The One. On the morning following the <a href="../C/Council_of_Elrond.md" title="Council of Elrond">Council of Elrond</a>, Bilbo gifts Frodo his sword, <a href="../S/Sting.md" title="Sting">Sting</a>, and his <a href="../M/Mithril-coat.md" title="Mithril-coat">Mithril-coat</a>, noting that it is strong enough even to deflect the knives of <a href="../N/Nazgûl.md" title="Nazgûl">The Black Riders</a>, despite its light weight. After Frodo puts it on, Bilbo remarks that he looks like a true <a class="mw-redirect" href="../H/Hobbit.md" title="Hobbit">Hobbit</a>. Before the <a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Fellowship of the Ring</a> departed, Frodo and Bilbo huddle in a cloak on the stairs to conserve heat. As the Fellowship departs, Bilbo wishes them good luck.</dd></dl>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (1977 film)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd><a href="../O/Orson_Bean.md" title="Orson Bean">Orson Bean</a> was the voice of Bilbo.</dd></dl>
 
@@ -547,7 +547,7 @@ Giống như tất cả người Hobbit, Bilbo Baggins yêu thích cuộc sống
 
 ### Loạt chương trình phát thanh {#Radio_series}
 
-<b>1955: <a href="../T/The_Lord_of_the_Rings_(1955_radio_series).md" title="The Lord of the Rings (1955 radio series)"><i>The Lord of the Rings</i> (1955 radio series)</a>:</b>
+<b>1955: <a href="../T/The_Lord_of_the_Rings_(1955_radio_series).md" title="The Lord of the Rings (1955 radio series)"><i>The Lord of the Rings</i> (loạt đài phát thanh 1955)</a>:</b>
 
 <dl><dd>The voice of Bilbo is provided by <a href="../F/Felix_Felton.md" title="Felix Felton">Felix Felton</a>.</dd></dl>
 
@@ -567,7 +567,7 @@ Giống như tất cả người Hobbit, Bilbo Baggins yêu thích cuộc sống
 
 <dl><dd>Bilbo is played by Horst Bollman.</dd></dl>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (1981 radio series)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
 <dl><dd>Bilbo is portrayed by <a href="../J/John_Le_Mesurier.md" title="John Le Mesurier">John Le Mesurier</a>.</dd></dl>
 
@@ -603,7 +603,7 @@ Giống như tất cả người Hobbit, Bilbo Baggins yêu thích cuộc sống
 
 <dl><dd>Bilbo is the main protagonist and the titular playable character of the game. The story of <i>The Hobbit</i> is adapted rather faithfully, but many additional side-adventures for Bilbo are present, involving him killing multiple enemies. He performs several quests in the Shire before reaching Green Dragon, saves an elf named <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lianna&amp;action=edit&amp;redlink=1" title="Lianna (page does not exist)">Lianna</a> in Troll cave, rescues a Dwarf named <a href="Balfor.md" title="Balfor">Balfor</a> from Goblin-Town, uncovers a treachery among men of Lake-Town and helps Dwarves restore ancient working of Erebor, among other things. He is portrayed with red hair and is voiced by <a href="../M/Michael_Beattie.md" title="Michael Beattie">Michael Beattie</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Bilbo is a non-playable character, who resides at the <a href="../R/Rivendell.md" title="Rivendell">Last Homely House</a> in <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>. The player can find him at the <a href="../H/Hall_of_Fire.md" title="Hall of Fire">Hall of Fire</a>, chatting with <a href="../L/Lindir.md" title="Lindir">Lindir</a>. Among other things, he sends the players to Goblin-town with a task to verify several directions and turns in the place, which he had forgotten, but requires for the book he is writing.</dd></dl>
 

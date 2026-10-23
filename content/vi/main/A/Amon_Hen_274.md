@@ -62,7 +62,7 @@ infobox:
     - Bởi: Lyn Wilshire
 - Báo cáo: Oxonmoot - góc nhìn của người mới bắt đầu
     - Bởi: Jennifer Brooker
-- Ngài Walter Scott và Chiếc nhẫn duy nhất
+- Ngài Walter Scott và Người Nhẫn
     - Bởi: Sebastián Alejandro Freigeiro
 - Tình bạn tuyệt vời
     - Bởi: Dan Call

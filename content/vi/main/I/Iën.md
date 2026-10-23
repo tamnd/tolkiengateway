@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-ien"
 ---
 
-Chuyển hướng đến [-ien](../_/-ien.md).
+Chuyển hướng tới [-ien](../_/-ien.md).

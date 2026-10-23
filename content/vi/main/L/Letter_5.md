@@ -36,7 +36,7 @@ infobox:
 
 [Geoffrey Bache Smith](../G/Geoffrey_Bache_Smith.md) đã viết một lá thư cho Tolkien và kèm theo đó là lá thư của người bạn [Barrovian](../T/T.C.B.S..md) [Christopher Wiseman](../C/Christopher_Wiseman.md).
 
-Tolkien suy ngẫm về cái chết của người bạn chung của họ, [Robert Gilson](../R/Robert_Gilson.md) và bày tỏ sự không đồng tình với cách giải thích của Christopher về sự vĩ đại của Rob. Tolkien tin rằng sự vĩ đại mà Gilson đạt được khi chết khác với sự vĩ đại mà họ hình dung cho mình với tư cách là thành viên của T.C.B.S.
+Tolkien suy ngẫm về cái chết của người bạn chung của họ, [Robert Gilson](../R/Robert_Gilson.md) và bày tỏ sự không đồng tình với cách giải thích của Christopher về sự vĩ đại của Rob. Tolkien tin rằng sự vĩ đại mà Gilson đạt được khi chết khác với sự vĩ đại mà họ đã hình dung cho mình với tư cách là thành viên của T.C.B.S.
 
 Anh ấy thảo luận về cuộc đấu tranh của mình để dung hòa nguyện vọng của họ với thực tế về cái chết của Gilson và bày tỏ cảm giác mất mát cũng như không chắc chắn về tương lai của nhóm họ; “Thành thật mà nói, tôi cảm thấy rằng TCBS đã kết thúc – nhưng tôi không hoàn toàn chắc chắn rằng đó không phải là cảm giác không đáng tin cậy sẽ biến mất – có lẽ giống như một phép thuật khi chúng ta gặp lại nhau.” Tolkien chia sẻ hy vọng về việc TCBS tiếp tục hoạt động vì tác động của nó đối với cá nhân anh.
 

@@ -60,7 +60,7 @@ Trong [War of the Ring](../W/War_of_the_Ring.md), [Golasgil](../G/Golasgil.md), 
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Anfalas_map.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/37/The_Lord_of_the_Rings_Online_-_Anfalas_map.jpg/300px-The_Lord_of_the_Rings_Online_-_Anfalas_map.jpg" decoding="async" loading="lazy" width="300" height="225" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/37/The_Lord_of_the_Rings_Online_-_Anfalas_map.jpg/450px-The_Lord_of_the_Rings_Online_-_Anfalas_map.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/37/The_Lord_of_the_Rings_Online_-_Anfalas_map.jpg/600px-The_Lord_of_the_Rings_Online_-_Anfalas_map.jpg 2x" data-file-width="1024" data-file-height="768"/></a><figcaption>Map of Anfalas in<i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2023: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2023: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Added with the <i>Corsairs of Umbar</i> expansion, Anfalas has an arid coastal climate. Lord Golasgil ruled Anfalas from the the town of Lond Cirion, with the only other major settlements of Anfalas being a fishing town of Melgobas and Barad Faen located under one of the <a class="mw-redirect" href="../B/Beacons_of_Gondor.md" title="Beacons of Gondor">Beacons of Gondor</a>.</dd></dl>
 

@@ -68,9 +68,9 @@ infobox:
     - Bởi: [Jane Chance](../J/Jane_Chance.md)
 - "[Gandalf](../G/Gandalf.md) trong vai kẻ tra tấn: kẻ khủng bố đánh bom tích tắc và thủ tục tố tụng trong *The Lord of the Rings*của J.R.R. Tolkien"
     - Bởi: Adam Rosman
-- "Merry trọng tâm: Về cơn sốt Ring, có những cuộc phiêu lưu, bị bỏ qua và không bị bỏ lại phía sau"
+- "Merry tiêu điểm: Trên cơn sốt Nhẫn, có những cuộc phiêu lưu, bị bỏ qua và không bị bỏ lại phía sau"
     - Bởi: Hilary Longstaff
-- "Tolkien's Burning Briar - một lời giải thích thiên văn"
+- "Tolkien Burning Briar - một lời giải thích thiên văn"
     - Bởi: [Kristine Larsen](../K/Kristine_Larsen.md)
 - "Những góc nhìn về hiện thực trong *The Lord of the Rings*: Phần II - Thiên nhiên, cái đẹp và cái chết"
     - Bởi: Gerardo Barajas Garrido

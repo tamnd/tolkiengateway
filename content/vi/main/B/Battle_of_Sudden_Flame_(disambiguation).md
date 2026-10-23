@@ -22,7 +22,7 @@ images:
 
 ## Âm nhạc {#Music}
 
-- [Trận chiến ngọn lửa bất ngờ (bài hát)](<Battle_of_Sudden_Flame_(song).md>), một ca khúc trong album [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md) của [Blind Guardian](Blind_Guardian.md).
+- [Trận chiến ngọn lửa bất ngờ (bài hát)](<Battle_of_Sudden_Flame_(song).md>), một ca khúc trong album [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md) của [Người bảo vệ mù](Blind_Guardian.md).
 
 <hr style="margin-top:15px;"/>
 

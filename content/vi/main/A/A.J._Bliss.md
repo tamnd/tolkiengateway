@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Alan Bliss"
 ---
 
-Chuyển hướng tới [Alan Bliss](Alan_Bliss.md).
+Chuyển hướng đến [Alan Bliss](Alan_Bliss.md).

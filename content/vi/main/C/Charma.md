@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Harma"
 ---
 
-Chuyển hướng tới [Harma](../H/Harma.md).
+Chuyển hướng đến [Harma](../H/Harma.md).

@@ -23,7 +23,7 @@ Tiêu đề này xuất phát từ tuyên bố của Moorcock rằng bài viết
 
 ## Bản sửa đổi {#Revision}
 
-Những bản sửa đổi gần đây nhất của Moorcock đối với tác phẩm này đã bổ sung thêm việc đề cập đến các tác giả như Pratchett và Rowling và loại bỏ những cái tên mà ngày nay ít quen thuộc hơn. Ví dụ: từ bản gốc "...thành công. Đó là giọng điệu của Warwick Deepings *Sorrell and Son*, của John Steinbeck ở thời điểm tồi tệ nhất, hoặc, ở dạng phức tạp hơn..." và từ phiên bản sửa đổi "...thành công. Đó là giọng điệu của nhiều cuốn sách bán chạy nhất của Anh và Mỹ bị lãng quên, sách dành cho trẻ em được nhiều người nhớ đến, như Gió qua rặng liễu, bạn thường nghe thấy nó trong tiểu thuyết khu vực hướng tới khán giả địa phương, hoặc, ở dạng phức tạp hơn..."
+Những bản sửa đổi gần đây nhất của Moorcock đối với tác phẩm này đã bổ sung thêm việc đề cập đến các tác giả như Pratchett và Rowling và loại bỏ những cái tên mà ngày nay ít quen thuộc hơn. Ví dụ: từ bản gốc "...thành công. Đó là giọng điệu của Warwick Deepings *Sorrell and Son*, của John Steinbeck ở thời điểm tồi tệ nhất, hoặc, ở dạng phức tạp hơn..." và từ phiên bản sửa đổi "...thành công. Đó là giọng điệu của nhiều cuốn sách bán chạy nhất của Anh và Mỹ bị lãng quên, sách dành cho trẻ em được nhiều người nhớ đến, như The Wind in the Willows, bạn thường nghe thấy nó trong tiểu thuyết khu vực gửi đến khán giả địa phương, hoặc, ở dạng phức tạp hơn..."
 
 ## Liên kết ngoài {#External_links}
 

@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nói với cô Ronald rằng [Frodo](../F/Frodo_Baggins.md) không thích vũ khí, nhưng không phải là người theo chủ nghĩa hòa bình theo nghĩa hiện đại. Anh ta chỉ nghĩ rằng chiến đấu vật lý kém hiệu quả hơn những gì những người đàn ông tốt nghĩ. Tolkien tiếp tục kể cho cô Ronald nghe về đạo Công giáo của anh ấy, và lịch sử đó chỉ là một thất bại kéo dài, chỉ có thoáng qua về chiến thắng cuối cùng. <br>
+Tolkien nói với cô Ronald rằng [Frodo](../F/Frodo_Baggins.md) không thích vũ khí, nhưng không phải là người theo chủ nghĩa hòa bình theo nghĩa hiện đại. Anh ta chỉ nghĩ rằng chiến đấu vật lý kém hiệu quả hơn những gì những người đàn ông tốt nghĩ. Tolkien tiếp tục kể cho cô Ronald về đạo Công giáo của mình, và lịch sử đó chỉ là một thất bại kéo dài, chỉ có thoáng qua về chiến thắng cuối cùng. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
