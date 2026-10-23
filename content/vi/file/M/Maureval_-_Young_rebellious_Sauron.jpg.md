@@ -1,0 +1,34 @@
+---
+title: "File:Maureval - Young rebellious Sauron.jpg"
+page_id: 47405
+namespace: 6
+revision_id: 252739
+timestamp: "2014-08-17T16:07:19Z"
+source_url: "https://tolkiengateway.net/wiki/File:Maureval_-_Young_rebellious_Sauron.jpg"
+content_sha256: 3125e88af1f1166d1c7ee031ec8819d2f6878efe72e1cfd52b6b6e978a5f0999
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Maureval"
+  - "Images of Sauron"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/5/53/Maureval_-_Young_rebellious_Sauron.jpg"
+  mime: "image/jpeg"
+  size: 49652
+  width: 400
+  height: 582
+  sha1: "b88d90ee223bc460330bd17f847a0abf6674956e"
+  timestamp: "2014-08-17T16:07:19Z"
+  user: "Mith"
+---
+
+## Giấy phép {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Maureval</span></span>
+<p>This work is copyrighted and owned by Maureval. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> Maureval</li>
+<li><b>Website:</b> <a class="external free" href="http://maureval.deviantart.com" rel="noreferrer noopener" target="_blank">http://maureval.deviantart.com</a> and <a class="external free" href="http://www.behance.net/Maureval" rel="noreferrer noopener" target="_blank">http://www.behance.net/Maureval</a></li>
+<li><b><a href="../../project/C/Copyrights%252FMaureval.md" title="Tolkien Gateway:Copyrights/Maureval">Permission for use on Tolkien Gateway</a></b></li></ul></div>

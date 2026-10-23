@@ -1,0 +1,39 @@
+---
+title: "File:J.R.R. Tolkien - Second Silmarillion Map.jpg"
+page_id: 68801
+namespace: 6
+revision_id: 410041
+timestamp: "2024-10-06T06:34:29Z"
+source_url: "https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_Second_Silmarillion_Map.jpg"
+content_sha256: 6eb35ddfadca379e945f6faf46bc962a715de3141d5fb6898a400945ee79ae66
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Maps of Beleriand"
+  - "Maps by J.R.R. Tolkien"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/b/b4/J.R.R._Tolkien_-_Second_Silmarillion_Map.jpg"
+  mime: "image/jpeg"
+  size: 447598
+  width: 1715
+  height: 1338
+  sha1: "2fa124cf9eb237dcbd0e04a3b6a5b8f5124b0c5e"
+  timestamp: "2024-10-01T22:18:08Z"
+  user: "Interlinked"
+---
+
+## Tóm tắt {#Summary}
+
+Bản đồ tỷ lệ nhỏ được vẽ bởi [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) mô tả [Beleriand](../../main/B/Beleriand.md) cho Quenta Silmarillion vào những năm 1930.
+
+## Giấy phép {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
+<p>This work is copyrighted and owned by the <a class="external text" href="http://www.tolkienestate.com/" rel="noreferrer noopener" target="_blank">Tolkien Estate</a>. It is believed that the limited use of this file,
+</p>
+<ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

@@ -1,0 +1,17 @@
+---
+title: "Category:Knives"
+page_id: 60008
+namespace: 14
+revision_id: 335872
+timestamp: "2021-10-05T14:35:25Z"
+source_url: "https://tolkiengateway.net/wiki/Category:Knives"
+content_sha256: d90d1008e0a9bade17d4d85cdc2ed93b04bffcfe1430ac5143e0fdb99bd46abd
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Weapons"
+images:
+  - "CdxIconArticle.svg"
+---
+
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../../main/K/Knives.md" title="Knives">Knives</a></b></div></div>

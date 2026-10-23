@@ -1,0 +1,73 @@
+---
+title: "Mythlore 99/100"
+display_title: "<i>Mythlore</i> 99/100"
+page_id: 64576
+namespace: 0
+revision_id: 432816
+timestamp: "2026-01-31T04:41:45Z"
+source_url: "https://tolkiengateway.net/wiki/Mythlore_99/100"
+content_sha256: 33a2e063c872c9576a0e6bb719c1fdc6bf739aaf313a9b39f928560ba913d97c
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Mythlore"
+hidden_categories:
+  - "Pages with non-sufficient width image in infobox"
+sort_keys:
+  "Pages with non-sufficient width image in infobox": "Mythlore 099/100"
+  "Mythlore": "Mythlore 099/100"
+images:
+  - "Mythlore_99-100.jpg"
+  - "WikimediaUI-ArrowPrevious-ltr.svg"
+  - "WikimediaUI-ArrowNext-ltr.svg"
+infobox:
+  - label: "Editor"
+    value: "Janet Brennan Croft"
+  - label: "Publisher"
+    value: "Mythopoeic Society"
+  - label: "Released"
+    value: "Fall/Winter 2007"
+  - label: "Format"
+    value: "Paperback"
+  - label: "Pages"
+    value: "218"
+  - label: "Preceded by"
+    value: "Mythlore 97/98"
+  - label: "Followed by"
+    value: "Mythlore 101/102"
+---
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_99-100.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a1/Mythlore_99-100.jpg/320px-Mythlore_99-100.jpg" decoding="async" loading="lazy" width="320" height="452" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/a/a1/Mythlore_99-100.jpg 1.5x" data-file-width="354" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 99/100</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../J/Janet_Brennan_Croft.md" title="Janet Brennan Croft">Janet Brennan Croft</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Fall/Winter <a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">218</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_97%252F98.md" title="Mythlore 97/98">Mythlore 97/98</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_101%252F102.md" title="Mythlore 101/102">Mythlore 101/102</a></td></tr></tbody></table>
+
+<b><i>Mythlore</i> 99/100</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol26/iss1/" rel="noreferrer noopener" target="_blank">Tập 26, Số 1/2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+
+## Nội dung {#Contents}
+
+#### Bài viết {#Articles}
+
+- Huttar, Charles A. "'Sâu nói dối Biển-Nỗi khao khát': Inklings về quê hương."
+- Glyer, Diana Pavlac. "Trung tâm của Inklings: Lewis? Williams? Barfield? Tolkien?"
+- Campbell, Ethan và Robert Jackson. "'Tốt, Không an toàn': Cấu trúc so với sự hỗn loạn ở Narnia và Xưởng viết."
+- Seddon, Eric. "*Letters to Malcolm* và rắc rối với Narnia: C.S. Lewis, J.R.R. Tolkien, và cuộc khủng hoảng năm 1949 của họ."
+- Nikakis, Karen Simpson. "Vương quyền thiêng liêng: Aragorn với tư cách là Người chính nghĩa và hy sinh Vua trong *The Lord of the Rings*."
+- Sabo, Deborah. "Khảo cổ học và ý nghĩa lịch sử ở Trung Địa của J.R.R. Tolkien."
+- Birns, Nicholas. "Bí ẩn của Radagast: Sửa đổi, Melodrama và Chiều sâu."
+- Berman, Ruth. "Tolkien khi còn là con của *The Green Fairy Book*."
+- Trưởng phòng, Hayden. "Ham muốn bắt chước trong thần thoại của Tolkien: Quan điểm của Girardian."
+- Bruce, Alexander M. "Maldon và Moria: Về Byrhtnoth, Gandalf, và Chủ nghĩa anh hùng ở *The Lord of the Rings*."
+- Smith, Melissa. "Trong và ngoài nước: Éowyn đóng vai Cô dâu chiến tranh trong *The Lord of the Rings*."
+- Christopher, Joe R. "Niềm tin ngoại đạo vào *The Serpent's Tooth*."
+- McInnis, Gilbert. "Đức Quốc xã, Thần thoại và Tư tưởng toàn trị trong *Mother Night*của Kurt Vonnegut."
+
+#### Tính năng {#Features}
+
+- Croft, Janet Brennan. Biên tập.
+
+#### Đánh giá {#Reviews}
+
+- *Milton, Spenser và Biên niên sử Narnia: Nguồn văn học cho tiểu thuyết của C.S. Lewis.* Elizabeth Baird Hardy. Được đánh giá bởi Charles A. Huttar.
+- *C.S. Lewis: Life, Works, and Legacy.* Biên tập bởi Bruce L. Edwards. Được đánh giá bởi Jason Fisher.
+- *Công ty mà họ nắm giữ: C.S. Lewis và J.R.R. Tolkien với tư cách là Nhà văn trong cộng đồng.* Diana Pavlac Glyer. Được đánh giá bởi Andrew Lazo.
+- *Rễ và Nhánh: Các bài viết chọn lọc trên Tolkien.* Tom Shippey. Được đánh giá bởi Jason Fisher.
+
+<div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 97/98</div></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_97%252F98.md" title="Mythlore 97/98">Mythlore 97/98</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 99/100</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 101/102</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_101%252F102.md" title="Mythlore 101/102">Mythlore 101/102</a></div></div></div>

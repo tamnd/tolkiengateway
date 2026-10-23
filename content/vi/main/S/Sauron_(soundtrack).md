@@ -1,0 +1,92 @@
+---
+title: "Sauron (soundtrack)"
+page_id: 72188
+namespace: 0
+revision_id: 429242
+timestamp: "2025-12-11T15:50:15Z"
+source_url: "https://tolkiengateway.net/wiki/Sauron_(soundtrack)"
+content_sha256: 218b64aa52ce029bfcf243d71f4de1506b683c548c2cac092d5a55b0361744e0
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)"
+images:
+  - "The_Lord_of_the_Rings_-_The_Rings_of_Power_(Season_One_-_Amazon_Original_Series_Soundtrack).jpg"
+infobox:
+  - label: "Album"
+    value: "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)"
+  - label: "Composed by"
+    value: "Bear McCreary"
+  - label: "Arranged by"
+    value: "Bear McCreary"
+  - label: "Written by"
+    value: "Bear McCreary"
+  - label: "Duration"
+    value: "2:45"
+  - label: "Track No."
+    value: "8"
+  - label: "Previous"
+    value: "Númenor"
+  - label: "Next"
+    value: "Valinor"
+---
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Rings_of_Power_(Season_One_-_Amazon_Original_Series_Soundtrack).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d6/The_Lord_of_the_Rings_-_The_Rings_of_Power_%28Season_One_-_Amazon_Original_Series_Soundtrack%29.jpg/320px-The_Lord_of_the_Rings_-_The_Rings_of_Power_%28Season_One_-_Amazon_Original_Series_Soundtrack%29.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d6/The_Lord_of_the_Rings_-_The_Rings_of_Power_%28Season_One_-_Amazon_Original_Series_Soundtrack%29.jpg/480px-The_Lord_of_the_Rings_-_The_Rings_of_Power_%28Season_One_-_Amazon_Original_Series_Soundtrack%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d6/The_Lord_of_the_Rings_-_The_Rings_of_Power_%28Season_One_-_Amazon_Original_Series_Soundtrack%29.jpg/640px-The_Lord_of_the_Rings_-_The_Rings_of_Power_%28Season_One_-_Amazon_Original_Series_Soundtrack%29.jpg 2x" data-file-width="1000" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sauron</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md" title="The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)">The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a></td></tr><tr><th scope="row" class="tg-infobox-label">Arranged by</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a></td></tr><tr><th scope="row" class="tg-infobox-label">Written by</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">2:45</td></tr><tr><th scope="row" class="tg-infobox-label">Track No.</th><td class="tg-infobox-data">8</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="../N/Númenor_(soundtrack).md" title="Númenor (soundtrack)">Númenor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Valinor_(soundtrack)&amp;action=edit&amp;redlink=1" title="Valinor (soundtrack) (page does not exist)">Valinor</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/3WrsedZoaPZhmJvCoENDLc"></iframe></span>
+<p class="mw-empty-elt"></p>
+</figure></td></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="youtube" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; autoplay" modestbranding="1" allowfullscreen="true" width="288" height="80" src="//www.youtube-nocookie.com/embed/nmxz5LvIh48"></iframe></span>
+<p class="mw-empty-elt"></p>
+</figure></td></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="soundcloud" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; autoplay" scrolling="no" width="288" height="80" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/bear-mccreary/sauron&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe></span>
+<p class="mw-empty-elt"></p>
+</figure></td></tr></tbody></table>
+
+**Sauron** là bài hát thứ tám trong [*The Lord of the Rings: The Rings of Power* (Phần một: Nhạc phim loạt phim gốc của Amazon)](<../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md>).
+
+## Lời bài hát {#Lyrics}
+
+<table class="wikitable" style="margin:auto">
+<tbody><tr>
+<th><b><a href="../B/Black_Speech.md" title="Black Speech">Black Speech</a></b>
+</th>
+<th><b>English</b>
+</th></tr>
+<tr>
+<td>Nampat <a href="../B/Burzum.md" title="Burzum">burzum</a>-ank
+</td>
+<td>Death into darkness
+</td></tr>
+<tr>
+<td><a href="../A/Ash.md" title="Ash">Ash</a> <a href="../G/Gûl.md" title="Gûl">gûl</a> ishi <a href="../G/Ghâsh.md" title="Ghâsh">ghâsh</a>
+</td>
+<td>One phantom in fire
+</td></tr>
+<tr>
+<td>Nampat <a href="../B/Burzum.md" title="Burzum">burzum</a>-ank
+</td>
+<td>Death into darkness
+</td></tr>
+<tr>
+<td><a href="../A/Agh.md" title="Agh">Agh</a> <a href="../A/Ash.md" title="Ash">ash</a> <a href="../G/Gûl.md" title="Gûl">gûl</a> krimp-at ishi <a href="../G/Ghâsh.md" title="Ghâsh">ghâsh</a>
+</td>
+<td>And one phantom to bind them in fire
+</td></tr>
+<tr>
+<td>Nampat <a href="../B/Burzum.md" title="Burzum">burzum</a>-ank
+</td>
+<td>Death into darkness
+</td></tr>
+<tr>
+<td><a href="../A/Ash.md" title="Ash">Ash</a> <a href="../G/Gûl.md" title="Gûl">gûl</a> ishi <a href="../G/Ghâsh.md" title="Ghâsh">ghâsh</a>
+</td>
+<td>One phantom in fire
+</td></tr>
+<tr>
+<td>Nampat <a href="../B/Burzum.md" title="Burzum">burzum</a>-ank
+</td>
+<td>Death into darkness
+</td></tr>
+<tr>
+<td><a href="../A/Agh.md" title="Agh">Agh</a> <a href="../A/Ash.md" title="Ash">ash</a> <a href="../G/Gûl.md" title="Gûl">gûl</a> krimp-at ishi <a href="../G/Ghâsh.md" title="Ghâsh">ghâsh</a>
+</td>
+<td>And one phantom to bind them in fire
+</td></tr>
+</tbody></table>

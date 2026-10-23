@@ -1,0 +1,15 @@
+---
+title: "Category:Amiga games"
+page_id: 21773
+namespace: 14
+revision_id: 196024
+timestamp: "2012-06-13T18:54:25Z"
+source_url: "https://tolkiengateway.net/wiki/Category:Amiga_games"
+content_sha256: 894bc2c01425c9e38b6f12653f7cc47ad523ed792dd200f6a2f18b495bc63754
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Video games by platform"
+---
+
+Danh mục này liệt kê tất cả **trò chơi Amiga** liên quan đến tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

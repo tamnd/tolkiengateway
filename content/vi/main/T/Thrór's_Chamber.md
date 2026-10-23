@@ -1,0 +1,13 @@
+---
+title: "Thrór's Chamber"
+page_id: 39090
+namespace: 0
+revision_id: 192277
+source_url: "https://tolkiengateway.net/wiki/Thrór's_Chamber"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Great Chamber of Thrór"
+---
+
+Chuyển hướng tới [Đại sảnh Thrór](../G/Great_Chamber_of_Thrór.md).

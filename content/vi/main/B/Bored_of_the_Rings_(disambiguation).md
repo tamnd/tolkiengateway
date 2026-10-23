@@ -1,0 +1,33 @@
+---
+title: "Bored of the Rings (disambiguation)"
+page_id: 25761
+namespace: 0
+revision_id: 101651
+timestamp: "2010-03-31T18:05:03Z"
+source_url: "https://tolkiengateway.net/wiki/Bored_of_the_Rings_(disambiguation)"
+content_sha256: 367e0145dd495166ec879f1df1b10bc1260b8462ec09827a4498322cc2d6d39d
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Disambiguation"
+images:
+  - "Disambig.png"
+---
+
+**Chán những chiếc nhẫn** là một cuốn sách châm biếm của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Harvard_Lampoon&amp;action=edit&amp;redlink=1" title="Harvard Lampoon (page does not exist)">Harvard Lampoon</a>. Kể từ khi xuất bản, tựa sách này đã được sử dụng cho một số tác phẩm châm biếm khác, hầu hết không liên quan đến cuốn sách.
+
+- *[Bored of the Rings (book)](<Bored_of_the_Rings_(book).md>)*, sách [1969](../_/1969.md) gốc.
+- *[Bored of the Rings (video game)](<Bored_of_the_Rings_(video_game).md>)*, một trò chơi phiêu lưu nhại [1985](../_/1985.md).
+- *[Bored of the Rings (comic)](<Bored_of_the_Rings_(comic).md>)*, một cốt truyện gồm ba số của tạp chí MAD, mang tính châm biếm *The Lord of the Rings*.
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Bored_of_the_Rings:_The_Trilogy&amp;action=edit&amp;redlink=1" title="Bored of the Rings: The Trilogy (page does not exist)">Chán những chiếc nhẫn: Bộ ba</a></i>, một bộ phim giả mạo [2005](../_/2005.md).
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Bored_of_the_Rings_(theatre)&amp;action=edit&amp;redlink=1" title="Bored of the Rings (theatre) (page does not exist)">Chán những chiếc nhẫn (sân khấu)</a></i>, một buổi biểu diễn tạp kỹ [2006](../_/2006.md).
+- *Bored of the Rings*, [một tập của *The Sarah Silverman Program*](../T/Tolkien's_works_in_popular_media.md#The_Sarah_Silverman_Program)*.*
+
+<hr style="margin-top:15px;"/>
+
+<div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+</p>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Bored_of_the_Rings_(disambiguation)" title="Special:WhatLinksHere/:Bored of the Rings (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+</div>

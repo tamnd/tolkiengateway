@@ -47,25 +47,25 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/U/U-yasuk_-_Girion.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7e/U-yasuk_-_Girion.png/320px-U-yasuk_-_Girion.png" decoding="async" loading="lazy" width="320" height="384" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7e/U-yasuk_-_Girion.png/480px-U-yasuk_-_Girion.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/7e/U-yasuk_-_Girion.png/640px-U-yasuk_-_Girion.png 2x" data-file-width="800" data-file-height="960"/></a><figcaption>&#34;Girion&#34; by <a href="../../category/I/Images_by_U-yasuk.md" title="Category:Images by U-yasuk">U-yasuk</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../N/Northmen.md" title="Northmen">Northman</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Girion</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data"><a href="../L/Lord_of_Dale.md" title="Lord of Dale">Lord of Dale</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../D/Dale.md" title="Dale">Dale</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../L/Language_of_Dale.md" title="Language of Dale">language of Dale</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2770.md" title="Third Age 2770">2770</a><br/><a href="../D/Dale.md" title="Dale">Dale</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data">Unnamed wife<sup id="cite_ref-Fire_1-0" class="reference"><a href="#cite_note-Fire-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data">At least 2 sons<sup id="cite_ref-Fire_1-1" class="reference"><a href="#cite_note-Fire-1">[1]</a></sup></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Clothing</th><td class="tg-infobox-data"><a href="../N/Necklace_of_Girion.md" title="Necklace of Girion">Necklace</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Girion.md" title="Category:Images of Girion">Images of Girion</a></td></tr></tbody></table>
 
-**Girion** (d. [T.A.](../T/Third_Age.md) [2770](../T/Third_Age_2770.md)<sup id="cite_ref-TA_2-0" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>) là Chúa tể cuối cùng của [Dale](../D/Dale.md).
+**Girion** (mất năm [Kỷ Đệ Tam](../T/Third_Age.md) [2770](../T/Third_Age_2770.md)<sup id="cite_ref-TA_2-0" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>) là Lãnh chúa cuối cùng của [Dale](../D/Dale.md).
 
 ## Lịch sử {#History}
 
-Girion là [Người của Dale](../M/Men_of_Dale.md) và trở thành chúa tể của thành phố. Không có nhiều điều có thể nói về cuộc đời và sự cai trị của ông, ngoài việc ông có một người vợ và ít nhất hai con trai.<sup id="cite_ref-Fire_1-2" class="reference"><a href="#cite_note-Fire-1">[1]</a></sup>
+Girion là một [Người Dale](../M/Men_of_Dale.md) và trở thành lãnh chúa của thành phố. Không có nhiều điều có thể kể về cuộc đời và thời kỳ cai trị của ông, ngoài việc ông có một người vợ và ít nhất hai người con trai.<sup id="cite_ref-Fire_1-2" class="reference"><a href="#cite_note-Fire-1">[1]</a></sup>
 
-Anh ta sở hữu một [Vòng cổ](../N/Necklace_of_Girion.md) làm từ năm trăm viên ngọc lục bảo. Khi [Người Lùn Erebor](../D/Dwarves_of_Erebor.md) rèn một chiếc áo khoác gồm những chiếc nhẫn có liên kết với người lùn, có lẽ là từ [mithril](../M/Mithril.md), cho con trai cả của mình, Girion đã đưa chiếc vòng cổ cho Người Lùn như một khoản thanh toán.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Ông sở hữu một [Chiếc vòng cổ](../N/Necklace_of_Girion.md) được làm từ năm trăm viên ngọc lục bảo. Khi [Người Lùn ở Erebor](../D/Dwarves_of_Erebor.md) rèn một chiếc áo giáp bằng những vòng khuyên liên kết kiểu Người Lùn, có lẽ làm từ [mithril](../M/Mithril.md), cho con trai cả của ông, Girion đã trao chiếc vòng cổ cho Người Lùn để thanh toán.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Anh đã chứng kiến ​​sự xuất hiện của [Smaug](../S/Smaug.md) khi [Rồng](../D/Dragons.md) tấn công Dale và vương quốc [người lùn](../D/Dwarves.md) lân cận của [Erebor](../L/Lonely_Mountain.md). Girion đã thiệt mạng trong sự kiện đó nhưng vợ và con của anh ta đã trốn thoát xuống [River Running](../R/River_Running.md).<sup id="cite_ref-Fire_1-3" class="reference"><a href="#cite_note-Fire-1">[1]</a></sup>
+Ông đã chứng kiến sự xuất hiện của [Smaug](../S/Smaug.md) khi [Rồng](../D/Dragons.md) tấn công Dale và vương quốc [Người Lùn](../D/Dwarves.md) láng giềng [Erebor](../L/Lonely_Mountain.md). Girion đã thiệt mạng trong biến cố đó, nhưng vợ và con ông đã trốn thoát xuôi theo [Sông Chảy](../R/River_Running.md).<sup id="cite_ref-Fire_1-3" class="reference"><a href="#cite_note-Fire-1">[1]</a></sup>
 
 ## Di sản {#Legacy}
 
-Nhiều năm sau, hậu duệ [Bard](../B/Bard.md) của ông vẫn sống ở [Esgaroth](../L/Lake-town.md). Anh ta trả thù con rồng bằng cách giết nó bằng [một mũi tên](../B/Black_Arrow~68980.md).<sup id="cite_ref-Fire_1-4" class="reference"><a href="#cite_note-Fire-1">[1]</a></sup> Vòng cổ của anh ta được tìm thấy trong kho báu của con rồng.
+Nhiều năm sau, hậu duệ của ông là [Bard](../B/Bard.md) vẫn sống tại [Esgaroth](../L/Lake-town.md). Ông đã trả thù con rồng bằng cách giết nó bằng [một mũi tên](../B/Black_Arrow~68980.md).<sup id="cite_ref-Fire_1-4" class="reference"><a href="#cite_note-Fire-1">[1]</a></sup> Chiếc vòng cổ của ông được tìm thấy giữa kho báu của con rồng.
 
 ## Từ nguyên {#Etymology}
 
-Mặc dù tên của Dale là [Bắc Âu](../N/Norse.md), nhưng *Girion* có vẻ là tên [Sindarin](../S/Sindarin.md). Ý nghĩa không rõ ràng nhưng *[Etymologies](../T/The_Etymologies.md)* đưa ra một [Noldorin](../N/Noldorin.md) [gốc](../S/Sundocarme.md) GIR ("rùng mình, rùng mình"),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> có thể liên quan.
+Mặc dù các tên gọi ở Dale đều có nguồn gốc [Bắc Âu](../N/Norse.md), *Girion* dường như là một cái tên thuộc ngôn ngữ [Sindarin](../S/Sindarin.md). Ý nghĩa của tên này chưa rõ ràng, nhưng *[Etymologies](../T/The_Etymologies.md)* đưa ra một [căn tố](../S/Sundocarme.md) [Noldorin](../N/Noldorin.md) GIR ("run rẩy, rung động"),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> có thể có liên quan.
 
-## Phả hệ {#Genealogy}
+## Gia phả {#Genealogy}
 
 <div class="tg-familytree"><table class="citizen-overflow" cellspacing="0" cellpadding="0" border="0" align="center" style="">
 <tbody><tr align="center"><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><b>GIRION</b><br/><small><i>d. <a href="../T/Third_Age_2770.md" title="Third Age 2770">2770</a></i></small></td></tr><tr align="center"></tr>
@@ -80,9 +80,9 @@ Mặc dù tên của Dale là [Bắc Âu](../N/Norse.md), nhưng *Girion* có v�
 <tr align="center"><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a href="../B/Bard_II.md" title="Bard II">Bard II</a><br/><small><i>fl. <a href="../F/Fourth_Age.md" title="Fourth Age">Fourth Age</a></i></small></td></tr><tr align="center"></tr>
 </tbody></table></div>
 
-## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
+## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-### Girion trong các bản chuyển thể {#Girion_in_adaptations}
+### Girion trong các tác phẩm chuyển thể {#Girion_in_adaptations}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 235px">
@@ -98,7 +98,7 @@ Mặc dù tên của Dale là [Bắc Âu](../N/Norse.md), nhưng *Girion* có v�
 
 <dl><dd>Briefly seen in flashback to the <a href="../S/Sack_of_Erebor.md" title="Sack of Erebor">Sack of Erebor</a> in both the <a href="../T/The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md" title="The Hobbit: An Unexpected Journey (extended edition)">Extended Edition</a> of <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i> and in <i><a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Hobbit: The Desolation of Smaug</a></i>, Girion is portrayed by <a href="../L/Luke_Evans.md" title="Luke Evans">Luke Evans</a>, who also played Girion&#39;s descendant <a href="../B/Bard.md" title="Bard">Bard</a>.<sup id="cite_ref-ComingSoon_5-0" class="reference"><a href="#cite_note-ComingSoon-5">[5]</a></sup></dd></dl>
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể những chiếc nhẫn Trực tuyến</a></i>:</b>
 
 <dl><dd>Girion&#39;s true name is given as &#34;Geirjarn&#34;, of which &#34;Girion&#34; was an Elvish interpretation. He was the eight Lord of Dale and the third of his name. His son was named &#34;Brandjarn&#34; but took on the name &#34;<a href="../B/Brand.md" title="Brand">Brand</a>&#34; after escaping the Ruin of Dale.</dd></dl>
 

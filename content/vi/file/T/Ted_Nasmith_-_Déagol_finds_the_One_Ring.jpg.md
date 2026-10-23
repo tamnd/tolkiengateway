@@ -1,0 +1,38 @@
+---
+title: "File:Ted Nasmith - Déagol finds the One Ring.jpg"
+page_id: 71200
+namespace: 6
+revision_id: 424887
+timestamp: "2025-09-19T02:15:12Z"
+source_url: "https://tolkiengateway.net/wiki/File:Ted_Nasmith_-_Déagol_finds_the_One_Ring.jpg"
+content_sha256: 8b7a40ac1890ef481d9888e523d4f1bee9d7942208568ac01a8d5c29a5f26056
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Ted Nasmith"
+  - "Images of Déagol"
+  - "Images of the One Ring"
+  - "Images of Gollum"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/2/27/Ted_Nasmith_-_D%C3%A9agol_finds_the_One_Ring.jpg"
+  mime: "image/jpeg"
+  size: 27896
+  width: 300
+  height: 410
+  sha1: "02cb7fe4079fa818989f1fcb8aea6ecb3ab101dd"
+  timestamp: "2025-09-18T14:41:44Z"
+  user: "Paccyd33"
+---
+
+## Tóm tắt {#Summary}
+
+"[Déagol](../../main/D/Déagol.md) tìm thấy [Chiếc nhẫn duy nhất](../../main/T/The_One_Ring.md)" của [Ted Nasmith](../../main/T/Ted_Nasmith.md)
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Ted Nasmith</span></span>
+<p>This work is copyrighted and owned by <a href="../../main/T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> <a href="../../main/T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></li>
+<li><b>Website:</b> <a class="external text" href="http://www.tednasmith.com/" rel="noreferrer noopener" target="_blank">Ted Nasmith&#39;s website</a></li>
+<li><b><a href="../../project/C/Copyrights%252FTed_Nasmith.md" title="Tolkien Gateway:Copyrights/Ted Nasmith">Permission for use on Tolkien Gateway</a></b></li></ul></div>

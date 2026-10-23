@@ -1,0 +1,15 @@
+---
+title: "Category:Objects templates"
+page_id: 20744
+namespace: 14
+revision_id: 72572
+timestamp: "2008-10-21T22:46:08Z"
+source_url: "https://tolkiengateway.net/wiki/Category:Objects_templates"
+content_sha256: 136a5eb2fc3d512c27a7bace50ab19d09004852246014fa0bb3978ddf5d6fa0b
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Templates"
+---
+
+Mẫu đối tượng và vật phẩm.
