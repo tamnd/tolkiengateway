@@ -93,9 +93,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-Những **Những năm Mặt Trời** là thời điểm sau sự trỗi dậy đầu tiên của [Mặt Trời](../S/Sun.md) vào [Kỷ Đệ Nhất](../F/First_Age.md) cho đến nay.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Những **năm Mặt Trời** là khoảng thời gian bắt đầu sau lần [Mặt Trời](../S/Sun.md) mọc đầu tiên trong [Kỷ Đệ Nhất](../F/First_Age.md) và kéo dài đến hiện tại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Đơn vị thời gian của các Năm Mặt Trời là [*coranar*](../C/Coranar.md) ("vòng mặt trời"), còn được gọi là [*loa*](../L/Loa.md) ("tăng trưởng"). Cả hai thuật ngữ đều tương đương với 365 ngày, 5 giờ, 48 phút, 46 giây.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Đơn vị thời gian của những năm Mặt Trời là [*coranar*](../C/Coranar.md) ("vòng Mặt Trời"), còn được gọi là [*loa*](../L/Loa.md) ("sự sinh trưởng"). Cả hai thuật ngữ đều chỉ một khoảng thời gian tương đương 365 ngày, 5 giờ, 48 phút và 46 giây.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 
