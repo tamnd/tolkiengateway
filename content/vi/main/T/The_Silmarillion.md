@@ -78,115 +78,115 @@ infobox:
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien in <a href="../L/Letter_131.md" title="Letter 131">Letter 131</a> to <a href="../M/Milton_Waldman.md" title="Milton Waldman">Milton Waldman</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
 
-<i><b>The Silmarillion</b></i> là cuốn sách sưu tầm nhiều câu chuyện thần thoại khác nhau của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) diễn ra ở [Arda](../A/Arda.md), do con trai ông [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập và xuất bản sau khi qua đời ở [1977](../_/1977.md), với sự hỗ trợ của nhà văn tiểu thuyết giả tưởng [Guy Gavriel Kay](../G/Guy_Gavriel_Kay.md).
+<i><b>The Silmarillion</b></i> là cuốn sách tập hợp nhiều câu chuyện thần thoại của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), lấy bối cảnh tại [Arda](../A/Arda.md), do con trai ông là [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập và xuất bản năm [1977](../_/1977.md), sau khi ông qua đời, với sự hỗ trợ của nhà văn chuyên viết tiểu thuyết giả tưởng [Guy Gavriel Kay](../G/Guy_Gavriel_Kay.md).
 
-Nó bao gồm lịch sử của thế giới [Arda](../A/Arda.md) từ khi [Eä](../E/Eä.md) ra đời cho đến khi kết thúc [Kỷ Đệ Tam](Third_Age.md). Phần lớn cuốn sách bao gồm *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)*, chủ yếu liên quan đến hành động của [Noldor](../N/Noldor.md) và những câu chuyện về [Kỷ Đệ Nhất](../F/First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+Nó bao gồm lịch sử của thế giới [Arda](../A/Arda.md) từ khi [Eä](../E/Eä.md) ra đời cho đến khi kết thúc [Kỷ Đệ Tam](Third_Age.md). Phần lớn cuốn sách là \*[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)\*, chủ yếu kể về những chiến công của [Noldor](../N/Noldor.md) và những câu chuyện về thời [Kỷ Đệ Nhất](../F/First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 ## Nội dung {#Contents}
 
 - Lời nói đầu
-- Lời nói đầu cho lần xuất bản thứ hai
-- [Trích thư của J.R.R. Tolkien](../L/Letter_131.md)
+- Lời tựa cho ấn bản thứ hai
+- [Từ một bức thư của J.R.R. Tolkien](../L/Letter_131.md)
 
 - Phần I: <b><a href="../A/Ainulindalë.md" title="Ainulindalë"><i>Ainulindalë</i>: Âm nhạc của các Ainur</a></b>
 
-- Phần II: <b><a href="../V/Valaquenta.md" title="Valaquenta"><i>Valaquenta</i>: Tài khoản của Valar và Maiar theo truyền thuyết của Eldar</a></b>
+- Phần II: <b><a href="../V/Valaquenta.md" title="Valaquenta"><i>Valaquenta</i>: Lời thuật về Valar và Maiar theo tri thức truyền lại của Eldar</a></b>
 
-- Phần III: <b><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion"><i>Quenta Silmarillion</i>: Lịch sử của Silmaril</a></b>
+- Phần III: <b><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion"><i>Quenta Silmarillion</i>: Lịch sử của các Silmaril</a></b>
 
-1. "[Ngày bắt đầu](../O/Of_the_Beginning_of_Days.md)"
-2. "[Của Aulë và Yavanna](../O/Of_Aulë_and_Yavanna.md)"
+1. "[Về buổi đầu của các Kỷ nguyên](../O/Of_the_Beginning_of_Days.md)"
+2. "[Về Aulë và Yavanna](../O/Of_Aulë_and_Yavanna.md)"
 3. "[Về sự xuất hiện của Tiên tộc và sự giam cầm của Melkor](../O/Of_the_Coming_of_the_Elves_and_the_Captivity_of_Melkor.md)"
-4. "[Của Thingol và Melian](../O/Of_Thingol_and_Melian.md)"
-5. "[Của Eldamar và các Hoàng tử của Eldalië](../O/Of_Eldamar_and_the_Princes_of_the_Eldalië.md)"
-6. "[Của Fëanor và Giải mã Melkor](../O/Of_Fëanor_and_the_Unchaining_of_Melkor.md)"
-7. "[Về Silmaril và Sự bất ổn của Noldor](../O/Of_the_Silmarils_and_the_Unrest_of_the_Noldor.md)"
-8. "[Về bóng tối của Valinor](../O/Of_the_Darkening_of_Valinor.md)"
-9. "[Về chuyến bay của Noldor](../O/Of_the_Flight_of_the_Noldor.md)"
-10. "[Của Sindar](../O/Of_the_Sindar.md)"
-11. "[Về Mặt Trời và Mặt Trăng và việc Ẩn Valinor](../O/Of_the_Sun_and_Moon_and_the_Hiding_of_Valinor.md)"
-12. "[Của Con Người](../O/Of_Men.md)"
+4. "[Về Thingol và Melian](../O/Of_Thingol_and_Melian.md)"
+5. "[Về Eldamar và các hoàng tử của Eldalië](../O/Of_Eldamar_and_the_Princes_of_the_Eldalië.md)"
+6. "[Về Fëanor và việc giải phóng Melkor](../O/Of_Fëanor_and_the_Unchaining_of_Melkor.md)"
+7. "[Về các Silmaril và sự bất an của Noldor](../O/Of_the_Silmarils_and_the_Unrest_of_the_Noldor.md)"
+8. "[Về sự chìm vào bóng tối của Valinor](../O/Of_the_Darkening_of_Valinor.md)"
+9. "[Về cuộc đào thoát của Noldor](../O/Of_the_Flight_of_the_Noldor.md)"
+10. "[Về Sindar](../O/Of_the_Sindar.md)"
+11. "[Về Mặt Trời, Mặt Trăng và việc che giấu Valinor](../O/Of_the_Sun_and_Moon_and_the_Hiding_of_Valinor.md)"
+12. "[Về Con Người](../O/Of_Men.md)"
 13. "[Về sự trở lại của Noldor](../O/Of_the_Return_of_the_Noldor.md)"
-14. "[Về Beleriand và các Vương quốc của nó](../O/Of_Beleriand_and_its_Realms~31103.md)"
-15. "[Trong số Noldor ở Beleriand](../O/Of_the_Noldor_in_Beleriand.md)"
-16. "[Của Maeglin](../O/Of_Maeglin.md)"
-17. "[Về sự xuất hiện của Con Người vào Phương Tây](../O/Of_the_Coming_of_Men_into_the_West.md)"
-18. "[Về sự sụp đổ của Beleriand và sự sụp đổ của Fingolfin](../O/Of_the_Ruin_of_Beleriand_and_the_Fall_of_Fingolfin.md)"
-19. "[Của Beren and Lúthien](../O/Of_Beren_and_Lúthien.md)"
-20. "[Of the Fifth Battle: Nirnaeth Arnoediad](../O/Of_the_Fifth_Battle%253A_Nirnaeth_Arnoediad.md)"
-21. "[Của Túrin Turambar](../O/Of_Túrin_Turambar.md)"
-22. "[Về sự tàn tích của Doriath](../O/Of_the_Ruin_of_Doriath.md)"
-23. "[Của Tuor và Sự sụp đổ của Gondolin](../O/Of_Tuor_and_the_Fall_of_Gondolin.md)"
-24. "[Về hành trình Eärendil và Cuộc chiến thịnh nộ](../O/Of_the_Voyage_of_Eärendil_and_the_War_of_Wrath.md)"
+14. "[Về Beleriand và các vương quốc của nó](../O/Of_Beleriand_and_its_Realms~31103.md)"
+15. "[Về Noldor ở Beleriand](../O/Of_the_Noldor_in_Beleriand.md)"
+16. "[Về Maeglin](../O/Of_Maeglin.md)"
+17. "[Về sự xuất hiện của Con Người ở Phương Tây](../O/Of_the_Coming_of_Men_into_the_West.md)"
+18. "[Về sự tàn phá Beleriand và cái chết của Fingolfin](../O/Of_the_Ruin_of_Beleriand_and_the_Fall_of_Fingolfin.md)"
+19. "[Về Beren và Lúthien](../O/Of_Beren_and_Lúthien.md)"
+20. "[Về trận chiến thứ năm: Nirnaeth Arnoediad](../O/Of_the_Fifth_Battle%253A_Nirnaeth_Arnoediad.md)"
+21. "[Về Túrin Turambar](../O/Of_Túrin_Turambar.md)"
+22. "[Về sự diệt vong của Doriath](../O/Of_the_Ruin_of_Doriath.md)"
+23. "[Về Tuor và Sự sụp đổ của Gondolin](../O/Of_Tuor_and_the_Fall_of_Gondolin.md)"
+24. "[Về chuyến hải hành của Eärendil và Cuộc chiến Thịnh nộ](../O/Of_the_Voyage_of_Eärendil_and_the_War_of_Wrath.md)"
 
-- Phần IV: <b><a href="../A/Akallabêth.md" title="Akallabêth"><i>Akallabêth</i>: Phần Sự sụp đổ của Númenor</a></b>
+- Phần IV: <b><a href="../A/Akallabêth.md" title="Akallabêth"><i>Akallabêth</i>: Sự sụp đổ của Númenor</a></b>
 
-- Phần V: <i><b><a href="../O/Of_the_Rings_of_Power_and_the_Third_Age.md" title="Of the Rings of Power and the Third Age">Của Những Chiếc Nhẫn Quyền Năng và Kỷ Đệ Tam</a></b></i>
+- Phần V: <i><b><a href="../O/Of_the_Rings_of_Power_and_the_Third_Age.md" title="Of the Rings of Power and the Third Age">Về Những Chiếc Nhẫn Quyền Năng và Kỷ Đệ Tam</a></b></i>
 
-- Bảng
-    - *Genealogies*
-    - *The Sundering of the Elves*
+- Các bảng
+   - *Phả hệ*
+   - *Sự phân ly của Tiên tộc*
 - Lưu ý về cách phát âm
-- Danh mục tên
-- Phụ lục: Các thành phần trong Tên Quenya và Sindarin
+- Bảng tra cứu tên
+- Phụ lục: Các yếu tố cấu thành tên Quenya và Sindarin
 - [*Map of Beleriand*](../M/Map_of_Beleriand_and_the_Lands_to_the_North.md)
 
 ## Chữ khắc {#Inscriptions}
 
-Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở trang tiêu đề, nó viết:
+Trên trang tiêu đề có một dòng chữ được viết bằng các ký tự [Tengwar](Tengwar.md), nội dung như sau:
 
 <dl><dd>&#34;<i>The tales of the First Age when Morgoth dwelt in Middle-earth and the Elves made war upon him for the recovery of the <a href="../S/Silmarils.md" title="Silmarils">Silmarils</a> to which are appended the downfall of Númenor and the history of the <a href="../R/Rings_of_Power.md" title="Rings of Power">Rings of Power</a> and the Third Age in which these tales come to their end.</i>&#34;</dd></dl>
 
 ## Tổng quan {#Overview}
 
-*The Silmarillion* được cho là (bởi một số độc giả) được dịch từ bộ ba tập *[Translations from the Elvish](Translations_from_the_Elvish.md)* của [Bilbo](../B/Bilbo.md), mà ông viết khi ở [Rivendell](../R/Rivendell.md).
+*The Silmarillion* được một số độc giả cho là bản dịch từ bộ ba tập *[Translations from the Elvish](Translations_from_the_Elvish.md)* của [Bilbo](../B/Bilbo.md), mà ông đã viết khi ở [Rivendell](../R/Rivendell.md).
 
 Nó bao gồm năm phần. Đầu tiên, *[Ainulindalë](../A/Ainulindalë.md)*, kể về việc tạo [Eä](../E/Eä.md), *World that Is*. Phần thứ hai, *[Valaquenta](../V/Valaquenta.md)*, mô tả về [Valar](../V/Valar.md) và [Maiar](../M/Maiar.md), những thực thể mạnh mẽ của Eä. Phần tiếp theo, *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)*, phần lớn của bộ sưu tập, ghi lại lịch sử của các sự kiện trước và trong [Kỷ Đệ Nhất](../F/First_Age.md), bao gồm các cuộc chiến tranh giành ba viên ngọc, [Silmaril](../S/Silmarils.md), đã đặt tên cho cuốn sách. Phần thứ tư, *[Akallabêth](../A/Akallabêth.md)*, kể lại lịch sử của [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md) và con người của nó, diễn ra trong [Kỷ Đệ Nhị](../S/Second_Age.md). Phần cuối cùng, *[Of the Rings of Power and the Third Age](../O/Of_the_Rings_of_Power_and_the_Third_Age.md)*, là phần trình bày ngắn gọn về các tình huống dẫn đến và được trình bày trong *The Lord of the Rings*.
 
-Năm phần này ban đầu là những tác phẩm riêng biệt, nhưng J.R.R. Tolkien mong muốn rõ ràng là chúng được xuất bản cùng nhau. Vì Tolkien chết trước khi ông có thể viết lại đầy đủ các truyền thuyết khác nhau nên con trai ông Christopher đã sử dụng tài liệu từ những bản thảo cũ của cha mình để điền vào cuốn sách.
+Năm phần này ban đầu là những tác phẩm riêng biệt, nhưng J.R.R. Tolkien đã bày tỏ rõ mong muốn rằng chúng được xuất bản cùng nhau. Vì Tolkien qua đời trước khi kịp hoàn thành việc viết lại toàn bộ các truyền thuyết nên con trai ông, Christopher, đã sử dụng tư liệu từ những bản thảo cũ của cha mình để hoàn thiện nội dung cuốn sách.
 
 Cuốn sách khám phá nhiều chủ đề đa dạng lấy cảm hứng từ nhiều nguồn cổ xưa, trung cổ và hiện đại, bao gồm sử thi Phần Lan *[Kalevala](../K/Kalevala.md)*, tiếng Hebrew Kinh thánh, Bắc Âu sagas, thần thoại Hy Lạp, Celtic thần thoại và [Chiến tranh thế giới thứ nhất](../W/World_War_I.md). Ví dụ: [Valar](../V/Valar.md), các thiên thần của Ëa, phản chiếu các vị thần Olympia trong thần thoại Hy Lạp. Phong cách cổ xưa và *gravitas* của *Ainulindalë* giống với phong cách của Cựu Ước. Nền văn minh trên đảo [Númenor](../N/Númenor.md) gợi nhớ đến <a class="extiw" href="http://en.wikipedia.org/wiki/Atlantis" title="wikipedia:Atlantis">Atlantis</a> — một trong những cái tên Tolkien đặt cho vùng đất đó là *Atalantë*, mặc dù ông đặt cho nó một từ nguyên [Elvish](../E/Elvish.md).
 
 ## Từ nguyên {#Etymology}
 
-*Silmarillion* là [Quenya](../Q/Quenya.md) sở hữu số nhiều của từ "Silmaril", do đó nó có nghĩa là "của Silmaril".
+*Silmarillion* là dạng sở hữu cách số nhiều trong tiếng [Quenya](../Q/Quenya.md) của từ "Silmaril", do đó có nghĩa là "của các Silmaril".
 
-Nó có thể là sự rút gọn của tựa đề đầy đủ *Quenta Silmarillion* ("Truyện về Silmaril") hoặc cũng là một Genitive đơn giản (như trong tiếng Hy Lạp cổ) biểu thị sự tham khảo. Sở hữu cách này được dịch sang tiếng Anh với cấu trúc “about” hoặc “of”; tiêu đề của các chương trong *The Silmarillion* là ví dụ về sở hữu cách này trong tiếng Anh thơ (*Of* Sindar, *Of* Con Người, *Of* Sự tối tăm của Valinor v.v.), trong đó "of" có nghĩa là "về" hoặc "quan tâm". Theo cách tương tự, *Silmarillion* có thể được hiểu là "Của/Giới thiệu về Silmaril".<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+Nó có thể là dạng rút gọn của nhan đề đầy đủ *Quenta Silmarillion* ("Truyện kể về các Silmaril"), hoặc cũng có thể là một dạng sở hữu cách đơn thuần, vốn biểu thị mối liên hệ hoặc chủ đề được nói đến như trong tiếng Hy Lạp cổ. Sở hữu cách này được dịch sang tiếng Anh bằng cấu trúc dùng "about" hoặc "of"; nhan đề các chương trong *The Silmarillion* là những ví dụ về cách dùng sở hữu cách này trong tiếng Anh mang tính thi ca (*Of* the Sindar, *Of* Men, *Of* the Darkening of Valinor, v.v.), trong đó "of" có nghĩa là "về" hoặc "liên quan đến". Tương tự, *Silmarillion* có thể được hiểu là "Về các Silmaril".<sup class="noprint" style="line-height: 0.4em;"><a href="../../help/R/References.md" title="Help:References"><i>source?</i></a></sup>
 
 ## Lịch sử sáng tác {#History_of_composition}
 
-Bản thảo sớm nhất của *The Silmarillion* có từ đầu năm 1925, khi Tolkien viết '[Sketch of the Mythology](../S/Sketch_of_the_Mythology.md)'. Tuy nhiên, các khái niệm về nhân vật, chủ đề và câu chuyện cụ thể đã được phát triển bắt đầu từ năm 1917 khi Tolkien, khi đó là một sĩ quan người Anh đóng quân tại Pháp trong [Chiến tranh thế giới thứ nhất](../W/World_War_I.md) được đưa vào một bệnh viện dã chiến của quân đội vì bệnh sốt chiến hào. Lúc đó, ông gọi tuyển tập truyện non trẻ của mình là *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*. Những câu chuyện này bao gồm một thần thoại Anh nhằm giải thích nguồn gốc của lịch sử và văn hóa Anh (như thần thoại Hy Lạp giải thích nguồn gốc của lịch sử và văn hóa Hy Lạp).
+Những bản thảo đầu tiên của *The Silmarillion* có niên đại sớm nhất là năm 1925, khi Tolkien viết '[Sketch of the Mythology](../S/Sketch_of_the_Mythology.md)'. Tuy nhiên, các ý tưởng về nhân vật, chủ đề và những câu chuyện cụ thể bắt đầu được phát triển từ năm 1917, khi Tolkien, lúc bấy giờ là sĩ quan Anh đóng quân tại Pháp trong [Chiến tranh thế giới thứ nhất](../W/World_War_I.md), phải nằm điều trị bệnh sốt chiến hào tại một bệnh viện dã chiến quân đội. Khi ấy, ông gọi tuyển tập những câu chuyện mới hình thành của mình là *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*. Những câu chuyện này tạo thành một hệ thống thần thoại dành cho người Anh, nhằm giải thích nguồn gốc lịch sử và văn hóa Anh (cũng như thần thoại Hy Lạp giải thích nguồn gốc lịch sử và văn hóa Hy Lạp).
 
-Tolkien thừa nhận rằng các yếu tố từ tác phẩm đó đã "xâm nhập" vào bất cứ thứ gì ông đang viết, kể cả *[Roverandom](../R/Roverandom.md)* và [Những lá thư Giáng sinh của Cha](The_Father_Christmas_Letters.md),<sup id="cite_ref-rc_1-0" class="reference"><a href="#cite_note-rc-1">[1]</a></sup> Trong khi viết *[The Hobbit](The_Hobbit.md)*, mặc dù ông không có ý định đưa nó trở thành một phần trong [huyền thoại](../L/Legendarium.md) của mình, ông đã mượn [Elrond](../E/Elrond.md) và một tham chiếu đến [Gondolin](../G/Gondolin.md), và "bóng của nó in sâu vào các phần sau". Bảo tàng huyền thoại "đã được nỗ lực ngăn chặn *[Farmer Giles](../F/Farmer_Giles_of_Ham.md)*".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-L124_3-0" class="reference"><a href="#cite_note-L124-3">[3]</a></sup>
+Tolkien thừa nhận rằng các yếu tố từ tác phẩm đó đã "len lỏi" vào mọi tác phẩm ông viết, kể cả *[Roverandom](../R/Roverandom.md)* và [The Father Christmas Letters](The_Father_Christmas_Letters.md),<sup id="cite_ref-rc_1-0" class="reference"><a href="#cite_note-rc-1">[1]</a></sup> Khi viết *[The Hobbit](The_Hobbit.md)*, dù không có ý định biến tác phẩm này thành một phần của [Legendarium](../L/Legendarium.md) của mình, ông vẫn đưa [Elrond](../E/Elrond.md) và một chi tiết nhắc đến [Gondolin](../G/Gondolin.md) vào truyện, và "cái bóng của nó phủ sâu lên những phần viết sau này". Tolkien đã phải rất nỗ lực mới giữ được Legendarium không xuất hiện trong *[Farmer Giles](../F/Farmer_Giles_of_Ham.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-L124_3-0" class="reference"><a href="#cite_note-L124-3">[3]</a></sup>
 
-Nhiều năm sau chiến tranh, được khuyến khích bởi sự thành công của *[The Hobbit](The_Hobbit.md)*, Tolkien đã gửi một phiên bản chưa hoàn thiện nhưng được phát triển đầy đủ hơn (xem: [Quenta Silmarillion (Lost Road)](<../Q/Quenta_Silmarillion_(Lost_Road).md>)) cho [Allen và Unwin](../A/Allen_and_Unwin.md), nhưng họ từ chối tác phẩm vì cho rằng nó quá mơ hồ và "quá Celtic". Thay vào đó, nhà xuất bản đã yêu cầu Tolkien viết phần tiếp theo của *The Hobbit*, phần tiếp theo đã trở thành cuốn tiểu thuyết quan trọng của ông *The Lord of the Rings*.
+Nhiều năm sau chiến tranh, được tiếp thêm động lực nhờ thành công của *[The Hobbit](The_Hobbit.md)*, Tolkien đã gửi một phiên bản chưa hoàn chỉnh nhưng đã được phát triển kỹ lưỡng hơn (xem: [Quenta Silmarillion (Lost Road)](<../Q/Quenta_Silmarillion_(Lost_Road).md>)) cho [Allen and Unwin](../A/Allen_and_Unwin.md), nhưng nhà xuất bản từ chối tác phẩm vì cho rằng nó khó hiểu và "quá đậm chất Celtic". Thay vào đó, nhà xuất bản yêu cầu Tolkien viết phần tiếp theo của *The Hobbit*, và tác phẩm này sau đó trở thành cuốn tiểu thuyết có tầm vóc lớn của ông, *The Lord of the Rings*.
 
-Nhưng Tolkien chưa bao giờ từ bỏ hoàn toàn *The Silmarillion* mà ông coi là tác phẩm quan trọng nhất trong các tác phẩm của mình, coi trong những câu chuyện của nó là nguồn gốc của [Trung Địa](../M/Middle-earth.md) và các sự kiện sau đó như đã kể trong *The Hobbit* và *The Lord of the Rings*. Ảnh hưởng quá lớn khi viết, và như ông đã nói trong Lời nói đầu, “câu chuyện bị lôi cuốn về thế giới cũ một cách không thể cưỡng lại được”; trong khi bắt đầu là phần tiếp theo của *The Hobbit*, *The Lord of the Rings* đã trở thành phần tiếp theo và *completion* của huyền thoại của ông.<sup id="cite_ref-L124_3-1" class="reference"><a href="#cite_note-L124-3">[3]</a></sup>
+Nhưng Tolkien chưa bao giờ từ bỏ hoàn toàn *The Silmarillion*, tác phẩm mà ông coi là quan trọng nhất trong số các tác phẩm của mình, bởi ông nhìn thấy trong những câu chuyện ấy nguồn gốc của [Trung Địa](../M/Middle-earth.md) và những sự kiện về sau được kể trong *The Hobbit* và *The Lord of the Rings*. Ảnh hưởng của tác phẩm này quá lớn trong quá trình sáng tác, và như ông đã nói trong Lời nói đầu, “câu chuyện bị lôi cuốn về thế giới thời cổ xưa một cách không thể cưỡng lại”; tuy khởi đầu là phần tiếp theo của *The Hobbit*, *The Lord of the Rings* đã trở thành phần tiếp nối và sự hoàn tất của hệ thống truyền thuyết do ông sáng tạo.<sup id="cite_ref-L124_3-1" class="reference"><a href="#cite_note-L124-3">[3]</a></sup>
 
-Ông đã gia hạn tác phẩm *The Silmarillion* sau khi hoàn thành *The Lord of the Rings*, khi ông rất mong muốn được xuất bản hai tác phẩm cùng nhau. Nhưng khi thấy rõ rằng điều đó là không thể, Tolkien lại chuyển toàn bộ sự chú ý sang việc chuẩn bị *The Lord of the Rings* để xuất bản.
+Ông tiếp tục công việc biên soạn *The Silmarillion* sau khi hoàn thành *The Lord of the Rings*, vì ông rất mong muốn xuất bản hai tác phẩm cùng lúc. Nhưng khi nhận thấy rõ điều đó là không thể, Tolkien lại tập trung hoàn toàn vào việc chuẩn bị *The Lord of the Rings* để xuất bản.
 
-Vào cuối những năm 1950, ông lại bắt đầu nghiên cứu *The Silmarillion*, nhưng phần lớn bài viết của ông từ thời điểm này không quan tâm nhiều đến bản thân các câu chuyện cũng như nền tảng thần học và triết học của tác phẩm. Trong thời gian này, ông đã viết rất nhiều về các chủ đề như bản chất của cái ác trong Arda, nguồn gốc của Orc, phong tục của Tiên tộc, bản chất và phương tiện của sự tái sinh Elvish, thế giới "phẳng" và huyền thoại về Mặt Trời. Những nghi ngờ nghiêm trọng đã xuất hiện về một số khía cạnh cơ bản của tác phẩm đã có từ những phiên bản đầu tiên của câu chuyện, và có vẻ như ông cảm thấy cần phải giải quyết những vấn đề này trước khi có thể tạo ra phiên bản "cuối cùng" của *The Silmarillion*. Trong mọi trường hợp, trừ một hoặc hai trường hợp ngoại lệ, ông chưa bao giờ làm nhiều công việc kể chuyện trong những năm còn lại của cuộc đời mình.
+Vào cuối những năm 1950, ông lại bắt đầu nghiên cứu *The Silmarillion*, nhưng phần lớn các bài viết của ông trong giai đoạn này không tập trung vào bản thân các câu chuyện nhiều bằng việc tìm hiểu nền tảng thần học và triết học của tác phẩm. Trong thời gian này, ông đã viết rất nhiều về các chủ đề như bản chất của cái ác trong Arda, nguồn gốc của Orc, phong tục của Tiên tộc, bản chất và phương thức tái sinh của Tiên tộc, thế giới "phẳng" và thần thoại về Mặt Trời. Ông bắt đầu nảy sinh những nghi ngờ sâu sắc về một số khía cạnh nền tảng của tác phẩm, vốn đã xuất hiện từ những bản kể chuyện sớm nhất, và dường như ông cảm thấy cần giải quyết những vấn đề này trước khi có thể tạo ra phiên bản "cuối cùng" của *The Silmarillion*. Dù thế nào đi nữa, ngoại trừ một hoặc hai trường hợp, ông hầu như không tiếp tục chỉnh sửa các câu chuyện trong những năm còn lại của cuộc đời mình.
 
-### Các ấn bản sau khi chết {#Posthumous_editions}
+### Các ấn bản xuất bản sau khi tác giả qua đời {#Posthumous_editions}
 
-Trong vài năm sau cái chết của cha mình, Christopher Tolkien đã biên soạn một câu chuyện *Silmarillion*. Ý định của Christopher dường như chủ yếu là sử dụng những bài viết mới nhất của cha ông mà ông có thể, và giữ sự nhất quán nội bộ (và nhất quán với *The Lord of the Rings*) càng nhiều càng tốt. Như đã giải thích trong *[The History of Middle-earth](The_History_of_Middle-earth.md)*, Christopher đã dựa vào nhiều nguồn cho câu chuyện của mình, dựa vào các tác phẩm hậu LoTR nếu có thể, nhưng cuối cùng lại quay trở lại thời điểm *Book of Lost Tales* năm 1917 để điền vào các phần của câu chuyện mà cha anh đã định viết nhưng chưa bao giờ đề cập đến. Trong các chương sau của cuốn "Quenta Silmarillion" vốn chưa được động tới kể từ đầu những năm 1930, ông phải xây dựng một câu chuyện kể một cách thực tế từ đầu, với sự hỗ trợ của [Guy Gavriel Kay](../G/Guy_Gavriel_Kay.md). Kết quả cuối cùng, bao gồm phả hệ, bản đồ, chỉ mục và danh sách từ Elvish được xuất bản lần đầu tiên vào năm 1977.
+Trong vài năm sau khi cha qua đời, Christopher Tolkien đã biên soạn một bản tường thuật cho *The Silmarillion*. Christopher dường như chủ yếu có ý định sử dụng những bản thảo mới nhất của cha mình mà ông có thể tìm được, đồng thời duy trì tính nhất quán nội tại (và tính nhất quán với *The Lord of the Rings*) ở mức cao nhất có thể. Như đã giải thích trong *[The History of Middle-earth](The_History_of_Middle-earth.md)*, Christopher đã dựa vào nhiều nguồn để biên soạn bản tường thuật của mình, sử dụng các tác phẩm được viết sau *The Lord of the Rings* khi có thể, nhưng cuối cùng vẫn truy ngược đến tận *Book of Lost Tales* năm 1917 để bổ sung những phần trong câu chuyện mà cha ông dự định viết nhưng chưa bao giờ đề cập đến. Trong những chương sau của "Quenta Silmarillion", vốn chưa được chỉnh sửa kể từ đầu những năm 1930, ông phải gần như xây dựng lại toàn bộ câu chuyện từ đầu, với sự giúp đỡ của [Guy Gavriel Kay](../G/Guy_Gavriel_Kay.md). Kết quả cuối cùng, bao gồm phả hệ, bản đồ, mục lục và bảng từ vựng Elvish đầu tiên được công bố, đã được xuất bản vào năm 1977.
 
-Do những lời giải thích sâu rộng của Christopher(trong *[The History of Middle-earth](The_History_of_Middle-earth.md)*) về cách ông biên soạn tác phẩm đã xuất bản, phần lớn *The Silmarillion* đã được tranh luận bởi những người hâm mộ cuồng nhiệt. Nhiệm vụ của Christopher nhìn chung được chấp nhận là rất khó khăn do tình trạng các văn bản của cha ông vào thời điểm ông qua đời: một số văn bản quan trọng không còn thuộc sở hữu của gia đình Tolkien, và nhiệm vụ của Christopher buộc ông phải xem qua phần lớn tài liệu. Christopher tiết lộ trong các tập sau *The History of Middle-earth* nhiều ý tưởng khác nhau không phù hợp với phiên bản đã xuất bản. Christopher Tolkien đã gợi ý rằng nếu ông dành nhiều thời gian hơn và có quyền truy cập vào tất cả các văn bản, ông có thể đã tạo ra một tác phẩm khác biệt đáng kể. Nhưng anh bị ép buộc bởi áp lực đáng kể và nhu cầu từ độc giả và nhà xuất bản của cha mình để tạo ra thứ gì đó có thể xuất bản càng nhanh càng tốt.
+Do những giải thích chi tiết của Christopher (trong *[The History of Middle-earth](The_History_of_Middle-earth.md)*) về cách ông biên soạn tác phẩm đã xuất bản, phần lớn *The Silmarillion* đã trở thành chủ đề tranh luận của những người hâm mộ lâu năm và am hiểu sâu sắc. Nhìn chung, người ta thừa nhận rằng nhiệm vụ của Christopher vô cùng khó khăn do tình trạng các bản thảo của cha ông vào thời điểm ông qua đời: một số văn bản then chốt không còn nằm trong tay gia đình Tolkien, và hoàn cảnh đó khiến ông phải xử lý phần lớn tài liệu một cách vội vàng. Trong các tập sau của *The History of Middle-earth*, Christopher tiết lộ nhiều ý tưởng khác biệt so với phiên bản đã xuất bản. Christopher Tolkien từng cho rằng nếu ông dành nhiều thời gian hơn và có trong tay tất cả các văn bản, có lẽ ông đã tạo ra một tác phẩm khác biệt đáng kể. Tuy nhiên, ông chịu sức ép lớn từ độc giả và các nhà xuất bản của cha mình, buộc phải hoàn thành một tác phẩm có thể xuất bản trong thời gian ngắn nhất có thể.
 
 Vào tháng 10 năm 1996, Christopher Tolkien đã ủy quyền cho họa sĩ minh họa [Ted Nasmith](Ted_Nasmith.md) tạo ra tác phẩm nghệ thuật đầy màu sắc toàn trang cho ấn bản minh họa đầu tiên của *The Silmarillion*. Nó được xuất bản vào năm 1998, và tiếp theo là ấn bản thứ hai vào năm 2004 (<a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0618391118">ISBN 0618391118</a>) có các chỉnh sửa và tác phẩm nghệ thuật bổ sung của Nasmith.
 
 Trong những năm 1980 và 1990, Christopher Tolkien đã xuất bản hầu hết các tác phẩm liên quan đến Trung Địa của cha ông dưới dạng bộ *The History of Middle-earth* gồm 12 tập.
 
-Ngoài tài liệu nguồn và các bản nháp trước đó của một số phần của *The Lord of the Rings*, những cuốn sách này còn mở rộng đáng kể về tài liệu gốc được xuất bản trong *The Silmarillion*, và trong nhiều trường hợp khác hẳn với tài liệu gốc. Có nhiều điều Tolkien dự định sửa lại nhưng chỉ phác thảo trong ghi chú, và một số văn bản mới xuất hiện sau khi *The Silmarillion* xuất bản.
+Ngoài tài liệu nguồn và các bản nháp trước đó của một số phần trong *The Lord of the Rings*, những cuốn sách này bổ sung và phát triển đáng kể nội dung của tài liệu gốc được xuất bản trong *The Silmarillion*, đồng thời trong nhiều trường hợp có những điểm khác biệt so với tài liệu ấy. Tolkien dự định chỉnh sửa nhiều nội dung nhưng chỉ phác thảo chúng trong các ghi chú, và một số văn bản mới được phát hiện sau khi *The Silmarillion* được xuất bản.
 
-## Lịch sử xuất bản và thư viện {#Publication_history_and_gallery}
+## Lịch sử xuất bản và bộ sưu tập hình ảnh {#Publication_history_and_gallery}
 
 <dl><dd><i>Please see <a href="The_Silmarillion%252FPublication_history_and_gallery.md" title="The Silmarillion/Publication history and gallery">Publication history and gallery</a>.</i></dd></dl>
 
 ## Xem thêm {#See_also}
 
 - *[Unfinished Tales](../U/Unfinished_Tales.md)*
-dòng - *[The History of Middle-earth](The_History_of_Middle-earth.md)*
+- *[The History of Middle-earth](The_History_of_Middle-earth.md)*
 - [Hình ảnh từ *The Silmarillion*](../../category/I/Images_from_The_Silmarillion.md), minh họa bởi [Ted Nasmith](Ted_Nasmith.md)
 
 ## Liên kết ngoài {#External_links}

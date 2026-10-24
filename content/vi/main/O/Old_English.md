@@ -27,9 +27,9 @@ langlinks:
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**tiếng Anh cổ** (còn được gọi là **Anglo-Saxon**, mặc dù [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) dường như đã tránh thuật ngữ này<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>) là ngôn ngữ tổ tiên của tiếng Anh hiện đại. Đó cũng là ngôn ngữ mẹ đẻ của các ký tự [Ælfwine](../_/Ælfwine.md) và [Eriol](../E/Eriol.md).
+**tiếng Anh cổ** (còn được gọi là **Anglo-Saxon**, mặc dù [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) dường như đã tránh dùng thuật ngữ này<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>) là ngôn ngữ tiền thân của tiếng Anh hiện đại. Đây cũng là ngôn ngữ mẹ đẻ của các nhân vật [Ælfwine](../_/Ælfwine.md) và [Eriol](../E/Eriol.md).
 
-Anglo-Saxon thường được viết bằng [chữ runic](../R/Runes.md) trước khi bảng chữ cái Latinh ra đời.
+Anglo-Saxon thường được viết bằng [chữ rune](../R/Runes.md) trước khi bảng chữ cái Latinh ra đời.
 
 ## Lịch sử {#History}
 
@@ -39,17 +39,17 @@ Anglo-Saxon thường được viết bằng [chữ runic](../R/Runes.md) trư�
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Tolkien là giáo sư Anglo-Saxon tại Pembroke College từ [1925](../_/1925.md) đến [1945](../_/1945.md). Ông đặc biệt ưa thích phương ngữ Mercian và chịu ảnh hưởng mạnh mẽ của văn học tiếng Anh cổ như *[Beowulf](<../B/Beowulf_(poem).md>)*.
+Tolkien là giáo sư tiếng Anh cổ tại Pembroke College từ [1925](../_/1925.md) đến [1945](../_/1945.md). Ông đặc biệt yêu thích phương ngữ Mercian và chịu ảnh hưởng mạnh mẽ của văn học bằng tiếng Anh cổ, chẳng hạn như *[Beowulf](<../B/Beowulf_(poem).md>)*.
 
-Trong các ghi chú trước đó liên quan đến *[The Book of Lost Tales Part Two](../T/The_Book_of_Lost_Tales_Part_Two.md)*, Tolkien đã nhận xét rằng tiếng Anh cổ là ngôn ngữ duy nhất mà Tiên tộc của [Eressëa](../E/Eressëa.md) có thể nói chuyện với Con Người và đó là cách họ nói chuyện với Ælfwine. Tiên tộc đã học được tiếng Anh cổ khi sống chung với Con Người ở [Luthany](../L/Luthany.md).
+Trong các ghi chú trước đó liên quan đến *[The Book of Lost Tales Part Two](../T/The_Book_of_Lost_Tales_Part_Two.md)*, Tolkien đã nhận xét rằng tiếng Anh cổ là ngôn ngữ duy nhất mà Tiên tộc ở [Eressëa](../E/Eressëa.md) có thể dùng để nói chuyện với Con Người, và đó cũng là ngôn ngữ họ dùng để nói chuyện với Ælfwine. Tiên tộc đã học tiếng Anh cổ trong thời gian sống cùng Con Người ở [Luthany](../L/Luthany.md).
 
 *[Gnomish Lexicon](../G/Gnomish_Lexicon.md)*, thuộc giai đoạn đó của [Legendarium](../L/Legendarium.md), đề cập đến cụm từ [Gnomish](../G/Gnomish.md) <i><a class="external text" href="https://eldamo.org/content/words/word-1427946497.html" rel="noreferrer noopener" target="_blank">“Goldogrin” di Sacthoðrin</a></i> \*"“Goldogrin” \[dịch\] sang tiếng Anh". <a class="external text" href="https://eldamo.org/content/words/word-411293273.html" rel="noreferrer noopener" target="_blank">Sacthoðrin</a> hay \*"ngôn ngữ của Sactha" là tên Gnomish của ngôn ngữ tiếng Anh (trong giai đoạn Anglo-Saxon của nó). Sactha (dường như ám chỉ người Saxon) dường như bắt nguồn từ gốc Gnomish của "chiến đấu".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Tolkien đã viết trong tiếng Anh cổ một số văn bản về truyền thuyết của mình mà ông (một cách hư cấu) gán cho [Ælfwine](../_/Ælfwine.md) chẳng hạn như <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Earliest_Annals_of_Valinor&amp;action=edit&amp;redlink=1" title="Earliest Annals of Valinor (page does not exist)">Biên niên sử sớm nhất về Valinor</a></i>; chúng được xuất bản gần đây hơn trên *[The Shaping of Middle-earth](../T/The_Shaping_of_Middle-earth.md)* và được [Christopher Tolkien](../C/Christopher_Tolkien.md) nhận xét và chỉnh sửa. Những văn bản này đã bị chỉ trích vì Christopher Tolkien không cung cấp bản dịch và chúng chỉ có thể hiểu được bởi Anglo-Saxon học sinh.
 
-Trong những tác phẩm đó, Eriol đã đặt một số tên tiếng Anh cổ cho một số thành phần của truyền thuyết; trong một số trường hợp, Tolkien đã cố gắng bắt chước âm thanh và hình thức Elvish nhưng với một ý nghĩa mới. Ví dụ: [Angband](../A/Angband.md) được hiển thị là *Engbend* "cruel-bond", [Balrog](../B/Balrog.md) là *Bealuwearg* "baleful-monster" hoặc [Silmaril](../S/Silmaril.md) là *Sigelmaerels* (thực ra là đề cập đến [Nauglamír](../N/Nauglamír.md)). Ít nhất một tên, *[Mickleburg](../M/Mickleburg.md)*, vẫn tồn tại trong *[Silmarillion](../S/Silmarillion.md)* đã xuất bản.
+Trong những tác phẩm đó, Eriol đã đặt một số tên bằng tiếng Anh cổ cho một số yếu tố trong huyền sử; trong một số trường hợp, Tolkien đã cố gắng bắt chước âm thanh và hình thức của Elvish nhưng mang ý nghĩa mới. Ví dụ: [Angband](../A/Angband.md) được chuyển thành *Engbend* "mối ràng buộc tàn nhẫn", [Balrog](../B/Balrog.md) thành *Bealuwearg* "quái vật độc ác" hoặc [Silmaril](../S/Silmaril.md) thành *Sigelmaerels* (thực ra chỉ [Nauglamír](../N/Nauglamír.md)). Ít nhất một tên, *[Mickleburg](../M/Mickleburg.md)*, vẫn được giữ lại trong bản *[Silmarillion](../S/Silmarillion.md)* xuất bản.
 
-Anglo-Saxon rune đã được sử dụng trên [Bản đồ của Thrór](../T/Thrór's_Map.md) trong *[The Hobbit](../T/The_Hobbit.md)* để hiển thị [Cirth](../C/Cirth.md) được sử dụng bởi [Người Lùn](../D/Dwarves.md).
+Các chữ rune Anglo-Saxon được sử dụng trên [Bản đồ của Thrór](../T/Thrór's_Map.md) trong *[The Hobbit](../T/The_Hobbit.md)* để thể hiện hệ chữ [Cirth](../C/Cirth.md) mà [Người Lùn](../D/Dwarves.md) sử dụng.
 
 Tolkien đã nghĩ ra chế độ [Tengwar](../T/Tengwar.md) cho tiếng Anh cổ, cho các văn bản được viết bởi [Edwin Lowdham](../E/Edwin_Lowdham.md) trong <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Strange_Case_of_Arundel_Lowdham&amp;action=edit&amp;redlink=1" title="The Strange Case of Arundel Lowdham (page does not exist)">Vụ án kỳ lạ của Arundel Lowdham</a></i>, các bài viết liên quan đến *[The Notion Club Papers](../T/The_Notion_Club_Papers.md)*. (<a class="external text" href="http://www.forodrim.org/daeron/mdtci.html#DTS50" rel="noreferrer noopener" target="_blank">DTS50</a> và <a class="external text" href="http://www.forodrim.org/daeron/mdtci.html#DTS51" rel="noreferrer noopener" target="_blank">DTS51</a>).
 
@@ -57,16 +57,16 @@ Tolkien đã nghĩ ra chế độ [Tengwar](../T/Tengwar.md) cho tiếng Anh c�
 
 Đối với *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Tolkien đã sử dụng một số tên và từ Anglo-Saxon, trong [Rohanese](../R/Rohanese.md), ngôn ngữ của [Rohirrim](../R/Rohirrim.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Điều này mô phỏng cảm giác cổ xưa mà [Hobbit](../H/Hobbits.md) cảm nhận được với Rohirrim; Hobbit nói [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md), được trình bày trong sách bằng tiếng Anh.
 
-Tuy nhiên, mối quan hệ giữa tiếng Anh cổ và tiếng Anh không giống như tiếng Rohan và tiếng Tây phương, vì tiếng Tâyron có nguồn gốc từ [Adûnaic](../A/Adûnaic.md) chứ không phải tiếng Rohan.
+Tuy nhiên, mối quan hệ giữa tiếng Anh cổ và tiếng Anh không giống với mối quan hệ giữa Rohanese và Westron, vì Westron bắt nguồn từ [Adûnaic](../A/Adûnaic.md), chứ không phải từ Rohanese.
 
-Ông tuyên bố rằng Anglo-Saxon (tức là tiếng Anh cổ) không phải là nguồn gốc của các tên trong bất kỳ ngôn ngữ nào khác ngoài ngôn ngữ của người Eorlingas ngoại trừ một số tên trong Hobbit-phương ngữ bắt nguồn từ [Vale of Anduin](../V/Vale_of_Anduin.md), các tên [Déagol](../D/Déagol.md) và [Sméagol](../S/Sméagol.md); và các tên [Sông Gladden](../G/Gladden_River.md) và [Gladden Fields](../G/Gladden_Fields.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Ông khẳng định rằng Anglo-Saxon (tức tiếng Anh cổ) không phải là nguồn gốc của các tên gọi trong bất kỳ ngôn ngữ nào khác ngoài ngôn ngữ của người Eorlingas, ngoại trừ một vài tên trong phương ngữ Hobbit bắt nguồn từ [Vale of Anduin](../V/Vale_of_Anduin.md), các tên [Déagol](../D/Déagol.md) và [Sméagol](../S/Sméagol.md), cùng các tên [Gladden River](../G/Gladden_River.md) và [Gladden Fields](../G/Gladden_Fields.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Tolkien lưu ý rằng tên [Stoor](../S/Stoors.md) được đặt theo từ tiếng Anh ban đầu *stor*, *stoor* ("lớn", "mạnh"), hiện đã lỗi thời.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Tolkien lưu ý rằng tên [Stoor](../S/Stoors.md) dựa trên từ trong tiếng Anh cổ *stor*, *stoor* ("lớn", "mạnh"), nay đã trở nên lỗi thời.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [tiếng Anh cổ tên](../../category/O/Old_English_names.md)
-- [Từ điển tiếng Anh sang Anglo-Saxon](../E/English_to_Anglo-Saxon_dictionary.md) (bản thảo Tolkien chưa xuất bản)
+- [Các tên gọi tiếng Anh cổ](../../category/O/Old_English_names.md)
+- [Từ điển Anh–Anglo-Saxon](../E/English_to_Anglo-Saxon_dictionary.md) (bản thảo chưa xuất bản của Tolkien)
 
 ## Liên kết ngoài {#External_links}
 

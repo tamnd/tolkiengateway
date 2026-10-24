@@ -76,7 +76,7 @@ Vào năm 1972 <a class="extiw" href="http://en.wikipedia.org/wiki/New_Year_Hono
 <p class="tg-quote-footer"><cite>The Tolkien Society&#39;s telegram to J.R.R. Tolkien<sup id="cite_ref-Mallorn50-21_9-0" class="reference"><a href="#cite_note-Mallorn50-21-9">[9]</a></sup></cite></p>
 </blockquote>
 
-Hội cũng đã đăng một thông điệp chúc mừng vào *The Times* vào ngày [3 tháng 1](../_/3_January.md) trong phần 'BIRTHDAYS': "*TOLKIEN. Giáo sư J. R. R. Tolkien, C.B.E. Congratulations nhân sinh nhật lần thứ 80 của ông. 'Elen sila lumenn' omentielmo.' Hội Tolkien.*" Nhân dịp sinh nhật, Hội còn gửi tặng anh một hũ thuốc lá sứ màu xanh - thiết kế hình người thợ săn và một con nai trắng - trong đó có thuốc lá Latakia Mixture loại ngon nhất; kèm theo là ghi chú sau:
+Hội cũng đã đăng một thông điệp chúc mừng trên *The Times* vào ngày [3 tháng 1](../_/3_January.md), trong mục 'BIRTHDAYS': "*TOLKIEN. Giáo sư J. R. R. Tolkien, C.B.E. Chúc mừng ông nhân sinh nhật lần thứ 80. 'Elen sila lumenn' omentielmo.' Hội Tolkien.*" Nhân dịp sinh nhật, Hội còn gửi tặng ông một hũ đựng thuốc lá bằng sứ màu xanh lá cây, có hình người thợ săn và một con nai trắng, bên trong chứa loại thuốc lá Latakia Mixture hảo hạng nhất; kèm theo đó là lời nhắn sau:
 
 <blockquote class="tg-quote noexcerpt">
 <p>FROM all Hobbits, Elves, Elf-friends, Dwarves, Ents, Numenoreans, Rohirrim, etc. etc. etc. of the TOLKIEN SOCIETY (in Britain) with love and honour and hearty congratulations, to the creator of so much wonder. Although not to be compared with the true LONGBOTTOM LEAF, we hope that this will at least raise a few smoke-rings of happy recollection.<br/>THE TOLKIEN SOCIETY
@@ -94,13 +94,13 @@ Hội cũng đã đăng một thông điệp chúc mừng vào *The Times* vào 
 
 ### Chủ tịch {#President}
 
-Vào [27 tháng 6](../_/27_June.md) [1972](../_/1972.md), Vera Chapman được [Rayner Unwin](../R/Rayner_Unwin.md) mời đến một bữa tiệc rượu sherry, nơi cô gặp chính Tolkien. Sau khi trao đổi vài lời với anh về cây [belladonna](../B/Belladonna_Took.md), cô hỏi liệu anh có sẵn lòng làm chủ tịch danh dự của Hiệp hội không; ông nói "*Certainly*" trước khi kết luận, "*Nếu tôi có thể giúp đỡ xã hội của bạn bằng bất kỳ cách nào, tôi sẽ làm*."<sup id="cite_ref-Mallorn50-22_10-0" class="reference"><a href="#cite_note-Mallorn50-22-10">[10]</a></sup>
+Vào [27 tháng 6](../_/27_June.md) [1972](../_/1972.md), Vera Chapman được [Rayner Unwin](../R/Rayner_Unwin.md) mời đến một bữa tiệc rượu sherry, nơi bà gặp chính Tolkien. Sau khi trao đổi vài lời với ông về cây [belladonna](../B/Belladonna_Took.md), bà hỏi liệu ông có sẵn lòng làm chủ tịch danh dự của Hội không; ông đáp "*Chắc chắn rồi*" rồi nói thêm, "*Nếu tôi có thể giúp đỡ Hội của bà bằng bất kỳ cách nào, tôi sẽ làm.*"<sup id="cite_ref-Mallorn50-22_10-0" class="reference"><a href="#cite_note-Mallorn50-22-10">[10]</a></sup>
 
 Sau cái chết của J.R.R. Tolkien vào ngày [2 tháng Chín](../_/2_September.md) [1973](../_/1973.md), Hội Tolkien đã đề nghị giữ chức Chủ tịch danh dự cho [Christopher Tolkien](../C/Christopher_Tolkien.md), con trai của Tolkien, nhưng Christopher từ chối và nói rằng ông nghĩ cha mình nên giữ chức chủ tịch mãi mãi. Tại <a class="extiw" href="http://en.wiktionary.org/wiki/AGM" title="wiktionary:AGM">ĐHCĐ</a> vào [16 tháng 2](../_/16_February.md) [1974](../_/1974.md) kiến ​​nghị đã được thông qua rằng J.R.R. Tolkien vẫn là Chủ tịch danh dự *in perpetuo*; ông vẫn là chủ tịch của Hiệp hội cho đến ngày nay.<sup id="cite_ref-Mallorn50-23_11-0" class="reference"><a href="#cite_note-Mallorn50-23-11">[11]</a></sup>
 
 ## Khả năng lãnh đạo {#Leadership}
 
-Hiệp hội chủ yếu là tổ chức do tình nguyện viên điều hành, được điều hành bởi Hội đồng quản trị với Chủ tịch và Phó chủ tịch là những vị trí danh dự thuần túy. Trong lịch sử, Chủ tịch Ủy ban lãnh đạo Hội đồng và đại diện cho Hiệp hội cả trong nội bộ và bên ngoài; tuy nhiên, kể từ [1 tháng 6](../_/1_June.md) [2025](../_/2025.md), [Shaun Gunner](../S/Shaun_Gunner.md) đã giữ chức vụ Giám đốc điều hành của Hiệp hội trong việc lãnh đạo tổ chức, chịu trách nhiệm trước Hội đồng quản trị.<sup id="cite_ref-CEO_3-2" class="reference"><a href="#cite_note-CEO-3">[3]</a></sup>
+Hiệp hội là một tổ chức chủ yếu do tình nguyện viên điều hành, được quản lý bởi Hội đồng quản trị, trong đó Chủ tịch và Phó chủ tịch chỉ giữ các vị trí danh dự. Trước đây, Chủ tịch Hội đồng quản trị lãnh đạo Hội đồng và đại diện cho Hiệp hội cả trong nội bộ lẫn bên ngoài; tuy nhiên, kể từ [1 tháng 6](../_/1_June.md) [2025](../_/2025.md), [Shaun Gunner](../S/Shaun_Gunner.md) đã giữ chức Giám đốc điều hành của Hiệp hội để lãnh đạo tổ chức và chịu trách nhiệm trước Hội đồng quản trị.<sup id="cite_ref-CEO_3-2" class="reference"><a href="#cite_note-CEO-3">[3]</a></sup>
 
 ### Giám đốc điều hành {#Chief_Executives}
 
@@ -122,7 +122,7 @@ Hiệp hội chủ yếu là tổ chức do tình nguyện viên điều hành, 
 
 ### Ghế {#Chairs}
 
-Sau đây là danh sách ghế của Hội Tolkien; vào tháng 4 năm 2017, Hiệp hội đã thay thế chức danh "Chủ tịch" bằng "Chủ tịch". *Italic text* biểu thị quyền chủ tịch được bổ nhiệm chứ không phải được bầu.
+Sau đây là danh sách các chủ tịch của Hội Tolkien; vào tháng 4 năm 2017, Hội đã thay thế chức danh "Chủ tịch nam" bằng "Chủ tịch". *Chữ in nghiêng* biểu thị người giữ chức chủ tịch tạm quyền được bổ nhiệm chứ không phải được bầu.
 
 <table class="wikitable sortable">
 <tbody><tr style="background: var(--tg-color-surface-2);">
@@ -237,20 +237,20 @@ Sau đây là danh sách ghế của Hội Tolkien; vào tháng 4 năm 2017, Hi�
 
 ## Cười {#Smials}
 
-Smials là các nhóm địa phương của Hiệp hội Tolkien, được thành lập bởi các thành viên gặp nhau ở một thị trấn, khu vực hoặc quốc gia cụ thể để chia sẻ mối quan tâm của họ về cuộc sống và công việc của J.R.R. Tolkien. Cái tên này bắt nguồn từ thuật ngữ [smial](../S/Smials.md) của chính Tolkien để chỉ hố hobbit.
+Smials là các nhóm địa phương của Hội Tolkien, được thành lập bởi các thành viên gặp gỡ tại một thị trấn, khu vực hoặc quốc gia cụ thể để chia sẻ mối quan tâm về cuộc đời và các tác phẩm của J.R.R. Tolkien. Tên gọi này bắt nguồn từ thuật ngữ [smial](../S/Smials.md) mà chính Tolkien dùng để chỉ hang hobbit.
 
-Smials hoạt động bán độc lập và rất khác nhau về quy mô cũng như hoạt động. Nhiều người tổ chức các cuộc họp thường xuyên, trong khi những người khác tổ chức các nhóm đọc sách, bài giảng, các cuộc đi bộ theo chủ đề hoặc lễ kỷ niệm Tolkien các ngày kỷ niệm liên quan đến chẳng hạn như [Tolkien Ngày đọc sách](Tolkien_Reading_Day.md). Mặc dù được Hiệp hội Tolkien công nhận nhưng họ được điều hành bởi các tình nguyện viên và thiết lập các chương trình của riêng mình, mang lại sự bổ sung tại địa phương cho các sự kiện của Hiệp hội. Smials tồn tại ở Vương quốc Anh và ở một số quốc gia trên toàn thế giới và các nhóm mới có thể được thành lập bởi các thành viên với sự chấp thuận của Hiệp hội.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[12]</a></sup>
+Smials hoạt động tương đối độc lập và rất khác nhau về quy mô cũng như hoạt động. Nhiều nhóm tổ chức các cuộc họp thường xuyên, trong khi những nhóm khác tổ chức các nhóm đọc sách, các buổi thuyết trình, những chuyến đi bộ theo chủ đề hoặc các hoạt động kỷ niệm những dịp liên quan đến Tolkien, chẳng hạn như [Tolkien Reading Day](Tolkien_Reading_Day.md). Mặc dù được Hội Tolkien công nhận, các nhóm này do tình nguyện viên điều hành và tự xây dựng chương trình hoạt động, qua đó bổ sung cho các sự kiện của Hội ở cấp địa phương. Smials có mặt tại Vương quốc Anh và một số quốc gia khác trên thế giới; các thành viên cũng có thể thành lập nhóm mới với sự chấp thuận của Hội.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[12]</a></sup>
 
 ## Ấn phẩm {#Publications}
 
 - *[Belladonna's Broadsheet](../B/Belladonna's_Broadsheet.md)*, bản tin đầu tiên của Hội Tolkien.
 - *[Amon Hen](<../A/Amon_Hen_(journal).md>)* là bản tin của Hội và được xuất bản sáu lần một năm.<sup id="cite_ref-Amon_16-0" class="reference"><a href="#cite_note-Amon-16">[13]</a></sup>
-- *[Mallorn](<../M/Mallorn_(journal).md>)* là tạp chí của Hội và hiện được xuất bản mỗi năm một lần vào mùa Xuân.<sup id="cite_ref-Mallorn_17-0" class="reference"><a href="#cite_note-Mallorn-17">[14]</a></sup>
-- *[Quettar](../Q/Quettar.md)* là tạp chí của Hiệp hội Ngôn ngữ học Hội Tolkien.
+- *[Mallorn](<../M/Mallorn_(journal).md>)* là tạp chí của Hội và hiện được xuất bản mỗi năm một lần, vào mùa xuân.<sup id="cite_ref-Mallorn_17-0" class="reference"><a href="#cite_note-Mallorn-17">[14]</a></sup>
+- *[Quettar](../Q/Quettar.md)* từng là tạp chí của Hội Ngôn ngữ học thuộc Hội Tolkien.
 
 ## Sự kiện {#Events}
 
-Hội Tolkien tổ chức các sự kiện sau mỗi năm:
+Hội Tolkien tổ chức các sự kiện sau đây hằng năm:
 
 - **[Lễ chúc mừng sinh nhật](../B/Birthday_Toast.md)** được tổ chức vào [3 tháng 1](../_/3_January.md) (sinh nhật củaTolkien) hàng năm. Hiệp hội khuyến khích người hâm mộ Tolkien từ khắp nơi trên thế giới nâng ly chúc mừng Giáo sư vào lúc 9 giờ tối dù họ ở đâu.
 - **[Tolkien Ngày đọc sách](Tolkien_Reading_Day.md)**, được tổ chức hàng năm vào [25 tháng 3](../_/25_March.md), là một sự kiện quốc tế nhằm thúc đẩy việc đọc các tác phẩm của Tolkien.
@@ -259,7 +259,7 @@ Hội Tolkien tổ chức các sự kiện sau mỗi năm:
 - **[Oxonmoot](../O/Oxonmoot.md)** là hội nghị được tổ chức tại một trường đại học Oxford vào cuối tuần gần nhất với [22 tháng Chín](../_/22_September.md), [Bilbo](../B/Bilbo_Baggins.md) và [Frodo](../F/Frodo_Baggins.md) sinh nhật của.<sup id="cite_ref-Oxonmoot_21-0" class="reference"><a href="#cite_note-Oxonmoot-21">[18]</a></sup>
 - **[Westmoot](../W/Westmoot.md)** là một hội nghị mới dành cho các thành viên Hoa Kỳ của Hiệp hội. Sự kiện khai mạc diễn ra tại <a class="extiw" href="http://en.wikipedia.org/wiki/Kansas_City,_Missouri" title="wikipedia:Kansas City, Missouri">Thành phố Kansas, Missouri</a> vào Thứ Sáu [ngày 9 tháng 5](../M/May_9.md) - Chủ Nhật [ngày 11 tháng 5](../M/May_11.md) [2025](../_/2025.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/National_World_War_I_Museum_and_Memorial" title="wikipedia:National World War I Museum and Memorial">Bảo tàng và Đài tưởng niệm Chiến tranh Thế giới thứ nhất Quốc gia</a>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[19]</a></sup>
 
-Hội Tolkien cũng tổ chức các hội nghị lớn để kỷ niệm ngày J.R.R. Tolkien và/hoặc các tác phẩm của ông. Các sự kiện trong quá khứ:
+Hội Tolkien cũng tổ chức các hội nghị lớn nhằm kỷ niệm những dịp đánh dấu cột mốc liên quan đến J.R.R. Tolkien và/hoặc các tác phẩm của ông. Các sự kiện đã tổ chức trước đây:
 
 - **[Hội nghị trăm năm J.R.R. Tolkien](../J/J.R.R._Tolkien_Centenary_Conference.md)** được tổ chức tại trường Cao đẳng Keble (ở [Oxford](../O/Oxford.md), Anh) ở [1992](../_/1992.md). Nó kỷ niệm 100 năm ngày sinh của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được tổ chức cùng với [Hiệp hội thần thoại](../M/Mythopoeic_Society.md) và là sự kết hợp giữa Oxonmoot 1992 và Mythcon 23.<sup id="cite_ref-Centenary_23-0" class="reference"><a href="#cite_note-Centenary-23">[20]</a></sup>
 - **[Tolkien 2005: The Ring Goes Ever On](Tolkien_2005.md)** được tổ chức tại Đại học Aston (ở Birmingham, Anh) vào [2005](../_/2005.md). Nó kỷ niệm 50 năm ngày xuất bản hoàn chỉnh *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.<sup id="cite_ref-Tolkien2005_24-0" class="reference"><a href="#cite_note-Tolkien2005-24">[21]</a></sup>
@@ -267,7 +267,7 @@ Hội Tolkien cũng tổ chức các hội nghị lớn để kỷ niệm ngày 
 
 ## Xem thêm {#See_also}
 
-- [Mảng và đài tưởng niệm](../P/Plaques_and_Memorials.md)
+- [Bia và đài tưởng niệm](../P/Plaques_and_Memorials.md)
 
 ## Liên kết ngoài {#External_links}
 
