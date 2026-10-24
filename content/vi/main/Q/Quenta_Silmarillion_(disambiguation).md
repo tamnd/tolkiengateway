@@ -22,7 +22,7 @@ images:
 **Quenta Silmarillion** có thể tham khảo:
 
 - *[The Silmarillion](../T/The_Silmarillion.md)*, cuốn sách do [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập, xuất bản năm [1977](../_/1977.md).
-    - <i><b><a href="Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></b></i>: **Lịch sử của Silmaril**, phần thứ ba và là phần chính của cuốn sách này.
+    - <i><b><a href="Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></b></i>: **Lịch sử của những viên Silmaril**, phần thứ ba và là phần chính của cuốn sách này.
 
 - *[The Earliest 'Silmarillion'](../T/The_Earliest_'Silmarillion'.md)* hoặc *Sketch of the Mythology*, chương thứ hai của *[The Shaping of Middle-earth](../T/The_Shaping_of_Middle-earth.md)*.
 - *[The Quenta](../T/The_Quenta.md)* hoặc *Quenta Noldorinwa*, chương thứ ba của *The Shaping of Middle-earth*.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers"
 ---
 
-Chuyển hướng tới The Lord of the Rings, Tập. II: The Two Towers](../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md) của [J.R.R. Tolkien.
+Chuyển hướng đến [J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers](../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md).

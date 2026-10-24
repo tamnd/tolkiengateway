@@ -18,7 +18,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_J.R.R._Tolkien_Desk_Calendar_1980.jpg.md"><img src="https://tolkiengateway.net/w/images/0/03/The_J.R.R._Tolkien_Desk_Calendar_1980.jpg" decoding="async" loading="lazy" width="231" height="216" class="mw-file-element" data-file-width="231" data-file-height="216"/></a><figcaption></figcaption></figure>
 
-**Bộ J.R.R. Tolkien Lịch để bàn 1980** được xuất bản bởi [Ballantine Books](../B/Ballantine_Books.md) với hình ảnh minh họa của [Anh em Hildebrandt](../B/Brothers_Hildebrandt.md)
+**Bộ J.R.R. Tolkien Lịch để bàn 1980** được xuất bản bởi [Ballantine Books](../B/Ballantine_Books.md) với hình minh họa của [Anh em Hildebrandt](../B/Brothers_Hildebrandt.md)
 
 - <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0345285344">ISBN 0-345-28534-4</a>-695
 - Kích thước: 9 x 8,5 inch

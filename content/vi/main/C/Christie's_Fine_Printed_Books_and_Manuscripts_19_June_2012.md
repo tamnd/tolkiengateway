@@ -22,10 +22,10 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Christie&#39;s Fine Printed Books and Manuscripts 19 June 2012</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">London, South Kensington: Christie&#39;s</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Catalogue</td></tr></tbody></table>
 
-<i><b>Sách và Bản thảo in đẹp của Christie ngày 19 tháng 6 năm 2012</b></i> là một danh mục đấu giá của Christie's. Danh mục này bao gồm việc bán các bức thư sau [J.R.R. Tolkien](../J/J.R.R._Tolkien.md):
+<i><b>Sách và Bản thảo in đẹp của Christie ngày 19 tháng 6 năm 2012</b></i> là một danh mục đấu giá của Christie's. Danh mục này bao gồm việc bán các bức thư sau đây của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md):
 
 - Lô 252: thư của Tolkien gửi Elena Jeronimides (xem [Thư gửi Elena Jeronimides](../L/Letter_to_Elena_Jeronimides.md)).
-- Lô 251: thư của Tolkien gửi Roger Verhulst (xem [Thư gửi Roger Verhulst (9 tháng 3 năm 1966)](<../L/Letter_to_Roger_Verhulst_(9_March_1966).md>)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Lô 251: thư của Tolkien gửi Roger Verhulst (xem [Thư gửi Roger Verhulst (ngày 9 tháng 3 năm 1966)](<../L/Letter_to_Roger_Verhulst_(9_March_1966).md>)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

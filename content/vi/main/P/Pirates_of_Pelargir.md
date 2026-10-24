@@ -43,10 +43,10 @@ infobox:
 
 Ba cuộc phiêu lưu ở cấp độ thấp đến trung bình, mỗi cuộc phiêu lưu có thể tự đứng vững và có thể được thiết lập trong vài phút.
 
-Tại một quán trọ có tên Tipsy Triton, bạn chăm chú lắng nghe thuyền trưởng kể về các cuộc tấn công của cướp biển ngoài khơi Bờ biển Red Cliff. Anh ấy cần những người bạn có trái tim mạnh mẽ để đăng ký tham gia chuyến hành trình. Bạn có dám đi thuyền với chủ nhân của The Lady Gilwen không?
+Tại một quán trọ có tên Tipsy Triton, bạn chăm chú lắng nghe thuyền trưởng kể về các cuộc tấn công của cướp biển ngoài khơi Bờ biển Red Cliff. Ông cần những người bạn có trái tim mạnh mẽ để đăng ký tham gia chuyến hành trình. Bạn có dám đi thuyền với chủ nhân của The Lady Gilwen không?
 
 Các cuộc tấn công của cướp biển đã đẩy các thương gia địa phương đến giới hạn của họ. Phần thưởng được trao cho việc phát hiện ra nơi ẩn náu của Laughing Raider. Bạn sẽ tham gia Cuộc tìm kiếm Raider's Harbor chứ?
 
-Cô gái xinh đẹp Dorien đang bị giam giữ bởi những tên cướp biển khát máu. Cô ấy sẽ sớm bị bán làm nô lệ. Ai sẽ đột kích vào thành trì của cướp biển để giải cứu cô ấy?
+Cô gái xinh đẹp Dorien đang bị giam giữ bởi những tên cướp biển khát máu. Bà sẽ sớm bị bán làm nô lệ. Ai sẽ đột kích vào thành trì của cướp biển để giải cứu bà?
 
 Rủi ro là rất lớn nhưng phần thưởng trong 3 cuộc phiêu lưu thú vị này cũng vậy!

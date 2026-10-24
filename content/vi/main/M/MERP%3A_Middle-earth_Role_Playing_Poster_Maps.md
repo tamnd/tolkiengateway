@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Role Playing Poster Maps"
 ---
 
-Chuyển hướng tới [Middle-earth Role Playing Bản đồ áp phích](Middle-earth_Role_Playing_Poster_Maps.md).
+Chuyển hướng tới [Bản đồ áp phích nhập vai ở Trung Địa](Middle-earth_Role_Playing_Poster_Maps.md).

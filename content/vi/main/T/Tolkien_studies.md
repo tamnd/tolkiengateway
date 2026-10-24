@@ -34,17 +34,17 @@ images:
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../_/1956.md" title="1956">1956</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Tolkien nghiên cứu** là nghiên cứu học thuật về các công trình của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Điều này bao gồm văn học và ngôn ngữ hư cấu cũng như tác phẩm ngữ văn của ông.
+**Nghiên cứu của Tolkien** là nghiên cứu học thuật về các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Điều này bao gồm văn học và ngôn ngữ hư cấu cũng như tác phẩm ngữ văn của ông.
 
 ## Lịch sử {#History}
 
 <h3><span id="Tolkien.27s_Scholarship"></span><span class="mw-headline" id="Tolkien&#39;s_Scholarship">Tolkien&#39;s Scholarship</span></h3>
 
-Nghiên cứu học thuật của chính Tolkien đã có tác động lớn trong lĩnh vực ngữ văn.
+Nghiên cứu học thuật của Tolkien đã có tác động lớn đến lĩnh vực ngữ văn.
 
-Tolkien đã viết nhiều mục dưới chữ "W" trong *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)* và nhiều mục trong số đó vẫn tồn tại cho đến ngày nay như ông đã viết ban đầu.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ông cũng viết *[A Middle English Vocabulary](../A/A_Middle_English_Vocabulary.md)* đột phá xem xét các từ thông dụng thay vì các từ kỳ lạ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tolkien đã viết nhiều mục dưới chữ "W" trong *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)* và nhiều mục trong số đó vẫn còn tồn tại cho đến ngày nay như ông viết ban đầu.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ông cũng viết *[A Middle English Vocabulary](../A/A_Middle_English_Vocabulary.md)* đột phá xem xét các từ thông dụng thay vì các từ kỳ lạ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Bài giảng *[Beowulf: The Monsters and the Critics](../B/Beowulf%253A_The_Monsters_and_the_Critics.md)* của ông đã thay đổi cách hiểu của các học giả về sử thi. Vào thời của ông, nó phần lớn được xem như một tài liệu lịch sử, nhưng Tolkien lập luận rằng nó nên được xem như một tác phẩm văn học nghệ thuật. Phương pháp học Beowulf này hiện đang phổ biến hiện nay.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Bài giảng *[Beowulf: The Monsters and the Critics](../B/Beowulf%253A_The_Monsters_and_the_Critics.md)* của ông đã thay đổi cách hiểu của các học giả về sử thi. Vào thời của ông, nó phần lớn được xem như một tài liệu lịch sử, nhưng Tolkien lập luận rằng nó nên được xem như một tác phẩm nghệ thuật văn học. Phương pháp nghiên cứu Beowulf này hiện nay đã phổ biến.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ### Tuổi ngây thơ {#Age_of_Innocence}
 
@@ -54,18 +54,18 @@ Bài giảng *[Beowulf: The Monsters and the Critics](../B/Beowulf%253A_The_Mons
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien to Henry Resnick, &#34;An Interview with Tolkien&#34; published in <a class="new" href="https://tolkiengateway.net/w/index.php?title=Niekas_18&amp;action=edit&amp;redlink=1" title="Niekas 18 (page does not exist)"><i>Niekas</i> 18</a> (Spring <a href="../_/1967.md" title="1967">1967</a>)</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Nhìn chung, lịch sử học bổng Tolkien được chia thành 4 khoảng thời gian:
+Nói chung, lịch sử học bổng Tolkien được chia thành bốn khoảng thời gian:
 
 - đánh giá cuốn sách
 - thời kỳ sùng bái và những phản ứng dữ dội đối với nó
-- sự chấp nhận Tolkien với tư cách là tác nhân văn học
-- và cuối cùng là giai đoạn hậu [phim](<The_Lord_of_the_Rings_(film_series).md>), bao gồm các tập mở rộng, tái bản và nhiều chủ đề khác nhau.<sup id="cite_ref-ScholOverview_5-0" class="reference"><a href="#cite_note-ScholOverview-5">[5]</a></sup>
+- sự chấp nhận Tolkien như một tác nhân văn học
+- và cuối cùng là giai đoạn hậu [phim](<The_Lord_of_the_Rings_(film_series).md>), bao gồm các tập mở rộng, tái bản và nhiều chủ đề đa dạng.<sup id="cite_ref-ScholOverview_5-0" class="reference"><a href="#cite_note-ScholOverview-5">[5]</a></sup>
 
 Hai giai đoạn đầu đã được [Tom Shippey](Tom_Shippey.md) tóm tắt là "Thời đại ngây thơ": thời gian trước khi xuất bản *[The Silmarillion](The_Silmarillion.md)*, *[Unfinished Tales](../U/Unfinished_Tales.md)*, *[The Letters of J.R.R. Tolkien](The_Letters_of_J.R.R._Tolkien.md)* và *[The History of Middle-earth](The_History_of_Middle-earth.md)*. Sau khi xuất bản ít nhất một số trong số đó, nhiều suy ngẫm, lý thuyết và phỏng đoán đã bị san phẳng bởi thông tin bổ sung.<sup id="cite_ref-CompFore_6-0" class="reference"><a href="#cite_note-CompFore-6">[6]</a></sup> Lĩnh vực được các nhà phê bình văn học quan tâm vẫn còn mỏng và nghiên cứu học thuật nghiêm túc còn hiếm. Hội nghị đầu tiên về văn học Tolkien được tổ chức vào [1966](../_/1966.md); Trước đó, chỉ có những tác phẩm sưu tầm về văn học thiếu nhi mới gây được sự chú ý đặc biệt cho *The Hobbit* và *The Lord of the Rings*.<sup id="cite_ref-ScholFirst_7-0" class="reference"><a href="#cite_note-ScholFirst-7">[7]</a></sup>
 
 ### 1.800 bài viết mới {#1,800_New_Entries}
 
-Một bước ngoặt lớn trong lĩnh vực học thuật là việc xuất bản *[The Silmarillion](The_Silmarillion.md)*, do [Christopher Tolkien](../C/Christopher_Tolkien.md)biên tập. Cuốn sách bao gồm lịch sử của những thứ mà trước đây chỉ là "từ nền", chẳng hạn như [Beren](../B/Beren.md)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> hoặc [Gondolin](../G/Gondolin.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Ngoài nhiều mục được mở rộng, ấn bản thứ hai của *[The Tolkien Companion](The_Tolkien_Companion.md)* của [J.E.A. Tyler](../J/J.E.A._Tyler.md) còn bao gồm khoảng 1.800 mục mới.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Một ấn phẩm mang tính bước ngoặt vào thời điểm này là *[The Road to Middle-earth](The_Road_to_Middle-earth.md)*của Shippey.<sup id="cite_ref-ScholOverview_5-1" class="reference"><a href="#cite_note-ScholOverview-5">[5]</a></sup>
+A major turn in scholarship was the publishing of *[The Silmarillion](The_Silmarillion.md)*, edited by [Christopher Tolkien](../C/Christopher_Tolkien.md). The book included the history of things that were previously no more than a "background-word", such as [Beren](../B/Beren.md)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> or [Gondolin](../G/Gondolin.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Apart from many expanded entries, the second edition of [J.E.A. Tyler](../J/J.E.A._Tyler.md)'s *[The Tolkien Companion](The_Tolkien_Companion.md)* included some 1,800 new entries.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> A landmark publication of this time was Shippey's *[The Road to Middle-earth](The_Road_to_Middle-earth.md)*.<sup id="cite_ref-ScholOverview_5-1" class="reference"><a href="#cite_note-ScholOverview-5">[5]</a></sup>
 
 ## Trường {#Fields}
 
@@ -93,21 +93,21 @@ Một bước ngoặt lớn trong lĩnh vực học thuật là việc xuất b�
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-Có một số trường đại học và cao đẳng cung cấp các khóa học về Tolkien nghiên cứu. Đây là danh sách một số khóa học dành riêng cho nghiên cứu Tolkien. Có một số cơ sở cung cấp các nghiên cứu Tolkien như một phần của khóa học khác.
+Có một số trường đại học và cao đẳng cung cấp các khóa học về nghiên cứu Tolkien. Đây là danh sách một số khóa học dành riêng cho nghiên cứu Tolkien. Có một số tổ chức cung cấp các nghiên cứu về Tolkien như một phần của khóa học khác.
 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Bethel_University" title="wikipedia:Bethel University">Đại học Bethel</a> cung cấp khóa học về thần học [Trung Địa](../M/Middle-earth.md).
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Bradley_University" title="wikipedia:Bradley University">Đại học Bradley</a> cung cấp khóa học do học giả J.R.R. Tolkien [Mike Austin Foster](../M/Mike_Foster.md) giảng dạy trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
-- Trung tâm Học tập suốt đời Cardiff cung cấp một khóa học về văn học Tolkien và mối liên hệ của nó với sự hiểu biết của anh ấy về văn học giả tưởng trước đó.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Bradley_University" title="wikipedia:Bradley University">Đại học Bradley</a> cung cấp một khóa học do học giả J.R.R. Tolkien giảng dạy [Mike Foster](../M/Mike_Foster.md) về *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
+- Trung tâm Học tập suốt đời Cardiff cung cấp một khóa học về văn học của Tolkien và mối liên hệ của nó với sự hiểu biết của ông về văn học giả tưởng trước đó.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Rice_University" title="wikipedia:Rice University">Đại học Rice</a> cung cấp khóa học về *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và *[The Hobbit](The_Hobbit.md)* như một thần thoại của nước Anh.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Rutgers_University" title="wikipedia:Rutgers University">Đại học Rutgers</a> cung cấp khóa học về các yếu tố Cơ đốc giáo có trong *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Victoria_University_of_Wellington" title="wikipedia:Victoria University of Wellington">Đại học Victoria ở Wellington</a> cung cấp khóa học về *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và mối liên hệ của nó với văn học thời trung cổ.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Tolkien_research" title="wikipedia:Tolkien research">Tolkien nghiên cứu</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- [Elvish Học bổng ngôn ngữ](../E/Elvish_Linguistic_Fellowship.md)
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Tolkien_research" title="wikipedia:Tolkien research">Nghiên cứu của Tolkien</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- [Học bổng ngôn ngữ Elf](../E/Elvish_Linguistic_Fellowship.md)
 - [Omentielva](../O/Omentielva.md)
-- [Hội Tolkien](The_Tolkien_Society.md)
+- [Hiệp hội Tolkien](The_Tolkien_Society.md)
 - *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
 
 <span></span>

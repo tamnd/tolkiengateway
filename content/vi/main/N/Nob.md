@@ -54,17 +54,17 @@ infobox:
 
 ## Lịch sử {#History}
 
-Nob sống ở cuối [Kỷ Đệ Tam](../T/Third_Age.md) và có lẽ là đầu [Kỷ Đệ Tứ](../F/Fourth_Age.md). Anh ấy làm việc cho [Barliman Butterbur](../B/Barliman_Butterbur.md) tại *[The Prancing Pony](../T/The_Prancing_Pony.md)* với [Bob](../B/Bob.md), nơi anh ấy phục vụ đồ ăn và đáp ứng mọi nhu cầu khác mà khách hàng có thể có.
+Nob sống vào cuối [Kỷ thứ ba](../T/Third_Age.md) và có lẽ là đầu [Kỷ thứ tư](../F/Fourth_Age.md). Ông làm việc cho [Barliman Butterbur](../B/Barliman_Butterbur.md) tại *[The Prancing Pony](../T/The_Prancing_Pony.md)* cùng với [Bob](../B/Bob.md), nơi ông phục vụ đồ ăn và đáp ứng mọi nhu cầu khác mà khách hàng có thể có.
 
-Vào [tháng Chín 29](../_/29_September.md), [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [bốn Shire-hobbit](../T/Travellers.md) đã đến *The Prancing Pony*.<sup id="cite_ref-Sign_1-1" class="reference"><a href="#cite_note-Sign-1">[1]</a></sup> Khi một trong số họ, [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md), mất tích sau một chuyến dạo đêm, Nob tìm thấy anh ta ở gần nhà của [Bill Ferny](../B/Bill_Ferny.md).<sup id="cite_ref-Strider_3-0" class="reference"><a href="#cite_note-Strider-3">[3]</a></sup> Nhận ra [nguy hiểm](Nazgûl.md), Nob giúp Hobbit ngụy trang giường ngủ, canh gác vào ban đêm. Tuy nhiên, quán trọ đã bị tấn công.<sup id="cite_ref-Knife_4-0" class="reference"><a href="#cite_note-Knife-4">[4]</a></sup>
+Vào [ngày 29 tháng 9](../_/29_September.md), [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [bốn người Hobbit ở Shire](../T/Travellers.md) đã đến *The Prancing Pony*.<sup id="cite_ref-Sign_1-1" class="reference"><a href="#cite_note-Sign-1">[1]</a></sup> Khi một trong số họ, [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md), mất tích sau một chuyến đi dạo đêm, Nob tìm thấy ông ta ở gần nhà của [Bill Ferny](../B/Bill_Ferny.md).<sup id="cite_ref-Strider_3-0" class="reference"><a href="#cite_note-Strider-3">[3]</a></sup> Nhận thấy [mối nguy hiểm](Nazgûl.md), Nob đã giúp người Hobbit ngụy trang giường ngủ và canh gác vào ban đêm. Tuy nhiên, quán trọ đã bị tấn công.<sup id="cite_ref-Knife_4-0" class="reference"><a href="#cite_note-Knife-4">[4]</a></sup>
 
-Khi bốn hobbit đó trở lại vào [28 tháng 10](../_/28_October.md) [năm sau](../T/Third_Age_3019.md),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Nob vẫn làm việc ở *The Prancing Pony*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Khi bốn hobbit đó trở lại vào [ngày 28 tháng 10](../_/28_October.md) [năm sau](../T/Third_Age_3019.md),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Nob vẫn làm việc tại *The Prancing Pony*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 Trong tiếng Anh lịch sử *nob* là tiếng lóng biểu thị sự thiếu tôn trọng đối với một người thuộc tầng lớp thượng lưu, cf. *knob* "đầu".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-[Hammond](../W/Wayne_G._Hammond.md) và [Scull](../C/Christina_Scull.md) nghĩ rằng *Nob* có lẽ đã được chọn vần với *Bob*và nó dường như không được công nhận là từ viết tắt hoặc biệt hiệu.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Cũng có thể *Nob* là biệt hiệu của một người tên là Robert; Bài đánh giá của Tolkien về *Die Französierung des englischen Personennamenschatzes* của M. Förster đề cập đến tên *Nob* trong một dòng với những cái tên được biết đến nhiều hơn là *[Hob](../H/Hob_Hayward.md)* và *Rob*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+[Hammond](../W/Wayne_G._Hammond.md) và [Scull](../C/Christina_Scull.md) nghĩ rằng *Nob* có lẽ đã được chọn vần với *Bob* và nó dường như không được công nhận là từ viết tắt hoặc biệt hiệu.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Cũng có thể *Nob* là biệt hiệu của một người tên là Robert; Bài đánh giá của Tolkien về *Die Französierung des englischen Personennamenschatzes* của M. Förster đề cập đến tên *Nob* trong một dòng với những cái tên được biết đến nhiều hơn là *[Hob](../H/Hob_Hayward.md)* và *Rob*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -87,15 +87,15 @@ Trong tiếng Anh lịch sử *nob* là tiếng lóng biểu thị sự thiếu 
 		</li>
 </ul>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim phát thanh năm 1981)</a>:</b>
 
 <dl><dd><a href="../H/Haydn_Wood.md" title="Haydn Wood">Haydn Wood</a> provided the voice for Nob.</dd></dl>
 
-<b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
+<b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</i> (trò chơi điện tử)</a>:</b>
 
 <dl><dd>No voice actor is specified for this small part. His role in searching for Merry was taken over by <a href="../A/Aragorn.md" title="Aragorn">Strider</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Nob is running errands outside the <a class="mw-redirect" href="../P/Prancing_Pony.md" title="Prancing Pony">Prancing Pony</a> but plays no role in the storyline.</dd></dl>
 

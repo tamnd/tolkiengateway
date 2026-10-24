@@ -17,7 +17,7 @@ images:
 **Rangers** có thể tham khảo:
 
 - **[Đội kiểm lâm phương Bắc](Rangers_of_the_North.md),** một nhóm [Dúnedain](../D/Dúnedain.md) hậu duệ của [Arnorian](../A/Arnor.md).
-- Các **[Đội kiểm lâm của Ithilien](Rangers_of_Ithilien.md),** một tổ chức của [người Gondor](../G/Gondorians.md) ở [Ithilien](../I/Ithilien.md) đã quấy rối và cản trở việc di chuyển của [Sauron](../S/Sauron.md) trong khu vực đó.
+- **[Rangers of Ithilien](Rangers_of_Ithilien.md),** một tổ chức của [người Gondoria](../G/Gondorians.md) ở [Ithilien](../I/Ithilien.md) đã quấy rối và cản trở hoạt động của [Sauron](../S/Sauron.md) trong khu vực đó.
 
 <hr style="margin-top:15px;"/>
 

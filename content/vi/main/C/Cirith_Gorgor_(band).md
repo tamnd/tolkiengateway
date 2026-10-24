@@ -33,7 +33,7 @@ infobox:
 
 **Cirith Gorgor** là ban nhạc [Black Metal](../../category/B/Black_metal.md) của Hà Lan.
 
-Trong các cuộc phỏng vấn, thành viên ban nhạc Marchosias đã nói rõ rằng cái tên này là dấu tích của những ngày đầu thành lập ban nhạc, vì album đầu tay và bản demo của họ đề cập đến các tác phẩm của Tolkien trong một số lời bài hát. Kể từ đó, ban nhạc không có mối liên hệ nào với bảo tàng huyền thoại, thậm chí còn bày tỏ sự khó chịu trước những câu hỏi liên tục về nó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong các cuộc phỏng vấn, thành viên ban nhạc Marchosias đã nói rõ rằng cái tên này là di tích của những ngày đầu thành lập ban nhạc, vì album đầu tay và bản demo của họ đề cập đến các tác phẩm của Tolkien trong một số lời bài hát. Kể từ đó, ban nhạc không có mối liên hệ nào với bảo tàng huyền thoại, thậm chí còn bày tỏ sự khó chịu trước những câu hỏi liên tục về nó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Danh sách đĩa nhạc liên quan {#Relevant_Discography}
 

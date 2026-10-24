@@ -17,7 +17,7 @@ sort_keys:
 Vào một ngày không xác định, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết <b><a href="Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md" title="Letters not published in The Letters of J.R.R. Tolkien">một lá thư</a> gửi <a class="extiw" href="http://en.wikipedia.org/wiki/Bruce_Mitchell_(scholar)" title="wikipedia:Bruce Mitchell (scholar)">Bruce Mitchell</a></b>.<sup id="cite_ref-TB_1-0" class="reference"><a href="#cite_note-TB-1">[1]</a></sup>
 
 - **Chủ đề:** Thảo luận về *[Beowulf](<../B/Beowulf_(poem).md>)*.
-- **Xuất bản:** Một đoạn trích ngắn từ bức thư lần đầu tiên xuất hiện trong bản dịch [1968 của Kevin Crossley-Holland về *Beowulf*](<../B/Beowulf_(Crossley-Holland_translation).md>). Những đoạn trích dài hơn đã được xuất bản trong cuốn sách *[On Old English: Selected Papers](../O/On_Old_English.md)*của Bruce Mitchell.
+- **Xuất bản:** Một đoạn trích ngắn từ bức thư lần đầu tiên xuất hiện trong bản dịch [1968 của Kevin Crossley-Holland về *Beowulf*](<../B/Beowulf_(Crossley-Holland_translation).md>). Những đoạn trích dài hơn đã được xuất bản trong cuốn sách *[On Old English: Selected Papers](../O/On_Old_English.md)* của Bruce Mitchell.
 
 ## Trích xuất {#Extract}
 

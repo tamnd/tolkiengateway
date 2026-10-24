@@ -16,13 +16,13 @@ sort_keys:
   "Quenya nouns": "Lotesse"
 ---
 
-**Lótessë** là tên của tháng trong năm (*[asta](../A/Asta.md)*) theo sau tháng [Víressë](../V/Víressë.md) và trước tháng [Nárië](../N/Nárië.md). Đó là tháng thứ năm trong [Vua Tính toán](../K/King's_Reckoning.md) và [Tính toán của Quản lý](../S/Stewards'_Reckoning.md). Sau khi giới thiệu [Tính toán mới](../N/New_Reckoning.md), năm bắt đầu với Víressë nên Lótessë trở thành tháng thứ hai.<sup id="cite_ref-app_1-0" class="reference"><a href="#cite_note-app-1">[1]</a></sup>
+**Lótessë** là tên của tháng trong năm (*[asta](../A/Asta.md)*) theo sau tháng [Víressë](../V/Víressë.md) và trước tháng [Nárië](../N/Nárië.md). Đó là tháng thứ năm trong [Sự tính toán của Nhà vua](../K/King's_Reckoning.md) và [Sự tính toán của Quản gia](../S/Stewards'_Reckoning.md). Sau khi giới thiệu [Tính toán mới](../N/New_Reckoning.md), năm bắt đầu với Víressë nên Lótessë trở thành tháng thứ hai.<sup id="cite_ref-app_1-0" class="reference"><a href="#cite_note-app-1">[1]</a></sup>
 
-*Lótessë* trong Sự tính toán của các vị vua (và phần lớn trong Sự tính toán của người quản lý) tương ứng với [Thrimidge](../T/Thrimidge.md) trong [Lịch Shire](../S/Shire_Calendar.md) (khoảng [22 tháng 4](../_/22_April.md) đến [21 tháng 5](../_/21_May.md) hiện đại).
+*Lótessë* trong Sự tính toán của các vị vua (và phần lớn trong Sự tính toán của người quản lý) tương ứng với [Thrimidge](../T/Thrimidge.md) trong [Lịch quận](../S/Shire_Calendar.md) (khoảng [22 tháng 4](../_/22_April.md) đến [21 tháng 5](../_/21_May.md) hiện đại).
 
 ## Từ nguyên {#Etymology}
 
-Từ bao gồm từ *[lótë](Lótë.md)*, "nở hoa". Lótessë là tên [Quenya](../Q/Quenya.md) kế thừa từ [Númenor](../N/Númenor.md) và được sử dụng theo truyền thống bởi các dân tộc nói [Westron](../W/Westron.md). Tuy nhiên, chính [Dúnedain](../D/Dúnedain.md) đã sử dụng tên [Sindarin](../S/Sindarin.md) của tháng, [Lothron](Lothron.md).<sup id="cite_ref-app_1-1" class="reference"><a href="#cite_note-app-1">[1]</a></sup>
+Từ bao gồm từ *[lótë](Lótë.md)*, "nở hoa". Lótessë là tên [Quenya](../Q/Quenya.md) được kế thừa từ [Númenor](../N/Númenor.md) và được sử dụng theo truyền thống bởi các dân tộc nói [phương Tây](../W/Westron.md). Tuy nhiên, chính [Dúnedain](../D/Dúnedain.md) đã sử dụng tên [Sindarin](../S/Sindarin.md) của tháng, [Lothron](Lothron.md).<sup id="cite_ref-app_1-1" class="reference"><a href="#cite_note-app-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

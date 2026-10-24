@@ -34,9 +34,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Doble đến từ vùng đất phía nam [Trung Địa](../M/Middle-earth.md), tuy nhiên nhà của anh bị [Orc](../O/Orcs.md) tấn công và anh phải chạy trốn cùng một nhóm bạn. Cùng với [Halbrand](../H/Halbrand.md), [Eamon](<../E/Eamon_(The_Rings_of_Power).md>), [Astrid](<../A/Astrid_(The_Rings_of_Power).md>), [Abigail](../A/Abigail.md) và hai người bị trôi dạt khác, Doble cuối cùng bị mắc kẹt giữa [Biển Sundering](../S/Sundering_Seas.md) sau khi con tàu của họ bị phá hủy bởi một thứ không tên chỉ được biết đến với cái tên [con sâu](../N/Nameless_things.md).
+Doble đến từ vùng đất phía nam của [Trung Địa](../M/Middle-earth.md), mặc dù nhà của anh đã bị [Orc](../O/Orcs.md) tấn công và anh phải chạy trốn cùng một nhóm bạn đồng hành. Cùng với [Halbrand](../H/Halbrand.md), [Eamon](<../E/Eamon_(The_Rings_of_Power).md>), [Astrid](<../A/Astrid_(The_Rings_of_Power).md>), [Abigail](../A/Abigail.md) và hai người bị trôi dạt khác, Doble cuối cùng bị mắc kẹt giữa [Biển Sundering](../S/Sundering_Seas.md) sau khi con tàu của họ bị phá hủy bởi một thứ không tên chỉ được biết đến với cái tên [con sâu](../N/Nameless_things.md).
 
-Sau hai tuần lênh đênh trên biển, Doble chết không rõ nguyên nhân. Eamon sau đó cho rằng Abigail có một phần trách nhiệm về cái chết của anh ta.
+Sau hai tuần lênh đênh trên biển, Doble chết không rõ nguyên nhân. Eamon sau đó cho rằng Abigail có một phần trách nhiệm về cái chết của ông ta.
 
 <span></span>
 

@@ -22,7 +22,7 @@ sort_keys:
 
 **Sir Anthony John Patrick Kenny** (sinh [16 tháng 3](../_/16_March.md) [1931](../_/1931.md)) là một triết gia Công giáo người Anh.
 
-Anthony Kenny là cháu trai của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Alexander_Jones&amp;action=edit&amp;redlink=1" title="Alexander Jones (page does not exist)">Alexander Jones</a>, tổng biên tập của *[The Jerusalem Bible](../T/The_Jerusalem_Bible.md)* mà [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã đóng góp. Cuốn tự truyện của Kenny bao gồm [hồi tưởng về công việc dịch thuật của Tolkien](../../index/R/Reminiscences_of_J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Anthony Kenny là cháu trai của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Alexander_Jones&amp;action=edit&amp;redlink=1" title="Alexander Jones (page does not exist)">Alexander Jones</a>, tổng biên tập của *[The Jerusalem Bible](../T/The_Jerusalem_Bible.md)* mà [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã đóng góp. Cuốn tự truyện của Kenny bao gồm [hồi tưởng về tác phẩm của Tolkien](../../index/R/Reminiscences_of_J.R.R._Tolkien.md) kèm theo bản dịch.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 

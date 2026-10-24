@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Children of Húrin (audiobook)"
 ---
 
-Chuyển hướng tới [The Children of Húrin (sách nói)](<The_Children_of_Húrin_(audiobook).md>).
+Chuyển hướng đến [The Children of Húrin (audiobook)](<The_Children_of_Húrin_(audiobook).md>).

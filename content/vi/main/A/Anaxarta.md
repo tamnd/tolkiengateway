@@ -12,7 +12,7 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>Anaxarta</b></i> là một [Quenya](../Q/Quenya.md) danh từ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Anaxarta</b></i> là danh từ [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -20,11 +20,11 @@ Từ nguyên của từ này không rõ ràng.
 
 Có thể cho rằng, nó là từ ghép của các từ \**anaxara* \*"most rushing" (*[an-](An-.md)* "most" + \**axara*, có thể phái sinh từ [root](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=SKAR&amp;action=edit&amp;redlink=1" title="SKAR (page does not exist)">SKAR</a>; xem. *[ascar](Ascar.md)*) cộng với *[arta](Arta.md)* "tôn vinh". Từ \**Anaxararta* sẽ được đơn giản hóa thành *Anaxarta*.<sup id="cite_ref-Wynne_2-0" class="reference"><a href="#cite_note-Wynne-2">[2]</a></sup>
 
-Các khả năng khác liên kết từ này với [Máhanaxar](../M/Máhanaxar.md), do đó có nguồn gốc [Valarin](../V/Valarin.md). Trong trường hợp đó, nó có thể tạm thời là tên gọi cho [Valar](../V/Valar.md) người tham gia vào Vòng Phán xét.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Các khả năng khác liên kết từ này với [Máhanaxar](../M/Máhanaxar.md), do đó có nguồn gốc từ [Valarin](../V/Valarin.md). Trong trường hợp đó, nó có thể tạm thời là tên gọi dành cho [Valar](../V/Valar.md) tham gia vào Ring of Doom.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Các hình thức khác {#Other_forms}
 
-- *Anaxartaron* (gen.pl.) \*"of the Valar" or \*"của Đại đế Đại Bàng"
+- *Anaxartaron* (gen.pl.) \*"of the Valar" or \*"của những chú đại bàng vĩ đại"
 
 <span></span>
 

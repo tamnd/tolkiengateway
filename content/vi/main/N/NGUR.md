@@ -12,12 +12,12 @@ categories:
   - "Roots"
 ---
 
-**NGUR** là một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) biểu thị "kinh dị"<sup id="cite_ref-AC_1-0" class="reference"><a href="#cite_note-AC-1">[1]</a></sup> hoặc "chết".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**NGUR** là một [Elvish](../E/Elvish.md) [root](../S/Sundocarme.md) biểu thị "kinh dị"<sup id="cite_ref-AC_1-0" class="reference"><a href="#cite_note-AC-1">[1]</a></sup> hoặc "chết".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Primitive Quendian](../P/Primitive_Quendian.md): *[ñguruk](../_/Ñguruk.md)*<sup id="cite_ref-AC_1-1" class="reference"><a href="#cite_note-AC-1">[1]</a></sup>
-- [Sindarin](../S/Sindarin.md): *[gorth](../G/Gorth.md)*, *[gorthob](../G/Gorthob.md)*; *[gorgor](../G/Gorgor.md)*<sup id="cite_ref-AC_1-2" class="reference"><a href="#cite_note-AC-1">[1]</a></sup>
+- [Quendian nguyên thủy](../P/Primitive_Quendian.md): *[ñguruk](../_/Ñguruk.md)*<sup id="cite_ref-AC_1-1" class="reference"><a href="#cite_note-AC-1">[1]</a></sup>
+- [Tiếng Sindarin](../S/Sindarin.md): *[gorth](../G/Gorth.md)*, *[gorthob](../G/Gorthob.md)*; *[gorgor](../G/Gorgor.md)*<sup id="cite_ref-AC_1-2" class="reference"><a href="#cite_note-AC-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

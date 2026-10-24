@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien (2014 book)"
 ---
 
-Chuyển hướng tới [Tolkien (sách 2014)](<Tolkien_(2014_book).md>).
+Chuyển hướng tới [Tolkien (sách năm 2014)](<Tolkien_(2014_book).md>).

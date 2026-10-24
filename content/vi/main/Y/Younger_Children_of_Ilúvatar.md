@@ -21,9 +21,9 @@ langlinks:
     url: "https://kontu.wiki/Il%C3%BAvatarin_nuoremmat_lapset"
 ---
 
-**Người trẻ hơn Những Người Con của Ilúvatar** là [Con Người](../M/Men.md), người đã thức tỉnh sau Những đứa trẻ lớn hơn hàng ngàn năm, [Tiên tộc](../E/Elves.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Những đứa trẻ nhỏ của Ilúvatar** là [Đàn ông](../M/Men.md), những người đã thức tỉnh hàng nghìn năm sau Những đứa trẻ lớn tuổi hơn, [Yêu tinh](../E/Elves.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong [Nargothrond](../N/Nargothrond.md) Tiên [Gwindor](../G/Gwindor.md) khiển trách [Finduilas](../F/Finduilas.md) khóc lóc, nói rằng việc [Trưởng lão Những Người Con của Ilúvatar](../E/Elder_Children_of_Ilúvatar.md) cưới Em là không phù hợp.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ở [Nargothrond](../N/Nargothrond.md) Yêu tinh [Gwindor](../G/Gwindor.md) đã khiển trách [Finduilas](../F/Finduilas.md) vì đã khóc, nói rằng việc [Những đứa con lớn của Ilúvatar](../E/Elder_Children_of_Ilúvatar.md) kết hôn với Younger là không phù hợp.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

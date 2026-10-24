@@ -16,8 +16,8 @@ images:
 
 <b><a class="extiw" href="http://en.wikipedia.org/wiki/Lord%27s_Prayer" title="wikipedia:Lord&#39;s Prayer">Kinh Lạy Cha</a></b> (còn được gọi là **Lạy Cha** và **Pater Noster** bằng [tiếng Latinh](Latin.md)), một lời cầu nguyện trọng tâm trong [Kitô giáo](../C/Christianity.md), có thể đề cập đến:
 
-- <i><b><a href="../_/Átaremma.md" title="Átaremma">Átaremma</a></b></i> (Kinh Lạy Cha trong [Quenya](../Q/Quenya.md))
-- <i><b><a href="../A/Ae_Adar_Nín.md" title="Ae Adar Nín">Ae Adar Nín</a></b></i> (Kinh Lạy Cha trong [Sindarin](../S/Sindarin.md))
+- <i><b><a href="../_/Átaremma.md" title="Átaremma">Átaremma</a></b></i> (Kinh Lạy Cha ở [Quenya](../Q/Quenya.md))
+- <i><b><a href="../A/Ae_Adar_Nín.md" title="Ae Adar Nín">Ae Adar Nín</a></b></i> (Kinh Lạy Cha bằng [Sindarin](../S/Sindarin.md))
 
 <hr style="margin-top:15px;"/>
 

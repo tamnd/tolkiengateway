@@ -21,38 +21,38 @@ images:
 ### Trang sức {#Jewellery}
 
 - **[Một chiếc nhẫn](../O/One_Ring.md)**, được rèn bởi [Sauron](../S/Sauron.md).
-    - Dấu hiệu [Chữ trên chiếc nhẫn](Ring-inscription.md), dòng chữ [Tengwar](../T/Tengwar.md) xung quanh Chiếc nhẫn.
-    - [Chúa tể của những chiếc nhẫn](../L/Lord_of_the_Ring.md), danh hiệu Sauron.
-    - Cuộc [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), một cuộc chiến tranh lớn dẫn đến sự phá hủy của Nhẫn Chúa và Sauron.
-    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md), chín thành viên được giao nhiệm vụ phá hủy Chiếc Nhẫn Chúa.
+    - Dòng chữ [chữ trên chiếc nhẫn](Ring-inscription.md), dòng chữ [Tengwar](../T/Tengwar.md) xung quanh chiếc Nhẫn Chúa.
+    - [Chúa tể của những chiếc nhẫn](../L/Lord_of_the_Ring.md), danh hiệu của Sauron.
+    - [Cuộc chiến của chiếc nhẫn](../W/War_of_the_Ring.md), một cuộc chiến lớn dẫn đến sự hủy diệt của Chiếc nhẫn và Sauron.
+    - [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md), chín thành viên được giao nhiệm vụ phá hủy chiếc nhẫn.
     - Người [Người tìm nhẫn](Ring-finder.md) và [Người mang nhẫn](Ring-bearers.md).
-- Chiếc **[Những Chiếc Nhẫn Quyền Năng](Rings_of_Power.md)**, được rèn bởi [Celebrimbor](../C/Celebrimbor.md).
-    - [Ba](../T/Three_Rings.md) cho [Tiên tộc](../E/Elves.md):
+- **[Những chiếc nhẫn quyền lực](Rings_of_Power.md)**, được rèn bởi [Celebrimbor](../C/Celebrimbor.md).
+    - [Bộ ba](../T/Three_Rings.md) dành cho [Yêu tinh](../E/Elves.md):
         - [Narya](../N/Narya.md), Chiếc Nhẫn Lửa, được đeo bởi [Gil-galad](../G/Gil-galad.md), [Círdan](../C/Círdan.md) và cuối cùng là [Gandalf](../G/Gandalf.md).
-        - [Nenya](../N/Nenya.md), Chiếc Nhẫn Nước, được [Galadriel](../G/Galadriel.md) đeo.
-        - [Vilya](../V/Vilya.md), Chiếc Nhẫn Không Khí, được đeo bởi [Gil-galad](../G/Gil-galad.md) và [Elrond](../E/Elrond.md).
-    - [The Nine](../N/Nine_Rings.md) dành cho [Con Người](../M/Men.md), được trao cho thứ sẽ trở thành [Nazgûl](../N/Nazgûl.md).
-    - [Bảy](../S/Seven_Rings.md) cho [Người Lùn](../D/Dwarves.md), trong đó chỉ có một được biết:
-        - [Vòng Thrór](Ring_of_Thrór.md).
+        - [Nenya](../N/Nenya.md), Chiếc nhẫn Nước, được đeo bởi [Galadriel](../G/Galadriel.md).
+        - [Vilya](../V/Vilya.md), Chiếc nhẫn không khí, được đeo bởi [Gil-galad](../G/Gil-galad.md) và [Elrond](../E/Elrond.md).
+    - [The Nine](../N/Nine_Rings.md) dành cho [Nam giới](../M/Men.md), được trao cho những gì sẽ trở thành [Nazgûl](../N/Nazgûl.md).
+    - [Bảy](../S/Seven_Rings.md) dành cho [Người lùn](../D/Dwarves.md), trong đó chỉ có một người được biết đến:
+        - [Chiếc nhẫn của Thrór](Ring_of_Thrór.md).
 
-- Các **[các vòng nhỏ hơn](../L/Lesser_rings.md)**, được rèn bởi [Tiên tộc](../E/Elves.md).
+- Những **[những chiếc nhẫn nhỏ hơn](../L/Lesser_rings.md)**, được rèn bởi [Yêu tinh](../E/Elves.md).
 - Chiếc nhẫn của Saruman, một chiếc nhẫn nhỏ hơn được rèn bởi [Saruman](../S/Saruman.md) trong nỗ lực tạo ra một chiếc nhẫn sức mạnh.
-- Chiếc nhẫn [của Barahir](Ring_of_Barahir.md), vật gia truyền của [Dúnedain](../D/Dúnedain.md).
+- Chiếc [Chiếc nhẫn của Barahir](Ring_of_Barahir.md), vật gia truyền của [Dúnedain](../D/Dúnedain.md).
 
 ### Địa điểm {#Locations}
 
 - [Máhanaxar](../M/Máhanaxar.md), *Ring of Doom* nơi [Valar](../V/Valar.md) gặp nhau.
-- Vòng [Vòng Isengard](Ring_of_Isengard.md), các bức tường xung quanh [Orthanc](../O/Orthanc.md).
+- [Vành đai Isengard](Ring_of_Isengard.md), những bức tường xung quanh [Orthanc](../O/Orthanc.md).
 
 ## [Thế giới thực](../../category/R/Real-world.md) {#Real-world}
 
 ### Sách {#Books}
 
 - *[Morgoth's Ring](../M/Morgoth's_Ring.md)*, cuốn thứ mười trong bộ *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)*.
-Chiếc nhẫn của     - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Morgoth%27s_Ring_(concept)&amp;action=edit&amp;redlink=1" title="Morgoth&#39;s Ring (concept) (page does not exist)">Morgoth(khái niệm)</a>.
-- *[The Ring goes South](../T/The_Ring_goes_South~59655.md)*, chương thứ mười lăm của [The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md).
-- *[The Ring of Words](../T/The_Ring_of_Words.md)*, cuốn sách về thời [Tolkien](../J/J.R.R._Tolkien.md) tại [Oxford Từ điển tiếng Anh](../O/Oxford_English_Dictionary.md).
-- *[Tolkien's Ring](../T/Tolkien's_Ring.md)*, sách của [David Day](../D/David_Day.md).
+    - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Morgoth%27s_Ring_(concept)&amp;action=edit&amp;redlink=1" title="Morgoth&#39;s Ring (concept) (page does not exist)">Chiếc nhẫn của Morgoth (khái niệm)</a>.
+- *[The Ring goes South](../T/The_Ring_goes_South~59655.md)*, chương thứ mười lăm của [Hiệp hội chiếc nhẫn](../T/The_Fellowship_of_the_Ring.md).
+- *[The Ring of Words](../T/The_Ring_of_Words.md)*, cuốn sách về thời gian của [Tolkien](../J/J.R.R._Tolkien.md) tại [Từ điển tiếng Anh Oxford](../O/Oxford_English_Dictionary.md).
+- *[Tolkien's Ring](../T/Tolkien's_Ring.md)*, cuốn sách của [David Day](../D/David_Day.md).
 
 ### Âm nhạc {#Music}
 
@@ -61,9 +61,9 @@ Chiếc nhẫn của     - <a class="new" href="https://tolkiengateway.net/w/ind
 
 ## Xem thêm {#See_also}
 
-- <i><a class="mw-disambig" href="../T/The_Fellowship_of_the_Ring_(disambiguation).md" title="The Fellowship of the Ring (disambiguation)">The Fellowship of the Ring (định hướng)</a></i>
-- <i><a class="mw-disambig" href="../T/The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (định hướng)</a></i>
-- <i><a class="mw-disambig" href="../W/War_of_the_Ring_(disambiguation).md" title="War of the Ring (disambiguation)">Cuộc chiến Nhẫn (định hướng)</a></i>
+- <i><a class="mw-disambig" href="../T/The_Fellowship_of_the_Ring_(disambiguation).md" title="The Fellowship of the Ring (disambiguation)">Hiệp hội của chiếc nhẫn (định hướng)</a></i>
+- <i><a class="mw-disambig" href="../T/The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">Chúa tể của những chiếc nhẫn (định hướng)</a></i>
+- <i><a class="mw-disambig" href="../W/War_of_the_Ring_(disambiguation).md" title="War of the Ring (disambiguation)">War of the Ring (định hướng)</a></i>
 
 <hr style="margin-top:15px;"/>
 

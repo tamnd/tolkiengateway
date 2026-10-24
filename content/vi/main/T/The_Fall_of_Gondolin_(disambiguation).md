@@ -21,14 +21,14 @@ images:
   - "Disambig.png"
 ---
 
-**The Fall of Gondolin** đề cập đến nhiều hơn một khái niệm:
+**Sự sụp đổ của Gondolin** đề cập đến nhiều khái niệm:
 
-- <i><b><a href="The_Fall_of_Gondolin.md" title="The Fall of Gondolin">The Fall of Gondolin</a></b></i>, ấn phẩm [2018](../_/2018.md) bao gồm toàn bộ câu chuyện và lịch sử của nó, bao gồm cả chương năm 1984.
-- [Của Tuor và Sự sụp đổ của Gondolin](../O/Of_Tuor_and_the_Fall_of_Gondolin.md), chương thứ hai mươi ba trong cuốn [1977](../_/1977.md) *[The Silmarillion](The_Silmarillion.md)*.
-- [The Fall of Gondolin (chương)](<The_Fall_of_Gondolin_(chapter).md>), chương trong cuốn sách [1984](../_/1984.md) *[The Book of Lost Tales Part Two](The_Book_of_Lost_Tales_Part_Two.md)* bao gồm phiên bản đầu tiên của câu chuyện.
-- [The Lay of the Sự sụp đổ của Gondolin](The_Lay_of_the_Fall_of_Gondolin.md), một bài thơ chưa hoàn thành có trong *[The Lays of Beleriand](The_Lays_of_Beleriand.md)*.
+- <i><b><a href="The_Fall_of_Gondolin.md" title="The Fall of Gondolin">Sự sụp đổ của Gondolin</a></b></i>, ấn phẩm [2018](../_/2018.md) bao gồm toàn bộ câu chuyện và lịch sử của nó, bao gồm cả chương năm 1984.
+- [Về Tuor và sự sụp đổ của Gondolin](../O/Of_Tuor_and_the_Fall_of_Gondolin.md), chương thứ hai mươi ba trong [1977](../_/1977.md) cuốn sách *[The Silmarillion](The_Silmarillion.md)*.
+- [Sự sụp đổ của Gondolin (chương)](<The_Fall_of_Gondolin_(chapter).md>), chương trong cuốn sách [1984](../_/1984.md) *[The Book of Lost Tales Part Two](The_Book_of_Lost_Tales_Part_Two.md)* bao gồm phiên bản đầu tiên của câu chuyện.
+- [Sự sụp đổ của Gondolin](The_Lay_of_the_Fall_of_Gondolin.md), một bài thơ chưa hoàn thành có trong *[The Lays of Beleriand](The_Lays_of_Beleriand.md)*.
 
-- **[Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md)**, bản thân sự kiện có thật về sự sụp đổ của [Gondolin](../G/Gondolin.md) và sự trốn thoát của [Tuor](Tuor.md) và [Idril](../I/Idril.md).
+- **[Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md)**, sự kiện có thật về sự sụp đổ của [Gondolin](../G/Gondolin.md) và sự trốn thoát của [Tuor](Tuor.md) và [Idril](../I/Idril.md).
 
 <hr style="margin-top:15px;"/>
 

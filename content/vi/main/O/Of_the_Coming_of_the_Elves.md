@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of the Coming of the Elves and the Captivity of Melkor"
 ---
 
-Chuyển hướng tới [Về sự xuất hiện của Tiên tộc và Sự giam cầm của Melkor](Of_the_Coming_of_the_Elves_and_the_Captivity_of_Melkor.md).
+Chuyển hướng đến [Sự xuất hiện của Yêu tinh và sự giam cầm của Melkor](Of_the_Coming_of_the_Elves_and_the_Captivity_of_Melkor.md).

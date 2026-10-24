@@ -44,19 +44,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/V/Vinyar_Tengwar_12.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/aa/Vinyar_Tengwar_12.jpg/290px-Vinyar_Tengwar_12.jpg" decoding="async" loading="lazy" width="290" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/a/aa/Vinyar_Tengwar_12.jpg 1.5x" data-file-width="302" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Vinyar Tengwar 12</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../T/Tom_Loback.md" title="Tom Loback">Tom Loback</a> (front cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Elvish_Linguistic_Fellowship.md" title="Elvish Linguistic Fellowship">Elvish Linguistic Fellowship</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">July <a href="../_/1990.md" title="1990">1990</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback journal</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">24</td></tr></tbody></table>
 
-<i><b>Vinyar Tengwar 12</b></i> là số thứ mười hai của *[Vinyar Tengwar](Vinyar_Tengwar.md)*, một tạp chí chuyên nghiên cứu học thuật về các ngôn ngữ được phát minh ra của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Vinyar Tengwar 12</b></i> là số thứ mười hai của *[Vinyar Tengwar](Vinyar_Tengwar.md)*, một tạp chí chuyên nghiên cứu học thuật về các ngôn ngữ được phát minh của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 11</div></div><div class="template-prevnext__linkoverlay"><a href="Vinyar_Tengwar_11.md" title="Vinyar Tengwar 11">Vinyar Tengwar 11</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 12</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 13</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Vinyar_Tengwar_13.md" title="Vinyar Tengwar 13">Vinyar Tengwar 13</a></div></div></div>
 
 ## Nội dung {#Contents}
 
-- Bìa: "The Storming of Gondolin" — Tom Loback
+- Bìa: "Cơn bão Gondolin" — Tom Loback
 - E.L.F. News
 - Thư gửi *VT*
 
 - "*Nólë i Meneldilo*: Truyền thuyết về nhà thiên văn học"✫ — Jorge Quiñónez và Ned Raggett
 - "*[Narqelion](../N/Narqelion.md)*: Bản dịch của Paul Nolan Hyde" — Jorge Quiñónez
-- "Chuyển đổi trong bản dịch: Nếu và khi nào sự thống trị của Con Người" (cột) — Arden R. Smith
+- "Chuyển đổi trong các bản dịch: Nếu và Khi nào Con người thống trị" (cột) — Arden R. Smith
 
 <small>✫ chứa tài liệu chưa được xuất bản trước đây</small>
 

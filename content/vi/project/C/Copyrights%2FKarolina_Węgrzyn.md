@@ -14,4 +14,4 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Wegrzyn, Karolina"
 ---
 
-- Tất cả hình ảnh đều được chủ bản quyền tải lên [Karolina Węgrzyn](https://tolkiengateway.net/wiki/User:Sirielle).
+- Tất cả hình ảnh được tải lên bởi người giữ bản quyền [Karolina Węgrzyn](https://tolkiengateway.net/wiki/User:Sirielle).

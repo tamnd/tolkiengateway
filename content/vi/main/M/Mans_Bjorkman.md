@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Måns Björkman"
 ---
 
-Chuyển hướng đến [Måns Björkman](Måns_Björkman.md).
+Chuyển hướng tới [Måns Björkman](Måns_Björkman.md).

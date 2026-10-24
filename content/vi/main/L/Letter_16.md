@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Bức thư này được viết cho con trai Tolkien [Michael Tolkien](../M/Michael_Tolkien.md) tại [trường nội trú](../T/The_Oratory_School.md). Tolkien an ủi con trai về việc vẫn chưa tham gia đội bóng bầu dục của trường, kể lại việc ban đầu cậu cũng bị từ chối vì quá nhẹ nhưng "quyết định bù đắp cân nặng bằng sự hung dữ (chính đáng)", và cuối cùng được gia nhập đội và 'với màu sắc'. Anh cũng động viên Michael để mắt tới em trai mình [Christopher](../C/Christopher_Tolkien.md). <br>
+Bức thư này được viết cho con trai của Tolkien [Michael Tolkien](../M/Michael_Tolkien.md) tại [trường nội trú](../T/The_Oratory_School.md). Tolkien an ủi con trai mình về việc vẫn chưa tham gia đội bóng bầu dục của trường, kể lại việc ban đầu cậu cũng bị từ chối vì quá nhẹ nhưng "quyết định bù đắp cân nặng bằng sự hung dữ (hợp pháp)", và cuối cùng được gia nhập đội và 'với màu sắc'. Ông cũng khuyến khích Michael để mắt đến em trai mình [Christopher](../C/Christopher_Tolkien.md). <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -15,7 +15,7 @@ sort_keys:
   "Quenya verbs": "Na"
 ---
 
-**na** là động từ [Quenya](../Q/Quenya.md) của "to be".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**na** là động từ [Quenya](../Q/Quenya.md) có nghĩa là "trở thành".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Ngoài ra, *ná* có nghĩa là "đúng vậy"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -32,15 +32,15 @@ Nhiều hình thức chứng thực khác nhau của "to be"<sup id="cite_ref-4"
     - *nalye* "bạn là" (lịch sự)
     - *natye* "bạn là" (quen thuộc)
     - *nás "it is"*
-    - *náse* "(những) anh ấy là"
+    - *náse* "(những) ông là"
     - *nalme* "chúng tôi"
     - *nát* "chúng (kép) là"
     - *nar/nár* "họ là"
 - *náne/né* "đã"
     - *anen* "Tôi đã"
     - *anel* "bạn đã"
-    - *nése* "anh ấy là"
-    - *anes* "(những) anh ấy/đó là"
+    - *nése* "ông là"
+    - *anes* "(những) ông/đó là"
     - *nét* "họ (kép) là"
     - *náner/nér* "họ đã"
 - *uva/nauva* "sẽ"
@@ -90,4 +90,4 @@ Nhiều hình thức chứng thực khác nhau của "to be"<sup id="cite_ref-4"
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.phy.duke.edu/~trenk/elvish/to_be.html" rel="noreferrer noopener" target="_blank">Elvish động từ "to be"</a>
+- <a class="external text" href="http://www.phy.duke.edu/~trenk/elvish/to_be.html" rel="noreferrer noopener" target="_blank">Động từ tiếng Elf "to be"</a>

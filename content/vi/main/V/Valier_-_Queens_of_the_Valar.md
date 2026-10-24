@@ -12,7 +12,7 @@ categories:
   - "Songs by Battlelore"
 ---
 
-<i><b><a class="mw-redirect" href="Valier.md" title="Valier">Valier</a> - Nữ hoàng của <a href="Valar.md" title="Valar">Valar</a></b></i> là một bài hát của ban nhạc epic metal [Battlelore](../B/Battlelore.md). Nó xuất hiện trong album dài thứ ba của họ, [Kỷ Đệ Tam của Mặt Trời](../T/Third_Age_of_the_Sun.md).
+<i><b><a class="mw-redirect" href="Valier.md" title="Valier">Valier</a> - Nữ hoàng của <a href="Valar.md" title="Valar">Valar</a></b></i> là một bài hát của ban nhạc epic metal [Battlelore](../B/Battlelore.md). Nó xuất hiện trong album dài thứ ba của họ, [Third Age of the Sun](../T/Third_Age_of_the_Sun.md).
 
 ## Lời bài hát {#Lyrics}
 

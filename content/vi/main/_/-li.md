@@ -14,7 +14,7 @@ sort_keys:
   "Quenya suffixes": "li"
 ---
 
-<i><b>-li</b></i> là một phân từ số nhiều kết thúc bằng [Quenya](../Q/Quenya.md), biểu thị "nhiều, một số, rất nhiều".<sup id="cite_ref-Eldarin_1-0" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:62</sup>
+<i><b>-li</b></i> là một số nhiều kết thúc bằng [Quenya](../Q/Quenya.md), biểu thị "nhiều, một số, rất nhiều".<sup id="cite_ref-Eldarin_1-0" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:62</sup>
 
 ## Từ nguyên {#Etymology}
 

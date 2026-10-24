@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elemmírë (Elf)"
 ---
 
-Chuyển hướng đến [Elemmírë (Tiên)](<Elemmírë_(Elf).md>).
+Chuyển hướng đến [Elemmírë (Yêu tinh)](<Elemmírë_(Elf).md>).

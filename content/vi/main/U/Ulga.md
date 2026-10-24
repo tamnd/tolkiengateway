@@ -25,7 +25,7 @@ categories:
 
 ## Xem thêm {#See_also}
 
-- [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) [UK](UK.md)
+- [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) [UK](UK.md)
 
 <span></span>
 

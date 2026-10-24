@@ -39,13 +39,13 @@ images:
 
 <h2><span id="Usage_in_Tolkien.27s_legendarium"></span><span class="mw-headline" id="Usage_in_Tolkien&#39;s_legendarium">Usage in Tolkien&#39;s legendarium</span></h2>
 
-[Bilbo Baggins](../B/Bilbo_Baggins.md) được sinh ra với một phần khá lớn, vượt xa mức cho phép thông thường, như [Thorin](../T/Thorin.md) đã nhận xét.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Bilbo Baggins](../B/Bilbo_Baggins.md) được sinh ra với một phần khá lớn của nó, vượt xa mức cho phép thông thường, như [Thorin](../T/Thorin.md) đã nhận xét.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-[Elrond](../E/Elrond.md) lưu ý rằng ông không nghĩ ngẫu nhiên mà có nhiều người lạ đến cùng lúc với [hội đồng](../C/Council_of_Elrond.md) của ông, mà "đúng hơn là chúng tôi, những người ngồi đây, chứ không phải ai khác, phải tìm lời khuyên cho sự nguy hiểm của thế giới."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+[Elrond](../E/Elrond.md) lưu ý rằng ông không nghĩ ngẫu nhiên mà có nhiều người lạ đến cùng lúc với [hội đồng](../C/Council_of_Elrond.md) của ông, mà "đúng hơn là chúng tôi, những người ngồi ở đây, chứ không phải ai khác, phải tìm lời khuyên cho sự nguy hiểm của thế giới."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Tolkien học giả Joseph Pierce, khi tham khảo [Đạo Công giáo](../C/Christianity.md) của Tolkien, lập luận rằng "may mắn" là một uyển ngữ chỉ "một chiều hướng siêu nhiên đối với việc diễn ra các sự kiện trong [Trung Địa](../M/Middle-earth.md), trong đó Tolkien thể hiện sự cân bằng thần bí tồn tại giữa những thúc giục của ân sủng hoặc cám dỗ ma quỷ và phản ứng của ý chí trước những thúc giục và cám dỗ đó. Mối quan hệ thần bí này tự nó thể hiện dưới hình thức siêu việt Sự quan phòng, còn hơn cả 'may mắn' hay cơ hội."<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Học giả Joseph Pierce của Tolkien, khi tham khảo [Đạo Công giáo](../C/Christianity.md) của Tolkien, lập luận rằng "may mắn" là một uyển ngữ chỉ "một chiều hướng siêu nhiên đối với việc diễn ra các sự kiện ở [Trung Địa](../M/Middle-earth.md), trong đó Tolkien thể hiện sự cân bằng thần bí tồn tại giữa những thúc giục của ân sủng hoặc sự cám dỗ của ma quỷ và phản ứng của ý chí trước những thúc giục và cám dỗ đó. Mối quan hệ thần bí này tự nó thể hiện dưới hình thức siêu việt Sự quan phòng, còn hơn cả 'may mắn' hay cơ hội."<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

@@ -34,11 +34,11 @@ infobox:
           Frodo and Sam discuss their role in the great tale as they journey towards <a href="../M/Mordor.md" title="Mordor">Mordor</a>.</td></tr><tr><th scope="row" class="tg-infobox-label">Characters</th><td class="tg-infobox-data"><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>, <a href="../L/Legolas.md" title="Legolas">Legolas</a>, <a href="../G/Gimli.md" title="Gimli">Gimli</a>, <a href="../T/Théoden.md" title="Théoden">Théoden</a>, <a href="Éomer.md" title="Éomer">Éomer</a><br/>
                <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a>, <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><i><a href="../F/Farewell_to_Faramir.md" title="Farewell to Faramir">Farewell to Faramir</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><i><a href="../G/Gollum&#39;s_Plan.md" title="Gollum&#39;s Plan">Gollum&#39;s Plan</a></i></td></tr></tbody></table>
 
-**"Trận chiến Trung Địa sắp bắt đầu"** là cảnh thứ 50 của *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và cảnh thứ 65 của [*The Lord of the Rings: The Two Towers* (phiên bản mở rộng)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
+**"Trận chiến ở Trung địa sắp bắt đầu"** là cảnh thứ năm mươi của *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và cảnh thứ sáu mươi lăm của [*The Lord of the Rings: The Two Towers* (extended edition)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
 
 ## Tóm tắt {#Synopsis}
 
-Sau chiến thắng của họ trong trận chiến [Helm's Deep](../H/Helm's_Deep.md), [Gandalf](../G/Gandalf.md), [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md), [Gimli](../G/Gimli.md), [Théoden](../T/Théoden.md) và [Éomer](Éomer.md) cưỡi ngựa tới một đỉnh cao nhìn ra hàng dặm đất liền, với ánh sáng đỏ và tia chớp của [Mordor](../M/Mordor.md) có thể nhìn thấy ở phía xa. Gandalf tóm tắt tình hình hiện tại của họ: cuộc chiến giành [Trung Địa](../M/Middle-earth.md) sắp bắt đầu và hy vọng thực sự của họ để đánh bại [Sauron](../S/Sauron.md) nằm ở nhiệm vụ [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md).
+Sau chiến thắng của họ trong trận chiến [Helm's Deep](../H/Helm's_Deep.md), [Gandalf](../G/Gandalf.md), [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md), [Gimli](../G/Gimli.md), [Théoden](../T/Théoden.md) và [Éomer](Éomer.md) cưỡi ngựa tới một đỉnh cao nhìn ra hàng dặm đất liền, với ánh sáng đỏ và tia chớp của [Mordor](../M/Mordor.md) có thể nhìn thấy từ xa. Gandalf tóm tắt tình hình hiện tại của họ: trận chiến giành [Trung Địa](../M/Middle-earth.md) sắp bắt đầu và hy vọng thực sự của họ là đánh bại [Sauron](../S/Sauron.md) nằm ở nhiệm vụ của [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md).
 
 Khi Frodo và Sam đi theo [Gollum](../G/Gollum.md) xuyên qua khu rừng, Sam tự hỏi liệu có bao giờ có câu chuyện nào về họ hay không.
 
@@ -48,11 +48,11 @@ Khi Frodo và Sam đi theo [Gollum](../G/Gollum.md) xuyên qua khu rừng, Sam t
 <p class="tg-quote-footer"><cite>Samwise Gamgee</cite></p>
 </blockquote>
 
-Frodo mỉm cười và nói với anh rằng anh đã bỏ qua "Samwise the Brave", một trong những nhân vật chính. Anh ấy dừng lại và nói *"Frodo sẽ không thể tiến xa nếu không có Sam"*. Hai hobbit tiếp tục đi tiếp và Sam thở dài *"Samwise the Brave"*.
+Frodo mỉm cười và nói với anh rằng anh đã bỏ qua "Samwise the Brave", một trong những nhân vật chính. Ông dừng lại và nói *"Frodo sẽ không thể tiến xa nếu không có Sam"*. Hai hobbit tiếp tục đi tiếp và Sam thở dài *"Samwise the Brave"*.
 
 ## Sự khác biệt {#Differences}
 
-Cuộc trò chuyện giữa Frodo và Sam xảy ra trong cảnh này được phỏng theo cuộc trò chuyện của hai hobbit trong chương [Cầu thang của Cirith Ungol](../T/The_Stairs_of_Cirith_Ungol.md). Trong quá trình leo [cầu thang](../S/Stairs_of_Cirith_Ungol.md), họ nghỉ ngơi và ăn uống. Ở đây, Sam tự hỏi "họ đã rơi vào loại câu chuyện nào". Anh ấy trầm ngâm rằng họ đang ở trong cùng một câu chuyện không bao giờ kết thúc với [Beren](../B/Beren.md), người chưa bao giờ nghĩ rằng mình sẽ lấy được một [Silmaril](../S/Silmaril.md), và nhận xét rằng mối nguy hiểm của Beren còn tệ hơn của họ. Đoạn hội thoại trong cuốn sách rất giống với đoạn hội thoại trong cảnh này. Một điểm khác biệt nhỏ là Frodo gọi Sam là "Samwise dũng cảm" (ngược lại với "Samwise the Brave") trong sách.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Cuộc trò chuyện giữa Frodo và Sam xảy ra trong cảnh này được phỏng theo cuộc trò chuyện của hai hobbit trong chương [Cầu thang của Cirith Ungol](../T/The_Stairs_of_Cirith_Ungol.md). Trong quá trình leo [cầu thang](../S/Stairs_of_Cirith_Ungol.md), họ nghỉ ngơi và ăn uống. Tại đây, Sam tự hỏi họ đã rơi vào "loại câu chuyện nào". Ông trầm ngâm rằng họ đang ở trong cùng một câu chuyện không bao giờ kết thúc với [Beren](../B/Beren.md), người chưa bao giờ nghĩ rằng mình sẽ lấy được [Silmaril](../S/Silmaril.md), và nhận xét rằng mối nguy hiểm của Beren còn tệ hơn cả họ. Đoạn hội thoại trong cuốn sách rất giống với đoạn hội thoại trong cảnh này. Một điểm khác biệt nhỏ là Frodo gọi Sam là "Samwise dũng cảm" (ngược lại với "Samwise the Brave") trong sách.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

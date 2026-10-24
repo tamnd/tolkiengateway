@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>methed</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "kết thúc".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-VT48_2-0" class="reference"><a href="#cite_note-VT48-2">[2]</a></sup>
+<i><b>methed</b></i> là từ [Sindarin](../S/Sindarin.md) có nghĩa là "kết thúc".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-VT48_2-0" class="reference"><a href="#cite_note-VT48-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Alan Lee - The Forest of Fangorn.jpg"
 ---
 
-Chuyển hướng đến [Tệp:Alan Lee - Khu rừng Fangorn.jpg](Alan_Lee_-_The_Forest_of_Fangorn.jpg.md).
+Chuyển hướng tới [Tệp:Alan Lee - Khu rừng Fangorn.jpg](Alan_Lee_-_The_Forest_of_Fangorn.jpg.md).

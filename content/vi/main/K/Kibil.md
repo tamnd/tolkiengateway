@@ -13,9 +13,9 @@ categories:
   - "Khuzdul words"
 ---
 
-<i><b>kibil</b></i> là [Khuzdul](Khuzdul.md) từ dành cho [bạc](../S/Silver.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>kibil</b></i> là từ [Khuzdul](Khuzdul.md) có nghĩa là [bạc](../S/Silver.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Có thể nó liên quan đến [Sindarin](../S/Sindarin.md) *[celeb](../C/Celeb.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Có thể nó có liên quan đến [Sindarin](../S/Sindarin.md) *[celeb](../C/Celeb.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 

@@ -25,15 +25,15 @@ langlinks:
     url: "https://kontu.wiki/Dr%C3%BAedainin_kieli"
 ---
 
-**Drúadan** là một [ngôn ngữ Mannish](../M/Mannish.md) [](../L/Languages.md) được sử dụng bởi [Drúedain](Drúedain.md).<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+**Drúadan** là một [tiếng Mannish](../M/Mannish.md) [ngôn ngữ](../L/Languages.md) được sử dụng bởi [Drúedain](Drúedain.md).<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ## Đặc điểm {#Characteristics}
 
 Ngôn ngữ của Drúedain hoàn toàn xa lạ với những người nói [Westron](../W/Westron.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nghe có vẻ khàn và lạ đối với [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Từ *gorgûn* có thể bắt nguồn từ Elvish [các từ](../R/RUKU.md) cho [Orc](../O/Orcs.md).<sup id="cite_ref-AC_4-0" class="reference"><a href="#cite_note-AC-4">[4]</a></sup>
+Từ *gorgûn* có thể bắt nguồn từ [từ](../R/RUKU.md) của Tiên dành cho [Orc](../O/Orcs.md).<sup id="cite_ref-AC_4-0" class="reference"><a href="#cite_note-AC-4">[4]</a></sup>
 
-Giọng của Drúedain được mô tả là "sâu và sâu lắng".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Giọng nói của Drúedain được mô tả là "sâu và sâu lắng".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Danh sách từ {#Wordlist}
 
@@ -47,7 +47,7 @@ Các học giả và người hâm mộ thường sử dụng cái tên chưa đ
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
 
 <dl><dd>The tongue of the Woses is called <i>Pûkael</i>, said to be &#34;ideally suited to their voices and... alien to that of other Men&#34;.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Pûkael is nearly impossible for other people to pronounce, and the Woses are not willing to teach it.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 

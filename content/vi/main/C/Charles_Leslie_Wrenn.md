@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Wrenn, Charles Leslie"
 ---
 
-**Charles Leslie Wrenn** ([1895](../_/1895.md)–[1969](../_/1969.md)) là bạn [Inkling](../I/Inklings.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Ông trở thành [Rawlinson và Giáo sư Bosworth của Anglo-Saxon](../R/Rawlinson_and_Bosworth_Professor_of_Anglo-Saxon.md) tại [Đại học Oxford](../U/University_of_Oxford.md) ở [1945](../_/1945.md), người kế nhiệm vị trí chủ tịch của J.R.R. Tolkien, một chức vụ mà ông giữ cho đến năm 1963.
+**Charles Leslie Wrenn** ([1895](../_/1895.md)–[1969](../_/1969.md)) là bạn [Inkling](../I/Inklings.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Ông trở thành [Rawlinson và Giáo sư Bosworth về Anglo-Saxon](../R/Rawlinson_and_Bosworth_Professor_of_Anglo-Saxon.md) tại [Đại học Oxford](../U/University_of_Oxford.md) ở [1945](../_/1945.md), người kế nhiệm vị trí chủ tịch của J.R.R. Tolkien, chức vụ mà ông giữ cho đến năm 1963.
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 

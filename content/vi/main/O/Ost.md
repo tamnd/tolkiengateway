@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>ost</b></i> là một từ [Sindarin](../S/Sindarin.md), có nghĩa là "pháo đài, thành trì".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>ost</b></i> là từ [Sindarin](../S/Sindarin.md), có nghĩa là "pháo đài, thành trì".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

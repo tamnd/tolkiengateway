@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Tevildo](../../main/T/Tevildo.md) và [Tinúviel](../../main/L/Lúthien.md)" trước [Ted Nasmith](../../main/T/Ted_Nasmith.md), 2024.
+"[Tevildo](../../main/T/Tevildo.md) và [Tinúviel](../../main/L/Lúthien.md)" của [Ted Nasmith](../../main/T/Ted_Nasmith.md), 2024.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Up til recently I hadn’t looked much into this account of the early conception of Sauron as a black panther, dwelling in a castle suitable only for these cat-demons. All of it with a typically Tolkienesque tongue in cheek tone. If the account in The Silmarillion is grand opera, then the tale of Tevildo is comic theatre. Lúthien Tinúviel seeks Beren, taken captive, with Huan (not seen here) positioned as the ‘natural canine nemesis’ of the feline species. I’ve conceived the cat-castle to be a semi-natural series of terraces and ‘cavities’. The description of how Tevildo tosses Luthien onto his back and leaps to the highest terrace begged to be illustrated.” (gouache, 15″ x 11.5″)

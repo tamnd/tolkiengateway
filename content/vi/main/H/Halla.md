@@ -20,11 +20,11 @@ images:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/H/Halla.png.md"><img src="https://tolkiengateway.net/w/images/0/02/Halla.png" decoding="async" loading="lazy" width="14" height="55" class="mw-file-element" data-file-width="14" data-file-height="55"/></a><figcaption></figcaption></figure>
 
-*Halla* cũng là tên trong Quenya của một chữ cái ban đầu được dùng để biểu thị "hơi thở" **H**. Nó có thể được đặt trước một phụ âm để biểu thị rằng nó vô thanh và có hơi thở, chẳng hạn như diễn đạt vô thanh *l* hoặc *r*.<sup id="cite_ref-footnote_1-1" class="reference"><a href="#cite_note-footnote-1">[1]</a></sup> Theo thời gian, chữ cái *[Harma](Harma.md)*, khi được sử dụng ở đầu một từ, sẽ đại diện cho "hơi thở" *h* (và sau đó được gọi là *[Aha](../A/Aha.md)*).
+*Halla* cũng là tên trong tiếng Quenya của một chữ cái ban đầu được dùng để biểu thị "hơi thở" **H**. Nó có thể được đặt trước một phụ âm để biểu thị rằng nó vô thanh và có hơi thở, chẳng hạn như diễn đạt vô thanh *l* hoặc *r*.<sup id="cite_ref-footnote_1-1" class="reference"><a href="#cite_note-footnote-1">[1]</a></sup> Theo thời gian, chữ cái *[Harma](Harma.md)*, khi được sử dụng ở đầu một từ, sẽ đại diện cho "hơi thở" *h* (và sau đó được gọi là *[Aha](../A/Aha.md)*).
 
 ## Xem thêm {#See_also}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](Helge_Fauskanger.md)
 
 <span></span>
 

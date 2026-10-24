@@ -12,7 +12,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Keskmaa Ordu** (viết tắt KO), là một [Tolkien xã hội](../T/Tolkien_Societies~67099.md) ở Estonia. Tính đến năm 2024, nhóm hoạt động trên Facebook và đã tổ chức các sự kiện gần đây nhất là vào năm 2023.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Keskmaa Ordu** (viết tắt KO), là [xã hội Tolkien](../T/Tolkien_Societies~67099.md) ở Estonia. Tính đến năm 2024, nhóm hoạt động trên Facebook và đã tổ chức các sự kiện gần đây nhất là vào năm 2023.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

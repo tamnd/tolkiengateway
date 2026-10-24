@@ -53,23 +53,23 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>, &#34;<a href="../O/Of_Beren_and_Lúthien.md" title="Of Beren and Lúthien">Of Beren and Lúthien</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Tarn Aeluin**,<sup id="cite_ref-Beren_1-0" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup> đôi khi được gọi đơn giản là **Aeluin**,<sup id="cite_ref-MR_2-0" class="reference"><a href="#cite_note-MR-2">[2]</a></sup> là một hồ nước trong xanh trên núi ở vùng cao nguyên phía đông của [Dorthonion](../D/Dorthonion.md), phía tây nam của [Ladros](../L/Ladros.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Nó nằm giữa những ngọn đồi thạch nam hoang dã, được bao quanh bởi những khu rừng không có dấu vết và không có người ở cũng như vùng đồng bằng thạch nam cao nguyên. [Cây Alder](../A/Alders.md) được biết là mọc bên cạnh hồ.<sup id="cite_ref-Beren_1-1" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
+**Tarn Aeluin**,<sup id="cite_ref-Beren_1-0" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup> đôi khi chỉ được gọi là **Aeluin**,<sup id="cite_ref-MR_2-0" class="reference"><a href="#cite_note-MR-2">[2]</a></sup> là một hồ nước trong xanh trên núi ở vùng cao nguyên phía đông của [Dorthonion](../D/Dorthonion.md), phía tây nam của [Ladros](../L/Ladros.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Nó nằm giữa những ngọn đồi thạch thảo hoang dã, được bao quanh bởi những khu rừng không có lối đi và không có người ở cũng như vùng đồng bằng thạch nam cao nguyên. [Cây Alder](../A/Alders.md) được biết là mọc bên cạnh hồ.<sup id="cite_ref-Beren_1-1" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Tarn Aeluin được cho là đã được [Melian](../M/Melian.md) thần thánh [Maia](../M/Maiar.md).<sup id="cite_ref-Beren_1-2" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
+Tarn Aeluin được cho là đã được [Melian](../M/Melian.md) [Maia](../M/Maiar.md) phong thánh.<sup id="cite_ref-Beren_1-2" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
 
-Khi [Aegnor](../A/Aegnor.md) nhìn thấy hình ảnh phản chiếu của [Andreth](../A/Andreth.md) trong Tarn Aeluin, anh đã yêu cô.<sup id="cite_ref-MR_2-1" class="reference"><a href="#cite_note-MR-2">[2]</a></sup>
+Khi [Aegnor](../A/Aegnor.md) nhìn thấy hình ảnh phản chiếu của [Andreth](../A/Andreth.md) trong Tarn Aeluin, anh đã yêu bà.<sup id="cite_ref-MR_2-1" class="reference"><a href="#cite_note-MR-2">[2]</a></sup>
 
-[Barahir](../B/Barahir.md) và [mười hai người theo dõi](../X/XII_Bëorings.md) của hắn đã trốn khỏi lực lượng của [Morgoth](../M/Morgoth.md) sau [Dagor Bragollach](../D/Dagor_Bragollach.md) và làm hang ổ của chúng tại Tarn Aeluin. Ở đó, họ ẩn náu cho đến khi bị [Gorlim](../G/Gorlim.md) phản bội.<sup id="cite_ref-Beren_1-3" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
+[Barahir](../B/Barahir.md) và [mười hai người theo hắn](../X/XII_Bëorings.md) trốn khỏi lực lượng của [Morgoth](../M/Morgoth.md) sau [Dagor Bragollach](../D/Dagor_Bragollach.md) và xây dựng hang ổ của họ tại Tarn Aeluin. Ở đó, họ ẩn náu cho đến khi bị [Gorlim](../G/Gorlim.md) phản bội.<sup id="cite_ref-Beren_1-3" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Aeluin* rõ ràng là [Sindarin](../S/Sindarin.md), không bao giờ được đánh bóng. [Paul Strack](../P/Paul_Strack.md) giải thích nó có nghĩa là "Hồ xanh", từ *[ael](../A/Ael.md)* ("hồ, hồ") + *[luin](../L/Luin.md)* ("xanh").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> *Tarn* là một [từ tiếng Anh cổ](../U/Uncommon_words.md) có nghĩa là "hồ trên núi".
+*Aeluin* rõ ràng là [Sindarin](../S/Sindarin.md), không bao giờ được che đậy. [Paul Strack](../P/Paul_Strack.md) giải thích nó có nghĩa là "Hồ xanh", từ *[ael](../A/Ael.md)* ("hồ, hồ") + *[luin](../L/Luin.md)* ("xanh").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> *Tarn* là một [từ tiếng Anh cổ](../U/Uncommon_words.md) có nghĩa là "hồ trên núi".
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Theo văn bản trong "[Khiếu nại của Mîm người Người lùn](The_Complaint_of_Mîm_the_Dwarf.md)", [Mîm](../M/Mîm.md), người cuối cùng trong số [Người lùn Nhỏ](../P/Petty-dwarves.md), đã thực hiện tác phẩm nghệ thuật đầu tiên của mình tại Tarn Aeluin khi còn trẻ.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Theo văn bản trong "[Lời phàn nàn của Mîm the Dwarf](The_Complaint_of_Mîm_the_Dwarf.md)", [Mîm](../M/Mîm.md), người cuối cùng trong số [Những người lùn nhỏ](../P/Petty-dwarves.md), đã thực hiện tác phẩm nghệ thuật đầu tiên của mình tại Tarn Aeluin khi còn trẻ.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

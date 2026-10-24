@@ -64,7 +64,7 @@ Sự kiện xảy ra vào ngày 19 tháng 3
 ## Trên Trái đất {#On_Earth}
 
 - **[1884](1884.md)** - Nhà ngữ văn [Elias Lönnrot](../E/Elias_Lönnrot.md), người biên soạn *[Kalevala](../K/Kalevala.md)*, qua đời.
-- **[1918](1918.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tham gia hội đồng y tế khám. Quân đoàn Phòng thủ Hoàng gia số 9 tại Easington đã bị giải tán và Tolkien sẽ lại đóng tại Cầu Thirtle.
+- **[1918](1918.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tham dự buổi khám của hội đồng y tế. Quân đoàn Phòng thủ Hoàng gia số 9 tại Easington bị giải tán và Tolkien lại đóng quân tại Cầu Thirtle.
 - **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 185](../L/Letter_185.md).
 - **[1989](1989.md)** - [Heren Hyarmen](../H/Heren_Hyarmen.md) được thành lập bởi [Ronald Kyrmse](../R/Ronald_Kyrmse.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/S%C3%A3o_Paulo" title="wikipedia:São Paulo">São Paulo</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Brazil" title="wikipedia:Brazil">Brazil</a>. Vào [9 tháng 1](9_January.md) [2003](2003.md), tên được đổi thành "Heren Hyarmeno", cách sở hữu [Quenya](../Q/Quenya.md) chính xác có nghĩa là "Trật tự miền Nam".
 - **[2000](2000.md)** - Diễn viên lồng tiếng [Fraser Kerr](../F/Fraser_Kerr.md) qua đời.
@@ -75,5 +75,5 @@ Sự kiện xảy ra vào ngày 19 tháng 3
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
     - [Borondir](../B/Borondir.md) đang trên đường tìm kiếm [Éothéod](Éothéod.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [ Đạo quân phương Tây](../A/Army_of_the_West.md) đạt tới [Thung lũng Morgul](../M/Morgul_Vale.md). Bộ binh gia nhập kỵ binh.
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) thoát khỏi [Orc](../O/Orcs.md) và bắt đầu cuộc hành trình dọc theo con đường tới [Barad-dûr](../B/Barad-dûr.md).
+    - [Chủ nhà của phương Tây](../A/Army_of_the_West.md) tiến tới [Morgul Vale](../M/Morgul_Vale.md). Bộ binh gia nhập kỵ binh.
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) thoát khỏi [Orc](../O/Orcs.md) và bắt đầu cuộc hành trình dọc theo con đường đến [Barad-dûr](../B/Barad-dûr.md).

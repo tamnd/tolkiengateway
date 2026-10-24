@@ -47,11 +47,11 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../U/Uglúk.md" title="Uglúk">Uglúk</a> in <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, <i><a href="../T/The_Uruk-hai.md" title="The Uruk-hai">The Uruk-hai</a></i> </cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Một [Orc](../O/Orcs.md), được gọi là **Snaga**, là một trinh sát dưới sự chỉ huy của [Uglúk](../U/Uglúk.md) và là thành viên của một đại đội đang đưa [Peregrin Took](../P/Peregrin_Took.md) và [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) đến [Isengard](../I/Isengard.md). Anh ta đã bị giết khi các tay đua của [Éomer](../_/Éomer.md) tấn công trại của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Một [Orc](../O/Orcs.md), được gọi là **Snaga**, là một trinh sát dưới sự chỉ huy của [Uglúk](../U/Uglúk.md) và là thành viên của đại đội đang đưa [Peregrin Took](../P/Peregrin_Took.md) và [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) đến [Isengard](../I/Isengard.md). Ông ta bị giết khi kỵ binh của [Éomer](../_/Éomer.md) tấn công trại của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-**Snaga** là một thuật ngữ mang tính khinh thường dành cho [Orc](../O/Orcs.md) nhỏ hơn của [Mordor](../M/Mordor.md) và [Isengard](../I/Isengard.md), được sử dụng đặc biệt trong số [Uruk-hai](../U/Uruk-hai.md) lớn hơn và mạnh hơn. Nó xuất phát từ một từ trong [Hắc Ngữ](../B/Black_Speech.md) có nghĩa là 'nô lệ' hoặc 'người hầu'.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Snaga** là một thuật ngữ khinh thường dành cho những [Orc](../O/Orcs.md) nhỏ hơn của [Mordor](../M/Mordor.md) và [Isengard](../I/Isengard.md), được sử dụng đặc biệt giữa những [Uruk-hai](../U/Uruk-hai.md) lớn hơn và mạnh hơn. Nó xuất phát từ một từ trong [Bài phát biểu của người da đen](../B/Black_Speech.md) có nghĩa là 'nô lệ' hoặc 'người hầu'.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -79,19 +79,19 @@ Một [Orc](../O/Orcs.md), được gọi là **Snaga**, là một trinh sát d�
 		</li>
 </ul>
 
-<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>Chúa tể của những chiếc nhẫn</i> (phim 1978)</a>:</b>
 
 <dl><dd><a href="../U/Uglúk.md" title="Uglúk">Uglúk</a> orders Snaga and <a href="../L/Lugdush.md" title="Lugdush">Lugdush</a> to stand guard over <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> and <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a>. He tells them not to kill the Hobbits unless the <a href="../W/Whiteskins.md" title="Whiteskins">Whiteskins</a> break through.</dd></dl>
 
-<b><a href="../_/1981.md" title="1981">1981</a>: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh năm 1981)</a>:</b>
+<b><a href="../_/1981.md" title="1981">1981</a>: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim phát thanh năm 1981)</a>:</b>
 
 <dl><dd>Snaga was voiced by <a href="../G/Gordon_Reid.md" title="Gordon Reid">Gordon Reid</a>.</dd></dl>
 
-<b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
+<b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
 
 <dl><dd>Snaga is played by <a href="../J/Jed_Brophy.md" title="Jed Brophy">Jed Brophy</a>, and voiced by an uncredited <a href="../A/Andy_Serkis.md" title="Andy Serkis">Andy Serkis</a>. In the film, he is depicted as an Orc of Mordor under <a href="../G/Grishnákh.md" title="Grishnákh">Grishnákh</a>&#39;s command. After attempting to eat Merry and Pippin, he is decapitated by <a href="../U/Uglúk.md" title="Uglúk">Uglúk</a> and cannibalized by the ravenous Uruk-hai.</dd></dl>
 
-<b><a href="../_/2013.md" title="2013">2013</a>: <i><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Người giám hộ của Trung Địa</a></i>:</b>
+<b><a href="../_/2013.md" title="2013">2013</a>: <i><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Những người bảo vệ Trung Địa</a></i>:</b>
 
 <dl><dd>Snaga was added as a playable Guardian in a 2013 piece of DLC.</dd></dl>
 

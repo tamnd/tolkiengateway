@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Parma_Eldalamberon_3.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/03/Parma_Eldalamberon_3.png/320px-Parma_Eldalamberon_3.png" decoding="async" loading="lazy" width="320" height="414" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/03/Parma_Eldalamberon_3.png/480px-Parma_Eldalamberon_3.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/03/Parma_Eldalamberon_3.png/640px-Parma_Eldalamberon_3.png 2x" data-file-width="1236" data-file-height="1600"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Parma Eldalamberon 3</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Paula_Marmor.md" title="Paula Marmor">Paula Marmor</a>, Jim Carleton, Jim Vibber, Larry Krieg</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="Paula_Marmor.md" title="Paula Marmor">Paula Marmor</a> (front cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../M/Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">June <a href="../_/1973.md" title="1973">1973</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback journal</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">20</td></tr></tbody></table>
 
-<i><b>Parma Eldalamberon 3</b></i> là số thứ ba của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, tạp chí nghiên cứu ngôn ngữ học về các ngôn ngữ Elvish và tên gọi trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Parma Eldalamberon 3</b></i> là số thứ ba của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, một tạp chí nghiên cứu ngôn ngữ học về các ngôn ngữ và tên gọi của người Tiên trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 2</div></div><div class="template-prevnext__linkoverlay"><a href="Parma_Eldalamberon_2.md" title="Parma Eldalamberon 2">Parma Eldalamberon 2</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 3</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 4</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Parma_Eldalamberon_4.md" title="Parma Eldalamberon 4">Parma Eldalamberon 4</a></div></div></div>
 
@@ -54,13 +54,13 @@ infobox:
 
 - Đánh giá sách
     - *[A Glossary of the Eldarin Tongues](../A/A_Glossary_of_the_Eldarin_Tongues.md)* của Jim Allan — được đánh giá bởi [Robert Foster](../R/Robert_Foster.md)
-    - *[A Guide to Middle-earth](../A/A_Guide_to_Middle-earth.md)* bởi Robert Foster — được đánh giá bởi [Jim Allan](../J/Jim_Allan.md)
+    - *[A Guide to Middle-earth](../A/A_Guide_to_Middle-earth.md)* của Robert Foster — được đánh giá bởi [Jim Allan](../J/Jim_Allan.md)
 
 - Bài viết
     - "Khoa học viễn tưởng như một bài kiểm tra các tiên đề liên quan đến hành vi con người" — Kenneth L. Pike
     - "Những cái tên Brandybuck kỳ quặc" — Jim Allan
-    - "Ghi chú về Hệ thống Sindarin Chuyển đổi Nguyên âm" — Paula Marmor
-    - "Về đại từ trong Quenya" — [Bill Welden](../B/Bill_Welden.md)
+    - "Những lưu ý về hệ thống chuyển đổi nguyên âm Sindarin" — Paula Marmor
+    - "Về đại từ trong tiếng Quenya" — [Bill Welden](../B/Bill_Welden.md)
 
 - Chữ rune: Thư gửi *Parma*
 - [Bìa sau](../../file/P/Parma_Eldalamberon_3_backcover.png.md) — Martha Krieg

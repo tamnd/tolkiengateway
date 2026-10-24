@@ -47,7 +47,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ruby Bolger</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2864.md" title="Third Age 2864">1264</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../B/Bolger_Family~66348.md" title="Bolger Family">Bolger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../A/Adalgar_Bolger.md" title="Adalgar Bolger">Adalgar Bolger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="Rudigar_Bolger.md" title="Rudigar Bolger">Rudigar</a> and <a href="Rudibert_Bolger.md" title="Rudibert Bolger">Rudibert</a></td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../F/Fosco_Baggins.md" title="Fosco Baggins">Fosco Baggins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../D/Dora_Baggins.md" title="Dora Baggins">Dora</a>, <a href="../D/Drogo_Baggins.md" title="Drogo Baggins">Drogo</a> and <a href="../D/Dudo_Baggins.md" title="Dudo Baggins">Dudo</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr></tbody></table>
 
-**Ruby Baggins, nhũ danh Bolger**, là [Hobbit](../H/Hobbits.md) của [the Shire](../T/The_Shire.md).
+**Ruby Baggins, nhũ danh Bolger**, là một [Hobbit](../H/Hobbits.md) của [Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
@@ -55,7 +55,7 @@ Là con gái của [Adalgar Bolger](../A/Adalgar_Bolger.md), Ruby kết hôn v�
 
 ## Từ nguyên {#Etymology}
 
-Có lẽ không phải ngẫu nhiên mà một người phụ nữ Hobbit danh giá lại kết hôn với gia đình Baggins, gần đây đã trở nên giàu có nhờ những chuyến đi của Bilbo. Cả cuộc hôn nhân và tên của Ruby đều phù hợp với việc gia đình Bolgers thuộc tầng lớp cao hơn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Có lẽ không phải ngẫu nhiên mà một người phụ nữ Hobbit với danh tiếng quý giá kết hôn với gia đình Baggins, người gần đây đã trở nên giàu có nhờ những chuyến du hành của Bilbo. Cả cuộc hôn nhân và tên của Ruby đều phù hợp với việc gia đình Bolgers thuộc tầng lớp cao hơn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Tên của viên hồng ngọc bắt nguồn từ tiếng Latin <i><a class="external text" href="http://en.wiktionary.org/wiki/rubeus" rel="noreferrer noopener" target="_blank">rubeus</a></i> có nghĩa là "màu đỏ".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <span></span>
 

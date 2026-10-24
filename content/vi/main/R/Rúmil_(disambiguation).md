@@ -23,12 +23,12 @@ images:
   - "Disambig.png"
 ---
 
-**Rúmil** có thể tham khảo:
+**Rúmil** có thể đề cập đến:
 
 - [Rúmil](<Rúmil_(elf_of_Tirion).md>), bậc thầy truyền thuyết [Noldorin](../N/Noldorin.md) và nhà hiền triết yêu tinh của [Tirion](../T/Tirion.md) ở [Valinor](../V/Valinor.md).
-    - **Bảng chữ cái của Rúmil**, hay *[Sarati](../S/Sarati.md)*, hệ thống chữ viết đầu tiên do Rúmil nghĩ ra.
-    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=I_Equessi_R%C3%BAmilo&amp;action=edit&amp;redlink=1" title="I Equessi Rúmilo (page does not exist)">i Equessi Rúmilo</a></i>, "Những câu nói của Rúmil", truyền miệng về những ngày đầu của [Eldar](../E/Eldar.md) ở [Aman](../A/Aman.md).
-- [Rúmil](<Rúmil_(elf_of_Lórien).md>), một [Silvan](../S/Silvan_Elves.md) biên phòng của [Lothlórien](../L/Lothlórien.md) và là anh trai của [Haldir](../H/Haldir.md) và [Orophin](../O/Orophin.md).
+    - **Bảng chữ cái Rúmil**, hay *[Sarati](../S/Sarati.md)*, hệ thống chữ viết đầu tiên do Rúmil nghĩ ra.
+    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=I_Equessi_R%C3%BAmilo&amp;action=edit&amp;redlink=1" title="I Equessi Rúmilo (page does not exist)">i Equessi Rúmilo</a></i>, "Những câu nói của Rúmil", truyền thuyết truyền miệng về những ngày đầu của [Eldar](../E/Eldar.md) ở [Aman](../A/Aman.md).
+- [Rúmil](<Rúmil_(elf_of_Lórien).md>), một [Silvan](../S/Silvan_Elves.md) lính biên phòng của [Lothlórien](../L/Lothlórien.md) và là anh trai của [Haldir](../H/Haldir.md) và [Orophin](../O/Orophin.md).
 
 <hr style="margin-top:15px;"/>
 

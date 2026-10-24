@@ -16,13 +16,13 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><b>II</b><a href="../T/Third_Age.md" title="Third Age">III</a><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Second_Age_3209.md" title="Second Age 3209">3209</a><a href="Second_Age_3219.md" title="Second Age 3219">3219</a><a href="Second_Age_3243.md" title="Second Age 3243">3243</a><a class="mw-selflink selflink">3255</a><a href="Second_Age_3261.md" title="Second Age 3261">3261</a><a href="Second_Age_3262.md" title="Second Age 3262">3262</a><a href="Second_Age_3299.md" title="Second Age 3299">3299</a></div></div></div></div></div></div>
 
-**Kỷ thứ hai 3255** (viết tắt là **S.A. 3255**) là năm [thứ 3255 thuộc Mặt Trời](../Y/Years_of_the_Sun.md) của [Kỷ thứ hai](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ hai 3255** (viết tắt là **S.A. 3255**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 3255 của [Kỷ thứ hai](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cái chết của [Tar-Palantir](../T/Tar-Palantir.md).<sup id="cite_ref-Palantir_1-0" class="reference"><a href="#cite_note-Palantir-1">[1]</a></sup>
-- [Ar-Pharazôn](../A/Ar-Pharazôn.md) lấy con gái Tar-Palantir của [Míriel](../T/Tar-Míriel.md) làm vợ trái với ý muốn của cô ấy.<sup id="cite_ref-Palantir_1-1" class="reference"><a href="#cite_note-Palantir-1">[1]</a></sup>
-- [Ar-Pharazôn](../A/Ar-Pharazôn.md) [Vàng](../G/Golden.md) chiếm giữ [Vương trượng Númenor](Sceptre_of_Númenor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Ar-Pharazôn](../A/Ar-Pharazôn.md) lấy con gái của Tar-Palantir, [Míriel](../T/Tar-Míriel.md), làm vợ trái với ý muốn của bà.<sup id="cite_ref-Palantir_1-1" class="reference"><a href="#cite_note-Palantir-1">[1]</a></sup>
+- [Ar-Pharazôn](../A/Ar-Pharazôn.md) [Vàng](../G/Golden.md) chiếm giữ [Quyền trượng của Númenor](Sceptre_of_Númenor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

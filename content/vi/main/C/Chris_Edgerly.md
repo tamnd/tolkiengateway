@@ -35,11 +35,11 @@ infobox:
 
 - [2011](../_/2011.md): *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* - Không xác định
 - [2010](../_/2010.md): *[The Lord of the Rings: Aragorn's Quest](../T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)* - Không xác định
-- [2009](../_/2009.md): *[The Lord of the Rings: Conquest](../T/The_Lord_of_the_Rings%253A_Conquest.md)* - [Aragorn](../A/Aragorn.md), Rohan Sĩ quan #2
+- [2009](../_/2009.md): *[The Lord of the Rings: Conquest](../T/The_Lord_of_the_Rings%253A_Conquest.md)* - [Aragorn](../A/Aragorn.md), Sĩ quan Rohan #2
 - [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)* - Aragorn, [Éomer](../_/Éomer.md), các giọng nói bổ sung
-- [2004](../_/2004.md): *[The Lord of the Rings: The Battle for Middle-earth](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)* - Aragorn, Éomer, các giọng nói bổ sung
+- [2004](../_/2004.md): *[The Lord of the Rings: The Battle for Middle-earth](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)* - Aragorn, Éomer, giọng nói bổ sung
 - 2004: *[The Lord of the Rings: The Third Age](../T/The_Lord_of_the_Rings%253A_The_Third_Age.md)* - Elagost
-- [2003](../_/2003.md): [*The Lord of the Rings: The Return of the King* (trò chơi điện tử)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>) - Aragorn, [Rohan](../R/Rohan.md) người lính
+- [2003](../_/2003.md): [*The Lord of the Rings: The Return of the King* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>) - Aragorn, người lính [Rohan](../R/Rohan.md)
 
 ## Trích dẫn {#Quotes}
 

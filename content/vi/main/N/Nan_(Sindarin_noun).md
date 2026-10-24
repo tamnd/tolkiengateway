@@ -18,9 +18,9 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Nan</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Nan_(disambiguation).md" title="Nan (disambiguation)">Nan (disambiguation)</a></b>.</div></div>
 
-## Sindarin {#Sindarin}
+## Tiếng Sindarin {#Sindarin}
 
-<i><b>nan</b></i> hoặc (<i><b>nand-</b></i>, <i><b>nan(d)</b></i>), là danh từ có nghĩa là "thung lũng, vale" trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>nan</b></i> hoặc (<i><b>nand-</b></i>, <i><b>nan(d)</b></i>), là danh từ có nghĩa là "thung lũng, vale" trong [tiếng Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ### Ví dụ {#Examples}
 
@@ -30,7 +30,7 @@ images:
 
 ## Noldorin/Doriathrin {#Noldorin/Doriathrin}
 
-<i><b>Nan</b></i> là một từ [Noldorin](Noldorin.md) (hoặc có lẽ [Doriathrin](../D/Doriathrin.md)) được hiểu là "đất dưới chân đồi có nhiều suối",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Noldorin <i><b>nand</b></i>, <i><b>nann</b></i> được hiểu là "đồng cỏ rộng", và Doriathrin <i><b>nand</b></i> được gọi là "cánh đồng, thung lũng".<sup id="cite_ref-LR_4-0" class="reference"><a href="#cite_note-LR-4">[4]</a></sup>
+<i><b>Nan</b></i> là một từ [Noldorin](Noldorin.md) (hoặc có lẽ là [Doriathrin](../D/Doriathrin.md)) được đánh bóng là "vùng đất dưới chân đồi có nhiều suối",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Noldorin <i><b>nand</b></i>, <i><b>nann</b></i> được gọi là "đồng cỏ rộng" và Doriathrin <i><b>nand</b></i> được gọi là "cánh đồng, thung lũng".<sup id="cite_ref-LR_4-0" class="reference"><a href="#cite_note-LR-4">[4]</a></sup>
 
 ### Từ nguyên {#Etymology}
 

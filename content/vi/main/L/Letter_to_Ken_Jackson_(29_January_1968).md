@@ -19,11 +19,11 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/_/1968_-_Ken_Jackson_29_January.JPG.md"><img src="https://tolkiengateway.net/w/images/a/a6/1968_-_Ken_Jackson_29_January.JPG" decoding="async" loading="lazy" width="300" height="400" class="mw-file-element" data-file-width="300" data-file-height="400"/></a><figcaption></figcaption></figure>
 
-Vào [29 tháng 1](../_/29_January.md) [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Ken Jackson**.,<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-TL_2-0" class="reference"><a href="#cite_note-TL-2">[2]</a></sup> đó là thạc sĩ sinh học tại New College School.
+Vào [29 tháng 1](../_/29_January.md) [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Ken Jackson**.,<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-TL_2-0" class="reference"><a href="#cite_note-TL-2">[2]</a></sup> là thạc sĩ sinh học tại New College School.
 
-- **Tiêu đề:** Trả lời bạn đọc về việc xin phép đặt tên cho ngôi nhà của mình là "[Bag End](../B/Bag_End.md)". Tolkien nhận xét rằng anh ta không bịa ra cái tên này; Bag End là tên địa phương của ngôi nhà của dì anh [Jane Neave](../J/Jane_Neave.md).<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+- **Chủ đề:** Trả lời một độc giả về việc xin phép đặt tên ngôi nhà của mình là "[Bag End](../B/Bag_End.md)". Tolkien nhận xét rằng ông không bịa ra cái tên này; Bag End là tên địa phương của ngôi nhà của dì [Jane Neave](../J/Jane_Neave.md).<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 - **Mô tả:** Một trang, đánh máy chữ ký.<sup id="cite_ref-TL_2-1" class="reference"><a href="#cite_note-TL-2">[2]</a></sup>
-- **Ấn bản:** Một đoạn trích nhỏ được [Colin Duriez](../C/Colin_Duriez.md) xuất bản trong *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*, tr. 455.
+- **Ấn bản:** Một đoạn trích nhỏ được xuất bản bởi [Colin Duriez](../C/Colin_Duriez.md) trong *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*, tr. 455.
 
 ## Phiên âm {#Transcription}
 

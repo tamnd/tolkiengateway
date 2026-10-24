@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hiril (sister of Beren Erchamion)"
 ---
 
-Chuyển hướng tới [Hiril (chị gái của Beren Erchamion)](<Hiril_(sister_of_Beren_Erchamion).md>).
+Chuyển hướng tới [Hiril (em gái của Beren Erchamion)](<Hiril_(sister_of_Beren_Erchamion).md>).

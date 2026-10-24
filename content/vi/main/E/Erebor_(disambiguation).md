@@ -14,17 +14,17 @@ images:
   - "Disambig.png"
 ---
 
-**Erebor** có thể tham khảo:
+**Erebor** có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-- **[Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md)**, một ngọn núi ở phía Bắc-phương Đông của [Rhovanion](../R/Rhovanion.md), còn gọi là <i><b>Erebor</b></i>
+- **[Núi Cô Đơn](../L/Lonely_Mountain.md)**, một ngọn núi ở phía Đông Bắc [Rhovanion](../R/Rhovanion.md), còn gọi là <i><b>Erebor</b></i>
 
 ## Các bản chuyển thể {#Adaptations}
 
 ### Trò chơi {#Games}
 
-- *[Erebor - The Lonely Mountain](<Erebor_(The_One_Ring_role-playing_game).md>)*, phần bổ sung cho [Chiếc nhẫn duy nhất (trò chơi nhập vai)](<../T/The_One_Ring_(role-playing_game).md>)
+- *[Erebor - The Lonely Mountain](<Erebor_(The_One_Ring_role-playing_game).md>)*, phần bổ sung cho [The One Ring (trò chơi nhập vai)](<../T/The_One_Ring_(role-playing_game).md>)
 
 ### Âm nhạc {#Music}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Flame Imperishable: Tolkien, St. Thomas, and the Metaphysics of Faerie"
 ---
 
-Chuyển hướng đến [The Ngọn Lửa Bất Diệt: Tolkien, St. Thomas, và Siêu hình học của Faerie](The_Flame_Imperishable%253A_Tolkien,_St._Thomas,_and_the_Metaphysics_of_Faerie.md).
+Chuyển hướng đến [The Flame Imperishable: Tolkien, St. Thomas, and the Metaphysics of Faerie](The_Flame_Imperishable%253A_Tolkien,_St._Thomas,_and_the_Metaphysics_of_Faerie.md).

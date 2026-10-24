@@ -16,7 +16,7 @@ sort_keys:
   "Quenya suffixes": "me"
 ---
 
-<i><b>-më</b></i> là hậu tố [Quenya](../Q/Quenya.md) thường biểu thị sự vật trừu tượng hoặc ít nhất là vô hình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>-më</b></i> là hậu tố [Quenya](../Q/Quenya.md) thường biểu thị những sự vật trừu tượng hoặc ít nhất là vô hình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

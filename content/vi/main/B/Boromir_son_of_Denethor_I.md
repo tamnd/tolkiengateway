@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Boromir (Steward of Gondor)"
 ---
 
-Chuyển hướng tới [Boromir (Người quản lý của Gondor)](<Boromir_(Steward_of_Gondor).md>).
+Chuyển hướng tới [Boromir (Người quản lý Gondor)](<Boromir_(Steward_of_Gondor).md>).

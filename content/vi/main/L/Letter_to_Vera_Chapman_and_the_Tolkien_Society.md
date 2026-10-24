@@ -15,9 +15,9 @@ sort_keys:
   "Letters": "Chapman, Vera"
 ---
 
-Vào [ngày 6 tháng 2](../_/6_February.md) [1972](../_/1972.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) gửi [Vera Chapman](../V/Vera_Chapman.md) và [Hội Tolkien](../T/The_Tolkien_Society.md)**.
+Vào [ngày 6 tháng 2](../_/6_February.md) [1972](../_/1972.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) gửi tới [Vera Chapman](../V/Vera_Chapman.md) và [Hiệp hội Tolkien](../T/The_Tolkien_Society.md)**.
 
-- **Nội dung:** Tolkien cảm ơn những lời chúc tốt đẹp và món quà sinh nhật của người nhận thư.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- **Nội dung:** Tolkien cảm ơn những lời chúc tốt đẹp và món quà sinh nhật của những người nhận thư.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - **Xuất bản:** [*Mallorn*](<../M/Mallorn_(journal).md>) [5](../M/Mallorn_5.md).
 
 ## Nội dung {#Content}
@@ -29,7 +29,7 @@ Vào [ngày 6 tháng 2](../_/6_February.md) [1972](../_/1972.md), [J.R.R. Tolkie
 
 ## Xem thêm {#See_also}
 
-- [Hội Tolkien#Quan hệ với J.R.R. Tolkien](../T/The_Tolkien_Society.md#Relations_with_J.R.R._Tolkien)
+- [Hiệp hội Tolkien#Mối quan hệ với J.R.R. Tolkien](../T/The_Tolkien_Society.md#Relations_with_J.R.R._Tolkien)
 
 <span></span>
 

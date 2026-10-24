@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Master of the Rings: The Unauthorized Story Behind J.R.R. Tolkien's 'Lord of the Rings'"
 ---
 
-Chuyển hướng đến [Bậc thầy những chiếc nhẫn: Câu chuyện trái phép đằng sau 'Chúa tể những chiếc nhẫn'](../M/Master_of_the_Rings%253A_The_Unauthorized_Story_Behind_J.R.R._Tolkien's_'Lord_of_the_Rings'.md) của J.R.R. Tolkien.
+Chuyển hướng đến [Master of the Rings: The Unauthorized Story Behind J.R.R. Tolkien's 'Lord of the Rings'](../M/Master_of_the_Rings%253A_The_Unauthorized_Story_Behind_J.R.R._Tolkien's_'Lord_of_the_Rings'.md).

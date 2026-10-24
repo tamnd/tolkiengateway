@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Shibboleth of Fëanor"
 ---
 
-Chuyển hướng đến [The Shibboleth of Fëanor](../T/The_Shibboleth_of_Fëanor.md).
+Chuyển hướng tới [Shibboleth of Fëanor](../T/The_Shibboleth_of_Fëanor.md).

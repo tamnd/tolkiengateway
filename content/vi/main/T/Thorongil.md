@@ -30,7 +30,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></b></div></div>
 
-**Thorongil** là bí danh được [Aragorn](../A/Aragorn.md) lấy khi còn trẻ ([T.A.](Third_Age.md) [2957](Third_Age_2957.md)-[2980](Third_Age_2980.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>), khi anh hành trình đến [Rohan](../R/Rohan.md) và [Gondor](../G/Gondor.md) và phục vụ các lãnh chúa của họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Thorongil** là bí danh được [Aragorn](../A/Aragorn.md) lấy khi còn trẻ ([T.A.](Third_Age.md) [2957](Third_Age_2957.md)-[2980](Third_Age_2980.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>), khi anh du hành đến [Rohan](../R/Rohan.md) và [Gondor](../G/Gondor.md) và phục vụ các lãnh chúa của họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

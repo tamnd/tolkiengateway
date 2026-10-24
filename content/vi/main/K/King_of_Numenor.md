@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "King of Númenor"
 ---
 
-Chuyển hướng tới [Vua của Númenor](King_of_Númenor.md).
+Chuyển hướng tới [Vua Númenor](King_of_Númenor.md).

@@ -22,7 +22,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Elven Oratory III: Lay of Leithian</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">by Lind Erebros</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Aug 1, 2015</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Electronic, Classical, Folk</td></tr><tr><th scope="row" class="tg-infobox-label">Length</th><td class="tg-infobox-data">47 min 21 sec</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr></tbody></table>
 
-<i><b>Tiên Oratory III: Lay of Leithian</b></i> là album thứ ba trong ba album [Silmarillion](../S/Silmarillion.md) lấy cảm hứng từ [Lind Erebros](../L/Lind_Erebros.md).
+<i><b>Elven Oratory III: Lay of Leithian</b></i> là album thứ ba trong số ba album lấy cảm hứng từ [Silmarillion](../S/Silmarillion.md) từ [Lind Erebros](../L/Lind_Erebros.md).
 
 ## Danh sách bản nhạc {#Track_listing}
 
@@ -30,13 +30,13 @@ infobox:
 2. Bài hát Luthien - 2:42
 3. Chủ đề tình yêu - 3:49
 4. Đi bộ trong rừng - 2:09
-5. Melian Lời tiên tri - 3:11
-6. Cuộc truy tìm Silmaril - 2:18
+5. Lời tiên tri của Melian - 3:11
+6. Truy tìm viên Silmaril - 2:18
 7. Tôi Sẽ Theo Ngài - 2:08
 8. Finrod và Sauron - 6:25
 9. Sự cứu rỗi - 2:16
 10. Chữa lành sẹo - 2:40
-Bài hát chia tay của 11. Beren- 3:52
+11. Bài hát chia tay của Beren - 3:52
 12. Đường tới Pháo đài Bóng tối - 1:54
 13. Bài hát ru kỳ diệu cho Melkor - 2:12
 14. Mandos Lãng quên - 2:36

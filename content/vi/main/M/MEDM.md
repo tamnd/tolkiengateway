@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: Dark Minions"
 ---
 
-Chuyển hướng tới [Trung Địa: Lính bóng tối](Middle-earth%253A_Dark_Minions.md).
+Chuyển hướng đến [Middle-earth: Dark Minions](Middle-earth%253A_Dark_Minions.md).

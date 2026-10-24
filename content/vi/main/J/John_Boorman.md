@@ -22,7 +22,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Boorman.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/66/John_Boorman.jpeg/200px-John_Boorman.jpeg" decoding="async" loading="lazy" width="200" height="222" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/66/John_Boorman.jpeg/300px-John_Boorman.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/6/66/John_Boorman.jpeg/400px-John_Boorman.jpeg 2x" data-file-width="921" data-file-height="1024"/></a><figcaption>Boorman in 2006</figcaption></figure>
 
-**Sir John Boorman** [CBE](../O/Order_of_the_British_Empire.md) (b. [18 tháng 1](../_/18_January.md) [1933](../_/1933.md)) là một đạo diễn phim người Anh, người đã lên kế hoạch [một bộ phim chuyển thể](John_Boorman's_The_Lord_of_the_Rings.md) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, tuy nhiên kế hoạch đã thất bại, mặc dù ông đã sử dụng một số yếu tố từ bộ phim được đề xuất của mình cho bộ phim *Excalibur*do ông đạo diễn.
+**Sir John Boorman** [CBE](../O/Order_of_the_British_Empire.md) (b. [18 tháng 1](../_/18_January.md) [1933](../_/1933.md)) là một đạo diễn phim người Anh, người đã lên kế hoạch [một bộ phim chuyển thể](John_Boorman's_The_Lord_of_the_Rings.md) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, tuy nhiên kế hoạch đã thất bại, mặc dù ông đã sử dụng một số yếu tố từ bộ phim được đề xuất của mình cho bộ phim *Excalibur* do ông đạo diễn.
 
 ## Trích dẫn {#Quotes}
 

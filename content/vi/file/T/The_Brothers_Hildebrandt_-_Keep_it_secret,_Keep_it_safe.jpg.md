@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Brothers Hildebrandt - The One Ring.jpg"
 ---
 
-Chuyển hướng tới [Tệp:Anh em nhà Hildebrandt - Chiếc nhẫn duy nhất.jpg](The_Brothers_Hildebrandt_-_The_One_Ring.jpg.md).
+Chuyển hướng tới [Tệp:Anh em nhà Hildebrandt - The One Ring.jpg](The_Brothers_Hildebrandt_-_The_One_Ring.jpg.md).

@@ -61,7 +61,7 @@ images:
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_logo.png.md"><img src="https://tolkiengateway.net/w/images/6/67/Middle-earth_Toys_logo.png" decoding="async" loading="lazy" width="363" height="118" class="mw-file-element" data-file-width="363" data-file-height="118"/></a><figcaption></figcaption></figure>
 
-**Trung Địa Đồ chơi** là dòng sản phẩm nhân vật hành động được phát hành bởi <a class="extiw" href="http://en.wikipedia.org/wiki/Toy_Vault" title="wikipedia:Toy Vault">Toy Vault</a> vào năm 1998.<sup id="cite_ref-oldsite_1-0" class="reference"><a href="#cite_note-oldsite-1">[1]</a></sup> Chủ tịch công ty Jon Huston cho biết họ đã xin giấy phép Trung Địa do sự phổ biến trở lại của nó, nhờ [Trung Địa Trò chơi thẻ sưu tập](Middle-earth_Collectible_Card_Game.md) và sự quan tâm của Hollywood trong việc chuyển thể sách.<sup id="cite_ref-ToyFare_2-0" class="reference"><a href="#cite_note-ToyFare-2">[2]</a></sup> A tổng cộng chín nhân vật cuối cùng đã được phát hành.<sup id="cite_ref-figures_3-0" class="reference"><a href="#cite_note-figures-3">[3]</a></sup> Việc ngừng sản xuất dòng sản phẩm cuối cùng được cho là do sự thành công mà [Toy Biz](../T/Toy_Biz.md) sẽ đạt được với các nhân vật hành động dựa trên phim của họ trong [2001](../_/2001.md).<sup id="cite_ref-toycollector_4-0" class="reference"><a href="#cite_note-toycollector-4">[4]</a></sup><sup id="cite_ref-historyme_5-0" class="reference"><a href="#cite_note-historyme-5">[5]</a></sup>
+**Đồ chơi Trung Địa** là dòng nhân vật hành động do <a class="extiw" href="http://en.wikipedia.org/wiki/Toy_Vault" title="wikipedia:Toy Vault">Toy Vault</a> phát hành vào năm 1998.<sup id="cite_ref-oldsite_1-0" class="reference"><a href="#cite_note-oldsite-1">[1]</a></sup> Chủ tịch công ty Jon Huston cho biết họ đã tìm kiếm giấy phép Trung Địa do sự phổ biến trở lại của nó, do [Trò chơi Thẻ sưu tập Trung Địa](Middle-earth_Collectible_Card_Game.md) và sự quan tâm của Hollywood trong việc chuyển thể các cuốn sách.<sup id="cite_ref-ToyFare_2-0" class="reference"><a href="#cite_note-ToyFare-2">[2]</a></sup> Tổng cộng có chín con số là cuối cùng đã được phát hành.<sup id="cite_ref-figures_3-0" class="reference"><a href="#cite_note-figures-3">[3]</a></sup> Việc ngừng sản xuất dòng sản phẩm này được cho là do sự thành công mà [Toy Biz](../T/Toy_Biz.md) đạt được với các nhân vật hành động dựa trên phim của họ trong [2001](../_/2001.md).<sup id="cite_ref-toycollector_4-0" class="reference"><a href="#cite_note-toycollector-4">[4]</a></sup><sup id="cite_ref-historyme_5-0" class="reference"><a href="#cite_note-historyme-5">[5]</a></sup>
 
 Theo trang web, mặt sau của bao bì sử dụng phông chữ của [Dan Smith](../D/Dan_Smith.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Một trong những hình nền gói được sử dụng cho một số loạt phim đầu tiên, có lẽ là hình nền dành cho các nhân vật tốt, được minh họa bởi [John Howe](../J/John_Howe.md).<sup id="cite_ref-historyme_5-1" class="reference"><a href="#cite_note-historyme-5">[5]</a></sup>
 
@@ -69,11 +69,11 @@ Theo trang web, mặt sau của bao bì sử dụng phông chữ của [Dan Smit
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Gandalf_(Grey)_backside.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7b/Middle-earth_Toys_-_Gandalf_%28Grey%29_backside.jpg/200px-Middle-earth_Toys_-_Gandalf_%28Grey%29_backside.jpg" decoding="async" loading="lazy" width="200" height="265" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7b/Middle-earth_Toys_-_Gandalf_%28Grey%29_backside.jpg/300px-Middle-earth_Toys_-_Gandalf_%28Grey%29_backside.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7b/Middle-earth_Toys_-_Gandalf_%28Grey%29_backside.jpg/400px-Middle-earth_Toys_-_Gandalf_%28Grey%29_backside.jpg 2x" data-file-width="1106" data-file-height="1466"/></a><figcaption>Backside of <i>Gandalf the Grey</i></figcaption></figure>
 
-Mỗi hình có nhiều biến thể khác nhau. Theo Toy Vault, các biến thể độc quyền đã khiến dòng sản phẩm này trở nên hấp dẫn hơn đối với các nhà phân phối. Những điều này thường dựa trên những khoảnh khắc khác nhau của cuốn sách, mặc dù họ thừa nhận rằng đối với Balrog họ đã suy ra các biến thể dựa trên một tuyên bố trong [Silmarillion](../S/Silmarillion.md).<sup id="cite_ref-qna_7-0" class="reference"><a href="#cite_note-qna-7">[7]</a></sup>
+Mỗi hình có nhiều biến thể khác nhau. Theo Toy Vault, các biến thể độc quyền đã khiến dòng sản phẩm này trở nên hấp dẫn hơn đối với các nhà phân phối. Những điều này thường dựa trên những khoảnh khắc khác nhau của cuốn sách, mặc dù họ thừa nhận rằng đối với Balrog, họ đã suy ra các biến thể dựa trên một tuyên bố trong [Silmarillion](../S/Silmarillion.md).<sup id="cite_ref-qna_7-0" class="reference"><a href="#cite_note-qna-7">[7]</a></sup>
 
-Các nhân vật đã được công bố nhưng chưa được phát hành bao gồm [Boromir](../B/Boromir.md) (nghệ thuật của Roger Robinson và Arnie Swekel), [Elrond](../E/Elrond.md) (nghệ thuật của Todd Lockwood), [Hill Troll](../H/Hill-trolls.md) (nghệ thuật của Todd Lockwood), [Vua Théoden](../T/Théoden.md) (nghệ thuật của Liam Sharp), [Tom Bombadil](../T/Tom_Bombadil.md) (nghệ thuật của Arnie Swekel), [Aragorn](../A/Aragorn.md) (nghệ thuật của Todd Lockwood), [Samwise](../S/Samwise_Gamgee.md) (nghệ thuật của Todd Lockwood) và [Legolas](../L/Legolas.md) (nghệ thuật của Arnie Swekel). Barsom Manashian được đề cập là đã điêu khắc [Éowyn](../_/Éowyn.md), trong khi Sam Greenwell đã điêu khắc [Elrond](../E/Elrond.md).<sup id="cite_ref-figures_3-1" class="reference"><a href="#cite_note-figures-3">[3]</a></sup>
+Các nhân vật đã được công bố nhưng chưa được phát hành bao gồm [Boromir](../B/Boromir.md) (nghệ thuật của Roger Robinson và Arnie Swekel), [Elrond](../E/Elrond.md) (nghệ thuật của Todd Lockwood), [Hill Troll](../H/Hill-trolls.md) (nghệ thuật của Todd Lockwood), [King Théoden](../T/Théoden.md) (nghệ thuật của Liam Sharp), [Tom Bombadil](../T/Tom_Bombadil.md) (nghệ thuật của Arnie Swekel), [Aragorn](../A/Aragorn.md) (nghệ thuật của Todd Lockwood), [Samwise](../S/Samwise_Gamgee.md) (nghệ thuật của Todd Lockwood) và [Legolas](../L/Legolas.md) (nghệ thuật của Arnie Swekel). Barsom Manashian được cho là đã điêu khắc [Éowyn](../_/Éowyn.md), trong khi Sam Greenwell đã điêu khắc [Elrond](../E/Elrond.md).<sup id="cite_ref-figures_3-1" class="reference"><a href="#cite_note-figures-3">[3]</a></sup>
 
-### Dòng 1 (tháng Chín 1998) {#Series_1_(September_1998)}
+### Dòng 1 (tháng 9 năm 1998) {#Series_1_(September_1998)}
 
 #### Balrog {#Balrog}
 
@@ -113,7 +113,7 @@ Các nhân vật đã được công bố nhưng chưa được phát hành bao 
 
 #### Gandalf {#Gandalf}
 
-[Gandalf](../G/Gandalf.md) được thiết kế và điêu khắc bởi Daniel Horne. Tất cả Gandalf đều mang theo gậy và Glamdring.<sup id="cite_ref-RTMgandalf_9-0" class="reference"><a href="#cite_note-RTMgandalf-9">[9]</a></sup>
+[Gandalf](../G/Gandalf.md) được thiết kế và điêu khắc bởi Daniel Horne. Tất cả Gandalf đều mang theo nhân viên và Glamdring.<sup id="cite_ref-RTMgandalf_9-0" class="reference"><a href="#cite_note-RTMgandalf-9">[9]</a></sup>
 
 <table class="wikitable">
 <tbody><tr>
@@ -152,7 +152,7 @@ Các nhân vật đã được công bố nhưng chưa được phát hành bao 
 
 #### Frodo {#Frodo}
 
-[Frodo](../F/Frodo_Baggins.md) được thiết kế bởi Daniel Horne và Matt Innis và điêu khắc bởi Daniel Horne. Frodo đến để ngực trần hoặc mặc áo sơ mi mithril.<sup id="cite_ref-RTMfrodo_10-0" class="reference"><a href="#cite_note-RTMfrodo-10">[10]</a></sup>
+[Frodo](../F/Frodo_Baggins.md) được thiết kế bởi Daniel Horne và Matt Innis và điêu khắc bởi Daniel Horne. Frodo để ngực trần hoặc mặc áo sơ mi mithril.<sup id="cite_ref-RTMfrodo_10-0" class="reference"><a href="#cite_note-RTMfrodo-10">[10]</a></sup>
 
 <table class="wikitable">
 <tbody><tr>
@@ -249,11 +249,11 @@ Như đã lưu ý trước đó, dòng sản phẩm dành cho thị trường đ
 		</li>
 </ul>
 
-### Dòng 3 (tháng Chín 1999) {#Series_3_(September_1999)}
+### Đợt 3 (tháng 9 năm 1999) {#Series_3_(September_1999)}
 
 #### Gimli {#Gimli}
 
-[Gimli](../G/Gimli.md) được thiết kế bởi Daniel Horne và Glenn Angus và điêu khắc bởi Daniel Horne.<sup id="cite_ref-RTMgimli_12-0" class="reference"><a href="#cite_note-RTMgimli-12">[12]</a></sup>
+[Gimli](../G/Gimli.md) do Daniel Horne và Glenn Angus thiết kế và điêu khắc bởi Daniel Horne.<sup id="cite_ref-RTMgimli_12-0" class="reference"><a href="#cite_note-RTMgimli-12">[12]</a></sup>
 
 <table class="wikitable">
 <tbody><tr>
@@ -343,9 +343,9 @@ Như đã lưu ý trước đó, dòng sản phẩm dành cho thị trường đ
 		</li>
 </ul>
 
-### Dòng 3 (tháng Chín 2000) {#Series_3_(September_2000)}
+### Đợt 3 (tháng 9 năm 2000) {#Series_3_(September_2000)}
 
-Nhân vật Elrond chưa được phát hành ban đầu nhằm mục đích thay thế vị trí của Galadriel.<sup id="cite_ref-toycollector_4-2" class="reference"><a href="#cite_note-toycollector-4">[4]</a></sup>
+Nhân vật Elrond chưa được phát hành ban đầu được dùng để thay thế vị trí của Galadriel.<sup id="cite_ref-toycollector_4-2" class="reference"><a href="#cite_note-toycollector-4">[4]</a></sup>
 
 #### Galadriel {#Galadriel}
 
@@ -477,4 +477,4 @@ Nhân vật Elrond chưa được phát hành ban đầu nhằm mục đích tha
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://thetoycollectorsguide.com/lotr-middle-earth-toys-toy-vault/" rel="noreferrer noopener" target="_blank">Trung Địa Đồ chơi</a> tại <a class="external text" href="https://thetoycollectorsguide.com" rel="noreferrer noopener" target="_blank">Hướng dẫn sưu tập đồ chơi</a>
+- <a class="external text" href="https://thetoycollectorsguide.com/lotr-middle-earth-toys-toy-vault/" rel="noreferrer noopener" target="_blank">Đồ chơi ở Trung Địa</a> tại <a class="external text" href="https://thetoycollectorsguide.com" rel="noreferrer noopener" target="_blank">Hướng dẫn sưu tập đồ chơi</a>

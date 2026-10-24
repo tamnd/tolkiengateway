@@ -32,9 +32,9 @@ infobox:
 
 Za Frûmi xuất hiện vào [2000](../_/2000.md) và được thành lập bởi Simon Heath, Donald Persson, Simon Kölle; Donald Persson rời đi vào năm 2001. Thể loại nhạc giả tưởng/sóng đen/dân gian tân cổ điển này, dự án Za Frûmi, chưa từng được thử nghiệm trước đây. Ban nhạc thuộc hãng thu âm Waerloga, cùng với dự án phụ khác của họ, Abnocto.
 
-Za Frûmi có hai nhánh khác nhau với ba đĩa CD; một chiếc đã được phát hành trong phần đầu tiên và hai chiếc trong phần thứ hai. Nhánh đầu tiên có tên là [The Za Frûmi saga](#The_Za_Frûmi_saga) và được lấy cảm hứng từ [Orc](../O/Orcs.md) và ngôn ngữ của họ. Gần như có thể nói ngành này là đài phát thanh sân khấu có âm nhạc, nhưng âm nhạc rất quan trọng. Có thể nghe thấy tiếng sáo sâu, tiếng trống tuyệt vời, hiệu ứng âm thanh xung quanh và nhạc dân gian tân cổ điển. Lời bài hát ở dạng pseudo-[Hắc Ngữ](../B/Black_Speech.md).
+Za Frûmi có hai nhánh khác nhau với ba đĩa CD; một chiếc đã được phát hành trong phần đầu tiên và hai chiếc trong phần thứ hai. Nhánh đầu tiên có tên là [The Za Frûmi saga](#The_Za_Frûmi_saga) và được lấy cảm hứng từ [Orc](../O/Orcs.md) và ngôn ngữ của chúng. Gần như có thể nói ngành này là đài phát thanh sân khấu có âm nhạc, nhưng âm nhạc rất quan trọng. Có thể nghe thấy tiếng sáo sâu, tiếng trống tuyệt vời, hiệu ứng âm thanh xung quanh và nhạc dân gian tân cổ điển. Lời bài hát được viết bằng giả [Bài phát biểu của người da đen](../B/Black_Speech.md).
 
-Nhánh còn lại có tên là [Za Frûmi Legends](#Za_Frûmi_Legends) và là loại nhạc lấy cảm hứng từ nhạc cụ giả tưởng 100%. Nhóm đã phát hành hai album ở nhánh này. Phần đầu tiên mang tính tổng quát hơn cho thể loại với Người lùn chiến tranh, âm nhạc từ một quán trọ, khu rừng quỷ lùn, lâu đài ma ám và giáo phái. CD thứ hai được lấy cảm hứng từ hai ma cà rồng.
+Nhánh còn lại có tên là [Za Frûmi Legends](#Za_Frûmi_Legends) và là loại nhạc lấy cảm hứng từ nhạc cụ giả tưởng 100%. Nhóm đã phát hành hai album ở nhánh này. Phần đầu tiên mang tính tổng quát hơn cho thể loại với các cuộc chiến của Người lùn, âm nhạc từ một quán trọ, khu rừng quỷ lùn, lâu đài bị ma ám và các giáo phái. CD thứ hai được lấy cảm hứng từ hai ma cà rồng.
 
 Ban nhạc có thể được nghe thấy trên một số tuyển tập và ban nhạc đã nhận được sự tôn vinh cũng như được ca ngợi trên các phương tiện truyền thông trên toàn thế giới, tạp chí Wired là một ví dụ.
 

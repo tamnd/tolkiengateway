@@ -27,17 +27,17 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Bonfire_Glade.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/86/Anke_Ei%C3%9Fmann_-_Bonfire_Glade.jpeg/300px-Anke_Ei%C3%9Fmann_-_Bonfire_Glade.jpeg" decoding="async" loading="lazy" width="300" height="227" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/86/Anke_Ei%C3%9Fmann_-_Bonfire_Glade.jpeg/450px-Anke_Ei%C3%9Fmann_-_Bonfire_Glade.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/8/86/Anke_Ei%C3%9Fmann_-_Bonfire_Glade.jpeg/600px-Anke_Ei%C3%9Fmann_-_Bonfire_Glade.jpeg 2x" data-file-width="1123" data-file-height="850"/></a><figcaption><i>Bonfire Glade</i> by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
 
-**Bonfire Glade** là lời nhắc nhở về 'cuộc chiến' kỳ lạ diễn ra giữa những cái cây độc ác của [Khu Rừng Cổ](../O/Old_Forest.md) và [Hobbit](../H/Hobbits.md) của [Buckland](Buckland.md), đôi khi giữa [T.A.](../T/Third_Age.md) [2340](../T/Third_Age_2340.md) và [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md).
+**Bonfire Glade** là lời nhắc nhở về 'cuộc chiến' kỳ lạ diễn ra giữa những cái cây độc ác của [Rừng Cũ](../O/Old_Forest.md) và [Người Hobbit](../H/Hobbits.md) của [Buckland](Buckland.md), đôi khi giữa [T.A.](../T/Third_Age.md) [2340](../T/Third_Age_2340.md) và [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md).
 
-Cây cối đã tấn công [Hedge](../H/High_Hay.md) bảo vệ [Bucklanders](Bucklanders.md), và để trả thù, [Hobbit](../H/Hobbits.md) đã xâm chiếm khu rừng và đốt cháy hàng trăm cây trong một đống lửa lớn. Bonfire Glade là nơi xảy ra vụ cháy lớn đó, và thậm chí sau nhiều năm, cây cối vẫn để lại một nơi trống trải và trống rỗng.
+Cây cối đã tấn công [Hedge](../H/High_Hay.md) bảo vệ [Bucklanders](Bucklanders.md), và để trả thù, [Người Hobbit](../H/Hobbits.md) đã xâm chiếm khu rừng và đốt cháy hàng trăm cây trong một đống lửa lớn. Bonfire Glade là nơi xảy ra vụ cháy lớn đó, và thậm chí sau nhiều năm, cây cối vẫn để lại một nơi trống trải và trống trải.
 
-[Merry](../M/Meriadoc_Brandybuck.md) dẫn [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md)và [Pippin](../P/Peregrin_Took.md) đến trảng cỏ và ra phía bên kia trên con đường dẫn vào trung tâm của Khu Rừng Cổ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Merry](../M/Meriadoc_Brandybuck.md) dẫn [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Pippin](../P/Peregrin_Took.md) tới trảng rừng và ra phía bên kia trên con đường dẫn vào trung tâm Khu Rừng Cũ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Bonfire_Glade.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5e/The_Lord_of_the_Rings_Online_-_Bonfire_Glade.jpg/250px-The_Lord_of_the_Rings_Online_-_Bonfire_Glade.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5e/The_Lord_of_the_Rings_Online_-_Bonfire_Glade.jpg/375px-The_Lord_of_the_Rings_Online_-_Bonfire_Glade.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5e/The_Lord_of_the_Rings_Online_-_Bonfire_Glade.jpg/500px-The_Lord_of_the_Rings_Online_-_Bonfire_Glade.jpg 2x" data-file-width="2560" data-file-height="1440"/></a><figcaption>The Bonfire Glade in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>The Bonfire Glade is a prominent landmark in the Old Forest.</dd></dl>
 

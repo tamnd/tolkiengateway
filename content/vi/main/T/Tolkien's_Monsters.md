@@ -20,9 +20,9 @@ Tập phim có các cuộc phỏng vấn và tái hiện chuyên gia, vì nó c�
 
 ## Lỗi {#Errors}
 
-- Không chú ý nhiều đến việc trang điểm; Người Lùn được miêu tả là không có râu, Hobbit chỉ đi chân trần (Bilbo thậm chí còn có râu) và Tiên tộc đều có một hình xăm không rõ nguyên nhân trên má phải, điều duy nhất giúp phân biệt họ với Con Người.
-- Diễn viên đóng vai [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lớn tuổi hơn có bộ ria mép. Mặc dù anh ấy có bộ ria mép trong [Đại chiến](../W/World_War_I.md) nhưng anh ấy không giữ lại nó. Trớ trêu thay, những cảnh tái hiện những năm tháng chiến tranh của ông lại cho thấy ông cạo râu sạch sẽ và đeo phù hiệu của một hạ sĩ quân đội Hoa Kỳ chứ không phải là một thiếu úy người Anh.
-- Mặc dù các chuyên gia và người kể chuyện nhìn chung phát âm rất tốt nhưng [Ainur](../A/Ainur.md) vẫn được phát âm là "Aniur".
+- Không chú ý nhiều đến việc trang điểm; Người lùn được miêu tả không có râu, người Hobbit chỉ đi chân trần (Bilbo thậm chí còn có râu) và Yêu tinh đều có một hình xăm không rõ nguyên nhân trên má phải, điều duy nhất giúp phân biệt họ với Đàn ông.
+- Diễn viên đóng vai anh lớn [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) có bộ ria mép. Mặc dù ông có bộ ria mép trong [Đại chiến](../W/World_War_I.md) nhưng ông không giữ lại nó. Trớ trêu thay, những cảnh tái hiện những năm tháng chiến tranh của ông lại cho thấy ông cạo râu sạch sẽ và đeo phù hiệu của một hạ sĩ quân đội Hoa Kỳ chứ không phải là một thiếu úy người Anh.
+- Mặc dù các chuyên gia và người kể chuyện nhìn chung phát âm rất tốt nhưng [Ainur](../A/Ainur.md) được phát âm là "Aniur".
 
 ## Chuyên gia {#Experts}
 

@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Celebrimbor từ [Trung Địa: Bóng Tối trong số Mordor](../../main/M/Middle-earth%253A_Shadow_of_Mordor.md).
+Celebrimbor từ [Middle-earth: Shadow of Mordor](../../main/M/Middle-earth%253A_Shadow_of_Mordor.md).
 
 ## Giấy phép {#Licensing}
 

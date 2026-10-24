@@ -28,9 +28,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><sup id="cite_ref-TW_1-0" class="reference"><a href="#cite_note-TW-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:189</sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**tiếng Wales** là ngôn ngữ [Celtic](../C/Celtic.md) được sử dụng trên khắp xứ Wales và một số vùng lân cận của nước Anh. [Mark T. Hooker](../M/Mark_T._Hooker.md) nhận xét rằng "định nghĩa củaTolkien về tiếng Wales không hoàn toàn trùng khớp với nhận thức hiện đại về từ này. Khi Tolkien nói tiếng Wales, nó giống như một từ ghép bao gồm cả tiếng Cornish và tiếng Breton."<sup id="cite_ref-TW_1-1" class="reference"><a href="#cite_note-TW-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1</sup>
+**Tiếng Wales** là ngôn ngữ [Celtic](../C/Celtic.md) được sử dụng khắp xứ Wales và một số vùng lân cận của nước Anh. [Mark T. Hooker](../M/Mark_T._Hooker.md) nhận xét rằng "Định nghĩa của Tolkien về tiếng Wales không hoàn toàn trùng khớp với nhận thức hiện đại về từ này. Khi Tolkien nói tiếng Wales, đó là một từ ghép bao gồm cả tiếng Cornish và tiếng Breton."<sup id="cite_ref-TW_1-1" class="reference"><a href="#cite_note-TW-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1</sup>
 
-## Sindarin {#Sindarin}
+## Tiếng Sindarin {#Sindarin}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>The names of persons and places in this story were mainly composed on patterns deliberately modelled on those of Welsh (closely similar but not identical). This element in the tale has given perhaps more pleasure to more readers than anything else in it.
@@ -38,21 +38,21 @@ images:
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-[Tolkien](../J/J.R.R._Tolkien.md) thừa nhận đã lấy cảm hứng rất nhiều từ tiếng Wales khi tạo ngôn ngữ [Elvish](../E/Elvish.md) [Sindarin](../S/Sindarin.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Một số điểm tương đồng đã được chỉ ra:
+[Tolkien](../J/J.R.R._Tolkien.md) thừa nhận đã lấy cảm hứng rất nhiều từ tiếng Wales khi tạo ra ngôn ngữ [Elvish](../E/Elvish.md) [Sindarin](../S/Sindarin.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Một số điểm tương đồng đã được chỉ ra:
 
 ### Số ngữ pháp {#Grammatical_number}
 
-Biên tập viên [Carl F. Hostetter](../C/Carl_F._Hostetter.md) đã lưu ý rằng dạng số ít *[lotheg](../L/Lotheg.md)* được hình thành bằng cách thêm đuôi nhỏ/số ít *-eg/-ig* vào dạng số nhiều *[loth](../L/Loth.md)*, giống như trong tiếng Wales trong đó danh từ số ít có thể xuất phát "từ dạng số nhiều bằng cách thêm đuôi số ít".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Biên tập viên [Carl F. Hostetter](../C/Carl_F._Hostetter.md) đã lưu ý rằng dạng số ít *[lotheg](../L/Lotheg.md)* được hình thành bằng cách thêm đuôi nhỏ/số ít *-eg/-ig* vào dạng số nhiều *[loth](../L/Loth.md)*, giống như trong tiếng Wales nơi danh từ số ít có thể bắt nguồn "từ dạng số nhiều bằng cách thêm đuôi số ít".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Tuy nhiên, tình huống trong tiếng Wales phức tạp hơn. tiếng Wales sử dụng hai hệ thống số: số ít-số nhiều (như tiếng Anh) và tập thể-số ít (đôi khi được gọi là đơn vị tập thể).<sup id="cite_ref-KingNumber_5-0" class="reference"><a href="#cite_note-KingNumber-5">[5]</a></sup> tiếng Wales sử dụng hai hậu tố để tạo ra số ít từ một tập thể: *-en* cho danh từ giống cái và *-yn* cho danh từ giống đực.<sup id="cite_ref-KingNumber_5-1" class="reference"><a href="#cite_note-KingNumber-5">[5]</a></sup> Danh từ tập thể được sử dụng cho những thứ thường thấy với số lượng lớn hoặc thường được giữ theo nhóm, một số ví dụ là: cây cối, lợn, trẻ em và kiến. Ví dụ tiếng Wales *moch*('lợn, lợn') cho ra *mochyn* ('lợn, đầu lợn'); *plant* ('children') cho *plentyn* (một đứa trẻ) (cũng lưu ý sự thay đổi nguyên âm gốc từ 'a' thành 'e' trong *plant* > *plentyn*); *coed* ('gỗ, rừng, cây') cho ra 'coeden' ('một cái cây') nhưng cũng *derw* ('cây sồi') cho ra *derwen* ('một cây sồi'); một số danh từ số ít tập thể không rõ ràng, như *mellt* ('sét') cho *mellten* ('a fork/tia chớp.') Tập thể tiếng Wales có ý nghĩa về một tổng thể đồng nhất mà số nhiều trong tiếng Anh không thể truyền tải chính xác, mặc dù danh từ "foliage" trong tiếng Anh gần đến mức người ta có thể hiểu được.<sup id="cite_ref-KingNumber_5-2" class="reference"><a href="#cite_note-KingNumber-5">[5]</a></sup>
+Tuy nhiên, tình hình ở xứ Wales phức tạp hơn. Tiếng Wales có hai hệ thống số: số ít-số nhiều (như tiếng Anh) và tập thể-số ít (đôi khi được gọi là đơn vị tập thể).<sup id="cite_ref-KingNumber_5-0" class="reference"><a href="#cite_note-KingNumber-5">[5]</a></sup> Tiếng Wales sử dụng hai hậu tố để tạo ra số ít từ một tập thể: *-en* cho danh từ giống cái và *-yn* cho danh từ nam tính.<sup id="cite_ref-KingNumber_5-1" class="reference"><a href="#cite_note-KingNumber-5">[5]</a></sup> Danh từ tập thể được sử dụng cho những thứ thường được tìm thấy với số lượng lớn hoặc thường được giữ theo nhóm, một số ví dụ là: cây, lợn, trẻ em và kiến. Ví dụ người xứ Wales *moch* ('lợn, lợn') cho *mochyn* ('lợn, đầu lợn'); *plant* ('children') cho *plentyn* (một đứa trẻ) (cũng lưu ý sự thay đổi nguyên âm gốc từ 'a' thành 'e' trong *plant* > *plentyn*); *coed* ('gỗ, rừng, cây') cho ra 'coeden' ('một cái cây') nhưng cũng *derw* ('cây sồi') cho ra *derwen* ('một cây sồi'); một số danh từ số ít tập thể không rõ ràng, như *mellt* ('sét') cho *mellten* ('a fork/tia chớp.') Tập thể xứ Wales có ý nghĩa về một tổng thể đồng nhất mà số nhiều trong tiếng Anh không thể truyền tải chính xác, mặc dù danh từ "foliage" trong tiếng Anh gần đến mức người ta có thể nhận được.<sup id="cite_ref-KingNumber_5-2" class="reference"><a href="#cite_note-KingNumber-5">[5]</a></sup>
 
-Những hậu tố số ít này đến từ một hậu tố nhỏ Celtic cũ hơn, được sử dụng lại làm điểm đánh dấu số ít.
+Những hậu tố số ít này xuất phát từ một hậu tố nhỏ bé của người Celt cũ hơn, được sử dụng lại làm điểm đánh dấu số ít.
 
 ### Đột biến phụ âm đầu {#Initial_consonant_mutation}
 
-#### tiếng Wales đột biến {#Welsh_mutations}
+#### Đột biến xứ Wales {#Welsh_mutations}
 
-*Treigladau* hoặc Đột biến phụ âm đầu là một đặc điểm của tất cả các ngôn ngữ Celtic còn tồn tại. Tolkien cũng tích hợp một hệ thống tương tự như tiếng Wales vào Sindarin. Trong tiếng Wales những đột biến này là những thay đổi âm vị cũ hơn đã được ngữ pháp hóa. Thông thường (nhưng không phải luôn luôn) được kích hoạt bởi giới từ, mạo từ, tính từ sở hữu và từ hạn định, các đột biến của tiếng Wales đóng vai trò là một phần không thể thiếu trong ngữ pháp của nó - đặc biệt là đột biến được gọi là *soft mutation (welsh: treiglad meddal)*.
+*Treigladau* hoặc Đột biến phụ âm đầu là một đặc điểm của tất cả các ngôn ngữ Celtic còn tồn tại. Tolkien cũng kết hợp một hệ thống tương tự như tiếng Wales vào tiếng Sindarin. Ở xứ Wales, những đột biến này là những thay đổi âm vị cũ hơn đã được ngữ pháp hóa. Thông thường (nhưng không phải luôn luôn) được kích hoạt bởi giới từ, mạo từ, tính từ sở hữu và từ hạn định, các đột biến trong tiếng Wales đóng vai trò là một phần không thể thiếu trong ngữ pháp của nó - đặc biệt là đột biến được gọi là *soft mutation (welsh: treiglad meddal)*.
 
 Phác thảo cơ bản về các đột biến tiếng Wales được đưa ra ở đây:
 
@@ -148,9 +148,9 @@ Phác thảo cơ bản về các đột biến tiếng Wales được đưa ra �
 <td>
 </td></tr></tbody></table>
 
-#### Sindarin đột biến {#Sindarin_mutations}
+#### Đột biến Sindarin {#Sindarin_mutations}
 
-Các đột biến của Sindarin chưa được hiểu đầy đủ. Dưới đây là những đột biến được đề xuất bởi David Salo trong cuốn sách *A Gateway to Sindarin*của ông:
+Các đột biến của Sindarin chưa được hiểu đầy đủ. Dưới đây là những đột biến do David Salo đề xuất trong cuốn sách *A Gateway to Sindarin* của ông:
 
 <table class="wikitable">
 <tbody><tr>
@@ -367,7 +367,7 @@ Các đột biến của Sindarin chưa được hiểu đầy đủ. Dưới đ
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Welsh_language" title="wikipedia:Welsh language">tiếng Wales ngôn ngữ</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Welsh_language" title="wikipedia:Welsh language">Tiếng Wales</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 - <a class="external text" href="http://glaemscrafu.jrrvf.com/english/welsh.html" rel="noreferrer noopener" target="_blank">Văn bản và mẫu âm thanh</a> tại [Glǽmscrafu](../G/Glǽmscrafu.md)
 
 <span></span>

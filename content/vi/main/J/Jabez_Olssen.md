@@ -26,7 +26,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jabez_Olssen.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1f/Jabez_Olssen.png/250px-Jabez_Olssen.png" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1f/Jabez_Olssen.png/375px-Jabez_Olssen.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/1f/Jabez_Olssen.png/500px-Jabez_Olssen.png 2x" data-file-width="600" data-file-height="338"/></a><figcaption>Olssen in the special features of <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>.</figcaption></figure>
 
-**Jabez Olssen** ([5 tháng 8](../_/5_August.md), [1975](../_/1975.md)) là biên tập viên phim và truyền hình New Zealand. Anh ấy đã làm việc nhiều với [Peter Jackson](../P/Peter_Jackson.md) và là người biên tập cho [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>). Anh cũng từng là trợ lý biên tập cho *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* và biên tập viên bổ sung cho *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
+**Jabez Olssen** ([5 tháng 8](../_/5_August.md), [1975](../_/1975.md)) là biên tập viên phim và truyền hình người New Zealand. Ông đã làm việc nhiều với [Peter Jackson](../P/Peter_Jackson.md) và là người biên tập cho [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>). Anh cũng từng là trợ lý biên tập cho *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* và biên tập viên bổ sung cho *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
 
 ## Vai trò {#Roles}
 
@@ -35,7 +35,7 @@ images:
 ## Giải thưởng {#Awards}
 
 - [2002](../_/2002.md) - <b><a class="external text" href="http://www.ofcs.org/" rel="noreferrer noopener" target="_blank">Giải thưởng của Hiệp hội phê bình phim trực tuyến</a></b>, Biên tập xuất sắc nhất, với Michael J. Horton, *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
-- 2002 - <b><a class="external text" href="http://www.lvfcs.org/" rel="noreferrer noopener" target="_blank">Giải thưởng của Hiệp hội phê bình phim Las Vegas</a></b>, Biên tập xuất sắc nhất, với Michael J. Horton, *The Lord of the Rings: The Two Towers*
+- 2002 - <b><a class="external text" href="http://www.lvfcs.org/" rel="noreferrer noopener" target="_blank">Giải thưởng của Hiệp hội phê bình phim Las Vegas</a></b>, Biên tập xuất sắc nhất, với Michael J. Horton, *Chúa tể của những chiếc nhẫn: Hai tòa tháp*
 
 ## Liên kết ngoài {#External_links}
 

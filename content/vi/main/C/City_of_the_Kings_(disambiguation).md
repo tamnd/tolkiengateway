@@ -16,8 +16,8 @@ images:
 
 **Thành phố của các vị vua** là tên được sử dụng cho hai thành phố hoàng gia của [Dúnedain](../D/Dúnedain.md) vào các thời điểm khác nhau trong lịch sử và có thể đề cập đến:
 
-- **[Armenelos](../A/Armenelos.md)**, thủ đô của [Númenor](../N/Númenor.md), là trụ sở của những người cai trị hòn đảo trong suốt [Kỷ thứ hai](../S/Second_Age.md).
-- **[Minas Tirith](../M/Minas_Tirith.md)**, thành phố [Gondor](../G/Gondor.md), có tên ban đầu là [Minas Anor](../M/Minas_Anor.md) trước [hai mươi bảy Vua](../K/Kings_of_Gondor.md), [Tarondor](<../T/Tarondor_(King_of_Gondor).md>), đã chuyển ghế hoàng gia của Gondor từ [Osgiliath](../O/Osgiliath.md) sang Minas Anor trong [Kỷ Đệ Tam](../T/Third_Age.md).
+- **[Armenelos](../A/Armenelos.md)**, thủ đô của [Númenor](../N/Númenor.md), là trụ sở của những người cai trị hòn đảo trong suốt [Kỷ nguyên thứ hai](../S/Second_Age.md).
+- **[Minas Tirith](../M/Minas_Tirith.md)**, thành phố của [Gondor](../G/Gondor.md), có tên ban đầu là [Minas Anor](../M/Minas_Anor.md) trước [Vị vua thứ 27](../K/Kings_of_Gondor.md), [Tarondor](<../T/Tarondor_(King_of_Gondor).md>), đã chuyển trụ sở hoàng gia của Gondor từ [Osgiliath](../O/Osgiliath.md) tới Minas Anor ở [Thời đại thứ ba](../T/Third_Age.md).
 
 <hr style="margin-top:15px;"/>
 

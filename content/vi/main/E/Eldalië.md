@@ -16,15 +16,15 @@ sort_keys:
   "Quenya demonyms": "Eldalie"
 ---
 
-**Eldalië** là một thuật ngữ [Quenya](../Q/Quenya.md) dùng để chỉ **[Tiên-dân gian](Elves.md)** nói chung, hoặc chỉ [Eldar](Eldar.md), [Tiên tộc](Elves.md) của [Đại Hành Trình](../G/Great_Journey.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Eldalië** là một thuật ngữ [Quenya](../Q/Quenya.md) dùng để chỉ **[Dân tộc Tiên](Elves.md)** nói chung, hoặc chỉ [Eldar](Eldar.md), [Yêu tinh](Elves.md) của [Great Journey](../G/Great_Journey.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ này có thể được dịch là "người của Eldar"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và bao gồm *[Elda](Elda.md)* + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lie&amp;action=edit&amp;redlink=1" title="Lie (page does not exist)">lie</a></i> "người".<sup id="cite_ref-arda_4-0" class="reference"><a href="#cite_note-arda-4">[4]</a></sup>
+Từ này có thể được dịch là "người Eldar"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và bao gồm *[Elda](Elda.md)* + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lie&amp;action=edit&amp;redlink=1" title="Lie (page does not exist)">lie</a></i> "người".<sup id="cite_ref-arda_4-0" class="reference"><a href="#cite_note-arda-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Mindon Eldaliéva](../M/Mindon_Eldaliéva.md) "Tháp Eldar"
+- [Mindon Eldaliéva](../M/Mindon_Eldaliéva.md) "Tháp của Eldar"
 - [Elvenesse](Elvenesse.md)
 
 <table style="margin: 0 auto;" class="toccolours" align="center">

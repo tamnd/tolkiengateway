@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Third Age (Modding Community)"
 ---
 
-Chuyển hướng đến [ Kỷ Đệ Tam (Cộng đồng sửa đổi)](<The_Third_Age_(Modding_Community).md>).
+Chuyển hướng tới [Thời đại thứ ba (Cộng đồng sửa đổi)](<The_Third_Age_(Modding_Community).md>).

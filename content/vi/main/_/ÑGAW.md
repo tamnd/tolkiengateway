@@ -14,7 +14,7 @@ sort_keys:
   "Roots": "NGAW"
 ---
 
-**ÑGAW** là một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) biểu thị "làm sai lệch, làm biến dạng, ngụy trang".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**ÑGAW** là một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) biểu thị "làm sai lệch, biến dạng, ngụy trang".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

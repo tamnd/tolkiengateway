@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Wood, Haydn"
 ---
 
-**Haydn Wood** lồng tiếng [Haldir](Haldir.md), [Nob](../N/Nob.md), [Nazgûl](../N/Nazgûl.md) và một số bit không xác định trong loạt radio [1981 của *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>).
+**Haydn Wood** lồng tiếng cho [Haldir](Haldir.md), [Nob](../N/Nob.md), [Nazgûl](../N/Nazgûl.md) và một số bit không xác định trong loạt radio [1981 của *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>).
 
 ## Liên kết ngoài {#External_links}
 

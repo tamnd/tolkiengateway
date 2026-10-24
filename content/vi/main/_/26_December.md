@@ -67,10 +67,10 @@ Sự kiện xảy ra vào ngày 26 tháng 12
 ## Trên Trái đất {#On_Earth}
 
 - **[1926](1926.md)** - [Ông già Noel](../F/Father_Christmas.md) viết [thư](../L/Letters_from_Father_Christmas.md) cho các con của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
-- **[1929](1929.md)** - [Ông già Noel](../F/Father_Christmas.md) viết [thư](../L/Letters_from_Father_Christmas.md) cho các con của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+- **[1929](1929.md)** - [Ông già Noel](../F/Father_Christmas.md) viết một [thư](../L/Letters_from_Father_Christmas.md) cho các con của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 - **[1964](1964.md)** - Tập thứ mười hai của [Princess](../P/Princess.md)-xuất bản theo tuần tự của *[The Hobbit](../T/The_Hobbit.md)* được xuất bản.
 - **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Joy Hill](<../L/Letter_to_Joy_Hill_(26_December_1971).md>).
-- **[2000](2000.md)** - Diễn viên [Michael Phó tế](../M/Michael_Deacon.md) qua đời.
+- **[2000](2000.md)** - Diễn viên [Michael Deacon](../M/Michael_Deacon.md) qua đời.
 - **[2000](2000.md)** - Nhà soạn nhạc [Paul Kont](../P/Paul_Kont.md) qua đời.
 - **[2004](2004.md)** - Diễn viên [Garard Green](../G/Garard_Green.md) qua đời.
 - <b><a href="2012.md" title="2012">2012</a> - <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i> được phát hành tại Úc.</b>
@@ -78,4 +78,4 @@ Sự kiện xảy ra vào ngày 26 tháng 12
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Con [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía nam dọc theo [Dãy Núi Sương Mù](../M/Misty_Mountains.md).
+    - [Hiệp hội Nhẫn thần](../F/Fellowship_of_the_Ring.md) đi về phía nam dọc theo [Dãy núi Sương mù](../M/Misty_Mountains.md).

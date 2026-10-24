@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Guards of the Citadel"
 ---
 
-Chuyển hướng đến [Đội Cận vệ Thành Trì](../G/Guards_of_the_Citadel.md).
+Chuyển hướng đến [Người bảo vệ Thành cổ](../G/Guards_of_the_Citadel.md).

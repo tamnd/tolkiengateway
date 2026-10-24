@@ -18,12 +18,12 @@ langlinks:
     url: "https://kontu.wiki/Tales_and_Songs_of_Bimble_Bay"
 ---
 
-**Những câu chuyện và bài hát về Vịnh Bimble** là một loạt bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Mặc dù [Humphrey Carpenter](../H/Humphrey_Carpenter.md) đã viết rằng chúng được viết bằng [1922](../_/1922.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](../W/Wayne_G._Hammond.md) đặt thời gian sáng tác là c. [1928](../_/1928.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Những bài thơ kể những câu chuyện về một thị trấn và bến cảng ven biển tưởng tượng của nước Anh, Vịnh Bimble.
+**Những câu chuyện và bài hát về Vịnh Bimble** là một loạt bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Mặc dù [Humphrey Carpenter](../H/Humphrey_Carpenter.md) viết rằng chúng được viết bằng [1922](../_/1922.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](../W/Wayne_G._Hammond.md) đặt thời gian sáng tác là c. [1928](../_/1928.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Những bài thơ kể những câu chuyện về một thị trấn và bến cảng ven biển tưởng tượng của nước Anh, Vịnh Bimble.
 
 ## Danh sách các bài thơ {#List_of_poems}
 
 - "[The Bumpus](The_Bumpus.md)" (được sửa đổi thành "[Perry-the-Winkle](../P/Perry-the-Winkle.md)")
-- "[Chuyến thăm của Rồng](The_Dragon's_Visit.md)"
+- "[Chuyến thăm của rồng](The_Dragon's_Visit.md)"
 - "[Lướt](../G/Glip.md)"
 - "[Kẻ cướp cũ](../O/Old_Grabbler.md)"
 - "[Tiến bộ ở Thị trấn Bimble](../P/Progress_in_Bimble_Town.md)"

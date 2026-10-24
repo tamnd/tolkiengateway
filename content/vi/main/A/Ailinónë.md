@@ -18,7 +18,7 @@ sort_keys:
   "Qenya names": "Ailinone"
 ---
 
-**Ailinónë** là tên của một "[tiên](../F/Fays.md) sống trong một [hoa huệ](../L/Lilies.md) trên một hồ bơi", theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) liên quan đến *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không có thông tin nào khác về cô ấy và cô ấy không xuất hiện trong bất kỳ câu chuyện nào.
+**Ailinónë** là tên của một "[tiên](../F/Fays.md) sống trong một [hoa huệ](../L/Lilies.md) trên một hồ bơi", theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) liên quan đến *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không có thông tin nào khác về bà và bà không xuất hiện trong bất kỳ câu chuyện nào.
 
 ## Từ nguyên {#Etymology}
 

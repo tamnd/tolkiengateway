@@ -22,7 +22,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jake_Murray_-_Fireside_Song.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d7/Jake_Murray_-_Fireside_Song.jpg/300px-Jake_Murray_-_Fireside_Song.jpg" decoding="async" loading="lazy" width="300" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d7/Jake_Murray_-_Fireside_Song.jpg/450px-Jake_Murray_-_Fireside_Song.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d7/Jake_Murray_-_Fireside_Song.jpg/600px-Jake_Murray_-_Fireside_Song.jpg 2x" data-file-width="1080" data-file-height="900"/></a><figcaption>&#34;Fireside Song&#34; by <a href="../../category/I/Images_by_Jake_Murray.md" title="Category:Images by Jake Murray">Jake Murray</a></figcaption></figure>
 
-**Tôi ngồi bên ngọn lửa và suy nghĩ** là một bài hát của [Bilbo Baggins](../B/Bilbo_Baggins.md), được anh hát nhẹ nhàng trong [Rivendell](../R/Rivendell.md) vào [24 tháng 12](../_/24_December.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> buổi tối trước khi [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) lên đường thực hiện nhiệm vụ của họ. Bilbo đã hát bài hát trước sự chứng kiến ​​của [Frodo](../F/Frodo_Baggins.md), sau khi đưa cho Frodo [Áo khoác Mithril](../M/Mithril-coat.md) và [Sting](../S/Sting.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Bài hát là một bản nhạc chiêm nghiệm, được hát bởi một người Hobbit giờ đã già, nhớ lại những sự kiện trong quá khứ kết thúc với mong đợi được nghe những người bạn trở về.
+**Tôi ngồi bên ngọn lửa và suy nghĩ** là một bài hát của [Bilbo Baggins](../B/Bilbo_Baggins.md), được anh hát nhẹ nhàng ở [Rivendell](../R/Rivendell.md) vào [24 tháng 12](../_/24_December.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> buổi tối trước khi [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) bắt đầu nhiệm vụ của họ. Bilbo đã hát bài hát này trước sự chứng kiến ​​của [Frodo](../F/Frodo_Baggins.md), sau khi đưa cho Frodo [Áo khoác Mithril](../M/Mithril-coat.md) và [Sting](../S/Sting.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Bài hát là một bản nhạc đầy suy ngẫm, được hát bởi một người hobbit giờ đã già, nhớ lại những sự kiện trong quá khứ kết thúc với mong đợi được nghe những người bạn trở về.
 
 ## Lời bài hát {#Lyrics}
 
@@ -61,9 +61,9 @@ and voices at the door.
 
 ## Di sản {#Legacy}
 
-[Donald Swann](../D/Donald_Swann.md) đã viết nhạc cho bài hát này, có thể tìm thấy trong sách *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*;<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> nó cũng có trong CD đi kèm của phiên bản mới nhất.
+[Donald Swann](../D/Donald_Swann.md) đã viết nhạc cho bài hát này, có thể tìm thấy trong cuốn sách *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*;<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> nó cũng có trong CD đi kèm của phiên bản mới nhất.
 
-[Summoning](../S/Summoning.md) đã sử dụng bài thơ này làm lời bài hát có tên "A Distant Flame Before The Mặt Trời", từ album [1999](../_/1999.md) *[Stronghold](../S/Stronghold.md)*.
+[Triệu hồi](../S/Summoning.md) đã sử dụng bài thơ này làm lời bài hát có tên "A Distant Flame Before The Sun", trong album [1999](../_/1999.md) *[Stronghold](../S/Stronghold.md)*.
 
 Lấy cảm hứng từ bài thơ này, [Burzum](<../B/Burzum_(band).md>) đã viết lời cho bài hát "Beholding the Daughters of the Firmament".
 
@@ -71,11 +71,11 @@ Lấy cảm hứng từ bài thơ này, [Burzum](<../B/Burzum_(band).md>) đã v
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>Chúa tể của những chiếc nhẫn</i> (phim 1978)</a>:</b>
 
 <dl><dd>After <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> farewells <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> from <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, he recites the first two lines of the poem.</dd></dl>
 
-<b>2004: <a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)"><i>The Lord of the Rings: The Return of the King</i> (phiên bản mở rộng)</a>:</b>
+<b>2004: <a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)"><i>Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</i> (ấn bản mở rộng)</a>:</b>
 
 <dl><dd>A translation of this song, with <a href="../N/Neo-Elvish.md" title="Neo-Elvish">Neo-Sindarin</a> lyrics by <a href="../D/David_Salo.md" title="David Salo">David Salo</a> and melody by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a>, is heard in the Fan Credits.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 

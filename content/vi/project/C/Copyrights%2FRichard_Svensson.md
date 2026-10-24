@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Svensson, Richard"
 ---
 
-- Richard Svensson đã vui lòng cho phép sử dụng [tác phẩm nghệ thuật của anh ấy liên quan đến Tolkien và Trung Địa](../../category/I/Images_by_Richard_Svensson.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Richard Svensson đã vui lòng cho phép sử dụng [tác phẩm nghệ thuật của ông liên quan đến Tolkien và Trung địa](../../category/I/Images_by_Richard_Svensson.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 21 tháng 8 năm 2014
 - Người dùng đã xin phép qua email: [Morgan](https://tolkiengateway.net/wiki/User:Morgan)

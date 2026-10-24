@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "HarperCollins"
 ---
 
-Chuyển hướng đến [HarperCollins](HarperCollins.md).
+Chuyển hướng tới [HarperCollins](HarperCollins.md).

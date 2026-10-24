@@ -18,7 +18,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_Calendar_2004.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c0/The_Hobbit_Calendar_2004.jpg/300px-The_Hobbit_Calendar_2004.jpg" decoding="async" loading="lazy" width="300" height="327" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/c0/The_Hobbit_Calendar_2004.jpg 1.5x" data-file-width="321" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**The Hobbit Lịch 2004** có hình ảnh minh họa của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lydia_Postma&amp;action=edit&amp;redlink=1" title="Lydia Postma (page does not exist)">Lydia Postma</a>.
+**Lịch Hobbit 2004** có minh họa của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lydia_Postma&amp;action=edit&amp;redlink=1" title="Lydia Postma (page does not exist)">Lydia Postma</a>.
 
 - Nhà xuất bản Dorset (Mỹ) <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0760745021">ISBN 0-7607-4502-1</a>
 - Nhà xuất bản Barnes và Noble (Anh) <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/1862056137">ISBN 1-86205-613-7</a>

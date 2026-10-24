@@ -20,7 +20,7 @@ images:
 
 <figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/E/Elizabeth_Solopova.jpg.md"><img src="https://tolkiengateway.net/w/images/f/f1/Elizabeth_Solopova.jpg" decoding="async" loading="lazy" width="239" height="303" class="mw-file-element" data-file-width="239" data-file-height="303"/></a><figcaption></figcaption></figure>
 
-Tiến sĩ **Elizabeth Solopova** là Nghiên cứu viên tại Khoa Tiếng Anh tại [Đại học Oxford](../U/University_of_Oxford.md), chuyên nghiên cứu về các bản thảo thời Trung cổ ( <a class="extiw" href="http://en.wikipedia.org/wiki/Wycliffe%27s_Bible" title="wikipedia:Wycliffe&#39;s Bible">Kinh thánh Wycliffite</a>, [tiếng Anh cổ](../O/Old_English.md) câu, [Tiếng Anh trung cổ](../M/Middle_English.md), v.v.), và làm việc tại Phòng Tuyển tập Đặc biệt và Bản thảo phương Tây tại [Thư viện Bodleian](../B/Bodleian_Library.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tiến sĩ **Elizabeth Solopova** là Nghiên cứu viên tại Khoa Tiếng Anh tại [Đại học Oxford](../U/University_of_Oxford.md), chuyên nghiên cứu về các bản thảo thời Trung cổ ( <a class="extiw" href="http://en.wikipedia.org/wiki/Wycliffe%27s_Bible" title="wikipedia:Wycliffe&#39;s Bible">Kinh thánh Wycliffite</a>, câu thơ [Tiếng Anh cổ](../O/Old_English.md), [Tiếng Anh trung cổ](../M/Middle_English.md), v.v.) và làm việc tại Khoa Bộ sưu tập Đặc biệt và Bản thảo phương Tây tại [Bodleian Thư viện](../B/Bodleian_Library.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Ấn phẩm, được chọn {#Publications,_selected}
 

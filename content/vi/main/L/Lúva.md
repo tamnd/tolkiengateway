@@ -17,9 +17,9 @@ langlinks:
     url: "https://kontu.wiki/L%C3%BAva"
 ---
 
-Mỗi bảng trong số 24 tiêu chuẩn [Tengwar](../T/Tengwar.md) của [bảng chữ cái Fëanorian](../F/Fëanorian_alphabet.md) bao gồm hai thành phần cơ bản: một [telco](../T/Telco.md) thẳng hoặc gốc, từ đó uốn cong thành hình 'cung' tròn được gọi là **lúva**. Bản chất của cây cung đã xác định [téma](../T/Témar.md), hay chuỗi âm thanh mà một nhân vật thuộc về. Một số cong lên trên và sang trái tính từ thân cây, trong khi một số khác cong xuống dưới và sang phải. Luva đôi khi được 'đóng' (với một thanh ngang kết nối nó với công ty viễn thông) hoặc đôi khi được để 'mở'.
+Mỗi chữ trong số 24 [Tengwar](../T/Tengwar.md) tiêu chuẩn của [bảng chữ cái Fëanorian](../F/Fëanorian_alphabet.md) bao gồm hai thành phần cơ bản: một [telco](../T/Telco.md) thẳng hoặc gốc, từ đó uốn cong thành hình 'cung' tròn được gọi là **lúva**. Bản chất của cây cung đã xác định [téma](../T/Témar.md), hay chuỗi âm thanh mà một nhân vật thuộc về. Một số cong lên trên và sang trái tính từ thân cây, trong khi một số khác cong xuống dưới và sang phải. Luva đôi khi được 'đóng' (với một thanh ngang kết nối nó với công ty viễn thông) hoặc đôi khi được để 'mở'.
 
-Ví dụ: (sử dụng các quy ước của [Kỷ Đệ Tam](../T/Third_Age.md)) tất cả các tengwar với lúva mở cong xuống và sang phải đều thuộc về [tincotéma](../T/Tincotéma.md), chuỗi âm 't', trong khi tất cả những âm có lúva đóng, hướng lên trên, cong sang trái đều là một phần của [calmatéma](../C/Calmatéma.md) (âm thanh liên quan đến 'k').
+Ví dụ: (sử dụng các quy ước của [Thời đại thứ ba](../T/Third_Age.md)) tất cả các tengwar với lúva mở uốn cong xuống dưới và phải đều thuộc về [tincotéma](../T/Tincotéma.md), chuỗi âm 't', trong khi tất cả những âm có lúva đóng, hướng lên trên, cong sang trái đều là một phần của [calmatéma](../C/Calmatéma.md) (âm thanh liên quan đến 'k').
 
 Mặc dù hướng và cấu trúc của luva luôn không đổi trong một chuỗi, nhưng nó thường được 'nhân đôi' trong chuỗi đó (nghĩa là cung thứ hai sẽ được vẽ cong ra từ cung thứ nhất). Ví dụ: ký tự *[tinco](../T/Tinco.md)* ('t') có một âm luva đơn, trong khi phiên bản 'lồng tiếng' của cùng một âm, *[ando](../A/Ando.md)* ('d') có một cung đôi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

@@ -28,7 +28,7 @@ file:
 
 <i><b>Tôi Maedhros, điện thoại</b></i>
 
-Sindarin: *Tôi là [Maedhros](../../main/M/Maedhros.md), tôi đến để giúp bạn.* Anh ấy đang nói chuyện với một đứa trẻ Sindarin đi lạc hay - trong cơn điên loạn - với [Elwing](../../main/E/Elwing.md)?
+Sindarin: *Tôi là [Maedhros](../../main/M/Maedhros.md), tôi đến để giúp bạn.* Ông đang nói chuyện với một đứa trẻ Sindarin đi lạc hay - trong cơn điên loạn - với [Elwing](../../main/E/Elwing.md)?
 
 <b>Nghệ thuật © Karolina Węgrzyn <a class="external free" href="http://www.sirielle.com/" rel="noreferrer noopener" target="_blank">http://www.sirielle.com/</a></b>
 

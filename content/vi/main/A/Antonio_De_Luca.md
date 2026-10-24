@@ -30,7 +30,7 @@ infobox:
 
 **Antonio De Luca** là một họa sĩ minh họa giả tưởng người Ý.
 
-Anh ấy đã minh họa hầu hết các trang bìa và hình ảnh chương cho ấn bản thứ hai của *[The One Ring](<../T/The_One_Ring_(role-playing_game).md>)*và *[The Lord of the Rings Roleplaying](../T/The_Lord_of_the_Rings_Roleplaying.md)*, theo sau [Martin Grip](../M/Martin_Grip.md), người đã minh họa những trang này cho bộ quy tắc cốt lõi đầu tiên và bộ khởi đầu của ấn bản trước.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> De Luca cũng đã làm việc về tác phẩm nghệ thuật cho *[War of the Ring: The Card Game](../W/War_of_the_Ring%253A_The_Card_Game.md)*.
+Ông đã minh họa hầu hết các trang bìa và hình ảnh chương cho ấn bản thứ hai của *[The One Ring](<../T/The_One_Ring_(role-playing_game).md>)*và *[The Lord of the Rings Roleplaying](../T/The_Lord_of_the_Rings_Roleplaying.md)*, sau [Martin Grip](../M/Martin_Grip.md), người đã minh họa những trang này cho cuốn sách quy tắc cốt lõi đầu tiên và bộ khởi đầu của ấn bản này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> De Luca cũng đã làm việc về tác phẩm nghệ thuật cho *[War of the Ring: The Card Game](../W/War_of_the_Ring%253A_The_Card_Game.md)*.
 
 ## Xem thêm {#See_also}
 

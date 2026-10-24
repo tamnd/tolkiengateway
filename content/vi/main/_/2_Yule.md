@@ -24,13 +24,13 @@ langlinks:
     url: "https://kontu.wiki/Kakkosjule"
 ---
 
-**2 Yule** là ngày đầu tiên trong [Lịch Shire](../S/Shire_Calendar.md), đánh dấu sự khởi đầu của một năm, tiếp theo là [1 tháng Giêng](1_January.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> Do [Shire cải cách](../S/Shire-reform.md) các ngày Yule luôn rơi vào những ngày giống nhau trong tuần. 2 Yule luôn là một [Ngày Thứ Bảy](../S/Sterday.md) (Thứ Bảy).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+**2 Yule** là ngày đầu tiên trong [Lịch Quận](../S/Shire_Calendar.md), đánh dấu sự bắt đầu của một năm, tiếp theo là [ngày 1 tháng 1](1_January.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> Do [cải cách Quận](../S/Shire-reform.md) các ngày Yule luôn rơi vào những ngày giống nhau trong tuần. 2 Yule luôn là một [Ngày Thứ Bảy](../S/Sterday.md) (Thứ Bảy).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 Sự kiện vào ngày 2 Yule:
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Con [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía nam dọc theo [Dãy Núi Sương Mù](../M/Misty_Mountains.md).
-    - Quý đầu tiên của Mặt Trăng<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+    - [Hiệp hội Nhẫn thần](../F/Fellowship_of_the_Ring.md) đi về phía nam dọc theo [Dãy núi Sương mù](../M/Misty_Mountains.md).
+    - 1/4 tuần trăng<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 ## Ghi chú {#Notes}
 

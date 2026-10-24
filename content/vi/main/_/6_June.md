@@ -68,7 +68,7 @@ Sự kiện xảy ra vào ngày 6 tháng 6
 - **[1916](1916.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) rời Anh đến Pháp.
 - **[1925](1925.md)** - Diễn viên [Gareth Jones](../G/Gareth_Jones.md) ra đời.
 - **[1928](1928.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được [mời đến dự bữa tối](../T/The_Meaning_of_Everything.md) đánh dấu sự hoàn thành của *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)*.
-- **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Sue Parman](../L/Letter_to_Sue_Parman.md).
+- **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Sue Parman](../L/Letter_to_Sue_Parman.md).
 - **[1970](1970.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 315a](../L/Letter_315a.md).
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 338](../L/Letter_338.md).
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 338a](../L/Letter_338a.md).

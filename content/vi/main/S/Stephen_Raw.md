@@ -18,9 +18,9 @@ sort_keys:
   "People by name": "Raw, Stephen"
 ---
 
-**Stephen Raw** (sinh ra [1952](../_/1952.md)) là một nghệ sĩ người Anh, người đã vẽ bảy bản đồ cho phiên bản sửa đổi của *The Lord of the Rings* được xuất bản trong [1994](../_/1994.md)và được sử dụng trong tất cả các ấn bản tiếng Anh tiếp theo. Raw được nhà xuất bản [HarperCollins](../H/HarperCollins.md) ủy quyền và làm việc dưới sự hướng dẫn của [Christopher Tolkien](../C/Christopher_Tolkien.md) (người đã vẽ bản gốc cho cha mình, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)).
+**Stephen Raw** (sinh ra [1952](../_/1952.md)) là một nghệ sĩ người Anh, người đã vẽ bảy bản đồ cho phiên bản sửa đổi của *The Lord of the Rings* xuất bản trên [1994](../_/1994.md) và được sử dụng trong tất cả các ấn bản tiếng Anh tiếp theo. Raw được nhà xuất bản [HarperCollins](../H/HarperCollins.md) ủy quyền và làm việc dưới sự hướng dẫn của [Christopher Tolkien](../C/Christopher_Tolkien.md) (người đã vẽ bản gốc cho cha mình, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)).
 
-Christopher Tolkien đã viết "Ghi chú về bản đồ" (trang 1140 của ấn bản một tập), trong đó ông đưa ra lời giải thích về bối cảnh của các bản đồ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Raw đã lưu giữ một kho lưu trữ phong phú các bức thư và fax từ Christopher kể từ thời điểm họ làm việc trên bản đồ cho *The Lord of the Rings*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Christopher Tolkien đã viết "Ghi chú về bản đồ" (trang 1140 của ấn bản một tập), trong đó ông đưa ra lời giải thích về bối cảnh của các bản đồ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Raw lưu giữ một kho lưu trữ phong phú gồm các bức thư và fax của Christopher kể từ thời điểm họ làm việc trên bản đồ cho *The Lord of the Rings*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 
@@ -31,7 +31,7 @@ Christopher Tolkien đã viết "Ghi chú về bản đồ" (trang 1140 của �
 - <a class="external text" href="http://www.tolkienmaps.com/index.html" rel="noreferrer noopener" target="_blank">Tolkienmaps.com</a> (trang web chính thức về bản đồ)
 - <a class="external text" href="http://www.stephenraw.com/" rel="noreferrer noopener" target="_blank">Stephenraw.com</a> (trang chủ chính thức)
 - <a class="external text" href="http://www.theonering.net/torwp/2010/09/11/38485-why-are-there-no-%E2%80%98towers-of-a-distant-city%E2%80%99-on-the-map-of-middle-earth/" rel="noreferrer noopener" target="_blank">Tại sao không có 'tháp của một thành phố xa xôi' trên bản đồ Trung Địa?</a>
-- <a class="external text" href="http://www.theonering.net/torwp/2011/10/17/49124-the-lord-of-the-rings-maps-the-real-history/" rel="noreferrer noopener" target="_blank">The Lord of the Rings Bản đồ: Lịch sử có thật</a>
+- <a class="external text" href="http://www.theonering.net/torwp/2011/10/17/49124-the-lord-of-the-rings-maps-the-real-history/" rel="noreferrer noopener" target="_blank">Bản đồ Chúa tể của những chiếc nhẫn: Lịch sử có thật</a>
 
 <span></span>
 

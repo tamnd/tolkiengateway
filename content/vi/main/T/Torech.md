@@ -13,11 +13,11 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>torech</b></i> là một từ [Sindarin](../S/Sindarin.md) được hiểu là "đường hầm; hố, khai quật",<sup id="cite_ref-UI_1-0" class="reference"><a href="#cite_note-UI-1">[1]</a></sup> và "hố bí mật, hang ổ".<sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
+<i><b>torech</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) được dịch là "đường hầm; hố, khai quật",<sup id="cite_ref-UI_1-0" class="reference"><a href="#cite_note-UI-1">[1]</a></sup> và "hố bí mật, hang ổ".<sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ *torech* là từ phái sinh của TOR [gốc](../S/Sundocarme.md) ("tiết, ẩn"). Một từ liên quan là [Quenya](../Q/Quenya.md) *[ekka](../E/Ekka.md)*.<sup id="cite_ref-PE17_2-1" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
+Từ *torech* là từ phái sinh của TOR [gốc](../S/Sundocarme.md) ("tiết, ẩn"). Từ liên quan là [Quenya](../Q/Quenya.md) *[ekka](../E/Ekka.md)*.<sup id="cite_ref-PE17_2-1" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 

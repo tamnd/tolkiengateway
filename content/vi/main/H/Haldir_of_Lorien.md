@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Haldir"
 ---
 
-Chuyển hướng đến [Haldir](Haldir.md).
+Chuyển hướng tới [Haldir](Haldir.md).

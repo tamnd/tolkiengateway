@@ -26,7 +26,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-Người thừa kế của **Vua**, được gọi là **Người thừa kế**, là tước vị của người thừa kế [Vương quyền của Númenor](King_of_Númenor.md), thông thường, nhưng không nhất thiết, được phong cho con trai hoặc con gái cả của vị vua trị vì.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Người thừa kế của Nhà vua**, được gọi là **Người thừa kế**, là tước hiệu của người thừa kế [Vương quốc Númenor](King_of_Númenor.md), thông thường, nhưng không nhất thiết, được phong cho con trai hoặc con gái cả của vị vua trị vì.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

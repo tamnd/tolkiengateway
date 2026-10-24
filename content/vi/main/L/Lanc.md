@@ -14,7 +14,7 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>lanc</b></i> là từ [Sindarin](../S/Sindarin.md) có các nghĩa sau:
+<i><b>lanc</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa như sau:
 
 1. "khỏa thân"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 2. "cạnh sắc (không phải của dụng cụ), đầu đột ngột (như cạnh vách đá, hoặc cạnh sạch của đồ vật được làm bằng tay hoặc được chế tạo)"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>

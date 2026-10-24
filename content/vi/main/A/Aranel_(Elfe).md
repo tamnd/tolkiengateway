@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aranel (Elf)"
 ---
 
-Chuyển hướng tới [Aranel (Tiên)](<Aranel_(Elf).md>).
+Chuyển hướng đến [Aranel (Yêu tinh)](<Aranel_(Elf).md>).

@@ -62,17 +62,17 @@ Sự kiện xảy ra vào ngày 18 tháng 11
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1916](1916.md)** - [Trận chiến Somme](../B/Battle_of_the_Somme.md) kết thúc. Không bên nào thắng. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) chính thức bị Tiểu đoàn của mình xử tử như một nạn nhân.
+- **[1916](1916.md)** - [Trận chiến Somme](../B/Battle_of_the_Somme.md) kết thúc. Không bên nào thắng. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) chính thức bị Tiểu đoàn của mình coi là thương vong.
 - **[1941](1941.md)** - Diễn viên [David Hemmings](../D/David_Hemmings.md) ra đời.
 - **[1976](1976.md)** - Diễn viên lồng tiếng [Dominic Armato](../D/Dominic_Armato.md) ra đời.
 - **[1980](1980.md)** - *[Unfinished Tales](../U/Unfinished_Tales.md)* được xuất bản tại Hoa Kỳ.
-- **[2008](2008.md)** - *[The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md): Con gái của Strife*, bản vá được phát hành.
+- **[2008](2008.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md): Con gái của Strife*, bản vá được phát hành.
 - **[2008](2008.md)** - *[The Lord of the Rings Online: Mines of Moria](../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md)* bản mở rộng được phát hành.
 - **[2015](2015.md)** - *[The Tolkien Treasury](../T/The_Tolkien_Treasury.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md) và [Voronwë](../V/Voronwë.md) đi ngược lên [Sông khô](../D/Dry_River.md) và tiếp cận [Gondolin](../G/Gondolin.md).
+    - [Tuor](../T/Tuor.md) và [Voronwë](../V/Voronwë.md) đi ngược dòng [Sông khô](../D/Dry_River.md) và tiếp cận [Gondolin](../G/Gondolin.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

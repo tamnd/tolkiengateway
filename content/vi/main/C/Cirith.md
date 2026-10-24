@@ -30,4 +30,4 @@ categories:
 </li>
 </ol></div>
 
-- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Từ điển Sindarin của Hiswelókë</a> được biên soạn bởi [Didier Willis](../D/Didier_Willis.md)
+- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Từ điển Sindarin của Hiswelókë</a> do [Didier Willis biên soạn](../D/Didier_Willis.md)

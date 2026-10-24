@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bìa album được phát trực tuyến cho [*The Lord of the Rings: The War of the Rohirrim* (Bản nhạc phim gốc)](<../../main/T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim_(Original_Motion_Picture_Soundtrack).md>)
+Bìa album được phát trực tuyến với giá [*The Lord of the Rings: The War of the Rohirrim* (Original Motion Picture Soundtrack)](<../../main/T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim_(Original_Motion_Picture_Soundtrack).md>)
 
 ## Giấy phép {#Licensing}
 

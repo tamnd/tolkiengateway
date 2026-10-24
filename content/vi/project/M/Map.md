@@ -12,7 +12,7 @@ categories:
   - "Tolkien Gateway"
 ---
 
-Dự án **Tolkien Gateway: Bản đồ** là dự án hy vọng có thể lập bản đồ vị trí của bất kỳ và tất cả các địa điểm liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) và các tác phẩm của anh ấy.
+Dự án **Cổng Tolkien: Bản đồ** là dự án hy vọng lập sơ đồ vị trí của bất kỳ và tất cả các địa điểm liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) và các tác phẩm của ông.
 
 ## Ví dụ {#Examples}
 
@@ -32,7 +32,7 @@ Dự án **Tolkien Gateway: Bản đồ** là dự án hy vọng có thể lập
 - Các biểu tượng khác nhau cho các loại cột mốc khác nhau.
 - Khả năng tìm kiếm địa điểm
 - Khả năng tìm kiếm vị trí gần nhất từ bất kỳ địa chỉ nào.
-- Thêm kiểu dáng theo chủ đề Tolkien chẳng hạn như đường viền và các hộp nội dung trông đẹp hơn.
+- Thêm kiểu dáng theo chủ đề Tolkien như đường viền và các hộp nội dung trông đẹp hơn.
 - Khả năng liên kết đến các địa điểm cụ thể.
 - Biểu mẫu gửi địa điểm mới hoặc chỉnh sửa.
 - v.v.

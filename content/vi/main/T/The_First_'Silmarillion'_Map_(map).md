@@ -21,7 +21,7 @@ images:
   - "The_First_'Silmarillion'_Map_in_3D_-_Airyyn.png"
 ---
 
-<br> **Bản đồ 'Silmarillion' đầu tiên** là bản đồ [Beleriand](../B/Beleriand.md) được vẽ bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trên một tờ giấy (có thể có từ khoảng năm 1926-30<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>), với "hai tờ bổ sung, tạo ra phần mở rộng về phía Đông và phía Tây cho bản đồ chính hoặc trung tâm".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup> Tên [Thimbalt](Thimbalt.md), có thể ám chỉ đến một pháo đài khác chẳng hạn như Angband, chỉ xuất hiện trên bản đồ này. Thimbalt đã được gạch bỏ bằng bút chì trên bản đồ này.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>.
+<br> **Bản đồ 'Silmarillion' đầu tiên** là bản đồ của [Beleriand](../B/Beleriand.md) được vẽ bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trên một tờ giấy duy nhất (có thể có niên đại từ khoảng năm 1926-30<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>), với "hai tờ bổ sung, tạo ra phần mở rộng về phía Đông và phía Tây cho bản đồ chính hoặc trung tâm".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup> Tên [Thimbalt](Thimbalt.md), có lẽ là như vậy đề cập đến một pháo đài khác như Angband, chỉ xuất hiện trên bản đồ này. Thimbalt đã được gạch bỏ bằng bút chì trên bản đồ này.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>.
 
 ## Thư viện bản đồ {#Maps_gallery}
 
@@ -73,8 +73,8 @@ images:
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> tin rằng bản đồ này cùng thời với bản thảo "Sketch of the Mythology"; xem 
-<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i>, "II. <a href="The_Earliest_&#39;Silmarillion&#39;.md" title="The Earliest &#39;Silmarillion&#39;">'Silmarillion'</a> sớm nhất ('Sketch of the Mythology')", trang. 11.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> tin rằng bản đồ này phù hợp với bản thảo "Phác họa thần thoại"; xem 
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">Sự hình thành của Trung Địa</a></i>, "II. <a href="The_Earliest_&#39;Silmarillion&#39;.md" title="The Earliest &#39;Silmarillion&#39;">'Silmarillion'</a> sớm nhất ('Phác họa của thần thoại')", trang. 11.</span>
 </li>
 </ol></div></span>
 

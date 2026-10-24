@@ -24,7 +24,7 @@ file:
   user: "Morgan"
 ---
 
-[Bert](../../main/B/Bert.md) trong [The Hobbit Trò chơi chiến đấu chiến lược](../../main/T/The_Hobbit_Strategy_Battle_Game.md).
+[Bert](../../main/B/Bert.md) ở [The Hobbit Strategy Battle Game](../../main/T/The_Hobbit_Strategy_Battle_Game.md).
 
 ## Giấy phép {#Licensing}
 

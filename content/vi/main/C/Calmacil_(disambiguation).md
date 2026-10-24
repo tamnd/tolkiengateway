@@ -16,9 +16,9 @@ images:
   - "Disambig.png"
 ---
 
-**Calmacil** (phát âm là <span title="Pronunciation in IPA" class="IPA">[ˈkalmakil]</span>) là tên [Quenya](../Q/Quenya.md), có nghĩa là "Thanh kiếm ánh sáng". Nó có thể ám chỉ đến hai vị Vua của [Con Người](../M/Men.md):
+**Calmacil** (phát âm là <span title="Pronunciation in IPA" class="IPA">[ˈkalmakil]</span>) là tên [Quenya](../Q/Quenya.md), có nghĩa là "Thanh kiếm ánh sáng". Nó có thể đề cập đến hai vị vua [Nam giới](../M/Men.md):
 
-- [Tar-Calmacil](../T/Tar-Calmacil.md) ([S.A.](../S/Second_Age.md) [2516](../S/Second_Age_2516.md) - [2825](../S/Second_Age_2825.md)), [Vua](../K/King_of_Númenor.md) thứ mười tám của [Númenor](../N/Númenor.md) là người Vua đầu tiên lấy vương hiệu [Adûnaic](../A/Adûnaic.md).
+- [Tar-Calmacil](../T/Tar-Calmacil.md) ([S.A.](../S/Second_Age.md) [2516](../S/Second_Age_2516.md) - [2825](../S/Second_Age_2825.md)), [Vua](../K/King_of_Númenor.md) thứ mười tám của [Númenor](../N/Númenor.md), là vị vua đầu tiên lấy tên vương quyền là [Adûnaic](../A/Adûnaic.md).
 - [Calmacil](<Calmacil_(King_of_Gondor).md>) ([T.A.](../T/Third_Age.md) [1058](../T/Third_Age_1058.md) - [1304](../T/Third_Age_1304.md)), [Vua](../K/Kings_of_Gondor.md) thứ mười tám của [Gondor](../G/Gondor.md).
 
 <hr style="margin-top:15px;"/>

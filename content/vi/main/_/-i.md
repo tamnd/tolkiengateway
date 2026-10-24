@@ -14,7 +14,7 @@ sort_keys:
   "Quenya suffixes": "i"
 ---
 
-<i><b>-i</b></i> là động từ nguyên thể bất định đơn giản nhất trong [Quenya](../Q/Quenya.md). (ví dụ: *uin care* 'Tôi không')<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+<i><b>-i</b></i> là nguyên thể bất định đơn giản nhất trong [Quenya](../Q/Quenya.md). (ví dụ: *uin care* 'Tôi không')<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

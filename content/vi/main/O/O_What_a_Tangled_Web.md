@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/O/O_What_a_Tangled_Web.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f8/O_What_a_Tangled_Web.jpg/320px-O_What_a_Tangled_Web.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f8/O_What_a_Tangled_Web.jpg/480px-O_What_a_Tangled_Web.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f8/O_What_a_Tangled_Web.jpg/640px-O_What_a_Tangled_Web.jpg 2x" data-file-width="907" data-file-height="1360"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>O What a Tangled Web<br/><small>Tolkien and Medieval Literature: A View from Poland</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Barbara Kowalik</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a class="mw-redirect" href="../A/Anke_Eissmann.md" title="Anke Eissmann">Anke Eissmann</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../W/Walking_Tree_Publishers.md" title="Walking Tree Publishers">Walking Tree Publishers</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/23_June.md" title="23 June">23 June</a> <a href="../_/2013.md" title="2013">2013</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">196</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-3-905703-29-0" title="Special:BookSources/978-3-905703-29-0">978-3-905703-29-0</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../C/Cormarë_Series.md" title="Cormarë Series">Cormarë Series</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../T/Tolkien&#39;s_Poetry.md" title="Tolkien&#39;s Poetry">Tolkien&#39;s Poetry</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../I/In_the_Nameless_Wood.md" title="In the Nameless Wood">In the Nameless Wood</a></td></tr></tbody></table>
 
-<i><b>O What a Tangled Web: Tolkien và Văn học Trung cổ: Góc nhìn từ Ba Lan</b></i> là một tập hợp các bài tiểu luận khảo sát các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)liên quan đến văn học thời Trung cổ. Nó được xuất bản ở vị trí thứ 29 trong *[Cormarë Series](../C/Cormarë_Series.md)*.
+<i><b>O Thật là một trang web rối rắm: Tolkien và văn học thời trung cổ: Góc nhìn từ Ba Lan</b></i> là một tập hợp các bài tiểu luận khảo sát các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) liên quan đến văn học thời trung cổ. Nó được xuất bản ở vị trí thứ 29 trong *[Cormarë Series](../C/Cormarë_Series.md)*.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -54,21 +54,21 @@ infobox:
     - Bởi: Barbara Kowalik
 - "Ôi, chúng ta đang dệt nên một mạng lưới rối rắm": *The Lord of the Rings* và Kỹ thuật đan xen
     - Bởi: Joanna Kokot
-- Truyền khẩu và Biết chữ ở Trung Địa
+- Truyền khẩu và xóa mù chữ ở Trung Địa
     - Bởi: Bartłomiej Błaszkiewicz
 - Rohan và các quy tắc xã hội của sử thi anh hùng và lãng mạn hiệp sĩ
     - Bởi: Justyna Brzezińska
-Nữ hoàng của - Tolkien trong *The Lord of the Rings*
+- Nữ hoàng của Tolkien trong *The Lord of the Rings*
     - Bởi: Maria Błaszkiewicz
 - Elbereth Nữ hoàng Ngôi sao được nhìn thấy dưới ánh sáng của lòng sùng kính Đức Mẹ thời Trung cổ
     - Bởi: Barbara Kowalik
-- Kẻ sa ngã: Satan của Milton và Melkor của Tolkien
+- The Fallen: Satan của Milton và Melkor của Tolkien
     - Bởi: Katarzyna Blacharska
-- *Berserkir*, Bödvar Bjarki và Rồng Fáfnir: Ảnh hưởng của một số truyện cổ Iceland thời trung cổ chọn lọc đối với các tác phẩm dành cho trẻ em của Tolkien
+- *Berserkir*, Bödvar Bjarki và con rồng Fáfnir: Ảnh hưởng của một số truyện cổ Iceland thời trung cổ chọn lọc đối với các tác phẩm dành cho trẻ em của Tolkien
     - Bởi: Renata Leśniakiewicz-Drzymała
-- 'Anh ta đã đến với Chúa để tìm kiếm vinh quang': Tolkien Phê phán lòng dũng cảm phương Bắc và sự bác bỏ các đặc tính anh hùng truyền thống trong "Con trai Beorhtnoth Beorhthelm trở về quê hương"
+- 'Ông đã đến với Chúa để tìm kiếm vinh quang': Phê phán của Tolkien về lòng dũng cảm phương Bắc và sự bác bỏ các đặc tính anh hùng truyền thống trong "Con trai của Beorhtnoth Beorhthelm trở về quê hương"
     - Bởi: [Łukasz Neubauer](../_/Łukasz_Neubauer.md)
-- Chính xác thì Tolkien tranh luận về điều gì trong "*Beowulf*: Quái vật và những kẻ phê bình?" Một nỗ lực tại một chủ nghĩa siêu phê bình
+- Chính xác thì Tolkien tranh luận về điều gì trong "*Beowulf*: Quái vật và những nhà phê bình?" Một nỗ lực tại một chủ nghĩa siêu phê bình
     - Bởi: Andrzej Wicher
 
 ## Liên kết ngoài {#External_links}

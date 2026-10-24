@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>gorth</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "kinh dị".<sup id="cite_ref-AC_1-0" class="reference"><a href="#cite_note-AC-1">[1]</a></sup>
+<i><b>gorth</b></i> là từ [Sindarin](../S/Sindarin.md) có nghĩa là "kinh dị".<sup id="cite_ref-AC_1-0" class="reference"><a href="#cite_note-AC-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -29,8 +29,8 @@ Trong *[Etymologies](../T/The_Etymologies.md)* xuất hiện dạng [Noldorin](.
 
 ## Xem thêm {#See_also}
 
-- Sindarin *[gorthob](Gorthob.md)*
-- Sindarin *[gorgor](Gorgor.md)*
+- Tiếng Sindarin *[gorthob](Gorthob.md)*
+- Tiếng Sindarin *[gorgor](Gorgor.md)*
 
 <span></span>
 

@@ -16,7 +16,7 @@ sort_keys:
   "People by name": "McClure, Shaun G."
 ---
 
-**Shaun G. McClure** là nhà thiết kế trò chơi - cùng với [John Wilson](../J/John_Wilson.md) - đã thiết kế trò chơi điện tử nhại lại *[Fuddo and Slam](../F/Fuddo_and_Slam.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Shaun G. McClure** là nhà thiết kế trò chơi - cùng với [John Wilson](../J/John_Wilson.md) - đã thiết kế trò chơi nhại lại trò chơi điện tử *[Fuddo and Slam](../F/Fuddo_and_Slam.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

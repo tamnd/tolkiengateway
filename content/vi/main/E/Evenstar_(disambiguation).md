@@ -16,14 +16,14 @@ images:
 
 **Evenstar** có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-- **"Evenstar"**, là bản dịch của "Undómiel", [epessë](Epessë.md) của [Arwen](../A/Arwen.md).
+- **"Evenstar"**, là bản dịch của "Undómiel", [Arwen](../A/Arwen.md)'s [epessë](Epessë.md).
 
 ## Các bản chuyển thể {#Adaptations}
 
-- **[The Evenstar (The Lord of the Rings: The Fellowship of the Ring cảnh)](<../T/The_Evenstar_(The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_scene).md>)**, một cảnh trong *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
-- **[The Evenstar (The Lord of the Rings: The Two Towers cảnh)](<../T/The_Evenstar_(The_Lord_of_the_Rings%253A_The_Two_Towers_scene).md>)**, một cảnh trong *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
+- **[The Evenstar (The Lord of the Rings: The Fellowship of the Ring scene)](<../T/The_Evenstar_(The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_scene).md>)**, một cảnh trong *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
+- **[The Evenstar (The Lord of the Rings: The Two Towers scene)](<../T/The_Evenstar_(The_Lord_of_the_Rings%253A_The_Two_Towers_scene).md>)**, một cảnh trong *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
     - **[Evenstar](<Evenstar_(soundtrack).md>)**, một ca khúc từ *[The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md)*.
 
 ## Xem thêm {#See_also}

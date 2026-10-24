@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brand (word)"
 ---
 
-Chuyển hướng tới [Brand (từ)](<Brand_(word).md>).
+Chuyển hướng tới [Thương hiệu (từ)](<Brand_(word).md>).

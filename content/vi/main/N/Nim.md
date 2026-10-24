@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-*nim* có nguồn gốc lịch sử từ [Telerin](../T/Telerin.md) *[nimbi](Nimbi.md)*.<sup id="cite_ref-PE17_2-1" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup> <span></span>
+*nim* về mặt lịch sử có nguồn gốc từ [Telerin](../T/Telerin.md) *[nimbi](Nimbi.md)*.<sup id="cite_ref-PE17_2-1" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -40,9 +40,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTRO_-_Before_the_Shadow_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/49/LOTRO_-_Before_the_Shadow_logo.png/320px-LOTRO_-_Before_the_Shadow_logo.png" decoding="async" loading="lazy" width="320" height="158" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/49/LOTRO_-_Before_the_Shadow_logo.png/480px-LOTRO_-_Before_the_Shadow_logo.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/49/LOTRO_-_Before_the_Shadow_logo.png/640px-LOTRO_-_Before_the_Shadow_logo.png 2x" data-file-width="703" data-file-height="348"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Lord of the Rings Online: Before the Shadow</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a href="../S/Standing_Stone_Games.md" title="Standing Stone Games">Standing Stone Games</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../D/Daybreak_Game_Company.md" title="Daybreak Game Company">Daybreak Game Company</a></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">Microsoft Windows</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/15_November.md" title="15 November">15 November</a> <a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">MMORPG</td></tr></tbody></table>
 
-<i><b>The Lord of the Rings Trực tuyến: Trước Bóng Tối</b></i> là bản mở rộng thứ mười cho *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*.
+<i><b>Chúa tể của những chiếc nhẫn trực tuyến: Before the Shadow</b></i> là bản mở rộng thứ mười của *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*.
 
-Trong bản mở rộng này đã có thêm hai vùng bắt đầu: [Swanfleet](../S/Swanfleet.md) và [Cardolan](../C/Cardolan.md). Giờ đây, tất cả các chủng tộc đều có tùy chọn, nếu họ sở hữu bản mở rộng này, bắt đầu ở Swanfleet, thay vì [Ered Luin](../E/Ered_Luin.md) cho Tiên tộc và Người Lùn, [Shire](../S/Shire.md) cho Hobbit và [Bree-land](../B/Bree-land.md) cho Con Người. Với bản mở rộng này cũng có phần đầu tiên mới của Dòng câu chuyện sử thi mới, "Bài hát của sóng và gió", do [Boromir](../B/Boromir.md)hướng dẫn.
+Trong bản mở rộng này đã có thêm hai khu vực bắt đầu: [Swanfleet](../S/Swanfleet.md) và [Cardolan](../C/Cardolan.md). Giờ đây, tất cả các chủng tộc đều có tùy chọn, nếu họ sở hữu bản mở rộng này, sẽ bắt đầu ở Swanfleet, thay vì [Ered Luin](../E/Ered_Luin.md) dành cho Yêu tinh và Người lùn, [Shire](../S/Shire.md) dành cho Người Hobbit và [Bree-land](../B/Bree-land.md) dành cho Nam giới. Với bản mở rộng này cũng có phần đầu tiên mới của Dòng câu chuyện sử thi mới, "Bài hát của sóng và gió", do [Boromir](../B/Boromir.md) hướng dẫn.
 
 ## Cập nhật {#Updates}
 
@@ -50,23 +50,23 @@ Trong bản mở rộng này đã có thêm hai vùng bắt đầu: [Swanfleet](
 
 *Return to Carn Dûm* được phát hành vào [22 tháng 3](../_/22_March.md), [2023](../_/2023.md).
 
-- Nhiều trường hợp đã được thêm vào trong [Carn Dûm](../C/Carn_Dûm.md): 2 trường hợp học bổng nhỏ và một trường hợp học bổng toàn phần. Một cuộc đột kích cũng đã được lên kế hoạch.
+- Nhiều trường hợp đã được thêm vào [Carn Dûm](../C/Carn_Dûm.md): 2 học bổng nhỏ và một học bổng toàn phần. Một cuộc đột kích cũng đã được lên kế hoạch.
 - Có một sự cải tiến lớn về sức mạnh và sát thương.
 - [Ngôi nhà giản dị cuối cùng](../L/Last_Homely_House.md) đã được thay đổi hoàn toàn.
 
-### Cập nhật 36: Gondor Đã gia hạn {#Update_36:_Gondor_Renewed}
+### Cập nhật 36: Gondor được gia hạn {#Update_36:_Gondor_Renewed}
 
 *Gondor Renewed* được phát hành vào [31 tháng 5](../_/31_May.md), [2023](../_/2023.md).
 
-- Một vùng mới, được gọi là *King's Gondor*, đã được thêm vào. Đây là [Gondor](../G/Gondor.md) sau khi [Aragorn II](../A/Aragorn_II.md)đăng quang.
-- Một cốt truyện mới, được gọi là *The Song of Waves and Wind*, đã được thêm vào. Trong câu chuyện này, bạn phải giúp Gondor phục hồi sau Cuộc chiến Nhẫn.
+- Một vùng mới, được gọi là *King's Gondor*, đã được thêm vào. Đây là [Gondor](../G/Gondor.md) sau sự đăng quang của [Aragorn II](../A/Aragorn_II.md).
+- Một cốt truyện mới, được gọi là *The Song of Waves and Wind*, đã được thêm vào. Trong câu chuyện này, bạn phải giúp Gondor hồi phục sau Cuộc chiến trên chiếc nhẫn.
 - Đã có độ khó cảnh quan mới, được gọi là *The Paths of the Valour*.
 
 ### Cập nhật 37: Những ngôi nhà khiêm nhường của Holbytlan {#Update_37:_The_Humble_Homes_of_The_Holbytlan}
 
 *The Humble Homes of The Holbytlan* được phát hành vào [29 tháng 8](../_/29_August.md), [2023](../_/2023.md).
 
-- Bổ sung nhân vật khởi đầu chủng tộc mới, Sông Hobbit
+- Bổ sung nhân vật khởi đầu chủng tộc mới, River Hobbit
 - Khu nhà ở hàng đầu mới: Lyndelby Homestead
 - Để giảm bớt sự phình to, "squish" thuộc tính và chỉ số được thực hiện trong toàn bộ trò chơi, giảm hầu hết các số lượng xuống hệ số 10.
 

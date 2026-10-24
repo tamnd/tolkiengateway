@@ -16,11 +16,11 @@ sort_keys:
   "Letters": "Beare, Rhona (1961-06-08)"
 ---
 
-Vào [8 tháng 6](../_/8_June.md) [1961](../_/1961.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Rhona Beare](../R/Rhona_Beare.md)**.
+Vào [8 tháng 6](../_/8_June.md) [1961](../_/1961.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Rhona Beare](../R/Rhona_Beare.md)**.
 
 Đây là một trong hai chữ cái được in trong *[J.R.R. Tolkien's Letters to Rhona Beare](../J/J.R.R._Tolkien's_Letters_to_Rhona_Beare.md)*, là bản gốc của [Thư 230](Letter_230.md).
 
-- **Sự khác biệt so với Thư 230**: So với Thư này, Thư 230 đã lược bỏ hai đoạn đầu và đoạn cuối. Đoạn thứ hai là bản dịch của [Elvish bài thánh ca gửi Elbereth](../A/A_Elbereth_Gilthoniel.md) trong *The Lord of the Rings*, khác về chi tiết so với bản dịch nguyên văn được đưa ra trong *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- **Sự khác biệt so với Thư 230**: So với Thư 230 đã lược bỏ hai đoạn đầu và đoạn cuối. Đoạn thứ hai là bản dịch của [bài thánh ca Elvish gửi Elbereth](../A/A_Elbereth_Gilthoniel.md) trong *The Lord of the Rings*, khác về chi tiết so với bản dịch nguyên văn được đưa ra trong *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

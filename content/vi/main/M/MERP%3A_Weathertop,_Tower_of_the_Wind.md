@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Weathertop: Tower of the Wind"
 ---
 
-Chuyển hướng đến [Weathertop: Tháp Gió](../W/Weathertop%253A_Tower_of_the_Wind.md).
+Chuyển hướng đến [Weathertop: Tower of the Wind](../W/Weathertop%253A_Tower_of_the_Wind.md).

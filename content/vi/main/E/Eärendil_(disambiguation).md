@@ -27,19 +27,19 @@ images:
   - "Disambig.png"
 ---
 
-**Eärendil** ([Quenya](../Q/Quenya.md): "người bạn biển", phát âm <span title="Pronunciation in IPA" class="IPA">[ˌe.aˈrendil]</span>) có thể tham khảo như sau:
+**Eärendil** ([Quenya](../Q/Quenya.md): "người bạn biển", phát âm <span title="Pronunciation in IPA" class="IPA">[ˌe.aˈrendil]</span>) có thể đề cập đến những điều sau:
 
-- **[Eärendil](Eärendil.md) (sinh ra [F.A.](../F/First_Age.md) [503](../F/First_Age_503.md)), vị anh hùng vĩ đại của [Kỷ Đệ Nhất](../F/First_Age.md) đã giương buồm tới [Valinor](../V/Valinor.md) với một chiếc [Silmaril](../S/Silmaril.md).**
+- **[Eärendil](Eärendil.md) (sinh ra [F.A.](../F/First_Age.md) [503](../F/First_Age_503.md)), vị anh hùng vĩ đại của [Thời đại thứ nhất](../F/First_Age.md), người đã giương buồm đến [Valinor](../V/Valinor.md) với một [Silmaril](../S/Silmaril.md).**
     - [Ngôi sao của Eärendil](../S/Star_of_Eärendil.md), [Silmaril](../S/Silmaril.md) tỏa sáng như một ngôi sao trên bầu trời đêm.
     - *[Eärendillinwë](Eärendillinwë.md)*, một bài thơ trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* về [Eärendil](Eärendil.md) được viết bởi [Bilbo Baggins](../B/Bilbo_Baggins.md).
 - [Eärendil](<Eärendil_(King_of_Gondor).md>) ([T.A.](../T/Third_Age.md) [238](../T/Third_Age_238.md) - [324](../T/Third_Age_324.md)), [Vua](../K/Kings_of_Gondor.md) thứ năm của [Gondor](../G/Gondor.md).
 
-- [Elessar của Eärendil](Elessar_of_Eärendil.md), viên ngọc quý tuyệt vời của [Thứ nhất](../F/First_Age.md) và [Thứ ba](../T/Third_Age.md) Kỷ nguyên.
-- *[Aiya Eärendil elenion ancalima!](../A/Aiya_Eärendil_elenion_ancalima!.md)*, tiếng kêu [Quenya](../Q/Quenya.md).
+- [Elessar of Eärendil](Elessar_of_Eärendil.md), một viên ngọc quý tuyệt vời của Thời đại [Thứ nhất](../F/First_Age.md) và [Thứ ba](../T/Third_Age.md).
+- *[Aiya Eärendil elenion ancalima!](../A/Aiya_Eärendil_elenion_ancalima!.md)*, một tiếng kêu ở [Quenya](../Q/Quenya.md).
 
 ## Xem thêm {#See_also}
 
-- <a class="mw-disambig" href="Eärnil_(disambiguation).md" title="Eärnil (disambiguation)">Eärnil (định hướng)</a>, dạng rút gọn của Eärendil.
+- <a class="mw-disambig" href="Eärnil_(disambiguation).md" title="Eärnil (disambiguation)">Eärnil (định hướng)</a>, một dạng rút gọn của Eärendil.
 
 <hr style="margin-top:15px;"/>
 

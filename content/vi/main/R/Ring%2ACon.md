@@ -14,7 +14,7 @@ categories:
 
 <b>Ring*Con</b> là hội nghị [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thường niên được tổ chức tại Đức.
 
-Sau thành công về mặt phòng vé của *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*, [Marcel Bülles](../M/Marcel_Bülles.md) và Stefan servos, quản trị viên web của <a class="external text" href="http://www.herr-der-ringe-film.de/" rel="noreferrer noopener" target="_blank">Herr-der-Ringe-film.de</a>, đã quyết định tổ chức một hội nghị để tập hợp những người hâm mộ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*lại với nhau. Ring\*con đầu tiên vào năm 2002 có 1.500 khách.
+Sau thành công về mặt phòng vé của *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*, [Marcel Bülles](../M/Marcel_Bülles.md) và Stefan servos, quản trị viên web của <a class="external text" href="http://www.herr-der-ringe-film.de/" rel="noreferrer noopener" target="_blank">Herr-der-Ringe-film.de</a>, đã quyết định tổ chức một hội nghị để tập hợp những người hâm mộ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* lại với nhau. Ring\*con đầu tiên vào năm 2002 có 1.500 khách.
 
 <br clear="all"/>
 

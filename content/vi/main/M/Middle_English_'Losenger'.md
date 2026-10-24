@@ -13,7 +13,7 @@ categories:
   - "Lectures by J.R.R. Tolkien"
 ---
 
-**Tiếng Anh trung cổ 'Losenger': Phác thảo một cuộc điều tra từ nguyên và ngữ nghĩa** là tiêu đề của một bài báo được thực hiện bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tại Congrès Internationale de Philologie Moderne, được tổ chức tại Đại học Liège từ [10](../_/10_September.md) đến [13 tháng Chín](../_/13_September.md) [1951](../_/1951.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Tiếng Anh trung cổ 'Losenger': Phác thảo một cuộc điều tra từ nguyên và ngữ nghĩa** là tiêu đề của một bài báo được đưa ra bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tại Congrès Internationale de Philologie Moderne, được tổ chức tại Đại học Liège từ [10](../_/10_September.md) đến [13 tháng 9](../_/13_September.md) [1951](../_/1951.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Bài viết này là cuộc điều tra về từ [tiếng Anh trung cổ](Middle_English.md) (có nguồn gốc từ tiếng Pháp) 'losenger'.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> Tolkien truy tìm từ nguyên của từ này trong <a class="extiw" href="http://en.wikipedia.org/wiki/Geoffrey_Chaucer" title="wikipedia:Geoffrey Chaucer">Geoffrey Chaucer</a>'s *Legend of Good Women* và trong nhiều <a class="extiw" href="http://en.wikipedia.org/wiki/Proto-Germanic_language" title="wikipedia:Proto-Germanic language">ngôn ngữ Đức nguyên thủy</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 

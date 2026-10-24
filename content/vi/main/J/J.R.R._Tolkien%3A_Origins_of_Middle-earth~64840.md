@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien: Origins of Middle-Earth"
 ---
 
-Chuyển hướng tới [J.R.R. Tolkien: Nguồn gốc của Trung Địa](J.R.R._Tolkien%253A_Origins_of_Middle-Earth.md).
+Chuyển hướng đến [J.R.R. Tolkien: Origins of Middle-Earth](J.R.R._Tolkien%253A_Origins_of_Middle-Earth.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Black Gate"
 ---
 
-Chuyển hướng đến [Cổng Đen](Black_Gate.md).
+Chuyển hướng đến [Cổng đen](Black_Gate.md).

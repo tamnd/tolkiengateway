@@ -16,11 +16,11 @@ sort_keys:
   "People by name": "Byrne, Evelyn B."
 ---
 
-**Evelyn B. Byrne** là một người Mỹ vào năm 1967-70 đã điều hành một chương trình cho Trường Trung học Cơ sở Elizabeth Barrett Browning của Thành phố New York, nơi cô yêu cầu các nhân vật văn học và nghệ thuật lớn (bao gồm cả [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)) thời đó viết lại hồi ức của họ về những cuốn sách đã truyền cảm hứng cho họ khi họ còn là thanh thiếu niên. Một loạt các câu trả lời của họ đã được tập hợp vào cuốn sách *[Attacks of Taste](../A/Attacks_of_Taste.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Evelyn B. Byrne** was an American who in 1967-70 ran a program for New York City's Elizabeth Barrett Browning Junior High School, where she asked major literary and artistic figures (including [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)) of the time to write back with their recollections of what books inspired them while they were teenagers. An assortment of their responses were collected into the book *[Attacks of Taste](../A/Attacks_of_Taste.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Thư gửi cô E. Byrne (ngày 1 tháng 3 năm 1968)](<../L/Letter_to_Miss_E._Byrne_(1_March_1968).md>) (thư từ Tolkien)
+- [Thư gửi cô E. Byrne (1 tháng 3 năm 1968)](<../L/Letter_to_Miss_E._Byrne_(1_March_1968).md>) (thư từ Tolkien)
 
 <span></span>
 

@@ -44,21 +44,21 @@ infobox:
 <p class="tg-quote-footer"><cite>Brânk</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Brânk** là một lính đánh thuê [Gaudrim](../G/Gaudrim.md) phục vụ [Bóng tối Pháp sư](../D/Dark_Wizard.md) vào cuối [Kỷ nguyên thứ hai](../S/Second_Age.md). Brânk được phát minh cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* bởi [Amazon Studios](../A/Amazon_Studios.md), nơi anh được miêu tả bởi [Yasen Atour](../Y/Yasen_Atour.md). Anh ấy xuất hiện trong phần thứ hai của bộ truyện.
+**Brânk** là một lính đánh thuê [Gaudrim](../G/Gaudrim.md) phục vụ [Pháp sư bóng tối](../D/Dark_Wizard.md) vào cuối [Thời đại thứ hai](../S/Second_Age.md). Brânk được phát minh cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* bởi [Amazon Studios](../A/Amazon_Studios.md), nơi anh được miêu tả bởi [Yasen Atour](../Y/Yasen_Atour.md). Ông xuất hiện trong phần thứ hai của bộ truyện.
 
 ## Lịch sử {#History}
 
-Trong khi phục vụ [Bóng tối Pháp sư](../D/Dark_Wizard.md) cư trú tại [Caras Gaer](../C/Caras_Gaer.md), Brânk đã truy đuổi và cố gắng bắt giữ [Kẻ lạ mặt](../T/The_Stranger.md) cũng như [Harfoots](../H/Harfoots.md) [Nori Brandyfoot](../E/Elanor_Brandyfoot.md) và [Poppy Proudfellow](../P/Poppy_Proudfellow.md). Anh ta đã không thành công sau khi Stranger tạo ra một cơn bão cát một cách kỳ diệu khiến Brânk và những người đồng hương Gaudrim của anh ta phải chạy trốn.
+Trong khi phục vụ [Pháp sư bóng tối](../D/Dark_Wizard.md) sống ở [Caras Gaer](../C/Caras_Gaer.md), Brânk đã truy đuổi và cố gắng bắt giữ [Kẻ lạ mặt](../T/The_Stranger.md) cũng như [Harfoots](../H/Harfoots.md) [Nori Brandyfoot](../E/Elanor_Brandyfoot.md) và [Poppy Proudfellow](../P/Poppy_Proudfellow.md). Ông ta đã không thành công sau khi Stranger tạo ra một cơn bão cát một cách kỳ diệu khiến Brânk và những người đồng hương Gaudrim của ông ta phải chạy trốn.
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Rings_of_Power_(TV_series)_-_Brank_and_Dark_Wizard.png.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c8/The_Rings_of_Power_%28TV_series%29_-_Brank_and_Dark_Wizard.png/371px-The_Rings_of_Power_%28TV_series%29_-_Brank_and_Dark_Wizard.png" decoding="async" loading="lazy" width="371" height="223" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c8/The_Rings_of_Power_%28TV_series%29_-_Brank_and_Dark_Wizard.png/557px-The_Rings_of_Power_%28TV_series%29_-_Brank_and_Dark_Wizard.png 1.5x, https://tolkiengateway.net/w/images/thumb/c/c8/The_Rings_of_Power_%28TV_series%29_-_Brank_and_Dark_Wizard.png/742px-The_Rings_of_Power_%28TV_series%29_-_Brank_and_Dark_Wizard.png 2x" data-file-width="1045" data-file-height="629"/></a><figcaption>Brânk confronts the Dark Wizard.</figcaption></figure>
 
-Brânk và Gaudrim của anh ấy sau đó đến ngôi làng [Stoor](../S/Stoors.md) và tìm thấy cả Nori và Poppy đang ở đó. Anh ta đã bắt được hai Harfoots và trong khi yêu cầu trả tiền cho việc bắt giữ họ, anh ta đe dọa tính mạng của Nori trong khi Bóng tối Pháp sư đang cố gắng thuyết phục Người lạ tham gia cùng anh ta. Bóng tối Pháp sư sử dụng phép thuật của mình để đẩy Brânk vào bức tường đá, nơi một cành cây lởm chởm cắm vào sau đầu Gaudrim, dường như muốn giết anh ta.
+Brânk và Gaudrim của ông sau đó đến làng [Stoor](../S/Stoors.md) và tìm thấy cả Nori và Poppy đang ở đó. Ông ta đã bắt được hai Harfoots và trong khi yêu cầu trả tiền cho việc bắt giữ họ, ông ta đe dọa tính mạng của Nori trong khi Phù thủy bóng tối đang cố gắng thuyết phục Người lạ tham gia cùng mình. Pháp sư bóng tối sử dụng phép thuật của mình để đẩy Brânk vào bức tường đá, nơi có một cành cây lởm chởm cắm vào sau đầu Gaudrim, dường như muốn giết ông ta.
 
-Cái chết rõ ràng của anh ta cho thấy khả năng bạo lực của Bóng tối Pháp sư và khiến Người lạ từ chối gia nhập Liên minh Bóng tối Pháp sư.
+Cái chết rõ ràng của ông ta cho thấy khả năng bạo lực của Phù thủy bóng tối và khiến Người lạ từ chối liên minh với Phù thủy bóng tối.
 
 ## Từ nguyên {#Etymology}
 
-*Brânk* dường như không có bất kỳ bản dịch nào bằng [ngôn ngữ](../L/Languages.md) của [Tolkien](../J/J.R.R._Tolkien.md) và có thể là phát minh của những người tạo ra bộ truyện. Đó có thể là một cái tên trong [Rhûnnic](../R/Rhûnnic.md).
+*Brânk* does not appear to have any translations in [Tolkien](../J/J.R.R._Tolkien.md)'s [languages](../L/Languages.md) and is likely an invention of the creators of the series. It may be a name in [Rhûnnic](../R/Rhûnnic.md).
 
 *Brank* là một từ tiếng Anh được định nghĩa là "một dụng cụ bao gồm một khung sắt bao quanh đầu và một miếng kim loại sắc nhọn hoặc miếng bịt miệng nhét vào miệng trước đây dùng để trừng phạt."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><span></span>
 

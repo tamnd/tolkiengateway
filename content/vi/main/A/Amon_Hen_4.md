@@ -35,19 +35,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 4</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">John Martin</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="April.md" title="April">April</a> <a href="../_/1973.md" title="1973">1973</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">19</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_3.md" title="Amon Hen 3">Amon Hen 3</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_5.md" title="Amon Hen 5">Amon Hen 5</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 4</b> là số thứ tư của [*Amon Hen* tạp chí](<Amon_Hen_(journal).md>) của [Hội Tolkien](../T/The_Tolkien_Society.md).
+<b><i>Amon Hen</i> 4</b> là số thứ tư của [*Amon Hen* tạp chí](<Amon_Hen_(journal).md>) của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md).
 
 ## Nội dung {#Contents}
 
 <dl><dd><i>All content is by John Martin unless indicated otherwise.</i></dd></dl>
 
 - "Người đàn ông này có tình yêu lớn hơn; lý do biên tập"
-- Báo cáo về cuộc họp thường niên của Hội Tolkien (có thư của Joy Chant)
+- Báo cáo về cuộc họp thường niên của Hiệp hội Tolkien (có thư của Joy Chant)
 - Tin tức
     - Lệnh cấm xuất bản lậu *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (của Jessica Kemball-Cook)
-    - Bệnh sức khỏe [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) (từ một bài *Times*)
-    - Sản xuất [bản chuyển thể *The Hobbit*](<../T/The_Hobbit_(1977_film).md>) của Rankin và Bass (bởi Jim Allan)
-    - Kêu gọi tình nguyện viên tham gia bình luận ngôn ngữ Tolkien của Hiệp hội Ngôn ngữ học Thần thoại (bởi Jim Allan)
+    - Sức khỏe kém [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) (từ một *Times* bài viết)
+    - Sản xuất [bản chuyển thể *The Hobbit*](<../T/The_Hobbit_(1977_film).md>) của Rankin và Bass (của Jim Allan)
+    - Kêu gọi tình nguyện viên tham gia bài bình luận ngôn ngữ Tolkien của Hiệp hội Ngôn ngữ học Huyền thoại (của Jim Allan)
 - "Howard Rosenblum - đại diện thành viên - đưa ra thông báo mang tính đảng phái"
 - "John Martin, đại diện cho chính mình, đưa ra đề xuất, em yêu"
 - "*[Mallorn](<../M/Mallorn_(journal).md>)* - hoặc một ngày trong cái chết của một tạp chí văn học"
@@ -61,7 +61,7 @@ infobox:
     - *[J.R.R. Tolkien (Writers for the 70's)](<../J/J.R.R._Tolkien_(Writers_for_the_70's).md>)* của [Robley Evans](../R/Robley_Evans.md) (được đánh giá bởi Jim Allan)
     - *The Wolves of Willoughby Chase* / *Black Hearts in Battersea* / *Nightbirds on Nantucket* của Joan Aiken (được đánh giá bởi Pat McIntosh)
 - "Tạp chí hiện hành"
-- "Thư viện" (thông báo của thư viện Hội Tolkien)
+- "The Library" (thông báo của thư viện Tolkien Society)
 - Thành viên mới và thay đổi địa chỉ
 - "Tin nhắn chia tay, lời từ biệt cam chịu và tối hậu thư"
 

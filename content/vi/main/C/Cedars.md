@@ -15,7 +15,7 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**Cedars** là những cây nhựa khổng lồ có cành xòe rộng. Ở [Kỷ Đệ Tam](../T/Third_Age.md), cũng như ngày nay, cây tuyết tùng phổ biến nhất ở những vùng đất ấm hơn, nhưng chúng dường như không được biết đến ở [ Shire](../T/The_Shire.md). Khi ở [Ithilien](../I/Ithilien.md), [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) quyết định nghỉ ngơi gần một ngân hàng được bao bọc bởi những cây tuyết tùng già.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Cedars** là những cây nhựa khổng lồ có cành xòe rộng. Vào [Kỷ nguyên thứ ba](../T/Third_Age.md), cũng như ngày nay, cây tuyết tùng phổ biến nhất ở những vùng đất ấm hơn, nhưng rõ ràng chúng không hề được biết đến ở [Shire](../T/The_Shire.md). Khi ở [Ithilien](../I/Ithilien.md), [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) quyết định nghỉ ngơi gần một ngân hàng có những cây tuyết tùng già.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The One Ring (Facebook application)"
 ---
 
-Chuyển hướng đến [Chiếc nhẫn duy nhất (ứng dụng Facebook)](<The_One_Ring_(Facebook_application).md>).
+Chuyển hướng đến [The One Ring (ứng dụng Facebook)](<The_One_Ring_(Facebook_application).md>).

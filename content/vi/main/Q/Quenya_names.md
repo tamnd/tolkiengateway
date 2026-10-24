@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Quenya names"
 ---
 
-Chuyển hướng đến [Danh mục:Quenya tên](../../category/Q/Quenya_names.md).
+Chuyển hướng tới [Danh mục:Tên Quenya](../../category/Q/Quenya_names.md).

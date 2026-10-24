@@ -19,7 +19,7 @@ langlinks:
     url: "https://kontu.wiki/Valanya"
 ---
 
-**Valanya** (hoặc **Tárion**) là tên [Quenya](../Q/Quenya.md) của ngày thứ sáu trong tuần [Eldarin](../E/Eldar.md) sáu ngày (và ngày thứ bảy của tuần lễ [Númenórean](../N/Númenóreans.md) bảy ngày), tên của nó đề cập đến [Valar](Valar.md). Tên [Sindarin](../S/Sindarin.md) của nó là **Orbelain** (hoặc **Rodyn**).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Valanya** (hoặc **Tárion**) là tên [Quenya](../Q/Quenya.md) của ngày thứ sáu của tuần lễ sáu ngày [Eldarin](../E/Eldar.md) (và ngày thứ bảy của tuần lễ [Númenórean](../N/Númenóreans.md)), tên của nó ám chỉ [Valar](Valar.md). Tên [Sindarin](../S/Sindarin.md) của nó là **Orbelain** (hoặc **Rodyn**).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

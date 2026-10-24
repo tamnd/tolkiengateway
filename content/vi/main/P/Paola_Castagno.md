@@ -38,7 +38,7 @@ Năm 2004, cô khởi động Dự án <a class="external text" href="https://ww
 
 ## Ấn phẩm và tiểu luận {#Publications_and_Essays}
 
-Cô là đồng tác giả và xuất bản nhiều cuốn sách về Tolkien:
+Cô là đồng tác giả và xuất bản một số cuốn sách về Tolkien:
 
 - [Tolkien: Preguntas frecuentes (y no tan frecuentes)](<../T/Tolkien%253A_Preguntas_frecuentes_(y_no_tan_frecuentes).md>), Minotauro, 2004 (cùng với Jesús Pedrazo và J.M. Villa).
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=El_Hobbit:_Gu%C3%ADa_de_Lectura&amp;action=edit&amp;redlink=1" title="El Hobbit: Guía de Lectura (page does not exist)">El Hobbit: Guía de Lectura</a>, Espasa Calpe, 2006 (cùng với Leandro Pascual).
@@ -49,9 +49,9 @@ Ngoài ra, cô còn viết và đồng tác giả nhiều bài báo và tiểu l
 - Người khổng lồ của Tolkien là loại sinh vật gì?
 - Saruman có rèn được Chiếc nhẫn quyền lực không?
 - Chuyện gì đã xảy ra với Celebrían?
-- Balrog chưa bao giờ có cánh.
-- Christopher Tolkien, tác giả The Silmarillion.
-- Các bộ phận của Tolkien Tiên tộc là gì?
+- Balrogs không bao giờ có cánh.
+- Christopher Tolkien, tác giả cuốn The Silmarillion.
+- Yêu tinh của Tolkien được phân chia như thế nào?
 
 Trong hơn 20 năm, Paola cùng với <a class="new" href="https://tolkiengateway.net/w/index.php?title=Leandro_Pascual&amp;action=edit&amp;redlink=1" title="Leandro Pascual (page does not exist)">Leandro Pascual</a>, đã quản lý nội dung của trang web Elfenomeno.com. Vào năm 2024, họ đã khởi động lại trang web với thiết kế mới, các phần mới và sự hiện diện mạnh mẽ trên mạng xã hội, tái khẳng định cam kết của họ đối với việc phổ biến và nghiên cứu tác phẩm của J.R.R. Tolkien.
 

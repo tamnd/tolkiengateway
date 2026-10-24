@@ -36,23 +36,23 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../N/Númenóreans.md" title="Númenóreans">Númenórean</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Fíriel</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../N/Númenor.md" title="Númenor">Númenor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../Q/Quenya.md" title="Quenya">Eressëan</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../O/Orontor.md" title="Orontor">Orontor</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr></tbody></table>
 
-**Fíriel** là con gái của [Orontor](../O/Orontor.md) của [Númenor](../N/Númenor.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Lost Road](../T/The_Lost_Road.md)*.
+**Fíriel** là con gái của [Orontor](../O/Orontor.md) của [Númenor](../N/Númenor.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Lost Road](../T/The_Lost_Road.md)*.
 
 ## Lịch sử {#History}
 
-Cô ấy là một thiếu nữ [Númenórean](../N/Númenóreans.md) xinh đẹp trong gia đình [Elendil](../E/Elendil.md). Khi Elendil và con trai [Herendil](../H/Herendil.md) đến gần nhà, họ nghe thấy Fíriel hát một [bài hát buồn](Fíriel's_song.md) từ cửa sổ cao bằng ngôn ngữ [Eressëan](../Q/Quenya.md) mà Elendil và [Herendil](../H/Herendil.md) nghe thấy hai dòng đầu tiên, bắt đầu bằng "*Ilu Ilúvatar en káre*" ("The Father made the World")<sup id="cite_ref-P1_1-0" class="reference"><a href="#cite_note-P1-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và đi cho đến khi giọng cô ấy rơi vào câu hỏi "*Hỡi Ilúvatar, hãy cho tôi vào ngày cuối cùng đó, khi Mặt Trời của tôi thất bại?*" Sau đó Elendil nói "*E man antavaro? Anh ấy thực sự sẽ cho tôi cái gì?*" Herendil phàn nàn và nói rằng cô ấy không nên hát những thứ như vậy, với tư cách là những người trong Númenor giờ đang hát rằng [Melko](../M/Melko.md) sẽ quay lại và trao cho họ Mặt Trời mãi mãi, nhưng cha anh lại coi thường những lời đó.<sup id="cite_ref-Firiel_3-0" class="reference"><a href="#cite_note-Firiel-3">[3]</a></sup>
+Bà là một thiếu nữ [Númenórean](../N/Númenóreans.md) xinh đẹp trong gia đình [Elendil](../E/Elendil.md). Khi Elendil và con trai [Herendil](../H/Herendil.md) đến gần nhà, họ nghe thấy Fíriel hát một [bài hát buồn](Fíriel's_song.md) từ cửa sổ cao bằng ngôn ngữ [Eressëan](../Q/Quenya.md) mà Elendil và [Herendil](../H/Herendil.md) nghe thấy hai dòng đầu tiên, bắt đầu bằng "*Ilu Ilúvatar en káre*" ("The Father made the World")<sup id="cite_ref-P1_1-0" class="reference"><a href="#cite_note-P1-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và tiếp tục cho đến khi giọng bà rơi xuống vào câu hỏi "*Hỡi Ilúvatar, hãy cho tôi vào ngày đó sau ngày tận thế, khi Mặt trời của tôi tắt?*" Sau đó Elendil nói "*E man antaváro? Thực ra ông ấy sẽ cho cái gì?*" Herendil phàn nàn rằng cô không nên hát những thứ như vậy, vì người dân ở Númenor hiện đang hát rằng [Melko](../M/Melko.md) sẽ quay lại và trao cho họ Mặt trời mãi mãi, nhưng cha ông sẽ quay lại khinh thường những lời đó.<sup id="cite_ref-Firiel_3-0" class="reference"><a href="#cite_note-Firiel-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Fíriel* chỉ được viết trong *[The Etymologies](../T/The_Etymologies.md)* dưới dạng tên [Noldorin](../N/Noldorin.md) của [Lúthien](../L/Lúthien.md), nghĩa là "Thiếu nữ phàm trần", từ *feir* ("người phàm") và *[-iel](../_/-iel.md)* ("con gái").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Fíriel* chỉ được viết trong *[The Etymologies](../T/The_Etymologies.md)* dưới dạng tên [Noldorin](../N/Noldorin.md) của [Lúthien](../L/Lúthien.md), có nghĩa là "Thiếu nữ phàm trần", từ *feir* ("người phàm") và *[-iel](../_/-iel.md)* ("con gái").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Mặc dù Tolkien cuối cùng đã loại bỏ ký tự Fíriel nhưng tên này sau đó sẽ được sử dụng cho <a class="mw-disambig" href="Fíriel_(disambiguation).md" title="Fíriel (disambiguation)">các ký tự khác</a> trong [huyền thoại](../L/Legendarium.md).
+Mặc dù Tolkien cuối cùng đã loại bỏ nhân vật Fíriel, nhưng cái tên này sau đó sẽ được sử dụng cho <a class="mw-disambig" href="Fíriel_(disambiguation).md" title="Fíriel (disambiguation)">các nhân vật khác</a> trong [huyền thoại](../L/Legendarium.md).
 
 ## Xem thêm {#See_also}
 
-bài hát của - [Fíriel](Fíriel's_song.md)
+- [Bài hát của Fíriel](Fíriel's_song.md)
 - [Dưới đây](../H/Herendil.md)
 
 <span></span>

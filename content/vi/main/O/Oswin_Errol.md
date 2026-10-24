@@ -36,11 +36,11 @@ images:
 
 Trong suốt thời thơ ấu của mình, Oswin rất đặc biệt về tên của mình, cảm thấy khó chịu mỗi khi bị gọi nhầm là **Oswald**, điều này thường xuyên xảy ra.<sup id="cite_ref-P1_1-1" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
 
-Trong những năm cuối đời, Oswin sống trong một "ngôi nhà nhỏ ở Cornwall" gần biển phía Tây cùng với con trai ông, Alboin. Một buổi tối, Oswin phát hiện con trai mình mất tích ngay trước giờ đi ngủ. Oswin đã gọi điện cho anh ta nhiều lần nhưng không có kết quả. Khi nhận ra con trai mình không có trong phòng chơi của ngôi nhà, Oswin liền tìm kiếm khu vườn nhỏ cao phía sau nhà. trong khi phát hiện ra con trai mình đang nhìn ra biển trong khi nằm trên bức tường đá thấp có hàng rào chắn khỏi nhà.<sup id="cite_ref-P1_1-2" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
+Trong những năm cuối đời, Oswin sống trong một "ngôi nhà nhỏ ở Cornwall" gần biển phía Tây cùng với con trai ông, Alboin. Một buổi tối, Oswin phát hiện con trai mình mất tích ngay trước giờ đi ngủ. Oswin đã gọi điện cho ông ta nhiều lần nhưng không có kết quả. Khi nhận ra con trai mình không có trong phòng chơi của ngôi nhà, Oswin liền tìm kiếm khu vườn nhỏ cao phía sau nhà. trong khi phát hiện ra con trai mình đang nhìn ra biển trong khi nằm trên bức tường đá thấp có hàng rào chắn khỏi nhà.<sup id="cite_ref-P1_1-2" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Oswin* ([tiếng Anh cổ](Old_English.md): <a class="mw-disambig" href="../_/Óswine_(disambiguation).md" title="Óswine (disambiguation)">Óswine</a>) chứa các phần tử *os* ("thần") và *wine* ("bạn").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cái tên khó chịu của Oswin *Oswald* ([tiếng Anh cổ](Old_English.md)) chứa các phần tử *os* ("thần") và *weald* ("quyền lực, kẻ thống trị").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tên *Oswin* ([Tiếng Anh cổ](Old_English.md): <a class="mw-disambig" href="../_/Óswine_(disambiguation).md" title="Óswine (disambiguation)">Óswine</a>) chứa các phần tử *os* ("thần") và *wine* ("bạn").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cái tên khó chịu của Oswin *Oswald* ([Tiếng Anh cổ](Old_English.md)) chứa các phần tử *os* ("thần") và *weald* ("quyền lực, người cai trị").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

@@ -28,7 +28,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 2</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data">Hawke Robinson, <a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Chris Seeman, Chris Wade</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Other Minds Volunteers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">January <a href="../_/2008.md" title="2008">2008</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">75</td></tr></tbody></table>
 
-<b><i>Other Minds</i> 2</b> là số thứ hai của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh Trung Địa, xuất bản vào tháng 1 năm 2008.
+<b><i>Other Minds</i> 2</b> là số thứ hai của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh ở Trung Địa, được xuất bản vào tháng 1 năm 2008.
 
 ## Nội dung {#Contents}
 
@@ -38,9 +38,9 @@ infobox:
     - Bởi Thomas Morwinsky
 - "J.R.R. Tolkien tình yêu đối với Cây xanh và Môi trường"
     - Bởi W.A. Hawke Robinson
-- "người Númenor trong Endor"
+- "Númenóreans ở Endor"
     - Bởi [Gabriele Quaglia](../G/Gabriele_Quaglia.md), Stéphane Hoerlé, Thomas Morwinsky
-- "Númenórean Công nghệ hàng hải"
+- "Công nghệ hàng hải Númenórean"
     - Bởi Thomas Morwinsky
 - "Phản hồi cho "Ánh xạ Arda""
     - Bởi Eric Dubourg
@@ -48,7 +48,7 @@ infobox:
     - Tác giả Thomas Morwinsky, Stéphane Hoerlé, Gabriele Quaglia, Oliver Schick, Christian Schröder
 - "Bản in đẹp"
 - "Giấy phép Creative Commons"
-- "Appendix A-C: Bản đồ của Arda" (Để sử dụng với "người Númenor trong Endor", "Phản hồi cho" Ánh xạ Arda"" và "Ánh xạ Arda - Đã tải lại"
+- "Phụ lục A-C: Bản đồ Arda" (Để sử dụng với "Númenóreans in Endor", "Phản hồi cho" Lập bản đồ Arda "" và "Lập bản đồ Arda - Đã tải lại"
 
 - **Tác phẩm nghệ thuật / Bản đồ:**
     - Bởi: Quentin Westcott

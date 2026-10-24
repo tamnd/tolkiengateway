@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Những tay đua của Rohan](../../main/R/Rohirrim.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md). Một bản phác thảo bằng bút chì trên Tracing Vellum cho cuốn Lịch Tolkien chưa hoàn thành năm 1979.
+"[Những tay đua Rohan](../../main/R/Rohirrim.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md). Một bản phác thảo bằng bút chì trên Tracing Vellum cho cuốn Lịch Tolkien chưa hoàn thành năm 1979.
 
 ## Giấy phép {#Licensing}
 

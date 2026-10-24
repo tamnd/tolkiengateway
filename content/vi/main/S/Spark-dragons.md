@@ -25,11 +25,11 @@ images:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
 
 <dl><dd>Light-drakes (Quenya <i>Kalalóki</i>) are rare, wingless Dragons. They prefer to fight with their tails, which hold an electrically charged fluid that delivers &#34;a &#39;sting&#39; analogous to the impact of a lightning bolt&#34;.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
-<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
+<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
 
 <dl><dd>A &#34;Light-drake&#34; is a Creature of the Drake-kind, able to inflict two strikes.</dd></dl>
 

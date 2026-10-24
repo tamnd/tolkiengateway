@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Greset, David"
 ---
 
-- David Greset đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_David_Greset.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- David Greset đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_David_Greset.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 07 tháng 7 năm 2023
 - Người dùng đã xin phép qua email: [Người dùng:IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

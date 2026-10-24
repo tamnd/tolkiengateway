@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of Fëanor and the Unchaining of Melkor"
 ---
 
-Chuyển hướng đến [Của Fëanor và Giải mã Melkor](Of_Fëanor_and_the_Unchaining_of_Melkor.md).
+Chuyển hướng tới [Của Fëanor và sự giải phóng Melkor](Of_Fëanor_and_the_Unchaining_of_Melkor.md).

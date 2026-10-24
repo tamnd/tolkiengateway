@@ -15,7 +15,7 @@ sort_keys:
   "Podcasts": "Silver Leaves"
 ---
 
-<i><b>Những chiếc lá bạc</b></i> là một podcast từ nhóm tạp chí của *[Silver Leaves](Silver_Leaves.md)*, tạp chí của [Quỹ Cây Trắng](../T/The_White_Tree_Fund.md).
+<i><b>Lá bạc</b></i> là một podcast từ nhóm tạp chí của *[Silver Leaves](Silver_Leaves.md)*, tạp chí của [Quỹ Cây Trắng](../T/The_White_Tree_Fund.md).
 
 ## Liên kết ngoài {#External_links}
 

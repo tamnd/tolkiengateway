@@ -27,7 +27,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Pass</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Rockfoot Pass</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="Rhovanion.md" title="Rhovanion">Rhovanion</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Pass</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Destroyed</th><td class="tg-infobox-data">Late <a href="../S/Second_Age.md" title="Second Age">Second Age</a></td></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data">Harfoot migration</td></tr></tbody></table>
 
-**Đèo Rockfoot** là một con đèo gần một khu rừng gần nằm trên con đường di cư đến [Grove](../G/Grove.md) ở [Rhovanion](Rhovanion.md). Đèo Rockfoot được phát minh cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* bởi [Amazon Studios](../A/Amazon_Studios.md).
+**Đèo Rockfoot** là một con đèo gần một khu rừng gần nằm trên con đường di cư đến [Grove](../G/Grove.md) ở [Rhovanion](Rhovanion.md). Rockfoot Pass được phát minh cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* bởi [Amazon Studios](../A/Amazon_Studios.md).
 
 ## Lịch sử {#History}
 

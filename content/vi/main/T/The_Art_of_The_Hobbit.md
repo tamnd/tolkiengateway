@@ -56,7 +56,7 @@ infobox:
 
 <i><b>The Art of</b></i> **The Hobbit** <i><b>của J.R.R. Tolkien</b></i> là một cuốn sách nghệ thuật được biên tập bởi [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md), xuất bản trên [2011](../_/2011.md).
 
-Tác phẩm tái hiện, kèm lời bình, hơn 100 hình minh họa do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)thực hiện, tất cả đều liên quan đến *[The Hobbit](The_Hobbit.md)*.
+Tác phẩm tái hiện, có chú thích, hơn 100 hình minh họa do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thực hiện, tất cả đều liên quan đến *[The Hobbit](The_Hobbit.md)*.
 
 Như các tác giả đã nêu, "*hơn hai chục bức ảnh trong số này trước đây chưa được xuất bản và nhiều bức chưa bao giờ được in màu.*"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -99,9 +99,9 @@ Như các tác giả đã nêu, "*hơn hai chục bức ảnh trong số này tr
 
 ## Liên kết ngoài {#External_links}
 
-- Sarah Beach, <a class="external text" href="https://muse.jhu.edu/article/513830" rel="noreferrer noopener" target="_blank">Đánh giá cuốn sách</a>, [Tolkien Nghiên cứu. 10](Tolkien_Studies%253A_Volume_10.md)
+- Sarah Beach, <a class="external text" href="https://muse.jhu.edu/article/513830" rel="noreferrer noopener" target="_blank">Đánh giá cuốn sách</a>, [Nghiên cứu về Tolkien. 10](Tolkien_Studies%253A_Volume_10.md)
 - <a class="external text" href="http://www.tolkienlibrary.com/press/1002-Interview_Art_Hobbit.php" rel="noreferrer noopener" target="_blank">Phỏng vấn Wayne Hammond và Christina Scull</a> về *The Art of the Hobbit*
-- <a class="external text" href="http://wayneandchristina.wordpress.com/2011/04/10/the-art-of-the-hobbit/" rel="noreferrer noopener" target="_blank">Thông báo về <i>Nghệ thuật The Hobbit</i></a>
+- <a class="external text" href="http://wayneandchristina.wordpress.com/2011/04/10/the-art-of-the-hobbit/" rel="noreferrer noopener" target="_blank">Thông báo về <i>Nghệ thuật của người Hobbit</i></a>
 
 <span></span>
 

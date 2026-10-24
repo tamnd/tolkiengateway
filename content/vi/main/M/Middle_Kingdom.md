@@ -17,9 +17,9 @@ langlinks:
     url: "https://kontu.wiki/Keskivaltakunta"
 ---
 
-**Vương quốc Trung tâm** hay **Mediterranearum Partium**, là một lãnh thổ lâu đời ở vùng trung du nước Anh. Đó là miền của Vua [Augustus Bonifacius](../A/Augustus_Bonifacius.md). Một trong những ngôi làng trong vương quốc được gọi là [Ham](../H/Ham.md) và có cư dân [Farmer Giles](../F/Farmer_Giles.md).
+**Trung Vương quốc**, hay **Mediterranearum Partium**, là một vương quốc lâu đời ở vùng trung du nước Anh. Đó là lãnh địa của Vua [Augustus Bonifacius](../A/Augustus_Bonifacius.md). Một trong những ngôi làng trong vương quốc được gọi là [Ham](../H/Ham.md) và có [Nông dân Giles](../F/Farmer_Giles.md) sinh sống.
 
-Vua Augustus Bonifacius không phải là người cai trị giỏi đất đai. Anh ta tham lam, không quan tâm đến những vật gia truyền của mình và giữ một đoàn tùy tùng gồm những hiệp sĩ vô giá trị. Cuối cùng, sự cai trị sai trái của ông đã dẫn đến quyết định của Farmer Giles tự thành lập mình như một lãnh chúa độc lập và cuối cùng là vua của [Tiểu Vương quốc](../L/Little_Kingdom.md) mới. Do con rồng đã được thuần hóa [Chrysophylax](../C/Chrysophylax.md) mà Giles nuôi ở Ham, Augustus Bonifacius đã không thể ngăn chặn sự chia cắt vương quốc của Giles khỏi Vương quốc Trung tâm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vua Augustus Bonifacius không phải là một người cai trị giỏi đất đai. Ông ta tham lam, không quan tâm đến những vật gia truyền của mình và giữ một đoàn tùy tùng gồm những hiệp sĩ vô giá trị. Cuối cùng, sự cai trị sai trái của ông đã dẫn đến quyết định của Nông dân Giles tự thành lập mình như một lãnh chúa độc lập và cuối cùng là vua của [Tiểu Vương quốc](../L/Little_Kingdom.md) mới. Do con rồng đã được thuần hóa [Chrysophylax](../C/Chrysophylax.md) mà Giles nuôi ở Ham, Augustus Bonifacius đã không thể ngăn chặn sự chia cắt vương quốc của Giles khỏi Trung Vương quốc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit/Translations"
 ---
 
-Chuyển hướng tới [The Hobbit/Bản dịch](../T/The_Hobbit%252FTranslations.md).
+Chuyển hướng đến [The Hobbit/Translations](../T/The_Hobbit%252FTranslations.md).

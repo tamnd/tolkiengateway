@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Gandalf](../../main/G/Gandalf.md) trong [The Lord of the Rings: The Two Towers (trò chơi điện tử)](<../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>).
+[Gandalf](../../main/G/Gandalf.md) trong [The Lord of the Rings: The Two Towers (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>).
 
 ## Giấy phép {#Licensing}
 

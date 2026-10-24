@@ -16,7 +16,7 @@ images:
   - "Disambig.png"
 ---
 
-**The Tolkien Quiz Book** có thể tham khảo 3 ấn phẩm:
+**Sách đố vui Tolkien** có thể đề cập đến ba ấn phẩm:
 
 - *[The Tolkien Quiz Book](<The_Tolkien_Quiz_Book_(by_Bart_Andrews).md>)*, một cuốn sách [1979](../_/1979.md) của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bart_Andrews&amp;action=edit&amp;redlink=1" title="Bart Andrews (page does not exist)">Bart Andrews</a>
 - *[The Tolkien Quiz Book](<The_Tolkien_Quiz_Book_(by_Robinson_and_Wilson).md>)*, một cuốn sách [1981](../_/1981.md) của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Nigel_Robinson&amp;action=edit&amp;redlink=1" title="Nigel Robinson (page does not exist)">Nigel Robinson</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Linda_Wilson&amp;action=edit&amp;redlink=1" title="Linda Wilson (page does not exist)">Linda Wilson</a>

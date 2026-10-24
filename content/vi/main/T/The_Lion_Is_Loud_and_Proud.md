@@ -52,7 +52,7 @@ infobox:
 
 ## Nền {#Background}
 
-Bài thơ được viết xoay quanh [1924](../_/1924.md) và có hai giọng nói tranh luận về [Sư tử](../L/Lions.md). Dòng thứ hai ban đầu được viết là "ồn ào và kiêu hãnh, đó là những gì tôi đã nói", nhưng Tolkien đã từ chối điều này đối với dòng thứ hai hiện tại.<sup id="cite_ref-collectedpoems_1-3" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup>
+Bài thơ được viết xoay quanh [1924](../_/1924.md) và có hai giọng nói tranh luận về [Sư tử](../L/Lions.md). Dòng thứ hai ban đầu được viết là "ồn ào và kiêu hãnh, đó là điều tôi đã nói", nhưng Tolkien đã bác bỏ điều này đối với dòng thứ hai hiện tại.<sup id="cite_ref-collectedpoems_1-3" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup>
 
 Tolkien có thể đã đưa bản thảo duy nhất có bài thơ cho [E.V. Gordon](../E/E.V._Gordon.md) vì bản thảo hiện nằm ở kho lưu trữ Gordon ở [Đại học Leeds](../U/University_of_Leeds.md).<sup id="cite_ref-collectedpoems_1-4" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup>
 

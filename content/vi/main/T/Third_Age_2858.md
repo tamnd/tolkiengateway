@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2855.md" title="Third Age 2855">2855</a><a href="Third_Age_2856.md" title="Third Age 2856">2856</a><a href="Third_Age_2857.md" title="Third Age 2857">2857</a><a class="mw-selflink selflink">2858</a><a href="Third_Age_2859.md" title="Third Age 2859">2859</a><a href="Third_Age_2860.md" title="Third Age 2860">2860</a><a href="Third_Age_2861.md" title="Third Age 2861">2861</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 2858** (viết tắt là **T.A. 2858**) là năm [thứ 2858 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2858 còn được gọi là **S.R. 1258** trong [lịch Shire](../S/Shire-reckoning.md).
+**Thời đại thứ ba 2858** (viết tắt là **T.A. 2858**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2858 của [Thời đại thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2858 còn được gọi là **S.R. 1258** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sinh con [Folcred](../F/Folcred.md) và [Fastred](<../F/Fastred_(son_of_Folcwine).md>), hai đứa con đầu lòng và hai con trai sinh đôi của [Vua](../K/Kings_of_Rohan.md) [Folcwine](../F/Folcwine.md) của [Rohan](../R/Rohan.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Sự ra đời của [Folcred](../F/Folcred.md) và [Fastred](<../F/Fastred_(son_of_Folcwine).md>), hai đứa con đầu lòng và hai con trai sinh đôi của [Vua](../K/Kings_of_Rohan.md) [Folcwine](../F/Folcwine.md) của [Rohan](../R/Rohan.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - Cái chết của [Balbo Baggins](../B/Balbo_Baggins.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - Cái chết của [Bosco Boffin](../B/Bosco_Boffin.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

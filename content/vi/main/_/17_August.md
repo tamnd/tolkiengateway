@@ -63,21 +63,21 @@ Sự kiện xảy ra vào ngày 17 tháng 8
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1953](1953.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) [đồng ý](../L/Letter_140.md) với [Rayner Unwin](../R/Rayner_Unwin.md) tên sách cho phần tiếp theo của *[The Hobbit](../T/The_Hobbit.md)*: chúng sẽ là *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*, *[The Two Towers](../T/The_Two_Towers.md)* và *[The Return of the King](../T/The_Return_of_the_King.md)*.
+- **[1953](1953.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) [đồng ý](../L/Letter_140.md) với [Rayner Unwin](../R/Rayner_Unwin.md) về tên sách cho phần tiếp theo của *[The Hobbit](../T/The_Hobbit.md)*: chúng sẽ là *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*, *[The Two Towers](../T/The_Two_Towers.md)* và *[The Return of the King](../T/The_Return_of_the_King.md)*.
 - **[1971](1971.md)** - Nhà ngôn ngữ học [Helge Fauskanger](../H/Helge_Fauskanger.md) ra đời.
 - **[1973](1973.md)** - [Mythcon 4](../M/Mythcon_4.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Santa_Barbara,_California" title="wikipedia:Santa Barbara, California">Santa Barbara</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[1975](1975.md)** - [Mythcon 6](../M/Mythcon_6.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Scripps_College" title="wikipedia:Scripps College">Scripps College</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Claremont,_California" title="wikipedia:Claremont, California">Claremont</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
-- **[1992](1992.md)** - [Tolkien Hội nghị Thế kỷ](../T/Tolkien_Centenary_Conference.md), sự kết hợp giữa [Oxonmoot](../O/Oxonmoot.md) 1992 và [Mythcon](../M/Mythcon.md) 23, tại <a class="extiw" href="http://en.wikipedia.org/wiki/Keble_College,_Oxford" title="wikipedia:Keble College, Oxford">Keble College, Oxford</a>.
+- **[1992](1992.md)** - [Hội nghị trăm năm Tolkien](../T/Tolkien_Centenary_Conference.md), sự kết hợp giữa [Oxonmoot](../O/Oxonmoot.md) 1992 và [Mythcon](../M/Mythcon.md) 23, tại <a class="extiw" href="http://en.wikipedia.org/wiki/Keble_College,_Oxford" title="wikipedia:Keble College, Oxford">Keble College, Oxford</a>.
 - **[2008](2008.md)** - [Mythcon 39](../M/Mythcon_39.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Central_Connecticut_State_University" title="wikipedia:Central Connecticut State University">Đại học bang Central Connecticut</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/New_Britain,_Connecticut" title="wikipedia:New Britain, Connecticut">New Britain</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Connecticut" title="wikipedia:Connecticut">Connecticut</a>.
-- **[2012](2012.md)** - [Sự trở lại của hội nghị Nhẫn](../T/The_Return_of_the_Ring.md), [Tolkien Xã hội](../T/The_Tolkien_Society.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Loughborough_University" title="wikipedia:Loughborough University">Đại học Loughborough</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
+- **[2012](2012.md)** - [Sự trở lại của chiếc nhẫn](../T/The_Return_of_the_Ring.md), [Hội nghị Tolkien](../T/The_Tolkien_Society.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Loughborough_University" title="wikipedia:Loughborough University">Đại học Loughborough</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Mới Mặt Trăng<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - Trăng non<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

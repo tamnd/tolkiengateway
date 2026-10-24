@@ -17,9 +17,9 @@ langlinks:
     url: "https://kontu.wiki/Alaportti_(Cirith_Ungol)"
 ---
 
-**Cửa dưới** (còn gọi là cổng dưới) là một cánh cổng có cửa bằng đồng thau chặn lối vào từ lối đi ngầm được gọi là [Đường ngầm](Under-way.md) đến tầng trệt của [Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Choices_2-0" class="reference"><a href="#cite_note-Choices-2">[2]</a></sup>
+**Cổng ngầm** (còn gọi là cổng dưới) là một cánh cổng có cửa bằng đồng thau chặn lối vào từ lối đi ngầm được gọi là [Đường ngầm](Under-way.md) đến tầng trệt của [Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Choices_2-0" class="reference"><a href="#cite_note-Choices-2">[2]</a></sup>
 
-Khi [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Sam.md) lần đầu gặp Đường hầm, họ ở trong bóng tối và chỉ nhận ra rằng đường đi đã bị chặn. Sau khi Frodo bị [Shelob](../S/Shelob.md) đốt,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> lũ Orc đã tìm thấy Frodo và mang Frodo bất tỉnh qua Đường hầm và qua Cổng ngầm đến Tháp Cirith Ungol. Sam đi theo lũ Orc trên Đường hầm, nhưng không thể vượt qua Undergate bị khóa và buộc phải quay trở lại đường hầm chính ở [Hang ổ của Shelob](../S/Shelob's_Lair.md).<sup id="cite_ref-Choices_2-1" class="reference"><a href="#cite_note-Choices-2">[2]</a></sup>
+Khi [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Sam.md) lần đầu gặp Underway, họ ở trong bóng tối và chỉ nhận ra rằng con đường đã bị chặn. Sau khi Frodo bị [Shelob](../S/Shelob.md) đốt,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> lũ Orc đã tìm thấy Frodo và mang Frodo bất tỉnh qua Đường hầm và qua Cổng ngầm đến Tháp Cirith Ungol. Sam đi theo lũ Orc trên Underway, nhưng không thể vượt qua Undergate bị khóa và buộc phải quay trở lại đường hầm chính trong [Shelob's Lair](../S/Shelob's_Lair.md).<sup id="cite_ref-Choices_2-1" class="reference"><a href="#cite_note-Choices-2">[2]</a></sup>
 
 <span></span>
 

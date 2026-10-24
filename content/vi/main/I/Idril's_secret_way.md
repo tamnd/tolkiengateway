@@ -19,7 +19,7 @@ images:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-**Idril con đường bí mật** là một đường hầm bên dưới [Gondolin](../G/Gondolin.md) mà [Idril](Idril.md), [Tuor](../T/Tuor.md)và các đồng minh của họ đã bí mật xây dựng, và chính nhờ đó mà những người sống sót của [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md) đã trốn thoát.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+**Con đường bí mật của Idril** là một đường hầm bên dưới [Gondolin](../G/Gondolin.md) mà [Idril](Idril.md), [Tuor](../T/Tuor.md) và các đồng minh của họ được xây dựng một cách bí mật, và nhờ đó mà những người sống sót sau [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md) đã trốn thoát.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

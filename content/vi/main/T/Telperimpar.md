@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Celebrimbor"
 ---
 
-Chuyển hướng đến [Celebrimbor](../C/Celebrimbor.md).
+Chuyển hướng tới [Celebrimbor](../C/Celebrimbor.md).

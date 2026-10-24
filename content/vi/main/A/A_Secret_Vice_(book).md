@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Secret Vice: Tolkien on Invented Languages"
 ---
 
-Chuyển hướng đến [Phó bí mật: Tolkien về Ngôn ngữ được phát minh](A_Secret_Vice%253A_Tolkien_on_Invented_Languages.md).
+Chuyển hướng đến [A Secret Vice: Tolkien on Invented Languages](A_Secret_Vice%253A_Tolkien_on_Invented_Languages.md).

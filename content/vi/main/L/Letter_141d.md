@@ -25,11 +25,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 141d</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a href="../R/Rayner_Unwin.md" title="Rayner Unwin">Rayner Unwin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/1_December.md" title="1 December">1 December</a> <a href="../_/1953.md" title="1953">1953</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data">Preparations for the publication of <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i></td></tr></tbody></table>
 
-**Thư 141d** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
+**Thư 141d** là lá thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
 
 ## Tóm tắt {#Summary}
 
-Tolkien bày tỏ sự hài lòng với khả năng đọc và chuyển động được cải thiện của tập thứ hai của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Ông lưu ý rằng cuốn sách đầu tiên có rất ít sai sót. Ngoài ra, anh ta còn cung cấp địa chỉ của [Gervase Mathew](../G/Gervase_Mathew.md) tại Blackfriars, Oxford, mặc dù anh ta đề cập rằng hiện tại anh ta có thể sẽ đi du lịch nước ngoài.
+Tolkien bày tỏ sự hài lòng với khả năng đọc và chuyển động được cải thiện của tập thứ hai của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Ông lưu ý rằng cuốn sách đầu tiên có rất ít sai sót. Ngoài ra, ông ta còn cung cấp địa chỉ của [Gervase Mathew](../G/Gervase_Mathew.md) tại Blackfriars, Oxford, mặc dù ông ta đề cập rằng hiện tại ông ta có thể sẽ đi du lịch nước ngoài.
 
 <br>
 

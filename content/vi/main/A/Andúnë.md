@@ -15,7 +15,7 @@ sort_keys:
   "Quenya nouns": "Andune"
 ---
 
-<i><b>andúnë</b></i> là từ đầy chất thơ để chỉ "hoàng hôn", "tây",<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup> hoặc "buổi tối" trong [Quenya](../Q/Quenya.md). Từ phổ biến hơn cho "tây" là <i><b><a href="../N/Númen.md" title="Númen">númen</a></b></i>. Dạng viết hoa *Andúnië* được áp dụng cho [Tối đa Phương Tây](Aman.md) trong *[Namárië](../N/Namárië.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>andúnë</b></i> là từ đầy chất thơ dành cho "hoàng hôn", "tây",<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup> hoặc "buổi tối" ở [Quenya](../Q/Quenya.md). Từ phổ biến hơn cho "tây" là <i><b><a href="../N/Númen.md" title="Númen">númen</a></b></i>. Dạng viết hoa *Andúnië* được áp dụng cho [Cực Tây](Aman.md) trong *[Namárië](../N/Namárië.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -23,12 +23,12 @@ sort_keys:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Sindarin](../S/Sindarin.md), *[annûn](Annûn.md)*
-- [Adûnaic](Adûnaic.md), *[adûn](Adûn.md)*
+- [tiếng Sindarin](../S/Sindarin.md), *[annûn](Annûn.md)*
+- [Quảng cáo](Adûnaic.md), *[adûn](Adûn.md)*
 
 ## Xem thêm {#See_also}
 
-- [Andúril](Andúril.md) = "Ngọn lửa của Phương Tây"
+- [Andúril](Andúril.md) = "Ngọn lửa phương Tây"
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Falmari"
 ---
 
-Chuyển hướng đến [Falmari](Falmari.md).
+Chuyển hướng tới [Falmari](Falmari.md).

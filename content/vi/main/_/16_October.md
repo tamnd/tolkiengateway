@@ -63,7 +63,7 @@ Sự kiện xảy ra vào ngày 16 tháng 10
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1917](1917.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) rời Bệnh viện Sĩ quan Brooklands ở Hull để đến trại Cầu Thirtle.
+- **[1917](1917.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) rời Bệnh viện sĩ quan Brooklands ở Hull để đến trại Cầu Thirtle.
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 85](../L/Letter_85.md).
 - **[1946](1946.md)** - [Percy Bates](../P/Percy_Bates.md) chết.
 - **[1959](1959.md)** - J.R.R. Tolkien viết [Thư 219](../L/Letter_219.md).
@@ -77,9 +77,9 @@ Sự kiện xảy ra vào ngày 16 tháng 10
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md)tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm về phía [Rivendell](../R/Rivendell.md).
-    - [Glorfindel](../G/Glorfindel.md) tìm thấy dấu vết của họ và theo dõi họ trên [Cây Cầu Cuối Cùng](../L/Last_Bridge.md).
-    - [Gandalf](../G/Gandalf.md) lao về phía [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công anh ta vào [Weathertop](../W/Weathertop.md).
+    - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm rãi về phía [Rivendell](../R/Rivendell.md).
+    - [Glorfindel](../G/Glorfindel.md) tìm thấy dấu vết của họ và theo họ qua [Cây cầu cuối cùng](../L/Last_Bridge.md).
+    - [Gandalf](../G/Gandalf.md) vội vã tiến về [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ áo đen](../N/Nazgûl.md) tấn công ông ta trên [Weathertop](../W/Weathertop.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

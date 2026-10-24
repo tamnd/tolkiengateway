@@ -35,7 +35,7 @@ That whisper in the dusk o&#39;er Aryador:
 
 ## Xem thêm {#See_also}
 
-- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 <span></span>
 

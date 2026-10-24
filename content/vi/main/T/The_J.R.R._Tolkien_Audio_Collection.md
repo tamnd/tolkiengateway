@@ -29,7 +29,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_J.R.R._Tolkien_Audio_Collection_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d1/The_J.R.R._Tolkien_Audio_Collection_cover.jpg/320px-The_J.R.R._Tolkien_Audio_Collection_cover.jpg" decoding="async" loading="lazy" width="320" height="360" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/d1/The_J.R.R._Tolkien_Audio_Collection_cover.jpg 1.5x" data-file-width="445" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The J.R.R. Tolkien Audio Collection</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Narrator</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Caedmon</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a class="mw-redirect" href="../O/October_2.md" title="October 2">October 2nd</a>, <a href="../_/2001.md" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">CD&#39;s</td></tr><tr><th scope="row" class="tg-infobox-label">Running time</th><td class="tg-infobox-data">4 hours and 10 minutes</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/9780694525706" title="Special:BookSources/9780694525706">9780694525706</a></td></tr></tbody></table>
 
-**Bộ sưu tập âm thanh J.R.R. Tolkien** là tập hợp các bản ghi âm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), cũng như [Christopher Tolkien](../C/Christopher_Tolkien.md) được phát hành dưới dạng [2001](../_/2001.md) trên CD.
+** J.R.R. Tolkien Bộ sưu tập âm thanh** là tập hợp các bản ghi âm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), cũng như [Christopher Tolkien](../C/Christopher_Tolkien.md) được phát hành dưới dạng [2001](../_/2001.md) trên CD.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -128,4 +128,4 @@ Of historic note, these selections from <a href="The_Hobbit.md" title="The Hobbi
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.amazon.com/J-R-R-Tolkien-Audio-Collection/dp/0694525707" rel="noreferrer noopener" target="_blank">Amazon Trang sản phẩm</a>
+- <a class="external text" href="https://www.amazon.com/J-R-R-Tolkien-Audio-Collection/dp/0694525707" rel="noreferrer noopener" target="_blank">Trang sản phẩm của Amazon</a>

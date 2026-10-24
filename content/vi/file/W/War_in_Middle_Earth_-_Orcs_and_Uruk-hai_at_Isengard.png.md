@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Orc](../../main/O/Orcs.md) và [Uruk-Hai](../../main/U/Uruk-Hai~9489.md) tại [Isengard](../../main/I/Isengard.md) ở [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
+[Orc](../../main/O/Orcs.md) và [Uruk-Hai](../../main/U/Uruk-Hai~9489.md) tại [Isengard](../../main/I/Isengard.md) trong Cuộc chiến của [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
 
 ## Giấy phép {#Licensing}
 

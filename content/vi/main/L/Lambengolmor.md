@@ -34,25 +34,25 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Ryszard_Derdziński_-_Feanor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ef/Ryszard_Derdzi%C5%84ski_-_Feanor.jpg/300px-Ryszard_Derdzi%C5%84ski_-_Feanor.jpg" decoding="async" loading="lazy" width="300" height="467" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ef/Ryszard_Derdzi%C5%84ski_-_Feanor.jpg/450px-Ryszard_Derdzi%C5%84ski_-_Feanor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ef/Ryszard_Derdzi%C5%84ski_-_Feanor.jpg/600px-Ryszard_Derdzi%C5%84ski_-_Feanor.jpg 2x" data-file-width="658" data-file-height="1024"/></a><figcaption><i>Fëanor</i> by <a href="../R/Ryszard_Derdziński.md" title="Ryszard Derdziński">Ryszard Derdziński</a></figcaption></figure>
 
-**Lambengolmor** là **Loremasters** của [Tiên tộc](../E/Elves.md). Họ là những nhà ngôn ngữ học và sử học tài năng và đã tạo ra nhiều tác phẩm về Tiên tộc và [ngôn ngữ](../E/Elvish.md) của họ.
+**Lambengolmor** là **Loremasters** của [Yêu tinh](../E/Elves.md). Họ là những nhà ngôn ngữ học và sử học tài giỏi, đồng thời đã tạo ra nhiều tác phẩm về Yêu tinh và [ngôn ngữ](../E/Elvish.md) của họ.
 
 Các thành viên được biết đến là [Rúmil](<../R/Rúmil_(elf_of_Tirion).md>), người đã phát minh ra bảng chữ cái đầu tiên; [Fëanor](../F/Fëanor.md), người đã phát minh ra [Tengwar](../T/Tengwar.md); và [Pengolodh](../P/Pengolodh.md), người được ghi nhận với nhiều công trình làm nền tảng cho *[The Silmarillion](../T/The_Silmarillion.md)*.<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup>
 
-Một khái niệm tương tự là **Quettúri** ("Các bậc thầy về từ"), những người Noldor thực hiện [lámatyávë](Lámatyávë.md) tạo ra các hệ thống từ mới.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong Valinor, Fëanor là trưởng nhóm nghiên cứu truyền thuyết về ngôn ngữ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Một khái niệm tương tự là **Quettúri** ("Các bậc thầy về từ"), những Noldor đã thực hiện [lámatyávë](Lámatyávë.md) tạo ra các hệ thống từ mới.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ở Valinor, Fëanor là người đứng đầu nhóm nghiên cứu về ngôn ngữ học.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Những người truyền thuyết không phải là một hội riêng biệt hay những người ghi chép hiền lành; họ bao gồm những vị vua, hoàng tử và chiến binh vĩ đại nhất như Fëanor, thuyền trưởng của [Gondolin](../G/Gondolin.md), [Finrod](../F/Finrod.md) và [Orodreth](../O/Orodreth.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Lambengolmor* là một từ [Quenya](../Q/Quenya.md), được đánh bóng là "Loremasters of Tongues" trong một bản thảo.<sup id="cite_ref-WJ_1-1" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup> Trong một bản thảo khác, người ta nhìn thấy cách viết thay thế *Lambeñgolmor* và cũng được đánh bóng là "các nhà truyền thuyết ngôn ngữ".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> [Helge Fauskanger](../H/Helge_Fauskanger.md) đã lưu ý rằng chỉ có dạng số nhiều được chứng thực, có thể có dạng số ít *Lambengolmo*. Từ này bao gồm *[lambe](Lambe.md)* ("lưỡi, ngôn ngữ") + *ingolmo* ("loremaster").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+*Lambengolmor* là một từ [Quenya](../Q/Quenya.md), được đánh bóng là "Loremasters of Tongues" trong một bản thảo.<sup id="cite_ref-WJ_1-1" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup> Trong một bản thảo khác, người ta thấy cách viết thay thế *Lambeñgolmor* và cũng được đánh bóng là "các nhà truyền thuyết ngôn ngữ".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> [Helge Fauskanger](../H/Helge_Fauskanger.md) đã lưu ý rằng chỉ có dạng số nhiều được chứng thực, có thể có ở dạng số ít *Lambengolmo*. Từ này bao gồm *[lambe](Lambe.md)* ("lưỡi, ngôn ngữ") + *ingolmo* ("loremaster").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Lore-masters are a playable class in Turbine&#39;s MMORPG for the races of Men and Elves. Lore-masters in this adaptation play a support role, casting spells to improve the performance of their allies.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">The Lord of the Rings: War in the North</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">Chúa tể của những chiếc nhẫn: Cuộc chiến ở phương Bắc</a></i>:</b>
 
 <dl><dd><a href="../A/Andriel.md" title="Andriel">Andriel</a> is a Lore-master of Imladris.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 

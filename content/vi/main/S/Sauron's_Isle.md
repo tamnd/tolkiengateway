@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tol Sirion"
 ---
 
-Chuyển hướng đến [Tol Sirion](../T/Tol_Sirion.md).
+Chuyển hướng tới [Tol Sirion](../T/Tol_Sirion.md).

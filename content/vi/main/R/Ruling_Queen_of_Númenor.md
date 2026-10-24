@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ruling Queens of Númenor"
 ---
 
-Chuyển hướng đến [Nữ hoàng cai trị của Númenor](Ruling_Queens_of_Númenor.md).
+Chuyển hướng đến [Các nữ hoàng cai trị của Númenor](Ruling_Queens_of_Númenor.md).

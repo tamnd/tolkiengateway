@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen45.png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b2/AmonHen45.png/320px-AmonHen45.png" decoding="async" loading="lazy" width="320" height="456" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b2/AmonHen45.png/480px-AmonHen45.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/b2/AmonHen45.png/640px-AmonHen45.png 2x" data-file-width="701" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 45</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../B/Brin_Dunsire.md" title="Brin Dunsire">Brin Dunsire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Mark Bardsley</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Hanway Print Centre, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">July <a href="../_/1980.md" title="1980">1980</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">24</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_44.md" title="Amon Hen 44">Amon Hen 44</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_46.md" title="Amon Hen 46">Amon Hen 46</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 45</b> là số thứ 45 của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 7 [1980](../_/1980.md).
+<b><i>Amon Hen</i> 45</b> là số thứ 45 của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 7 [1980](../_/1980.md).
 
 ## Nội dung {#Contents}
 
@@ -59,7 +59,7 @@ infobox:
     - Bởi: [Brin Dunsire](../B/Brin_Dunsire.md)
 - A Wose bằng bất kỳ tên nào khác
     - Bởi: [Tom Shippey](../T/Tom_Shippey.md)
-- Làm thế nào [Gandalf](../G/Gandalf.md) thoát khỏi [Dol Guldur](../D/Dol_Guldur.md): Một câu đố
+- Làm thế nào [Gandalf](../G/Gandalf.md) trốn thoát khỏi [Dol Guldur](../D/Dol_Guldur.md): Một câu đố
     - Bởi: Steve Pillinger
 - Đánh giá: *[The Middle-earth Quiz Book](../T/The_Middle-earth_Quiz_Book.md)*
     - Bởi: Andrew Sutherland

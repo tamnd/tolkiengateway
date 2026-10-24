@@ -51,22 +51,22 @@ infobox:
 - Giới thiệu
 - **Phần I: Thiên nhiên**
     - "Ít tiếng ồn hơn và xanh hơn": Hệ tư tưởng của Tolkien đối với nước Anh
-    - Tính hiện đại trong Trung Địa
-    - [Trung Địa](../M/Middle-earth.md)
+    - Tính hiện đại ở Trung Địa
+    - [Trung địa](../M/Middle-earth.md)
     - Đánh giá về *[Ents, Elves, and Eriador](../E/Ents,_Elves,_and_Eriador.md)*
 - **Phần II: Bùa mê**
     - [Phép thuật](../M/Magic.md) so với Bùa mê
-    - Bùa mê trong [Tolkien](../J/J.R.R._Tolkien.md) và Trung Địa
-    - [Vương miện Sắt](../I/Iron_Crown.md), Lồng sắt: Tolkien và <a class="extiw" href="http://en.wikipedia.org/wiki/Max_Weber" title="wikipedia:Max Weber">Weber</a> về Tính hiện đại và Sự mê hoặc
+    - Sự mê hoặc ở [Tolkien](../J/J.R.R._Tolkien.md) và Trung Địa
+    - [Vương miện sắt](../I/Iron_Crown.md), Lồng sắt: Tolkien và <a class="extiw" href="http://en.wikipedia.org/wiki/Max_Weber" title="wikipedia:Max Weber">Weber</a> về Tính hiện đại và Sự mê hoặc
     - Con đường thứ ba: [Faërie](../F/Faërie.md) trong tính siêu hiện đại
 - **Phần III: Phê bình**
-    - Tolkien và những lời phê bình của anh ấy: một bài phê bình
-    - Khi đọc Tolkien
+    - Tolkien và những nhà phê bình của ông: một bài phê bình
+    - Đọc Tolkien
     - Phản ứng phê bình đối với tiểu thuyết của Tolkien
     - Đánh giá về *[Reading The Lord of the Rings](../R/Reading_The_Lord_of_the_Rings.md)*
 - **Phần IV: Varia**
-    - Tiếp cận huyền thoại trong Trung Địa
-    - Bật [Hobbit](../H/Hobbits.md) & [Tiên tộc](../E/Elves.md): hoặc, Đã lấy và Baggins Một lần nữa
+    - Tiếp cận thần thoại ở Trung Địa
+    - Về [Người Hobbit](../H/Hobbits.md) & [Yêu tinh](../E/Elves.md): hoặc, Lại Took và Baggins
 
 ## Từ nhà xuất bản {#From_the_publisher}
 

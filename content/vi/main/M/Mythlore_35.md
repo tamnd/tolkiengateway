@@ -39,28 +39,28 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_35.png.md"><img src="https://tolkiengateway.net/w/images/9/99/Mythlore_35.png" decoding="async" loading="lazy" width="310" height="400" class="mw-file-element" data-file-width="310" data-file-height="400"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 35</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Spring <a href="../_/1983.md" title="1983">1983</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">55</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_34.md" title="Mythlore 34">Mythlore 34</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_36.md" title="Mythlore 36">Mythlore 36</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 35</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol10/iss1/" rel="noreferrer noopener" target="_blank">Tập 10, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 35</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol10/iss1/" rel="noreferrer noopener" target="_blank">Tập 10, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Patterson, Nancy-Lou. “Vẻ đẹp mắt sáng: Celtic Các yếu tố trong Charles Williams, J.R.R. Tolkien và C.S. Lewis.”
-- Rừng, Richard. “Hình tượng Taliesin trong Charles Williams' Arthuriad.”
+- Patterson, Nancy-Lou. “Vẻ đẹp có đôi mắt sáng: Yếu tố Celtic trong Charles Williams, J.R.R. Tolkien và C.S. Lewis.”
+- Woods, Richard. “The Figure of Taliesin in Charles Williams' Arthuriad.”
 - Schmiel, Mary Aileen.  “Trong lò rèn Los: Tolkien và nghệ thuật tưởng tượng sáng tạo.”
-- Kodratiev, Alexi. “Những huyền thoại mới về cái cũ: Di sản của Iolo Morgannwg và Hersard de le Villemarque.”
-- Swycaffer, Jefferson P.  “Động cơ lịch sử cho cuộc vây hãm Minas Tirith.”
+- Kondratiev, Alexi. “New Myths for Old: The Legacy of Iolo Morgannwg and Hersard de le Villemarque.”
+- Swycaffer, Jefferson P.  “Historical Motivations for the Siege of Minas Tirith.”
 
 #### Thơ {#Poetry}
 
 - Pearson, Jean.  “Hồ Mortlake.”
-- Kenney, Alice P.  “Câu trả lời của Cô gái Bóng tối.”
+- Kenney, Alice P.  “The Dark Girl's Answer.”
 
 #### Tính năng {#Features}
 
-- GoodKnight, Glen H.  Lời mở đầu của biên tập viên.
-- Christopher, Joe R.  Thư mục Inklings' (24)
-- Hyde, Paul Nolan.  “Quenti Lambardillion: Chuyên mục về Trung Địa Ngôn ngữ học.”
+- GoodKnight, Glen H.  Editor's Opening.
+- Christopher, Joe R.  An Inklings' Bibliography (24)
+- Hyde, Paul Nolan.  “Quenti Lambardillion: Một chuyên mục về ngôn ngữ học Trung Địa.”
 - Speth, Lee.  “Điều trị ung dung: Một cột.”
 - Ellwood, Gracia Fay.  “Vấn đề nhập mộ: Một cột.”
 - Thư.

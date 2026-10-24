@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Théoden](../../main/T/Théoden.md) và [Gandalf](../../main/G/Gandalf.md) trong [The Lord of the Rings, Tập. II: The Two Towers](../../main/T/The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md).
+[Théoden](../../main/T/Théoden.md) và [Gandalf](../../main/G/Gandalf.md) trong [The Lord of the Rings, Vol. II: The Two Towers](../../main/T/The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md).
 
 ## Giấy phép {#Licensing}
 

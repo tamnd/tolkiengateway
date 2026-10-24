@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Chi tiết "[Bên trong số 3 Bagshot Row cho trà](Miriam_Ellis_-_Inside_Number_3_Bagshot_Row_for_Tea.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), miêu tả [Samwise Gamgee](../../main/S/Samwise_Gamgee.md) khi còn nhỏ
+Chi tiết bức tranh "[Bên trong số 3 Hàng túi đựng trà](Miriam_Ellis_-_Inside_Number_3_Bagshot_Row_for_Tea.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), miêu tả [Samwise Gamgee](../../main/S/Samwise_Gamgee.md) khi còn nhỏ
 
 ## Giấy phép {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vinyar Tengwar 50"
 ---
 
-Chuyển hướng đến [Vinyar Tengwar 50](../V/Vinyar_Tengwar_50.md).
+Chuyển hướng tới [Vinyar Tengwar 50](../V/Vinyar_Tengwar_50.md).

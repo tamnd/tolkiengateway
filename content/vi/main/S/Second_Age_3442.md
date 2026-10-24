@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Third Age 1"
 ---
 
-Chuyển hướng đến [Kỷ Đệ Tam 1](../T/Third_Age_1.md).
+Chuyển hướng đến [Tuổi thứ ba 1](../T/Third_Age_1.md).

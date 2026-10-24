@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lords of Middle-earth: Vol. II"
 ---
 
-Chuyển hướng đến [Lãnh chúa của Trung Địa: Tập. II](../L/Lords_of_Middle-earth%253A_Vol._II.md).
+Chuyển hướng đến [Lords of Middle-earth: Vol. II](../L/Lords_of_Middle-earth%253A_Vol._II.md).

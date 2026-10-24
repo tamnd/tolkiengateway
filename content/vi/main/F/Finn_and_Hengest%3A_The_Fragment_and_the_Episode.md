@@ -50,9 +50,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Finn_and_Hengest_1982.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/14/Finn_and_Hengest_1982.png/317px-Finn_and_Hengest_1982.png" decoding="async" loading="lazy" width="317" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/1/14/Finn_and_Hengest_1982.png 1.5x" data-file-width="330" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Finn and Hengest:<br/><small>The Fragment and the Episode</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../A/Alan_Bliss.md" title="Alan Bliss">Alan Bliss</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/George_Allen_and_Unwin.md" title="George Allen and Unwin">George Allen and Unwin</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/20_January.md" title="20 January">20 January</a> <a href="../_/1983.md" title="1983">1983</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">180</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0048290033" title="Special:BookSources/0048290033">0048290033</a></td></tr></tbody></table>
 
-<i><b>Finn and Hengest: The Fragment and the Episode</b></i> là ấn bản của tài liệu bài giảng của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về hai [tiếng Anh cổ](../O/Old_English.md) văn bản kể lại "<a class="extiw" href="http://en.wikipedia.org/wiki/Battle_of_Finnsburg" title="wikipedia:Battle of Finnsburg">Trận Finnsburg</a>". Cuốn sách được biên tập bởi [Alan Bliss](../A/Alan_Bliss.md) và xuất bản vào [1983](../_/1983.md) (dù là năm 1982).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Finn and Hengest: The Fragment and the Episode</b></i> là ấn bản của tài liệu bài giảng của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về hai văn bản [tiếng Anh cổ](../O/Old_English.md) kể lại "<a class="extiw" href="http://en.wikipedia.org/wiki/Battle_of_Finnsburg" title="wikipedia:Battle of Finnsburg">Trận Finnsburg</a>". Cuốn sách được biên tập bởi [Alan Bliss](../A/Alan_Bliss.md) và xuất bản vào [1983](../_/1983.md) (dù là năm 1982).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Hai văn bản được đề cập là "<a class="extiw" href="http://en.wikipedia.org/wiki/Finnesburg_Fragment" title="wikipedia:Finnesburg Fragment">Đoạn Finnesburg</a>" và một tình tiết nhất định trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Beowulf" title="wikipedia:Beowulf">Beowulf</a></i>, hai nguồn chính của câu chuyện mà Tolkien đã giảng dạy trong Oxford vào những năm 1930. Finn và Hengest là thủ lĩnh của hai bên liên quan đến cuộc xung đột.
+Hai văn bản được đề cập là "<a class="extiw" href="http://en.wikipedia.org/wiki/Finnesburg_Fragment" title="wikipedia:Finnesburg Fragment">Đoạn Finnesburg</a>" và một tình tiết nhất định trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Beowulf" title="wikipedia:Beowulf">Beowulf</a></i>, hai nguồn chính của câu chuyện mà Tolkien đã giảng dạy ở Oxford vào những năm 1930. Finn và Hengest là thủ lĩnh của hai bên liên quan đến cuộc xung đột.
 
 ## Nội dung {#Contents}
 
@@ -74,25 +74,25 @@ Hai văn bản được đề cập là "<a class="extiw" href="http://en.wikipe
 
 - Tái thiết
 
-- Appendix A: Người Đan Mạch
-- Phụ lục B: Cuộc hẹn hò của Healfdene và Hengest
+- Phụ lục A: Người Đan Mạch
+- Phụ lục B: Niên đại của Healfdene và Hengest
 - Phụ lục C: Quốc tịch của Hengest
 
 <dl><dt>Summary</dt></dl>
 
-“Mảnh vỡ” kể phần đầu câu chuyện. Hnæf, một vị vua trẻ, nhận thấy quân của mình đang bị tấn công. Sáu mươi người đàn ông trong comitatus của anh ta bị mắc kẹt bên trong một hội trường. Một cuộc chiến xảy ra giữa sáu mươi người đàn ông và những kẻ tấn công, được mô tả là *eotenas*. Trận chiến kéo dài năm ngày và chỉ sau đó, người Đan Mạch đầu tiên mới chết.
+“Mảnh vỡ” kể phần đầu câu chuyện. Hnæf, một vị vua trẻ, nhận thấy quân của mình đang bị tấn công. Sáu mươi người đàn ông trong comitatus của ông ta bị mắc kẹt bên trong một hội trường. Một cuộc chiến xảy ra giữa sáu mươi người đàn ông và những kẻ tấn công, được mô tả là *eotenas*. Trận chiến kéo dài năm ngày và chỉ sau đó, người Đan Mạch đầu tiên mới chết.
 
-"Đoạn" là một đoạn văn trong *Beowulf* (dòng 1063-1159). Ở Heorot, một thi sĩ nói với Hrothgar và những vị khách của ông về những người Đan Mạch huy hoàng. Viễn cảnh nằm ở Hildeburh, em gái của Hnæf và là vợ của Finn. Cả Hnæf và con trai của Hildeburh cùng với Finn đều đã ngã xuống, cùng với hầu hết các hiệp sĩ của Finn. Hiện vẫn chưa rõ liệu Finn có tham gia vào cuộc chiến hay không. Tuyệt vọng, Finn cầu xin một món hời. Như Tolkien đã nêu, đây khó có thể là một món hời:
+"Đoạn" là một đoạn văn trong *Beowulf* (dòng 1063-1159). Ở Heorot, một thi sĩ nói với Hrothgar và những vị khách của ông về những người Đan Mạch huy hoàng. Viễn cảnh nằm ở Hildeburh, em gái của Hnæf và là vợ của Finn. Cả Hnæf và con trai của Hildeburh cùng với Finn đều đã ngã xuống, cùng với hầu hết các hiệp sĩ của Finn. Hiện vẫn chưa rõ liệu Finn có tham gia vào cuộc chiến hay không. Tuyệt vọng, Finn cầu xin một món hời. Như Tolkien đã nói, đó khó có thể là một món hời:
 
 - Finn đã mất quá nhiều người đến nỗi anh không thể tiến vào hội trường lần nữa.
 - Người Đan Mạch đang chiếm giữ cung điện hoàng gia của ông và ông không muốn đốt nó để đưa họ ra ngoài.
 - Finn chắc hẳn vừa cảm thấy tội lỗi vừa xấu hổ vì mối thù truyền kiếp của mình đã giết chết Hnæf, anh rể và cũng là khách của anh.
 
-Cuối cùng, Hengest bị buộc phải phá bỏ lời thề với Finn và giết anh ta. Họ mang Hildeburh và nhiều kho báu của ông về Đan Mạch. Tolkien coi việc phá bỏ lời thề này là nguyên nhân chính khiến Hengest “đuổi” sang Anh.
+Cuối cùng, Hengest bị buộc phải phá bỏ lời thề với Finn và giết ông ta. Họ mang Hildeburh và nhiều kho báu của ông về Đan Mạch. Tolkien coi việc phá bỏ lời thề này là nguyên nhân chính khiến Hengest "đuổi" sang Anh.
 
 <dl><dt>Relation to the legendarium</dt></dl>
 
-Có một số tên trong những câu chuyện này Tolkien sau này được sử dụng cho [Rohirrim](../R/Rohirrim.md):
+Có một số tên trong những câu chuyện này mà sau này Tolkien đã sử dụng cho [Rohirrim](../R/Rohirrim.md):
 
 - [Garulf](../G/Garulf.md), kẻ chủ mưu vụ tấn công Hnæf.
 - [Guthlaf](../G/Guthlaf.md), một trong những thuộc hạ của Hnæf.
@@ -150,10 +150,10 @@ Có một số tên trong những câu chuyện này Tolkien sau này được s
 </ul>
 
 - [George Allen và Unwin](../G/George_Allen_and_Unwin.md), bìa cứng ([1983](../_/1983.md)), trang 180. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048290033">ISBN 0048290033</a>
-- [HarperCollins](../H/HarperCollins.md) bìa mềm ([1998](../_/1998.md)), trang 192. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103555">ISBN 0261103555</a>
+- [HarperCollins](../H/HarperCollins.md) bìa mềm ([1998](../_/1998.md)), trang 192. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103555">ISBN 0261103555</a>
     - Ấn bản bìa mềm năm 1998, thiết lập lại vào [2006](../_/2006.md)
     - Ấn bản bìa mềm năm 2006, lần in thứ 31<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> ([2025](../_/2025.md))
-- [HarperCollins](../H/HarperCollins.md) bìa cứng có áo chống bụi có thể đảo ngược ([2026](../_/2026.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008795184">ISBN 978-0008795184</a> (hộp) - ([Thần thoại & Huyền thoại](../C/Christopher_Tolkien_Centenary_Boxed_Sets.md) #2)
+- [HarperCollins](../H/HarperCollins.md) bìa cứng với áo khoác chống bụi có thể đảo ngược ([2026](../_/2026.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008795184">ISBN 978-0008795184</a> (hộp) - ([Thần thoại & Huyền thoại](../C/Christopher_Tolkien_Centenary_Boxed_Sets.md) #2)
 
 <span></span>
 

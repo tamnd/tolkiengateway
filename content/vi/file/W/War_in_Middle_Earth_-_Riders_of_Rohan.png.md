@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Những tay đua của Rohan](../../main/R/Rohirrim.md) trong [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
+[Những kỵ sĩ của Rohan](../../main/R/Rohirrim.md) trong Cuộc chiến của [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
 
 ## Giấy phép {#Licensing}
 

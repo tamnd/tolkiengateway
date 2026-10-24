@@ -22,11 +22,11 @@ langlinks:
     url: "https://kontu.wiki/Murajalka"
 ---
 
-**Puddifoots** là một họ [Hobbit](../H/Hobbits.md). Chúng được tìm thấy ở [Stock](../S/Stock.md) của [Marish](../M/Marish.md). Không giống như hầu hết Hobbit, những người sống trong [hố hobbit](../H/Hobbit-hole.md) và giống như hầu hết người dân Marish, Puddifoots là những người sống trong nhà.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Puddifoots** là một gia đình [Hobbit](../H/Hobbits.md). Chúng được tìm thấy trong [Kho](../S/Stock.md) của [Marish](../M/Marish.md). Không giống như hầu hết người Hobbit sống trong [hố hobbit](../H/Hobbit-hole.md) và giống như hầu hết người dân Marish, người Puddifoot là những người sống trong nhà.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Cái tên này xuất phát từ “chân vũng nước” và gắn liền với nền đất mềm của [Marish](../M/Marish.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Cái tên này xuất phát từ "chân vũng nước" và được kết nối với nền đất mềm của [Marish](../M/Marish.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

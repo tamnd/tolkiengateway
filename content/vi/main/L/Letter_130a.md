@@ -27,9 +27,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-<a class="extiw" href="http://en.wikipedia.org/wiki/Hugh_Brogan" title="wikipedia:Hugh Brogan">Hugh Brogan</a>, hiện 14 tuổi, đã viết thư cho Tolkien để than phiền về những thay đổi trong giọng nói của mình khi bước vào tuổi dậy thì. Trong câu trả lời của anh ấy Tolkien đã xoa dịu những lo lắng của Brogan về việc anh ấy thay đổi giọng nói, khuyên bạn nên kiên nhẫn và thận trọng trong quá trình chuyển đổi. Tolkien chia sẻ giai thoại cá nhân về chấn thương họng đã ảnh hưởng vĩnh viễn đến giọng nói của anh.
+<a class="extiw" href="http://en.wikipedia.org/wiki/Hugh_Brogan" title="wikipedia:Hugh Brogan">Hugh Brogan</a>, hiện 14 tuổi, đã viết thư cho Tolkien để than phiền về những thay đổi trong giọng nói của anh khi bước vào tuổi dậy thì. Trong câu trả lời của mình, Tolkien xoa dịu những lo lắng của Brogan về việc thay đổi giọng nói của ông, khuyên bạn nên kiên nhẫn và thận trọng trong quá trình chuyển đổi. Tolkien chia sẻ giai thoại cá nhân về chấn thương cổ họng ảnh hưởng vĩnh viễn đến giọng nói của ông.
 
-Anh ấy cũng bày tỏ sự không quan tâm đến kịch, mô tả nó như một điểm mù cá nhân, mặc dù anh ấy thừa nhận niềm vui của việc diễn xuất, mặc dù có một số dè dặt về lợi ích của nó. <br>
+Ông cũng bày tỏ sự không quan tâm đến kịch, mô tả nó như một điểm mù cá nhân, mặc dù ông thừa nhận niềm vui của việc diễn xuất, mặc dù có một số dè dặt về lợi ích của nó. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

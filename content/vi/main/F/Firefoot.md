@@ -37,7 +37,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/N/Nora_Brisotti_-_Firefoot.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5b/Nora_Brisotti_-_Firefoot.jpeg/320px-Nora_Brisotti_-_Firefoot.jpeg" decoding="async" loading="lazy" width="320" height="268" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/5b/Nora_Brisotti_-_Firefoot.jpeg 1.5x" data-file-width="337" data-file-height="282"/></a><figcaption>&#34;Firefoot&#34; by <a href="../../category/I/Images_by_Nora_Brisotti.md" title="Category:Images by Nora Brisotti">Nora Brisotti</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Horses.md" title="Horses">Horse</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Firefoot</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../R/Rohan.md" title="Rohan">Rohan</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../_/Éomer.md" title="Éomer">Éomer</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Firefoot.md" title="Category:Images of Firefoot">Images of Firefoot</a></td></tr></tbody></table>
 
-**Firefoot** là con ngựa được cưỡi bởi [Éomer](../_/Éomer.md) của [Rohirrim](../R/Rohirrim.md) trên hành trình từ [Edoras](../E/Edoras.md) đến [Helm's Deep](../H/Helm's_Deep.md). Trong cuộc hành trình, Éomer đã mời [Gimli](../G/Gimli.md) làm hành khách trên lưng Firefoot cùng anh ta, một lời đề nghị được Gimli vô cùng vui vẻ chấp nhận.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Firefoot** là con ngựa được cưỡi bởi [Éomer](../_/Éomer.md) của [Rohirrim](../R/Rohirrim.md) trên hành trình từ [Edoras](../E/Edoras.md) đến [Helm's Deep](../H/Helm's_Deep.md). Trong cuộc hành trình, Éomer đã mời [Gimli](../G/Gimli.md) làm hành khách trên lưng Firefoot cùng ông ta, một lời đề nghị được Gimli vô cùng vui vẻ chấp nhận.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -53,11 +53,11 @@ infobox:
 		</li>
 </ul>
 
-<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
 
 <dl><dd>The horse which <a href="../_/Éomer.md" title="Éomer">Éomer</a> rides is identified as Firefoot in <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i>.</dd></dl>
 
-<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
+<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</a></i>:</b>
 
 <dl><dd>The horse which Éomer rides is identified as Firefoot in <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i>.</dd></dl>
 

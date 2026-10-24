@@ -12,9 +12,9 @@ categories:
   - "Poems"
 ---
 
-<i><b>Völuspá</b></i> ("Lời tiên tri của nữ tiên tri") là bài thơ đầu tiên của *[Poetic Edda](../P/Poetic_Edda.md)*, một tập thơ [tiếng Bắc Âu cổ](../O/Old_Norse.md). Nó được lưu giữ toàn bộ trong hai bản thảo, Codex Regius và Hauksbók, và một phần trong Prose Edda của Snorri Sturluson. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bị ảnh hưởng rất nhiều bởi câu chuyện này, rõ ràng nhất là hầu hết tên Người Lùn của anh đều được lấy từ đó. [Christopher Tolkien](../C/Christopher_Tolkien.md) gợi ý rằng "*những cái tên Người lùn trong The Hobbit đã cung cấp toàn bộ điểm khởi đầu cho các ngôn ngữ Mannish trong Trung Địa.*"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>Völuspá</b></i> ("Lời tiên tri của nữ tiên tri") là bài thơ đầu tiên của *[Poetic Edda](../P/Poetic_Edda.md)*, một tập thơ [tiếng Bắc Âu cổ](../O/Old_Norse.md). Nó được lưu giữ toàn bộ trong hai bản thảo, Codex Regius và Hauksbók, và một phần trong Prose Edda của Snorri Sturluson. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bị ảnh hưởng rất nhiều bởi câu chuyện, rõ ràng nhất là hầu hết tên của những Người lùn của anh đều được lấy từ đó. [Christopher Tolkien](../C/Christopher_Tolkien.md) gợi ý rằng "*những cái tên Người lùn trong Người Hobbit đã cung cấp toàn bộ điểm khởi đầu cho các ngôn ngữ Mannish ở Trung Địa.*"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Hầu như tất cả tên của [Người Lùn](../D/Dwarves.md) của [Trung Địa](../M/Middle-earth.md), cũng như của [Gandalf](../G/Gandalf.md), được lấy từ một phần của Völuspá được gọi là *Dvergatal* ("Danh mục của Người Lùn").<sup id="cite_ref-Letter25_3-0" class="reference"><a href="#cite_note-Letter25-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup> *Dvergatal* có trong khổ thơ 10–16:
+Hầu như tất cả tên của [Người lùn](../D/Dwarves.md) của [Trung địa](../M/Middle-earth.md), cũng như [của Gandalf](../G/Gandalf.md), đều được lấy từ một phần của Völuspá có tên là *Dvergatal* ("Danh mục Người lùn").<sup id="cite_ref-Letter25_3-0" class="reference"><a href="#cite_note-Letter25-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup> *Dvergatal* có trong khổ thơ 10–16:
 
 <table align="center">
 <tbody><tr>
@@ -113,7 +113,7 @@ The list of all | the forbears of <a href="../L/Lofar.md" title="Lofar">Lofar</a
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"> <i>Dvergatal</i> hiện được coi là nội suy muộn hơn và thường bị bỏ qua trong các phiên bản mới hơn của <i>Völuspá</i>.</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"> <i>Dvergatal</i> hiện được coi là phép nội suy sau này và thường bị bỏ qua trong các phiên bản mới hơn của <i>Völuspá</i>.</span>
 </li>
 <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><i>Eikinskjaldi</i> được dịch trực tiếp sang "Oakenshield"</span>
 </li>
@@ -133,6 +133,6 @@ The list of all | the forbears of <a href="../L/Lofar.md" title="Lofar">Lofar</a
 ## Liên kết ngoài {#External_links}
 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/V%C3%B6lusp%C3%A1" title="wikipedia:Völuspá">Völuspá</a> tại Wikipedia.
-- <a class="external text" href="http://glaemscrafu.jrrvf.com/english/dvergatal.html" rel="noreferrer noopener" target="_blank">Dvergatal</a> in [Glǽmscrafu](../G/Glǽmscrafu.md) (Mẫu văn bản, bản dịch và âm thanh)
-- <a class="external text" href="http://etext.old.no/Bugge/voluspa/" rel="noreferrer noopener" target="_blank">Völuspá</a> (tiếng Bắc Âu cổ toàn văn)
+- <a class="external text" href="http://glaemscrafu.jrrvf.com/english/dvergatal.html" rel="noreferrer noopener" target="_blank">Dvergatel</a> in [Glǽmscrafu](../G/Glǽmscrafu.md) (Mẫu văn bản, bản dịch và âm thanh)
+- <a class="external text" href="http://etext.old.no/Bugge/voluspa/" rel="noreferrer noopener" target="_blank">Völuspá</a> (toàn văn tiếng Bắc Âu cổ)
 - <a class="external text" href="http://www.sacred-texts.com/neu/poe/poe03.htm" rel="noreferrer noopener" target="_blank">Völuspá</a> (Bản dịch tiếng Anh của Henry Adams Bellows)

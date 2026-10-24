@@ -12,4 +12,4 @@ categories:
   - "Images from Games Workshop"
 ---
 
-Hình ảnh từ **[The Lord of the Rings Trò chơi chiến đấu chiến lược](../../main/T/The_Lord_of_the_Rings_Strategy_Battle_Game.md)**.
+Hình ảnh từ **[The Lord of the Rings Strategy Battle Game](../../main/T/The_Lord_of_the_Rings_Strategy_Battle_Game.md)**.

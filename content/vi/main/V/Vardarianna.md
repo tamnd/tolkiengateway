@@ -27,11 +27,11 @@ langlinks:
     url: "https://kontu.wiki/Vardarianna"
 ---
 
-**Vardarianna** là một [cây thơm](../F/Fragrant_Trees.md) thường xanh mà [Eldar](../E/Eldar.md) đã mang đến [Númenor](../N/Númenor.md) từ [Eressëa](../T/Tol_Eressëa.md), vì họ đã mang theo nhiều cây khác, trong số đó có [taniquelassë](../T/Taniquelassë.md), [nessamelda](../N/Nessamelda.md) và [oiolairë](../O/Oiolairë.md). Tất cả những cây này được gọi là [Cây Thơm](../F/Fragrant_Trees.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Vardarianna** là một [cây thơm](../F/Fragrant_Trees.md) thường xanh được [Eldar](../E/Eldar.md) mang đến [Númenor](../N/Númenor.md) từ [Eressëa](../T/Tol_Eressëa.md), vì họ mang theo nhiều loại cây khác, trong số đó có [taniquelassë](../T/Taniquelassë.md), [nessamelda](../N/Nessamelda.md) và [oiolairë](../O/Oiolairë.md). Tất cả những cây này được gọi là [Cây Thơm](../F/Fragrant_Trees.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*vardarianna* rõ ràng là [Quenya](../Q/Quenya.md), nhưng nó không bao giờ được làm bóng. [Helge Fauskanger](../H/Helge_Fauskanger.md) giải thích nó có thể có nghĩa là "Varda-quà tặng", từ *[Varda](Varda.md)* + *[anna](../A/Anna.md)* ("quà tặng"), mặc dù thành phần *ri* không rõ ràng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+*vardarianna* rõ ràng là [Quenya](../Q/Quenya.md), nhưng nó không bao giờ được che đậy. [Helge Fauskanger](../H/Helge_Fauskanger.md) giải thích nó có thể có nghĩa là "Varda-quà tặng", từ *[Varda](Varda.md)* + *[anna](../A/Anna.md)* ("quà tặng"), mặc dù thành phần *ri* không rõ ràng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -68,11 +68,11 @@ Sự kiện xảy ra vào ngày 6 tháng 11
 - **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 194](../L/Letter_194.md).
 - **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 194a](../L/Letter_194a.md).
 - **[1957](1957.md)** - Diễn viên [Cam Clarke](../C/Cam_Clarke.md) ra đời.
-- **[1969](1969.md)** - Ngày không chính thức thành lập [Hội Tolkien](../T/The_Tolkien_Society.md).
+- **[1969](1969.md)** - Ngày thành lập không chính thức của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md).
 - **[1980](1980.md)** - [Inkling](../I/Inklings.md) [Nevill Coghill](../N/Nevill_Coghill.md) qua đời.
 - **[1992](1992.md)** - Diễn viên [Robert Aramayo](../R/Robert_Aramayo.md) ra đời.
 - **[2000](2000.md)** - Tác giả [L. Sprague de Camp](../L/L._Sprague_de_Camp.md) qua đời.
-- **[2001](2001.md)** - "[The Fellowship of the Ring](<../T/The_Fellowship_of_the_Ring_(Decipher).md>)", bộ đầu tiên trong *[The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)*, được phát hành.
+- **[2001](2001.md)** - "[The Fellowship of the Ring](<../T/The_Fellowship_of_the_Ring_(Decipher).md>)", tập đầu tiên trong *[The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)*, được phát hành.
 - **[2002](2002.md)** - *[The Lord of the Rings: The Making of the Movie Trilogy](../T/The_Lord_of_the_Rings%253A_The_Making_of_the_Movie_Trilogy.md)* được xuất bản.
 - **[2004](2004.md)** - [Hyarion](https://tolkiengateway.net/wiki/User:Hyarion) mua miền [TolkienGateway.net](../T/Tolkien_Gateway.md).
 - **[2006](2006.md)** - *[Peter Jackson: A Film-maker's Journey](../P/Peter_Jackson%253A_A_Film-maker's_Journey.md)* được xuất bản.
@@ -82,6 +82,6 @@ Sự kiện xảy ra vào ngày 6 tháng 11
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

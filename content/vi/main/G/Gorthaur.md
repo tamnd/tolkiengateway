@@ -11,4 +11,4 @@ redirect_target: "Sauron"
 redirect_fragment: "Names"
 ---
 
-Chuyển hướng đến [Sauron](../S/Sauron.md#Names).
+Chuyển hướng tới [Sauron](../S/Sauron.md#Names).

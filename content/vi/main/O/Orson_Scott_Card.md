@@ -31,7 +31,7 @@ Năm 1997, ông là Khách mời danh dự tại [Mythcon 28](../M/Mythcon_28.md
 ### Bài viết {#Articles}
 
 - [2001](../_/2001.md): *[Meditations on Middle-earth](../M/Meditations_on_Middle-earth.md)*
-    - "Ý nghĩa Tolkien"
+    - "Tolkien có nghĩa như thế nào"
 
 ## Liên kết ngoài {#External_links}
 

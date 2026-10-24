@@ -68,7 +68,7 @@ Sự kiện xảy ra vào ngày 10 tháng 3
 - **[1950](1950.md)** - [Stephen Oliver](../S/Stephen_Oliver.md) ra đời.
 - **[1963](1963.md)** - Diễn viên lồng tiếng [Steve Staley](../S/Steve_Staley.md) ra đời.
 - **[1981](1981.md)** - [*Amon Hen* 49](../A/Amon_Hen_49.md) được xuất bản.
-- **[2004](2004.md)** - "Cuộc vây hãm Gondor", tập thứ tám trong *[The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)* được phát hành.
+- **[2004](2004.md)** - "Siege of Gondor", bộ thứ tám trong *[The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)* được phát hành.
 - **[2007](2007.md)** - "[Lễ kỷ niệm một chiếc nhẫn](../T/The_One_Ring_Celebration.md) 2007" ở <a class="extiw" href="http://en.wikipedia.org/wiki/Burbank,_California" title="wikipedia:Burbank, California">Burbank, California</a>.
 - **[2008](2008.md)** - *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được bình chọn là "Sách nước ngoài hay nhất mọi thời đại" tại <a class="extiw" href="http://en.wikipedia.org/wiki/Netherlands" title="wikipedia:Netherlands">Hà Lan</a>.
 - **[2026](2026.md)** - Nghệ sĩ [Michael Hague](../M/Michael_Hague.md) qua đời.
@@ -76,12 +76,12 @@ Sự kiện xảy ra vào ngày 10 tháng 3
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
-    - [Borondir](../B/Borondir.md) và người bạn đồng hành của anh khởi hành từ [Minas Tirith](../M/Minas_Tirith.md) để tìm kiếm [Éothéod](Éothéod.md).
+    - [Borondir](../B/Borondir.md) và người bạn đồng hành khởi hành từ [Minas Tirith](../M/Minas_Tirith.md) để tìm kiếm [Éothéod](Éothéod.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - [Tín hiệu tuyệt vời](../G/Great_Signal.md).
     - Ngày [Ngày không bình minh](../D/Dawnless_Day.md).
-    - [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) vượt qua [Ngã Tư](../C/Cross-roads.md) và xem [Morgul-host](../M/Minas_Morgul.md) được đặt ra, hướng tới [Minas Tirith](../M/Minas_Tirith.md).
-    - Cuộc tập hợp của [Rohan](../R/Rohan.md) diễn ra. Chuyến đi [Rohirrim](../R/Rohirrim.md) từ [Harrowdale](../H/Harrowdale.md).
-    - [Faramir](../F/Faramir.md) được [Gandalf](../G/Gandalf.md) giải cứu từ [Nazgûl](../N/Nazgûl.md) bên ngoài cổng [Thành phố](../M/Minas_Tirith.md). Anh gặp [Pippin](../P/Peregrin_Took.md) và báo cáo cho [Denethor](../D/Denethor.md).
-    - [Aragorn](../A/Aragorn.md), dẫn đầu [Người chết Con Người](../D/Dead_Men.md) và [Đại đội Xám](../G/Grey_Company.md), vượt sông [Ringló](../R/Ringló.md).
-    - Một đội quân [Orc](../O/Orcs.md) từ [Morannon](../M/Morannon.md) chiếm lấy [Cair Andros](../C/Cair_Andros.md) và tiến vào [Anórien](../A/Anórien.md).
+    - [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) vượt qua [Ngã tư](../C/Cross-roads.md) và nhìn thấy [Morgul-host](../M/Minas_Morgul.md) đang tiến tới [Minas Tirith](../M/Minas_Tirith.md).
+    - Cuộc tập hợp của [Rohan](../R/Rohan.md) diễn ra. Chuyến [Rohirrim](../R/Rohirrim.md) xuất phát từ [Harrowdale](../H/Harrowdale.md).
+    - [Faramir](../F/Faramir.md) được [Gandalf](../G/Gandalf.md) giải cứu khỏi [Nazgûl](../N/Nazgûl.md) bên ngoài cổng [Thành phố](../M/Minas_Tirith.md). Ông ta gặp [Pippin](../P/Peregrin_Took.md) và báo cáo cho [Denethor](../D/Denethor.md).
+    - [Aragorn](../A/Aragorn.md), dẫn đầu [Dead Men](../D/Dead_Men.md) và [Grey Company](../G/Grey_Company.md), băng qua sông [Ringló](../R/Ringló.md).
+    - Một đội quân [Orc](../O/Orcs.md) từ [Morannon](../M/Morannon.md) chiếm [Cair Andros](../C/Cair_Andros.md) và tiến vào [Anórien](../A/Anórien.md).

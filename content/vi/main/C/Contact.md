@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Contact"
 ---
 
-Chuyển hướng tới [Tolkien Gateway:Liên hệ](../../project/C/Contact.md).
+Chuyển hướng tới [Cổng Tolkien:Liên hệ](../../project/C/Contact.md).

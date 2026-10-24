@@ -12,17 +12,17 @@ categories:
   - "Food"
 ---
 
-**Bánh mật ong của Beornings**<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> là một loại bánh mì do chính [Beorn](../B/Beorn.md) nướng<sup id="cite_ref-:1_2-0" class="reference"><a href="#cite_note-:1-2">[2]</a></sup> và sau đó là [Beornings](../B/Beornings.md).<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> Mặc dù công thức chính xác của chúng là một bí mật nhưng người ta biết rằng chúng được nướng hai lần và làm bằng mật ong. Chúng vẫn ngon để ăn trong thời gian dài và rất bổ dưỡng và khá ngon, mặc dù gây khát.<sup id="cite_ref-:1_2-1" class="reference"><a href="#cite_note-:1-2">[2]</a></sup>
+**Bánh mật ong của Beornings**<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> là một loại bánh mì nướng do chính [Beorn](../B/Beorn.md)<sup id="cite_ref-:1_2-0" class="reference"><a href="#cite_note-:1-2">[2]</a></sup> và sau đó là [Beornings](../B/Beornings.md).<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> Mặc dù công thức chính xác của chúng là một bí mật nhưng người ta biết rằng chúng được nướng hai lần và làm bằng mật ong. Chúng vẫn ngon để ăn trong thời gian dài và rất bổ dưỡng và khá ngon, mặc dù gây khát.<sup id="cite_ref-:1_2-1" class="reference"><a href="#cite_note-:1-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
-Beorn đã cung cấp [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) bánh mật ong cho chuyến hành trình của họ qua [Mirkwood](../M/Mirkwood.md) cùng với các thực phẩm khác.<sup id="cite_ref-:1_2-2" class="reference"><a href="#cite_note-:1-2">[2]</a></sup>
+Beorn đã cung cấp bánh mật ong cho [Thorin và đồng đội](../T/Thorin_and_Company.md) trong chuyến hành trình của họ qua [Mirkwood](../M/Mirkwood.md) cùng với các thực phẩm khác.<sup id="cite_ref-:1_2-2" class="reference"><a href="#cite_note-:1-2">[2]</a></sup>
 
-Vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) Beornings không sẵn lòng chia sẻ bánh của họ với khách du lịch, mặc dù [Gimli](../G/Gimli.md) đã nếm thử bánh mật ong của họ và coi Beornings là những thợ làm bánh giỏi nhất mà anh biết. Tuy nhiên, sau khi nếm thử [Elvish](../E/Elves.md) *[lembas](../L/Lembas.md)* anh ấy quyết định rằng *lembas* thậm chí còn ngon hơn.<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
+Vào thời điểm [Cuộc chiến trên chiếc nhẫn](../W/War_of_the_Ring.md) nhà Beornings không sẵn lòng chia sẻ bánh của họ với khách du lịch, mặc dù [Gimli](../G/Gimli.md) đã nếm thử bánh mật ong của họ và coi Beornings là những thợ làm bánh giỏi nhất mà ông biết. Tuy nhiên, sau khi nếm thử [Elvish](../E/Elves.md) *[lembas](../L/Lembas.md)* ông quyết định rằng *lembas* thậm chí còn ngon hơn.<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://middle-earth.xenite.org/what-were-the-honey-cakes-of-the-beornings/" rel="noreferrer noopener" target="_blank">Bánh mật ong của Beornings là gì?</a> của [Michael Martinez](../M/Michael_Martinez.md)
+- <a class="external text" href="https://middle-earth.xenite.org/what-were-the-honey-cakes-of-the-beornings/" rel="noreferrer noopener" target="_blank">Bánh mật của ngày sinh nhật là gì?</a> của [Michael Martinez](../M/Michael_Martinez.md)
 
 ## Tài liệu tham khảo {#References}
 

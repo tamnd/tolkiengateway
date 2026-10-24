@@ -27,23 +27,23 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/92/The_Hobbit_-_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.jpg/320px-The_Hobbit_-_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/92/The_Hobbit_-_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.jpg/480px-The_Hobbit_-_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/92/The_Hobbit_-_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.jpg/640px-The_Hobbit_-_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.jpg 2x" data-file-width="1425" data-file-height="1425"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack - Special Edition</i></span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Soundtrack by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/9_December.md" title="9 December">9 December</a>, <a href="../_/2013.md" title="2013">2013</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Label</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/WaterTower_Music" title="wikipedia:WaterTower Music">WaterTower Music</a></td></tr></tbody></table>
 
-<i><b>The Hobbit: The Desolation of Smaug - Nhạc phim gốc - Phiên bản đặc biệt</b></i> là một album phiên bản đặc biệt bao gồm nhạc phim của *[The Hobbit: The Desolation of Smaug](The_Hobbit%253A_The_Desolation_of_Smaug.md)*, bởi [Howard Shore](../H/Howard_Shore.md). Nó được phát hành dưới dạng kỹ thuật số và trên CD vào [9 tháng 12](../_/9_December.md) [2013](../_/2013.md).
+<i><b>The Hobbit: The Desolation of Smaug - Nhạc phim gốc - Phiên bản đặc biệt</b></i> là một album phiên bản đặc biệt bao gồm nhạc phim từ *[The Hobbit: The Desolation of Smaug](The_Hobbit%253A_The_Desolation_of_Smaug.md)* của [Howard Shore](../H/Howard_Shore.md). Nó được phát hành dưới dạng kỹ thuật số và trên CD vào [9 tháng 12](../_/9_December.md) [2013](../_/2013.md).
 
 ## Nội dung {#Contents}
 
 ### Đĩa 1 {#Disc_1}
 
 1. [Cuộc tìm kiếm Erebor](<The_Quest_for_Erebor_(soundtrack).md>)
-2. [Wilderland](<../W/Wilderland_(soundtrack).md>)
+2. [Vùng hoang dã](<../W/Wilderland_(soundtrack).md>)
 3. [A Necromancer](../A/A_Necromancer.md) (Bản nhạc thưởng)
-4. [Ngôi nhà của Beorn](The_House_of_Beorn.md) (Phiên bản mở rộng)
+4. [Nhà của Beorn](The_House_of_Beorn.md) (Phiên bản mở rộng)
 5. [Mirkwood](<../M/Mirkwood_(soundtrack).md>) (Phiên bản mở rộng)
 6. [Ruồi và Nhện](<../F/Flies_and_Spiders_(soundtrack).md>) (Phiên bản mở rộng)
-7. [ Vương quốc Rừng](The_Woodland_Realm.md) (Phiên bản mở rộng)
+7. [Vương quốc rừng](The_Woodland_Realm.md) (Phiên bản mở rộng)
 8. [Lễ hội ánh sao](../F/Feast_Of_Starlight.md)
 9. [Thùng hết hạn bảo lãnh](../B/Barrels_Out_Of_Bond~45862.md)
-10. [ Forest River](The_Forest_River.md) (Phiên bản mở rộng)
-11. [Bard, Người đàn ông ở thị trấn bên hồ](../B/Bard,_A_Man_Of_Lake-Town.md) (Phiên bản mở rộng)
+10. [Dòng sông](The_Forest_River.md) (Phiên bản mở rộng)
+11. [Bard, Người đàn ông của thị trấn bên hồ](../B/Bard,_A_Man_Of_Lake-Town.md) (Phiên bản mở rộng)
 12. [The High Fells](The_High_Fells.md) (Phiên bản mở rộng)
 13. [Bản chất của cái ác](The_Nature_Of_Evil.md)
 14. [Người bảo vệ dân gian](../P/Protector_Of_The_Common_Folk.md)
@@ -51,14 +51,14 @@ infobox:
 ## Đĩa 2 {#Disc_2}
 
 1. [Chào mừng ba lần](Thrice_Welcome.md)
-2. [Girion, Chúa Tể Dale](../G/Girion,_Lord_Of_Dale.md) (Phiên bản mở rộng)
+2. [Girion, Lord Of Dale](../G/Girion,_Lord_Of_Dale.md) (Phiên bản mở rộng)
 3. [Dân gian Durin](<../D/Durin's_Folk_(soundtrack).md>) (Phiên bản mở rộng)
-4. [Ở Bóng Tối Trên Núi](../I/In_The_Shadow_Of_The_Mountain.md)
+4. [Trong bóng núi](../I/In_The_Shadow_Of_The_Mountain.md)
 5. [Thần chú che giấu](../A/A_Spell_Of_Concealment.md) (Phiên bản mở rộng)
 6. [Trên ngưỡng cửa](../O/On_The_Doorstep~45874.md)
-7. [Sự dũng cảm của Hobbit](The_Courage_Of_Hobbits.md)
+7. [Lòng dũng cảm của người Hobbit](The_Courage_Of_Hobbits.md)
 8. [Thông tin nội bộ](<../I/Inside_Information_(soundtrack).md>)
-9. [Lá Vua](<../K/Kingsfoil_(soundtrack).md>)
+9. [Lá vua](<../K/Kingsfoil_(soundtrack).md>)
 10. [Kẻ nói dối và tên trộm](../A/A_Liar_And_A_Thief.md)
 11. [Thợ săn](The_Hunters.md) (Phiên bản mở rộng)
 12. [Smaug](<../S/Smaug_(soundtrack).md>) (Phiên bản mở rộng)

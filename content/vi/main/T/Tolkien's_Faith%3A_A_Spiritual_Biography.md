@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien's Faith"
 ---
 
-Chuyển hướng tới Niềm tin của [Tolkien](Tolkien's_Faith.md).
+Chuyển hướng đến [Niềm tin của Tolkien](Tolkien's_Faith.md).

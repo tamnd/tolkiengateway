@@ -47,7 +47,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../E/Elves.md" title="Elves">Elves</a></td></tr>
 </tbody></table>
 
-"**Roll—roll—roll—roll,**" là dòng đầu tiên trong bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được xuất bản lần đầu trong *[The Hobbit](../T/The_Hobbit.md)* năm [1937](../_/1937.md). Bài thơ mô tả cuộc hành trình mà những chiếc thùng sẽ thực hiện khi chúng quay trở lại [Dorwinion](../D/Dorwinion.md), "những vùng đất mà bạn từng biết", nguồn gốc của loại rượu trong thùng. Cuộc hành trình được mô tả kể về dòng suối đen đưa những chiếc thùng ra khỏi hang động, xuyên qua [khu rừng lớn](../M/Mirkwood.md), vào [đầm lầy](../L/Long_Marshes.md) trước [Long Lake](../L/Long_Lake.md)và đi về phía nam. Cuối cùng, những chiếc thùng sẽ đến những vùng đất có đồng cỏ với [bò](../C/Cows.md) và những ngọn đồi có vườn, những điều này dường như mô tả về Dorwinion.<sup id="cite_ref-Barrels_2-0" class="reference"><a href="#cite_note-Barrels-2">[2]</a></sup>
+"**Roll—roll—roll—roll,**" là dòng đầu tiên trong bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được xuất bản lần đầu trong *[The Hobbit](../T/The_Hobbit.md)* năm [1937](../_/1937.md). Bài thơ mô tả cuộc hành trình mà những chiếc thùng sẽ thực hiện khi chúng quay trở lại [Dorwinion](../D/Dorwinion.md), "những vùng đất mà bạn từng biết", nguồn gốc của loại rượu trong thùng. Cuộc hành trình được mô tả kể về dòng suối đen đưa những chiếc thùng ra khỏi hang động, xuyên qua [khu rừng lớn](../M/Mirkwood.md), vào [đầm lầy](../L/Long_Marshes.md) trước [Hồ Dài](../L/Long_Lake.md) và đi về phía nam. Cuối cùng, những chiếc thùng sẽ đến những vùng đất có đồng cỏ với [bò](../C/Cows.md) và những ngọn đồi có vườn, những điều này dường như mô tả về Dorwinion.<sup id="cite_ref-Barrels_2-0" class="reference"><a href="#cite_note-Barrels-2">[2]</a></sup>
 
 ## Vần đầu {#Initial_rhyme}
 
@@ -61,17 +61,17 @@ Down they go, down they bump!<sup id="cite_ref-Barrels_2-1" class="reference"><a
 
 ## Lịch sử {#History}
 
-Sau khi [Bilbo Baggins](../B/Bilbo_Baggins.md) giải phóng [Người Lùn](../T/Thorin_and_Company.md) khỏi phòng giam của chúng trong ngục tối của [Vua Tiên](../T/Thranduil.md), anh ta đã đóng chúng vào thùng chờ chuyển đến vườn nho của [Con Người](../M/Men.md). Một phần của việc vận chuyển các thùng bao gồm việc thả chúng qua cửa sập vào một dòng suối ngầm, đưa chúng ra khỏi hang và đến [Forest River](../F/Forest_River.md) trên đường đến [Thị trấn Hồ](../L/Lake-town.md). Một nhóm Tiên tộc đến lăn những chiếc thùng đến cửa sập và khi làm việc họ đã hát một bài hát.<sup id="cite_ref-Barrels_2-2" class="reference"><a href="#cite_note-Barrels-2">[2]</a></sup>
+Sau khi [Bilbo Baggins](../B/Bilbo_Baggins.md) giải thoát [Người lùn](../T/Thorin_and_Company.md) khỏi phòng giam của họ trong ngục tối của [Vua yêu tinh](../T/Thranduil.md), ông ta đã đóng gói họ vào thùng chờ chuyển đến vườn nho của [Con người](../M/Men.md). Một phần của việc vận chuyển các thùng bao gồm việc thả chúng qua cửa sập vào dòng suối ngầm, đưa chúng ra khỏi hang động và ra [Sông Rừng](../F/Forest_River.md) trên đường đến [Thị trấn hồ](../L/Lake-town.md). Một nhóm Yêu tinh đến lăn những chiếc thùng đến cửa sập và khi làm việc họ hát một bài hát.<sup id="cite_ref-Barrels_2-2" class="reference"><a href="#cite_note-Barrels-2">[2]</a></sup>
 
 ## Nền {#Background}
 
-Trong một số ghi chú đầu truyện, Tolkien đã viết một bản nháp thô của bài thơ dài hơn bản đã xuất bản.<sup id="cite_ref-PNB_3-0" class="reference"><a href="#cite_note-PNB-3">[3]</a></sup>
+Trong một số ghi chú cốt truyện ban đầu, Tolkien đã viết một bản thảo thô của bài thơ dài hơn bản đã xuất bản.<sup id="cite_ref-PNB_3-0" class="reference"><a href="#cite_note-PNB-3">[3]</a></sup>
 
-Trong bản nháp ban đầu của *The Hobbit*, Tolkien ban đầu đã bỏ qua "vần ngắn" ban đầu<sup id="cite_ref-collectedpoems_1-1" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup>, nhưng đã viết nó vào văn bản sau khi hủy câu tiếp theo. Tolkien tiếp tục viết phần còn lại của bài thơ, ngoài một số thay đổi nhỏ về ngữ pháp, gần giống với bản đã xuất bản.<sup id="cite_ref-IX_4-0" class="reference"><a href="#cite_note-IX-4">[4]</a></sup>
+Trong bản thảo ban đầu của *The Hobbit*, Tolkien ban đầu đã bỏ qua "vần ngắn" ban đầu<sup id="cite_ref-collectedpoems_1-1" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup>, nhưng đã viết nó vào văn bản sau khi hủy câu tiếp theo. Tolkien tiếp tục viết phần còn lại của bài thơ, ngoài một số thay đổi nhỏ về ngữ pháp, nó gần giống với phiên bản đã xuất bản.<sup id="cite_ref-IX_4-0" class="reference"><a href="#cite_note-IX-4">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>Người Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>A version of the song titled &#34;<a href="Rollin&#39;_Down_the_Hole.md" title="Rollin&#39; Down the Hole">Rollin&#39; Down the Hole</a>&#34; plays as <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a> escape in the barrels and arrive in <a href="../L/Lake-town.md" title="Lake-town">Lake-town</a>.</dd></dl>
 

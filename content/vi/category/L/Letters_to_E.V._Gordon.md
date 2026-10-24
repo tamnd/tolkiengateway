@@ -14,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Gordon, E.V."
 ---
 
-Các chữ cái từ [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) đến [E.V. Gordon](../../main/E/E.V._Gordon.md).
+Thư từ [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) đến [E.V. Gordon](../../main/E/E.V._Gordon.md).

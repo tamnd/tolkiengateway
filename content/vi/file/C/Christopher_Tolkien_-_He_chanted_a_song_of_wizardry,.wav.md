@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Christopher Tolkien](../../main/C/Christopher_Tolkien.md) đọc * [Anh ấy đã hát một bài hát về ma thuật,](../../main/H/He_chanted_a_song_of_wizardry,.md)* từ [Of Beren and Lúthien](../../main/O/Of_Beren_and_Lúthien.md)
+[Christopher Tolkien](../../main/C/Christopher_Tolkien.md) đọc * [Ông đã hát một bài hát về ma thuật,](../../main/H/He_chanted_a_song_of_wizardry,.md)* từ [Of Beren and Lúthien](../../main/O/Of_Beren_and_Lúthien.md)
 
 ## Giấy phép {#Licensing}
 

@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-[Allen và Unwin](../A/Allen_and_Unwin.md) rất hào hứng với *Farmer Giles of Ham* nhưng hỏi liệu có thể cung cấp thêm truyện để lấp đầy một tập không. Tolkien rất vui vì họ muốn xuất bản truyện của anh nhưng lúc đó do áp lực học tập nên anh không có thời gian kể thêm truyện cho họ. Tolkien muốn tập trung vào phần tiếp theo của *[The Hobbit](../T/The_Hobbit.md)*. Anh ấy đã viết một chương cho nó vào tuần trước và sau đó chìm đắm trong công việc chính thức trong mười ngày. Tolkien cũng đề cập rằng anh ấy không có hình ảnh minh họa cho *Farmer Giles*.
+[Allen và Unwin](../A/Allen_and_Unwin.md) rất hào hứng với *Farmer Giles of Ham* nhưng hỏi liệu có thể cung cấp thêm truyện để lấp đầy một tập không. Tolkien rất vui vì họ muốn xuất bản truyện của ông nhưng lúc đó do áp lực học tập nên ông không có thời gian để kể thêm truyện cho họ. Tolkien muốn tập trung vào phần tiếp theo *[The Hobbit](../T/The_Hobbit.md)*. Ông đã viết một chương cho nó vào tuần trước và sau đó chìm đắm trong công việc chính thức trong mười ngày. Tolkien cũng đề cập rằng ông không có hình minh họa cho *Farmer Giles*.
 
 <br>
 

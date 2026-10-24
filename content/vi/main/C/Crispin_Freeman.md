@@ -31,17 +31,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Crispin_Freeman.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/80/Crispin_Freeman.jpg/320px-Crispin_Freeman.jpg" decoding="async" loading="lazy" width="320" height="395" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/8/80/Crispin_Freeman.jpg 1.5x" data-file-width="336" data-file-height="415"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Crispin Freeman</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/9_February.md" title="9 February">February 9</a>, <a href="../_/1972.md" title="1972">1972</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../F/Faramir.md" title="Faramir">Faramir</a> in:<br/><i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: War of the Ring</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../L/Legolas.md" title="Legolas">Legolas</a> in:<br/><i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Conquest</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="http://www.imdb.com/name/nm0293342/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
-**Crispin McDougal Freeman** ([9 tháng 2](../_/9_February.md), [1972](../_/1972.md)) là một diễn viên lồng tiếng người Mỹ, người có giọng lồng tiếng được công nhận trong lĩnh vực lồng tiếng anime. Giọng nói được công nhận nhiều nhất của anh ấy là của <a class="extiw" href="http://en.wikipedia.org/wiki/Alucard_(Hellsing)" title="wikipedia:Alucard (Hellsing)">Alucard</a> trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Hellsing_(TV_series)" title="wikipedia:Hellsing (TV series)">Hellsing</a></i>.
+**Crispin McDougal Freeman** ([9 tháng 2](../_/9_February.md), [1972](../_/1972.md)) là một diễn viên lồng tiếng người Mỹ, người có giọng lồng tiếng được công nhận trong lĩnh vực lồng tiếng anime. Giọng nói được công nhận nhiều nhất của ông là của <a class="extiw" href="http://en.wikipedia.org/wiki/Alucard_(Hellsing)" title="wikipedia:Alucard (Hellsing)">Alucard</a> trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Hellsing_(TV_series)" title="wikipedia:Hellsing (TV series)">Hellsing</a></i>.
 
-Freeman là một người hâm mộ Tolkien và trong chuyến tham quan Hội nghị Anime ở [New Zealand](../N/New_Zealand.md), anh ấy đã đến thăm [Mount Sunday](../M/Mount_Sunday.md).
+Freeman là một người hâm mộ Tolkien và trong chuyến tham quan Hội nghị Anime ở [New Zealand](../N/New_Zealand.md), ông đã đến thăm [Mount Sunday](../M/Mount_Sunday.md).
 
 ## Vai trò {#Roles}
 
 - [2011](../_/2011.md): *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* - Không xác định
-- [2009](../_/2009.md): *[The Lord of the Rings: Conquest](../T/The_Lord_of_the_Rings%253A_Conquest.md)* - [Legolas](../L/Legolas.md), Nam Trẻ [Hobbit](../H/Hobbits.md)
+- [2009](../_/2009.md): *[The Lord of the Rings: Conquest](../T/The_Lord_of_the_Rings%253A_Conquest.md)* - [Legolas](../L/Legolas.md), Nam thanh niên [Hobbit](../H/Hobbits.md)
 - [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)* - Giọng nói bổ sung
 - [2005](../_/2005.md): *[The Lord of the Rings: The Battle for Middle-earth](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)* - Giọng nói bổ sung
-- [2003](../_/2003.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)* - [Faramir](../F/Faramir.md), Orc Bộ chém
+- [2003](../_/2003.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)* - [Faramir](../F/Faramir.md), Kẻ chém Orc
 
 ## Trích dẫn {#Quotes}
 

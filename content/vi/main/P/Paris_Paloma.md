@@ -16,7 +16,7 @@ sort_keys:
   "Singers": "Paloma, Paris"
 ---
 
-**Paris Paloma** là ca sĩ kiêm nhạc sĩ đến từ Derbyshire, Anh. Cô ấy đã viết đĩa đơn gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Rider_(From_%22The_Lord_Of_The_Rings:_The_War_Of_The_Rohirrim%22)&amp;action=edit&amp;redlink=1" title="The Rider (From &#34;The Lord Of The Rings: The War Of The Rohirrim&#34;) (page does not exist)">The Rider</a> cho [nhạc phim](<../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim_(Original_Motion_Picture_Soundtrack).md>) cho [The Lord of the Rings: The War of the Rohirrim](../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Paris Paloma** là ca sĩ kiêm nhạc sĩ đến từ Derbyshire, Anh. Bà đã viết đĩa đơn gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Rider_(From_%22The_Lord_Of_The_Rings:_The_War_Of_The_Rohirrim%22)&amp;action=edit&amp;redlink=1" title="The Rider (From &#34;The Lord Of The Rings: The War Of The Rohirrim&#34;) (page does not exist)">The Rider</a> cho [nhạc phim](<../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim_(Original_Motion_Picture_Soundtrack).md>) cho [The Lord of the Rings: The War of the Rohirrim](../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

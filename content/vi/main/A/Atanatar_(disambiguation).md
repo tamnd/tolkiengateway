@@ -25,9 +25,9 @@ images:
 
 **Atanatar** có thể đề cập đến:
 
-- [Atanatári](Atanatári.md) ([Kỷ Đệ Nhất](../F/First_Age.md)), Cha của [Con Người](../M/Men.md).
-- [Atanatar I](Atanatar_I.md) ([T.A.](../T/Third_Age.md) [480](../T/Third_Age_480.md) - [748](../T/Third_Age_748.md)), thứ mười [Vua](../K/Kings_of_Gondor.md) của [Gondor](../G/Gondor.md).
-- [Atanatar II](Atanatar_II.md) *Alcarin* ([T.A.](../T/Third_Age.md) [977](../T/Third_Age_977.md) - [1226](../T/Third_Age_1226.md)), [Vua](../K/Kings_of_Gondor.md) thứ mười sáu của [Gondor](../G/Gondor.md) trong thời kỳ đỉnh cao quyền lực của nó.
+- [Atanatári](Atanatári.md) ([Thời đại đầu tiên](../F/First_Age.md)), Cha của [Đàn ông](../M/Men.md).
+- [Atanatar I](Atanatar_I.md) ([T.A.](../T/Third_Age.md) [480](../T/Third_Age_480.md) - [748](../T/Third_Age_748.md)), [Vua](../K/Kings_of_Gondor.md) thứ mười của [Gondor](../G/Gondor.md).
+- [Atanatar II](Atanatar_II.md) *Alcarin* ([T.A.](../T/Third_Age.md) [977](../T/Third_Age_977.md) - [1226](../T/Third_Age_1226.md)), [Vua](../K/Kings_of_Gondor.md) thứ mười sáu của [Gondor](../G/Gondor.md) trong thời kỳ đỉnh cao quyền lực.
 
 <hr style="margin-top:15px;"/>
 

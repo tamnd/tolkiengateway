@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Hội trường [Menegroth](../../main/M/Menegroth.md)" của [Alan Lee](../../main/A/Alan_Lee.md).
+"The Hall of [Menegroth](../../main/M/Menegroth.md)" của [Alan Lee](../../main/A/Alan_Lee.md).
 
 ## Giấy phép {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Men of Dale"
 ---
 
-Chuyển hướng đến [Người Dale](../M/Men_of_Dale.md).
+Chuyển hướng đến [Men of Dale](../M/Men_of_Dale.md).

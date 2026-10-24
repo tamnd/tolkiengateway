@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen233.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/be/AmonHen233.jpg/320px-AmonHen233.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/be/AmonHen233.jpg/480px-AmonHen233.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/be/AmonHen233.jpg/640px-AmonHen233.jpg 2x" data-file-width="1653" data-file-height="2339"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 233</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Gordon palmer</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../J/January.md" title="January">January</a> <a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">36</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_232.md" title="Amon Hen 232">Amon Hen 232</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_234.md" title="Amon Hen 234">Amon Hen 234</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 233</b> là số thứ hai trăm ba mươi ba của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng Giêng](../J/January.md) [2012](../_/2012.md).
+<b><i>Amon Hen</i> 233</b> là số thứ 233 của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, được xuất bản vào [tháng 1](../J/January.md) [2012](../_/2012.md).
 
 ## Nội dung {#Contents}
 
@@ -61,11 +61,11 @@ infobox:
     - Bởi: Ian Spittlehouse
 - Sự đốt cháy *[Palantír](../P/Palantíri.md)* 2
     - Bởi: Ian Collier
-- [Hall of Fire](../H/Hall_of_Fire.md)
+- [Sảnh lửa](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
-- Những ngôi sao sáng nhất của [George Allen &amp; Unwin Ltd](Allen_and_Unwin.md)
+- Những ngôi sao sáng nhất của [George Allen & Unwin Ltd](Allen_and_Unwin.md)
     - Bởi: David Doerr
-- A Pháp sư cho tất cả các mùa
+- Pháp sư cho mọi mùa
     - Bởi: Mark Bednarowski
 - Phía sau cánh cửa kính
     - Bởi: [Sally Kennett](../S/Sally_Kennett.md)
@@ -83,11 +83,11 @@ infobox:
     - Bởi: Anne Mathison
 - Tin tức từ [Fangorn](../F/Fangorn_Forest.md)
     - Bởi: Carol Brownlow
-Đoạn cắt của - Christopher
+- Đoạn cắt của Christopher
     - Bởi: Christopher Kreuzer
 - Thành viên mới
 - [Sự kiện quốc tế sắp tới](../I/International_Tolkien_Fellowship.md)
-- Ngày trong Nhật ký của bạn
+- Ngày cho Nhật ký của bạn
 - Ủy ban
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 232</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_232.md" title="Amon Hen 232">Amon Hen 232</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 233</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 234</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_234.md" title="Amon Hen 234">Amon Hen 234</a></div></div></div>

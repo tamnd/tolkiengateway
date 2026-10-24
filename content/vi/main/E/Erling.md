@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Erling</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../H/Hobbiton.md" title="Hobbiton">Hobbiton</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2854.md" title="Third Age 2854">1254</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/Greenhand_Family~66392.md" title="Greenhand Family">Greenhand</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../H/Holman_the_greenhanded.md" title="Holman the greenhanded">Holman the greenhanded</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="../R/Rowan.md" title="Rowan">Rowan</a>, <a href="../H/Halfred_Greenhand.md" title="Halfred Greenhand">Halfred</a>, <a href="../H/Hending.md" title="Hending">Hending</a> and <a href="../R/Rose_(daughter_of_Holman).md" title="Rose (daughter of Holman)">Rose</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Erling** là [Hobbit](../H/Hobbits.md) của [ Shire](../T/The_Shire.md).
+**Erling** là một [Hobbit](../H/Hobbits.md) của [Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
@@ -50,7 +50,7 @@ Erling là con giữa của [Holman tay xanh](../H/Holman_the_greenhanded.md), s
 
 ## Từ nguyên {#Etymology}
 
-[tiếng Anh cổ](../O/Old_English.md) *eorling* có nghĩa là "hậu duệ của một bá tước (quý tộc)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó giống với từ *[Eorlingas](Eorlingas.md)* nhưng không ám chỉ [Eorl the Young](Eorl_the_Young.md). <span></span>
+[Tiếng Anh cổ](../O/Old_English.md) *eorling* có nghĩa là "hậu duệ của một bá tước (quý tộc)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Đó là từ tương tự như *[Eorlingas](Eorlingas.md)* nhưng nó không đề cập đến [Eorl the Young](Eorl_the_Young.md). <span></span>
 
 ## Tài liệu tham khảo {#References}
 

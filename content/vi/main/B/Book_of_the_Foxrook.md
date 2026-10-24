@@ -23,7 +23,7 @@ Nó bao gồm một cuốn sổ tay 16 trang chứa "*chìa khóa của một m�
 
 Sự tồn tại của bản thảo này rõ ràng đã được đề cập lần đầu tiên bởi [Humphrey Carpenter](../H/Humphrey_Carpenter.md) trong *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)* (tr. 37).<sup id="cite_ref-Seven_2-2" class="reference"><a href="#cite_note-Seven-2">[2]</a></sup> Một trang trong Sách của Foxrook đã được sao chép trong danh mục triển lãm *[J.R.R. Tolkien: Life and Legend](../J/J.R.R._Tolkien%253A_Life_and_Legend.md)*. Một bản phân tích và chép lại của cùng một trang đã xuất hiện trong bài viết "Tolkien và Esperanto" (xem trang 29–34), xuất bản trong [*SEVEN*, Tập 17](../S/SEVEN_17.md).
 
-Sách Cáo được lưu giữ tại [Thư viện Bodleian](Bodleian_Library.md) (Giấy tờ gia đình 29/1(3), fol. 1r).<sup id="cite_ref-Seven_2-3" class="reference"><a href="#cite_note-Seven-2">[2]</a></sup>
+Sách của Foxrook được lưu giữ tại [Thư viện Bodleian](Bodleian_Library.md) (Giấy tờ gia đình 29/1(3), fol. 1r).<sup id="cite_ref-Seven_2-3" class="reference"><a href="#cite_note-Seven-2">[2]</a></sup>
 
 <span></span>
 

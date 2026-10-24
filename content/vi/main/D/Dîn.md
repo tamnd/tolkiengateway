@@ -15,7 +15,7 @@ sort_keys:
   "Sindarin nouns": "Din"
 ---
 
-<i><b>dîn</b></i> là một từ [Sindarin](../S/Sindarin.md) có ba nghĩa:
+<i><b>dîn</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) có ba nghĩa:
 
 1. *silence*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 2. *opening, gap, pass in mountains*

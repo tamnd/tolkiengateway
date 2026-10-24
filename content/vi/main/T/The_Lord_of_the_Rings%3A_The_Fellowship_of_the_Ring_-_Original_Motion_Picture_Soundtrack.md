@@ -29,42 +29,42 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/76/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg/320px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg" decoding="async" loading="lazy" width="320" height="319" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/76/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg/480px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/76/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg/640px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg 2x" data-file-width="1000" data-file-height="997"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture song</i></span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Soundtrack by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/20_November.md" title="20 November">20 November</a>, <a href="../_/2001.md" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Label</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Reprise_Records" title="wikipedia:Reprise Records">Reprise Records</a></td></tr></tbody></table>
 
-<i><b>The Lord of the Rings: The Fellowship of the Ring - Nhạc phim gốc</b></i> là một album bao gồm nhạc nền từ bộ phim *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*ra rạp. Nó được phát hành [20 tháng 11](../_/20_November.md), [2001](../_/2001.md). Một bản nhạc phim mở rộng, dựa trên phiên bản mở rộng của bộ phim, sau đó được phát hành dưới tên *[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md)*.
+<i><b>Chúa tể của những chiếc nhẫn: Hiệp hội của chiếc nhẫn - Nhạc phim gốc</b></i> là một album bao gồm nhạc nền từ bộ phim *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* được phát hành tại rạp. Nó được phát hành [20 tháng 11](../_/20_November.md), [2001](../_/2001.md). Một bản nhạc phim mở rộng, dựa trên phiên bản mở rộng của bộ phim, sau đó được phát hành dưới tên *[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md)*.
 
 ## Nội dung {#Contents}
 
 1. [Lời tiên tri](The_Prophecy.md) (3:55)
-2. [Về Hobbit](<../C/Concerning_Hobbits_(soundtrack).md>) (2:55)
-3. [ Bóng Tối của quá khứ](<The_Shadow_Of_The_Past_(soundtrack).md>) (3:33)
+2. [Liên quan đến người Hobbit](<../C/Concerning_Hobbits_(soundtrack).md>) (2:55)
+3. [Cái bóng của quá khứ](<The_Shadow_Of_The_Past_(soundtrack).md>) (3:33)
 4. [Sự phản bội của Isengard](The_Treason_Of_Isengard~15295.md) (3:51)
-5. [Cái Kỵ Sĩ Đen](The_Black_Rider.md) (2:48)
-6. [Tại Dấu hiệu The Prancing Pony](<../A/At_The_Sign_Of_The_Prancing_Pony_(soundtrack).md>) (3:14)
+5. [Kỵ sĩ đen](The_Black_Rider.md) (2:48)
+6. [Tại dấu hiệu chú ngựa chồm lên](<../A/At_The_Sign_Of_The_Prancing_Pony_(soundtrack).md>) (3:14)
 7. [Con dao trong bóng tối](<../A/A_Knife_In_The_Dark_(soundtrack).md>) (3:34)
 8. [Chuyến bay tới chiếc Ford](<../F/Flight_To_The_Ford_(soundtrack).md>) (4:14)
 9. [Nhiều cuộc họp](<../M/Many_Meetings_(soundtrack).md>) (3:05)
-10. [The Hội đồng Elrond](<The_Council_Of_Elrond_(soundtrack).md>) có bài hát "[Aníron](../A/Aníron.md)" (Theme For Aragorn And Arwen) do [Enya](../E/Enya.md) sáng tác và trình bày (3:49)
+10. [The Council of Elrond](<The_Council_Of_Elrond_(soundtrack).md>), có bài hát "[Aníron](../A/Aníron.md)" (Theme For Aragorn And Arwen) do [Enya](../E/Enya.md) sáng tác và trình bày (3:49)
 11. [Chiếc nhẫn tiến về phía nam](<The_Ring_Goes_South_(soundtrack).md>) (2:02)
 12. [Hành trình trong bóng tối](<../A/A_Journey_In_The_Dark_(soundtrack).md>) (4:20)
 13. [Cầu Khazad-dum](<The_Bridge_of_Khazad-dûm_(soundtrack).md>) (5:57)
 14. [Lothlorien](<../L/Lothlórien_(soundtrack).md>) (4:33)
-15. [Sông lớn](<The_Great_River_(soundtrack).md>) (2:43)
+15. [Sông Lớn](<The_Great_River_(soundtrack).md>) (2:43)
 16. [Amon Hen](<../A/Amon_Hen_(soundtrack).md>) (5:02)
 17. [Sự tan rã của tình bạn](<The_Breaking_Of_The_Fellowship_(soundtrack).md>) (7:20)
 18. [May It Be](../M/May_It_Be.md), sáng tác và biểu diễn bởi [Enya](../E/Enya.md) (4:17)
 
 ## Xem thêm {#See_also}
 
-- [*The Lord of the Rings: Bộ ba phim điện ảnh* - Nhạc phim gốc](../../category/T/The_Lord_of_the_Rings%253A_The_Motion_Picture_Trilogy_Original_Soundtracks.md):
+- [*The Lord of the Rings: The Motion Picture Trilogy* - Original Soundtracks](../../category/T/The_Lord_of_the_Rings%253A_The_Motion_Picture_Trilogy_Original_Soundtracks.md):
     - *[The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md)*
     - *[The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md)*
-- [*The Lord of the Rings: Bộ ba phim điện ảnh* - Bản ghi âm hoàn chỉnh](../../category/T/The_Lord_of_the_Rings%253A_The_Motion_Picture_Trilogy_The_Complete_Recordings.md):
+- [*The Lord of the Rings: The Motion Picture Trilogy* - The Complete Recordings](../../category/T/The_Lord_of_the_Rings%253A_The_Motion_Picture_Trilogy_The_Complete_Recordings.md):
     - *[The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md)*
     - *[The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md)*
     - *[The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)*
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.amagpiesnest.com/cd_editions/FOTR/FOTRost.htm" rel="noreferrer noopener" target="_blank"><i>The Lord of the Rings: The Fellowship of the Ring - Nhạc phim gốc</i></a> trên <a class="external text" href="http://www.amagpiesnest.com/" rel="noreferrer noopener" target="_blank">A Magpie Nest</a>
+- <a class="external text" href="http://www.amagpiesnest.com/cd_editions/FOTR/FOTRost.htm" rel="noreferrer noopener" target="_blank"><i>Chúa tể của những chiếc nhẫn: Hiệp hội nhẫn thần - Nhạc phim gốc</i></a> trên <a class="external text" href="http://www.amagpiesnest.com/" rel="noreferrer noopener" target="_blank">A Magpie Nest</a>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Rất nhiều [người lùn](../../main/T/Thorin_and_Company.md) đã dành thời gian để chất đống và đặt mua kho báu" của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"Nhiều [người lùn](../../main/T/Thorin_and_Company.md) đã dành thời gian để chất đống và đặt mua kho báu" của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

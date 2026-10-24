@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lossoth"
 ---
 
-Chuyển hướng đến [Lossoth](../L/Lossoth.md).
+Chuyển hướng tới [Mất mát](../L/Lossoth.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mount Doom"
 ---
 
-Chuyển hướng đến [Núi Doom](Mount_Doom.md).
+Chuyển hướng đến [Mount Doom](Mount_Doom.md).

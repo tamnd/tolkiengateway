@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình nền của [Kỷ Đệ Tam: Total War](../../main/T/Third_Age%253A_Total_War.md), bản sửa đổi cho <a class="extiw" href="http://en.wikipedia.org/wiki/Medieval_II:_Total_War" title="wikipedia:Medieval II: Total War">Medieval II: Total War</a>
+Hình nền của [Third Age: Total War](../../main/T/Third_Age%253A_Total_War.md), một bản sửa đổi cho <a class="extiw" href="http://en.wikipedia.org/wiki/Medieval_II:_Total_War" title="wikipedia:Medieval II: Total War">Trung cổ II: Total War</a>
 
 ## Giấy phép {#Licensing}
 

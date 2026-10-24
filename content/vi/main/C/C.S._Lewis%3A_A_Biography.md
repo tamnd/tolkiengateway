@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "C.S. Lewis: A Biography (disambiguation)"
 ---
 
-Chuyển hướng tới [C.S. Lewis: Tiểu sử (định hướng)](<C.S._Lewis%253A_A_Biography_(disambiguation).md>).
+Chuyển hướng đến [C.S. Lewis: A Biography (disambiguation)](<C.S._Lewis%253A_A_Biography_(disambiguation).md>).

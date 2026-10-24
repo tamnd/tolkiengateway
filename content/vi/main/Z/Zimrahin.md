@@ -42,11 +42,11 @@ infobox:
 
 **Zimrahin** là một phụ nữ đến từ [Dân tộc Marach](../F/Folk_of_Marach.md).
 
-Cô kết hôn với [Malach Aradan](../M/Malach.md) ở [F.A.](../F/First_Age.md) [337](../F/First_Age_337.md), sau khi anh trở về sau mười bốn năm ở [Hithlum](../H/Hithlum.md). Sau khi kết hôn, bà lấy tên Elvish là *Meldis* và trở thành mẹ của [Adanel](../A/Adanel.md) và [Magor](../M/Magor.md).<sup id="cite_ref-WJwest_1-0" class="reference"><a href="#cite_note-WJwest-1">[1]</a></sup>
+Cô kết hôn với [Malach Aradan](../M/Malach.md) ở [F.A.](../F/First_Age.md) [337](../F/First_Age_337.md), sau khi anh trở về sau mười bốn năm ở [Hithlum](../H/Hithlum.md). Sau khi kết hôn, cô lấy tên Tiên là *Meldis* và trở thành mẹ của [Adanel](../A/Adanel.md) và [Magor](../M/Magor.md).<sup id="cite_ref-WJwest_1-0" class="reference"><a href="#cite_note-WJwest-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Zimrahin* rõ ràng là tên [Mannish](../M/Mannish.md) của Dân gian Marach. Tên dường như chứa phần tử [Adûnaic](../A/Adûnaic.md) sau *[zimra](Zimra.md)* "ngọc" và có thể có nghĩa là "đứa trẻ ngọc". Adûnaic sẽ nổi lên như một hậu duệ của ngôn ngữ mà Zimhrahin đang nói.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Zimrahin* rõ ràng là tên [Mannish](../M/Mannish.md) của Dân gian Marach. Tên dường như chứa phần tử [Adûnaic](../A/Adûnaic.md) sau này *[zimra](Zimra.md)* "ngọc" và có thể có nghĩa là "đứa trẻ ngọc". Adûnaic sẽ nổi lên như một hậu duệ của ngôn ngữ mà Zimhrahin đang nói.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <br> *Meldis* là tên [Sindarin](../S/Sindarin.md) của Zimrahin. Ý nghĩa của cái tên là "bạn".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

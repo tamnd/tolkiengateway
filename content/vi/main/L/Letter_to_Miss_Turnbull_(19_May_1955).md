@@ -38,7 +38,7 @@ Vào [19 tháng 5](../_/19_May.md) [1955](../_/1955.md), [J.R.R. Tolkien](../J/J
 		</li>
 </ul></center>
 
-Tolkien cảm ơn cô Turnbull vì 'món quà hào phóng và tuyệt vời' (rõ ràng là rượu sâm panh), xin lỗi sâu sắc vì phản hồi chậm trễ \[món quà đã đến hai ngày trước!!!\] và thảo luận về nguyên nhân có lẽ là nguyên nhân của lễ kỷ niệm - dọn bàn 'The Return of the King' của anh ấy. 'Mặc dù việc gửi đi những món đồ cuối cùng \[với một nhận xét bên lề 'và cuối cùng'\] cho Tập III có vẻ là một dịp thích hợp để rút ra ít nhất một nút chai, nhưng cho đến nay tôi vẫn kiềm chế; nhưng khi uống, tôi sẽ nhớ lại với lòng biết ơn ít nhất cũng ấm áp và sâu sắc như cảm giác của Old Rory đối với những chai Old Winyards. Tôi chỉ có thể hy vọng Tập III sẽ đạt được điều đó!' Giới văn học và điện ảnh chắc chắn cho rằng như vậy .<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
+Tolkien cảm ơn cô Turnbull vì 'món quà tuyệt vời và tuyệt vời' (rõ ràng là rượu sâm panh), xin lỗi sâu sắc vì phản hồi chậm trễ \[món quà đã đến trước đó hai ngày!!!\] và thảo luận về nguyên nhân có lẽ là nguyên nhân của lễ kỷ niệm - dọn bàn làm việc của ông về 'Sự trở lại của nhà vua'. 'Mặc dù việc gửi đi những món đồ cuối cùng \[với một nhận xét bên lề 'và cuối cùng'\] cho Tập III có vẻ là một dịp thích hợp để rút ra ít nhất một nút chai, nhưng cho đến nay tôi vẫn kiềm chế; nhưng khi uống, tôi sẽ nhớ lại với lòng biết ơn ít nhất cũng ấm áp và sâu sắc như cảm giác của Old Rory đối với những chai Old Winyards. Tôi chỉ có thể hy vọng Tập III sẽ đạt được điều đó!' Giới văn học và điện ảnh chắc chắn cho rằng như vậy .<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
 
 ## Xem thêm {#See_also}
 
@@ -48,7 +48,7 @@ Tolkien cảm ơn cô Turnbull vì 'món quà hào phóng và tuyệt vời' (r�
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Các biên tập viên của AbeBooks đã không đưa vào mô tả đầy đủ về bức thư (kết thúc đột ngột bằng "một dịp thích hợp cho wi". Tuy nhiên, một thư từ riêng tư với Michael Treloar Antiquarian đã tiết lộ mô tả đầy đủ về bức thư, như đã trình bày ở trên.</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Các biên tập viên của AbeBooks đã không đưa vào mô tả đầy đủ về bức thư (kết thúc đột ngột bằng "một dịp thích hợp cho wi". Tuy nhiên, một cuộc trao đổi riêng với Michael Treloar Antiquarian đã tiết lộ mô tả đầy đủ về bức thư, như đã trình bày ở trên.</span>
 </li>
 </ol></div></span>
 

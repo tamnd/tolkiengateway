@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Trong khi đó, [những người lùn](../../main/T/Thorin_and_Company.md) ngồi trong bóng tối..." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+“Trong khi đó, [những người lùn](../../main/T/Thorin_and_Company.md) ngồi trong bóng tối…” của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

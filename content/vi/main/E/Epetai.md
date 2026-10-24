@@ -21,7 +21,7 @@ Từ được phân tích dưới dạng *[epe](Epe.md)* và <i><a class="new" h
 
 ## Ví dụ {#Example}
 
-- <i><a href="Eldar.md" title="Eldar">Eldar</a> ataformaiti; <b>epetai</b> <a href="../I/I.md" title="I">i</a> hyarma <a class="mw-redirect" href="../_/Ú.md" title="Ú">ú</a> <a href="../T/Te.md" title="Te">ten</a> ulca <a href="../S/Síma.md" title="Síma">síma</a><a href="../_/-rya.md" title="-rya">ryassen</a></i> " Eldar thuận cả hai tay; do đó tay trái của họ không tệ thụ thai<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- <i><a href="Eldar.md" title="Eldar">Eldar</a> ataformaiti; <b>epetai</b> <a href="../I/I.md" title="I">i</a> hyarma <a class="mw-redirect" href="../_/Ú.md" title="Ú">ú</a> <a href="../T/Te.md" title="Te">ten</a> ulca <a href="../S/Síma.md" title="Síma">síma</a><a href="../_/-rya.md" title="-rya">ryassen</a></i> "Người Eldar thuận cả hai tay; do đó quan niệm của họ về tay trái không tệ<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

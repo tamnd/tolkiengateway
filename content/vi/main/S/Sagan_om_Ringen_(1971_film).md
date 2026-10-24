@@ -50,7 +50,7 @@ infobox:
 <p class="tg-quote-footer"><cite>SVT Play description</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Sagan om Ringen** là bộ phim truyền hình Thụy Điển chuyển thể từ *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Bộ phim kể về hành trình của [Frodo](../F/Frodo_Baggins.md) từ [ Shire](../T/The_Shire.md) đến khi Hội đồng nghiệp khởi hành từ [Rivendell](../R/Rivendell.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Sagan om Ringen** là bộ phim truyền hình Thụy Điển chuyển thể từ *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Bộ phim kể về cuộc hành trình của [Frodo](../F/Frodo_Baggins.md) từ [Quận](../T/The_Shire.md) đến chuyến khởi hành của Hiệp hội từ [Rivendell](../R/Rivendell.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Đáng chú ý, bộ phim được sản xuất nhờ sự thành công của [Bo Hansson](../B/Bo_Hansson.md) [Sagan om Ringen](<Sagan_om_Ringen_(album).md>) hay Âm nhạc lấy cảm hứng từ Chúa tể những chiếc nhẫn. Hansson đã tạo ra âm nhạc cho bộ phim.
 
@@ -105,28 +105,28 @@ Các cảnh có diễn viên được quay trước màn hình xanh và các di�
 
 ### Phần 1 {#Part_1}
 
-Bữa tiệc của - [Bilbo](../B/Bilbo_Baggins.md) [](../B/Bilbo's_Farewell_Party.md) là bữa tối chỉ có [Hobbit](../H/Hobbits.md) và [Gandalf](../G/Gandalf.md) trung ương tham dự. Bilbo không phát biểu. Đúng hơn là anh ta biến mất vào giữa bữa tối mà không thu hút sự chú ý về phía mình.
+- [Bữa tiệc của Bilbo](../B/Bilbo_Baggins.md) [](../B/Bilbo's_Farewell_Party.md) là bữa tối chỉ có [Hobbit](../H/Hobbits.md) và [Gandalf](../G/Gandalf.md) ở trung tâm tham dự. Bilbo không có bài phát biểu nào. Đúng hơn là ông ta biến mất vào giữa bữa tối mà không thu hút sự chú ý về phía mình.
 - [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) có kích thước gần giống với một chiếc vòng tay lớn.
-- [Elrond](../E/Elrond.md) được đặt tên là *alvkungen* hoặc *The [Elf](../E/Elves.md) King.* Cuốn sách đặt tên cho anh ta là *Lord of [Rivendell](../R/Rivendell.md).*
-- Gandalf không để Shire đi theo Bữa tiệc sinh nhật mà bắt đầu Hobbit khởi hành cuộc hành trình của họ.
-- [Frodo](../F/Frodo_Baggins.md) ngay lập tức khởi hành với [Sam](Samwise_Gamgee.md), [Pippin](../P/Peregrin_Took.md) và [Merry](../M/Meriadoc_Brandybuck.md). Không có [Âm mưu](../C/Conspirators.md) hay kế hoạch khiến người khác tin rằng Frodo đang di chuyển [Crickhollow](../C/Crickhollow.md).
+- [Elrond](../E/Elrond.md) được trao danh hiệu *alvkungen* hoặc *The [Elf](../E/Elves.md) King.* Cuốn sách đặt cho anh danh hiệu *Lord of [Rivendell](../R/Rivendell.md).*
+- Gandalf không rời Quận sau Bữa tiệc sinh nhật mà bắt đầu cuộc hành trình của những người Hobbit.
+- [Frodo](../F/Frodo_Baggins.md) ngay lập tức khởi hành cùng [Sam](Samwise_Gamgee.md), [Pippin](../P/Peregrin_Took.md) và [Merry](../M/Meriadoc_Brandybuck.md). Không có [Âm mưu](../C/Conspirators.md) hay kế hoạch khiến người khác tin rằng Frodo đang di chuyển [Crickhollow](../C/Crickhollow.md).
 - [Fatty Bolger](../F/Fatty_Bolger.md) và [Folco Boffin](../F/Folco_Boffin.md) bị bỏ qua.
-- Người Hobbit gặp một đại đội gồm [Tiên tộc](../E/Elves.md) lái chiếc [Nazgûl](../N/Nazgûl.md), nhưng không có ai Tiên được xác định, nghĩa là [Gildor Inglorion](../G/Gildor.md) bị bỏ qua.
+- Người Hobbit gặp một nhóm [Yêu tinh](../E/Elves.md) đang đánh đuổi [Nazgûl](../N/Nazgûl.md), nhưng không có Yêu tinh nào được xác định, nghĩa là [Gildor Inglorion](../G/Gildor.md) bị bỏ qua.
 - [Bamfurlong](../B/Bamfurlong.md) bị bỏ qua.
-- Người Hobbit được [Tom Bombadil](../T/Tom_Bombadil.md) giải cứu và đến thăm [nhà anh ta](<../U/Underhill_(house).md>). [Goldberry](../G/Goldberry.md) bị bỏ qua.
-- Số [Barrow-downs](../B/Barrow-downs.md) bị bỏ qua.
-- Các Hobbit bước vào *[The Prancing Pony](../T/The_Prancing_Pony.md)* và gặp ngay [Strider](../A/Aragorn.md). Họ tìm thấy lá thư của Gandalf(mặc dù [Butterbur](../B/Barliman_Butterbur.md) bị bỏ qua) và khởi hành với Strider. Tất cả các sự kiện khác trong [Bree](../B/Bree.md) đều bị bỏ qua.
+- Người Hobbit được [Tom Bombadil](../T/Tom_Bombadil.md) giải cứu và đến thăm [ngôi nhà của ông](<../U/Underhill_(house).md>). [Goldberry](../G/Goldberry.md) bị bỏ qua.
+- Phần [Barrow-down](../B/Barrow-downs.md) bị bỏ qua.
+- Người Hobbit bước vào *[The Prancing Pony](../T/The_Prancing_Pony.md)* và gặp ngay [Strider](../A/Aragorn.md). Họ tìm thấy lá thư của Gandalf (mặc dù [Butterbur](../B/Barliman_Butterbur.md) bị bỏ qua) và khởi hành cùng Strider. Tất cả các sự kiện khác trong [Bree](../B/Bree.md) đều bị bỏ qua.
 
 ### Phần 2 {#Part_2}
 
-- Phần cuối của Chuyến bay tới [chiếc Ford](../F/Ford_of_Bruinen.md) bị cắt ngắn. [Frodo](../F/Frodo_Baggins.md) và [Nazgûl](../N/Nazgûl.md) không tương tác và các Người lái ngay lập tức cố gắng vượt qua Ford trước khi bị cuốn trôi.
-- Hầu hết các sự kiện trong Rivendell ngoài bữa tiệc, [sự kiện Hội đồng Elrond](../C/Council_of_Elrond.md) và [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) đều bị bỏ qua.
-- Những cá nhân duy nhất được nhìn thấy trong [Rivendell](../R/Rivendell.md) là những người tham dự Hội đồng Elrond. [Glóin](../G/Glóin.md) không được nhìn thấy thực tế nhưng vẫn có mặt tại hội đồng và người kể chuyện kể lại những gì anh ta đã nói. [Glorfindel](../G/Glorfindel.md) không xuất hiện mặc dù đã xuất hiện ở tập trước. [Erestor](../E/Erestor.md) và [Galdor của Cảng](<../G/Galdor_(elf_of_the_Havens).md>) không có mặt.
-- [Sam](Samwise_Gamgee.md), [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) tham dự Hội đồng Elrond mà không đề cập đến việc họ không được mời.
-- [Radagast Brown](../R/Radagast.md) không được nhìn thấy hoặc được đề cập trực tiếp, mặc dù Gandalf nói rằng anh ta đã bị "lừa" gặp [Saruman White](Saruman.md), ngụ ý rằng cuộc chạm trán với Radagast diễn ra ngoài màn hình.
-- Tuy nhiên, các trường hợp gặp phải Radagast ngoài màn hình nói trên phải hơi khác một chút, vì Gandalf thu hút sự chú ý của [Gwaihir](../G/Gwaihir.md) bằng cách gửi "tin nhắn với những chú chim", thay vì Gwaihir đến [Orthanc](../O/Orthanc.md) vì tin nhắn của Radagast.
-- [Boromir](../B/Boromir.md) bị bỏ qua. Mặc dù người kể chuyện có đề cập rằng [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) có chín thành viên nhưng chỉ có tám người được liệt kê.
-- Mặc dù [Bill Ferny](../B/Bill_Ferny.md) bị bỏ sót trong Tập 1, người ta vẫn nói rằng "Sam đứng về phía Pony", có lẽ là [Bill the Pony](../B/Bill_the_Pony.md).
+- Phần cuối của Chuyến bay tới [chiếc Ford](../F/Ford_of_Bruinen.md) bị cắt ngắn. [Frodo](../F/Frodo_Baggins.md) và [Nazgûl](../N/Nazgûl.md) không tương tác và các Kỵ sĩ ngay lập tức cố gắng vượt qua Ford, trước khi bị cuốn trôi.
+- Hầu hết các sự kiện ở Rivendell ngoài bữa tiệc [Hội đồng Elrond](../C/Council_of_Elrond.md) và [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) sắp diễn ra đều bị bỏ qua.
+- Những cá nhân duy nhất được nhìn thấy ở [Rivendell](../R/Rivendell.md) là những người tham dự Hội đồng Elrond. [Glóin](../G/Glóin.md) không được nhìn thấy thực tế nhưng vẫn có mặt tại hội đồng và người kể chuyện kể lại những gì ông ta đã nói. [Glorfindel](../G/Glorfindel.md) không có mặt, mặc dù đã xuất hiện ở tập trước. [Erestor](../E/Erestor.md) và [Galdor of the Havens](<../G/Galdor_(elf_of_the_Havens).md>) không có mặt.
+- [Sam](Samwise_Gamgee.md), [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) tham dự Hội đồng Elrond mà không hề đề cập đến việc họ không được mời.
+- [Radagast the Brown](../R/Radagast.md) không được nhìn thấy hoặc đề cập trực tiếp, mặc dù Gandalf nói rằng ông đã bị "lừa" gặp [Saruman the White](Saruman.md), ngụ ý rằng cuộc gặp gỡ với Radagast diễn ra ngoài màn ảnh.
+- Tuy nhiên, hoàn cảnh của cuộc gặp gỡ ngoài màn hình nói trên với Radagast chắc chắn hơi khác một chút, vì Gandalf thu hút sự chú ý của [Gwaihir](../G/Gwaihir.md) bằng cách gửi "một tin nhắn với những chú chim", thay vì Gwaihir đến [Orthanc](../O/Orthanc.md) vì tin nhắn của Radagast.
+- [Boromir](../B/Boromir.md) bị bỏ qua. Mặc dù người kể chuyện có đề cập rằng [Hiệp hội nhẫn](../F/Fellowship_of_the_Ring.md) có chín thành viên nhưng chỉ có tám người được liệt kê.
+- Mặc dù [Bill Ferny](../B/Bill_Ferny.md) vắng mặt trong Tập 1, người ta vẫn nói rằng "Sam đứng về phía Pony", có lẽ là [Bill the Pony](../B/Bill_the_Pony.md).
 
 ## Xem thêm {#See_also}
 

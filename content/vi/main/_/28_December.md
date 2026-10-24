@@ -70,10 +70,10 @@ Sự kiện xảy ra vào ngày 28 tháng 12
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 94](../L/Letter_94.md).
 - **[1944](1944.md)** - Nhạc sĩ [Paul Drayton](../P/Paul_Drayton.md) ra đời.
 - **[1952](1952.md)** - Nhà phát triển trò chơi [Wendell Lariston Hill, Jr.](../W/Wendell_Lariston_Hill,_Jr..md) ra đời.
-- **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Rayner Unwin](<../L/Letter_to_Rayner_Unwin_(28_December_1953).md>).
+- **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Rayner Unwin](<../L/Letter_to_Rayner_Unwin_(28_December_1953).md>).
 - **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi W.B. Crouch của Công ty Xì gà Miền Nam](../L/Letter_to_W.B._Crouch.md).
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Con [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía nam dọc theo [Dãy Núi Sương Mù](../M/Misty_Mountains.md).
+    - [Hiệp hội Nhẫn thần](../F/Fellowship_of_the_Ring.md) đi về phía nam dọc theo [Dãy núi Sương mù](../M/Misty_Mountains.md).

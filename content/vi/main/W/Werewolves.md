@@ -41,17 +41,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_White_Council_-_Werewolf.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/94/The_White_Council_-_Werewolf.jpg/320px-The_White_Council_-_Werewolf.jpg" decoding="async" loading="lazy" width="320" height="229" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/94/The_White_Council_-_Werewolf.jpg/480px-The_White_Council_-_Werewolf.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/94/The_White_Council_-_Werewolf.jpg/640px-The_White_Council_-_Werewolf.jpg 2x" data-file-width="695" data-file-height="497"/></a><figcaption>Werewolf from <i><a href="../T/The_Lord_of_the_Rings%253A_The_White_Council.md" title="The Lord of the Rings: The White Council">The Lord of the Rings: The White Council</a></i></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a class="mw-redirect" href="../R/Races.md" title="Races">Race</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Werewolves</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Locations</th><td class="tg-infobox-data"><a href="../A/Angband.md" title="Angband">Angband</a>, <a href="../T/Tol-in-Gaurhoth.md" title="Tol-in-Gaurhoth">Tol-in-Gaurhoth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../M/Morgoth.md" title="Morgoth">Morgoth</a>, <a href="../S/Sauron.md" title="Sauron">Sauron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Rivalries</th><td class="tg-infobox-data"><a href="../E/Elves.md" title="Elves">Elves</a>, <a href="../D/Dogs.md" title="Dogs">Dogs</a></td></tr><tr><th scope="row" class="tg-infobox-label">Members</th><td class="tg-infobox-data"><a href="../C/Carcharoth.md" title="Carcharoth">Carcharoth</a>, <a href="../D/Draugluin.md" title="Draugluin">Draugluin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Werewolves.md" title="Category:Images of Werewolves">Images of Werewolves</a></td></tr></tbody></table>
 
-**Người sói** là người hầu của [Sauron](../S/Sauron.md), những con thú sa ngã ([sói](Wolves.md)) là nơi sinh sống của những linh hồn đáng sợ Sauron đã giam cầm trong cơ thể họ.<sup id="cite_ref-S19_1-0" class="reference"><a href="#cite_note-S19-1">[1]</a></sup>
+**Người sói** là người hầu của [Sauron](../S/Sauron.md), những con thú sa ngã ([sói](Wolves.md)) là nơi sinh sống của những linh hồn khủng khiếp mà Sauron đã giam cầm trong cơ thể họ.<sup id="cite_ref-S19_1-0" class="reference"><a href="#cite_note-S19-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Người sói được tạo ra (hoặc ít nhất là bị biến chất từ ​​một số dạng khác) bởi [Sauron](../S/Sauron.md), chủ nhân của chúng và là người đã mang hình dáng của một [sói](Wolves.md) vĩ đại ít nhất một lần.<sup id="cite_ref-S19_1-1" class="reference"><a href="#cite_note-S19-1">[1]</a></sup>
+Người sói được tạo ra (hoặc ít bị biến chất nhất từ ​​một số dạng khác) bởi [Sauron](../S/Sauron.md), chủ nhân của họ và là người đã mang hình dáng của một [sói](Wolves.md) vĩ đại ít nhất một lần.<sup id="cite_ref-S19_1-1" class="reference"><a href="#cite_note-S19-1">[1]</a></sup>
 
-Người sói đầu tiên là [Draugluin](../D/Draugluin.md), và người vĩ đại nhất là [Carcharoth](../C/Carcharoth.md), người bảo vệ [Angband](../A/Angband.md), hậu duệ của Draugluin như tất cả những người sói khác.
+Người sói đầu tiên là [Draugluin](../D/Draugluin.md), và người vĩ đại nhất là [Carcharoth](../C/Carcharoth.md), người giám hộ của [Angband](../A/Angband.md), hậu duệ của Draugluin cũng như tất cả những người sói khác.
 
-Trong *[Grey Annals](../T/The_Grey_Annals.md)* người ta kể rằng "những sinh vật đi theo hình dạng sói" đã bước vào [Beleriand](../B/Beleriand.md) vào [Năm Valian](../V/Valian_Years.md) 1330.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong *[Grey Annals](../T/The_Grey_Annals.md)* người ta kể rằng "những sinh vật đi theo hình dạng sói" đã tiến vào [Beleriand](../B/Beleriand.md) vào [Năm Valian](../V/Valian_Years.md) 1330.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Mặc dù không xuất hiện như vậy trong các ghi chép đã biết của [Arda](../A/Arda.md) trong [Thứ hai](../S/Second_Age.md) và [Thứ ba](../T/Third_Age.md) Kỷ nguyên, Gandalf đã đề cập đến người sói nằm trong số Sauron người hầu vào cuối Kỷ Đệ Tam, cùng với [orc](../O/Orcs.md), [troll](../T/Trolls.md), [wargs](Wargs.md) và [bóng ma](Wraiths.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Mặc dù không xuất hiện như vậy trong các ghi chép được biết đến bằng văn bản của [Arda](../A/Arda.md) trong Thời đại [Thứ hai](../S/Second_Age.md) và [Thứ ba](../T/Third_Age.md), Gandalf đã đề cập đến người sói là một trong những người hầu của Sauron vào cuối Thời đại thứ ba, cùng với [orc](../O/Orcs.md), [troll](../T/Trolls.md), [wargs](Wargs.md) và [bóng ma](Wraiths.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Tên khác {#Other_names}
 
@@ -61,11 +61,11 @@ Trong [Sindarin](../S/Sindarin.md), người sói được gọi là *gaurhoth* 
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mark_Evans_-_Werewolves.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6a/Mark_Evans_-_Werewolves.jpg/300px-Mark_Evans_-_Werewolves.jpg" decoding="async" loading="lazy" width="300" height="393" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6a/Mark_Evans_-_Werewolves.jpg/450px-Mark_Evans_-_Werewolves.jpg 1.5x, https://tolkiengateway.net/w/images/6/6a/Mark_Evans_-_Werewolves.jpg 2x" data-file-width="491" data-file-height="643"/></a><figcaption><i>Werewolves</i> in <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">LotRRPG</a></i></figcaption></figure>
 
-<b>1982-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b>1982-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai Trung Địa</a></i>:</b>
 
 <dl><dd>Classified as Undead Beings, the Werewolves are either bred from Wolves or Wargs. They cannot transform themselves into Men, although they can alter shape into being able to stand upright (while remaining Wolf-like).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 
-<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a></i>:</b>
+<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">Trò chơi nhập vai Chúa tể của những chiếc nhẫn</a></i>:</b>
 
 <dl><dd>Werewolves can change between Man-form (hairy, muscular folk) and Warg-form (surpassing the size and ferocity of the largest Wargs).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 

@@ -30,13 +30,13 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-<i><b>Tính toán của năm</b></i> là cuốn sách được viết bởi [Merry Brandybuck](../M/Meriadoc_Brandybuck.md) khoảng sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md). Trong tác phẩm này Merry đã thảo luận về mối quan hệ giữa [lịch](../S/Shire_Calendar.md) của [lịch Shire](../T/The_Shire.md) và [của](../B/Bree_Calendar.md) [Bree](../B/Bree.md) với các lịch của [Rivendell](Reckoning_of_Rivendell.md), [Gondor](../N/New_Reckoning.md) và [Rohan](Rohan.md).
+<i><b>Tính toán của năm</b></i> là cuốn sách được viết bởi [Merry Brandybuck](../M/Meriadoc_Brandybuck.md) khoảng sau [Chiến tranh trên nhẫn](../W/War_of_the_Ring.md). Trong tác phẩm này, Merry đã thảo luận về mối quan hệ giữa [lịch](../S/Shire_Calendar.md) của [the Shire](../T/The_Shire.md) và [của](../B/Bree_Calendar.md) [Bree](../B/Bree.md) với lịch của [Rivendell](Reckoning_of_Rivendell.md), [Gondor](../N/New_Reckoning.md) và [Rohan](Rohan.md).
 
 Cuốn sách này là một trong những cuốn sách quan trọng được lưu giữ trong thư viện của [Bucklebury](../B/Bucklebury.md), có lẽ là một trong những tác phẩm quan trọng chưa được sao chép vào [Sách Đỏ](Red_Book.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-"Tính toán các năm" là bản dịch sang tiếng Anh của <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Reckoning_of_Time" title="wikipedia:The Reckoning of Time">De temporumratione</a></i>, tựa đề của một chuyên luận quan trọng về thiên văn học và việc đo thời gian của tu sĩ người Anh thế kỷ thứ bảy Bede. Tác phẩm này là nguồn duy nhất của tên Anglo-Saxon các tháng trong năm, Tolkien được điều chỉnh cho phù hợp với [Lịch Shire](../S/Shire_Calendar.md).
+"Tính toán các năm" là bản dịch sang tiếng Anh của <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Reckoning_of_Time" title="wikipedia:The Reckoning of Time">De temporumratione</a></i>, tựa đề của một chuyên luận quan trọng về thiên văn học và việc đo thời gian của tu sĩ người Anh thế kỷ thứ bảy Bede. Tác phẩm này là nguồn duy nhất về tên Anglo-Saxon của các tháng trong năm mà Tolkien đã phỏng theo [Lịch Shire](../S/Shire_Calendar.md).
 
 Tolkien có thể dự định lấy tác phẩm này làm nguồn thông tin trong "[Phụ lục D](../A/Appendix_D.md)" của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, mặc dù [Lời mở đầu](../P/Prologue_Concerning_Hobbits,_and_other_matters.md) gợi ý rằng nó không được đưa vào Sách Đỏ.
 

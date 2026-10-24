@@ -23,6 +23,6 @@ file:
   user: "A Hobbit Gentleman"
 ---
 
-Ảnh chụp màn hình về sự cho phép của Artigas để sử dụng tác phẩm nghệ thuật Tolkien của mình với mục đích phi thương mại trên Tolkien Gateway. Ảnh chụp màn hình email của anh ấy, được biên soạn dưới dạng hình ảnh .png lớn.
+Ảnh chụp màn hình về sự cho phép của Artigas để sử dụng tác phẩm nghệ thuật Tolkien của mình với mục đích phi thương mại trên Tolkien Gateway. Ảnh chụp màn hình email của ông, được biên soạn dưới dạng hình ảnh .png lớn.
 
 Vui lòng xem [Bản quyền - Artigas](../../project/C/Copyrights%252FArtigas.md) để biết thêm thông tin.

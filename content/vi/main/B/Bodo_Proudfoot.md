@@ -40,11 +40,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Bodo Proudfoot</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a href="../P/Proudfoot_Family.md" title="Proudfoot Family">Proudfoot</a></td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a class="mw-redirect" href="../L/Linda_Proudfoot.md" title="Linda Proudfoot">Linda Baggins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../O/Odo_Proudfoot.md" title="Odo Proudfoot">Odo</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Bodo Proudfoot** là [Hobbit](../H/Hobbits.md) của [ Shire](../T/The_Shire.md).
+**Bodo Proudfoot** là một [Hobbit](../H/Hobbits.md) của [Quận](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
-Bodo kết hôn [Linda Baggins](../L/Linda_Proudfoot.md). Họ có một con trai, [Odo](../O/Odo_Proudfoot.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Bodo kết hôn với [Linda Baggins](../L/Linda_Proudfoot.md). Họ có một con trai, [Odo](../O/Odo_Proudfoot.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

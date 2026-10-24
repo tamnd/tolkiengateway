@@ -46,7 +46,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="Fastitocalon.md" title="Fastitocalon">Fastitocalon</a>, <a href="../T/Turtle-fish.md" title="Turtle-fish">Turtle-fish</a></td></tr>
 </tbody></table>
 
-<i><b>Fastitocalon</b></i> là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) xuất bản năm *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* được cho là của [Samwise Gamgee](../S/Samwise_Gamgee.md), người đã viết bài thơ dựa trên "một phần cũ hơn của truyền thuyết về người thú trong truyện tranh" mà [Hobbit](../H/Hobbits.md) thích.<sup id="cite_ref-preface_2-0" class="reference"><a href="#cite_note-preface-2">[2]</a></sup> Nhân vật trung tâm là [Fastitocalon](Fastitocalon.md), nhân vật cuối cùng của [Cá rùa](../T/Turtle-fish.md) và cài đặt là [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-poem_3-0" class="reference"><a href="#cite_note-poem-3">[3]</a></sup>
+<i><b>Fastitocalon</b></i> là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) xuất bản trên *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* được cho là của [Samwise Gamgee](../S/Samwise_Gamgee.md), người đã viết bài thơ này dựa trên "một phần truyền thuyết cũ hơn về người thú trong truyện tranh" mà [Người Hobbit](../H/Hobbits.md) thích.<sup id="cite_ref-preface_2-0" class="reference"><a href="#cite_note-preface-2">[2]</a></sup> Nhân vật trung tâm là [Fastitocalon](Fastitocalon.md), phần cuối cùng của [Cá rùa](../T/Turtle-fish.md) và bối cảnh là [Trung địa](../M/Middle-earth.md).<sup id="cite_ref-poem_3-0" class="reference"><a href="#cite_note-poem-3">[3]</a></sup>
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -63,11 +63,11 @@ Or dance, or lie down in the sun!<br/>
 
 ## Từ nguyên {#Etymology}
 
-*Fastitocalon* bắt nguồn từ từ *astitocalon* của [Shire-speech](../H/Hobbitish.md) (được dịch bằng tiếng Anh hiện đại), bản thân nó là một sự thay đổi hoặc sai lệch của [Cao-Tiên](../E/Elvish.md) *Aspido-chelōne* (được dịch bằng tiếng Hy Lạp, có nghĩa là "rùa với tấm khiên tròn (da)") và "chữ F được người dịch thuật ngữ đặt vào chỉ để làm cho cái tên trở thành điệp âm".<sup id="cite_ref-letter_4-0" class="reference"><a href="#cite_note-letter-4">[4]</a></sup>
+*Fastitocalon* bắt nguồn từ từ *astitocalon* trong [Shire-speech](../H/Hobbitish.md) (được dịch bằng tiếng Anh hiện đại), bản thân nó là một sự thay đổi hoặc sai lệch của [High-Elven](../E/Elvish.md) *Aspido-chelōne* (được dịch bằng tiếng Hy Lạp, có nghĩa là "rùa với tấm khiên tròn (da)") và "chữ F được người viết câu thêm vào chỉ để làm cho cái tên trở thành ám chỉ".<sup id="cite_ref-letter_4-0" class="reference"><a href="#cite_note-letter-4">[4]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lấy cảm hứng từ một [tiếng Anh cổ](../O/Old_English.md) thú vật xuất hiện trong <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_Book" title="wikipedia:Exeter Book">Sách Exeter</a>. Ý tưởng về rùa biển khổng lồ cuối cùng bắt nguồn từ thần thoại phương Đông, và trong các phiên bản châu Âu, quái vật này thường bị nhầm lẫn với cá voi.<sup id="cite_ref-letter_4-1" class="reference"><a href="#cite_note-letter-4">[4]</a></sup>
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lấy cảm hứng từ một người bạn thú [tiếng Anh cổ](../O/Old_English.md), xuất hiện trong <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_Book" title="wikipedia:Exeter Book">Sách Exeter</a>. Ý tưởng về rùa biển khổng lồ cuối cùng bắt nguồn từ thần thoại phương Đông, và trong các phiên bản châu Âu, quái vật này thường bị nhầm lẫn với cá voi.<sup id="cite_ref-letter_4-1" class="reference"><a href="#cite_note-letter-4">[4]</a></sup>
 
 ## Nền {#Background}
 

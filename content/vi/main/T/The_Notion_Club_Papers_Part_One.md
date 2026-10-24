@@ -46,9 +46,9 @@ categories:
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lowdham%27s_Report_on_the_Adunaic_Language&amp;action=edit&amp;redlink=1" title="Lowdham&#39;s Report on the Adunaic Language (page does not exist)">Lowdham&#39;s Report on the Adunaic Language</a></li></ol>
 </td></tr></tbody></table>
 
-<b><i>The Notion Club Papers</i> Phần Một</b> là một chương có trong *[Sauron Defeated](../S/Sauron_Defeated.md)*, là phần đầu tiên của *[The Notion Club Papers](The_Notion_Club_Papers.md)*.
+<b><i>Bài viết của Câu lạc bộ Notion</i> Phần Một</b> là một chương có trong *[Sauron Defeated](../S/Sauron_Defeated.md)*, là phần đầu tiên của *[The Notion Club Papers](The_Notion_Club_Papers.md)*.
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã chia Bài viết thành hai phần tại một số thời điểm trong quá trình soạn thảo, nhưng cuối cùng ông đã bác bỏ sự phân chia này và loại bỏ tiêu đề của mỗi phần; tuy nhiên, [Christopher Tolkien](../C/Christopher_Tolkien.md) giữ nguyên cách chia này vì lý do biên tập.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tiêu đề của Phần Một ghi:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã chia Bài viết thành hai phần tại một số thời điểm trong quá trình sáng tác, nhưng cuối cùng ông đã bác bỏ sự phân chia này và loại bỏ tiêu đề của mỗi phần; tuy nhiên, [Christopher Tolkien](../C/Christopher_Tolkien.md) giữ nguyên sự phân chia này vì lý do biên tập.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tiêu đề của Phần Một ghi:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <center>&#34;Part I <br/>The Ramblings of Michael Ramer <br/><i>Out of the Talkative Planet</i>&#34;</center>
 
@@ -80,21 +80,21 @@ categories:
 
 - "Khoa học viễn tưởng", thuật ngữ của <a class="extiw" href="http://en.wikipedia.org/wiki/Hugo_Gernsback" title="wikipedia:Hugo Gernsback">Hugo Gernsback</a>.
 - <i><a class="extiw" href="http://en.wikipedia.org/wiki/A_Voyage_to_Arcturus" title="wikipedia:A Voyage to Arcturus">Chuyến du hành tới Arcturus</a></i>, tiểu thuyết của <a class="extiw" href="http://en.wikipedia.org/wiki/David_Lindsay_(novelist)" title="wikipedia:David Lindsay (novelist)">David Lindsay</a>.
-- <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_First_Men_in_the_Moon" title="wikipedia:The First Men in the Moon">Người đầu tiên Con Người trong Mặt Trăng</a></i> và <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Time_Machine" title="wikipedia:The Time Machine">Cỗ máy thời gian</a></i>, tiểu thuyết của <a class="extiw" href="http://en.wikipedia.org/wiki/H._G._Wells" title="wikipedia:H. G. Wells">H.G. Wells</a>.
+- <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_First_Men_in_the_Moon" title="wikipedia:The First Men in the Moon">Những người đầu tiên trên mặt trăng</a></i> và <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Time_Machine" title="wikipedia:The Time Machine">Cỗ máy thời gian</a></i>, tiểu thuyết của <a class="extiw" href="http://en.wikipedia.org/wiki/H._G._Wells" title="wikipedia:H. G. Wells">H.G. Wells</a>.
     - "Cavorite", một chất hư cấu trong *The First Men in the Moon*.
-- *[The Space Trilogy](The_Space_Trilogy.md)* (chủ yếu là <i><a class="extiw" href="http://en.wikipedia.org/wiki/Out_of_the_Silent_Planet" title="wikipedia:Out of the Silent Planet">Out of the Silent Planet</a></i> và <i><a class="extiw" href="http://en.wikipedia.org/wiki/Perelandra" title="wikipedia:Perelandra">Perelandra</a></i>), một bộ truyện của [C.S. Lewis](../C/C.S._Lewis.md).
+- *[The Space Trilogy](The_Space_Trilogy.md)* (chủ yếu là <i><a class="extiw" href="http://en.wikipedia.org/wiki/Out_of_the_Silent_Planet" title="wikipedia:Out of the Silent Planet">Out of the Silent Planet</a></i> và <i><a class="extiw" href="http://en.wikipedia.org/wiki/Perelandra" title="wikipedia:Perelandra">Perelandra</a></i>), một loạt phim của [C.S. Lewis](../C/C.S._Lewis.md).
     - [Tiến sĩ. Elwin Ransom](The_Space_Trilogy.md#Elwin_Ransom), nhân vật chính của câu chuyện.
     - "Eldils", một loại sinh vật tâm linh đến từ không gian.
-    - "Cánh đồng Arbol", Hệ Mặt trời xung quanh Arbol ( Mặt Trời).
+    - "Cánh đồng Arbol", Hệ Mặt trời xung quanh Arbol (Mặt trời).
     - "Old Solar", ngôn ngữ gốc và phổ biến của Cánh đồng Arbol.
     - "Hnau", [những sinh vật hiện thân có lý trí](../I/Incarnate.md).
 - "Erewhon", một đất nước hư cấu trong tiểu thuyết <i><a class="extiw" href="http://en.wikipedia.org/wiki/Erewhon" title="wikipedia:Erewhon">Erewhon</a></i> của <a class="extiw" href="http://en.wikipedia.org/wiki/Samuel_Butler_(novelist)" title="wikipedia:Samuel Butler (novelist)">Samuel Butler</a>.
 - <i><a class="extiw" href="http://en.wikipedia.org/wiki/News_from_Nowhere" title="wikipedia:News from Nowhere">Tin tức từ hư không</a></i>, tiểu thuyết của [William Morris](../W/William_Morris.md).
 - "<a class="extiw" href="http://en.wikipedia.org/wiki/Sk%C3%AD%C3%B0bla%C3%B0nir" title="wikipedia:Skíðblaðnir">Skíðblaðnir</a>", một con tàu ma thuật trong <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Prose_Edda&amp;action=edit&amp;redlink=1" title="Prose Edda (page does not exist)">Prose Edda</a></i>.
-- <i><a class="extiw" href="http://en.wikipedia.org/wiki/Last_Men_in_London" title="wikipedia:Last Men in London">Cuối cùng Con Người ở London</a></i>, tiểu thuyết của <a class="extiw" href="http://en.wikipedia.org/wiki/Olaf_Stapledon" title="wikipedia:Olaf Stapledon">Olaf Stapledon</a>.
+- <i><a class="extiw" href="http://en.wikipedia.org/wiki/Last_Men_in_London" title="wikipedia:Last Men in London">Những người đàn ông cuối cùng ở London</a></i>, tiểu thuyết của <a class="extiw" href="http://en.wikipedia.org/wiki/Olaf_Stapledon" title="wikipedia:Olaf Stapledon">Olaf Stapledon</a>.
 - "Con lợn trên chiếc máy bơm bị hỏng", một nhân vật trong một vài bài thơ trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Sylvie_and_Bruno" title="wikipedia:Sylvie and Bruno">Sylvie và Bruno</a></i> của <a class="extiw" href="http://en.wikipedia.org/wiki/Lewis_Carroll" title="wikipedia:Lewis Carroll">Lewis Carroll</a>.
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Geoffrey_of_Monmouth" title="wikipedia:Geoffrey of Monmouth">Geoffrey xứ Monmouth</a>, tác giả cuốn *Lịch sử các vị vua nước Anh*.
-- "Elvish Kịch", thuật ngữ gợi nhớ đến "Phim truyền hình Faërian" từ *[On Fairy-Stories](../O/On_Fairy-Stories.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+- "Kịch Elvish", thuật ngữ gợi nhớ đến "Kịch Faërian" từ *[On Fairy-Stories](../O/On_Fairy-Stories.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 - Định nghĩa "tinh thể" của <a class="extiw" href="http://en.wikipedia.org/wiki/Thomas_Henry_Huxley" title="wikipedia:Thomas Henry Huxley">Thomas Henry Huxley</a> trong <i><a class="external text" href="https://archive.org/details/physiographyintr77huxl/page/59/mode/1up" rel="noreferrer noopener" target="_blank">Physiography: phần giới thiệu về nghiên cứu tự nhiên</a></i> (được trích dẫn trong [OED](../O/OED.md)).
 
 <span></span>

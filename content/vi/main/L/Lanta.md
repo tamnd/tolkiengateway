@@ -13,7 +13,7 @@ categories:
   - "Quenya verbs"
 ---
 
-<i><b>lanta</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "rơi".
+<i><b>lanta</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "ngã".
 
 ## Ví dụ {#Examples}
 

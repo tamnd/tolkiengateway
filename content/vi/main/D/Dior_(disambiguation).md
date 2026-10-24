@@ -27,10 +27,10 @@ images:
   - "Disambig.png"
 ---
 
-**Dior** dịch là "Người kế nhiệm" trong [Sindarin](../S/Sindarin.md) và có thể tham khảo:
+**Dior** dịch là "Người kế nhiệm" trong [Sindarin](../S/Sindarin.md) và có thể ám chỉ:
 
 - **[Dior Eluchíl](Dior.md) ([F.A.](../F/First_Age.md) [470](../F/First_Age_470.md) - [506](../F/First_Age_506.md)), con trai của [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md), và [Vua của Doriath](../K/King_of_Doriath.md), người đã bị giết trong [Lần giết người thân thứ hai](../S/Second_Kinslaying.md).**
-- [Dior](<Dior_(Steward_of_Gondor).md>) ([T.A.](../T/Third_Age.md) [2328](../T/Third_Age_2328.md) - [2435](../T/Third_Age_2435.md)), [Quản lý cầm quyền](../R/Ruling_Steward.md) thứ chín của [Gondor](../G/Gondor.md).
+- [Dior](<Dior_(Steward_of_Gondor).md>) ([T.A.](../T/Third_Age.md) [2328](../T/Third_Age_2328.md) - [2435](../T/Third_Age_2435.md)), [Người quản lý cầm quyền](../R/Ruling_Steward.md) thứ chín của [Gondor](../G/Gondor.md).
 
 <hr style="margin-top:15px;"/>
 

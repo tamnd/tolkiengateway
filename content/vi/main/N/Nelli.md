@@ -15,10 +15,10 @@ categories:
 
 <b>*nelli</b> hoặc có lẽ <b>*nelloi</b> hoặc <b>*neldi</b> là một từ [Telerin](../T/Telerin.md) có lẽ có nghĩa là "ca sĩ".
 
-Từ này xuất hiện trong <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Fallinelli&amp;action=edit&amp;redlink=1" title="Fallinelli (page does not exist)">Fallinelli</a></i> và *[Soloneldi](../S/Soloneldi.md)* (thực tế có thể là từ kết hợp Quenya-Telerin)
+Từ này xuất hiện trong <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Fallinelli&amp;action=edit&amp;redlink=1" title="Fallinelli (page does not exist)">Fallinelli</a></i> và *[Soloneldi](../S/Soloneldi.md)* (mà thực tế có thể là từ lai giữa Quenya-Telerin)
 
 Từ "ca sĩ" độc lập có lẽ là \**nello*.
 
 ## Từ nguyên {#Etymology}
 
-Nó có thể xuất phát từ [Primitive Elvish](../P/Primitive_Elvish.md) \**nyeldo* [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NYEL&amp;action=edit&amp;redlink=1" title="NYEL (page does not exist)">NYEL</a>.
+Nó có thể xuất phát từ [Tiên nguyên thủy](../P/Primitive_Elvish.md) \**nyeldo* [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NYEL&amp;action=edit&amp;redlink=1" title="NYEL (page does not exist)">NYEL</a>.

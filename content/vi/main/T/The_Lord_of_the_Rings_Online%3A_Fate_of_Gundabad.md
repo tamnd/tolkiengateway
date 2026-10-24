@@ -40,10 +40,10 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTRO_-_Fate_of_Gundabad_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9c/LOTRO_-_Fate_of_Gundabad_logo.png/320px-LOTRO_-_Fate_of_Gundabad_logo.png" decoding="async" loading="lazy" width="320" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9c/LOTRO_-_Fate_of_Gundabad_logo.png/480px-LOTRO_-_Fate_of_Gundabad_logo.png 1.5x, https://tolkiengateway.net/w/images/thumb/9/9c/LOTRO_-_Fate_of_Gundabad_logo.png/640px-LOTRO_-_Fate_of_Gundabad_logo.png 2x" data-file-width="800" data-file-height="450"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Lord of the Rings Online: Fate of Gundabad</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a href="../S/Standing_Stone_Games.md" title="Standing Stone Games">Standing Stone Games</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../D/Daybreak_Game_Company.md" title="Daybreak Game Company">Daybreak Game Company</a></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">Microsoft Windows</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/10_November.md" title="10 November">10 November</a> <a href="../_/2021.md" title="2021">2021</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">MMORPG</td></tr></tbody></table>
 
-<i><b>The Lord of the Rings Trực tuyến: Fate of Gundabad</b></i> là bản mở rộng thứ chín cho *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*. Các tính năng của **Cập nhật 31**:
+<i><b>Chúa tể của những chiếc nhẫn trực tuyến: Fate of Gundabad</b></i> là bản mở rộng thứ chín của *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*. Các tính năng của **Bản cập nhật 31**:
 
-- Bản mở rộng bổ sung thêm vùng "Gundabad" mới, bao gồm bảy khu vực riêng biệt; năm trong số đó nằm dưới ngọn núi và hai cái khác ở bên ngoài, ở phía bắc của ngọn núi.
-- Cốt truyện "Di sản của Durin và những thử thách của Người Lùn" được kết thúc bằng bảy chương mới diễn ra bên trong Gundabad.
+- Bản mở rộng bổ sung thêm khu vực "Gundabad" mới, bao gồm bảy khu vực riêng biệt; năm trong số đó nằm dưới ngọn núi và hai cái khác ở bên ngoài, ở phía bắc của ngọn núi.
+- Cốt truyện "Di sản của Durin và những thử thách của người lùn" được kết thúc bằng bảy chương mới diễn ra bên trong Gundabad.
 - Cụm phiên bản mới bao gồm hai phiên bản ba người và một phiên bản sáu người.
 - Giới hạn cấp độ mới là 140 được giới thiệu và các Nhiệm vụ mới được thêm vào trong Gundabad.
 
@@ -53,18 +53,18 @@ infobox:
 
 *Rangers and Ruins* được phát hành vào [16 tháng 2](../_/16_February.md), [2022](../_/2022.md).
 
-- Một cuộc đột kích mới, "The Hiddenhoard of Abnankâra", đã được phát hành, bao gồm Thân vương cuộc đối đầu cuối cùng của Durin với Hrímil Frost-heart trong kho bạc cổ xưa của Cuộc nổi dậy Greymaul.
+- Một cuộc đột kích mới, "The Hiddenhoard of Abnankâra", đã được phát hành, kể về cuộc đối đầu cuối cùng của Hoàng tử Durin với Hrímil Frost-heart trong kho bạc cổ xưa của Cuộc nổi dậy Greymaul.
 - Một khu nhà ở cao cấp mới tại Abodes of [Erebor](../E/Erebor.md) đã được ra mắt, nằm trong một trong những kho báu cuối cùng của [Smaug](../S/Smaug.md).
-- Một tiểu vùng mới, [Angle của Mitheithel](../A/Angle.md) đã được giải phóng, chứa đầy tàn tích của yêu tinh và các tiền đồn của [Rangers of the North](../R/Rangers_of_the_North.md).
-- 'Đường thưởng vật phẩm huyền thoại' mới đã được giới thiệu để bổ sung cho Hệ thống vật phẩm huyền thoại mới. Người chơi sử dụng vật phẩm XP của mình để nhận phần thưởng đặc biệt nhằm giúp tăng sức mạnh cho vật phẩm của họ.
+- Một tiểu vùng mới, [Angle of Mitheithel](../A/Angle.md) đã được phát hành, chứa đầy tàn tích của yêu tinh và các tiền đồn của [Rangers of the North](../R/Rangers_of_the_North.md).
+- 'Đường đi phần thưởng vật phẩm huyền thoại' mới được giới thiệu để bổ sung cho Hệ thống vật phẩm huyền thoại mới. Người chơi sử dụng vật phẩm XP của mình để nhận phần thưởng đặc biệt nhằm giúp tăng sức mạnh cho vật phẩm của họ.
 
 ### Cập nhật 33: Yondershire {#Update_33:_The_Yondershire}
 
 *The Yondershire* được phát hành vào [20 tháng 4](../_/20_April.md), [2022](../_/2022.md).
 
 - Bản cập nhật này được phát hành cùng với lễ kỷ niệm 15 năm *Lord of the Rings Online*. Sự kiện này diễn ra từ ngày 20 tháng 4 đến ngày 12 tháng 5.
-- Một tiểu vùng mới, "The Yondershire", đã được phát hành, lần đầu tiên kết nối trực tiếp [Ered Luin](../E/Ered_Luin.md) với phần còn lại của Trung Địa. Hobbit những ngôi làng như [Nobottle](../N/Nobottle.md), [Tighfield](Tighfield.md), [Gamwich](../G/Gamwich.md) và [Long Cleeve](../L/Long_Cleeve.md) cũng được giới thiệu.
-- Tất cả nội dung bao gồm và trước Bản mở rộng Helm's Deep, bao gồm các lớp Người giữ Rune, Người cai ngục và Beorning, cũng như chủng tộc Cao Tiên đều được cung cấp miễn phí và có sẵn cho tất cả người chơi.
+- Một tiểu vùng mới, "The Yondershire", đã được phát hành, lần đầu tiên kết nối trực tiếp [Ered Luin](../E/Ered_Luin.md) với phần còn lại của Trung Địa. Các ngôi làng của người Hobbit như [Nobottle](../N/Nobottle.md), [Tighfield](Tighfield.md), [Gamwich](../G/Gamwich.md) và [Long Cleeve](../L/Long_Cleeve.md) cũng được giới thiệu.
+- Tất cả nội dung bao gồm và trước Helm's Deep Expansion, bao gồm các lớp Rune-keeper, Warden và Beorning, cũng như chủng tộc High Elf đều được cung cấp miễn phí và có sẵn cho tất cả người chơi.
 
 <table style="margin:0 auto; width: 100%" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>

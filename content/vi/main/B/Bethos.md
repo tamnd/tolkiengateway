@@ -11,4 +11,4 @@ redirect_target: "Handir"
 redirect_fragment: "The Book of Lost Tales"
 ---
 
-Chuyển hướng đến [Handir](../H/Handir.md#The_Book_of_Lost_Tales).
+Chuyển hướng tới [Handir](../H/Handir.md#The_Book_of_Lost_Tales).

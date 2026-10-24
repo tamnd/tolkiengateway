@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Čupová, Chechula"
 ---
 
-- Chechula Čupová đã vui lòng cho phép cô thực hiện tác phẩm nghệ thuật của mình trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Chechula Čupová đã vui lòng cho phép cô sử dụng tác phẩm nghệ thuật của mình trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 9 tháng 4 năm 2025
 - Người dùng đã xin phép qua tin nhắn riêng tư: [Người dùng:Grace18](https://tolkiengateway.net/wiki/User:Grace18)

@@ -48,11 +48,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../E/Edain.md" title="Edain">Adan</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Beren</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_374.md" title="First Age 374">374</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data"><a href="../H/House_of_Bëor.md" title="House of Bëor">House of Bëor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="Belemir.md" title="Belemir">Belemir</a> and <a href="../A/Adanel.md" title="Adanel">Adanel</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data">Two unnamed children and <a href="../E/Emeldir.md" title="Emeldir">Emeldir</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Beren** (sinh [F.A.](../F/First_Age.md) [374](../F/First_Age_374.md)) là người của [Nhà Bëor](../H/House_of_Bëor.md).
+**Beren** (sinh ra [F.A.](../F/First_Age.md) [374](../F/First_Age_374.md)) là người của [Nhà Bëor](../H/House_of_Bëor.md).
 
 ## Lịch sử {#History}
 
-Beren là con trai của [Belemir](Belemir.md) — chắt của [Bëor](Bëor.md) đến [Belen](Belen.md), con trai nhỏ của Bëor— và [Adanel](../A/Adanel.md), cháu gái của chính [Marach](../M/Marach.md) thông qua con trai lớn [Malach](../M/Malach.md). Beren được cho là đã có ba người con. Người con thứ ba là [Emeldir Người có trái tim nhân hậu](../E/Emeldir.md), mẹ của [Beren Kẻ một tay](Beren.md) nổi tiếng, người được đặt theo tên của chính ông nội Beren.<sup id="cite_ref-WJwest_1-0" class="reference"><a href="#cite_note-WJwest-1">[1]</a></sup>
+Beren là con trai của [Belemir](Belemir.md) — chắt của [Bëor](Bëor.md) đến [Belen](Belen.md), con trai nhỏ của Bëor — và [Adanel](../A/Adanel.md), cháu gái của chính [Marach](../M/Marach.md) thông qua con trai lớn [Malach](../M/Malach.md). Beren được cho là đã có ba người con. Người con thứ ba là [Emeldir Người có trái tim nhân hậu](../E/Emeldir.md), mẹ của [Beren Người Một tay](Beren.md) nổi tiếng, người được đặt theo tên của chính ông nội Beren.<sup id="cite_ref-WJwest_1-0" class="reference"><a href="#cite_note-WJwest-1">[1]</a></sup>
 
 <br>
 
@@ -76,7 +76,7 @@ Beren là con trai của [Belemir](Belemir.md) — chắt của [Bëor](Bëor.md
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Có hai phiên bản của bảng phả hệ cho [Nhà Hador](../H/House_of_Hador.md). Trong phiên bản đầu tiên của bảng, có một ghi chú rằng Belemir và Adanel có *five* con và Beren là con thứ năm của họ. Trong phiên bản thứ hai, không có đề cập đến những đứa trẻ khác. Phần của phiên bản thứ hai hiển thị ở trên chỉ hiển thị Beren đầu tiên, mặc dù những đứa trẻ khác có thể đã tồn tại.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Hai anh chị em chưa được đặt tên của Emeldir đã được ghi chú trong phiên bản cuối cùng của phả hệ [Nhà Bëor](../H/House_of_Bëor.md)<sup id="cite_ref-WJwest_1-1" class="reference"><a href="#cite_note-WJwest-1">[1]</a></sup> và do đó được đưa vào bảng.
+Có hai phiên bản của bảng phả hệ dành cho [Nhà Hador](../H/House_of_Hador.md). Trong phiên bản đầu tiên của bảng, có ghi chú rằng Belemir và Adanel có *five* con và Beren là con thứ năm của họ. Trong phiên bản thứ hai, không có đề cập đến những đứa trẻ khác. Phần của phiên bản thứ hai hiển thị ở trên chỉ hiển thị Beren đầu tiên, mặc dù những đứa trẻ khác có thể đã tồn tại.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Hai anh chị em không tên của Emeldir đã được ghi chú trong phiên bản cuối cùng của phả hệ [Nhà Bëor](../H/House_of_Bëor.md)<sup id="cite_ref-WJwest_1-1" class="reference"><a href="#cite_note-WJwest-1">[1]</a></sup> và do đó được đưa vào bảng.
 
 <span></span>
 

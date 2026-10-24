@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong thư nháp gửi <a class="extiw" href="http://en.wikipedia.org/wiki/Basil_Blackwell" title="wikipedia:Basil Blackwell">Ngài Basil Blackwell</a>, Tolkien phê bình ấn bản mới của <a class="extiw" href="http://en.wikipedia.org/wiki/Henry_Sweet" title="wikipedia:Henry Sweet">Henry Sweet's</a> *Anglo-Saxon Primer*, do [Norman Davis](../N/Norman_Davis.md) sửa đổi. Tolkien lập luận rằng ấn bản sửa đổi chỉ hiện đại hóa tác phẩm gốc của Sweet mà không có cải tiến đáng kể. Anh ấy nhận thấy những thay đổi trong cách trình bày ngữ pháp là rõ ràng và tốt nhưng lại chỉ trích việc lựa chọn văn bản là không phù hợp với giáo trình đại học và yêu cầu của người mới bắt đầu trong các chương trình tiếng Anh ở trường đại học.
+Trong một bức thư nháp gửi <a class="extiw" href="http://en.wikipedia.org/wiki/Basil_Blackwell" title="wikipedia:Basil Blackwell">Sir Basil Blackwell</a>, Tolkien phê bình ấn bản mới của <a class="extiw" href="http://en.wikipedia.org/wiki/Henry_Sweet" title="wikipedia:Henry Sweet">Henry Sweet's</a> *Anglo-Saxon Primer*, được sửa đổi bởi [Norman Davis](../N/Norman_Davis.md). Tolkien lập luận rằng ấn bản sửa đổi chỉ hiện đại hóa tác phẩm gốc của Sweet mà không có cải tiến đáng kể. Ông nhận thấy những thay đổi trong cách trình bày ngữ pháp là rõ ràng và tốt nhưng lại chỉ trích việc lựa chọn văn bản là không phù hợp với giáo trình đại học và yêu cầu của người mới bắt đầu trong các chương trình tiếng Anh ở trường đại học.
 
-Tolkien nhấn mạnh sự cần thiết của một cuốn sách cơ bản thực sự mới, được tạo ra bởi người có kiến ​​thức chuyên sâu về chủ đề và kinh nghiệm giảng dạy, để đáp ứng nhu cầu học thuật hiện đại. Ông thừa nhận tầm quan trọng lịch sử của Sweet nhưng nhấn mạnh rằng các tiêu chuẩn và yêu cầu giáo dục đã phát triển đáng kể kể từ [1882](../_/1882.md). <br>
+Tolkien nhấn mạnh sự cần thiết của một cuốn sách giáo khoa thực sự mới, được tạo ra bởi một người có kiến ​​thức sâu rộng về chủ đề và kinh nghiệm giảng dạy, để đáp ứng nhu cầu học thuật đương đại. Ông thừa nhận tầm quan trọng lịch sử của Sweet nhưng nhấn mạnh rằng các tiêu chuẩn và yêu cầu giáo dục đã phát triển đáng kể kể từ [1882](../_/1882.md). <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

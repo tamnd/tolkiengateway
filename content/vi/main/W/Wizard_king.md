@@ -11,4 +11,4 @@ redirect_target: "Witch-king"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Chuyển hướng đến [Vua Phù thủy](Witch-king.md#Other_versions_of_the_legendarium).
+Chuyển hướng đến [Vua phù thủy](Witch-king.md#Other_versions_of_the_legendarium).

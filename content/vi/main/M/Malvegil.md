@@ -55,15 +55,15 @@ infobox:
 
 ## Lịch sử {#History}
 
-Malvegil là con trai của [Celebrindor](../C/Celebrindor.md) và giành được vương quyền [Arthedain](../A/Arthedain.md) sau cái chết của cha mình vào [T.A.](../T/Third_Age.md) [1272](../T/Third_Age_1272.md).<sup id="cite_ref-North_2-1" class="reference"><a href="#cite_note-North-2">[2]</a></sup>
+Malvegil là con trai của [Celebrindor](../C/Celebrindor.md) và giành được vương quyền của [Arthedain](../A/Arthedain.md) sau cái chết của cha mình vào [T.A.](../T/Third_Age.md) [1272](../T/Third_Age_1272.md).<sup id="cite_ref-North_2-1" class="reference"><a href="#cite_note-North-2">[2]</a></sup>
 
-Chính trong thời kỳ trị vì của Malvegil(c. [1300](../T/Third_Age_1300.md)), [Vua Phù thủy](../W/Witch-king.md) đã nhìn thấy cơ hội trong sự chia rẽ của [người Arnorian](../A/Arnorians.md) và ông đã đi về phía Bắc và thành lập [Angmar](../A/Angmar.md). Vương quốc này kéo theo những kẻ ác, [Orc](../O/Orcs.md) (những kẻ bắt đầu tấn công [Người Lùn](../D/Dwarves.md)) và những sinh vật sa ngã khác. Do tệ nạn ngày càng gia tăng của [Dãy Núi Sương Mù](Misty_Mountains.md), [Hobbit](../H/Hobbits.md) đã di chuyển về phía Tây và nhiều người trong số họ đã định cư ở [Bree](../B/Bree.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong thời kỳ trị vì của Malvegil (c. [1300](../T/Third_Age_1300.md)), [Vua phù thủy](../W/Witch-king.md) đã nhìn thấy cơ hội trong sự chia rẽ của [người Arnorian](../A/Arnorians.md) và ông đã đi về phía Bắc và thành lập [Angmar](../A/Angmar.md). Vương quốc này thu hút những kẻ ác, [Orc](../O/Orcs.md) (những kẻ bắt đầu tấn công [Người lùn](../D/Dwarves.md)) và những sinh vật sa ngã khác. Do những tệ nạn ngày càng tăng của [Dãy núi Sương mù](Misty_Mountains.md), [Người Hobbit](../H/Hobbits.md) đã di chuyển về phía tây và nhiều người trong số họ định cư ở [Bree](../B/Bree.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Malvegil cai trị Arthedain trong bảy mươi bảy năm. Ông sống được hai trăm lẻ năm năm, lâu hơn bất kỳ con cháu nào của ông cho đến [Aragorn](../A/Aragorn.md). Ông được con trai [Argeleb I](../A/Argeleb_I.md) kế vị vào năm [1349](../T/Third_Age_1349.md).<sup id="cite_ref-North_2-2" class="reference"><a href="#cite_note-North-2">[2]</a></sup>
+Malvegil cai trị Arthedain trong bảy mươi bảy năm. Ông sống được hai trăm lẻ năm năm, lâu hơn bất kỳ hậu duệ nào của ông cho đến [Aragorn](../A/Aragorn.md). Ông được con trai [Argeleb I](../A/Argeleb_I.md) kế vị vào năm [1349](../T/Third_Age_1349.md).<sup id="cite_ref-North_2-2" class="reference"><a href="#cite_note-North-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Malvegil* là tên [Sindarin](../S/Sindarin.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack gợi ý nó có nghĩa là "Thanh kiếm vàng" và là sự kết hợp của *[malt](Malt.md)* ("vàng") và dạng viết tắt của *megil* ("thanh kiếm").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Malvegil* là tên [Sindarin](../S/Sindarin.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack cho rằng nó có nghĩa là "Thanh kiếm vàng" và là sự kết hợp của *[malt](Malt.md)* ("vàng") và dạng viết tắt của *megil* ("thanh kiếm").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

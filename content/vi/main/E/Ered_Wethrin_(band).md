@@ -24,7 +24,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ered Wethrin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Sweden</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">epic/atmospheric black metal</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">2013-?</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">Anor<br/>Ithil</td></tr></tbody></table>
 
-**Ered Wethrin** là một ban nhạc black metal hoành tráng/có bầu không khí đến từ Thụy Điển, được thành lập vào năm 2013.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nhóm lấy tên từ [Ered Wethrin](Ered_Wethrin.md), Dãy Núi Bóng Tối giáp với [Hithlum](../H/Hithlum.md) trong [Kỷ Đệ Nhất](../F/First_Age.md). EP 2014 *All Song Ceased* của nó bao gồm một ca khúc dành riêng cho [Yavanna](../Y/Yavanna.md), một trong những [Valar](../V/Valar.md).
+**Ered Wethrin** là một ban nhạc black metal hoành tráng/có bầu không khí đến từ Thụy Điển, được thành lập vào năm 2013.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ban nhạc lấy tên từ [Ered Wethrin](Ered_Wethrin.md), Dãy núi Bóng tối giáp với [Hithlum](../H/Hithlum.md) trong [Thời đại thứ nhất](../F/First_Age.md). EP năm 2014 của nó *All Song Ceased* bao gồm một ca khúc dành riêng cho [Yavanna](../Y/Yavanna.md), một trong những [Valar](../V/Valar.md).
 
 ## Thành viên {#Members}
 
@@ -35,7 +35,7 @@ infobox:
 
 - Tất cả bài hát đã ngừng hoạt động (EP, 2014)
     1. Phần I (Bài hát của Yavanna)
-    2. Phần II (A Bóng Tối Bên kia bóng tối)
+    2. Phần II (A Darkness Beyond Dark)
 
 ## Tài liệu tham khảo {#References}
 

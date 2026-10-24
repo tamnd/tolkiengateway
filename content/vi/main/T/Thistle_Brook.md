@@ -30,7 +30,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Stream</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Thistle Brook</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../E/Eastfarthing.md" title="Eastfarthing">Eastfarthing</a> south of the <a href="../W/Woody_End.md" title="Woody End">Woody End</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Stream</td></tr><tr><th scope="row" class="tg-infobox-label">Description</th><td class="tg-infobox-data">Minor tributary of the River <a href="../S/Shirebourn.md" title="Shirebourn">Shirebourn</a></td></tr></tbody></table>
 
-**Thistle Brook** là luồng [Eastfarthing](../E/Eastfarthing.md) của [ Shire](The_Shire.md). Từ [Green Hill Country](../G/Green_Hill_Country.md) nó chảy theo hướng đông nam [Woody End](../W/Woody_End.md) và qua làng [Willowbottom](../W/Willowbottom.md) trước khi nước đổ vào Sông [Shirebourn](../S/Shirebourn.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Thistle Brook** là một dòng suối [Eastfarthing](../E/Eastfarthing.md) của [Shire](The_Shire.md). Từ [Green Hill Country](../G/Green_Hill_Country.md) nó chảy theo hướng đông nam quanh [Woody End](../W/Woody_End.md) và qua làng [Willowbottom](../W/Willowbottom.md) trước khi nước đổ vào Sông [Shirebourn](../S/Shirebourn.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Cây kế có lẽ đã mọc xung quanh nó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 

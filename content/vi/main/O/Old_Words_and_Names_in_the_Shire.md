@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Konnun_vanhat_nimet_ja_sanat"
 ---
 
-<i><b>Những từ và tên cũ trong Shire</b></i> là một chuyên luận ngắn được viết bởi [Merry Brandybuck](../M/Meriadoc_Brandybuck.md) khoảng sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md). Trong tác phẩm này Merry đã thảo luận về mối quan hệ họ hàng với [ngôn ngữ](../R/Rohan_language.md) của [Rohirrim](../R/Rohirrim.md) của những "[shire-words](../H/Hobbitish.md)" như *[mathom](../M/Mathom.md)* và các yếu tố cũ trong tên địa danh.
+<i><b>Những từ và tên cũ ở Shire</b></i> là một chuyên luận ngắn được viết bởi [Merry Brandybuck](../M/Meriadoc_Brandybuck.md) khoảng sau [Cuộc chiến trên chiếc nhẫn](../W/War_of_the_Ring.md). Trong tác phẩm này, Merry đã thảo luận về mối quan hệ họ hàng với [ngôn ngữ](../R/Rohan_language.md) của [Rohirrim](../R/Rohirrim.md) của những "[shire-words](../H/Hobbitish.md)" như *[mathom](../M/Mathom.md)* và các yếu tố cũ trong tên địa danh.
 
 Chuyên luận này được lưu giữ trong thư viện của [Bucklebury](../B/Bucklebury.md), có lẽ là một trong những tác phẩm quan trọng chưa được sao chép vào [Sách Đỏ](../R/Red_Book.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 

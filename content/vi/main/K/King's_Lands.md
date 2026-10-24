@@ -25,11 +25,11 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Kingstead_map.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/be/The_Lord_of_the_Rings_Online_-_Kingstead_map.jpg/250px-The_Lord_of_the_Rings_Online_-_Kingstead_map.jpg" decoding="async" loading="lazy" width="250" height="188" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/be/The_Lord_of_the_Rings_Online_-_Kingstead_map.jpg/375px-The_Lord_of_the_Rings_Online_-_Kingstead_map.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/be/The_Lord_of_the_Rings_Online_-_Kingstead_map.jpg/500px-The_Lord_of_the_Rings_Online_-_Kingstead_map.jpg 2x" data-file-width="1024" data-file-height="768"/></a><figcaption>Map of Kingstead in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-Đất của **Vua** là khu vực liền kề với [Edoras](../E/Edoras.md), bao gồm [Harrowdale](../H/Harrowdale.md). Với Edoras đó là phường của [Nguyên soái đầu tiên của Riddermark](../F/First_Marshal_of_the_Riddermark.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**King's Lands** là khu vực tiếp giáp với [Edoras](../E/Edoras.md), bao gồm [Harrowdale](../H/Harrowdale.md). Với Edoras, đó là sự giám hộ của [Nguyên soái đầu tiên của Riddermark](../F/First_Marshal_of_the_Riddermark.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>The area called &#34;Kingstead&#34; encompasses <a href="../H/Harrowdale.md" title="Harrowdale">Harrowdale</a> and <a href="../D/Dunharrow.md" title="Dunharrow">Dunharrow</a>. It includes the smaller hamlets of <a href="../U/Upbourn.md" title="Upbourn">Upbourn</a> and <a href="../U/Underharrow.md" title="Underharrow">Underharrow</a> to the south of <a href="../E/Edoras.md" title="Edoras">Edoras</a> as well as two larger towns north of <a href="../S/Snowbourn.md" title="Snowbourn">Snowbourn</a>: &#34;Middlemead&#34; and <a href="../E/Entwade.md" title="Entwade">Entwade</a>, the latter guarding the ford of the same name.</dd></dl>
 

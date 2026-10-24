@@ -46,11 +46,11 @@ Tính đến tháng 10 năm 2026, Tolkien Gateway hiện có tổng cộng 10.51
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Average_New_Members_by_Month.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a2/Average_New_Members_by_Month.png/250px-Average_New_Members_by_Month.png" decoding="async" loading="lazy" width="250" height="143" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a2/Average_New_Members_by_Month.png/375px-Average_New_Members_by_Month.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/a2/Average_New_Members_by_Month.png/500px-Average_New_Members_by_Month.png 2x" data-file-width="671" data-file-height="385"/></a><figcaption>Average monthly new members</figcaption></figure>
 
-1. tháng Chín 2006 (9)
+1. Tháng 9 năm 2006 (9)
 2. Tháng 6 năm 2006 (11)
 3. Tháng 8 năm 2006 (11)
 4. Tháng 4 năm 2006 (13)
-5. tháng Chín 2016 (13)
+5. Tháng 9 năm 2016 (13)
 6. Tháng 7 năm 2021 (14)
 7. Tháng 10 năm 2017 (14)
 8. Tháng 11 năm 2006 (15)

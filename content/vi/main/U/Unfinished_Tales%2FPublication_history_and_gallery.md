@@ -36,7 +36,7 @@ images:
   - "Unfinished_Tales_2026.jpeg"
 ---
 
-Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc Anh** của <i><b><a href="Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></b></i>.
+Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc Anh** của <i><b><a href="Unfinished_Tales.md" title="Unfinished Tales">Những câu chuyện chưa hoàn thành</a></b></i>.
 
 ## 1980-1990 {#1980-1990}
 
@@ -71,9 +71,9 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		</li>
 </ul>
 
-- [1980](../_/1980.md): [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md), bìa cứng, trang 472. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231797">ISBN 0048231797</a> - (bìa dựa trên tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md))
+- [1980](../_/1980.md): [George Allen & Unwin](../G/George_Allen_&_Unwin.md), bìa cứng, trang 472. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231797">ISBN 0048231797</a> - (bìa dựa trên tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md))
     - Ấn bản bìa cứng năm 1980, lần in thứ 8 ([1987](../_/1987.md))
-- [1982](../_/1982.md): Unicorn / Unwin Paperbacks, bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232084">ISBN 0048232084</a> - (ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
+- [1982](../_/1982.md): Unicorn / Unwin Bìa mềm, bìa mềm, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232084">ISBN 0048232084</a> - (ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
     - Ấn bản bìa mềm năm 1982, ấn bản thứ 9 ([1987](../_/1987.md))
 
 ## 1990-2000 {#1990-2000}
@@ -226,6 +226,6 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 
 - [2020](../_/2020.md): [HarperCollins](../H/HarperCollins.md) bìa cứng, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008387958">ISBN 0008387958</a> - (minh họa bởi [A. L.](../A/Alan_Lee.md), [J. H.](../J/John_Howe.md), [T. N.](../T/Ted_Nasmith.md))
 - [2020](../_/2020.md): [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp trượt, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008387966">ISBN 0008387966</a> - (minh họa bởi A. L., J. H., T. N.)
-- [2023](../_/2023.md): [HarperCollins](../H/HarperCollins.md) bìa cứng có áo khoác chống bụi có thể đảo ngược, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008663131">ISBN 978-0008663131</a> - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #1)
+- [2023](../_/2023.md): [HarperCollins](../H/HarperCollins.md) bìa cứng với áo khoác chống bụi có thể đảo ngược, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008663131">ISBN 978-0008663131</a> - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #1)
 - [2024](../_/2024.md): Ấn bản bìa mềm năm 2010, ấn bản thứ 18
-- [2026](../_/2026.md): [HarperCollins](../H/HarperCollins.md) bìa cứng không áo khoác, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008785697">ISBN 978-0008785697</a> - (phiên bản sưu tập)
+- [2026](../_/2026.md): [HarperCollins](../H/HarperCollins.md) bìa cứng không áo khoác, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008785697">ISBN 978-0008785697</a> - (ấn bản của người sưu tập)

@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**The Steward of Gondor** là ca khúc thứ năm trong *[The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md). Nó có cảnh [Billy Boyd](../B/Billy_Boyd.md) hát một bài hát ngắn có lời dựa trên hai khổ thơ cuối của [A Walking Song](../A/A_Walking_Song.md).
+**Người quản lý Gondor** là ca khúc thứ năm trong *[The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md). Nó có cảnh [Billy Boyd](../B/Billy_Boyd.md) hát một bài hát ngắn có lời dựa trên hai khổ thơ cuối của [A Walking Song](../A/A_Walking_Song.md).
 
 ## Lời bài hát {#Lyrics}
 

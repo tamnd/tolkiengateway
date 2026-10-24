@@ -27,7 +27,7 @@ images:
 
 **Chợ nhỏ hơn** là chợ ở [Gondolin](../G/Gondolin.md), theo phiên bản đầu tiên của [huyền thoại](Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
-Nó nằm ở phía nam thành phố và [Salgant](../S/Salgant.md) sống gần quảng trường của nó. Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), [Turgon](../T/Turgon.md) đã cử Salgant đến [Chợ Lớn](../G/Great_Market.md) để tiếp viện [Glorfindel](../G/Glorfindel.md) và [ngôi nhà của Hoa Vàng](../H/House_of_the_Golden_Flower.md), nhưng vì quá hèn nhát nên Salgant đã nói dối công ty của mình, [người dẫn chương trình Đàn hạc](../H/Host_of_the_Harp.md) và đưa họ đến Chợ Nhỏ hơn. Ở đó, người của anh ta lo lắng và nổi loạn chống lại mệnh lệnh của anh ta, và quay trở lại cung điện của nhà vua kịp thời để cứu Glorfindel.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Nó nằm ở phía nam thành phố và [Salgant](../S/Salgant.md) sống gần quảng trường của nó. Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), [Turgon](../T/Turgon.md) đã cử Salgant đến [Great Market](../G/Great_Market.md) để tiếp viện cho [Glorfindel](../G/Glorfindel.md) và [ngôi nhà của Hoa Vàng](../H/House_of_the_Golden_Flower.md), nhưng vì quá hèn nhát, Salgant đã nói dối công ty của mình, [người dẫn chương trình Harp](../H/Host_of_the_Harp.md), và đưa họ đến Chợ Nhỏ hơn. Ở đó, người của ông ta lo lắng và nổi loạn chống lại mệnh lệnh của ông ta, và quay trở lại cung điện của nhà vua kịp thời để cứu Glorfindel.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

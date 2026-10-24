@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien's World (by Randel Helms)"
 ---
 
-Chuyển hướng tới Thế giới của [Tolkien(của Randel Helms)](<Tolkien's_World_(by_Randel_Helms).md>).
+Chuyển hướng đến [Thế giới của Tolkien (của Randel Helms)](<Tolkien's_World_(by_Randel_Helms).md>).

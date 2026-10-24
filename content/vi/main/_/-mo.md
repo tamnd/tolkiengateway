@@ -18,7 +18,7 @@ sort_keys:
 
 ## Ví dụ {#Examples}
 
-- <i><a href="../I/Isilmo.md" title="Isilmo">Isil<b>mo</b></a></i> = "Người đàn ông của Mặt Trăng"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- <i><a href="../I/Isilmo.md" title="Isilmo">Isil<b>mo</b></a></i> = "Người đàn ông của mặt trăng"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - <i><a href="../U/Ulmo.md" title="Ulmo">Ul<b>mo</b></a></i> = "Người rót"<sup id="cite_ref-WJ_1-1" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup>
 - <i><a href="../C/Cirya.md" title="Cirya">Cirya</a><b>mo</b></i> = "Mariner"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - <i><a href="../T/Tar-Meneldur.md" title="Tar-Meneldur">Elentir<b>mo</b></a></i> = "Người theo dõi ngôi sao"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>

@@ -16,9 +16,9 @@ images:
 
 **Người lưu vong** có thể đề cập đến:
 
-- [Người bị đày ải Noldor](../G/Gódhellim.md), những người Noldor bị đày ải khỏi Aman
-- [Những người lưu vong của Gondolin](Exiles_of_Gondolin.md), những người sống sót của Sự sụp đổ của Gondolin
-- [Những người lưu vong của Númenor](Exiles_of_Númenor.md), những người sống sót của Sự sụp đổ của Númenor đã sáng lập Arnor và Gondor ở Trung Địa
+- [Noldor bị lưu đày](../G/Gódhellim.md), những Noldor bị lưu đày khỏi Aman
+- [Những người lưu vong của Gondolin](Exiles_of_Gondolin.md), những người sống sót sau Sự sụp đổ của Gondolin
+- [Những người Númenor lưu vong](Exiles_of_Númenor.md), những người sống sót sau Sự sụp đổ của Númenor, người đã thành lập Arnor và Gondor ở Trung Địa
 
 <hr style="margin-top:15px;"/>
 

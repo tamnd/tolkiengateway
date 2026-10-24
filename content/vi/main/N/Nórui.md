@@ -25,7 +25,7 @@ langlinks:
     url: "https://kontu.wiki/N%C3%B3rui"
 ---
 
-**Nórui** là tháng thứ 6 dương lịch của [Dúnedain](../D/Dúnedain.md). Nó còn được gọi là [Nárië](Nárië.md) trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Thành phần đầu tiên của tên, *Nór-*, bắt nguồn từ Sindarin *naur* "fire".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Thành phần thứ hai *-ui* là một kết thúc tính từ phổ biến,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> cũng xuất hiện trong Sindarin tên khác của các tháng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+**Nórui** là tháng thứ sáu trong lịch của [Dúnedain](../D/Dúnedain.md). Nó còn được gọi là [Nárië](Nárië.md) trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Thành phần đầu tiên của tên, *Nór-*, có nguồn gốc từ Sindarin *naur* "fire".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Thành phần thứ hai *-ui* là một kết thúc tính từ phổ biến,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> cũng xuất hiện trong các tên Sindarin khác của các tháng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

@@ -62,24 +62,24 @@ infobox:
 </tbody></table>
 </div>
 
-**Barahir** là [Gondor](../G/Gondorian.md) của [Kỷ Đệ Tứ](../F/Fourth_Age.md).
+**Barahir** là một [người Gondorian](../G/Gondorian.md) ở [Thời đại thứ tư](../F/Fourth_Age.md).
 
 ## Lịch sử {#History}
 
-Barahir là cháu trai của [Quản lý](../S/Steward.md) [Faramir](../F/Faramir.md), [Thân vương của Ithilien](../P/Prince_of_Ithilien.md), và Phu nhân [Éowyn](../_/Éowyn.md) của [Rohan](../R/Rohan.md).<sup id="cite_ref-prologue_2-0" class="reference"><a href="#cite_note-prologue-2">[1]</a></sup> Anh ta có thể được đặt theo tên của [một anh hùng nổi tiếng](Barahir.md) của [Kỷ Đệ Nhất](../F/First_Age.md), cha của [Beren](Beren.md) và/hoặc [một trong những người của anh ta tổ tiên](<Barahir_(Steward_of_Gondor).md>) từng giữ chức vụ [Người quản lý cai trị](../R/Ruling_Steward.md) trong [Kỷ Đệ Tam](../T/Third_Age.md).
+Barahir là cháu trai của [Quản lý](../S/Steward.md) [Faramir](../F/Faramir.md), [Hoàng tử Ithilien](../P/Prince_of_Ithilien.md), và Quý cô [Éowyn](../_/Éowyn.md) của [Rohan](../R/Rohan.md).<sup id="cite_ref-prologue_2-0" class="reference"><a href="#cite_note-prologue-2">[1]</a></sup> Ông ta có thể được đặt theo tên của [một anh hùng nổi tiếng](Barahir.md) của [Kỷ nguyên thứ nhất](../F/First_Age.md), cha của [Beren](Beren.md), và/hoặc [một trong những tổ tiên của ông](<Barahir_(Steward_of_Gondor).md>) từng giữ chức [Quản lý cai trị](../R/Ruling_Steward.md) ở [Thời đại thứ ba](../T/Third_Age.md).
 
-Barahir phát triển mạnh mẽ vào thế kỷ thứ hai của [Kỷ Đệ Tứ](../F/Fourth_Age.md) và sau cái chết của [Vua](../K/Kings_of_Gondor.md) [Aragorn II Elessar](../A/Aragorn_II_Elessar.md) ông là tác giả của *[The Tale of Aragorn and Arwen](../T/The_Tale_of_Aragorn_and_Arwen.md)*.<sup id="cite_ref-prologue_2-1" class="reference"><a href="#cite_note-prologue-2">[1]</a></sup>
+Barahir phát triển mạnh mẽ trong thế kỷ thứ hai của [Thời đại thứ tư](../F/Fourth_Age.md) và sau cái chết của [Vua](../K/Kings_of_Gondor.md) [Aragorn II Elessar](../A/Aragorn_II_Elessar.md) ông là tác giả *[The Tale of Aragorn and Arwen](../T/The_Tale_of_Aragorn_and_Arwen.md)*.<sup id="cite_ref-prologue_2-1" class="reference"><a href="#cite_note-prologue-2">[1]</a></sup>
 
-Tác phẩm của ông vẫn tồn tại ở dạng viết tắt trong [Thain Sách](../T/Thain's_Book.md).<sup id="cite_ref-prologue_2-2" class="reference"><a href="#cite_note-prologue-2">[1]</a></sup>
+Tác phẩm của ông vẫn tồn tại dưới dạng viết tắt trong [Sách của Thain](../T/Thain's_Book.md).<sup id="cite_ref-prologue_2-2" class="reference"><a href="#cite_note-prologue-2">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Barahir* là một từ [Sindarin](../S/Sindarin.md) và bao gồm *[bara](Bara.md)* ("bốc lửa; háo hức") + *[hîr](../H/Hîr.md)* ("chủ, chúa").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+*Barahir* là một từ [tiếng Sindarin](../S/Sindarin.md) và bao gồm *[bara](Bara.md)* ("bốc lửa; háo hức") + *[hîr](../H/Hîr.md)* ("chủ, chúa").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../E/Elboron.md" title="Elboron">Elboron</a> là con duy nhất được ghi nhận của <a href="../F/Faramir.md" title="Faramir">Faramir</a> và <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a>; không rõ Barahir là con của Elboron hay của một đứa con giấu tên nào khác của cặp vợ chồng.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../E/Elboron.md" title="Elboron">Elboron</a> là đứa con duy nhất được ghi nhận của <a href="../F/Faramir.md" title="Faramir">Faramir</a> và <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a>; Không rõ Barahir là con trai của Elboron hay của một đứa con giấu tên nào khác của cặp đôi.</span>
 </li>
 </ol></div></span>
 

@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**MBAR** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) về cơ bản có nghĩa là "giải quyết, thiết lập", nhưng đã có sự phát triển đáng kể về mặt ngữ nghĩa.<sup id="cite_ref-fate_1-0" class="reference"><a href="#cite_note-fate-1">[1]</a></sup>
+**MBAR** là [tiếng Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) về cơ bản có nghĩa là "ổn định, thiết lập", nhưng đã có sự phát triển đáng kể về mặt ngữ nghĩa.<sup id="cite_ref-fate_1-0" class="reference"><a href="#cite_note-fate-1">[1]</a></sup>
 
 Về nguồn gốc, MBAR có ý nghĩa đảm nhận một vị trí vững chắc theo cách có vẻ phù hợp và giải quyết các vấn đề còn vướng mắc hoặc nghi ngờ đã nảy sinh; về cơ bản để đưa ra quyết định. Nó đặc biệt được áp dụng cho khái niệm chọn một khu vực để làm nơi sinh sống của một gia đình hoặc một dân tộc và đặt nó làm "nhà"; nó còn phát triển hơn nữa để bao gồm việc xây dựng các tòa nhà và nhà ở kiên cố.<sup id="cite_ref-dwell_2-0" class="reference"><a href="#cite_note-dwell-2">[2]</a></sup>
 
@@ -26,7 +26,7 @@ MBAR cuối cùng đã phát triển hơn nữa thành các khái niệm về th
     - [Ambar](../A/Ambar.md)
     - [már](Már.md)
     - [vắt lưng](../U/Umbar.md)
-- Sindarin:
+- Tiếng Sindarin:
     - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Amar&amp;action=edit&amp;redlink=1" title="Amar (page does not exist)">Amar</a>
     - [củ dền](../A/Amarth.md)
     - [thanh](../B/Bar.md)
@@ -34,7 +34,7 @@ MBAR cuối cùng đã phát triển hơn nữa thành các khái niệm về th
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *Qenya Lexicon* xuất hiện từ gốc MBARA, từ đó có nguồn gốc từ [Qenya](../Q/Qenya.md) *mar* ("nơi ở của con người, -đất, Trái đất").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Trong [*Etymologies*](../T/The_Etymologies.md) xuất hiện từ gốc MBAR- biểu thị "ở, ở" (được bắt nguồn từ "ở, xây dựng, ở").<sup id="cite_ref-LR_5-0" class="reference"><a href="#cite_note-LR-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Trong *Qenya Lexicon* xuất hiện từ gốc MBARA, từ đó xuất hiện [Qenya](../Q/Qenya.md) *mar* ("nơi ở của con người, -đất, Trái đất").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Trong [*Etymologies*](../T/The_Etymologies.md) xuất hiện từ gốc MBAR- biểu thị "ở, ở" (được bắt nguồn từ "ở, xây dựng, ở").<sup id="cite_ref-LR_5-0" class="reference"><a href="#cite_note-LR-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Xem thêm {#See_also}
 

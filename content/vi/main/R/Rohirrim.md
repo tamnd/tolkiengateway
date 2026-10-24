@@ -77,7 +77,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../_/Éomer.md" title="Éomer">Éomer</a>, <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/The_Riders_of_Rohan.md" title="The Riders of Rohan">The Riders of Rohan</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Rohirrim**, hay **Các chúa tể ngựa**, là dân tộc ngựa, định cư ở vùng đất [Rohan](Rohan.md), được đặt theo tên của họ. Cái tên Rohirrim chủ yếu được người ngoài sử dụng: tên mà họ sử dụng cho mình là **[Eorlingas](../E/Eorlingas.md)**, theo tên vị vua [Eorl the Young](../E/Eorl_the_Young.md) của họ, người đầu tiên đưa họ đến Rohan, **Riders of Rohan** và **Riders of the Mark**. Có thể thuật ngữ **Vua Kỵ sĩ của** ám chỉ một vệ sĩ cưỡi ngựa của Vua.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Rohirrim**, hay **Các chúa tể ngựa**, là dân tộc ngựa, định cư ở vùng đất [Rohan](Rohan.md), được đặt theo tên của họ. Cái tên Rohirrim chủ yếu được người ngoài sử dụng: tên mà họ dùng cho mình là **[Eorlingas](../E/Eorlingas.md)**, theo tên vị vua [Eorl the Young](../E/Eorl_the_Young.md) của họ, người đầu tiên đưa họ đến Rohan, **Riders of Rohan** và **Riders of the Mark**. Có thể thuật ngữ **Kỵ sĩ của nhà vua** ám chỉ một vệ sĩ cưỡi ngựa của Nhà vua.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
@@ -87,75 +87,75 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../F/Faramir.md" title="Faramir">Faramir</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Trên thực tế, tổ tiên của Rohirrim là **[Éothéod](../_/Éothéod.md)**, một bộ tộc của [Người phương Bắc](../N/Northmen.md).<sup id="cite_ref-Eorl_2-0" class="reference"><a href="#cite_note-Eorl-2">[2]</a></sup> Đó là những [Trung Con Người](../M/Middle_Men.md), có liên quan đến [Edain](../E/Edain.md) của [Kỷ Đệ Nhất](../F/First_Age.md), những người không đến [Beleriand](../B/Beleriand.md), giống như những Edain khác, những người sau này được ban thưởng hòn đảo [Númenor](../N/Númenor.md) [Valar](../V/Valar.md).<sup id="cite_ref-atani_3-0" class="reference"><a href="#cite_note-atani-3">[3]</a></sup>
+Trên thực tế, tổ tiên của người Rohirrim là **[Éothéod](../_/Éothéod.md)**, một bộ tộc của [Người phương Bắc](../N/Northmen.md).<sup id="cite_ref-Eorl_2-0" class="reference"><a href="#cite_note-Eorl-2">[2]</a></sup> Đó là [Người Trung cổ](../M/Middle_Men.md), có quan hệ họ hàng với [Edain](../E/Edain.md) của [Thời đại thứ nhất](../F/First_Age.md), những người không đến [Beleriand](../B/Beleriand.md) như những người kia Edain, người sau này được [Valar](../V/Valar.md) tặng hòn đảo [Númenor](../N/Númenor.md).<sup id="cite_ref-atani_3-0" class="reference"><a href="#cite_note-atani-3">[3]</a></sup>
 
-người Gondor mô tả họ là *Middle Men*, thua kém [Cao Con Người](../N/Númenóreans.md) cả về văn hóa và dòng dõi, nhưng vượt trội hơn những *[Men of Darkness](../M/Men_of_Darkness.md)* đã tôn thờ và phục vụ [Sauron](../S/Sauron.md).
+Người Gondoria mô tả họ là *Middle Men*, thấp kém hơn [Các Thượng Nhân](../N/Númenóreans.md) cả về văn hóa và dòng dõi, nhưng vượt trội hơn *[Men of Darkness](../M/Men_of_Darkness.md)* những người đã tôn thờ và phục vụ [Sauron](../S/Sauron.md).
 
-Theo một số *simplified* quan điểm khác trong [Gondor](../G/Gondor.md), Rohirrim có lẽ là hậu duệ trực tiếp từ [Nhà Hador](../H/House_of_Hador.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Niềm tin này đã được chính Rohirrim chấp nhận và củng cố tình bạn của họ với Gondor, đồng thời nó xoa dịu niềm tự hào của người Númenor về [người Gondor](../G/Gondorians.md), người đã đầu hàng một phần lớn vương quốc của mình cho họ.<sup id="cite_ref-atani_3-1" class="reference"><a href="#cite_note-atani-3">[3]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Như vậy, The [người Gondor](../G/Gondorians.md) tin rằng Rohirrim có quan hệ họ hàng xa với họ (có nguồn gốc từ [Atanatári](../A/Atanatári.md) của [Kỷ Đệ Nhất](../F/First_Age.md)).
+Theo một số *simplified* quan điểm khác ở [Gondor](../G/Gondor.md), người Rohirrim có lẽ là hậu duệ trực tiếp từ [Nhà Hador](../H/House_of_Hador.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Niềm tin này đã được chính người Rohirrim chấp nhận và củng cố tình bạn của họ với Gondor, đồng thời nó xoa dịu niềm tự hào của người Númenor về [người Gondorian](../G/Gondorians.md), những người đã đầu hàng phần lớn vương quốc của họ cho họ.<sup id="cite_ref-atani_3-1" class="reference"><a href="#cite_note-atani-3">[3]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Do đó, [Người Gondorian](../G/Gondorians.md) tin rằng người Rohirrim có quan hệ họ hàng xa với họ (hậu duệ của [Atanatári](../A/Atanatári.md) của [Thời đại thứ nhất](../F/First_Age.md)).
 
-Đồng minh lâu đời của Gondor, Éothéod đang sống trong [Thung lũng Anduin](../V/Vales_of_Anduin.md),<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> nhưng đã chuyển đến [Calenardhon](../C/Calenardhon.md) và được cấp cho họ vĩnh viễn bởi [Người quản lý cầm quyền](../S/Stewards_of_Gondor.md) của [Gondor](../G/Gondor.md), [Cirion](../C/Cirion.md) để khen thưởng cho sự hỗ trợ mà họ đã đưa ra Gondor vào thời điểm rất cần thiết, [Trận chiến trên Cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md).<sup id="cite_ref-Eorl_2-1" class="reference"><a href="#cite_note-Eorl-2">[2]</a></sup>
+Đồng minh lâu đời của Gondor, Éothéod đang sống ở [Thung lũng Anduin](../V/Vales_of_Anduin.md),<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> nhưng đã chuyển đến [Calenardhon](../C/Calenardhon.md) nơi được [Người quản lý cai trị](../S/Stewards_of_Gondor.md) của [Gondor](../G/Gondor.md) cấp vĩnh viễn, [Cirion](../C/Cirion.md) để tưởng thưởng cho sự giúp đỡ mà họ đã dành cho Gondor vào thời điểm rất cần thiết, [Trận chiến trên cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md).<sup id="cite_ref-Eorl_2-1" class="reference"><a href="#cite_note-Eorl-2">[2]</a></sup>
 
-Sau đó Calenardhon được đổi tên thành [Rohan](Rohan.md) (*Horse-land*) bởi [Quản lý](Ruling_Steward.md) [Hallas](../H/Hallas.md) sau nhiều con ngựa của họ. Bởi chính Rohirrim, Rohan thường được gọi là **[Dấu ấn](../T/The_Mark.md)**.
+Sau đó Calenardhon được [Rohan](Rohan.md) (*Horse-land*) đổi tên thành [Quản lý](Ruling_Steward.md) [Hallas](../H/Hallas.md) sau nhiều con ngựa của họ. Bởi chính người Rohirrim, Rohan thường được gọi là **[The Mark](../T/The_Mark.md)**.
 
-Để biết lịch sử tiếp theo của Rohirrim với tư cách là đồng minh của Gondor, hãy xem [Rohan#History](Rohan.md#History)
+Để biết lịch sử tiếp theo của người Rohirrim với tư cách là đồng minh của Gondor, hãy xem [Rohan#History](Rohan.md#History)
 
 ## Đặc điểm {#Characteristics}
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Rohirrim.jpg.md"><img src="https://tolkiengateway.net/w/images/b/b4/John_Howe_-_Rohirrim.jpg" decoding="async" loading="lazy" width="197" height="402" class="mw-file-element" data-file-width="197" data-file-height="402"/></a><figcaption><i>Rohirrim</i> by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure>
 
-Rohirrim cao, tóc vàng và hầu hết có mắt xanh. Họ đánh giá cao những con ngựa của mình hơn bất cứ thứ gì và toàn bộ nền văn hóa của họ đều dựa trên những con ngựa này. Họ có ít thành phố nhưng sống ở nhiều ngôi làng trên vùng đồng bằng Rohan.
+Người Rohirrim cao, tóc vàng và hầu hết có mắt xanh. Họ đánh giá cao những con ngựa của mình hơn bất cứ thứ gì và toàn bộ nền văn hóa của họ đều dựa trên những con ngựa này. Họ có ít thành phố nhưng sống ở nhiều ngôi làng trên vùng đồng bằng Rohan.
 
 <dl><dd><i>They are proud and wilful, but they are true-hearted, generous in thought and deed; bold but not cruel; wise but unlearned, writing no books but singing many songs, after the manner of the children of Men before the Dark Years. </i> — <a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></dd></dl>
 
 ## Văn hóa {#Culture}
 
-Rohirrim đã từng tiếp xúc với [Tiên tộc](../E/Elves.md) từ xa xưa và biết đến [Eru](../I/Ilúvatar.md), nhưng cũng giống như Dúnedain họ không thờ phụng ông ở bất kỳ ngôi đền nào. Họ dường như đánh giá cao [Vala](../V/Valar.md) [Oromë](../O/Oromë.md) Thợ săn, người mà họ gọi là [Béma](../O/Oromë.md#History).
+Người Rohirrim đã từng tiếp xúc với [Yêu tinh](../E/Elves.md) trong lịch sử xa xưa của họ và biết đến [Eru](../I/Ilúvatar.md), nhưng giống như người Dúnedain, họ không tôn thờ ông ta trong bất kỳ ngôi đền nào. Họ dường như rất coi trọng [Vala](../V/Valar.md) [Oromë](../O/Oromë.md) Thợ săn, người mà họ gọi là [Béma](../O/Oromë.md#History).
 
-Họ đo thời gian bằng lịch lấy từ [Con Người của Thung lũng Anduin](../M/Men_of_the_Vales_of_Anduin.md) và có những điểm tương đồng rõ ràng với [Lịch của Shire](../S/Shire_Calendar.md) và [Bree](../B/Bree_Calendar.md) cũng như với lịch của [Dale](../D/Dale.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Những điểm tương đồng này đã được [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) ghi nhận trong tác phẩm của ông *[Reckoning of Years](Reckoning_of_Years.md)*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Họ đo thời gian bằng lịch của [Men of the Vales of Anduin](../M/Men_of_the_Vales_of_Anduin.md) và có những điểm tương đồng rõ ràng với [Lịch của Shire](../S/Shire_Calendar.md) và [Bree](../B/Bree_Calendar.md) cũng như của [Dale](../D/Dale.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Những điểm tương đồng này đã được [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) ghi nhận trong tác phẩm của ông *[Reckoning of Years](Reckoning_of_Years.md)*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
-Họ được cai trị bởi dòng dõi các vị vua có nguồn gốc từ Eorl the Young, người đầu tiên đưa họ đến Rohan, và trong thời kỳ chiến tranh, tất cả những người đàn ông tài năng đều cưỡi ngựa đến gặp Muster của Rohan.
+Họ được cai trị bởi dòng dõi các vị vua có nguồn gốc từ Eorl Trẻ, người đầu tiên đưa họ tới Rohan, và trong thời kỳ chiến tranh, tất cả những người tài giỏi đều cưỡi ngựa đến gặp Muster của Rohan.
 
 ### [Ngựa](../H/Horses.md) {#Horses}
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Peter_Xavier_Price_-_The_Ride_of_the_Rohirrim.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a9/Peter_Xavier_Price_-_The_Ride_of_the_Rohirrim.jpg/300px-Peter_Xavier_Price_-_The_Ride_of_the_Rohirrim.jpg" decoding="async" loading="lazy" width="300" height="414" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a9/Peter_Xavier_Price_-_The_Ride_of_the_Rohirrim.jpg/450px-Peter_Xavier_Price_-_The_Ride_of_the_Rohirrim.jpg 1.5x, https://tolkiengateway.net/w/images/a/a9/Peter_Xavier_Price_-_The_Ride_of_the_Rohirrim.jpg 2x" data-file-width="507" data-file-height="700"/></a><figcaption><i>The Ride of the Rohirrim</i> by <a href="../P/Peter_Xavier_Price.md" title="Peter Xavier Price">Peter Xavier Price</a></figcaption></figure>
 
-Rohirrim nổi tiếng là những kỵ sĩ, bậc thầy và nhà chăn nuôi lành nghề. Trong số những con ngựa của Rohirrim có [Mearas](../M/Mearas.md) nổi tiếng, những con ngựa cao quý nhất và nhanh nhất từng đi lang thang [Arda](../A/Arda.md); [Shadowfax](../S/Shadowfax.md) là Meara vĩ đại nhất. Vào thời điểm này, có rất ít Meara còn lại ở Trung Địa, nhưng vẫn có đủ quần thể sinh sản. Quân đội của Rohan hầu như chỉ có kỵ binh, được chia thành các đơn vị không chính quy được gọi là [éoreds](../_/Éoreds.md). Quân đội của Rohan giống một lực lượng dân quân được huấn luyện bài bản được huy động trong thời chiến, với quân đội thường trực thực sự tương đối nhỏ. Lực lượng quân nhân chuyên nghiệp của Rohan có thể chỉ giới hạn ở lực lượng cận vệ hoàng gia ở Edoras.
+Người Rohirrim nổi tiếng là những kỵ sĩ, bậc thầy và nhà chăn nuôi lành nghề. Trong số những con ngựa của người Rohirrim có [Mearas](../M/Mearas.md) nổi tiếng, những con ngựa cao quý nhất và nhanh nhất từng đi lang thang [Arda](../A/Arda.md); [Shadowfax](../S/Shadowfax.md) là Meara vĩ đại nhất. Có rất ít Meara còn lại ở Trung Địa vào thời điểm này, nhưng vẫn có đủ quần thể sinh sản. Quân đội của Rohan hầu như chỉ có kỵ binh, được chia thành các đơn vị không chính quy được gọi là [éoreds](../_/Éoreds.md). Quân đội của Rohan giống một lực lượng dân quân được huấn luyện bài bản được triệu tập trong thời chiến, với quân đội thường trực thực sự tương đối nhỏ. Những người lính chuyên nghiệp của Rohan có thể chỉ giới hạn ở lực lượng cận vệ hoàng gia ở Edoras.
 
-Chính vì mối liên hệ chặt chẽ với ngựa, cả trong chiến tranh và thời bình, mà chúng đã có được cái tên nổi tiếng hiện nay. *Rohirrim* (hay đúng hơn là *Rochirrim*) là [Sindarin](../S/Sindarin.md) dành cho "Chúa ngựa" và *Rohan* (hoặc *Rochand*) có nghĩa là "Vùng đất của Chúa ngựa". Những cái tên này do Hallas, con trai của Cirion Quản lý nghĩ ra.
+Chính vì mối liên hệ chặt chẽ với ngựa, cả trong chiến tranh và thời bình, mà chúng đã có được cái tên nổi tiếng hiện nay. *Rohirrim* (hay đúng hơn là *Rochirrim*) là [Sindarin](../S/Sindarin.md) có nghĩa là "Chúa ngựa" và *Rohan* (hoặc *Rochand*) có nghĩa là "Vùng đất của Chúa ngựa". Những cái tên này do Hallas, con trai của Quản lý Cirion nghĩ ra.
 
-Trong những ngày đầu của [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), có tin đồn rằng Rohirrim cung cấp ngựa cho quân đội Sauron. Những tin đồn này rõ ràng là sai sự thật: Rohirrim coi trọng những con ngựa của họ hơn bất cứ thứ gì và sẽ không bao giờ đuổi chúng đi, kể cả để cống nạp. Tuy nhiên, những tin đồn này có tác dụng nhất định ở chỗ chúng che khuất sự thật rằng Saruman là người đã ngã xuống, chứ không phải Rohan. Cơ sở của tin đồn là Sauron [Orc](../O/Orcs.md) trong các cuộc đột kích vào Rohan đã đánh cắp ngựa của họ để sử dụng cho quân đội của Mordor, nhưng đây hoàn toàn là hành vi trộm cắp khiến Rohirrim tức giận với Sauron.
+Trong những ngày đầu của [Chiến tranh Nhẫn](../W/War_of_the_Ring.md), có tin đồn rằng người Rohirrim cung cấp ngựa cho quân đội của Sauron. Những tin đồn này rõ ràng là sai sự thật: người Rohirrim coi trọng ngựa của họ hơn bất cứ thứ gì và sẽ không bao giờ đuổi chúng đi, kể cả để cống nạp. Tuy nhiên, những tin đồn này có tác dụng nào đó ở chỗ chúng che khuất sự thật rằng chính Saruman đã ngã xuống chứ không phải Rohan. Cơ sở của tin đồn là [Orc](../O/Orcs.md) của Sauron khi đột kích vào Rohan đã đánh cắp ngựa của họ để sử dụng cho quân đội của Mordor, nhưng đây hoàn toàn là hành vi trộm cắp khiến người Rohirrim tức giận chống lại Sauron.
 
 ### Ngôn ngữ {#Language}
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Rohanese.md" title="Rohanese">Rohanese</a></b></div></div>
 
-Người Rohirrim nói một ngôn ngữ có nguồn gốc từ ngôn ngữ [Éothéod](../_/Éothéod.md), liên quan đến [tiếng Mannish phía Bắc](../N/Northern_Mannish.md) của [Rhovanion](Rhovanion.md). So với [Westron](../W/Westron.md), nó gần như cổ xưa và không dễ hiểu đối với người nói Westron.
+Người Rohirrim nói một ngôn ngữ bắt nguồn từ ngôn ngữ của [Éothéod](../_/Éothéod.md), liên quan đến [tiếng Mannish phía Bắc](../N/Northern_Mannish.md) của [Rhovanion](Rhovanion.md). So với [Westron](../W/Westron.md), nó hầu như cổ xưa và không dễ hiểu đối với những người nói tiếng Westron.
 
-Các lãnh chúa của Rohirrim sử dụng [Westron](../W/Westron.md) một cách thoải mái, theo phong cách duyên dáng, cao quý và cổ kính của [người Gondor](../G/Gondorians.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+Các lãnh chúa Rohirrim sử dụng [Westron](../W/Westron.md) một cách tự do, theo phong cách duyên dáng, cao quý và cổ xưa của [người Gondorian](../G/Gondorians.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 Người Rohirrim viết bằng phiên bản [Mannish](../M/Mannish.md) của [cirth](../C/Cirth.md), mặc dù họ không có văn học và thích truyền thống truyền miệng hơn.
 
-## Quan trọng Rohirrim {#Important_Rohirrim}
+## Rohirrim quan trọng {#Important_Rohirrim}
 
-- [Những vị vua của Rohan](../K/Kings_of_Rohan.md)
+- [Các vị vua của Rohan](../K/Kings_of_Rohan.md)
 - [Théodred](../T/Théodred.md)
 - [Éowyn](../_/Éowyn.md)
-- [Gríma Wormtongue](../G/Gríma.md)
+- [Lưỡi giun Grima](../G/Gríma.md)
 - [Erkenbrand](../E/Erkenbrand.md)
-- [Elfhelm](../E/Elfhelm.md)
+- [Yêu Tinh](../E/Elfhelm.md)
 - Những người tham gia khác nhau trong cuộc chiến cuối cùng
 
 ## Từ nguyên {#Etymology}
 
-*Rohirrim* là tên [Sindarin](../S/Sindarin.md)<sup id="cite_ref-Eorl306_11-0" class="reference"><a href="#cite_note-Eorl306-11">[11]</a></sup> có nghĩa là "Chúa ngựa"<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> hoặc "chủ nhà của Chúa ngựa"<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>. Nó bao gồm các phần tử *[roch](../H/Horses.md#Names)* ("ngựa"), *[hîr](../H/Hîr.md)* ("chúa", "chủ") và hậu tố số nhiều của lớp *[rĩm](Rim.md)* ("chủ", "số lớn").<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Tên *Rohirrim* lần đầu tiên được đặt cho họ bởi [Hallas](../H/Hallas.md), con trai và người kế vị của [Quản lý](../S/Steward_of_Gondor.md) [Cirion](../C/Cirion.md) của [Gondor](../G/Gondor.md) và được sử dụng trong Gondor và thường là do chính Rohirrim thực hiện.<sup id="cite_ref-Eorl306_11-1" class="reference"><a href="#cite_note-Eorl306-11">[11]</a></sup>
+*Rohirrim* là tên [Sindarin](../S/Sindarin.md)<sup id="cite_ref-Eorl306_11-0" class="reference"><a href="#cite_note-Eorl306-11">[11]</a></sup> có nghĩa là "Chúa ngựa"<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> hoặc "chủ nhà của Chúa ngựa"<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>. Nó bao gồm các phần tử *[roch](../H/Horses.md#Names)* ("ngựa"), *[hîr](../H/Hîr.md)* ("chúa", "chủ") và hậu tố số nhiều của lớp *[rĩm](Rim.md)* ("chủ", "số lớn").<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Tên *Rohirrim* lần đầu tiên được đặt cho họ bởi [Hallas](../H/Hallas.md), con trai và người kế vị của [Quản lý](../S/Steward_of_Gondor.md) [Cirion](../C/Cirion.md) của [Gondor](../G/Gondor.md) và được sử dụng ở Gondor cũng như thường được chính người Rohirrim sử dụng.<sup id="cite_ref-Eorl306_11-1" class="reference"><a href="#cite_note-Eorl306-11">[11]</a></sup>
 
 ## Tên khác {#Other_names}
 
-Những cái tên mà Rohirrim sử dụng cho mình là **[Eorlingas](../E/Eorlingas.md)**, theo tên vị vua [Eorl the Young](../E/Eorl_the_Young.md) của họ, người đầu tiên đưa họ đến Rohan, **Kỵ sĩ của Rohan**<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> và **Riders of the Mark**<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>.
+Những cái tên mà người Rohirrim sử dụng cho mình là **[Eorlingas](../E/Eorlingas.md)**, theo tên vị vua [Eorl the Young](../E/Eorl_the_Young.md) của họ, người đầu tiên đưa họ đến Rohan, **Những kỵ sĩ của Rohan**<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> và **Những kỵ sĩ vùng Mark**<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>.
 
 ## Xem thêm {#See_also}
 
-- [Những vị vua của Rohan](../K/Kings_of_Rohan.md)
+- [Các vị vua của Rohan](../K/Kings_of_Rohan.md)
 
 <span></span>
 

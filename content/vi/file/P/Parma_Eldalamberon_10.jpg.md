@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Cái chết của Glorfindel" của Patrick Wynne. Hình vẽ trang bìa [*Parma Eldalamberon*số 10](../../main/P/Parma_Eldalamberon_10.md).
+"Cái chết của Glorfindel" của Patrick Wynne. Hình vẽ trang bìa [*Parma Eldalamberon* số 10](../../main/P/Parma_Eldalamberon_10.md).
 
 ## Giấy phép {#Licensing}
 

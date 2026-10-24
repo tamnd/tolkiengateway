@@ -30,11 +30,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 68</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/12_May.md" title="12 May">12 May</a> <a href="../_/1944.md" title="1944">1944</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data">On the way to <a href="../M/Mordor.md" title="Mordor">Mordor</a> in <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i></td></tr></tbody></table>
 
-**Thư 68** là một bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
+**Thư 68** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã dành cả buổi sáng để viết và có mặt [Minas Morghul](../M/Minas_Morgul.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Anh ấy chưa nhận được các bản sao mới được đánh máy để gửi tới Christopher vì anh ấy đang cố gắng và nóng lòng muốn tạo ra những bản sao đẹp. Anh ta bịa một câu từ [Faramir](../F/Faramir.md) đến [Frodo](../F/Frodo_Baggins.md): "Khi em trở lại vùng đất của người sống, và chúng ta kể lại câu chuyện của mình, ngồi bên bức tường phơi nắng, cười nhạo nỗi đau xưa, em sẽ kể cho anh nghe."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup>
+Tolkien đã dành cả buổi sáng để viết và có mặt [Minas Morghul](../M/Minas_Morgul.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Ông chưa nhận được các bản sao mới được đánh máy để gửi cho Christopher vì ông đang cố gắng và nóng lòng muốn tạo ra những bản sao đẹp. Ông đã đặt một câu giữa [Faramir](../F/Faramir.md) với [Frodo](../F/Frodo_Baggins.md): "Khi em quay trở lại vùng đất của người sống, và chúng ta kể lại câu chuyện của mình, ngồi bên bức tường dưới ánh nắng, cười nhạo nỗi đau cũ, em sẽ kể cho anh nghe."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup>
 
 ## Ghi chú {#Notes}
 

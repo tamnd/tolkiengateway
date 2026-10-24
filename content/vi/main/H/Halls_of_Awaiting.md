@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Halls of Mandos"
 ---
 
-Chuyển hướng đến [Hội trường của Mandos](Halls_of_Mandos.md).
+Chuyển hướng tới [Halls of Mandos](Halls_of_Mandos.md).

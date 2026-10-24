@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh quảng cáo của [Lego The Lord of the Rings: Trò chơi điện tử](../../main/L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md).
+Hình ảnh quảng cáo của [Lego The Lord of the Rings: The Video Game](../../main/L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md).
 
 ## Giấy phép {#Licensing}
 

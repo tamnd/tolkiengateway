@@ -30,7 +30,7 @@ infobox:
 
 <i><b>Attack of Taste</b></i> là cuốn sách tập hợp những nhận định của các tác giả về những cuốn sách mà họ yêu thích khi còn là thanh thiếu niên. Cuốn sách được biên soạn bởi [Evelyn B. Byrne](../E/Evelyn_B._Byrne.md) và Otto M. Penzler. Nó được xuất bản ở New York bởi Gotham Book Mart vào năm 1971. Cuốn sách được giới hạn ở 500 bản có chữ ký của các biên tập viên, mặc dù một số bản không có chữ ký đã được nhìn thấy.
 
-Trong tuyển tập chỉ có một đoạn văn (trên trang 43) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong đó ông nói rằng ông không quan tâm đến văn học khi còn là thiếu niên, thay vào đó ông thích khoa học, chẳng hạn như thực vật học và thiên văn học. "Tập sách quý giá nhất" của Tolkien là *Flowers of the Field* của <a class="new" href="https://tolkiengateway.net/w/index.php?title=C.A._Johns&amp;action=edit&amp;redlink=1" title="C.A. Johns (page does not exist)">C.A. Johns</a>.
+Trong tuyển tập có một đoạn văn (ở trang 43) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong đó ông nói rằng ông không quan tâm đến văn học khi còn là thiếu niên, thay vào đó ông thích khoa học, chẳng hạn như thực vật học và thiên văn học. "Tập sách quý giá nhất" của Tolkien là *Flowers of the Field* của <a class="new" href="https://tolkiengateway.net/w/index.php?title=C.A._Johns&amp;action=edit&amp;redlink=1" title="C.A. Johns (page does not exist)">C.A. Johns</a>.
 
 ## Từ phần giới thiệu {#From_the_Introduction}
 
@@ -38,7 +38,7 @@ Trong tuyển tập chỉ có một đoạn văn (trên trang 43) của [J.R.R. 
 
 ## Xem thêm {#See_also}
 
-- [Thư gửi cô E. Byrne](<../L/Letter_to_Miss_E._Byrne_(1_March_1968).md>) (thư từ Tolkien)
+- [Thư gửi cô E. Byrne](<../L/Letter_to_Miss_E._Byrne_(1_March_1968).md>) (thư của Tolkien)
 
 <span></span>
 

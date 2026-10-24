@@ -25,7 +25,7 @@ Chúng tôi có hệ điều hành gốc <a class="new" href="https://tolkiengat
 ## Cùng nguồn gốc {#Cognate}
 
 - [Quenya](../Q/Quenya.md) *[otso](Otso.md)*
-- [Sindarin](../S/Sindarin.md) *[odog](Odog.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[odog](Odog.md)*
 
 ## Phiên bản khác {#Other_versions}
 

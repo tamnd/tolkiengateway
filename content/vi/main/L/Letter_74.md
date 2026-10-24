@@ -34,19 +34,19 @@ infobox:
 
 ## Nền {#Background}
 
-Vào [22 tháng 6](../_/22_June.md) Unwin đã gửi Tolkien một tấm séc đáng kể về tiền bản quyền trên *[The Hobbit](../T/The_Hobbit.md)* và cho ông biết rằng con trai ông [Rayner Unwin](../R/Rayner_Unwin.md) đang đọc tiếng Anh ở mức Oxford khi còn là học viên hải quân.
+Vào [22 tháng 6](../_/22_June.md) Unwin đã gửi cho Tolkien một tấm séc đáng kể tiền bản quyền trên *[The Hobbit](../T/The_Hobbit.md)* và cho ông biết rằng con trai ông [Rayner Unwin](../R/Rayner_Unwin.md) đang đọc tiếng Anh tại Oxford với tư cách là một thiếu sinh quân hải quân.
 
 ## Tóm tắt {#Summary}
 
-Tolkien rất vui vì có cơ hội gặp Rayner. Đồng thời anh cũng đau buồn vì chiến tranh đã cuốn anh đi. Tolkien cho biết cậu con trai út<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup> của ông đã bị mang đi – trong lúc đang đánh máy, hiệu chỉnh *The Hobbit* phần tiếp theo và đang lập bản đồ – và hiện đang ở rất xa và khốn khổ ở [Trạng thái Tự do Cam](../O/Orange_Free_State.md). Con trai lớn của ông, một thương binh,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[notes 2]</a></sup> đang ở trường Cao đẳng Trinity để cố gắng làm việc và hồi phục.
+Tolkien rất vui vì có cơ hội gặp Rayner. Đồng thời anh cũng đau buồn vì chiến tranh đã cuốn anh đi. Tolkien cho biết cậu con trai út<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup> của ông đã bị mang đi – trong lúc đang đánh máy, sửa đổi *The Hobbit* phần tiếp theo và đang lập bản đồ – và hiện đang ở rất xa và khốn khổ ở [Trạng thái Tự do Cam](../O/Orange_Free_State.md). Con trai lớn của ông, một thương binh,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[notes 2]</a></sup> đang ở trường Cao đẳng Trinity để cố gắng làm việc và hồi phục.
 
-Tolkien đã không viết thư cho Unwin một thời gian. Anh ấy nói lẽ ra anh ấy nên cảm ơn anh ấy vì bức thư và hai bản sao của *The Hobbit*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[notes 3]</a></sup> Mặc dù không thể thực hiện được công việc nào trong một năm, nhưng gần đây Tolkien đã có thể xúc tiến phần tiếp theo trước khi có thể hoàn tất. Anh hy vọng Unwin vẫn có chút hứng thú với nó, bất chấp tình trạng thiếu giấy. Việc đánh máy rất khó khăn và tốn kém và không có ai sửa máy đánh chữ của anh ấy khi nó bị hỏng. Tuy nhiên, anh ấy sẽ sớm gửi một phần trong số đó cho Unwin.
+Tolkien đã không viết thư cho Unwin một thời gian. Ông nói lẽ ra ông nên cảm ơn ông vì bức thư và hai bản sao của *The Hobbit*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[notes 3]</a></sup> Mặc dù không thể thực hiện được công việc nào trong một năm, nhưng gần đây Tolkien đã có thể tiếp tục thực hiện phần tiếp theo trước khi đi đến hồi kết. Anh hy vọng Unwin vẫn có chút hứng thú với nó, bất chấp tình trạng thiếu giấy. Việc đánh máy rất khó khăn và tốn kém và không có ai sửa máy đánh chữ của ông khi nó bị hỏng. Tuy nhiên, ông sẽ sớm gửi một phần trong số đó cho Unwin.
 
-Anh cảm ơn Unwin vì tấm séc. Anh ấy nói rằng nó sẽ rất hữu ích vì anh ấy có những khoản nợ lớn khi cố gắng hoàn thành việc học của một gia đình khi chiến tranh đã cướp đi hầu hết phương tiện.
+Anh cảm ơn Unwin vì tấm séc. Ông nói rằng nó sẽ rất hữu ích vì ông có những khoản nợ lớn khi cố gắng hoàn thành việc học của một gia đình khi chiến tranh đã cướp đi hầu hết phương tiện.
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Trong phần tiếp theo của đoạn đầu tiên, Tolkien tiếc nuối vì đã không biết sớm hơn rằng Rayner đã có mặt tại Oxford, và chúc mừng thành tích của anh ấy trong kỳ thi.
+Trong phần tiếp theo của đoạn đầu tiên, Tolkien tiếc nuối vì đã không biết sớm hơn rằng Rayner đã theo học tại Oxford và chúc mừng thành tích của ông trong kỳ thi.
 
 ## Ghi chú {#Notes}
 

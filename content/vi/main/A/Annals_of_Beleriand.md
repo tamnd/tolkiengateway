@@ -17,19 +17,19 @@ langlinks:
     url: "https://kontu.wiki/Beleriandin_annaalit"
 ---
 
-**Biên niên sử của Beleriand** hoặc **Grey Annals** là số liệu về [sáu thế kỷ qua](../Y/Years_of_the_Sun.md) của [Kỷ Đệ Nhất](../F/First_Age.md) diễn ra ở [Beleriand](../B/Beleriand.md), được [Pengolod](../P/Pengolod.md) viết theo phong cách ghi chép.
+**Biên niên sử của Beleriand** hoặc **Biên niên sử xám** là số liệu của [sáu thế kỷ qua](../Y/Years_of_the_Sun.md) của [Thời đại thứ nhất](../F/First_Age.md) diễn ra ở [Beleriand](../B/Beleriand.md), được viết theo phong cách biên niên sử bởi [Pengolod](../P/Pengolod.md).
 
 ## Lịch sử {#History}
 
-Những điều này và [Biên niên sử của Valinor](Annals_of_Valinor.md) được viết bởi Pengolod the Wise of [Gondolin](../G/Gondolin.md), trước khi [sự sụp đổ](../F/Fall_of_Gondolin.md) của nó, và sau đó tại [Havens of Sirion](../H/Havens_of_Sirion.md) và tại [Tavrobel](../T/Tavrobel.md) ở [Tol Eressëa](../T/Tol_Eressëa.md) sau khi ông trở về <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Tây</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Một phiên bản sau này nói rằng chúng được tạo ra ở Aman bởi những người sống sót ở Havens và Doriath, và được mở rộng từ các ghi chép và ký ức về tàn tích của Noldor của [Nargothrond](../N/Nargothrond.md) và Gondolin.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Những điều này và [Biên niên sử của Valinor](Annals_of_Valinor.md) được viết bởi Pengolod the Wise of [Gondolin](../G/Gondolin.md), trước khi [sự sụp đổ](../F/Fall_of_Gondolin.md) và sau đó tại [Havens of Sirion](../H/Havens_of_Sirion.md) và tại [Tavrobel](../T/Tavrobel.md) ở [Tol Eressëa](../T/Tol_Eressëa.md) sau khi ông trở về <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Tây</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Một phiên bản sau này nói rằng chúng được tạo ra ở Aman bởi những người sống sót ở Havens và Doriath, và được mở rộng từ các ghi chép và ký ức về tàn tích của Noldor của [Nargothrond](../N/Nargothrond.md) và Gondolin.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Lịch sử thế giới thực {#Real_world_history}
 
-[Tolkien](../T/Tolkien.md) bắt đầu viết Biên niên sử này cùng với Biên niên sử của Valinor như những tác phẩm song song với [Silmarillion](<../Q/Quenta_Silmarillion_(Lost_Road).md>), để giúp anh ta xử lý lịch sử phức tạp của [Kỷ Đệ Nhất](../F/First_Age.md). Vì vậy, có nhiều phiên bản khác nhau gắn liền với phiên bản hiện tại của Silmarillion mà anh ấy đang viết vào lúc này.
+[Tolkien](../T/Tolkien.md) bắt đầu viết những Biên niên sử này cùng với Biên niên sử của Valinor như những tác phẩm song song với [Silmarillion](<../Q/Quenta_Silmarillion_(Lost_Road).md>), để giúp ông ta xử lý lịch sử phức tạp của [Thời đại thứ nhất](../F/First_Age.md). Vì vậy, có nhiều phiên bản khác nhau gắn liền với phiên bản hiện tại của Silmarillion mà ông đang viết vào lúc này.
 
-- "[Biên niên sử đầu tiên của Beleriand](../T/The_Earliest_Annals_of_Beleriand.md)", viết vào đầu những năm 1930. Được xuất bản trong *[The Shaping of Middle-earth](../T/The_Shaping_of_Middle-earth.md)*.
-- "[Biên niên sử sau này của Beleriand](../T/The_Later_Annals_of_Beleriand.md)", viết vào cuối những năm 1930. Được xuất bản trong *[The Lost Road and Other Writings](../T/The_Lost_Road_and_Other_Writings.md)*.
-- "[The Grey Annals](../T/The_Grey_Annals.md)", viết vào năm 1950-51. Được xuất bản trong *[The War of the Jewels](../T/The_War_of_the_Jewels.md)*. Chúng là một trong những nguồn chính được [Christopher Tolkien](../C/Christopher_Tolkien.md) sử dụng cho ấn bản *[The Silmarillion](../T/The_Silmarillion.md)*của anh ấy.
+- "[Biên niên sử sớm nhất của Beleriand](../T/The_Earliest_Annals_of_Beleriand.md)", được viết vào đầu những năm 1930. Được xuất bản trong *[The Shaping of Middle-earth](../T/The_Shaping_of_Middle-earth.md)*.
+- "[Biên niên sử sau này của Beleriand](../T/The_Later_Annals_of_Beleriand.md)", được viết vào cuối những năm 1930. Được xuất bản trong *[The Lost Road and Other Writings](../T/The_Lost_Road_and_Other_Writings.md)*.
+- "[Biên niên sử xám](../T/The_Grey_Annals.md)", viết vào năm 1950-51. Được xuất bản trong *[The War of the Jewels](../T/The_War_of_the_Jewels.md)*. Chúng là một trong những nguồn chính được [Christopher Tolkien](../C/Christopher_Tolkien.md) sử dụng cho ấn bản *[The Silmarillion](../T/The_Silmarillion.md)* của mình.
 
 ## Xem thêm {#See_also}
 

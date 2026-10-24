@@ -77,7 +77,7 @@ Nếu bạn biết một trang bạn muốn tạo nhưng không có liên kết 
 
 ### Spoiler {#Spoilers}
 
-Đối với những người chưa đọc xong *[The Hobbit](../../main/T/The_Hobbit.md)*, *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*, *[The Silmarillion](../../main/T/The_Silmarillion.md)*, *[Unfinished Tales](../../main/U/Unfinished_Tales.md)*hoặc thậm chí *[The History of Middle-earth](../../main/T/The_History_of_Middle-earth.md)*, hãy cẩn thận khi đọc qua trang này: có khá nhiều nội dung tiết lộ tùy thuộc vào lượng huyền thoại của J.R.R. Tolkien mà bạn đã đọc. Chúng tôi không muốn tiết lộ rằng [Frodo Baggins](../../main/F/Frodo_Baggins.md) rơi vào [Núi Doom](../../main/M/Mount_Doom.md) với người chưa đọc xong The Lord of the Rings và làm hỏng cuốn sách cho họ, phải không?
+Đối với những người chưa đọc xong *[The Hobbit](../../main/T/The_Hobbit.md)*, *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*, *[The Silmarillion](../../main/T/The_Silmarillion.md)*, *[Unfinished Tales](../../main/U/Unfinished_Tales.md)* hoặc thậm chí *[The History of Middle-earth](../../main/T/The_History_of_Middle-earth.md)*, hãy cẩn thận khi đọc qua trang này: có khá nhiều nội dung tiết lộ tùy thuộc vào lượng huyền thoại của J.R.R. Tolkien mà bạn đã đọc. Chúng tôi không muốn tiết lộ rằng [Frodo Baggins](../../main/F/Frodo_Baggins.md) rơi vào [Núi Diệt Vong](../../main/M/Mount_Doom.md) với người chưa đọc xong The Lord of the Rings và làm hỏng cuốn sách cho họ, phải không?
 
 ### Liên kết {#Links}
 

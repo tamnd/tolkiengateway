@@ -20,7 +20,7 @@ images:
 
 Vào [1 tháng 6](../_/1_June.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) gửi Royston F. Porthouse**, một độc giả ở Úc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Chủ đề:** Trả lời thư cảm ơn, Tolkien nói "Tôi luôn vui mừng khi được nghe ý kiến ​​từ những người đã đọc và yêu thích sách của tôi" và thêm vào phần tái bút: "Cuốn sách tiếp theo của tôi sẽ có tên là *[The Silmarillion](../T/The_Silmarillion.md)*. Nó nói về [Đầu tiên](../F/First_Age.md) và [Thứ hai](../S/Second_Age.md) Kỷ nguyên."
+- **Chủ đề:** Trả lời thư cảm ơn, Tolkien nói "Tôi luôn vui mừng được nghe ý kiến ​​từ những người đã đọc và yêu thích sách của tôi", đồng thời thêm vào phần tái bút: "Cuốn sách tiếp theo của tôi sẽ có tên là *[The Silmarillion](../T/The_Silmarillion.md)*. Nó nói về Thời đại [Đầu tiên](../F/First_Age.md) và [Thứ hai](../S/Second_Age.md)."
 - **Mô tả:** Thư đánh máy, có chữ ký. Kích thước: 5,5" x 7".
 
 <span></span>

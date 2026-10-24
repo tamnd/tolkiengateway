@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shadow and Flame"
 ---
 
-Chuyển hướng đến [Bóng Tối và Ngọn lửa](Shadow_and_Flame.md).
+Chuyển hướng tới [Bóng tối và Ngọn lửa](Shadow_and_Flame.md).

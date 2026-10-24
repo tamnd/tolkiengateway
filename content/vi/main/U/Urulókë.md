@@ -38,7 +38,7 @@ langlinks:
 
 Trong *[The Silmarillion](../T/The_Silmarillion.md)*, dạng *Urulóki* được sử dụng cả dưới dạng danh từ số ít và số nhiều.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Có ý kiến ​​cho rằng cách viết theo kiểu Quenya của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* sẽ là *Urulócë*, pl. *Urulóci*.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Có ý kiến ​​cho rằng cách viết theo phong cách Quenya của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* sẽ là *Urulócë*, pl. *Urulóci*.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Xem thêm {#See_also}
 

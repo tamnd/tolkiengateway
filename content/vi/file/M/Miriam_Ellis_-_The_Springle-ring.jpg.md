@@ -34,7 +34,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-" [Vòng lò xo](../../main/S/Springle-ring.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
+" [Chiếc nhẫn lò xo](../../main/S/Springle-ring.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
 
 ## Giấy phép {#Licensing}
 

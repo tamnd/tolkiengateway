@@ -20,7 +20,7 @@ categories:
 
 Đó là một dòng xoáy đáng sợ, rít lên với những tiếng rền rĩ lớn nghe thật khủng khiếp; bất cứ thứ gì đến gần đều bị hút xuống vực sâu và bị nghiền nát trên băng và đá.<sup id="cite_ref-flight_1-1" class="reference"><a href="#cite_note-flight-1">[1]</a></sup>
 
-Khi [Noldoli](../N/Noldoli.md) trên [Lưu đày](../E/Exile_of_the_Noldor.md) của họ đến Helkaraksë, một số người đã quyết định cố gắng đi thuyền qua [biển](../G/Great_Sea.md) thay vì băng qua eo đất đóng băng. Trong vụ này, một con tàu lớn đã bị mất tích cùng tất cả mọi người trên tàu do bị hút vào Wiruin. Do đó Noldoli buộc phải vượt qua bằng đường bộ.<sup id="cite_ref-flight_1-2" class="reference"><a href="#cite_note-flight-1">[1]</a></sup>
+Khi [Noldoli](../N/Noldoli.md) trên [Exile](../E/Exile_of_the_Noldor.md) của họ đến Helkaraksë, một số người đã quyết định cố gắng đi thuyền băng qua [biển](../G/Great_Sea.md) thay vì băng qua eo đất đóng băng. Trong vụ này, một con tàu lớn đã bị mất tích cùng tất cả mọi người trên tàu do bị hút vào Wiruin. Do đó, người Noldoli buộc phải vượt qua bằng đường bộ.<sup id="cite_ref-flight_1-2" class="reference"><a href="#cite_note-flight-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

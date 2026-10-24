@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Fuka, Frantisek"
 ---
 
-**František Fuka** ([Ngày 9 tháng 10](../_/9_October.md), [1968](../_/1968.md)) là nhà thiết kế trò chơi của [Belegost](<../B/Belegost_(video_game).md>).<sup id="cite_ref-Tolkien_Games_1-0" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Anh ấy đã làm việc cùng với [Miroslav Fidler](../M/Miroslav_Fidler.md) trong trò chơi.<sup id="cite_ref-Tolkien_Games_1-1" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup>
+**František Fuka** ([Ngày 9 tháng 10](../_/9_October.md), [1968](../_/1968.md)) là nhà thiết kế trò chơi của [Belegost](<../B/Belegost_(video_game).md>).<sup id="cite_ref-Tolkien_Games_1-0" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ông đã làm việc cùng với [Miroslav Fidler](../M/Miroslav_Fidler.md) trong trò chơi.<sup id="cite_ref-Tolkien_Games_1-1" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup>
 
 <span></span>
 
@@ -33,4 +33,4 @@ sort_keys:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Franti%C5%A1ek_Fuka" title="wikipedia:František Fuka">František Fuka</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Franti%C5%A1ek_Fuka" title="wikipedia:František Fuka">František Fuka</a> at <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>

@@ -23,9 +23,9 @@ images:
 
 **Huân chương Xuất sắc nhất của Đế quốc Anh** là một mệnh lệnh dành cho tinh thần hiệp sĩ trong hệ thống danh dự của Anh và đông dân nhất, với năm cấp bậc trong các đơn vị dân sự và quân sự.
 
-Nữ hoàng Elizabeth II (sn.1926 - d.2022) đã bổ nhiệm [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) làm Tư lệnh của Đế quốc Anh (CBE) trong Danh hiệu Năm mới vào [ngày 1 tháng 1](../_/1_January.md) [1972](../_/1972.md) "Vì những cống hiến cho Văn học Anh".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tolkien đã nhận được phù hiệu của Huân chương tại Cung điện Buckingham vào [28 tháng 3](../_/28_March.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nữ hoàng Elizabeth II (sinh năm 1926 - mất năm 2022) đã bổ nhiệm [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) làm Tư lệnh của Đế quốc Anh (CBE) trong Danh hiệu Năm mới [ngày 1 tháng 1](../_/1_January.md) [1972](../_/1972.md) "Vì những cống hiến cho Văn học Anh".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tolkien đã nhận được phù hiệu của Huân chương tại Cung điện Buckingham vào [28 tháng 3](../_/28_March.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[C.S. Lewis](../C/C.S._Lewis.md) cũng đã có tên trong danh sách vinh danh cuối cùng trước đó vào tháng 12 [1951](../_/1951.md), nhưng anh ấy đã từ chối.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[C.S. Lewis](../C/C.S._Lewis.md) cũng đã có tên trong danh sách vinh danh cuối cùng trước đó vào tháng 12 [1951](../_/1951.md), nhưng ông đã từ chối.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Những người nhận giải khác bao gồm các diễn viên [Christopher Lee](../C/Christopher_Lee.md), [Ian Holm](../I/Ian_Holm.md), [Ian McKellen](../I/Ian_McKellen.md), [Annette Crosbie](../A/Annette_Crosbie.md), [Antony Sher](../A/Antony_Sher.md), [Lenny Henry](../L/Lenny_Henry.md), [Martin Jarvis](../M/Martin_Jarvis.md), [John Hurt](../J/John_Hurt.md), [Billy Connolly](../B/Billy_Connolly.md), [Benedict Cumberbatch](../B/Benedict_Cumberbatch.md) và [Derek Jacobi](../D/Derek_Jacobi.md).
 

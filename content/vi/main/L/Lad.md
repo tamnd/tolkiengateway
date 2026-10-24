@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>lad</b></i> là một từ [Sindarin](../S/Sindarin.md), có nghĩa là "đồng bằng, thung lũng".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>lad</b></i> is a [Sindarin](../S/Sindarin.md) word, meaning "plain, valley".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

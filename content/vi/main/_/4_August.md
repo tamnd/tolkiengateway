@@ -63,9 +63,9 @@ Sự kiện xảy ra vào ngày 4 tháng 8
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1914](1914.md)** - Văn phòng của [George Allen &amp; Unwin](../A/Allen_and_Unwin.md) được mở tại London bởi [Stanley Unwin](../S/Stanley_Unwin.md).
+- **[1914](1914.md)** - [Văn phòng của George Allen & Unwin](../A/Allen_and_Unwin.md) được mở tại London bởi [Stanley Unwin](../S/Stanley_Unwin.md).
 - **[1941](1941.md)** - Diễn viên lồng tiếng [Martin Jarvis](../M/Martin_Jarvis.md) ra đời.
-- **[1953](1953.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tức giận vì một biên tập viên tại [Allen and Unwin](../A/Allen_and_Unwin.md) đã sửa *dwarves* thành *dwarfs*, *elvish* thành *elfish*, *further* thành *farther* và tệ nhất là *elven* thành *elfin*.
+- **[1953](1953.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tức giận vì một biên tập viên tại [Allen và Unwin](../A/Allen_and_Unwin.md) đã sửa *dwarves* thành *dwarfs*, *elvish* thành *elfish*, *further* thành *farther* và tệ nhất là *elven* thành *elfin*.
 - **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 138](../L/Letter_138.md).
 - **[1959](1959.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 215a](../L/Letter_215a.md).
 - **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 275](../L/Letter_275.md).
@@ -74,7 +74,7 @@ Sự kiện xảy ra vào ngày 4 tháng 8
 - **[1995](1995.md)** - [Mythcon 26](../M/Mythcon_26.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[2001](2001.md)** - [Mythcon 32](../M/Mythcon_32.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[2003](2003.md)** - *[The Lord of the Rings and Philosophy: One Book to Rule Them All](../T/The_Lord_of_the_Rings_and_Philosophy.md)* được xuất bản.
-- **[2005](2005.md)** - <a class="external text" href="http://omentielva.com/" rel="noreferrer noopener" target="_blank">Omentielva Minya</a> - Hội nghị quốc tế lần thứ 1 về các ngôn ngữ được phát minh của [Tolkien](../J/J.R.R._Tolkien.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Stockholm" title="wikipedia:Stockholm">Stockholm</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Sweden" title="wikipedia:Sweden">Thụy Điển</a>.
+- **[2005](2005.md)** - <a class="external text" href="http://omentielva.com/" rel="noreferrer noopener" target="_blank">Omentielva Minya</a> - Hội nghị quốc tế lần thứ nhất về các ngôn ngữ được phát minh của [Tolkien](../J/J.R.R._Tolkien.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Stockholm" title="wikipedia:Stockholm">Stockholm</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Sweden" title="wikipedia:Sweden">Thụy Điển</a>.
 - **[2006](2006.md)** - [Mythcon 37](../M/Mythcon_37.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Oklahoma" title="wikipedia:University of Oklahoma">Đại học Oklahoma</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Norman,_Oklahoma" title="wikipedia:Norman, Oklahoma">Norman</a>.
 - **[2007](2007.md)** - Tác giả [Timothy J. Wheeler](../T/Timothy_J._Wheeler.md) qua đời.
 - **[2007](2007.md)** - [Mythcon 38](../M/Mythcon_38.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
@@ -83,7 +83,7 @@ Sự kiện xảy ra vào ngày 4 tháng 8
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đoàn rước tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md).
+    - Đoàn tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md).

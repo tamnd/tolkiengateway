@@ -39,26 +39,26 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_72.gif.md"><img src="https://tolkiengateway.net/w/images/0/00/Mythlore_72.gif" decoding="async" loading="lazy" width="225" height="292" class="mw-file-element" data-file-width="225" data-file-height="292"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 72</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Spring <a href="../_/1993.md" title="1993">1993</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">67</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_71.md" title="Mythlore 71">Mythlore 71</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_73.md" title="Mythlore 73">Mythlore 73</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 72</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol19/iss2/" rel="noreferrer noopener" target="_blank">Tập 19, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 72</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol19/iss2/" rel="noreferrer noopener" target="_blank">Tập 19, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- McComas, Alan. “Phủ định và khẳng định tinh thần thông qua ngôn ngữ: Sự tích hợp giữa nhân vật, phép thuật và câu chuyện trong *The Lord of the Rings.*”
-- Zimmer, Paul Edwin. “Một ý kiến ​​khác về ‘Bài thơ J.R.R. Tolkien’.”
-- Kegler, Adelheid. “Cuộc gặp gỡ Bóng Tối: Chủ nghĩa Platon da đen của David Lindsay.”
-- Reynolds, Patricia. “Phong tục tang lễ trong tiểu thuyết của Tolkien.”
-- Hess, Kathleen. “Cây nho buồn vui lẫn lộn: Truyện cổ tích và vần điệu dành cho trẻ mẫu giáo.”
-- Cutsinger, James S. “Những thiên thần và Inklings.”
+- McComas, Alan. “Negating and Affirming Spirit through Language: The Integration of Character, Magic, and Story in *The Lord of the Rings.*”
+- Zimmer, Paul Edwin. “Another Opinion of ‘The Verse of J.R.R. Tolkien’.”
+- Kegler, Adelheid. “Encounter Darkness: The Black Platonism of David Lindsay.”
+- Reynolds, Patricia. “Funeral Customs in Tolkien's Fiction.”
+- Hess, Kathleen. “The Bittersweet Vine: Fairy Tales and Nursery Rhymes.”
+- Cutsinger, James S. “Angels and Inklings.”
 
 #### Tính năng {#Features}
 
 - Chúc ngủ ngon, Glen. Lời giới thiệu của biên tập: Trong số này.
-- Christopher, Joe R. và Wayne G. Hammond. Một Inklings Thư mục (49).
-- Kodratiev, Alexei. “Những câu chuyện mới được kể.”
+- Christopher, Joe R., and Wayne G. Hammond. An Inklings Bibliography (49).
+- Kondratiev, Alexei. “Tales Newly Told.”
 - Thư.
-- Lowentrout, C.I. "Sherwood" Smith, Ted Nasmith và Melanie Rawls. “25 năm: Sự đánh giá cao của Hiệp hội Thần thoại.”
+- Lowentrout, C.I. "Sherwood" Smith, Ted Nasmith, and Melanie Rawls. “25 Years: The Mythopoeic Society Appreciations.”
 
 #### Đánh giá {#Reviews}
 

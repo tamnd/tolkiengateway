@@ -24,16 +24,16 @@ images:
 
 **Chủ nhà** đề cập đến một số đội quân trong lịch sử của [Trung Địa](../M/Middle-earth.md):
 
-- [Máy chủ của Valinor](Host_of_the_Valar.md)
-- [Đạo quân phương Tây (Arnor)](<Host_of_the_West_(Arnor).md>)
-- [Đạo quân phương Tây](../A/Army_of_the_West.md)
+- [Chủ nhà của Valinor](Host_of_the_Valar.md)
+- [Chủ nhà phương Tây (Arnor)](<Host_of_the_West_(Arnor).md>)
+- [Chủ nhà phương Tây](../A/Army_of_the_West.md)
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Morgul-host&amp;action=edit&amp;redlink=1" title="Morgul-host (page does not exist)">Máy chủ Morgul</a>
-- [Máy chủ xám](../O/Oathbreakers.md) hoặc [Bóng Tối Máy chủ](../O/Oathbreakers.md)
+- [Máy chủ xám](../O/Oathbreakers.md) hoặc [Máy chủ bóng tối](../O/Oathbreakers.md)
 
 ## Các bản chuyển thể {#Adaptations}
 
-- [Chủ nhà của Eldar](../T/The_Host_of_the_Eldar.md)
-- [Người chủ trì Eldar (nhạc phim)](<../T/The_Host_of_the_Eldar_(soundtrack).md>)
+- [Đội quân của Eldar](../T/The_Host_of_the_Eldar.md)
+- [The Host of the Eldar (nhạc phim)](<../T/The_Host_of_the_Eldar_(soundtrack).md>)
 
 <hr style="margin-top:15px;"/>
 

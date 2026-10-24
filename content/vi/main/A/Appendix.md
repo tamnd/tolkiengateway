@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings Appendices"
 ---
 
-Chuyển hướng đến [The Lord of the Rings Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md).
+Chuyển hướng đến [The Lord of the Rings Appendices](../T/The_Lord_of_the_Rings_Appendices.md).

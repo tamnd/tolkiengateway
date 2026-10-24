@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Chi tiết "[Khi Sam nói chuyện với Rosie tại Trang trại Cotton](Miriam_Ellis_-_When_Sam_Spoke_to_Rosie_at_Cotton’s_Farm.png.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), miêu tả [Nông dân Bông](../../main/F/Farmer_Cotton.md)
+Chi tiết về "[Khi Sam nói chuyện với Rosie tại Trang trại Cotton](Miriam_Ellis_-_When_Sam_Spoke_to_Rosie_at_Cotton’s_Farm.png.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), miêu tả [Nông dân Cotton](../../main/F/Farmer_Cotton.md)
 
 ## Giấy phép {#Licensing}
 

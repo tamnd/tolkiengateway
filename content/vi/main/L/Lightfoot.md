@@ -38,7 +38,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Horses.md" title="Horses">Horse</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Lightfoot</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../R/Rohan.md" title="Rohan">Rohan</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../S/Snowmane.md" title="Snowmane">Snowmane</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Lightfoot** là [ngựa](../H/Horse.md) của [Rohan](../R/Rohan.md) và là con của [Snowmane](../S/Snowmane.md), thú cưỡi của Vua [Théoden](../T/Théoden.md). Lightfoot được đề cập trên dòng chữ trên [mộ](../S/Snowmane's_Howe.md) của Snowmane.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Lightfoot** là [ngựa](../H/Horse.md) của [Rohan](../R/Rohan.md), và là con của [Snowmane](../S/Snowmane.md), thú cưỡi của Vua [Théoden](../T/Théoden.md). Lightfoot được đề cập trên dòng chữ trên [mộ](../S/Snowmane's_Howe.md) của Snowmane.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

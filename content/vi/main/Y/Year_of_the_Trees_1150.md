@@ -15,11 +15,11 @@ categories:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Trees</div><div class="tg-timelinenav-links"><a href="Year_of_the_Trees_1140.md" title="Year of the Trees 1140">1140</a><a href="Year_of_the_Trees_1142.md" title="Year of the Trees 1142">1142</a><a href="Year_of_the_Trees_1149.md" title="Year of the Trees 1149">1149</a><a class="mw-selflink selflink">1150</a><a href="Year_of_the_Trees_1151.md" title="Year of the Trees 1151">1151</a><a href="Year_of_the_Trees_1152.md" title="Year of the Trees 1152">1152</a><a href="Year_of_the_Trees_1161.md" title="Year of the Trees 1161">1161</a></div></div></div></div></div></div>
 
-**Năm Cây 1150** (viết tắt là **Y.T. 1150**) là [năm Cây](Years_of_the_Trees.md) thứ 1150 trong [Kỷ Đệ Nhất](../F/First_Age.md) của [Arda](../A/Arda.md). Năm Cây 1150 cũng là **V.Y. 4650** vào [Năm Valian](../V/Valian_Years.md).
+**Năm Cây 1150** (viết tắt là **Y.T. 1150**) là [năm Cây](Years_of_the_Trees.md) thứ 1150 trong [Kỷ nguyên thứ nhất](../F/First_Age.md) của [Arda](../A/Arda.md). Năm Cây 1150 cũng là **V.Y. 4650** trong [Năm Valian](../V/Valian_Years.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Olwë](../O/Olwë.md) cuối cùng quyết định chuyển đến [Valinor](../V/Valinor.md) và bắt tay vào [Eressëa](../T/Tol_Eressëa.md) với một lượng lớn [Teleri](../T/Teleri.md).<sup id="cite_ref-Annals_1-0" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
+- [Olwë](../O/Olwë.md) cuối cùng quyết định chuyển đến [Valinor](../V/Valinor.md) và bắt tay vào [Eressëa](../T/Tol_Eressëa.md) cùng với rất nhiều [Teleri](../T/Teleri.md).<sup id="cite_ref-Annals_1-0" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
 - Người dân [Elwë](../T/Thingol.md) vẫn không muốn rời đi - họ ở lại với lãnh chúa của mình và được biết đến với cái tên [Eglath](../E/Eglath.md).<sup id="cite_ref-Annals_1-1" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
 
 <span></span>

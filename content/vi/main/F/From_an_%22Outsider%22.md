@@ -12,7 +12,7 @@ categories:
   - "Published articles"
 ---
 
-**Từ "Người ngoài cuộc"** là tựa đề cuốn hồi ký được viết bởi [James Dundas-Grant](../J/James_Dundas-Grant.md) và được xuất bản lần đầu vào năm *[C.S. Lewis at the Beakfast Table and Other Reminiscences](../R/Remembering_C.S._Lewis.md)* (1979). Mặc dù trước hết là hồi ức về người thầy [C.S. Lewis](../C/C.S._Lewis.md), nhưng Dundas-Grant cũng nhớ lại những kỷ niệm về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Họ gặp nhau lần đầu tại phòng của Lewis ở Oxford vào [1944](../_/1944.md):
+**Từ "Người ngoài cuộc"** là tựa đề cuốn hồi ký được viết bởi [James Dundas-Grant](../J/James_Dundas-Grant.md) và được xuất bản lần đầu vào năm *[C.S. Lewis at the Beakfast Table and Other Reminiscences](../R/Remembering_C.S._Lewis.md)* (1979). Mặc dù trước hết là hồi ức về người thầy [C.S. Lewis](../C/C.S._Lewis.md), Dundas-Grant cũng nhớ lại những kỷ niệm về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Họ gặp nhau lần đầu tại phòng của Lewis ở Oxford vào năm [1944](../_/1944.md):
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>It was thus I came to meet [C.S. Lewis&#39;s] great friend Tolkien: tall, swept-back grey hair, restless. He read to us parts of his manuscript for <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, asking for criticism.
@@ -28,7 +28,7 @@ Sau <a class="new" href="https://tolkiengateway.net/w/index.php?title=World_War_
 <p class="tg-quote-footer"><cite>&#34;From an &#39;Outsider&#39;&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Sau cái chết của Lewis, Dundas-Grant cuối cùng cũng nhớ lại rằng ông đã tham dự Thánh lễ tưởng nhớ Lewis, cùng với Tolkien và [Robert Havard](../R/Robert_Havard.md).
+After the death of Lewis, Dundas-Grant finally recalls that he attended a Mass in memory of Lewis, together with Tolkien and [Robert Havard](../R/Robert_Havard.md).
 
 ## Tài liệu tham khảo {#References}
 

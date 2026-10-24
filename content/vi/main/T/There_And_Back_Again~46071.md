@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "There and Back Again"
 ---
 
-Chuyển hướng đến [There and Back Again](There_and_Back_Again.md).
+Chuyển hướng đến [Ở đó và Quay lại](There_and_Back_Again.md).

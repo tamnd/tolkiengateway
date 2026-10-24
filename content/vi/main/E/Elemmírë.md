@@ -33,9 +33,9 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the planet</b>. For the <a href="../V/Vanyar.md" title="Vanyar">Vanyarin</a> elf, see <b><a href="Elemmírë_(Elf).md" title="Elemmírë (Elf)">Elemmírë (Elf)</a></b>.</div></div>
 
-**Elemmírë** là một trong những ngọn đèn được [Varda](../V/Varda.md) thắp lên từ xa xưa, để chào đón [Tiên tộc](Elves.md) đến [Arda](../A/Arda.md) khi họ thức tỉnh. Nó được mô tả trong [Quenta Silmarillion](../Q/Quenta_Silmarillion.md) là một ngôi sao, nhưng trên thực tế, rất có thể nó được xác định là một trong các hành tinh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Elemmírë** là một trong những ngọn đèn được [Varda](../V/Varda.md) thắp lên trong quá khứ, để chào đón [Yêu tinh](Elves.md) đến với [Arda](../A/Arda.md) khi họ thức tỉnh. Nó được mô tả trong [Quenta Silmarillion](../Q/Quenta_Silmarillion.md) như một ngôi sao, nhưng trên thực tế, rất có thể nó được xác định là một trong các hành tinh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Nó được đặt dưới tên của [Vanyar](../V/Vanyar.md) Tiên người đã sáng tác [Aldudénië](../A/Aldudénië.md) (Lời than thở cho Hai Cây).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nó được đặt theo tên của một [Vanyar](../V/Vanyar.md) Yêu tinh, người đã sáng tác [Aldudénië](../A/Aldudénië.md) (Lời than thở cho hai cái cây).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -43,7 +43,7 @@ Elemmírë có nghĩa là "ngôi sao ngọc". Đó là sự kết hợp của *[
 
 ## Cảm hứng {#Inspiration}
 
-Ghi chú của [Tolkien](../J/J.R.R._Tolkien.md)về chủ đề này có thể được giải thích nhưng có vẻ như chúng xác định Elemmírë là hành tinh mà chúng ta biết ngày nay là <a class="extiw" href="http://en.wikipedia.org/wiki/Mercury_(planet)" title="wikipedia:Mercury (planet)">Sao Thủy</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Ghi chú của [Tolkien](../J/J.R.R._Tolkien.md) về chủ đề này có thể được giải thích nhưng có vẻ như chúng xác định Elemmírë là hành tinh mà chúng ta biết ngày nay là <a class="extiw" href="http://en.wikipedia.org/wiki/Mercury_(planet)" title="wikipedia:Mercury (planet)">Sao Thủy</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

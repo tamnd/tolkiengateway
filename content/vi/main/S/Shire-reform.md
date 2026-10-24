@@ -17,13 +17,13 @@ langlinks:
     url: "https://kontu.wiki/Konnunuudistus"
 ---
 
-**Shire-cải cách** là một sự đổi mới của [Shire-hobbit](Shire-hobbits.md) mà họ đã thực hiện cho [Lịch Shire](Shire_Calendar.md) của mình. Thay đổi này được đưa ra vào thời [Isengrim Took II](../I/Isengrim_Took_II.md) ([S.R.](Shire_Reckoning.md) [1083](../T/Third_Age_2683.md) - [1122](../T/Third_Age_2722.md)).
+**Cuộc cải cách Quận** là một sự đổi mới của [Người Hobbit Quận](Shire-hobbits.md) mà họ đã thực hiện đối với [Lịch Shire](Shire_Calendar.md) của mình. Thay đổi này được đưa ra vào thời [Isengrim Took II](../I/Isengrim_Took_II.md) ([S.R.](Shire_Reckoning.md) [1083](../T/Third_Age_2683.md) - [1122](../T/Third_Age_2722.md)).
 
-Hobbit cho rằng việc chuyển tên ngày trong tuần theo ngày từ năm này sang năm khác là lộn xộn, bất tiện nên đã bố trí [Ngày giữa năm](../M/Mid-year's_Day.md) (và ngày [Overlithe](../O/Overlithe.md) trong năm nhuận) không có tên ngày trong tuần; điều này đảm bảo rằng tất cả các ngày trong tất cả các năm luôn rơi vào cùng các ngày trong tuần. Vì Lịch Shire giờ đây đã tồn tại lâu năm nên Hobbit không còn cần thiết hoặc bận tâm đến việc ghi ngày trong tuần vào thư hoặc nhật ký của họ nữa.
+Người Hobbit cho rằng việc chuyển đổi tên ngày trong tuần theo ngày từ năm này sang năm khác là lộn xộn và bất tiện nên đã sắp xếp rằng [Ngày giữa năm](../M/Mid-year's_Day.md) (và [Ngày Overlithe](../O/Overlithe.md) trong năm nhuận) không có tên ngày trong tuần; điều này đảm bảo rằng tất cả các ngày trong tất cả các năm luôn rơi vào cùng các ngày trong tuần. Vì Lịch Quận đã tồn tại lâu năm nên người Hobbit không còn cần hoặc bận tâm đến việc ghi ngày trong tuần vào thư từ hoặc nhật ký của mình nữa.
 
-Một hậu quả nhỏ của cuộc cải cách Shire là không có tháng nào bắt đầu vào thứ Sáu. Điều này dẫn đến sự đùa cợt trong [Shire](Shire.md) khi nói về "vào thứ Sáu ngày đầu tiên" khi đề cập đến một ngày không tồn tại hoặc một ngày mà những sự kiện rất khó xảy ra. Cách diễn đạt đầy đủ của thành ngữ này là "on Friday the first of [Summerfilth](Summerfilth.md)".
+Một hậu quả nhỏ của cuộc cải cách ở Quận là không có tháng nào bắt đầu vào thứ Sáu. Điều này dẫn đến sự giễu cợt trong [Shire](Shire.md) khi nói về "thứ Sáu ngày đầu tiên" khi đề cập đến một ngày không tồn tại hoặc một ngày mà những sự kiện rất khó xảy ra. Cách diễn đạt đầy đủ của thành ngữ này là "on Friday the first of [Summerfilth](Summerfilth.md)".
 
-[Bree Lịch](../B/Bree_Calendar.md) cũng đã áp dụng cải cách.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Lịch Bree](../B/Bree_Calendar.md) cũng áp dụng cải cách.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

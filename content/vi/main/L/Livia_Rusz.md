@@ -29,12 +29,12 @@ infobox:
 
 **Livia Rusz** (còn gọi là Livia Rusz) là một họa sĩ đồ họa người Romania và Hungary, nổi tiếng với các tác phẩm minh họa, truyện tranh và thể loại truyện tranh.
 
-Livia Rusz trở thành họa sĩ minh họa người Romania đầu tiên cho tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), khi cô đóng góp các bức vẽ cho ấn bản tiếng Romania đầu tiên của *[The Hobbit](../T/The_Hobbit.md)* ([*O poveste cu un hobbit*](<../O/O_poveste_cu_un_hobbit_(1975).md>), 1975). Khi thực hiện dự án này, cô được cho là không thể so sánh các màn trình diễn [Hobbit](../H/Hobbits.md), [Tiên tộc](../E/Elves.md) hoặc [Orc](../O/Orcs.md) của mình với bất kỳ bức chân dung nào trước đây của các nghệ sĩ khác, do sự khan hiếm nguồn văn học nước ngoài ở Romania — do đó, tác phẩm của cô phụ thuộc nhiều vào trí tưởng tượng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Livia Rusz trở thành họa sĩ minh họa người Romania đầu tiên cho tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) khi cô đóng góp các bức vẽ cho ấn bản tiếng Romania đầu tiên của *[The Hobbit](../T/The_Hobbit.md)* ([*O poveste cu un hobbit*](<../O/O_poveste_cu_un_hobbit_(1975).md>), 1975). Trong khi thực hiện dự án này, cô được cho là không thể so sánh các màn trình diễn [Hobbit](../H/Hobbits.md), [Yêu tinh](../E/Elves.md) hay [Orc](../O/Orcs.md) của mình với bất kỳ vai diễn nào trước đây của các nghệ sĩ khác, do sự khan hiếm nguồn văn học nước ngoài ở Romania — do đó, tác phẩm của cô phụ thuộc nhiều vào trí tưởng tượng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Livia_Rusz" title="wikipedia:Livia Rusz">Livia Rusz</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="https://tolkien.com.pl/hobbit/collection/hobbit-romanian-1975-1st.php" rel="noreferrer noopener" target="_blank">Các minh họa của Rusz cho <i>The Hobbit</i></a>
+- <a class="external text" href="https://tolkien.com.pl/hobbit/collection/hobbit-romanian-1975-1st.php" rel="noreferrer noopener" target="_blank">Các minh họa của Rusz cho <i>Người Hobbit</i></a>
 
 <span></span>
 

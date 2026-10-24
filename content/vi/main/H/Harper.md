@@ -12,7 +12,7 @@ categories:
   - "Smith of Wootton Major"
 ---
 
-**Harper** là người học việc của [Alf](../A/Alf.md) sau khi anh trở thành [Bếp trưởng](../M/Master_Cook.md) mới của làng [Wootton Major](../W/Wootton_Major.md). Khi Alf chuẩn bị rời làng, anh ấy nói rằng Thầy Harper là một đầu bếp rất giỏi (và anh ấy cũng là người trong làng, không giống như Alf).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Harper** là người học việc của [Alf](../A/Alf.md) sau khi anh trở thành [Bếp trưởng](../M/Master_Cook.md) mới của làng [Wootton Major](../W/Wootton_Major.md). Khi Alf chuẩn bị rời làng, ông nói rằng Thầy Harper là một đầu bếp rất giỏi (và ông cũng là người trong làng, không giống như Alf).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

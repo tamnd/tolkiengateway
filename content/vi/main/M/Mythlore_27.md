@@ -39,29 +39,29 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_27.gif.md"><img src="https://tolkiengateway.net/w/images/0/03/Mythlore_27.gif" decoding="async" loading="lazy" width="225" height="292" class="mw-file-element" data-file-width="225" data-file-height="292"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 27</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Spring <a href="../_/1981.md" title="1981">1981</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">47</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_26.md" title="Mythlore 26">Mythlore 26</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_28.md" title="Mythlore 28">Mythlore 28</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 27</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol8/iss1/" rel="noreferrer noopener" target="_blank">Tập 8, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 27</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol8/iss1/" rel="noreferrer noopener" target="_blank">Tập 8, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Kotzin, Michael C. “C.S. Lewis và George MacDonald: Chiếc ghế bạc và những cuốn sách về công chúa.”
-- Barkley, Christine. “Khả năng dự đoán và điều kỳ diệu: Sự quen thuộc và khả năng phục hồi trong tác phẩm của Tolkien.”
-- McClatchey, J. “Ca ngợi và đoàn kết các Kitô hữu trong cuộc chiến trên thiên đường.”
+- Kotzin, Michael C. “C.S. Lewis and George MacDonald: The Silver Chair and the Princess Books.”
+- Barkley, Christine. “Predictability and Wonder: Familiarity and Recovery in Tolkien's Works.”
+- McClatchey, J. “Praise and Christian Unity in War in Heaven.”
 - Kocher, Paul H. “Túrin Turambar.”
-- Rêu, Anita. “Tội ác và trừng phạt -Hoặc phát triển- trong truyện cổ tích và giả tưởng.”
+- Moss, Anita. “Crime and Punishment -Or Development- in Fairy Tales and Fantasy.”
 
 #### Thơ {#Poetry}
 
-- Ellwood, Gracia Fay. “Thế giới.”
+- Ellwood, Gracia Fay. “The World.”
 
 #### Tính năng {#Features}
 
 - Chúc ngủ ngon, Glen. Góc biên tập.
-- GoodKnight, Glen và Harry J.N. Andruschak. Một chỉ mục vấn đề Mythlore.
-- Christopher, Joe R. An Inklings Thư mục (16).
-- Ellwood, Gracia Fay. “Những vấn đề nghiêm trọng: Có ý định có được niềm vui.”
-- Speth, Lee. “Điều trị ung dung: Thông tin thêm về Arthur Machen.”
+- GoodKnight, Glen và Harry J.N. Andruschak. Một chỉ số vấn đề thần thoại.
+- Christopher, Joe R. An Inklings Bibliography (16).
+- Ellwood, Gracia Fay. “Matters of Grave Import: Intend to Have Joy.”
+- Speth, Lee. “Cavalier Treatment: More About Arthur Machen.”
 - Thư.
 
 #### Đánh giá {#Reviews}

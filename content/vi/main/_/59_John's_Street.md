@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "59 St John Street"
 ---
 
-Chuyển hướng đến [59 St John Street](59_St_John_Street.md).
+Chuyển hướng đến [59 Phố St John](59_St_John_Street.md).

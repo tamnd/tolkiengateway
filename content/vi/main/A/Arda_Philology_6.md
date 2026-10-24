@@ -29,7 +29,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Arda Philology 6</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Anders_Stenström.md" title="Anders Stenström">Anders Stenström</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">The Arda Society</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2017.md" title="2017">2017</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">120</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-91-973500-6-8" title="Special:BookSources/978-91-973500-6-8">978-91-973500-6-8</a></td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1654-5737</td></tr></tbody></table>
 
-<i><b>Arda Ngữ văn 6</b></i> là tập thứ sáu của tạp chí *[Arda Philology](<Arda_(annual).md>)*, bao gồm kỷ yếu của Hội nghị quốc tế lần thứ sáu về các ngôn ngữ được phát minh của Tolkien, <i><a class="external text" href="https://www.omentielva.com/oenquea.htm" rel="noreferrer noopener" target="_blank">Omentielva Enquea</a> (<a href="../O/Omentielva.md" title="Omentielva">Omentielva</a>)</i>, được tổ chức tại Jenins, Thụy Sĩ, vào tháng 8 [2015](../_/2015.md).
+<i><b>Arda Philology 6</b></i> là tập thứ sáu của tạp chí *[Arda Philology](<Arda_(annual).md>)*và chứa kỷ yếu của Hội nghị quốc tế lần thứ sáu về các ngôn ngữ được phát minh của Tolkien, <i><a class="external text" href="https://www.omentielva.com/oenquea.htm" rel="noreferrer noopener" target="_blank">Omentielva Enquea</a> (<a href="../O/Omentielva.md" title="Omentielva">Omentielva</a>)</i>, được tổ chức tại Jenins, Thụy Sĩ, vào tháng 8 [2015](../_/2015.md).
 
 <center><a href="Arda_Philology_5.md" title="Arda Philology 5">Previous Issue</a> || <b><a href="Arda_Philology_7.md" title="Arda Philology 7">Next Issue</a></b> </center>
 
@@ -40,10 +40,10 @@ infobox:
 - Tiểu sử của cộng tác viên
 - Định vị chỉ mục
 - [Chris Gilson](../C/Chris_Gilson.md): "Vai trò của [Solosimpilin](../S/Solosimpilin.md) trong việc tạo ra [Qenya](../Q/Qenya.md)"
-- Tsukusu Jinn Itó: "Hình dạng của miệng giữa: Lý thuyết về sự thể hiện các đặc điểm ngữ âm phụ âm trong tiếng Feanorian Tengwar"
-- Miriam Mayburd: "Những chòm sao nhận thức giữa thời Trung cổ và hiện đại: Sự xuất hiện của ngôn ngữ như trò chơi trong văn viết của Tolkien's Wor(l)d"
-- Bertrand Bellet: "Tháng và mùa trong Trung Địa"
+- Tsukusu Jinn Itó: "Hình dạng của miệng giữa: Lý thuyết về sự thể hiện các đặc điểm ngữ âm phụ âm trong Tengwar Feanorian"
+- Miriam Mayburd: "Những chòm sao nhận thức giữa thời Trung cổ và hiện đại: Sự xuất hiện của ngôn ngữ như trò chơi trong văn viết Wor(l)d của Tolkien"
+- Bertrand Bellet: "Tháng và Mùa ở Trung Địa"
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.omentielva.com/ardaph6.htm" rel="noreferrer noopener" target="_blank">Arda Ngữ Văn Tập 6</a>
+- <a class="external text" href="https://www.omentielva.com/ardaph6.htm" rel="noreferrer noopener" target="_blank">Arda Ngữ văn Tập 6</a>

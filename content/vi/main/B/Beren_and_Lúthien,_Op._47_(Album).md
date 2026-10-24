@@ -17,7 +17,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Artwork_from_the_CD_Release.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/300px-Artwork_from_the_CD_Release.jpg" decoding="async" loading="lazy" width="300" height="317" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/450px-Artwork_from_the_CD_Release.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/600px-Artwork_from_the_CD_Release.jpg 2x" data-file-width="1410" data-file-height="1489"/></a><figcaption>Artwork from the CD release by permission of Ted Nasmith</figcaption></figure>
 
-Bản ghi demo hoàn chỉnh về tác phẩm opera của nhà soạn nhạc Paul Corfield Godfrey *[Beren and Lúthien, Op. 47 (Opera)](<Beren_and_Lúthien,_Op._47_(Opera).md>)* từ vở kịch *Những cảnh sử thi từ The Silmarillion sau thần thoại J. R. R. Tolkien* do Volante Opera Productions ghi lại và được Prima Facie phát hành dưới dạng CD và bản tải xuống kỹ thuật số vào năm 2019.
+Bản ghi demo hoàn chỉnh về tác phẩm opera của nhà soạn nhạc Paul Corfield Godfrey *[Beren and Lúthien, Op. 47 (Opera)](<Beren_and_Lúthien,_Op._47_(Opera).md>)* từ vở kịch *Những cảnh sử thi trong The Silmarillion sau thần thoại J. R. R. Tolkien* do Volante Opera Productions ghi lại và được Prima Facie phát hành dưới dạng CD và bản tải xuống kỹ thuật số vào năm 2019.
 
 <br> **Diễn viên:**
 
@@ -25,15 +25,15 @@ Finrod Felagund, Vua của Nargothrond (Giọng nam cao): Simon Crosby Buttle
 
 Sauron, người hầu của Morgoth (Bass): Jasey Hall
 
-Gorlim, tín đồ của Beren (Giọng nam cao): Michael Clifton-Thompson
+Gorlim, tín đồ của Beren (Tenor): Michael Clifton-Thompson
 
 Beren, con trai của Barahir (Baritone): Julian Boyce
 
 Lúthien Tinúviel, con gái của Thingol (Soprano): Angharad Morgan
 
-Thingol Áo choàng xám, Vua của Doriath (Âm trầm): Martin Lloyd
+Thingol Greycloak, Vua xứ Doriath (Bass): Martin Lloyd
 
-Melian, nữ hoàng của anh ấy (Mezzo-Soprano): Helen Jarmany
+Melian, hoàng hậu của ông (Mezzo-Soprano): Helen Jarmany
 
 Morgoth, kẻ thù (Bass): Laurence Cole
 

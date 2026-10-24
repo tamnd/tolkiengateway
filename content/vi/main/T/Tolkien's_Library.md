@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien's Library: An Annotated Checklist"
 ---
 
-Chuyển hướng tới Thư viện của [Tolkien: Danh sách kiểm tra có chú thích](Tolkien's_Library%253A_An_Annotated_Checklist.md).
+Chuyển hướng đến [Tolkien's Library: An Annotated Checklist](Tolkien's_Library%253A_An_Annotated_Checklist.md).

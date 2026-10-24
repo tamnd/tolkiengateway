@@ -34,13 +34,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTRSBG_Siege_of_Gondor.jpg.md"><img src="https://tolkiengateway.net/w/images/6/6c/LOTRSBG_Siege_of_Gondor.jpg" decoding="async" loading="lazy" width="275" height="384" class="mw-file-element" data-file-width="275" data-file-height="384"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Strategy Battle Game: Siege of Gondor</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Matthew Ward<sup id="cite_ref-amazon_1-0" class="reference"><a href="#cite_note-amazon-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../G/Games_Workshop.md" title="Games Workshop">Games Workshop</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2004.md" title="2004">2004</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">64<sup id="cite_ref-amazon_1-1" class="reference"><a href="#cite_note-amazon-1">[1]</a></sup></td></tr></tbody></table>
 
-<i><b>The Lord of the Rings Trò chơi chiến đấu chiến lược: Cuộc vây hãm Gondor</b></i> là phần bổ sung cho [Games Workshop](../G/Games_Workshop.md) *[The Lord of the Rings Strategy Battle Game](../T/The_Lord_of_the_Rings_Strategy_Battle_Game.md)*.
+<i><b>Trò chơi chiến đấu chiến lược Chúa tể của những chiếc nhẫn: Cuộc vây hãm Gondor</b></i> là phần bổ sung cho [Games Workshop](../G/Games_Workshop.md) *[The Lord of the Rings Strategy Battle Game](../T/The_Lord_of_the_Rings_Strategy_Battle_Game.md)* của.
 
 Phần bổ sung đã được thảo luận trên tạp chí *[White Dwarf](../W/White_Dwarf.md)*, số 291.
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://boardgamegeek.com/boardgameexpansion/84968/the-lord-of-the-rings-strategy-battle-game-the-sie" rel="noreferrer noopener" target="_blank">The Lord of the Rings Trò chơi chiến đấu chiến lược: Cuộc vây hãm Gondor</a> tại <a class="external text" href="http://boardgamegeek.com/" rel="noreferrer noopener" target="_blank">BoardGameGeek</a>
+- <a class="external text" href="http://boardgamegeek.com/boardgameexpansion/84968/the-lord-of-the-rings-strategy-battle-game-the-sie" rel="noreferrer noopener" target="_blank">Trò chơi chiến lược Chúa tể của những chiếc nhẫn: Cuộc vây hãm Gondor</a> tại <a class="external text" href="http://boardgamegeek.com/" rel="noreferrer noopener" target="_blank">BoardGameGeek</a>
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images by Pete Amachree"
 ---
 
-Chuyển hướng đến [Danh mục:Hình ảnh của Pete Amachree](../../category/I/Images_by_Pete_Amachree.md).
+Chuyển hướng tới [Danh mục:Hình ảnh của Pete Amachree](../../category/I/Images_by_Pete_Amachree.md).

@@ -37,20 +37,20 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Tolkien_Calendar_1991.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/87/The_Tolkien_Calendar_1991.jpg/320px-The_Tolkien_Calendar_1991.jpg" decoding="async" loading="lazy" width="320" height="351" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/87/The_Tolkien_Calendar_1991.jpg/480px-The_Tolkien_Calendar_1991.jpg 1.5x, https://tolkiengateway.net/w/images/8/87/The_Tolkien_Calendar_1991.jpg 2x" data-file-width="540" data-file-height="592"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Tolkien Calendar 1991</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/John_Howe.md" title="John Howe">John Howe</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../U/Unwin_Hyman.md" title="Unwin Hyman">Unwin Paperbacks</a> (UK)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/23_August.md" title="23 August">23 August</a> <a href="../_/1990.md" title="1990">1990</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Wire-bound calendar with mailer</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-04-440677-0" title="Special:BookSources/0-04-440677-0">0-04-440677-0</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_1990.md" title="Tolkien Calendar 1990">Tolkien Calendar 1990</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_-_The_Centenary_Calendar_1992.md" title="Tolkien - The Centenary Calendar 1992">Tolkien - The Centenary Calendar 1992</a></td></tr></tbody></table>
 
-<i><b>Lịch Tolkien 1991</b></i> là lịch Tolkien chính thức được xuất bản bởi [Unwin Paperbacks](../U/Unwin_Hyman.md) vào [23 tháng 8](../_/23_August.md) [1990](../_/1990.md). Nó có tính năng nghệ thuật của [John Howe](../J/John_Howe.md) dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và *[The Silmarillion](The_Silmarillion.md)*.
+<i><b>Lịch Tolkien 1991</b></i> là lịch Tolkien chính thức được xuất bản bởi [Unwin Paperbacks](../U/Unwin_Hyman.md) vào [23 tháng 8](../_/23_August.md) [1990](../_/1990.md). Nó có tác phẩm nghệ thuật của [John Howe](../J/John_Howe.md) dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và *[The Silmarillion](The_Silmarillion.md)*.
 
 ## Minh họa {#Illustrations}
 
 - Bìa - "[Tại Ford](../../file/J/John_Howe_-_Flight_to_the_Ford.jpg.md)"
 - Tháng Giêng - "[Ông Lão Liễu](../../file/J/John_Howe_-_Old_Man_Willow_01.jpg.md)"
-- Tháng 2 - "[Vào Mordor](../../file/J/John_Howe_-_In_Mordor.jpg.md)"
+- Tháng 2 - "[Ở Mordor](../../file/J/John_Howe_-_In_Mordor.jpg.md)"
 - Tháng 3 - "[Galadriel](../../file/J/John_Howe_-_Galadriel.jpg.md)"
 - Tháng 4 - "[Sam và Shelob](../../file/J/John_Howe_-_Sam_and_Shelob.jpg.md)"
-- Tháng 5 - "[ Đoàn Hộ Nhẫn Đang đến Caradhras](../../file/J/John_Howe_-_The_Company_Approaches_Caradhras.jpg.md)"
+- Tháng 5 - "[Đoàn quân tiếp cận Caradhras](../../file/J/John_Howe_-_The_Company_Approaches_Caradhras.jpg.md)"
 - Tháng 6 - "[Turambar và Glorund](../../file/J/John_Howe_-_The_Death_of_Glaurung.jpg.md)"
 - Tháng 7 - "[Tại Ford](../../file/J/John_Howe_-_Flight_to_the_Ford.jpg.md)"
 - Tháng 8 - "[Minas Tirith](../../file/J/John_Howe_-_Minas_Tirith.jpg.md)"
-- tháng Chín - "[Glorfindel và Balrog](../../file/J/John_Howe_-_Glorfindel_And_The_Balrog.jpg.md)"
+- Tháng 9 - "[Glorfindel và Balrog](../../file/J/John_Howe_-_Glorfindel_And_The_Balrog.jpg.md)"
 - Tháng 10 - "[Tháp bóng tối](../../file/J/John_Howe_-_The_Dark_Tower_01.jpg.md)"
 - Tháng 11 - "[Éowyn và Nazgûl](../../file/J/John_Howe_-_Eowyn_and_the_Nazgul.jpg.md)"
 - Tháng 12 - "[Gandalf](../../file/J/John_Howe_-_Gandalf_the_Grey_02.jpg.md)"
@@ -74,7 +74,7 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94230" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1991</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/1989_1992.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1989 - 1992</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde đến Tolkien Lịch</a>
+- <a class="external text" href="http://tolkiencalendars.com/1989_1992.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1989 - 1992</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

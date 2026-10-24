@@ -60,11 +60,11 @@ infobox:
 <p class="tg-quote-footer"><cite>Official Synopsis, <a class="mw-redirect" href="../A/Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Udûn** là tập thứ sáu trong bộ phim truyền hình dài tập của [Amazon Studios](../A/Amazon_Studios.md), *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*, được phát hành vào ngày [30 tháng Chín](../_/30_September.md), [2022](../_/2022.md).
+**Udûn** là tập thứ sáu trong loạt phim truyền hình [Amazon Studios](../A/Amazon_Studios.md), *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*, phát hành vào [30 tháng 9](../_/30_September.md), [2022](../_/2022.md).
 
 ## Tóm tắt {#Synopsis}
 
-### Númenor {#Númenor}
+### Số {#Númenor}
 
 ### Miền Nam {#Southlands}
 
@@ -188,13 +188,13 @@ infobox:
 
 Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amazon đi kèm với tập phim.
 
-- Cảnh 2 - "Hầu hết các chi tiết và công phu được nêu ở đây đều bắt nguồn từ '[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)', đoạn mở đầu có tựa đề '[Liên quan đến Hobbit](../C/Concerning_Hobbits.md)' và [Phụ lục](../A/Appendices.md), [A](../A/Appendix_A.md) đến [F](../A/Appendix_F.md), nơi người du hành dũng cảm có thể hành trình để khám phá những chân trời xa hơn nữa."
+- Cảnh 2 - "Hầu hết các chi tiết và chi tiết được nêu ở đây đều bắt nguồn từ '[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)', phần mở đầu có tựa đề '[Liên quan đến người Hobbit](../C/Concerning_Hobbits.md)' và [Phụ lục](../A/Appendices.md), [A](../A/Appendix_A.md) đến [F](../A/Appendix_F.md), nơi du khách dũng cảm có thể hành trình khám phá những chân trời xa hơn nữa."
 
 ## Sản xuất {#Production}
 
 ## Sự khác biệt {#Differences}
 
-Tất cả những sự kiện xảy ra và liên quan đến [Orodruin](../M/Mount_Doom.md) (phun trào, phá hủy [Tirharad](../T/Tirharad.md) v.v.) đều chưa bao giờ xảy ra trong bất kỳ cuốn sách nào của Tolkien.
+Tất cả những sự kiện xảy ra và liên quan đến [Orodruin](../M/Mount_Doom.md) (sự phun trào, sự tàn phá của [Tirharad](../T/Tirharad.md) v.v.) đều không bao giờ xảy ra trong bất kỳ cuốn sách nào của Tolkien.
 
 ## Lễ tân {#Reception}
 

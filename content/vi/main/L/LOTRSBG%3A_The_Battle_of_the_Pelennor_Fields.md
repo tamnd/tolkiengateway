@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Battle of Pelennor Fields"
 ---
 
-Chuyển hướng đến [Trận chiến cánh đồng Pelennor](../T/The_Battle_of_Pelennor_Fields.md).
+Redirect to [The Battle of Pelennor Fields](../T/The_Battle_of_Pelennor_Fields.md).

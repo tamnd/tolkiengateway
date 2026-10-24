@@ -61,7 +61,7 @@ images:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 30 tháng Chín.
+Sự kiện xảy ra vào ngày 30 tháng 9
 
 ## Trên Trái đất {#On_Earth}
 
@@ -76,7 +76,7 @@ Sự kiện xảy ra vào ngày 30 tháng Chín.
 - **[1979](1979.md)** - [Oxonmoot 1979](../O/Oxonmoot_1979.md) tại khách sạn Eastgate.
 - **[1997](1997.md)** - Album *[An Evening in Rivendell](../A/An_Evening_in_Rivendell.md)* được phát hành.
 - **[2000](2000.md)** - *[J.R.R. Tolkien and His Literary Resonances](../J/J.R.R._Tolkien_and_His_Literary_Resonances.md)* được xuất bản.
-- **[2010](2010.md)** - Năm Thánh [Mithlond](../M/Mithlond,_Göteborgs_Tolkiensällskap.md), Hiệp hội Gothenburg Tolkien của Thụy Điển.
+- **[2010](2010.md)** - Năm Thánh dành cho [Mithlond](../M/Mithlond,_Göteborgs_Tolkiensällskap.md), Hiệp hội Gothenburg Tolkien của Thụy Điển.
 - **[2014](2014.md)** - *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md)* được phát hành tại Bắc Mỹ.
 - **[2017](2017.md)** - *[J.R.R. Tolkien: Romanticist and Poet](../J/J.R.R._Tolkien%253A_Romanticist_and_Poet.md)* được xuất bản.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - **[2022](2022.md)** - Tập [Udûn](<../U/Udûn_(episode).md>) của *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* được phát hành trực tuyến.
@@ -86,7 +86,7 @@ Sự kiện xảy ra vào ngày 30 tháng Chín.
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
     - [Crickhollow](../C/Crickhollow.md) bị ba [Kỵ sĩ đen](../N/Nazgûl.md) đột kích vào đầu giờ và [Fatty Bolger](../F/Fredegar_Bolger.md) báo động cho ngôi làng. Các Kỵ Sĩ Đen bỏ chạy.
     - [Quán trọ](../P/Prancing_Pony.md) tại [Bree](../B/Bree.md) đồng loạt bị đột kích nhưng Kỵ sĩ đen chỉ tìm thấy những chiếc gối trên giường của Người Hobbit. Những chú ngựa con bị lạc.
-    - [Frodo](../F/Frodo_Baggins.md) và những người bạn đồng hành của anh ta mua [Bill the Pony](../B/Bill_the_Pony.md) từ [Bill Ferny](../B/Bill_Ferny.md) và để Bree cùng với [Strider](../A/Aragorn.md).
+    - [Frodo](../F/Frodo_Baggins.md) và những người bạn đồng hành của ông ta mua [Bill the Pony](../B/Bill_the_Pony.md) từ [Bill Ferny](../B/Bill_Ferny.md) và để Bree cùng với [Strider](../A/Aragorn.md).
     - [Gandalf](../G/Gandalf.md) đến [Crickhollow](../C/Crickhollow.md) và nhìn thấy áo choàng của Frodo ở bên ngoài. Mất hy vọng, anh đến Bree vào ban đêm. Anh gặp [Barliman Butterbur](../B/Barliman_Butterbur.md), người xin lỗi và nói với anh rằng những người Hobbit đã rời đi cùng Strider.
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 

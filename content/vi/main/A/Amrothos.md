@@ -45,11 +45,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../G/Gondorians.md" title="Gondorians">Gondorian</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amrothos</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../G/Gondor.md" title="Gondor">Gondor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2994.md" title="Third Age 2994">2994</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data"><a href="../H/House_of_Dol_Amroth.md" title="House of Dol Amroth">House of Dol Amroth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../I/Imrahil.md" title="Imrahil">Imrahil</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="../E/Elphir.md" title="Elphir">Elphir</a>, <a href="../E/Erchirion.md" title="Erchirion">Erchirion</a> and <a href="../L/Lothíriel.md" title="Lothíriel">Lothíriel</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Amrothos** là con trai thứ ba của [Imrahil](../I/Imrahil.md) xứ [Dol Amroth](../D/Dol_Amroth.md).
+**Amrothos** là con trai thứ ba của [Imrahil](../I/Imrahil.md) của [Dol Amroth](../D/Dol_Amroth.md).
 
 ## Lịch sử {#History}
 
-Anh ấy sinh năm [T.A.](../T/Third_Age.md) [2994](../T/Third_Age_2994.md). Anh có một em gái, [Lothíriel](../L/Lothíriel.md) và hai anh trai; [Elphir](../E/Elphir.md) và [Ercirion](../E/Erchirion.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ông sinh năm [T.A.](../T/Third_Age.md) [2994](../T/Third_Age_2994.md). Anh có một em gái, [Lothíriel](../L/Lothíriel.md) và hai anh trai; [Elphir](../E/Elphir.md) và [Ercirion](../E/Erchirion.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

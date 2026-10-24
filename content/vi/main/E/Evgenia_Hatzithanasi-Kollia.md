@@ -18,9 +18,9 @@ sort_keys:
   "People by name": "Hatzithanasi-Kollia, Evgenia"
 ---
 
-**Evgenia Hatzithanasi-Kollia** (tiếng Hy Lạp: **Ευγενία Χατζηθανάση-Κόλλια**) là dịch giả tiếng Hy Lạp cho hầu hết các tác phẩm của [Tolkien](../J/J.R.R._Tolkien.md).
+**Evgenia Hatzithanasi-Kollia** (tiếng Hy Lạp: **Ευγενία Χατζηθανάση-Κόλλια**) là dịch giả tiếng Hy Lạp của hầu hết các tác phẩm của [Tolkien](../J/J.R.R._Tolkien.md).
 
-Công việc của cô với Tolkien bắt đầu khi cô tình cờ tìm thấy một bản tiếng Anh bị bỏ rơi của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, bị một khách du lịch bỏ quên. Vì thích cuốn sách nên cô đã đề xuất với nhà xuất bản <a class="external text" href="http://www.kedros.gr/" rel="noreferrer noopener" target="_blank">Kedros</a> dịch và xuất bản nó bằng tiếng Hy Lạp. Vì vậy *Lord of the Rings* là cuốn sách giả tưởng đầu tiên được xuất bản bằng tiếng Hy Lạp.
+Công việc của cô với Tolkien bắt đầu khi cô tình cờ tìm thấy một bản sao tiếng Anh bị bỏ rơi của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, bị một khách du lịch bỏ quên. Vì thích cuốn sách nên cô đã đề xuất với nhà xuất bản <a class="external text" href="http://www.kedros.gr/" rel="noreferrer noopener" target="_blank">Kedros</a> dịch và xuất bản nó bằng tiếng Hy Lạp. Vì vậy *Lord of the Rings* là cuốn sách giả tưởng đầu tiên được xuất bản bằng tiếng Hy Lạp.
 
 ## Hoạt động {#Works}
 

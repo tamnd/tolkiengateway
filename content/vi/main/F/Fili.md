@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fíli"
 ---
 
-Chuyển hướng đến [Fíli](Fíli.md).
+Chuyển hướng đến [Fili](Fíli.md).

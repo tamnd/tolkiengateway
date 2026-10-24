@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Passing of the Elves"
 ---
 
-Chuyển hướng đến [Sự ra đi của Tiên tộc](The_Passing_of_the_Elves.md).
+Chuyển hướng đến [Sự ra đi của Yêu tinh](The_Passing_of_the_Elves.md).

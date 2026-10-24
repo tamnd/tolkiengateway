@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Meril-i-Turinqi"
 ---
 
-Chuyển hướng đến [Meril-i-Turinqi](Meril-i-Turinqi.md).
+Chuyển hướng tới [Meril-i-Turinqi](Meril-i-Turinqi.md).

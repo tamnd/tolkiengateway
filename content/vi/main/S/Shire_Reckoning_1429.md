@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fourth Age 8"
 ---
 
-Chuyển hướng tới [Kỷ Đệ Tứ 8](../F/Fourth_Age_8.md).
+Chuyển hướng đến [8 tuổi thứ tư](../F/Fourth_Age_8.md).

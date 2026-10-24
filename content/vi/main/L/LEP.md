@@ -12,14 +12,14 @@ categories:
   - "Roots"
 ---
 
-**LEP** là một [Common Eldarin](../C/Common_Eldarin.md) [gốc](../S/Sundocarme.md) biểu thị "ngón tay",<sup id="cite_ref-VT42_1-0" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup> hoặc "nhấc (nhấc, lấy) bằng các ngón tay".<sup id="cite_ref-VT47_2-0" class="reference"><a href="#cite_note-VT47-2">[2]</a></sup>
+**LEP** is a [Common Eldarin](../C/Common_Eldarin.md) [root](../S/Sundocarme.md) signifying "finger",<sup id="cite_ref-VT42_1-0" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup> or "pick (up, out) with the fingers".<sup id="cite_ref-VT47_2-0" class="reference"><a href="#cite_note-VT47-2">[2]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Common Eldarin](../C/Common_Eldarin.md): *leper-*<sup id="cite_ref-VT47_2-1" class="reference"><a href="#cite_note-VT47-2">[2]</a></sup>
-    - [Quenya](../Q/Quenya.md): *lepta-* ("ngón tay, cảm nhận bằng đầu ngón tay"); *leper*<sup id="cite_ref-VT47_2-2" class="reference"><a href="#cite_note-VT47-2">[2]</a></sup>
-    - [Telerin](../T/Telerin.md): *lepta-* ("ngón tay, cảm nhận bằng đầu ngón tay"); *leper*<sup id="cite_ref-VT47_2-3" class="reference"><a href="#cite_note-VT47-2">[2]</a></sup>
-    - [Sindarin](../S/Sindarin.md): *leber*<sup id="cite_ref-VT47_2-4" class="reference"><a href="#cite_note-VT47-2">[2]</a></sup>
+- [Eldarin thông thường](../C/Common_Eldarin.md): *leper-*<sup id="cite_ref-VT47_2-1" class="reference"><a href="#cite_note-VT47-2">[2]</a></sup>
+    - [Quenya](../Q/Quenya.md): *lepta-* ("finger, feel with fingertips"); *leper*<sup id="cite_ref-VT47_2-2" class="reference"><a href="#cite_note-VT47-2">[2]</a></sup>
+    - [Telerin](../T/Telerin.md): *lepta-* ("finger, feel with fingertips"); *leper*<sup id="cite_ref-VT47_2-3" class="reference"><a href="#cite_note-VT47-2">[2]</a></sup>
+    - [Tiếng Sindarin](../S/Sindarin.md): *leber*<sup id="cite_ref-VT47_2-4" class="reference"><a href="#cite_note-VT47-2">[2]</a></sup>
 
 - Quenya: *[lempe](Lempe.md)*<sup id="cite_ref-VT42_1-1" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup><sup id="cite_ref-VT47_2-5" class="reference"><a href="#cite_note-VT47-2">[2]</a></sup>
 - Telerin *[lepen](Lepen.md)*<sup id="cite_ref-VT42_1-2" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup><sup id="cite_ref-VT47_2-6" class="reference"><a href="#cite_note-VT47-2">[2]</a></sup>
@@ -29,11 +29,11 @@ categories:
 
 Trong bản thảo “Từ, cụm từ và đoạn văn trong *The Lord of the Rings*” (cuối năm 1950, đầu thập niên 1960) xuất hiện gốc LEPEN (hay LENEP), cho ra các dẫn xuất Quenya *[lempe](Lempe.md)* và Sindarin *[leben](Leben.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Trong *[Etymologies](../T/The_Etymologies.md)* (ca. [1937](../_/1937.md)) xuất hiện gốc LEP-, LEPET biểu thị "ngón tay", tạo ra các dẫn xuất Quenya *lepse*, [Noldorin](../N/Noldorin.md) *lhebed*. Các dạng mở rộng LEPEN, LEPEK, biểu thị "năm", mang lại Quenya *[lempe](Lempe.md)*, Quenya *lemnar* ("tuần") và Noldorin *[lheben](Lheben.md)*, Noldorin *lhevnar* ("tuần").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-VT48_6-0" class="reference"><a href="#cite_note-VT48-6">[6]</a></sup>
+In the *[Etymologies](../T/The_Etymologies.md)* (ca. [1937](../_/1937.md)) appears the root LEP-, LEPET signifying "finger", yielding the derivatives Quenya *lepse*, [Noldorin](../N/Noldorin.md) *lhebed*. Các dạng mở rộng LEPEN, LEPEK, biểu thị "năm", tạo ra Quenya *[lempe](Lempe.md)*, Quenya *lemnar* ("tuần") và Noldorin *[lheben](Lheben.md)*, Noldorin *lhevnar* ("tuần").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-VT48_6-0" class="reference"><a href="#cite_note-VT48-6">[6]</a></sup>
 
-Trong *Gnomish Lexicon* (ca. [1917](../_/1917.md)) xuất hiện gốc *lef-*, thu được đạo hàm [Qenya](../Q/Qenya.md) *[lempe](Lemin.md)* và [Gnomish](../G/Gnomish.md) *[elf](<../E/Elf_(Gnomish).md>)*.<sup id="cite_ref-VT48_6-1" class="reference"><a href="#cite_note-VT48-6">[6]</a></sup><sup id="cite_ref-PE11_7-0" class="reference"><a href="#cite_note-PE11-7">[7]</a></sup>
+In the *Gnomish Lexicon* (ca. [1917](../_/1917.md)) appears the root *lef-*, yielding the derivatives [Qenya](../Q/Qenya.md) *[lempe](Lemin.md)* and [Gnomish](../G/Gnomish.md) *[elf](<../E/Elf_(Gnomish).md>)*.<sup id="cite_ref-VT48_6-1" class="reference"><a href="#cite_note-VT48-6">[6]</a></sup><sup id="cite_ref-PE11_7-0" class="reference"><a href="#cite_note-PE11-7">[7]</a></sup>
 
-Trong *Qenya Lexicon* (ca. [1915](../_/1915.md)) xuất hiện LEPE gốc, với đạo hàm [Qenya](../Q/Qenya.md) *let* ("ngón tay").<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+In the *Qenya Lexicon* (ca. [1915](../_/1915.md)) appears the root LEPE, with the derivative [Qenya](../Q/Qenya.md) *let* ("finger").<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 <span></span>
 

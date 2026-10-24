@@ -15,7 +15,7 @@ categories:
   - "The Tolkien Society"
 ---
 
-<i><b>Belladonna's Broadsheet</b></i> là ấn phẩm đầu tiên của [Hội Tolkien](../T/The_Tolkien_Society.md). Nó được đặt theo tên người biên tập (và người sáng lập Hội), [Vera Chapman](../V/Vera_Chapman.md), người đã lấy tên "[Belladonna Took](Belladonna_Took.md)" làm bí danh Trung Địa của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Belladonna's Broadsheet</b></i> là ấn phẩm đầu tiên của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md). Nó được đặt theo tên người biên tập (và người sáng lập Hiệp hội), [Vera Chapman](../V/Vera_Chapman.md), người đã lấy tên "[Belladonna Took](Belladonna_Took.md)" làm bí danh Trung Địa của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Vấn đề {#Issues}
 
@@ -23,7 +23,7 @@ categories:
 
 <dl><dd><b>Published: December <a href="../_/1969.md" title="1969">1969</a></b></dd></dl>
 
-Trong cùng tháng diễn ra 'cuộc họp sơ bộ' của Hiệp hội, Chapman đã xuất bản một bản tin A4 có khuôn tô và thông báo về sự thành lập của Hiệp hội Tolkien.
+Trong cùng tháng diễn ra 'cuộc họp sơ bộ' của Hiệp hội, Chapman đã đưa ra một bản tin A4 có khuôn tô và thông báo về sự thành lập của Hiệp hội Tolkien.
 
 <blockquote class="tg-quote noexcerpt">
 <p>Here [...] begins THE TOLKIEN SOCIETY OF BRITAIN - its exact name may call for some more decision.

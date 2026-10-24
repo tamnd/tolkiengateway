@@ -28,13 +28,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lugburz.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e0/Lugburz.jpg/320px-Lugburz.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e0/Lugburz.jpg/480px-Lugburz.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e0/Lugburz.jpg/640px-Lugburz.jpg 2x" data-file-width="1024" data-file-height="1024"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Lugburz</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Studio album by <a href="../S/Summoning.md" title="Summoning">Summoning</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">20 March <a href="../_/1995.md" title="1995">1995</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Black Metal</td></tr><tr><th scope="row" class="tg-infobox-label">Length</th><td class="tg-infobox-data">50:44</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Label</th><td class="tg-infobox-data">Napalm Records</td></tr></tbody></table>
 
-<i><b>Lugburz</b></i> là album dài đầu tiên của [Summoning](../S/Summoning.md) và được phát hành vào [1995](../_/1995.md). Tên được lấy từ [Lugbúrz](../B/Barad-dûr.md), có nghĩa là "*dark tower*" trong [Hắc Ngữ](../B/Black_Speech.md), ám chỉ [Barad-dûr](../B/Barad-dûr.md). Mặc dù có tên album nhưng ảnh bìa không mô tả tòa tháp [Sauron](../S/Sauron.md) mà được lấy từ tiểu thuyết của Roger Taylor *The Fall of Fyorlund.*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Lugburz</b></i> là album dài đầu tiên của [Summoning](../S/Summoning.md) và được phát hành vào [1995](../_/1995.md). Tên được lấy từ [Lugbúrz](../B/Barad-dûr.md), có nghĩa là "*dark tower*" trong [Bài phát biểu của người da đen](../B/Black_Speech.md), đề cập đến [Barad-dûr](../B/Barad-dûr.md). Mặc dù có tên album nhưng ảnh bìa không mô tả tòa tháp của [Sauron](../S/Sauron.md) mà được lấy từ tiểu thuyết của Roger Taylor *The Fall of Fyorlund.*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Đội hình {#Lineup}
 
 - Silenius: *Vocals, Bass, Keyboards*
 - Người bảo vệ mọi giấc ngủ bất tận: *Vocals, Guitars, Keyboards*
-- Sự phân chia của kẻ có sừng Vua: *Drums*
+- Cuộc chiến của Vua Sừng: *Drums*
 
 ## Khách {#Guests}
 
@@ -47,9 +47,9 @@ infobox:
 3. [Chuyến bay của Nazgul](../F/Flight_of_the_Nazgul.md) - *7:07*
 4. Nơi mùa đông khóc mãi - *4:04*
 5. Qua Thung lũng Vương quốc Băng giá - *6:22*
-6. [Tăng trưởng cùng trận chiến-Orc](../R/Raising_with_the_Battle-Orcs.md) - *5:44*
-7. Chủ nhân của Mồi nhử xưa - *4:14*
-8. Giữa Ánh Sáng và Bóng Tối - *3:29*
+6. [Tăng trưởng cùng lũ Battle-Orc](../R/Raising_with_the_Battle-Orcs.md) - *5:44*
+7. Bậc thầy của mồi nhử cũ - *4:14*
+8. Giữa ánh sáng và bóng tối - *3:29*
 9. Vùng đất lửa vĩnh cửu - 3:36
 10. Rồng thời gian - *6:01*
 11. Moonance - *4:46*

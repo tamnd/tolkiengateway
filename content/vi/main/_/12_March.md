@@ -63,22 +63,22 @@ Sự kiện xảy ra vào ngày 12 tháng 3.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1927](1927.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Ronald Ashton](../L/Letter_to_Ronald_Ashton.md).
+- **[1927](1927.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Ronald Ashton](../L/Letter_to_Ronald_Ashton.md).
 - **[1941](1941.md)** - J.R.R. Tolkien viết [Thư 43a](../L/Letter_43a.md).
 - **[1945](1945.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 97c](../L/Letter_97c.md).
 - **[1958](1958.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) nhận được [câu hỏi về chỉ mục](../I/Index_questions.md) từ [Nancy Smith](../N/Nancy_Smith.md).
 - **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho John Bush](<../L/Letter_to_John_Bush_(12_March_1966).md>).
-- **[2003](2003.md)** - "Trận chiến Helm's Deep", bộ thứ năm trong *[The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)*, được phát hành.
+- **[2003](2003.md)** - "Battle of Helm's Deep", bộ thứ năm trong *[The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)*, được phát hành.
 - **[2012](2012.md)** - [Bản cập nhật 6: Shores of the Great River](../T/The_Lord_of_the_Rings_Online.md#Update_6:_Shores_of_the_Great_River), bản cập nhật miễn phí thứ sáu của *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*, được phát hành.
 - **[2015](2015.md)** - [Terry Pratchett](../T/Terry_Pratchett.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
-    - [Borondir](../B/Borondir.md) và người bạn đồng hành của anh ấy đang trên đường tìm kiếm [Éothéod](Éothéod.md).
+    - [Borondir](../B/Borondir.md) và người bạn đồng hành của ông đang trên đường tìm kiếm [Éothéod](Éothéod.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Gollum](../G/Gollum.md) dẫn [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) vào [Hang ổ của Shelob](../S/Shelob's_Lair.md).
-    - [Faramir](../F/Faramir.md) phải rút lui về [Causeway Pháo đài](../C/Causeway_Forts.md).
-    - Con [Rohirrim](../R/Rohirrim.md) di chuyển về phía [Minas Tirith](../M/Minas_Tirith.md). Họ cắm trại dưới [Min-Rimmon](../M/Min-Rimmon.md).
+    - [Gollum](../G/Gollum.md) dẫn [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) vào [Shelob's Lair](../S/Shelob's_Lair.md).
+    - [Faramir](../F/Faramir.md) phải rút lui về [Pháo đài đường đắp cao](../C/Causeway_Forts.md).
+    - [Rohirrim](../R/Rohirrim.md) đi về hướng [Minas Tirith](../M/Minas_Tirith.md). Họ cắm trại dưới [Min-Rimmon](../M/Min-Rimmon.md).
     - [Aragorn](../A/Aragorn.md) đẩy kẻ địch về phía [Pelargir](../P/Pelargir.md).
     - Các [Ent](../E/Ents.md) đánh bại quân xâm lược [Rohan](../R/Rohan.md).

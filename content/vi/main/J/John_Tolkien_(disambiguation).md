@@ -14,7 +14,7 @@ images:
   - "Disambig.png"
 ---
 
-**John Tolkien** có thể ám chỉ những người sau:
+**John Tolkien** có thể đề cập đến những người sau:
 
 - [John Tolkien](John_Tolkien.md), con trai của [J.R.R. Tolkien](J.R.R._Tolkien.md).
 - **[John Ronald Reuel Tolkien](J.R.R._Tolkien.md),** thường được gọi là J.R.R. Tolkien.

@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1250.md" title="Third Age 1250">1250</a><a href="Third_Age_1255.md" title="Third Age 1255">1255</a><a href="Third_Age_1259.md" title="Third Age 1259">1259</a><a class="mw-selflink selflink">1260</a><a href="Third_Age_1272.md" title="Third Age 1272">1272</a><a href="Third_Age_1294.md" title="Third Age 1294">1294</a><a href="Third_Age_1300.md" title="Third Age 1300">1300</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 1260** (viết tắt là **T.A. 1260**) là năm [thứ 1260 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ ba 1260** (viết tắt là **T.A. 1260**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1260 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Valacar](../V/Valacar.md) được cha mình, [Nhiếp chính](../R/Regent_of_Gondor.md) [Minalcar](../R/Rómendacil_II.md) triệu hồi khỏi [Rhovanion](../R/Rhovanion.md) để tham gia vào các cố vấn của vương quốc và chỉ huy quân đội của [Gondor](../G/Gondor.md).<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+- [Valacar](../V/Valacar.md) được cha anh, [Nhiếp chính](../R/Regent_of_Gondor.md) [Minalcar](../R/Rómendacil_II.md) triệu hồi về khỏi [Rhovanion](../R/Rhovanion.md), để tham gia vào các cố vấn của vương quốc và chỉ huy quân đội của [Gondor](../G/Gondor.md).<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 <span></span>
 

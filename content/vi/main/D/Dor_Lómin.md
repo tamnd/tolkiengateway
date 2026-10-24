@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dor-lómin"
 ---
 
-Chuyển hướng đến [Dor-lómin](Dor-lómin.md).
+Chuyển hướng tới [Dor-lómin](Dor-lómin.md).

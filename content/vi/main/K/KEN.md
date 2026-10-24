@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**KEN** là một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) biểu thị "thấy, nhận biết, ghi nhận".<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup><sup id="cite_ref-VT_2-0" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
+**KEN** là một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) biểu thị "nhìn, nhận biết, ghi chú".<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup><sup id="cite_ref-VT_2-0" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 

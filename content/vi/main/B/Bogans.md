@@ -17,9 +17,9 @@ categories:
 
 ## Lô đồ {#Plot}
 
-Ba "<a class="extiw" href="http://en.wikipedia.org/wiki/bogan" title="wikipedia:bogan">Bogans</a>", Greg, Ray và Luke, đi xuyên qua [New Zealand](../N/New_Zealand.md) để gặp [Peter Jackson](../P/Peter_Jackson.md). Mục tiêu của họ là được đóng vai phụ trong *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(film_series).md>)*.
+Ba "<a class="extiw" href="http://en.wikipedia.org/wiki/bogan" title="wikipedia:bogan">Bogans</a>", Greg, Ray và Luke, đi khắp [New Zealand](../N/New_Zealand.md) để gặp [Peter Jackson](../P/Peter_Jackson.md). Mục tiêu của họ là được đóng vai phụ trong *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(film_series).md>)*.
 
-Đầu tiên họ tới [Wellington](../W/Wellington.md), nơi Peter Jackson đang quay loạt phim này. Sau khi đến nơi, họ quyết định mua *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* sách vì không ai trong số họ thực sự biết gì về nó. Khi mở trang đầu tiên, họ phát hiện ra rằng [Hobbit](../H/Hobbit.md) sống trong các cái hố, điều này khiến họ nảy ra ý định đào một cái hố để ngủ. Họ quyết định làm điều này trong sân của Peter Jackson, nhưng sau đó nhận ra rằng họ đã nhầm Peter.
+Đầu tiên họ đến [Wellington](../W/Wellington.md), nơi Peter Jackson đang quay loạt phim này. Sau khi đến nơi, họ quyết định mua *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* sách vì không ai trong số họ thực sự biết gì về nó. Khi mở trang đầu tiên, họ phát hiện ra rằng [Hobbit](../H/Hobbit.md) sống trong những cái hố, điều này khiến họ nảy ra ý tưởng đào một cái hố để ngủ. Họ quyết định làm điều này trong sân của Peter Jackson, nhưng sau đó nhận ra rằng họ đã nhầm Peter.
 
 Trong một sự xoay chuyển kỳ lạ của số phận, hai trong số các diễn viên thực sự đã kết thúc trong *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*: [Ian Hughes](../I/Ian_Hughes.md) đóng vai [Irolas](../I/Irolas.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Tait&amp;action=edit&amp;redlink=1" title="Peter Tait (page does not exist)">Peter Tait</a> đóng vai [Shagrat](../S/Shagrat.md).
 

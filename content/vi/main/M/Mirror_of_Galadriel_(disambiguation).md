@@ -14,15 +14,15 @@ images:
   - "Disambig.png"
 ---
 
-**Gương của Galadriel** có thể ám chỉ:
+**Tấm gương của Galadriel** có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-- [Gương Galadriel](Mirror_of_Galadriel.md), chậu nước có thể cho thấy những tầm nhìn xa xôi về quá khứ, hiện tại và tương lai, được [Galadriel](../G/Galadriel.md) sử dụng.
+- [Gương của Galadriel](Mirror_of_Galadriel.md), lưu vực nước có thể cho thấy những tầm nhìn xa xôi về quá khứ, hiện tại và tương lai, được [Galadriel](../G/Galadriel.md) sử dụng.
 
 ## Chương {#Chapters}
 
-- [Tấm gương của Galadriel](../T/The_Mirror_of_Galadriel.md), chương thứ bảy của cuốn sách thứ hai của [The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md).
+- [Tấm gương của Galadriel](../T/The_Mirror_of_Galadriel.md), chương thứ bảy trong cuốn thứ hai của [Hiệp hội chiếc nhẫn](../T/The_Fellowship_of_the_Ring.md).
 
 ## Các bản chuyển thể {#Adaptations}
 

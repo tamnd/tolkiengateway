@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 7 tháng 6.
 ## Trên Trái đất {#On_Earth}
 
 - **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 163](../L/Letter_163.md).
-- **[1957](1957.md)** - [Đại học Marquette](../M/Marquette_University.md) mua lại nhiều bản thảo của [Tolkien](../J/J.R.R._Tolkien.md)với giá £1.500 (<a class="external text" href="https://www.thisismoney.co.uk/money/bills/article-1633409/Historic-inflation-calculator-value-money-changed-1900.html" rel="noreferrer noopener" target="_blank">trị giá £<i>£50.714</i> vào năm 2025</a>).
+- **[1957](1957.md)** - [Đại học Marquette](../M/Marquette_University.md) mua lại nhiều bản thảo của [Tolkien](../J/J.R.R._Tolkien.md) với giá £1.500 (<a class="external text" href="https://www.thisismoney.co.uk/money/bills/article-1633409/Historic-inflation-calculator-value-money-changed-1900.html" rel="noreferrer noopener" target="_blank">trị giá £<i>£50.714</i> vào năm 2025</a>).
 - **[1964](1964.md)** - Diễn viên [Brian Talbot](../B/Brian_Talbot.md) ra đời.
 - **[1972](1972.md)** – Diễn viên [Karl Urban](../K/Karl_Urban.md) ra đời.
 - **[1981](1981.md)** - Tập thứ mười bốn của [loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).

@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Enano Akd"
 ---
 
-- Enano Akd đã vui lòng cho phép anh ấy sử dụng tác phẩm nghệ thuật được chọn trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Enano Akd đã vui lòng cho phép ông sử dụng tác phẩm nghệ thuật được chọn trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 15 tháng 5 năm 2015
 - Người dùng đã xin phép qua tin nhắn riêng tư: [Người dùng:Woolly Mammoth](https://tolkiengateway.net/wiki/User:Woolly_Mammoth)

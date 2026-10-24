@@ -41,11 +41,11 @@ infobox:
            46 (extended)</td></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">1:47 (theatrical)<br/>
              1:44 (extended)</td></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data">Théoden prepares for battle.</td></tr><tr><th scope="row" class="tg-infobox-label">Characters</th><td class="tg-infobox-data"><a href="../T/Théoden.md" title="Théoden">Théoden</a>, <a href="../G/Gamling.md" title="Gamling">Gamling</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><i><a href="../T/The_Glittering_Caves.md" title="The Glittering Caves">The Glittering Caves</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><i><a href="%2522Don&#39;t_Be_Hasty_Master_Meriadoc!%2522.md" title="&#34;Don&#39;t Be Hasty Master Meriadoc!&#34;">&#34;Don&#39;t Be Hasty Master Meriadoc!&#34;</a></i></td></tr></tbody></table>
 
-**"Con ngựa và người cưỡi ngựa ở đâu?"** là cảnh thứ ba mươi sáu của *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và cảnh thứ bốn mươi sáu của [*The Lord of the Rings: The Two Towers* (phiên bản mở rộng)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
+**"Con ngựa và người cưỡi ngựa ở đâu?"** là cảnh thứ ba mươi sáu của *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và cảnh thứ bốn mươi sáu của [*The Lord of the Rings: The Two Towers* (extended edition)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
 
 ## Tóm tắt {#Synopsis}
 
-[Cờ bạc](../G/Gamling.md) sẵn sàng [Théoden](../T/Théoden.md) chiến đấu, giúp anh ta mặc áo giáp. Khi làm như vậy, anh ta trấn an nhà vua rằng những người của [Rohan](../R/Rohan.md) sẽ đi theo anh ta, dù thế nào đi chăng nữa. Cảnh này được xen kẽ với một loạt cảnh quay khác, bao gồm cảnh [Uruk-hai](../U/Uruk-hai.md) hành quân về phía [Helm's Deep](../H/Helm's_Deep.md) và những người đàn ông và chàng trai Rohan sẵn sàng tham chiến.
+[Cờ bạc](../G/Gamling.md) chuẩn bị sẵn sàng cho [Théoden](../T/Théoden.md) chiến đấu, giúp ông ta mặc áo giáp. Khi làm như vậy, ông ta trấn an nhà vua rằng người của [Rohan](../R/Rohan.md) sẽ đi theo ông ta, dù thế nào đi chăng nữa. Cảnh này được xen kẽ với một loạt cảnh quay khác, bao gồm cả [Uruk-hai](../U/Uruk-hai.md) hành quân về phía [Helm's Deep](../H/Helm's_Deep.md) và những người đàn ông cũng như chàng trai Rohan đang chuẩn bị sẵn sàng cho cuộc chiến.
 
 <blockquote class="tg-quote noexcerpt">
 <p>The days have gone down in the west ... behind the hills ... into Shadow. How did it come to this?

@@ -27,7 +27,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien viết thư cho người con thứ ba Christopher thông báo rằng [Inklings](../I/Inklings.md) đề nghị coi anh là thành viên thường trực.
+Tolkien viết thư cho con trai thứ ba Christopher, thông báo rằng [Inklings](../I/Inklings.md) đề xuất coi anh là thành viên thường trực.
 
 Đoạn trích từ bức thư ban đầu xuất hiện trong cuốn sách [The Inklings](<../T/The_Inklings_(book).md>) của [Humphrey Carpenter](../H/Humphrey_Carpenter.md), trước khi được xuất bản đầy đủ trong Phiên bản mở rộng của [The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition). <br>
 

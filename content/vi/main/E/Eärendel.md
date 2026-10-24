@@ -11,4 +11,4 @@ redirect_target: "Eärendil"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Chuyển hướng đến [Eärendil](Eärendil.md#Other_versions_of_the_legendarium).
+Chuyển hướng tới [Eärendil](Eärendil.md#Other_versions_of_the_legendarium).

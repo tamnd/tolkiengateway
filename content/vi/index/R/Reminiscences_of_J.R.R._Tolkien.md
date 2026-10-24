@@ -57,7 +57,7 @@ sort_keys:
 - [1973](../../main/_/1973.md): *The Sunday Telegraph* (9 tháng Chín)
     - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=J._R._R._Tolkien_%E2%80%93_The_Wizard_Father&amp;action=edit&amp;redlink=1" title="J. R. R. Tolkien – The Wizard Father (page does not exist)">J. R. R. Tolkien – Người cha Pháp sư</a></i> của [Michael Tolkien](../../main/M/Michael_Tolkien.md)
 - [1973](../../main/_/1973.md): [*Locus* #149](../../main/L/Locus_149.md) (14 tháng Chín)
-    - \[L. Sprague de Camp về cuộc gặp của anh ấy với Tolkien\]
+    - \[L. Sprague de Camp về cuộc gặp của ông với Tolkien\]
 - [1973](../../main/_/1973.md): *The Tablet*, 15 tháng Chín
     - "[Tưởng nhớ Tolkien](../../main/A/A_Tribute_to_Tolkien.md)" ([Robert Murray](../../main/R/Robert_Murray.md))
 - [1976](../../main/_/1976.md): *Mythlore* 12
@@ -78,7 +78,7 @@ sort_keys:
 - [1980](../../main/_/1980.md): [*Amon Hen* 44](../../main/A/Amon_Hen_44.md)
     - "Hồi ức" (của [Roger Lancelyn Green](../../main/R/Roger_Lancelyn_Green.md))
 - [1980](../../main/_/1980.md): *Minas Tirith Evening-Star* 9, không. 2 (tháng 1 năm 1980), trang 16-17
-    - "[Đối thoại: Thảo luận của Humphrey Carpenter, Giáo sư George Sayer và Tiến sĩ Clyde S. Kilby; ghi ngày 29 tháng 9 năm 1979, Wheaton, Illinois](../../main/A/A_Dialogue%253A_Discussion_by_Humphrey_Carpenter,_Professor_George_Sayer_and_Dr._Clyde_S._Kilby.md)"
+    - "[A Dialogue: Discussion by Humphrey Carpenter, Professor George Sayer and Dr. Clyde S. Kilby; recorded Sept. 29, 1979, Wheaton, Illinois](../../main/A/A_Dialogue%253A_Discussion_by_Humphrey_Carpenter,_Professor_George_Sayer_and_Dr._Clyde_S._Kilby.md)"
 - [1981](../../main/_/1981.md): <i><a class="external text" href="http://www.karl-may-gesellschaft.de/kmg/seklit/JbKMG/1981/index.htm" rel="noreferrer noopener" target="_blank">Jahrbuch der Karl-May-Gesellschaft 1981</a></i>
     - "<a class="external text" href="http://www.karl-may-gesellschaft.de/kmg/seklit/JbKMG/1981/207.htm" rel="noreferrer noopener" target="_blank">Karl-May-Ähnliches trong J. R. R. Tolkiens Dichtung 'Der Herr der Ringe'</a>" (bởi Franz Cornaro)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
 - [1981](../../main/_/1981.md): "<a class="external text" href="http://newspaperarchive.com/ca/manitoba/winnipeg/winnipeg-free-press/1981/04-04/page-35" rel="noreferrer noopener" target="_blank">Báo chí Tự do Winnipeg (Báo) John Boorman</a>
@@ -118,7 +118,7 @@ sort_keys:
 - [1999](../../main/_/1999.md): *TheOnering.net*, ngày 17 tháng 12 năm
     - "<a class="external text" href="http://www.theonering.net/torwp/1999/12/17/21613-chance-meeting/" rel="noreferrer noopener" target="_blank">Cuộc gặp gỡ tình cờ…</a>"
 - [1999](../../main/_/1999.md): *Morgunblaðið*, ngày 28 tháng 2 (báo Iceland)
-    - \[Trong một bài viết, Linda Ásdísardóttir <a class="external text" href="http://timarit.is/view_page_init.jsp?issId=131485&amp;pageId=1928715&amp;lang=is&amp;q=Tolkien" rel="noreferrer noopener" target="_blank">phỏng vấn</a> Arndís Þorbjarnardóttir, 89 tuổi, từng là người giúp việc trong hộ gia đình Tolkien khi J.R.R. Tolkien đang viết *[The Hobbit](../../main/T/The_Hobbit.md)*.\]<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[3]</a></sup>
+    - \[Trong một bài báo, Linda Ásdísardóttir <a class="external text" href="http://timarit.is/view_page_init.jsp?issId=131485&amp;pageId=1928715&amp;lang=is&amp;q=Tolkien" rel="noreferrer noopener" target="_blank">phỏng vấn</a> Arndís Þorbjarnardóttir, 89 tuổi, từng là người giúp việc trong hộ gia đình Tolkien khi J.R.R. Tolkien đang viết *[The Hobbit](../../main/T/The_Hobbit.md)*.\]<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[3]</a></sup>
 - [1999](../../main/_/1999.md): *[Tolkien: A Celebration: Collected Writings on a Literary Legacy](../../main/T/Tolkien%253A_A_Celebration.md)*
     - "Hồi ức về J.R.R. Tolkien" ([George Sayer](../../main/G/George_Sayer.md))
     - "Tolkien và С. S. Lewis: Cuộc phỏng vấn với Walter Hooper"
@@ -127,13 +127,13 @@ sort_keys:
 - [2001](../../main/_/2001.md): *The Sunday Times Magazine*, ngày 25 tháng 11
     - “Cuộc gặp gỡ ngắn ngủi của chúng ta,” bởi [Humphrey Carpenter](../../main/H/Humphrey_Carpenter.md)
 - [2001](../../main/_/2001.md): *Telegraph*, ngày 4 tháng 12
-    - "<a class="external text" href="http://www.telegraph.co.uk/culture/4726863/We-talked-of-love-death-and-fairy-tales.html" rel="noreferrer noopener" target="_blank">Chúng ta đã nói về tình yêu, cái chết và những câu chuyện cổ tích</a>" ([Bill Cater](../../main/W/William_Cater.md))
+    - "<a class="external text" href="http://www.telegraph.co.uk/culture/4726863/We-talked-of-love-death-and-fairy-tales.html" rel="noreferrer noopener" target="_blank">Chúng tôi đã nói về tình yêu, cái chết và những câu chuyện cổ tích</a>" ([Bill Cater](../../main/W/William_Cater.md))
 - [2001](../../main/_/2001.md): Christopherleeweb.com
     - "<a class="external text" href="http://christopherleeweb.com/forums/front-page-news/interview-christopher-lee-ian-mckellen-and-john-rhys-0" rel="noreferrer noopener" target="_blank">Phỏng vấn Christopher Lee</a>" ([Christopher Lee](../../main/C/Christopher_Lee.md))
 - [2001](../../main/_/2001.md): *Watford Observer*, ngày 14 tháng 12
     - "<a class="external text" href="http://www.watfordobserver.co.uk/news/307760.related_to_tolkien/" rel="noreferrer noopener" target="_blank">Liên quan đến Tolkien</a>" (Sandra Carter; phỏng vấn [Julian Tolkien](../../main/J/Julian_Tolkien.md))
 - [2001](../../main/_/2001.md): *The Guardian*, ngày 14 tháng 12
-    - "<a class="external text" href="http://www.theguardian.com/film/2001/dec/14/lordoftherings.jrrtolkien/" rel="noreferrer noopener" target="_blank">Vậy, liệu Tolkien có thích bộ phim này không?</a>"
+    - "<a class="external text" href="http://www.theguardian.com/film/2001/dec/14/lordoftherings.jrrtolkien/" rel="noreferrer noopener" target="_blank">Vậy Tolkien có thích bộ phim không?</a>"
 - [2002](../../main/_/2002.md): *Bilbo's Farewell Song*, ngày 26 tháng 8
     - "<a class="external text" href="http://archives.theonering.net/perl/newsview/8/1030403585" rel="noreferrer noopener" target="_blank">Pauline Baynes</a>"
 - [2002](../../main/_/2002.md): *Chesterton Review* Tháng 2, Tập 28, Số 1/2, Trang 119-123
@@ -153,7 +153,7 @@ sort_keys:
 - [2006](../../main/_/2006.md): www.martingilbert.com/
     - "<a class="external text" href="http://www.martingilbert.com/tolkein-read-more/" rel="noreferrer noopener" target="_blank">“Điều Tolkien đã dạy tôi về Trận chiến Somme”</a>"
 - [2006](../../main/_/2006.md): Andwerve, ngày 08 tháng 1
-    - "<a class="external text" href="http://www.tolkienguide.com/modules/wiwimod/index.php?page=Brem+Interview#anchor1" rel="noreferrer noopener" target="_blank">Kết nối với lịch sử - Phỏng vấn Barbara Remington</a>"
+    - "<a class="external text" href="http://www.tolkienguide.com/modules/wiwimod/index.php?page=Brem+Interview#anchor1" rel="noreferrer noopener" target="_blank">Kết nối với Lịch sử - Phỏng vấn Barbara Remington</a>"
 - [2007](../../main/_/2007.md): Cuốn sách cuối cùng Tolkien được ký trước khi ông qua đời trong cuộc đấu giá của Bonhams
     - "<a class="external autonumber" href="http://www.tolkienlibrary.com/press/Last-Tolkien-signature-on-auction.php" rel="noreferrer noopener" target="_blank">[1]</a>"
 - [2008](../../main/_/2008.md): [*Amon Hen* 209](../../main/A/Amon_Hen_209.md)
@@ -167,7 +167,7 @@ sort_keys:
 - [2009](../../main/_/2009.md): *Telegraph*, ngày 8 tháng 5
     - "<a class="external text" href="http://www.telegraph.co.uk/culture/books/authorinterviews/5286395/Culture-Clinic-Sister-Wendy-Beckett.html" rel="noreferrer noopener" target="_blank">Phòng khám Văn hóa: Sơ Wendy Beckett</a>" (phỏng vấn Sơ Wendy Beckett)
 - [2009](../../main/_/2009.md): *Examiner*, ngày 26 tháng 10
-    - "<a class="external text" href="http://www.examiner.com/article/recollections-on-life-with-c-s-lewis-an-interview-with-walter-hooper" rel="noreferrer noopener" target="_blank">Hồi ức về cuộc đời với C.S. Lewis: cuộc phỏng vấn với Walter Hooper</a>"
+    - "<a class="external text" href="http://www.examiner.com/article/recollections-on-life-with-c-s-lewis-an-interview-with-walter-hooper" rel="noreferrer noopener" target="_blank">Hồi ức cuộc đời với C.S. Lewis: cuộc phỏng vấn với Walter Hooper</a>"
 - [2010](../../main/_/2010.md): [Mallorn 50](../../main/M/Mallorn_50.md), "Hội Tolkien - những ngày đầu" của Charles E. Noad.
 - [2010](../../main/_/2010.md): *festivalartandbooks.com*
     - "<a class="external text" href="http://www.festivalartandbooks.com/journal8kjh/8intsmith.html" rel="noreferrer noopener" target="_blank">Phỏng vấn Philip Smith</a>
@@ -188,11 +188,11 @@ sort_keys:
 - [2012](../../main/_/2012.md): Người bảo vệ, 03 tháng Chín
     - "<a class="external text" href="http://www.theguardian.com/theguardian/2012/sep/03/archive-1973-hobbit-lord-rings-tolkien-death" rel="noreferrer noopener" target="_blank">Từ kho lưu trữ, 3 tháng Chín 1973: Hobbit và tác giả Chúa tể của những chiếc nhẫn J. R. R. Tolkien qua đời</a>"
 - [2012](../../main/_/2012.md): *staustinreview.com*, tháng 9
-    - "<a class="external text" href="http://www.staustinreview.com/uploads/issues/Sept_Oct_2012_Milward.pdf" rel="noreferrer noopener" target="_blank">Tolkien, Lewis và Nữ hoàng của đạo Thiên chúa</a> của Peter Milward
+    - "<a class="external text" href="http://www.staustinreview.com/uploads/issues/Sept_Oct_2012_Milward.pdf" rel="noreferrer noopener" target="_blank">Tolkien, Lewis và Nữ hoàng của đạo Thiên Chúa</a> của Peter Milward
 - [2012](../../main/_/2012.md): *Times of Malta*, ngày 24 tháng 12
     - "<a class="external text" href="http://www.timesofmalta.com/articles/view/20121224/local/A-quest-for-The-Hobbit.450767" rel="noreferrer noopener" target="_blank">Nhiệm vụ tìm kiếm The Hobbit</a>" (bởi Kristina Chetcuti).(phỏng vấn Charles Calleja)
-- [2013](../../main/_/2013.md): BBC News, ngày 21 tháng 3 năm 2013
-    - "<a class="external text" href="http://www.bbc.co.uk/news/uk-northern-ireland-21859633" rel="noreferrer noopener" target="_blank">Có phải Gollum tên của anh ấy lấy được từ một hang động ở Burren Ireland không?</a>" (bởi Nuala McCann). \[Bao gồm ký ức được cho là của Rose MacNamara\].
+- [2013](../../main/_/2013.md): Tin tức BBC, ngày 21 tháng 3 năm 2013
+    - "<a class="external text" href="http://www.bbc.co.uk/news/uk-northern-ireland-21859633" rel="noreferrer noopener" target="_blank">Có phải Gollum tên của ông lấy được từ một hang động ở Burren Ireland không?</a>" (bởi Nuala McCann). \[Bao gồm ký ức được cho là của Rose MacNamara\].
 - [2013](../../main/_/2013.md): [*Mallorn* 54](../../main/M/Mallorn_54.md)
     - "Hồi ức về Tolkien: Canon Gerard Hanlon" (eds, Daniel Helen và [Morgan Thomsen](../../main/M/Morgan_Thomsen.md))
 - [2013](../../main/_/2013.md): Người Morrisian (blog)
@@ -214,7 +214,7 @@ sort_keys:
 - [2017](../../main/_/2017.md): *The Times*, ngày 22 tháng 5
     - <a class="external text" href="http://www.thetimes.co.uk/article/roger-highfield-7spwb8xrs" rel="noreferrer noopener" target="_blank">Cáo phó: Roger Highfield</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[4]</a></sup>
 - [2017](../../main/_/2017.md): www.quora.com
-    - "<a class="external text" href="http://www.quora.com/After-Lord-of-the-Rings-was-there-any-mention-of-the-entwives/answer/Pip-Willis" rel="noreferrer noopener" target="_blank">Sau Chúa tể của những chiếc nhẫn có bất kỳ đề cập nào đến các cặp vợ chồng không?: Trả lời</a>" của Pip Willis
+    - "<a class="external text" href="http://www.quora.com/After-Lord-of-the-Rings-was-there-any-mention-of-the-entwives/answer/Pip-Willis" rel="noreferrer noopener" target="_blank">Sau Chúa tể của những chiếc nhẫn có đề cập gì đến những người đồng đội không?: Trả lời</a>" của Pip Willis
 - [2018](../../main/_/2018.md): *Simbelmynë* #2 (31)
     - "<a class="external text" href="http://www.elendilion.pl/wp-content/uploads/2019/01/Sn_31_English.pdf" rel="noreferrer noopener" target="_blank">Ký ức J.R.R. Tolkien của tôi</a>", bởi Zbigniew Pełczyński
 - [2025](../../main/_/2025.md): Cuộc trò chuyện với Peter Burke tại Emmanuel College, Cambridge
@@ -224,7 +224,7 @@ sort_keys:
 - [2011](../../main/_/2011.md): *BBC Radio 4*, ngày 25 tháng 11
     - "<a class="external text" href="http://www.bbc.co.uk/programmes/b017c8gp" rel="noreferrer noopener" target="_blank">Phỏng vấn Robert Hardy</a>
 - [2012](../../main/_/2012.md): *The Hobbit, the Musical*, chương trình phát thanh (London: [BBC](../../main/B/BBC.md), [2012](../../main/_/2012.md))
-    - Giới thiệu hồi ức của <a class="extiw" href="http://en.wikipedia.org/wiki/Paul_Drayton_(composer)" title="wikipedia:Paul Drayton (composer)">Paul Drayton</a> về cuộc gặp của anh ấy và [Humphrey Carpenter](../../main/H/Humphrey_Carpenter.md) với Tolkien vào [1967](../../main/_/1967.md) để xin phép [*The Hobbit* (chuyển thể giai đoạn 1967)](<../../main/T/The_Hobbit_(1967_stage_adaptation).md>).
+    - Giới thiệu hồi ức của <a class="extiw" href="http://en.wikipedia.org/wiki/Paul_Drayton_(composer)" title="wikipedia:Paul Drayton (composer)">Paul Drayton</a> về cuộc gặp của ông và [Humphrey Carpenter](../../main/H/Humphrey_Carpenter.md) với Tolkien vào [1967](../../main/_/1967.md) để xin phép [*The Hobbit* (chuyển thể giai đoạn 1967)](<../../main/T/The_Hobbit_(1967_stage_adaptation).md>).
 - [2012](../../main/_/2012.md): *Sister Wendy Beckett*, chương trình phát thanh (London: [BBC](../../main/B/BBC.md), [2012](../../main/_/2012.md)) <a class="external text" href="http://www.bbc.co.uk/radio4/features/desert-island-discs/castaway/e39b7f00#b01p9g3w" rel="noreferrer noopener" target="_blank">Đĩa Đảo Sa Mạc</a>
 - [2013](../../main/_/2013.md): *Beyond Belief*, chương trình phát thanh (London: [BBC](../../main/B/BBC.md), [2013](../../main/_/2013.md)) <a class="external text" href="http://www.bbc.co.uk/programmes/b03bqchj" rel="noreferrer noopener" target="_blank">Robert Hardy</a>
 - [2014](../../main/_/2014.md): *Men @ Work with Michael Tolkien*, ngày 11 tháng 10
@@ -259,7 +259,7 @@ Hồi ức bởi:
 <span><div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Thảo luận về những điểm tương đồng giữa <a class="extiw" href="http://en.wikipedia.org/wiki/Karl_May" title="wikipedia:Karl May">Karl May</a> và Tolkien, bài viết có trích dẫn từ một bức thư từ <a href="../../main/R/Rayner_Unwin.md" title="Rayner Unwin">Rayner Unwin</a> (ngày <a href="../../main/_/3_August.md" title="3 August">3 tháng 8</a> <a href="../../main/_/1979.md" title="1979">1979</a>): "<i>[Christopher Tolkien] nói với tôi rằng chắc chắn thư viện của Giáo sư J. R. R. Tolkien không chứa bất kỳ tác phẩm nào của Karl May, nhưng rõ ràng ông ấy sẽ không thể nói chắc chắn rằng cha ông ấy không quen thuộc với tác giả này. Tất cả những gì ông ấy có thể nói là theo những gì ông ấy biết, những điểm tương đồng chỉ là ngẫu nhiên."</i></span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Trích từ bài viết: “Lần đầu tiên tôi gặp Giáo sư Tolkien vào năm 1962. Vừa mới lập gia đình, tôi đang tìm việc làm bán thời gian và Giáo sư cần một người xử lý các thư của người hâm mộ chất đống mà không được trả lời trong khi ông cố gắng theo đuổi nhiều lĩnh vực trong công việc sáng tạo của mình - phân loại tài liệu cho <a href="../../main/T/The_Silmarillion.md" title="The Silmarillion">the <i>Silmarillion</i></a> (ví dụ như lúc đó anh ấy bị giằng xé giữa phiên bản văn xuôi và văn vần của câu chuyện <a href="../../main/B/Beren.md" title="Beren">Beren</a> và <a href="../../main/L/Lúthien.md" title="Lúthien">Lúthien</a>), trau chuốt các bản dịch <a class="mw-redirect" href="../../main/S/Sir_Gawain_and_the_Green_Knight,_Pearl_and_Sir_Orfeo.md" title="Sir Gawain and the Green Knight, Pearl and Sir Orfeo"><i>Pearl</i> và <i>Sir Gawain</i></a>, và trao đổi với các nhà xuất bản về <i><a href="../../main/T/Tree_and_Leaf.md" title="Tree and Leaf">Cây và Lá</a></i>, sau đó chỉ xuất hiện trên báo chí [trên thực tế, phải đến năm 1963 hoặc 1964] tôi mới làm việc chủ yếu trong thư viện gara nổi tiếng của ông, nơi chứa đầy các văn bản từ <a href="../../main/O/Old_English.md" title="Old English">Anglo-Saxon</a> [bản thảo] khổng lồ trong fax các bản sao mới của các tác phẩm của chính anh ấy, và nhìn ra khu vườn xinh đẹp, tôi gõ những câu trả lời lịch sự của anh ấy cho những người hâm mộ anh ấy trên khắp thế giới. Tuy nhiên, không lâu sau khi tôi lập gia đình và từ bỏ công việc ”</span>.
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Trích từ bài viết: “Lần đầu tiên tôi gặp Giáo sư Tolkien vào năm 1962. Vừa mới lập gia đình, tôi đang tìm việc làm bán thời gian và Giáo sư cần một người xử lý các thư của người hâm mộ chất đống mà không được trả lời trong khi ông cố gắng theo đuổi nhiều lĩnh vực trong công việc sáng tạo của mình - phân loại tài liệu cho <a href="../../main/T/The_Silmarillion.md" title="The Silmarillion">the <i>Silmarillion</i></a> (ví dụ như lúc đó ông bị giằng xé giữa phiên bản văn xuôi và văn vần của câu chuyện <a href="../../main/B/Beren.md" title="Beren">Beren</a> và <a href="../../main/L/Lúthien.md" title="Lúthien">Lúthien</a>), trau chuốt các bản dịch <a class="mw-redirect" href="../../main/S/Sir_Gawain_and_the_Green_Knight,_Pearl_and_Sir_Orfeo.md" title="Sir Gawain and the Green Knight, Pearl and Sir Orfeo"><i>Pearl</i> và <i>Sir Gawain</i></a>, và trao đổi với các nhà xuất bản về <i><a href="../../main/T/Tree_and_Leaf.md" title="Tree and Leaf">Cây và Lá</a></i>, sau đó chỉ xuất hiện trên báo chí [trên thực tế, phải đến năm 1963 hoặc 1964] tôi mới làm việc chủ yếu trong thư viện gara nổi tiếng của ông, nơi chứa đầy các văn bản từ <a href="../../main/O/Old_English.md" title="Old English">Anglo-Saxon</a> [bản thảo] khổng lồ trong fax các bản sao mới của các tác phẩm của chính ông, và nhìn ra khu vườn xinh đẹp, tôi gõ những câu trả lời lịch sự của ông cho những người hâm mộ ông trên khắp thế giới. Tuy nhiên, không lâu sau khi tôi lập gia đình và từ bỏ công việc ”</span>.
 </li>
 </ol></div></span>
 

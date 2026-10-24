@@ -13,7 +13,7 @@ categories:
   - "Mannish titles"
 ---
 
-**Lãnh chúa của Lamedon** là người cai trị tỉnh [Gondor](../G/Gondor.md) [Lamedon](Lamedon.md). Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) Chúa là [Angbor](../A/Angbor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Lãnh chúa của Lamedon** là người cai trị tỉnh [Gondorian](../G/Gondor.md) của [Lamedon](Lamedon.md). Trong [War of the Ring](../W/War_of_the_Ring.md) Chúa là [Angbor](../A/Angbor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

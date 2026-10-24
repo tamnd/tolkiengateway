@@ -12,11 +12,11 @@ categories:
   - "Dwarven titles"
 ---
 
-**Chúa tể Belegost** là danh hiệu dành cho người cai trị thành phố [Người lùn](../D/Dwarves.md) [Belegost](../B/Belegost.md). Anh ta có lẽ là hậu duệ của một trong [Bảy Tổ phụ của người Lùn](../S/Seven_Fathers_of_the_Dwarves.md). Vật gia truyền của các Lãnh chúa Belegost từng là viên ngọc trai [Nimphelos](../N/Nimphelos.md) do [Thingol](../T/Thingol.md)tặng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Chúa tể của Belegost** là danh hiệu dành cho người cai trị thành phố [Người lùn](../D/Dwarves.md) của [Belegost](../B/Belegost.md). Có lẽ ông ta là hậu duệ của một trong [Bảy người cha của người lùn](../S/Seven_Fathers_of_the_Dwarves.md). Vật gia truyền của các Lãnh chúa Belegost là viên ngọc trai [Nimphelos](../N/Nimphelos.md) do [Thingol](../T/Thingol.md) tặng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Chúa tể duy nhất của Belegost được biết đến là [Azaghâl](../A/Azaghâl.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Lãnh chúa duy nhất được biết đến của Belegost là [Azaghâl](../A/Azaghâl.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, [Bodruith](../B/Bodruith.md) là Chúa tể của [Người Lùn Belegost](../D/Dwarves_of_Belegost.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> trong [trận chiến ở Ngàn Hang Động](../B/Battle_in_the_Thousand_Caves.md) chống lại [Menegroth](../M/Menegroth.md). Sau đó anh ta bị giết bởi [Ufedhin](../U/Ufedhin.md), một [Tiên của Artanor](../E/Elves_of_Doriath.md), sau khi cố gắng giết và đánh cắp [Nauglafring](../N/Nauglafring.md) từ anh ta vì lòng tham.
+Trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, [Bodruith](../B/Bodruith.md) là Chúa tể của [Người lùn Belegost](../D/Dwarves_of_Belegost.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> trong [trận chiến ở Thousand Caves](../B/Battle_in_the_Thousand_Caves.md) chống lại [Menegroth](../M/Menegroth.md). Sau đó ông ta bị giết bởi [Ufedhin](../U/Ufedhin.md), một [Yêu tinh của Artanor](../E/Elves_of_Doriath.md), sau khi cố gắng giết và đánh cắp [Nauglafring](../N/Nauglafring.md) từ ông ta vì lòng tham.
 
 <span></span>
 

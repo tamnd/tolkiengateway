@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gothmog (Lieutenant of Morgul)"
 ---
 
-Chuyển hướng tới [Gothmog (Trung úy Morgul)](<Gothmog_(Lieutenant_of_Morgul).md>).
+Chuyển hướng tới [Gothmog (Trung úy của Morgul)](<Gothmog_(Lieutenant_of_Morgul).md>).

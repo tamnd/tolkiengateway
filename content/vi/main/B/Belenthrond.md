@@ -26,7 +26,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../S/Silvan_Elves.md" title="Silvan Elves">Silvan Elf</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Belenthrond</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Hair colour</th><td class="tg-infobox-data">Blond</td></tr></tbody></table>
 
-**Belenthrond** là một [Tiên](../E/Elves.md) từ [Lothlórien](../L/Lothlórien.md) được tạo cho [Sierra Entertainment](../S/Sierra_Entertainment.md)'s *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*.
+**Belenthrond** là một [Yêu tinh](../E/Elves.md) từ [Lothlórien](../L/Lothlórien.md) được tạo ra cho [Sierra Entertainment](../S/Sierra_Entertainment.md)'s *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*.
 
 ## Lịch sử {#History}
 

@@ -31,7 +31,7 @@ images:
 
 **Alcarondas**, "Lâu đài của Biển", là kỳ hạm màu vàng và đen của [Ar-Pharazôn](Ar-Pharazôn.md), Vua cuối cùng của [Númenor](../N/Númenor.md). Nó có nhiều mái chèo và nhiều cột buồm, trên đó có những cánh buồm bằng vàng và dây sable.
 
-Trên con tàu này, anh đi đến bờ biển [Aman](Aman.md), dẫn đầu [Đại Hạm đội](../G/Great_Armament.md) thách thức [Valar](../V/Valar.md). Alcarondas thực sự đã đến được Vùng Đất Bất Tử và thả neo tại bờ biển Vùng Đất Bất Tử và Ar-Pharazôn đã đến được [Tirion](../T/Tirion.md), nhưng hành động này chỉ lên án anh ta, hạm đội và vương quốc của anh ta.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trên con tàu này, anh đi đến bờ biển [Aman](Aman.md), dẫn đầu [Đại Hạm đội](../G/Great_Armament.md) thách thức [Valar](../V/Valar.md). Alcarondas thực sự đã đến được Vùng Đất Bất Tử và thả neo tại bờ biển Vùng Đất Bất Tử và Ar-Pharazôn đã đến được [Tirion](../T/Tirion.md), nhưng hành động này chỉ lên án ông ta, hạm đội và vương quốc của ông ta.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

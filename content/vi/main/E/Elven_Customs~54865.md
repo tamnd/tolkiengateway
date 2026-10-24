@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elven customs"
 ---
 
-Chuyển hướng tới [Tiên hải quan](Elven_customs.md).
+Chuyển hướng tới [phong tục của người Elf](Elven_customs.md).

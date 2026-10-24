@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Real Middle-earth"
 ---
 
-Chuyển hướng đến [Thực tế Trung Địa](The_Real_Middle-earth.md).
+Chuyển hướng tới [Trung Địa đích thực](The_Real_Middle-earth.md).

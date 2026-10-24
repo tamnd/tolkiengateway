@@ -20,7 +20,7 @@ sort_keys:
 
 Từ này bắt nguồn từ [Gốc](../S/Sundocarmë.md) N-B-R,<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup> bị gõ nhầm thành [Gốc](../S/Sundocarmë.md) M-B-R<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> trong *[The Treason of Isengard](../T/The_Treason_of_Isengard.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Magnus Åberg suy đoán rằng từ thực tế có thể là \**nibar* hoặc \**mibar* vì những từ có ba nguyên âm căn như thế này không bắt đầu bằng một nguyên âm, nhưng dạng được đưa ra trong [*Parma Eldalamberon* 17](../P/Parma_Eldalamberon_17.md) chỉ đơn thuần là *inbar*.<sup id="cite_ref-PE17_1-2" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup> Các ghi chú hiện chưa được xuất bản về Khuzdul âm vị học và sửa đổi từ gốc có thể làm sáng tỏ vấn đề này.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Magnus Åberg suy đoán rằng từ thực tế có thể là \**nibar* hoặc \**mibar* vì những từ có ba nguyên âm gốc như thế này không bắt đầu bằng một nguyên âm, nhưng dạng được đưa ra trong [*Parma Eldalamberon* 17](../P/Parma_Eldalamberon_17.md) chỉ đơn thuần là *inbar*.<sup id="cite_ref-PE17_1-2" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup> Các ghi chú hiện chưa được xuất bản về âm vị học Khuzdul và các sửa đổi từ gốc có thể làm sáng tỏ vấn đề này.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

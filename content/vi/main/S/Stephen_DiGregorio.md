@@ -16,7 +16,7 @@ sort_keys:
   "People by name": "DiGregorio, Stephen"
 ---
 
-**Stephen DiGregorio** là nhà soạn nhạc, người viết nhạc cho các trò chơi [Turbine](../T/Turbine.md), bao gồm [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md). Anh ấy là nhà soạn nhạc cho Deep của LOTRO Helm, LOTRO Riders of Rohan, LOTRO Rise of Isengard, LOTRO Siege of Mirkwood, LOTRO Mỏ Moria và LOTRO Shadows of Angmar. Anh ấy hiện đang sống ở <a class="extiw" href="http://en.wikipedia.org/wiki/Boston" title="wikipedia:Boston">Boston</a>, MA.
+**Stephen DiGregorio** là nhà soạn nhạc, người viết nhạc cho các trò chơi [Turbine](../T/Turbine.md), bao gồm [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md). Ông là nhà soạn nhạc cho LOTRO Helm's Deep, LOTRO Riders of Rohan, LOTRO Rise of Isengard, LOTRO Siege of Mirkwood, LOTRO Mines of Moria và LOTRO Shadows of Angmar. Ông hiện đang sống ở <a class="extiw" href="http://en.wikipedia.org/wiki/Boston" title="wikipedia:Boston">Boston</a>, MA.
 
 ## Liên kết ngoài {#External_links}
 

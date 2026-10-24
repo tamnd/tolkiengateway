@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Blue Mountains"
 ---
 
-Chuyển hướng đến [Dãy Núi Xanh](../B/Blue_Mountains.md).
+Chuyển hướng tới [Blue Mountains](../B/Blue_Mountains.md).

@@ -13,7 +13,7 @@ categories:
   - "Qenya locations"
 ---
 
-**Astulat**, **Rặng núi xương**, là tên của một ngọn đồi chỉ được đề cập trong một bản thảo về [Elvish](../E/Elvish.md) ngữ pháp.<sup id="cite_ref-PE21_1-0" class="reference"><a href="#cite_note-PE21-1">[1]</a></sup> Không có thông tin nào khác về nơi này.
+**Astulat**, **Rặng núi xương**, là tên của một ngọn đồi chỉ được đề cập trong một bản thảo về ngữ pháp [Elvish](../E/Elvish.md).<sup id="cite_ref-PE21_1-0" class="reference"><a href="#cite_note-PE21-1">[1]</a></sup> Không có thông tin nào khác về nơi này.
 
 ## Từ nguyên {#Etymology}
 

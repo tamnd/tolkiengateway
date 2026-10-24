@@ -39,11 +39,11 @@ infobox:
 
 **Yêu tinh** là những sinh vật quái dị và có tính hủy diệt trong truyền thuyết và văn hóa dân gian của [Trung Địa](../M/Middle-earth.md).
 
-Trong [Trò chơi câu đố](../R/Riddle-game.md) với [Gollum](../G/Gollum.md), [Bilbo Baggins](../B/Bilbo_Baggins.md), trong nỗ lực giải câu đố thứ năm của Gollum, đã ngồi nghĩ về tất cả những cái tên khủng khiếp của tất cả những người khổng lồ và yêu tinh mà cậu từng nghe kể trong truyện cổ tích.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong [Trò chơi câu đố](../R/Riddle-game.md) với [Gollum](../G/Gollum.md), [Bilbo Baggins](../B/Bilbo_Baggins.md), trong nỗ lực giải câu đố thứ năm của Gollum, đã ngồi nghĩ về tất cả những cái tên khủng khiếp của tất cả những người khổng lồ và yêu tinh mà anh từng nghe kể trong truyện cổ tích.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Không có yêu tinh nào được nhắc đến trong biên niên sử của [Ngày của Người cao tuổi](../E/Elder_Days.md) và không có yêu tinh nào được biết là đã đóng bất kỳ vai trò nào trong các cuộc chiến tranh và trận chiến. Hoàn toàn có khả năng họ chỉ đơn giản là một chủng tộc thần thoại.
 
-Cũng có thể Ogre chỉ là một tên gọi khác của [Troll](../T/Trolls.md).<sup id="cite_ref-HMN_2-0" class="reference"><a href="#cite_note-HMN-2">[2]</a></sup>
+Cũng có thể Yêu tinh chỉ là một tên gọi khác của [Quỷ lùn](../T/Trolls.md).<sup id="cite_ref-HMN_2-0" class="reference"><a href="#cite_note-HMN-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -53,17 +53,17 @@ Cũng có thể Ogre chỉ là một tên gọi khác của [Troll](../T/Trolls.
 
 *Ogres* đã được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sử dụng trong các bản thảo ban đầu của [huyền thoại](../L/Legendarium.md) làm tên cho một trong những quái vật được lai tạo bởi [Melkor](../M/Morgoth.md) cùng với [Gong](../G/Gongs.md) và [Úvanimor](../_/Úvanimo.md) khác.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Họ được nhắc đến như những [người khổng lồ](../G/Giants.md) ăn thịt người. Những con ở miền Bắc được gọi là *Hongwir* trong khi những con ở miền Nam được đặt tên là *Sarqindi*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> *Sarqindi* được gọi là "Cannibal-ogres",<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> và [Patrick H. Wynne](../P/Patrick_H._Wynne.md) và [Christopher Gilson](../C/Christopher_Gilson.md) đã gợi ý rằng *hongwir* có thể liên quan đến từ [Qenya](../Q/Qenya.md) *ongwe* (có nghĩa là "nỗi đau").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Họ được nhắc đến như những [người khổng lồ](../G/Giants.md) ăn thịt người. Những người ở phía bắc được gọi là *Hongwir* trong khi những người ở phía nam được đặt tên là *Sarqindi*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> *Sarqindi* được gọi là "Cannibal-ogres",<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> và [Patrick H. Wynne](../P/Patrick_H._Wynne.md) và [Christopher Gilson](../C/Christopher_Gilson.md) đã gợi ý rằng *hongwir* có thể liên quan đến từ [Qenya](../Q/Qenya.md) *ongwe* (nghĩa là "đau").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Trong *[The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)*, có ghi chú rằng chiếc mũ của Húrin"được đẽo gọt trong chiến tranh khi anh chiến đấu cùng Beren những người đồng đội của mình chống lại yêu tinh và Orc cũng như những kẻ thù độc ác" trong phiên bản đầu tiên;<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> và được sửa đổi một chút thành "được đẽo gọt trong các cuộc chiến khi anh chiến đấu cùng Beren với tư cách là anh em và đồng đội chống lại yêu tinh và Orc và những kẻ thù độc ác" trong phần thứ hai.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Trong *[The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)*, người ta đã lưu ý rằng mũ bảo hiểm của Húrin "được đẽo gọt trong chiến tranh khi anh chiến đấu với Beren, người anh em đồng đội của mình chống lại yêu tinh, Orc và những kẻ thù độc ác" trong phiên bản đầu tiên;<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> và được sửa đổi một chút thành "được đẽo gọt trong các cuộc chiến khi anh chiến đấu với Beren với tư cách là anh em và đồng đội chống lại yêu tinh, Orc và những kẻ thù độc ác" trong phiên bản thứ hai.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
-Tolkien lại được đề cập đến yêu tinh ngoài ngữ cảnh trong các phân tích về tên *[Orc](Orcs.md)*: "...the gloss *Þyrs* 'ogre'..." và tên *[Ettendales](../E/Ettendales.md)*: "Đây có nghĩa là tên Ngôn ngữ Chung (không phải Elvish), mặc dù nó chứa một phần tử lỗi thời *eten* 'troll, ogre'."<sup id="cite_ref-HMN_2-1" class="reference"><a href="#cite_note-HMN-2">[2]</a></sup>
+Tolkien lại đề cập đến yêu tinh ngoài ngữ cảnh trong các phân tích về tên *[Orc](Orcs.md)*: "...the gloss *Þyrs* 'ogre'..." và tên *[Ettendales](../E/Ettendales.md)*: "Đây có nghĩa là một tên Ngôn ngữ chung (không phải Elvish), mặc dù nó chứa một yếu tố lỗi thời *eten* 'troll, ogre'."<sup id="cite_ref-HMN_2-1" class="reference"><a href="#cite_note-HMN-2">[2]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Thời thơ ấu, Tolkien và anh trai [Hilary](../H/Hilary_Tolkien.md) đã giao cho một người thợ xay và một nông dân, những người khiến các cậu bé sợ hãi và sống gần [Nhà máy Sarehole](../S/Sarehole_Mill.md) ở khu vực Moseley của [Birmingham](../B/Birmingham.md), biệt danh lần lượt là "Ogre trắng" và "Ogre đen".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Những nhân vật này cũng xuất hiện trong các câu chuyện được viết bởi Hilary Tolkien.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+Thời thơ ấu, Tolkien và anh trai [Hilary](../H/Hilary_Tolkien.md) đã giao cho một người thợ xay và một người nông dân, những người này khiến các cậu bé sợ hãi và sống gần [Nhà máy Sarehole](../S/Sarehole_Mill.md) ở khu Moseley của [Birmingham](../B/Birmingham.md), biệt danh lần lượt là "White Ogre" và "Black Ogre".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Những nhân vật này cũng xuất hiện trong các câu chuyện do Hilary Tolkien viết.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
-Tolkien rất thích đọc E.A. Wyke-Smith's *[The Marvellous Land of Snergs](../T/The_Marvellous_Land_of_Snergs.md)* ([1927](../_/1927.md)) cho các con của mình. Cuốn sách kể lại cuộc phiêu lưu của hai đứa trẻ và một Snerg ("một chủng tộc người chỉ cao hơn một chiếc bàn trung bình một chút"), và câu chuyện của họ bao gồm việc gặp gỡ yêu tinh ăn chay Golithos.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+Tolkien thích đọc E.A. Wyke-Smith's *[The Marvellous Land of Snergs](../T/The_Marvellous_Land_of_Snergs.md)* ([1927](../_/1927.md)) cho các con của mình. Cuốn sách kể lại cuộc phiêu lưu của hai đứa trẻ và một Snerg ("một chủng tộc người chỉ cao hơn một chiếc bàn trung bình một chút"), và câu chuyện của họ bao gồm việc gặp gỡ yêu tinh ăn chay Golithos.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -84,11 +84,11 @@ Tolkien rất thích đọc E.A. Wyke-Smith's *[The Marvellous Land of Snergs](.
 		</li>
 </ul>
 
-<b><a href="../_/2007.md" title="2007">2007</a>-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b><a href="../_/2007.md" title="2007">2007</a>-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Ogres, also known as the Jorthkyn, are unfriendly Earth-kin, related to Giants. They are predominantly found in Nan Amlug East in the North Downs.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></dd></dl>
 
-<b><a href="../_/2014.md" title="2014">2014</a>: <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i>:</b>
+<b><a href="../_/2014.md" title="2014">2014</a>: <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">Người Hobbit: Trận chiến của năm đội quân</a></i>:</b>
 
 <dl><dd>Ogres served in <a href="../A/Azog.md" title="Azog">Azog</a>&#39;s Army as both shock troops and <a href="../T/Trolls.md" title="Trolls">Troll</a> commanders. One commanded a team of catapult Trolls. Several Ogres fought in <a href="../D/Dale.md" title="Dale">Dale</a>, and two are killed by <a href="../B/Bard.md" title="Bard">Bard</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></dd></dl>
 

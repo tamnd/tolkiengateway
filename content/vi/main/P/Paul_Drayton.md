@@ -31,7 +31,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Paul Drayton</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/28_December.md" title="28 December">28 December</a> <a href="../_/1944.md" title="1944">1944</a></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data">High Wycombe Royal Grammar School</td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">musician</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">United Kingdom</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Paul_Drayton" title="wikipedia:Paul Drayton">Paul Drayton</a> at <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a></td></tr></tbody></table>
 
-**Paul Drayton** (sinh [28 tháng 12](../_/28_December.md) [1944](../_/1944.md)) là một nhạc sĩ người Anh, người đã sáng tác [1967 chuyển thể sân khấu *The Hobbit*](<../T/The_Hobbit_(1967_stage_adaptation).md>) với [Humphrey Carpenter](../H/Humphrey_Carpenter.md).
+**Paul Drayton** (sinh [28 tháng 12](../_/28_December.md) [1944](../_/1944.md)) là một nhạc sĩ người Anh, người đã sáng tác [bản chuyển thể sân khấu năm 1967 của *The Hobbit*](<../T/The_Hobbit_(1967_stage_adaptation).md>) cùng với [Humphrey Carpenter](../H/Humphrey_Carpenter.md).
 
 Drayton là Giám đốc Âm nhạc của Duchy Opera ở Cornwall.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -42,12 +42,12 @@ Drayton là Giám đốc Âm nhạc của Duchy Opera ở Cornwall.<sup id="cite
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.bbc.co.uk/programmes/b01ld15z" rel="noreferrer noopener" target="_blank">BBC The Hobbit vở nhạc kịch</a>
-- <a class="external text" href="http://www.cornishguardian.co.uk/Hobbit-play-revived-BBC-Radio-4/story-17700153-detail/story.html" rel="noreferrer noopener" target="_blank">Hobbit vở kịch được hồi sinh trên BBC Radio 4</a>
+- <a class="external text" href="http://www.bbc.co.uk/programmes/b01ld15z" rel="noreferrer noopener" target="_blank">Vở nhạc kịch The Hobbit của BBC</a>
+- <a class="external text" href="http://www.cornishguardian.co.uk/Hobbit-play-revived-BBC-Radio-4/story-17700153-detail/story.html" rel="noreferrer noopener" target="_blank">Vở kịch Hobbit sẽ được hồi sinh trên BBC Radio 4</a>
 
 ## Xem thêm {#See_also}
 
-- [Thư gửi Humphrey Carpenter](../L/Letter_to_Humphrey_Carpenter.md) (thư từ Tolkien)
+- [Thư gửi thợ mộc Humphrey](../L/Letter_to_Humphrey_Carpenter.md) (thư từ Tolkien)
 - [*The Hobbit* (chuyển thể giai đoạn 1967)](<../T/The_Hobbit_(1967_stage_adaptation).md>)
 
 <span></span>

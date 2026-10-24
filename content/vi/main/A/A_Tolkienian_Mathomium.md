@@ -41,10 +41,10 @@ infobox:
 
 ## Từ Nhà xuất bản {#From_the_Publisher}
 
-Chuyên khảo này là tập hợp các bài báo phân tích—cả đã được xuất bản trước đây và chưa được xuất bản với số lượng ngang nhau - trên *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và *[The Hobbit](../T/The_Hobbit.md)*của [Tolkien](../J/J.R.R._Tolkien.md), được viết bởi học giả và Nhà dịch thuật so sánh Tolkien Mark [Mark T. Hooker](../M/Mark_T._Hooker.md), có lẽ nổi tiếng nhất vì ứng dụng Dịch so sánh của ông vào nghiên cứu về Tolkien. Tất cả các bài viết trong cuốn sách đã được xem xét và sửa đổi để phù hợp với các tài liệu mới được cung cấp trong *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)*.
+Chuyên khảo này là tập hợp các bài báo phân tích—cả đã được xuất bản trước đây và chưa được xuất bản với số lượng ngang nhau - trên *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và *[The Hobbit](../T/The_Hobbit.md)* của [Tolkien](../J/J.R.R._Tolkien.md), được viết bởi học giả và Nhà dịch thuật so sánh Tolkien Mark [Mark T. Hooker](../M/Mark_T._Hooker.md), có lẽ nổi tiếng nhất vì ứng dụng Dịch so sánh của ông vào nghiên cứu về Tolkien. Tất cả các bài viết trong cuốn sách đã được xem xét và sửa đổi để phù hợp với các tài liệu mới được cung cấp trong *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)*.
 
 ## Đánh giá {#Reviews}
 
 - [Amon Hen](<Amon_Hen_(journal).md>) (số tháng Chín 2006) nói: "Rất đáng khuyến khích."
-- [Tolkien Nghiên cứu: Tập 4](../T/Tolkien_Studies%253A_Volume_4.md) được đăng với một bài đánh giá nói rằng đây là một "tập sách có vẻ lập dị thú vị" . . . "Hooker có rất nhiều điều muốn nói mà trước đây chưa từng được nghe."
-- [Lembas](<../L/Lembas_(journal).md>) (Số 130, tháng 8 năm 2007) nói: "Nói chung, chắc chắn là một cuốn sách đáng để bạn bỏ thời gian đọc một cách yên bình. Đối với các nhà ngôn ngữ học--dù ngôn ngữ hay không--và đối với những người khác, chắc chắn là một trong những sản phẩm tốt hơn của fandom \[Tolkien\]."
+- [Tolkien Studies: Volume 4](../T/Tolkien_Studies%253A_Volume_4.md) đăng kèm một bài đánh giá nói rằng đây là một "cuốn sách lập dị thú vị" . . . "Hooker có rất nhiều điều muốn nói mà trước đây chưa từng được nghe."
+- [Lembas](<../L/Lembas_(journal).md>) (Số 130, tháng 8 năm 2007) nói: "Nói chung, chắc chắn là một cuốn sách đáng bỏ thời gian để đọc một cách yên bình. Đối với các nhà ngôn ngữ học--dù ngôn ngữ hay không--và đối với những người khác, chắc chắn là một trong những sản phẩm tốt hơn của cộng đồng fan \[Tolkien\]."

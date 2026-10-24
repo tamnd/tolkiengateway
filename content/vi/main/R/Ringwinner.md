@@ -17,11 +17,11 @@ langlinks:
     url: "https://kontu.wiki/Sormuksenottaja"
 ---
 
-**Ringwinner** là một trong những cái tên mà [Bilbo Baggins](../B/Bilbo_Baggins.md) dùng cho mình khi con rồng [Smaug](../S/Smaug.md) hỏi anh ta là ai, vì anh ta muốn biết tên thông thường của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bilbo đã tìm thấy [Chiếc Nhẫn Chúa](../T/The_One_Ring.md) trên sàn của một đường hầm trong [orc](../O/Orcs.md)-hold của [Misty Mountains](../M/Misty_Mountains.md) trước đây cuộc gặp gỡ của anh ấy với Smaug.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Ringwinner** là một trong những cái tên mà [Bilbo Baggins](../B/Bilbo_Baggins.md) dùng cho mình khi con rồng [Smaug](../S/Smaug.md) hỏi ông ta là ai, vì ông ta muốn biết tên thông thường của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bilbo đã tìm thấy [Chiếc Nhẫn Chúa](../T/The_One_Ring.md) trên sàn của một đường hầm trong [orc](../O/Orcs.md)-hold của [Misty Mountains](../M/Misty_Mountains.md) trước đây cuộc gặp gỡ của ông với Smaug.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Nhẫn-công cụ tìm](Ring-finder.md)
+- [Công cụ tìm vòng](Ring-finder.md)
 
 <span></span>
 

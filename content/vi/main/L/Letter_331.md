@@ -31,11 +31,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien thông báo với Cater rằng vợ anh đã chết vào sáng hôm đó. Anh ấy mô tả những ngày cuối cùng của cô ấy, nói rằng cô ấy thể hiện lòng dũng cảm và sự quyết tâm, điều mà Cater đã đề cập. Tolkien vô cùng đau buồn nhưng gia đình và bạn bè của anh đã tụ tập xung quanh để hỗ trợ. Tolkien rất vui vì Cater thấy Edith vẫn chưa bị mờ mắt và nói rằng anh ấy sẽ trân trọng bức thư ngày 26 tháng 11 của Cater.
+Tolkien thông báo với Cater rằng vợ anh đã qua đời vào sáng hôm đó. Ông mô tả những ngày cuối cùng của bà, nói rằng bà thể hiện lòng dũng cảm và sự quyết tâm, điều mà Cater đã đề cập. Tolkien vô cùng đau buồn nhưng gia đình và bạn bè của anh đã tụ tập xung quanh để ủng hộ. Tolkien rất vui vì Cater thấy Edith vẫn chưa bị mờ mắt và nói rằng ông sẽ trân trọng bức thư ngày 26 tháng 11 của Cater.
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Trong phần tái bút Tolkien có đề cập rằng anh ấy hiện đang sống tại *Miramar Hotel* ở Bournemouth. Anh ước gì Lãnh chúa Snowdon cho anh một bức ảnh chụp một ngày rất đáng nhớ đối với Edith.
+Trong phần tái bút Tolkien đề cập rằng ông hiện đang sống tại *Miramar Hotel* ở Bournemouth. Anh ước gì Lãnh chúa Snowdon cho anh một bức ảnh chụp một ngày rất đáng nhớ đối với Edith.
 
 <br>
 

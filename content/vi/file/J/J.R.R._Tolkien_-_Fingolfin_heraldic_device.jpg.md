@@ -39,7 +39,7 @@ Cf. <a class="external text" href="https://tai.tolkienists.org/tai/31/" rel="nor
 - *[Tolkien: Maker of Middle-earth](../../main/T/Tolkien%253A_Maker_of_Middle-earth.md)*, tr. 81, #39
 - *[The Silmarillion](../../main/T/The_Silmarillion.md): Illustrated by J.R.R. Tolkien* ([2022](../../main/_/2022.md)), trang 141, 227
 
-Dòng chữ trong bản thảo có ghi: "Fingolfin &/ngôi nhà của anh ấy"
+Dòng chữ trong bản thảo có ghi: "Fingolfin &/ngôi nhà của ông"
 
 ## Giấy phép {#Licensing}
 

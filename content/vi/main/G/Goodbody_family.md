@@ -24,13 +24,13 @@ langlinks:
     url: "https://kontu.wiki/Hyv%C3%A4k%C3%A4s"
 ---
 
-**Gia đình Goodbody** là một trong nhiều gia đình nổi bật của [Shire-hobbit](../S/Shire-hobbits.md), có lẽ thuộc tầng lớp thượng lưu ở [ Shire](../T/The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Goodbodies được kết nối với gia đình [Baggins](../B/Baggins_family.md) thông qua dì cố của [Bilbo Baggins](../B/Bilbo_Baggins.md) [Lily](../L/Lily_Baggins.md), người đã kết hôn với một người [Togo Goodbody](../T/Togo_Goodbody.md).<sup id="cite_ref-Baggins_2-0" class="reference"><a href="#cite_note-Baggins-2">[2]</a></sup> Họ cũng có liên hệ với [gia đình Bolger](../B/Bolger_family.md); [Cora Goodbody](../C/Cora_Goodbody.md) kết hôn với [Rudolph Bolger](../R/Rudolph_Bolger.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Gia đình Goodbody** là một trong nhiều gia đình nổi bật của [Hobbit ở Quận](../S/Shire-hobbits.md), có lẽ thuộc tầng lớp thượng lưu ở [Shire](../T/The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Goodbodies được kết nối với [gia đình Baggins](../B/Baggins_family.md) thông qua dì cố của [Bilbo Baggins](../B/Bilbo_Baggins.md) [Lily](../L/Lily_Baggins.md), người đã kết hôn với một [Togo Goodbody](../T/Togo_Goodbody.md).<sup id="cite_ref-Baggins_2-0" class="reference"><a href="#cite_note-Baggins-2">[2]</a></sup> Họ cũng có liên hệ với [gia đình Bolger](../B/Bolger_family.md); [Cora Goodbody](../C/Cora_Goodbody.md) kết hôn với [Rudolph Bolger](../R/Rudolph_Bolger.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Bilbo thừa nhận hậu duệ của dì Lily là đại gia đình của anh ấy và đã mời một số Goodbodies khác nhau tại [Bữa tiệc chia tay](../B/Bilbo's_Farewell_Party.md) nổi tiếng của anh ấy.<sup id="cite_ref-Baggins_2-1" class="reference"><a href="#cite_note-Baggins-2">[2]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Bilbo thừa nhận hậu duệ của dì Lily là đại gia đình của mình và đã mời một số Goodbodies khác nhau tại [Bữa tiệc chia tay](../B/Bilbo's_Farewell_Party.md) nổi tiếng của mình.<sup id="cite_ref-Baggins_2-1" class="reference"><a href="#cite_note-Baggins-2">[2]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Các Goodbodies đã được thêm vào với tư cách là khách mời của Tiệc chia tay của Bilbo trong bản thảo thứ năm của chương đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Tuy nhiên, lúc đó họ là *Gawkroger*,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> họ Yorkshire có nghĩa là "Roger vụng về".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Các Goodbodies đã được thêm vào với tư cách là khách mời trong Bữa tiệc chia tay của Bilbo trong bản thảo thứ năm của chương đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Tuy nhiên, lúc đó họ là *Gawkroger*,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> họ Yorkshire có nghĩa là "Roger vụng về".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

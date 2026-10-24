@@ -63,24 +63,24 @@ Sự kiện xảy ra vào ngày 15 tháng 8
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Ronald Eames](../L/Letter_to_Ronald_Eames.md).
+- **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Ronald Eames](../L/Letter_to_Ronald_Eames.md).
 - **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 167](../L/Letter_167.md).
 - **[1975](1975.md)** - [Mythcon 6](../M/Mythcon_6.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Scripps_College" title="wikipedia:Scripps College">Scripps College</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Claremont,_California" title="wikipedia:Claremont, California">Claremont</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[1976](1976.md)** - [Mythcon 7](../M/Mythcon_7.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Sacramento,_California" title="wikipedia:Sacramento, California">Sacramento</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
-- **[1982](1982.md)** - [Mythcon 13](../M/Mythcon_13.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Chapman_University" title="wikipedia:Chapman University">Cao đẳng Chapman</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Orange,_California" title="wikipedia:Orange, California">Orange</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
+- **[1982](1982.md)** - [Mythcon 13](../M/Mythcon_13.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Chapman_University" title="wikipedia:Chapman University">Chapman College</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Orange,_California" title="wikipedia:Orange, California">Orange</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[1983](1983.md)** - [Mythcon 14](../M/Mythcon_14.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Scripps_College" title="wikipedia:Scripps College">Scripps College</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Claremont,_California" title="wikipedia:Claremont, California">Claremont</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
-- **[2005](2005.md)** - Hội nghị [Tolkien 2005](../T/Tolkien_2005.md) của [Hội Tolkien](../T/The_Tolkien_Society.md)ở <a class="extiw" href="http://en.wikipedia.org/wiki/Birmingham" title="wikipedia:Birmingham">Birmingham</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
+- **[2005](2005.md)** - [Hội nghị [Tolkien 2005](../T/Tolkien_2005.md) của Hiệp hội Tolkien](../T/The_Tolkien_Society.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Birmingham" title="wikipedia:Birmingham">Birmingham</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
 - **[2008](2008.md)** - [Mythcon 39](../M/Mythcon_39.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Central_Connecticut_State_University" title="wikipedia:Central Connecticut State University">Đại học bang Central Connecticut</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/New_Britain,_Connecticut" title="wikipedia:New Britain, Connecticut">New Britain</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Connecticut" title="wikipedia:Connecticut">Connecticut</a>.
-- **[2010](2010.md)** - "[Edge of the Wild](<../E/Edge_of_the_Wild_(Tolkien_art_exhibit).md>)", Tolkien triển lãm nghệ thuật tại <a class="extiw" href="http://en.wikipedia.org/wiki/Moreton-in-Marsh" title="wikipedia:Moreton-in-Marsh">Moreton-in-Marsh</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
+- **[2010](2010.md)** - "[Edge of the Wild](<../E/Edge_of_the_Wild_(Tolkien_art_exhibit).md>)", Triển lãm nghệ thuật Tolkien tại <a class="extiw" href="http://en.wikipedia.org/wiki/Moreton-in-Marsh" title="wikipedia:Moreton-in-Marsh">Moreton-in-Marsh</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
 - **[2023](2023.md)** - *[Tolkien Calendar 2024](../T/Tolkien_Calendar_2024.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Treebeard](../T/Treebeard.md) trả tự do cho [Saruman](../S/Saruman.md) khỏi sự giam cầm của anh ta trong [Orthanc](../O/Orthanc.md).<sup id="cite_ref-AppChief_1-0" class="reference"><a href="#cite_note-AppChief-1">[1]</a></sup>
+    - [Treebeard](../T/Treebeard.md) thả [Saruman](../S/Saruman.md) khỏi sự giam cầm ở [Orthanc](../O/Orthanc.md).<sup id="cite_ref-AppChief_1-0" class="reference"><a href="#cite_note-AppChief-1">[1]</a></sup>
 
 <span></span>
 

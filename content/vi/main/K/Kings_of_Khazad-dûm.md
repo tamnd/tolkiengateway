@@ -15,23 +15,23 @@ sort_keys:
   "Kings of Khazad-dûm": " "
 ---
 
-**Vua của Khazad-dûm** (*[S.](../S/Sindarin.md)* <i><b>Aran Moria</b></i>) là [Vua của Dân tộc Durin](King_of_Durin's_Folk~7047.md) người cai trị từ vị trí của mình tại [Khazad-dûm](../M/Moria.md), thành phố [Người lùn](../D/Dwarves.md)vĩ đại nhất của [Longbeards](../L/Longbeards.md).
+**Vua của Khazad-dûm** (*[S.](../S/Sindarin.md)* <i><b>Aran Moria</b></i>) là [Vua của Dân tộc Durin](King_of_Durin's_Folk~7047.md), người cai trị từ ngai của mình tại [Khazad-dûm](../M/Moria.md), [Thành phố Người lùn](../D/Dwarves.md) vĩ đại nhất của [Râu dài](../L/Longbeards.md).
 
-Được thành lập vào [Năm Cây](../Y/Years_of_the_Trees.md) trong [Kỷ Đệ Nhất](../F/First_Age.md) bởi [Durin Bất Tử](../D/Durin_the_Deathless.md), vương quốc đã tồn tại hàng nghìn năm trước khi người dân của nó bị đuổi đi lưu vong bởi một [Balrog](../B/Balrog.md) ở [T.A.](../T/Third_Age.md) [1980](../T/Third_Age_1980.md). Tuy nhiên, theo lời tiên tri, [Durin VII](../D/Durin_VII.md) đã giành lại ngai vàng của tổ tiên mình sau [Kỷ Đệ Tứ](../F/Fourth_Age.md) [171](../F/Fourth_Age_171.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+Được thành lập vào [Năm Cây](../Y/Years_of_the_Trees.md) trong [Kỷ nguyên Đầu tiên](../F/First_Age.md) bởi [Durin Bất Tử](../D/Durin_the_Deathless.md), vương quốc đã tồn tại hàng nghìn năm trước khi người dân của nó bị [Balrog](../B/Balrog.md) đuổi đi lưu vong ở [T.A.](../T/Third_Age.md) [1980](../T/Third_Age_1980.md). Tuy nhiên, theo lời tiên tri, [Durin VII](../D/Durin_VII.md) đã giành lại ngai vàng của tổ tiên vào khoảng thời gian sau [Fo.A.](../F/Fourth_Age.md) [171](../F/Fourth_Age_171.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
 ## Danh sách các vị vua {#List_of_Kings}
 
-Trong khi sáu mươi vị vua trở lên có thể đã cai trị Khazad-dûm qua các thời đại, chỉ có chín vị vua được ghi lại:
+Trong khi sáu mươi vị vua trở lên có thể đã cai trị Khazad-dûm qua nhiều thời đại, chỉ có chín vị vua được ghi lại:
 
-- <a class="mw-redirect mw-disambig" href="../D/Durin.md" title="Durin">Durin the DeathBất tử</a> - người sáng lập và Vua đầu tiên của Khazad-dûm trong [Ngày của Người cao tuổi](../E/Elder_Days.md).
+- <a class="mw-redirect mw-disambig" href="../D/Durin.md" title="Durin">Durin Bất tử</a> - người sáng lập và vị vua đầu tiên của Khazad-dûm trong [Ngày của Người cao tuổi](../E/Elder_Days.md).
 - [Durin II](../D/Durin_II.md)
-- [Durin III](../D/Durin_III.md) - là bạn của [Tiên tộc của Eregion](../E/Elves_of_Eregion.md) và được [Celebrimbor](../C/Celebrimbor.md)trao cho [đầu tiên](../R/Ring_of_Thrór.md) của [Bảy Chiếc Nhẫn](../S/Seven_Rings.md). Sau đó anh ta đã phong ấn [Cánh cửa Durin](../D/Doors_of_Durin.md) khi [Sauron](../S/Sauron.md) phá hủy [Eregion](../E/Eregion.md) ở [S.A.](../S/Second_Age.md) [1697](../S/Second_Age_1697.md).
+- [Durin III](../D/Durin_III.md) - là bạn của [Yêu tinh vùng Ezone](../E/Elves_of_Eregion.md) và đã được [Celebrimbor](../C/Celebrimbor.md) trao [đầu tiên](../R/Ring_of_Thrór.md) trong số [Bảy chiếc nhẫn](../S/Seven_Rings.md). Sau đó, ông ta đã phong ấn [Cánh cửa Durin](../D/Doors_of_Durin.md) khi [Sauron](../S/Sauron.md) phá hủy [Ezone](../E/Eregion.md) ở [S.A.](../S/Second_Age.md) [1697](../S/Second_Age_1697.md).
 - [Durin IV](../D/Durin_IV.md)
 - [Durin V](../D/Durin_V.md)
-- [Durin VI](../D/Durin_VI.md) - vị vua có thần dân đào sâu quá sâu vào lòng đất để tìm kiếm *[mithril](../M/Mithril.md)* và đánh thức một [Balrog](../D/Durin's_Bane.md). Anh ta đã bị giết ngay sau khi được phát hành vào [T.A.](../T/Third_Age.md) [1980](../T/Third_Age_1980.md).
+- [Durin VI](../D/Durin_VI.md) - vị vua có thần dân đào sâu quá sâu vào lòng đất để tìm kiếm *[mithril](../M/Mithril.md)* và đánh thức [Balrog](../D/Durin's_Bane.md). Ông ta đã bị giết ngay sau khi được phát hành vào [T.A.](../T/Third_Age.md) [1980](../T/Third_Age_1980.md).
 - [Náin I](../N/Náin_I.md) - người làm vua chưa đầy một năm trước khi bị Balrog giết chết. Người dân Durin sau đó đã trốn khỏi quê hương của tổ tiên họ và Khazad-dûm được biết đến với cái tên [Moria](../M/Moria.md), "Hố đen".
-    - [Balin](../B/Balin.md) dẫn đầu một [thuộc địa](../B/Balin's_folk.md) cố gắng chiếm lại Moria ở [T.A.](../T/Third_Age.md) [2989](../T/Third_Age_2989.md). Balin là hậu duệ của Durin, nhưng không thuộc dòng dõi nam cao cấp, trong khi Vua của Dân tộc Durin là [Dáin Chân Sắt](../D/Dáin_Ironfoot.md). Như vậy, Balin chỉ cai trị với tư cách là **[Chúa tể Moria](../L/Lord_of_Moria.md)** trong 5 năm.
-- [Durin VII](../D/Durin_VII.md) - vị vua quay trở lại và tái lập Khazad-dûm khoảng sau [Kỷ Đệ Tứ](../F/Fourth_Age.md) [171](../F/Fourth_Age_171.md).
+    - [Balin](../B/Balin.md) dẫn đầu một [thuộc địa](../B/Balin's_folk.md) cố gắng chiếm lại Moria ở [T.A.](../T/Third_Age.md) [2989](../T/Third_Age_2989.md). Balin là hậu duệ của Durin, nhưng không thuộc dòng dõi nam cao cấp, trong khi Vua của dân tộc Durin là [Dáin Ironfoot](../D/Dáin_Ironfoot.md). Do đó, Balin chỉ cai trị với tư cách là **[Lãnh chúa Moria](../L/Lord_of_Moria.md)** trong 5 năm.
+- [Durin VII](../D/Durin_VII.md) - vị vua đã quay trở lại và tái lập Khazad-dûm vào khoảng thời gian sau [Fo.A.](../F/Fourth_Age.md) [171](../F/Fourth_Age_171.md).
 
 ## Ghi chú {#Notes}
 

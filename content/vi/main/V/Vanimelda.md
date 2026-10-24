@@ -14,17 +14,17 @@ categories:
   - "Metaphysics"
 ---
 
-**Vanimelda** là từ cao nhất để ca ngợi vẻ đẹp ở [Quenya](../Q/Quenya.md). Nó vừa mang ý nghĩa "xinh đẹp, đáng yêu" vừa "Tiên-công bằng".<sup id="cite_ref-pe17_1-0" class="reference"><a href="#cite_note-pe17-1">[1]</a></sup>
+**Vanimelda** là từ cao nhất để ca ngợi vẻ đẹp ở [Quenya](../Q/Quenya.md). Nó đồng thời có nghĩa là "xinh đẹp và đáng yêu" và "Tiên nữ xinh đẹp".<sup id="cite_ref-pe17_1-0" class="reference"><a href="#cite_note-pe17-1">[1]</a></sup>
 
 Nó được sử dụng dưới tên [Arwen](../A/Arwen.md) (*Arwen Vanimelda Elerondiel*).<sup id="cite_ref-pe17_1-1" class="reference"><a href="#cite_note-pe17-1">[1]</a></sup> Nó là cơ sở cho tên của [Vanimeldë](Vanimeldë.md).
 
 ## Từ nguyên {#Etymology}
 
-*Vanimelda* có hai từ nguyên riêng biệt. Đầu tiên là từ ghép của *vanima* ("đẹp") + *melda* ("yêu dấu"). Thứ hai là hợp chất của *vanima* + *elda* ("Tiên"); hoặc "công bằng như Tiên".
+*Vanimelda* có hai từ nguyên riêng biệt. Đầu tiên là từ ghép của *vanima* ("đẹp") + *melda* ("yêu dấu"). Thứ hai là sự kết hợp của *vanima* + *elda* ("Elf"); hoặc "công bằng như một Yêu tinh".
 
 ## Có cùng nguồn gốc {#Cognates}
 
-Từ cùng nguồn [Sindarin](../S/Sindarin.md) là *edhelvein*.<sup id="cite_ref-pe17_1-2" class="reference"><a href="#cite_note-pe17-1">[1]</a></sup>
+Từ cùng nguồn gốc [Sindarin](../S/Sindarin.md) là *edhelvein*.<sup id="cite_ref-pe17_1-2" class="reference"><a href="#cite_note-pe17-1">[1]</a></sup>
 
 <span></span>
 

@@ -48,7 +48,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Gallant_Edith_Bratt.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/94/The_Gallant_Edith_Bratt.jpg/320px-The_Gallant_Edith_Bratt.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/94/The_Gallant_Edith_Bratt.jpg/480px-The_Gallant_Edith_Bratt.jpg 1.5x, https://tolkiengateway.net/w/images/9/94/The_Gallant_Edith_Bratt.jpg 2x" data-file-width="560" data-file-height="840"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Gallant Edith Bratt</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Nancy Bunting and Seamus Hamill-Keays</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../W/Walking_Tree_Publishers.md" title="Walking Tree Publishers">Walking Tree Publishers</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/19_August.md" title="19 August">19 August</a> <a href="../_/2021.md" title="2021">2021</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">258</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-3-905703-46-7" title="Special:BookSources/978-3-905703-46-7">978-3-905703-46-7</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../C/Cormarë_Series.md" title="Cormarë Series">Cormarë Series</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_and_the_Classical_World.md" title="Tolkien and the Classical World">Tolkien and the Classical World</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../N/Nólë_Hyarmenillo.md" title="Nólë Hyarmenillo">Nólë Hyarmenillo</a></td></tr></tbody></table>
 
-<i><b>The Gallant Edith Bratt</b></i> là tác phẩm tiểu sử về [Edith Tolkien](../E/Edith_Tolkien.md) của Nancy Bunting và Seamus Hamill-Keays. Cuốn sách xem xét lại vai trò của Edith trong cuộc đời của J.R.R. Tolkien, xem xét các bằng chứng tài liệu và vai trò của Edith trong quá trình sáng tạo văn học của Tolkien. Nó được xuất bản ở vị trí thứ 46 trong *[Cormarë Series](../C/Cormarë_Series.md)*.
+<i><b>The Gallant Edith Bratt</b></i> là tác phẩm tiểu sử về [Edith Tolkien](../E/Edith_Tolkien.md) của Nancy Bunting và Seamus Hamill-Keays. Cuốn sách xem xét lại vai trò của Edith trong cuộc đời J.R.R. Tolkien, xem xét các bằng chứng tài liệu và vai trò của Edith trong sáng tạo văn học của Tolkien. Nó được xuất bản ở vị trí thứ 46 trong *[Cormarë Series](../C/Cormarë_Series.md)*.
 
 ## Nội dung {#Contents}
 
@@ -58,13 +58,13 @@ Lời nói đầu của người biên tập bộ truyện -
 - Chương 1: Sự khởi đầu
 - Chương 2: Tuổi thơ
 - Chương 3: Nhà Dresden, 1903-1907
-- Chương 4: Những người Faulkners', Birmingham, 1908-1910
+- Chương 4: Gia đình Faulkners', Birmingham, 1908-1910
 - Chương 5: Các vị vua Charlton, 1910-1913
 - Chương 6: Chờ đợi ở Warwick, 1913-1915
 - Chương 7: Chờ đợi ở Warwick, 1915-1916
-- Chương 8: Edith Bratt Tolkien Đối đầu với chiến tranh, 1916
+- Chương 8: Edith Bratt Tolkien đối đầu với chiến tranh, 1916
 - Chương 9: Cuộc lang thang của Edith Bratt Tolkien, 1917
-- Chương 10: Edith: Sáng tạo, Sáng tạo con và Tinúviel/Lúthien
+- Chương 10: Edith: Sáng tạo, Sáng tạo phụ và Tinúviel/Lúthien
 - Phần kết
 - Phụ lục liên quan đến Tolkien và tiếng Phạn
 
@@ -77,9 +77,9 @@ Lời nói đầu của người biên tập bộ truyện -
 
 ## Lễ tân {#Reception}
 
-Cuốn sách đã được đánh giá bởi [Shaun Gunner](../S/Shaun_Gunner.md), Chủ tịch [Hội Tolkien](The_Tolkien_Society.md) trên tạp chí *[Mallorn](<../M/Mallorn_(journal).md>)*. Khi đánh giá cuốn sách, Gunner cho biết ông cảm thấy các tác giả đã thực hiện một "công việc thực sự kỹ lưỡng khi xem xét cuộc đời và quá trình nuôi dạy ban đầu của Edith, cũng như giảng dạy về gia đình, học vấn, sự giàu có và chỗ ở của cô." Tuy nhiên, ông phê bình cuốn sách là "không đầy đủ" vì chỉ kể lại cuộc đời của bà từ khi sinh ra cho đến năm 1917, vì đưa ra những giả định của riêng mình và vì những lời phê bình "nhỏ nhọn" đối với [tiểu sử Tolkien](../J/J.R.R._Tolkien%253A_A_Biography.md) của [Humphrey Carpenter](../H/Humphrey_Carpenter.md). Anh ấy kết luận rằng anh ấy chỉ có thể "giới thiệu" một phần công việc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The book was reviewed by [Shaun Gunner](../S/Shaun_Gunner.md), Chair of [The Tolkien Society](The_Tolkien_Society.md) in the journal *[Mallorn](<../M/Mallorn_(journal).md>)*. In reviewing the book, Gunner said he felt the authors had done a "genuinely thorough job in looking into Edith’s early life and upbringing, teaching about her family, education, wealth and accommodation." However, he critiqued the book as "incomplete" for only covering her life from her birth to 1917, for making their own suppositions, and for "pointed" critiques of [Humphrey Carpenter](../H/Humphrey_Carpenter.md)'s [biography of Tolkien](../J/J.R.R._Tolkien%253A_A_Biography.md). He concluded he could only "partially" recommend the work.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-[Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](../W/Wayne_G._Hammond.md), viết trong *[Journal of Tolkien Research](../J/Journal_of_Tolkien_Research.md)*, cũng có một dòng tương tự với Gunner khi nói rằng các tác giả "đã mở rộng một cách hữu ích nguồn thông tin của chúng tôi về cuộc đời đầu đời của Edith. Công việc của họ trong việc làm như vậy thật đáng khen ngợi". Tuy nhiên, Scull và Hammond cũng thất vọng tương tự trước "cuộc bao vây tập trung" vào Humphrey Carpenter và kết luận: "Cuốn sách của Bunting và Hamill-Keays \[..\] được lập luận lộn xộn, suy đoán quá mức và đôi khi mang tính chất phỉ báng, và không thể được khuyến khích ngoại trừ một số sự kiện mới mà nó ghi lại một cách chắc chắn."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](../W/Wayne_G._Hammond.md), viết trong *[Journal of Tolkien Research](../J/Journal_of_Tolkien_Research.md)*, cũng có một dòng tương tự với Gunner khi nói rằng các tác giả "đã mở rộng một cách hữu ích nguồn thông tin của chúng tôi về cuộc đời đầu của Edith. Công việc của họ trong việc làm như vậy thật đáng khen ngợi". Tuy nhiên, Scull và Hammond cũng thất vọng tương tự trước "cuộc bao vây tập trung" vào Humphrey Carpenter, và kết luận: "Cuốn sách của Bunting và Hamill-Keays \[..\] được lập luận lộn xộn, suy đoán quá mức và đôi khi mang tính xúc phạm, và không thể được khuyến khích ngoại trừ một số sự kiện mới mà nó ghi lại một cách chắc chắn."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Tài liệu tham khảo {#References}
 
@@ -94,9 +94,9 @@ Cuốn sách đã được đánh giá bởi [Shaun Gunner](../S/Shaun_Gunner.md
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.walking-tree.org/books/gallant_edith_bratt.php" rel="noreferrer noopener" target="_blank">Trang sản phẩm chính thức</a>
-- <a class="external text" href="https://www.euppublishing.com/doi/full/10.3366/ink.2022.0140" rel="noreferrer noopener" target="_blank">Bài đánh giá của Giovanni Carmine Costabile cho <i>Tạp chí Inklings Nghiên cứu</i></a>
-- <a class="external text" href="https://dc.swosu.edu/mythlore/vol41/iss2/26/" rel="noreferrer noopener" target="_blank">Bài đánh giá của María Fernández Portaencasa trong <i>Mythlore</i></a>
-- <a class="external text" href="https://scholar.valpo.edu/journaloftolkienresearch/vol14/iss2/1/" rel="noreferrer noopener" target="_blank">Đánh giá của Wayne G. Hammond và Christina Scull trong <i>Journal of Tolkien Research</i></a>
+- <a class="external text" href="https://www.euppublishing.com/doi/full/10.3366/ink.2022.0140" rel="noreferrer noopener" target="_blank">Bài đánh giá của Giovanni Carmine Costabile cho <i>Tạp chí Nghiên cứu về Inklings</i></a>
+- <a class="external text" href="https://dc.swosu.edu/mythlore/vol41/iss2/26/" rel="noreferrer noopener" target="_blank">Bài đánh giá của María Fernández Portaencasa trong <i>Thần thoại</i></a>
+- <a class="external text" href="https://scholar.valpo.edu/journaloftolkienresearch/vol14/iss2/1/" rel="noreferrer noopener" target="_blank">Bài đánh giá của Wayne G. Hammond và Christina Scull trong <i>Tạp chí Nghiên cứu Tolkien</i></a>
 
 <br clear="all"/>
 

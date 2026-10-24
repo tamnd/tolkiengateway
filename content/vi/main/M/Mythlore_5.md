@@ -39,35 +39,35 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_5.gif.md"><img src="https://tolkiengateway.net/w/images/3/31/Mythlore_5.gif" decoding="async" loading="lazy" width="225" height="289" class="mw-file-element" data-file-width="225" data-file-height="289"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 5</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Winter <a href="../_/1970.md" title="1970">1970</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">23</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_4.md" title="Mythlore 4">Mythlore 4</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_6.md" title="Mythlore 6">Mythlore 6</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 5</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol2/iss1/" rel="noreferrer noopener" target="_blank">Tập 2, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 5</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol2/iss1/" rel="noreferrer noopener" target="_blank">Tập 2, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
 
 ## Nội dung {#Contents}
 
 #### Tính năng {#Features}
 
-- Chúc ngủ ngon, Glen. "Luật sư của Elrond." 2.
-- Zuber, Bernie. "Bên kia Brandywine." 3.
-- Kuhl, Rand. “Truyền thuyết của Logres: Tiếp xúc với niềm vui.” Review cuốn “Về truyện cổ tích” của J.R.R. Tolkien. 11.
+- GoodKnight, Glen. "The Counsel of Elrond." 2.
+- Zuber, Bernie. "Across the Brandywine." 3.
+- Kuhl, Rand. "Lore of Logres: In Touch with Joy." Review of "On Fairy-stories" by J.R.R. Tolkien. 11.
 - "Tin tức về các sự kiện đặc biệt." 12+.
-- Zuber, Bernie. "Thế giới của Fanzines." 16+.
-- "Công văn tới Mythlore." 21+.
+- Zuber, Bernie. "World of Fanzines." 16+.
+- "Sứ điệp thần thoại." 21+.
 - Biên tập: "Học từ Tolkien." 23+.
 
 #### Tiểu thuyết {#Fiction}
 
-- Thu, Michael. "Griffin." 10.
+- Levy, Michael. "The Griffin." 10.
 
 #### Thơ {#Poetry}
 
-- Warren, Eugene. "Hoàn toàn phương Đông." 10.
+- Warren, Eugene. "Utter East." 10.
 
 #### Bài viết {#Articles}
 
-- Juhren, Marcella. “Hệ sinh thái của Trung Địa.” 4-6, 9.
-- Chúc ngủ ngon, Glen. "Lịch sử xã hội Inklings: J.R.R. Tolkien, C.S. Lewis, Charles Williams, 1939-1945." 7-9.
-- Hannay, Margaret P. "Thần thoại về *Perelandra*." 14-16.
-- Mckenzie, Sơ Elizabeth. "Trên tất cả bóng tối cưỡi Mặt Trời." 18.
-- Hỡi mọi người, Galen. “The Great Beast: Trí tưởng tượng trong Harness.” 19-20.Bernie Zuber: 5, 21, 31, 32, 40
+- Juhren, Marcella. "The Ecology of Middle Earth." 4-6, 9.
+- GoodKnight, Glen. "The Social History of the Inklings: J.R.R. Tolkien, C.S. Lewis, Charles Williams, 1939-1945." 7-9.
+- Hannay, Margaret P. "The Mythology of *Perelandra*." 14-16.
+- McKenzie, Sister Elizabeth. "Above All Shadows Rides The Sun." 18.
+- Peoples, Galen. "The Great Beast: Imagination in Harness." 19-20.Bernie Zuber: 5, 21, 31, 32, 40
 
 #### Nghệ thuật {#Art}
 

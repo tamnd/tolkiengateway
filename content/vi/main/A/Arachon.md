@@ -31,11 +31,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../E/Edain.md" title="Edain">Adan</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Arachon</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../B/Bregil.md" title="Bregil">Bregil</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../B/Brandir_(son_of_Arachon).md" title="Brandir (son of Arachon)">Brandir</a> and <a href="../B/Beldis.md" title="Beldis">Beldis</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Arachon** là một [Người](../M/Man.md) trong [Kỷ Đệ Nhất](../F/First_Age.md).
+**Arachon** là một [Người](../M/Man.md) ở [Thời đại thứ nhất](../F/First_Age.md).
 
 ## Lịch sử {#History}
 
-Ông là chồng của [Bregil](../B/Bregil.md), con gái của [Bregor](../B/Bregor.md). Họ có với nhau hai người con: [Brandir](<../B/Brandir_(son_of_Arachon).md>) và [Beldis](../B/Beldis.md), người sẽ trở thành mẹ của [Brandir the Lame](../B/Brandir.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ông là chồng của [Bregil](../B/Bregil.md), con gái của [Bregor](../B/Bregor.md). Họ có với nhau hai người con: [Brandir](<../B/Brandir_(son_of_Arachon).md>) và [Beldis](../B/Beldis.md), sau này trở thành mẹ của [Brandir the Lame](../B/Brandir.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

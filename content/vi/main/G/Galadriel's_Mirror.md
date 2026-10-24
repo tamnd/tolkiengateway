@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mirror of Galadriel"
 ---
 
-Chuyển hướng đến [Bản sao của Galadriel](../M/Mirror_of_Galadriel.md).
+Chuyển hướng đến [Tấm gương của Galadriel](../M/Mirror_of_Galadriel.md).

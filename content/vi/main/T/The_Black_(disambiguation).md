@@ -20,8 +20,8 @@ images:
 
 <i><b>Bọn Đen</b></i> có thể ám chỉ:
 
-- [Ulfang Người da đen](../U/Ulfang_the_Black.md), một thủ lĩnh [Easterling](<../E/Easterlings_(First_Age).md>) của thời [Kỷ Đệ Nhất](../F/First_Age.md) quá cố.
-- [Ancalagon Đen](../A/Ancalagon.md), con rồng vĩ đại của Kỷ Đệ Nhất.
+- [Ulfang the Black](../U/Ulfang_the_Black.md), một thủ lĩnh [Easterling](<../E/Easterlings_(First_Age).md>) của cuối [Kỷ nguyên thứ nhất](../F/First_Age.md).
+- [Ancalagon the Black](../A/Ancalagon.md), con rồng vĩ đại của Thời đại thứ nhất.
 
 ## Xem thêm {#See_also}
 

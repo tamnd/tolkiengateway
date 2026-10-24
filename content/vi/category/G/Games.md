@@ -12,4 +12,4 @@ categories:
   - "Adaptations"
 ---
 
-Danh mục này và các danh mục con của nó liệt kê tất cả **Trò chơi** liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) tác phẩm.
+Danh mục này và các danh mục con của nó liệt kê tất cả **Trò chơi** liên quan đến tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

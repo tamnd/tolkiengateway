@@ -37,7 +37,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien&#39;s_Transformative_Women.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/58/Tolkien%27s_Transformative_Women.jpg/320px-Tolkien%27s_Transformative_Women.jpg" decoding="async" loading="lazy" width="320" height="461" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/58/Tolkien%27s_Transformative_Women.jpg/480px-Tolkien%27s_Transformative_Women.jpg 1.5x, https://tolkiengateway.net/w/images/5/58/Tolkien%27s_Transformative_Women.jpg 2x" data-file-width="600" data-file-height="865"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>Tolkien&#39;s Transformative Women<br/><small>Art in Triptych</small></i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Annie Brust</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Vernon Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/18_January.md" title="18 January">18 January</a> <a href="../_/2024.md" title="2024">2024</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">282</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-1-64889-623-1" title="Special:BookSources/978-1-64889-623-1">978-1-64889-623-1</a></td></tr></tbody></table>
 
-Những người phụ nữ biến đổi của <i><b>Tolkien: Nghệ thuật trong bộ ba</b></i> là một cuốn sách mang tính học thuật của Annie Brust đề cập sâu sắc về các nhân vật nữ trong tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Những người phụ nữ biến đổi của Tolkien: Nghệ thuật trong bộ ba</b></i> là một cuốn sách mang tính học thuật của Annie Brust trình bày chuyên sâu về các nhân vật nữ trong tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Tóm tắt {#Synopsis}
 
@@ -53,23 +53,23 @@ This book seeks to uncover the hidden voices of the past to find their rightful 
 
 - Lời cảm ơn
 - Giới thiệu
-    - Bộ ba thời trung cổ và tác phẩm nghệ thuật của Tolkien
-    - Tạo khung bộ ba—Tiếng nói biểu diễn trong văn học của Tolkien
-    - Thiết lập Khuôn khổ thời Trung cổ của Tolkien qua con mắt của các nhà phê bình – Cuộc tranh luận Tolkien
-    - Liên kết Lịch sử với Quyền tự trị của Phụ nữ và Xu hướng Dịch thuật trong Opus của Tolkien
+    - Bộ ba thời trung cổ và nghệ thuật của Tolkien
+    - Tạo khung bộ ba—Tiếng nói biểu diễn trong văn học Tolkien
+    - Thiết lập khuôn khổ thời trung cổ của Tolkien qua con mắt của các nhà phê bình – Cuộc tranh luận về Tolkien
+    - Liên kết Lịch sử với Quyền tự chủ của Phụ nữ và Xu hướng Dịch thuật trong Tác phẩm của Tolkien
     - Nền tảng của quyền lực phụ nữ – Cuộc thảo luận mang tính học thuật về khuynh hướng dịch thuật
     - Phụ nữ là trọng tâm trong nghệ thuật của Tolkien
-Phụ nữ tiến hóa của     - Tolkien
+    - Những người phụ nữ tiến hóa của Tolkien
 
-- Lời tựa, bởi [John D. Rateliff](../J/John_D._Rateliff.md)
+- Lời tựa, của [John D. Rateliff](../J/John_D._Rateliff.md)
 
 - **Chương 1: Bản thảo của Tolkien: Lập bản đồ niên đại và phân tích văn bản**
     - Bằng chứng về bản thảo: Các vấn đề trong việc xác lập niên đại
-    - Thiết lập niên đại của Tolkien— Các bản dịch, thử nghiệm và giấy phép sáng tạo của anh ấy
+    - Thiết lập niên đại của Tolkien— Các bản dịch, thí nghiệm và giấy phép sáng tạo của ông
     - Phân tích và thử nghiệm văn bản: Varda
 
 - **Chương 2: Những nàng thơ của Tolkien: Những quý cô văn chương**
-    - Nữ văn học thời kỳ đầu thời trung cổ và Bắc Âu truyền thống
+    - Những phụ nữ văn học từ thời Trung cổ và truyền thống Bắc Âu
 - Những người phụ nữ của *Beowulf* và *Judith Beowulf*
     - Sự giàu có
     - Hildeburh
@@ -102,27 +102,27 @@ Phụ nữ tiến hóa của     - Tolkien
         - Nữ hoàng
         - Éowyn
 
-- **Chương 5: Những người phụ nữ thanh khiết của Tolkien**
+- **Chương 5: Những người phụ nữ thanh tao của Tolkien**
     - Những người phụ nữ chữa lành vết thương bằng giọng hát và khung cảnh mộng mơ
-    - Phần 1: Những sứ giả hòa bình và tầm nhìn qua màn biểu diễn truyền miệng. Tam họa 1 "Tự ca của người nhìn xa trông rộng"
+    - Phần 1: Đại sứ hòa bình và tầm nhìn qua biểu diễn truyền miệng. Tam họa 1 "Tự ca của người nhìn xa trông rộng"
         - Hildeburh—Beowulf
         - Hildeburh—Finn và Hengest
-        - Cái Entwives
+        - Những người yêu đương
     - Phần 2: Những người phụ nữ chữa lành vết thương nhờ trí nhớ và tầm nhìn siêu phàm. Bộ ba 2 "Hào quang"
         - Perle/Ngọc trai
-        - Goldberry
+        - Quả vàng
         - Galadriel
 
 - Kết luận
 
 - Phụ lục I
-    - Danh mục nhân vật phụ nữ trong đời sống cá nhân của Tolkien
-Cuộc sống cá nhân của     - Tolkien
+    - Danh mục các nhân vật nữ trong đời sống cá nhân của Tolkien
+    - Cuộc sống cá nhân của Tolkien
 
 - Phụ lục II
     - Danh mục các nhân vật trong tác phẩm hàn lâm và thơ ca của Tolkien dưới dạng phần mở rộng của tác phẩm
     - Nhân vật nữ trong Bản dịch
-    - Tolkien Thí nghiệm học thuật – những bài thơ được tạo ra từ các khía cạnh của những bài thơ lớn hơn
+    - Thí nghiệm học thuật của Tolkien – những bài thơ được tạo ra từ các khía cạnh của những bài thơ lớn hơn
     - *Sellic Spell*
     - *The Legend of Sigurd and Gudrún*
     - *Finn and Hengest*
@@ -130,10 +130,10 @@ Cuộc sống cá nhân của     - Tolkien
     - *Kullervo*
 
 - Phụ lục III
-    - Danh mục các nhân vật trong tác phẩm giả tưởng của Tolkien tạo nên huyền thoại của anh ấy
-Câu chuyện và truyền thuyết của     - Tolkien
-    - Cái Legendarium
-    - Con của Húrin
+    - Danh mục các nhân vật trong tác phẩm giả tưởng của Tolkien tạo nên huyền thoại của ông
+    - Câu chuyện và truyền thuyết của Tolkien
+    - Truyền thuyết
+    - Những đứa con của Húrin
     - Lúthien và Beren
     - Sự sụp đổ của Gondolin
     - *The Silmarillion*

@@ -18,8 +18,8 @@ sort_keys:
 
 Vào [24 tháng 6](../_/24_June.md) [1953](../_/1953.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [George Sayer](../G/George_Sayer.md)**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
 
-- **Chủ đề:** Tolkien bắt đầu lá thư của mình bằng lời xin lỗi vì đã đánh máy, nói rằng anh ấy bị đau ở tay và việc đánh máy ít phiền phức hơn so với việc viết. Sau đó, anh ấy bắt đầu thảo luận về những tin tức và vấn đề liên quan đến việc trở thành một giáo sư quan trọng tại trường Đại học. Bức thư còn đưa ra những tin tức về các vấn đề gia đình điển hình giữa những người bạn thân thiết như vậy. Tolkien cũng xin lời khuyên của Sayer về kế hoạch mua một chiếc máy ghi âm, bày tỏ hy vọng rằng bất cứ chiếc máy nào anh mua sẽ tương thích với máy của Sayer, để anh có thể gửi các cuộn phim cho George "*for your criticism, or your use*".<sup id="cite_ref-Abe_2-0" class="reference"><a href="#cite_note-Abe-2">[2]</a></sup>
-- **Xuất bản:** Mô tả về bức thư đã được xuất bản trong [*Người đồng hành và Hướng dẫn J.R.R. Tolkien: Niên đại*](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (tr. 401).
+- **Chủ đề:** Tolkien bắt đầu bức thư của mình bằng lời xin lỗi vì đã đánh máy nó, nói rằng ông bị đau ở tay và việc đánh máy ít gây khó chịu hơn so với việc viết. Sau đó, ông bắt đầu thảo luận về những tin tức và vấn đề liên quan đến việc trở thành một giáo sư quan trọng tại trường Đại học. Bức thư còn đưa ra những tin tức về các vấn đề gia đình điển hình giữa những người bạn thân thiết như vậy. Tolkien cũng xin lời khuyên của Sayer về kế hoạch mua một chiếc máy ghi âm, bày tỏ hy vọng rằng bất cứ chiếc máy nào anh mua cũng sẽ tương thích với máy của Sayer, để anh có thể gửi các cuộn phim cho George "*for your criticism, or your use*".<sup id="cite_ref-Abe_2-0" class="reference"><a href="#cite_note-Abe-2">[2]</a></sup>
+- **Xuất bản:** Mô tả về bức thư đã được xuất bản trong [*The J.R.R. Tolkien Companion and Guide: Chronology*](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (tr. 401).
 
 ## Từ việc bán hàng {#From_a_sale}
 

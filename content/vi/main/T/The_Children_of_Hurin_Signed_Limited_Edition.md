@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Children of Húrin Signed Limited Edition"
 ---
 
-Chuyển hướng tới [The Children of Húrin Phiên bản giới hạn có chữ ký](The_Children_of_Húrin_Signed_Limited_Edition.md).
+Chuyển hướng đến [The Children of Húrin Signed Limited Edition](The_Children_of_Húrin_Signed_Limited_Edition.md).

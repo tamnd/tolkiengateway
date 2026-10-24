@@ -29,7 +29,7 @@ Câu này được dịch là "ai đáng được gọi là 'Fullwise'"<sup id="
 
 ## Cú pháp {#Syntax}
 
-*aen* theo sau động từ *estathar*, ở thì tương lai và có nghĩa là "họ sẽ đặt tên". Không biết *aen* có thể đi theo động từ ở thì khác hay không. Tương tự, không biết *aen* là đại từ ("**họ** nên đặt tên anh ấy là Fullwiise"), dấu hiệu của thể bị động ("Anh ấy nên **được gọi** Fullwise") hay dấu hiệu chọn lọc thể hiện mong muốn ("Thay vào đó **nên** gọi Fullwise là ai").
+*aen* theo sau động từ *estathar*, ở thì tương lai và có nghĩa là "họ sẽ đặt tên". Không biết *aen* có thể đi theo động từ ở thì khác hay không. Tương tự, không biết *aen* là đại từ ("**họ** nên đặt tên ông là Fullwiise"), dấu hiệu của thể bị động ("Ông nên **được gọi** Fullwise") hay dấu hiệu chọn lọc thể hiện mong muốn ("Thay vào đó **nên** gọi Fullwise là ai").
 
 Một câu đố khác là từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sennui&amp;action=edit&amp;redlink=1" title="Sennui (page does not exist)">sennui</a></i>, cũng không rõ nghĩa, có khả năng là "nên" hoặc "thay vào đó".
 

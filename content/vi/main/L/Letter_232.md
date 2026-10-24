@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien cho biết anh rất quý những người cô trinh nữ sắc sảo, có tâm, thật là phúc cho những ai có được họ. Anh có một người dì chuyên nghiệp, một trong những người đầu tiên có bằng khoa học, đã đi nghiên cứu thực vật học ở Thụy Sĩ vào cuối những năm tám mươi. Cô ấy từng là một phần của nhóm bao gồm Tolkien cách đây rất lâu đã đi bộ qua những ngọn núi và đèo cao của đất nước đó. Gần <a class="extiw" href="http://en.wikipedia.org/wiki/Aletsch_Glacier" title="wikipedia:Aletsch Glacier">Aletsch</a> họ gần như bị nghiền nát bởi một trận tuyết lở do mặt trời làm lỏng ra (một tảng đá đi qua giữa Tolkien và người đi bộ phía trước). Chuyện đó và "trận chiến sấm sét" (một đêm tồi tệ trong chuồng gia súc) đã xuất hiện trong *[The Hobbit](../T/The_Hobbit.md)*.
+Tolkien cho biết ông đánh giá cao những người dì có trái tim nhân hậu và sắc sảo, một điều may mắn cho những ai có được họ. Anh có một người dì chuyên nghiệp, một trong những người đầu tiên có bằng khoa học, đã đi nghiên cứu thực vật học ở Thụy Sĩ vào cuối những năm tám mươi. Bà đã từng là một phần của nhóm bao gồm Tolkien từ lâu đã đi bộ qua những ngọn núi và đèo cao của đất nước đó. Gần <a class="extiw" href="http://en.wikipedia.org/wiki/Aletsch_Glacier" title="wikipedia:Aletsch Glacier">Aletsch</a> họ gần như bị nghiền nát bởi một trận tuyết lở do mặt trời làm lỏng ra (một tảng đá đi qua giữa Tolkien và người đi bộ phía trước). Chuyện đó và "trận chiến sấm sét" (một đêm tồi tệ trong chuồng gia súc) đã xuất hiện trong *[The Hobbit](../T/The_Hobbit.md)*.
 
 Tolkien nói với Reeves rằng anh rất thích câu chuyện của cô.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 

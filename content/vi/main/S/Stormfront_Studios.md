@@ -13,7 +13,7 @@ categories:
   - "American businesses"
 ---
 
-**Stormfront Studios** là nhà phát triển trò chơi điện tử ở Bắc Mỹ. Nó đã phát triển [*The Lord of the Rings: The Two Towers* (trò chơi điện tử)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>). Kể từ [ngày 1/4](../_/1_April.md), [2008](../_/2008.md), công ty không còn kinh doanh nữa.
+**Stormfront Studios** là nhà phát triển trò chơi điện tử ở Bắc Mỹ. Nó đã phát triển [*The Lord of the Rings: The Two Towers* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>). Kể từ [ngày 1/4](../_/1_April.md), [2008](../_/2008.md), công ty không còn kinh doanh nữa.
 
 ## Liên kết ngoài {#External_links}
 

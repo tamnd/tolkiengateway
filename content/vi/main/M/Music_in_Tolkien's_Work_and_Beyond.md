@@ -55,16 +55,16 @@ infobox:
 <dl><dt>Tolkien and Music</dt></dl>
 
 - "Sự đa âm, sự ứng biến tập thể và món quà của sự sáng tạo" của Chiara Bertoglio
-- "Ca Thương và Lòng Thương Xót: Tolkien và Nhạc Phụng Vụ" của [Michaël Devaux](Michaël_Devaux.md) và Guglielmo Spirito
-- "Trung Địa Cải tiến: Viết bài hát và Cải tiến trong các tác phẩm của Tolkien" của [Nancy Martsch](../N/Nancy_Martsch.md)
-- "'Tin gì từ miền Bắc?': Cấu trúc bố cục, hình ảnh phức tạp và nhân vật Kitô giáo anh hùng trong 'Lời than thở cho Boromir'" của [Łukasz Neubauer](../_/Łukasz_Neubauer.md)
-- "'Đi ra đi, vì nó ở đó!' Một tiếng kêu chiến của đế quốc đằng sau lời than thở cho Boromir?" của Jörg Fündling
+- "Ca thương và lòng thương xót: Tolkien và âm nhạc phụng vụ" của [Michaël Devaux](Michaël_Devaux.md) và Guglielmo Spirito
+- "Cải tiến ở Trung Địa: Viết bài hát và Cải tiến trong các tác phẩm của Tolkien" của [Nancy Martsch](../N/Nancy_Martsch.md)
+- "'Tin tức gì từ phương Bắc?': Cấu trúc bố cục, hình ảnh phức tạp và nhân vật Kitô giáo anh hùng trong 'Lời than thở cho Boromir'" của [Łukasz Neubauer](../_/Łukasz_Neubauer.md)
+- "'Hãy tiến lên, vì nó ở đó!' Một tiếng kêu chiến của đế quốc đằng sau lời than thở cho Boromir?" của Jörg Fündling
 
 <dl><dt>The Power of Music</dt></dl>
 
-- "'A Matter of Song': Sức mạnh của âm nhạc và bài hát trong Tolkien's Legendarium" của Elizabeth A. Whittingham
-- "'The Scholar as Minstrel': Lời-nhạc và âm thanh trong 'Tác phẩm mới'" của Tolkien" của [Bradford Lee Eden](../B/Bradford_Lee_Eden.md)
-- "Tolkien's Minstrelsy: Hiệu suất của lịch sử và quyền lực" của Lynn Forest-Hill
+- "'A Matter of Song': Sức mạnh của âm nhạc và bài hát trong truyền thuyết Tolkien" của Elizabeth A. Whittingham
+- "'The Scholar as Minstrel': Lời-nhạc và âm thanh trong 'Tác phẩm mới'" của Tolkien bởi [Bradford Lee Eden](../B/Bradford_Lee_Eden.md)
+- "Minstrelsy của Tolkien: Sự thể hiện của lịch sử và quyền lực" của Lynn Forest-Hill
 - "Âm nhạc trong văn xuôi Tolkien" của Maureen F. Mann
 - "'Một sự im lặng sâu sắc bao trùm': Sự im lặng và sự trình bày 'Tiếng nói' trong Tolkien" của Petra Zimmermann
 
@@ -73,19 +73,19 @@ infobox:
 - "Vũ điệu và bài hát: 'The Lay of Leithian' giữa 'The Tale of Tinúviel' và 'Of Beren and Lúthien'" của [Renée Vink](../R/Renée_Vink.md)
 - "Âm nhạc và những kẻ bị ruồng bỏ: Những bài hát của kẻ lang thang trong những mảnh vỡ du hành thời gian của Tolkien" của Jennifer Rogers
 - "Aragorn, Âm nhạc và 'Kế hoạch thần thánh'" của Angela P. Nicholas
-- "'Nơi bạn nghe bài hát, bạn có thể yên tâm': Âm nhạc của kẻ ác trong Trung Địa" của Sabine Frambach
+- "'Nơi nào bạn nghe bài hát, bạn có thể yên tâm': Âm nhạc của những kẻ ác ở Trung Địa" của Sabine Frambach
 
 <dl><dt>Instruments in Middle-earth</dt></dl>
 
-- "Một dàn nhạc trong Trung Địa" của Heidi Steimel
-- "*Nis me ti hearpun hygi*: Chơi đàn trên một dây trong Trung Địa" của John Holmes
+- "Một dàn nhạc ở Trung Địa" của Heidi Steimel
+- "*Nis me ti hearpun hygi*: Harping on One String in Middle-earth" của John Holmes
 - "Những chiếc sừng của xứ sở thần tiên" của Allan Turner
-- "Các chuyển động trong Trung Địa: Cách tiếp cận suy đoán đối với các nhạc cụ đàn organ trong tác phẩm của Tolkien" của Rainer Großby
+- "Portatives ở Trung địa: Cách tiếp cận suy đoán đối với nhạc cụ đàn organ trong tác phẩm của Tolkien" của Rainer Großby
 
 <dl><dt>Music beyond Tolkien</dt></dl>
 
 - "Chúa tể của những chiếc nhẫn: *Ring* của Wagner và 'Faërie' của Tolkien" của Anja Müller
-- "'Âm nhạc đích thực trong ngôn từ': Phân tích so sánh chức năng của âm nhạc trong *The Lord of the Rings* của Tolkien và *Kingkiller Chronicles*của Rothfuss'" của Patrick Schmitz
+- "'Âm nhạc đích thực trong ngôn từ': Phân tích so sánh về chức năng của âm nhạc trong *The Lord of the Rings* và Rothfuss' *Kingkiller Chronicles* của Tolkien" của Patrick Schmitz
 - "Hướng dẫn về phím Home và phong cách âm nhạc: Điểm hòa âm cho trò chơi điện tử dựa trên Tolkien" của Tobias Escher
 
 ## Từ nhà xuất bản {#From_the_publisher}

@@ -35,110 +35,110 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Tolkien_Society_-_Tolkien_2005_-_The_Ring_Goes_Ever_On_-_Proceedings.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6a/The_Tolkien_Society_-_Tolkien_2005_-_The_Ring_Goes_Ever_On_-_Proceedings.jpg/320px-The_Tolkien_Society_-_Tolkien_2005_-_The_Ring_Goes_Ever_On_-_Proceedings.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/6a/The_Tolkien_Society_-_Tolkien_2005_-_The_Ring_Goes_Ever_On_-_Proceedings.jpg 1.5x" data-file-width="480" data-file-height="680"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Ring Goes Ever On: Proceedings of the Tolkien 2005 Conference</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Sarah Wells</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/26_September.md" title="26 September">26 September</a> <a href="../_/2008.md" title="2008">2008</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">835</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0-905520-24-7" title="Special:BookSources/978-0-905520-24-7">978-0-905520-24-7</a></td></tr></tbody></table>
 
-<i><b>The Ring Goes Ever On: Proceedings of the Tolkien 2005 Conference</b></i> là cuốn sách hai tập chứa phần lớn tài liệu được trình bày tại hội nghị [Tolkien 2005](Tolkien_2005.md).
+<i><b>Chiếc nhẫn vẫn tiếp tục: Kỷ yếu của Hội nghị Tolkien 2005</b></i> là một cuốn sách hai tập chứa phần lớn tài liệu được trình bày tại hội nghị [Tolkien 2005](Tolkien_2005.md).
 
 ## Nội dung {#Contents}
 
 <h3><span id="Section_One:_Tolkien.27s_Life"></span><span class="mw-headline" id="Section_One:_Tolkien&#39;s_Life">Section One: Tolkien&#39;s Life</span></h3>
 
 - [Nancy Martsch](../N/Nancy_Martsch.md): "Vấn đề bản quyền Ace"
-- [John Garth](../J/John_Garth.md): "'Như dưới biển xanh': viễn cảnh chiến tranh ở Đầm lầy Chết"
+- [John Garth](../J/John_Garth.md): "'Như dưới biển xanh': viễn cảnh về chiến tranh ở Đầm Lầy Chết"
 - Sharin Schroeder: "Những huyền thoại được sáng tạo, mượn và pha trộn trong 'các loại sách chúng ta muốn đọc'"
-- Franco Manni và Simone Bonechi: "Sự phức tạp trong thái độ của Tolkien đối với Chiến tranh thế giới thứ hai"
-- Charles A. Coulombe: "Những người bảo thủ lãng mạn: Inklings trong bối cảnh chính trị của họ"
+- Franco Manni và Simone Bonechi: "Sự phức tạp trong thái độ của Tolkien đối với Thế chiến thứ hai"
+- Charles A. Coulombe: "Những người bảo thủ lãng mạn: Những kẻ mơ hồ trong bối cảnh chính trị của họ"
 - Eric Rauscher: "Chúng tôi không có gì để nói với nhau — J.R.R. Tolkien và Charles Williams, Một cái nhìn khác"
-- [Richard Sturch](../R/Richard_Sturch.md): "Trên Tolkien, và Williams, và Tolkien trên Williams"
+- [Richard Sturch](../R/Richard_Sturch.md): "Về Tolkien, và Williams, và Tolkien về Williams"
 
 <h3><span id="Section_Two:_Tolkien.27s_Literary_Achievement"></span><span class="mw-headline" id="Section_Two:_Tolkien&#39;s_Literary_Achievement">Section Two: Tolkien&#39;s Literary Achievement</span></h3>
 
 - [Marjorie Burns](../M/Marjorie_Burns.md): "Ngăn chặn và phát triển trong thế giới của J.R.R. Tolkien"
-- Andrea Ulrich: "Tiếp cận hiện thực trong The Lord of the Rings"
-- Giovanni Agnoloni: "Tolkien như một chuẩn mực của văn học so sánh — Trung Địa trong thế giới của chúng ta"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Robin_Anne_Reid&amp;action=edit&amp;redlink=1" title="Robin Anne Reid (page does not exist)">Robin Anne Reid</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Judy_Ann_Ford&amp;action=edit&amp;redlink=1" title="Judy Ann Ford (page does not exist)">Judy Ann Ford</a>: "Từ Beowulf đến Chủ nghĩa Hậu hiện đại: Giảng dạy theo nhóm liên ngành J.R.R.Tolkien The Lord of the Rings"
+- Andrea Ulrich: "Tiếp cận hiện thực trong Chúa tể của những chiếc nhẫn"
+- Giovanni Agnoloni: "Tolkien như một chuẩn mực của văn học so sánh - Trung địa trong thế giới của chúng ta"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Robin_Anne_Reid&amp;action=edit&amp;redlink=1" title="Robin Anne Reid (page does not exist)">Robin Anne Reid</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Judy_Ann_Ford&amp;action=edit&amp;redlink=1" title="Judy Ann Ford (page does not exist)">Judy Ann Ford</a>: "Từ Beowulf đến chủ nghĩa hậu hiện đại: Đội ngũ giảng dạy liên ngành về Chúa tể của những chiếc nhẫn J.R.R.Tolkien"
 - Ella van Wyk: "Những câu hỏi hay"
 - Catherine Hefferan-Hays: "Mở khóa các sự kiện bổ sung trong giấc mơ, tầm nhìn và lời tiên tri về tác phẩm của J.R.R. Tolkien"
-- [Patrick Curry](../P/Patrick_Curry.md): "Vương miện Sắt, Iron Cage: Tolkien và Weber về tính hiện đại và sự mê hoặc"
-- Tanya Glofcheskie: "Cuộc sống như một câu chuyện được chia sẻ: Tự do kể chuyện trong The Lord of the Rings"
-- Magne Bergland: "Mô tả thiên nhiên trong The Lord of the Rings: Phác thảo phương pháp phân tích"
+- [Patrick Curry](../P/Patrick_Curry.md): "Vương miện sắt, Chiếc lồng sắt: Tolkien và Weber về tính hiện đại và sự mê hoặc"
+- Tanya Glofcheskie: "Cuộc sống như một câu chuyện được chia sẻ: Tự do kể chuyện trong Chúa tể của những chiếc nhẫn"
+- Magne Bergland: "Mô tả thiên nhiên trong Chúa tể những chiếc nhẫn: Phác thảo phương pháp phân tích"
 - [Ralph C. Wood](../R/Ralph_C._Wood.md): "J.R.R.Tolkien: Đương đại hậu hiện đại của chúng ta"
-- [Vincent Ferré](../V/Vincent_Ferré.md): "Tolkien, tác giả và nhà phê bình: Beowulf, Ngài Gawain và Hiệp sĩ xanh, Sự trở về quê hương của Beorhtnoth và The Lord of the Rings"
+- [Vincent Ferré](../V/Vincent_Ferré.md): "Tolkien, tác giả và nhà phê bình: Beowulf, Ngài Gawain và Hiệp sĩ xanh, Sự trở về quê hương của Beorhtnoth và Chúa tể của những chiếc nhẫn"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Anna_Vaninskaya&amp;action=edit&amp;redlink=1" title="Anna Vaninskaya (page does not exist)">Anna Vaninskaya</a>: "Tolkien: Người đàn ông của thời đại?"
 
-### Phần 3: Tolkien ở Miền Đất Khác {#Section_Three:_Tolkien_in_Other_Lands}
+### Phần ba: Tolkien ở những vùng đất khác {#Section_Three:_Tolkien_in_Other_Lands}
 
-- Thomaz Brasil: "Di sản củaTolkien ở Brazil"
-- Anna Dabkkowska: "Câu chuyện Ba Lan về The Lord of the Rings"
+- Thomaz Brasil: "Di sản của Tolkien ở Brazil"
+- Anna Dabkkowska: "Câu chuyện Ba Lan về Chúa tể của những chiếc nhẫn"
 - Helios De Rosario-Martínez: "Bản dịch tác phẩm của Tolkien sang tiếng Tây Ban Nha và tiếng Catalan"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Roberto_Arduini&amp;action=edit&amp;redlink=1" title="Roberto Arduini (page does not exist)">Roberto Arduini</a> và Raffaella Benvenuto: "Địa danh trong bản dịch tiếng Ý của The Lord of the Rings"
-- Natalya Prilutskaya: "Người Nga theo dõi J.R.R.Tolkien"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Roberto_Arduini&amp;action=edit&amp;redlink=1" title="Roberto Arduini (page does not exist)">Roberto Arduini</a> và Raffaella Benvenuto: "Các địa danh trong bản dịch tiếng Ý của Chúa tể những chiếc nhẫn"
+- Natalya Prilutskaya: "Người Nga theo J.R.R.Tolkien"
 
 ### Phần 4: Những tiếng nói khác {#Section_Four:_Other_Voices}
 
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Nataliya_Oryshchuk&amp;action=edit&amp;redlink=1" title="Nataliya Oryshchuk (page does not exist)">Nataliya Oryshchuk</a>: "J.R.R.Tolkien và Alexander Grin: Hai "giáo phái" văn học ở Liên Xô và nước Nga hậu Xô Viết"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Wolfgang_Penetsdorfer&amp;action=edit&amp;redlink=1" title="Wolfgang Penetsdorfer (page does not exist)">Wolfgang Penetsdorfer</a>: "Cuộc săn lùng kẻ duy nhất Tolkien"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Wolfgang_Penetsdorfer&amp;action=edit&amp;redlink=1" title="Wolfgang Penetsdorfer (page does not exist)">Wolfgang Penetsdorfer</a>: "Cuộc săn lùng Tolkien"
 - David Emerson: "Tolkien và Moorcock: Đạt được chiều sâu văn học thông qua những khám phá thời gian theo chiều dọc và chiều ngang"
-- Charles Butler: "Sau Inklings"
+- Charles Butler: "Sau những điều mơ hồ"
 - Colin Duriez: "Tolkien trong tiểu thuyết"
 
 ### Phần 5: Kể chuyện: Thần thoại và kể chuyện {#Section_Five:_The_Telling_of_Tales:_Myth_and_Storytelling}
 
 - Ian Russell Lowell: "Băng qua vùng đất không người"
 - Kate Karegeorgi: "Tolkien và tính phổ quát"
-- Kristina Sepe: "'Kể câu chuyện cho họ': Ý thức về huyền thoại trong Tolkien và Pullman"
-- Rosana Rios: "Kể chuyện trong Bạch Hội Đồng"
+- Kristina Sepe: "'Kể chuyện cho họ': Ý thức về huyền thoại ở Tolkien và Pullman"
+- Rosana Rios: "Kể chuyện trong Hội đồng Trắng"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Allan_Turner&amp;action=edit&amp;redlink=1" title="Allan Turner (page does not exist)">Allan Turner</a>: "Đưa đoạn văn bản vào ngữ cảnh"
 
 <h3><span id="Section_Six:_Tolkien.27s_People"></span><span class="mw-headline" id="Section_Six:_Tolkien&#39;s_People">Section Six: Tolkien&#39;s People</span></h3>
 
-- Beatriz Domínguez Ruiz: "Khái niệm về nam tính trong The Lord of the Rings của Tolkien"
-- Douglas Charles Rapier: "Sự cám dỗ củaFrodo, Thất bại của Frodo"
-- Romuald (Ronnie) Ian Lakowski: "'Tam giác tình yêu' củaTolkien: Mối quan hệ của Aragorn với Êowyn và Arwen"
-- Melody Green: "Câu đố về Strider: Cách đọc ngôn ngữ nhận thức"
-- Anna Smol: "Tình bạn nam giới trong The Lord of the Rings: Chủ nghĩa Trung cổ, Chiến tranh thế giới thứ nhất và các tác phẩm viết lại đương đại"
-- Nicole Topham: "Thời gian được trao cho chúng ta: Hy vọng, Sự hy sinh và Lòng dũng cảm trong The Lord of the Rings"
-- David Weber: "Nỗi buồn được chuyển hóa: Đặc điểm của nỗi buồn trong The Lord of the Rings"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Constance_Wagner&amp;action=edit&amp;redlink=1" title="Constance Wagner (page does not exist)">Constance G.J. Wagner</a>: "Cuộc chiến bên trong: Frodo với tư cách là Anh hùng hy sinh"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Beth_Russell&amp;action=edit&amp;redlink=1" title="Beth Russell (page does not exist)">Beth Russell</a>: "Galadriel và những người tình của cô ấy"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Judith_Klinger&amp;action=edit&amp;redlink=1" title="Judith Klinger (page does not exist)">Judith Klinger</a>: "Những sai lầm về quyền lực: Sự phản kháng của Frodo đối với Nhẫn"
-- [Lynnette R. Porter](../L/Lynnette_Porter.md): "Lòng dũng cảm và khả năng thích ứng"
+- Beatriz Domínguez Ruiz: "Khái niệm về nam tính trong Chúa tể của những chiếc nhẫn của Tolkien"
+- Douglas Charles Rapier: "Sự cám dỗ của Frodo, Sự thất bại của Frodo"
+- Romuald (Ronnie) Ian Lakowski: "'Tam giác tình yêu' của Tolkien: Mối quan hệ của Aragorn với Êowyn và Arwen"
+- Giai điệu xanh: "Câu đố về Strider: Đọc ngôn ngữ nhận thức"
+- Anna Smol: "Tình bạn nam giới trong Chúa tể của những chiếc nhẫn: Chủ nghĩa thời trung cổ, Chiến tranh thế giới thứ nhất và các tác phẩm viết lại đương đại"
+- Nicole Topham: "Thời gian được trao cho chúng ta: Hy vọng, sự hy sinh và lòng dũng cảm trong Chúa tể của những chiếc nhẫn"
+- David Weber: "Nỗi buồn được biến đổi: Đặc điểm của nỗi buồn trong Chúa tể của những chiếc nhẫn"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Constance_Wagner&amp;action=edit&amp;redlink=1" title="Constance Wagner (page does not exist)">Constance G.J. Wagner</a>: "Cuộc chiến bên trong: Frodo với tư cách là anh hùng hy sinh"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Beth_Russell&amp;action=edit&amp;redlink=1" title="Beth Russell (page does not exist)">Beth Russell</a>: "Galadriel và những người tình của bà"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Judith_Klinger&amp;action=edit&amp;redlink=1" title="Judith Klinger (page does not exist)">Judith Klinger</a>: "Những sai lầm về quyền lực: Sự phản kháng của Frodo đối với chiếc nhẫn"
+- [Lynnette R. Porter](../L/Lynnette_Porter.md): "Lòng can đảm và khả năng thích ứng"
 
 <h3><span id="Section_Seven:_Tolkien.27s_Legacy"></span><span class="mw-headline" id="Section_Seven:_Tolkien&#39;s_Legacy">Section Seven: Tolkien&#39;s Legacy</span></h3>
 
-- [Nils Ivar Agøy](../N/Nils_Ivar_Agøy.md): "Tại sao Tolkien lại phổ biến đến vậy?"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Patty_Howerton&amp;action=edit&amp;redlink=1" title="Patty Howerton (page does not exist)">Patty Howerton</a>: "Tolkien và The Lord of the Rings: Nguồn cảm hứng cho giáo dục và học tập trên toàn thế giới"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Patty_Howerton&amp;action=edit&amp;redlink=1" title="Patty Howerton (page does not exist)">Patty Howerton</a>: "Tolkien's Trung Địa: Giáo án dành cho giáo viên trung học"
-- [Mike Austin Foster](../M/Mike_Foster.md): "Dạy Tolkien"
+- [Nils Ivar Agøy](../N/Nils_Ivar_Agøy.md): "Tại sao Tolkien lại nổi tiếng đến vậy?"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Patty_Howerton&amp;action=edit&amp;redlink=1" title="Patty Howerton (page does not exist)">Patty Howerton</a>: "Tolkien và Chúa tể của những chiếc nhẫn: Nguồn cảm hứng cho giáo dục và học tập trên toàn thế giới"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Patty_Howerton&amp;action=edit&amp;redlink=1" title="Patty Howerton (page does not exist)">Patty Howerton</a>: "Trung Địa của Tolkien: Giáo án dành cho giáo viên trung học"
+- [Mike Foster](../M/Mike_Foster.md): "Dạy Tolkien"
 - Miriam Glasser: "Thể loại giả tưởng và đặc điểm của nó"
 
 ### Phần Tám: Thần học và bản chất của Thiện và Ác {#Section_Eight:_Theology_and_the_Nature_of_Good_and_Evil}
 
-- Donald T. Williams: "Sự bất diệt Hobbit: Những góc nhìn về con người trong thần thoại của Tolkien"
-- Davide Cattaneo: "Sự hiện diện và quan phòng của Thiên Chúa trong The Lord of the Rings"
-- Greg Wright: "Tình bạn và những chiếc nhẫn: Cách tiếp cận đại kết đối với Tolkien"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ronald_Hutton&amp;action=edit&amp;redlink=1" title="Ronald Hutton (page does not exist)">Ronald Hutton</a>: "Kẻ ngoại đạo Tolkien"
-- Zach Watkins: "Satan và The Silmarillion: John Sự suy giảm thiên thần của Milton trong Melkor của J.R.R. Tolkien"
+- Donald T. Williams: "Người Hobbit bất diệt: Những góc nhìn về con người trong thần thoại Tolkien"
+- Davide Cattaneo: "Sự hiện diện và quan phòng thần thánh trong Chúa tể của những chiếc nhẫn"
+- Greg Wright: "Tình bằng hữu và những chiếc nhẫn: Cách tiếp cận mang tính đại kết đối với Tolkien"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ronald_Hutton&amp;action=edit&amp;redlink=1" title="Ronald Hutton (page does not exist)">Ronald Hutton</a>: "The Pagan Tolkien"
+- Zach Watkins: "Satan và viên Silmarillion: Sự suy tàn của thiên thần John Milton trong Melkor của J.R.R. Tolkien"
 - Zach Watkins: "Tử vong và bất tử: Một cuộc thảo luận nhóm về 'Tử vong và bất tử'"
 - Pedro Ángeles-Ruiz: "'contrafactura' huyền thoại Công giáo trong một số tác phẩm của J.R.R. Tolkien
 - Beppe Roncari và Davide Cattaneo: "Tolkien và Cơ đốc giáo"
-- Dean Slavic: "Thế giới ngầm trong tiểu thuyết của Tolkien The Lord of the Rings"
-- [Thomas Fornet-Ponse](Thomas_Fornet-Ponse.md): "Các khái niệm khác nhau về cái ác trong The Lord of the Rings?"
-- Tim McKenzie: "Tôi Thương hại Ngay cả Nô lệ của Anh ta: Tolkien và Thần học về Ác ma"
-- Jill Delsigne: "Hobbit, Tolkien, và Chúa: Viết về thảm họa và vấn đề cái ác"
+- Dean Slavic: "Thế giới ngầm trong tiểu thuyết Chúa tể của những chiếc nhẫn của Tolkien"
+- [Thomas Fornet-Ponse](Thomas_Fornet-Ponse.md): "Những quan niệm khác nhau về cái ác trong Chúa tể của những chiếc nhẫn?"
+- Tim McKenzie: "Tôi thương hại ngay cả những nô lệ của ông: Tolkien và thần học về cái ác"
+- Jill Delsigne: "Người Hobbit, Tolkien và Chúa: Viết về thảm họa và vấn đề cái ác"
 
 <h3><span id="Section_Nine:_Tolkien.27s_Sources"></span><span class="mw-headline" id="Section_Nine:_Tolkien&#39;s_Sources">Section Nine: Tolkien&#39;s Sources</span></h3>
 
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Colin_Manlove&amp;action=edit&amp;redlink=1" title="Colin Manlove (page does not exist)">Colin Manlove</a>: " Tolkien nợ công của George MacDonald bao nhiêu?"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Colin_Manlove&amp;action=edit&amp;redlink=1" title="Colin Manlove (page does not exist)">Colin Manlove</a>: "Tolkien nợ tác phẩm của George MacDonald bao nhiêu?"
 - [Renée Vink](../R/Renée_Vink.md): "Sự bất tử và cái chết của tình yêu: J.R.R. Tolkien và Simone de Beauvoir"
-- Sash Uusjärv: "Ảnh hưởng của Kalevala ở The Silmarillion bởi J.R.R. Tolkien"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Michael_Scott_Rohan&amp;action=edit&amp;redlink=1" title="Michael Scott Rohan (page does not exist)">Michael Scott Rohan</a>: "Tôi tự hỏi câu chuyện nào? Gandalf nói… Tolkien có phải là tên trộm Nhẫn thực sự không?"
-- Maria Artamanova: "Tolkien các bài viết bằng tiếng Đức cổ"
-- [David Bratman](../D/David_Bratman.md): "Hobbit Những cái tên không đến từ Kentucky"
-- Murray Smith: "Một số nguồn gốc có thể có của Quan Chấp chính của Gondor"
+- Sash Uusjärv: "Ảnh hưởng của Kalevala trong The Silmarillion của J.R.R. Tolkien"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Michael_Scott_Rohan&amp;action=edit&amp;redlink=1" title="Michael Scott Rohan (page does not exist)">Michael Scott Rohan</a>: "Tôi tự hỏi câu chuyện nào nhỉ? Gandalf nói... Tolkien có phải là Kẻ trộm nhẫn thật không?"
+- Maria Artamanova: "Các tác phẩm của Tolkien bằng ngôn ngữ Đức cổ"
+- [David Bratman](../D/David_Bratman.md): "Tên Hobbit không đến từ Kentucky"
+- Murray Smith: "Một số nguồn gốc có thể có của Quản lý Gondor"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Joe_R._Christopher&amp;action=edit&amp;redlink=1" title="Joe R. Christopher (page does not exist)">Joe R. Christopher</a>: "Hình ngũ giác của Ngài Gawain"
-- Christina Fawcett: "Chiến binh bất đắc dĩ: ngôn ngữ mâu thuẫn của Tolkien trong The Lord of the Rings"
+- Christina Fawcett: "Chiến binh bất đắc dĩ: Ngôn ngữ mâu thuẫn của Tolkien trong Chúa tể những chiếc nhẫn"
 - Jessica Yates: "Ảnh hưởng của William Morris đối với J.R.R.Tolkien"
 
-### Phần 10: Trung Địa tại Phim {#Section_Ten:_Middle-earth_at_the_Movies}
+### Phần 10: Phim Trung Địa {#Section_Ten:_Middle-earth_at_the_Movies}
 
 - LeiLani Hinds: "Đạo Công giáo của Peter Jackson và Tolkien"
 - DawnEllen Jacobs: "Những cách xử lý ngầm và rõ ràng về hình ảnh Công giáo trong Chúa tể những chiếc nhẫn của Tolkien và Bộ ba phim của Jackson"
@@ -151,23 +151,23 @@ infobox:
 
 <h3><span id="Section_Eleven:_Tolkien.27s_World"></span><span class="mw-headline" id="Section_Eleven:_Tolkien&#39;s_World">Section Eleven: Tolkien&#39;s World</span></h3>
 
-- [Tom Shippey](Tom_Shippey.md): "Quỹ của những câu nói khôn ngoan: Tính cách tục ngữ trong Tolkien"
+- [Tom Shippey](Tom_Shippey.md): "Quỹ của những câu nói khôn ngoan: Tính tục ngữ ở Tolkien"
 - Luke Niiler: "Từ kẻ chinh phục thành công dân: Hệ sinh thái tuyệt vời của Tolkien"
-- Charles E. Bressler: "Tình yêu ngôn từ củaJ.R.R. Tolkien Bản chất bộc lộ của những câu cách ngôn của Tolkien trong The Lord of the Rings"
-- C. Riley Auge: "Vượt qua ngưỡng cửa: Cửa và những lối đi khác bằng lời nói và hình ảnh của Tolkien"
+- Charles E. Bressler: "Tình yêu ngôn từ củaJ.R.R. Tolkien Bản chất bộc lộ trong những câu cách ngôn của Tolkien trong Chúa tể của những chiếc nhẫn"
+- C. Riley Auge: "Vượt qua ngưỡng cửa: Những cánh cửa và những lối đi khác trong lời nói và hình ảnh của Tolkien"
 - Ian Russell Lowell: "Hai chân xấu, bốn chân tốt, tám chân xấu?"
-- Natalya Prilutskaya: "Vấn đề về công nghệ máy móc ở The Lord of the Rings"
+- Natalya Prilutskaya: "Vấn đề về công nghệ máy móc trong Chúa tể những chiếc nhẫn"
 - Michael J. Colvin: "Thiên nhiên băng giá: Công nghệ tồn tại trong thế giới của Tolkien"
-- Christopher Kreuzer: "Các số trong Tolkien"
-- [Dimitra Fimi](../D/Dimitra_Fimi.md): "Văn hóa vật chất và vật chất trong Trung Địa: Tolkien và Khảo cổ học"
+- Christopher Kreuzer: "Các con số trong Tolkien"
+- [Dimitra Fimi](../D/Dimitra_Fimi.md): "Văn hóa vật chất và tính vật chất ở Trung Địa: Tolkien và Khảo cổ học"
 - [Rhona Beare](../R/Rhona_Beare.md): "Ảnh hưởng của khí hậu đến huyền thoại: Lý thuyết và thực tiễn của Tolkien"
-- Michal Lesniewski: "Câu hỏi của "Vòng Arda": Một ý tưởng bị bỏ rơi, hay một góc nhìn khác về Tolkien's Legendarium"
-- Benjamin Rollins: "'Tôi sẽ \[không\] phục vụ chủ nhân của Quý giá': Nền kinh tế của Bataille trong Tolkien's The Lord of the Rings"
-- Carolina A. Panero: "Xử lý Elvish ngôn ngữ"
-- Christian Weichmann: "Bức tranh của Niggle – Vườn của Giáo xứ: Những khu vườn trong tác phẩm của Tolkien"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Margarita_Carretero-Gonz%C3%A1lez&amp;action=edit&amp;redlink=1" title="Margarita Carretero-González (page does not exist)">Margarita Carretero-González</a>: "Sự mất mát của Entwives: khía cạnh sinh học của việc xây dựng giới ở The Lord of the Rings"
-- Anna Adamczyk "Nifrodel": "Tolkien và Thiên nhiên"
-- [Kristine Larsen](../K/Kristine_Larsen.md): "Một Trái Đất Nhỏ Của Riêng Anh: Huyền thoại về Sự Sáng Tạo Mặt Trăng của Tolkien"
+- Michal Lesniewski: "Câu hỏi về "Vòng Arda": Một ý tưởng bị bỏ rơi, hay một góc nhìn khác về Truyền thuyết của Tolkien"
+- Benjamin Rollins: "'Tôi sẽ \[không\] phục vụ chủ nhân của Quý giá': Nền kinh tế của Bataille trong Chúa tể của những chiếc nhẫn của Tolkien"
+- Carolina A. Panero: "Xử lý ngôn ngữ của Tiên"
+- Christian Weichmann: "Bức tranh của Niggle – Vườn giáo xứ: Những khu vườn trong tác phẩm của Tolkien"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Margarita_Carretero-Gonz%C3%A1lez&amp;action=edit&amp;redlink=1" title="Margarita Carretero-González (page does not exist)">Margarita Carretero-González</a>: "Sự mất mát của Entives: khía cạnh sinh học của việc xây dựng giới tính trong Chúa tể của những chiếc nhẫn"
+- Anna Adamczyk "Nifrodel": "Tolkien và thiên nhiên"
+- [Kristine Larsen](../K/Kristine_Larsen.md): "Trái đất nhỏ của riêng mình: Huyền thoại về sự sáng tạo mặt trăng của Tolkien"
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

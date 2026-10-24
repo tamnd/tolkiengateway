@@ -16,7 +16,7 @@ images:
   - "WikimediaUI-ArrowNext-ltr.svg"
 ---
 
-<b><i>L'Arc et le Heaume</i> n°1</b> (*Les Hobbits*) là số đầu tiên của fanzine <i><a class="external text" href="https://www.tolkiendil.com/asso/mag" rel="noreferrer noopener" target="_blank">L'Arc et le Heaume</a></i> của hiệp hội Pháp [Tolkiendil](<../T/Tolkiendil_(Tolkien_society).md>). Nó đã được xuất bản trong [2005](../_/2005.md) và được dành riêng cho [Hobbit](../H/Hobbits.md).
+<b><i>L'Arc et le Heaume</i> n°1</b> (*Les Hobbits*) là số đầu tiên của fanzine <i><a class="external text" href="https://www.tolkiendil.com/asso/mag" rel="noreferrer noopener" target="_blank">L'Arc et le Heaume</a></i> của hiệp hội Pháp [Tolkiendil](<../T/Tolkiendil_(Tolkien_society).md>). Nó được xuất bản trên [2005](../_/2005.md) và dành riêng cho [Người Hobbit](../H/Hobbits.md).
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">L&#39;Arc et le Heaume  1</div></div><div class="template-prevnext__linkoverlay"><a class="mw-selflink selflink">L&#39;Arc et le Heaume  1</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">L&#39;Arc et le Heaume 1</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">L&#39;Arc et le Heaume  2</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="L&#39;Arc_et_le_Heaume_2.md" title="L&#39;Arc et le Heaume 2">L&#39;Arc et le Heaume  2</a></div></div></div>
 
@@ -25,7 +25,7 @@ images:
 - Tin tức
     - [Vincent Ferré](../V/Vincent_Ferré.md): Phỏng vấn
     - Bản xem lại của Web
-- Hồ sơ: tập tin Hobbit
+- Hồ sơ: les Hobbit
     - La Bataille de Lézeau et le Nettoyage de la Comté
     - Carte de la Comté
     - L'épopée d'une plante hobbite: l'herbe à pipe
@@ -33,7 +33,7 @@ images:
 - Bảng thuật ngữ
     - Bách khoa toàn thư
     - Lexique des noms de régions, làng và Rivières hobbit
-    - Et si on en parlait! La ngôn ngữ Hobbit
+    - Et si on en parlait! La langue des Hobbit
 - Détente và jeux
 - Khám phá
     - Pratchett et le Disque-Monde
@@ -44,11 +44,11 @@ images:
 - Tin tức
     - [Vincent Ferré](../V/Vincent_Ferré.md): Phỏng vấn
     - Đánh giá trang web
-- Tập tin: Hobbit
-    - Trận Lézeau và Cuộc thanh tẩy Shire
-    - Bản đồ Shire
-    - Sử thi về loài thực vật Hobbit: Pipe Weed
-Kiến trúc     - Hobbit
+- Tập tin: người Hobbit
+    - Trận Lézeau và Cuộc thanh tẩy Quận
+    - Bản đồ Quận
+    - Sử thi về cây Hobbit: Pipe Weed
+    - Kiến trúc Hobbit
 - Bảng thuật ngữ
     - Bách khoa toàn thư
     - Bảng thuật ngữ tên các vùng, làng và sông của người Hobbit

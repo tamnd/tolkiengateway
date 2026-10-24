@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack"
 ---
 
-Chuyển hướng tới [The Lord of the Rings: The Two Towers - Nhạc phim gốc](The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md).
+Chuyển hướng đến [The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md).

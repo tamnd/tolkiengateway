@@ -34,11 +34,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Village</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Willowbottom</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../E/Eastfarthing.md" title="Eastfarthing">Eastfarthing</a>, <a href="../T/The_Shire.md" title="The Shire">the Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Village</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../H/Hobbits.md" title="Hobbits">Hobbits</a></td></tr></tbody></table>
 
-**Willowbottom** là một ngôi làng nhỏ gần [Woody End](Woody_End.md) ở [Eastfarthing](../E/Eastfarthing.md) của [the Shire](../T/The_Shire.md). Nó nằm bên bờ con suối có tên là [Thistle Brook](../T/Thistle_Brook.md), ngay phía trên nơi con suối đó đổ ra sông [Shirebourn](../S/Shirebourn.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Willowbottom** là một ngôi làng nhỏ gần [Woody End](Woody_End.md) ở [Eastfarthing](../E/Eastfarthing.md) của [the Shire](../T/The_Shire.md). Nó nằm bên bờ con suối có tên là [Thistle Brook](../T/Thistle_Brook.md), ngay phía trên nơi con suối đó chảy vào sông [Shirebourn](../S/Shirebourn.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Thành phần thứ hai của tên thường gặp trong các địa danh tiếng Anh và thường xuất hiện dưới dạng *-botham* ([tiếng Anh cổ](../O/Old_English.md) *botm* "thung lũng sâu"). [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) mang ý nghĩa '"thung lũng có sườn dốc" hay đặc biệt là "bằng phẳng sâu".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Xem thêm [Longbottom](../L/Longbottom.md). <span></span>
+Thành phần thứ hai của tên thường gặp trong các địa danh tiếng Anh và thường xuất hiện dưới dạng *-botham* ([Tiếng Anh cổ](../O/Old_English.md) *botm* "thung lũng sâu"). [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) mang ý nghĩa '"thung lũng có sườn dốc" hay đặc biệt là "bằng phẳng sâu".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Xem thêm [Longbottom](../L/Longbottom.md). <span></span>
 
 ## Tài liệu tham khảo {#References}
 

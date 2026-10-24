@@ -25,13 +25,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 179a</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a href="../J/John_Tolkien.md" title="John Tolkien">John Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/20_December.md" title="20 December">20 December</a> <a href="../_/1955.md" title="1955">1955</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data">Christmas holidays</td></tr></tbody></table>
 
-**Thư 179a** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
+**Thư 179a** là lá thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
 
 ## Tóm tắt {#Summary}
 
-Tolkien viết cho con trai mình [John](../J/John_Tolkien.md), người đang làm giám tuyển ở Birmingham và gần như không thể về nhà vào dịp Giáng sinh do yêu cầu của Giáo hội. Tolkien bày tỏ rằng anh sẽ nhớ sự hiện diện của John trong kỳ nghỉ nhưng lại thấy an ủi khi nghĩ đến việc gặp lại anh vào đầu năm mới.
+Tolkien viết cho con trai mình [John](../J/John_Tolkien.md), người đang làm giám tuyển ở Birmingham và gần như không thể về nhà vào dịp Giáng sinh do yêu cầu của Giáo hội. Tolkien bày tỏ rằng anh sẽ nhớ sự hiện diện của John đến mức nào trong kỳ nghỉ nhưng lại thấy an ủi khi nghĩ đến việc gặp lại anh vào đầu năm mới.
 
-Anh ấy hạn chế gửi quà Giáng sinh, thích chọn thứ gì đó đặc biệt khi John ghé thăm. Trong lúc chờ đợi, ông gửi kèm một tấm séc trị giá £1, yêu cầu John cử hành hai thánh lễ: một cho người mẹ quá cố của Tolkien, [Mabel Tolkien](../M/Mabel_Tolkien.md), và một thánh lễ khác để tôn vinh [Đức Mẹ](../C/Christianity.md). Tolkien khép lại bức thư với những lời chúc Giáng sinh John vừa vui vừa lao động tinh thần, bày tỏ tình yêu thương và cầu nguyện cho nhu cầu của bản thân. <br>
+Ông hạn chế gửi quà Giáng sinh, thích chọn thứ gì đó đặc biệt khi John đến thăm. Trong khi chờ đợi, ông ta gửi kèm một tấm séc trị giá 1 bảng Anh, yêu cầu John nói hai thánh lễ: một cho người mẹ quá cố của Tolkien, [Mabel Tolkien](../M/Mabel_Tolkien.md), và một thánh lễ khác để tôn vinh [Đức Mẹ](../C/Christianity.md). Tolkien khép lại bức thư với những lời chúc Giáng sinh của John bao gồm cả niềm vui lẫn lao động tinh thần, bày tỏ tình yêu thương và xin cầu nguyện cho nhu cầu của bản thân. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

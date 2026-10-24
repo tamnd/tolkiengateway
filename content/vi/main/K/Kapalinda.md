@@ -19,7 +19,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Tên *Kapalinda* nằm trong [Qenya](../Q/Qenya.md), rất có thể là từ *kapalinda* ("suối nước") được dùng làm tên riêng; *kapalinda* bắt nguồn từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=KAPA&amp;action=edit&amp;redlink=1" title="KAPA (page does not exist)">KAPA</a> ("nhảy, lò xo").<sup id="cite_ref-Kap_1-1" class="reference"><a href="#cite_note-Kap-1">[1]</a></sup>
+Tên *Kapalinda* có trong [Qenya](../Q/Qenya.md), rất có thể là từ *kapalinda* ("suối nước") được dùng làm tên riêng; *kapalinda* bắt nguồn từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=KAPA&amp;action=edit&amp;redlink=1" title="KAPA (page does not exist)">KAPA</a> ("nhảy, lò xo").<sup id="cite_ref-Kap_1-1" class="reference"><a href="#cite_note-Kap-1">[1]</a></sup>
 
 <span></span>
 

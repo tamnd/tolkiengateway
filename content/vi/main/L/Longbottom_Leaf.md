@@ -29,9 +29,9 @@ images:
 
 **Lá đáy dài** là một trong ba giống [cỏ ống](../P/Pipe-weed.md) được ghi nhận là được săn lùng nhiều nhất, hai giống còn lại là [Old Toby](../O/Old_Toby.md) và [Sao phương Nam](../S/Southern_Star.md).
 
-[Longbottom](Longbottom.md) ở [Southfarthing](../S/Southfarthing.md) là nơi đầu tiên ở [ Shire](../T/The_Shire.md) nơi trồng cỏ ống, và vì vậy Lá Đáy Dài hẳn là một trong những loại lâu đời nhất và lâu đời nhất (nếu không phải là giống ban đầu). Người trồng lá đầu tiên là [Người thổi kèn Tobold](../T/Tobold_Hornblower.md) và gia đình ông vẫn tiếp nối truyền thống này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Longbottom](Longbottom.md) ở [Southfarthing](../S/Southfarthing.md) là nơi đầu tiên ở [Shire](../T/The_Shire.md) trồng cỏ ống, và vì vậy Lá Đáy Dài hẳn là một trong những loại lâu đời nhất và lâu đời nhất (nếu không phải là giống ban đầu). Người trồng lá đầu tiên là [Người thổi kèn Tobold](../T/Tobold_Hornblower.md) và gia đình ông vẫn tiếp nối truyền thống này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Các thùng Lá Longbottom được [Saruman](../S/Saruman.md) cất giữ ở [Isengard](../I/Isengard.md). [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md), những người tìm thấy những chiếc thùng trong đống đổ nát của nó, đã nhận thấy nhãn hiệu của [Gia đình Hornbutter](../H/Hornblower_Family.md) và ngày tháng [S.R.](../S/Shire_Reckoning.md) [1417](../T/Third_Age_3017.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Những thùng Longbottom Leaf được [Saruman](../S/Saruman.md) cất giữ ở [Isengard](../I/Isengard.md). [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md), những người đã tìm thấy những chiếc thùng trong đống đổ nát của nó, đã nhận thấy nhãn hiệu của [Gia đình Hornbutter](../H/Hornblower_Family.md) và ngày tháng [S.R.](../S/Shire_Reckoning.md) [1417](../T/Third_Age_3017.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -54,11 +54,11 @@ Các thùng Lá Longbottom được [Saruman](../S/Saruman.md) cất giữ ở [
 		</li>
 </ul>
 
-<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
 
 <dl><dd>In  <a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">the extended edition</a>&#39;s <a href="../F/Flotsam_and_Jetsam_(scene).md" title="Flotsam and Jetsam (scene)">Flotsam and Jetsam</a> scene, <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> and <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> raid <a href="../S/Saruman.md" title="Saruman">Saruman</a>&#39;s Storeroom in <a href="../I/Isengard.md" title="Isengard">Isengard</a> following the <a href="../B/Battle_of_Isengard.md" title="Battle of Isengard">Last March of the Ents</a>. They discover barrels of Longbottom Leaf and debate whether to share it with <a href="../T/Treebeard.md" title="Treebeard">Treebeard</a>. Eventually they decide to keep it for themselves, mischievously citing the idea that it could be a &#39;distant relative&#39; of his.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>The smoke from Longbottom Leaf takes the form of a horizontal smoke ring that appears behind the character&#39;s head. This effect appears to be broken or bugged. From the front, only the default cloud of thick smoke can be seen.</dd></dl>
 

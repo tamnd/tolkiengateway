@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Last Bridge"
 ---
 
-Chuyển hướng đến [Cây Cầu Cuối Cùng](../L/Last_Bridge.md).
+Chuyển hướng đến [Cầu cuối cùng](../L/Last_Bridge.md).

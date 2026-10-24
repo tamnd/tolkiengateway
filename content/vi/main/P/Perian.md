@@ -22,7 +22,7 @@ langlinks:
     url: "https://kontu.wiki/Perian"
 ---
 
-<i><b>perian</b></i> (lit. "[Halfling](../H/Halflings.md)"), số nhiều <i><b>periain</b></i> và số nhiều tập hợp <i><b>Periannath</b></i>, vừa là tên [Sindarin](../S/Sindarin.md) vừa là [Quenya](../Q/Quenya.md) của [Hobbit](../H/Hobbits.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-AppE_4-0" class="reference"><a href="#cite_note-AppE-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+<i><b>perian</b></i> (lit. "[Halfling](../H/Halflings.md)"), số nhiều <i><b>periain</b></i> và số nhiều tập thể <i><b>Periannath</b></i>, vừa là [Sidarin](../S/Sindarin.md) vừa là [Quenya](../Q/Quenya.md) tên của [Người Hobbit](../H/Hobbits.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-AppE_4-0" class="reference"><a href="#cite_note-AppE-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Các hình thức khác {#Other_forms}
 

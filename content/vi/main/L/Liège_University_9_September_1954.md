@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Liège University (9 September 1954)"
 ---
 
-Chuyển hướng đến [Thư gửi Đại học Liège (9 tháng Chín 1954)](<Letter_to_Liège_University_(9_September_1954).md>).
+Chuyển hướng đến [Thư gửi Đại học Liège (9 tháng 9 năm 1954)](<Letter_to_Liège_University_(9_September_1954).md>).

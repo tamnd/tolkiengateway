@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "War of the Ring (2004 board game)"
 ---
 
-Chuyển hướng tới [Cuộc chiến Nhẫn (trò chơi board game năm 2004)](<War_of_the_Ring_(2004_board_game).md>).
+Chuyển hướng tới [War of the Ring (trò chơi board game năm 2004)](<War_of_the_Ring_(2004_board_game).md>).

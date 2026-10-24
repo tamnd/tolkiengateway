@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Riders of Rohan (1985 book)"
 ---
 
-Chuyển hướng đến [Những tay đua của Rohan (cuốn sách năm 1985)](<../R/Riders_of_Rohan_(1985_book).md>).
+Chuyển hướng tới [Những kỵ sĩ của Rohan (cuốn sách năm 1985)](<../R/Riders_of_Rohan_(1985_book).md>).

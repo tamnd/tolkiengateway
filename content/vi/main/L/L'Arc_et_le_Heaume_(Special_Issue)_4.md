@@ -32,17 +32,17 @@ Bình luận: Sự phát triển của các mẫu thời gian khái quát
 
 I. Trình tự thời gian khái quát: mô hình thời gian
 
-- 1 "Bay tới Isengard với tốc độ Sauron phẫn nộ"
+- 1 "Bay tới Isengard với tốc độ như cơn thịnh nộ của Sauron"
 - 2\. “Một sai lầm đáng tiếc nhất”
 
 II. Một niên đại mới: sơ đồ thời gian S2
 
 - 1 "Chúng ta là quá khứ hay tương lai, hay ở một thời điểm không trôi qua, tôi không thể nói được"
-- 2\. "Pippin thấy trăng tròn đang lên và tự hỏi Frodo ở đâu"
+- 2\. "Pippin nhìn thấy trăng tròn đang mọc và tự hỏi Frodo ở đâu"
 - 3\. "Những chi tiết và sự phức tạp của cuộc chiến mà tôi phải tham gia"
 - 4\. "Trong hai đêm nữa họ đi qua một đất nước bị quấy rối và không có hình dạng"
 
-III. Việc tạo ra một niên đại: Đếm Shire
+III. Việc tạo ra niên đại: Bá tước Shire
 
 - 1 "Nếu sử dụng CC"
 - 2\. "Nếu bạn thích, vào ngày cuối cùng của tháng ba"
@@ -50,10 +50,10 @@ III. Việc tạo ra một niên đại: Đếm Shire
 IV. Dòng thời gian đầy đủ: Dòng thời gian S3
 
 - 1 "Đầy những điều họ đã biết, viết ra"
-- 2\. "Nhưng cần thêm thời gian cho Aragorn"
+- 2\. "Nhưng Aragorn cần thêm thời gian"
 - 3\. "Xin thứ lỗi cho tôi, ông Frodo," ông nói, "nhưng ông có biết chúng ta còn phải đi bao xa nữa không?"
 
-V. Niên đại đã xuất bản: Phụ lục B
+V. Niên đại được công bố: Phụ lục B
 
 - 1 "Nơi đây, nơi kết thúc của mọi thứ"
 

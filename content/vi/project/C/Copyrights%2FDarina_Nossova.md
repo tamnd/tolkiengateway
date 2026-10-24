@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Nossova, Darina"
 ---
 
-- Darina Nossova đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Darina_Nossova.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
-- Ngày: 7 tháng Chín năm 2020
+- Darina Nossova đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Darina_Nossova.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Ngày: 7 tháng 9 năm 2020
 - Người dùng đã xin phép qua Tumblr: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

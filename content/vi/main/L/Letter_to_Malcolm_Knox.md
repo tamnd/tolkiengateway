@@ -16,9 +16,9 @@ sort_keys:
 
 Vào [17 tháng 12](../_/17_December.md) [1947](../_/1947.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho ông Thomas Malcom Knox**.
 
-- **Nội dung:** Thư cảm ơn sự hiếu khách của Knox khi Tolkien giảng bài *[On Fairy-Stories](../O/On_Fairy-Stories.md)* tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_St_Andrews" title="wikipedia:University of St Andrews">Đại học St Andrews</a> ở [1939](../_/1939.md). Tolkien cũng gửi cho Knox một bản sao của *[Essays Presented to Charles Williams](../E/Essays_Presented_to_Charles_Williams.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- **Nội dung:** Lá thư cảm ơn về lòng hiếu khách của Knox khi Tolkien giảng bài *[On Fairy-Stories](../O/On_Fairy-Stories.md)* tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_St_Andrews" title="wikipedia:University of St Andrews">Đại học St Andrews</a> ở [1939](../_/1939.md). Tolkien cũng gửi cho Knox một bản sao *[Essays Presented to Charles Williams](../E/Essays_Presented_to_Charles_Williams.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - **Mô tả:** Một trang, viết tay, ký tên.
-- **Ấn bản:** Một bản fax đã được xuất bản trong *[Tree of Tales](../T/Tree_of_Tales.md)*.
+- **Xuất bản:** Một bản fax đã được xuất bản trong *[Tree of Tales](../T/Tree_of_Tales.md)*.
 
 <span></span>
 

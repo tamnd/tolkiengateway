@@ -38,7 +38,7 @@ infobox:
 
 António Quadros trở thành họa sĩ minh họa người Bồ Đào Nha đầu tiên cho tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) khi ông đóng góp các bức vẽ cho ấn bản tiếng Bồ Đào Nha đầu tiên của *[The Hobbit](../T/The_Hobbit.md)* ([O Gnomo](../O/O_Gnomo.md)).
 
-Hình minh họa của Quadros cho *[The Hobbit](../T/The_Hobbit.md)* không làm hài lòng Tolkien. [Clyde S. Kilby](../C/Clyde_S._Kilby.md), đã viết trong hồi ký của mình, *[Tolkien and The Silmarillion](../T/Tolkien_and_The_Silmarillion.md)*, rằng Tolkien coi những bức tranh minh họa của Bồ Đào Nha là "khủng khiếp".
+Hình minh họa của Quadros cho *[The Hobbit](../T/The_Hobbit.md)* không làm Tolkien hài lòng. [Clyde S. Kilby](../C/Clyde_S._Kilby.md), đã viết trong hồi ký của mình, *[Tolkien and The Silmarillion](../T/Tolkien_and_The_Silmarillion.md)*, rằng Tolkien coi những bức tranh minh họa bằng tiếng Bồ Đào Nha là "khủng khiếp".
 
 ## Liên kết ngoài {#External_links}
 

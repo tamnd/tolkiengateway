@@ -11,4 +11,4 @@ redirect_target: "Eagles"
 redirect_fragment: "Other names"
 ---
 
-Chuyển hướng đến [Đại Bàng](../E/Eagles.md#Other_names).
+Chuyển hướng tới [Đại bàng](../E/Eagles.md#Other_names).

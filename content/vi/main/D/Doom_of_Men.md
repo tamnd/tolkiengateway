@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gift of Ilúvatar"
 ---
 
-Chuyển hướng tới [Quà tặng Ilúvatar](../G/Gift_of_Ilúvatar.md).
+Chuyển hướng đến [Món quà của Ilúvatar](../G/Gift_of_Ilúvatar.md).

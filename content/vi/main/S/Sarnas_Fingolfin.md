@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fingolfin's Cairn"
 ---
 
-Chuyển hướng tới Cairn của [Fingolfin](../F/Fingolfin's_Cairn.md).
+Chuyển hướng đến [Fingolfin's Cairn](../F/Fingolfin's_Cairn.md).

@@ -40,7 +40,7 @@ infobox:
 
 Saelon bị [Borlas](../B/Borlas.md) bắt khi còn nhỏ khi đang ăn trộm một quả táo trong vườn của Borlas. Sự tức giận của Borlas và mô tả về hành vi của Saelon *orc's work* đã chạm vào trái tim Saelon - anh cảm thấy vô cùng đau khổ và coi đây là một mối hận thù sâu sắc.
 
-Vài năm sau, Borlas và Saelon ngồi trong vườn đối diện với [Minas Tirith](../M/Minas_Tirith.md). Sau khi Borlas mô tả [Cây bóng tối](../D/Dark_Tree.md), Saelon sau đó đã đề cập rằng có những người đàn ông đã trưởng thành *under the shadow* trong thời gian gần đây và thì thầm cái tên [Herumor](<../H/Herumor_(The_New_Shadow).md>), thủ lĩnh có thể là thủ lĩnh của một phe nổi loạn ở Gondor, với Borlas.<sup id="cite_ref-shadow_1-0" class="reference"><a href="#cite_note-shadow-1">[1]</a></sup>
+Vài năm sau, Borlas và Saelon ngồi trong khu vườn đối diện với [Minas Tirith](../M/Minas_Tirith.md). Sau khi Borlas mô tả [Cây bóng tối](../D/Dark_Tree.md), chính Saelon sau đó đã đề cập rằng có những người đàn ông đã trưởng thành *under the shadow* trong thời gian gần đây và thì thầm cái tên [Herumor](<../H/Herumor_(The_New_Shadow).md>), thủ lĩnh có thể là thủ lĩnh của một phe nổi loạn ở Gondor, với Borlas.<sup id="cite_ref-shadow_1-0" class="reference"><a href="#cite_note-shadow-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

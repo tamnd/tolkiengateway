@@ -13,7 +13,7 @@ categories:
   - "Black Speech words"
 ---
 
-<i><b>olog</b></i> là một từ [Hắc Ngữ](../B/Black_Speech.md) dường như có nghĩa là "[troll](../T/Trolls.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>olog</b></i> là một từ [Bài phát biểu của người da đen](../B/Black_Speech.md) dường như có nghĩa là "[troll](../T/Trolls.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 
@@ -21,7 +21,7 @@ categories:
 
 ## Xem thêm {#See_also}
 
-- [Sindarin](../S/Sindarin.md) *[torog](../T/Torog.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[torog](../T/Torog.md)*
 
 <span></span>
 

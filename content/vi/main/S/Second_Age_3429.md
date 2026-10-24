@@ -16,13 +16,13 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><b>II</b><a href="../T/Third_Age.md" title="Third Age">III</a><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Second_Age_3339.md" title="Second Age 3339">3339</a><a href="Second_Age_3379.md" title="Second Age 3379">3379</a><a href="Second_Age_3399.md" title="Second Age 3399">3399</a><a class="mw-selflink selflink">3429</a><a href="Second_Age_3430.md" title="Second Age 3430">3430</a><a href="Second_Age_3431.md" title="Second Age 3431">3431</a><a href="Second_Age_3434.md" title="Second Age 3434">3434</a></div></div></div></div></div></div>
 
-**Thời thứ hai 3429** (viết tắt là **S.A. 3429**) là năm thứ 3429 [năm Mặt Trời](../Y/Years_of_the_Sun.md) của [Thời thứ hai](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ hai 3429** (viết tắt là **S.A. 3429**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 3429 của [Kỷ thứ hai](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Sauron](Sauron.md) tấn công [Gondor](../G/Gondor.md), [chiếm](../F/First_Fall_of_Minas_Ithil.md) [Minas Ithil](../M/Minas_Ithil.md) và đốt cháy [Cây Trắng](../W/White_Tree_of_Gondor.md).<sup id="cite_ref-SA_1-0" class="reference"><a href="#cite_note-SA-1">[1]</a></sup>
-- [Isildur](../I/Isildur.md) trốn xuống [Anduin](../A/Anduin.md) và đi về [Elendil](../E/Elendil.md) ở phía Bắc,<sup id="cite_ref-SA_1-1" class="reference"><a href="#cite_note-SA-1">[1]</a></sup> mang theo một cây con Cây Trắng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- [Anárion](../A/Anárion.md) phòng thủ [Minas Anor](../M/Minas_Anor.md) và [Osgiliath](../O/Osgiliath.md).<sup id="cite_ref-SA_1-2" class="reference"><a href="#cite_note-SA-1">[1]</a></sup>
+- [Isildur](../I/Isildur.md) trốn thoát xuống [Anduin](../A/Anduin.md) và đi đến [Elendil](../E/Elendil.md) ở phía Bắc,<sup id="cite_ref-SA_1-1" class="reference"><a href="#cite_note-SA-1">[1]</a></sup> mang theo một cây con của Cây Trắng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Anárion](../A/Anárion.md) bảo vệ [Minas Anor](../M/Minas_Anor.md) và [Osgiliath](../O/Osgiliath.md).<sup id="cite_ref-SA_1-2" class="reference"><a href="#cite_note-SA-1">[1]</a></sup>
 
 <span></span>
 

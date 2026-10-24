@@ -18,7 +18,7 @@ images:
 
 <i><b>Old Mornings Dawn</b></i> là album dài thứ bảy của [Summoning](../S/Summoning.md). Album được phát hành vào [5 tháng 6](../_/5_June.md), [2013](../_/2013.md), thông qua Napalm Records. *Old Mornings Dawn* được phát hành bảy năm sau album dài trước đó của họ *Oath Bound*, đây là khoảng cách dài nhất giữa bất kỳ album Triệu hồi nào. Với hai bản nhạc thưởng có trong phiên bản box-set và vinyl, album này là album dài nhất của Summoning cho đến nay.
 
-Lời bài hát của bốn bài hát dựa trên câu chuyện về [Eärendil](../E/Eärendil.md) người thủy thủ, tổ tiên của các vị vua [Númenor](../N/Númenor.md). Lời của hai bài hát được dựa trên bài thơ "Thành phố nỗi buồn hiện tại" và "Thị trấn của những giấc mơ" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Phần lời còn lại đến từ những tác giả vô danh hoặc được ban nhạc viết theo phong cách phù hợp với vũ trụ Tolkien.
+Lời bài hát của bốn bài hát dựa trên câu chuyện của [Eärendil](../E/Eärendil.md) người thủy thủ, tổ tiên của các vị vua của [Númenor](../N/Númenor.md). Lời của hai ca khúc được dựa trên bài thơ "Thành phố nỗi buồn hiện tại" và "Thị trấn của những giấc mơ" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Phần còn lại của lời bài hát đến từ những tác giả vô danh hoặc được ban nhạc viết theo phong cách phù hợp với vũ trụ Tolkien.
 
 ## Danh sách bản nhạc {#Track_listing}
 

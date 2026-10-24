@@ -34,13 +34,13 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Pauline_Baynes_-_Fastitocalon_Chapterhead.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7c/Pauline_Baynes_-_Fastitocalon_Chapterhead.jpeg/250px-Pauline_Baynes_-_Fastitocalon_Chapterhead.jpeg" decoding="async" loading="lazy" width="250" height="94" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/7/7c/Pauline_Baynes_-_Fastitocalon_Chapterhead.jpeg 1.5x" data-file-width="274" data-file-height="103"/></a><figcaption>Fastitocalon - Illustration by <a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a></figcaption></figure>
 
-**Fastitocalon** là một con quái vật biển huyền thoại, dường như là con cuối cùng của [Cá Rùa](../T/Turtle-fish.md) hùng mạnh. Anh ta chỉ được nhắc đến trong câu [Hobbit](../H/Hobbits.md).<sup id="cite_ref-poem_1-0" class="reference"><a href="#cite_note-poem-1">[1]</a></sup>
+**Fastitocalon** là một con quái vật biển huyền thoại, dường như là con cuối cùng của [Cá Rùa](../T/Turtle-fish.md) hùng mạnh. Ông ta chỉ được nhắc đến trong câu thơ [Hobbit](../H/Hobbits.md).<sup id="cite_ref-poem_1-0" class="reference"><a href="#cite_note-poem-1">[1]</a></sup>
 
-Fastitocalon có kích thước bằng một hòn đảo nhỏ và thảm thực vật thường mọc trên lưng anh ta khi không bị ngập nước, làm tăng thêm vẻ ngoài lừa dối của anh ta như một hòn đảo thực sự. Vì kích thước khổng lồ của nó, các thủy thủ đã lật ngửa nó và chỉ chết đuối khi nó lặn dưới nước.<sup id="cite_ref-poem_1-1" class="reference"><a href="#cite_note-poem-1">[1]</a></sup>
+Fastitocalon có kích thước bằng một hòn đảo nhỏ và thảm thực vật thường mọc trên lưng ông ta khi không bị ngập nước, làm tăng thêm vẻ ngoài lừa dối của ông ta như một hòn đảo thực sự. Vì kích thước khổng lồ của nó, các thủy thủ đã lật ngửa nó và chỉ chết đuối khi nó lặn dưới nước.<sup id="cite_ref-poem_1-1" class="reference"><a href="#cite_note-poem-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Fastitocalon* bắt nguồn từ từ *astitocalon* của [Shire-speech](../H/Hobbitish.md) (được dịch bằng tiếng Anh hiện đại), bản thân nó là một sự thay đổi hoặc sai lệch của [Cao-Tiên](../E/Elvish.md) *Aspido-chelōne* (được dịch bằng tiếng Hy Lạp, có nghĩa là "rùa với tấm khiên tròn (da)") và "chữ F được người dịch thuật ngữ đặt vào chỉ để làm cho cái tên trở thành điệp âm".<sup id="cite_ref-letter_2-0" class="reference"><a href="#cite_note-letter-2">[2]</a></sup>
+*Fastitocalon* bắt nguồn từ từ *astitocalon* trong [Shire-speech](../H/Hobbitish.md) (được dịch bằng tiếng Anh hiện đại), bản thân nó là một sự thay đổi hoặc sai lệch của [High-Elven](../E/Elvish.md) *Aspido-chelōne* (được dịch bằng tiếng Hy Lạp, có nghĩa là "rùa với tấm khiên tròn (da)") và "chữ F được người viết câu thêm vào chỉ để làm cho cái tên trở thành ám chỉ".<sup id="cite_ref-letter_2-0" class="reference"><a href="#cite_note-letter-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

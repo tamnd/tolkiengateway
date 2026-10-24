@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien cảm ơn Rayner vì lòng tốt gần đây của anh ấy đã chăm sóc anh ấy và công việc của anh ấy. Anh tự cho mình là người may mắn lạ thường khi có được một người bạn như vậy, so sánh mối quan hệ của họ với [Rohan](../R/Rohan.md) và [Gondor](../G/Gondor.md). Về phần mình, Tolkien cho biết, [Lời thề của Eorl](../O/Oath_of_Eorl.md) sẽ không bao giờ bị phá vỡ và anh sẽ tiếp tục dựa vào sự khôn ngoan và lịch sự của [Minas Tirith](../M/Minas_Tirith_in_Gondor.md). <br>
+Tolkien cảm ơn Rayner vì lòng tốt gần đây của ông đã chăm sóc ông và công việc của ông. Anh tự cho mình là người may mắn lạ thường khi có được một người bạn như vậy, so sánh mối quan hệ của họ với [Rohan](../R/Rohan.md) và [Gondor](../G/Gondor.md). Về phần mình, Tolkien nói, [Lời thề của Eorl](../O/Oath_of_Eorl.md) sẽ không bao giờ bị phá vỡ và ông sẽ tiếp tục dựa vào sự khôn ngoan và lịch sự của [Minas Tirith](../M/Minas_Tirith_in_Gondor.md). <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

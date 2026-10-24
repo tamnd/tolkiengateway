@@ -12,7 +12,7 @@ categories:
   - "Businesses"
 ---
 
-**Chaos Studios** đã phát triển [The Lord of the Rings, Tập. Tôi](<../T/The_Lord_of_the_Rings,_Vol._I_(1990_computer_game).md>) ủng hộ <a class="extiw" href="http://en.wikipedia.org/wiki/Amiga" title="wikipedia:Amiga">Amiga</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Chaos Studios** đã phát triển [The Lord of the Rings, Vol. I](<../T/The_Lord_of_the_Rings,_Vol._I_(1990_computer_game).md>) cho <a class="extiw" href="http://en.wikipedia.org/wiki/Amiga" title="wikipedia:Amiga">Amiga</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

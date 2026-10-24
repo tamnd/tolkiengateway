@@ -32,10 +32,10 @@ sort_keys:
     - "Biên tập"
     - "Da Tolkien a Karen Blixen, la via iperborea alla letteratura" (với <a class="new" href="https://tolkiengateway.net/w/index.php?title=Roberto_Arduini&amp;action=edit&amp;redlink=1" title="Roberto Arduini (page does not exist)">Roberto Arduini</a>)
     - "Il Noce di Benevento"
-    - "Tolkien, Webliography: il sito che mancava" (phỏng vấn bởi Fortarrigo Piccolomini)
+    - "Tolkien, a Webliography: il sito che mancava" (phỏng vấn bởi Fortarrigo Piccolomini)
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*, mục
     - "Yếu tố"
-    - "Tolkien Học bổng: Tổ chức"
+    - "Học bổng Tolkien: Tổ chức"
     - "Virgil"
 - [2006](../_/2006.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Terra_di_Mezzo&amp;action=edit&amp;redlink=1" title="Terra di Mezzo (page does not exist)">Terra di Mezzo</a></i> #21
     - "Il Servizio tesi della STI: archiveiazione, consigli e contatti"
@@ -45,8 +45,8 @@ sort_keys:
 - [2006](../_/2006.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Terra_di_Mezzo&amp;action=edit&amp;redlink=1" title="Terra di Mezzo (page does not exist)">Terra di Mezzo</a></i> # 22
     - "Il ritorno della Regina"
 - [2007](../_/2007.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Paesaggi_dalla_Terra_di_Mezzo&amp;action=edit&amp;redlink=1" title="Paesaggi dalla Terra di Mezzo (page does not exist)">Paesaggi dalla Terra di Mezzo</a></i>
-    - "Tôi quattro yếu tố"
-    - "Shelob và mito của Aracne"
+    - "Tôi quattro phần tử"
+    - "Shelob và il mito di Aracne"
     - "Alberi che camminano: i tiền nhiệm degli Ent"
 - [2019](../_/2019.md): *[Tolkien and the Classics](../T/Tolkien_and_the_Classics.md)*
     - "Tolkien và Grahame"

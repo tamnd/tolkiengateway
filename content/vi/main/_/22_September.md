@@ -61,7 +61,7 @@ images:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 22 tháng Chín.
+Sự kiện xảy ra vào ngày 22 tháng 9
 
 ## Trên Trái đất {#On_Earth}
 
@@ -69,18 +69,18 @@ Sự kiện xảy ra vào ngày 22 tháng Chín.
 - **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 152](../L/Letter_152.md).
 - **[1963](1963.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt đầu viết [một bức thư gửi Eileen Elgar](<../L/Letter_to_Eileen_Elgar_(September_1963).md>).
 - **[1976](1976.md)** - Diễn viên kiêm diễn viên đóng thế [Sala Baker](../S/Sala_Baker.md) ra đời.
-- **[1978](1978.md)** - [Oxonmoot 1978](../O/Oxonmoot_1978.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
-- **[1981](1981.md)** - Hiệp hội [Tolkien Hà Lan](../T/Tolkien_Societies~67099.md) [Unquendor](../U/Unquendor.md) được thành lập tại <a class="extiw" href="http://en.wikipedia.org/wiki/Leiden" title="wikipedia:Leiden">Leiden</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Netherlands" title="wikipedia:Netherlands">Hà Lan</a>.
-- **[1989](1989.md)** - [Oxonmoot 1989](../O/Oxonmoot_1989.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
-- **[1990](1990.md)** - [Oxonmoot 1990](../O/Oxonmoot_1990.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
+- **[1978](1978.md)** - [Oxonmoot 1978](../O/Oxonmoot_1978.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
+- **[1981](1981.md)** - [Hiệp hội Tolkien](../T/Tolkien_Societies~67099.md) [Unquendor](../U/Unquendor.md) của Hà Lan được thành lập tại <a class="extiw" href="http://en.wikipedia.org/wiki/Leiden" title="wikipedia:Leiden">Leiden</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Netherlands" title="wikipedia:Netherlands">Hà Lan</a>.
+- **[1989](1989.md)** - [Oxonmoot 1989](../O/Oxonmoot_1989.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
+- **[1990](1990.md)** - [Oxonmoot 1990](../O/Oxonmoot_1990.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
 - **[1991](1991.md)** - [Oxonmoot 1991](../O/Oxonmoot_1991.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_College,_Oxford" title="wikipedia:University College, Oxford">Đại học Cao đẳng</a>.
-- **[1992](1992.md)** - Hiệp hội [Tolkien Đan Mạch](../T/Tolkien_Societies~67099.md) [Imladris](../I/Imladris,_Danmarks_Tolkienforening.md) được thành lập.
+- **[1992](1992.md)** - [Hiệp hội Tolkien](../T/Tolkien_Societies~67099.md) [Imladris](../I/Imladris,_Danmarks_Tolkienforening.md) của Đan Mạch được thành lập.
 - **[1996](1996.md)** - [Oxonmoot 1996](../O/Oxonmoot_1996.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_College,_Oxford" title="wikipedia:University College, Oxford">Đại học Cao đẳng</a>.
 - **[2000](2000.md)** - [Oxonmoot 2000](../O/Oxonmoot_2000.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/St_Antony%27s_College,_Oxford" title="wikipedia:St Antony&#39;s College, Oxford">Đại học St Antony</a>.
 - **[2001](2001.md)** - [Oxonmoot 2001](../O/Oxonmoot_2001.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/St_Antony%27s_College,_Oxford" title="wikipedia:St Antony&#39;s College, Oxford">Đại học St Antony</a>.
-- **[2003](2003.md)** - [Bữa tiệc sinh nhật 111](../E/Eleventy-First_Birthday_Party.md) được tổ chức tại <a class="extiw" href="http://en.wikipedia.org/wiki/Frankenmuth,_Michigan" title="wikipedia:Frankenmuth, Michigan">Frankenmuth</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Michigan" title="wikipedia:Michigan">Michigan</a>.
+- **[2003](2003.md)** - [Bữa tiệc sinh nhật thứ 111](../E/Eleventy-First_Birthday_Party.md) được tổ chức tại <a class="extiw" href="http://en.wikipedia.org/wiki/Frankenmuth,_Michigan" title="wikipedia:Frankenmuth, Michigan">Frankenmuth</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Michigan" title="wikipedia:Michigan">Michigan</a>.
 - **[2009](2009.md)** - Bản dịch tiếng Frisian của *[The Hobbit](../T/The_Hobbit.md)*, của Anne Tjerk Popkema, được xuất bản.
-- **[2010](2010.md)** - [Nhóm Ngọn Núi Cô Đơn](../T/The_Lonely_Mountain_Band.md) phát hành album đầu tiên *[Beyond the Western Seas](../B/Beyond_the_Western_Seas.md)*.
+- **[2010](2010.md)** - [The Lonely Mountain Band](../T/The_Lonely_Mountain_Band.md) phát hành album đầu tiên *[Beyond the Western Seas](../B/Beyond_the_Western_Seas.md)*.
 - **[2012](2012.md)** - [Oxonmoot 2012](../O/Oxonmoot_2012.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
 - **[2013](2013.md)** – [Oxonmoot 2013](../O/Oxonmoot_2013.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
 - **[2017](2017.md)** - [Oxonmoot 2017](../O/Oxonmoot_2017.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/St_Antony%27s_College,_Oxford" title="wikipedia:St Antony&#39;s College, Oxford">Trường Cao đẳng St Antony</a>.
@@ -91,40 +91,40 @@ Sự kiện xảy ra vào ngày 22 tháng Chín.
 - [T.A.](../T/Third_Age.md) [2890](../T/Third_Age_2890.md):
     - [Bilbo Baggins](../B/Bilbo_Baggins.md) ra đời.
 - [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md):
-    - [Bilbo](../B/Bilbo_Baggins.md) và [ Người Lùn](../T/Thorin_and_Company.md) đến [Thị trấn Hồ](../L/Lake-town.md).
+    - [Bilbo](../B/Bilbo_Baggins.md) và [Người lùn](../T/Thorin_and_Company.md) đến [Thị trấn hồ](../L/Lake-town.md).
 - [T.A.](../T/Third_Age.md) [2968](../T/Third_Age_2968.md):
     - [Frodo Baggins](../F/Frodo_Baggins.md) ra đời.
 - [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md):
-    - [Bilbo](../B/Bilbo_Baggins.md) bước sang tuổi 111 và tổ chức [Bữa tiệc chia tay](../B/Bilbo's_Farewell_Party.md), tại đó ông thông báo ý định rời khỏi [ Shire](../T/The_Shire.md). Anh ta để lại [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) và khởi hành<sup id="cite_ref-party_1-0" class="reference"><a href="#cite_note-party-1">[1]</a></sup> cùng với [Nar](<../N/Nar_(companion_of_Bilbo).md>), [Anar](<../A/Anar_(dwarf).md>) và [Hannar](../H/Hannar.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-    - [Frodo](../F/Frodo_Baggins.md) bước sang tuổi 33 và trưởng thành. Anh ấy thừa kế [Bag End](../B/Bag_End.md) và tất cả những gì Bilbo để lại.<sup id="cite_ref-party_1-1" class="reference"><a href="#cite_note-party-1">[1]</a></sup>
+    - [Bilbo](../B/Bilbo_Baggins.md) bước sang tuổi 111 và tổ chức [Bữa tiệc chia tay](../B/Bilbo's_Farewell_Party.md), tại đó ông thông báo ý định rời khỏi [Shire](../T/The_Shire.md). Ông ta để lại [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) và khởi hành<sup id="cite_ref-party_1-0" class="reference"><a href="#cite_note-party-1">[1]</a></sup> cùng với [Nar](<../N/Nar_(companion_of_Bilbo).md>), [Anar](<../A/Anar_(dwarf).md>) và [Hannar](../H/Hannar.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+    - [Frodo](../F/Frodo_Baggins.md) bước sang tuổi 33 và trưởng thành. Ông thừa kế [Bag End](../B/Bag_End.md) và tất cả những thứ Bilbo để lại.<sup id="cite_ref-party_1-1" class="reference"><a href="#cite_note-party-1">[1]</a></sup>
 - [T.A.](../T/Third_Age.md) [3002](../T/Third_Age_3002.md)
-    - Frodo tổ chức sinh nhật và tôn vinh Bilbo trong “Bữa tiệc trăm cân” của ông, với 20 khách mời.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+    - Frodo tổ chức sinh nhật và tôn vinh Bilbo trong "Bữa tiệc trăm cân" của ông, với 20 khách mời.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Đội [Kỵ sĩ Đen](../N/Nazgûl.md) tiếp cận [Sarn Ford](../S/Sarn_Ford.md) vào buổi tối và đánh bật sự cảnh giác của [Rangers](../R/Rangers_of_the_North.md).
+    - Các [Kỵ sĩ đen](../N/Nazgûl.md) đến [Sarn Ford](../S/Sarn_Ford.md) vào buổi tối và đánh bật sự cảnh giác của [Rangers](../R/Rangers_of_the_North.md).
     - [Gandalf](../G/Gandalf.md) vượt qua [Shadowfax](../S/Shadowfax.md).
-    - Frodo tổ chức sinh nhật của mình với [Fredegar](../F/Fredegar_Bolger.md), [Merry](../M/Meriadoc_Brandybuck.md), [Pippin](../P/Peregrin_Took.md) và [Folco](../F/Folco_Boffin.md) trong thời gian đó anh ấy đã hoàn thành [Old Winyards](../O/Old_Winyards.md) của Bagginses. Sau rất nhiều đồ ăn và bài hát, họ uống mừng sức khỏe của Bilbo.
+    - Frodo tổ chức sinh nhật của mình với [Fredegar](../F/Fredegar_Bolger.md), [Merry](../M/Meriadoc_Brandybuck.md), [Pippin](../P/Peregrin_Took.md) và [Folco](../F/Folco_Boffin.md) trong thời gian đó ông đã hoàn thành [Old Winyards](../O/Old_Winyards.md) của Bagginses. Sau rất nhiều đồ ăn và bài hát, họ uống mừng sức khỏe của Bilbo.
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Bilbo](../B/Bilbo_Baggins.md) kỷ niệm sinh nhật lần thứ 129 của mình tại [Rivendell](../R/Rivendell.md) cùng với [Frodo](../F/Frodo.md) và công ty. [Saruman](../S/Saruman.md) nhập [ Shire](../T/The_Shire.md).<sup id="cite_ref-chief_4-0" class="reference"><a href="#cite_note-chief-4">[4]</a></sup>
+    - [Bilbo](../B/Bilbo_Baggins.md) kỷ niệm sinh nhật lần thứ 129 của mình tại [Rivendell](../R/Rivendell.md) cùng với [Frodo](../F/Frodo.md) và công ty. [Saruman](../S/Saruman.md) tiến vào [Shire](../T/The_Shire.md).<sup id="cite_ref-chief_4-0" class="reference"><a href="#cite_note-chief-4">[4]</a></sup>
 - [T.A.](../T/Third_Age.md) [3021](../T/Third_Age_3021.md):
-    - Frodo và Sam gặp nhau [Chuyến cưỡi ngựa cuối cùng của những người giữ những chiếc nhẫn](../L/Last_Riding_of_the_Keepers_of_the_Rings.md) trong [Woody End](../W/Woody_End.md).<sup id="cite_ref-chief_4-1" class="reference"><a href="#cite_note-chief-4">[4]</a></sup>
-    - [Bilbo Baggins](../B/Bilbo_Baggins.md) tròn 131 tuổi, Hobbit tồn tại lâu nhất trong lịch sử.
-- [Kỷ Đệ Tứ](../F/Fourth_Age.md) [61](../F/Fourth_Age_61.md):
-    - [Samwise Gamgee](../S/Samwise_Gamgee.md) rời [Bag End](../B/Bag_End.md) để đến [Đồi Tháp](../T/Tower_Hills.md) và đến [Cảng Xám](../G/Grey_Havens.md), người cuối cùng trong số [Những người mang nhẫn](../R/Ring-bearer.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+    - Frodo và Sam gặp [Chuyến cưỡi ngựa cuối cùng của những người giữ những chiếc nhẫn](../L/Last_Riding_of_the_Keepers_of_the_Rings.md) ở [Woody End](../W/Woody_End.md).<sup id="cite_ref-chief_4-1" class="reference"><a href="#cite_note-chief-4">[4]</a></sup>
+    - [Bilbo Baggins](../B/Bilbo_Baggins.md) tròn 131 tuổi, người Hobbit sống lâu nhất trong lịch sử.
+- [Fo.A.](../F/Fourth_Age.md) [61](../F/Fourth_Age_61.md):
+    - [Samwise Gamgee](../S/Samwise_Gamgee.md) rời [Bag End](../B/Bag_End.md) để đến [Tower Hills](../T/Tower_Hills.md) và đến [Grey Havens](../G/Grey_Havens.md), nơi cuối cùng trong số [Những người mang nhẫn](../R/Ring-bearer.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ### Ý nghĩa văn hóa {#Cultural_significance}
 
-Vì ngày này là ngày sinh nhật của [Người Mang Nhẫn](../R/Ring-bearer.md) Frodo Baggins nên nó trở nên có ý nghĩa quan trọng đối với [Tính toán mới](../N/New_Reckoning.md) sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md); tương ứng với 30 [Yavannië](../Y/Yavannië.md), nó được tổ chức thành một lễ hội để vinh danh Frodo. Xem thêm: [Cormare](../C/Cormare.md)
+Vì ngày này là ngày sinh nhật của [Người mang chiếc nhẫn](../R/Ring-bearer.md) Frodo Baggins nên nó trở nên có ý nghĩa quan trọng đối với [Tính toán mới](../N/New_Reckoning.md) sau [Cuộc chiến của chiếc nhẫn](../W/War_of_the_Ring.md); tương ứng với 30 [Yavannië](../Y/Yavannië.md), nó được biến thành một lễ hội để vinh danh Frodo. Xem thêm: [Cormare](../C/Cormare.md)
 
 <br>
 
 ## Ghi chú {#Notes}
 
-Khi Frodo và Sam đi qua Shire vào năm 3021, văn bản cho chúng ta biết rằng " Mặt Trăng đã đi về phía tây" phía trên họ.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Theo thiên văn học, vào ngày đó của năm đó, lẽ ra không có mặt trăng nào được nhìn thấy.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Khi Frodo và Sam cưỡi ngựa qua Shire vào năm 3021, văn bản cho chúng ta biết rằng "Mặt trăng đã di chuyển về hướng tây" phía trên họ.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Theo thiên văn học, vào ngày đó của năm đó, lẽ ra không nên nhìn thấy mặt trăng.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Người hâm mộ Tolkien kỷ niệm sinh nhật của Frodo là Ngày <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hobbit_Day&amp;action=edit&amp;redlink=1" title="Hobbit Day (page does not exist)">Hobbit</a>, sau đề xuất của [Hiệp hội Tolkien Mỹ](../A/American_Tolkien_Society.md); tuần có 22 tháng Chín mỗi năm được gọi là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Week&amp;action=edit&amp;redlink=1" title="Tolkien Week (page does not exist)">Tolkien Tuần</a>.
+Người hâm mộ Tolkien tổ chức sinh nhật cho Frodo là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hobbit_Day&amp;action=edit&amp;redlink=1" title="Hobbit Day (page does not exist)">Ngày Hobbit</a>, sau gợi ý của [Hiệp hội Tolkien Hoa Kỳ](../A/American_Tolkien_Society.md); tuần có ngày 22 tháng 9 hàng năm được gọi là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Week&amp;action=edit&amp;redlink=1" title="Tolkien Week (page does not exist)">Tuần lễ Tolkien</a>.
 
-Mặc dù vậy, việc [Shire Tính toán](../S/Shire_Reckoning.md) và do đó là ngày sinh của Bilbo và Frodo tương ứng với lịch của chúng tôi như thế nào vẫn là một vấn đề gây tranh cãi. [Phụ lục D](../A/Appendix_D.md) nói rằng Ngày đầu năm mới của chúng tôi ([1 tháng 1](1_January.md)) tương ứng "ít nhiều" với "[9 tháng 1](9_January.md)" của Shire và trong các năm tiêu chuẩn [14 tháng Chín](14_September.md) của chúng tôi tương ứng với "22 tháng Chín" của Shire(256 ngày sau). Tuy nhiên, Phụ lục D cũng nói rằng "[Ngày giữa năm](../M/Midyear's_Day.md)" của lịch Shire "có ý định tương ứng gần nhất có thể với ngày hạ chí." Trong lịch Shire, ngày 22 [Halimath](../H/Halimath.md) là 83 ngày sau Ngày Giữa Năm. Nếu chúng ta coi ngày hạ chí là [ngày 21 tháng 6](../J/June_21.md) thì sinh nhật của Bilbo và Frodo phải là 83 ngày sau, tức là [tháng Chín ngày 12](../S/September_12.md) của chúng ta.
+Mặc dù vậy, làm thế nào [Tính toán Quận](../S/Shire_Reckoning.md), và do đó, ngày sinh nhật của Bilbo và Frodo, lại tương ứng với lịch của chúng ta như thế nào vẫn là một vấn đề tranh luận. [Phụ lục D](../A/Appendix_D.md) nói rằng Ngày đầu năm mới của chúng tôi ([ngày 1 tháng 1](1_January.md)) tương ứng "ít nhiều" với "[ngày 9 tháng 1](9_January.md)" của Quận, và trong các năm tiêu chuẩn [ngày 14 tháng 9](14_September.md) của chúng tôi tương ứng với "ngày 22 tháng 9" của Quận (256 ngày sau). Tuy nhiên, Phụ lục D cũng nói rằng "[Ngày giữa năm](../M/Midyear's_Day.md)" trong lịch Quận Shire "có ý định tương ứng gần nhất có thể với ngày hạ chí." Trong lịch Quận, ngày 22 [Halimath](../H/Halimath.md) là 83 ngày sau Ngày Giữa Năm. Nếu chúng ta coi ngày hạ chí là [ngày 21 tháng 6](../J/June_21.md) thì sinh nhật của Bilbo và Frodo phải là 83 ngày sau, tức là [ngày 12 tháng 9](../S/September_12.md) của chúng ta.
 
 ## Ghi chú {#Notes_2}
 

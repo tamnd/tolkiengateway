@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**KARAK** là một [Primitive Quendian](../P/Primitive_Quendian.md) [rễ](../S/Sundocarme.md) biểu thị "răng, gai, răng nhọn".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+**KARAK** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "răng nanh, gai, răng sắc nhọn".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 Phiên bản bị từ chối có nội dung: "KARAK- răng, gai, đỉnh. Q *karka*".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -20,7 +20,7 @@ Phiên bản bị từ chối có nội dung: "KARAK- răng, gai, đỉnh. Q *ka
 
 - [Quenya](../Q/Quenya.md): *[karakse](Karakse.md)*; <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Karka&amp;action=edit&amp;redlink=1" title="Karka (page does not exist)">karka</a></i> ("răng"); <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Karkane&amp;action=edit&amp;redlink=1" title="Karkane (page does not exist)">karkane</a></i> ("hàng răng")
 
-- [Noldorin](../N/Noldorin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Carag&amp;action=edit&amp;redlink=1" title="Carag (page does not exist)">carag</a></i> ("gai, răng của đá"); <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Carch&amp;action=edit&amp;redlink=1" title="Carch (page does not exist)">carch</a></i> ("răng, nanh")
+- [Noldorin](../N/Noldorin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Carag&amp;action=edit&amp;redlink=1" title="Carag (page does not exist)">carag</a></i> ("gai, răng đá"); <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Carch&amp;action=edit&amp;redlink=1" title="Carch (page does not exist)">carch</a></i> ("răng, nanh")
 
 <span></span>
 

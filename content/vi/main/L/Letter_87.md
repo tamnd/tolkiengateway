@@ -34,11 +34,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Cùng với lá thư này Tolkien còn gửi thêm hai chương "the Nhẫn" cho Chistopher vì sự khen ngợi và phê bình của anh ta. Vì anh ấy nghĩ gói hàng sẽ không đến vào ngày sinh nhật của mình nên Tolkien cũng đã gửi một bức thư dài trong cùng ngày. Tolkien cho biết anh còn hai chương nữa để viết cho “Cuốn sáchKỷ Đệ Tứ” và sau đó hy vọng sẽ hoàn thành chương “Thứ năm” và cuối cùng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup>
+Cùng với bức thư này, Tolkien còn gửi thêm hai chương của "Chiếc nhẫn" cho Chistopher vì sự khen ngợi và phê bình của ông. Vì nghĩ rằng gói hàng sẽ không đến vào ngày sinh nhật của mình nên Tolkien cũng đã gửi một bức thư dài vào cùng ngày. Tolkien cho biết ông còn hai chương nữa để viết cho “Cuốn sách thứ tư” và sau đó hy vọng sẽ hoàn thành cuốn “Cuốn thứ năm” và cuối cùng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup>
 
-Tolkien trích dẫn từ một lá thư được gửi bởi John Barrow từ Pennsylvania, trong đó cậu bé 12 tuổi nói rằng cậu đã đọc *[The Hobbit](../T/The_Hobbit.md)* lần thứ mười một và nói, "Gee Whiz, tôi rất ngạc nhiên là nó không phổ biến hơn". Anh ấy cũng hỏi tên những cuốn sách Tolkien khác đã viết.
+Tolkien trích dẫn từ một bức thư được gửi bởi John Barrow từ Pennsylvania, trong đó cậu bé 12 tuổi cho biết cậu đã đọc *[The Hobbit](../T/The_Hobbit.md)* lần thứ 11 và nói, "Gee Whiz, tôi rất ngạc nhiên là nó không phổ biến hơn". Ông cũng hỏi tên của bất kỳ cuốn sách nào khác mà Tolkien đã viết.
 
-Tolkien những lá thư như thế này làm anh buồn, nghĩ đến hàng ngàn hạt ngô tốt của con người phải rơi trên mảnh đất cằn cỗi nếu một giọt nước nhỏ bé như vậy mà say đến thế. Tuy nhiên, anh vẫn biết ơn ân sủng và vận may đã được mang lại từ giọt nước này. Anh ấy cũng thêm một ghi chú nói rằng thật vui khi thấy các cậu bé người Mỹ vẫn thực sự nói "Gee Whiz".
+Tolkien cho biết những lá thư như thế này khiến ông buồn bã, nghĩ đến hàng nghìn hạt ngô tốt của con người phải rơi trên mảnh đất cằn cỗi nếu một giọt nước nhỏ bé như vậy mà say đến thế. Tuy nhiên, anh vẫn biết ơn ân sủng và vận may đã được mang lại từ giọt nước này. Ông cũng thêm một ghi chú nói rằng thật vui khi thấy các cậu bé người Mỹ vẫn thực sự nói "Gee Whiz".
 
 ## Ghi chú {#Notes}
 

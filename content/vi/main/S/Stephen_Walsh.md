@@ -24,9 +24,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Stephen Graham Walsh</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
-**Stephen Walsh** là một nghệ sĩ giả tưởng người Anh. Vào những năm 1990, ông được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền sáng tạo nghệ thuật cho [Trung Địa Trò chơi bài sưu tầm](../M/Middle-earth_Collectible_Card_Game.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Stephen Walsh** là một nghệ sĩ giả tưởng người Anh. Vào những năm 1990, ông được [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền sáng tạo nghệ thuật cho [Trò chơi sưu tập thẻ bài ở Trung Địa](../M/Middle-earth_Collectible_Card_Game.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Anh ấy đã minh họa một tác phẩm nghệ thuật thay thế cho *[Magic: The Gathering - The Hobbit](../M/Magic%253A_The_Gathering_-_The_Hobbit.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ông đã minh họa một tác phẩm nghệ thuật thay thế cho *[Magic: The Gathering - The Hobbit](../M/Magic%253A_The_Gathering_-_The_Hobbit.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

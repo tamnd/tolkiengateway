@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pass of Sirion"
 ---
 
-Chuyển hướng đến [Đèo Sirion](../P/Pass_of_Sirion.md).
+Chuyển hướng tới [Pass of Sirion](../P/Pass_of_Sirion.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "University of Oxford"
 ---
 
-Chuyển hướng đến [Đại học Oxford](../U/University_of_Oxford.md).
+Chuyển hướng tới [Đại học Oxford](../U/University_of_Oxford.md).

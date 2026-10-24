@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Arrington, James"
 ---
 
-**James Arrington** là một diễn viên người Mỹ. Trong vở kịch *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1979_radio_series).md>)*của <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Mind%27s_Eye&amp;action=edit&amp;redlink=1" title="The Mind&#39;s Eye (page does not exist)">The Mind's Eye</a>sản xuất năm 1979, ông đã đóng vai [Frodo Baggins](../F/Frodo_Baggins.md) và [Saruman](../S/Saruman.md).
+**James Arrington** là một diễn viên người Mỹ. Trong bộ phim *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1979_radio_series).md>)*của <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Mind%27s_Eye&amp;action=edit&amp;redlink=1" title="The Mind&#39;s Eye (page does not exist)">The Mind's Eye</a>sản xuất năm 1979, anh đóng vai [Frodo Baggins](../F/Frodo_Baggins.md) và [Saruman](../S/Saruman.md).
 
 ## Liên kết ngoài {#External_links}
 

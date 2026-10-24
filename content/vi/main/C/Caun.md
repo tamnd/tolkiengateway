@@ -21,7 +21,7 @@ categories:
 
 ## Xem thêm {#See_also}
 
-- [Fingon](../F/Fingon.md)
+- [Ngón tay](../F/Fingon.md)
 - [Turgon](../T/Turgon.md)
 - [Argonui](../A/Argonui.md) (có thể)
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Condir&amp;action=edit&amp;redlink=1" title="Condir (page does not exist)">condir</a></i>
@@ -40,7 +40,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-- [Gốc](../S/Sundocarme.md): [Common Eldarin](Common_Eldarin.md) [KAN](../K/KAN.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+- [Gốc](../S/Sundocarme.md): [Eldarin thông thường](Common_Eldarin.md) [KAN](../K/KAN.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates_2}
 

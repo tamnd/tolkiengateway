@@ -13,13 +13,13 @@ categories:
   - "Sindarin names"
 ---
 
-<i><b>Aramund</b></i> là một [Sindarin](../S/Sindarin.md) cái tên được cho là có nghĩa là "Bò đực vua".<sup id="cite_ref-L_1-0" class="reference"><a href="#cite_note-L-1">[1]</a></sup>
+<i><b>Aramund</b></i> là tên [Sindarin](../S/Sindarin.md) có nghĩa là "Bò đực vua".<sup id="cite_ref-L_1-0" class="reference"><a href="#cite_note-L-1">[1]</a></sup>
 
-[Helge Fauskanger](../H/Helge_Fauskanger.md) đưa từ này vào danh sách từ [Quenya](../Q/Quenya.md) của anh ấy, nhưng lưu ý rằng dạng "*có thể không thuần túy [Quenya](../Q/Quenya.md), do cụm phụ âm cuối cùng*".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Helge Fauskanger](../H/Helge_Fauskanger.md) đưa từ này vào danh sách từ [Quenya](../Q/Quenya.md) của mình, nhưng lưu ý rằng dạng "*có thể không thuần túy [Quenya](../Q/Quenya.md), do cụm phụ âm cuối cùng*".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Vì phần tử Elvish *[ar(a)](Ar.md)* được cho là có nghĩa là "cao, quý phái, hoàng gia",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và một từ "yêu tinh" cho "con bò đực" được cho là *[mundo](../M/Mundo.md)*,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> nên có khả năng *Aramund* xuất phát từ hai phần tử này (xét theo nghĩa đã cho của nó, "Vua bò").
+Vì yếu tố Tiên *[ar(a)](Ar.md)* được cho là có nghĩa là "cao quý, cao quý, hoàng gia",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và một từ "yêu tinh" cho "con bò đực" được cho là *[mundo](../M/Mundo.md)*,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> nên có khả năng *Aramund* bắt nguồn từ hai yếu tố này (xét theo nghĩa đã cho của nó, "Con bò đực vua").
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien and the Study of His Sources"
 ---
 
-Chuyển hướng đến [Tolkien và Nghiên cứu về Nguồn của Anh ấy](Tolkien_and_the_Study_of_His_Sources.md).
+Chuyển hướng đến [Tolkien và nghiên cứu về nguồn của ông](Tolkien_and_the_Study_of_His_Sources.md).

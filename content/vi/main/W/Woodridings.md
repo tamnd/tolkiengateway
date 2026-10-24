@@ -17,11 +17,11 @@ langlinks:
     url: "https://kontu.wiki/19_Lakeside_Road"
 ---
 
-**Wooridings** hay **19 Đường Lakeside**, là một ngôi nhà gỗ một tầng thuộc sở hữu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó nằm ở Branksome, Poole gần [Bournemouth](../B/Bournemouth.md). Ông và [Edith](../E/Edith_Tolkien.md) chuyển đến đó ở [1968](../_/1968.md) để thoát khỏi sự nổi tiếng của Tolkien ở [Oxford](../O/Oxford.md) sau khi nghỉ hưu, và sống ở đó cho đến khi Edith qua đời vào tháng 11 năm 1971.<sup id="cite_ref-TL838_1-0" class="reference"><a href="#cite_note-TL838-1">[1]</a></sup> Vị giáo sư góa bụa chuyển về Oxford vào tháng 3 năm 1972.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Woodridings** hay **19 Lakeside Road**, là một ngôi nhà gỗ một tầng thuộc sở hữu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó nằm ở Branksome, Poole gần [Bournemouth](../B/Bournemouth.md). Ông và [Edith](../E/Edith_Tolkien.md) chuyển đến đó ở [1968](../_/1968.md) để thoát khỏi sự nổi tiếng của Tolkien ở [Oxford](../O/Oxford.md) sau khi ông nghỉ hưu và sống ở đó cho đến khi Edith qua đời vào tháng 11 năm 1971.<sup id="cite_ref-TL838_1-0" class="reference"><a href="#cite_note-TL838-1">[1]</a></sup> Vị giáo sư góa bụa chuyển về Oxford vào tháng 3 năm 1972.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Ngôi nhà đã được bán một thời gian sau tháng Chín năm 2007 bởi người mua nó từ Tolkien<sup id="cite_ref-TL838_1-1" class="reference"><a href="#cite_note-TL838-1">[1]</a></sup> và sau đó bị phá bỏ để thay thế bằng hai "ngôi nhà đương đại tuyệt vời", đôi khi được đặt tên là "Nhà Luthien" và "Beren Nhà".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Ngôi nhà đã được bán một thời gian sau tháng 9 năm 2007 bởi người mua nó từ Tolkien<sup id="cite_ref-TL838_1-1" class="reference"><a href="#cite_note-TL838-1">[1]</a></sup> và sau đó bị phá bỏ để thay thế bằng hai "ngôi nhà đương đại tuyệt vời", đôi khi được đặt tên là "Nhà Luthien" và "Nhà Beren".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Nhiều "báu vật" thu được từ ngôi nhà của Tolkien đã được trưng bày vào tháng 11 năm 2008.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Nhiều "báu vật" được tìm thấy từ ngôi nhà của Tolkien đã được đưa đi triển lãm vào tháng 11 năm 2008.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

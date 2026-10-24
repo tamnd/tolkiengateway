@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit 1st edition"
 ---
 
-Chuyển hướng tới [The Hobbit ấn bản đầu tiên](The_Hobbit_1st_edition.md).
+Chuyển hướng đến [The Hobbit 1st edition](The_Hobbit_1st_edition.md).

@@ -15,7 +15,7 @@ sort_keys:
 ---
 
 - Một số hình ảnh được người giữ bản quyền tải lên.
-- Việc sử dụng các hình ảnh bên ngoài Tolkien Gateway bị cấm nếu không có sự cho phép của [Abe Papakhian](https://tolkiengateway.net/wiki/Special:Contributions/Roninsnap).
-- Abe Papakhian đã xác nhận lại quyền sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Abe_Papakhian.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Việc sử dụng các hình ảnh bên ngoài Cổng Tolkien bị cấm nếu không có sự cho phép của [Abe Papakhian](https://tolkiengateway.net/wiki/Special:Contributions/Roninsnap).
+- Abe Papakhian đã xác nhận lại quyền sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Abe_Papakhian.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 8 tháng 1 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

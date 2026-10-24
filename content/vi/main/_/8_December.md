@@ -67,11 +67,11 @@ Sự kiện xảy ra vào ngày 8 tháng 12
 ## Trên Trái đất {#On_Earth}
 
 - **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết thư [176](../L/Letter_176.md) và [177](../L/Letter_177.md).
-- **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Anthony Roberts](../L/Letter_to_Anthony_Roberts.md).
+- **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Anthony Roberts](../L/Letter_to_Anthony_Roberts.md).
 - **[1976](1976.md)** - Diễn viên [Dominic Monaghan](../D/Dominic_Monaghan.md) ra đời.
 - **[2014](2014.md)** - *[The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack - Special Edition](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md)* được phát hành.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

@@ -39,31 +39,31 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_76.gif.md"><img src="https://tolkiengateway.net/w/images/0/0c/Mythlore_76.gif" decoding="async" loading="lazy" width="225" height="292" class="mw-file-element" data-file-width="225" data-file-height="292"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 76</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Spring <a href="../_/1994.md" title="1994">1994</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">43</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_75.md" title="Mythlore 75">Mythlore 75</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_77.md" title="Mythlore 77">Mythlore 77</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 76</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol20/iss2/" rel="noreferrer noopener" target="_blank">Tập 20, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 76</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol20/iss2/" rel="noreferrer noopener" target="_blank">Tập 20, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Juhren, Marcella. “Hệ sinh thái của Trung Địa.”
-- Smith, Evans Lansing. "Phương pháp thần thoại của *Descent Into Hell*."
-- Cadden, Michael. "Ảo tưởng về sự kiểm soát: Quyền tự sự trong *Beauty* và *The Blue Sword*của Robin McKinley."
-- Hannay, Margaret. "Thần thoại về *Out of The Silent Planet*."
+- Juhren, Marcella. "The Ecology of Middle Earth."
+- Smith, Evans Lansing. "The Mythical Method of *Descent Into Hell*."
+- Cadden, Michael. "The Illusion of Control: Narrative Authority in Robin McKinley's *Beauty* and *The Blue Sword*."
+- Hannay, Margaret. "The Mythology of *Out of The Silent Planet*."
 - Davis, Marian, O.S.D. "Cuchulainn và phụ nữ: Một góc nhìn của Jung."
-- Grebe, Coralee. "Biểu tượng bài Tarot trong phim *Star Wars*."
+- Grebe, Coralee. "Tarot Card Symbolism in the *Star Wars* Films."
 
 #### Tính năng {#Features}
 
 - Chúc ngủ ngon, Glen. Giới thiệu bài xã luận: Phần tiếp theo: Kỷ yếu của Hội nghị Thế kỷ J.R.R. Tolkien 1992.
-- Christopher, Joe R. và Wayne G. Hammond. Một Inklings Thư mục (52).
+- Christopher, Joe R., and Wayne G. Hammond. An Inklings Bibliography (52).
 - Thư.
 
 #### Đánh giá {#Reviews}
 
 - *Poems by J.R.R. Tolkien.* J.R.R. Tolkien. Được đánh giá bởi Glen GoodKnight.
-Trung Địa của - *Tolkien: Cuốn sách gồm 20 tấm bưu thiếp.* Tác phẩm nghệ thuật của John Howe, Roger Garland, Alan Lee và Ted Nasmith. Được đánh giá bởi Glen GoodKnight.
-- *Tolkien Rồng & Quái vật: Cuốn sách gồm 20 tấm bưu thiếp.* Tác phẩm nghệ thuật của Alan Lee, John Howe, Ted Nasmith, Roger Garland, Inger Edelfeldt và Carol Emery Phenix. Được đánh giá bởi Glen GoodKnight.
-- *Morgoth's Ring: Sau này Silmarillion, Phần một, Huyền thoại về Aman.* J.R.R. Tolkien; Được chỉnh sửa bởi Christopher Tolkien. Được đánh giá bởi Glen GoodKnight.
+- *Trung Địa của Tolkien: Cuốn sách gồm 20 tấm bưu thiếp.* Tác phẩm nghệ thuật của John Howe, Roger Garland, Alan Lee và Ted Nasmith. Được đánh giá bởi Glen GoodKnight.
+- *Những con rồng và quái vật của Tolkien: Cuốn sách gồm 20 tấm bưu thiếp.* Tác phẩm nghệ thuật của Alan Lee, John Howe, Ted Nasmith, Roger Garland, Inger Edelfeldt và Carol Emery Phenix. Được đánh giá bởi Glen GoodKnight.
+- *Chiếc nhẫn của Morgoth: Silmarillion sau này, Phần một, Truyền thuyết về Aman.* J.R.R. Tolkien; Christopher Tolkien biên tập. Được đánh giá bởi Glen GoodKnight.
 - *Các hành tinh đang gặp nguy hiểm: Một nghiên cứu quan trọng về Bộ ba tiền chuộc của C.S. Lewis.* David C. Downing. Được đánh giá bởi Nancy-Lou Patterson.
 - *Poems and Stories.* J.R.R. Tolkien; Minh họa bởi Pauline Baynes. Được đánh giá bởi Glen GoodKnight.
 - *Lấy máu và hòa giải: Mối thù, luật pháp và xã hội ở Saga Iceland.* William Ian Miller. Được đánh giá bởi William H. Stoddard.

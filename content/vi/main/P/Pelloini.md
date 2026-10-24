@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Tên *Pelloini* có trong [Qenya](../Q/Qenya.md), có thể liên quan đến từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pelle&amp;action=edit&amp;redlink=1" title="Pelle (page does not exist)">pelle</a></i> ("thị trấn").<sup id="cite_ref-Pel_1-1" class="reference"><a href="#cite_note-Pel-1">[1]</a></sup> Cả *pelle* và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pelto&amp;action=edit&amp;redlink=1" title="Pelto (page does not exist)">pelto</a></i> ("hàng rào, cánh đồng được rào chắn") đều bắt nguồn từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=PELE&amp;action=edit&amp;redlink=1" title="PELE (page does not exist)">PELE</a> ("hàng rào trong").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên *Pelloini* có trong [Qenya](../Q/Qenya.md), có thể liên quan đến từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pelle&amp;action=edit&amp;redlink=1" title="Pelle (page does not exist)">pelle</a></i> ("thị trấn").<sup id="cite_ref-Pel_1-1" class="reference"><a href="#cite_note-Pel-1">[1]</a></sup> Cả *pelle* và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pelto&amp;action=edit&amp;redlink=1" title="Pelto (page does not exist)">pelto</a></i> ("hàng rào, cánh đồng được bảo vệ") đều có nguồn gốc từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=PELE&amp;action=edit&amp;redlink=1" title="PELE (page does not exist)">PELE</a> ("hàng rào trong").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

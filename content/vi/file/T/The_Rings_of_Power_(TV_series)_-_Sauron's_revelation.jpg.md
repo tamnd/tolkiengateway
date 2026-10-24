@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Halbrand](../../main/H/Halbrand.md) được tiết lộ là [Sauron](../../main/S/Sauron.md) trong tập "[Alloyed](../../main/A/Alloyed.md)" của bộ *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
+[Halbrand](../../main/H/Halbrand.md) được tiết lộ là [Sauron](../../main/S/Sauron.md) trong tập "[Alloyed](../../main/A/Alloyed.md)" của loạt phim *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 
 ## Giấy phép {#Licensing}
 

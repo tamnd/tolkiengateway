@@ -11,4 +11,4 @@ redirect_target: "The Lord of the Rings (disambiguation)"
 redirect_fragment: "Films"
 ---
 
-Chuyển hướng đến [The Lord of the Rings (định hướng)](<The_Lord_of_the_Rings_(disambiguation).md#Films>).
+Chuyển hướng đến [The Lord of the Rings (disambiguation)](<The_Lord_of_the_Rings_(disambiguation).md#Films>).

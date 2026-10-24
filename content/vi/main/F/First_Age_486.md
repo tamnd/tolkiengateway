@@ -16,24 +16,24 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_481.md" title="First Age 481">481</a><a href="First_Age_484.md" title="First Age 484">484</a><a href="First_Age_485.md" title="First Age 485">485</a><a class="mw-selflink selflink">486</a><a href="First_Age_487.md" title="First Age 487">487</a><a href="First_Age_488.md" title="First Age 488">488</a><a href="First_Age_489.md" title="First Age 489">489</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Nhất 486** (viết tắt là **F.A. 486**) là năm [thứ 486 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ nguyên thứ nhất 486** (viết tắt là **F.A. 486**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 486 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Tìm kiếm [Túrin](../T/Túrin.md), [Beleg](../B/Beleg.md) tìm thấy [Gaurwaith](../G/Gaurwaith.md), nhưng vì bạn của anh ta không có ở đó nên họ nhầm [Tiên](../E/Elf.md) là gián điệp và tra tấn anh ta cho đến khi Túrin quay trở lại.
-- Beleg không thể thuyết phục Túrin đi cùng mình, mặc dù anh ta đã được [Thingol](../T/Thingol.md) ân xá. Beleg rời đi để trở về [Doriath](../D/Doriath.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- Số lượng [orc](../O/Orcs.md) ngày càng tăng nhập [Brethil](../B/Brethil.md); [Gaurwaith](../G/Gaurwaith.md) bị buộc phải đi về phía nam dọc theo [Đường Nam cũ](<../O/Old_South_Road_(Beleriand).md>).<sup id="cite_ref-CH_2-0" class="reference"><a href="#cite_note-CH-2">[2]</a></sup>
-- Những kẻ ngoài vòng pháp luật chạm trán với [người lùn nhỏ](../P/Petty-dwarves.md) [Mîm](../M/Mîm.md) người đã đề nghị cho họ ngôi nhà của mình [Amon Rûdh](../A/Amon_Rûdh.md) để đổi lấy mạng sống của mình. Nó được gọi là Bar-en-Danwedh, [Ngôi nhà đòi tiền chuộc](../H/House_of_Ransom.md).<sup id="cite_ref-CH_2-1" class="reference"><a href="#cite_note-CH-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
+- Tìm kiếm [Túrin](../T/Túrin.md), [Beleg](../B/Beleg.md) tìm thấy [Gaurwaith](../G/Gaurwaith.md), nhưng vì bạn của ông ta không có ở đó nên họ nhầm [Yêu tinh](../E/Elf.md) là gián điệp và tra tấn ông ta cho đến khi Túrin quay lại.
+- Beleg không thể thuyết phục Túrin đi cùng mình, mặc dù anh đã được [Thingol](../T/Thingol.md) ân xá. Beleg rời đi để trở về [Doriath](../D/Doriath.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Số lượng [orc](../O/Orcs.md) ngày càng tăng nhập vào [Brethil](../B/Brethil.md); [Gaurwaith](../G/Gaurwaith.md) bị buộc phải đi về phía nam dọc theo [Đường Nam cũ](<../O/Old_South_Road_(Beleriand).md>).<sup id="cite_ref-CH_2-0" class="reference"><a href="#cite_note-CH-2">[2]</a></sup>
+- Những kẻ ngoài vòng pháp luật chạm trán với [người lùn nhỏ](../P/Petty-dwarves.md) [Mîm](../M/Mîm.md), người đã đề nghị cho họ ngôi nhà của mình [Amon Rûdh](../A/Amon_Rûdh.md) để đổi lấy mạng sống của mình. Nó được gọi là Bar-en-Danwedh, [Ngôi nhà đòi tiền chuộc](../H/House_of_Ransom.md).<sup id="cite_ref-CH_2-1" class="reference"><a href="#cite_note-CH-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
 - Cái chết của [Khîm](../K/Khîm.md).<sup id="cite_ref-CH_2-2" class="reference"><a href="#cite_note-CH-2">[2]</a></sup>
 
 ## Mùa đông {#Winter}
 
-- Beleg lại lên đường quay về Túrin.<sup id="cite_ref-CH_2-3" class="reference"><a href="#cite_note-CH-2">[2]</a></sup>
+- Beleg lại lên đường quay trở lại Túrin.<sup id="cite_ref-CH_2-3" class="reference"><a href="#cite_note-CH-2">[2]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Trong <i><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i>, sự kiện này được ghi nhận là đã xảy ra "vào mùa hè thứ hai sau chuyến bay của Túrin từ Doriath", theo Biên niên sử xám là vào năm 484.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Trong <i><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">Những đứa con của Húrin</a></i>, sự kiện này được ghi nhận là đã xảy ra "vào mùa hè thứ hai sau chuyến bay của Túrin từ Doriath", theo Biên niên sử xám là vào năm 484.</span>
 </li>
 </ol></div></span>
 

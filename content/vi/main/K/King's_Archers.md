@@ -17,15 +17,15 @@ langlinks:
     url: "https://kontu.wiki/Kuninkaan_jousimiehet"
 ---
 
-Cung thủ của **Vua** là những cung thủ đáng sợ của quân đội [Númenor](../N/Númenor.md) vào cuối [Kỷ nguyên thứ hai](../S/Second_Age.md).
+**Cung thủ của nhà vua** là những cung thủ đáng sợ của quân đội [Númenor](../N/Númenor.md) vào cuối [Kỷ nguyên thứ hai](../S/Second_Age.md).
 
 ## Lịch sử {#History}
 
-Vào thời điểm [người Númenor](../N/Númenóreans.md) thiết lập các quyền thống trị và thuộc địa trong [Trung Địa](../M/Middle-earth.md), họ mang [cung](../B/Bows.md) được chế tạo từ thép rỗng và những mũi tên lông đen của họ nổi tiếng dài một ell (nghĩa là 1,143 m, hay gần bốn feet).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Có khả năng là các Cung thủ của Vua đã bỏ mạng trong [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md).
+At the time when the [Númenóreans](../N/Númenóreans.md) carved out dominions and colonies within [Middle-earth](../M/Middle-earth.md), they bore [bows](../B/Bows.md) crafted from hollow steel and their black-feathered arrows were famously one ell long (that is, 1.143 m, or nearly four feet).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It is likely that the King's Archers perished during the [Downfall of Númenor](../D/Downfall_of_Númenor.md).
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a>:</i></b><i></i>
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">Chúa tể của những chiếc nhẫn: Những chiếc nhẫn quyền lực</a>:</i></b><i></i>
 
 <dl><dd><b>9 September: <i><a href="../U/Udûn_(episode).md" title="Udûn (episode)">Udûn</a></i>:</b>
 <dl><dd>While the army itself is not named, the concept may have served as a possible inspiration for the <b>Queen&#39;s Guard</b>, which appear at <a href="../T/Tirharad.md" title="Tirharad">Tirharad</a> overlooking the battle as the personal guard of <a href="../M/Míriel.md" title="Míriel">Queen Regent Míriel</a>. Some of the <a href="../M/Men.md" title="Men">Men</a> of the Queen&#39;s Guard possess bows, though it is hard to tell what color they are or the length of the arrows.</dd></dl></dd></dl>

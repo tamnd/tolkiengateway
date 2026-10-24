@@ -38,8 +38,8 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-Nhiệm vụ của **Pippin** là cảnh thứ mười hai của *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* và cảnh thứ mười bảy của [*The Lord of the Rings: The Return of the King* (phiên bản mở rộng)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>).
+**Nhiệm vụ của Pippin** là cảnh thứ mười hai của *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* và cảnh thứ mười bảy của [*The Lord of the Rings: The Return of the King* (extended edition)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>).
 
 ### Tóm tắt {#Synopsis}
 
-[Pippin](Peregrin_Took.md) được [Gandalf](../G/Gandalf.md) giao nhiệm vụ thắp sáng đèn hiệu của [Minas Tirith](../M/Minas_Tirith.md) sau khi [Denethor](../D/Denethor.md) bác bỏ lời khuyên của Gandalf để làm như vậy.
+[Pippin](Peregrin_Took.md) được [Gandalf](../G/Gandalf.md) giao nhiệm vụ thắp sáng đèn hiệu của [Minas Tirith](../M/Minas_Tirith.md) sau khi [Denethor](../D/Denethor.md) bác bỏ lời khuyên của Gandalf về việc làm như vậy.

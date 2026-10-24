@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"đột nhiên [anh ấy](../../main/B/Bilbo_Baggins.md) nhìn thấy [Goblin](../../main/O/Orcs.md)...mặc đầy đủ áo giáp..." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"đột nhiên [ông](../../main/B/Bilbo_Baggins.md) nhìn thấy [Goblin](../../main/O/Orcs.md)...mặc đầy đủ áo giáp..." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

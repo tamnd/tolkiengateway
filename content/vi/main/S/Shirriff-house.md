@@ -22,7 +22,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_Homeward_Bound_(Limited).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3d/Alan_Lee_-_Homeward_Bound_%28Limited%29.jpg/250px-Alan_Lee_-_Homeward_Bound_%28Limited%29.jpg" decoding="async" loading="lazy" width="250" height="396" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3d/Alan_Lee_-_Homeward_Bound_%28Limited%29.jpg/375px-Alan_Lee_-_Homeward_Bound_%28Limited%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3d/Alan_Lee_-_Homeward_Bound_%28Limited%29.jpg/500px-Alan_Lee_-_Homeward_Bound_%28Limited%29.jpg 2x" data-file-width="590" data-file-height="934"/></a><figcaption><i>Homeward Bound</i> by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
 
-**Nhà của Cảnh sát trưởng** là tòa nhà thô sơ được [Cảnh sát trưởng](Shirriffs.md) sử dụng sau khi [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md) nắm quyền kiểm soát [ Shire](../T/The_Shire.md) và mở rộng [Watch](../W/Watch.md).
+**Nhà Cảnh sát trưởng** là tòa nhà thô sơ được [Cảnh sát trưởng](Shirriffs.md) sử dụng sau khi [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md) nắm quyền kiểm soát [Quận](../T/The_Shire.md) và mở rộng [Watch](../W/Watch.md).
 
 Ở đầu phía tây của [Frogmorton](../F/Frogmorton.md) là một tòa nhà gạch một tầng được xây dựng tồi tàn với những cửa sổ hẹp, được dùng làm doanh trại của [Đội quân Eastfarthing đầu tiên](../F/First_Eastfarthing_Troop.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

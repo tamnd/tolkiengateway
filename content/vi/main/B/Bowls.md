@@ -12,7 +12,7 @@ categories:
   - "Activities"
 ---
 
-**Bowls**, hiện được gọi là bowling trên bãi cỏ, được chơi trên bãi cỏ với những quả bóng gỗ. Mục tiêu của người chơi là đưa bóng đến gần một điểm nhất định.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Bilbo Baggins](Bilbo_Baggins.md) đã chơi tốt trò chơi này.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+**Bowls**, hiện được gọi là bowling trên bãi cỏ, được chơi trên bãi cỏ với những quả bóng gỗ. Mục tiêu của người chơi là đưa bóng đến gần một điểm nhất định.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Bilbo Baggins](Bilbo_Baggins.md) đã chơi rất tốt trò chơi này.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

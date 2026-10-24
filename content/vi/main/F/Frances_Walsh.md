@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fran Walsh"
 ---
 
-Chuyển hướng đến [Fran Walsh](Fran_Walsh.md).
+Chuyển hướng tới [Fran Walsh](Fran_Walsh.md).

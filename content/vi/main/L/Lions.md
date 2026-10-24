@@ -20,17 +20,17 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Ron_Chironna_-_An_Untimely_Brood.jpg.md"><img src="https://tolkiengateway.net/w/images/9/9f/Ron_Chironna_-_An_Untimely_Brood.jpg" decoding="async" loading="lazy" width="298" height="254" class="mw-file-element" data-file-width="298" data-file-height="254"/></a><figcaption>Snow lions and <a href="../R/Radagast.md" title="Radagast">Radagast</a> portrayed in <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">MECCG</a></i></figcaption></figure>
 
-**Sư tử** là <a class="extiw" href="http://en.wikipedia.org/wiki/Felidae" title="wikipedia:Felidae">sinh vật mèo</a> chỉ được nhắc đến trong [Hobbit](../H/Hobbits.md) thơ ca và [Elvish](../E/Elves.md) tác phẩm ngôn ngữ.<sup id="cite_ref-ATB12_1-0" class="reference"><a href="#cite_note-ATB12-1">[1]</a></sup><sup id="cite_ref-LR_2-0" class="reference"><a href="#cite_note-LR-2">[2]</a></sup> Rõ ràng sư tử đã đi lang thang trên vùng đất của phương Đông (có lẽ ám chỉ đến những vùng đất bên ngoài [Rhûn](../R/Rhûn.md), [Cực Đông](../U/Uttermost_East.md)), săn lùng "thú vật và những người đàn ông dịu dàng".<sup id="cite_ref-ATB12_1-1" class="reference"><a href="#cite_note-ATB12-1">[1]</a></sup>
+**Sư tử** là <a class="extiw" href="http://en.wikipedia.org/wiki/Felidae" title="wikipedia:Felidae">sinh vật mèo</a> chỉ được nhắc đến trong thơ [Hobbit](../H/Hobbits.md) và [các tác phẩm ngôn ngữ của người Elvish](../E/Elves.md).<sup id="cite_ref-ATB12_1-0" class="reference"><a href="#cite_note-ATB12-1">[1]</a></sup><sup id="cite_ref-LR_2-0" class="reference"><a href="#cite_note-LR-2">[2]</a></sup> Rõ ràng là sư tử đã đi lang thang trên các vùng đất phía Đông (có lẽ đề cập đến các vùng đất bên ngoài [Rhûn](../R/Rhûn.md), [Cực Đông](../U/Uttermost_East.md)), săn bắn "thú vật và đàn ông dịu dàng".<sup id="cite_ref-ATB12_1-1" class="reference"><a href="#cite_note-ATB12-1">[1]</a></sup>
 
 ## Tên khác {#Other_names}
 
-Trong [Quenya](../Q/Quenya.md), tên của "sư tử" là *rá* (pl. *rávi*). Tên [Noldorin](../N/Noldorin.md) là *rhaw* (vui lòng *rhui*).<sup id="cite_ref-LR_2-1" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
+Trong [Quenya](../Q/Quenya.md), tên của "sư tử" là *rá* (pl. *rávi*). Tên [Noldorin](../N/Noldorin.md) là *rhaw* (pl. *rhui*).<sup id="cite_ref-LR_2-1" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
 
-Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md)về ngôn ngữ [Tiên](../E/Elvish.md), từ "sư tử" là *rau*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md) về ngôn ngữ [Yêu tinh](../E/Elvish.md), từ "sư tử" là *rau*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
 
 <dl><dd>Races of lions include Cliff Lions (of southwestern Middle-earth), Mountain lions (of Rhovanion), Snow Lions (of the Grey Mountains), and the Spotted Lions (of Cardolan).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 

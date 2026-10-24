@@ -50,7 +50,7 @@ sort_keys:
 <li><a class="mw-selflink selflink">Dreaming of Bag End</a></li></ol>
 </td></tr></tbody></table>
 
-**Mơ về Bag End** là ca khúc thứ mười ba của đĩa hai của *[The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack](../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.md)* và [nhạc phim phiên bản đặc biệt](../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md), của [Howard Shore](../H/Howard_Shore.md).
+**Dreaming of Bag End** là ca khúc thứ mười ba của đĩa hai của *[The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack](../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.md)* và [nhạc phim phiên bản đặc biệt](../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md), của [Howard Shore](../H/Howard_Shore.md).
 
 ## Xem thêm {#See_also}
 

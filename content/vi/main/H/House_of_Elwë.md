@@ -53,11 +53,11 @@ infobox:
 
 ### Nguồn gốc {#Origins}
 
-Dòng dõi cổ xưa được bắt đầu bởi **Elwë** Singollo (còn được gọi là [Elu Thingol](../T/Thingol.md)) trong [Y.T. 1152](../Y/Year_of_the_Trees_1152.md), khi tỉnh dậy sau cơn xuất thần, anh xuất hiện trước người dân của mình ( [Sindar](../S/Sindar.md)) với [Melian](../M/Melian.md) và tập hợp họ lại với nhau để tạo thành [Doriath](../D/Doriath.md), vương quốc rừng hùng mạnh ở [Beleriand](../B/Beleriand.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Dòng dõi cổ xưa được bắt đầu bởi **Elwë** Singollo (còn được gọi là [Elu Thingol](../T/Thingol.md)) trong [Y.T. 1152](../Y/Year_of_the_Trees_1152.md), khi tỉnh dậy từ trạng thái xuất thần, anh xuất hiện trước người dân của mình ( [Sindar](../S/Sindar.md)) cùng với [Melian](../M/Melian.md) và tập hợp họ lại với nhau để tạo thành [Doriath](../D/Doriath.md), vương quốc rừng hùng mạnh ở [Beleriand](../B/Beleriand.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ### Cái chết của Thingol {#Death_of_Thingol}
 
-Thingol, sau khi được [Húrin](Húrin.md) tặng chiếc vòng cổ vàng ([Nauglamír](../N/Nauglamír.md)), đã thuê những thợ rèn người lùn lành nghề [Nogrod](../N/Nogrod.md) để khôi phục chiếc vòng cổ về vẻ đẹp lộng lẫy trước đây của nó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nhưng [Người Lùn](../D/Dwarves.md), say mê kho báu xinh đẹp và [Silmaril](../S/Silmarils.md) chứa trong đó, đã tìm cách chiếm lấy nó cho riêng mình. Sau khi hoàn thành công việc, họ từ chối giao Nauglamír với lý do anh ta không có quyền đối với tay nghề thủ công của người lùn. Thingol, nhận thấy rằng họ muốn có Silmaril, đã yêu cầu họ rời khỏi đất của anh ta mà không trả tiền. Nhưng những người thợ rèn đã giết chết anh ta, lấy đi viên ngọc quý và bỏ trốn về phía núi.
+Thingol, after being given the golden necklace ([Nauglamír](../N/Nauglamír.md)) by [Húrin](Húrin.md), employed skilled dwarven smiths of [Nogrod](../N/Nogrod.md) to restore the necklace to its former magnificence.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> But the [Dwarves](../D/Dwarves.md), being enamoured of the beautiful treasure and the [Silmaril](../S/Silmarils.md) it contained, sought to have it to themselves. After completing their work they refused to hand Nauglamír over, claiming he had no right to the craftsmanship of the dwarves. Thingol, perceiving that they wanted the Silmaril, bade them leave his land without payment. But the smiths slew him, took the mighty jewel, and fled towards the mountains.
 
 ## Phả hệ {#Genealogy}
 

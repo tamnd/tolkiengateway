@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Alan Lee - Shelob's Lair.jpg"
 ---
 
-Chuyển hướng tới [Tệp:Alan Lee - Hang ổ của Shelob.jpg](Alan_Lee_-_Shelob's_Lair.jpg.md).
+Chuyển hướng đến [Tệp:Alan Lee - Hang ổ của Shelob.jpg](Alan_Lee_-_Shelob's_Lair.jpg.md).

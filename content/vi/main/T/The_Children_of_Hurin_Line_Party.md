@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Children of Húrin Line Party"
 ---
 
-Chuyển hướng tới [The Children of Húrin Line Party](The_Children_of_Húrin_Line_Party.md).
+Chuyển hướng đến [The Children of Húrin Line Party](The_Children_of_Húrin_Line_Party.md).

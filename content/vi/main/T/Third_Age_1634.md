@@ -21,12 +21,12 @@ langlinks:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1630.md" title="Third Age 1630">1630</a><a href="Third_Age_1632.md" title="Third Age 1632">1632</a><a href="Third_Age_1633.md" title="Third Age 1633">1633</a><a class="mw-selflink selflink">1634</a><a href="Third_Age_1635.md" title="Third Age 1635">1635</a><a href="Third_Age_1636.md" title="Third Age 1636">1636</a><a href="Third_Age_1637.md" title="Third Age 1637">1637</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 1634** (viết tắt là **T.A. 1634**) là năm [thứ 1634 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 1634 còn được gọi là **S.R. 34** trong [lịch Shire](../S/Shire-reckoning.md).
+**Thời đại thứ ba 1634** (viết tắt là **T.A. 1634**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1634 của [Thời đại thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba năm 1634 còn được gọi là **S.R. 34** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Corsairs](../C/Corsairs.md) tàn phá [Pelargir](../P/Pelargir.md) và tiêu diệt Vua [Minardil](../M/Minardil.md).<sup id="cite_ref-AppB2_1-0" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
-- [Telemnar](Telemnar.md) trở thành [Vua](../K/Kings_of_Gondor.md) trong số [Gondor](../G/Gondor.md).<sup id="cite_ref-South_2-0" class="reference"><a href="#cite_note-South-2">[2]</a></sup>
+- [Corsairs](../C/Corsairs.md) tàn phá [Pelargir](../P/Pelargir.md) và giết chết Vua [Minardil](../M/Minardil.md).<sup id="cite_ref-AppB2_1-0" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
+- [Telemnar](Telemnar.md) trở thành [Vua](../K/Kings_of_Gondor.md) của [Gondor](../G/Gondor.md).<sup id="cite_ref-South_2-0" class="reference"><a href="#cite_note-South-2">[2]</a></sup>
 
 <span></span>
 

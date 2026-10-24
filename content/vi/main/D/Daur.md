@@ -41,9 +41,9 @@ Từ này cũng đề cập đến thước đo tuyến tính [Númenórean](../
 
 Từ Sindarin <i><b>Daur</b></i> xuất hiện trong [bài ca ngợi](../L/Long_live_the_Halflings!_Praise_them_with_great_praise!.md) của [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) tại [Cánh đồng Cormallen](../F/Field_of_Cormallen.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Có ý kiến ​​cho rằng *daur* là dạng [được khoan dung](../L/Lenition.md) của *[taur](../T/Taur.md#Noldorin)* ("cao cả, cao quý" hoặc "vua"),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> tuy nhiên độ tin cậy của suy đoán này đã bị tranh cãi vì cú pháp của cụm từ này dường như không yêu cầu sự khoan dung.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Có ý kiến ​​cho rằng *daur* là dạng [được khoan dung](../L/Lenition.md) của *[taur](../T/Taur.md#Noldorin)* ("cao cả, cao quý" hoặc "vua"),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> tuy nhiên độ tin cậy của suy đoán này đã bị tranh cãi vì cú pháp của cụm từ này dường như không yêu cầu sự khoan hồng.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Khi phân tích bài hát ca ngợi, Tolkien bắt nguồn từ *Daur* từ *dāra* "khôn ngoan" với dạng [Quenya](../Q/Quenya.md) *tāra*. Phiên bản này thay thế phiên bản cũ hơn từ *ndāra* bằng [Quenya](../Q/Quenya.md) *nāra*. Ông cũng đặt câu hỏi về khả năng *daur* đến từ sự khoan dung của căn cứ *t*.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Khi phân tích bài ca ngợi, Tolkien bắt nguồn từ *Daur* từ *dāra* "khôn ngoan" với dạng [Quenya](../Q/Quenya.md) *tāra*. Phiên bản này thay thế phiên bản cũ hơn từ *ndāra* bằng [Quenya](../Q/Quenya.md) *nāra*. Ông cũng đặt câu hỏi về khả năng *daur* đến từ sự khoan dung của căn cứ *t*.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 <span></span>
 

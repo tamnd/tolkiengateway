@@ -12,11 +12,11 @@ categories:
   - "Roots"
 ---
 
-**WOR** là một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) biểu thị "thể hiện, khiến toát ra (bởi áp lực)" và là một thành phần trong từ *[miruvor](../M/Miruvor.md)*.<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**WOR** là một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) biểu thị "thể hiện, khiến tỏa ra (bằng áp lực)" và là một thành phần trong từ *[miruvor](../M/Miruvor.md)*.<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Lưu ý rằng gốc dường như đã bị từ chối bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), người đã viết rằng "đây là <a class="extiw" href="http://en.wikipedia.org/wiki/false_etymology" title="wikipedia:false etymology">từ nguyên sai</a> \[...\] thực tế không có bất kỳ từ nào *wor-* trong Elvish, [Quenya](../Q/Quenya.md) hoặc [Sindarin](../S/Sindarin.md)."<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup> Người ta có thể diễn giải ghi chú của Tolkien theo nhiều cách:
+Lưu ý rằng phần gốc dường như đã bị từ chối bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), người đã viết rằng "đây là <a class="extiw" href="http://en.wikipedia.org/wiki/false_etymology" title="wikipedia:false etymology">từ nguyên sai</a> \[...\] thực tế không có bất kỳ từ nào *wor-* trong tiếng Elvish, [Quenya](../Q/Quenya.md) hoặc [Sindarin](../S/Sindarin.md)."<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup> Người ta có thể diễn giải ghi chú của Tolkien theo nhiều cách:
 
-- Người Tiên tộc đã nghĩ sai rằng các phần tử sau của *[miruvórë/miruvor](../M/Miruvor.md)* bắt nguồn từ một WOR gốc được cho là.
+- Người Yêu tinh đã nghĩ sai rằng các phần tử sau của *[miruvórë/miruvor](../M/Miruvor.md)* bắt nguồn từ một WOR gốc được cho là.
 - Tolkien đã loại bỏ hoàn toàn WOR gốc (và mối quan hệ của nó với *miruvórë/miruvor*) khỏi [huyền thoại](../L/Legendarium.md) .
 
 <span></span>

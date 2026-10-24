@@ -12,9 +12,9 @@ categories:
   - "Moria"
 ---
 
-**Cấp thứ bảy** của [Moria](../M/Moria.md) hoặc [Khazad-dûm](../M/Moria.md) là cấp các phòng, hành lang và phòng, cao hơn sáu cấp so với [Cổng Lớn](../G/Great_Gates.md).<sup id="cite_ref-Bridge_1-0" class="reference"><a href="#cite_note-Bridge-1">[1]</a></sup> Thuật ngữ *level* hoặc *levels* trong vương quốc [Người lùn](../D/Dwarves.md) cổ đại thường chỉ khu vực phía đông của Moria, gần cổng phía đông nhất, nơi có đông dân cư nhất khi Khazad-dûm còn là một thành phố hùng mạnh của Người Lùn.
+**Tầng thứ bảy** của [Moria](../M/Moria.md) hoặc [Khazad-dûm](../M/Moria.md) là một tầng gồm các phòng, hành lang và phòng, cao hơn sáu tầng so với [Cổng lớn](../G/Great_Gates.md).<sup id="cite_ref-Bridge_1-0" class="reference"><a href="#cite_note-Bridge-1">[1]</a></sup> Thuật ngữ *level* hoặc *levels* ở vương quốc [Người lùn](../D/Dwarves.md) cổ đại thường chỉ khu vực phía đông của Moria, gần cổng phía đông nhất đông dân nhất khi Khazad-dûm còn là thành phố hùng mạnh của Người lùn.
 
-[Phòng Mazarbul](../C/Chamber_of_Mazarbul.md) được đặt ở Tầng thứ bảy của Moria.<sup id="cite_ref-Bridge_1-1" class="reference"><a href="#cite_note-Bridge-1">[1]</a></sup> <span></span>
+[Phòng Mazarbul](../C/Chamber_of_Mazarbul.md) nằm ở Tầng thứ bảy của Moria.<sup id="cite_ref-Bridge_1-1" class="reference"><a href="#cite_note-Bridge-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

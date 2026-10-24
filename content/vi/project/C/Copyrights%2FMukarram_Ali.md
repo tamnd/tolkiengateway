@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Ali, Mukarram"
 ---
 
-- Mukarram Ali đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Mukarram_Ali.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Mukarram Ali đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Mukarram_Ali.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 31 tháng 7 năm 2023
 - Người dùng đã xin phép qua email: [Ar-Zigûr](https://tolkiengateway.net/wiki/User:Ar-Zig%C3%BBr)

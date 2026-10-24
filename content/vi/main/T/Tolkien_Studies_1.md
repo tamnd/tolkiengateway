@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Studies: Volume 1"
 ---
 
-Chuyển hướng tới [Tolkien Nghiên cứu: Tập 1](Tolkien_Studies%253A_Volume_1.md).
+Chuyển hướng đến [Tolkien Studies: Volume 1](Tolkien_Studies%253A_Volume_1.md).

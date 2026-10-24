@@ -127,8 +127,8 @@ sort_keys:
 - Việc [chia sẻ trách nhiệm](../P/Projects.md) đã được thảo luận, với các dự án mới được tạo ra và người dùng tình nguyện trở thành người giám sát các dự án này.
 - [Cổng cộng đồng](../C/Community_Portal.md) hiện bao gồm mọi thứ nó yêu cầu, mặc dù nó sẽ cần thay đổi khi trang web phát triển.
 - Liên quan đến những tiết lộ nội dung và tin đồn về [chuyển thể](<../../main/T/The_Hobbit_(film_series).md>) sắp tới của Guillermo del Toro, chúng tôi đã quyết định nên tạo ra một phần tin đồn và nêu rõ rằng đó là thông tin chưa được xác nhận. Về hình ảnh, có ý kiến ​​​​cho rằng chỉ nên thêm những bức ảnh có chất lượng tốt vào phần tin đồn; tuy nhiên cuộc thảo luận này sẽ tiếp tục vào tuần tới.
-- Các bài viết nên được phân loại cụ thể hơn, đặc biệt là các Tolkien Gateway [các bài viết trong không gian tên](../../category/T/Tolkien_Gateway.md).
-- [Quidon88](https://tolkiengateway.net/wiki/User:Quidon88) đã tình nguyện ghi âm thêm cách phát âm cho tiêu đề các bài viết; tất cả các cách phát âm hiện tại và tương lai sẽ sớm sử dụng trình phát âm thanh mới. Quidon88 sẽ đăng chúng lên trang thành viên của mình trước khi đưa vào bài viết để người khác có thể kiểm tra. Việc mời các diễn viên như Christopher Lee cũng được khuyến khích đọc cách phát âm của chúng tôi! – Hay đúng hơn là chép lời từ bản thu âm The Children of Húrin của anh ấy.
+- Các bài viết nên được phân loại cụ thể hơn, đặc biệt là [bài viết về không gian tên](../../category/T/Tolkien_Gateway.md) của Tolkien Gateway.
+- [Quidon88](https://tolkiengateway.net/wiki/User:Quidon88) đã tình nguyện ghi âm thêm cách phát âm cho tiêu đề các bài báo; tất cả các cách phát âm hiện tại và tương lai sẽ sớm sử dụng trình phát âm thanh mới. Quidon88 sẽ đăng chúng lên trang thành viên của mình trước khi đưa vào bài viết để người khác có thể kiểm tra. Việc mời những diễn viên như Christopher Lee cũng được khuyến khích đọc cách phát âm của chúng tôi! – Hoặc nhiều khả năng là sao chép lời từ bản thu âm The Children of Húrin của ông.
 
 ## Liên kết {#Links}
 

@@ -13,6 +13,6 @@ categories:
   - "Khuzdul words"
 ---
 
-**zigil** là một từ trong [Khuzdul](../K/Khuzdul.md), xuất hiện như một phần tử trong *Zirakzigil*, tên [Người Lùn](../D/Dwarves.md)' của ngọn núi được gọi là *[Celebdil](../C/Celebdil.md)* hoặc *Silvertine* bởi các chủng tộc khác, và trong *Zigil-nâd*, một tên [Người lùn](../D/Dwarvish.md) bị từ chối cho *[Kibil-nâla](../K/Kibil-nâla.md)*, dòng sông được biết đến với [Tiên tộc](../E/Elves.md) là *[Celebrant](../C/Celebrant.md)* và [Con Người](../M/Men.md) dưới dạng *Silverlode*.
+**zigil** is a word in [Khuzdul](../K/Khuzdul.md), occurring as an element in *Zirakzigil*, the [Dwarves](../D/Dwarves.md)' name for the mountain called *[Celebdil](../C/Celebdil.md)* or *Silvertine* by other races, and in *Zigil-nâd*, a rejected [Dwarvish](../D/Dwarvish.md) name for *[Kibil-nâla](../K/Kibil-nâla.md)*, the river known to the [Elves](../E/Elves.md) as *[Celebrant](../C/Celebrant.md)* and to [Men](../M/Men.md) as the *Silverlode*.
 
 <i><b>Zigil</b></i> do đó rõ ràng có nghĩa là 'bạc'.

@@ -15,12 +15,12 @@ categories:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Trees</div><div class="tg-timelinenav-links"><a href="Year_of_the_Trees_1190.md" title="Year of the Trees 1190">1190</a><a href="Year_of_the_Trees_1200.md" title="Year of the Trees 1200">1200</a><a href="Year_of_the_Trees_1230.md" title="Year of the Trees 1230">1230</a><a class="mw-selflink selflink">1250</a><a href="Year_of_the_Trees_1260.md" title="Year of the Trees 1260">1260</a><a href="Year_of_the_Trees_1280.md" title="Year of the Trees 1280">1280</a><a href="Year_of_the_Trees_1300.md" title="Year of the Trees 1300">1300</a></div></div></div></div></div></div>
 
-**Năm Cây 1250** (viết tắt là **Y.T. 1250**) là [năm Cây](Years_of_the_Trees.md) thứ 1250 trong [Kỷ Đệ Nhất](../F/First_Age.md) của [Arda](../A/Arda.md). Năm Cây 1250 cũng là **V.Y. 4750** vào [Năm Valian](../V/Valian_Years.md).
+**Năm Cây 1250** (viết tắt là **Y.T. 1250**) là [năm Cây](Years_of_the_Trees.md) thứ 1250 trong [Kỷ nguyên thứ nhất](../F/First_Age.md) của [Arda](../A/Arda.md). Năm Cây 1250 cũng là **V.Y. 4750** trong [Năm Valian](../V/Valian_Years.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Fëanor](../F/Fëanor.md) tạo [Tengwar](../T/Tengwar.md). Anh bắt đầu nghiên cứu nghề chế tác đá quý.<sup id="cite_ref-AA_1-0" class="reference"><a href="#cite_note-AA-1">[1]</a></sup>
-- [Người Lùn](../D/Dwarves.md) nhập [Beleriand](../B/Beleriand.md) và gặp [Sindar](../S/Sindar.md). Hai dân tộc kết bạn với nhau.<sup id="cite_ref-AA_1-1" class="reference"><a href="#cite_note-AA-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Fëanor](../F/Fëanor.md) tạo ra [Tengwar](../T/Tengwar.md). Anh bắt đầu nghiên cứu nghề chế tác đá quý.<sup id="cite_ref-AA_1-0" class="reference"><a href="#cite_note-AA-1">[1]</a></sup>
+- [Người lùn](../D/Dwarves.md) tiến vào [Beleriand](../B/Beleriand.md) và gặp [Sindar](../S/Sindar.md). Hai dân tộc kết bạn với nhau.<sup id="cite_ref-AA_1-1" class="reference"><a href="#cite_note-AA-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

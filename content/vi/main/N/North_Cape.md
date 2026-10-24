@@ -22,7 +22,7 @@ langlinks:
     url: "https://kontu.wiki/Pohjoisnokka"
 ---
 
-**Mũi Bắc** là mũi đất phía bắc của đảo [Númenor](Númenor.md), một phần của cảnh quan hiểm trở gồm nhiều đá và vách đá trong khu vực được gọi là [Forostar](../F/Forostar.md) hay Northlands.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Mũi phía Bắc** là mũi đất phía bắc của đảo [Númenor](Númenor.md), một phần của cảnh quan hiểm trở gồm nhiều đá và vách đá trong khu vực được gọi là [Forostar](../F/Forostar.md) hay Northlands.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

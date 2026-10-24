@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings Strategy Battle Game: Rulebook"
 ---
 
-Chuyển hướng tới [The Lord of the Rings Trò chơi chiến đấu chiến lược: Sách quy tắc](../T/The_Lord_of_the_Rings_Strategy_Battle_Game%253A_Rulebook.md).
+Chuyển hướng đến [The Lord of the Rings Strategy Battle Game: Rulebook](../T/The_Lord_of_the_Rings_Strategy_Battle_Game%253A_Rulebook.md).

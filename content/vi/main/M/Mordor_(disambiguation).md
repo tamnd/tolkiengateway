@@ -14,11 +14,11 @@ images:
   - "Disambig.png"
 ---
 
-**Mordor** có thể tham khảo:
+**Mordor** có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-- **[Mordor](Mordor.md)**, vương quốc của [Sauron](../S/Sauron.md) trong [Trung Địa](Middle-earth.md).
+- **[Mordor](Mordor.md)**, vương quốc của [Sauron](../S/Sauron.md) ở [Trung Địa](Middle-earth.md).
 
 ## Các bản chuyển thể {#Adaptations}
 

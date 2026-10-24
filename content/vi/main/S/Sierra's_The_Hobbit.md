@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit (2003 video game)"
 ---
 
-Chuyển hướng tới [The Hobbit (trò chơi điện tử năm 2003)](<../T/The_Hobbit_(2003_video_game).md>).
+Chuyển hướng đến [The Hobbit (2003 video game)](<../T/The_Hobbit_(2003_video_game).md>).

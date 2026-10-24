@@ -30,15 +30,15 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Wellinghall.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9a/Ted_Nasmith_-_Wellinghall.jpg/250px-Ted_Nasmith_-_Wellinghall.jpg" decoding="async" loading="lazy" width="250" height="162" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9a/Ted_Nasmith_-_Wellinghall.jpg/375px-Ted_Nasmith_-_Wellinghall.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9a/Ted_Nasmith_-_Wellinghall.jpg/500px-Ted_Nasmith_-_Wellinghall.jpg 2x" data-file-width="530" data-file-height="343"/></a><figcaption><a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a> - <i>Wellinghall</i></figcaption></figure>
 
-**Wellinghall** là một trong những [Ent-houses](../E/Ent-houses.md) của [Treebeard](../T/Treebeard.md), được hình thành bởi một không gian hẹp ở hai bên sườn của [Methedras](../M/Methedras.md), được bảo vệ và bao bọc bởi những cây thường xanh. 'Đại sảnh' không mái kết thúc bằng một bức tường đá thẳng đứng, phía dưới có dòng suối chảy - do đó có tên là 'Wellinghall' - từ các suối của Sông [Entwash](../E/Entwash.md). Dòng suối chảy xuống vách đá, đổ ngang qua lối vào hình vòm dẫn vào một sảnh bên trong, nơi [Treebeard](../T/Treebeard.md) cất giữ những món đồ đạc ít ỏi của anh. Từ đó, nó chảy giữa những hàng cây xếp dọc không gian chính và lại hòa vào dòng chảy chính của Entwash.
+**Wellinghall** là một trong những [Ent-houses](../E/Ent-houses.md) của [Treebeard](../T/Treebeard.md), được hình thành bởi một không gian hẹp ở hai bên sườn của [Methedras](../M/Methedras.md), được bảo vệ và bao quanh bởi những cây thường xanh. 'Đại sảnh' không mái kết thúc bằng một bức tường đá thẳng đứng, phía dưới có dòng suối chảy - do đó có tên là 'Wellinghall' - từ các suối của Sông [Entwash](../E/Entwash.md). Dòng suối chảy xuống vách đá và đổ ngang qua lối vào hình vòm dẫn vào đại sảnh bên trong, nơi [Treebeard](../T/Treebeard.md) cất giữ những món đồ đạc ít ỏi của mình. Từ đó, nó chảy giữa những hàng cây dọc không gian chính và lại hòa vào dòng chính của Entwash.
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Cor_Blok_-_At_the_Enthouse.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a3/Cor_Blok_-_At_the_Enthouse.jpg/250px-Cor_Blok_-_At_the_Enthouse.jpg" decoding="async" loading="lazy" width="250" height="171" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a3/Cor_Blok_-_At_the_Enthouse.jpg/375px-Cor_Blok_-_At_the_Enthouse.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a3/Cor_Blok_-_At_the_Enthouse.jpg/500px-Cor_Blok_-_At_the_Enthouse.jpg 2x" data-file-width="1600" data-file-height="1097"/></a><figcaption>&#34;At the Enthouse&#34; by <a href="../C/Cor_Blok.md" title="Cor Blok">Cor Blok</a></figcaption></figure>
 
-Wellinghall được biết đến nhiều nhất là nơi [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) ở lại cùng Treebeard vào đêm trước [Entmoot](../E/Entmoot.md), vào [29 tháng 2](../_/29_February.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Chính tại đây, họ lần đầu tiên được Treebeard tặng [bản nháp](../E/Ent-draughts.md) và do đó đã trở thành hai người cao nhất [Hobbit](../H/Hobbits.md) được ghi vào lịch sử của [ Shire](../T/The_Shire.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Wellinghall được biết đến nhiều nhất là nơi [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) ở lại với Treebeard vào đêm trước [Entmoot](../E/Entmoot.md), vào [29 tháng 2](../_/29_February.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Chính tại đây, họ lần đầu tiên được Treebeard đưa [bản nháp](../E/Ent-draughts.md) và từ đó trở thành hai người cao nhất [Người Hobbit](../H/Hobbits.md) được ghi lại trong lịch sử của [Quận](../T/The_Shire.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-bản dịch của [Treebeard](../T/Treebeard.md)(sang [Ngôn ngữ Chung](Westron.md)) một phần tên nơi ở của anh ta. Nó có nghĩa là "sảnh (dưới hoặc phía sau) dòng chảy ra của lò xo Entwash".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Bản dịch của [Treebeard](../T/Treebeard.md) (sang [Ngôn Ngữ Chung](Westron.md)) cho một phần tên nơi ở của ông. Nó có nghĩa là "sảnh (dưới hoặc phía sau) dòng chảy của suối Entwash".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -68,15 +68,15 @@ bản dịch của [Treebeard](../T/Treebeard.md)(sang [Ngôn ngữ Chung](Westr
 		</li>
 </ul>
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
 
 <dl><dd>Wellinghall is the house to which Treebeard most often brings non-Entish visitors. A detailed layout and topography of Wellinghall is provided.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
-<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
+<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
 
 <dl><dd>At the site Wellinghall, evil players will face attacks by Awakened Plants.</dd></dl>
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i></b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i></b>
 
 <dl><dd>First visited in a flashback narrated by <a class="mw-redirect" href="../M/Merry.md" title="Merry">Merry</a> and <a class="mw-redirect" href="../P/Pippin.md" title="Pippin">Pippin</a>, Wellinghall sits empty during the present day after Treebeard had gone to <a href="../I/Isengard.md" title="Isengard">Isengard</a>.</dd></dl>
 

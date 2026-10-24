@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[The Black Easterling](../../main/K/Khamûl.md)" của [Andrea Piparo](../../category/I/Images_by_Andrea_Piparo.md) cho *[War of the Ring: The Card Game](../../main/W/War_of_the_Ring%253A_The_Card_Game.md)*. Trang web của Piparo đặt tên anh ấy là 'Shargul' trong khi thẻ chính thức sử dụng "The Black Easterling", tên của [Khamûl](../../main/K/Khamûl.md).
+"[The Black Easterling](../../main/K/Khamûl.md)" của [Andrea Piparo](../../category/I/Images_by_Andrea_Piparo.md) cho *[War of the Ring: The Card Game](../../main/W/War_of_the_Ring%253A_The_Card_Game.md)*. Trang web của Piparo đặt tên ông là 'Shargul' trong khi thẻ chính thức sử dụng "The Black Easterling", tên của [Khamûl](../../main/K/Khamûl.md).
 
 ## Giấy phép {#Licensing}
 

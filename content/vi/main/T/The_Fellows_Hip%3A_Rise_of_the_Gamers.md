@@ -59,7 +59,7 @@ Một nhóm bạn bắt đầu cuộc hành trình hoành tráng để tìm ki�
 
 ## Sản xuất {#Production}
 
-Việc viết kịch bản bắt đầu vào năm 2007, trong khi việc sản xuất bộ phim thực tế bắt đầu vào ngày 1 tháng 5 năm 2008 với việc thành lập Công ty sản xuất Đạo luật Khai mạc. Newcomb đã nhận được sự cho phép của cả [Turbine](Turbine.md) và [Trung Địa Enterprises](../M/Middle-earth_Enterprises.md) để đề cập đến Chúa tể của những chiếc nhẫn. Đặc biệt, Turbine được đánh giá là hỗ trợ rất nhiều, cho phép nhóm sử dụng máy chủ thử nghiệm và các ký tự đặc biệt cho cảnh quay.<sup id="cite_ref-official_1-1" class="reference"><a href="#cite_note-official-1">[1]</a></sup>
+Việc viết kịch bản bắt đầu vào năm 2007, trong khi việc sản xuất bộ phim thực tế bắt đầu vào ngày 1 tháng 5 năm 2008 với việc thành lập Công ty sản xuất Đạo luật Khai mạc. Newcomb đã nhận được sự cho phép từ cả [Turbine](Turbine.md) và [Doanh nghiệp Trung Địa](../M/Middle-earth_Enterprises.md) để đề cập đến Chúa tể của những chiếc nhẫn. Đặc biệt, Turbine được đánh giá là hỗ trợ rất nhiều, cho phép nhóm sử dụng máy chủ thử nghiệm và các ký tự đặc biệt cho cảnh quay.<sup id="cite_ref-official_1-1" class="reference"><a href="#cite_note-official-1">[1]</a></sup>
 
 ## Những người liên quan {#People_involved}
 

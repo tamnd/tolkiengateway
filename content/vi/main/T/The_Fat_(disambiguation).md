@@ -18,7 +18,7 @@ images:
   - "Disambig.png"
 ---
 
-**Mập** là một tên gọi được áp dụng cho nhiều nhân vật trong tác phẩm của [Tolkien](../J/J.R.R._Tolkien.md) mà đặc điểm xác định là chu vi của họ:
+**The Fat** là một tên gọi được áp dụng cho nhiều nhân vật trong các tác phẩm của [Tolkien](../J/J.R.R._Tolkien.md) có đặc điểm xác định là chu vi của họ:
 
 - [Kéo dài chất béo](../F/Forlong.md)
 - [Lalia Béo](../L/Lalia_Clayhanger.md)

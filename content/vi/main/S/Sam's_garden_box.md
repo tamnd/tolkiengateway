@@ -21,15 +21,15 @@ images:
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_Sam&#39;s_garden_box.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4e/Mat%C4%9Bj_%C4%8Cadil_-_Sam%27s_garden_box.jpg/300px-Mat%C4%9Bj_%C4%8Cadil_-_Sam%27s_garden_box.jpg" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4e/Mat%C4%9Bj_%C4%8Cadil_-_Sam%27s_garden_box.jpg/450px-Mat%C4%9Bj_%C4%8Cadil_-_Sam%27s_garden_box.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4e/Mat%C4%9Bj_%C4%8Cadil_-_Sam%27s_garden_box.jpg/600px-Mat%C4%9Bj_%C4%8Cadil_-_Sam%27s_garden_box.jpg 2x" data-file-width="1080" data-file-height="1080"/></a><figcaption><i>Sam&#39;s garden box</i> by  <a href="../../category/I/Images_by_Matěj_Čadil.md" title="Category:Images by Matěj Čadil">Matěj Čadil</a></figcaption></figure>
 
-Hộp làm vườn của **Sam** là [món quà](../G/Gifts_of_Galadriel.md) [Samwise Gamgee](Samwise_Gamgee.md) nhận được từ [Galadriel](../G/Galadriel.md).
+**Chiếc hộp làm vườn của Sam** là [món quà](../G/Gifts_of_Galadriel.md) [Samwise Gamgee](Samwise_Gamgee.md) nhận được từ [Galadriel](../G/Galadriel.md).
 
 ## Lịch sử {#History}
 
-Trước khi [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) trái [Lothlórien](../L/Lothlórien.md), [Galadriel](../G/Galadriel.md) đã tặng quà cho mỗi người. Với [Sam](Samwise_Gamgee.md) cô đưa cho cô một chiếc hộp nhỏ bằng gỗ màu xám trơn, không trang trí, chỉ có một chữ rune màu bạc trên nắp.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trước khi [Công ty Nhẫn](../F/Fellowship_of_the_Ring.md) rời khỏi [Lothlórien](../L/Lothlórien.md), [Galadriel](../G/Galadriel.md) đã tặng quà cho mỗi người trong số họ. Với [Sam](Samwise_Gamgee.md) cô đưa cho cô một chiếc hộp nhỏ bằng gỗ màu xám trơn, không trang trí gì ngoài trừ một chữ rune màu bạc trên nắp.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Nó chứa đất từ ​​vườn cây Galadriel, đất giống như bụi xám, mềm và mịn, ở giữa là một hạt giống, giống như một quả hạch nhỏ có vỏ màu bạc.
+Nó chứa đất lấy từ vườn cây ăn quả của Galadriel, đất giống như bụi xám, mềm và mịn, ở giữa là một hạt giống, giống như một quả hạch nhỏ có vỏ màu bạc.
 
-Sau [Càn quét Shire](Scouring_of_the_Shire.md), Sam đã trồng cây con ở tất cả những nơi mà những cây đặc biệt xinh đẹp và yêu quý đã bị phá hủy, đồng thời anh ấy rải một hạt bụi quý vào đất dưới gốc của mỗi cây. Hạt bạc nhỏ mà anh ấy trồng ở [Party Field](../P/Party_Field.md) để thay thế [Cây tiệc tùng](../P/Party_Tree.md), và hạt này đã phát triển thành [Cây vàng](../G/Golden_Tree.md): " Mallorn duy nhất ở phía tây của [Dãy Núi](../M/Misty_Mountains.md) và phía đông của [Biển](../B/Belegaer.md), và là một trong những hạt tốt nhất trên thế giới".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sau [Càn quét khắp Quận](Scouring_of_the_Shire.md), Sam đã trồng cây con ở tất cả những nơi mà những cây đặc biệt xinh đẹp và yêu quý đã bị phá hủy, đồng thời anh đặt một hạt bụi quý giá vào đất dưới gốc của mỗi cây. Quả hạch bạc nhỏ mà ông trồng ở [Cánh đồng Đảng](../P/Party_Field.md) để thay thế [Cây Đảng](../P/Party_Tree.md), và quả hạch này đã phát triển thành [Cây Vàng](../G/Golden_Tree.md): "Mallorn duy nhất ở phía tây [Núi](../M/Misty_Mountains.md) và phía đông [Biển](../B/Belegaer.md), và là một trong những nơi đẹp nhất trên thế giới".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

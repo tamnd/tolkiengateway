@@ -77,4 +77,4 @@ Sự kiện xảy ra vào ngày 12 tháng 2.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
+    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).

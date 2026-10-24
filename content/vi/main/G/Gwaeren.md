@@ -13,7 +13,7 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>gwaeren</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "có gió".<sup id="cite_ref-VT_1-0" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
+<i><b>gwaeren</b></i> là từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "có gió".<sup id="cite_ref-VT_1-0" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

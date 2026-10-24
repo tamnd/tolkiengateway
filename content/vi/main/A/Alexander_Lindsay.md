@@ -29,7 +29,7 @@ infobox:
 
 **Alexander Lindsay** (sinh [ngày 2 tháng 7](../_/2_July.md) [1976](../_/1976.md))<sup id="cite_ref-Argonath_1-0" class="reference"><a href="#cite_note-Argonath-1">[1]</a></sup> đóng vai [Erethón](../E/Erethón.md) và một [Orc](../O/Orcs.md) trong *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-Argonath_1-1" class="reference"><a href="#cite_note-Argonath-1">[1]</a></sup>
 
-Lindsay đọc *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* lần đầu tiên vào năm 10 tuổi và đọc nó nhiều lần nữa trước khi bắt đầu sản xuất [*The Lord of the Rings* bộ ba phim](<../T/The_Lord_of_the_Rings_(film_series).md>). Anh ấy không đội tóc giả như Erethón.<sup id="cite_ref-Argonath_1-2" class="reference"><a href="#cite_note-Argonath-1">[1]</a></sup>
+Lindsay đọc *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* lần đầu tiên vào năm 10 tuổi và đọc nó nhiều lần nữa trước khi bắt đầu sản xuất [*The Lord of the Rings* bộ ba phim](<../T/The_Lord_of_the_Rings_(film_series).md>). Ông không đội tóc giả như Erethón.<sup id="cite_ref-Argonath_1-2" class="reference"><a href="#cite_note-Argonath-1">[1]</a></sup>
 
 <span></span>
 

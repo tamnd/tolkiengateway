@@ -12,12 +12,12 @@ categories:
   - "Roots"
 ---
 
-**BAT** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "bước".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+**BAT** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "bước đi".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Old Noldorin](../K/Kornoldorin.md): *bata* ("đường mòn, lối đi")<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
-- [Exilic Noldorin](../N/Noldorin.md): *bád* ("đường mòn, lối đi");<sup id="cite_ref-LR_1-2" class="reference"><a href="#cite_note-LR-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> *batho* ("dẫm đạp")<sup id="cite_ref-LR_1-3" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+- [Noldorin Cũ](../K/Kornoldorin.md): *bata* ("đường mòn, lối đi")<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+- [Noldorin lưu đày](../N/Noldorin.md): *bád* ("đường mòn, con đường");<sup id="cite_ref-LR_1-2" class="reference"><a href="#cite_note-LR-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> *batho* ("dẫm đạp")<sup id="cite_ref-LR_1-3" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 <span></span>
 

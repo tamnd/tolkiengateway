@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*Ravens* của Mark Evans, xuất hiện trong Scott Bennie, Mike Austin Mearls, Steve Miller, Aaron Rosenberg, Chris Seeman, Owen Seyler, và George Strayton, *[The Lord of the Rings Trò chơi nhập vai](../../main/T/The_Lord_of_the_Rings_Roleplaying_Game.md): [Fell Beasts and Wondrous Magic](../../main/F/Fell_Beasts_and_Wondrous_Magic.md)* (Decipher, 2003).
+*Ravens* của Mark Evans, xuất hiện trong Scott Bennie, Mike Austin Mearls, Steve Miller, Aaron Rosenberg, Chris Seeman, Owen Seyler, và George Strayton, *[The Lord of the Rings Roleplaying Game](../../main/T/The_Lord_of_the_Rings_Roleplaying_Game.md): [Fell Beasts and Wondrous Magic](../../main/F/Fell_Beasts_and_Wondrous_Magic.md)* (Decipher, 2003).
 
 ## Giấy phép {#Licensing}
 

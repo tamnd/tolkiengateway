@@ -15,9 +15,9 @@ sort_keys:
   "Quenya nouns": "vine"
 ---
 
-<i><b>víne</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "tuổi trẻ".<sup id="cite_ref-VT47_1-0" class="reference"><a href="#cite_note-VT47-1">[1]</a></sup>
+<i><b>víne</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "tuổi trẻ".<sup id="cite_ref-VT47_1-0" class="reference"><a href="#cite_note-VT47-1">[1]</a></sup>
 
-[Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng dạng *vínë* (giữ nguyên ý nghĩa) có thể hợp lệ [Neo-Quenya](../N/Neo-Elvish.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng dạng *vínë* (giữ nguyên nghĩa) có thể hợp lệ [Neo-Quenya](../N/Neo-Elvish.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

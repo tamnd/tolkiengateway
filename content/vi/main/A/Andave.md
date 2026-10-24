@@ -13,7 +13,7 @@ categories:
   - "Quenya adverbs"
 ---
 
-<i><b>andave</b></i> là một trạng từ [Quenya](../Q/Quenya.md) có nghĩa là "dài"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Cormallen_2-0" class="reference"><a href="#cite_note-Cormallen-2">[2]</a></sup> hoặc "ở độ dài lớn".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Nó dường như bắt nguồn từ tính từ *[anda](Anda.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+<i><b>andave</b></i> là trạng từ [Quenya](../Q/Quenya.md) có nghĩa là "dài"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Cormallen_2-0" class="reference"><a href="#cite_note-Cormallen-2">[2]</a></sup> hoặc "ở độ dài lớn".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Nó dường như bắt nguồn từ tính từ *[anda](Anda.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Ví dụ {#Examples}
 

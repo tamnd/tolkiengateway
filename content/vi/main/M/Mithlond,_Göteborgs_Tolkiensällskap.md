@@ -19,7 +19,7 @@ images:
 
 **Mithlond, Göteborgs Tolkiensällskap** là Hiệp hội Tolkien Thụy Điển của <a class="extiw" href="http://en.wikipedia.org/wiki/Gothenburg" title="wikipedia:Gothenburg">Gothenburg</a>. Nó được thành lập ở [1981](../_/1981.md), tách ra từ [Forodrim](../F/Forodrim.md). Hiệp hội xuất bản <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Elostirion_(magazine)&amp;action=edit&amp;redlink=1" title="Elostirion (magazine) (page does not exist)">Elostirion</a></i>.
 
-Mithlond bao gồm nhiều bang hội, mỗi bang đảm nhận một nhiệm vụ cụ thể. Chúng bao gồm ngôn ngữ, nghệ thuật và thủ công, chơi game, ẩm thực, v.v.
+Mithlond bao gồm một số bang hội, mỗi bang hội đảm nhận một nhiệm vụ cụ thể. Chúng bao gồm ngôn ngữ, nghệ thuật và thủ công, chơi game, ẩm thực, v.v.
 
 ## Liên kết ngoài {#External_links}
 

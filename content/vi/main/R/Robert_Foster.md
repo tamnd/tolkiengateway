@@ -27,7 +27,7 @@ langlinks:
     url: "https://kontu.wiki/Robert_Foster"
 ---
 
-**Robert Foster** ([tháng Chín 6](../S/September_6.md), [1949](../_/1949.md)) là tác giả của *[The Complete Guide to Middle-earth](../T/The_Complete_Guide_to_Middle-earth.md)* được cộng đồng [Tolkien](../J/J.R.R._Tolkien.md) đánh giá cao.
+**Robert Foster** ([Ngày 6 tháng 9](../S/September_6.md), [1949](../_/1949.md)) là tác giả của *[The Complete Guide to Middle-earth](../T/The_Complete_Guide_to_Middle-earth.md)* được cộng đồng [Tolkien](../J/J.R.R._Tolkien.md) đánh giá cao.
 
 ## Thư mục {#Bibliography}
 
@@ -39,6 +39,6 @@ langlinks:
 - *[The Complete Guide to Middle-earth](../T/The_Complete_Guide_to_Middle-earth.md)*, còn được gọi là:
     - *The Guide to Middle-earth*
     - *Hướng dẫn đầy đủ về Trung Địa: Thế giới của Tolkien từ A đến Z*
-    - *Hướng dẫn đầy đủ về Trung Địa: Từ Hobbit đến Chúa tể của những chiếc nhẫn và xa hơn nữa*
-    - *Hướng dẫn đầy đủ về Trung Địa: Từ "the Hobbit" đến "the Silmarillion"*
-    - *Hướng dẫn đầy đủ về Trung Địa: Hướng dẫn dứt khoát về thế giới J.R.R. Tolkien*
+    - *Hướng dẫn đầy đủ về Trung Địa: Từ người Hobbit đến Chúa tể của những chiếc nhẫn và xa hơn nữa*
+    - *Hướng dẫn đầy đủ về Trung Địa: Từ "người Hobbit" đến "Silmarillion"*
+    - *Hướng dẫn đầy đủ về Trung địa: Hướng dẫn chính xác về thế giới J.R.R. Tolkien*

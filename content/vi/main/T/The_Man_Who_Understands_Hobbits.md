@@ -25,9 +25,9 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Telegraph_1.JPG.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e3/Telegraph_1.JPG/300px-Telegraph_1.JPG" decoding="async" loading="lazy" width="300" height="400" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e3/Telegraph_1.JPG/450px-Telegraph_1.JPG 1.5x, https://tolkiengateway.net/w/images/thumb/e/e3/Telegraph_1.JPG/600px-Telegraph_1.JPG 2x" data-file-width="1200" data-file-height="1600"/></a><figcaption></figcaption></figure>
 
-**Người đàn ông hiểu biết Hobbit** là tựa đề của một [cuộc phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) của Charlotte và Denis Plimmer, được xuất bản trên [*The Daily Telegraph Magazine*](<The_Daily_Telegraph_Magazine_(22_March_1968).md>), vào [22 tháng 3](../_/22_March.md) [1968](../_/1968.md). Cuộc phỏng vấn được thực hiện vào [30 tháng 11](../_/30_November.md) năm 1966.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Người đàn ông hiểu người Hobbit** là tựa đề của một [cuộc phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) của Charlotte và Denis Plimmer, được xuất bản trên [*The Daily Telegraph Magazine*](<The_Daily_Telegraph_Magazine_(22_March_1968).md>), vào [22 tháng 3](../_/22_March.md) [1968](../_/1968.md). Cuộc phỏng vấn được thực hiện vào [30 tháng 11](../_/30_November.md) năm 1966.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong [Thư 294](../L/Letter_294.md), Tolkien trả lời bản thảo của bài viết, viết về những đề xuất thay đổi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong [Thư 294](../L/Letter_294.md), Tolkien trả lời bản nháp của bài báo, viết về những đề xuất thay đổi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Bài viết đã được in lại tại *The Daily Times-Journal* của Fort William, Ontario và [*Moose Jaw Times-Herald*](<../M/Moose_Jaw_Times-Herald%253A_Weekend_Magazine_(Vol._18,_No._35).md>).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

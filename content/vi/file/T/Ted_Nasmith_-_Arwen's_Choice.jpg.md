@@ -32,7 +32,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Minh họa cho [MEP: Sự lựa chọn của Arwen](../../main/M/MEP%253A_Arwen's_Choice.md).
+Minh họa cho [MEP: Arwen's Choice](../../main/M/MEP%253A_Arwen's_Choice.md).
 
 ## Giấy phép {#License}
 

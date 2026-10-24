@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Leaves from the Tree"
 ---
 
-Chuyển hướng đến [Leaves from the Tree](Leaves_from_the_Tree.md).
+Chuyển hướng tới [Lá từ cây](Leaves_from_the_Tree.md).

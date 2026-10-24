@@ -18,7 +18,7 @@ sort_keys:
   "Swedish people": "Thomsen, Morgan"
 ---
 
-**Morgan Thomsen** là chủ sở hữu và người đóng góp chính của [Tolkien Chỉ mục](../T/Tolkien_Index.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Morgan Thomsen** là chủ sở hữu và người đóng góp chính của [Chỉ số Tolkien](../T/Tolkien_Index.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục {#Bibliography}
 

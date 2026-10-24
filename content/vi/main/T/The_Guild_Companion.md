@@ -14,7 +14,7 @@ categories:
   - "Publications by title"
 ---
 
-**The Guild Companion** là một tạp chí trực tuyến dành riêng cho [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) sản phẩm và trò chơi trên máy tính bảng nói chung. Do đó, nó thường xuyên bao phủ *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.
+**The Guild Companion** là một tạp chí trực tuyến dành riêng cho các sản phẩm của [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) và trò chơi trên máy tính bảng nói chung. Do đó, nó thường xuyên bao phủ *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.
 
 ## Vấn đề, đã chọn {#Issues,_selected}
 

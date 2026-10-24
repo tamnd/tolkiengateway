@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anfauglith"
 ---
 
-Chuyển hướng đến [Anfauglith](../A/Anfauglith.md).
+Chuyển hướng tới [Anfauglith](../A/Anfauglith.md).

@@ -45,11 +45,11 @@ langlinks:
 <li><a href="../F/Foreyule.md" title="Foreyule">Foreyule</a> (December)</li></ol>
 </td></tr></tbody></table>
 
-**Thứ Tư** là tháng thứ tám của [Lịch Shire](../S/Shire_Calendar.md), sau [Afterlithe](../A/Afterlithe.md) và gần tương ứng với [ngày 24 tháng 7](../_/24_July.md) đến [ngày 22 tháng 8](../_/22_August.md) hiện đại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Thứ Tư** là tháng thứ tám trong [Lịch Quận](../S/Shire_Calendar.md), sau [Afterlithe](../A/Afterlithe.md) và gần tương ứng với [ngày 24 tháng 7](../_/24_July.md) đến [ngày 22 tháng 8](../_/22_August.md) hiện đại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Cái tên thể hiện sự [hiện đại hóa](../H/Hobbitish.md) của tên [tiếng Anh cổ](../O/Old_English.md) cho tháng 8, <i><a class="extiw" href="http://en.wiktionary.org/wiki/weodmona%C3%BE" title="wiktionary:weodmonaþ">Wéodmónaþ</a></i>, nghĩa là "tháng cỏ" (cf. *weed*).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Cái tên thể hiện sự [hiện đại hóa](../H/Hobbitish.md) của tên [tiếng Anh cổ](../O/Old_English.md) cho tháng 8, <i><a class="extiw" href="http://en.wiktionary.org/wiki/weodmona%C3%BE" title="wiktionary:weodmonaþ">Wéodmónaþ</a></i>, có nghĩa là "tháng cỏ" (cf. *weed*).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

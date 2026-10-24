@@ -33,17 +33,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Gondor_in_Flames.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0d/Gondor_in_Flames.png/320px-Gondor_in_Flames.png" decoding="async" loading="lazy" width="320" height="442" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/0/0d/Gondor_in_Flames.png 1.5x" data-file-width="454" data-file-height="627"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Strategy Battle Game: Gondor in Flames</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Matthew Ward and Adam Troke</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Games_Workshop.md" title="Games Workshop">Games Workshop</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/4_August.md" title="4 August">4 August</a> <a href="../_/2007.md" title="2007">2007</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">64</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-1841548340" title="Special:BookSources/978-1841548340">978-1841548340</a></td></tr></tbody></table>
 
-<i><b>The Lord of the Rings Trò chơi chiến đấu chiến lược: Gondor in Flames</b></i> là phần bổ sung sách nguồn dành cho [Games Workshop](Games_Workshop.md) *[The Lord of the Rings Strategy Battle Game](../T/The_Lord_of_the_Rings_Strategy_Battle_Game.md)*.
+<i><b>Trò chơi chiến lược Chúa tể của những chiếc nhẫn: Gondor in Flames</b></i> là phần bổ sung sách nguồn dành cho [Games Workshop](Games_Workshop.md) *[The Lord of the Rings Strategy Battle Game](../T/The_Lord_of_the_Rings_Strategy_Battle_Game.md)*.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Ở trung tâm của Trung Địa là một vương quốc cổ xưa, một vương quốc được thành lập từ lưu vong và được rèn giũa nhờ sức mạnh võ thuật. Đứng giữa các dân tộc tự do ở phía tây và các quốc gia độc ác ở phía nam và phía đông, nó luôn là lá chắn chống lại cái bóng của Mordor và sức mạnh khủng khiếp của Chúa tể Bóng tối. Đây là vương quốc của Gondor, dòng dõi của Numenor và người bảo vệ không mệt mỏi của Trung Địa.
+Ở trung tâm Trung Địa là một vương quốc cổ xưa, một vương quốc được thành lập lưu vong và được rèn luyện nhờ sức mạnh võ thuật. Đứng giữa các dân tộc tự do ở phía tây và các quốc gia tà ác ở phía nam và phía đông, nó luôn là lá chắn chống lại cái bóng của Mordor và sức mạnh khủng khiếp của Chúa tể bóng tối. Đây là vương quốc Gondor, dòng dõi của Numenor và người bảo vệ không mệt mỏi của Trung Địa.
 
 Đây là phần bổ sung cho *Trò chơi chiến đấu chiến lược Chúa tể những chiếc nhẫn* của Games Workshop - bạn sẽ cần bản sao quy tắc để chơi.
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://boardgamegeek.com/boardgameexpansion/84962/the-lord-of-the-rings-strategy-battle-game-gondor" rel="noreferrer noopener" target="_blank">The Lord of the Rings Trò chơi chiến đấu chiến lược: Gondor trong ngọn lửa</a> tại <a class="external text" href="http://boardgamegeek.com/" rel="noreferrer noopener" target="_blank">BoardGameGeek</a>
+- <a class="external text" href="http://boardgamegeek.com/boardgameexpansion/84962/the-lord-of-the-rings-strategy-battle-game-gondor" rel="noreferrer noopener" target="_blank">Trò chơi chiến lược Chúa tể của những chiếc nhẫn: Gondor in Flames</a> tại <a class="external text" href="http://boardgamegeek.com/" rel="noreferrer noopener" target="_blank">BoardGameGeek</a>
 
 <span></span>
 

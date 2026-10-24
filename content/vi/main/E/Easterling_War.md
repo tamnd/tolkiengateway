@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wainrider/Balchoth War"
 ---
 
-Chuyển hướng đến [Wainrider/Balchoth War](../W/Wainrider%252FBalchoth_War.md).
+Chuyển hướng đến [Wainrider/Chiến tranh Balchoth](../W/Wainrider%252FBalchoth_War.md).

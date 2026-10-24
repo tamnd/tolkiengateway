@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Atlas of Middle-earth"
 ---
 
-Chuyển hướng đến [The Atlas of Middle-earth](The_Atlas_of_Middle-earth.md).
+Chuyển hướng đến [Atlas Trung địa](The_Atlas_of_Middle-earth.md).

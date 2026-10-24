@@ -39,7 +39,7 @@ infobox:
 
 <i><b>Nơi trú ẩn gần nhất:</b></i> [Rivendell](METW%253A_Rivendell.md)
 
-*"Bree là ngôi làng chính của Bree-land, một vùng có người ở nhỏ, giống như một hòn đảo trên vùng đất trống xung quanh... Ngôi làng Bree có hàng trăm ngôi nhà của Big Folk, hầu hết ở phía trên đường, nép mình trên sườn đồi với cửa sổ nhìn về hướng Tây."* <i><b>-LotRI</b></i>
+*"Bree là ngôi làng chính của Bree-land, một vùng có người ở nhỏ, giống như một hòn đảo trên vùng đất trống xung quanh... Làng Bree có khoảng trăm ngôi nhà của Big Folk, hầu hết ở phía trên đường, nép mình trên sườn đồi với cửa sổ nhìn về hướng Tây."* <i><b>-LotRI</b></i>
 
 ## Các thẻ liên quan {#Related_cards}
 

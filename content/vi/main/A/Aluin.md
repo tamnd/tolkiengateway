@@ -15,7 +15,7 @@ categories:
   - "Time"
 ---
 
-**Aluin** là anh cả trong gia đình [Ainur](Ainur.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Anh ấy đại diện cho chính [Thời gian](../T/Time.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Aluin** là anh cả trong gia đình [Ainur](Ainur.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Ông đại diện cho chính [Thời gian](../T/Time.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

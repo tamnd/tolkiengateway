@@ -17,7 +17,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Mushrooms in Middle-earth Role Playing&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
-Để làm rõ bối cảnh hơn, [Middle-earth Role Playing](Middle-earth_Role_Playing.md) giới thiệu nhiều loại [nấm](Mushrooms.md) mới.
+Để làm rõ bối cảnh hơn, [Nhập vai Trung Địa](Middle-earth_Role_Playing.md) giới thiệu nhiều loại [nấm](Mushrooms.md) mới.
 
 ## Răng nanh {#Bearded_Fang}
 
@@ -29,7 +29,7 @@ images:
 
 ## Thân chủ {#Camadarch}
 
-<i><b>Camadarch</b></i> ([S.](../S/Sindarin.md) *Fladluin*, [Q.](../Q/Quenya.md) *Faltaluin*) là một loại nấm hang động nhỏ được tìm thấy trong các hang động ở phía đông Eriador và ở [Vùng sâu](../U/Under-deeps.md). Chỉ cao một inch, với chiếc mũ có hoa văn ngôi sao đen, nó là nguồn gốc của chất độc nguy hiểm. Ở dạng lỏng, nó làm da nạn nhân chuyển sang màu xanh trước khi khiến các chi bị phân hủy. Khi trộn với rượu, nó trở thành chất tiếp xúc có tính axit có khả năng gây bỏng nặng. Việc chuẩn bị nổi tiếng là nguy hiểm, thường gây tử vong cho cả người xử lý và nạn nhân.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>Camadarch</b></i> ([S.](../S/Sindarin.md) *Fladluin*, [Q.](../Q/Quenya.md) *Faltaluin*) là một loại nấm hang động nhỏ được tìm thấy trong các hang động ở phía đông Eriador và ở [Vực sâu](../U/Under-deeps.md). Chỉ cao một inch, với chiếc mũ có hoa văn ngôi sao đen, nó là nguồn gốc của chất độc nguy hiểm. Ở dạng lỏng, nó làm da nạn nhân chuyển sang màu xanh trước khi khiến các chi bị phân hủy. Khi trộn với rượu, nó trở thành chất tiếp xúc có tính axit có khả năng gây bỏng nặng. Việc chuẩn bị nổi tiếng là nguy hiểm, thường gây tử vong cho cả người xử lý và nạn nhân.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Akra chết người {#Deadly_Akra}
 
@@ -57,7 +57,7 @@ images:
 
 ## Quốc vương {#Madarch}
 
-<i><b>Madarch</b></i> ([S.](../S/Sindarin.md) *Arachwan*, [Q.](../Q/Quenya.md) *Arnahwan*), còn được gọi là *Zûrumul*, là một loại nấm khổng lồ màu tím và cam, mọc thành từng cụm lớn dưới lòng đất được thu hoạch bởi Người Lùn. Nó cao tới 5 feet, với vương miện cao 4 feet và rễ dạng sợi cứng. Các đường gờ của nó tiết ra một loại nước gọi là norechor<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[note 1]</a></sup>, có tác dụng chữa lành các vết cắt và mạch máu khi pha loãng, mặc dù không pha loãng nó có thể làm vỡ tĩnh mạch của người uống. Thịt có thể ăn được và duy trì trong thời kỳ nạc.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[10]</a></sup><sup id="cite_ref-vrak_9-1" class="reference"><a href="#cite_note-vrak-9">[9]</a></sup>
+<i><b>Madarch</b></i> ([S.](../S/Sindarin.md) *Arachwan*, [Q.](../Q/Quenya.md) *Arnahwan*), còn được gọi là *Zûrumul*, là một loại nấm khổng lồ màu tím và cam, mọc thành từng cụm lớn dưới lòng đất được Người lùn thu hoạch. Nó cao tới 5 feet, với vương miện cao 4 feet và rễ dạng sợi cứng. Các đường gờ của nó tiết ra một loại nước gọi là norechor<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[note 1]</a></sup>, có tác dụng chữa lành các vết cắt và mạch máu khi pha loãng, mặc dù không pha loãng nó có thể làm vỡ tĩnh mạch của người uống. Thịt có thể ăn được và duy trì trong thời kỳ nạc.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[10]</a></sup><sup id="cite_ref-vrak_9-1" class="reference"><a href="#cite_note-vrak-9">[9]</a></sup>
 
 ## Nắp sữa có mùi hôi {#Malodorous_Milkcap}
 
@@ -65,7 +65,7 @@ images:
 
 ## Nightrod {#Nightrod}
 
-<i><b>Nightrod</b></i> ([S.](../S/Sindarin.md) *Lebedmor*, [Q.](../Q/Quenya.md) *Morilepsë*), còn được gọi là *Ebony Fingers*, là một loại nấm hình nón nhỏ, màu đen, được tìm thấy trong các hang động. Nó mọc thành từng cụm và được đánh giá cao vừa là một loại nấm chữa bệnh nhẹ vừa là một món ngon, đặc biệt là trong Người lùn món súp. Một chiếc mũ cần câu mới có thể phục hồi sức khỏe nhưng nó sẽ mất tác dụng sau khi khô.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[12]</a></sup>
+<i><b>Nightrod</b></i> ([S.](../S/Sindarin.md) *Lebedmor*, [Q.](../Q/Quenya.md) *Morilepsë*), còn được gọi là *Ebony Fingers*, là một loại nấm hình nón nhỏ, màu đen, được tìm thấy trong các hang động. Nó mọc thành từng cụm và được đánh giá cao vừa là một loại nấm chữa bệnh nhẹ vừa là một món ngon, đặc biệt là trong món súp của Người lùn. Một chiếc mũ cần câu mới có thể phục hồi sức khỏe nhưng nó sẽ mất tác dụng sau khi khô.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[12]</a></sup>
 
 ## Mắt khác {#Other_Eyes}
 
@@ -93,7 +93,7 @@ images:
 
 ## Kẻ hủy diệt trắng {#White_Destroyer}
 
-<i><b>Kẻ hủy diệt trắng</b></i> ([S.](../S/Sindarin.md) *Nimdagnir*, [Q.](../Q/Quenya.md) *Ninquenahtar*), còn được gọi là *Úrk*, là một loại nấm khổng lồ màu trắng có cuống có vòng màu đỏ và phần gốc giống như túi, được tìm thấy dưới lòng đất. Chất lỏng của nó được Orc chưng cất thành chất độc gây tê liệt, chỉ bị phản công bởi gorkin nhầy nhụa hoặc thời gian trôi qua.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[19]</a></sup>
+<i><b>Kẻ hủy diệt trắng</b></i> ([S.](../S/Sindarin.md) *Nimdagnir*, [Q.](../Q/Quenya.md) *Ninquenahtar*), còn được gọi là *Úrk*, là một loại nấm khổng lồ màu trắng có cuống có vòng màu đỏ và phần gốc giống như túi, được tìm thấy dưới lòng đất. Chất lỏng của nó được lũ Orc chưng cất thành chất độc gây tê liệt, chỉ bị phản công bởi gorkin nhầy nhụa hoặc thời gian trôi qua.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[19]</a></sup>
 
 ## Bánh phù thủy {#Witch’s_Pie}
 
@@ -101,12 +101,12 @@ images:
 
 ## Zulsendura {#Zulsendura}
 
-<i><b>Zulsendura</b></i> ([S.](../S/Sindarin.md) *Horthor*, [Q.](../Q/Quenya.md) *Hortar*), còn được gọi là *Dry-rot*, *Hurry-up*hoặc *Zilzendura*, là một loại nấm màu xám đen của hang động núi lửa, thường mọc trên trần nhà nơi trông giống như đá. Dù nhỏ nhưng nó mang lại tốc độ siêu nhiên cho những người sử dụng nó, sau đó là một giấc ngủ sâu mệt mỏi.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[21]</a></sup>
+<i><b>Zulsendura</b></i> ([S.](../S/Sindarin.md) *Horthor*, [Q.](../Q/Quenya.md) *Hortar*), còn được gọi là *Dry-rot*, *Hurry-up* hoặc *Zilzendura*, là một loại nấm màu xám đen của hang động núi lửa, thường mọc trên trần nhà nơi trông giống như đá. Dù nhỏ nhưng nó mang lại tốc độ siêu nhiên cho những người sử dụng nó, sau đó là một giấc ngủ sâu mệt mỏi.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[21]</a></sup>
 
 ## Xem thêm {#See_also}
 
 - [Nấm](../F/Funguses.md)
-- [Cây trồng ở Middle-earth Role Playing](../P/Plants_in_Middle-earth_Role_Playing.md)
+- [Thực vật nhập vai ở Trung địa](../P/Plants_in_Middle-earth_Role_Playing.md)
 
 ## Ghi chú {#Notes}
 

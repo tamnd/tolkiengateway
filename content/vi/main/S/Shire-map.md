@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Part of the Shire"
 ---
 
-Chuyển hướng đến [Một phần của Shire](../A/A_Part_of_the_Shire.md).
+Chuyển hướng đến [Một phần của Quận](../A/A_Part_of_the_Shire.md).

@@ -29,11 +29,11 @@ infobox:
 
 ## Nền {#Background}
 
-Tolkien đã đến [BBC](../B/BBC.md) hai ngày trước đó và đọc bản dịch *[Sir Gawain and the Green Knight](<../S/Sir_Gawain_and_the_Green_Knight_(edition).md>)* của anh ấy và buổi thử giọng này đã được ghi lại. Để chuẩn bị cho buổi thử giọng, Tolkien đã được [Christopher](../C/Christopher_Tolkien.md) giúp đỡ thực hiện ba thí nghiệm giọng nói trên máy ghi âm.
+Tolkien đã đến [BBC](../B/BBC.md) hai ngày trước đó và đọc bản dịch *[Sir Gawain and the Green Knight](<../S/Sir_Gawain_and_the_Green_Knight_(edition).md>)* của ông và buổi thử giọng này đã được ghi lại. Để chuẩn bị cho buổi thử giọng của mình, Tolkien đã với sự giúp đỡ của [Christopher](../C/Christopher_Tolkien.md) tiến hành ba thí nghiệm giọng nói trên máy ghi âm.
 
 ## Tóm tắt {#Summary}
 
-Trong thư gửi <a class="extiw" href="http://en.wikipedia.org/wiki/P._H._Newby" title="wikipedia:P. H. Newby">P. H. Newby</a> của BBC, Tolkien bày tỏ lòng biết ơn đối với lòng hiếu khách và sự kiên nhẫn của Newby, ví phong thái lịch sự của Newby với phong thái hiệp sĩ Gawain. Tolkien đồng cảm với gánh nặng của Newby và suy ngẫm về một năm đầy khó khăn phía trước của chính anh ấy. Anh ấy đánh giá cao cơ hội được đánh giá, lưu ý đến khó khăn trong việc làm hài lòng Newby, nhưng khen ngợi chất lượng phát lại đã ghi mà anh ấy thấy hấp dẫn hơn hầu hết các chương trình phát sóng tương tự. Anh ấy thừa nhận những lĩnh vực cần cải thiện, đặc biệt là khả năng đọc đoạn tiếng Anh Trung cổ chưa được luyện tập của anh ấy, dẫn đến một số sai sót. <br>
+Trong một bức thư gửi <a class="extiw" href="http://en.wikipedia.org/wiki/P._H._Newby" title="wikipedia:P. H. Newby">P. H. Newby</a> của BBC, Tolkien bày tỏ lòng biết ơn đối với lòng hiếu khách và sự kiên nhẫn của Newby, ví phong thái lịch sự của Newby với phong thái hiệp sĩ Gawain. Tolkien đồng cảm với gánh nặng của Newby và suy ngẫm về một năm đầy khó khăn phía trước của chính anh. Ông đánh giá cao cơ hội được đánh giá, lưu ý đến khó khăn trong việc làm hài lòng Newby, nhưng khen ngợi chất lượng phát lại đã ghi mà ông thấy hấp dẫn hơn hầu hết các chương trình phát sóng tương tự. Ông thừa nhận những lĩnh vực cần cải thiện, đặc biệt là khả năng đọc đoạn tiếng Anh Trung cổ chưa được luyện tập của ông, dẫn đến một số sai sót. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Chủ nhân Stadle](../../main/M/Master_Stadle.md) - *[The Hobbit: The Desolation of Smaug](../../main/T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*
+[Chân đỡ chính](../../main/M/Master_Stadle.md) - *[The Hobbit: The Desolation of Smaug](../../main/T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*
 
 ## Giấy phép {#Licensing}
 

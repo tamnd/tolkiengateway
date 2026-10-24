@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bìa châu Âu của [Vương quốc O' Magic](../../main/K/Kingdom_O'_Magic.md).
+Bìa châu Âu của [Kingdom O' Magic](../../main/K/Kingdom_O'_Magic.md).
 
 ## Giấy phép {#Licensing}
 

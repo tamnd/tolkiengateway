@@ -13,4 +13,4 @@ categories:
   - "Movie websites"
 ---
 
-** Argonath**, hay <a class="external text" href="http://www.theargonath.cc" rel="noreferrer noopener" target="_blank">www.theargonath.cc</a>, là một trang web chủ yếu giới thiệu các hình ảnh từ [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>) của các nhân vật khác nhau.
+**The Argonath**, hay <a class="external text" href="http://www.theargonath.cc" rel="noreferrer noopener" target="_blank">www.theargonath.cc</a>, là một trang web chủ yếu giới thiệu các hình ảnh từ [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>) của các nhân vật khác nhau.

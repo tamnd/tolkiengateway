@@ -14,7 +14,7 @@ categories:
   - "British businesses"
 ---
 
-**Máy tính cấp 9** là nhà phát triển và phát hành [The Middle-Earth Trilogy](../T/The_Middle-Earth_Trilogy.md) ([Cuộc phiêu lưu khổng lồ](../C/Colossal_Adventure.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Nhiệm vụ phiêu lưu](../A/Adventure_Quest.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và [Cuộc phiêu lưu trong ngục tối](../D/Dungeon_Adventure.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+**Máy tính cấp 9** là nhà phát triển và nhà xuất bản của [Bộ ba Trung Địa](../T/The_Middle-Earth_Trilogy.md) ([Cuộc phiêu lưu khổng lồ](../C/Colossal_Adventure.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Nhiệm vụ phiêu lưu](../A/Adventure_Quest.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và [Cuộc phiêu lưu trong ngục tối](../D/Dungeon_Adventure.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

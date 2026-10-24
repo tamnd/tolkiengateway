@@ -31,9 +31,9 @@ Các đoạn trích từ bức thư lần đầu tiên xuất hiện trong *Bibl
 
 ## Tóm tắt {#Summary}
 
-Tolkien xin lỗi vì không thể gặp Mitchison. Anh và [Edith](../E/Edith_Tolkien.md) đã đi đến Beournemouth và những lá thư của cô, bị trì hoãn hai lần, đã không đến tay anh kịp thời. Anh ấy nói rằng việc viết lách khi đi xa không hề dễ dàng, nhưng sau đó đề cập rằng phần lớn phần đầu của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được viết bằng tiếng Sidmouth.
+Tolkien xin lỗi vì không thể gặp Mitchison. Anh và [Edith](../E/Edith_Tolkien.md) đã đi đến Beournemouth và những lá thư của cô, bị trì hoãn hai lần, đã không đến tay anh kịp thời. Ông nói rằng việc viết lách khi đi xa không hề dễ dàng, nhưng sau đó đề cập rằng phần lớn phần đầu của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được viết bằng tiếng Sidmouth.
 
-Anh ấy hy vọng rằng việc trở về nhà của anh ấy sẽ có một nguồn năng lượng mới.
+Ông hy vọng rằng việc trở về nhà của ông sẽ có một nguồn năng lượng mới.
 
 <span></span>
 

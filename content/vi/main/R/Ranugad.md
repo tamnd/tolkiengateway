@@ -12,7 +12,7 @@ categories:
   - "Westron words"
 ---
 
-<i><b>Ranugad</b></i> là tên [Hobbitish](../H/Hobbitish.md) có nghĩa là "Ở nhà" ([Hamfast](../G/Gaffer_Gamgee.md)).
+<i><b>Ranugad</b></i> là một cái tên [Hobbitish](../H/Hobbitish.md) có nghĩa là "Ở nhà" ([Hamfast](../G/Gaffer_Gamgee.md)).
 
 Nó thường được viết tắt là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ran&amp;action=edit&amp;redlink=1" title="Ran (page does not exist)">Ran</a></i>
 

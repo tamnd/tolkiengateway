@@ -19,7 +19,7 @@ images:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-**Ra-hoom-rah!** là tiếng hét lớn bắt đầu bài hát diễu hành do [Ent](../E/Ents.md) của [Rừng Fangorn](../F/Fangorn_Forest.md) hô vang khi họ hành quân trên [Isengard](../I/Isengard.md). Nó xuất hiện trong chương "[Treebeard](<../T/Treebeard_(chapter).md>)". Tiếng kêu đầu tiên kèm theo âm thanh giống như nhịp lăn và tiếng trống trang trọng.
+**Ra-hoom-rah!** là tiếng hét lớn bắt đầu bài hát diễu hành được hát bởi [Ents](../E/Ents.md) của [Rừng Fangorn](../F/Fangorn_Forest.md) khi họ hành quân đến [Isengard](../I/Isengard.md). Nó xuất hiện trong chương "[Treebeard](<../T/Treebeard_(chapter).md>)". Tiếng kêu đầu tiên kèm theo âm thanh giống như nhịp lăn và tiếng trống trang trọng.
 
 ## Văn bản {#Text}
 
@@ -40,7 +40,7 @@ With doom we come, with doom we come!
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1981: <i><a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)">The Lord of the Rings (loạt phim phát thanh 1981)</a></i>:</b>
+<b>1981: <i><a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)">Chúa tể của những chiếc nhẫn (loạt phim phát thanh năm 1981)</a></i>:</b>
 
 <dl><dd>The Ent&#39;s Marching Song is performed by the Ents after they are roused to action by the news of Saruman&#39;s treachery. Merry (portrayed by Richard O&#39;Callaghan) and Pippin (portrayed by John McAndrew) ask Treebeard (portrayed by Stephen Thorne) where they are going, to which Treebeard responds by telling the hobbits that they are heading to Isengard with the intent of &#34;splitting it into splinters, and cracking its walls to rubble&#34;. This is in spite of it likely leading to their own demises. The singing of the ents is portrayed by the <a class="extiw" href="http://en.wikipedia.org/wiki/Ambrosian_Singers" title="wikipedia:Ambrosian Singers">Ambrosian Singers</a> composed by Stephen Oliver.</dd></dl>
 
@@ -55,8 +55,8 @@ With doom we come, with doom we come!
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://www.youtube.com/watch?v=bzegGJjPO4o" rel="noreferrer noopener" target="_blank">Bản trình diễn từ loạt đài phát thanh Slovakia những năm 2000</a>
-- <a class="external text" href="https://www.youtube.com/watch?v=ZLS2B4OQZww" rel="noreferrer noopener" target="_blank">To Isengard video âm nhạc</a> ([1995](../_/1995.md) bài hát metal của <a class="external text" href="https://en.wikipedia.org/wiki/Morgana_Lefay" rel="noreferrer noopener" target="_blank">Morgana Lefay</a> có lời trong bài hát)
-- <a class="external text" href="https://www.youtube.com/watch?v=6wS-uS9pmho" rel="noreferrer noopener" target="_blank">Bài hát diễu hành của Ent</a> do [Clamavi De Profundis hát](../C/Clamavi_De_Profundis.md)
+- <a class="external text" href="https://www.youtube.com/watch?v=ZLS2B4OQZww" rel="noreferrer noopener" target="_blank">Video nhạc To Isengard</a> ([1995](../_/1995.md) bài hát metal của <a class="external text" href="https://en.wikipedia.org/wiki/Morgana_Lefay" rel="noreferrer noopener" target="_blank">Morgana Lefay</a> có lời trong bài hát)
+- <a class="external text" href="https://www.youtube.com/watch?v=6wS-uS9pmho" rel="noreferrer noopener" target="_blank">Bài hát diễu hành của The Ent</a> do [Clamavi De Profundis hát](../C/Clamavi_De_Profundis.md)
 
 <span></span>
 

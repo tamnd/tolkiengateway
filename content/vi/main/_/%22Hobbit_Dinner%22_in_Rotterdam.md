@@ -44,7 +44,7 @@ infobox:
 <p class="tg-quote-footer"><cite>Finishing statement of Tolkien&#39;s speech<sup id="cite_ref-Bio_1-1" class="reference"><a href="#cite_note-Bio-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Hobbit-maaltijd**<sup id="cite_ref-205b_2-0" class="reference"><a href="#cite_note-205b-2">[2]</a></sup> đề cập đến một sự kiện mà [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã tham gia vào [28 tháng 3](28_March.md) [1958](1958.md). Tolkien đã được nhà xuất bản người Hà Lan Het Spectrum và nhà bán sách Voorhoeve & Dietrich mời đến <a class="extiw" href="http://en.wikipedia.org/wiki/Rotterdam" title="wikipedia:Rotterdam">Rotterdam</a> để dự "Hobbit Bữa tối".<sup id="cite_ref-Huff_3-0" class="reference"><a href="#cite_note-Huff-3">[3]</a></sup><sup id="cite_ref-Rene_4-0" class="reference"><a href="#cite_note-Rene-4">[4]</a></sup>
+**Hobbit-maaltijd**<sup id="cite_ref-205b_2-0" class="reference"><a href="#cite_note-205b-2">[2]</a></sup> đề cập đến một sự kiện mà [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã tham gia vào [28 tháng 3](28_March.md) [1958](1958.md). Tolkien đã được nhà xuất bản người Hà Lan Het Spectrum và nhà bán sách Voorhoeve & Dietrich mời đến <a class="extiw" href="http://en.wikipedia.org/wiki/Rotterdam" title="wikipedia:Rotterdam">Rotterdam</a> để dự "Bữa tối Hobbit".<sup id="cite_ref-Huff_3-0" class="reference"><a href="#cite_note-Huff-3">[3]</a></sup><sup id="cite_ref-Rene_4-0" class="reference"><a href="#cite_note-Rene-4">[4]</a></sup>
 
 ## Nền {#Background}
 
@@ -54,13 +54,13 @@ Bữa tối được tổ chức tại hội trường, Flevo-hall, một phần
 
 <h3><span id="Tolkien.27s_speech"></span><span class="mw-headline" id="Tolkien&#39;s_speech">Tolkien&#39;s speech</span></h3>
 
-Tolkien có bài phát biểu ngắn gọn bằng tiếng Anh và tiếng Hà Lan, giữa bài là bài thơ "[Hai mươi năm trôi theo dòng sông dài](../T/Twenty_years_have_flowed_away_down_the_long_river.md)", bằng [Quenya](../Q/Quenya.md) và tiếng Anh. Tuyên bố hoàn thiện của anh ấy được trích dẫn trong *[Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)*của [Carpenter](../H/Humphrey_Carpenter.md).<sup id="cite_ref-Bio_1-2" class="reference"><a href="#cite_note-Bio-1">[1]</a></sup>
+Tolkien có bài phát biểu ngắn gọn bằng tiếng Anh và tiếng Hà Lan, ở giữa là bài thơ "[Hai mươi năm trôi theo dòng sông dài](../T/Twenty_years_have_flowed_away_down_the_long_river.md)", bằng [Quenya](../Q/Quenya.md) và tiếng Anh. Tuyên bố hoàn thiện của ông được trích dẫn trong *[Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)* của [Carpenter](../H/Humphrey_Carpenter.md).<sup id="cite_ref-Bio_1-2" class="reference"><a href="#cite_note-Bio-1">[1]</a></sup>
 
 Trong [1993](1993.md), bản ghi âm bài phát biểu đã được phát hiện bởi [René van Rossenberg](../R/René_van_Rossenberg.md) (vẫn chưa được phát hành), người sau này trong [1995](1995.md) đã xuất bản một bài báo trên *[Mythlore 80](../M/Mythlore_80.md)* trình bày chi tiết các sự kiện của đêm đó. (<a class="external text" href="https://dc.swosu.edu/cgi/viewcontent.cgi?article=2162&amp;context=mythlore" rel="noreferrer noopener" target="_blank">xem tại đây</a>)
 
 Một đoạn trích của đoạn ghi âm đã xuất hiện trong một bài viết trực tuyến trên [2014](2014.md).<sup id="cite_ref-Huff_3-1" class="reference"><a href="#cite_note-Huff-3">[3]</a></sup>
 
-Ngoài lời giải bằng miệng Tolkien còn chuẩn bị một bản thảo viết cho bài phát biểu, trong đó có ba phiên bản của bài thơ Quenya. Trong [2024](2024.md), một phần bài phát biểu và toàn văn bài thơ hiện đã được xuất bản dưới dạng mục 182 trong *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)* (2024).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Bên cạnh lời giải thoát bằng miệng, Tolkien còn chuẩn bị một bản thảo viết cho bài phát biểu, trong đó có ba phiên bản của bài thơ Quenya. Trong [2024](2024.md), một phần bài phát biểu và toàn văn bài thơ hiện đã được xuất bản dưới dạng mục 182 trong *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)* (2024).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Xem thêm {#See_also}
 

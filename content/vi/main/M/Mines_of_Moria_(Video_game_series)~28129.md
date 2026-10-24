@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mines of Moria (video game series)"
 ---
 
-Chuyển hướng tới [Mỏ Moria (loạt trò chơi điện tử)](<Mines_of_Moria_(video_game_series).md>).
+Chuyển hướng tới [Mines of Moria (loạt trò chơi điện tử)](<Mines_of_Moria_(video_game_series).md>).

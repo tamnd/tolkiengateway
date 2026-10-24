@@ -12,7 +12,7 @@ categories:
   - "Songs by Battlelore"
 ---
 
-<i><b>The Grey Pháp sư</b></i> là một bài hát của ban nhạc epic metal [Battlelore](../B/Battlelore.md) về [Gandalf](../G/Gandalf.md). Nó xuất hiện trong album dài đầu tiên của họ, *[...Where the Shadows Lie](../_/%252E..Where_the_Shadows_Lie.md)*, phát hành vào [2002](../_/2002.md).
+<i><b>The Grey Wizard</b></i> là một bài hát của ban nhạc epic metal [Battlelore](../B/Battlelore.md) về [Gandalf](../G/Gandalf.md). Nó xuất hiện trong album dài đầu tiên của họ, *[...Where the Shadows Lie](../_/%252E..Where_the_Shadows_Lie.md)*, phát hành vào [2002](../_/2002.md).
 
 ## Lời bài hát {#Lyrics}
 

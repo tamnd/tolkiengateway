@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Pauline Baynes đã được ký hợp đồng để minh họa cho *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)*. Tolkien mãi tới hôm trước mới được xem ảnh của cô ấy. Anh ấy viết để nói rằng anh ấy hài lòng hơn cả sự mong đợi của những ví dụ đầu tiên. Ông ca ngợi chúng không chỉ là những hình minh họa, chúng còn là một chủ đề bổ sung. Bạn bè lịch sự nhận xét rằng họ giảm bớt văn bản của anh ấy thành lời bình luận về các bức vẽ. <br>
+Pauline Baynes đã được ký hợp đồng minh họa *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)*. Tolkien đã không nhìn thấy những bức ảnh của bà cho đến ngày hôm trước. Ông viết để nói rằng ông hài lòng hơn cả sự mong đợi của những ví dụ đầu tiên. Ông ca ngợi chúng không chỉ là những hình minh họa, chúng còn là một chủ đề bổ sung. Bạn bè lịch sự nhận xét rằng họ giảm bớt văn bản của ông thành lời bình luận về các bức vẽ. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Avoy, Nils Ivar"
 ---
 
-- Người giữ bản quyền [Nils Ivar Agøy](../../main/N/Nils_Ivar_Agøy.md) cấp quyền qua email để sử dụng [Nils Ivar Agøy.png](../../file/N/Nils_Ivar_Agøy.png.md) trên Tolkien Gateway.
+- Người giữ bản quyền [Nils Ivar Agøy](../../main/N/Nils_Ivar_Agøy.md) cấp qua email để sử dụng [Nils Ivar Agøy.png](../../file/N/Nils_Ivar_Agøy.png.md) trên Tolkien Gateway.
 - Ngày: 29 tháng 10 năm 2011
 - Người dùng đã xin phép: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

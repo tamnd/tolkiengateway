@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calenhad: A Beacon of Gondor"
 ---
 
-Chuyển hướng tới [Calenhad: Beacon của Gondor](../C/Calenhad%253A_A_Beacon_of_Gondor.md).
+Chuyển hướng đến [Calenhad: A Beacon of Gondor](../C/Calenhad%253A_A_Beacon_of_Gondor.md).

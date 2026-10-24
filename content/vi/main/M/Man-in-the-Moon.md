@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Man in the Moon"
 ---
 
-Chuyển hướng đến [Người đàn ông trong Mặt Trăng](Man_in_the_Moon.md).
+Chuyển hướng đến [Người đàn ông trên mặt trăng](Man_in_the_Moon.md).

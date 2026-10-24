@@ -26,26 +26,26 @@ images:
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> in <a href="../L/Letter_165.md" title="Letter 165">Letter 165</a> (<a href="../_/30_June.md" title="30 June">June 30</a>, <a href="../_/1955.md" title="1955">1955</a>)</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Rất nhiều người viết sai chính tả "[Tolkien](../J/J.R.R._Tolkien.md)" thành **Tolkein**. Điều này đã xảy ra vào thời của Tolkien; một số đoạn trong *[The Letters of J.R.R. Tolkien](The_Letters_of_J.R.R._Tolkien.md)* thể hiện sự thất vọng của Tolkien về vấn đề này.
+Rất nhiều người viết sai chính tả "[Tolkien](../J/J.R.R._Tolkien.md)" thành **Tolkein**. Điều này đã xảy ra vào thời Tolkien; một số đoạn trong *[The Letters of J.R.R. Tolkien](The_Letters_of_J.R.R._Tolkien.md)* cho thấy sự thất vọng của Tolkien về vấn đề này.
 
 ## Lịch sử {#History}
 
 Việc sử dụng *Tolkein* đầu tiên được ghi nhận bắt nguồn từ [1901](../_/1901.md). *Blue Book* của [Trường King Edward](../K/King_Edward's_School.md) ở [Birmingham](../B/Birmingham.md) vào tháng 1 năm đó có trong danh sách học sinh: "\[*Name.*\] Tolkein … … \[*Initials.*\] J.R.R. \[*Class.*\] xi \[*Date of Birth.*\] 3.1.92 \[*Came.*\] 00/3 \[=quý 3 năm 1900\] \[rồi *Placed.* trong lớp\] xi \[*Parent's Initials.*\] Bà \[*Address.*\] 214, Đường Alcester \[*Business.*\] Độc lập".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong [1922](../_/1922.md), người bán sách [Oxford](../O/Oxford.md) <a class="extiw" href="http://en.wikipedia.org/wiki/Basil_Blackwell" title="wikipedia:Basil Blackwell">Basil Blackwell</a> trong *[Fifty New Poems for Children: An Anthology Selected from Books Recently Published](../F/Fifty_New_Poems_for_Children.md)* có đưa bài thơ *[Goblin Feet](../G/Goblin_Feet.md)*mà ông gán cho một J.R.R. Tolkein. Tên xuất hiện trong mục lục, phía trên bài thơ và trong mục lục.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ở [1922](../_/1922.md), người bán sách [Oxford](../O/Oxford.md) <a class="extiw" href="http://en.wikipedia.org/wiki/Basil_Blackwell" title="wikipedia:Basil Blackwell">Basil Blackwell</a> ở *[Fifty New Poems for Children: An Anthology Selected from Books Recently Published](../F/Fifty_New_Poems_for_Children.md)* có đưa bài thơ *[Goblin Feet](../G/Goblin_Feet.md)* mà ông cho là J.R.R. Tolkein. Tên xuất hiện trong mục lục, phía trên bài thơ và trong mục lục.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Sau đó, cái tên này đã được sử dụng, theo Tolkien, bởi các thư ký trường đại học, ngân hàng và luật sư,<sup id="cite_ref-L324_3-0" class="reference"><a href="#cite_note-L324-3">[3]</a></sup> và ít nhiều tất cả những người đã viết thư cho anh ta.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Sau đó, cái tên này đã được sử dụng, theo Tolkien, bởi các thư ký trường đại học, ngân hàng và luật sư,<sup id="cite_ref-L324_3-0" class="reference"><a href="#cite_note-L324-3">[3]</a></sup> và ít nhiều tất cả những người đã viết thư cho ông.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xuất xứ {#Origin}
 
-Cái tên *Tolkien* thường gắn liền với người Do Thái. Điều này là do người Do Thái thời đó chủ yếu có tên tiếng Yiddish và tiếng Đức, và họ Tolkien đến từ Saxony, Đức.<sup id="cite_ref-L324_3-1" class="reference"><a href="#cite_note-L324-3">[3]</a></sup> Vì những tên tiếng Yiddish và tiếng Đức này thường kết thúc bằng *-stein*nên có thể đó là một sự sửa chữa quá mức.
+Cái tên *Tolkien* thường gắn liền với người Do Thái. Điều này là do người Do Thái thời đó chủ yếu có tên tiếng Yiddish và tiếng Đức, còn gia đình Tolkien đến từ Saxony, Đức.<sup id="cite_ref-L324_3-1" class="reference"><a href="#cite_note-L324-3">[3]</a></sup> Vì những tên tiếng Yiddish và tiếng Đức này thường kết thúc bằng *-stein* nên đây có thể là một sự sửa chữa quá mức.
 
 ## Những sự kiện đáng chú ý khác {#Other_notable_occurences}
 
 - Chỉ mục của *[Pictures under Discussion](../P/Pictures_under_Discussion.md)* có "Tolkein, J.R.R.".
-- Một trong những bài hát của [Brobdingnagian Bards](../B/Brobdingnagian_Bards.md) có tựa đề "<a class="external text" href="http://www.thebards.net/music/lyrics/Tolkien_Lord_of_the_Rings.shtml" rel="noreferrer noopener" target="_blank">Tolkein (The Hobbit & The Lord of the Rings)</a>", nhưng nó đã được đổi tên kể từ đó.
+- Một trong những bài hát của [Brobdingnagian Bards](../B/Brobdingnagian_Bards.md) có tựa đề "<a class="external text" href="http://www.thebards.net/music/lyrics/Tolkien_Lord_of_the_Rings.shtml" rel="noreferrer noopener" target="_blank">Tolkein (Người Hobbit & Chúa tể của những chiếc nhẫn)</a>", nhưng nó đã được đổi tên kể từ đó.
 - Hướng dẫn sử dụng trò chơi điện tử <i><a class="extiw" href="http://en.wikipedia.org/wiki/Dragonsphere" title="wikipedia:Dragonsphere">Dragonsphere</a></i> ghi nhận các tác phẩm của "Tolkein" là nguồn cảm hứng của các nhà thiết kế trò chơi.
-- Bản in đầu tiên của con tem *The Hobbit*, do <a class="extiw" href="http://en.wikipedia.org/wiki/Royal_Mail" title="wikipedia:Royal Mail">Royal Mail</a> phát hành trong [1998](../_/1998.md) cho bộ *Thế giới phép thuật: Sách giả tưởng cổ điển dành cho trẻ em*, có tên "Tolkein".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+- Bản in ban đầu của con tem *The Hobbit*, do <a class="extiw" href="http://en.wikipedia.org/wiki/Royal_Mail" title="wikipedia:Royal Mail">Royal Mail</a> phát hành trong [1998](../_/1998.md) cho bộ *Thế giới phép thuật: Sách giả tưởng cổ điển dành cho trẻ em*, có tên "Tolkein".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 - Các bản sao đầu tiên của lần phát hành lại *[Tolkien: A Look Behind The Lord of the Rings](Tolkien%253A_A_Look_Behind_The_Lord_of_the_Rings.md)* của [Lin Carter](../L/Lin_Carter.md) trong [2003](../_/2003.md) có chữ "Tolkein" trên bìa. Nó đã được sửa chữa kể từ đó.
 - Một tấm bảng ở [Trường Cao đẳng Pembroke](../U/University_of_Oxford.md#Pembroke_College) kỷ niệm khoản quyên góp từ [Saul Zaentz Trust](../S/Saul_Zaentz.md) để vinh danh "J.R.R. Tolkein".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 

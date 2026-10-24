@@ -38,28 +38,28 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Beorhtnoth&amp;action=edit&amp;redlink=1" title="Beorhtnoth (page does not exist)">Beorhtnoth</a>, <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Battle_of_Maldon" title="wikipedia:The Battle of Maldon">The Battle of Maldon</a></i>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C3%ADdwald&amp;action=edit&amp;redlink=1" title="Tídwald (page does not exist)">Tídwald</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Torhthelm&amp;action=edit&amp;redlink=1" title="Torhthelm (page does not exist)">Torhthelm</a></td></tr>
 </tbody></table>
 
-<i><b>Sự trở về quê hương của Con trai Beorhtnoth Beorhthelm</b></i> là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được xuất bản lần đầu trong [1953](../_/1953.md), trong tập 6 của tạp chí học thuật *Các bài tiểu luận và nghiên cứu của các thành viên Hiệp hội Anh*. Hiện tại nó có sẵn nhiều nhất trong phiên bản mới nhất của *[Tree and Leaf](Tree_and_Leaf.md)*.
+<i><b>Sự trở về quê hương của Con trai Beorhtnoth Beorhthelm</b></i> là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được xuất bản lần đầu trong [1953](../_/1953.md), tập 6 của tạp chí học thuật *Các bài tiểu luận và nghiên cứu của các thành viên Hiệp hội Anh*. Hiện tại nó có sẵn nhiều nhất trong phiên bản mới nhất của *[Tree and Leaf](Tree_and_Leaf.md)*.
 
-Đây là một tác phẩm hư cấu lịch sử, lấy cảm hứng từ bài thơ [tiếng Anh cổ](../O/Old_English.md) <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Battle_of_Maldon" title="wikipedia:The Battle of Maldon">Trận chiến Maldon</a></i>. Nó được viết dưới dạng một bài thơ điệp âm, nhưng cũng là một vở kịch, chủ yếu là cuộc đối thoại giữa hai nhân vật sau trận chiến Maldon. Kèm theo tác phẩm là hai bài tiểu luận cũng của Tolkien, một bài trước và một bài sau tác phẩm chính. Do đó, tác phẩm đã được xuất bản được trình bày như sau:
+Đây là một tác phẩm hư cấu lịch sử, lấy cảm hứng từ bài thơ [tiếng Anh cổ](../O/Old_English.md) <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Battle_of_Maldon" title="wikipedia:The Battle of Maldon">Trận chiến Maldon</a></i>. Nó được viết dưới dạng một bài thơ điệp âm, nhưng cũng là một vở kịch, chủ yếu là cuộc đối thoại giữa hai nhân vật sau trận chiến Maldon. Tác phẩm đi kèm với hai bài tiểu luận, cũng của Tolkien, một bài trước và một bài sau tác phẩm chính. Do đó, tác phẩm đã được xuất bản được trình bày như sau:
 
-- "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Beorhtnoth%27s_Death&amp;action=edit&amp;redlink=1" title="Beorhtnoth&#39;s Death (page does not exist)">Cái chết của Beorhtnoth</a>" — một bài luận giới thiệu liên quan đến trận chiến và mảnh tiếng Anh cổ đã truyền cảm hứng cho Tolkien.
+- "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Beorhtnoth%27s_Death&amp;action=edit&amp;redlink=1" title="Beorhtnoth&#39;s Death (page does not exist)">Cái chết của Beorhtnoth</a>" — một bài luận giới thiệu liên quan đến trận chiến và đoạn tiếng Anh cổ đã truyền cảm hứng cho Tolkien.
 - "*The Homecoming of Beorhtnoth Beorhthelm's Son*" — bản thân công việc thực tế.
 - "[Ofermod](../O/Ofermod.md)" — một bài luận tiếp nối tác phẩm chính, thảo luận về ý nghĩa của từ tiếng Anh cổ *[ofermod](../O/Ofermod.md)*.
 
-Bài thơ là một tác phẩm đáng chú ý nhưng ít người biết đến của Tolkien, thể hiện khả năng tái tạo vẻ đẹp ám chỉ của tiếng Anh cổ, đồng thời lệch lạc phong cách theo những cách hết sức hiện đại.
+Bài thơ là một tác phẩm đáng chú ý nhưng ít người biết đến của Tolkien, thể hiện khả năng tái tạo vẻ đẹp ám chỉ của tiếng Anh cổ, nhưng đồng thời đi chệch khỏi phong cách theo những cách hoàn toàn hiện đại.
 
 Những trích đoạn từ những bản thảo chưa xuất bản của *The Homecoming of Beorhtnoth* đã được xuất bản trong [*Tolkien Studies*, Tập 4](Tolkien_Studies%253A_Volume_4.md).
 
 ## Tóm tắt {#Synopsis}
 
-Bản thân vở kịch là câu chuyện của hai nhân vật, <a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C3%ADdwald&amp;action=edit&amp;redlink=1" title="Tídwald (page does not exist)">Tídwald</a> (Tída) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Torhthelm&amp;action=edit&amp;redlink=1" title="Torhthelm (page does not exist)">Torhthelm</a> (Totta), lấy thi thể của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Beorhtnoth&amp;action=edit&amp;redlink=1" title="Beorhtnoth (page does not exist)">Beorhtnoth</a>, Ealdorman của Essex, từ chiến trường ở Maldon. Sau một cuộc tìm kiếm ngắn, cuối cùng họ cũng tìm thấy thi thể của lãnh chúa và thanh kiếm vàng của ông ta. Ở giữa hành động, Totta giết một kẻ cướp bóc trên chiến trường người Anh, và Tída trừng phạt anh ta.
+Bản thân vở kịch là câu chuyện của hai nhân vật, <a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C3%ADdwald&amp;action=edit&amp;redlink=1" title="Tídwald (page does not exist)">Tídwald</a> (Tída) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Torhthelm&amp;action=edit&amp;redlink=1" title="Torhthelm (page does not exist)">Torhthelm</a> (Totta), lấy thi thể của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Beorhtnoth&amp;action=edit&amp;redlink=1" title="Beorhtnoth (page does not exist)">Beorhtnoth</a>, Ealdorman của Essex, từ chiến trường ở Maldon. Sau một cuộc tìm kiếm ngắn, cuối cùng họ cũng tìm thấy thi thể của lãnh chúa và thanh kiếm vàng của ông ta. Ở giữa hành động, Totta giết một kẻ cướp bóc trên chiến trường người Anh, và Tída trừng phạt ông ta.
 
 Vụ giết người tạo cơ hội cho các nhân vật thảo luận về đạo đức trong hành động của Beorhtnoth. Totta là một người lãng mạn, người cho rằng hành động của Beorhtnoth là cao quý một cách bi thảm, trong khi Tída là một nông dân giàu kinh nghiệm chiến đấu, người giữ quan điểm hiện thực, chỉ ra sự điên rồ khi Beorhtnoth quyết định để người Viking băng qua đường đắp cao. Cuối cùng, hai nhân vật chất xác của lãnh chúa lên một chiếc xe đẩy, và bộ phim kết thúc khi họ rời chiến trường để đến tu viện gần đó ở Ely.
 
 ## Lịch sử xuất bản {#Publication_history}
 
 - [1953](../_/1953.md): *[Essays and Studies 1953](../E/Essays_and_Studies_1953.md)*
-- [1966](../_/1966.md): <i><b><a href="The_Tolkien_Reader.md" title="The Tolkien Reader">Đầu đọc Tolkien</a></b></i>
+- [1966](../_/1966.md): <i><b><a href="The_Tolkien_Reader.md" title="The Tolkien Reader">Trình đọc Tolkien</a></b></i>
 - [1975](../_/1975.md): *[Tree and Leaf; Smith of Wootton Major; The Homecoming of Beorhtnoth](Tree_and_Leaf;_Smith_of_Wootton_Major;_The_Homecoming_of_Beorhtnoth.md)*
 - [1980](../_/1980.md): <i><b><a href="../P/Poems_and_Stories.md" title="Poems and Stories">Thơ và Truyện</a></b></i>
 - [1991](../_/1991.md): *[The Homecoming of Beorhtnoth (booklet)](<The_Homecoming_of_Beorhtnoth_(booklet).md>)*
@@ -76,13 +76,13 @@ Vụ giết người tạo cơ hội cho các nhân vật thảo luận về đ�
 </p>
 </blockquote>
 
-Có một bản ghi âm bài thơ do Tolkien đọc, mặc dù chưa bao giờ được phát hành chính thức, một số bản đã được phân phát dưới dạng băng cassette cho những người tham gia [một hội nghị](../J/J.R.R._Tolkien_Centenary_Conference.md) tổ chức năm 1992.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Có một bản ghi âm bài thơ do Tolkien đọc, mặc dù chưa bao giờ được phát hành chính thức, một số bản sao đã được phân phát dưới dạng băng cassette cho những người tham gia [một hội nghị](../J/J.R.R._Tolkien_Centenary_Conference.md) tổ chức vào năm 1992.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Bản ghi âm này hiện đã được làm lại bằng kỹ thuật số và sẽ được phát hành trên CD lần đầu tiên cùng với việc xuất bản cuốn sách năm 2023.
 
 ## Mối quan hệ với di tích {#Relation_to_the_legendarium}
 
-Việc đưa các bài tiểu luận học thuật và bài thơ vào *[The Tolkien Reader](The_Tolkien_Reader.md)* đã bị [Rayner Unwin](../R/Rayner_Unwin.md) nghi ngờ vì cho rằng nó sẽ không phù hợp với một "tuyển tập đại chúng". Tuy nhiên, Tolkien cho rằng những văn bản này "rất phù hợp với sự chia sẻ cảm thông chung được thể hiện trong *[The Lord of the Rings](The_Lord_of_the_Rings.md)*".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Việc đưa các bài luận học thuật và bài thơ vào *[The Tolkien Reader](The_Tolkien_Reader.md)* đã bị [Rayner Unwin](../R/Rayner_Unwin.md) nghi ngờ, người cho rằng nó sẽ không phù hợp với một "tuyển tập đại chúng". Tuy nhiên, Tolkien cho rằng những văn bản này "rất phù hợp với sự phân chia thiện cảm chung được thể hiện trong *[The Lord of the Rings](The_Lord_of_the_Rings.md)*".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 

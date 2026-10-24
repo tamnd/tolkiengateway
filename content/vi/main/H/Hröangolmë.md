@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-**Hröangolmë** hay "truyền thuyết về cơ thể" là một trong những vấn đề được [người Númenor](../N/Númenóreans.md) nghiên cứu nhiều nhất, liên quan đến nghệ thuật chữa bệnh. người Númenor có khả năng tự phục hồi vượt trội so với [Con Người](../M/Men.md) ở [Trung Địa](../M/Middle-earth.md), và bệnh tật rất hiếm xảy ra trong số họ cho đến khi hòn đảo này bị phân hủy. Tuy nhiên, họ đã học được nhiều điều về kiến ​​thức này từ [Eldar](../E/Eldar.md) và họ thấy thực tế là tiếp tục nghiên cứu y học trong trường hợp bệnh tật xuất hiện. Vì vậy, trong chuyến du lịch đầu tiên tới Trung Địa, người Númenor được Con Người người bản địa chào đón nhiều nhất vì họ đã chia sẻ kiến ​​thức về những kỹ năng này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Hröangolmë** hay "truyền thuyết về cơ thể" là một trong những vấn đề được [Númenóreans](../N/Númenóreans.md) nghiên cứu nhiều nhất, liên quan đến nghệ thuật chữa bệnh. Người Númenóreans có khả năng tự phục hồi vượt trội so với [Con người](../M/Men.md) ở [Trung Địa](../M/Middle-earth.md), và bệnh tật rất hiếm khi xảy ra với họ cho đến khi hòn đảo này suy tàn. Tuy nhiên, họ đã học được nhiều điều về truyền thuyết này từ [Eldar](../E/Eldar.md) và họ thấy việc tiếp tục nghiên cứu y học trong trường hợp bệnh tật xuất hiện là thực tế. Vì vậy, trong chuyến du hành đầu tiên đến Trung Địa, người Númenóre được Đàn ông bản địa chào đón nhiều nhất vì họ chia sẻ kiến ​​thức về những kỹ năng này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

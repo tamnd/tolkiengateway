@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "King Sheave"
 ---
 
-Chuyển hướng tới [Vua Sheave](../K/King_Sheave.md).
+Chuyển hướng tới [King Sheave](../K/King_Sheave.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mike Grealish"
 ---
 
-Chuyển hướng tới [Mike Austin Grealish](Mike_Grealish.md).
+Chuyển hướng tới [Mike Grealish](Mike_Grealish.md).

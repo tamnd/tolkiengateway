@@ -16,11 +16,11 @@ images:
   - "Disambig.png"
 ---
 
-**Các Cảng Xám** có thể đề cập đến:
+**The Grey Havens** có thể đề cập đến:
 
 ## Địa điểm {#Locations}
 
-- *[Grey Havens](../G/Grey_Havens.md)*, hoặc *Mithlond*, các bến cảng ở bờ biển phía tây của [Eriador](../E/Eriador.md) tại [Trung Địa](../M/Middle-earth.md).
+- *[Grey Havens](../G/Grey_Havens.md)* hoặc *Mithlond*, các bến cảng trên bờ biển phía tây của [Eriador](../E/Eriador.md) ở [Trung Địa](../M/Middle-earth.md).
 
 ## Chương {#Chapters}
 
@@ -32,8 +32,8 @@ images:
 
 ## Âm nhạc {#Music}
 
-- *[Journey to the Grey Havens](../J/Journey_to_the_Grey_Havens.md)*, bài hát từ [The Lord of the Rings: The Return of the King - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md).
-- *[The Grey Havens (soundtrack)](<The_Grey_Havens_(soundtrack).md>)*, bài hát trong [The Lord of the Rings: The Return of the King - Nhạc phim gốc](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md).
+- *[Journey to the Grey Havens](../J/Journey_to_the_Grey_Havens.md)*, bản nhạc từ [The Lord of the Rings: The Return of the King - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md).
+- *[The Grey Havens (soundtrack)](<The_Grey_Havens_(soundtrack).md>)*, bản nhạc từ [The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md).
 
 <br>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "List of Tolkien Encyclopedias"
 ---
 
-Chuyển hướng đến [Danh sách Tolkien Bách khoa toàn thư](List_of_Tolkien_Encyclopedias.md).
+Chuyển hướng đến [Danh sách bách khoa toàn thư Tolkien](List_of_Tolkien_Encyclopedias.md).

@@ -75,7 +75,7 @@ infobox:
     - Bởi: Tom Stafford
 - Tin tức về Belladonna
     - Bởi: Jessica Yates
-- Sự hủy diệt của Nhẫn
+- Sự phá hủy chiếc nhẫn
     - Bởi: Reg Arnold
 - Đại bàng đã hạ cánh
     - Bởi: nhiều người đóng góp

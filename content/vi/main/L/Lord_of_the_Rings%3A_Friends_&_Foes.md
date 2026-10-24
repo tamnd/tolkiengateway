@@ -27,7 +27,7 @@ infobox:
 
 **Chúa tể của những chiếc nhẫn: Bạn bè và Kẻ thù** là bản mở rộng đầu tiên của trò chơi board [Chúa tể của những chiếc nhẫn](<Lord_of_the_Rings_(board_game).md>).
 
-Nó giới thiệu hai địa điểm mới, [Bree](../B/Bree.md) và [Isengard](../I/Isengard.md), cũng như một bộ bài kẻ thù mới, chẳng hạn như [Barrow-wight](../B/Barrow-wights.md) và [Warg](../W/Wargs.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nó giới thiệu hai địa điểm mới, [Bree](../B/Bree.md) và [Isengard](../I/Isengard.md), cũng như một bộ bài kẻ thù mới, chẳng hạn như [Barrow-wights](../B/Barrow-wights.md) và [Wargs](../W/Wargs.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Một gói nhỏ gồm ba thẻ mới mở rộng *Friends &amp; Foes*, có tên *The Black Gate*, đã được tặng tại các hội nghị. Hai trong số chúng sau đó đã được đưa vào bản mở rộng *Sauron*, trong khi một trong số chúng vẫn độc quyền.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 

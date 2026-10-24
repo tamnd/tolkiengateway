@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Straight Road"
 ---
 
-Chuyển hướng đến [Con Đường Thẳng](Straight_Road.md).
+Chuyển hướng đến [Đường thẳng](Straight_Road.md).

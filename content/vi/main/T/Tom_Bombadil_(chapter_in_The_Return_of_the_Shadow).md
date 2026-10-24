@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tom Bombadil (chapter)"
 ---
 
-Chuyển hướng đến [Tom Bombadil (chương)](<Tom_Bombadil_(chapter).md>).
+Chuyển hướng tới [Tom Bombadil (chương)](<Tom_Bombadil_(chapter).md>).

@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen229.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/77/AmonHen229.jpg/320px-AmonHen229.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/77/AmonHen229.jpg/480px-AmonHen229.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/77/AmonHen229.jpg/640px-AmonHen229.jpg 2x" data-file-width="707" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 229</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Francesca Barbini</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../M/May.md" title="May">May</a> <a href="../_/2011.md" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">36</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_228.md" title="Amon Hen 228">Amon Hen 228</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_230.md" title="Amon Hen 230">Amon Hen 230</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 229</b> là số thứ hai trăm hai mươi chín của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 5](../M/May.md) [2011](../_/2011.md).
+<b><i>Amon Hen</i> 229</b> là số thứ hai trăm hai mươi chín của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 5](../M/May.md) [2011](../_/2011.md).
 
 ## Nội dung {#Contents}
 
@@ -66,7 +66,7 @@ Thông báo - [Oxonmoot](../O/Oxonmoot_2011.md)
     - Bởi: Jessica Yates
 - Báo cáo: Bài phát biểu trong bữa tối thường niên
     - Bởi: [Charles E. Noad](../C/Charles_Noad.md)
-- Cuộc sống ảo của tôi trong Trung Địa
+- Cuộc sống ảo của tôi ở Trung địa
     - Bởi: Francesca Barbini
 - Và những ngôi sao đã bị ẩn giấu
     - Bởi: [Kristine Larsen](../K/Kristine_Larsen.md)
@@ -80,7 +80,7 @@ Thông báo - [Oxonmoot](../O/Oxonmoot_2011.md)
     - Bởi: Clay Evans
 - Tác phẩm nghệ thuật: *Ranger*
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
-- Tin từ [Fangorn](../F/Fangorn_Forest.md)
+- Tin tức từ [Fangorn](../F/Fangorn_Forest.md)
     - Bởi: Carol Brownlow
 - Thư
 - Vòng quanh thế giới trong 80(?) [Xã hội](../T/Tolkien_Societies~67099.md)

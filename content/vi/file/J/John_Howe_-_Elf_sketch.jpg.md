@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Phác họa một [yêu tinh](../../main/E/Elf.md).
+Bản phác thảo của một [Tiên](../../main/E/Elf.md).
 
 ## Giấy phép {#Licensing}
 

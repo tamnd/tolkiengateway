@@ -68,7 +68,7 @@ Sự kiện xảy ra vào ngày 16 tháng 4.
 - **[1881](1881.md)** – Nghệ sĩ [Josef Madlener](../J/Josef_Madlener.md) ra đời.
 - **[1891](1891.md)** – [Arthur Tolkien](../A/Arthur_Tolkien.md) và [Mabel Suffield](../M/Mabel_Suffield.md) kết hôn.
 - **[1940](1940.md)** - Nghệ sĩ [Margrethe II của Đan Mạch](../M/Margrethe_II_of_Denmark.md) ra đời.
-- **[2007](2007.md)** - Ngày thứ hai của [The Children of Húrin Bữa tiệc phát hành](../T/The_Children_of_Húrin_Release_Party.md) được tổ chức bởi [Tolkien Gateway](../T/Tolkien_Gateway.md).
+- **[2007](2007.md)** - Ngày thứ hai của [The Children of Húrin Release Party](../T/The_Children_of_Húrin_Release_Party.md) được tổ chức bởi [Tolkien Gateway](../T/Tolkien_Gateway.md).
 - **[2020](2020.md)** - Họa sĩ hoạt hình [Gene Deitch](../G/Gene_Deitch.md), đạo diễn [*The Hobbit* (phim 1966)](<../T/The_Hobbit_(1967_film).md>) qua đời.
 
 ## Trong Arda {#In_Arda}

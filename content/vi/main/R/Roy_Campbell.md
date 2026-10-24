@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Campbell, Roy"
 ---
 
-**Ignatius Royston Dunnachie Campbell** ([2 tháng 10](../_/2_October.md) [1901](../_/1901.md) – [23 tháng 4](../_/23_April.md) [1957](../_/1957.md)) là thành viên không thường xuyên của [Inklings](../I/Inklings.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+**Ignatius Royston Dunnachie Campbell** ([2 tháng 10](../_/2_October.md) [1901](../_/1901.md) – [23 tháng 4](../_/23_April.md) [1957](../_/1957.md)) thỉnh thoảng là thành viên của [Inklings](../I/Inklings.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 <br>
 

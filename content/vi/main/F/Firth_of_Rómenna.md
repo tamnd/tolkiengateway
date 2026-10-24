@@ -13,11 +13,11 @@ categories:
   - "Númenor"
 ---
 
-**Firth of Rómenna** là một vùng nước nhỏ có cửa hẹp phía đông dẫn vào [Vịnh Rómenna](../B/Bay_of_Rómenna.md) ở phía đông của [Númenor](../N/Númenor.md). Bờ phía bắc của nó giáp với [Orrostar](../O/Orrostar.md) trong khi đầu phía tây và bờ phía nam của nó giáp với [Arandor](../A/Arandor.md). Thứ nhất là vị trí của thành phố [Rómenna](../R/Rómenna.md), cảng chính của Númenor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Firth of Rómenna** là một vùng nước nhỏ có cửa hẹp phía đông dẫn vào [Vịnh Rómenna](../B/Bay_of_Rómenna.md) ở phía đông của [Númenor](../N/Númenor.md). Bờ phía bắc của nó giáp với [Orrostar](../O/Orrostar.md) trong khi đầu phía tây và bờ phía nam của nó giáp với [Arandor](../A/Arandor.md). Đầu tiên là vị trí của thành phố [Rómenna](../R/Rómenna.md), cảng chính của Númenor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Cậu bé Thân vương [Aldarion](../A/Aldarion.md) dành tất cả thời gian có thể ở nhà ông nội [Vëantur](../V/Vëantur.md), nằm ở phía nam của cây thông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Hoàng tử trẻ [Aldarion](../A/Aldarion.md) dành mọi thời gian có thể tại nhà của ông nội [Vëantur](../V/Vëantur.md), nằm ở phía nam của cây thông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Vào những ngày sau của Númenor, [Tín đồ](Faithful.md) bị [Ar-Gimilzôr](../A/Ar-Gimilzôr.md) buộc phải sống ở Rómenna. Vào thời điểm [Ar-Pharazôn](../A/Ar-Pharazôn.md) hạn chế này hóa ra lại là một điều may mắn, vì chín con tàu của [Elendil](../E/Elendil.md) nằm ở vịnh thứ nhất đã được bảo vệ khỏi những tác động đầu tiên khi hòn đảo sụp đổ và có thể trốn thoát vào bờ biển của [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+Vào những ngày cuối cùng của Númenor, những [Tín đồ](Faithful.md) bị [Ar-Gimilzôr](../A/Ar-Gimilzôr.md) buộc phải sống ở Rómenna. Vào thời [Ar-Pharazôn](../A/Ar-Pharazôn.md) sự ràng buộc này hóa ra lại là một điều may mắn, vì chín con tàu của [Elendil](../E/Elendil.md) nằm ở vịnh nhỏ đã được bảo vệ khỏi những tác động đầu tiên khi hòn đảo sụp đổ và có thể trốn thoát đến bờ biển [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

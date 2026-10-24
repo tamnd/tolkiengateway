@@ -14,10 +14,10 @@ sort_keys:
   "Leaf by Niggle": "Parish, Mr."
 ---
 
-**Ông. Giáo xứ** là một ký tự trong *[Leaf by Niggle](../L/Leaf_by_Niggle.md)*. Anh ta là hàng xóm của [Niggle](../N/Niggle.md) và là chồng của [Bà. Giáo xứ](Mrs._Parish.md). Parish là một ông già, người nhờ người hàng xóm làm một số việc nhà cho mình. Vì Niggle là một người tốt nên anh ấy đồng ý, mặc dù anh ấy thích vẽ tranh hơn. Parish chưa bao giờ hiểu được nghệ thuật của mình.
+**Ông. Giáo xứ** là một ký tự trong *[Leaf by Niggle](../L/Leaf_by_Niggle.md)*. Ông ta là hàng xóm của [Niggle](../N/Niggle.md) và là chồng của [Bà. Giáo xứ](Mrs._Parish.md). Parish là một ông già, người nhờ người hàng xóm làm một số việc nhà cho mình. Vì Niggle là một người tốt nên ông đồng ý, mặc dù ông thích vẽ tranh hơn. Parish chưa bao giờ hiểu được nghệ thuật của mình.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1992: <i><a href="../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md" title="Tales from the Perilous Realm (1992 radio series)">Tales from the Perilous Realm loạt đài</a></i></b>
+<b>1992: <i><a href="../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md" title="Tales from the Perilous Realm (1992 radio series)">Những câu chuyện trên đài phát thanh Vương quốc nguy hiểm</a></i></b>
 
 <dl><dd>Mr. Parish is voiced by <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Fleming&amp;action=edit&amp;redlink=1" title="John Fleming (page does not exist)">John Fleming</a>.</dd></dl>

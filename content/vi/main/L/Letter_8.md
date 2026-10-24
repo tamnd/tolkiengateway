@@ -36,11 +36,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien thông báo cho Tiến sĩ Baillie rằng ông đã được bầu (xem [Thư 7](Letter_7.md)) vào [chức giáo sư Rawlinson và Bosworth](../R/Rawlinson_and_Bosworth_Professor_of_Anglo-Saxon.md) tại [Oxford](../O/Oxford_University.md), và do đó ông đang nộp đơn từ chức. Anh ấy xin lỗi vì cuộc hẹn quá ngắn ngủi tại Leeds, nơi anh ấy chỉ mới làm việc được 5 năm.
+Tolkien thông báo với Tiến sĩ Baillie rằng ông đã được bầu (xem [Thư 7](Letter_7.md)) vào [chức giáo sư Rawlinson và Bosworth](../R/Rawlinson_and_Bosworth_Professor_of_Anglo-Saxon.md) tại [Oxford](../O/Oxford_University.md), và do đó ông đang đệ đơn từ chức. Ông xin lỗi vì cuộc hẹn quá ngắn ngủi tại Leeds, nơi ông chỉ mới làm việc được 5 năm.
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Tolkien hy vọng Tiến sĩ Baillie sẽ đi vắng "trong mùa hè hoàn hảo này" và nói rằng ông ấy cũng đang thông báo cho Nhà đăng ký về việc từ chức của mình, mặc dù "[Abercrombie](Lascelles_Abercrombie.md) biết và đang bận". Anh ấy bị “dằn vặt” bởi khối lượng công việc ở trường nên không thể tham gia vào chiến dịch hiện tại của trường Đại học.
+Tolkien hy vọng Tiến sĩ Baillie sẽ đi vắng "trong mùa hè hoàn hảo này" và nói rằng ông ấy cũng đang thông báo cho Nhà đăng ký về việc từ chức của mình, mặc dù "[Abercrombie](Lascelles_Abercrombie.md) biết và đang bận". Ông bị “dằn vặt” bởi khối lượng công việc ở trường nên không thể tham gia vào chiến dịch hiện tại của trường Đại học.
 
 <br>
 

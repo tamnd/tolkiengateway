@@ -29,8 +29,8 @@ categories:
 ## Nội dung {#Contents}
 
 - [Chuyến bay của Noldoli](../T/The_Flight_of_the_Noldoli_from_Valinor.md)
-- [Đoạn của một điệp âm của Eärendel](../F/Fragment_of_an_alliterative_Lay_of_Eärendel.md)
-- [Nằm của Sự sụp đổ của Gondolin](../T/The_Lay_of_the_Fall_of_Gondolin.md)
+- [Mảnh của Lay of Eärendel ám chỉ](../F/Fragment_of_an_alliterative_Lay_of_Eärendel.md)
+- [Sự sụp đổ của Gondolin](../T/The_Lay_of_the_Fall_of_Gondolin.md)
 
 <span></span>
 

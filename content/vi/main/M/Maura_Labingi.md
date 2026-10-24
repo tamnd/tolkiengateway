@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Frodo Baggins"
 ---
 
-Chuyển hướng đến [Frodo Baggins](../F/Frodo_Baggins.md).
+Chuyển hướng tới [Frodo Baggins](../F/Frodo_Baggins.md).

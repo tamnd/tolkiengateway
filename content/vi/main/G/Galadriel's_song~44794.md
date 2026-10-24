@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galadriel's Song"
 ---
 
-Chuyển hướng đến Bài hát của [Galadriel](Galadriel's_Song.md).
+Chuyển hướng đến [Bài hát của Galadriel](Galadriel's_Song.md).

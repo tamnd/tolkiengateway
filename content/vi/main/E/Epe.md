@@ -17,7 +17,7 @@ sort_keys:
 
 **epe** là giới từ [Quenya](../Q/Quenya.md) có nghĩa là "trước".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-[Eldar](Eldar.md) thời gian tưởng tượng trong tương lai (thời gian diễn ra "sau" hiện tại) là "trước" chúng, do đó giới từ có nghĩa là "trước" trong các mối quan hệ không gian có nghĩa là "sau" khi áp dụng cho thời gian.
+[Eldar](Eldar.md) tưởng tượng thời gian trong tương lai (thời gian "sau" hiện tại) là "trước" họ, do đó giới từ có nghĩa là "trước" trong các mối quan hệ không gian có nghĩa là "sau" khi áp dụng cho thời gian.
 
 ## Ví dụ {#Examples}
 

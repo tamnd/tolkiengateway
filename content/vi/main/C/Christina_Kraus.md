@@ -26,7 +26,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Christina Kraus</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
-**Christina Kraus** là một họa sĩ minh họa người Đức. Với tư cách là một nghệ sĩ [Magic: The Gathering](../M/Magic%253A_The_Gathering.md), cô đã sáng tạo nghệ thuật cho các bản mở rộng [Tales of Trung Địa](../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md) và [The Hobbit](../M/Magic%253A_The_Gathering_-_The_Hobbit.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Christina Kraus** là một họa sĩ minh họa người Đức. Với tư cách là một nghệ sĩ [Magic: The Gathering](../M/Magic%253A_The_Gathering.md), cô đã sáng tạo nghệ thuật cho các bản mở rộng [Tales of Middle-earth](../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md) và [The Hobbit](../M/Magic%253A_The_Gathering_-_The_Hobbit.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

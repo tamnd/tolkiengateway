@@ -21,23 +21,23 @@ langlinks:
     url: "https://kontu.wiki/Ugl%C3%BAk_u_bagronk_sha_pushdug_Saruman-glob_b%C3%BAbhosh_skai"
 ---
 
-**Uglúk u bagronk sha pushdug Saruman-glob búb-hosh skai** là một cụm từ trong [Hắc Ngữ](../B/Black_Speech.md), được nói bởi một [Uruk](../O/Orcs.md) không xác định của [Mordor](../M/Mordor.md). Đó là cụm từ dùng để thể hiện sự khinh thường nhất định trong cách đối xử với tù nhân [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md), nhằm vào [Uglúk](Uglúk.md) và Orc của [Isengard](../I/Isengard.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Uglúk u bagronk sha pushdug Saruman-glob búb-hosh skai** là một cụm từ trong [Bài phát biểu của người da đen](../B/Black_Speech.md), được nói bởi một [Uruk](../O/Orcs.md) không xác định của [Mordor](../M/Mordor.md). Đó là cụm từ dùng để thể hiện sự khinh thường nhất định trong cách đối xử với các tù nhân [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md), nhằm vào [Uglúk](Uglúk.md) và lũ Orc của [Isengard](../I/Isengard.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bản dịch {#Translation}
 
-Cụm từ này không được dịch trong văn bản và trong Phụ lục F nó chỉ được xác định là "*dạng thấp kém hơn \[của Hắc Ngữ\] được sử dụng bởi những người lính của [Tháp Hắc Ám](../B/Barad-dûr.md)*".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tuy nhiên, tồn tại ba cách dịch khác nhau của câu này.
+Cụm từ này không được dịch trong văn bản và trong Phụ lục F, nó chỉ được xác định là "*dạng thấp kém hơn \[của Black Speech\] được sử dụng bởi những người lính của [The Dark Tower](../B/Barad-dûr.md)*".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tuy nhiên, tồn tại ba cách dịch khác nhau của câu này.
 
 ### Bản dịch đầu tiên {#First_translation}
 
-Bản dịch này xuất hiện trong bản nháp của Phụ lục F, được xuất bản trong *[The Peoples of Middle-earth](../T/The_Peoples_of_Middle-earth.md)*. Ở đây, nó được dịch là "*Uglúk xuống hầm chứa rác, sha! đồ bẩn thỉu; Saruman-đồ ngu vĩ đại, skai!*"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Bản dịch này nằm trong bản thảo của Phụ lục F, đăng trong *[The Peoples of Middle-earth](../T/The_Peoples_of_Middle-earth.md)*. Ở đây, nó được dịch là "*Uglúk xuống hầm chứa rác, sha! đồ rác rưởi; tên ngốc Saruman vĩ đại, skai!*"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ### Bản dịch thứ hai {#Second_translation}
 
-Trong bản dịch thứ hai, được xuất bản trong một bài viết của [Carl F. Hostetter](../C/Carl_F._Hostetter.md) ở [*Vinyar Tengwar* 26](../V/Vinyar_Tengwar_26.md), cụm từ có nội dung "*Uglúk u bagronk sha pushdug Saruman-glob – búb-hosh skai!*", và bản dịch "*Uglúk xuống hố phân với Saruman-đồ bẩn thỉu - ruột lợn, ôi!*". Hostetter xác định người nói là Grishnákh.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong bản dịch thứ hai, được xuất bản trong một bài viết của [Carl F. Hostetter](../C/Carl_F._Hostetter.md) trong [*Vinyar Tengwar* 26](../V/Vinyar_Tengwar_26.md), cụm từ này có nội dung "*Uglúk u bagronk sha pushdug Saruman-glob – búb-hosh skai!*", và bản dịch "*Uglúk đến hố phân với thứ rác rưởi Saruman-glob hôi hám - ruột lợn, ôi!*". Hostetter xác định người nói là Grishnákh.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ### Bản dịch thứ ba {#Third_translation}
 
-Một bản dịch khác, được xuất bản trong [*Parma Eldalamberon* 17](../P/Parma_Eldalamberon_17.md), là từ cuối những năm 1950, và theo như những gì được biết, đó là lời cuối cùng của Tolkien về chủ đề này. Ở đây câu được chia thành một câu dài và một câu ngắn - chỉ thể hiện sự khinh thường hơn.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <br>
+Một bản dịch khác, được xuất bản trong [*Parma Eldalamberon* 17](../P/Parma_Eldalamberon_17.md), là từ cuối những năm 1950, và theo như những gì được biết, đây là lời cuối cùng của Tolkien về chủ đề này. Ở đây câu được chia thành một câu dài và một câu ngắn - chỉ thể hiện sự khinh thường hơn.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <br>
 
 <dl><dd>&#34;<i>[Ugluk] u bagronk sha pushdug Saruman-glob.</i><br/><i>búbhosh - skai!</i>&#34;</dd></dl>
 

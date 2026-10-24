@@ -58,11 +58,11 @@ Mặc dù ông thấy tự hào về số lượng con cháu của mình, nhưng
 
 Hazad kết hôn muộn vì lòng ngưỡng mộ dành cho người mẹ quá cố của mình, Elmar. Ông có nhiều người con, trong đó có [Tal-Elmar](<../T/Tal-Elmar_(character).md>), đứa con thứ mười bảy của ông.
 
-Cùng với con trai út của mình, ông đã gửi thông điệp xấu tới [Mogru](../M/Mogru.md) về những con tàu [Númenórean](../N/Númenóreans.md) tiến đến Đồi Agar.
+Cùng với con trai út của mình, ông đã gửi thông điệp xấu tới [Mogru](../M/Mogru.md) của những con tàu [Númenórean](../N/Númenóreans.md) đang tiến đến Đồi Agar.
 
 ## Từ nguyên {#Etymology}
 
-Một số nhà phân tích đã nhận thấy sự giống nhau của *Hazad* với [Người lùn](../K/Khuzdul.md) *[Khazâd](../K/Khazâd.md)*, "Người Lùn" và [Adûnaic](../A/Adûnaic.md) *hazad*, "bảy". Khi đó, tên này sẽ có nghĩa là "Người lùn (có râu, nhỏ hơn)" hoặc "Đứa con thứ bảy", tuy nhiên, điều này vẫn là suy đoán.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Một số nhà phân tích đã nhận thấy sự giống nhau của *Hazad* với [Người lùn](../K/Khuzdul.md) *[Khazâd](../K/Khazâd.md)*, "Người lùn" và [Adûnaic](../A/Adûnaic.md) *hazad*, "bảy". Khi đó, cái tên này sẽ có nghĩa là "Người lùn (có râu, nhỏ hơn)" hoặc "Đứa con thứ bảy", tuy nhiên, đây vẫn chỉ là suy đoán.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -81,7 +81,7 @@ Hazad Longbeard ban đầu có tên là **Tal-argan Longbeard**. Trong một ghi
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Khung thời gian chính xác về cuộc đời của Hazad và Tal-Elmar không được nêu rõ, nhưng vì <a href="../N/Númenóreans.md" title="Númenóreans">người Númenor</a> được coi là những kẻ thù địch trong câu chuyện, nên có thể nó đề cập đến thời điểm sau khi <a href="../S/Shadow.md" title="Shadow">Bóng Tối</a> thất thủ trên Đảo, khi chúng bắt đầu thống trị người bản xứ <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a>; điều này trỏ đến một ngày vào khoảng <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_1800.md" title="Second Age 1800">1800</a>. Xem <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_B.md" title="Appendix B">Phụ lục B</a>, "Thời đại thứ hai"</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Khung thời gian chính xác về cuộc đời của Hazad và Tal-Elmar không được nêu rõ, nhưng vì <a href="../N/Númenóreans.md" title="Númenóreans">Númenóreans</a> được coi là những kẻ thù địch trong câu chuyện, nên có thể nó đề cập đến thời điểm sau khi <a href="../S/Shadow.md" title="Shadow">Bóng tối</a> đổ xuống Đảo, khi họ bắt đầu thống trị người bản địa ở <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a>; điều này trỏ đến một ngày vào khoảng <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_1800.md" title="Second Age 1800">1800</a>. Xem <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">Chúa tể của những chiếc nhẫn</a></i>, <a href="../A/Appendix_B.md" title="Appendix B">Phụ lục B</a>, "Thời đại thứ hai"</span>
 </li>
 </ol></div></span>
 

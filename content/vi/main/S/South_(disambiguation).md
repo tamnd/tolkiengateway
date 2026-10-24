@@ -16,19 +16,19 @@ images:
 
 **Miền Nam** có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
 ### Vị trí {#Location}
 
-- **[Harad](../H/Harad.md)** (có nghĩa là "Miền Nam" trong [Sindarin](Sindarin.md)), vùng đất phía Nam hầu như chưa được biết đến [Trung Địa](../M/Middle-earth.md).
+- **[Harad](../H/Harad.md)** (có nghĩa là "Miền Nam" trong [Sindarin](Sindarin.md)), vùng đất phía nam hầu như chưa được biết đến của [Trung Địa](../M/Middle-earth.md).
 - [Thể loại:Vùng đất phương Nam](../../category/S/Southern_lands.md)
 
 - [Suối nguồn phía Nam](../F/Fountains_of_the_South.md)
-- [Con đường Bắc-Nam](../N/North-South_Road.md)
-- [South Downs](South_Downs.md)
+- [Đường Bắc Nam](../N/North-South_Road.md)
+- [Phía Nam](South_Downs.md)
 - [Phía Nam](Southfarthing.md)
-- [South Gondor](South_Gondor.md)
-- [South Ithilien](South_Ithilien.md)
+- [Nam Gondor](South_Gondor.md)
+- [Nam Ithilien](South_Ithilien.md)
 - [Vương quốc phía Nam](South-kingdom.md), tên gọi khác của [Gondor](../G/Gondor.md).
 - [Ngõ phía Nam](South_Lane.md)
 - [Vùng sâu phía Nam](South_Undeep.md)
@@ -37,14 +37,14 @@ images:
 
 - [Dúnedain của miền Nam](../D/Dúnedain_of_the_South.md), một bộ phận của [Dúnedain](../D/Dúnedain.md).
 - [Quân đội miền Nam](Southern_Army.md), một sư đoàn của quân đội [Gondor](../G/Gondor.md).
-- [các lãnh địa phía Nam](Southern_Fiefs.md), tỉnh [Gondor](../G/Gondor.md).
+- [Các thái ấp phía Nam](Southern_Fiefs.md), các tỉnh [Gondor](../G/Gondor.md).
 - [Sao Phương Nam](Southern_Star.md), nhiều loại [cỏ ống](../P/Pipe-weed.md).
 
 ## Thế giới thực {#Real_World}
 
 ### Sách {#Books}
 
-- **[Người Nhẫn đi về hướng Nam](../T/The_Ring_goes_South~59655.md)**, chương thứ ba của cuốn thứ hai trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*.
+- **[Chiếc nhẫn đi về phương Nam](../T/The_Ring_goes_South~59655.md)**, chương thứ ba của cuốn thứ hai trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*.
 
 - *[Southern Gondor: The People](Southern_Gondor%253A_The_People.md)*, phần bổ sung [1996](../_/1996.md) cho [MERP](../M/Middle-earth_Role_Playing.md).
 - *[Southern Gondor: The Land](Southern_Gondor%253A_The_Land.md)*, phần bổ sung [1996](../_/1996.md) cho [MERP](../M/Middle-earth_Role_Playing.md).
@@ -52,7 +52,7 @@ images:
 
 ### Khác {#Other_2}
 
-- [The Nhẫn Goes South (nhạc phim)](<../T/The_Ring_Goes_South_(soundtrack).md>), một ca khúc từ *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)*của [Howard Shore](../H/Howard_Shore.md).
+- [The Ring Goes South (nhạc phim)](<../T/The_Ring_Goes_South_(soundtrack).md>), một ca khúc từ [Howard Shore](../H/Howard_Shore.md) của *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)*.
 - [Nam Phi](../../category/S/South_Africa.md)
 - [South Away](South_Away.md), một bài hát của ban nhạc [Summoning](Summoning.md).
 

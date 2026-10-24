@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "MUME: Multi Users in Middle Earth"
 ---
 
-Chuyển hướng đến [MUME: Nhiều người dùng ở Trung Địa](MUME%253A_Multi_Users_in_Middle_Earth.md).
+Chuyển hướng đến [MUME: Multi Users in Middle Earth](MUME%253A_Multi_Users_in_Middle_Earth.md).

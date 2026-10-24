@@ -20,7 +20,7 @@ images:
 
 Vào [28 tháng 2](../_/28_February.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho cô Jenny Hall**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Chủ đề:** (1) Từ nguyên của '[Crickhollow](../C/Crickhollow.md)'. (2) Bản chất thực sự của '[cây du](../T/Tree-men.md)' trong [bộ Shire](../T/The_Shire.md).
+- **Chủ đề:** (1) Từ nguyên của '[Crickhollow](../C/Crickhollow.md)'. (2) Bản chất thực sự của '[cây du](../T/Tree-men.md)' ở [Quận](../T/The_Shire.md).
 - **Xuất bản:** Không có. Đấu giá bởi *Christie's* (lô 52).
 - **Mô tả:** Một trang, 76 Sandfield Road, Oxford tiêu đề thư, có chữ ký của J.R.R. Tolkien.
 

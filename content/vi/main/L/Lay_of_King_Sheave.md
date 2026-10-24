@@ -40,7 +40,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../K/King_Sheave.md" title="King Sheave">King Sheave</a>, <i><a href="../T/The_Notion_Club_Papers.md" title="The Notion Club Papers">The Notion Club Papers</a></i>, <a href="../N/Notion_Club.md" title="Notion Club">Notion Club</a></td></tr>
 </tbody></table>
 
-<i><b>Lay of Vua Sheave</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là lay được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về [Vua Sheave](../K/King_Sheave.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>Lay of King Sheave</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một lay được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về [King Sheave](../K/King_Sheave.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

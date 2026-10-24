@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Notability policy"
 ---
 
-Chuyển hướng tới [Tolkien Gateway:Chính sách về độ nổi bật](Notability_policy.md).
+Chuyển hướng tới [Cổng Tolkien:Chính sách về độ nổi bật](Notability_policy.md).

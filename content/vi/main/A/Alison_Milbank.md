@@ -22,7 +22,7 @@ sort_keys:
   "Religious workers": "Milbank, Alison"
 ---
 
-Tiến sĩ **Alison Milbank** là Phó Giáo sư tại Khoa Thần học và Nghiên cứu Tôn giáo tại Đại học Nottingham, giảng dạy về Văn học và Thần học. Cô ấy cũng là một Linh mục Anh giáo.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tiến sĩ **Alison Milbank** là Phó Giáo sư tại Khoa Thần học và Nghiên cứu Tôn giáo tại Đại học Nottingham, giảng dạy về Văn học và Thần học. Bà cũng là một Linh mục Anh giáo.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 

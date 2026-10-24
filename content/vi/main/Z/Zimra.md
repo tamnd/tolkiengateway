@@ -16,7 +16,7 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**zimra** được cho là [Adûnaic](../A/Adûnaic.md) từ để chỉ "viên ngọc".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**zimra** được cho là từ [Adûnaic](../A/Adûnaic.md) để chỉ "viên ngọc quý".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ và trường hợp {#Examples_and_Instances}
 

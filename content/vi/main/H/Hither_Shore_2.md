@@ -38,21 +38,21 @@ infobox:
 
 - Ein janusgesichtiger Blick zurück/A Janus nhìn ngược
 - Lời nói đầu/Lời nói đầu
-- Tolkien Hội thảo 2005
+- Hội thảo Tolkien 2005
     - "Ein Mythos für das 20. Jahrhundert: Blut, Rasse und Erbgedächtnis bei Tolkien" của Dieter Bachmann (Zürich) & [Thomas Honegger](../T/Thomas_Honegger.md) (Jena)
     - "Sinh học, Genetik và Tiến hóa ở Mittelerde" của Friedhelm Schneidewind (Hemsbach)
-    - Verkleidung und Essenz, Tod und Begehren: Zur Konstruktion »richtiger` Weiblichkeit in J.R.R. Tolkiens The Lord of the Rings" của Patrick Brückner (Potsdam)
+    - Verkleidung und Essenz, Tod und Begehren: Zur Konstruktion »richtigerfran Weiblichkeit trong J.R.R. Tolkiens Chúa tể của những chiếc nhẫn" của Patrick Brückner (Potsdam)
     - "Verfassungen mit und ohne Schwert: Impressionen Idealer Herrschaftsformen in Mittelerde als Ausdruck des politischen Verständnisses von J.R.R. Tolkien" của Frank Weinreich (Bochum)
     - "Das Lied bin ich: Lieder, Poesie und Musik in J.R.R. Tolkiens Mittelerde-Mythologie" của Julian Eilmann (Aachen)
     - "Das Heilige und das Andere – Weltbild und Weltbindung im Herrn der Ringe" của Martin Hopp (Bonn)
     - "Tolkiens Theology des Todes" của [Thomas Fornet-Ponse](../T/Thomas_Fornet-Ponse.md) (Bonn)
     - "Tóm tắt các bài viết hội thảo"
 - Varia
-    - "Die Begegnung mit dem Fremden in J.R.R. Tolkiens The Lord of the Rings" của Petra Zimmermann (Braunschweig)
+    - "Die Begegnung mit dem Fremden trong J.R.R. Tolkiens Chúa tể của những chiếc nhẫn" của Petra Zimmermann (Braunschweig)
     - "Đạo đức hoặc Ethiken Tolkiens?" bởi Gregor Raddatz (Köln)
     - "Tóm tắt các tài liệu „Varia“-Papers"
 - Ghi chú
-    - "'Có một bà già, sống dưới một ngọn đồi' – Một Proto-Hobbit chưa được khám phá?" bởi Thomas Honegger (Jena)
+    - "'Có một bà già, sống dưới một ngọn đồi' – Một người Hobbit nguyên thủy được phát hiện?" bởi Thomas Honegger (Jena)
     - "Ghi chú về Shelob" của [Rainer Nagel](../R/Rainer_Nagel.md) (Mainz)
 - Rezensionen
 - Danh sách Siglen

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Míriel"
 ---
 
-Chuyển hướng đến [Míriel](Míriel.md).
+Chuyển hướng tới [Míriel](Míriel.md).

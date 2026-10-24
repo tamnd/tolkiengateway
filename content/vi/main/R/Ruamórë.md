@@ -22,7 +22,7 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-Tên *Ruamórë* nằm trong [Qenya](../Q/Qenya.md). Nó được *[Eldamo](../E/Eldamo.md)*gọi là "Still Night", bao gồm <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Rua&amp;action=edit&amp;redlink=1" title="Rua (page does not exist)">rua</a></i> ("ổn định, tĩnh lặng, yên tĩnh") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=M%C3%B3r%C3%AB&amp;action=edit&amp;redlink=1" title="Mórë (page does not exist)">mórë</a></i> ("đêm, bóng tối; đen, tối").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+Tên *Ruamórë* ở [Qenya](../Q/Qenya.md). Nó được *[Eldamo](../E/Eldamo.md)* gọi là "Still Night", bao gồm <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Rua&amp;action=edit&amp;redlink=1" title="Rua (page does not exist)">rua</a></i> ("ổn định, tĩnh lặng, yên tĩnh") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=M%C3%B3r%C3%AB&amp;action=edit&amp;redlink=1" title="Mórë (page does not exist)">mórë</a></i> ("đêm, bóng tối; đen, tối").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 Tuy nhiên, trong ghi chú cho một mục trong *[Qenya Lexicon](../Q/Qenya_Lexicon.md)*, thành phần đầu tiên của tên xuất phát từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=R%C3%BA_(Qenya_word)&amp;action=edit&amp;redlink=1" title="Rú (Qenya word) (page does not exist)">rú</a></i> (1. "nhà ở, làng"; 2. "sự kiên định") hoặc <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ruella&amp;action=edit&amp;redlink=1" title="Ruella (page does not exist)">ruella</a></i> ("thôn").<sup id="cite_ref-Par_2-1" class="reference"><a href="#cite_note-Par-2">[1]</a></sup>
 

@@ -31,11 +31,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-[Allen &amp; Unwin](../A/Allen_and_Unwin.md) đã ký thỏa thuận xuất bản [bản dịch tiếng Hà Lan](../M/Max_Schuchart.md) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*và đã xin phép Tolkien. Tolkien đã viết cho họ rằng anh ấy đã chấp thuận và đề nghị hỗ trợ khi không tìm thấy từ trong từ điển. Tolkien muốn ngăn chặn thảm họa đó là [bản dịch tiếng Thụy Điển](../H/Hompen.md) của *[The Hobbit](../T/The_Hobbit.md)*mà anh không được hỏi ý kiến. Ông viết rằng ông đã nhờ một chuyên gia Thụy Điển đọc cả bản dịch và bản gốc; người bạn này cũng chê bản dịch. Tolkien nói rằng *The Lord of the Rings* thậm chí còn quý giá hơn *The Hobbit*và anh hy vọng những lo lắng của mình sẽ được tính đến.
+[Allen & Unwin](../A/Allen_and_Unwin.md) đã ký thỏa thuận xuất bản [bản dịch tiếng Hà Lan](../M/Max_Schuchart.md) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và yêu cầu Tolkien chấp thuận. Tolkien đã viết chúng và ông đã chấp thuận và đề nghị hỗ trợ khi không tìm thấy từ trong từ điển. Tolkien muốn ngăn chặn thảm họa đó là [bản dịch sang tiếng Thụy Điển](../H/Hompen.md) của *[The Hobbit](../T/The_Hobbit.md)* mà ông không được hỏi ý kiến. Ông viết rằng ông đã nhờ một chuyên gia Thụy Điển đọc cả bản dịch và bản gốc; người bạn này cũng chê bản dịch. Tolkien nói rằng đối với anh *The Lord of the Rings* thậm chí còn quý hơn *The Hobbit* và anh hy vọng những lo lắng của anh sẽ được tính đến.
 
 ## Ghi chú {#Notes}
 
-- "Chuyên gia Thụy Điển" không được xác định danh tính, nhưng có lẽ là ai đó từ bộ phận Scandinavi của [Đại học Oxford](../U/University_of_Oxford.md).
+- "Chuyên gia Thụy Điển" không được xác định danh tính, nhưng có lẽ là ai đó đến từ khoa Scandinavi của [Đại học Oxford](../U/University_of_Oxford.md).
 
 <br>
 

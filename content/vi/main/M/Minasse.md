@@ -21,7 +21,7 @@ Nó bắt nguồn từ [root](../R/Root.md) <a class="new" href="https://tolkien
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Sindarin](../S/Sindarin.md) *[minas](Minas.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[minas](Minas.md)*
 
 <span></span>
 

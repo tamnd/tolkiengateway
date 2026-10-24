@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bree-land"
 ---
 
-Chuyển hướng đến [Bree-land](Bree-land.md).
+Chuyển hướng tới [Bree-land](Bree-land.md).

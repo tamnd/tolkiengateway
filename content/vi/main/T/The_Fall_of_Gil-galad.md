@@ -33,7 +33,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miriam_Ellis_-_For_into_darkness_fell_his_star.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c3/Miriam_Ellis_-_For_into_darkness_fell_his_star.jpg/300px-Miriam_Ellis_-_For_into_darkness_fell_his_star.jpg" decoding="async" loading="lazy" width="300" height="419" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/c3/Miriam_Ellis_-_For_into_darkness_fell_his_star.jpg 1.5x" data-file-width="450" data-file-height="629"/></a><figcaption><i>For into darkness fell his star</i> by <a href="../M/Miriam_Ellis.md" title="Miriam Ellis">Miriam Ellis</a></figcaption></figure>
 
-<i><b>Sự sụp đổ của Gil-galad</b></i> là người kể về sự mất mát của [Ereinion Gil-galad](../G/Gil-galad.md), vị vua Tiên vĩ đại cuối cùng của Trung Địa, trong [Cuộc vây hãm Barad-dûr](../S/Siege_of_Barad-dûr.md) ở cuối [Cuộc chiến của Liên minh Cuối cùng](../W/War_of_the_Last_Alliance.md).
+<i><b>Sự sụp đổ của Gil-galad</b></i> là một câu chuyện kể về sự mất mát của [Ereinion Gil-galad](../G/Gil-galad.md), vị vua Yêu tinh vĩ đại cuối cùng của Trung Địa, trong [Cuộc vây hãm Barad-dûr](../S/Siege_of_Barad-dûr.md) vào cuối [Chiến tranh của Liên minh cuối cùng](../W/War_of_the_Last_Alliance.md).
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -51,15 +51,15 @@ between the Mountains and the Sea.
 
 ## Lịch sử {#History}
 
-Theo [Aragorn](../A/Aragorn.md), ban đầu nó được viết bằng ngôn ngữ cổ. Nó có vẻ là một bài thơ dài, kể lại câu chuyện của [Cuộc chiến của Liên minh Cuối cùng](../W/War_of_the_Last_Alliance.md), ít nhất là đến mức [Gil-galad](../G/Gil-galad.md) hỗ trợ lật đổ [Sauron](../S/Sauron.md), và chính anh ta đã bị giết.
+Theo [Aragorn](../A/Aragorn.md), ban đầu nó được viết bằng ngôn ngữ cổ. Nó có vẻ là một bài thơ dài, kể câu chuyện về [Cuộc chiến của Liên minh cuối cùng](../W/War_of_the_Last_Alliance.md), ít nhất là đến mức [Gil-galad](../G/Gil-galad.md) hỗ trợ lật đổ [Sauron](../S/Sauron.md), và chính ông đã bị giết.
 
-[Bilbo Baggins](../B/Bilbo_Baggins.md) sau đó đã dịch nó sang [tiếng phổ thông](../W/Westron.md) và dạy nó cho [Samwise Gamgee](../S/Samwise_Gamgee.md) khi còn trẻ, người đã nhầm tưởng rằng Bilbo là người sáng tác.
+[Bilbo Baggins](../B/Bilbo_Baggins.md) sau đó đã dịch nó sang [tiếng phổ thông](../W/Westron.md) và dạy nó cho [Samwise Gamgee](../S/Samwise_Gamgee.md) khi còn trẻ, người đã nhầm tưởng rằng Bilbo là nhà soạn nhạc.
 
-Sam thuật lại ba khổ thơ mở đầu khi đến gần [Weathertop](../W/Weathertop.md), nhưng anh không nhớ những câu thơ tiếp theo “tất cả đều về [Mordor](../M/Mordor.md)”. Aragorn và Frodo biết nhiều hơn về văn bản.<sup id="cite_ref-FKnife_1-0" class="reference"><a href="#cite_note-FKnife-1">[1]</a></sup>
+Sam thuật lại ba khổ thơ giới thiệu khi đến gần [Weathertop](../W/Weathertop.md), nhưng anh không nhớ những câu thơ sau "tất cả đều về [Mordor](../M/Mordor.md)". Aragorn và Frodo biết nhiều hơn về văn bản.<sup id="cite_ref-FKnife_1-0" class="reference"><a href="#cite_note-FKnife-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1981: <a href="The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
+<b>1981: <a href="The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim phát thanh năm 1981)</a>:</b>
 
 <dl><dd>Sam sang the song during his trip to Rivendell.</dd></dl>
 

@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>yulda</b></i>, xin vui lòng. <i><b>yuldar</b></i>, là một từ [Quenya](../Q/Quenya.md) có nghĩa là "uống" hoặc "uống".
+<i><b>yulda</b></i>, xin vui lòng. <i><b>yuldar</b></i>, là một từ [Quenya](../Q/Quenya.md) có nghĩa là "đồ uống" hoặc "uống".
 
 ## Từ nguyên {#Etymology}
 

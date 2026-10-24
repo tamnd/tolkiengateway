@@ -15,9 +15,9 @@ sort_keys:
   "Quenya nouns": "Orne"
 ---
 
-<i><b>orne</b></i> là danh từ có nghĩa là "[cây](../T/Trees.md)" trong [Quenya](../Q/Quenya.md), đặc biệt là cây cao, mảnh mai như [tro](../A/Ashes.md) hoặc [bạch dương](../B/Birches.md). So sánh với *[orn](Orn.md)* trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+<i><b>orne</b></i> là danh từ có nghĩa là "[cây](../T/Trees.md)" trong [Quenya](../Q/Quenya.md), đặc biệt là những cây cao, mảnh mai như [tro](../A/Ashes.md) hay [bạch dương](../B/Birches.md). So sánh với *[orn](Orn.md)* trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
-[Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng dạng *ornë* (giữ nguyên ý nghĩa) có thể hợp lệ [Neo-Quenya](../N/Neo-Quenya.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng dạng *ornë* (giữ nguyên nghĩa) có thể hợp lệ [Neo-Quenya](../N/Neo-Quenya.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -29,7 +29,7 @@ sort_keys:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Sindarin](../S/Sindarin.md): *[orn](Orn.md)*
+- [Tiếng Sindarin](../S/Sindarin.md): *[orn](Orn.md)*
 
 <span></span>
 

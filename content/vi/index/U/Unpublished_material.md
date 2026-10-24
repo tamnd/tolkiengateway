@@ -48,7 +48,7 @@ images:
 - [Lưu ý về Númenórean tôn giáo](../../main/L/Letter_297.md)
 - [Các giấy tờ liên quan đến "Tiếng Anh và tiếng Wales"](../../main/T/Tolkien_and_Wales.md#Unpublished_manuscripts)
 - Đánh giá (viết khoảng 1934-1935) về "các tập sách ở Devonshire do Hiệp hội Địa danh Anh xuất bản năm 1931 và 1932".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
-- [Nhận xét ghi chú cho *Beowulf: Giới thiệu về nghiên cứu bài thơ*](../../main/B/Beowulf%253A_An_Introduction_to_the_Study_of_the_Poem.md)
+- [Review notes for *Beowulf: An Introduction to the Study of the Poem*](../../main/B/Beowulf%253A_An_Introduction_to_the_Study_of_the_Poem.md)
 - "[Động cơ thầm kín](../../main/T/The_Ulsterior_Motive.md)"
 - "[Về dịch thơ](../../main/O/On_the_translation_of_poetry.md) *(partially published)*
 

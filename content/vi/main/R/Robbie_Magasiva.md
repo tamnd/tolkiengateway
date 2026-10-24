@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Magasiva, Robbie"
 ---
 
-**Robbie Magasiva** ([1972](../_/1972.md)) là một diễn viên New Zealand, thành viên của nhóm hài <a class="extiw" href="http://en.wikipedia.org/wiki/Naked_Samoans" title="wikipedia:Naked Samoans">Người Samoa khỏa thân</a>. Anh ấy chơi [Mauhúr](../M/Mauhúr.md) trong *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
+**Robbie Magasiva** ([1972](../_/1972.md)) là một diễn viên người New Zealand, thành viên của nhóm hài <a class="extiw" href="http://en.wikipedia.org/wiki/Naked_Samoans" title="wikipedia:Naked Samoans">Naked Samoans</a>. Ông chơi [Mauhúr](../M/Mauhúr.md) trong *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
 
 ## Trích dẫn {#Quotes}
 

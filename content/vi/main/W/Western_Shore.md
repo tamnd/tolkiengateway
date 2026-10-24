@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Falas"
 ---
 
-Chuyển hướng đến [Falas](../F/Falas.md).
+Chuyển hướng tới [Falas](../F/Falas.md).

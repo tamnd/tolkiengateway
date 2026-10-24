@@ -18,7 +18,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Kleinbau"
 ---
 
-Gia đình **Smallburrow** là một gia đình [Hobbit](../H/Hobbits.md) đến từ vùng [Hobbiton](../H/Hobbiton.md). Họ thuộc tầng lớp thấp hơn trong xã hội và quen biết với những gia đình như [Gamgees](../G/Gamgee_Family~66365.md) và [Cottons](../C/Cotton_Family~66362.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Gia đình **Smallburrow** là một gia đình [Hobbit](../H/Hobbits.md) đến từ khu vực [Hobbiton](../H/Hobbiton.md). Họ thuộc tầng lớp thấp hơn trong xã hội và quen biết với những gia đình như [Gamgees](../G/Gamgee_Family~66365.md) và [Cottons](../C/Cotton_Family~66362.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

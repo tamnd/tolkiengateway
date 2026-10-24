@@ -28,7 +28,7 @@ file:
 
 *"Các Vương quốc của Noldor và Sindar"* trong [Beleriand](../../main/B/Beleriand.md) vào đầu [I Thời đại Mặt Trời](../../main/F/First_Age.md) và trong [Cuộc vây hãm Angband](../../main/S/Siege_of_Angband.md). Bản đồ này đi theo [HoME XII](../../main/T/The_Peoples_of_Middle-earth.md), trong *[Silmarillion](../../main/S/Silmarillion.md)* [Amrod](../../main/A/Amrod.md) được xuất bản và [Amras](../../main/A/Amras.md) sẽ có chung một lãnh thổ.
 
-Kết xuất bản đồ của [Karolina Węgrzyn](https://tolkiengateway.net/wiki/User:Sirielle), dựa trên bản đồ của [J.R.R. Tolkien](../../main/T/Tolkien.md) ở [HoME XI](../../main/T/The_War_of_the_Jewels.md), [Christopher Tolkien](../../main/C/Christopher_Tolkien.md) ở *[The Silmarillion](../../main/T/The_Silmarillion.md)* & [Karen Wynn Fonstad](../../main/K/Karen_Wynn_Fonstad.md) ở *[The Atlas of Middle-earth](../../main/A/Atlas_of_Middle-earth.md)*và các mẹo từ <a class="external text" href="http://ominously.deviantart.com/" rel="noreferrer noopener" target="_blank">Đáng lo ngại</a>, nếu không có ai thì bản đồ sẽ không đầy đủ.
+Kết xuất bản đồ của [Karolina Węgrzyn](https://tolkiengateway.net/wiki/User:Sirielle), dựa trên bản đồ của [J.R.R. Tolkien](../../main/T/Tolkien.md) ở [HoME XI](../../main/T/The_War_of_the_Jewels.md), [Christopher Tolkien](../../main/C/Christopher_Tolkien.md) ở *[The Silmarillion](../../main/T/The_Silmarillion.md)* & [Karen Wynn Fonstad](../../main/K/Karen_Wynn_Fonstad.md) ở *[The Atlas of Middle-earth](../../main/A/Atlas_of_Middle-earth.md)* và các mẹo từ <a class="external text" href="http://ominously.deviantart.com/" rel="noreferrer noopener" target="_blank">Đáng lo ngại</a>, nếu không có ai thì bản đồ sẽ không đầy đủ.
 
 ## Giấy phép {#Licensing}
 

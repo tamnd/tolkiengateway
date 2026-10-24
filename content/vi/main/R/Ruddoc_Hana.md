@@ -15,7 +15,7 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-<i><b>Ruddoc Hana</b></i> là một bài hát [tiếng Anh cổ](../O/Old_English.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Đây là bản dịch của bài đồng dao tiếng Anh <i><a class="extiw" href="http://en.wikipedia.org/wiki/Cock_Robin" title="wikipedia:Cock Robin">Ai đã giết gà Robin?</a></i>. Nó được xuất bản dưới dạng bài hát thứ 10 trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* trong [1936](../_/1936.md).
+<i><b>Ruddoc Hana</b></i> là một bài hát [Tiếng Anh cổ](../O/Old_English.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Đây là bản dịch của bài đồng dao tiếng Anh <i><a class="extiw" href="http://en.wikipedia.org/wiki/Cock_Robin" title="wikipedia:Cock Robin">Ai đã giết gà Robin?</a></i>. Nó được xuất bản dưới dạng bài hát thứ 10 trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* trong [1936](../_/1936.md).
 
 ## Trích đoạn thơ {#Poem_excerpt}
 

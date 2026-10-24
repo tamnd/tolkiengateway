@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 12 tháng 7.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1918](1918.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được chuyển đến Bệnh viện Sĩ quan Brooklands, Kingston-upon-Hull trước ngày này.
+- **[1918](1918.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được chuyển đến Bệnh viện sĩ quan Brooklands, Kingston-upon-Hull trước ngày này.
 - **[1940](1940.md)** - J.R.R. Tolkien viết [Thư 38a](../L/Letter_38a.md).
 - **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt đầu viết [thư 295b](../L/Letter_295b.md).
 - **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được <a class="external text" href="https://en.wikipedia.org/wiki/University_of_Edinburgh" rel="noreferrer noopener" target="_blank">Đại học Edinburgh</a>trao tặng bằng Tiến sĩ Danh dự về Văn học.
@@ -75,9 +75,9 @@ Sự kiện xảy ra vào ngày 12 tháng 7.
 - **[1981](1981.md)** - Tập thứ 19 của [loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
 - **[2002](2002.md)** - [Przemyslaw Mroczkowski](../P/Przemyslaw_Mroczkowski.md), học giả và là bạn của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), qua đời.
 - **[2005](2005.md)** - *[Der Berggeist](../D/Der_Berggeist.md)* được bán đấu giá tại Sotheby's.
-- **[2005](2005.md)** - [Tolkien Điều VII](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Hohenahr" title="wikipedia:Hohenahr">Hohensolms, Hohenahr</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
-- **[2008](2008.md)** - [Tolkien Điều X](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Rieneck" title="wikipedia:Rieneck">Rieneck</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
-- **[2013](2013.md)** - [Mythcon 44](../M/Mythcon_44.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Michigan_State_University" title="wikipedia:Michigan State University">Đại học bang Michigan</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/East_Lansing,_Michigan" title="wikipedia:East Lansing, Michigan">phương Đông Lansing</a>.
+- **[2005](2005.md)** - [Tolkien Thing VII](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Hohenahr" title="wikipedia:Hohenahr">Hohensolms, Hohenahr</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2008](2008.md)** - [Tolkien Thing X](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Rieneck" title="wikipedia:Rieneck">Rieneck</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2013](2013.md)** - [Mythcon 44](../M/Mythcon_44.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Michigan_State_University" title="wikipedia:Michigan State University">Đại học bang Michigan</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/East_Lansing,_Michigan" title="wikipedia:East Lansing, Michigan">East Lansing</a>.
 
 ## Trong Arda {#In_Arda}
 

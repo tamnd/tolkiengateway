@@ -42,20 +42,20 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_1997.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b8/Tolkien_Calendar_1997.jpg/320px-Tolkien_Calendar_1997.jpg" decoding="async" loading="lazy" width="320" height="246" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b8/Tolkien_Calendar_1997.jpg 1.5x" data-file-width="455" data-file-height="350"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 1997</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/John_Howe.md" title="John Howe">John Howe</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/17_June.md" title="17 June">17 June</a> <a href="../_/1996.md" title="1996">1996</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">24</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-261-10336-9" title="Special:BookSources/0-261-10336-9">0-261-10336-9</a> (UK)<br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-06-105525-5" title="Special:BookSources/0-06-105525-5">0-06-105525-5</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien_Calendar_1996.md" title="J.R.R. Tolkien Calendar 1996">J.R.R. Tolkien Calendar 1996</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_1998.md" title="Tolkien Calendar 1998">Tolkien Calendar 1998</a></td></tr></tbody></table>
 
-Lịch <i><b>Tolkien 1997</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [17 tháng 6](../_/17_June.md) [1996](../_/1996.md). Nó có tác phẩm nghệ thuật của [John Howe](../J/John_Howe.md) dựa trên *[The Hobbit](The_Hobbit.md)*, *[The Lord of the Rings](The_Lord_of_the_Rings.md)*, *[The Silmarillion](The_Silmarillion.md)* và <i><a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Sir Gawain và Green Knight</a></i>.
+<i><b>Lịch Tolkien 1997</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [17 tháng 6](../_/17_June.md) [1996](../_/1996.md). Phim có tác phẩm nghệ thuật của [John Howe](../J/John_Howe.md) dựa trên *[The Hobbit](The_Hobbit.md)*, *[The Lord of the Rings](The_Lord_of_the_Rings.md)*, *[The Silmarillion](The_Silmarillion.md)* và <i><a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Sir Gawain và Green Knight</a></i>.
 
 ## Minh họa {#Illustrations}
 
-- Bìa - "Ở đó và quay lại: Bản đồ của The Hobbit"
-- Tháng 1 - "[Giảm xuống Rivendell](../../file/J/John_Howe_-_Descent_into_Rivendell.jpg.md)"
+- Bìa - "Ở đó và quay lại: Bản đồ của người Hobbit"
+- Tháng 1 - "[Xuống Rivendell](../../file/J/John_Howe_-_Descent_into_Rivendell.jpg.md)"
 - Tháng 2 - "[Một bữa tiệc bất ngờ](../../file/J/John_Howe_-_An_Unexpected_Party.jpg.md)"
-- Tháng 3 - "[The Treason of Isengard](../../file/J/John_Howe_-_Edoras_01.jpg.md)"
-- Tháng 4 - "[ Cuộc chiến Nhẫn](../../file/J/John_Howe_-_The_Mumakil_of_Harad.jpg.md)"
-- Tháng 5 - "[Tolkien của Trung Địa](../../file/J/John_Howe_-_Tolkien's_Middle-earth.jpg.md)"
-- Tháng 6 - "[Treebeard](../../file/J/John_Howe_-_Treebeard_01.jpg.md)"
-- Tháng 7 - "[Một ngôi nhà Hobbit](../../file/J/John_Howe_-_Bilbo's_Front_Hall.jpg.md)"
+- Tháng 3 - "[Sự phản bội của Isengard](../../file/J/John_Howe_-_Edoras_01.jpg.md)"
+- Tháng 4 - "[Cuộc chiến trên chiếc nhẫn](../../file/J/John_Howe_-_The_Mumakil_of_Harad.jpg.md)"
+- Tháng 5 - "[Trung Địa của Tolkien](../../file/J/John_Howe_-_Tolkien's_Middle-earth.jpg.md)"
+- Tháng 6 - "[Râu cây](../../file/J/John_Howe_-_Treebeard_01.jpg.md)"
+- Tháng 7 - "[Nơi ở của người Hobbit](../../file/J/John_Howe_-_Bilbo's_Front_Hall.jpg.md)"
 - Tháng 8 - "[Niënor và Glaurung](../../file/J/John_Howe_-_Nienor_and_Glaurung.jpg.md)"
-- tháng Chín - "[Ungoliantë và Melkor](../../file/J/John_Howe_-_The_Killing_of_the_Trees.jpg.md)"
+- Tháng 9 - "[Ungoliantë và Melkor](../../file/J/John_Howe_-_The_Killing_of_the_Trees.jpg.md)"
 - Tháng 10 - "[Sự chết đuối của Anadûnë](../../file/J/John_Howe_-_The_Drowning_of_Anadûné.jpg.md)"
 - Tháng 11 - "<a class="new" href="https://tolkiengateway.net/w/index.php?title=File:John_Howe_-_Sir_Gwain_and_the_Green_Dragon.jpg&amp;action=edit&amp;redlink=1" title="File:John Howe - Sir Gwain and the Green Dragon.jpg (page does not exist)">Ngài Gawain và Hiệp sĩ xanh</a>"
 - Tháng 12 - "[Gandalf và Balrog](../../file/J/John_Howe_-_Gandalf_and_the_Balrog_II.jpg.md)"
@@ -88,8 +88,8 @@ Lịch <i><b>Tolkien 1997</b></i> là lịch Tolkien chính thức được xu�
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94290" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1997</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/1996_1998.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1996 - 1998</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde tới Tolkien Lịch</a>
+- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94290" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1997</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
+- <a class="external text" href="http://tolkiencalendars.com/1996_1998.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1996 - 1998</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

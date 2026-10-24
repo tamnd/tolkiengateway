@@ -33,7 +33,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine_8.jpg.md"><img src="https://tolkiengateway.net/w/images/b/b5/The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine_8.jpg" decoding="async" loading="lazy" width="200" height="263" class="mw-file-element" data-file-width="200" data-file-height="263"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings<br/>Fan Club Official Movie Magazine 8</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Carla Atkinson</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Warren Holland</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">April 2003</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine_7.md" title="The Lord of the Rings Fan Club Official Movie Magazine 7">Issue 7</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine_9&amp;action=edit&amp;redlink=1" title="The Lord of the Rings Fan Club Official Movie Magazine 9 (page does not exist)">Issue 9</a></td></tr></tbody></table>
 
-<b><i>The Lord of the Rings Tạp chí Điện ảnh Chính thức của Fan Club</i> 8</b> là số thứ tám của *[The Lord of the Rings Fan Club Official Movie Magazine](The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine.md)* vào tháng 4/tháng 5 năm 2003.
+<b><i>Tạp chí điện ảnh chính thức của Câu lạc bộ người hâm mộ Chúa tể những chiếc nhẫn</i> 8</b> là số thứ tám của tạp chí *[The Lord of the Rings Fan Club Official Movie Magazine](The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine.md)* vào tháng 4/tháng 5 năm 2003.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>An interview with the delightful Billy Boyd. Sala Baker on playing the screen’s biggest bad-guy, Sauron. Author Brian Sibley talks of his long time involvement with The Lord of the Rings, and Richard Taylor guides is through thousands of years of Elvish armor and weaponry design.
@@ -47,11 +47,11 @@ infobox:
 
 - **8** TÚI THƯ
 - **10** TIN TỪ TRUNG ĐỊA
-    - The Two Towers tràn ngập các giải thưởng và đề cử ... Người hâm mộ chuẩn bị cho cuối tuần trao giải Oscar ... The Lord of the Rings cất cánh trong New Zealand ... và nhiều hơn thế nữa!
+    - Hai tòa tháp tràn ngập các giải thưởng và đề cử ... Người hâm mộ chuẩn bị cho cuối tuần trao giải Oscar ... Chúa tể của những chiếc nhẫn cất cánh ở New Zealand ... và nhiều hơn thế nữa!
 - **18** NHỮNG ANH HÙNG VUI VẺ - Greensmaster Brian Massey
-    - Billie Lusk và các đồng nghiệp phục vụ ăn uống của cô đã theo dõi The Lord of the Rings quá trình sản xuất trong suốt New Zealand, nấu ăn vào buổi sáng, buổi trưa và đôi khi vào giữa đêm để đảm bảo cho dàn diễn viên và đoàn làm phim được ăn no.
+    - Billie Lusk và các đồng nghiệp phục vụ của cô đã theo dõi quá trình sản xuất Chúa tể của những chiếc nhẫn trên khắp New Zealand, nấu ăn vào buổi sáng, buổi trưa và đôi khi vào giữa đêm để đảm bảo cho dàn diễn viên và đoàn làm phim được ăn no.
 - **66** TẬP TRUNG CỦA QUẠT
-    - Các thành viên giao lưu cùng các ngôi sao tại buổi ra mắt thế giới The Two Towers ở New York ... Đám đông Câu lạc bộ người hâm mộ "rung chuông" nhân dịp Năm mới ở Williamsburg ... Chú ý đến học bổng của Thành phố Salt Lake.
+    - Các thành viên giao lưu cùng các ngôi sao tại buổi ra mắt thế giới The Two Towers ở New York ... Đám đông Câu lạc bộ người hâm mộ "rung chuông" mừng năm mới ở Williamsburg ... Chú ý đến mối quan hệ học bổng của Thành phố Salt Lake.
 - **73** DANH MỤC
 - **82** ĐÁNG GIÁ
 
@@ -60,12 +60,12 @@ infobox:
 ### Tính năng {#Features}
 
 - **22** CẬP NHẬT VỚI PETER JACKSON
-    - Tìm hiểu về công việc khéo léo đã giải quyết tình huống khó xử của Hai Tòa Tháp, lý do tại sao anh ấy thực hiện những thay đổi gây tranh cãi đối với Faramir và nhiều thông tin khác trong Bản cập nhật mới nhất của chúng tôi!
-- **32** NGƯỜI DODGER NGHỆ THUẬT - Phỏng vấn Billy Boyd.
-    - Bàn trà trong tay, nam diễn viên người Scotland đã nói chuyện rất lâu với chúng tôi về công việc của anh ấy trong The Lord of the Rings - dự án phim lớn đầu tiên của anh ấy - bao gồm nhiều tình bạn lâu dài có được từ thời anh ấy tham gia New Zealand và việc anh ấy đảm nhận mối quan hệ giữa Merry, Pippin và Treebeard.
+    - Tìm hiểu về công việc khéo léo đã giải quyết tình thế khó xử của Hai Tòa Tháp, lý do tại sao ông thực hiện những thay đổi gây tranh cãi đối với Faramir và nhiều thông tin khác trong Bản cập nhật mới nhất của chúng tôi!
+- **32** NGƯỜI DODGER NGHỆ THUẬT - Cuộc phỏng vấn với Billy Boyd.
+    - Bàn trà trong tay, nam diễn viên người Scotland đã trò chuyện với chúng tôi rất nhiều về tác phẩm Chúa tể của những chiếc nhẫn - dự án phim lớn đầu tiên của anh - bao gồm nhiều tình bạn lâu dài có được từ thời gian anh ở New Zealand và việc anh đảm nhận mối quan hệ giữa Merry, Pippin và Treebeard.
 - **42** NGƯỜI ĐÀN ÔNG MẶT NẠ SẮT
-    - Sala Baker người New Zealand đã rất vui mừng khi The Lord of the Rings các nhà làm phim loại anh ta khỏi hàng ngũ diễn viên đóng thế và diễn viên "nền" để đe dọa Sauron, nhân vật phản diện cuối cùng của bộ ba phim.
-- **48** VẬT PHẨM - Tiên Vũ khí và Áo giáp
-    - Vũ khí và áo giáp được tạo ra cho các chiến binh Tiên của The Fellowship of the Ring và The Two Towers nổi bật với sự khởi sắc giàu trí tưởng tượng và sự chú ý tỉ mỉ đến từng chi tiết, đánh dấu mọi thứ do Richard Taylor và Weta Workshop tạo ra.
-- **60** The Lord of the Rings NGƯỜI Kể Chuyện
-Người đam mê     - J.R.R. Tolkien Brian Sibley nói về cuốn sách mới nhất của anh ấy về bộ ba The Lord of the Rings, thời gian ở New Zealand và thư từ của anh ấy với Giáo sư vĩ đại.
+    - Sala Baker người New Zealand đã rất vui mừng khi các nhà làm phim Chúa tể của những chiếc nhẫn loại ông ta khỏi hàng ngũ diễn viên đóng thế và diễn viên "nền" để đe dọa Sauron, nhân vật phản diện cuối cùng của bộ ba phim.
+- **48** VẬT PHẨM - Vũ khí và áo giáp của Yêu tinh
+    - Vũ khí và áo giáp được tạo ra cho các chiến binh Yêu tinh của The Fellowship of the Ring và The Two Towers nổi bật với sự khởi sắc giàu trí tưởng tượng và sự chú ý tỉ mỉ đến từng chi tiết, đánh dấu mọi thứ do Richard Taylor và Weta Workshop tạo ra.
+- **60** Người kể chuyện Chúa tể của những chiếc nhẫn
+    - J.R.R. Tolkien người đam mê Brian Sibley nói về cuốn sách mới nhất của ông về bộ ba Chúa tể của những chiếc nhẫn, thời gian ở New Zealand và thư từ của ông với Giáo sư vĩ đại.

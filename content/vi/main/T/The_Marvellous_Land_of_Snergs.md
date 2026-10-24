@@ -36,9 +36,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Marvelous_Land_of_Snergs_(2006).jpg.md"><img src="https://tolkiengateway.net/w/images/d/df/The_Marvelous_Land_of_Snergs_%282006%29.jpg" decoding="async" loading="lazy" width="210" height="328" class="mw-file-element" data-file-width="210" data-file-height="328"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Marvellous Land of Snergs</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Edward Wyke-Smith</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Ernest Benn</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">September <a href="../_/1927.md" title="1927">1927</a></td></tr></tbody></table>
 
-<i><b>Vùng đất kỳ diệu của Snergs</b></i> là tiểu thuyết giả tưởng dành cho trẻ em của E. A. Wyke-Smith, xuất bản lần đầu trên tạp chí [1927](../_/1927.md) với hình minh họa của George Morrow. Tác phẩm là nguồn cảm hứng cho *[The Hobbit](The_Hobbit.md)*của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-AH_2-0" class="reference"><a href="#cite_note-AH-2">[2]</a></sup>
+<i><b>Vùng đất kỳ diệu của Snergs</b></i> là tiểu thuyết giả tưởng dành cho trẻ em của E. A. Wyke-Smith, xuất bản lần đầu trên tạp chí [1927](../_/1927.md) với hình minh họa của George Morrow. Tác phẩm là nguồn cảm hứng cho *[The Hobbit](The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-AH_2-0" class="reference"><a href="#cite_note-AH-2">[2]</a></sup>
 
-Trong [1996](../_/1996.md), [Douglas A. Anderson](../D/Douglas_A._Anderson.md) đã đưa lại cuốn tiểu thuyết in (Old Earth Books; <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/1882968042">ISBN 1882968-04-2</a>; bìa mềm) và đóng góp cho việc tái bản bằng phần giới thiệu phê bình và danh sách thư mục có chú thích.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-Old_4-0" class="reference"><a href="#cite_note-Old-4">[4]</a></sup>
+Trong [1996](../_/1996.md), [Douglas A. Anderson](../D/Douglas_A._Anderson.md) đã mang lại bản in của cuốn tiểu thuyết (Old Earth Books; <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/1882968042">ISBN 1882968-04-2</a>; bìa mềm), và đóng góp vào quá trình tái bản bằng phần giới thiệu phê bình và danh sách thư mục có chú thích.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-Old_4-0" class="reference"><a href="#cite_note-Old-4">[4]</a></sup>
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -46,7 +46,7 @@ Trong [1996](../_/1996.md), [Douglas A. Anderson](../D/Douglas_A._Anderson.md) �
 
 Tất cả những ai yêu mến Peter Pan cũng sẽ yêu thích câu chuyện này dành cho trẻ em ở mọi lứa tuổi và mọi tầng lớp
 
-Cuốn sách mở đầu bằng phần mô tả về Thỏa thuận dàn xếp cho những đứa trẻ thừa thãi. Một chút về phía bắc của Khu định cư Vanderdecken và thủy thủ đoàn của anh ta đang ở trong khu bờ biển; chiếc *Flying Dutchman* neo gần đó. Ở phía nam là những Snergs thân thiện nhưng không thông minh, một số nhánh của pixies. Ngược lại, Joe và Sylvia nghịch ngợm bỏ chạy, và cùng với Gorbo - trong số những người kém thông minh nhất của Snerg - bị trộn lẫn với phép thuật và thấy mình *the wrong side of the river*. Trốn thoát khỏi Golithos, một yêu tinh được cải tạo không hoàn hảo; từ Mẹ Meldrum, mụ phù thủy nham hiểm đó; từ kẻ ác Vua Kul; và cuộc giải cứu của Vanderdecken và gia đình Snergs, lấp đầy một tập truyện vui vẻ.<sup id="cite_ref-AH_2-1" class="reference"><a href="#cite_note-AH-2">[2]</a></sup>
+Cuốn sách mở đầu bằng phần mô tả về Thỏa thuận dàn xếp cho những đứa trẻ thừa thãi. Một chút về phía bắc của Khu định cư Vanderdecken và thủy thủ đoàn của ông ta đang ở trong khu bờ biển; chiếc *Flying Dutchman* neo gần đó. Ở phía nam là những Snergs thân thiện nhưng không thông minh, một số nhánh của pixies. Ngược lại, Joe và Sylvia nghịch ngợm bỏ chạy, và cùng với Gorbo - trong số những người kém thông minh nhất của Snerg - bị trộn lẫn với phép thuật và thấy mình *the wrong side of the river*. Trốn thoát khỏi Golithos, một yêu tinh được cải tạo không hoàn hảo; từ Mẹ Meldrum, mụ phù thủy nham hiểm đó; từ vị vua độc ác Kul; và cuộc giải cứu của Vanderdecken và gia đình Snergs, lấp đầy một tập truyện vui vẻ.<sup id="cite_ref-AH_2-1" class="reference"><a href="#cite_note-AH-2">[2]</a></sup>
 
 ### Ấn bản năm 1996 {#1996_edition}
 
@@ -58,15 +58,15 @@ Cuốn sách mở đầu bằng phần mô tả về Thỏa thuận dàn xếp c
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Đó là cuốn sách được Tolkien và các con của ông yêu thích. Giờ đây, lần đầu tiên sau gần 70 năm, cuốn sách kỳ diệu này được in trở lại với văn bản gốc, những hình minh họa kinh điển của nghệ sĩ Punch nổi tiếng George Morrow và lời giới thiệu của học giả Tolkien Douglas A. Anderson. Cuốn sách này đã nhận được nhiều lời khen ngợi từ: Charles de Lint, Humphrey Carpenter, Alison Lurie, và Jack Zipes.<sup id="cite_ref-Old_4-1" class="reference"><a href="#cite_note-Old-4">[4]</a></sup>
+Đó là cuốn sách được Tolkien và các con ông yêu thích. Giờ đây, lần đầu tiên sau gần 70 năm, cuốn sách kỳ diệu này được in trở lại với văn bản gốc, những hình minh họa kinh điển của nghệ sĩ Punch nổi tiếng George Morrow và lời giới thiệu của học giả Tolkien Douglas A. Anderson. Cuốn sách này đã nhận được nhiều lời khen ngợi từ: Charles de Lint, Humphrey Carpenter, Alison Lurie và Jack Zipes.<sup id="cite_ref-Old_4-1" class="reference"><a href="#cite_note-Old-4">[4]</a></sup>
 
 <div style="clear:both"></div>
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/The_Marvellous_Land_of_Snergs" title="wikipedia:The Marvellous Land of Snergs">Vùng đất kỳ diệu của Snergs</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="http://www.tolkiencollector.com/snergs.htm" rel="noreferrer noopener" target="_blank">Tăng cường như Hobbit</a> tại <a class="external text" href="http://www.tolkiencollector.com/index.html" rel="noreferrer noopener" target="_blank">TolkienCollector.com</a>
-- <a class="external text" href="http://www.tolkien-online.com/tolkien-snergs.html" rel="noreferrer noopener" target="_blank"><i>The Hobbit</i>/<i>The Lord of the Rings</i> và <i>Vùng đất kỳ diệu của Snergs</i></a> tại <a class="external text" href="http://www.tolkien-online.com/index.html" rel="noreferrer noopener" target="_blank">Tolkien-Online.com</a>
+- <a class="external text" href="http://www.tolkiencollector.com/snergs.htm" rel="noreferrer noopener" target="_blank">Snergs như người Hobbit</a> tại <a class="external text" href="http://www.tolkiencollector.com/index.html" rel="noreferrer noopener" target="_blank">TolkienCollector.com</a>
+- <a class="external text" href="http://www.tolkien-online.com/tolkien-snergs.html" rel="noreferrer noopener" target="_blank"><i>Người Hobbit</i>/<i>Chúa tể của những chiếc nhẫn</i> và <i>Vùng đất kỳ diệu của Snergs</i></a> tại <a class="external text" href="http://www.tolkien-online.com/index.html" rel="noreferrer noopener" target="_blank">Tolkien-Online.com</a>
 
 <span></span>
 

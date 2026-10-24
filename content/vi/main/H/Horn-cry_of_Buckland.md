@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Horn-call of Buckland"
 ---
 
-Chuyển hướng đến [Kêu gọi Buckland](Horn-call_of_Buckland.md).
+Chuyển hướng đến [Tiếng gọi của Buckland](Horn-call_of_Buckland.md).

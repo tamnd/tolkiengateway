@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Role Playing (2nd edition)"
 ---
 
-Chuyển hướng đến [Middle-earth Role Playing (ấn bản thứ 2)](<Middle-earth_Role_Playing_(2nd_edition).md>).
+Chuyển hướng đến [Nhập vai ở Trung Địa (ấn bản thứ 2)](<Middle-earth_Role_Playing_(2nd_edition).md>).

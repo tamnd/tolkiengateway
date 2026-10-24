@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bản phác thảo này của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) của [Orodruin](../../main/O/Orodruin.md) ([Núi Doom](../../main/M/Mount_Doom.md)) được thực hiện trên một trang bị từ chối của bản thảo [The Return of the King](../../main/T/The_Return_of_the_King.md), Quyển VI, Chương 3, [Núi Doom](../../main/M/Mount_Doom.md). Trong bản gốc, lưỡi lửa ở đỉnh núi có màu đỏ, và bên dưới những chữ có thể nhìn thấy trong bản sao chép được viết
+Bản phác thảo này của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) của [Orodruin](../../main/O/Orodruin.md) ([Núi Diệt Vong](../../main/M/Mount_Doom.md)) được thực hiện trên một trang bị từ chối của bản thảo [The Return of the King](../../main/T/The_Return_of_the_King.md), Quyển VI, Chương 3, [Núi Diệt Vong](../../main/M/Mount_Doom.md). Trong bản gốc, lưỡi lửa ở đỉnh núi có màu đỏ, và bên dưới những chữ có thể nhìn thấy trong bản sao chép được viết
 
 <dl><dd>&#39;Mt Doom from the North&#39;</dd></dl>
 
@@ -34,7 +34,7 @@ Trong bản phác thảo này được nhìn thấy
 
 <dl><dd>&#39;long sloping causeway that led up on to the Mountain&#39;s eastern side&#39;</dd></dl>
 
-chở Đường của [Sauron](../../main/S/Sauron.md) từ [Barad-dûr](../../main/B/Barad-dûr.md) đến lối vào tối tăm của [Sammath Naur](../../main/S/Sammath_Naur.md). Nó được xuất bản như một phần phụ của bức tranh về Barad-dur trong [The Lord of the Rings Lịch 1977](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md).
+chở Đường của [Sauron](../../main/S/Sauron.md) từ [Barad-dûr](../../main/B/Barad-dûr.md) đến lối vào tối tăm của [Sammath Naur](../../main/S/Sammath_Naur.md). Nó được xuất bản như một phần bổ sung cho bức tranh của Barad-dur trong [The Lord of the Rings 1977 Calendar](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md).
 
 ## Giấy phép {#Licensing}
 

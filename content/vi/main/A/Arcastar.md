@@ -20,9 +20,9 @@ langlinks:
 
 <i><b>Arcastar</b></i> (phát âm là <span title="Pronunciation in IPA" class="IPA">[arˈkastar]</span>) là phiên bản [Quenya](../Q/Quenya.md) của họ [Tolkien](../J/J.R.R._Tolkien.md) (tiếng Đức *Tollkühn* "ngu ngốc, liều lĩnh, dũng cảm tuyệt vọng, liều lĩnh").
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ký tên *Arcastar [Mondósaresse](../M/Mondósar.md)* "Tolkien trong Oxford" trong thư [1968](../_/1968.md) gửi nhà sản xuất bộ phim tài liệu [BBC](../B/BBC.md) *[Tolkien in Oxford](../T/Tolkien_in_Oxford.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ký tên *Arcastar [Mondósaresse](../M/Mondósar.md)* "Tolkien in Oxford" trong một lá thư [1968](../_/1968.md) gửi nhà sản xuất bộ phim tài liệu [BBC](../B/BBC.md) *[Tolkien in Oxford](../T/Tolkien_in_Oxford.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Ý nghĩa chính xác của *Arcastar* vẫn chưa được biết. [Ryszard Derdziński](../R/Ryszard_Derdziński.md) đã gợi ý rằng *arcastar* có thể có nghĩa là "người dịch" (hoặc "người mang qua"), dựa trên nghiên cứu của ông về tên [Tolkien họ](../T/Tolkien_Family.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ý nghĩa chính xác của *Arcastar* vẫn chưa được biết. [Ryszard Derdziński](../R/Ryszard_Derdziński.md) đã gợi ý rằng *arcastar* có thể có nghĩa là "người dịch" (hoặc "người mang qua"), dựa trên nghiên cứu của ông về tên [gia đình Tolkien](../T/Tolkien_Family.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

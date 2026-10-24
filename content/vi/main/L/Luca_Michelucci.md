@@ -18,4 +18,4 @@ sort_keys:
   "People by name": "Michelucci, Luca"
 ---
 
-**Luca Michelucci** đã minh họa một số bộ lịch *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của Ý vào cuối những năm 1990 và ông cũng là người tạo ra ảnh bìa cho một số truyện tranh và tiểu thuyết. Anh ấy sống gần Milan ở miền Bắc nước Ý.
+**Luca Michelucci** đã minh họa một số bộ lịch *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của Ý vào cuối những năm 1990 và ông cũng là người tạo ra ảnh bìa cho một số truyện tranh và tiểu thuyết. Ông sống gần Milan ở miền Bắc nước Ý.

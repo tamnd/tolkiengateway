@@ -12,9 +12,9 @@ categories:
   - "Cities, towns and villages of the Shire"
 ---
 
-**Mugworth** là tên của một ngôi làng ở [Southfarthing](../S/Southfarthing.md), được đề cập trong bản nháp của chương thứ tám của <i><b><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></b></i>, *[The Road to Isengard](../T/The_Road_to_Isengard.md)*.
+**Mugworth** là tên của một ngôi làng ở [Southfarthing](../S/Southfarthing.md), được đề cập trong bản nháp của chương thứ tám của <i><b><a href="../T/The_Two_Towers.md" title="The Two Towers">Hai tòa tháp</a></b></i>, *[The Road to Isengard](../T/The_Road_to_Isengard.md)*.
 
-Người ta cho rằng đây là nhà của một [hobbit](../H/Hobbits.md) tên là [Elias Tobiasson](../T/Tobold_Hornblower.md#Other_versions_of_the_legendarium), người đã giới thiệu [Pipe-weed](../P/Pipe-weed.md) với [The Shire](../T/The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Người ta cho rằng đây là nhà của một [hobbit](../H/Hobbits.md) tên là [Elias Tobiasson](../T/Tobold_Hornblower.md#Other_versions_of_the_legendarium), người đã giới thiệu [Pipe-weed](../P/Pipe-weed.md) tới [The Shire](../T/The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

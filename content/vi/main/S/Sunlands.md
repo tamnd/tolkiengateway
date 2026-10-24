@@ -20,7 +20,7 @@ langlinks:
 
 <dl><dd><i>Not to be confused with: <b><a href="Sunlending.md" title="Sunlending">Sunlending</a></b>, the <a href="../R/Rohanese.md" title="Rohanese">Rohanese</a> name of <a href="../A/Anórien.md" title="Anórien">Anórien</a></i></dd></dl>
 
-**Sunlands** là một cái tên trong [Shire](Shire.md) để chỉ vùng đất cực nam của [Trung Địa](../M/Middle-earth.md), gần giống khu vực với [Harad](../H/Harad.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Sunlands** là một cái tên ở [Shire](Shire.md) dùng để chỉ những vùng đất xa về phía nam của [Trung Địa](../M/Middle-earth.md), gần giống khu vực với [Harad](../H/Harad.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 [Samwise Gamgee](Samwise_Gamgee.md) đã nghe những câu chuyện về [Swertings](Swertings.md), [Big Folk](../B/Big_Folk.md) của Sunlands cưỡi trên [oliphaunts](../O/Oliphaunts.md) khi họ chiến đấu.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 

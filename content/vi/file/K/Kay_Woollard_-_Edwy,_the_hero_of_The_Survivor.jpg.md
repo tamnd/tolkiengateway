@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Edwy, anh hùng *The Survivor* của [Kay Woollard](../../main/K/Kay_Woollard.md)(có trong [*Mallorn* 25](../../main/M/Mallorn_25.md)). "Với sự giúp đỡ của Vua Arvedui, họ đã cử một số cung thủ không bao giờ quay trở lại; và những người khác cũng tham gia trận chiến trong đó Angmar bị lật đổ." (Appendix A)
+Edwy, anh hùng trong *The Survivor* của [Kay Woollard](../../main/K/Kay_Woollard.md) (có trong [*Mallorn* 25](../../main/M/Mallorn_25.md)). "Với sự giúp đỡ của Vua Arvedui, họ đã cử một số cung thủ không bao giờ quay trở lại; và những người khác cũng tham gia trận chiến trong đó Angmar bị lật đổ." (Appendix A)
 
 ## Giấy phép {#Licensing}
 

@@ -22,7 +22,7 @@ langlinks:
     url: "https://kontu.wiki/Sirionin_Suo"
 ---
 
-**Fens của Sirion** là các đầm lầy và đầm lầy hình thành xung quanh các hồ [Aelin-uial](../A/Aelin-uial.md) trên Sông [Sirion](../S/Sirion.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Beren](../B/Beren.md) đã đi qua Fens khi anh khởi hành từ [Doriath](../D/Doriath.md) khi bắt đầu nhiệm vụ giành được [Silmaril](../S/Silmaril.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Fens of Sirion** là các đầm lầy và đầm lầy hình thành xung quanh các hồ [Aelin-uial](../A/Aelin-uial.md) trên Sông [Sirion](../S/Sirion.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Beren](../B/Beren.md) đi qua Fens khi anh khởi hành từ [Doriath](../D/Doriath.md) khi bắt đầu hành trình giành được một [Silmaril](../S/Silmaril.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

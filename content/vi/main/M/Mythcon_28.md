@@ -32,8 +32,8 @@ infobox:
 
 **Mythcon 28** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 28.
 
-- **Chủ đề:** "[J.R.R. Tolkien](../J/J.R.R._Tolkien.md): Thành tựu cuộc đời văn chương của ông"
-- **Khách mời danh dự:** [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md) (Tolkien học giả) và [Orson Scott Card](../O/Orson_Scott_Card.md) (tác giả truyện giả tưởng)
+- **Chủ đề:** "[J.R.R. Tolkien](../J/J.R.R._Tolkien.md): Thành tựu của cuộc đời văn chương của ông"
+- **Guests of Honor:** [Wayne G. Hammond](../W/Wayne_G._Hammond.md) and [Christina Scull](../C/Christina_Scull.md) (Tolkien scholars) and [Orson Scott Card](../O/Orson_Scott_Card.md) (fantasy author)
 - **Chủ tịch:** [Glen GoodKnight](../G/Glen_GoodKnight.md)
 
 ## Liên kết ngoài {#External_links}

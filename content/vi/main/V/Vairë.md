@@ -66,17 +66,17 @@ infobox:
 
 **Vairë Thợ dệt** ([Q](../Q/Quenya.md), phát âm <span title="Pronunciation in IPA" class="IPA">[ˈvaɪre]</span>) là một [Valië](Valar.md) và là vợ của [Mandos](../M/Mandos.md).
 
-[Valie](Valie.md) chịu trách nhiệm dệt nên câu chuyện về Thế giới, trong đó [Đại sảnh của Mandos](../H/Halls_of_Mandos.md) được khoác áo và ngày càng mở rộng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Valie](Valie.md) chịu trách nhiệm dệt nên câu chuyện về Thế giới, trong đó [Halls of Mandos](../H/Halls_of_Mandos.md) được bao bọc và ngày càng mở rộng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Sau cái chết của [Finwë](../F/Finwë.md), [Míriel](../M/Míriel.md) sống lại và phục vụ cho Vairë, ghi lại mọi công việc của [Nhà Finwë](../H/House_of_Finwë.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sau cái chết của [Finwë](../F/Finwë.md), [Míriel](../M/Míriel.md) sống lại và phục vụ Vairë, ghi lại mọi hành động của [Gia tộc Finwë](../H/House_of_Finwë.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 Tên [Quenya](../Q/Quenya.md) *Vairë* có nghĩa là "Thợ dệt",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> hoặc "Dệt mãi mãi", bắt nguồn từ [gốc](../S/Sundocarme.md) WIR.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Trong *[Etymologies](../T/The_Etymologies.md)*, Quenya *Vaire* ("Weaver") là dạng hậu duệ của [Primitive Quendian](../P/Primitive_Quendian.md) *weirē*, bắt nguồn từ [gốc](../S/Sundocarme.md) WEY ("gió, dệt").<sup id="cite_ref-LR_5-0" class="reference"><a href="#cite_note-LR-5">[5]</a></sup>
+Trong *[Etymologies](../T/The_Etymologies.md)*, Quenya *Vaire* ("Weaver") là dạng hậu duệ của [Quendian nguyên thủy](../P/Primitive_Quendian.md) *weirē*, bắt nguồn từ [gốc](../S/Sundocarme.md) WEY ("gió, dệt").<sup id="cite_ref-LR_5-0" class="reference"><a href="#cite_note-LR-5">[5]</a></sup>
 
-Tên [Noldorin](../N/Noldorin.md) của cô ấy được cho là <i><b>Gwîr</b></i> ("Weaver").<sup id="cite_ref-LR_5-1" class="reference"><a href="#cite_note-LR-5">[5]</a></sup> Phiên bản đầu tiên, [Gnomish](../G/Gnomish.md) của tên cô ấy là *Gwairil*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Tên [Noldorin](../N/Noldorin.md) của cô được cho là <i><b>Gwîr</b></i> ("Weaver").<sup id="cite_ref-LR_5-1" class="reference"><a href="#cite_note-LR-5">[5]</a></sup> Phiên bản đầu tiên, [Gnomish](../G/Gnomish.md) của tên cô là *Gwairil*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -87,7 +87,7 @@ Tên [Noldorin](../N/Noldorin.md) của cô ấy được cho là <i><b>Gwîr</b
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Một [Vairë](<Vairë_(wife_of_Lindo).md>) khác xuất hiện trong một số bài viết đầu tiên của [Tolkien](../J/J.R.R._Tolkien.md). Trong *[The Book of Lost Tales Part One](../T/The_Book_of_Lost_Tales_Part_One.md)*, cô ấy là [Tiên](../E/Elves.md) của [Tol Eressëa](../T/Tol_Eressëa.md) và là con gái của [Tulkastor](../T/Tulkastor.md). Cô và chồng [Lindo](../L/Lindo.md) kể những câu chuyện sau này trở thành [Silmarillion](../Q/Quenta_Silmarillion.md) đối với người thủy thủ [Ælfwine](../_/Ælfwine.md)/[Eriol](../E/Eriol.md). Vai trò người kể chuyện của cô có thể đã ảnh hưởng đến việc đặt tên cho Vala người chịu trách nhiệm ghi lại câu chuyện.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Một [Vairë](<Vairë_(wife_of_Lindo).md>) khác xuất hiện trong một số tác phẩm đầu tiên của [Tolkien](../J/J.R.R._Tolkien.md). Trong *[The Book of Lost Tales Part One](../T/The_Book_of_Lost_Tales_Part_One.md)*, bà là [Yêu tinh](../E/Elves.md) của [Tol Eressëa](../T/Tol_Eressëa.md), và là con gái của [Tulkastor](../T/Tulkastor.md). Cô và chồng [Lindo](../L/Lindo.md) kể những câu chuyện sau này trở thành [Silmarillion](../Q/Quenta_Silmarillion.md) cho thủy thủ con người [Ælfwine](../_/Ælfwine.md)/[Eriol](../E/Eriol.md). Vai trò người kể chuyện của cô có thể đã ảnh hưởng đến việc đặt tên cho Vala chịu trách nhiệm ghi lại những câu chuyện.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 <span></span>
 

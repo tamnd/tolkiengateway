@@ -51,16 +51,16 @@ infobox:
 - *G. B. Smith và J. R. R. Tolkien: Hai nhà thơ Thế chiến thứ nhất*
     - [Stuart D. Lee](../S/Stuart_D._Lee.md)
 
-- *'Rằng chúng ta có thể xóa bỏ những điều chưa được thực hiện': Smith, Tolkien và Classics*
+- *'Rằng chúng ta có thể hoàn tác những điều đã hoàn tác': Smith, Tolkien và Classics*
     - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Giuseppe_Pezzini&amp;action=edit&amp;redlink=1" title="Giuseppe Pezzini (page does not exist)">Giuseppe Pezzini</a>
 
-- *‘Hỡi học giả xám với đôi mắt trầm lặng’: Bài thơ Rime của G.B. Smith và ảnh hưởng của nó đối với tác phẩm của Tolkien*
+- *‘Hỡi học giả màu xám với đôi mắt trầm lặng’: Bài thơ Rime của G.B. Smith và ảnh hưởng của nó đối với tác phẩm của Tolkien*
     - [Đánh dấu Atherton](../M/Mark_Atherton.md)
 
 - *Nhà sư và tiếng chim hót: Mô típ ở Longfellow, Smith và Tolkien*
     - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Kris_Swank&amp;action=edit&amp;redlink=1" title="Kris Swank (page does not exist)">Kris Swank</a>
 
-- *Từ ‘Bình minh’ đến ‘Thủy triều thời gian’: Smith và Tolkien trong Sương mù của huyền thoại Glastonbury*
+- *Từ ‘Bình minh’ đến ‘Thủy triều thời gian’: Smith và Tolkien trong sương mù của huyền thoại Glastonbury*
     - Federica Calabrese
 
 - *G.B. Smith: Nhà thơ tập sự của thời đại*
@@ -68,7 +68,7 @@ infobox:
 
 **Phần III. Lời kết**
 
-- *‘Người T.C.B.S. được định sẵn để làm chứng cho Thiên Chúa và Sự thật’: Suy ngẫm về Thư số của Tolkien. 5 đến G.B. Smith*
+- *' T.C.B.S. được định sẵn để làm chứng cho Chúa và Sự thật': Những suy ngẫm về Bức thư số của Tolkien. 5 đến G.B. Smith*
     - Ivano Sassanelli
 
 **Phụ lục**
@@ -84,7 +84,7 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://steady.page/en/john-garth-on-tolkiens-life-and-works/posts/d7728234-3e3b-47f3-9aa1-86916a83c047" rel="noreferrer noopener" target="_blank"><i>Tin sách: Tolkien và người thợ rèn đã giúp định hình con đường tương lai của anh</i></a> của [John Garth](John_Garth.md)
+- <a class="external text" href="https://steady.page/en/john-garth-on-tolkiens-life-and-works/posts/d7728234-3e3b-47f3-9aa1-86916a83c047" rel="noreferrer noopener" target="_blank"><i>Tin sách: Tolkien và người thợ rèn đã giúp định hình con đường tương lai của ông</i></a> của [John Garth](John_Garth.md)
 - <a class="external text" href="https://www.ccc.ox.ac.uk/alumni/photo-galleries-and-recordings/gb-smith-and-jrr-tolkien-meaningful-friendship-recording" rel="noreferrer noopener" target="_blank">Ghi âm các bài phát biểu tại hội nghị ban đầu</a>
 
 <br>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gollum's lake"
 ---
 
-Chuyển hướng đến hồ của [Gollum](Gollum's_lake.md).
+Chuyển hướng tới [Hồ Gollum](Gollum's_lake.md).

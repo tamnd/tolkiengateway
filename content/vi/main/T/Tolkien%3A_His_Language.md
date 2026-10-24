@@ -22,7 +22,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien : his language, a guide to Quenya</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=George_Horton&amp;action=edit&amp;redlink=1" title="George Horton (page does not exist)">George Horton</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1997.md" title="1997">1997</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">30</td></tr></tbody></table>
 
-<i><b>Tolkien : ngôn ngữ của anh ấy, hướng dẫn về Quenya</b></i>, được viết bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=George_Horton&amp;action=edit&amp;redlink=1" title="George Horton (page does not exist)">George Horton</a>, là một cuốn sách về ngôn ngữ của J.R.R. Tolkien.
+<i><b>Tolkien : ngôn ngữ của ông, hướng dẫn về Quenya</b></i>, được viết bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=George_Horton&amp;action=edit&amp;redlink=1" title="George Horton (page does not exist)">George Horton</a>, là một cuốn sách về ngôn ngữ của J.R.R. Tolkien.
 
 # Từ nhà xuất bản {#From_the_publisher}
 

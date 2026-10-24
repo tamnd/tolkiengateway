@@ -14,4 +14,4 @@ sort_keys:
   "Images of card games": "Magic"
 ---
 
-Hình ảnh liên quan đến trò chơi thẻ bài sưu tầm [Magic: The Gathering](../../main/M/Magic%253A_The_Gathering.md).
+Những hình ảnh liên quan đến game thẻ bài sưu tầm [Magic: The Gathering](../../main/M/Magic%253A_The_Gathering.md).

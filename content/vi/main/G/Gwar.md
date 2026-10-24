@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-**gwar** là từ [Sindarin](../S/Sindarin.md) cho *watch*. Danh động từ của nó là *gwared* "đang xem", nhưng chúng ta cũng thấy dạng *gwareth*.
+**gwar** là từ [tiếng Sindarin](../S/Sindarin.md) cho *watch*. Danh động từ của nó là *gwared* "đang xem", nhưng chúng ta cũng thấy dạng *gwareth*.
 
 ## Ví dụ và trường hợp {#Examples_and_Instances}
 

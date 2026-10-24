@@ -58,15 +58,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lego_The_Lord_of_the_Rings_-_The_Video_Game.png.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cc/Lego_The_Lord_of_the_Rings_-_The_Video_Game.png/320px-Lego_The_Lord_of_the_Rings_-_The_Video_Game.png" decoding="async" loading="lazy" width="320" height="293" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cc/Lego_The_Lord_of_the_Rings_-_The_Video_Game.png/480px-Lego_The_Lord_of_the_Rings_-_The_Video_Game.png 1.5x, https://tolkiengateway.net/w/images/c/cc/Lego_The_Lord_of_the_Rings_-_The_Video_Game.png 2x" data-file-width="600" data-file-height="550"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>LEGO: The Lord of the Rings - The Video Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data">Traveller&#39;s Tales</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Warner Bros. Interactive Entertainment</td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_3" title="wikipedia:PlayStation 3">PlayStation3</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Xbox_360" title="wikipedia:Xbox 360">Xbox 360</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Nintendo_Wii" title="wikipedia:Nintendo Wii">Nintendo Wii</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Nintendo_DS" title="wikipedia:Nintendo DS">Nintendo DS</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Nintendo_3DS" title="wikipedia:Nintendo 3DS">Nintendo 3DS</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_Vita" title="wikipedia:PlayStation Vita">PlayStation Vita</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Microsoft_Windows" title="wikipedia:Microsoft Windows">Microsoft Windows</a><sup id="cite_ref-FB-info_1-0" class="reference"><a href="#cite_note-FB-info-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data">13 November 2012<sup id="cite_ref-FB-info_1-1" class="reference"><a href="#cite_note-FB-info-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Action-adventure</td></tr></tbody></table>
 
-**Lego The Lord of the Rings: Trò chơi điện tử** là trò chơi điện tử của [Warner Bros. Interactive Entertainment](../W/Warner_Bros._Interactive_Entertainment.md) và [Traveller's Tales](../T/Traveller's_Tales.md). Trò chơi dựa trên [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>) và được phát hành vào ngày 13 tháng 11 năm 2012.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trò chơi có cốt truyện của [The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md), [The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md) và [The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md) nhưng "được mô phỏng lại bằng sự hài hước và sự đa dạng vô tận của cách chơi LEGO".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Lego Chúa tể của những chiếc nhẫn: Trò chơi điện tử** là trò chơi điện tử của [Warner Bros. Interactive Entertainment](../W/Warner_Bros._Interactive_Entertainment.md) và [Traveller's Tales](../T/Traveller's_Tales.md). Trò chơi dựa trên [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>) và được phát hành vào ngày 13 tháng 11 năm 2012.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trò chơi có cốt truyện của [The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md), [The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md) và [The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md) nhưng "được mô phỏng lại bằng sự hài hước và sự đa dạng vô tận của lối chơi LEGO".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Vào năm 2011, một người dùng Wikia tuyên bố đã tìm thấy một chút bằng chứng về trò chơi điện tử Lego *The Lord of the Rings*, khi phát hiện ra các từ khóa ("LOTR Nhẫn") trong các tệp chương trình của *Lego Cướp biển vùng Caribbean: Trò chơi điện tử*. Tuy nhiên, những người dùng Wikia khác nhận xét rằng những từ khóa đó có thể có ý nghĩa khác trong các tập tin.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Vào năm 2011, một người dùng Wikia tuyên bố đã tìm thấy một chút bằng chứng về trò chơi điện tử Lego *The Lord of the Rings* khi phát hiện ra các từ khóa ("LOTR Ring") trong tệp chương trình của *Lego Cướp biển vùng Caribbean: Trò chơi điện tử*. Tuy nhiên, những người dùng Wikia khác nhận xét rằng những từ khóa đó có thể có ý nghĩa khác trong các tập tin.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Cách chơi {#Gameplay}
 
 Trò chơi tuân theo công thức truyền thống phổ biến cho hầu hết các trò chơi Lego của Traveller's Tales. Mỗi cấp độ đại diện cho các sự kiện từ các chương tương ứng của bộ phim mà chúng miêu tả. Thế giới được tạo thành từ cả đồ vật Lego và đồ vật không phải Lego. Các đồ vật Lego có thể tương tác được, cho dù điều đó liên quan đến việc bẻ chúng để lấy đinh tán (đơn vị tiền tệ trong trò chơi), lắp ráp chúng từ các mảnh Lego thành phần hoặc thao tác chúng theo một số cách như đẩy thùng để sử dụng làm bệ. Nhiều nhân vật có những khả năng độc đáo, chẳng hạn như nhân vật yêu tinh nhảy cao hơn những nhân vật còn lại hoặc nhân vật thuật sĩ sử dụng cây gậy ma thuật để tấn công. Người chơi cũng sẽ tham gia chiến đấu với kẻ thù. Khi chúng bị tấn công bởi kẻ thù hoặc các mối nguy hiểm từ môi trường như lửa, người chơi sẽ mất một trái tim. Sau khi mất hết trái tim, nhân vật của người chơi bị tan vỡ, xuất hiện trở lại vài giây sau đó nhưng bị mất đinh tán trong quá trình này. Trò chơi có lối chơi hợp tác thả vào, có nghĩa là người chơi thứ hai có thể nắm quyền điều khiển một nhân vật khác bất cứ lúc nào để hỗ trợ người chơi đầu tiên. Họ cũng có thể bỏ học và để máy tính tiếp tục kiểm soát nhân vật.
 
-Mục tiêu của mỗi cấp độ khác nhau. Một số cấp độ chỉ yêu cầu người chơi đi đến cuối cùng. Các cấp độ khác có thể yêu cầu các mục tiêu phức tạp hơn, chẳng hạn như đánh bại một nhân vật trùm mạnh mẽ hoặc thực hiện một thay đổi lớn về môi trường. Lần chơi đầu tiên của mỗi cấp độ luôn ở "Chế độ câu chuyện", tái hiện lại các sự kiện trong phim. Các lần chơi tiếp theo có thể được thực hiện ở chế độ "Chơi miễn phí", trong đó bất kỳ nhân vật nào mà người chơi đã mở khóa đều có thể được sử dụng để thu thập các vật phẩm bổ sung hoặc mở khóa các khu vực mới. Ở giữa các cấp độ, người chơi khám phá trò giải trí Trung Địa và có thể hoàn thành các thử thách nhỏ để lấy gạch Mithril, một trong những vật phẩm sưu tầm chính của trò chơi. Người chơi cũng có thể di chuyển nhanh bằng cách chọn vị trí hoặc cấp độ mong muốn trên màn hình bản đồ của thế giới ngầm.
+Mục tiêu của mỗi cấp độ khác nhau. Một số cấp độ chỉ yêu cầu người chơi đi đến cuối cùng. Các cấp độ khác có thể yêu cầu các mục tiêu phức tạp hơn, chẳng hạn như đánh bại một nhân vật trùm mạnh mẽ hoặc thực hiện một thay đổi lớn về môi trường. Lần chơi đầu tiên của mỗi cấp độ luôn ở "Chế độ câu chuyện", tái hiện lại các sự kiện trong phim. Các lần chơi tiếp theo có thể được thực hiện ở chế độ "Chơi miễn phí", trong đó bất kỳ nhân vật nào mà người chơi đã mở khóa đều có thể được sử dụng để thu thập các vật phẩm bổ sung hoặc mở khóa các khu vực mới. Ở giữa các cấp độ, người chơi khám phá một trò giải trí ở Trung Địa và có thể hoàn thành các thử thách nhỏ để lấy gạch Mithril, một trong những vật phẩm sưu tầm chính của trò chơi. Người chơi cũng có thể di chuyển nhanh bằng cách chọn vị trí hoặc cấp độ mong muốn trên màn hình bản đồ của thế giới ngầm.
 
 ## Truyền {#Cast}
 
@@ -230,7 +230,7 @@ Mục tiêu của mỗi cấp độ khác nhau. Một số cấp độ chỉ yê
 
 ## Cấp độ {#Levels}
 
-### The Fellowship of the Ring {#The_Fellowship_of_the_Ring}
+### Hiệp hội nhẫn {#The_Fellowship_of_the_Ring}
 
 <table class="wikitable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
@@ -262,7 +262,7 @@ Mục tiêu của mỗi cấp độ khác nhau. Một số cấp độ chỉ yê
 <td>The Fighting Uruk-hai<br/>Parth Galen<br/>The Breaking of the Fellowship
 </td></tr></tbody></table>
 
-### The Two Towers {#The_Two_Towers}
+### Hai tòa tháp {#The_Two_Towers}
 
 <table class="wikitable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
@@ -294,7 +294,7 @@ Mục tiêu của mỗi cấp độ khác nhau. Một số cấp độ chỉ yê
 <td>Osgiliath<br/>The Flooding of Isengard<br/>The Nazgûl Attack
 </td></tr></tbody></table>
 
-### The Return of the King {#The_Return_of_the_King}
+### Sự trở lại của nhà vua {#The_Return_of_the_King}
 
 <table class="wikitable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
@@ -329,11 +329,11 @@ Mục tiêu của mỗi cấp độ khác nhau. Một số cấp độ chỉ yê
 ## Xem thêm {#See_also}
 
 - [Lego](Lego.md)
-- [Lego The Hobbit: Trò chơi điện tử](Lego_The_Hobbit%253A_The_Video_Game.md)
+- [Lego The Hobbit: The Video Game](Lego_The_Hobbit%253A_The_Video_Game.md)
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Lego_The_Lord_of_the_Rings_(video_game)" title="wikipedia:Lego The Lord of the Rings (video game)">Lego The Lord of the Rings (trò chơi điện tử)</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Lego_The_Lord_of_the_Rings_(video_game)" title="wikipedia:Lego The Lord of the Rings (video game)">Lego Chúa tể của những chiếc nhẫn (trò chơi điện tử)</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 
 <span></span>
 

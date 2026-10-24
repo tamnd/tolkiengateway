@@ -29,11 +29,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Island</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Elvet-isle</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../O/Old_Forest.md" title="Old Forest">Old Forest</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Island</td></tr><tr><th scope="row" class="tg-infobox-label">Description</th><td class="tg-infobox-data">island in the <a href="../W/Withywindle.md" title="Withywindle">Withywindle</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../S/Swans.md" title="Swans">swans</a></td></tr></tbody></table>
 
-**Elvet-isle** là một hòn đảo ở [Withywindle](../W/Withywindle.md) trong [Khu Rừng Cổ](../O/Old_Forest.md). Hòn đảo này là nơi sinh sống của [thiên nga](../S/Swans.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Elvet-isle** là một hòn đảo ở [Withywindle](../W/Withywindle.md) trong [Rừng Cũ](../O/Old_Forest.md). Hòn đảo này là nơi sinh sống của [thiên nga](../S/Swans.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Elvet* là một từ cũ có nghĩa là "thiên nga" bắt nguồn từ [tiếng Anh cổ](../O/Old_English.md) *elfetu* hoặc *ilfetu*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+*Elvet* là một từ cổ có nghĩa là "thiên nga" từ [tiếng Anh cổ](../O/Old_English.md) *elfetu* hoặc *ilfetu*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

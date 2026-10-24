@@ -25,15 +25,15 @@ images:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/b/b4/CdxIconBold-f.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article displays one of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s <a href="../../category/W/Writing_systems.md" title="Category:Writing systems">writing systems</a>. For optimal viewing, install the following font: <b><a class="external text" href="http://www.tolkiendil.com/telechargements/polices/angerthas_et_runes#angerthas_moria" rel="noreferrer noopener" target="_blank">Cirth Erebor</a> by <a href="../D/Dan_Smith.md" title="Dan Smith">Dan Smith</a></b>.
 </div></div>
 
-**Angerthas Moria** là một biến thể của [Cirth](../C/Cirth.md) được sử dụng bởi [Người Lùn](../D/Dwarves.md) của [Moria](../M/Moria.md).
+**Angerthas Moria** là một biến thể của [Cirth](../C/Cirth.md) được sử dụng bởi [Người lùn](../D/Dwarves.md) của [Moria](../M/Moria.md).
 
 ## Lịch sử {#History}
 
-Trong [Thời đại thứ hai](../S/Second_Age.md), hoặc có thể là thời kỳ đầu của nó, [Người Lùn](../D/Dwarves.md) đã quen với [Angerthas](Angerthas.md) của [Noldor](../N/Noldor.md) ([Angerthas Daeron](Angerthas_Daeron.md)) và họ đã sửa đổi nó cho phù hợp với [Khuzdul](../K/Khuzdul.md), ngôn ngữ của họ. Bảng chữ cái này đã được phổ biến rộng rãi hơn ở bất cứ nơi nào Người Lùn đi tới.
+Trong [Thời đại thứ hai](../S/Second_Age.md), hoặc có thể là thời kỳ đầu của nó, [Người lùn](../D/Dwarves.md) đã quen với [Angerthas](Angerthas.md) của [Noldor](../N/Noldor.md) ([Angerthas Daeron](Angerthas_Daeron.md)) và họ đã sửa đổi nó cho phù hợp với [Khuzdul](../K/Khuzdul.md), ngôn ngữ của họ. Bảng chữ cái này đã được phổ biến rộng rãi hơn ở bất cứ nơi nào Người lùn đặt chân đến.
 
-Nhiều thế kỷ sau, khi Người Lùn xâm chiếm [Erebor](../L/Lonely_Mountain.md), hệ thống này đã được phát triển hơn nữa và tạo ra [Angerthas Erebor](Angerthas_Erebor.md).
+Nhiều thế kỷ sau, khi Người lùn xâm chiếm [Erebor](../L/Lonely_Mountain.md), hệ thống này đã được phát triển hơn nữa và tạo ra [Angerthas Erebor](Angerthas_Erebor.md).
 
-Thuộc địa của [Balin](../B/Balin's_Colony~64118.md) dường như đã sử dụng hệ thống cũ này khi họ khai hoang [Moria](../M/Moria.md). Ngôi mộ của [Balin](../B/Balin's_Tomb.md) trong [Phòng Mazarbul](../C/Chamber_of_Mazarbul.md) có một dòng chữ trong hệ thống đó:
+[Thuộc địa của Balin](../B/Balin's_Colony~64118.md) dường như đã sử dụng hệ thống cũ này khi họ chiếm lại [Moria](../M/Moria.md). [Lăng mộ của Balin](../B/Balin's_Tomb.md) trong [Phòng Mazarbul](../C/Chamber_of_Mazarbul.md) có một dòng chữ trong hệ thống đó:
 
 <center><em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">2calu<br/>
 <p>3SdluSa<br/>
@@ -44,17 +44,17 @@ Sw2c9eVcwc99D6S</em></center>
 
 ## Đặc điểm {#Characteristics}
 
-Người Lùn đã giới thiệu nhiều vòng tròn mới và một số thay đổi nhỏ không mang tính hệ thống đối với các giá trị.
+Người lùn đã đưa ra nhiều thay đổi mới và một số thay đổi nhỏ không mang tính hệ thống đối với các giá trị.
 
 Thay đổi lớn nhất trong số những thay đổi đó, dẫn đến sự sắp xếp lại trật tự lớn, là sự chuyển đổi vòng tròn của S và H (<em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">f</em> và <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">.</em>).
 
-Không rõ vì lý do gì, Người Lùn cũng bỏ vòng tròn <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">$</em> (ZH), <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">q</em> (J) và đối với những âm thanh đó, họ đã thay thế <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">R</em>, <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">T</em>mà Tiên tộc sử dụng cho các âm thanh R/RH.
+Không rõ vì lý do gì, Người lùn cũng bỏ đi vòng tròn <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">$</em> (ZH), <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">q</em> (J) và đối với những âm thanh đó, họ thay thế <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">R</em>, <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">T</em>mà Người Yêu tinh sử dụng cho các âm R/RH.
 
-Sau đó đối với R, Người Lùn được sử dụng <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">@</em> có giá trị N theo Tiên tộc; sau đó đối với âm N, họ chọn chứng chỉ <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">u</em> mà Tiên tộc dùng cho âm Ñ, vô dụng trong Khuzdul.
+Sau đó, đối với R, Người lùn sử dụng <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">@</em> có giá trị N theo Người yêu tinh; sau đó đối với âm N, họ chọn chứng chỉ <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">u</em> mà Yêu tinh sử dụng cho âm Ñ, vô dụng ở Khuzdul.
 
-Họ cũng đã phát minh ra chứng chỉ mới <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">,</em>, được sử dụng như một dạng thay thế, đơn giản hóa của <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">u</em>. Lấy cảm hứng từ mối quan hệ trực quan của hai chữ cái đó, họ đã gán cho <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">w</em> giá trị Z (được sử dụng cho *ny* bởi Tiên tộc) để liên kết tốt hơn với <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">.</em>, hiện có giá trị S.
+Họ cũng đã phát minh ra chứng chỉ mới <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">,</em>, được sử dụng như một dạng thay thế, đơn giản hóa của <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">u</em>. Lấy cảm hứng từ mối quan hệ trực quan của hai chữ cái đó, họ đã đặt cho <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">w</em> giá trị của Z (được người Yêu tinh sử dụng cho *ny*) để liên kết tốt hơn với <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">.</em>, hiện có giá trị S.
 
-Chúng tôi không biết bất kỳ vòng tròn nào khác bị Người Lùn bỏ rơi nhưng chắc chắn có rất nhiều, vì có nhiều vòng tròn thể hiện âm thanh không xuất hiện trong (ít nhất là các từ đã xuất bản của chúng tôi về) Khuzdul, như *th, dh, hw*, v.v. Cũng thật lạ khi nhận thấy rằng một số vòng tròn mà họ giới thiệu đại diện cho các âm thanh không xuất hiện trong ngôn ngữ của họ, như *nj, hy, ñ, y-, hy*! Tất nhiên, kho ngữ liệu Khuzdul của chúng tôi rất hạn chế để đánh giá sự cần thiết hay không của những âm thanh này.
+Chúng tôi không biết bất kỳ vòng tròn nào khác bị Người lùn bỏ rơi nhưng chắc chắn có rất nhiều, vì có rất nhiều vòng tròn thể hiện âm thanh không xuất hiện trong (ít nhất là các từ đã xuất bản của chúng tôi về) Khuzdul, như *th, dh, hw*, v.v. Cũng thật kỳ lạ khi nhận thấy rằng một số vòng tròn mà họ giới thiệu lại thể hiện các âm thanh không xuất hiện trong ngôn ngữ của họ, như *nj, hy, ñ, y-, hy*! Tất nhiên, kho ngữ liệu Khuzdul của chúng tôi rất hạn chế để đánh giá sự cần thiết hay không của những âm thanh này.
 
 ## Bảng {#Table}
 

@@ -39,37 +39,37 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_58.gif.md"><img src="https://tolkiengateway.net/w/images/c/ce/Mythlore_58.gif" decoding="async" loading="lazy" width="225" height="292" class="mw-file-element" data-file-width="225" data-file-height="292"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 58</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Summer <a href="../_/1989.md" title="1989">1989</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">67</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_57.md" title="Mythlore 57">Mythlore 57</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_59.md" title="Mythlore 59">Mythlore 59</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 58</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol15/iss4/" rel="noreferrer noopener" target="_blank">Tập 15, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 58</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol15/iss4/" rel="noreferrer noopener" target="_blank">Tập 15, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Burns, Marjorie J. “J.R.R. Tolkien và Hành trình về phía Bắc.”
-- Pennington, John. “Sự ngây thơ, kinh nghiệm và trí tưởng tượng trong thế giới của Peter Beagle.”
-- Người quay phim, Kath. “*La Belle Dame Sans Merci*: Phê bình Văn hóa và Tưởng tượng Huyền thoại trong *Lilith*của George MacDonald.”
-- Lindskoog, Kathryn. “Dây chuyền vàng của sự trùng hợp: Một câu đố C.S. Lewis đã được giải và bí ẩn để suy ngẫm.”
-- Bãi biển, Sarah. “‘Thần thoại về Angle-Land’: J.R.R. Tolkien và Thần thoại sáng tạo.”
-- Carey, Rebecca A. “J.M. Barrie và Du Mauriers.”
-- Flieger, Verlyn. “Nguyên tắc Ouroboros: Thời gian và tình yêu trong *Zimiamvia*.”
-- Hauptman, Robert. “ Joseph Campbell: Nhà thần thoại học.”
+- Burns, Marjorie J. “J.R.R. Tolkien and the Journey North.”
+- Pennington, John. “Innocence and Experience and the Imagination in the World of Peter Beagle.”
+- Filmer, Kath. “*La Belle Dame Sans Merci*: Cultural Criticism and the Mythopoeic Imagination in George MacDonald's *Lilith*.”
+- Lindskoog, Kathryn. “Golden Chains of Coincidence: A C.S. Lewis Puzzle Solved and Mystery to Ponder.”
+- Beach, Sarah. “‘A Myth for Angle-Land’: J.R.R. Tolkien and Creative Mythology.”
+- Carey, Rebecca A. “J.M. Barrie and the Du Mauriers.”
+- Flieger, Verlyn. “The Ouroboros Principle: Time and Love in *Zimiamvia*.”
+- Hauptman, Robert. “Joseph Campbell: Mythologist.”
 
 #### Thơ {#Poetry}
 
-- Christopher, Joe R. “Lost Tales của Narnia.”
+- Christopher, Joe R. “Lost Tales of Narnia.”
 - Winter-Damon, t. “Cả thế giới là giấc mơ của Druid.”
 
 #### Tính năng {#Features}
 
-- GoodKnight, Glen H. Editorial Giới thiệu: Tiến tới Stock và Tiến về phía trước.
-- Christopher, Joe R., Wayne G. Hammond và Pat Allen Hargis. Một Inklings Thư mục (35).
+- GoodKnight, Glen H. Editorial Introduction: Taking Stock and Going Forward.
+- Christopher, Joe R., Wayne G. Hammond, and Pat Allen Hargis. An Inklings Bibliography (35).
 - Hyde, Paul Nolan. “Quenti Lambardillion.”
-- Kodratiev, Alexei. “Những câu chuyện mới được kể.”
+- Kondratiev, Alexei. “Tales Newly Told.”
 - Thư.
 
 #### Đánh giá {#Reviews}
 
-- *The Return of the Shadow: The History of The Lord of the Rings, Phần thứ nhất.* J.R.R. Tolkien. Được đánh giá bởi Wayne G. Hammond.
+- *Sự trở lại của bóng tối: Lịch sử Chúa tể của những chiếc nhẫn, Phần một.* J.R.R. Tolkien. Được đánh giá bởi Wayne G. Hammond.
 - *Hương vị quả dứa: Các bài tiểu luận về C.S. Lewis với tư cách là Người đọc, Nhà phê bình và Nhà văn giàu trí tưởng tượng.* Bruce L. Edwards, ed. Được đánh giá bởi Nancy-Lou Patterson.
 - *The C.S. Lewis Hoax.* Kathryn Lindskoog. Được đánh giá bởi Nancy-Lou Patterson.
 - *The C.S. Lewis Hoax.* Kathryn Lindskoog. Được đánh giá bởi John D. Rateliff.

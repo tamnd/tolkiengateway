@@ -22,7 +22,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Michael_Hague.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0a/Michael_Hague.jpg/200px-Michael_Hague.jpg" decoding="async" loading="lazy" width="200" height="261" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0a/Michael_Hague.jpg/300px-Michael_Hague.jpg 1.5x, https://tolkiengateway.net/w/images/0/0a/Michael_Hague.jpg 2x" data-file-width="331" data-file-height="432"/></a><figcaption></figcaption></figure>
 
-**Michael Hague** (sinh [tháng Chín 8](../_/8_September.md), [1948](../_/1948.md) - [10 tháng 3](../_/10_March.md), [2026](../_/2026.md)) nổi tiếng với những bức tranh minh họa trong sách dành cho trẻ em và đã thực hiện một số bức tranh minh họa cho ấn bản minh họa [The Hobbit](../T/The_Hobbit.md).
+**Michael Hague** (sinh [8 tháng 9](../_/8_September.md), [1948](../_/1948.md) - [10 tháng 3](../_/10_March.md), [2026](../_/2026.md)) nổi tiếng với những bức minh họa trong sách dành cho trẻ em và đã thực hiện một số minh họa cho ấn bản minh họa [The Hobbit](../T/The_Hobbit.md).
 
 ## Xem thêm {#See_also}
 
@@ -32,7 +32,7 @@ images:
 
 - <a class="external text" href="http://michaelhague.com/" rel="noreferrer noopener" target="_blank">Trang web chính thức</a>
 - <a class="external text" href="http://www.embracingthechild.org/ahague.html" rel="noreferrer noopener" target="_blank">Tiểu sử tại EmbracingTheChild.com</a>
-- <a class="external text" href="http://www.hobbit.ca/Artwork.html" rel="noreferrer noopener" target="_blank">Mua tác phẩm nghệ thuật gốc Michael Hague từ Hobbit.ca</a>
+- <a class="external text" href="http://www.hobbit.ca/Artwork.html" rel="noreferrer noopener" target="_blank">Mua tác phẩm nghệ thuật gốc của Michael Hague từ Hobbit.ca</a>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

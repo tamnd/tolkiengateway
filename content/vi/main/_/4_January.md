@@ -71,11 +71,11 @@ Sự kiện xảy ra vào ngày 4 tháng 1.
 - **[1940](1940.md)** - Diễn viên lồng tiếng [David Collings](../D/David_Collings.md) ra đời.
 - **[1961](1961.md)** - Diễn viên [Graham McTavish](../G/Graham_McTavish.md) ra đời.
 - **[1966](1966.md)** - Tác giả và nhà ngôn ngữ học [Arden R. Smith](../A/Arden_R._Smith.md) ra đời.
-- **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho Ken Jackson](<../L/Letter_to_Ken_Jackson_(4_January_1968).md>).
+- **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Ken Jackson](<../L/Letter_to_Ken_Jackson_(4_January_1968).md>).
 - **[1991](1991.md)** - Nữ diễn viên [Olivia Tennet](../O/Olivia_Tennet.md) ra đời.
 - **[2005](2005.md)** - [Người viết tiểu sử](../J/J.R.R._Tolkien%253A_A_Biography.md) và [biên tập viên](../T/The_Letters_of_J.R.R._Tolkien.md) [Humphrey Carpenter](../H/Humphrey_Carpenter.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Con [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía nam dọc theo [Dãy Núi Sương Mù](../M/Misty_Mountains.md).
+    - [Hiệp hội Nhẫn thần](../F/Fellowship_of_the_Ring.md) đi về phía nam dọc theo [Dãy núi Sương mù](../M/Misty_Mountains.md).

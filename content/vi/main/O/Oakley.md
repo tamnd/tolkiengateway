@@ -17,11 +17,11 @@ langlinks:
     url: "https://kontu.wiki/Oakley"
 ---
 
-**Oakley** (bằng tiếng Vulgar) hoặc **Quercetum** (bằng tiếng Latin) là một ngôi làng lân cận của [Ham](../H/Ham.md) nơi [Farmer Giles](../F/Farmer_Giles.md) sinh sống. Khi [con rồng](../D/Dragons.md#Other_fiction) [Chrysophylax](../C/Chrysophylax.md) đến [Vương quốc Trung tâm](../M/Middle_Kingdom.md) ban đầu, nó ở rất xa nên người nông dân không phải lo lắng nhiều. Tuy nhiên, khi Chrysophylax đến Quercetum và ăn thịt cừu, bò, hai thanh niên và ông mục sư trong làng, người dân xứ Ham hoảng hốt và kêu gọi Giles cứu họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Oakley** (bằng tiếng Vulgar) hoặc **Quercetum** (bằng tiếng Latin) là một ngôi làng lân cận của [Ham](../H/Ham.md) nơi [Nông dân Giles](../F/Farmer_Giles.md) sinh sống. Khi [rồng](../D/Dragons.md#Other_fiction) [Chrysophylax](../C/Chrysophylax.md) đến [Trung Vương quốc](../M/Middle_Kingdom.md) ban đầu nó ở rất xa nên không phải là mối lo lắng lớn đối với người nông dân. Tuy nhiên, khi Chrysophylax đến Quercetum và ăn thịt cừu, bò, hai thanh niên và mục sư trong làng, người dân Ham đã hoảng hốt và kêu gọi Giles cứu họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Oakley* bắt nguồn từ [tiếng Anh cổ](Old_English.md) *acleah* 'gỗ sồi'.<sup id="cite_ref-oakley_2-0" class="reference"><a href="#cite_note-oakley-2">[2]</a></sup> Tiếng Latin *Quercetum* (cf. *quercus* 'sồi') cũng có ý nghĩa tương tự.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Oakley* bắt nguồn từ [Tiếng Anh cổ](Old_English.md) *acleah* 'gỗ sồi'.<sup id="cite_ref-oakley_2-0" class="reference"><a href="#cite_note-oakley-2">[2]</a></sup> Tiếng Latin *Quercetum* (cf. *quercus* 'sồi') cũng có ý nghĩa tương tự.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Faramir's defence of Osgiliath"
 ---
 
-Chuyển hướng tới phần bảo vệ Osgiliath](Faramir's_defence_of_Osgiliath.md) của [Faramir.
+Chuyển hướng đến [Faramir bảo vệ Osgiliath](Faramir's_defence_of_Osgiliath.md).

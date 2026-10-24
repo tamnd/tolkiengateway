@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Eißmann, Anke"
 ---
 
-- [Anke Eißmann](../../main/A/Anke_Eißmann.md) đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Anke_Eißmann.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- [Anke Eißmann](../../main/A/Anke_Eißmann.md) đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Anke_Eißmann.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 9 tháng 7 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

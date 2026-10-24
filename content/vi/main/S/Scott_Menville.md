@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Menville, Scott"
 ---
 
-**Scott Menville** ([12 tháng 2](../_/12_February.md), [1971](../_/1971.md)) là một diễn viên lồng tiếng người Mỹ, có lẽ được biết đến nhiều nhất với vai Robin trong bộ phim truyền hình <i><a class="extiw" href="http://en.wikipedia.org/wiki/Teen_Titans_(TV_series)" title="wikipedia:Teen Titans (TV series)">Teen Titans</a></i>. Anh ấy lồng tiếng cho [Samwise Gamgee](Samwise_Gamgee.md) trong trò chơi điện tử của [Vivendi](../V/Vivendi.md) *[The Lord of the Rings: The Fellowship of the Ring](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)*.
+**Scott Menville** ([12 tháng 2](../_/12_February.md), [1971](../_/1971.md)) là một diễn viên lồng tiếng người Mỹ, có lẽ được biết đến nhiều nhất với vai Robin trong bộ phim truyền hình <i><a class="extiw" href="http://en.wikipedia.org/wiki/Teen_Titans_(TV_series)" title="wikipedia:Teen Titans (TV series)">Teen Titans</a></i>. Ông lồng tiếng cho [Samwise Gamgee](Samwise_Gamgee.md) trong trò chơi điện tử của [Vivendi](../V/Vivendi.md) *[The Lord of the Rings: The Fellowship of the Ring](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)*.
 
 ## Liên kết ngoài {#External_links}
 

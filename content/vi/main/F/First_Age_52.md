@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_7.md" title="First Age 7">7</a><a href="First_Age_20.md" title="First Age 20">20</a><a href="First_Age_50.md" title="First Age 50">50</a><a class="mw-selflink selflink">52</a><a href="First_Age_53.md" title="First Age 53">53</a><a href="First_Age_60.md" title="First Age 60">60</a><a href="First_Age_64.md" title="First Age 64">64</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Nhất 52** (viết tắt là **F.A. 52**) là [năm thứ 52 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Thời đại thứ nhất 52** (viết tắt là **F.A. 52**) là [năm Mặt trời](../Y/Years_of_the_Sun.md) thứ 52 của [Thời đại thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sau khi nói chuyện với [Thingol](../T/Thingol.md), [Finrod](Finrod.md) khởi hành [Doriath](../D/Doriath.md) tìm kiếm các hang động bên dưới [High Faroth](../T/Taur-en-Faroth.md). [Galadriel](../G/Galadriel.md) ở lại Doriath vì tình bạn trong [Melian](../M/Melian.md).<sup id="cite_ref-S_1-0" class="reference"><a href="#cite_note-S-1">[1]</a></sup>
-- Finrod tìm ra hang động và thành lập vương quốc [Nargothrond](../N/Nargothrond.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Sau khi nói chuyện với [Thingol](../T/Thingol.md), [Finrod](Finrod.md) khởi hành [Doriath](../D/Doriath.md) tìm kiếm các hang động bên dưới [High Faroth](../T/Taur-en-Faroth.md). [Galadriel](../G/Galadriel.md) ở lại Doriath vì tình bạn với [Melian](../M/Melian.md).<sup id="cite_ref-S_1-0" class="reference"><a href="#cite_note-S-1">[1]</a></sup>
+- Finrod tìm thấy các hang động và thành lập vương quốc [Nargothrond](../N/Nargothrond.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

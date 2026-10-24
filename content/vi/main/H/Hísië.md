@@ -46,4 +46,4 @@ langlinks:
 </ol></div>
 
 - *[The Languages of Tolkien's Middle-earth](../T/The_Languages_of_Tolkien's_Middle-earth.md)* bởi [Ruth S. Noel](../R/Ruth_S._Noel.md)
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](Helge_Fauskanger.md)

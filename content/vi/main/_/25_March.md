@@ -66,12 +66,12 @@ Sự kiện xảy ra vào ngày 25 tháng 3
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1934](1934.md)** - Bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) *[Firiel](<../F/Firiel_(poem).md>)* được xuất bản trong [*Biên niên sử về các tu viện của Thánh Tâm* (Tập IV)](<../T/The_Chronicle_of_the_Convents_of_the_Sacred_Heart_(Volume_IV).md>).
+- **[1934](1934.md)** - Bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) *[Firiel](<../F/Firiel_(poem).md>)* được xuất bản trong [*The Chronicle of the Convents of the Sacred Heart* (Tập IV)](<../T/The_Chronicle_of_the_Convents_of_the_Sacred_Heart_(Volume_IV).md>).
 - **[1967](1967.md)** - *The Scotsman* đăng bài phỏng vấn [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) của William Foster.
 - **[1968](1968.md)** - Diễn viên [Michael Reisz](../M/Michael_Reisz.md) ra đời.
 - **[1979](1979.md)** - Diễn viên [Lee Pace](../L/Lee_Pace.md) ra đời.
-- **[1986](1986.md)** - Hiệp hội [Tolkien Thụy Sĩ](../T/Tolkien_Societies~67099.md) [Eredain](../E/Eredain.md) được thành lập.
-- Kể từ **[2003](2003.md)** - [Tolkien Ngày Đọc](../T/Tolkien_Reading_Day.md).
+- **[1986](1986.md)** - Hiệp hội [Tolkien](../T/Tolkien_Societies~67099.md) [Eredain](../E/Eredain.md) của Thụy Sĩ được thành lập.
+- Kể từ **[2003](2003.md)** - [Ngày đọc Tolkien](../T/Tolkien_Reading_Day.md).
 - **[2014](2014.md)** - *[Anglo-Saxon Community in J.R.R. Tolkien's the Lord of the Rings](../A/Anglo-Saxon_Community_in_J.R.R._Tolkien's_the_Lord_of_the_Rings.md)* được xuất bản.
 - **[2015](2015.md)** - [Tolkien Estate](../T/Tolkien_Estate.md) ra mắt phiên bản mới của website *tolkienestate.com*, bao gồm nhiều bài viết.
 - **[2019](2019.md)** - *[Tolkien the Pagan?](../T/Tolkien_the_Pagan%253F.md)* được xuất bản.
@@ -79,24 +79,24 @@ Sự kiện xảy ra vào ngày 25 tháng 3
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
-    - [Borondir](../B/Borondir.md) tiếp cận [Éothéod](Éothéod.md) và chuyển cho họ thông điệp về [Cirion](../C/Cirion.md), [Người quản lý của Gondor](../S/Stewards_of_Gondor.md).
+    - [Borondir](../B/Borondir.md) đến [Éothéod](Éothéod.md) và chuyển cho họ thông điệp về [Cirion](../C/Cirion.md), [Quản gia Gondor](../S/Stewards_of_Gondor.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đạo quân Phương Tây bị bao vây bởi kẻ thù trên Đồi Xỉ.
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) đến [Sammath Naur](../C/Cracks_of_Doom.md). [Gollum](../G/Gollum.md) nắm lấy [Chiếc nhẫn](../T/The_One_Ring.md) và rơi vào [Cracks of Doom](../C/Cracks_of_Doom.md).
-    - Sự sụp đổ của [Barad-dûr](../B/Barad-dûr.md) và vượt qua [Sauron](../S/Sauron.md).
-    - [Frodo](../F/Frodo.md) và [Samwise](../S/Samwise.md) được nuôi dưỡng bởi [Gwaihir](../G/Gwaihir.md) và những người anh em của anh ta.
+    - Quân chủ phương Tây bị bao vây bởi kẻ thù trên Đồi Xỉ.
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) đến [Sammath Naur](../C/Cracks_of_Doom.md). [Gollum](../G/Gollum.md) chiếm lấy [Chiếc nhẫn](../T/The_One_Ring.md) và rơi vào [Cracks of Doom](../C/Cracks_of_Doom.md).
+    - Sự sụp đổ của [Barad-dûr](../B/Barad-dûr.md) và sự sụp đổ của [Sauron](../S/Sauron.md).
+    - [Frodo](../F/Frodo.md) và [Samwise](../S/Samwise.md) được chăm sóc bởi [Gwaihir](../G/Gwaihir.md) và những người anh em của ông.
     - [Faramir](../F/Faramir.md) và [Éowyn](Éowyn.md) quan sát từ các bức tường của [Minas Tirith](../M/Minas_Tirith.md) khi bóng tối được dỡ bỏ khỏi [Mordor](../M/Mordor.md).
     - Một con đại bàng mang tin đến [Minas Tirith](../M/Minas_Tirith.md) về sự sụp đổ của [Sauron](../S/Sauron.md).
-    - Bắt đầu năm mới vào [Gondor](../G/Gondor.md).
+    - Bắt đầu năm mới ở [Gondor](../G/Gondor.md).
 - [T.A.](../T/Third_Age.md) [3020](../T/Third_Age_3020.md):
-    - [Samwise](../S/Samwise_Gamgee.md) trở lại [Shire](../S/Shire.md) sau công việc lâm nghiệp; Frodo bị ốm, nhưng anh ấy đã bình phục và không nói gì về mình với Samwise.
+    - [Samwise](../S/Samwise_Gamgee.md) trở lại [Shire](../S/Shire.md) sau công việc lâm nghiệp; Frodo bị ốm, nhưng ông đã bình phục và không nói gì về bản thân với Samwise.
 - [T.A.](../T/Third_Age.md) [3021](../T/Third_Age_3021.md):
-    - Bắt đầu [Kỷ Đệ Tứ](../F/Fourth_Age.md) tính [Gondor](../G/Gondor.md).<sup id="cite_ref-chief_1-0" class="reference"><a href="#cite_note-chief-1">[1]</a></sup>
+    - Bắt đầu [Thời đại thứ tư](../F/Fourth_Age.md) trong thời kỳ [Gondor](../G/Gondor.md).<sup id="cite_ref-chief_1-0" class="reference"><a href="#cite_note-chief-1">[1]</a></sup>
     - [Elanor the Fair](../E/Elanor_Gardner.md), con gái của Samwise, chào đời.<sup id="cite_ref-chief_1-1" class="reference"><a href="#cite_note-chief-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-[Tolkien](../J/J.R.R._Tolkien.md) đã lưu ý trong *[Nomenclature](../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md)* rằng ngày chiếc Nhẫn bị phá hủy đã được chọn có chủ đích. Nó trùng với lễ <a class="extiw" href="http://en.wikipedia.org/wiki/Annunciation" title="wikipedia:Annunciation">Truyền Tin</a> hoặc <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Day" title="wikipedia:Lady Day">Ngày Đức Mẹ</a>, ngày Chúa Cứu Thế đến trần gian. Cũng cần lưu ý, Tolkien có thể đã chọn ngày 25 tháng 3 là ngày chiếc Nhẫn Chúa bị phá hủy (cho thấy ảnh hưởng của [đức tin Công giáo](../C/Christianity.md) của ông) vì đây được nhiều người tin là ngày mất của <a class="extiw" href="http://en.wikipedia.org/wiki/Jesus_Christ" title="wikipedia:Jesus Christ">Chúa Giêsu Kitô</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Tolkien](../J/J.R.R._Tolkien.md) đã lưu ý trong *[Nomenclature](../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md)* rằng ngày chiếc Nhẫn bị phá hủy đã được chọn có chủ đích. Nó trùng với lễ <a class="extiw" href="http://en.wikipedia.org/wiki/Annunciation" title="wikipedia:Annunciation">Truyền Tin</a> hoặc <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Day" title="wikipedia:Lady Day">Ngày Đức Mẹ</a>, ngày Chúa Cứu Thế đến trần gian. Cũng cần lưu ý rằng Tolkien có thể đã chọn ngày 25 tháng 3 là ngày chiếc Nhẫn Chúa bị phá hủy (cho thấy ảnh hưởng của [đức tin Công giáo](../C/Christianity.md) của ông) vì đây được nhiều người tin là ngày mất của <a class="extiw" href="http://en.wikipedia.org/wiki/Jesus_Christ" title="wikipedia:Jesus Christ">Chúa Giêsu Kitô</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

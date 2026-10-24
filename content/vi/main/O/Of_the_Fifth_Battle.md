@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of the Fifth Battle: Nirnaeth Arnoediad"
 ---
 
-Chuyển hướng đến [Trong trận chiến thứ năm: Nirnaeth Arnoediad](Of_the_Fifth_Battle%253A_Nirnaeth_Arnoediad.md).
+Chuyển hướng đến [Of the Fifth Battle: Nirnaeth Arnoediad](Of_the_Fifth_Battle%253A_Nirnaeth_Arnoediad.md).

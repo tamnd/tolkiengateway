@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lotho Sackville-Baggins"
 ---
 
-Chuyển hướng tới [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md).
+Chuyển hướng đến [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md).

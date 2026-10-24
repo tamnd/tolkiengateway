@@ -24,15 +24,15 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Joy_Hill.png.md"><img src="https://tolkiengateway.net/w/images/c/c9/Joy_Hill.png" decoding="async" loading="lazy" width="164" height="203" class="mw-file-element" data-file-width="164" data-file-height="203"/></a><figcaption>Joy Hill and J.R.R. Tolkien</figcaption></figure>
 
-**Margaret Joy Hill** ([1936](../_/1936.md)-[1991](../_/1991.md)) trở thành thư ký của [J.R.R. Tolkien](J.R.R._Tolkien.md) trong những năm 1960, làm việc cho [George Allen &amp; Unwin](../A/Allen_and_Unwin.md) từ cuối tuổi thiếu niên.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Margaret Joy Hill** ([1936](../_/1936.md)-[1991](../_/1991.md)) trở thành thư ký của [J.R.R. Tolkien](J.R.R._Tolkien.md) trong những năm 1960, làm việc cho [George Allen & Unwin](../A/Allen_and_Unwin.md) từ cuối tuổi thiếu niên.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong [1966](../_/1966.md) cô đề nghị Tolkien xóa số điện thoại của anh ấy khỏi danh bạ công cộng để tránh các cuộc điện thoại từ người hâm mộ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tolkien cũng xin ý kiến ​​pháp lý của cô về việc từ chối một số người hâm mộ viết phần tiếp theo cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [1966](../_/1966.md) cô đề nghị Tolkien xóa số điện thoại của ông khỏi danh bạ công cộng để tránh các cuộc điện thoại từ người hâm mộ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tolkien cũng hỏi ý kiến ​​pháp lý của cô về việc từ chối một số người hâm mộ viết phần tiếp theo cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Trong [1967](../_/1967.md) bà đưa cho Tolkien một bản sao của *[The Children's Treasury of Literature](../T/The_Children's_Treasury_of_Literature.md)* và Tolkien lần lượt chuyển cho cháu trai nhỏ của ông, [Simon](../S/Simon_Tolkien.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong [1967](../_/1967.md) cô đưa cho Tolkien một bản sao *[The Children's Treasury of Literature](../T/The_Children's_Treasury_of_Literature.md)* mà Tolkien lần lượt chuyển cho cháu trai nhỏ của mình, [Simon](../S/Simon_Tolkien.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Trong [1968](../_/1968.md) cô phát hiện trong thư viện của Tolkien bài thơ [Bilbo Bài hát cuối cùng](../B/Bilbo's_Last_Song.md). Tolkien đã được tặng bản quyền cho cô ấy.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Trong [1968](../_/1968.md) cô phát hiện ra trong thư viện của Tolkien bài thơ [Bài hát cuối cùng của Bilbo](../B/Bilbo's_Last_Song.md). Tolkien đã tặng cô bản quyền của nó.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Vào [30 tháng 11](../_/30_November.md) [1969](../_/1969.md) Joy Hill đã tham dự sự kiện "[Một buổi chiều ở Trung Địa](../A/An_Afternoon_in_Middle-earth.md)", có bài phát biểu "Đối phó với một giáo phái". Tập sách chương trình cho sự kiện này cũng bao gồm một bài viết của Hill về [thư của người hâm mộ gửi Tolkien](../T/Tolkien_fandom.md), trong đó cô viết:
+Vào [30 tháng 11](../_/30_November.md) [1969](../_/1969.md) Joy Hill đã tham dự sự kiện "[Một buổi chiều ở Trung địa](../A/An_Afternoon_in_Middle-earth.md)", có bài phát biểu "Đối phó với một giáo phái". Tập sách chương trình cho sự kiện này cũng bao gồm một bài viết của Hill về [những bức thư của người hâm mộ gửi Tolkien](../T/Tolkien_fandom.md), trong đó cô viết:
 
 <blockquote class="tg-quote noexcerpt">
 <p>They come from all over the world; they come in English, French, German and Elvish... they come three posts a day, five days a week; they have been coming for quite some time and they are still coming; no longer just a few a day but an ever-increasing flow [...] The English are cautious in their approach and often begin &#39;I have hesitated to write and thank you&#39; whereas writers from across the Atlantic are very much bolder. &#39;Dear darling Professor&#39; wrote one hippy from San Fransisco, &#39;I have been on a trip to Middle-earth and it is indeed a beautiful place. I must see you&#39;. From Norfolk, Virginia, one letter ended: &#39;One day I shall corner you on a remote little star and we shall talk&#39;.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
@@ -46,14 +46,14 @@ Vào [30 tháng 11](../_/30_November.md) [1969](../_/1969.md) Joy Hill đã tham
 - [1968](../_/1968.md): *The Bookseller*, ngày 3 tháng 8 năm 1968
     - "Cuộc sống hàng ngày ở Trung Địa" (tr. 374)
 - [1969](../_/1969.md): *[An Afternoon in Middle-earth](../A/An_Afternoon_in_Middle-earth.md)*
-    - "Cuộc sống hàng ngày ở Trung Địa"
+    - "Cuộc sống thường nhật ở Trung Địa"
 - [1990](../_/1990.md): *Times* (London), ngày 10 tháng 12 năm 1990
-    - "Tiếng vang của người chỉ huy võ đài cũ" (tr. 16)
+    - "Tiếng vang của người chỉ huy cũ" (tr. 16)
 
 ## Xem thêm {#See_also}
 
-Bài hát cuối cùng của - [Bilbo](../B/Bilbo's_Last_Song.md)
-- *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*, [Thư 287](../L/Letter_287.md) gửi đồi Niềm Vui (tháng 5 năm 1966)
+- [Bài hát cuối cùng của Bilbo](../B/Bilbo's_Last_Song.md)
+- *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*, [Thư 287](../L/Letter_287.md) gửi đồi Niềm Vui (Tháng 5 năm 1966)
 - [Thư gửi Joy Hill (5 tháng 1 năm 1967)](<../L/Letter_to_Joy_Hill_(5_January_1967).md>)
 - [Thư gửi Joy Hill (tháng 6 năm 1969)](<../L/Letter_to_Joy_Hill_(June_1969).md>)
 - *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*, [Thư 292](../L/Letter_292.md) gửi đồi Niềm Vui (12/1969)

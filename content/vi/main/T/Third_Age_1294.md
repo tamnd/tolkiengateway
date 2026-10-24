@@ -16,7 +16,7 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1259.md" title="Third Age 1259">1259</a><a href="Third_Age_1260.md" title="Third Age 1260">1260</a><a href="Third_Age_1272.md" title="Third Age 1272">1272</a><a class="mw-selflink selflink">1294</a><a href="Third_Age_1300.md" title="Third Age 1300">1300</a><a href="Third_Age_1304.md" title="Third Age 1304">1304</a><a href="Third_Age_1309.md" title="Third Age 1309">1309</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 1294** (viết tắt là **T.A. 1294**) là năm [thứ 1294 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ ba 1294** (viết tắt là **T.A. 1294**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1294 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 

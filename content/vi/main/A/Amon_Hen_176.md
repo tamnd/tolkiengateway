@@ -45,7 +45,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen176.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c5/AmonHen176.jpg/320px-AmonHen176.jpg" decoding="async" loading="lazy" width="320" height="462" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c5/AmonHen176.jpg/480px-AmonHen176.jpg 1.5x, https://tolkiengateway.net/w/images/c/c5/AmonHen176.jpg 2x" data-file-width="569" data-file-height="821"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 176</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Brenda Marshall</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">July <a href="../_/2002.md" title="2002">2002</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">36</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_175.md" title="Amon Hen 175">Amon Hen 175</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_177.md" title="Amon Hen 177">Amon Hen 177</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 176</b> là số thứ một trăm bảy mươi sáu của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 7 [2002](../_/2002.md).
+<b><i>Amon Hen</i> 176</b> là số thứ 176 của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 7 [2002](../_/2002.md).
 
 ## Nội dung {#Contents}
 
@@ -54,7 +54,7 @@ infobox:
 - Biên tập
     - Bởi: [Andrew Butler](Andrew_Butler.md)
 - Nội dung
-- Bywater Thông báo
+- Thông báo bên bờ nước
     - Bởi: Malcolm Lindley
 - Thông báo
 - Tác phẩm nghệ thuật: *[Glorfindel](../G/Glorfindel.md)*
@@ -72,21 +72,21 @@ infobox:
     - Bởi: Andrew Moglestue
 - Tác phẩm nghệ thuật: *[Gollum](../G/Gollum.md)*
     - Bởi: Glen Tomney
-- Số phận đưa tôi đến đâu - Phần một
+- Số mệnh đưa tôi đến đâu - Phần một
     - Bởi: Alex Hall
 - Ô chữ
     - Bởi: Michael Kennedy
-- Đại học Marquette Thông báo
+- Thông báo của Đại học Marquette
     - Bởi: Matt Blessing
 - Thư
 - Gọi người bảo vệ già
     - Bởi: Andrew Butler
-- Tin từ Fangorn
+- Tin tức từ Fangorn
     - Bởi: Kim Mantas
 - Toán học
     - Bởi: Mark Waller
 - Hồ sơ thành viên
-    - Bởi: Mike Austin Johnson
+    - Bởi: Mike Johnson
 - Đoạn trích của Sally
     - Bởi: [Sally Kennett](../S/Sally_Kennett.md)
 - Thành viên mới

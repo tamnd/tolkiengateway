@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Quenya"
 ---
 
-Chuyển hướng đến [Quenya](Quenya.md).
+Chuyển hướng tới [Quenya](Quenya.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of Beleriand and its Realms"
 ---
 
-Chuyển hướng đến [Của Beleriand và các Vương quốc của nó](Of_Beleriand_and_its_Realms~31103.md).
+Chuyển hướng tới [Của Beleriand và các vương quốc của nó](Of_Beleriand_and_its_Realms~31103.md).

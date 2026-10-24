@@ -42,15 +42,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Freedom,_Fate_and_Choice_in_Middle-earth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9d/Freedom%2C_Fate_and_Choice_in_Middle-earth.jpg/320px-Freedom%2C_Fate_and_Choice_in_Middle-earth.jpg" decoding="async" loading="lazy" width="320" height="476" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/9/9d/Freedom%2C_Fate_and_Choice_in_Middle-earth.jpg 1.5x" data-file-width="336" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Freedom, Fate and Choice in Middle-earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Christopher Kreuzer</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/Jef_Murray.md" title="Jef Murray">Jef Murray</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">16 August <a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">54</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0-905520-28-5" title="Special:BookSources/978-0-905520-28-5">978-0-905520-28-5</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../P/Peter_Roe_Memorial_Fund.md" title="Peter Roe Memorial Fund">Peter Roe Memorial Fund</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../T/Tolkien%253A_Influenced_and_Influencing.md" title="Tolkien: Influenced and Influencing">Tolkien: Influenced and Influencing</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../J/Journeys_&amp;_Destinations.md" title="Journeys &amp; Destinations">Journeys &amp; Destinations</a></td></tr></tbody></table>
 
-<i><b>Tự do, Số phận và Lựa chọn trong Trung Địa</b></i> là tuyển tập các kỷ yếu của Hội thảo Xã hội Tolkien lần thứ 21 được tổ chức tại Đại học Roehampton vào năm 2008. Cuốn sách được xuất bản bởi [Hội Tolkien](../T/The_Tolkien_Society.md) tại [2012](../_/2012.md) dưới sự bảo trợ của [Quỹ tưởng niệm Peter Roe](../P/Peter_Roe_Memorial_Fund.md).
+<i><b>Tự do, Số phận và Lựa chọn ở Trung địa</b></i> là tập hợp các kỷ yếu của Hội thảo Hiệp hội Tolkien lần thứ 21 được tổ chức tại Đại học Roehampton vào năm 2008. Cuốn sách được xuất bản bởi [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) tại [2012](../_/2012.md) dưới sự bảo trợ của [Quỹ tưởng niệm Peter Roe](../P/Peter_Roe_Memorial_Fund.md).
 
 ## Nội dung {#Contents}
 
-- "Tiếng nói của âm nhạc - Mô hình ý chí tự do trong Trung Địa của Tolkien" của Troels Forchhammer
+- "Tiếng nói của âm nhạc - Mô hình ý chí tự do ở Trung Địa của Tolkien" của Troels Forchhammer
 - "Số phận và tự do trong thế giới của Tolkien: Nghịch lý không thể giải quyết?" bởi [Charles E. Noad](../C/Charles_Noad.md)
-- "Lời thề của những đứa trẻ Ilúvatar trong Cuộc chiến Nhẫn" của Anne Marie Gazzolo
-- "Ai đã tạo ra số phận của Frodo? Tiên tộc hay chính anh ta?" của Sultana Raza
-- "Frodo's Fate" (thơ) của Sultana Raza
+- "Lời thề của những đứa con Ilúvatar trong Cuộc chiến trên chiếc nhẫn" của Anne Marie Gazzolo
+- "Ai đã tạo nên số phận của Frodo? Yêu tinh hay chính ông ta?" của Sultana Raza
+- "Số phận của Frodo" (thơ) của Sultana Raza
 
 <br clear="all"/>
 

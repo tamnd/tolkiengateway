@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Halbrand"
 ---
 
-Chuyển hướng đến [Halbrand](Halbrand.md).
+Chuyển hướng tới [Halbrand](Halbrand.md).

@@ -25,7 +25,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Eorclanstanas: or The Hobbitiana</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Biblioctupus (pseudonym; Mark Hime?)<sup id="cite_ref-MB_1-0" class="reference"><a href="#cite_note-MB-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Idyllwild, CA, USA: (self-published?)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1980.md" title="1980">1980</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Catalogue</td></tr></tbody></table>
 
-<i><b>Eorclanstanas: hoặc The Hobbitiana</b></i> là một danh mục đấu giá văn học từ thư viện "A. Himes".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup> Bao gồm một phiên bản chưa hoàn chỉnh của lời than thở của [Galadriel](../G/Galadriel's_lament~28273.md) (được xác định là DTS 55 - Đoạn "Galadriel's Lament" của [Mellonath Daeron](../F/Forodrim.md)). Phiên bản này "đến tận *airetári-lírinen*" và "kèm theo phiên âm sang các ký tự La Mã và bản dịch tiếng Anh".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> [Måns Björkman](../M/Måns_Björkman.md) đã cung cấp mô tả sau đây về phiên bản này:
+<i><b>Eorclanstanas: hoặc The Hobbitiana</b></i> là một danh mục đấu giá văn học từ thư viện "A. Himes".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup> Bao gồm một phiên bản chưa hoàn chỉnh của [Lời than thở của Galadriel](../G/Galadriel's_lament~28273.md) (được xác định là DTS 55 - Đoạn "Lời than thở của Galadriel" bởi [Mellonath Daeron](../F/Forodrim.md)). Phiên bản này "đến tận *airetári-lírinen*" và "kèm theo phiên âm sang các ký tự La Mã và bản dịch tiếng Anh".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> [Måns Björkman](../M/Måns_Björkman.md) đã cung cấp mô tả sau về phiên bản này:
 
 <blockquote class="tg-quote noexcerpt">
 <p>Here a variant occurs in which the diacritic is made up of <i>three</i> dots [...] The variant is used to indicate palatals in two instances out of five, while the remaining have the regular two dots.
@@ -36,7 +36,7 @@ infobox:
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Các mục được liệt kê bao gồm ấn bản đầu tiên của <i>The Tolkien Reader</i>, <i>The Road Goes Ever On</i>và <i>Smith of Wootton Major</i>và bốn số <i>TLS</i> từ 1974 (trong đó có thông báo rằng Christopher Tolkien sẽ biên tập tài liệu để lại để xuất bản).</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Các mục được liệt kê bao gồm ấn bản đầu tiên của <i>The Tolkien Reader</i>, <i>The Road Goes Ever On</i>và <i>Smith of Wootton Major</i>, và bốn số <i>TLS</i> từ 1974 (trong đó có thông báo rằng Christopher Tolkien sẽ biên tập tài liệu để lại để xuất bản).</span>
 </li>
 </ol></div></span>
 

@@ -32,8 +32,8 @@ infobox:
 
 **Mythcon 30** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 30.
 
-- **Chủ đề:** "Bree & Xa hơn nữa: Khám phá thế giới giả tưởng của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và những người bạn đồng hành của anh ấy
-- **Khách mời danh dự:** Sylvia Hunnewell (nghệ sĩ giả tưởng), S. Gary Hunnewell (Tolkien học giả) và [Douglas A. Anderson](../D/Douglas_A._Anderson.md) (Tolkien và học giả giả tưởng)
+- **Chủ đề:** "Bree & Beyond: Khám phá thế giới giả tưởng của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và những người bạn đồng hành của ông
+- **Guests of Honor:** Sylvia Hunnewell (fantasy artist), S. Gary Hunnewell (Tolkien scholar), and [Douglas A. Anderson](../D/Douglas_A._Anderson.md) (Tolkien and fantasy scholar)
 - **Chủ tịch:** Richard C. West
 
 ## Liên kết ngoài {#External_links}
@@ -42,8 +42,8 @@ infobox:
     - <a class="external text" href="https://www.mythsoc.org/mythcon/mythcon-30.htm" rel="noreferrer noopener" target="_blank">Trang web Mythcon 30</a>
     - Báo cáo:
         - <a class="external text" href="http://archives.theonering.net/events/pastevents/corvar_breemoot81.html" rel="noreferrer noopener" target="_blank">Báo cáo của Corvar</a>
-Báo cáo của         - <a class="external text" href="http://archives.theonering.net/events/pastevents/balin_breemoot81.html" rel="noreferrer noopener" target="_blank">Balin</a>
-        - <a class="external text" href="https://www.mythsoc.org/mythcon/mc30-report.htm#phillips" rel="noreferrer noopener" target="_blank">Mythcon XXX: Mordor với Muỗi</a> của Berni Phillips
+        - <a class="external text" href="http://archives.theonering.net/events/pastevents/balin_breemoot81.html" rel="noreferrer noopener" target="_blank">Báo cáo của Balin</a>
+        - <a class="external text" href="https://www.mythsoc.org/mythcon/mc30-report.htm#phillips" rel="noreferrer noopener" target="_blank">Mythcon XXX: Mordor with Mosquitos</a> của Berni Phillips
         - <a class="external text" href="https://www.mythsoc.org/mythcon/mc30-report.htm#bratman" rel="noreferrer noopener" target="_blank">Báo cáo MythMoot</a> của David Bratman
         - <a class="external text" href="https://www.mythsoc.org/mythcon/mc30-report.htm#speth" rel="noreferrer noopener" target="_blank">Simmerillion: Ký ức ấm áp</a> của Lee Speth
 - <a class="external text" href="http://www.mythsoc.org/" rel="noreferrer noopener" target="_blank">Trang web của Hội Thần thoại</a>

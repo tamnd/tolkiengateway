@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "He chanted a song of wizardry,"
 ---
 
-Chuyển hướng đến [Anh ấy hát một bài hát về phép thuật,](He_chanted_a_song_of_wizardry,.md).
+Chuyển hướng đến [Ông hát một bài hát về phép thuật,](He_chanted_a_song_of_wizardry,.md).

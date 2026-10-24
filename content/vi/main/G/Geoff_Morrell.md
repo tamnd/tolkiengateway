@@ -29,7 +29,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Geoff Morrell</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a class="mw-redirect" href="../F/February_19.md" title="February 19">February 19</a>, <a href="../_/1952.md" title="1952">1952</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../W/Waldreg.md" title="Waldreg">Waldreg</a> in:<br/><i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0606255/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
-**Geoff Morrell** là một diễn viên người Úc. Anh ấy đã đóng vai [Waldreg](../W/Waldreg.md) trong loạt phim *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* của Amazon.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Geoff Morrell** là một diễn viên người Úc. Ông đã đóng vai [Waldreg](../W/Waldreg.md) trong loạt phim *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* của Amazon.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

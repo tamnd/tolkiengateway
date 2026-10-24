@@ -11,4 +11,4 @@ redirect_target: "Tulkas"
 redirect_fragment: "Etymology"
 ---
 
-Chuyển hướng đến [Tulkas](Tulkas.md#Etymology).
+Chuyển hướng tới [Tulkas](Tulkas.md#Etymology).

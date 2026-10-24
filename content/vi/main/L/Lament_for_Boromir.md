@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Song of Boromir"
 ---
 
-Chuyển hướng tới [Bài hát của Boromir](../S/Song_of_Boromir.md).
+Chuyển hướng đến [Bài hát của Boromir](../S/Song_of_Boromir.md).

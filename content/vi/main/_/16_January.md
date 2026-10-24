@@ -66,23 +66,23 @@ Sự kiện xảy ra vào ngày 16 tháng 1.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1937](1937.md)** - Nghệ sĩ [Klaus Ensikat](../K/Klaus_Ensikat.md) ra đời.
-- **[1938](1938.md)** - Báo *The Observer* đăng thư hỏi về các liên kết của *[The Hobbit](../T/The_Hobbit.md)*với *[Beowulf](<../B/Beowulf_(poem).md>)*, cũng như nguồn gốc của [Hobbit](../H/Hobbits.md)của [Tolkien](../J/J.R.R._Tolkien.md).
-- **[1965](1965.md)** - Tập thứ mười lăm và cũng là tập cuối cùng của [Princess](../P/Princess.md)-serialization của *[The Hobbit](../T/The_Hobbit.md)* được xuất bản.
-- **[2005](2005.md)** - Ngày cuối cùng của "[Lễ kỷ niệm một chiếc nhẫn](../T/The_One_Ring_Celebration.md) đầu tiên".
-- **[2015](2015.md)** - *[Perilous and Fair: Women in J.R.R. Tolkien's Work and Life](../P/Perilous_and_Fair%253A_Women_in_J.R.R._Tolkien's_Work_and_Life.md)* được xuất bản.
-- **[2020](2020.md) - [Christopher Tolkien](../C/Christopher_Tolkien.md) qua đời thọ chín mươi lăm tuổi.**
+- **[1937](1937.md)** - Artist [Klaus Ensikat](../K/Klaus_Ensikat.md) is born.
+- **[1938](1938.md)** - *The Observer* newspaper publishes a letter asking about the *[The Hobbit](../T/The_Hobbit.md)*'s links to *[Beowulf](<../B/Beowulf_(poem).md>)*, as well as the origins of [Tolkien](../J/J.R.R._Tolkien.md)'s [Hobbits](../H/Hobbits.md).
+- **[1965](1965.md)** - The fifteenth and last episode of the [Princess](../P/Princess.md)-serialization of *[The Hobbit](../T/The_Hobbit.md)* is published.
+- **[2005](2005.md)** - The final day of the first "[The One Ring Celebration](../T/The_One_Ring_Celebration.md)".
+- **[2015](2015.md)** - *[Perilous and Fair: Women in J.R.R. Tolkien's Work and Life](../P/Perilous_and_Fair%253A_Women_in_J.R.R._Tolkien's_Work_and_Life.md)* is published.
+- **[2020](2020.md) - [Christopher Tolkien](../C/Christopher_Tolkien.md) dies at the age of ninety-five.**
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Frodo](../F/Frodo_Baggins.md) thức dậy và nghe thấy [Orc](../O/Orcs.md) di chuyển ngang qua [flet](../F/Flet.md) nơi anh ta đang ngủ, cùng với Gollum đang trèo lên thân cây.
-    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) được dẫn qua [Lórien](../L/Lothlórien.md).
-    - Quý cuối cùng của Mặt Trăng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - [Frodo](../F/Frodo_Baggins.md) thức dậy và nghe thấy [Orc](../O/Orcs.md) di chuyển ngang qua [flet](../F/Flet.md) nơi ông ta đang ngủ, cùng với việc Gollum đang trèo lên thân cây.
+    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) được dẫn dắt thông qua [Lórien](../L/Lothlórien.md).
+    - 15 tháng cuối cùng của Mặt trăng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ghi chú {#Notes}
 
-Văn bản đề cập rằng Frodo nhìn thấy "liềm Mặt Trăng". Theo thiên văn học, mặt trăng này thực sự sẽ tròn một nửa vào năm 3019, chứ không phải hình liềm, 8 ngày sau ngày trăng tròn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Văn bản đề cập rằng Frodo nhìn thấy "Mặt trăng lưỡi liềm". Theo thiên văn học, mặt trăng này thực sự sẽ tròn một nửa vào năm 3019, chứ không phải hình liềm, 8 ngày sau ngày trăng tròn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -20,13 +20,13 @@ sort_keys:
   "People of unknown nationality": "Ready, William"
 ---
 
-**William Bernard Ready** ([16 tháng Chín](../_/16_September.md) [1914](../_/1914.md) - [12 tháng Chín](../_/12_September.md) [1981](../_/1981.md)<sup id="cite_ref-McMaster1_1-0" class="reference"><a href="#cite_note-McMaster1-1">[1]</a></sup>) là Thủ thư Đại học và Giáo sư Thư mục tại <a class="extiw" href="http://en.wikipedia.org/wiki/McMaster_University" title="wikipedia:McMaster University">Đại học McMaster</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Ontario" title="wikipedia:Ontario">Ontario</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> đảm nhận vị trí ở [1966](../_/1966.md).<sup id="cite_ref-Montreal_3-0" class="reference"><a href="#cite_note-Montreal-3">[3]</a></sup>
+**William Bernard Ready** ([16 tháng 9](../_/16_September.md) [1914](../_/1914.md) - [12 tháng 9](../_/12_September.md) [1981](../_/1981.md)<sup id="cite_ref-McMaster1_1-0" class="reference"><a href="#cite_note-McMaster1-1">[1]</a></sup>) là Thủ thư Đại học và Giáo sư Thư mục tại <a class="extiw" href="http://en.wikipedia.org/wiki/McMaster_University" title="wikipedia:McMaster University">Đại học McMaster</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Ontario" title="wikipedia:Ontario">Ontario</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> đảm nhận vị trí ở [1966](../_/1966.md).<sup id="cite_ref-Montreal_3-0" class="reference"><a href="#cite_note-Montreal-3">[3]</a></sup>
 
 Sinh ra ở <a class="extiw" href="http://en.wikipedia.org/wiki/Cardiff" title="wikipedia:Cardiff">Cardiff</a>, xứ Wales,<sup id="cite_ref-McMaster1_1-1" class="reference"><a href="#cite_note-McMaster1-1">[1]</a></sup> Ready học thư mục ở Anh và xứ Wales, và sau Thế chiến thứ hai, ông trở thành thủ thư thu mua sách tại <a class="extiw" href="http://en.wikipedia.org/wiki/Stanford_University" title="wikipedia:Stanford University">Đại học Stanford</a>.<sup id="cite_ref-Montreal_3-1" class="reference"><a href="#cite_note-Montreal-3">[3]</a></sup> Từ [1956](../_/1956.md) đến [1963](../_/1963.md) ông là Giám đốc Thư viện tại [Đại học Marquette](../M/Marquette_University.md).<sup id="cite_ref-CG_4-0" class="reference"><a href="#cite_note-CG-4">[4]</a></sup>
 
-Ready đã thấy trước giá trị văn hóa của các tác phẩm của [Tolkien](../J/J.R.R._Tolkien.md)và khi ở [Đại học Marquette](../M/Marquette_University.md), ông đã mua được một lượng lớn tuyển tập các bản thảo văn học gốc trước Tolkien vào năm 1956-57, bao gồm cả các bản thảo của *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-CG_4-1" class="reference"><a href="#cite_note-CG-4">[4]</a></sup>
+Ready đã thấy trước giá trị văn hóa trong các tác phẩm của [Tolkien](../J/J.R.R._Tolkien.md) và khi ở [Đại học Marquette](../M/Marquette_University.md), ông đã mua được nhiều tuyển tập các bản thảo văn học gốc của Tolkien vào năm 1956-57, bao gồm cả bản thảo của *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-CG_4-1" class="reference"><a href="#cite_note-CG-4">[4]</a></sup>
 
-Theo lời kể của chính mình, Ready đã sắp xếp một chuyến tham quan giảng dạy cho Tolkien tại các trường đại học Mỹ, nhưng Tolkien buộc phải từ chối vì bệnh tật. Để đền bù, Tolkien do đó đã đề nghị Sẵn sàng mua bản thảo của anh ấy.<sup id="cite_ref-Montreal_3-2" class="reference"><a href="#cite_note-Montreal-3">[3]</a></sup> Tuy nhiên, [Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](Wayne_G._Hammond.md) đã tuyên bố (xuất phát từ thư từ được lưu trữ) rằng Tolkien "*đã được tiếp cận trực tiếp để bán các bài báo của anh ấy và bản thân anh ấy không đề nghị bán chúng.*"<sup id="cite_ref-CG_4-2" class="reference"><a href="#cite_note-CG-4">[4]</a></sup>
+Theo lời kể của chính mình, Ready đã sắp xếp một chuyến thuyết trình cho Tolkien tại các trường đại học Mỹ, nhưng Tolkien buộc phải từ chối vì bệnh tật. Do đó, để sửa đổi, Tolkien đã đề nghị Sẵn sàng mua bản thảo của mình.<sup id="cite_ref-Montreal_3-2" class="reference"><a href="#cite_note-Montreal-3">[3]</a></sup> Tuy nhiên, [Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](Wayne_G._Hammond.md) đã tuyên bố (xuất phát từ thư từ lưu trữ) rằng Tolkien "*đã được tiếp cận trực tiếp để bán các bài báo của ông và bản thân ông không đề nghị bán chúng.*"<sup id="cite_ref-CG_4-2" class="reference"><a href="#cite_note-CG-4">[4]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -34,12 +34,12 @@ Theo lời kể của chính mình, Ready đã sắp xếp một chuyến tham q
 
 - [1958](../_/1958.md): *[The Poor Hater](../L/List_of_books_in_Tolkien's_library.md#The_Poor_Hater)*
 - [1968](../_/1968.md): *[The Tolkien Relation](../T/The_Tolkien_Relation.md)*
-- [1971](../_/1971.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings,_the_Hobbit_Notes&amp;action=edit&amp;redlink=1" title="The Lord of the Rings, the Hobbit Notes (page does not exist)">The Lord of the Rings, Hobbit Ghi chú</a></i>. Toronto: Công ty TNHH Xuất bản Coles
+- [1971](../_/1971.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings,_the_Hobbit_Notes&amp;action=edit&amp;redlink=1" title="The Lord of the Rings, the Hobbit Notes (page does not exist)">Chúa tể của những chiếc nhẫn, Ghi chú của người Hobbit</a></i>. Toronto: Công ty TNHH Xuất bản Coles
 - [1982](../_/1982.md): *Files on Parade* (tự truyện)
 
 ### Đánh giá {#Reviews}
 
-- [1977](../_/1977.md): *Ottawa Citizen* (24 tháng Chín 1977)
+- [1977](../_/1977.md): *Ottawa Citizen* (24 tháng 9 năm 1977)
     - Đánh giá về *The Silmarillion*<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Xem thêm {#See_also}

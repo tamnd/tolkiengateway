@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Về khoản trợ cấp của [Christopher](../C/Christopher_Tolkien.md) khi [đi học](../T/The_Oratory_School.md), Tolkien viết rằng "thu nhập kiếm được" của Christopher(số tiền anh được trả cho việc đánh máy các chương của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*) phải được tính cao hơn "tiền tiêu vặt thông thường" nên anh sẽ gửi thêm một bảng nữa. Tolkien bị "chôn vùi trong công việc" (một phần do [C.S. Lewis](../C/C.S._Lewis.md) làm mất bản báo cáo mà ủy ban Tolkien đã chuẩn bị) nên đành nhờ [Edith](../E/Edith_Tolkien.md) gửi thêm tin tức.
+Về khoản trợ cấp của [Christopher](../C/Christopher_Tolkien.md) khi [ở trường](../T/The_Oratory_School.md), Tolkien viết rằng "thu nhập kiếm được" của Christopher (số tiền ông được trả cho việc đánh máy các chương của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*) phải được tính cao hơn "tiền tiêu vặt thông thường", vì vậy ông sẽ gửi thêm một bảng Anh nữa. Tolkien bị "chôn vùi trong công việc" (một phần do [C.S. Lewis](../C/C.S._Lewis.md) làm mất bản báo cáo của ủy ban mà Tolkien đã chuẩn bị), nên ông sẽ nhờ [Edith](../E/Edith_Tolkien.md) gửi thêm tin tức.
 
-Trong phần tái bút, Tolkien khiển trách Christopher vì đã quên ngày sinh nhật của mẹ mình, nói rằng phụ nữ, không giống như đàn ông, "coi trọng ngày tháng và ngày kỷ niệm" và đàn ông có thể tránh rắc rối cho bản thân và tránh gây đau đớn cho người khác bằng cách ghi nhớ điều này. <br>
+Trong phần tái bút, Tolkien khiển trách Christopher vì đã quên ngày sinh nhật của mẹ anh, nói rằng phụ nữ, không giống như đàn ông, "coi trọng ngày tháng và ngày kỷ niệm" và đàn ông có thể tự giải quyết rắc rối và tránh gây đau đớn cho người khác bằng cách ghi nhớ điều này. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

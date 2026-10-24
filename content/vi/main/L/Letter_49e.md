@@ -27,7 +27,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien hỏi [Christopher](../C/Christopher_Tolkien.md) dạo này anh ấy thế nào và nhận xét rằng anh ấy rất bận và không có thời gian đến quán rượu. Anh ấy đã nghe được một số bản dịch Aeneid của [C.S. Lewis](../C/C.S._Lewis.md). <br>
+Tolkien hỏi [Christopher](../C/Christopher_Tolkien.md) dạo này ông thế nào và nhận xét rằng ông rất bận và không có thời gian đến quán rượu. Ông đã nghe được một số bản dịch Aeneid của [C.S. Lewis](../C/C.S._Lewis.md). <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

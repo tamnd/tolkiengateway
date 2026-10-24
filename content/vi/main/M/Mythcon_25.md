@@ -33,7 +33,7 @@ infobox:
 **Mythcon 25** là hội nghị thường niên lần thứ 25 của [Hiệp hội thần thoại](Mythopoeic_Society.md).
 
 - **Chủ đề: "**Ngôn ngữ huyền thoại"
-- **Khách mời danh dự:** Madeleine L'Engle (tác giả truyện giả tưởng), Judith Mitchell (nghệ sĩ truyện giả tưởng) và [Verlyn Flieger](../V/Verlyn_Flieger.md) (học giảTolkien)
+- **Khách mời danh dự:** Madeleine L'Engle (tác giả truyện giả tưởng), Judith Mitchell (nghệ sĩ truyện giả tưởng) và [Verlyn Flieger](../V/Verlyn_Flieger.md) (học giả Tolkien)
 - **Chủ tịch:** Wendell Wagner
 
 ## Liên kết ngoài {#External_links}

@@ -43,15 +43,15 @@ infobox:
              9:01 (extended)</td></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data">Frodo and Sam are led by Gollum through the <a href="../D/Dead_Marshes.md" title="Dead Marshes">Dead Marshes</a>.<br/>
           Gollum remembers his name.</td></tr><tr><th scope="row" class="tg-infobox-label">Characters</th><td class="tg-infobox-data"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>, <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a>, <a href="../G/Gollum.md" title="Gollum">Gollum</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><i><a href="Treebeard_(scene).md" title="Treebeard (scene)">Treebeard</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><i><a href="The_White_Rider_(scene).md" title="The White Rider (scene)">The White Rider</a></i></td></tr></tbody></table>
 
-**The Passage of the Marshes** là cảnh thứ mười hai của *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và cảnh thứ mười bốn của [*The Lord of the Rings: The Two Towers* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>). Cảnh này đã được mở rộng trong phiên bản sau.
+**The Passage of the Marshes** là cảnh thứ mười hai của *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và cảnh thứ mười bốn của [*The Lord of the Rings: The Two Towers* (extended edition)](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>). Cảnh này đã được mở rộng trong phiên bản sau.
 
 ## Tóm tắt {#Synopsis}
 
-[Gollum](../G/Gollum.md) dẫn [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) ra khỏi [Emyn Muil](../E/Emyn_Muil.md) và vào [Đầm lầy Chết](../D/Dead_Marshes.md), kéo dài về phía [Mordor](../M/Mordor.md). Anh ấy nói với họ rằng anh ấy biết những con đường an toàn xuyên qua đầm lầy còn [Orc](../O/Orcs.md) thì không, nên thay vào đó hãy đi vòng quanh.
+[Gollum](../G/Gollum.md) dẫn [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) ra khỏi [Emyn Muil](../E/Emyn_Muil.md) và tiến vào [Đầm lầy Chết](../D/Dead_Marshes.md), trải dài về phía [Mordor](../M/Mordor.md). Ông nói với họ rằng ông biết những con đường an toàn xuyên qua đầm lầy còn [Orc](../O/Orcs.md) thì không, nên thay vào đó ông hãy đi vòng quanh.
 
-Khi họ nghỉ ngơi và Frodo và Sam ăn [*lembas*](../L/Lembas.md), Gollum phàn nàn rằng anh ấy *"famished"*. Thương hại anh ta, Frodo đưa cho anh ta một ít *lembas*, nhưng anh ta không thể ăn được và phàn nàn rằng mình phải chết đói. Sam chào giá anh ta "*starve then, and good riddance*". Đáp lại Gollum gọi anh ta là tàn nhẫn và nói rằng anh ta không quan tâm, nhưng sau đó quay sang Frodo và nói "*Chủ nhân quan tâm. Chủ nhân biết ... Một khi nó đã nắm lấy chúng ta, nó sẽ không bao giờ buông ra.*" Khi Gollum đưa tay ra chạm vào Frodo, Frodo hất tay anh ta ra, bảo anh ta đừng chạm vào mình.
+Khi họ nghỉ ngơi và Frodo và Sam ăn [*lembas*](../L/Lembas.md), Gollum phàn nàn rằng ông *"famished"*. Thương hại ông ta, Frodo đưa cho ông ta một ít *lembas*, nhưng ông ta không thể ăn nó và phàn nàn rằng mình phải chết đói. Sam chào giá ông ta "*starve then, and good riddance*". Đáp lại, Gollum gọi ông ta là tàn nhẫn và nói rằng ông ta không quan tâm, nhưng sau đó quay sang Frodo và nói "*Chủ nhân quan tâm. Chủ nhân biết ... Một khi nó nắm lấy chúng ta, nó sẽ không bao giờ buông ra.*" Khi Gollum đưa tay ra chạm vào Frodo, Frodo gạt tay anh ra và bảo anh đừng chạm vào anh.
 
-Sau khi dừng lại, Gollum tiếp tục dẫn họ qua Đầm lầy và dặn họ hãy cẩn thận. Sam nhìn thấy xác chết dưới nước.
+Sau khi dừng lại, Gollum tiếp tục dẫn họ qua Đầm lầy và bảo họ hãy cẩn thận. Sam nhận thấy xác chết dưới nước.
 
 <blockquote class="tg-quote noexcerpt">
 <p>All dead. All rotten. Elves and Men and Orcses. <a href="../B/Battle_of_Dagorlad.md" title="Battle of Dagorlad">A great battle</a> long ago.
@@ -59,11 +59,11 @@ Sau khi dừng lại, Gollum tiếp tục dẫn họ qua Đầm lầy và dặn 
 <p class="tg-quote-footer"><cite><a href="../G/Gollum.md" title="Gollum">Gollum</a></cite></p>
 </blockquote>
 
-Frodo dừng lại và bị cuốn vào một trong những [Tiên tộc](../E/Elves.md) người chết và rơi xuống nước. Dưới nước, anh nhìn thấy những bàn tay đang cố tóm lấy mình và một khuôn mặt đang la hét tiến lại gần anh, trước khi Gollum kéo anh lên khỏi mặt nước và quay trở lại đất liền.
+Frodo dừng lại và bị kéo về phía một trong những [Yêu tinh](../E/Elves.md) đã chết và rơi xuống nước. Dưới nước, anh nhìn thấy những bàn tay đang cố tóm lấy anh và một khuôn mặt đang la hét tiến lại gần anh, trước khi Gollum kéo anh lên khỏi mặt nước và quay trở lại đất liền.
 
-Đêm, Frodo nằm vuốt ve [Chiếc nhẫn](The_One_Ring.md) và nghe Gollum kể về vẻ đẹp quý giá của mình. Frodo nhanh chóng cất chiếc Nhẫn đi và hỏi Gollum anh ta là ai. Cuộc trò chuyện giữa hai người tiến tới lui trước khi Frodo nói với anh ấy "*Anh cũng không khác mấy so với một hobbit ngày xưa, phải không Sméagol?*" Sau một lúc sốc, Gollum mỉm cười khi nhớ lại tên mình.
+Vào ban đêm, Frodo nằm vuốt ve [Chiếc nhẫn](The_One_Ring.md) và nghe Gollum nói về vẻ đẹp của báu vật của mình. Frodo nhanh chóng cất chiếc Nhẫn đi và hỏi Gollum ông ta là ai. Cuộc trò chuyện giữa hai người tiến tới lui trước khi Frodo nói với ông ta "*Trước đây, anh không khác lắm với một người hobbit, phải không Sméagol?*" Sau một lúc sốc, Gollum mỉm cười khi nhớ lại tên của mình.
 
-Tiếng thét của [Nazgûl](../N/Nazgûl.md) buộc cả ba phải trốn. Gollum kinh hãi trước bóng ma đang bay trên lưng một [quái vật sa ngã](../F/Fell_beast.md), nhưng cơn đau từ vết thương của Frodo khiến anh bất động. Sam giúp anh ta trốn và nói rằng anh ta nghĩ họ đã chết,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> nhưng Gollum nói với anh ta rằng họ không thể bị giết và họ đang gọi Chiếc nhẫn. Tay của Frodo với lấy Chiếc nhẫn nhưng Sam đã ngăn nó lại. Sau một thời gian ngắn, Nazgûl bay đi. Gollum cho họ biết [Cổng Đen](../B/Black_Gate.md) hiện là "*very close*".
+Tiếng thét của [Nazgûl](../N/Nazgûl.md) buộc cả ba phải trốn. Gollum vô cùng sợ hãi trước bóng ma bay trên lưng một [quái vật sa ngã](../F/Fell_beast.md), nhưng cơn đau từ vết thương của Frodo khiến ông ta bất động. Sam giúp ông ta trốn và nói rằng ông ta nghĩ họ đã chết,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> nhưng Gollum nói với anh rằng họ không thể bị giết và họ đang gọi chiếc Nhẫn. Frodo đưa tay lấy chiếc Nhẫn nhưng bị Sam ngăn lại. Sau một thời gian ngắn, Nazgûl bay đi. Gollum nói với họ [Cổng đen](../B/Black_Gate.md) giờ là "*very close*".
 
 ## Ghi chú {#Notes}
 

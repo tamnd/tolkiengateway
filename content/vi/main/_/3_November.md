@@ -70,19 +70,19 @@ Sự kiện xảy ra vào ngày 3 tháng 11
 - **[2004](2004.md)** - "Shadows", tập thứ 11 trong *[The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)*, được phát hành.
 - **[2010](2010.md)** - Tác giả [Glen GoodKnight](../G/Glen_GoodKnight.md) qua đời.
 - <b><a href="2016.md" title="2016">2016</a> - <i><a href="../T/The_Lay_of_Aotrou_and_Itroun.md" title="The Lay of Aotrou and Itroun">The Lay of Aotrou và Itroun</a></i> được xuất bản.</b>
-- **[2016](2016.md)** - <a class="external text" href="https://www.bodleian.ox.ac.uk/home" rel="noreferrer noopener" target="_blank">Thư viện Bodleian</a> đã trao <a class="extiw" href="http://en.wikipedia.org/wiki/Bodley_Medal" title="wikipedia:Bodley Medal">Huy chương Bodley</a> cho [Christopher Tolkien](../C/Christopher_Tolkien.md), vinh dự cao nhất của Thư viện.
+- **[2016](2016.md)** - <a class="external text" href="https://www.bodleian.ox.ac.uk/home" rel="noreferrer noopener" target="_blank">Thư viện Bodleian</a> đã trao tặng <a class="extiw" href="http://en.wikipedia.org/wiki/Bodley_Medal" title="wikipedia:Bodley Medal">Huân chương Bodley</a> cho [Christopher Tolkien](../C/Christopher_Tolkien.md), vinh dự cao nhất của Thư viện.
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md)tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
     - Quý I<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Trận Bywater](../B/Battle_of_Bywater.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-        - Ra đi của [Saruman](../S/Saruman.md) và cái chết của [Gríma Wormtongue](../G/Gríma.md)
-        - Kết thúc [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md)
+    - [Trận chiến bên bờ nước](../B/Battle_of_Bywater.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+        - Sự ra đi của [Saruman](../S/Saruman.md) và cái chết của [Gríma Wormtongue](../G/Gríma.md)
+        - Kết thúc [Cuộc chiến trên chiếc nhẫn](../W/War_of_the_Ring.md)
 
 <span></span>
 

@@ -39,18 +39,18 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_90.gif.md"><img src="https://tolkiengateway.net/w/images/c/c9/Mythlore_90.gif" decoding="async" loading="lazy" width="225" height="317" class="mw-file-element" data-file-width="225" data-file-height="317"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 90</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Theodore J. Sherman</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Fall/Winter <a href="../_/2002.md" title="2002">2002</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">87</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_89.md" title="Mythlore 89">Mythlore 89</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_91.md" title="Mythlore 91">Mythlore 91</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 90</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol23/iss4/" rel="noreferrer noopener" target="_blank">Tập 23, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 90</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol23/iss4/" rel="noreferrer noopener" target="_blank">Tập 23, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Croft, Janet Brennan. "Cuộc chiến tranh vĩ đại và ký ức của Tolkien: Xem xét các chủ đề về Thế chiến thứ nhất trong *The Hobbit* và *The Lord of the Rings*."
-- Lakowski, Romuald Ian. "Các loại chủ nghĩa anh hùng nam tính trong *The Lord of the Rings*."
-- Garbowski, Christopher. "*It’s a Wonderful Life* như vở kịch Faërian."
-- Nền tảng, Sara. "Khả năng ứng dụng và sự thật trong *The Hobbit*, *The Lord of the Rings*và *The Silmarillion*: Độc giả, Ảo tưởng và Kinh điển."
-- Tomkins, J. Case. "'Sự trở về của Con trai Beorhtnoth Beorhthelm': Tolkien hiện đại Anglo-Saxon."
-- Weidner, Brian N. "Trung Địa: Thế giới thực của J.R.R. Tolkien."
+- Croft, Janet Brennan. "The Great War and Tolkien’s Memory: An Examination of World War I Themes in *The Hobbit* and *The Lord of the Rings*."
+- Lakowski, Romuald Ian. "Types of Masculine Heroism in *The Lord of the Rings*."
+- Garbowski, Christopher. "*It’s a Wonderful Life* as Faërian Drama."
+- Upstone, Sara. "Applicability and Truth in *The Hobbit*, *The Lord of the Rings*, and *The Silmarillion*: Readers, Fantasy, and Canonicity."
+- Tomkins, J. Case. "‘The Homecoming of Beorhtnoth Beorhthelm’s Son’: Tolkien as Modern Anglo-Saxon."
+- Weidner, Brian N. "Middle-Earth: The Real World of J.R.R. Tolkien."
 
 #### Tính năng {#Features}
 

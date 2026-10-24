@@ -33,11 +33,11 @@ infobox:
 
 ## Nội dung {#Contents}
 
-- "Wither/wither Tolkien Fandom" của Bruce Pelz
+- "Người hâm mộ Tolkien ở đâu/tàn lụi" của Bruce Pelz
 - Dải nghệ thuật đồ họa "Cây cầu Khazad-Dum" của Richard Glass"
 - Cây cầu Khazad-Dum: Lời giải thích" của Doc Weir (giống như trong Eldritch Dream Quest#1)
 - Phụ lục cho 'No Monroe in Lothlorien" của Doc Weir (từ I Palantir #3, 1964)
-- Xin chào Frodo, hoặc What Ever Happened to Sauron Nhẫn" của Kathleen Huber (vở nhạc kịch một màn với mười bốn bài hát, tất cả các giai điệu đều được mượn)
+- Xin chào Frodo, hay Chuyện gì đã xảy ra với chiếc nhẫn của Sauron" của Kathleen Huber (vở nhạc kịch một màn với mười bốn bài hát, tất cả các giai điệu đều được mượn)
 
 <span></span>
 

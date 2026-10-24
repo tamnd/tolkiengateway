@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Estate"
 ---
 
-Chuyển hướng đến [Tolkien Estate](Tolkien_Estate.md).
+Chuyển hướng đến [Di sản Tolkien](Tolkien_Estate.md).

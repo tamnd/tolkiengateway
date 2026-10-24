@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éomund (Captain of the Éothéod)"
 ---
 
-Chuyển hướng tới [Éomund (Thuyền trưởng của Éothéod)](<Éomund_(Captain_of_the_Éothéod).md>).
+Chuyển hướng đến [Éomund (Thuyền trưởng của Éothéod)](<Éomund_(Captain_of_the_Éothéod).md>).

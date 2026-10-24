@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Music of the Ainur"
 ---
 
-Chuyển hướng đến [Âm nhạc của các Ainur](../M/Music_of_the_Ainur.md).
+Chuyển hướng tới [Âm nhạc của người Ainur](../M/Music_of_the_Ainur.md).

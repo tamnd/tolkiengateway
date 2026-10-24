@@ -21,11 +21,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">People</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Windan</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Languages</th><td class="tg-infobox-data">one of the many <a href="../A/Avarin.md" title="Avarin">Avarin</a> languages</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifespan</th><td class="tg-infobox-data">Immortal</td></tr></tbody></table>
 
-**Windan** là thuật ngữ được một số [Avari](../A/Avari.md) sử dụng để mô tả chính họ. Không biết tên "Windan" được áp dụng cho một nhóm Avari cụ thể hay cho toàn bộ Avari.
+**Windan** là thuật ngữ được một số [Avari](../A/Avari.md) sử dụng để mô tả chính họ. Không rõ liệu cái tên "Windan" được áp dụng cho một nhóm Avari cụ thể hay cho toàn bộ Avari nói chung.
 
 ## Từ nguyên {#Etymology}
 
-Đó là một từ [Avarin](../A/Avarin.md) có nghĩa là "Nhân dân". Nó bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) *[kwendī](../K/Kwende.md)*.<sup id="cite_ref-Author_1-0" class="reference"><a href="#cite_note-Author-1">[1]</a></sup>
+Đó là từ [Avarin](../A/Avarin.md) có nghĩa là "Nhân dân". Nó bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) *[kwendī](../K/Kwende.md)*.<sup id="cite_ref-Author_1-0" class="reference"><a href="#cite_note-Author-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

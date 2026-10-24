@@ -73,18 +73,18 @@ Sự kiện xảy ra vào ngày 7 tháng 3.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Faramir](../F/Faramir.md) dẫn đầu một cuộc đột kích chống lại [Haradrim](../H/Haradrim.md) ở [Ithilien](../I/Ithilien.md).
-    - Anh ta tìm thấy [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) và đưa họ đến [Henneth Annûn](../H/Henneth_Annûn.md). Anh ta biết về việc Frodo mang theo [Người Nhẫn](../T/The_One_Ring.md) nhưng không cố gắng lấy nó.
-    - [Gandalf](../G/Gandalf.md) di chuyển với [Pippin](../P/Peregrin_Took.md) dọc theo [Dãy Núi Trắng](../W/White_Mountains.md) hướng tới [Minas Tirith](../M/Minas_Tirith.md).
-    - [Aragorn](../A/Aragorn.md) đạt [Dunharrow](../D/Dunharrow.md) khi màn đêm buông xuống.
-    - [Théoden](../T/Théoden.md) và [éoherë](Éoherë.md) di chuyển về phía [Dunharrow](../D/Dunharrow.md).
+    - [Faramir](../F/Faramir.md) dẫn đầu cuộc đột kích chống lại [Haradrim](../H/Haradrim.md) ở [Ithilien](../I/Ithilien.md).
+    - Ông tìm thấy [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) và đưa họ đến [Henneth Annûn](../H/Henneth_Annûn.md). Ông biết về việc Frodo mang theo [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) nhưng không cố lấy nó.
+    - [Gandalf](../G/Gandalf.md) đi cùng [Pippin](../P/Peregrin_Took.md) dọc theo [Dãy núi Trắng](../W/White_Mountains.md) tới [Minas Tirith](../M/Minas_Tirith.md).
+    - [Aragorn](../A/Aragorn.md) đến [Dunharrow](../D/Dunharrow.md) khi màn đêm buông xuống.
+    - [Théoden](../T/Théoden.md) và [éoherë](Éoherë.md) đi về hướng [Dunharrow](../D/Dunharrow.md).
     - Trăng tròn<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <br>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) muốn đêm nay có trăng tròn (được nhìn thấy bởi cả Frodo và Pippin cũng như tập hợp của Rohan) và điều chỉnh các ngày và tuyến đường khác xung quanh đó. Lúc đầu, Tolkien nghĩ rằng [Thời gian](../T/Time.md) "đóng băng" trong khi [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) ở lại [Lothlórien](../L/Lothlórien.md), và trong những bản thảo đầu tiên của *[The Forbidden Pool](../T/The_Forbidden_Pool.md)*, Frodo đã chứng kiến ​​trăng tròn vào đêm [6 tháng 2](6_February.md). Sau đó Tolkien đã thay đổi ý định về Lothlórien, đẩy *The Forbidden Pool* một tháng sau đó, đồng thời phát minh ra [Shire Tính toán](../S/Shire_Reckoning.md). Để phù hợp với ngày rằm và lịch mới, anh đã điều chỉnh thời gian khởi hành của Hội từ Lothlórien vào [16 tháng 2](16_February.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) muốn đêm nay có trăng tròn (cả Frodo và Pippin cũng như người tập hợp Rohan nhìn thấy) và điều chỉnh các ngày và tuyến đường khác xung quanh đó. Lúc đầu, Tolkien nghĩ rằng [Thời gian](../T/Time.md) "đóng băng" trong khi [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) ở lại [Lothlórien](../L/Lothlórien.md), và trong những bản thảo đầu tiên của *[The Forbidden Pool](../T/The_Forbidden_Pool.md)*, Frodo đã chứng kiến ​​trăng tròn vào đêm [ngày 6 tháng 2](6_February.md). Sau đó Tolkien đã thay đổi ý định về Lothlórien, đẩy *The Forbidden Pool* một tháng sau đó, đồng thời phát minh ra [Shire Reckoning](../S/Shire_Reckoning.md). Để phù hợp với những ngày trăng tròn và lịch mới, ông đã điều chỉnh thời gian khởi hành của Hiệp hội từ Lothlórien vào [16 tháng 2](16_February.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 In one of his time-schemes Tolkien used to keep track of his writing, he noted "Total eclipse at 10.30" for the night of 7–8 March, possibly after the 2 March eclipse of [1942](1942.md) (on which year he based the lunar phases). However the eclipse didn't pass into the story.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 

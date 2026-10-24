@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Vera, Svirina"
 ---
 
-- Svirina Vera đã vui lòng cho phép cô ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Svirina_Vera.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
-- Ngày: 8 tháng Chín năm 2019
+- Svirina Vera đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Svirina_Vera.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Ngày: 8 tháng 9 năm 2019
 - Người dùng đã xin phép qua DeviantArt: [LorenzoCB](https://tolkiengateway.net/wiki/User:LorenzoCB)

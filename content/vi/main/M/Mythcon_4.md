@@ -32,7 +32,7 @@ infobox:
 
 **Mythcon 4** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ tư.
 
-- **Khách mời danh dự:** [Peter S. Beagle](../P/Peter_S._Beagle.md) (tác giả truyện giả tưởng) và [Richard Plotz](../R/Richard_Plotz.md) (người sáng lập [Tolkien Society of America](../T/Tolkien_Society_of_America.md))
+- **Khách mời danh dự:** [Peter S. Beagle](../P/Peter_S._Beagle.md) (tác giả truyện giả tưởng) và [Richard Plotz](../R/Richard_Plotz.md) (người sáng lập [Hiệp hội Tolkien Hoa Kỳ](../T/Tolkien_Society_of_America.md))
 - **Chủ tịch:** [Glen GoodKnight](../G/Glen_GoodKnight.md)
 
 ## Liên kết ngoài {#External_links}

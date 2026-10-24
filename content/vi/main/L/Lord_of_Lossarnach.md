@@ -13,7 +13,7 @@ categories:
   - "Mannish titles"
 ---
 
-**Lãnh chúa của Lossarnach** là chúa tể của những thung lũng đầy hoa của [Dãy Núi Trắng](../W/White_Mountains.md) nằm ở phía nam và phía tây của [Minas Tirith](../M/Minas_Tirith.md). Hầu như không có thông tin gì về lịch sử và nguồn gốc của danh hiệu này, ngoại trừ tên của người nắm giữ nó trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md). Đó là [Forlong the Fat](../F/Forlong_the_Fat.md), người đã cưỡi ngựa đến [Minas Tirith](../M/Minas_Tirith.md) cùng với hai trăm người từ quê hương của mình,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và ngã xuống trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Liệu Forlong có để lại người thừa kế kế thừa quyền lãnh chúa của mình hay không vẫn chưa được biết.
+**Chúa tể của Lossarnach** là chúa tể của những thung lũng đầy hoa của [Núi Trắng](../W/White_Mountains.md) nằm ở phía nam và phía tây của [Minas Tirith](../M/Minas_Tirith.md). Hầu như không có thông tin gì về lịch sử và nguồn gốc của danh hiệu này, ngoại trừ tên của người nắm giữ nó trong [War of the Ring](../W/War_of_the_Ring.md). Đó là [Forlong the Fat](../F/Forlong_the_Fat.md), người đã cưỡi ngựa đến [Minas Tirith](../M/Minas_Tirith.md) cùng với hai trăm người từ quê hương của mình,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và ngã xuống trong [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Liệu Forlong có để lại người thừa kế quyền lãnh chúa hay không vẫn chưa được biết.
 
 <span></span>
 

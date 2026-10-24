@@ -47,7 +47,7 @@ infobox:
     - Bởi: Ian Boyd
 - "Tolkien với tư cách là nhà ngữ văn"
     - Bởi: David Lyle Jeffrey
-- "Charles Williams và Thơ Arthurian của ông"
+- "Charles Williams và bài thơ Arthurian của ông"
     - Bởi: Alice Mary Hadfield
 - "Như con dơi của Aesop"
     - Bởi: Barbara Reynolds và Dorothy L. Sayers

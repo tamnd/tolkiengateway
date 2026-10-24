@@ -17,8 +17,8 @@ images:
 
 **Thế hệ đầu tiên** có thể đề cập đến:
 
-- <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=First-begotten&amp;action=edit&amp;redlink=1" title="First-begotten (page does not exist)">Con đầu lòng</a>, con của <a href="../E/Eru-begotten.md" title="Eru-begotten">Eru-được sinh ra</a>.</b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- [Eru-begotten](../E/Eru-begotten.md), 144 [Quendi](../Q/Quendi.md) ban đầu được đánh thức bởi [Ilúvatar](../I/Ilúvatar.md) lúc [Cuiviénen](../C/Cuiviénen.md) khi [Các vì sao](../S/Stars.md) được thắp sáng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=First-begotten&amp;action=edit&amp;redlink=1" title="First-begotten (page does not exist)">Con đầu lòng</a>, con của <a href="../E/Eru-begotten.md" title="Eru-begotten">Eru-sinh</a>.</b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Eru-begotten](../E/Eru-begotten.md), 144 [Quendi](../Q/Quendi.md) ban đầu được đánh thức bởi [Ilúvatar](../I/Ilúvatar.md) tại [Cuiviénen](../C/Cuiviénen.md) khi [Các vì sao](../S/Stars.md) được thắp sáng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

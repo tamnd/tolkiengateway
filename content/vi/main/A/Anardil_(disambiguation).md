@@ -23,7 +23,7 @@ images:
   - "Disambig.png"
 ---
 
-**Anardil** có nghĩa là "Tận hiến cho [Mặt Trời](../S/Sun.md)" trong [Quenya](../Q/Quenya.md) (từ *[Anar](../S/Sun.md)*, "[Mặt Trời](../S/Sun.md)" và *-[dil](../D/Dil.md)*, "bạn bè, người yêu, tận tâm") và có thể tham khảo:
+**Anardil** có nghĩa là "Tận hiến cho [Mặt trời](../S/Sun.md)" trong [Quenya](../Q/Quenya.md) (từ *[Anar](../S/Sun.md)*, "[Mặt trời](../S/Sun.md)" và *-[dil](../D/Dil.md)*, "người bạn, người yêu, tận tâm") và có thể tham khảo:
 
 - [Anardil](Anardil_of_Númenor.md) ([S.A.](../S/Second_Age.md) [700](../S/Second_Age_700.md) - [1098](../S/Second_Age_1098.md)), người đã trở thành [Vua](../K/King_of_Númenor.md) thứ sáu của [Númenor](../N/Númenor.md) với tư cách là [Tar-Aldarion](../T/Tar-Aldarion.md).
 - [Anardil](<Anardil_(King_of_Gondor).md>) ([T.A.](../T/Third_Age.md) [136](../T/Third_Age_136.md) - [411](../T/Third_Age_411.md)), [Vua](../K/Kings_of_Gondor.md) thứ sáu của [Gondor](../G/Gondor.md).

@@ -53,11 +53,11 @@ infobox:
 
 Nó được đưa vào cuốn sách *[Tree and Leaf](../T/Tree_and_Leaf.md)* (1964) và trong các tài liệu biên soạn khác, chẳng hạn như *[The Tolkien Reader](../T/The_Tolkien_Reader.md)* (1966), *[Poems and Stories](../P/Poems_and_Stories.md)* (1980), và *[Tales from the Perilous Realm](../T/Tales_from_the_Perilous_Realm.md)* (1997).
 
-Sự xuất hiện riêng biệt đầu tiên của nó dường như là một [2003](../_/2003.md) bản in riêng của <a class="extiw" href="http://en.wikipedia.org/wiki/Trinity_Forum" title="wikipedia:Trinity Forum">Diễn đàn Trinity</a>, trong ấn bản này có lời tựa và "hướng dẫn thảo luận nhóm" ở cuối.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cuốn sách riêng biệt được [HarperCollins](../H/HarperCollins.md) phát hành chính thức vào [2016](../_/2016.md).
+Sự xuất hiện riêng biệt đầu tiên của nó dường như là một [2003](../_/2003.md) bản in riêng của <a class="extiw" href="http://en.wikipedia.org/wiki/Trinity_Forum" title="wikipedia:Trinity Forum">Diễn đàn Trinity</a>, trong ấn bản này có lời tựa và "hướng dẫn thảo luận nhóm" ở cuối.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cuốn sách riêng biệt được [HarperCollins](../H/HarperCollins.md) chính thức phát hành vào [2016](../_/2016.md).
 
 ## Tổng quan {#Overview}
 
-*Leaf by Niggle* gần như là một câu chuyện ngụ ngôn về quá trình sáng tạo của chính Tolkien, và ở một mức độ nào đó, về cuộc đời của chính anh ấy. Mặc dù Tolkien tích cực bảo vệ việc không mang tính ngụ ngôn, nhưng anh ấy thừa nhận đã làm như vậy trong *Leaf by Niggle* trong [một lá thư](Letter_199.md) gửi Caroline Everett ([ngày 24 tháng 6](../_/24_June.md) [1957](../_/1957.md)):<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Leaf by Niggle* gần như là một câu chuyện ngụ ngôn về quá trình sáng tạo của Tolkien, và ở một mức độ nào đó, về cuộc đời của chính ông. Mặc dù Tolkien tích cực bảo vệ việc không dùng lối ngụ ngôn, nhưng ông thừa nhận đã làm như vậy trong *Leaf by Niggle* trong [một lá thư](Letter_199.md) gửi Caroline Everett ([ngày 24 tháng 6](../_/24_June.md) [1957](../_/1957.md)):<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
 <p><i>&#34;I should say that, in addition to my tree-love (it was originally called The Tree), it arose from my own pre-occupation with the Lord of the Rings, the knowledge that it would be finished in great detail or not at all, and the fear (near certainty) that it would be &#39;not at all&#39;. The war had arisen to darken all horizons. But no such analyses are a complete explanation even of a short story...&#34;</i>
@@ -66,11 +66,11 @@ Sự xuất hiện riêng biệt đầu tiên của nó dường như là một 
 
 ## Tóm tắt {#Synopsis}
 
-[Niggle](../N/Niggle.md) là một nghệ sĩ vẽ tranh để làm hài lòng bản thân, sống trong một xã hội ít coi trọng nghệ thuật. Công việc chính của ông là vẽ một bức tranh khổng lồ về cái cây lớn. Anh ấy bắt đầu với một chiếc lá duy nhất và bức tranh phát triển xung quanh nó. Niggle hy vọng có thể vẽ được từng chiếc lá một cách chi tiết. Chẳng bao lâu Niggle tìm thấy những chú chim trên cây, những ngọn đồi hiện rõ qua cành cây. Và thế là bức tranh ngày càng phát triển và chiếm hết thời gian của họa sĩ. Niggle xin nghỉ làm vì lịch sự để giúp đỡ người hàng xóm, một người làm vườn tên là Parish bị què và có một người vợ ốm yếu. Trong quá trình giúp Niggle mắc bệnh.
+[Niggle](../N/Niggle.md) là một nghệ sĩ vẽ tranh để làm hài lòng bản thân, sống trong một xã hội ít coi trọng nghệ thuật. Công việc chính của ông là vẽ một bức tranh khổng lồ về cái cây lớn. Ông bắt đầu với một chiếc lá duy nhất và bức tranh phát triển xung quanh nó. Niggle hy vọng có thể vẽ được từng chiếc lá một cách chi tiết. Chẳng bao lâu Niggle tìm thấy những chú chim trên cây, những ngọn đồi hiện rõ qua cành cây. Và thế là bức tranh ngày càng phát triển và chiếm hết thời gian của họa sĩ. Niggle xin nghỉ làm vì lịch sự để giúp đỡ người hàng xóm, một người làm vườn tên là Parish bị què và có một người vợ ốm yếu. Trong quá trình giúp Niggle mắc bệnh.
 
-Sau đó, anh ta buộc phải thực hiện một chuyến đi, nhưng không chuẩn bị sẵn sàng cho chuyến đi đó (một phần do bệnh tật của anh ta) và cuối cùng phải đến Bệnh xá Workhouse, nơi anh ta phải lao động mỗi ngày. Anh ta được tạm tha và gửi đi làm công việc làm vườn ở nông thôn. Anh ấy nhận ra rằng thực tế anh ấy đang làm việc trong khu rừng trong bức tranh của mình, nhưng Cái cây là sự hiện thực hóa thực sự về tầm nhìn của anh ấy chứ không phải là phiên bản thiếu sót trong nghệ thuật của anh ấy.
+Sau đó, ông ta buộc phải thực hiện một chuyến đi, nhưng không chuẩn bị sẵn sàng cho chuyến đi đó (một phần do bệnh tật của ông ta) và cuối cùng phải đến Bệnh xá Workhouse, nơi ông ta phải lao động mỗi ngày. Ông ta được tạm tha và gửi đi làm công việc làm vườn ở nông thôn. Ông nhận ra rằng thực tế ông đang làm việc trong khu rừng trong bức tranh của mình, nhưng Cái cây là sự hiện thực hóa thực sự về tầm nhìn của ông chứ không phải là phiên bản thiếu sót trong nghệ thuật của ông.
 
-Niggle được đoàn tụ với Parish, hàng xóm của anh ấy, và họ cùng nhau làm cho khu rừng trở nên đẹp hơn. Cuối cùng, Niggle đi đến những nơi xa xôi trong khu rừng, đến những địa điểm ở rìa bức tranh của mình.
+Niggle được đoàn tụ với Parish, hàng xóm của ông, và họ cùng nhau làm cho khu rừng trở nên đẹp hơn. Cuối cùng, Niggle đi đến những nơi xa xôi trong khu rừng, đến những địa điểm ở rìa bức tranh của mình.
 
 ## Nhân vật và địa điểm {#Characters_and_places}
 
@@ -130,7 +130,7 @@ Niggle được đoàn tụ với Parish, hàng xóm của anh ấy, và họ c�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1992: <i><a href="../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md#Leaf_by_Niggle" title="Tales from the Perilous Realm (1992 radio series)">Tales from the Perilous Realm loạt đài</a></i></b>
+<b>1992: <i><a href="../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md#Leaf_by_Niggle" title="Tales from the Perilous Realm (1992 radio series)">Những câu chuyện trên đài phát thanh Vương quốc nguy hiểm</a></i></b>
 
 <dl><dd><i>Leaf by Niggle</i> Was one of the four stories that the series adapted. The other three adapted stories were: <i><a href="../F/Farmer_Giles_of_Ham.md" title="Farmer Giles of Ham">Farmer Giles of Ham</a></i>, <i><a href="../S/Smith_of_Wootton_Major.md" title="Smith of Wootton Major">Smith of Wootton Major</a></i>, and <i><a href="../T/The_Adventures_of_Tom_Bombadil.md" title="The Adventures of Tom Bombadil">The Adventures of Tom Bombadil</a></i>. The cast of the <i>Leaf by Niggle</i> part of the series included <a href="../M/Michael_Hordern.md" title="Michael Hordern">Michael Hordern</a> as <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, Alfred Molina as <a href="../N/Niggle.md" title="Niggle">Niggle</a>, John Fleming as <a href="../M/Mr._Parish.md" title="Mr. Parish">Parish</a>, and additional voices performed by Jonathan Adams, David Holt, Melanie Hudson, Matthew Morgan, Joanna Wake, and Melinda Walker.</dd></dl>
 
@@ -169,7 +169,7 @@ Niggle được đoàn tụ với Parish, hàng xóm của anh ấy, và họ c�
 - <a class="external text" href="http://www.tolkienestate.com/writing/priscilla-tolkien-leaf-by-niggle/" rel="noreferrer noopener" target="_blank">Lá của Niggle</a> của [Priscilla Tolkien](../P/Priscilla_Tolkien.md) tại <a class="external text" href="http://tolkienestate.com" rel="noreferrer noopener" target="_blank">tolkienstate.com</a>
 - <a class="external text" href="http://www.tolkienlibrary.com/reviews/leafbyniggle.htm" rel="noreferrer noopener" target="_blank">Leaf by Niggle - câu chuyện mang tính biểu tượng về một họa sĩ nhỏ</a>
 - <a class="external text" href="http://forum.barrowdowns.com/showthread.php?t=11107" rel="noreferrer noopener" target="_blank">The Workhouse - Tolkien's Purgatory</a>, thảo luận về *Leaf by Niggle* tại <a class="external text" href="http://forum.barrowdowns.com/index.php?" rel="noreferrer noopener" target="_blank">Diễn đàn thảo luận Barrow-Downs</a>
-- <a class="external text" href="http://www.tolkiensociety.org/2016/06/leaf-by-niggle-to-be-published-in-its-own-volume/" rel="noreferrer noopener" target="_blank">“Leaf by Niggle” sẽ được xuất bản thành tập riêng'</a> (thông báo bởi [Hội Tolkien](../T/The_Tolkien_Society.md)).
+- <a class="external text" href="http://www.tolkiensociety.org/2016/06/leaf-by-niggle-to-be-published-in-its-own-volume/" rel="noreferrer noopener" target="_blank">“Leaf by Niggle” sẽ được xuất bản thành tập riêng'</a> (thông báo của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md)).
 
 <span></span>
 

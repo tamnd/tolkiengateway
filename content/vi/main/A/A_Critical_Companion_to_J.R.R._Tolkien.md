@@ -62,7 +62,7 @@ Các bức ảnh và hình minh họa đen trắng, mục lục, phụ lục, th
 
 **Giới thiệu về (các) tác giả**
 
-Jay Ruud là trưởng khoa tiếng Anh tại Đại học Central Arkansas và là cựu trưởng khoa Khoa học và Nghệ thuật của Đại học Northern State. Ông là tác giả của *Encyclopedia of Medieval Literature* và *Critical Companion to Dante*Sự kiện trên hồ sơ. Anh ấy cũng đã viết *Nhiều bài hát và nhiều bài hát dâm đãng: Truyền thống và cá tính trong thơ trữ tình của Chaucer*.
+Jay Ruud là trưởng khoa tiếng Anh tại Đại học Central Arkansas và là cựu trưởng khoa Khoa học và Nghệ thuật của Đại học Northern State. Ông là tác giả của *Encyclopedia of Medieval Literature* và *Critical Companion to Dante* Sự kiện trên hồ sơ. Ông cũng đã viết *Nhiều bài hát và nhiều bài hát dâm đãng: Truyền thống và cá tính trong thơ trữ tình của Chaucer*.
 
 ## Liên kết ngoài {#External_links}
 

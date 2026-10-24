@@ -39,34 +39,34 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_83.gif.md"><img src="https://tolkiengateway.net/w/images/a/a7/Mythlore_83.gif" decoding="async" loading="lazy" width="225" height="292" class="mw-file-element" data-file-width="225" data-file-height="292"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 83</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Autumn <a href="../_/1997.md" title="1997">1997</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">67</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_82.md" title="Mythlore 82">Mythlore 82</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_84.md" title="Mythlore 84">Mythlore 84</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 83</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol22/iss1/" rel="noreferrer noopener" target="_blank">Tập 22, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 83</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol22/iss1/" rel="noreferrer noopener" target="_blank">Tập 22, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Sandner, David. "Sự thăng hoa tuyệt vời: 'Về những câu chuyện cổ tích' và Sự thăng hoa lãng mạn của Tolkien."
-- Joeckel, Samuel T. "Tìm kiếm Narnia trên Bản đồ Platon về Nhận thức Tiến bộ."
-- Evans, Gwyneth. "Tất cả các nàng tiên đã đi đâu rồi?"
+- Sandner, David. "The Fantastic Sublime: Tolkien’s ‘On Fairy-Stories’ and the Romantic Sublime."
+- Joeckel, Samuel T. "In Search of Narnia on a Platonic Map of Progressive Cognition."
+- Evans, Gwyneth. "Where Have All the Fairies Gone?"
 - Garcia de la Puerta, Maria. "J.R.R. Tolkien Việc sử dụng thiên nhiên: Mối tương quan với nhận thức về thiên nhiên của người Galicia."
-- Talbot, Norman. "'Tôi không tìm kiếm giấc mơ... mà tìm kiếm sự kết thúc của những giấc mơ': Sự lừa dối của *The Story of the Glittering Plain*."
-- Nâu, Devin. "Cỗ máy du hành thời gian tối thượng."
-- Christopher, Joe R. "Roy Campbell và Inklings."
-- Foster, Susanne E. "Lewis về sự bất tử của động vật."
-- Thompson, George H. "Danh sách kiểm tra có chú thích về các bài đánh giá ban đầu về sách của J.R.R. Tolkien."
+- Talbot, Norman. "'I Seek No Dream … But Rather the End of Dreams': The Deceptions of *The Story of the Glittering Plain*."
+- Brown, Devin. "The Ultimate Time Travel Machine."
+- Christopher, Joe R. "Roy Campbell and the Inklings."
+- Foster, Susanne E. "Lewis on Animal Immortality."
+- Thompson, George H. "Annotated Checklists of Early Reviews of Books by J.R.R. Tolkien."
 
 #### Tính năng {#Features}
 
 - Chúc ngủ ngon, Glen. Biên tập.
-- Christopher, Joe R. An Inklings Thư mục (57).
+- Christopher, Joe R. An Inklings Bibliography (57).
 
 #### Đánh giá {#Reviews}
 
 - *J.R.R. Tolkien: Artist and Illustrator.* Wayne G. Hammond và Christina Scull. Được đánh giá bởi Nancy-Lou Patterson.
 - *C.S. Lewis: Companion and Guide.* Walter Hooper. Được đánh giá bởi Diana Pavlac Glyer.
-- *Hùng biện về tầm nhìn: Tiểu luận về Charles Williams.* Ed. của Charles A. Huttar và Peter J. Schakel. Được đánh giá bởi Nancy-Lou Patterson.
+- *Lời hùng biện về tầm nhìn: Các tiểu luận về Charles Williams.* Ed. của Charles A. Huttar và Peter J. Schakel. Được đánh giá bởi Nancy-Lou Patterson.
 - *Poetry of Dorothy L. Sayers.* Biên tập. của Ralph E. Hone. Được đánh giá bởi Nancy-Lou Patterson.
-- *Inklings về Thực tại: Hướng tới Triết lý Thư tín Kitô giáo.* Donald T. Williams. Được đánh giá bởi Nancy-Lou Patterson.
+- *Những ý niệm mơ hồ về hiện thực: Hướng tới triết lý chữ cái của Cơ đốc giáo.* Donald T. Williams. Được đánh giá bởi Nancy-Lou Patterson.
 - *C.S. Lewis: Mere Christian.* Kathryn Linskoog. Được đánh giá bởi Nancy-Lou Patterson.
 - *C.S. Lewis: Các bài đọc để suy ngẫm và suy ngẫm.* Ed. của Người phục vụ Hooper. Được đánh giá bởi Nancy-Lou Patterson.
 - *C.S. Lewis Mục lục: Tin đồn từ cửa hàng điêu khắc.* Janine Goffar. Được đánh giá bởi Nancy-Lou Patterson.

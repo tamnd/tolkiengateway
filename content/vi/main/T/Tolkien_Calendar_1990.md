@@ -36,20 +36,20 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Tolkien_Calendar_1990.jpg.md"><img src="https://tolkiengateway.net/w/images/3/3b/The_Tolkien_Calendar_1990.jpg" decoding="async" loading="lazy" width="192" height="216" class="mw-file-element" data-file-width="192" data-file-height="216"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 1990</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../U/Unwin_Hyman.md" title="Unwin Hyman">Unwin Paperbacks</a> (UK)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/24_August.md" title="24 August">24 August</a> <a href="../_/1989.md" title="1989">1989</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Wire-bound calendar with mailer</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-04-440397-6" title="Special:BookSources/0-04-440397-6">0-04-440397-6</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Tolkien_Calendar_1989.md" title="The Tolkien Calendar 1989">The Tolkien Calendar 1989</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Tolkien_Calendar_1991.md" title="The Tolkien Calendar 1991">The Tolkien Calendar 1991</a></td></tr></tbody></table>
 
-Lịch <i><b>Tolkien 1990</b></i> là lịch Tolkien chính thức được xuất bản bởi [Unwin Paperbacks](../U/Unwin_Hyman.md) vào [24 tháng 8](../_/24_August.md) [1989](../_/1989.md). Nó có tác phẩm nghệ thuật của [Ted Nasmith](Ted_Nasmith.md) dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
+<i><b>Lịch Tolkien 1990</b></i> là lịch Tolkien chính thức được xuất bản bởi [Unwin Paperbacks](../U/Unwin_Hyman.md) vào [24 tháng 8](../_/24_August.md) [1989](../_/1989.md). Nó có tác phẩm nghệ thuật của [Ted Nasmith](Ted_Nasmith.md) dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
 
 ## Minh họa {#Illustrations}
 
 - Bìa - "[Rivendell](../../file/T/Ted_Nasmith_-_Rivendell.jpg.md)"
-- Tháng 1 - "[Sam Vào Mordor Một Mình](../../file/T/Ted_Nasmith_-_Sam_Enters_Mordor_Alone.jpg.md)"
-- Tháng 2 - "[Dưới chân Núi Doom](../../file/T/Ted_Nasmith_-_At_the_Foot_of_Mount_Doom.jpg.md)"
-- Tháng 3 - "[Tại Dấu hiệu Prancing Pony](../../file/T/Ted_Nasmith_-_At_the_Sign_of_the_Prancing_Pony.jpg.md)"
+- Tháng 1 - "[Sam vào Mordor một mình](../../file/T/Ted_Nasmith_-_Sam_Enters_Mordor_Alone.jpg.md)"
+- Tháng 2 - "[Dưới chân núi diệt vong](../../file/T/Ted_Nasmith_-_At_the_Foot_of_Mount_Doom.jpg.md)"
+- Tháng 3 - "[Tại Dấu hiệu Ngựa chồm lên](../../file/T/Ted_Nasmith_-_At_the_Sign_of_the_Prancing_Pony.jpg.md)"
 - Tháng 4 - "[Wellinghall](../../file/T/Ted_Nasmith_-_Wellinghall.jpg.md)"
-- Tháng 5 - "[Truy đuổi trong Rohan](../../file/T/Ted_Nasmith_-_Pursuit_in_Rohan.jpg.md)"
+- Tháng 5 - "[Truy đuổi ở Rohan](../../file/T/Ted_Nasmith_-_Pursuit_in_Rohan.jpg.md)"
 - Tháng 6 - "[Rivendell](../../file/T/Ted_Nasmith_-_Rivendell.jpg.md)"
 - Tháng 7 - "[Lúthien](../../file/T/Ted_Nasmith_-_Lúthien.jpg.md)"
 - Tháng 8 - "[Nazgûl](../../file/T/Ted_Nasmith_-_The_Nazgûl.jpg.md)"
-- tháng Chín - "[Quốc gia Đồi Xanh](../../file/T/Ted_Nasmith_-_Green_Hill_Morning.jpg.md)"
+- Tháng 9 - "[Xứ đồi xanh](../../file/T/Ted_Nasmith_-_Green_Hill_Morning.jpg.md)"
 - Tháng 10 - "[Lời thề của Cirion và Eorl](../../file/T/Ted_Nasmith_-_The_Oathtaking_of_Cirion_and_Eorl.jpg.md)"
 - Tháng 11 - "[Những tay đua ở Ford](../../file/T/Ted_Nasmith_-_Riders_at_The_Ford.jpg.md)"
 - Tháng 12 - "[Minas Tirith](../../file/T/Ted_Nasmith_-_Minas_Tirith_at_Dawn.jpg.md)"
@@ -61,7 +61,7 @@ Lịch <i><b>Tolkien 1990</b></i> là lịch Tolkien chính thức được xu�
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94220" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1990</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/1989_1992.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1989 - 1992</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde đến Tolkien Lịch</a>
+- <a class="external text" href="http://tolkiencalendars.com/1989_1992.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1989 - 1992</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

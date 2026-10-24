@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Fragment of an Epic: Before Jerusalem Richard Makes an End of Speech"
 ---
 
-Chuyển hướng tới [Một đoạn sử thi: Trước Jerusalem Richard kết thúc bài phát biểu](A_Fragment_of_an_Epic%253A_Before_Jerusalem_Richard_Makes_an_End_of_Speech.md).
+Chuyển hướng đến [A Fragment of an Epic: Before Jerusalem Richard Makes an End of Speech](A_Fragment_of_an_Epic%253A_Before_Jerusalem_Richard_Makes_an_End_of_Speech.md).

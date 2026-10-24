@@ -25,7 +25,7 @@ categories:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Sindarin](../S/Sindarin.md) *[and](And.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[and](And.md)*
 
 ## Các biểu mẫu lỗi thời {#Obsolete_forms}
 

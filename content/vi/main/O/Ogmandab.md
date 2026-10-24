@@ -11,4 +11,4 @@ redirect_target: "Gorhendad Oldbuck"
 redirect_fragment: "Etymology"
 ---
 
-Chuyển hướng đến [Gorhendad Oldbuck](../G/Gorhendad_Oldbuck.md#Etymology).
+Chuyển hướng đến [Gorendad Oldbuck](../G/Gorhendad_Oldbuck.md#Etymology).

@@ -39,9 +39,9 @@ infobox:
 
 ## Nội dung {#Contents}
 
-- "Ảnh Hưởng Của Charles Williams Đến Cuộc Sống Và Công Việc Của W.H. Auden"
+- "Ảnh hưởng của Charles Williams đến cuộc đời và công việc của W.H. Auden"
     - Bởi: Cicero Bruce
-- "'Ngôn ngữ đã học của Tiên tộc': Owen Barfield, *The Hobbit*và *The Lord of the Rings*"
+- "'Ngôn ngữ học được của yêu tinh': Owen Barfield, *The Hobbit* và *The Lord of the Rings*"
     - Bởi: Stephen Medcalf
 - "George MacDonald và Jacob Boehme: *Lilith* và Mô hình tồn tại bảy phần"
     - Bởi: Deirdre Hayward

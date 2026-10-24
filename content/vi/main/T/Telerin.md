@@ -37,23 +37,23 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**Telerin** là từ dùng để chỉ ngôn ngữ của bất kỳ Tiên-người nào có nguồn gốc [Lindar](../L/Lindar.md) nhưng tốt nhất nên dành riêng cho ngôn ngữ của Teleri đến với [Valinor](../V/Valinor.md), [Falmari](../F/Falmari.md);<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> đó là ngôn ngữ liên quan đến cả [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md).
+**Telerin** là từ dùng để chỉ ngôn ngữ của bất kỳ tộc Tiên nào có nguồn gốc từ [Lindar](../L/Lindar.md) nhưng tốt nhất nên dành riêng cho ngôn ngữ của Teleri đã đến với [Valinor](../V/Valinor.md), [Falmari](../F/Falmari.md);<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> nó là ngôn ngữ liên quan đến cả [Quenya](../Q/Quenya.md) và [Tiếng Sindarin](../S/Sindarin.md).
 
 Nó còn được gọi là <i><b>Lindalambe</b></i> hoặc <i><b>Lindárin</b></i>.
 
 ## Lịch sử {#History}
 
-Ngôn ngữ của Falmari có nguồn gốc từ [Common Telerin](../C/Common_Telerin.md), một phương ngữ cổ của [Common Eldarin](../C/Common_Eldarin.md) được sử dụng trong [Great March](../G/Great_March.md). Từ quan điểm của những người nói ngôn ngữ [Quenya](../Q/Quenya.md) (những người coi ngôn ngữ của họ là hậu duệ trực tiếp chính của Common Eldarin), họ coi Telerin (hậu duệ trực tiếp của Common Telerin) là một "phương ngữ của Quenya". Telerin do đó được coi là ngôn ngữ có liên quan chặt chẽ và phần lớn vẫn dễ hiểu.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ngôn ngữ của Falmari bắt nguồn từ [Common Telerin](../C/Common_Telerin.md), một phương ngữ cổ của [Common Eldarin](../C/Common_Eldarin.md) được nói trong [Great March](../G/Great_March.md). Từ quan điểm của những người nói ngôn ngữ [Quenya](../Q/Quenya.md) (những người coi ngôn ngữ của họ là hậu duệ trực tiếp chính của Common Eldarin), họ coi Telerin (hậu duệ trực tiếp của Common Telerin) là một "phương ngữ của Quenya". Do đó, Telerin được coi là một ngôn ngữ có liên quan chặt chẽ và phần lớn vẫn có thể hiểu được.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Tuy nhiên, âm vị học của hai ngôn ngữ khác nhau nhiều, trong đó Telerin thường bảo thủ hơn [Quenya](../Q/Quenya.md). Trong [Aman](../A/Aman.md) số lượng loa của Telerin nhiều hơn số lượng loa của [Quenya](../Q/Quenya.md), cũng như [Teleri](Teleri.md) nhiều hơn số lượng loa [Vanyar](../V/Vanyar.md) và [Noldor](../N/Noldor.md).
+Tuy nhiên, âm vị học của hai ngôn ngữ khác nhau nhiều, Telerin thường bảo thủ hơn [Quenya](../Q/Quenya.md). Ở [Aman](../A/Aman.md) số người nói tiếng Telerin đông hơn số người nói [Quenya](../Q/Quenya.md), cũng như [Teleri](Teleri.md) nhiều hơn số [Vanyar](../V/Vanyar.md) và [Noldor](../N/Noldor.md).
 
-Ngoài ra, Teleri bạc được đánh giá cao hơn vàng và kỹ năng thợ bạc của họ thậm chí còn được đánh giá cao bởi Noldor, những người có vẻ thích từ Telerin *[telpe](Telpe.md)* ("bạc") hơn là dạng Quenya *[tyelpë](Tyelpë.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Ngoài ra, người Teleri đánh giá cao bạc hơn vàng và kỹ năng thợ bạc của họ thậm chí còn được đánh giá cao bởi Noldor, người có vẻ thích từ Telerin *[telpe](Telpe.md)* ("bạc") hơn là dạng Quenya *[tyelpë](Tyelpë.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-[Finarfin](../F/Finarfin.md) được cho là đã học được Telerin. Ông cũng đặt cho các con trai mình những cái tên Telerin có ảnh hưởng Quenya.
+[Finarfin](../F/Finarfin.md) được cho là đã học Telerin. Ông cũng đặt cho các con trai mình những cái tên Quenya chịu ảnh hưởng của Telerin.
 
 ## Ngữ pháp {#Grammar}
 
-Một điểm khác biệt đáng chú ý so với Quenya là đuôi sở hữu được thêm vào sau từ chỉ thứ gì đó bị sở hữu, không phải sở hữu. Ví dụ: "[Olwe](../O/Olwe.md)'s house" là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cava&amp;action=edit&amp;redlink=1" title="Cava (page does not exist)">cavaria</a> Olue</i> (lit. "house-his Olue").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Một điểm khác biệt đáng chú ý so với Quenya là đuôi sở hữu được thêm vào sau một từ chỉ thứ gì đó bị sở hữu, không phải sở hữu. Ví dụ: "[Olwe](../O/Olwe.md)'s house" là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cava&amp;action=edit&amp;redlink=1" title="Cava (page does not exist)">cavaria</a> Olue</i> (lit. "house-his Olue").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Phiên bản khác {#Other_versions}
 
@@ -61,13 +61,13 @@ Một điểm khác biệt đáng chú ý so với Quenya là đuôi sở hữu 
 
 ## Xem thêm {#See_also}
 
-- [Danh mục: Telerin từ](../../category/T/Telerin_words.md)
+- [Category: Telerin words](../../category/T/Telerin_words.md)
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/telerin.htm" rel="noreferrer noopener" target="_blank">Telerin - <i>ngôn ngữ của Biển-yêu tinh</i></a> tại [Ardalambion](../A/Ardalambion.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/telerin.htm" rel="noreferrer noopener" target="_blank">Telerin - <i>ngôn ngữ của Yêu tinh biển</i></a> tại [Ardalambion](../A/Ardalambion.md)
 - <a class="external text" href="http://www.sindanoorie.net/art/Telerin000.html" rel="noreferrer noopener" target="_blank">Truy vấn về ngôn ngữ Telerin</a>
-- <a class="external text" href="http://web.archive.org/web/20170614132222/http://midgardsmal.com/on-telerin/" rel="noreferrer noopener" target="_blank">Bật Telerin</a> (trên Lưu trữ Web) bởi [David Salo](../D/David_Salo.md)
+- <a class="external text" href="http://web.archive.org/web/20170614132222/http://midgardsmal.com/on-telerin/" rel="noreferrer noopener" target="_blank">Trên Telerin</a> (trên Lưu trữ Web) của [David Salo](../D/David_Salo.md)
 - <a class="external text" href="http://glaemscrafu.jrrvf.com/english/telerin.html" rel="noreferrer noopener" target="_blank">Văn bản và mẫu âm thanh</a> tại [Glǽmscrafu](../G/Glǽmscrafu.md)
 
 <span></span>

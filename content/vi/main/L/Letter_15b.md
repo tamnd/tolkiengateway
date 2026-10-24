@@ -29,11 +29,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-[Tolkien](../T/Tolkien.md) viết thư cho cậu con trai út [Christopher](../C/Christopher_Tolkien.md), cậu bé mới bắt đầu theo học tại [The Oratory School](../T/The_Oratory_School.md) (một trường nội trú), nơi anh trai cậu [Michael](../M/Michael_Tolkien.md) đang theo học. Tolkien cảnh báo Christopher sẽ mất một thời gian để điều chỉnh nên có thể anh ấy sẽ khó có thời gian để viết lại sớm. Anh ấy đề cập rằng "[Mẹ](../E/Edith_Tolkien.md) và [Prisca](../P/Priscilla_Tolkien.md) muốn đi nhờ ô tô" chiều hôm đó và họ đã lái xe vòng quanh một số thị trấn ở phía nam [Oxford](../O/Oxford.md) nên họ không cách xa trường học.
+[Tolkien](../T/Tolkien.md) viết một lá thư cho con trai út [Christopher](../C/Christopher_Tolkien.md), người mới bắt đầu theo học tại [The Oratory School](../T/The_Oratory_School.md) (một trường nội trú), nơi anh trai [Michael](../M/Michael_Tolkien.md) của anh đang theo học. Tolkien cảnh báo Christopher rằng sẽ mất một thời gian để điều chỉnh, vì vậy ông có thể khó có thời gian để viết lại sớm. Ông đề cập rằng "[Mẹ](../E/Edith_Tolkien.md) và [Prisca](../P/Priscilla_Tolkien.md) muốn đi nhờ ô tô" chiều hôm đó và họ đã lái xe vòng quanh một số thị trấn ở phía nam [Oxford](../O/Oxford.md) nên họ không cách xa trường học.
 
-Anh ấy nói rằng gần đây anh ấy đã gặp [ông Lewis](../C/C.S._Lewis.md) và anh ấy nói rằng "anh trai béo của anh ấy đã đọc *[The Hobbit](../T/The_Hobbit.md)*" và điều đó khiến anh ấy muốn nhiều hơn nữa.
+Ông nói rằng gần đây ông đã gặp [ông Lewis](../C/C.S._Lewis.md) và ông nói rằng "anh trai béo của ông đã đọc *[The Hobbit](../T/The_Hobbit.md)*" và điều đó khiến ông muốn nhiều hơn nữa.
 
-Bức thư kết thúc bằng việc anh ấy nói rằng anh ấy sẽ đến thăm sau mười hai ngày nữa.
+Bức thư kết thúc bằng việc ông nói rằng ông sẽ đến thăm sau mười hai ngày nữa.
 
 <br>
 

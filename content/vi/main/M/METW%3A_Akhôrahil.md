@@ -29,7 +29,7 @@ infobox:
 
 **METW: Akhôrahil** là một thẻ trò chơi trong bộ *[Middle-earth: The Wizards](Middle-earth%253A_The_Wizards.md)*, dành cho [MECCG](Middle-earth_Collectible_Card_Game.md).
 
-- <i><b>Lưu ý:</b></i> *Akhôrahil là tên của [Nazgûl](../N/Nazgûl.md) thứ năm được phát minh ban đầu bởi [ICE](../I/Iron_Crown_Enterprises.md) trong* [Lords of Trung Địa: Vol. II](../L/Lords_of_Middle-earth%253A_Vol._II.md).
+- <i><b>Lưu ý:</b></i> *Akhôrahil là tên của [Nazgûl](../N/Nazgûl.md) thứ năm, ban đầu được phát minh bởi [ICE](../I/Iron_Crown_Enterprises.md) vào* [Lords of Middle-earth: Vol. II](../L/Lords_of_Middle-earth%253A_Vol._II.md).
 
 ## Nội dung thẻ {#Card_text}
 
@@ -41,7 +41,7 @@ infobox:
 
 ## Các thẻ liên quan {#Related_cards}
 
-- MELE: Akhôrahil Ringwraith
+- MELE: Akhôrahil Ma Nhẫn
 - MELE: Akhôrahil được giải phóng
 
 <span></span>

@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Vihre%C3%A4_veli"
 ---
 
-**Anh Xanh** là một nhân vật bí ẩn trong *[Father Christmas Letters](../L/Letters_from_Father_Christmas.md)*. Anh ấy là con trai của [Ông nội Yule](Grandfather_Yule.md) và là anh trai của [Ông già Noel](../F/Father_Christmas.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Anh Xanh** là một nhân vật bí ẩn trong *[Father Christmas Letters](../L/Letters_from_Father_Christmas.md)*. Ông là con trai của [Ông nội Yule](Grandfather_Yule.md) và là anh trai của [Ông già Noel](../F/Father_Christmas.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Giống như Ông già Noel, Anh xanh thu thập thực phẩm, quần áo và đồ chơi cho trẻ em nghèo.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Chiếc quần xanh của ông già Noel là món quà từ người anh xanh của ông.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

@@ -33,7 +33,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Brogan đã đọc *[The Hobbit](../T/The_Hobbit.md)*và hỏi về thế giới mà nó chơi. Tolkien đã thông báo cho anh ấy về *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* cũng như *[The Silmarillion](../T/The_Silmarillion.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*chưa hoàn thành. <br>
+Brogan đã đọc *[The Hobbit](../T/The_Hobbit.md)* và hỏi về thế giới mà nó chơi. Tolkien đã thông báo cho ông về *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* cũng như *[The Silmarillion](../T/The_Silmarillion.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* chưa hoàn thành. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

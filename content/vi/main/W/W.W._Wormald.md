@@ -33,7 +33,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Đôi khi trong hoặc sau [2014](../_/2014.md), Wormald, cùng với [D.N. Borrow](../D/D.N._Borrow.md), thuộc Viện Ngôn ngữ phương Tây, đã quan tâm đến [Notion Club Các bài báo](../N/Notion_Club_Papers.md) mới được tìm thấy, một tuyển tập các bài viết ghi lại khoảng một trăm cuộc họp của nhóm thảo luận cùng tên.<sup id="cite_ref-Foreword_1-0" class="reference"><a href="#cite_note-Foreword-1">[1]</a></sup>
+Đôi khi trong hoặc sau [2014](../_/2014.md), Wormald, cùng với [D.N. Borrow](../D/D.N._Borrow.md), thuộc Viện Ngôn ngữ Phương Tây, đã quan tâm đến [Bài viết của Câu lạc bộ Notion](../N/Notion_Club_Papers.md), một tuyển tập các bài viết ghi lại khoảng một trăm cuộc họp của nhóm thảo luận cùng tên.<sup id="cite_ref-Foreword_1-0" class="reference"><a href="#cite_note-Foreword-1">[1]</a></sup>
 
 Họ xin phép ông [Howard Green](../H/Howard_Green.md), thư ký trường <a class="extiw" href="http://en.wikipedia.org/wiki/Examination_Schools" title="wikipedia:Examination Schools">Trường khảo thí</a> tại [Oxford](../O/Oxford.md), người đã tìm thấy các giấy tờ, để kiểm tra chúng kỹ hơn. Sau khi điều tra sâu hơn, họ phát hiện ra rằng những tờ giấy viết báo cáo về các cuộc họp đã cũ hơn khoảng 40 hoặc 50 năm so với ngày được ký trên giấy tờ. Thực tế này khiến họ kết luận rằng những bài báo này được viết bởi một người đàn ông vào khoảng thời gian <a class="extiw" href="http://en.wikipedia.org/wiki/World_War_II" title="wikipedia:World War II">Chiến tranh Sáu năm</a> và những nhân vật xuất hiện trong văn bản thực ra là do một người bịa ra.<sup id="cite_ref-Foreword_1-1" class="reference"><a href="#cite_note-Foreword-1">[1]</a></sup>
 

@@ -34,7 +34,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Tại [Cảng Xám](../../main/G/Grey_Havens.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), xuất bản lần đầu trong [1978 J.R.R. Tolkien Lịch](../../main/_/1978_J.R.R._Tolkien_Calendar.md)
+"At the [Cảng Xám](../../main/G/Grey_Havens.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), xuất bản lần đầu trong [1978 J.R.R. Tolkien Lịch](../../main/_/1978_J.R.R._Tolkien_Calendar.md)
 
 ## Giấy phép {#Licensing}
 

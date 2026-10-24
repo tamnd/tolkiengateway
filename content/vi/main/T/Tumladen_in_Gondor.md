@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tumladen (Gondor)"
 ---
 
-Chuyển hướng tới [Tumladen (Gondor)](<Tumladen_(Gondor).md>).
+Chuyển hướng đến [Tumladen (Gondor)](<Tumladen_(Gondor).md>).

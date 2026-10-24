@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien and Shakespeare: Essays on Shared Themes and Language"
 ---
 
-Chuyển hướng đến [Tolkien và Shakespeare: Các bài tiểu luận về chủ đề và ngôn ngữ chung](Tolkien_and_Shakespeare%253A_Essays_on_Shared_Themes_and_Language.md).
+Chuyển hướng đến [Tolkien and Shakespeare: Essays on Shared Themes and Language](Tolkien_and_Shakespeare%253A_Essays_on_Shared_Themes_and_Language.md).

@@ -36,6 +36,6 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**"Tôi Không Thể Mang Nó Cho Bạn...nhưng Tôi Có Thể Mang Bạn."** là cảnh thứ 51 của *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* và cảnh thứ 66 của [*The Lord of the Rings: The Return of the King* (phiên bản mở rộng)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>).
+**"Tôi Không Thể Mang Nó Cho Bạn... nhưng Tôi Có Thể Mang Bạn."** là cảnh thứ 51 của *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* và cảnh thứ 66 của [*The Lord of the Rings: The Return of the King* (extended edition)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>).
 
-Trong cảnh này, [Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) đang vùng vẫy [Núi Doom](../M/Mount_Doom.md) thì Frodo gục xuống, không thể tiến thêm được nữa. Sam sau đó tiến hành cõng anh ta lên núi, tuyên bố rằng tuy anh ta không thể mang <a class="mw-redirect mw-disambig" href="../R/Ring.md" title="Ring">Nhẫn</a>nhưng anh ta có thể mang Người Mang Nhẫn, do đó có câu trích dẫn: "Tôi không thể mang nó cho bạn, nhưng tôi có thể cõng bạn."
+Trong cảnh này, [Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) đang cố gắng leo lên [Mount Doom](../M/Mount_Doom.md) thì Frodo gục xuống, không thể tiến thêm được nữa. Sau đó, Sam tiếp tục bế ông ta lên núi, tuyên bố rằng mặc dù ông ta không thể mang <a class="mw-redirect mw-disambig" href="../R/Ring.md" title="Ring">Chiếc nhẫn</a>nhưng ông ta có thể mang Người mang chiếc nhẫn, do đó có câu trích dẫn: "Tôi không thể mang nó cho bạn, nhưng tôi có thể mang bạn."

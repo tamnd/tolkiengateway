@@ -18,17 +18,17 @@ langlinks:
     url: "https://kontu.wiki/Helmin_pojat"
 ---
 
-**Helmingas** có lẽ là tên của [Rohirrim](../R/Rohirrim.md), chỉ những người theo dõi và hậu duệ của Vua [Helm](Helm.md), giống như cái tên [Eorlingas](../E/Eorlingas.md) dùng để chỉ những người của [Rohan](../R/Rohan.md) đi theo Vua Rohan đầu tiên, [Eorl the Young](../E/Eorl.md).
+**Helmingas** có lẽ là tên của [Rohirrim](../R/Rohirrim.md), ám chỉ những người đi theo và là hậu duệ của Vua [Helm](Helm.md), giống như cái tên [Eorlingas](../E/Eorlingas.md) dùng để chỉ người dân [Rohan](../R/Rohan.md) đi theo vị vua đầu tiên của Rohan, [Eorl the Young](../E/Eorl.md).
 
 ## Lịch sử {#History}
 
-Vào [4 tháng 3](../_/4_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) trong [Trận Hornburg](../B/Battle_of_the_Hornburg.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> khi [Orc](../O/Orcs.md) xâm nhập được [Bức tường sâu](../D/Deeping_Wall.md), [Gamling](../G/Gamling.md) đã kêu lên, "Helm! Helm! Forth Helmingas! " để tập hợp Rohirrim người bảo vệ [Hornburg](Hornburg.md) để đẩy lùi quân quân xâm lược.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào [4 tháng 3](../_/4_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) trong [Trận chiến Hornburg](../B/Battle_of_the_Hornburg.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> khi [Orc](../O/Orcs.md) tìm cách xuyên thủng [Bức tường sâu](../D/Deeping_Wall.md), [Gamling](../G/Gamling.md) đã hét lên, "Helm! Helm! Helmingas Forth! " để tập hợp những người Rohirrim đang bảo vệ [Hornburg](Hornburg.md) để đẩy lùi quân xâm lược.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Helmingas* là tên trong ngôn ngữ của Rohan, được biểu thị bằng [tiếng Anh cổ](../O/Old_English.md). Nó bao gồm *[Helm](Helm.md#Etymology)* và *[-ingas](../_/-ings.md)* ("người").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Helmingas* là tên trong ngôn ngữ Rohan, được thể hiện bằng [Tiếng Anh cổ](../O/Old_English.md). Nó bao gồm *[Helm](Helm.md#Etymology)* và *[-ingas](../_/-ings.md)* ("người").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Helmingas chỉ xuất hiện một lần trong văn bản do Gamling nói và khi anh ta xuất hiện, [Westfold-men](../W/Westfold-men.md) sẽ tụ tập cùng anh ta. Mục lục của [Phiên bản kỷ niệm 50 năm của *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>) (được chỉnh sửa bởi [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md)) dường như hiểu Helmingas và Westfold-men là đồng nghĩa và kết nối cả hai. <span></span>
+Helmingas chỉ xuất hiện một lần trong văn bản, được nói bởi Gamling, và khi ông ta xuất hiện, [Westfold-men](../W/Westfold-men.md) sẽ tụ tập cùng ông ta. Mục lục của [Phiên bản kỷ niệm 50 năm của *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>) (được biên tập bởi [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md)) dường như hiểu Helmingas và Westfold-men là từ đồng nghĩa và kết nối cả hai. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

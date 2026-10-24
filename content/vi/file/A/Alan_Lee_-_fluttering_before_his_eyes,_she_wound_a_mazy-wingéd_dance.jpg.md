@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Alan Lee - The Song of Tinúviel.jpg"
 ---
 
-Chuyển hướng đến [Tệp:Alan Lee - Bài hát của Tinúviel.jpg](Alan_Lee_-_The_Song_of_Tinúviel.jpg.md).
+Chuyển hướng tới [Tệp:Alan Lee - Bài hát của Tinúviel.jpg](Alan_Lee_-_The_Song_of_Tinúviel.jpg.md).

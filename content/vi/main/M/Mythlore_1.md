@@ -37,23 +37,23 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_1.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/11/Mythlore_1.jpg/320px-Mythlore_1.jpg" decoding="async" loading="lazy" width="320" height="412" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/11/Mythlore_1.jpg/480px-Mythlore_1.jpg 1.5x, https://tolkiengateway.net/w/images/1/11/Mythlore_1.jpg 2x" data-file-width="604" data-file-height="778"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 1</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">January, <a href="../_/1969.md" title="1969">1969</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">48</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_2.md" title="Mythlore 2">Mythlore 2</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 1</b> <a class="external text" href="https://dc.swosu.edu/mythlore/vol1/iss1/" rel="noreferrer noopener" target="_blank">(Tập 1, Số 1)</a> là số đầu tiên của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
+<b><i>Thần thoại</i> 1</b> <a class="external text" href="https://dc.swosu.edu/mythlore/vol1/iss1/" rel="noreferrer noopener" target="_blank">(Tập 1, Số 1)</a> là số đầu tiên của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
 
 ## Nội dung {#Contents}
 
 - Biên tập: "Sự tham gia tưởng tượng và cá nhân." 4.
-- Hoan hô, Nan. “Sion và Parnassus: Ba cách tiếp cận huyền thoại.” 6-8.
-- Berman, Ruth. "Đây là Orc, Có Ork." 9-10.
-- Titcomb, Molly. "Chuyển *The Lord of the Rings* thành phim?" 13-11.
-- Hannay, Margaret P. "C.S. Lewis' Lý thuyết về thần thoại." 14-18.
-- Zuber, Bernie. "Cuộc họp của Hội Tolkien, tháng Chín 22, 1968." 25+.
-- Chúc ngủ ngon, Glen. "C.S Kilby ở Nam California." 27+.
-- Wilson, Simone. “Huyền thoại Arthurian trong văn học hiện đại.” 30-32.
-- Zuber, Bernie. "Giới thiệu về *Worlds of Fantasy*." 32+.
-- Chúc ngủ ngon, Glen. “Một thần thoại và Lịch Trái đất Midde cho năm 1969.” 38+.
-- Ballif, Sandra. "Từ điển Sindarin-Quenya, ít nhiều, liệt kê tất cả các từ Elvish được tìm thấy trong Chúa tể của những chiếc nhẫn, Hobbit và Con đường mãi mãi đi qua J.R.R. Tolkien (Phần I)." 41-44.
-- Zuber, Bernie. "Tiệc sinh nhật củaBilbo và Frodo, tháng Chín 22, 1968." 45.
-- "Công văn gửi tới *Mythlore*." 47.
-- "Hội thần thoại và *Mythlore*là gì?" 48.
+- Braude, Nan. "Sion and Parnassus: Three Approaches to Myth." 6-8.
+- Berman, Ruth. "Here an Orc, There an Ork." 9-10.
+- Titcomb, Molly. "Making *The Lord of the Rings* into a Movie?" 11-13.
+- Hannay, Margaret P. "C.S. Lewis' Theory of Mythology." 14-18.
+- Zuber, Bernie. "A Meeting of the Tolkien Society, September 22, 1968." 25+.
+- GoodKnight, Glen. "C.S Kilby in Southern California." 27+.
+- Wilson, Simone. "The Arthurian Myth in Modern Literature." 30-32.
+- Zuber, Bernie. "An Introduction to *Worlds of Fantasy*." 32+.
+- GoodKnight, Glen. "A Mythopoeic and Midde Earth Calendar for 1969." 38+.
+- Ballif, Sandra. "A Sindarin-Quenya Dictionary, More or Less, Listing All Elvish Words Found in the Lord of the Rings, the Hobbit, and the Road Goes Ever on by J.R.R. Tolkien (Part I)." 41-44.
+- Zuber, Bernie. "Bilbo and Frodo's Birthday Party, September 22, 1968." 45.
+- "Công văn tới *Mythlore*." 47.
+- "Hội thần thoại và *Mythlore* là gì?" 48.
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 1</div></div><div class="template-prevnext__linkoverlay"><a class="mw-selflink selflink">Mythlore 1</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 1</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 2</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_2.md" title="Mythlore 2">Mythlore 2</a></div></div></div>

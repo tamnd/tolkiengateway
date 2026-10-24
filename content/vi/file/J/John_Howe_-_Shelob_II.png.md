@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Tác phẩm nghệ thuật của [John Howe](../../main/J/John_Howe.md). Được bao gồm trong *[War of the Ring: The Card Game](../../main/W/War_of_the_Ring%253A_The_Card_Game.md)* dưới dạng [Shelob](../../main/S/Shelob.md) và trong [*War of the Ring: Second Edition* (trò chơi board 2011)](<../../main/W/War_of_the_Ring%253A_Second_Edition_(2011_board_game).md>) dưới dạng Spawn của Shelob. Nguồn: <a class="external autonumber" href="https://www.gaga-games.com/preorder/wotr-card-game/" rel="noreferrer noopener" target="_blank">[1]</a> và <a class="external autonumber" href="https://dragoneye.pl/wojna-o-pierscien-wojownicy-srodziemia-rozszerzenie-p-363.html" rel="noreferrer noopener" target="_blank">[2]</a>
+Tác phẩm nghệ thuật của [John Howe](../../main/J/John_Howe.md). Được bao gồm trong *[War of the Ring: The Card Game](../../main/W/War_of_the_Ring%253A_The_Card_Game.md)* dưới dạng [Shelob](../../main/S/Shelob.md) và trong [*War of the Ring: Second Edition* (trò chơi board 2011)](<../../main/W/War_of_the_Ring%253A_Second_Edition_(2011_board_game).md>) dưới dạng Shelob's Spawn. Nguồn: <a class="external autonumber" href="https://www.gaga-games.com/preorder/wotr-card-game/" rel="noreferrer noopener" target="_blank">[1]</a> và <a class="external autonumber" href="https://dragoneye.pl/wojna-o-pierscien-wojownicy-srodziemia-rozszerzenie-p-363.html" rel="noreferrer noopener" target="_blank">[2]</a>
 
 ## Giấy phép {#Licensing}
 

@@ -32,7 +32,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Light_Beyond_All_Shadow.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ac/Light_Beyond_All_Shadow.png/304px-Light_Beyond_All_Shadow.png" decoding="async" loading="lazy" width="304" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/a/ac/Light_Beyond_All_Shadow.png 1.5x" data-file-width="387" data-file-height="611"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Light Beyond All Shadow:<br/><small>Religious Experience in Tolkien&#39;s Work</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Paul E. Kerry, Sandra Miesel</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Fairleigh Dickinson University Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/21_July.md" title="21 July">21 July</a> <a href="../_/2011.md" title="2011">2011</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">234</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-1611470109" title="Special:BookSources/978-1611470109">978-1611470109</a></td></tr></tbody></table>
 
-<i><b>Ánh sáng vượt trên tất cả Bóng Tối: Kinh nghiệm tôn giáo trong tác phẩm của Tolkien</b></i> là tuyển tập các tiểu luận mang tính học thuật về ảnh hưởng của [Kitô giáo](../C/Christianity.md) trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Khối lượng đồng hành của nó là *[The Ring and the Cross](../T/The_Ring_and_the_Cross.md)*.
+<i><b>Ánh sáng vượt qua mọi bóng tối: Trải nghiệm tôn giáo trong tác phẩm của Tolkien</b></i> là tuyển tập các bài tiểu luận mang tính học thuật về ảnh hưởng của [Kitô giáo](../C/Christianity.md) trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Khối lượng đồng hành của nó là *[The Ring and the Cross](../T/The_Ring_and_the_Cross.md)*.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -47,18 +47,18 @@ infobox:
 - Lời cảm ơn
 - Giới thiệu: "Khám phá vũ trụ của Tolkien" (Sandra Miesel)
 
-- "Nước, Sinh thái và Tâm linh trong Trung Địa của Tolkien" ([Matthew Dickerson](../M/Matthew_Dickerson.md))
+- "Nước, Sinh thái và Tâm linh ở Trung Địa của Tolkien" ([Matthew Dickerson](../M/Matthew_Dickerson.md))
 - "Sự lây lan thần thánh-Về bản chất của quyền lực trong *The Silmarillion* và *The Lord of the Rings*" (Roger Ladd)
 - "Những phản ánh về Cơ đốc giáo trong Hình tượng thần thoại của Trung Địa" ([Anne C. Petty](../A/Anne_C._Petty.md))
 - "Các nguyên mẫu Kinh thánh trong *The Lord of the Rings*" (Glen Robert Gill)
 - "Ymagynatyf và Công giáo La Mã của J.R.R. Tolkien, Thần học Công giáo, Tôn giáo ở *The Lord of the Rings*" ([Jared Lobdell](../J/Jared_Lobdell.md))
-- "Tôi là Bài hát: Âm nhạc, Thơ ca và Siêu việt trong Trung Địa của J.R.R. Tolkien" (Julian Tim Morton Eilmann)
+- "Tôi là Bài hát: Âm nhạc, Thơ ca và Siêu việt ở Trung Địa của J.R.R. Tolkien" (Julian Tim Morton Eilmann)
 - "Tolkien: Chúa tể của những điều huyền bí?" (John Warwick Montgomery)
 - "Bí mật tuyệt vời trong truyện cổ tích của Tolkien: Văn học và các bài tập tâm linh của Dòng Tên" (Robert Lazu)
 - "Những người phụ nữ mang lại sự sống: Những người phụ nữ trong tác phẩm của J.R.R. Tolkien" (Sandra Miesel)
-- "Nơi tập trung hai hoặc ba người: Tolkien và Inklings" ([Colin Duriez](../C/Colin_Duriez.md))
-- "Peter Jackson, Cái ác và những cám dỗ của phim ở Cracks of Doom" (Russell W. Dalton)
-- "Những bài hát về sự ngây thơ và trải nghiệm, hay Những gì còn sót lại của câu chuyện 'Công giáo' của Tolkien trong *The Lord of Rings*của Peter Jackson" (Christopher Garbowski)
+- "Nơi tập hợp hai hoặc ba người: Tolkien và Inklings" ([Colin Duriez](../C/Colin_Duriez.md))
+- "Peter Jackson, Ác ma và những cám dỗ của phim tại vết nứt của sự diệt vong" (Russell W. Dalton)
+- "Những bài hát về sự ngây thơ và trải nghiệm, hay Những gì còn sót lại trong câu chuyện 'Công giáo' của Tolkien trong *The Lord of Rings* của Peter Jackson" (Christopher Garbowski)
 
 - Thư mục
 - Chỉ mục

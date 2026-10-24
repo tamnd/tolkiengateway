@@ -58,22 +58,22 @@ langlinks:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 11 tháng Chín.
+Sự kiện xảy ra vào ngày 11 tháng 9
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1918](1918.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được chuyển đến Bệnh viện Điều dưỡng Savoy, Blackpool, bờ biển phía tây nước Anh.
+- **[1918](1918.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được chuyển đến Bệnh viện Savoy Convalescent, Blackpool, bờ biển phía tây nước Anh.
 - **[1951](1951.md)** - Ngày thứ hai của Congrès Internationale de Philologie Moderne tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Li%C3%A8ge" title="wikipedia:University of Liège">Đại học Liège</a>, một hội nghị trong đó [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trình bày bài báo "[tiếng Anh trung cổ 'Losenger'](../M/Middle_English_'Losenger'.md)".
 - **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 169](../L/Letter_169.md).
 - **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 202](../L/Letter_202.md).
-- **[1957](1957.md)** - Báo cáo [*Oxford Mail*](../O/Oxford_Mail,_11_September_1957.md) từ Giải thưởng Giả tưởng Quốc tế, do Tolkien giành được.
+- **[1957](1957.md)** - Báo cáo [*Oxford Mail*](../O/Oxford_Mail,_11_September_1957.md) từ Giải thưởng Giả tưởng Quốc tế do Tolkien giành được.
 - **[1959](1959.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 217](../L/Letter_217.md).
 - **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 264](../L/Letter_264.md).
 - **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 298](../L/Letter_298.md).
 - **[1970](1970.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 316](../L/Letter_316.md).
 - **[1982](1982.md)** - Tập thứ 9 phiên bản mới của loạt phim phát thanh [1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
 - **[2006](2006.md)** - Dịch giả [William Auld](../W/William_Auld.md) qua đời.
-- **[2010](2010.md)** - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bulgarian_Tolkien_Society&amp;action=edit&amp;redlink=1" title="Bulgarian Tolkien Society (page does not exist)">Tiếng Bulgaria Tolkien Lần thứ 6 của Hiệp hội</a> Tolkien-Lễ hội ở <a class="extiw" href="http://en.wikipedia.org/wiki/Sofia" title="wikipedia:Sofia">Sofia</a>.
+- **[2010](2010.md)** - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bulgarian_Tolkien_Society&amp;action=edit&amp;redlink=1" title="Bulgarian Tolkien Society (page does not exist)">Lễ hội Tolkien lần thứ 6 của Hiệp hội Tolkien Bungari</a>tại <a class="extiw" href="http://en.wikipedia.org/wiki/Sofia" title="wikipedia:Sofia">Sofia</a>.
 - **[2014](2014.md)** - [Oxonmoot 2014](../O/Oxonmoot_2014.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
 - **[2015](2015.md)** - [Oxonmoot 2015](../O/Oxonmoot_2015.md) tại <a class="external text" href="http://www.sant.ox.ac.uk" rel="noreferrer noopener" target="_blank">Đại học St Antony</a>.
 - **[2016](2016.md)** - [Oxonmoot 2016](../O/Oxonmoot_2016.md) tại <a class="external text" href="http://www.sant.ox.ac.uk" rel="noreferrer noopener" target="_blank">Đại học St Antony</a>.
@@ -81,7 +81,7 @@ Sự kiện xảy ra vào ngày 11 tháng Chín.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
     - Trăng tròn<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

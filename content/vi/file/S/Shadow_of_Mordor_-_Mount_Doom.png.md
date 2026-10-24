@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Núi Doom](../../main/M/Mount_Doom.md) từ *[Middle-earth: Shadow of Mordor](../../main/M/Middle-earth%253A_Shadow_of_Mordor.md)*.
+[Núi Diệt Vong](../../main/M/Mount_Doom.md) từ *[Middle-earth: Shadow of Mordor](../../main/M/Middle-earth%253A_Shadow_of_Mordor.md)*.
 
 ## Giấy phép {#Licensing}
 

@@ -66,14 +66,14 @@ Sự kiện xảy ra vào ngày 10 tháng 7
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho Alan White](../L/Letter_to_Alan_White.md).
+- **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Alan White](../L/Letter_to_Alan_White.md).
 - **[1990](1990.md)** - [George Allen và Unwin](../A/Allen_&_Unwin.md) được mua bởi [HarperCollins](../H/HarperCollins.md).
-- **[2003](2003.md)** - [Tolkien Điều V](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Westerwald" title="wikipedia:Westerwald">Westerwald</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2003](2003.md)** - [Tolkien Thing V](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Westerwald" title="wikipedia:Westerwald">Westerwald</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 - **[2004](2004.md)** - Dịch giả người Đức [Hans J. Schütz](../H/Hans_J._Schütz.md) qua đời.
-- **[2008](2008.md)** - [Tolkien Điều X](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Rieneck" title="wikipedia:Rieneck">Rieneck</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2008](2008.md)** - [Tolkien Thing X](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Rieneck" title="wikipedia:Rieneck">Rieneck</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam cầm.
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

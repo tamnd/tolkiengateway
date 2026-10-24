@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Road Goes Ever On (disambiguation)"
 ---
 
-Chuyển hướng đến [The Road Goes Ever On (định hướng)](<../T/The_Road_Goes_Ever_On_(disambiguation).md>).
+Chuyển hướng tới [Con Đường Mãi Mãi (định hướng)](<../T/The_Road_Goes_Ever_On_(disambiguation).md>).

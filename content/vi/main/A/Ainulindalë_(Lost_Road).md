@@ -49,7 +49,7 @@ images:
 
 <dl><dd><i>See synopsis given in &#34;<a href="../T/The_Music_of_the_Ainur.md#The_Music_of_the_Ainur" title="The Music of the Ainur">The Music of the Ainur</a>&#34;</i></dd></dl>
 
-Sự khác biệt về tường thuật với phiên bản trước chỉ giới hạn ở khuôn khổ. Bây giờ Rúmil của [Tol Eressëa](../T/Tol_Eressëa.md) là [Rúmil](<../R/Rúmil_(elf_of_Tirion).md>) của [Tûn](../T/Tûn.md) và [Eriol](../E/Eriol.md) được đặt tên theo tên [tiếng Anh](../O/Old_English.md) *[Ælfwine](../_/Ælfwine.md)*của anh ấy. Rúmil vẫn là người kể lại câu chuyện cho Eriol nhưng nó được viết ra như một tác phẩm đàng hoàng.
+Sự khác biệt về tường thuật với phiên bản trước chỉ giới hạn ở khuôn khổ. Bây giờ Rúmil của [Tol Eressëa](../T/Tol_Eressëa.md) là [Rúmil](<../R/Rúmil_(elf_of_Tirion).md>) của [Tûn](../T/Tûn.md) và [Eriol](../E/Eriol.md) được đặt tên theo tên [tiếng Anh](../O/Old_English.md) *[Ælfwine](../_/Ælfwine.md)* của ông. Rúmil vẫn là người kể lại câu chuyện cho Eriol nhưng nó được viết ra như một tác phẩm đàng hoàng.
 
 ## Bình luận {#Commentary}
 

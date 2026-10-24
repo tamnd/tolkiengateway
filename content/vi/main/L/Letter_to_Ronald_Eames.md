@@ -18,7 +18,7 @@ images:
   - "Ronald_Eames_15_August_1953_(3).jpg"
 ---
 
-Vào [15 tháng 8](../_/15_August.md) [1953](../_/1953.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) gửi Ronald Eames** của [George Allen &amp; Unwin](../A/Allen_and_Unwin.md).<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+Vào [15 tháng 8](../_/15_August.md) [1953](../_/1953.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) gửi Ronald Eames** của [George Allen & Unwin](../A/Allen_and_Unwin.md).<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 
 - **Chủ đề**: Trả lời thư của Eames, ngày [14 tháng 8](../_/14_August.md), liên quan đến bản đánh máy của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 - **Xuất bản:** Không có.

@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Elanor Gardner](../../main/E/Elanor_Gardner.md) khi cô ấy xuất hiện trong *[The Lord of the Rings: Aragorn's Quest](../../main/T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*.
+[Elanor Gardner](../../main/E/Elanor_Gardner.md) khi bà xuất hiện trong *[The Lord of the Rings: Aragorn's Quest](../../main/T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*.
 
 ## Giấy phép {#Licensing}
 

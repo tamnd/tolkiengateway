@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sack of Bar-en-Danwedh"
 ---
 
-Chuyển hướng đến [Cuộc cướp phá Bar-en-Danwedh](Sack_of_Bar-en-Danwedh.md).
+Chuyển hướng đến [Bay Bar-en-Danwedh](Sack_of_Bar-en-Danwedh.md).

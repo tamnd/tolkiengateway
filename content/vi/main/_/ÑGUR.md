@@ -18,8 +18,8 @@ sort_keys:
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Noldorin](../N/Noldorin.md) ([Sindarin](../S/Sindarin.md)): *gûr* ("tử vong")<sup id="cite_ref-Ety_2-1" class="reference"><a href="#cite_note-Ety-2">[2]</a></sup>
-- [Quenya](../Q/Quenya.md): *nuru* ("tử")<sup id="cite_ref-Ety_2-2" class="reference"><a href="#cite_note-Ety-2">[2]</a></sup>
+- [Noldorin](../N/Noldorin.md) ([Sindarin](../S/Sindarin.md)): *gûr* ("chết")<sup id="cite_ref-Ety_2-1" class="reference"><a href="#cite_note-Ety-2">[2]</a></sup>
+- [Quenya](../Q/Quenya.md): *nuru* ("chết")<sup id="cite_ref-Ety_2-2" class="reference"><a href="#cite_note-Ety-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

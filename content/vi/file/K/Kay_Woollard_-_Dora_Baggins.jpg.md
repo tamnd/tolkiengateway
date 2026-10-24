@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Dora Baggins luôn có rất nhiều 'lời khuyên bổ ích' mà cô không bao giờ có thể giữ cho riêng mình. Người ta (có lẽ là không tử tế) đã nói về cô ấy rằng cô ấy tự mình duy trì công việc kinh doanh hệ thống bưu chính Shire, nhưng điều này có thể có một phần sự thật. Công bằng mà nói, cô ấy luôn hào phóng với những người đưa thư, đặc biệt là xung quanh Yule.
+Dora Baggins luôn có rất nhiều 'lời khuyên bổ ích' mà cô không bao giờ có thể giữ cho riêng mình. Người ta (có lẽ là không tử tế) đã nói về bà rằng bà tự mình duy trì công việc kinh doanh hệ thống bưu chính Shire, nhưng điều này có thể có một phần sự thật. Công bằng mà nói, bà luôn hào phóng với những người đưa thư, đặc biệt là xung quanh Yule.
 
 ## Giấy phép {#Licensing}
 

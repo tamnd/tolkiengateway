@@ -76,17 +76,17 @@ infobox:
 </tbody></table>
 </div>
 
-**Dior** ([Kỷ Đệ Tam](../T/Third_Age.md) [2328](../T/Third_Age_2328.md)<sup id="cite_ref-Elendil_1-0" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup> – [2435](../T/Third_Age_2435.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> thọ 107 tuổi) là [Quản lý cầm quyền](../R/Ruling_Steward.md) thứ chín của [Gondor](../G/Gondor.md).
+**Dior** ([Tuổi thứ ba](../T/Third_Age.md) [2328](../T/Third_Age_2328.md)<sup id="cite_ref-Elendil_1-0" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup> – [2435](../T/Third_Age_2435.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> 107 tuổi) là [Quản gia cầm quyền](../R/Ruling_Steward.md) thứ chín của [Gondor](../G/Gondor.md).
 
 ## Lịch sử {#History}
 
 Dior là Người quản lý cầm quyền cuối cùng trong thời kỳ [Hòa bình thận trọng](../W/Watchful_Peace.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Dior không có con, được kế vị bởi con trai của chị gái [Rían](<../R/Rían_(daughter_of_Steward_Barahir).md>) [Denethor tôi](Denethor_I.md).<sup id="cite_ref-Elendil_1-1" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup>
+Dior, không có con, được kế vị bởi con trai của chị gái [Rían](<../R/Rían_(daughter_of_Steward_Barahir).md>) [Denethor I](Denethor_I.md).<sup id="cite_ref-Elendil_1-1" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Để biết ý nghĩa tên của ông, hãy tham khảo [Dior - Từ nguyên](Dior.md#Etymology). Dior có lẽ được đặt theo tên con trai của [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md) của [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Để biết ý nghĩa tên của ông, hãy tham khảo [Dior - Từ nguyên](Dior.md#Etymology). Dior có lẽ được đặt theo tên con trai của [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md) ở [Kỷ nguyên](../F/First_Age.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

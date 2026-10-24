@@ -16,7 +16,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Có thể [Primitive Elvish](../P/Primitive_Elvish.md) \**tolokwê*. [Gốc](../S/Sundocarmë.md) cho "tám" là <a class="new" href="https://tolkiengateway.net/w/index.php?title=TOLOD&amp;action=edit&amp;redlink=1" title="TOLOD (page does not exist)">TOLOD</a> và chúng tôi thấy hậu tố <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-pe&amp;action=edit&amp;redlink=1" title="-pe (page does not exist)">-pe</a></i> "-teen".
+Có thể [Tiên nguyên thủy](../P/Primitive_Elvish.md) \**tolokwê*. [Gốc](../S/Sundocarmë.md) cho "tám" là <a class="new" href="https://tolkiengateway.net/w/index.php?title=TOLOD&amp;action=edit&amp;redlink=1" title="TOLOD (page does not exist)">TOLOD</a> và chúng ta thấy hậu tố <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-pe&amp;action=edit&amp;redlink=1" title="-pe (page does not exist)">-pe</a></i> "-teen".
 
 ## Có cùng nguồn gốc {#Cognates}
 

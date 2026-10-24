@@ -34,11 +34,11 @@ categories:
 <li><b><a href="Lay_of_Leithian_Canto_XIV.md" title="Lay of Leithian Canto XIV">Canto XIV</a></b></li></ol>
 </td></tr></tbody></table>
 
-[Canto](../C/Cantos_of_the_Lay_of_Leithian.md) này của *[Lay of Leithian](Lay_of_Leithian.md)* kể về [Barahir](../B/Barahir.md) và [mười hai người theo dõi](../X/XII_Bëorings.md) của anh ta đã sống như những kẻ sống ngoài vòng pháp luật như thế nào. Nó kể về bẫy của [Gorlim](../G/Gorlim.md) Kẻ bất hạnh bởi bóng ma của người vợ đã mất do [Thû](../T/Thû.md) tạo ra, và việc bị tra tấn, anh ta đã tiết lộ hang ổ bí mật của Barahir trước khi bị giết như thế nào, và hồn ma của Gorlim đã xuất hiện như thế nào với [Beren](../B/Beren.md), con trai của Barahir, đi trinh sát và kể cho anh ta về hành vi phản bội của mình. Beren khi trở về thì thấy cha mình và tất cả những người bạn đồng hành ngoài vòng pháp luật của ông đã chết. Anh ta đánh dấu mộ của cha mình bằng một khối đá, thề sẽ trả thù cho cái chết của ông, và sau đó, theo chân những kẻ sát nhân, lấy lại [Chiếc nhẫn Barahir](../R/Ring_of_Barahir.md) từ tay một thủ lĩnh orc, kẻ khoe khoang đã giết Barahir và nói dối Sauron để giữ chiếc nhẫn lấy vàng của nó. Canto kết thúc với việc [Beren](../B/Beren.md) rời đi [Dorthonion](../D/Dorthonion.md) trong nỗ lực đến được Vùng đất Tiên của [Beleriand](../B/Beleriand.md).
+[Canto](../C/Cantos_of_the_Lay_of_Leithian.md) này của *[Lay of Leithian](Lay_of_Leithian.md)* kể về [Barahir](../B/Barahir.md) và [mười hai người theo dõi](../X/XII_Bëorings.md) của ông ta đã sống như những kẻ sống ngoài vòng pháp luật như thế nào. Nó kể về bẫy của [Gorlim](../G/Gorlim.md) Kẻ Bất Hạnh bởi bóng ma của người vợ đã mất của ông ta do [Thû](../T/Thû.md) tạo ra, và dưới sự tra tấn, ông ta đã tiết lộ hang ổ bí mật của Barahir trước khi bị giết như thế nào, và hồn ma của Gorlim đã xuất hiện với [Beren](../B/Beren.md), con trai của Barahir, đi trinh sát như thế nào và kể cho ông ta nghe về hành vi phản bội của mình. Beren khi trở về thì thấy cha mình và tất cả những người bạn đồng hành ngoài vòng pháp luật của anh đã chết. Ông ta đánh dấu mộ của cha mình bằng một ngôi mộ bằng đá, thề sẽ trả thù cho cái chết của ông, và sau đó, theo chân những kẻ sát nhân, lấy lại [Chiếc nhẫn của Barahir](../R/Ring_of_Barahir.md) từ một thủ lĩnh orc, kẻ khoe khoang đã giết Barahir và nói dối Sauron để giữ chiếc nhẫn lấy vàng của nó. Canto kết thúc với việc [Beren](../B/Beren.md) rời khỏi [Dorthonion](../D/Dorthonion.md) trong nỗ lực tiếp cận Vùng đất Yêu tinh của [Beleriand](../B/Beleriand.md).
 
 ## Về Canto {#Concerning_the_Canto}
 
-Canto này có thể được coi là một trong những cantos đen tối và bệnh hoạn nhất, với phần đầu mô tả sống động về nỗi kinh hoàng của Morgoth, một trong những đoạn văn nổi tiếng nhất trong Lay.
+Canto này có thể được coi là một trong những cantos đen tối và bệnh hoạn nhất, với phần đầu mô tả sống động về nỗi kinh hoàng của Morgoth, một trong những đoạn nổi tiếng nhất trong Lay.
 
 <blockquote class="tg-quote noexcerpt">
 <p>There sat a king: no <a href="../E/Elves.md" title="Elves">Elfin</a> race<br/>
@@ -47,7 +47,7 @@ nor mortal blood, nor kindly grace
 <p class="tg-quote-footer"><cite>vv. 107-108</cite></p>
 </blockquote>
 
-Rồi đến niềm hy vọng của Barahir, và sự vấp ngã của Gorlim Nỗi bất hạnh.
+Sau đó là niềm hy vọng của Barahir và sự vấp ngã của Gorlim Kẻ Bất Hạnh.
 
 <blockquote class="tg-quote noexcerpt">
 <p>But still there lived in hiding cold<br/>

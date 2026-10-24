@@ -28,7 +28,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Planet</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ellor Eshúrizel</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data"><i>Ellor</i></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Within <a href="Eä.md" title="Eä">Eä</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Planet</td></tr><tr><th scope="row" class="tg-infobox-label">Description</th><td class="tg-infobox-data">A habitable planetary body with a silver patterned floor</td></tr><tr><th scope="row" class="tg-infobox-label">Regions</th><td class="tg-infobox-data"><a href="../_/Öshül-küllösh.md" title="Öshül-küllösh">Öshül-küllösh</a> and the Green Sea</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="En-keladim.md" title="En-keladim">En-keladim</a></td></tr></tbody></table>
 
-**Ellor Eshúrizel** là hành tinh thứ hai mà [Michael George Ramer](../M/Michael_George_Ramer.md) đã ghé thăm bằng trí óc của mình.
+**Ellor Eshúrizel** là hành tinh thứ hai mà [Michael George Ramer](../M/Michael_George_Ramer.md) đã ghé thăm bằng tâm trí của mình.
 
 ## Lịch sử {#History}
 

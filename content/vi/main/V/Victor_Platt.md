@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Platt, Victor"
 ---
 
-**Victor Platt** (sinh **Victor William Elphick**, [10 tháng 10](../_/10_October.md) [1920](../_/1920.md) - [30 tháng 1](../_/30_January.md) [2017](../_/2017.md)) là một diễn viên người Anh. Anh đóng nhiều vai sân khấu khác nhau và làm khách mời trên nhiều bộ phim truyền hình. Trong series radio [1955](../_/1955.md) *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>)*, anh ấy đã chơi [Sam](../S/Samwise_Gamgee.md).
+**Victor Platt** (sinh **Victor William Elphick**, [10 tháng 10](../_/10_October.md) [1920](../_/1920.md) - [30 tháng 1](../_/30_January.md) [2017](../_/2017.md)) là một diễn viên người Anh. Anh đóng nhiều vai sân khấu khác nhau và làm khách mời trên nhiều bộ phim truyền hình. Trong loạt phim [1955](../_/1955.md) radio *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>)*, ông đóng vai [Sam](../S/Samwise_Gamgee.md).
 
 ## Liên kết ngoài {#External_links}
 

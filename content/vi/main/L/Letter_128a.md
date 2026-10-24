@@ -25,13 +25,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 128a</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Hugh_Brogan" title="wikipedia:Hugh Brogan">Hugh Brogan</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/4_September.md" title="4 September">4 September</a> <a href="../_/1950.md" title="1950">1950</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i></td></tr></tbody></table>
 
-**Thư 128a** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
+**Thư 128a** là lá thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư gửi <a class="extiw" href="http://en.wikipedia.org/wiki/Hugh_Brogan" title="wikipedia:Hugh Brogan">Hugh Brogan</a>, Tolkien thảo luận về tình trạng không chắc chắn của ấn phẩm *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* mà ông hy vọng sẽ phát hành trong năm nay. Các cuộc đàm phán đang diễn ra và Tolkien đề cập đến những thách thức trong việc tạo ra các bản sao có thể đọc được do chi phí đánh máy chuyên nghiệp cao. Anh ấy đã tự mình hoàn thành phần lớn việc đánh máy và có một bản sao thứ hai dành cho cá nhân để đảm bảo an toàn.
+Trong bức thư gửi <a class="extiw" href="http://en.wikipedia.org/wiki/Hugh_Brogan" title="wikipedia:Hugh Brogan">Hugh Brogan</a>, Tolkien thảo luận về tình trạng không chắc chắn của ấn phẩm *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* mà ông hy vọng sẽ phát hành trong năm nay. Các cuộc đàm phán đang diễn ra và Tolkien đề cập đến những thách thức trong việc tạo ra các bản sao có thể đọc được do chi phí đánh máy chuyên nghiệp cao. Ông đã tự mình hoàn thành phần lớn việc đánh máy và có một bản sao thứ hai dành cho cá nhân để đảm bảo an toàn.
 
-Ngoài ra, Tolkien lưu ý việc sắp phát hành phiên bản mới của *[The Hobbit](../T/The_Hobbit.md)*, bao gồm các sửa đổi cần thiết và [phần được viết lại](../G/Gollum.md#Other_versions_of_the_legendarium) để phù hợp hơn với phần tiếp theo của nó. <br>
+Ngoài ra, Tolkien lưu ý rằng sắp phát hành ấn bản mới của *[The Hobbit](../T/The_Hobbit.md)*, bao gồm các sửa đổi cần thiết và [phần được viết lại](../G/Gollum.md#Other_versions_of_the_legendarium) để phù hợp hơn với phần tiếp theo của nó. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

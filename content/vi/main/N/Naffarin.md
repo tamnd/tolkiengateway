@@ -17,17 +17,17 @@ langlinks:
     url: "https://kontu.wiki/Naffarin"
 ---
 
-<i><b>Naffarin</b></i> là ngôn ngữ được tạo ra vào khoảng mùa thu [1907](../_/1907.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Phần lớn những gì chúng ta biết về Naffarin đến từ bài giảng của Tolkien có tên [A Secret Vice](../A/A_Secret_Vice.md) Naffarin đã kết hợp một số giai đoạn mới nhất của [Nevbosh](Nevbosh.md). Ngôn ngữ này được lấy cảm hứng từ tiếng Anh, tiếng Latin và tiếng Tây Ban Nha. Tất cả văn bản từ Tolkien được tạo ban đầu bởi Naffarin đã bị thất lạc nhưng anh ấy viết trong 'A Secret Vice' rằng anh ấy có thể nhớ nó khá rõ.<sup id="cite_ref-vice_2-0" class="reference"><a href="#cite_note-vice-2">[2]</a></sup>
+<i><b>Naffarin</b></i> là ngôn ngữ được tạo ra vào khoảng mùa thu [1907](../_/1907.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Phần lớn những gì chúng ta biết về Naffarin đến từ một bài giảng của Tolkien có tên [A Secret Vice](../A/A_Secret_Vice.md) Naffarin đã kết hợp một số giai đoạn mới nhất của [Nevbosh](Nevbosh.md). Ngôn ngữ này được lấy cảm hứng từ tiếng Anh, tiếng Latin và tiếng Tây Ban Nha. Tất cả văn bản từ Naffarin do Tolkien tạo ra ban đầu đã bị thất lạc nhưng ông viết trong 'A Secret Vice' rằng ông có thể nhớ nó khá rõ.<sup id="cite_ref-vice_2-0" class="reference"><a href="#cite_note-vice-2">[2]</a></sup>
 
-Hệ thống ngữ âm còn hạn chế, không có âm vị nào không xuất hiện trong tiếng Anh (nhưng với sự loại trừ có chủ ý của w, p, Š, Ź và c), mặc dù Tolkien lập luận rằng các từ nghe có vẻ xa lạ vẫn có thể được tạo ra bằng âm thanh thuần túy tiếng Anh thông qua sự kết hợp của các âm vị.<sup id="cite_ref-vice_2-1" class="reference"><a href="#cite_note-vice-2">[2]</a></sup>
+Hệ thống ngữ âm bị hạn chế, không có âm vị nào không xuất hiện trong tiếng Anh (nhưng với sự loại trừ có chủ ý của w, p, Š, Ź và c), mặc dù Tolkien lập luận rằng các từ nghe có vẻ xa lạ vẫn có thể được tạo ra bằng âm thanh thuần túy tiếng Anh thông qua sự kết hợp của các âm vị.<sup id="cite_ref-vice_2-1" class="reference"><a href="#cite_note-vice-2">[2]</a></sup>
 
-Tolkien đưa ra câu Naffarin ví dụ để minh họa (không có bản dịch),*O Naffarínos cutá vu navru cangor luttos ca vúna tiéranar, dana maga tíer ce vru encán' farta một lần ya merúta vú maxt' amámen*. Tolkien nói rằng vrú có nghĩa là không bao giờ, đây là từ Naffarin duy nhất mà chúng tôi có bản dịch.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tolkien đưa ra một ví dụ về câu Naffarin để minh họa (không có bản dịch),*O Naffarínos cutá vu navru cangor luttos ca vúna tiéranar, dana maga tíer ce vru encán' farta một lần ya merúta vúna maxt' amámen*. Tolkien nói rằng vrú có nghĩa là mãi mãi, đây là từ Naffarin duy nhất mà chúng tôi có bản dịch.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Dựa trên cụm từ trên, [Helge Fauskanger](../H/Helge_Fauskanger.md) lưu ý rằng Naffarin có một số yếu tố về phong cách và cấu trúc có thể giống với [Elvish](../E/Elvish.md) trong tương lai (Bởi [1915](../_/1915.md) Tolkien sẽ bắt đầu viết [Qenya Từ điển](../Q/Qenya_Lexicon.md)).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Dựa trên cụm từ trên, [Helge Fauskanger](../H/Helge_Fauskanger.md) lưu ý rằng Naffarin có một số yếu tố về phong cách và cấu trúc có thể giống với [Elvish](../E/Elvish.md) trong tương lai (Bởi [1915](../_/1915.md) Tolkien sẽ bắt đầu viết [Qenya Lexicon](../Q/Qenya_Lexicon.md)).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://folk.uib.no/hnohf/naffarin.htm" rel="noreferrer noopener" target="_blank">Naffarin</a> bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://folk.uib.no/hnohf/naffarin.htm" rel="noreferrer noopener" target="_blank">Naffarin</a> của [Helge Fauskanger](../H/Helge_Fauskanger.md)
 
 <span></span>
 

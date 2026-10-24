@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2431.md" title="Third Age 2431">2431</a><a href="Third_Age_2435.md" title="Third Age 2435">2435</a><a href="Third_Age_2440.md" title="Third Age 2440">2440</a><a class="mw-selflink selflink">2449</a><a href="Third_Age_2450.md" title="Third Age 2450">2450</a><a href="Third_Age_2455.md" title="Third Age 2455">2455</a><a href="Third_Age_2458.md" title="Third Age 2458">2458</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 2449** (viết tắt là **T.A. 2449**) là năm [thứ 2449 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2449 còn được gọi là **S.R. 849** trong [lịch Shire](../S/Shire-reckoning.md).
+**Thời đại thứ ba 2449** (viết tắt là **T.A. 2449**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2449 của [Thời đại thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2449 còn được gọi là **S.R. 849** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sinh [Cirion](../C/Cirion.md), con trai của [Quản lý](../R/Ruling_Steward.md) [Boromir](<../B/Boromir_(Steward_of_Gondor).md>) của [Gondor](../G/Gondor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Sự ra đời của [Cirion](../C/Cirion.md), con trai của [Quản gia](../R/Ruling_Steward.md) [Boromir](<../B/Boromir_(Steward_of_Gondor).md>) của [Gondor](../G/Gondor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

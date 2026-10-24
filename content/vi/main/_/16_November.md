@@ -66,15 +66,15 @@ Sự kiện xảy ra vào ngày 16 tháng 11
 ## Trên Trái đất {#On_Earth}
 
 - **[1917](1917.md)** – Con trai đầu lòng của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [John](../J/John_Tolkien.md), chào đời.
-- **[1917](1917.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tham dự cuộc kiểm tra của hội đồng y tế. Anh ấy cần được điều trị thêm tại bệnh viện trong nhà. Địa chỉ của ông được ghi là Quân đoàn Phòng thủ Hoàng gia số 9, Withernsea.
+- **[1917](1917.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tham dự cuộc kiểm tra của hội đồng y tế. Ông cần được điều trị thêm tại bệnh viện trong nhà. Địa chỉ của ông được ghi là Quân đoàn Phòng thủ Hoàng gia số 9, Withernsea.
 - **[1969](1969.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 312](../L/Letter_312.md).
-- **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho cô Fay Darrington](<../L/Letter_to_Fay_Darrington_(16_November_1971).md>).
+- **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho cô Fay Darrington](<../L/Letter_to_Fay_Darrington_(16_November_1971).md>).
 - **[1997](1997.md)** - [Hiệp hội Tolkien Brazil](../T/The_Brazilian_Tolkien_Society.md) được thành lập.
 - **[2011](2011.md)** - *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* được phát hành tại Úc và [New Zealand](../N/New_Zealand.md).
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

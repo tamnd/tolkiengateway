@@ -51,7 +51,7 @@ Các nhân vật có thể chơi được bao gồm [Frodo](../F/Frodo_Baggins.m
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienshop.com/contents/en-uk/d73.html" rel="noreferrer noopener" target="_blank">Chúa tể của những chiếc nhẫn: Trò chơi thứ nhất tại Tolkien Cửa hàng</a>
+- <a class="external text" href="http://www.tolkienshop.com/contents/en-uk/d73.html" rel="noreferrer noopener" target="_blank">Chúa tể của những chiếc nhẫn: Trò chơi thứ nhất tại Tolkien Shop</a>
 
 <table style="margin: 0 auto; width: 100%;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>

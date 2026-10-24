@@ -23,7 +23,7 @@ sort_keys:
 ## Vai trò {#Roles}
 
 - [2003](../_/2003.md) - [*The Hobbit* (trò chơi điện tử năm 2003)](<../T/The_Hobbit_(2003_video_game).md>) - [Gollum](../G/Gollum.md), [Bombur](../B/Bombur.md), các giọng nói bổ sung
-- [2002](../_/2002.md) - [*The Lord of the Rings: The Fellowship of the Ring* (trò chơi điện tử)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>) - [Aragorn](../A/Aragorn.md), [Tom Bombadil](../T/Tom_Bombadil.md)
+- [2002](../_/2002.md) - [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>) - [Aragorn](../A/Aragorn.md), [Tom Bombadil](../T/Tom_Bombadil.md)
 
 ## Liên kết ngoài {#External_links}
 

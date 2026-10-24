@@ -31,13 +31,13 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../G/Gaffer_Gamgee.md" title="Gaffer Gamgee">The Gaffer</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Bắp cải** là một loại rau lá xanh mọc ở [Trung Địa](../M/Middle-earth.md). Nó rõ ràng là một trong những loại thực phẩm chủ yếu của [Hobbit](../H/Hobbits.md).
+**Bắp cải** là một loại rau lá xanh mọc ở [Trung địa](../M/Middle-earth.md). Nó rõ ràng là một trong những thực phẩm chủ yếu của [Hobbit](../H/Hobbits.md).
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">The Lord of the Rings Online: Bóng tối của Angmar</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">Chúa tể của những chiếc nhẫn trực tuyến: Bóng tối của Angmar</a></i>:</b>
 
-Bắp cải có thể được tìm thấy thông qua [Eriador](../E/Eriador.md) trên ruộng bắp cải. Người chơi với nghề nông dân cũng có thể sản xuất bắp cải trên ruộng rau.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Bắp cải có thể được tìm thấy thông qua [Eriador](../E/Eriador.md) trên cánh đồng bắp cải. Người chơi với nghề nông dân cũng có thể sản xuất bắp cải trên ruộng rau.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

@@ -33,7 +33,7 @@ infobox:
 
 **Alan Joseph Bliss** (1921-1985) là cựu học sinh của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Bliss học theo Tolkien từ [1946](../_/1946.md) đến [1948](../_/1948.md). Trong [1966](../_/1966.md), khi đang viết một tác phẩm về Finn và Hengest, Tolkien đã cho anh ấy mượn những bài giảng cũ từ những năm 1920. Các ghi chép vẫn còn lộn xộn khi Tolkien qua đời, và đến năm 1979, [Christopher Tolkien](../C/Christopher_Tolkien.md) giao lại cho Bliss xuất bản.
+Bliss học theo Tolkien từ [1946](../_/1946.md) đến [1948](../_/1948.md). Trong [1966](../_/1966.md), khi đang viết một tác phẩm về Finn và Hengest, Tolkien đã cho ông mượn những bài giảng cũ từ những năm 1920. Các ghi chép vẫn còn lộn xộn khi Tolkien qua đời, và đến năm 1979, [Christopher Tolkien](../C/Christopher_Tolkien.md) giao lại cho Bliss xuất bản.
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 

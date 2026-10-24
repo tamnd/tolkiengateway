@@ -46,15 +46,15 @@ infobox:
 <p class="tg-quote-footer"><cite>Daddy Twofoot on the <a href="../O/Old_Forest.md" title="Old Forest">Old Forest</a><sup id="cite_ref-ALEP_1-0" class="reference"><a href="#cite_note-ALEP-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
 
-**Daddy Twofoot** là [Hobbit](../H/Hobbits.md) của [the Shire](../T/The_Shire.md) vào cuối [Kỷ Đệ Tam](../T/Third_Age.md).
+**Daddy Twofoot** là một [Hobbit](../H/Hobbits.md) của [Quận](../T/The_Shire.md) vào cuối [Thời đại thứ ba](../T/Third_Age.md).
 
 ## Lịch sử {#History}
 
-Daddy Twofoot sống trong một cái hố ở [Bagshot Row](../B/Bagshot_Row.md) ở [Hobbiton](../H/Hobbiton.md), ngay cạnh [Hamfast Gamgee](../G/Gaffer_Gamgee.md) và gia đình anh ta. Anh ấy là khách thường xuyên của [Ivy Bush Inn](../I/Ivy_Bush.md), nơi anh ấy có mặt vào một buổi tối đặc biệt ở [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md), khi Hamfast Gamgee chiêu đãi những khách hàng quen của mình bằng kiến ​​thức về [Bag End](../B/Bag_End.md) và "[Mad Baggins](../B/Bilbo_Baggins.md)". Trong cuộc trò chuyện, bố tán thành thái độ khinh thường của [Old Noakes](../O/Old_Noakes.md)đối với [Người vùng Bucklander](../B/Bucklanders.md), coi họ là những người xa lạ kỳ lạ.<sup id="cite_ref-ALEP_1-1" class="reference"><a href="#cite_note-ALEP-1">[1]</a></sup>
+Daddy Twofoot sống trong một cái hố ở [Bagshot Row](../B/Bagshot_Row.md) ở [Hobbiton](../H/Hobbiton.md), ngay cạnh [Hamfast Gamgee](../G/Gaffer_Gamgee.md) và gia đình ông ấy. Ông là khách hàng thường xuyên của [Ivy Bush Inn](../I/Ivy_Bush.md), nơi ông có mặt vào một buổi tối đặc biệt ở [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md), khi Hamfast Gamgee chiêu đãi những khách hàng quen của mình bằng kiến ​​thức về [Bag End](../B/Bag_End.md) và "[Mad Baggins](../B/Bilbo_Baggins.md)". Trong cuộc trò chuyện, bố tán thành thái độ khinh thường của [Old Noakes](../O/Old_Noakes.md) đối với [Người vùng Bucklander](../B/Bucklanders.md), coi họ là những người lạ kỳ lạ.<sup id="cite_ref-ALEP_1-1" class="reference"><a href="#cite_note-ALEP-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-### Daddy Twofoot trong các bản chuyển thể {#Daddy_Twofoot_in_adaptations}
+### Daddy Twofoot trong bản chuyển thể {#Daddy_Twofoot_in_adaptations}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 235px">
@@ -80,7 +80,7 @@ Daddy Twofoot sống trong một cái hố ở [Bagshot Row](../B/Bagshot_Row.md
 		</li>
 </ul>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim phát thanh năm 1981)</a>:</b>
 
 <dl><dd>Daddy Twofoot is voiced by <a href="../L/Leonard_Fenton.md" title="Leonard Fenton">Leonard Fenton</a>. He is present in the Ivy Bush before <a href="../B/Bilbo&#39;s_Farewell_Party.md" title="Bilbo&#39;s Farewell Party">Bilbo&#39;s Birthday Party</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 
@@ -88,15 +88,15 @@ Daddy Twofoot sống trong một cái hố ở [Bagshot Row](../B/Bagshot_Row.md
 
 <dl><dd>Daddy Twofoot is played by Hans Edgar Stecher.</dd></dl>
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
 
 <dl><dd>Daddy Twofoot&#39;s place at the conversation (which is moved to the <a class="mw-redirect" href="../G/Green_Dragon~72852.md" title="Green Dragon">Green Dragon</a>) is taken over by <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> A <a class="mw-redirect" href="Decipher_Card.md" title="Decipher Card">Decipher Card</a> of Daddy Twofoot identifies him as one of the Hobbits seen in the preceding scene, <i><a href="../C/Concerning_Hobbits_(scene).md" title="Concerning Hobbits (scene)">Concerning Hobbits</a></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
-<b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
+<b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</i> (trò chơi điện tử)</a>:</b>
 
 <dl><dd>Daddy Twofoot lives at Number Two, <a href="../B/Bagshot_Row.md" title="Bagshot Row">Bagshot Row</a>, and can be seen sitting outside the Green Dragon. No actor is specified for the part.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Found at his residence not far from <a href="../B/Bag_End.md" title="Bag End">Bag End</a>, Daddy Twofoot plays no role in the story and only provides a few lines during a seasonal festival quest.</dd></dl>
 

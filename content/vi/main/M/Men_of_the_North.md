@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Men of the North (disambiguation)"
 ---
 
-Chuyển hướng tới [Con Người của miền Bắc (định hướng)](<Men_of_the_North_(disambiguation).md>).
+Chuyển hướng đến [Người phương Bắc (định hướng)](<Men_of_the_North_(disambiguation).md>).

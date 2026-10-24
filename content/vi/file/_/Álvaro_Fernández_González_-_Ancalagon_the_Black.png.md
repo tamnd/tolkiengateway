@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Ancalagon Đen](../../main/A/Ancalagon.md)" của [Álvaro Fernández González](../../category/I/Images_by_Álvaro_Fernández_González.md)
+"[Ancalagon the Black](../../main/A/Ancalagon.md)" của [Álvaro Fernández González](../../category/I/Images_by_Álvaro_Fernández_González.md)
 
 ## Giấy phép {#Licensing}
 

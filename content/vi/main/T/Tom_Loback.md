@@ -25,23 +25,23 @@ langlinks:
     url: "https://kontu.wiki/Tom_Loback"
 ---
 
-**Tom Loback** ([1949](../_/1949.md) — [5 tháng 3](../_/5_March.md) [2015](../_/2015.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là một nhà ngôn ngữ học và nghệ sĩ đến từ New York. Tác phẩm nghệ thuật của anh đã được xuất bản trên *[Beyond Bree](../B/Beyond_Bree.md)*, *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)*, *[Mythlore](../M/Mythlore.md)*, *[Parma Eldalamberon](../P/Parma_Eldalamberon.md)*, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Little_Gwaihir&amp;action=edit&amp;redlink=1" title="Little Gwaihir (page does not exist)">Little Gwaihir</a></i> và một số tạp chí khác.<sup id="cite_ref-ELF_2-0" class="reference"><a href="#cite_note-ELF-2">[2]</a></sup> Anh cũng có tác phẩm trong *[Halls of the Elven-king](../H/Halls_of_the_Elven-king.md)*, phần bổ sung trong bộ [MERP](../M/Middle-earth_Role_Playing.md).
+**Tom Loback** ([1949](../_/1949.md) — [5 tháng 3](../_/5_March.md) [2015](../_/2015.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là một nhà ngôn ngữ học và nghệ sĩ đến từ New York. Tác phẩm nghệ thuật của anh đã được xuất bản trên *[Beyond Bree](../B/Beyond_Bree.md)*, *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)*, *[Mythlore](../M/Mythlore.md)*, *[Parma Eldalamberon](../P/Parma_Eldalamberon.md)*, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Little_Gwaihir&amp;action=edit&amp;redlink=1" title="Little Gwaihir (page does not exist)">Little Gwaihir</a></i> và một số tạp chí khác.<sup id="cite_ref-ELF_2-0" class="reference"><a href="#cite_note-ELF-2">[2]</a></sup> Anh cũng từng làm việc trong *[Halls of the Elven-king](../H/Halls_of_the_Elven-king.md)*, một phụ bản trong bộ [MERP](../M/Middle-earth_Role_Playing.md).
 
-Tác phẩm nghệ thuật có liên quan của anh ấy có các dòng chữ [tengwar](Tengwar.md) bằng [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md).<sup id="cite_ref-ELF_2-1" class="reference"><a href="#cite_note-ELF-2">[2]</a></sup>
+Tác phẩm nghệ thuật có liên quan của ông có các dòng chữ [tengwar](Tengwar.md) bằng [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md).<sup id="cite_ref-ELF_2-1" class="reference"><a href="#cite_note-ELF-2">[2]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
 ### Bài viết {#Articles}
 
 - [1988](../_/1988.md): [*Vinyar Tengwar* 1](../V/Vinyar_Tengwar_1.md)
-    - "Biểu đồ các bộ phận cơ thể trong Quenya"
+    - "Biểu đồ các bộ phận cơ thể ở Quenya"
 - [1989](../_/1989.md): [*Parma Eldalamberon* 8](../P/Parma_Eldalamberon_8.md)
     - "Đại từ trong Noldorin và Sindarin"
-    - "Orc Tổ chức quân sự và ngôn ngữ"
+    - "Tổ chức quân sự và ngôn ngữ của Orc"
 - [1989](../_/1989.md): [*Vinyar Tengwar* 3](../V/Vinyar_Tengwar_3.md)
-    - "Orc Trò chuyện"
+    - "Nói chuyện với Orc"
 - [1989](../_/1989.md): [*Vinyar Tengwar* 4](../V/Vinyar_Tengwar_4.md)
-    - "Essitalmar: Nguồn gốc của Trung Địa Tên và Địa điểm" (cột, biên tập)
+    - "Essitalmar: Nguồn gốc của tên và địa điểm ở Trung Địa" (cột, chủ biên)
 - [1989](../_/1989.md): [*Vinyar Tengwar* 5](../V/Vinyar_Tengwar_5.md)
     - "Essitalmar" (cột, biên tập)
 - [1989](../_/1989.md): [*Vinyar Tengwar* 6](../V/Vinyar_Tengwar_6.md)
@@ -49,12 +49,12 @@ Tác phẩm nghệ thuật có liên quan của anh ấy có các dòng chữ [t
 - [1989](../_/1989.md): [*Vinyar Tengwar* 7](../V/Vinyar_Tengwar_7.md)
     - "Essitalmar: 'Tên là gì?'" (cột, biên tập)
 - [1989](../_/1989.md): [*Vinyar Tengwar* 8](../V/Vinyar_Tengwar_8.md)
-    - "Essitalmar: Địa danh của Beleriand" (cột, có bản đồ gập lại, biên tập)
+    - "Essitalmar: Địa danh của Beleriand" (cột, có bản đồ gấp lại, biên tập)
 - [1990](../_/1990.md): [*Parma Eldalamberon* 9](../P/Parma_Eldalamberon_9.md)
     - "To -E hay -NE? Ở thì quá khứ Quenya"
-    - "Đám cưới của Tuor và Idril"
+    - "Lễ cưới của Tuor và Idril"
 - [1990](../_/1990.md): [*Vinyar Tengwar* 10](../V/Vinyar_Tengwar_10.md)
-    - "Essitalmar: Finduilas, một cái tên công bằng cho một cô hầu gái công bằng" (cột, biên tập)
+    - "Essitalmar: Finduilas, một cái tên đẹp đẽ dành cho một cô hầu gái xinh đẹp" (cột, chủ biên)
 - [1990](../_/1990.md): [*Vinyar Tengwar* 11](../V/Vinyar_Tengwar_11.md)
     - "Essitalmar: The Longswordsman" (cột, biên tập)
 - [1990](../_/1990.md): [*Vinyar Tengwar* 13](../V/Vinyar_Tengwar_13.md)

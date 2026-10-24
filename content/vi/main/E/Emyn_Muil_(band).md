@@ -26,7 +26,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Emyn Muil</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Cassano delle Murge, Italy</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">epic/atmospheric black metal</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">2012-present</td></tr><tr><th scope="row" class="tg-infobox-label">website</th><td class="tg-infobox-data"><a class="external text" href="https://nartumart.bandcamp.com" rel="noreferrer noopener" target="_blank">Bandcamp</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">Saverio Giove</td></tr></tbody></table>
 
-**Emyn Muil** là một ban nhạc black metal hoành tráng/không khí đến từ Cassano delle Murge, Ý.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Dự án solo của Saverio Giove (Nartum), dự án này lấy tên từ [Emyn Muil](Emyn_Muil.md), mê cung của những ngọn đồi cằn cỗi ở [Rhovanion](../R/Rhovanion.md) nơi Frodo và Sam gặp phải [Gollum](../G/Gollum.md). Lần ra mắt năm 2013 *Túrin Turambar Dagnir Glaurunga* kể lại câu chuyện của [Túrin](../T/Túrin.md).
+**Emyn Muil** là một ban nhạc black metal hoành tráng/không khí đến từ Cassano delle Murge, Ý.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Dự án solo của Saverio Giove (Nartum), dự án này lấy tên từ [Emyn Muil](Emyn_Muil.md), mê cung của những ngọn đồi cằn cỗi ở [Rhovanion](../R/Rhovanion.md) nơi Frodo và Sam gặp phải [Gollum](../G/Gollum.md). Lần ra mắt năm 2013 *Túrin Turambar Dagnir Glaurunga* kể lại câu chuyện về [Túrin](../T/Túrin.md).
 
 ## Thành viên {#Members}
 
@@ -37,19 +37,19 @@ infobox:
 - Túrin Turambar Dagnir Glaurunga (Trọn bộ, 2013)
     1. Túrin Con trai của Húrin
     2. Aure Entuluva
-    3. Phát sinh sau Gondolin
-Sự phản bội của     4. Mîm(nhạc cụ)
-    5. Bạo loạn đen tối từ Angband
+    3. Hãy xuất hiện ở Gondolin
+    4. Sự phản bội của Mîm (nhạc cụ)
+    5. Cuộc bạo loạn đen tối từ Angband
     6. Gurthang (nhạc cụ)
     7. Con đường của sự diệt vong
-    8. Cái Cuộc cướp phá Nargothrond
+    8. Bao tải Nargothrond
     9. Cái chết của Glaurung
-    10. Chào mừng thanh kiếm đen
+    10. Chào mừng Hắc Kiếm
 - Elenion Ancalima (Trọn bộ, 2017)
-    1. Dưới một vì sao bạc
+    1. Dưới một ngôi sao bạc
     2. Nơi nằm của Númenorë
     3. Ar-Pharazôn
-    4. Xa Umbar
+    4. Rầm xa
     5. Elenion Ancalima
 - Afar Angathfark (Trọn bộ, 2020)
     1. Afar Angathfark (nhạc cụ)
@@ -58,9 +58,9 @@ Sự phản bội của     4. Mîm(nhạc cụ)
     4. Hướng về phía Đông
     5. Udûn (nhạc cụ)
     6. Nơi ánh sáng chìm xuống
-    7. Vương miện đen tỏa sáng
+    7. Vương miện đen sáng
     8. Trong miền lạnh
-    9. Phát sinh sau Gondolin
+    9. Hãy xuất hiện ở Gondolin
 - Kỷ niệm 10 năm 2013-2023 (Bộ đóng hộp, 2023)
 
 ## Tài liệu tham khảo {#References}

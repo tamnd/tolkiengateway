@@ -39,7 +39,7 @@ infobox:
 
 **Mô tả sản phẩm**
 
-Bài giảng này bao gồm một cuộc kiểm tra so sánh về cuộc đời và tác phẩm của hai nhà văn, Browning và Tolkien, những người tạo nên một cặp đôi không thể tin được. Có rất nhiều sự khác biệt và những điểm tương đồng không thể hiện rõ ràng ngay lập tức. Các khía cạnh được xem xét bao gồm kinh nghiệm về hôn nhân, sự đồ sộ, danh tiếng của họ đối với độc giả, tính thẩm mỹ khác nhau và niềm tin tôn giáo của họ, đặc biệt vì những điều này được phản ánh qua thái độ của họ đối với cái chết.
+Bài giảng này bao gồm một cuộc kiểm tra so sánh về cuộc đời và tác phẩm của hai nhà văn, Browning và Tolkien, những người không thể tạo nên một cặp đôi. Có rất nhiều sự khác biệt và những điểm tương đồng không thể hiện rõ ràng ngay lập tức. Các khía cạnh được xem xét bao gồm kinh nghiệm về hôn nhân, sự đồ sộ, danh tiếng của họ đối với độc giả, tính thẩm mỹ khác nhau và niềm tin tôn giáo của họ, đặc biệt vì những điều này được phản ánh qua thái độ của họ đối với cái chết.
 
 **Giới thiệu về tác giả**
 

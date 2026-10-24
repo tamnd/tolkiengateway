@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>giliath</b></i> là [Sindarin](../S/Sindarin.md) dành cho "đoàn sao".<sup id="cite_ref-RC_1-0" class="reference"><a href="#cite_note-RC-1">[1]</a></sup>
+<i><b>giliath</b></i> là [Sindarin](../S/Sindarin.md) có nghĩa là "đoàn sao".<sup id="cite_ref-RC_1-0" class="reference"><a href="#cite_note-RC-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

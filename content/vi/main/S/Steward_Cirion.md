@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cirion"
 ---
 
-Chuyển hướng đến [Cirion](../C/Cirion.md).
+Chuyển hướng tới [Cirion](../C/Cirion.md).

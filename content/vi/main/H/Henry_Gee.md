@@ -71,7 +71,7 @@ Ngoài công việc về sinh học, Gee còn nổi tiếng trong cộng đồng
 - [2007](../_/2007.md): <i><a class="external text" href="http://www.nature.com" rel="noreferrer noopener" target="_blank">Thiên nhiên</a></i>
     - ([26 tháng 4](../_/26_April.md):) "<a class="external text" href="http://www.nature.com/nature/journal/v446/n7139/full/446979a.html" rel="noreferrer noopener" target="_blank">Trong một cái hố trên mặt đất</a>"<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 - [2008](../_/2008.md): [*Mallorn* 45](../M/Mallorn_45.md)
-    - "Beowulf, Câu chuyện có thật" (đánh giá về <a class="extiw" href="http://en.wikipedia.org/wiki/Beowulf_(2007_film)" title="wikipedia:Beowulf (2007 film)"><i>Beowulf</i> phim</a>)
+    - "Beowulf, Câu chuyện có thật" (đánh giá về phim <a class="extiw" href="http://en.wikipedia.org/wiki/Beowulf_(2007_film)" title="wikipedia:Beowulf (2007 film)"><i>Beowulf</i></a>)
 - [2009](../_/2009.md): [*Mallorn* 47](../M/Mallorn_47.md)
     - "Bài ca ngợi vẫn tiếp tục" (biên tập)
     - "Đi cùng nàng tiên" (đánh giá về *[Tolkien, Race and Cultural History](../T/Tolkien,_Race_and_Cultural_History.md)*)
@@ -83,16 +83,16 @@ Ngoài công việc về sinh học, Gee còn nổi tiếng trong cộng đồng
     - "Ent và nguồn" (biên tập)
 - [2011](../_/2011.md): [*Mallorn* 52](../M/Mallorn_52.md)
     - "Một chút phép thuật trong phim" (đánh giá về <i><a class="extiw" href="http://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2" title="wikipedia:Harry Potter and the Deathly Hallows – Part 2">Harry Potter và Bảo bối Tử thần Phần 2</a></i>)
-    - "Có Tolkien hỗ trợ Chim Hoàng Yến"
+    - "Tolkien có hỗ trợ Chim hoàng yến không"
 - [2013](../_/2013.md): [*Mallorn* 54](../M/Mallorn_54.md)
     - "Câu hỏi về quyền tác giả" (biên tập)
     - "Hành trình đến rạp chiếu phim" (đánh giá về *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)*)
 - [2013](../_/2013.md): *Discover Magazine*
-    - "<a class="external text" href="http://discovermagazine.com/2013/dec/20-how-to-explain-your-dragon" rel="noreferrer noopener" target="_blank">Khoa học đằng sau huyền thoại Rồng</a>"
+    - "<a class="external text" href="http://discovermagazine.com/2013/dec/20-how-to-explain-your-dragon" rel="noreferrer noopener" target="_blank">Khoa học đằng sau những con rồng thần thoại</a>"
 
 ## Liên kết ngoài {#External_links}
 
-- <b><a class="external text" href="https://occamstypewriter.org/cromercrox/" rel="noreferrer noopener" target="_blank">Blog của anh ấy</a></b>
+- <b><a class="external text" href="https://occamstypewriter.org/cromercrox/" rel="noreferrer noopener" target="_blank">Blog của ông</a></b>
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Henry_Gee" title="wikipedia:Henry Gee">Henry Gee</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 - <a class="external text" href="http://network.nature.com/people/henrygee/profile" rel="noreferrer noopener" target="_blank">Henry Gee</a> và <i><a class="external text" href="http://www.nature.com/" rel="noreferrer noopener" target="_blank">Thiên nhiên</a></i>
 - <a class="external text" href="http://us.macmillan.com/author/henrygee" rel="noreferrer noopener" target="_blank">Henry Gee</a> tại <a class="external text" href="http://us.macmillan.com/default.aspx" rel="noreferrer noopener" target="_blank">Macmillan Books</a>

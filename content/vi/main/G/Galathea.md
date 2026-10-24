@@ -12,7 +12,7 @@ categories:
   - "Farmer Giles of Ham"
 ---
 
-**Galathea** tội nghiệp là con bò yêu thích của [Farmer Giles](../F/Farmer_Giles.md) đã bị đè bẹp khi [gã khổng lồ](../T/The_Giant.md) dẫm lên cô khi hắn đi ngang qua vùng đất của người nông dân vào một đêm mùa hè đẹp trời. Cái chết của cô đã khiến con chó [Garm](Garm.md) đánh thức Giles để báo cho anh biết về sự xuất hiện của người khổng lồ, cho rằng Galathea phẳng như tấm thảm chùi chân.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Galathea** tội nghiệp là con bò yêu thích của [Nông dân Giles](../F/Farmer_Giles.md) đã bị đè bẹp khi [gã khổng lồ](../T/The_Giant.md) giẫm lên cô khi hắn đi ngang qua vùng đất của người nông dân vào một đêm mùa hè đẹp trời. Cái chết của cô đã khiến con chó [Garm](Garm.md) đánh thức Giles để báo cho anh biết về sự xuất hiện của người khổng lồ, cho rằng Galathea phẳng như tấm thảm chùi chân.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Cái tên thần thoại *Galathea* "màu trắng sữa" (nữ)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> có lẽ được chọn vì sữa ám chỉ con bò nói chung – hoặc nó ám chỉ màu sắc thực sự của con bò (điều này không được đề cập trong truyện).
 

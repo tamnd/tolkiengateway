@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "González, Álvaro Fernández"
 ---
 
-- Álvaro Fernández González đã vui lòng cấp phép sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Álvaro_Fernández_González.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Álvaro Fernández González đã vui lòng cấp phép sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Álvaro_Fernández_González.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: [21 tháng 5](../../main/M/May_21.md), [2023](../../main/_/2023.md)
 - Người dùng đã xin phép qua email: [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

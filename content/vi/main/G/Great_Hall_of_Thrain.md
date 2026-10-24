@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Hall of Thráin"
 ---
 
-Chuyển hướng tới [Đại sảnh đường Thráin](Great_Hall_of_Thráin.md).
+Chuyển hướng đến [Đại sảnh Thráin](Great_Hall_of_Thráin.md).

@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>fuin</b></i> là từ [Sindarin](../S/Sindarin.md) chỉ *night* hoặc *darkness*. Tương đương [Quenya](../Q/Quenya.md) là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Huin%C3%AB&amp;action=edit&amp;redlink=1" title="Huinë (page does not exist)">huinë</a></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>fuin</b></i> là từ [Sindarin](../S/Sindarin.md) cho *night* hoặc *darkness*. Tương đương với [Quenya](../Q/Quenya.md) là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Huin%C3%AB&amp;action=edit&amp;redlink=1" title="Huinë (page does not exist)">huinë</a></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

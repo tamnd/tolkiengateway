@@ -66,10 +66,10 @@ Sự kiện xảy ra vào ngày 29 tháng 7
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1938](1938.md)** - [E.V. Gordon](../E/E.V._Gordon.md), đồng nghiệp sau này của Tolkien, qua đời.
-- <b><a href="1954.md" title="1954">1954</a> - <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i> được xuất bản.</b>
-- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Michael Tolkien](<../L/Letter_to_Michael_George_Tolkien_(29_July_1966).md>), được xuất bản một phần dưới tên [Thư 289](../L/Letter_289.md).
-- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho Max Rouslin](../L/Letter_to_Max_Rouslin.md)
+- **[1938](1938.md)** - [E.V. Gordon](../E/E.V._Gordon.md), một đồng nghiệp sau này của Tolkien qua đời.
+- <b><a href="1954.md" title="1954">1954</a> - <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">Hiệp hội của chiếc nhẫn</a></i> được xuất bản.</b>
+- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư gửi Michael Tolkien](<../L/Letter_to_Michael_George_Tolkien_(29_July_1966).md>), được xuất bản một phần dưới tên [Thư 289](../L/Letter_289.md).
+- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Max Rouslin](../L/Letter_to_Max_Rouslin.md)
 - **[1985](1985.md)** - [Mythcon 16](../M/Mythcon_16.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Wheaton,_Illinois" title="wikipedia:Wheaton, Illinois">Wheaton</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Illinois" title="wikipedia:Illinois">Illinois</a>.
 - **[1988](1988.md)** - [Mythcon 19](../M/Mythcon_19.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[1989](1989.md)** - [Mythcon 20](../M/Mythcon_20.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_British_Columbia" title="wikipedia:University of British Columbia">Đại học British Columbia</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Vancouver" title="wikipedia:Vancouver">Vancouver</a>.
@@ -78,7 +78,7 @@ Sự kiện xảy ra vào ngày 29 tháng 7
 - **[1996](1996.md)** - [Mythcon 27](../M/Mythcon_27.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Colorado_at_Boulder" title="wikipedia:University of Colorado at Boulder">Đại học Colorado</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Boulder,_Colorado" title="wikipedia:Boulder, Colorado">Boulder, Colorado</a>.
 - **[2002](2002.md)** - [Mythcon 33](../M/Mythcon_33.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Boulder,_Colorado" title="wikipedia:Boulder, Colorado">Boulder</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Colorado" title="wikipedia:Colorado">Colorado</a>.
 - **[2004](2004.md)** - [Mythcon 35](../M/Mythcon_35.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Michigan" title="wikipedia:University of Michigan">Đại học Michigan</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Ann_Arbor,_Michigan" title="wikipedia:Ann Arbor, Michigan">Ann Arbor</a>.
-- **[2004](2004.md)** - [The Lord of the Rings Bản giao hưởng](../T/The_Lord_of_the_Rings_Symphony.md) tại Heinz Hall ở <a class="extiw" href="http://en.wikipedia.org/wiki/Pittsburgh" title="wikipedia:Pittsburgh">Pittsburgh</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Pennsylvania" title="wikipedia:Pennsylvania">Pennsylvania</a>.
+- **[2004](2004.md)** - [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md) tại Heinz Hall ở <a class="extiw" href="http://en.wikipedia.org/wiki/Pittsburgh" title="wikipedia:Pittsburgh">Pittsburgh</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Pennsylvania" title="wikipedia:Pennsylvania">Pennsylvania</a>.
 - **[2006](2006.md)** - ELF 2006 ở <a class="extiw" href="http://en.wikipedia.org/wiki/Secaucus,_New_Jersey" title="wikipedia:Secaucus, New Jersey">Secaucus</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/New_Jersey" title="wikipedia:New Jersey">New Jersey</a>.
 - **[2006](2006.md)** - *[The Lord of the Rings Strategy Battle Game: Legions of Middle-earth](../L/LOTRSBG%253A_Legions_of_Middle-earth.md)* được xuất bản.
 - **[2007](2007.md)** - [MerpCon III](../M/MerpCon_III.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Spokane,_Washington" title="wikipedia:Spokane, Washington">Spokane</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Washington_(state)" title="wikipedia:Washington (state)">Washington</a>.
@@ -88,7 +88,7 @@ Sự kiện xảy ra vào ngày 29 tháng 7
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đoàn rước tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md)
+    - Đoàn tang vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md)

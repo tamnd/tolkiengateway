@@ -31,7 +31,7 @@ file:
 
 ## Tóm tắt {#Summary_2}
 
-[Warg](../../main/W/Wargs.md) khi họ xuất hiện trong [The Hobbit (phim 1977)](<../../main/T/The_Hobbit_(1977_film).md>).
+[Warg](../../main/W/Wargs.md) khi chúng xuất hiện trong [The Hobbit (1977 film)](<../../main/T/The_Hobbit_(1977_film).md>).
 
 ## Giấy phép {#Licensing}
 

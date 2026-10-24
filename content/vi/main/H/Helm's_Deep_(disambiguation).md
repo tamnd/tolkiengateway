@@ -14,18 +14,18 @@ images:
   - "Disambig.png"
 ---
 
-**Helm's Deep** có thể tham khảo:
+**Helm's Deep** có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-- [Helm's Deep](Helm's_Deep.md), thung lũng ở [Dãy Núi Trắng](../W/White_Mountains.md).
-    - [Hornburg](Hornburg.md), pháo đài Rohan bảo vệ thung lũng.
-    - Trận [Trận Helm's Deep](../B/Battle_of_the_Hornburg.md), cuộc xung đột giữa [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) giữa [Rohirrim](../R/Rohirrim.md) và [Saruman](../S/Saruman.md) của [Uruk-hai](../U/Uruk-hai.md).
+- [Helm's Deep](Helm's_Deep.md), the valley in the [White Mountains](../W/White_Mountains.md).
+    - The [Hornburg](Hornburg.md), the fortress of Rohan which protected the valley.
+    - The [Battle of Helm's Deep](../B/Battle_of_the_Hornburg.md), a conflict of the [War of the Ring](../W/War_of_the_Ring.md) between the [Rohirrim](../R/Rohirrim.md) and [Saruman](../S/Saruman.md)'s [Uruk-hai](../U/Uruk-hai.md).
 
 ## Sách {#Books}
 
 - *[Helm's Deep (chapter)](<Helm's_Deep_(chapter).md>)*, chương bảy cuốn đầu tiên của *[The Two Towers](../T/The_Two_Towers.md)* (Quyển III của [The Lord of the Rings](../T/The_Lord_of_the_Rings.md))
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Helm%27s_Deep_(The_War_of_the_Ring)&amp;action=edit&amp;redlink=1" title="Helm&#39;s Deep (The War of the Ring) (page does not exist)">Helm's Deep (The Cuộc chiến Nhẫn)</a></i>, chương hai của *[The War of the Ring](../T/The_War_of_the_Ring.md)*
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Helm%27s_Deep_(The_War_of_the_Ring)&amp;action=edit&amp;redlink=1" title="Helm&#39;s Deep (The War of the Ring) (page does not exist)">Helm's Deep (Cuộc chiến trên chiếc nhẫn)</a></i>, chương hai của *[The War of the Ring](../T/The_War_of_the_Ring.md)*
 
 ## Các bản chuyển thể {#Adaptations}
 
@@ -33,7 +33,7 @@ images:
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Helm%27s_Deep_(episode)&amp;action=edit&amp;redlink=1" title="Helm&#39;s Deep (episode) (page does not exist)">Helm's Deep (tập)</a></i>, tập thứ mười bốn của [*The Lord of the Rings* (loạt phim phát thanh năm 1981)](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>), phát sóng lần đầu [ngày 7 tháng 6](../_/7_June.md), [1981](../_/1981.md).
 - *[Helm's Deep (scene)](<Helm's_Deep_(scene).md>)*, cảnh thứ 35 của [Phiên bản mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>) của *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
 - *[Fangorn Comes to Helm's Deep](../F/Fangorn_Comes_to_Helm's_Deep.md)*, cảnh thứ 61 của [Phiên bản mở rộng](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>) của *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
-- "[Helm's Deep (The Two Towers nhạc phim)](<Helm's_Deep_(The_Two_Towers_soundtrack).md>)", bài 12 trong số *[The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md)*.
+- "[Helm's Deep (Nhạc phim The Two Towers)](<Helm's_Deep_(The_Two_Towers_soundtrack).md>)", bài 12 trong tổng số *[The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md)*.
 - *[Helm's Deep (sourcebook)](<Helm's_Deep_(sourcebook).md>)*, sách nguồn của [Decipher](../D/Decipher.md)'s *[The Lord of the Rings Roleplaying Game](../T/The_Lord_of_the_Rings_Roleplaying_Game.md)*.
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Helm%27s_Deep_for_Oblivion&amp;action=edit&amp;redlink=1" title="Helm&#39;s Deep for Oblivion (page does not exist)">Helm's Deep for Oblivion</a></i>, một [mod trò chơi](../../category/M/Modifications.md) do người hâm mộ tạo ra cho <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion" title="wikipedia:The Elder Scrolls IV: Oblivion">The Elder Scrolls IV: Oblivion</a></i>.
 

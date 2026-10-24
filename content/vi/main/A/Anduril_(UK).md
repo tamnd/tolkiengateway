@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andúril (UK)"
 ---
 
-Chuyển hướng đến [Andúril (Vương quốc Anh)](<Andúril_(UK).md>).
+Chuyển hướng tới [Andúril (Vương quốc Anh)](<Andúril_(UK).md>).

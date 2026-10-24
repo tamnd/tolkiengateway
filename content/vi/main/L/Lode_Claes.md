@@ -16,14 +16,14 @@ sort_keys:
   "People by name": "Claes, Lode"
 ---
 
-**Lode Claes** ([1931](../_/1931.md) - [14 tháng 3](../_/14_March.md) [2019](../_/2019.md)) là một nghệ sĩ người Bỉ đã tạo ra những bức tranh phong cảnh màu sắc đẹp mắt dựa trên Chúa tể của những chiếc nhẫn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tác phẩm của ông đã được trưng bày trong nhiều triển lãm khác nhau ở Bỉ, Hoa Kỳ (Milwaukee, WI), [lịch 1998 Tolkien](../T/Tolkien_Calendar_1998.md), [The Lord of the Rings: Cuốn sách gồm 20 tấm bưu thiếp](../T/The_Lord_of_the_Rings%253A_A_Book_of_20_Postcards.md) và [Cõi Tolkien](../R/Realms_of_Tolkien.md). Tác phẩm của anh ấy thuộc quyền sở hữu của [Priscilla Tolkien](../P/Priscilla_Tolkien.md). Lode Claes là bạn thân của [Jan Boom](../J/Jan_Boom.md).
+**Lode Claes** ([1931](../_/1931.md) - [14 tháng 3](../_/14_March.md) [2019](../_/2019.md)) là một nghệ sĩ người Bỉ đã tạo ra những bức tranh phong cảnh màu sắc đẹp mắt dựa trên Chúa tể của những chiếc nhẫn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tác phẩm của ông đã được trưng bày trong nhiều triển lãm khác nhau ở Bỉ, Hoa Kỳ (Milwaukee, WI), [lịch Tolkien năm 1998](../T/Tolkien_Calendar_1998.md), [The Lord of the Rings: A Book of 20 Postcards](../T/The_Lord_of_the_Rings%253A_A_Book_of_20_Postcards.md) và [Realms of Tolkien](../R/Realms_of_Tolkien.md). Tác phẩm của ông thuộc quyền sở hữu của [Priscilla Tolkien](../P/Priscilla_Tolkien.md). Lode Claes là bạn thân của [Jan Boom](../J/Jan_Boom.md).
 
 ## Hình ảnh {#Pictures}
 
-- Cái Nazgûl
+- Người Nazgûl
 - Cổng Moria
 - Tấm gương của Galadriel
-- Khu Rừng Cổ
+- Rừng già
 
 <span></span>
 

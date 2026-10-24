@@ -21,7 +21,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tea_with_Tolkien.png.md"><img src="https://tolkiengateway.net/w/images/thumb/5/55/Tea_with_Tolkien.png/320px-Tea_with_Tolkien.png" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/55/Tea_with_Tolkien.png/480px-Tea_with_Tolkien.png 1.5x, https://tolkiengateway.net/w/images/thumb/5/55/Tea_with_Tolkien.png/640px-Tea_with_Tolkien.png 2x" data-file-width="1200" data-file-height="1200"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Website</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tea with Tolkien</span></th></tr><tr><th scope="row" class="tg-infobox-label">URL</th><td class="tg-infobox-data"><a class="external free" href="https://www.teawithtolkien.com/" rel="noreferrer noopener" target="_blank">https://www.teawithtolkien.com/</a></td></tr><tr><th scope="row" class="tg-infobox-label">Owner</th><td class="tg-infobox-data">Kaitlyn Facista</td></tr></tbody></table>
 
-**Tea with Tolkien** là cộng đồng trực tuyến được tạo bởi Kaitlyn Facista. Ngoài việc hiện diện tích cực trên mạng xã hội, Tea with Tolkien còn cung cấp câu lạc bộ sách trực tuyến, nhiều tài nguyên khác nhau để in và tải xuống từ trang web, podcast, bài đăng trên blog, v.v.
+**Trà với Tolkien** là một cộng đồng trực tuyến do Kaitlyn Facista tạo ra. Ngoài việc hiện diện tích cực trên mạng xã hội, Tea with Tolkien còn cung cấp một câu lạc bộ sách trực tuyến, nhiều tài nguyên khác nhau để in và tải xuống từ trang web, podcast, bài đăng trên blog, v.v.
 
 Trà với tiểu sử YouTube của Tolkien:
 
@@ -30,7 +30,7 @@ Trà với tiểu sử YouTube của Tolkien:
 </p>
 </blockquote>
 
-Trong [2026](../_/2026.md), cộng đồng đã giành được [Giải thưởng của Hội Tolkien](Tolkien_Society_Awards.md) cho Nội dung trực tuyến hay nhất. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong [2026](../_/2026.md), cộng đồng đã giành được [Giải thưởng của Hiệp hội Tolkien](Tolkien_Society_Awards.md) cho Nội dung Trực tuyến Hay nhất. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <br>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Two Towers (extended edition)"
 ---
 
-Chuyển hướng đến [The Lord of the Rings: The Two Towers (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
+Chuyển hướng đến [The Lord of the Rings: The Two Towers (extended edition)](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).

@@ -13,7 +13,7 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>caran</b></i> là [Sindarin](../S/Sindarin.md) từ dành cho "màu đỏ". So sánh với [Quenya](../Q/Quenya.md) tương đương, *[Carnë](Carnë.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>caran</b></i> là từ [Sindarin](../S/Sindarin.md) cho "màu đỏ". So sánh với [Quenya](../Q/Quenya.md) tương đương, *[Carnë](Carnë.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

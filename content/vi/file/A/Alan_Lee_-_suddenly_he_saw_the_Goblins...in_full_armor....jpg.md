@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Alan Lee - suddenly he saw the Goblins...in full armour....jpg"
 ---
 
-Chuyển hướng đến [File:Alan Lee - đột nhiên anh ấy nhìn thấy Goblin...mặc áo giáp đầy đủ....jpg](Alan_Lee_-_suddenly_he_saw_the_Goblins...in_full_armour....jpg.md).
+Chuyển hướng đến [File:Alan Lee - đột nhiên ông nhìn thấy Goblin...mặc áo giáp đầy đủ....jpg](Alan_Lee_-_suddenly_he_saw_the_Goblins...in_full_armour....jpg.md).

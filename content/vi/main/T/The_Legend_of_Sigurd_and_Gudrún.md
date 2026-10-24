@@ -73,15 +73,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sigurd_and_Gudrún_2009.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d4/Sigurd_and_Gudr%C3%BAn_2009.jpg/306px-Sigurd_and_Gudr%C3%BAn_2009.jpg" decoding="async" loading="lazy" width="306" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d4/Sigurd_and_Gudr%C3%BAn_2009.jpg/460px-Sigurd_and_Gudr%C3%BAn_2009.jpg 1.5x, https://tolkiengateway.net/w/images/d/d4/Sigurd_and_Gudr%C3%BAn_2009.jpg 2x" data-file-width="500" data-file-height="783"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Legend of Sigurd and Gudrún</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/5_May.md" title="5 May">5 May</a> <a href="../_/2009.md" title="2009">2009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback; deluxe edition</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">384</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0007317239" title="Special:BookSources/0007317239">0007317239</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_On_Fairy-stories~23734.md" title="Tolkien On Fairy-stories">Tolkien On Fairy-stories</a> (2008)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Art_of_The_Hobbit.md" title="The Art of The Hobbit">The Art of The Hobbit</a> (2011)</td></tr></tbody></table>
 
-<i><b>Truyền thuyết về Sigurd và Gudrún</b></i> là một cuốn sách gồm hai bài thơ tự sự và văn bản liên quan được sáng tác bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó đã được xuất bản trong [2009](../_/2009.md).
+<i><b>Truyền thuyết về Sigurd và Gudrún</b></i> là cuốn sách gồm hai bài thơ tự sự và văn bản liên quan được sáng tác bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó đã được xuất bản trong [2009](../_/2009.md).
 
-Hai bài thơ chiếm phần lớn nội dung cuốn sách có lẽ được viết vào những năm 1930 và được lấy cảm hứng từ truyền thuyết về <a class="extiw" href="http://en.wikipedia.org/wiki/Sigurd" title="wikipedia:Sigurd">Sigurd</a> và sự sụp đổ của <a class="extiw" href="http://en.wikipedia.org/wiki/Niflungs" title="wikipedia:Niflungs">Niflungs</a> ở thần thoại Bắc Âu. Cả hai bài thơ đều ở dạng thơ ám chỉ. [Christopher Tolkien](../C/Christopher_Tolkien.md) đã bổ sung thêm nhiều ghi chú và bình luận cho tác phẩm.
+Hai bài thơ chiếm phần lớn nội dung cuốn sách có lẽ được viết vào những năm 1930 và được lấy cảm hứng từ truyền thuyết về <a class="extiw" href="http://en.wikipedia.org/wiki/Sigurd" title="wikipedia:Sigurd">Sigurd</a> và sự sụp đổ của <a class="extiw" href="http://en.wikipedia.org/wiki/Niflungs" title="wikipedia:Niflungs">Niflungs</a> trong thần thoại Bắc Âu. Cả hai bài thơ đều ở dạng thơ ám chỉ. [Christopher Tolkien](../C/Christopher_Tolkien.md) đã thêm rất nhiều ghi chú và bình luận vào tác phẩm.
 
 ## Tổng quan {#Overview}
 
 Cuốn sách gồm hai bài thơ dài: <i><b>The New Lay of the Völsungs</b></i> và <i><b>The New Lay of the Gudrún</b></i>, với lời bình của Christopher Tolkien.
 
-Cuốn sách cũng bao gồm hai bài thơ ngắn hơn, có liên quan trong [tiếng Anh cổ](../O/Old_English.md) và "Giới thiệu về 'Elder Edda'" (dựa trên bản thảo bài giảng) của J.R.R. Tolkien.
+Cuốn sách cũng bao gồm hai bài thơ ngắn hơn, có liên quan bằng [tiếng Anh cổ](../O/Old_English.md) và "Giới thiệu về 'Elder Edda'" (dựa trên bản thảo bài giảng) của J.R.R. Tolkien.
 
 ## Nội dung {#Contents}
 
@@ -99,7 +99,7 @@ Cuốn sách cũng bao gồm hai bài thơ ngắn hơn, có liên quan trong [ti
     - IV. *Fæddr Sigurðr* (Sigurd Sinh ra)
     - V. *Regin* (Trị vì)
     - VI. *Brynhildr* (Brynhild)
-    - VIII. *Guðrún* (Gudrún)
+    - VII. *Guðrún* (Gudrún)
     - VIII. *Svikin Brynhildr* (Brynhild Bị Phản Bội)
     - IX. *Deild* (Xung đột)
 
@@ -108,9 +108,9 @@ Cuốn sách cũng bao gồm hai bài thơ ngắn hơn, có liên quan trong [ti
 - Bình luận về *Guðrúnarkviða en nýja*
 
 - Phụ lục
-    - Appendix A. Sơ lược về nguồn gốc của truyền thuyết
+    - Phụ lục A. Tóm tắt nguồn gốc truyền thuyết
     - Phụ lục B. <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Prophecy_of_the_Sibyl&amp;action=edit&amp;redlink=1" title="The Prophecy of the Sibyl (page does not exist)">Lời tiên tri của Sibyl</a></i>
-    - Phụ lục C. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Fragments_of_a_heroic_poem_of_Attila_in_Old_English&amp;action=edit&amp;redlink=1" title="Fragments of a heroic poem of Attila in Old English (page does not exist)">Những đoạn thơ anh hùng của Attila trong tiếng Anh cổ</a>
+    - Phụ lục C. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Fragments_of_a_heroic_poem_of_Attila_in_Old_English&amp;action=edit&amp;redlink=1" title="Fragments of a heroic poem of Attila in Old English (page does not exist)">Các đoạn thơ anh hùng của Attila bằng tiếng Anh cổ</a>
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -130,14 +130,14 @@ Cuốn sách cũng bao gồm hai bài thơ ngắn hơn, có liên quan trong [ti
 
 ## Mối quan hệ với di tích {#Relation_to_the_legendarium}
 
-Mặc dù *The Legend of Sigurd and Gudrún* đương nhiên không được kết nối trực tiếp với các câu chuyện của [Arda](../A/Arda.md) và [Trung Địa](../M/Middle-earth.md), nhưng Christopher Tolkien lưu ý một số khái niệm liên quan xuất hiện trong tác phẩm:
+Mặc dù *The Legend of Sigurd and Gudrún* đương nhiên không được kết nối trực tiếp với các câu chuyện của [Arda](../A/Arda.md) và [Trung địa](../M/Middle-earth.md) nhưng Christopher Tolkien lưu ý một số khái niệm liên quan xuất hiện trong tác phẩm:
 
 - *[Wargs](../W/Wargs.md)* (tr. 373, ghi chú 37)
 - *[Ents](../E/Ents.md)* (tr. 376, ghi chú 17)
-- [Túrin](Túrin.md) giết [Morgoth](../M/Morgoth.md) hoặc [Ancalagon quân Đen](../A/Ancalagon.md) trong [Dagor Dagorath](../D/Dagor_Dagorath.md) giống với <a class="extiw" href="http://en.wikipedia.org/wiki/Sigurd" title="wikipedia:Sigurd">Sigurd</a> giết <a class="extiw" href="http://en.wikipedia.org/wiki/Mi%C3%B0gar%C3%B0sormr" title="wikipedia:Miðgarðsormr">Miðgarðsormr</a> (p. ??, "Bình luận về *Völsungskviða en nýja*", "Upphaf")
+- [Túrin](Túrin.md) giết [Morgoth](../M/Morgoth.md) hoặc [Ancalagon the Black](../A/Ancalagon.md) trong [Dagor Dagorath](../D/Dagor_Dagorath.md) giống với việc <a class="extiw" href="http://en.wikipedia.org/wiki/Sigurd" title="wikipedia:Sigurd">Sigurd</a> giết <a class="extiw" href="http://en.wikipedia.org/wiki/Mi%C3%B0gar%C3%B0sormr" title="wikipedia:Miðgarðsormr">Miðgarðsormr</a> (p. ??, "Bình luận về *Völsungskviða en nýja*", "Upphaf")
 - [Manwë](../M/Manwë.md) được so sánh với <a class="extiw" href="http://en.wikipedia.org/wiki/Odin" title="wikipedia:Odin">Odin</a>, cha của các vị thần. (tr. ??, "Bình luận về *Völsungskviða en nýja*", "Upphaf")
 
-Một số khái niệm khác cũng được tìm thấy trong tác phẩm này, mà từ đó Tolkien có thể là tài liệu được rút ra cho [huyền thoại](../L/Legendarium.md) của ông, đáng được lưu ý:
+Một số khái niệm khác cũng được tìm thấy trong tác phẩm này, mà từ đó Tolkien có thể đã lấy tài liệu cho [huyền thoại](../L/Legendarium.md) của mình, rất đáng lưu ý:
 
 - *[Mirkwood](../M/Mirkwood.md)* (trang 131, 227-8, 372)
 - *[Dark Elves](../M/Moriquendi.md)*, *[Light Elves](../L/Light-elves.md)*, *[Dwarves](../D/Dwarves.md)* (trang 358–60)
@@ -184,18 +184,18 @@ Một số khái niệm khác cũng được tìm thấy trong tác phẩm này,
 		</li>
 </ul>
 
-- [HarperCollins](../H/HarperCollins.md) bìa cứng ([2009](../_/2009.md)), trang 384. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007317239">ISBN 0007317239</a>
+- [HarperCollins](../H/HarperCollins.md) bìa cứng ([2009](../_/2009.md)), trang 384. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007317239">ISBN 0007317239</a>
 - [HarperCollins](../H/HarperCollins.md) bìa cứng có nắp trượt ([2009](../_/2009.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007317255">ISBN 0007317255</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([2010](../_/2010.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007317247">ISBN 0007317247</a>
-- [HarperCollins](../H/HarperCollins.md) bìa cứng có áo chống bụi có thể đảo ngược ([2025](../_/2025.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008737757">ISBN 978-0008737757</a> (hộp) - ([Thần thoại & Huyền thoại](../C/Christopher_Tolkien_Centenary_Boxed_Sets.md) #1)
+- [HarperCollins](../H/HarperCollins.md) bìa cứng với áo khoác chống bụi có thể đảo ngược ([2025](../_/2025.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008737757">ISBN 978-0008737757</a> (hộp) - ([Thần thoại & Huyền thoại](../C/Christopher_Tolkien_Centenary_Boxed_Sets.md) #1)
 - Ấn bản bìa mềm năm 2010, in lần thứ 10 ([2025](../_/2025.md))
 
 ## Liên kết ngoài {#External_links}
 
-- [Tom Shippey](Tom_Shippey.md), <a class="external text" href="https://muse.jhu.edu/article/389576" rel="noreferrer noopener" target="_blank">Đánh giá sách</a>, [Tolkien Nghiên cứu. 7](Tolkien_Studies%253A_Volume_7.md)
-- <a class="external text" href="https://www.tolkienestate.com/writing/the-legend-of-sigurd-and-gudrun-a-prose-account-of-the-story/" rel="noreferrer noopener" target="_blank"><i>Truyền thuyết về Sigurd và Gudrún</i>: Lời kể bằng văn xuôi về câu chuyện</a> của [Christopher Tolkien](../C/Christopher_Tolkien.md) tại <a class="external text" href="https://www.tolkienestate.com/" rel="noreferrer noopener" target="_blank">tolkienstate.com</a>
-- <a class="external text" href="http://www.theguardian.com/books/2009/may/05/jrr-tokien-sigurd-gudrun-poem" rel="noreferrer noopener" target="_blank">Christopher Tolkien giải đáp thắc mắc về <i>Sigurd và Gudrún</i></a>
-- <cite class="citation cite-web"><span class="cite-web-author"><a class="external text" href="https://www.reddit.com/user/psugam/" rel="noreferrer noopener" target="_blank">Sugam Pokharel</a> (4 tháng 11 năm 2026)</span>. <span class="cite-web-article"><a class="external text" href="https://psugam.substack.com/p/the-legend-of-sigurd-and-gudrun-by?r=4av4jy&amp;utm_medium=ios&amp;triedRedirect=true" rel="noreferrer noopener" target="_blank">"The Legend of Sigurd and Gudrun của J.R.R. Tolkien: A review"</a>, được lưu trữ từ <a class="external text" href="https://www.reddit.com/r/tolkienfans/comments/1ooa2gv/book_review_the_legend_of_sigurd_and_gudrun/" rel="noreferrer noopener" target="_blank">bản gốc</a> vào ngày 4 tháng 11 năm 2026</span>. <span class="cite-web-website"><a class="external text" href="https://www.reddit.com" rel="noreferrer noopener" target="_blank">Reddit</a></span>. <span class="cite-web-accessed">Truy cập ngày 11 tháng 12 năm 2026</span></cite>
+- [Tom Shippey](Tom_Shippey.md), <a class="external text" href="https://muse.jhu.edu/article/389576" rel="noreferrer noopener" target="_blank">Đánh giá cuốn sách</a>, [Nghiên cứu về Tolkien. 7](Tolkien_Studies%253A_Volume_7.md)
+- <a class="external text" href="https://www.tolkienestate.com/writing/the-legend-of-sigurd-and-gudrun-a-prose-account-of-the-story/" rel="noreferrer noopener" target="_blank"><i>Truyền thuyết về Sigurd và Gudrún</i>: Lời kể bằng văn xuôi của câu chuyện</a> của [Christopher Tolkien](../C/Christopher_Tolkien.md) tại <a class="external text" href="https://www.tolkienestate.com/" rel="noreferrer noopener" target="_blank">tolkienstate.com</a>
+- <a class="external text" href="http://www.theguardian.com/books/2009/may/05/jrr-tokien-sigurd-gudrun-poem" rel="noreferrer noopener" target="_blank">Christopher Tolkien trả lời câu hỏi về <i>Sigurd và Gudrún</i></a>
+- <cite class="citation cite-web"><span class="cite-web-author"><a class="external text" href="https://www.reddit.com/user/psugam/" rel="noreferrer noopener" target="_blank">Sugam Pokharel</a> (ngày 4 tháng 11 năm 2026)</span>. <span class="cite-web-article"><a class="external text" href="https://psugam.substack.com/p/the-legend-of-sigurd-and-gudrun-by?r=4av4jy&amp;utm_medium=ios&amp;triedRedirect=true" rel="noreferrer noopener" target="_blank">"The Legend of Sigurd and Gudrun của J.R.R. Tolkien: A review"</a>, được lưu trữ từ <a class="external text" href="https://www.reddit.com/r/tolkienfans/comments/1ooa2gv/book_review_the_legend_of_sigurd_and_gudrun/" rel="noreferrer noopener" target="_blank">bản gốc</a> vào ngày 4 tháng 11 năm 2026</span>. <span class="cite-web-website"><a class="external text" href="https://www.reddit.com" rel="noreferrer noopener" target="_blank">Reddit</a></span>. <span class="cite-web-accessed">Truy cập ngày 11 tháng 12 năm 2026</span></cite>
 
 <br>
 

@@ -12,7 +12,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Hiệp hội Tolkien Philippine**, PTS, là [Tolkien hiệp hội](../T/Tolkien_Societies~67099.md) ở Philippines.
+**Hiệp hội Tolkien Philippine**, PTS, là [Hiệp hội Tolkien](../T/Tolkien_Societies~67099.md) ở Philippines.
 
 ## Lịch sử {#History}
 
@@ -20,7 +20,7 @@ Vào năm 2011, trang web PTS đang trong tình trạng hư hỏng và các bài
 
 ## Tạp chí {#Magazine}
 
-Trong khi PTS đang hoạt động xuất bản tạp chí Quento.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> 5 số báo được biết là đã được phát hành đều tập trung vào bộ phim Peter Jackson.
+Trong khi PTS đang hoạt động xuất bản tạp chí Quento của mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> 5 số báo được biết là đã được phát hành đều tập trung vào bộ phim Peter Jackson.
 
 <span></span>
 

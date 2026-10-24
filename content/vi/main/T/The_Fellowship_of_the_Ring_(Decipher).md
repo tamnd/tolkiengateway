@@ -12,7 +12,7 @@ categories:
   - "The Lord of the Rings Trading Card Game cards"
 ---
 
-**The Fellowship of the Ring** là bộ đầu tiên của [The Lord of the Rings Trading Card Game](The_Lord_of_the_Rings_Trading_Card_Game.md).
+**Hiệp hội chiếc nhẫn** là bộ đầu tiên của [The Lord of the Rings Trading Card Game](The_Lord_of_the_Rings_Trading_Card_Game.md).
 
 ## Danh sách thẻ {#Card_List}
 

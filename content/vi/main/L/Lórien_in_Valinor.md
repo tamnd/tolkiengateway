@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lórien (Valinor)"
 ---
 
-Chuyển hướng tới [Lórien (Valinor)](<Lórien_(Valinor).md>).
+Chuyển hướng đến [Lórien (Valinor)](<Lórien_(Valinor).md>).

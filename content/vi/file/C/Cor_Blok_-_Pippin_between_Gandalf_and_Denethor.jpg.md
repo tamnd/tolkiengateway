@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Pippin](../../main/P/Peregrin_Took.md) giữa [Gandalf](../../main/G/Gandalf.md) và [Denethor](../../main/D/Denethor.md)" bởi [Cor Blok](../../main/C/Cor_Blok.md), được tạo trong [1959](../../main/_/1959.md).
+"[Pippin](../../main/P/Peregrin_Took.md) giữa [Gandalf](../../main/G/Gandalf.md) và [Denethor](../../main/D/Denethor.md)" của [Cor Blok](../../main/C/Cor_Blok.md), được tạo trong [1959](../../main/_/1959.md).
 
 ## Giấy phép {#Licensing}
 

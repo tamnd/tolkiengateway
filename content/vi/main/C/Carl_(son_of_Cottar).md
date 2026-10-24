@@ -47,7 +47,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Carl</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2863.md" title="Third Age 2863">1263</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="Cotton_Family~66362.md" title="Cotton Family">Cotton</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="Cottar.md" title="Cottar">Cottar</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="Cotman.md" title="Cotman">Cotman</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Carl** là [Hobbit](../H/Hobbits.md) của [ Shire](../T/The_Shire.md).
+**Carl** là một [Hobbit](../H/Hobbits.md) của [Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
@@ -55,10 +55,10 @@ Carl là con trai thứ hai của [Cottar](Cottar.md), em trai của [Cotman](Co
 
 ## Từ nguyên {#Etymology}
 
-*Carl* là tên tiếng Anh phổ biến, bắt nguồn từ khái niệm Anglo-Saxon <i><a class="extiw" href="http://en.wikipedia.org/wiki/Churl" title="wikipedia:Churl">Curl</a></i>, một nông dân tự do.
+*Carl* là tên phổ biến trong tiếng Anh, bắt nguồn từ khái niệm Anglo-Saxon <i><a class="extiw" href="http://en.wikipedia.org/wiki/Churl" title="wikipedia:Churl">Churl</a></i>, một nông dân tự do.
 
 <span></span>
 
 ## Tài liệu tham khảo {#References}
 
-- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, [Phụ lục C](../A/Appendix_C.md), "Cây bố già Chủ nhân Samwise"
+- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, [Phụ lục C](../A/Appendix_C.md), "Cây bố già của thầy Samwise"

@@ -39,25 +39,25 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_13.gif.md"><img src="https://tolkiengateway.net/w/images/e/e5/Mythlore_13.gif" decoding="async" loading="lazy" width="225" height="290" class="mw-file-element" data-file-width="225" data-file-height="290"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 13</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">September <a href="../_/1976.md" title="1976">1976</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">39</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_12.md" title="Mythlore 12">Mythlore 12</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_14.md" title="Mythlore 14">Mythlore 14</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 13</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol4/iss1/" rel="noreferrer noopener" target="_blank">Tập 4, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 13</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol4/iss1/" rel="noreferrer noopener" target="_blank">Tập 4, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Lense, Edward. “Sauron Đang Theo Dõi Bạn: Vai trò của Con Mắt Vĩ Đại trong Chúa Tể Những Chiếc Nhẫn.” 3-6.
-- Barfield, Owen. “Một số suy ngẫm về *The Great Divorce* của C.S. Lewis.” 7-8.
-- Christopher, Joe R. “Dorothy L. Sayers và Inklings.” 8-9.
-- Rose, Ellen Cronan. “Bản tóm tắt dành cho bản tóm tắt: Charles Williams’ *Descent into Hell* và *Briefing for a Descent into Hell*của Doris Lessing.” 10-13.
-- Hannay, Margaret P. “”Ngạc nhiên trước niềm vui”: C.S. Lewis’ Thay đổi thái độ đối với phụ nữ.” 15-20.
+- Lense, Edward. “Sauron Is Watching You: The Role of the Great Eye in the Lord of the Rings.” 3-6.
+- Barfield, Owen. “Some Reflections on *The Great Divorce* of C.S. Lewis.” 7-8.
+- Christopher, Joe R. “Dorothy L. Sayers and the Inklings.” 8-9.
+- Rose, Ellen Cronan. “A Briefing for Briefing: Charles Williams’ *Descent into Hell* and Doris Lessing’s *Briefing for a Descent into Hell*.” 10-13.
+- Hannay, Margaret P. “”Surprised by Joy”: C.S. Lewis’ Changing Attitudes toward Women.” 15-20.
 
 #### Tính năng {#Features}
 
 - Patterson, Nancy-Lou. “Tolkien và Silmarillion.” Bài đánh giá về *Tolkien and the Silmarillion* của Clyde S. Kilby. 21.
-- Colvin, George. “Một Farrago của tưởng tượng.” Bài đánh giá về *The Compleat Enchanter* của L. Sprague de Camp và Fletcher Pratt, *Gerfalcon* của Leslie Barringer và *Golden Wings and Other Stories* của William Morris. 22-23.
-- Christopher, Joe R. “Nghi thức của một nhà thần bí Rosicrucian.” Đánh giá *J.R. Evelyn Underhill (1875-1941): Giới thiệu về cuộc đời và các bài viết của bà* của Christopher Armstrong.
+- Colvin, George. “A Farrago of Fantasy.” Review of *The Compleat Enchanter* by L. Sprague de Camp and Fletcher Pratt, *Gerfalcon* by Leslie Barringer, and *Golden Wings and Other Stories* by William Morris. 22-23.
+- Christopher, Joe R. “Rites of a Rosicrucian Mystic.” Review of *J.R. Evelyn Underhill (1875-1941): An Introduction to Her Life and Writings* by Christopher Armstrong.
 - Thư. 26+.
-- Christopher, Joe R. “Thư mục Inklings (2).” 33-38.
+- Christopher, Joe R. “An Inklings Bibliography (2).” 33-38.
 
 #### Nghệ thuật {#Art}
 

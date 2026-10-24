@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Ring Legends of Tolkien 2020.jpg"
 ---
 
-Chuyển hướng tới [Tệp: Nhẫn Huyền thoại Tolkien 2020.jpg](../T/The_Ring_Legends_of_Tolkien_2020.jpg.md).
+Chuyển hướng đến [Tệp:Huyền thoại nhẫn của Tolkien 2020.jpg](../T/The_Ring_Legends_of_Tolkien_2020.jpg.md).

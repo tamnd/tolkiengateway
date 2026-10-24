@@ -42,13 +42,13 @@ Nơi ở của ông nằm trong một hồ nước ngầm gần [Koivië-néni](
 
 ## Lịch sử {#History}
 
-Tû là một pháp sư, "có kỹ năng về phép thuật hơn bất kỳ ai từng sinh sống ngoài vùng đất [Valinor](../V/Valinor.md)", người đã trở thành vua của [Ilkorindi](../I/Ilkorindi.md), [Tiên tộc](../E/Elves.md) chưa bao giờ rời khỏi [Palisor](../P/Palisor.md). Những Tiên tộc đi theo ông sau đó được biết đến với cái tên [Hisildi](../H/Hisildi.md), và ông đã dạy cho họ nhiều kiến ​​thức và trí tuệ.<sup id="cite_ref-Tuv_1-1" class="reference"><a href="#cite_note-Tuv-1">[1]</a></sup>
+Tû là một pháp sư, "có kỹ năng phép thuật tốt hơn bất kỳ ai từng sống ngoài vùng đất [Valinor](../V/Valinor.md)", người đã trở thành vua của [Ilkorindi](../I/Ilkorindi.md), [Yêu tinh](../E/Elves.md) không bao giờ rời khỏi [Palisor](../P/Palisor.md). Những Yêu tinh đi theo ông sau đó được biết đến với cái tên [Hisildi](../H/Hisildi.md), và ông đã dạy cho họ nhiều kiến ​​thức và trí tuệ.<sup id="cite_ref-Tuv_1-1" class="reference"><a href="#cite_note-Tuv-1">[1]</a></sup>
 
-Theo một văn bản, khi một [Tiên](../E/Elves.md) tên là [Nuin](../N/Nuin.md) phát hiện ra thi thể đang ngủ của [Con Người](../M/Men.md) tại [Murmenalda](../M/Murmenalda.md), Tû sau đó đã cấm Tiên tộc đánh thức họ hoặc thậm chí đến thăm họ vì sợ cơn thịnh nộ của [Ilúvatar](../I/Ilúvatar.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Theo một văn bản, khi một [Yêu tinh](../E/Elves.md) tên là [Nuin](../N/Nuin.md) phát hiện ra thi thể đang ngủ của [Đàn ông](../M/Men.md) tại [Murmenalda](../M/Murmenalda.md), Tû sau đó đã cấm Yêu tinh đánh thức họ hoặc thậm chí đến thăm họ vì sợ cơn thịnh nộ của [Ilúvatar](../I/Ilúvatar.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Tuy nhiên, bất chấp lời cảnh báo này, Nuin vẫn đến thăm Con Người đang ngủ và cuối cùng đánh thức hai người trong số họ, sau này được gọi là [Ermon](../E/Ermon.md) và [Elmir](../E/Elmir.md), và dạy họ [bài phát biểu của mình](../I/Ilkorin.md). Sau khi [sự thức tỉnh của Con Người](../A/Awakening_of_Men.md), [Melko](../M/Melko.md) đã biết về chúng và gửi các sinh vật của mình truy đuổi Tiên tộc và Con Người mới được đánh thức, từ đó Tû đã bảo vệ chúng.<sup id="cite_ref-Thu_3-0" class="reference"><a href="#cite_note-Thu-3">[3]</a></sup>
+Tuy nhiên, bất chấp lời cảnh báo này, Nuin vẫn đến thăm những Người đang ngủ, và cuối cùng đánh thức hai người trong số họ, sau này được gọi là [Ermon](../E/Ermon.md) và [Elmir](../E/Elmir.md), đồng thời dạy họ [của mình](../I/Ilkorin.md) bài phát biểu. Sau [sự thức tỉnh của Con người](../A/Awakening_of_Men.md), [Melko](../M/Melko.md) biết được về họ và gửi các sinh vật của mình truy đuổi Yêu tinh và những Người mới thức tỉnh, nhờ đó Tû đã bảo vệ họ.<sup id="cite_ref-Thu_3-0" class="reference"><a href="#cite_note-Thu-3">[3]</a></sup>
 
-Theo một văn bản khác, Tû cuối cùng đã "nhạt nhòa trước [Mặt Trời](../S/Sun.md) và ẩn mình trong hang động không đáy" sau khi Con Người "lớn lên về tầm vóc".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Theo một văn bản khác, Tû cuối cùng đã "nhạt nhòa trước [Mặt trời](../S/Sun.md) và ẩn mình trong những hang động không đáy" sau khi Đàn ông "lớn lên về tầm vóc".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Tên khác {#Other_names}
 
@@ -58,9 +58,9 @@ Ký tự ban đầu được gọi là *Túvo*, trước khi được đổi th�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các phiên bản trước của câu chuyện, Tû (được gọi là *Túvo* trong văn bản đó) được cho là đã gặp Melko tại [đại sảnh của Mandos](../H/Halls_of_Mandos.md) trong thời gian Melko bị giam giữ và bị anh ta làm hư hỏng. Túvo được cho là đã học được "nhiều [ma thuật](../M/Magic.md) đen tối" từ Melko, và sau [sự tối tăm của Valinor](../D/Darkening_of_Valinor.md), anh ta đã đến Great Lands nơi anh ta thiết lập một "vương quyền phù thủy".<sup id="cite_ref-Glo_5-1" class="reference"><a href="#cite_note-Glo-5">[5]</a></sup>
+Trong các phiên bản trước của câu chuyện, Tû (được gọi là *Túvo* trong văn bản đó) được cho là đã gặp Melko tại [sảnh của Mandos](../H/Halls_of_Mandos.md) trong thời gian Melko bị giam cầm và bị ông ta làm hư hỏng. Túvo được cho là đã học được "nhiều [ma thuật](../M/Magic.md) đen tối" từ Melko, và sau [sự tối tăm của Valinor](../D/Darkening_of_Valinor.md), ông ta đã đến Great Lands, nơi ông ta thiết lập một "vương quyền phù thủy".<sup id="cite_ref-Glo_5-1" class="reference"><a href="#cite_note-Glo-5">[5]</a></sup>
 
-Tuy nhiên, trong các văn bản sau này, nhân vật Tû đã mất đi những ý nghĩa tiêu cực này,<sup id="cite_ref-Glo_5-2" class="reference"><a href="#cite_note-Glo-5">[5]</a></sup> và thay vào đó trở thành người bảo vệ Tiên tộc và Con Người.<sup id="cite_ref-Thu_3-1" class="reference"><a href="#cite_note-Thu-3">[3]</a></sup>
+Tuy nhiên, trong các văn bản sau này, nhân vật Tû đã mất đi những hàm ý tiêu cực này,<sup id="cite_ref-Glo_5-2" class="reference"><a href="#cite_note-Glo-5">[5]</a></sup> và thay vào đó trở thành người bảo vệ Yêu tinh và Con người.<sup id="cite_ref-Thu_3-1" class="reference"><a href="#cite_note-Thu-3">[3]</a></sup>
 
 <span></span>
 

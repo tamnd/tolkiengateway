@@ -16,9 +16,9 @@ images:
 
 **Meril** có thể đề cập đến:
 
-- <b><a class="mw-redirect mw-disambig" href="Meril.md" title="Meril">meril</a></b>, từ [Sindarin](../S/Sindarin.md) chỉ loài hoa **[hoa hồng](../R/Roses.md#Names)**
-    - bản dịch của [**Rose** (Gamgee)](../R/Rose_Cotton.md#Etymology) trong Thư của [Vua](../K/King's_Letter.md)
-- **[Meril](<Meril_(mother_of_Gil-galad).md>)**, tên mẹ của [Gil-galad](../G/Gil-galad.md) trong một phiên bản của [huyền thoại](../L/Legendarium.md)
+- <b><a class="mw-redirect mw-disambig" href="Meril.md" title="Meril">meril</a></b>, từ [Sindarin](../S/Sindarin.md) để chỉ loài hoa **[hoa hồng](../R/Roses.md#Names)**
+    - bản dịch của [**Rose** (Gamgee)](../R/Rose_Cotton.md#Etymology) trong [Thư của nhà vua](../K/King's_Letter.md)
+- **[Meril](<Meril_(mother_of_Gil-galad).md>)**, tên của mẹ của [Gil-galad](../G/Gil-galad.md) trong một phiên bản của [huyền thoại](../L/Legendarium.md)
 - **[Meril-i-Turinqi](Meril-i-Turinqi.md)**, Phu nhân của [Tol Eressëa](../T/Tol_Eressëa.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*
 
 <hr style="margin-top:15px;"/>

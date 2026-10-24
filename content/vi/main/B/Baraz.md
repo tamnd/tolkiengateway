@@ -26,9 +26,9 @@ langlinks:
     url: "https://kontu.wiki/Barazinbar"
 ---
 
-<i><b>baraz</b></i> là [Khuzdul](../K/Khuzdul.md) từ dành cho "màu đỏ".
+<i><b>baraz</b></i> là từ [Khuzdul](../K/Khuzdul.md) có nghĩa là "đỏ".
 
-Một cách độc lập, nó đóng vai trò là tên viết tắt của [Barazinbar](../C/Caradhras.md), một trong ba [Dãy núi Moria](../M/Mountains_of_Moria.md), thường được gọi là *Caradhras* hoặc *Redhorn*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Một cách độc lập, nó được dùng làm tên viết tắt của [Barazinbar](../C/Caradhras.md), một trong ba [Núi Moria](../M/Mountains_of_Moria.md), thường được gọi là *Caradhras* hoặc *Redhorn*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

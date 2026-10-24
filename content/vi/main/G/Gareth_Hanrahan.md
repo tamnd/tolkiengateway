@@ -25,7 +25,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Gareth Ryder-Hanrahan</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/1978.md" title="1978">1978</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Game designer</td></tr></tbody></table>
 
-**Gareth Hanrahan** (tên khai sinh là [1978](../_/1978.md)) là một nhà thiết kế trò chơi trên máy tính bảng người Ireland, người đã viết kịch bản cho cả hai phiên bản của [*The One Ring* trò chơi nhập vai](<../T/The_One_Ring_(role-playing_game).md>). Ngoài công việc về trò chơi nhập vai được cấp phép, anh ấy còn viết cuốn sách *[Tolkien's World](<../T/Tolkien's_World_(by_Gareth_Hanrahan).md>)*.
+**Gareth Hanrahan** (tên khai sinh là [1978](../_/1978.md)) là một nhà thiết kế trò chơi trên máy tính bảng người Ireland, người đã viết kịch bản cho cả hai phiên bản của [*The One Ring* trò chơi nhập vai](<../T/The_One_Ring_(role-playing_game).md>). Ngoài công việc về trò chơi nhập vai được cấp phép, ông còn viết cuốn sách *[Tolkien's World](<../T/Tolkien's_World_(by_Gareth_Hanrahan).md>)*.
 
 ## Liên kết ngoài {#External_links}
 

@@ -18,11 +18,11 @@ sort_keys:
   "People by name": "Flynn, Quinton"
 ---
 
-**Quinton Joseph Flynn** ([10 tháng 10](../_/10_October.md), [1964](../_/1964.md)) là một diễn viên lồng tiếng người Mỹ. Ngoài việc tham gia một số bộ anime, anh ấy còn thành lập một bộ đôi hài kịch với Jeff Nimoy, người anh họ thứ hai từng bị loại khỏi [Leonard Nimoy](../L/Leonard_Nimoy.md).
+**Quinton Joseph Flynn** ([10 tháng 10](../_/10_October.md), [1964](../_/1964.md)) là một diễn viên lồng tiếng người Mỹ. Ngoài việc tham gia một số bộ anime, ông còn thành lập một bộ đôi hài kịch với Jeff Nimoy, người anh họ thứ hai từng bị loại khỏi [Leonard Nimoy](../L/Leonard_Nimoy.md).
 
 ## Vai trò {#Roles}
 
-- [2002](../_/2002.md): [*The Lord of the Rings: The Fellowship of the Ring* (trò chơi điện tử)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>): [Gollum](../G/Gollum.md), [Merry](../M/Meriadoc_Brandybuck.md)
+- [2002](../_/2002.md): [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>): [Gollum](../G/Gollum.md), [Chúc vui vẻ](../M/Meriadoc_Brandybuck.md)
 
 ## Liên kết ngoài {#External_links}
 

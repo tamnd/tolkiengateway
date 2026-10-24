@@ -36,7 +36,7 @@ McCallum tin rằng Tolkien đã đưa ra nhận xét dưới đây.
 </p>
 </blockquote>
 
-Tolkien không nhớ đã đưa ra nhận xét đó nhưng nói rằng anh ấy đồng ý với điều đó và không ngại việc nó bị quy cho anh ấy. <br>
+Tolkien không nhớ đã đưa ra nhận xét đó nhưng nói rằng ông đồng ý với điều đó và không bận tâm việc nó được cho là của ông. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

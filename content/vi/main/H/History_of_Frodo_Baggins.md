@@ -11,4 +11,4 @@ redirect_target: "Frodo Baggins"
 redirect_fragment: "History"
 ---
 
-Chuyển hướng đến [Frodo Baggins](../F/Frodo_Baggins.md#History).
+Chuyển hướng tới [Frodo Baggins](../F/Frodo_Baggins.md#History).

@@ -12,7 +12,7 @@ categories:
   - "The Lord of the Rings (film series) filming locations"
 ---
 
-**Dry Creek Quarry** là mỏ đá ở ngoại ô [Wellington](../W/Wellington.md), [New Zealand](../N/New_Zealand.md), thuộc sở hữu của Allied Concrete. Nó tạo thành tập hợp [Hornburg](../H/Hornburg.md) trong [The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md). Nó không bị phá hủy; đúng hơn, nó được xây dựng lại dưới dạng phiên bản mê cung của [Minas Tirith](../M/Minas_Tirith.md), để sử dụng trên [The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
+**Dry Creek Quarry** là mỏ đá ở ngoại ô [Wellington](../W/Wellington.md), [New Zealand](../N/New_Zealand.md), thuộc sở hữu của Allied Concrete. Nó tạo thành tập hợp [Hornburg](../H/Hornburg.md) ở [The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md). Nó không bị phá hủy; đúng hơn, nó được xây dựng lại thành phiên bản mê cung của [Minas Tirith](../M/Minas_Tirith.md), để sử dụng trên [The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
 
 ## Liên kết ngoài {#External_links}
 

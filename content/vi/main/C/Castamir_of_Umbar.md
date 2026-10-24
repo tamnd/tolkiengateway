@@ -56,15 +56,15 @@ infobox:
 <p class="tg-quote-footer"><cite>Castamir to a Corsair crew</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Castamir của [Umbar](../U/Umbar.md)**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> là Bosun của [Hải tặc Umbar](Corsairs_of_Umbar.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md)
+**Castamir của [Umbar](../U/Umbar.md)**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> là Bosun của [Corsairs of Umbar](Corsairs_of_Umbar.md) trong [War of the Ring](../W/War_of_the_Ring.md)
 
 Castamir là tác phẩm nguyên bản dành cho phim *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Anh do đạo diễn [Peter Jackson](../P/Peter_Jackson.md) thể hiện.
 
 ## Tiểu sử {#Biography}
 
-Để chuẩn bị cho [Cuộc vây hãm Gondor](../S/Siege_of_Gondor.md), [Sauron](../S/Sauron.md) đã tập trung toàn bộ sức mạnh của mình, bao gồm [Orc](../O/Orcs.md), [Haradrim](../H/Haradrim.md), [Easterlings](../E/Easterlings.md) và [Hải tặc Umbar](Corsairs_of_Umbar.md). Đội Corsairs khởi hành xuống [Sông Lớn Anduin](../A/Anduin.md) hướng tới [Minas Tirith](../M/Minas_Tirith.md), với Castamir đóng vai Bosun của một trong những Con Tàu Đen. Anh ấy hét lên "Nào!" tới thủy thủ đoàn.
+Để chuẩn bị cho [Cuộc vây hãm Gondor](../S/Siege_of_Gondor.md), [Sauron](../S/Sauron.md) đã tập hợp toàn bộ sức mạnh của mình, bao gồm cả [Orc](../O/Orcs.md), [Haradrim](../H/Haradrim.md), [Easterlings](../E/Easterlings.md) và [Corsairs of Umbar](Corsairs_of_Umbar.md). Đội Corsairs khởi hành xuống [Great River Anduin](../A/Anduin.md) tới [Minas Tirith](../M/Minas_Tirith.md), với Castamir đóng vai Bosun của một trong những Con tàu Đen. Ông hét lên "Nào!" tới thủy thủ đoàn.
 
-Trên đường đến Thành phố Trắng, bọn Corsairs đi ngang qua [ Ba Thợ Săn](../T/Three_Hunters.md), đang đứng trên bờ biển. [Aragorn](../A/Aragorn.md) tuyên bố "Bạn không được đi xa hơn! Bạn sẽ không được vào [Gondor](../G/Gondor.md)." Thuyền trưởng hỏi "Ông là ai mà từ chối cho chúng tôi đi qua?". Aragorn ra lệnh cho [Legolas](../L/Legolas.md) bắn một phát súng cảnh cáo qua tai Castamir. [Gimli](../G/Gimli.md) bảo Legolas hãy chú ý đến mục tiêu của mình, trước khi cố tình dùng rìu đập vào cung của Tiên. Sự can thiệp của Gimli khiến cú sút của Legolas trúng thẳng vào bụng Castamir. Castamir kêu lên đau đớn và ngã ngửa ra sau. Nếu Castamir không bị mũi tên của Tiên giết chết thì anh ta chắc chắn đã bị giết khi [Đội quân của người chết](../O/Oathbreakers.md), dưới sự chỉ huy của Aragorn, xông vào các con thuyền.
+Trên đường đến Thành phố Trắng, Corsairs đi ngang qua [Ba thợ săn](../T/Three_Hunters.md), đang đứng trên bờ biển. [Aragorn](../A/Aragorn.md) tuyên bố "Bạn không được đi xa hơn! Bạn sẽ không vào [Gondor](../G/Gondor.md)." Thuyền trưởng hỏi "Ông là ai mà từ chối cho chúng tôi đi qua?". Aragorn ra lệnh cho [Legolas](../L/Legolas.md) bắn một phát súng cảnh cáo qua tai Castamir. [Gimli](../G/Gimli.md) bảo Legolas hãy chú ý đến mục tiêu của mình, trước khi cố tình dùng rìu đập vào cây cung của Yêu tinh. Sự can thiệp của Gimli khiến cú sút của Legolas trúng thẳng vào bụng Castamir. Castamir kêu lên đau đớn và ngã ngửa ra sau. Nếu Castamir không bị mũi tên của Yêu tinh giết chết, thì ông ta chắc chắn đã bị giết khi [Đội quân của người chết](../O/Oathbreakers.md), dưới sự chỉ huy của Aragorn, xông vào các con thuyền.
 
 ## Ghi chú {#Notes}
 

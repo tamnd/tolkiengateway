@@ -13,11 +13,11 @@ categories:
   - "Sindarin nouns"
 ---
 
-**Peth** là [Sindarin](../S/Sindarin.md) từ cho "từ".<sup id="cite_ref-Etymology_1-0" class="reference"><a href="#cite_note-Etymology-1">[1]</a></sup>
+**Peth** là từ [Sindarin](../S/Sindarin.md) cho "từ".<sup id="cite_ref-Etymology_1-0" class="reference"><a href="#cite_note-Etymology-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Có thể [Old Sindarin](../O/Old_Sindarin.md) \**pettha* ([Gốc](../S/Sundocarmë.md) [KWETE](../K/KWETE.md))<sup id="cite_ref-Etymology_1-1" class="reference"><a href="#cite_note-Etymology-1">[1]</a></sup>
+Có thể có [Sidarin cũ](../O/Old_Sindarin.md) \**pettha* ([Gốc](../S/Sundocarmë.md) [KWETE](../K/KWETE.md))<sup id="cite_ref-Etymology_1-1" class="reference"><a href="#cite_note-Etymology-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 
@@ -29,7 +29,7 @@ Có thể [Old Sindarin](../O/Old_Sindarin.md) \**pettha* ([Gốc](../S/Sundocar
 
 - [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Quetta&amp;action=edit&amp;redlink=1" title="Quetta (page does not exist)">quetta</a></i>
 
-- [Adûnaic](../A/Adûnaic.md) *[bêth](../B/Bêth.md)* (rõ ràng là từ mượn)
+- [Adûnaic](../A/Adûnaic.md) *[bêth](../B/Bêth.md)* (rõ ràng là một từ mượn)
 
 <span></span>
 

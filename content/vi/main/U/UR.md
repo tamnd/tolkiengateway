@@ -16,12 +16,12 @@ categories:
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Quenya](../Q/Quenya.md): *urya-* ("nóng"); *[Úrin](../S/Sun.md#Names_of_the_Sun)*; *aurĭ-* ("nhiệt, chu kỳ nắng"); *[aure](../A/Aure.md)* ("ngày")<sup id="cite_ref-Elda_1-1" class="reference"><a href="#cite_note-Elda-1">[1]</a></sup>
-- [Sindarin](../S/Sindarin.md): *[aur](../A/Aur.md)* ("ánh nắng, ngày")
+- [Quenya](../Q/Quenya.md): *urya-* ("nóng bỏng"); *[Úrin](../S/Sun.md#Names_of_the_Sun)*; *aurĭ-* ("nhiệt, chu kỳ nắng"); *[aure](../A/Aure.md)* ("ngày")<sup id="cite_ref-Elda_1-1" class="reference"><a href="#cite_note-Elda-1">[1]</a></sup>
+- [Sindarin](../S/Sindarin.md): *[aur](../A/Aur.md)* ("ánh sáng mặt trời, ngày")
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong [*Etymologies*](../T/The_Etymologies.md), ý nghĩa của gốc UR là "nóng" đã được đổi thành "rộng, lớn, tuyệt vời", với các dẫn xuất [Quenya](../Q/Quenya.md) *úra* ("lớn"), *[Úrien](../E/Eönwë.md)*và [Noldorin](../N/Noldorin.md) *ûr* ("rộng").<sup id="cite_ref-Ety396_2-1" class="reference"><a href="#cite_note-Ety396-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [*Etymologies*](../T/The_Etymologies.md), ý nghĩa của gốc UR là "nóng" đã được đổi thành "rộng, lớn, tuyệt vời", với các từ phái sinh [Quenya](../Q/Quenya.md) *úra* ("lớn"), *[Úrien](../E/Eönwë.md)* và [Noldorin](../N/Noldorin.md) *ûr* ("rộng").<sup id="cite_ref-Ety396_2-1" class="reference"><a href="#cite_note-Ety396-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Trong *[Qenya Lexicon](../Q/Qenya_Lexicon.md)* xuất hiện URU gốc, với dẫn xuất [Qenya](../Q/Qenya.md) *ūrin* ("nóng rực").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

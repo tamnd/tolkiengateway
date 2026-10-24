@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ảnh chụp màn hình [Núi Doom](../../main/M/Mount_Doom.md) từ [The Lord of the Rings: The Fellowship of the Ring](../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md).
+Ảnh chụp màn hình [Núi Diệt Vong](../../main/M/Mount_Doom.md) từ [The Lord of the Rings: The Fellowship of the Ring](../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md).
 
 ## Giấy phép {#Licensing}
 

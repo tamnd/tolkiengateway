@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galdor (elf of Gondolin)"
 ---
 
-Chuyển hướng tới [Galdor (bản chất của Gondolin)](<Galdor_(elf_of_Gondolin).md>).
+Chuyển hướng đến [Galdor (yêu tinh Gondolin)](<Galdor_(elf_of_Gondolin).md>).

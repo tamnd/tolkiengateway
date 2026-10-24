@@ -20,7 +20,7 @@ langlinks:
     url: "https://kontu.wiki/Nyt_laulakaa,_veikkoset,_yhdess%C3%A4_t%C3%A4%C3%A4ll%C3%A4!"
 ---
 
-<i><b>Sing All Ye Joyful</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là bài thơ nằm trong chương "[Giai đoạn cuối cùng](../T/The_Last_Stage.md)" của *[The Hobbit](../T/The_Hobbit.md)*. Nó được hát bởi [Tiên tộc](../E/Elves.md) của [Rivendell](../R/Rivendell.md) vào đêm từ [1 tháng 5](../_/1_May.md) đến [2 tháng 5](../_/2_May.md) [T.A.](../T/Third_Age.md) [2942](../T/Third_Age_2942.md). Các thần tiên hát "to và trong trẻo bên bờ suối" dưới cửa sổ mở của [Bilbo Baggins](../B/Bilbo_Baggins.md) người mà họ đã đánh thức bằng tiếng hát của mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>Sing All Ye Joyful</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là bài thơ nằm trong chương "[Giai đoạn cuối cùng](../T/The_Last_Stage.md)" của *[The Hobbit](../T/The_Hobbit.md)*. Nó được hát bởi [Yêu tinh](../E/Elves.md) của [Rivendell](../R/Rivendell.md) vào đêm từ [1 tháng 5](../_/1_May.md) đến [2 tháng 5](../_/2_May.md) [T.A.](../T/Third_Age.md) [2942](../T/Third_Age_2942.md). Các yêu tinh đã hát "to và trong trẻo bên bờ suối" dưới cửa sổ mở của [Bilbo Baggins](../B/Bilbo_Baggins.md), người mà họ đã đánh thức bằng tiếng hát của mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Bài thơ ngoại trừ {#Poem_excepts}
 

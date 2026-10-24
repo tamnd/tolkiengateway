@@ -31,7 +31,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Sự nghiệp diễn xuất lâu dài của Jarvis bao gồm vai Jon Forsyte trong bộ phim <a class="extiw" href="http://en.wikipedia.org/wiki/The_Forsyte_Saga#1967_mini-series" title="wikipedia:The Forsyte Saga">miniseries <i>The Forsyte Saga</i></a> được giới phê bình đánh giá cao và nhân vật chính trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Nicholas_Nickleby" title="wikipedia:Nicholas Nickleby">Nicholas Nickleby</a></i>của Dickens. Nhiều vai diễn tiếp theo trên sân khấu, màn ảnh và đài phát thanh. Anh ấy cũng từng là người kể chuyện trên *[Jackanory](../J/Jackanory.md)* trong sáu tập.
+Sự nghiệp diễn xuất lâu dài của Jarvis bao gồm vai Jon Forsyte trong bộ phim <a class="extiw" href="http://en.wikipedia.org/wiki/The_Forsyte_Saga#1967_mini-series" title="wikipedia:The Forsyte Saga">miniseries <i>The Forsyte Saga</i></a> được giới phê bình đánh giá cao và nhân vật chính trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Nicholas_Nickleby" title="wikipedia:Nicholas Nickleby">Nicholas Nickleby</a></i>của Dickens. Nhiều vai diễn tiếp theo trên sân khấu, màn ảnh và đài phát thanh. Ông cũng từng là người kể chuyện trên *[Jackanory](../J/Jackanory.md)* trong sáu tập.
 
 ## Vai trò {#Roles}
 

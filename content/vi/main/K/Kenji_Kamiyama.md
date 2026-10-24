@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Kamiyama, Kenji"
 ---
 
-**Kenji Kamiyama** ([20 tháng 3](../_/20_March.md), [1966](../_/1966.md)) là đạo diễn phim hoạt hình người Nhật. Anh ấy đã đạo diễn *[The Lord of the Rings: The War of the Rohirrim](../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md)*.
+**Kenji Kamiyama** ([20 tháng 3](../_/20_March.md), [1966](../_/1966.md)) là đạo diễn phim hoạt hình người Nhật. Ông đã đạo diễn *[The Lord of the Rings: The War of the Rohirrim](../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md)*.
 
 ## Liên kết ngoài {#External_links}
 

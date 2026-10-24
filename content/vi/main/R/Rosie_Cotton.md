@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rose Cotton"
 ---
 
-Chuyển hướng đến [Rose Cotton](Rose_Cotton.md).
+Chuyển hướng đến [Bông hồng](Rose_Cotton.md).

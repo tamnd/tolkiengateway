@@ -28,7 +28,7 @@ sort_keys:
     - "Guthlac, Bài Thơ"
     - "Guthlac, Thánh"
 - [2011](../_/2011.md): *[Mythlore 113/114](../M/Mythlore_113%252F114.md)*
-    - "Không thích thân mật: Tái tạo lại các Thiên nữ của 'Ngọc trai' và 'Ngục luyện' trong Tolkien's Galadriel"
+    - "Không thích thân mật: Tái tạo lại các Thiên nữ của 'Ngọc trai' và 'Purgatorio' trong Galadriel của Tolkien"
 
 ## Liên kết ngoài {#External_links}
 

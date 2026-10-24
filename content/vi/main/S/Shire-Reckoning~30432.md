@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shire-reckoning"
 ---
 
-Chuyển hướng đến [lịch Shire](Shire-reckoning.md).
+Chuyển hướng đến [Tính toán quận](Shire-reckoning.md).

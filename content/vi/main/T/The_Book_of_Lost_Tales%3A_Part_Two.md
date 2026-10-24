@@ -71,25 +71,25 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lost_Tales_II_1984.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/27/Lost_Tales_II_1984.jpeg/305px-Lost_Tales_II_1984.jpeg" decoding="async" loading="lazy" width="305" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/2/27/Lost_Tales_II_1984.jpeg 1.5x" data-file-width="318" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Book of Lost Tales: Part Two</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/George_Allen_and_Unwin.md" title="George Allen and Unwin">George Allen and Unwin</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/16_August.md" title="16 August">16 August</a> <a href="../_/1984.md" title="1984">1984</a> (UK)<br/><a href="../_/26_November.md" title="26 November">26 November</a> 1984 (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">385</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0048232653" title="Special:BookSources/0048232653">0048232653</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Book_of_Lost_Tales%253A_Part_One.md" title="The Book of Lost Tales: Part One">The Book of Lost Tales: Part One</a> (1983)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a> (1985)</td></tr></tbody></table>
 
-<i><b>The Book of Lost Tales: Phần thứ hai</b></i>, xuất bản trong [1984](../_/1984.md), là tập thứ hai trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Cuốn sách về những câu chuyện đã mất: Phần thứ hai</b></i>, xuất bản năm [1984](../_/1984.md), là tập thứ hai trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Cuốn sách là sự tiếp nối của *[The Book of Lost Tales: Part One](The_Book_of_Lost_Tales%253A_Part_One.md)*. Nó bao gồm những hình thức đầu tiên của những câu chuyện về [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md), [Túrin](Túrin.md) và [Rồng](../G/Glaurung.md), [Vòng cổ của Người Lùn](../N/Nauglamír.md) và [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md). Sau mỗi câu chuyện là một lời bình luận dưới dạng một bài tiểu luận ngắn, cùng với nội dung của các bài thơ liên quan, đồng thời chứa thông tin phong phú về tên và từ vựng trong các ngôn ngữ [Elvish](../E/Elvish.md) sớm nhất.
+Cuốn sách là sự tiếp nối của *[The Book of Lost Tales: Part One](The_Book_of_Lost_Tales%253A_Part_One.md)*. Nó bao gồm những dạng đầu tiên của câu chuyện về [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md), [Túrin](Túrin.md) và [Rồng](../G/Glaurung.md), [Vòng cổ của người lùn](../N/Nauglamír.md) và [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md). Sau mỗi câu chuyện là một bài bình luận dưới dạng một bài tiểu luận ngắn, cùng với nội dung của các bài thơ liên quan, đồng thời chứa thông tin phong phú về tên và từ vựng trong các ngôn ngữ [Elvish](../E/Elvish.md) sớm nhất.
 
 ## Nội dung {#Contents}
 
 - Lời nói đầu
 
-- Tôi. "[The Tale of Tinúviel](The_Tale_of_Tinúviel.md)" — phiên bản đầu tiên của câu chuyện về [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md)
+- Tôi. "[Câu chuyện về Tinúviel](The_Tale_of_Tinúviel.md)" — phiên bản đầu tiên của câu chuyện về [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md)
 
-- II."[Turambar and the Foalókë](Turambar_and_the_Foalókë.md)" — phiên bản đầu tiên của câu chuyện [Túrin](Túrin.md)
+- II."[Turambar và Foalókë](Turambar_and_the_Foalókë.md)" — phiên bản đầu tiên của câu chuyện [Túrin](Túrin.md)
 
-- III. "[The Fall of Gondolin](<The_Fall_of_Gondolin_(chapter).md>)" — câu chuyện đầy đủ duy nhất về Sự sụp đổ của [Gondolin](../G/Gondolin.md)
+- III. "[Sự sụp đổ của Gondolin](<The_Fall_of_Gondolin_(chapter).md>)" — câu chuyện đầy đủ duy nhất về Sự sụp đổ của [Gondolin](../G/Gondolin.md)
 
-- IV. "[The Nauglafring](The_Nauglafring.md)" — câu chuyện về chiếc vòng cổ Người lùn được gọi là [Nauglamír](../N/Nauglamír.md)
+- IV. "[The Nauglamír](The_Nauglafring.md)" — câu chuyện về chiếc vòng cổ của Người lùn được gọi là [Nauglamír](../N/Nauglamír.md)
 
 - V. "[Câu chuyện về Eärendel](The_Tale_of_Eärendel.md)" — câu chuyện đầy đủ duy nhất về chuyến du hành của [Eärendil](../E/Eärendil.md)
 
-- VI. "[Lịch sử của Eriol hay Ælfwine và cái kết của những câu chuyện](The_History_of_Eriol_or_Ælfwine_and_the_End_of_the_Tales.md)" — một tiểu luận về những thay đổi trong khuôn khổ và những câu chuyện “bất thành văn”
+- VI. "[Lịch sử của Eriol hay Ælfwine và sự kết thúc của những câu chuyện](The_History_of_Eriol_or_Ælfwine_and_the_End_of_the_Tales.md)" — một bài tiểu luận về những thay đổi trong khuôn khổ và những câu chuyện "bất thành văn"
 
 - Phụ lục: Các tên trong *Lost Tales* - Phần II
 
@@ -97,7 +97,7 @@ Cuốn sách là sự tiếp nối của *[The Book of Lost Tales: Part One](The
 
 ## Chữ khắc {#Inscriptions}
 
-Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở những trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung của cuốn sách. Dòng chữ trong Quyển II có nội dung:
+Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung cuốn sách. Dòng chữ trong Quyển II có nội dung:
 
 <dl><dd>&#34;<i>This is the second part of the Book of the Lost Tales of Elfinesse which <a href="../E/Eriol.md" title="Eriol">Eriol the Mariner</a> learned from the Elves of Tol Eressëa, the Lonely Isle in the western ocean, and afterwards wrote in the <a href="../G/Golden_Book.md" title="Golden Book">Golden Book</a> of <a href="Tavrobel.md" title="Tavrobel">Tavrobel</a>. Herein are told the Tales of Beren and Tinúviel, of Turambar, of the Fall of Gondolin, and of the Necklace of the Dwarves.</i>&#34;</dd></dl>
 
@@ -179,14 +179,14 @@ This second part of The Book of Lost Tales includes the tale of Beren and Lúthi
 		</li>
 </ul>
 
-- [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md), bìa cứng ([1984](../_/1984.md)), trang 385. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232653">ISBN 0048232653</a>
-- Unicorn / Unwin Paperbacks, bìa mềm ([1986](../_/1986.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048233382">ISBN 0048233382</a> - (ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
+- [George Allen & Unwin](../G/George_Allen_&_Unwin.md), bìa cứng ([1984](../_/1984.md)), trang 385. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048232653">ISBN 0048232653</a>
+- Unicorn / Unwin Bìa mềm, bìa mềm ([1986](../_/1986.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048233382">ISBN 0048233382</a> - (ảnh bìa của [Roger Garland](../R/Roger_Garland.md))
     - Ấn bản bìa mềm năm 1986, lần in thứ 3 ([1988](../_/1988.md))
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([1991](../_/1991.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102133">ISBN 0261102133</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1995](../_/1995.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102141">ISBN 0261102141</a> - (ảnh bìa của [John Howe](../J/John_Howe.md))
     - Ấn bản bìa mềm năm 1995, đặt lại ở [2002](../_/2002.md), sau đó ở [2015](../_/2015.md)
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2010](../_/2010.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007365268">ISBN 0007365268</a>
-- [HarperCollins](../H/HarperCollins.md) bìa cứng có áo chống bụi có thể đảo ngược ([2023](../_/2023.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008663155">ISBN 978-0008663155</a> - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #1)
+- [HarperCollins](../H/HarperCollins.md) bìa cứng với áo khoác chống bụi có thể đảo ngược ([2023](../_/2023.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008663155">ISBN 978-0008663155</a> - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #1)
     - Ấn bản bìa mềm năm 2015, lần in thứ 38 ([2024](../_/2024.md))
 
 ## Liên kết ngoài {#External_links}

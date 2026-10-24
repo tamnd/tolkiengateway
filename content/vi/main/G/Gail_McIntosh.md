@@ -32,11 +32,11 @@ infobox:
 <p class="tg-quote-footer"><cite>Art Director <a class="new" href="https://tolkiengateway.net/w/index.php?title=Rick_Britton&amp;action=edit&amp;redlink=1" title="Rick Britton (page does not exist)">Rick Britton</a><sup id="cite_ref-blackgate_1-0" class="reference"><a href="#cite_note-blackgate-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Gail McIntosh** là một nghệ sĩ người Mỹ chủ yếu được biết đến với [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md) ảnh bìa, mặc dù cô cũng sáng tạo nghệ thuật cho [Trung Địa Trò chơi bài sưu tầm](../M/Middle-earth_Collectible_Card_Game.md).<sup id="cite_ref-blackgate_1-1" class="reference"><a href="#cite_note-blackgate-1">[1]</a></sup>
+**Gail McIntosh** là một nghệ sĩ người Mỹ chủ yếu được biết đến với ảnh bìa [Nhập vai ở Trung địa](../M/Middle-earth_Role_Playing.md), mặc dù cô cũng sáng tạo nghệ thuật cho [Trò chơi sưu tập thẻ bài ở Trung địa](../M/Middle-earth_Collectible_Card_Game.md).<sup id="cite_ref-blackgate_1-1" class="reference"><a href="#cite_note-blackgate-1">[1]</a></sup>
 
 ## Sự nghiệp {#Career}
 
-Sau khi theo học tại Học viện Mỹ thuật Pennsylvania và tại [Ý](../I/Italy.md) *Accademia di Belle Arti di Firenze*, cô là người học việc của nhà điêu khắc <a class="extiw" href="http://en.wikipedia.org/wiki/Antonio_Berti_(sculptor)" title="wikipedia:Antonio Berti (sculptor)">Antonio Berti</a>. Khi trở về Hoa Kỳ, cuối cùng cô đã làm việc cho [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md).<sup id="cite_ref-blackgate_1-2" class="reference"><a href="#cite_note-blackgate-1">[1]</a></sup>
+Sau khi theo học tại Học viện Mỹ thuật Pennsylvania và tại [Ý](../I/Italy.md) *Accademia di Belle Arti di Firenze*, cô là người học việc của nhà điêu khắc <a class="extiw" href="http://en.wikipedia.org/wiki/Antonio_Berti_(sculptor)" title="wikipedia:Antonio Berti (sculptor)">Antonio Berti</a>. Khi trở về Hoa Kỳ, cuối cùng cô làm việc cho [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md).<sup id="cite_ref-blackgate_1-2" class="reference"><a href="#cite_note-blackgate-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

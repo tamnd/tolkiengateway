@@ -36,7 +36,7 @@ Diễn viên người Mỹ **James Horan** ([14 tháng 12](../_/14_December.md),
 - [2006](../_/2006.md) - *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)* - [Boromir](../B/Boromir.md)
 - [2004](../_/2004.md) - *[The Lord of the Rings: The Battle for Middle-earth](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)* - Boromir
 - [2003](../_/2003.md) - *[The Hobbit](<../T/The_Hobbit_(2003_video_game).md>)* - [Smaug](../S/Smaug.md), các giọng nói bổ sung
-- [2002](../_/2002.md) - *[The Lord of the Rings: The Fellowship of the Ring](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)* - Boromir, [Gimli](../G/Gimli.md) và [Farmer Maggot](../F/Farmer_Maggot.md).
+- [2002](../_/2002.md) - *[The Lord of the Rings: The Fellowship of the Ring](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)* - Boromir, [Gimli](../G/Gimli.md) và [Nông dân Maggot](../F/Farmer_Maggot.md).
 
 ## Liên kết ngoài {#External_links}
 

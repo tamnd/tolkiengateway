@@ -20,7 +20,7 @@ sort_keys:
 
 **George Hosato Takei Altman** ([20 tháng 4](../_/20_April.md) [1937](../_/1937.md)) là một diễn viên người Mỹ, được biết đến nhiều nhất với vai <a class="external text" href="http://memory-alpha.org/en/wiki/Hikaru_Sulu" rel="noreferrer noopener" target="_blank">Mr. Sulu</a> từ nhượng quyền thương mại *Star Trek*, trong đó anh đóng chung với [Leonard Nimoy](../L/Leonard_Nimoy.md).
 
-Trong [1991](../_/1991.md), nhạc trưởng David Warble đã yêu cầu Takei tường thuật phần *[Symphony No. 1, "The Lord of the Rings"](../S/Symphony_No._1,_%2522The_Lord_of_the_Rings%2522.md)*của [Johan de Meij](../J/Johan_de_Meij.md). Vì tò mò và ngưỡng mộ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*nên Takei đã đồng ý. Vở diễn được công chiếu lần đầu vào mùa Thu năm 1991 tại <a class="extiw" href="http://en.wikipedia.org/wiki/Orange_County_Performing_Arts_Center" title="wikipedia:Orange County Performing Arts Center">Trung tâm Biểu diễn Nghệ thuật Quận Cam</a>và kể từ đó đã được biểu diễn ở nhiều nơi trên thế giới.
+Trong [1991](../_/1991.md), nhạc trưởng David Warble đã yêu cầu Takei tường thuật phần *[Symphony No. 1, "The Lord of the Rings"](../S/Symphony_No._1,_%2522The_Lord_of_the_Rings%2522.md)*của [Johan de Meij](../J/Johan_de_Meij.md). Vì tò mò và ngưỡng mộ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* nên Takei đã đồng ý. Vở diễn được công chiếu lần đầu vào mùa Thu năm 1991 tại <a class="extiw" href="http://en.wikipedia.org/wiki/Orange_County_Performing_Arts_Center" title="wikipedia:Orange County Performing Arts Center">Trung tâm Biểu diễn Nghệ thuật Quận Cam</a>và kể từ đó đã được biểu diễn ở nhiều nơi trên thế giới.
 
 ## Liên kết ngoài {#External_links}
 

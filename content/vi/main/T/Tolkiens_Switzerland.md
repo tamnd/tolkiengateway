@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien's Switzerland: A Biography of One Special Summer"
 ---
 
-Chuyển hướng đến Thụy Sĩ của [Tolkien: Tiểu sử về một mùa hè đặc biệt](Tolkien's_Switzerland%253A_A_Biography_of_One_Special_Summer.md).
+Chuyển hướng đến [Tolkien's Switzerland: A Biography of One Special Summer](Tolkien's_Switzerland%253A_A_Biography_of_One_Special_Summer.md).

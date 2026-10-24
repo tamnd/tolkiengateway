@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Engstad, Per Arne"
 ---
 
-**Per Arne Engstad** là nhà thiết kế trò chơi người Na Uy. Anh ấy đã dịch Text-Adventure *[Ringen](../R/Ringen.md)* sang tiếng Anh và chuyển nó thành phần mềm MUD (*[VikingMUD](../V/VikingMUD.md)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và *[Genesis](../G/Genesis.md)*).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Per Arne Engstad** là nhà thiết kế trò chơi người Na Uy. Ông đã dịch Text-Adventure *[Ringen](../R/Ringen.md)* sang tiếng Anh và chuyển nó thành phần mềm MUD (*[VikingMUD](../V/VikingMUD.md)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và *[Genesis](../G/Genesis.md)*).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

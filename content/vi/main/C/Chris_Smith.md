@@ -25,11 +25,11 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Chris_Smith"
 ---
 
-**Chris Smith** ([1964](../_/1964.md)) là biên tập viên [Tolkien](../J/J.R.R._Tolkien.md) của [HarperCollins](../H/HarperCollins.md), kể từ [1999](../_/1999.md). Ông đã biên tập một số cuốn sách về các bộ phim của [Peter Jackson](<../T/The_Lord_of_the_Rings_(film_series).md>) của [Gary Russell](../G/Gary_Russell.md) và [Jude Fisher](../J/Jude_Fisher.md), nhưng nổi tiếng nhất là *[The Lord of the Rings: Weapons and Warfare](../T/The_Lord_of_the_Rings%253A_Weapons_and_Warfare.md)*, một cuốn sách chứa rất nhiều thông tin về vũ khí được sử dụng trong các bộ phim của [Peter Jackson](../P/Peter_Jackson.md).
+**Chris Smith** ([1964](../_/1964.md)) là biên tập viên [Tolkien](../J/J.R.R._Tolkien.md) của [HarperCollins](../H/HarperCollins.md), kể từ [1999](../_/1999.md). Ông đã biên tập một số cuốn sách về [phim của Peter Jackson](<../T/The_Lord_of_the_Rings_(film_series).md>) của [Gary Russell](../G/Gary_Russell.md) và [Jude Fisher](../J/Jude_Fisher.md), nhưng nổi tiếng nhất với *[The Lord of the Rings: Weapons and Warfare](../T/The_Lord_of_the_Rings%253A_Weapons_and_Warfare.md)*, cuốn sách chứa nhiều thông tin về vũ khí được sử dụng trong phim của [Peter Jackson](../P/Peter_Jackson.md).
 
 ## Thư mục {#Bibliography}
 
-- [2003](../_/2003.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_A_Filmmaking_Journey&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: A Filmmaking Journey (page does not exist)">The Lord of the Rings: Hành trình làm phim</a></i>
+- [2003](../_/2003.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_A_Filmmaking_Journey&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: A Filmmaking Journey (page does not exist)">Chúa tể của những chiếc nhẫn: Hành trình làm phim</a></i>
 - [2003](../_/2003.md): *[The Lord of the Rings: Weapons and Warfare](../T/The_Lord_of_the_Rings%253A_Weapons_and_Warfare.md)*
 
 ## Liên kết ngoài {#External_links}

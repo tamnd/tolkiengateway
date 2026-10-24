@@ -15,11 +15,11 @@ sort_keys:
   "Quenya nouns": "Nore"
 ---
 
-<i><b>nóre</b></i> (hoặc *nōre*) là từ [Quenya](../Q/Quenya.md) dùng để chỉ "'đất' gắn liền với một dân tộc cụ thể".<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup><sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
+<i><b>nóre</b></i> (hoặc *nōre*) là một từ [Quenya](../Q/Quenya.md) dùng để chỉ "'vùng đất' gắn liền với một dân tộc cụ thể".<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup><sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
 
 Ban đầu nó có nghĩa là "người", nhưng nó bị pha trộn và nhầm lẫn với gốc khá rõ ràng *ndor* "đất khô" (cf. [Sindarin](../S/Sindarin.md) *[dôr](../D/Dôr.md)*)<sup id="cite_ref-elem_3-0" class="reference"><a href="#cite_note-elem-3">[3]</a></sup> và các dạng hậu tố *-nórë*, *-ndórë* hoặc *-dórë* cũng được rút ngắn thành *-or*.
 
-Trong bản thảo ban đầu, [*Etymologies*](../T/The_Etymologies.md), Quenya *nóre* được hiểu là "đất nước, đất đai, chủng tộc".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong bản thảo ban đầu [*Etymologies*](../T/The_Etymologies.md), Quenya *nóre* được hiểu là "đất nước, vùng đất, chủng tộc".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -27,14 +27,14 @@ Trong bản thảo ban đầu, [*Etymologies*](../T/The_Etymologies.md), Quenya 
 
 ## Ví dụ {#Examples}
 
-- [Númenor](Númenor.md) = *Númen(n)órë* ("người của Phương Tây") và *Númendor* ("đất của Phương Tây")<sup id="cite_ref-elem_3-1" class="reference"><a href="#cite_note-elem-3">[3]</a></sup>
+- [Númenor](Númenor.md) = *Númen(n)órë* ("người miền Tây") và *Númendor* ("đất miền Tây")<sup id="cite_ref-elem_3-1" class="reference"><a href="#cite_note-elem-3">[3]</a></sup>
 - [Valinor](../V/Valinor.md) = *Valinórë* (đúng là "người dân của Valar") và *Valandor* ("vùng đất của Valar")<sup id="cite_ref-elem_3-2" class="reference"><a href="#cite_note-elem-3">[3]</a></sup>
 
 - Mặt khác, *Endórë, [Endor](../E/Endor.md)* = ENED + NDOR<sup id="cite_ref-elem_3-3" class="reference"><a href="#cite_note-elem-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- Sindarin *[dôr](../D/Dôr.md)*
+- Tiếng Sindarin *[dôr](../D/Dôr.md)*
 
 <span></span>
 

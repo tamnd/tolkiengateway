@@ -27,8 +27,8 @@ images:
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../P/Porter.md" title="Porter">Porter</a>, <i><a href="../L/Leaf_by_Niggle.md" title="Leaf by Niggle">Leaf by Niggle</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Giáo xứ của Niggle** là tên của khu vực mà [Niggle](Niggle.md) và [Mr. Parish](../M/Mr._Parish.md) đã xuất hiện trong truyện ngắn *[Leaf by Niggle](../L/Leaf_by_Niggle.md)*của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+**Giáo xứ của Niggle** là tên của khu vực mà [Niggle](Niggle.md) và [Mr. Parish](../M/Mr._Parish.md) xuất hiện trong truyện ngắn *[Leaf by Niggle](../L/Leaf_by_Niggle.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Lịch sử {#History}
 
-Sau khi Niggle bị giam giữ tại [Bệnh xá Workhouse](../W/Workhouse_Infirmary.md), Giọng nói thứ hai coi khu vực của Niggle là địa điểm nghỉ dưỡng hoàn hảo và quyết định rằng họ sẽ gửi thêm người đến đó. The First Voice đề xuất rằng họ phải đặt tên cho khu vực. Tuy nhiên, Giọng nói thứ hai khẳng định rằng Porter đã giải quyết vấn đề này được một thời gian. Khi anh ta thông báo về chuyến tàu đến vịnh, Giọng nói thứ hai cho biết rằng một tin nhắn đã được gửi đến Niggle và ông Parish để xem họ nghĩ gì về cái tên này. Giọng nói thứ nhất ép Giọng nói thứ hai nói ra những gì họ nghĩ, và Giọng nói thứ hai nói rằng, "Cả hai đều cười. Cười—tiếng Dãy Núi vang lên cùng với nó!".
+Sau khi Niggle bị giam giữ tại [Bệnh xá Workhouse](../W/Workhouse_Infirmary.md), Giọng nói thứ hai coi khu vực của Niggle là địa điểm nghỉ dưỡng hoàn hảo và quyết định rằng họ sẽ gửi thêm người đến đó. The First Voice đề xuất rằng họ phải đặt tên cho khu vực. Tuy nhiên, Giọng nói thứ hai khẳng định rằng Porter đã giải quyết vấn đề này được một thời gian. Khi ông ta thông báo về chuyến tàu đến vịnh, Giọng nói thứ hai cho biết rằng một tin nhắn đã được gửi đến Niggle và ông Parish để xem họ nghĩ gì về cái tên này. Giọng nói thứ nhất ép Giọng nói thứ hai nói ra những gì họ nghĩ, và Giọng nói thứ hai nói rằng, "Cả hai đều cười. Cười - Núi vang lên theo nó!".

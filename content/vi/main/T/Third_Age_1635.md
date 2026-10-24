@@ -21,12 +21,12 @@ langlinks:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1632.md" title="Third Age 1632">1632</a><a href="Third_Age_1633.md" title="Third Age 1633">1633</a><a href="Third_Age_1634.md" title="Third Age 1634">1634</a><a class="mw-selflink selflink">1635</a><a href="Third_Age_1636.md" title="Third Age 1636">1636</a><a href="Third_Age_1637.md" title="Third Age 1637">1637</a><a href="Third_Age_1640.md" title="Third Age 1640">1640</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 1635** (viết tắt là **T.A. 1635**) là năm [thứ 1635 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 1635 còn được gọi là **S.R. 35** trong [lịch Shire](../S/Shire-reckoning.md).
+**Thời đại thứ ba 1635** (viết tắt là **T.A. 1635**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1635 của [Thời đại thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba năm 1635 còn được gọi là **S.R. 35** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Đòn [Đại Dịch](../G/Great_Plague.md) đánh [Rhovanion](../R/Rhovanion.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- Vào khoảng thời gian này, [Bóng Tối](../S/Shadow.md) càng ăn sâu vào [Mirkwood](../M/Mirkwood.md), và những điều xấu xa lại xuất hiện.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Đại dịch](../G/Great_Plague.md) tấn công [Rhovanion](../R/Rhovanion.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Vào khoảng thời gian này, [Bóng tối](../S/Shadow.md) ngày càng sâu trong [Mirkwood](../M/Mirkwood.md) và những điều xấu xa lại xuất hiện.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

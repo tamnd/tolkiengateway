@@ -45,4 +45,4 @@ infobox:
 </figure></td></tr></tbody></table></article>
 </section></div></div>
 
-**Hang ổ của Shelob** là bài hát thứ mười một của *[The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md)* và là bài hát thứ mười ba của đĩa hai của *[The Lord of the Rings: The Return of the King - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).
+**Shelob's Lair** là bài hát thứ mười một của *[The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md)* và là bài hát thứ mười ba của đĩa hai của *[The Lord of the Rings: The Return of the King - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).

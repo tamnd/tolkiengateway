@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Pippin](../../main/P/Peregrin_Took.md) trong [Sagan om Ringen](<../../main/S/Sagan_om_Ringen_(1971_film).md>)
+[Pippin](../../main/P/Peregrin_Took.md) ở [Sagan om Ringen](<../../main/S/Sagan_om_Ringen_(1971_film).md>)
 
 ## Giấy phép {#Licensing}
 

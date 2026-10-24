@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hunt for the Ring"
 ---
 
-Chuyển hướng đến [Cuộc săn lùng Nhẫn](../T/The_Hunt_for_the_Ring.md).
+Chuyển hướng đến [Cuộc săn lùng chiếc nhẫn](../T/The_Hunt_for_the_Ring.md).

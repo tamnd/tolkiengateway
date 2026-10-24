@@ -27,15 +27,15 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Longlake_map.gif.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e9/J.R.R._Tolkien_-_Longlake_map.gif/300px-J.R.R._Tolkien_-_Longlake_map.gif" decoding="async" loading="lazy" width="300" height="249" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/e/e9/J.R.R._Tolkien_-_Longlake_map.gif 1.5x" data-file-width="408" data-file-height="338"/></a><figcaption>The vicinity of the Long Lake</figcaption></figure>
 
-**Long Lake** là hồ nằm ở phía nam của [Ngọn Núi Cô Đơn](Lonely_Mountain.md) và [Dale](../D/Dale.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trên bờ phía tây của nó gần cửa [Forest River](../F/Forest_River.md) là địa điểm của [Thị trấn Hồ](Lake-town.md), nơi cư trú của những người buôn bán [Người Hồ](Lake-men.md). Nó đủ rộng để bờ đối diện trông nhỏ và xa, trong khi đầu phía bắc và phía nam không thể nhìn thấy được. Nó được cấp nước bởi Forest River và [River Running](../R/River_Running.md) sau đó chảy ra khỏi Hồ qua một thác nước cao ở đầu phía nam của nó. Hai con sông lấp đầy nơi từng là thung lũng đá sâu.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Hồ Dài** là hồ nằm ở phía nam của [Núi cô đơn](Lonely_Mountain.md) và [Dale](../D/Dale.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trên bờ phía tây gần cửa [Sông Forest](../F/Forest_River.md) là địa điểm của [Thị trấn hồ](Lake-town.md), nơi sinh sống của những người buôn bán [Người hồ](Lake-men.md). Nó đủ rộng để bờ đối diện trông nhỏ và xa, trong khi đầu phía bắc và phía nam không thể nhìn thấy được. Nó được cấp nước bởi Sông Forest và [Dòng sông](../R/River_Running.md) sau đó chảy ra khỏi Hồ qua một thác nước cao ở đầu phía nam của nó. Hai con sông lấp đầy nơi từng là thung lũng đá sâu.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
-Trước khi [Người Lùn](../D/Dwarves.md) bị lưu đày khỏi [Moria](../M/Moria.md), vương quốc [Thranduil](../T/Thranduil.md) được cho là đã mở rộng đến bờ biển phía tây của Long Lake.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Sau đó, sau khi thành lập [Vương quốc dưới Núi](../K/Kingdom_under_the_Mountain.md) và thành phố [Dale](../D/Dale.md), thị trấn thương mại Thị trấn Hồ đã lớn lên gần dòng chảy của River Running. Vào [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md) hồ trở thành nơi chôn cất con rồng [Smaug](../S/Smaug.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trước khi [Người lùn](../D/Dwarves.md) bị lưu đày khỏi [Moria](../M/Moria.md), vương quốc [Thranduil](../T/Thranduil.md) được cho là đã mở rộng đến bờ phía tây của Hồ Dài.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Sau đó, sau khi thành lập [Vương quốc dưới ngọn núi](../K/Kingdom_under_the_Mountain.md) và thành phố [Dale](../D/Dale.md), thị trấn thương mại Lake-town lớn lên gần dòng chảy của dòng sông Sông Chạy. Trong [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md) hồ trở thành nơi chôn cất con rồng [Smaug](../S/Smaug.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-### Long Lake trong các bản chuyển thể {#The_Long_Lake_in_adaptations}
+### Hồ Dài trong bản chuyển thể {#The_Long_Lake_in_adaptations}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 235px">
@@ -47,7 +47,7 @@ Trước khi [Người Lùn](../D/Dwarves.md) bị lưu đày khỏi [Moria](../
 		</li>
 </ul>
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>The Long Lake was added with the <i>Strongholds of the North</i> update in 2018. The surrounding areas are set in the immediate aftermath of the <a href="../B/Battle_of_Dale.md" title="Battle of Dale">Battle of Dale</a>, with Men and Dwarves rebuilding after the siege and remnants of the <a class="mw-redirect" href="../E/Easterling.md" title="Easterling">Easterling</a> army still lurking around.</dd></dl>
 

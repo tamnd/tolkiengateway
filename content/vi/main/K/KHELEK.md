@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**KHELEK** là một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) biểu thị "băng".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+**KHELEK** là một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) có nghĩa là "băng".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 

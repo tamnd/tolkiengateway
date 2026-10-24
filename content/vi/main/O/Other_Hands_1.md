@@ -37,12 +37,12 @@ infobox:
 
 - Biên tập - [Chris Seeman](../C/Chris_Seeman.md)
 - Thư ngỏ của ICE gửi tới những người đăng ký "Những bàn tay khác" - [Peter Fenlon](../P/Peter_Fenlon.md)
-- Ngoài Kỷ Đệ Tam: Nhập vai ở mọi lứa tuổi Arda - [Anders Blixt](../A/Anders_Blixt.md)
+- Sau thời đại thứ ba: Nhập vai ở mọi lứa tuổi của Arda - [Anders Blixt](../A/Anders_Blixt.md)
 - Tham nhũng ở Trung Địa - Chris Pheby
-- Vượt ra ngoài Anduin: Rhovanion với tư cách là Biên giới phía Bắc của Gondor - [Chris Seeman](../C/Chris_Seeman.md)
-- Các lựa chọn từ cuộc thảo luận nhóm về nhập vai trong Thế giới của Tolkien- [Chris Seeman](../C/Chris_Seeman.md) (transcript)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
-- Thư mục chọn lọc của Middle-earth Role Playing (1982-1992) - [Chris Seeman](../C/Chris_Seeman.md)
-- Đánh giá sản phẩm: [River Running](<../R/River_Running_(book).md>) - [Chris Seeman](../C/Chris_Seeman.md)
+- Ngoài Anduin: Rhovanion là Biên giới phía Bắc của Gondor - [Chris Seeman](../C/Chris_Seeman.md)
+- Các lựa chọn từ cuộc thảo luận nhóm về nhập vai trong Thế giới của Tolkien - [Chris Seeman](../C/Chris_Seeman.md) (transcript)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+- Thư mục chọn lọc về nhập vai ở Trung Địa (1982-1992) - [Chris Seeman](../C/Chris_Seeman.md)
+- Đánh giá sản phẩm: [Chảy nước](<../R/River_Running_(book).md>) - [Chris Seeman](../C/Chris_Seeman.md)
 
 ## Ghi chú {#Notes}
 

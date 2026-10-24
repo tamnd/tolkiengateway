@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: The Lidless Eye Companion"
 ---
 
-Chuyển hướng tới [Trung Địa: Người bạn đồng hành với đôi mắt không mí](../M/Middle-earth%253A_The_Lidless_Eye_Companion.md).
+Chuyển hướng đến [Middle-earth: The Lidless Eye Companion](../M/Middle-earth%253A_The_Lidless_Eye_Companion.md).

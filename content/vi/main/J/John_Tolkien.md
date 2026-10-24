@@ -43,11 +43,11 @@ Cha **John Francis Reuel Tolkien** ([16 tháng 11](../_/16_November.md), [1917](
 
 John thường khó ngủ và bố anh thường đến bên giường anh kể chuyện. Một trong những câu chuyện này kể về một cậu bé tên [Carrots](../C/Carrots.md), có mái tóc đỏ và trèo "vào chiếc đồng hồ cúc cu" để thực hiện một loạt cuộc phiêu lưu kỳ lạ, và một câu chuyện có tên "[The Orgog](../T/The_Orgog.md)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Vào ngày 13 tháng 2 [1944](../_/1944.md) John Tolkien được phong làm Exorcist và Acolyte (hai chức vụ cao nhất trong các Dòng nhỏ của Giáo hội Công giáo La Mã) trong một buổi lễ tại Stonyhurst. Ngài được truyền chức linh mục vào [ngày 10 tháng 2](../_/10_February.md) [1946](../_/1946.md).
+Vào ngày 13 tháng 2 [1944](../_/1944.md) John Tolkien được phong làm Exorcist và Acolyte (hai chức vụ cao nhất trong Giáo hội Công giáo La Mã) trong một buổi lễ tại Stonyhurst. Ngài được truyền chức linh mục vào [ngày 10 tháng 2](../_/10_February.md) [1946](../_/1946.md).
 
-Từ năm 1957 đến năm 1987 John Tolkien sống ở Stoke-on-Trent. Ông viết kịch bản cho một bộ phim về cuộc đời của Đức Hồng Y Newman, được chiếu vào tháng 6 năm 1957 tại Nhà nguyện Birmingham.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Vào tháng Chín 1973, John Tolkien cử hành Thánh lễ cầu siêu cho cha mình tại Nhà thờ Thánh Anthony ở Padua, ở Oxford.
+Từ năm 1957 đến 1987 John Tolkien sống ở Stoke-on-Trent. Ông viết kịch bản cho một bộ phim về cuộc đời của Hồng y Newman, được chiếu vào tháng 6 năm 1957 tại Nhà nguyện ở Birmingham.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Vào tháng 9 năm 1973, John Tolkien cử hành Thánh lễ cầu siêu cho cha mình tại Nhà thờ Thánh Anthony ở Padua, ở Oxford.
 
-John Tolkien được chôn cất tại cùng nghĩa trang với cha mẹ anh, mộ của anh không xa mộ của họ.
+John Tolkien được chôn cất tại cùng nghĩa trang với cha mẹ ông, mộ của ông không xa mộ của họ.
 
 Anh xuất hiện chớp nhoáng trong bộ phim tiểu sử *[Tolkien](<../T/Tolkien_(film).md>)*do nam diễn viên Harry Webster thể hiện.
 
@@ -73,7 +73,7 @@ Anh xuất hiện chớp nhoáng trong bộ phim tiểu sử *[Tolkien](<../T/To
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://johntolkien.wordpress.com/" rel="noreferrer noopener" target="_blank">Cha John Tolkien Tiểu sử</a>
+- <a class="external text" href="http://johntolkien.wordpress.com/" rel="noreferrer noopener" target="_blank">Tiểu sử Cha John Tolkien</a>
 - <a class="external text" href="http://www.telegraph.co.uk/news/uknews/1313620/Lord-of-Rings-films-will-force-Tolkien-family-into-hiding.html" rel="noreferrer noopener" target="_blank">Phim Chúa tể những chiếc nhẫn sẽ buộc gia đình Tolkien phải lẩn trốn</a>
 - <a class="external text" href="http://www.thepotteries.org/people/tolkien_john.htm" rel="noreferrer noopener" target="_blank">John Tolkien</a>
 - <a class="external text" href="http://archive.thetablet.co.uk/article/9th-july-1960/20/a-chapel-at-keele" rel="noreferrer noopener" target="_blank">Nhà nguyện ở KEELE</a>

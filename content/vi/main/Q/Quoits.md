@@ -12,7 +12,7 @@ categories:
   - "Activities"
 ---
 
-**Quoits** là một trò chơi bao gồm việc ném các vòng qua một khoảng cách nhất định, cố gắng tiếp đất qua hoặc đến gần một mũi nhọn. [Bilbo Baggins](../B/Bilbo_Baggins.md) chơi trò này rất thành thạo, điều này cho thấy nó rất phổ biến trong [Hobbit](../H/Hobbits.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Quoits** là một trò chơi bao gồm việc ném các vòng qua một khoảng cách nhất định, cố gắng tiếp đất qua hoặc đến gần một mũi nhọn. [Bilbo Baggins](../B/Bilbo_Baggins.md) rất giỏi trong trò chơi này, điều này cho thấy rằng nó rất phổ biến đối với [Người Hobbit](../H/Hobbits.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

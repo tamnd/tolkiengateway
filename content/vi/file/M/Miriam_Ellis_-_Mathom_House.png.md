@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Chi tiết bức tranh "[Michel Delving vào thời Lithedays, 1390](Miriam_Ellis_-_Michel_Delving_in_the_Lithedays,_1390.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), mô tả [Ngôi nhà toán học](../../main/M/Mathom-house.md)
+Chi tiết bức tranh "[Michel Delving in the Lithedays, 1390](Miriam_Ellis_-_Michel_Delving_in_the_Lithedays,_1390.jpg.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md), mô tả [Ngôi nhà toán học](../../main/M/Mathom-house.md)
 
 ## Giấy phép {#Licensing}
 

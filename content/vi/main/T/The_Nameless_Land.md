@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Song of Ælfwine"
 ---
 
-Chuyển hướng đến [Bài hát của Ælfwine](The_Song_of_Ælfwine.md).
+Chuyển hướng tới [Bài hát của Ælfwine](The_Song_of_Ælfwine.md).

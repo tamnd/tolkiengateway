@@ -15,7 +15,7 @@ images:
   - "J.R.R._Tolkien_-_Hop_along,_my_little_friends,_up_the_Withywindle!.mp3"
 ---
 
-**Hãy nhảy lên nào các bạn nhỏ của tôi, lên Withywindle!** là một trong những bài hát được hát bởi [Tom Bombadil](../T/Tom_Bombadil.md). Anh ấy đã hát nó khi [Frodo Baggins](../F/Frodo_Baggins.md), [Sam Gamgee](../S/Sam_Gamgee.md), [Merry Brandybuck](../M/Merry_Brandybuck.md) và [Pippin Took](../P/Pippin_Took.md) đi theo anh ấy đến nhà. Anh ấy và [Goldberry](../G/Goldberry.md) đã hoàn thành nó khi các hobbit đến nhà anh ấy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Hãy nhảy lên, các bạn nhỏ của tôi, lên Withywindle!** là một trong những bài hát được hát bởi [Tom Bombadil](../T/Tom_Bombadil.md). Ông đã hát nó khi [Frodo Baggins](../F/Frodo_Baggins.md), [Sam Gamgee](../S/Sam_Gamgee.md), [Merry Brandybuck](../M/Merry_Brandybuck.md) và [Pippin Took](../P/Pippin_Took.md) đang theo ông đến nhà ông. Ông và [Goldberry](../G/Goldberry.md) đã hoàn thành nó khi các hobbit đến nhà ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bài thơ {#The_poem}
 

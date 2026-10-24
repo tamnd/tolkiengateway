@@ -14,7 +14,7 @@ categories:
   - "Third Age characters"
 ---
 
-**Naglur-Danlo** là [Orc](../O/Orc.md) của [Kirith Ungol](../C/Cirith_Ungol.md) trong bản dự thảo cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Naglur-Danlo** là một [Orc](../O/Orc.md) của [Kirith Ungol](../C/Cirith_Ungol.md) trong bản dự thảo cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

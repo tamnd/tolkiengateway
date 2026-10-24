@@ -45,14 +45,14 @@ infobox:
     - Bởi: Daniel Gabelman
 - "Dorothy L. Sayers và Người đọc sáng tạo"
     - Bởi: Chris Willerton
-- "Nỗi buồn đẹp đẽ củaTolkien"
+- "Nỗi buồn đẹp đẽ của Tolkien"
     - Bởi: Michael David Elam
 - "Sayers và cuộc thi Somersham"
     - Bởi: Martin Ferguson Smith
 - "Hai bài tiểu luận về George MacDonald," với lời giới thiệu của Daniel Gabelman
     - Bởi: G.K. Chesteron
 - "Chất lượng hay số lượng? Phản hồi cho phân tích định lượng về hành tinh Narnia của Justin Barrett"
-    - Bởi: Michael Phường<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+    - Bởi: Michael Ward<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 27</div></div><div class="template-prevnext__linkoverlay"><a href="SEVEN_27.md" title="SEVEN 27">SEVEN 27</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 28</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 29</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="SEVEN_29.md" title="SEVEN 29">SEVEN 29</a></div></div></div>
 

@@ -47,7 +47,7 @@ infobox:
 - Tajemnica Lorda Jima ("Bí mật của Chúa Jim")
 - Międzynarodowy świat Conrada
 - Nurty wczorajzego kịch
-- Uczoność a wyobraźnia w Oksfordzie ("Sự uyên bác và trí tưởng tượng trong Oxford")
+- Uczoność a wyobraźnia w Oksfordzie ("Sự uyên bác và trí tưởng tượng ở Oxford")
 
 <span></span>
 

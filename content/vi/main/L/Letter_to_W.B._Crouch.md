@@ -21,7 +21,7 @@ images:
 Vào [28 tháng 12](../_/28_December.md) [1971](../_/1971.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) gửi W.B. Crouch** (của Southern Cigar Co., <a class="extiw" href="http://en.wikipedia.org/wiki/Canford_Cliffs" title="wikipedia:Canford Cliffs">Canford Cliffs</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Poole" title="wikipedia:Poole">Poole</a>).<sup id="cite_ref-Bonhams_1-0" class="reference"><a href="#cite_note-Bonhams-1">[1]</a></sup>
 
 - **Xuất bản:** Không có.
-- **Mô tả:** Một trang, in tiêu đề, viết tay chữ ký, 8vo, c/o George Allen &amp; Unwin.
+- **Mô tả:** Một trang, tiêu đề in, thư có chữ ký viết tay, 8vo, c/o George Allen & Unwin.
 
 ## Nội dung {#Content}
 
@@ -32,7 +32,7 @@ Vào [28 tháng 12](../_/28_December.md) [1971](../_/1971.md), [J.R.R. Tolkien](
 
 ## Từ cuộc đấu giá {#From_the_auction}
 
-Thư có chữ ký ("J.R.R. Tolkien") gửi tới W.B. Crouch của Southern Cigar Co., Canford Cliffs, Poole, xin lỗi vì đã đột ngột xông vào gặp anh ấy vào thứ Hai: "Tôi đã rất vội vàng và cũng rất đau khổ. Bây giờ tôi muốn đảm bảo với bạn rằng, tôi đánh giá cao lòng tốt và phép lịch sự của bạn, và chúc các bạn thành công. Tôi rất tiếc phải ngừng giao dịch với cửa hàng thú vị của bạn và tôi hy vọng sẽ gọi điện cho bạn nếu tôi quay lại Canford Cliffs" và nói thêm rằng *Sunday Times* sẽ có một bức ảnh lớn của anh ấy vào ngày 2 tháng 1 nhân dịp sinh nhật của anh ấy. \[...\] Tolkien tổ chức sinh nhật lần thứ tám mươi của mình vào ngày 3 tháng 1 năm 1972, trích đoạn cuộc phỏng vấn với ông xuất hiện trên [*Sunday Times Colour Section* một ngày trước đó](<../T/The_Sunday_Times_Magazine_(2_January_1972).md>).<sup id="cite_ref-Bonhams_1-1" class="reference"><a href="#cite_note-Bonhams-1">[1]</a></sup>
+Thư có chữ ký ("J.R.R. Tolkien") gửi tới W.B. Crouch của Southern Cigar Co., Canford Cliffs, Poole, xin lỗi vì đã đột ngột xông vào gặp ông vào thứ Hai: "Tôi đã rất vội vàng và cũng rất đau khổ. Bây giờ tôi muốn đảm bảo với bạn rằng, tôi đánh giá cao lòng tốt và phép lịch sự của bạn, và chúc các bạn thành công. Tôi rất tiếc phải ngừng giao dịch với cửa hàng thú vị của bạn và tôi hy vọng sẽ gọi điện cho bạn nếu tôi quay lại Canford Cliffs" và nói thêm rằng *Sunday Times* sẽ có một bức ảnh lớn của ông vào ngày 2 tháng 1 nhân dịp sinh nhật của ông. \[...\] Tolkien tổ chức sinh nhật lần thứ tám mươi của mình vào ngày 3 tháng 1 năm 1972, trích đoạn cuộc phỏng vấn ông xuất hiện trên [*Sunday Times Colour Section* một ngày trước đó](<../T/The_Sunday_Times_Magazine_(2_January_1972).md>).<sup id="cite_ref-Bonhams_1-1" class="reference"><a href="#cite_note-Bonhams-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -20,5 +20,5 @@ categories:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.codemasters.com" rel="noreferrer noopener" target="_blank">Trang web chính thức</a>
-- <a class="external text" href="http://lotro.turbine.com" rel="noreferrer noopener" target="_blank">The Lord of the Rings Online</a>
+- <a class="external text" href="http://lotro.turbine.com" rel="noreferrer noopener" target="_blank">Chúa tể của những chiếc nhẫn trực tuyến</a>
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Codemasters" title="wikipedia:Codemasters">Người viết mã</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>

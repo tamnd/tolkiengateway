@@ -17,17 +17,17 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Mountain_Troll.jpg.md"><img src="https://tolkiengateway.net/w/images/5/56/John_Howe_-_Mountain_Troll.jpg" decoding="async" loading="lazy" width="244" height="342" class="mw-file-element" data-file-width="244" data-file-height="342"/></a><figcaption><a href="../J/John_Howe.md" title="John Howe">John Howe</a> - <i>Mountain Troll</i></figcaption></figure>
 
-**Quỷ núi** đã được [Sauron](../S/Sauron.md) sử dụng để sử dụng chiếc máy đập phá lớn, [Grond](<../G/Grond_(battering_ram).md>), tại [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Quỷ núi** đã được [Sauron](../S/Sauron.md) sử dụng để sử dụng cỗ máy công phá lớn, [Grond](<../G/Grond_(battering_ram).md>), tại [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Không có tài liệu nào khác đề cập đến quỷ núi trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), vì vậy không thể biết gì khác về những sinh vật này. Người ta chỉ có thể cho rằng giống [troll đồi](../T/Troll.md) này sống ở một số [ngọn núi](../../category/M/Mountains.md) của [Trung Địa](Middle-earth.md) và chúng lớn hơn [troll đồi](../H/Hill-trolls.md) hoặc một tên gọi khác của troll đồi.
+Không có tài liệu nào khác đề cập đến quỷ núi trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), vì vậy không thể biết gì khác về những sinh vật này. Người ta chỉ có thể cho rằng giống [troll](../T/Troll.md) này sống ở một số [núi](../../category/M/Mountains.md) của [Trung Địa](Middle-earth.md) và chúng lớn hơn [troll đồi](../H/Hill-trolls.md) hoặc một tên gọi khác của troll đồi.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b>1982-97: <i><a href="Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
 
 <dl><dd>Mountain Trolls are given game statistics, and said to be hostile and rock-throwing.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 
-<b>1995-8: <i><a href="Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
+<b>1995-8: <i><a href="Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
 
 <dl><dd>&#34;Trolls from the Mountains&#34; is a creature, able to inflict three strikes.</dd></dl>
 

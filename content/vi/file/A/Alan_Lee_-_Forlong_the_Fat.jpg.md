@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bản phác thảo [Forlong](../../main/F/Forlong.md) của [Alan Lee](../../main/A/Alan_Lee.md). Scan từ trang 142 của [The Lord of the Rings Sketbook](../../main/T/The_Lord_of_the_Rings_Sketchbook.md).
+Bản phác thảo [Forlong](../../main/F/Forlong.md) của [Alan Lee](../../main/A/Alan_Lee.md). Scan từ trang 142 của [The Lord of the Rings Sketchbook](../../main/T/The_Lord_of_the_Rings_Sketchbook.md).
 
 ## Giấy phép {#Licensing}
 

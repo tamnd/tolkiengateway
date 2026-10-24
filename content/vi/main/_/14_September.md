@@ -58,13 +58,13 @@ langlinks:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 14 tháng Chín.
+Sự kiện xảy ra vào ngày 14 tháng 9.
 
 ## Trên Trái đất {#On_Earth}
 
 - **[1950](1950.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 130](../L/Letter_130.md).
-- **[1957](1957.md)** - [*The Bookseller*](../T/The_Bookseller,_14_September_1957.md) báo cáo về Giải thưởng Giả tưởng Quốc tế, do Tolkien giành được.
-- **[1974](1974.md)** - [Oxonmoot](../O/Oxonmoot_1974.md) đầu tiên được tổ chức tại The tiếng Wales Pony, [Oxford](../O/Oxford.md).
+- **[1957](1957.md)** - [*The Bookseller*](../T/The_Bookseller,_14_September_1957.md) báo cáo từ Giải thưởng Giả tưởng Quốc tế do Tolkien giành được.
+- **[1974](1974.md)** - [Oxonmoot](../O/Oxonmoot_1974.md) đầu tiên được tổ chức tại The Welsh Pony, [Oxford](../O/Oxford.md).
 - **[2002](2002.md)** - [Oxonmoot 2002](../O/Oxonmoot_2002.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/St_Antony%27s_College,_Oxford" title="wikipedia:St Antony&#39;s College, Oxford">Đại học St Antony</a>.
 - **[2007](2007.md)** - [Oxonmoot 2007](../O/Oxonmoot_2007.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
 - **[2010](2010.md)** - *[The Lord of the Rings: Aragorn's Quest](../T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)* được phát hành tại Bắc Mỹ.
@@ -74,5 +74,5 @@ Sự kiện xảy ra vào ngày 14 tháng Chín.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

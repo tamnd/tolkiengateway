@@ -51,7 +51,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lego_The_Hobbit_-_The_Video_Game.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a7/Lego_The_Hobbit_-_The_Video_Game.jpg/320px-Lego_The_Hobbit_-_The_Video_Game.jpg" decoding="async" loading="lazy" width="320" height="363" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/Lego_The_Hobbit_-_The_Video_Game.jpg/480px-Lego_The_Hobbit_-_The_Video_Game.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/Lego_The_Hobbit_-_The_Video_Game.jpg/640px-Lego_The_Hobbit_-_The_Video_Game.jpg 2x" data-file-width="1409" data-file-height="1600"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Lego The Hobbit: The Video Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a href="../T/Traveller&#39;s_Tales.md" title="Traveller&#39;s Tales">Traveller&#39;s Tales</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../W/Warner_Bros._Interactive_Entertainment.md" title="Warner Bros. Interactive Entertainment">Warner Bros. Interactive Entertainment</a></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Microsoft_Windows" title="wikipedia:Microsoft Windows">Microsoft Windows</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Mac_OSX" title="wikipedia:Mac OSX">Mac OSX</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_3" title="wikipedia:PlayStation 3">PlayStation 3</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_4" title="wikipedia:PlayStation 4">PlayStation 4</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_Vita" title="wikipedia:PlayStation Vita">PlayStation Vita</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Wii_U" title="wikipedia:Wii U">Wii U</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Nintendo_3DS" title="wikipedia:Nintendo 3DS">Nintendo 3DS</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Xbox_360" title="wikipedia:Xbox 360">Xbox 360</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Xbox_One" title="wikipedia:Xbox One">Xbox One</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data">8 April 2014</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Action-adventure</td></tr></tbody></table>
 
-**Lego The Hobbit: Trò chơi điện tử** là trò chơi điện tử của [Warner Bros. Interactive Entertainment](../W/Warner_Bros._Interactive_Entertainment.md) và [Traveller's Tales](../T/Traveller's_Tales.md). Trò chơi dựa trên [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>) và được phát hành vào tháng 4 năm 2014. Trò chơi có cốt truyện của *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)* và *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*. Nội dung có thể tải xuống bao gồm *[The Hobbit: The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)* đã bị hủy vào tháng 3 năm 2015 không rõ lý do sau khi trò chơi phát hành.<sup id="cite_ref-HBTitles_1-0" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup>
+**Lego The Hobbit: The Video Game** là trò chơi điện tử của [Warner Bros. Interactive Entertainment](../W/Warner_Bros._Interactive_Entertainment.md) và [Traveller's Tales](../T/Traveller's_Tales.md). Trò chơi dựa trên [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>) và được phát hành vào tháng 4 năm 2014. Trò chơi có cốt truyện của *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)* và *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*. Nội dung có thể tải xuống bao gồm *[The Hobbit: The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)* đã bị hủy vào tháng 3 năm 2015 không rõ lý do sau khi trò chơi phát hành.<sup id="cite_ref-HBTitles_1-0" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup>
 
 ## Truyền {#Cast}
 
@@ -265,7 +265,7 @@ infobox:
 <td>
 </td></tr></tbody></table>
 
-### Sự hoang tàn của Smaug {#The_Desolation_of_Smaug}
+### Sự tàn phá của Smaug {#The_Desolation_of_Smaug}
 
 <table class="wikitable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
@@ -308,7 +308,7 @@ infobox:
 ## Xem thêm {#See_also}
 
 - [Lego](Lego.md)
-- [Lego The Lord of the Rings: Trò chơi điện tử](Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md)
+- [Lego The Lord of the Rings: The Video Game](Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md)
 
 <span></span>
 

@@ -38,13 +38,13 @@ Trò chơi cờ bàn này khác thường ở chỗ nó là một trò chơi c�
 
 ## Cách chơi {#Gameplay}
 
-Chơi trò chơi tập trung vào sự thăng tiến thông qua hàng loạt tình huống tương ứng với các cuộc phiêu lưu trong sách. Người chơi lật các ô và chơi bài để tiến về phía trước, đồng thời thu thập và sử dụng mã thông báo để tránh tiến tới Chúa tể Bóng tối [Sauron](../S/Sauron.md). Trong những tình huống nghiêm trọng, mã thông báo có thể được sử dụng để kêu gọi sự hỗ trợ của [Gandalf](../G/Gandalf.md) hoặc Chiếc nhẫn Chúa có thể được sử dụng để tăng tốc độ tiến bộ với cái giá phải trả là tiến gần hơn tới Sauron.
+Chơi trò chơi tập trung vào sự thăng tiến thông qua hàng loạt tình huống tương ứng với các cuộc phiêu lưu trong sách. Người chơi lật các ô và chơi bài để tiến về phía trước, đồng thời thu thập và sử dụng mã thông báo để tránh tiến tới Chúa tể bóng tối [Sauron](../S/Sauron.md). Trong những tình huống nghiêm trọng, thẻ có thể được sử dụng để kêu gọi sự trợ giúp của [Gandalf](../G/Gandalf.md) hoặc Chiếc nhẫn Chúa có thể được sử dụng để tăng tốc độ tiến bộ nhưng phải trả giá là tiến gần hơn về phía Sauron.
 
-Người chơi bị loại nếu ở cùng không gian với Sauron hoặc ở phía sau anh ta.
+Người chơi bị loại khi ở cùng không gian với Sauron hoặc ở phía sau ông ta.
 
 ## Gói mở rộng {#Expansion_Packs}
 
-Hiện đang tồn tại ba bản mở rộng, **[Bản mở rộng Bạn & Thù](Lord_of_the_Rings%253A_Friends_&_Foes.md)**, **[Sauron Bản mở rộng](Lord_of_the_Rings%253A_Sauron.md)**, trong đó một người chơi đóng vai Sauron và đấu với tất cả những người khác, và một bản mở rộng mới, **[Chiến trường](../T/The_Lord_of_the_Rings%253A_Battlefields.md)**. Những người chơi sử dụng các bản mở rộng thường nói rằng với mỗi bản mở rộng bạn thêm vào trò chơi chính, trò chơi càng trở nên thử thách hơn.
+Hiện đang tồn tại ba bản mở rộng, **[Bản mở rộng Bạn bè & Kẻ thù](Lord_of_the_Rings%253A_Friends_&_Foes.md)**, **[Bản mở rộng Sauron](Lord_of_the_Rings%253A_Sauron.md)**, trong đó một người chơi đóng vai Sauron và đấu với tất cả những người khác, và một bản mở rộng mới, **[Battlefields](../T/The_Lord_of_the_Rings%253A_Battlefields.md)**. Những người chơi sử dụng các bản mở rộng thường nói rằng với mỗi bản mở rộng bạn thêm vào trò chơi chính, trò chơi càng trở nên thử thách hơn.
 
 ## Phiên bản giới hạn {#Limited_Edition}
 

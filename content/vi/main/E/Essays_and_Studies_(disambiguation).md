@@ -17,7 +17,7 @@ images:
 **Bài luận và nghiên cứu** đề cập đến tạp chí *Bài luận và nghiên cứu của các thành viên Hiệp hội tiếng Anh*, sau đó được đổi thành *Loạt bài luận và nghiên cứu mới được sưu tầm cho Hiệp hội tiếng Anh*.
 
 - [*Essays and Studies* (1929)](<Essays_and_Studies_(1929).md>), có chứa "[Ancrene Wisse và Hali Meiðhad](../A/Ancrene_Wisse_and_Hali_Meiðhad.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
-- [*Essays and Studies* (1953)](<Essays_and_Studies_(1953).md>), chứa "[The Homecoming of Beorhtnoth Beorhthelm's Son](../T/The_Homecoming_of_Beorhtnoth.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+- [*Essays and Studies* (1953)](<Essays_and_Studies_(1953).md>), có chứa "[Con trai của Beorhtnoth Beorhthelm](../T/The_Homecoming_of_Beorhtnoth.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 <hr style="margin-top:15px;"/>
 

@@ -23,7 +23,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Gisbert_Kranz"
 ---
 
-**Gisbert Kranz** ([9 tháng 2](../_/9_February.md), [1921](../_/1921.md) - [3 tháng 10](../_/3_October.md), [2009](../_/2009.md)) là một nhà văn Công giáo và Anh giáo người Đức. Ông được biết đến chủ yếu nhờ các tuyển tập và bài phê bình về tiểu thuyết thiên về Cơ đốc giáo. Tại [1983](../_/1983.md), ông thành lập 'die Inklings-Gesellschaft' (Hiệp hội Inklings), chuyên nghiên cứu khoa học về [Inklings](../I/Inklings.md). 'Die Inklings-Gesellschaft' xuất bản kỷ yếu *[Jahrbuch für Literatur und Ästhetik](../I/Inklings%253A_Jahrbuch_für_Literatur_und_Ästhetik.md)* ("Đánh giá thường niên về văn học và thẩm mỹ").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Gisbert Kranz** ([9 tháng 2](../_/9_February.md), [1921](../_/1921.md) - [3 tháng 10](../_/3_October.md), [2009](../_/2009.md)) là một nhà văn Công giáo và Anh giáo người Đức. Ông được biết đến chủ yếu nhờ các tuyển tập và bài phê bình về tiểu thuyết thiên về Cơ đốc giáo. Vào [1983](../_/1983.md), ông thành lập 'die Inklings-Gesellschaft' (Hiệp hội Inklings), chuyên nghiên cứu khoa học về [Inklings](../I/Inklings.md). 'Die Inklings-Gesellschaft' xuất bản kỷ yếu *[Jahrbuch für Literatur und Ästhetik](../I/Inklings%253A_Jahrbuch_für_Literatur_und_Ästhetik.md)* ("Đánh giá thường niên về văn học và thẩm mỹ").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -34,9 +34,9 @@ langlinks:
 - [1984](../_/1984.md): *Tolkien: Leben-Werk-Wirkung: Ausstellung*
 - [1984](../_/1984.md): *Tolkien: Leben, Werk, Wirkung: Ausstellungskatalog*
 - [1987](../_/1987.md): *Systematischer Katalog der Inklings Bibliothek*
-- [1991](../_/1991.md): *The Lord of the Rings, bởi J.R.R. Tolkien*
+- [1991](../_/1991.md): *Chúa tể của những chiếc nhẫn, bởi J.R.R. Tolkien*
 - [1991](../_/1991.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kafkas_Lachen_und_andere_Schriften_zur_Literatur_1950-1990&amp;action=edit&amp;redlink=1" title="Kafkas Lachen und andere Schriften zur Literatur 1950-1990 (page does not exist)">Kafkas Lachen und and andere Schriften zur Literatur 1950-1990 mit einer Kranz-Bibliographie</a></i>
-- [1992](../_/1992.md): *Tolkien in aller Welt: Eine Ausstellung der Inklings-Gesellschaft anläßlich des 100. Geburtstags von J. R. R. Tolkien und des Internationalen Tolkien-Sympositions in Aachen*
+- [1992](../_/1992.md): *Tolkien in aller Welt: Eine Ausstellung der Inklings-Gesellschaft anläßlich des 100. Geburtstags von J. R. R. Tolkien und des Internationalen Tolkien-Symposions in Aachen*
 
 ### Bài viết {#Articles}
 
@@ -47,8 +47,8 @@ langlinks:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://die-tagespost.de/Archiv/titel_anzeige.asp?ID=34303" rel="noreferrer noopener" target="_blank">Phỏng vấn Gisbert Krantz trên Die Tagespost</a>, từ ngày 24 tháng 11 năm 2007. Cuộc phỏng vấn đề cập đến một số khía cạnh của Inklings, ví dụ: sự tương đồng giữa chủ đề *The Lord of the Rings* của Tolkien và Cơ đốc giáo.
-- <a class="external text" href="http://www.iphpbb.com/foren-archiv/8/476800/475880/kranz-gisbert-58668018-109625-287.html" rel="noreferrer noopener" target="_blank">Thư mục trên iphpbb.com</a> của hầu hết các tác phẩm của Kranz về Tolkien
+- <a class="external text" href="http://die-tagespost.de/Archiv/titel_anzeige.asp?ID=34303" rel="noreferrer noopener" target="_blank">Phỏng vấn Gisbert Krantz trên Die Tagespost</a>, từ ngày 24 tháng 11 năm 2007. Cuộc phỏng vấn đề cập đến một số khía cạnh của Inklings, ví dụ: sự tương đồng giữa *The Lord of the Rings* chủ đề của Tolkien và chủ đề Cơ đốc giáo.
+- <a class="external text" href="http://www.iphpbb.com/foren-archiv/8/476800/475880/kranz-gisbert-58668018-109625-287.html" rel="noreferrer noopener" target="_blank">Thư mục trên iphpbb.com</a> về hầu hết các tác phẩm của Kranz trên Tolkien
 
 <span></span>
 

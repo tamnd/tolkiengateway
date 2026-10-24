@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Journal of Inklings Studies"
 ---
 
-Chuyển hướng tới [Tạp chí Nghiên cứu Inklings](../T/The_Journal_of_Inklings_Studies.md).
+Chuyển hướng tới [Tạp chí Nghiên cứu về Inklings](../T/The_Journal_of_Inklings_Studies.md).

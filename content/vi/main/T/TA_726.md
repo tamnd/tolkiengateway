@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Third Age 726"
 ---
 
-Chuyển hướng tới [Kỷ Đệ Tam 726](Third_Age_726.md).
+Chuyển hướng đến [Thời đại thứ ba 726](Third_Age_726.md).

@@ -61,23 +61,23 @@ images:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 15 tháng Chín.
+Sự kiện xảy ra vào ngày 15 tháng 9
 
 ## Trên Trái đất {#On_Earth}
 
 - **[1939](1939.md)** - J.R.R. Tolkien viết [Thư 36b](../L/Letter_36b.md).
 - **[1973](1973.md)** - "[A Tribute to Tolkien](../A/A_Tribute_to_Tolkien.md)" được xuất bản bởi [Robert Murray](../R/Robert_Murray.md) trong *The Tablet*.
-- **[1974](1974.md)** - [Oxonmoot](../O/Oxonmoot_1974.md) đầu tiên được tổ chức tại The tiếng Wales Poney, [Oxford](../O/Oxford.md).
+- **[1974](1974.md)** - [Oxonmoot](../O/Oxonmoot_1974.md) đầu tiên được tổ chức tại The Welsh Poney, [Oxford](../O/Oxford.md).
 - <b><a href="1977.md" title="1977">1977</a> - <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> được xuất bản.</b>
 - **[1995](1995.md)** - [Oxonmoot 1995](../O/Oxonmoot_1995.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_College,_Oxford" title="wikipedia:University College, Oxford">Đại học Cao đẳng</a>.
 - **[2002](2002.md)** - [Oxonmoot 2002](../O/Oxonmoot_2002.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/St_Antony%27s_College,_Oxford" title="wikipedia:St Antony&#39;s College, Oxford">Đại học St Antony</a>.
 - **[2004](2004.md)** - Bản dịch tiếng Thụy Điển mới của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, do [Erik Andersson](../E/Erik_Andersson.md) thực hiện, đã được xuất bản.
 - **[2006](2006.md)** - [Oxonmoot 2006](../O/Oxonmoot_2006.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Somerville_College,_Oxford" title="wikipedia:Somerville College, Oxford">Đại học Somerville</a>.
 - **[2007](2007.md)** - [Oxonmoot 2007](../O/Oxonmoot_2007.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
-- **[2019](2019.md)** - [Oxonmoot 2019](../O/Oxonmoot_2019.md) tại <a class="external text" href="http://www.sant.ox.ac.uk" rel="noreferrer noopener" target="_blank">Đại học St Antony</a>.
+- **[2019](2019.md)** - [Oxonmoot 2019](../O/Oxonmoot_2019.md) tại <a class="external text" href="http://www.sant.ox.ac.uk" rel="noreferrer noopener" target="_blank">Trường Cao đẳng St Antony</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

@@ -17,9 +17,9 @@ sort_keys:
   "Tyalië Tyelelliéva": " "
 ---
 
-<i><b>Tyalië Tyelelliéva</b></i> là một tạp chí về ngôn ngữ học Tolkienian do [Lisa Star](../L/Lisa_Star.md) biên tập kể từ [1994](../_/1994.md). Nó xuất bản các bài thơ và văn bản khác bằng các ngôn ngữ Elvish cũng như các bài viết về ngôn ngữ và bảng chữ cái của [Trung Địa](../M/Middle-earth.md).
+<i><b>Tyalië Tyelelliéva</b></i> là một tạp chí về ngôn ngữ học Tolkienian do [Lisa Star](../L/Lisa_Star.md) biên tập kể từ [1994](../_/1994.md). Nó xuất bản các bài thơ và văn bản khác bằng ngôn ngữ Tiên cũng như các bài viết về ngôn ngữ và bảng chữ cái của [Trung Địa](../M/Middle-earth.md).
 
-Lúc đầu, nó xuất hiện ba đến bốn lần mỗi năm, nhưng sau tháng 11 [1995](../_/1995.md), các số xuất hiện bất thường hơn, khoảng hai lần mỗi năm, trước khi thời gian tạm dừng xuất bản hiện tại bắt đầu vào tháng 12 [2001](../_/2001.md). Không rõ thời gian gián đoạn này sẽ kéo dài bao lâu - dường như không ai có thể liên lạc được với cô ấy<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> - nhưng trang web chính thức đã nhận được bản cập nhật vào tháng 3 [2009](../_/2009.md).
+Lúc đầu, nó xuất hiện ba đến bốn lần mỗi năm, nhưng sau tháng 11 [1995](../_/1995.md), các số xuất hiện bất thường hơn, khoảng hai lần mỗi năm, trước khi thời gian tạm dừng xuất bản hiện tại bắt đầu vào tháng 12 [2001](../_/2001.md). Không rõ thời gian gián đoạn này sẽ kéo dài bao lâu - dường như không ai có thể liên lạc được với bà<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> - nhưng trang web chính thức đã nhận được bản cập nhật vào tháng 3 [2009](../_/2009.md).
 
 ## Vấn đề {#Issues}
 
@@ -28,7 +28,7 @@ Lúc đầu, nó xuất hiện ba đến bốn lần mỗi năm, nhưng sau thá
     - [#2](Tyalië_Tyelelliéva_2.md) xuất bản [26 tháng 10](../_/26_October.md), 20 trang
     - [#3](Tyalië_Tyelelliéva_3.md) xuất bản [29/12](../_/29_December.md), 20 trang
 - [1995](../_/1995.md)
-    - [#4](Tyalië_Tyelelliéva_4.md) xuất bản [16 tháng 2](../_/16_February.md), 28 trang, số dành riêng cho [Người Lùn](../D/Dwarves.md)
+    - [#4](Tyalië_Tyelelliéva_4.md) xuất bản [ngày 16 tháng 2](../_/16_February.md), 28 trang, số dành riêng cho [Người lùn](../D/Dwarves.md)
     - [#5](Tyalië_Tyelelliéva_5.md) xuất bản [21/4](../_/21_April.md), 28 trang
     - [#6](Tyalië_Tyelelliéva_6.md) xuất bản [8 tháng 8](../_/8_August.md), 32 trang, số dành riêng cho [Ent](../E/Ent.md)
     - [#7](Tyalië_Tyelelliéva_7.md) xuất bản [22/11](../_/22_November.md), 28 trang
@@ -43,9 +43,9 @@ Lúc đầu, nó xuất hiện ba đến bốn lần mỗi năm, nhưng sau thá
     - [#13](Tyalië_Tyelelliéva_13.md) xuất bản [ngày 3 tháng 12](../_/3_December.md), 44 trang
 - [2000](../_/2000.md)
     - [#14](Tyalië_Tyelelliéva_14.md) xuất bản [29 tháng 3](../_/29_March.md), 56 trang
-    - [#15](Tyalië_Tyelelliéva_15.md) đã xuất bản [tháng Chín 5](../_/5_September.md), 44 trang
+    - [#15](Tyalië_Tyelelliéva_15.md) xuất bản [Ngày 5 tháng 9](../_/5_September.md), 44 trang
 - [2001](../_/2001.md)
-    - [#16](Tyalië_Tyelelliéva_16.md) xuất bản [ngày 1 tháng 3](../_/1_March.md), 40 trang
+    - [#16](Tyalië_Tyelelliéva_16.md) xuất bản [Ngày 1 tháng 3](../_/1_March.md), 40 trang
     - [#17](Tyalië_Tyelelliéva_17.md) xuất bản [31 tháng 10](../_/31_October.md), 48 trang, số [Sôval Phârë](../W/Westron.md)
     - [#18](Tyalië_Tyelelliéva_18.md) xuất bản [15 tháng 12](../_/15_December.md), 72 trang
 

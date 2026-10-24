@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Return of the King: A Story of the Hobbits"
 ---
 
-Chuyển hướng đến [The Return of the King: Câu chuyện về Hobbit](The_Return_of_the_King%253A_A_Story_of_the_Hobbits.md).
+Chuyển hướng đến [The Return of the King: A Story of the Hobbits](The_Return_of_the_King%253A_A_Story_of_the_Hobbits.md).

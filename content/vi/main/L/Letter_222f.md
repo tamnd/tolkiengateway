@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien cho biết rằng anh ấy đã trải qua những rắc rối trong gia đình và anh ấy đã dành nhiều thời gian nhất có thể cho những cuốn sách mà anh ấy đang viết. Anh ấy nói rằng khoản thanh toán từ Unwin đã khiến anh ấy vui lên phần nào. Anh ấy cũng nói rằng doanh số bán *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và *[The Hobbit](../T/The_Hobbit.md)* chiếm phần lớn thu nhập mà anh ấy đang sống và điều đó có nghĩa là anh ấy có mối quan tâm "hơn cả tính nghệ thuật" đối với việc bán chúng. <br>
+Tolkien cho biết rằng ông đã trải qua những rắc rối trong gia đình và ông đang dành nhiều thời gian nhất có thể cho những cuốn sách mà ông đang viết. Ông nói rằng khoản thanh toán từ Unwin đã khiến ông vui lên phần nào. Ông cũng nói rằng doanh số bán *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và *[The Hobbit](../T/The_Hobbit.md)* chiếm phần lớn thu nhập mà ông đang sống và điều đó có nghĩa là ông có mối quan tâm "hơn cả tính nghệ thuật" đối với việc bán chúng. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

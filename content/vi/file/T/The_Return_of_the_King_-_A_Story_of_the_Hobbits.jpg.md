@@ -23,7 +23,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[The Return of the King: Câu chuyện bìa Hobbit](../../main/T/The_Return_of_the_King%253A_The_Story_of_the_Hobbits.md)
+[The Return of the King: The Story of the Hobbits](../../main/T/The_Return_of_the_King%253A_The_Story_of_the_Hobbits.md) bìa
 
 ## Giấy phép {#Licensing}
 

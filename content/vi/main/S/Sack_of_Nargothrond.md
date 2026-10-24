@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fall of Nargothrond"
 ---
 
-Chuyển hướng đến [Sự sụp đổ của Nargothrond](../F/Fall_of_Nargothrond.md).
+Chuyển hướng tới [Sự sụp đổ của Nargothrond](../F/Fall_of_Nargothrond.md).

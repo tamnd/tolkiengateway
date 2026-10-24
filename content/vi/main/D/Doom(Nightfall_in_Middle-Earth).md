@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Doom (Nightfall in Middle-Earth)"
 ---
 
-Chuyển hướng tới [Doom (Nightfall in Middle-Earth)](<Doom_(Nightfall_in_Middle-Earth).md>).
+Chuyển hướng đến [Doom (Chạng vạng ở Trung Địa)](<Doom_(Nightfall_in_Middle-Earth).md>).

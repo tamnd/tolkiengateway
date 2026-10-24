@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elves (book)"
 ---
 
-Chuyển hướng đến [Tiên tộc (sách)](<../E/Elves_(book).md>).
+Chuyển hướng đến [Yêu tinh (sách)](<../E/Elves_(book).md>).

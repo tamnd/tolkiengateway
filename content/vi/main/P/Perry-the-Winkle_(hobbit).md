@@ -30,7 +30,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Pauline_Baynes_-_Perry-the-Winkle_(fat).jpeg.md"><img src="https://tolkiengateway.net/w/images/0/03/Pauline_Baynes_-_Perry-the-Winkle_%28fat%29.jpeg" decoding="async" loading="lazy" width="148" height="126" class="mw-file-element" data-file-width="148" data-file-height="126"/></a><figcaption>Perry-the-Winkle - Illustration by <a href="Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a></figcaption></figure>
 
-**Perry-the-Winkle** là [Hobbit](../H/Hobbit.md) của [Michel Delving](../M/Michel_Delving.md), và là nhân vật chính của bài thơ hobbit *[Perry-the-Winkle](Perry-the-Winkle.md)*.
+**Perry-the-Winkle** là một [Hobbit](../H/Hobbit.md) của [Michel Delving](../M/Michel_Delving.md), và là nhân vật chính của bài thơ hobbit *[Perry-the-Winkle](Perry-the-Winkle.md)*.
 
 Trong bài thơ, Perry là người hobbit duy nhất đối xử tử tế với [Quỷ cô đơn](../L/Lonely_Troll.md), và ở anh, Quỷ lùn đã tìm thấy người bạn mà nó hằng mong muốn; Troll thường cho anh ăn và dạy anh nấu ăn giỏi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

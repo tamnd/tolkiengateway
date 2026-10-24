@@ -31,9 +31,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Các nhà xuất bản đã thay đổi thiết kế của chiếc áo khoác chống bụi cho *The Lord of the Rings* do Tolkien phản đối trong [Thư 146](Letter_146.md). Tolkien đã nhận được bản sao trước của anh ấy một ngày trước đó, gọi đó là một khoảnh khắc tuyệt vời và nói rằng cuốn sách thực sự rất đẹp. Chiếc áo khoác mới anh thấy đã cải tiến hơn nhiều và khá nổi bật; anh ấy thích giấy màu xám và thích nó hơn các màu khác.
+Các nhà xuất bản đã thay đổi thiết kế của chiếc áo khoác chống bụi cho *The Lord of the Rings* do sự phản đối của Tolkien trong [Thư 146](Letter_146.md). Tolkien đã nhận được bản sao trước của mình một ngày trước đó, gọi đó là một khoảnh khắc tuyệt vời và nói rằng cuốn sách thực sự rất đẹp. Chiếc áo khoác mới anh thấy đã cải tiến hơn nhiều và khá nổi bật; ông thích giấy màu xám và thích nó hơn các màu khác.
 
-Tuy nhiên, các mẫu áo khoác dành cho [II](../T/The_Two_Towers.md) và [III](../T/The_Return_of_the_King.md) khiến anh thấy rõ nhu cầu về sự khác biệt. Vì cùng một thiết bị, vì mục đích tiết kiệm, được sử dụng xuyên suốt nên chúng trông quá giống nhau. Có lẽ họ có thể thay đổi màu sắc của chữ chính, anh ấy hỏi. Anh ấy không bận tâm chút nào và để việc đó cho họ.
+Tuy nhiên, các mẫu áo khoác dành cho [II](../T/The_Two_Towers.md) và [III](../T/The_Return_of_the_King.md) khiến anh thấy rõ nhu cầu về sự khác biệt. Vì cùng một thiết bị, vì mục đích tiết kiệm, được sử dụng xuyên suốt nên chúng trông quá giống nhau. Có lẽ họ có thể thay đổi màu sắc của chữ chính, ông hỏi. Ông không bận tâm chút nào và để việc đó cho họ.
 
 <br>
 

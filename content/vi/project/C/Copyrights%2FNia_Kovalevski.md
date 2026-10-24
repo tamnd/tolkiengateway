@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kovalevski, Nia"
 ---
 
-- <b><a class="external text" href="https://www.artstation.com/antkoart" rel="noreferrer noopener" target="_blank">Nia Kovalevski</a></b> đã vui lòng cấp phép sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Nia_Kovalevski.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- <b><a class="external text" href="https://www.artstation.com/antkoart" rel="noreferrer noopener" target="_blank">Nia Kovalevski</a></b> đã vui lòng cấp phép sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Nia_Kovalevski.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 7 tháng 6 năm 2024
 - Người dùng đã nhận được quyền qua email: [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

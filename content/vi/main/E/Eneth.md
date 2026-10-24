@@ -17,10 +17,10 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Từ nguyên của từ này là tối nghĩa. Không biết liệu nó có chứa bất kỳ [Gốc](../S/Sundocarmë.md) nào liên quan đến từ [Quenya](../Q/Quenya.md) *[esse](Essë.md)*hay không.
+Từ nguyên của từ này là tối nghĩa. Không biết liệu nó có chứa bất kỳ [Gốc](../S/Sundocarmë.md) nào liên quan đến từ [Quenya](../Q/Quenya.md) *[esse](Essë.md)* hay không.
 
-Lưu ý rằng động từ "đặt tên" trong Sindarin là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Esta-&amp;action=edit&amp;redlink=1" title="Esta- (page does not exist)">esta-</a></i>.
+Lưu ý rằng động từ "đặt tên" trong tiếng Sindarin là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Esta-&amp;action=edit&amp;redlink=1" title="Esta- (page does not exist)">esta-</a></i>.
 
 ## Tài liệu tham khảo {#References}
 
-- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Từ điển Sindarin của Hiswelókë</a> được biên soạn bởi [Didier Willis](../D/Didier_Willis.md)
+- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Từ điển Sindarin của Hiswelókë</a> do [Didier Willis biên soạn](../D/Didier_Willis.md)

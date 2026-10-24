@@ -17,7 +17,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J._A._Bayona.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6f/J._A._Bayona.jpg/200px-J._A._Bayona.jpg" decoding="async" loading="lazy" width="200" height="258" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6f/J._A._Bayona.jpg/300px-J._A._Bayona.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/6f/J._A._Bayona.jpg/400px-J._A._Bayona.jpg 2x" data-file-width="660" data-file-height="851"/></a><figcaption><i>J. A. Bayona</i> in 2016</figcaption></figure>
 
-**Juan Antonio García Bayona** ([9 tháng 5](../_/9_May.md), [1975](../_/1975.md)) là đạo diễn người Tây Ban Nha. Anh ấy đã đạo diễn hai tập đầu tiên của mùa đầu tiên của *[The Lord of the Rings: The Rings of Power‎](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Juan Antonio García Bayona** ([9 tháng 5](../_/9_May.md), [1975](../_/1975.md)) là đạo diễn người Tây Ban Nha. Ông đã đạo diễn hai tập đầu tiên của mùa đầu tiên của *[The Lord of the Rings: The Rings of Power‎](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

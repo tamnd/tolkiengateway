@@ -13,11 +13,11 @@ categories:
   - "Telerin nouns"
 ---
 
-**plata** là một từ [Telerin](../T/Telerin.md) có nghĩa là "bàn tay phẳng, bàn tay giơ lên ​​trên hoặc hướng về phía trước, phẳng và căng (với các ngón tay và ngón cái khép lại hoặc xòe ra). Ý nghĩa của từ này là nó là một cách nói phổ biến để nói "không có vũ khí trong tay tôi"."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**plata** là một từ [Telerin](../T/Telerin.md) có nghĩa là "bàn tay phẳng, bàn tay giơ lên ​​trên hoặc hướng về phía trước, phẳng và căng (với các ngón tay và ngón cái khép lại hoặc xòe ra). Ý nghĩa của từ này là nó là một cách nói phổ biến để nói "không có vũ khí trong tay tôi".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Nó bắt nguồn từ [Primitive Elvish](Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pal%C3%A1ta&amp;action=edit&amp;redlink=1" title="Paláta (page does not exist)">paláta</a></i> [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=PAL&amp;action=edit&amp;redlink=1" title="PAL (page does not exist)">PAL</a>
+Nó bắt nguồn từ [Tiên nguyên thủy](Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pal%C3%A1ta&amp;action=edit&amp;redlink=1" title="Paláta (page does not exist)">paláta</a></i> [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=PAL&amp;action=edit&amp;redlink=1" title="PAL (page does not exist)">PAL</a>
 
 ## Có cùng nguồn gốc {#Cognates}
 
@@ -25,7 +25,7 @@ Nó bắt nguồn từ [Primitive Elvish](Primitive_Elvish.md) <i><a class="new"
 
 ## Phiên bản khác {#Other_versions}
 
-*palata* xuất hiện dưới dạng gạch ngang của từ trong ghi chú của Tolkien. <span></span>
+*palata* xuất hiện dưới dạng gạch ngang của từ này trong ghi chú của Tolkien. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

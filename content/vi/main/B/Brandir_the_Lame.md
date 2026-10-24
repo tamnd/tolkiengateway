@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brandir"
 ---
 
-Chuyển hướng đến [Brandir](Brandir.md).
+Chuyển hướng tới [Brandir](Brandir.md).

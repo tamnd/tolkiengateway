@@ -29,11 +29,11 @@ Vào [20 tháng 7](../_/20_July.md) [1962](../_/1962.md), [J.R.R. Tolkien](../J/
 <p class="tg-quote-footer"><cite><sup id="cite_ref-G_1-2" class="reference"><a href="#cite_note-G-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
 </blockquote>
 
-Theo lời của [Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](../W/Wayne_G._Hammond.md), Tolkien cũng xin lỗi Dadlez vì "đã không trả lời sớm hơn, nhưng thư không được chuyển tiếp bất chấp sự sắp xếp của ông ấy", đồng thời viết rằng "điểm quan trọng nhất cần lưu ý với người dịch *The Hobbit* sang tiếng Tây Ban Nha là nếu ông ấy sử dụng *gnomos* cho [người lùn](../D/Dwarves.md) thì không được sử dụng nó trong cụm từ ' [yêu tinh](../E/Elves.md) hiện được gọi là [thần lùn](../G/Gnomes.md)'".<sup id="cite_ref-G_1-3" class="reference"><a href="#cite_note-G-1">[1]</a></sup>
+Theo lời của [Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](../W/Wayne_G._Hammond.md), Tolkien cũng xin lỗi Dadlez vì "đã không trả lời sớm hơn, nhưng thư đã không được chuyển tiếp bất chấp sự sắp xếp của ông" và viết rằng "điểm quan trọng nhất cần nói với người dịch *The Hobbit* sang tiếng Tây Ban Nha là nếu ông sử dụng *gnomos* cho [người lùn](../D/Dwarves.md) thì không được sử dụng nó trong cụm từ 'the [yêu tinh](../E/Elves.md) hiện được gọi là [gnomes](../G/Gnomes.md)'".<sup id="cite_ref-G_1-3" class="reference"><a href="#cite_note-G-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Thư gửi Alina Dadlez (19 tháng Chín 1962)](<Letter_to_Alina_Dadlez_(19_September_1962).md>)
+- [Thư gửi Alina Dadlez (19 tháng 9 năm 1962)](<Letter_to_Alina_Dadlez_(19_September_1962).md>)
 - [Thư 239](Letter_239.md)
 
 <span></span>

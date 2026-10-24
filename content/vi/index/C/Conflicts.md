@@ -65,7 +65,7 @@ Dưới đây là liệt kê tất cả **các cuộc chiến tranh**, **trận 
 - [Chiến tranh Phẫn nộ](../../main/W/War_of_Wrath.md) ([F.A.](../../main/F/First_Age.md) [545](../../main/F/First_Age_545.md) - [587](../../main/F/First_Age_587.md))
     - [Trận Eglarest](../../main/B/Battle_of_Eglarest.md) ([F.A.](../../main/F/First_Age.md) [545](../../main/F/First_Age_545.md))
 
-## Tuổi thứ hai {#Second_Age}
+## Kỷ Đệ Nhị {#Second_Age}
 
 - [Cuộc chiến của Tiên tộc và Sauron](../../main/W/War_of_the_Elves_and_Sauron.md) ([S.A.](../../main/S/Second_Age.md) [1693](../../main/S/Second_Age_1693.md) - [1701](../../main/S/Second_Age_1701.md))
     - [Cuộc cướp phá Eregion](../../main/S/Sack_of_Eregion.md) ([S.A.](../../main/S/Second_Age.md) [1697](../../main/S/Second_Age_1697.md))

@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Barahir](../../main/B/Barahir.md) - Minh họa bởi [Alan Lee](../../main/A/Alan_Lee.md) cho *[Beren and Lúthien](../../main/B/Beren_and_Lúthien.md)*
+[Barahir](../../main/B/Barahir.md) - Minh họa của [Alan Lee](../../main/A/Alan_Lee.md) cho *[Beren and Lúthien](../../main/B/Beren_and_Lúthien.md)*
 
 ## Giấy phép {#Licensing}
 

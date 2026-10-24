@@ -25,9 +25,9 @@ langlinks:
 
 **Britt G. Hallqvist** ([14 tháng 2](../_/14_February.md), [1914](../_/1914.md) - [20 tháng 3](../_/20_March.md), [1997](../_/1997.md)) là một tác giả và dịch giả người Thụy Điển.
 
-Trong [1962](../_/1962.md), cô đã thực hiện bản dịch tiếng Thụy Điển thứ hai cho *[The Hobbit](../T/The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)(*Bilbo - En hobbits äventyr* \["Bilbo: An Hobbit's Adventures"\]; minh họa bởi [Tove Jansson](../T/Tove_Jansson.md)).
+Trong [1962](../_/1962.md), cô đã thực hiện bản dịch tiếng Thụy Điển thứ hai cho *[The Hobbit](../T/The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) (*Bilbo - En hobbits äventyr* \["Bilbo: An Hobbit's Adventures"\]; minh họa bởi [Tove Jansson](../T/Tove_Jansson.md)).
 
-Trong [1972](../_/1972.md), cô đã dịch *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* của Tolkien(*Sagan om Smeden och stjärnan* \["The Tale of the Smith and the Star"\]).
+Trong [1972](../_/1972.md), cô đã dịch *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* của Tolkien (*Sagan om Smeden och stjärnan* \["The Tale of the Smith and the Star"\]).
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>

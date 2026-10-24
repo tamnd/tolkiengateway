@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Legolas](../../main/L/Legolas.md) bắn [Thú vật ngã](../../main/F/Fell_Beast~21258.md), với [Mặt Trăng](../../main/M/Moon.md) trên bầu trời phía sau nó. Ảnh chụp màn hình đoạn cắt cảnh cuối cùng của [*The Lord of the Rings: The Fellowship of the Ring* (trò chơi điện tử)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
+[Legolas](../../main/L/Legolas.md) bắn [Thú vật ngã](../../main/F/Fell_Beast~21258.md), với [Mặt Trăng](../../main/M/Moon.md) trên bầu trời phía sau nó. Ảnh chụp màn hình đoạn cắt cảnh cuối cùng của [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Giấy phép {#Licensing}
 

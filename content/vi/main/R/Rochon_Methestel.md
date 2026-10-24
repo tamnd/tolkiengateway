@@ -23,11 +23,11 @@ langlinks:
     url: "https://kontu.wiki/Rochon_Methestel"
 ---
 
-<i><b>Rochon Methestel</b></i> là tên của một bài hát được viết về [Borondir Udalraph](../B/Borondir.md), người được Quản gia [Cirion](../C/Cirion.md) cử đi tìm kiếm sự trợ giúp của [Éothéod](../_/Éothéod.md). Anh ta quay trở lại cùng quân [Eorl](../E/Eorl.md), nhưng không sống sót sau [Trận chiến trên Cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md).<sup id="cite_ref-Rochon_1-0" class="reference"><a href="#cite_note-Rochon-1">[1]</a></sup>
+<i><b>Rochon Methestel</b></i> là tên của một bài hát được viết về [Borondir Udalraph](../B/Borondir.md), người được Quản gia [Cirion](../C/Cirion.md) cử đi tìm kiếm sự trợ giúp của [Éothéod](../_/Éothéod.md). Ông ta quay trở lại cùng với đội quân của [Eorl](../E/Eorl.md), nhưng không sống sót sau [Trận chiến trên cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md).<sup id="cite_ref-Rochon_1-0" class="reference"><a href="#cite_note-Rochon-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Rochon Methestel* là [Sindarin](../S/Sindarin.md) dành cho "Kỵ sĩ của niềm hy vọng cuối cùng",<sup id="cite_ref-Rochon_1-1" class="reference"><a href="#cite_note-Rochon-1">[1]</a></sup> từ các yếu tố <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Rochben&amp;action=edit&amp;redlink=1" title="Rochben (page does not exist)">rochben</a></i> ("rider") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Meth&amp;action=edit&amp;redlink=1" title="Meth (page does not exist)">meth</a></i> ("cuối cùng") + *[estel](../E/Estel.md)* ("hy vọng, tin tưởng").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Rochon Methestel* là [Sindarin](../S/Sindarin.md) cho "Kỵ sĩ của niềm hy vọng cuối cùng",<sup id="cite_ref-Rochon_1-1" class="reference"><a href="#cite_note-Rochon-1">[1]</a></sup> từ các yếu tố <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Rochben&amp;action=edit&amp;redlink=1" title="Rochben (page does not exist)">rochben</a></i> ("rider") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Meth&amp;action=edit&amp;redlink=1" title="Meth (page does not exist)">meth</a></i> ("cuối cùng") + *[estel](../E/Estel.md)* ("hy vọng, tin tưởng").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

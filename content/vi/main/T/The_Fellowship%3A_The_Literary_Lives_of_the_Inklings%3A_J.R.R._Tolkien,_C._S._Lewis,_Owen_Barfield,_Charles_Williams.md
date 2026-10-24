@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Fellowship: The Literary Lives of the Inklings"
 ---
 
-Chuyển hướng đến [Hiệp hội: Cuộc đời văn học của Inklings](The_Fellowship%253A_The_Literary_Lives_of_the_Inklings.md).
+Chuyển hướng đến [The Fellowship: The Literary Lives of the Inklings](The_Fellowship%253A_The_Literary_Lives_of_the_Inklings.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Entwives"
 ---
 
-Chuyển hướng đến [Entwives](Entwives.md).
+Chuyển hướng đến [Entives](Entwives.md).

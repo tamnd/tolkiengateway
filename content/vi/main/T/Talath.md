@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>talath</b></i> là một từ [Sindarin](../S/Sindarin.md), có nghĩa là "đất bằng, đồng bằng".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>talath</b></i> là từ [Sindarin](../S/Sindarin.md), có nghĩa là "đất bằng phẳng, đồng bằng".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

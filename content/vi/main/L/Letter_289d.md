@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong bản thảo chưa gửi này, Tolkien đã chúc mừng Cha Alex Jones về việc xuất bản *[The Jerusalem Bible](../T/The_Jerusalem_Bible.md)* và ông cảm ơn ông đã ghi tên ông với tư cách là người đóng góp. Anh ấy cũng đề cập đến việc mình không thích <a class="extiw" href="http://en.wikipedia.org/wiki/Ronald_Knox" title="wikipedia:Ronald Knox">Ronald Knox</a>bản dịch Vulgate</a> của <a class="extiw" href="http://en.wikipedia.org/wiki/Knox_Bible" title="wikipedia:Knox Bible">và hỏi Jones về bản dịch trong *The Jerusalem Bible*.
+Trong bản thảo chưa gửi này, Tolkien đã chúc mừng Cha Alex Jones về việc xuất bản *[The Jerusalem Bible](../T/The_Jerusalem_Bible.md)* và ông cảm ơn ông đã ghi tên ông với tư cách là người đóng góp. Ông cũng đề cập đến việc mình không thích <a class="extiw" href="http://en.wikipedia.org/wiki/Ronald_Knox" title="wikipedia:Ronald Knox">Ronald Knox</a>bản dịch Vulgate</a> của <a class="extiw" href="http://en.wikipedia.org/wiki/Knox_Bible" title="wikipedia:Knox Bible">và hỏi Jones về bản dịch trong *The Jerusalem Bible*.
 
 <br>
 

@@ -36,7 +36,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_2020.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/04/Tolkien_Calendar_2020.jpg/320px-Tolkien_Calendar_2020.jpg" decoding="async" loading="lazy" width="320" height="321" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/04/Tolkien_Calendar_2020.jpg/480px-Tolkien_Calendar_2020.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/04/Tolkien_Calendar_2020.jpg/640px-Tolkien_Calendar_2020.jpg 2x" data-file-width="1500" data-file-height="1504"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 2020</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/5_September.md" title="5 September">5 September</a> <a href="../_/2019.md" title="2019">2019</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0-00-832773-6" title="Special:BookSources/978-0-00-832773-6">978-0-00-832773-6</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2019.md" title="Tolkien Calendar 2019">Tolkien Calendar 2019</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2021.md" title="Tolkien Calendar 2021">Tolkien Calendar 2021</a></td></tr></tbody></table>
 
-Lịch <i><b>Tolkien 2020</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [5 tháng Chín](../_/5_September.md) [2019](../_/2019.md). Nó có tác phẩm nghệ thuật của [Alan Lee](../A/Alan_Lee.md) gắn liền với việc xuất bản *[The Hobbit Sketchbook](The_Hobbit_Sketchbook.md)*.
+<i><b>Lịch Tolkien 2020</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [5 tháng 9](../_/5_September.md) [2019](../_/2019.md). Nó có tác phẩm nghệ thuật của [Alan Lee](../A/Alan_Lee.md) gắn liền với việc xuất bản *[The Hobbit Sketchbook](The_Hobbit_Sketchbook.md)*.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -47,18 +47,18 @@ Lịch <i><b>Tolkien 2020</b></i> là lịch Tolkien chính thức được xu�
 
 ## Minh họa {#Illustrations}
 
-- Tháng 1 - "[Bilbo lúc Bag End](../../file/A/Alan_Lee_-_Bilbo_at_Bag_End.jpg.md)"
-- Tháng 2 - "[Nhà trọ Rồng xanh](../../file/A/Alan_Lee_-_The_Green_Dragon_Inn.jpg.md)"
-- Tháng 3 - "[Những vùng đất cô độc](../../file/A/Alan_Lee_-_The_Lone-lands.jpg.md)"
-- Tháng 4 - "Rivendell Cầu"
-- Tháng 5 - "The Dãy Núi Sương Mù"
-- Tháng 6 - "The Warg"
-- Tháng 7 - "Wilderland"
+- Tháng 1 - "[Bilbo ở Bag End](../../file/A/Alan_Lee_-_Bilbo_at_Bag_End.jpg.md)"
+- Tháng 2 - "[Quán trọ Rồng Xanh](../../file/A/Alan_Lee_-_The_Green_Dragon_Inn.jpg.md)"
+- Tháng 3 - "[Những vùng đất cô đơn](../../file/A/Alan_Lee_-_The_Lone-lands.jpg.md)"
+- Tháng 4 - "Cầu Rivendell"
+- Tháng 5 - "Dãy núi mù sương"
+- Tháng Sáu - "Bọn Wargs"
+- Tháng 7 - "Vùng hoang dã"
 - Tháng 8 - "Mirkwood"
-- tháng Chín - "Thị trấn hồ"
-- Tháng 10 - "The Ngọn Núi Cô Đơn"
-- Tháng 11 - "Smaug Sự tráng lệ"
-- Tháng 12 - "The Trận chiến Năm Đạo quân"
+- Tháng 9 - "Thị trấn bên hồ"
+- Tháng 10 - "Núi Cô Đơn"
+- Tháng 11 - "Smaug the Magnificent"
+- Tháng 12 - "Trận chiến của năm cánh quân"
 
 ## Xem thêm {#See_also}
 

@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>naug</b></i> (số nhiều *noeg*) là một từ [Sindarin](../S/Sindarin.md), có nghĩa là "người lùn".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nói đúng thì đây là một tính từ, trong khi từ độc lập chính xác cho "Người lùn" như một chủng tộc là *[Nogoth](Nogoth.md)*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> nhưng từ *naug* có thể xuất hiện dưới dạng một thành phần trong các tên đề cập đến Người Lùn.
+<i><b>naug</b></i> (số nhiều *noeg*) là một từ [Sindarin](../S/Sindarin.md), có nghĩa là "người lùn".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nói đúng thì đây là một tính từ, trong khi từ độc lập chính xác cho "Người lùn" như một chủng tộc là *[Nogoth](Nogoth.md)*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> nhưng từ *naug* có thể xuất hiện dưới dạng một thành phần trong tên gọi chỉ Người lùn.
 
 ## Ví dụ {#Examples}
 

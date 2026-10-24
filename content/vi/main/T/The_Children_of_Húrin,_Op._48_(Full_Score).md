@@ -22,4 +22,4 @@ images:
 
 Đây là bản hòa tấu hoàn chỉnh có phần giới thiệu và tóm tắt của nhà soạn nhạc.
 
-Minh họa bìa: [TED NASMITH](Ted_Nasmith.md) ©2020 “Sự tàn sát của Glaurung"
+Minh họa bìa: [TED NASMITH](Ted_Nasmith.md) ©2020 “Sự tàn sát Glaurung"

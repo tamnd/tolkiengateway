@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cirith Ungol"
 ---
 
-Chuyển hướng đến [Cirith Ungol](../C/Cirith_Ungol.md).
+Chuyển hướng tới [Cirith Ungol](../C/Cirith_Ungol.md).

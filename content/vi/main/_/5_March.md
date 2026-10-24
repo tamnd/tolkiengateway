@@ -77,7 +77,7 @@ Sự kiện xảy ra vào ngày 5 tháng 3
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Wormtongue](../G/Gríma.md) đạt [Isengard](../I/Isengard.md) vào buổi sáng.
-    - [Théoden](../T/Théoden.md) và công ty đến [Isengard](../I/Isengard.md) vào buổi trưa. Họ có một ván đấu với [Saruman](../S/Saruman.md) và cắm trại ở [Dol Baran](../D/Dol_Baran.md).
-    - [Pippin](../P/Peregrin_Took.md) nhìn vào [Orthanc-stone](../O/Orthanc-stone.md) và một lúc sau, [có cánh Nazgûl](../N/Nazgûl.md) bay qua trại. Đáp lại, [Gandalf](../G/Gandalf.md) bắt đầu với Hobbit cho [Minas Tirith](../M/Minas_Tirith.md).
+    - [Wormtongue](../G/Gríma.md) đến [Isengard](../I/Isengard.md) vào buổi sáng.
+    - [Théoden](../T/Théoden.md) và đại đội đến [Isengard](../I/Isengard.md) vào buổi trưa. Họ có cuộc đàm phán với [Saruman](../S/Saruman.md) và cắm trại ở [Dol Baran](../D/Dol_Baran.md).
+    - [Pippin](../P/Peregrin_Took.md) nhìn vào [Orthanc-stone](../O/Orthanc-stone.md) và một thời gian ngắn sau, [Nazgûl](../N/Nazgûl.md) có cánh bay qua trại. Đáp lại, [Gandalf](../G/Gandalf.md) lên đường cùng Người Hobbit tới [Minas Tirith](../M/Minas_Tirith.md).
     - [Frodo](../F/Frodo_Baggins.md) ẩn mình trong tầm nhìn của [Morannon](../M/Morannon.md) và rời đi vào lúc hoàng hôn.

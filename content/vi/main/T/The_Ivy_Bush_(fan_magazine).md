@@ -15,9 +15,9 @@ sort_keys:
   "Fanzines": "Ivy Bush"
 ---
 
-<i><b>The Ivy Bush: A Tolkien Magazine</b></i> là tạp chí dành cho [Tolkien người hâm mộ](Tolkien_fandom.md) do Benita Prins và Rachel VanderWoude thành lập. Nó được xuất bản trực tuyến từ năm 2012 đến năm 2018.
+<i><b>The Ivy Bush: A Tolkien Magazine</b></i> là tạp chí [người hâm mộ Tolkien](Tolkien_fandom.md) do Benita Prins và Rachel VanderWoude thành lập. Nó được xuất bản trực tuyến từ năm 2012 đến năm 2018.
 
-Tạp chí có hai bài viết cho mỗi số đề cập đến tất cả các khía cạnh công việc của Tolkien, bao gồm nhưng không giới hạn ở [Trung Địa](../M/Middle-earth.md). Mỗi số báo còn có các chuyên mục như góc ngôn ngữ, thơ nguyên tác, truyện ngắn, câu đố về sách và phim. Tạp chí có xu hướng thiên về chủ nghĩa thuần túy sách.
+Tạp chí có hai bài báo cho mỗi số đề cập đến tất cả các khía cạnh trong công việc của Tolkien, bao gồm nhưng không giới hạn ở [Trung Địa](../M/Middle-earth.md). Mỗi số báo còn có các chuyên mục như góc ngôn ngữ, thơ nguyên tác, truyện ngắn, câu đố về sách và phim. Tạp chí có xu hướng thiên về chủ nghĩa thuần túy sách.
 
 <br>
 

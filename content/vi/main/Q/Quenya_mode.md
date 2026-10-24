@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tengwar/Quenya mode"
 ---
 
-Chuyển hướng sang chế độ [Tengwar/Quenya](../T/Tengwar%252FQuenya_mode.md).
+Chuyển hướng đến [chế độ Tengwar/Quenya](../T/Tengwar%252FQuenya_mode.md).

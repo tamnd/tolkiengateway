@@ -41,14 +41,14 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Phần bổ sung này thu hút các nhà thám hiểm đến Suza Sumar bí ẩn, một khu rừng nhiệt đới phát triển mạnh trên sa mạc cát. Honnin, một dân tộc ẩn náu có liên quan đến Woses của Ered Nimrais, sống giữa các thân cây lớn, thu hoạch tiền thưởng của khu rừng và nhiệt tình bảo vệ bí mật của mình. Bất chấp sự thận trọng của họ, âm mưu của Chúa tể Bóng tối có thể sớm bùng phát từ Forest of Tears để tràn ngập toàn bộ Far Harad.
+Phần bổ sung này thu hút các nhà thám hiểm đến Suza Sumar bí ẩn, một khu rừng nhiệt đới phát triển mạnh trên sa mạc cát. Honnin, một dân tộc ẩn giấu có liên quan đến Woses của Ered Nimrais, sống giữa các thân cây lớn, thu hoạch tiền thưởng của khu rừng và nhiệt tình bảo vệ bí mật của họ. Bất chấp sự thận trọng của họ, âm mưu của Chúa tể Hắc ám có thể sớm bùng phát từ Rừng Nước Mắt nhằm tràn ngập toàn bộ Far Harad.
 
-Khám phá ánh hoàng hôn rực rỡ dưới những tán cây của Rừng Nước Mắt. Giữa tiếng hót của những chú chim có bộ lông rực rỡ, một dân tộc nhỏ bé đấu tranh với những vị thần điên rồ của mình, chiến đấu để giữ nguyên truyền thống của xã hội lâu đời. Bị ám ảnh bởi bí mật, tộc Honnin gặp rắc rối bởi một linh hồn ăn thịt người săn lùng những người tôn thờ nó và một Tavari bị quyến rũ bởi Sauron lời hứa về quyền lực. Những mối nguy hiểm này đe dọa du khách đến Khu rừng nước mắt bí ẩn.
+Khám phá ánh hoàng hôn rực rỡ dưới những tán cây của Rừng Nước Mắt. Giữa tiếng hót của những chú chim có bộ lông rực rỡ, một dân tộc nhỏ bé đấu tranh với những vị thần điên rồ của mình, chiến đấu để giữ nguyên truyền thống của xã hội lâu đời. Bị ám ảnh bởi bí mật, tộc Honnin gặp rắc rối bởi một linh hồn ăn thịt người săn lùng những người tôn thờ nó và một Tavari bị quyến rũ bởi những lời hứa về quyền lực của Sauron. Những mối nguy hiểm này đe dọa du khách đến Khu rừng nước mắt bí ẩn.
 
 RỪNG TEARS chứa:
 
 - HAI BẢN ĐỒ ĐẦY MÀU: bao gồm bản đồ khu vực và bản đồ thành phố Bozisha-Dar gần đó.
-- BA CUỘC PHIÊU LƯU HẤP DẪN: đối đầu với mệnh lệnh của Tu sĩ Honnin nhằm bảo vệ bí mật của "Ngôi đền ẩn giấu"; trả thù cho cái chết của một thanh niên Haradan trong "The Tower of Birds"; và chiến đấu với một nữ thần địa phương đã cam kết Sauron phục vụ trong "Thành phố Pred".
+- BA CUỘC PHIÊU LƯU HẤP DẪN: đối đầu với mệnh lệnh của Tu sĩ Honnin nhằm bảo vệ bí mật của "Ngôi đền ẩn giấu"; trả thù cho cái chết của một thanh niên Haradan trong "The Tower of Birds"; và chiến đấu với một nữ thần địa phương cam kết phục vụ Sauron trong "The City of Pred".
 - BỐ CỤC CHI TIẾT: của tất cả các địa điểm phiêu lưu.
 - THỐNG KÊ: dành cho các linh mục và tu sĩ Honnin, quái thú của Suza Sumar và một trong những Tavari mạnh mẽ.
 

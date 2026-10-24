@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Azog"
 ---
 
-Chuyển hướng đến [Azog](../A/Azog.md).
+Chuyển hướng tới [Azog](../A/Azog.md).

@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*Tôi không nhớ có đề cập đến họ trong The Silmarillion, và ngoài việc Turgon dựng một ụ đá lên thi thể của cha anh ấy, Fingolfin, tôi không chắc Eldar đã chôn cất những người chết trong chiến tranh của họ như thế nào. Nhưng đây là Thingol tỏ lòng thành kính với những người đã ngã xuống*
+*Tôi không nhớ có đề cập đến họ trong The Silmarillion, và ngoài việc Turgon dựng một ụ đá lên thi thể của cha ông, Fingolfin, tôi không chắc Eldar đã chôn cất những người chết trong chiến tranh của họ như thế nào. Nhưng đây là Thingol tỏ lòng thành kính với những người đã ngã xuống*
 
 ## Giấy phép {#Licensing}
 

@@ -11,4 +11,4 @@ redirect_target: "Hithlum"
 redirect_fragment: "Etymology"
 ---
 
-Chuyển hướng đến [Hithlum](Hithlum.md#Etymology).
+Chuyển hướng tới [Hithlum](Hithlum.md#Etymology).

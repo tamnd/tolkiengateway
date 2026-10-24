@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: Visions of a Modern Myth"
 ---
 
-Chuyển hướng tới [Trung Địa: Tầm nhìn về một huyền thoại hiện đại](Middle-earth%253A_Visions_of_a_Modern_Myth.md).
+Chuyển hướng đến [Middle-earth: Visions of a Modern Myth](Middle-earth%253A_Visions_of_a_Modern_Myth.md).

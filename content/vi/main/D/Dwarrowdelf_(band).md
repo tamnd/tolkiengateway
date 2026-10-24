@@ -26,7 +26,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Dwarrowdelf</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Southampton, England</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">epic/atmospheric black metal</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">2017-present</td></tr><tr><th scope="row" class="tg-infobox-label">website</th><td class="tg-infobox-data"><a class="external text" href="https://dwarrowdelfuk.bandcamp.com" rel="noreferrer noopener" target="_blank">Bandcamp</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">Tom O&#39;Dell</td></tr></tbody></table>
 
-**Dwarrowdelf** là một ban nhạc black metal hoành tráng/có bầu không khí đến từ Southampton, Anh. Dự án solo của nhạc sĩ Tom O'Dell, lấy tên từ Người lùn, tên Westron của [Khazad-dûm](../K/Khazad-dûm.md) (Moria). Album năm 2018 *The Sons of Fëanor* dành một bài hát cho mỗi người trong số bảy người con trai của [Fëanor](../F/Fëanor.md).
+**Dwarrowdelf** là một ban nhạc black metal hoành tráng/có bầu không khí đến từ Southampton, Anh. Dự án solo của nhạc sĩ Tom O'Dell, lấy tên từ Dwarrowdelf, tên phương Tây của [Khazad-dûm](../K/Khazad-dûm.md) (Moria). Album năm 2018 *The Sons of Fëanor* dành một bài hát cho mỗi người trong số bảy người con trai của [Fëanor](../F/Fëanor.md).
 
 ## Thành viên {#Members}
 
@@ -36,7 +36,7 @@ infobox:
 
 - Những Sảnh Tối (EP, 2017)
 - Maedhros (Đĩa đơn, 2018)
-- Bộ các Con trai của Fëanor (Trọn bộ, 2018)
+- Những đứa con của Fëanor (Trọn bộ, 2018)
 - Ánh sáng tàn lụi (Trọn bộ, 2019)
 - Nordland (Đĩa đơn, 2019)
 - Từ Bên dưới Fells (Trọn bộ, 2019)

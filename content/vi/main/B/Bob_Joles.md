@@ -25,8 +25,8 @@ Mặc dù thành công với một số vai trò khác, Bob Joles vẫn là mộ
 ## Vai trò {#Roles}
 
 - [2011](../_/2011.md): *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* - Không xác định
-- [2009](../_/2009.md): *[The Lord of the Rings: Conquest](../T/The_Lord_of_the_Rings%253A_Conquest.md)*: [Gimli](../G/Gimli.md), [Treebeard](../T/Treebeard.md), Uruk-Hai
-- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: [Gimli](../G/Gimli.md), [Dáin Chân Sắt](../D/Dáin_Ironfoot.md), Giọng nói bổ sung
+- [2009](../_/2009.md): *[The Lord of the Rings: Conquest](../T/The_Lord_of_the_Rings%253A_Conquest.md)*: [Gimli](../G/Gimli.md), [Râu cây](../T/Treebeard.md), Uruk-Hai
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: [Gimli](../G/Gimli.md), [Dáin Ironfoot](../D/Dáin_Ironfoot.md), Giọng nói bổ sung
 - [2004](../_/2004.md): *[The Lord of the Rings: The Battle for Middle-earth](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)*: [Gimli](../G/Gimli.md), [Treebeard](../T/Treebeard.md), Giọng nói bổ sung
 
 ## Liên kết ngoài {#External_links}

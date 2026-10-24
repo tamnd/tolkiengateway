@@ -12,11 +12,11 @@ categories:
   - "Trees"
 ---
 
-**Tro tàn** là những cây cao, thẳng, màu xám phổ biến ở vùng đất phía bắc và được tìm thấy khắp nơi [Trung Địa](../M/Middle-earth.md). Những ngọn giáo của [Rohirrim](../R/Rohirrim.md) được làm từ gỗ,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> cũng như cây trượng của [Gandalf](../G/Gandalf.md).
+**Tro tàn** là những cây cao, thẳng, màu xám phổ biến ở các vùng đất phía bắc và được tìm thấy trên khắp [Trung địa](../M/Middle-earth.md). Những ngọn giáo của [Rohirrim](../R/Rohirrim.md) được làm từ gỗ của họ,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> cũng như cây trượng của [Gandalf](../G/Gandalf.md).
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Wood of the regular ash tree can be foraged by journeyman foresters in <a class="mw-redirect" href="../E/Ered_Luin.md" title="Ered Luin">Ered Luin</a>, <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a>, the <a href="../B/Barrow-downs.md" title="Barrow-downs">Barrow-downs</a>, and the <a href="../N/North_Downs.md" title="North Downs">North Downs</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Wood of the black ash tree can be foraged by master foresters in the <a href="../M/Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a>, <a href="Angmar.md" title="Angmar">Angmar</a>, and <a href="../E/Eregion.md" title="Eregion">Eregion</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Wood of the wind-swept black ash tree can be foraged by <i>Gundabad</i> foresters in the <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a>, <a href="../G/Gundabad.md" title="Gundabad">Gundabad</a>, and King&#39;s <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Wood of the wind-swept black ash tree can be foraged by <i>Umbar</i> foresters in the Ettenmoors, King&#39;s Gondor, and Outer Gondor.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 

@@ -63,15 +63,15 @@ Sự kiện xảy ra vào ngày 24 tháng 5
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1932](1932.md)** - [R.W. Chambers](../R/R.W._Chambers.md) gửi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bản sao của *[Beowulf: An Introduction to the Study of the Poem](../B/Beowulf%253A_An_Introduction_to_the_Study_of_the_Poem.md)*.
-- **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho George Burke Johnston](../L/Letter_to_George_Burke_Johnston.md).
-- **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được [phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md) về việc bầu vào ghế Oxford Thơ.
+- **[1932](1932.md)** - [R.W. Chambers](../R/R.W._Chambers.md) gửi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bản sao ghi của *[Beowulf: An Introduction to the Study of the Poem](../B/Beowulf%253A_An_Introduction_to_the_Study_of_the_Poem.md)*.
+- **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư gửi George Burke Johnston](../L/Letter_to_George_Burke_Johnston.md).
+- **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được [phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md) liên quan đến cuộc bầu cử vào ghế chủ tịch Oxford Poetry.
 - **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 350](../L/Letter_350.md).
 - **[1981](1981.md)** - Tập thứ mười hai của [bản chuyển thể phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
 - **[1992](1992.md)** - [Hiện tượng Tolkien](../T/The_Tolkien_Phenomenon.md) kết thúc ở <a class="extiw" href="http://en.wikipedia.org/wiki/Turku" title="wikipedia:Turku">Turku</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Finland" title="wikipedia:Finland">Phần Lan</a>.
 - **[1994](1994.md)** - [Inkling](../I/Inklings.md) [John Wain](../J/John_Wain.md) qua đời.
 - **[2004](2004.md)** - *[Understanding The Lord of the Rings](../U/Understanding_The_Lord_of_the_Rings.md)* được xuất bản.
-- **[2014](2014.md)** - *[Beowulf Tiệc ra mắt](../B/Beowulf_Launch_Party.md) do [Hội Tolkien](../T/The_Tolkien_Society.md) và [Trung Địa Network](../M/Middle-earth_Network.md) tổ chức với sự hỗ trợ từ Tolkien Brasil và The Tolkienist.*
+- **[2014](2014.md)** - *[Tiệc ra mắt Beowulf](../B/Beowulf_Launch_Party.md) do [The Tolkien Society](../T/The_Tolkien_Society.md) và [Mạng lưới Trung Địa](../M/Middle-earth_Network.md) tổ chức với sự hỗ trợ của Tolkien Brasil và The Tolkienist.*
 - **[2024](2024.md)** - Trò chơi điện tử trực tuyến *[The Lord of the Rings: Heroes of Middle-earth](../T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md)* đã ngừng hoạt động trực tuyến.
 
 ## Trong Arda {#In_Arda}

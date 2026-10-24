@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fangorn (disambiguation)"
 ---
 
-Chuyển hướng đến [Fangorn (định hướng)](<Fangorn_(disambiguation).md>).
+Chuyển hướng tới [Fangorn (định hướng)](<Fangorn_(disambiguation).md>).

@@ -18,12 +18,12 @@ sort_keys:
   "Polish people": "Pudlik, Malgorzata"
 ---
 
-**Małgorzata Pudlik** là một nghệ sĩ [Tolkien](../J/J.R.R._Tolkien.md) đã minh họa nhiều cuốn lịch, bao gồm:
+**Małgorzata Pudlik** là nghệ sĩ [Tolkien](../J/J.R.R._Tolkien.md) người đã minh họa nhiều cuốn lịch, bao gồm:
 
 - [Lịch Tolkien 1991 (Ba Lan)](<../T/The_Tolkien_Calendar_1991_(Poland).md>)
-- [Lịch Tolkien năm 1992](../T/The_Tolkien_Calendar_1992.md)
+- [Lịch Tolkien 1992](../T/The_Tolkien_Calendar_1992.md)
 - [Lịch Tolkien 1993 (tiếng Ba Lan)](<../T/The_Tolkien_Calendar_1993_(Polish).md>)
 - [Lịch Tolkien 1994 (tiếng Ba Lan)](<../T/The_Tolkien_Calendar_1994_(Polish).md>)
-- [Tolkien Lịch 1995 (tiếng Ba Lan)](<../T/Tolkien_Calendar_1995_(Polish).md>)
-- [Tolkien Lịch 1996](../T/Tolkien_Calendar_1996.md)
+- [Lịch Tolkien 1995 (tiếng Ba Lan)](<../T/Tolkien_Calendar_1995_(Polish).md>)
+- [Lịch Tolkien 1996](../T/Tolkien_Calendar_1996.md)
 - [Lịch Simbelmyne 1999 (tiếng Ba Lan)](<../S/Simbelmyne_Calendar_1999_(Polish).md>)

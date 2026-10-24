@@ -73,9 +73,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../A/Avari.md" title="Avari">Avar</a> (<a href="Tatyar.md" title="Tatyar">Tatya</a>)</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tata</span></th></tr><tr><th colspan="2" class="tg-infobox-subtitle"><span><span class="tg-tengwar tg-tengwar--tengwar_telcontar"></span></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Pronunciation</th><td class="tg-infobox-data"><a href="../Q/Quenya.md" title="Quenya">Q</a>, <span title="Pronunciation in IPA" class="IPA">[ˈtata]</span></td></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data">Leader of the <a href="Tatyar.md" title="Tatyar">Tatyar</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../C/Cuiviénen.md" title="Cuiviénen">Cuiviénen</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="Tatyar.md" title="Tatyar">Tatyar</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a class="mw-redirect" href="../P/Proto-Quendian.md" title="Proto-Quendian">Proto-Quendian</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">Awoke in <a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Y.T.</a> <a href="../Y/Year_of_the_Trees_1050.md" title="Year of the Trees 1050">1050</a><br/><a href="../C/Cuiviénen.md" title="Cuiviénen">Cuiviénen</a></td></tr><tr><th scope="row" class="tg-infobox-label">Notable for</th><td class="tg-infobox-data">Being the second of the <a href="../E/Elf-fathers.md" title="Elf-fathers">Elf-fathers</a> to awake</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data">None (one of the <a class="mw-redirect" href="../F/Firstborn.md" title="Firstborn">Firstborn</a>)</td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="Tatië.md" title="Tatië">Tatië</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data">Several</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Tata.md" title="Category:Images of Tata">Images of Tata</a></td></tr></tbody></table>
 
-**Tata** là người thứ hai trong số ba [Tiên người cha](../E/Elf-fathers.md) thức dậy lúc [Cuiviénen](../C/Cuiviénen.md) sau [Imin](../I/Imin.md). Vợ của anh ấy là [Tatië](Tatië.md).
+**Tata** là người thứ hai trong số ba [Cha yêu tinh](../E/Elf-fathers.md) thức dậy tại [Cuiviénen](../C/Cuiviénen.md) sau [Imin](../I/Imin.md). Vợ của ông là [Tatië](Tatië.md).
 
-Khi ba Người Cha bước đi, Tata, người thứ hai thức dậy, dẫn theo nhóm thứ hai gồm 18 Tiên tộc mà ông tìm thấy. Anh ta cũng lấy nhóm thứ tư gồm 36 Tiên tộc, vì Imin từ chối, mong đợi một nhóm lớn hơn nên đã tập hợp 56 người đồng hành.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi ba Người cha bước đi, Tata, người thứ hai tỉnh dậy, dẫn theo nhóm thứ hai gồm 18 Yêu tinh mà anh tìm thấy. Ông ta cũng lấy nhóm thứ tư gồm 36 Yêu tinh, vì Imin từ chối, mong đợi một nhóm thậm chí còn lớn hơn nên đã tập hợp 56 người bạn đồng hành.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Anh trở thành người đứng đầu Clan được đặt theo tên anh [Tatyar](Tatyar.md), "Giây".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -93,7 +93,7 @@ Anh trở thành người đứng đầu Clan được đặt theo tên anh [Tat
 
 ## Xem thêm {#See_also}
 
-- [Imin](../I/Imin.md)
+- [Tôi](../I/Imin.md)
 - [Enel](../E/Enel.md)
 
 <span></span>

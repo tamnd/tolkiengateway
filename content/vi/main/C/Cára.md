@@ -29,7 +29,7 @@ Dạng rút gọn vẫn giữ *s* là cuối cùng, nhưng một lần nữa, n�
 
 ## Phiên bản khác {#Other_versions}
 
-*[The Etymologies](../T/The_Etymologies.md)* hiển thị trường hợp hoàn nguyên: danh từ là <i>cá<b>r</b></i> và dạng biến cách <i>ca<b>s</b>i</i>. Nó thể hiện một kịch bản âm vị học rất sớm của ngôn ngữ, như được thấy trong *[Qenya Lexicon](../Q/Qenya_Lexicon.md)*. Vì *Etymologies* có kịch bản đảo ngược mới hơn nên trường hợp *cár* xuất hiện dưới dạng bất thường trong số các từ tương tự. Tolkien sau đó đã sửa lại nó để phù hợp với tình huống hiện tại của anh ấy.
+*[The Etymologies](../T/The_Etymologies.md)* hiển thị trường hợp hoàn nguyên: danh từ là <i>cá<b>r</b></i> và dạng biến cách <i>ca<b>s</b>i</i>. Nó thể hiện một kịch bản âm vị học rất sớm của ngôn ngữ, như được thấy trong *[Qenya Lexicon](../Q/Qenya_Lexicon.md)*. Vì *Etymologies* có kịch bản đảo ngược mới hơn nên trường hợp *cár* xuất hiện dưới dạng bất thường trong số các từ tương tự. Tolkien sau đó đã sửa lại nó để phù hợp với kịch bản hiện tại của mình.
 
 ## Cảm hứng {#Inspiration}
 

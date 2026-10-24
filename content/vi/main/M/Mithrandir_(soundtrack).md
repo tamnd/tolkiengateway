@@ -41,7 +41,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Mithrandir</b></i> là ca khúc thứ chín của [*Chúa tể của những chiếc nhẫn - Nhạc phim gốc*](<../T/The_Lord_Of_The_Rings_(Original_Motion_Picture_Soundtrack).md>). Nó đóng vai trò như một lời than thở cho [Gandalf](../G/Gandalf.md).
+<i><b>Mithrandir</b></i> là ca khúc thứ chín của [*Chúa tể của những chiếc nhẫn - Nhạc phim gốc*](<../T/The_Lord_Of_The_Rings_(Original_Motion_Picture_Soundtrack).md>). Nó như một lời than thở dành cho [Gandalf](../G/Gandalf.md).
 
 Nhạc được viết bởi [Leonard Rosenman](../L/Leonard_Rosenman.md), lời bài hát được viết bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mark_Fleischer&amp;action=edit&amp;redlink=1" title="Mark Fleischer (page does not exist)">Mark Fleischer</a>. Một phiên bản ngắn hơn đã làm nhạc nền cho cảnh thứ 21, "[Homage to Gandalf](../H/Homage_to_Gandalf.md)".
 

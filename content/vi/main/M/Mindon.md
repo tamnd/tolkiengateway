@@ -17,19 +17,19 @@ categories:
 
 ## Quenya {#Quenya}
 
-<i><b>mindon</b></i> là danh từ có nghĩa là "tháp cao" trong [Quenya](../Q/Quenya.md). So sánh với *[minas](Minas.md)* trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>mindon</b></i> là danh từ có nghĩa là "tòa tháp cao cả" trong [Quenya](../Q/Quenya.md). So sánh với *[minas](Minas.md)* trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ### Ví dụ {#Examples}
 
-- [Mindon Eldaliéva](Mindon_Eldaliéva.md) = "Tháp của [Eldar](../E/Eldar.md)(của chúng tôi)"
+- [Mindon Eldaliéva](Mindon_Eldaliéva.md) = "Tháp của [Eldar](../E/Eldar.md)" (của chúng tôi)
 
 ## Sindarin/Noldorin {#Sindarin/Noldorin}
 
-<i><b>mindon</b></i> có nghĩa là "ngọn đồi biệt lập ... đặc biệt là ngọn đồi có tháp canh" trong [Noldorin](../N/Noldorin.md).<sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[3]</a></sup> Rõ ràng, ý nghĩa này được giữ lại trong [Sindarin](../S/Sindarin.md) ở dạng rút gọn *min*, như [Tolkien](../J/J.R.R._Tolkien.md) đã viết trong [mục lục chưa hoàn thành](../I/Index_questions.md) của mình rằng *Min-Rimmon* có nghĩa là "đỉnh của Rimmon".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 1]</a></sup>
+<i><b>mindon</b></i> có nghĩa là "ngọn đồi biệt lập ... đặc biệt là ngọn đồi có tháp canh" trong [Noldorin](../N/Noldorin.md).<sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[3]</a></sup> Rõ ràng, ý nghĩa này được giữ lại trong [Sindarin](../S/Sindarin.md) trong phần rút gọn *min*, như [Tolkien](../J/J.R.R._Tolkien.md) đã viết trong [mục lục chưa hoàn thành](../I/Index_questions.md) của mình rằng *Min-Rimmon* có nghĩa là "đỉnh của Rimmon".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 1]</a></sup>
 
 ### Từ nguyên {#Etymology}
 
-Từ [Primitive Quendian](../P/Primitive_Quendian.md) *minitunda* hoặc *minitaun*, bắt nguồn từ [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=MINI&amp;action=edit&amp;redlink=1" title="MINI (page does not exist)">MINI</a> + <a class="new" href="https://tolkiengateway.net/w/index.php?title=TUN&amp;action=edit&amp;redlink=1" title="TUN (page does not exist)">TUN</a>.<sup id="cite_ref-LR_3-1" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
+Từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) *minitunda* hoặc *minitaun*, bắt nguồn từ [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=MINI&amp;action=edit&amp;redlink=1" title="MINI (page does not exist)">MINI</a> + <a class="new" href="https://tolkiengateway.net/w/index.php?title=TUN&amp;action=edit&amp;redlink=1" title="TUN (page does not exist)">TUN</a>.<sup id="cite_ref-LR_3-1" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
 
 ### Ví dụ {#Examples_2}
 
@@ -38,7 +38,7 @@ Từ [Primitive Quendian](../P/Primitive_Quendian.md) *minitunda* hoặc *minita
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Có một chút không rõ là Hammond và Scull có hiểu ý nghĩa là Sindarin hay Tolkien thực tế đã viết như vậy trong bản thảo chưa xuất bản.</span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Có một chút không rõ liệu Hammond và Scull có hiểu ý nghĩa của Sindarin hay Tolkien thực sự đã viết như vậy trong bản thảo chưa xuất bản.</span>
 </li>
 </ol></div></span>
 

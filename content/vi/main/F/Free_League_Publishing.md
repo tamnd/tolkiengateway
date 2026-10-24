@@ -32,7 +32,7 @@ Vào ngày 11 tháng 2 năm 2021, công ty đã phát động chiến dịch Kic
 
 ## *The Lord of the Rings Roleplaying* {#The_Lord_of_the_Rings_Roleplaying}
 
-Vào [29 tháng 5](../_/29_May.md) [2023](../_/2023.md), Free League đã phát hành trò chơi [The Lord of the Rings Nhập vai](../T/The_Lord_of_the_Rings_Roleplaying.md), khác biệt với hệ thống *The One Ring* bằng cách sử dụng [Dungeons & Rồng](../D/Dungeons_and_Dragons.md) bộ quy tắc Phiên bản thứ năm thông qua Giấy phép trò chơi mở (OGL).<sup id="cite_ref-LOTR5E_4-0" class="reference"><a href="#cite_note-LOTR5E-4">[4]</a></sup>
+Vào [29 tháng 5](../_/29_May.md) [2023](../_/2023.md), Free League đã phát hành trò chơi [The Lord of the Rings Roleplaying](../T/The_Lord_of_the_Rings_Roleplaying.md), khác biệt với hệ thống *The One Ring* bằng cách sử dụng [Dungeons & Dragons](../D/Dungeons_and_Dragons.md) bộ quy tắc Phiên bản thứ năm thông qua Giấy phép trò chơi mở (OGL).<sup id="cite_ref-LOTR5E_4-0" class="reference"><a href="#cite_note-LOTR5E-4">[4]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

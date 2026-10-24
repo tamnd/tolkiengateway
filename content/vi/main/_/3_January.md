@@ -66,18 +66,18 @@ Sự kiện xảy ra vào ngày 3 tháng 1.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1892](1892.md) - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ra đời.**
-- **[1913](1913.md)** - Tolkien [liên hệ](<../L/Letter_to_Edith_Bratt_(3_January_1913).md>) [Edith Bratt](../E/Edith_Tolkien.md), người sau đó hủy hôn ước với một người đàn ông khác.
-- **[1937](1937.md)** - Diễn viên [Norman Forsey](../N/Norman_Forsey.md) ra đời.
-- **[1972](1972.md)** - [Hội Tolkien](../T/The_Tolkien_Society.md) chúc J.R.R. Tolkien sinh nhật lần thứ 80 vui vẻ tại *The Times.*
-- **[1972](1972.md)** - [Hội Tolkien](../T/The_Tolkien_Society.md) gửi Tolkien một hũ thuốc lá làm quà sinh nhật.
-- **[1992](1992.md)** - Nhân dịp kỷ niệm trăm năm Suomen Tolkien-seura ry. (Hiệp hội Tolkien Phần Lan, kể từ năm 2012 [Suomen Tolkien-seura Kontu ry.](../S/Suomen_Tolkien-seura_Kontu_ry..md), Hiệp hội Tolkien Phần Lan Kontu) được thành lập.
-- **[1993](1993.md)** - Hiệp hội [Đan Mạch Tolkien, Imladris](../I/Imladris,_Danmarks_Tolkienforening.md) được thành lập.
-- **[2001](2001.md)** - [Hiệp hội Tolkien Peru](../S/Sociedad_Tolkien_Peruana.md) được thành lập.
-- **[2014](2014.md)** - [Saul Zaentz](../S/Saul_Zaentz.md) chết.
-- **Hàng năm** - [Chúc mừng sinh nhật](../B/Birthday_Toast.md#Tolkien_Society_tradition) của [Hội Tolkien](../T/The_Tolkien_Society.md).
+- **[1892](1892.md) - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) is born.**
+- **[1913](1913.md)** - Tolkien [contacts](<../L/Letter_to_Edith_Bratt_(3_January_1913).md>) [Edith Bratt](../E/Edith_Tolkien.md), who subsequently breaks off her engagement with another man.
+- **[1937](1937.md)** - Actor [Norman Forsey](../N/Norman_Forsey.md) is born.
+- **[1972](1972.md)** - [The Tolkien Society](../T/The_Tolkien_Society.md) wishes J.R.R. Tolkien a happy 80th birthday in *The Times.*
+- **[1972](1972.md)** - [The Tolkien Society](../T/The_Tolkien_Society.md) sends Tolkien a jar of tobacco as a birthday present.
+- **[1992](1992.md)** - In the centennial year, Suomen Tolkien-seura ry. (the Finnish Tolkien Society, since 2012 [Suomen Tolkien-seura Kontu ry.](../S/Suomen_Tolkien-seura_Kontu_ry..md), the Finnish Tolkien Society Kontu) is founded.
+- **[1993](1993.md)** - The [Danish Tolkien Society, Imladris](../I/Imladris,_Danmarks_Tolkienforening.md) is founded.
+- **[2001](2001.md)** - The [Peruvian Tolkien Society](../S/Sociedad_Tolkien_Peruana.md) is founded.
+- **[2014](2014.md)** - [Saul Zaentz](../S/Saul_Zaentz.md) dies.
+- **Every year** - [The Tolkien Society](../T/The_Tolkien_Society.md)'s [Birthday Toast](../B/Birthday_Toast.md#Tolkien_Society_tradition).
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Con [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía nam dọc theo [Dãy Núi Sương Mù](../M/Misty_Mountains.md).
+    - [Hiệp hội Nhẫn thần](../F/Fellowship_of_the_Ring.md) đi về phía nam dọc theo [Dãy núi Sương mù](../M/Misty_Mountains.md).

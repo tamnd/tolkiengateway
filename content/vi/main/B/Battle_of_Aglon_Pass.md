@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of the Pass of Aglon"
 ---
 
-Chuyển hướng tới [Trận Đèo Aglon](Battle_of_the_Pass_of_Aglon.md).
+Chuyển hướng đến [Trận đèo Aglon](Battle_of_the_Pass_of_Aglon.md).

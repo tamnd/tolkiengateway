@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Deenen, Charles"
 ---
 
-**Charles Deenen** ([15 tháng 1](../_/15_January.md), [1970](../_/1970.md)) là nhạc sĩ người Hà Lan, người đã sáng tác nhạc cho [The Lord of the Rings, Vol. Tôi (PC)](<../T/The_Lord_of_the_Rings,_Vol._I_(1990_computer_game).md>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và [The Lord of the Rings, Tập. Tôi (SNES)](<../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES).md>).
+**Charles Deenen** ([15 tháng 1](../_/15_January.md), [1970](../_/1970.md)) là nhạc sĩ người Hà Lan, người đã sáng tác nhạc cho [The Lord of the Rings, Vol. I (PC)](<../T/The_Lord_of_the_Rings,_Vol._I_(1990_computer_game).md>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và [The Lord of the Rings, Vol. I (SNES)](<../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES).md>).
 
 ## Liên kết ngoài {#External_links}
 

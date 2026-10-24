@@ -24,4 +24,4 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**The Whole Experience** là nhà phát triển trò chơi điện tử độc lập ở Bắc Mỹ. Nó đã phát triển cổng Xbox của [*The Lord of the Rings: The Fellowship of the Ring* (trò chơi điện tử)](<The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
+**The Whole Experience** là nhà phát triển trò chơi điện tử độc lập ở Bắc Mỹ. Nó đã phát triển cổng Xbox của [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).

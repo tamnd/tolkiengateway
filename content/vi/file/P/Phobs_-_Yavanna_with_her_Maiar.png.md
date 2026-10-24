@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Dưới góc nhìn của người nghệ sĩ, [Yavanna](../../main/Y/Yavanna.md) được miêu tả giống như một nữ hoàng Celtic cổ điển, huyền thoại và [Maiar](../../main/M/Maiar.md) nhỏ nhắn, hiền lành như những đứa trẻ Tiên. Maiar của cô ấy không phải là loại chiến binh hiếu chiến như [Eönwë](../../main/E/Eönwë.md) hay [Sauron](../../main/S/Sauron.md).
+Dưới góc nhìn của người nghệ sĩ, [Yavanna](../../main/Y/Yavanna.md) được miêu tả giống như một nữ hoàng Celtic cổ điển, huyền thoại và [Maiar](../../main/M/Maiar.md) nhỏ nhắn, hiền lành như những đứa trẻ Tiên. Maiar của bà không phải là loại chiến binh hiếu chiến như [Eönwë](../../main/E/Eönwë.md) hay [Sauron](../../main/S/Sauron.md).
 
 ## Giấy phép {#Licensing}
 

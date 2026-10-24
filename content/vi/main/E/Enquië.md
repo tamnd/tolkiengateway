@@ -22,9 +22,9 @@ langlinks:
     url: "https://kontu.wiki/Enqui%C3%AB"
 ---
 
-<i><b>Enquië</b></i> là từ [Quenya](../Q/Quenya.md) cho *week*. Từ này bắt nguồn từ từ Quenya có nghĩa là "sáu", *[enquë](Enquë.md)*, bởi vì trong [Tính toán Rivendell](../R/Reckoning_of_Rivendell.md) tuần có sáu ngày.
+<i><b>Enquië</b></i> là từ [Quenya](../Q/Quenya.md) cho *week*. Từ này bắt nguồn từ từ Quenya có nghĩa là "sáu", *[enquë](Enquë.md)*, bởi vì trong [Tính toán Rivendell](../R/Reckoning_of_Rivendell.md) một tuần có sáu ngày.
 
-Một Elvish [yén](../Y/Yén.md) (144 [năm dương lịch](../C/Coranar.md)) chứa 8.766 câu hỏi. Việc quan sát *week* mang tính chất nghi lễ hơn là mục đích thực tế; ngày chính là Valanya, ngày cuối cùng theo thông lệ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Một Yêu tinh [yén](../Y/Yén.md) (144 [năm dương lịch](../C/Coranar.md)) chứa 8.766 người yêu cầu. Việc quan sát *week* mang tính chất nghi lễ hơn là mục đích thực tế; ngày chính là Valanya, ngày cuối cùng theo thông lệ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <table class="TGtable">
 <tbody><tr>
@@ -65,13 +65,13 @@ Một Elvish [yén](../Y/Yén.md) (144 [năm dương lịch](../C/Coranar.md)) c
 <td><a href="../V/Valar.md" title="Valar">Valar</a> or <a class="mw-redirect" href="../P/Powers.md" title="Powers">Powers</a>
 </td></tr></tbody></table>
 
-[người Númenor](../N/Númenóreans.md) đã đổi tên *Aldúya* thành *[Aldea](../A/Aldea.md)/[Orgaladh](../O/Orgaladh.md)*và chèn ngày *[Earenya](Earenya.md)/[Oraearon](../O/Oraearon.md)* dành riêng cho [ Biển](../T/The_Sea.md), dẫn đến [cách tính của họ là một tuần bảy ngày](../K/Kings'_Reckoning.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
+[Númenóreans](../N/Númenóreans.md) đã đổi tên *Aldúya* thành *[Aldea](../A/Aldea.md)/[Orgaladh](../O/Orgaladh.md)* và chèn ngày *[Earenya](Earenya.md)/[Oraearon](../O/Oraearon.md)* dành riêng cho [Biển](../T/The_Sea.md), dẫn đến một tuần có bảy ngày theo [cách tính của họ](../K/Kings'_Reckoning.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong [huyền thoại](../L/Legendarium.md) đầu tiên, Tolkien đã sử dụng từ [Qenya](../Q/Qenya.md) *[otsola](../O/Otsola.md)* (*[otso](../O/Otso.md)* "bảy") trong bảy ngày một tuần.
+Trong [huyền thoại](../L/Legendarium.md) đầu tiên, Tolkien đã sử dụng từ [Qenya](../Q/Qenya.md) *[otsola](../O/Otsola.md)* (*[otso](../O/Otso.md)* "bảy") trong một tuần bảy ngày.
 
-Sau đó, trong *[The Etymologies](../T/The_Etymologies.md)*, Tolkien đã đề cập đến một tuần năm ngày, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lemnar&amp;action=edit&amp;redlink=1" title="Lemnar (page does not exist)">lemnar</a></i> (*[lempe](../L/Lempe.md)* "năm") có lẽ đã được [Calaquendi](../C/Calaquendi.md) sử dụng trong [Valinor](../V/Valinor.md).
+Sau đó, trong *[The Etymologies](../T/The_Etymologies.md)*, Tolkien đã đề cập đến một tuần năm ngày, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lemnar&amp;action=edit&amp;redlink=1" title="Lemnar (page does not exist)">lemnar</a></i> (*[lempe](../L/Lempe.md)* "năm") có lẽ đã được [Calaquendi](../C/Calaquendi.md) ở [Valinor](../V/Valinor.md) sử dụng.
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
@@ -112,7 +112,7 @@ Sau đó, trong *[The Etymologies](../T/The_Etymologies.md)*, Tolkien đã đề
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Xét rằng <i>enquie</i> có chứa từ "sáu", nên không biết liệu người Númenor có còn sử dụng từ <i>enquie</i> cho tuần làm việc bảy ngày của họ hay không; nếu họ đưa từ mới vào thì không ghi vào <a href="../A/Appendix_D.md" title="Appendix D">Phụ lục D</a>. Tuy nhiên, hãy xem <a href="#Other_versions_of_the_legendarium">#Các phiên bản khác của truyền thuyết</a></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Xét rằng <i>enquie</i> có chứa từ "sáu", nên không biết liệu người Númenóre có còn sử dụng từ <i>enquie</i> cho tuần bảy ngày của họ hay không; nếu họ đưa từ mới vào thì không ghi vào <a href="../A/Appendix_D.md" title="Appendix D">Phụ lục D</a>. Tuy nhiên, hãy xem <a href="#Other_versions_of_the_legendarium">#Các phiên bản khác của truyền thuyết</a></span>
 </li>
 </ol></div></span>
 

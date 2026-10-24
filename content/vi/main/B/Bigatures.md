@@ -61,7 +61,7 @@ Minas Tirith được xây dựng theo tỷ lệ 1/72 và một số bộ phận
 
 [John Howe](../J/John_Howe.md) đã xem lại các bản vẽ ban đầu dựa trên các bài viết của [Tolkien](../J/J.R.R._Tolkien.md) và mô hình được xây dựng trên một đỉnh núi bằng đá thay vì trực tiếp trên một ngọn núi.
 
-- **[Helm's Deep](../H/Helm's_Deep.md)**
+- **[Mũ bảo hiểm sâu](../H/Helm's_Deep.md)**
 - **[Orthanc](../O/Orthanc.md)**
 - **[Barad-dûr](Barad-dûr.md)**
 - **[Minas Morgul](../M/Minas_Morgul.md)**

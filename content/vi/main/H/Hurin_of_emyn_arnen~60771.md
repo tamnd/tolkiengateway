@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Húrin of Emyn Arnen"
 ---
 
-Chuyển hướng tới [Húrin của Emyn Arnen](Húrin_of_Emyn_Arnen.md).
+Chuyển hướng đến [Húrin của Emyn Arnen](Húrin_of_Emyn_Arnen.md).

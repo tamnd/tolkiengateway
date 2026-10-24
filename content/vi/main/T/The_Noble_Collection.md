@@ -22,4 +22,4 @@ categories:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.noblecollection.com" rel="noreferrer noopener" target="_blank">Trang web chính thức</a>
-- <a class="external text" href="http://www.noblecollection.com/catalog/catalog.cfm?catid=17" rel="noreferrer noopener" target="_blank">Danh sách các mục liên quan đến Tolkien</a>
+- <a class="external text" href="http://www.noblecollection.com/catalog/catalog.cfm?catid=17" rel="noreferrer noopener" target="_blank">Danh sách các vật phẩm liên quan đến Tolkien</a>

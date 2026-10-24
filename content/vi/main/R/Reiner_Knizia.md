@@ -30,18 +30,18 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Reiner Knizia</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/16_November.md" title="16 November">16 November</a> <a href="../_/1957.md" title="1957">1957</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Board game designer</td></tr></tbody></table>
 
-**Reiner Knizia** (sinh [16 tháng 11](../_/16_November.md) [1957](../_/1957.md)) là nhà thiết kế trò chơi board game sinh ra ở Đức nhưng hiện sống ở Anh. Trong số rất nhiều trò chơi cờ bàn thành công trong sự nghiệp của anh ấy có nhiều trò chơi cờ bàn khác nhau dựa trên các tác phẩm của Tolkien và các bản chuyển thể của nó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Reiner Knizia** (sinh [16 tháng 11](../_/16_November.md) [1957](../_/1957.md)) là nhà thiết kế trò chơi board game sinh ra ở Đức nhưng hiện sống ở Anh. Trong số rất nhiều trò chơi cờ bàn thành công trong sự nghiệp của ông có nhiều trò chơi cờ bàn khác nhau dựa trên các tác phẩm của Tolkien và các bản chuyển thể của nó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Danh sách trò chơi chọn lọc {#Selected_list_of_games}
 
 - [2000](../_/2000.md): [Chúa tể của những chiếc nhẫn](<../L/Lord_of_the_Rings_(board_game).md>) và các bản mở rộng
 - [2003](../_/2003.md): Chúa tể của những chiếc nhẫn của [J.R.R. Tolkien](../J/J.R.R._Tolkien's_Lord_of_the_Rings.md)
-- [2005](../_/2005.md): [Chúa tể của những chiếc nhẫn: Cuộc đối đầu](../L/Lord_of_the_Rings%253A_The_Confrontation.md)
-- [2010](../_/2010.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit_(board_game)&amp;action=edit&amp;redlink=1" title="The Hobbit (board game) (page does not exist)">The Hobbit</a>
-- [2012](../_/2012.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit:_An_Unexpected_Journey_-_The_Card_Game&amp;action=edit&amp;redlink=1" title="The Hobbit: An Unexpected Journey - The Card Game (page does not exist)">The Hobbit: An Unexpected Journey - Trò chơi bài</a>
-- [2013](../_/2013.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit:_An_Unexpected_Journey_(board_game)&amp;action=edit&amp;redlink=1" title="The Hobbit: An Unexpected Journey (board game) (page does not exist)">The Hobbit: An Unexpected Journey</a>
-- [2013](../_/2013.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit:_The_Desolation_of_Smaug_(board_game)&amp;action=edit&amp;redlink=1" title="The Hobbit: The Desolation of Smaug (board game) (page does not exist)">The Hobbit: The Desolation of Smaug</a>
-- [2025](../_/2025.md): [The Hobbit: Ở đó và quay lại](../T/The_Hobbit%253A_There_and_Back_Again.md)
+- [2005](../_/2005.md): [Lord of the Rings: The Confrontation](../L/Lord_of_the_Rings%253A_The_Confrontation.md)
+- [2010](../_/2010.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit_(board_game)&amp;action=edit&amp;redlink=1" title="The Hobbit (board game) (page does not exist)">Người Hobbit</a>
+- [2012](../_/2012.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit:_An_Unexpected_Journey_-_The_Card_Game&amp;action=edit&amp;redlink=1" title="The Hobbit: An Unexpected Journey - The Card Game (page does not exist)">Người Hobbit: Hành trình bất ngờ - Trò chơi bài</a>
+- [2013](../_/2013.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit:_An_Unexpected_Journey_(board_game)&amp;action=edit&amp;redlink=1" title="The Hobbit: An Unexpected Journey (board game) (page does not exist)">Người Hobbit: Hành trình bất ngờ</a>
+- [2013](../_/2013.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit:_The_Desolation_of_Smaug_(board_game)&amp;action=edit&amp;redlink=1" title="The Hobbit: The Desolation of Smaug (board game) (page does not exist)">Người Hobbit: Sự tàn phá của Smaug</a>
+- [2025](../_/2025.md): [The Hobbit: There and Back Again](../T/The_Hobbit%253A_There_and_Back_Again.md)
 
 <span></span>
 

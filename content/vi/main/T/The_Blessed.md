@@ -14,7 +14,7 @@ sort_keys:
   "Epithets": "Blessed, The"
 ---
 
-**Người được ban phước** là một danh hiệu được áp dụng cho cả **[Tuor](Tuor.md)**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và con trai của ông **[Eärendil](../E/Eärendil.md)**.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Có lẽ nó ám chỉ cả hai, duy nhất trong số [Con Người](../M/Men.md), đã đạt đến [Aman](../A/Aman.md), 'Cõi Phúc lành'.
+**Người được ban phước** là một danh hiệu được áp dụng cho cả **[Tuor](Tuor.md)**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và con trai ông ta **[Eärendil](../E/Eärendil.md)**.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Có lẽ nó đề cập đến cả hai, duy nhất trong số [Nam giới](../M/Men.md), đã đạt đến [Aman](../A/Aman.md), 'Cõi được ban phúc'.
 
 <span></span>
 

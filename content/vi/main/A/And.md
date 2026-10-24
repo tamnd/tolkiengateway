@@ -13,7 +13,7 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>và</b></i> có nghĩa là 'dài' trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>và</b></i> có nghĩa là 'dài' trong [tiếng Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các hình thức khác {#Other_forms}
 

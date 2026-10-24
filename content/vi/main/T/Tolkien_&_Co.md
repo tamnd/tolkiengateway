@@ -13,7 +13,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Tolkien & Co** là một [Tolkien hội](Tolkien_Societies~67099.md) ở Pháp.
+**Tolkien & Co** là một [hội Tolkien](Tolkien_Societies~67099.md) ở Pháp.
 
 ## Lịch sử {#History}
 

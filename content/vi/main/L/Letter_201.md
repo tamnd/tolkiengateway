@@ -31,15 +31,15 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Vào ngày [4 tháng Chín](../_/4_September.md), đại diện của một công ty Mỹ có nhu cầu làm phim hoạt hình *Lord of the Rings* đã đến thăm Tolkien và đưa cho anh bản sao tóm tắt của bộ phim. Tolkien nói với Rayner rằng anh ấy sẽ nhận được bản sao của "Story Line" [vào thứ Hai](../_/9_September.md).
+Vào [ngày 4 tháng 9](../_/4_September.md), đại diện của một công ty Mỹ muốn làm phim hoạt hình *Lord of the Rings* đã đến thăm Tolkien và đưa cho ông bản sao tóm tắt của bộ phim. Tolkien nói với Rayner rằng ông sẽ nhận được bản sao của "Story Line" [vào thứ Hai](../_/9_September.md).
 
-Tolkien nói rằng *abridgement* câu chuyện sẽ rất thú vị, nhưng kịch bản hiện tại là một *compression* với tình tiết quá đông đúc, lộn xộn, mờ nhạt ở các cao trào và suy thoái chung. Nó quay trở lại những "câu chuyện cổ tích" thông thường, với việc mọi người phi nước đại trên [Đại Bàng](../E/Eagles.md) mà không có chút khiêu khích nào, [Lothlórien](Lothlórien.md) trở thành một lâu đài cổ tích với "những ngọn tháp tinh tế", và những thứ tương tự.
+Tolkien nói rằng *abridgement* câu chuyện sẽ rất thú vị, nhưng kịch bản hiện tại là một *compression* với tình tiết quá đông đúc, rối rắm, mờ nhạt ở các cao trào và sự suy thoái chung. Nó quay trở lại những "câu chuyện cổ tích" thông thường, với việc mọi người phi nước đại trên [Đại bàng](../E/Eagles.md) mà không có chút khiêu khích nào, [Lothlórien](Lothlórien.md) trở thành một lâu đài cổ tích với "những ngọn tháp tinh tế", và những thứ tương tự.
 
-Tuy nhiên, Tolkien cho biết anh ấy sẵn sàng chơi bóng nếu họ cởi mở với lời khuyên và nếu Rayner nghĩ rằng điều đó là chân thật và đáng giá.
+Tuy nhiên, Tolkien cho biết anh sẵn sàng chơi bóng nếu họ cởi mở với lời khuyên và nếu Rayner nghĩ rằng điều đó là chân thật và đáng giá.
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Ở hai đoạn ở giữa Tolkien phê bình cốt truyện đề xuất, cho rằng tệ về điểm và chất lượng nói chung kém. Anh ấy không hài lòng với nó theo bất kỳ cách nào. Anh ta *could* chấp nhận một phần trong số đó nếu có triển vọng thu được lợi nhuận tài chính lớn, nhưng vì không có nên tốt hơn là nó nên được thực hiện với tiêu chuẩn cao hơn.
+Trong hai đoạn ở giữa, Tolkien chỉ trích cốt truyện được đề xuất, nói rằng nó tệ về điểm và chất lượng nói chung là thấp. Ông không hài lòng với nó theo bất kỳ cách nào. Ông ta *could* chấp nhận một phần trong số đó nếu có triển vọng thu được lợi nhuận tài chính lớn, nhưng vì không có nên tốt hơn là nó nên được thực hiện với tiêu chuẩn cao hơn.
 
 <br>
 

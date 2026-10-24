@@ -45,11 +45,11 @@ langlinks:
 <li><a href="../F/Foreyule.md" title="Foreyule">Foreyule</a> (December)</li></ol>
 </td></tr></tbody></table>
 
-**Halimath** hoặc **[Harvestmath](Harvestmath.md)** vào [Bree](../B/Bree.md), là tháng thứ chín của [Lịch Shire](../S/Shire_Calendar.md), sau [Wedmath](../W/Wedmath.md) và gần tương ứng với [ngày 23 tháng 8](../_/23_August.md) đến [21 tháng Chín](../_/21_September.md) hiện đại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Halimath** hay **[Harvestmath](Harvestmath.md)** ở [Bree](../B/Bree.md), là tháng thứ chín trong [Lịch Shire](../S/Shire_Calendar.md), sau [Thứ Tư](../W/Wedmath.md) và gần tương ứng với [ngày 23 tháng 8](../_/23_August.md) đến [ngày 21 tháng 9](../_/21_September.md) hiện đại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Cái tên thể hiện sự [hiện đại hóa](Hobbitish.md) của tên [tiếng Anh cổ](../O/Old_English.md) dành cho tháng Chín, <i><a class="extiw" href="http://en.wiktionary.org/wiki/haligmona%C3%BE" title="wiktionary:haligmonaþ">hāliġmōnaþ</a></i> có nghĩa là "tháng thánh" (ám chỉ các lễ hiến tế của người ngoại đạo).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Cái tên này thể hiện sự [hiện đại hóa](Hobbitish.md) của tên [tiếng Anh cổ](../O/Old_English.md) cho tháng 9, <i><a class="extiw" href="http://en.wiktionary.org/wiki/haligmona%C3%BE" title="wiktionary:haligmonaþ">hāliġmōnaþ</a></i> có nghĩa là "tháng thánh" (ám chỉ các lễ hiến tế của người ngoại giáo).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

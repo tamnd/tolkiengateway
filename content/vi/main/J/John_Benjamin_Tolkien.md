@@ -39,9 +39,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
 </blockquote></div></div>
 
-**John Benjamin Tolkien** ([27 tháng 3](../_/27_March.md) [1807](../_/1807.md) - [1 tháng 8](../_/1_August.md) [1896](../_/1896.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>), con trai của [George Tolkien](../G/George_Tolkien.md), là ông nội của [J.R.R. Tolkien](J.R.R._Tolkien.md). Anh ấy sinh ra ở <a class="extiw" href="http://en.wikipedia.org/wiki/Middlesex" title="wikipedia:Middlesex">Middlesex</a>, London. Ông là một nhà sản xuất đàn piano, giáo viên và người chỉnh dây.
+**John Benjamin Tolkien** ([27 tháng 3](../_/27_March.md) [1807](../_/1807.md) - [1 tháng 8](../_/1_August.md) [1896](../_/1896.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>), con trai của [George Tolkien](../G/George_Tolkien.md), là ông nội của [J.R.R. Tolkien](J.R.R._Tolkien.md). Ông sinh ra ở <a class="extiw" href="http://en.wikipedia.org/wiki/Middlesex" title="wikipedia:Middlesex">Middlesex</a>, London. Ông là một nhà sản xuất đàn piano, giáo viên và người chỉnh dây.
 
-Người vợ đầu tiên của ông là Jane Holmwood, người có với ông bốn người con: Emily (1838), Louisa (1840), John Benjamin (1845) và Jane, (1846).
+Người vợ đầu tiên của ông là Jane Holmwood, người có với ông 4 người con: Emily (1838), Louisa (1840), John Benjamin (1845) và Jane, (1846).
 
 Sau đó anh kết hôn với [Mary Jane Stow](../M/Mary_Jane_Stow.md) vào [ngày 16 tháng 2](../_/16_February.md), [1856](../_/1856.md) tại Nhà thờ Giáo xứ All Saints, Birmingham, Warwickshire, Anh và họ có đứa con đầu lòng, Arthur, vào năm sau.
 
@@ -62,7 +62,7 @@ Về cái chết của Arthur vào năm [1896](../_/1896.md), John rất đau bu
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.flickr.com/photos/johnashby/277571229/" rel="noreferrer noopener" target="_blank">Hình ảnh cây đàn piano của J.B. Tolkien</a>
-- <a class="external text" href="http://tolkienbrasil.com/artigos/colunas/eduardostark/a-familia-tolkien-e-o-imperio-brasileiro/" rel="noreferrer noopener" target="_blank">Một gia đình Tolkien e o Império Brasileiro</a> - Tolkien Gia đình và Đế quốc Brazil
+- <a class="external text" href="http://tolkienbrasil.com/artigos/colunas/eduardostark/a-familia-tolkien-e-o-imperio-brasileiro/" rel="noreferrer noopener" target="_blank">Gia đình Tolkien e o Império Brasileiro</a> - Gia đình Tolkien và Đế quốc Brazil
 
 <span></span>
 

@@ -29,15 +29,15 @@ langlinks:
 
 ## Lịch sử {#History}
 
-Mặc dù không được đề cập cụ thể nhưng nguồn gốc của Remmirath có thể giống với nguồn gốc của các chòm sao khác: nó được tạo ra bởi [Varda](../V/Varda.md) để báo hiệu [Tiên tộc](../E/Elves.md) đến [Valinor](../V/Valinor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong [Kỷ Đệ Tam](../T/Third_Age.md), nó có thể được nhìn thấy rõ ràng trên bầu trời phía Đông vào mùa thu.<sup id="cite_ref-TiC_1-1" class="reference"><a href="#cite_note-TiC-1">[1]</a></sup>
+Mặc dù không được đề cập cụ thể, nhưng nguồn gốc của Remmirath có thể giống với nguồn gốc của các chòm sao khác: nó được tạo ra bởi [Varda](../V/Varda.md) để báo hiệu [Yêu tinh](../E/Elves.md) tới [Valinor](../V/Valinor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Vào [Thời thứ ba](../T/Third_Age.md), nó có thể được nhìn thấy rõ ràng trên bầu trời phương Đông vào mùa thu.<sup id="cite_ref-TiC_1-1" class="reference"><a href="#cite_note-TiC-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Remmirath* là [Sindarin](../S/Sindarin.md), được dịch khá chính xác với tên [Westron](../W/Westron.md) là "Netted Stars". Từ này bao gồm ba phần tử: *rem* ("lưới") + *[mir](../M/Mir.md)* ("ngọc") + hậu tố số nhiều tập thể *[-ath](../_/-ath.md)*. Nó được dịch là "nhóm ngọc trong lưới" và "nhóm ngọc mắc vào lưới".<sup id="cite_ref-VT42_3-0" class="reference"><a href="#cite_note-VT42-3">[3]</a></sup>
+*Remmirath* là [Sindarin](../S/Sindarin.md), được dịch khá chính xác với tên [Westron](../W/Westron.md) của nó là "Netted Stars". Từ này bao gồm ba phần tử: *rem* ("lưới") + *[mir](../M/Mir.md)* ("ngọc") + hậu tố số nhiều tập thể *[-ath](../_/-ath.md)*. Nó được dịch là "nhóm ngọc trong lưới" và "nhóm ngọc mắc vào lưới".<sup id="cite_ref-VT42_3-0" class="reference"><a href="#cite_note-VT42-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong giai đoạn đầu tiên của [huyền thoại](../L/Legendarium.md), Pleiades được gọi là <i><b>Itseloktë</b></i> ("Cụm Ruồi") trong [Qenya](../Q/Qenya.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> và <i><b>Sithaloth</b></i> hoặc *Sithaloctha* ("Cụm Ruồi") trong [Gnomish](../G/Gnomish.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong giai đoạn đầu tiên của [huyền thoại](../L/Legendarium.md), Pleiades được gọi là <i><b>Itseloktë</b></i> ("Cụm Ruồi") ở [Qenya](../Q/Qenya.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> và <i><b>Sithaloth</b></i> hoặc *Sithaloctha* ("Cụm Ruồi") trong [Gnomish](../G/Gnomish.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

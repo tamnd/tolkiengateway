@@ -50,13 +50,13 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong phần mở đầu của [cuộc vây hãm Minas Tirith](../S/Siege_of_Gondor.md) vào [9 tháng 3](../_/9_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Gondor](../G/Gondorian.md) các lãnh chúa của [Outlands](../O/Outlands.md) cùng quân đội của họ đã đến [Minas Tirith](../M/Minas_Tirith.md) để hỗ trợ việc bảo vệ Thành phố. Dervorin đi bộ tới Minas Tirith, dẫn đầu ba trăm người.<sup id="cite_ref-MT_1-1" class="reference"><a href="#cite_note-MT-1">[1]</a></sup>
+Trong phần mở đầu của [cuộc vây hãm Minas Tirith](../S/Siege_of_Gondor.md) vào [9 tháng 3](../_/9_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Gondorian](../G/Gondorian.md) các lãnh chúa của [Outlands](../O/Outlands.md) cùng quân đội của họ đến [Minas Tirith](../M/Minas_Tirith.md) để hỗ trợ phòng thủ Thành phố. Dervorin đi bộ tới Minas Tirith, dẫn theo ba trăm người.<sup id="cite_ref-MT_1-1" class="reference"><a href="#cite_note-MT-1">[1]</a></sup>
 
-Hành động của Dervorin trong cuộc bao vây Minas Tirith và [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md) không được đề cập. Tên của ông không được nhắc đến trong danh sách các lãnh chúa và con trai của các lãnh chúa của Gondor, của Rohan hoặc của [Biệt đội miền Bắc](../R/Rangers_of_the_North.md) đã chết trong Trận chiến trên Cánh đồng Pelennor.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Ngoài ra, người ta cũng không đề cập đến việc Dervorin có đi cùng [Quân đội của Phương Tây](../A/Army_of_the_West.md) đến [Cổng Đen](../B/Black_Gate.md) của Mordor và tham gia vào trận chiến hay không [Trận Morannon](../B/Battle_of_the_Morannon.md) và nếu anh ta sống sót sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) và quay trở lại Ringló Vale.
+Hành động của Dervorin trong cuộc vây hãm Minas Tirith và [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md) không được đề cập. Tên của ông ta không được nhắc đến trong danh sách các lãnh chúa và con trai của các lãnh chúa Gondor, Rohan hay [Rangers of the North](../R/Rangers_of_the_North.md) đã chết trong Trận chiến trên cánh đồng Pelennor.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Ngoài ra, người ta cũng không đề cập đến việc Dervorin có đi cùng [Quân đội phương Tây](../A/Army_of_the_West.md) tới [Cổng đen](../B/Black_Gate.md) của Mordor và tham gia [Trận chiến ở phương Tây hay không Morannon](../B/Battle_of_the_Morannon.md) và liệu ông ta có sống sót sau [Cuộc chiến trên chiếc nhẫn](../W/War_of_the_Ring.md) và quay trở lại Ringló Vale hay không.
 
 ## Từ nguyên {#Etymology}
 
-[David Salo](David_Salo.md) và [Paul Strack](../P/Paul_Strack.md) giải thích rằng *Dervorin* là tên [Sindarin](../S/Sindarin.md) có ý nghĩa không rõ ràng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Theo David Salo, thành phần đầu tiên của tên có thể chứa *deru*, có thể từ [Common Eldarin](../C/Common_Eldarin.md) \**nderwā* và gốc NDER, có nghĩa là "nam tính".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+[David Salo](David_Salo.md) và [Paul Strack](../P/Paul_Strack.md) giải thích rằng *Dervorin* là một [Sindarin](../S/Sindarin.md) tên không rõ nghĩa.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Theo David Salo, phần tử đầu tiên của tên có thể chứa *deru*, có thể từ [Common Eldarin](../C/Common_Eldarin.md) \**nderwā* và gốc NDER, có nghĩa là "nam tính".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -77,11 +77,11 @@ Hành động của Dervorin trong cuộc bao vây Minas Tirith và [Trận chi�
 		</li>
 </ul>
 
-<b><a href="../_/2003.md" title="2003">2003</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
+<b><a href="../_/2003.md" title="2003">2003</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</a></i>:</b>
 
 <dl><dd>A card from <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i> identifies one of the Gondorians of <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> as Devorin.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 
-<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Dervorin&#39;s father, Lord Borhador of the <a class="mw-redirect" href="../R/Ringlo_Vale.md" title="Ringlo Vale">Ringlo Vale</a> is now very old and rarely leaves his halls in <a href="../E/Ethring.md" title="Ethring">Ethring</a>. The player first hears of Dervorin second-hand from his family, and after finding him in <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> before the attack, delivers to him the news of his home, which raises his spirit. Dervorin fights on the walls of the First Circle during the siege, managed to survive the <a class="mw-redirect" href="../B/Battle_of_Pelennor_Fields.md" title="Battle of Pelennor Fields">Battle of Pelennor Fields</a>, and proceeded to join Aragorn&#39;s march to the <a href="../B/Black_Gate.md" title="Black Gate">Black Gate</a>.</dd></dl>
 

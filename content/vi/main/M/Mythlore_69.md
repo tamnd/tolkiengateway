@@ -36,7 +36,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_69.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/83/Mythlore_69.png/320px-Mythlore_69.png" decoding="async" loading="lazy" width="320" height="409" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/83/Mythlore_69.png/480px-Mythlore_69.png 1.5x, https://tolkiengateway.net/w/images/thumb/8/83/Mythlore_69.png/640px-Mythlore_69.png 2x" data-file-width="698" data-file-height="892"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 69</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Summer <a href="../_/1992.md" title="1992">1992</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">79</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_68.md" title="Mythlore 68">Mythlore 68</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_70.md" title="Mythlore 70">Mythlore 70</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 69</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol18/iss3/" rel="noreferrer noopener" target="_blank">Tập 18, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 69</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol18/iss3/" rel="noreferrer noopener" target="_blank">Tập 18, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 Bài viết "[Gondolinic Runes](../G/Gondolinic_Runes.md)" của [Paul Nolan Hyde](../P/Paul_Nolan_Hyde.md) bao gồm bản sao bản thảo của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), sau đó là một bài phân tích dài (phản hồi cho bài viết đã được xuất bản trong [*Mythlore* 70](Mythlore_70.md), bởi [Carl F. Hostetter](../C/Carl_F._Hostetter.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -44,22 +44,22 @@ Bài viết "[Gondolinic Runes](../G/Gondolinic_Runes.md)" của [Paul Nolan Hyd
 
 #### Bài viết {#Articles}
 
-- Manganiello, Dominic. “Câu chuyện bất tận: Hạnh phúc văn bản trong *The Lord of the Rings*.”
-- Graff, Eric S. “Ba khuôn mặt của Thần tiên trong tiểu thuyết ngắn hơn của Tolkien: Niggle, Smith và Giles.”
-- Mathews, Richard. “Bên cạnh hiện thực trong Câu chuyện về Aldarion và Erendis của Tolkien.”
-- GoodKnight, Glen H. “Tri ân J.R.R. Tolkien.”
-- GoodKnight, Glen H. “J.R.R. Tolkien trong bản dịch.”
+- Manganiello, Dominic. “The Neverending Story: Textual Happiness in *The Lord of the Rings*.”
+- Graff, Eric S. “The Three Faces of Faërie in Tolkien's Shorter Fiction: Niggle, Smith, and Giles.”
+- Mathews, Richard. “The Edges of Reality in Tolkien's Tale of Aldarion and Erendis.”
+- GoodKnight, Glen H. “Tributes to J.R.R. Tolkien.”
+- GoodKnight, Glen H. “J.R.R. Tolkien in Translation.”
 
 #### Tính năng {#Features}
 
-- GoodKnight, Glen H. Editorial Giới thiệu: Trong số này.
-- Christopher, Joe. R. và Wayne G. Hammond. Một Inklings Thư mục (46).
+- GoodKnight, Glen H. Editorial Introduction: In This Issue.
+- Christopher, Joe. R., and Wayne G. Hammond. An Inklings Bibliography (46).
 - Reynolds, Trevor. Lập chỉ mục cho J.R.R. Tolkien trong *Mythlore* Số phát hành 1-69.
 - Hyde, Paul Nolan. “Quenti Lambardillion.”
-- Kodratiev, Alexei. “Những câu chuyện mới được kể.”
+- Kondratiev, Alexei. “Tales Newly Told.”
 - Thư.
 - Callahan, Bg, Patrick Wynne, Paula DiSante và Sarah Beach. “Nhận xét của nghệ sĩ.”
-- Mythlore Nhân viên. “Hội thần thoại.”
+- Nhân viên thần thoại. “Hội thần thoại.”
 
 #### Đánh giá {#Reviews}
 

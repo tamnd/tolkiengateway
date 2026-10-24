@@ -34,11 +34,11 @@ images:
 
 ## Cuộc sống {#Life}
 
-Ông lớn lên ở Vùng Vịnh San Francisco và theo học tại Đại học Stanford, tốt nghiệp năm 1988 với bằng Lịch sử. Sau đó, Porras trở thành Trợ lý riêng cho <a class="extiw" href="http://en.wikipedia.org/wiki/Robert_Zemeckis" title="wikipedia:Robert Zemeckis">Robert Zemeckis</a>và lần đầu tiên làm việc với [Peter Jackson](../P/Peter_Jackson.md) trên *The Frighteners*. Porras dần nổi lên trong giới điện ảnh, vào tháng 5 [1998](../_/1998.md), anh đã đến [New Zealand](../N/New_Zealand.md) để hợp tác sản xuất [Peter Jackson](../P/Peter_Jackson.md)với nỗ lực của <a class="external autonumber" href="http://www.kristinthompson.net/blog/?p=146" rel="noreferrer noopener" target="_blank">[1]</a>.
+Ông lớn lên ở Vùng Vịnh San Francisco và theo học tại Đại học Stanford, tốt nghiệp năm 1988 với bằng Lịch sử. Sau đó, Porras trở thành Trợ lý riêng cho <a class="extiw" href="http://en.wikipedia.org/wiki/Robert_Zemeckis" title="wikipedia:Robert Zemeckis">Robert Zemeckis</a>và lần đầu tiên làm việc với [Peter Jackson](../P/Peter_Jackson.md) trên *The Frighteners*. Porras dần dần nổi lên trong thế giới điện ảnh, và vào tháng 5 [1998](../_/1998.md), anh đã đến [New Zealand](../N/New_Zealand.md) để đồng sản xuất [nỗ lực của Peter Jackson](../P/Peter_Jackson.md) <a class="external autonumber" href="http://www.kristinthompson.net/blog/?p=146" rel="noreferrer noopener" target="_blank">[1]</a>.
 
 ## Vai trò {#Roles}
 
-Anh ấy là người thay thế [Andy Serkis](../A/Andy_Serkis.md) trong *[The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* và đóng vai [Corsair của Umbar](../C/Corsairs_of_Umbar.md) trong *[The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Porras cũng là giám đốc đơn vị thứ hai không được tín nhiệm trong *The Fellowship of the Ring*.
+Ông là người thay thế [Andy Serkis](../A/Andy_Serkis.md) trong *[The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* và đóng vai [Corsair of Umbar](../C/Corsairs_of_Umbar.md) trong *[The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Porras cũng là giám đốc đơn vị thứ hai không được tín nhiệm trong *The Fellowship of the Ring*.
 
 ## Liên kết ngoài {#External_links}
 

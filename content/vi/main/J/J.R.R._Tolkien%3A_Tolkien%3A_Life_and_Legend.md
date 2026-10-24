@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien: Life and Legend"
 ---
 
-Chuyển hướng tới [J.R.R. Tolkien: Cuộc đời và Huyền thoại](J.R.R._Tolkien%253A_Life_and_Legend.md).
+Chuyển hướng đến [J.R.R. Tolkien: Life and Legend](J.R.R._Tolkien%253A_Life_and_Legend.md).

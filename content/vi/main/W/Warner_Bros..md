@@ -40,7 +40,7 @@ Hiện tại, công ty có quyền phân phối [gần như](<../T/The_Hobbit_(1
 ## Các công ty con {#Subsidiaries}
 
 - [New Line Cinema](../N/New_Line_Cinema.md), xưởng phim của [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>)
-- [Warner Bros. Games](Warner_Bros._Games.md), nhà phát hành mọi trò chơi điện tử có liên quan Trung Địa kể từ năm 2010.
+- [Warner Bros. Games](Warner_Bros._Games.md), nhà phát hành mọi trò chơi điện tử liên quan đến Trung Địa kể từ năm 2010.
 - [Turbine](../T/Turbine.md), cựu nhà phát triển và nhà xuất bản của *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*.
 - [Snowblind Studios](../S/Snowblind_Studios.md), nhà phát triển *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)*.
 - [Monolith Productions](../M/Monolith_Productions.md), nhà phát triển *[Guardians of Middle-earth](../G/Guardians_of_Middle-earth.md)*, *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md)* và *[Middle-earth: Shadow of War](../M/Middle-earth%253A_Shadow_of_War.md)*.

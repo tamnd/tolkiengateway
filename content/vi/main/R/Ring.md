@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ring (disambiguation)"
 ---
 
-Chuyển hướng đến [Nhẫn (định hướng)](<Ring_(disambiguation).md>).
+Chuyển hướng đến [Ring (định hướng)](<Ring_(disambiguation).md>).

@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Staley, Steve"
 ---
 
-**Steven Staley** ([10 tháng 3](../_/10_March.md), [1963](../_/1963.md)) là một diễn viên lồng tiếng người Mỹ hoạt động chủ yếu trong lĩnh vực anime. Anh ấy lồng tiếng cho [Frodo Baggins](../F/Frodo_Baggins.md) và [Celeborn](../C/Celeborn.md) trong trò chơi *[The Fellowship of the Ring](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)* và lồng tiếng bổ sung cho *[The Hobbit](<../T/The_Hobbit_(2003_video_game).md>)*.
+**Steven Staley** ([10 tháng 3](../_/10_March.md), [1963](../_/1963.md)) là một diễn viên lồng tiếng người Mỹ hoạt động chủ yếu trong lĩnh vực anime. Ông lồng tiếng cho [Frodo Baggins](../F/Frodo_Baggins.md) và [Celeborn](../C/Celeborn.md) trong trò chơi *[The Fellowship of the Ring](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)* và lồng tiếng bổ sung cho *[The Hobbit](<../T/The_Hobbit_(2003_video_game).md>)*.
 
 ## Liên kết ngoài {#External_links}
 

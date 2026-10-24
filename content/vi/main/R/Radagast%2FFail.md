@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Radagast/Failure"
 ---
 
-Chuyển hướng đến [Radagast/Thất bại](Radagast%252FFailure.md).
+Chuyển hướng tới [Radagast/Thất bại](Radagast%252FFailure.md).

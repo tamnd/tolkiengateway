@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Phial of Galadriel"
 ---
 
-Chuyển hướng tới [Phial của Galadriel](../P/Phial_of_Galadriel.md).
+Chuyển hướng tới [Phial of Galadriel](../P/Phial_of_Galadriel.md).

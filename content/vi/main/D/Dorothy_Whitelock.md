@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Whitelock, Dorothy"
 ---
 
-**Dorothy Whitelock** ([11 tháng 11](../_/11_November.md), [1901](../_/1901.md) - [14 tháng 8](../_/14_August.md), [1982](../_/1982.md)) là một học giả về Anglo-Saxon thơ ca và lịch sử. Cô là đồng nghiệp của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tại [Đại học Oxford](../U/University_of_Oxford.md) từ [1930](../_/1930.md) cho đến [1957](../_/1957.md), khi cô trở thành Giáo sư Bosworth của Anglo-Saxon tại [Đại học Cambridge](../C/Cambridge.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Dorothy Whitelock** ([11 tháng 11](../_/11_November.md), [1901](../_/1901.md) - [14 tháng 8](../_/14_August.md), [1982](../_/1982.md)) là một học giả về thơ ca và lịch sử Anglo-Saxon. Cô là đồng nghiệp của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tại [Đại học Oxford](../U/University_of_Oxford.md) từ [1930](../_/1930.md) cho đến [1957](../_/1957.md), khi cô trở thành Giáo sư Bosworth về Anglo-Saxon tại [Đại học Cambridge](../C/Cambridge.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục {#Bibliography}
 
@@ -31,7 +31,7 @@ sort_keys:
 ## Xem thêm {#See_also}
 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Dorothy_Whitelock" title="wikipedia:Dorothy Whitelock">Dorothy Whitelock</a> tại Wikipedia
-- <a class="external text" href="http://www.oxforddnb.com/index/45/101045659/" rel="noreferrer noopener" target="_blank">Dorothy Whitelock</a> tại Oxford Từ điển Tiểu sử Quốc gia
+- <a class="external text" href="http://www.oxforddnb.com/index/45/101045659/" rel="noreferrer noopener" target="_blank">Dorothy Whitelock</a> tại Từ điển tiểu sử quốc gia Oxford
 
 <span></span>
 

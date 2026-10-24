@@ -12,7 +12,7 @@ categories:
   - "Interviews"
 ---
 
-Bài viết dưới đây là buổi trò chuyện với [Matt Blessing](../M/Matt_Blessing.md) vào [ngày 17 tháng 4](../_/17_April.md), [2007](../_/2007.md) trong [The Children of Húrin Bữa tiệc phát hành](../T/The_Children_of_Húrin_Release_Party.md). Nội dung cần được bảo tồn và không bị thay đổi vì lý do thẩm mỹ.
+Bài viết dưới đây là buổi trò chuyện với [Matt Blessing](../M/Matt_Blessing.md) vào [ngày 17 tháng 4](../_/17_April.md), [2007](../_/2007.md) trong thời gian [The Children of Húrin Release Party](../T/The_Children_of_Húrin_Release_Party.md). Nội dung cần được bảo tồn và không bị thay đổi vì lý do thẩm mỹ.
 
 <br>
 

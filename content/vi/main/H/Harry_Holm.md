@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Holm, Harry"
 ---
 
-**Harry Holm** là con trai của [Ian Holm](../I/Ian_Holm.md). Tiếng khóc của anh ấy có thể được nghe thấy trong [loạt phim phát thanh](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, nơi anh ấy được ghi là [Elanor Fairbairns](../E/Elanor_Gardner.md).
+**Harry Holm** là con trai của [Ian Holm](../I/Ian_Holm.md). Tiếng khóc của ông có thể được nghe thấy trong [loạt phim phát thanh](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, nơi ông được ghi là [Elanor Fairbairns](../E/Elanor_Gardner.md).
 
 ## Liên kết ngoài {#External_links}
 

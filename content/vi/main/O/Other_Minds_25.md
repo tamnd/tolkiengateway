@@ -28,13 +28,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 25</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Hawke Robinson</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Other Minds Volunteers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">December <a href="../_/2021.md" title="2021">2021</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">87</td></tr></tbody></table>
 
-<b><i>Other Minds</i> 25</b> là số thứ 25 của *[Other Minds](Other_Minds.md)*, một tạp chí dành riêng cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh Trung Địa, xuất bản vào tháng 12 năm 2021.
+<b><i>Other Minds</i> 25</b> là số thứ 25 của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh ở Trung Địa, được xuất bản vào tháng 12 năm 2021.
 
 ## Nội dung {#Contents}
 
-- "Biên tập: Tin từ Trung Địa"
+- "Biên tập: Tin tức từ Trung địa"
     - Bởi [Thomas Morwinsky](../T/Thomas_Morwinsky.md)
-- "The Road Goes Ever On"
+- "Con Đường Mãi Mãi Đi"
     - Bởi Thomas Morwinsky
 - "Thông tin nội bộ"
     - Bởi Thomas Morwinsky
@@ -44,12 +44,12 @@ infobox:
     - Bởi Christian
 - "Hagavorl và những người biên giới của Eredoriath khoảng T.A. 861 - 1411"
     - Bởi David Feeney
-- "Ringlann và tây bắc Palisor ở Kỷ Đệ Nhất"
+- "Ringlann và tây bắc Palisor trong thời đại thứ nhất"
     - Bởi [Gabriele Quaglia](../G/Gabriele_Quaglia.md)
-- "Hướng dẫn TOR cho Dãy Núi Xanh"
+- "Hướng dẫn TOR tới dãy núi xanh"
     - Bởi Andrew Laubacher
-- "Thành phố Người lùn của Hargrod - Viên ngọc quý của Dãy Núi Xanh"
+- "Thành phố người lùn Hargrod - Viên ngọc quý của dãy núi xanh"
     - Bởi Andrew Laubacher
 
 - **Tác phẩm nghệ thuật / Bản đồ:**
-    - Bởi: Aegeri, Sergio Artigas, [Matěj Čadil](../M/Matěj_Čadil.md), Liz Danforth, Jenny Dolfen, Encylopedia of Arda, Andreas Erdmann, Olanda Fong-Surdenas, David Feeney, Môi trường lịch sử Scotland, [Jon Hodgson](../J/Jon_Hodgson.md), [John Howe](../J/John_Howe.md), Liiga Klavina, Kotorigaro, Joona Kujanen, [Angus McBride](../A/Angus_McBride.md), Turner Mohan, Quận Monaghan, J G O'Donoghue, Pazirik Informatics, Peter Xavier Price, John Emanuel Shannon, Matthew Stewart, Alex Wendler
+    - Bởi: Aegeri, Sergio Artigas, [Matěj Čadil](../M/Matěj_Čadil.md), Liz Danforth, Jenny Dolfen, Encylopedia of Arda, Andreas Erdmann, Olanda Fong-Surdenas, David Feeney, Historic Environment Scotland, [Jon Hodgson](../J/Jon_Hodgson.md), [John Howe](../J/John_Howe.md), Liiga Klavina, Kotorigaro, Joona Kujanen, [Angus McBride](../A/Angus_McBride.md), Turner Mohan, Quận Monaghan, J G O'Donoghue, Pazirik Informatics, Peter Xavier Price, John Emanuel Shannon, Matthew Stewart, Alex Wendler

@@ -43,7 +43,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Magic_the_Gathering_UBLotRToM_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b7/Magic_the_Gathering_UBLotRToM_logo.png/320px-Magic_the_Gathering_UBLotRToM_logo.png" decoding="async" loading="lazy" width="320" height="215" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b7/Magic_the_Gathering_UBLotRToM_logo.png/480px-Magic_the_Gathering_UBLotRToM_logo.png 1.5x, https://tolkiengateway.net/w/images/b/b7/Magic_the_Gathering_UBLotRToM_logo.png 2x" data-file-width="566" data-file-height="381"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Collectible card game expansion</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: Tales of Middle-earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data">Ben Hayes <small>(lead)</small></td></tr><tr><th scope="row" class="tg-infobox-label">Development</th><td class="tg-infobox-data">Glenn Jones <small>(lead)</small></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../W/Wizards_of_the_Coast.md" title="Wizards of the Coast">Wizards of the Coast</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="../_/20_June.md" title="20 June">20 June</a> <a href="../_/2023.md" title="2023">2023</a></td></tr><tr><th scope="row" class="tg-infobox-label">Cards</th><td class="tg-infobox-data">281 + 552</td></tr><tr><th scope="row" class="tg-infobox-label">Abbreviation</th><td class="tg-infobox-data">LTR</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Set symbol</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><div class="center"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Magic_the_Gathering_LTR_symbol.webp.md" title="Official Set Symbol for Tales of Middle-earth"><img alt="Official Set Symbol for Tales of Middle-earth" src="https://tolkiengateway.net/w/images/thumb/f/fe/Magic_the_Gathering_LTR_symbol.webp/50px-Magic_the_Gathering_LTR_symbol.webp.png" decoding="async" loading="lazy" width="50" height="33" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fe/Magic_the_Gathering_LTR_symbol.webp/75px-Magic_the_Gathering_LTR_symbol.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/fe/Magic_the_Gathering_LTR_symbol.webp/100px-Magic_the_Gathering_LTR_symbol.webp.png 2x" data-file-width="900" data-file-height="596"/></a></span><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Magic_the_Gathering_LTC_symbol.webp.md" title="Official Set Symbol for Tales of Middle-earth Commander"><img alt="Official Set Symbol for Tales of Middle-earth Commander" src="https://tolkiengateway.net/w/images/thumb/5/56/Magic_the_Gathering_LTC_symbol.webp/50px-Magic_the_Gathering_LTC_symbol.webp.png" decoding="async" loading="lazy" width="50" height="50" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/56/Magic_the_Gathering_LTC_symbol.webp/75px-Magic_the_Gathering_LTC_symbol.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/5/56/Magic_the_Gathering_LTC_symbol.webp/100px-Magic_the_Gathering_LTC_symbol.webp.png 2x" data-file-width="900" data-file-height="900"/></a></span></div></td></tr></tbody></table>
 
-**The Lord of the Rings: Tales of Trung Địa** là bản mở rộng của trò chơi thẻ bài sưu tập [Magic: The Gathering](../M/Magic%253A_The_Gathering.md) và được phát hành lần đầu vào ngày 20 tháng 6 năm 2023. Trò chơi này giới thiệu các thẻ bài mới là phiên bản độc đáo của nhiều nhân vật và sự kiện khác nhau trong bộ ba Chúa tể của những chiếc nhẫn.
+**Chúa tể của những chiếc nhẫn: Tales of Middle-earth** là bản mở rộng cho trò chơi thẻ bài sưu tập [Magic: The Gathering](../M/Magic%253A_The_Gathering.md) và được phát hành lần đầu vào ngày 20 tháng 6 năm 2023. Trò chơi này giới thiệu các thẻ bài mới là phiên bản độc đáo của nhiều nhân vật và sự kiện khác nhau trong bộ ba Chúa tể của những chiếc nhẫn.
 
 *Tales of Middle-earth* được phát hành dưới thương hiệu phụ **Magic: The Gathering Universes Beyond** và là sản phẩm Universes Beyond đầu tiên nhận được bản mở rộng Magic có kích thước đầy đủ. Cùng lúc đó, *[More Adventures in Middle-earth](../M/More_Adventures_in_Middle-earth.md)* được phát hành, một bộ sưu tập nhỏ riêng biệt in lại một số tấm thẻ với các tác phẩm nghệ thuật thay thế.
 
@@ -51,28 +51,28 @@ Vào tháng 8 năm 2026, bản mở rộng Phép thuật theo chủ đề Chúa 
 
 ## Tổng quan {#Overview}
 
-Tales of Trung Địa được công bố lần đầu vào ngày 21 tháng 2 năm 2023<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>và được phát triển bởi [Pháp sư of the Coast](../W/Wizards_of_the_Coast.md) với sự hợp tác chặt chẽ với [Trung Địa Enterprises](../M/Middle-earth_Enterprises.md). Nó có 451 thẻ mới tham chiếu một lượng lớn nội dung từ huyền thoại của Tolkien, với hình ảnh hoàn toàn mới được ủy quyền cho mỗi thẻ. Phong cách nghệ thuật của Tales of Trung Địa được phát triển riêng cho bộ này và thường không đề cập đến các phiên bản chuyển thể khác của câu chuyện.
+Tales of Middle-earth được công bố lần đầu vào ngày 21 tháng 2 năm 2023<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>và được phát triển bởi [Wizards of the Coast](../W/Wizards_of_the_Coast.md) với sự hợp tác chặt chẽ với [Middle-earth Enterprises](../M/Middle-earth_Enterprises.md). Nó có 451 thẻ mới tham chiếu một lượng lớn nội dung từ truyền thuyết của Tolkien, với nghệ thuật hoàn toàn mới được áp dụng cho mỗi thẻ. Phong cách nghệ thuật cho Tales of Middle-earth được phát triển riêng cho bộ truyện và thường không đề cập đến các phiên bản chuyển thể khác của câu chuyện.
 
-Ngoài các kiểu in và kiểu thẻ quảng cáo thông thường, bộ này còn có một loạt phiên bản đặc biệt rất hiếm của thẻ "Sol Ring"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>, một thẻ phổ biến và được sử dụng phổ biến ở dạng Chỉ huy nhiều người chơi. Đối với bộ này, Sol Ring đã được in lại với hình ảnh mới, đại diện cho [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md), hoàn chỉnh với việc cách điệu hóa tất cả văn bản bằng phông chữ [Tengwar](Tengwar.md). Ba phiên bản giới hạn khác nhau của chiếc Nhẫn Sol đặc biệt này đã được in theo cách này, với các con số được in để biểu thị số lượng Nhẫn tương ứng được phân bổ cho các chủng tộc khác nhau: <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>:
+Ngoài các kiểu in và kiểu thẻ quảng cáo thông thường, bộ này còn có một loạt phiên bản đặc biệt rất hiếm của thẻ "Sol Ring"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>, một thẻ phổ biến và được sử dụng phổ biến ở dạng Chỉ huy nhiều người chơi. Đối với bộ này, Sol Ring đã được in lại với hình ảnh mới, tượng trưng cho [Những chiếc nhẫn quyền lực](../R/Rings_of_Power.md), hoàn chỉnh với việc cách điệu tất cả văn bản bằng phông chữ [Tengwar](Tengwar.md). Ba phiên bản giới hạn khác nhau của chiếc Nhẫn Sol đặc biệt này đã được in theo cách này, với các con số được in để biểu thị số lượng Nhẫn tương ứng được phân bổ cho các chủng tộc khác nhau: <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>:
 
-- 3.000 tờ giấy bạc thông thường và 300 tờ giấy in nhiều kỳ với hình vẽ có hình chiếc nhẫn Tiên (tượng trưng cho [Ba Chiếc Nhẫn](Three_Rings.md))
-- 7.000 tờ giấy bạc thông thường và 700 tờ giấy in nhiều kỳ với hình vẽ có hình chiếc nhẫn Người lùn (đại diện cho [Bảy Chiếc Nhẫn](../S/Seven_Rings.md))
-- 9.000 tờ giấy thông thường và 900 tờ giấy in nhiều kỳ với tác phẩm nghệ thuật có hình một chiếc nhẫn Con Người (đại diện cho [Chín chiếc nhẫn](../N/Nine_Rings.md))
+- 3.000 tờ giấy thông thường và 300 tờ giấy in nhiều kỳ với tác phẩm nghệ thuật có hình chiếc nhẫn Yêu tinh (đại diện cho [Ba chiếc nhẫn](Three_Rings.md))
+- 7.000 tờ giấy thông thường và 700 tờ giấy in nhiều kỳ với tác phẩm nghệ thuật có hình chiếc nhẫn của Người lùn (đại diện cho [Bảy chiếc nhẫn](../S/Seven_Rings.md))
+- 9.000 tờ giấy thông thường và 900 tờ giấy in nhiều kỳ với tác phẩm nghệ thuật có hình chiếc nhẫn Đàn ông (đại diện cho [Chín chiếc nhẫn](../N/Nine_Rings.md))
 
 ### Cuộc săn lùng chiếc nhẫn duy nhất {#The_Hunt_for_the_One_Ring}
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Magic_the_Gathering_LTR_OneRing.webp.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a7/Magic_the_Gathering_LTR_OneRing.webp/300px-Magic_the_Gathering_LTR_OneRing.webp.png" decoding="async" loading="lazy" width="300" height="419" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/Magic_the_Gathering_LTR_OneRing.webp/450px-Magic_the_Gathering_LTR_OneRing.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/Magic_the_Gathering_LTR_OneRing.webp/516px-Magic_the_Gathering_LTR_OneRing.webp.png 2x" data-file-width="516" data-file-height="720"/></a><figcaption>The exceptionally rare One Ring, only one of which was printed.</figcaption></figure>
 
-Đáng chú ý, một lá bài mới đại diện cho [The One Ring](The_One_Ring.md) đã được giới thiệu trong bộ này, tuy nhiên Pháp sư của Coast đã in một phiên bản lá vàng đặc biệt, được đánh số sê-ri của nó và chỉ có **một** được in. Nó được đưa vào một gói Collector Booster bằng tiếng Anh, gói này đã gây ra sự phấn khích đáng kể khi người hâm mộ bắt đầu, giống như Sauron, săn lùng One Ring, khiến giá của Collector Booster sau thị trường tăng đáng kể. Chiếc nhẫn "One of One" được một khách hàng tại MAXimum Cards & Collectibles tìm thấy vào ngày 30 tháng 6 năm 2023 ở Whitby, Ontario <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>. Người tìm thấy chiếc nhẫn sau đó được xác định là Brook Trafton, người sẽ bán nó cho Post Malone, một nhạc sĩ nổi tiếng và là người đam mê Phép thuật với giá 2.000.000 USD.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Đáng chú ý, một lá bài mới đại diện cho [The One Ring](The_One_Ring.md) đã được giới thiệu trong bộ này, tuy nhiên Wizards of the Coast đã in một phiên bản lá vàng đặc biệt, được xuất bản nhiều kỳ của nó và chỉ có **một** được in. Nó được bao gồm trong một gói Collector Booster bằng tiếng Anh, điều này đã gây ra sự phấn khích đáng kể khi người hâm mộ bắt đầu, giống như Sauron, săn lùng One Ring, khiến giá của Collector Boosters sau thị trường tăng đáng kể. Chiếc nhẫn "One of One" được một khách hàng tại MAXimum Cards & Collectibles tìm thấy vào ngày 30 tháng 6 năm 2023 ở Whitby, Ontario <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>. Người tìm thấy chiếc nhẫn sau đó được xác định là Brook Trafton, người sẽ bán nó cho Post Malone, một nhạc sĩ nổi tiếng và là người đam mê Phép thuật với giá 2.000.000 USD.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Cách chơi {#Gameplay}
 
-Tales of Trung Địa đã giới thiệu một cơ chế hoàn toàn mới cho Phép thuật: "**Chiếc nhẫn cám dỗ bạn**", nhằm mục đích mô phỏng sức mạnh mà Chiếc nhẫn có thể ban cho người mang nó. Khi bị cám dỗ, người chơi buộc phải chọn [Người Mang Nhẫn](../R/Ring-bearers.md) và khi bị cám dỗ ngày càng nhiều, sức mạnh của họ sẽ tăng lên. Tuy nhiên, không giống như One Ring trong các phiên bản chuyển thể khác, việc chọn người mang nhẫn không có nhược điểm gì. Điều này dẫn đến một số người chơi thất vọng vì họ cảm thấy có sự mất kết nối trong hương vị mà bộ này đã làm rất tốt trong việc tái tạo một cách máy móc. Nhà thiết kế chính của Magic Mark Rosewater đã giải đáp những lo ngại này, bình luận rằng trong quá trình thử nghiệm, họ nhận thấy rằng người chơi sẽ không tương tác với cơ chế nếu có bất kỳ nhược điểm nào, bất kể hàm ý về hương vị.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Tales of Middle-earth đã giới thiệu một cơ chế hoàn toàn mới cho Phép thuật: "**Chiếc nhẫn cám dỗ bạn**", nhằm mục đích mô phỏng sức mạnh mà Chiếc nhẫn có thể ban cho người mang nó. Khi bị cám dỗ, người chơi buộc phải chọn [Người mang nhẫn](../R/Ring-bearers.md) và khi bị cám dỗ ngày càng nhiều, sức mạnh của họ sẽ tăng lên. Tuy nhiên, không giống như One Ring trong các phiên bản chuyển thể khác, việc chọn người mang nhẫn không có nhược điểm gì. Điều này dẫn đến một số người chơi thất vọng vì họ cảm thấy có sự mất kết nối trong hương vị mà bộ này đã làm rất tốt trong việc tái tạo một cách máy móc. Nhà thiết kế chính của Magic Mark Rosewater đã giải đáp những lo ngại này, bình luận rằng trong quá trình thử nghiệm, họ nhận thấy rằng người chơi sẽ không tương tác với cơ chế nếu có bất kỳ nhược điểm nào, bất kể hàm ý về hương vị.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 Cơ chế quay trở lại đặc trưng trong bản mở rộng bao gồm:
 
-- **Amass**, đã sửa đổi nó để chỉ định loại sinh vật thành "[Orc](../O/Orc.md)" cho phép người chơi từ từ xây dựng đội quân orc của riêng mình
-Mã thông báo - **Thực phẩm** đang được sử dụng trong nhiều thẻ, đặc biệt là những thẻ đại diện cho [Hobbit](../H/Hobbits.md)
+- **Amass**, đã sửa đổi nó để chỉ định loại sinh vật là "[Orc](../O/Orc.md)" cho phép người chơi từ từ xây dựng đội quân orc của riêng mình
+Mã thông báo - **Thực phẩm** đang được sử dụng trong nhiều thẻ, đặc biệt là những thẻ đại diện cho [Người Hobbit](../H/Hobbits.md)
 - **Đi xe đạp địa hình cơ bản**, thể hiện những cuộc phiêu lưu dài ngày trên địa hình
 - **Lịch sử**, đề cập đến lịch sử cổ xưa đằng sau nhiều nhân vật và địa điểm
 
@@ -82,7 +82,7 @@ Giám đốc nghệ thuật cấp cao cho việc mở rộng là Ovidio Cartagen
 
 ### Khung thẻ {#Card_Frames}
 
-Giống như các bản mở rộng Magic khác, Tales of Trung Địa có các khung thẻ dành riêng cho bộ mới, có sẵn trong các sản phẩm khác nhau:
+Cũng như các bản mở rộng Magic khác, Tales of Middle-earth có các khung thẻ mới dành riêng cho từng bộ, có sẵn trong các sản phẩm khác nhau:
 
 <ul class="gallery mw-gallery-packed">
 		<li class="gallerybox" style="width: 231.33333333333px">
@@ -140,16 +140,16 @@ Có những phiên bản đặc biệt của nhiều lá bài trong bộ này c�
 
 Mười cảnh khác được giới thiệu là:
 
-- [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md)
-Tiệc sinh nhật của - [Bilbo](../B/Bilbo's_Farewell_Party.md)
+- [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md)
+- [Tiệc sinh nhật của Bilbo](../B/Bilbo's_Farewell_Party.md)
 - Chuyến bay từ [Khazad-dûm](../K/Khazad-dûm.md)
-- [Ent đang lấy Isengard](../B/Battle_of_Isengard.md)
-- [Cọ rửa The Shire](../B/Battle_of_Bywater.md)
-- Khởi hành đến [Cảng Xám](../G/Grey_Havens.md)
-- [Trận Helm's Deep](../B/Battle_of_the_Hornburg.md)
+- [Ent đang chiếm Isengard](../B/Battle_of_Isengard.md)
+- [Càn quét Quận](../B/Battle_of_Bywater.md)
+- Khởi hành đến [Grey Havens](../G/Grey_Havens.md)
+- [Trận chiến Helm's Deep](../B/Battle_of_the_Hornburg.md)
 - Sức mạnh của [Galadriel](../G/Galadriel.md)
-- [Gandalf](../G/Gandalf.md) trong cánh đồng Pelennor
-- Chuyến bay của [Vua Phù thủy](../W/Witch-king.md)
+- [Gandalf](../G/Gandalf.md) trên Cánh đồng Pelennor
+- Chuyến bay của [Vua phù thủy](../W/Witch-king.md)
 
 ### Họa sĩ minh họa {#Illustrators}
 
@@ -374,7 +374,7 @@ Các sản phẩm khác:
 
 ## Xem thêm {#See_also}
 
-- [Phép thuật: Cuộc tụ họp - The Hobbit](../M/Magic%253A_The_Gathering_-_The_Hobbit.md)
+- [Magic: The Gathering - The Hobbit](../M/Magic%253A_The_Gathering_-_The_Hobbit.md)
 
 ## Liên kết ngoài {#External_links}
 

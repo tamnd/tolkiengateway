@@ -13,7 +13,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Shiro No Norite** (<a class="extiw" href="http://en.wikipedia.org/wiki/Kanji" title="wikipedia:Kanji">Kanji</a>: **白の乗手**, "Kỵ Sĩ Trắng") là [Tolkien Hội](../T/Tolkien_Societies~67099.md) của Nhật Bản. Được thành lập vào [1981](../_/1981.md), họ có ba ấn phẩm: *Elanor*, bản tin hàng tháng; *Shiro No Norite*, nơi xuất bản nghiên cứu và *Kuro No Norite* ("The Kỵ Sĩ Đen"), một tạp chí thảo luận về những điều kỳ ảo khác. Không giống như ấn phẩm của một số hội khác, *Shiro No Norite* chỉ xuất bản bằng tiếng Nhật. Nó có một nụ cười, *Cuiviénen*.
+**Shiro No Norite** (<a class="extiw" href="http://en.wikipedia.org/wiki/Kanji" title="wikipedia:Kanji">Kanji</a>: **白の乗手**, "The White Rider") là [Hiệp hội Tolkien](../T/Tolkien_Societies~67099.md) của Nhật Bản. Được thành lập vào [1981](../_/1981.md), họ có ba ấn phẩm: *Elanor*, bản tin hàng tháng; *Shiro No Norite*, nơi xuất bản nghiên cứu và *Kuro No Norite* ("The Black Rider"), một tạp chí thảo luận về những câu chuyện giả tưởng khác. Không giống như ấn phẩm của một số hội khác, *Shiro No Norite* chỉ xuất bản bằng tiếng Nhật. Nó có một nụ cười, *Cuiviénen*.
 
 Vào năm 2011, nó cho thấy hoạt động tại Đại học Shinshu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Một thành viên (n) (dự kiến) đã viết về xã hội trên blog của họ vào năm 2017.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

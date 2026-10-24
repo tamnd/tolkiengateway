@@ -28,16 +28,16 @@ images:
     - [Pieter Collier](../P/Pieter_Collier.md), Damien Bador & Vivien Stocker; Romain Paulino (transl): Phỏng vấn [Wayne Hammond](../W/Wayne_Hammond.md) & [Christina Scull](../C/Christina_Scull.md)
     - Julien Mansencal: Trình bày *la Route perdue* và *[Sauron Defeated](../S/Sauron_Defeated.md)*
 - Tổng hợp
-    - Maria Kayed & Christophe Coevoet: Lịch sử Númenor
+    - Maria Kayed & Christophe Coevoet: Lịch sử númenor
     - Pascal Legrand & Damien Bador: Carte de Númenor
     - Pascal Legrand & Damien Bador: Hậu duệ d'Elros
     - Vivien Stocker: L'Herbier de Númenor
-- Tiểu luận
-    - Stéphanie Loubechine: L'Arbre Blanc: 'Quà lưu niệm Eldar et de la lumière de Valinor'
+- Bài luận
+    - Stéphanie Loubechine: L'Arbre Blanc: 'Quà lưu niệm des Eldar et de la lumière de Valinor'
     - Gạo Madeleine: Le Conseil du Scepter
     - [Didier Willis](../D/Didier_Willis.md): Númenor et la Cottoniana: Enquête sur une île en forme d'étoile à cinq Branch
     - Vivien Stocker: Les Númenóréens, des Égyptiens en Terre du Milieu
-    - Damien Bador: Vượt qua truyền thống: Númenor hoặc con đường hồi tưởng
+    - Damien Bador: Vượt qua truyền thống: Númenor ou la Route retrouvée
     - Julien Mansencal: L'Ombre d'une ombre : De l'Akallabêth rédigée par J.R.R. Tolkien à celle lisible dans le Silmarillion
 - Giảm căng thẳng
     - Pierre Nicolay: Novelle: 'Xin thứ lỗi, un peu plus à l'Ouest'
@@ -68,16 +68,16 @@ images:
     - Pascal Legrand & Damien Bador: Hậu duệ của Elros
     - Vivien Stocker: Phòng mẫu thảo của Númenor
 - Thử nghiệm
-    - Stéphanie Loubechine: Cây Trắng: 'Tưởng nhớ Eldar và Ánh sáng của Valinor'
+    - Stéphanie Loubechine: Cây trắng: 'Tưởng nhớ Eldar và ánh sáng của Valinor'
     - Madeleine Brice: Hội đồng của Vương trượng
-    - [Didier Willis](../D/Didier_Willis.md): Númenor và Cottoniana: Khảo sát một hòn đảo có hình ngôi sao năm cánh
-    - Vivien Stocker: Người người Númenor, người Ai Cập ở Trung Địa
-    - Damien Bador: Truyền lại truyền thống: Númenor hoặc con đường được tìm thấy
-    - Julien Mansencal: Bóng Tối của Bóng Tối: Từ Akallabêth được viết bởi J.R.R. Tolkien đến phần có thể đọc được trong Silmarillion
+    - [Didier Willis](../D/Didier_Willis.md): Númenor và Cottoniana: Khám phá một hòn đảo có hình ngôi sao năm cánh
+    - Vivien Stocker: Người Númenóreans, người Ai Cập ở Trung Địa
+    - Damien Bador: Truyền lại truyền thống: Númenor hay con đường tìm thấy
+    - Julien Mansencal: Shadow of a Shadow: Từ Akallabêth được viết bởi J.R.R. Tolkien đến cuốn có thể đọc được trong Silmarillion
 - Thư giãn
-    - Pierre Nicolay: Novelle: 'Xin thứ lỗi, thêm một chút nữa Phương Tây'
+    - Pierre Nicolay: Novelle: 'Xin lỗi, xa hơn một chút về phía Tây'
     - Damien Bador: Q.C.M.
-    - Louise Boulay: La Folle Jeunesse de Galadriel: 'Chúng ta sẽ nói với anh ấy sau'
+    - Louise Boulay: La Folle Jeunesse de Galadriel: 'Chúng ta sẽ nói với ông sau'
     - Pascal Legrand: Trò chơi bảy lỗi
     - Madeleine Brice: Ô chữ
     - Maria Kayed: Những từ ngữ ẩn giấu

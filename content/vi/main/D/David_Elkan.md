@@ -18,4 +18,4 @@ sort_keys:
   "People by name": "Elkan, David"
 ---
 
-**David Elkan** là tác giả [người Anh](../U/United_Kingdom.md). Ông đã viết cuốn sách *[A Guide to Playing The Hobbit](../A/A_Guide_to_Playing_The_Hobbit.md)*hướng dẫn và giúp đỡ người chơi [chuyển thể trò chơi điện tử *The Hobbit*](<../T/The_Hobbit_(1982_video_game).md>) thông qua trò chơi.
+**David Elkan** là tác giả [người Anh](../U/United_Kingdom.md). Ông đã viết cuốn sách *[A Guide to Playing The Hobbit](../A/A_Guide_to_Playing_The_Hobbit.md)* hướng dẫn và giúp đỡ người chơi [chuyển thể trò chơi điện tử *The Hobbit*](<../T/The_Hobbit_(1982_video_game).md>) thông qua trò chơi.

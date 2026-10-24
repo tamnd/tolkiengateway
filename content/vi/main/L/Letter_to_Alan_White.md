@@ -18,9 +18,9 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_White_10_July_1964.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/32/Alan_White_10_July_1964.jpg/300px-Alan_White_10_July_1964.jpg" decoding="async" loading="lazy" width="300" height="493" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/32/Alan_White_10_July_1964.jpg/450px-Alan_White_10_July_1964.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/32/Alan_White_10_July_1964.jpg/600px-Alan_White_10_July_1964.jpg 2x" data-file-width="876" data-file-height="1440"/></a><figcaption></figcaption></figure>
 
-Vào [10 tháng 7](../_/10_July.md) [1964](../_/1964.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Alan White** (13 tuổi).
+Vào [10 tháng 7](../_/10_July.md) [1964](../_/1964.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi Alan White** (13 tuổi).
 
-- **Mô tả**: Một trang, được đánh máy và ký bởi Tolkien bằng cả chữ La Mã và [tengwar](../T/Tengwar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- **Mô tả**: Một trang, được Tolkien đánh máy và ký tên bằng cả chữ La Mã và [tengwar](../T/Tengwar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

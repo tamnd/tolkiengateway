@@ -41,7 +41,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Ilmarin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a2/Ted_Nasmith_-_Ilmarin.jpg/320px-Ted_Nasmith_-_Ilmarin.jpg" decoding="async" loading="lazy" width="320" height="240" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a2/Ted_Nasmith_-_Ilmarin.jpg/480px-Ted_Nasmith_-_Ilmarin.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a2/Ted_Nasmith_-_Ilmarin.jpg/640px-Ted_Nasmith_-_Ilmarin.jpg 2x" data-file-width="960" data-file-height="720"/></a><figcaption>Detail of &#34;<a href="../../file/T/Ted_Nasmith_-_Taniquetil.jpg.md" title="File:Ted Nasmith - Taniquetil.jpg">Taniquetil</a>&#34; by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Building</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ilmarin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Pronunciation</th><td class="tg-infobox-data"><i><b><span style="font-variant:small-caps;">il</span></b>-mar-in</i></td></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Halls of Manwë and Varda</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">atop <a href="../T/Taniquetil.md" title="Taniquetil">Taniquetil</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Building</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../M/Manwë.md" title="Manwë">Manwë</a> and <a href="../V/Varda.md" title="Varda">Varda</a></td></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data"><a href="../H/High_feast.md" title="High feast">High feast</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Ilmarin.md" title="Category:Images of Ilmarin">Images of Ilmarin</a></td></tr></tbody></table>
 
-**Ilmarin** ám chỉ dinh thự của [Manwë](../M/Manwë.md) và [Varda](../V/Varda.md).<sup id="cite_ref-SI_1-0" class="reference"><a href="#cite_note-SI-1">[1]</a></sup><sup id="cite_ref-UI_2-0" class="reference"><a href="#cite_note-UI-2">[2]</a></sup>
+**Ilmarin** đề cập đến dinh thự của [Manwë](../M/Manwë.md) và [Varda](../V/Varda.md).<sup id="cite_ref-SI_1-0" class="reference"><a href="#cite_note-SI-1">[1]</a></sup><sup id="cite_ref-UI_2-0" class="reference"><a href="#cite_note-UI-2">[2]</a></sup>
 
 ## Mô tả {#Description}
 
@@ -53,11 +53,11 @@ The <a class="extiw" href="http://en.wikipedia.org/wiki/Dome" title="wikipedia:D
 <p class="tg-quote-footer"><cite><a href="../V/Valaquenta.md" title="Valaquenta">Valaquenta</a>: Of the Valar</cite></p>
 </blockquote>
 
-Trong [bữa tiệc cao cấp](../H/High_feast.md) trước [Tối của Valinor](../D/Darkening_of_Valinor.md), [Maiar](../M/Maiar.md), [Vanyar](../V/Vanyar.md) và [Noldor](../N/Noldor.md) đã hát trước Manwë và Varda trong hội trường của họ.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong [bữa tiệc thượng đỉnh](../H/High_feast.md) trước [Sự tối tăm của Valinor](../D/Darkening_of_Valinor.md), [Maiar](../M/Maiar.md), [Vanyar](../V/Vanyar.md) và [Noldor](../N/Noldor.md) đã hát trước Manwë và Varda trong hội trường của họ.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Ilmarin* là [Quenya](../Q/Quenya.md)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> dành cho "biệt thự trên không".<sup id="cite_ref-UI_2-1" class="reference"><a href="#cite_note-UI-2">[2]</a></sup> [Christopher Tolkien](../C/Christopher_Tolkien.md) đã lưu ý rằng *Ilmarin* có liên quan đến các từ như *[Ilmarë](Ilmarë.md)* và *[Ilmen](Ilmen.md)*.<sup id="cite_ref-SI_1-1" class="reference"><a href="#cite_note-SI-1">[1]</a></sup>
+*Ilmarin* là [Quenya](../Q/Quenya.md)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> có nghĩa là "lâu đài trên không".<sup id="cite_ref-UI_2-1" class="reference"><a href="#cite_note-UI-2">[2]</a></sup> [Christopher Tolkien](../C/Christopher_Tolkien.md) đã lưu ý rằng *Ilmarin* có liên quan đến những từ như *[Ilmarë](Ilmarë.md)* và *[Ilmen](Ilmen.md)*.<sup id="cite_ref-SI_1-1" class="reference"><a href="#cite_note-SI-1">[1]</a></sup>
 
 Trong bài thơ [Namárië](../N/Namárië.md), nơi ở của Manwë và Varda được đặt tên [Quenya](../Q/Quenya.md) <i><b>oromardi</b></i> ("đại sảnh cao cả").<sup id="cite_ref-Farewell_7-0" class="reference"><a href="#cite_note-Farewell-7">[7]</a></sup><sup id="cite_ref-PE16_8-0" class="reference"><a href="#cite_note-PE16-8">[8]</a></sup>
 
@@ -67,7 +67,7 @@ Trong [một bài thơ](../G/Galadriel's_Song.md), tên *Ilmarin* được dùng
 
 ## Cảm hứng {#Inspiration}
 
-Ilmarin và ngai vàng của Manwë có thể được lấy cảm hứng từ [Bắc Âu Thần thoại](../N/Norse_Mythology~40840.md): các vị thần có một nơi ở tên là <a class="extiw" href="http://en.wikipedia.org/wiki/Valaskj%C3%A1lf" title="wikipedia:Valaskjálf">Valaskjálf</a> ở Valhalla, nơi Odin có ngai vàng ma thuật của mình, <a class="extiw" href="http://en.wikipedia.org/wiki/Hlidskj%C3%A1lf" title="wikipedia:Hlidskjálf">Hlidskjálf</a>:
+Ilmarin và ngai vàng của Manwë có thể được lấy cảm hứng từ [Thần thoại Bắc Âu](../N/Norse_Mythology~40840.md): các vị thần có một nơi ở tên là <a class="extiw" href="http://en.wikipedia.org/wiki/Valaskj%C3%A1lf" title="wikipedia:Valaskjálf">Valaskjálf</a> ở Valhalla, nơi Odin có ngai vàng ma thuật của mình, <a class="extiw" href="http://en.wikipedia.org/wiki/Hlidskj%C3%A1lf" title="wikipedia:Hlidskjálf">Hlidskjálf</a>:
 
 <blockquote class="tg-quote noexcerpt">
 <p>Another great abode is there, which is named Valaskjálf; Odin possesses that dwelling; the gods made it and thatched it with sheer silver, and in this hall is the Hlidskjálf, the high-seat so called. Whenever Allfather sits in that seat, he surveys all lands.

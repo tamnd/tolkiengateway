@@ -27,7 +27,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Ed_Sheeran.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4d/Ed_Sheeran.jpg/250px-Ed_Sheeran.jpg" decoding="async" loading="lazy" width="250" height="140" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4d/Ed_Sheeran.jpg/375px-Ed_Sheeran.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4d/Ed_Sheeran.jpg/500px-Ed_Sheeran.jpg 2x" data-file-width="600" data-file-height="337"/></a><figcaption></figcaption></figure>
 
-**Ed Sheeran** ([17 tháng 2](../_/17_February.md) [1991](../_/1991.md)) là một ca sĩ và nhạc sĩ người Anh. Anh ấy đã viết và biểu diễn "[I See Fire](../I/I_See_Fire.md)", bài hát chính của *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*.
+**Ed Sheeran** ([17 tháng 2](../_/17_February.md) [1991](../_/1991.md)) là một ca sĩ và nhạc sĩ người Anh. Ông đã viết và biểu diễn "[I See Fire](../I/I_See_Fire.md)", bài hát chính của *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*.
 
 ## Liên kết ngoài {#External_links}
 

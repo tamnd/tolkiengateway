@@ -13,7 +13,7 @@ categories:
   - "Noldorin nouns"
 ---
 
-<i><b>brannon</b></i> là từ [Sindarin](../S/Sindarin.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> có nghĩa là "chúa".<sup id="cite_ref-LR351_2-0" class="reference"><a href="#cite_note-LR351-2">[1]</a></sup>
+<i><b>brannon</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> có nghĩa là "chúa".<sup id="cite_ref-LR351_2-0" class="reference"><a href="#cite_note-LR351-2">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -33,7 +33,7 @@ Trong tiếng Wales, <i><a class="external text" href="http://en.wiktionary.org/
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Từ này không xuất hiện trong <a href="../C/Canon.md" title="Canon">văn bản chuẩn</a> dưới dạng Sindarin; nó được liệt kê là <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a>.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Từ này không xuất hiện trong các văn bản <a href="../C/Canon.md" title="Canon">kinh điển</a> dưới dạng tiếng Sindarin; nó được liệt kê là <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a>.</span>
 </li>
 <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Đề xuất của <a href="https://tolkiengateway.net/wiki/User:Sage" title="User:Sage">Người dùng:Sage</a>.</span>
 </li>

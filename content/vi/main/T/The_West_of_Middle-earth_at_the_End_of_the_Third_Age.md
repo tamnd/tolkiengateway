@@ -22,15 +22,15 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Christopher_Tolkien_-_The_West_of_Middle-earth.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fb/Christopher_Tolkien_-_The_West_of_Middle-earth.png/250px-Christopher_Tolkien_-_The_West_of_Middle-earth.png" decoding="async" loading="lazy" width="250" height="191" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fb/Christopher_Tolkien_-_The_West_of_Middle-earth.png/375px-Christopher_Tolkien_-_The_West_of_Middle-earth.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/fb/Christopher_Tolkien_-_The_West_of_Middle-earth.png/500px-Christopher_Tolkien_-_The_West_of_Middle-earth.png 2x" data-file-width="3840" data-file-height="2931"/></a><figcaption>Standard version of the Map.</figcaption></figure>
 
-<i><b> Phương Tây của Trung Địa ở cuối Kỷ Đệ Tam</b></i> là tiêu đề của bản đồ được vẽ bởi [Christopher Tolkien](../C/Christopher_Tolkien.md) trong [1980](../_/1980.md), đây là phiên bản mới của [bản đồ cũ hơn](../G/General_Map_of_Middle-earth.md) được tạo lại trong [1953](../_/1953.md).
+<i><b>Phía Tây Trung Địa vào cuối Thời đại thứ ba</b></i> là tiêu đề của một bản đồ được vẽ bởi [Christopher Tolkien](../C/Christopher_Tolkien.md) trong [1980](../_/1980.md), đây là phiên bản mới của [một bản đồ cũ hơn](../G/General_Map_of_Middle-earth.md) được tạo lại trong [1953](../_/1953.md).
 
-Nó mô tả [Westlands](../W/Westlands.md) và toàn bộ vùng tây bắc [Trung Địa](../M/Middle-earth.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
+Nó mô tả [Westlands](../W/Westlands.md) và toàn bộ vùng tây bắc [Trung địa](../M/Middle-earth.md) trong [War of the Ring](../W/War_of_the_Ring.md).
 
 ## Quan niệm và sáng tạo {#Conception_and_creation}
 
-Bản đồ này được Christopher vẽ lại từ [bản đồ gốc](../G/General_Map_of_Middle-earth.md) của chính anh ấy được thực hiện vào cuối [1953](../_/1953.md) cho ấn bản đầu tiên của *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.<sup id="cite_ref-RC_1-0" class="reference"><a href="#cite_note-RC-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-intro_3-0" class="reference"><a href="#cite_note-intro-3">[3]</a></sup> Nó được vẽ lại để bao gồm các vị trí mới được đề cập trong *[Unfinished Tales](../U/Unfinished_Tales.md)* (chẳng hạn như "[Edhellond](../E/Edhellond.md)" và "[Undeeps](../U/Undeeps.md)"), nhưng cũng để sửa một số lỗi nhỏ của bản đồ đã vẽ trước đó "hai mươi lăm năm trước".<sup id="cite_ref-intro_3-1" class="reference"><a href="#cite_note-intro-3">[3]</a></sup>
+Bản đồ này là bản vẽ lại của Christopher từ [bản đồ gốc](../G/General_Map_of_Middle-earth.md) của chính ông được thực hiện vào cuối [1953](../_/1953.md) cho ấn bản đầu tiên của *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.<sup id="cite_ref-RC_1-0" class="reference"><a href="#cite_note-RC-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-intro_3-0" class="reference"><a href="#cite_note-intro-3">[3]</a></sup> Nó được vẽ lại để bao gồm các vị trí mới được đề cập trong *[Unfinished Tales](../U/Unfinished_Tales.md)* (chẳng hạn như "[Edhellond](../E/Edhellond.md)" và "[Undeeps](../U/Undeeps.md)"), nhưng cũng để sửa một số lỗi nhỏ của bản đồ trước đó được vẽ "hai mươi lăm năm trước".<sup id="cite_ref-intro_3-1" class="reference"><a href="#cite_note-intro-3">[3]</a></sup>
 
-Kích thước của bản vẽ mới "lớn bằng một nửa bản đồ cũ theo kích thước đã công bố" và phạm vi nhỏ hơn của nó cho phép nhìn rõ hơn. Christopher Tolkien giữ nguyên "phong cách và chi tiết" của bản gốc không phải vì tính chính xác mà vì sự trung thành có thể chấp nhận được với quan niệm của cha ông.<sup id="cite_ref-intro_3-2" class="reference"><a href="#cite_note-intro-3">[3]</a></sup>
+Kích thước của bản vẽ mới "lớn bằng một nửa bản đồ cũ theo kích thước đã công bố" và phạm vi nhỏ hơn của nó cho phép nhìn rõ hơn. Christopher Tolkien bảo tồn "phong cách và chi tiết" của bản gốc không phải vì tính chính xác của nó mà vì sự trung thành có thể chấp nhận được với quan niệm của cha ông.<sup id="cite_ref-intro_3-2" class="reference"><a href="#cite_note-intro-3">[3]</a></sup>
 
 Kể từ [2005](../_/2005.md), nó đã được đưa vào phiên bản [HarperCollins](../H/HarperCollins.md) của *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.<sup id="cite_ref-RC_1-1" class="reference"><a href="#cite_note-RC-1">[1]</a></sup>
 
@@ -38,13 +38,13 @@ Kể từ [2005](../_/2005.md), nó đã được đưa vào phiên bản [Harpe
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_West_of_Middle-earth_at_the_End_of_the_Third_Age_(colorized).jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4f/The_West_of_Middle-earth_at_the_End_of_the_Third_Age_%28colorized%29.jpeg/300px-The_West_of_Middle-earth_at_the_End_of_the_Third_Age_%28colorized%29.jpeg" decoding="async" loading="lazy" width="300" height="229" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4f/The_West_of_Middle-earth_at_the_End_of_the_Third_Age_%28colorized%29.jpeg/450px-The_West_of_Middle-earth_at_the_End_of_the_Third_Age_%28colorized%29.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4f/The_West_of_Middle-earth_at_the_End_of_the_Third_Age_%28colorized%29.jpeg/600px-The_West_of_Middle-earth_at_the_End_of_the_Third_Age_%28colorized%29.jpeg 2x" data-file-width="3765" data-file-height="2879"/></a><figcaption>This colorized version can be found in <i><a href="The_Fall_of_Númenor.md" title="The Fall of Númenor">The Fall of Númenor</a></i>.</figcaption></figure>
 
-Có phạm vi nhỏ hơn bản gốc, bản đồ này loại trừ các vị trí như [Mũi Forochel](../C/Cape_of_Forochel.md) ở phía bắc hoặc [Umbar](../U/Umbar.md) và [Xa Harad](../F/Far_Harad.md) ở phía nam. Tuy nhiên, đảo [Himling](../H/Himling.md) hiện đã được bao gồm.<sup id="cite_ref-intro_3-3" class="reference"><a href="#cite_note-intro-3">[3]</a></sup>
+Có phạm vi nhỏ hơn bản gốc, bản đồ này loại trừ các địa điểm như [Mũi Forochel](../C/Cape_of_Forochel.md) ở phía bắc hoặc [Umbar](../U/Umbar.md) và [Far Harad](../F/Far_Harad.md) ở phía nam. Tuy nhiên, đảo [Himling](../H/Himling.md) hiện đã được bao gồm.<sup id="cite_ref-intro_3-3" class="reference"><a href="#cite_note-intro-3">[3]</a></sup>
 
-Vùng [Biển](../S/Sea.md) hiện được lấp đầy bởi các đường đồng mức tỏa ra từ bờ biển, giống như trường hợp của các vùng nước nội địa.
+[Biển](../S/Sea.md) hiện chứa đầy các đường đồng mức tỏa ra từ bờ biển, giống như trường hợp của các vùng nước nội địa.
 
-[Vịnh Băng Forochel](../I/Icebay_of_Forochel.md) hiện được gắn nhãn bằng mũi tên chỉ vào phần đông bắc lớn hơn của vịnh chứ không phải vịnh nhỏ. [Christopher Tolkien](../C/Christopher_Tolkien.md) nói rằng bản đồ gốc của anh ấy bị đánh dấu không chính xác.<sup id="cite_ref-intro_3-4" class="reference"><a href="#cite_note-intro-3">[3]</a></sup>
+[Vịnh băng Forochel](../I/Icebay_of_Forochel.md) hiện được gắn nhãn mũi tên chỉ vào phần đông bắc lớn hơn của vịnh chứ không phải vịnh nhỏ. [Christopher Tolkien](../C/Christopher_Tolkien.md) tuyên bố rằng bản đồ gốc của ông bị đánh dấu không chính xác.<sup id="cite_ref-intro_3-4" class="reference"><a href="#cite_note-intro-3">[3]</a></sup>
 
-Các khu vực [Gondor](../G/Gondor.md) và [Rohan](../R/Rohan.md) có đường phố chi tiết hơn, như được thấy trong *[Map of Rohan, Gondor, and Mordor](../M/Map_of_Rohan,_Gondor,_and_Mordor.md)*: [Westfold](../W/Westfold.md) và [Eastfold](../E/Eastfold.md), được phân cách bằng [Snowbourn](../S/Snowbourn.md) cũng như [Mering Stream](../M/Mering_Stream.md). [Đường Nam cũ](../O/Old_South_Road.md) được đổi tên thành [Con đường Bắc-Nam](../N/North-South_Road.md) và kéo dài dọc theo [Dãy Núi Trắng](../W/White_Mountains.md), mặc dù một phần hướng đi của nó đã được Christopher Tolkien phỏng đoán.<sup id="cite_ref-intro_3-5" class="reference"><a href="#cite_note-intro-3">[3]</a></sup>
+Các khu vực [Gondor](../G/Gondor.md) và [Rohan](../R/Rohan.md) có nhiều đường phố và đường phố chi tiết hơn, như được thấy trong *[Map of Rohan, Gondor, and Mordor](../M/Map_of_Rohan,_Gondor,_and_Mordor.md)*: [Westfold](../W/Westfold.md) và [Eastfold](../E/Eastfold.md), được phân tách bằng [Snowbourn](../S/Snowbourn.md) cũng như [Mering Stream](../M/Mering_Stream.md). [Đường Nam cũ](../O/Old_South_Road.md) được đổi tên thành [Đường Bắc-Nam](../N/North-South_Road.md) và kéo dài dọc theo [Dãy núi Trắng](../W/White_Mountains.md), mặc dù Christopher Tolkien đã phỏng đoán một phần đường đi của nó.<sup id="cite_ref-intro_3-5" class="reference"><a href="#cite_note-intro-3">[3]</a></sup>
 
 Các tên khác không hiển thị trong bản đồ gốc bao gồm:
 
@@ -52,15 +52,15 @@ Các tên khác không hiển thị trong bản đồ gốc bao gồm:
 - [Carnen](../C/Carnen.md)
 - [Arthedain](../A/Arthedain.md) và [Cardolan](../C/Cardolan.md) hiện được bao gồm cùng với [Rhudaur](../R/Rhudaur.md)
 - [Ford cũ](../O/Old_Ford.md)
-- [phương Đông Tuyệt vời](../E/East_Bight.md)
-- [Annúminas](../A/Annúminas.md)
-- [Đi qua Poros](../C/Crossings_of_Poros.md)
-- [Edhellond](../E/Edhellond.md) (đoán đoán)<sup id="cite_ref-intro_3-6" class="reference"><a href="#cite_note-intro-3">[3]</a></sup>
-- [Lond Daer](../L/Lond_Daer.md) (đoán đoán)<sup id="cite_ref-intro_3-7" class="reference"><a href="#cite_note-intro-3">[3]</a></sup>
+- [Bight phía Đông](../E/East_Bight.md)
+- [Thông báo](../A/Annúminas.md)
+- [Vượt qua Poros](../C/Crossings_of_Poros.md)
+- [Edhellond](../E/Edhellond.md) (phỏng đoán)<sup id="cite_ref-intro_3-6" class="reference"><a href="#cite_note-intro-3">[3]</a></sup>
+- [Lond Daer](../L/Lond_Daer.md) (phỏng đoán)<sup id="cite_ref-intro_3-7" class="reference"><a href="#cite_note-intro-3">[3]</a></sup>
 - [Harnen](../H/Harnen.md)
 - [Eryn Vorn](../E/Eryn_Vorn.md) hiện được kết cấu như một khu rừng
-- [Swanfleet](../S/Swanfleet.md) và [Glanduin](../G/Glanduin.md)
-- [Adorn](../A/Adorn.md)
+- [Hạm thiên nga](../S/Swanfleet.md) và [Tuyến](../G/Glanduin.md)
+- [Tôn vinh](../A/Adorn.md)
 - [Andrast](../A/Andrast.md)
 - [Drúwaith Iaur](../D/Drúwaith_Iaur.md)
 

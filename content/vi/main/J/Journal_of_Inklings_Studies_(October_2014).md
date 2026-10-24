@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Journal of Inklings Studies, vol.4 no.2"
 ---
 
-Chuyển hướng đến [Tạp chí nghiên cứu Inklings, tập 4 số 2](Journal_of_Inklings_Studies,_vol.4_no.2.md).
+Chuyển hướng tới [Tạp chí Nghiên cứu về Inklings, tập 4 số 2](Journal_of_Inklings_Studies,_vol.4_no.2.md).

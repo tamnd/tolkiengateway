@@ -28,4 +28,4 @@ sort_keys:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.imdb.com/name/nm0718126/" rel="noreferrer noopener" target="_blank">Ray Reinhardt</a> tại <a class="external text" href="http://www.imdb.com/" rel="noreferrer noopener" target="_blank">IMDb</a>
-- Steven Winn, "<a class="external text" href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2001/09/17/DD167125.DTL&amp;type=performance" rel="noreferrer noopener" target="_blank">Mỗi inch đều là một vị vua: Ở tuổi 71, diễn viên kỳ cựu sẵn sàng nắm quyền chỉ huy Lear</a>", *San Francisco Chronicle*, [tháng Chín 17](../_/17_September.md), [2001](../_/2001.md)
+- Steven Winn, "<a class="external text" href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2001/09/17/DD167125.DTL&amp;type=performance" rel="noreferrer noopener" target="_blank">Mỗi inch một vị vua: Ở tuổi 71, nam diễn viên kỳ cựu sẵn sàng nắm quyền chỉ huy Lear</a>", *San Francisco Chronicle*, [17 tháng 9](../_/17_September.md), [2001](../_/2001.md)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Requests for adminship/Archive"
 ---
 
-Chuyển hướng tới [Tolkien Gateway:Yêu cầu quyền quản trị/Lưu trữ](Requests_for_adminship%252FArchive.md).
+Chuyển hướng tới [Cổng Tolkien:Yêu cầu quyền quản trị/Lưu trữ](Requests_for_adminship%252FArchive.md).

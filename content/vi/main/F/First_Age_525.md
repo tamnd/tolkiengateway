@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_510.md" title="First Age 510">510</a><a href="First_Age_511.md" title="First Age 511">511</a><a href="First_Age_512.md" title="First Age 512">512</a><a class="mw-selflink selflink">525</a><a href="First_Age_527.md" title="First Age 527">527</a><a href="First_Age_532.md" title="First Age 532">532</a><a href="First_Age_534.md" title="First Age 534">534</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Nhất 525** (viết tắt là **F.A. 525**) là năm [thứ 525 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ nguyên thứ nhất 525** (viết tắt là **F.A. 525**) là [năm Mặt trời](../Y/Years_of_the_Sun.md) thứ 525 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Tuor](../T/Tuor.md) và [Idril](../I/Idril.md) ra khơi trên con tàu của họ, [Eärrámë](../E/Eärrámë.md) và rời [Trung Địa](../M/Middle-earth.md) đi [Valinor](../V/Valinor.md). Riêng trong số tất cả [nam giới](../M/Men.md), Tuor được cho là được tính trong số [Eldar](../E/Eldar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Tuor](../T/Tuor.md) và [Idril](../I/Idril.md) ra khơi trên con tàu của họ, [Eärrámë](../E/Eärrámë.md) và rời [Trung địa](../M/Middle-earth.md) đến [Valinor](../V/Valinor.md). So với tất cả [đàn ông](../M/Men.md), Tuor được cho là được tính trong số [Eldar](../E/Eldar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - Cuộc hôn nhân của [Eärendil](../E/Eärendil.md) và [Elwing](../E/Elwing.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>

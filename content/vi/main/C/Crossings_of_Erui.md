@@ -37,11 +37,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Cách [Minas Tirith](../M/Minas_Tirith.md) khoảng 50 dặm về phía nam, con đường chính dẫn tới [Pelargir](../P/Pelargir.md) băng qua sông [Erui](../E/Erui.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong [Kin-strife](../K/Kin-strife~3650.md) của [T.A.](../T/Third_Age.md) [1447](../T/Third_Age_1447.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Eldacar](<../E/Eldacar_(King_of_Gondor).md>) đã chiến đấu với [Castamir Kẻ Tiếm Quyền](Castamir.md) tại ngã tư. Eldacar đã chiến thắng và tiêu diệt được kẻ thù của mình, nhưng nhiều người Gondor đã ngã xuống trong ngày hôm đó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Khoảng 50 dặm về phía nam [Minas Tirith](../M/Minas_Tirith.md), con đường chính đến [Pelargir](../P/Pelargir.md) băng qua sông [Erui](../E/Erui.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong [Kin-strife](../K/Kin-strife~3650.md) của [T.A.](../T/Third_Age.md) [1447](../T/Third_Age_1447.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Eldacar](<../E/Eldacar_(King_of_Gondor).md>) đã chiến đấu với [Castamir the Kẻ chiếm đoạt](Castamir.md) ở ngã tư. Eldacar đã giành chiến thắng và giết chết kẻ thù của mình, nhưng nhiều người Gondoria đã thất thủ vào ngày hôm đó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>The Crossings of Erui were found in Eastern Gondor, and connected Upper <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a> to <a href="../L/Lossarnach.md" title="Lossarnach">Lossarnach</a>. During the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a>, the ford was haunted by ancient <a href="../G/Gondorians.md" title="Gondorians">Gondorian</a> armour animated by water under the command of the angry River-maid the Lone Lady, preventing the invading <a href="../H/Haradrim.md" title="Haradrim">Haradrim</a> from crossing. The Lone Lady animated the long-lost armour of <a href="Castamir.md" title="Castamir">Castamir</a> himself before being calmed by her sisters.</dd></dl>
 

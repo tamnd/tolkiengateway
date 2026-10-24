@@ -28,7 +28,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Marion Arts** là ca sĩ kiêm nhạc sĩ có trụ sở tại New Zealand. Cô đã phát hành một CD ca nhạc lấy cảm hứng từ [Tolkien](../J/J.R.R._Tolkien.md), mang tên <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Songs_of_the_Rings&amp;action=edit&amp;redlink=1" title="Songs of the Rings (page does not exist)">Bài hát của những chiếc nhẫn</a></i>, vào năm 2005.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Marion Arts** là ca sĩ kiêm nhạc sĩ người New Zealand. Cô đã phát hành CD nhạc kịch lấy cảm hứng từ [Tolkien](../J/J.R.R._Tolkien.md), mang tên <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Songs_of_the_Rings&amp;action=edit&amp;redlink=1" title="Songs of the Rings (page does not exist)">Bài hát của những chiếc nhẫn</a></i>, vào năm 2005.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

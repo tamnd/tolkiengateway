@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Wayne G. Hammond](../../main/W/Wayne_G._Hammond.md) và [Christina Scull](../../main/C/Christina_Scull.md) đã lưu ý rằng bản vẽ này "chỉ được xuất bản trong ấn bản đầu tiên của *[Pictures by J.R.R. Tolkien](../../main/P/Pictures_by_J.R.R._Tolkien.md)* \[...\] một dấu vết Tolkien được làm bằng mực in mặt trước \[của lần in đầu tiên của *[The Hobbit](../../main/T/The_Hobbit.md)*\] để chuyển đường viền của nó sang một tờ giấy mới, trên đó anh ấy đã tạo ra [phiên bản màu nước](<J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_(Colored).jpg.md>)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Wayne G. Hammond](../../main/W/Wayne_G._Hammond.md) và [Christina Scull](../../main/C/Christina_Scull.md) đã lưu ý rằng bản vẽ này "chỉ được xuất bản trong ấn bản đầu tiên của *[Pictures by J.R.R. Tolkien](../../main/P/Pictures_by_J.R.R._Tolkien.md)* \[...\] một dấu vết Tolkien được làm bằng mực in mặt trước \[của lần in đầu tiên của *[The Hobbit](../../main/T/The_Hobbit.md)*\] để chuyển đường viền của nó sang một tờ giấy mới, trên đó ông đã tạo ra [phiên bản màu nước](<J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_(Colored).jpg.md>)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Giấy phép {#Licensing}
 

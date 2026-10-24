@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gap of Rohan"
 ---
 
-Chuyển hướng đến [Gap of Rohan](Gap_of_Rohan.md).
+Chuyển hướng đến [Khoảng cách Rohan](Gap_of_Rohan.md).

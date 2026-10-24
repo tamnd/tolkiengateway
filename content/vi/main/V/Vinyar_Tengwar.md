@@ -52,13 +52,13 @@ infobox:
 <p class="tg-quote-footer"><cite>Elvish Linguistic Fellowship</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-<i><b>Vinyar Tengwar</b></i>hay viết tắt là <i><b>VT</b></i>, là một tạp chí ngôn ngữ được xuất bản bởi [Elvish Linguistic Fellowship](../E/Elvish_Linguistic_Fellowship.md), chuyên nghiên cứu học thuật về các ngôn ngữ được phát minh ra của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Vinyar Tengwar</b></i>hay gọi tắt là <i><b>VT</b></i>, là một tạp chí ngôn ngữ được xuất bản bởi [Hiệp hội Ngôn ngữ học Elvis](../E/Elvish_Linguistic_Fellowship.md), chuyên nghiên cứu học thuật về các ngôn ngữ được phát minh ra của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Tên *Vinyar Tengwar* là [Neo-Quenya](../N/Neo-Elvish.md) kết xuất của **"Bản tin"** như một từ ghép lỏng lẻo của từ mới *vinyar* "news" (danh từ số nhiều từ *[vinya](Vinya.md)* "mới", so sánh *[vanya](Vanya.md)* "công bằng" và nhóm của *[Vanyar](Vanyar.md)*) và số nhiều của từ *[tengwa](../T/Tengwa.md)* "bức thư (của bảng chữ cái)". Độ chính xác của nó còn bị tranh cãi, chủ yếu là do sự khác biệt về ngữ nghĩa giữa "chữ cái trong bảng chữ cái" và "thư, thư, bài viết".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Tên *Vinyar Tengwar* là [Neo-Quenya](../N/Neo-Elvish.md) kết xuất của **"Bản tin"** như một từ ghép lỏng lẻo của từ mới *vinyar* "news" (danh từ số nhiều từ *[vinya](Vinya.md)* "mới", so sánh *[vanya](Vanya.md)* "công bằng" và nhóm của *[Vanyar](Vanyar.md)*) và số nhiều của từ *[tengwa](../T/Tengwa.md)* "chữ cái (của bảng chữ cái)". Độ chính xác của nó còn bị tranh cãi, chủ yếu là do sự khác biệt về ngữ nghĩa giữa "chữ cái trong bảng chữ cái" và "thư, thư, bài viết".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-*Vinyar Tengwar* xuất hiện lần đầu trong [1988](../_/1988.md), lúc đầu được chỉnh sửa bởi [Jorge Quiñónez](../J/Jorge_Quiñónez.md) và sau đó được [Carl F. Hostetter](../C/Carl_F._Hostetter.md) tiếp quản. Lúc đầu, nó xuất hiện hai tháng một lần, nhưng sau tháng 7 [1994](../_/1994.md), các vấn đề xuất hiện bất thường hơn, khoảng một lần một năm. Điều này trùng hợp với tần suất xuất bản các văn bản do chính Tolkien viết nhiều hơn; tạp chí hiện nay chủ yếu dành riêng cho những văn bản như vậy. Một số văn bản này đã được đề cập trong các tập *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)*, do [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập, nhưng không được xuất bản trong bộ sách đó do tính chất chuyên môn hoặc bí mật của chúng.
+*Vinyar Tengwar* xuất hiện lần đầu trong [1988](../_/1988.md), lần đầu tiên được chỉnh sửa bởi [Jorge Quiñónez](../J/Jorge_Quiñónez.md) và sau đó được [Carl F. Hostetter](../C/Carl_F._Hostetter.md) tiếp quản. Lúc đầu, nó xuất hiện hai tháng một lần, nhưng sau tháng 7 [1994](../_/1994.md), các vấn đề xuất hiện bất thường hơn, khoảng một lần một năm. Điều này trùng hợp với tần suất xuất bản các văn bản do chính Tolkien viết nhiều hơn; tạp chí hiện nay chủ yếu dành riêng cho những văn bản như vậy. Một số văn bản này đã được đề cập trong các tập *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)*, do [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập, nhưng không được xuất bản trong bộ sách đó do tính chuyên môn hoặc tính chất khó hiểu của chúng.
 
 Tất cả 50 số sau hiện đã được sưu tầm và xuất bản thành 5 tập, in theo yêu cầu.
 
@@ -127,11 +127,11 @@ Tất cả 50 số sau hiện đã được sưu tầm và xuất bản thành 5
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.elvish.org/VT" rel="noreferrer noopener" target="_blank">Trang web chính thức</a>
-- <a class="external text" href="http://www.elvish.org/VT/shop.html" rel="noreferrer noopener" target="_blank"><i>Vinyar Tengwar</i> cửa hàng web</a>
+- <a class="external text" href="http://www.elvish.org/VT/shop.html" rel="noreferrer noopener" target="_blank"><i>Cửa hàng web Vinyar Tengwar</i></a>
 - <a class="external text" href="http://www.elvish.org/errata/VT-Errata.pdf" rel="noreferrer noopener" target="_blank"><i>Vinyar Tengwar</i> Lỗi</a>
 
 - <a class="external text" href="https://www.elvish.org/Tengwestie" rel="noreferrer noopener" target="_blank"><i>Tengwestië</i></a>, một tạp chí trực tuyến của E.L.F.
-- <a class="external text" href="https://www.elvish.org/articles" rel="noreferrer noopener" target="_blank">Tuyển tập các bài viết</a> trên Elvish ngôn ngữ
+- <a class="external text" href="https://www.elvish.org/articles" rel="noreferrer noopener" target="_blank">Tuyển tập các bài viết</a> về ngôn ngữ Tiên
 
 <span></span>
 

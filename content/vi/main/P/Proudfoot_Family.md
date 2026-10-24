@@ -26,11 +26,11 @@ langlinks:
     url: "https://kontu.wiki/Jalojalka"
 ---
 
-**Gia đình Proudfoot** là gia đình của [Hobbit](../S/Shire-hobbits.md) của [nhóm Shire](../T/The_Shire.md).
+**Gia đình Proudfoot** là một gia đình [Hobbit](../S/Shire-hobbits.md) của [Shire](../T/The_Shire.md).
 
-Nếu [Odo Proudfoot](../O/Odo_Proudfoot.md) được lấy làm ví dụ, thì ít nhất một số thành viên trong gia đình đã tự hào về đôi chân to và đặc biệt (ngay cả đối với Hobbit).<sup id="cite_ref-Party_1-0" class="reference"><a href="#cite_note-Party-1">[1]</a></sup>
+Nếu [Odo Proudfoot](../O/Odo_Proudfoot.md) được lấy làm ví dụ, thì ít nhất một số thành viên trong gia đình này đã khoe đôi chân to và có lông đặc biệt (ngay cả đối với người Hobbit).<sup id="cite_ref-Party_1-0" class="reference"><a href="#cite_note-Party-1">[1]</a></sup>
 
-Có một số điều không chắc chắn giữa [Hobbit](../H/Hobbits.md) về dạng số nhiều của "Proudfoot" - bản thân gia đình rõ ràng đã sử dụng "Proudfeet", nhưng [Bilbo Baggins](../B/Bilbo_Baggins.md) rõ ràng thích "Proudfoots".<sup id="cite_ref-Party_1-1" class="reference"><a href="#cite_note-Party-1">[1]</a></sup>
+Có một số điều không chắc chắn giữa [Hobbit](../H/Hobbits.md) về dạng số nhiều của "Proudfoot" - bản thân gia đình này rõ ràng đã sử dụng "Proudfeet", nhưng [Bilbo Baggins](../B/Bilbo_Baggins.md) rõ ràng thích "Proudfoots".<sup id="cite_ref-Party_1-1" class="reference"><a href="#cite_note-Party-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

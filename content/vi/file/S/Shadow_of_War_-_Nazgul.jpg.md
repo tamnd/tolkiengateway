@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Nazgûl](../../main/N/Nazgûl.md) từ [Trung Địa: Bóng Tối chiến tranh](../../main/M/Middle-earth%253A_Shadow_of_War.md),
+[Nazgûl](../../main/N/Nazgûl.md) từ [Middle-earth: Shadow of War](../../main/M/Middle-earth%253A_Shadow_of_War.md),
 
 ## Giấy phép {#Licensing}
 

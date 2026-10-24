@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh chính thức của [Halbrand](../../main/H/Halbrand.md) từ bộ truyện *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*của [Amazon](../../main/A/Amazon_Studios.md).
+Hình ảnh chính thức của [Halbrand](../../main/H/Halbrand.md) từ loạt sản phẩm [Amazon](../../main/A/Amazon_Studios.md) của *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 
 ## Giấy phép {#Licensing}
 

@@ -33,29 +33,29 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Worlds_of_Christopher_Tolkien.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a7/The_Worlds_of_Christopher_Tolkien.jpg/309px-The_Worlds_of_Christopher_Tolkien.jpg" decoding="async" loading="lazy" width="309" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/The_Worlds_of_Christopher_Tolkien.jpg/464px-The_Worlds_of_Christopher_Tolkien.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/The_Worlds_of_Christopher_Tolkien.jpg/618px-The_Worlds_of_Christopher_Tolkien.jpg 2x" data-file-width="966" data-file-height="1500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Worlds of Christopher Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Vincent Ferré</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">French: <a href="../_/21_November.md" title="21 November">21 November</a> <a href="../_/2024.md" title="2024">2024</a><br/>English: <a href="../_/19_November.md" title="19 November">19 November</a> <a href="../_/2026.md" title="2026">2026</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">E-book; hardcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">304</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0008781910" title="Special:BookSources/978-0008781910">978-0008781910</a></td></tr></tbody></table>
 
-<i><b>Thế giới của Christopher Tolkien</b></i> là một tuyển tập sắp ra mắt gồm các bài tiểu luận mang tính học thuật về cuộc đời và sự nghiệp của [Christopher Tolkien](../C/Christopher_Tolkien.md) , do [Vincent Ferré](../V/Vincent_Ferré.md) biên tập.
+<i><b>Thế giới của Christopher Tolkien</b></i> là một tuyển tập sắp ra mắt gồm các bài tiểu luận mang tính học thuật về cuộc đời và sự nghiệp của [Christopher Tolkien](../C/Christopher_Tolkien.md), do [Vincent Ferré](../V/Vincent_Ferré.md) biên tập.
 
-Ấn bản gốc bằng tiếng Pháp và được xuất bản vào năm [2024](../_/2024.md), nhân kỷ niệm 100 năm ngày Christopher(*[Les Mondes de Christopher Tolkien](../L/Les_Mondes_de_Christopher_Tolkien%253A_Hommage_pour_son_centenaire.md)*) và chỉ ở dạng sách điện tử. [HarperCollins](../H/HarperCollins.md) sẽ xuất bản ấn bản tiếng Anh dưới dạng sách giấy vào [19 tháng 11](../_/19_November.md), [2026](../_/2026.md).
+Ấn bản gốc bằng tiếng Pháp và được xuất bản vào năm [2024](../_/2024.md), nhân kỷ niệm 100 năm ngày sinh của Christopher (*[Les Mondes de Christopher Tolkien](../L/Les_Mondes_de_Christopher_Tolkien%253A_Hommage_pour_son_centenaire.md)*) và chỉ ở dạng sách điện tử. [HarperCollins](../H/HarperCollins.md) sẽ xuất bản ấn bản tiếng Anh dưới dạng sách in vào [ngày 19 tháng 11](../_/19_November.md), [2026](../_/2026.md).
 
 ## Nội dung {#Contents}
 
 - 16 ảnh của Christopher Tolkien
 
-- [Baillie Tolkien](../B/Baillie_Tolkien.md), Lời nói đầu: "Christopher's Worlds"
+- [Baillie Tolkien](../B/Baillie_Tolkien.md), Lời nói đầu: "Những thế giới của Christopher"
 
 - [Vincent Ferré](../V/Vincent_Ferré.md), "Christopher Tolkien: tiết lộ, tiết lộ, phát minh… thế giới"
 
 - Phần 1
     - [Thomas Honegger](Thomas_Honegger.md), "Giữa cha và con: Sự hiện diện của Christopher trong các tác phẩm hư cấu của J.R.R. Tolkien"
-    - [Leo Carruthers](../L/Leo_Carruthers.md), "Từ Théoden đến Beorhtnoth: tiếng Anh cổ Truyền thống anh hùng là mối liên kết giữa cha và con"
+    - [Leo Carruthers](../L/Leo_Carruthers.md), "Từ Théoden đến Beorhtnoth: Truyền thống anh hùng của người Anh cổ như mối liên kết giữa cha và con"
     - Jean-Philippe Qadri, "'Chà - Bắt đầu viết một câu chuyện!' hoặc Cách chống lại sự cơ giới hóa của trí tưởng tượng"
 
 - Phần 2 "Christopher Tolkien: Nghệ sĩ và nhà văn"
-    - Laurence Lebourg, "Christopher Tolkien và Bản đồ Trung Địa: Giữa sự trung thực và sự tái tạo,"
-    - Vivien Stocker, "Christopher Tolkien và Thử thách của Silmarillion: Chương 22 và Bức thư được khám phá lại"
+    - Laurence Lebourg, "Christopher Tolkien và Bản đồ Trung Địa: Giữa lòng trung thực và sự tái tạo,"
+    - Vivien Stocker, "Christopher Tolkien và Thử thách của đồng Silmarillion: Chương 22 và Bức thư được khám phá lại"
     - Lucas Zembrzuski, "*Unfinished Tales*: Một bước ngoặt trong sự nghiệp văn học của Christopher Tolkien"
-    - [Damien Bador](../D/Damien_Bador.md), "Christopher Tolkien và Elvish Ngôn ngữ: Năm thập kỷ làm việc"
-    - [Isabelle Pantin](../I/Isabelle_Pantin.md), "Những cuộc hành trình xuyên thời gian và sự chuyển đổi bí ẩn từ lịch sử sang truyền thuyết và thần thoại: Một cuộc điều tra theo chủ đề của Ariadne do Christopher Tolkien chuẩn bị"
+    - [Damien Bador](../D/Damien_Bador.md), "Christopher Tolkien và ngôn ngữ yêu tinh: Năm thập kỷ làm việc"
+    - [Isabelle Pantin](../I/Isabelle_Pantin.md), "Những cuộc hành trình xuyên thời gian và sự chuyển đổi bí ẩn từ lịch sử sang truyền thuyết và thần thoại: Cuộc điều tra theo sợi chỉ của Ariadne do Christopher Tolkien chuẩn bị"
 
 - Phần 3
     - [Alan Lee](../A/Alan_Lee.md), "Christopher Tolkien"

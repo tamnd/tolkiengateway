@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bìa game [Trung Địa: Bóng Tối của Mordor](../../main/M/Middle-earth%253A_Shadow_of_Mordor.md)
+Bìa của trò chơi [Middle-earth: Shadow of Mordor](../../main/M/Middle-earth%253A_Shadow_of_Mordor.md)
 
 ## Giấy phép {#Licensing}
 

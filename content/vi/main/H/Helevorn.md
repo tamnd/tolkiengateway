@@ -40,7 +40,7 @@ infobox:
 
 **Helevorn** là hồ nước sâu, rợp bóng núi<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ở phía bắc [Thargelion](../T/Thargelion.md) dưới chân [Núi Rerir](../M/Mount_Rerir.md). Một dòng suối chảy từ góc tây nam vào [Greater Gelion](../G/Greater_Gelion.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Sau khi [Noldor](../N/Noldor.md) trở về [Trung Địa](../M/Middle-earth.md), người dân [Caranthir](../C/Caranthir.md) sinh sống quanh hồ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Nước của nó đã bị ô nhiễm bởi [Orc](../O/Orcs.md) trong [Dagor Bragollach](../D/Dagor_Bragollach.md) ("Trận chiến ngọn lửa bất ngờ").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Nó đã bị phá hủy trong [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md) cùng với [Núi Rerir](../M/Mount_Rerir.md), mặc dù nó vẫn sống sót một phần.
+Sau khi [Noldor](../N/Noldor.md) trở lại [Trung Địa](../M/Middle-earth.md), người dân [Caranthir](../C/Caranthir.md) sinh sống quanh hồ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Nước của hồ đã bị [Orc](../O/Orcs.md) làm ô uế trong [Dagor Bragollach](../D/Dagor_Bragollach.md) ("Trận chiến của ngọn lửa bất ngờ").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Hồ đã bị phá hủy trong [Chiến tranh Wrath](../W/War_of_Wrath.md) cùng với [Mount Rerir](../M/Mount_Rerir.md), mặc dù nó vẫn sống sót một phần.
 
 ## Từ nguyên {#Etymology}
 

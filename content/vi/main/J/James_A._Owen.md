@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Owen, James A."
 ---
 
-**James A. Owen** là một tác giả, họa sĩ minh họa và nhà xuất bản người Mỹ. Anh ấy làm việc tại Coppervale Studio ở Silvertown, Arizona, nơi anh ấy sống cùng gia đình.
+**James A. Owen** là một tác giả, họa sĩ minh họa và nhà xuất bản người Mỹ. Ông làm việc tại Coppervale Studio ở Silvertown, Arizona, nơi ông sống cùng gia đình.
 
 Năm 2006, Owen xuất bản cuốn tiểu thuyết đầu tiên trong bộ *[The Chronicles of the Imaginarium Geographica](../T/The_Chronicles_of_the_Imaginarium_Geographica.md)*. Câu chuyện giả tưởng xoay quanh các nhân vật hư cấu John ([J.R.R. Tolkien](J.R.R._Tolkien.md)), Charles ([Charles Williams](../C/Charles_Williams.md)) và Jack ([C.S. Lewis](../C/C.S._Lewis.md)).
 

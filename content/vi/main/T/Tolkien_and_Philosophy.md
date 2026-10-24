@@ -54,13 +54,13 @@ infobox:
     - Bởi: Roberto Arduini và Claudio A. Testi
 - Tolkien giữa Triết học và Ngữ văn
     - Bởi: Franco Manni và [Tom Shippey](Tom_Shippey.md)
-- Tolkien và Triết học ngôn ngữ
+- Tolkien và triết học ngôn ngữ
     - Bởi: [Verlyn Flieger](../V/Verlyn_Flieger.md)
-- Tolkien Triết gia Công giáo?
+- Tolkien Nhà triết học Công giáo?
     - Bởi: Andrea Monda và Wu Ming
-Triết học và thần học về cái chết của - Tolkien
+- Triết học và thần học về cái chết của Tolkien
     - Bởi: Christopher Garbowski
-- Tolkien tại King Edward's School
+- Tolkien tại trường King Edward
     - Bởi: Giampaolo Canzonieri
 
 ## Liên kết ngoài {#External_links}

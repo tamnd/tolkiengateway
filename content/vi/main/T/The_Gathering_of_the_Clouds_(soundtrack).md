@@ -46,7 +46,7 @@ sort_keys:
 <li><a href="../I/Ironfoot_(soundtrack).md" title="Ironfoot (soundtrack)">Ironfoot</a></li></ol>
 </td></tr></tbody></table>
 
-**The Gathering of the Clouds** là bài hát thứ sáu trong đĩa một trong *[The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack](The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack.md)* và [nhạc phim phiên bản đặc biệt](The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md), của [Howard Shore](../H/Howard_Shore.md).
+**The Gathering of the Clouds** là ca khúc thứ sáu của đĩa một trong *[The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack](The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack.md)* và [nhạc phim phiên bản đặc biệt](The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md), của [Howard Shore](../H/Howard_Shore.md).
 
 ## Xem thêm {#See_also}
 

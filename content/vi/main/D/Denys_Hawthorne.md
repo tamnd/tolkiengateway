@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Hawthorne, Denys"
 ---
 
-**Denys Vernon Hawthorne** ([9 tháng 8](../_/9_August.md), [1932](../_/1932.md)-[16 tháng 10](../_/16_October.md), [2009](../_/2009.md)) là một diễn viên người Bắc Ireland, người đã lồng tiếng cho nhiều vở kịch trên đài [BBC](../B/BBC.md). Anh ấy lồng tiếng cho [Beorn](../B/Beorn.md) trong [1968](../_/1968.md) [loạt phim phát thanh](<../T/The_Hobbit_(1968_radio_series).md>) của *[The Hobbit](../T/The_Hobbit.md)*.
+**Denys Vernon Hawthorne** ([9 tháng 8](../_/9_August.md), [1932](../_/1932.md)-[16 tháng 10](../_/16_October.md), [2009](../_/2009.md)) là một diễn viên người Bắc Ireland, người đã lồng tiếng cho nhiều vở kịch trên đài [BBC](../B/BBC.md). Anh lồng tiếng cho [Beorn](../B/Beorn.md) trong [1968](../_/1968.md) [loạt phim phát thanh](<../T/The_Hobbit_(1968_radio_series).md>) của *[The Hobbit](../T/The_Hobbit.md)*.
 
 ## Liên kết ngoài {#External_links}
 

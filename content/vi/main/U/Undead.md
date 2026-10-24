@@ -31,13 +31,13 @@ images:
 <p class="tg-quote-footer"><cite><a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> to the <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Undead** là những sinh vật đã từng sống (thường [Con Người](../M/Men.md)) nhưng được ban cho sự tồn tại kéo dài một cách bất thường, đôi khi do công việc chiêu hồn. Tất cả những sinh vật như vậy dường như đều có liên quan đến Ác ma.
+**Undead** là những sinh vật đã từng sống (thường là [Đàn ông](../M/Men.md)) nhưng được ban cho sự tồn tại kéo dài một cách bất thường, đôi khi do công việc chiêu hồn. Tất cả những sinh vật như vậy dường như đều có liên quan đến Ác ma.
 
 ## Nhóm {#Groups}
 
 - [Barrow-wight](../B/Barrow-wights.md)
 - [Kẻ bội thề](../O/Oathbreakers.md)
-- [Nazgûl](../N/Nazgûl.md)
+- [Quỷ nhẫn](../N/Nazgûl.md)
 
 ## Tên khác {#Other_names}
 
@@ -52,11 +52,11 @@ Xác sống được biết đến với nhiều cái tên:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
 
 <dl><dd>The Undead is a class of monsters, which includes Ghosts, Skeletons, Ghouls, and many others.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd><a class="external text" href="http://lorebook.lotro.com/wiki/Category:The_Dead" rel="noreferrer noopener" target="_blank">The Dead</a> is a category of creatures, which includes wights, spirits, skeletons, and many others. A related category is <a class="external text" href="http://lorebook.lotro.com/wiki/Category:Unseen" rel="noreferrer noopener" target="_blank">The Unseen</a>, which includes the Nazgûl and related shadowy figures. One case of a non-Evil undead exists in the ghost of <a href="../A/Arvedui.md" title="Arvedui">Arvedui</a> in <a href="../F/Forochel.md" title="Forochel">Forochel</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 

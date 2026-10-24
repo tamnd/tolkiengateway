@@ -64,9 +64,9 @@ Sự kiện xảy ra vào ngày 29 tháng 1
 ## Trên Trái đất {#On_Earth}
 
 - **[1909](1909.md)** - Tác giả và nhà sưu tập [Richard E. Blackwelder](../R/Richard_E._Blackwelder.md) ra đời.
-- **[1943](1943.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi J.L.N. O'Loughlin](<../L/Letter_to_J.L.N._O'Loughlin_(29_January_1943).md>).
+- **[1943](1943.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi J.L.N.O'Loughlin](<../L/Letter_to_J.L.N._O'Loughlin_(29_January_1943).md>).
 - **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 135c](../L/Letter_135c.md).
-- **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Hiệu trưởng Trường Đại học Liège](<../L/Letter_to_Liège_University_(29_January_1954).md>).
+- **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Hiệu trưởng Đại học Liège](<../L/Letter_to_Liège_University_(29_January_1954).md>).
 - **[1958](1958.md)** - Diễn viên [Alister Duncan](../A/Alister_Duncan.md) ra đời.
 - **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 283b](../L/Letter_283b.md).
 - **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Ken Jackson](<../L/Letter_to_Ken_Jackson_(29_January_1968).md>).
@@ -75,4 +75,4 @@ Sự kiện xảy ra vào ngày 29 tháng 1
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
+    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).

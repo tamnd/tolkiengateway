@@ -14,5 +14,5 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Fajcz, Beth"
 ---
 
-- [Beth Fajcz](../../main/B/Beth_Fajcz.md) đã vui lòng cho phép họ sử dụng [tác phẩm nghệ thuật của cô ấy](../../category/I/Images_by_Beth_Fajcz.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- [Beth Fajcz](../../main/B/Beth_Fajcz.md) đã vui lòng cho phép họ sử dụng [tác phẩm nghệ thuật của cô](../../category/I/Images_by_Beth_Fajcz.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: [19 tháng 8](../../main/_/19_August.md) [2026](../../main/_/2026.md)

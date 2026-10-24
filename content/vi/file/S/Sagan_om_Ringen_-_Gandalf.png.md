@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Gandalf](../../main/G/Gandalf.md) trong [Sagan om Ringen](<../../main/S/Sagan_om_Ringen_(1971_film).md>)
+[Gandalf](../../main/G/Gandalf.md) ở [Sagan om Ringen](<../../main/S/Sagan_om_Ringen_(1971_film).md>)
 
 ## Giấy phép {#Licensing}
 

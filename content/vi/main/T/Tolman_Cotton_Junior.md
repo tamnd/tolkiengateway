@@ -54,13 +54,13 @@ infobox:
 
 ## Lịch sử {#History}
 
-Khi Tom còn nhỏ, anh được biết đến với cái tên "Young Tom" để phân biệt với người cha mà họ có cùng tên. Hai cha con chiến đấu trong [Trận Bywater](../B/Battle_of_Bywater.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), ông kết hôn với em gái út của [Sam Gamgee](../S/Samwise_Gamgee.md), [Marigold](../M/Marigold_Gamgee.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Khi Tom còn nhỏ, anh được biết đến với cái tên "Young Tom" để phân biệt với người cha mà họ có cùng tên. Hai cha con đã chiến đấu trong [Trận chiến Bywater](../B/Battle_of_Bywater.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sau [War of the Ring](../W/War_of_the_Ring.md), ông kết hôn với em gái út của [Sam Gamgee](../S/Samwise_Gamgee.md), [Marigold](../M/Marigold_Gamgee.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Ông giữ chức vụ [Phó Thị trưởng](../M/Mayor_of_Michel_Delving.md) trong một thời gian ngắn ở [S.R.](../S/Shire_Reckoning.md) [1442](../F/Fourth_Age_21.md), khi Sam đi đến [Gondor](../G/Gondor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Tolman* xuất phát từ [tiếng Anh cổ](../O/Old_English.md) *tōl* + *mann* có nghĩa là "người công cụ".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Trong giai đoạn đầu viết [Phụ lục F](../A/Appendix_F.md), tên gốc [Westron](../W/Westron.md) của cha ông được đặt là *Tomacca Lothran*<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> hoặc (trước đó) *Tomakli Lothron*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+*Tolman* xuất phát từ [Tiếng Anh cổ](../O/Old_English.md) *tōl* + *mann* có nghĩa là "người công cụ".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Trong giai đoạn đầu viết [Phụ lục F](../A/Appendix_F.md), tên [Westron](../W/Westron.md) ban đầu của cha ông được đặt là *Tomacca Lothran*<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> hoặc (trước đó) *Tomakli Lothron*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -83,11 +83,11 @@ Khi Tom còn nhỏ, anh được biết đến với cái tên "Young Tom" để
 		</li>
 </ul>
 
-<b>2010: <i><a href="The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">The Lord of the Rings: Nhiệm vụ của Aragorn</a></i>:</b>
+<b>2010: <i><a href="The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Chúa tể của những chiếc nhẫn: Nhiệm vụ của Aragorn</a></i>:</b>
 
 <dl><dd>Tom is the deputy-mayor.</dd></dl>
 
-<b>2025: <i><a href="Tales_of_the_Shire%253A_A_%2522The_Lord_of_the_Rings%2522_Game.md" title="Tales of the Shire: A &#34;The Lord of the Rings&#34; Game">Câu chuyện về Shire: Trò chơi "The Lord of the Rings"</a></i>:</b>
+<b>2025: <i><a href="Tales_of_the_Shire%253A_A_%2522The_Lord_of_the_Rings%2522_Game.md" title="Tales of the Shire: A &#34;The Lord of the Rings&#34; Game">Tales of the Shire: Trò chơi "Chúa tể của những chiếc nhẫn"</a></i>:</b>
 
 <dl><dd>Young Tom Cotton is an interactive character. He can be invited to meals.</dd></dl>
 

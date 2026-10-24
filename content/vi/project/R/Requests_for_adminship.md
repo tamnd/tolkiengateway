@@ -18,7 +18,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../A/Administrators.md" title="Tolkien Gateway:Administrators">Tolkien Gateway: Administrators</a></div></div>
 
-**Yêu cầu quyền quản trị** (**RFA**) là quá trình [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) quyết định những biên tập viên nào sẽ trở thành [quản trị viên](../A/Administrators.md). Quản trị viên là những người dùng được tin cậy sử dụng khả năng phán đoán của riêng mình để thực hiện [các khả năng kỹ thuật nhất định](../../main/T/Tolkien_Gateway.md#Administrators'_abilities) vì lợi ích của Tolkien Gateway.
+**Yêu cầu quyền quản trị** (**RFA**) là quá trình [Cổng Tolkien](../../main/T/Tolkien_Gateway.md) quyết định những biên tập viên nào sẽ trở thành [quản trị viên](../A/Administrators.md). Quản trị viên là những người dùng được tin cậy sử dụng khả năng phán đoán của riêng mình để thực hiện [các khả năng kỹ thuật nhất định](../../main/T/Tolkien_Gateway.md#Administrators'_abilities) vì lợi ích của Tolkien Gateway.
 
 Dưới đây là liệt kê các yêu cầu cụ thể để có một đề cử hợp lệ. Để xem các yêu cầu trước đây, hãy xem [kho lưu trữ RFA](Requests_for_adminship%252FArchive.md).
 
@@ -35,7 +35,7 @@ Dưới đây là liệt kê các yêu cầu cụ thể để có một đề c�
 
 Việc bỏ phiếu kéo dài trong hai tuần. Để thành công, việc bỏ phiếu phải **đồng thuận** ủng hộ.
 
-Quản trị viên cần có được sự tin tưởng và tín nhiệm của cộng đồng nên quản trị viên thường là những biên tập viên có kinh nghiệm đáng kể (hiện tại, 5 quản trị viên là 5 [biên tập viên hàng đầu](../T/Top_Editors.md)). Quản trị viên tiềm năng cũng cần phải hiểu rõ về [chính sách](../P/Policy.md), [hướng dẫn phong cách](../M/Manual_of_Style.md) và [thủ tục](../../help/E/Editing.md) của Tolkien Gateway.
+Quản trị viên cần có được sự tin tưởng và tín nhiệm của cộng đồng nên quản trị viên thường là những biên tập viên có kinh nghiệm đáng kể (hiện tại, 5 quản trị viên là 5 [biên tập viên hàng đầu](../T/Top_Editors.md)). Các quản trị viên tiềm năng cũng cần phải hiểu rõ về [các chính sách](../P/Policy.md), [hướng dẫn về phong cách](../M/Manual_of_Style.md) và [các quy trình](../../help/E/Editing.md) của Tolkien Gateway.
 
 ## Đề cử {#Nominations}
 
@@ -43,4 +43,4 @@ Quản trị viên cần có được sự tin tưởng và tín nhiệm của c
 
 ## Xem thêm {#See_also}
 
-- [Tolkien Gateway:Yêu cầu quyền quản trị/Lưu trữ](Requests_for_adminship%252FArchive.md), cho các yêu cầu trước đây
+- [Cổng Tolkien:Yêu cầu quyền quản trị/Lưu trữ](Requests_for_adminship%252FArchive.md), cho các yêu cầu trước đây

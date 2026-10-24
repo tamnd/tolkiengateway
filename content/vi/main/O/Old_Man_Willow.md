@@ -53,31 +53,31 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Old_Man_Willow.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1e/J.R.R._Tolkien_-_Old_Man_Willow.jpg/320px-J.R.R._Tolkien_-_Old_Man_Willow.jpg" decoding="async" loading="lazy" width="320" height="224" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1e/J.R.R._Tolkien_-_Old_Man_Willow.jpg/480px-J.R.R._Tolkien_-_Old_Man_Willow.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1e/J.R.R._Tolkien_-_Old_Man_Willow.jpg/640px-J.R.R._Tolkien_-_Old_Man_Willow.jpg 2x" data-file-width="988" data-file-height="691"/></a><figcaption>&#34;Old Man Willow&#34; by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Unknown (possibly a <a href="../H/Huorns.md" title="Huorns">Huorn</a>)</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Old Man Willow</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">The Great Willow; &#34;Old grey Willow-man&#34;</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="Old_Forest.md" title="Old Forest">The Old Forest</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Forest-folk&amp;action=edit&amp;redlink=1" title="Forest-folk (page does not exist)">Forest-folk</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Notable for</th><td class="tg-infobox-data">almost crushing <a class="mw-redirect" href="../M/Merry.md" title="Merry">Merry</a> and <a class="mw-redirect" href="../P/Pippin.md" title="Pippin">Pippin</a> to death</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Weaponry</th><td class="tg-infobox-data">Spells</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Old_Man_Willow.md" title="Category:Images of Old Man Willow">Images of Old Man Willow</a></td></tr></tbody></table>
 
-**Cây liễu ông già**, còn được gọi là **Cây liễu lớn**, là một [cây liễu](../W/Willows.md) ở [Khu Rừng Cổ](Old_Forest.md) đứng gần [Withywindle](../W/Withywindle.md).
+**Old Man Willow**, còn được gọi là **Great Willow**, là một [cây liễu](../W/Willows.md) trong [Rừng già](Old_Forest.md) nằm gần [Withywindle](../W/Withywindle.md).
 
 ## Lịch sử {#History}
 
-Nguồn gốc của Old Man Willow rất mơ hồ. Anh ta có thể là một [Ent](../E/Ents.md) đã trở thành giống cây, hoặc có thể là [Huorn](../H/Huorns.md), vì Khu Rừng Cổ ban đầu là một phần của khu rừng nguyên sinh giống như [Fangorn](../F/Fangorn_Forest.md).
+Nguồn gốc của Old Man Willow rất mơ hồ. Ông ta có thể là một [Ent](../E/Ents.md) đã trở thành giống cây, hoặc có thể là [Huorn](../H/Huorns.md), vì Rừng Cũ ban đầu là một phần của khu rừng nguyên thủy giống như [Fangorn](../F/Fangorn_Forest.md).
 
-Great Willow có trái tim độc ác và từ đó mà phần lớn sự căm ghét của Rừng đối với những sinh vật biết đi xuất hiện.<sup id="cite_ref-OMW_2-0" class="reference"><a href="#cite_note-OMW-2">[2]</a></sup> Bất chấp sức mạnh của anh ta, [Tom Bombadil](../T/Tom_Bombadil.md), người gọi anh ta là **Người Liễu già xám**, có quyền lực đối với anh ta và kiểm soát cái ác nhiều nhất có thể hoặc sẵn lòng.
+Great Willow có trái tim độc ác và từ đó nảy sinh ra sự căm ghét những sinh vật biết đi trong Rừng.<sup id="cite_ref-OMW_2-0" class="reference"><a href="#cite_note-OMW-2">[2]</a></sup> Bất chấp sức mạnh của ông ta, [Tom Bombadil](../T/Tom_Bombadil.md), người gọi ông ta là **Người đàn ông liễu già xám**, có quyền lực đối với ông ta và kiểm tra cái ác nhiều nhất có thể hoặc theo ý muốn.
 
-Vào [26 tháng Chín](../_/26_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Ông già Willow sử dụng phép thuật lên [Hobbit](../H/Hobbits.md), [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md), [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md), khiến chúng cảm thấy buồn ngủ. Merry và Pippin tựa vào thân cây ngủ thiếp đi, trong khi Frodo ngồi trên gốc cây đung đưa chân trong nước trước khi cũng chìm vào giấc ngủ. Cây mắc kẹt Merry và Pippin trong các vết nứt trên thân cây và đổ Frodo xuống dòng nước.
+Vào [26 tháng 9](../_/26_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Ông già Willow đã niệm phép lên [Hobbit](../H/Hobbits.md), [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md), [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md), khiến họ cảm thấy buồn ngủ. Merry và Pippin dựa vào thân cây và ngủ thiếp đi, trong khi Frodo ngồi trên một gốc cây đung đưa chân trong nước trước khi chìm vào giấc ngủ. Cái cây mắc kẹt Merry và Pippin trong các vết nứt trên thân cây, và đẩy Frodo xuống dòng nước.
 
-Sam đã chống lại được bùa chú và giải cứu Frodo khỏi dòng nước. Họ cùng nhau cố gắng cứu Merry và Pippin bằng cách đốt lửa ở gốc cây, nhưng điều này chỉ khiến Ông già Willow tức giận, ông ta đe dọa sẽ giết những người hobbit bị mắc kẹt. Họ đã được cứu nhờ sự xuất hiện kịp thời của Tom Bombadil, người biết "giai điệu dành cho anh ấy".<sup id="cite_ref-OMW_2-1" class="reference"><a href="#cite_note-OMW-2">[2]</a></sup>
+Sam đã chống lại được bùa chú và giải cứu Frodo khỏi dòng suối. Họ cùng nhau cố gắng cứu Merry và Pippin bằng cách đốt lửa ở gốc cây, nhưng điều này chỉ khiến Ông già Willow tức giận, kẻ đe dọa giết những người hobbit bị mắc kẹt. Họ đã được cứu nhờ sự xuất hiện kịp thời của Tom Bombadil, người biết "giai điệu dành cho ông".<sup id="cite_ref-OMW_2-1" class="reference"><a href="#cite_note-OMW-2">[2]</a></sup>
 
 ### Di sản {#Legacy}
 
-Trong một [bài thơ](../T/The_Adventures_of_Tom_Bombadil.md) hư cấu bắt nguồn từ [Buckland](../B/Buckland.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Ông già Willow hát Tom Bombadil để ru ngủ và nhốt ông ta vào một vết nứt. Sau đó, anh ta nói chuyện với Tom, trừng phạt anh ta vì đã theo dõi anh ta và cù anh ta bằng chiếc lông vũ của mình. Tom ra lệnh cho Ông già Willow thả anh ta ra và anh ta làm ngay lập tức.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong một [bài thơ](../T/The_Adventures_of_Tom_Bombadil.md) hư cấu có nguồn gốc từ [Buckland](../B/Buckland.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Old Man Willow hát cho Tom Bombadil ngủ và nhốt ông ta vào một vết nứt. Sau đó, ông ta nói chuyện với Tom, trừng phạt ông ta vì đã theo dõi ông ta và cù ông ta bằng chiếc lông vũ của mình. Tom ra lệnh cho Ông già Willow thả ông ta ra và ông ta làm ngay lập tức.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *[The Return of the Shadow](../T/The_Return_of_the_Shadow.md)*, trong văn bản đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, sự việc với Ông già Willow có [Bingo Bolger-Baggins](../F/Frodo_Baggins.md) và [Odo](../P/Peregrin_Took.md) nằm tựa vào gốc cây. [Frodo](../S/Samwise_Gamgee.md) là người bị đẩy xuống sông trong khi [Marmaduke Brandybuck](../M/Meriadoc_Brandybuck.md) là người kháng cự được bùa chú.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Trong *[The Return of the Shadow](../T/The_Return_of_the_Shadow.md)*, trong văn bản đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, sự việc với Ông già Willow có [Bingo Bolger-Baggins](../F/Frodo_Baggins.md) và [Odo](../P/Peregrin_Took.md) nằm dựa vào gốc cây. [Frodo](../S/Samwise_Gamgee.md) là người bị đẩy xuống sông trong khi [Marmaduke Brandybuck](../M/Meriadoc_Brandybuck.md) là người kháng cự được bùa chú.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Sau đó, tại nhà của Tom Bombadil, Tom kể lại truyền thuyết về Ông già Liễu. Anh ta được mô tả là "linh hồn khát nước màu xám trên trái đất" đã "bị giam cầm trong Liễu vĩ đại nhất của rừng".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Sau đó, tại nhà của Tom Bombadil, Tom kể lại truyền thuyết liên quan đến Ông già Willow. Ông ta được mô tả là "linh hồn khát nước màu xám trên trái đất" đã "bị giam cầm trong Liễu vĩ đại nhất của rừng".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Tolkien nói rằng nguồn cảm hứng của anh có lẽ được khơi dậy từ những cái cây có xương xẩu đặc biệt trong tranh minh họa của họa sĩ giả tưởng nổi tiếng người Anh <a class="extiw" href="http://en.wikipedia.org/wiki/Arthur_Rackham" title="wikipedia:Arthur Rackham">Arthur Rackham</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Tolkien nói rằng nguồn cảm hứng của ông có lẽ được khơi dậy từ những cái cây có xương xẩu đặc biệt trong tranh minh họa của họa sĩ giả tưởng nổi tiếng người Anh <a class="extiw" href="http://en.wikipedia.org/wiki/Arthur_Rackham" title="wikipedia:Arthur Rackham">Arthur Rackham</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 ## Miêu tả trong chuyển thể {#Portrayals_in_adaptations}
 
@@ -114,15 +114,15 @@ Tolkien nói rằng nguồn cảm hứng của anh có lẽ được khơi dậy
 		</li>
 </ul>
 
-<b>1955: <a href="../T/The_Lord_of_the_Rings_(1955_radio_series).md" title="The Lord of the Rings (1955 radio series)"><i>The Lord of the Rings</i> (loạt đài phát thanh 1955)</a>:</b>
+<b>1955: <a href="../T/The_Lord_of_the_Rings_(1955_radio_series).md" title="The Lord of the Rings (1955 radio series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim phát thanh năm 1955)</a>:</b>
 
 <dl><dd>Old Man Willow is portrayed as in league with Mordor. This upset <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a>, who wrote &#34;Cannot people imagine things hostile to men and hobbits who prey on them without being in league with the Devil!&#34; in a <a href="../L/Letter_175.md" title="Letter 175">letter to Molly Waldron</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 
-**1994: [The Lord of the Rings: Tập 1](../T/The_Lord_of_the_Rings%253A_Volume_1.md):**
+**1994: [The Lord of the Rings: Volume 1](../T/The_Lord_of_the_Rings%253A_Volume_1.md):**
 
 <dl><dd>In this game, Old Man Willow is shown to be capable of speech, as shown when he swallows not only Merry and Pippin, but also Sam. He gloats to Frodo about how tasty Hobbits are, and also threatens to crush his friends if he tries attacking him. Strangely, he also has some skill in penmanship, as he wrote and left a note on the ground, inviting the Hobbits to sleep near him before he traps them in his jaws.</dd></dl>
 
-<b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
+<b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</i> (trò chơi điện tử)</a>:</b>
 
 <dl><dd>In the console and PC versions, Old Man Willow appears as a boss in the Withywindle Valley region of the Old Forest, who Frodo must defeat by crippling his arm-like branches, while dodging roots that rise up from the ground. Attempting to strike Old Man Willow&#39;s trunk will only injure Merry and Pippin, who are trapped inside. Attacking the trunk too many times will kill them, resulting in a Game Over.</dd></dl>
 
@@ -130,7 +130,7 @@ Tolkien nói rằng nguồn cảm hứng của anh có lẽ được khơi dậy
 
 <dl><dd>Although he did not appear in the 2001 <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">movie adaptation</a>, a very similar episode with <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> being swallowed by a tree was included in the <a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">extended edition</a>, where Merry and Pippin are swallowed by a Huorn in <a href="../F/Fangorn_Forest.md" title="Fangorn Forest">Fangorn Forest</a>, to be saved by <a href="../T/Treebeard.md" title="Treebeard">Treebeard</a>.</dd></dl>
 
-**2007: [The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md):**
+**2007: [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md):**
 
 <dl><dd>Old Man Willow rests on his small island in the middle of the <a href="../W/Withywindle.md" title="Withywindle">Withywindle</a>, where he slowly drains nearby players of energy and power.</dd></dl>
 

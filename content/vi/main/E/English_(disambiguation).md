@@ -22,18 +22,18 @@ images:
 - [Tiếng Anh trung cổ](../M/Middle_English.md)
 - **[Tiếng Anh hiện đại](../M/Modern_English.md)**
 - [Bảng chữ cái tiếng Anh mới](../N/New_English_Alphabet.md)
-- [tiếng Anh cổ](../O/Old_English.md)
+- [Tiếng Anh cổ](../O/Old_English.md)
 
 ## Bài viết của J.R.R. Tolkien {#Writings_by_J.R.R._Tolkien}
 
 - *[English and Welsh](English_and_Welsh.md)*
     - Được xuất bản thành một chương trong *[The Monsters and the Critics and Other Essays](../T/The_Monsters_and_the_Critics_and_Other_Essays.md)*.
-- "[Từ điển tiếng Anh sang Anglo-Saxon](English_to_Anglo-Saxon_dictionary.md)"
+- "[Từ điển tiếng Anh sang tiếng Anglo-Saxon](English_to_Anglo-Saxon_dictionary.md)"
 - *[Middle English 'Losenger': Sketch of an etymological and semantic enquiry](../M/Middle_English_'Losenger'.md)*
     - Đã xuất bản dưới tên *[Middle English 'Losenger': Sketch of an etymological and semantic enquiry](<../M/Middle_English_'Losenger'_(publication).md>)*
 - *[Some Contributions to Middle-English Lexicography](../S/Some_Contributions_to_Middle-English_Lexicography.md)*
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Tradition_of_Versification_in_Old_English&amp;action=edit&amp;redlink=1" title="The Tradition of Versification in Old English (page does not exist)">Truyền thống đa dạng hóa trong tiếng Anh cổ</a></i>
-    - Được in ở *[The Battle of Maldon: together with The Homecoming of Beorhtnoth](../T/The_Battle_of_Maldon%253A_together_with_The_Homecoming_of_Beorhtnoth.md)*.
+    - Được in trong *[The Battle of Maldon: together with The Homecoming of Beorhtnoth](../T/The_Battle_of_Maldon%253A_together_with_The_Homecoming_of_Beorhtnoth.md)*.
 
 ## Sách của J.R.R. Tolkien {#Books_by_J.R.R._Tolkien}
 

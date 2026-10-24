@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pelargir"
 ---
 
-Chuyển hướng đến [Pelargir](Pelargir.md).
+Chuyển hướng tới [Pelargir](Pelargir.md).

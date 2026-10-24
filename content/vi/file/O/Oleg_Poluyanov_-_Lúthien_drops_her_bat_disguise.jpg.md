@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Lúthien](../../main/L/Lúthien.md) thả [trang phục dơi của cô ấy](../../main/T/Thuringwethil.md)" của [Oleg Poluyanov](../../category/I/Images_by_Oleg_Poluyanov.md)
+"[Lúthien](../../main/L/Lúthien.md) thả [trang phục dơi của bà](../../main/T/Thuringwethil.md)" của [Oleg Poluyanov](../../category/I/Images_by_Oleg_Poluyanov.md)
 
 ## Giấy phép {#Licensing}
 

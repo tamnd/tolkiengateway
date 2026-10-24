@@ -14,4 +14,4 @@ sort_keys:
   "Articles": " Real-world"
 ---
 
-Các bài viết có chủ đề nằm trong thế giới thực thay vì chủ đề nằm trong vũ trụ [huyền thoại](../../main/L/Legendarium.md) của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md). Điều này bao gồm cả quan điểm học thuật (Tolkien nghiên cứu) và phi học thuật (fandom) về tác phẩm của anh ấy.
+Các bài viết có chủ đề nằm trong thế giới thực thay vì chủ đề nằm trong vũ trụ [huyền thoại](../../main/L/Legendarium.md) của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md). Điều này bao gồm cả quan điểm học thuật (Tolkien nghiên cứu) và phi học thuật (fandom) về tác phẩm của ông.

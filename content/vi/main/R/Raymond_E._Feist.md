@@ -24,7 +24,7 @@ images:
 
 **Raymond Elias Feist** (tên khai sinh [1945](../_/1945.md)) là một tác giả người Mỹ chủ yếu viết tiểu thuyết giả tưởng.
 
-Trong thế giới hư cấu của anh ấy <a class="extiw" href="http://en.wikipedia.org/wiki/Midkemia" title="wikipedia:Midkemia">Midkemia</a>, Tiên tộc được biết đến bằng [những cái tên](../E/Elvish.md#Other_Elvish_languages) được lấy cảm hứng trực tiếp từ [Sindarin](../S/Sindarin.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong thế giới hư cấu của ông <a class="extiw" href="http://en.wikipedia.org/wiki/Midkemia" title="wikipedia:Midkemia">Midkemia</a>, Yêu tinh được biết đến bằng [những cái tên](../E/Elvish.md#Other_Elvish_languages) được lấy cảm hứng trực tiếp từ [Sindarin](../S/Sindarin.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 

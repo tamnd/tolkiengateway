@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gaffer Gamgee"
 ---
 
-Chuyển hướng đến [Gaffer Gamgee](../G/Gaffer_Gamgee.md).
+Chuyển hướng tới [Gaffer Gamgee](../G/Gaffer_Gamgee.md).

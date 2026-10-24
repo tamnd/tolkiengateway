@@ -17,11 +17,11 @@ langlinks:
     url: "https://kontu.wiki/Golug"
 ---
 
-**Golug** là một từ trong ngôn ngữ của [Orc](../O/Orcs.md), được sử dụng duy nhất được ghi lại là trong [Kỷ Đệ Nhất](../F/First_Age.md) sau này, được sử dụng để mô tả Deep Tiên tộc ( [Noldor](../N/Noldor.md)). Nguồn gốc của nó vẫn chưa được biết, nhưng nó có thể liên quan đến tên [Sindarin](../S/Sindarin.md) của chính người này, [Golodhrim](Golodhrim.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Golug** là một từ trong ngôn ngữ của [Orc](../O/Orcs.md), được sử dụng duy nhất được ghi nhận là vào [Thời đại thứ nhất](../F/First_Age.md) sau này, dùng để mô tả Yêu tinh vực sâu ( [Noldor](../N/Noldor.md)). Nguồn gốc của nó vẫn chưa được biết, nhưng nó có thể liên quan đến tên [Sindarin](../S/Sindarin.md) của cùng một dân tộc, [Golodhrim](Golodhrim.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a>:</b>
+<b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>Người Hobbit</i> (loạt phim)</a>:</b>
 
 <dl><dd>Golug is used in <a href="../O/Orkish.md" title="Orkish">Gundabad orkish</a>. Much like in the books, it means &#34;elf&#34;, but unlike in the books, a female form (golgi) and a plural (golgai) also exist.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> It is also used in <a href="../B/Black_Speech.md" title="Black Speech">Black Speech</a>.</dd></dl>
 

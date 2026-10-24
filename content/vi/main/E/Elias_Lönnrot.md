@@ -24,7 +24,7 @@ images:
 
 **Elias Lönnrot** ([9 tháng 4](../_/9_April.md) 1802 – [19 tháng 3](../_/19_March.md) [1884](../_/1884.md)) là một nhà ngữ văn người Phần Lan và là nhà sưu tập thơ truyền miệng truyền thống của Phần Lan. Ông nổi tiếng với việc sáng tác *[Kalevala](../K/Kalevala.md)*, sử thi dân tộc Phần Lan được biên soạn từ văn hóa dân gian dân tộc, có tác động lớn đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong một bài viết năm 2007,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Jason Fisher](../J/Jason_Fisher.md) đưa ra so sánh giữa [Christopher Tolkien](../C/Christopher_Tolkien.md) và Lönnrot, từ khía cạnh cả hai *"đã biến những tài liệu nguồn phức tạp, không đều đặn thành một văn bản mạch lạc"*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+Trong một bài viết năm 2007,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Jason Fisher](../J/Jason_Fisher.md) đưa ra sự so sánh giữa [Christopher Tolkien](../C/Christopher_Tolkien.md) và Lönnrot, từ khía cạnh cả hai *"đã biến các tài liệu nguồn phức tạp, không đều đặn thành một văn bản mạch lạc"*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -36,7 +36,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Hill</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Obel</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Within the <a href="../B/Brethil.md" title="Brethil">Forest of Brethil</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Hill</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../H/House_of_Haleth.md" title="House of Haleth">House of Haleth</a></td></tr></tbody></table>
 
-**Amon Obel** là một ngọn đồi ở giữa [Khu rừng Brethil](../B/Brethil.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> nơi xây dựng khu định cư của [Ephel Brandir](../E/Ephel_Brandir.md), nơi trở thành khu định cư chính của [Haladin](../H/Haladin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Amon Obel** là một ngọn đồi ở giữa [Rừng Brethil](../B/Brethil.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>, nơi xây dựng khu định cư của [Ephel Brandir](../E/Ephel_Brandir.md), nơi trở thành khu định cư chính của [Haladin](../H/Haladin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

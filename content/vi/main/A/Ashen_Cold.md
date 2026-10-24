@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Ashen Cold</b></i> là ca khúc thứ bảy trong album [Let Mortal Heroes Sing Your Fame](../L/Let_Mortal_Heroes_Sing_Your_Fame.md) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [Bài hát của Durin](../T/The_world_was_young,_the_mountains_green,.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Lời bài hát liên quan đến Chúa tể Bóng tối [Sauron](../S/Sauron.md) và có thể cả [Bilbo Baggins](../B/Bilbo_Baggins.md).
+<i><b>Ashen Cold</b></i> là ca khúc thứ bảy trong album [Let Mortal Heroes Sing Your Fame](../L/Let_Mortal_Heroes_Sing_Your_Fame.md) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [Bài hát của Durin](../T/The_world_was_young,_the_mountains_green,.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Lời bài hát ám chỉ Chúa tể bóng tối [Sauron](../S/Sauron.md) và có thể cả [Bilbo Baggins](../B/Bilbo_Baggins.md).
 
 ## Lời bài hát {#Lyrics}
 

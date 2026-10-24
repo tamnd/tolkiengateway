@@ -14,7 +14,7 @@ categories:
 
 **Overlithe** là ngày nhuận của [Lịch Shire](../S/Shire_Calendar.md). Nó được thêm vào như một ngày bổ sung cứ sau bốn năm để điều chỉnh mức thâm hụt hàng năm giữa lịch 365 ngày và độ dài thực tế của một [năm](../C/Coranar.md) (dài hơn một phần tư ngày một chút) trừ khi năm nay là năm cuối cùng của thế kỷ.
 
-Overlithe xảy ra giữa [Ngày giữa năm](../M/Mid-year's_Day.md) và ngày thứ hai trong hai [Ngày Lithe](../L/Lithedays.md) bình thường (2 Lithe). Nó không có tên ngày trong tuần và được cư dân của [the Shire](../T/The_Shire.md) coi như một ngày lễ đặc biệt.
+Overlithe xảy ra giữa [Ngày giữa năm](../M/Mid-year's_Day.md) và ngày thứ hai trong hai [Ngày Lithe](../L/Lithedays.md) bình thường (2 Lithe). Nó không có tên các ngày trong tuần và được cư dân [Shire](../T/The_Shire.md) coi như một ngày lễ đặc biệt.
 
 Năm nhuận là [S.R.](../S/Shire_Reckoning.md) [1420](../T/Third_Age_3020.md), và vào ngày Overlithe đó đã diễn ra lễ hội lớn nhất vì mùa màng bội thu và mùa hè tuyệt vời.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

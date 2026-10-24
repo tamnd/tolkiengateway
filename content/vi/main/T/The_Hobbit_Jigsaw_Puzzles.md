@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit Jigsaw Puzzle"
 ---
 
-Chuyển hướng đến [The Hobbit Trò chơi ghép hình](The_Hobbit_Jigsaw_Puzzle.md).
+Chuyển hướng đến [The Hobbit Jigsaw Puzzle](The_Hobbit_Jigsaw_Puzzle.md).

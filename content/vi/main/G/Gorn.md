@@ -17,7 +17,7 @@ categories:
 
 ## Ví dụ {#Examples}
 
-- [Aragorn](../A/Aragorn.md)
+- [Aragor](../A/Aragorn.md)
 
 <span></span>
 

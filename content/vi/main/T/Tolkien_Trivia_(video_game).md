@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Trivia"
 ---
 
-Chuyển hướng tới [Tolkien Thông tin bên lề](Tolkien_Trivia.md).
+Chuyển hướng đến [Tolkien Trivia](Tolkien_Trivia.md).

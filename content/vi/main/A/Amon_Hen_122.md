@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen122.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d0/AmonHen122.jpg/320px-AmonHen122.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d0/AmonHen122.jpg/480px-AmonHen122.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d0/AmonHen122.jpg/640px-AmonHen122.jpg 2x" data-file-width="707" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 122</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Derrick Stott</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Marion Haas</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Centurion Press, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">July <a href="../_/1993.md" title="1993">1993</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_121.md" title="Amon Hen 121">Amon Hen 121</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_123.md" title="Amon Hen 123">Amon Hen 123</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 122</b> là số một trăm hai mươi giây của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 7 [1993](../_/1993.md).
+<b><i>Amon Hen</i> 122</b> là số một trăm hai mươi giây của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 7 [1993](../_/1993.md).
 
 ## Nội dung {#Contents}
 
@@ -65,7 +65,7 @@ infobox:
     - Bởi: Paul Carter
 - Các phép thuật đã được giải quyết
     - Bởi: [Carl F. Hostetter](../C/Carl_F._Hostetter.md)
-- Cánh xào Balrog
+- Cánh Balrog xào
     - Bởi: [Alex Lewis](Alex_Lewis.md)
 - Tác phẩm nghệ thuật: *Untitled*
     - Bởi: Pat Gillooly
@@ -77,14 +77,14 @@ infobox:
     - Bởi: Pat Gillooly
 - [Tom Bombadil](../T/Tom_Bombadil.md)
     - Bởi: Lyn Ritchie
-- Tolkien Ô chữ
+- Ô chữ Tolkien
     - Bởi: Eve Halderson
-- Thư gửi Shire
-Ra mắt xã hội - Ý Tolkien
+- Thư gửi Quận
+- Ra mắt Hiệp hội Tolkien Ý
     - Bởi: Rikki Breem
 - Chúa tể của lời bài hát
     - Bởi: Denis Collins
-- Hobbit Lỗ
+- Hố Hobbit
     - Bởi: Ian Smalley & Sally Bijl
 - Truyện dân ca
 - Hexham 1993
@@ -92,9 +92,9 @@ Ra mắt xã hội - Ý Tolkien
 - Toán học
     - Bởi: Gwyneth Morgan
 - Thành viên mới
-- Không, [Người Lùn](../D/Dwarves.md) không phải là người ăn chay!
+- Không, [Người lùn](../D/Dwarves.md) không phải là người ăn chay!
     - Bởi: Len Sanford
-- [Bywater](../B/Bywater.md) Cửa hàng bưu chính & tổng hợp
+- [Bywater](../B/Bywater.md) Cửa hàng bưu chính và tổng hợp
     - Bởi: Malcolm Lindley
 - Phía sau cánh cửa kính
     - Bởi: Annie Haward

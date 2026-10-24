@@ -23,7 +23,7 @@ images:
 
 - <i><b><a class="mw-redirect mw-disambig" href="Sir_Orfeo.md" title="Sir Orfeo">Sir Orfeo</a></b></i>, một bài thơ được dịch bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 - *[Sir Gawain and the Green Knight, Pearl and Sir Orfeo](Sir_Gawain_and_the_Green_Knight,_Pearl_and_Sir_Orfeo.md)*, tuyển tập ba bản dịch của J.R.R. Tolkien ([Christopher Tolkien](../C/Christopher_Tolkien.md), ed.) các bài thơ
-- *[Sir Orfeo](<Sir_Orfeo_(booklet).md>)*, tập sách nhỏ được xuất bản bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
+- *[Sir Orfeo](<Sir_Orfeo_(booklet).md>)*, tập sách được xuất bản bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
 - *[Sir Orfeo](<Sir_Orfeo_(Alan_Bliss).md>)*, được chỉnh sửa bởi [Alan Bliss](../A/Alan_Bliss.md) và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) là tổng biên tập
 - [*Pearl and Sir Orfeo* (sách nói)](<../P/Pearl_and_Sir_Orfeo_(audiobook).md>)
 

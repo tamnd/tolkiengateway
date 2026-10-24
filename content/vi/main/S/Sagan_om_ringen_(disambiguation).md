@@ -16,7 +16,7 @@ images:
 
 **Sagan om ringen** có thể đề cập đến:
 
-- <i><b><a href="../H/Härskarringen.md" title="Härskarringen">Sagan om ringen</a></b></i>, tựa đề bằng tiếng Thụy Điển của bản dịch *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*của [Åke Ohlmarks](../_/Åke_Ohlmarks.md).
+- <i><b><a href="../H/Härskarringen.md" title="Härskarringen">Sagan om ringen</a></b></i>, tựa đề bằng tiếng Thụy Điển của bản dịch *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* của [Åke Ohlmarks](../_/Åke_Ohlmarks.md).
 - *[Sagan om Ringen (album)](<Sagan_om_Ringen_(album).md>)*, [Album nhạc của Bo Hansson](../B/Bo_Hansson.md) lấy cảm hứng từ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 - *Sagan om Ringen: Rollspelet*, ấn bản tiếng Thụy Điển của *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* .
 - *[Sagan om Ringen (1971 film)](<Sagan_om_Ringen_(1971_film).md>)*, bộ phim truyền hình Thụy Điển chuyển thể từ *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* năm 1971

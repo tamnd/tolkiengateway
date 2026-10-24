@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The One Ring"
 ---
 
-Chuyển hướng đến [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).
+Chuyển hướng tới [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).

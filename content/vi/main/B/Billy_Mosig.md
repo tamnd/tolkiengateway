@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Mosig, Billy"
 ---
 
-**Billy Mosig** là một nghệ sĩ người Mexico, người đã thực hiện nhiều bức tranh lấy cảm hứng từ giả tưởng. Xem [thư viện](../../category/I/Images_by_Billy_Mosig.md) của anh ấy.
+**Billy Mosig** là một nghệ sĩ người Mexico, người đã thực hiện nhiều bức tranh lấy cảm hứng từ giả tưởng. Xem [thư viện](../../category/I/Images_by_Billy_Mosig.md) của ông.
 
 ## Liên kết ngoài {#External_links}
 

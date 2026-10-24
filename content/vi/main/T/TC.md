@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Tolkien Compass"
 ---
 
-Chuyển hướng đến [A Tolkien Compass](../A/A_Tolkien_Compass.md).
+Chuyển hướng tới [La bàn Tolkien](../A/A_Tolkien_Compass.md).

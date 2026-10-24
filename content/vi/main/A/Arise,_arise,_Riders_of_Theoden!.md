@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arise, arise, Riders of Théoden!"
 ---
 
-Chuyển hướng đến [Hãy trỗi dậy, hãy trỗi dậy, Kỵ sĩ của Théoden!](Arise,_arise,_Riders_of_Théoden!.md).
+Chuyển hướng đến [Hãy trỗi dậy, trỗi dậy, những Kỵ sĩ của Théoden!](Arise,_arise,_Riders_of_Théoden!.md).

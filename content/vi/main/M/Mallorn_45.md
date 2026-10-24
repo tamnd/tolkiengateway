@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn45.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/38/Mallorn45.jpg/320px-Mallorn45.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/38/Mallorn45.jpg/480px-Mallorn45.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/38/Mallorn45.jpg/640px-Mallorn45.jpg 2x" data-file-width="707" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 45</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../H/Henry_Gee.md" title="Henry Gee">Henry Gee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.printedword.co.uk/" rel="noreferrer noopener" target="_blank">The Printed Word</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Spring 2008</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">52</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_44.md" title="Mallorn 44">Mallorn 44</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_46.md" title="Mallorn 46">Mallorn 46</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 45</b> là số thứ 45 của tạp chí hai năm một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào mùa xuân [2008](../_/2008.md). Mallorn 45 là số đầu tiên được xuất bản kể từ [Mallorn 44](Mallorn_44.md) vào [tháng 8](../A/August.md) [2006](../_/2006.md) do thay đổi người biên tập và chỉnh sửa lại ấn phẩm; đây là Mallorn đầu tiên được xuất bản hai năm một lần.
+<b><i>Mallorn</i> 45</b> là số thứ 45 của tạp chí hai năm một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào mùa xuân [2008](../_/2008.md). Mallorn 45 là số đầu tiên được xuất bản kể từ [Mallorn 44](Mallorn_44.md) vào [tháng 8](../A/August.md) [2006](../_/2006.md) do thay đổi người biên tập và chỉnh sửa lại ấn phẩm; đây là cuốn Mallorn đầu tiên được xuất bản hai năm một lần.
 
 ## Nội dung {#Contents}
 
@@ -53,25 +53,25 @@ infobox:
 - **Đánh giá**
     - "Bạn nhận được những gì bạn phải trả": *[Tolkien Studies IV](../T/Tolkien_Studies%253A_Volume_4.md)*
         - Bởi: [David Doughan](../D/David_Doughan.md)
-    - "Beowulf, Câu chuyện có thật": <i><a class="extiw" href="http://en.wikipedia.org/wiki/Beowulf_(2007_film)" title="wikipedia:Beowulf (2007 film)">Beowulf phim</a></i>
+    - "Beowulf, Câu chuyện có thật": <i><a class="extiw" href="http://en.wikipedia.org/wiki/Beowulf_(2007_film)" title="wikipedia:Beowulf (2007 film)">Phim Beowulf</a></i>
         - Bởi: [Henry Gee](../H/Henry_Gee.md)
-    - "Kỳ quan của Lothlórien": *[The Lord of the Rings: the Stage Musical](../T/The_Lord_of_the_Rings_Musical.md)*
+    - "Kỳ quan xứ Lothlórien": *[The Lord of the Rings: the Stage Musical](../T/The_Lord_of_the_Rings_Musical.md)*
         - Bởi: Laura Marples
     - "Hành trình vào Tiên giới": *Explore Fairy Traditions*
         - Bởi: [Pat Reynolds](../P/Patricia_Reynolds.md)
     - "Liên doanh phương Bắc": <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Golden_Compass_(film)" title="wikipedia:The Golden Compass (film)">Phim La bàn vàng</a></i>
         - Bởi: [Pat Reynolds](../P/Patricia_Reynolds.md)
     - "Một kiệt tác bệnh hoạn, ác độc": *[The Children of Húrin](../T/The_Children_of_Húrin.md)*
-        - Bởi: Mike Austin Foster
+        - Bởi: Mike Foster
     - "Các thao tác thời Trung cổ": *[The Keys of Middle-earth](../T/The_Keys_of_Middle-earth~15408.md)*
         - Bởi: John Damon
     - "Trong Vấn Đề Cội Nguồn": *[Roots and Branches](../R/Roots_and_Branches.md)*
 - **Bình luận**
-    - "Nữ, Oxford và Tolkien"
+    - "Phụ nữ, Oxford và Tolkien"
         - Bởi: [David Doughan](../D/David_Doughan.md)
     - "Ác quỷ, sự lựa chọn và ân sủng trong *The Lord of the Rings*
         - Bởi: Chad Chrisholm
-    - "Tolkien của Birmingham"
+    - "Birmingham của Tolkien"
         - Bởi: [Bob Blackham](../R/Robert_S._Blackham.md)
     - "Ngày đi học của John Ronald"
         - Bởi: [Maggie Burns](Maggie_Burns.md)
@@ -94,4 +94,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/46/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/46/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>

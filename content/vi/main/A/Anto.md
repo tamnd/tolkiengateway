@@ -20,13 +20,13 @@ images:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/A/Anto.gif.md"><img src="https://tolkiengateway.net/w/images/9/9c/Anto.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-*Anto* cũng là tên trong Quenya chữ cái thứ mười ba của bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái đầu tiên của lớp bốn hay [Tyellë](../T/Tyellë.md), chứa "các âm thanh phát âm" và là chữ cái thứ tư trong chuỗi phụ âm nha khoa hoặc *t*, *[Tincotéma](../T/Tincotéma.md)*.<sup id="cite_ref-Letters_2-0" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Trong cách viết chuẩn của Quenya *Anto* đại diện cho **NT**.<sup id="cite_ref-Names_1-2" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Trong tất cả các chế độ khác, chữ cái này đại diện cho **DH** (hoặc "được lồng tiếng" **TH**).<sup id="cite_ref-Letters_2-1" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Tên Westron cho chữ cái này là <i><b>Adho</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Anto* cũng là tên bằng tiếng Quenya của chữ cái thứ mười ba trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái đầu tiên của lớp bốn hay [Tyellë](../T/Tyellë.md), chứa "các âm thanh phát âm" và là chữ cái thứ tư trong chuỗi phụ âm nha khoa hoặc *t*, *[Tincotéma](../T/Tincotéma.md)*.<sup id="cite_ref-Letters_2-0" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Trong cách viết chuẩn của Quenya *Anto* đại diện cho **NT**.<sup id="cite_ref-Names_1-2" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Trong tất cả các chế độ khác, chữ cái này đại diện cho **DH** (hoặc "được lồng tiếng" **TH**).<sup id="cite_ref-Letters_2-1" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Tên phương Tây cho chữ cái này là <i><b>Adho</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <br>
 
 ## Xem thêm {#See_also}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
 
 <span></span>
 

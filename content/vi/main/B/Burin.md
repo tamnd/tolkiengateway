@@ -14,15 +14,15 @@ categories:
   - "Third Age characters"
 ---
 
-**Burin** là một [Người lùn](../D/Dwarves.md) bị [Tolkien](../J/J.R.R._Tolkien.md) bỏ rơi khi đang trong quá trình tạo *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
+**Burin** là một [Người lùn](../D/Dwarves.md) bị [Tolkien](../J/J.R.R._Tolkien.md) bỏ rơi khi đang trong quá trình tạo ra *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
 ## Lịch sử {#History}
 
-Nhân vật này lần đầu tiên được nhắc đến với cái tên Frár, người đã tham dự [Hội đồng Elrond](../C/Council_of_Elrond.md) cùng với [Glóin](../G/Glóin.md). Anh ta được đổi thành Burin, con trai của [Balin](Balin.md), người sau này sẽ tham gia [Học bổng](../F/Fellowship_of_the_Ring.md) trong nhiệm vụ của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Khi ý tưởng đó bị loại bỏ và [Gimli](../G/Gimli.md) được tạo ra thay cho anh ta, tên này được sử dụng cho cha của Balin, nhưng tên đó đã bị loại bỏ để chuyển sang [Fundin](../F/Fundin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nhân vật này lần đầu tiên được nhắc đến là Frár, người đã tham dự [Hội đồng Elrond](../C/Council_of_Elrond.md) cùng với [Glóin](../G/Glóin.md). Ông ta được đổi thành Burin, con trai của [Balin](Balin.md), sau này sẽ tham gia [Học bổng](../F/Fellowship_of_the_Ring.md) trong nhiệm vụ của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Khi ý tưởng đó bị từ bỏ và [Gimli](../G/Gimli.md) được tạo ra thay cho ông ta, cái tên này được sử dụng cho cha của Balin, nhưng tên đó đã bị loại bỏ để chuyển sang [Fundin](../F/Fundin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Burin*, hay *Burinn*, là tên người lùn từ *[Dvergatal](../V/Völuspá.md)*, có nghĩa là "giống con trai".<sup id="cite_ref-Dwarf_3-0" class="reference"><a href="#cite_note-Dwarf-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:943</sup> Frár có nghĩa là "nhanh chóng".<sup id="cite_ref-Dwarf_3-1" class="reference"><a href="#cite_note-Dwarf-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:947</sup>
+*Burin*, hay *Burinn*, là tên người lùn từ *[Dvergatal](../V/Völuspá.md)*, có nghĩa là "giống con trai".<sup id="cite_ref-Dwarf_3-0" class="reference"><a href="#cite_note-Dwarf-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:943</sup> Frár có nghĩa là "nhanh nhẹn".<sup id="cite_ref-Dwarf_3-1" class="reference"><a href="#cite_note-Dwarf-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:947</sup>
 
 <span></span>
 

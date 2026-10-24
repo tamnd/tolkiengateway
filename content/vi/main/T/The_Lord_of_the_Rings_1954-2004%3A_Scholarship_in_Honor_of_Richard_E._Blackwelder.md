@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings 1954-2004"
 ---
 
-Chuyển hướng tới [The Lord of the Rings 1954-2004](The_Lord_of_the_Rings_1954-2004.md).
+Chuyển hướng đến [The Lord of the Rings 1954-2004](The_Lord_of_the_Rings_1954-2004.md).

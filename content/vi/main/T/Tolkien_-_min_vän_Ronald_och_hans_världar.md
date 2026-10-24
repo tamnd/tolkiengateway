@@ -43,10 +43,10 @@ Cuốn sách đã được phát hành bằng tiếng Anh với tên *[J.R.R. To
 
 ## Từ bìa sau {#From_the_back_cover}
 
-Hầu hết mọi người đều biết rằng J.R.R. Tolkien đã được bình chọn là tác giả *the* của thế kỷ 20 và được coi là người sáng tạo ra nền văn học giả tưởng hiện đại. Người ta ít biết rằng nhà ngôn ngữ học người Thụy Điển, giáo sư Arne Zettersten, đã cộng tác với Tolkien trong một dự án xuất bản các văn bản thời trung cổ trong những năm 1960 và 1970 tại Oxford.
+Hầu hết mọi người đều biết rằng J.R.R. Tolkien đã được bình chọn là tác giả *the* của thế kỷ 20 và được coi là người sáng tạo ra nền văn học giả tưởng hiện đại. Người ta ít biết rằng nhà ngôn ngữ học người Thụy Điển, giáo sư Arne Zettersten, đã làm việc với Tolkien trong một dự án xuất bản các văn bản thời Trung cổ trong những năm 1960 và 1970 tại Oxford.
 
-Cuốn sách về "bạn tôi Ronald" cung cấp một cách đọc mới mẻ về tiểu thuyết giả tưởng được trực quan hóa tuyệt vời của Tolkien, liên quan đến các công trình khoa học về ngôn ngữ học và những trải nghiệm sống độc đáo của ông. Arne Zettersten nhớ lại ký ức của mình về nhà cân bằng ngôn ngữ Tolkien, người đã nói, viết và tái tạo lại các ngôn ngữ sống, chết và được phát minh ra.
+Cuốn sách về "người bạn Ronald của tôi" mang đến một cách đọc mới mẻ về tiểu thuyết giả tưởng được trực quan hóa tuyệt vời của Tolkien, liên quan đến các công trình khoa học về ngôn ngữ học và những trải nghiệm sống độc đáo của ông. Arne Zettersten nhớ lại ký ức của mình về nhà cân bằng ngôn ngữ Tolkien, người đã nói, viết và tái tạo các ngôn ngữ sống, chết và được phát minh ra.
 
-Cuốn sách xoay quanh khả năng giao tiếp của Tolkien, cũng như mối quan hệ giữa thế giới không chính thức, khoa học và hư cấu của anh ấy.
+Cuốn sách xoay quanh khả năng giao tiếp của Tolkien, cũng như mối quan hệ giữa thế giới không chính thức, khoa học và hư cấu của ông.
 
 \[Được dịch miễn phí từ tiếng Thụy Điển\]

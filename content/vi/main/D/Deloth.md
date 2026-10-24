@@ -14,11 +14,11 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>deloth</b></i> là một từ [Sindarin](../S/Sindarin.md) mang ý nghĩa "ghê tởm".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>deloth</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "ghê tởm".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-[Noldorin](../N/Noldorin.md) <i>deloth/<b>delos</b></i> ("ghê tởm, ghê tởm, ghê tởm") xuất phát từ [gốc rễ](../R/Root.md) DYEL + GOS.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Noldorin](../N/Noldorin.md) <i>deloth/<b>delos</b></i> ("ghê tởm, ghê tởm, ghê tởm") đến từ [gốc](../R/Root.md) DYEL + GOS.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 

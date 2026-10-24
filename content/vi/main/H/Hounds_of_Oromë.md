@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Huan"
 ---
 
-Chuyển hướng đến [Huan](Huan.md).
+Chuyển hướng tới [Huấn](Huan.md).

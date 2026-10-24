@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"...ngay lập tức cả đám [họ](../../main/S/Spiders.md) vội vã đuổi theo [anh hobbit](../../main/B/Bilbo_Baggins.md)..." bởi [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"...ngay lập tức cả đám [họ](../../main/S/Spiders.md) vội vã đuổi theo [anh hobbit](../../main/B/Bilbo_Baggins.md)..." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

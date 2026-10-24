@@ -21,7 +21,7 @@ sort_keys:
   "People by name": "Reid, Gordon"
 ---
 
-**Gordon Reid** ([tháng Chín 6](../_/6_September.md), [1939](../_/1939.md) - [26 tháng 11](../_/26_November.md), [2003](../_/2003.md)) đã lồng tiếng cho [Sandyman](../S/Sandyman.md) trong loạt phim phát thanh [1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) do BBC phát sóng. Anh ấy cũng lồng tiếng cho cả [Snaga (orc of Isengard)](<../S/Snaga_(orc_of_Isengard).md>) và [Snaga (orc of Mordor)](<../S/Snaga_(orc_of_Mordor).md>).
+**Gordon Reid** ([Ngày 6 tháng 9](../_/6_September.md), [1939](../_/1939.md) - [26 tháng 11](../_/26_November.md), [2003](../_/2003.md)) đã lồng tiếng cho [Sandyman](../S/Sandyman.md) trong loạt phim phát thanh [1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) do BBC phát sóng. Ông cũng lồng tiếng cho cả [Snaga (orc of Isengard)](<../S/Snaga_(orc_of_Isengard).md>) và [Snaga (orc of Mordor)](<../S/Snaga_(orc_of_Mordor).md>).
 
 ## Liên kết ngoài {#External_links}
 

@@ -49,17 +49,17 @@ infobox:
 ## Nội dung {#Contents}
 
 - "Hành trình Tolkien tại Đại học Augsburg" của Stephan Köser (với Monika Kirner-Ludwig & Sebastian Streitberger)
-- "'Gặp gỡ giáo sư' Quan điểm của đồng nghiệp ngày nay về cuộc sống và công việc học tập của Tolkien" của [Thomas Honegger](../T/Thomas_M._Honegger.md)
-- "Một cách tiếp cận siêu thực dụng và phân tích diễn ngôn đối với 'Beowulf Quái vật và những nhà phê bình' của Tolkien: Một cái nhìn có chủ ý về các cạnh của nó, chứ không phải trung tâm của nó" của Monika Kirner-Ludwig
+- "'Gặp gỡ giáo sư' Góc nhìn của đồng nghiệp thời nay về cuộc sống và công việc học tập của Tolkien" của [Thomas Honegger](../T/Thomas_M._Honegger.md)
+- "Một cách tiếp cận siêu thực dụng và phân tích diễn ngôn đối với 'Beowulf The Monsters and the Critics' của Tolkien: Một cái nhìn có chủ ý về các cạnh của nó, chứ không phải trung tâm của nó" của Monika Kirner-Ludwig
 - "'Một chiếc xe kéo để mang tất cả bọn họ đến và trói họ trong bóng tối?' Đoạn giới thiệu Chúa tể những chiếc nhẫn và chức năng giao tiếp của họ" của Heike Krebs
-- "Tìm kiếm 'Để có Nhịp điệu hay hơn, hoặc một Từ hoặc Cụm từ hay hơn': Việc Tolkien Kể lại Truyền thuyết về Vua Arthur bằng Đồng hồ điệp âm" của Birgit Schwan
+- "Tìm kiếm 'Để có Nhịp điệu hay hơn, hoặc một Từ hoặc Cụm từ hay hơn': Việc Tolkien kể lại Truyền thuyết về Vua Arthur bằng Đồng hồ điệp âm" của Birgit Schwan
 - "Những vết thương không thể (không) được chữa lành hoàn toàn: Tâm lý sinh thái, Đau đớn thể xác và Khả năng duy trì tinh thần trong J.R.R. Tolkien *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*" của Heike Schwarz
-- "Thanh tao Elvish và Orkish kinh khủng: Nỗ lực nắm bắt lý thuyết gây tranh cãi về thẩm mỹ ngôn ngữ và sự phù hợp ngữ âm của J.R.R. Tolkien" của Magdalena Spachmann
-- "Khái niệm về không gian trong phong cảnh [Trung Địa](../M/Middle-earth.md)hoặc tiềm năng của tưởng tượng và phim dành cho địa lý trường học" của Sebastian Streitberger
-- "Những hiểu biết sâu sắc về việc lập bản đồ thế giới tưởng tượng của J.R.R. Tolkien" của Sabine Timpf
+- "Ethereal Elvish và Horrid Orkish: Nỗ lực nắm bắt lý thuyết gây tranh cãi về thẩm mỹ ngôn ngữ và sự phù hợp ngữ âm của J.R.R. Tolkien" của Magdalena Spachmann
+- "Các khái niệm về không gian trong phong cảnh [Trung địa](../M/Middle-earth.md) hoặc tiềm năng của tưởng tượng và phim dành cho địa lý trường học" của Sebastian Streitberger
+- "Những hiểu biết sâu sắc về việc lập bản đồ thế giới tưởng tượng J.R.R. Tolkien" của Sabine Timpf
 - "Làm thế nào J.R.R. Tolkien sử dụng Kennings để biến *The Lord of the Rings* thành một thiên anh hùng ca thời Trung cổ cho thế kỷ 20" của Carolin Tober
 - "Khám phá quá khứ ngôn ngữ thông qua (các) tác phẩm của J.R.R. Tolkien: Một số quan điểm định hướng từ lịch sử ngôn ngữ tiếng Anh" của Oliver M. Traxel
-Người đàn ông xanh của - "Tolkien: Nền văn hóa bị phân biệt chủng tộc bên trong và không gian xanh ở *The Lord of the Rings*" của Christine Vogt-William
+- "Người xanh của Tolkien: Không gian xanh bên trong và không gian xanh trong *The Lord of the Rings*" của Christine Vogt-William
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -71,8 +71,8 @@ Người đàn ông xanh của - "Tolkien: Nền văn hóa bị phân biệt ch�
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.walking-tree.org/books/binding_them_all.php" rel="noreferrer noopener" target="_blank">Trang sản phẩm chính thức</a>
-- <a class="external text" href="https://dc.swosu.edu/mythlore/vol43/iss1/32/" rel="noreferrer noopener" target="_blank">Đánh giá của Troels Forchammer trong <i>Mythlore</i></a>
-- <a class="external text" href="https://scholar.valpo.edu/journaloftolkienresearch/vol7/iss1/2/" rel="noreferrer noopener" target="_blank">Đánh giá của Anna Smol trong <i>Journal of Tolkien Research</i></a>
+- <a class="external text" href="https://dc.swosu.edu/mythlore/vol43/iss1/32/" rel="noreferrer noopener" target="_blank">Bài đánh giá của Troels Forchammer trong <i>Thần thoại</i></a>
+- <a class="external text" href="https://scholar.valpo.edu/journaloftolkienresearch/vol7/iss1/2/" rel="noreferrer noopener" target="_blank">Bài đánh giá của Anna Smol trong <i>Tạp chí Nghiên cứu Tolkien</i></a>
 - <a class="external text" href="http://journal.finfar.org/articles/book-review-binding-them-all/" rel="noreferrer noopener" target="_blank">Bài đánh giá của Jyrki Korpua trong <i>Fafnir: Tạp chí Nghiên cứu Khoa học Viễn tưởng và Giả tưởng Bắc Âu</i></a>
 
 <br clear="all"/>

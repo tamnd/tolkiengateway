@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fíriel Fairbairn"
 ---
 
-Chuyển hướng đến [Fíriel Fairbairn](Fíriel_Fairbairn.md).
+Chuyển hướng tới [Fíriel Fairbairn](Fíriel_Fairbairn.md).

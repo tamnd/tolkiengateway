@@ -15,11 +15,11 @@ categories:
 
 <i><b>ekka</b></i> có nghĩa là "lỗ" trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
-Petri Tikka đã đề xuất cách viết *ecca*để phù hợp với tiêu chuẩn được sử dụng trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Petri Tikka đã đề xuất cách viết *ecca* để phù hợp với tiêu chuẩn được sử dụng trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Sindarin](../S/Sindarin.md) *[torech](../T/Torech.md)*<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+- [tiếng Sindarin](../S/Sindarin.md) *[torech](../T/Torech.md)*<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 <span></span>
 

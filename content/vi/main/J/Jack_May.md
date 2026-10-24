@@ -18,4 +18,4 @@ sort_keys:
   "People by name": "May, Jack"
 ---
 
-**Jack May** lồng tiếng cho vai [Theoden](../T/Théoden.md) trong [The Lord of the Rings loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) phát sóng trên BBC 4.
+**Jack May** lồng tiếng cho phần [Theoden](../T/Théoden.md) trong [The Lord of the Rings 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) được phát sóng trên BBC 4.

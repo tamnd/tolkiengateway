@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Fellowship of the Ring Visual Companion"
 ---
 
-Chuyển hướng đến [The Lord of the Rings: The Fellowship of the Ring Đồng hành trực quan](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_Visual_Companion.md).
+Chuyển hướng đến [The Lord of the Rings: The Fellowship of the Ring Visual Companion](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_Visual_Companion.md).

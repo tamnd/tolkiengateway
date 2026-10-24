@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Palantíri"
 ---
 
-Chuyển hướng đến [Palantíri](Palantíri.md).
+Chuyển hướng tới [Palantíri](Palantíri.md).

@@ -20,14 +20,14 @@ sort_keys:
   "People by name": "Tyminski, Jakub"
 ---
 
-**Jakub Tymiński 'Ominous'** là biên tập viên của Niên lịch Tolkienists Ba Lan *[Aiglos](<../A/Aiglos_(journal).md>)*. Anh ấy là cộng tác viên của [2013](../_/2013.md) và là thư ký biên tập từ [tháng Chín](../S/September.md) [2014](../_/2014.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Anh ấy cũng đã đóng góp các bài báo và tác phẩm nghệ thuật cho tạp chí.
+**Jakub Tymiński 'Ominous'** là biên tập viên của Niên lịch Tolkienists Ba Lan *[Aiglos](<../A/Aiglos_(journal).md>)*. Ông là cộng tác viên của [2013](../_/2013.md) và là thư ký biên tập từ [tháng 9](../S/September.md) [2014](../_/2014.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông cũng đã đóng góp các bài báo và tác phẩm nghệ thuật cho tạp chí.
 
 ## Thư mục {#Bibliography}
 
 ### Bài viết {#Articles}
 
 - [2015](../_/2015.md): *[Aiglos 20](../A/Aiglos_20.md)*
-    - "Thuật chiêu hồn của Necromancer. Ma thuật đen, chiếm hữu và thây ma"
+    - "Thuật chiêu hồn của Necromancer. Ma thuật đen, chiếm hữu và zombie"
 - [2016](../_/2016.md): *[Aiglos 21](../A/Aiglos_21.md)*
     - *Palantír* (fanfic)
 
@@ -40,7 +40,7 @@ sort_keys:
 
 ## Xem thêm {#See_also}
 
-- [Thể loại: Hình ảnh của Jakub Tymiński](../../category/I/Images_by_Jakub_Tymiński.md)
+- [Category: Images by Jakub Tymiński](../../category/I/Images_by_Jakub_Tymiński.md)
 
 ## Liên kết ngoài {#External_links}
 

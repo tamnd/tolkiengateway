@@ -16,7 +16,7 @@ images:
   - "Barbie_Arwen_Aragorn.jpg"
 ---
 
-<i><b>Barbie</b></i> là thương hiệu búp bê nổi tiếng thuộc sở hữu của <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mattel" title="wikipedia:Mattel">Mattel</a></i>. Họ sản xuất búp bê <i><a class="extiw" href="http://en.wikipedia.org/wiki/Barbie" title="wikipedia:Barbie">Barbie</a></i> và <i><a class="extiw" href="http://en.wikipedia.org/wiki/Ken_(doll)" title="wikipedia:Ken (doll)">Ken</a></i> được cấp phép chính thức dựa trên [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>). Một con búp bê [Legolas](../L/Legolas.md) và [Galadriel](../G/Galadriel.md) được bán riêng và có hai gói [Aragorn](../A/Aragorn.md) và [Arwen](../A/Arwen.md).
+<i><b>Barbie</b></i> là thương hiệu búp bê nổi tiếng thuộc sở hữu của <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mattel" title="wikipedia:Mattel">Mattel</a></i>. Họ sản xuất búp bê <i><a class="extiw" href="http://en.wikipedia.org/wiki/Barbie" title="wikipedia:Barbie">Barbie</a></i> và <i><a class="extiw" href="http://en.wikipedia.org/wiki/Ken_(doll)" title="wikipedia:Ken (doll)">Ken</a></i> được cấp phép chính thức dựa trên [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>). Một con búp bê [Legolas](../L/Legolas.md) và [Galadriel](../G/Galadriel.md) được bán riêng và có một gói gồm hai gói [Aragorn](../A/Aragorn.md) và [Arwen](../A/Arwen.md).
 
 ## Hàng hóa {#Merchandise}
 

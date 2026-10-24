@@ -21,7 +21,7 @@ sort_keys:
   "People by name": "George, Grant"
 ---
 
-**Grant Raymond George** ([19 tháng 5](../_/19_May.md), [1971](../_/1971.md)) là một diễn viên lồng tiếng người Mỹ. Anh ấy đóng vai [Legolas Greenleaf](../L/Legolas.md) và Troll Stonehurler trong *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*.
+**Grant Raymond George** ([19 tháng 5](../_/19_May.md), [1971](../_/1971.md)) là một diễn viên lồng tiếng người Mỹ. Ông đã đóng vai [Legolas Greenleaf](../L/Legolas.md) và Troll Stonehurler trong *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*.
 
 ## Vai trò {#Roles}
 

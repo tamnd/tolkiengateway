@@ -64,19 +64,19 @@ Sự kiện xảy ra vào ngày 24 tháng 7
 ## Trên Trái đất {#On_Earth}
 
 - **[1915](1915.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết bài thơ *[The Happy Mariners](../T/The_Happy_Mariners.md)*.
-- **[1916](1916.md)** - Nhiệm vụ tiền tuyến kéo dài 5 ngày thứ hai của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)bắt đầu.
+- **[1916](1916.md)** - Nhiệm vụ tiền tuyến kéo dài 5 ngày thứ hai của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt đầu.
 - **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 31](../L/Letter_31.md).
 - **[1968](1968.md)** - Nghệ sĩ [Colleen Doran](../C/Colleen_Doran.md) ra đời.
 - **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 326](../L/Letter_326.md).
 - **[1982](1982.md)** - Tập thứ hai phiên bản mới của loạt phim phát thanh [1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
 - **[1987](1987.md)** - [Mythcon 18](../M/Mythcon_18.md) tại [Đại học Marquette](../M/Marquette_University.md), <a class="extiw" href="http://en.wikipedia.org/wiki/Milwaukee" title="wikipedia:Milwaukee">Milwaukee</a>.
-- **[2008](2008.md)** - *[The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "The Ring-forges of Eregion" được phát hành ở Châu Âu.
-- **[2009](2009.md)** - [Tolkien Điều](../T/Tolkien_Thing.md) 2009 ở <a class="extiw" href="http://en.wikipedia.org/wiki/Rieneck" title="wikipedia:Rieneck">Rieneck</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2008](2008.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "The Ring-forges of Ezone" được phát hành ở Châu Âu.
+- **[2009](2009.md)** - [Tolkien Thing](../T/Tolkien_Thing.md) 2009 tại <a class="extiw" href="http://en.wikipedia.org/wiki/Rieneck" title="wikipedia:Rieneck">Rieneck</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đoàn rước tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md)
+    - Đoàn tang vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md)

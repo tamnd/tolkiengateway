@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "List of Tolkien-related podcasts"
 ---
 
-Chuyển hướng đến [Danh sách Tolkien podcast liên quan](List_of_Tolkien-related_podcasts.md).
+Chuyển hướng tới [Danh sách podcast liên quan đến Tolkien](List_of_Tolkien-related_podcasts.md).

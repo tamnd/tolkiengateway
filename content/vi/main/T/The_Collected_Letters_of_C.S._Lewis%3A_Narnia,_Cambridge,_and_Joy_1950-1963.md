@@ -50,7 +50,7 @@ infobox:
 
 <i><b>Những bức thư được sưu tầm của C. S. Lewis: Narnia, Cambridge và Joy 1950–1963</b></i> được Walter Hooper biên tập và xuất bản trên [2006](../_/2006.md).
 
-Bao gồm một phần của [bức thư Tolkien gửi Henry Willink](../L/Letter_to_Henry_Willink.md).<sup id="cite_ref-Addenda_2-0" class="reference"><a href="#cite_note-Addenda-2">[2]</a></sup>
+Bao gồm một phần [bức thư của Tolkien gửi Henry Willink](../L/Letter_to_Henry_Willink.md).<sup id="cite_ref-Addenda_2-0" class="reference"><a href="#cite_note-Addenda-2">[2]</a></sup>
 
 ## Từ nhà xuất bản {#From_the_publisher}
 

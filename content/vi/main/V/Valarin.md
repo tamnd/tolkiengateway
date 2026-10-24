@@ -33,32 +33,32 @@ images:
 
 ## Mô tả {#Description}
 
-Là những thiên thần có khả năng giao tiếp thần giao cách cảm, Ainur không cần ngôn ngữ nói. Tuy nhiên, có vẻ như Valarin đã được chấp nhận như một phần giả định của họ về hình dạng vật lý.
+Là những sinh vật thiên thần có khả năng giao tiếp thần giao cách cảm, người Ainur không cần ngôn ngữ nói. Tuy nhiên, có vẻ như Valarin đã được nhận nuôi như một phần trong giả định về hình dạng vật lý của họ.
 
-Valarin cực kỳ xa lạ với đôi tai của [Tiên tộc](../E/Elves.md), đôi khi đến mức thực sự không hài lòng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Do đó, [Valar](Valar.md) đã học [Quenya](../Q/Quenya.md) và sử dụng nó để trò chuyện với Tiên tộc hoặc với nhau nếu Tiên tộc có mặt. Rất ít yêu tinh từng học Valarin, chỉ áp dụng một số từ Valarin vào Quenya. Người [Vanyar](Vanyar.md) sử dụng nhiều từ hơn từ Valarin vào phương ngữ *[Quendya](../Q/Quendya.md)* của họ so với [Noldor](../N/Noldor.md), vì họ sống gần Valar hơn.
+Valarin cực kỳ xa lạ với đôi tai của [Yêu tinh](../E/Elves.md), đôi khi đến mức thực sự không hài lòng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Do đó, [Valar](Valar.md) đã học [Quenya](../Q/Quenya.md) và sử dụng nó để trò chuyện với Yêu tinh hoặc với nhau nếu Yêu tinh có mặt. Rất ít yêu tinh từng học Valarin, chỉ áp dụng một số từ Valarin vào Quenya. [Vanyar](Vanyar.md) sử dụng nhiều từ của Valarin hơn vào phương ngữ của họ *[Quendya](../Q/Quendya.md)* so với [Noldor](../N/Noldor.md), vì họ sống gần Valar hơn.
 
-Valarin không liên quan đến tất cả các ngôn ngữ khác của [Trung Địa](../M/Middle-earth.md) vì nó phát sinh bên ngoài [Arda](../A/Arda.md) và ngoại trừ một vài từ (chủ yếu là tên riêng) thì không có thông tin gì về ngôn ngữ này. Ngôn ngữ này cũng được chú ý vì những từ dài của nó. Ví dụ: từ Valarin cho [Telperion](../T/Telperion.md) là *[Ibrīniðilpathānezel](../T/Telperion.md#Other_names)*.<sup id="cite_ref-:0_3-0" class="reference"><a href="#cite_note-:0-3">[3]</a></sup>
+Valarin không liên quan đến tất cả các ngôn ngữ khác của [Trung địa](../M/Middle-earth.md) vì nó phát sinh bên ngoài [Arda](../A/Arda.md), và ngoại trừ một vài từ (chủ yếu là tên riêng), không có gì được biết đến về ngôn ngữ này. Ngôn ngữ này cũng được chú ý vì những từ dài của nó. Ví dụ: từ Valarin cho [Telperion](../T/Telperion.md) là *[Ibrīniðilpathānezel](../T/Telperion.md#Other_names)*.<sup id="cite_ref-:0_3-0" class="reference"><a href="#cite_note-:0-3">[3]</a></sup>
 
-[Fëanor](../F/Fëanor.md), trước khi sự bất mãn ngày càng tăng, người ta cho rằng ông đã học được nhiều ngôn ngữ này hơn bất kỳ ngôn ngữ nào khác trước thời đại của mình, và kiến ​​thức của ông dù sao đi nữa cũng phải vượt xa những gì được ghi nhận hiện nay; nhưng những gì anh ấy biết thì anh ấy giữ cho riêng mình và anh ấy từ chối truyền nó ngay cả cho [Lambengolmor](../L/Lambengolmor.md) vì cuộc cãi vã của anh ấy với Valar.<sup id="cite_ref-:0_3-1" class="reference"><a href="#cite_note-:0-3">[3]</a></sup>
+[Fëanor](../F/Fëanor.md), trước khi sự bất mãn ngày càng tăng, được cho là đã học được nhiều ngôn ngữ này hơn bất kỳ ngôn ngữ nào khác trước thời đại của mình, và kiến ​​thức của ông ta dù sao đi nữa cũng phải vượt xa những gì hiện nay được ghi nhận; nhưng những gì ông biết thì ông giữ cho riêng mình, và ông từ chối truyền nó ngay cả cho [Lambengolmor](../L/Lambengolmor.md) vì cuộc cãi vã của ông với Valar.<sup id="cite_ref-:0_3-1" class="reference"><a href="#cite_note-:0-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các phiên bản cũ hơn của *[The Silmarillion](../T/The_Silmarillion.md)* và trong [Lhammas](../L/Lhammas.md), Valarin được chia nhỏ hơn nữa thành [Oromëan](../O/Oromëan.md), [Aulëan](../A/Aulëan.md) và [Melkian](../M/Melkian.md). Theo quan niệm này, tất cả [Elvish](../E/Elvish.md) ngôn ngữ đều bắt nguồn từ tiếng Oromëan, nhưng quan điểm này sau đó đã bị loại bỏ.
+Trong các phiên bản cũ hơn của *[The Silmarillion](../T/The_Silmarillion.md)* và trong [Lhammas](../L/Lhammas.md), Valarin được chia nhỏ hơn nữa thành [Oromëan](../O/Oromëan.md), [Aulëan](../A/Aulëan.md) và [Melkian](../M/Melkian.md). Theo quan niệm này, tất cả các ngôn ngữ [Elvish](../E/Elvish.md) đều phát sinh từ tiếng Oromëan, nhưng quan điểm này sau đó đã bị loại bỏ.
 
 ## Cảm hứng {#Inspiration}
 
 [Helge Fauskanger](../H/Helge_Fauskanger.md) đã lưu ý những gợi ý rằng Valarin có thể đã bị ảnh hưởng bởi <a class="extiw" href="http://en.wikipedia.org/wiki/Akkadian_language" title="wikipedia:Akkadian language">người Babylon cổ đại</a>:
 
-"*\[...\] một số người cảm thấy rằng phong cách chung của Valarin gợi nhớ đến những từ như "Etemenanki", tên của tòa tháp lớn (ziggurat) của Babylon. Tuy nhiên, những quan điểm như vậy hoàn toàn là phỏng đoán, và chúng ta có thể hỏi tại sao Tolkien lại sử dụng tiếng Babylon làm hình mẫu cho ngôn ngữ của các vị thần trong thần thoại của mình. Nhiều khả năng ông ấy chỉ đơn giản nhắm đến một phong cách rất đặc biệt, vì đây được cho là một ngôn ngữ hoàn toàn độc lập với Elvish họ ngôn ngữ, và hơn thế nữa là một ngôn ngữ được phát triển và sử dụng bởi những siêu nhân.*"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+"*\[...\] một số người cảm thấy rằng phong cách chung của Valarin gợi nhớ đến những từ như "Etemenanki", tên của tòa tháp lớn (ziggurat) của Babylon. Tuy nhiên, những quan điểm như vậy hoàn toàn chỉ là phỏng đoán, và chúng ta có thể hỏi tại sao Tolkien lại sử dụng tiếng Babylon làm hình mẫu cho ngôn ngữ của các vị thần trong thần thoại của mình. Nhiều khả năng ông ấy chỉ đơn giản nhắm đến một phong cách rất đặc biệt, vì đây được cho là một ngôn ngữ hoàn toàn độc lập với họ ngôn ngữ Tiên, và hơn thế nữa một cái lưỡi được phát triển và nói bởi những siêu nhân.*"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Danh mục:Valarin từ](../../category/V/Valarin_words.md)
+- [Danh mục:Từ Valarin](../../category/V/Valarin_words.md)
 
 ## Liên kết ngoài {#External_links}
 
 - [Helge Fauskanger](../H/Helge_Fauskanger.md), "<a class="external text" href="http://www.uib.no/People/hnohf/valarin.htm" rel="noreferrer noopener" target="_blank">Valarin - <i>như ánh sáng lấp lánh của thanh kiếm</i></a>", tại [Ardalambion](../A/Ardalambion.md)
-- <a class="external text" href="http://glaemscrafu.jrrvf.com/english/valarin.html" rel="noreferrer noopener" target="_blank">Valarin mẫu âm thanh</a> tại [Glǽmscrafu](../G/Glǽmscrafu.md)
+- <a class="external text" href="http://glaemscrafu.jrrvf.com/english/valarin.html" rel="noreferrer noopener" target="_blank">Mẫu âm thanh Valarin</a> tại [Glǽmscrafu](../G/Glǽmscrafu.md)
 
 <span></span>
 

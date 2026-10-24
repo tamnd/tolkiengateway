@@ -14,9 +14,9 @@ sort_keys:
   "Letters": "Jellema, Rod"
 ---
 
-Vào mùa xuân năm [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho Jod Jellema**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào mùa xuân [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho Jod Jellema**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Nội dung:** Trả lời thư của Jellema, liên quan đến tranh cãi về việc Tolkien không chấp thuận cuốn sách dự định của [W.H. Auden](../W/W.H._Auden.md)về Tolkien.
+- **Nội dung:** Trả lời thư của Jellema, liên quan đến tranh cãi về việc Tolkien không chấp thuận cuốn sách dự định của [W.H. Auden](../W/W.H._Auden.md) về Tolkien.
 - **Xuất bản:** Bức thư được trích dẫn trong *[W.H. Auden: A Legacy](../W/W.H._Auden%253A_A_Legacy.md)*.
 
 ## Trích {#Excerpt}

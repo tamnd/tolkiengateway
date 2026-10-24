@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[ Nhẫn của Tiên Nữ hoàng](../../main/N/Nenya.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md).
+"[Chiếc nhẫn của Tiên Nữ hoàng](../../main/N/Nenya.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md).
 
 ## Giấy phép {#Licensing}
 

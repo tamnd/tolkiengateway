@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Một [Kỵ Sĩ Đen](../../main/N/Nazgûl.md) trong [ Shire](../../main/T/The_Shire.md). Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (trò chơi điện tử)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
+Một [Kỵ Sĩ Đen](../../main/N/Nazgûl.md) trong [ Shire](../../main/T/The_Shire.md). Ảnh chụp màn hình từ [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Giấy phép {#Licensing}
 

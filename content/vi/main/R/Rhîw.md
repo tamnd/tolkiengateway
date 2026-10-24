@@ -16,7 +16,7 @@ sort_keys:
   "Sindarin nouns": "Rhiw"
 ---
 
-**Rhîw** là tên [Sindarin](../S/Sindarin.md) của mùa đông và được gọi là [Hrívë](../H/Hrívë.md) trong [Quenya](../Q/Quenya.md). Trong [Tính toán của Rivendell](Reckoning_of_Rivendell.md) nó là mùa thứ năm trong sáu "mùa" và ít nhiều tương ứng với 72 ngày từ [ngày 1 tháng 12](../_/1_December.md) đến [ngày 10 tháng 2](../_/10_February.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Rhîw** là tên [Sindarin](../S/Sindarin.md) của mùa đông và được gọi là [Hrívë](../H/Hrívë.md) ở [Quenya](../Q/Quenya.md). Trong [Tính toán Rivendell](Reckoning_of_Rivendell.md), đây là mùa thứ năm trong sáu "mùa" và ít nhiều tương ứng với 72 ngày từ [ngày 1 tháng 12](../_/1_December.md) đến [ngày 10 tháng 2](../_/10_February.md) trong [Lịch Quận](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

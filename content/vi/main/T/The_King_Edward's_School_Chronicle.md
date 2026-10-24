@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "King Edward's School Chronicle"
 ---
 
-Chuyển hướng đến [King Edward's School Biên niên sử](../K/King_Edward's_School_Chronicle.md).
+Chuyển hướng đến [Biên niên sử trường học của Vua Edward](../K/King_Edward's_School_Chronicle.md).

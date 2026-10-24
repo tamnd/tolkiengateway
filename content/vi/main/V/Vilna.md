@@ -11,4 +11,4 @@ redirect_target: "Vista"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Chuyển hướng đến [Vista](Vista.md#Other_versions_of_the_legendarium).
+Chuyển hướng tới [Vista](Vista.md#Other_versions_of_the_legendarium).

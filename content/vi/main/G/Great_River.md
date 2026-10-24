@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anduin"
 ---
 
-Chuyển hướng đến [Anduin](../A/Anduin.md).
+Chuyển hướng tới [Anduin](../A/Anduin.md).

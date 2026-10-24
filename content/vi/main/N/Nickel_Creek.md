@@ -12,7 +12,7 @@ categories:
   - "Bands"
 ---
 
-**Nickel Creek** là bộ ba acoustic bluegrass người Mỹ, được thành lập vào năm 1989 tại California và tan rã vào năm 2007. Họ đã thu âm bài hát *House of Tom Bombadil* lấy cảm hứng từ [Tom Bombadil](../T/Tom_Bombadil.md), xuất hiện trong album thứ ba của họ, có tên là Nickel Creek.
+**Nickel Creek** là bộ ba acoustic bluegrass người Mỹ, được thành lập vào năm 1989 tại California và tan rã vào năm 2007. Họ đã thu âm bài hát *House of Tom Bombadil* lấy cảm hứng từ [Tom Bombadil](../T/Tom_Bombadil.md), xuất hiện trong album thứ ba của họ, mang tên Nickel Creek.
 
 ## Liên kết ngoài {#External_links}
 

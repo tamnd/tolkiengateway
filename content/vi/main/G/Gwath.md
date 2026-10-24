@@ -13,9 +13,9 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>gwath</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "bóng râm", "bóng tối" hoặc "ánh sáng mờ".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-VT42_2-0" class="reference"><a href="#cite_note-VT42-2">[2]</a></sup>
+<i><b>gwath</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "bóng râm", "bóng tối" hoặc "ánh sáng mờ".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-VT42_2-0" class="reference"><a href="#cite_note-VT42-2">[2]</a></sup>
 
-Trong *[The Etymologies](../T/The_Etymologies.md)* từ này được gắn nhãn là [Noldorin](../N/Noldorin.md)và được đánh bóng là "vết bẩn", kết hợp với khái niệm "bóng râm".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong *[The Etymologies](../T/The_Etymologies.md)* từ này được gắn nhãn là [Noldorin](../N/Noldorin.md) và được gọi là "vết bẩn", kết hợp với khái niệm "bóng râm".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -24,15 +24,15 @@ Trong *[The Etymologies](../T/The_Etymologies.md)* từ này được gắn nhã
 ## Ví dụ {#Examples}
 
 - <i><a class="mw-redirect" href="../D/Deldúwath.md" title="Deldúwath">Deldú<b>wath</b></a></i> = "Bóng tối chết người"
-- <i><a href="../E/Ered_Wethrin.md" title="Ered Wethrin">Ered <b>Weth</b>rin</a></i> = "Dãy Núi Bóng Tối"
-- <i><a href="Gwathló.md" title="Gwathló"><b>Gwath</b>ló</a></i> = "Greyflood"
-- <i><a href="../T/Thuringwethil.md" title="Thuringwethil">Thurin<b>gweth</b>il</a></i> = "Người phụ nữ bí mật Bóng Tối"
+- <i><a href="../E/Ered_Wethrin.md" title="Ered Wethrin">Ered <b>Weth</b>rin</a></i> = "Những ngọn núi bóng tối"
+- <i><a href="Gwathló.md" title="Gwathló"><b>Gwath</b>ló</a></i> = "Gwath"
+- <i><a href="../T/Thuringwethil.md" title="Thuringwethil">Thurin<b>gweth</b>il</a></i> = "Người phụ nữ của bóng tối bí mật"
 
 - ([Noldorin](../N/Noldorin.md)) <i><a class="mw-redirect" href="../A/Agarwaen.md" title="Agarwaen">Iar<b>wath</b></a></i> = *iar* + *gwath* ("Vết máu")<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Sindarin](../S/Sindarin.md) *[auth](../A/Auth.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[auth](../A/Auth.md)*
 - [Quenya](../Q/Quenya.md) *[ausa](../A/Ausa.md)*
 
 <span></span>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien On Fairy-stories"
 ---
 
-Chuyển hướng đến [Tolkien Về truyện cổ tích](../T/Tolkien_On_Fairy-stories~23734.md).
+Chuyển hướng đến [Tolkien về truyện cổ tích](../T/Tolkien_On_Fairy-stories~23734.md).

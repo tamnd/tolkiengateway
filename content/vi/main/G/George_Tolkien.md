@@ -36,13 +36,13 @@ George được biết là đã làm việc vào năm 1799 với tư cách là n
 Số lượng và tên các con của George và Eliza Lydia khác nhau tùy theo các tài liệu khác nhau. Đây là danh sách được cung cấp bởi người dùng galadhorn ở Tolknięty:<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 - [George William Tolkien](George_William_Tolkien.md), 1805 - 1877
-- [John Benjamin Tolkien](../J/John_Benjamin_Tolkien.md), 1807 - 1896 ([cha của Tolkien](../A/Arthur_Tolkien.md) Arthur)
+- [John Benjamin Tolkien](../J/John_Benjamin_Tolkien.md), 1807 - 1896 ([cha của Arthur Tolkien](../A/Arthur_Tolkien.md))
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Eliza_Tolkien&amp;action=edit&amp;redlink=1" title="Eliza Tolkien (page does not exist)">Eliza Tolkien</a>, 1808 - 1829
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=William_Tolkien&amp;action=edit&amp;redlink=1" title="William Tolkien (page does not exist)">William Murrell Tolkien</a>, 1810 - 1882
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mary_Tolkien&amp;action=edit&amp;redlink=1" title="Mary Tolkien (page does not exist)">Mary Ann Tolkien</a>, 1811 - 1864
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Henry_Tolkien&amp;action=edit&amp;redlink=1" title="Henry Tolkien (page does not exist)">Henry Tolkien</a>, 1814 - 1885
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Rosina_Tolkien&amp;action=edit&amp;redlink=1" title="Rosina Tolkien (page does not exist)">Rosina Susanna Tolkien</a>, 1819 - 1900
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Edward_Tolkien&amp;action=edit&amp;redlink=1" title="Edward Tolkien (page does not exist)">Eward Tolkien</a>, 1825 - 1911
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Edward_Tolkien&amp;action=edit&amp;redlink=1" title="Edward Tolkien (page does not exist)">Edward Tolkien</a>, 1825 - 1911
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ellen_Tolkien&amp;action=edit&amp;redlink=1" title="Ellen Tolkien (page does not exist)">Ellen Martha Tolkien</a>, 1825 - 1848
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Septimus_Tolkien&amp;action=edit&amp;redlink=1" title="Septimus Tolkien (page does not exist)">Septimus Tolkien</a>, 1826 - 1912
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Alfred_Tolkien&amp;action=edit&amp;redlink=1" title="Alfred Tolkien (page does not exist)">Alfred John Tolkien</a>, 1834 - 1867

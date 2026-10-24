@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of Tuor and the Fall of Gondolin"
 ---
 
-Chuyển hướng đến [Của Tuor và Sự sụp đổ của Gondolin](Of_Tuor_and_the_Fall_of_Gondolin.md).
+Chuyển hướng tới [Của Tuor và sự sụp đổ của Gondolin](Of_Tuor_and_the_Fall_of_Gondolin.md).

@@ -32,7 +32,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien&#39;s_Theology_of_Beauty.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3a/Tolkien%27s_Theology_of_Beauty.jpg/320px-Tolkien%27s_Theology_of_Beauty.jpg" decoding="async" loading="lazy" width="320" height="452" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3a/Tolkien%27s_Theology_of_Beauty.jpg/480px-Tolkien%27s_Theology_of_Beauty.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3a/Tolkien%27s_Theology_of_Beauty.jpg/640px-Tolkien%27s_Theology_of_Beauty.jpg 2x" data-file-width="849" data-file-height="1200"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien&#39;s Theology of Beauty:<br/><small>Majesty, Splendor and Transcendence in Middle-earth</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Lisa Coutras</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Palgrave Macmillan</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2016.md" title="2016">2016</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">xvii, 279</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/9781137553447" title="Special:BookSources/9781137553447">9781137553447</a></td></tr></tbody></table>
 
-Thần học về vẻ đẹp của <i><b>Tolkien: Sự uy nghiêm, huy hoàng và siêu việt trong Trung Địa</b></i> là cuốn sách của Lisa Coutras.
+<i><b>Thần học về vẻ đẹp của Tolkien: Sự uy nghi, huy hoàng và siêu việt ở Trung địa</b></i> là cuốn sách của Lisa Coutras.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -74,7 +74,7 @@ In this book, Lisa Coutras explores the structure and complexity of <a href="../
 
 <dl><dd><dl><dt>Part VI. On Women</dt></dl></dd></dl>
 
-- 13\. Tolkien và phê phán nữ quyền
+- 13\. Tolkien và phê bình nữ quyền
 - 14\. Nữ tính siêu việt
 - 15\. Sự từ bỏ quyền lực
 

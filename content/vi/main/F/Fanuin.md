@@ -14,7 +14,7 @@ categories:
   - "Gnomish names"
 ---
 
-**Fanuin** là một [Ainu](../A/Ainur.md) đại diện cho Năm, người đã đến thăm Valinor cùng với các anh trai của mình. Anh ấy đã tạo ra cho [Manwë](../M/Manwë.md) một sợi dây vô hình buộc cả Mặt Trời và Mặt Trăng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Fanuin** là một [Ainu](../A/Ainur.md) đại diện cho Năm, người đã đến thăm Valinor cùng với những người anh em của mình. Ông đã tạo ra cho [Manwë](../M/Manwë.md) một sợi dây vô hình ràng buộc cả Mặt trời và Mặt trăng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

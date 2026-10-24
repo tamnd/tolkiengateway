@@ -78,7 +78,7 @@ infobox:
     - Bởi: Tom Loback
 - Thời trang của [Minas Tirith](../M/Minas_Tirith.md)
     - Bởi: Jeff Stevenson
-- Sự học hỏi của Debi
+- Việc học của Debi
     - Bởi: Debi Haigh-Hutchinson
 - Thư pháp và tác phẩm nghệ thuật bổ sung
     - Bởi: Kirsty Beck, Bryan Glenet, Tracey Taylor, Walter Clarke, Geraint Rees, Simon Jacobs, Susanne Stopfel, David Warren, James Hadley & Neil Loughran

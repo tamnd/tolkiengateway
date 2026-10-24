@@ -21,17 +21,17 @@ images:
 
 **Tom** có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-**Tom** là tên thông dụng của [Hobbit](../H/Hobbits.md), thường là tên viết tắt của [Westron](../W/Westron.md) **Tombûran**, **Tomacca**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> **Tomba** hoặc **Tolma**<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> (tất cả đều không rõ nghĩa). Nó có thể đề cập đến các ký tự sau:
+**Tom** là tên chung của [Hobbit](../H/Hobbits.md), thường là tên viết tắt của [Westron](../W/Westron.md) **Tombûran**, **Tomacca**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> **Tomba** hoặc **Tolma**<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> (tất cả đều không rõ nghĩa). Nó có thể đề cập đến các ký tự sau:
 
 - <b><a class="mw-redirect mw-disambig" href="Tom.md" title="Tom">Tom</a>, một kẻ troll trong <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>;</b>
-- **[Tom Bombadil](Tom_Bombadil.md), một nhân vật bí ẩn sống ở [Khu Rừng Cổ](../O/Old_Forest.md);**
+- **[Tom Bombadil](Tom_Bombadil.md), một nhân vật bí ẩn sống trong [Khu rừng già](../O/Old_Forest.md);**
 - [Tom Bombadil (chương)](<Tom_Bombadil_(chapter).md>), chương thứ sáu trong *[The Return of the Shadow](The_Return_of_the_Shadow.md)*.
-- [Tolman "Tom" Cotton Senior](Tolman_Cotton_Senior.md) ([S.R.](../S/Shire_Reckoning.md) [1341](Third_Age_2941.md) - [S.R.](../S/Shire_Reckoning.md) [1440](../F/Fourth_Age_19.md)), còn được gọi là Nông dân Bông, cha đẻ của [Rose Cotton](../R/Rose_Cotton.md);
+- [Tolman "Tom" Cotton Senior](Tolman_Cotton_Senior.md) ([S.R.](../S/Shire_Reckoning.md) [1341](Third_Age_2941.md) - [S.R.](../S/Shire_Reckoning.md) [1440](../F/Fourth_Age_19.md)), còn được gọi là Nông dân Cotton, cha đẻ của [Rose Cotton](../R/Rose_Cotton.md);
 - [Tolman "Tom" Cotton Junior](Tolman_Cotton_Junior.md) (sinh [S.R.](../S/Shire_Reckoning.md) [1380](Third_Age_2980.md)), con trai cả của Tom Cotton Senior;
 - [Tolman "Tom" Gardner](Tolman_Gardner.md) (sinh [S.R.](../S/Shire_Reckoning.md) [1442](../F/Fourth_Age_21.md)), con trai út của [Samwise Gamgee](../S/Samwise_Gamgee.md) và [Rose Cotton](../R/Rose_Cotton.md);
-- [Tom](<Tom_(The_Stone_Troll).md>), nhân vật chính trong Sam bài thơ "[Con quỷ đá](The_Stone_Troll.md)" của Gamgee;
+- [Tom](<Tom_(The_Stone_Troll).md>), nhân vật chính trong bài thơ "[Con quỷ đá](The_Stone_Troll.md)" của Sam Gamgee;
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tomnoddy&amp;action=edit&amp;redlink=1" title="Tomnoddy (page does not exist)">Tomnoddy</a>, tên dùng cho một con nhện ở *[The Hobbit](The_Hobbit.md)*.
 
 ## Wootton Thiếu tá {#Wootton_Major}
@@ -40,7 +40,7 @@ images:
 
 ## Các bản chuyển thể {#Adaptations}
 
-- [Tolman Gardner](../L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Tolman_Gardner), huấn luyện viên hát rong trong Bree-land Phần giới thiệu từ *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*.
+- [Tolman Gardner](../L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Tolman_Gardner), huấn luyện viên hát rong trong phần Giới thiệu Bree-land từ *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*.
 
 ## Thế giới thực {#Real-world}
 
@@ -55,11 +55,11 @@ images:
 - [Tom Loback](Tom_Loback.md), nghệ sĩ, tác giả và nhà ngôn ngữ học;
 - [Thomas Meleteas](https://tolkiengateway.net/wiki/User:Mthomas), nghệ sĩ;
 - [Thomas Morwinsky](Thomas_Morwinsky.md), [MERP](../M/Middle-earth_Role_Playing.md)-nhà văn và người vẽ bản đồ;
-- [Thomas Robins](Thomas_Robins.md), diễn viên đóng [Déagol](../D/Déagol.md) trong *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*;
+- [Thomas Robins](Thomas_Robins.md), diễn viên đóng vai [Déagol](../D/Déagol.md) trong *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*;
 - [Thomas Rouillard](Thomas_Rouillard.md), nghệ sĩ;
 - [Taum Santoski](Taum_Santoski.md), tác giả và nhà ngôn ngữ học;
 - [Tom Sherry](Tom_Sherry.md), nghệ sĩ;
-- [Tom Shippey](Tom_Shippey.md), tác giả nổi bật, tác phẩm nổi tiếng nhất là *[J.R.R. Tolkien: Author of the Century](../J/J.R.R._Tolkien%253A_Author_of_the_Century.md)* và *[The Road to Middle-earth](The_Road_to_Middle-earth.md)*;
+- [Tom Shippey](Tom_Shippey.md), tác giả nổi tiếng, tác phẩm nổi tiếng nhất là *[J.R.R. Tolkien: Author of the Century](../J/J.R.R._Tolkien%253A_Author_of_the_Century.md)* và *[The Road to Middle-earth](The_Road_to_Middle-earth.md)*;
 - [Chance Thomas](../C/Chance_Thomas.md), nhà soạn nhạc cho nhiều trò chơi điện tử.
 
 <span></span>

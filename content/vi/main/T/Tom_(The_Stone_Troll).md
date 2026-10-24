@@ -14,7 +14,7 @@ categories:
   - "Characters of unknown race"
 ---
 
-**Tom** là nhân vật chỉ được nhắc đến trong một đoạn thơ do [Sam Gamgee](../S/Samwise_Gamgee.md) sáng tác. Trong bài thơ, Tom gặp một con [troll](../S/Stone-trolls.md) già, suốt nhiều năm gặm nhấm xương ống chân của [Tim](Tim.md), [chú](../U/Unusual_words.md) của hắn, và Tom yêu cầu thả nó xuống.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Rất có thể, Tim chỉ là một phát minh của nhà thơ.<sup id="cite_ref-RF_3-0" class="reference"><a href="#cite_note-RF-3">[3]</a></sup>
+**Tom** là nhân vật chỉ được nhắc đến trong một câu thơ do [Sam Gamgee](../S/Samwise_Gamgee.md) sáng tác. Trong bài thơ, Tom gặp một con [troll](../S/Stone-trolls.md) già, suốt nhiều năm gặm nhấm xương ống chân của [Tim](Tim.md), [chú](../U/Unusual_words.md) của hắn, và Tom yêu cầu thả nó xuống.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Rất có thể, Tim chỉ là một phát minh của nhà thơ.<sup id="cite_ref-RF_3-0" class="reference"><a href="#cite_note-RF-3">[3]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -25,9 +25,9 @@ categories:
 <tr align="center"><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><b>TOM</b></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td></tr><tr align="center"></tr>
 </tbody></table></div>
 
-[Pauline Baynes](../P/Pauline_Baynes.md) người minh họa *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)*, miêu tả Tom, người đã đá con troll bằng *boots*của mình, là [Tom Bombadil](Tom_Bombadil.md); mặc dù cái tên này có lẽ là chung chung nhất và không có bằng chứng nào cho thấy tác giả dự định Tom trở thành Bombadil, vì việc có chú và cha sẽ là điều vô lý.
+[Pauline Baynes](../P/Pauline_Baynes.md) người minh họa *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)*, miêu tả Tom, người đã đá con troll bằng *boots* của mình, là [Tom Bombadil](Tom_Bombadil.md); mặc dù cái tên này có lẽ là chung chung nhất và không có bằng chứng nào cho thấy tác giả dự định Tom trở thành Bombadil, vì việc có chú và cha sẽ là điều vô lý.
 
-[Robert Foster](../R/Robert_Foster.md) xem xét khả năng Tom bằng cách nào đó đã được mô phỏng theo Bombadil, vì Sam đã sáng tác bài thơ ngay sau cuộc gặp của họ.<sup id="cite_ref-RF_3-1" class="reference"><a href="#cite_note-RF-3">[3]</a></sup>
+[Robert Foster](../R/Robert_Foster.md) cân nhắc khả năng Tom bằng cách nào đó đã được mô phỏng theo Bombadil, vì Sam đã sáng tác bài thơ ngay sau cuộc gặp của họ.<sup id="cite_ref-RF_3-1" class="reference"><a href="#cite_note-RF-3">[3]</a></sup>
 
 <span></span>
 

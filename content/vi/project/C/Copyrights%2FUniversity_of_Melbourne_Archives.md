@@ -14,7 +14,7 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "University of Melbourne Archives"
 ---
 
-- Người giữ bản quyền Cơ quan lưu trữ Đại học Melbourne cấp phép sử dụng [G.H. Cowling.png](../../file/G/G.H._Cowling.png.md) trên Tolkien Gateway.
+- Người giữ bản quyền được Cơ quan lưu trữ Đại học Melbourne cấp phép sử dụng [G.H. Cowling.png](../../file/G/G.H._Cowling.png.md) trên Tolkien Gateway.
 - Ngày: 5 tháng 12 năm 2011
 - Người dùng đã xin phép: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan)
 - Lưu ý: Liên hệ với Cơ quan Lưu trữ Đại học Melbourne hoặc [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan) để hỏi về chi tiết của biểu mẫu Giấy phép Xuất bản.

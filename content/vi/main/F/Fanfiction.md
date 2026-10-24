@@ -17,15 +17,15 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Fan-Fiction"
 ---
 
-**Fanfiction** hoặc **fanfiction**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (viết tắt **fanfic**) là một thuật ngữ mô tả các tác phẩm sử dụng các nhân vật và bối cảnh từ tác phẩm gốc của một tác giả khác, được tạo bởi những người hâm mộ tác phẩm đó. [huyền thoại](../L/Legendarium.md) của Tolkien là một trong những cơ sở phổ biến hơn cho tiểu thuyết của người hâm mộ,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> thường được xuất bản trên internet.
+**Fanfiction** hoặc **fanfiction**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (viết tắt **fanfic**) là thuật ngữ mô tả các tác phẩm sử dụng các nhân vật và bối cảnh từ tác phẩm gốc của một tác giả khác, được tạo bởi những người hâm mộ tác phẩm đó. [huyền thoại](../L/Legendarium.md) của Tolkien là một trong những cơ sở phổ biến hơn cho tiểu thuyết dành cho người hâm mộ,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> thường được xuất bản trên internet.
 
-Theo [Sumner Gary Hunnewell](../S/Sumner_Gary_Hunnewell.md), tiểu thuyết dành cho người hâm mộ được xuất bản lâu đời nhất là bài thơ "The Passing of the Tiên-kind" của Ted Johnstone, xuất hiện trong fanzine giả tưởng *All Mimsy*, số 5 (Tháng 11 [1959](../_/1959.md)).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Theo [Sumner Gary Hunnewell](../S/Sumner_Gary_Hunnewell.md), tiểu thuyết dành cho người hâm mộ được xuất bản lâu đời nhất là bài thơ "The Passing of the Elven-kind" của Ted Johnstone, xuất hiện trong fanzine giả tưởng *All Mimsy*, số 5 (Tháng 11 [1959](../_/1959.md)).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-## Tính hợp pháp của Tolkien tiểu thuyết do người hâm mộ {#Legality_of_Tolkien_fan_fiction}
+## Tính hợp pháp của tiểu thuyết dành cho người hâm mộ Tolkien {#Legality_of_Tolkien_fan_fiction}
 
 Hầu hết luật bản quyền quốc gia đều thừa nhận khái niệm *derivative works*, nghĩa là các tác phẩm kết hợp các yếu tố từ tác phẩm có bản quyền trước đó và trao cho người giữ bản quyền của bản gốc quyền kiểm soát việc phân phối các sản phẩm phái sinh. tiểu thuyết của người hâm mộ thường được cho là cấu thành một tác phẩm phái sinh bởi vì, trong khi các ý tưởng *per se* không có bản quyền, các nhân vật và khái niệm cụ thể được coi là tài sản trí tuệ (như nhãn hiệu chưa đăng ký) và các tác phẩm phái sinh không được bảo vệ bởi *fair use* miễn trừ vì chúng không mang tính nhại lại hoặc chỉ trích.<sup id="cite_ref-ChillingEffects_4-0" class="reference"><a href="#cite_note-ChillingEffects-4">[4]</a></sup><sup id="cite_ref-ChillingEffectsFAQ_5-0" class="reference"><a href="#cite_note-ChillingEffectsFAQ-5">[5]</a></sup> Do đó, việc tiểu thuyết của người hâm mộ có được 'cho phép' hay không là tùy theo quyết định của từng tác giả: rất ít tác giả sẽ cho phép tác phẩm phái sinh của người hâm mộ được xuất bản trên cơ sở thương mại, nhưng sự tồn tại của tiểu thuyết dành cho người hâm mộ phi thương mại trên internet, nói chung, được chấp nhận, nếu không có gì khác do không hành động. Điều đó nói lên rằng, chúng tồn tại trong tình trạng bấp bênh về mặt pháp lý và một số tác giả (chẳng hạn như Anne Rice) đã chọn cách tích cực ngăn chặn việc phân phối tiểu thuyết của người hâm mộ dựa trên tác phẩm của họ.<sup id="cite_ref-Guardian_6-0" class="reference"><a href="#cite_note-Guardian-6">[6]</a></sup>
 
-Trong <a class="external text" href="https://www.tolkienestate.com/frequently-asked-questions-and-links/" rel="noreferrer noopener" target="_blank">mục Câu hỏi thường gặp trên trang web của họ</a>, [Tolkien Estate](../T/Tolkien_Estate.md) không khuyến khích người hâm mộ tiểu thuyết dựa trên các tác phẩm của Tolkien:
+Trong <a class="external text" href="https://www.tolkienestate.com/frequently-asked-questions-and-links/" rel="noreferrer noopener" target="_blank">mục Câu hỏi thường gặp trên trang web của họ</a> [Tolkien Estate](../T/Tolkien_Estate.md) không khuyến khích người hâm mộ hư cấu dựa trên các tác phẩm của Tolkien:
 
 <blockquote class="tg-quote noexcerpt">
 <p><b>Can I / someone else write / complete / develop my / their own version of one of these unfinished tales ? (or any others)</b><br/>
@@ -36,28 +36,28 @@ The Estate exists to defend the integrity of J.R.R. Tolkien’s writings. Christ
 </p>
 </blockquote>
 
-Và trước đây họ đã thực hiện thành công hành động pháp lý chống lại các tác phẩm phái sinh thương mại vi phạm nhãn hiệu của Tolkien, ví dụ: trong trường hợp một nghệ sĩ giải trí dành cho trẻ em hoạt động dưới cái tên "Gandalf the Pháp sư Clown".<sup id="cite_ref-ChillingEffectsFAQ_5-1" class="reference"><a href="#cite_note-ChillingEffectsFAQ-5">[5]</a></sup> Nhưng Estate vẫn chưa tìm cách ngăn chặn việc phân phối tiểu thuyết dành cho người hâm mộ phi thương mại.
+Và trong quá khứ, họ đã thực hiện thành công hành động pháp lý chống lại các tác phẩm phái sinh thương mại vi phạm nhãn hiệu của Tolkien, ví dụ: trong trường hợp một nghệ sĩ giải trí dành cho trẻ em hoạt động dưới cái tên "Gandalf the Wizard Clown".<sup id="cite_ref-ChillingEffectsFAQ_5-1" class="reference"><a href="#cite_note-ChillingEffectsFAQ-5">[5]</a></sup> Nhưng cho đến nay Estate vẫn chưa tìm cách ngăn chặn việc phân phối tiểu thuyết dành cho người hâm mộ phi thương mại.
 
-Bản thân Tolkien đã nhận được ít nhất hai yêu cầu cho phép xuất bản hai phần tiếp theo do người hâm mộ viết cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, cả hai đều được anh ấy (có phần phẫn nộ) từ chối.<sup id="cite_ref-Letter292_7-0" class="reference"><a href="#cite_note-Letter292-7">[7]</a></sup> Anh ấy cũng, trong một số trường hợp, bày tỏ quan điểm rằng những cái tên và từ ngữ bịa đặt cũng cần được bảo vệ mạnh mẽ theo luật bản quyền như toàn bộ tác phẩm hư cấu, trên cơ sở rằng anh ấy đã đặt rất nhiều nỗ lực vào việc tạo ra chúng.<sup id="cite_ref-Letter292_7-1" class="reference"><a href="#cite_note-Letter292-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Bản thân Tolkien đã nhận được ít nhất hai yêu cầu cho phép xuất bản hai phần tiếp theo do người hâm mộ viết cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, cả hai đều được ông (có phần phẫn nộ) từ chối.<sup id="cite_ref-Letter292_7-0" class="reference"><a href="#cite_note-Letter292-7">[7]</a></sup> Ông cũng, trong một số trường hợp, bày tỏ quan điểm rằng những cái tên và từ ngữ bịa đặt cũng cần được bảo vệ mạnh mẽ theo luật bản quyền như toàn bộ tác phẩm hư cấu, trên cơ sở ông đã đặt rất nhiều nỗ lực vào việc sáng tạo chúng.<sup id="cite_ref-Letter292_7-1" class="reference"><a href="#cite_note-Letter292-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 ## Xem thêm {#See_also}
 
 - [Thể loại:Truyện fanfic](../../category/F/Fanfictions.md)
 - [Quạt](Fanon.md)
-- [Tân-Elvish](../N/Neo-Elvish.md)
+- [Tân Tiên](../N/Neo-Elvish.md)
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.fanfiction.net/book/Lord_of_the_Rings/" rel="noreferrer noopener" target="_blank">FanFiction.net - Chúa tể của những chiếc nhẫn</a>
 - <a class="external text" href="http://www.fanfiction.net/book/Silmarillion/" rel="noreferrer noopener" target="_blank">FanFiction.net - Silmarillion</a>
-- <a class="external text" href="http://archiveofourown.org/collections/hasa" rel="noreferrer noopener" target="_blank">Henneth Annûn Lưu trữ câu chuyện</a>
+- <a class="external text" href="http://archiveofourown.org/collections/hasa" rel="noreferrer noopener" target="_blank">Kho lưu trữ truyện của Henneth Annûn</a>
 - <a class="external text" href="http://www.storiesofarda.com/" rel="noreferrer noopener" target="_blank">Những câu chuyện về Arda</a>
-- <a class="external text" href="http://www.silmarillionwritersguild.org/" rel="noreferrer noopener" target="_blank">The Silmarillion Hội Nhà Văn</a>
-- <a class="external text" href="http://forum.barrowdowns.com/forumdisplay.php?f=47" rel="noreferrer noopener" target="_blank">The Barrow-Downs: Trung Địa tiểu thuyết của người hâm mộ</a>
+- <a class="external text" href="http://www.silmarillionwritersguild.org/" rel="noreferrer noopener" target="_blank">Hội Nhà văn Silmarillion</a>
+- <a class="external text" href="http://forum.barrowdowns.com/forumdisplay.php?f=47" rel="noreferrer noopener" target="_blank">The Barrow-Downs: Tiểu thuyết của người hâm mộ Trung Địa</a>
 
 ### Thảo luận về bản quyền {#Copyright_discussion}
 
-- [Helge Fauskanger](../H/Helge_Fauskanger.md) <a class="external text" href="http://folk.uib.no/hnohf/intro.rtf" rel="noreferrer noopener" target="_blank">Giới thiệu</a> về <a class="external text" href="http://folk.uib.no/hnohf/qcourse.htm" rel="noreferrer noopener" target="_blank">Khóa học Quenya</a> của anh ấy - Bao gồm phần "Câu hỏi về bản quyền" với một số ý kiến ​​về việc liệu việc sử dụng tên và từ [Elvish](../E/Elvish.md) có vi phạm bản quyền hay không.
+- [Helge Fauskanger](../H/Helge_Fauskanger.md) <a class="external text" href="http://folk.uib.no/hnohf/intro.rtf" rel="noreferrer noopener" target="_blank">Giới thiệu</a> về <a class="external text" href="http://folk.uib.no/hnohf/qcourse.htm" rel="noreferrer noopener" target="_blank">Khóa học Quenya</a> của ông - Bao gồm phần "Câu hỏi về bản quyền" với một số ý kiến ​​về việc liệu việc sử dụng tên và từ [Elvish](../E/Elvish.md) có vi phạm bản quyền hay không.
 
 <span></span>
 

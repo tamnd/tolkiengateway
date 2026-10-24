@@ -13,20 +13,20 @@ categories:
   - "Dutch locations"
 ---
 
-**Geldrop** là một thị trấn của Hà Lan ở tỉnh <a class="extiw" href="http://en.wikipedia.org/wiki/North_Brabant" title="wikipedia:North Brabant">Bắc Brabant</a> với khu phố Genoenhuis, có tên đường [Tolkien](../J/J.R.R._Tolkien.md) liên quan đến nhau. Khu vực lân cận còn có một trường học tên là De Hobbit ([The Hobbit](../T/The_Hobbit.md)), một cơ sở hỗ trợ sinh hoạt tên là [Meriadoc](../M/Meriadoc_Brandybuck.md), một sân chơi tên là Sam Gewissies ([Sam Gamgee](../S/Samwise_Gamgee.md)) và một số cơ sở kinh doanh khác được đặt tên theo Tolkien các nhân vật.
+**Geldrop** là một thị trấn của Hà Lan ở tỉnh <a class="extiw" href="http://en.wikipedia.org/wiki/North_Brabant" title="wikipedia:North Brabant">Bắc Brabant</a> với khu phố Genoenhuis, có tên đường phố liên quan đến [Tolkien](../J/J.R.R._Tolkien.md). Khu vực lân cận còn có một trường học tên là De Hobbit ([The Hobbit](../T/The_Hobbit.md)), một cơ sở trợ giúp sinh hoạt tên là [Meriadoc](../M/Meriadoc_Brandybuck.md), một sân chơi tên là Sam Gewissies ([Sam Gamgee](../S/Samwise_Gamgee.md)) và một số cơ sở kinh doanh khác được đặt tên theo các nhân vật Tolkien.
 
 ## Phố {#Streets}
 
-- Đường chính: Laan Vân Tolkien (Đại lộTolkien)
+- Đường chính: Laan Van Tolkien (Đại lộ Tolkien)
 - [Amroth](../A/Amroth.md)
 - [Anarion](../A/Anárion.md)
-- [Aragorn](../A/Aragorn.md)
+- [Aragor](../A/Aragorn.md)
 - [Arwen](../A/Arwen.md)
 - [Balin](../B/Balin.md)
 - [Bifur](../B/Bifur.md)
 - [Bofur](../B/Bofur.md)
 - [Bombadil](../T/Tom_Bombadil.md)
-- [Bombur](../B/Bombur.md)
+- [Quả bom](../B/Bombur.md)
 - [Boromir](../B/Boromir.md)
 - [Celeborn](../C/Celeborn.md)
 - [Cirion](../C/Cirion.md)
@@ -38,7 +38,7 @@ categories:
 - [Elros](../E/Elros.md)
 - [Eomer](../_/Éomer.md)
 - [Erebor](../L/Lonely_Mountain.md)
-- <a class="mw-disambig" href="../F/Fangorn_(disambiguation).md" title="Fangorn (disambiguation)">Fangorn</a>
+- <a class="mw-disambig" href="../F/Fangorn_(disambiguation).md" title="Fangorn (disambiguation)">Fangor</a>
 - [Faramir](../F/Faramir.md)
 - [Farin](../F/Farin.md)
 - [Fili](../F/Fíli.md)
@@ -66,8 +66,8 @@ categories:
 
 - [Elenor](../E/Elanor_Gardner.md)
 - [Dwalin](../D/Dwalin.md)
-- Trọng Groene ([Greenway](Greenway.md))
-- Haradpad ([Harad Đường](../H/Harad_Road.md))
+- Groene Weg ([Đường xanh](Greenway.md))
+- Haradpad ([Đường Harad](../H/Harad_Road.md))
 - [Isildur](../I/Isildur.md)
 - [Lorien](../L/Lothlórien.md)
 - Sam Gewissies ([Sam Gamgee](../S/Samwise_Gamgee.md))

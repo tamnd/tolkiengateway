@@ -61,7 +61,7 @@ images:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 21 tháng Chín.
+Sự kiện xảy ra vào ngày 21 tháng 9
 
 ## Trên Trái đất {#On_Earth}
 
@@ -71,8 +71,8 @@ Sự kiện xảy ra vào ngày 21 tháng Chín.
 - **[1937](1937.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ký các bản sao của *[The Hobbit](../T/The_Hobbit.md)* và gửi chúng đến [E.V. Gordon](../E/E.V._Gordon.md), [Elaine Griffiths](../E/Elaine_Griffiths.md), Helen Buckhurst, [Stella Mills](../S/Stella_Mills.md), [Hilary Tolkien](../H/Hilary_Tolkien.md), [C.S. Lewis](../C/C.S._Lewis.md) và [Katherine Kilbride](../K/Katherine_Kilbride.md).
 - **[1947](1947.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 111](../L/Letter_111.md).
 - **[1965](1965.md)** – Diễn viên [David Wenham](../D/David_Wenham.md) ra đời.
-- **[1986](1986.md)** – [Oxonmoot 1986](../O/Oxonmoot_1986.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
-- **[1990](1990.md)** – [Oxonmoot 1990](../O/Oxonmoot_1990.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
+- **[1986](1986.md)** – [Oxonmoot 1986](../O/Oxonmoot_1986.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
+- **[1990](1990.md)** – [Oxonmoot 1990](../O/Oxonmoot_1990.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
 - **[1991](1991.md)** – [Oxonmoot 1991](../O/Oxonmoot_1991.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_College,_Oxford" title="wikipedia:University College, Oxford">Đại học Cao đẳng</a>.
 - **[1996](1996.md)** – [Oxonmoot 1996](../O/Oxonmoot_1996.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_College,_Oxford" title="wikipedia:University College, Oxford">Đại học Cao đẳng</a>.
 - **[1997](1997.md)** – [Oxonmoot 1997](../O/Oxonmoot_1997.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College</a>.
@@ -91,8 +91,8 @@ Sự kiện xảy ra vào ngày 21 tháng Chín.
 - [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md):
     - Thời tiết nhiều mây ở [Hobbiton](../H/Hobbiton.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) gặp [Shadowfax](../S/Shadowfax.md) nhưng con ngựa không cho anh ta đến gần. Anh ta đi theo Shadowfax đến tận cánh đồng.
-    - [Frodo](../F/Frodo_Baggins.md) bắt đầu thực sự lo lắng về sự vắng mặt của Gandalf và thường xuyên theo dõi anh ta.
+    - [Gandalf](../G/Gandalf.md) gặp [Shadowfax](../S/Shadowfax.md) nhưng con ngựa không cho ông ta đến gần. Ông ta đi theo Shadowfax đến tận cánh đồng.
+    - [Frodo](../F/Frodo_Baggins.md) bắt đầu thực sự lo lắng về sự vắng mặt của Gandalf và thường xuyên theo dõi ông ta.
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - [Gandalf](../G/Gandalf.md) và [người Hobbit](../T/Travellers.md) đến [Rivendell](../R/Rivendell.md).<sup id="cite_ref-chief_2-0" class="reference"><a href="#cite_note-chief-2">[2]</a></sup>

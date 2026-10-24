@@ -12,7 +12,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-Kể từ năm 2023, nụ cười này của Hiệp hội [Tolkien Ý](../T/Tolkien_Societies~67099.md) dường như không còn tồn tại vì trang web chỉ hiển thị một cây Gondor và trích dẫn từ The Lord of the Rings.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Kể từ năm 2023, biểu tượng này của [Hiệp hội Tolkien](../T/Tolkien_Societies~67099.md) của Ý dường như không còn tồn tại vì trang web chỉ hiển thị một cây Gondor và trích dẫn từ Chúa tể của những chiếc nhẫn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Tài liệu tham khảo {#References}
 

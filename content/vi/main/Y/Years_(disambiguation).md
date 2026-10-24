@@ -22,17 +22,17 @@ images:
 
 - **[Thể loại:Năm](../../category/Y/Years.md)**, năm [huyền thoại](../L/Legendarium.md).
 
-- Thời **[Những Năm Tháng Đen Tối](../D/Dark_Years.md)**, thời kỳ [Sauron](../S/Sauron.md) lên nắm quyền ở [Kỷ nguyên thứ hai](../S/Second_Age.md).
-- **Thời gian Arda:**
+- **[Những năm đen tối](../D/Dark_Years.md)**, thời kỳ [Sauron](../S/Sauron.md) lên nắm quyền ở [Kỷ nguyên thứ hai](../S/Second_Age.md).
+- **Thời Arda:**
     - [Năm Valian](../V/Valian_Years.md)
-    - [Những năm Valar](../D/Days_before_days.md)
+    - [Những năm của các dũng sĩ](../D/Days_before_days.md)
     - [Năm Cây](Years_of_the_Trees.md)
-    - [Những năm Mặt Trời](Years_of_the_Sun.md)
+    - [Năm Mặt Trời](Years_of_the_Sun.md)
 - [Năm Than thở](../F/First_Age_472.md), được gọi như vậy vì [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md).
 
 ### Sách {#Books}
 
-- <i><b>The Tale of Years (Niên đại miền Tây)</b></i>, xuất hiện dưới dạng **[Phụ lục thứ hai](../A/Appendix_B.md)** của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
+- <i><b>Truyện Những Năm (Niên đại miền Tây)</b></i>, xuất hiện dưới dạng **[Phụ lục thứ hai](../A/Appendix_B.md)** của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 - <i><b><a href="../R/Reckoning_of_Years.md" title="Reckoning of Years">Tính toán năm</a></b></i>, cuốn sách được viết bởi [Merry Brandybuck](../M/Meriadoc_Brandybuck.md)
 - *[Year-book of Tuckborough](Yellowskin.md)*, một trong những cuốn sách biên niên sử [Hobbit](../H/Hobbits.md) lâu đời nhất.
 
@@ -44,9 +44,9 @@ images:
 
 ### Chương sách {#Book_chapters}
 
-- "[The Tale of Years](<../T/The_Tale_of_Years_(The_War_of_the_Jewels).md>)", một chương của phần thứ ba của [*The War of the Jewels*](../T/The_War_of_the_Jewels.md).
-- "[The Tale of Years của Thời đại thứ hai](../T/The_Tale_of_Years_of_the_Second_Age.md)", chương thứ sáu của *[The Peoples of Middle-earth](../T/The_Peoples_of_Middle-earth.md)*.
-- "[The Tale of Years của Kỷ Đệ Tam](../T/The_Tale_of_Years_of_the_Third_Age.md)", chương thứ tám của *[The Peoples of Middle-earth](../T/The_Peoples_of_Middle-earth.md)*.
+- "[Câu chuyện của những năm](<../T/The_Tale_of_Years_(The_War_of_the_Jewels).md>)", một chương của phần thứ ba của [*The War of the Jewels*](../T/The_War_of_the_Jewels.md).
+- "[Câu chuyện về những năm tháng thứ hai](../T/The_Tale_of_Years_of_the_Second_Age.md)", chương thứ sáu của *[The Peoples of Middle-earth](../T/The_Peoples_of_Middle-earth.md)*.
+- "[Câu chuyện về những năm tháng thứ ba](../T/The_Tale_of_Years_of_the_Third_Age.md)", chương thứ tám của *[The Peoples of Middle-earth](../T/The_Peoples_of_Middle-earth.md)*.
 
 <hr style="margin-top:15px;"/>
 

@@ -51,7 +51,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/End_of_the_Third_Age_1998.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f0/End_of_the_Third_Age_1998.png/313px-End_of_the_Third_Age_1998.png" decoding="async" loading="lazy" width="313" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/f0/End_of_the_Third_Age_1998.png 1.5x" data-file-width="326" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The End of the Third Age</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1998.md" title="1998">1998</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">159</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0261103806" title="Special:BookSources/0261103806">0261103806</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_War_of_the_Ring.md" title="The War of the Ring">The War of the Ring</a> (1990)</td></tr></tbody></table>
 
-<i><b>Phần cuối của Kỷ Đệ Tam</b></i>, được xuất bản trong [1998](../_/1998.md), là tập thứ tư của *[The History of The Lord of the Rings](The_History_of_The_Lord_of_the_Rings.md)*, ghi lại quá trình viết của *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
+<i><b>Sự kết thúc của thời đại thứ ba</b></i>, được xuất bản trong [1998](../_/1998.md), là tập thứ tư của *[The History of The Lord of the Rings](The_History_of_The_Lord_of_the_Rings.md)*, ghi lại quá trình viết của *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
 
 Cuốn sách này là phiên bản rút gọn của <i><b><a href="../S/Sauron_Defeated.md" title="Sauron Defeated">Sauron Defeated</a></b></i>, chỉ chứa phần đầu tiên của tập đó, loại trừ nội dung không liên quan đến [Trung Địa](../M/Middle-earth.md).
 
@@ -59,19 +59,19 @@ Cuốn sách này là phiên bản rút gọn của <i><b><a href="../S/Sauron_D
 
 - Lời nói đầu
 
-- Tôi. "Câu chuyện Frodo và Sam trong Mordor"
+- Tôi. "Câu chuyện về Frodo và Sam ở Mordor"
 - II. "Tháp Kirith Ungol"
-- III. "Vùng đất Bóng Tối"
-- IV. "Núi Doom"
+- III. "Vùng đất bóng tối"
+- IV. "Núi định mệnh"
 - V. "Cánh đồng Kormallen"
-- VI. "Quản gia và Vua"
-- VIII. "Many Partings"
+- VI. "Quản gia và nhà vua"
+- VIII. "Nhiều cuộc chia tay"
 - VIII. "Trở Về Nhà"
-- IX. "Cuộc thanh trừng của Shire"
-- X. "Cái Cảng Xám"
+- IX. "Cuộc thanh trừng vùng Shire"
+- X. "Những thiên đường xám"
 - XI. "Phần kết"
 
-- Phụ lục: Bản vẽ Orthanc và Dunharrow
+- Phụ lục: Bản vẽ Orthanc và Dunharg
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -103,7 +103,7 @@ Cuốn sách này là phiên bản rút gọn của <i><b><a href="../S/Sauron_D
 		</li>
 </ul>
 
-- [HarperCollins](../H/HarperCollins.md) bìa mềm ([1998](../_/1998.md)), trang 159. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103806">ISBN 0261103806</a> - (ảnh bìa của [John Howe](../J/John_Howe.md))
+- [HarperCollins](../H/HarperCollins.md) bìa mềm ([1998](../_/1998.md)), trang 159. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103806">ISBN 0261103806</a> - (ảnh bìa của [John Howe](../J/John_Howe.md))
     - Ấn bản bìa mềm năm 1998, đặt lại ở [2002](../_/2002.md)
 
 <table style="margin:0 auto;" class="toccolours" align="center">

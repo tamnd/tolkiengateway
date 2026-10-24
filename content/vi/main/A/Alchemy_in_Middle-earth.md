@@ -39,7 +39,7 @@ infobox:
 
 Chưa bao giờ ý nghĩa bí truyền của "Tiểu thuyết thế kỷ" được giải thích. Cuối cùng, tính biểu tượng sâu sắc của nó đã được làm rõ dưới ánh sáng của truyền thống Hermetic, coi *The Lord of the Rings* là tác phẩm của trí tưởng tượng được soi sáng. Thuật giả kim trong Trung Địa theo dõi mô-típ của J.R.R. Tolkien đến những mối liên hệ bất ngờ với Scotland, Trung phương Đông và Atlantis huyền thoại, tiết lộ trí tuệ cổ xưa trong tác phẩm vĩ đại của Tolkien không chỉ với Thuật giả kim trong quá khứ mà còn với thuật giả kim huyền bí sống động của đạo Sufism. Trong quá trình này, mối quan hệ bí ẩn giữa tâm linh của đạo Hồi và Cơ đốc giáo của Tolkien được tiết lộ, biểu thị không gì khác hơn việc hoàn thành nhiệm vụ Chén Thánh vào cuối một thời đại.
 
-<br> Mahmoud Shelton học tại Đại học Edinburgh trước khi lấy bằng về Nghiên cứu Trung cổ tại Đại học Stanford. Anh ta đã du hành để tìm kiếm di sản của Chủ nghĩa Hermetic từ Tây Địa Trung Hải đến Viễn phương Đông. Shelton có rất nhiều bài báo trên tạp chí được ghi nhận và là người đóng góp cho *The Royal Book of Spiritual Chivalry*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<br> Mahmoud Shelton học tại Đại học Edinburgh trước khi lấy bằng về Nghiên cứu Trung cổ tại Đại học Stanford. Ông ta đã du hành để tìm kiếm di sản của Chủ nghĩa Hermetic từ Tây Địa Trung Hải đến Viễn phương Đông. Shelton có rất nhiều bài báo trên tạp chí được ghi nhận và là người đóng góp cho *The Royal Book of Spiritual Chivalry*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

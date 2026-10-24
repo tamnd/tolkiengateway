@@ -12,17 +12,17 @@ categories:
   - "Roots"
 ---
 
-**LINI** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "hồ, hồ, hồ".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**LINI** is a [Primitive Quendian](../P/Primitive_Quendian.md) [root](../S/Sundocarme.md) signifying "pool, mere, lake".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Quenya](../Q/Quenya.md): *[ailin](../A/Ailin.md)* ([AYA(R)](<../A/AYA(R).md>) + LINI) = "một cái hồ lớn"
-- [Sindarin](../S/Sindarin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=L%C3%AEn&amp;action=edit&amp;redlink=1" title="Lîn (page does not exist)">lîn</a></i> = "pool, đơn thuần"
-- [Noldorin](../N/Noldorin.md): *lhîn* = "nhóm"
+- [Quenya](../Q/Quenya.md): *[ailin](../A/Ailin.md)* ([AYA(R)](<../A/AYA(R).md>) + LINI) = "a large lake"
+- [Sindarin](../S/Sindarin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=L%C3%AEn&amp;action=edit&amp;redlink=1" title="Lîn (page does not exist)">lîn</a></i> = "pool, mere"
+- [Noldorin](../N/Noldorin.md): *lhîn* = "pool"
 
 ## Các phiên bản khác của Legendarium {#Other_versions_of_the_Legendarium}
 
-Trong *[Etymologies](../T/The_Etymologies.md)* xuất hiện gốc LIN<sup>1</sup>- biểu thị "pool". LIN<sup>1</sup>- mang lại các dẫn xuất sau có cùng ý nghĩa: [Quenya](../Q/Quenya.md) *linya*, [Noldorin](../N/Noldorin.md) *lhîn*và [Ilkorin](../I/Ilkorin.md) *line*.<sup id="cite_ref-Ety_2-0" class="reference"><a href="#cite_note-Ety-2">[2]</a></sup> Gốc có liên quan đến [LINKWI](LINKWI.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong *[Etymologies](../T/The_Etymologies.md)* xuất hiện gốc LIN<sup>1</sup>- biểu thị "pool". LIN<sup>1</sup>- mang lại các dẫn xuất sau có cùng ý nghĩa: [Quenya](../Q/Quenya.md) *linya*, [Noldorin](../N/Noldorin.md) *lhîn* và [Ilkorin](../I/Ilkorin.md) *line*.<sup id="cite_ref-Ety_2-0" class="reference"><a href="#cite_note-Ety-2">[2]</a></sup> Gốc có liên quan đến [LINKWI](LINKWI.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 

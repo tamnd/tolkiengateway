@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-[Tolkien](../T/Tolkien.md) hiện đang đi nghỉ cùng [C.S. Lewis](../C/C.S._Lewis.md) ở Dunstar, Somerset và nói rằng anh ấy đã "nhìn thấy <a class="extiw" href="http://en.wikipedia.org/wiki/Priory_Church_of_St_George,_Dunster" title="wikipedia:Priory Church of St George, Dunster">nhà thờ</a> (nhưng không phải <a class="extiw" href="http://en.wikipedia.org/wiki/Dunster_Castle" title="wikipedia:Dunster Castle">lâu đài</a>)". Anh ấy viết rằng có thể anh ấy sẽ ở lại Minehead đêm đó và sau đó bắt chuyến tàu về nhà từ đó.
+[Tolkien](../T/Tolkien.md) hiện đang đi nghỉ cùng [C.S. Lewis](../C/C.S._Lewis.md) ở Dunstar, Somerset và nói rằng ông đã "nhìn thấy <a class="extiw" href="http://en.wikipedia.org/wiki/Priory_Church_of_St_George,_Dunster" title="wikipedia:Priory Church of St George, Dunster">nhà thờ</a> (nhưng không phải <a class="extiw" href="http://en.wikipedia.org/wiki/Dunster_Castle" title="wikipedia:Dunster Castle">lâu đài</a>)". Ông viết rằng có thể ông sẽ ở lại Minehead đêm đó và sau đó bắt chuyến tàu về nhà từ đó.
 
 <br>
 

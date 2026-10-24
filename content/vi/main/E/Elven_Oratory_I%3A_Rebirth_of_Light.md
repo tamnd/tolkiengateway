@@ -22,7 +22,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Elven Oratory I: Rebirth of Light</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">by Lind Erebros</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">2009</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Electronic, Classical, Folk</td></tr><tr><th scope="row" class="tg-infobox-label">Length</th><td class="tg-infobox-data">47 min 50 sec</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr></tbody></table>
 
-<i><b>Tiên Oratory I: Rebirth of Light</b></i> là album đầu tiên trong số ba album [Silmarillion](../S/Silmarillion.md) lấy cảm hứng từ [Lind Erebros](../L/Lind_Erebros.md).
+<i><b>Elven Oratory I: Rebirth of Light</b></i> là album đầu tiên trong ba album lấy cảm hứng từ [Silmarillion](../S/Silmarillion.md) của [Lind Erebros](../L/Lind_Erebros.md).
 
 ## Danh sách bản nhạc {#Track_listing}
 
@@ -38,7 +38,7 @@ infobox:
 10. Gotmog đánh bại Feanor - 3:03
 11. Ered Vetrin lúc tuyết - 1:52
 12. Isilkarmeo - 2:20
-13. Đêm Mặt Trăng Đầu tiên - 1:42
+13. Đêm Trăng Đầu Tiên - 1:42
 14. Anarkarmeo - 4:44
 
 ## Tài liệu tham khảo chuyên đề {#Thematic_references}

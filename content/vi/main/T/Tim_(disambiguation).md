@@ -16,7 +16,7 @@ images:
 
 **Tim** có thể đề cập đến:
 
-## [Trung Địa](../../category/E/Eä.md) {#Middle-earth}
+## [Trung địa](../../category/E/Eä.md) {#Middle-earth}
 
 - [Tim](Tim.md), nhân vật trong bài thơ [Hobbit](../H/Hobbits.md).
 

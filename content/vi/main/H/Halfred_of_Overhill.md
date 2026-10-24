@@ -46,7 +46,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Halfred Gamgee</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Halfred of Overhill</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../O/Overhill.md" title="Overhill">Overhill</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2932.md" title="Third Age 2932">1332</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/Gamgee_Family~66365.md" title="Gamgee Family">Gamgee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="Hobson.md" title="Hobson">Roper Gamgee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="../A/Andwise_Roper.md" title="Andwise Roper">Andwise</a>, <a href="../G/Gaffer_Gamgee.md" title="Gaffer Gamgee">Hamfast</a> and <a href="../M/May_(hobbit).md" title="May (hobbit)">May</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="Halfast_Gamgee.md" title="Halfast Gamgee">Halfast Gamgee</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Halfred Gamgee** là Hobbit của [ Shire](../T/The_Shire.md).
+**Halfred Gamgee** là một người Hobbit của [Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
@@ -54,7 +54,7 @@ Halfred là con trai út của [Roper Gamgee](Hobson.md). Ông định cư ở [
 
 ## Từ nguyên {#Etymology}
 
-Tên xuất phát từ [tiếng Anh cổ](../O/Old_English.md) *healfrēad* "nửa đỏ, hơi đỏ" hoặc từ *healfrǣd* "nửa lời khuyên".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+Cái tên này bắt nguồn từ [tiếng Anh cổ](../O/Old_English.md) *healfrēad* "nửa đỏ, hơi đỏ" hoặc từ *healfrǣd* "nửa lời khuyên".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

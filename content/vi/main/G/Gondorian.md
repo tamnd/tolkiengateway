@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gondorians"
 ---
 
-Chuyển hướng đến [người Gondor](Gondorians.md).
+Chuyển hướng đến [Người Gondorian](Gondorians.md).

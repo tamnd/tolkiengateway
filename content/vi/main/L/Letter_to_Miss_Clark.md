@@ -14,9 +14,9 @@ sort_keys:
   "Letters": "Clark, Miss"
 ---
 
-Vào [ngày 4 tháng 12](../_/4_December.md) [1963](../_/1963.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho cô Clark**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào [4 tháng 12](../_/4_December.md) [1963](../_/1963.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho cô Clark**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Chủ đề:** Thảo luận về *[Leaf by Niggle](Leaf_by_Niggle.md)* và *[The Homecoming of Beorhtnoth](../T/The_Homecoming_of_Beorhtnoth.md)*cũng như thiết kế màng bọc bụi cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- **Chủ đề:** Thảo luận về *[Leaf by Niggle](Leaf_by_Niggle.md)* và *[The Homecoming of Beorhtnoth](../T/The_Homecoming_of_Beorhtnoth.md)* cũng như thiết kế màng bọc bụi cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - **Mô tả:** 3 trang, 8vo, Headington.<sup id="cite_ref-Sothe_3-0" class="reference"><a href="#cite_note-Sothe-3">[3]</a></sup>
 - **Xuất bản:** Bản sao lại một trang và một số trích dẫn trong bức thư xuất hiện trong *[Sotheby's English Literature and History 19 July 1990](../S/Sotheby's_English_Literature_and_History_19_July_1990.md)*.<sup id="cite_ref-Sothe_3-1" class="reference"><a href="#cite_note-Sothe-3">[3]</a></sup>
 

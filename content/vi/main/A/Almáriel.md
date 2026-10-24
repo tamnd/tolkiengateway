@@ -31,7 +31,7 @@ infobox:
 
 **Almáriel** là một [cô gái](../M/Men.md) ở [Númenor](../N/Númenor.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Lost Road](../T/The_Lost_Road.md)*.
 
-Cô ấy là bạn cùng lứa với [Herendil](../H/Herendil.md), người đã phàn nàn với cha mình [Elendil](../E/Elendil.md) rằng chiều cao của anh ấy chỉ vừa đủ ngang vai cô ấy, mặc dù bằng tuổi nhau. Không biết liệu cô ấy có tham gia cùng các đồng nghiệp khác của Herendil hay không khi gọi anh ấy bằng những cái tên như *Terendul* ("mảnh mai và đen tối") và buộc tội anh ấy là "nửa-Noldo."<sup id="cite_ref-P1_1-1" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
+Bà là bạn cùng lứa với [Herendil](../H/Herendil.md), người đã phàn nàn với cha mình [Elendil](../E/Elendil.md) rằng chiều cao của ông chỉ vừa đủ ngang vai bà, mặc dù bằng tuổi nhau. Không biết liệu bà có tham gia cùng các đồng nghiệp khác của Herendil hay không khi gọi ông bằng những cái tên như *Terendul* ("mảnh mai và đen tối") và buộc tội ông là "nửa-Noldo."<sup id="cite_ref-P1_1-1" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

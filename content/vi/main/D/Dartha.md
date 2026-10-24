@@ -13,7 +13,7 @@ categories:
   - "Sindarin verbs"
 ---
 
-**dartha-** là động từ [Sindarin](../S/Sindarin.md) có nghĩa là <i>chờ đợi, ở lại, cuối cùng, chịu đựng, ở lại"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></i>
+**dartha-** là động từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là <i>chờ đợi, ở lại, cuối cùng, chịu đựng, ở lại"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></i>
 
 ## Từ nguyên {#Etymology}
 

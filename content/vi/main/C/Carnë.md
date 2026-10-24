@@ -15,7 +15,7 @@ sort_keys:
   "Quenya adjectives": "Carne"
 ---
 
-<i><b>carnë</b></i> là một tính từ [Quenya](../Q/Quenya.md) có nghĩa là "đỏ" hoặc "đỏ tươi".
+<i><b>carnë</b></i> là tính từ [Quenya](../Q/Quenya.md) có nghĩa là "đỏ" hoặc "đỏ tươi".
 
 ## Từ nguyên {#Etymology}
 
@@ -24,7 +24,7 @@ Bắt nguồn từ [gốc](../S/Sundocarme.md) AK- ("hẹp, hạn chế").<sup i
 ## Ví dụ {#Examples}
 
 - [Carnistir](Carnistir.md) = Mặt đỏ
-- [Orocarni](../O/Orocarni.md) = Đỏ Dãy Núi
+- [Orocarni](../O/Orocarni.md) = Núi Đỏ
 
 <span></span>
 
@@ -35,4 +35,4 @@ Bắt nguồn từ [gốc](../S/Sundocarme.md) AK- ("hẹp, hạn chế").<sup i
 </li>
 </ol></div>
 
-- <a class="external text" href="http://www.uib.no/People/hnohf" rel="noreferrer noopener" target="_blank">Quenya-Danh sách từ tiếng Anh</a> được biên soạn bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf" rel="noreferrer noopener" target="_blank">Danh sách từ tiếng Anh-Quenya</a> do [Helge Fauskanger biên soạn](../H/Helge_Fauskanger.md)

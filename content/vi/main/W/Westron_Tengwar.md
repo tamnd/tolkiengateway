@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Alphabet of Fëanor: Numenian, or Westron, Mode"
 ---
 
-Chuyển hướng đến [Bảng chữ cái của Fëanor: Numenian hoặc Westron, Chế độ](../A/Alphabet_of_Fëanor%253A_Numenian,_or_Westron,_Mode.md).
+Chuyển hướng đến [Alphabet of Fëanor: Numenian, or Westron, Mode](../A/Alphabet_of_Fëanor%253A_Numenian,_or_Westron,_Mode.md).

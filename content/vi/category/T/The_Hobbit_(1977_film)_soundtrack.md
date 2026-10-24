@@ -16,4 +16,4 @@ sort_keys:
   "The Hobbit (1977 film)": "Hobbit"
 ---
 
-Thể loại này liệt kê các bài hát từ **[The Hobbit nhạc phim (phim 1977)](../../main/T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md)**.
+Thể loại này liệt kê các bài hát trong **[The Hobbit (1977 film) soundtrack](../../main/T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md)**.

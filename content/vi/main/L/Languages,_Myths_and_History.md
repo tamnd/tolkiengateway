@@ -37,9 +37,9 @@ infobox:
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-"*Ngôn ngữ, thần thoại và lịch sử: Giới thiệu về nền tảng ngôn ngữ và văn học trong Tiểu thuyết của J. R. R. Tolkien giới thiệu các ngôn ngữ và văn học đặc biệt quan trọng đối với Tolkien với tư cách là một nhà văn. Tolkien là giáo sư đại học, chuyên về các ngôn ngữ Đức thời kỳ đầu, chẳng hạn như tiếng Anh cổ, tiếng Bắc Âu cổ và Gothic. Ông cũng, trong nhiều trường hợp, đã viết về niềm đam mê của mình với ngôn ngữ Phần Lan và thơ sử thi. Như đã biết, những chuyên gia này cũng được biết đến và sở thích văn học có ảnh hưởng to lớn đến sáng tác của ông, bao gồm cả thần thoại và các ngôn ngữ được phát minh.*
+"*Ngôn ngữ, thần thoại và lịch sử: Giới thiệu về nền tảng ngôn ngữ và văn học trong Tiểu thuyết của J. R. R. Tolkien giới thiệu các ngôn ngữ và văn học đặc biệt quan trọng đối với Tolkien với tư cách là một nhà văn. Tolkien là giáo sư đại học, chuyên về các ngôn ngữ Đức cổ, chẳng hạn như tiếng Anh cổ, tiếng Bắc Âu cổ và tiếng Gothic. Trong nhiều trường hợp, ông cũng viết về niềm đam mê của mình với ngôn ngữ Phần Lan và thơ sử thi. Như đã biết, những sở thích nghề nghiệp và văn học này có ảnh hưởng to lớn đến ông văn viết sáng tạo, bao gồm cả thần thoại và ngôn ngữ được phát minh của ông.*
 
-*Ngôn ngữ, Thần thoại và Lịch sử cung cấp phần giới thiệu ngắn gọn về tiếng Bắc Âu cổ, tiếng Anh cổ, ngôn ngữ và văn học Gothic và Phần Lan, đồng thời thảo luận các khía cạnh chính về ảnh hưởng của chúng đối với tiểu thuyết của Tolkien. Cuốn sách chứng tỏ những ý tưởng phê bình văn học, triết học và đạo đức của Tolkien, đặc biệt là sự hiểu biết của ông về chủ nghĩa anh hùng và lòng dũng cảm, được lấy cảm hứng từ văn học và văn học dân gian thời trung cổ như thế nào. Cuốn sách cung cấp cái nhìn tổng quan về các ngôn ngữ được phát minh bởi Tolkien và các nguyên tắc sáng tạo ngôn ngữ của ông. Ngoài ra nó còn cung cấp bản tóm tắt về sự nghiệp học tập của Tolkien.*
+*Ngôn ngữ, Thần thoại và Lịch sử cung cấp phần giới thiệu ngắn gọn về các ngôn ngữ và văn học Bắc Âu cổ, Anh cổ, Gothic và Phần Lan, đồng thời thảo luận các khía cạnh chính về ảnh hưởng của chúng đối với tiểu thuyết của Tolkien. Cuốn sách chứng minh những ý tưởng phê bình văn học, triết học và đạo đức của Tolkien, đặc biệt là sự hiểu biết của ông về chủ nghĩa anh hùng và lòng dũng cảm, được truyền cảm hứng từ văn học và văn hóa dân gian thời trung cổ. Cuốn sách cung cấp cái nhìn tổng quan về các ngôn ngữ được phát minh bởi Tolkien và các nguyên tắc sáng tạo ngôn ngữ của ông. Ngoài ra nó còn cung cấp bản tóm tắt về sự nghiệp học tập của Tolkien.*
 
 *Features include:*
 
@@ -47,7 +47,7 @@ infobox:
 - *một cuộc thảo luận về các ý tưởng phê bình văn học và triết học của Tolkien chịu ảnh hưởng của văn học thời trung cổ, chẳng hạn như 'lý thuyết về lòng dũng cảm' của ông;*
 - *tổng quan chi tiết về lịch sử và ngôn ngữ của người Goth, hiếm khi được cung cấp như một phần của các khóa học đại học và ít được sinh viên văn học biết đến;*
 - *một đoạn trích từ Lịch sử Gothic của Jordanes và thảo luận về ảnh hưởng của nó đối với Tolkien;*
-- *thảo luận giới thiệu về ngôn ngữ và bảng chữ cái của Tolkien, một chủ đề nổi tiếng là khó hiểu, hiếm khi được tiếp cận theo cách dễ tiếp cận, phi kỹ thuật;*
-- *phần đọc thêm' kèm theo gợi ý nghiên cứu bổ sung.*
+- *cuộc thảo luận giới thiệu về ngôn ngữ và bảng chữ cái của Tolkien, một chủ đề nổi tiếng là khó hiểu, hiếm khi được tiếp cận theo cách dễ tiếp cận, phi kỹ thuật;*
+- *các phần đọc thêm' kèm theo các gợi ý nghiên cứu bổ sung.*
 
-*Cuốn sách này là phần giới thiệu rõ ràng bằng văn bản về một số ý tưởng quan trọng nhất của Tolkien, cũng như các khía cạnh chuyên môn hơn trong tiểu thuyết của ông, chẳng hạn như nền tảng của nó về ngôn ngữ học và văn hóa thời trung cổ. Cuốn sách này là tài liệu đọc cần thiết cho sinh viên văn học và bất kỳ ai quan tâm đến Tolkien với tư cách là một nhà văn.*"
+*Cuốn sách này là phần giới thiệu rõ ràng bằng văn bản về một số ý tưởng quan trọng nhất của Tolkien, cũng như các khía cạnh chuyên môn hơn trong tiểu thuyết của ông, chẳng hạn như nền tảng của nó về ngôn ngữ học và văn hóa thời trung cổ. Cuốn sách này là tài liệu cần thiết cho những người nghiên cứu văn học và bất kỳ ai quan tâm đến Tolkien với tư cách là một nhà văn.*"

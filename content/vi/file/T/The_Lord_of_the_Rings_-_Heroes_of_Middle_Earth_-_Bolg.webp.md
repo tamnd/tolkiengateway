@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Một nhân vật trong trò chơi [The Lord of the Rings: Anh hùng Trung Địa](../../main/T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md).
+Một nhân vật trong trò chơi [The Lord of the Rings: Heroes of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md).
 
 ## Giấy phép {#Licensing}
 

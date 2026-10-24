@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Rebel, Bernard"
 ---
 
-**Bernard Rebel** ([6 tháng 10](../_/6_October.md), [1901](../_/1901.md) - [tháng Chín 30](../_/30_September.md), [1964](../_/1964.md)) là một diễn viên người Anh gốc Ba Lan. Ông đã lồng tiếng cho [Wormtongue](../G/Gríma.md) trong loạt phim phát thanh *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>)*năm 1955-56.
+**Bernard Rebel** ([6 tháng 10](../_/6_October.md), [1901](../_/1901.md) - [30 tháng 9](../_/30_September.md), [1964](../_/1964.md)) là một diễn viên người Anh gốc Ba Lan. Ông lồng tiếng cho [Wormtongue](../G/Gríma.md) trong loạt phim phát thanh *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>)*năm 1955-56.
 
 ## Liên kết ngoài {#External_links}
 

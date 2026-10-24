@@ -17,11 +17,11 @@ categories:
 ## New York {#New_York}
 
 - **Vị trí:** Barnes & Noble tại Đại lộ số 5 và Đường 46 (<a class="external text" href="http://maps.yahoo.com/index.php#mvt=m&amp;q1=5th+Avenue+%2526+46th+Street%2C+New+York+City&amp;trf=0&amp;lon=-73.979058&amp;lat=40.756002&amp;mag=4" rel="noreferrer noopener" target="_blank">Bản đồ</a>)
-- **Người tổ chức:** [Heren Istarion: Hiệp hội Tolkien Đông Bắc](../N/North_East_Tolkien_Society.md)
+- **Máy chủ:** [Heren Istarion: The Northeast Tolkien Society](../N/North_East_Tolkien_Society.md)
 - **Thời gian:** 8 giờ sáng
 - **Hoạt động:** Đa dạng, bao gồm cả giải thưởng.
 - **Trang web:** <a class="external text" href="http://www.herenistarion.org" rel="noreferrer noopener" target="_blank">HerenIstarion.org</a>
 
 ## Xem thêm {#See_also}
 
-- [The Children of Húrin Bên phát hành](The_Children_of_Húrin_Release_Party.md) để có giải pháp thay thế trực tuyến.
+- [The Children of Húrin Release Party](The_Children_of_Húrin_Release_Party.md) để có giải pháp thay thế trực tuyến.

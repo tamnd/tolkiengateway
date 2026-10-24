@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Moon-letters"
 ---
 
-Chuyển hướng tới [Mặt Trăng-chữ cái](Moon-letters.md).
+Chuyển hướng đến [Chữ mặt trăng](Moon-letters.md).

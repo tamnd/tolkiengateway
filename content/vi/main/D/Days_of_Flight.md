@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dark Years"
 ---
 
-Chuyển hướng đến [Những Năm Tháng Đen Tối](Dark_Years.md).
+Chuyển hướng đến [Những năm đen tối](Dark_Years.md).

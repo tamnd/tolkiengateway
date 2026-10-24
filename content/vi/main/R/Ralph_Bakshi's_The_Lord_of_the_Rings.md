@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings (1978 film)"
 ---
 
-Chuyển hướng tới [The Lord of the Rings (phim 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
+Chuyển hướng đến [The Lord of the Rings (1978 film)](<../T/The_Lord_of_the_Rings_(1978_film).md>).

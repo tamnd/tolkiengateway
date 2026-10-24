@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Chi tiết về bìa ấn bản đầu tiên của *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*, mô tả [Đấng duy nhất Nhẫn](../../main/T/The_One_Ring.md) và [Con Mắt của Sauron](../../main/E/Eye_of_Sauron.md) được bao quanh bởi [Nhẫn-dòng chữ](../../main/R/Ring-inscription.md) trong [Hắc Ngữ](../../main/B/Black_Speech.md).
+Chi tiết về bìa ấn bản đầu tiên của *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*, mô tả [Chiếc nhẫn duy nhất](../../main/T/The_One_Ring.md) và [Con Mắt của Sauron](../../main/E/Eye_of_Sauron.md) được bao quanh bởi [dòng chữ trên chiếc nhẫn](../../main/R/Ring-inscription.md) trong [Hắc Ngữ](../../main/B/Black_Speech.md).
 
 ## Giấy phép {#Licensing}
 

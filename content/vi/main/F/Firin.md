@@ -13,7 +13,7 @@ categories:
   - "Quenya adjectives"
 ---
 
-<i><b>firin</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "chết" (do nguyên nhân tự nhiên).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+<i><b>firin</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "chết" (do nguyên nhân tự nhiên).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

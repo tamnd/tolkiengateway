@@ -31,11 +31,11 @@ infobox:
 
 Trong *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và *[Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*, **Agburanar** là một con rồng xanh đen ẩn dật và hiếm khi hoạt động.
 
-Mẹ của anh đã bị [Lossoth](../L/Lossoth.md) giết chết một cách tàn nhẫn, và do đó anh thường tránh xung đột, thậm chí còn thích những con mồi dễ dàng hơn như dê. Tuy nhiên, anh ta là một con rồng nhanh nhẹn và lén lút, mặc dù không có cánh.
+Mẹ của anh đã bị [Lossoth](../L/Lossoth.md) giết chết một cách tàn nhẫn, và do đó anh thường tránh xung đột, thậm chí còn thích những con mồi dễ dàng hơn như dê. Tuy nhiên, ông ta là một con rồng nhanh nhẹn và lén lút, mặc dù không có cánh.
 
-Hang ổ của hắn nằm trong Hang động Ûlund, trên cao Dãy Núi Xám, được chọn vì những kẻ xâm nhập không thể tiếp cận được. Ở đó, anh ta ngồi trên tài sản của Fain, một Người lùn-lãnh chúa của dân tộc Barin mà anh ta đã giết.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Hang ổ của hắn nằm trong Hang động Ûlund, trên cao Dãy Núi Xám, được chọn vì những kẻ xâm nhập không thể tiếp cận được. Ở đó, ông ta ngồi trên tài sản của Fain, một Người lùn-lãnh chúa của dân tộc Barin mà ông ta đã giết.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Anh ta bị tổn thương bởi Khuzadrepa, một Rồng lãnh thổ mà anh ta từng vượt qua.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <span></span>
+Ông ta bị tổn thương bởi Khuzadrepa, một Rồng lãnh thổ mà ông ta từng vượt qua.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

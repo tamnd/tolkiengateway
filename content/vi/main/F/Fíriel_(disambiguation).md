@@ -14,15 +14,15 @@ images:
   - "Disambig.png"
 ---
 
-**Fíriel** có thể tham khảo:
+**Firiel** có thể đề cập đến:
 
 - [Míriel Þerindë](../M/Míriel_Þerindë.md), nữ hoàng [Noldorin](../N/Noldor.md) có tên được đổi thành *Fíriel*.
-- [Fíriel](Fíriel.md), một công chúa [Gondor](../G/Gondor.md).
-- [Fíriel Fairbairn](Fíriel_Fairbairn.md), a [Hobbit](../H/Hobbits.md).
-- [Fíriel (The Lost Road)](<Fíriel_(The_Lost_Road).md>), một thiếu nữ trong giai đoạn đầu của huyền thoại [Númenor](../N/Númenor.md).
+- [Fíriel](Fíriel.md), công chúa [Gondorian](../G/Gondor.md).
+- [Fíriel Fairbairn](Fíriel_Fairbairn.md), một [Hobbit](../H/Hobbits.md).
+- [Fíriel (Con đường đã mất)](<Fíriel_(The_Lost_Road).md>), một thiếu nữ ở giai đoạn đầu của huyền thoại [Númenor](../N/Númenor.md).
 
 - [Firiel (thơ)](<Firiel_(poem).md>), [1934](../_/1934.md) bài thơ.
-- [Fíriel (The Con Tàu Cuối Cùng)](<Fíriel_(The_Last_Ship).md>), một nhân vật hư cấu trong bài thơ *[The Last Ship](../T/The_Last_Ship.md)*.
+- [Fíriel (Con tàu cuối cùng)](<Fíriel_(The_Last_Ship).md>), một nhân vật hư cấu trong bài thơ *[The Last Ship](../T/The_Last_Ship.md)*.
 
 <hr style="margin-top:15px;"/>
 

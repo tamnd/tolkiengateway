@@ -30,9 +30,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Carter đã hỏi liệu Ent có bao giờ tìm thấy Entwives hay không. Tolkien nói rằng anh ấy không biết, không viết gì ngoài vài năm đầu tiên của [Kỷ Đệ Tứ](../F/Fourth_Age.md), ngoại trừ phần mở đầu của một câu chuyện lấy bối cảnh vào cuối triều đại của Eldaron<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Câu chuyện này nói về sự bồn chồn và buồn chán của Con Người trong những năm Hòa bình của Vua.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[1]</a></sup> Tolkien nghĩ rằng bài hát của [Treebeard](../T/Treebeard.md)về Ent và the Entwife<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[2]</a></sup> đã nói rõ rằng sẽ không có cuộc hội ngộ nào trong "lịch sử".
+Carter đã hỏi liệu người Ent có tìm thấy Ent phụ hay không. Tolkien nói rằng ông không biết, vì không viết gì ngoài vài năm đầu của [Kỷ thứ tư](../F/Fourth_Age.md), ngoại trừ phần mở đầu của một câu chuyện lấy bối cảnh vào cuối triều đại của Eldaron<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Câu chuyện này liên quan đến sự bồn chồn và buồn chán của Con người trong những năm Hòa bình của Nhà vua.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[1]</a></sup> Tolkien nghĩ rằng bài hát của [Treebeard](../T/Treebeard.md) về Ent và the Entwife<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[2]</a></sup> đã nói rõ rằng sẽ không có cuộc hội ngộ nào trong "lịch sử".
 
-Đối phó với tiếng Hy Lạp khiến Tolkien cảm thấy mình như một kẻ phản bội, mặc dù anh đã từng biết đôi điều về nó. Anh ấy thích [tiếng Latinh](Latin.md) hơn.
+Đối mặt với ngôn ngữ Hy Lạp khiến Tolkien cảm thấy mình như một kẻ phản bội, mặc dù ông đã từng biết điều gì đó về nó. Ông thích [tiếng Latinh](Latin.md) hơn.
 
 ## Lưu ý {#Note}
 

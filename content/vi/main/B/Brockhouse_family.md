@@ -24,17 +24,17 @@ langlinks:
     url: "https://kontu.wiki/M%C3%A4yr%C3%A4maja"
 ---
 
-**Gia đình Brockhouse** là một gia đình đông dân của [Bree-hobbit](Bree-hobbits.md). Một số thành viên trong gia đình sống ở [the Shire](../T/The_Shire.md): [Sapphira Brockhouse](../S/Sapphira_Brockhouse.md) là vợ của [Uffo Boffin](../U/Uffo_Boffin.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và [Bilbo Baggins](Bilbo_Baggins.md) đã chào mừng gia đình Brockhouse cùng với các gia đình hobbit khác trong bài phát biểu chia tay nổi tiếng của ông vào [tháng Chín 22](../_/22_September.md), [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Gia đình Brockhouse** là một gia đình đông dân của [Bree-hobbit](Bree-hobbits.md). Một số thành viên trong gia đình sống ở [the Shire](../T/The_Shire.md): [Sapphira Brockhouse](../S/Sapphira_Brockhouse.md) là vợ của [Uffo Boffin](../U/Uffo_Boffin.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và [Bilbo Baggins](Bilbo_Baggins.md) chào mừng gia đình Brockhouse cùng với các gia đình hobbit khác trong bài phát biểu chia tay nổi tiếng của ông vào [ngày 22 tháng 9](../_/22_September.md), [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Brock* là một từ cũ (cho đến cuối thế kỷ 19) có nghĩa là "lửng" và trong tên Hobbit đó, nó ám chỉ việc xây dựng những ngôi nhà dưới lòng đất phức tạp và được sắp xếp hợp lý.
+*Brock* là một từ quê hương cũ (cho đến cuối thế kỷ 19) có nghĩa là "lửng" và, trong cái tên Hobbit đó, ám chỉ việc xây dựng những ngôi nhà dưới lòng đất phức tạp và được sắp xếp hợp lý.
 
-[Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng địa danh và họ trong tiếng Anh có chứa từ cũ này, chẳng hạn như *Brockbanks*.<sup id="cite_ref-Nomen_3-0" class="reference"><a href="#cite_note-Nomen-3">[3]</a></sup>
+[Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên địa danh và họ trong tiếng Anh có chứa từ cổ này, chẳng hạn như *Brockbanks*.<sup id="cite_ref-Nomen_3-0" class="reference"><a href="#cite_note-Nomen-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phiên bản thứ năm của chương đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* gia đình Brockhouse không có thành viên nào sống trong Shire; thay vào đó, những người tham dự bữa tiệc Bilbo là từ [Combe-under-Bree](../C/Combe.md) và là [Hobbit](../H/Hobbits.md) mà Bilbo đã kết bạn trong chuyến du lịch của anh ấy.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong phiên bản thứ năm của chương đầu tiên *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* gia đình Brockhouse không có thành viên nào sống ở Shire; thay vào đó, những người tham dự bữa tiệc của Bilbo đều đến từ [Combe-under-Bree](../C/Combe.md) và là [Hobbit](../H/Hobbits.md) mà Bilbo đã kết bạn trong chuyến du lịch của ông.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

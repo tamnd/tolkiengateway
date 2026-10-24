@@ -39,17 +39,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../G/Gondorians.md" title="Gondorians">Gondorian</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Findegil</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data"><a href="../K/King&#39;s_Writer.md" title="King&#39;s Writer">King&#39;s Writer</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../G/Gondor.md" title="Gondor">Gondor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">Early <a href="Fourth_Age.md" title="Fourth Age">Fourth Age</a></td></tr></tbody></table>
 
-**Findegil** là tác giả của [Vua](../K/King's_Writer.md) của [Gondor](../G/Gondor.md) trong [Kỷ Đệ Tứ](Fourth_Age.md).
+**Findegil** là [Nhà văn của nhà vua](../K/King's_Writer.md) của [Gondor](../G/Gondor.md) ở [Thời đại thứ tư](Fourth_Age.md).
 
 ## Lịch sử {#History}
 
-Findegil có lẽ đã phục vụ dưới vương quyền của [Eldarion](../E/Eldarion.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> trong [Kỷ Đệ Tứ](Fourth_Age.md).
+Findegil có lẽ đã phục vụ dưới vương quyền của [Eldarion](../E/Eldarion.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ở [Kỷ nguyên thứ tư](Fourth_Age.md).
 
-Trong [Kỷ Đệ Tứ](Fourth_Age.md) [172](Fourth_Age_172.md), Findegil đã viết một bản sao Sách của [Thain](../T/Thain's_Book.md) cho [Thain](../T/Thain.md) của [ Shire](../T/The_Shire.md), có lẽ là theo yêu cầu của chắt của [Peregrin Took](../P/Peregrin_Took.md). Bản sao này là bản duy nhất bao gồm *[Translations from the Elvish](../T/Translations_from_the_Elvish.md)*hoàn chỉnh của [Bilbo Baggins](../B/Bilbo_Baggins.md), được Bilbo sáng tác khi ở [Rivendell](../R/Rivendell.md) trong thời gian anh 'nghỉ hưu' ở đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong [Fo.A.](Fourth_Age.md) [172](Fourth_Age_172.md), Findegil đã viết một bản sao của [Thain's Book](../T/Thain's_Book.md) cho [Thain](../T/Thain.md) của [the Shire](../T/The_Shire.md), có lẽ là theo yêu cầu của chắt của [Peregrin Took](../P/Peregrin_Took.md). Bản sao này là bản duy nhất bao gồm *[Translations from the Elvish](../T/Translations_from_the_Elvish.md)* hoàn chỉnh của [Bilbo Baggins](../B/Bilbo_Baggins.md), mà Bilbo đã sáng tác khi ở [Rivendell](../R/Rivendell.md) trong thời gian ông 'nghỉ hưu' ở đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Nhân vật được mô tả là "Người viết củaVua", nhưng ý nghĩa chính xác của cái tên này không được tiết lộ, mặc dù rõ ràng là [Sindarin](../S/Sindarin.md). [David Salo](../D/David_Salo.md) gợi ý phần tử đầu tiên có thể là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Find&amp;action=edit&amp;redlink=1" title="Find (page does not exist)">find</a></i> ("tóc"),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và Paul Strack gợi ý phần tử cuối cùng có thể là [lenited](../L/Lenition.md) *tegil* ("bút").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Nhân vật này được mô tả là "Nhà văn của nhà vua", nhưng ý nghĩa chính xác của cái tên này vẫn chưa được tiết lộ, mặc dù rõ ràng nó là [Sindarin](../S/Sindarin.md). [David Salo](../D/David_Salo.md) gợi ý phần tử đầu tiên có thể là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Find&amp;action=edit&amp;redlink=1" title="Find (page does not exist)">find</a></i> ("tóc"),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và Paul Strack gợi ý phần tử cuối cùng có thể là [lenited](../L/Lenition.md) *tegil* ("bút").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

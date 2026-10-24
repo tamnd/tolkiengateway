@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Merp_1986a.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fe/Merp_1986a.jpg/320px-Merp_1986a.jpg" decoding="async" loading="lazy" width="320" height="411" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/fe/Merp_1986a.jpg 1.5x" data-file-width="354" data-file-height="455"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Middle-earth: The Role Playing Game of J.R.R. Tolkien&#39;s World</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/S._Coleman_Charlton.md" title="S. Coleman Charlton">S. Coleman Charlton</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../A/Angus_McBride.md" title="Angus McBride">Angus McBride</a> (cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1986.md" title="1986">1986</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">128</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-915795-31-0" title="Special:BookSources/0-915795-31-0">0-915795-31-0</a></td></tr><tr><th scope="row" class="tg-infobox-label">ICE stock no.</th><td class="tg-infobox-data">8000</td></tr><tr><th scope="row" class="tg-infobox-label">Cover price</th><td class="tg-infobox-data">$10.00</td></tr></tbody></table>
 
-<i><b>Trung Địa: Trò chơi nhập vai trong Thế giới của J.R.R. Tolkien</b></i> là mô-đun hệ thống dành cho *[Middle-earth Role Playing](Middle-earth_Role_Playing.md)*, Phiên bản đầu tiên. Mô-đun này cũng có thể được mua như một phần của *[Middle-earth Role Playing (boxed set)](<Middle-earth_Role_Playing_(boxed_set).md>)*.
+<i><b>Trung địa: Trò chơi nhập vai của Thế giới J.R.R. Tolkien</b></i> là mô-đun hệ thống dành cho *[Middle-earth Role Playing](Middle-earth_Role_Playing.md)*, Phiên bản đầu tiên. Mô-đun này cũng có thể được mua như một phần của *[Middle-earth Role Playing (boxed set)](<Middle-earth_Role_Playing_(boxed_set).md>)*.
 
 Nó thay thế sách quy tắc từ năm 1984, *[Middle-earth Role Playing](<Middle-earth_Role_Playing_(book).md>)*, và sau đó được thay thế bằng *[Middle-earth Role Playing, 2nd ed.](<Middle-earth_Role_Playing_(2nd_edition).md>)* (1993).
 
@@ -53,16 +53,16 @@ Nhập vai là một loại trò chơi cho phép bạn nhập vai vào một nh�
 
 MERP chứa tất cả các thành phần cần thiết để chơi một trò chơi nhập vai giả tưởng:
 
-- HỆ THỐNG PHÁT TRIỂN NHÂN VẬT - bao gồm Hobbit, Tiên tộc, Người Lùn, Orc, Troll, v.v.
+- HỆ THỐNG PHÁT TRIỂN NHÂN VẬT - bao gồm Người Hobbit, Yêu tinh, Người lùn, Orc, Troll, v.v.
 - HỆ THỐNG PHÉP THUẬT - các quy tắc đơn giản nhưng toàn diện cho các phép thuật.
 - HỆ THỐNG CHIẾN ĐẤU - thực tế và đầy hương vị, nhanh chóng và có thể chơi được.
 - HƯỚNG DẪN GAMEMASTER - tài liệu về du lịch, chạm trán, thời tiết, sự kiện ngẫu nhiên, chữa bệnh, thuốc độc và vật phẩm ma thuật.
 - SÁNG SINH VÀ CHỦNG TỘC - một phụ lục chi tiết bao gồm các quái thú, quái vật và các dân tộc chính.
-- PHIÊU LƯU MẪU - một cuộc phiêu lưu bắt đầu lấy bối cảnh trong Trollshaws, hoàn chỉnh với bố cục.
+- PHIÊU LƯU MẪU - một cuộc phiêu lưu bắt đầu lấy bối cảnh ở Xe đẩy, hoàn chỉnh với bố cục.
 
 MERP có thể được sử dụng với nhiều công cụ hỗ trợ trò chơi bao gồm:
 
-- SÁCH HƯỚNG DẪN CHIẾN DỊCH VÀ CUỘC PHIÊU LƯU CHO TRUNG ĐỊA;
+- SÁCH HƯỚNG DẪN CHIẾN DỊCH VÀ PHIÊU LƯU CHO TRUNG ĐỊA;
 - BẢN ĐỒ POST TRUNG ĐỊA;
 - MÀN HÌNH CHIẾN ĐẤU MERP;
 - Các mô-đun sẵn sàng chạy chứa các cuộc phiêu lưu dễ chơi.

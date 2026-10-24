@@ -17,15 +17,15 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Mines of Moria</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../T/The_Mines_of_Moria_(disambiguation).md" title="The Mines of Moria (disambiguation)">The Mines of Moria (disambiguation)</a></b>.</div></div>
 
-**Mỏ Moria** là bộ sưu tập gồm ba trò chơi điện tử. Hai trong số đó là trò chơi nền tảng dành cho Windows 3.x và một trong số đó là Trò chơi phiêu lưu văn bản dành cho MS-DOS.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Mines of Moria** là bộ sưu tập gồm ba trò chơi điện tử. Hai trong số đó là trò chơi nền tảng dành cho Windows 3.x và một trong số đó là Trò chơi phiêu lưu văn bản dành cho MS-DOS.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - [Mỏ Moria](<Mines_of_Moria_(video_game).md>)
-- [Mỏ Moria II: Cuộc tẩu thoát](Mines_of_Moria_II%253A_The_Escape_Out.md)
+- [Mines of Moria II: The Escape Out](Mines_of_Moria_II%253A_The_Escape_Out.md)
 - [Mỏ Moria 3](Mines_of_Moria_3.md)
 
 ## Tóm tắt {#Synopsis}
 
-[Feagwaith](../F/Feagwaith.md), một người đàn ông của [Gondor](../G/Gondor.md), đi vào khu mỏ của Moria để tìm một phần của *[Mithril](Mithril.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-El_Anillo_3-0" class="reference"><a href="#cite_note-El_Anillo-3">[3]</a></sup> Trong phần thứ hai của bộ ba phim, anh ta phải tìm đường thoát khỏi Moria.<sup id="cite_ref-El_Anillo_3-1" class="reference"><a href="#cite_note-El_Anillo-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Phần cuối không diễn ra ở [Moria](Moria.md) mà kể về chuyến hành trình của Feagwaith trở về quê hương, Gondor.<sup id="cite_ref-El_Anillo_3-2" class="reference"><a href="#cite_note-El_Anillo-3">[3]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+[Feagwaith](../F/Feagwaith.md), một người đàn ông của [Gondor](../G/Gondor.md), đi vào khu mỏ ở Moria để tìm một phần của *[Mithril](Mithril.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-El_Anillo_3-0" class="reference"><a href="#cite_note-El_Anillo-3">[3]</a></sup> Trong phần thứ hai của bộ ba, ông ta phải tìm đường thoát khỏi Moria.<sup id="cite_ref-El_Anillo_3-1" class="reference"><a href="#cite_note-El_Anillo-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Phần cuối không diễn ra ở [Moria](Moria.md) mà kể về chuyến hành trình của Feagwaith trở về quê hương của mình, Gondor.<sup id="cite_ref-El_Anillo_3-2" class="reference"><a href="#cite_note-El_Anillo-3">[3]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

@@ -12,9 +12,9 @@ categories:
   - "Songs (real-world)"
 ---
 
-**Silmesse** là một bài hát trong album [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)liên quan đến *[In Elven Lands](../I/In_Elven_Lands.md)* của [The Fellowship](<../T/The_Fellowship_(band).md>). Tiêu đề có nghĩa là "In the Moonlight" và lời bài hát được viết bởi [Helge Kåre Fauskanger](../H/Helge_Kåre_Fauskanger.md) trong [Neo-Quenya](../N/Neo-Elvish.md).
+**Silmesse** là một bài hát trong album liên quan đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) *[In Elven Lands](../I/In_Elven_Lands.md)* của [The Fellowship](<../T/The_Fellowship_(band).md>). Tiêu đề có nghĩa là "In the Moonlight" và lời bài hát được viết bởi [Helge Kåre Fauskanger](../H/Helge_Kåre_Fauskanger.md) trong [Neo-Quenya](../N/Neo-Elvish.md).
 
-## Elvish lời bài hát {#Elvish_lyrics}
+## Lời bài hát Elvis {#Elvish_lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Sinome háran i marya silmesse; <br/>

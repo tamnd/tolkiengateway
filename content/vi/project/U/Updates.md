@@ -12,7 +12,7 @@ categories:
   - "Tolkien Gateway"
 ---
 
-**Tolkien Gateway:Cập nhật** có các cập nhật và tin tức cụ thể cho Tolkien Gateway.
+**Cổng Tolkien:Bản cập nhật** có các bản cập nhật và tin tức cụ thể cho Cổng Tolkien.
 
 ## Cập nhật trang web {#Site_Updates}
 
@@ -39,7 +39,7 @@ categories:
 
 ### 2022 {#2022}
 
-- **2-9-22** - Tolkien Gateway vượt 100.000 lượt truy cập chỉ trong một ngày.
+- **2-9-22** - Tolkien Gateway vượt qua 100.000 lượt truy cập chỉ trong một ngày.
 - **27-8-22** - Đã nâng cấp lên MediaWiki phiên bản 1.35, giới thiệu logo mới và giao diện mới được thiết kế để giúp bài viết dễ đọc hơn trên thiết bị di động.
 - **18-8-22** - tolkien.wiki hiện có thể được sử dụng cho các địa chỉ trang web ngắn hơn, ví dụ là <a class="external free" href="https://tolkien.wiki/Gandalf" rel="noreferrer noopener" target="_blank">https://tolkien.wiki/Gandalf</a>
 
@@ -52,14 +52,14 @@ categories:
 - **07-08-11** - Với việc cài đặt tiện ích mở rộng Xác nhận, giờ đây người dùng ẩn danh có thể chỉnh sửa wiki.
 - **07-08-11** - Tiện ích mở rộng [Diễn đàn](https://tolkiengateway.net/wiki/Forums:Council) và Hộp đầu vào (nay là CreateBox) đã được sửa; các tiện ích mở rộng mới BreadCrumbs (để điều hướng dễ dàng hơn) và CategoryTree đã được thêm vào.
 - **07-08-11** - Chúng tôi đã nâng cấp thành công lên phiên bản mới của MediaWiki. Các tính năng mới bao gồm [Đặc biệt:So sánh các trang](https://tolkiengateway.net/wiki/Special:ComparePages) và đề xuất tìm kiếm.
-- **06-08-11** - "Ithilien"/"Cổng vào Ithilien" đã được tạo lại để sửa nhiều lỗi trong khi chạy trơn tru hơn với phiên bản MediaWiki mới. Giao diện bây giờ được gọi là "Mithilien" và là mặc định.
+- **06-08-11** - "Ithilien"/"Gateway to Ithilien" đã được làm lại để sửa nhiều lỗi đồng thời chạy mượt mà hơn với phiên bản mới của MediaWiki. Giao diện bây giờ được gọi là "Mithilien" và là mặc định.
 - **05-06-11** - Chức năng email đã được sửa, nghĩa là người dùng có thể gửi email cho nhau và người dùng mới sẽ nhận được email xác nhận.
 - **02-06-11** - Giờ đây chỉ những người dùng được tự động xác nhận (những người có số lần chỉnh sửa nhất định và đã đăng ký trong một khoảng thời gian nhất định) mới có thể tạo trang, tải hình ảnh lên và di chuyển bài viết.
 - **14-04-11** - Phần lớn các vấn đề về thời gian ngừng hoạt động đều được giải quyết.
-- **18-03-11** - Phần chân trang của trang phục Cavendish đã được tinh chỉnh để tiêu tốn ít không gian hơn. Ithilien skin: các danh mục bây giờ nằm ​​gọn trong phần thích hợp ở phía dưới; bóng xung quanh phía dưới đã được loại bỏ (vì nó cản trở); tiêu đề trang đã được chuyển lên ngang bằng với đầu thanh điều hướng; thanh công cụ trang được di chuyển để phù hợp với vị trí thích hợp của nó.
+- **18-03-11** - Phần chân trang của trang phục Cavendish đã được tinh chỉnh để tiêu tốn ít không gian hơn. Trang phục Ithilien: các danh mục hiện nằm ở vị trí thích hợp ở phía dưới; bóng xung quanh phía dưới đã được loại bỏ (vì nó cản trở); tiêu đề trang đã được chuyển lên ngang bằng với đầu thanh điều hướng; thanh công cụ trang được di chuyển để phù hợp với vị trí thích hợp của nó.
 - **16-03-11** - Tolkien Gateway đạt 9.000 bài! Làm tốt lắm mọi người!
 - **04-02-11** - Các tiện ích mở rộng EmbedVideo, Editcount, ImageMap và Stringfunctions đều đã được cài đặt. Sự cố trong nhật ký tạo người dùng đã được sửa. Công cụ chỉnh sửa đã được mở rộng với nhiều nút hơn.
-- **03-02-11** - [Mith](https://tolkiengateway.net/wiki/User:Mith) đã bắt đầu làm việc trên [Việc cần làm về mặt kỹ thuật](../T/Technical_To-do.md): kích hoạt lại <a class="extiw" href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets" title="wikipedia:Cascading Style Sheets">css</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/JavaScript" title="wikipedia:JavaScript">js</a> trên toàn trang web và người dùng (bao gồm cả việc đánh dấu các tài liệu tham khảo); khôi phục các nút chỉnh sửa và CharInsert; loại bỏ các hộp thừa xung quanh các danh mục; sửa lỗi điều hướng trong giao diện Ithilien; và cung cấp liên kết tới "Hộp cát của tôi" trong Thanh công cụ cá nhân.
+- **03-02-11** - [Mith](https://tolkiengateway.net/wiki/User:Mith) đã bắt đầu làm việc trên [Việc cần làm về mặt kỹ thuật](../T/Technical_To-do.md): kích hoạt lại toàn bộ trang web và người dùng <a class="extiw" href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets" title="wikipedia:Cascading Style Sheets">css</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/JavaScript" title="wikipedia:JavaScript">js</a> (bao gồm cả việc đánh dấu các tài liệu tham khảo); khôi phục các nút chỉnh sửa và CharInsert; loại bỏ các hộp thừa xung quanh các danh mục; sửa lỗi điều hướng trong giao diện Ithilien; và cung cấp liên kết tới "Hộp cát của tôi" trong Thanh công cụ cá nhân.
 
 ### 2010 {#2010}
 
@@ -77,14 +77,14 @@ categories:
 - **30-12-08** - Dịch vụ MySQL cảm thấy cô đơn và muốn được chú ý nên đã quyết định ngừng hoạt động :( Cảm ơn bạn đã kiên trì ở đó!
 - **09-10-08** - Một trong các bảng cơ sở dữ liệu của chúng tôi đã bị lỗi vào hôm nay tuy nhiên vấn đề đã được giải quyết. Xin lỗi vì bất kỳ sự bất tiện nào.
 - **15-09-08** - Thật không may, hôm nay chúng tôi đã gặp phải một số sự cố lớn về phần cứng, tuy nhiên chúng đã được giải quyết và không có thông tin nào bị mất.
-- **26-08-08** - Giao diện Ithilien hiện là mặc định cho các trình duyệt FireFox, Opera và IE 7.0. Bạn có thể thay đổi giao diện của mình tại [Đặc biệt:Preferences](https://tolkiengateway.net/wiki/Special:Preferences).
+- **26-08-08** - Giao diện Ithilien hiện là giao diện mặc định cho các trình duyệt FireFox, Opera và IE 7.0. Bạn có thể thay đổi giao diện của mình tại [Đặc biệt:Preferences](https://tolkiengateway.net/wiki/Special:Preferences).
 - **21-08-08** - Quá trình nâng cấp đã hoàn tất và chúng tôi hiện đang nỗ lực sửa một số lỗi cũng như cài đặt một số tính năng mới, nếu bạn nhận thấy bất kỳ điều gì kỳ lạ, vui lòng báo cáo trên [trang thảo luận của Hyarion](https://tolkiengateway.net/wiki/User_talk:Hyarion).
 - **21-08-08** - Chúng tôi sẽ sớm nâng cấp phần mềm hỗ trợ wiki, điều này sẽ cho phép chúng tôi kết hợp nhiều tính năng mới vào trang web. Sẽ có một số thời gian ngừng hoạt động, khoảng từ 10-30 phút và có thể có một số lỗi sau khi quá trình nâng cấp hoàn tất, hãy chờ nhé. Trong thời gian chờ đợi, vui lòng tham gia [phòng trò chuyện](../C/Chat.md).
 - **20-08-08** - Thật không may, hôm nay MySQL đã gặp một số vấn đề tuy nhiên vấn đề đã được giải quyết.
 - **17-08-08** - Xin nhắc lại, cuộc họp đầu tiên hàng tuần của chúng ta sẽ diễn ra hôm nay trên IRC lúc 3 giờ chiều Miền Đông. Để biết thêm thông tin, hãy xem [Tolkien\_Gateway:Meetings](../M/Meetings.md).
 - **12-07-08** - Tolkien Gateway đã vượt ngưỡng 7000 bài!
 - **01-07-08** - Thật không may, chúng tôi đã gặp một số sự cố về điện với máy chủ tại trung tâm dữ liệu vào sáng sớm nay, xin lỗi mọi người về điều đó.
-- **30-04-08** - Chúng tôi đã công khai khởi động dự án mới nhất của mình, bản đồ Trái đất với các điểm đánh dấu cho bất kỳ vị trí nào liên quan đến J.R.R. Tolkien và các tác phẩm của anh ấy. Chúng tôi sẽ tiếp tục bổ sung thêm nhiều điểm và tính năng hơn vào bản đồ. Hãy theo dõi! <a class="external text" href="http://tolkiengateway.net/map/" rel="noreferrer noopener" target="_blank">Xem bản đồ</a>
+- **30-04-08** - Chúng tôi đã công khai khởi động dự án mới nhất của mình, bản đồ Trái đất với các điểm đánh dấu cho bất kỳ vị trí nào liên quan đến J.R.R. Tolkien và các tác phẩm của ông. Chúng tôi sẽ tiếp tục bổ sung thêm nhiều điểm và tính năng hơn vào bản đồ. Hãy theo dõi! <a class="external text" href="http://tolkiengateway.net/map/" rel="noreferrer noopener" target="_blank">Xem bản đồ</a>
 - **14-04-08** - Chúng tôi đã gặp một số sự cố kỹ thuật với máy chủ trong vài ngày qua, cảm ơn bạn đã kiên nhẫn chờ đợi, chúng tôi nghĩ mình đã giải quyết được vấn đề đó.
 - **02-02-08** - Ôi. Bất cứ điều gì có thể sai, đã sai. Chúng tôi vô cùng xin lỗi về thời gian ngừng hoạt động trong vài ngày qua, thật xấu hổ khi nghĩ rằng mọi thứ sẽ diễn ra suôn sẻ. Cảm ơn bạn đã kiên trì ở đó, bây giờ chúng ta hãy chuyển sang tin tốt. Không có dữ liệu nào bị mất và chúng tôi hiện đang chạy trên một máy chủ hoàn toàn mới với PHP5, đồng thời chúng tôi sẽ bắt đầu nâng cấp phần mềm MediaWiki và thêm một số tiện ích mở rộng mới thú vị trong những tuần tới.
 - **29-01-08** - Do sự phát triển nhanh chóng của Tolkien Gateway, chúng tôi sẽ chuyển sang máy chủ lõi tứ mới với 8 gigabyte RAM. Vì lý do đồng bộ hóa dữ liệu, ngày mai chúng tôi sẽ khóa cơ sở dữ liệu trong quá trình di chuyển, điều đó có nghĩa là việc chỉnh sửa có thể bị vô hiệu hóa. Chúng tôi sẽ có mặt tại ngôi nhà mới và hoạt động đầy đủ vào thứ Tư.
@@ -131,7 +131,7 @@ categories:
 ### 2005 {#2005}
 
 - Một <a class="external text" href="http://tolkiengateway.net/w/index.php?title=Main_Page&amp;useskin=dusk" rel="noreferrer noopener" target="_blank">da mới</a> đã được thêm vào. Để chuyển sang giao diện đó vĩnh viễn, chỉ cần đi tới tùy chọn của bạn sau khi đăng nhập.
-- Tôi đã thêm [một trang để các biên tập viên thảo luận Tolkien Gateway](https://tolkiengateway.net/wiki/Forums:Council).
+- Tôi đã thêm [một trang để các biên tập viên thảo luận về Cổng Tolkien](https://tolkiengateway.net/wiki/Forums:Council).
 - Tolkien Gateway hiện đang cung cấp dịch vụ lưu trữ trang web và trò chuyện IRC miễn phí cho các trang web Tolkien được chọn, vui lòng gửi email tới hyarion \[at\] hyarion \[dot\] net để biết thêm chi tiết.
-- Sau một thời gian ngừng hoạt động, hiện tại chúng tôi đã chuyển sang máy chủ mới thành công.
+- Sau một thời gian ngừng hoạt động, hiện tại chúng tôi đã di chuyển sang máy chủ mới thành công.
 - Bây giờ bạn có thể [Xem hình ảnh được tải lên gần đây](https://tolkiengateway.net/wiki/Special:NewFiles). Nếu bạn có tài khoản, vui lòng [Tải hình ảnh của riêng bạn lên](https://tolkiengateway.net/wiki/Special:Upload).

@@ -59,18 +59,18 @@ infobox:
         - Bởi: David Willey
     - "Đánh giá về Buổi học cuối cùng của Freud (Phim), đạo diễn Matt Brown"
         - Bởi: Harry Lee Poe
-    - "Đánh giá về ấn bản có chú thích của Wade về Người đàn ông sinh ra để trở thành Vua của Dorothy L. Sayers, chú thích của Kathryn Wehr"
+    - "Đánh giá về ấn bản có chú thích của Wade về Người đàn ông sinh ra để làm vua của Dorothy L. Sayers, chú thích của Kathryn Wehr"
         - Bởi: Carolyn Weber
-    - "Đánh giá về Tài năng Tài năng của David Bratman"
+    - "Đánh giá về những tài năng nghiệp dư của David Bratman"
         - Bởi: Giovanni Carmine Costabile
     - "Đánh giá về Trận chiến Maldon cùng với Sự trở lại của Beorhtnoth của J.R.R. Tolkien, được biên tập bởi Peter Grybauskas"
         - Bởi: David Llewellyn Dodds
-    - "Đánh giá về niềm tin Tolkien của Holly Ordway"
+    - "Đánh giá về đức tin của Tolkien bởi Holly Ordway"
         - Bởi: Joel Scandrett
 - Sách ghi chú
     - "Something Has Gone Crack": Những góc nhìn mới về J.R.R. Tolkien trong cuộc Đại chiến
         - Bởi: Chloe DuBois
-    - The Fall of Númenor
+    - Sự sụp đổ của Númenor
         - Bởi: Joel D. Ruark<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 39</div></div><div class="template-prevnext__linkoverlay"><a href="SEVEN_39.md" title="SEVEN 39">SEVEN 39</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 40</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 40</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a class="mw-selflink selflink">SEVEN 40</a></div></div></div>

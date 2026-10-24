@@ -20,7 +20,7 @@ images:
 
 Vào [23 tháng 12](../_/23_December.md) [1934](../_/1934.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [G.H. Cowling](../G/G.H._Cowling.md)**.<sup id="cite_ref-Bay_1-0" class="reference"><a href="#cite_note-Bay-1">[1]</a></sup>
 
-- **Chủ đề:** Tolkien giải thích sự trì hoãn và nỗi kinh hoàng khi viết thư của anh ấy. Anh ấy cảm ơn Cowling vì một bản sao của Chaucer và chúc anh ấy một Giáng sinh vui vẻ.<sup id="cite_ref-Bay_1-1" class="reference"><a href="#cite_note-Bay-1">[1]</a></sup> Bức thư đáng chú ý là có nhắc đến cái tên *[Bingo](../B/Bingo_Baggins.md#Other_versions_of_the_Legendarium)* trong phần tái bút.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- **Chủ đề:** Tolkien giải thích sự trì hoãn và nỗi kinh hoàng của mình khi viết thư. Ông cảm ơn Cowling vì một bản sao của Chaucer và chúc ông một Giáng sinh vui vẻ.<sup id="cite_ref-Bay_1-1" class="reference"><a href="#cite_note-Bay-1">[1]</a></sup> Bức thư đáng chú ý là có nhắc đến cái tên *[Bingo](../B/Bingo_Baggins.md#Other_versions_of_the_Legendarium)* trong phần tái bút.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - **Xuất bản:** Không có.
 - **Mô tả:** Thư viết tay hai trang, [20 Northmoor Road](../_/20_Northmoor_Road.md) [Oxford](../O/Oxford.md).<sup id="cite_ref-Bay_1-2" class="reference"><a href="#cite_note-Bay-1">[1]</a></sup>
 

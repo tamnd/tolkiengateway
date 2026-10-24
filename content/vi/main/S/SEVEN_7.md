@@ -47,7 +47,7 @@ infobox:
     - Bởi: Kath Filmer
 - "Xoa dịu các vị thần trong C.S. Lewis's *Till We Have Faces*"
     - Bởi: Peter W. Macky
-- "Tolkien Khái niệm ngữ văn như thần thoại"
+- "Khái niệm ngữ văn như thần thoại của Tolkien"
     - Bởi: [J.S. Ryan](../J/John_Ryan.md)
 - "Dorothy L. Sayers và công việc đúng đắn của nhà viết kịch "
     - Bởi: George Ralph

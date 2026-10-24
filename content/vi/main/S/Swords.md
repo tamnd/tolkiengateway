@@ -28,37 +28,37 @@ images:
 
 ### Ainur {#Ainur}
 
-[Manwë](../M/Manwë.md) sử dụng [một thanh kiếm](Sword_of_Manwë.md) trong [Chiến tranh quyền lực](../W/War_of_the_Powers.md). Sau đó nó được trao cho sứ giả của anh ấy [Eönwë](../E/Eönwë.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Gandalf](../G/Gandalf.md) cũng bắt đầu sử dụng thanh kiếm yêu tinh [Glamdring](../G/Glamdring.md) sau khi sở hữu nó.<sup id="cite_ref-Mutton_2-0" class="reference"><a href="#cite_note-Mutton-2">[2]</a></sup> [Tai Họa của Durin](../D/Durin's_Bane.md) cũng mang theo một thanh kiếm rực lửa.<sup id="cite_ref-Bridge_3-0" class="reference"><a href="#cite_note-Bridge-3">[3]</a></sup>
+[Manwë](../M/Manwë.md) sử dụng [một thanh kiếm](Sword_of_Manwë.md) trong [Chiến tranh quyền lực](../W/War_of_the_Powers.md). Sau đó nó được trao cho sứ giả của ông ta [Eönwë](../E/Eönwë.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Gandalf](../G/Gandalf.md) cũng sử dụng thanh kiếm yêu tinh [Glamdring](../G/Glamdring.md) sau khi sở hữu nó.<sup id="cite_ref-Mutton_2-0" class="reference"><a href="#cite_note-Mutton-2">[2]</a></sup> [Durin's Bane](../D/Durin's_Bane.md) cũng mang theo một thanh kiếm rực lửa.<sup id="cite_ref-Bridge_3-0" class="reference"><a href="#cite_note-Bridge-3">[3]</a></sup>
 
-### Tiên tộc {#Elves}
+### Yêu tinh {#Elves}
 
-[Noldor](../N/Noldor.md) bắt đầu rèn kiếm để đáp lại những lời dối trá được lan truyền giữa họ bởi [Melkor](../M/Melkor.md). [Fëanor](../F/Fëanor.md) đã tạo ra một vài chiếc cho chính mình và [các con trai](Sons_of_Fëanor.md) của mình, đặc biệt là dùng kiếm của mình để dọa giết người em cùng cha khác mẹ [Fingolfin](../F/Fingolfin.md).<sup id="cite_ref-Silmarils_4-0" class="reference"><a href="#cite_note-Silmarils-4">[4]</a></sup> Chủ nhà của Noldor cũng sử dụng kiếm trong [Kinslaying tại Alqualondë](../K/Kinslaying_at_Alqualondë.md), trong khi [Falmari](../F/Falmari.md) phe đối lập không có bất kỳ dụng cụ nào như vậy.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Trong số những lưỡi kiếm đáng chú ý nhất của Noldor là [Ringil](../R/Ringil.md), lưỡi kiếm Fingolfin mà anh ta sử dụng trong [đụng độ](../F/Fall_of_Fingolfin.md) với Morgoth.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+[Noldor](../N/Noldor.md) bắt đầu rèn kiếm để đáp lại những lời dối trá do [Melkor](../M/Melkor.md) lan truyền giữa họ. [Fëanor](../F/Fëanor.md) đã tạo ra nhiều thanh kiếm cho bản thân và [các con trai](Sons_of_Fëanor.md) của mình, đặc biệt là sử dụng thanh kiếm của mình để đe dọa người anh em cùng cha khác mẹ [Fingolfin](../F/Fingolfin.md) bằng cái chết.<sup id="cite_ref-Silmarils_4-0" class="reference"><a href="#cite_note-Silmarils-4">[4]</a></sup> Chủ nhà của Noldor cũng sử dụng kiếm trong [Kinslaying tại Alqualondë](../K/Kinslaying_at_Alqualondë.md), còn [Falmari](../F/Falmari.md) đối lập không có thanh kiếm nào như vậy dụng cụ.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Trong số những lưỡi kiếm đáng chú ý nhất của Noldor là [Ringil](../R/Ringil.md), lưỡi kiếm của Fingolfin mà ông ta sử dụng trong [cuộc đụng độ](../F/Fall_of_Fingolfin.md) với Morgoth.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Lo sợ sự trở lại của Melkor, Vua [Thingol](../T/Thingol.md) của [Sindar](Sindar.md) đã tìm kiếm sự trợ giúp của [Người Lùn](../D/Dwarves.md) của [Nogrod](../N/Nogrod.md) và [Belegost](../B/Belegost.md). Những thứ này cung cấp cho yêu tinh của [Doriath](../D/Doriath.md) nhiều vũ khí, bao gồm cả kiếm.<sup id="cite_ref-Sindar_7-0" class="reference"><a href="#cite_note-Sindar-7">[7]</a></sup> [Eöl](../E/Eöl.md), những người đã học được nghề của Người lùn thợ rèn<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>, đã tạo ra hai thanh kiếm [Anglachel](../A/Anglachel.md) và [Anguirel](../A/Anguirel.md) từ sắt của thiên thạch. Anglachel đã được trao cho Vua Thingol dưới dạng thanh toán cho việc Eöl được phép cư trú tại [Nan Elmoth](../N/Nan_Elmoth.md). Thanh kiếm của Thingol là [Aranrúth](../A/Aranrúth.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Lo sợ sự trở lại của Melkor, Vua [Thingol](../T/Thingol.md) của [Sindar](Sindar.md) đã tìm kiếm sự trợ giúp của [Người lùn](../D/Dwarves.md) của [Nogrod](../N/Nogrod.md) và [Belegost](../B/Belegost.md). Những thứ này cung cấp cho yêu tinh của [Doriath](../D/Doriath.md) nhiều vũ khí, bao gồm cả kiếm.<sup id="cite_ref-Sindar_7-0" class="reference"><a href="#cite_note-Sindar-7">[7]</a></sup> [Eöl](../E/Eöl.md), người đã học được nghề của thợ rèn Người lùn<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>, đã chế tạo ra hai thanh kiếm [Anglachel](../A/Anglachel.md) và [Anguirel](../A/Anguirel.md) từ sắt của thiên thạch. Anglachel được trao cho Vua Thingol như một khoản thanh toán cho việc Eöl được phép cư trú tại [Nan Elmoth](../N/Nan_Elmoth.md). Thanh kiếm của Thingol là [Aranrúth](../A/Aranrúth.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
-Eöl giữ quyền sở hữu Anguirel cho đến khi nó bị con trai ông [Maeglin](../M/Maeglin.md) đánh cắp và đưa đến [Gondolin](../G/Gondolin.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Gondolin cũng từng là nhà của những thanh kiếm bạn đời Glamdring và [Orcrist](../O/Orcrist.md)<sup id="cite_ref-South_11-0" class="reference"><a href="#cite_note-South-11">[11]</a></sup>, trước đây là vũ khí của Vua [Turgon](../T/Turgon.md).<sup id="cite_ref-shortrest_12-0" class="reference"><a href="#cite_note-shortrest-12">[12]</a></sup> Turgon cũng sẽ để lại một thanh kiếm ở trong nhà [Vinyamar](../V/Vinyamar.md) với giá thầu [Ulmo](../U/Ulmo.md) là một trong những mã thông báo sẽ xác định sứ giả được gửi bởi Chúa của Biển.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+Eöl giữ quyền sở hữu Anguirel cho đến khi nó bị con trai [Maeglin](../M/Maeglin.md) đánh cắp và đưa đến [Gondolin](../G/Gondolin.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Gondolin cũng từng là quê hương của hai thanh kiếm Glamdring và [Orcrist](../O/Orcrist.md)<sup id="cite_ref-South_11-0" class="reference"><a href="#cite_note-South-11">[11]</a></sup>, trước đây là vũ khí của chính Vua [Turgon](../T/Turgon.md).<sup id="cite_ref-shortrest_12-0" class="reference"><a href="#cite_note-shortrest-12">[12]</a></sup> Turgon cũng sẽ để lại một thanh kiếm ở [Vinyamar](../V/Vinyamar.md) theo yêu cầu của [Ulmo](../U/Ulmo.md) là một trong những dấu hiệu có thể xác định sứ giả được Chúa biển gửi đến.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
-### Người Lùn {#Dwarves}
+### Người lùn {#Dwarves}
 
-Do tính cách hiếu chiến, Người Lùn đã rèn và sử dụng kiếm từ rất sớm trong lịch sử của họ.<sup id="cite_ref-Sindar_7-1" class="reference"><a href="#cite_note-Sindar-7">[7]</a></sup> Thanh kiếm [Narsil](../N/Narsil.md) được rèn bởi Người lùn [Telchar](../T/Telchar.md)<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> [Thorin Oakenshield](../T/Thorin_Oakenshield.md) cũng đã sử dụng thanh kiếm yêu tinh [Orcrist](../O/Orcrist.md) sau khi sở hữu nó.<sup id="cite_ref-Mutton_2-1" class="reference"><a href="#cite_note-Mutton-2">[2]</a></sup>
+Do thói quen hiếu chiến, Người lùn đã rèn và sử dụng kiếm từ rất sớm trong lịch sử của họ.<sup id="cite_ref-Sindar_7-1" class="reference"><a href="#cite_note-Sindar-7">[7]</a></sup> Thanh kiếm [Narsil](../N/Narsil.md) được rèn bởi Người lùn [Telchar](../T/Telchar.md)<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> [Thorin Oakenshield](../T/Thorin_Oakenshield.md) cũng đã sử dụng thanh kiếm yêu tinh [Orcrist](../O/Orcrist.md) sau khi sở hữu nó.<sup id="cite_ref-Mutton_2-1" class="reference"><a href="#cite_note-Mutton-2">[2]</a></sup>
 
-### Con Người {#Men}
+### Đàn ông {#Men}
 
-[Tuor](../T/Tuor.md) sẽ lấy lại thanh kiếm mà Vinyamar để lại ở Turgon sau khi được Ulmo chọn làm sứ giả của mình.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
+[Tuor](../T/Tuor.md) sẽ lấy lại thanh kiếm mà Turgon để lại ở Vinyamar sau khi được Ulmo chọn làm sứ giả của ông ta.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
 
-Trong [Kỷ nguyên thứ hai](Second_Age.md), Aranrúth bị chiếm hữu bởi [Các vị vua của Númenor](../K/King_of_Númenor.md), hậu duệ của vua Thingol đến [Elwing](../E/Elwing.md) mẹ của [Elros](../E/Elros.md). Nó đã không tồn tại được trong [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md).<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+Trong [Kỷ nguyên thứ hai](Second_Age.md), Aranrúth bị chiếm hữu bởi [Các vị vua của Númenor](../K/King_of_Númenor.md), hậu duệ của vua Thingol thông qua [Elwing](../E/Elwing.md) mẹ của [Elros](../E/Elros.md). Nó đã không thể tồn tại sau [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md).<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
 
 [Boromir](../B/Boromir.md) mang một thanh kiếm thuộc dòng dõi thấp hơn nhưng có thiết kế tương tự [Andúril](../A/Andúril.md).<sup id="cite_ref-South_11-1" class="reference"><a href="#cite_note-South-11">[11]</a></sup>
 
-### Orc {#Orcs}
+### Tộc Orc {#Orcs}
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="Scimitar.md" title="Scimitar">Scimitar</a></div></div>
 
-Thay vì những thanh mã tấu cong thường được Orc sử dụng, những [Uruk-hai](../U/Uruk-hai.md) trung thành với [Saruman](Saruman.md) có những thanh kiếm ngắn, lưỡi rộng.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
+Thay vì những thanh mã tấu cong thường được lũ Orc sử dụng, [Uruk-hai](../U/Uruk-hai.md) trung thành với [Saruman](Saruman.md) có những thanh kiếm ngắn, lưỡi rộng.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
 
-### Troll {#Trolls}
+### Quỷ lùn {#Trolls}
 
-Gandalf nhận thấy rằng Glamdring và Orcrist không phải do bọn troll tạo ra.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
+Gandalf nhận ra rằng Glamdring và Orcrist không phải do quỷ lùn tạo ra.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
 
 ## Những thanh kiếm nổi tiếng {#Famous_swords}
 
@@ -66,7 +66,7 @@ Gandalf nhận thấy rằng Glamdring và Orcrist không phải do bọn troll 
 - **[Anguirel](../A/Anguirel.md)**
 - **[Aranrúth](../A/Aranrúth.md)**
 - **[Dao găm](../D/Dagmor.md)**
-- **[Glamdring](../G/Glamdring.md)**
+- **[Sự quyến rũ](../G/Glamdring.md)**
 - **[Gúthwinë](../G/Gúthwinë.md)**
 - **[Herugrim](../H/Herugrim.md)**
 - **[Narsil](../N/Narsil.md)/[Andúril](../A/Andúril.md)**

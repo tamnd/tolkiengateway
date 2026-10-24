@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dragon Flame"
 ---
 
-Chuyển hướng đến [Rồng Ngọn lửa](Dragon_Flame.md).
+Chuyển hướng tới [Ngọn lửa rồng](Dragon_Flame.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Making of Middle-earth: A New Look Inside the World of J.R.R. Tolkien"
 ---
 
-Chuyển hướng tới [Quá trình hình thành Trung Địa: Một cái nhìn mới bên trong thế giới J.R.R. Tolkien](The_Making_of_Middle-earth%253A_A_New_Look_Inside_the_World_of_J.R.R._Tolkien.md).
+Chuyển hướng đến [The Making of Middle-earth: A New Look Inside the World of J.R.R. Tolkien](The_Making_of_Middle-earth%253A_A_New_Look_Inside_the_World_of_J.R.R._Tolkien.md).

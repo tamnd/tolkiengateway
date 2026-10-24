@@ -17,7 +17,7 @@ images:
 **Tolman Cotton** đề cập đến hai thành viên của [Gia đình Cotton](../C/Cotton_Family~66362.md):
 
 - [Tolman Cotton Senior](Tolman_Cotton_Senior.md) ([S.R.](../S/Shire_Reckoning.md) [1341](Third_Age_2941.md) - [S.R.](../S/Shire_Reckoning.md) [1440](../F/Fourth_Age_19.md)), cha của [Rose Cotton](../R/Rose_Cotton.md).
-- [Tolman Cotton Junior](Tolman_Cotton_Junior.md) ([S.R.](../S/Shire_Reckoning.md) [1380](Third_Age_2980.md)), anh cả của [Rose Cotton](../R/Rose_Cotton.md).
+- [Tolman Cotton Junior](Tolman_Cotton_Junior.md) ([S.R.](../S/Shire_Reckoning.md) [1380](Third_Age_2980.md)), [Anh cả của Rose Cotton](../R/Rose_Cotton.md).
 
 ## Xem thêm {#See_also}
 

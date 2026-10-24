@@ -34,13 +34,13 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Lewis đã đi du lịch khắp nước Anh để thuyết trình về [tôn giáo Cơ đốc](../C/Christianity.md) tại các đài của RAF và bị ốm. Tolkien rất tiếc khi biết rằng Lewis đã bị ốm và không có U.Q.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup> nào cho thấy đây là căn bệnh cuối cùng của anh ấy! Cuộc họp vào thứ Tư của họ chắc hẳn là một nhiệm vụ vì dường như có quá nhiều trở ngại và những thủ đoạn quỷ quái chống lại nó.
+Lewis đã đi du lịch khắp nước Anh để thuyết trình về [tôn giáo Cơ đốc](../C/Christianity.md) tại các đài của RAF và bị ốm. Tolkien rất tiếc khi biết rằng Lewis đã bị ốm và không có U.Q.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[notes 1]</a></sup> nào cho thấy đây là căn bệnh cuối cùng của ông! Cuộc họp vào thứ Tư của họ chắc hẳn là một nhiệm vụ vì dường như có rất nhiều trở ngại và những thủ đoạn quỷ quái chống lại nó.
 
 Ridley<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[notes 2]</a></sup> quá kinh ngạc trước sự thiếu hiểu biết của tất cả các học viên của mình đến nỗi ông chớp lấy cơ hội thêm một giờ nữa.
 
-Tolkien sợ rằng Lewis đã cố gắng quá nhiều và khiến bản thân trở nên mệt mỏi, dễ trở thành nạn nhân của bệnh tật. Anh ấy hy vọng có thể thuyết phục Lewis giảm bớt chuyến đi của mình để giúp đỡ các học viên. Những nỗ lực của Tolkien đã không thành công và anh ấy cần Lewis. Tolkien đã ký vào thư "T"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[notes 3]</a></sup>
+Tolkien lo sợ rằng Lewis đã cố gắng quá nhiều và khiến bản thân trở nên mệt mỏi, dễ trở thành nạn nhân của bệnh tật. Ông hy vọng có thể thuyết phục Lewis giảm bớt chuyến đi của mình để giúp đỡ các học viên. Những nỗ lực của Tolkien đã không thành công và ông cần Lewis. Tolkien đã ký bức thư "T"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[notes 3]</a></sup>
 
-Trong phần tái bút Tolkien nói rằng Ridley có một bài kiểm tra trong đó câu hỏi đầu tiên liệt kê một nhóm từ cần xác định. Học viên *Not one* đã đoán đúng *any* số từ.
+Trong phần tái bút, Tolkien nói rằng Ridley có một bài kiểm tra trong đó câu hỏi đầu tiên liệt kê một nhóm từ cần xác định. Học viên *Not one* đã đoán đúng *any* số từ.
 
 ## Ghi chú {#Notes}
 

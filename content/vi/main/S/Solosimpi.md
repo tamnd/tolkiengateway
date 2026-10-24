@@ -16,15 +16,15 @@ sort_keys:
   "Solosimpi": " "
 ---
 
-**Solosimpi** ("Pipers of the Shores") là một chủng tộc Tiên ở phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Họ là tiền thân của [Falmari](../F/Falmari.md) trong các phiên bản sau, trong khi tên *[Teleri](../T/Teleri.md)* được đặt cho tộc [Tiên tộc](../E/Elves.md) được gọi là [Vanyar](../V/Vanyar.md).
+**Solosimpi** ("Pipers of the Shores") là một chủng tộc Yêu tinh trong phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Họ là tiền thân của [Falmari](../F/Falmari.md) trong các phiên bản sau, trong khi tên *[Teleri](../T/Teleri.md)* được đặt cho tộc [Yêu tinh](../E/Elves.md) được gọi là [Vanyar](../V/Vanyar.md).
 
 ## Lịch sử {#History}
 
-Thủ lĩnh của họ là [Tinwelint](../T/Tinwelint.md) nhưng sau khi anh ta bị lạc, họ đã chọn [Ellu Melemno](../E/Ellu.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Thủ lĩnh của họ là [Tinwelint](../T/Tinwelint.md) nhưng sau khi ông ta bị lạc, họ đã chọn [Ellu Melemno](../E/Ellu.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Solosimpi cư trú tại [Kopas Alqaluntë](../K/Kopas_Alqaluntë.md) nhưng nhiều người đã bị [tàn sát](../K/Kinslaying_at_Alqualondë.md) bởi [Gnomes](../G/Gnomes.md) dưới [Fëanor](../F/Fëanor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Người Solosimpi cư trú ở [Kopas Alqaluntë](../K/Kopas_Alqaluntë.md) nhưng nhiều người đã bị [tàn sát](../K/Kinslaying_at_Alqualondë.md) bởi [Gnomes](../G/Gnomes.md) dưới quyền [Fëanor](../F/Fëanor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Vũ khí ưa thích của họ là [cung](../B/Bow.md) và mũi tên, trái ngược với giáo của [Teleri](../V/Vanyar.md) và kiếm của Gnomes.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Vũ khí ưa thích của họ là [cung](../B/Bow.md) và mũi tên, trái ngược với giáo của [Teleri](../V/Vanyar.md) và kiếm của người Gnomes.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"*[The Argonath](../../main/A/Argonath.md)*", bởi [Donato Giancola](../../main/D/Donato_Giancola.md)
+"*[The Argonath](../../main/A/Argonath.md)*", của [Donato Giancola](../../main/D/Donato_Giancola.md)
 
 ## Giấy phép {#Licensing}
 

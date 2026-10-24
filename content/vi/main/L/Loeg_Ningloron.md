@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gladden Fields"
 ---
 
-Chuyển hướng đến [Gladden Fields](../G/Gladden_Fields.md).
+Chuyển hướng đến [Cánh đồng Gladden](../G/Gladden_Fields.md).

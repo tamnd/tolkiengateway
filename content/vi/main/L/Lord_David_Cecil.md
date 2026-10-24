@@ -23,7 +23,7 @@ langlinks:
     url: "https://kontu.wiki/David_Cecil"
 ---
 
-**Lord Edward Christian David Gascoyne-Cecil** ([9 tháng 4](../_/9_April.md), [1902](../_/1902.md) – [1 tháng 1](../_/1_January.md), [1986](../_/1986.md)), là một quý tộc người Anh, học giả văn học, người viết tiểu sử và học giả. Anh ấy cũng là bạn [Inkling](../I/Inklings.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Danh hiệu của ông là một danh hiệu lịch sự: ông là con trai nhỏ của Nữ hầu tước thứ 4 của Salisbury.
+**Lord Edward Christian David Gascoyne-Cecil** ([9 tháng 4](../_/9_April.md), [1902](../_/1902.md) – [1 tháng 1](../_/1_January.md), [1986](../_/1986.md)), là một quý tộc người Anh, học giả văn học, người viết tiểu sử và học giả. Ông cũng là bạn [Inkling](../I/Inklings.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Danh hiệu của ông là một danh hiệu lịch sự: ông là con trai nhỏ của Nữ hầu tước thứ 4 của Salisbury.
 
 ## Liên kết ngoài {#External_links}
 

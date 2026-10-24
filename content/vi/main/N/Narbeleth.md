@@ -15,7 +15,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-**Narbeleth** có nghĩa là "mặt trời lặn" và là tên thay thế cho mùa [Sindarin](../S/Sindarin.md) của [Firith](../F/Firith.md) hoặc cuối mùa thu. Nó cũng là tên Sindarin cho tháng thứ mười trong năm trong lịch [Vua Tính toán](../K/King's_Reckoning.md) và [Tính toán của Quản lý](../S/Stewards'_Reckoning.md) và tháng thứ bảy trong năm trong lịch [Tính toán mới](New_Reckoning.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Narbeleth** có nghĩa là "mặt trời lặn" và là tên thay thế cho mùa [Sindarin](../S/Sindarin.md) của [Firith](../F/Firith.md), hay cuối mùa thu. Nó cũng là tên Sindarin cho tháng thứ mười trong năm trong lịch [Tính toán của nhà vua](../K/King's_Reckoning.md) và [Tính toán của người quản lý](../S/Stewards'_Reckoning.md) và tháng thứ bảy trong năm trong [Tính toán mới](New_Reckoning.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="Narquelië.md" title="Narquelië">Narquelië</a></div></div>
 

@@ -16,7 +16,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Théoden.md" title="Théoden">Théoden</a></b></div></div>
 
-**Thengling** là tên được sử dụng trong bài thơ [Song of the Mounds of Mundburg](../S/Song_of_the_Mounds_of_Mundburg.md), dùng để chỉ cái chết của [Théoden](Théoden.md) tại [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Nó xác định Théoden bằng tên của cha anh [Thengel](Thengel.md) với phần cuối nhỏ gọn là 'ling' để biểu thị anh là con của Thengel.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Thengling** là tên được sử dụng trong bài thơ [Bài hát của các gò đất Mundburg](../S/Song_of_the_Mounds_of_Mundburg.md), dùng để chỉ cái chết của [Théoden](Théoden.md) trong [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Nó xác định Théoden bằng tên của cha anh [Thengel](Thengel.md) với phần cuối nhỏ gọn là 'ling' để biểu thị anh là con của Thengel.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

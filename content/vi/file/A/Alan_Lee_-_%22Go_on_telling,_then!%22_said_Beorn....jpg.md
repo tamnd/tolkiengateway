@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-““Vậy kể tiếp đi!” đã nói [Beorn](../../main/B/Beorn.md)..." bởi [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+““Vậy kể tiếp đi!” đã nói [Beorn](../../main/B/Beorn.md)..." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

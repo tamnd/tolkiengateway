@@ -25,13 +25,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 143d</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a href="../R/Rayner_Unwin.md" title="Rayner Unwin">Rayner Unwin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/26_March.md" title="26 March">26 March</a> <a href="../_/1954.md" title="1954">1954</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data">Dust sheet design for <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></td></tr></tbody></table>
 
-**Thư 143d** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
+**Thư 143d** là lá thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
 
 ## Tóm tắt {#Summary}
 
-Trong thư gửi [Rayner Unwin](../R/Rayner_Unwin.md) này, Tolkien thảo luận về thiết kế bìa được đề xuất cho *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Ông đồng ý với ý tưởng sử dụng cùng một thiết bị trung tâm cho cả ba tập, với mỗi tập được phân biệt bằng một màu khác nhau. Tolkien tin rằng cách tiếp cận này nhấn mạnh tính thống nhất của câu chuyện, mà anh coi đó là một cuốn sách duy nhất chứ không phải là ba tập riêng biệt.
+Trong bức thư gửi [Rayner Unwin](../R/Rayner_Unwin.md) này, Tolkien thảo luận về thiết kế bìa đề xuất cho *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Ông đồng ý với ý tưởng sử dụng cùng một thiết bị trung tâm cho cả ba tập, với mỗi tập được phân biệt bằng một màu khác nhau. Tolkien tin rằng cách tiếp cận này nhấn mạnh sự thống nhất của câu chuyện, mà ông coi đó là một cuốn sách duy nhất chứ không phải là ba tập riêng biệt.
 
-Anh ấy bày tỏ sự ưa thích đối với thiết kế có ba chiếc nhẫn phụ, vì điều này thể hiện tốt hơn tính biểu tượng bao trùm của câu chuyện so với thiết kế thay thế có tâm màu đen và [chiếc nhẫn nạm ngọc đỏ](../N/Narya.md) tượng trưng cho sự đối lập của [Gandalf](../G/Gandalf.md). <br>
+Ông bày tỏ sự thích thú với thiết kế có ba chiếc nhẫn phụ, vì điều này thể hiện tốt hơn tính biểu tượng bao trùm của câu chuyện so với thiết kế thay thế có tâm màu đen và [chiếc nhẫn nạm ngọc đỏ](../N/Narya.md) tượng trưng cho sự phản đối của [Gandalf](../G/Gandalf.md). <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

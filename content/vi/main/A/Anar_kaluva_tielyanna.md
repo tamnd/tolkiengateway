@@ -13,7 +13,7 @@ categories:
   - "Quenya texts"
 ---
 
-<i><b>Anar kaluva tielyanna!</b></i> là lời chia tay [Quenya](../Q/Quenya.md) được [Gelmir](<../G/Gelmir_(messenger_of_Círdan).md>) gửi đến [Tuor](../T/Tuor.md) khi họ gặp nhau ở [Annon-in-Gelydh](Annon-in-Gelydh.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó dịch là "Mặt trời sẽ chiếu sáng trên con đường của bạn".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>Anar kaluva tielyanna!</b></i> là lời chia tay [Quenya](../Q/Quenya.md) của [Gelmir](<../G/Gelmir_(messenger_of_Círdan).md>) dành cho [Tuor](../T/Tuor.md) khi họ gặp nhau ở [Annon-in-Gelydh](Annon-in-Gelydh.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó được dịch là "Mặt trời sẽ chiếu sáng trên con đường của bạn".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phần tử {#Elements}
 

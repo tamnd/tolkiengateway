@@ -36,11 +36,11 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Dwimorberg - Ngọn núi ma ám** là cảnh thứ 26 của *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* và cảnh thứ 33 của [*The Lord of the Rings: The Return of the King* (phiên bản mở rộng)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>). Nó đã được mở rộng trong phiên bản sau.
+**Dwimorberg - Ngọn núi ma ám** là cảnh thứ 26 của *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* và cảnh thứ 33 của [*The Lord of the Rings: The Return of the King* (extended edition)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>). Nó đã được mở rộng trong phiên bản sau.
 
 ## Sự khác biệt {#Differences}
 
-- Câu *"Hơi ấm trong máu tôi dường như đã bị đánh cắp,"* được nói bởi Gimli trong cảnh này được lấy từ một bối cảnh khác. Trong sách, chính [Beregond](../B/Beregond.md) đã nói điều này trong cuộc trò chuyện với [Pippin](../P/Pippin.md); điều này xảy ra sau khi mỗi người nghe thấy tiếng kêu yếu ớt của [Nazgûl](../N/Nazgûl.md) trong khi thảo luận về mối đe dọa hủy diệt sắp xảy ra của Minas Tirith.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Câu *"Hơi ấm trong máu của tôi dường như đã bị đánh cắp,"* mà Gimli nói trong cảnh này được lấy từ một bối cảnh khác. Trong sách, chính [Beregond](../B/Beregond.md) là người nói điều này trong cuộc trò chuyện với [Pippin](../P/Pippin.md); điều này xảy ra sau khi mỗi người nghe thấy tiếng kêu yếu ớt của [Nazgûl](../N/Nazgûl.md) trong khi thảo luận về mối đe dọa hủy diệt sắp xảy ra của Minas Tirith.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

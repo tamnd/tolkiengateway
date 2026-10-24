@@ -50,17 +50,17 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> in <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../A/A_Knife_in_the_Dark.md" title="A Knife in the Dark">A Knife in the Dark</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-<i><b>Crebain</b></i> là loài chim lớn thuộc [loại quạ](Crows.md), có nguồn gốc từ [Dunland](../D/Dunland.md) và [Rừng Fangorn](../F/Fangorn_Forest.md).
+<i><b>Crebain</b></i> là loài chim lớn thuộc loài [quạ](Crows.md), có nguồn gốc từ [Dunland](../D/Dunland.md) và [Rừng Fangorn](../F/Fangorn_Forest.md).
 
 ## Lịch sử {#History}
 
-[Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) đã gặp phải nhiều đàn *crebain* khác nhau khi đến [Hollin](../H/Hollin.md). Lo sợ bị [Saruman](../S/Saruman.md)sử dụng làm gián điệp, Hội đã trốn cả ngày mà không đốt lửa trại.<sup id="cite_ref-RGS_1-0" class="reference"><a href="#cite_note-RGS-1">[1]</a></sup>
+[Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) đã gặp phải nhiều đàn *crebain* khác nhau khi họ đến [Hollin](../H/Hollin.md). Lo sợ rằng họ bị [Saruman](../S/Saruman.md) sử dụng làm gián điệp, Hội đồng hành đã trốn cả ngày mà không đốt lửa trại.<sup id="cite_ref-RGS_1-0" class="reference"><a href="#cite_note-RGS-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 *Crebain* là [Sindarin](../S/Sindarin.md) số nhiều của *craban*. Từ này có nguồn gốc từ [tiếng Mannish](../M/Mannish.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Dạng số nhiều được biết đến từ *Lord of the Rings* trong khi dạng số ít được xuất bản trong [2007](../_/2007.md); ngay cả trước khi xuất bản số ít này, *craban* đã là dạng thường được [sinh viên](../T/Tolkienists.md) của [Sindarin](../S/Sindarin.md)giả định, mặc dù các dạng *croban* hoặc *creban* cũng có thể sử dụng được.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Dạng số nhiều được biết đến từ *Lord of the Rings* trong khi dạng số ít được xuất bản trong [2007](../_/2007.md); ngay cả trước khi xuất bản số ít này, *craban* là dạng thường được sử dụng bởi [sinh viên](../T/Tolkienists.md) của [Sindarin](../S/Sindarin.md), mặc dù các dạng *croban* hoặc *creban* cũng có thể sử dụng được.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
@@ -68,7 +68,7 @@ Sự giống nhau giữa *craban* và <a class="extiw" href="http://en.wikipedia
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
 
 <dl><dd>A flock of <i>Crebain</i> &#34;from <a href="../D/Dunland.md" title="Dunland">Dunland</a>&#34; appears when the Fellowship is in Hollin. Though <a href="../G/Gimli.md" title="Gimli">Gimli</a> at first dismisses it as a cloud, <a href="../B/Boromir.md" title="Boromir">Boromir</a> notices them going too fast, and against the wind. The Fellowship hide as the birds swoop by.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> The <i>crebain</i> are revealed to have indeed been spies when they report to Saruman at <a href="../I/Isengard.md" title="Isengard">Isengard</a> later.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 

@@ -16,12 +16,12 @@ images:
   - "Disambig.png"
 ---
 
-**Uruk-hai** là một thuật ngữ [Hắc Ngữ](../B/Black_Speech.md) có nghĩa là "*Orc-folk*"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (hát. **Uruk**, "*Orc"*)<sup id="cite_ref-LotR_2-0" class="reference"><a href="#cite_note-LotR-2">[2]</a></sup>. Nó có thể đề cập đến:
+**Uruk-hai** là một thuật ngữ [Bài phát biểu của người da đen](../B/Black_Speech.md) có nghĩa là "*Orc-folk*"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (hát. **Uruk**, "*Orc"*)<sup id="cite_ref-LotR_2-0" class="reference"><a href="#cite_note-LotR-2">[2]</a></sup>. Nó có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
 - [Uruk-hai/Uruks](../O/Orcs.md), *sensu lato*, thuật ngữ chỉ chủng tộc Orc nói chung,<sup id="cite_ref-LotR_2-1" class="reference"><a href="#cite_note-LotR-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> tương tự như một từ tiếng Anh *Humanity*.
-- [Uruk-hai/Uruks](Uruk-hai.md), *sensu stricto*, thuật ngữ chỉ giống chó đặc biệt Orc có kích thước và sức mạnh lớn từ [Mordor](../M/Mordor.md) và [Isengard](../I/Isengard.md).<sup id="cite_ref-LotR_2-2" class="reference"><a href="#cite_note-LotR-2">[2]</a></sup>
+- [Uruk-hai/Uruks](Uruk-hai.md), *sensu stricto*, thuật ngữ chỉ giống Orc đặc biệt có kích thước và sức mạnh to lớn từ [Mordor](../M/Mordor.md) và [Isengard](../I/Isengard.md).<sup id="cite_ref-LotR_2-2" class="reference"><a href="#cite_note-LotR-2">[2]</a></sup>
 
 ## Sách {#Books}
 

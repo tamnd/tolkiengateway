@@ -28,11 +28,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Larry D. Elmore</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/5_August.md" title="5 August">5 August</a> <a href="../_/1948.md" title="1948">1948</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
-**Larry Elmore** (sinh [5 tháng 8](../_/5_August.md) [1948](../_/1948.md)) là một nghệ sĩ giả tưởng người Mỹ, nổi bật nhất là việc giúp xác định diện mạo của *[Dungeons and Dragons](../D/Dungeons_and_Dragons.md)* và đóng góp nghệ thuật và truyện tranh cho *[Dragon Magazine](../D/Dragon_Magazine.md)*liên quan.<sup id="cite_ref-CCGA_1-0" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup> Anh đã ký hợp đồng với [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) để tạo tác phẩm nghệ thuật cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.
+**Larry Elmore** (sinh [5 tháng 8](../_/5_August.md) [1948](../_/1948.md)) là một nghệ sĩ giả tưởng người Mỹ, nổi bật nhất là việc giúp xác định diện mạo của *[Dungeons and Dragons](../D/Dungeons_and_Dragons.md)* và đóng góp nghệ thuật và truyện tranh cho *[Dragon Magazine](../D/Dragon_Magazine.md)* liên quan.<sup id="cite_ref-CCGA_1-0" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup> Anh đã ký hợp đồng với [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) để tạo tác phẩm nghệ thuật cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.
 
 ## Sự nghiệp {#Career}
 
-Sau khi lấy được bằng mỹ thuật tại Đại học Western Kentucky, anh sớm trở thành nghệ sĩ chủ chốt tại [TSR](../T/TSR.md). Sau khi rời công ty ở [1987](../_/1987.md), với tư cách là người làm việc tự do, anh ấy đã làm việc cho nhiều trò chơi khác, chẳng hạn như *[Magic: The Gathering](../M/Magic%253A_The_Gathering.md)* và *Middle-earth Collectible Card Game*.<sup id="cite_ref-CCGA_1-1" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup>
+Sau khi lấy được bằng mỹ thuật tại Đại học Western Kentucky, anh sớm trở thành nghệ sĩ chủ chốt tại [TSR](../T/TSR.md). Sau khi rời công ty ở [1987](../_/1987.md), với tư cách là người làm việc tự do, ông đã làm việc cho nhiều trò chơi khác, chẳng hạn như *[Magic: The Gathering](../M/Magic%253A_The_Gathering.md)* và *Middle-earth Collectible Card Game*.<sup id="cite_ref-CCGA_1-1" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

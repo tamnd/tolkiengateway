@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Through the Forest of Dol Guldur</b></i> là ca khúc thứ chín trong album [Minas Morgul](<../M/Minas_Morgul_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [Dol Guldur](../D/Dol_Guldur.md), thành trì của [Sauron](../S/Sauron.md) nằm ở phía nam [Mirkwood](../M/Mirkwood.md). Lời bài hát đề cập đến chính thành trì, Mirkwood và [Dãy Núi Sương Mù](../M/Misty_Mountains.md).
+<i><b>Through the Forest of Dol Guldur</b></i> là ca khúc thứ chín trong album [Minas Morgul](<../M/Minas_Morgul_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [Dol Guldur](../D/Dol_Guldur.md), thành trì của [Sauron](../S/Sauron.md) nằm ở phía nam của [Mirkwood](../M/Mirkwood.md). Lời bài hát đề cập đến chính thành trì, Mirkwood và [Dãy núi sương mù](../M/Misty_Mountains.md).
 
 ## Lời bài hát {#Lyrics}
 

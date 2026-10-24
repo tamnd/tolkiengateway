@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"*[Morgai](../../main/M/Morgai.md) Thorns*", bởi [Donato Giancola](../../main/D/Donato_Giancola.md)
+"*[Morgai](../../main/M/Morgai.md) Thorns*", của [Donato Giancola](../../main/D/Donato_Giancola.md)
 
 ## Giấy phép {#Licensing}
 

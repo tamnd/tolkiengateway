@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Haven of the Eldar (disambiguation)"
 ---
 
-Chuyển hướng đến [Nơi trú ẩn của Eldar (định hướng)](<Haven_of_the_Eldar_(disambiguation).md>).
+Chuyển hướng tới [Nơi trú ẩn của Eldar (định hướng)](<Haven_of_the_Eldar_(disambiguation).md>).

@@ -21,9 +21,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Bảng chữ cái tiếng Anh mới** là một hệ thống chữ viết phiên âm được tạo ra bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gần cuối đời và ông đã sử dụng nó khi viết trong [nhật ký](../J/J.R.R._Tolkien's_diaries.md) của mình.
+**Bảng chữ cái tiếng Anh mới** là một hệ thống chữ viết ngữ âm được tạo ra bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gần cuối đời và ông đã sử dụng nó khi viết trong [nhật ký](../J/J.R.R._Tolkien's_diaries.md) của mình.
 
-Theo [Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](../W/Wayne_G._Hammond.md), Tolkien đã gắn nhãn hình vẽ biểu tượng [Con Mắt của Sauron](../E/Eye_of_Sauron.md) là *[Sauron](../S/Sauron.md)* một lần trong [Tengwar](../T/Tengwar.md) và một lần trong Bảng chữ cái tiếng Anh Mới của mình. Trong [1964](../_/1964.md) hoặc [1965](../_/1965.md), Tolkien đã viết dòng chữ *Poor Queen* vào dấu bưu điện của một phong bì như một hành động ăn năn trong Bảng chữ cái tiếng Anh Mới của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Theo [Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](../W/Wayne_G._Hammond.md), Tolkien đã gắn nhãn bức vẽ biểu tượng [Con mắt của Sauron](../E/Eye_of_Sauron.md) là *[Sauron](../S/Sauron.md)* một lần trong [Tengwar](../T/Tengwar.md) và một lần trong Bảng chữ cái tiếng Anh mới của mình. Trong [1964](../_/1964.md) hoặc [1965](../_/1965.md), Tolkien đã viết các từ *Poor Queen* vào dấu bưu điện của một phong bì như một hành động ăn năn trong Bảng chữ cái tiếng Anh Mới của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

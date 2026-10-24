@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ring-inscription"
 ---
 
-Chuyển hướng tới [Nhẫn-dòng chữ](Ring-inscription.md).
+Chuyển hướng tới [Dòng chữ](Ring-inscription.md).

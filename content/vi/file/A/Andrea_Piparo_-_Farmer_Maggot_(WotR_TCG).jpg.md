@@ -30,7 +30,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Farmer Maggot](../../main/F/Farmer_Maggot.md)" của [Andrea Piparo](../../main/A/Andrea_Piparo.md) cho phần mở rộng *[War of the Ring: The Card Game](../../main/W/War_of_the_Ring%253A_The_Card_Game.md)* - *Fire and Swords*
+"[Farmer Maggot](../../main/F/Farmer_Maggot.md)" của [Andrea Piparo](../../main/A/Andrea_Piparo.md) cho bản mở rộng *[War of the Ring: The Card Game](../../main/W/War_of_the_Ring%253A_The_Card_Game.md)* - *Fire and Swords*
 
 ## Giấy phép {#Licensing}
 

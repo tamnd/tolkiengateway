@@ -33,7 +33,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine_7.jpg.md"><img src="https://tolkiengateway.net/w/images/b/b0/The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine_7.jpg" decoding="async" loading="lazy" width="200" height="263" class="mw-file-element" data-file-width="200" data-file-height="263"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings<br/>Fan Club Official Movie Magazine 7</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Carla Atkinson</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Warren Holland</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">February 2003</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine_6.md" title="The Lord of the Rings Fan Club Official Movie Magazine 6">Issue 6</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine_8.md" title="The Lord of the Rings Fan Club Official Movie Magazine 8">Issue 8</a></td></tr></tbody></table>
 
-<b><i>The Lord of the Rings Tạp chí Điện ảnh Chính thức của Fan Club</i> 7</b> là số thứ bảy của *[The Lord of the Rings Fan Club Official Movie Magazine](The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine.md)* vào tháng 2/tháng 3 năm 2003.
+<b><i>Tạp chí điện ảnh chính thức của Câu lạc bộ người hâm mộ Chúa tể những chiếc nhẫn</i> 7</b> là số thứ bảy của tạp chí *[The Lord of the Rings Fan Club Official Movie Magazine](The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine.md)* vào tháng 2/tháng 3 năm 2003.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Miranda Otto on Éowyn and stabbing an Orc. Calligrapher Daniel Reeve and the One Ring inscription, and Brian Massey on being the greensmaster of Middle-earth. Plus a look at working with the horses of The Two Towers.
@@ -47,11 +47,11 @@ infobox:
 
 - **8** TÚI THƯ
 - **10** TIN TỪ TRUNG ĐỊA
-    - Buổi ra mắt vĩ đại thứ hai mọi thời đại đến với Thành phố New York ... J.R.R. Tolkien tròn 111 ... Trung Địa được tái hiện ở Torotno - một lần nữa ... cộng thêm, một báo cáo đầy đủ về RingCon!
+    - Buổi ra mắt vĩ đại thứ hai mọi thời đại đến với Thành phố New York ... J.R.R. Tolkien bước sang tuổi 111 ... Trung Địa được tái hiện ở Torotno - một lần nữa ... cộng thêm một báo cáo đầy đủ về RingCon!
 - **20** NHỮNG ANH HÙNG VUI VẺ - Greensmaster Brian Massey
-    - Brian Massey mô tả công việc sâu rộng nhằm tạo ra bản chất đặc biệt của Trung Địa, từ những cánh đồng tươi tốt và cảm giác của Hobbiton đến những cái cây khổng lồ kỳ lạ của Rừng Fangorn.
+    - Brian Massey mô tả công việc sâu rộng nhằm tạo ra bản chất đặc biệt của Trung Địa, từ những cánh đồng tươi tốt và cảm giác về Hobbiton đến những cái cây khổng lồ kỳ lạ của Rừng Fangorn.
 - **54** TRỰC TIẾP: JULEY ALLEY
-    - New Zealand Judy Alley bản địa sẽ đưa chúng ta qua chuyến hành trình đầy thử thách của cô ấy với tư cách là giám đốc sản xuất, người sắp xếp đồ đạc và người quản lý tài sản buôn bán cho The Lord of the Rings.
+    - Judy Alley, người gốc New Zealand, đưa chúng ta qua chuyến hành trình hoang dã của bà với tư cách là giám đốc sản xuất, người sắp xếp đồ đạc và người quản lý tài sản buôn bán cho Chúa tể của những chiếc nhẫn.
 - **73** DANH MỤC
 - **82** ĐÁNG GIÁ
 
@@ -60,12 +60,12 @@ infobox:
 ### Tính năng {#Features}
 
 - **26** CẬP NHẬT VỚI PETER JACKSON
-    - Đạo diễn nói về lần đầu tiên ông đọc The Lord of the Rings, nhân vật ông yêu thích nhất, Hobbit mà ông thấy gắn bó nhất, lời khen ngợi lớn nhất mà ông nhận được về bộ ba phim cho đến nay - và nhiều, nhiều hơn thế nữa!
+    - Đạo diễn nói về lần đầu tiên ông đọc Chúa tể của những chiếc nhẫn, nhân vật ông yêu thích nhất, người Hobbit mà ông gắn bó nhất, lời khen ngợi lớn nhất mà ông nhận được về bộ ba phim cho đến nay - và nhiều, nhiều hơn thế nữa!
 - **34** NỮ ANH HÙNG PHÁT HIỆN - Phỏng vấn Miranda Otto
-    - Trước khi sự nhộn nhịp và phấn khích xung quanh buổi ra mắt The Two Towers bắt đầu, Miranda Otto đã dành thời gian để nói chuyện với chúng tôi về phả hệ diễn xuất của cô ấy, thành công đáng kinh ngạc của bộ ba phim - và lần cô ấy (thực sự) đâm Orc.
+    - Trước khi sự nhộn nhịp và phấn khích xung quanh buổi ra mắt The Two Towers bắt đầu, Miranda Otto đã dành thời gian để nói chuyện với chúng tôi về phả hệ diễn xuất của bà, thành công đáng kinh ngạc của bộ ba phim - và lần bà (thực sự) đâm chết một con Orc.
 - **44** SỰ KIỆN BÊN MÊ
-    - Hơn 250 chú ngựa xuất hiện trong các cảnh chiến đấu và rượt đuổi trong The Lord of the Rings. Chúng tôi đã hành trình đến chuồng ngựa để mang đến cho bạn những câu chuyện về những màn trình diễn dũng cảm - chưa kể đến việc ăn mặc khác giới tràn lan!
+    - Hơn 250 chú ngựa xuất hiện trong các cảnh chiến đấu và rượt đuổi trong Chúa tể của những chiếc nhẫn. Chúng tôi đã hành trình đến chuồng ngựa để mang đến cho bạn những câu chuyện về những màn trình diễn dũng cảm - chưa kể đến việc ăn mặc khác giới tràn lan!
 - **60** ĐỒNG VẬT - Bản đồ và Thư pháp của Trung Địa
-    - Daniel Reeve đã rời bỏ công việc đã gắn bó 20 năm của mình để thực hiện bộ ba phim The Lord of the Rings. Người nghệ sĩ và nhà thư pháp kể cho chúng ta nghe về tác phẩm tuyệt đẹp mà anh ấy đã làm để giúp Trung Địa trở nên chân thực trên màn ảnh rộng - bao gồm cả dòng chữ nổi tiếng hiện nay trên Nhẫn Chúa.
+    - Daniel Reeve đã rời bỏ công việc kéo dài 20 năm của mình để thực hiện bộ ba Chúa tể của những chiếc nhẫn. Nghệ sĩ và nhà thư pháp kể cho chúng ta nghe về công việc tuyệt vời mà ông đã làm để giúp biến Trung Địa trở nên chân thực trên màn ảnh rộng - bao gồm cả dòng chữ nổi tiếng hiện nay trên Nhẫn Chúa.
 - **70** HƯỚNG DẪN CON ĐƯỜNG PHIÊU LƯU - Thất bại lần nữa: Topps tạo nên kỷ niệm
-    - Nhà cung cấp thẻ giao dịch sưu tầm lâu năm đã mang kiến thức chuyên môn và tính nghệ thuật của mình vào bộ ba phim The Lord of the Rings của New Line Cinema.
+    - Nhà cung cấp thẻ giao dịch sưu tầm lâu năm đã mang kiến thức chuyên môn và tính nghệ thuật của mình vào bộ ba Chúa tể của những chiếc nhẫn của New Line Cinema.

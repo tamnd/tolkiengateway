@@ -37,4 +37,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Riders from the Phương Tây March** là ca khúc thứ ba trong [*The Lord of the Rings: The War of the Rohirrim* (Nhạc phim gốc)](<../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim_(Original_Motion_Picture_Soundtrack).md>) của [Stephen Gallagher](../S/Stephen_Gallagher.md).
+**Những tay đua đến từ miền Tây tháng 3** là ca khúc thứ ba trong [*The Lord of the Rings: The War of the Rohirrim* (Original Motion Picture Soundtrack)](<../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim_(Original_Motion_Picture_Soundtrack).md>) của [Stephen Gallagher](../S/Stephen_Gallagher.md).

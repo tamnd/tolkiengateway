@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hillmen of the Trollshaws"
 ---
 
-Chuyển hướng đến [Hillmen của Trollshaws](../H/Hillmen_of_the_Trollshaws.md).
+Chuyển hướng tới [Hillmen of the Trollshaws](../H/Hillmen_of_the_Trollshaws.md).

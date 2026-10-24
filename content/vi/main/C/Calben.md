@@ -18,13 +18,13 @@ langlinks:
     url: "https://kontu.wiki/Calben"
 ---
 
-**Calben** (pl. *Celbin*) là thuật ngữ được sử dụng trong số [Sindar](../S/Sindar.md) sống ở [Beleriand](../B/Beleriand.md). Nó được sử dụng cho tất cả [Tiên tộc](../E/Elves.md) ngoại trừ [Avari](../A/Avari.md)và bao gồm cả Sindar (những người tự gọi mình là *[Edhil](../E/Edhil.md)*). Do đó, thuật ngữ này tương đương với từ [Quenya](../Q/Quenya.md) "*[Eldar](../E/Eldar.md)*". Sau khi [Laegrim](../L/Laegrim.md) được công nhận là có nguồn gốc từ [Lindarin](../L/Lindar.md), chúng được đưa vào *Celbin*.
+**Calben** (pl. *Celbin*) là thuật ngữ được sử dụng giữa [Sindar](../S/Sindar.md) sống ở [Beleriand](../B/Beleriand.md). Nó được sử dụng bởi tất cả các [Yêu tinh](../E/Elves.md) ngoại trừ [Avari](../A/Avari.md), và nó bao gồm cả chính Sindar (những người đặc biệt gọi mình là *[Edhil](../E/Edhil.md)*). Do đó, thuật ngữ này tương đương với từ [Quenya](../Q/Quenya.md) "*[Eldar](../E/Eldar.md)*". Sau khi [Laegrim](../L/Laegrim.md) được công nhận là có nguồn gốc từ [Lindarin](../L/Lindar.md), chúng được đưa vào *Celbin*.
 
-Không giống như dạng Quenya *[Calaquende](Calaquendi.md)*, từ này không chỉ riêng Tiên tộc mà bao gồm các lực lượng khác trong liên minh chống lại [Morgoth](../M/Morgoth.md), e. g. [Edain](../E/Edain.md) đã được đưa vào danh mục này.
+Không giống như dạng Quenya *[Calaquende](Calaquendi.md)*, từ này không chỉ đề cập đến Yêu tinh mà còn bao gồm các lực lượng khác trong liên minh chống lại [Morgoth](../M/Morgoth.md), e. g. [Edain](../E/Edain.md) được đưa vào danh mục này.
 
 ## Từ nguyên {#Etymology}
 
-*Calben*, 'một người nhẹ nhàng' được cấu tạo từ các từ [Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Calad&amp;action=edit&amp;redlink=1" title="Calad (page does not exist)">cal</a></i> "ánh sáng" và *[pen](../P/Pen.md)* "ai đó, ai đó". Nó được kết nối với các thuật ngữ bắt nguồn từ Kala-kwendē, nhưng bản thân nó lại bắt nguồn từ một dạng biến thể với *-kwen*, vì nó không bao giờ hiển thị một dạng biến thể *Calbend*.
+*Calben*, 'một người nhẹ nhàng' được tạo thành từ các từ [Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Calad&amp;action=edit&amp;redlink=1" title="Calad (page does not exist)">cal</a></i> "ánh sáng" và *[pen](../P/Pen.md)* "ai đó, ai đó". Nó được kết nối với các thuật ngữ bắt nguồn từ Kala-kwendē, nhưng bản thân nó lại bắt nguồn từ một dạng biến thể với *-kwen*, vì nó không bao giờ hiển thị một dạng biến thể *Calbend*.
 
 ## Có cùng nguồn gốc {#Cognates}
 
@@ -33,4 +33,4 @@ Không giống như dạng Quenya *[Calaquende](Calaquendi.md)*, từ này khôn
 
 ## Nguồn {#Sources}
 
-- [The War of the Jewels](../T/The_War_of_the_Jewels.md), tr. 362; 376-377; 380; 408-409.
+- [Cuộc chiến tranh châu báu](../T/The_War_of_the_Jewels.md), tr. 362; 376-377; 380; 408-409.

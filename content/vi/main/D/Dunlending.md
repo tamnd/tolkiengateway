@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dunlendings"
 ---
 
-Chuyển hướng đến [Dunlending](Dunlendings.md).
+Chuyển hướng tới [Dunlending](Dunlendings.md).

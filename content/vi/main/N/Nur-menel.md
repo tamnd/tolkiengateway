@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dome of Varda"
 ---
 
-Chuyển hướng đến [Vòm của Varda](../D/Dome_of_Varda.md).
+Chuyển hướng đến [Mái vòm Varda](../D/Dome_of_Varda.md).

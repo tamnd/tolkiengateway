@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Berntsson, Johan"
 ---
 
-**Johan Berntsson** là nhà thiết kế trò chơi của [Hobbit - The True Story](../H/Hobbit_-_The_True_Story.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Johan Berntsson** là nhà thiết kế trò chơi của [Hobbit - Câu chuyện có thật](../H/Hobbit_-_The_True_Story.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

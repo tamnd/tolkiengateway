@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shadow in the South"
 ---
 
-Chuyển hướng tới [Bóng Tối ở phía Nam](../S/Shadow_in_the_South.md).
+Chuyển hướng đến [Bóng tối phía Nam](../S/Shadow_in_the_South.md).

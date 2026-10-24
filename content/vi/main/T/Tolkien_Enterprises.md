@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Enterprises"
 ---
 
-Chuyển hướng tới [Trung Địa Doanh nghiệp](../M/Middle-earth_Enterprises.md).
+Chuyển hướng đến [Doanh nghiệp Trung địa](../M/Middle-earth_Enterprises.md).

@@ -23,19 +23,19 @@ images:
   - "Disambig.png"
 ---
 
-**Morwen** có nghĩa là "Ma nữ bóng tối" trong [Sindarin](../S/Sindarin.md) (từ *[môr](Môr.md)*, "bóng tối, bóng tối, đêm" và *[gwenn](../G/Gwenn.md)*, "thiếu nữ"), và có thể tham khảo:
+**Morwen** có nghĩa là "Thiếu nữ bóng tối" trong [Sindarin](../S/Sindarin.md) (từ *[môr](Môr.md)*, "bóng tối, bóng tối, đêm" và *[gwenn](../G/Gwenn.md)*, "thiếu nữ"), và có thể tham khảo:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-- **[Morwen Eledhwen](Morwen.md) ([F.A.](../F/First_Age.md) [443](../F/First_Age_443.md) - c. [500](../F/First_Age_500.md)), vợ của [Húrin](../H/Húrin.md) và mẹ của [Túrin](../T/Túrin.md), [Urwen](../U/Urwen.md), và [Nienor](../N/Nienor.md)**
+- **[Morwen Eledhwen](Morwen.md) ([F.A.](../F/First_Age.md) [443](../F/First_Age_443.md) - c. [500](../F/First_Age_500.md)), vợ của [Húrin](../H/Húrin.md) và mẹ của [Túrin](../T/Túrin.md), [Urwen](../U/Urwen.md) và [Nienor](../N/Nienor.md)**
     - [Tol Morwen](../T/Tol_Morwen.md), một hòn đảo trên biển sau vụ chết đuối của [Beleriand](../B/Beleriand.md), trên đó có [Hòn đá của sự bất hạnh](../S/Stone_of_the_Hapless.md) và mộ của **Morwen Eledhwen**
 - [Morwen](<Morwen_(daughter_of_Belecthor).md>) (fl. c. [T.A.](../T/Third_Age.md) [2600](../T/Third_Age_2600.md)), con gái của [Quản lý](../R/Ruling_Steward.md) [Belecthor I](../B/Belecthor_I.md) của [Gondor](../G/Gondor.md) và bà của [Egalmoth](<../E/Egalmoth_(Steward_of_Gondor).md>)
 - [Morwen Steelsheen](Morwen_Steelsheen.md) (sinh [T.A.](../T/Third_Age.md) [2922](../T/Third_Age_2922.md)), vợ của [Vua](../K/Kings_of_Rohan.md) [Thengel](../T/Thengel.md) của [Rohan](../R/Rohan.md) và mẹ của [Théoden](../T/Théoden.md).
-- [Morwen, con gái của Húrin of the Keys](<Morwen_(daughter_of_Húrin).md>), một nhân vật bị loại bỏ trong bản thảo của [Phụ lục](../A/Appendices.md)
+- [Morwen, con gái của Húrin of the Keys](<Morwen_(daughter_of_Húrin).md>), một nhân vật bị loại bỏ trong bản nháp của [Phụ lục](../A/Appendices.md)
 
 ## Các bản chuyển thể {#Adaptations}
 
-- [Morwen (nhân vật phim)](<Morwen_(film_character).md>), một nhân vật được sáng tạo ra cho *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
+- [Morwen (nhân vật trong phim)](<Morwen_(film_character).md>), một nhân vật được sáng tạo ra cho *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Morwen_(Electronic_Arts_character)&amp;action=edit&amp;redlink=1" title="Morwen (Electronic Arts character) (page does not exist)">Morwen (Nhân vật nghệ thuật điện tử)</a>, một nhân vật được phát minh cho *[The Lord of the Rings: The Third Age](../T/The_Lord_of_the_Rings%253A_The_Third_Age.md)*.
 
 ## Khác {#Other}

@@ -73,5 +73,5 @@ Sự kiện xảy ra vào ngày 24 tháng 2
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Người [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) chở thuyền qua lối đi phía trên [Sarn Gebir](../S/Sarn_Gebir.md) và tiếp tục chèo sau Sarn Gebir.
-    - [Treebeard](../T/Treebeard.md) thấy [Gandalf](../G/Gandalf.md) lang thang trong [Rừng Fangorn](../F/Fangorn_Forest.md).
+    - [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) đưa các con thuyền đi qua lối đi phía trên [Sarn Gebir](../S/Sarn_Gebir.md) và tiếp tục chèo theo Sarn Gebir.
+    - [Treebeard](../T/Treebeard.md) nhìn thấy [Gandalf](../G/Gandalf.md) đang lang thang trong [Rừng Fangorn](../F/Fangorn_Forest.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of Eldamar and the Princes of the Eldalië"
 ---
 
-Chuyển hướng đến [Của Eldamar và các Hoàng tử của Eldalië](Of_Eldamar_and_the_Princes_of_the_Eldalië.md).
+Chuyển hướng đến [Của Eldamar và các hoàng tử của Eldalië](Of_Eldamar_and_the_Princes_of_the_Eldalië.md).

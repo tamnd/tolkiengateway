@@ -52,19 +52,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Gormadoc Brandybuck</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">&#34;Deepdelver&#34;</td></tr><tr><th scope="row" class="tg-infobox-label">Titles</th><td class="tg-infobox-data"><a href="../M/Master_of_Buckland.md" title="Master of Buckland">Master of Buckland</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Brandy_Hall.md" title="Brandy Hall">Brandy Hall</a>, <a href="../B/Buckland.md" title="Buckland">Buckland</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2734.md" title="Third Age 2734">1134</a></td></tr><tr><th scope="row" class="tg-infobox-label">Rule</th><td class="tg-infobox-data">until <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2836.md" title="Third Age 2836">1236</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2836.md" title="Third Age 2836">1236</a> (aged 102)<br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../B/Brandybuck_Family~66350.md" title="Brandybuck Family">Brandybuck</a></td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../M/Malva_Headstrong.md" title="Malva Headstrong">Malva Headstrong</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../M/Madoc_Brandybuck.md" title="Madoc Brandybuck">Madoc</a>, <a href="../S/Sadoc_Brandybuck.md" title="Sadoc Brandybuck">Sadoc</a> and <a href="../M/Marroc_Brandybuck.md" title="Marroc Brandybuck">Marroc</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Gormadoc "Deepdelver" Brandybuck** là [Hobbit](../H/Hobbits.md) của [the Shire](../T/The_Shire.md).
+**Gormadoc "Deepdelver" Brandybuck** là một [Hobbit](../H/Hobbits.md) của [Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
 Gormadoc được đặt tên là Deepdelver khi còn sống. Ông kết hôn với [Malva Headstrong](../M/Malva_Headstrong.md) và có ba người con: [Madoc](../M/Madoc_Brandybuck.md), [Sadoc](../S/Sadoc_Brandybuck.md) và [Marroc](../M/Marroc_Brandybuck.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Có thể trong thời gian làm việc ông ấy đã phóng to [Brandy Hall](../B/Brandy_Hall.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Có thể trong thời gian làm việc ông ấy đã mở rộng [Sảnh rượu Brandy](../B/Brandy_Hall.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Ý nghĩa của tên *Gormadoc* vẫn chưa được biết. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên của Bucklanders có phong cách [Celtic](../C/Celtic.md) mơ hồ.<sup id="cite_ref-Translation_3-0" class="reference"><a href="#cite_note-Translation-3">[3]</a></sup>
+Ý nghĩa của tên *Gormadoc* vẫn chưa được biết. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên của Bucklanders mang phong cách [Celtic](../C/Celtic.md) mơ hồ.<sup id="cite_ref-Translation_3-0" class="reference"><a href="#cite_note-Translation-3">[3]</a></sup>
 
-[Jim Allan](../J/Jim_Allan.md) gợi ý rằng nó chứa phần tử *gor*, có nghĩa là "trên" trong [tiếng Wales](../W/Welsh.md) làm tiền tố cho [Madoc](../M/Madoc_Brandybuck.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> tên của con trai Gormadoc Brandybuck.
+[Jim Allan](../J/Jim_Allan.md) gợi ý rằng nó chứa phần tử *gor*, có nghĩa là "kết thúc" trong [tiếng Wales](../W/Welsh.md) làm tiền tố cho [Madoc](../M/Madoc_Brandybuck.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> tên của con trai Gormadoc Brandybuck.
 
 <span></span>
 

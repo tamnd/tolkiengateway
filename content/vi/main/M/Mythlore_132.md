@@ -39,23 +39,23 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_132.jpeg.md"><img src="https://tolkiengateway.net/w/images/9/9c/Mythlore_132.jpeg" decoding="async" loading="lazy" width="225" height="320" class="mw-file-element" data-file-width="225" data-file-height="320"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 132</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../J/Janet_Brennan_Croft.md" title="Janet Brennan Croft">Janet Brennan Croft</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Spring/Summer <a href="../_/2018.md" title="2018">2018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">266</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_131.md" title="Mythlore 131">Mythlore 131</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_133.md" title="Mythlore 133">Mythlore 133</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 132</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol36/iss2/" rel="noreferrer noopener" target="_blank">Tập 36, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 132</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol36/iss2/" rel="noreferrer noopener" target="_blank">Tập 36, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Tu sĩ, Patricia. "Tyrion Lannister: Điểm tựa của sự cân bằng trong Bài hát về băng và lửa của George R. R. Martin."
-- Ông trùm, Guillaume. "'Tình yêu tri thức là một loại điên rồ': Các chủ nghĩa Platon cạnh tranh trong vũ trụ C.S. Lewis và H.P. Lovecraft."
-- Prescott, Barbara L. "Tham khảo ngụ ngôn về trường đại học Oxford thông qua huyền thoại cổ điển trong thơ đầu của Dorothy L. Sayers: Bài đọc về 'Alma Mater' từ *OP.I.*."
-- Holdier, A.G. "Về những câu chuyện siêu anh hùng: Vũ trụ điện ảnh Marvel như một tác phẩm giả tưởng Tolkienesque."
-- Costabile, Giovanni Carmine. "Bilbo Baggins và Bốn mươi tên trộm: Việc làm lại các họa tiết truyện dân gian trong *The Hobbit* (và *The Lord of the Rings*)."
+- Monk, Patricia. "Tyrion Lannister: A Fulcrum of Balance in George R. R. Martin’s A Song of Ice and Fire."
+- Bogiaris, Guillaume. "'Love of Knowledge is a Kind of Madness': Competing Platonisms in the Universes of C.S. Lewis and H.P. Lovecraft."
+- Prescott, Barbara L. "Allegorical Reference to Oxford University through Classical Myth in the Early Poetry of Dorothy L. Sayers: A Reading of 'Alma Mater' from *OP.I.*."
+- Holdier, A.G. "On Superhero Stories: The Marvel Cinematic Universe as Tolkienesque Fantasy."
+- Costabile, Giovanni Carmine. "Bilbo Baggins and the Forty Thieves: The Reworking of Folktale Motifs in *The Hobbit* (and *The Lord of the Rings*)."
 
 #### Tính năng {#Features}
 
 - Croft, Janet Brennan. Biên tập.
-- Bratman, David. Ursula K. Le Guin: một sự đánh giá cao.
-- Croft, Janet Brennan. Ursula K. Le Guin ở *Mythlore*.
+- Bratman, David. Ursula K. Le Guin: an appreciation.
+- Croft, Janet Brennan. Ursula K. Le Guin in *Mythlore*.
 
 #### Nghệ thuật {#Art}
 
@@ -78,13 +78,13 @@ infobox:
 
 #### Chuyên mục bói toán trong tưởng tượng {#Special_Section_on_Divination_in_Fantasy}
 
-- Auger, Emily E. “Biên tập: Bói toán và tiên tri trong văn học thần thoại \[Bài báo\].”
-- Matthews, Carol S. “Để những điều bất thường khi ngủ nói dối: Lovecraft và sự vô ích của việc bói toán \[Bài báo\].”
-- Auger, Emily E. “Tarot và T.S. Eliot trong Tòa Tháp Bóng Tối Tiểu thuyết \[Bài viết\] của Stephen Vua.”
-- Laity, K. A. “Người thợ xay khó tin & Nhà ảo thuật của Phố Threadneedle \[Bài báo\].”
-- Auger, Emily E. “Danh sách chú thích các tiểu thuyết giả tưởng kết hợp Tarot (1968-1989) \[Notes\].”
-- Tredray, Robert F. “Bói toán và tiên tri trong The Lord of the Rings của JRR Tolkien: Một số quan sát \[Ghi chú\].”
-- Swain, Larry. “Bói toán và bản chất con người \[Ôn tập\],” của Peter T. Struck.
-- Auger, Emily E. “Tarot của tương lai: Nâng cao ý thức tâm linh \[Đánh giá\],” của Arthur Rosengarten.
+- Auger, Emily E. “Editorial: Divination and Prophecy in Mythopoeic Literature \[Article\].”
+- Matthews, Carol S. “Letting Sleeping Abnormalities Lie: Lovecraft and the Futility of Divination \[Article\].”
+- Auger, Emily E. “Tarot and T.S. Eliot in Stephen King's Dark Tower Novels \[Article\].”
+- Laity, K. A. “The Unlikely Milliner &amp; The Magician of Threadneedle-Street \[Article\].”
+- Auger, Emily E. “An Annotated List of Fantasy Novels Incorporating Tarot (1968-1989) \[Notes\].”
+- Tredray, Robert F. “Divination and Prophecy in JRR Tolkien's The Lord of the Rings: Some Observations \[Notes\].”
+- Swain, Larry. “Divination and Human Nature \[Review\],” by Peter T. Struck.
+- Auger, Emily E. “Tarot of the Future: Raising Spiritual Consciousness \[Review\],” by Arthur Rosengarten.
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 131</div></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_131.md" title="Mythlore 131">Mythlore 131</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 132</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 133</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_133.md" title="Mythlore 133">Mythlore 133</a></div></div></div>

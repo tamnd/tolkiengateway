@@ -22,4 +22,4 @@ images:
 
 <br> Đây là bản rút gọn piano hoàn chỉnh với phần giới thiệu và tóm tắt của nhà soạn nhạc.
 
-<br> Minh họa trang bìa: TED NASMITH ©2022 “Morgoth và Đại Vương của Noldor"
+<br> Minh họa bìa: TED NASMITH ©2022 “Morgoth và vị vua tối cao của Noldor"

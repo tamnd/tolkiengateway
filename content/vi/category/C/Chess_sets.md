@@ -13,4 +13,4 @@ categories:
   - "Collectibles"
 ---
 
-Thể loại này liệt kê tất cả **bộ cờ** liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) tác phẩm.
+Thể loại này liệt kê tất cả **bộ cờ vua** liên quan đến tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

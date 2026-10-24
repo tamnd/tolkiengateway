@@ -16,16 +16,16 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1928.md" title="Third Age 1928">1928</a><a href="Third_Age_1934.md" title="Third Age 1934">1934</a><a href="Third_Age_1936.md" title="Third Age 1936">1936</a><a class="mw-selflink selflink">1938</a><a href="Third_Age_1940.md" title="Third Age 1940">1940</a><a href="Third_Age_1944.md" title="Third Age 1944">1944</a><a href="Third_Age_1945.md" title="Third Age 1945">1945</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 1938** (viết tắt là **T.A. 1938**) là năm [năm thứ 1938 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 1938 còn được gọi là **S.R. 338** trong [lịch Shire](../S/Shire-reckoning.md).
+**Tuổi thứ ba 1938** (viết tắt là **T.A. 1938**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1938 của [Tuổi thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba năm 1938 còn được gọi là **S.R. 338** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sinh [Aranarth](../A/Aranarth.md), con trai [Arvedui](../A/Arvedui.md) của [Arthedain](../A/Arthedain.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
+- Sự ra đời của [Aranarth](../A/Aranarth.md), con trai của [Arvedui](../A/Arvedui.md) của [Arthedain](../A/Arthedain.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Ngày này được nêu trong bản nháp đầu tiên của <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>. Điều này mâu thuẫn với các nguồn đã xuất bản cho biết cha mẹ của Aranarth kết hôn vào <a href="Third_Age_1940.md" title="Third Age 1940">hai năm sau</a>.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Ngày này được đưa ra trong bản thảo ban đầu của <a href="../A/Appendix_A.md" title="Appendix A">Phụ lục A</a>. Điều này mâu thuẫn với các nguồn đã xuất bản về việc cha mẹ Aranarth kết hôn vào <a href="Third_Age_1940.md" title="Third Age 1940">hai năm sau</a>.</span>
 </li>
 </ol></div></span>
 

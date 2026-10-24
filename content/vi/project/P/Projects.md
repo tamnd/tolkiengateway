@@ -12,15 +12,15 @@ categories:
   - "Tolkien Gateway"
 ---
 
-Đây là danh sách các dự án hiện đang được phát triển bởi [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+Đây là danh sách các dự án hiện đang được [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) phát triển.
 
-**Xin lưu ý:** theo [Tolkien Gateway cuộc họp lần thứ 12](../M/Meetings%252F27_June_2010.md), những người giám sát không hoạt động sẽ được thay thế nếu cần thiết.
+**Xin lưu ý:** theo [cuộc họp lần thứ 12 của Tolkien Gateway](../M/Meetings%252F27_June_2010.md), những người giám sát không hoạt động sẽ được thay thế nếu cần thiết.
 
 ## Các bản chuyển thể {#Adaptations}
 
 <dl><dd><i>Supervisor: <b><a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a></b></i></dd></dl>
 
-Mục tiêu của dự án là tạo ra một bài viết cho mỗi bản chuyển thể đáng chú ý từ các tác phẩm của Tolkien.
+Mục tiêu của dự án là tạo ra một bài viết về mọi tác phẩm chuyển thể đáng chú ý của Tolkien.
 
 - Tóm tắt từng cảnh của *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*.
     - Hãy cân nhắc sử dụng nhiều tab cho dữ liệu hộp thông tin để phân biệt phiên bản chiếu rạp và phiên bản mở rộng, tương tự như [May It Be](../../main/M/May_It_Be.md)
@@ -32,7 +32,7 @@ Xem đề xuất tại *[Tolkien Gateway:Projects/Adaptations](Projects%252FAdap
 
 <dl><dd><i>Supervisor: <b><a href="https://tolkiengateway.net/wiki/User:Luotiansha" title="User:Luotiansha">Luotiansha</a></b></i></dd></dl>
 
-Mục tiêu của dự án là tạo ra một bài viết cho từng cuốn sách đã xuất bản hoặc chưa xuất bản có liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) và các tác phẩm của anh ấy. Sự tập trung cũng là vào các ấn bản, ấn tượng, bìa sách, cũng như các tác giả.
+Mục tiêu của dự án là tạo ra một bài viết cho từng cuốn sách đã xuất bản hoặc chưa xuất bản có liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) và các tác phẩm của ông. Sự tập trung cũng là vào các ấn bản, ấn tượng, bìa sách, cũng như các tác giả.
 
 - Tác giả: Hãy thử lập danh sách các tác phẩm đã xuất bản - sách, bài báo - về mỗi tác giả. Hãy thử danh mục thư viện, LexisNexis, Google, v.v.
 - Tác giả: Bao gồm nghề nghiệp (Đại học), động cơ, hình ảnh (nếu có) và các thông tin hộp thông tin khác.
@@ -40,7 +40,7 @@ Mục tiêu của dự án là tạo ra một bài viết cho từng cuốn sác
 - Sách: Viết đoạn giới thiệu trên tất cả các bài viết.
 - Sách: Bao gồm thông tin về tất cả các ấn bản.
 - Sách: Tạo hộp thông tin mới.
-- Sách của Tolkien: Bao gồm một số phần "Giải thích Tiêu đề".
+- Sách của Tolkien: Bao gồm phần "Giải thích Tiêu đề".
 - Chương: tóm tắt chương cho tất cả các tác phẩm chính của Tolkien. Trích dẫn nội dung của chương ở đầu bài viết.
 - Nhà xuất bản: Xem xét nhà xuất bản nào cần có bài viết và nhà xuất bản nào không. Tối thiểu ba cuốn sách?
 
@@ -59,9 +59,9 @@ Mục đích của Ngày là bao gồm tất cả thông tin liên quan về l�
 - Để tạo một trang cho mỗi năm của mỗi [độ tuổi](../../main/A/Ages_of_the_Children_of_Ilúvatar.md) mà chúng tôi có thông tin lịch sử;
 - Để chuẩn hóa các trang hiện có - đặc biệt là mở rộng thông tin trên các lịch hiện có;
 - Để đảm bảo rằng, nếu đã biết, tất cả các ký tự, sự kiện và địa điểm đều có ngày tháng liên quan;
-    - Trong [Hobbit](../../main/H/Hobbits.md) và [The Shire](../../main/T/The_Shire.md), hãy đảm bảo rằng [lịch Shire](../../main/S/Shire_Calendar.md) được chuyển đổi chính xác thành [T.A.](../../main/T/Third_Age.md)/[Kỷ Đệ Tứ](../../main/F/Fourth_Age.md);
+    - Trong [Hobbit](../../main/H/Hobbits.md) và [The Shire](../../main/T/The_Shire.md), đảm bảo rằng [Shire-reckoning](../../main/S/Shire_Calendar.md) được chuyển đổi chính xác thành [T.A.](../../main/T/Third_Age.md)/[Fo.A.](../../main/F/Fourth_Age.md);
 - Hoàn thiện [Dòng thời gian](../../main/T/Timeline.md) và tạo các dòng thời gian khác;
-- Chuyển đổi ngày trong lịch Gregory sang các [Trung Địa](../../main/M/Middle-earth.md) [lịch](../../category/C/Calendars.md) khác nhau một cách chính xác.
+- Chuyển đổi ngày trong lịch Gregorian sang các [Trung địa](../../main/M/Middle-earth.md) [lịch](../../category/C/Calendars.md) khác nhau một cách chính xác.
 - Thêm hình ảnh vào các bài viết cập nhật bằng cách sử dụng [t:thẻ sự kiện](https://tolkiengateway.net/wiki/Template:Event_card), xác định cách kết hợp các thẻ này vào [Trang chính](../../main/M/Main_Page.md).
 
 ## Trò chơi {#Games}
@@ -74,12 +74,12 @@ Mục tiêu của dự án này là tạo một bài viết cho mọi trò chơi
 
 <dl><dd><i>Supervisor: <b><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a></b></i></dd></dl>
 
-Mục tiêu của dự án là xin phép và tải lên mọi phần hình ảnh Tolkien từng được tạo. Từ phim ảnh, trò chơi đến minh họa 3D nếu có liên quan đến Tolkien thì đều thuộc về đây. Mục tiêu cụ thể bao gồm:
+Mục tiêu của dự án là xin phép và tải lên mọi phần hình ảnh Tolkien từng được tạo. Từ phim ảnh, trò chơi cho đến minh họa 3D nếu có liên quan đến Tolkien thì đều thuộc về đây. Mục tiêu cụ thể bao gồm:
 
-- Có bộ sưu tập tác phẩm nghệ thuật lấy cảm hứng từ Tolkien lớn nhất trên web toàn cầu.
+- Có bộ sưu tập lớn nhất các tác phẩm nghệ thuật lấy cảm hứng từ Tolkien trên web toàn cầu.
 - Nếu có thể, hãy tải lên ít nhất một hình ảnh cho mỗi bài viết.
 - Tải lên nhiều hơn, chất lượng cao hơn, hình ảnh từ [*The Lord of the Rings* (loạt phim)](<../../main/T/The_Lord_of_the_Rings_(film_series).md>) và [*The Hobbit* (loạt phim)](<../../main/T/The_Hobbit_(film_series).md>).
-- <s>Có được sự cho phép của <a href="../../main/T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a>, <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a>và <a href="../../main/J/John_Howe.md" title="John Howe">John Howe</a> để lưu trữ tác phẩm nghệ thuật của họ trên Tolkien Gatgeway.</s>
+- <s>Xin phép <a href="../../main/T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a>, <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a>và <a href="../../main/J/John_Howe.md" title="John Howe">John Howe</a> để lưu trữ tác phẩm nghệ thuật của họ trên Tolkien Gatgeway.</s>
     - <s>Tải lên tất cả tác phẩm nghệ thuật của Ted Nasmith.</s>
     - Tải lên tất cả tác phẩm nghệ thuật của Alan Lee.
     - <s>Tải lên tất cả tác phẩm nghệ thuật của John Howe.</s>
@@ -93,17 +93,17 @@ Mục tiêu của dự án là xin phép và tải lên mọi phần hình ảnh
 Mục tiêu của dự án là tạo một bài viết cho từng địa điểm được đề cập trong tác phẩm của J.R.R. Tolkien. Mục tiêu xa hơn:
 
 - Mở rộng [Cổng thông tin vị trí](../../portal/L/Locations.md) để cho phép người dùng duyệt qua các vị trí của Arda bằng bản đồ.
-- Để sửa [Google Maps cho Arda](https://tolkiengateway.net/wiki/User:Eldarion_Telcontar/Google_Maps_for_Arda) hoặc để phát triển tiện ích mở rộng mới cho phép bổ sung các bản đồ khác nhau bằng cách sử dụng các lớp khác nhau.
-- Tạo một bài viết chi tiết về các địa điểm liên quan đến Tolkien xung quanh Oxford và các khu vực lân cận.
+- Để khắc phục [Google Maps cho Arda](https://tolkiengateway.net/wiki/User:Eldarion_Telcontar/Google_Maps_for_Arda) hoặc để phát triển tiện ích mở rộng mới cho phép bổ sung các bản đồ khác nhau bằng cách sử dụng các lớp khác nhau.
+- Tạo một bài viết nêu chi tiết các địa điểm liên quan đến Tolkien xung quanh Oxford và các khu vực lân cận.
 - Bất cứ nơi nào có thể, hãy đưa hình ảnh và bản đồ vào tất cả các bài viết về địa điểm.
-- Để xóa tất cả các liên kết màu đỏ khỏi [Chỉ mục: Vị trí](../../index/L/Locations.md).
+- Để xóa tất cả các liên kết màu đỏ khỏi [Chỉ mục:Vị trí](../../index/L/Locations.md).
 - Để đảm bảo rằng tất cả các bài viết về địa điểm đều được tham chiếu đầy đủ.
 
 ## Âm nhạc {#Music}
 
 <dl><dd><i>Supervisor: <b><a href="https://tolkiengateway.net/wiki/User:Hands_of_a_healer" title="User:Hands of a healer">Hands of a healer</a></b></i></dd></dl>
 
-Mục tiêu của dự án là tạo một bài viết cho mọi bài hát và mọi ban nhạc/ca sĩ đã hát về điều gì đó lấy cảm hứng từ [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) và các tác phẩm của anh ấy. Trọng tâm sẽ là lời bài hát và nhiều khía cạnh khác của thông tin cũng như mối liên quan của nó với Tolkien. Mục tiêu xa hơn:
+Mục tiêu của dự án là tạo một bài viết cho mọi bài hát và mọi ban nhạc/ca sĩ đã hát về điều gì đó lấy cảm hứng từ [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) và các tác phẩm của ông. Sự tập trung sẽ tập trung vào lời bài hát và nhiều khía cạnh khác của thông tin cũng như mối liên hệ của nó với Tolkien. Mục tiêu xa hơn:
 
 - Xác minh và thêm [trích dẫn](../M/Manual_of_Style.md#References_and_notes) nếu cần
 - [Viết lại](../../category/A/Articles_to_be_rewritten.md) các bài viết phần lớn [đạo văn](../M/Manual_of_Style.md#Plagiarism)

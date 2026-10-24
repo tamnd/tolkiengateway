@@ -14,7 +14,7 @@ categories:
   - "People by name"
 ---
 
-**Breogán** là một nghệ sĩ người Galicia. Cô ấy đã cung cấp các minh họa cho *[Arda Reconstructed: The Creation of the Published Silmarillion](../A/Arda_Reconstructed%253A_The_Creation_of_the_Published_Silmarillion.md)*của [Douglas C. Kane](../D/Douglas_C._Kane.md).
+**Breogán** là một nghệ sĩ người Galicia. Bà đã cung cấp các minh họa cho *[Arda Reconstructed: The Creation of the Published Silmarillion](../A/Arda_Reconstructed%253A_The_Creation_of_the_Published_Silmarillion.md)* của [Douglas C. Kane](../D/Douglas_C._Kane.md).
 
 Cái tên Breogán là một bút danh, được lấy từ <a class="extiw" href="http://en.wikipedia.org/wiki/Breog%C3%A1n" title="wikipedia:Breogán">vị vua Celtic trong thần thoại</a> cùng tên.
 

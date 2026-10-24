@@ -27,7 +27,7 @@ images:
 <p class="tg-quote-footer"><cite>From <i><a href="../T/The_Tale_of_Aragorn_and_Arwen.md" title="The Tale of Aragorn and Arwen">The Tale of Aragorn and Arwen</a></i><sup id="cite_ref-tale_1-0" class="reference"><a href="#cite_note-tale-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Các hòn đảo của Phương Tây** là tập hợp các hòn đảo được đề cập trong *[The Tale of Aragorn and Arwen](../T/The_Tale_of_Aragorn_and_Arwen.md)* được viết bởi [Barahir](<../B/Barahir_(grandson_of_Faramir).md>)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>.<sup id="cite_ref-tale_1-1" class="reference"><a href="#cite_note-tale-1">[1]</a></sup>
+**Quần đảo phía Tây** là tập hợp các hòn đảo được đề cập trong *[The Tale of Aragorn and Arwen](../T/The_Tale_of_Aragorn_and_Arwen.md)* được viết bởi [Barahir](<../B/Barahir_(grandson_of_Faramir).md>)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>.<sup id="cite_ref-tale_1-1" class="reference"><a href="#cite_note-tale-1">[1]</a></sup>
 
 <span></span>
 
@@ -42,4 +42,4 @@ images:
 
 ## Liên kết ngoài {#External_links}
 
-- <cite class="citation cite-web"><span class="cite-web-author"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mark_Fisher&amp;action=edit&amp;redlink=1" title="Mark Fisher (page does not exist)">Mark Fisher</a> (15 tháng 12 năm 2026)</span>. <span class="cite-web-article"><a class="external text" href="https://www.glyphweb.com/arda/i/islesofthewest.html" rel="noreferrer noopener" target="_blank">"Các hòn đảo của Phương Tây"</a></span>. <span class="cite-web-website"><a href="../E/Encyclopedia_of_Arda.md" title="Encyclopedia of Arda">Bách khoa toàn thư Arda</a></span>. <span class="cite-web-accessed">Truy cập ngày 15 tháng 12 năm 2026</span></cite>
+- <cite class="citation cite-web"><span class="cite-web-author"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mark_Fisher&amp;action=edit&amp;redlink=1" title="Mark Fisher (page does not exist)">Mark Fisher</a> (15 tháng 12 năm 2026)</span>. <span class="cite-web-article"><a class="external text" href="https://www.glyphweb.com/arda/i/islesofthewest.html" rel="noreferrer noopener" target="_blank">"Quần đảo phía Tây"</a></span>. <span class="cite-web-website"><a href="../E/Encyclopedia_of_Arda.md" title="Encyclopedia of Arda">Bách khoa toàn thư về Arda</a></span>. <span class="cite-web-accessed">Truy cập ngày 15 tháng 12 năm 2026</span></cite>

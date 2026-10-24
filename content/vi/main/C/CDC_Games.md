@@ -15,11 +15,11 @@ categories:
   - "Businesses"
 ---
 
-**CDC Games** (tiếng Trung: 中华网游戏集团) là một công ty Trung Quốc, chuyên phát triển và xuất bản trò chơi điện tử. Năm 2006, CDC Games đã đạt được thỏa thuận với [Turbine](../T/Turbine.md) để xuất bản [The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md) tại Trung Quốc. Họ đã phát hành bản beta và bạn phải trả tiền để có quyền truy cập. Mặc dù đã chi 10.000.000 USD cho trò chơi nhưng họ vẫn chưa xuất bản bất cứ thứ gì trong [2011](../_/2011.md). Turbine coi đây là hành vi vi phạm hợp đồng và chấm dứt thỏa thuận.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**CDC Games** (tiếng Trung: 中华网游戏集团) là một công ty Trung Quốc, chuyên phát triển và xuất bản trò chơi điện tử. Vào năm 2006, CDC Games đã đạt được thỏa thuận với [Turbine](../T/Turbine.md) để xuất bản [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md) tại Trung Quốc. Họ đã phát hành bản beta và bạn phải trả tiền để có quyền truy cập. Mặc dù đã chi 10.000.000 USD cho trò chơi nhưng họ vẫn chưa xuất bản bất cứ thứ gì trong [2011](../_/2011.md). Turbine coi đây là hành vi vi phạm hợp đồng và chấm dứt thỏa thuận.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md)
+- [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)
 - [Tập đoàn NHN](../N/NHN_Corporation.md)
 - [Sakura Internet](../S/Sakura_Internet.md)
 

@@ -14,17 +14,17 @@ categories:
   - "Qenya locations"
 ---
 
-**Falasquil** là ngôi nhà của [Tuor](../T/Tuor.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
+**Falasquil** là quê hương của [Tuor](../T/Tuor.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
 ## Lịch sử {#History}
 
-Sau khi Tuor rời khỏi [Mithrim](../M/Mithrim.md), anh đến bờ biển [Biển](../S/Sea.md) và ngạc nhiên trước những gì mình nhìn thấy. Ở đó, ông đã sống một thời gian trong một vịnh nhỏ phủ đầy đá, nền là cát trắng. Nhưng [Gnomes](../G/Gnomes.md) từ [Dor Lómin](../D/Dor_Lómin.md) bắt đầu gửi gỗ cho anh ta qua con sông ẩn giấu [Glorfalc](../G/Glorfalc.md), vì vậy Tuor có thể tự mình làm một ngôi nhà nhỏ.
+Sau khi Tuor rời [Mithrim](../M/Mithrim.md), anh đến bờ [Biển](../S/Sea.md) và ngạc nhiên trước những gì mình nhìn thấy. Ở đó, ông đã sống một thời gian trong một vịnh nhỏ phủ đầy đá, nền là cát trắng. Nhưng [Gnomes](../G/Gnomes.md) từ [Dor Lómin](../D/Dor_Lómin.md) bắt đầu gửi gỗ cho anh qua con sông ẩn giấu [Glorfalc](../G/Glorfalc.md), để Tuor có thể tự làm một ngôi nhà nhỏ.
 
-Các bức tường được trang trí bằng Tuor hình động vật, chim, cây và hoa. Tác phẩm điêu khắc yêu thích của anh ấy là một con thiên nga, con thiên nga cuối cùng đã trở thành biểu tượng cho [ngôi nhà](../H/House_of_the_Swan.md) của anh ấy. Tuor cư trú ở đó một thời gian, cho đến khi Ulmo bổ nhiệm anh ta với sứ mệnh tiếp cận [Gondolin](../G/Gondolin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Các bức tường được Tuor tô điểm bằng các hình động vật, chim, cây và hoa. Tác phẩm điêu khắc yêu thích của ông là một con thiên nga, con thiên nga cuối cùng đã trở thành biểu tượng cho [ngôi nhà](../H/House_of_the_Swan.md) của ông. Tuor cư trú ở đó một thời gian, cho đến khi Ulmo giao cho anh nhiệm vụ tiếp cận [Gondolin](../G/Gondolin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Falasqil* là [Qenya](../Q/Qenya.md), nghĩa là "Bãi biển Hòa bình". Từ cùng nguồn gốc [Gnomish](../G/Gnomish.md) là <i><b>Falas-a-'Wilb</b></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Falasqil* là [Qenya](../Q/Qenya.md), có nghĩa là "Bãi biển hòa bình". Từ cùng nguồn gốc [Gnomish](../G/Gnomish.md) là <i><b>Falas-a-'Wilb</b></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

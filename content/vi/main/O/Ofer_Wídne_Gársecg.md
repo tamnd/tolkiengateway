@@ -15,7 +15,7 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-<i><b>Ofer Wídne Gársecg</b></i> là một bài hát [tiếng Anh cổ](Old_English.md) được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được hát theo giai điệu của *The Mermaid*. Nó được xuất bản dưới dạng bài hát thứ 15 trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* trong [1936](../_/1936.md).
+<i><b>Ofer Wídne Gársecg</b></i> là một bài hát [Tiếng Anh cổ](Old_English.md) được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được hát theo giai điệu của *The Mermaid*. Nó được xuất bản dưới dạng bài hát thứ 15 trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* trong [1936](../_/1936.md).
 
 Bài hát được tái bản với bản dịch tiếng Anh hiện đại "Across the Broad Ocean" trong *[The Road to Middle-earth](../T/The_Road_to_Middle-earth.md)* bởi [T.A. Shippey](../T/T.A._Shippey.md). Những sửa chữa và ghi chú do chính Tolkien thực hiện (sau khi in *Songs*) được ghi chú bên dưới.
 

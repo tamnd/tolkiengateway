@@ -46,13 +46,13 @@ infobox:
 
 MỘT TRÒ CHƠI nơi BẠN phiêu lưu ở TRUNG ĐỊA!
 
-Bạn là Chiến binh trẻ của Rohan. Trước trận chiến, bạn chứng kiến ​​một Rider kỳ cựu trao đổi với kẻ thù không đội trời chung. Rider là kẻ phản bội hay phản gián truyền thông tin sai lệch cho kẻ thù của bạn? Bạn quyết tâm tìm hiểu và ngay lập tức lao vào những cuộc phiêu lưu ngoài sức tưởng tượng ngông cuồng nhất của mình. Trước khi âm mưu rối rắm được giải quyết, bạn phải chiến đấu với tay sai của Saruman và bảo vệ các bức tường của Hornburg trong Trận chiến đỉnh cao Helm's Deep! BẠN kiểm soát vận mệnh của mình và có lẽ của Helm's Deep, trong sách trò chơi thứ hai ly kỳ này của loạt CÂU HỎI TRUNG ĐỊA!
+Bạn là một chiến binh trẻ của Rohan. Trước trận chiến, bạn chứng kiến ​​một Rider kỳ cựu trao đổi với kẻ thù không đội trời chung. Rider là kẻ phản bội hay phản gián truyền thông tin sai lệch cho kẻ thù của bạn? Bạn quyết tâm tìm hiểu và ngay lập tức lao vào những cuộc phiêu lưu ngoài sức tưởng tượng ngông cuồng nhất của mình. Trước khi âm mưu rối rắm được giải quyết, bạn phải chiến đấu với tay sai của Saruman và bảo vệ các bức tường của Hornburg trong Trận chiến đỉnh cao ở Helm's Deep! BẠN kiểm soát vận mệnh của mình, và có lẽ là của Helm's Deep, trong cuốn sách trò chơi thứ hai ly kỳ này của loạt CÂU HỎI TRUNG ĐỊA!
 
 Trong chuỗi CÂU HỎI TRUNG ĐỊA, bạn có thể:
 
 - Đóng vai nhân vật sẵn sàng chạy
 - Tạo nhân vật của riêng bạn bằng hệ thống QuestGame
-- Đóng vai nhân vật TRUNG ĐỊA (MERP) của riêng bạn
+- Đóng vai nhân vật CHƠI VAI TRÒ TRUNG ĐỊA (MERP) của riêng bạn
 
 ## Bằng các ngôn ngữ khác {#In_other_languages}
 
@@ -63,7 +63,7 @@ Trong chuỗi CÂU HỎI TRUNG ĐỊA, bạn có thể:
 
 ## Liên kết ngoài {#External_links}
 
-<a class="external text" href="https://gamebooks.org/Item/1753/Show" rel="noreferrer noopener" target="_blank"><i>Tội phản quốc tại Helm's Deep</i> trên <i>Trang web sách trò chơi của Demian</i></a>
+<a class="external text" href="https://gamebooks.org/Item/1753/Show" rel="noreferrer noopener" target="_blank"><i>Phản bội ở Helm's Deep</i> trên <i>Trang web sách trò chơi của Demian</i></a>
 
 ## Thư viện {#Gallery}
 

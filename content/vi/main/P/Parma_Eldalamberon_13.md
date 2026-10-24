@@ -41,7 +41,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Parma_Eldalamberon_13.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d5/Parma_Eldalamberon_13.png/320px-Parma_Eldalamberon_13.png" decoding="async" loading="lazy" width="320" height="427" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d5/Parma_Eldalamberon_13.png/480px-Parma_Eldalamberon_13.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/d5/Parma_Eldalamberon_13.png/640px-Parma_Eldalamberon_13.png 2x" data-file-width="2409" data-file-height="3214"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Parma Eldalamberon 13<br/><small>The Alphabet of Rúmil and Early Noldorin Fragments</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../A/Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a>, <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>, <a href="../B/Bill_Welden.md" title="Bill Welden">Bill Welden</a>, <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>, and <a href="Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Adam Christensen (front and back cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Elvish_Linguistic_Fellowship.md" title="Elvish Linguistic Fellowship">Elvish Linguistic Fellowship</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">December <a href="../_/2001.md" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback journal</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">166</td></tr></tbody></table>
 
-<i><b>Parma Eldalamberon 13: Bảng chữ cái của Rúmil và các mảnh Noldorin sớm</b></i> là số thứ mười ba của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, tạp chí nghiên cứu ngôn ngữ học về các ngôn ngữ Elvish và tên trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Parma Eldalamberon 13: Bảng chữ cái của các mảnh vỡ Rúmil và Noldorin sơ khai</b></i> là số thứ mười ba của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, một tạp chí nghiên cứu ngôn ngữ học về các ngôn ngữ và tên gọi của người Tiên trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 12</div></div><div class="template-prevnext__linkoverlay"><a href="Parma_Eldalamberon_12.md" title="Parma Eldalamberon 12">Parma Eldalamberon 12</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 13</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 14</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Parma_Eldalamberon_14.md" title="Parma Eldalamberon 14">Parma Eldalamberon 14</a></div></div></div>
 
@@ -53,15 +53,15 @@ infobox:
     - Giới thiệu
     - Văn bản và Bình luận<br>(chứa 26 tài liệu bằng chữ Rúmilian, [Sarati](../S/Sarati.md))
 
-- "Các mảnh Noldorin sớm" — J.R.R. Tolkien, eds. Christopher Gilson, Bill Welden, Carl F. Hostetter và Patrick H. Wynne
+- "Các mảnh Noldorin ban đầu" — J.R.R. Tolkien, biên tập. Christopher Gilson, Bill Welden, Carl F. Hostetter và Patrick H. Wynne
     - Thiết bị huy hiệu của Tol Erethrin
-    - Goldogrin Tiền tố danh nghĩa
+    - Tiền tố danh nghĩa Golddogrin
     - Bảng tên ban đầu
     - Danh sách tên chính thức
-    - Sự trượt Gnomish Lexicon
-    - Ngữ pháp sớm Noldorin
-    - Noldorin Danh sách từ
-Từ điển     - Noldorin
+    - Từ điển Gnomish trượt
+    - Ngữ pháp Noldorin sơ khai
+    - Danh sách từ Noldorin
+    - Từ điển Noldorin
 
 - Danh sách từ viết tắt
 
@@ -69,9 +69,9 @@ Từ điển     - Noldorin
 
 ## Mô tả {#Description}
 
-Chữ Rúmilian [Sarati](../S/Sarati.md) là hệ thống chữ viết Elvish sớm nhất do Tolkien nghĩ ra, cuối cùng được hình dung là tiền thân lịch sử của chữ Fëanorian Tengwar, chữ Elvish được thấy trong *The Lord of the Rings*. **"Bảng chữ cái của Rúmil"** là một ấn bản của các tác phẩm bằng tiếng Rúmilian của Tolkien, với các ví dụ về chữ viết được sao chép dưới dạng fax, bao gồm biểu đồ về âm thanh được thể hiện bằng các chữ cái và cả văn bản Elvish và tiếng Anh được viết bằng tiếng Rúmilian. Phiên âm của các văn bản này và bình luận chi tiết về niên đại của các tài liệu và sự phát triển của quan niệm về hệ thống chữ viết đều được đưa vào ấn bản này.
+Rúmilian [Sarati](../S/Sarati.md) là hệ thống chữ viết Tiên sớm nhất do Tolkien nghĩ ra, cuối cùng được hình dung là tiền thân lịch sử của Fëanorian Tengwar, hệ thống chữ viết Tiên được thấy trong *The Lord of the Rings*. **"Bảng chữ cái của Rúmil"** là một ấn bản của các tác phẩm tiếng Rúmilian của Tolkien, với các ví dụ về chữ viết được sao chép dưới dạng fax, bao gồm biểu đồ về âm thanh được thể hiện bằng các chữ cái và cả văn bản tiếng Elvish và tiếng Anh được viết bằng tiếng Rúmilian. Phiên âm của các văn bản này và bình luận chi tiết về niên đại của các tài liệu và sự phát triển của quan niệm về hệ thống chữ viết đều được đưa vào ấn bản này.
 
-**"Các đoạn Noldorin ban đầu"** là tập hợp các danh sách từ Tolkien và mô tả ngữ pháp của ngôn ngữ Noldorin từ những năm 1920. Những điều này theo dõi quá trình phát triển của ngôn ngữ từ khởi đầu là Goldogrin của "Gnomish Lexicon" (*[Parma 11](Parma_Eldalamberon_11.md)*) đến quan niệm của nó là Noldorin lưu vong sẽ xuất hiện trong "The Etymologies" (*[The Lost Road](../T/The_Lost_Road_and_Other_Writings.md)*). Những bài viết này tiết lộ sự xuất hiện của các chi tiết khái niệm quan trọng, chẳng hạn như việc sử dụng đột biến nguyên âm để đánh dấu Noldorin danh từ số nhiều và vị trí của Old Noldorin trong lịch sử nội tại của ngôn ngữ. Các chú thích và bình luận chi tiết về những phát triển khái niệm này trong các tài liệu đều được đưa vào ấn bản này.
+**"Những mảnh vỡ thời kỳ đầu của Noldorin"** là tập hợp các danh sách từ và mô tả ngữ pháp của Tolkien về ngôn ngữ Noldorin từ những năm 1920. Những điều này theo dõi quá trình phát triển của ngôn ngữ từ sự khởi đầu của nó với tư cách là Goldogrin của "Từ điển Gnomish" (*[Parma 11](Parma_Eldalamberon_11.md)*) đến quan niệm của nó là Noldorin lưu đày sẽ xuất hiện trong "Từ nguyên" (*[The Lost Road](../T/The_Lost_Road_and_Other_Writings.md)*). Những bài viết này tiết lộ sự xuất hiện của các chi tiết khái niệm quan trọng, chẳng hạn như việc sử dụng đột biến nguyên âm để đánh dấu danh từ số nhiều của Noldorin và vị trí của Noldorin Cổ trong lịch sử nội tại của ngôn ngữ. Các chú thích và bình luận chi tiết về những phát triển khái niệm này trong các tài liệu đều được đưa vào ấn bản này.
 
 ## Liên kết ngoài {#External_links}
 

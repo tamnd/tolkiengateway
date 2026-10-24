@@ -77,8 +77,8 @@ Sự kiện xảy ra vào ngày 18 tháng 10
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md)tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm về phía [Rivendell](../R/Rivendell.md). Họ tìm thấy Troll](../W/William,_Tom,_and_Bert.md) của [Bilbo và ngay sau [phương Đông Đường](../E/East_Road.md). Ở đó, họ được tìm thấy trước [Glorfindel](../G/Glorfindel.md) vào lúc hoàng hôn.
+    - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm rãi về phía [Rivendell](../R/Rivendell.md). Họ tìm thấy [Bilbo's Troll](../W/William,_Tom,_and_Bert.md) và ngay sau [Đường Đông](../E/East_Road.md). Ở đó, họ được tìm thấy bởi [Glorfindel](../G/Glorfindel.md) vào lúc hoàng hôn.
     - [Gandalf](../G/Gandalf.md) đến [Rivendell](../R/Rivendell.md) từ phía Bắc và gửi [Shadowfax](../S/Shadowfax.md) quay lại [Rohan](../R/Rohan.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

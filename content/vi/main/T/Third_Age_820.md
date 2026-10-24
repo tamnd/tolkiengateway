@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_748.md" title="Third Age 748">748</a><a href="Third_Age_777.md" title="Third Age 777">777</a><a href="Third_Age_811.md" title="Third Age 811">811</a><a class="mw-selflink selflink">820</a><a href="Third_Age_830.md" title="Third Age 830">830</a><a href="Third_Age_861.md" title="Third Age 861">861</a><a href="Third_Age_895.md" title="Third Age 895">895</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 820** (viết tắt là **T.A. 820**) là năm [thứ 820 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ ba 820** (viết tắt là **T.A. 820**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 820 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sinh ra [Ciryandil](../C/Ciryandil.md) của [Gondor](../G/Gondor.md), con trai của [Eärnil tôi](../E/Eärnil_I.md).<sup id="cite_ref-PMElendil_1-0" class="reference"><a href="#cite_note-PMElendil-1">[1]</a></sup>
+- Sự ra đời của [Ciryandil](../C/Ciryandil.md) của [Gondor](../G/Gondor.md), con trai của [Eärnil I](../E/Eärnil_I.md).<sup id="cite_ref-PMElendil_1-0" class="reference"><a href="#cite_note-PMElendil-1">[1]</a></sup>
 
 <span></span>
 

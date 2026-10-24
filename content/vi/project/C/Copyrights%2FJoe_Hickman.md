@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Hickman, Joe"
 ---
 
-- Joe Hickman đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Joe_Hickman.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Joe Hickman đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Joe_Hickman.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 22 tháng 10 năm 2024
 - Người dùng đã xin phép qua reddit: [Người dùng:MOONBOLT](https://tolkiengateway.net/wiki/User:MOONBOLT)

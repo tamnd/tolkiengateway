@@ -44,7 +44,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../G/Gondorians.md" title="Gondorians">Gondorian</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tarciryan</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../G/Gondor.md" title="Gondor">Gondor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../D/Dúnedain.md" title="Dúnedain">Dúnedain</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">After <a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_654.md" title="Third Age 654">654</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data">After <a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_736.md" title="Third Age 736">736</a> (aged &lt;259)<br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data"><a href="../H/House_of_Anárion.md" title="House of Anárion">House of Anárion</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../S/Siriondil_(King_of_Gondor).md" title="Siriondil (King of Gondor)">Siriondil</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="Tarannon_Falastur.md" title="Tarannon Falastur">Tarannon Falastur</a></td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data">Unnamed wife</td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../E/Eärnil_I.md" title="Eärnil I">Eärnil I</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Tarciryan** là con trai của [Vua](../K/King_of_Gondor.md) [Siriondil](<../S/Siriondil_(King_of_Gondor).md>) của [Gondor](../G/Gondor.md), em trai của [Tarannon Falastur](Tarannon_Falastur.md)và là cha của [Eärnil tôi](../E/Eärnil_I.md). Khi anh trai ông qua đời mà không có người thừa kế, con trai ông lên nối ngôi.<sup id="cite_ref-history_1-0" class="reference"><a href="#cite_note-history-1">[1]</a></sup>
+**Tarciryan** là con trai của [Vua](../K/King_of_Gondor.md) [Siriondil](<../S/Siriondil_(King_of_Gondor).md>) của [Gondor](../G/Gondor.md), em trai của [Tarannon Falastur](Tarannon_Falastur.md) và là cha của [Eärnil I](../E/Eärnil_I.md). Khi anh trai ông qua đời mà không có người thừa kế, con trai ông lên nối ngôi.<sup id="cite_ref-history_1-0" class="reference"><a href="#cite_note-history-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
@@ -52,7 +52,7 @@ Tarciryan có lẽ được sinh ra sau năm [T.A.](Third_Age.md) [654](Third_Ag
 
 ## Từ nguyên {#Etymology}
 
-*Tarciryan* là tên [Quenya](../Q/Quenya.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng như [Paul Strack](../P/Paul_Strack.md) giải thích, nó có thể là từ ghép của *[tar](Tar.md)* ("cao") "và một dạng rút gọn của *[ciryando](../C/Cirya.md)*" ("thủy thủ").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Ý nghĩa của từ cuối cùng *n* là không rõ ràng.
+*Tarciryan* là tên [Quenya](../Q/Quenya.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng như [Paul Strack](../P/Paul_Strack.md) giải thích, nó có thể là sự kết hợp của *[tar](Tar.md)* ("cao") "và một dạng rút gọn của *[ciryando](../C/Cirya.md)*" ("thủy thủ").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Ý nghĩa của từ cuối cùng *n* là không rõ ràng.
 
 ## Phả hệ {#Genealogy}
 
@@ -70,7 +70,7 @@ Tarciryan có lẽ được sinh ra sau năm [T.A.](Third_Age.md) [654](Third_Ag
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Tarciryan is mentioned on a plaque dedicated to Eärnil I Ciryatan in the Workers&#39; Tier, the <a class="new" href="https://tolkiengateway.net/w/index.php?title=Outer_Circle&amp;action=edit&amp;redlink=1" title="Outer Circle (page does not exist)">Outer Circle</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> of <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 

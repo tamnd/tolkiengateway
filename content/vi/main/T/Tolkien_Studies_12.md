@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Studies: Volume 12"
 ---
 
-Chuyển hướng tới [Tolkien Nghiên cứu: Tập 12](Tolkien_Studies%253A_Volume_12.md).
+Chuyển hướng đến [Tolkien Studies: Volume 12](Tolkien_Studies%253A_Volume_12.md).

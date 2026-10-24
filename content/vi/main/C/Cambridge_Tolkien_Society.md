@@ -13,7 +13,7 @@ categories:
   - "Smials"
 ---
 
-**Hội Tolkien Cambridge**, CTS, là một [Tolkien hội](../T/Tolkien_Societies~67099.md) của [Cambridge](Cambridge.md), Anh được thành lập vào năm 1983.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Hiệp hội Tolkien Cambridge**, CTS, là một [hội Tolkien](../T/Tolkien_Societies~67099.md) của [Cambridge](Cambridge.md), Anh được thành lập vào năm 1983.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ấn phẩm {#Publications}
 

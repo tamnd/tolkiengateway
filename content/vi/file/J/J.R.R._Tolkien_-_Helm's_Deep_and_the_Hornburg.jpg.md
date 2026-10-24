@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bản phác thảo này được thực hiện bởi [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) trên một trang của bài kiểm tra và một phần trên chính chữ viết tay; trong bản sao chép (xuất bản trong [The Lord of the Rings Lịch 1977](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md)) chữ viết đã bị xóa. Mô tả được đưa ra trong [The Two Towers](../../main/T/The_Two_Towers.md), Quyển III, Chương 7, về Horn-burg trên Hornrock, hẻm núi [Helm's Deep](../../main/H/Helm's_Deep.md) và Deeping Stream.
+Bản phác thảo này được thực hiện bởi [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) trên một trang của bài kiểm tra và một phần trên chính chữ viết tay; trong bản sao chép (xuất bản trong [The Lord of the Rings 1977 Calendar](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md)) phần chữ viết đã bị xóa. Mô tả được đưa ra trong [The Two Towers](../../main/T/The_Two_Towers.md), Quyển III, Chương 7, về Horn-burg trên Hornrock, hẻm núi [Helm's Deep](../../main/H/Helm's_Deep.md) và Deeping Stream.
 
 ## Giấy phép {#Licensing}
 

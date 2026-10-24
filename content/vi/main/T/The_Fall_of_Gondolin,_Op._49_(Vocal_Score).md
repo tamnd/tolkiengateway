@@ -22,4 +22,4 @@ images:
 
 Đây là bản rút gọn hoàn chỉnh của bản nhạc piano với phần giới thiệu của nhà soạn nhạc, bản tóm tắt và bản dịch của Elvish.
 
-Minh họa bìa: TED NASMITH ©2019 “Tuor đạt Thành Phố Ẩn Giấu của Gondolin”
+Minh họa bìa: TED NASMITH ©2019 “Tuor đến Thành phố ẩn giấu Gondolin”

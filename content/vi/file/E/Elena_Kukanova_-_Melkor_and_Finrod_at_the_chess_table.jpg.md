@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"*[Melkor](../../main/M/Morgoth.md) và [Finrod](../../main/F/Finrod.md) tại bàn cờ*", bởi [Elena Kukanova](../../main/E/Elena_Kukanova.md)
+"*[Melkor](../../main/M/Morgoth.md) và [Finrod](../../main/F/Finrod.md) trên bàn cờ*", của [Elena Kukanova](../../main/E/Elena_Kukanova.md)
 
 ## Giấy phép {#Licensing}
 

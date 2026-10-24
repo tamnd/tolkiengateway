@@ -39,33 +39,33 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_29.gif.md"><img src="https://tolkiengateway.net/w/images/f/f6/Mythlore_29.gif" decoding="async" loading="lazy" width="225" height="292" class="mw-file-element" data-file-width="225" data-file-height="292"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 29</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Autumn <a href="../_/1981.md" title="1981">1981</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">47</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_28.md" title="Mythlore 28">Mythlore 28</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_30.md" title="Mythlore 30">Mythlore 30</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 29</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol8/iss3/" rel="noreferrer noopener" target="_blank">Tập 8, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 29</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol8/iss3/" rel="noreferrer noopener" target="_blank">Tập 8, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Kocher, Paul H. “J.R.R. Tolkien và George MacDonald.”
+- Kocher, Paul H. “J.R.R. Tolkien and George MacDonald.”
 - Patterson, Nancy-Lou. “Tiệc tiệc ở Belbury: Lễ hội và nỗi kinh hoàng trong sức mạnh ghê tởm đó.”
-- Hodge, James L. “Tolkien: Công thức của quá khứ.”
-- Chúc ngủ ngon, Glen. “Người tìm đường trong Faerie.”
-- Knapp, Bettina. “Bài đọc của người Jungian về Kalevala 500-1300?: Đạo Shaman Phần Lan - Hình ảnh Senex gia trưởng Phần 1: Giới thiệu.”
-- Xin chào, Rhona. “Charles Williams và Viên đá.”
-- Giá, Steven. “Tự do và thiên nhiên ở Perelandra.”
+- Hodge, James L. “Tolkien: Formulas of the Past.”
+- GoodKnight, Glen. “Pathfinders in Faerie.”
+- Knapp, Bettina. “A Jungian Reading of The Kalevala 500-1300?: Finnish Shamanism - The Patriarchal Senex Figure Part 1: Introduction.”
+- Beare, Rhona. “Charles Williams and the Stone.”
+- Price, Steven. “Freedom and Nature in Perelandra.”
 
 #### Thơ {#Poetry}
 
-- Ellwood, Gracia Fay. “Một số người nói trong băng.”
-- Allaby, Mark. “Chim sơn ca.”
-- Quyền lực, Norman. “Cái vỏ.”
+- Ellwood, Gracia Fay. “Some Say in Ice.”
+- Allaby, Mark. “The Nightingale.”
+- Power, Norman. “The Shell.”
 
 #### Tính năng {#Features}
 
 - Bratman, David. Báo cáo Mythcon XII.
 - Cuộc bầu cử năm 1981.
-- Christopher, Joe R. An Inklings Thư mục (18).
-- Speth, Lee. “Sự đối xử ung dung: Vua Đại diện của Arthur.”
-- Ellwood, Gracia Fay. “Các vấn đề về nhập khẩu mộ.”
+- Christopher, Joe R. An Inklings Bibliography (18).
+- Speth, Lee. “Cavalier Treatment: King Arthur's Vicar.”
+- Ellwood, Gracia Fay. “Matters of Grave Import.”
 - Thư.
 
 #### Đánh giá {#Reviews}

@@ -20,7 +20,7 @@ images:
 
 ## Xem thêm {#See_also}
 
-- [Danh mục: Danh mục của Sotheby](../../category/S/Sotheby's_catalogues.md)
+- [Category: Sotheby's catalogues](../../category/S/Sotheby's_catalogues.md)
 
 ## Liên kết ngoài {#External_links}
 

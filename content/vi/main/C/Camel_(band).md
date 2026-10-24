@@ -36,7 +36,7 @@ infobox:
 
 Trong album "Mirage" năm 1974, họ có một bài hát gồm ba phần có tên "[Nimrodel / Procession / White Rider](../N/Nimrodel_%252F_Procession_%252F_White_Rider.md)". Hai phần đầu tiên là nhạc cụ và phần cuối cùng là mô tả ngắn gọn về [Gandalf](../G/Gandalf.md).
 
-## Tolkien Đĩa hát liên quan {#Tolkien_Related_Discography}
+## Danh sách đĩa nhạc liên quan đến Tolkien {#Tolkien_Related_Discography}
 
 - Ảo ảnh
     - [Nimrodel / Lễ rước / Kỵ sĩ trắng](../N/Nimrodel_%252F_Procession_%252F_White_Rider.md)

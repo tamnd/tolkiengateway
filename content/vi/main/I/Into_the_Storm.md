@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Into the Storm** là ca khúc thứ hai trong album chủ đề [Tolkien](../J/J.R.R._Tolkien.md) [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md) của [Blind Guardian](../B/Blind_Guardian.md). Bài hát kể về sự khao khát của [Morgoth](../M/Morgoth.md) và [Ungoliant](../U/Ungoliant.md) đối với [Silmaril](../S/Silmarils.md) và sự khởi đầu của Cuộc chiến vì Silmaril.
+**Into the Storm** là ca khúc thứ hai trong album chủ đề [Tolkien](../J/J.R.R._Tolkien.md) [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md) của [Blind Guardian](../B/Blind_Guardian.md). Bài hát kể về sự khao khát của [Morgoth](../M/Morgoth.md) và [Ungoliant](../U/Ungoliant.md) đối với [Silmarils](../S/Silmarils.md) và sự khởi đầu của Cuộc chiến tranh giành các Silmarils.
 
 ## Lời bài hát {#Lyrics}
 

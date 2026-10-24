@@ -52,9 +52,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Cặp đôi này đã được yêu mến ngay từ trước khi [Morgoth](../M/Morgoth.md) lần đầu tiên lên nắm quyền trong thời thanh niên của thế giới. Giống như tất cả các Entwives khác, Fimbrethil đã mất tích kể từ khi lực lượng của [Sauron](../S/Sauron.md)phá hủy [khu vườn của Entwives](../B/Brown_Lands.md) trong Thời đại thứ hai.<sup id="cite_ref-Treebeard_1-1" class="reference"><a href="#cite_note-Treebeard-1">[1]</a></sup> Vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Treebeard đã không gặp Fimbrethil yêu quý của mình trong hơn 3.000 năm.
+Cặp đôi này đã được yêu mến ngay cả trước khi [Morgoth](../M/Morgoth.md) lần đầu tiên lên nắm quyền trong thời thanh niên của thế giới. Giống như tất cả các Ent phụ khác, Fimbrethil đã mất tích kể từ khi lực lượng của [Sauron](../S/Sauron.md) phá hủy [khu vườn của Entives](../B/Brown_Lands.md) trong Thời đại thứ hai.<sup id="cite_ref-Treebeard_1-1" class="reference"><a href="#cite_note-Treebeard-1">[1]</a></sup> Vào thời điểm diễn ra [War of the Ring](../W/War_of_the_Ring.md), Treebeard đã không gặp Fimbrethil yêu quý của mình trong hơn 3.000 năm.
 
-Trong [cuộc hành quân cuối cùng của Ent](../B/Battle_of_Isengard.md) chống lại [Isengard](../I/Isengard.md), Treebeard cảm thấy rằng nhiều người trong số Ent đang hành quân đến chỗ diệt vong và thực sự, anh ấy có thể sẽ không bao giờ gặp lại Fimbrethil của mình nữa. Treebeard đã nói với [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) rằng Saruman phải dừng lại, mặc dù anh ấy rất muốn gặp lại Fimbrethil một lần nữa.<sup id="cite_ref-Treebeard_1-2" class="reference"><a href="#cite_note-Treebeard-1">[1]</a></sup>
+Trong [cuộc hành quân cuối cùng của Ent](../B/Battle_of_Isengard.md) chống lại [Isengard](../I/Isengard.md), Treebeard cảm thấy rằng nhiều Ent đang tiến đến chỗ diệt vong, và thực sự, ông ta có thể sẽ không bao giờ gặp lại Fimbrethil của mình nữa. Treebeard nói với [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) rằng Saruman phải bị ngăn lại, mặc dù ông ta rất muốn gặp lại Fimbrethil một lần nữa.<sup id="cite_ref-Treebeard_1-2" class="reference"><a href="#cite_note-Treebeard-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

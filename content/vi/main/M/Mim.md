@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mîm"
 ---
 
-Chuyển hướng đến [Mîm](Mîm.md).
+Chuyển hướng tới [Mîm](Mîm.md).

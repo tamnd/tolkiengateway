@@ -25,9 +25,9 @@ images:
 
 ## Tổng quan {#Overview}
 
-Là một phần phụ của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_linguistics&amp;action=edit&amp;redlink=1" title="Tolkien linguistics (page does not exist)">Tolkien ngôn ngữ học</a> nói chung, Hooker nói rằng từ *Tolkiennymy* "mô tả một nhánh của Ngôn ngữ học Tolkienian nghiên cứu từ vựng về địa điểm và tên riêng trong Legendarium của Tolkien có nguồn gốc từ đó và thường được coi là tên trong các ngôn ngữ thế giới thứ nhất. Nó tập trung vào từ nguyên, lịch sử và truyền thuyết về các tên trong thế giới thực được sử dụng trong Tolkien hoạt động hiệu quả, vì như Tolkien đã lưu ý, bản đồ Shire 'dựa trên một số hiểu biết về lịch sử địa danh tiếng Anh' (L.250)."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Là một phần phụ của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_linguistics&amp;action=edit&amp;redlink=1" title="Tolkien linguistics (page does not exist)">ngôn ngữ học Tolkien</a> nói chung, Hooker nói rằng từ *Tolkiennymy* "mô tả một nhánh của Ngôn ngữ học Tolkien nghiên cứu từ vựng về địa điểm và tên cá nhân trong Legendarium của Tolkien và thường được coi là tên trong các ngôn ngữ thế giới thứ nhất. Nó tập trung vào từ nguyên, lịch sử và truyền thuyết về những cái tên trong thế giới thực được sử dụng trong các tác phẩm của Tolkien, bởi vì như Tolkien lưu ý, bản đồ Quận 'dựa trên một số hiểu biết về lịch sử địa danh tiếng Anh' (L.250)."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Một trong những văn bản quan trọng nhất là *[Nomenclature](../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md)*của chính Tolkien.
+Một trong những văn bản quan trọng nhất là *[Nomenclature](../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md)* của Tolkien.
 
 Một trong những mục tiêu của *Tolkiennymy* là giúp người đọc làm quen với lịch sử các từ đồng nghĩa tiếng Anh được sử dụng trong các tác phẩm của Tolkien.
 

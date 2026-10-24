@@ -16,13 +16,13 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_977.md" title="Third Age 977">977</a><a href="Third_Age_979.md" title="Third Age 979">979</a><a href="Third_Age_1000.md" title="Third Age 1000">1000</a><a class="mw-selflink selflink">1015</a><a href="Third_Age_1029.md" title="Third Age 1029">1029</a><a href="Third_Age_1049.md" title="Third Age 1049">1049</a><a href="Third_Age_1050.md" title="Third Age 1050">1050</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 1015** (viết tắt là **T.A. 1015**) là năm [thứ 1015 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ ba 1015** (viết tắt là **T.A. 1015**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1015 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Haradrim](../H/Haradrim.md) do các lãnh chúa lưu đày từ [Umbar](../U/Umbar.md) dẫn đầu với lực lượng lớn<sup id="cite_ref-gondor_1-0" class="reference"><a href="#cite_note-gondor-1">[1]</a></sup> và bao vây Umbar.<sup id="cite_ref-AppB_2-0" class="reference"><a href="#cite_note-AppB-2">[2]</a></sup>
+- [Haradrim](../H/Haradrim.md) do các lãnh chúa lưu vong từ [Umbar](../U/Umbar.md) dẫn đầu với lực lượng lớn<sup id="cite_ref-gondor_1-0" class="reference"><a href="#cite_note-gondor-1">[1]</a></sup> và bao vây Umbar.<sup id="cite_ref-AppB_2-0" class="reference"><a href="#cite_note-AppB-2">[2]</a></sup>
 - [Vua](../K/Kings_of_Gondor.md) [Ciryandil](../C/Ciryandil.md) của [Gondor](../G/Gondor.md) thiệt mạng trong trận chiến ở [Haradwaith](../H/Haradwaith.md)<sup id="cite_ref-gondor_1-1" class="reference"><a href="#cite_note-gondor-1">[1]</a></sup> trong cuộc bao vây.<sup id="cite_ref-AppB_2-1" class="reference"><a href="#cite_note-AppB-2">[2]</a></sup>
-- [Vua](../K/Kings_of_Gondor.md) [Con trai của Ciryandil](../C/Ciryandil.md), [Ciryaher](../C/Ciryaher.md), trở thành [Vua](../K/Kings_of_Gondor.md) thứ mười lăm của [Gondor](../G/Gondor.md)và là người cuối cùng trong số [Vị vua tàu](../S/Ship-kings.md).<sup id="cite_ref-AppA_3-0" class="reference"><a href="#cite_note-AppA-3">[3]</a></sup>
+- [Vua](../K/Kings_of_Gondor.md) [Con trai của Ciryandil](../C/Ciryandil.md), [Ciryaher](../C/Ciryaher.md), trở thành [Vua](../K/Kings_of_Gondor.md) thứ mười lăm của [Gondor](../G/Gondor.md) và là người cuối cùng trong số [Vị vua tàu](../S/Ship-kings.md).<sup id="cite_ref-AppA_3-0" class="reference"><a href="#cite_note-AppA-3">[3]</a></sup>
 
 <span></span>
 

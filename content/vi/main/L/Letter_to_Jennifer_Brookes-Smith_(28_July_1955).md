@@ -15,15 +15,15 @@ sort_keys:
   "Letters": "Brookes-Smith, Jennifer (1955-07-28)"
 ---
 
-Vào [28 tháng 7](../_/28_July.md) [1955](../_/1955.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Jennifer Brookes-Smith** (tên cũng được ghi là "Jennifer Paxman").<sup id="cite_ref-TB_1-0" class="reference"><a href="#cite_note-TB-1">[1]</a></sup><sup id="cite_ref-CG_2-0" class="reference"><a href="#cite_note-CG-2">[2]</a></sup>
+Vào [28 tháng 7](../_/28_July.md) [1955](../_/1955.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Jennifer Brookes-Smith** (tên cũng được nêu là "Jennifer Paxman").<sup id="cite_ref-TB_1-0" class="reference"><a href="#cite_note-TB-1">[1]</a></sup><sup id="cite_ref-CG_2-0" class="reference"><a href="#cite_note-CG-2">[2]</a></sup>
 
-- **(Các) chủ đề:** Trả lời bức thư viết vào tháng 3, Tolkien xin lỗi vì bận rộn.<sup id="cite_ref-CG_2-1" class="reference"><a href="#cite_note-CG-2">[2]</a></sup> Trong số các chủ đề Tolkien thảo luận trong thư có việc sản xuất các Phụ lục và bản đồ cho *[The Return of the King](../T/The_Return_of_the_King.md)* và chuyến đi sắp tới [Gondor](../G/Gondor.md): [Pelargir](../P/Pelargir.md) và [Lossarnach](Lossarnach.md) - được xác định là Ý: Venice và Assisi.<sup id="cite_ref-TB_1-1" class="reference"><a href="#cite_note-TB-1">[1]</a></sup>
+- **(Các) chủ đề:** Trả lời bức thư viết vào tháng 3, Tolkien xin lỗi vì bận rộn.<sup id="cite_ref-CG_2-1" class="reference"><a href="#cite_note-CG-2">[2]</a></sup> Trong số các chủ đề mà Tolkien thảo luận trong thư là việc sản xuất các Phụ lục và bản đồ cho *[The Return of the King](../T/The_Return_of_the_King.md)* và chuyến đi sắp tới [Gondor](../G/Gondor.md): [Pelargir](../P/Pelargir.md) và [Lossarnach](Lossarnach.md) - được xác định là Ý: Venice và Assisi.<sup id="cite_ref-TB_1-1" class="reference"><a href="#cite_note-TB-1">[1]</a></sup>
 - **Mô tả:** Hai trang.<sup id="cite_ref-TB_1-2" class="reference"><a href="#cite_note-TB-1">[1]</a></sup>
-- **Xuất bản:** Mô tả về bức thư xuất hiện trong *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*. Các trích đoạn từ bức thư đã được sao chép trong *[Christie's 20th Century Books and Manuscripts 2 December 2003](../C/Christie's_20th_Century_Books_and_Manuscripts_2_December_2003.md)*.
+- **Xuất bản:** Mô tả về bức thư xuất hiện trong *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*. Các đoạn trích từ bức thư đã được sao chép trong *[Christie's 20th Century Books and Manuscripts 2 December 2003](../C/Christie's_20th_Century_Books_and_Manuscripts_2_December_2003.md)*.
 
 ## Xem thêm {#See_also}
 
-- [Thư gửi Jennifer Brookes-Smith (26 tháng Chín 1947)](<Letter_to_Jennifer_Brookes-Smith_(26_September_1947).md>)
+- [Thư gửi Jennifer Brookes-Smith (26 tháng 9 năm 1947)](<Letter_to_Jennifer_Brookes-Smith_(26_September_1947).md>)
 
 <span></span>
 

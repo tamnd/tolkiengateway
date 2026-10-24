@@ -13,4 +13,4 @@ categories:
   - "Sindarin adjectives"
 ---
 
-**laeg** là từ Sindarin chỉ màu xanh lục như được thấy ở dạng rút gọn trong [Legolas](Legolas.md)
+**laeg** is the Sindarin word for the colour green as seen in contracted form in [Legolas](Legolas.md)

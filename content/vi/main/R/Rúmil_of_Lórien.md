@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rúmil (elf of Lórien)"
 ---
 
-Chuyển hướng tới [Rúmil (bản chất của Lórien)](<Rúmil_(elf_of_Lórien).md>).
+Chuyển hướng đến [Rúmil (yêu tinh của Lórien)](<Rúmil_(elf_of_Lórien).md>).

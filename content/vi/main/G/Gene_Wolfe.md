@@ -26,7 +26,7 @@ images:
 
 **Gene Wolfe** (sinh [7 tháng 5](../_/7_May.md), [1931](../_/1931.md), mất [14 tháng 4](../_/14_April.md), [2019](../_/2019.md)) là một tác giả người Mỹ chủ yếu viết tiểu thuyết giả tưởng.
 
-Wolfe đã trao đổi thư từ với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào những năm 1960 (xem [Thư 290a](../L/Letter_290a.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tolkien dường như đã đọc truyện ngắn 'Chuyến đi, cái bẫy' của ông, lưu ý trong [Thư 297](../L/Letter_297.md) rằng từ 'warg' (về từ nguyên mà Wolfe đã hỏi ý kiến ​​ông) xuất hiện trong *Orbit 2*, tr. 119, trong một câu chuyện của 'một độc giả của L.R.'
+Wolfe đã trao đổi thư từ với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào những năm 1960 (xem [Thư 290a](../L/Letter_290a.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tolkien dường như đã đọc truyện ngắn 'Trip, Trap' của ông, lưu ý trong [Thư 297](../L/Letter_297.md) rằng từ 'warg' (theo từ nguyên mà Wolfe đã hỏi ý kiến ​​ông) xuất hiện trong *Orbit 2*, tr. 119, trong một câu chuyện của 'một độc giả của L.R.'
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -35,14 +35,14 @@ Wolfe đã trao đổi thư từ với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) 
 - [1967](../_/1967.md): *Quỹ đạo 2: Phim khoa học viễn tưởng mới hay nhất của năm* (ed. Damon Knight)
     - "Chuyến đi, cái bẫy" \[pp. 110–44; một truyện ngắn trong đó Wolfe sử dụng từ *[Warg](../W/Wargs.md#Inpsiration_and_influences)*\]<sup id="cite_ref-MB2257_2-0" class="reference"><a href="#cite_note-MB2257-2">[2]</a></sup>
 - [1974](../_/1974.md): *Vector*, Mùa xuân (số 67/68)
-    - "Đường cao tốc Tolkien miễn phí đến Mordor và những điểm vượt xa sự hoan hô!"
+    - "Đường cao tốc Tolkien miễn phí từ năm mươi đến Mordor và vượt xa sự hoan hô!"
 - [2001](../_/2001.md): [*Interzone*, số 174](../I/Interzone_174.md), tháng 12
-    - "Giới thiệu hay nhất về Dãy Núi"
+    - "Lời giới thiệu hay nhất về những ngọn núi"
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Gene_Wolfe" title="wikipedia:Gene Wolfe">Gene Wolfe</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="http://home.clara.net/andywrobertson/wolfemountains.html" rel="noreferrer noopener" target="_blank">"Lời giới thiệu hay nhất về Dãy Núi"</a>
+- <a class="external text" href="http://home.clara.net/andywrobertson/wolfemountains.html" rel="noreferrer noopener" target="_blank">"Giới thiệu hay nhất về những ngọn núi"</a>
 
 <span></span>
 

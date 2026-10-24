@@ -18,7 +18,7 @@ langlinks:
     url: "https://kontu.wiki/Voronda"
 ---
 
-**Voronda** là tính từ [Quenya](../Q/Quenya.md) có nghĩa là 'trung thành' hoặc 'kiên định', được đặt làm tước hiệu hoặc họ của vị anh hùng vĩ đại [Elendil](../E/Elendil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Voronda** là một tính từ [Quenya](../Q/Quenya.md) có nghĩa là 'trung thành' hoặc 'kiên định', được đặt làm danh hiệu hoặc họ của vị anh hùng vĩ đại [Elendil](../E/Elendil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

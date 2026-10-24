@@ -64,41 +64,41 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Francesco_Amadio_-_Ori.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e0/Francesco_Amadio_-_Ori.jpg/320px-Francesco_Amadio_-_Ori.jpg" decoding="async" loading="lazy" width="320" height="430" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e0/Francesco_Amadio_-_Ori.jpg/480px-Francesco_Amadio_-_Ori.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e0/Francesco_Amadio_-_Ori.jpg/640px-Francesco_Amadio_-_Ori.jpg 2x" data-file-width="900" data-file-height="1210"/></a><figcaption>&#34;Ori&#34; by <a href="../../category/I/Images_by_Francesco_Amadio.md" title="Category:Images by Francesco Amadio">Francesco Amadio</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../D/Dwarves.md" title="Dwarves">Dwarf</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ori</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="mw-redirect" href="../T/Thorin&#39;s_Halls.md" title="Thorin&#39;s Halls">Thorin&#39;s Halls</a><br/><a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Lonely Mountain</a><br/><a href="../M/Moria.md" title="Moria">Khazad-dûm</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a><br/><a href="../B/Balin&#39;s_folk.md" title="Balin&#39;s folk">Balin&#39;s folk</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../K/Khuzdul.md" title="Khuzdul">Khuzdul</a> and <a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">Between <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2763.md" title="Third Age 2763">2763</a> and c. <a href="../T/Third_Age_2814.md" title="Third Age 2814">2814</a><sup><a class="mw-selflink-fragment" href="#Family_and_birth">NB</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2994.md" title="Third Age 2994">2994</a> (aged between c. 180 and 231)<br/><a href="../C/Chamber_of_Mazarbul.md" title="Chamber of Mazarbul">Chamber of Mazarbul</a>, <a href="../M/Moria.md" title="Moria">Khazad-dûm</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data"><a href="../H/House_of_Durin.md" title="House of Durin">House of Durin</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Clothing</th><td class="tg-infobox-data">Grey hood and a silver belt<sup id="cite_ref-Person_1-0" class="reference"><a href="#cite_note-Person-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Ori.md" title="Category:Images of Ori">Images of Ori</a></td></tr></tbody></table>
 
-**Ori** là một trong mười ba [Người Lùn](../D/Dwarves.md) [đoàn tùy tùng của Thorin](../T/Thorin_and_Company.md) đã hành trình tới [Erebor](../L/Lonely_Mountain.md) để thách thức [rồng](../D/Dragons.md) [Smaug](../S/Smaug.md). Sau cái chết của Smaug, Ori sống tại Ngọn Núi Cô Đơn<sup id="cite_ref-Meetings_2-0" class="reference"><a href="#cite_note-Meetings-2">[2]</a></sup> cho đến khi anh đến [Moria](../M/Moria.md) như một phần trong [Balin](../B/Balin.md) [nỗ lực](../B/Balin's_folk.md) xấu số nhằm chiếm lại các dinh thự cổ của Người Lùn.<sup id="cite_ref-Bridge_3-0" class="reference"><a href="#cite_note-Bridge-3">[3]</a></sup>
+**Ori** was one of the thirteen [Dwarves](../D/Dwarves.md) of [Thorin's company](../T/Thorin_and_Company.md) who journeyed to [Erebor](../L/Lonely_Mountain.md) to challenge the [dragon](../D/Dragons.md) [Smaug](../S/Smaug.md). After the death of Smaug, Ori lived at the Lonely Mountain<sup id="cite_ref-Meetings_2-0" class="reference"><a href="#cite_note-Meetings-2">[2]</a></sup> until he went to [Moria](../M/Moria.md) as part of [Balin's](../B/Balin.md) ill-fated [attempt](../B/Balin's_folk.md) to re-take the ancient mansions of the Dwarves.<sup id="cite_ref-Bridge_3-0" class="reference"><a href="#cite_note-Bridge-3">[3]</a></sup>
 
 ## Lịch sử {#History}
 
 ### Gia đình và sự ra đời {#Family_and_birth}
 
-Không rõ nguồn gốc của Ori, mặc dù anh ta là họ hàng xa của Thorin và là thành viên của [Gia tộc Durin](../H/House_of_Durin.md).<sup id="cite_ref-Durin_4-0" class="reference"><a href="#cite_note-Durin-4">[4]</a></sup> Năm sinh của anh ta cũng không rõ.
+Nguồn gốc của Ori không được biết rõ, mặc dù ông ta là bà con xa của Thorin và là thành viên của [Gia tộc Durin](../H/House_of_Durin.md).<sup id="cite_ref-Durin_4-0" class="reference"><a href="#cite_note-Durin-4">[4]</a></sup> Năm sinh của ông ta cũng không rõ.
 
-Tuy nhiên, trong lời kể của [Bilbo Baggins](../B/Bilbo_Baggins.md) về nhiệm vụ Erebor anh ta nói rằng hai anh em [Fíli](../F/Fíli.md) và [Kíli](../K/Kíli.md) là người trẻ nhất trong số mười ba người "khoảng năm mươi tuổi",<sup id="cite_ref-Hill_5-0" class="reference"><a href="#cite_note-Hill-5">[5]</a></sup> và khi Thorin mất tích [Balin](../B/Balin.md) là "anh cả còn lại".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Vì Kíli sinh năm [T.A.](../T/Third_Age.md) [2864](../T/Third_Age_2864.md) và Balin sinh năm [2763](../T/Third_Age_2763.md),<sup id="cite_ref-Durin_4-1" class="reference"><a href="#cite_note-Durin-4">[4]</a></sup> điều này sẽ đặt ngày sinh của Ori giữa [2763](../T/Third_Age_2763.md) và c. 2814, và anh ta sẽ ở giữa c. 127 và 178 tuổi trong nhiệm vụ Erebor.
+Tuy nhiên, trong lời kể của [Bilbo Baggins](../B/Bilbo_Baggins.md) về cuộc tìm kiếm Erebor, ông nói rằng hai anh em [Fíli](../F/Fíli.md) và [Kíli](../K/Kíli.md) là người trẻ nhất trong số mười ba người "khoảng 50 tuổi",<sup id="cite_ref-Hill_5-0" class="reference"><a href="#cite_note-Hill-5">[5]</a></sup> và khi Thorin mất tích [Balin](../B/Balin.md) là "người lớn tuổi nhất còn lại".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Vì Kíli sinh năm [T.A.](../T/Third_Age.md) [2864](../T/Third_Age_2864.md) và Balin sinh năm [2763](../T/Third_Age_2763.md),<sup id="cite_ref-Durin_4-1" class="reference"><a href="#cite_note-Durin-4">[4]</a></sup> điều này sẽ đặt ngày sinh của Ori giữa [2763](../T/Third_Age_2763.md) và c. 2814, và ông ta sẽ ở giữa c. 127 và 178 tuổi trong hành trình tới Erebor.
 
-Ori là thành viên của [Gia tộc Durin](../H/House_of_Durin.md) và có lẽ đã sống trong [Dãy Núi Xanh](../B/Blue_Mountains.md) cùng với [Thorin](../T/Thorin.md) sau khi anh ấy bắt đầu sống ở đó sau khi [Thráin II](../T/Thráin.md) bị mất.<sup id="cite_ref-Durin_4-2" class="reference"><a href="#cite_note-Durin-4">[4]</a></sup>
+Ori là thành viên của [Gia tộc Durin](../H/House_of_Durin.md) và có lẽ đã sống ở [Blue Mountains](../B/Blue_Mountains.md) cùng với [Thorin](../T/Thorin.md) sau khi anh bắt đầu sống ở đó sau cái chết của [Thráin II](../T/Thráin.md).<sup id="cite_ref-Durin_4-2" class="reference"><a href="#cite_note-Durin-4">[4]</a></sup>
 
-### Nhiệm vụ của Erebor {#The_Quest_of_Erebor}
+### Cuộc truy tìm Erebor {#The_Quest_of_Erebor}
 
-Trong [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md),<sup id="cite_ref-TA_7-0" class="reference"><a href="#cite_note-TA-7">[7]</a></sup> Ori là một trong năm Người Lùn thuộc nhóm thứ tư đến [Bag End](../B/Bag_End.md). Anh ta đội một chiếc mũ trùm đầu màu xám. Vào buổi tối khi Thorin kêu nhạc, Ori (cùng với [Dori](../D/Dori.md) và [Nori](../N/Nori.md)) đã thổi sáo.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Trong [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md),<sup id="cite_ref-TA_7-0" class="reference"><a href="#cite_note-TA-7">[7]</a></sup> Ori là một trong năm Người lùn trong nhóm thứ tư đến [Bag End](../B/Bag_End.md). Ông ta đội một chiếc mũ trùm đầu màu xám. Vào buổi tối khi Thorin gọi nhạc, Ori (cùng với [Dori](../D/Dori.md) và [Nori](../N/Nori.md)) đã thổi sáo.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
-Khi [Gandalf](../G/Gandalf.md) kể câu chuyện về chuyến phiêu lưu của công ty tới [Beorn](../B/Beorn.md), Ori và Nori là cặp Người Lùn thứ hai xuất hiện.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Khi [Gandalf](../G/Gandalf.md) kể câu chuyện về cuộc phiêu lưu của công ty với [Beorn](../B/Beorn.md), Ori và Nori là cặp Người lùn thứ hai đến.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Joona_Kujanen_-_Last_Moments.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f1/Joona_Kujanen_-_Last_Moments.jpg/200px-Joona_Kujanen_-_Last_Moments.jpg" decoding="async" loading="lazy" width="200" height="237" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f1/Joona_Kujanen_-_Last_Moments.jpg/300px-Joona_Kujanen_-_Last_Moments.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f1/Joona_Kujanen_-_Last_Moments.jpg/400px-Joona_Kujanen_-_Last_Moments.jpg 2x" data-file-width="800" data-file-height="946"/></a><figcaption>Joona Kujanen - <i>Last Moments</i></figcaption></figure>
 
-Ori đã chiến đấu và sống sót sau [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md). Anh ấy đã được [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) chia sẻ kho báu của mình và chuyển đến sống ở Erebor.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+Ori đã chiến đấu và sống sót sau [Trận chiến của năm đạo quân](../B/Battle_of_Five_Armies.md). Ông ta đã được [Dáin Ironfoot](../D/Dáin_Ironfoot.md) trao cho phần kho báu của mình và định cư ở Erebor.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 ### Chuyến thám hiểm tới Moria {#Expedition_to_Moria}
 
-Trong [T.A.](../T/Third_Age.md) [2989](../T/Third_Age_2989.md)<sup id="cite_ref-TA_7-1" class="reference"><a href="#cite_note-TA-7">[7]</a></sup> Ori (và Óin) đã theo sau Balin với một [đại đội](../B/Balin's_folk.md) Người Lùn trong nỗ lực đòi lại các dinh thự cổ [Khazad-dûm](../M/Moria.md) của họ, vốn đã bị chiếm giữ bởi [Goblin](Orcs.md).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Lúc đầu, thuộc địa này hoạt động tốt, nhưng [chưa đầy năm năm sau](../T/Third_Age_2994.md) Balin thì thành công bị giết, Orc quay trở lại và bắt [Cổng Đông](../G/Great_Gates.md), còn nhóm Óin mà hắn dẫn về phía tây tới [Phương Tây-gate](../D/Doors_of_Durin.md) đã bị tiêu diệt ngoại trừ một số ít.
+Trong [T.A.](../T/Third_Age.md) [2989](../T/Third_Age_2989.md)<sup id="cite_ref-TA_7-1" class="reference"><a href="#cite_note-TA-7">[7]</a></sup> Ori (và Óin) đã đi theo Balin cùng với một [đại đội](../B/Balin's_folk.md) Người lùn trong nỗ lực giành lại những dinh thự cổ [Khazad-dûm](../M/Moria.md) của họ, vốn đã bị chiếm giữ bởi [Yêu tinh](Orcs.md).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Lúc đầu, thuộc địa này hoạt động tốt, nhưng [chưa đầy năm năm sau](../T/Third_Age_2994.md) Balin đã bị chiếm đóng bị giết, lũ Orc quay trở lại và chiếm [Cổng phía Đông](../G/Great_Gates.md), còn nhóm của Óin mà hắn dẫn về phía tây tới [Cổng phía Tây](../D/Doors_of_Durin.md) đã bị tiêu diệt ngoại trừ một số ít.
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Mazarbul_page_2.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a7/J.R.R._Tolkien_-_Mazarbul_page_2.jpg/300px-J.R.R._Tolkien_-_Mazarbul_page_2.jpg" decoding="async" loading="lazy" width="300" height="375" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/J.R.R._Tolkien_-_Mazarbul_page_2.jpg/450px-J.R.R._Tolkien_-_Mazarbul_page_2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/J.R.R._Tolkien_-_Mazarbul_page_2.jpg/600px-J.R.R._Tolkien_-_Mazarbul_page_2.jpg 2x" data-file-width="686" data-file-height="858"/></a><figcaption>Page from the <a href="../B/Book_of_Mazarbul.md" title="Book of Mazarbul">Book of Mazarbul</a> written by Ori in <a href="../T/Tengwar.md" title="Tengwar">Tengwar</a>.</figcaption></figure>
 
-Ori rút về [Phòng Mazarbul](../C/Chamber_of_Mazarbul.md) nơi đặt mộ [Balin](../B/Balin's_Tomb.md). Anh ấy đã viết những trang cuối cùng trong [Sách Mazarbul](../B/Book_of_Mazarbul.md) trước khi anh ấy và những trang Người Lùn cuối cùng còn lại đã bỏ mạng trong [cuộc đối đầu cuối cùng](../L/Last_stand_of_Balin's_folk.md).<sup id="cite_ref-Bridge_3-1" class="reference"><a href="#cite_note-Bridge-3">[3]</a></sup> Vì Ori biết rằng không còn hy vọng trốn thoát nên anh ấy tiếp tục viết vào cuốn sách, hy vọng rằng ai đó sẽ tìm thấy nó và biết chuyện gì đã xảy ra với họ.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+Ori rút lui về [Phòng Mazarbul](../C/Chamber_of_Mazarbul.md) nơi [mộ của Balin](../B/Balin's_Tomb.md) được đặt. Ông đã viết những trang cuối cùng trong [Sách của Mazarbul](../B/Book_of_Mazarbul.md) trước khi ông và một số Người lùn cuối cùng còn lại bỏ mạng trong [trận chiến cuối cùng](../L/Last_stand_of_Balin's_folk.md).<sup id="cite_ref-Bridge_3-1" class="reference"><a href="#cite_note-Bridge-3">[3]</a></sup> Vì Ori biết rằng không còn hy vọng trốn thoát nên ông tiếp tục viết vào cuốn sách, hy vọng rằng ai đó sẽ tìm thấy nó và biết chuyện gì đã xảy ra với họ.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
-Khi [Frodo Baggins](../F/Frodo_Baggins.md) đến [Rivendell](../R/Rivendell.md) anh gặp [Glóin](../G/Glóin.md), người rất vui khi kể cho anh chàng hobbit nghe về hoạt động của vương quốc người lùn mới ở Ngọn Núi Cô Đơn. Nhưng khi Frodo hỏi về Ori, [Balin](../B/Balin.md) và [Óin](../_/Óin.md) (cũng là thành viên của Thorin và Đoàn tùy tùng), mặt Glóin tối sầm lại và nói rằng mình không biết. Trên thực tế, số phận của họ phần lớn chính là lý do tại sao Người Lùn lại đến Rivendell vào thời điểm đó để xin lời khuyên.<sup id="cite_ref-Meetings_2-1" class="reference"><a href="#cite_note-Meetings-2">[2]</a></sup>
+Khi [Frodo Baggins](../F/Frodo_Baggins.md) đến [Rivendell](../R/Rivendell.md) anh gặp [Glóin](../G/Glóin.md), người rất vui khi kể cho anh chàng hobbit nghe về hoạt động của vương quốc người lùn mới được đổi mới ở Lonely Mountain. Nhưng khi Frodo hỏi về Ori, [Balin](../B/Balin.md) và [Óin](../_/Óin.md) (cũng là thành viên của Thorin và Company), mặt Glóin tối sầm và anh nói rằng anh không biết. Trên thực tế, số phận của họ phần lớn là lý do tại sao Người lùn đến Rivendell vào thời điểm đó để tìm kiếm lời khuyên.<sup id="cite_ref-Meetings_2-1" class="reference"><a href="#cite_note-Meetings-2">[2]</a></sup>
 
 ### Di sản {#Legacy}
 
-Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) đã du hành qua [Moria](../M/Moria.md) và phát hiện ra cuốn sách chứa đựng những ghi chép về chuyến thám hiểm. Những dòng cuối cùng được viết bởi Ori, được [Gimli](../G/Gimli.md) công nhận do chữ viết to, đậm của Ori có thể nhận ra bằng cách sử dụng [Tengwar](../T/Tengwar.md) (Gimli cũng cho biết Ori có thể viết tốt và nhanh chóng).<sup id="cite_ref-Bridge_3-2" class="reference"><a href="#cite_note-Bridge-3">[3]</a></sup>
+Trong [Cuộc chiến của chiếc nhẫn](../W/War_of_the_Ring.md), [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) đã hành trình qua [Moria](../M/Moria.md) và phát hiện ra cuốn sách chứa đựng những ghi chép về chuyến thám hiểm. Những dòng cuối cùng được viết bởi Ori, được [Gimli](../G/Gimli.md) công nhận do chữ viết to, đậm dễ nhận biết của Ori khi sử dụng [Tengwar](../T/Tengwar.md) (Gimli cũng nói rằng Ori có thể viết tốt và nhanh chóng).<sup id="cite_ref-Bridge_3-2" class="reference"><a href="#cite_note-Bridge-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -121,7 +121,7 @@ Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), [Đoàn Hộ Nhẫn](../
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Ori được cho là anh em họ của Dori và Nori trong ghi chú của Tolkien năm 1966, bất chấp niềm tin phổ biến rằng anh ta là anh trai của họ. Người ta cũng xác nhận rằng anh ta đội mũ trùm đầu màu xám.<sup id="cite_ref-Person_1-1" class="reference"><a href="#cite_note-Person-1">[1]</a></sup>
+Ori được cho là anh họ của Dori và Nori trong ghi chú năm 1966 của Tolkien, mặc dù mọi người vẫn tin rằng ông là anh trai của họ. Người ta cũng xác nhận rằng ông ta đội mũ trùm đầu màu xám.<sup id="cite_ref-Person_1-1" class="reference"><a href="#cite_note-Person-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -174,21 +174,21 @@ Ori được cho là anh em họ của Dori và Nori trong ghi chú của Tolkie
 
 ### Phim {#Films}
 
-<b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim 1967)</a>:</b>
+<b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>Người Hobbit</i> (phim 1967)</a>:</b>
 
 <dl><dd>Ori is omitted. <a href="../T/Thorin.md" title="Thorin">Thorin Oakenshield</a> only travels with an unnamed watchman and princess <a href="../M/Mika_Milovana.md" title="Mika Milovana">Mika Milovana</a> of Dale.<sup id="cite_ref-Deitch_14-0" class="reference"><a href="#cite_note-Deitch-14">[14]</a></sup></dd></dl>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>Người Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>Ori&#39;s voice is provided by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jack_DeLeon&amp;action=edit&amp;redlink=1" title="Jack DeLeon (page does not exist)">Jack DeLeon</a>. However, he only ever speaks in unison with the rest of the Dwarves.</dd></dl>
 
-<b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a>:</b>
+<b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>Người Hobbit</i> (loạt phim)</a>:</b>
 
 <dl><dd>Ori is portrayed by <a href="../A/Adam_Brown.md" title="Adam Brown">Adam Brown</a>.<sup id="cite_ref-PJCasting_15-0" class="reference"><a href="#cite_note-PJCasting-15">[15]</a></sup> A description of Ori in <i>The Hobbit</i> films was released by the studio:</dd></dl>
 
 <dl><dd><blockquote class="tg-quote noexcerpt"></blockquote></dd></dl>
 
-Em trai của Nori và Dori, Ori là một nghệ sĩ tài năng và người ta thường thấy anh ấy vẽ và viết nhật ký. Chính Ori là người ghi lại phần lớn cuộc hành trình xuyên qua [Vùng hoang dã](../T/The_Wild.md) đến bờ biển [Long Lake](../L/Long_Lake.md) và các sườn dốc của [Vùng Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md). Lịch sự và được giáo dục tốt, anh ấy thường bị anh trai Dori chỉ huy và thường là người dễ bảo, mặc dù đôi khi anh ấy có thể khiến những người bạn đồng hành ngạc nhiên bằng lòng dũng cảm và sự quyết tâm của mình.
+Là em trai của Nori và Dori, Ori là một nghệ sĩ tài năng và người ta thường thấy ông đang vẽ và viết nhật ký. Chính Ori là người ghi lại phần lớn cuộc hành trình xuyên qua [The Wild](../T/The_Wild.md) đến bờ [Hồ Dài](../L/Long_Lake.md) và sườn núi [Ngọn núi Cô đơn](../L/Lonely_Mountain.md). Lịch sự và được giáo dục tốt, ông thường bị anh trai Dori chỉ huy và thường là người dễ bảo, mặc dù đôi khi ông có thể khiến những người bạn đồng hành của mình ngạc nhiên vì lòng dũng cảm và sự quyết tâm của mình.
 
 <p class="tg-quote-footer"><cite><a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros.</a><sup id="cite_ref-HobbitApp_16-0" class="reference"><a href="#cite_note-HobbitApp-16">[16]</a></sup></cite></p>
 
@@ -198,11 +198,11 @@ Em trai của Nori và Dori, Ori là một nghệ sĩ tài năng và người ta
 
 ### Loạt đài phát thanh {#Radio_series}
 
-<b>1968: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>The Hobbit</i> (loạt phim phát thanh 1968)</a>:</b>
+<b>1968: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>Người Hobbit</i> (loạt phim phát thanh năm 1968)</a>:</b>
 
 <dl><dd>Ori is portrayed by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Wilfrid_Carter&amp;action=edit&amp;redlink=1" title="Wilfrid Carter (page does not exist)">Wilfrid Carter</a>.</dd></dl>
 
-<b>1979: <a href="../T/The_Hobbit_(1979_radio_series).md" title="The Hobbit (1979 radio series)"><i>The Hobbit</i> (loạt phim phát thanh 1979)</a>:</b>
+<b>1979: <a href="../T/The_Hobbit_(1979_radio_series).md" title="The Hobbit (1979 radio series)"><i>Người Hobbit</i> (loạt phim phát thanh năm 1979)</a>:</b>
 
 <dl><dd>No actor is specified for the role of Ori.</dd></dl>
 
@@ -216,15 +216,15 @@ Em trai của Nori và Dori, Ori là một nghệ sĩ tài năng và người ta
 
 ### Trò chơi {#Games}
 
-<b>1982: <a href="../T/The_Hobbit_(1982_video_game).md" title="The Hobbit (1982 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 1982)</a>:</b>
+<b>1982: <a href="../T/The_Hobbit_(1982_video_game).md" title="The Hobbit (1982 video game)"><i>Người Hobbit</i> (trò chơi điện tử năm 1982)</a>:</b>
 
 <dl><dd>Ori is omitted; Thorin is the only companion of the player, <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></dd></dl>
 
-<b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
+<b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>Người Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
 
 <dl><dd>No actor is credited for the role of Ori.</dd></dl>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">The Lord of the Rings Trực tuyến: Mỏ Moria</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">Chúa tể của những chiếc nhẫn trực tuyến: Mỏ Moria</a></i>:</b>
 
 <dl><dd>The player controls Ori during a during a session play entitled <a class="external text" href="https://lotro-wiki.com/index.php/Quest:Instance:_We_Cannot_Get_Out" rel="noreferrer noopener" target="_blank">We Cannot Get Out</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> It shows the last moments of <a href="../B/Balin.md" title="Balin">Balin&#39;s</a> expedition during <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2994.md" title="Third Age 2994">2994</a>, in which the dwarves make their last desperate stand in the <a href="../C/Chamber_of_Mazarbul.md" title="Chamber of Mazarbul">Chamber of Mazarbul</a> and Ori is killed by <a class="external text" href="https://lotro-wiki.com/index.php/Mazog" rel="noreferrer noopener" target="_blank">Mazog</a>, son of <a href="../B/Bolg.md" title="Bolg">Bolg</a>.</dd></dl>
 

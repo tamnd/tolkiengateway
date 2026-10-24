@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Aragorn](../../main/A/Aragorn_II.md) trong [The Lord of the Rings, Tập. II: The Two Towers](../../main/T/The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md).
+[Aragorn](../../main/A/Aragorn_II.md) trong [The Lord of the Rings, Vol. II: The Two Towers](../../main/T/The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md).
 
 ## Giấy phép {#Licensing}
 

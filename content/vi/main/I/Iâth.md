@@ -15,7 +15,7 @@ sort_keys:
   "Sindarin nouns": "Iath"
 ---
 
-<i><b>iâth</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "hàng rào".<sup id="cite_ref-silmap_1-0" class="reference"><a href="#cite_note-silmap-1">[1]</a></sup><sup id="cite_ref-WJ_2-0" class="reference"><a href="#cite_note-WJ-2">[2]</a></sup>
+<i><b>iâth</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) và có nghĩa là "hàng rào".<sup id="cite_ref-silmap_1-0" class="reference"><a href="#cite_note-silmap-1">[1]</a></sup><sup id="cite_ref-WJ_2-0" class="reference"><a href="#cite_note-WJ-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 

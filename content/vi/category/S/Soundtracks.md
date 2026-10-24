@@ -12,4 +12,4 @@ categories:
   - "Music"
 ---
 
-Thể loại này và các thể loại con của nó liệt kê tất cả **bản nhạc phim** của tất cả các bản chuyển thể từ [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) tác phẩm.
+Thể loại này và các thể loại con của nó liệt kê tất cả **nhạc phim** của tất cả các bản chuyển thể từ tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

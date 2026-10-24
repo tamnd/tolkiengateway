@@ -27,7 +27,7 @@ Vào [20 tháng 3](../_/20_March.md) [1969](../_/1969.md), [J.R.R. Tolkien](../J
 
 ## Nội dung {#Contents}
 
-Thư xin chữ ký, thảo luận về một sự hiểu lầm, các vấn đề sức khỏe gần đây (vợ củaTolkien và của Amy Ronald), và thảo luận về bản dịch của *The Hobbit*, "Tôi sẽ rất muốn biết phiên bản tiếng Pháp của Le Hobbit gây ấn tượng với bạn như thế nào. Cá nhân tôi nghĩ một trong những kết quả đáng tiếc nhất của cuộc xâm lược nước Anh của Pháp là sự pha trộn ngôn ngữ của chúng ta. Với hậu quả là chúng ta có một thành phần tiếng Pháp-Latin lớn, phần lớn trôi nổi như dầu, và được sử dụng đặc biệt khi chúng ta đang bị 'người lớn', ngột ngạt hoặc chuyên nghiệp. Vì vậy, tiếng Pháp (đối với những người không biết rõ về nó) thường nghe có vẻ xa hoa trong hội thoại thông tục".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Thư xin chữ ký, thảo luận về một sự hiểu lầm, các vấn đề sức khỏe gần đây (vợ của Tolkien và Amy Ronald), và thảo luận về bản dịch *The Hobbit*, "Tôi sẽ rất muốn biết phiên bản tiếng Pháp của Le Hobbit gây ấn tượng với bạn như thế nào. Cá nhân tôi nghĩ một trong những kết quả đáng tiếc nhất của cuộc xâm lược nước Anh của Pháp là sự pha trộn ngôn ngữ của chúng ta. Với hậu quả là chúng ta có một thành phần Pháp-Latinh lớn, phần lớn trôi nổi như dầu, và được sử dụng đặc biệt khi chúng ta 'người lớn', ngột ngạt, hoặc chuyên nghiệp. Vì vậy, tiếng Pháp (đối với những người không biết rõ) thường nghe có vẻ khoa trương trong hội thoại thông tục".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

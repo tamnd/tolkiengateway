@@ -34,15 +34,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Shirriff_Hob_Hayward.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/df/The_Lord_of_the_Rings_Online_-_Shirriff_Hob_Hayward.jpg/260px-The_Lord_of_the_Rings_Online_-_Shirriff_Hob_Hayward.jpg" decoding="async" loading="lazy" width="260" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/df/The_Lord_of_the_Rings_Online_-_Shirriff_Hob_Hayward.jpg/390px-The_Lord_of_the_Rings_Online_-_Shirriff_Hob_Hayward.jpg 1.5x, https://tolkiengateway.net/w/images/d/df/The_Lord_of_the_Rings_Online_-_Shirriff_Hob_Hayward.jpg 2x" data-file-width="450" data-file-height="830"/></a><figcaption>&#34;Shirriff Hob Hayward&#34; from <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hob Hayward</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shirriff.md" title="Shirriff">Shirriff</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Buckland.md" title="Buckland">Buckland</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">Late <a href="../T/Third_Age.md" title="Third Age">Third Age</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a href="Hayward_Family.md" title="Hayward Family">Hayward</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Hob_Hayward.md" title="Category:Images of Hob Hayward">Images of Hob Hayward</a></td></tr></tbody></table>
 
-**Hob Hayward** là [Hobbit](Hobbits.md) của [the Shire](../T/The_Shire.md).
+**Hob Hayward** là một [Hobbit](Hobbits.md) của [Quận](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
-Hob là một [Shirriff](../S/Shirriff.md) có hai lông vũ. Trước Cuộc chiến Nhẫn, anh ấy đã xem [Hay Gate](../B/Buckland_Gate.md) của [Buckland](../B/Buckland.md). Anh ấy rất quen với [Gia đình Brandybuck](../B/Brandybuck_Family~66350.md).
+Hob là một [Shirriff](../S/Shirriff.md) có hai lông vũ. Trước War of the Ring, ông đã xem [Buckland](../B/Buckland.md)'s [Hay Gate](../B/Buckland_Gate.md). Ông rất quen với [Gia đình Brandybuck](../B/Brandybuck_Family~66350.md).
 
-Trong thời kỳ [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md) trị vì Shire, Cảnh sát trưởng đã được tổ chức lại. Hob đã già và là một trong số các cảnh sát trưởng canh gác hàng rào mới ở [Cầu Brandywine](../B/Brandywine_Bridge.md) dưới sự chỉ huy của [Bill Ferny](../B/Bill_Ferny.md).
+Trong thời kỳ [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md) trị vì Quận, các Cảnh sát đã được tổ chức lại. Hob đã già và là một trong số cảnh sát trưởng canh gác hàng rào mới ở [Cầu Brandywine](../B/Brandywine_Bridge.md) dưới sự chỉ huy của [Bill Ferny](../B/Bill_Ferny.md).
 
-Khi [Frodo Baggins](../F/Frodo_Baggins.md) và [những người bạn đồng hành](../T/Travellers.md) trở về sau cuộc phiêu lưu, họ tìm thấy Hob ở cổng, người đã cấm họ vào cổng hàng rào. Sau khi họ đuổi Ferny đi, Hob đã thông báo cho họ về những thay đổi ở quê hương họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi [Frodo Baggins](../F/Frodo_Baggins.md) và [những người bạn đồng hành](../T/Travellers.md) trở về sau chuyến phiêu lưu, họ tìm thấy Hob ở cổng, người đã cấm họ vào cổng hàng rào. Sau khi họ đuổi Ferny đi, Hob đã thông báo cho họ về những thay đổi ở quê hương họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -50,7 +50,7 @@ A *hayward* là cán bộ địa phương có nhiệm vụ kiểm tra hàng rào
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Found at the <a href="../B/Buckland_Gate.md" title="Buckland Gate">Gate of Buckland</a>, Shirriff  Hob Hayward asks the player to invetigate a disturbance within the <a href="../O/Old_Forest.md" title="Old Forest">Old Forest</a>.</dd></dl>
 

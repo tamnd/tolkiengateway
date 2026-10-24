@@ -32,7 +32,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**Dan Hennah** từng là nhà thiết kế sản xuất cho [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>) và [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>). Anh ấy cũng miêu tả [Old Took](../G/Gerontius_Took.md) trong [phiên bản mở rộng](<../T/The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md>) của *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)*.
+**Dan Hennah** từng là nhà thiết kế sản xuất cho [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>) và [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>). Ông cũng miêu tả [Old Took](../G/Gerontius_Took.md) trong [phiên bản mở rộng](<../T/The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md>) của *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)*.
 
 ## Giải thưởng {#Awards}
 

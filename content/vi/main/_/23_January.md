@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 23 tháng 1.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) phải đối mặt với Hội đồng y tế ở [Birmingham](../B/Birmingham.md), nhưng anh ta được cho là không đủ sức khỏe để quay lại [chiến tranh](../W/World_War_I.md).
+- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) phải đối mặt với Hội đồng y tế ở [Birmingham](../B/Birmingham.md), nhưng ông ta được cho là không đủ sức khỏe để quay lại [chiến tranh](../W/World_War_I.md).
 - **[1939](1939.md)** - [Anh em nhà Hildebrandt](../T/The_Brothers_Hildebrandt.md) ra đời.
 - **[2020](2020.md)** - [Barbara Remington](../B/Barbara_Remington.md), họa sĩ trang bìa trên một số ấn bản ở Mỹ, qua đời.
 - **[2021](2021.md)** - *[Tolkien and the Classical World](../T/Tolkien_and_the_Classical_World.md)* được xuất bản.
@@ -74,5 +74,5 @@ Sự kiện xảy ra vào ngày 23 tháng 1.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
-    - [Gandalf](../G/Gandalf.md) theo đuổi [ Balrog](../D/Durin's_Bane.md) đến đỉnh cao [Celebdil](../C/Celebdil.md).
+    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).
+    - [Gandalf](../G/Gandalf.md) truy đuổi [Balrog](../D/Durin's_Bane.md) đến đỉnh cao [Celebdil](../C/Celebdil.md).

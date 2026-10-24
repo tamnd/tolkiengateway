@@ -12,7 +12,7 @@ categories:
   - "Moria"
 ---
 
-**North End** đề cập đến phần phía bắc của thành phố [Khazad-dûm](../M/Moria.md). Nằm ở đây là [Đại sảnh thứ Hai mươi mốt](../T/Twenty-first_Hall.md), một trung tâm dân cư quan trọng của Thuộc địa của [Balin](../B/Balin's_Colony~64118.md). Cũng nằm ở đây là [Phòng Mazarbul](../C/Chamber_of_Mazarbul.md). Nhóm [Học bổng](../F/Fellowship_of_the_Ring.md) đã cắm trại ở khu vực đó trong hành trình xuyên qua Moria.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**North End** đề cập đến phần phía bắc của thành phố [Khazad-dûm](../M/Moria.md). Nằm ở đây là [Hội trường 21](../T/Twenty-first_Hall.md), là trung tâm dân cư quan trọng của [Thuộc địa Balin](../B/Balin's_Colony~64118.md). Cũng nằm ở đây là [Phòng Mazarbul](../C/Chamber_of_Mazarbul.md). Nhóm [Học bổng](../F/Fellowship_of_the_Ring.md) cắm trại ở khu vực đó trong chuyến hành trình qua Moria.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

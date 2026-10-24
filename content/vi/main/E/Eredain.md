@@ -22,7 +22,7 @@ langlinks:
     url: "https://kontu.wiki/Eredain"
 ---
 
-**Eredain**, hay **Schweizerische Tolkien Gesellschaft**, là [Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) Thụy Sĩ. Nó được thành lập vào ngày [Ngày 25 tháng 3](../_/25_March.md), [1986](../_/1986.md) và tan rã vào mùa hè năm [2006](../_/2006.md). Vào [1996](../_/1996.md), họ đã thành lập [Nhà xuất bản Cây biết đi](../W/Walking_Tree_Publishers.md) và hiện vẫn còn tồn tại.
+**Eredain**, hay **Schweizerische Tolkien Gesellschaft**, là [Hiệp hội Tolkien](../T/Tolkien_Societies~67099.md) của Thụy Sĩ. Nó được thành lập vào [25 tháng 3](../_/25_March.md), [1986](../_/1986.md) và tan rã vào mùa hè năm [2006](../_/2006.md). Vào [1996](../_/1996.md), họ đã thành lập [Nhà xuất bản Cây biết đi](../W/Walking_Tree_Publishers.md) và hiện vẫn còn tồn tại.
 
 ## Liên kết ngoài {#External_links}
 

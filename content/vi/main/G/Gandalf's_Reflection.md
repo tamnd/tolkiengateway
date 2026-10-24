@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Gandalf's Reflection** là phần thứ hai của ca khúc thứ bảy trong *[The Hobbit: The Complete Original Soundtrack](../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md)* từ [1977](../_/1977.md) [phim chuyển thể](<../T/The_Hobbit_(1977_film).md>), kết hợp với "[That's What Bilbo Baggins Hates](../T/That's_What_Bilbo_Baggins_Hates.md)." Chuyển thể từ bài thơ “[Vượt qua những ngọn núi mù sương lạnh](../F/Far_over_the_misty_mountains_cold.md)” của [Jules Bass](../J/Jules_Bass.md) với phần nhạc do [Maury Laws](../M/Maury_Laws.md) sáng tác, thực tế chỉ có khổ đầu và khổ cuối được hát; phần còn lại được thực hiện dưới dạng đọc thuộc lòng bởi [Gandalf](Gandalf.md).
+**Gandalf's Reflection** là phần thứ hai của ca khúc thứ bảy trong *[The Hobbit: The Complete Original Soundtrack](../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md)* từ [1977](../_/1977.md) [phim chuyển thể](<../T/The_Hobbit_(1977_film).md>), kết hợp với "[That's What Bilbo Baggins Hates](../T/That's_What_Bilbo_Baggins_Hates.md)." Chuyển thể từ bài thơ “[Vượt qua những ngọn núi mù sương lạnh](../F/Far_over_the_misty_mountains_cold.md)” của [Jules Bass](../J/Jules_Bass.md) với phần nhạc do [Maury Laws](../M/Maury_Laws.md) sáng tác, thực tế chỉ có khổ đầu và khổ cuối được hát; phần còn lại được biểu diễn dưới dạng đọc thuộc lòng của [Gandalf](Gandalf.md).
 
 ## Lời bài hát {#Lyrics}
 

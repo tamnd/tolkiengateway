@@ -58,25 +58,25 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;<a href="../T/The_Annals_of_Aman.md" title="The Annals of Aman">The Annals of Aman</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Nienna** là Nữ hoàng của [Valar](../V/Valar.md), em gái của [Mandos](../M/Mandos.md) và [Irmo](../I/Irmo.md), quen với nỗi đau buồn nhưng cũng có lòng thương hại và lòng dũng cảm.
+**Nienna** là Nữ hoàng của [Valar](../V/Valar.md), em gái của [Mandos](../M/Mandos.md) và [Irmo](../I/Irmo.md), quen với nỗi đau buồn và nỗi buồn nhưng cũng có lòng thương hại và lòng can đảm.
 
 ## Thuộc tính {#Attributes}
 
-Là em gái của [Fëanturi](../F/Fëanturi.md), cô được xếp hạng là một trong tám [Aratar](../A/Aratar.md), người mạnh nhất trong Valar. Yếu tố của cô ấy là đau buồn và cô ấy luôn than khóc cho những vết thương của thế giới bởi cái ác. Ai lắng nghe cô sẽ học được sự khôn ngoan và sức chịu đựng trong đau buồn.<sup id="cite_ref-SIIb_1-0" class="reference"><a href="#cite_note-SIIb-1">[1]</a></sup>
+Là em gái của [Fëanturi](../F/Fëanturi.md), cô được xếp hạng là một trong tám [Aratar](../A/Aratar.md), người mạnh nhất của Valar. Yếu tố của bà là đau buồn và bà luôn than khóc cho những vết thương của thế giới bởi cái ác. Ai lắng nghe cô sẽ học được sự khôn ngoan và sức chịu đựng trong đau buồn.<sup id="cite_ref-SIIb_1-0" class="reference"><a href="#cite_note-SIIb-1">[1]</a></sup>
 
-[Sảnh](../H/Halls_of_Nienna.md) của cô ấy ở phía tây xa xôi, gần với [Sảnh của Mandos](../H/Halls_of_Mandos.md), nhưng ở biên giới phía tây của Thế giới và cửa sổ của cô ấy nhìn ra ngoài từ [Những Bức Tường của Thế giới](../W/Walls_of_the_World.md). Cô sống một mình và hiếm khi đến thành phố vui tươi [Valmar](../V/Valmar.md). Cô thường xuyên đến phòng của anh trai mình [Mandos](../M/Mandos.md) để an ủi và khuyên nhủ những người trong [Sảnh chờ](../H/Halls_of_Waiting.md) đang khóc vì cô.<sup id="cite_ref-SIIb_1-1" class="reference"><a href="#cite_note-SIIb-1">[1]</a></sup>
+[Các sảnh](../H/Halls_of_Nienna.md) của bà ở phía tây xa xôi, gần với [Các sảnh của Mandos](../H/Halls_of_Mandos.md), nhưng ở biên giới phía tây của Thế giới và các cửa sổ của bà nhìn ra ngoài từ [Các bức tường của Thế giới](../W/Walls_of_the_World.md). Cô sống một mình và hiếm khi đến thành phố vui tươi [Valmar](../V/Valmar.md). Cô thường xuyên đến phòng của anh trai mình [Mandos](../M/Mandos.md) để an ủi và khuyên nhủ những người trong [Phòng chờ](../H/Halls_of_Waiting.md) đang khóc vì cô.<sup id="cite_ref-SIIb_1-1" class="reference"><a href="#cite_note-SIIb-1">[1]</a></sup>
 
-Tất cả những gì được biết về ngoại hình của cô ấy là cô ấy đội một chiếc mũ trùm đầu màu xám.<sup id="cite_ref-S9_2-0" class="reference"><a href="#cite_note-S9-2">[2]</a></sup>
+Tất cả những gì được biết về ngoại hình của bà là bà đội một chiếc mũ trùm đầu màu xám.<sup id="cite_ref-S9_2-0" class="reference"><a href="#cite_note-S9-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
-Phần của cô trong [Âm nhạc của các Ainur](../M/Music_of_the_Ainur.md) là một nỗi buồn sâu sắc, và từ nỗi đau này đã đi vào thế giới ngay từ đầu.<sup id="cite_ref-SIIb_1-2" class="reference"><a href="#cite_note-SIIb-1">[1]</a></sup> Người ta nói rằng sự đau khổ của cô quá lớn trước sự bất hòa của Melkor trong Âm nhạc đến nỗi cô không thể chịu đựng cho đến khi nó kết thúc.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Phần của cô trong [Âm nhạc của người Ainur](../M/Music_of_the_Ainur.md) là một phần của nỗi buồn sâu sắc, và từ nỗi đau buồn này đã đi vào thế giới ngay từ đầu.<sup id="cite_ref-SIIb_1-2" class="reference"><a href="#cite_note-SIIb-1">[1]</a></sup> Người ta nói rằng sự tàn nhẫn của cô quá lớn trước sự bất hòa của Melkor trong Âm nhạc đến nỗi cô không thể chịu đựng cho đến khi nó kết thúc.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-[Maia](../M/Maiar.md) [Olórin](../G/Gandalf.md#Names), người sau này du hành đến [Trung Địa](../M/Middle-earth.md) với tư cách là [Gandalf](../G/Gandalf.md), đã học được nhiều điều từ cô ấy.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+[Maia](../M/Maiar.md) [Olórin](../G/Gandalf.md#Names), người sau này du hành tới [Trung Địa](../M/Middle-earth.md) với tư cách là [Gandalf](../G/Gandalf.md), đã học được nhiều điều từ bà.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Nienna đóng một vai trò trong việc tạo ra [Hai Cây của Valinor](../T/Two_Trees_of_Valinor.md); cô ấy đã khóc trên gò [Ezellohar](../E/Ezellohar.md), tưới nước cho nó bằng nước mắt của mình.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Sau khi [Melkor](../M/Morgoth.md) Cây bị tàn phá, cô ấy một lần nữa khóc trên những vết thương còn sót lại của chúng, rửa sạch sự bẩn thỉu của [Ungoliant](../U/Ungoliant.md) và giúp sinh ra những trái và hoa cuối cùng sẽ trở thành [Mặt Trời](../S/Sun.md) và [Mặt Trăng](../M/Moon.md).<sup id="cite_ref-S9_2-1" class="reference"><a href="#cite_note-S9-2">[2]</a></sup>
+Nienna đóng một vai trò trong việc tạo ra [Hai cây Valinor](../T/Two_Trees_of_Valinor.md); bà đã khóc trên gò đất [Ezellohar](../E/Ezellohar.md), tưới nước cho nó bằng nước mắt của mình.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Sau khi [Melkor](../M/Morgoth.md) phá hủy Cây cối, bà một lần nữa khóc trên những vết thương còn sót lại của chúng, rửa sạch sự bẩn thỉu của [Ungoliant](../U/Ungoliant.md), đồng thời giúp sinh ra hoa và quả cuối cùng sẽ trở thành [Mặt trời](../S/Sun.md) và [Mặt trăng](../M/Moon.md).<sup id="cite_ref-S9_2-1" class="reference"><a href="#cite_note-S9-2">[2]</a></sup>
 
-Sự tiếc nuối của Nienna thể hiện rõ nhất ở việc cô ủng hộ Melkor khi anh khởi kiện xin ân xá cho Valar. Mặc dù cô ấy đã dành thời gian của mình trên thế giới để thương tiếc cho sự tàn phá mà anh ấy đã gây ra Arda, nhưng khi anh ấy kiện đòi trả tự do sau ba năm bị giam cầm, Nienna đã lên tiếng về phần mình.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Sự thương hại của Nienna thể hiện rõ nhất ở việc cô ủng hộ Melkor khi anh khởi kiện xin ân xá cho các Valar. Mặc dù bà dành thời gian trên thế giới để thương tiếc cho sự tàn phá mà ông đã gây ra ở Arda, khi ông kiện đòi trả tự do sau ba năm bị giam cầm, Nienna đã lên tiếng về phần mình.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -94,10 +94,10 @@ Sự tiếc nuối của Nienna thể hiện rõ nhất ở việc cô ủng h�
 Trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, một số tên ban đầu của Nienna là:
 
 - <i><b>Nyenna</b></i> <sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
-- <i><b>Fui</b></i> ([Q](../Q/Quenya.md): "Đêm"), mặc dù đây chính xác hơn là tên [nơi ở của cô ấy](../H/Halls_of_Nienna.md#Other_versions_of_the_legendarium).
-- <i><b>Heskil</b></i> ([Qenya](../Q/Qenya.md): "Mùa Đông Một")<sup id="cite_ref-LT1_9-0" class="reference"><a href="#cite_note-LT1-9">[9]</a></sup>
+- <i><b>Fui</b></i> ([Q](../Q/Quenya.md): "Đêm"), mặc dù đây chính xác hơn là tên [nơi ở của bà](../H/Halls_of_Nienna.md#Other_versions_of_the_legendarium).
+- <i><b>Heskil</b></i> ([Qenya](../Q/Qenya.md): "Mùa đông thứ nhất")<sup id="cite_ref-LT1_9-0" class="reference"><a href="#cite_note-LT1-9">[9]</a></sup>
 - <i><b>Núri</b></i> ([Qenya](../Q/Qenya.md): "Người thở dài")<sup id="cite_ref-LT1_9-1" class="reference"><a href="#cite_note-LT1-9">[9]</a></sup>
-- <i><b>Qalmë-Tári</b></i> ([Qenya](../Q/Qenya.md): "Bà chủ của Thần Chết")<sup id="cite_ref-LT1_9-2" class="reference"><a href="#cite_note-LT1-9">[9]</a></sup>
+- <i><b>Qalmë-Tári</b></i> ([Qenya](../Q/Qenya.md): "Bà chủ của Thần chết")<sup id="cite_ref-LT1_9-2" class="reference"><a href="#cite_note-LT1-9">[9]</a></sup>
 
 Tầm quan trọng của Nienna tăng lên cùng với sự phát triển của Legendarium, và ngay cả trong *[The Annals of Aman](../T/The_Annals_of_Aman.md)*, cô vẫn được coi là em gái của [Manwë](../M/Manwë.md) và [Melkor](../M/Melkor.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 

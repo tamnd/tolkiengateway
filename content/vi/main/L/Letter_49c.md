@@ -29,11 +29,11 @@ infobox:
 
 ## Nền {#Background}
 
-Tháng 3 năm [1943](../_/1943.md) Tolkien được bổ nhiệm làm giám đốc khóa học tiếng Anh cho học viên Hải quân và Không quân, khóa đầu tiên sắp kết thúc, nhóm học viên thứ hai sẽ đến vào cuối tháng.
+Vào tháng 3 năm [1943](../_/1943.md) Tolkien được bổ nhiệm làm giám đốc khóa học tiếng Anh cho học viên Hải quân và Không quân, khóa đầu tiên sắp kết thúc, nhóm học viên thứ hai sẽ đến vào cuối tháng.
 
 ## Tóm tắt {#Summary}
 
-Trong thư gửi con [Christopher](../C/Christopher_Tolkien.md), Tolkien bày tỏ sự cảm thông với khoảng thời gian khó khăn Christopher đã trải qua trong tuần trước và trấn an con rằng một lời nhắn ngắn gọn là đủ trong giai đoạn bận rộn. Tolkien chia sẻ thông tin cập nhật từ nhà, đề cập đến thời tiết đẹp, rất nhiều táo và lê sắp sẵn sàng, cũng như sự bận rộn của anh ấy trong việc tổ chức khóa học của Hải quân Hoàng gia. Anh ấy lưu ý rằng cơ hội thực hiện dự án viết lách "[Hobbit](../T/The_Hobbit.md)" của mình rất mong manh và đề nghị gửi trái cây đến địa điểm tiếp theo của Christopher. <br>
+Trong một bức thư gửi con trai mình [Christopher](../C/Christopher_Tolkien.md), Tolkien bày tỏ sự cảm thông với khoảng thời gian khó khăn mà Christopher đã trải qua vào tuần trước và trấn an anh rằng một bức thư ngắn gọn là đủ trong thời gian bận rộn. Tolkien chia sẻ những thông tin cập nhật từ nhà, đề cập đến thời tiết đẹp, rất nhiều táo và lê sắp sẵn sàng, cũng như sự bận rộn của chính ông trong việc tổ chức một khóa học của Hải quân Hoàng gia. Ông lưu ý đến cơ hội mong manh khi thực hiện dự án viết lách "[Hobbit](../T/The_Hobbit.md)" của mình và đề nghị gửi trái cây đến địa điểm tiếp theo của Christopher. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

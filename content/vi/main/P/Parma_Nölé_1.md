@@ -15,7 +15,7 @@ sort_keys:
   "Parma Nölé": "Parma Nole 01"
 ---
 
-<b><i>Parma Nölé</i> 1</b> là số đầu tiên của tạp chí [Miền Bắc phương Đông Tolkien của Hiệp hội](../N/North_East_Tolkien_Society.md) [Parma Nölé](Parma_Nölé.md), phát hành tháng 2 [2001](../_/2001.md).
+<b><i>Parma Nölé</i> 1</b> là số đầu tiên của tạp chí [Hiệp hội Tolkien Đông Bắc](../N/North_East_Tolkien_Society.md) [Parma Nölé](Parma_Nölé.md), phát hành tháng 2 [2001](../_/2001.md).
 
 ## Nội dung {#Contents}
 
@@ -23,7 +23,7 @@ sort_keys:
 - [Anthony S. Burdge](../A/Anthony_S._Burdge.md): "Bài xã luận của Parma Nole"
 - Daniel Zachari'ah: "Những ám chỉ trong Kinh thánh trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Roseane_Daniello&amp;action=edit&amp;redlink=1" title="Roseane Daniello (page does not exist)">Roseane Daniello</a>: "Chào mừng đến với Tolkien Jeopardy!"
-- Daniel Zachari'ah: "The Lord of the Rings Đánh giá đoạn giới thiệu phim (xem trước tháng 4 năm 2000)"
+- Daniel Zachari'ah: "Đánh giá đoạn giới thiệu phim Chúa tể của những chiếc nhẫn (xem trước tháng 4 năm 2000)"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Roseane_Daniello&amp;action=edit&amp;redlink=1" title="Roseane Daniello (page does not exist)">Roseane Daniello</a>: "Một câu hỏi được đặt ra cho Ngài [Ian McKellen](../I/Ian_McKellen.md)"
-- Hiến pháp Istarion ở đây
+- Hiến pháp Istarion đây
 - "Chào mừng đến với Tolkien Jeopardy!" câu trả lời

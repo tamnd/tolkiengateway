@@ -22,4 +22,4 @@ sort_keys:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.imdb.com/name/nm1275186/" rel="noreferrer noopener" target="_blank">Sam Hài kịch</a> tại IMDb
+- <a class="external text" href="http://www.imdb.com/name/nm1275186/" rel="noreferrer noopener" target="_blank">Sam Comery</a> tại IMDb

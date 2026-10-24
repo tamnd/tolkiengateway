@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien's Riders of Rohan"
 ---
 
-Chuyển hướng đến Kỵ sĩ của [J.R.R. Tolkien của Rohan](../J/J.R.R._Tolkien's_Riders_of_Rohan.md).
+Chuyển hướng đến Riders of Rohan của [J.R.R. Tolkien](../J/J.R.R._Tolkien's_Riders_of_Rohan.md).

@@ -39,46 +39,46 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_128.gif.md"><img src="https://tolkiengateway.net/w/images/7/72/Mythlore_128.gif" decoding="async" loading="lazy" width="225" height="319" class="mw-file-element" data-file-width="225" data-file-height="319"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 128</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../J/Janet_Brennan_Croft.md" title="Janet Brennan Croft">Janet Brennan Croft</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Spring/Summer <a href="../_/2016.md" title="2016">2016</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">224</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_127.md" title="Mythlore 127">Mythlore 127</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_129.md" title="Mythlore 129">Mythlore 129</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 128</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol34/iss2/" rel="noreferrer noopener" target="_blank">Tập 34, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 128</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol34/iss2/" rel="noreferrer noopener" target="_blank">Tập 34, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Rovang, Paul R. "Một người Spenserian trở lại Trái đất: *The Faerie Queene* trong *That Hideous Strength*."
-- Eddings, Sarah. "Việc sử dụng mặt phẳng thẳng đứng để biểu thị sự thánh thiện trong Bộ ba không gian của C.S. Lewis."
-- Martin, Thomas L. "Bảy ăn bảy: *The Voyage of the* 'Người bước đi bình minh' và Truyền thống văn học."
-- Schuknecht, Mattison. "C.S. Lewis Món nợ của Dante: *The Voyage of the* 'Dawn Trader' và *Purgatorio*."
-- Christopher, Joe R. "Hai thần rừng củaC.S. Lewis."
-- Akgün, Buket. "Helmholtz, Bác sĩ, Minotaur và Mê cung."
-- Kelly, Steven. "Phá vỡ cái nhìn của Rồng: Chủ nghĩa tôn sùng hàng hóa trong Trung Địa của Tolkien."
-- Miller, John. "Ánh xạ giới tính trong Trung Địa."
-- Jarman, Cody. " Hắc Ngữ: *The Lord of the Rings* như một phê bình ngôn ngữ học hiện đại."
+- Rovang, Paul R. "A Spenserian Returns to Earth: *The Faerie Queene* in *That Hideous Strength*."
+- Eddings, Sarah. "The Use of the Vertical Plane to Indicate Holiness in C.S. Lewis's Space Trilogy."
+- Martin, Thomas L. "Seven for Seven: *The Voyage of the* 'Dawn Treader' and the Literary Tradition."
+- Schuknecht, Mattison. "C.S. Lewis's Debt to Dante: *The Voyage of the* 'Dawn Trader' and *Purgatorio*."
+- Christopher, Joe R. "C.S. Lewis's Two Satyrs."
+- Akgün, Buket. "The Helmholtz, the Doctor, the Minotaur, and the Labyrinth."
+- Kelly, Steven. "Breaking the Dragon's Gaze: Commodity Fetishism in Tolkien's Middle-earth."
+- Miller, John. "Mapping Gender in Middle-earth."
+- Jarman, Cody. "The Black Speech: *The Lord of the Rings* as a Modern Linguistic Critique."
 
 #### Tính năng {#Features}
 
 - Croft, Janet Brennan. Biên tập.
 - Rosengrant, John. Bình luận về “1904: Tolkien, Chấn thương và những ngày kỷ niệm của nó”.
-- Polesiak, Debra. Jean Louise đến Tòa Tháp Bóng Tối Đã đến.
-- Miller, Ryder W. American Người sống sót: Truyện ngụ ngôn của William Faulkner.
+- Polesiak, Debra. Jean Louise đến Tháp Bóng tối Đã đến.
+- Miller, Ryder W. American Survivor: William Faulkner’s A Fable.
 
 #### Đánh giá {#Reviews}
 
 - *Charles Williams: The Third Inkling.* Grevel Lindop. Được đánh giá bởi Scott McLaren.
 - *Nhà nguyện gai: Một bài thơ đầy kịch tính.* Charles Williams. Biên tập và giới thiệu bởi Sørina Higgins. Được đánh giá bởi Scott McLaren.
-- *Phụ nữ và C.S. Lewis: Cuộc đời và văn học của ông tiết lộ điều gì cho nền văn hóa ngày nay.* Carolyn Curtis và Mary Pomroy Key, eds. Được đánh giá bởi Rebekah Choat.
-- *Tolkien Among the Moderns.* Được biên tập bởi Ralph C. Wood. Được đánh giá bởi Andrew C. Stout.
+- *Phụ nữ và C.S. Lewis: Cuộc đời và văn học của ông tiết lộ điều gì cho nền văn hóa ngày nay.* Carolyn Curtis và Mary Pomroy Key, biên tập. Được đánh giá bởi Rebekah Choat.
+- *Tolkien Among the Moderns.* Biên tập bởi Ralph C. Wood. Được đánh giá bởi Andrew C. Stout.
 - *Tolkien.* Raymond Edwards. Được đánh giá bởi Cait Coker.
-- *Những đứa trẻ biến thành thiên nga: Truyện cổ tích và trí tưởng tượng của người ngoại giáo.* Jan Beveridge. Được đánh giá bởi Brian Roberts.
+- *Những đứa trẻ thành thiên nga: Truyện cổ tích và trí tưởng tượng của người ngoại đạo.* Jan Beveridge. Được đánh giá bởi Brian Roberts.
 - *Trilby/The Crumb Fairy.* Charles Nodier. Ruth Berman dịch và chuyển thể. Được đánh giá bởi Kelly Orazi.
 - *The Prince of the Aquamarines.* Louise Cavalier Levesque. Chuyển. và với lời bạt của Ruth Berman. Được đánh giá bởi Kelly Orazi.
 - *The Lessons of Nature in Mythology.* Rachel S. McCoppin. Được đánh giá bởi Kristine Larsen.
-- *Bờ biển này: Jahrbuch der Deutschen Tolkien Gesellschaft. Số đặc biệt: Thiên nhiên và Phong cảnh trong Tolkien.* Ed. Thomas Fornet-Ponse và cộng sự. Được đánh giá bởi Janet Brennan Croft.
+- *Bờ biển này: Jahrbuch der Deutschen Tolkien Gesellschaft. Số đặc biệt: Thiên nhiên và Phong cảnh ở Tolkien.* Ed. Thomas Fornet-Ponse và cộng sự. Được đánh giá bởi Janet Brennan Croft.
 - *Seven: An Anglo-American Literary Review.* Biên tập. Marjorie đèn Mead. Được đánh giá bởi Janet Brennan Croft.
 - *Tolkien Studies: An Annual Scholarly Review.* Biên tập. Michael D.C. Drout, Verlyn Flieger và David Bratman. Được đánh giá bởi Janet Brennan Croft.
 - *Kỹ năng của người tìm kiếm: Rowling, Tôn giáo và Gen 11/9.* Marilyn R. Pukkila. Được đánh giá bởi Emily Moniz Mirova.
 - *Light: Truyện ngắn đầu tiên và cuối cùng của C.S. Lewis.* Charlie W. Starr. Được đánh giá bởi Melody Green.
-- *The Story of Kullervo.* J.R.R. Tolkien. Biên tập và giới thiệu bởi Verlyn Flieger. Được đánh giá bởi Mike Austin Foster.
+- *The Story of Kullervo.* J.R.R. Tolkien. Verlyn Flieger biên tập và giới thiệu. Được đánh giá bởi Mike Foster.
 - *Cách tiếp cận chủ nghĩa hiện đại của Victoria trong tiểu thuyết của Dorothy L. Sayers.* Aoife Leahy. Được đánh giá bởi Joe R. Christopher.
 - *Reading Joss Whedon.* Rhonda V. Wilcox, Tanya R. Cochran, Cynthea Masson và David Lavery, biên tập. Được đánh giá bởi Janet Brennan Croft.
 

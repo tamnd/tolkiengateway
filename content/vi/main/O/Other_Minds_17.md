@@ -28,18 +28,18 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 17</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Hawke Robinson</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Other Minds Volunteers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">July <a href="../_/2017.md" title="2017">2017</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">215</td></tr></tbody></table>
 
-<b><i>Other Minds</i> 17</b> là số thứ mười bảy của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh Trung Địa, xuất bản vào tháng 7 năm 2017.
+<b><i>Other Minds</i> 17</b> là số thứ mười bảy của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh ở Trung Địa, được xuất bản vào tháng 7 năm 2017.
 
 ## Nội dung {#Contents}
 
 - "Biên tập"
     - Bởi [Thomas Morwinsky](../T/Thomas_Morwinsky.md)
-- "The Road Goes Ever On"
+- "Con Đường Mãi Mãi Đi"
     - Bởi Thomas Morwinsky
 - "Thông tin nội bộ"
     - Bởi Thomas Morwinsky
-- "Trung Địa thu nhỏ III: Nỗi kinh hoàng của ngày xưa"
-    - Tác giả José Enrique Vacas de la Rosa
+- "Trung địa thu nhỏ III: Nỗi kinh hoàng ngày xưa"
+    - Bởi José Enrique Vacas de la Rosa
 - "Đánh giá: Bóng tối của Mirkwood"
     - Bởi Thomas Morwinsky
 - "Đánh giá: Rivendell"
@@ -48,7 +48,7 @@ infobox:
     - Bởi Thomas Morwinsky
 - "Hạt giống đầu tiên của khu rừng lớn"
     - Bởi: Olaf "Falenthal" Anguera
-- "Bóng Tối trên Amon Nyrn"
+- "Bóng tối bao trùm Amon Nyrn"
     - Bởi: Paul Kirk
 - "Leofrings"
     - Bởi: Paul Kirk
@@ -56,7 +56,7 @@ infobox:
     - Bởi: Paul Kirk
 - "Đô thị hóa Gondor và Rohan"
     - Bởi: Thomas Morwinsky
-- "Sinh vật Trung Địa: Người sói"
+- "Sinh vật ở Trung Địa: Người sói"
     - Bởi: José Enrique Vacas de la Rosa
 - "Phụ lục" (bản đồ liên quan đến Đô thị hóa Gondor và Rohan)
     - Bởi: Thomas Morwinsky

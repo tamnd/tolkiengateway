@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Last Ship"
 ---
 
-Chuyển hướng đến [The Con Tàu Cuối Cùng](../T/The_Last_Ship.md).
+Chuyển hướng đến [Con tàu cuối cùng](../T/The_Last_Ship.md).

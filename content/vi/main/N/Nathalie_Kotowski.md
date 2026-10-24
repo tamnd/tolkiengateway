@@ -29,9 +29,9 @@ langlinks:
 
 ## Lịch sử {#History}
 
-Nathalie Kotowski là người sáng lập [Belegaer - Cercle d'etudes de Tolkien en Belgique](<../B/Belegaer_(Tolkien_Society).md>) đồng thời là tổng biên tập tạp chí *Cirth De Gandalf*của tổ chức này.
+Nathalie Kotowski là người sáng lập [Belegaer - Cercle d'etudes de Tolkien en Belgique](<../B/Belegaer_(Tolkien_Society).md>) đồng thời là tổng biên tập tạp chí *Cirth De Gandalf* của tổ chức này.
 
-Ngoài việc tham gia vào Belegaer, Nathalie còn là người bảo lãnh cho *[Beyond Bree](../B/Beyond_Bree.md)* và là thành viên của [Hội Tolkien](../T/The_Tolkien_Society.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Nathalie thỉnh thoảng cũng được giới truyền thông phỏng vấn về chủ đề Tolkien.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Nathalie đã tham dự hội nghị Kỷ niệm 100 năm năm 1992.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Ngoài việc tham gia vào Belegaer, Nathalie còn là người bảo lãnh cho *[Beyond Bree](../B/Beyond_Bree.md)* và là thành viên của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Nathalie thỉnh thoảng cũng được giới truyền thông phỏng vấn về chủ đề Tolkien.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Nathalie đã tham dự hội nghị Kỷ niệm 100 năm năm 1992.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

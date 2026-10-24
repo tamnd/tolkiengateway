@@ -34,7 +34,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Morthond</b></i> là ca khúc thứ tư trong album [Minas Morgul](<Minas_Morgul_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ dòng sông [Morthond](Morthond.md) ở [Gondor](../G/Gondor.md).
+<i><b>Morthond</b></i> là ca khúc thứ tư trong album [Minas Morgul](<Minas_Morgul_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ con sông [Morthond](Morthond.md) ở [Gondor](../G/Gondor.md).
 
 ## Lời bài hát {#Lyrics}
 

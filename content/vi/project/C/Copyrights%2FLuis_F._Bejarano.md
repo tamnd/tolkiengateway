@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Bejarano, Luis F."
 ---
 
-- Luis F. Bejarano đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Luis_F._Bejarano.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Luis F. Bejarano đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Luis_F._Bejarano.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 9 tháng 7 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

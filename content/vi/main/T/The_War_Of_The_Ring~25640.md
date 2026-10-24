@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The War of the Ring"
 ---
 
-Chuyển hướng đến [The War of the Ring](The_War_of_the_Ring.md).
+Chuyển hướng đến [Cuộc chiến trên chiếc nhẫn](The_War_of_the_Ring.md).

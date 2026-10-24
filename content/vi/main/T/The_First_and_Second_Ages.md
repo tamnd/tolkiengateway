@@ -50,14 +50,14 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_First_and_Second_Ages.png.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c2/The_First_and_Second_Ages.png/320px-The_First_and_Second_Ages.png" decoding="async" loading="lazy" width="320" height="459" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c2/The_First_and_Second_Ages.png/480px-The_First_and_Second_Ages.png 1.5x, https://tolkiengateway.net/w/images/thumb/c/c2/The_First_and_Second_Ages.png/640px-The_First_and_Second_Ages.png 2x" data-file-width="1726" data-file-height="2474"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The First and Second Ages</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Foreword by</th><td class="tg-infobox-data"><a href="../S/Shaun_Gunner.md" title="Shaun Gunner">Shaun Gunner</a> (second edition)</td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Trevor Reynolds</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Paula DiSante, Sarah Beach</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1992.md" title="1992">1992</a><sup id="cite_ref-ebay_1-0" class="reference"><a href="#cite_note-ebay-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">48<sup id="cite_ref-ebay_1-1" class="reference"><a href="#cite_note-ebay-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-905520-04-1" title="Special:BookSources/0-905520-04-1">0-905520-04-1</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../P/Peter_Roe_Memorial_Fund.md" title="Peter Roe Memorial Fund">Peter Roe Memorial Fund</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../L/Leaves_from_the_Tree.md" title="Leaves from the Tree">Leaves from the Tree</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Travel_and_Communication_in_Tolkien&#39;s_Worlds.md" title="Travel and Communication in Tolkien&#39;s Worlds">Travel and Communication in Tolkien&#39;s Worlds</a></td></tr></tbody></table>
 
-<i><b>Đầu tiên và thứ hai Kỷ nguyên</b></i> là tập hợp các kỷ yếu của Hội thảo Xã hội Tolkien lần thứ 5, được tổ chức tại Milton Keynes vào năm 1990. Nó được xuất bản bởi [Hội Tolkien](The_Tolkien_Society.md) trong [1992](../_/1992.md) dưới sự bảo trợ của [Quỹ Tưởng niệm Peter Roe](../P/Peter_Roe_Memorial_Fund.md) trong [1992](../_/1992.md); nó đã được tái bản dưới dạng ấn bản thứ hai vào năm [2020](../_/2020.md).
+<i><b>Kỷ nguyên thứ nhất và thứ hai</b></i> là tuyển tập các kỷ yếu của Hội thảo của Hiệp hội Tolkien lần thứ 5, được tổ chức tại Milton Keynes vào năm 1990. Nó được [Hiệp hội Tolkien](The_Tolkien_Society.md) xuất bản tại [1992](../_/1992.md) dưới sự bảo trợ của [Quỹ Tưởng niệm Peter Roe](../P/Peter_Roe_Memorial_Fund.md) tại [1992](../_/1992.md); nó đã được tái bản dưới dạng ấn bản thứ hai vào năm [2020](../_/2020.md).
 
 ## Nội dung {#Contents}
 
-- "Từ Fëanor đến Bác sĩ Faustus: Một "Đấng sáng tạo", tự hủy diệt", bởi [John Ellison](../J/John_Ellison.md)
-- "Trước Mặt Trăng, Trước Mặt Trời: Thời điểm quan trọng trong Thần thoại của Tolkien", bởi Denis Bridoux
-- "Sự tinh khiết và mối nguy hiểm trong Trung Địa", của [Chris Seeman](../C/Chris_Seeman.md)
-- "'Những người tốt' - Tiên tộc của Kỷ Đệ Nhất", bởi [Alex Lewis](../A/Alex_Lewis.md)
+- "Từ Fëanor đến Bác sĩ Faustus: Một "Đấng sáng tạo", tự hủy hoại chính mình", bởi [John Ellison](../J/John_Ellison.md)
+- "Trước mặt trăng, trước mặt trời: Thời điểm quan trọng trong thần thoại Tolkien", bởi Denis Bridoux
+- "Sự thuần khiết và mối nguy hiểm ở Trung Địa", của [Chris Seeman](../C/Chris_Seeman.md)
+- "'Những người tốt' - Yêu tinh thời đại đầu tiên", bởi [Alex Lewis](../A/Alex_Lewis.md)
 
 ## Lịch sử xuất bản {#Publication_history}
 
@@ -85,9 +85,9 @@ infobox:
 		</li>
 </ul>
 
-- [Hội Tolkien](The_Tolkien_Society.md) bìa mềm, ấn bản đầu tiên ([1992](../_/1992.md)), trang 48. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0905520041">ISBN 0-905520-04-1</a>
-- [Hội Tolkien](The_Tolkien_Society.md) bìa mềm, in lần thứ hai, trang 48. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0905520041">ISBN 0-905520-04-1</a>
-- [Hội Tolkien](The_Tolkien_Society.md)/Luna Press bìa mềm, ấn bản thứ hai ([4 tháng Chín](../_/4_September.md) [2020](../_/2020.md)), trang 80. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9781913387532">ISBN 978-1-913387-53-2</a>
+- [The Tolkien Society](The_Tolkien_Society.md) bìa mềm, ấn bản đầu tiên ([1992](../_/1992.md)), trang 48. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0905520041">ISBN 0-905520-04-1</a>
+- [The Tolkien Society](The_Tolkien_Society.md) bìa mềm, in lần thứ hai, trang 48. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0905520041">ISBN 0-905520-04-1</a>
+- [The Tolkien Society](The_Tolkien_Society.md)/Luna Press bìa mềm, ấn bản thứ hai ([ngày 4 tháng 9](../_/4_September.md) [2020](../_/2020.md)), trang 80. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9781913387532">ISBN 978-1-913387-53-2</a>
 
 <span></span>
 

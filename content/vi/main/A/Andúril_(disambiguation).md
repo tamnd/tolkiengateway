@@ -16,21 +16,21 @@ images:
   - "Disambig.png"
 ---
 
-**Andúril** có thể tham khảo:
+**Andúril** có thể đề cập đến:
 
 ## [Arda](Arda.md) {#Arda}
 
-- **[Andúril](Andúril.md)**, tên thanh kiếm của [Aragorn](Aragorn.md), Narsil được rèn lại
+- **[Andúril](Andúril.md)**, tên thanh kiếm của [Aragorn](Aragorn.md), thanh Narsil được rèn lại
 
 ## [Thế giới thực](../../category/R/Real-world.md) {#Real-world}
 
-- *[Andúril](<Andúril_(UK).md>)*, ấn phẩm của [Hội Tolkien](../T/The_Tolkien_Society.md)
+- *[Andúril](<Andúril_(UK).md>)*, một ấn phẩm của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md)
 - *[Anduril](<Anduril_(USA).md>)*, một ấn phẩm được biên tập bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Paul_Zimmer&amp;action=edit&amp;redlink=1" title="Paul Zimmer (page does not exist)">Paul Zimmer</a>, [Marion Zimmer Bradley](../M/Marion_Zimmer_Bradley.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=David_Bradley&amp;action=edit&amp;redlink=1" title="David Bradley (page does not exist)">David Bradley</a>
 
 ## Các bản chuyển thể {#Adaptations}
 
 - *[Andúril - Flame of the West](Andúril_-_Flame_of_the_West.md)*, cảnh trong [The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
-- *[Andúril (soundtrack)](<Andúril_(soundtrack).md>)*, một ca khúc trong [The Lord of the Rings: The Return of the King của [Howard Shore](../H/Howard_Shore.md) - Nhạc phim gốc](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md).
+- *[Andúril (soundtrack)](<Andúril_(soundtrack).md>)*, một ca khúc trong [The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md) của [Howard Shore](../H/Howard_Shore.md).
 
 <hr style="margin-top:15px;"/>
 

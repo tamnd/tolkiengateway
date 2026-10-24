@@ -37,17 +37,17 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Liz_Danforth_-_Annatar_and_the_Seven_Rings.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f1/Liz_Danforth_-_Annatar_and_the_Seven_Rings.png/300px-Liz_Danforth_-_Annatar_and_the_Seven_Rings.png" decoding="async" loading="lazy" width="300" height="395" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/f1/Liz_Danforth_-_Annatar_and_the_Seven_Rings.png 1.5x" data-file-width="318" data-file-height="419"/></a><figcaption><i>Annatar and the seven rings</i> by <a href="../L/Liz_Danforth.md" title="Liz Danforth">Liz Danforth</a></figcaption></figure>
 
-**Bảy chiếc nhẫn Người lùn** là [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md) được [Sauron](Sauron.md) trao cho bảy Lãnh chúa [Người lùn](../D/Dwarves.md) dưới vỏ bọc [Annatar](../A/Annatar.md).
+**Bảy chiếc nhẫn của người lùn** là [Những chiếc nhẫn quyền lực](../R/Rings_of_Power.md) được trao cho bảy [Lãnh chúa người lùn](../D/Dwarves.md) bởi [Sauron](Sauron.md) dưới vỏ bọc [Annatar](../A/Annatar.md).
 
 ## Lịch sử {#History}
 
-Rõ ràng các Lãnh chúa là Vua của Bảy Nhà, như [Gandalf](../G/Gandalf.md) đề cập rằng những chiếc Nhẫn được trao cho các "Người lùn-vua".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Rõ ràng các Lãnh chúa là Vua của Bảy Nhà, như [Gandalf](../G/Gandalf.md) đề cập rằng những chiếc Nhẫn được trao cho "Các vị vua người lùn".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Nổi tiếng nhất là [Chiếc nhẫn của Thrór](../R/Ring_of_Thrór.md): theo truyền thống Người lùn người ta nói [Celebrimbor](../C/Celebrimbor.md) đã trao Chiếc nhẫn cho [Durin III](../D/Durin_III.md) vua của [Dân tộc Durin](../D/Durin's_Folk~15256.md) trước Sự sụp đổ của [Eregion](../E/Eregion.md),<sup id="cite_ref-a_2-0" class="reference"><a href="#cite_note-a-2">[2]</a></sup> nhưng điều này có vẻ khó xảy ra vì Celebrimbor được cho là đã trao Bảy - tất cả Bảy - cho Sauron sau tra tấn.<sup id="cite_ref-ring_3-0" class="reference"><a href="#cite_note-ring-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Nổi tiếng nhất là [Chiếc nhẫn của Thrór](../R/Ring_of_Thrór.md): theo truyền thống của Người lùn, người ta nói rằng [Celebrimbor](../C/Celebrimbor.md) đã trao Chiếc nhẫn cho [Durin III](../D/Durin_III.md) vua của [Dân tộc Durin](../D/Durin's_Folk~15256.md) trước khi [Ezone](../E/Eregion.md) sụp đổ,<sup id="cite_ref-a_2-0" class="reference"><a href="#cite_note-a-2">[2]</a></sup> nhưng điều này có vẻ khó xảy ra vì Celebrimbor được cho là đã trao Bảy - tất cả Bảy - cho Sauron sau khi bị tra tấn.<sup id="cite_ref-ring_3-0" class="reference"><a href="#cite_note-ring-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Các lãnh chúa Người lùn đã chứng tỏ khả năng chống lại ma thuật độc ác của những chiếc nhẫn, vì chúng khó thuần hóa và những suy nghĩ trong lòng họ bị che giấu.<sup id="cite_ref-ring_3-1" class="reference"><a href="#cite_note-ring-3">[3]</a></sup> Những chiếc nhẫn, chỉ được sử dụng để đạt được sự giàu có, đã khuếch đại các kỹ năng tự nhiên của người đeo và mong muốn thống trị, do đó, khiến họ trở nên tham lam và cực kỳ giàu có; Những chiếc Nhẫn đã cho họ sức mạnh để nhân lên bất cứ thứ gì họ khai thác được.<sup id="cite_ref-a_2-1" class="reference"><a href="#cite_note-a-2">[2]</a></sup> Người ta nói rằng nhờ có họ mà [Bảy Hoards](Seven_Hoards.md) đã được tạo ra. Nhưng những chiếc Nhẫn cũng khơi dậy lòng tham và sự phẫn nộ trong Người Lùn, mang đến những tệ nạn mà về lâu dài có lợi cho Sauron.<sup id="cite_ref-ring_3-2" class="reference"><a href="#cite_note-ring-3">[3]</a></sup>
+Các Lãnh chúa Người lùn đã chứng tỏ khả năng chống lại ma thuật độc ác của những chiếc nhẫn, vì chúng khó thuần hóa và những suy nghĩ trong lòng họ bị che giấu.<sup id="cite_ref-ring_3-1" class="reference"><a href="#cite_note-ring-3">[3]</a></sup> Những chiếc nhẫn, chỉ được sử dụng để đạt được sự giàu có, đã khuếch đại các kỹ năng tự nhiên của người đeo và mong muốn thống trị, do đó, khiến họ trở nên tham lam và cực kỳ giàu có; Những chiếc Nhẫn đã cho họ sức mạnh để nhân lên bất cứ thứ gì họ khai thác được.<sup id="cite_ref-a_2-1" class="reference"><a href="#cite_note-a-2">[2]</a></sup> Người ta nói rằng nhờ có họ mà [Bảy Hoards](Seven_Hoards.md) đã được tạo ra. Nhưng những chiếc Nhẫn cũng khơi dậy lòng tham và cơn thịnh nộ trong Người lùn, mang đến những tệ nạn mà về lâu dài mang lại lợi ích cho Sauron.<sup id="cite_ref-ring_3-2" class="reference"><a href="#cite_note-ring-3">[3]</a></sup>
 
-Bốn chiếc đã bị [Rồng](../D/Dragons.md) tiêu thụ và phá hủy, nhưng Sauron đã tìm được hai chiếc.<sup id="cite_ref-b_5-0" class="reference"><a href="#cite_note-b-5">[5]</a></sup> Chiếc cuối cùng đã được [Thráin II](../T/Thráin.md) đeo, nhưng vào [T.A.](../T/Third_Age.md) [2845](../T/Third_Age_2845.md) anh ta bị Sauron giam giữ trong ngục tối của [Dol Guldur](../D/Dol_Guldur.md), và chiếc nhẫn đã bị lấy đi khỏi anh ta.<sup id="cite_ref-a_2-2" class="reference"><a href="#cite_note-a-2">[2]</a></sup>
+Bốn chiếc đã bị [Rồng](../D/Dragons.md) tiêu diệt và tiêu diệt, nhưng Sauron đã thành công trong việc tìm ra hai chiếc.<sup id="cite_ref-b_5-0" class="reference"><a href="#cite_note-b-5">[5]</a></sup> Chiếc cuối cùng được [Thráin II](../T/Thráin.md) đeo, nhưng vào [T.A.](../T/Third_Age.md) [2845](../T/Third_Age_2845.md) ông ta bị Sauron giam giữ trong ngục tối của [Dol Guldur](../D/Dol_Guldur.md), và chiếc nhẫn đã bị lấy đi khỏi ông ta.<sup id="cite_ref-a_2-2" class="reference"><a href="#cite_note-a-2">[2]</a></sup>
 
 ## Miêu tả trong chuyển thể {#Portrayals_in_adaptations}
 
@@ -103,7 +103,7 @@ Bốn chiếc đã bị [Rồng](../D/Dragons.md) tiêu thụ và phá hủy, nh
 		</li>
 </ul>
 
-<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
+<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
 
 <dl><dd>Each of the seven rings has its own card, released in two versions. The first in  <i><a href="../M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a></i> and then the second in <i><a href="../M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a></i> or <i><a href="../M/Middle-earth%253A_Against_the_Shadow.md" title="Middle-earth: Against the Shadow">Middle-earth: Against the Shadow</a></i>):
 <ul><li>Dwarven Ring of Dwálin&#39;s Tribe</li>
@@ -114,11 +114,11 @@ Bốn chiếc đã bị [Rồng](../D/Dragons.md) tiêu thụ và phá hủy, nh
 <li>Dwarven Ring of Thrár&#39;s Tribe</li>
 <li>Dwarven Ring of Drúin&#39;s Tribe.</li></ul></dd></dl>
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
 
 <dl><dd>The Seven appear in the introduction of the movie, worn by Dwarf kings. They are designed consistently to the general &#39;Dwarven&#39; aesthetics of the movie, with angular, crystalline shapes. However nowhere in Tolkien&#39;s books is mentioned that the Seven were designed or made for the Dwarves.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi đánh bài</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">Trò chơi thẻ bài Chúa tể của những chiếc nhẫn</a></i>:</b>
 
 <dl><dd>Several rings are named:
 <ul><li>Ring of Accretion<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li>
@@ -131,11 +131,11 @@ Bốn chiếc đã bị [Rồng](../D/Dragons.md) tiêu thụ và phá hủy, nh
 
 <dl><dd>During a meeting of the <a href="../W/White_Council.md" title="White Council">White Council</a>, Gandalf mentions that of the Seven Rings, four were consumed by <a href="../D/Dragons.md" title="Dragons">Dragons</a>, two were taken by <a href="Sauron.md" title="Sauron">Sauron</a> and <a href="../R/Ring_of_Thrór.md" title="Ring of Thrór">the last</a> had vanished with <a href="../T/Thráin.md" title="Thráin">Thráin</a>.</dd></dl>
 
-<b>2013: <i><a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Hobbit: The Desolation of Smaug</a></i>:</b>
+<b>2013: <i><a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">Người Hobbit: Sự tàn phá của Smaug</a></i>:</b>
 
 <dl><dd>When <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> encounters Thráin in <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>, he grabs Thrains hand and discovers his ring finger has been cut off. A flashback reveals <a href="../A/Azog.md" title="Azog">Azog the Defiler</a> cut off <a href="../T/Thráin.md" title="Thráin">Thráin</a>&#39;s finger and took <a href="../R/Ring_of_Thrór.md" title="Ring of Thrór">his ring</a> during the <a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Battle of Azanulbizar</a>.</dd></dl>
 
-<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>The Dwarf-rings consumed by dragons were not destroyed, but Sauron had those dragons imprisoned and tortured in an attempt to recover the Rings. The &#34;Ring-drakes&#34;, as they were called, were &#34;Hrímil Frost-heart&#34;, who consumed &#34;Tínya&#34; and the king of the Eastern &#34;Zhélruka&#34; dwarves who bore it; &#34;Thostír the Rank&#34;, who consumed &#34;Tulcya&#34;, the ring of another House in <a href="../R/Rhûn.md" title="Rhûn">Rhûn</a>; and &#34;Fingar the Greedy&#34;, a Great Worm of <a href="../A/Angband.md" title="Angband">Angband</a> who consumed &#34;Úrya&#34; and &#34;Vanya&#34;, the Rings of the Ered Luin kingdoms.</dd></dl>
 

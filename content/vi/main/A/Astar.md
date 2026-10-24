@@ -20,7 +20,7 @@ langlinks:
     url: "https://kontu.wiki/Astar"
 ---
 
-**Astar** (sg. *asta*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là [Quenya](../Q/Quenya.md) dành cho *months* của [Númenórean](../N/Númenórean.md) lịch.
+**Astar** (sg. *asta*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là [Quenya](../Q/Quenya.md) cho *months* của lịch [Númenórean](../N/Númenórean.md).
 
 Thông thường, một *asta* có 30 ngày, ngoại trừ [hai](../N/Nárië.md) [trung gian](../C/Cermie.md) *astar* trong [Kings' Reckoning](../K/Kings'_Reckoning.md), mỗi phần có 31 ngày.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

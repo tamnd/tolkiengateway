@@ -20,17 +20,17 @@ Luật pháp của Hiệp hội này nhấn mạnh vào công việc hơn là ng
 
 ## Lịch sử {#History}
 
-Thị trấn nơi Niggle sống có Thị trấn Hội đồng và Dịch vụ Khẩn cấp.
+Thị trấn nơi Niggle sống có Hội đồng Thị trấn và Dịch vụ Khẩn cấp.
 
-Trong khi Niggle đi qua Dãy Núi, anh ấy chưa bao giờ phát hiện ra rằng tên trong đời của mình là chủ đề tranh luận giữa ba người khác nhau trong Hội.
+Trong khi Niggle đi qua Dãy núi, ông chưa bao giờ phát hiện ra rằng tên của mình trong đời là chủ đề tranh luận giữa ba người khác nhau trong Hội.
 
-Một trong số họ là Ủy viên Hội đồng Tompkins, người đã tuyên bố rằng Niggle hoàn toàn không có ích gì cho Xã hội. Anh ta đã bị bác bỏ bởi một hiệu trưởng tên là [Atkins](../A/Atkins.md), người nói rằng điều đó phụ thuộc vào ý nghĩa của Tompkins khi nói "sử dụng".
+Một trong số họ là Ủy viên Hội đồng Tompkins, người đã tuyên bố rằng Niggle hoàn toàn không có ích gì cho Xã hội. Ông ta đã bị bác bỏ bởi một hiệu trưởng tên là [Atkins](../A/Atkins.md), người nói rằng điều đó phụ thuộc vào ý nghĩa của Tompkins khi nói "sử dụng".
 
-Đáp lại, Tompkins nói rõ rằng ý của anh ta là sử dụng thực tế và nếu anh ta điều hành đất nước, anh ta sẽ buộc Niggle làm một công việc như rửa bát hoặc “đuổi anh ta đi”.
+Đáp lại, Tompkins nói rõ rằng ý của ông ta là sử dụng thực tế và nếu ông ta điều hành đất nước, ông ta sẽ buộc Niggle làm một công việc như rửa bát hoặc “đuổi ông ta đi”.
 
-Atkins hỏi liệu ý của anh ta là có khiến Niggle bắt đầu cuộc hành trình của mình "trước thời đại" hay không.
+Atkins hỏi liệu ý của ông ta là có khiến Niggle bắt đầu cuộc hành trình của mình "trước thời đại" hay không.
 
-Về điều này, Tompkins một lần nữa khẳng định, mặc dù ông chỉ trích Atkins vì cách diễn đạt đó và ông thích cụm từ "Đẩy anh ta qua đường hầm vào Đống rác lớn".
+Về điều này, Tompkins một lần nữa khẳng định, mặc dù ông chỉ trích Atkins vì cách diễn đạt đó và ông thích cụm từ "Đẩy ông ta qua đường hầm vào Đống rác lớn".
 
 Atkins tiếp tục hỏi liệu ông có thực sự tin rằng bức tranh là vô giá trị hay không.
 
@@ -38,7 +38,7 @@ Tompkin coi một số bức tranh là hữu ích, chẳng hạn như áp phích
 
 Atkins bày tỏ sự thương hại của mình đối với Niggle và tiết lộ rằng anh đã cứu được một bức tranh: một bức vẽ mô tả “một đỉnh núi và một chùm lá”.
 
-Một người khác ở gần đó tên là [Perkins](../P/Perkins.md), đã cố gắng tham gia vào cuộc trò chuyện. Tuy nhiên, cùng lúc đó, Tompkins đã cố gắng rời khỏi cuộc trò chuyện. Tuy nhiên, Atkins đã lên án Tompkins vì đã sống trong nhà của Niggle bất chấp niềm tin của anh ta.
+Một người khác ở gần đó tên là [Perkins](../P/Perkins.md), đã cố gắng tham gia vào cuộc trò chuyện. Tuy nhiên, cùng lúc đó, Tompkins đã cố gắng rời khỏi cuộc trò chuyện. Tuy nhiên, Atkins đã lên án Tompkins vì đã sống trong nhà của Niggle bất chấp niềm tin của ông ta.
 
 Perkins tiết lộ rằng anh chưa bao giờ biết Niggle vẽ nhưng vẫn thông cảm cho anh.
 

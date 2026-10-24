@@ -13,7 +13,7 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>calen</b></i> (số nhiều <i><b>celin</b></i>) là từ [Sindarin](../S/Sindarin.md) chỉ "xanh".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tương đương [Quenya](../Q/Quenya.md) của nó là *calina*.
+<i><b>calen</b></i> (số nhiều <i><b>celin</b></i>) là từ [Sindarin](../S/Sindarin.md) cho "xanh".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> tương đương [Quenya](../Q/Quenya.md) của nó là *calina*.
 
 ## Ví dụ và trường hợp {#Examples_and_Instances}
 

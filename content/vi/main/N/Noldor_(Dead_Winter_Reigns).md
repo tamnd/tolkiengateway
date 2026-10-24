@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Noldor (Dead Winter Reigns)** là một bài hát trong album [Blind Guardian](../B/Blind_Guardian.md) liên quan đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) [Nightfall in Middle-Earth](Nightfall_in_Middle-Earth.md). Bài hát trình bày chi tiết về [Sự diệt vong](../D/Doom_of_Mandos.md) [Mandos](../M/Mandos.md).
+**Noldor (Dead Winter Reigns)** là một bài hát trong album [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) liên quan đến [Blind Guardian](../B/Blind_Guardian.md) [Nightfall in Middle-Earth](Nightfall_in_Middle-Earth.md). Bài hát trình bày chi tiết về [Sự diệt vong của](../D/Doom_of_Mandos.md) [Mandos](../M/Mandos.md).
 
 ## Lời bài hát {#Lyrics}
 

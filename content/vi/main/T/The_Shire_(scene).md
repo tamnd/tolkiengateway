@@ -34,19 +34,19 @@ infobox:
         3 (extended)</td></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">4:19 (theatrical)<br/>
           5:04 (extended)</td></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data">Gandalf arrives in <a href="../H/Hobbiton.md" title="Hobbiton">Hobbiton</a></td></tr><tr><th scope="row" class="tg-infobox-label">Characters</th><td class="tg-infobox-data"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>, <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> (voiceover)</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><i><a href="../C/Concerning_Hobbits_(scene).md" title="Concerning Hobbits (scene)">Concerning Hobbits</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><i><a href="../V/Very_Old_Friends.md" title="Very Old Friends">Very Old Friends</a></i></td></tr></tbody></table>
 
-**The Shire** là cảnh thứ hai của *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* và cảnh thứ ba của [*The Lord of the Rings: The Fellowship of the Ring* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>). Cảnh này đã được mở rộng trong phiên bản sau.
+**The Shire** là cảnh thứ hai của *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* và cảnh thứ ba của [*The Lord of the Rings: The Fellowship of the Ring* (extended edition)](<The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>). Cảnh này đã được mở rộng trong phiên bản sau.
 
 ## Tóm tắt {#Synopsis}
 
-Gandalf vào [Shire](../S/Shire.md), hát lời bài hát "[The Road Goes Ever On](<The_Road_Goes_Ever_On_(song).md>)". Anh ta bị phục kích bởi [Frodo](../F/Frodo.md), kẻ đang háo hức chờ đợi Gandalf đến. Gandalf tiến sâu hơn vào Shire, đi tới [Hobbiton](../H/Hobbiton.md). Frodo thông báo cho Gandalf các sự kiện gần đây, chẳng hạn như Bilbo hành vi gây rắc rối.
+Gandalf bước vào [Shire](../S/Shire.md), hát lời bài hát "[The Road Goes Ever On](<The_Road_Goes_Ever_On_(song).md>)". Ông ta bị phục kích bởi [Frodo](../F/Frodo.md), người đang háo hức chờ đợi Gandalf đến. Gandalf tiến sâu hơn vào Shire, tới [Hobbiton](../H/Hobbiton.md). Frodo thông báo cho Gandalf về những sự kiện gần đây, chẳng hạn như những hành vi rắc rối của Bilbo.
 
-Trong phiên bản mở rộng, Bilbo có một cơn hoảng loạn ngắn ngủi khi nghĩ rằng mình đã đánh mất <a class="mw-redirect mw-disambig" href="../R/Ring.md" title="Ring">Nhẫn</a>và phát hiện ra nó nằm trong túi của mình. Bilbo lời tường thuật từ cảnh trước đó cũng hoàn tất.
+Trong phiên bản mở rộng, Bilbo đã có một cơn hoảng loạn ngắn ngủi khi nghĩ rằng mình đã đánh mất <a class="mw-redirect mw-disambig" href="../R/Ring.md" title="Ring">Chiếc nhẫn</a>, rồi phát hiện ra nó nằm trong túi của mình. Lời tường thuật của Bilbo từ cảnh trước cũng hoàn tất.
 
 ## Sự khác biệt {#Differences}
 
 Cảnh này phần lớn được sáng tạo ra cho bộ phim nhưng lại thể hiện một số cảm hứng từ văn bản.
 
-- Bài hát "Con đường cứ đi mãi" trên thực tế là một sáng tác của Bilbo, mặc dù Gandalf có thể đã nghe thấy nó.
-- Frodo không được hiển thị để đáp ứng Gandalf. Lần xuất hiện đầu tiên của anh ấy trong sách là tại [Bữa tiệc chia tay](../F/Farewell_Party.md).
-- Bilbo không được thể hiện là đã đánh mất chiếc nhẫn, nhưng cảnh này phù hợp với đoạn độc thoại của anh ấy trong Chương 1 về cảm nhận của anh ấy về Nhẫn.
+- Bài hát "The road going ever on and on" trên thực tế là một sáng tác của Bilbo, mặc dù Gandalf có thể đã nghe thấy nó.
+- Frodo không xuất hiện để gặp Gandalf. Lần xuất hiện đầu tiên của ông trong sách là tại [Bữa tiệc chia tay](../F/Farewell_Party.md).
+- Bilbo không được cho là đã đánh mất chiếc nhẫn, nhưng cảnh này phù hợp với đoạn độc thoại của ông trong Chương 1 về cảm nhận của ông về chiếc Nhẫn.
 - Gandalf không bắn pháo hoa trước bữa tiệc.

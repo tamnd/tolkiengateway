@@ -13,18 +13,18 @@ categories:
   - "Mannish titles"
 ---
 
-**Vua của Dale** là người cai trị cha truyền con nối của [Dale](<../D/Dale_(Kingdom).md>), sau khi được thành lập bởi [Bard](../B/Bard.md) vào năm [T.A.](../T/Third_Age.md) [2944](../T/Third_Age_2944.md), bản thân ông là hậu duệ của [Girion](../G/Girion.md), [Lãnh chúa cuối cùng của Dale](../L/Lord_of_Dale.md).<sup id="cite_ref-great_1-0" class="reference"><a href="#cite_note-great-1">[1]</a></sup>
+**Vua của Dale** là người cai trị cha truyền con nối của [Dale](<../D/Dale_(Kingdom).md>), sau khi được thành lập bởi [Bard](../B/Bard.md) vào [T.A.](../T/Third_Age.md) [2944](../T/Third_Age_2944.md), bản thân ông là hậu duệ của [Girion](../G/Girion.md), [Lãnh chúa cuối cùng của Dale](../L/Lord_of_Dale.md).<sup id="cite_ref-great_1-0" class="reference"><a href="#cite_note-great-1">[1]</a></sup>
 
 ## Danh sách các vị vua {#List_of_Kings}
 
-- [Bard Tôi](../B/Bard.md) ([T.A.](../T/Third_Age.md) [2944](../T/Third_Age_2944.md) - [2977](../T/Third_Age_2977.md))<sup id="cite_ref-TA_2-0" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+- [Thi sĩ I](../B/Bard.md) ([T.A.](../T/Third_Age.md) [2944](../T/Third_Age_2944.md) - [2977](../T/Third_Age_2977.md))<sup id="cite_ref-TA_2-0" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 - [Bain](../B/Bain.md) ([T.A.](../T/Third_Age.md) [2977](../T/Third_Age_2977.md) - [3007](../T/Third_Age_3007.md))<sup id="cite_ref-TA_2-1" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
-- [Brand](../B/Brand.md) ([T.A.](../T/Third_Age.md) [3007](../T/Third_Age_3007.md) - [3019](../T/Third_Age_3019.md))<sup id="cite_ref-TA_2-2" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+- [Thương hiệu](../B/Brand.md) ([T.A.](../T/Third_Age.md) [3007](../T/Third_Age_3007.md) - [3019](../T/Third_Age_3019.md))<sup id="cite_ref-TA_2-2" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 - [Bard II](../B/Bard_II.md) (Từ [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md))<sup id="cite_ref-TA_2-3" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Chúa tể Dale](../L/Lord_of_Dale.md)
+- [Lãnh chúa của Dale](../L/Lord_of_Dale.md)
 
 <span></span>
 

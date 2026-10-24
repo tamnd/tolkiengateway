@@ -25,54 +25,54 @@ images:
 - biên luận
     - Histoire d'un aller et retour – Laura Martin-Gomez và Audrey Morelle
 - Thực tế
-    - Phỏng vấn của [Douglas A. Anderson](../D/Douglas_A._Anderson.md) — Laura Martin-Gomez
+    - Interview de [Douglas A. Anderson](../D/Douglas_A._Anderson.md) — Laura Martin-Gomez
     - *Le Hobbit Annoté* — Benjamin Bories
-    - *Promenades au Pays des Hobbits* của J-R Turlin — Stéphanie Loubechine
-    - *Dictionnaire Tolkien* người hướng dẫn của Vincent Ferré — Maria Kayed
-    - *Le Hobbit* : số lượng người tham dự hai lần — Vivien Stocker
+    - *Promenades au Pays des Hobbits* de J-R Turlin — Stéphanie Loubechine
+    - *Dictionnaire Tolkien* sous la direction de Vincent Ferré — Maria Kayed
+    - *Le Hobbit* : deux parutions inattendues — Vivien Stocker
 - Tổng hợp
-    - Thư mục tự động của bạn *Hobbit* — Vivien Stocker
+    - Bibliographie autour du *Hobbit* — Vivien Stocker
     - Danh mục nhân vật — Maria Kayed
 - Tiểu luận
     - Allers et retours en Terre du Milieu — Solveig Boissay
-    - Hình du giảng viên và người kể chuyện — Laura Martin-Gomez
-    - Bí mật của mọi người : Les noms des Nains dans l'œuvre de J.R.R. Tolkien — Damien Bador
+    - Figure du lecteur et du narrateur — Laura Martin-Gomez
+    - Un peuple secret : Les noms des Nains dans l’œuvre de J.R.R. Tolkien — Damien Bador
 - Ngôn ngữ
     - Les tengwar : un mode pour les Nains — Vivien Stocker
 - Giảm căng thẳng
-    - Les Énigmes : Sur les trace du *Hobbit* — Damien Bador
-    - Jeu de rune — Maria Kayed và Vivien Stocker
+    - Les Énigmes : Sur les traces du *Hobbit* — Damien Bador
+    - Jeu de runes — Maria Kayed et Vivien Stocker
 - Découverte
-    - Những điều chỉnh của *Hobbit* — Sébastien Marlair
-    - *Le Hobbit*, một vở nhạc kịch truyền cảm hứng — Julien Mansencal
-    - *Les Chroniques de la Terre d’Ombre* hoặc quay lại Willow — Solveig Boissay
+    - Les adaptations du *Hobbit* — Sébastien Marlair
+    - *Le Hobbit*, une inspiration musicale — Julien Mansencal
+    - *Les Chroniques de la Terre d’Ombre* ou le retour de Willow — Solveig Boissay
 
 ## Bản dịch tiếng Anh {#English_translation}
 
 - Biên tập
     - Câu chuyện về một chuyến đi khứ hồi – Laura Martin-Gomez và Audrey Morelle
 - Tin tức
-    - Phỏng vấn [Douglas A. Anderson](../D/Douglas_A._Anderson.md) — Laura Martin-Gomez
+    - Interview of [Douglas A. Anderson](../D/Douglas_A._Anderson.md) — Laura Martin-Gomez
     - *The Hobbit Annotated* — Benjamin Bories
-    - *Bước đi trong vùng đất Hobbit* của J-R Turlin — Stéphanie Loubechine
+    - *Walks in the Land of the Hobbits* by J-R Turlin — Stéphanie Loubechine
     - *Tolkien Dictionary* được chỉnh sửa bởi Vincent Ferré — Maria Kayed
     - *The Hobbit*: hai bản phát hành bất ngờ — Vivien Stocker
 - Tổng hợp
     - Thư mục xung quanh *Hobbit* — Vivien Stocker
     - Danh mục nhân vật — Maria Kayed
 - Thử nghiệm
-    - Quay lại trong Trung Địa — Solveig Boissay
-    - Hình tượng người đọc và người kể chuyện — Laura Martin-Gomez
-    - Người bí mật: Tên của Người Lùn trong tác phẩm của J.R.R. Tolkien — Damien Bador
+    - Back and forth in Middle-earth — Solveig Boissay
+    - Figure of the reader and the narrator — Laura Martin-Gomez
+    - A Secret People: The Names of the Dwarves in the Works of J.R.R. Tolkien — Damien Bador
 - NGÔN NGỮ
-    - Tengwar: một chế độ dành cho Người Lùn — Vivien Stocker
+    - The tengwar: a mode for the Dwarves — Vivien Stocker
 - Thư giãn
-    - Những bí ẩn: Theo bước chân của *Hobbit* — Damien Bador
-    - Bộ cổ ngữ — Maria Kayed và Vivien Stocker
+    - The Enigmas: In the footsteps of the *Hobbit* — Damien Bador
+    - Rune Set — Maria Kayed and Vivien Stocker
 - Khám phá
-    - Các bản chuyển thể của *Hobbit* — Sébastien Marlair
-    - *The Hobbit*, nguồn cảm hứng âm nhạc — Julien Mansencal
-    - *The Chronicles of the Umber Land* hoặc sự trở lại của Willow — Solveig Boissay
+    - Adaptations of the *Hobbit* — Sébastien Marlair
+    - *The Hobbit*, a musical inspiration — Julien Mansencal
+    - *The Chronicles of the Umber Land* or the return of Willow — Solveig Boissay
 
 ## Liên kết ngoài {#External_links}
 

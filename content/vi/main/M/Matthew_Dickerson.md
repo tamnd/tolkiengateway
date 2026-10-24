@@ -35,7 +35,7 @@ infobox:
 
 **Matthew T. Dickerson** là tác giả và giáo sư Khoa học Máy tính tại Đại học Middlebury ở Vermont<sup id="cite_ref-MC_1-0" class="reference"><a href="#cite_note-MC-1">[1]</a></sup>, người đã viết nhiều bài báo và sách về các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Ông có bằng Tiến sĩ về khoa học máy tính tại Đại học Cornell và chuyên ngành [tiếng Anh cổ](../O/Old_English.md) ngôn ngữ và văn học.<sup id="cite_ref-CCFW_2-0" class="reference"><a href="#cite_note-CCFW-2">[2]</a></sup>
+Ông có bằng Tiến sĩ về khoa học máy tính tại Đại học Cornell và chuyên ngành về ngôn ngữ và văn học [tiếng Anh cổ](../O/Old_English.md).<sup id="cite_ref-CCFW_2-0" class="reference"><a href="#cite_note-CCFW-2">[2]</a></sup>
 
 ## Thư mục chọn lọc {#Selected_bibliography}
 
@@ -43,29 +43,29 @@ infobox:
 
 - [2003](../_/2003.md): *[Following Gandalf: Epic Battles and Moral Victory in the Lord of the Rings](../F/Following_Gandalf%253A_Epic_Battles_and_Moral_Victory_in_the_Lord_of_the_Rings~64469.md)*
 - [2006](../_/2006.md): *[Ents, Elves, And Eriador: The Environmental Vision of J. R. R. Tolkien](../E/Ents,_Elves,_and_Eriador.md)* (với Jonathan Evans)
-- [2012](../_/2012.md): *Hành trình Hobbit: Khám phá sự mê hoặc của Trung Địa J. R. R. Tolkien*
+- [2012](../_/2012.md): *Hành trình của người Hobbit: Khám phá sự mê hoặc của Trung Địa J. R. R. Tolkien*
 
 ### Bài viết {#Articles}
 
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
-    - "Tiên tộc: Giống nòi và sự di cư"
+    - "Yêu tinh: Giống nòi và sự di cư"
     - "Ent"
     - "Finwë và Míriel"
     - "Tà giáo và ngoại giáo"
     - "Moria"
-    - "Ông già liễu"
+    - "Ông Lão Liễu"
     - "Thiên đường"
     - "Rivendell"
     - "Satan và Lucifer"
     - "Smith of Wootton Major (Nhân vật)"
-    - "Các phương pháp tiếp cận thần học và đạo đức trong tác phẩm của Tolkien"
+    - "Phương pháp tiếp cận thần học và đạo đức trong tác phẩm của Tolkien"
     - "Cây và Lá"
-    - "Treebeard"
+    - "Râu Cây"
     - "Cây"
     - "Valar"
-    - "Wilderland"
+    - "Vùng hoang dã"
 - [2011](../_/2011.md): *[Light Beyond All Shadow: Religious Experience in Tolkien's Work](../L/Light_Beyond_All_Shadow.md)*
-    - "Nước, Sinh thái và Tâm linh trong Tolkien's Trung Địa"
+    - "Nước, Sinh thái và Tâm linh ở Trung Địa của Tolkien"
 - [2013](../_/2013.md): *[The Body in Tolkien's Legendarium](../T/The_Body_in_Tolkien's_Legendarium.md)*
     - "Hröa và Fëa của Trung Địa: Sức khỏe, Sinh thái và Chiến tranh"
 - [2021](../_/2021.md): *J.R.R. Tolkien và Nghệ thuật: Thần học về sự sáng tạo phụ*

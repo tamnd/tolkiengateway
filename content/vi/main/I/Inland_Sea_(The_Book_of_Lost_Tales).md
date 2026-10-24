@@ -19,11 +19,11 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Inland Sea</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Inland_Sea_(disambiguation).md" title="Inland Sea (disambiguation)">Inland Sea (disambiguation)</a></b>.</div></div>
 
-**Nội địa Biển** là tên của một vùng biển rộng lớn ở [Great Lands](../G/Great_Lands.md), sau này được gọi là <a class="extiw" href="http://en.wikipedia.org/wiki/Mediterranean" title="wikipedia:Mediterranean">Địa Trung Hải</a>, theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Med_1-0" class="reference"><a href="#cite_note-Med-1">[1]</a></sup>
+**Biển nội địa** là tên của một vùng biển lớn ở [Great Lands](../G/Great_Lands.md), sau này được gọi là <a class="extiw" href="http://en.wikipedia.org/wiki/Mediterranean" title="wikipedia:Mediterranean">Địa Trung Hải</a>, theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Med_1-0" class="reference"><a href="#cite_note-Med-1">[1]</a></sup>
 
 ## Tên khác {#Other_names}
 
-Biển còn được gọi là <i><b>Wendelsæ</b></i> ở [tiếng Anh cổ](../O/Old_English.md).<sup id="cite_ref-Med_1-1" class="reference"><a href="#cite_note-Med-1">[1]</a></sup>
+Biển còn được gọi là <i><b>Wendelsæ</b></i> trong [tiếng Anh cổ](../O/Old_English.md).<sup id="cite_ref-Med_1-1" class="reference"><a href="#cite_note-Med-1">[1]</a></sup>
 
 <span></span>
 

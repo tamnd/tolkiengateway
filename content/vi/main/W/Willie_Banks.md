@@ -36,7 +36,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Willie được gọi đến vũ trang khi [bọn côn đồ](../R/Ruffians.md) xé nát [Bree](../B/Bree.md). Người của [Sharkey](../S/Saruman.md)bị đẩy lui, nhưng Willie và một số người khác không sống sót.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Willie được gọi đến vũ trang khi [bọn côn đồ](../R/Ruffians.md) xé nát [Bree](../B/Bree.md). Người của [Sharkey](../S/Saruman.md) bị đẩy lui, nhưng Willie và một số người khác không sống sót.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

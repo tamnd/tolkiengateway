@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Return of the King Visual Companion"
 ---
 
-Chuyển hướng đến [The Lord of the Rings: The Return of the King Đồng hành trực quan](The_Lord_of_the_Rings%253A_The_Return_of_the_King_Visual_Companion.md).
+Chuyển hướng đến [The Lord of the Rings: The Return of the King Visual Companion](The_Lord_of_the_Rings%253A_The_Return_of_the_King_Visual_Companion.md).

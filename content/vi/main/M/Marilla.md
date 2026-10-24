@@ -17,7 +17,7 @@ categories:
 
 ## Ví dụ {#Examples}
 
-- <i><a class="mw-redirect" href="../S/Silmaril.md" title="Silmaril">Sil<b>maril</b></a></i> = "Mặt Trăng Ngọc trai"
+- <i><a class="mw-redirect" href="../S/Silmaril.md" title="Silmaril">Sil<b>maril</b></a></i> = "Ngọc Trai"
 
 <span></span>
 

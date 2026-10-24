@@ -50,11 +50,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Lóni là một phần Thuộc địa của [Balin](../B/Balin's_Colony~64118.md) để đòi lại [Moria](../M/Moria.md). Nhiệm vụ của họ lúc đầu có vẻ thành công và [Balin](../B/Balin.md) đã tiến xa đến mức giành được danh hiệu [Chúa tể Moria](Lord_of_Moria.md). Tất cả đã thay đổi vào năm thứ năm họ ở đó. Vào ngày 10 tháng 11, [Orc](../O/Orcs.md) tiếp cận [Silverlode](../S/Silverlode.md) và giết chết Balin khi anh ta ở một mình, không hề hay biết và đang nhìn vào [Mirrormere](../M/Mirrormere.md). Người Lùn chống trả nhưng cuối cùng thua [Cổng Đông](../E/East-gate.md) và [Sảnh đầu tiên](../F/First_Hall.md). Orc đã vượt qua được [Cầu Khazad-dûm](../B/Bridge_of_Khazad-dûm.md), đã xảy ra [trận chiến ở Sảnh thứ hai](../B/Battle_of_the_Second_Hall.md), Lóni cùng những người bạn đồng hành [Frár](../F/Frár.md) và [Náli](../N/Náli.md) đã anh dũng hy sinh trong khi những người thuộc địa còn lại rút lui.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Lóni là một phần của [Thuộc địa của Balin](../B/Balin's_Colony~64118.md) để giành lại [Moria](../M/Moria.md). Nhiệm vụ của họ lúc đầu có vẻ thành công, và [Balin](../B/Balin.md) đã tiến xa đến mức giành được danh hiệu [Lãnh chúa của Moria](Lord_of_Moria.md). Tất cả đã thay đổi vào năm thứ năm họ ở đó. Vào ngày 10 tháng 11, lũ [Orc](../O/Orcs.md) tiến đến [Silverlode](../S/Silverlode.md) và giết Balin khi ông ta ở một mình, không hề hay biết và đang nhìn vào [Mirrormere](../M/Mirrormere.md). Người lùn chống trả nhưng cuối cùng bị mất [Cổng phía đông](../E/East-gate.md) và [Sảnh đầu tiên](../F/First_Hall.md). Quân Orc đã vượt qua [Cầu Khazad-dûm](../B/Bridge_of_Khazad-dûm.md), xảy ra [trận chiến ở Sảnh thứ hai](../B/Battle_of_the_Second_Hall.md), Lóni cùng đồng bọn [Frár](../F/Frár.md) và [Náli](../N/Náli.md) anh dũng hy sinh trong khi những người thuộc địa còn lại rút lui.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Lóni* là một người lùn đến từ *[Dvergatal](../V/Völuspá.md)*. Tên của anh ấy rất có thể có nghĩa là "người lười biếng".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Lóni* là một người lùn đến từ *[Dvergatal](../V/Völuspá.md)*. Tên của ông rất có thể có nghĩa là "người lười biếng".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

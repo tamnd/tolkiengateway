@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"*[King Thranduil](../../main/T/Thranduil.md)*", bởi [Elena Kukanova](../../main/E/Elena_Kukanova.md)
+"*[King Thranduil](../../main/T/Thranduil.md)*", của [Elena Kukanova](../../main/E/Elena_Kukanova.md)
 
 ## Giấy phép {#Licensing}
 

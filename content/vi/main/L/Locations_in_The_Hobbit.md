@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index:Locations in The Hobbit"
 ---
 
-Chuyển hướng đến [Chỉ mục:Vị trí trong The Hobbit](../../index/L/Locations_in_The_Hobbit.md).
+Chuyển hướng tới [Chỉ mục:Các vị trí trong Người Hobbit](../../index/L/Locations_in_The_Hobbit.md).

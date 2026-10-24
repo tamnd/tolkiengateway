@@ -46,9 +46,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miriam_Ellis_-_Fang.png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ee/Miriam_Ellis_-_Fang.png/320px-Miriam_Ellis_-_Fang.png" decoding="async" loading="lazy" width="320" height="400" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/e/ee/Miriam_Ellis_-_Fang.png 1.5x" data-file-width="458" data-file-height="572"/></a><figcaption>Fang - Illustration by <a href="../M/Miriam_Ellis.md" title="Miriam Ellis">Miriam Ellis</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../D/Dogs.md" title="Dogs">Dog</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Fang</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Bamfurlong.md" title="Bamfurlong">Bamfurlong</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="Farmer_Maggot.md" title="Farmer Maggot">Farmer Maggot</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Fang_(dog).md" title="Category:Images of Fang (dog)">Images of Fang</a></td></tr></tbody></table>
 
-**Fang** là một trong những [chó](../D/Dogs.md) bảo vệ [Bamfurlong](../B/Bamfurlong.md) của [Farmer Maggot](Farmer_Maggot.md). Fang là một trong ba con chó to lớn giống sói (hai con còn lại được đặt tên là '[Grip](../G/Grip.md)' và '[Wolf](<../W/Wolf_(dog).md>)').
+**Fang** là một trong những [chó](../D/Dogs.md) bảo vệ của [Farmgot](Farmer_Maggot.md)'s [Bamfurlong](../B/Bamfurlong.md). Fang là một trong ba con chó to lớn giống sói (hai con còn lại được đặt tên là '[Grip](../G/Grip.md)' và '[Wolf](<../W/Wolf_(dog).md>)').
 
-Những con vật hung dữ nhưng được huấn luyện bài bản này sống tại trang trại của anh ấy vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), nhưng rõ ràng anh ấy đã nuôi những con chó khác trước những con chó này. [Frodo](Frodo_Baggins.md) có những ký ức đáng sợ về những con chó của Maggot cách đây khoảng ba mươi năm, nhưng những con chó đã đe dọa anh ba thập kỷ trước đó khó có thể là Fang, Grip hay Wolf.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Những con vật hung dữ nhưng được huấn luyện bài bản này sống tại trang trại của anh vào thời điểm [Chiến tranh trên võ đài](../W/War_of_the_Ring.md) diễn ra, nhưng rõ ràng anh đã nuôi những con chó khác trước những con chó này. [Frodo](Frodo_Baggins.md) có những ký ức đáng sợ về những con chó của Maggot cách đây khoảng ba mươi năm, nhưng những con chó đã đe dọa anh ba thập kỷ trước đó khó có thể là Fang, Grip hay Wolf.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -75,7 +75,7 @@ Fang có nghĩa là "răng nanh" nhưng cũng là một động từ tiếng Anh
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Fang, along with <a href="../W/Wolf_(dog).md" title="Wolf (dog)">Wolf</a> and <a href="../G/Grip.md" title="Grip">Grip</a>, is found next to <a href="Farmer_Maggot.md" title="Farmer Maggot">Farmer Maggot</a> in <a href="../B/Bamfurlong.md" title="Bamfurlong">Bamfurlong</a>. The dogs can be interacted with during the &#34;Chicken Play&#34; and are also part of a festival &#34;Maggot&#39;s Mushroom Hunt&#34; mini-game.</dd></dl>
 

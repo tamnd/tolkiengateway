@@ -36,9 +36,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>John Bach</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/5_June.md" title="5 June">5 June</a> <a href="../_/1946.md" title="1946">1946</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../M/Madril.md" title="Madril">Madril</a> in:<br/><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0045324/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
-**John Bach** (sinh [ngày 5 tháng 6](../_/5_June.md), [1946](../_/1946.md)) là một diễn viên tiếng Wales sinh New Zealand. Anh ấy đã chơi [Madril](../M/Madril.md) trong *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và *[The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
+**John Bach** (sinh [ngày 5 tháng 6](../_/5_June.md), [1946](../_/1946.md)) là một diễn viên người New Zealand gốc Wales. Ông đã chơi [Madril](../M/Madril.md) trong *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và *[The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
 
-Họ của anh ấy được phát âm là "Baitch".
+Họ của ông được phát âm là "Baitch".
 
 ## Liên kết ngoài {#External_links}
 

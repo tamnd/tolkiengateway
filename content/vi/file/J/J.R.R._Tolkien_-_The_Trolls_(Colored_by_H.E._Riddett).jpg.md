@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Phiên bản màu này là của [H.E. Riddett](../../main/H/H.E._Riddett.md) và được tạo ra cho [The Hobbit Lịch 1976](../../main/T/The_Hobbit_Calendar_1976.md) và cũng đã được sử dụng trong các ấn bản có minh họa sau này của cuốn sách.
+Phiên bản màu này là của [H.E. Riddett](../../main/H/H.E._Riddett.md) và được tạo cho [The Hobbit Calendar 1976](../../main/T/The_Hobbit_Calendar_1976.md) và cũng đã được sử dụng trong các ấn bản minh họa sau này của cuốn sách.
 
 ## Giấy phép {#Licensing}
 

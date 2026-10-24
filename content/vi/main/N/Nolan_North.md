@@ -25,7 +25,7 @@ sort_keys:
 - [2017](../_/2017.md): *[Middle-earth: Shadow of War](../M/Middle-earth%253A_Shadow_of_War.md)* - [Isildur](../I/Isildur.md), Tarandor, Zog, Nemesis Orc, Con người
 - [2014](../_/2014.md): *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md)* - Bàn tay đen
 - [2011](../_/2011.md): *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* - [Eradan](<../E/Eradan_(video_game_character).md>)
-- [2009](../_/2009.md): *[The Lord of the Rings: Conquest](../T/The_Lord_of_the_Rings%253A_Conquest.md)*: Sĩ quan Ác ma #2 / Gondor Sĩ quan #2
+- [2009](../_/2009.md): *[The Lord of the Rings: Conquest](../T/The_Lord_of_the_Rings%253A_Conquest.md)*: Sĩ quan Ác ma #2 / Sĩ quan Gondorian #2
 - [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)*: Giọng nói bổ sung
 - [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: Giọng nói bổ sung
 

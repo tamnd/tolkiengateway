@@ -11,4 +11,4 @@ redirect_target: "Falathrim"
 redirect_fragment: "Names"
 ---
 
-Chuyển hướng đến [Falathrim](../F/Falathrim.md#Names).
+Chuyển hướng tới [Falathrim](../F/Falathrim.md#Names).

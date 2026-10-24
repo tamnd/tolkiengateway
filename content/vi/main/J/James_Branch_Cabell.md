@@ -27,11 +27,11 @@ sort_keys:
 </p>
 </blockquote>
 
-[John D. Rateliff](John_D._Rateliff.md) đã đề xuất rằng cuốn sách mà Tolkien nhắc đến trong hồi tưởng của Zettersten, là <i><a class="extiw" href="http://en.wikipedia.org/wiki/Jurgen,_A_Comedy_of_Justice" title="wikipedia:Jurgen, A Comedy of Justice">Jurgen</a></i> ([1919](../_/1919.md)) của Cabell.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[John D. Rateliff](John_D._Rateliff.md) đã đề xuất rằng cuốn sách mà Tolkien đang nhắc đến trong hồi tưởng của Zettersten, là <i><a class="extiw" href="http://en.wikipedia.org/wiki/Jurgen,_A_Comedy_of_Justice" title="wikipedia:Jurgen, A Comedy of Justice">Jurgen</a></i> ([1919](../_/1919.md)) của Cabell.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Tuyển tập *[The Young Magicians](../T/The_Young_Magicians.md)* ([1969](../_/1969.md)) do [Lin Carter](../L/Lin_Carter.md) biên tập, trong đó Tolkien đóng góp hai bài thơ, cũng bao gồm "Con đường của Ecben" của Cabell.
+Tuyển tập *[The Young Magicians](../T/The_Young_Magicians.md)* ([1969](../_/1969.md)) do [Lin Carter](../L/Lin_Carter.md) biên tập, trong đó Tolkien đóng góp hai bài thơ, cũng bao gồm "The Way of Ecben" của Cabell.
 
-Trong *[Tales Before Tolkien](../T/Tales_Before_Tolkien.md)* ([2003](../_/2003.md)), biên tập viên [Douglas A. Anderson](../D/Douglas_A._Anderson.md) đưa vào truyện ngắn "Nữ hoàng gầy gò của Elfhame" của Cabell. Anderson viết rằng "Cabell đại diện cho một kiểu tưởng tượng rất khác với Tolkien", kiểu tưởng tượng trước đây thường đưa sự mỉa mai vào các bài viết của mình.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong *[Tales Before Tolkien](../T/Tales_Before_Tolkien.md)* ([2003](../_/2003.md)), biên tập viên [Douglas A. Anderson](../D/Douglas_A._Anderson.md) đưa vào truyện ngắn "Nữ hoàng gầy gò của Elfhame" của Cabell. Anderson viết rằng "Cabell đại diện cho một thể loại giả tưởng rất khác với Tolkien", thể loại tưởng tượng trước đây thường đưa sự mỉa mai vào các bài viết của mình.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

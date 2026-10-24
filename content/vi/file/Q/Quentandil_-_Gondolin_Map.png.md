@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bản đồ thành phố Gondolin này được [Quentandil](https://tolkiengateway.net/wiki/User:Quentandil) tạo ra dựa trên bản đồ trong *[The Atlas of Middle-earth](../../main/T/The_Atlas_of_Middle-earth.md)*của [Karen Wynn Fonstad](../../main/K/Karen_Wynn_Fonstad.md).
+Bản đồ thành phố Gondolin này được [Quentandil](https://tolkiengateway.net/wiki/User:Quentandil) tạo ra dựa trên bản đồ trong *[The Atlas of Middle-earth](../../main/T/The_Atlas_of_Middle-earth.md)* của [Karen Wynn Fonstad](../../main/K/Karen_Wynn_Fonstad.md).
 
 ## Giấy phép {#Licensing}
 

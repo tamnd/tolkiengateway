@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Elvish words"
 ---
 
-Chuyển hướng tới [Danh mục:Elvish từ](../../category/E/Elvish_words.md).
+Chuyển hướng đến [Danh mục:Từ tiếng Elf](../../category/E/Elvish_words.md).

@@ -16,10 +16,10 @@ images:
 
 **Oliphaunt** có thể tham khảo:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-- **[Oliphaunts](Oliphaunts.md)**, những quái thú to lớn được sử dụng bởi các đồng minh của [Sauron](../S/Sauron.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
-- **[Oliphaunt (thơ)](<Oliphaunt_(poem).md>)**, bài thơ được đọc bởi [Samwise Gamgee](../S/Samwise_Gamgee.md).
+- **[Oliphaunts](Oliphaunts.md)**, những quái thú to lớn được sử dụng bởi các đồng minh của [Sauron](../S/Sauron.md) trong [War of the Ring](../W/War_of_the_Ring.md).
+- **[Oliphaunt (thơ)](<Oliphaunt_(poem).md>)**, bài thơ được [Samwise Gamgee đọc lại](../S/Samwise_Gamgee.md).
 
 ## Ấn phẩm {#Publications}
 

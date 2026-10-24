@@ -19,11 +19,11 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Tên *Tol Withernon* nằm trong [Gnomish](../G/Gnomish.md). Thành phần đầu tiên của tên là *[tol](Tol.md)* ("một hòn đảo có bờ biển dốc cao")<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>; tuy nhiên, phần thứ hai, *Withernon*, chưa rõ ràng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Tên *Tol Withernon* có trong [Gnomish](../G/Gnomish.md). Thành phần đầu tiên của tên là *[tol](Tol.md)* ("một hòn đảo có bờ biển dốc cao")<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>; tuy nhiên, phần thứ hai, *Withernon*, chưa rõ ràng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Tol Withernon có thể đã được truyền cảm hứng từ thị trấn <a class="extiw" href="http://en.wikipedia.org/wiki/Withernsea" title="wikipedia:Withernsea">Withernsea</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Yorkshire" title="wikipedia:Yorkshire">Yorkshire</a>, nơi không xa lắm, [Tolkien](Tolkien.md) đóng quân trong <a class="extiw" href="http://en.wikipedia.org/wiki/World_War_I" title="wikipedia:World War I">Chiến tranh thế giới thứ nhất</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Mặc dù thị trấn Withernsea hiện không nằm trên một hòn đảo nhưng truyền thống địa phương cho rằng tại một thời điểm nào đó trong lịch sử, nó thực sự là một hòn đảo.<sup id="cite_ref-Wit_2-1" class="reference"><a href="#cite_note-Wit-2">[2]</a></sup>
+Tol Withernon có thể đã được truyền cảm hứng từ thị trấn <a class="extiw" href="http://en.wikipedia.org/wiki/Withernsea" title="wikipedia:Withernsea">Withernsea</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Yorkshire" title="wikipedia:Yorkshire">Yorkshire</a>, nơi không xa lắm, [Tolkien](Tolkien.md) đóng quân trong <a class="extiw" href="http://en.wikipedia.org/wiki/World_War_I" title="wikipedia:World War I">Chiến tranh thế giới thứ nhất</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Mặc dù thị trấn Withernsea hiện không nằm trên một hòn đảo nhưng truyền thống địa phương cho rằng tại một thời điểm nào đó trong lịch sử, nó thực sự là một đảo.<sup id="cite_ref-Wit_2-1" class="reference"><a href="#cite_note-Wit-2">[2]</a></sup>
 
 <span></span>
 

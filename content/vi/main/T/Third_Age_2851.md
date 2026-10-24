@@ -16,15 +16,15 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2848.md" title="Third Age 2848">2848</a><a href="Third_Age_2849.md" title="Third Age 2849">2849</a><a href="Third_Age_2850.md" title="Third Age 2850">2850</a><a class="mw-selflink selflink">2851</a><a href="Third_Age_2852.md" title="Third Age 2852">2852</a><a href="Third_Age_2854.md" title="Third Age 2854">2854</a><a href="Third_Age_2855.md" title="Third Age 2855">2855</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 2851** (viết tắt là **T.A. 2851**) là năm [thứ 2851 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2851 còn được gọi là **S.R. 1251** trong [lịch Shire](../S/Shire-reckoning.md).
+**Thời đại thứ ba 2851** (viết tắt là **T.A. 2851**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2851 của [Thời đại thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2851 còn được gọi là **S.R. 1251** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Cuộc [Bạch Hội Đồng](../W/White_Council.md) gặp nhau.<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
-- [Gandalf](../G/Gandalf.md) thúc giục tấn công [Dol Guldur](../D/Dol_Guldur.md). [Saruman](../S/Saruman.md) (người mong muốn [Chiếc nhẫn duy nhất](../O/One_Ring.md) và hy vọng rằng nó sẽ lộ diện khi có sự hiện diện của [Sauron](../S/Sauron.md)) đã bác bỏ anh ta.<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
-- [Saruman](../S/Saruman.md) bắt đầu tìm kiếm gần [Gladden Fields](../G/Gladden_Fields.md).<sup id="cite_ref-TA_1-2" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
+- [Hội đồng da trắng](../W/White_Council.md) họp.<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
+- [Gandalf](../G/Gandalf.md) thúc giục tấn công [Dol Guldur](../D/Dol_Guldur.md). [Saruman](../S/Saruman.md) (người mong muốn có [Chiếc nhẫn duy nhất](../O/One_Ring.md) và hy vọng rằng nó sẽ lộ diện khi có [Sauron](../S/Sauron.md) hiện diện) đã bác bỏ ông ta.<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
+- [Saruman](../S/Saruman.md) bắt đầu tìm kiếm gần [Cánh đồng Gladden](../G/Gladden_Fields.md).<sup id="cite_ref-TA_1-2" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 - [Vua](../K/Kings_of_Rohan.md) [Walda](../W/Walda.md) cùng những người bạn đồng hành của mình đi trên những con đường núi từ [Dunharrow](../D/Dunharrow.md). Họ bị bẫy và giết bởi [lũ Orc](../O/Orcs.md).<sup id="cite_ref-Mark_2-0" class="reference"><a href="#cite_note-Mark-2">[2]</a></sup>
-- [Folca](../F/Folca.md), con trai của Walda, trở thành Vua thứ mười ba của [Rohan](../R/Rohan.md).<sup id="cite_ref-Mark_2-1" class="reference"><a href="#cite_note-Mark-2">[2]</a></sup>
+- [Folca](../F/Folca.md), con trai của Walda, trở thành vị vua thứ mười ba của [Rohan](../R/Rohan.md).<sup id="cite_ref-Mark_2-1" class="reference"><a href="#cite_note-Mark-2">[2]</a></sup>
 - Sự ra đời của [Halfred Greenhand](../H/Halfred_Greenhand.md), đứa con thứ hai và con trai đầu lòng của [Holman tay xanh](../H/Holman_the_greenhanded.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>

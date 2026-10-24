@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tol Brandir"
 ---
 
-Chuyển hướng đến [Tol Brandir](Tol_Brandir.md).
+Chuyển hướng tới [Tol Brandir](Tol_Brandir.md).

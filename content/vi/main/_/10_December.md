@@ -73,14 +73,14 @@ Sự kiện xảy ra vào ngày 10 tháng 12
 - **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 142a](../L/Letter_142a.md).
 - **[1960](1960.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 225](../L/Letter_225.md).
 - **[1962](1962.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được [John Bowen phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md).
-- <b><a href="2001.md" title="2001">2001</a> – <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> ra mắt tại Odeon Leicester Square, London.</b>
+- <b><a href="2001.md" title="2001">2001</a> – <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: The Fellowship of the Ring</a></i> công chiếu tại Quảng trường Odeon Leicester, London.</b>
 - **[2013](2013.md)** - *[The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack](../T/The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack.md)* được phát hành.
 - **[2025](2025.md)** - Diễn viên lồng tiếng [Jim Ward](../J/Jim_Ward.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
     - Trăng tròn<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>

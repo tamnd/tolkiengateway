@@ -13,27 +13,27 @@ categories:
   - "Silvan Elvish"
 ---
 
-**Silvan Elvish** là tên cho ngôn ngữ được sử dụng bởi [Silvan Tiên tộc](Silvan_Elves.md).
+**Silvan Elvish** là tên cho ngôn ngữ được sử dụng bởi [Yêu tinh Silva](Silvan_Elves.md).
 
 ## Lịch sử {#History}
 
-Silvan Elvish có nguồn gốc từ **Nandorin/Danian**<sup id="cite_ref-pe18_1-0" class="reference"><a href="#cite_note-pe18-1">[1]</a></sup> (từ thủ lĩnh của họ [Lenwë/ Dân](../L/Lenwë.md)), là ngôn ngữ của [Nandor](../N/Nandor.md), những người [Teleri](../T/Teleri.md) [Tiên tộc](../E/Elves.md) đã đột phá từ [Đại Hành Trình](../G/Great_Journey.md) phía đông của [Dãy Núi Sương Mù](../M/Misty_Mountains.md). Như vậy, Nandorin là một nhánh của [Common Telerin](../C/Common_Telerin.md).
+Silvan Elvish có nguồn gốc từ **Nandorin/Danian**<sup id="cite_ref-pe18_1-0" class="reference"><a href="#cite_note-pe18-1">[1]</a></sup> (từ thủ lĩnh của họ [Lenwë/ Dân](../L/Lenwë.md)), là ngôn ngữ của [Nandor](../N/Nandor.md), những [Teleri](../T/Teleri.md) [Yêu tinh](../E/Elves.md) đã thoát khỏi [Hành trình vĩ đại](../G/Great_Journey.md) ở phía đông [Dãy núi sương mù](../M/Misty_Mountains.md). Như vậy, Nandorin là một nhánh của [Common Telerin](../C/Common_Telerin.md).
 
-Một nhánh của Nandor cuối cùng đã hoàn thành Hành trình, ổn định ở [Ossiriand](../O/Ossiriand.md) và được gọi là [Laiquendi](../L/Laiquendi.md); những tiếng nói *West-Danian* (còn được gọi là *Ossiriandrin* hoặc *Ossiriandish*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và *Laiquenderin*). Những người ở lại [ phương Đông](../R/Rhovanion.md) đã lên tiếng *East-Danian*.<sup id="cite_ref-pe18_1-1" class="reference"><a href="#cite_note-pe18-1">[1]</a></sup>
+Một nhánh của Nandor cuối cùng đã hoàn thành Hành trình, định cư ở [Ossiriand](../O/Ossiriand.md) và được biết đến với cái tên [Laiquendi](../L/Laiquendi.md); những tiếng nói *West-Danian* (còn được gọi là *Ossiriandrin* hoặc *Ossiriandish*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và *Laiquenderin*). Những người ở lại [phương Đông](../R/Rhovanion.md) đã lên tiếng *East-Danian*.<sup id="cite_ref-pe18_1-1" class="reference"><a href="#cite_note-pe18-1">[1]</a></sup>
 
-Sau [Kỷ Đệ Nhất](../F/First_Age.md), những Tiên tộc còn sống sót của [Beleriand](../B/Beleriand.md) đã mang bài phát biểu của họ trở lại phương đông. Trong [Kỷ Đệ Tam](../T/Third_Age.md) Nandor được gọi là [Silvan Tiên tộc](Silvan_Elves.md), với ngôn ngữ của họ được gọi là Silvan Elvish, được nghe cả trong [Lothlórien](../L/Lothlórien.md) và [Vương quốc Rừng](../W/Woodland_Realm.md) của [Mirkwood](../M/Mirkwood.md). Những người nói [Sindarin](Sindarin.md)đã ổn định ở cả hai lĩnh vực Silvan chính và ít nhất là ở Lórien, Sindarin đã nhanh chóng vượt qua Silvan Elvish trong phạm vi sử dụng thông thường. Lịch sử của lưỡi trong Mirkwood khó xác định hơn - một số nguồn cho rằng nó cũng nhanh chóng bị Sindarin vượt qua, nhưng các nguồn khác lại phản đối điều này. Sindarin đã trở thành ngôn ngữ [Elvish](../E/Elvish.md) thống trị của [Westlands](../W/Westlands.md), với Nandorin ít nói; nó được thể hiện chủ yếu bằng các địa danh cũ và các phương ngữ Silvan được phát triển dưới ảnh hưởng của nó.
+Sau [Kỷ nguyên thứ nhất](../F/First_Age.md), những Yêu tinh còn sống sót của [Beleriand](../B/Beleriand.md) đã truyền bá ngôn ngữ của mình trở lại phương đông. Vào [Thời đại thứ ba](../T/Third_Age.md) người Nandor được biết đến với cái tên [Yêu tinh Silvan](Silvan_Elves.md), với ngôn ngữ của họ được gọi là Silvan Elvish, được nghe thấy ở cả [Lothlórien](../L/Lothlórien.md) và [Vương quốc rừng](../W/Woodland_Realm.md) của [Mirkwood](../M/Mirkwood.md). [Những người nói tiếng Sindarin](Sindarin.md) định cư ở cả hai lãnh thổ chính của Silvan, và ít nhất ở Lórien, Sindarin đã nhanh chóng vượt qua Silvan Elvish về mức độ sử dụng phổ biến. Lịch sử của chiếc lưỡi ở Mirkwood khó xác định hơn - một số nguồn cho rằng nó cũng nhanh chóng bị Sindarin vượt qua, nhưng các nguồn khác lại phản đối điều này. Sindarin đã trở thành ngôn ngữ [Elvish](../E/Elvish.md) thống trị của [Westlands](../W/Westlands.md), với Nandorin ít nói; nó được thể hiện chủ yếu bằng các địa danh cũ và các phương ngữ Silvan được phát triển dưới ảnh hưởng của nó.
 
-Đến cuối [Kỷ Đệ Tam](../T/Third_Age.md), phần còn lại duy nhất của Silvan là một vài cái tên, như **[Caras Galadhon](../C/Caras_Galadhon.md)**,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> **[Amroth](../A/Amroth.md)**<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> hoặc **[Legolas](../L/Legolas.md)**<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> nghe giống Sindarin nhưng thực tế lại phản bội ảnh hưởng của các từ Silvan.
+Vào cuối [Thời đại thứ ba](../T/Third_Age.md), tàn tích duy nhất của Silvan là một vài cái tên, như **[Caras Galadhon](../C/Caras_Galadhon.md)**,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> **[Amroth](../A/Amroth.md)**<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> hoặc **[Legolas](../L/Legolas.md)**<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> nghe giống Sindarin, nhưng thực ra phản bội lại ảnh hưởng của từ Silvan.
 
 ## Tên khác {#Other_names}
 
-[Legolas](../L/Legolas.md) gọi phương ngữ là "*woodland tongue*".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+[Legolas](../L/Legolas.md) gọi phương ngữ này là "*woodland tongue*".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Trong một ghi chú [Tolkien](../J/J.R.R._Tolkien.md) gọi ngôn ngữ chỉ là Silvan.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Trong một ghi chú [Tolkien](../J/J.R.R._Tolkien.md) gọi ngôn ngữ này chỉ là Silvan.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 ## Thuộc tính {#Attributes}
 
-Trong ghi chú trong đó Tolkien mô tả các loại ngôn ngữ được minh họa bằng phạm vi các phụ âm và sự kết hợp được tìm thấy trong đó, *Danian* được mô tả là thuộc loại *Germanic*. Điều này trái ngược với Telerin ([Quenya](../Q/Quenya.md)) thuộc loại *Latin* và Noldorin ([Sindarin](Sindarin.md)) thuộc loại *Welsh*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Trong một ghi chú trong đó Tolkien mô tả các loại ngôn ngữ được minh họa bằng phạm vi các phụ âm và sự kết hợp được tìm thấy trong đó, *Danian* được mô tả là thuộc loại *Germanic*. Điều này trái ngược với Telerin ([Quenya](../Q/Quenya.md)) thuộc loại *Latin* và Noldorin ([Sindarin](Sindarin.md)) thuộc loại *Welsh*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
@@ -41,8 +41,8 @@ Trong *[The Lhammas](../L/Lhammas.md)* (khoảng [1937](../_/1937.md)-[38](../_/
 
 ## Xem thêm {#See_also}
 
-- [Danh mục: Nandorin từ](../../category/N/Nandorin_words.md)
-- [Danh mục: Silvan Elvish từ](../../category/S/Silvan_Elvish_words.md)
+- [Category: Nandorin words](../../category/N/Nandorin_words.md)
+- [Category: Silvan Elvish words](../../category/S/Silvan_Elvish_words.md)
 
 <span></span>
 

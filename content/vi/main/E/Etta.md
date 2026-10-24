@@ -13,7 +13,7 @@ categories:
   - "Quenya conjunctions"
 ---
 
-**etta** là liên từ [Quenya](../Q/Quenya.md) có nghĩa là "do đó".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**etta** là từ kết hợp [Quenya](../Q/Quenya.md) có nghĩa là "do đó".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -15,15 +15,15 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**Sồi** là một trong những [cây](../T/Trees.md) phổ biến nhất ở [Trung Địa](../M/Middle-earth.md), được tìm thấy ở nhiều khu rừng. [Thorin II](../T/Thorin.md) được biết đến với biệt danh "[Oakenshield](Oakenshield.md)" khi ông chặt một cành sồi để chống lại đòn tấn công của kẻ thù trong [Trận Nanduhirion](../B/Battle_of_Nanduhirion.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Sồi** là một trong những [cây](../T/Trees.md) phổ biến nhất ở [Trung Địa](../M/Middle-earth.md), được tìm thấy khắp nhiều khu rừng. [Thorin II](../T/Thorin.md) được biết đến với biệt danh "[Oakenshield](Oakenshield.md)" khi ông chặt một cành sồi để chống lại đòn tấn công của kẻ thù trong [Trận Nanduhirion](../B/Battle_of_Nanduhirion.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Kho báu của Trung Địa</a></i></b>
+<b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Kho báu của Trung Địa</a></i></b>
 
 <dl><dd>A type of Oak tree, namely <i><b>Furry Oak</b></i>, is described in the book. It was named for the fuzz on the underside of its leaves and the caps of acorns. These acorns were well-liked by the <a href="../G/Galadhrim.md" title="Galadhrim">Galadhrim</a> and the <a href="../W/Woodmen.md" title="Woodmen">Woodmen</a>, who used them in baking.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Wood of this tree can be foraged by <i>Eastemnet</i> foresters in <a href="../R/Rohan.md" title="Rohan">Rohan</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 

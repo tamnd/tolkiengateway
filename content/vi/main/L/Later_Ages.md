@@ -113,9 +113,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> in <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/The_Riders_of_Rohan.md" title="The Riders of Rohan">The Riders of Rohan</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Bài viết này liên quan đến **sau Kỷ nguyên**, được định nghĩa cho mục đích của bài viết này là [Kỷ nguyên](../A/Ages.md) diễn ra sau khi [Kỷ Đệ Tứ](../F/Fourth_Age.md) kết thúc.
+Bài viết này liên quan đến **Các thời đại sau**, được định nghĩa cho mục đích của bài viết này là [Các thời đại](../A/Ages.md) diễn ra sau khi kết thúc [Thời đại thứ tư](../F/Fourth_Age.md).
 
-Theo một trong những dự thảo của *[Appendices](../A/Appendices.md)*, người ta nói về Kỷ Đệ Tứ:
+Theo một trong những bản thảo của *[Appendices](../A/Appendices.md)*, người ta nói về Thời đại thứ tư:
 
 <blockquote class="tg-quote noexcerpt">
 <p>Of <a href="../E/Eldarion.md" title="Eldarion">Eldarion</a> son of <a href="../A/Aragorn.md" title="Aragorn">Elessar</a> it was foretold that he should rule a great <a href="../R/Reunited_Kingdom.md" title="Reunited Kingdom">realm</a>, and <b>that it should endure for a hundred generations of <a href="../M/Men.md" title="Men">Men</a> after him, that is until a new age brought in again new things</b>; and from him should come the kings of many realms in long days after.
@@ -127,31 +127,31 @@ Theo một trong những dự thảo của *[Appendices](../A/Appendices.md)*, n
 
 ### Thư gửi Rhona Beare (1958) {#Letter_to_Rhona_Beare_(1958)}
 
-Trong *[Letter 211](Letter_211.md)* mà [Tolkien](../T/Tolkien.md) viết vào [14 tháng 10](../_/14_October.md) [1958](../_/1958.md) gửi cho [Rhona Beare](../R/Rhona_Beare.md), ông viết rằng khoảng cách thời gian giữa sự sụp đổ của [Barad-dûr](../B/Barad-dûr.md) (vào [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)) và thời điểm hiện tại (như năm 1958, vào thời điểm Tolkien viết bức thư nói trên) là c. 6.000 năm.
+Trong *[Letter 211](Letter_211.md)* mà [Tolkien](../T/Tolkien.md) viết vào [14 tháng 10](../_/14_October.md) [1958](../_/1958.md) gửi [Rhona Beare](../R/Rhona_Beare.md), ông viết rằng khoảng cách thời gian giữa sự sụp đổ của [Barad-dûr](../B/Barad-dûr.md) (trong [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)) và thời điểm hiện tại (như năm 1958, thời điểm Tolkien viết bức thư nói trên) là c. 6.000 năm.
 
-Do đó, Tolkien kết luận rằng vào năm 1958, thế giới đã gần kết thúc **Kỷ thứ năm**, nếu Kỷ nguyên tiếp theo có cùng độ dài với [Kỷ nguyên thứ hai](../S/Second_Age.md) và [Kỷ nguyên thứ ba](../T/Third_Age.md) Kỷ nguyên.
+Do đó, Tolkien kết luận rằng vào năm 1958, thế giới đã gần kết thúc **Thời đại thứ năm**, nếu các Thời đại tiếp theo có cùng độ dài với Thời đại [Thứ hai](../S/Second_Age.md) và [Thời đại thứ ba](../T/Third_Age.md).
 
-Tuy nhiên, cuối cùng ông kết luận rằng Kỷ nguyên đã "tăng tốc" và thế giới hiện nay (tức là vào năm 1958) ở cuối **Thời đại thứ sáu**, hoặc thậm chí có thể ở Thời đại thứ bảy.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tuy nhiên, cuối cùng ông kết luận rằng các Thời đại đã "tăng tốc" và thế giới hiện nay (tức là vào năm 1958) ở cuối **Thời đại thứ sáu**, hoặc thậm chí có thể ở Thời đại thứ bảy.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ### *The Awaking of the Quendi* (1960) {#The_Awaking_of_the_Quendi_(1960)}
 
-Trong văn bản [1960](../_/1960.md) có tên <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Awaking_of_the_Quendi&amp;action=edit&amp;redlink=1" title="The Awaking of the Quendi (page does not exist)">Sự thức tỉnh của Quendi</a></i>, Tolkien gọi rõ ràng năm 1960 sau Công nguyên (năm mà ông viết văn bản) là năm 1960 của **Kỷ nguyên thứ bảy**.
+Trong văn bản [1960](../_/1960.md) có tên <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Awaking_of_the_Quendi&amp;action=edit&amp;redlink=1" title="The Awaking of the Quendi (page does not exist)">Sự thức tỉnh của Quendi</a></i>, Tolkien gọi rõ ràng năm 1960 sau Công nguyên (năm mà ông viết văn bản) là năm 1960 của **Thời đại thứ bảy**.
 
-Trong văn bản đó Tolkien kết nối sự khởi đầu của Thời đại thứ bảy (tức là [Se.A.](../S/Seventh_Age.md) [1](../S/Seventh_Age_1.md)) với [sự nhập thể](../O/Old_Hope.md) của [Ilúvatar](../I/Ilúvatar.md) (nghĩa là sự ra đời của <a class="extiw" href="http://en.wikipedia.org/wiki/Jesus" title="wikipedia:Jesus">Chúa Giê-su Christ</a> vào <a class="extiw" href="http://en.wikipedia.org/wiki/AD_1" title="wikipedia:AD 1">1 SCN</a> theo thế giới thực <i><a class="extiw" href="http://en.wikipedia.org/wiki/Anno_Domini" title="wikipedia:Anno Domini">Anno Domini</a></i> tính toán của [Giáo hội Công giáo](../C/Christianity.md)).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
+Trong văn bản đó, Tolkien kết nối sự khởi đầu của Thời đại thứ bảy (tức là [Se.A.](../S/Seventh_Age.md) [1](../S/Seventh_Age_1.md)) với [sự nhập thể](../O/Old_Hope.md) của [Ilúvatar](../I/Ilúvatar.md) (tức là sự ra đời của <a class="extiw" href="http://en.wikipedia.org/wiki/Jesus" title="wikipedia:Jesus">Chúa Giêsu Kitô</a> vào <a class="extiw" href="http://en.wikipedia.org/wiki/AD_1" title="wikipedia:AD 1">1 sau Công nguyên</a> theo thế giới thực <i><a class="extiw" href="http://en.wikipedia.org/wiki/Anno_Domini" title="wikipedia:Anno Domini">Anno Domini</a></i> tính toán của [Giáo hội Công giáo](../C/Christianity.md)).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
 
-Tolkien cũng tiếp tục nói rằng khoảng cách thời gian giữa năm 1960 của Kỷ thứ bảy (tức là năm 1960 sau Công nguyên) và [Năm Mặt Trời](../Y/Years_of_the_Sun.md) [310](../F/First_Age_310.md) của [Kỷ Đệ Nhất](../F/First_Age.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 2]</a></sup> là 16.000 năm.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[3]</a></sup>
+Tolkien cũng tiếp tục nói rằng khoảng cách thời gian giữa năm 1960 của Thời đại thứ bảy (tức là năm 1960 sau Công nguyên) và [Năm Mặt trời](../Y/Years_of_the_Sun.md) [310](../F/First_Age_310.md) của [Thời đại thứ nhất](../F/First_Age.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 2]</a></sup> là 16.000 năm.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[3]</a></sup>
 
-Điều này giúp có thể tính toán thời điểm một số Kỷ nguyên trong vũ trụ xảy ra liên quan đến trình tự thời gian trong thế giới thực:
+Điều này giúp có thể tính toán thời điểm một số Thời đại trong vũ trụ xảy ra liên quan đến niên đại trong thế giới thực:
 
-1. Cuối năm Kỷ Đệ Nhất ([F.A.](../F/First_Age.md) [590](../F/First_Age_590.md)) tương ứng với năm <a class="extiw" href="http://en.wikipedia.org/wiki/Timeline_of_prehistory#Upper_Paleolithic" title="wikipedia:Timeline of prehistory">13.760 TCN</a>
+1. Sự kết thúc của Thời đại thứ nhất ([F.A.](../F/First_Age.md) [590](../F/First_Age_590.md)) tương ứng với năm <a class="extiw" href="http://en.wikipedia.org/wiki/Timeline_of_prehistory#Upper_Paleolithic" title="wikipedia:Timeline of prehistory">13.760 TCN</a>
 2. Sự kết thúc của Kỷ thứ hai ([S.A.](../S/Second_Age.md) [3441](../S/Second_Age_3441.md)) tương ứng với năm <a class="extiw" href="http://en.wikipedia.org/wiki/Timeline_of_prehistory#Upper_Paleolithic" title="wikipedia:Timeline of prehistory">10.319 TCN</a>
-3. Ngày kết thúc Kỷ Đệ Tam ([T.A.](../T/Third_Age.md) [3021](../T/Third_Age_3021.md)) tương ứng với năm <a class="extiw" href="http://en.wikipedia.org/wiki/8th_millennium_BC" title="wikipedia:8th millennium BC">7.298 TCN</a>
+3. Sự kết thúc của Thời đại thứ ba ([T.A.](../T/Third_Age.md) [3021](../T/Third_Age_3021.md)) tương ứng với năm <a class="extiw" href="http://en.wikipedia.org/wiki/8th_millennium_BC" title="wikipedia:8th millennium BC">7.298 trước Công nguyên</a>
 
-Do đó, thời lượng trung bình của Kỷ Đệ Tứ đến Kỷ nguyên Thứ sáu sẽ là c. 2.430 năm<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[4]</a></sup> biện minh cho lá thư trước đó của ông gửi cho Beare rằng Kỷ nguyên hẳn phải nhanh hơn. Mặt khác, trong khi bức thư gợi ý rằng Kỷ Đệ Tam kết thúc vào khoảng năm 4.000 trước Công nguyên, thì phép tính này lại đẩy nó lùi xa hơn.
+Do đó, thời gian trung bình của Thời đại thứ Tư đến Thời đại thứ sáu sẽ là c. 2.430 năm<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[4]</a></sup> biện minh cho lá thư trước đó của ông gửi Beare rằng Thời đại chắc hẳn đã nhanh chóng hơn. Mặt khác, trong khi bức thư gợi ý rằng Thời đại thứ ba kết thúc vào khoảng 4.000 năm trước Công nguyên, cách tính toán này đã đẩy nó lùi xa hơn.
 
 ### 1964 Phỏng vấn BBC {#1964_BBC_interview}
 
-Vào [ngày 26 tháng 11](../N/November_26.md) [1964](../_/1964.md) Tolkien đã được phỏng vấn bởi [BBC](../B/BBC.md), và trong phần thân mật hơn của cuộc phỏng vấn với [Denys Gueroult](../D/Denys_Gueroult.md)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[5]</a></sup>, ông đã thẳng thắn đề cập rằng các sự kiện của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* xảy ra vào khoảng 7-8.000 năm trước hiện tại (lúc đó là năm 1964), phần nào nhất quán với bài luận *The Awakening of the Quendi*:
+Vào [ngày 26 tháng 11](../N/November_26.md) [1964](../_/1964.md) Tolkien đã được phỏng vấn bởi [BBC](../B/BBC.md), và trong phần thân mật hơn của cuộc phỏng vấn với [Denys Gueroult](../D/Denys_Gueroult.md)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[5]</a></sup>, ông đã thẳng thắn đề cập rằng các sự kiện của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* xảy ra khoảng 7-8.000 năm trước hiện tại (lúc đó là năm 1964), bằng cách nào đó nhất quán với bài tiểu luận *The Awakening of the Quendi*:
 
 <blockquote class="tg-quote noexcerpt">
 <p>The moons, I think, finally the moons and the suns have worked out according to what they were in this part of the world in 1942 actually. They must have something where they... I mean one... I couldn’t... I’m not good enough mathematician or astronomer to work out where they might have been <b>seven thousand, eight thousand years ago</b>. But as long as they correspond to some real configuration I thought it was good enough. Moons are much more tricky to deal with than suns of course, but in the whole, I don’t think the moon is full or rises in the wrong place...
@@ -167,7 +167,7 @@ Vào [ngày 26 tháng 11](../N/November_26.md) [1964](../_/1964.md) Tolkien đã
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-Sau này trong cuộc đời mình, Tolkien đã viết về khả năng rằng trong [Sự thay đổi của Thế giới](../C/Changing_of_the_World.md), [Valar](../V/Valar.md) và [Calaquendi](../C/Calaquendi.md) đã rời bỏ thế giới về mặt tâm linh, trong khi vùng đất [Aman](../A/Aman.md) vẫn còn tồn tại và trở thành Châu Mỹ.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[7]</a></sup> (Xem: [Những vùng đất mới](../N/New_lands.md))
+Sau này, Tolkien đã viết về khả năng rằng trong [Sự thay đổi của thế giới](../C/Changing_of_the_World.md), [Valar](../V/Valar.md) và [Calaquendi](../C/Calaquendi.md) đã rời khỏi thế giới về mặt tâm linh, trong khi vùng đất [Aman](../A/Aman.md) vẫn tồn tại và trở thành Châu Mỹ.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[7]</a></sup> (Xem: [Những vùng đất mới](../N/New_lands.md))
 
 ## Cảm hứng {#Inspiration}
 
@@ -181,16 +181,16 @@ Sau này trong cuộc đời mình, Tolkien đã viết về khả năng rằng 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b><a href="../_/1995.md" title="1995">1995</a>: <i><a href="../D/Dragon_Magazine.md" title="Dragon Magazine">Rồng Tạp chí</a></i>:</b> Tạp chí phiên bản tiếng Pháp có bài viết về "Kỷ nguyên thứ năm" của Trung Địa; bản đồ được minh họa bởi [Olivier Frot](../O/Olivier_Frot.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[8]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[note 3]</a></sup>
+<b><a href="../_/1995.md" title="1995">1995</a>: <i><a href="../D/Dragon_Magazine.md" title="Dragon Magazine">Tạp chí Rồng</a></i>:</b> Tạp chí phiên bản tiếng Pháp có một bài viết về "Thời đại thứ năm" của Trung Địa; bản đồ được minh họa bởi [Olivier Frot](../O/Olivier_Frot.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[8]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[note 3]</a></sup>
 
-<b><a href="../_/2000.md" title="2000">2000</a>: <i><a href="../T/Tolkien%253A_The_Illustrated_Encyclopedia.md" title="Tolkien: The Illustrated Encyclopedia">Tolkien: The Illustrated Encyclopedia</a></i>:</b> [David Day](../D/David_Day.md) hiển thị một số tiến hóa theo trình tự thời gian của [Arda](../A/Arda.md), từ "Thời đại của những ngọn đèn" đến Kỷ Đệ Tam, trong khi ở phần sau Kỷ nguyên các hình minh họa cho thấy Trung Địa đã thay đổi về mặt địa chất như thế nào để giống với Châu Âu hiện đại, trong khi và một lục địa giống châu Mỹ hình thành ở phía tây [Belegaer](../B/Belegaer.md).
+<b><a href="../_/2000.md" title="2000">2000</a>: <i><a href="../T/Tolkien%253A_The_Illustrated_Encyclopedia.md" title="Tolkien: The Illustrated Encyclopedia">Tolkien: The Illustrated Encyclopedia</a></i>:</b> [David Day](../D/David_Day.md) hiển thị một số tiến hóa theo trình tự thời gian của [Arda](../A/Arda.md), từ "Thời đại của những ngọn đèn" đến Thời đại thứ ba, trong khi ở các Thời đại sau này, các hình minh họa cho thấy Trung Địa đã thay đổi về mặt địa chất như thế nào giống với châu Âu hiện đại, trong khi một lục địa giống với châu Mỹ hình thành ở phía tây [Belegaer](../B/Belegaer.md).
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Năm trước Tolkien đã viết <i><a href="../A/Athrabeth_Finrod_ah_Andreth.md" title="Athrabeth Finrod ah Andreth">Athrabeth Finrod ah Andreth</a></i> giới thiệu khái niệm Eru bước vào sự sáng tạo của chính Ngài.</span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_310.md" title="First Age 310">310</a> là năm mà <a href="../M/Men.md" title="Men">Con Người</a>đầu tiên, <a href="../E/Edain.md" title="Edain">Edain</a>, được tham gia <a href="../B/Beleriand.md" title="Beleriand">Beleriand</a>.</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_310.md" title="First Age 310">310</a> là năm mà <a href="../M/Men.md" title="Men">Nam</a>đầu tiên, <a href="../E/Edain.md" title="Edain">Edain</a>, tham gia <a href="../B/Beleriand.md" title="Beleriand">Beleriand</a>.</span>
 </li>
 <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.deviantart.com/airyyn/art/The-Fifth-Age-of-Middle-Earth-by-Olivier-FROT-846433244" rel="noreferrer noopener" target="_blank">Diễn giải lại dựa trên minh họa của Frot</a> bởi <a href="https://tolkiengateway.net/wiki/User:Airyn" title="User:Airyn">Người dùng:Airyn</a></span>
 </li>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dark Mage of Rhudaur"
 ---
 
-Chuyển hướng đến [Pháp sư bóng tối của Rhudaur](../D/Dark_Mage_of_Rhudaur.md).
+Chuyển hướng tới [Pháp sư bóng tối Rhudaur](../D/Dark_Mage_of_Rhudaur.md).

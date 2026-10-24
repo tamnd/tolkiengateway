@@ -19,7 +19,7 @@ langlinks:
 
 <i><b>Nevbosh</b></i> (Vô nghĩa mới) là một ngôn ngữ được tạo ra vào những năm đầu của thập niên 1900 bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và anh họ của ông [Mary Incledon](../M/Mary_Incledon.md) (1895-1940).
 
-Theo [Humphrey Carpenter](../H/Humphrey_Carpenter.md), Tolkien và Mary "đã hợp tác để phát minh ra \[thứ\] ngôn ngữ mới và phức tạp hơn".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tuy nhiên, chính Tolkien đã nói rằng vai trò của ông trong việc xây dựng Nevbosh khiêm tốn hơn; anh ấy chỉ đóng góp vào từ vựng và ảnh hưởng đến chính tả.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Theo [Humphrey Carpenter](../H/Humphrey_Carpenter.md), Tolkien và Mary "cộng tác để phát minh ra \[this\] ngôn ngữ mới và phức tạp hơn".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tuy nhiên, chính Tolkien nói rằng vai trò của ông trong việc xây dựng Nevbosh khiêm tốn hơn; ông chỉ đóng góp vào từ vựng và ảnh hưởng đến chính tả.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

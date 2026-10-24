@@ -14,7 +14,7 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Bjorkman, Mans"
 ---
 
-- [Måns Björkman](../../main/M/Måns_Björkman.md) đã vui lòng cho phép anh ấy sử dụng [cờ và thiết bị của mình](../../category/I/Images_by_Måns_Björkman.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) với các điều kiện sau:
+- [Måns Björkman](../../main/M/Måns_Björkman.md) đã vui lòng cho phép ông sử dụng [cờ và thiết bị của mình](../../category/I/Images_by_Måns_Björkman.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md) với các điều kiện sau:
     - Phải ghi rõ nguồn: <a class="external free" href="http://www.forodrim.org/gobennas/heraldry/heraldry.htm" rel="noreferrer noopener" target="_blank">http://www.forodrim.org/gobennas/heraldry/heraldry.htm</a>
     - Tuyên bố từ chối trách nhiệm phải nói rằng chúng dựa trên hình ảnh và mô tả của chính Tolkien.
 - Ngày: 15 tháng 7 năm 2012

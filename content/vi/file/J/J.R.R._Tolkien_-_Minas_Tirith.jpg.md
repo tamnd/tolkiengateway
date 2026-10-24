@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bản phác thảo này của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) đã được xuất bản trong [The Lord of the Rings Lịch năm 1977](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md). Tác phẩm có tựa đề 'Stanburg' bằng chữ cái [Fëanorian](../../main/T/Tengwar.md) ([Elvish](../../main/E/Elvish.md)), và Stanburg và Steinborg bằng chữ cái La Mã (chỉ chữ cái sau mới hiển thị trong bản sao). Stanburg là tiếng Anh cổ (và Steinborg tiếng Bắc Âu cổ), có nghĩa là 'Pháo đài bằng đá, Thành phố bằng đá';
+Bản phác thảo này của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) đã được xuất bản trong [The Lord of the Rings 1977 Calendar](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md). Tác phẩm có tựa đề 'Stanburg' bằng chữ cái [Fëanorian](../../main/T/Tengwar.md) ([Elvish](../../main/E/Elvish.md)), và Stanburg và Steinborg bằng chữ cái La Mã (chỉ chữ cái sau mới hiển thị trong bản sao). Stanburg là tiếng Anh cổ (và Steinborg tiếng Bắc Âu cổ), có nghĩa là 'Pháo đài bằng đá, Thành phố bằng đá';
 
 ## Giấy phép {#Licensing}
 

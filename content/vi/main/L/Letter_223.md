@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Lạc vào vũng lầy không đáy, Tolkien cho biết mình đã bị mắc kẹt hoàn toàn. Mất rất nhiều thời gian để hoàn thành *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, anh phải chịu áp lực rất lớn, phải làm việc 10 tiếng mỗi ngày để cố gắng hoàn thành *[Ancrene Riwle](../T/The_Ancrene_Riwle.md)*. Anh ta đã gửi văn bản ở dạng tháng Chín *1958* tới nhà in, nhưng bản thảo đã biến mất trong Cuộc đình công in ấn. Khi các bản in thử được gửi đến *this* vào tháng 6, anh ấy đang làm việc trên *[The Silmarillion](../T/The_Silmarillion.md)* và đã đánh mất chủ đề của tác phẩm kia. Cho đến khi văn bản được chứng minh là anh không thể ngẩng đầu lên được. <br>
+Lạc vào vũng lầy không đáy, Tolkien cho biết ông hoàn toàn bị mắc kẹt. Mất rất nhiều thời gian để hoàn thành *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, anh phải chịu áp lực rất lớn, phải làm việc 10 tiếng mỗi ngày để cố gắng hoàn thành *[Ancrene Riwle](../T/The_Ancrene_Riwle.md)*. Ông ta đã gửi văn bản vào tháng 9 *1958* cho nhà in, nhưng bản thảo đã biến mất trong cuộc đình công in ấn. Khi các bản in thử được gửi đến *this* vào tháng 6, ông đang làm việc trên *[The Silmarillion](../T/The_Silmarillion.md)* và đã đánh mất chủ đề của tác phẩm kia. Cho đến khi văn bản được chứng minh là anh không thể ngẩng đầu lên được. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

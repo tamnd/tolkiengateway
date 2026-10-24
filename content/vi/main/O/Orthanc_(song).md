@@ -34,4 +34,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Orthanc</b></i> là ca khúc thứ sáu trong album [Minas Morgul](<../M/Minas_Morgul_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ tháp [Orthanc](Orthanc.md), tòa tháp bất khả xâm phạm [Isengard](../I/Isengard.md) được xây dựng bởi [Dúnedain](../D/Dúnedain.md) trong [Thời thứ hai](../S/Second_Age.md) và nơi ở của [Saruman](../S/Saruman.md) ở [The Lord of the Rings](../T/The_Lord_of_the_Rings.md).
+<i><b>Orthanc</b></i> là ca khúc thứ sáu trong album [Minas Morgul](<../M/Minas_Morgul_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ tháp [Orthanc](Orthanc.md), tòa tháp bất khả xâm phạm của [Isengard](../I/Isengard.md) được xây dựng bởi [Dúnedain](../D/Dúnedain.md) trong [Thời thứ hai](../S/Second_Age.md) và là nơi ở của [Saruman](../S/Saruman.md) ở [The Lord of the Rings](../T/The_Lord_of_the_Rings.md).

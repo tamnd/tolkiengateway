@@ -19,12 +19,12 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-Trong bản thảo "Eldarin Rễ và Thân", Quenya *rië* xuất phát từ [gốc](../S/Sundocarme.md) [RIG](RIG.md).<sup id="cite_ref-PE_1-1" class="reference"><a href="#cite_note-PE-1">[1]</a></sup> Trong [*Etymologies*](../T/The_Etymologies.md), Quenya *ríe* là dạng hậu duệ của [Primitive Quendian](../P/Primitive_Quendian.md) *rīgē*, xuất phát từ gốc RIG.<sup id="cite_ref-LR_2-1" class="reference"><a href="#cite_note-LR-2">[2]</a></sup><sup id="cite_ref-VT_3-1" class="reference"><a href="#cite_note-VT-3">[3]</a></sup>
+Trong bản thảo "Rễ và thân cây Eldarin", Quenya *rië* bắt nguồn từ [gốc](../S/Sundocarme.md) [RIG](RIG.md).<sup id="cite_ref-PE_1-1" class="reference"><a href="#cite_note-PE-1">[1]</a></sup> Trong [*Etymologies*](../T/The_Etymologies.md), Quenya *ríe* là dạng hậu duệ của [Quendian nguyên thủy](../P/Primitive_Quendian.md) *rīgē*, bắt nguồn từ gốc RIG.<sup id="cite_ref-LR_2-1" class="reference"><a href="#cite_note-LR-2">[2]</a></sup><sup id="cite_ref-VT_3-1" class="reference"><a href="#cite_note-VT-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 
 - [Quenya](../Q/Quenya.md)/[Telerin](../T/Telerin.md) *[ría](Ría.md)*
-- [Sindarin](../S/Sindarin.md) *[rî](Rî.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[rî](Rî.md)*
 - [Noldorin](../N/Noldorin.md) *[rhî](Rhî.md)*
 
 <span></span>

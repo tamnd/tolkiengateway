@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien: Scholar and Storyteller"
 ---
 
-Chuyển hướng đến [J.R.R. Tolkien: Học giả và người kể chuyện](J.R.R._Tolkien%253A_Scholar_and_Storyteller.md).
+Chuyển hướng đến [J.R.R. Tolkien: Scholar and Storyteller](J.R.R._Tolkien%253A_Scholar_and_Storyteller.md).

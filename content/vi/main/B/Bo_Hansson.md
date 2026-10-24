@@ -27,7 +27,7 @@ images:
 ## Danh sách đĩa, đã chọn {#Discography,_selected}
 
 - [1970](../_/1970.md): *[Sagan om Ringen](<../S/Sagan_om_Ringen_(album).md>)* (Bản phát hành tiếng Anh: *The Lord of the Rings*, 1972)
-- [1972](../_/1972.md): *Ur Trollkarlens hatt* (Bản phát hành tiếng Anh: *Magician's Hat*, 1974; bao gồm ca khúc "Fylke" (tiếng Anh: "The Shire") được thu âm nhưng không được phát hành vào *Sagan om Ringen*)<sup id="cite_ref-Bio_2-0" class="reference"><a href="#cite_note-Bio-2">[2]</a></sup>
+- [1972](../_/1972.md): *Ur Trollkarlens hatt* (Bản phát hành tiếng Anh: *Magician's Hat*, 1974; bao gồm ca khúc "Fylke" (tiếng Anh: "The Shire") được thu âm nhưng không phát hành vào *Sagan om Ringen*)<sup id="cite_ref-Bio_2-0" class="reference"><a href="#cite_note-Bio-2">[2]</a></sup>
 - [1975](../_/1975.md): *Mellanväsen* (Bản phát hành tiếng Anh: *Attic Thoughts*, 1975; album này là album cuối cùng có tham chiếu đến *The Lord of the Rings*)<sup id="cite_ref-Bio_2-1" class="reference"><a href="#cite_note-Bio-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}

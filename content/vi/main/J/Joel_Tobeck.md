@@ -33,7 +33,7 @@ infobox:
 
 Guritz phải mất 5 giờ để lắp chân tay giả và Tobeck trở thành bạn tốt của chuyên gia trang điểm [Gino Acevedo](../G/Gino_Acevedo.md).<sup id="cite_ref-Morphin_2-1" class="reference"><a href="#cite_note-Morphin-2">[2]</a></sup>
 
-Ban đầu có thông tin cho rằng Tobeck sẽ đóng vai [Sméagol](../G/Gollum.md), trước khi anh biến hình,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> mặc dù có thông tin cho rằng anh không còn được xem xét nữa. Người ta đã quyết định [Andy Serkis](../A/Andy_Serkis.md) sẽ đóng vai anh ấy cả trước và sau khi anh ấy biến hình.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Ban đầu có thông tin cho rằng Tobeck sẽ đóng vai [Sméagol](../G/Gollum.md), trước khi anh biến hình,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> mặc dù có thông tin cho rằng anh không còn được xem xét nữa. Người ta đã quyết định [Andy Serkis](../A/Andy_Serkis.md) sẽ đóng vai ông cả trước và sau khi ông biến hình.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Trích dẫn {#Quotes}
 

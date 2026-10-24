@@ -61,11 +61,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong thời trị vì của cha mình, Arvegil đã chứng kiến ​​những sự kiện sẽ định hình nên lịch sử của [Trung Địa](../M/Middle-earth.md), bao gồm cả việc thành lập [the Shire](../T/The_Shire.md). Ông đã tám mươi ba tuổi (không phải là độ tuổi lớn đối với một trong những [Dúnedain](../D/Dúnedain.md)) khi quân [Đại Dịch](../G/Great_Plague.md) tràn ra từ phía nam và tàn phá [Eriador](../E/Eriador.md), nhưng nơi ngự trị của các vị vua ở [Fornost](../F/Fornost.md) ở phía bắc ít bị ảnh hưởng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong triều đại của cha mình, Arvegil đã chứng kiến ​​những sự kiện sẽ định hình lịch sử của [Trung Địa](../M/Middle-earth.md), bao gồm cả sự thành lập của [Shire](../T/The_Shire.md). Ông đã tám mươi ba tuổi (không phải là độ tuổi lớn đối với một trong những [Dúnedain](../D/Dúnedain.md)) khi [Đại dịch](../G/Great_Plague.md) tràn ra từ phía nam và tàn phá [Eriador](../E/Eriador.md), nhưng nơi ngự trị của các vị vua ở [Fornost](../F/Fornost.md) ở phía bắc ít bị ảnh hưởng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Arvegil đã sống được một trăm chín mươi năm, lâu hơn bất kỳ hậu duệ nào của ông cho đến [Aragorn](Aragorn.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Tuy nhiên, theo tiêu chuẩn của tổ tiên ông, đây là một cái chết sớm. Trong số tất cả các vị vua phương bắc trước Arvegil - ngoại trừ những người bị giết trong trận chiến - chỉ có hai người sống dưới hai trăm năm: cha ông [Argeleb II](Argeleb_II.md) và ông nội ông [Araphor](Araphor.md).
+Arvegil đã sống được một trăm chín mươi năm, lâu hơn bất kỳ hậu duệ nào của ông cho đến [Aragorn](Aragorn.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Tuy nhiên, theo tiêu chuẩn của tổ tiên ông, đây là một cái chết sớm. Trong số tất cả các vị vua phương bắc trước Arvegil - ngoại trừ những người bị giết trong trận chiến - chỉ có hai người sống dưới hai trăm năm: cha ông [Argeleb II](Argeleb_II.md) và ông nội [Araphor](Araphor.md).
 
-Arvegil cai trị [Arthedain](Arthedain.md) trong bảy mươi ba năm, và được kế vị bởi con trai ông, người trị vì với tên gọi [Arveleg II](Arveleg_II.md), sau khi ông qua đời vào năm [1743](../T/Third_Age_1743.md).<sup id="cite_ref-North_2-1" class="reference"><a href="#cite_note-North-2">[2]</a></sup>
+Arvegil cai trị [Arthedain](Arthedain.md) trong 73 năm, và được kế vị bởi con trai ông, người trị vì với tên gọi [Arveleg II](Arveleg_II.md), sau khi ông qua đời vào năm [1743](../T/Third_Age_1743.md).<sup id="cite_ref-North_2-1" class="reference"><a href="#cite_note-North-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -87,11 +87,11 @@ Arvegil cai trị [Arthedain](Arthedain.md) trong bảy mươi ba năm, và đư
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các bản sửa đổi sau năm 1966 của [Appendix A](Appendix_A.md), năm mất của Aragorn được sửa đổi từ Kỷ Đệ Tứ 100 thành [Kỷ Đệ Tứ](../F/Fourth_Age.md) [120](../F/Fourth_Age_120.md), khiến ông thọ 210 tuổi (tuổi này được xác nhận rõ ràng trong các bản in sau năm 1993). Việc đề cập đến việc anh ta là người sống lâu nhất trong dòng dõi của mình kể từ Arvegil không thay đổi, mặc dù với sự thay đổi về niên đại này, Aragorn sẽ già hơn Arvegil.
+Trong các bản sửa đổi sau năm 1966 của [Phụ lục A](Appendix_A.md), năm mất của Aragorn được sửa đổi từ Fo.A. 100 đến [Fo.A.](../F/Fourth_Age.md) [120](../F/Fourth_Age_120.md), khiến ông 210 tuổi (tuổi này được xác nhận rõ ràng trong các bản in sau năm 1993). Đề cập đến việc ông ta là người sống lâu nhất trong dòng dõi của mình kể từ Arvegil không thay đổi, mặc dù với sự thay đổi về niên đại này, Aragorn sẽ già hơn Arvegil.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a> — <a href="Arnor%253A_The_People.md" title="Arnor: The People">Arnor: Con người</a></i>:</b>
+<b>1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a> — <a href="Arnor%253A_The_People.md" title="Arnor: The People">Arnor: Người dân</a></i>:</b>
 
 <dl><dd>As crown prince, he was fiercely loyal to his father. He travelled the realm, trying to foster unity. Arvegil studied history, and also sought to acquire all knowledge that could potentially aid his later rule.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 

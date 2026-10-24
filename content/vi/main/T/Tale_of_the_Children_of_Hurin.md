@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Narn i Chîn Húrin (tale)"
 ---
 
-Chuyển hướng đến [Narn i Chîn Húrin (câu chuyện)](<../N/Narn_i_Chîn_Húrin_(tale).md>).
+Chuyển hướng đến [Narn i Chîn Húrin (truyện)](<../N/Narn_i_Chîn_Húrin_(tale).md>).

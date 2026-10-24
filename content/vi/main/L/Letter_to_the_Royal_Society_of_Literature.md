@@ -16,8 +16,8 @@ sort_keys:
 
 Vào [10 tháng 1](../_/10_January.md) [1964](../_/1964.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết <b><a class="mw-redirect" href="Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md" title="Letters not published in &#34;The Letters of J.R.R. Tolkien&#34;">một lá thư</a> gửi <a class="extiw" href="http://en.wikipedia.org/wiki/Royal_Society_of_Literature" title="wikipedia:Royal Society of Literature">Hiệp hội Văn học Hoàng gia</a></b>.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 
-- **Chủ đề:** Tolkien từ chối viết cáo phó [C.S. Lewis](../C/C.S._Lewis.md) cho tạp chí của Hiệp hội *Report*, nhưng thay vào đó đề nghị [Owen Barfield](../O/Owen_Barfield.md) làm như vậy. Tolkien viết: "Tôi cảm nhận được sự mất mát sâu sắc của anh ấy đến nỗi kể từ khi anh ấy qua đời, tôi đã từ chối viết hay nói về anh ấy".<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
-- **Xuất bản:** Một đoạn trích từ bức thư xuất hiện trong bài viết "Những vĩ nhân văn học bị vạch trần là những kẻ buôn chuyện và nói nhảm" của Martin Bentham, đăng trên *Sunday Telegraph*, ngày 7 tháng 2 năm 1999.<sup id="cite_ref-CG_1-2" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+- **Chủ đề:** Tolkien từ chối viết cáo phó [C.S. Lewis](../C/C.S._Lewis.md) cho tạp chí của Hiệp hội *Report*, nhưng thay vào đó đề nghị [Owen Barfield](../O/Owen_Barfield.md) làm như vậy. Tolkien viết: "Tôi cảm nhận được sự mất mát của ông sâu sắc đến mức kể từ khi ông qua đời, tôi đã từ chối viết hay nói về ông".<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+- **Xuất bản:** Một đoạn trích từ bức thư xuất hiện trong bài viết "Những vĩ nhân văn học bị vạch trần là những kẻ buôn chuyện và bắn tỉa" của Martin Bentham, đăng trên *Sunday Telegraph*, ngày 7 tháng 2 năm 1999.<sup id="cite_ref-CG_1-2" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 
 <span></span>
 

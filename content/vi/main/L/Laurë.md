@@ -26,19 +26,19 @@ categories:
 
 ### Từ nguyên {#Etymology}
 
-Trong bản thảo “Eldarin Rễ và Thân”, *laure* có nguồn gốc từ [gốc](../S/Sundocarme.md) [LAW](LAW.md).<sup id="cite_ref-PE17_3-2" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
+Trong bản thảo “Rễ và thân cây Eldarin”, *laure* có nguồn gốc từ [gốc](../S/Sundocarme.md) [LAW](LAW.md).<sup id="cite_ref-PE17_3-2" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
 
 Trong [*Etymologies*](../T/The_Etymologies.md), *laure* xuất phát từ gốc [LÁWAR-](LAW.md#Other_versions).<sup id="cite_ref-etym_4-1" class="reference"><a href="#cite_note-etym-4">[4]</a></sup>
 
 ### Ví dụ {#Examples}
 
-- <i>Inga<b>laurë</b></i>, "[Inga](../V/Vanyar.md#Etymology)-gold"; [tên mẹ](../A/Amilessë.md) của [Finarfin](../F/Finarfin.md) do mái tóc vàng của dân tộc mẹ<sup id="cite_ref-morg_6-0" class="reference"><a href="#cite_note-morg-6">[6]</a></sup>
-- <i><a href="Laurelin.md" title="Laurelin"><b>Laure</b>lin</a></i>, "Bài hát vàng"; tên của một trong những [Hai Cây](../T/Two_Trees.md) của [Valinor](../V/Valinor.md)<sup id="cite_ref-silmindex_7-0" class="reference"><a href="#cite_note-silmindex-7">[7]</a></sup>
+- <i>Inga<b>laurë</b></i>, "[Inga](../V/Vanyar.md#Etymology)-gold"; [tên mẹ](../A/Amilessë.md) của [Finarfin](../F/Finarfin.md) do mái tóc vàng của dân tộc mẹ anh<sup id="cite_ref-morg_6-0" class="reference"><a href="#cite_note-morg-6">[6]</a></sup>
+- <i><a href="Laurelin.md" title="Laurelin"><b>Laure</b>lin</a></i>, "Bài hát vàng"; tên của một trong [Hai Cây](../T/Two_Trees.md) của [Valinor](../V/Valinor.md)<sup id="cite_ref-silmindex_7-0" class="reference"><a href="#cite_note-silmindex-7">[7]</a></sup>
 - <i><a href="Lothlórien.md" title="Lothlórien"><b>Laure</b>lindórenan</a></i>, "Thung lũng vàng hát";<sup id="cite_ref-UTG_5-1" class="reference"><a href="#cite_note-UTG-5">[5]</a></sup> và tên cũ hơn của [Lothlórien](Lothlórien.md)<sup id="cite_ref-rotk_8-0" class="reference"><a href="#cite_note-rotk-8">[8]</a></sup>
-- <i><b>Laure</b>nandë</i>, "Thung lũng vàng"; tên khác cho Lothlórien<sup id="cite_ref-UTG_5-2" class="reference"><a href="#cite_note-UTG-5">[5]</a></sup>
+- <i><b>Laure</b>nandë</i>, "Thung lũng vàng"; một tên khác của Lothlórien<sup id="cite_ref-UTG_5-2" class="reference"><a href="#cite_note-UTG-5">[5]</a></sup>
 - *laurië* (tính từ số nhiều), "vàng"<sup id="cite_ref-rgeo_9-0" class="reference"><a href="#cite_note-rgeo-9">[9]</a></sup>
-- <i><a href="Laurinquë.md" title="Laurinquë"><b>laur</b>inquë</a></i>, có thể là "cây vàng";<sup id="cite_ref-arda_10-0" class="reference"><a href="#cite_note-arda-10">[10]</a></sup> một cây ở [Hyarrostar](../H/Hyarrostar.md) ở [Númenor](../N/Númenor.md) có hoa màu vàng<sup id="cite_ref-uttree_11-0" class="reference"><a href="#cite_note-uttree-11">[11]</a></sup>
-- <i>Maka<b>laurë</b></i>, "rèn vàng"; tên mẹ tiên tri cho [Maglor](../M/Maglor.md)<sup id="cite_ref-pome_12-0" class="reference"><a href="#cite_note-pome-12">[12]</a></sup>
+- <i><a href="Laurinquë.md" title="Laurinquë"><b>laur</b>inquë</a></i>, có thể là "cây vàng";<sup id="cite_ref-arda_10-0" class="reference"><a href="#cite_note-arda-10">[10]</a></sup> một cây ở [Hyarrostar](../H/Hyarrostar.md) ở [Númenor](../N/Númenor.md) với hoa màu vàng<sup id="cite_ref-uttree_11-0" class="reference"><a href="#cite_note-uttree-11">[11]</a></sup>
+- <i>Maka<b>laurë</b></i>, "rèn vàng"; tên mẹ tiên tri của [Maglor](../M/Maglor.md)<sup id="cite_ref-pome_12-0" class="reference"><a href="#cite_note-pome-12">[12]</a></sup>
 
 ## Qenya {#Qenya}
 
@@ -46,7 +46,7 @@ Trong [*Etymologies*](../T/The_Etymologies.md), *laure* xuất phát từ gốc 
 
 ## Xem thêm {#See_also}
 
-- [Sindarin](../S/Sindarin.md) *[glaur](../G/Glaur.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[glaur](../G/Glaur.md)*
 - [Gốc](../S/Sundocarme.md) [KUL](../K/KUL.md) ("đỏ vàng")
 - Đối với các từ khác được hiểu là "vàng", xem *[Gold: Names](../G/Gold.md#Names)*
 

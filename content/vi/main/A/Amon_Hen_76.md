@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen76.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/01/AmonHen76.jpg/320px-AmonHen76.jpg" decoding="async" loading="lazy" width="320" height="467" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/01/AmonHen76.jpg/480px-AmonHen76.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/01/AmonHen76.jpg/640px-AmonHen76.jpg 2x" data-file-width="685" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 76</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Iwan Rhys Morus</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Maggie Thomson</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Hanway Print Centre, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">November <a href="../_/1985.md" title="1985">1985</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_75.md" title="Amon Hen 75">Amon Hen 75</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_77.md" title="Amon Hen 77">Amon Hen 77</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 76</b> là số thứ 76 của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 11 [1985](../_/1985.md).
+<b><i>Amon Hen</i> 76</b> là số thứ 76 của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 11 [1985](../_/1985.md).
 
 ## Nội dung {#Contents}
 
@@ -53,13 +53,13 @@ infobox:
 - Phía sau cánh cửa kính
 - Báo cáo Oxonmoot
     - Bởi: [Ted Nasmith](../T/Ted_Nasmith.md)
-- Nghệ thuật [Ted Nasmith](../T/Ted_Nasmith.md)
+- Nghệ thuật của [Ted Nasmith](../T/Ted_Nasmith.md)
     - Bởi: C.S. Rosenthal
 - Đánh giá
     - Bởi: [Anders Stenstrom](Anders_Stenström.md), Iwan Rhys Morus, Susanne Stopfel, Ian Forrest
 - Vào đêm giao thừa của các thiên thần
     - Bởi: Tim Scratcherd
-Tác động từ vựng hơn nữa của - Tolkien đối với [Oxford Từ điển tiếng Anh](../O/Oxford_English_Dictionary.md)
+- Tác động từ vựng sâu hơn của Tolkien đối với [Từ điển tiếng Anh Oxford](../O/Oxford_English_Dictionary.md)
     - Bởi: [J.S. Ryan](../J/John_Ryan.md)
 - Thư
 - Góc của Jessica

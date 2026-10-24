@@ -29,8 +29,8 @@ images:
 
 **Nimloth** có nghĩa là "Hoa trắng" trong [Sindarin](../S/Sindarin.md) (từ *[nim](Nim.md)-*, "nhạt, trắng" và *[loth](../L/Loth.md)*, "hoa, hoa") và có thể tham khảo:
 
-- [Nimloth của Doriath](Nimloth_of_Doriath.md) (đã chết [F.A.](../F/First_Age.md) [506](../F/First_Age_506.md)), vợ của [Dior Eluchíl](../D/Dior.md) và mẹ của [Elwing](../E/Elwing.md).
-- [Nimloth của Númenor](Nimloth_of_Númenor.md) ([Tuổi thứ hai](../S/Second_Age.md)), Cây Trắng của [Númenor](Númenor.md) đã phát triển vào [Armenelos](../A/Armenelos.md).
+- [Nimloth of Doriath](Nimloth_of_Doriath.md) (đã chết [F.A.](../F/First_Age.md) [506](../F/First_Age_506.md)), vợ của [Dior Eluchíl](../D/Dior.md) và mẹ của [Elwing](../E/Elwing.md).
+- [Nimloth of Númenor](Nimloth_of_Númenor.md) ([Thời thứ hai](../S/Second_Age.md)), Cây Trắng của [Númenor](Númenor.md) mọc ở [Armenelos](../A/Armenelos.md).
 
 <hr style="margin-top:15px;"/>
 

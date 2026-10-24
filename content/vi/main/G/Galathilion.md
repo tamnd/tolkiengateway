@@ -44,15 +44,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Plant</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Galathilion</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">&#34;White Tree&#34;</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/Tirion.md" title="Tirion">Tirion</a></td></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data">many seedlings (including <a class="mw-redirect" href="../C/Celeborn,_White_Tree.md" title="Celeborn, White Tree">Celeborn</a>)</td></tr><tr><th scope="row" class="tg-infobox-label">Appearance</th><td class="tg-infobox-data">made in the image of <a href="../T/Telperion.md" title="Telperion">Telperion</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Galathilion.md" title="Category:Images of Galathilion">Images of Galathilion</a></td></tr></tbody></table>
 
-**Galathilion**, **Cây Trắng**, là một cái cây được [Yavanna](../Y/Yavanna.md) tạo ra cho [Tiên tộc](../E/Elves.md) của thành phố [Tirion](../T/Tirion.md). Nó được làm theo hình ảnh của [Telperion](../T/Telperion.md), vì [Amanyar](../A/Amanyar.md) yêu thích nó nhất trong [Hai Cây](../T/Two_Trees.md), mặc dù Galathilion không phát ra ánh sáng.<sup id="cite_ref-s5_1-0" class="reference"><a href="#cite_note-s5-1">[1]</a></sup>
+**Galathilion**, **Cây Trắng**, là một cái cây được tạo ra bởi [Yavanna](../Y/Yavanna.md) dành cho [Yêu tinh](../E/Elves.md) của thành phố [Tirion](../T/Tirion.md). Nó được làm theo hình ảnh của [Telperion](../T/Telperion.md), vì [Amanyar](../A/Amanyar.md) yêu thích nó nhất trong [Hai Cây](../T/Two_Trees.md), mặc dù Galathilion không có ánh sáng.<sup id="cite_ref-s5_1-0" class="reference"><a href="#cite_note-s5-1">[1]</a></sup>
 
-Nó mọc ở [Quảng trường Lớn](Great_Square.md), một khoảng sân rộng mở bên dưới [Mindon Eldaliéva](../M/Mindon_Eldaliéva.md) và có nhiều cây con ở [Eldamar](../E/Eldamar.md). Từ đó nó ra đời [Celeborn](../C/Celeborn,_White_Tree.md), Cây Trắng của [Tol Eressëa](../T/Tol_Eressëa.md);<sup id="cite_ref-s5_1-1" class="reference"><a href="#cite_note-s5-1">[1]</a></sup> qua đó nó trở thành tổ tiên của [Nimloth của Númenor](../N/Nimloth_of_Númenor.md) và [Cây Trắng của Gondor](../W/White_Tree_of_Gondor.md).<sup id="cite_ref-Ak_2-0" class="reference"><a href="#cite_note-Ak-2">[2]</a></sup>
+Nó mọc ở [Great Square](Great_Square.md), một khoảng sân cao rộng bên dưới [Mindon Eldaliéva](../M/Mindon_Eldaliéva.md) và có nhiều cây con ở [Eldamar](../E/Eldamar.md). Từ đó nó ra đời [Celeborn](../C/Celeborn,_White_Tree.md), Cây Trắng của [Tol Eressëa](../T/Tol_Eressëa.md);<sup id="cite_ref-s5_1-1" class="reference"><a href="#cite_note-s5-1">[1]</a></sup> qua đó nó trở thành tổ tiên của [Nimloth của Númenor](../N/Nimloth_of_Númenor.md) và [Cây Trắng của Gondor](../W/White_Tree_of_Gondor.md).<sup id="cite_ref-Ak_2-0" class="reference"><a href="#cite_note-Ak-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Galathilion là [Sindarin](../S/Sindarin.md) cho "Cây Trắng",<sup id="cite_ref-s5_1-2" class="reference"><a href="#cite_note-s5-1">[1]</a></sup> từ *[galadh](Galadh.md)* ("cây") + *[thil](../S/Sil.md)* ("bạc sáng bóng)".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Galathilion là [Sindarin](../S/Sindarin.md) có nghĩa là "Cây trắng",<sup id="cite_ref-s5_1-2" class="reference"><a href="#cite_note-s5-1">[1]</a></sup> từ *[galadh](Galadh.md)* ("cây") + *[thil](../S/Sil.md)* ("bạc sáng bóng)".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Phần tử cuối cùng có thể là tên đệm *[-ion](../_/-ion.md)*, có lẽ biểu thị nguồn gốc của cây từ Telperion.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Yếu tố cuối cùng có thể là tên đệm *[-ion](../_/-ion.md)*, có lẽ biểu thị nguồn gốc cây từ Telperion.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Tên khác {#Other_names}
 
@@ -60,7 +60,7 @@ Nó còn được gọi là **Cây Tirion**<sup id="cite_ref-5" class="reference
 
 *Galathilion* ban đầu là tên của Telperion, "nhưng sau đó *Galathilion the Less* là tên của Cây Trắng của Túna."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-[Legolas](../L/Legolas.md) lưu ý rằng [Cánh cửa Durin](../D/Doors_of_Durin.md) hiển thị **Cây của High Elves**,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[note 1]</a></sup> có lẽ đại diện cho Galathilion.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup>
+[Legolas](../L/Legolas.md) lưu ý rằng [Cánh cửa Durin](../D/Doors_of_Durin.md) trưng bày **Cây của Yêu tinh Cao cấp**,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[note 1]</a></sup> có lẽ đại diện cho Galathilion.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -101,12 +101,12 @@ long and soft and fair.
 <p class="tg-quote-footer"><cite><i><a href="../I/Imram.md" title="Imram">Imram</a></i> (The Death of Saint Brendan), vv. 67-76</cite></p>
 </blockquote>
 
-Trong ghi chú [Quenya](../Q/Quenya.md) được xuất bản trong *[Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md)*, cây được gọi bằng tên *[Amalion](../A/Amalion.md)*.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[11]</a></sup>
+Trong ghi chú [Quenya](../Q/Quenya.md) được xuất bản trên *[Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md)*, cây được gọi bằng tên *[Amalion](../A/Amalion.md)*.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[11]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Trên thực tế, <a href="../../file/J/J.R.R._Tolkien_-_Doors_of_Durin.jpg.md" title="File:J.R.R. Tolkien - Doors of Durin.jpg">bản vẽ Cửa</a>, hiển thị một <i>cặp</i> cây ở hai bên bố cục chứ không phải một cây duy nhất; trừ khi cả hai đều được dùng để tượng trưng cho "Cây High Elves".</span>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Trên thực tế, <a href="../../file/J/J.R.R._Tolkien_-_Doors_of_Durin.jpg.md" title="File:J.R.R. Tolkien - Doors of Durin.jpg">bản vẽ Cửa</a>, hiển thị một <i>cặp</i> cây ở hai bên bố cục chứ không phải một cây duy nhất; trừ khi cả hai đều được dùng để tượng trưng cho "Cây của Yêu tinh Cao cấp".</span>
 </li>
 </ol></div></span>
 

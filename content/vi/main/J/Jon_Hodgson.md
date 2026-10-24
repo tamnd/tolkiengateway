@@ -28,7 +28,7 @@ infobox:
 
 **Jon Hodgson** là một nghệ sĩ người Scotland. Vào những năm 2010, anh được [Cubicle 7 Entertainment](../C/Cubicle_7_Entertainment.md) ủy quyền tạo tác phẩm nghệ thuật cho *[The One Ring](<../T/The_One_Ring_(role-playing_game).md>) role-playing game*, với tư cách là giám đốc sáng tạo cho đến [2018](../_/2018.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Anh cũng đóng góp tác phẩm nghệ thuật cho [War of the Ring: The Card Game](../W/War_of_the_Ring%253A_The_Card_Game.md), phát hành lần đầu vào [2022](../_/2022.md).
 
-Vào năm 2021, anh ấy đã thiết kế và minh họa một trò chơi nhập vai dựa trên [Beowulf](<../B/Beowulf_(poem).md>), sử dụng bộ quy tắc *[Dungeons and Dragons](../D/Dungeons_and_Dragons.md)* đã sửa đổi mà Hodgson mô tả là kết quả tất yếu từ công việc của anh ấy cho *The One Ring*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào năm 2021, anh đã thiết kế và minh họa một trò chơi nhập vai dựa trên [Beowulf](<../B/Beowulf_(poem).md>), sử dụng bộ quy tắc *[Dungeons and Dragons](../D/Dungeons_and_Dragons.md)* đã sửa đổi mà Hodgson mô tả là kết quả tất yếu từ công việc của anh cho *The One Ring*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

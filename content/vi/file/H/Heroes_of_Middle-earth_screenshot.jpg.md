@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ảnh chụp màn hình trò chơi [The Lord of the Rings: Anh hùng Trung Địa](../../main/T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md).
+Ảnh chụp màn hình của trò chơi [The Lord of the Rings: Heroes of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md).
 
 ## Giấy phép {#Licensing}
 

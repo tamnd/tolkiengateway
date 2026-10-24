@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Collected Poems of J.R.R. Tolkien"
 ---
 
-Chuyển hướng đến [The Collected Poems of J.R.R. Tolkien](The_Collected_Poems_of_J.R.R._Tolkien.md).
+Chuyển hướng đến [Thơ sưu tầm của J.R.R. Tolkien](The_Collected_Poems_of_J.R.R._Tolkien.md).

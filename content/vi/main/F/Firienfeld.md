@@ -22,15 +22,15 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Firienfeld.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/66/The_Lord_of_the_Rings_Online_-_Firienfeld.jpg/250px-The_Lord_of_the_Rings_Online_-_Firienfeld.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/66/The_Lord_of_the_Rings_Online_-_Firienfeld.jpg/375px-The_Lord_of_the_Rings_Online_-_Firienfeld.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/66/The_Lord_of_the_Rings_Online_-_Firienfeld.jpg/500px-The_Lord_of_the_Rings_Online_-_Firienfeld.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The Firienfeld in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Firienfeld** được [Rohirrim](../R/Rohirrim.md) gọi là vùng cao bằng phẳng của [Dunharrow](../D/Dunharrow.md); một khu vực cỏ rộng lớn làm nơi cắm trại của binh lính và người tị nạn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Aragorn](../A/Aragorn.md) và [Đại đội Grey](../G/Grey_Company.md) đi qua Firienfeld vào [8 tháng 3](../_/8_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md); Vua [Théoden](../T/Théoden.md) và các tay đua của anh ấy đã đến đó [ngày hôm sau](../_/9_March.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Firienfeld** là nơi [Rohirrim](../R/Rohirrim.md) gọi là vùng cao nguyên bằng phẳng của [Dunharrow](../D/Dunharrow.md); một khu vực cỏ rộng lớn làm nơi cắm trại của binh lính và người tị nạn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Aragorn](../A/Aragorn.md) và [Đại đội Grey](../G/Grey_Company.md) đi qua Firienfeld vào [8 tháng 3](../_/8_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md); Vua [Théoden](../T/Théoden.md) và các kỵ sĩ của ông đã đến đó [ngày hôm sau](../_/9_March.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Firien đại diện cho [tiếng Anh cổ](../O/Old_English.md) *firgen*, "ngọn núi"; *-feld,* có nghĩa là "trường" và [Tolkien](../J/J.R.R._Tolkien.md) không được hiện đại hóa; trường Firien của Chỉ mục bị lỗi.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Firien đại diện cho [Tiếng Anh cổ](../O/Old_English.md) *firgen*, "ngọn núi"; *-feld,* có nghĩa là "trường" và [Tolkien](../J/J.R.R._Tolkien.md) khiến nó không được hiện đại hóa; trường Firien của Chỉ mục bị lỗi.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>The Firienfeld sits atop the Dunharrow plateau, but has relatively little quest involvement as the player does not participate in the Muster of Rohan but rather is investigating activities of <a href="../W/White_Mountains.md" title="White Mountains">White Mountains</a> orcs in the area.</dd></dl>
 

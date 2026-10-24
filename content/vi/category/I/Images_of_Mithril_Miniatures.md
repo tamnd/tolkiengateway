@@ -14,4 +14,4 @@ sort_keys:
   "Images of collectibles": "Mithril Miniatures"
 ---
 
-Hình ảnh các hình từ [Mithril Miniatures](../../main/M/Mithril_Miniatures.md).
+Hình ảnh các nhân vật từ [Mithril Miniatures](../../main/M/Mithril_Miniatures.md).

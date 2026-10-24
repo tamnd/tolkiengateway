@@ -39,20 +39,20 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_119_120.gif.md"><img src="https://tolkiengateway.net/w/images/1/1c/Mythlore_119_120.gif" decoding="async" loading="lazy" width="225" height="295" class="mw-file-element" data-file-width="225" data-file-height="295"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 119/120</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../J/Janet_Brennan_Croft.md" title="Janet Brennan Croft">Janet Brennan Croft</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Fall/Winter <a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">204</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_117%252F118.md" title="Mythlore 117/118">Mythlore 117/118</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_121%252F122.md" title="Mythlore 121/122">Mythlore 121/122</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 119/120</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol31/iss1/" rel="noreferrer noopener" target="_blank">Tập 31, Số 1/2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 119/120</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol31/iss1/" rel="noreferrer noopener" target="_blank">Tập 31, Số 1/2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Murphy, G. Ronald. "Yggdrasil và Nhà Thờ Gỗ."
-- Noetzel, Justin T. và Matthew R. Bardowell. " Inklings được ghi nhớ: Cuộc trò chuyện với Colin Havard."
-- Bridgwater, Sue. "Người quản gia, Vua và Nữ hoàng: Lòng trung thành và tình yêu trong *The Lord of the Rings* của Tolkien và trong *Sir Orfeo.*"
-- Browning, Lydia R. "Con cháu chống chủ nghĩa hiện đại củaCharles Williams *Into Hell.*"
-- Nhà-Thomas, Alyssa. "Chủ nghĩa Đông phương kỳ diệu của Lord Dunsany: Những câu chuyện về Đông phương học truyền thống và phi truyền thống trong *The Book of Wonder* và *Tales of Wonder*."
-- Sheley, Erin L. "Sự thuộc địa hóa qua lại trong truyện cổ tích của Chúa Dunsany ở Ireland."
-- Bodsworth, Roxanne. "Thay đổi câu chuyện: Sự biến đổi huyền thoại trong bài thơ 'Cuộc chiến của Cuchulain với Biển' của Yeat."
-- Johnston, Susan. "Nỗi buồn sâu sắc như niềm vui: Thảm họa và thảm họa trong *A Song of Ice and Fire*."
+- Murphy, G. Ronald. "Yggdrasil and the Stave Church."
+- Noetzel, Justin T., and Matthew R. Bardowell. "The Inklings Remembered: A Conversation with Colin Havard."
+- Bridgwater, Sue. "The Steward, the King, and the Queen: Fealty and Love in Tolkien's *The Lord of the Rings* and in *Sir Orfeo.*"
+- Browning, Lydia R. "Charles Williams's Anti-Modernist Descent *Into Hell.*"
+- House-Thomas, Alyssa. "The Wondrous Orientalism of Lord Dunsany: Traditional and Non-traditional Orientalist Narratives in *The Book of Wonder* and *Tales of Wonder*."
+- Sheley, Erin L. "Reciprocal Colonization in the Irish Fairy Tales of Lord Dunsany."
+- Bodsworth, Roxanne. "Changing the Story: Transformations of Myth in Yeat's Poem 'Cuchulain's Fight with the Sea'."
+- Johnston, Susan. "Grief Poignant as Joy: Dyscatastrophe and Eucatastrophe in *A Song of Ice and Fire*."
 
 #### Tính năng {#Features}
 

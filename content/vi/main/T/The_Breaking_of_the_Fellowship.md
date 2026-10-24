@@ -37,19 +37,19 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Đêm hôm đó [đại đội](../F/Fellowship_of_the_Ring.md) nghỉ ngơi bên bờ Phương Tây sông [sông](../A/Anduin.md) dưới chân [Amon Hen](../A/Amon_Hen.md). Ngày hôm sau, nhiệm vụ chọn đường được đặt lên vai [Frodo](../F/Frodo_Baggins.md). Anh ta phải quyết định xem nên quay lại với [Boromir](../B/Boromir.md) để [Gondor](../G/Gondor.md) và đánh bại [Sauron](../S/Sauron.md)hay tiếp tục kế hoạch phá hủy [Chiếc nhẫn](The_One_Ring.md).
+Đêm đó [đại đội](../F/Fellowship_of_the_Ring.md) nghỉ ngơi ở bờ Tây con sông [sông](../A/Anduin.md) dưới chân [Amon Hen](../A/Amon_Hen.md). Ngày hôm sau, nhiệm vụ chọn đường đi được đặt lên vai [Frodo](../F/Frodo_Baggins.md). Ông ta phải quyết định xem nên cùng [Boromir](../B/Boromir.md) quay trở lại [Gondor](../G/Gondor.md) và đánh bại [Sauron](../S/Sauron.md) hay tiếp tục kế hoạch phá hủy [Chiếc nhẫn](The_One_Ring.md).
 
-Frodo đi dạo một vòng để đầu óc tỉnh táo và xem xét kỹ hơn vấn đề. Boromir đi theo anh ta và cố gắng thuyết phục anh ta quay lại với chiếc nhẫn về Gondor. Frodo từ chối và nói rằng nếu anh ta không đi theo con đường khó khăn [Núi Doom](../M/Mount_Doom.md) và phá hủy Chiếc nhẫn thì mọi trận chiến hay cuối cùng sẽ thất bại.
+Frodo đi dạo để đầu óc tỉnh táo và xem xét kỹ hơn vấn đề. Boromir đi theo ông ta và cố gắng thuyết phục ông ta mang chiếc nhẫn trở về Gondor. Frodo từ chối và nói rằng nếu anh không đi theo con đường khó khăn đến [Mount Doom](../M/Mount_Doom.md) và phá hủy Chiếc nhẫn thì mọi trận chiến hay cuối cùng sẽ thất bại.
 
-Trong cơn tuyệt vọng, Boromir cố gắng giành lấy chiếc Nhẫn từ tay anh. Frodo đeo nó vào và trốn thoát Boromir, người này sau đó tỉnh lại và nhận ra mình đã làm gì.
+Trong cơn tuyệt vọng, Boromir cố gắng giành lấy chiếc nhẫn từ tay anh. Frodo đeo nó vào và thoát khỏi Boromir, người sau đó tỉnh lại và nhận ra mình đã làm gì.
 
-Frodo biết rằng những người khác đang tìm kiếm mình. Anh đeo lại chiếc Nhẫn và đi về phía chân Amon Hen, nhận ra rằng mình phải tiến hành một mình để tránh những rắc rối thêm. Công ty đã biết được từ Boromir một phần sự việc đã xảy ra và trong cơn hỗn loạn, họ đã chạy đi tìm anh ta. [Merry](../M/Meriadoc_Brandybuck.md) và [Peregrin](../P/Peregrin_Took.md) bỏ chạy về một hướng, trong khi [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) tìm kiếm anh ta ở một hướng khác. Theo linh cảm, [Sam](../S/Samwise_Gamgee.md) đi ra sông và nhìn thấy một chiếc thuyền được cho là trống rỗng đang trôi nổi. Anh ta nhảy về phía nó nhưng trượt và suýt chết đuối trong nước. Frodo đã tháo chiếc nhẫn của mình ra và giúp Sam vào bờ, nhờ đó cứu được anh ta. Sau một hồi tranh cãi, Frodo thống nhất Sam nên đi cùng mình và hai người tiếp tục hành trình hướng về [Vùng đất Bóng Tối](../M/Mordor.md).
+Frodo biết rằng những người khác đang tìm kiếm anh. Anh đeo lại chiếc nhẫn và đi về phía chân gà mái Amon, nhận ra rằng mình phải tiến hành một mình để tránh những rắc rối thêm. Công ty đã biết được từ Boromir một phần những gì đã xảy ra và trong lúc hỗn loạn, họ đã chạy đi tìm ông ta. [Merry](../M/Meriadoc_Brandybuck.md) và [Peregrin](../P/Peregrin_Took.md) chạy về một hướng, trong khi [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) tìm kiếm ông ta ở một hướng khác. Theo linh cảm, [Sam](../S/Samwise_Gamgee.md) đi đến con sông nơi anh nhìn thấy một chiếc thuyền được cho là trống rỗng đang trôi nổi. Ông ta nhảy về phía nó nhưng trượt và suýt chết đuối trong nước. Frodo tháo chiếc nhẫn của mình ra và giúp Sam vào bờ, nhờ đó cứu được ông. Sau một hồi tranh cãi, Frodo đồng ý để Sam đi cùng mình và cả hai tiếp tục cuộc hành trình tới [Vùng đất bóng tối](../M/Mordor.md).
 
 ## Thành phần {#Composition}
 
-Các sự kiện của chương này đã được xem xét trong dàn ý trong khi Tolkien vẫn đang viết các chương trong [Lothlórien](../L/Lothlórien.md), tức là có thể rơi vào [1941](../_/1941.md).
+Các sự kiện của chương này đã được xem xét sơ lược khi Tolkien vẫn đang viết các chương lấy bối cảnh ở [Lothlórien](../L/Lothlórien.md), tức là có thể là sự sụp đổ của [1941](../_/1941.md).
 
-Tiêu đề ban đầu của chương này là "*The Scattering of the Company*" và bao gồm chuyến đi dọc theo Anduin, cuối cùng được chia ra và phần đầu tiên tạo thành chương khác, trước đó. Chương này cùng với toàn bộ Quyển II có lẽ đã được hoàn thành vào cuối năm đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+Tiêu đề ban đầu của chương này là "*The Scattering of the Company*" và bao gồm chuyến đi dọc theo sông Anduin, cuối cùng được chia ra và phần đầu tiên tạo thành chương khác, trước đó. Chương này cùng với toàn bộ Quyển II có lẽ đã được hoàn thành vào cuối năm đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

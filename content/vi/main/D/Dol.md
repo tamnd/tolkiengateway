@@ -37,7 +37,7 @@ Từ [OS](../O/OS.md) \**dola*, [PQ](../P/PQ.md) [Gốc](../S/Sundocarmë.md) <a
 
 ## Phiên bản khác {#Other_versions}
 
-Phiên bản [Noldorin](../N/Noldorin.md) được đưa ra là *dôl*.
+Phiên bản [Noldorin](../N/Noldorin.md) được cung cấp dưới dạng *dôl*.
 
 <span></span>
 

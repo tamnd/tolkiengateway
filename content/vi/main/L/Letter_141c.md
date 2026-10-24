@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien xin lỗi vì sự chậm trễ do sức khỏe kém của anh ấy, đồng thời đề cập rằng gần đây anh ấy bị 'cúm dạ dày' và nhiều lo lắng khác. Anh ấy thông báo với [Rayner](../R/Rayner_Unwin.md) rằng anh ấy sẽ đến thăm London vào thứ Năm tuần sau và có thể mang theo một bản sao chưa được chỉnh sửa của tập thứ ba của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* để ước tính, mặc dù anh ấy sẽ cần lấy lại nó để chỉnh sửa thêm.
+Tolkien xin lỗi vì sự chậm trễ do sức khỏe yếu của ông, đồng thời đề cập rằng gần đây ông bị 'cúm dạ dày' và nhiều lo lắng khác. Ông thông báo với [Rayner](../R/Rayner_Unwin.md) rằng ông sẽ đến thăm London vào thứ Năm tuần sau và có thể mang theo một bản sao chưa được chỉnh sửa của tập thứ ba của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* để ước tính, mặc dù ông sẽ cần lấy lại nó để chỉnh sửa thêm.
 
-Tolkien thừa nhận nhu cầu cấp thiết về bản đồ và bày tỏ ý định cung cấp tài liệu cần thiết cho chúng, mặc dù bị choáng ngợp bởi nhu cầu của tuần cuối cùng của học kỳ. Anh ấy cũng bày tỏ hy vọng được xem lại các phòng trưng bày của tập thứ hai trong kỳ nghỉ của mình.
+Tolkien thừa nhận nhu cầu cấp thiết của các bản đồ và bày tỏ ý định cung cấp tài liệu cần thiết cho chúng, mặc dù bị choáng ngợp bởi nhu cầu của tuần cuối cùng của học kỳ. Ông cũng bày tỏ hy vọng được xem lại các phòng trưng bày của tập thứ hai trong kỳ nghỉ của mình.
 
 <br>
 

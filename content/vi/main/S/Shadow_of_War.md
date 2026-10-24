@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: Shadow of War"
 ---
 
-Chuyển hướng tới [Trung Địa: Bóng Tối of War](../M/Middle-earth%253A_Shadow_of_War.md).
+Chuyển hướng đến [Middle-earth: Shadow of War](../M/Middle-earth%253A_Shadow_of_War.md).

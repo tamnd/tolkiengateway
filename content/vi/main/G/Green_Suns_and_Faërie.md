@@ -58,24 +58,24 @@ infobox:
 <dl><dt>PART ONE - Tolkien Sub-creator</dt></dl>
 
 - Ảo tưởng và hiện thực: Thế giới của J.R.R. Tolkien và tiểu luận truyện cổ tích
-- Âm nhạc và nhiệm vụ: Số phận và ý chí tự do trong Trung Địa
-- Tolkien và Ý tưởng của Cuốn sách
-- Tolkien trên Tolkien: "Về truyện cổ tích," The Hobbit và The Lord of the Rings
-- Khi nào truyện cổ tích là truyện Faerie? Smith của Wootton Thiếu tá
+- Âm nhạc và nhiệm vụ: Số phận và ý chí tự do ở Trung Địa
+- Tolkien và ý tưởng của cuốn sách
+- Tolkien về Tolkien: "Về truyện cổ tích", Người Hobbit và Chúa tể của những chiếc nhẫn
+- Khi nào truyện cổ tích là truyện thần tiên? Smith của Wootton Thiếu tá
 - Bước chân của Ælfwine
-- Sự cố kỳ lạ về giấc mơ ở Barrow: Ký ức và sự tái sinh trong Trung Địa
+- Sự cố kỳ lạ về giấc mơ ở Barrow: Ký ức và sự tái sinh ở Trung Địa
 - Huyền thoại đó là của ai?
 
 <dl><dt>PART TWO - Tolkien in Tradition</dt></dl>
 
-Sự hoang dã của - Tolkien Con Người từ Trung cổ đến Hiện đại
+- Những gã hoang dã của Tolkien từ thời trung cổ đến hiện đại
 - Tolkien và vấn đề nước Anh
 - Frodo và Aragorn: Khái niệm về người anh hùng
-Câu đố về cái cổ của - Bilbo
-- Câu chuyện ngụ ngôn so với Bounce: Smith of Wootton Major của Tolkien
+- Câu đố về cái cổ của Bilbo
+- Câu chuyện ngụ ngôn so với cú nảy: Thợ rèn xứ Wootton Major của Tolkien
 - Flieger
 - Người vận chuyển
-- Thần thoại cho Phần Lan: Tolkien và Lonnrot là người tạo ra thần thoại
+- Thần thoại cho Phần Lan: Tolkien và Lonnrot là người tạo ra huyền thoại
 - Tolkien, Kalevala và "Câu chuyện về Kullervo"
 - Brittany và xứ Wales ở Trung Địa
 - Hiệp sĩ xanh, Người đàn ông xanh và Treebeard: Học bổng và phát minh trong tiểu thuyết của Tolkien
@@ -83,10 +83,10 @@ Câu đố về cái cổ của - Bilbo
 
 <dl><dt>PART THREE - Tolkien and His Century</dt></dl>
 
-- Câu chuyện cảnh giác: Thần thoại của Tolkien dành cho nước Anh
+- Câu chuyện cảnh báo: Thần thoại nước Anh của Tolkien
 - Tâm trí, cái lưỡi và câu chuyện
 - Một nhà thời Trung cổ hậu hiện đại
-- Tham gia vai trò của cây xanh: Xung đột sinh thái ở Trung Địa
+- Tham gia vai trò của cây cối: Xung đột sinh thái ở Trung Địa
 - Gilson, Smith và Baggins
 - Thi thể được đề cập: Những vết thương chưa lành của Frodo Baggins
 - Một tấm gương xa: Tolkien và Jackson trong gương soi

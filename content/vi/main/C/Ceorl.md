@@ -51,15 +51,15 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../T/Théoden.md" title="Théoden">Théoden</a><sup id="cite_ref-HD_1-0" class="reference"><a href="#cite_note-HD-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Ceorl** là tay đua [Rohan](../R/Rohan.md) ở cuối [Kỷ Đệ Tam](../T/Third_Age.md).
+**Ceorl** là kỵ sĩ của [Rohan](../R/Rohan.md) vào cuối [Thời đại thứ ba](../T/Third_Age.md).
 
 ## Lịch sử {#History}
 
-Sau thất bại trong [Trận chiến thứ hai giữa Fords Isen](../S/Second_Battle_of_the_Fords_of_Isen.md), [Erkenbrand](../E/Erkenbrand.md) rút Kỵ sĩ của mình về [Helm's Deep](../H/Helm's_Deep.md), và cử Ceorl về phía nam làm sứ giả để cảnh báo [Éomer](../_/Éomer.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Anh ta ngạc nhiên khi gặp đội quân của [Vua Théoden](../T/Théoden.md) đang tiến về phía bắc, sẵn sàng triển khai cuộc phòng thủ của riêng họ trước Fords. Tin tức do Ceorl mang đến đã khiến Théoden phải xem xét lại chiến lược của mình và thay vào đó anh ấy đã lên đường tham gia Erkenbrand tại Helm's Deep, từ đó tạo tiền đề cho [Trận Hornburg](../B/Battle_of_the_Hornburg.md) hùng mạnh.<sup id="cite_ref-HD_1-1" class="reference"><a href="#cite_note-HD-1">[1]</a></sup>
+After the loss of the [Second Battle of the Fords of Isen](../S/Second_Battle_of_the_Fords_of_Isen.md), [Erkenbrand](../E/Erkenbrand.md) withdrew his Riders to [Helm's Deep](../H/Helm's_Deep.md), and sent Ceorl south as a messenger to warn [Éomer](../_/Éomer.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> He was surprised to come across [King Théoden](../T/Théoden.md)'s army riding north, ready to launch their own defence of the Fords. The news brought by Ceorl caused Théoden to reconsider his strategy, and he rode instead to join Erkenbrand at Helm's Deep, so setting the stage for the mighty [Battle of the Hornburg](../B/Battle_of_the_Hornburg.md).<sup id="cite_ref-HD_1-1" class="reference"><a href="#cite_note-HD-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Giống như những [Rohirrim](../R/Rohirrim.md) khác, tên của Ceorl bắt nguồn từ [tiếng Anh cổ](../O/Old_English.md). Nó đề cập đến một cấp bậc cụ thể trong xã hội Anglo-Saxon (còn được gọi là <a class="mw-disambig" href="Carl_(disambiguation).md" title="Carl (disambiguation)">Carl</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/churl" title="wikipedia:churl">Churl</a>), trên thực tế là cấp bậc thấp nhất có thể khi vẫn là một người tự do. Về mặt lịch sử, những người này thường không phải là quân nhân chuyên nghiệp, vì vậy nếu lai lịch của Ceorl theo tên của anh ta, chúng ta có thể đoán rằng anh ta là một nông dân hoặc thương nhân đã bị ép phải thực hiện nghĩa vụ quân sự để giúp đối phó với mối đe dọa sắp xảy ra đối với [Rohan](../R/Rohan.md).
+Giống như những [Rohirrim](../R/Rohirrim.md) khác, tên của Ceorl xuất phát từ [tiếng Anh cổ](../O/Old_English.md). Nó đề cập đến một cấp bậc cụ thể trong xã hội Anglo-Saxon (còn được gọi là <a class="mw-disambig" href="Carl_(disambiguation).md" title="Carl (disambiguation)">Carl</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/churl" title="wikipedia:churl">Churl</a>), trên thực tế là cấp bậc thấp nhất có thể khi vẫn là một người tự do. Về mặt lịch sử, những người này thường không phải là quân nhân chuyên nghiệp, vì vậy nếu lai lịch của Ceorl theo tên của ông ta, chúng ta có thể đoán rằng ông ta là một nông dân hoặc thương nhân đã bị ép phải thực hiện nghĩa vụ quân sự để giúp đối phó với mối đe dọa sắp xảy ra với [Rohan](../R/Rohan.md).
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -80,19 +80,19 @@ Giống như những [Rohirrim](../R/Rohirrim.md) khác, tên của Ceorl bắt 
 		</li>
 </ul>
 
-<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>Chúa tể của những chiếc nhẫn</i> (phim 1978)</a>:</b>
 
 <dl><dd>Ceorl is omitted. <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> simply breaks off the main unit and rides to the Crossings of the Isen.</dd></dl>
 
-<b><a href="../_/1981.md" title="1981">1981</a>: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh năm 1981)</a></b>
+<b><a href="../_/1981.md" title="1981">1981</a>: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim phát thanh năm 1981)</a></b>
 
 <dl><dd>Ceorl was voiced by <a href="../M/Michael_McStay.md" title="Michael McStay">Michael McStay</a>. Virtually the whole of Ceorl&#39;s dialogue from the book was retained in the production.</dd></dl>
 
-<b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
+<b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
 
 <dl><dd><a href="../T/Théoden.md" title="Théoden">Théoden</a> rides directly to the <a href="../H/Hornburg.md" title="Hornburg">Hornburg</a>, so there is no need for a messenger. A card from <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i> identifies one of the <a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a> as Ceorl.</dd></dl>
 
-<b><a href="../_/2013.md" title="2013">2013</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2013.md" title="2013">2013</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Ceorl encounters King Théoden&#39;s riders on their way from <a href="../E/Edoras.md" title="Edoras">Edoras</a> to the <a href="../F/Fords_of_Isen.md" title="Fords of Isen">Fords of Isen</a>. His only lines are nearly identical to those in the book.</dd></dl>
 

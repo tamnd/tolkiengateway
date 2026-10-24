@@ -14,7 +14,7 @@ sort_keys:
   "Quenya suffixes": "nya"
 ---
 
-<i><b>-nya</b></i> là hậu tố đại từ [Quenya](../Q/Quenya.md), ngôi thứ nhất sở hữu số ít, "my"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (ví dụ: **tatanya** = "cha tôi").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Kết thúc này có vẻ thích **i** làm nguyên âm kết nối khi cần thiết, cf. **Anarinya** "mặt trời của tôi",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> ở **hildinyar** cũng vậy.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+<i><b>-nya</b></i> là hậu tố [Quenya](../Q/Quenya.md) đại từ, ngôi thứ nhất sở hữu số ít, "my"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (ví dụ: **tatanya** = "cha tôi").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Kết thúc này có vẻ thích **i** làm nguyên âm kết nối khi cần thiết, cf. **Anarinya** "mặt trời của tôi",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> ở **hildinyar** cũng vậy.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

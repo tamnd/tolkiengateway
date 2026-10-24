@@ -44,7 +44,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_and_the_Classics.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d5/Tolkien_and_the_Classics.jpg/320px-Tolkien_and_the_Classics.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d5/Tolkien_and_the_Classics.jpg/480px-Tolkien_and_the_Classics.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d5/Tolkien_and_the_Classics.jpg/640px-Tolkien_and_the_Classics.jpg 2x" data-file-width="907" data-file-height="1360"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien and the Classics</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Roberto Arduini, Giampaolo Canzonieri and Claudio A. Testi</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann‏‎</a> (cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../W/Walking_Tree_Publishers.md" title="Walking Tree Publishers">Walking Tree Publishers</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/7_August.md" title="7 August">7 August</a> <a href="../_/2019.md" title="2019">2019</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">245</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-3-905703-42-9" title="Special:BookSources/978-3-905703-42-9">978-3-905703-42-9</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../C/Cormarë_Series.md" title="Cormarë Series">Cormarë Series</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../_/%2522Something_Has_Gone_Crack%2522.md" title="&#34;Something Has Gone Crack&#34;">&#34;Something Has Gone Crack&#34;</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../L/Law,_Government,_and_Society_in_J.R.R._Tolkien&#39;s_Works.md" title="Law, Government, and Society in J.R.R. Tolkien&#39;s Works">Law, Government, and Society in J.R.R. Tolkien&#39;s Works</a></td></tr></tbody></table>
 
-<i><b>Tolkien và Tác phẩm kinh điển</b></i> là tập hợp các bài tiểu luận do Roberto Arduini, Giampaolo Canzonieri và Claudio A. Testi biên tập. Nó được xuất bản ở vị trí thứ 42 trong tạp chí *[Cormarë Series](../C/Cormarë_Series.md)*.
+<i><b>Tolkien and the Classics</b></i> là tập hợp các bài tiểu luận được biên tập bởi Roberto Arduini, Giampaolo Canzonieri và Claudio A. Testi. Nó được xuất bản ở vị trí thứ 42 trong tạp chí *[Cormarë Series](../C/Cormarë_Series.md)*.
 
 ## Nội dung {#Contents}
 
@@ -52,32 +52,32 @@ infobox:
 
 <dl><dt>Tolkien and Authors from Antiquity</dt></dl>
 
-- "Khổng lồ, đơn độc và vô chính phủ. Troll trong The Hobbit và Polyphemus trong Odyssey" của Gloria Larini
+- "Khổng lồ, đơn độc và vô chính phủ. Quỷ lùn trong Người Hobbit và Polyphemus trong Odyssey" của Gloria Larini
 - "Làm mới sử thi: Tolkien và Apollonius Rhodius" của Leonardo Mantovani
-- "Chết vì tình yêu. Nguyên mẫu nữ trong Tolkien và Euripides" của Gloria Larini
-- "Tolkien và Virgil, Truyền thuyết cổ xưa và Cảm hứng văn học" của Lavinia Scolari
+- "Chết vì tình yêu. Nguyên mẫu phụ nữ trong Tolkien và Euripides" của Gloria Larini
+- "Tolkien và Virgil, truyền thuyết cổ xưa và cảm hứng văn học" của Lavinia Scolari
 
 <dl><dt>Tolkien and Authors from the Middle Ages</dt></dl>
 
 - "Những câu chuyện về những điều kỳ diệu và những chuyến lang thang: *[The Hobbit](The_Hobbit.md)* và *The Travels of Marco Polo*" của Valérie Morisi
 - "Tolkien và Aquinas" của Claudio A. Testi
 - "Tolkien và Malory: Viết nên thần thoại cho nước Anh" của Elisa Sicuri
-- "Dante, Tolkien, và sự hòa hợp tối cao" của Chiara Bertoglio
+- "Dante, Tolkien và sự hòa hợp tối cao" của Chiara Bertoglio
 - "Gawain vs. Gauvain: Tolkien và Chrétien de Troyes" của Tânia P. Azevedo
 - "Người chủ quán trọ và người thợ xay: Những người dân thường ở Chaucer và Tolkien" của Roberto Arduini
 
 <dl><dt>Tolkien and Authors from the Modern Period</dt></dl>
 
 - "Tolkien và Ngài Walter Scott: Phê phán hình ảnh hiệp sĩ/anh hùng" của Amelia A. Rutledge
-- "Tolkien và Shakespeare: Con nợ trái ý mình" của Luisa Paglieri
+- "Tolkien và Shakespeare: Con nợ trái ý ông" của Luisa Paglieri
 - "Tolkien và Alfieri. [Fëanor](../F/Fëanor.md) và các nhân vật trong bi kịch Alfierian" của Sara Gianotto
 - "Tolkien và Grahame" của [Cecilia Barella](../C/Cecilia_Barella.md)
 - "Tolkien và Manzoni" của Andrea Monda
-- "Cái ách của kiêu hãnh và xấu hổ: Chúa Jim của Joseph Conrad và [Túrin](Túrin.md) Turambar của J.R.R. Tolkien" của Melissa Ruth Arul
+- "Ách của kiêu hãnh và xấu hổ: Lãnh chúa Jim của Joseph Conrad và [Túrin](Túrin.md) Turambar của J.R.R. Tolkien" của Melissa Ruth Arul
 - "Từ Neverland đến [Trung Địa](../M/Middle-earth.md)" của Chiara Nejrotti
-- "The Hobbit và Con rối: Hai nhân vật chính hành trình về hai hướng đối lập" của Giampaolo Canzonieri
-- "Tolkien và những nhà thơ chiến tranh" của Simone Bonechi
-- "Bước nhẹ qua ngưỡng cửa: Nhân vật nữ, Gothic và *meditatio mortis* trong Tolkien và Poe" của Barbara Sanguineti
+- "Người Hobbit và Con rối: Hai nhân vật chính hành trình về hai hướng đối lập" của Giampaolo Canzonieri
+- "Tolkien và các nhà thơ chiến tranh" của Simone Bonechi
+- "Với bước ánh sáng xuyên qua ngưỡng cửa: Nhân vật nữ, phong cách Gothic và *meditatio mortis* trong Tolkien và Poe" của Barbara Sanguineti
 - "William Morris và Tolkien: Một số kết nối bất ngờ" của [Tom Shippey](Tom_Shippey.md)
 
 ## Từ nhà xuất bản {#From_the_publisher}

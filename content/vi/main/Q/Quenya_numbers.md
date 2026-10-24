@@ -39,7 +39,7 @@ sort_keys:
 </p>
 </td></tr></tbody></table>
 
-<br> Các **[Quenya](Quenya.md) Các số** như sau:
+<br> Các **[Số Quenya](Quenya.md)** như sau:
 
 - <i><b><a href="../M/Minë.md" title="Minë">minë</a></b></i> = một
 - <i><b><a href="../A/Atta.md" title="Atta">atta</a></b></i> = hai
@@ -91,9 +91,9 @@ sort_keys:
 
 ## Xem thêm {#See_also}
 
-- [Sindarin số](../S/Sindarin_numbers.md)
+- [Số Sindarin](../S/Sindarin_numbers.md)
 
 ## Tài nguyên trực tuyến {#Online_Resources}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/numerals.htm" rel="noreferrer noopener" target="_blank">Ardalambion trên Quenya số</a> - Lý thuyết ban đầu về cách chúng ta có thể đếm trên mười; sử dụng vật liệu từ *[The Etymologies](../T/The_Etymologies.md)*
-- <a class="external text" href="http://www.science-and-fiction.org/elvish/numerals.html" rel="noreferrer noopener" target="_blank">Eldarin Số</a> của Thorsten Renk - Thảo luận về các khái niệm số khác nhau thông qua sự phát triển của ngôn ngữ Tolkien.
+- <a class="external text" href="http://www.uib.no/People/hnohf/numerals.htm" rel="noreferrer noopener" target="_blank">Ardalambion trên số Quenya</a> - Lý thuyết ban đầu về cách chúng ta có thể đếm trên mười; sử dụng vật liệu từ *[The Etymologies](../T/The_Etymologies.md)*
+- <a class="external text" href="http://www.science-and-fiction.org/elvish/numerals.html" rel="noreferrer noopener" target="_blank">Số Eldarin</a> của Thorsten Renk - Thảo luận về các khái niệm số khác nhau thông qua quá trình phát triển ngôn ngữ của Tolkien.

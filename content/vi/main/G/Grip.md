@@ -42,13 +42,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miriam_Ellis_-_Grip.png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e2/Miriam_Ellis_-_Grip.png/320px-Miriam_Ellis_-_Grip.png" decoding="async" loading="lazy" width="320" height="313" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e2/Miriam_Ellis_-_Grip.png/480px-Miriam_Ellis_-_Grip.png 1.5x, https://tolkiengateway.net/w/images/e/e2/Miriam_Ellis_-_Grip.png 2x" data-file-width="614" data-file-height="600"/></a><figcaption>Grip - Illustration by <a href="../M/Miriam_Ellis.md" title="Miriam Ellis">Miriam Ellis</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../D/Dogs.md" title="Dogs">Dog</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Grip</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Bamfurlong.md" title="Bamfurlong">Bamfurlong</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../F/Farmer_Maggot.md" title="Farmer Maggot">Farmer Maggot</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Grip.md" title="Category:Images of Grip">Images of Grip</a></td></tr></tbody></table>
 
-**Grip** là một [chó](../D/Dogs.md) giống sói lớn, một trong ba con được [Farmer Maggot](../F/Farmer_Maggot.md) nuôi tại trang trại của anh ấy ở [Bamfurlong](../B/Bamfurlong.md) ở [Marish](../M/Marish.md). Giống như những con chó khác của Maggot, [Fang](<../F/Fang_(dog).md>) và [Wolf](<../W/Wolf_(dog).md>), Grip có bản chất hung dữ.
+**Grip** là một [chó](../D/Dogs.md) giống sói lớn, một trong ba con được [Farmer Maggot](../F/Farmer_Maggot.md) nuôi tại trang trại của ông ở [Bamfurlong](../B/Bamfurlong.md) ở [Marish](../M/Marish.md). Giống như những con chó khác của Maggot, [Fang](<../F/Fang_(dog).md>) và [Sói](<../W/Wolf_(dog).md>), bản chất Grip rất hung dữ.
 
-Grip đi cùng Maggot khi một người lạ trong hình dạng [Black Rider](../B/Black_Rider.md) đến trang trại để tìm '[Baggins](../B/Baggins_Family~66343.md)', và lúc đó sự phục tùng và hung dữ của anh ta đã thất bại: anh ta đánh hơi người lạ, sau đó hét lên kinh hãi và hú lên chạy trốn khỏi anh ta, cảm nhận được [Bóng đen](../B/Black_Shadow.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Grip đi cùng Maggot khi một người lạ trong hình dạng [Black Rider](../B/Black_Rider.md) đến trang trại để tìm '[Baggins](../B/Baggins_Family~66343.md)', và lúc đó sự phục tùng và hung dữ của ông ta đã thất bại: ông ta đánh hơi người lạ, sau đó hét lên kinh hãi và hú lên chạy trốn khỏi ông ta, cảm nhận được [Bóng đen](../B/Black_Shadow.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-### Grip trong các bản chuyển thể {#Grip_in_adaptations}
+### Nắm vững khả năng thích ứng {#Grip_in_adaptations}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 285px">
@@ -67,7 +67,7 @@ Grip đi cùng Maggot khi một người lạ trong hình dạng [Black Rider](.
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Grip, along with <a href="../F/Fang_(dog).md" title="Fang (dog)">Fang</a> and <a href="../W/Wolf_(dog).md" title="Wolf (dog)">Wolf</a>, can be found next to <a href="../F/Farmer_Maggot.md" title="Farmer Maggot">Farmer Maggot</a> in <a href="../B/Bamfurlong.md" title="Bamfurlong">Bamfurlong</a>. They can be interacted with during the &#34;Chicken Play&#34; and are also part of a festival &#34;Maggot&#39;s Mushroom Hunt&#34; mini-game.</dd></dl>
 

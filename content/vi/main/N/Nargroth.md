@@ -24,7 +24,7 @@ images:
 
 Tên ban đầu được tạo ra bởi người vẽ bản đồ và nhà thư pháp [Daniel Reeve](../D/Daniel_Reeve.md) khi đang làm việc trên nội dung bản đồ được cấp phép cho bộ ba phim và hàng hóa liên quan.
 
-Lần đầu tiên nó xuất hiện trong [Maps of Trung Địa](../M/Maps_of_Middle-earth.md) bản đồ dành cho [Decipher](../D/Decipher.md)'s *[The Lord of the Rings Roleplaying Game](../T/The_Lord_of_the_Rings_Roleplaying_Game.md)*, nơi nó xuất hiện dưới dạng một nhãn nhỏ bên dưới nơi có vẻ là một ngọn đồi ở phía tây của ngọn núi phân nhánh về phía tây nam từ [Ered Lithui](../E/Ered_Lithui.md) phía đông của [Barad-dûr](../B/Barad-dûr.md) trên bản đồ [Mordor](../M/Mordor.md) mà không trình bày thêm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Reeve sau đó đã sử dụng bản đồ Decipher làm bản đồ mẫu khi được giao nhiệm vụ thiết kế bản đồ hàng hóa mở rộng cho *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.<sup id="cite_ref-reeve-site_2-0" class="reference"><a href="#cite_note-reeve-site-2">[2]</a></sup><sup id="cite_ref-reeve-mail_3-0" class="reference"><a href="#cite_note-reeve-mail-3">[3]</a></sup>
+Lần đầu tiên nó xuất hiện là trong bản đồ [Maps of Middle-earth](../M/Maps_of_Middle-earth.md) dành cho *[The Lord of the Rings Roleplaying Game](../T/The_Lord_of_the_Rings_Roleplaying_Game.md)* của [Decipher](../D/Decipher.md), nơi nó xuất hiện dưới dạng một nhãn nhỏ bên dưới nơi có vẻ là một ngọn đồi ở phía tây của ngọn núi có nhánh phân nhánh về phía tây nam từ [Ered Lithui](../E/Ered_Lithui.md) phía đông [Barad-dûr](../B/Barad-dûr.md) trên bản đồ [Mordor](../M/Mordor.md) mà không trình bày thêm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Reeve sau đó đã sử dụng bản đồ Giải mã làm mẫu khi được giao nhiệm vụ thiết kế bản đồ hàng hóa mở rộng cho *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.<sup id="cite_ref-reeve-site_2-0" class="reference"><a href="#cite_note-reeve-site-2">[2]</a></sup><sup id="cite_ref-reeve-mail_3-0" class="reference"><a href="#cite_note-reeve-mail-3">[3]</a></sup>
 
 ## Quạt hoạt động {#Fan_works}
 
@@ -35,7 +35,7 @@ Trang fansite [Thelandofshadow.com](../T/Thelandofshadow.com.md) đã lấy mộ
 </p>
 </blockquote>
 
-Thông tin từ The Land of Bóng Tối đã được tích hợp vào quạt *Mordor Gazetteer* của nhóm mô-đun quạt Middle-earth Role Playing (MERP).
+Thông tin từ Vùng đất bóng tối đã được tích hợp vào *Mordor Gazetteer* do người hâm mộ tạo ra của nhóm mô-đun người hâm mộ Nhập vai Trung địa (MERP).
 
 ## Từ nguyên {#Etymology}
 

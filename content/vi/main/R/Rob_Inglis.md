@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Inglis, Rob"
 ---
 
-**Robert Inglis** là nhà báo, diễn viên, nhà phê bình sân khấu và nhà viết kịch, người đã đọc bản ghi âm của Recorded Books Inc. cho cả *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và *[The Hobbit](../T/The_Hobbit.md)*. Anh ấy được *AudioFile* khen ngợi rằng "*Âm thanh phong phú và phong thái nghiêm túc của anh ấy sẽ khiến danh sách tạp hóa giống như một bộ sưu tập kho báu quý hiếm*".
+**Robert Inglis** là nhà báo, diễn viên, nhà phê bình sân khấu và nhà viết kịch, người đã đọc bản ghi âm của Recorded Books Inc. cho cả *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và *[The Hobbit](../T/The_Hobbit.md)*. Ông được *AudioFile* khen ngợi rằng "*Âm thanh phong phú và phong thái nghiêm túc của ông sẽ khiến danh sách tạp hóa giống như một bộ sưu tập kho báu quý hiếm*".
 
 ## Vai trò {#Roles}
 

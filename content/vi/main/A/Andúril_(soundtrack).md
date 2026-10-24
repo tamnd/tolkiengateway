@@ -36,7 +36,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Andúril** là ca khúc thứ mười trong *[The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md). Tác phẩm dài 2 phút 36 giây là nhạc không lời trên nền hợp xướng nhẹ nhàng. Đối với đĩa compact [Philippa Boyens](../P/Philippa_Boyens.md) văn bản chuyển thể bởi Tolkien (được dịch bởi [David Salo](../D/David_Salo.md)) có liên quan đến âm nhạc (xem bên dưới).
+**Andúril** là ca khúc thứ mười trong *[The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md). Tác phẩm dài 2 phút 36 giây là nhạc không lời trên nền hợp xướng nhẹ nhàng. Đối với đĩa compact [Philippa Boyens](../P/Philippa_Boyens.md) văn bản chuyển thể của Tolkien (do [David Salo](../D/David_Salo.md) dịch) có liên quan đến âm nhạc (xem bên dưới).
 
 ## Lời bài hát {#Lyrics}
 

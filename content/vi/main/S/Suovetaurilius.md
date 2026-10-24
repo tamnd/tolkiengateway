@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Suovetaurilius"
 ---
 
-**Suovetaurilius**, còn được gọi là Suet, là trang của [Georgius](../G/Georgius.md), con trai của [Farmer Giles](../F/Farmer_Giles.md), người đã trở thành vua của [Tiểu Vương quốc](../L/Little_Kingdom.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Suovetaurilius**, còn được gọi là Suet, là trang của [Georgius](../G/Georgius.md), con trai của [Nông dân Giles](../F/Farmer_Giles.md), người đã trở thành vua của [Tiểu Vương quốc](../L/Little_Kingdom.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

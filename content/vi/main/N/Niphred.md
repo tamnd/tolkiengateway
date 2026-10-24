@@ -13,7 +13,7 @@ categories:
   - "Noldorin nouns"
 ---
 
-**niphred** là một từ [Noldorin](Noldorin.md) có nghĩa là "sợ hãi, xanh xao".
+**niphred** là từ [Noldorin](Noldorin.md) có nghĩa là "sợ hãi, xanh xao".
 
 ## Từ nguyên {#Etymology}
 

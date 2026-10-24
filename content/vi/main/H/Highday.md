@@ -27,13 +27,13 @@ categories:
 <li><a class="mw-selflink selflink">Highday</a></li></ol>
 </td></tr></tbody></table>
 
-**Ngày Cao điểm** (dạng cổ xưa *Hihdei*) là ngày thứ bảy và ngày cuối cùng trong tuần trong [Lịch Shire](../S/Shire_Calendar.md). Nó đại diện cho [Númenórean](../N/Númenórean.md) ngày *[Orbelain](../O/Orbelain.md)*, dành riêng cho [Valar](../V/Valar.md). Vì vậy đây là ngày chính trong tuần và sau buổi trưa [Hobbit](Hobbits.md) coi đó là ngày nghỉ lễ với các bữa tiệc tối.<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
+**Ngày Cao điểm** (dạng cổ xưa *Hihdei*) là ngày thứ bảy và ngày cuối cùng trong tuần trong [Lịch Quận](../S/Shire_Calendar.md). Nó tượng trưng cho ngày [Númenórean](../N/Númenórean.md) *[Orbelain](../O/Orbelain.md)*, dành riêng cho [Valar](../V/Valar.md). Vì vậy, đây là ngày chính trong tuần và sau buổi trưa [Người Hobbit](Hobbits.md) coi đó là ngày nghỉ lễ với những bữa tiệc tối.<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 
-Sau cuộc cải cách của [Isengrim Took II](../I/Isengrim_Took_II.md),<sup id="cite_ref-cal_1-1" class="reference"><a href="#cite_note-cal-1">[1]</a></sup> những ngày như 1 [Lithe](../L/Lithe.md) và 1 [Yule](../Y/Yule.md) luôn rơi vào Ngày Cao điểm. Không có tháng nào bắt đầu bằng Highday, do đó nó đã trở thành một thành ngữ mang tính giễu cợt trong [Shire](../S/Shire.md) để nói "vào thứ Sáu ngày đầu tiên (của [Summerfilth](../S/Summerfilth.md))" khi đề cập đến một ngày hư cấu hoặc các sự kiện không chắc chắn.
+Sau cuộc cải cách của [Isengrim Took II](../I/Isengrim_Took_II.md),<sup id="cite_ref-cal_1-1" class="reference"><a href="#cite_note-cal-1">[1]</a></sup> những ngày như 1 [Lithe](../L/Lithe.md) và 1 [Yule](../Y/Yule.md) luôn rơi vào Ngày Cao điểm. Không có tháng nào bắt đầu từ Highday, do đó nó đã trở thành một thành ngữ mang tính giễu cợt ở [Shire](../S/Shire.md) để nói "vào thứ Sáu ngày đầu tiên (của [Summerfilth](../S/Summerfilth.md))" khi đề cập đến một ngày hư cấu hoặc những sự kiện không chắc chắn.
 
 ## Từ nguyên {#Etymology}
 
-*Highday* đại diện cho dạng [Hobbitish](Hobbitish.md) cổ "Hihdei", một từ được lưu giữ trong [Yellowskin](../Y/Yellowskin.md).<sup id="cite_ref-cal_1-2" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
+*Highday* đại diện cho một dạng [Hobbitish](Hobbitish.md) cổ xưa "Hihdei", một từ được lưu giữ trong [Yellowskin](../Y/Yellowskin.md).<sup id="cite_ref-cal_1-2" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 
 *Highday* được dịch là Thứ Sáu trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, tuy nhiên vì đây là ngày chính trong tuần nên ý nghĩa văn hóa của nó khá tương ứng với ngày Chủ nhật của chúng ta. Vì lý do này, khi bài thơ *[The Man in the Moon Stayed Up Too Late](../T/The_Man_in_the_Moon_Stayed_Up_Too_Late.md)* đề cập đến cặp thìa, đĩa bạc đặc biệt dành riêng cho “Chủ nhật” thì nên hiểu là Ngày cao điểm chứ không phải là [Chủ nhật](../S/Sunday.md).<sup id="cite_ref-cal_1-3" class="reference"><a href="#cite_note-cal-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

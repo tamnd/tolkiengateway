@@ -74,4 +74,4 @@ Sự kiện xảy ra vào ngày 27 tháng 4.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md):
-    - [Mười ba người lùn](../T/Thorin_and_Company.md) và [Gandalf](../G/Gandalf.md) đến [Bag End](../B/Bag_End.md). [Bilbo](../B/Bilbo_Baggins.md) biết về [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md) và [Smaug](../S/Smaug.md) và đồng ý đồng hành cùng [người lùn](../T/Thorin_and_Company.md) và [Gandalf](../G/Gandalf.md) trong chuyến phiêu lưu của họ.
+    - [Mười ba người lùn](../T/Thorin_and_Company.md) và [Gandalf](../G/Gandalf.md) đến [Bag End](../B/Bag_End.md). [Bilbo](../B/Bilbo_Baggins.md) biết đến [Ngọn núi cô đơn](../L/Lonely_Mountain.md) và [Smaug](../S/Smaug.md) và đồng ý đồng hành cùng [những người lùn](../T/Thorin_and_Company.md) và [Gandalf](../G/Gandalf.md) trong chuyến phiêu lưu của họ.

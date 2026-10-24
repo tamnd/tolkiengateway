@@ -14,8 +14,8 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Long, Josh B."
 ---
 
-- [Josh B. Long](../../main/J/Josh_B._Long.md) đã vui lòng cho phép sử dụng những bức ảnh của anh ấy liên quan đến [*Redbook* (ngày 23 tháng 11 năm 1967)](<../../main/R/Redbook_(23_November_1967).md>) (ảnh [1](<../../file/R/Redbook_(23_November_1967)_-_Cover.png.md>), [2](<../../file/R/Redbook_(23_November_1967)_-_Smith_of_Wootton_Major_(1).png.md>), [3](<../../file/R/Redbook_(23_November_1967)_-_Smith_of_Wootton_Major_(2).png.md>)) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
-- Ngày: 1 tháng Chín năm 2013.
+- [Josh B. Long](../../main/J/Josh_B._Long.md) đã vui lòng cho phép sử dụng những bức ảnh của ông liên quan đến [*Redbook* (ngày 23 tháng 11 năm 1967)](<../../main/R/Redbook_(23_November_1967).md>) (ảnh [1](<../../file/R/Redbook_(23_November_1967)_-_Cover.png.md>), [2](<../../file/R/Redbook_(23_November_1967)_-_Smith_of_Wootton_Major_(1).png.md>), [3](<../../file/R/Redbook_(23_November_1967)_-_Smith_of_Wootton_Major_(2).png.md>)) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Ngày: 1 tháng 9 năm 2013.
 - Người dùng đã xin phép qua tin nhắn riêng tư: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan).
 
 - Josh B. Long đã vui lòng cho phép sử dụng ảnh [*Moose Jaw Times-Herald: Weekend Magazine* (Tập 18, số 35)](<../../main/M/Moose_Jaw_Times-Herald%253A_Weekend_Magazine_(Vol._18,_No._35).md>) (ảnh [1](<../../file/M/Moose_Jaw_Times-Herald_Weekend_Magazine_(Vol._18,_No._35)_-_Top.jpg.md>) và [2](<../../file/M/Moose_Jaw_Times-Herald_Weekend_Magazine_(Vol._18,_No._35)_-_Bottom.jpg.md>)).

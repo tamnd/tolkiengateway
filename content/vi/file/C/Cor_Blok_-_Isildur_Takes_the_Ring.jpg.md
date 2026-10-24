@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Isildur](../../main/I/Isildur.md) Lấy [ Nhẫn](../../main/T/The_One_Ring.md)" bởi [Cor Blok](../../main/C/Cor_Blok.md)
+"[Isildur](../../main/I/Isildur.md) Lấy [chiếc nhẫn](../../main/T/The_One_Ring.md)" của [Cor Blok](../../main/C/Cor_Blok.md)
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Desolation everywhere. A pale chill mist mingled with smoke covers the battlefield where Sauron has been overthrown, at least for the time being. ‘Many Elves and many mighty Men, and many of their friends, had perished in the war’, including the leaders of the Last Alliance between Elves and Men, Gil-galad and Elendil. There seems to be no need to celebrate a ‘fruitless victory’ (according to Elrond) by a display of heroes in shining armour: Isildur, Elendil’s son, ‘alone stood by his father in that last mortal contest’ and no one perceived that by cutting the One Ring from Sauron’s hand he set in motion a chain of events that would eventually lead to still more strife and suffering. No need either to present a full-length portrait of Sauron. Supreme Evil takes any form in which human fear or cruelty will clothe it.

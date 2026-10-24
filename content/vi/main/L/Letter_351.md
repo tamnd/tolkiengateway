@@ -31,9 +31,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien rất vui khi nhận được tin từ con trai vì ông đã đoán được có điều gì đó không hay đã xảy ra với mình ở Pháp. Anh ấy có thể thông cảm sâu sắc với nỗi kinh hoàng khi đến nơi vì anh ấy đã phải chịu đựng những đau khổ tương tự, đặc biệt là từ năm 1917 đến năm 1925. Christopher đã rời đi cùng thời điểm [Prisca](../P/Priscilla_Tolkien.md) đến Crete, nhưng chuyến đi của cô ấy là chuyến đi thành công nhất mà cô ấy từng thực hiện. Tolkien cảm thấy khao khát được nhìn thấy các địa điểm nhưng lại sợ rằng giờ đây mình phải sống dựa vào những câu chuyện của khách du lịch.
+Tolkien rất vui mừng khi nhận được tin từ con trai mình vì ông đã đoán được điều gì đó không hay đã xảy ra với mình ở Pháp. Anh có thể thông cảm sâu sắc với nỗi kinh hoàng khi đến nơi vì anh cũng từng trải qua những đau khổ tương tự, đặc biệt là từ năm 1917 đến năm 1925. Christopher rời đi cùng thời điểm [Prisca](../P/Priscilla_Tolkien.md) đến Crete, nhưng chuyến đi của cô là chuyến đi thành công nhất mà cô từng thực hiện. Tolkien cảm thấy khao khát được nhìn thấy các địa điểm nhưng sợ rằng giờ đây ông phải sống nhờ những câu chuyện của khách du lịch.
 
-Ông đã phải chịu áp lực không ngừng: xã hội, văn học, nghề nghiệp và tài chính. Anh ấy đã có một kỳ nghỉ ở Bournemouth từ ngày 16 đến ngày 22 tháng 5 và đã gặp những người bạn tốt, gia đình Tolhurst. Anh ấy đề cập đến một số người bạn đã qua đời, bao gồm [Warren Lewis](../W/Warren_Lewis.md), Tom Dunning, R.B. McCallum và [Rosfrith Murray](../R/Rosfrith_Murray.md).
+Ông đã phải chịu áp lực không ngừng: xã hội, văn học, nghề nghiệp và tài chính. Ông đã có một kỳ nghỉ ở Bournemouth từ ngày 16 đến ngày 22 tháng 5 và đã gặp những người bạn tốt, gia đình Tolhurst. Ông đề cập đến một số người bạn đã qua đời, bao gồm [Warren Lewis](../W/Warren_Lewis.md), Tom Dunning, R.B. McCallum và [Rosfrith Murray](../R/Rosfrith_Murray.md).
 
 <br>
 

@@ -28,7 +28,7 @@ images:
 
 **Cây Lưỡi** là bản phác thảo của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được tìm thấy trong chương "[The Lhammas](The_Lhammas.md)" của *[The Lost Road and Other Writings](The_Lost_Road_and_Other_Writings.md)*. Nó cho thấy mối quan hệ giữa vô số ngôn ngữ được mô tả trong phần đó của cuốn sách. Ba bản phác thảo tương tự có tên *Table of the Descent of Tongues* được đính kèm với *Tengwesta Qenderinwa* trong [Parma Eldalamberon 18](../P/Parma_Eldalamberon_18.md), với một số bản phác thảo có niên đại muộn hơn so với các bản phác thảo trong [The Lhammas](The_Lhammas.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Các bản sửa đổi sau này của [huyền thoại](../L/Legendarium.md) cho thấy lịch sử các ngôn ngữ được đơn giản hóa và khác biệt đáng kể. Ví dụ: chúng tôi biết từ *[The Silmarillion](The_Silmarillion.md)* rằng các ngôn ngữ [Elvish](../E/Elvish.md) không bắt nguồn từ [Valarin](../V/Valarin.md), được [Oromë](../O/Oromë.md)dạy cho chúng, mà từ [Primitive Quendian](../P/Primitive_Quendian.md), được nói trước khi Oromë tìm thấy [Tiên tộc](../E/Elves.md).
+Các bản sửa đổi sau này của [huyền thoại](../L/Legendarium.md) cho thấy lịch sử các ngôn ngữ được đơn giản hóa và khác biệt đáng kể. Ví dụ: chúng tôi biết từ *[The Silmarillion](The_Silmarillion.md)* rằng các ngôn ngữ [Elvish](../E/Elvish.md) không bắt nguồn từ [Valarin](../V/Valarin.md), được dạy bởi [Oromë](../O/Oromë.md), mà từ [Quendian nguyên thủy](../P/Primitive_Quendian.md), được sử dụng trước khi Oromë tìm thấy [Yêu tinh](../E/Elves.md).
 
 ## Cấu trúc {#Structure}
 

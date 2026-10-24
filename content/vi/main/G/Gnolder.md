@@ -24,7 +24,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Gnolder</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Gislaved, Jönköping, Sweden</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Black metal/dungeon synth</td></tr><tr><th scope="row" class="tg-infobox-label">website</th><td class="tg-infobox-data"><a class="external text" href="https://gnolder.bandcamp.com" rel="noreferrer noopener" target="_blank">Bandcamp</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">Dole<br/>Fangals<br/>Petronius</td></tr></tbody></table>
 
-**Gnolder** là một ban nhạc black metal và dungeon synth đến từ Gislaved, Jönköping, Thụy Điển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Các bài hát của nhóm tham khảo [Balin](../B/Balin.md), [Glorfindel](Glorfindel.md), [Isildur](../I/Isildur.md) và [Sauron](../S/Sauron.md).
+**Gnolder** là một ban nhạc black metal và dungeon synth đến từ Gislaved, Jönköping, Thụy Điển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Các bài hát của nhóm liên quan đến [Balin](../B/Balin.md), [Glorfindel](Glorfindel.md), [Isildur](../I/Isildur.md) và [Sauron](../S/Sauron.md).
 
 ## Thành viên {#Members}
 
@@ -41,19 +41,19 @@ infobox:
     3. Trận Azanulbizar
     4. Cuộc tìm kiếm Erebor
     5. Thung lũng sâu của khe hở
-    6. Số Rồng tại Bywater
+    6. Con rồng ở bờ nước
 - *Ravenquest Through Grimeldorf* (2019, bản thử nghiệm)
     1. Quạ gọi
-Chuyến đi của     2. Glorfindel
+    2. Chuyến đi của Glorfindel
     3. Con đường không dấu vết
-    4. Sức mạnh của Con Người
-    5. Nhà Isildur
-    6. Chuyển tới Bóng Tối
+    4. Sức mạnh của đàn ông
+    5. Nhà của Isildur
+    6. Con đường đến bóng tối
     7. Tin tức về Narchuil
-    8. Người lùn Thành thạo
+    8. Làm chủ người lùn
 - *Gislaved* (2019, bản thử nghiệm)
     1. Längs nissans dalgång
-    2. Được làm nô lệ
+    2. Người bị bắt làm nô lệ
     3. Bờ biển Kadarfsus
     4. Våthultsbranden
     5. Knösaland
@@ -64,7 +64,7 @@ Chuyến đi của     2. Glorfindel
     3. Smålänningen från norr
     4. Cuộc diễu hành dàn nhạc
     5. Vòng Sauron
-    6. Đó là lý do
+    6. Công việc của bạn
     7. Người trung gian
     8. Lễ hội ở Röshultsstugan
 - *Rymdfärd* (2019, EP)

@@ -20,29 +20,29 @@ sort_keys:
   "Webmasters": "Collier, Pieter"
 ---
 
-**Pieter Collier** là quản trị viên web và người tạo ra <a class="external text" href="http://www.tolkienlibrary.com" rel="noreferrer noopener" target="_blank">TolkienLibrary.com</a>, một nhà văn và một nhà sưu tập sách [Tolkien](../J/J.R.R._Tolkien.md) đam mê.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông cũng là Nhà tư vấn Thư viện và quản trị viên web của [Bảo tàng Greisinger](../G/Greisinger_Museum.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Pieter Collier** là quản trị viên web và người tạo ra <a class="external text" href="http://www.tolkienlibrary.com" rel="noreferrer noopener" target="_blank">TolkienLibrary.com</a>, một nhà văn và là một nhà sưu tập sách [Tolkien](../J/J.R.R._Tolkien.md) đầy nhiệt huyết.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông cũng là Tư vấn Thư viện và quản trị viên trang web của [Bảo tàng Greisinger](../G/Greisinger_Museum.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Thư mục {#Bibliography}
 
 ### Sách {#Books}
 
-- [2011](../_/2011.md): [*A Tolkien Tapestry: Pictures to accompany* The Lord of the Rings](../A/A_Tolkien_Tapestry.md) (người biên tập)
+- [2011](../_/2011.md): [*A Tolkien Tapestry: Pictures to accompany* Chúa tể của những chiếc nhẫn](../A/A_Tolkien_Tapestry.md) (biên tập viên)
 
 ### Bài viết {#Articles}
 
 - [2010](../_/2010.md): [*Amon Hen* 226](../A/Amon_Hen_226.md)
     - "Yêu cầu thông tin về tranh Cor Blok"
 - [2011](../_/2011.md): *[Lembas Extra](<../L/Lembas_(journal).md>)*
-    - "Thu thập Tolkien Sách, từ Hobbit đến Rồng — Đến đó và Trở lại"
+    - "Sưu tập sách Tolkien, từ Người Hobbit đến Rồng — Ở đó và Trở lại"
 
 ## Giải thưởng {#Awards}
 
-- [2006](../_/2006.md) - **[Giải thưởng Ngọn lửa bất diệt](../I/Imperishable_Flame_Award.md)**, Tolkien/Inklings Sự tri ân của người hâm mộ, *Tolkien Library*
-- [2007](../_/2007.md) - **Giải thưởng Ngọn lửa bất diệt**, Tolkien/Giải thưởng Cộng đồng Người hâm mộ Inkling, *[The Children of Húrin Release Party](../T/The_Children_of_Húrin_Release_Party.md)*
+- [2006](../_/2006.md) - **[Giải thưởng Ngọn lửa bất diệt](../I/Imperishable_Flame_Award.md)**, Tri ân người hâm mộ Tolkien/Inklings, *Tolkien Library*
+- [2007](../_/2007.md) - **Giải thưởng Ngọn lửa bất diệt**, Giải thưởng cộng đồng người hâm mộ Tolkien/Inkling, *[The Children of Húrin Release Party](../T/The_Children_of_Húrin_Release_Party.md)*
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienlibrary.com/press/Imperishable_Flame_2006_Award.htm" rel="noreferrer noopener" target="_blank">Giải thưởng Ngọn lửa bất diệt năm 2006 dành cho Tolkien/Inklings Sự tri ân của người hâm mộ</a>
+- <a class="external text" href="http://www.tolkienlibrary.com/press/Imperishable_Flame_2006_Award.htm" rel="noreferrer noopener" target="_blank">Giải thưởng Ngọn lửa bất diệt năm 2006 dành cho sự tán thưởng của người hâm mộ Tolkien/Inklings</a>
 - <a class="external text" href="http://www.tolkienlibrary.com/about.htm" rel="noreferrer noopener" target="_blank">Hồ sơ tại Tolkienlibrary.com</a>
 - <a class="external text" href="http://ephemera.typepad.com/ephemera/2007/06/jrr_tolkien_eph.html" rel="noreferrer noopener" target="_blank">Phỏng vấn Pieter Collier</a>
 

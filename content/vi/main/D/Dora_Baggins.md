@@ -56,11 +56,11 @@ infobox:
 
 Cha mẹ cô là [Fosco Baggins](../F/Fosco_Baggins.md) và [Ruby Bolger](../R/Ruby_Bolger.md). Cô có hai người em trai, [Dudo Baggins](Dudo_Baggins.md) và [Drogo Baggins](Drogo_Baggins.md), cha của Frodo.<sup id="cite_ref-Baggins_1-0" class="reference"><a href="#cite_note-Baggins-1">[1]</a></sup>
 
-Dora rất thích viết những lá thư chứa đầy lời khuyên cho các mối quan hệ của mình và để tưởng nhớ lá thư này [Bilbo Baggins](../B/Bilbo_Baggins.md) đã tặng cô một giỏ giấy vụn khi ông rời khỏi [ Shire](../T/The_Shire.md) ở [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Bà đã tham dự [Bữa tiệc chia tay](../B/Bilbo's_Farewell_Party.md) của ông ở tuổi 99. Dora Baggins qua đời 5 năm sau đó ở [1406](../T/Third_Age_3006.md).<sup id="cite_ref-Baggins_1-1" class="reference"><a href="#cite_note-Baggins-1">[1]</a></sup>
+Dora thích viết những lá thư chứa đầy lời khuyên cho các mối quan hệ của mình và để tưởng nhớ lá thư này [Bilbo Baggins](../B/Bilbo_Baggins.md) đã tặng cô một giỏ giấy vụn khi ông rời [Shire](../T/The_Shire.md) ở [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Bà đã tham dự [Bữa tiệc chia tay](../B/Bilbo's_Farewell_Party.md) của ông ở tuổi 99. Dora Baggins qua đời 5 năm sau đó ở [1406](../T/Third_Age_3006.md).<sup id="cite_ref-Baggins_1-1" class="reference"><a href="#cite_note-Baggins-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Cái tên *Dora* không có ý nghĩa gì trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md) đương thời. Nó đại diện cho tên gốc *Doro* hoặc *Dore*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+Cái tên *Dora* là vô nghĩa trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md) đương thời. Nó đại diện cho tên gốc *Doro* hoặc *Dore*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

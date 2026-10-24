@@ -38,23 +38,23 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ông đã viết rất nhiều về cách tính thời gian trong [Valar](../V/Valar.md). Tác phẩm vĩ đại *[Yénonótië](../Y/Yénonótië.md)* của ông đã được [Pengolodh](../P/Pengolodh.md) trích dẫn trong *[Annals of Aman](../T/The_Annals_of_Aman.md)*, đặc biệt là bài viết của ông giải thích độ dài của [năm Valian](../V/Valian_year.md) và mối quan hệ của nó với sự thăng trầm của [Hai Cây](../T/Two_Trees.md). Quennar cũng đã tính toán độ dài của năm Valian so với [năm dương lịch](../C/Coranar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ông viết rất nhiều về cách tính toán thời gian của [Valar](../V/Valar.md). Tác phẩm vĩ đại *[Yénonótië](../Y/Yénonótië.md)* của ông đã được [Pengolodh](../P/Pengolodh.md) trích dẫn trong *[Annals of Aman](../T/The_Annals_of_Aman.md)*, đặc biệt là bài viết của ông giải thích độ dài của [năm Valian](../V/Valian_year.md) và mối quan hệ của nó với sự tàn lụi của [Hai Cây](../T/Two_Trees.md). Quennar cũng đã tính toán độ dài của năm Valian so với [năm dương lịch](../C/Coranar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Quennar được biết là đã cư trú tại [Tirion](../T/Tirion.md) vào thời điểm cả [Vanyar](../V/Vanyar.md) và [Noldor](../N/Noldor.md) đều cư trú ở đó, lúc đó ông đã nghĩ ra từ *[Menel](../M/Menel.md)* ("thiên đường, bầu trời").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Quennar* bao gồm [Quenya](Quenya.md) từ dành cho 'người', 'yêu tinh': <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Quen&amp;action=edit&amp;redlink=1" title="Quen (page does not exist)">quen</a></i>và một từ phái sinh của từ gốc NAR<sup>2</sup> 'tell',<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> mang lại ý nghĩa \*"Tiên-loa".
+*Quennar* bao gồm [Quenya](Quenya.md) cho 'người', 'yêu tinh': <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Quen&amp;action=edit&amp;redlink=1" title="Quen (page does not exist)">quen</a></i>và một từ phái sinh của từ gốc NAR<sup>2</sup> 'tell',<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> mang lại ý nghĩa \*"Người nói yêu tinh".
 
-*i* là mạo từ 'the'. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), "Bảng chữ cái Feanorian, Phần 1 & Quenya Cấu trúc động từ", trong [*Parma Eldalamberon* XXII](../P/Parma_Eldalamberon_22.md) (được biên tập bởi [Christopher Gilson](../C/Christopher_Gilson.md) và [Arden R. Smith](../A/Arden_R._Smith.md))<sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:147</sup>
+*i* là mạo từ 'the'. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), "Bảng chữ cái Feanorian, Phần 1 & Cấu trúc động từ Quenya", trong [*Parma Eldalamberon* XXII](../P/Parma_Eldalamberon_22.md) (được biên tập bởi [Christopher Gilson](../C/Christopher_Gilson.md) và [Arden R. Smith](../A/Arden_R._Smith.md))<sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:147</sup>
 
 *Onótimo* rõ ràng có nghĩa là "Người tính toán", bắt nguồn từ động từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Onot-&amp;action=edit&amp;redlink=1" title="Onot- (page does not exist)">onot-</a></i> 'đếm lên' và hậu tố đại lý nam tính *[-mo](../_/-mo.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Vì vậy, danh hiệu đầy đủ của anh ta dường như là "Quennar the Reckoner".
+Vì vậy, danh hiệu đầy đủ của ông ta dường như là "Quennar the Reckoner".
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Ban đầu, "Quennar i Onótimo" là tác giả của toàn bộ *Annals of Aman*, đã học và mượn nhiều bài viết từ [Rúmil](<../R/Rúmil_(elf_of_Tirion).md>). Cuối cùng, [Tolkien](../J/J.R.R._Tolkien.md) gán *Annals* cho chính Rúmil, đồng thời thêm "quoth Pengolodh" vào cuối phần được gán cho Quennar. Điều này có thể có nghĩa là Pengolodh đã trích dẫn tác phẩm của Quennar trong phần mở rộng *Annals*của ông, có lẽ diễn ra sau [Cuộc Lưu đày của Noldor](../E/Exile_of_the_Noldor.md). Vì bài viết của Quennar thảo luận về [Những năm của Mặt Trời](../Y/Years_of_the_Sun.md), không tồn tại trong khi [Noldor](../N/Noldor.md) vẫn sống ở Aman, nên rất có thể trong phiên bản cuối cùng của các sự kiện như Tolkien đã hình dung, Quennar đã viết *[Yénonótië](../Y/Yénonótië.md)* sau Cuộc lưu đày và do đó là một Noldo đã đến [Trung Địa](../M/Middle-earth.md).
+Ban đầu, "Quennar i Onótimo" là tác giả của toàn bộ *Annals of Aman*, đã học và mượn nhiều bài viết từ [Rúmil](<../R/Rúmil_(elf_of_Tirion).md>). Cuối cùng, [Tolkien](../J/J.R.R._Tolkien.md) gán *Annals* cho chính Rúmil, đồng thời thêm "quoth Pengolodh" vào cuối phần được gán cho Quennar. Điều này có thể có nghĩa là Pengolodh đã trích dẫn tác phẩm của Quennar trong phần mở rộng *Annals* của ông, có lẽ diễn ra sau [Cuộc lưu đày của người Noldor](../E/Exile_of_the_Noldor.md). Vì bài viết của Quennar thảo luận về [Những năm của Mặt trời](../Y/Years_of_the_Sun.md) không tồn tại trong khi [Noldor](../N/Noldor.md) vẫn sống ở Aman, nên rất có thể trong phiên bản cuối cùng của các sự kiện như Tolkien đã hình dung, Quennar đã viết *[Yénonótië](../Y/Yénonótië.md)* sau Cuộc lưu đày và do đó là một Noldo đã đến [Trung Địa](../M/Middle-earth.md).
 
 <span></span>
 

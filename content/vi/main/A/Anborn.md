@@ -53,9 +53,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Anh là một trong những Biệt động quân Ithilien thuộc đại đội [Faramir](../F/Faramir.md) đang thực hiện nhiệm vụ phục kích [Haradrim](../H/Haradrim.md) ở [Bắc Ithilien](../N/North_Ithilien.md). Anh ta đã bị bỏ lại phía sau với vai trò trinh sát gần [Harad Đường](../H/Harad_Road.md). Ngay trước khi quay lại [Henneth Annûn](../H/Henneth_Annûn.md), anh ta nhìn thấy [Gollum](../G/Gollum.md) lẩn khuất giữa những tán cây nhưng lại nhầm tưởng đó là một con thú hoang. Anh ta không bắn anh ta vì Faramir đã ra lệnh cho người của anh ta không được giết thú rừng vô ích.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ông ta là một trong những Biệt đội của Ithilien trong đại đội dưới quyền [Faramir](../F/Faramir.md) đang thực hiện nhiệm vụ phục kích [Haradrim](../H/Haradrim.md) ở [Bắc Ithilien](../N/North_Ithilien.md). Ông ta đã bị bỏ lại làm trinh sát gần [Đường Harad](../H/Harad_Road.md). Ngay trước khi quay trở lại [Henneth Annûn](../H/Henneth_Annûn.md) anh nhìn thấy [Gollum](../G/Gollum.md) ẩn nấp giữa những tán cây, nhưng anh lại nhầm ông ta với một con thú hoang. Ông ta không bắn ông ta vì Faramir đã ra lệnh cho người của ông ta không được giết thú hoang vô ích.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Sau đó, Anborn trả lời câu hỏi của Faramir về cái gì ở trong [Bể Cấm](../F/Forbidden_Pool.md) bên dưới [Henneth Annûn](../H/Henneth_Annûn.md), nói rằng sinh vật đó không phải là chim vì nó có bốn chi và bay theo con người. Anh ta đề nghị dùng cung bắn nó theo lệnh của Faramir. Faramir giữ tay và nhờ Anborn hướng dẫn Frodo tới bờ. Khi [Gollum](../G/Gollum.md) bị bắt, Anborn được yêu cầu phải bảo vệ sinh vật này nhưng phải đối xử thật tốt với nó.<sup id="cite_ref-pool_1-1" class="reference"><a href="#cite_note-pool-1">[1]</a></sup>
+Sau đó, Anborn trả lời câu hỏi của Faramir về những gì ở [Hồ Cấm](../F/Forbidden_Pool.md) bên dưới [Henneth Annûn](../H/Henneth_Annûn.md), nói rằng sinh vật này không phải là một con chim vì nó có bốn chi và có thể bay như chim bồ câu. Ông ta đề nghị bắn nó bằng cung của mình theo lệnh của Faramir. Faramir đã dừng tay và nhờ Anborn hướng dẫn Frodo đến bờ sông. Khi [Gollum](../G/Gollum.md) bị bắt, Anborn được yêu cầu phải canh gác sinh vật này nhưng phải đối xử thật tốt với hắn.<sup id="cite_ref-pool_1-1" class="reference"><a href="#cite_note-pool-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -76,11 +76,11 @@ Sau đó, Anborn trả lời câu hỏi của Faramir về cái gì ở trong [B
 		</li>
 </ul>
 
-<b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
+<b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
 
 <dl><dd>A card from <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i> identifies one of the Rangers of Ithilien as Anborn. It refers to him as a skilled Huntsman.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
-<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Anborn is first met in Bâr Húrin, a refugee of Rangers in South <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>, where he tasks the player to prove their worth by assisting the Rangers with battle preparations and then dealing with a small encampment of <a href="../H/Haradrim.md" title="Haradrim">Haradrim</a>. After the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a> Anborn asks the player to help with treating the wounded and preventing the <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a> from setting up a trap for <a href="Aragorn.md" title="Aragorn">Aragorn</a>&#39;s forces. He then joins the Host of the West in the march to <a href="../D/Dagorlad.md" title="Dagorlad">Dagorlad</a> and survives the <a href="../B/Battle_of_the_Morannon.md" title="Battle of the Morannon">Battle of the Morannon</a>.</dd></dl>
 

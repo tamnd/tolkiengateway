@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wings Over Arda: The First Age"
 ---
 
-Chuyển hướng đến [Wings Over Arda: Kỷ Đệ Nhất](Wings_Over_Arda%253A_The_First_Age.md).
+Chuyển hướng đến [Wings Over Arda: The First Age](Wings_Over_Arda%253A_The_First_Age.md).

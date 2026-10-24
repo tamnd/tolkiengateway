@@ -16,7 +16,7 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_443.md" title="First Age 443">443</a><a href="First_Age_444.md" title="First Age 444">444</a><a href="First_Age_445.md" title="First Age 445">445</a><a class="mw-selflink selflink">447</a><a href="First_Age_448.md" title="First Age 448">448</a><a href="First_Age_450.md" title="First Age 450">450</a><a href="First_Age_451.md" title="First Age 451">451</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Nhất 447** (viết tắt là **F.A. 447**) là năm [thứ 447 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ nhất 447** (viết tắt là **F.A. 447**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 447 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
@@ -26,7 +26,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Ngày sinh của Borthand là một phép ngoại suy dựa trên thực tế là <a href="First_Age.md" title="First Age">Kỷ Đệ Nhất</a> ngày vào Tolkien Gateway, khi <a href="../Y/Years_of_the_Sun.md" title="Years of the Sun">Các năm của Mặt Trời</a> bắt đầu, chủ yếu dựa trên <i><a href="../T/The_Grey_Annals.md" title="The Grey Annals">The Grey Annals</a></i> - mà bản thân chúng lại dựa trên <i><a href="../T/The_Earliest_Annals_of_Beleriand.md" title="The Earliest Annals of Beleriand">Biên niên sử sớm nhất của Beleriand</a></i>: và chúng lần lượt được chuyển tới tương lai 300 năm trong quá trình tạo ra chúng (tức là những ngày như 'năm 195' trong <i>The Earlyest Biên niên sử</i> trở thành 'năm <a href="First_Age_495.md" title="First Age 495">495</a>' trong <i>The Grey Annals</i>).</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Ngày sinh của Borthand là phép ngoại suy dựa trên thực tế là <a href="First_Age.md" title="First Age">Thời đại thứ nhất</a> tính trên Cổng Tolkien, khi <a href="../Y/Years_of_the_Sun.md" title="Years of the Sun">Năm Mặt trời</a> bắt đầu, chủ yếu dựa trên <i><a href="../T/The_Grey_Annals.md" title="The Grey Annals">The Grey Biên niên sử</a></i> - mà bản thân chúng lại dựa trên <i><a href="../T/The_Earliest_Annals_of_Beleriand.md" title="The Earliest Annals of Beleriand">Biên niên sử sớm nhất của Beleriand</a></i>: và chúng lần lượt được chuyển về tương lai 300 năm trong quá trình tạo ra (tức là các ngày như 'năm 195' trong <i>Biên niên sử sớm nhất</i> trở thành 'năm <a href="First_Age_495.md" title="First Age 495">495</a>' trong <i>Biên niên sử xám</i>).</span>
 </li>
 </ol></div></span>
 

@@ -29,11 +29,11 @@ langlinks:
     url: "https://kontu.wiki/Laireloss%C3%AB"
 ---
 
-**Lairelossë** là một trong những [Cây thơm](../F/Fragrant_Trees.md) mọc ở [Nísimaldar](../N/Nísimaldar.md), trên đảo [Númenor](../N/Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó là một loại cây thường xanh và được [Eldar](../E/Eldar.md) của [Eressëa](../E/Eressëa.md)mang đến.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Lairelossë** là một trong những [Cây Thơm](../F/Fragrant_Trees.md) mọc ở [Nísimaldar](../N/Nísimaldar.md), trên đảo [Númenor](../N/Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó là một loại cây thường xanh và được [Eldar](../E/Eldar.md) của [Eressëa](../E/Eressëa.md) mang đến.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ *lairelossë* có nghĩa là "Mùa hè-tuyết trắng" trong [Quenya](../Q/Quenya.md) (từ *[lairë](Lairë.md)* = "mùa hè" và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Loss%C3%AB&amp;action=edit&amp;redlink=1" title="Lossë (page does not exist)">lossë</a></i> = "trắng, trắng như tuyết").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+The word *lairelossë* means "Summer-snow-white" in [Quenya](../Q/Quenya.md) (from *[lairë](Lairë.md)* = "summer" and <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Loss%C3%AB&amp;action=edit&amp;redlink=1" title="Lossë (page does not exist)">lossë</a></i> = "white, snow-white").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

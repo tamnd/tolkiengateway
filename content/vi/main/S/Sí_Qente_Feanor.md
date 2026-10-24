@@ -12,7 +12,7 @@ categories:
   - "Quenya texts"
 ---
 
-**Sí Qente Feanor** là một đoạn của [*Parma Eldalamberon* 15](../P/Parma_Eldalamberon_15.md). Đoạn văn 13 dòng này gồm hai câu do nhân vật [Fëanor](../F/Fëanor.md) thốt ra trong [Qenya](../Q/Qenya.md) và phần giải thích ngắn gọn về tình tiết.
+**Sí Qente Feanor** là một đoạn của [*Parma Eldalamberon* 15](../P/Parma_Eldalamberon_15.md). Đoạn văn 13 dòng này gồm hai câu do nhân vật [Fëanor](../F/Fëanor.md) thốt ra trong [Qenya](../Q/Qenya.md) và phần giải thích ngắn gọn về hoàn cảnh.
 
 <blockquote class="tg-quote noexcerpt">
 <p>&#39;néri ur natsi nostalen máre

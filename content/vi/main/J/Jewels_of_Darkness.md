@@ -36,7 +36,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/D/Dungeon_Adventure_-_Cover.jpg.md"><img src="https://tolkiengateway.net/w/images/7/7b/Dungeon_Adventure_-_Cover.jpg" decoding="async" loading="lazy" width="200" height="278" class="mw-file-element" data-file-width="196" data-file-height="272"/></a><figcaption></figcaption></figure>
 
-<i><b>The Middle-Earth Trilogy</b></i>, còn được gọi là *Colossal Trilogy*, là bộ ba trò chơi của [Máy tính cấp 9](../L/Level_9_Computing.md).<sup id="cite_ref-Tolkien_Games_1-0" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup> Nó bao gồm các trò chơi sau:
+<i><b>Bộ ba Trung Địa</b></i>, còn được gọi là *Colossal Trilogy*, là bộ ba trò chơi của [Máy tính cấp 9](../L/Level_9_Computing.md).<sup id="cite_ref-Tolkien_Games_1-0" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup> Bộ ba trò chơi này bao gồm các trò chơi sau:
 
 - [Cuộc phiêu lưu khổng lồ](../C/Colossal_Adventure.md)
 - [Nhiệm vụ phiêu lưu](../A/Adventure_Quest.md)

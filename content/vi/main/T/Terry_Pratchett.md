@@ -39,7 +39,7 @@ infobox:
 
 **Sir Terence David John Pratchett**, [CBE](../O/Order_of_the_British_Empire.md) ([28 tháng 4](../_/28_April.md) [1948](../_/1948.md) - [12 tháng 3](../_/12_March.md) [2015](../_/2015.md)), thường được gọi đơn giản hơn là **Terry Pratchett**, là một tác giả người Anh chủ yếu viết tiểu thuyết giả tưởng. Bộ truyện tranh giả tưởng *Discworld* của anh thường xuyên nhại lại hoặc lấy cảm hứng từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Vào [22 tháng 11](../_/22_November.md) [1967](../_/1967.md), trước khi bắt đầu sự nghiệp nhà văn của mình, Pratchett đã gửi một lá thư đến Tolkien, trong đó ông khen ngợi *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* và bày tỏ hy vọng được gặp *[The Silmarillion](The_Silmarillion.md)* trong tương lai gần, sau đó nhận được phản hồi nồng nhiệt.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào [22 tháng 11](../_/22_November.md) [1967](../_/1967.md), trước khi bắt đầu sự nghiệp nhà văn của mình, Pratchett đã gửi một lá thư cho Tolkien, trong đó ông khen ngợi *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* và bày tỏ hy vọng được gặp *[The Silmarillion](The_Silmarillion.md)* trong tương lai gần, sau đó nhận được phản hồi nồng nhiệt.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -52,14 +52,14 @@ Vào [22 tháng 11](../_/22_November.md) [1967](../_/1967.md), trước khi bắ
 
 ## Trích dẫn {#Quotes}
 
-Trong một cuộc phỏng vấn với The New York Times, Pratchett được hỏi "Ai là tiểu thuyết gia giả tưởng yêu thích của bạn?" mà anh ấy đã trả lời:
+Trong một cuộc phỏng vấn với The New York Times, Pratchett được hỏi "Ai là tiểu thuyết gia giả tưởng yêu thích của bạn?" mà ông đã trả lời:
 
 <blockquote class="tg-quote noexcerpt">
 <p>O.K., I give in. J. R. R. Tolkien. I wrote a letter to him once and got a very nice reply. Just think how busy he would have been, and yet he took the time out to write to a fan.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 </p>
 </blockquote>
 
-Trong một cuộc phỏng vấn khác, Pratchett được hỏi: "Tại sao bạn cảm thấy không thoải mái khi đi trước Tolkien?" và anh ấy trả lời:
+Trong một cuộc phỏng vấn khác, Pratchett được hỏi: "Tại sao bạn cảm thấy không thoải mái khi đi trước Tolkien?" và ông trả lời:
 
 <blockquote class="tg-quote noexcerpt">
 <p>I think Tolkien will be around in a hundred years time but I’m not certain that I will.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
@@ -71,7 +71,7 @@ Trong một cuộc phỏng vấn khác, Pratchett được hỏi: "Tại sao b�
 </p>
 </blockquote>
 
-Anh ấy cũng nói về tầm ảnh hưởng của Tolkien đối với thể loại giả tưởng hiện đại trong bài luận 'Vương quốc phép thuật':
+Ông cũng nói về tầm ảnh hưởng của Tolkien trong thể loại giả tưởng hiện đại trong bài tiểu luận 'Vương quốc ma thuật':
 
 <blockquote class="tg-quote noexcerpt">
 <p>J.R.R. Tolkien has become a sort of mountain, appearing in all subsequent fantasy in the way that Mt. Fuji appears so often in Japanese prints. Sometimes it’s big and up close. Sometimes it’s a shape on the horizon. Sometimes it’s not there at all, which means that the artist either has made a deliberate decision against the mountain, which is interesting in itself, or is in fact standing on Mt. Fuji.<sup id="cite_ref-Book_5-1" class="reference"><a href="#cite_note-Book-5">[5]</a></sup>

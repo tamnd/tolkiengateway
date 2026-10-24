@@ -15,9 +15,9 @@ sort_keys:
   "Letters": "Masson, David (1955)"
 ---
 
-Trong thời gian [1955](../_/1955.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã soạn thảo **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi David Masson** (thủ thư tại Đại học Leeds).<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+Trong [1955](../_/1955.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã soạn thảo **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi David Masson** (thủ thư tại Đại học Leeds).<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
-- **Chủ đề:** [Elvish](../E/Elvish.md) ngữ văn lịch sử.<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+- **Chủ đề:** [ngữ văn lịch sử Elvish](../E/Elvish.md).<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 - **Mô tả:** thư nháp dài 8 trang.
 - **Xuất bản:** Những trích dẫn mở rộng từ bức thư xuất hiện trong [*Parma Eldalamberon*, tập 17](../P/Parma_Eldalamberon_17.md).<sup id="cite_ref-PE17_1-2" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 

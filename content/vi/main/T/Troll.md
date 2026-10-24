@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Trolls"
 ---
 
-Chuyển hướng đến [Troll](Trolls.md).
+Chuyển hướng tới [Quỷ dữ](Trolls.md).

@@ -38,7 +38,7 @@ infobox:
 
 ## Từ nguyên {#Etymology}
 
-[David Salo](../D/David_Salo.md) gợi ý rằng cái tên này thể hiện một dạng [Cũ Hobbitish](../O/Old_English.md) *Tucbanca* có thể có nghĩa là "độ dốc của [Tooks](Took.md)" (cf. <i>sông <a class="extiw" href="http://en.wiktionary.org/wiki/bank#Etymology_2" title="wiktionary:bank">bờ</a></i>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[David Salo](../D/David_Salo.md) gợi ý rằng cái tên này có thể đại diện cho một dạng [tiếng Hobbit cổ](../O/Old_English.md) *Tucbanca* có nghĩa là "độ dốc của [Tooks](Took.md)" (cf. <i>sông <a class="extiw" href="http://en.wiktionary.org/wiki/bank#Etymology_2" title="wiktionary:bank">bờ</a></i>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

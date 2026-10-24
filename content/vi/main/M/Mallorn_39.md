@@ -38,7 +38,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn39.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4e/Mallorn39.jpg/320px-Mallorn39.jpg" decoding="async" loading="lazy" width="320" height="456" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4e/Mallorn39.jpg/480px-Mallorn39.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4e/Mallorn39.jpg/640px-Mallorn39.jpg 2x" data-file-width="702" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 39</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Len Sanford</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">September <a href="../_/2001.md" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">44</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_38.md" title="Mallorn 38">Mallorn 38</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_40.md" title="Mallorn 40">Mallorn 40</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 39</b> là số thứ 39 của tạp chí [Hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản trên tháng Chín [2001](../_/2001.md).
+<b><i>Mallorn</i> 39</b> là số thứ 39 của tạp chí [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào tháng 9 [2001](../_/2001.md).
 
 ## Nội dung {#Contents}
 
@@ -56,9 +56,9 @@ infobox:
     - Bởi: [John Ellison](../J/John_Ellison.md)
 - Biểu tượng Chúa Giêsu Kitô trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*
     - Bởi: Jean Chausse
-- [The Shire](../T/The_Shire.md): ranh giới, lương thực và nông nghiệp
+- [Quận](../T/The_Shire.md): ranh giới, lương thực và nông nghiệp
     - Bởi: William Sarjeant
-- Hội thảo chuyên đề: Tolkien - tại sao hôm nay anh ấy lại quan trọng
+- Hội thảo chuyên đề: Tolkien - tại sao ngày nay ông ấy lại quan trọng
     - Bởi: Valerie Anand, Dale Nelson
 - Thư
 - Tác phẩm nghệ thuật
@@ -68,4 +68,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/40/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/40/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>

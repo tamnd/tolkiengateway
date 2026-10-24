@@ -31,17 +31,17 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-[W.H. Auden](../W/W.H._Auden.md) và <a class="extiw" href="http://en.wikipedia.org/wiki/Peter_H._Salus" title="wikipedia:Peter H. Salus">Peter H. Salus</a> đã lên kế hoạch viết một cuốn sách về Tolkien nếu cuốn sách đó không được ông phản đối. Auden và Salus đã tham dự một cuộc họp của Hiệp hội Tolkien New York được báo cáo ở *New Yorker* và sau đó là ở London *Daily Telegraph*. Trên tờ báo sau Tolkien đăng, vào ngày 20 tháng 2, Auden đã nói với Hiệp hội rằng Tolkien sống "trong một ngôi nhà gớm ghiếc - tôi không thể nói cho bạn biết nó khủng khiếp đến mức nào - với những bức tranh gớm ghiếc trên tường".
+[W.H. Auden](../W/W.H._Auden.md) và <a class="extiw" href="http://en.wikipedia.org/wiki/Peter_H._Salus" title="wikipedia:Peter H. Salus">Peter H. Salus</a> đã lên kế hoạch viết một cuốn sách về Tolkien nếu cuốn sách đó không bị ông phản đối. Auden và Salus đã tham dự một cuộc họp của Hiệp hội Tolkien New York được đưa tin ở *New Yorker* và sau đó là ở London *Daily Telegraph*. Trên tờ báo thứ hai mà Tolkien đọc, vào ngày 20 tháng 2, Auden đã nói với Hiệp hội rằng Tolkien sống "trong một ngôi nhà gớm ghiếc - tôi không thể nói cho bạn biết nó khủng khiếp đến mức nào - với những bức tranh gớm ghiếc trên tường".
 
-Tolkien nói lẽ ra anh ta nên trả lời lá thư ngày 28 tháng 12 của Auden vài tuần trước; ông và vợ ông bị ốm.
+Tolkien nói rằng lẽ ra ông phải trả lời bức thư ngày 28 tháng 12 của Auden vài tuần trước; ông và vợ ông bị ốm.
 
-Tolkien tiếc nuối vì Auden và Salus đã ký hợp đồng viết một cuốn sách về anh ta; nó đã vấp phải sự phản đối mạnh mẽ của anh ấy. Đó là một sự xấc xược không đủ hữu ích để biện minh cho sự chán ghét và khó chịu dành cho nạn nhân. Ít nhất anh ước rằng bất kỳ cuốn sách nào như vậy có thể đợi cho đến khi anh xuất bản *[The Silmarillion](../T/The_Silmarillion.md)*. Anh ấy liên tục bị gián đoạn trong việc này, nhưng không gì khác hơn là trong tất cả những bài viết về “tôi” và lịch sử của anh ấy.
+Tolkien lấy làm tiếc vì Auden và Salus đã ký hợp đồng viết một cuốn sách về ông ta; nó đã vấp phải sự phản đối mạnh mẽ của ông. Đó là một sự xấc xược không đủ hữu ích để biện minh cho sự chán ghét và khó chịu dành cho nạn nhân. Ít nhất anh ước rằng bất kỳ cuốn sách nào như vậy có thể đợi cho đến khi anh xuất bản *[The Silmarillion](../T/The_Silmarillion.md)*. Ông liên tục bị gián đoạn trong việc này, nhưng không gì khác hơn là trong tất cả những bài viết về “tôi” và lịch sử của ông.
 
-Anh ta đã nhận được báo cáo về chuyến thăm của Auden tới Hội Tolkien ở New York. Anh không thể nói rằng những thông báo (anh tưởng tượng bị cắt xén) về nhận xét của Audens hoặc Salus khiến anh hài lòng.
+Ông ta đã nhận được báo cáo về chuyến thăm của Auden tới Hiệp hội Tolkien ở New York. Anh không thể nói rằng những thông báo (anh tưởng tượng bị cắt xén) về nhận xét của Audens hoặc Salus khiến anh hài lòng.
 
-Tolkien báo cáo rằng anh ấy đã đi đến thỏa thuận với [Ace Books](../A/Ace_Books.md) về mức phí bản quyền 4% và thỏa thuận không in lại phiên bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* trái phép của họ khi nguồn cung của họ đã cạn kiệt. Số tiền mà việc này tạo ra sẽ được hoan nghênh nhưng không phải là sự giàu có lớn lao.
+Tolkien báo cáo rằng ông đã đi đến thỏa thuận với [Ace Books](../A/Ace_Books.md) về mức phí bản quyền 4% và thỏa thuận không in lại phiên bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* trái phép của họ khi nguồn cung của họ đã cạn kiệt. Số tiền mà việc này tạo ra sẽ được hoan nghênh nhưng không phải là sự giàu có lớn lao.
 
-Tolkien cảm ơn Auden đã gửi cho anh ấy bản sao <i><a class="extiw" href="http://en.wikipedia.org/wiki/About_the_House" title="wikipedia:About the House">Giới thiệu về Ngôi nhà</a></i>của anh ấy. Ông đã mang theo cuốn sách khi đưa người vợ đang dưỡng bệnh đi biển và đã thức đến 2 giờ 30 phút sáng để đọc đi đọc lại tác phẩm. <br>
+Tolkien cảm ơn Auden vì đã gửi cho ông bản sao <i><a class="extiw" href="http://en.wikipedia.org/wiki/About_the_House" title="wikipedia:About the House">Giới thiệu về Ngôi nhà</a></i>của ông. Ông đã mang theo cuốn sách khi đưa người vợ đang dưỡng bệnh đi biển và đã thức đến 2 giờ 30 phút sáng để đọc đi đọc lại tác phẩm. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Entneidot"
 ---
 
-**Các cô gái** là nữ trẻ [Ent](Ents.md) hoặc trẻ [Entwives](Entwives.md). Khi [Treebeard](../T/Treebeard.md) nói chuyện với [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md), nhớ lại thời xa xưa, khi "thế giới còn non trẻ, rừng cây rộng lớn và hoang dã", anh ấy nói rằng "khi đó có những Entmaidens: à! sự đáng yêu của [Fimbrethil](../F/Fimbrethil.md), của Wandlimb người nhẹ dạ, trong thời tuổi trẻ của chúng ta!"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Entmaiden** là những [Ent](Ents.md) nữ trẻ hoặc [Entives](Entwives.md) trẻ. Khi [Treebeard](../T/Treebeard.md), nói chuyện với [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md), nhớ lại thời xa xưa, khi "thế giới còn non trẻ, rừng cây thì rộng lớn và hoang dã", ông nói rằng "hồi đó có những Entmaidens: à! sự đáng yêu của [Fimbrethil](../F/Fimbrethil.md), của Wandlimb người chân nhẹ, trong thời tuổi trẻ của chúng ta!"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

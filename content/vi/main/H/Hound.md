@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hounds"
 ---
 
-Chuyển hướng đến [Chó săn](Hounds.md).
+Chuyển hướng tới [Chó săn](Hounds.md).

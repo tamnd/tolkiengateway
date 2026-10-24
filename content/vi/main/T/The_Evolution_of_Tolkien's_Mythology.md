@@ -38,7 +38,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Evolution_of_Tolkien&#39;s_Mythology.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c8/The_Evolution_of_Tolkien%27s_Mythology.jpg/320px-The_Evolution_of_Tolkien%27s_Mythology.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c8/The_Evolution_of_Tolkien%27s_Mythology.jpg/480px-The_Evolution_of_Tolkien%27s_Mythology.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c8/The_Evolution_of_Tolkien%27s_Mythology.jpg/640px-The_Evolution_of_Tolkien%27s_Mythology.jpg 2x" data-file-width="1000" data-file-height="1500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Evolution of Tolkien&#39;s Mythology:<br/><small>A Study of the History of Middle-earth</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Elizabeth A. Whittingham</td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Donald E. Palumbo and C.W. Sullivan</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">McFarland</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/30_June.md" title="30 June">30 June</a> <a href="../_/2017.md" title="2017">2017</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">232</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0786432810" title="Special:BookSources/0786432810">0786432810</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data">Critical Explorations in Science Fiction and Fantasy</td></tr></tbody></table>
 
-<i><b>Sự phát triển của thần thoại Tolkien: Nghiên cứu về lịch sử của Trung Địa</b></i> là cuốn sách của Elizabeth A. Whittingham về [huyền thoại](../L/Legendarium.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Sự phát triển của thần thoại Tolkien: Nghiên cứu về lịch sử Trung Địa</b></i> là cuốn sách của Elizabeth A. Whittingham về [huyền thoại](../L/Legendarium.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -55,11 +55,11 @@ This work provides a thorough study of Tolkien&#39;s life and influences through
 - Lời nói đầu
 - Giới thiệu
 
-1. Ảnh hưởng đến cuộc sống của Tolkien
-Thần thoại về sự sáng tạo của 2. Tolkien
-Thần thoại về các vị thần của 3. Tolkien
-4. Thế giới vật chất của Trung Địa và của Eä
-5. Cái chết và sự bất tử giữa Tiên tộc và Con Người
+1. Những ảnh hưởng trong cuộc đời Tolkien
+2. Thần thoại sáng tạo của Tolkien
+3. Thần thoại về các vị thần của Tolkien
+4. Thế giới vật chất của Trung Địa và Eä
+5. Cái chết và sự bất tử giữa Yêu tinh và Con người
 6. Những ngày cuối cùng của Trung Địa
 7. Chiến thắng cuối cùng
 

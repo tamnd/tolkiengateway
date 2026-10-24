@@ -36,7 +36,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Bag End** là bài hát thứ ba trong đĩa *[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md). Lời bài hát dựa trên bài thơ [The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(song).md#The_Lord_of_the_Rings>) của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*
+**Bag End** là bài hát thứ ba trong đĩa một trong *[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md). Lời bài hát dựa trên bài thơ [The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(song).md#The_Lord_of_the_Rings>) của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*
 
 ## Lời bài hát {#Lyrics}
 

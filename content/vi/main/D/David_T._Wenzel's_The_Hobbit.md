@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit (comic book)"
 ---
 
-Chuyển hướng đến [The Hobbit (truyện tranh)](<../T/The_Hobbit_(comic_book).md>).
+Chuyển hướng đến [The Hobbit (comic book)](<../T/The_Hobbit_(comic_book).md>).

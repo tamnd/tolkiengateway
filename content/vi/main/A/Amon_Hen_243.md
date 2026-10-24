@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen243.png.md"><img src="https://tolkiengateway.net/w/images/thumb/c/ca/AmonHen243.png/320px-AmonHen243.png" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/ca/AmonHen243.png/480px-AmonHen243.png 1.5x, https://tolkiengateway.net/w/images/thumb/c/ca/AmonHen243.png/640px-AmonHen243.png 2x" data-file-width="1314" data-file-height="1860"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 243</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Gordon Palmer</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">September <a href="../_/2013.md" title="2013">2013</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">28</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_242.md" title="Amon Hen 242">Amon Hen 242</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_244.md" title="Amon Hen 244">Amon Hen 244</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 243</b> là số thứ hai trăm bốn mươi ba của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, được xuất bản trên tháng Chín [2013](../_/2013.md).
+<b><i>Amon Hen</i> 243</b> là số thứ 243 của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 9 [2013](../_/2013.md).
 
 ## Nội dung {#Contents}
 
@@ -64,16 +64,16 @@ infobox:
     - Bởi: Maggie Bailey
 - Báo cáo: Lễ hội tưởng tượng Séc 2013
     - Bởi: [Alex Lewis](Alex_Lewis.md)
-- Báo cáo: Laurelin Cười ở Amsterdam
+- Báo cáo: Laurelin Smial ở Amsterdam
     - Bởi: Francesca Barbini
-- Trung Địa Cuối tuần
+- Cuối tuần ở Trung Địa
     - Bởi: Viv Wilkes
 - Tác phẩm nghệ thuật: *[Sam](../S/Samwise_Gamgee.md) and [Rosie](../R/Rosie_Cotton.md)*
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
 - Phía sau cánh cửa kính
     - Bởi: [Alex Lewis](Alex_Lewis.md)
 - Thư
-Bình luận của - [Christopher Tolkien](../C/Christopher_Tolkien.md)trong *[The Fall of Arthur](../T/The_Fall_of_Arthur.md)*
+- [Nhận xét của Christopher Tolkien](../C/Christopher_Tolkien.md) trong *[The Fall of Arthur](../T/The_Fall_of_Arthur.md)*
     - Bởi: [Jim Allan](../J/Jim_Allan.md)
 - Thư của Nữ hoàng Berúthiel
     - Bởi: Ruth Hunt
@@ -83,7 +83,7 @@ Bình luận của - [Christopher Tolkien](../C/Christopher_Tolkien.md)trong *[T
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
 - Tin tức từ Fangorn
     - Bởi: Carol Brownlow
-Đoạn cắt của - Christopher
+- Đoạn cắt của Christopher
     - Bởi: Christopher Kreuzer
 - Tác phẩm nghệ thuật: *Arthur*
     - Bởi: Gordon Palmer

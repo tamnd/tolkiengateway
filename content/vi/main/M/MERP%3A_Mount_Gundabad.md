@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mount Gundabad (book)"
 ---
 
-Chuyển hướng đến [Mount Gundabad (sách)](<Mount_Gundabad_(book).md>).
+Chuyển hướng đến [Núi Gundabad (sách)](<Mount_Gundabad_(book).md>).

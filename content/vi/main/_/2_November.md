@@ -67,24 +67,24 @@ Sự kiện xảy ra vào ngày 2 tháng 11
 
 - **[1918](1918.md)** – [Inkling](../I/Inklings.md) [Roger Lancelyn Green](../R/Roger_Lancelyn_Green.md) ra đời.
 - **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 193](../L/Letter_193.md).
-- **[1958](1958.md)** - [Taum Santoski](../T/Taum_Santoski.md), Tolkien nhà ngôn ngữ học, ra đời.
+- **[1958](1958.md)** - [Taum Santoski](../T/Taum_Santoski.md), nhà ngôn ngữ học Tolkien, ra đời.
 - **[1959](1959.md)** - Diễn viên [Peter Mullan](../P/Peter_Mullan.md) ra đời.
 - **[1962](1962.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 241a](../L/Letter_241a.md).
 - **[1983](1983.md)** - Diễn viên [Michael Spice](../M/Michael_Spice.md) qua đời.
 - **[1986](1986.md)** - Diễn viên lồng tiếng [Paul Frees](../P/Paul_Frees.md) qua đời.
 - **[1990](1990.md)** - [Donald A. Wollheim](../D/Donald_A._Wollheim.md) qua đời.
-- **[2002](2002.md)** - Hội thảo chuyên đề "J.R.R. Tolkien: Người đàn ông đằng sau The Lord of the Rings" được tổ chức tại <a class="external text" href="http://acmrs.org/" rel="noreferrer noopener" target="_blank">Trung tâm Nghiên cứu Thời Trung cổ và Phục hưng Arizona</a>. [Tom Shippey](../T/Tom_Shippey.md), [Randel Helms](../R/Randel_Helms.md) và Ron Người mới đến phát biểu.
+- **[2002](2002.md)** - Hội thảo chuyên đề "J.R.R. Tolkien: Người đàn ông đằng sau Chúa tể của những chiếc nhẫn" được tổ chức tại <a class="external text" href="http://acmrs.org/" rel="noreferrer noopener" target="_blank">Trung tâm Nghiên cứu Thời Trung cổ và Phục hưng Arizona</a>. [Tom Shippey](../T/Tom_Shippey.md), [Randel Helms](../R/Randel_Helms.md) và Ron Người mới đến phát biểu.
 - **[2004](2004.md)** - *[The Lord of the Rings: The Third Age](../T/The_Lord_of_the_Rings%253A_The_Third_Age.md)* được phát hành tại Bắc Mỹ.
-- **[2010](2010.md)** - *[The Lord of the Rings Trực tuyến:](../T/The_Lord_of_the_Rings_Online.md) [Tập III: Allies of the Vua](../T/The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md#Volume_III:_Allies_of_the_King)*, "Ride of the Grey Company" được phát hành ở Châu Âu.
+- **[2010](2010.md)** - *[The Lord of the Rings Online:](../T/The_Lord_of_the_Rings_Online.md) [Volume III: Allies of the King](../T/The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md#Volume_III:_Allies_of_the_King)*, "Ride of the Grey Company" được phát hành ở Châu Âu.
 - **[2010](2010.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)* được chơi miễn phí cho công chúng ở Châu Âu.
 - **[2011](2011.md)** - *[The Loss and the Silence: Aspects of Modernism in the Works of C.S. Lewis, J.R.R. Tolkien &amp; Charles Williams](../T/The_Loss_and_the_Silence.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Các [Lữ khách](../T/Travellers.md) đến với [Bywater](../B/Bywater.md) và [đánh thức](../H/Horn-call_of_Buckland.md) [Shire-dân gian](../H/Hobbits.md).
-- Sự kiện trên được kỷ niệm vào [Buckland](../B/Buckland.md) bằng cách đánh vang [Sừng của Mark](../H/Horn_of_the_Mark.md) và các lễ hội khác.
+    - Những [Du khách](../T/Travellers.md) đến với [Bywater](../B/Bywater.md) và [đánh thức](../H/Horn-call_of_Buckland.md) [dân gian Quận](../H/Hobbits.md).
+- Sự kiện trên được kỷ niệm ở [Buckland](../B/Buckland.md) bằng cách vang lên [Sừng của Mark](../H/Horn_of_the_Mark.md) và các lễ hội khác.

@@ -18,13 +18,13 @@ sort_keys:
   "People by name": "Smith, Nancy"
 ---
 
-**Nancy Smith** đã biên soạn [chỉ mục](../T/The_Lord_of_the_Rings_Index.md) thành *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Cô ấy đã kết hôn với bạn cùng phòng cũ của [Christopher Tolkien](../C/Christopher_Tolkien.md).
+**Nancy Smith** đã biên soạn [chỉ mục](../T/The_Lord_of_the_Rings_Index.md) thành *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Cô đã kết hôn với một người bạn cùng phòng cũ của [Christopher Tolkien](../C/Christopher_Tolkien.md).
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã và đang nghiên cứu [một mục lục chi tiết với thông tin ngôn ngữ](../U/Unfinished_index.md) nhưng bày tỏ mong muốn có một "danh sách cầm tay" hoàn chỉnh theo thứ tự bảng chữ cái để giúp anh ta trong một số vấn đề; [Rayner Unwin](../R/Rayner_Unwin.md) trả lời rằng nếu có thể biên soạn một danh sách như vậy mà không cần suy nghĩ nhiều, nhưng vì “việc lừa” nên họ có thể sắp xếp. Smith đang làm công việc lập chỉ mục vào [Allen &amp; Unwin](../A/Allen_&_Unwin.md)và đã mang thai khi bắt đầu biên soạn vào cuối [tháng 1](../J/January.md) [1958](../_/1958.md)và hoàn thành nó vào [tháng 5](../M/May.md) (một cách gấp rút vì tình trạng của cô ấy). Smith đã được hướng dẫn bỏ qua [Phụ lục](../A/Appendices.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã và đang nghiên cứu [một mục lục chi tiết với thông tin ngôn ngữ](../U/Unfinished_index.md) nhưng bày tỏ mong muốn có một "danh sách cầm tay" hoàn chỉnh theo thứ tự bảng chữ cái để giúp ông ta trong một số vấn đề; [Rayner Unwin](../R/Rayner_Unwin.md) trả lời rằng nếu một danh sách như vậy có thể được biên soạn mà không cần suy nghĩ nhiều, nhưng như một "việc lừa" thì họ có thể sắp xếp nó. Smith đang làm người lập chỉ mục ở [Allen & Unwin](../A/Allen_&_Unwin.md) và đã mang thai khi bắt đầu biên soạn vào cuối [tháng 1](../J/January.md) [1958](../_/1958.md) và hoàn thành nó vào [tháng 5](../M/May.md) (một cách gấp rút vì tình trạng của bà). Smith đã được hướng dẫn bỏ qua [Phụ lục](../A/Appendices.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- Thư từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi Smith:
+- Thư của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi Smith:
     - [Thư gửi Nancy Smith (27 tháng 5 năm 1958)](<../L/Letter_to_Nancy_Smith_(27_May_1958).md>)
     - [Thư gửi Nancy Smith (Giáng sinh năm 1963)](<../L/Letter_to_Nancy_Smith_(Christmas_1963).md>)
     - [Thư gửi Nancy Smith (30 tháng 5 năm 1966)](<../L/Letter_to_Nancy_Smith_(30_May_1966).md>)

@@ -28,7 +28,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 6</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data">Hawke Robinson, <a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Chris Seeman, Chris Wade</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Other Minds Volunteers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">May <a href="../_/2009.md" title="2009">2009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">77</td></tr></tbody></table>
 
-<b><i>Other Minds</i> 6</b> là số thứ sáu của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh Trung Địa, xuất bản vào tháng 5 năm 2009.
+<b><i>Other Minds</i> 6</b> là số thứ sáu của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh ở Trung Địa, được xuất bản vào tháng 5 năm 2009.
 
 ## Nội dung {#Contents}
 
@@ -38,13 +38,13 @@ infobox:
     - Bởi Oliver Hauss
 - "Bàn tay trắng giơ lên"
     - Bởi Lev Lafayette
-- "Númenórean Tuổi thọ"
+- "Tuổi thọ vô số"
     - Bởi Thomas Morwinsky
 - "Eöldrim"
     - Tác giả José Enrique Vacas de la Rosa
-- "Tharbad Thay đổi tên"
+- "Thay đổi tên Tharbad"
     - Bởi Chris Seeman
-- "Ngân hàng phía Bắc Anduin"
+- "Bờ sông Anduin phía Bắc"
     - Bởi Johannes Lomborg
 - "Sinh ra từ hy vọng-Tổng quan"
     - Tác giả José Enrique Vacas de la Rosa
@@ -52,8 +52,8 @@ infobox:
     - Bởi Thomas Morwinsky
 - "Bản in đẹp và tuyên bố miễn trừ trách nhiệm"
 - "Giấy phép Creative Commons"
-- "Appendix A: Các bảng cho 'Númenórean Tuổi thọ'"
-- "Phụ lục B: Dúnadan Tuổi thọ"
+- "Phụ lục A: Các bảng về 'Tuổi thọ Númenórean'"
+- "Phụ lục B: Tuổi thọ của Dúnadan"
     - Bởi Chris Seeman
 
 - **Tác phẩm nghệ thuật / Bản đồ:**

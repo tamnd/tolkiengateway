@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Whittlesey, Mark"
 ---
 
-**W. Mark Whittlesey** là tác giả và nhà thiết kế trò chơi. Cùng với [Scott Bennie](../S/Scott_Bennie.md) anh ấy đã thực hiện [The Lord of the Rings, Tập. Tôi (PC)](<../T/The_Lord_of_the_Rings,_Vol._I_(1990_computer_game).md>),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [The Lord of the Rings, Tập. II: The Two Towers](../T/The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md) và [The Lord of the Rings, Tập. Tôi (SNES)](<../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES).md>).
+**W. Mark Whittlesey** là tác giả và nhà thiết kế trò chơi. Cùng với [Scott Bennie](../S/Scott_Bennie.md) ông đã tạo ra [The Lord of the Rings, Vol. I (PC)](<../T/The_Lord_of_the_Rings,_Vol._I_(1990_computer_game).md>),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [The Lord of the Rings, Vol. II: The Two Towers](../T/The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md) và [The Lord of the Rings, Vol. I (SNES)](<../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES).md>).
 
 ## Liên kết ngoài {#External_links}
 

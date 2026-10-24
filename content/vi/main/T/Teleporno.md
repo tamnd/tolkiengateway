@@ -44,22 +44,22 @@ images:
 </tbody></table>
 </div>
 
-<i><b>Teleporno</b></i> là một cái tên [Telerin](Telerin.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> có nghĩa là "Cao bạc".
+<i><b>Teleporno</b></i> là tên [Telerin](Telerin.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> có nghĩa là "Cao bạc".
 
 ## Từ nguyên {#Etymology}
 
-Tên bao gồm *[telepi](Telepi.md)* và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Orno&amp;action=edit&amp;redlink=1" title="Orno (page does not exist)">orno</a></i> ([Primitive Elvish](../P/Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Orn%C3%A2&amp;action=edit&amp;redlink=1" title="Ornâ (page does not exist)">ornâ</a></i> "nổi dậy, cao lớn").
+Tên bao gồm *[telepi](Telepi.md)* và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Orno&amp;action=edit&amp;redlink=1" title="Orno (page does not exist)">orno</a></i> ([Tiên nguyên thủy](../P/Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Orn%C3%A2&amp;action=edit&amp;redlink=1" title="Ornâ (page does not exist)">ornâ</a></i> "nổi dậy, cao lớn").
 
 ## Có cùng nguồn gốc {#Cognates}
 
 - [Quenya](../Q/Quenya.md) *Telporno*
-- [Sindarin](../S/Sindarin.md) *[Celeborn](../C/Celeborn.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[Celeborn](../C/Celeborn.md)*
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Ban đầu, Tolkien dự định Sindarin Celeborn có nghĩa là "Cây bạc", nhưng từ nguyên "Cây bạc" xuất hiện trong các bài viết ngữ văn mới nhất của Tolkien.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ban đầu, Tolkien dự định Sindarin Celeborn có nghĩa là "Cây bạc", nhưng từ nguyên "Bạc cao" xuất hiện trong các tác phẩm ngữ văn mới nhất của Tolkien.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Celeborn](../C/Celeborn.md), trong một số bài viết gần đây đã nói là [Teler](../F/Falmari.md) của [Valinor](../V/Valinor.md) có tên là **Teleporno**, nghĩa là *silver-tree* [thay vì a](../C/Celeborn.md#Controversy) [Sinda](../S/Sindar.md). Nó cũng tồn tại ở dạng Telerin *Telepornë*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Celeborn](../C/Celeborn.md), được cho là trong một số bài viết gần đây nhất là [Teler](../F/Falmari.md) của [Valinor](../V/Valinor.md) tên là **Teleporno**, nghĩa là *silver-tree* [thay vì a](../C/Celeborn.md#Controversy) [Sinda](../S/Sindar.md). Nó còn tồn tại ở dạng Telerin *Telepornë*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

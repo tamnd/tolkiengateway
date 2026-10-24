@@ -15,13 +15,13 @@ categories:
 
 **Ban(a)** là một từ [Westron](../W/Westron.md) có nghĩa là *half*.
 
-Nguyên tố này được nhìn thấy trong các hợp chất. Nó thường được theo sau bởi một *a* nhưng không biết liệu nó có thuộc dạng đầy đủ của từ [\*](../A/Asterisk.md)*bana*hay không.
+Nguyên tố này được nhìn thấy trong các hợp chất. Nó thường được theo sau bởi một *a* nhưng không biết liệu nó có thuộc dạng đầy đủ của từ [\*](../A/Asterisk.md)*bana* hay không.
 
 ## Từ nguyên {#Etymology}
 
 Từ này dường như đến từ phần tử [Adûnaic](../A/Adûnaic.md), giống như một số gốc \*BAN.
 
-Cf. [Adûnaic](../A/Adûnaic.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ban%C3%A2th&amp;action=edit&amp;redlink=1" title="Banâth (page does not exist)">banâth</a></i> "vợ" nghĩa là "một nửa của cặp đôi"
+Cf. [Adûnaic](../A/Adûnaic.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ban%C3%A2th&amp;action=edit&amp;redlink=1" title="Banâth (page does not exist)">banâth</a></i> "vợ" có nghĩa là "một nửa của cặp đôi"
 
 ## Ví dụ {#Examples}
 

@@ -34,17 +34,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Riders_of_Rohan_videogame_old_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/8/8b/Riders_of_Rohan_videogame_old_cover.jpg" decoding="async" loading="lazy" width="248" height="324" class="mw-file-element" data-file-width="248" data-file-height="324"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Riders of Rohan</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a href="../M/Melbourne_House.md" title="Melbourne House">Beam Software</a> and <a href="../P/Papyrus_Design_Group.md" title="Papyrus Design Group">Papyrus Design Group</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../K/Konami_Corporation.md" title="Konami Corporation">Konami</a> and <a href="../M/Mirrosoft_Ltd..md" title="Mirrosoft Ltd.">Mirrorsoft</a></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/MS-DOS" title="wikipedia:MS-DOS">MS-DOS</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/1990.md" title="1990">1990</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Strategy game with action elements</td></tr></tbody></table>
 
-**J.R.R. Tolkien's Riders of Rohan** là một trò chơi điện tử đã ngừng xuất bản, được phân phối thương mại và cấp phép bởi [Tolkien Estate](../T/Tolkien_Estate.md).<sup id="cite_ref-Tolkien_Games_1-0" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup> Trò chơi được viết và thiết kế bởi [Hank Howie](../H/Hank_Howie.md), [Phil Redmond](../P/Phil_Redmond.md), et al.<sup id="cite_ref-Tolkien_Games_1-1" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup><sup id="cite_ref-El_Anillo_2-0" class="reference"><a href="#cite_note-El_Anillo-2">[2]</a></sup> Câu chuyện xoay quanh cuộc chiến giữa [Rohirrim](../R/Rohirrim.md) và [Saruman](../S/Saruman.md). Ngoài việc điều khiển chuyển động của lực lượng tốt, người chơi còn có thể bắn [orc](../O/Orcs.md) bằng cung và chiến đấu với các thủ lĩnh của kẻ thù bằng kiếm.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Các nhân vật chính là [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md), [Gimli](../G/Gimli.md) và [Gandalf](../G/Gandalf.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+**J.R.R. Tolkien's Riders of Rohan** là một trò chơi điện tử đã ngừng xuất bản, được phân phối thương mại và cấp phép bởi [Tolkien Estate](../T/Tolkien_Estate.md).<sup id="cite_ref-Tolkien_Games_1-0" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup> Trò chơi được viết và thiết kế bởi [Hank Howie](../H/Hank_Howie.md), [Phil Redmond](../P/Phil_Redmond.md) và những người khác.<sup id="cite_ref-Tolkien_Games_1-1" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup><sup id="cite_ref-El_Anillo_2-0" class="reference"><a href="#cite_note-El_Anillo-2">[2]</a></sup> Câu chuyện xoay quanh cuộc chiến giữa hai thế giới [Rohirrim](../R/Rohirrim.md) và [Saruman](../S/Saruman.md). Ngoài việc điều khiển chuyển động của lực lượng tốt, người chơi còn có thể bắn [orc](../O/Orcs.md) bằng cung và chiến đấu với các thủ lĩnh của kẻ thù bằng kiếm.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Các nhân vật chính là [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md), [Gimli](../G/Gimli.md) và [Gandalf](../G/Gandalf.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Đơn vị {#Units}
 
 ### [Rohan](../R/Rohan.md) {#Rohan}
 
 - Rohirrim
-- Rohirrim Cung thủ
-- Rohirrim Kỵ binh nhẹ
-- Rohirrim Kỵ binh hạng nặng
-- Rohirrim Cung thủ cưỡi ngựa
+- Cung thủ Rohirrim
+- Kỵ binh hạng nhẹ Rohirrim
+- Kỵ binh hạng nặng Rohirrim
+- Cung thủ ngựa Rohirrim
 - [Ent](../E/Ent.md)
 
 ### [Isengard](../I/Isengard.md) {#Isengard}
@@ -59,25 +59,25 @@ infobox:
 
 ### Rohan {#Rohan_2}
 
-- [Aragorn](../A/Aragorn.md)
+- [Aragor](../A/Aragorn.md)
 - [Legolas](../L/Legolas.md)
 - [Gimli](../G/Gimli.md)
 - [Gandalf](../G/Gandalf.md)
-- [Merry](../M/Meriadoc_Brandybuck.md)
+- [Chúc vui vẻ](../M/Meriadoc_Brandybuck.md)
 - [Pippin](../P/Peregrin_Took.md)
-- [Treebeard](../T/Treebeard.md)
+- [Râu cây](../T/Treebeard.md)
 - [Éomer](../_/Éomer.md)
 - [Erkenbrand](../E/Erkenbrand.md)
 - [Háma](../H/Háma.md)
 - [Théoden](../T/Théoden.md)
 - [Théodred](../T/Théodred.md)
 - [Éowyn](../_/Éowyn.md)
-- [Gríma Wormtongue](../G/Gríma.md)
+- [Lưỡi giun Grima](../G/Gríma.md)
 
 ### Isengard {#Isengard_2}
 
 - [Saruman](../S/Saruman.md)
-- [Gríma Wormtongue](../G/Gríma.md)
+- [Lưỡi giun Grima](../G/Gríma.md)
 
 ## Xem thêm {#See_also}
 

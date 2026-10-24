@@ -32,7 +32,7 @@ categories:
 
 ## Xem thêm {#See_also}
 
-- Sindarin *[rim](../R/Rim.md)*
+- Tiếng Sindarin *[rim](../R/Rim.md)*
 - [Quenya](../Q/Quenya.md) *[nóre](../N/Nóre.md)*
 - Noldorin: *[gweith](Gweith.md)*
 

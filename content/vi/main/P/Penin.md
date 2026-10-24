@@ -13,7 +13,7 @@ categories:
   - "Quenya verbs"
 ---
 
-<i><b>penin</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "không" hoặc "Tôi chưa có".<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
+<i><b>penin</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "không" hoặc "Tôi chưa".<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

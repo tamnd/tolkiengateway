@@ -24,7 +24,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Dissipate</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Beijing, China</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">epic black metal</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">2017-present</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">Bjørn the Skald<br/>Fimbulvetr<br/>Taoist Wang<br/>Dave Zhou<br/>G.O.W.<br/>Solomon</td></tr></tbody></table>
 
-**Dissipate** (tiếng Trung: 消散) là một ban nhạc black metal hoành tráng đến từ Bắc Kinh, Trung Quốc. EP 2020 *Mbelekôrolindalë* lấy tên từ cấu trúc Quenya có nghĩa là "âm nhạc của [Melkor](../M/Melkor.md)" (so sánh với *[Ainulindalë](../A/Ainulindalë.md)*) và các bài hát của nó được đặt tên theo các sự kiện như [Dagor Bragollach](Dagor_Bragollach.md) và [Tối của Valinor](Darkening_of_Valinor.md).
+**Dissipate** (tiếng Trung: 消散) là một ban nhạc black metal hoành tráng đến từ Bắc Kinh, Trung Quốc. EP 2020 *Mbelekôrolindalë* lấy tên từ một cấu trúc Quenya có nghĩa là "âm nhạc của [Melkor](../M/Melkor.md)" (so sánh với *[Ainulindalë](../A/Ainulindalë.md)*) và các bài hát của nó được đặt tên theo các sự kiện như [Dagor Bragollach](Dagor_Bragollach.md) và [Darkening of Valinor](Darkening_of_Valinor.md).
 
 ## Thành viên {#Members}
 

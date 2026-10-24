@@ -14,7 +14,7 @@ sort_keys:
   "Sindarin names": "Annunaid"
 ---
 
-**Annúnaid** là tên [Sindarin](../S/Sindarin.md) của ngôn ngữ "[Adûni](../W/Westron.md)" ([Westron](../W/Westron.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Annúnaid** là tên [tiếng Sindarin](../S/Sindarin.md) của ngôn ngữ "[Adûni](../W/Westron.md)" ([Westron](../W/Westron.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

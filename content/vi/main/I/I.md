@@ -15,11 +15,11 @@ categories:
 
 <i><b>i</b></i> (số nhiều <i><b>in</b></i> trong [Sindarin](../S/Sindarin.md)) là [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md) mạo từ "the" và đại từ quan hệ "who".
 
-## Sindarin {#Sindarin}
+## Tiếng Sindarin {#Sindarin}
 
 ### Đột biến {#Mutations}
 
-Trong Sindarin, dạng số ít gây ra [sự khoan dung](../L/Lenition.md) cho từ sau. Ví dụ *[tâl](../T/Tâl.md)* "chân" > <i>i <b>d</b>âl</i> "chân".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong tiếng Sindarin, dạng số ít gây ra [sự khoan dung](../L/Lenition.md) cho từ sau. Ví dụ *[tâl](../T/Tâl.md)* "chân" > <i>i <b>d</b>âl</i> "chân".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Dạng số nhiều gây ra [đột biến mũi](../N/Nasal_mutation.md) và dạng cuối cùng -*n* được đồng hóa. Ví dụ: *[Periain](../P/Perian.md)* "[Halflings](../H/Halflings.md)" > <i>i<b>n+P</b>eriain</i> > <i>i-<b>Ph</b>eriain</i> "the Halflings".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -27,7 +27,7 @@ Dạng số nhiều gây ra [đột biến mũi](../N/Nasal_mutation.md) và d�
 
 ### Các biểu mẫu liên quan {#Related_forms}
 
-Các giới từ Sindarin này chứa mạo từ có hậu tố *-in*:
+Các giới từ tiếng Sindarin này chứa mạo từ có hậu tố *-in*:
 
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nan_(preposition)&amp;action=edit&amp;redlink=1" title="Nan (preposition) (page does not exist)">nan</a></i> "đến"
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ben&amp;action=edit&amp;redlink=1" title="Ben (page does not exist)">ben</a></i> "theo"
@@ -39,14 +39,14 @@ Các mạo từ kết hợp ở trên khi đứng trước một từ sẽ gây 
 
 ## Là đại từ quan hệ {#As_a_relative_pronoun}
 
-Trong cả Quenya và Sindarin, *i* được sử dụng cho đại từ quan hệ "who" hoặc từ kết hợp "that", giới thiệu một cụm từ phụ. Trong Quenya nó thường ở dạng số nhiều của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ya&amp;action=edit&amp;redlink=1" title="Ya (page does not exist)">ya</a>/<a href="../Y/Ye.md" title="Ye">ye</a></i> nhưng cũng có thể được sử dụng ở số ít.
+Trong cả Quenya và Sindarin, *i* được sử dụng cho đại từ quan hệ "ai" hoặc từ kết hợp "that", giới thiệu một cụm từ phụ. Trong Quenya nó thường là dạng số nhiều của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ya&amp;action=edit&amp;redlink=1" title="Ya (page does not exist)">ya</a>/<a href="../Y/Ye.md" title="Ye">ye</a></i> nhưng cũng có thể được sử dụng ở số ít.
 
 Ví dụ:
 
 - <i><a href="../P/Perhael.md" title="Perhael">Perhael</a>, <b>i</b> <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sennui&amp;action=edit&amp;redlink=1" title="Sennui (page does not exist)">sennui</a> "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Panthael&amp;action=edit&amp;redlink=1" title="Panthael (page does not exist)">Panthael</a>" <a class="new" href="https://tolkiengateway.net/w/index.php?title=Esta&amp;action=edit&amp;redlink=1" title="Esta (page does not exist)">estathar</a> <a href="../A/Aen.md" title="Aen">aen</a></i> "[Samwise](../S/Samwise_Gamgee.md), **ai** đáng lẽ phải được gọi là 'Fullwise'"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 - <i><a href="Ilúvatar.md" title="Ilúvatar">Eru</a> <b>i</b> <a href="../O/Or.md" title="Or">hoặc</a> <a href="Ilya.md" title="Ilya">ilye</a> <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mahalma&amp;action=edit&amp;redlink=1" title="Mahalma (page does not exist)">mahalmar</a> <a href="../E/Ea_(verb).md" title="Ea (verb)">ea</a></i> "Người, **người** là trên hết ngai vàng"
 
-Trong Quenya, nó cũng có thể bị từ chối dưới dạng danh từ:
+Trong tiếng Quenya, nó cũng có thể bị từ chối dưới dạng danh từ:
 
 - <i><b>illon</b> <a class="new" href="https://tolkiengateway.net/w/index.php?title=Cam&amp;action=edit&amp;redlink=1" title="Cam (page does not exist)">camnelyes</a></i> "**bạn nhận được nó từ ai**?"<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
@@ -69,7 +69,7 @@ Trong Quenya, nó cũng có thể bị từ chối dưới dạng danh từ:
 
 <small> </small>
 
-<small><ul><li><a href="../D/Dragon_Flame.md" title="Dragon Flame">Rồng Ngọn lửa</a> 2.0</li></ul></small>
+<small><ul><li><a href="../D/Dragon_Flame.md" title="Dragon Flame">Ngọn lửa rồng</a> 2.0</li></ul></small>
 
 <small></small>
 

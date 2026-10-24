@@ -29,7 +29,7 @@ infobox:
 
 **Thư 131** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
 
-Đây là một trong những bức thư được xuất bản dài nhất được viết bởi Tolkien, chứa khoảng mười nghìn từ. Mục đích của bức thư là đưa ra một bản tóm tắt tổng thể về tất cả [Ba Kỷ nguyên](../A/Ages.md) và để chứng minh rằng *The Lord of the Rings* và *The Silmarillion* không thể thiếu được với nhau.
+Đây là một trong những bức thư được xuất bản dài nhất của Tolkien, chứa khoảng mười nghìn từ. Mục đích của bức thư là đưa ra một bản tóm tắt tổng thể về tất cả [Ba Thời đại](../A/Ages.md) và để chứng minh rằng *The Lord of the Rings* và *The Silmarillion* không thể thiếu được với nhau.
 
 ## Lịch sử xuất bản {#Publication_history}
 
@@ -39,7 +39,7 @@ infobox:
 
 *(C).* Một dạng rút gọn hơn nữa của *(A)*, chỉ liên quan đến *[The Silmarillion](../T/The_Silmarillion.md)*, được đưa vào dưới dạng phần giới thiệu trong phiên bản *The Silmarillion* 2007.
 
-*(D).* Bức thư đầy đủ, với mọi thứ được khôi phục và trình bày, được xuất bản trong ấn bản mở rộng của *Letters* (2023). Điều này bao gồm phần đính kèm ở cuối bức thư, là danh sách các câu chuyện riêng lẻ kèm theo mô tả ngắn, một số trong số đó đã được Tolkien đề xuất xuất bản.
+*(D).* Bức thư đầy đủ, với mọi thứ được khôi phục và trình bày, được xuất bản trong ấn bản mở rộng của *Letters* (2023). Điều này bao gồm phần đính kèm ở cuối bức thư, là danh sách các câu chuyện riêng lẻ với những mô tả ngắn gọn, một số trong số này đã được Tolkien đề xuất xuất bản.
 
 ## Tóm tắt {#Summary}
 

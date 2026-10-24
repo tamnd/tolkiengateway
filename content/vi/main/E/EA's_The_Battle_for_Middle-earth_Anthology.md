@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Battle for Middle-earth Anthology"
 ---
 
-Chuyển hướng đến [The Lord of the Rings: The Battle for Middle-earth Tuyển tập](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_Anthology.md).
+Chuyển hướng đến [The Lord of the Rings: The Battle for Middle-earth Anthology](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_Anthology.md).

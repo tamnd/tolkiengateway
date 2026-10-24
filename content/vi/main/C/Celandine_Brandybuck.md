@@ -52,7 +52,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Celandine là hậu duệ của [Bậc thầy của Sảnh Buckland](../M/Master_of_Buckland.md): cụ thể là từ [Gorbadoc Brandybuck](../G/Gorbadoc_Brandybuck.md). Cùng với bố mẹ và các anh trai [Doderic](../D/Doderic_Brandybuck.md) và [Ilberic](../I/Ilberic_Brandybuck.md), cô đã có mặt tại [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Celandine là hậu duệ của [Bậc thầy của Hall of Buckland](../M/Master_of_Buckland.md): cụ thể là từ [Gorbadoc Brandybuck](../G/Gorbadoc_Brandybuck.md). Cùng với cha mẹ và các anh trai [Doderic](../D/Doderic_Brandybuck.md) và [Ilberic](../I/Ilberic_Brandybuck.md), cô đã có mặt tại [Bữa tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -60,7 +60,7 @@ Celandine là hậu duệ của [Bậc thầy của Sảnh Buckland](../M/Master
 
 ## Miêu tả trong chuyển thể {#Portrayals_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>In the beginning of the game, Celandine and <a href="../M/Mundo_Sackville-Baggins.md" title="Mundo Sackville-Baggins">Mundo Sackville-Baggins</a> are captured by <a href="../B/Blackwolds.md" title="Blackwolds">Blackwold</a> brigands. They are then rescued by <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> and taken to the village of <a href="../A/Archet.md" title="Archet">Archet</a> where he leaves them with the player. After an assault on Archet by the Blackwolds, she returns home to <a href="../N/Newbury.md" title="Newbury">Newbury</a> in <a href="../B/Buckland.md" title="Buckland">Buckland</a>.</dd></dl>
 

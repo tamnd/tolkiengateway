@@ -17,15 +17,15 @@ hidden_categories:
 
 <i><b>Ngày xửa ngày xưa</b></i> là một bài thơ gồm ba khổ thơ, được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Bài thơ kể câu chuyện về [Goldberry](../G/Goldberry.md), [Tom](../T/Tom_Bombadil.md) và [lintips](../L/Lintips.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Có thể đây là bài làm lại *[An Evening in Tavrobel](../A/An_Evening_in_Tavrobel.md)*trước đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Bài thơ kể một câu chuyện về [Goldberry](../G/Goldberry.md), [Tom](../T/Tom_Bombadil.md) và [lintips](../L/Lintips.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bài thơ có thể là một bản làm lại của *[An Evening in Tavrobel](../A/An_Evening_in_Tavrobel.md)* trước đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Nó được xuất bản lần đầu tiên vào tháng 10 [1965](../_/1965.md) trong *[Winter's Tales for Children 1](../W/Winter's_Tales_for_Children_1.md)* (trang. 44–5) và trong [1969](../_/1969.md) trong bộ sưu tập *[The Young Magicians](../T/The_Young_Magicians.md)* (tr. 255-6).
 
 Trong [2013](../_/2013.md), bài thơ được đăng trong [*Tolkien Studies*: Tập 10](../T/Tolkien_Studies%253A_Volume_10.md) kèm theo lời giới thiệu và bình luận của Kris Swank.
 
-Trong [2014](../_/2014.md), nó được đưa vào phiên bản mở rộng của *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)*, được biên tập bởi [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md).
+Trong [2014](../_/2014.md), nó được đưa vào phiên bản mở rộng của *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)*, do [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md) biên tập.
 
-Trong [2024](../_/2024.md), nó xuất hiện trong tập đầu tiên của [The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md), cùng với lời bình của các biên tập viên [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [2024](../_/2024.md), nó xuất hiện trong tập đầu tiên của [Những bài thơ được sưu tầm của J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md), cùng với lời bình của các biên tập viên [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -42,7 +42,7 @@ Trong [2024](../_/2024.md), nó xuất hiện trong tập đầu tiên của [Th
 
 ## Xem thêm {#See_also}
 
-- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 <span></span>
 

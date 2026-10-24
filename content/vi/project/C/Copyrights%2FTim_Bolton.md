@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Bolton, Tim"
 ---
 
-- Tim Bolton đã vui lòng cho phép sử dụng <a class="new" href="https://tolkiengateway.net/w/index.php?title=Category:Images_by_Tim_Bolton&amp;action=edit&amp;redlink=1" title="Category:Images by Tim Bolton (page does not exist)">tác phẩm nghệ thuật của ông</a> trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Tim Bolton đã vui lòng cho phép ông sử dụng <a class="new" href="https://tolkiengateway.net/w/index.php?title=Category:Images_by_Tim_Bolton&amp;action=edit&amp;redlink=1" title="Category:Images by Tim Bolton (page does not exist)">tác phẩm nghệ thuật của mình</a> trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 19 tháng 8 năm 2022
 - Người dùng đã xin phép qua tin nhắn Twitter: [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hobbiton Hill"
 ---
 
-Chuyển hướng đến [Hobbiton Đồi](../H/Hobbiton_Hill.md).
+Chuyển hướng đến [Đồi Hobbiton](../H/Hobbiton_Hill.md).

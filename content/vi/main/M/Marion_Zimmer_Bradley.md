@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Bradley, Marion Zimmer"
 ---
 
-**Marion Zimmer Bradley** ([3 tháng 6](../_/3_June.md) [1930](../_/1930.md) — [25 tháng Chín](../_/25_September.md) [1999](../_/1999.md)), một tác giả tiểu thuyết giả tưởng người Mỹ, cũng đã xuất bản một số tác phẩm liên quan đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [huyền thoại](../L/Legendarium.md) của ông.
+**Marion Zimmer Bradley** ([3 tháng 6](../_/3_June.md) [1930](../_/1930.md) — [25 tháng 9](../_/25_September.md) [1999](../_/1999.md)), một tác giả tiểu thuyết giả tưởng người Mỹ, cũng đã xuất bản một số tác phẩm liên quan đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [huyền thoại](../L/Legendarium.md) của ông.
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -34,7 +34,7 @@ sort_keys:
 ### Bài viết {#Articles}
 
 - [1961](../_/1961.md): [*I, Palantir*, số 2](<../I/I,_Palantir_(August_1961).md>)
-    - "[Viên ngọc quý Arwen](../T/The_Jewel_of_Arwen.md)"
+    - "[Viên ngọc của Arwen](../T/The_Jewel_of_Arwen.md)"
 - [1964](../_/1964.md): [*I, Palantir*, số 3](<../I/I,_Palantir_(April_1964).md>)
     - "[Sự chia tay của Arwen](../T/The_Parting_of_Arwen.md)" (dưới bút danh Elfride Rivers<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>)
 

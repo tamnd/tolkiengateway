@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2863.md" title="Third Age 2863">2863</a><a href="Third_Age_2864.md" title="Third Age 2864">2864</a><a href="Third_Age_2865.md" title="Third Age 2865">2865</a><a class="mw-selflink selflink">2866</a><a href="Third_Age_2868.md" title="Third Age 2868">2868</a><a href="Third_Age_2870.md" title="Third Age 2870">2870</a><a href="Third_Age_2872.md" title="Third Age 2872">2872</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 2866** (viết tắt là **T.A. 2866**) là năm [thứ 2866 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2866 còn được gọi là **S.R. 1266** trong [lịch Shire](../S/Shire-reckoning.md).
+**Kỷ thứ ba 2866** (viết tắt là **T.A. 2866**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2866 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2866 còn được gọi là **S.R. 1266** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Sự ra đời của [Thorin III](Thorin_Stonehelm.md), con trai của [Vua](../K/Kings_of_Durin's_Folk.md) [Dáin II Ironfoot](../D/Dáin_II_Ironfoot.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- Sự ra đời của [Angelimir](../A/Angelimir.md), con trai của [Aglahad](../A/Aglahad.md), [Thân vương Dol Amroth](../P/Prince_of_Dol_Amroth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Sự ra đời của [Angelimir](../A/Angelimir.md), con trai của [Aglahad](../A/Aglahad.md), [Hoàng tử của Dol Amroth](../P/Prince_of_Dol_Amroth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

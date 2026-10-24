@@ -44,12 +44,12 @@ infobox:
     - *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*
     - *[The Two Towers](../T/The_Two_Towers.md)*
     - *[The Return of the King](../T/The_Return_of_the_King.md)*
-- *The Lord of the Rings Đồng hành trực quan*, một bộ sưu tập gồm:
+- *Những người bạn đồng hành trực quan của Chúa tể những chiếc nhẫn*, một bộ sưu tập gồm:
     - *[The Fellowship of the Ring Visual Companion](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_Visual_Companion.md)* của [Jude Fisher](../J/Jude_Fisher.md)
     - *[The Two Towers Visual Companion](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_Visual_Companion.md)* của Jude Fisher
     - *[The Return of the King Visual Companion](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_Visual_Companion.md)* của Jude Fisher
-- *[The Atlas of Middle-Earth](../T/The_Atlas_of_Middle-Earth~28105.md)* bởi Karen Wynn Fonstad
-- *[The Complete Guide to Middle-earth](../T/The_Complete_Guide_to_Middle-earth.md)* bởi Robert Foster
+- *[The Atlas of Middle-Earth](../T/The_Atlas_of_Middle-Earth~28105.md)* của Karen Wynn Fonstad
+- *[The Complete Guide to Middle-earth](../T/The_Complete_Guide_to_Middle-earth.md)* của Robert Foster
 - *[The Fall of Arthur](../T/The_Fall_of_Arthur.md)*
 - *[The History of The Lord of the Rings](../T/The_History_of_The_Lord_of_the_Rings.md)*
     - *[The Return of the Shadow](../T/The_Return_of_the_Shadow.md)*
@@ -69,9 +69,9 @@ infobox:
 - *[The Shaping of Middle-earth](../T/The_Shaping_of_Middle-earth.md)*
 - *[The Lost Road and Other Writings](../T/The_Lost_Road_and_Other_Writings.md)*
 - *[The Peoples of Middle-Earth](../T/The_Peoples_of_Middle-Earth~21908.md)*
-- *[The Illustrated World of Tolkien](../T/The_Illustrated_World_of_Tolkien.md)* bởi [David Day](../D/David_Day.md)
-- *[The Worlds of J.R.R. Tolkien](../T/The_Worlds_of_J.R.R._Tolkien.md)* bởi [John Garth](../J/John_Garth.md)
-- *[The Ring Legends of Tolkien](../T/The_Ring_Legends_of_Tolkien.md)''* bởi [David Day](../D/David_Day.md)
+- *[The Illustrated World of Tolkien](../T/The_Illustrated_World_of_Tolkien.md)* của [Ngày David](../D/David_Day.md)
+- *[The Worlds of J.R.R. Tolkien](../T/The_Worlds_of_J.R.R._Tolkien.md)* của [John Garth](../J/John_Garth.md)
+- *[The Ring Legends of Tolkien](../T/The_Ring_Legends_of_Tolkien.md)''* của [Ngày David](../D/David_Day.md)
 
 ## Liên kết ngoài {#External_links}
 

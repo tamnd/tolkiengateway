@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien xin lỗi vì đã chậm trễ dịch Jonah cho dự án *[The Jerusalem Bible](../J/Jerusalem_Bible.md)*. Anh ấy đề cập rằng anh ấy đã bị mắc kẹt ở thế kỷ thứ mười ba, ám chỉ đến công việc của anh ấy trên *[Ancrene Wisse](../A/Ancrene_Wisse.md)* và các dự án khác. Anh cảm ơn Cha Jones đã thông cảm.
+Tolkien xin lỗi vì đã chậm trễ dịch Jonah cho dự án *[The Jerusalem Bible](../J/Jerusalem_Bible.md)*. Ông đề cập rằng ông đã bị mắc kẹt ở thế kỷ thứ mười ba, ám chỉ đến công việc của ông trên *[Ancrene Wisse](../A/Ancrene_Wisse.md)* và các dự án khác. Anh cảm ơn Cha Jones đã thông cảm.
 
 <br>
 

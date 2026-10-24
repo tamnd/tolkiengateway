@@ -15,7 +15,7 @@ categories:
 
 **Brithonin** là một nhóm người đã xâm chiếm [Tol Eressëa](../T/Tol_Eressëa.md) trong [Faring Forth](../F/Faring_Forth.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Theo [John Garth](../J/John_Garth.md), họ có thể được xác định là người <a class="extiw" href="http://en.wikipedia.org/wiki/Celtic_Britons" title="wikipedia:Celtic Britons">người Anh</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Theo [John Garth](../J/John_Garth.md), họ có thể được xác định là <a class="extiw" href="http://en.wikipedia.org/wiki/Celtic_Britons" title="wikipedia:Celtic Britons">người Anh</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

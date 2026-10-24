@@ -28,7 +28,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lída_Holubová_-_Crown.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/79/L%C3%ADda_Holubov%C3%A1_-_Crown.jpg/250px-L%C3%ADda_Holubov%C3%A1_-_Crown.jpg" decoding="async" loading="lazy" width="250" height="329" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/79/L%C3%ADda_Holubov%C3%A1_-_Crown.jpg/375px-L%C3%ADda_Holubov%C3%A1_-_Crown.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/79/L%C3%ADda_Holubov%C3%A1_-_Crown.jpg/500px-L%C3%ADda_Holubov%C3%A1_-_Crown.jpg 2x" data-file-width="1280" data-file-height="1682"/></a><figcaption>&#34;Crown&#34; by <a href="../L/Lída_Holubová.md" title="Lída Holubová">Lída Holubová</a></figcaption></figure>
 
-**Thế giới còn trẻ, núi xanh,** thường được gọi là **Bài hát của Durin**,<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> là một bài thơ được [Gimli](../G/Gimli.md) hát khi [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) đi qua [Moria](../M/Moria.md). Gimli đã đứng dậy hát bài hát này khi nhớ lại sự huy hoàng của [Dwarrowdelf](../D/Dwarrowdelf.md). [Sam Gamgee](../S/Sam_Gamgee.md) thích bài hát này đến nỗi anh ấy muốn học nó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Thế giới còn trẻ, núi xanh,** thường được gọi là **Bài hát của Durin**,<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> là một bài thơ được hát bởi [Gimli](../G/Gimli.md) khi [Hiệp hội của chiếc nhẫn](../F/Fellowship_of_the_Ring.md) đi qua [Moria](../M/Moria.md). Gimli đã đứng dậy hát bài hát này khi nhớ lại sự huy hoàng của [Dwarrowdelf](../D/Dwarrowdelf.md). [Sam Gamgee](../S/Sam_Gamgee.md) thích bài hát này đến nỗi ông muốn học nó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bài thơ {#The_poem}
 
@@ -130,7 +130,7 @@ and found and named <a href="../M/Mirrormere.md" title="Mirrormere">the nameless
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b><a href="../_/1981.md" title="1981">1981</a>: <a href="The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh năm 1981)</a>:</b>
+<b><a href="../_/1981.md" title="1981">1981</a>: <a href="The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim phát thanh năm 1981)</a>:</b>
 
 <dl><dd>Gimli performs an abbreviated version of he song, omitting the first verse and portions of the second.</dd></dl>
 
@@ -138,7 +138,7 @@ and found and named <a href="../M/Mirrormere.md" title="Mirrormere">the nameless
 
 <dl><dd>Gimli (portrayed by Vladimír Hajdu) sings the Song of Durin during the Fellowship&#39;s journey through Moria, as in the novel. The lyrics of the song are not entirely identical with the original English lyrics (especially when it comes to references to First Age events and locations), but follows the structure and ideas of the original lyrics closely. Gimli presents the poem in a half-reciting, half-singing manner. Its slow and melancholy tune is accompanied by flute (the main melody), a subtle sound of a hammer clanging against an anvil in the distance (indicating the rhythm) and occasional string instrument additions (for emphasizing mood).</dd></dl>
 
-<b><a href="../_/2014.md" title="2014">2014</a>: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung Địa: Bóng Tối trong số Mordor</a></i>:</b>
+<b><a href="../_/2014.md" title="2014">2014</a>: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung địa: Cái bóng của Mordor</a></i>:</b>
 
 <dl><dd>In the <i>Big Game</i> quest, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Torvin&amp;action=edit&amp;redlink=1" title="Torvin (page does not exist)">Torvin</a> sings the first stanza, except for &#34;As gems upon a silver thread&#34;, which he hums.</dd></dl>
 
@@ -150,14 +150,14 @@ and found and named <a href="../M/Mirrormere.md" title="Mirrormere">the nameless
 
 - <a class="external text" href="https://www.youtube.com/watch?v=N6UabeJ9ksM" rel="noreferrer noopener" target="_blank">Trình bày bởi J.R.R. Tolkien</a>
 - <a class="external text" href="https://www.youtube.com/watch?v=Tz9cETyteww" rel="noreferrer noopener" target="_blank">Bản trình diễn của Douglas Livingstone (sản xuất trên đài BBC năm 1981)</a>
-- <a class="external text" href="https://www.youtube.com/watch?v=48reRkVI-UE" rel="noreferrer noopener" target="_blank">Phần thể hiện của Ngọn Núi Cô Đơn Ban nhạc</a>
+- <a class="external text" href="https://www.youtube.com/watch?v=48reRkVI-UE" rel="noreferrer noopener" target="_blank">Bản trình diễn của Lonely Mountain Band</a>
 - <a class="external text" href="http://www.youtube.com/watch?v=uxfoa23skHg" rel="noreferrer noopener" target="_blank">Bản trình bày của Clamavi De Profundis</a>
 - <a class="external text" href="https://www.youtube.com/watch?v=BsVp31EvjvM" rel="noreferrer noopener" target="_blank">Bản trình diễn của Geoff Castellucci</a>
 - <a class="external text" href="https://www.youtube.com/watch?v=c-rb7NaVY58" rel="noreferrer noopener" target="_blank">Bản trình diễn của Franco Ezequiel Páez</a>
-- <a class="external text" href="https://www.youtube.com/watch?v=t_qC9_3ckLk&amp;list=PLpYz958b24DabgIdkzkKGUgFuE75KTJSx&amp;index=21" rel="noreferrer noopener" target="_blank">Bản trình bày của Colin Rudd</a>
+- <a class="external text" href="https://www.youtube.com/watch?v=t_qC9_3ckLk&amp;list=PLpYz958b24DabgIdkzkKGUgFuE75KTJSx&amp;index=21" rel="noreferrer noopener" target="_blank">Trình bày của Colin Rudd</a>
 - <a class="external text" href="http://www.youtube.com/watch?v=wn1oeEmzFhQ" rel="noreferrer noopener" target="_blank">Bản trình diễn của Adele McCallister</a>
 - <a class="external text" href="https://www.youtube.com/watch?v=fkJN1b5ogBM" rel="noreferrer noopener" target="_blank">Bản trình diễn</a> của [John Rhys-Davies](../J/John_Rhys-Davies.md) (và <a class="external text" href="https://www.youtube.com/watch?v=tgolX750KoA" rel="noreferrer noopener" target="_blank">có</a> nhạc được thêm vào)
-- <a class="external text" href="https://www.youtube.com/watch?v=DDOnq7aFmPU&amp;list=PLpYz958b24DabgIdkzkKGUgFuE75KTJSx&amp;index=40" rel="noreferrer noopener" target="_blank">Bản trình diễn của Vladimír Hajdu</a> *(Gimli người thể hiện trong loạt phim phát thanh Slovakia những năm 2000)*
+- <a class="external text" href="https://www.youtube.com/watch?v=DDOnq7aFmPU&amp;list=PLpYz958b24DabgIdkzkKGUgFuE75KTJSx&amp;index=40" rel="noreferrer noopener" target="_blank">Bản trình diễn của Vladimír Hajdu</a> *(Người miêu tả Gimli trong loạt phim phát thanh Slovakia những năm 2000)*
 - <a class="external text" href="https://www.youtube.com/watch?v=cZdGE8_fOMM" rel="noreferrer noopener" target="_blank">Bản thể hiện của Eurielle</a>
 
 <span></span>

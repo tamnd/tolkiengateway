@@ -45,7 +45,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen50.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1c/AmonHen50.jpg/320px-AmonHen50.jpg" decoding="async" loading="lazy" width="320" height="450" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/1/1c/AmonHen50.jpg 1.5x" data-file-width="400" data-file-height="562"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 50</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../B/Brin_Dunsire.md" title="Brin Dunsire">Brin Dunsire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Steve Lines</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Hanway Print Centre, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">2 May <a href="../_/1981.md" title="1981">1981</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">52</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_49.md" title="Amon Hen 49">Amon Hen 49</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_51.md" title="Amon Hen 51">Amon Hen 51</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 50</b> là số thứ 50 của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản ngày 2 tháng 5 [1981](../_/1981.md).
+<b><i>Amon Hen</i> 50</b> là số thứ 50 của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào ngày 2 tháng 5 [1981](../_/1981.md).
 
 ## Nội dung {#Contents}
 
@@ -67,11 +67,11 @@ infobox:
 Đánh giá - [Đài](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>)
 - Một câu chuyện không được nhắc đến
     - Bởi: Andrew Sutherland
-- Hobbit-theo pháp luật
+- Hobbit-at-Law
     - Bởi: [Brin Dunsire](../B/Brin_Dunsire.md)
-- Thơ đầu tiếng Wales
+- Thơ xứ Wales thời kỳ đầu
     - Bởi: Iwan Rhys Morus
-- Pippin Bản vá đáp án
+- Câu trả lời về bản vá Pippin
     - Bởi: [John Rateliff](../J/John_D._Rateliff.md)
 - Sự hình thành của sự sáng tạo phụ
     - Bởi: Virginia Luling
@@ -88,17 +88,17 @@ infobox:
 - Đánh giá: Urshurak
     - Bởi: Paul Harwood
 - Vấn đề quay lại
-- Đánh giá: Bản tin Tolkien Mới
+- Đánh giá: Bản tin Tolkien mới
     - Bởi: Jessica Yates
 - Tác phẩm nghệ thuật: *Galadriel*
     - Bởi: Steve Lines
-- Đánh giá: *Symboliek van Tolkien In de ban van de ring*
+- Đánh giá: *In de ban van de ring của Symboliek van Tolkien*
     - Bởi: [Johan Vanhecke](../J/Johan_Vanhecke.md)
 - Hãy mỉm cười
 - Truyện dân gian
 - Olórin
     - Bởi: Takashi Okunishi
-- Hướng dẫn người quá giang cho Tolkien xã hội
+- Hướng dẫn cho người quá giang về các xã hội Tolkien
     - Bởi: Brin Dunsire
 - Thư/Bạn bè
 - Heel của Helen

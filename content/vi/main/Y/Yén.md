@@ -24,7 +24,7 @@ langlinks:
     url: "https://kontu.wiki/Y%C3%A9n"
 ---
 
-<i><b>Yén</b></i> (số nhiều <i><b>yéni</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là [Quenya](../Q/Quenya.md) cho "năm dài" hoặc "năm vĩ đại",<sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup> và là đơn vị thời gian được sử dụng bởi [Tiên tộc](../E/Elves.md) của [Trung Địa](../M/Middle-earth.md) sau lần trỗi dậy đầu tiên của [Mặt Trời](../S/Sun.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> So sánh với a [Năm Valian](../V/Valian_Years.md), đơn vị thời gian được sử dụng trong [Valinor](../V/Valinor.md).
+<i><b>Yén</b></i> (số nhiều <i><b>yéni</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là [Quenya](../Q/Quenya.md) có nghĩa là "năm dài" hoặc "năm vĩ đại",<sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup> và là đơn vị thời gian được sử dụng bởi [Yêu tinh](../E/Elves.md) của [Trung Địa](../M/Middle-earth.md) sau lần mọc đầu tiên của [Mặt trời](../S/Sun.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> So sánh với [Năm Valian](../V/Valian_Years.md), đơn vị thời gian được sử dụng trong [Valinor](../V/Valinor.md).
 
 <dl><dd>1 <i>yén</i> = 144 solar years = 52,596 days<sup id="cite_ref-PE17_2-1" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
@@ -32,7 +32,7 @@ langlinks:
 
 ## Xem thêm {#See_also}
 
-- [Loa](../L/Loa.md) và [Canar](../C/Coranar.md): thuật ngữ dùng để đo thời gian tương đương với một năm của Mặt Trời
+- [Loa](../L/Loa.md) và [Canar](../C/Coranar.md): thuật ngữ dùng để đo thời gian tương đương với một năm Mặt Trời
 
 <span></span>
 

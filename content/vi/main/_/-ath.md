@@ -18,7 +18,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> suffix</b>. For the <a href="../E/Elvish.md" title="Elvish">Elvish</a> <a href="../S/Sundocarme.md" title="Sundocarme">root</a>, see <b><a href="../A/ATH~33243.md" title="ATH">ATH</a></b>.</div></div>
 
-<i><b>-ath</b></i> là hậu tố số nhiều tập hợp [Sindarin](../S/Sindarin.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> nghĩa là tất cả các nhóm mà nó được gắn vào. Nó có nguồn gốc như một từ kép và đôi khi vẫn được sử dụng như vậy.
+<i><b>-ath</b></i> là một hậu tố số nhiều tập hợp [Sindarin](../S/Sindarin.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> có nghĩa là tất cả các nhóm mà nó được gắn vào. Nó có nguồn gốc như một từ kép và đôi khi vẫn được sử dụng như vậy.
 
 ## Ví dụ {#Examples}
 

@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>gwend</b></i> hoặc <i><b>gwenn</b></i> là danh từ [Sindarin](../S/Sindarin.md) có hai nghĩa:
+<i><b>gwend</b></i> hoặc <i><b>gwenn</b></i> là một danh từ [tiếng Sindarin](../S/Sindarin.md) có hai nghĩa:
 
 1. "sự gắn kết, tình bạn". Nó liên quan đến động từ <i><b>gwedh</b></i>, có nghĩa là "ràng buộc".
 2. "thiếu nữ". So sánh với hậu tố *-[wen](../W/Wen.md)*
@@ -25,4 +25,4 @@ categories:
 
 ## Tài liệu tham khảo {#References}
 
-- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Từ điển Sindarin của Hiswelókë</a> được biên soạn bởi [Didier Willis](../D/Didier_Willis.md)
+- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Từ điển Sindarin của Hiswelókë</a> do [Didier Willis biên soạn](../D/Didier_Willis.md)

@@ -40,7 +40,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a> and <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a></td></tr>
 </tbody></table>
 
-"**Các Halfling muôn năm! Hãy ca ngợi họ bằng những lời khen ngợi thật lớn!**" là dòng đầu tiên của [điệp khúc ca ngợi và cảm ơn](../P/Poems_in_The_Lord_of_the_Rings.md) được hát trong [Westron](../W/Westron.md), [Quenya](../Q/Quenya.md)và [Sindarin](../S/Sindarin.md) bởi [Con Người](../G/Gondorians.md) của [Gondor](../G/Gondor.md) trên [Cánh đồng Cormallen](../F/Field_of_Cormallen.md), tôn vinh [Những người mang nhẫn](../R/Ring-bearer.md) vì những nỗ lực dũng cảm của họ trong việc tiêu diệt trái đất [Một chiếc nhẫn](../O/One_Ring.md).<sup id="cite_ref-song_1-0" class="reference"><a href="#cite_note-song-1">[1]</a></sup>
+"**Các Halfling muôn năm! Hãy ca ngợi họ bằng những lời khen ngợi thật lớn!**" là câu đầu tiên trong [điệp khúc ca ngợi và cảm ơn](../P/Poems_in_The_Lord_of_the_Rings.md) được hát ở [Westron](../W/Westron.md), [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md) bởi [Men](../G/Gondorians.md) của [Gondor](../G/Gondor.md) trên [Field của Cormallen](../F/Field_of_Cormallen.md), vinh danh [Những người mang chiếc nhẫn](../R/Ring-bearer.md) vì những nỗ lực dũng cảm của họ trong việc tiêu diệt [Một chiếc nhẫn](../O/One_Ring.md).<sup id="cite_ref-song_1-0" class="reference"><a href="#cite_note-song-1">[1]</a></sup>
 
 ## Bài thơ {#Poem}
 
@@ -60,7 +60,7 @@ Praise them! The Ring-bearers, praise them with great praise!
 
 ## Nền {#Background}
 
-Trong bản nháp đầu tiên của lời khen ngợi, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết như sau:<sup id="cite_ref-early_2-0" class="reference"><a href="#cite_note-early-2">[2]</a></sup>
+Trong bản nháp đầu tiên của lời khen ngợi, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết như sau:<sup id="cite_ref-early_2-0" class="reference"><a href="#cite_note-early-2">[2]</a></sup>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Long live the Halflings! Praise them with great praise! Cuio i Pheriannath anann! Aglar anann! Praise them with great praise! Wilcuman, wilcutnan, Fróda and Samwís! Praise them! Uton herian holbytlan! A laita te, laita te. Andave laituvalmetl Praise them! The Ringbearers, praise them with great praise!<sup id="cite_ref-early_2-1" class="reference"><a href="#cite_note-early-2">[2]</a></sup>
@@ -69,7 +69,7 @@ Trong bản nháp đầu tiên của lời khen ngợi, [J.R.R. Tolkien](../J/J.
 
 [Christopher Tolkien](../C/Christopher_Tolkien.md) đã lưu ý rằng phiên bản này bao gồm một số từ [tiếng Anh cổ](../O/Old_English.md) ngoài Westron, Quenya và Sindarin.<sup id="cite_ref-early_2-2" class="reference"><a href="#cite_note-early-2">[2]</a></sup>
 
-Trong thư gửi [Rhona Beare](../R/Rhona_Beare.md) vào ngày [8 tháng 6](../_/8_June.md) vào ngày [1961](../_/1961.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) giải thích rằng dòng 2, 4 và 6 nằm trong Sindarin trong khi dòng 7 và 9 nằm trong Quenya. Bản dịch của Tolkien các phần [Elvish](../E/Elvish.md) được liệt kê bên dưới:<sup id="cite_ref-letter_3-0" class="reference"><a href="#cite_note-letter-3">[3]</a></sup>
+Trong thư gửi [Rhona Beare](../R/Rhona_Beare.md) vào [8 tháng 6](../_/8_June.md) ở [1961](../_/1961.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) giải thích rằng dòng 2, 4 và 6 bằng tiếng Sindarin trong khi dòng 7 và 9 bằng tiếng Quenya. Bản dịch của Tolkien về các phần [Elvish](../E/Elvish.md) được liệt kê bên dưới:<sup id="cite_ref-letter_3-0" class="reference"><a href="#cite_note-letter-3">[3]</a></sup>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Line 2: &#34;May the Halflings live long, glory to the Halflings&#34;<sup id="cite_ref-letter_3-1" class="reference"><a href="#cite_note-letter-3">[3]</a></sup><br/>
@@ -80,7 +80,7 @@ Line 9: &#34;The Ring bearers, bless (or praise) them to the height&#34;<sup id=
 </p>
 </div>
 
-Theo chính Tolkien, bài hát này đánh dấu điểm [thảm họa](../E/Eucatastrophe.md) trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, khiến anh rơi nước mắt khi viết nó.<sup id="cite_ref-miltonwaldman_4-0" class="reference"><a href="#cite_note-miltonwaldman-4">[4]</a></sup>
+Theo chính Tolkien, bài hát này đánh dấu điểm [thảm họa](../E/Eucatastrophe.md) trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, khiến ông rơi nước mắt khi viết nó.<sup id="cite_ref-miltonwaldman_4-0" class="reference"><a href="#cite_note-miltonwaldman-4">[4]</a></sup>
 
 <span></span>
 

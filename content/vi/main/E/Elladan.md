@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elladan and Elrohir"
 ---
 
-Chuyển hướng đến [Elladan và Elrohir](Elladan_and_Elrohir.md).
+Chuyển hướng tới [Elladan và Elrohir](Elladan_and_Elrohir.md).

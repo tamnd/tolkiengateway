@@ -15,7 +15,7 @@ categories:
 
 <i><b>karakse</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "hàng rào gai lởm chởm".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
-Có ý kiến ​​​​cho rằng cách viết chính quy của *karakse* theo kiểu Quenya được sử dụng trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* sẽ mang lại dạng *caraxë*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Có ý kiến ​​​​cho rằng cách viết chính quy của *karakse* theo phong cách Quenya được sử dụng trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* sẽ mang lại dạng *caraxë*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

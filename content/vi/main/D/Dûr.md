@@ -15,11 +15,11 @@ sort_keys:
   "Sindarin adjectives": "Dur"
 ---
 
-<i><b>dûr</b></i> (số nhiều *duir*)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một [Sindarin](../S/Sindarin.md) tính từ có nghĩa là "tối tăm, u ám".<sup id="cite_ref-Ety354_2-0" class="reference"><a href="#cite_note-Ety354-2">[2]</a></sup><sup id="cite_ref-App_3-0" class="reference"><a href="#cite_note-App-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+<i><b>dûr</b></i> (số nhiều *duir*)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là tính từ [Sindarin](../S/Sindarin.md) có nghĩa là "tối tăm, u ám".<sup id="cite_ref-Ety354_2-0" class="reference"><a href="#cite_note-Ety354-2">[2]</a></sup><sup id="cite_ref-App_3-0" class="reference"><a href="#cite_note-App-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-- [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=DO%C6%B7&amp;action=edit&amp;redlink=1" title="DOƷ (page does not exist)">DOƷ</a><sup id="cite_ref-Ety354_2-1" class="reference"><a href="#cite_note-Ety354-2">[2]</a></sup>
+- [Elvish](../E/Elvish.md) [root](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=DO%C6%B7&amp;action=edit&amp;redlink=1" title="DOƷ (page does not exist)">DOƷ</a><sup id="cite_ref-Ety354_2-1" class="reference"><a href="#cite_note-Ety354-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 

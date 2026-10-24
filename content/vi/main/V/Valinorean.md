@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valinorean Quenya"
 ---
 
-Chuyển hướng đến [Valinorean Quenya](Valinorean_Quenya.md).
+Chuyển hướng tới [Valinorean Quenya](Valinorean_Quenya.md).

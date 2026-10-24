@@ -29,11 +29,11 @@ infobox:
 
 ## Từ nguyên {#Etymology}
 
-Tên *Fuiyáro* là [Qenya](../Q/Qenya.md), có thể là bản dịch theo nghĩa đen của "nighthade". Thành phần của nó có lẽ liên quan đến các yếu tố *Fui*/*hui* ("sương mù, bóng tối, âm u, đêm") + *yaru*/*yara* ("u ám, tàn lụi"). Tên của loài hoa [Gnomish](../G/Gnomish.md) là <i><b>Fuior</b></i>.<sup id="cite_ref-PE15_1-1" class="reference"><a href="#cite_note-PE15-1">[1]</a></sup>
+Tên *Fuiyáro* là [Qenya](../Q/Qenya.md), có thể là bản dịch theo nghĩa đen của "nighthade". Thành phần của nó có lẽ liên quan đến các yếu tố *Fui*/*hui* ("sương mù, bóng tối, âm u, đêm") + *yaru*/*yara* ("u ám, tàn lụi"). Tên [Gnomish](../G/Gnomish.md) của loài hoa là <i><b>Fuior</b></i>.<sup id="cite_ref-PE15_1-1" class="reference"><a href="#cite_note-PE15-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-[Patrick H. Wynne](../P/Patrick_H._Wynne.md) đã xác định bông hoa đó là <a class="extiw" href="http://en.wikipedia.org/wiki/Atropa_belladonna" title="wikipedia:Atropa belladonna"><i>Atropa belladonna</i></a>.<sup id="cite_ref-PE15_1-2" class="reference"><a href="#cite_note-PE15-1">[1]</a></sup> <span></span>
+[Patrick H. Wynne](../P/Patrick_H._Wynne.md) đã xác định được bông hoa đó là <a class="extiw" href="http://en.wikipedia.org/wiki/Atropa_belladonna" title="wikipedia:Atropa belladonna"><i>Atropa belladonna</i></a>.<sup id="cite_ref-PE15_1-2" class="reference"><a href="#cite_note-PE15-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

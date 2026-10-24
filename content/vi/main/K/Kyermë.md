@@ -21,13 +21,13 @@ sort_keys:
 
 Từ nguyên không được biết đến. Hình thức của từ sẽ gợi ý một [PQ](../P/PQ.md) [Gốc](../S/Sundocarmë.md) \*KJER và danh từ kết thúc *[-më](../_/-më.md)*.
 
-Từ này là từ duy nhất trong Quenya hiển thị âm thanh đặc biệt *ky*. Có ý kiến ​​cho rằng đó là một phương ngữ [Númenorean](../N/Númenor.md) của Quenya hoặc đó là cách đọc sai của *hy* (xem thêm <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hyam&amp;action=edit&amp;redlink=1" title="Hyam (page does not exist)">hyam</a></i>).
+Từ này là từ duy nhất ở Quenya có âm thanh đặc biệt *ky*. Có ý kiến ​​cho rằng đó là một phương ngữ [Númenorean](../N/Númenor.md) của Quenya hoặc đó là cách đọc sai của *hy* (xem thêm <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hyam&amp;action=edit&amp;redlink=1" title="Hyam (page does not exist)">hyam</a></i>).
 
-Trong mọi trường hợp, âm vị học Quenya truyền thống cấm sự tồn tại của *ky* (đã hợp nhất nó với *ty* ngay cả trước khi [Rúmil](<../R/Rúmil_(elf_of_Tirion).md>) phát minh ra [sarati](../S/Sarati.md)), vì vậy ngay cả khi [Dúnedain](../D/Dúnedain.md) sử dụng nó, chắc chắn [Vanyar](../V/Vanyar.md) hoặc [Noldor](../N/Noldor.md) đã từng làm như vậy.
+Trong bất kỳ trường hợp nào, âm vị học Quenya truyền thống cấm sự tồn tại của *ky* (đã hợp nhất nó với *ty* ngay cả trước khi [Rúmil](<../R/Rúmil_(elf_of_Tirion).md>) phát minh ra [sarati](../S/Sarati.md)), vì vậy ngay cả khi [Dúnedain](../D/Dúnedain.md) sử dụng nó, chắc chắn [Vanyar](../V/Vanyar.md) hoặc [Noldor](../N/Noldor.md) đã từng làm điều đó.
 
 ## Ví dụ {#Examples}
 
-- [Eru **kyermë**](../E/Erukyermë.md): "Cầu nguyện tới [Eru](../I/Ilúvatar.md)"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Eru**kyermë**](../E/Erukyermë.md): "Cầu nguyện cho [Eru](../I/Ilúvatar.md)"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

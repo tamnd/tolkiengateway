@@ -25,7 +25,7 @@ categories:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Sindarin](Sindarin.md) *[sevin](Sevin.md)*
+- [Tiếng Sindarin](Sindarin.md) *[sevin](Sevin.md)*
 
 <span></span>
 

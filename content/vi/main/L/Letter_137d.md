@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong thư gửi <a class="extiw" href="http://en.wikipedia.org/wiki/P._H._Newby" title="wikipedia:P. H. Newby">P. H. Newby</a> của [BBC](../B/BBC.md), Tolkien hỏi về khả năng phát sóng bản dịch *[Sir Gawain and the Green Knight](<../S/Sir_Gawain_and_the_Green_Knight_(edition).md>)*của mình. Anh ấy đề cập rằng trước đây anh ấy đã gửi một bản thảo chưa hoàn chỉnh, bản thảo này đã được đón nhận nồng nhiệt nhưng đã bị gián đoạn do hạn chế về thời gian.
+Trong một bức thư gửi <a class="extiw" href="http://en.wikipedia.org/wiki/P._H._Newby" title="wikipedia:P. H. Newby">P. H. Newby</a> của [BBC](../B/BBC.md), Tolkien hỏi về khả năng phát sóng bản dịch *[Sir Gawain and the Green Knight](<../S/Sir_Gawain_and_the_Green_Knight_(edition).md>)*của mình. Ông đề cập rằng trước đây ông đã gửi một bản thảo chưa hoàn chỉnh, bản thảo này đã được đón nhận nồng nhiệt nhưng đã bị gián đoạn do hạn chế về thời gian.
 
 Bây giờ, sau khi hoàn thành bản dịch và nhận được phản hồi tích cực từ việc trình bày [W.P. Ker Bài giảng](../W/W.P._Ker_Lecture.md) ở Glasgow, Tolkien đề nghị gửi bản dịch đầy đủ để được xem xét. Ông gợi ý rằng chương trình phát sóng có thể bao gồm việc lựa chọn văn bản phù hợp cùng với những nhận xét và nhận xét giới thiệu ngắn gọn, phi kỹ thuật, đảm bảo rằng tài liệu có giá trị riêng đối với khán giả. <br>
 

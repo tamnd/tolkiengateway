@@ -16,7 +16,7 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-<i><b>pharaz</b></i> là từ [Adûnaic](../A/Adûnaic.md) có nghĩa là "[vàng](../G/Gold.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>pharaz</b></i> là một từ [Adûnaic](../A/Adûnaic.md) có nghĩa là "[vàng](../G/Gold.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Ví dụ {#Examples}
 
@@ -24,7 +24,7 @@ hidden_categories:
 
 ## Từ nguyên {#Etymology}
 
-Sự tương đồng với từ [Khuzdul](../K/Khuzdul.md) *[baraz](../B/Baraz.md)* "đỏ" đã được ghi nhận; có thể *pharaz* đại diện cho một từ mượn cổ [Mannish](../M/Mannish.md) từ [Người Lùn](../D/Dwarves.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <span></span>
+Sự tương đồng với từ [Khuzdul](../K/Khuzdul.md) *[baraz](../B/Baraz.md)* "đỏ" đã được ghi nhận; có thể *pharaz* đại diện cho một từ mượn cổ [Mannish](../M/Mannish.md) từ [Người lùn](../D/Dwarves.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

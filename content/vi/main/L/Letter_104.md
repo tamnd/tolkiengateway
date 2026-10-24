@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Lần đầu tiên Tolkien ăn tối tại chiếc bàn cao <a class="extiw" href="http://en.wikipedia.org/wiki/Merton_College,_Oxford" title="wikipedia:Merton College, Oxford">Merton</a>, một nơi rất dễ chịu nhưng kỳ quặc. Những người già gặp nhau, trò chuyện vui vẻ, và khi đã có đủ người thì ân sủng được nói ra. Sau đó họ ngồi, ăn tối, uống rượu port, uống cà phê, hút thuốc và đọc báo. Tất cả đều thân mật một cách dễ chịu nhưng lại gây sốc đối với một người đã quen với các nghi lễ nghiêm ngặt hơn và những quy định nghiêm ngặt của thời trung cổ <a class="extiw" href="http://en.wikipedia.org/wiki/Pembroke_College,_Oxford" title="wikipedia:Pembroke College, Oxford">Pembroke</a>. <br>
+Lần đầu tiên Tolkien dùng bữa tại chiếc bàn cao <a class="extiw" href="http://en.wikipedia.org/wiki/Merton_College,_Oxford" title="wikipedia:Merton College, Oxford">Merton</a>, một nơi rất dễ chịu nhưng kỳ quặc. Những người già gặp nhau, trò chuyện vui vẻ, và khi đã có đủ người thì ân sủng được nói ra. Sau đó họ ngồi, ăn tối, uống rượu port, uống cà phê, hút thuốc và đọc báo. Tất cả đều thân mật một cách dễ chịu nhưng lại gây sốc đối với một người đã quen với các nghi lễ nghiêm ngặt hơn và những quy định nghiêm ngặt của thời trung cổ <a class="extiw" href="http://en.wikipedia.org/wiki/Pembroke_College,_Oxford" title="wikipedia:Pembroke College, Oxford">Pembroke</a>. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

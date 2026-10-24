@@ -42,12 +42,12 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen218.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b2/AmonHen218.jpg/320px-AmonHen218.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b2/AmonHen218.jpg/480px-AmonHen218.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b2/AmonHen218.jpg/640px-AmonHen218.jpg 2x" data-file-width="3207" data-file-height="4538"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 218</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Mike Johnson</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../J/July.md" title="July">July</a> <a href="../_/2009.md" title="2009">2009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">36</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_217.md" title="Amon Hen 217">Amon Hen 217</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_219.md" title="Amon Hen 219">Amon Hen 219</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 218</b> là số thứ hai trăm mười tám của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 7](../J/July.md) [2009](../_/2009.md).
+<b><i>Amon Hen</i> 218</b> là số thứ hai trăm mười tám của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 7](../J/July.md) [2009](../_/2009.md).
 
 ## Nội dung {#Contents}
 
 - [Bìa: *Galadriel*](../../file/A/AmonHen218.jpg.md)
-    - Bởi: Mike Austin Johnsnon
+    - Bởi: Mike Johsnon
 - Biên tập
     - Bởi: [Andrew Butler](Andrew_Butler.md)
 - Nội dung
@@ -63,7 +63,7 @@ infobox:
 - Tác phẩm nghệ thuật: *[Bilbo Baggins](../B/Bilbo_Baggins.md) and [Gandalf](../G/Gandalf.md)*
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
 - Thông báo Oxonmoot
-- Cái [Hall of Fire](../H/Hall_of_Fire.md)
+- [Sảnh lửa](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Kẻ tái phạm
     - Bởi: Jeff Stevenson
@@ -74,13 +74,13 @@ infobox:
 - Thư
 - Đánh giá: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=J.R.R._Tolkien:_The_Books,_The_Films,_The_Whole_Cultural_Phenomenon&amp;action=edit&amp;redlink=1" title="J.R.R. Tolkien: The Books, The Films, The Whole Cultural Phenomenon (page does not exist)">J.R.R. Tolkien - Sách, Phim...</a></i>
     - Bởi: Carol Brownlow
-- Đánh giá: Nhiệm vụ anh hùng của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien%27s_Heroic_Quest&amp;action=edit&amp;redlink=1" title="Tolkien&#39;s Heroic Quest (page does not exist)">Tolkien</a></i>
+- Đánh giá: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien%27s_Heroic_Quest&amp;action=edit&amp;redlink=1" title="Tolkien&#39;s Heroic Quest (page does not exist)">Nhiệm vụ anh hùng của Tolkien</a></i>
     - Bởi: Lynn Forest-Hill
 - Tin tức từ [Fangorn](../F/Fangorn_Forest.md)
     - Bởi: Carol Brownlow
 - [Toán học](../M/Mathoms.md)
     - Bởi: Anne Forbes
-- Sự kiện sắp tới của ITF
+- ITF Sự kiện sắp tới
     - Bởi: Susan Frances Edwards \~ Tuilinde
 - Vòng quanh thế giới trong 80 xã hội (?)
     - [Hội thần thoại](../T/The_Mythopoeic_Society.md)

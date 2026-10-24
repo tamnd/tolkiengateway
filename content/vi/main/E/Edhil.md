@@ -13,11 +13,11 @@ categories:
   - "Sindarin demonyms"
 ---
 
-**Edhil** (hát. **Edhel**) là một từ [Sindarin](../S/Sindarin.md) đề cập đến [Tiên tộc](Elves.md) người đã khởi hành trên [Đại Hành Trình](../G/Great_Journey.md), một dạng tương đương trực tiếp của dạng phổ biến, [Eldar](Eldar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Edhil** (sing. **Edhel**) là một từ [Sindarin](../S/Sindarin.md) đề cập đến [Yêu tinh](Elves.md) đã bắt đầu [Hành trình vĩ đại](../G/Great_Journey.md), tương đương trực tiếp với dạng thông thường, [Eldar](Eldar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Ngoài ra còn có dạng số nhiều lớp **Eldrim** hoặc **Elrim** (trong đó *ll-r* ở tiếp xúc phụ > *ldr*, sau này lại được đơn giản hóa), cũng như các dạng số ít nam tính và nữ tính **Ellon** và **Elleth** tương ứng.<sup id="cite_ref-Q&amp;E_2-0" class="reference"><a href="#cite_note-Q&amp;E-2">[2]</a></sup>
 
-Những [Sindar](../S/Sindar.md), những người vẫn ở lại [Beleriand](../B/Beleriand.md) và do đó đã không hoàn thành Cuộc hành trình, đã áp dụng cái tên này cho chính mình như một sự mô tả về toàn thể người dân của họ. Ngược lại, [những người Tiên tộc](../C/Calaquendi.md), những người cuối cùng đã hoàn thành Hành trình và cuối cùng định cư ở [Cõi Phúc lành](../A/Aman.md), được gọi là **Ódhil** (hát. **Ódhel**).<sup id="cite_ref-Q&amp;E_2-1" class="reference"><a href="#cite_note-Q&amp;E-2">[2]</a></sup>
+[Sindar](../S/Sindar.md), những người vẫn ở lại [Beleriand](../B/Beleriand.md) và do đó đã không hoàn thành Cuộc hành trình, đã áp dụng cái tên này cho chính mình như một sự mô tả về toàn thể người dân của họ. Ngược lại, [những Yêu tinh đó](../C/Calaquendi.md), những người cuối cùng đã hoàn thành Hành trình và cuối cùng định cư ở [Cõi Phúc lành](../A/Aman.md), được gọi là **Ódhil** (hát. **Ódhel**).<sup id="cite_ref-Q&amp;E_2-1" class="reference"><a href="#cite_note-Q&amp;E-2">[2]</a></sup>
 
 <span></span>
 

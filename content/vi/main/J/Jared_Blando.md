@@ -28,7 +28,7 @@ infobox:
 
 **Jared Blando** là một nghệ sĩ người Mỹ đã minh họa bản đồ được sử dụng trong *[The Lord of the Rings: Fate of the Fellowship](../T/The_Lord_of_the_Rings%253A_Fate_of_the_Fellowship.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Anh được giao nhiệm vụ minh họa bản đồ cho *[The One Ring – The Lord of the Rings Roleplaying Game](../T/The_One_Ring_–_The_Lord_of_the_Rings_Roleplaying_Game.md)*chưa phát hành và sau đó anh đã bán độc lập.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Anh được giao nhiệm vụ minh họa bản đồ cho *[The One Ring – The Lord of the Rings Roleplaying Game](../T/The_One_Ring_–_The_Lord_of_the_Rings_Roleplaying_Game.md)* chưa phát hành và sau đó anh đã bán độc lập.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

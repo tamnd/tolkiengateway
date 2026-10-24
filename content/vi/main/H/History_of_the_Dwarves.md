@@ -11,4 +11,4 @@ redirect_target: "Dwarves"
 redirect_fragment: "History"
 ---
 
-Chuyển hướng đến [Người Lùn](../D/Dwarves.md#History).
+Chuyển hướng tới [Người lùn](../D/Dwarves.md#History).

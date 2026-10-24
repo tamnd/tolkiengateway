@@ -50,7 +50,7 @@ images:
 <li><a href="The_Earliest_Annals_of_Beleriand.md" title="The Earliest Annals of Beleriand">The Earliest Annals of Beleriand</a></li></ol>
 </td></tr></tbody></table>
 
-** Ambarkanta** là chương thứ năm của *[The Shaping of Middle-earth](The_Shaping_of_Middle-earth.md)*. Chương này bao gồm văn bản "Ambarkanta: Hình dạng của Thế giới" (được gán cho [Rúmil](<../R/Rúmil_(elf_of_Tirion).md>)) và [*Ambarkanta* bản đồ](../A/Ambarkanta_maps.md) liên quan.
+**Ambarkanta** là chương thứ năm của *[The Shaping of Middle-earth](The_Shaping_of_Middle-earth.md)*. Chương này bao gồm nội dung "Ambarkanta: Hình dạng của thế giới" (được gán cho [Rúmil](<../R/Rúmil_(elf_of_Tirion).md>)) và [*Ambarkanta* bản đồ](../A/Ambarkanta_maps.md) liên quan.
 
 Được phát triển vào những năm 1930, theo [Christopher Tolkien](../C/Christopher_Tolkien.md), Ambarkanta đại diện cho "giai đoạn tiếp theo" của vũ trụ học sau thế giới trước đó được mô tả trong *[Book of Lost Tales](../B/Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Interrupted Music: The Making of Tolkien's Mythology"
 ---
 
-Chuyển hướng tới [Âm nhạc gián đoạn: Việc tạo nên thần thoại của Tolkien](Interrupted_Music%253A_The_Making_of_Tolkien's_Mythology.md).
+Chuyển hướng đến [Interrupted Music: The Making of Tolkien's Mythology](Interrupted_Music%253A_The_Making_of_Tolkien's_Mythology.md).

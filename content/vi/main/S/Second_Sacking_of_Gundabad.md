@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sacking of Mount Gundabad"
 ---
 
-Chuyển hướng tới [Sa thải Mount Gundabad](Sacking_of_Mount_Gundabad.md).
+Chuyển hướng đến [Việc cướp phá núi Gundabad](Sacking_of_Mount_Gundabad.md).

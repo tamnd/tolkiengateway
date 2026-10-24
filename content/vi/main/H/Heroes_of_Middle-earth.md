@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: Heroes of Middle-earth"
 ---
 
-Chuyển hướng đến [The Lord of the Rings: Anh hùng Trung Địa](../T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md).
+Chuyển hướng đến [The Lord of the Rings: Heroes of Middle-earth](../T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md).

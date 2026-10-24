@@ -41,9 +41,9 @@ infobox:
 
 <i><b>Pearl</b></i> là phiên bản của bản thảo [tiếng Anh trung cổ](../M/Middle_English.md) <i><a class="extiw" href="http://en.wikipedia.org/wiki/Pearl_(poem)" title="wikipedia:Pearl (poem)">Pearl</a></i>, được biên tập bởi [E.V. Gordon](../E/E.V._Gordon.md). Nó được xuất bản lần đầu tiên trong [1953](../_/1953.md).
 
-Ban đầu *Pearl* dự kiến ​​sẽ được chỉnh sửa bởi [E.V. Gordon](../E/E.V._Gordon.md) và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), giống như họ đã làm với tác phẩm trước đó *[Sir Gawain and the Green Knight](<../S/Sir_Gawain_and_the_Green_Knight_(edition).md>)*. Nhưng Tolkien không thể dành đủ thời gian cho việc đó nên Gordon tiếp tục công việc một mình. Khi ông qua đời vào năm [1938](../_/1938.md), tác phẩm đã gần hoàn thành và vợ ông [I.L. Gordon](../I/I.L._Gordon.md) đã giúp hoàn thành việc biên tập và xuất bản vào [1953](../_/1953.md).
+Ban đầu *Pearl* dự kiến ​​sẽ được chỉnh sửa bởi [E.V. Gordon](../E/E.V._Gordon.md) và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), giống như họ đã làm với tác phẩm trước đó *[Sir Gawain and the Green Knight](<../S/Sir_Gawain_and_the_Green_Knight_(edition).md>)*. Nhưng Tolkien không thể dành đủ thời gian cho việc đó nên Gordon tiếp tục công việc một mình. Khi ông qua đời vào năm [1938](../_/1938.md), tác phẩm đã gần hoàn thành và vợ ông [I.L. Gordon](../I/I.L._Gordon.md) đã giúp hoàn thiện việc biên tập và xuất bản vào [1953](../_/1953.md).
 
-Tuy nhiên, Tolkien đã đóng góp những ghi chú và chỉnh sửa cho cuốn sách, đồng thời cung cấp một phần lời giới thiệu ("Hình thức và Mục đích", trang xi–xix). "Hình thức và Mục đích" đã được in lại dưới dạng phần III của Phần giới thiệu về *[Sir Gawain and the Green Knight, Pearl, and Sir Orfeo](../S/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo.md)* (trang 18–23).
+Tuy nhiên, Tolkien đã đóng góp các ghi chú và chỉnh sửa cho cuốn sách, đồng thời cung cấp một phần lời giới thiệu ("Hình thức và Mục đích", trang xi–xix). "Hình thức và Mục đích" đã được in lại dưới dạng phần III của Phần giới thiệu về *[Sir Gawain and the Green Knight, Pearl, and Sir Orfeo](../S/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo.md)* (trang 18–23).
 
 ## Từ nắp trong {#From_the_inside_flap}
 

@@ -16,11 +16,11 @@ sort_keys:
 
 **ÁNAK** và **NAK** là [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) biểu thị "cắn".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- [Primitive Quendian](../P/Primitive_Quendian.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ank%C4%81&amp;action=edit&amp;redlink=1" title="Ankā (page does not exist)">an-kā</a></i> ("hàm, hàng răng")<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Quendian nguyên thủy](../P/Primitive_Quendian.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ank%C4%81&amp;action=edit&amp;redlink=1" title="Ankā (page does not exist)">an-kā</a></i> ("hàm, hàng răng")<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
     - [Quenya](../Q/Quenya.md): *[anca](../A/Anca.md)*
     - [Noldorin](../N/Noldorin.md) ([Sindarin](../S/Sindarin.md)): *[anc](../A/Anc.md)*
 
-- [Primitive Quendian](../P/Primitive_Quendian.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nakma&amp;action=edit&amp;redlink=1" title="Nakma (page does not exist)">nakma</a></i> ("hàm")
+- [Quendian nguyên thủy](../P/Primitive_Quendian.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nakma&amp;action=edit&amp;redlink=1" title="Nakma (page does not exist)">nakma</a></i> ("hàm")
     - [Quenya](../Q/Quenya.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nangwa&amp;action=edit&amp;redlink=1" title="Nangwa (page does not exist)">nangwa</a></i>
     - [Noldorin](../N/Noldorin.md) ([Sindarin](../S/Sindarin.md)): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Naew&amp;action=edit&amp;redlink=1" title="Naew (page does not exist)">naew</a></i>
 

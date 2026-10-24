@@ -12,21 +12,21 @@ categories:
   - "Roots"
 ---
 
-**KWAR** là một [Common Eldarin](../C/Common_Eldarin.md) [gốc](../S/Sundocarme.md) biểu thị "bóp, siết chặt".<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup><sup id="cite_ref-VT_2-0" class="reference"><a href="#cite_note-VT-2">[2]</a></sup><sup id="cite_ref-PE17_3-0" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
+**KWAR** là một [Eldarin thông thường](../C/Common_Eldarin.md) [gốc](../S/Sundocarme.md) biểu thị "bóp, siết chặt".<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup><sup id="cite_ref-VT_2-0" class="reference"><a href="#cite_note-VT-2">[2]</a></sup><sup id="cite_ref-PE17_3-0" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Primitive Quendian](../P/Primitive_Quendian.md): *[kwāră, kwārē](Kwāra.md)*<sup id="cite_ref-VT_2-1" class="reference"><a href="#cite_note-VT-2">[2]</a></sup><sup id="cite_ref-PE17_3-1" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
+- [Quendian nguyên thủy](../P/Primitive_Quendian.md): *[kwāră, kwārē](Kwāra.md)*<sup id="cite_ref-VT_2-1" class="reference"><a href="#cite_note-VT-2">[2]</a></sup><sup id="cite_ref-PE17_3-1" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
     - Quenya: *[quár, quáre](../Q/Quár.md)*<sup id="cite_ref-VT_2-2" class="reference"><a href="#cite_note-VT-2">[2]</a></sup><sup id="cite_ref-PE17_3-2" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
     - [Telerin](../T/Telerin.md): *[pār](../P/Pār.md)*<sup id="cite_ref-VT_2-3" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
-    - [Sindarin](../S/Sindarin.md): *[paur](../P/Paur.md#Sindarin)*<sup id="cite_ref-VT_2-4" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
+    - [Tiếng Sindarin](../S/Sindarin.md): *[paur](../P/Paur.md#Sindarin)*<sup id="cite_ref-VT_2-4" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
 
 ## Phiên bản khác {#Other_versions}
 
 Trong *[Etymologies](../T/The_Etymologies.md)* xuất hiện từ gốc KWAR, biểu thị "nắm tay, nắm đấm". Trong số các dẫn xuất của nó có:<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 - Quenya: [*qár*, *qáre*](../Q/Quár.md#Other_verions)
-- [Old Noldorin](Kornoldorin.md): *pōre*<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+- [Noldorin già](Kornoldorin.md): *pōre*<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
     - [Noldorin](../N/Noldorin.md) *[paur](../P/Paur.md#Noldorin)*
 
 <span></span>

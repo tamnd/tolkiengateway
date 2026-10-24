@@ -12,31 +12,31 @@ categories:
   - "Mannish"
 ---
 
-**Miền Bắc** đề cập đến ngôn ngữ [Mannish](../M/Mannish.md) hoặc các ngôn ngữ được sử dụng bởi [Người phương Bắc](Northmen.md) của [Rhovanion](../R/Rhovanion.md).
+**Miền Bắc** đề cập đến ngôn ngữ [Mannish](../M/Mannish.md) hoặc các ngôn ngữ được sử dụng bởi [Người miền Bắc](Northmen.md) của [Rhovanion](../R/Rhovanion.md).
 
-Vì Người phương Bắc có quan hệ xa với [Edain](../E/Edain.md) và [người Númenor](Númenóreans.md)nên (các) ngôn ngữ của chúng có các thành phần chung với [Adûnaic](../A/Adûnaic.md) và [Westron](../W/Westron.md).
+Vì người phương Bắc có quan hệ họ hàng xa với [Edain](../E/Edain.md) và [Númenóreans](Númenóreans.md) nên (các) ngôn ngữ của họ có các yếu tố chung với [Adûnaic](../A/Adûnaic.md) và [Westron](../W/Westron.md).
 
 ## Nguồn gốc và lịch sử {#Origins_and_history}
 
-Những người [Con Người](../M/Men.md) đầu tiên di cư <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Phương Tây</a> ở [Kỷ Đệ Nhất](../F/First_Age.md) đã nói ít nhất hai ngôn ngữ. Một điều đã được nhóm phía bắc nói ra, tuy nhiên hầu hết mọi người thuộc [Greater Folk](../H/House_of_Hador.md) của nhóm đó đều ở lại trong khi đi ngang qua [Greenwood the Great](../G/Greenwood_the_Great.md) ở Rhovanion; đó là tổ tiên của Người phương Bắc. Do đó, ngôn ngữ của họ có liên quan đến ngôn ngữ của anh em họ của họ, Edain của [Nhà Beor](../H/House_of_Beor.md) và [Nhà Hador](../H/House_of_Hador.md), những người đã đạt tới [Beleriand](../B/Beleriand.md) vào Phương Tây.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-relations_2-0" class="reference"><a href="#cite_note-relations-2">[2]</a></sup>
+Những [Đàn ông](../M/Men.md) đầu tiên di cư <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Tây</a> vào [Thời đại thứ nhất](../F/First_Age.md) đã nói ít nhất hai ngôn ngữ. Một điều đã được nhóm phía bắc nói ra, tuy nhiên hầu hết mọi người thuộc [Greater Folk](../H/House_of_Hador.md) của nhóm đó đều ở lại trong khi đi ngang qua [Greenwood Đại đế](../G/Greenwood_the_Great.md) ở Rhovanion; đó là tổ tiên của người phương Bắc. Như vậy, ngôn ngữ của họ có liên quan đến ngôn ngữ của những người anh em họ của họ, Edain của [Nhà Beor](../H/House_of_Beor.md) và [Nhà Hador](../H/House_of_Hador.md), những người đã đến [Beleriand](../B/Beleriand.md) ở phía Tây.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-relations_2-0" class="reference"><a href="#cite_note-relations-2">[2]</a></sup>
 
-Những người dân đó có mối quan hệ mật thiết với [Longbeards](../L/Longbeards.md), [Người Lùn](../D/Dwarves.md) chiếm đóng vùng núi đồi xung quanh Rhovanion. Ở [Thời thứ hai](../S/Second_Age.md) họ có sự tôn trọng lẫn nhau và tình bạn nồng ấm, và Longbeards đã áp dụng cách nói của Con Người, giữ ngôn ngữ riêng của họ cho riêng mình.<sup id="cite_ref-relations_2-1" class="reference"><a href="#cite_note-relations-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Người Lùn thậm chí còn đặt tên riêng của họ từ các yếu tố phương Bắc, hoặc thậm chí đặt tên nghe có vẻ phương Bắc.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Phong tục này dường như đã đạt tới [Người Lùn của Moria](../D/Dwarves_of_Moria.md), và ký Người lùn là [Narvi](Narvi.md).
+Những người dân đó có quan hệ mật thiết với [Râu dài](../L/Longbeards.md), [Người lùn](../D/Dwarves.md) chiếm giữ những ngọn núi và ngọn đồi xung quanh Rhovanion. Ở [Kỷ nguyên thứ hai](../S/Second_Age.md) họ có sự tôn trọng lẫn nhau và tình bạn nồng ấm, và những Người Râu Dài đã sử dụng cách nói của Con Người, giữ ngôn ngữ riêng của họ.<sup id="cite_ref-relations_2-1" class="reference"><a href="#cite_note-relations-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Người Lùn thậm chí còn đặt tên riêng của họ từ các yếu tố phương Bắc, hoặc thậm chí là những cái tên bịa đặt nghe có vẻ phương Bắc.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Phong tục này dường như đã đến tai [Người lùn ở Moria](../D/Dwarves_of_Moria.md) và Người lùn ký tên là [Narvi](Narvi.md).
 
-Đến Kỷ Đệ Tam, các vị vua của Gondor đã công nhận tổ tiên chung với Người phương Bắc và ngôn ngữ của họ.<sup id="cite_ref-App_6-0" class="reference"><a href="#cite_note-App-6">[6]</a></sup>
+Đến Thời đại thứ ba, các vị vua của Gondor đã công nhận tổ tiên chung với người phương Bắc và ngôn ngữ của họ.<sup id="cite_ref-App_6-0" class="reference"><a href="#cite_note-App-6">[6]</a></sup>
 
-Vì vị trí sớm nhất được biết đến của Hobbit là Thung lũng Anduin (c. T.A. 1050), nên chúng đã tiếp xúc với Éothéod. Ví dụ, bản thân cái tên Kuduk (Hobbit) được cho là bắt nguồn từ kûd-dûkan phía Bắc (Holbytlan; thợ xây hố). Trong Những ngày lang thang của mình, Hobbit đã giữ lại một số từ đặc biệt từ xa xưa trong phương ngữ của họ, ngay cả sau khi áp dụng Westron.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Vì địa điểm được biết đến sớm nhất của người Hobbit là Thung lũng Anduin (khoảng T.A. 1050), họ có liên hệ với Éothéod. Ví dụ, bản thân cái tên Kuduk (Hobbit) được cho là bắt nguồn từ kûd-dûkan (Holbytlan; thợ xây hố) ở phương Bắc. Trong Những ngày lang thang của họ, người Hobbit đã giữ lại một số từ đặc biệt từ xa xưa trong phương ngữ của họ, ngay cả sau khi áp dụng phương ngữ Westron.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Ngôn ngữ miền Bắc nổi bật là [ngôn ngữ Dale](../L/Language_of_Dale.md); Người Lùn Erebor mang tên bên ngoài bằng ngôn ngữ đó.<sup id="cite_ref-App_6-1" class="reference"><a href="#cite_note-App-6">[6]</a></sup>
+Ngôn ngữ phương Bắc nổi bật là [ngôn ngữ của Dale](../L/Language_of_Dale.md); Người lùn ở Erebor mang tên bên ngoài bằng ngôn ngữ đó.<sup id="cite_ref-App_6-1" class="reference"><a href="#cite_note-App-6">[6]</a></sup>
 
 ## Bản dịch {#Translation}
 
-Vì Westron được hiển thị bằng tiếng Anh hiện đại, nên miền Bắc được hiển thị bằng các ngôn ngữ Đức cổ, chẳng hạn như [Gothic](../G/Gothic.md) (trong trường hợp Người phương Bắc của Rhovanion), [tiếng Anh cổ](../O/Old_English.md) (Éothéod và [Rohirrim](../R/Rohirrim.md)) và [Bắc Âu](Norse.md) ([Dale](../D/Dale.md) và [Esgaroth](../E/Esgaroth.md)).
+Vì Westron được hiển thị bằng tiếng Anh hiện đại, còn miền Bắc được hiển thị bằng các ngôn ngữ Đức cổ, chẳng hạn như [Gothic](../G/Gothic.md) (trong trường hợp Northmen of Rhovanion), [Tiếng Anh cổ](../O/Old_English.md) (Éothéod và [Rohirrim](../R/Rohirrim.md)) và [Norse](Norse.md) ([Dale](../D/Dale.md) và [Esgaroth](../E/Esgaroth.md)).
 
-Nhiều ký tự Người lùn cũng như [Gandalf](../G/Gandalf.md)mang tên Bắc Âu, thể hiện mối liên hệ của chúng với ngôn ngữ Dale. Hầu hết chúng được lấy từ <a class="new" href="https://tolkiengateway.net/w/index.php?title=Dvergatal&amp;action=edit&amp;redlink=1" title="Dvergatal (page does not exist)">Dvergatal</a>, một Bắc Âu cổ liệt kê tên của nhiều người lùn.
+Nhiều nhân vật Người lùn, cũng như [Gandalf](../G/Gandalf.md), mang tên Bắc Âu, thể hiện sự tiếp xúc của họ với ngôn ngữ của Dale. Hầu hết chúng đều được lấy từ <a class="new" href="https://tolkiengateway.net/w/index.php?title=Dvergatal&amp;action=edit&amp;redlink=1" title="Dvergatal (page does not exist)">Dvergatal</a>, một ngôn ngữ Bắc Âu cổ liệt kê tên của nhiều người lùn.
 
 ## Cảm hứng {#Inspiration}
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md) gợi ý rằng "những tên Người lùn trong *The Hobbit* \[từ *[Völuspá](../V/Völuspá.md)*\] đã cung cấp toàn bộ điểm khởi đầu cho các ngôn ngữ Mannish trong Trung Địa".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+[Christopher Tolkien](../C/Christopher_Tolkien.md) gợi ý rằng "những cái tên Người lùn trong *The Hobbit* \[từ *[Völuspá](../V/Völuspá.md)*\] đã cung cấp toàn bộ điểm khởi đầu cho các ngôn ngữ Mannish ở Trung Địa".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 <span></span>
 

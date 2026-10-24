@@ -26,7 +26,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/An_Evening_in_Rivendell.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/55/An_Evening_in_Rivendell.jpg/320px-An_Evening_in_Rivendell.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/55/An_Evening_in_Rivendell.jpg/480px-An_Evening_in_Rivendell.jpg 1.5x, https://tolkiengateway.net/w/images/5/55/An_Evening_in_Rivendell.jpg 2x" data-file-width="492" data-file-height="492"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>An Evening in Rivendell</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Studio album by Tolkien Ensemble</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1997.md" title="1997">1997</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Classical</td></tr><tr><th scope="row" class="tg-infobox-label">Length</th><td class="tg-infobox-data">67:49</td></tr><tr><th scope="row" class="tg-infobox-label">Label</th><td class="tg-infobox-data">ClassicO</td></tr></tbody></table>
 
-<i><b>An Evening in Rivendell</b></i> là album đầu tay của [Tolkien Ensemble](../T/Tolkien_Ensemble.md), phát hành vào [tháng Chín 30](../_/30_September.md), [1997](../_/1997.md). Nó bao gồm các bài hát được sáng tác theo lời bài hát trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)và tạo thành phần đầu tiên của quá trình trở thành một bản diễn giải âm nhạc hoàn chỉnh cho tất cả lời bài hát trong cuốn sách (một dự án đã được cả [Tolkien Estate](../T/Tolkien_Estate.md) và [HarperCollins](../H/HarperCollins.md)phê duyệt).
+<i><b>An Evening in Rivendell</b></i> là album đầu tay của [Tolkien Ensemble](../T/Tolkien_Ensemble.md), phát hành vào [30 tháng 9](../_/30_September.md), [1997](../_/1997.md). Nó bao gồm các bài hát được sáng tác theo lời bài hát trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và tạo thành phần đầu tiên của quá trình trở thành một bản diễn giải âm nhạc hoàn chỉnh cho tất cả lời bài hát trong cuốn sách (một dự án đã được cả [Tolkien Estate](../T/Tolkien_Estate.md) và [HarperCollins](../H/HarperCollins.md) phê duyệt).
 
 Album có ảnh bìa của [Margrethe II của Đan Mạch](../M/Margrethe_II_of_Denmark.md).
 
@@ -34,15 +34,15 @@ Album có ảnh bìa của [Margrethe II của Đan Mạch](../M/Margrethe_II_of
 
 1. "Bài thơ về những chiếc nhẫn"
 2. "[Bài hát đi bộ cũ, Con đường đi mãi](<../T/The_Road_Goes_Ever_On_(song).md>)"
-Bài hát của 3. "Tom Bombadil, Này dol! Merry dol!"
+3. "Bài hát của Tom Bombadil, Này dol! Vui vẻ nhé!"
 4. "Có quán trọ, quán cũ vui vẻ..."
-5. "Bài hát của Beren and Lúthien"
-6. "Galadriel Bài hát của Eldamar, tôi hát về lá"
-7. "Tiên Bài thánh ca tặng Elbereth Gilthoniel, Bạch Tuyết! Bạch Tuyết!"
+5. "Bài hát của Beren và Lúthien"
+6. "Bài ca Eldamar của Galadriel, tôi hát về những chiếc lá"
+7. "Bài thánh ca yêu tinh gửi Elbereth Gilthoniel, Bạch Tuyết! Bạch Tuyết!"
 8. "Ent và vợ Ent"
-Vần điệu của quỷ lùn 9. "Sam"
-10. "Galadriel Bài hát của Eldamar, Ai! Laurië lantar..."
-Bài hát của 11. "Sam trong tòa tháp Orc"
+9. "Vần điệu của gã khổng lồ Sam"
+10. "Bài hát của Eldamar của Galadriel, Ai! Laurië lantar..."
+11. "Bài hát của Sam trong tháp Orc"
 12. "Bài hát xưa, Con đường...,Tái hiện"
 
 <br>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tha Eadigan Saelidan: The Happy Mariners"
 ---
 
-Chuyển hướng tới [Tha Eadigan Saelidan: Những thủy thủ hạnh phúc](Tha_Eadigan_Saelidan%253A_The_Happy_Mariners.md).
+Chuyển hướng đến [Tha Eadigan Saelidan: The Happy Mariners](Tha_Eadigan_Saelidan%253A_The_Happy_Mariners.md).

@@ -32,7 +32,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Được tạo cho [MEP: Tấm gương của Galadriel](../../main/M/MEP%253A_The_Mirror_Of_Galadriel.md).
+Được tạo cho [MEP: The Mirror Of Galadriel](../../main/M/MEP%253A_The_Mirror_Of_Galadriel.md).
 
 ## Giấy phép {#Licensing}
 

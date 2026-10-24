@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fall of Minas Ithil (disambiguation)"
 ---
 
-Chuyển hướng đến [Sự sụp đổ của Minas Ithil (định hướng)](<Fall_of_Minas_Ithil_(disambiguation).md>).
+Chuyển hướng tới [Sự sụp đổ của Minas Ithil (định hướng)](<Fall_of_Minas_Ithil_(disambiguation).md>).

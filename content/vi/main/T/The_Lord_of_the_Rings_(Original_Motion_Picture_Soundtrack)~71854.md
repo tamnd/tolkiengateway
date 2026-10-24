@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings - Original Motion Picture Soundtrack"
 ---
 
-Chuyển hướng tới [The Lord of the Rings - Nhạc phim gốc](The_Lord_of_the_Rings_-_Original_Motion_Picture_Soundtrack.md).
+Chuyển hướng đến [The Lord of the Rings - Original Motion Picture Soundtrack](The_Lord_of_the_Rings_-_Original_Motion_Picture_Soundtrack.md).

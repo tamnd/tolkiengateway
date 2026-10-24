@@ -73,11 +73,11 @@ infobox:
 </tbody></table>
 </div></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Timeline</span></th></tr></tbody></table>
 
-**Hyarmendacil II**, được sinh ra với tên **Vinyarion** ([T.A.](../T/Third_Age.md) [1391](../T/Third_Age_1391.md)<sup id="cite_ref-Elendil_1-0" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup> - [T.A.](../T/Third_Age.md) [1621](../T/Third_Age_1621.md)<sup id="cite_ref-Vinyarion_2-0" class="reference"><a href="#cite_note-Vinyarion-2">[2]</a></sup>), là [Vua Gondor](../K/King_of_Gondor.md)thứ hai mươi bốn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Hyarmendacil II**, sinh ra với tên **Vinyarion** ([T.A.](../T/Third_Age.md) [1391](../T/Third_Age_1391.md)<sup id="cite_ref-Elendil_1-0" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup> - [T.A.](../T/Third_Age.md) [1621](../T/Third_Age_1621.md)<sup id="cite_ref-Vinyarion_2-0" class="reference"><a href="#cite_note-Vinyarion-2">[2]</a></sup>), là [Vua của Gondor](../K/King_of_Gondor.md) thứ hai mươi bốn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Lịch sử {#History}
 
-Vinyarion lên ngôi sau khi cha anh [Aldamir](../A/Aldamir.md) bị giết trong trận chiến với Harad và [Hải tặc Umbar](../C/Corsairs_of_Umbar.md) ở [T.A.](../T/Third_Age.md) [1540](../T/Third_Age_1540.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Mười một năm sau, ở [T.A.](../T/Third_Age.md) [1551](../T/Third_Age_1551.md), anh đã đánh bại Con Người của Harad<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> và lấy tên là Hyarmendacil II<sup id="cite_ref-Vinyarion_2-1" class="reference"><a href="#cite_note-Vinyarion-2">[2]</a></sup>.
+Vinyarion lên ngôi sau khi cha anh [Aldamir](../A/Aldamir.md) bị giết trong trận chiến với Harad và [Corsairs of Umbar](../C/Corsairs_of_Umbar.md) ở [T.A.](../T/Third_Age.md) [1540](../T/Third_Age_1540.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Mười một năm sau, vào [T.A.](../T/Third_Age.md) [1551](../T/Third_Age_1551.md), anh đánh bại Người của Harad<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> và lấy tên là Hyarmendacil II<sup id="cite_ref-Vinyarion_2-1" class="reference"><a href="#cite_note-Vinyarion-2">[2]</a></sup>.
 
 ## Từ nguyên {#Etymology}
 
@@ -101,7 +101,7 @@ Vinyarion lên ngôi sau khi cha anh [Aldamir](../A/Aldamir.md) bị giết tron
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một bản thảo muộn về sau này trở thành Appendix A, có đề cập rằng Vinyarion lấy tên là Hyarmendakil II vào năm 1551 sau chiến thắng vĩ đại trước Harad để trả thù cho cái chết của cha mình là Aldamir.<sup id="cite_ref-Elendil_1-1" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup>
+Trong một bản thảo muộn của phần sau này trở thành Phụ lục A, có đề cập rằng Vinyarion lấy tên là Hyarmendakil II vào năm 1551 sau chiến thắng vĩ đại trước Harad để trả thù cho cái chết của cha mình là Aldamir.<sup id="cite_ref-Elendil_1-1" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup>
 
 <span></span>
 

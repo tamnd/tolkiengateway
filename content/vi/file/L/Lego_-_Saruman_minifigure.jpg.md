@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:LEGO - Saruman.png"
 ---
 
-Chuyển hướng tới [Tệp:LEGO - Saruman.png](LEGO_-_Saruman.png.md).
+Chuyển hướng đến [Tệp:LEGO - Saruman.png](LEGO_-_Saruman.png.md).

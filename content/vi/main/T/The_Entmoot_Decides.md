@@ -41,13 +41,13 @@ infobox:
         52 (extended)</td></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">1:45 (theatrical) <br/>
           1:44 (extended)</td></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data">The <a href="../E/Entmoot.md" title="Entmoot">Entmoot</a> decides not to intervene in wider affairs</td></tr><tr><th scope="row" class="tg-infobox-label">Characters</th><td class="tg-infobox-data"><a class="mw-redirect" href="../M/Merry.md" title="Merry">Merry</a>, <a class="mw-redirect" href="../P/Pippin.md" title="Pippin">Pippin</a>, <a href="Treebeard.md" title="Treebeard">Treebeard</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><i><a href="The_Breach_of_the_Deeping_Wall.md" title="The Breach of the Deeping Wall">The Breach of the Deeping Wall</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><i><a href="The_Retreat_of_the_Hornburg.md" title="The Retreat of the Hornburg">The Retreat of the Hornburg</a></i></td></tr></tbody></table>
 
-** Entmoot Quyết định** là cảnh thứ 41 của *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và cảnh thứ 52 của [*The Lord of the Rings: The Two Towers* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
+**The Entmoot Decisions** là cảnh thứ 41 của *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và cảnh thứ 50 của [*The Lord of the Rings: The Two Towers* (extended edition)](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
 
 ## Tóm tắt {#Synopsis}
 
-[Treebeard](Treebeard.md) nói với [Merry](../M/Merry.md) và [Pippin](../P/Pippin.md) rằng [Ent](../E/Ents.md) sẽ không tham gia vào các cuộc chiến của [Con Người](../M/Men.md), nói rằng *"this is not our war"*. Merry tức giận vì điều này và nói *"Nhưng bạn là một phần của thế giới này! Phải không?!"* Các Ent nhìn nhau có phần khó chịu. Treebeard nhẹ nhàng khen ngợi sự dũng cảm của Merry nhưng nói với anh rằng đã đến lúc anh phải về nhà.
+[Treebeard](Treebeard.md) nói với [Merry](../M/Merry.md) và [Pippin](../P/Pippin.md) rằng [Ent](../E/Ents.md) sẽ không tham gia vào cuộc chiến của [Con người](../M/Men.md), nói rằng *"this is not our war"*. Merry tức giận vì điều này và nói *"Nhưng bạn là một phần của thế giới này! Phải không?!"* Các Ent nhìn nhau có phần khó chịu. Treebeard nhẹ nhàng khen ngợi lòng dũng cảm của Merry nhưng nói với anh rằng đã đến lúc anh phải về nhà.
 
-Merry và Pippin chuẩn bị quay lại [ Shire](The_Shire.md). Pippin phần nào chấp nhận điều này, nói rằng có lẽ họ nên về nhà vì dù sao thì họ cũng có Shire.
+Merry và Pippin chuẩn bị quay trở lại [Shire](The_Shire.md). Pippin phần nào chấp nhận điều này, nói rằng có lẽ họ nên về nhà vì dù sao thì họ cũng có Shire.
 
 <blockquote class="tg-quote noexcerpt">
 <p>The fires of <a href="../I/Isengard.md" title="Isengard">Isengard</a> will spread And the woods of <a href="Tuckborough.md" title="Tuckborough">Tuckborough</a> and <a href="../B/Buckland.md" title="Buckland">Buckland</a> will burn. And... and all that was once green and good in this world will be gone. There won&#39;t be a Shire, Pippin.
@@ -55,6 +55,6 @@ Merry và Pippin chuẩn bị quay lại [ Shire](The_Shire.md). Pippin phần n
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../M/Merry.md" title="Merry">Merry</a></cite></p>
 </blockquote>
 
-Pippin đứng dậy và tiếp nhận lời của Merry.
+Pippin đứng dậy và tiếp thu lời của Merry.
 
 ## Sự khác biệt {#Differences}

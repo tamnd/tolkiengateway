@@ -39,7 +39,7 @@ infobox:
 
 <i><b>Văn học kiếm sĩ và phù thủy: Người tạo ra ảo tưởng anh hùng</b></i> là tập hợp các bài viết của [L. Sprague de Camp](L._Sprague_de_Camp.md).
 
-Chương IX, “Merlin in Tweeds: J.R.R. Tolkien” (dựa trên bài viết “White Pháp sư in Tweeds”, *Fantastic Stories* tháng 11 năm 1976), là phần phân tích văn học về các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Bài viết cũng bao gồm những hồi ức và trích dẫn từ Tolkien được de Camp ghi lại trong chuyến thăm của ông ở [1967](../_/1967.md) (xem trang 243–4).
+Chương IX, “Merlin mặc vải Tweed: J.R.R. Tolkien” (dựa trên bài viết “White Wizard in Tweeds”, *Fantastic Stories* tháng 11 năm 1976), là phần phân tích văn học về các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Bài viết cũng bao gồm những hồi ức và một trích dẫn từ Tolkien được de Camp ghi lại trong chuyến thăm của ông ở [1967](../_/1967.md) (xem trang 243–4).
 
 Phản ứng của Tolkien được mô tả như sau:
 

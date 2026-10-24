@@ -14,7 +14,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>ethir</b></i> là dạng của hai [Sindarin](../S/Sindarin.md) từ (đồng âm) không liên quan với nhau, có nghĩa khác nhau:
+<i><b>ethir</b></i> là dạng của hai từ [Sindarin](../S/Sindarin.md) không liên quan với nhau, có nghĩa khác nhau:
 
 ## Ethir.1 {#Ethir.1}
 
@@ -22,7 +22,7 @@ categories:
 
 ### Từ nguyên {#Etymology}
 
-Nó có nguồn gốc từ [Primitive Quendian](../P/Primitive_Quendian.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Etsiri&amp;action=edit&amp;redlink=1" title="Etsiri (page does not exist)">etsiri</a></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Nó có nguồn gốc từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Etsiri&amp;action=edit&amp;redlink=1" title="Etsiri (page does not exist)">etsiri</a></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Nó có thể được phân tích dưới dạng <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ed&amp;action=edit&amp;redlink=1" title="Ed (page does not exist)">ed</a></i> + *[sîr](../S/Sîr.md)* (*s* giảm xuống *h* vì [sự khoan dung](../L/Lenition.md)).
 
@@ -32,7 +32,7 @@ Có một số tranh cãi về cách phát âm của từ liên quan đến ch�
 
 Một chế độ xem cho rằng nó có thể được xem dưới dạng kết hợp: *ed/et* + *sîr* sẽ kích hoạt độ khoan dung *ed/et* + *hîr*. Nếu giới từ và gốc được hiểu là các thực thể khác nhau thì t/h phải được phát âm riêng (<span title="Pronunciation in IPA" class="IPA">[ˈethir]</span>) (như tiếng Anh "a*t-h*ome").
 
-Một quan điểm khác là PQ *etsiri* được phát triển thành [Old Sindarin](../O/Old_Sindarin.md) \**ett<sup>h</sup>ire*<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> trước khi được đơn giản hóa thành *ethir*. Trong trường hợp đó, cụm PQ *ts* được lấy trực tiếp dưới dạng *th* trong Sindarin. Từ này sẽ được phát âm là <span title="Pronunciation in IPA" class="IPA">[ˈeθir]</span>.
+Một quan điểm khác cho rằng PQ *etsiri* đã phát triển thành [Old Sindarin](../O/Old_Sindarin.md) \**ett<sup>h</sup>ire*<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> trước khi được đơn giản hóa thành *ethir*. Trong trường hợp đó, cụm PQ *ts* được lấy trực tiếp dưới dạng *th* trong Sindarin. Từ này sẽ được phát âm là <span title="Pronunciation in IPA" class="IPA">[ˈeθir]</span>.
 
 ## Ethir.2 {#Ethir.2}
 

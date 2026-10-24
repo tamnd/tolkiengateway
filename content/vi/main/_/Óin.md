@@ -74,35 +74,35 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Francesco_Amadio_-_Oin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a6/Francesco_Amadio_-_Oin.jpg/320px-Francesco_Amadio_-_Oin.jpg" decoding="async" loading="lazy" width="320" height="437" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a6/Francesco_Amadio_-_Oin.jpg/480px-Francesco_Amadio_-_Oin.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a6/Francesco_Amadio_-_Oin.jpg/640px-Francesco_Amadio_-_Oin.jpg 2x" data-file-width="900" data-file-height="1229"/></a><figcaption>&#34;Oin&#34; by <a href="../../category/I/Images_by_Francesco_Amadio.md" title="Category:Images by Francesco Amadio">Francesco Amadio</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../D/Dwarves.md" title="Dwarves">Dwarf</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Óin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="mw-redirect" href="../T/Thorin&#39;s_Halls.md" title="Thorin&#39;s Halls">Thorin&#39;s Halls</a><br/><a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Lonely Mountain</a><br/><a href="../M/Moria.md" title="Moria">Khazad-dûm</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a><br/><a href="../B/Balin&#39;s_folk.md" title="Balin&#39;s folk">Balin&#39;s folk</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../K/Khuzdul.md" title="Khuzdul">Khuzdul</a> and <a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2774.md" title="Third Age 2774">2774</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data">Possibly in or after <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2994.md" title="Third Age 2994">2994</a> (aged 220+)<br/>Possibly in the <a href="../S/Sirannon.md" title="Sirannon">Sirannon</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data"><a href="../H/House_of_Durin.md" title="House of Durin">House of Durin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../G/Gróin.md" title="Gróin">Gróin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="../G/Glóin.md" title="Glóin">Glóin</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male<sup id="cite_ref-An_Unexpected_Party_1-0" class="reference"><a href="#cite_note-An_Unexpected_Party-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Clothing</th><td class="tg-infobox-data">Brown hood<sup id="cite_ref-An_Unexpected_Party_1-1" class="reference"><a href="#cite_note-An_Unexpected_Party-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Óin.md" title="Category:Images of Óin">Images of Óin</a></td></tr></tbody></table>
 
-**Óin** là một trong những [Người Lùn](../D/Dwarves.md) của [đoàn tùy tùng của Thorin](../T/Thorin_and_Company.md) đã lên đường đòi lại [Erebor](../L/Lonely_Mountain.md) từ [Smaug](../S/Smaug.md). Sau đó, anh ta đi theo [Balin](../B/Balin.md) trong nỗ lực xấu số để chiếm lại [Moria](../M/Moria.md).
+**Óin** là một trong những [Người lùn](../D/Dwarves.md) của [công ty của Thorin](../T/Thorin_and_Company.md), người đã lên đường đòi lại [Erebor](../L/Lonely_Mountain.md) từ [Smaug](../S/Smaug.md). Sau đó, ông ta đi theo [Balin](../B/Balin.md) trong một nỗ lực xấu xa nhằm chiếm lại [Moria](../M/Moria.md).
 
 ## Lịch sử {#History}
 
-Óin là con trai của [Gróin](../G/Gróin.md) và anh trai của [Glóin](../G/Glóin.md), cả hai đều là [Gia tộc Durin](../H/House_of_Durin.md).<sup id="cite_ref-Durin_2-0" class="reference"><a href="#cite_note-Durin-2">[2]</a></sup>
+Óin là con trai của [Gróin](../G/Gróin.md) và anh trai của [Glóin](../G/Glóin.md), cả hai đều thuộc [Gia tộc Durin](../H/House_of_Durin.md).<sup id="cite_ref-Durin_2-0" class="reference"><a href="#cite_note-Durin-2">[2]</a></sup>
 
-### Nhiệm vụ của Erebor {#The_Quest_of_Erebor}
+### Cuộc truy tìm Erebor {#The_Quest_of_Erebor}
 
-Óin là một trong năm Người Lùn trong nhóm thứ tư đến [Bag End](../B/Bag_End.md). Anh ta đội chiếc mũ trùm đầu màu nâu.<sup id="cite_ref-An_Unexpected_Party_1-2" class="reference"><a href="#cite_note-An_Unexpected_Party-1">[1]</a></sup>
+Óin là một trong năm Người lùn trong nhóm thứ tư đến [Bag End](../B/Bag_End.md). Ông ta đội chiếc mũ trùm đầu màu nâu.<sup id="cite_ref-An_Unexpected_Party_1-2" class="reference"><a href="#cite_note-An_Unexpected_Party-1">[1]</a></sup>
 
-Óin và Glóin được chú ý nhờ khả năng gây cháy, mặc dù cả hai đều thất bại vào đêm công ty gặp [quỷ lùn](../T/Trolls.md). Trong lúc bực bội, họ bắt đầu cãi vã và cuối cùng là đánh nhau, chính sự việc này đã khiến cả đại đội phải lao tới ngọn lửa nhìn xa trên một ngọn đồi.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Óin và Glóin được chú ý nhờ khả năng bắt lửa, mặc dù cả hai đều thất bại vào đêm đại đội gặp [quỷ lùn](../T/Trolls.md). Trong lúc bực bội, họ bắt đầu cãi vã và cuối cùng là đánh nhau, chính sự việc này đã khiến cả đại đội phải lao tới ngọn lửa nhìn xa trên một ngọn đồi.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Trong trảng cỏ nơi bầy sói tụ tập, Óin là một trong năm Người Lùn đã trèo lên những chiếc ghế khá thoải mái trên một cây thông khổng lồ.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong trảng cỏ nơi bầy sói tụ tập, Óin là một trong năm Người lùn leo lên những chiếc ghế khá thoải mái trên một cây thông khổng lồ.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Khi [Gandalf](../G/Gandalf.md) kể câu chuyện về cuộc phiêu lưu của công ty với [Beorn](../B/Beorn.md), Óin và Glóin là cặp Người Lùn thứ năm xuất hiện.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Khi [Gandalf](../G/Gandalf.md) kể câu chuyện về cuộc phiêu lưu của công ty với [Beorn](../B/Beorn.md), Óin và Glóin là cặp Người lùn thứ năm xuất hiện.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Óin đã chiến đấu và sống sót sau [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md). Anh ấy đã được [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) chia sẻ kho báu của mình và chuyển đến sống ở Erebor.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Óin đã chiến đấu và sống sót sau [Trận chiến của năm đạo quân](../B/Battle_of_Five_Armies.md). Ông ta đã được [Dáin Ironfoot](../D/Dáin_Ironfoot.md) trao cho phần kho báu của mình và định cư ở Erebor.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ### Chuyến thám hiểm tới Moria {#Expedition_to_Moria}
 
-Trong [T.A.](../T/Third_Age.md) [2989](../T/Third_Age_2989.md)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Óin đã theo dõi Balin cùng với một [đại đội](../B/Balin's_folk.md) Người Lùn trong nỗ lực đòi lại các biệt thự cổ [Khazad-dûm](../M/Moria.md) đã bị chiếm giữ bởi [Orc](../O/Orcs.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Lúc đầu, thuộc địa hoạt động tốt, nhưng vào [ngày 10 tháng 11](../N/November_10.md), [2994](../T/Third_Age_2994.md) Balin đã bị giết, và Orc được trả về. Họ chiếm [Cổng Đông](../G/Great_Gates.md)/[Hội trường thứ nhất](../F/First_Hall.md) rồi đến [Hội trường thứ hai](../S/Second_Hall.md) sau một [trận chiến ác liệt](../B/Battle_of_the_Second_Hall.md) mà Óin có thể đã xảy ra.
+Trong [T.A.](../T/Third_Age.md) [2989](../T/Third_Age_2989.md)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Óin đã đi theo Balin cùng với một [đại đội](../B/Balin's_folk.md) Người lùn trong nỗ lực đòi lại những dinh thự cổ xưa của họ ở [Khazad-dûm](../M/Moria.md), nơi bị [Orc](../O/Orcs.md) chiếm đóng.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Lúc đầu, thuộc địa này hoạt động tốt, nhưng vào [ngày 10 tháng 11](../N/November_10.md), [2994](../T/Third_Age_2994.md) Balin đã bị giết và lũ Orc quay trở lại. Họ chiếm [Cổng phía Đông](../G/Great_Gates.md)/[Sảnh thứ nhất](../F/First_Hall.md) rồi đến [Sảnh thứ hai](../S/Second_Hall.md) sau một [trận chiến khốc liệt](../B/Battle_of_the_Second_Hall.md) mà Óin có thể đã tham gia.
 
-Óin đi cùng một nhóm để tìm lối thoát qua [Phương Tây-gate](../D/Doors_of_Durin.md) nhưng họ thấy nước ngập đến cửa và anh ta bị [Người canh gác trong nước](../W/Watcher_in_the_Water.md) bắt giữ. Trong nhóm của anh ta, chỉ có bốn người trở về năm ngày sau khi họ rời đi, và ngay sau đó tất cả những người thuộc địa còn lại đã bị giết trong [trận chiến cuối cùng](../L/Last_stand_of_Balin's_folk.md) ở [Phòng Mazarbul](../C/Chamber_of_Mazarbul.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Óin cùng nhóm tìm cách trốn thoát qua [Cổng phía Tây](../D/Doors_of_Durin.md) nhưng họ tìm thấy nước ngập tới cửa và anh bị [Người canh gác trong nước](../W/Watcher_in_the_Water.md) bắt giữ. Trong nhóm của ông ta, chỉ có bốn người trở về năm ngày sau khi họ rời đi, và ngay sau đó tất cả những người thuộc địa còn lại đều bị giết trong [trận chiến cuối cùng](../L/Last_stand_of_Balin's_folk.md) tại [Phòng Mazarbul](../C/Chamber_of_Mazarbul.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
-Số phận của họ không được người thân biết và sự im lặng của họ phần lớn là lý do tại sao [Glóin](../G/Glóin.md) và [Gimli](../G/Gimli.md) đến [Rivendell](../R/Rivendell.md) vào thời điểm đó để tìm kiếm tin tức từ [Elrond](../E/Elrond.md). Khi [Frodo Baggins](../F/Frodo_Baggins.md) đến Rivendell, Glóin vui mừng kể cho anh ấy nghe về hoạt động của vương quốc người lùn mới được đổi mới. Nhưng khi Frodo hỏi về Óin, Balin và Ori thì mặt Glóin tối sầm lại và nói rằng mình không biết.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+Số phận của họ không được những người bà con của họ biết đến và sự im lặng của họ phần lớn là lý do tại sao [Glóin](../G/Glóin.md) và [Gimli](../G/Gimli.md) đến [Rivendell](../R/Rivendell.md) vào thời điểm đó để tìm kiếm tin tức từ [Elrond](../E/Elrond.md). Khi [Frodo Baggins](../F/Frodo_Baggins.md) đến Rivendell, Glóin vui mừng kể cho ông nghe về hoạt động của vương quốc người lùn mới được đổi mới. Nhưng khi Frodo hỏi về Óin, Balin và Ori, mặt Glóin tối sầm lại và ông nói rằng ông không biết.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Oinn* là một người lùn đến từ *[Dvergatal](../V/Völuspá.md)*. Tên anh ấy có nghĩa là "Nhút nhát".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+*Oinn* là một người lùn đến từ *[Dvergatal](../V/Völuspá.md)*. Tên ông có nghĩa là "Nhút nhát".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -171,21 +171,21 @@ Số phận của họ không được người thân biết và sự im lặng 
 
 ### Phim {#Films}
 
-<b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim 1967)</a>:</b>
+<b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>Người Hobbit</i> (phim 1967)</a>:</b>
 
 <dl><dd>Óin is omitted. <a href="../T/Thorin.md" title="Thorin">Thorin Oakenshield</a> only travels with an unnamed guard and the princess <a href="../M/Mika_Milovana.md" title="Mika Milovana">Mika Milovana</a> of Dale.<sup id="cite_ref-Deitch_12-0" class="reference"><a href="#cite_note-Deitch-12">[12]</a></sup></dd></dl>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>Người Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>No actor is specified for the role of Óin. If he does speak, it is only in unison with rest of the Dwarves.</dd></dl>
 
-<b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a>:</b>
+<b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>Người Hobbit</i> (loạt phim)</a>:</b>
 
 <dl><dd>Óin was portrayed by <a href="../J/John_Callen.md" title="John Callen">John Callen</a>.<sup id="cite_ref-PJCasting_13-0" class="reference"><a href="#cite_note-PJCasting-13">[13]</a></sup> A description of Óin in <i>The Hobbit</i> films was released by the studio:</dd></dl>
 
 <dl><dd><blockquote class="tg-quote noexcerpt"></blockquote></dd></dl>
 
-Cùng với anh trai Gloin, Oin là anh em họ xa của Thorin Oakenshield. Là một [Miền Bắc Người lùn](../L/Longbeards.md) dũng cảm, Oin gia nhập [Công ty của Thorin Oakenshield](../T/Thorin_and_Company.md) vì lòng trung thành với người thân của mình và cũng vì anh có một khoản tiền đáng kể đầu tư vào liên doanh. Đọc rất hay với đầu óc ham học hỏi, Oin là người chữa bệnh trong Công ty, thường bôi một loại thuốc mỡ thảo dược do chính mình sáng chế - từ đó được gọi là 'thuốc mỡ' theo tên người tạo ra nó.
+Cùng với anh trai Gloin, Oin là anh em họ xa của Thorin Oakenshield. Là một [Người lùn phương Bắc](../L/Longbeards.md) dũng cảm, Oin gia nhập [Công ty của Thorin Oakenshield](../T/Thorin_and_Company.md) vì lòng trung thành với người thân của mình và cũng vì anh có một khoản tiền đáng kể đầu tư vào liên doanh. Đọc rất hay với đầu óc ham học hỏi, Oin là người chữa bệnh trong Công ty, thường bôi một loại thuốc mỡ thảo dược do chính mình sáng chế - từ đó được gọi là 'thuốc mỡ' theo tên người tạo ra nó.
 
 <p class="tg-quote-footer"><cite><a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros.</a><sup id="cite_ref-HobbitApp_14-0" class="reference"><a href="#cite_note-HobbitApp-14">[14]</a></sup></cite></p>
 
@@ -195,11 +195,11 @@ Cùng với anh trai Gloin, Oin là anh em họ xa của Thorin Oakenshield. Là
 
 ### Loạt đài phát thanh {#Radio_series}
 
-<b>1968: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>The Hobbit</i> (loạt phim phát thanh 1968)</a>:</b>
+<b>1968: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>Người Hobbit</i> (loạt phim phát thanh năm 1968)</a>:</b>
 
 <dl><dd>Óin is portrayed by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Rolf_Lefebvre&amp;action=edit&amp;redlink=1" title="Rolf Lefebvre (page does not exist)">Rolf Lefebvre</a>.</dd></dl>
 
-<b>1979: <a href="../T/The_Hobbit_(1979_radio_series).md" title="The Hobbit (1979 radio series)"><i>The Hobbit</i> (loạt phim phát thanh 1979)</a>:</b>
+<b>1979: <a href="../T/The_Hobbit_(1979_radio_series).md" title="The Hobbit (1979 radio series)"><i>Người Hobbit</i> (loạt phim phát thanh năm 1979)</a>:</b>
 
 <dl><dd>No actor is specified for the role of Óin.</dd></dl>
 
@@ -209,15 +209,15 @@ Cùng với anh trai Gloin, Oin là anh em họ xa của Thorin Oakenshield. Là
 
 ### Trò chơi {#Games}
 
-<b>1982: <a href="../T/The_Hobbit_(1982_video_game).md" title="The Hobbit (1982 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 1982)</a>:</b>
+<b>1982: <a href="../T/The_Hobbit_(1982_video_game).md" title="The Hobbit (1982 video game)"><i>Người Hobbit</i> (trò chơi điện tử năm 1982)</a>:</b>
 
 <dl><dd>Óin is omitted; Thorin is the only companion of the player, <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></dd></dl>
 
-<b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
+<b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>Người Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
 
 <dl><dd>No actor is credited for the role of Óin.</dd></dl>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Óin appears in an extended flashback depicting the <a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Battle of Azanulbizar</a>, in which he fights alongside his father and the rest of <a href="../F/Farin.md" title="Farin">Farin&#39;s</a> kin.</dd>
 <dd>The game took advantage of the exact wording of the <a href="../B/Book_of_Mazarbul.md" title="Book of Mazarbul">Book of Mazarbul</a> and rather than having the <a href="../W/Watcher_in_the_Water.md" title="Watcher in the Water">Watcher in the Water</a> killing Óin outright, it took him to <a class="external text" href="https://lotro-wiki.com/index.php/The_Drowned_Treasury" rel="noreferrer noopener" target="_blank">Ghân-gharâf</a> within the <a class="external text" href="https://lotro-wiki.com/index.php/The_Water-works" rel="noreferrer noopener" target="_blank">Water-works</a> of <a href="../M/Moria.md" title="Moria">Moria</a>. There, Óin discovered the legendary <a href="../M/Mithril.md" title="Mithril">Mithril</a> axe <a class="external text" href="https://lotro-wiki.com/index.php/Zigilburk" rel="noreferrer noopener" target="_blank">Zigilburk</a> and used it to keep the Watcher in the Water at bay until he eventually succumbed to hunger. In the present day, the same happens to <a href="../B/Bofur.md" title="Bofur">Bofur&#39;s</a> grandson <a class="external text" href="https://lotro-wiki.com/index.php/Bróin" rel="noreferrer noopener" target="_blank">Bróin</a> of the <a class="external text" href="https://lotro-wiki.com/index.php/Iron_Garrison" rel="noreferrer noopener" target="_blank">Iron Garrison</a>. Bróin and Zigilburk are eventually discovered by the player, allowing the dwarves to pay proper respect to Óin&#39;s remains.</dd></dl>

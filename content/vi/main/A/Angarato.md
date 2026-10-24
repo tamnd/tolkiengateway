@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angrod"
 ---
 
-Chuyển hướng đến [Angrod](Angrod.md).
+Chuyển hướng tới [Angrod](Angrod.md).

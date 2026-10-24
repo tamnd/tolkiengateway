@@ -51,7 +51,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/W.H._Auden.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b9/W.H._Auden.jpg/281px-W.H._Auden.jpg" decoding="async" loading="lazy" width="281" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b9/W.H._Auden.jpg 1.5x" data-file-width="373" data-file-height="636"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>W.H. Auden</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/21_February.md" title="21 February">February 21</a>, <a href="../_/1907.md" title="1907">1907</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="../_/29_September.md" title="29 September">September 29</a>, <a href="../_/1973.md" title="1973">1973</a></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data">M.A. English language and literature, Christ Church, Oxford</td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Poet</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">England/United States</td></tr></tbody></table>
 
-**Wystan Hugh Auden** ([21 tháng 2](../_/21_February.md) [1907](../_/1907.md) – [29 tháng Chín](../_/29_September.md) [1973](../_/1973.md)), nhà thơ người Mỹ gốc Anh, là bạn lâu năm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và hai người thường xuyên trao đổi thư từ.
+**Wystan Hugh Auden** ([21 tháng 2](../_/21_February.md) [1907](../_/1907.md) – [29 tháng 9](../_/29_September.md) [1973](../_/1973.md)), nhà thơ người Mỹ gốc Anh, là bạn lâu năm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và hai người thường xuyên trao đổi thư từ.
 
 ## Auden và Tolkien {#Auden_and_Tolkien}
 
@@ -61,9 +61,9 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../L/Letter_327.md" title="Letter 327">Letter 327</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Auden đánh giá cao [The Lord of the Rings](../T/The_Lord_of_the_Rings.md), viết trong một bài đánh giá về [The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md) vào năm 1954 rằng cuốn sách là một câu chuyện phiêu lưu thú vị và thế giới của Tolkien có vẻ đáng tin cậy và thực tế: "\[B\]y khi một người đọc xong cuốn sách của mình, người ta sẽ biết lịch sử của Hobbit, Tiên tộc, Người Lùn và phong cảnh nơi chúng sinh sống cũng như biết về tuổi thơ của chính mình."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong Năm 1956, trong bài đánh giá về [The Return of the King](../T/The_Return_of_the_King.md), Auden đã viết:
+Auden đánh giá cao [The Lord of the Rings](../T/The_Lord_of_the_Rings.md), khi viết trong bài đánh giá về [The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md) năm 1954 cả rằng cuốn sách là một câu chuyện phiêu lưu thú vị và thế giới của Tolkien có vẻ đáng tin cậy và thực tế: "\[B\]y khi một người đọc xong cuốn sách của mình, người ta sẽ biết lịch sử của Người Hobbit, Yêu tinh, Người lùn và phong cảnh họ sinh sống cũng như biết về tuổi thơ của chính mình."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong Năm 1956, trong bài phê bình [Sự trở lại của nhà vua](../T/The_Return_of_the_King.md), Auden đã viết:
 
-> Ông. Tolkien đã thành công hoàn toàn hơn bất kỳ nhà văn nào trước đây trong thể loại này trong việc sử dụng các đặc tính truyền thống của Truy tìm, hành trình anh hùng, Vật thể thiêng liêng, sự xung đột giữa Thiện và Ác đồng thời thỏa mãn cảm nhận của chúng ta về hiện thực lịch sử và xã hội. … Đầu tiên, theo hiểu biết của tôi, chưa có nhà văn nào trước đây đã tạo ra một thế giới tưởng tượng và một lịch sử giả tạo một cách chi tiết như vậy. … Nhưng đó là một thế giới của những quy luật dễ hiểu, không phải chỉ là ước muốn; cảm giác của người đọc về cái đáng tin không bao giờ bị vi phạm… Những yêu cầu đặt ra đối với quyền lực của nhà văn trong một sử thi miễn là “The Lord of the Rings” là rất lớn và tăng lên khi câu chuyện tiếp tục - các trận chiến phải trở nên ngoạn mục hơn, các tình huống gay cấn hơn, những cuộc phiêu lưu gay cấn hơn - nhưng tôi chỉ có thể nói rằng Mr. Tolkien đã chứng tỏ mình ngang hàng với họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+> Ông. Tolkien đã thành công hoàn toàn hơn bất kỳ nhà văn nào trước đây trong thể loại này trong việc sử dụng các đặc tính truyền thống của Nhiệm vụ, hành trình anh hùng, Vật thể thần thánh, cuộc xung đột giữa Thiện và Ác đồng thời thỏa mãn ý thức của chúng ta về hiện thực lịch sử và xã hội. … Đầu tiên, theo hiểu biết của tôi, chưa có nhà văn nào trước đây đã tạo ra một thế giới tưởng tượng và một lịch sử giả tạo một cách chi tiết như vậy. … Nhưng đó là một thế giới của những quy luật dễ hiểu, không phải chỉ là ước muốn; cảm giác của người đọc về sự đáng tin cậy không bao giờ bị xâm phạm… Những yêu cầu đặt ra đối với quyền lực của nhà văn trong một sử thi chừng nào “Chúa tể của những chiếc nhẫn” là rất lớn và tăng lên khi câu chuyện tiếp diễn - các trận chiến phải trở nên ngoạn mục hơn, các tình huống gay cấn hơn, những cuộc phiêu lưu gay cấn hơn - nhưng tôi chỉ có thể nói rằng ông Tolkien đã chứng tỏ ngang hàng với họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Vào [1955](../_/1955.md), Auden đã gửi một bản sao tập thơ của mình *[The Shield of Achilles](../L/List_of_books_in_Tolkien's_library.md#The_Shield_of_Achilles)* tới Tolkien.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
@@ -72,19 +72,19 @@ Vào [1955](../_/1955.md), Auden đã gửi một bản sao tập thơ của mì
 ### Sách {#Books}
 
 - [1968](../_/1968.md): *Secondary Worlds: Essays*
-    - \[Tiêu đề cuốn sách được lấy từ bài tiểu luận "[Về những câu chuyện cổ tích](../O/On_Fairy-Stories.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)(xem trang 46)\]<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+    - \[Tiêu đề cuốn sách được lấy từ bài tiểu luận "[Về những câu chuyện cổ tích](../O/On_Fairy-Stories.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) (xem trang 46)\]<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ### Bài viết {#Articles}
 
 - [1954](../_/1954.md): *The New York Times*, ngày 31 tháng 10
-    - "[Anh hùng là Hobbit](../T/The_Hero_Is_a_Hobbit.md)" \[Đánh giá về *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*\]
+    - "[Anh hùng là người Hobbit](../T/The_Hero_Is_a_Hobbit.md)" \[Đánh giá về *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*\]
 - [1956](../_/1956.md): *The New York Times*, ngày 22 tháng 1
     - "[Khi kết thúc nhiệm vụ, chiến thắng](../A/At_the_End_of_the_Quest,_Victory.md)" \[Đánh giá về *[The Return of the King](../T/The_Return_of_the_King.md)*\]
 - [1962](../_/1962.md): *[English and Medieval Studies Presented to J.R.R. Tolkien on the Occasion of his Seventieth Birthday](../E/English_and_Medieval_Studies_Presented_to_J.R.R._Tolkien_on_the_Occasion_of_his_Seventieth_Birthday.md)*
     - "[Bài ca ngắn dành cho một nhà ngữ văn](../A/A_Short_Ode_to_a_Philologist.md)"
-- [1962](../_/1962.md): *The Texas Quarterly*IV
-    - "The Quest Hero" (tái bản trong [*Tolkien và Nhà phê bình: Tiểu luận về J.R.R. Tolkien's* The Lord of the Rings](../T/Tolkien_and_the_Critics.md) (1968) và [*Understanding* The Lord of the Rings: *The Best of Tolkien Criticism*](../U/Understanding_The_Lord_of_the_Rings.md) (2004))
-- [1968](../_/1968.md): *Critical Quarterly*, Tập 10, Số 1-2, trang 138–142.
+- [1962](../_/1962.md): *The Texas Quarterly* IV
+    - "The Quest Hero" (tái bản trong [*Tolkien and the Critics: Essays on J.R.R. Tolkien's* The Lord of the Rings](../T/Tolkien_and_the_Critics.md) (1968) và [*Understanding* Chúa tể của những chiếc nhẫn: *The Best of Tolkien Criticism*](../U/Understanding_The_Lord_of_the_Rings.md) (2004))
+- [1968](../_/1968.md): *Critical Quarterly*, Tập 10, Số 1-2, trang 138–142.
     - "[Thiện và Ác trong *The Lord of the Rings*](../G/Good_and_Evil_in_The_Lord_of_the_Rings.md)"
 
 ### Khác {#Other}

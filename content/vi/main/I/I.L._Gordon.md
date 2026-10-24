@@ -18,9 +18,9 @@ sort_keys:
   "People by name": "Gordon, Ida"
 ---
 
-**Ida Lilian Gordon** (*née* Pickles, sinh. [1907](../_/1907.md) - [26 tháng Chín](../_/26_September.md) [2002](../_/2002.md)) là một học giả và giáo viên tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Manchester" title="wikipedia:University of Manchester">Đại học Manchester</a>. Bà học tại [Đại học Leeds](../U/University_of_Leeds.md) (B.A. danh dự 1928, Tiến sĩ 1930) dưới thời [E.V. Gordon](../E/E.V._Gordon.md), người mà bà kết hôn năm 1930.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ida Lilian Gordon** (*née* Pickles, sinh [1907](../_/1907.md) - [26 tháng 9](../_/26_September.md) [2002](../_/2002.md)) là một học giả và giáo viên tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Manchester" title="wikipedia:University of Manchester">Đại học Manchester</a>. Bà học tại [Đại học Leeds](../U/University_of_Leeds.md) (B.A. danh dự 1928, Tiến sĩ 1930) dưới thời [E.V. Gordon](../E/E.V._Gordon.md), người mà bà kết hôn năm 1930.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong [1960](../_/1960.md), Ida Gordon đã xuất bản *[The Seafarer](<../T/The_Seafarer_(I.L._Gordon).md>)*, một ấn bản của [tiếng Anh cổ bài thơ](<../T/The_Seafarer_(poem).md>). Ấn bản này dựa trên một tác phẩm ban đầu được thực hiện bởi E.V. Gordon và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Trong [1960](../_/1960.md), Ida Gordon đã xuất bản *[The Seafarer](<../T/The_Seafarer_(I.L._Gordon).md>)*, một ấn bản của [bài thơ tiếng Anh cổ](<../T/The_Seafarer_(poem).md>). Ấn bản này dựa trên tác phẩm ban đầu được thực hiện bởi E.V. Gordon và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -63,14 +63,14 @@ Sự kiện xảy ra vào ngày 21 tháng 7
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1920](1920.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được bổ nhiệm làm <a class="extiw" href="http://en.wikipedia.org/wiki/Reader_(academic_rank)" title="wikipedia:Reader (academic rank)">Độc giả</a> môn Tiếng Anh tại [Đại học Leeds](../L/Leeds_University.md).
+- **[1920](1920.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được bổ nhiệm vào <a class="extiw" href="http://en.wikipedia.org/wiki/Reader_(academic_rank)" title="wikipedia:Reader (academic rank)">Độc giả</a> môn Tiếng Anh tại [Đại học Leeds](../L/Leeds_University.md).
 - **[1938](1938.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi A.F. Colborn](<../L/Letter_to_A.F._Colborn_(21_July_1938).md>).
 - **[1946](1946.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 105](../L/Letter_105.md).
 - **[1962](1962.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 239a](../L/Letter_239a.md).
 - **[1965](1965.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 273](../L/Letter_273.md).
 - **[1967](1967.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 296](../L/Letter_296.md).
 - **[1996](1996.md)** – Diễn viên [Wolfe Morris](../W/Wolfe_Morris.md) qua đời.
-- **[1998](1998.md)** – Royal Mail phát hành bộ tem mới "Magical Worlds: Classic Fantasy Books for Children" với tác phẩm nghệ thuật của Peter Malone. Một trong những con tem có tính năng [Bilbo](../B/Bilbo_Baggins.md) và [Smaug](../S/Smaug.md).
+- **[1998](1998.md)** – Royal Mail phát hành bộ tem mới "Magical Worlds: Classic Fantasy Books for Children" với tác phẩm nghệ thuật của Peter Malone. Một trong những con tem có hình [Bilbo](../B/Bilbo_Baggins.md) và [Smaug](../S/Smaug.md).
 - **[2009](2009.md)** – Nghệ sĩ [Heinz Edelmann](../H/Heinz_Edelmann.md) qua đời.
 - **[2011](2011.md)** – *[Light Beyond All Shadow: Religious Experience in Tolkien's Work](../L/Light_Beyond_All_Shadow.md)* được xuất bản.
 - **[2015](2015.md)** – Diễn viên [Theodore Bikel](../T/Theodore_Bikel.md) qua đời.
@@ -78,7 +78,7 @@ Sự kiện xảy ra vào ngày 21 tháng 7
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đoàn rước tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md)
+    - Đoàn tang vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md)

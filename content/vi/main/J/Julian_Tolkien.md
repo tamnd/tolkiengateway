@@ -28,9 +28,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Julian Tolkien**, con trai của [Hilary Tolkien](../H/Hilary_Tolkien.md), là cháu của [J.R.R. Tolkien](J.R.R._Tolkien.md). Ông và vợ Glynis có ba con trai: [Timothy](../T/Tim_Tolkien.md), Nicholas và Stephen.
+**Julian Tolkien**, con trai của [Hilary Tolkien](../H/Hilary_Tolkien.md), là cháu trai của [J.R.R. Tolkien](J.R.R._Tolkien.md). Ông và vợ Glynis có ba con trai: [Timothy](../T/Tim_Tolkien.md), Nicholas và Stephen.
 
-Julian Tolkien đã kể lại rằng chú John Ronald của anh ấy là một "*witty raconteur*" và rằng ông ấy "*nhìn thấy niềm vui trong mọi việc và có những nguyên tắc Cơ đốc giáo mạnh mẽ*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+Julian Tolkien đã kể lại rằng chú John Ronald của ông là một "*witty raconteur*" và ông "*nhìn thấy niềm vui trong mọi việc và có những nguyên tắc Cơ đốc giáo mạnh mẽ*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

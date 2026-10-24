@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Matěj Čadil"
 ---
 
-Chuyển hướng đến [Matěj Čadil](Matěj_Čadil.md).
+Chuyển hướng tới [Matěj Čadil](Matěj_Čadil.md).

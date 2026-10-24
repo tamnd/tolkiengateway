@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mansions of Aulë"
 ---
 
-Chuyển hướng tới [Biệt thự của Aulë](../M/Mansions_of_Aulë.md).
+Chuyển hướng tới [Lâu đài của Aulë](../M/Mansions_of_Aulë.md).

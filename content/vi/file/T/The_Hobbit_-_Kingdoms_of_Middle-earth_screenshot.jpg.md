@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ảnh chụp màn hình trò chơi [The Hobbit: Vương quốc Trung Địa](../../main/T/The_Hobbit%253A_Kingdoms_of_Middle-earth.md).
+Ảnh chụp màn hình từ trò chơi [The Hobbit: Kingdoms of Middle-earth](../../main/T/The_Hobbit%253A_Kingdoms_of_Middle-earth.md).
 
 ## Giấy phép {#Licensing}
 

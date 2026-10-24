@@ -22,13 +22,13 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Christopher_Tolkien_-_Numenore.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/82/Christopher_Tolkien_-_Numenore.png/300px-Christopher_Tolkien_-_Numenore.png" decoding="async" loading="lazy" width="300" height="230" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/82/Christopher_Tolkien_-_Numenore.png/450px-Christopher_Tolkien_-_Numenore.png 1.5x, https://tolkiengateway.net/w/images/thumb/8/82/Christopher_Tolkien_-_Numenore.png/600px-Christopher_Tolkien_-_Numenore.png 2x" data-file-width="1853" data-file-height="1421"/></a><figcaption>The <i>Númenórë</i> map</figcaption></figure>
 
-Bản đồ **Númenórë** xuất hiện trong *[Unfinished Tales](../U/Unfinished_Tales.md)*, mô tả hòn đảo [Númenor](Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Bản đồ **Númenórë** xuất hiện trong *[Unfinished Tales](../U/Unfinished_Tales.md)*, mô tả đảo [Númenor](Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Bản đồ này được [Christopher Tolkien](../C/Christopher_Tolkien.md) vẽ lại từ bản phác thảo duy nhất của Númenor do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thực hiện.<sup id="cite_ref-UT_2-0" class="reference"><a href="#cite_note-UT-2">[2]</a></sup>
+Bản đồ này là bản vẽ lại của [Christopher Tolkien](../C/Christopher_Tolkien.md) từ bản phác thảo duy nhất về Númenor do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thực hiện.<sup id="cite_ref-UT_2-0" class="reference"><a href="#cite_note-UT-2">[2]</a></sup>
 
-Bản đồ phác thảo của Númenor chỉ được xuất bản trong cuốn sách [Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md). Nó bao gồm nơi ẩn náu của *[Almaida](../A/Almaida.md)*, dường như không được đề cập ở nơi nào khác trong [huyền thoại](../L/Legendarium.md).<sup id="cite_ref-UT_2-1" class="reference"><a href="#cite_note-UT-2">[2]</a></sup>
+Bản đồ phác họa Númenor chỉ được xuất bản trong cuốn [Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md). Nó bao gồm nơi ẩn náu của *[Almaida](../A/Almaida.md)*, dường như không được đề cập ở nơi nào khác trong [huyền thoại](../L/Legendarium.md).<sup id="cite_ref-UT_2-1" class="reference"><a href="#cite_note-UT-2">[2]</a></sup>
 
-Trong <i><a class="external text" href="https://tai.tolkienists.org/" rel="noreferrer noopener" target="_blank">Tolkien Chỉ mục nghệ thuật</a>,</i> bản phác thảo tương ứng với mục <i><a class="external text" href="https://tai.tolkienists.org/tai/538/" rel="noreferrer noopener" target="_blank">#538</a></i> và bản đồ được vẽ lại tương ứng với mục <i><a class="external text" href="https://tai.tolkienists.org/tai/544/" rel="noreferrer noopener" target="_blank">#544</a>.</i>
+Trong <i><a class="external text" href="https://tai.tolkienists.org/" rel="noreferrer noopener" target="_blank">Chỉ mục nghệ thuật Tolkien</a>,</i> bản phác thảo tương ứng với mục <i><a class="external text" href="https://tai.tolkienists.org/tai/538/" rel="noreferrer noopener" target="_blank">#538</a></i> và bản đồ được vẽ lại tương ứng với mục <i><a class="external text" href="https://tai.tolkienists.org/tai/544/" rel="noreferrer noopener" target="_blank">#544</a>.</i>
 
 *[The Fall of Númenor](../T/The_Fall_of_Númenor.md)* bao gồm [phiên bản được tô màu](<../../file/N/Númenórë_(colorized).jpeg.md>) của bản đồ này.
 

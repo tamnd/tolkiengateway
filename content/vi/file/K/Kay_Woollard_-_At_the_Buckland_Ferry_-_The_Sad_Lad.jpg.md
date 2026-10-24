@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Tại bến phà Buckland. Chàng Trai Buồn. Khi chúng tôi qua được nửa sông, anh ấy ném bó hoa của mình xuống nước.
+Tại bến phà Buckland. Chàng Trai Buồn. Khi chúng tôi qua được nửa sông, ông ném bó hoa của mình xuống nước.
 
 ## Giấy phép {#Licensing}
 

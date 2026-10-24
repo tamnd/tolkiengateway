@@ -22,7 +22,7 @@ images:
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_The_Angerthas.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f1/J.R.R._Tolkien_-_The_Angerthas.jpg/300px-J.R.R._Tolkien_-_The_Angerthas.jpg" decoding="async" loading="lazy" width="300" height="252" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f1/J.R.R._Tolkien_-_The_Angerthas.jpg/450px-J.R.R._Tolkien_-_The_Angerthas.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f1/J.R.R._Tolkien_-_The_Angerthas.jpg/600px-J.R.R._Tolkien_-_The_Angerthas.jpg 2x" data-file-width="1003" data-file-height="841"/></a><figcaption><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> - The Angerthas tables</figcaption></figure>
 
-**Angerthas** là một thuật ngữ chỉ lối viết [Runic](../R/Runes.md). Có rất nhiều biến thể, nhưng hai dạng chính là [Angerthas Daeron](Angerthas_Daeron.md), được [Tiên tộc](../E/Elves.md) sử dụng để biểu thị [Sindarin](../S/Sindarin.md)và [Angerthas Moria](Angerthas_Moria.md), dạng cổ điển được sử dụng bởi [Người Lùn](../D/Dwarves.md), được phát triển thêm thành [Angerthas Erebor](Angerthas_Erebor.md).<sup id="cite_ref-App_1-0" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
+**Angerthas** là một thuật ngữ chỉ lối viết [Runic](../R/Runes.md). Có rất nhiều biến thể, nhưng hai dạng chính là [Angerthas Daeron](Angerthas_Daeron.md), được [Yêu tinh](../E/Elves.md) sử dụng để đại diện cho [Sindarin](../S/Sindarin.md) và [Angerthas Moria](Angerthas_Moria.md), dạng cổ điển được sử dụng bởi [Người lùn](../D/Dwarves.md), được phát triển thêm thành [Angerthas Erebor](Angerthas_Erebor.md).<sup id="cite_ref-App_1-0" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -31,7 +31,7 @@ images:
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Có khả năng <i>c</i> trong <i>cirth</i> chuyển đổi thành <i>g</i> vì Sindarin <a href="../L/Lenition.md" title="Lenition">lenition</a>.</span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Có khả năng <i>c</i> trong <i>cirth</i> chuyển thành <i>g</i> vì Sindarin <a href="../L/Lenition.md" title="Lenition">lenition</a>.</span>
 </li>
 </ol></div></span>
 

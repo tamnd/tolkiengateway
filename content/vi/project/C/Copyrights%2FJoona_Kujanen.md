@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kujanen, Joona"
 ---
 
-- Joona Kujanen đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Joona_Kujanen.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
-- Ngày: 14 tháng Chín năm 2012
+- Joona Kujanen đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Joona_Kujanen.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Ngày: 14 tháng 9 năm 2012
 - Người dùng đã xin phép qua DeviantArt: [Người dùng:Amroth](https://tolkiengateway.net/wiki/User:Amroth)

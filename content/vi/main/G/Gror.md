@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grór"
 ---
 
-Chuyển hướng đến [Grór](Grór.md).
+Chuyển hướng tới [Grór](Grór.md).

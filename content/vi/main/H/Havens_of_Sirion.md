@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mouths of Sirion"
 ---
 
-Chuyển hướng đến [Cửa sông Sirion](../M/Mouths_of_Sirion.md).
+Chuyển hướng đến [Miệng của Sirion](../M/Mouths_of_Sirion.md).

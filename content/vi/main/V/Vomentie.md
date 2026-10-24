@@ -13,7 +13,7 @@ categories:
   - "Telerin nouns"
 ---
 
-**vomentie** là [Telerin](../T/Telerin.md) cho "cuộc gặp gỡ (của hai người)", cùng nguồn gốc với [Quenya](../Q/Quenya.md) *[omentie](../O/Omentie.md)*.
+**vomentie** là [Telerin](../T/Telerin.md) có nghĩa là "cuộc gặp gỡ (của hai người)", cùng nguồn gốc với [Quenya](../Q/Quenya.md) *[omentie](../O/Omentie.md)*.
 
 Nó chỉ được chứng thực bằng một kết thúc đại từ được thay đổi theo sở hữu cách: [vomentienguo](Vomentienguo.md) "của cuộc gặp gỡ của chúng ta".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

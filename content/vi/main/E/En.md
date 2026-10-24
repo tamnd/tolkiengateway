@@ -13,7 +13,7 @@ categories:
   - "Sindarin articles"
 ---
 
-<i><b>en</b></i> là một mạo từ sở hữu [Sindarin](../S/Sindarin.md), thường có nghĩa là "của".
+<i><b>en</b></i> là mạo từ sở hữu [Sindarin](../S/Sindarin.md), thường có nghĩa là "của".
 
 Nó có thể là sự kết hợp của từ hạn định *i* và *na*, "with, by".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

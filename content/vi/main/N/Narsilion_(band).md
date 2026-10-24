@@ -16,7 +16,7 @@ categories:
   - "Spanish people"
 ---
 
-<i><b>Narsilion</b></i> là một nhóm nhạc dân gian/darkwave/thanh tao [Tây Ban Nha](../S/Spain.md). Âm nhạc của họ có chứa các tham chiếu đến [huyền thoại](../L/Legendarium.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Tên này đề cập đến *[Narsilion](Narsilion.md)*, giáo dân có chức danh được nhắc thoáng qua trong *[The Silmarillion](../T/The_Silmarillion.md)*.
+<i><b>Narsilion</b></i> là một nhóm nhạc dân gian/darkwave/thanh tao [Tây Ban Nha](../S/Spain.md). Âm nhạc của họ có liên quan đến [huyền thoại](../L/Legendarium.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Tên này đề cập đến *[Narsilion](Narsilion.md)*, giáo dân có chức danh được nhắc thoáng qua trong *[The Silmarillion](../T/The_Silmarillion.md)*.
 
 ## Danh sách đĩa {#Discography}
 

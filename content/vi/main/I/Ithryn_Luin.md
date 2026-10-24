@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Blue Wizards"
 ---
 
-Chuyển hướng tới [Xanh lam Pháp sư](../B/Blue_Wizards.md).
+Chuyển hướng đến [Pháp sư xanh](../B/Blue_Wizards.md).

@@ -33,9 +33,9 @@ Tại Allen &amp; Unwin, cô làm việc tại bộ phận về quyền và gi�
 
 Vì ít nhất [1987](../_/1987.md), Alina Dadlez đã làm việc cho hãng thu âm London <a class="extiw" href="http://en.wikipedia.org/wiki/Decca_Records" title="wikipedia:Decca Records">Decca Records</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Alina Dadlez có lẽ là thành viên của <a class="extiw" href="http://en.wikipedia.org/wiki/Polish_Social_and_Cultural_Association" title="wikipedia:Polish Social and Cultural Association">Hiệp hội văn hóa và xã hội Ba Lan</a> (*Polski Ośrodek Społeczno-Kulturalny*) có trụ sở tại London, vì tên của cô ấy có trong danh sách các nhà tài trợ cho hiệp hội này ở [1969](../_/1969.md).<sup id="cite_ref-PO_1-1" class="reference"><a href="#cite_note-PO-1">[1]</a></sup>
+Alina Dadlez có lẽ là thành viên của <a class="extiw" href="http://en.wikipedia.org/wiki/Polish_Social_and_Cultural_Association" title="wikipedia:Polish Social and Cultural Association">Hiệp hội văn hóa và xã hội Ba Lan</a> (*Polski Ośrodek Społeczno-Kulturalny*) có trụ sở tại London, vì tên của bà có trong danh sách các nhà tài trợ cho hiệp hội này ở [1969](../_/1969.md).<sup id="cite_ref-PO_1-1" class="reference"><a href="#cite_note-PO-1">[1]</a></sup>
 
-Alina Dadlez được nhắc đến trong phần ghi nhận *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)*của [Humphrey Carpenter](../H/Humphrey_Carpenter.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Alina Dadlez được nhắc đến trong phần ghi nhận *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)* của [Humphrey Carpenter](../H/Humphrey_Carpenter.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -21,11 +21,11 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Hiệp hội Tolkien Israel** (**עמותת טולקין הישראלית**) là [Tolkien hiệp hội](../T/Tolkien_Societies~67099.md) ở Israel.
+**Hiệp hội Tolkien Israel** (**עמותת טולקין הישראלית**) là [hội Tolkien](../T/Tolkien_Societies~67099.md) ở Israel.
 
 ## Lịch sử {#History}
 
-Hội Tolkien Israel được thành lập vào tháng 4 năm 2004 và tổ chức các cuộc họp định kỳ hàng tháng. Xã hội duy trì một Tolkien Wiki trong tiếng Hebrew tuy nhiên chưa được cập nhật kể từ năm 2019.
+Hiệp hội Tolkien Israel được thành lập vào tháng 4 năm 2004 và tổ chức các cuộc họp định kỳ hàng tháng. Xã hội duy trì Wiki Tolkien bằng tiếng Do Thái, tuy nhiên chưa được cập nhật kể từ năm 2019.
 
 Vào năm 2023, hiệp hội này liệt kê các hoạt động trên trang web mới của mình.
 

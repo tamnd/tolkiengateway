@@ -20,7 +20,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the poem</b>. For the <a href="../S/Sprites.md" title="Sprites">half-fay</a> in the early <a href="../L/Legendarium.md" title="Legendarium">legendarium</a>, see <b><a href="Tinfang_Warble.md" title="Tinfang Warble">Tinfang Warble</a></b>.</div></div>
 
-**Tinfang Warble** là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ở [1914](../_/1914.md) và có thể tìm thấy ở *[The Book of Lost Tales: Part One](The_Book_of_Lost_Tales%253A_Part_One.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bản gốc được viết tại [Oxford](../O/Oxford.md) năm 1914 và được viết lại tại [Leeds](../L/Leeds.md) vào năm 1920-23. Trong [1927](../_/1927.md) nó đã được xuất bản ở dạng được thay đổi thêm, có thể xem bên dưới.
+**Tinfang Warble** là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ở [1914](../_/1914.md) và có thể tìm thấy ở *[The Book of Lost Tales: Part One](The_Book_of_Lost_Tales%253A_Part_One.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Phiên bản gốc được viết tại [Oxford](../O/Oxford.md) năm 1914 và được viết lại tại [Leeds](../L/Leeds.md) vào năm 1920-23. Trong [1927](../_/1927.md) nó đã được xuất bản ở dạng được thay đổi thêm, có thể xem bên dưới.
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -31,11 +31,11 @@ O the hoot of Tinfang Warble!
 </p>
 </div>
 
-Trong phiên bản đầu tiên, Tinfang được gọi là 'yêu tinh', và trong bài phát biểu Gnomish, anh ấy là 'fay'.
+Trong phiên bản đầu tiên, Tinfang được gọi là 'yêu tinh', và trong bài phát biểu của người Gnomish, ông là 'fay'.
 
 ## Xem thêm {#See_also}
 
-- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 - [Trên Đồi Cũ và Xa xôi](../O/Over_Old_Hills_and_Far_Away.md)
 
 <span></span>

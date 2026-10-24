@@ -25,11 +25,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 289c</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a href="../D/Donald_Swann.md" title="Donald Swann">Donald Swann</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/14_October.md" title="14 October">14 October</a> <a href="../_/1966.md" title="1966">1966</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><i><a href="../E/Errantry.md" title="Errantry">Errantry</a></i></td></tr></tbody></table>
 
-**Thư 289c** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
+**Thư 289c** là lá thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
 
 ## Tóm tắt {#Summary}
 
-Tolkien mô tả một bức thư của một người phụ nữ ở Anh hỏi liệu anh có biết nguồn gốc của một số bài thơ mà cô ấy gửi kèm không. Những câu thơ này được trích từ bài thơ của Tolkien *[Errantry](../E/Errantry.md)*Người phụ nữ cho biết bà đã nghe những câu thơ này bằng miệng từ một người bạn. Tolkien đặc biệt quan tâm đến việc truyền khẩu bài thơ. Ông lưu ý rằng từ *sigaldry* đã được lưu giữ trong bài thơ được truyền miệng.
+Tolkien mô tả một bức thư của một người phụ nữ ở Anh hỏi liệu ông có biết nguồn gốc của một số bài thơ mà bà gửi kèm hay không. Những câu thơ này được lấy từ bài thơ của Tolkien *[Errantry](../E/Errantry.md)* Người phụ nữ cho biết cô đã nghe những câu thơ này bằng miệng từ một người bạn. Tolkien đặc biệt quan tâm đến việc truyền miệng bài thơ. Ông lưu ý rằng từ *sigaldry* đã được lưu giữ trong bài thơ được truyền miệng.
 
 Một đoạn trích lớn hơn từ bức thư này có thể được tìm thấy trong *[The Treason of Isengard](../T/The_Treason_of_Isengard.md)*. <br>
 

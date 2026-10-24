@@ -32,19 +32,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien2005SovenirBook.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f3/Tolkien2005SovenirBook.jpg/320px-Tolkien2005SovenirBook.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f3/Tolkien2005SovenirBook.jpg/480px-Tolkien2005SovenirBook.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f3/Tolkien2005SovenirBook.jpg/640px-Tolkien2005SovenirBook.jpg 2x" data-file-width="707" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien 2005 Souvenir Book</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">The Tolkien Society</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Spring <a href="../_/2010.md" title="2010">2010</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">52</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0-9055200-7-0" title="Special:BookSources/978-0-9055200-7-0">978-0-9055200-7-0</a></td></tr></tbody></table>
 
-<i><b>Tolkien Sách lưu niệm năm 2005</b></i> được sản xuất tại [2010](../_/2010.md) bởi [Hội Tolkien](The_Tolkien_Society.md) và gửi đến tất cả những người tham dự hội nghị [Tolkien 2005](Tolkien_2005.md) được tổ chức tại <a class="extiw" href="http://en.wikipedia.org/wiki/Aston_University" title="wikipedia:Aston University">Đại học Aston</a>, [Birmingham](../B/Birmingham.md). Cuốn sách bao gồm các báo cáo và hình ảnh từ sự kiện này cùng với bản sao của 19 bản tin đã được gửi đi.
+<i><b>Sách lưu niệm Tolkien 2005</b></i> được sản xuất tại [2010](../_/2010.md) bởi [Hiệp hội Tolkien](The_Tolkien_Society.md) và gửi đến tất cả những người tham dự hội nghị [Tolkien 2005](Tolkien_2005.md) được tổ chức tại <a class="extiw" href="http://en.wikipedia.org/wiki/Aston_University" title="wikipedia:Aston University">Đại học Aston</a>, [Birmingham](../B/Birmingham.md). Cuốn sách bao gồm các báo cáo và hình ảnh từ sự kiện này cùng với bản sao của 19 bản tin đã được gửi đi.
 
 ## Nội dung {#Contents}
 
 - **Lời khen của Chủ tịch**: "...Một lễ kỷ niệm đáng nhớ..."
     - Bởi: [Chris Crawshaw](../C/Chris_Crawshaw.md)
     - Bao gồm các tin nhắn từ [John Howe](../J/John_Howe.md) và [Brian Sibley](../B/Brian_Sibley.md)
-- **Xuất bản Tolkien 2005**: The Road Goes Ever On
+- **Xuất bản Tolkien 2005**: Con đường vẫn tiếp tục
     - Bởi: Ian Collier
-- **Lễ tân tại nhà Hội đồng**
+- **Lễ đón tiếp tại Nhà Hội đồng**
 - Bản tin 1-5
 - **Lễ khai mạc**
-- **Tolkien Chuyến tham quan huấn luyện viên tháng 8 năm 2005**
+- **Chuyến tham quan của huấn luyện viên Tolkien tháng 8 năm 2005**
     - Bởi: [Bob Blackham](../R/Robert_S._Blackham.md)
 - Bản tin 6-10
 - **Đánh giá**
@@ -57,13 +57,13 @@ infobox:
 - **[Khách](Tolkien_2005.md#Guests)**
 - **Hội thảo kịch**
     - Bởi: <a class="new" href="https://tolkiengateway.net/w/index.php?title=Viv_Wilkes&amp;action=edit&amp;redlink=1" title="Viv Wilkes (page does not exist)">Viv Wilkes</a>
-- Công ty Silmarillion bị giảm
+- Công ty Silmarillion Giảm giá
 - Bản tin 11-15
-- **Chào mừng đến với Lễ hội hoá trang**
+- **Chào mừng đến với Lễ hội hóa trang**
 - Bản tin 16-19
 - Kịch hóa các phần của [bản chuyển thể BBC Radio 4](<The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](The_Lord_of_the_Rings.md)*
-    - Thực hiện bởi: [Hội Tolkien Cambridge](../C/Cambridge_Tolkien_Society.md)
-- Bản tin 20 & 21
+    - Thực hiện bởi: [Hiệp hội Cambridge Tolkien](../C/Cambridge_Tolkien_Society.md)
+- Tin tức phiên bản 20 & 21
 - **Lễ bế mạc**
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">

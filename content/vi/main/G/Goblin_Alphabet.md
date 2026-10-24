@@ -17,11 +17,11 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Goblin_alphabet.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d0/J.R.R._Tolkien_-_Goblin_alphabet.png/250px-J.R.R._Tolkien_-_Goblin_alphabet.png" decoding="async" loading="lazy" width="250" height="392" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d0/J.R.R._Tolkien_-_Goblin_alphabet.png/375px-J.R.R._Tolkien_-_Goblin_alphabet.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/d0/J.R.R._Tolkien_-_Goblin_alphabet.png/500px-J.R.R._Tolkien_-_Goblin_alphabet.png 2x" data-file-width="838" data-file-height="1314"/></a><figcaption>Example of writing using the Goblin Alphabet, reproduced by <a href="../F/Father_Christmas.md" title="Father Christmas">Father Christmas</a>.</figcaption></figure>
 
-**Bảng chữ cái yêu tinh** được phát minh và sử dụng bởi [North Polar Bear](../N/North_Polar_Bear.md), dựa trên các dấu hiệu do [yêu tinh](../O/Orcs.md#Other_writings) của <a class="new" href="https://tolkiengateway.net/w/index.php?title=North_Pole&amp;action=edit&amp;redlink=1" title="North Pole (page does not exist)">Bắc Cực</a>tạo ra.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Bảng chữ cái yêu tinh** được phát minh và sử dụng bởi [Gấu Bắc Cực](../N/North_Polar_Bear.md), dựa trên các dấu hiệu do [yêu tinh](../O/Orcs.md#Other_writings) của <a class="new" href="https://tolkiengateway.net/w/index.php?title=North_Pole&amp;action=edit&amp;redlink=1" title="North Pole (page does not exist)">Bắc Cực</a>tạo ra.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Mô tả {#Description}
 
-[Ông già Noel](../F/Father_Christmas.md) nói rằng Goblin không thể vẽ đẹp, lưu ý rằng họ thích "những hình thù kỳ dị khó chịu".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Ông già Noel](../F/Father_Christmas.md) nói rằng Yêu tinh không thể vẽ đẹp, lưu ý rằng chúng thích "những hình thù kỳ dị khó chịu".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 [Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](../W/Wayne_G._Hammond.md) đã lưu ý rằng bảng chữ cái Goblin là một <a class="extiw" href="http://en.wikipedia.org/wiki/Pictogram" title="wikipedia:Pictogram">hệ thống chữ viết tượng hình</a>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> truyền tải ý nghĩa của nó thông qua sự tương đồng về mặt hình ảnh với các đồ vật. Arden R. Smith đã nhận xét rằng bảng chữ cái Goblin là:
 

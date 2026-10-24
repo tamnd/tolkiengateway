@@ -29,7 +29,7 @@ langlinks:
     url: "https://kontu.wiki/Telumendil"
 ---
 
-**Telumendil** là một trong những chòm sao được đặt làm dấu hiệu trên bầu trời [Arda](../A/Arda.md), được đặt bởi [Varda](../V/Varda.md) trước khi các yêu tinh xuất hiện.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Telumendil** là một trong những chòm sao được đặt làm dấu hiệu trên bầu trời [Arda](../A/Arda.md), được đặt bởi [Varda](../V/Varda.md) trước khi thần tiên xuất hiện.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Snaga (orc of Mordor)"
 ---
 
-Chuyển hướng đến [Snaga (orc của Mordor)](<Snaga_(orc_of_Mordor).md>).
+Chuyển hướng đến [Snaga (orc of Mordor)](<Snaga_(orc_of_Mordor).md>).

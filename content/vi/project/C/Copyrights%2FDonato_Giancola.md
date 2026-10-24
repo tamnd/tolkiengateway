@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Giancola, Donato"
 ---
 
-- [Donato Giancola](../../main/D/Donato_Giancola.md) đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Donato_Giancola.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- [Donato Giancola](../../main/D/Donato_Giancola.md) đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Donato_Giancola.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 23 tháng 12 năm 2011
 - Người dùng đã xin phép qua email: [Người dùng:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

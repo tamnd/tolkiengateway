@@ -39,18 +39,18 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_92.gif.md"><img src="https://tolkiengateway.net/w/images/f/f6/Mythlore_92.gif" decoding="async" loading="lazy" width="225" height="328" class="mw-file-element" data-file-width="225" data-file-height="328"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 92</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Theodore J. Sherman</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Summer/Fall <a href="../_/2004.md" title="2004">2004</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">87</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_91.md" title="Mythlore 91">Mythlore 91</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_93%252F94.md" title="Mythlore 93/94">Mythlore 93/94</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 92</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol24/iss2/" rel="noreferrer noopener" target="_blank">Tập 24, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 92</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol24/iss2/" rel="noreferrer noopener" target="_blank">Tập 24, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Robinson, Karen D. "*His Dark Materials*: Nhìn vào cách giải thích của Pullman về *Paradise Lost*của Milton."
-- Christopher, Joe R. "Ghi chú về Phillida của Charles Williams."
-- Harwood, Larry D. "Lewis's *Screwtape Letters*: Ác quỷ khổ hạnh và vị thần thẩm mỹ."
-- Hannon, Patrice. "*The Lord of the Rings* trong vai Elegy."
-- Williams, Donald T. "Một thế giới rộng lớn hơn: C. S. Lewis về Cơ đốc giáo và Văn học."
-- Croft, Janet Brennan. "'Người trẻ chết, người già héo mòn': J.R.R. Tolkien trong Thế chiến thứ hai."
-- Arnell, Carla A. "Thật quen thuộc nhưng cũng thật kỳ lạ: Những bóng tối huyền thoại thời trung cổ *Gawain* Lãng mạn trong Iris Murdoch *Green Knight*.
+- Robinson, Karen D. "*His Dark Materials*: A Look into Pullman's Interpretation of Milton's *Paradise Lost*."
+- Christopher, Joe R. "A Note on Charles Williams's Phillida."
+- Harwood, Larry D. "Lewis's *Screwtape Letters*: The Ascetic Devil and the Aesthetic God."
+- Hannon, Patrice. "*The Lord of the Rings* as Elegy."
+- Williams, Donald T. "A Larger World: C. S. Lewis on Christianity and Literature."
+- Croft, Janet Brennan. "'The young perish and the old linger, withering': J.R.R. Tolkien on World War II."
+- Arnell, Carla A. "So Familiar, Yet So Strange: Mythic Shadows of the Medieval *Gawain* Romance in Iris Murdoch's *Green Knight*.
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 91</div></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_91.md" title="Mythlore 91">Mythlore 91</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 92</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 93/94</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_93%252F94.md" title="Mythlore 93/94">Mythlore 93/94</a></div></div></div>

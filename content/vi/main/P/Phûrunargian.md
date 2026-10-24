@@ -11,4 +11,4 @@ redirect_target: "Moria"
 redirect_fragment: "Names"
 ---
 
-Chuyển hướng đến [Moria](../M/Moria.md#Names).
+Chuyển hướng tới [Moria](../M/Moria.md#Names).

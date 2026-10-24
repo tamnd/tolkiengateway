@@ -33,7 +33,7 @@ infobox:
 
 <i><b>J.R.R. Tolkien Những người phụ nữ ở Trung địa của Ngài Peter Jackson</b></i> của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Dr_Chris_Barclay&amp;action=edit&amp;redlink=1" title="Dr Chris Barclay (page does not exist)">Tiến sĩ Chris Barclay</a> đưa ra phân tích về các nhân vật nữ trong truyền thuyết của [J.R.R. Tolkien](J.R.R._Tolkien.md) cùng với sự diễn giải lại của họ trong bộ phim [Peter Jackson](../P/Peter_Jackson.md) [sự thích ứng](<../T/The_Lord_of_the_Rings_(film_series).md>). Dựa trên các phương pháp tiếp cận văn học và nghiên cứu điện ảnh, cuốn sách xem xét cách các nhân vật chủ chốt như [Galadriel](../G/Galadriel.md), [Arwen](../A/Arwen.md) & [Éowyn](../_/Éowyn.md) được xây dựng trong văn bản của Tolkien và biến đổi trên màn ảnh, khám phá các chủ đề về cơ quan, giới tính và ý nghĩa tường thuật.
 
-Tác phẩm của Barclay đặt dàn diễn viên nữ mảnh khảnh của Tolkien vào bối cảnh thần thoại, văn hóa và điện ảnh rộng lớn hơn, cho thấy vai trò của họ (mặc dù số lượng tương đối ít) cộng hưởng như thế nào với sức nặng đạo đức, ý nghĩa chủ đề và sức mạnh hình ảnh.
+Tác phẩm của Barclay đặt dàn diễn viên nữ mảnh mai của Tolkien vào bối cảnh thần thoại, văn hóa và điện ảnh rộng lớn hơn, cho thấy vai trò của họ (mặc dù số lượng tương đối ít) cộng hưởng như thế nào với sức nặng đạo đức, ý nghĩa chủ đề và sức mạnh hình ảnh.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 

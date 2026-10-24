@@ -18,7 +18,7 @@ sort_keys:
 
 ## Xem thêm {#See_also}
 
-- [Sindarin](../S/Sindarin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Rh%C3%BA&amp;action=edit&amp;redlink=1" title="Rhú (page does not exist)">rhú</a></i>
+- [tiếng Sindarin](../S/Sindarin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Rh%C3%BA&amp;action=edit&amp;redlink=1" title="Rhú (page does not exist)">rhú</a></i>
 
 <span></span>
 

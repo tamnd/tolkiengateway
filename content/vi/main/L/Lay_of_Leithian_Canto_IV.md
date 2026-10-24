@@ -38,11 +38,11 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Beren&#39;s_Trial.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1b/Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg/250px-Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg" decoding="async" loading="lazy" width="250" height="143" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1b/Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg/375px-Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1b/Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg/500px-Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg 2x" data-file-width="855" data-file-height="490"/></a><figcaption><i>Beren&#39;s Trial</i> by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
 
-[Canto](../C/Cantos_of_the_Lay_of_Leithian.md) này lần đầu tiên nói về [Beren](../B/Beren.md) và niềm hạnh phúc của anh ấy. Sau đó, nó kể về sự trở lại của [Lúthien](Lúthien.md)và buổi khiêu vũ của họ, cũng như việc [Dairon](../D/Daeron.md) đã theo dõi họ như thế nào, và vì yêu Lúthien nên anh ấy đã phản bội họ để theo [Thingol](../T/Thingol.md). Vậy thì Lúthien đã dẫn Beren vào [Menegroth](../M/Menegroth.md) như thế nào sau khi Thingol hứa với cô rằng mạng sống của anh ta sẽ được tha. Tại đó, anh ta yêu cầu bàn tay của Lúthien, và Thingol, vì anh ta bị ràng buộc bởi lời thề không làm hại Beren, trong cơn thịnh nộ, anh ta đã đưa ra giá cô dâu là [Silmaril](../S/Silmarils.md). Sau đó Beren cười như chuyện nhỏ rồi rời khỏi hội trường với lời hứa sẽ mang một người về. Canto thứ tư này có thể được coi là sự khởi đầu thực sự của [Nhiệm vụ](../Q/Quest_for_the_Silmaril.md).
+[Canto](../C/Cantos_of_the_Lay_of_Leithian.md) này lần đầu tiên nói về [Beren](../B/Beren.md) và niềm hạnh phúc của ông. Sau đó, nó kể về sự trở lại của [Lúthien](Lúthien.md) và điệu nhảy của họ, cũng như việc [Dairon](../D/Daeron.md) đã theo dõi họ như thế nào, và vì yêu Lúthien nên ông ta đã phản bội họ để theo [Thingol](../T/Thingol.md). Rồi Lúthien dẫn Beren vào [Menegroth](../M/Menegroth.md) như thế nào sau khi Thingol hứa với cô rằng mạng sống của anh sẽ được tha. Tại đây, ông ta yêu cầu bàn tay của Lúthien, và Thingol, vì ông ta bị ràng buộc bởi lời thề không làm hại Beren, trong cơn thịnh nộ, ông ta đã đưa ra giá cô dâu là [Silmaril](../S/Silmarils.md). Sau đó Beren cười như thể đó là chuyện nhỏ và rời khỏi hội trường với lời hứa sẽ mang một người về. Canto thứ tư này có thể được coi là sự khởi đầu thực sự của [Nhiệm vụ](../Q/Quest_for_the_Silmaril.md).
 
 ## Về Canto {#Concerning_the_Canto}
 
-Canto này bắt đầu bằng một đoạn mô tả tỉ mỉ về niềm hạnh phúc của Beren.
+Canto này bắt đầu bằng một mô tả tỉ mỉ về hạnh phúc của Beren.
 
 <blockquote class="tg-quote noexcerpt">
 <p>He lay upon the leafy mould<br/>
@@ -64,7 +64,7 @@ For fain thy dancing I would see.&#39;
 <p class="tg-quote-footer"><cite>vv. 820-823</cite></p>
 </blockquote>
 
-Sau đó Dairon, người được cho là đã yêu Lúthien, đã theo dõi họ.
+Sau đó Dairon, người được cho là yêu Lúthien, đã theo dõi họ.
 
 <blockquote class="tg-quote noexcerpt">
 <p>Thus fleeting fast their short hour flies,<br/>
@@ -77,7 +77,7 @@ two lovers linked in dancing sweet
 <p class="tg-quote-footer"><cite>vv. 840-845</cite></p>
 </blockquote>
 
-Và đầu tiên anh ta làm phép khiến khu rừng im lặng, đồng thời đưa ra gợi ý cho Thingol về cuộc gặp.
+Và lần đầu tiên ông ta làm phép khiến khu rừng im lặng, đồng thời đưa ra gợi ý cho Thingol về cuộc gặp gỡ.
 
 <blockquote class="tg-quote noexcerpt">
 <p>&#39;but kings see not—though queens, maybe,<br/>
@@ -87,7 +87,7 @@ Where one went lonely two now go!&#39;
 <p class="tg-quote-footer"><cite>vv. 917-919</cite></p>
 </blockquote>
 
-Vua nhanh chóng hiểu ý của anh ta và trở nên tức giận.
+Nhà vua nhanh chóng hiểu ý của ông và trở nên tức giận.
 
 <blockquote class="tg-quote noexcerpt">
 <p>&#39;...Who is he<br/>
@@ -98,7 +98,7 @@ a stranger to both beech and oak?&#39;
 <p class="tg-quote-footer"><cite>vv. 922-925</cite></p>
 </blockquote>
 
-Sau đó Dairon nhìn thấy Lúthien và ước gì mình chưa nói gì. Lúthien nhanh chóng giải thích.
+Sau đó Dairon nhìn thấy Lúthien và ước gì ông ta đừng nói gì. Lúthien nhanh chóng giải thích.
 
 <blockquote class="tg-quote noexcerpt">
 <p>&#39;Far in the mountain-leaguered North,<br/>
@@ -121,7 +121,7 @@ of Beren son of Barahir!&#39;
 <p class="tg-quote-footer"><cite>vv. 942-945</cite></p>
 </blockquote>
 
-Lúthien đã Thingol thề không giết hoặc bỏ tù Beren, rồi dẫn anh ta vào trong Menegroth. Tiếp theo là phần mô tả sống động (xem *[Menegroth](../M/Menegroth.md)*). Beren quá choáng váng để trả lời bất kỳ câu hỏi nào, cho đến khi anh nhìn vào mắt Melian và lấy hết can đảm.
+Lúthien yêu cầu Thingol thề không giết hay bỏ tù Beren, rồi dẫn ông ta đến Menegroth. Tiếp theo là phần mô tả sinh động (xem *[Menegroth](../M/Menegroth.md)*). Beren quá choáng váng để trả lời bất kỳ câu hỏi nào, cho đến khi anh nhìn vào mắt Melian và lấy hết can đảm.
 
 <blockquote class="tg-quote noexcerpt">
 <p>...and thence was slowly drawn his gaze<br/>
@@ -147,7 +147,7 @@ A daughter hast thou, Lúthien.&#39;
 <p class="tg-quote-footer"><cite>vv. 1050-1055</cite></p>
 </blockquote>
 
-Cơn giận ban đầu của Daeron quay trở lại và anh ta đòi tử hình cho Beren. Thingol miễn cưỡng kiềm chế vì lời hứa với con gái, đồng thời dọa sẽ để anh ta lang thang vô định trong Menegroth, không bao giờ tìm được đường ra khỏi hang. Beren công khai so sánh anh ta với Morgoth trong lời tuyên thệ vặn vẹo, và giơ cao [Nhẫn Barahir](../R/Ring_of_Barahir.md). Melian thì thầm với Thingol rằng nó sẽ không rơi vào tay anh Beren sẽ rơi, và Thingol khi đó mới thấy được tình yêu của Lúthien dành cho anh.
+Cơn giận ban đầu của Daeron quay trở lại và ông ta yêu cầu cái chết cho Beren. Thingol miễn cưỡng kiềm chế bản thân vì lời hứa với con gái và đe dọa sẽ để ông ta lang thang vô tận ở Menegroth, không bao giờ tìm được đường ra khỏi hang động. Beren công khai so sánh ông ta với Morgoth trong lời thề và nắm giữ [Chiếc nhẫn của Barahir](../R/Ring_of_Barahir.md). Melian thì thầm với Thingol rằng Beren sẽ không rơi vào tay anh, và Thingol nhận thấy tình yêu của Lúthien dành cho anh.
 
 <blockquote class="tg-quote noexcerpt">
 <p>&#39;Fairest of Elves! Unhappy Men,<br/>
@@ -158,7 +158,7 @@ shall they then look with love on thee?&#39;
 <p class="tg-quote-footer"><cite>vv. 1113-1116</cite></p>
 </blockquote>
 
-Bài phát biểu của Thingol chế giễu chính Beren khi anh đặt ra nhiệm vụ cuối cùng trước mắt mình.
+Bài phát biểu của Thingol chế nhạo bài phát biểu của Beren khi anh đặt ra nhiệm vụ cuối cùng trước mắt.
 
 <blockquote class="tg-quote noexcerpt">
 <p>&#39;A treasure dear I too desire,<br/>
@@ -175,7 +175,7 @@ then shalt thou have this jewel of mine.&#39;
 <p class="tg-quote-footer"><cite>vv. 1122-1131</cite></p>
 </blockquote>
 
-Tiếp theo là một đoạn văn về lịch sử của Silmaril, rồi Beren cười, chào tạm biệt Tinúviel rồi rời đi. Melian sau đó chuyển lời của cô ấy sang Thingol.
+Tiếp theo là một đoạn về lịch sử của Silmaril, sau đó Beren cười và chào tạm biệt Tinúviel rồi rời đi. Melian sau đó đã nói với Thingol.
 
 <blockquote class="tg-quote noexcerpt">
 <p>Then clear in the silence the cold words rang<br/>

@@ -39,4 +39,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Amon Hen** là bài hát thứ mười sáu trong *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md).
+**Amon Hen** là ca khúc thứ mười sáu trong *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md).

@@ -13,7 +13,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**L'assocation La Compagnie de la Comté**, là một [Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) ở Pháp được thành lập vào năm 1996.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Hoạt động cuối cùng được ghi nhận là vào năm 2001.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**L'assocation La Compagnie de la Comté**, là một [Hiệp hội Tolkien](../T/Tolkien_Societies~67099.md) ở Pháp được thành lập vào năm 1996.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Hoạt động cuối cùng được ghi nhận là vào năm 2001.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Thành viên lưu ý {#Members_of_Note}
 

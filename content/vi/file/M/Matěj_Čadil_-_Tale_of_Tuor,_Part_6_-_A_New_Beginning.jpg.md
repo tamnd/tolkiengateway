@@ -31,7 +31,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Câu chuyện [Tuor](../../main/T/Tuor.md), Phần 6: Một khởi đầu mới" của [Matěj Čadil](../../main/M/Matěj_Čadil.md)
+"Câu chuyện về [Tuor](../../main/T/Tuor.md), Phần 6: Một khởi đầu mới" của [Matěj Čadil](../../main/M/Matěj_Čadil.md)
 
 ## Giấy phép {#Licensing}
 

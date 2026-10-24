@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_2012.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/20/Tolkien_Calendar_2012.jpg/320px-Tolkien_Calendar_2012.jpg" decoding="async" loading="lazy" width="320" height="319" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/20/Tolkien_Calendar_2012.jpg/480px-Tolkien_Calendar_2012.jpg 1.5x, https://tolkiengateway.net/w/images/2/20/Tolkien_Calendar_2012.jpg 2x" data-file-width="500" data-file-height="499"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 2012</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../C/Cor_Blok.md" title="Cor Blok">Cor Blok</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1_July.md" title="1 July">1 July</a> <a href="../_/2011.md" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-000-742809-0" title="Special:BookSources/978-000-742809-0">978-000-742809-0</a> (UK)<br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-006-208920-5" title="Special:BookSources/978-006-208920-5">978-006-208920-5</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2011.md" title="Tolkien Calendar 2011">Tolkien Calendar 2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2013.md" title="Tolkien Calendar 2013">Tolkien Calendar 2013</a></td></tr></tbody></table>
 
-Lịch <i><b>Tolkien 2012</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [1 tháng 7](../_/1_July.md) [2011](../_/2011.md). Nó có tác phẩm nghệ thuật của [Cor Blok](../C/Cor_Blok.md) dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
+<i><b>Lịch Tolkien 2012</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [1 tháng 7](../_/1_July.md) [2011](../_/2011.md). Nó có tác phẩm nghệ thuật của [Cor Blok](../C/Cor_Blok.md) dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -51,17 +51,17 @@ Lịch <i><b>Tolkien 2012</b></i> là lịch Tolkien chính thức được xu�
 ## Minh họa {#Illustrations}
 
 - Tháng Giêng - "Isengard"
-- Tháng 2 - "Công ty bị tấn công bởi Sói"
-- Tháng 3 - "Gandalf Kể lại những cuộc phiêu lưu của mình"
-- Tháng 4 - "Tom Bombadil đến giải cứu"
-- Tháng 5 - "Hành trình xuyên Lórien"
-- Tháng 6 - "Đêm 'The Prancing Pony'"
+- Tháng 2 - "Công ty bị sói tấn công"
+- Tháng 3 - "Gandalf kể lại những cuộc phiêu lưu của mình"
+- Tháng 4 - "Tom Bombadil tới giải cứu"
+- Tháng 5 - "Hành trình qua Lórien"
+- Tháng 6 - "Đêm ở 'Ngựa chồm lên'"
 - Tháng 7 - "[Tại Enthouse](../../file/C/Cor_Blok_-_At_the_Enthouse.jpg.md)"
 - Tháng 8 - "Kheled-zâram"
-- tháng Chín - "Cắm trại ở Dunharrow"
-- Tháng 10 - "[Gríma Bị loại bỏ](../../file/C/Cor_Blok_-_Gríma_dismissed.jpg.md)"
+- Tháng 9 - "Cắm trại ở Dunharrow"
+- Tháng 10 - "[Gríma bị sa thải](../../file/C/Cor_Blok_-_Gríma_dismissed.jpg.md)"
 - Tháng 11 - "Những người theo dõi"
-- Tháng 12 - "Sự hủy diệt của Nhẫn"
+- Tháng 12 - "Sự hủy diệt của chiếc nhẫn"
 
 ## Biến thể {#Variants}
 
@@ -82,7 +82,7 @@ Lịch <i><b>Tolkien 2012</b></i> là lịch Tolkien chính thức được xu�
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://tolkiencalendars.com/2012.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 2012</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde tới Tolkien Lịch</a>
+- <a class="external text" href="http://tolkiencalendars.com/2012.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 2012</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

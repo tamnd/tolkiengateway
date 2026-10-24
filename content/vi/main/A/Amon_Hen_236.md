@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen236.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e0/AmonHen236.jpg/320px-AmonHen236.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e0/AmonHen236.jpg/480px-AmonHen236.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e0/AmonHen236.jpg/640px-AmonHen236.jpg 2x" data-file-width="2257" data-file-height="3193"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 236</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/Jef_Murray.md" title="Jef Murray">Jef Murray</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../J/July.md" title="July">July</a> <a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">36</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_235.md" title="Amon Hen 235">Amon Hen 235</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_237.md" title="Amon Hen 237">Amon Hen 237</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 236</b> là số thứ hai trăm ba mươi sáu của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 7](../J/July.md) [2012](../_/2012.md).
+<b><i>Amon Hen</i> 236</b> is the two-hundred-and-thirty-sixth issue of the [The Tolkien Society](../T/The_Tolkien_Society.md)'s bimonthly journal *[Amon Hen](<Amon_Hen_(journal).md>)*, published in [July](../J/July.md) [2012](../_/2012.md).
 
 ## Nội dung {#Contents}
 
@@ -69,12 +69,12 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
     - Bởi: [Jim Allan](../J/Jim_Allan.md)
 - Phía sau cánh cửa kính
     - Bởi: [Alex Lewis](Alex_Lewis.md)
-- Báo cáo: Trung Địa Cuối tuần 2012
+- Báo cáo: Cuối tuần Trung Địa 2012
 - Sự hy sinh của Frodo
     - Bởi: Anne Marie Gazzolo
-- Glorfindel(s), Anh Nhớ Em!
+- Glorfindel(s), Anh nhớ em!
     - Bởi: [Shaun Gunner](../S/Shaun_Gunner.md)
-- Sách của Oxford
+- Sách Oxford
     - Bởi: Mark Bednarowski
 - Tolkien và Kibbo Kift Kindred
     - Bởi: Dale Nelson
@@ -84,12 +84,12 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
     - Bởi: Carol Brownlow
 - Tác phẩm nghệ thuật: *Sam in the Garden*
     - Bởi: Jef Murray
-Đoạn cắt của - Christopher
+- Đoạn cắt của Christopher
     - Bởi: Christopher Kreuzer
 - Thành viên mới
 - Hồ sơ thành viên
     - Bởi: Nora Alfaiz
-- Ngày ghi nhật ký của bạn
+- Ngày cho Nhật ký của bạn
 - Tác phẩm nghệ thuật: *Riddles in the Dark*
     - Bởi: Nick Basi
 - Ủy ban

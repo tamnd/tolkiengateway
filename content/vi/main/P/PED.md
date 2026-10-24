@@ -16,21 +16,21 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Pen</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Pen_(disambiguation).md" title="Pen (disambiguation)">Pen (disambiguation)</a></b>.</div></div>
 
-**PED** là [Common Eldarin](../C/Common_Eldarin.md) [gốc](../S/Sundocarme.md) biểu thị "rơi dốc, nghiêng, dốc, nghiêng xuống".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup><sup id="cite_ref-WJ_2-0" class="reference"><a href="#cite_note-WJ-2">[2]</a></sup>
+**PED** là [Eldarin thông thường](../C/Common_Eldarin.md) [gốc](../S/Sundocarme.md) biểu thị "rơi theo đường dốc nghiêng, nghiêng, dốc, nghiêng xuống".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup><sup id="cite_ref-WJ_2-0" class="reference"><a href="#cite_note-WJ-2">[2]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Sindarin](../S/Sindarin.md): *ped-*<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+- [Tiếng Sindarin](../S/Sindarin.md): *ped-*<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
-- [Common Eldarin](../C/Common_Eldarin.md): *pendā* ("dốc"; "tính từ = 'dốc dốc'")<sup id="cite_ref-PE17_1-2" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup><sup id="cite_ref-WJ_2-1" class="reference"><a href="#cite_note-WJ-2">[2]</a></sup>
-    - [Quenya](../Q/Quenya.md): *penda* ("dốc rất cao"); *penda-* ("động từ yếu 'dốc, nghiêng'")
-    - [Sindarin](../S/Sindarin.md): *[pend, penn](Penn.md#Sindarin)*; *penna-* ("xuống nghiêng, ngã")<sup id="cite_ref-PE17_1-3" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+- [Eldarin thông thường](../C/Common_Eldarin.md): *pendā* ("dốc"; "tính từ = 'dốc dốc'")<sup id="cite_ref-PE17_1-2" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup><sup id="cite_ref-WJ_2-1" class="reference"><a href="#cite_note-WJ-2">[2]</a></sup>
+    - [Quenya](../Q/Quenya.md): *penda* ("dốc mạnh"); *penda-* ("động từ yếu 'dốc, nghiêng'")
+    - [Tiếng Sindarin](../S/Sindarin.md): *[pend, penn](Penn.md#Sindarin)*; *penna-* ("xuống nghiêng, ngã")<sup id="cite_ref-PE17_1-3" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ## Phiên bản khác {#Other_versions}
 
-Trong *[Etymologies](../T/The_Etymologies.md)* xuất hiện gốc [Primitive Quendian](Primitive_Quendian.md) **PEN, PÉNED**. Trong số các dẫn xuất của nó có:<sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
+Trong *[Etymologies](../T/The_Etymologies.md)* xuất hiện gốc [Quendian nguyên thủy](Primitive_Quendian.md) **PEN, PÉNED**. Trong số các dẫn xuất của nó có:<sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
 
-- Quenya: *pende* ("độ dốc, độ dốc, độ dốc")
+- Quenya: *pende* ("dốc, dốc, dốc")
 - [Noldorin](../N/Noldorin.md): *[penn, pend](Penn.md#Noldorin)*; *am-benn*<sup id="cite_ref-VT46_4-0" class="reference"><a href="#cite_note-VT46-4">[4]</a></sup> ("lên dốc"); *dadbenn* ("xuống dốc, nghiêng, nghiêng (làm)"<sup id="cite_ref-VT46_4-1" class="reference"><a href="#cite_note-VT46-4">[4]</a></sup>)
 
 ## Xem thêm {#See_also}

@@ -69,7 +69,7 @@ Sự kiện xảy ra vào ngày 6 tháng 1.
 - **[1914](1914.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt đầu làm việc trên *[The Book of Ishness](../T/The_Book_of_Ishness.md)*.
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 53b](../L/Letter_53b.md).
 - **[1965](1965.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) nhận được thư của người hâm mộ từ <a class="extiw" href="http://en.wikipedia.org/wiki/Iris_Murdoch" title="wikipedia:Iris Murdoch">Iris Murdoch</a>.
-- **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho cháu trai Michael George](<../L/Letter_to_Michael_George_Tolkien_(6_January_1965).md>), xuất bản dưới tên [Thư 266](../L/Letter_266.md).
+- **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư gửi cháu trai Michael George](<../L/Letter_to_Michael_George_Tolkien_(6_January_1965).md>), xuất bản dưới tên [Thư 266](../L/Letter_266.md).
 - **[1966](1966.md)** - [A.R. Rahman](../A/A.R._Rahman.md), nhà soạn nhạc của *[The Lord of the Rings (musical)](<../T/The_Lord_of_the_Rings_(musical).md>)*, ra đời.
 - **[1969](1969.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho Paula Coston](<../L/Letter_to_Paula_Coston_(6_January_1969).md>)
 - **[1978](1978.md)** - Diễn viên [Ben Britton](../B/Ben_Britton.md) ra đời
@@ -80,4 +80,4 @@ Sự kiện xảy ra vào ngày 6 tháng 1.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Con [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía nam dọc theo [Dãy Núi Sương Mù](../M/Misty_Mountains.md).
+    - [Hiệp hội Nhẫn thần](../F/Fellowship_of_the_Ring.md) đi về phía nam dọc theo [Dãy núi Sương mù](../M/Misty_Mountains.md).

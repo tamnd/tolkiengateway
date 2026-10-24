@@ -24,4 +24,4 @@ sort_keys:
 
 - [1977](../_/1977.md): *[Cliffs Notes on Tolkien's The Lord of the Rings and The Hobbit](../C/Cliffs_Notes_on_Tolkien's_The_Lord_of_the_Rings_and_The_Hobbit.md)*
 - [1983](../_/1983.md): *Children's Novels and the Movies*
-    - "Hơn cả phép thuật Nhẫn" (đánh giá về [*The Hobbit* (phim 1977)](<../T/The_Hobbit_(1977_film).md>))
+    - "Hơn cả chiếc nhẫn ma thuật" (đánh giá về [*The Hobbit* (phim 1977)](<../T/The_Hobbit_(1977_film).md>))

@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Mất rồi, bảo bối của ta, thất lạc, thất lạc!" bởi [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"Mất rồi, bảo bối của ta, thất lạc, thất lạc!" của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

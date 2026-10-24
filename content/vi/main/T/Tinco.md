@@ -20,17 +20,17 @@ images:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tinco.gif.md"><img src="https://tolkiengateway.net/w/images/e/ec/Tinco.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-*Tinco* cũng là tên trong Quenya của chữ cái đầu tiên của bảng chữ cái [Tengwar](Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái đầu tiên của lớp một hoặc [Tyellë](Tyellë.md), chứa "các điểm dừng vô thanh" và nó là chữ cái đầu tiên trong chuỗi phụ âm nha khoa hoặc *t*, *[Tincotéma](Tincotéma.md)*. Trong tất cả các chế độ, *Tinco* đại diện cho **T**.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tên Westron cho chữ cái này là <i><b>Tó</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Tinco* cũng là tên bằng tiếng Quenya của chữ cái đầu tiên trong bảng chữ cái [Tengwar](Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái đầu tiên của lớp một hay [Tyellë](Tyellë.md), chứa "các điểm dừng vô thanh" và nó là chữ cái đầu tiên trong chuỗi phụ âm nha khoa hoặc *t*, *[Tincotéma](Tincotéma.md)*. Trong tất cả các chế độ *Tinco* đại diện cho **T**.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tên phương Tây của chữ cái này là <i><b>Tó</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <br>
 
 ## Từ nguyên {#Etymology}
 
-Từ này bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=TINK%C5%8C&amp;action=edit&amp;redlink=1" title="TINKŌ (page does not exist)">TINKŌ</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Từ này bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=TINK%C5%8C&amp;action=edit&amp;redlink=1" title="TINKŌ (page does not exist)">TINKŌ</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
 
 <span></span>
 

@@ -46,37 +46,37 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Pagan_Saints_in_Middle-earth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/09/Pagan_Saints_in_Middle-earth.jpg/320px-Pagan_Saints_in_Middle-earth.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/09/Pagan_Saints_in_Middle-earth.jpg/480px-Pagan_Saints_in_Middle-earth.jpg 1.5x, https://tolkiengateway.net/w/images/0/09/Pagan_Saints_in_Middle-earth.jpg 2x" data-file-width="560" data-file-height="840"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Pagan Saints in Middle-earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Claudio A. Testi</td></tr><tr><th scope="row" class="tg-infobox-label">Foreword by</th><td class="tg-infobox-data"><a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../W/Walking_Tree_Publishers.md" title="Walking Tree Publishers">Walking Tree Publishers</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/22_March.md" title="22 March">22 March</a> <a href="../_/2018.md" title="2018">2018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">196</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-3-905703-38-2" title="Special:BookSources/978-3-905703-38-2">978-3-905703-38-2</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../C/Cormarë_Series.md" title="Cormarë Series">Cormarë Series</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../B/Binding_Them_All.md" title="Binding Them All">Binding Them All</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../M/Music_in_Tolkien&#39;s_Work_and_Beyond.md" title="Music in Tolkien&#39;s Work and Beyond">Music in Tolkien&#39;s Work and Beyond</a></td></tr></tbody></table>
 
-<i><b>Các vị thánh ngoại giáo ở Trung Địa</b></i> là một cuốn sách học thuật của Claudio A. Testi về các nguồn gốc Pagan và [Cơ đốc giáo](../C/Christianity.md) về [huyền thoại](../L/Legendarium.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được xuất bản ở vị trí thứ 37 trong *[Cormarë Series](../C/Cormarë_Series.md)*.
+<i><b>Các vị thánh ngoại đạo ở Trung địa</b></i> là một cuốn sách học thuật của Claudio A. Testi về các nguồn gốc của Pagan và [Cơ đốc giáo](../C/Christianity.md) về [huyền thoại](../L/Legendarium.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được xuất bản ở vị trí thứ 37 trong *[Cormarë Series](../C/Cormarë_Series.md)*.
 
 ## Nội dung {#Contents}
 
 - **Phần I: Phân tích các quan điểm khác nhau**
-Công việc của     - Tolkien là Cơ đốc giáo
-        - Nó mâu thuẫn với "Dao cạo củaTolkien"
+    - Tác phẩm của Tolkien mang tính Cơ đốc giáo
+        - Nó mâu thuẫn với "Dao cạo của Tolkien"
         - Nó nhầm lẫn giữa ngụ ngôn và ứng dụng với ví dụ và diễn giải
         - Nó nhầm lẫn giữa Nguồn và Biểu diễn
         - Nó tạo ra sự tương ứng hoàn toàn từ sự tương đồng một phần bằng cách bỏ qua những khác biệt
         - Nó làm giảm đi sự bao la của quan điểm Tolkienian
-Tác phẩm của     - Tolkien là ngoại giáo
-        - Nó làm giảm tầm quan trọng của những văn bản trong đó mối liên hệ giữa Legendarium và Cơ đốc giáo trở nên rõ ràng hơn
+    - Tác phẩm của Tolkien là ngoại giáo
+        - Nó làm giảm tầm quan trọng của những văn bản trong đó mối liên hệ giữa truyền thuyết và Cơ đốc giáo trở nên rõ ràng hơn
         - Nó coi một cách sai lầm một số yếu tố của Legendarium là đối lập với Cơ đốc giáo
         - Nó nhầm lẫn chủ nghĩa ngoại giáo lịch sử với chủ nghĩa ngoại giáo "Tolkienian"
-        - Nó áp dụng cách đọc mang tính biểu tượng cho tác phẩm của Tolkien để gây tổn hại đến khả năng hiểu của nó
+        - Nó áp dụng cách đọc mang tính biểu tượng cho tác phẩm của Tolkien nhưng lại làm phương hại đến khả năng hiểu của nó
         - Nó làm giảm phạm vi quan điểm của Tolkien
-Công việc của     - Tolkien là ngoại đạo và Cơ đốc giáo
+    - Tác phẩm của Tolkien mang tính ngoại đạo và Cơ đốc giáo
         - Quan điểm và mâu thuẫn
-        - Biện chứng và Legendarium
+        - Biện chứng và huyền thoại
 - **Phần II: Phương pháp tổng hợp**
-    - Tổng hợp: Tác phẩm của Tolkien là ngoại giáo và hòa hợp với Cơ đốc giáo
+    - Tổng hợp: Tác phẩm của Tolkien mang tính ngoại giáo và hòa hợp với Cơ đốc giáo
         - Nguyên tắc
         - Định nghĩa và cách sử dụng thuật ngữ "Pagan"
         - Công bố tổng hợp được đề xuất
     - Tà giáo trong thế giới của Tolkien và sự hòa hợp của nó với Cơ đốc giáo
-        - Các nguyên tắc thơ ca và thông diễn
+        - Các nguyên tắc thi ca và thông diễn
         - Tà giáo hòa hợp với Cơ đốc giáo trong vũ trụ của Tolkien
-    - Công giáo và công việc của Tolkien
+    - Công giáo và các tác phẩm của Tolkien
         - Làm rõ thuật ngữ "Công giáo"
-        - Tại sao công việc của Tolkien là "Cơ bản là Công giáo"
+        - Tại sao tác phẩm của Tolkien lại "Cơ bản là Công giáo"
 - Kết luận
 
 ## Từ nhà xuất bản {#From_the_publisher}

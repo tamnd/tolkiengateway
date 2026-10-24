@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Trang Elvish tập lệnh này do [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) sao chép ở đây đã được xuất bản trong [The Silmarillion Calendar 1978](../../main/T/The_Silmarillion_Calendar_1978.md). Về cơ bản, chúng không có mối liên hệ nào với [The Silmarillion](../../main/T/The_Silmarillion.md), thực chất là phần mở đầu của (các phiên bản) của các bài thơ [Errantry](../../main/E/Errantry.md) và [The Adventures of Tom Bombadil](../../main/T/The_Adventures_of_Tom_Bombadil.md).
+Trang Elvish tập lệnh này do [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) sao chép ở đây đã được xuất bản trong [The Silmarillion Calendar 1978](../../main/T/The_Silmarillion_Calendar_1978.md). Về bản chất, chúng không có mối liên hệ nào với [The Silmarillion](../../main/T/The_Silmarillion.md), trên thực tế là phần mở đầu của (các phiên bản) của các bài thơ [Errantry](../../main/E/Errantry.md) và [The Adventures of Tom Bombadil](../../main/T/The_Adventures_of_Tom_Bombadil.md).
 
 ## Giấy phép {#Licensing}
 

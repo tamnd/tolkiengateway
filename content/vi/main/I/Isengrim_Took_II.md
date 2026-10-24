@@ -51,21 +51,21 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Isengrim Took II</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Titles</th><td class="tg-infobox-data"><a href="../T/Thain.md" title="Thain">Thain</a> of <a href="../T/The_Shire.md" title="The Shire">the Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../G/Great_Smials.md" title="Great Smials">Great Smials</a>, <a href="../T/Tuckborough.md" title="Tuckborough">Tuckborough</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2620.md" title="Third Age 2620">1020</a></td></tr><tr><th scope="row" class="tg-infobox-label">Rule</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2683.md" title="Third Age 2683">1083</a> - <a href="../T/Third_Age_2722.md" title="Third Age 2722">1122</a> (39 years)</td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2722.md" title="Third Age 2722">1122</a> (aged 102)<br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a href="../T/Took_Family.md" title="Took Family">Took</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="Isumbras_Took_III.md" title="Isumbras Took III">Isumbras Took III</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Isengrim Took II** là [Thain thứ 22 của Shire](../T/Thain.md).
+**Isengrim Took II** là [Thain của Shire](../T/Thain.md) thứ 22.
 
 ## Lịch sử {#History}
 
-Isengrim II đã trở thành Thain ở [T.A.](../T/Third_Age.md) [2683](../T/Third_Age_2683.md) và bắt đầu khai quật [Great Smials](../G/Great_Smials.md) ở [Green Hill Country](../G/Green_Hill_Country.md), nơi sẽ là trụ sở của Thain cho các thế hệ mai sau.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Isengrim II trở thành Thain ở [T.A.](../T/Third_Age.md) [2683](../T/Third_Age_2683.md) và bắt đầu khai quật [Great Smials](../G/Great_Smials.md) ở [Green Hill Country](../G/Green_Hill_Country.md), nơi sẽ là trụ sở của Thain trong nhiều thế hệ sau.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong thời gian ông phục vụ, cuộc cải cách Shire đã được thiết lập vào [lịch Shire](../S/Shire-reckoning.md), sau đó mỗi năm của [Lịch Shire](../S/Shire_Calendar.md) sẽ luôn bắt đầu vào [Sterday](../S/Sterday.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong thời gian ông phục vụ, cuộc cải cách Quận đã được thiết lập trong [Tính toán Quận](../S/Shire-reckoning.md), sau đó mỗi năm trong [Lịch Quận](../S/Shire_Calendar.md) sẽ luôn bắt đầu vào [Sterday](../S/Sterday.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong khoảng thời gian này [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) cũng cho rằng [cỏ ống](../P/Pipe-weed.md) được trồng lần đầu tiên ở [Southfarthing](../S/Southfarthing.md) bởi [Tobold Hornbutter](../T/Tobold_Hornblower.md) <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong thời kỳ này [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) cũng cho rằng [cỏ ống](../P/Pipe-weed.md) được trồng lần đầu tiên ở [Southfarthing](../S/Southfarthing.md) bởi [Tobold Hornbutter](../T/Tobold_Hornblower.md) <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Thainship đã truyền lại cho con trai ông, [Isumbras III](Isumbras_Took_III.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-"Isengrim" có nguồn gốc từ [Anglo-Saxon](../O/Old_English.md) và xuất phát từ *isen* có nghĩa là "sắt" và *grim* có nghĩa là "dữ dội".
+"Isengrim" có nguồn gốc [Anglo-Saxon](../O/Old_English.md) và xuất phát từ *isen* có nghĩa là "sắt" và *grim* có nghĩa là "dữ dội".
 
 "Isengrim" là tên của một con sói xuất hiện trong nhiều sử thi thời trung cổ, trong đó có câu chuyện về <a class="extiw" href="http://en.wikipedia.org/wiki/Reynard_the_Fox" title="wikipedia:Reynard the Fox">Cáo Reynard</a> bắt nguồn từ văn hóa dân gian Pháp.<sup id="cite_ref-Nomen_5-0" class="reference"><a href="#cite_note-Nomen-5">[5]</a></sup>
 

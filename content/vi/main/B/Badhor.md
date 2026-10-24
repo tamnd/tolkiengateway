@@ -13,7 +13,7 @@ categories:
   - "Noldorin nouns"
 ---
 
-<i><b>badhor</b></i> là [Noldorin](../N/Noldorin.md) từ dành cho "thẩm phán".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>badhor</b></i> là từ [Noldorin](../N/Noldorin.md) có nghĩa là "thẩm phán".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

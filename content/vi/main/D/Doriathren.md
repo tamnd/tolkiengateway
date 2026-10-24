@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Doriathrin"
 ---
 
-Chuyển hướng đến [Doriathrin](Doriathrin.md).
+Chuyển hướng tới [Doriathrin](Doriathrin.md).

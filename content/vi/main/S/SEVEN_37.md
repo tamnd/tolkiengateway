@@ -65,15 +65,15 @@ infobox:
 - "Warren Lewis và Hồ sơ Lewis"
     - Bởi: Don W. King
 - Đánh giá sách:
-    - "Đánh giá về Lost Chaucer của Tolkien của John Bowers"
+    - "Đánh giá về Người lái xe mất tích của Tolkien của John Bowers"
         - Bởi: Benjamin Weber
-    - "Đánh giá về việc lựa chọn cộng đồng: Hành động, niềm tin và niềm vui trong công việc của Dorothy L. Sayers bởi Christine A. Colón"
+    - "Đánh giá về việc lựa chọn cộng đồng: Hành động, niềm tin và niềm vui trong công việc của Dorothy L. Sayers của Christine A. Colón"
         - Bởi: Barbara Prescott
     - "Đánh giá về Dorothy L. Sayers, Chúa, Hitler và Chúa Peter Wimsey: Các tiểu luận, bài phát biểu và bài viết chọn lọc do Suzanne Bray biên tập"
         - Bởi: David Llewellyn Dodds
-    - "Đánh giá về Phantastes: Phiên bản có chú thích của George MacDonald, được biên tập bởi John Pennington và Roderick McGillis"
+    - "Đánh giá về Phantastes: Phiên bản có chú thích của George MacDonald, do John Pennington và Roderick McGillis biên tập"
         - Bởi: Daniel Gabelman
-    - "Đánh giá về động vật trong bài viết C.S. Lewis của Michael J. Gilmour"
+    - "Đánh giá về động vật trong các bài viết của C.S. Lewis của Michael J. Gilmour"
         - Bởi: Matthew Dickerson
     - "Đánh giá về tuổi thơ bị ám ảnh ở George MacDonald của John Patrick Pazdziora"
         - Bởi: Daniel Gabelman
@@ -81,9 +81,9 @@ infobox:
         - Bởi: Michael Wayne Wilhelm
     - "Đánh giá về Quảng trường ám ảnh: Năm người phụ nữ, Tự do và Luân Đôn giữa các phường của Francesca Wade"
         - Bởi: Suzanne Bray
-    - "Đánh giá về cách đọc hiện đại của Tolkien: Trung Địa Beyond the Middle-Kỷ nguyên của Holly Ordway"
+    - "Đánh giá về cách đọc hiện đại của Tolkien: Trung địa vượt thời Trung cổ của Holly Ordway"
         - Bởi: Louis Markos
-    - "Đánh giá về Thế giới của J.R.R. Tolkien: Nơi truyền cảm hứng cho Trung Địa của John Garth"
+    - "Đánh giá về Thế giới J.R.R. Tolkien: Nơi truyền cảm hứng cho Trung địa của John Garth"
         - Bởi: Laura Schmidt<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 36</div></div><div class="template-prevnext__linkoverlay"><a href="SEVEN_36.md" title="SEVEN 36">SEVEN 36</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 37</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 38</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="SEVEN_38.md" title="SEVEN 38">SEVEN 38</a></div></div></div>

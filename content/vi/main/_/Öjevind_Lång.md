@@ -29,7 +29,7 @@ images:
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Bản dịch tiếng Thụy Điển có "<i>Blå bergen</i> Den stora bergskedjan (uppdelad i <i>Ered Luin</i> och <i>Ered Lindon</i>) mellan Beleriand och Eriador dưới äldre thủy triều." (trang 299). Bản dịch trực tiếp câu của Lang sang tiếng Anh sẽ là "<i>Dãy Núi Xanh</i> Dãy núi lớn (được chia thành [sic] <i>Ered Luin</i> và <i>Ered Lindon</i>) giữa Beleriand và Eriador trong Ngày xưa.", trong khi bản gốc có "<i>Dãy Núi Xanh</i> The dãy núi lớn (được gọi là <i>Ered Luin</i> và <i>Ered Lindon</i>) giữa Beleriand và Eriador trong Ngày xưa." (tr. 298).</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Bản dịch tiếng Thụy Điển có "<i>Blå bergen</i> Den stora bergskedjan (uppdelad i <i>Ered Luin</i> och <i>Ered Lindon</i>) mellan Beleriand och Eriador under äldre thủy triều." (trang 299). Bản dịch trực tiếp câu của Lang sang tiếng Anh sẽ là "<i>Blue Mountains</i> Dãy núi lớn (được chia thành [sic] <i>Ered Luin</i> và <i>Ered Lindon</i>) giữa Beleriand và Eriador trong Ngày xưa.", trong khi bản gốc có "<i>Blue Mountains</i> Chuỗi núi lớn (được gọi là <i>Ered Luin</i> và <i>Ered Lindon</i>) giữa Beleriand và Eriador trong Ngày xưa." (tr. 298).</span>
 </li>
 </ol></div></span>
 

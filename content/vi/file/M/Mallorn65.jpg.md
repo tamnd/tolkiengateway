@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bìa [*Mallorn*65](../../main/M/Mallorn_65.md). Tác phẩm nghệ thuật là "Lothlórien: Căn phòng của Celeborn và Galadriel" của <a class="external text" href="https://www.miriamellis.com/" rel="noreferrer noopener" target="_blank">Miriam Ellis</a>
+Bìa [*Mallorn* 65](../../main/M/Mallorn_65.md). Tác phẩm nghệ thuật là "Lothlórien: Căn phòng của Celeborn và Galadriel" của <a class="external text" href="https://www.miriamellis.com/" rel="noreferrer noopener" target="_blank">Miriam Ellis</a>
 
 ## Giấy phép {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Southern Gondor: The Land"
 ---
 
-Chuyển hướng tới [Miền Nam Gondor: Miền đất](../S/Southern_Gondor%253A_The_Land.md).
+Chuyển hướng đến [Southern Gondor: The Land](../S/Southern_Gondor%253A_The_Land.md).

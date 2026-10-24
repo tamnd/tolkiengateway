@@ -42,18 +42,18 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen276.png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b4/AmonHen276.png/320px-AmonHen276.png" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b4/AmonHen276.png/480px-AmonHen276.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/b4/AmonHen276.png/640px-AmonHen276.png 2x" data-file-width="1414" data-file-height="2000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 276</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Alexander Genov</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">March <a href="../_/2019.md" title="2019">2019</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_275.md" title="Amon Hen 275">Amon Hen 275</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_277.md" title="Amon Hen 277">Amon Hen 277</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 276</b> là số thứ hai trăm bảy mươi sáu của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 3 [2019](../_/2019.md).
+<b><i>Amon Hen</i> 276</b> is the two-hundred-and-seventy-sixth issue of the [The Tolkien Society](../T/The_Tolkien_Society.md)'s bimonthly journal *[Amon Hen](<Amon_Hen_(journal).md>)*, published in March [2019](../_/2019.md).
 
 ## Nội dung {#Contents}
 
-- Bìa: *Tại Biển Hiệu The Prancing Pony*
+- Bìa: *Tại dấu hiệu của chú ngựa chồm lên*
     - Bởi: Alexander Genov
 - Biên tập
     - Bởi: [Andrew Butler](Andrew_Butler.md)
 - Nội dung
 - Ngày ghi nhật ký của bạn năm 2019
     - Bởi: Ian Collier
-- Tác phẩm nghệ thuật trang trí bổ sung
+- Các tác phẩm nghệ thuật trang trí bổ sung
     - Bởi: Steve Lines
 - Thông báo
 - Thông báo ĐHĐCĐ
@@ -63,26 +63,26 @@ infobox:
     - Bởi: Ian Spittlehouse
 - Lời mời của Mereth Aderthad/EstelCon
     - Bởi: Sociedad Tolkien Española
-- Bóng Tối Giữa ngày: Nhật thực trong công việc của J.R.R. Tolkien
+- Bóng tối giữa ban ngày: Sự lu mờ trong tác phẩm của J.R.R. Tolkien
     - Bởi: [Kristine Larsen](../K/Kristine_Larsen.md)
 - Phía sau cánh cửa kính
     - Bởi: Ian Collier
 - Phía sau cánh cửa kính (Phần 2)
     - Bởi: Ian Collier
-- Con đường được chọn của Bilbo và Frodo của The Shire
+- Con đường được chọn của Bilbo và Frodo của Quận
     - Bởi: Anne Marie Gazzolo
 - Tác phẩm nghệ thuật: *The Shire and Mordor*
     - Bởi: Tim Kirk
-- Tìm Gondor và một từ về Ent
+- Tìm Gondor và đôi lời về Ent
     - Bởi: Kathryn Colucci
 - Đánh giá: *J.R.R. Tolkien History Bites*
     - Bởi: Michael Cunningham
 - Mới từ Fangorn
     - Bởi: Carol Brownlow
-- Tác phẩm: *Và một số điều lẽ ra không nên quên...*
+- Ảnh minh họa: *Và một số điều lẽ ra không nên quên...*
     - Bởi: Emma Montonen
-Linh tinh của - Michael
-    - Bởi: Michael Hoa
+- Chuyện linh tinh của Michael
+    - Bởi: Michael Flowers
 - Tác phẩm nghệ thuật: *Smaug*
     - Bởi: Gordon Palmer
 - Ủy ban

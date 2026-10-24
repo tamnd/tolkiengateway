@@ -38,7 +38,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Bước Xuống Vào [Hobbiton](../../main/H/Hobbiton.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
+"Bước xuống [Hobbiton](../../main/H/Hobbiton.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
 
 ## Giấy phép {#Licensing}
 

@@ -28,42 +28,42 @@ Các **Phụ lục** đã được xuất bản vào năm *[The Return of the Ki
 
 ## Nội dung {#Contents}
 
-- [Appendix A](../A/Appendix_A.md): *Annals of the Kings and Rulers*
-    - Tôi là Númenórean vị vua
+- [Phụ lục A](../A/Appendix_A.md): *Annals of the Kings and Rulers*
+    - Tôi Các vị vua Númenórean
         - (i) Númenor
         - (ii) Cõi lưu vong
         - (iii) Eriador, Arnor và những người thừa kế của Isildur
         - (iv) Gondor và những người thừa kế của Anárion
         - (v) Sau đây là một phần câu chuyện của Aragorn và Arwen
-    - II Ngôi nhà của Eorl
+    - II Nhà Eorl
     - III Dân gian Durin
-- [Phụ lục B](../A/Appendix_B.md): *The Tale of Years* (Niên đại Tây Nguyên)
+- [Phụ lục B](../A/Appendix_B.md): *The Tale of Years* (Niên đại miền Tây)
 - [Phụ lục C](../A/Appendix_C.md): *Family Trees* (Hobbit)
 - [Phụ lục D](../A/Appendix_D.md): *Calendars*
-    - Lịch Shire sử dụng trong mọi năm
+    - Lịch Shire để sử dụng trong tất cả các năm
     - Lịch
 - [Phụ lục E](../A/Appendix_E.md): *Writing and Spelling*
     - I Phát âm từ và tên
     - II Viết
 - [Phụ lục F](../A/Appendix_F.md)
-    - I Ngôn ngữ và dân tộc của Kỷ Đệ Tam
+    - I Ngôn ngữ và dân tộc của thời đại thứ ba
     - II Về Dịch thuật
 
 ## Thành phần {#Composition}
 
-Ngay từ đầu [1953](../_/1953.md) Tolkien vẫn chưa chắc chắn nên đưa những gì vào Phụ lục, nhưng anh ấy đã có thời gian để quyết định cho đến khi *The Return of the King* được xuất bản. Giữa [1954](../_/1954.md) muộn và đầu [1955](../_/1955.md), có viết thêm tài liệu, chẳng hạn như *[The Quest of Erebor](The_Quest_of_Erebor.md)* và *[The Hunt for the Ring](The_Hunt_for_the_Ring.md)*, nhưng hầu hết đều phải bỏ qua vì không gian.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ngay từ đầu [1953](../_/1953.md) Tolkien vẫn chưa chắc chắn nên đưa những gì vào Phụ lục, nhưng ông đã có thời gian để quyết định cho đến khi *The Return of the King* được xuất bản. Giữa [1954](../_/1954.md) muộn và đầu [1955](../_/1955.md), có viết thêm tài liệu, chẳng hạn như *[The Quest of Erebor](The_Quest_of_Erebor.md)* và *[The Hunt for the Ring](The_Hunt_for_the_Ring.md)*, nhưng hầu hết đều phải bỏ qua vì không gian.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thiếu sót và dịch {#Omissions_and_translations}
 
-Trong khi biên soạn [Danh mục](The_Lord_of_the_Rings_Index.md), Tolkien đã khuyên không nên đưa tên của các Phụ lục vào. Ngoài ra, ông còn cho rằng một chỉ mục đầy đủ hơn (Xem: [Chỉ mục chưa hoàn thiện](../U/Unfinished_index.md)) nên thay thế các phần của Phụ lục, nhưng điều này chưa bao giờ xảy ra.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong khi biên soạn [Danh mục](The_Lord_of_the_Rings_Index.md), Tolkien khuyên rằng không nên đưa tên của các Phụ lục vào. Ngoài ra, ông còn cho rằng một chỉ mục đầy đủ hơn (Xem: [Chỉ mục chưa hoàn thiện](../U/Unfinished_index.md)) nên thay thế các phần của Phụ lục, nhưng điều này chưa bao giờ xảy ra.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong [1968](../_/1968.md) [Allen và Unwin](../A/Allen_and_Unwin.md) đã xuất bản ấn bản bìa mềm một tập, chỉ bao gồm Appendix A I v, 'Câu chuyện về Aragorn và Arwen'. Rõ ràng điều này đã được thực hiện vì một cuốn sách bìa mềm đủ dày để bao gồm tất cả các Phụ lục không thể được sản xuất một cách kinh tế. Tolkien đồng ý, nhưng anh ấy đã đưa ra yêu cầu đặc biệt để bao gồm *[The Tale of Aragorn and Arwen](The_Tale_of_Aragorn_and_Arwen.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Đây là ấn bản duy nhất bằng tiếng Anh (một số bản in được phát hành dưới dạng bìa cứng dưới dạng ấn bản câu lạc bộ sách) được biết là không bao gồm các Phụ lục hoàn chỉnh. Nhưng có vẻ như nó đã tạo cho nhiều nhà xuất bản dịch ý tưởng hoặc lý do để chỉ đưa vào 'Câu chuyện về Aragorn và Arwen'.
+Trong [1968](../_/1968.md) [Allen và Unwin](../A/Allen_and_Unwin.md) đã xuất bản ấn bản bìa mềm một tập, chỉ bao gồm Phụ lục A I v, 'Câu chuyện về Aragorn và Arwen'. Rõ ràng điều này đã được thực hiện vì một cuốn sách bìa mềm đủ dày để bao gồm tất cả các Phụ lục không thể được sản xuất một cách kinh tế. Tolkien đồng ý, nhưng ông đã đưa ra yêu cầu đặc biệt để đưa vào *[The Tale of Aragorn and Arwen](The_Tale_of_Aragorn_and_Arwen.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Đây là ấn bản duy nhất bằng tiếng Anh (một số bản in được phát hành dưới dạng bìa cứng dưới dạng ấn bản câu lạc bộ sách) được biết là không bao gồm các Phụ lục hoàn chỉnh. Nhưng có vẻ như nó đã khiến nhiều nhà xuất bản dịch thuật có ý tưởng hoặc lý do để chỉ đưa vào 'Truyện kể về Aragorn và Arwen'.
 
 Nhiều bản dịch thiếu Phụ lục hoặc chỉ bao gồm một số phụ lục được chọn lọc. Trong một số trường hợp, toàn bộ hoặc một phần các Phụ lục được xuất bản thành một tập riêng biệt. Thậm chí đã xảy ra trường hợp những Phụ lục không có hoặc chỉ có một phần trong bản dịch chính thức lại được xuất bản dưới dạng một ấn phẩm dành cho người hâm mộ.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Điều này không hoàn toàn không có sự trừng phạt. Ngay khi vấn đề về các bản dịch bắt đầu được thảo luận, [Tolkien](../J/J.R.R._Tolkien.md) đã tuyên bố rằng ông sẵn sàng cho phép "rút gọn hoặc lược bỏ một số phần" của các Phụ lục (trong khi đó ông sẽ "không chấp nhận việc rút gọn hoặc sắp xếp lại" câu chuyện). "Chỉ Appendix A v, \[*[The Tale of Aragorn and Arwen](The_Tale_of_Aragorn_and_Arwen.md)*\] ... thực sự cần thiết cho câu chuyện."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Khi phản đối việc dịch tên sang tiếng Hà Lan, ông đề xuất "thay thế cho một số Phụ lục ít được mong muốn nhất bằng một bảng chú giải các tên".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Sau đó, ông đã viết thư cho [dịch giả người Hà Lan](../M/Max_Schuchart.md), đề xuất phần nào của phụ lục có thể bị lược bỏ khỏi bản dịch tiếng Hà Lan, dường như những phần này bao gồm F II và D ngoại trừ phần trên [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Sau đó, anh ấy đề nghị bỏ "Phụ lục D (trừ Lịch Shire); có lẽ là hầu hết Ứng dụng E II và hầu hết F II" nói chung.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+Điều này không hoàn toàn không có sự trừng phạt. Ngay khi vấn đề về các bản dịch bắt đầu được thảo luận, [Tolkien](../J/J.R.R._Tolkien.md) tuyên bố rằng ông sẵn sàng cho phép "rút gọn hoặc lược bỏ một số phần" trong các Phụ lục (trong khi đó ông sẽ "không chấp nhận việc rút gọn hoặc sắp xếp lại" câu chuyện). "Chỉ Phụ lục A v, \[*[The Tale of Aragorn and Arwen](The_Tale_of_Aragorn_and_Arwen.md)*\] ... thực sự cần thiết cho câu chuyện."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Khi phản đối việc dịch tên sang tiếng Hà Lan, ông đề xuất "thay thế cho một số Phụ lục ít được mong muốn nhất bằng một bảng chú giải các tên".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Sau đó, ông đã viết thư cho [dịch giả người Hà Lan](../M/Max_Schuchart.md), đề xuất phần nào của phụ lục có thể bị lược bỏ khỏi bản dịch tiếng Hà Lan, dường như những phần này bao gồm F II và D ngoại trừ phần trên [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Sau đó, ông đề nghị bỏ "Phụ lục D (ngoài Lịch Shire); có lẽ là hầu hết App. E II và hầu hết F II" nói chung.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
-Khi các nhà xuất bản Thụy Điển đề nghị bỏ hoàn toàn các Phụ lục, Tolkien đã trả lời "Tôi không phản đối (...) việc bỏ sót C, D (ngoại trừ Lịch Shire ...), E ii và F ii. Việc bỏ sót những phần còn lại, ở những mức độ khác nhau, sẽ gây tổn hại cho toàn bộ cuốn sách. Trong trường hợp của Het Spectrum \[bản dịch tiếng Hà Lan\], A và B và Lịch Shire được giữ lại, và đó là sự sắp xếp mà tôi ưa thích. Tôi cảm thấy chắc chắn rằng mức tối thiểu là giữ lại A (v) 'Của Aragorn và Arwen', và Lịch Shire ...";<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> trong câu trả lời này ông cũng đồng ý rằng các Phụ lục có thể được xuất bản thành một tập riêng. Do đó, bản dịch tiếng Thụy Điển chỉ có ‘Truyện Aragorn và Arwen’ và Phụ lục D. Subsequently, tuy nhiên, tất cả các Phụ lục ngoại trừ các phần của E II và F II đều được xuất bản thành một tập riêng. Tương tự như vậy, bản dịch tiếng Hà Lan của tất cả các Phụ lục ngoại trừ F II đã được đưa vào một số lần xuất bản sau này thành một hoặc ba tập và cũng được xuất bản thành một tập riêng biệt. Trong một ấn bản F II cũng được đưa vào. Nhưng ví dụ đầu tiên do nhà xuất bản đưa ra ở hai bản dịch đầu tiên đã được làm theo trong một số ngôn ngữ khác.
+Khi các nhà xuất bản Thụy Điển đề nghị lược bỏ hoàn toàn các Phụ lục, Tolkien trả lời "Tôi không phản đối (...) việc lược bỏ C, D (ngoại trừ Lịch Shire...), E ii và F ii. Việc lược bỏ những phần còn lại, ở những mức độ khác nhau, sẽ gây tổn hại cho toàn bộ cuốn sách. Trong trường hợp của Het Spectrum \[bản dịch tiếng Hà Lan\], A, B và Lịch Shire được giữ lại, và đó là sự sắp xếp mà tôi ủng hộ. Tôi thực sự cảm thấy rằng mức tối thiểu là như vậy." giữ lại A (v) 'Of Aragorn và Arwen', và Lịch Shire ...";<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> trong thư trả lời này ông cũng đồng ý rằng các Phụ lục có thể được xuất bản thành một tập riêng. Do đó, bản dịch tiếng Thụy Điển chỉ có ‘Truyện kể về Aragorn và Arwen’ và Phụ lục D. Subsequently, tuy nhiên, tất cả các Phụ lục ngoại trừ các phần của E II và F II đều được xuất bản thành một tập riêng. Tương tự như vậy, bản dịch tiếng Hà Lan của tất cả các Phụ lục ngoại trừ F II đã được đưa vào một số lần xuất bản sau này thành một hoặc ba tập và cũng được xuất bản thành một tập riêng biệt. Trong một ấn bản F II cũng được đưa vào. Nhưng ví dụ đầu tiên do nhà xuất bản đưa ra ở hai bản dịch đầu tiên đã được làm theo trong một số ngôn ngữ khác.
 
 <span></span>
 

@@ -66,9 +66,9 @@ Sự kiện xảy ra vào ngày 16 tháng 5
 - **[1913](1913.md)** – [Norman Davis](../N/Norman_Davis.md) ra đời.
 - **[1973](1973.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đi nghỉ ở [Bournemouth](../B/Bournemouth.md).
 - **[1977](1977.md)** - Ca sĩ [Emilíana Torrini](../E/Emilíana_Torrini.md) ra đời.
-- **[2004](2004.md)** - Cuối tuần Tolkien của [Hội Tolkien](../T/The_Tolkien_Society.md)ở [Sarehole](../S/Sarehole_Mill.md), [Birmingham](../B/Birmingham.md).
+- **[2004](2004.md)** - [Cuối tuần Tolkien của Hiệp hội Tolkien](../T/The_Tolkien_Society.md) ở [Sarehole](../S/Sarehole_Mill.md), [Birmingham](../B/Birmingham.md).
 - **[2007](2007.md)** - Phiên bản cao cấp của *[The Children of Húrin](../T/The_Children_of_Húrin.md)* được xuất bản.
-- **[2010](2010.md)** - Cuối tuần Trung Địa của [Hội Tolkien](../T/The_Tolkien_Society.md)ở [Sarehole](../S/Sarehole_Mill.md), [Birmingham](../B/Birmingham.md).
+- **[2010](2010.md)** - [Cuối tuần ở Trung Địa của Hiệp hội Tolkien](../T/The_Tolkien_Society.md) ở [Sarehole](../S/Sarehole_Mill.md), [Birmingham](../B/Birmingham.md).
 
 ## Trong Arda {#In_Arda}
 

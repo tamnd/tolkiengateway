@@ -31,9 +31,9 @@ images:
 
 **Atanatári** ([Q](../Q/Quenya.md), phát âm <span title="Pronunciation in IPA" class="IPA">[aˌtanaˈtaːri]</span>; số ít **Atanatar**, phát âm. <span title="Pronunciation in IPA" class="IPA">[aˈtanatar]</span>) là một thuật ngữ [Quenya](../Q/Quenya.md) có nghĩa là "Cha của [Men](../M/Men.md)", và là dùng để mô tả tổ tiên của [Edain](../E/Edain.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Cách sử dụng của nó không thực sự rõ ràng: đôi khi nó được dùng để chỉ [Edain](../E/Edain.md) của [Kỷ Đệ Nhất](../F/First_Age.md), đôi khi nó chỉ được áp dụng cho [Bëor](../B/Bëor.md), [Marach](../M/Marach.md) và những người đương thời, và ở những nơi khác, nó được dùng để chỉ những dân tộc mà [Edain](../E/Edain.md) có nguồn gốc từ đó.
+Cách sử dụng của nó không thực sự rõ ràng: đôi khi nó được dùng để chỉ [Edain](../E/Edain.md) của [Thời đại thứ nhất](../F/First_Age.md), những lần khác nó chỉ được áp dụng cho [Bëor](../B/Bëor.md), [Marach](../M/Marach.md) và những người cùng thời, còn ở những nơi khác, nó được dùng để chỉ những dân tộc mà [Edain](../E/Edain.md) có nguồn gốc từ đó.
 
-Nếu nghĩa thứ ba được chấp nhận, có thể nói rằng cái gọi là [Phần giữa Con Người](../M/Middle_Men.md) của [Trung Địa](../M/Middle-earth.md) ( [Rohirrim](../R/Rohirrim.md), [Con Người](../M/Men.md) của [Dale](../D/Dale.md), v.v.) cũng là hậu duệ của *Atanatári*, giống như *[Edain](../E/Edain.md)* (hoặc [Dúnedain](../D/Dúnedain.md) sau này).
+Nếu nghĩa thứ ba được chấp nhận thì có thể nói rằng những người được gọi là [Trung nhân](../M/Middle_Men.md) của [Trung địa](../M/Middle-earth.md) ( [Rohirrim](../R/Rohirrim.md), [Người](../M/Men.md) của [Dale](../D/Dale.md), v.v.) cũng là hậu duệ của *Atanatári*, giống như *[Edain](../E/Edain.md)* (hoặc sau này là [Dúnedain](../D/Dúnedain.md)).
 
 Dạng [Sindarin](../S/Sindarin.md) của từ này là <i><b><a class="mw-redirect" href="../E/Edenedair.md" title="Edenedair">Edenedair</a></b></i> (phát âm là <span title="Pronunciation in IPA" class="IPA">[eˈdeneda͡ɪr]</span>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 

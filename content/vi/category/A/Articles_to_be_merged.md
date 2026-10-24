@@ -12,4 +12,4 @@ categories:
   - "Tolkien Gateway:To-do"
 ---
 
-Những bài viết này được xem xét để sáp nhập. Thảo luận về Trang thảo luận của mỗi bài viết.
+Những bài viết này được xem xét để sáp nhập. Thảo luận tại trang Talk của mỗi bài viết.

@@ -22,11 +22,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../D/Dwarves.md" title="Dwarves">Dwarf</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hannar</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">Third Age</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Hannar** là một trong bốn Người Lùn ở lại [Bag End](../B/Bag_End.md) sau bữa tiệc sinh nhật của [Bilbo Baggins](../B/Bilbo_Baggins.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Hannar** là một trong bốn Người lùn ở lại [Bag End](../B/Bag_End.md) sau bữa tiệc sinh nhật của [Bilbo Baggins](../B/Bilbo_Baggins.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Trong phần đầu của chương "[Một bữa tiệc được mong đợi từ lâu](../A/A_Long-expected_Party.md)", Hannar đã được đưa ra một số đoạn hội thoại và phát triển hơn một chút. Tuy nhiên, [Tolkien](../J/J.R.R._Tolkien.md) sau đó đã thay đổi ý định và không tiết lộ tên ông trong cuốn sách cũng như không đưa ra lời thoại nào.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+Trong phần đầu của chương "[Một bữa tiệc được mong đợi từ lâu](../A/A_Long-expected_Party.md)", Hannar đã được đưa ra một số đoạn hội thoại và phát triển hơn một chút. Tuy nhiên, [Tolkien](../J/J.R.R._Tolkien.md) sau đó đã thay đổi quyết định và không tiết lộ tên của ông trong cuốn sách cũng như không đưa ra bất kỳ lời thoại nào.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 ## Từ nguyên {#Etymology}
 

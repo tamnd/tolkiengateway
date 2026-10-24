@@ -14,7 +14,7 @@ sort_keys:
   "Epithets": "Maker, The"
 ---
 
-**Người sáng tạo** là danh hiệu mà [Người Lùn](../D/Dwarves.md) đặt cho [Vala](../V/Valar.md) [Aulë](../A/Aulë.md), người mà họ gọi là *Mahal*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Người sáng tạo** là danh hiệu mà [Người lùn](../D/Dwarves.md) đặt cho [Vala](../V/Valar.md) [Aulë](../A/Aulë.md), người mà họ gọi là *Mahal*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Host of the Valar"
 ---
 
-Chuyển hướng đến [Máy chủ của Valar](Host_of_the_Valar.md).
+Chuyển hướng đến [Chủ nhà của Valar](Host_of_the_Valar.md).

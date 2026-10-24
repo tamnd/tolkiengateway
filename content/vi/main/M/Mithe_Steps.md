@@ -22,7 +22,7 @@ langlinks:
     url: "https://kontu.wiki/Mithe_Steps"
 ---
 
-**Mithe Steps** là bến cập bến tại [Mithe](Mithe.md), dòng chảy của sông [Shirebourn](../S/Shirebourn.md). Từ đó có một làn đường chạy đến [Deephallow](../D/Deephallow.md) rồi tiếp tục đến đường [Causeway](../C/Causeway.md) đi qua [Rushey](../R/Rushey.md) và [Stock](../S/Stock.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Khi [Tom Bombadil](../T/Tom_Bombadil.md) đi qua Mithe, anh thấy Mithe Steps trống rỗng và "không có ai ở đó để chào đón anh".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Mithe Steps** là bến đổ bộ tại [Mithe](Mithe.md), dòng chảy ra của sông [Shirebourn](../S/Shirebourn.md). Từ đó, một làn đường chạy đến [Deephallow](../D/Deephallow.md) rồi tiếp tục đến con đường [Causeway](../C/Causeway.md) đi qua [Rushey](../R/Rushey.md) và [Stock](../S/Stock.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Khi [Tom Bombadil](../T/Tom_Bombadil.md) đi qua Mithe, ông thấy Mithe Steps trống rỗng và "không có ai ở đó để chào đón ông".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

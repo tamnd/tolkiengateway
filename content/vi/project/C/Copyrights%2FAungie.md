@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Aungie"
 ---
 
-- Aungie đã vui lòng cho phép họ sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Aungie.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
-- Ngày: 6 tháng Chín năm 2020
+- Aungie đã vui lòng cho phép họ sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Aungie.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Ngày: 6 tháng 9 năm 2020
 - Người dùng đã xin phép: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

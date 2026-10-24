@@ -47,26 +47,26 @@ infobox:
 
 ## Nội dung {#Contents}
 
-- **PHẦN I**
-    - "Tôi chưa xem phim nhưng tôi đã đọc áp phích"
-        - Bởi Miguel Moiteiro Marques
-    - Đối mặt với hy vọng: *The Lord of the Rings*, *Beowulf* và Anglo-Saxon Truyền thống Elegiac
-        - Bởi Angélica Varandas
-    - ‘I See Fire’: Thích ứng *The Hobbit* ngoài Hình ảnh
-        - Bởi Ana Daniela Coelho
-    - Asgard và Valinor: Thế giới được so sánh
-        - Bởi Hélio Pires
-- **PHẦN II**
-    - Tiếng nói của Thiên nhiên trong Trung Địa qua lăng kính chứng ngôn
-        - Bởi Andoni Cossio
-    - "Tuy nhiên, họ sẽ cần gỗ": Các phương pháp tiếp cận thẩm mỹ và tiện dụng đối với cây ở *The Silmarillion* và *Unfinished Tales*
-        - Bởi Martin Simonson
-    - Boromir: một nhân vật bị tiêu diệt
-        - Bởi Alejandro Martínez-Sobrino
-    - Những cái bóng của Trung Địa: Tolkien trong Tiểu văn hóa, Phản văn hóa và Khai thác
-        - Bởi Mónica Sanz
-    - "Bạn không định lục soát quần của tôi à?": Giới tính và sự thể hiện của Người Lùn trong Chuyển thể của Peter Jackson từ *The Hobbit* của J.R.R. Tolkien
-        - Bởi Amaya Fernández Menicucci
+- **PART I**
+    - "I didn't see the films, but I read the posters"
+        - By Miguel Moiteiro Marques
+    - Facing Hope: *The Lord of the Rings*, *Beowulf* and the Anglo-Saxon Elegiac Tradition
+        - By Angélica Varandas
+    - ‘I See Fire': Adapting *The Hobbit* beyond the Image
+        - By Ana Daniela Coelho
+    - Asgard and Valinor: Worlds in Comparison
+        - By Hélio Pires
+- **PART II**
+    - The Voice of Nature in Middle-earth through the Lens of Testimony
+        - By Andoni Cossio
+    - "Nonetheless They Will Have Need of Wood": Aesthetic and Utilitarian Approaches to Trees in *The Silmarillion* and *Unfinished Tales*
+        - By Martin Simonson
+    - Boromir: a Character Doomed to Die
+        - By Alejandro Martínez-Sobrino
+    - Shadows of Middle-earth: Tolkien in Subculture, Counterculture and Exploitation
+        - By Mónica Sanz
+    - "Aren't You Going to Search My Trousers?": Gender and the Representation of the Dwarves in Peter Jackson's Adaptation of J.R.R. Tolkien's *The Hobbit*
+        - By Amaya Fernández Menicucci
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -78,8 +78,8 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.walking-tree.org/books/nole_hyarmenillo.php" rel="noreferrer noopener" target="_blank">Trang sản phẩm chính thức</a>
-- <a class="external text" href="https://scholar.valpo.edu/journaloftolkienresearch/vol15/iss2/10/" rel="noreferrer noopener" target="_blank">Đánh giá của Marjorie Burns trong <i>Journal of Tolkien Research</i></a>
-- <a class="external text" href="https://dc.swosu.edu/mythlore/vol42/iss1/27/" rel="noreferrer noopener" target="_blank">Đánh giá của Nancy Martsch trong <i>Mythlore</i></a>
+- <a class="external text" href="https://scholar.valpo.edu/journaloftolkienresearch/vol15/iss2/10/" rel="noreferrer noopener" target="_blank">Bài đánh giá của Marjorie Burns trong <i>Tạp chí Nghiên cứu Tolkien</i></a>
+- <a class="external text" href="https://dc.swosu.edu/mythlore/vol42/iss1/27/" rel="noreferrer noopener" target="_blank">Bài đánh giá của Nancy Martsch trong <i>Thần thoại</i></a>
 - <a class="external text" href="http://journal.finfar.org/articles/book-review-nole-hyarmenillo/" rel="noreferrer noopener" target="_blank">Bài đánh giá của José Manuel Ferrández Bru trong <i>Tạp chí Nghiên cứu Khoa học Viễn tưởng và Giả tưởng Bắc Âu</i></a>
 
 <br clear="all"/>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Far Harad: The Scorched Land"
 ---
 
-Chuyển hướng đến [Xa Harad: Vùng đất cháy](../F/Far_Harad%253A_The_Scorched_Land.md).
+Chuyển hướng đến [Far Harad: The Scorched Land](../F/Far_Harad%253A_The_Scorched_Land.md).

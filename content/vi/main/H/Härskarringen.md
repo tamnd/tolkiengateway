@@ -37,7 +37,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Harskarringen.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7c/Harskarringen.jpg/320px-Harskarringen.jpg" decoding="async" loading="lazy" width="320" height="171" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/7/7c/Harskarringen.jpg 1.5x" data-file-width="457" data-file-height="244"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Härskarringen</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Translator</th><td class="tg-infobox-data"><a href="../_/Åke_Ohlmarks.md" title="Åke Ohlmarks">Åke Ohlmarks</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Rolf Lagerson (1st ed)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1959.md" title="1959">1959</a>, <a href="../_/1960.md" title="1960">1960</a>, <a href="../_/1961.md" title="1961">1961</a> (1st eds)</td></tr></tbody></table>
 
-<i><b>Härskarringen</b></i> ("Quyết định Nhẫn") là tên của bản dịch của [Åke Ohlmarks](../_/Åke_Ohlmarks.md) sang tiếng Thụy Điển từ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Härskarringen</b></i> ("Chiếc nhẫn thống trị") là tên của bản dịch của [Åke Ohlmarks](../_/Åke_Ohlmarks.md) sang tiếng Thụy Điển từ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Lịch sử {#History}
 
@@ -79,12 +79,12 @@ Mẫu các phiên bản khác nhau của *Härskarringen*:<sup id="cite_ref-4" c
 
 <dl><dd><i>See: <a href="../_/Åke_Ohlmarks.md#Ohlmarks_and_Tolkien" title="Åke Ohlmarks">Åke Ohlmarks: Ohlmarks and Tolkien</a></i></dd></dl>
 
-Trong một [bức thư tháng 7 năm 1960](../L/Letter_to_H.W._Donner.md), Tolkien bày tỏ sự không thích ảnh bìa của *Sagan om ringen*, vì nó mâu thuẫn với nội dung.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong [bức thư tháng 7 năm 1960](../L/Letter_to_H.W._Donner.md), Tolkien bày tỏ sự không thích ảnh bìa của *Sagan om ringen*, vì nó mâu thuẫn với nội dung.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Translation_of_The_Lord_of_the_Rings_into_Swedish" title="wikipedia:Translation of The Lord of the Rings into Swedish">Bản dịch The Lord of the Rings sang tiếng Thụy Điển</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="https://web.archive.org/web/20131210214607/http://mythoi.tolkienindex.net/#post2" rel="noreferrer noopener" target="_blank">Hans Künzel đã phát hiện ra <i>The Lord of the Rings</i>?</a> của [Morgan Thomsen](../M/Morgan_Thomsen.md)
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Translation_of_The_Lord_of_the_Rings_into_Swedish" title="wikipedia:Translation of The Lord of the Rings into Swedish">Bản dịch Chúa tể của những chiếc nhẫn sang tiếng Thụy Điển</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="external text" href="https://web.archive.org/web/20131210214607/http://mythoi.tolkienindex.net/#post2" rel="noreferrer noopener" target="_blank">Hans Künzel đã khám phá ra <i>Chúa tể của những chiếc nhẫn</i>?</a> của [Morgan Thomsen](../M/Morgan_Thomsen.md)
 
 <span></span>
 

@@ -41,11 +41,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Languages_of_Tolkien&#39;s_Middle-earth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/85/The_Languages_of_Tolkien%27s_Middle-earth.jpg/293px-The_Languages_of_Tolkien%27s_Middle-earth.jpg" decoding="async" loading="lazy" width="293" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/8/85/The_Languages_of_Tolkien%27s_Middle-earth.jpg 1.5x" data-file-width="367" data-file-height="600"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Languages of Tolkien&#39;s Middle-earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../R/Ruth_S._Noel.md" title="Ruth S. Noel">Ruth S. Noel</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Second edition, May <a href="../_/1980.md" title="1980">1980</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">224</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0395291305" title="Special:BookSources/0395291305">0395291305</a></td></tr></tbody></table>
 
-**Ngôn ngữ của Tolkien's Trung Địa** là cuốn sách của [Ruth S. Noel](../R/Ruth_S._Noel.md) nghiên cứu ngôn ngữ của Tolkien. Cuốn sách này đã lỗi thời nặng nề, được xuất bản trước *[The Silmarillion](The_Silmarillion.md)* và *[The History of Middle-earth](The_History_of_Middle-earth.md)*, thậm chí còn có những lỗi trong tài liệu đã có sẵn vào thời điểm đó.
+**Các ngôn ngữ ở Trung địa của Tolkien** là cuốn sách của [Ruth S. Noel](../R/Ruth_S._Noel.md) nghiên cứu các ngôn ngữ của Tolkien. Cuốn sách này đã lỗi thời nặng nề, được xuất bản trước *[The Silmarillion](The_Silmarillion.md)* và *[The History of Middle-earth](The_History_of_Middle-earth.md)*, thậm chí còn có những lỗi trong tài liệu đã có sẵn vào thời điểm đó.
 
 ## Từ Nhà xuất bản {#From_the_Publisher}
 
-Đây là cuốn sách về tất cả các ngôn ngữ do [Tolkien](../J/J.R.R._Tolkien.md) phát minh, được sử dụng bởi [Hobbit](../H/Hobbits.md), [Tiên tộc](../E/Elves.md) và [Con Người](../M/Men.md) của [Trung Địa](../M/Middle-earth.md)—một từ điển gồm 14 ngôn ngữ, một bảng chú giải tiếng Anh-[Elvish](../E/Elvish.md), tất cả [Chữ Rune](../R/Runes.md) và bảng chữ cái cũng như tài liệu về Tolkien nhà ngôn ngữ học.
+Đây là cuốn sách về tất cả các ngôn ngữ do [Tolkien](../J/J.R.R._Tolkien.md) sáng tạo ra, được sử dụng bởi [Hobbit](../H/Hobbits.md), [Yêu tinh](../E/Elves.md) và [Người](../M/Men.md) của [Trung Địa](../M/Middle-earth.md)—một từ điển gồm 14 ngôn ngữ, bảng chú giải tiếng Anh [Elvish](../E/Elvish.md), tất cả [Chữ Rune](../R/Runes.md) và bảng chữ cái cũng như tài liệu về Tolkien nhà ngôn ngữ học.
 
 ## Phiên bản {#Editions}
 
@@ -57,7 +57,7 @@ Thông tin chi tiết về các phiên bản khác nhau.<sup id="cite_ref-1" cla
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.elvish.org/articles/LRH.html" rel="noreferrer noopener" target="_blank"> <i>Ngôn ngữ của Tolkien ở Trung Địa</i></a> của Ruth S. Noel tại <a class="external text" href="http://www.elvish.org" rel="noreferrer noopener" target="_blank">Elvish.org</a> (danh sách lỗi)
+- <a class="external text" href="http://www.elvish.org/articles/LRH.html" rel="noreferrer noopener" target="_blank">Ruth S. Noel <i>Ngôn ngữ của Trung Địa của Tolkien</i></a> tại <a class="external text" href="http://www.elvish.org" rel="noreferrer noopener" target="_blank">Elvish.org</a> (danh sách lỗi)
 
 <span></span>
 

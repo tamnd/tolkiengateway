@@ -18,7 +18,7 @@ sort_keys:
   "People of unknown nationality": "Dean, Rob"
 ---
 
-**Rob Dean** là một diễn viên. Anh ấy đã chơi một số phần trong trò chơi [Tolkien](../J/J.R.R._Tolkien.md).
+**Rob Dean** là một diễn viên. Ông đã chơi một số phần trong trò chơi [Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Vai trò {#Roles}
 

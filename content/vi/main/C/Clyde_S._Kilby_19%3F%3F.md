@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Clyde S. Kilby (unknown date)"
 ---
 
-Chuyển hướng tới [Thư gửi Clyde S. Kilby (không xác định ngày)](<../L/Letter_to_Clyde_S._Kilby_(unknown_date).md>).
+Chuyển hướng đến [Thư gửi Clyde S. Kilby (không xác định ngày)](<../L/Letter_to_Clyde_S._Kilby_(unknown_date).md>).

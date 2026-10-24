@@ -20,7 +20,7 @@ images:
 
 ## Địa điểm {#Locations}
 
-- *[Mount Doom](Mount_Doom.md)*hoặc *Orodruin*, núi lửa ở [Mordor](Mordor.md).
+- *[Mount Doom](Mount_Doom.md)* hoặc *Orodruin*, núi lửa ở [Mordor](Mordor.md).
 
 ## Chương {#Chapters}
 
@@ -29,7 +29,7 @@ images:
 ## Các bản chuyển thể {#Adaptations}
 
 - [*Mount Doom* (cảnh)](<Mount_Doom_(scene).md>), cảnh trong [The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
-- [*Mount Doom* (nhạc phim)](<Mount_Doom_(soundtrack).md>), bài hát từ [The Lord of the Rings: The Return of the King - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md).
+- [*Mount Doom* (nhạc phim)](<Mount_Doom_(soundtrack).md>), bản nhạc từ [The Lord of the Rings: The Return of the King - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md).
 
 <hr style="margin-top:15px;"/>
 

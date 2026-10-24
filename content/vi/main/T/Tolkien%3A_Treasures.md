@@ -33,9 +33,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Treasures.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/44/Tolkien_Treasures.jpeg/320px-Tolkien_Treasures.jpeg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/44/Tolkien_Treasures.jpeg/480px-Tolkien_Treasures.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/4/44/Tolkien_Treasures.jpeg/640px-Tolkien_Treasures.jpeg 2x" data-file-width="1280" data-file-height="1280"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien: Treasures</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../C/Catherine_McIlwaine.md" title="Catherine McIlwaine">Catherine McIlwaine</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../B/Bodleian_Library.md" title="Bodleian Library">Bodleian Library</a>, Oxford</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1_June.md" title="1 June">1 June</a> <a href="../_/2018.md" title="2018">2018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">144</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/1851244964" title="Special:BookSources/1851244964">1851244964</a></td></tr></tbody></table>
 
-<i><b>Tolkien: Kho báu</b></i> là một cuốn sách nghệ thuật được xuất bản vào năm [2018](../_/2018.md), tái hiện 100 bức tranh minh họa màu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Cuốn sách được viết bởi [Catherine McIlwaine](../C/Catherine_McIlwaine.md), nhà lưu trữ Tolkien tại [Thư viện Bodleian](../B/Bodleian_Library.md). Nó được xuất bản cùng với *[Tolkien: Maker of Middle-earth](Tolkien%253A_Maker_of_Middle-earth.md)*, đóng vai trò là tập đi kèm với nó.
+<i><b>Tolkien: Treasures</b></i> là một cuốn sách nghệ thuật được xuất bản vào năm [2018](../_/2018.md), tái hiện 100 hình minh họa màu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Cuốn sách được viết bởi [Catherine McIlwaine](../C/Catherine_McIlwaine.md), nhà lưu trữ Tolkien tại [Thư viện Bodleian](../B/Bodleian_Library.md). Nó được xuất bản cùng với *[Tolkien: Maker of Middle-earth](Tolkien%253A_Maker_of_Middle-earth.md)*, đóng vai trò là tập đi kèm với nó.
 
-Hai cuốn sách nhằm mục đích trình bày một quan điểm có thẩm quyền về nghệ thuật tranh ảnh của Tolkien, đóng khung nó trong bối cảnh cuộc sống cá nhân, nghề nghiệp, gia đình, học thuật và sáng tạo của anh ấy.
+Hai cuốn sách nhằm mục đích trình bày một góc nhìn có thẩm quyền về nghệ thuật hội họa của Tolkien, đóng khung nó trong bối cảnh cuộc sống cá nhân, nghề nghiệp, gia đình, học thuật và sáng tạo của ông.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -50,11 +50,11 @@ From Tolkien’s childhood in the Midlands and his experience of the First World
 ## Xem thêm {#See_also}
 
 - *[Tolkien: Maker of Middle-earth](Tolkien%253A_Maker_of_Middle-earth.md)*
-- [Tolkien triển lãm](Tolkien_exhibitions.md)
+- [Triển lãm Tolkien](Tolkien_exhibitions.md)
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://muse.jhu.edu/article/738152" rel="noreferrer noopener" target="_blank">Đánh giá sách</a> của Denis Bridoux, [Tolkien Nghiên cứu. 16](Tolkien_Studies%253A_Volume_16.md)
+- <a class="external text" href="https://muse.jhu.edu/article/738152" rel="noreferrer noopener" target="_blank">Đánh giá sách</a> của Denis Bridoux, [Nghiên cứu Tolkien. 16](Tolkien_Studies%253A_Volume_16.md)
 
 <br>
 

@@ -39,7 +39,7 @@ infobox:
 
 ## Nội dung {#Contents}
 
-- "Nhóm anh em củaFrodo: Huyền thoại, đạo đức và hiện thực trong J.R.R. Tolkien và Stephen E. Ambrose"
+- "Nhóm anh em của Frodo: Huyền thoại, đạo đức và hiện thực trong J.R.R. Tolkien và Stephen E. Ambrose"
     - Bởi: Ben Murnane
 - "'Let Grill Be Grill': Sự biến thái của Rabadash và những người khác"
     - Bởi: Charles A. Huttar

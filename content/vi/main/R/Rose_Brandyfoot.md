@@ -36,7 +36,7 @@ infobox:
 
 Rose được sinh ra vào nửa sau của [Thời thứ hai](../S/Second_Age.md). Cô kết hôn với [Largo Brandyfoot](../L/Largo_Brandyfoot.md) và lấy tên <a class="new" href="https://tolkiengateway.net/w/index.php?title=Brandyfoot_family&amp;action=edit&amp;redlink=1" title="Brandyfoot family (page does not exist)">Brandyfoot</a>.
 
-Sau cái chết của Rose Brandyfoot, chồng cô, Largo, đã "*cảm thấy như bánh xe bị nổ tung từ bên dưới*" anh ấy. Largo đã tin rằng sau cái chết của Rose, anh ấy sẽ không bao giờ trở lại như cũ nữa. Mặc dù Largo Brandyfoot cuối cùng đã có thể rời bỏ Rose, nhưng phải đến lần đầu tiên anh nhìn thấy [Marigold](../M/Marigold_Brandyfoot.md) trong khu đất trống của [Norfield Glen](../N/Norfield_Glen.md), anh mới có thể vượt qua nỗi đau của mình. Họ có với nhau hai người con: [Elanor](../E/Elanor_Brandyfoot.md) và [Dilly](../D/Dilly_Brandyfoot.md).
+Sau cái chết của Rose Brandyfoot, chồng cô, Largo, đã "*cảm thấy như bánh xe bị nổ tung từ bên dưới*" ông. Largo đã tin rằng sau cái chết của Rose, ông sẽ không bao giờ trở lại như cũ nữa. Mặc dù Largo Brandyfoot cuối cùng đã có thể rời bỏ Rose, nhưng phải đến lần đầu tiên anh nhìn thấy [Marigold](../M/Marigold_Brandyfoot.md) trong khu đất trống của [Norfield Glen](../N/Norfield_Glen.md), anh mới có thể vượt qua nỗi đau của mình. Họ có với nhau hai người con: [Elanor](../E/Elanor_Brandyfoot.md) và [Dilly](../D/Dilly_Brandyfoot.md).
 
 Sau khi bị gãy mắt cá chân trái và Marigold lo sợ rằng đoàn lữ hành sẽ buộc phải bỏ lại họ trong chuyến di cư do vết thương. Tuy nhiên, Largo đã cố gắng chữa lành nỗi tuyệt vọng của cô bằng cách nhắc nhở cô rằng cô đã giúp đỡ anh khi anh đau buồn cho Rose Brandyfoot.
 

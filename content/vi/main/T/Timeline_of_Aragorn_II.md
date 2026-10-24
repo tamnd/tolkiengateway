@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Timeline of Aragorn"
 ---
 
-Chuyển hướng đến [Dòng thời gian của Aragorn](Timeline_of_Aragorn.md).
+Chuyển hướng tới [Dòng thời gian của Aragorn](Timeline_of_Aragorn.md).

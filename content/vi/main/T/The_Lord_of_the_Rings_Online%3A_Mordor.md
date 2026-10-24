@@ -42,12 +42,12 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTRO_-_Mordor_logo.jpg.md"><img src="https://tolkiengateway.net/w/images/0/0a/LOTRO_-_Mordor_logo.jpg" decoding="async" loading="lazy" width="306" height="164" class="mw-file-element" data-file-width="306" data-file-height="164"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Lord of the Rings Online: Mordor</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a href="../S/Standing_Stone_Games.md" title="Standing Stone Games">Standing Stone Games</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../D/Daybreak_Game_Company.md" title="Daybreak Game Company">Daybreak Game Company</a></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">Microsoft Windows</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/31_July.md" title="31 July">31 July</a> <a href="../_/2017.md" title="2017">2017</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">MMORPG</td></tr></tbody></table>
 
-<i><b>The Lord of the Rings Trực tuyến: Mordor</b></i> là bản mở rộng thứ sáu cho *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*. Các tính năng bao gồm:
+<i><b>Chúa tể của những chiếc nhẫn trực tuyến: Mordor</b></i> là bản mở rộng thứ sáu của *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*. Các tính năng bao gồm:
 
 - Khu vực Cao nguyên [Gorgoroth](../G/Gorgoroth.md) bao gồm năm khu vực khác nhau, <a class="mw-redirect mw-disambig" href="../U/Udûn.md" title="Udûn">Udûn</a>, Dor Amarth, Lhingris, Talath Urui và Agarnaith.
 - Phần kết của Dòng nhiệm vụ sử thi (và Tập IV), với Quyển IX - Chiếc nhẫn quyền lực.
-- Một loạt nhiệm vụ mới, "Sách đen Mordor", trở thành cốt truyện chính sau khi kết thúc Nhiệm vụ sử thi. Có bốn chương được giới thiệu trong bản cập nhật này.
-- Hệ thống lòng trung thành được giới thiệu, người chơi có thể cam kết với một trong bốn phe để nhận được phần thưởng lớn hơn trong [Mordor](../M/Mordor.md). Họ là Vương quốc [Gondor](../G/Gondor.md), Tòa án [Lothlórien](../L/Lothlórien.md), [Dân tộc Durin](../D/Durin's_Folk~15256.md) và Hobbit của Công ty.
+- Một loạt nhiệm vụ mới, "Sách đen của Mordor", trở thành cốt truyện chính sau khi kết thúc Nhiệm vụ sử thi. Có bốn chương được giới thiệu trong bản cập nhật này.
+- Hệ thống Allegiance được giới thiệu, người chơi có thể cam kết với một trong bốn phe để nhận được phần thưởng lớn hơn trong [Mordor](../M/Mordor.md). Họ là Vương quốc [Gondor](../G/Gondor.md), Triều đình [Lothlórien](../L/Lothlórien.md), [Dân Durin](../D/Durin's_Folk~15256.md) và Người Hobbit của Công ty.
 - Một cụm phiên bản mới được giới thiệu, bao gồm phiên bản 3 người (The Court of Seregost), phiên bản 6 người (The Dungeons of Naerband) và cuộc đột kích 12 người (The Abyss of Mordath).
 
 ## Cập nhật {#Updates}
@@ -56,25 +56,25 @@ infobox:
 
 *Legacy of the Necromancer* là bản cập nhật thứ 22, được phát hành vào [ngày 6 tháng 3](../_/6_March.md), [2018](../_/2018.md).
 
-- Khu vực mới "[Eryn Lasgalen](../E/Eryn_Lasgalen.md) và các vùng đất Dale" (còn được gọi là "Thành trì của phương Bắc" hoặc "Phía Bắc Mirkwood"), có Rừng Eryn Lasgalen (bao gồm [Sảnh của vua Tiên](../H/Halls_of_the_Elven-king.md) (được gọi là Felegoth), Vùng đất Dale(có các địa điểm mang tính biểu tượng như [Long Lake](../L/Long_Lake.md), [Thị trấn Hồ](../L/Lake-town.md), [Dale](../D/Dale.md) và [Ravenhill](../R/Ravenhill.md)) và [Erebor](../E/Erebor.md), Ngọn Núi Cô Đơn.
-- Ba phe danh tiếng mới được giới thiệu; "Tiên tộc của Felegoth", "Người Dale" và "Người Lùn Erebor".
-- Sách đen Mordor tiếp tục với hai chương mới khám phá khu vực mới.
+- Khu vực mới "[Eryn Lasgalen](../E/Eryn_Lasgalen.md) và vùng đất Dale" (còn được gọi là "Thành trì của phương Bắc" hoặc "Mirkwood phương Bắc"), có Rừng Eryn Lasgalen (bao gồm [Đại sảnh của Vua yêu tinh](../H/Halls_of_the_Elven-king.md) (được gọi là Felegoth), Vùng đất Dale (có các địa điểm mang tính biểu tượng như [Hồ dài](../L/Long_Lake.md), [Lake-town](../L/Lake-town.md), [Dale](../D/Dale.md) và [Ravenhill](../R/Ravenhill.md)) và [Erebor](../E/Erebor.md), Ngọn núi Cô đơn.
+- Ba phe danh tiếng mới được giới thiệu; "Yêu tinh của Felegoth", "Người đàn ông của Dale" và "Người lùn của Erebor".
+- Sách Đen Mordor tiếp tục với hai chương mới khám phá khu vực mới.
 
-### Cập nhật 23: Nơi Rồng Cư trú {#Update_23:_Where_Dragons_Dwell}
+### Cập nhật 23: Nơi rồng trú ngụ {#Update_23:_Where_Dragons_Dwell}
 
 *Where Dragons Dwell* là bản cập nhật thứ hai mươi ba, được phát hành vào [ngày 9 tháng 10](../_/9_October.md), [2018](../_/2018.md).
 
-- Khu vực mới "Kho chứa Người lùn", bao gồm hai khu vực; [Dãy Đồi Sắt](../I/Iron_Hills.md) và [Ered Mithrin](../E/Ered_Mithrin.md). Một vùng mở rộng [Erebor](../E/Erebor.md) cũng được mở ra.
+- Khu vực mới "Nơi giam giữ của người lùn", bao gồm hai khu vực; [Iron Hills](../I/Iron_Hills.md) và [Ered Mithrin](../E/Ered_Mithrin.md). Một khu vực mở rộng của [Erebor](../E/Erebor.md) cũng được mở ra.
 - Một cụm phiên bản mới được giới thiệu, bao gồm hai phiên bản 3 người (Caverns of Thrumfall và Glimmerdeep), một phiên bản sáu người (Thikil-gundu) và một cuộc đột kích 12 người (The Anvil of Winterstith).
-- Sách đen Mordor tiếp tục với hai chương mới khám phá những lĩnh vực mới.
+- Cuốn Sách Đen Mordor tiếp tục với hai chương mới khám phá những khu vực mới.
 
 ### Cập nhật 24: Thung lũng Anduin {#Update_24:_Vales_of_Anduin}
 
 *Vales of Anduin* là bản cập nhật thứ 24, được phát hành vào [ngày 4 tháng 6](../_/4_June.md), [2019](../_/2019.md).
 
-- Một khu vực mới, [Thung lũng Anduin](../V/Vales_of_Anduin.md) đã được phát hành, chứa một số địa điểm quan trọng như Beorninghus ([Beorn's Hall](../B/Beorn's_Hall.md)), [Carrock](../C/Carrock.md), [Eagle's Eyrie](../E/Eagle's_Eyrie.md), [Gladden Fields](../G/Gladden_Fields.md), [Rhosgobel](../R/Rhosgobel.md) và nhiều khu định cư khác nhau của [Người Rừng](../W/Woodmen.md).
+- Một khu vực mới, [Vales of Anduin](../V/Vales_of_Anduin.md) đã được phát hành, bao gồm một số địa điểm quan trọng như Beorninghus ([Beorn's Hall](../B/Beorn's_Hall.md)), [Carrock](../C/Carrock.md), [Eagle's Eyrie](../E/Eagle's_Eyrie.md), [Gladden Fields](../G/Gladden_Fields.md), [Rhosgobel](../R/Rhosgobel.md) và nhiều địa điểm khác nhau khu định cư của [Người rừng](../W/Woodmen.md).
 - Bản cập nhật 24.2 đã đưa tiểu vùng "Gladdenmere" đến Vales, cùng với một phiên bản sáu người duy nhất, "The Depths of Kidzul-kalah.
-- Sách đen của Mordor tiếp tục với hai chương mới khám phá khu vực mới, bên cạnh "Khúc dạo đầu" cho Bản mở rộng Minas Morgul.
+- Sách đen Mordor tiếp tục với hai chương mới khám phá khu vực mới, bên cạnh phần "Khởi đầu" cho Bản mở rộng Minas Morgul.
 
 <br>
 

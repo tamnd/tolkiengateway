@@ -13,7 +13,7 @@ categories:
   - "Noldorin nouns"
 ---
 
-<i><b>gweith</b></i> là một danh từ [Noldorin](../N/Noldorin.md) có nghĩa là "nam tính". Nghĩa thường được mở rộng thành “nhân lực, đội quân tráng kiện, chủ lực, trung đoàn”.<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>gweith</b></i> là danh từ [Noldorin](../N/Noldorin.md) có nghĩa là "nam tính". Nghĩa thường được mở rộng thành “nhân lực, đội quân tráng kiện, chủ lực, trung đoàn”.<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -21,7 +21,7 @@ categories:
 
 ## Xem thêm {#See_also}
 
-- Sindarin *[gwaith](Gwaith.md)*
+- Tiếng Sindarin *[gwaith](Gwaith.md)*
 
 <span></span>
 

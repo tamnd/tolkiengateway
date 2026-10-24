@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Maps of Arda"
 ---
 
-Chuyển hướng tới [Danh mục:Bản đồ Arda](../../category/M/Maps_of_Arda.md).
+Chuyển hướng đến [Danh mục:Bản đồ Arda](../../category/M/Maps_of_Arda.md).

@@ -29,5 +29,5 @@ Công ty đã sản xuất mùa đầu tiên của *[The Lord of the Rings: The 
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Amazon_MGM_Studios" title="wikipedia:Amazon MGM Studios">Amazon Phim trường MGM</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Amazon_MGM_Studios" title="wikipedia:Amazon MGM Studios">Amazon MGM Studios</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 - <a class="external text" href="http://studios.amazon.com/" rel="noreferrer noopener" target="_blank">Trang web chính thức</a>

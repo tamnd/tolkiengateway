@@ -16,7 +16,7 @@ images:
 
 **Orodlin** có thể đề cập đến:
 
-- [Orodlin](<Orodlin_(son_of_Orodreth).md>), một khái niệm bị bỏ rơi của đứa con trai của [Orodreth](Orodreth.md).
+- [Orodlin](<Orodlin_(son_of_Orodreth).md>), một khái niệm bị bỏ rơi của một đứa con trai của [Orodreth](Orodreth.md).
 - [Orodlin](../L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Orodlin), một nhân vật phụ trong *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*.
 
 <hr style="margin-top:15px;"/>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Sunday Times Magazine 19 September 1982"
 ---
 
-Chuyển hướng đến [Tạp chí Thời báo Chủ nhật 19 tháng Chín 1982](The_Sunday_Times_Magazine_19_September_1982.md).
+Chuyển hướng đến [Tạp chí Thời báo Chủ nhật ngày 19 tháng 9 năm 1982](The_Sunday_Times_Magazine_19_September_1982.md).

@@ -35,7 +35,7 @@ infobox:
 
 <b><i>Tạp chí New York Times</i> ngày 15 tháng 1 năm 1967</b> là số của <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_New_York_Times_Magazine" title="wikipedia:The New York Times Magazine">Tạp chí New York Times</a></i>.
 
-Bài viết "Sự phổ biến của Hobbit" của Philip Norman bao gồm các trích đoạn từ [cuộc phỏng vấn với Tolkien](../../index/I/Interviews_with_J.R.R._Tolkien.md) (trang 30-1, 97 và 100-2).
+Bài viết "Sự phổ biến của người Hobbit" của Philip Norman bao gồm các đoạn trích từ [cuộc phỏng vấn với Tolkien](../../index/I/Interviews_with_J.R.R._Tolkien.md) (trang 30-1, 97 và 100-2).
 
 Một bài viết khác (tương tự nhưng không giống hệt) dựa trên cùng một cuộc phỏng vấn đã được xuất bản cùng ngày trên *[The Sunday Times Magazine](The_Sunday_Times_Magazine_15_January_1967.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 

@@ -60,11 +60,11 @@ infobox:
 
 Arveleg lên ngôi sau cái chết của cha mình, [Arvegil](Arvegil.md), vào năm [T.A.](../T/Third_Age.md) [1743](../T/Third_Age_1743.md). Ông đã cai trị trong bảy mươi năm, dường như là một khoảng thời gian bình yên vì không có sự kiện đáng chú ý nào được ghi lại trong thời gian trị vì của ông.
 
-Ông mất thọ 180 tuổi và được con trai là [Araval](Araval.md).<sup id="cite_ref-North_2-1" class="reference"><a href="#cite_note-North-2">[2]</a></sup> kế vị
+Ông mất thọ 180 tuổi và được con trai là [Araval](Araval.md) kế vị.<sup id="cite_ref-North_2-1" class="reference"><a href="#cite_note-North-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Arveleg* là tên [Sindarin](../S/Sindarin.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Hiệp hội Tolkiendil gợi ý rằng *Arveleg* có nghĩa là "Mạnh mẽ Vua" và là sự kết hợp của *[ar(a)-](Ara.md)* ("hoàng gia", "cao quý", "cao") và một dạng [dễ chịu](../L/Lenition.md) *veleg* của *[beleg](../B/Beleg.md)* ("hùng mạnh", "vĩ đại").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Có khả năng ông được đặt theo tên của ông cố của mình, [Arveleg I](Arveleg_I.md).
+*Arveleg* là tên [Sindarin](../S/Sindarin.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Hiệp hội Tolkiendil gợi ý rằng *Arveleg* có nghĩa là "Vị vua hùng mạnh" và là sự kết hợp của *[ar(a)-](Ara.md)* ("hoàng gia", "cao quý", "cao") và một dạng [được khoan dung](../L/Lenition.md) *veleg* của *[beleg](../B/Beleg.md)* ("hùng mạnh", "vĩ đại").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Có khả năng là ông được đặt theo tên của ông cố của mình, [Arveleg I](Arveleg_I.md).
 
 ## Phả hệ {#Genealogy}
 

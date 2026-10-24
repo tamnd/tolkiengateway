@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eye of Sauron"
 ---
 
-Chuyển hướng đến [Con Mắt của Sauron](../E/Eye_of_Sauron.md).
+Chuyển hướng tới [Con mắt của Sauron](../E/Eye_of_Sauron.md).

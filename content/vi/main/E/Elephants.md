@@ -18,13 +18,13 @@ Trong [Quenya](../Q/Quenya.md), từ "con voi" là *andamunda*. Từ [Noldorin](
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
 
 <dl><dd><i>Andamundar</i> (suggested plural form of <i>Andamunda</i>) are described as &#34;the smaller and more numerous cousin of the famous Mûmak&#34;.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://sacnoths.blogspot.se/2013/04/tolkien-and-elephant.html" rel="noreferrer noopener" target="_blank">Tolkien và Voi</a> của [John D. Rateliff](../J/John_D._Rateliff.md)
+- <a class="external text" href="http://sacnoths.blogspot.se/2013/04/tolkien-and-elephant.html" rel="noreferrer noopener" target="_blank">Tolkien và con voi</a> của [John D. Rateliff](../J/John_D._Rateliff.md)
 
 <span></span>
 

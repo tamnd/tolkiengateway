@@ -36,32 +36,32 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_70.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/43/Mythlore_70.png/320px-Mythlore_70.png" decoding="async" loading="lazy" width="320" height="409" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/43/Mythlore_70.png/480px-Mythlore_70.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/43/Mythlore_70.png/640px-Mythlore_70.png 2x" data-file-width="696" data-file-height="889"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 70</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Autumn <a href="../_/1992.md" title="1992">1992</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">67</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_69.md" title="Mythlore 69">Mythlore 69</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_71.md" title="Mythlore 71">Mythlore 71</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 70</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol18/iss4/" rel="noreferrer noopener" target="_blank">Tập 18, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 70</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol18/iss4/" rel="noreferrer noopener" target="_blank">Tập 18, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
-Một "Bức thư" từ [Carl F. Hostetter](../C/Carl_F._Hostetter.md) là phản hồi cho bài viết "[Gondolinic Runes](../G/Gondolinic_Runes.md)" của [Paul Nolan Hyde](../P/Paul_Nolan_Hyde.md) đăng trên [*Mythlore* 69](Mythlore_69.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+"Bức thư" của [Carl F. Hostetter](../C/Carl_F._Hostetter.md) là phản hồi cho bài viết "[Gondolinic Runes](../G/Gondolinic_Runes.md)" của [Paul Nolan Hyde](../P/Paul_Nolan_Hyde.md) đăng trên [*Mythlore* 69](Mythlore_69.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Stoddard, William H. “Luật pháp và các thể chế trong Shire.”
-- Kollmann, Judith. “*Eros, Philia,* và *Agape* trong Charles Williams' Arthuriad.”
-- Herrick, Jim. “C.S. Lewis và Lập luận tường thuật trong *Out of the Silent Planet*.”
-- Hood, Gwenyth E., Dainis Bisenieks, Stephen Linhart, Gary Hunnewell, Tim Callahan, Edna Montemayor, John L. Leland và Paul Nolan Hyde. “Cống hiến cho J.R.R. Tolkien.”
-- Tiền bối, William. “Donaldson và Tolkien.”
-- Venhecke, Johan. “Tolkien bằng tiếng Hà Lan: Nghiên cứu về việc tiếp nhận công việc của Tolkien ở Bỉ và Hà Lan.”
-- Payne, Craig. “Chu kỳ hoàng đạo trong John Người làm vườn *Grendel*.”
+- Stoddard, William H. “Law and Institutions in the Shire.”
+- Kollmann, Judith. “*Eros, Philia,* and *Agape* in Charles Williams' Arthuriad.”
+- Herrick, Jim. “C.S. Lewis and Narrative Argument in *Out of the Silent Planet*.”
+- Hood, Gwenyth E., Dainis Bisenieks, Stephen Linhart, Gary Hunnewell, Tim Callahan, Edna Montemayor, John L. Leland, and Paul Nolan Hyde. “Tributes to J.R.R. Tolkien.”
+- Senior, William. “Donaldson and Tolkien.”
+- Venhecke, Johan. “Tolkien in Dutch: A Study of the Reception of Tolkien's Work in Belgium and the Netherlands.”
+- Payne, Craig. “The Cycle of the Zodiac in John Gardener's *Grendel*.”
 
 #### Thơ {#Poetry}
 
-- Paxson, Diana L. “Đứa bé và chú chim.”
+- Paxson, Diana L. “The Baby and The Bird.”
 
 #### Tính năng {#Features}
 
-- GoodKnight, Glen H. Editorial Giới thiệu: Trong số này.
-- Callahan, Bg và Glen GoodKnight. “Những hình ảnh từ Hội nghị trăm năm Tolkien.”
-- Christopher, Joe R. và Wayne G. Hammond. Một Inklings Thư mục (47).
-- Kodratiev, Alexei. “Những câu chuyện mới được kể.”
+- GoodKnight, Glen H. Editorial Introduction: In This Issue.
+- Callahan, Bg và Glen GoodKnight. “Hình ảnh từ Hội nghị trăm năm Tolkien.”
+- Christopher, Joe R., and Wayne G. Hammond. An Inklings Bibliography (47).
+- Kondratiev, Alexei. “Tales Newly Told.”
 - Thư.
 - DiSante, Paula, Nancy-Lou Patterson và Denis Gordeyev. “Nhận xét của nghệ sĩ.”
 
@@ -70,7 +70,7 @@ Một "Bức thư" từ [Carl F. Hostetter](../C/Carl_F._Hostetter.md) là phả
 - *Charles Williams.* David Llewellyn Dodds. Được đánh giá bởi Nancy-Lou Patterson.
 - *Fish Soup*. Ursula K. LeGuin, Minh họa. của Patrick Wynne. Được đánh giá bởi Glen GoodKnight.
 - *J.R.R. Tolkien: Life and Legend*. *Triển lãm kỷ niệm 100 năm ngày sinh của J.R.R. Tolkien.* Giới thiệu. Judith Priestman. Được đánh giá bởi Glen GoodKnight.
-- *The 1993 Tolkien Calendar.* Minh họa. bởi Alan Lee. Được đánh giá bởi Glen GoodKnight.
+- *The 1993 Tolkien Calendar.* Minh họa. của Alan Lee. Được đánh giá bởi Glen GoodKnight.
 - *The C.S. Lewis Handbook.* Colin Duriez. Được đánh giá bởi Nancy-Lou Patterson.
 - *Tất cả con đường phía trước tôi: Nhật ký của C.S. Lewis.* C.S. Lewis. Được đánh giá bởi Nancy-Lou Patterson.
 

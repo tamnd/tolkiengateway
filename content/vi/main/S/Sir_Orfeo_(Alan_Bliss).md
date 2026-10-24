@@ -28,13 +28,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Sir Orfeo</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Edited and translated by <a href="../A/Alan_Bliss.md" title="Alan Bliss">Alan Bliss</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">London: Oxford University Press; Oxford: Clarendon Press (2nd ed.)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1954.md" title="1954">1954</a>; 1966 (2nd ed.)</td></tr></tbody></table>
 
-<i><b>Sir Orfeo</b></i> là ấn bản của bài thơ [tiếng Anh trung cổ](../M/Middle_English.md) <i><a class="mw-redirect mw-disambig" href="Sir_Orfeo.md" title="Sir Orfeo">Sir Orfeo</a></i> của [Alan Bliss](../A/Alan_Bliss.md). Nó in cả ba bản thảo và dựng lại đoạn mở đầu dài 38 dòng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ấn bản được xuất bản lần đầu trên tạp chí *Oxford English Monographs*, trong đó [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) là tổng biên tập.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>Sir Orfeo</b></i> là ấn bản của bài thơ [tiếng Anh trung cổ](../M/Middle_English.md) <i><a class="mw-redirect mw-disambig" href="Sir_Orfeo.md" title="Sir Orfeo">Sir Orfeo</a></i> của [Alan Bliss](../A/Alan_Bliss.md). Nó in cả ba bản thảo và dựng lại đoạn mở đầu dài 38 dòng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ấn bản được xuất bản lần đầu trên tờ *Oxford English Monographs*, trong đó [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) là tổng biên tập.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-- Lưu ý: Ấn phẩm này có trong "Danh sách tất cả Tolkien sách" của [Pieter Collier](../P/Pieter_Collier.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- Lưu ý: Ấn phẩm này có trong "Danh sách tất cả sách Tolkien" của [Pieter Collier](../P/Pieter_Collier.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ phần giới thiệu {#From_the_Introduction}
 
-"\[Xin cảm ơn Tolkien\] *sự uyên bác sâu sắc của ông là nguồn cảm hứng cho tất cả những ai đã làm việc với ông*" (p. vi) <span></span>
+"\[Thật may mắn, cảm ơn Tolkien\] *sự uyên bác sâu sắc của ông là nguồn cảm hứng cho tất cả những ai đã làm việc với ông*" (p. vi) <span></span>
 
 ## Tài liệu tham khảo {#References}
 

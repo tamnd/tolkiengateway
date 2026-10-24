@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Turambar and the Foalókë"
 ---
 
-Chuyển hướng đến [Turambar and the Foalókë](Turambar_and_the_Foalókë.md).
+Chuyển hướng đến [Turambar và Foalókë](Turambar_and_the_Foalókë.md).

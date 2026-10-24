@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fall of Mount Gundabad"
 ---
 
-Chuyển hướng đến [Sự sụp đổ của Mount Gundabad](Fall_of_Mount_Gundabad.md).
+Chuyển hướng tới [Sự sụp đổ của núi Gundabad](Fall_of_Mount_Gundabad.md).

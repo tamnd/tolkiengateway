@@ -60,11 +60,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Boron là con trai của [Baran](Baran.md) và cháu trai của [Bëor Lão](Bëor.md), và được thừa kế chức vụ gia trưởng sau khi cha ông qua đời vào năm [380](../F/First_Age_380.md). Ông có hai người con trai, [Boromir](<Boromir_(Lord_of_Ladros).md>) và [Belegor](Belegor.md), người con cả kế thừa danh hiệu của ông và cũng trở thành [Lãnh chúa Ladros](../L/Lord_of_Ladros.md)đầu tiên.<sup id="cite_ref-WJBeor_1-1" class="reference"><a href="#cite_note-WJBeor-1">[1]</a></sup>
+Boron là con trai của [Baran](Baran.md) và là cháu trai của [Bëor the Old](Bëor.md), và thừa kế tước vị chủ gia đình sau cái chết của cha anh vào năm [380](../F/First_Age_380.md). Ông có hai con trai, [Boromir](<Boromir_(Lord_of_Ladros).md>) và [Belegor](Belegor.md), người con cả kế thừa danh hiệu của ông và cũng trở thành [Lãnh chúa Ladros](../L/Lord_of_Ladros.md) đầu tiên.<sup id="cite_ref-WJBeor_1-1" class="reference"><a href="#cite_note-WJBeor-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Boron* là một từ trong [Old Noldorin](../O/Old_Noldorin.md) và [Ilkorin](../I/Ilkorin.md) chỉ "Người kiên định, đáng tin cậy, chư hầu trung thành".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Boron* là một từ trong [Old Noldorin](../O/Old_Noldorin.md) và [Ilkorin](../I/Ilkorin.md) có nghĩa là "Người kiên định, đáng tin cậy, chư hầu trung thành".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -85,7 +85,7 @@ Boron là con trai của [Baran](Baran.md) và cháu trai của [Bëor Lão](Bë
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *[The Grey Annals](../T/The_Grey_Annals.md)*, được tạo ra vào những năm 1930,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Bëor được theo sau bởi các con trai của ông là [Bregolas](Bregolas.md) và [Barahir](Barahir.md). Sau khi xuất bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, một phả hệ mới cho Nhà Bëor đã được tạo ra vào những năm 1950 và vào thời điểm đó bốn thế hệ (Baran, **Boron**, Boromir và Bregor) đã được chèn vào sau Bëor, với Bregor là cha của Bregolas và Barahir.<sup id="cite_ref-WJBeor_1-2" class="reference"><a href="#cite_note-WJBeor-1">[1]</a></sup>
+Trong *[The Grey Annals](../T/The_Grey_Annals.md)*, được thành lập vào những năm 1930,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Bëor được nối tiếp bởi các con trai của ông là [Bregolas](Bregolas.md) và [Barahir](Barahir.md). Sau khi xuất bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* một phả hệ mới của Nhà Bëor đã được lập vào những năm 1950 và vào thời điểm đó bốn thế hệ (Baran, **Boron**, Boromir và Bregor) được thêm vào sau Bëor, với Bregor là cha của Bregolas và Barahir.<sup id="cite_ref-WJBeor_1-2" class="reference"><a href="#cite_note-WJBeor-1">[1]</a></sup>
 
 <span></span>
 

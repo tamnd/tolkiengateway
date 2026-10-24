@@ -25,7 +25,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Michael Beattie</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a> in:<br/><a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)">The Hobbit (2003 video game)</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="http://www.imdb.com/name/nm0064170/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
-**Michael Beattie** là diễn viên lồng tiếng người Canada. Anh lồng tiếng cho phần [Bilbo Baggins](../B/Bilbo_Baggins.md) trong [The Hobbit (trò chơi điện tử năm 2003)](<../T/The_Hobbit_(2003_video_game).md>).
+**Michael Beattie** là một diễn viên lồng tiếng người Canada. Anh lồng tiếng cho vai [Bilbo Baggins](../B/Bilbo_Baggins.md) trong [The Hobbit (2003 video game)](<../T/The_Hobbit_(2003_video_game).md>).
 
 ## Liên kết ngoài {#External_links}
 

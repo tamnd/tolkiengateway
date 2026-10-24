@@ -41,15 +41,15 @@ infobox:
 <p class="tg-quote-footer"><cite>Mike Singleton<sup id="cite_ref-interview_2-0" class="reference"><a href="#cite_note-interview-2">[2]</a></sup></cite></p>
 </blockquote>
 
-**Shadowfax** là một trò chơi điện tử hành động arcade thương mại, không có giấy phép được phát hành vào năm [1982](../_/1982.md).<sup id="cite_ref-Tolkien_Games_3-0" class="reference"><a href="#cite_note-Tolkien_Games-3">[3]</a></sup> Người thiết kế chính là [Mike Austin Singleton](../M/Mike_Singleton.md), người sau này đã làm việc trên *[J.R.R. Tolkien's War in Middle Earth](../J/J.R.R._Tolkien's_War_in_Middle_Earth.md)*của [Interplay](../I/Interplay_Productions.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+**Shadowfax** là một trò chơi điện tử hành động arcade thương mại, không có giấy phép được phát hành vào năm [1982](../_/1982.md).<sup id="cite_ref-Tolkien_Games_3-0" class="reference"><a href="#cite_note-Tolkien_Games-3">[3]</a></sup> Người thiết kế chính là [Mike Singleton](../M/Mike_Singleton.md), người sau này đã làm việc trên *[J.R.R. Tolkien's War in Middle Earth](../J/J.R.R._Tolkien's_War_in_Middle_Earth.md)* của [Interplay](../I/Interplay_Productions.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Thiết kế {#Design}
 
-Đồ họa của những chú ngựa đang di chuyển đến từ *Computer Race*, một trò chơi trước đó của Mike Austin Singleton (đã bị hủy do luật cá cược của Vương quốc Anh) và trên thực tế được lấy từ các bức ảnh của <a class="extiw" href="http://en.wikipedia.org/wiki/Eadweard_Muybridge" title="wikipedia:Eadweard Muybridge">Eadweard Muybridge</a>.<sup id="cite_ref-interview_2-1" class="reference"><a href="#cite_note-interview-2">[2]</a></sup>
+Đồ họa của những chú ngựa đang di chuyển đến từ *Computer Race*, một trò chơi trước đó của Mike Singleton (đã bị hủy do luật cá cược của Vương quốc Anh) và trên thực tế được lấy từ các bức ảnh của <a class="extiw" href="http://en.wikipedia.org/wiki/Eadweard_Muybridge" title="wikipedia:Eadweard Muybridge">Eadweard Muybridge</a>.<sup id="cite_ref-interview_2-1" class="reference"><a href="#cite_note-interview-2">[2]</a></sup>
 
 ## Cách chơi {#Gameplay}
 
-Người chơi là [Gandalf](../G/Gandalf.md), cưỡi trên [Shadowfax](Shadowfax.md); mục tiêu là tiêu diệt [Nazgûl](../N/Nazgûl.md) kẻ truy đuổi bằng tia sét.<sup id="cite_ref-Tolkien_Games_3-1" class="reference"><a href="#cite_note-Tolkien_Games-3">[3]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Người chơi là [Gandalf](../G/Gandalf.md), cưỡi trên [Shadowfax](Shadowfax.md); mục tiêu là tiêu diệt [Nazgûl](../N/Nazgûl.md) đang truy đuổi bằng tia sét.<sup id="cite_ref-Tolkien_Games_3-1" class="reference"><a href="#cite_note-Tolkien_Games-3">[3]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Xem thêm {#See_also}
 
@@ -57,7 +57,7 @@ Người chơi là [Gandalf](../G/Gandalf.md), cưỡi trên [Shadowfax](Shadowf
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.lysator.liu.se/tolkien-games/entry/shadowfax.html" rel="noreferrer noopener" target="_blank">Shadowfax</a> tại <a class="external text" href="http://www.lysator.liu.se" rel="noreferrer noopener" target="_blank">Tolkien Trò chơi</a>
+- <a class="external text" href="http://www.lysator.liu.se/tolkien-games/entry/shadowfax.html" rel="noreferrer noopener" target="_blank">Shadowfax</a> tại <a class="external text" href="http://www.lysator.liu.se" rel="noreferrer noopener" target="_blank">Trò chơi Tolkien</a>
 
 <span></span>
 

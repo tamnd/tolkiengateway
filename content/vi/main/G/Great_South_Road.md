@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Greenway"
 ---
 
-Chuyển hướng đến [Greenway](Greenway.md).
+Chuyển hướng tới [Greenway](Greenway.md).

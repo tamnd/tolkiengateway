@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Bridoux, Denis"
 ---
 
-- [Denis Bridoux](../../main/D/Denis_Bridoux.md) (<a class="new" href="https://tolkiengateway.net/w/index.php?title=User:Vanyarin&amp;action=edit&amp;redlink=1" title="User:Vanyarin (page does not exist)">Người dùng:Vanyarin</a>) đã vui lòng cấp phép cho anh ấy sử dụng [tác phẩm](../../category/I/Images_by_Kay_Woollard.md) của [Kay Woollard](../../main/K/Kay_Woollard.md) và bìa *[Weathertop](<../../main/W/Weathertop_(journal).md>)* trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- [Denis Bridoux](../../main/D/Denis_Bridoux.md) (<a class="new" href="https://tolkiengateway.net/w/index.php?title=User:Vanyarin&amp;action=edit&amp;redlink=1" title="User:Vanyarin (page does not exist)">Người dùng:Vanyarin</a>) đã vui lòng cho phép ông sử dụng [tác phẩm](../../category/I/Images_by_Kay_Woollard.md) của [Kay Woollard](../../main/K/Kay_Woollard.md) và bìa *[Weathertop](<../../main/W/Weathertop_(journal).md>)* trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 22 tháng 11 năm 2022.
 - Người dùng đã xin phép: [Người dùng:LorenzoCB](https://tolkiengateway.net/wiki/User:LorenzoCB).

@@ -34,17 +34,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_lexikon.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/97/Tolkien_lexikon.jpg/275px-Tolkien_lexikon.jpg" decoding="async" loading="lazy" width="275" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/9/97/Tolkien_lexikon.jpg 1.5x" data-file-width="411" data-file-height="716"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien-lexikon: med allt från Alvhem till Örtplyte</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../_/Åke_Ohlmarks.md" title="Åke Ohlmarks">Åke Ohlmarks</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Almqvist &amp; Wiksell</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1976.md" title="1976">1976</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">279</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/91-20-04793-2" title="Special:BookSources/91-20-04793-2">91-20-04793-2</a></td></tr></tbody></table>
 
-<i><b>Tolkien-lexikon</b></i> (tiếng Thụy Điển: *Tolkien Lexicon*) là sách tham khảo bằng tiếng Thụy Điển của [Åke Ohlmarks](../_/Åke_Ohlmarks.md), bao gồm tiểu sử và truyền thuyết về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Đây là từ vựng đầu tiên về Tolkien được xuất bản ở Thụy Điển.
+<i><b>Tolkien-lexikon</b></i> (tiếng Thụy Điển: *Tolkien Lexicon*) là một cuốn sách tham khảo bằng tiếng Thụy Điển của [Åke Ohlmarks](../_/Åke_Ohlmarks.md), bao gồm tiểu sử và truyền thuyết về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Đây là từ vựng đầu tiên về Tolkien được xuất bản ở Thụy Điển.
 
-- Lưu ý: Theo Ingvar Svensson,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Từ vựng của Ohlmarks có ít nhất 6.000 lỗi. Để biết thêm thông tin về nhân vật gây tranh cãi của Ohlmarks, hãy xem [trang tiểu sử](../_/Åke_Ohlmarks.md) của anh ấy.
+- Lưu ý: Theo Ingvar Svensson,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Từ vựng của Ohlmarks có ít nhất 6.000 lỗi. Để biết thêm thông tin về nhân vật gây tranh cãi của Ohlmarks, hãy xem [trang tiểu sử](../_/Åke_Ohlmarks.md) của ông.
 
 ## Từ bìa sau {#From_the_back_cover}
 
-Eorl là ai? Isengard nằm ở đâu? Trận chiến ở Morannon diễn ra khi nào? Nazgûl là bao nhiêu?
+Eorl là ai? Isengard tọa lạc ở đâu? Trận chiến ở Morannon diễn ra khi nào? Có bao nhiêu Ma Nhẫn?
 
-Tra cứu câu trả lời trong từ điển này bao gồm tất cả các tác phẩm được dịch bởi J.R.R. Tolkien, người kể chuyện vĩ đại nhất của thời đại chúng ta. Bên trong bạn sẽ tìm thấy hơn 3.600 mục về tên, sự kiện và khái niệm liên quan đến thế giới cổ tích của anh ấy.
+Tra cứu câu trả lời trong từ điển này bao gồm tất cả các tác phẩm được dịch bởi J.R.R. Tolkien, người kể chuyện vĩ đại nhất của thời đại chúng ta. Bên trong bạn sẽ tìm thấy hơn 3.600 mục về tên, sự kiện và khái niệm liên quan đến thế giới cổ tích của ông.
 
-Đối với hàng trăm ngàn độc giả của Tolkien, đây là cuốn sách tham khảo được mong đợi và không thể thiếu. Với sự hướng dẫn của nó, bất kỳ ai cũng có thể tìm đường vào Trung Địa và hiểu được nhiều cuộc phiêu lưu diễn ra trên thế giới này.
+Đối với hàng trăm nghìn độc giả của Tolkien, đây là một cuốn sách tham khảo được mong đợi và không thể thiếu. Với sự hướng dẫn của nó, bất kỳ ai cũng có thể tìm đường đến Trung Địa và hiểu được nhiều cuộc phiêu lưu diễn ra trên thế giới này.
 
 \[Được dịch miễn phí từ tiếng Thụy Điển\]
 

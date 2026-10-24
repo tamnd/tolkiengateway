@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: The Lidless Eye"
 ---
 
-Chuyển hướng đến [Trung Địa: Con mắt không mí](Middle-earth%253A_The_Lidless_Eye.md).
+Chuyển hướng đến [Middle-earth: The Lidless Eye](Middle-earth%253A_The_Lidless_Eye.md).

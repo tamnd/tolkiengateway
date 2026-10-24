@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Min-Rimmon.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/42/The_Lord_of_the_Rings_Online_-_Min-Rimmon.jpg/320px-The_Lord_of_the_Rings_Online_-_Min-Rimmon.jpg" decoding="async" loading="lazy" width="320" height="190" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/42/The_Lord_of_the_Rings_Online_-_Min-Rimmon.jpg/480px-The_Lord_of_the_Rings_Online_-_Min-Rimmon.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/42/The_Lord_of_the_Rings_Online_-_Min-Rimmon.jpg/640px-The_Lord_of_the_Rings_Online_-_Min-Rimmon.jpg 2x" data-file-width="1566" data-file-height="930"/></a><figcaption>The Min-Rimmon beacon and the Ost Rimmon town in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Hill</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Min-Rimmon</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">North of the <a href="../W/White_Mountains.md" title="White Mountains">White Mountains</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Hill</td></tr><tr><th scope="row" class="tg-infobox-label">Description</th><td class="tg-infobox-data">Fifth <a href="../W/Warning_beacons_of_Gondor.md" title="Warning beacons of Gondor">Beacon-hill</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a></td></tr></tbody></table>
 
-**Min-Rimmon** là ngọn đồi thứ năm trong số bảy [đồi báo hiệu](../W/Warning_beacons_of_Gondor.md) của [Gondor](../G/Gondor.md), chạy về phía tây từ [Minas Tirith](Minas_Tirith.md) ở phía bắc của [Dãy Núi Trắng](../W/White_Mountains.md) nhìn xuống vùng đồng bằng [Anórien](../A/Anórien.md).<sup id="cite_ref-Map_1-0" class="reference"><a href="#cite_note-Map-1">[1]</a></sup>
+**Min-Rimmon** là ngọn đồi thứ năm trong số bảy [Ngọn đồi báo hiệu](../W/Warning_beacons_of_Gondor.md) của [Gondor](../G/Gondor.md), chạy về phía tây từ [Minas Tirith](Minas_Tirith.md) ở phía bắc của [Dãy núi Trắng](../W/White_Mountains.md) nhìn xuống vùng đồng bằng [Anórien](../A/Anórien.md).<sup id="cite_ref-Map_1-0" class="reference"><a href="#cite_note-Map-1">[1]</a></sup>
 
 ## Mô tả {#Description}
 
@@ -47,11 +47,11 @@ Min-Rimmon là đỉnh cao nhất trong nhóm vách đá được gọi là <i><
 
 ## Lịch sử {#History}
 
-Vào đêm [7 tháng 3](../_/7_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Gandalf](../G/Gandalf.md) và [Pippin](../P/Peregrin_Took.md), đang đi về hướng đông trên [Shadowfax](../S/Shadowfax.md), nhìn thấy các đèn hiệu được thắp sáng để kêu gọi viện trợ từ Rohan.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Vào đêm [7 tháng 3](../_/7_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Gandalf](../G/Gandalf.md) và [Pippin](../P/Peregrin_Took.md), đang cưỡi ngựa về phía đông trên [Shadowfax](../S/Shadowfax.md), nhìn thấy các đèn hiệu được thắp sáng để kêu gọi viện trợ từ Rohan.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Vào [12 tháng 3](../_/12_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), [Théoden](../T/Théoden.md), trên đường đến Minas Tirith, đã cắm trại đội quân [Rohirrim](../R/Rohirrim.md) của mình dưới sự chỉ huy của Min-Rimmon.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Sau thất bại của [Sauron](../S/Sauron.md), tin tức về lễ đăng quang của [Aragorn](../A/Aragorn.md) đã được gửi đến "*tất cả các vùng của Gondor, từ Min-Rimmon thậm chí đến [Pinnath Gelin](../P/Pinnath_Gelin.md) và các bờ biển xa xôi*".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Điều này cho thấy rằng đã có một khu định cư nào đó ở Min-Rimmon và nó đánh dấu ranh giới phía tây của khu định cư Gondor ở Anórien vào cuối Kỷ Đệ Tam.
+Sau thất bại của [Sauron](../S/Sauron.md), tin tức về lễ đăng quang của [Aragorn](../A/Aragorn.md) đã được gửi tới "*tất cả các vùng của Gondor, từ Min-Rimmon thậm chí đến [Pinnath Gelin](../P/Pinnath_Gelin.md) và các bờ biển xa xôi*".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Điều này cho thấy rằng có một khu định cư nào đó ở Min-Rimmon, và nó đánh dấu ranh giới phía tây của Gondorian định cư ở Anórien vào cuối Thời đại thứ ba.
 
 ## Từ nguyên {#Etymology}
 
@@ -59,7 +59,7 @@ Sau thất bại của [Sauron](../S/Sauron.md), tin tức về lễ đăng quan
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Min-Rimmon sits above Ost Rimmon, a small but formidable Gondorian town. Because of this, its beacon is the best-maintained out of all the northern beacons.</dd></dl>
 

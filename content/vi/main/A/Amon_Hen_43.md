@@ -18,7 +18,7 @@ images:
   - "WikimediaUI-ArrowNext-ltr.svg"
 ---
 
-<b><i>Amon Hen</i> 43</b> là số thứ 43 của [Amon Hen tạp chí](<Amon_Hen_(journal).md>) của [Hội Tolkien](../T/The_Tolkien_Society.md), xuất bản vào tháng 1 [1980](../_/1980.md).
+<b><i>Amon Hen</i> 43</b> là số thứ 43 của [tạp chí Amon Hen](<Amon_Hen_(journal).md>) của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md), xuất bản vào tháng 1 [1980](../_/1980.md).
 
 <br>
 
@@ -39,28 +39,28 @@ images:
     - Tiêu đề - [Wayne Hammond](../W/Wayne_G._Hammond.md)
     - Đại bàng đang bay - Mark Bardsley
     - Đã có sẵn các vấn đề về mặt sau - [Jonathan Simons](../J/Jonathan_Simons.md)
-- 6 - Cũ Tom Bombadil Là Một ... - [Johan Vanhecke](../J/Johan_Vanhecke.md)
+- 6 - Old Tom Bombadil Là Một ... - [Johan Vanhecke](../J/Johan_Vanhecke.md)
     - Vốn - Mark Bardsley
-- 7 - Celtic Thiết kế - Margaret Thomson
+- 7 - Thiết kế Celtic - Margaret Thomson
     - Dịch thơ - David Masson
     - Vốn - Mark Bardsley
 - 9 - Nấm Chiên - Dave Cooper
 - 10 - Đánh giá sách - Tim Scratcherd và Gordon MacLellan
-    - Người Lùn - Mark Bardsley
+    - Người lùn - Mark Bardsley
 - 11 - Tolk Dân gian và Huy hiệu
     - Tiêu đề - Wayne Hammond
 - 12 - Ảnh của J. R. R. Tolkien Đã được đánh giá - Andrew Sutherland
     - Vốn - Gordon MacLellan
-- 13 - Học giả và người kể chuyện JRRT đã được đánh giá - D. A. và [Brin Dunsire](../B/Brin_Dunsire.md)
+- 13 - Học giả JRRT và Người kể chuyện đã được đánh giá - D. A. và [Brin Dunsire](../B/Brin_Dunsire.md)
 - 14 - Thư
     - Tiêu đề - Dave Cooper
     - Vốn - Gordon MacLellan
-- 15 - Celtic Xen kẽ - David Carrie
+- 15 - Celtic Interlace - David Carrie
 - 16 - Nấm/Cây - Ruud Verkerk
 - 17 - Kiếm - Mark Bardsley
     - Rồng - Margaret Thomson
-- 18 - Mount Gram - Garry Hunnewell
-- 19 - Đầu của Orc- Terry Coule
+- 18 - Núi Gram - Garry Hunnewell
+- 19 - Đầu Orc - Terry Coule
     - Hoa - Elaine Hales
 - 20 - Pháp sư - Dave Cooper
     - Silmaril - Tara Mallinson

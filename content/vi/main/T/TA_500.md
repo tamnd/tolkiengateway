@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Third Age 500"
 ---
 
-Chuyển hướng tới [Kỷ Đệ Tam 500](Third_Age_500.md).
+Chuyển hướng tới [500 tuổi thứ ba](Third_Age_500.md).

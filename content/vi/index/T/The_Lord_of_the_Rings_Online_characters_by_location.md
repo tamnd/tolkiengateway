@@ -12,7 +12,7 @@ categories:
   - "Index"
 ---
 
-Danh sách này bao gồm tất cả các ký tự từ [The Lord of the Rings Trực tuyến](../../main/T/The_Lord_of_the_Rings_Online.md) theo vị trí. Những ký tự không có mạo từ hoặc một phần trong danh sách các ký tự phụ sẽ bị lược bỏ.
+Danh sách này bao gồm tất cả các ký tự từ [The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md) theo vị trí. Những ký tự không có mạo từ hoặc một phần trong danh sách các ký tự phụ sẽ bị lược bỏ.
 
 # [Eriador](../../main/E/Eriador.md) {#Eriador}
 

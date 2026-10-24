@@ -12,7 +12,7 @@ categories:
   - "The Hobbit (1977 film) soundtrack"
 ---
 
-**Gollum's Riddle** là bài hát được [Maury Laws](../M/Maury_Laws.md) viết nhạc cho [1977](../_/1977.md) [bộ phim chuyển thể](<../T/The_Hobbit_(1977_film).md>) của *[The Hobbit](../T/The_Hobbit.md)*. Nó đi theo câu đố mà [Gollum](Gollum.md) đề xuất cho [Bilbo](../B/Bilbo_Baggins.md) cho đến dòng kết thúc.
+**Gollum's Riddle** là bài hát được [Maury Laws](../M/Maury_Laws.md) viết nhạc cho [1977](../_/1977.md) [bộ phim chuyển thể](<../T/The_Hobbit_(1977_film).md>) của *[The Hobbit](../T/The_Hobbit.md)*. Nó đi theo câu đố [Gollum](Gollum.md) cầu hôn [Bilbo](../B/Bilbo_Baggins.md) cho đến dòng kết thúc.
 
 ## Lời bài hát {#Lyrics}
 

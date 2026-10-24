@@ -15,7 +15,7 @@ sort_keys:
   "Podcasts": "Riddles in the Dark"
 ---
 
-<i><b>Những câu đố trong bóng tối</b></i> là một podcast do [Corey Olsen](../C/Corey_Olsen.md), Dave Kale và Trish Lambert tổ chức, được phát hành từ năm 2012 đến năm 2015 về [*The Hobbit* loạt phim](<../T/The_Hobbit_(film_series).md>) sắp ra mắt. Nó là một phần của loạt podcast [The Tolkien Professor](../T/The_Tolkien_Professor.md) và được sản xuất bởi [Viện Mythgard](../M/Mythgard_Institute.md).
+<i><b>Những câu đố trong bóng tối</b></i> là một podcast do [Corey Olsen](../C/Corey_Olsen.md), Dave Kale và Trish Lambert tổ chức, được phát hành từ năm 2012 đến năm 2015 về [*The Hobbit* loạt phim](<../T/The_Hobbit_(film_series).md>) sắp ra mắt. Nó là một phần của loạt podcast [The Tolkien Professor](../T/The_Tolkien_Professor.md) và được sản xuất bởi [Mythgard Institute](../M/Mythgard_Institute.md).
 
 ## Liên kết ngoài {#External_links}
 

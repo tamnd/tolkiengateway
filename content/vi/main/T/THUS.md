@@ -12,16 +12,16 @@ categories:
   - "Roots"
 ---
 
-**THẬT** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "sương mù ác quỷ, sương mù, Bóng Tối".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+**THẬT** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "sương mù độc ác, sương mù, Bóng tối".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Primitive Quendian](../P/Primitive_Quendian.md): *thūsē*
+- [Quendian nguyên thủy](../P/Primitive_Quendian.md): *thūsē*
     - [Sindarin](../S/Sindarin.md) *thû* ("bóng tối khủng khiếp, sương mù đen")<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ## Phiên bản khác {#Other_versions}
 
-Trong [*Etymologies*](The_Etymologies.md), gốc THUS (không có ý nghĩa) mang lại dạng Primitive Quendian *thausā*, từ đó dẫn xuất Quenya ([Qenya](../Q/Qenya.md)) *[saura](../S/Saura.md)*. Từ gốc này cũng dẫn xuất [Noldorin](../N/Noldorin.md) *thaw* "hỏng, thối" và *thû* "mùi hôi thối" (dùng làm tên riêng, *[Thû](Thû.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Trong [*Etymologies*](The_Etymologies.md), gốc THUS (không có nghĩa) mang lại dạng Quendian Nguyên thủy *thausā*, từ đó dẫn xuất Quenya ([Qenya](../Q/Qenya.md)) *[saura](../S/Saura.md)*. Từ gốc này cũng dẫn xuất ra [Noldorin](../N/Noldorin.md) *thaw* "hư hỏng, mục nát" và *thû* "mùi hôi thối" (dùng làm tên riêng, *[Thû](Thû.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

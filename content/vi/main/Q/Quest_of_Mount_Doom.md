@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Quest of the Ring"
 ---
 
-Chuyển hướng tới [Nhiệm vụ của Nhẫn](Quest_of_the_Ring.md).
+Chuyển hướng đến [Nhiệm vụ của chiếc nhẫn](Quest_of_the_Ring.md).

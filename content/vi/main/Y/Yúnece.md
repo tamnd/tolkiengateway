@@ -15,7 +15,7 @@ sort_keys:
   "Telerin numbers": "Yunece"
 ---
 
-**yúnece** đơn giản hóa **yumpe**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là [Telerin](../T/Telerin.md) số '12' <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**yúnece** đơn giản hóa **yumpe**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là số [Telerin](../T/Telerin.md) '12' <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

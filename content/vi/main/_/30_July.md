@@ -63,20 +63,20 @@ Sự kiện xảy ra vào ngày 30 tháng 7
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đi Ý cùng [Priscilla Tolkien](../P/Priscilla_Tolkien.md).
+- **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tới Ý cùng [Priscilla Tolkien](../P/Priscilla_Tolkien.md).
 - **[1988](1988.md)** - [Mythcon 19](../M/Mythcon_19.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[1989](1989.md)** - [Mythcon 20](../M/Mythcon_20.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_British_Columbia" title="wikipedia:University of British Columbia">Đại học British Columbia</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Vancouver" title="wikipedia:Vancouver">Vancouver</a>.
 - **[1993](1993.md)** - [Mythcon 24](../M/Mythcon_24.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Minnesota" title="wikipedia:University of Minnesota">Đại học Minnesota</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Minneapolis" title="wikipedia:Minneapolis">Minneapolis</a>.
 - **[1999](1999.md)** - [Mythcon 30](../M/Mythcon_30.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Milwaukee" title="wikipedia:Milwaukee">Milwaukee</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Wisconsin" title="wikipedia:Wisconsin">Wisconsin</a>.
 - **[2004](2004.md)** - [Mythcon 35](../M/Mythcon_35.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Michigan" title="wikipedia:University of Michigan">Đại học Michigan</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Ann_Arbor,_Michigan" title="wikipedia:Ann Arbor, Michigan">Ann Arbor</a>.
-- **[2004](2004.md)** - [The Lord of the Rings Bản giao hưởng](../T/The_Lord_of_the_Rings_Symphony.md) tại Heinz Hall ở <a class="extiw" href="http://en.wikipedia.org/wiki/Pittsburgh" title="wikipedia:Pittsburgh">Pittsburgh</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Pennsylvania" title="wikipedia:Pennsylvania">Pennsylvania</a>.
+- **[2004](2004.md)** - [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md) tại Heinz Hall ở <a class="extiw" href="http://en.wikipedia.org/wiki/Pittsburgh" title="wikipedia:Pittsburgh">Pittsburgh</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Pennsylvania" title="wikipedia:Pennsylvania">Pennsylvania</a>.
 - **[2006](2006.md)** - ELF 2006 ở <a class="extiw" href="http://en.wikipedia.org/wiki/Secaucus,_New_Jersey" title="wikipedia:Secaucus, New Jersey">Secaucus</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/New_Jersey" title="wikipedia:New Jersey">New Jersey</a>.
 - **[2015](2015.md)** - *[Tolkien Calendar 2016](../T/Tolkien_Calendar_2016.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đoàn rước tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md).
+    - Đoàn tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md).

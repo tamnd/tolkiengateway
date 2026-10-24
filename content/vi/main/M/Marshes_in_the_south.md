@@ -42,7 +42,7 @@ Các đầm lầy ở phía nam có thể nằm trên hoặc gần [Sông Brandy
 
 ## Lịch sử {#History}
 
-Vào năm [T.A.](../T/Third_Age.md) [1601](../T/Third_Age_1601.md) nhóm [Hobbit](../H/Hobbits.md) lên đường vượt sông Brandywine do anh em [Marcho](Marcho.md) và [Blanco](../B/Blanco.md) dẫn đầu để đến sống tại ngôi nhà mới của họ ở shire. Các hobbit trước đó đã đồng ý với Vua [Argeleb II](../A/Argeleb_II.md) về ranh giới của quận, với ranh giới phía nam là đầm lầy ở phía nam.<sup id="cite_ref-FRHobbits_1-3" class="reference"><a href="#cite_note-FRHobbits-1">[1]</a></sup>
+Vào năm [T.A.](../T/Third_Age.md) [1601](../T/Third_Age_1601.md) [Người Hobbit](../H/Hobbits.md) bắt đầu vượt sông Brandywine do hai anh em [Marcho](Marcho.md) và [Blanco](../B/Blanco.md) dẫn đầu để sống tại ngôi nhà mới của họ ở quận. Người hobbit trước đây đã đồng ý với Vua [Argeleb II](../A/Argeleb_II.md) về biên giới của shire, với biên giới phía nam là đầm lầy ở phía nam.<sup id="cite_ref-FRHobbits_1-3" class="reference"><a href="#cite_note-FRHobbits-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

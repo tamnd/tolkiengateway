@@ -11,4 +11,4 @@ redirect_target: "Arda"
 redirect_fragment: "Other names"
 ---
 
-Chuyển hướng đến [Arda](Arda.md#Other_names).
+Chuyển hướng tới [Arda](Arda.md#Other_names).

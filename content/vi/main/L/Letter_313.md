@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien ước gì anh ấy có thời gian để biên soạn ngữ pháp và từ vựng cơ bản cho [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Anh ấy đang nghiên cứu các ngôn ngữ như một phần của việc điều chỉnh *[The Silmarillion](../T/The_Silmarillion.md)* thành *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
+Tolkien ước mình có thời gian để biên soạn ngữ pháp và từ vựng cơ bản cho [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Ông đang nghiên cứu các ngôn ngữ này như một phần của việc điều chỉnh *[The Silmarillion](../T/The_Silmarillion.md)* thành *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
 ## Lưu ý {#Note}
 

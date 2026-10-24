@@ -12,4 +12,4 @@ categories:
   - "Writings"
 ---
 
-Những lá thư được viết bởi [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), bao gồm cả những lá thư từ *[The Letters of J.R.R. Tolkien](../../main/T/The_Letters_of_J.R.R._Tolkien.md)*nằm trong danh mục con của chúng và [những lá thư không có trong cuốn sách đó](../../main/L/Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md).
+Những lá thư được viết bởi [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), bao gồm cả những lá thư từ *[The Letters of J.R.R. Tolkien](../../main/T/The_Letters_of_J.R.R._Tolkien.md)* nằm trong danh mục con của chúng và [những lá thư không có trong cuốn sách đó](../../main/L/Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md).

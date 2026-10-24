@@ -38,9 +38,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Tất cả những gì được biết về vị trí của Udul là nó nằm "xa trong đất liền" so với [Agar](../A/Agar.md), cách bờ biển của [Đại Hải](../B/Belegaer.md)"ba giải đấu".
+Tất cả những gì được biết về vị trí của Udul là nó nằm "xa trong đất liền" so với [Agar](../A/Agar.md), cách bờ biển của [Biển Lớn](../B/Belegaer.md) "ba dặm".
 
-Khi [Tal-Elmar](<../T/Tal-Elmar_(character).md>) mười bảy tuổi, anh được chọn đến Udul để do thám vùng đất. Chàng trai trẻ đã thành công trong việc tìm ra ngôi làng và bò đến gần một trong những túp lều của những người canh gác ở đó đến mức anh ta có thể nghe thấy cuộc trò chuyện của họ. Tuy nhiên, anh không thể hiểu được lời nói của họ mặc dù giọng điệu của họ gợi lên sự sợ hãi và đau buồn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi [Tal-Elmar](<../T/Tal-Elmar_(character).md>) mười bảy tuổi, anh được chọn đến Udul để do thám vùng đất. Chàng trai trẻ đã thành công trong việc tìm ra ngôi làng và bò đến gần một trong những túp lều của những người canh gác ở đó đến mức ông ta có thể nghe thấy cuộc trò chuyện của họ. Tuy nhiên, anh không thể hiểu được lời nói của họ mặc dù giọng điệu của họ gợi lên sự sợ hãi và đau buồn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Điều mà Tal-Elmar không biết là người dân Udul, được gọi là dân gian Udul, đang chết vì dịch bệnh và những kẻ cướp bóc đã đến Agar đang tìm kiếm thức ăn trong tuyệt vọng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

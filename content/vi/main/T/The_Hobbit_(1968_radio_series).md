@@ -48,13 +48,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_(1968_radio_series).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/73/The_Hobbit_%281968_radio_series%29.jpg/320px-The_Hobbit_%281968_radio_series%29.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/73/The_Hobbit_%281968_radio_series%29.jpg/480px-The_Hobbit_%281968_radio_series%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/73/The_Hobbit_%281968_radio_series%29.jpg/640px-The_Hobbit_%281968_radio_series%29.jpg 2x" data-file-width="1000" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Hobbit</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Narrator</th><td class="tg-infobox-data"><a href="../A/Anthony_Jackson.md" title="Anthony Jackson">Anthony Jackson</a>, <a href="../P/Paul_Daneman.md" title="Paul Daneman">Paul Daneman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../B/BBC.md" title="BBC">BBC</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/29_September.md" title="29 September">29 September</a> - <a href="../_/17_November.md" title="17 November">17 November</a>, <a href="../_/1968.md" title="1968">1968</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Radio broadcast</td></tr><tr><th scope="row" class="tg-infobox-label">Running time</th><td class="tg-infobox-data">4 hours</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/9780553455625" title="Special:BookSources/9780553455625">9780553455625</a></td></tr></tbody></table>
 
-<i><b>The Hobbit</b></i> là [1968](../_/1968.md) [Đài BBC](../B/BBC.md) chuyển thể từ [The Hobbit](The_Hobbit.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>The Hobbit</b></i> là một [1968](../_/1968.md) [Đài phát thanh BBC](../B/BBC.md) chuyển thể từ tác phẩm [The Hobbit](The_Hobbit.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 Bộ phim được Michael Kilgariff chuyển thể và John Powell sản xuất thành tám tập đơn âm dài nửa giờ cho BBC Radio 4.
 
 ## Câu chuyện {#Story}
 
-Loạt phim phát thanh bám sát [cốt truyện](The_Hobbit.md#synopsis) của ấn bản thứ hai, ngoại trừ việc bổ sung The Tale Bearer, một người kể chuyện mà lời kể của câu chuyện thường bị gián đoạn và được tô điểm bởi nhân vật chính [Bilbo Baggins](../B/Bilbo_Baggins.md) trong vai trò người kể chuyện phụ.
+Loạt phim phát thanh bám sát [cốt truyện](The_Hobbit.md#synopsis) của ấn bản thứ hai, ngoại trừ việc bổ sung The Tale Bearer, một người kể chuyện mà lời kể của câu chuyện thường bị gián đoạn và tô điểm bởi nhân vật chính [Bilbo Baggins](../B/Bilbo_Baggins.md) trong vai trò người kể chuyện phụ.
 
 Bilbo, một [hobbit](../H/Hobbits.md) ở nhà, được [phù thủy](../W/Wizard.md) [Gandalf](../G/Gandalf.md) tiếp cận để thực hiện một cuộc phiêu lưu nguy hiểm, và bất chấp sự miễn cưỡng ban đầu, anh sớm thấy mình đồng hành cùng [Thorin](Thorin.md) và nhóm [người lùn](../D/Dwarves.md) của anh trong một nhiệm vụ lâu dài và khó khăn để lấy lại kho báu của người lùn từ đó [Smaug](../S/Smaug.md) [rồng](../D/Dragons.md), chạm trán [troll](Trolls.md), [goblins](../O/Orcs.md), [Gollum](../G/Gollum.md) (thu được [chiếc nhẫn ma thuật](The_One_Ring.md) gần hang Gollum), [wargs](../W/Wargs.md), [đại bàng](../E/Eagles.md), khổng lồ [nhện](../S/Spiders.md), [yêu tinh](../E/Elves.md) và [người](../M/Men.md) trên đường đi. Trong quá trình đó, Bilbo được biến đổi từ một nhân vật vụng về, nhút nhát và khá hài hước thành một con người bình thường và đôi khi anh hùng.
 
@@ -102,11 +102,11 @@ Bilbo, một [hobbit](../H/Hobbits.md) ở nhà, được [phù thủy](../W/Wiz
 
 Mặc dù kịch bản gần giống với tiểu thuyết gốc, Kilgariff vẫn kết hợp một số tên và cụm từ từ *[The Lord of the Rings](The_Lord_of_the_Rings.md)* mà ban đầu không xuất hiện trong *The Hobbit*.
 
-- Trong một cảnh đầu tại [Bag End](../B/Bag_End.md), Gandalf ban đầu nói với Bilbo, "Những chú voi vĩ đại, hôm nay bạn chẳng còn là chính mình nữa". Trong phiên bản radio, điều này được đổi thành "Great [oliphaunts](../O/Oliphaunts.md)", dạng được sử dụng trong *The Lord of the Rings*.
-- Sau khi tiêu diệt Great Goblin, Gandalf tạo ra ánh sáng bằng cách đọc câu thần chú *Naur an edraith ammen*.
-- Khi bắt đầu [Trận chiến của năm đạo quân](../B/Battle_of_the_Five_Armies.md) Gandalf có nói: "Chiến thắng không chỉ phụ thuộc vào kho báu, không chỉ mạng sống của chúng ta mà còn phụ thuộc vào toàn bộ tương lai và hạnh phúc của [Trung Địa](../M/Middle-earth.md)". Cái tên Trung Địa hoàn toàn không được sử dụng trong tiểu thuyết gốc.
+- Trong một cảnh đầu ở [Bag End](../B/Bag_End.md), Gandalf ban đầu nói với Bilbo, "Những chú voi vĩ đại, hôm nay bạn chẳng còn là chính mình nữa". Trong phiên bản radio, điều này được đổi thành "Great [oliphaunts](../O/Oliphaunts.md)", dạng được sử dụng trong *The Lord of the Rings*.
+- Sau khi giết chết Yêu tinh vĩ đại, Gandalf tạo ra ánh sáng bằng cách đọc câu thần chú *Naur an edraith ammen*.
+- Khi bắt đầu [Trận chiến của năm đạo quân](../B/Battle_of_the_Five_Armies.md) Gandalf nói: "Chiến thắng không chỉ phụ thuộc vào kho báu, cũng không chỉ mạng sống của chúng ta mà còn phụ thuộc vào toàn bộ tương lai và sự thịnh vượng của [Trung Địa](../M/Middle-earth.md)". Cái tên Middle-earth hoàn toàn không được sử dụng trong tiểu thuyết gốc.
 - Trong trận chiến, Vua Tiên sử dụng tên của mình, [Thranduil](Thranduil.md), làm khẩu hiệu xung trận.
-- Trong cùng một trận chiến Thorin sử dụng tiếng kêu xung trận của người lùn, "[Baruk Khazâd! Khazâd ai-mênu!](../B/Baruk_Khazâd!_Khazâd_ai-mênu!.md)"
+- Trong cùng một trận chiến, Thorin sử dụng tiếng kêu xung trận của người lùn, "[Baruk Khazâd! Khazâd ai-mênu!](../B/Baruk_Khazâd!_Khazâd_ai-mênu!.md)"
 
 ## Diễn viên và ghi công {#Cast_and_credits}
 
@@ -236,11 +236,11 @@ Mặc dù kịch bản gần giống với tiểu thuyết gốc, Kilgariff vẫ
 
 ## Sản xuất {#Production}
 
-Quá trình sản xuất chương trình rất phức tạp do bao gồm nhiều hiệu ứng âm thanh (thường được chèn trực tiếp trong khi ghi âm màn trình diễn của các diễn viên), các bài hát trong tiểu thuyết cũng như các âm thanh đặc biệt và phương pháp xử lý giọng nói điện tử do BBC Radiophonic Workshop tạo ra. Tất cả quỷ lùn, yêu tinh, yêu tinh, chiến binh và đại bàng đều được xử lý giọng nói, giống như Gandalf khi bắt chước quỷ lùn.
+Quá trình sản xuất chương trình rất phức tạp do bao gồm nhiều hiệu ứng âm thanh (thường được chèn trực tiếp trong khi ghi âm màn trình diễn của các diễn viên), các bài hát trong tiểu thuyết cũng như các âm thanh đặc biệt và phương pháp xử lý giọng nói điện tử do BBC Radiophonic Workshop tạo ra. Tất cả các loài troll, yêu tinh, yêu tinh, chiến binh và đại bàng đều xử lý giọng nói, Gandalf cũng vậy khi bắt chước các loài troll.
 
 ## Xóa và phục hồi {#Wiping_and_recovery}
 
-Các băng gốc ban đầu của loạt phim dường như đã bị xóa vào khoảng những năm 1970. Nguyên nhân không rõ ràng, mặc dù có tin đồn là do tranh chấp với tài sản Tolkien (nếu vậy thì việc thu hồi và vấn đề thương mại của bộ truyện sau đó chứng tỏ tranh chấp đã được giải quyết).
+Các băng gốc ban đầu của loạt phim dường như đã bị xóa vào khoảng những năm 1970. Nguyên nhân vẫn chưa rõ ràng, mặc dù có tin đồn là do tranh chấp với gia sản Tolkien (nếu vậy thì việc thu hồi và vấn đề thương mại sau đó của bộ truyện chứng tỏ tranh chấp đã được giải quyết).
 
 BBC cuối cùng đã khôi phục loạt phim này từ bản ghi âm FM không dây trong nước, dường như bao gồm các phần tổng hợp dài 90 và 60 phút được chỉnh sửa cùng nhau từ các tập gốc. Chất lượng âm thanh của những bản ghi âm này rõ ràng và dễ đọc, mặc dù nó kém hơn đáng kể so với bản ghi chất lượng phòng thu và có tiếng rít băng nổi bật.
 

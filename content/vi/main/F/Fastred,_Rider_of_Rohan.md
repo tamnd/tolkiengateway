@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fastred (rider of Rohan)"
 ---
 
-Chuyển hướng tới [Fastred (điều khiển của Rohan)](<Fastred_(rider_of_Rohan).md>).
+Chuyển hướng tới [Fastred (kỵ sĩ Rohan)](<Fastred_(rider_of_Rohan).md>).

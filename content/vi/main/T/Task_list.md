@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Task list"
 ---
 
-Chuyển hướng tới [Tolkien Gateway:Danh sách nhiệm vụ](../../project/T/Task_list.md).
+Chuyển hướng đến [Cổng Tolkien:Danh sách nhiệm vụ](../../project/T/Task_list.md).

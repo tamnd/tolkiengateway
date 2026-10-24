@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sub-creating_Middle-earth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/86/Sub-creating_Middle-earth.jpg/320px-Sub-creating_Middle-earth.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/86/Sub-creating_Middle-earth.jpg/480px-Sub-creating_Middle-earth.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/86/Sub-creating_Middle-earth.jpg/640px-Sub-creating_Middle-earth.jpg 2x" data-file-width="907" data-file-height="1360"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sub-creating Middle-earth: Constructions of Authorship and the Works of J.R.R. Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Judith Klinger</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a class="mw-redirect" href="../A/Anke_Eissmann.md" title="Anke Eissmann">Anke Eissmann</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../W/Walking_Tree_Publishers.md" title="Walking Tree Publishers">Walking Tree Publishers</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/20_November.md" title="20 November">20 November</a> <a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">209</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-3-905703-27-6" title="Special:BookSources/978-3-905703-27-6">978-3-905703-27-6</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../C/Cormarë_Series.md" title="Cormarë Series">Cormarë Series</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../T/The_Broken_Scythe.md" title="The Broken Scythe">The Broken Scythe</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../T/Tolkien&#39;s_Poetry.md" title="Tolkien&#39;s Poetry">Tolkien&#39;s Poetry</a></td></tr></tbody></table>
 
-<i><b>Tạo phụ Trung Địa: Cấu trúc tác giả và tác phẩm của J.R.R. Tolkien</b></i> là tập hợp sáu bài tiểu luận kiểm tra [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) với tư cách là một tác giả. Nó được xuất bản ở vị trí thứ 27 trong *[Cormarë Series](../C/Cormarë_Series.md)*.
+<i><b>Tạo phụ ở Trung địa: Công trình xây dựng quyền tác giả và tác phẩm của J.R.R. Tolkien</b></i> là tập hợp sáu bài tiểu luận xem xét [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) với tư cách là một tác giả. Nó được xuất bản ở vị trí thứ 27 trong *[Cormarë Series](../C/Cormarë_Series.md)*.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -54,15 +54,15 @@ infobox:
     - Bởi: Judith Klinger
 - Một hay nhiều? Quyền tác giả, giọng nói và Corpus
     - Bởi: Dirk Vanderbeke & Allan Turner
-Sự cân bằng ba mặt của - Tolkien: Một mô hình cứu chuộc của chủ nghĩa anh hùng cho thế kỷ XX
+- Cân bằng ba yếu tố của Tolkien: Một mô hình cứu chuộc của chủ nghĩa anh hùng cho thế kỷ XX
     - Bởi: Martin Simonson
-'Sức mạnh kỳ lạ của tâm trí' của - Tolkien: Những giấc mơ, lịch sử nhìn xa trông rộng và quyền tác giả
+- 'Sức mạnh kỳ lạ của tâm trí' của Tolkien: Những giấc mơ, lịch sử nhìn xa trông rộng và quyền tác giả
     - Bởi: Judith Klinger
-- (Re)Lịch sử tác giả: Tolkien và Chủ nghĩa hậu thuộc địa
+- (Re)Lịch sử biên soạn: Tolkien và chủ nghĩa hậu thuộc địa
     - Bởi: Margaret Hiley
 - Một tác giả thống trị tất cả
     - Bởi: Patrick A. Brückner
-- Biên niên ký không tác giả: Lịch sử, thần thoại và tường thuật trong Tolkien's Legendarium
+- Biên niên sử không có tác giả: Lịch sử, thần thoại và lời kể trong Truyền thuyết của Tolkien
     - Bởi: Cécile Cristofari
 
 ## Liên kết ngoài {#External_links}

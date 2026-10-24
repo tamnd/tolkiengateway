@@ -12,4 +12,4 @@ categories:
   - "Games"
 ---
 
-Thể loại này liệt kê tất cả <b><a class="extiw" href="http://en.wikipedia.org/wiki/Jigsaw_puzzle" title="wikipedia:Jigsaw puzzle">câu đố ghép hình</a></b> liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) tác phẩm.
+Thể loại này liệt kê tất cả <b><a class="extiw" href="http://en.wikipedia.org/wiki/Jigsaw_puzzle" title="wikipedia:Jigsaw puzzle">câu đố ghép hình</a></b> liên quan đến tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

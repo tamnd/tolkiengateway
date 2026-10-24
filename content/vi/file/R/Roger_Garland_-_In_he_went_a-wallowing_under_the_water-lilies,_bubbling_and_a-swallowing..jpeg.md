@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Trong [anh ấy](../../main/T/Tom_Bombadil.md) đã đắm mình dưới những bông hoa súng, sủi bọt và nuốt chửng." của [Roger Garland](../../main/R/Roger_Garland.md)
+"Trong [ông](../../main/T/Tom_Bombadil.md) đã đắm mình dưới những bông hoa súng, sủi bọt và nuốt chửng." của [Roger Garland](../../main/R/Roger_Garland.md)
 
 ## Giấy phép {#Licensing}
 

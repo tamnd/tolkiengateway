@@ -13,11 +13,11 @@ categories:
   - "Graves and tombs"
 ---
 
-**Gò của các kỵ sĩ** là một ụ chôn cất được dựng lên dành cho những [Rohirrim](../R/Rohirrim.md) đã ngã xuống trong [Trận chiến vượt cạn Isen](../B/Battles_of_the_Fords_of_Isen.md). Nó được dựng lên trên một cái kiệu trần ở giữa pháo đài, được bao quanh bằng đá và cắm giáo.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Mound of the Riders** là một ngôi mộ chôn cất dành cho [Rohirrim](../R/Rohirrim.md) những người đã hy sinh trong [Trận chiến ở khúc cạn Isen](../B/Battles_of_the_Fords_of_Isen.md). Nó được dựng lên trên một cái kiệu trần ở giữa pháo đài, được bao quanh bằng đá và cắm giáo.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Trận chiến [Thứ nhất](../F/First_Battle_of_the_Fords_of_Isen.md) và [Thứ hai](../S/Second_Battle_of_the_Fords_of_Isen.md) của Fords lần lượt diễn ra vào [25 tháng 2](../_/25_February.md) và [2 tháng 3](../_/2_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md). Rohirrim bị tổn thất nặng nề. Sau đó, [Gandalf](../G/Gandalf.md) tập hợp tất cả lực lượng còn sống sót mà anh có thể tìm thấy. Anh ấy đặt một số để tạo ra Gò và sau đó quay trở lại để bảo vệ [Edoras](../E/Edoras.md).
+Trận chiến [Thứ nhất](../F/First_Battle_of_the_Fords_of_Isen.md) và [Thứ hai](../S/Second_Battle_of_the_Fords_of_Isen.md) của Fords lần lượt diễn ra vào [25 tháng 2](../_/25_February.md) và [2 tháng 3](../_/2_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md). Người Rohirrim bị tổn thất nặng nề. Sau đó, [Gandalf](../G/Gandalf.md) tập hợp tất cả lực lượng còn sống sót mà ông có thể tìm thấy. Ông đã bố trí một số người để xây dựng Gò và sau đó quay trở lại để bảo vệ [Edoras](../E/Edoras.md).
 
 <span></span>
 

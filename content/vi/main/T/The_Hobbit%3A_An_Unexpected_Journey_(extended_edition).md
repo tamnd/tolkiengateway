@@ -43,52 +43,52 @@ LƯU Ý: Phim được chia thành 2 đĩa cho cả phiên bản DVD và Blu-ray
 - 6\. "Làm cùn con dao"
 - 17\. Rivendell
 - 18\. Nghỉ ngơi ngắn
-- 22\. Bạch Hội Đồng
+- 22\. Hội đồng trắng
 - 26\. Yêu tinh vĩ đại
 
-## Bộ Phụ lục: Phần Bảy - Hành trình đáng mong đợi: Biên niên sử *[The Hobbit](The_Hobbit.md)* - Phần 1 (đĩa 2)\*\* {#The_Appendices:_Part_Seven_-_A_Long-Expected_Journey:_The_Chronicles_of_The_Hobbit_-_Part_1_(disc_2)**}
+## Các Phụ lục: Phần 7 - Hành trình đáng mong đợi: Biên niên sử *[The Hobbit](The_Hobbit.md)* - Phần 1 (đĩa 2)\*\* {#The_Appendices:_Part_Seven_-_A_Long-Expected_Journey:_The_Chronicles_of_The_Hobbit_-_Part_1_(disc_2)**}
 
-- Giới thiệu từ Peter Jackson\*
-- Phim tài liệu"Hành trình trở về Trung Địa"\*
+- Lời giới thiệu của Peter Jackson\*
+- Phim tài liệu "Hành trình trở lại Trung Địa"\*
 - Phim tài liệu "Câu đố trong bóng tối"\*
 - Phim tài liệu về "Bữa tiệc bất ngờ"\*
 - Phim tài liệu "Thịt nướng"\*
-- Phim tài liệu "Pháo đài của [Rừng Xanh](../M/Mirkwood.md)"\*
+- Phim tài liệu "Pháo đài của [Greenwood](../M/Mirkwood.md)"\*
 - Phim tài liệu "Nghỉ ngơi ngắn ngủi"\*
 - Phim tài liệu"Over Hill..."^
 - Phim tài liệu"... Dưới Đồi"^
 - Phim tài liệu"Ra khỏi chảo rán..."^
-- Quay lại [Hobbiton](../H/Hobbiton.md)" Phim tài liệu^
+- Phim tài liệu "Trở về [Hobbiton](../H/Hobbiton.md)"^
 - Phim tài liệu "Sử thi cảnh 88"^
 - Phim tài liệu "Trận chiến [Moria](../M/Moria.md)"^
-- Phim tài liệu "Bên lề của [Wilderland](../R/Rhovanion.md)"^
+- Phim tài liệu "Bên bờ [Vùng hoang dã](../R/Rhovanion.md)"^
 - Phim tài liệu "Nhà ở phía sau, thế giới phía trước"^
 - Tín dụng^
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_An_Unexpected_Journey_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1d/The_Hobbit_-_An_Unexpected_Journey_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg/150px-The_Hobbit_-_An_Unexpected_Journey_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg" decoding="async" loading="lazy" width="150" height="194" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1d/The_Hobbit_-_An_Unexpected_Journey_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg/225px-The_Hobbit_-_An_Unexpected_Journey_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1d/The_Hobbit_-_An_Unexpected_Journey_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg/300px-The_Hobbit_-_An_Unexpected_Journey_-_Extended_Edition_-_Blu-ray_3-D_cover.jpg 2x" data-file-width="1113" data-file-height="1438"/></a><figcaption>Blu-ray 3-D cover</figcaption></figure>
 
-## Phần Phụ lục: Phần 8 - Trở về [Trung Địa](../M/Middle-earth.md) (đĩa 3)^ {#The_Appendices:_Part_Eight_-_Return_to_Middle-earth_(disc_3)^^}
+## Các Phụ lục: Phần 8 - Trở về [Trung Địa](../M/Middle-earth.md) (đĩa 3)^ {#The_Appendices:_Part_Eight_-_Return_to_Middle-earth_(disc_3)^^}
 
 - Phim tài liệu "Công ty của [Thorin](Thorin.md)"
-    - Lắp ráp Người Lùn
+    - Tập hợp người lùn
     - Thorin, [Fíli](../F/Fíli.md) & [Kíli](../K/Kíli.md)
     - [Balin](../B/Balin.md) & [Dwalin](../D/Dwalin.md)
     - [Óin](../_/Óin.md) & [Glóin](../G/Glóin.md)
     - [Dori](../D/Dori.md), [Nori](../N/Nori.md) & [Ori](../O/Ori.md)
     - [Bifur](../B/Bifur.md), [Bofur](../B/Bofur.md) & [Bombur](../B/Bombur.md)
 - Phim tài liệu "Mr. Baggins: Thành viên thứ 14"
-- "[Dân gian Durin](../D/Durin's_Folk~15256.md): Tạo phim tài liệu Người Lùn"
-- Phim tài liệu"Người dân và cư dân Trung Địa"
-    - Hòn đá [Troll](Trolls.md)
+- "[Dân gian Durin](../D/Durin's_Folk~15256.md): Phim tài liệu về việc tạo ra những người lùn"
+- Phim tài liệu "Các dân tộc và cư dân Trung Địa"
+    - Hòn đá [Quỷ lùn](Trolls.md)
     - [Radagast](../R/Radagast.md) màu nâu
-    - [Goblin](../O/Orcs.md#Orcs_and_Goblins)
-    - [Azog](../A/Azog.md) Trình lọc
-- "Vương quốc của [Kỷ Đệ Tam](Third_Age.md): Từ [Bag End](../B/Bag_End.md) đến [Thị trấn Yêu Tinh](../G/Goblin-town.md)" Phim tài liệu^
+    - [Yêu tinh](../O/Orcs.md#Orcs_and_Goblins)
+    - [Azog](../A/Azog.md) Kẻ phá hoại
+- "Các vương quốc của [Thời đại thứ ba](Third_Age.md): Từ [Bag End](../B/Bag_End.md) đến [Thị trấn yêu tinh](../G/Goblin-town.md)" Phim tài liệu^
     - Hobbiton
     - [Rhosgobel](../R/Rhosgobel.md)
     - [Rivendell](../R/Rivendell.md)
-    - Cái [Dãy Núi Sương Mù](../M/Misty_Mountains.md)
-    - Thị trấn Yêu Tinh
+    - [Dãy núi mù sương](../M/Misty_Mountains.md)
+    - Thị trấn yêu tinh
 - Phim tài liệu "Những bài hát của *The Hobbit*"\*
 - Tín dụngº
 
@@ -105,10 +105,10 @@ GHI CHÚ:
 
 - *[The Hobbit: An Unexpected Journey](The_Hobbit%253A_An_Unexpected_Journey.md)*
 - [*The Hobbit: The Desolation of Smaug* (phiên bản mở rộng)](<The_Hobbit%253A_The_Desolation_of_Smaug_(extended_edition).md>)
-- [*The Hobbit: The Battle of the Five Armies* (phiên bản mở rộng)](<The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md>)
-- [*The Lord of the Rings: The Fellowship of the Ring* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>)
-- [*The Lord of the Rings: The Two Towers* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>)
-- [*The Lord of the Rings: The Return of the King* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>)
+- [*The Hobbit: The Battle of the Five Armies* (extended edition)](<The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md>)
+- [*The Lord of the Rings: The Fellowship of the Ring* (extended edition)](<The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>)
+- [*The Lord of the Rings: The Two Towers* (extended edition)](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>)
+- [*The Lord of the Rings: The Return of the King* (extended edition)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>)
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

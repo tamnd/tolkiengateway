@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angmar: Land of the Witch King"
 ---
 
-Chuyển hướng đến [Angmar: Vùng đất phù thủy Vua](../A/Angmar%253A_Land_of_the_Witch_King.md).
+Chuyển hướng đến [Angmar: Land of the Witch King](../A/Angmar%253A_Land_of_the_Witch_King.md).

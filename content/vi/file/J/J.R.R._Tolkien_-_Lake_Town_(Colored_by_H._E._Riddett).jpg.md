@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ban đầu là bởi [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), màu được thêm vào bởi [H.E. Riddett](../../main/H/H.E._Riddett.md) và được tạo cho [The Hobbit Lịch 1976](../../main/T/The_Hobbit_Calendar_1976.md) và đã được sử dụng trong một số ấn bản có minh họa của cuốn sách.
+Ban đầu là bởi [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), màu được thêm vào bởi [H.E. Riddett](../../main/H/H.E._Riddett.md) và được tạo cho [The Hobbit Calendar 1976](../../main/T/The_Hobbit_Calendar_1976.md), đồng thời đã được sử dụng trong một số ấn bản có minh họa của cuốn sách.
 
 ## Giấy phép {#Licensing}
 

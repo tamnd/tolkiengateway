@@ -69,14 +69,14 @@ Sự kiện xảy ra vào ngày 22 tháng 1.
 - **[1928](1928.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đọc một bài báo, *[The Chill Barbarians of the North](../T/The_Chill_Barbarians_of_the_North.md)*, tại cuộc họp của <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_University_Newman_Society" title="wikipedia:Oxford University Newman Society">Hiệp hội Newman</a>, ở Oxford.
 - **[1940](1940.md)** - Diễn viên [John Hurt](../J/John_Hurt.md) ra đời.
 - **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 143](../L/Letter_143.md).
-- **[1956](1956.md)** - *New York Times Book Review* đăng bài đánh giá của [W.H. Auden](../W/W.H._Auden.md)về *[The Return of the King](../T/The_Return_of_the_King.md)*, "[Khi kết thúc nhiệm vụ, chiến thắng](../A/At_the_End_of_the_Quest,_Victory.md)".
+- **[1956](1956.md)** - *New York Times Book Review* đăng bài đánh giá của [W.H. Auden](../W/W.H._Auden.md) về *[The Return of the King](../T/The_Return_of_the_King.md)*, "[Khi kết thúc nhiệm vụ, chiến thắng](../A/At_the_End_of_the_Quest,_Victory.md)".
 - **[2003](2003.md)** - Con trai cả của Tolkien [John Francis Reuel Tolkien](../J/John_Tolkien.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
-Đội quân của     - [Uglúk](../U/Uglúk.md) tiếp cận [Moria](../M/Moria.md)và tập hợp một nhóm [Orc](../O/Orcs.md) ở đó.
+    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).
+Đội quân của     - [Uglúk](../U/Uglúk.md) tiếp cận [Moria](../M/Moria.md) và tập hợp một nhóm [Orc](../O/Orcs.md) ở đó.
     - Trăng non<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>

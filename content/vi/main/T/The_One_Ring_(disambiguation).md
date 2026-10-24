@@ -16,7 +16,7 @@ images:
 
 **Một chiếc nhẫn** có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
 - **[Một chiếc nhẫn](../O/One_Ring.md)**, Chiếc nhẫn thống trị được tạo bởi [Sauron](../S/Sauron.md)
 
@@ -29,11 +29,11 @@ images:
 
 ### Âm nhạc {#Music}
 
-- [Mở đầu: Một chiếc nhẫn thống trị tất cả](../P/Prologue%253A_One_Ring_to_Rule_Them_All.md), một bài hát từ *[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md)*
+- [Prologue: One Ring to Rule Them All](../P/Prologue%253A_One_Ring_to_Rule_Them_All.md), một bài hát từ *[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md)*
 
 ### Khác {#Other}
 
-- [TheOneRing.net](TheOneRing.net.md), một trang web chuyên về tin tức từ *[Peter Jackson](../P/Peter_Jackson.md)'*s [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>) và [*The Hobbit* (loạt phim)](<The_Hobbit_(film_series).md>)
+- [TheOneRing.net](TheOneRing.net.md), một trang web chuyên về tin tức từ *[Peter Jackson](../P/Peter_Jackson.md)*s [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>) và [*The Hobbit* (loạt phim)](<The_Hobbit_(film_series).md>)
 
 <hr style="margin-top:15px;"/>
 

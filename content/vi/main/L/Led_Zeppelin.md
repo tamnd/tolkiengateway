@@ -23,9 +23,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-**Led Zeppelin** là một ban nhạc rock người Anh hoạt động từ [1968](../_/1968.md) đến [1980](../_/1980.md), bao gồm Robert Plant, Jimmy Page, John Paul Jones và John Bonham. Nhiều người hâm mộ tin rằng lời bài hát của một số bài hát của Led Zeppelin được lấy cảm hứng từ các tác phẩm của [Tolkien](../J/J.R.R._Tolkien.md)đồng thời lưu ý rằng một trong những con chó của Robert Plant được đặt tên là [Strider](<../S/Strider_(Aragorn).md>).
+**Led Zeppelin** là một ban nhạc rock người Anh hoạt động từ [1968](../_/1968.md) đến [1980](../_/1980.md), bao gồm Robert Plant, Jimmy Page, John Paul Jones và John Bonham. Nhiều người hâm mộ tin rằng lời bài hát của một số bài hát của Led Zeppelin được lấy cảm hứng từ các tác phẩm của [Tolkien](../J/J.R.R._Tolkien.md) đồng thời lưu ý rằng một trong những chú chó của Robert Plant có tên là [Strider](<../S/Strider_(Aragorn).md>).
 
-## Bài hát bị cáo buộc có Tolkien ảnh hưởng {#Songs_with_alleged_Tolkien_influence}
+## Các bài hát được cho là có ảnh hưởng của Tolkien {#Songs_with_alleged_Tolkien_influence}
 
 "**Hop núi mù sương**"
 

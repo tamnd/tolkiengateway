@@ -23,13 +23,13 @@ images:
 
 ## Từ nguyên {#Etymology}
 
-Tên *Celbaros* nằm trong [Gnomish](../G/Gnomish.md). Mặc dù ý nghĩa của cái tên không hoàn toàn rõ ràng nhưng thành phần thứ hai có vẻ là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Baros&amp;action=edit&amp;redlink=1" title="Baros (page does not exist)">baros</a></i> ("hamlet").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên *Celbaros* có trong [Gnomish](../G/Gnomish.md). Mặc dù ý nghĩa của cái tên không hoàn toàn rõ ràng nhưng thành phần thứ hai có vẻ là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Baros&amp;action=edit&amp;redlink=1" title="Baros (page does not exist)">baros</a></i> ("hamlet").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
 Celbaros chỉ xuất hiện trong một trong các bức vẽ về ba thiết bị huy hiệu đầu tiên do Tolkien tạo ra (hai bức còn lại mô tả [Cortirion](Cortirion.md) và [Tavrobel](../T/Tavrobel.md)), tuy nhiên, không giống như những bức vẽ khác, Celbaros chưa bao giờ được đưa vào thần thoại.<sup id="cite_ref-Celb_1-2" class="reference"><a href="#cite_note-Celb-1">[1]</a></sup>
 
-Có khả năng Celbaros đã được xác định là đến thị trấn Cheltenham của Anh, nơi J.R.R. Tolkien và [Edith Bratt](../E/Edith_Bratt.md) đoàn tụ vào [ngày 8 tháng 1](../J/January_8.md), [1913](../_/1913.md) - và sau ba năm xa cách, Tolkien đã ngỏ lời cưới Edith.<sup id="cite_ref-Celb_1-3" class="reference"><a href="#cite_note-Celb-1">[1]</a></sup>
+Có khả năng Celbaros đã được xác định là thị trấn Cheltenham của Anh, nơi J.R.R. Tolkien và [Edith Bratt](../E/Edith_Bratt.md) đoàn tụ vào [ngày 8 tháng 1](../J/January_8.md), [1913](../_/1913.md) - và sau ba năm xa cách, Tolkien đã ngỏ lời cầu hôn Edith.<sup id="cite_ref-Celb_1-3" class="reference"><a href="#cite_note-Celb-1">[1]</a></sup>
 
 <span></span>
 

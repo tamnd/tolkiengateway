@@ -18,7 +18,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Eva_Heilborn_19_April_1972.png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bc/Eva_Heilborn_19_April_1972.png/300px-Eva_Heilborn_19_April_1972.png" decoding="async" loading="lazy" width="300" height="416" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/bc/Eva_Heilborn_19_April_1972.png 1.5x" data-file-width="423" data-file-height="586"/></a><figcaption></figcaption></figure>
 
-Vào [19 tháng 4](../_/19_April.md) [1972](../_/1972.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã gửi một <i><a class="extiw" href="http://en.wikipedia.org/wiki/Procuration" title="wikipedia:Procuration">perprocurationem</a></i> **[lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) tới Eva Heilborn**, một độc giả Thụy Điển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào [ngày 19 tháng 4](../_/19_April.md) [1972](../_/1972.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã gửi một <i><a class="extiw" href="http://en.wikipedia.org/wiki/Procuration" title="wikipedia:Procuration">perprocurationem</a></i> **[thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) tới Eva Heilborn**, một độc giả Thụy Điển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Chủ đề:** Trả lời thư cảm ơn của Heilborn. Xin lỗi vì không thể đưa ra câu trả lời dài hơn.
 - **Mô tả:** Thư đánh máy (1 trang). Kích thước trang: 22,5 x 15,5 cm.

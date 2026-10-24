@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Sullivan, Richard"
 ---
 
-- Richard Sullivan đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Richard_Sullivan.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Richard Sullivan đã vui lòng cho phép anh sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Richard_Sullivan.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 29 tháng 7 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

@@ -13,13 +13,13 @@ categories:
   - "Quenya texts"
 ---
 
-<i><b>Oilima Markirya</b></i> ("**The Last Ark**") là tựa đề một bài thơ [Qenya](../Q/Qenya.md)/[Quenya](../Q/Quenya.md) (có bản dịch tiếng Anh) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), ban đầu được xuất bản trong bài tiểu luận "[A Secret Vice](../A/A_Secret_Vice.md)" (trong *[The Monsters and the Critics](../T/The_Monsters_and_the_Critics.md)*).
+<i><b>Oilima Markirya</b></i> ("**The Last Ark**") là tựa đề bài thơ [Qenya](../Q/Qenya.md)/[Quenya](../Q/Quenya.md) (có bản dịch tiếng Anh) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), ban đầu được xuất bản trong tiểu luận "[A Secret Vice](../A/A_Secret_Vice.md)" (trong *[The Monsters and the Critics](../T/The_Monsters_and_the_Critics.md)*).
 
 Hai phiên bản bổ sung của bài thơ cũng xuất hiện trong *[The Monsters and the Critics](../T/The_Monsters_and_the_Critics.md)*, một phiên bản được gọi là "phiên bản đầu tiên" và một phiên bản có thể có từ "thập kỷ cuối cùng" của cuộc đời Tolkien.
 
 Các phiên bản nháp của *Oilima Markirya*, cùng với các nhận xét, đã được xuất bản trong [*Parma Eldalamberon* 16](../P/Parma_Eldalamberon_16.md).
 
-[Helge Fauskanger](../H/Helge_Fauskanger.md) đã sử dụng phiên bản đầu ([1931](../_/1931.md)) và phiên bản cuối của khổ thơ đầu tiên để thể hiện sự phát triển của các sửa đổi của Tolkien trong Quenya.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Helge Fauskanger](../H/Helge_Fauskanger.md) đã sử dụng phiên bản đầu ([1931](../_/1931.md)) và cuối của khổ thơ đầu tiên của bài thơ để thể hiện sự phát triển trong các bản chỉnh sửa của Tolkien trong Quenya.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bản cuối cùng của bài thơ {#Last_version_of_the_poem}
 

@@ -39,47 +39,47 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_50.gif.md"><img src="https://tolkiengateway.net/w/images/5/51/Mythlore_50.gif" decoding="async" loading="lazy" width="225" height="295" class="mw-file-element" data-file-width="225" data-file-height="295"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 50</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Summer <a href="../_/1987.md" title="1987">1987</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">63</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_49.md" title="Mythlore 49">Mythlore 49</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_51.md" title="Mythlore 51">Mythlore 51</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 50</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol13/iss4/" rel="noreferrer noopener" target="_blank">Tập 13, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 50</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol13/iss4/" rel="noreferrer noopener" target="_blank">Tập 13, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
-Trong một bức thư đăng trên tạp chí (tr. 41), [L. Sprague de Camp](../L/L._Sprague_de_Camp.md) trích dẫn [một bức thư năm 1964 của Tolkien](../L/Letter_to_L._Sprague_de_Camp.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong một bức thư đăng trên tạp chí (tr. 41), [L. Sprague de Camp](../L/L._Sprague_de_Camp.md) trích dẫn từ [một bức thư năm 1964 của Tolkien](../L/Letter_to_L._Sprague_de_Camp.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Wytenbroe, J. R. “Nghi thức vượt qua ở The Hobbit.”
-- Hyles, Vernon. “Về bản chất của cái ác: Huyền thoại vũ trụ của Lewis, Tolkien và Williams.”
-- Musacchio, George. “Tiền chuộc Elwin: Cuộc hành hương bắt đầu.”
-- Croft, Edward. “Nơi từ ngữ rơi ngắn: Hạn chế của ngôn ngữ trong đêm giao thừa.”
-- Người quay phim, Kath. “Một câu chuyện ngụ ngôn được tiết lộ: Bài đọc về The Lord of the Rings.”
-- Ôi, Nils Ivar. “Cấu trúc nút trong Tales of the Kỷ Đệ Nhất của Tolkien?”
+- Wytenbroe, J. R. “Rites of Passage in The Hobbit.”
+- Hyles, Vernon. “On the Nature of Evil: The Cosmic Myths of Lewis, Tolkien and Williams.”
+- Musacchio, George. “Elwin Ransom: The Pilgrimage Begins.”
+- Croft, Edward. “Where Words Fall Short: Limitations of Language in All Hallows' Eve.”
+- Filmer, Kath. “An Allegory Unveiled: A Reading of The Lord of the Rings.”
+- Agøy, Nils Ivar. “A Nodal Structure in Tolkien’s Tales of the First Age?”
 - Thoát khỏi chiến thắng, Rayner và cộng sự. “20 năm và 50 vấn đề.”
-- Schakel, Peter J. “'Sức mạnh ghê tởm' đó ở Lewis và Orwell: Sự so sánh và tương phản."
-- Welch, Randy C. “Watership Down: Cá nhân & Xã hội.”
-- Christopher, Joe R. “Artorius của John Heath-Stubbs và ảnh hưởng của Charles Williams.”
+- Schakel, Peter J. “That ‘Hideous Strength’ in Lewis and Orwell: A Comparison and Contrast.”
+- Welch, Randy C. “Watership Down: The Individual &amp; Society.”
+- Christopher, Joe R. “John Heath-Stubbs’ Artorius and the Influence of Charles Williams.”
 
 #### Thơ {#Poetry}
 
 - Le Guin, Ursula K. “NM.”
-- Yolen, Jane. “Bài hát của Amesbury.”
+- Yolen, Jane. “Amesbury Song.”
 
 #### Tính năng {#Features}
 
 - Chúc ngủ ngon, Glen. Lời mở đầu của biên tập viên - Hai thập kỷ: Nhìn lại.
-- Christopher, Joe R. An Inklings' Thư mục (31).
-- Kodratiev, Alexei. “Những câu chuyện mới được kể.”
-- Hyde, Paul Nolan. “Quenti Lambardillion: Chuyên mục về Trung Địa Ngôn ngữ học.”
+- Christopher, Joe R. An Inklings' Bibliography (31).
+- Kondratiev, Alexei. “Tales Newly Told.”
+- Hyde, Paul Nolan. “Quenti Lambardillion: A Column on Middle-earth Linguistics.”
 - Thư.
 
 #### Đánh giá {#Reviews}
 
-- *The Hobbit, hoặc There and Back Again.* J.R.R. Tolkien, Minh họa bởi tác giả, Lời nói đầu của Christopher Tolkien. Được đánh giá bởi Nancy-Lou Patterson.
+- *Người Hobbit, hay Ở đó và quay lại.* J.R.R. Tolkien, Minh họa bởi tác giả, Lời tựa của Christopher Tolkien. Được đánh giá bởi Nancy-Lou Patterson.
 - *C.S. Lewis.* Joe R. Christopher. Được đánh giá bởi Nancy-Lou Patterson.
 - *Daughter of Regals &amp; Other Tales.* Stephen R. Donaldson. Được đánh giá bởi Thomas M. Egan.
 - *Elfquest — Dòng máu của mười thủ lĩnh, Tập một.* Biên tập bởi Richard Pini, Robert Asprin và Lynn Abby. Được đánh giá bởi David Bratman.
 - *Shadowlands*. Phim do BBC và Episcopal Radio-TV Foundation sản xuất. Đạo diễn bởi Norman Stone; được viết bởi William Nicholson. Được đánh giá bởi David Bratman.
 - *Charles Williams.* Kathleen Spencer. Được đánh giá bởi Nancy-Lou Patterson.
-- *Quanh năm với C.S. Lewis và những người bạn của anh ấy.* Kathryn Lindskoog, người biên soạn. Được đánh giá bởi Nancy-Lou Patterson.
+- *Quanh năm với C.S. Lewis và những người bạn của ông.* Kathryn Lindskoog, người biên soạn. Được đánh giá bởi Nancy-Lou Patterson.
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 49</div></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_49.md" title="Mythlore 49">Mythlore 49</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 50</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 51</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Mythlore_51.md" title="Mythlore 51">Mythlore 51</a></div></div></div>
 

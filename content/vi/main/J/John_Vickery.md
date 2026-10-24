@@ -18,11 +18,11 @@ sort_keys:
   "People by name": "Vickery, John"
 ---
 
-**John Estill Vickery** ([Ngày 4 tháng 11](../_/4_November.md), [1950](../_/1950.md)) là một diễn viên người Mỹ. Bắt đầu trên sân khấu ở Shakespeare và Broadway, anh xuất hiện trên truyền hình với tư cách khách mời trong nhiều chương trình. Anh ấy có lẽ được biết đến nhiều nhất khi chơi <a class="extiw" href="http://en.wikipedia.org/wiki/Neroon" title="wikipedia:Neroon">Neroon</a> trên <a class="extiw" href="http://en.wikipedia.org/wiki/Babylon_5" title="wikipedia:Babylon 5"><i>Babylon 5</i></a>*.*
+**John Estill Vickery** ([Ngày 4 tháng 11](../_/4_November.md), [1950](../_/1950.md)) là một diễn viên người Mỹ. Bắt đầu trên sân khấu ở Shakespeare và Broadway, anh xuất hiện trên truyền hình với tư cách khách mời trong nhiều chương trình. Ông có lẽ được biết đến nhiều nhất khi chơi <a class="extiw" href="http://en.wikipedia.org/wiki/Neroon" title="wikipedia:Neroon">Neroon</a> trên <a class="extiw" href="http://en.wikipedia.org/wiki/Babylon_5" title="wikipedia:Babylon 5"><i>Babylon 5</i></a>*.*
 
 ## Vai trò {#Roles}
 
-- [1979](../_/1979.md): [ *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1979_radio_series).md>) của NPR: [Legolas](../L/Legolas.md), [Wormtongue](../G/Gríma.md), [Faramir](../F/Faramir.md), [ Miệng của Sauron](../T/The_Mouth_of_Sauron~36612.md)
+- [1979](../_/1979.md): [ *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1979_radio_series).md>) của NPR: [Legolas](../L/Legolas.md), [Wormtongue](../G/Gríma.md), [Faramir](../F/Faramir.md), [Miệng của Sauron](../T/The_Mouth_of_Sauron~36612.md)
 
 ## Liên kết ngoài {#External_links}
 

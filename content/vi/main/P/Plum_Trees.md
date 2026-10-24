@@ -12,7 +12,7 @@ categories:
   - "Trees"
 ---
 
-**Cây mận** là một số loại cây cho quả được trồng ở vùng [ Shire](../T/The_Shire.md). Vào năm tuyệt vời [S.R.](../S/Shire_Reckoning.md) [1420](../T/Third_Age_3020.md) người ta kể rằng [Hobbit](../H/Hobbits.md) thanh niên "ngồi trên bãi cỏ dưới gốc cây mận và ăn, cho đến khi tạo thành những đống đá giống như những kim tự tháp nhỏ hoặc những chiếc đầu lâu chất đống của kẻ chinh phục".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Cây mận** là một số loại cây cho quả được trồng ở [Shire](../T/The_Shire.md). Vào năm tuyệt vời [S.R.](../S/Shire_Reckoning.md) [1420](../T/Third_Age_3020.md) người ta nói rằng [Người Hobbit](../H/Hobbits.md) trẻ tuổi "ngồi trên bãi cỏ dưới những cây mận và ăn, cho đến khi họ xếp thành những đống đá giống như những kim tự tháp nhỏ hoặc những chiếc đầu lâu chất thành đống của kẻ chinh phục".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

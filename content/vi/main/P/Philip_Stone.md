@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Stone, Philip"
 ---
 
-Diễn viên kỳ cựu **Philip Stone** (tên khai sinh **Philip Stones**) ([14 tháng 4](../_/14_April.md), [1924](../_/1924.md) - [15 tháng 6](../_/15_June.md), [2003](../_/2003.md)) đã lồng tiếng cho [Théoden](../T/Théoden.md) trong [The Lord of the Rings (phim 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
+Diễn viên kỳ cựu **Philip Stone** (tên khai sinh **Philip Stones**) ([14 tháng 4](../_/14_April.md), [1924](../_/1924.md) - [15 tháng 6](../_/15_June.md), [2003](../_/2003.md)) đã lồng tiếng cho [Théoden](../T/Théoden.md) trong [The Lord of the Rings (1978 film)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Liên kết ngoài {#External_links}
 

@@ -11,4 +11,4 @@ redirect_target: "Middle-earth"
 redirect_fragment: "Names"
 ---
 
-Chuyển hướng đến [Trung Địa](../M/Middle-earth.md#Names).
+Chuyển hướng đến [Trung địa](../M/Middle-earth.md#Names).

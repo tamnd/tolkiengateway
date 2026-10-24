@@ -40,4 +40,4 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-** Tháp Cirith Ungol** là cảnh thứ 47 của *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* và cảnh thứ 58 của [*The Lord of the Rings: The Return of the King* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>). Nó đã được mở rộng trong phiên bản sau.
+**Tháp Cirith Ungol** là cảnh thứ 47 của *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* và cảnh thứ 58 của [*The Lord of the Rings: The Return of the King* (extended edition)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>). Nó đã được mở rộng trong phiên bản sau.

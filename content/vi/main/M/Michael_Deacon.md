@@ -20,8 +20,8 @@ sort_keys:
   "People by name": "Deacon, Michael"
 ---
 
-**Michael Phó tế** ([6 tháng 3](../_/6_March.md), [1937](../_/1937.md) - [26 tháng 12](../_/26_December.md), [2000](../_/2000.md)) là một diễn viên người Anh. Anh là người lồng tiếng cho [Gríma Wormtongue](../G/Gríma.md) trong [The Lord of the Rings (phim 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
+**Michael Deacon** ([6 tháng 3](../_/6_March.md), [1937](../_/1937.md) - [26 tháng 12](../_/26_December.md), [2000](../_/2000.md)) là một diễn viên người Anh. Ông là người lồng tiếng cho [Gríma Wormtongue](../G/Gríma.md) trong [The Lord of the Rings (1978 film)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.imdb.com/name/nm0212583/" rel="noreferrer noopener" target="_blank">Michael Phó tế</a> tại IMDb
+- <a class="external text" href="http://www.imdb.com/name/nm0212583/" rel="noreferrer noopener" target="_blank">Michael Deacon</a> tại IMDb

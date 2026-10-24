@@ -15,7 +15,7 @@ sort_keys:
   "Quenya nouns": "Norie"
 ---
 
-<i><b>nórië</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "quốc gia".
+<i><b>nórië</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "đất nước".
 
 ## Ví dụ {#Examples}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dark Wizard"
 ---
 
-Chuyển hướng đến [Tối Pháp sư](Dark_Wizard.md).
+Chuyển hướng tới [Pháp sư bóng tối](Dark_Wizard.md).

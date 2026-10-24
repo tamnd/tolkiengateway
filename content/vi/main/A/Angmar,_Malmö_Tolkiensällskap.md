@@ -22,7 +22,7 @@ images:
 
 **Angmar, Malmö Tolkiensällskap**, là Hiệp hội Tolkien Thụy Điển của <a class="extiw" href="http://en.wikipedia.org/wiki/Malm%C3%B6" title="wikipedia:Malmö">Malmö</a>, được tách ra từ [Forodrim](../F/Forodrim.md). Hiệp hội đã xuất bản tạp chí *Certhas Angmar* (một ấn phẩm mà đến năm 2010 dường như đã không còn tồn tại).
 
-Angmar bao gồm bảy hội: Hội Ngôn ngữ, Hội Thiết bị/Trang trí (khó dịch; "Rustgillet"), Hội Trò chơi, Hội Tiên, Hội Đồ ăn và Rượu, Hội Cung tên và Hội Khiêu vũ.
+Angmar bao gồm bảy hội: Hội Ngôn ngữ, Hội Thiết bị/Trang trí (khó dịch; "Rustgillet"), Hội Trò chơi, Hội Yêu tinh, Hội Đồ ăn và Rượu, Hội Cung tên và Hội Khiêu vũ.
 
 ## Liên kết ngoài {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arda"
 ---
 
-Chuyển hướng đến [Arda](../A/Arda.md).
+Chuyển hướng tới [Arda](../A/Arda.md).

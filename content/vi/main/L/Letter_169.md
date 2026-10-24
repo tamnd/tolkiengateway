@@ -33,9 +33,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-<a class="extiw" href="http://en.wikipedia.org/wiki/Hugh_Brogan" title="wikipedia:Hugh Brogan">Hugh Brogan</a> đã phát hiện ra từ "Numinor" trong [C.S. Lewis](../C/C.S._Lewis.md)' <i><a class="extiw" href="http://en.wikipedia.org/wiki/That_Hideous_Strength" title="wikipedia:That Hideous Strength">Sức mạnh ghê tởm đó</a></i>và hỏi Tolkien về nó. Tolkien trả lời rằng Lewis có thể đã nghe nhầm, vì cách viết đúng là [Númenor](../N/Númenor.md) hoặc [Númenóre](../N/Númenor.md#Etymology).
+<a class="extiw" href="http://en.wikipedia.org/wiki/Hugh_Brogan" title="wikipedia:Hugh Brogan">Hugh Brogan</a> đã phát hiện ra từ "Numinor" trong [C.S. Lewis](../C/C.S._Lewis.md)' <i><a class="extiw" href="http://en.wikipedia.org/wiki/That_Hideous_Strength" title="wikipedia:That Hideous Strength">Sức mạnh ghê tởm đó</a></i>và hỏi Tolkien về điều đó. Tolkien trả lời rằng Lewis có thể đã nghe nhầm, vì cách viết đúng là [Númenor](../N/Númenor.md) hoặc [Númenóre](../N/Númenor.md#Etymology).
 
-Brogan cũng hỏi về hình dạng của thế giới trong [Kỷ Đệ Tam](../T/Third_Age.md); Tolkien chưa bao giờ thực sự quyết định về hình dạng thế giới của anh ấy, vì nó sẽ ảnh hưởng đến việc kể lịch sử của anh ấy. <br>
+Brogan cũng hỏi về hình dạng của thế giới ở [Thời đại thứ ba](../T/Third_Age.md); Tolkien chưa bao giờ thực sự quyết định về hình dạng thế giới của mình, vì nó sẽ ảnh hưởng đến việc kể lịch sử của ông. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

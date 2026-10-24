@@ -58,18 +58,18 @@ langlinks:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 3 tháng Chín.
+Sự kiện xảy ra vào ngày 3 tháng 9
 
 ## Trên Trái đất {#On_Earth}
 
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 80](../L/Letter_80.md).
 - **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 140b](../L/Letter_140b.md).
 - **[1971](1971.md)** - [Mythcon 2](../M/Mythcon_2.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Santa_Barbara,_California" title="wikipedia:Santa Barbara, California">Santa Barbara</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
-- **[2004](2004.md)** - *The Evening Chronicle* đăng đoạn trích [bức thư của Tolkien gửi cho một người hâm mộ vô danh](<../L/Letter_to_unknown_recipient_(1956).md>).
-- **[2006](2006.md)** - [The Lord of the Rings (âm nhạc)](<../T/The_Lord_of_the_Rings_(musical).md>) đóng cửa thua lỗ ở <a class="extiw" href="http://en.wikipedia.org/wiki/Toronto" title="wikipedia:Toronto">Toronto</a>.
+- **[2004](2004.md)** - *The Evening Chronicle* đăng đoạn trích [bức thư của Tolkien gửi một người hâm mộ vô danh](<../L/Letter_to_unknown_recipient_(1956).md>).
+- **[2006](2006.md)** - [The Lord of the Rings (musical)](<../T/The_Lord_of_the_Rings_(musical).md>) đóng cửa thua lỗ ở <a class="extiw" href="http://en.wikipedia.org/wiki/Toronto" title="wikipedia:Toronto">Toronto</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

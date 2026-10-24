@@ -73,43 +73,43 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Daniel_Govar_-_The_Hobbit_-_Kili.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3d/Daniel_Govar_-_The_Hobbit_-_Kili.jpg/320px-Daniel_Govar_-_The_Hobbit_-_Kili.jpg" decoding="async" loading="lazy" width="320" height="457" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3d/Daniel_Govar_-_The_Hobbit_-_Kili.jpg/480px-Daniel_Govar_-_The_Hobbit_-_Kili.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3d/Daniel_Govar_-_The_Hobbit_-_Kili.jpg/640px-Daniel_Govar_-_The_Hobbit_-_Kili.jpg 2x" data-file-width="800" data-file-height="1143"/></a><figcaption>&#34;The Hobbit - Kili&#34; by <a href="../D/Daniel_Govar.md" title="Daniel Govar">Daniel Govar</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../D/Dwarves.md" title="Dwarves">Dwarf</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Kíli</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="mw-redirect" href="../T/Thorin&#39;s_Halls.md" title="Thorin&#39;s Halls">Thorin&#39;s Halls</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="Khuzdul.md" title="Khuzdul">Khuzdul</a> and <a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2864.md" title="Third Age 2864">2864</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2941.md" title="Third Age 2941">2941</a> (aged 77)<br/><a href="../B/Battle_of_Five_Armies.md" title="Battle of Five Armies">Battle of Five Armies</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data"><a href="../H/House_of_Durin.md" title="House of Durin">House of Durin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../D/Dís.md" title="Dís">Dís</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="../F/Fíli.md" title="Fíli">Fíli</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Hair colour</th><td class="tg-infobox-data">Yellow</td></tr><tr><th scope="row" class="tg-infobox-label">Clothing</th><td class="tg-infobox-data">Blue hood</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Kíli.md" title="Category:Images of Kíli">Images of Kíli</a></td></tr></tbody></table>
 
-**Kíli** ([T.A.](../T/Third_Age.md) [2864](../T/Third_Age_2864.md) – [2941](../T/Third_Age_2941.md)<sup id="cite_ref-Line_1-0" class="reference"><a href="#cite_note-Line-1">[1]</a></sup> 77 tuổi) là con trai của [Dís](../D/Dís.md), em gái của Vua [Thorin](../T/Thorin.md) và là anh trai của [Fíli](../F/Fíli.md).
+**Kíli** ([T.A.](../T/Third_Age.md) [2864](../T/Third_Age_2864.md) – [2941](../T/Third_Age_2941.md)<sup id="cite_ref-Line_1-0" class="reference"><a href="#cite_note-Line-1">[1]</a></sup> 77 tuổi) là con trai của [Dís](../D/Dís.md), em gái của Vua [Thorin](../T/Thorin.md), và là anh trai của [Fíli](../F/Fíli.md).
 
-Kíli là một trong mười ba [Người Lùn](../D/Dwarves.md) tham gia nhiệm vụ tìm kiếm [Erebor](../L/Lonely_Mountain.md), đây là cuộc phiêu lưu vĩ đại của [Bilbo Baggins](../B/Bilbo_Baggins.md). Hai anh em là người trẻ nhất trong [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) khoảng 50 tuổi,<sup id="cite_ref-Hill_2-0" class="reference"><a href="#cite_note-Hill-2">[2]</a></sup> và Kíli kém anh trai 5 tuổi.<sup id="cite_ref-Line_1-1" class="reference"><a href="#cite_note-Line-1">[1]</a></sup> Hai anh em không thể tách rời trong suốt cuộc phiêu lưu.
+Kíli là một trong mười ba [Người lùn](../D/Dwarves.md) tham gia nhiệm vụ tìm kiếm [Erebor](../L/Lonely_Mountain.md), đây là cuộc phiêu lưu vĩ đại của [Bilbo Baggins](../B/Bilbo_Baggins.md). Hai anh em là những người trẻ nhất trong [Thorin and Company](../T/Thorin_and_Company.md) khoảng 50 tuổi,<sup id="cite_ref-Hill_2-0" class="reference"><a href="#cite_note-Hill-2">[2]</a></sup> với Kíli trẻ hơn anh trai mình 5 tuổi.<sup id="cite_ref-Line_1-1" class="reference"><a href="#cite_note-Line-1">[1]</a></sup> Hai anh em không thể tách rời trong suốt cuộc phiêu lưu.
 
-Hai anh em cùng với chính Thorin đã không sống sót sau [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md).
+Hai anh em, cùng với chính Thorin, đã không sống sót sau [Trận chiến của năm đạo quân](../B/Battle_of_Five_Armies.md).
 
 ## Lịch sử {#History}
 
-Trước nhiệm vụ Erebor, Fíli và Kíli có lẽ đã sống ở [Dãy Núi Xanh](../B/Blue_Mountains.md) nơi chú của họ cư trú sau khi [Thráin II](../T/Thráin.md) biến mất.<sup id="cite_ref-Line_1-2" class="reference"><a href="#cite_note-Line-1">[1]</a></sup> Với tư cách là em gái của Thorin, họ đã đi cùng chú của mình khi ông lên đường thách thức [rồng](../D/Dragons.md) [Smaug](../S/Smaug.md).
+Trước hành trình tới Erebor, Fíli và Kíli có lẽ đã sống ở [Blue Mountains](../B/Blue_Mountains.md) nơi chú của họ cư trú sau khi [Thráin II](../T/Thráin.md) biến mất.<sup id="cite_ref-Line_1-2" class="reference"><a href="#cite_note-Line-1">[1]</a></sup> Là em gái của Thorin, họ đã đi cùng chú của mình khi ông lên đường thách thức [rồng](../D/Dragons.md) [Smaug](../S/Smaug.md).
 
-### Nhiệm vụ của Erebor {#The_Quest_of_Erebor}
+### Cuộc truy tìm Erebor {#The_Quest_of_Erebor}
 
-Khi Bilbo gặp Kíli và Fíli lần đầu (trong nhóm thứ ba Người Lùn đến [Bag End](../B/Bag_End.md)), họ đội mũ trùm đầu màu xanh lam. Sau bữa tối, khi Người Lùn bật nhạc, Kíli và Fíli chơi những cây vĩ cầm nhỏ mà các em mang theo trong túi.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Khi Bilbo gặp Kíli và Fíli lần đầu tiên (trong nhóm Người lùn thứ ba đến [Bag End](../B/Bag_End.md)), họ đội mũ trùm đầu màu xanh lam. Sau bữa tối, khi Người lùn chơi nhạc, Kíli và Fíli chơi những cây vĩ cầm nhỏ mà họ mang theo trong túi.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Vào đêm sớm khi đại đội chạm trán với [quỷ khổng lồ](../T/Trolls.md), một trong những chú ngựa con đã sợ hãi và lao xuống sông; Kíli và Fíli suýt chết đuối khi đưa con thú lên khỏi mặt nước.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Ở trên [Dãy Núi Sương Mù](../M/Misty_Mountains.md) trong trận sấm sét, hai anh em, là Người Lùn trẻ nhất với đôi mắt tinh tường nhất, được cử đi trước để tìm nơi trú ẩn. Họ tìm thấy một hang khô nhỏ rất phù hợp cho công ty (cho đến khi [Goblin](../O/Orcs.md) đến). Sau khi [Gandalf](../G/Gandalf.md) giải cứu công ty và đếm số thành viên, anh thấy Kíli và Fíli, như thường lệ, ghép đôi với nhau.<sup id="cite_ref-Hill_2-1" class="reference"><a href="#cite_note-Hill-2">[2]</a></sup>
+Ở [Dãy núi sương mù](../M/Misty_Mountains.md) trong trận chiến sấm sét, hai anh em, là những Người lùn trẻ nhất có đôi mắt tinh tường nhất, được cử đi trước để tìm nơi trú ẩn. Họ tìm thấy một hang động khô nhỏ rất phù hợp cho cả nhóm (cho đến khi [Yêu tinh](../O/Orcs.md) đến). Sau khi [Gandalf](../G/Gandalf.md) giải cứu công ty và đếm số thành viên, anh thấy Kíli và Fíli, như thường lệ, cặp đôi với nhau.<sup id="cite_ref-Hill_2-1" class="reference"><a href="#cite_note-Hill-2">[2]</a></sup>
 
-Khi đại đội lao lên cây để thoát khỏi [bầy sói](../W/Wargs.md) Kíli và Fíli trườn lên đỉnh một cây thông cao.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Ngày hôm sau, khi đại đội đến hội trường của [Beorn](../B/Beorn.md), Kíli và Fíli lại cùng nhau trở thành cặp Người Lùn thứ tư xuất hiện trong câu chuyện của Gandalf.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Khi cả nhóm lao lên cây để thoát khỏi [bầy chiến binh](../W/Wargs.md) Kíli và Fíli tranh giành nhau trên đỉnh một cây thông cao.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Ngày hôm sau, khi cả nhóm đến hội trường của [Beorn](../B/Beorn.md), Kíli và Fíli lại cùng nhau trở thành cặp Người lùn thứ tư xuất hiện trong câu chuyện của Gandalf.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Khi Bilbo phát hiện chiếc thuyền ở phía xa của [Dòng sông Phù phép](../E/Enchanted_River.md), Fíli đã cố gắng kéo nó bằng một cái móc trên một sợi dây nhưng không thể kéo nó qua. Kíli đến trợ giúp đầu tiên, tiếp theo là [Óin](../_/Óin.md) và [Glóin](../G/Glóin.md), trước khi chiếc thuyền bị lỏng (sau khi sơn của nó bị gãy).<sup id="cite_ref-Flies_7-0" class="reference"><a href="#cite_note-Flies-7">[7]</a></sup>
+Khi Bilbo phát hiện ra con thuyền ở phía xa của [Dòng sông bị phù phép](../E/Enchanted_River.md), Fíli đã cố gắng kéo nó bằng một cái móc trên một sợi dây nhưng không thể kéo nó qua được. Kíli đến trợ giúp đầu tiên, theo sau là [Óin](../_/Óin.md) và [Glóin](../G/Glóin.md), trước khi con thuyền bị lỏng (sau khi họa sĩ của nó bị gãy).<sup id="cite_ref-Flies_7-0" class="reference"><a href="#cite_note-Flies-7">[7]</a></sup>
 
-Khi mở thùng sau khi trốn thoát khỏi hành lang của [Vua Tiên](../T/Thranduil.md), Kíli và Fíli bước ra mỉm cười vì họ còn trẻ và chỉ có ít vết bầm tím. Hai anh em đã giúp Thorin và Bilbo xác định vị trí và giải thoát Người Lùn còn lại. Tiếp theo, họ đi cùng Thorin và Bilbo tới cầu vào [Esgaroth](../L/Lake-town.md) trong khi những người khác hồi phục.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Khi mở thùng sau cuộc trốn thoát khỏi sảnh của [Elvenking](../T/Thranduil.md), Kíli và Fíli bước ra mỉm cười vì họ còn trẻ và chỉ có ít vết bầm tím. Hai anh em đã giúp Thorin và Bilbo xác định vị trí và giải thoát những Người lùn khác. Tiếp theo, họ đi cùng Thorin và Bilbo đến cây cầu dẫn vào [Esgaroth](../L/Lake-town.md) trong khi những người khác hồi phục.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Francesco_Amadio_-_Fili_and_Kili.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/48/Francesco_Amadio_-_Fili_and_Kili.jpg/300px-Francesco_Amadio_-_Fili_and_Kili.jpg" decoding="async" loading="lazy" width="300" height="209" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/48/Francesco_Amadio_-_Fili_and_Kili.jpg/450px-Francesco_Amadio_-_Fili_and_Kili.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/48/Francesco_Amadio_-_Fili_and_Kili.jpg/600px-Francesco_Amadio_-_Fili_and_Kili.jpg 2x" data-file-width="900" data-file-height="627"/></a><figcaption>&#34;Fili and Kili&#34; by <a href="../../category/I/Images_by_Francesco_Amadio.md" title="Category:Images by Francesco Amadio">Francesco Amadio</a></figcaption></figure>
 
-Khi công ty đến Ngọn Núi Cô Đơn, Thorin đã cử một nhóm trinh sát đến xem Cổng Trước (hoặc nơi nó từng đứng). Kíli và Fíli đã đồng hành cùng [Balin](../B/Balin.md) và Bilbo trong chuyến thám hiểm này. Trong một chuyến trinh sát khác Bilbo cùng với Kíli và Fíli cả ba phát hiện ra những bậc thang gồ ghề dẫn lên núi đến cái vịnh nhỏ có cánh cửa bí mật.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Khi cả nhóm đến Lonely Mountain, Thorin cử một nhóm trinh sát đến xem Cổng Trước (hoặc nơi nó từng đứng). Kíli và Fíli đã đi cùng [Balin](../B/Balin.md) và Bilbo trong chuyến thám hiểm này. Trong một chuyến trinh sát khác, Bilbo đi cùng Kíli và Fíli khi cả ba phát hiện ra những bậc thang gồ ghề dẫn lên núi đến cái vịnh nhỏ có cánh cửa bí mật.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
-Trong số 13 Người Lùn, Kíli và Fíli tỏ ra khó chịu khi Bilbo yêu cầu tình nguyện viên đi cùng mình trong chuyến đi đầu tiên vào núi (chỉ có Balin đi cùng anh hobbit một đoạn đường). Tuy nhiên, khi con rồng thức dậy Kíli và Fíli, cùng với Bilbo và Balin, là những người đầu tiên đi vào đường hầm (do Thorin cử đến).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+Trong số mười ba Người lùn, Kíli và Fíli có vẻ không thoải mái khi Bilbo yêu cầu tình nguyện viên đi cùng anh trong chuyến đi đầu tiên vào núi (chỉ có Balin đi cùng anh hobbit trong một phần chặng đường). Khi con rồng tỉnh dậy, Kíli và Fíli, cùng với Bilbo và Balin, là những người đầu tiên đi vào đường hầm (do Thorin cử vào).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
-Trong khi tìm kiếm kho báu khi cả nhóm đi xuống Erebor, Kíli và Fíli đã có tinh thần phấn chấn đến mức họ lấy những cây đàn hạc vàng ma thuật xuống và chơi nhạc trên chúng.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+Trong khi tìm kiếm kho báu khi cả nhóm xuống Erebor, Kíli và Fíli đã có tinh thần phấn chấn đến mức họ lấy những cây đàn hạc vàng ma thuật xuống và chơi nhạc trên chúng.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
-Kíli đã bị giết cùng với anh trai của mình trong [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md), trong khi bảo vệ người chú bị trọng thương của họ.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Sau cái chết của Thorin, hai anh em sẽ là hậu duệ duy nhất còn lại của dòng dõi [Thrór](../T/Thrór.md). Cái chết của họ đã kết thúc triều đại, và tước hiệu Vua Dưới Núi được truyền lại cho [Dáin II](../D/Dáin_Ironfoot.md). Chính vị thế anh dũng cuối cùng của họ đã khiến mẹ họ trở thành [Người lùn người phụ nữ](../D/Dwarf-women.md) duy nhất được nhắc đến trong gia phả.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+Kíli đã bị giết cùng với anh trai mình trong [Trận chiến của năm đạo quân](../B/Battle_of_Five_Armies.md), trong khi bảo vệ người chú bị trọng thương của họ.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Sau cái chết của Thorin, hai anh em sẽ là hậu duệ duy nhất còn lại của dòng dõi [Thrór](../T/Thrór.md). Cái chết của họ đã kết thúc triều đại, và danh hiệu Vua Dưới Núi được truyền lại cho [Dáin II](../D/Dáin_Ironfoot.md). Chính vị thế anh hùng cuối cùng của họ đã khiến mẹ họ trở thành [Người phụ nữ lùn](../D/Dwarf-women.md) duy nhất được nhắc đến trong gia phả.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Kíli* là một người lùn đến từ *[Dvergatal](../V/Völuspá.md)*. Nó có thể có nghĩa là "Cái nêm" hoặc "Người sử dụng cái nêm"; nó có nguồn gốc từ tiếng Frisia hoặc vùng Hạ Đức chứ không phải tiếng Bắc Âu cổ.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+*Kíli* là một người lùn đến từ *[Dvergatal](../V/Völuspá.md)*. Nó có thể có nghĩa là "Cái nêm" hoặc "Người sử dụng cái nêm"; nó có nguồn gốc từ tiếng Frisian hoặc tiếng Hạ Đức chứ không phải tiếng Bắc Âu cổ.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -169,21 +169,21 @@ Kíli đã bị giết cùng với anh trai của mình trong [Trận chiến N�
 
 ### Phim {#Films}
 
-<b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim 1967)</a>:</b>
+<b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>Người Hobbit</i> (phim 1967)</a>:</b>
 
 <dl><dd>Kíli is omitted. <a href="../T/Thorin.md" title="Thorin">Thorin Oakenshield</a> only travels with an unnamed guard and the princess of Dale.<sup id="cite_ref-Deitch_15-0" class="reference"><a href="#cite_note-Deitch-15">[15]</a></sup></dd></dl>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>Người Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>Kíli&#39;s voice is provided by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jack_DeLeon&amp;action=edit&amp;redlink=1" title="Jack DeLeon (page does not exist)">Jack DeLeon</a>. However, he only ever speaks in unison with the rest of the Dwarves.</dd></dl>
 
-<b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a>:</b>
+<b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>Người Hobbit</i> (loạt phim)</a>:</b>
 
 <dl><dd>Kíli is played by <a href="../A/Aidan_Turner.md" title="Aidan Turner">Aidan Turner</a>.<sup id="cite_ref-PJCasting_16-0" class="reference"><a href="#cite_note-PJCasting-16">[16]</a></sup> A description of Kíli in <i>The Hobbit</i> films was released by the studio:</dd></dl>
 
 <dl><dd><blockquote class="tg-quote noexcerpt"></blockquote></dd></dl>
 
-Em trai của Fíli, Kíli là cháu trai trung thành của Thorin Oakenshield. Vô tư và có phần liều lĩnh, Kíli đã có một cuộc sống hạnh phúc và bình yên cho đến thời điểm này. Đẹp trai và có thể chất tốt, Kíli sở hữu lòng dũng cảm bất khả chiến bại của tuổi trẻ. Anh ta là một chiến binh lành nghề và là một cung thủ lão luyện, đã được huấn luyện sử dụng vũ khí ngay từ khi còn nhỏ. Là một trong những người trẻ nhất trong Công ty Người Lùn. Kíli quyết tâm ghi dấu ấn và chứng tỏ giá trị của mình.
+Là em trai của Fíli, Kíli là cháu trai trung thành của Thorin Oakenshield. Vô tư và có phần liều lĩnh, Kíli đã có một cuộc sống quyến rũ và không gặp khó khăn cho đến thời điểm này. Đẹp trai và thể chất tốt, Kíli sở hữu lòng dũng cảm bất khả chiến bại của tuổi trẻ. Ông ta là một chiến binh lành nghề và là một cung thủ lão luyện, đã được huấn luyện sử dụng vũ khí ngay từ khi còn nhỏ. Là một trong những người trẻ nhất trong The Company of Dwarves. Kíli quyết tâm ghi dấu ấn và chứng minh giá trị của mình.
 
 <p class="tg-quote-footer"><cite><a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros.</a><sup id="cite_ref-HobbitApp_17-0" class="reference"><a href="#cite_note-HobbitApp-17">[17]</a></sup></cite></p>
 
@@ -191,11 +191,11 @@ Em trai của Fíli, Kíli là cháu trai trung thành của Thorin Oakenshield.
 
 ### Loạt đài phát thanh {#Radio_series}
 
-<b>1968: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>The Hobbit</i> (loạt phim phát thanh 1968)</a>:</b>
+<b>1968: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>Người Hobbit</i> (loạt phim phát thanh năm 1968)</a>:</b>
 
 <dl><dd>Kíli is played by <a href="../N/Nicholas_Edmett.md" title="Nicholas Edmett">Nicholas Edmett</a>.</dd></dl>
 
-<b>1979: <a href="../T/The_Hobbit_(1979_radio_series).md" title="The Hobbit (1979 radio series)"><i>The Hobbit</i> (loạt phim phát thanh 1979)</a>:</b>
+<b>1979: <a href="../T/The_Hobbit_(1979_radio_series).md" title="The Hobbit (1979 radio series)"><i>Người Hobbit</i> (loạt phim phát thanh năm 1979)</a>:</b>
 
 <dl><dd>No actor is specified for the role of Kíli.</dd></dl>
 
@@ -209,15 +209,15 @@ Em trai của Fíli, Kíli là cháu trai trung thành của Thorin Oakenshield.
 
 ### Trò chơi {#Games}
 
-<b>1982: <a href="../T/The_Hobbit_(1982_video_game).md" title="The Hobbit (1982 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 1982)</a>:</b>
+<b>1982: <a href="../T/The_Hobbit_(1982_video_game).md" title="The Hobbit (1982 video game)"><i>Người Hobbit</i> (trò chơi điện tử năm 1982)</a>:</b>
 
 <dl><dd>Kíli is omitted; Thorin is the only companion of the player, <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></dd></dl>
 
-<b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
+<b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>Người Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
 
 <dl><dd>No actor is credited for the role of Kíli, but it appears to be <a href="../A/Alister_Duncan.md" title="Alister Duncan">Alister Duncan</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></dd></dl>
 
-<b>2014: <i><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit: Trò chơi điện tử</a></i>:</b>
+<b>2014: <i><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego Người Hobbit: Trò chơi điện tử</a></i>:</b>
 
 <dl><dd>Kili appears as he is in the movies, but in the form of a LEGO minifigure. <a href="../A/Aidan_Turner.md" title="Aidan Turner">Aidan Turner</a> voices Kíli through archive footage from the first two films.</dd></dl>
 

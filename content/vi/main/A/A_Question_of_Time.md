@@ -69,7 +69,7 @@ Một số bài viết của Tolkien trong cuốn sách này bao gồm:
 - 10\. Giấc mơ của ánh sáng và bóng tối
 - 11\. Cạm bẫy trong *Faërie*
 
-- Phần kết: Món quà niềm vui của anh ấy
+- Phần kết: Món quà niềm vui của ông
 
 ## Từ nhà xuất bản {#From_the_publisher}
 

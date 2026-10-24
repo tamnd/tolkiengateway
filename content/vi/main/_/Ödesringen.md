@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ring of Doom (video game)"
 ---
 
-Chuyển hướng đến [Vòng Phán xét (trò chơi điện tử)](<../R/Ring_of_Doom_(video_game).md>).
+Chuyển hướng tới [Ring of Doom (trò chơi điện tử)](<../R/Ring_of_Doom_(video_game).md>).

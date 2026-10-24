@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings Index"
 ---
 
-Chuyển hướng tới [The Lord of the Rings Chỉ mục](../T/The_Lord_of_the_Rings_Index.md).
+Chuyển hướng đến [The Lord of the Rings Index](../T/The_Lord_of_the_Rings_Index.md).

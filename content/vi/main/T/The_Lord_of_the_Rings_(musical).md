@@ -37,13 +37,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(musical)_LOGO.jpg.md"><img src="https://tolkiengateway.net/w/images/b/b2/The_Lord_of_the_Rings_%28musical%29_LOGO.jpg" decoding="async" loading="lazy" width="311" height="320" class="mw-file-element" data-file-width="311" data-file-height="320"/></a><figcaption>The official logo for <b>The Lord of the Rings Musical</b></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data">Matthew Warchus</td></tr><tr><th scope="row" class="tg-infobox-label">Writer</th><td class="tg-infobox-data">Shaun McKenna and Matthew Warchus</td></tr><tr><th scope="row" class="tg-infobox-label">Based on</th><td class="tg-infobox-data"><i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Producer</th><td class="tg-infobox-data">Kevin Wallace and <a href="../S/Saul_Zaentz.md" title="Saul Zaentz">Saul Zaentz</a></td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="../A/A.R._Rahman.md" title="A.R. Rahman">A.R. Rahman</a> and <a href="../V/Värttinä.md" title="Värttinä">Värttinä</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2006.md" title="2006">2006</a>: Toronto<br/><a href="../_/2007.md" title="2007">2007</a>: London<br/><a href="../_/2023.md" title="2023">2023</a>: Newbury<br/><a href="../_/2024.md" title="2024">2024</a>: Chicago</td></tr></tbody></table>
 
-**The Lord of the Rings Nhạc kịch** là nỗ lực lớn nhất và tốn kém nhất để chuyển thể *[The Lord of the Rings](The_Lord_of_the_Rings.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thành nhạc kịch. Nó được chiếu lần đầu tiên ở Toronto nhưng nhận được nhiều ý kiến ​​​​trái chiều. Phim đóng cửa sớm và mở lại ở London với kịch bản mới mặc dù các bài đánh giá vẫn chưa hoàn hảo.
+**Vở nhạc kịch Chúa tể những chiếc nhẫn** là nỗ lực lớn nhất và tốn kém nhất để chuyển thể tác phẩm *[The Lord of the Rings](The_Lord_of_the_Rings.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thành nhạc kịch. Nó được chiếu lần đầu tiên ở Toronto nhưng nhận được nhiều ý kiến ​​​​trái chiều. Phim đóng cửa sớm và mở lại ở London với kịch bản mới mặc dù các bài đánh giá vẫn chưa hoàn hảo.
 
 ## Sản phẩm {#Productions}
 
 ### Toronto {#Toronto}
 
-Vở nhạc kịch Toronto dài ba tiếng rưỡi, có 65 diễn viên và được trình chiếu tại Nhà hát Princess of Wales ở Toronto, Canada. Buổi biểu diễn tiêu tốn khoảng 26,9 triệu đô la và diễn ra từ [23 tháng 3](../_/23_March.md) (khai mạc báo chí), năm 2006 đến [tháng Chín ngày 3](../_/3_September.md) năm 2006, kết thúc thua lỗ.
+Vở nhạc kịch Toronto dài ba tiếng rưỡi, có 65 diễn viên và được trình chiếu tại Nhà hát Princess of Wales ở Toronto, Canada. Buổi biểu diễn tiêu tốn khoảng 26,9 triệu đô la và diễn ra từ [23 tháng 3](../_/23_March.md) (khai mạc báo chí), năm 2006 đến [ngày 3 tháng 9](../_/3_September.md) năm 2006, kết thúc thua lỗ.
 
 #### Truyền {#Cast}
 
@@ -59,13 +59,13 @@ Sau khi vở nhạc kịch chuyển đến London, sân khấu được xây d�
 
 #### Truyền {#Cast_2}
 
-- [Gandalf](../G/Gandalf.md) - Câu Chuyện Malcolm
+- [Gandalf](../G/Gandalf.md) - Câu chuyện của Malcolm
 - [Frodo](../F/Frodo_Baggins.md) - James Loye
 - [Gollum](../G/Gollum.md) - Michael Therriault
 - [Aragorn](../A/Aragorn.md) - Jérôme Pradon
 - [Galadriel](../G/Galadriel.md) - Laura Michelle Kelly
 - [Sam](../S/Samwise_Gamgee.md) - Peter Howe
-- [Merry](../M/Meriadoc_Brandybuck.md) - Richard Henders
+- [Chúc mừng](../M/Meriadoc_Brandybuck.md) - Richard Henders
 - [Pippin](../P/Peregrin_Took.md) - Owen Sharpe
 - [Legolas](../L/Legolas.md) - Michael Rouse
 - [Gimli](../G/Gimli.md) - Sévan Stephan
@@ -79,7 +79,7 @@ Sau khi vở nhạc kịch chuyển đến London, sân khấu được xây d�
 
 ### Newbury {#Newbury}
 
-Năm 2023, vở nhạc kịch được hồi sinh tại Nhà hát Watermill ở <a class="extiw" href="http://en.wikipedia.org/wiki/Newbury,_Berkshire" title="wikipedia:Newbury, Berkshire">Newbury</a>, Phương Tây Berkshire. Nó diễn ra trong 12 tuần, từ Thứ Ba [25 tháng 7](../_/25_July.md) đến Chủ Nhật [15 tháng 10](../_/15_October.md) [2023](../_/2023.md). Do quy mô nhỏ của nhà hát (chỉ có sức chứa 220 người) nên việc sản xuất được dàn dựng trên cả khán phòng Watermill và khu vườn của nó *"đắm chìm khán giả trong khung cảnh huyền diệu của Tolkien với dàn diễn viên hòa tấu và những con rối quy mô lớn"*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Năm 2023, vở nhạc kịch được hồi sinh tại Nhà hát Watermill ở <a class="extiw" href="http://en.wikipedia.org/wiki/Newbury,_Berkshire" title="wikipedia:Newbury, Berkshire">Newbury</a>, Tây Berkshire. Nó diễn ra trong 12 tuần, từ Thứ Ba [25 tháng 7](../_/25_July.md) đến Chủ Nhật [15 tháng 10](../_/15_October.md) [2023](../_/2023.md). Do quy mô nhỏ của nhà hát (chỉ có sức chứa 220 người) nên việc sản xuất được dàn dựng trên cả khán phòng Watermill và các khu vườn của nó *"đắm chìm khán giả trong khung cảnh huyền diệu của Tolkien với dàn diễn viên hòa tấu và những con rối quy mô lớn"*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Tác phẩm đã nhận được những đánh giá tích cực, đặc biệt khen ngợi diễn xuất của dàn diễn viên.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -93,7 +93,7 @@ Tác phẩm đã nhận được những đánh giá tích cực, đặc biệt 
 
 ### Chicago {#Chicago}
 
-Vào năm 2024, tác phẩm Cối xay nước được thông báo sẽ ra mắt tại Hoa Kỳ tại <a class="extiw" href="http://en.wikipedia.org/wiki/Chicago_Shakespeare_Theater" title="wikipedia:Chicago Shakespeare Theater">Nhà hát Shakespeare ở Chicago</a>, kéo dài từ [19 tháng 7](../_/19_July.md) đến [1 tháng Chín](../_/1_September.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Người ta cũng xác nhận rằng tác phẩm sẽ được lưu diễn quốc tế, với các ngày và địa điểm khác sẽ được công bố vào tháng 6.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Vào năm 2024, tác phẩm Cối xay nước được thông báo sẽ ra mắt tại Hoa Kỳ tại <a class="extiw" href="http://en.wikipedia.org/wiki/Chicago_Shakespeare_Theater" title="wikipedia:Chicago Shakespeare Theater">Nhà hát Shakespeare ở Chicago</a>, kéo dài từ [19 tháng 7](../_/19_July.md) đến [1 tháng 9](../_/1_September.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Người ta cũng xác nhận rằng tác phẩm sẽ đi lưu diễn quốc tế, với các ngày và địa điểm khác sẽ được công bố vào tháng 6.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Số nhạc {#Musical_numbers}
 
@@ -101,19 +101,19 @@ Vào năm 2024, tác phẩm Cối xay nước được thông báo sẽ ra mắt
 
 - "Nhẫn lò xo" – Công ty
 - "Mở đầu" ('Lasto i lamath') – Arwen
-- "[Con đường vẫn tiếp tục](<The_Road_Goes_Ever_On_(song).md>)" – Frodo, Sam, Pippin, Merry và Công ty
+- "[Con đường vẫn tiếp tục](<The_Road_Goes_Ever_On_(song).md>)" – Frodo, Sam, Pippin, Merry và Company
 - "Saruman" – Giọng nữ
-- "Con mèo và Mặt Trăng" – Frodo, Sam, Pippin, Merry và Công ty
-- "Chuyến bay tới Ford" – Glorfindel và Giọng nữ
+- "Con mèo và mặt trăng" – Frodo, Sam, Pippin, Merry và Company
+- "Chuyến bay tới chiếc Ford" – Glorfindel và Giọng nữ
 - "Bài ca hy vọng" – Arwen
-- "Ngôi sao của Eärendil" – Arwen và Công ty
-- "Than tiếc cho Moria" – Gandalf và Gimli
+- "Ngôi sao của Eärendil" – Arwen và đồng đội
+- "Thương tiếc cho Moria" – Gandalf và Gimli
 
 ### Màn II {#Act_II}
 
 - "Gỗ Vàng" – Công ty
-- "Lothlórien" – Legolas, Galadriel và Công ty
-- "Lothlórien" (Tái hiện) – Galadriel và Công ty
+- "Lothlórien" – Legolas, Galadriel và đồng đội
+- "Lothlórien" (Tái hiện) – Galadriel và đồng đội
 - "Cuộc vây hãm thành phố của các vị vua" – Giọng nữ
 - "Bây giờ và mãi mãi" – Frodo và Sam
 - "Gollum/Sméagol" – Gollum/Sméagol

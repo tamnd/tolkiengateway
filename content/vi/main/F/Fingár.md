@@ -16,11 +16,11 @@ sort_keys:
   "Old English names": "Fingar"
 ---
 
-**Fingár** là con trai của [Fingon](Fingon.md) trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md).<sup id="cite_ref-Fin_1-0" class="reference"><a href="#cite_note-Fin-1">[1]</a></sup> Không có thông tin nào khác về anh ta.
+**Fingár** là con trai của [Fingon](Fingon.md) trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md).<sup id="cite_ref-Fin_1-0" class="reference"><a href="#cite_note-Fin-1">[1]</a></sup> Không có thông tin nào khác về ông ta.
 
 ## Từ nguyên {#Etymology}
 
-Tên *Fingár* có trong [tiếng Anh cổ](../O/Old_English.md), vì nó được dịch bởi [Ælfwine](../_/Ælfwine.md), nhưng không có [Elvish](../E/Elvish.md) tương đương nào được đưa ra.<sup id="cite_ref-Fin_1-1" class="reference"><a href="#cite_note-Fin-1">[1]</a></sup>
+Tên *Fingár* bằng [tiếng Anh cổ](../O/Old_English.md), vì nó được dịch bởi [Ælfwine](../_/Ælfwine.md), nhưng không có [Elvish](../E/Elvish.md) tương đương.<sup id="cite_ref-Fin_1-1" class="reference"><a href="#cite_note-Fin-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

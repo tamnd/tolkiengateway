@@ -48,11 +48,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="Númenóreans.md" title="Númenóreans">Númenórean</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Nessanië</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="Númenor.md" title="Númenor">Númenor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_840.md" title="Second Age 840">840</a><br/>Númenor</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data"><a href="../H/House_of_Elros.md" title="House of Elros">House of Elros</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../H/Hallatan.md" title="Hallatan">Hallatan</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="../H/Hallacar.md" title="Hallacar">Hallacar</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr></tbody></table>
 
-**Nessanië** là con gái của [Hallatan](../H/Hallatan.md) của [Hyarastorni](../H/Hyarastorni.md), hậu duệ của [Elros](../E/Elros.md) ở thế hệ thứ sáu. Em trai của cô là [Hallacar](../H/Hallacar.md), vợ của [Tar-Ancalimë](../T/Tar-Ancalimë.md), Nữ hoàng của [Númenor](Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Nessanië** là con gái của [Hallatan](../H/Hallatan.md) của [Hyarastorni](../H/Hyarastorni.md), hậu duệ của [Elros](../E/Elros.md) ở thế hệ thứ sáu. Em trai của bà là [Hallacar](../H/Hallacar.md), vợ của [Tar-Ancalimë](../T/Tar-Ancalimë.md), Nữ hoàng của [Númenor](Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Nessanië* là tên [Quenya](../Q/Quenya.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack cho thấy đây là một biến thể của tên của Vala [Nessa](Nessa.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Nessanië* là tên [Quenya](../Q/Quenya.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack cho rằng đây là một biến thể của tên của Vala [Nessa](Nessa.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

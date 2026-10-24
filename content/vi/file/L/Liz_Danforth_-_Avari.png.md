@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh của [Liz Danforth](../../main/L/Liz_Danforth.md), mô tả một [Avari](../../main/A/Avari.md) Tiên, xuất hiện trong *[Elves (book)](<../../main/E/Elves_(book).md>)*.
+Hình ảnh của [Liz Danforth](../../main/L/Liz_Danforth.md), miêu tả một [Avari](../../main/A/Avari.md) Tiên, xuất hiện trong *[Elves (book)](<../../main/E/Elves_(book).md>)*.
 
 ## Giấy phép {#Licensing}
 

@@ -17,7 +17,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Frodo&#39;s_Restaurant.jpg.md"><img src="https://tolkiengateway.net/w/images/f/fe/Frodo%27s_Restaurant.jpg" decoding="async" loading="lazy" width="150" height="113" class="mw-file-element" data-file-width="150" data-file-height="113"/></a><figcaption></figcaption></figure>
 
-Nhà hàng của **Frodo** là một nhà hàng theo chủ đề Tolkien ở New York. Nó đóng cửa vào khoảng [2007](../_/2007.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Nhà hàng của Frodo** là một nhà hàng theo chủ đề Tolkien ở New York. Nó đóng cửa vào khoảng [2007](../_/2007.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

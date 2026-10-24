@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth"
 ---
 
-Chuyển hướng đến [Trung Địa](../M/Middle-earth.md).
+Chuyển hướng đến [Trung địa](../M/Middle-earth.md).

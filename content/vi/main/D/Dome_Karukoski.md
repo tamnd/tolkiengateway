@@ -30,7 +30,7 @@ langlinks:
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Dome_Karukoski" title="wikipedia:Dome Karukoski">Mái vòm Karukoski</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 - <a class="external text" href="https://www.imdb.com/name/nm1933648/" rel="noreferrer noopener" target="_blank">Dome Karukoski</a> tại IMDb
 
-### Phỏng vấn (Tolkien liên quan) {#Interviews_(Tolkien-related)}
+### Phỏng vấn (liên quan đến Tolkien) {#Interviews_(Tolkien-related)}
 
 - <a class="external text" href="https://edithbowman.com/2019/05/episode-141-dome-karukoski/" rel="noreferrer noopener" target="_blank">Đạo diễn Dome Karukoski về phần nhạc của Thomas Newman cho Tolkien</a> (tập 141 của <i><a class="external text" href="https://edithbowman.com/category/soundtracking/" rel="noreferrer noopener" target="_blank">Nhạc phim với Edith Bowman</a></i>)
 - <a class="external text" href="https://screenrant.com/tolkien-movie-director-dome-karukoski-interview/" rel="noreferrer noopener" target="_blank">Phỏng vấn ScreenRant</a>

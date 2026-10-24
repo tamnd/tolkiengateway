@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Adventures of Tom Bombadil"
 ---
 
-Chuyển hướng đến [The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md).
+Chuyển hướng tới [Những cuộc phiêu lưu của Tom Bombadil](The_Adventures_of_Tom_Bombadil.md).

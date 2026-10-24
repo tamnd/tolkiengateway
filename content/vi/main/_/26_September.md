@@ -61,7 +61,7 @@ images:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 26 tháng Chín.
+Sự kiện xảy ra vào ngày 26 tháng 9
 
 ## Trên Trái đất {#On_Earth}
 
@@ -71,7 +71,7 @@ Sự kiện xảy ra vào ngày 26 tháng Chín.
 - **[1980](1980.md)** - [Oxonmoot 1980](../O/Oxonmoot_1980.md) tại The Turf Tavern.
 - **[1981](1981.md)** - [Oxonmoot 1981](../O/Oxonmoot_1981.md) tại The Turf Tavern.
 - **[1982](1982.md)** - [Oxonmoot 1982](../O/Oxonmoot_1982.md) tại khách sạn Cotswold Lodge.
-- **[1987](1987.md)** - [Oxonmoot 1987](../O/Oxonmoot_1987.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
+- **[1987](1987.md)** - [Oxonmoot 1987](../O/Oxonmoot_1987.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
 - **[1998](1998.md)** - [Oxonmoot 1998](../O/Oxonmoot_1998.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College</a>.
 - **[1999](1999.md)** - [Oxonmoot 1999](../O/Oxonmoot_1999.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College</a>.
 - **[2002](2002.md)** - [I.L. Gordon](../I/I.L._Gordon.md) chết.
@@ -81,15 +81,15 @@ Sự kiện xảy ra vào ngày 26 tháng Chín.
 - **[2009](2009.md)** - [Oxonmoot 2009](../O/Oxonmoot_2009.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
 - **[2010](2010.md)** - [Oxonmoot 2010](../O/Oxonmoot_2010.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
 - **[2010](2010.md)** - Cuộc gặp gỡ mùa thu Lasse Lanta của Hiệp hội Tolkien Áo.
-- **[2010](2010.md)** - Lễ kỷ niệm 100 năm và sinh nhật Hobbit, [Bắc phương Đông Tolkien Xã hội](../N/North_East_Tolkien_Society.md).
+- **[2010](2010.md)** - Lễ kỷ niệm 100 năm và Sinh nhật người Hobbit, [Hiệp hội Tolkien Đông Bắc](../N/North_East_Tolkien_Society.md).
 - **[2012](2012.md)** - *[Tolkien's World: A Guide to the Peoples and Places of Middle-Earth](<../T/Tolkien's_World_(by_Gareth_Hanrahan).md>)* của [Gareth Hanrahan](../G/Gareth_Hanrahan.md) và Peter McKinstry được xuất bản.
 - **[2019](2019.md)** - *[Tolkien's Lost Chaucer](../T/Tolkien's_Lost_Chaucer.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Người Hobbit rời [Fredegar Bolger](../F/Fredegar_Bolger.md) quay lại [Crickhollow](../C/Crickhollow.md) để mạo danh Frodo. Họ nhập [Khu Rừng Cổ](../O/Old_Forest.md).
-    - Họ chạm trán với [Ông già liễu](../O/Old_Man_Willow.md) và được giải cứu bởi [Tom Bombadil](../T/Tom_Bombadil.md), người đưa họ đến nhà anh ta. Frodo mơ về Gandalf.
-    - Hai [Nazgûl](../N/Nazgûl.md) đến [Bree](../B/Bree.md) từ đường Nam.
-    - [Gandalf](../G/Gandalf.md) lao nhanh về phía [The Shire](../T/The_Shire.md) trên [Shadowfax](../S/Shadowfax.md).
+    - Người Hobbit rời [Fredegar Bolger](../F/Fredegar_Bolger.md) quay lại [Crickhollow](../C/Crickhollow.md) để mạo danh Frodo. Họ tiến vào [Rừng già](../O/Old_Forest.md).
+    - Họ chạm trán với [Ông già Willow](../O/Old_Man_Willow.md) và được giải cứu bởi [Tom Bombadil](../T/Tom_Bombadil.md), người đã đưa họ đến nhà ông ta. Frodo mơ về Gandalf.
+    - Hai [Nazgûl](../N/Nazgûl.md) đến [Bree](../B/Bree.md) từ đường phía Nam.
+    - [Gandalf](../G/Gandalf.md) nhanh chóng tiến về [The Shire](../T/The_Shire.md) trên [Shadowfax](../S/Shadowfax.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

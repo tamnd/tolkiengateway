@@ -26,13 +26,13 @@ langlinks:
 
 ## Từ nguyên {#Etymology}
 
-Một [Gốc](../S/Sundocarmë.md) \*TRAH.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> có thể
+Một [Root](../S/Sundocarmë.md) có thể có \*TRAH.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các từ liên quan {#Related_words}
 
-- [Ngôn ngữ Dale](../L/Language_of_Dale.md) *[Trāgu](Trāgu.md)* "vượt qua một cái lỗ" ("[Smaug](../S/Smaug.md)")
-- [Rohanese](../R/Rohanese.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Trahan&amp;action=edit&amp;redlink=1" title="Trahan (page does not exist)">trahan</a></i> "hang"
-- [Hobbitish](../H/Hobbitish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tr%C3%A2n&amp;action=edit&amp;redlink=1" title="Trân (page does not exist)">trân</a></i> "[mỉm cười](../S/Smial.md)"
+- [Ngôn ngữ của Dale](../L/Language_of_Dale.md) *[Trāgu](Trāgu.md)* "vượt qua một cái lỗ" ("[Smaug](../S/Smaug.md)")
+- [Tiếng Rohan](../R/Rohanese.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Trahan&amp;action=edit&amp;redlink=1" title="Trahan (page does not exist)">trahan</a></i> "hang"
+- [Hobbit](../H/Hobbitish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tr%C3%A2n&amp;action=edit&amp;redlink=1" title="Trân (page does not exist)">trân</a></i> "[smial](../S/Smial.md)"
 
 <span></span>
 

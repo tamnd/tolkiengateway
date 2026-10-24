@@ -20,20 +20,20 @@ categories:
 1. Bài thơ về những chiếc nhẫn
 2. Bài hát dạo phố xưa
 3. Bài hát dạo bộ
-4. Bài hát Lang thang Tiên tộc'
+4. Bài hát của yêu tinh lang thang
 5. Bài hát uống rượu
 6. Bài hát tắm
 7. Bài hát phiêu lưu
 8. Bài hát trong rừng
-Bài hát của 9. Tom Bombadil
+9. Bài hát của Tom Bombadil
 10. Bài thánh ca của xác sống
-Bài hát của 11. Frodo tại Bree
-12. Câu đố về Strider
+11. Bài hát của Frodo ở Bree
+12. Câu đố về Người Sải Bước
 13. Sự sụp đổ của Gil-galad
 14. Bài hát của Beren và Luthien
-Vần điệu của quỷ lùn 15. Sam
+15. Vần điệu của quỷ lùn của Sam
 16. Bài hát của Earendil
-Câu đố của 17. Boromir
+17. Câu đố của Boromir
 18. Cảnh báo mùa đông
-19. Bilbo Bài hát
+19. Bài hát của Bilbo
 20. Mèo

@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư gửi con trai [Christopher](../C/Christopher_Tolkien.md), Tolkien mô tả một tình tiết hài hước liên quan đến chiếc máy tỉa cây sào mới của anh, một dụng cụ dài 12 foot mà anh dùng để tỉa cây, dẫn đến một vụ suýt va chạm thú vị khi đang đạp xe về nhà.
+Trong bức thư gửi con trai [Christopher](../C/Christopher_Tolkien.md), Tolkien mô tả một tình tiết hài hước liên quan đến chiếc máy tỉa cây sào mới của ông, một công cụ dài 12 foot mà ông dùng để tỉa cây, dẫn đến một vụ suýt va chạm thú vị khi đang đạp xe về nhà.
 
-Tolkien cũng đề cập đến tin tức chiến tranh đương đại, bày tỏ sự ủng hộ đối với lập trường của Churchill về Hy Lạp và chỉ trích hành vi bạo lực cũng như thông tin sai lệch của đối thủ. Anh ấy thảo luận về khả năng di cư sang Hoa Kỳ sau chiến tranh, vẽ ra sự tương đồng với thế giới hư cấu của mình bằng cách so sánh tình hình toàn cầu hiện tại với sự thống trị giả định của Saruman trong Trung Địa. Bất chấp viễn cảnh nghiệt ngã, Tolkien tìm thấy niềm an ủi trong chế độ quân chủ lâu dài của Anh. <br>
+Tolkien cũng đề cập đến tin tức chiến tranh đương đại, bày tỏ sự ủng hộ đối với lập trường của Churchill về Hy Lạp và chỉ trích bạo lực cũng như thông tin sai lệch của đối thủ. Ông thảo luận về khả năng di cư đến Hoa Kỳ sau chiến tranh, vẽ ra sự song song với thế giới hư cấu của mình bằng cách so sánh tình hình toàn cầu hiện tại với sự thống trị giả định của Saruman ở Trung Địa. Bất chấp viễn cảnh nghiệt ngã, Tolkien tìm thấy niềm an ủi trong chế độ quân chủ lâu dài của Anh. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

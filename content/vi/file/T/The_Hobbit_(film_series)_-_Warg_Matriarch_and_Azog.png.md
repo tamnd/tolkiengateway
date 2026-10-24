@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Azog](../../main/A/Azog.md) trên lưng chiến mã [Warg Mẫu hệ](../../main/W/Warg_Matriarch.md) của mình trong *[The Hobbit: An Unexpected Journey](../../main/T/The_Hobbit%253A_An_Unexpected_Journey.md)*.
+[Azog](../../main/A/Azog.md) trên lưng chiến mã [Warg Matriarch](../../main/W/Warg_Matriarch.md) của mình trong *[The Hobbit: An Unexpected Journey](../../main/T/The_Hobbit%253A_An_Unexpected_Journey.md)*.
 
 ## Giấy phép {#Licensing}
 

@@ -36,19 +36,19 @@ infobox:
 - Thư gửi Biên tập viên của Tiến sĩ [Rhona Beare](../R/Rhona_Beare.md) (về thần thoại thiên thể) và từ [Ivan Derzhanski](../I/Ivan_Derzhanski.md)
 - Các vấn đề phát sinh (các sửa chữa khác nhau)
 - Tin tức phim LotR, bao gồm hình ảnh kịch bản phân cảnh và cuộc phỏng vấn với Jedi
-- Elfling Cập nhật Hội nghị và Giải thưởng Thơ
-- Danh sách email ngôn ngữ Elvish mới (báo cáo)
+- Cập nhật hội nghị yêu tinh và giải thưởng thơ
+- Danh sách email ngôn ngữ tiên mới (báo cáo)
 - Barnacle Goose của Tiến sĩ Rhona Beare (bài viết về truyền thuyết và huy hiệu)
-- Chân dung tự họa Pháp sư của Rocky
-- Nalme i Hini Lomeo của Peter Edelberg, (một bài thơ trong Quenya)
-- I Anna của Basil Firsov, (một bài thơ trong Quenya)
-- Linde Hriven của Alessio, (một bài thơ trong Quenya)
-- Ohtallo Tiriossen của Michael Johansson, (một bài thơ trong Quenya)
+- Chân dung tự họa của một pháp sư của Rocky
+- Nalme i Hini Lomeo của Peter Edelberg, (một bài thơ bằng tiếng Quenya)
+- I Anna của Basil Firsov, (một bài thơ bằng tiếng Quenya)
+- Linde Hriven của Alessio, (một bài thơ bằng tiếng Quenya)
+- Ohtallo Tiriossen của Michael Johansson, (một bài thơ bằng tiếng Quenya)
 - Quái vật của Al McFarland, (tác phẩm nghệ thuật)
-- Dòng chữ cổ điển tiếng Hebrew của [Helge K. Fauskanger](../H/Helge_Fauskanger.md), (một văn bản giống một cách kỳ lạ với Bài thơ Nhẫn, bằng thư pháp có phân tích)
+- Dòng chữ bằng tiếng Do Thái cổ điển của [Helge K. Fauskanger](../H/Helge_Fauskanger.md), (một văn bản giống một cách kỳ lạ với Bài thơ Chiếc nhẫn, bằng thư pháp có phân tích)
 - Người canh gác dưới nước của Christopher Larson, (tác phẩm nghệ thuật)
-- Bài đọc mới về Sách Mazarbul của [Edward Kloczko](../E/Edward_Kloczko.md)
-- Phân tích các cánh cửa Moria Tengwar của Lisa Star, (so sánh các phiên bản khác nhau được xuất bản trong Tolkien: Artist & Illustrator, với biểu đồ tengwar)
+- Bài đọc mới về cuốn sách Mazarbul của [Edward Kloczko](../E/Edward_Kloczko.md)
+- Phân tích các cánh cửa của Moria Tengwar của Lisa Star, (so sánh các phiên bản khác nhau được xuất bản trong Tolkien: Artist & Illustrator, với biểu đồ tengwar)
 - Đánh giá các ấn phẩm khác nhau
 
 <center><a href="Tyalië_Tyelelliéva_12.md" title="Tyalië Tyelelliéva 12">Previous Issue</a> <b>||</b> <a href="Tyalië_Tyelelliéva_14.md" title="Tyalië Tyelelliéva 14">Next Issue</a></center>

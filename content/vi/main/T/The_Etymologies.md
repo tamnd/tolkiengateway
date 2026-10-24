@@ -56,13 +56,13 @@ images:
 <dl><dd><a class="mw-selflink selflink">The Etymologies</a></dd></dl></dd></dl>
 </td></tr></tbody></table>
 
-**The Etymologies** là phần thứ ba của *[The Lost Road and Other Writings](The_Lost_Road_and_Other_Writings.md)*. Trong lời nói đầu của tập sách đó, [Christopher Tolkien](../C/Christopher_Tolkien.md) mô tả *The Etymologies* là "một loại từ điển lịch sử" và liên kết tác phẩm với những năm [1937](../_/1937.md)-[1938](../_/1938.md), trước [công trình của cha ông](../J/J.R.R._Tolkien.md) về *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
+**Từ nguyên** là phần thứ ba của *[The Lost Road and Other Writings](The_Lost_Road_and_Other_Writings.md)*. Trong lời nói đầu của tập sách đó, [Christopher Tolkien](../C/Christopher_Tolkien.md) mô tả *The Etymologies* là "một loại từ điển lịch sử" và liên kết tác phẩm với những năm [1937](../_/1937.md)-[1938](../_/1938.md), trước [tác phẩm của cha ông](../J/J.R.R._Tolkien.md) về *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
 
 ## Tóm tắt {#Synopsis}
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Etymologies_folio_93.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8a/Etymologies_folio_93.png/175px-Etymologies_folio_93.png" decoding="async" loading="lazy" width="175" height="218" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8a/Etymologies_folio_93.png/263px-Etymologies_folio_93.png 1.5x, https://tolkiengateway.net/w/images/thumb/8/8a/Etymologies_folio_93.png/350px-Etymologies_folio_93.png 2x" data-file-width="412" data-file-height="514"/></a><figcaption><i>Etymologies</i> folio 93</figcaption></figure>
 
-Trong *The Etymologies*, Tolkien cung cấp một loạt các [Elvish](../E/Elvish.md) âm tiết gốc ngôn ngữ, hay "cơ sở". Sau đó, anh ấy chỉ ra cách mỗi cơ sở phát triển thành từ vựng của khoảng mười hai biến thể của ngôn ngữ Elvish, chủ yếu là [Qenya](../Q/Qenya.md) và [Noldorin](../N/Noldorin.md). Mặc dù các từ phái sinh không nhất thiết phải ở dạng cuối cùng, vì các ngôn ngữ được phát minh của Tolkien vẫn tiếp tục phát triển trong suốt cuộc đời của ông, Christopher Tolkien đã tuyên bố rằng tài liệu này "*làm tăng đáng kể vốn từ vựng đã biết của Elvish các ngôn ngữ*".
+Trong *The Etymologies*, Tolkien cung cấp một loạt các âm tiết gốc ngôn ngữ [Elvish](../E/Elvish.md) hay "cơ sở". Sau đó, ông cho thấy mỗi gốc phát triển thành từ vựng của khoảng mười hai biến thể của ngôn ngữ Tiên, chủ yếu là [Qenya](../Q/Qenya.md) và [Noldorin](../N/Noldorin.md). Mặc dù các từ phái sinh không nhất thiết phải ở dạng cuối cùng, vì các ngôn ngữ do Tolkien sáng tạo ra vẫn tiếp tục phát triển trong suốt cuộc đời ông, Christopher Tolkien đã tuyên bố rằng tài liệu này "*làm tăng đáng kể vốn từ vựng đã biết của các ngôn ngữ Tiên*".
 
 ## Phụ lục và sửa đổi {#Addenda_and_corrigenda}
 
@@ -70,4 +70,4 @@ Trong [2003](../_/2003.md) và [2004](../_/2004.md), [*Vinyar Tengwar* số 45](
 
 ## Liên kết ngoài {#External_links}
 
-- [Helge Fauskanger](../H/Helge_Fauskanger.md), <i><a class="external text" href="http://www.uib.no/People/hnohf/errors.htm" rel="noreferrer noopener" target="_blank">Lỗi có thể xảy ra trong Etymologies</a></i>, [Ardalambion](../A/Ardalambion.md)
+- [Helge Fauskanger](../H/Helge_Fauskanger.md), <i><a class="external text" href="http://www.uib.no/People/hnohf/errors.htm" rel="noreferrer noopener" target="_blank">Các lỗi có thể xảy ra trong Từ nguyên</a></i>, [Ardalambion](../A/Ardalambion.md)

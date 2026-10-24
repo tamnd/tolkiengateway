@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien: The Art of the Manuscript"
 ---
 
-Chuyển hướng đến [J.R.R. Tolkien: Nghệ thuật viết tay](../J/J.R.R._Tolkien%253A_The_Art_of_the_Manuscript.md).
+Chuyển hướng đến [J.R.R. Tolkien: The Art of the Manuscript](../J/J.R.R._Tolkien%253A_The_Art_of_the_Manuscript.md).

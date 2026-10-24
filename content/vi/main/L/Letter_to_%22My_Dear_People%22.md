@@ -24,16 +24,16 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/MydearPeople3.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/12/MydearPeople3.jpg/300px-MydearPeople3.jpg" decoding="async" loading="lazy" width="300" height="194" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/12/MydearPeople3.jpg/450px-MydearPeople3.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/12/MydearPeople3.jpg/600px-MydearPeople3.jpg 2x" data-file-width="899" data-file-height="582"/></a><figcaption></figcaption></figure>
 
-Vào [6 tháng 5](../_/6_May.md) [1963](../_/1963.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi "Hỡi những người thân yêu của tôi"**.<sup id="cite_ref-Telegraph_1-0" class="reference"><a href="#cite_note-Telegraph-1">[1]</a></sup>
+Vào [6 tháng 5](../_/6_May.md) [1963](../_/1963.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi "Những người thân yêu của tôi"**.<sup id="cite_ref-Telegraph_1-0" class="reference"><a href="#cite_note-Telegraph-1">[1]</a></sup>
 
 - **Chủ đề:** [Sức khỏe của Edith](../E/Edith_Tolkien.md), thảo luận về "ngày lễ thảm khốc", lời chào hỏi.
-- **Nhận xét:** Tolkien hình như đã gặp cặp đôi này trong kỳ nghỉ cùng vợ vào năm 1963.<sup id="cite_ref-Telegraph_1-1" class="reference"><a href="#cite_note-Telegraph-1">[1]</a></sup>
+- **Nhận xét:** Tolkien dường như đã gặp cặp đôi này trong kỳ nghỉ cùng vợ vào năm 1963.<sup id="cite_ref-Telegraph_1-1" class="reference"><a href="#cite_note-Telegraph-1">[1]</a></sup>
 - **Xuất bản:** Không có.
 - **Mô tả:** Thư viết tay có chữ ký của J.R.R. Tolkien.
 
 ## Nội dung {#Content}
 
-Nó mô tả một kỳ nghỉ Tolkien và vợ ông vào năm 1963. Mặc dù không phải là một chuyến đi thú vị nhưng ông nói về niềm vui khi được gặp cặp vợ chồng mà ông gọi là "Hỡi những người thân yêu của tôi". Tolkien tiếp tục mô tả tình trạng sức khỏe kém của vợ chồng anh, một 'kỳ nghỉ thảm khốc' và cảm ơn những người nhận vì 'sự đồng hành và lòng tốt' của họ. Kèm theo bức thư là một tấm thiệp Giáng sinh có ảnh Tolkien đứng cạnh những người bạn đồng hành trong kỳ nghỉ của anh, Wilfrid và Nora. Trong phần tái bút của bức thư, anh xin lỗi vì in những khiếm khuyết trên tấm thiệp.
+Nó mô tả một kỳ nghỉ mà Tolkien và vợ ông đã tham gia vào năm 1963. Mặc dù không phải là một chuyến đi thú vị nhưng ông vẫn nói về niềm vui của mình khi được gặp cặp đôi mà ông xưng hô là "Những người thân yêu của tôi". Tolkien tiếp tục mô tả tình trạng sức khỏe kém của vợ chồng ông, một 'kỳ nghỉ thảm khốc' và cảm ơn những người nhận vì 'sự đồng hành và lòng tốt' của họ. Kèm theo bức thư là một tấm thiệp Giáng sinh có ảnh Tolkien bên cạnh những người bạn đồng hành trong kỳ nghỉ của anh, Wilfrid và Nora. Trong phần tái bút của bức thư, anh xin lỗi vì in những khiếm khuyết trên tấm thiệp.
 
 Tác giả viết:
 
@@ -47,7 +47,7 @@ from Ronald and Edith Tolkien
 </p>
 </blockquote>
 
-Adrian Rathbone, một cộng sự của Richard Winterton's, cho biết bức thư đã được người bán bất ngờ tìm thấy. “Nó rơi ra từ một cuốn sách mà họ có,” ông nói. “Nó thậm chí còn không phải là một cuốn sách Tolkien, chúng tôi đã mời một số chuyên gia nói rằng nó có thật. “Những người chủ cũ đã mang nó đến một ngày định giá mà chúng tôi tổ chức vì đã tìm thấy nó ở nhà. Những lá thư như thế này vẫn bán được, nhưng tôi phải nói rằng tôi nghĩ mức giá tối đa mà nó có thể kiếm được là 300-400 bảng Anh chứ không phải 1.700 bảng Anh. "Làm sao nó xuất hiện hoàn toàn là một điều bí ẩn, lá thư được gửi cho một cặp vợ chồng Tolkien đã gặp nhau trong kỳ nghỉ, nhưng đó không phải là gia đình người bán."
+Adrian Rathbone, một cộng sự của Richard Winterton's, cho biết bức thư đã được người bán bất ngờ tìm thấy. “Nó rơi ra từ một cuốn sách mà họ có,” ông nói. "Nó thậm chí không phải là một cuốn sách của Tolkien, chúng tôi đã mời một số chuyên gia nói rằng nó có thật. "Những người chủ cũ đã mang nó đến một ngày định giá mà chúng tôi tổ chức vì đã tìm thấy nó ở nhà. Những lá thư như thế này vẫn bán được, nhưng tôi phải nói rằng tôi nghĩ mức giá tối đa mà nó có thể kiếm được là 300-400 bảng Anh chứ không phải 1.700 bảng Anh. "Làm thế nào mà nó xuất hiện hoàn toàn là một bí ẩn, bức thư được gửi cho một cặp vợ chồng mà Tolkien đã gặp trong kỳ nghỉ, nhưng đó không phải là gia đình của người bán."
 
 <span></span>
 

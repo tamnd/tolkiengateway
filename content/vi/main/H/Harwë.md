@@ -15,7 +15,7 @@ sort_keys:
   "Quenya nouns": "Harwe"
 ---
 
-<i><b>harwë</b></i> là một danh từ [Quenya](../Q/Quenya.md) có nghĩa là "kho báu, kho bạc" (từ [root](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C6%B7AR&amp;action=edit&amp;redlink=1" title="ƷAR (page does not exist)">ƷAR</a>),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> hoặc "vết thương" (từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=SKAR&amp;action=edit&amp;redlink=1" title="SKAR (page does not exist)">SKAR</a>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+<i><b>harwë</b></i> là danh từ [Quenya](../Q/Quenya.md) có nghĩa là "kho báu, kho bạc" (từ [root](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C6%B7AR&amp;action=edit&amp;redlink=1" title="ƷAR (page does not exist)">ƷAR</a>),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> hoặc "vết thương" (từ root <a class="new" href="https://tolkiengateway.net/w/index.php?title=SKAR&amp;action=edit&amp;redlink=1" title="SKAR (page does not exist)">SKAR</a>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

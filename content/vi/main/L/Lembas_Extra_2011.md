@@ -26,7 +26,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Lembas Extra 2011<br/><small>Proceedings of the 6th Tolkien Genootschap Unquendor&#39;s Lustrum</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Cécile van Zon</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../U/Unquendor.md" title="Unquendor">Unquendor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2011.md" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">115</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1871-9023</td></tr></tbody></table>
 
-<i><b>Lembas Bổ sung năm 2011: Kỷ yếu của Tolkien Genootschap Unquendor's Lustrum</b></i> lần thứ 6 là một số của tạp chí *[Lembas Extra](<Lembas_(journal).md>)*. Số này bao gồm 12 bài báo và bài thơ (tất cả bằng tiếng Anh), là kỷ yếu của Hội nghị Unquendor tổ chức tại Baarlo vào [20](../_/20_May.md)-[22 tháng 5](../_/22_May.md) [2011](../_/2011.md).
+<i><b>Lembas Extra 2011: Kỷ yếu của Tolkien Genootschap lần thứ 6 Unquendor's Lustrum</b></i> là một số của tạp chí *[Lembas Extra](<Lembas_(journal).md>)*. Số này bao gồm 12 bài báo và bài thơ (tất cả bằng tiếng Anh), là kỷ yếu của Hội nghị Unquendor tổ chức tại Baarlo vào [20](../_/20_May.md)-[22 tháng 5](../_/22_May.md) [2011](../_/2011.md).
 
 ## Nội dung {#Contents}
 
@@ -34,12 +34,12 @@ infobox:
 - [Ruth Lacon](../R/Ruth_Lacon.md): "Nghệ thuật của Ruth Lacon" (trang 6–15)
 - [Alex Lewis](../A/Alex_Lewis.md): "Một bữa tiệc bất ngờ" (trang 16–26)
 - [Renée Vink](../R/Renée_Vink.md): "Tolkien đấu với Wagner, Plus Some Dragontail Soup" (trang 27–39) & "Der Ring des Nibelungen Synopsis" (trang 40–2)
-- [Pieter Collier](../P/Pieter_Collier.md): "Sưu tầm Tolkien Sách: Từ Hobbit đến Rồng—Ở đó và Quay lại" (trang 43–61)
-- Heidi Steimel: "Âm nhạc trong Trung Địa" (trang 62–73)
+- [Pieter Collier](../P/Pieter_Collier.md): "Sưu tầm sách Tolkien: Từ người Hobbit đến rồng—Ở đó và quay lại" (trang 43–61)
+- Heidi Steimel: "Âm nhạc ở Trung Địa" (trang 62–73)
 - Luiwe H. Westra: "Ngày xửa ngày xưa... Dịch Tolkien sang tiếng Frisian" (trang 74–80)
-- [Mark T. Hooker](../M/Mark_T._Hooker.md): Tiếng Frisia Hobbit" (trang 81–90) & "Tiếng Slovenia Hobbit" (trang 91–6)
-- [Tom Shippey](../T/Tom_Shippey.md): "Tổ tiên của Hobbit, Sinh vật kỳ lạ trong văn hóa dân gian Anh" (trang 97–106)
-- Christian Weichmann: "Cách nói chuyện đúng đắn với Rồng: Cách sử dụng phép lịch sự của Tolkien" (trang 107–12)
+- [Mark T. Hooker](../M/Mark_T._Hooker.md): Người Hobbit Frisian" (trang 81–90) & "Người Hobbit Slovenia" (trang 91–6)
+- [Tom Shippey](../T/Tom_Shippey.md): "Tổ tiên của người Hobbit, những sinh vật kỳ lạ trong văn hóa dân gian Anh" (trang 97–106)
+- Christian Weichmann: "Cách đúng đắn để nói chuyện với rồng: Cách sử dụng phép lịch sự của Tolkien" (trang 107–12)
 - Jessica Yates: "Thăm lại người Goth và người Hun, một bản tóm tắt" (tr. 113)
 - Giới thiệu về tác giả (trang 114–5)
 

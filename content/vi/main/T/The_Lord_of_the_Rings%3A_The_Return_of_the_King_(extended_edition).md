@@ -21,7 +21,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Returnofking_extended.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/42/Returnofking_extended.jpg/250px-Returnofking_extended.jpg" decoding="async" loading="lazy" width="250" height="342" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/42/Returnofking_extended.jpg 1.5x" data-file-width="365" data-file-height="500"/></a><figcaption>Cover of the Extended Edition <table class="TGtable" border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; margin:0 auto; clear: both;">  <tbody><tr style="text-align: center;"> <td width="30%">Preceded by:<br/><b><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">The Two Towers Extended Edition</a></b> </td> <td width="40%"><b>The Lord of the Rings Extended Edition<br/> The Return of the King</b> </td> <td width="30%">Followed by:<br/><b><a href="The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md" title="The Hobbit: An Unexpected Journey (extended edition)">An Unexpected Journey Extended Edition</a></b> </td></tr></tbody></table></figcaption></figure>
 
-<b><i>The Lord of the Rings: The Return of the King</i> (phiên bản mở rộng)</b> là phiên bản mở rộng của *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Nó có 50 phút cảnh quay bổ sung được thêm lại vào phim (nâng tổng thời lượng chiếu lên 250 phút), cũng như nhiều phim tài liệu về quá trình làm phim dưới dạng phần bổ sung.
+<b><i>Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</i> (phiên bản mở rộng)</b> là phiên bản mở rộng của *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Nó có 50 phút cảnh quay bổ sung được thêm lại vào phim (nâng tổng thời lượng chiếu lên 250 phút), cũng như nhiều phim tài liệu về quá trình làm phim dưới dạng phần bổ sung.
 
 ## Phiên bản mở rộng đặc biệt: Phần một (đĩa 1) {#Special_Extended_Edition:_Part_One_(disc_1)}
 
@@ -35,23 +35,23 @@ images:
 ### Cảnh mới {#New_Scenes}
 
 - 4\. Giọng nói của Saruman
-- 12\. Sự suy giảm của Gondor
-- 22\. Học trò của Pháp sư
+- 12\. Sự suy tàn của Gondor
+- 22\. Học trò phù thủy
 - 25\. Peregrin của người bảo vệ tháp
 
 ### Cảnh mở rộng {#Extended_Scenes}
 
 - 1\. Việc tìm thấy chiếc nhẫn
 - 3\. Đường tới Isengard
-- 5\. Trở về Edoras
+- 5\. Trở lại Edoras
 - 8\. Palantír
 - 11\. Minas Tirith
 - 14\. "Hít thở sâu trước khi lao xuống"
-- 18\. Osgiliath Đã xâm chiếm
+- 18\. Osgiliath xâm chiếm
 - 20\. Quyết định của Théoden
 - 21\. Sự sụp đổ của Osgiliath
-- 29\. Đang tập trung tại Dunharrow
-- 31\. Aragorn Đi theo con đường của người chết
+- 29\. Marshalling tại Dunharg
+- 31\. Aragorn đi theo con đường của người chết
 - 33\. Dwimorberg - Ngọn núi ma ám
 - 35\. Những con đường của người chết
 - 36\. Cuộc vây hãm Gondor
@@ -62,37 +62,37 @@ images:
 
 ### Cảnh mới {#New_Scenes_2}
 
-- 37\. Hải tặc Umbar
-- 39\. Sự dũng cảm đơn giản của Merry
+- 37\. Cướp biển vùng Umbar
+- 39\. Lòng dũng cảm đơn giản của Merry
 - 41\. Ngôi mộ của những người quản lý
-- 45\. Giờ của Phù Thủy Vua
+- 45\. Giờ của Vua Phù Thủy
 - 56\. Ngôi nhà chữa bệnh
-- 60\. Aragorn Làm chủ Palantír
+- 60\. Aragorn làm chủ Palantír
 - 61\. Thuyền trưởng và Bà Trắng
-- 62\. Tại Công ty Orc
+- 62\. Trong đoàn quân Orc
 - 64\. Miệng của Sauron
 - 78\. Tín dụng của Câu lạc bộ Người hâm mộ
 
 ### Cảnh mở rộng {#Extended_Scenes_2}
 
 - 41\. Ngôi mộ của những người quản lý
-- 47\. Hỏa thiêu của Denethor
-- 48\. Trận chiến trên Cánh đồng Pelennor
-- 53\. Chiến thắng tại Minas Tirith
-- 57\. Pippin Chăm sóc Merry
+- 47\. Pyre của Denethor
+- 48\. Trận chiến trên cánh đồng Pelennor
+- 53\. Chiến thắng ở Minas Tirith
+- 57\. Pippin chăm sóc vui vẻ
 - 58\. Tháp Cirith Ungol
 - 59\. Cuộc tranh luận cuối cùng
-- 63\. Vùng đất Bóng Tối
-- 68\. Núi Doom
+- 63\. Vùng đất bóng tối
+- 68\. Núi định mệnh
 
-## Các Phụ lục: Phần 5 - Phần Cuộc chiến Nhẫn (đĩa 3) {#The_Appendices:_Part_Five_-_The_War_of_the_Ring_(disc_3)}
+## Phụ lục: Phần thứ năm - Cuộc chiến trên võ đài (đĩa 3) {#The_Appendices:_Part_Five_-_The_War_of_the_Ring_(disc_3)}
 
-- Giới thiệu từ Peter Jackson
+- Lời giới thiệu của Peter Jackson
 - "J.R.R. Tolkien: Phim tài liệu về di sản của Trung Địa"
 - Phim tài liệu "Từ sách đến kịch bản - Rèn luyện chương cuối cùng"
-- Khái niệm bị bỏ rơi: [Aragorn](../A/Aragorn.md) trận chiến [Sauron](../S/Sauron.md)
+- Khái niệm bị bỏ rơi: [Aragorn](../A/Aragorn.md) trận chiến với [Sauron](../S/Sauron.md)
 - Phim tài liệu "Thiết kế Trung Địa"
-- "[Những nhân vật lớn](../B/Bigatures.md)" Phim tài liệu
+Phim tài liệu - "[Những nhân vật lớn](../B/Bigatures.md)"
 - Phim tài liệu "Weta Workshop"
 - Phim tài liệu "Thiết kế trang phục"
 - Phòng trưng bày "Các dân tộc ở Trung Địa" có âm thanh
@@ -100,7 +100,7 @@ images:
 - Phòng trưng bày "Thu nhỏ" có âm thanh
 - Phim tài liệu "Ngôi nhà của chúa tể ngựa"
 - Bản đồ tương tác"Atlas Trung Địa: Truy tìm hành trình của tình bằng hữu"
-- "[New Zealand dưới dạng Trung Địa](../N/New_Zealand_as_Middle-earth.md)" bản đồ tương tác với cảnh quay tại địa điểm
+- "[New Zealand là Trung Địa](../N/New_Zealand_as_Middle-earth.md)" bản đồ tương tác với cảnh quay tại địa điểm
 
 ## Các Phụ lục: Phần Sáu - Một thời đại trôi qua (đĩa 4) {#The_Appendices:_Part_Six_-_The_Passing_of_an_Age_(disc_4)}
 
@@ -114,18 +114,18 @@ images:
 - Phim tài liệu "Âm thanh của Trung Địa"
 - Phim tài liệu "Sự kết thúc của mọi chuyện"
 - Phim Tài Liệu "Một Thời Đại Đi Qua"
-- Phim tài liệu "Cameron Duncan: Nguồn cảm hứng cho Into the West"
+- Phim tài liệu "Cameron Duncan: Nguồn cảm hứng về phương Tây"
 - Phim ngắn "DFK6498"
 - Phim ngắn "Strike Zone"
 
 ## Xem thêm {#See_also}
 
 - *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*
-- [*The Lord of the Rings: The Fellowship of the Ring* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>)
-- [*The Lord of the Rings: The Two Towers* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>)
+- [*The Lord of the Rings: The Fellowship of the Ring* (extended edition)](<The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>)
+- [*The Lord of the Rings: The Two Towers* (extended edition)](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>)
 - [*The Hobbit: An Unexpected Journey* (phiên bản mở rộng)](<The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md>)
 - [*The Hobbit: The Desolation of Smaug* (phiên bản mở rộng)](<The_Hobbit%253A_The_Desolation_of_Smaug_(extended_edition).md>)
-- [*The Hobbit: The Battle of the Five Armies* (phiên bản mở rộng)](<The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md>)
+- [*The Hobbit: The Battle of the Five Armies* (extended edition)](<The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md>)
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

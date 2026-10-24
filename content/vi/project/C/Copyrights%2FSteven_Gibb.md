@@ -14,5 +14,5 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kilpatrick, Joel"
 ---
 
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Steven_Gibb&amp;action=edit&amp;redlink=1" title="Steven Gibb (page does not exist)">Steven Gibb</a> đã vui lòng cho phép họ sử dụng các hình minh họa mà họ đã ủy quyền [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Steven_Gibb&amp;action=edit&amp;redlink=1" title="Steven Gibb (page does not exist)">Steven Gibb</a> đã vui lòng cho phép họ sử dụng các hình minh họa mà họ đã ủy quyền trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: [26 tháng 5](../../main/M/May_26.md), [2024](../../main/_/2024.md)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lord of Andúnië"
 ---
 
-Chuyển hướng đến [Lãnh chúa Andúnië](Lord_of_Andúnië.md).
+Chuyển hướng đến [Chúa tể Andúnië](Lord_of_Andúnië.md).

@@ -66,26 +66,26 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lost_Road_and_Other_Writings_1987.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fd/Lost_Road_and_Other_Writings_1987.png/306px-Lost_Road_and_Other_Writings_1987.png" decoding="async" loading="lazy" width="306" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/fd/Lost_Road_and_Other_Writings_1987.png 1.5x" data-file-width="319" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lost Road and Other Writings</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../U/Unwin_Hyman.md" title="Unwin Hyman">Unwin Hyman</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/27_August.md" title="27 August">27 August</a> <a href="../_/1987.md" title="1987">1987</a> (UK)<br/><a href="../_/30_November.md" title="30 November">30 November</a> 1987 (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">448</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0048233498" title="Special:BookSources/0048233498">0048233498</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a> (1986)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Return_of_the_Shadow.md" title="The Return of the Shadow">The Return of the Shadow</a> (1988)</td></tr></tbody></table>
 
-<i><b>The Lost Road and Other Writings</b></i>, xuất bản trong [1987](../_/1987.md), là tập thứ năm trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Con đường đã mất và những bài viết khác</b></i>, xuất bản năm [1987](../_/1987.md), là tập thứ năm trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Nền {#Background}
 
-Bản thân *The Lost Road* là kết quả của quyết định chung của Tolkien và [C.S. Lewis](../C/C.S._Lewis.md) nhằm nỗ lực viết truyện khoa học viễn tưởng. Lewis cuối cùng đã viết một câu chuyện về du hành vũ trụ, câu chuyện này cuối cùng trở thành <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Space_Trilogy" title="wikipedia:The Space Trilogy">Bộ ba không gian</a></i>và Tolkien đã cố gắng viết điều gì đó về du hành thời gian nhưng chưa bao giờ hoàn thành nó.
+Bản thân *The Lost Road* là kết quả của quyết định chung của Tolkien và [C.S. Lewis](../C/C.S._Lewis.md) về việc nỗ lực viết truyện khoa học viễn tưởng. Lewis cuối cùng đã viết một câu chuyện về du hành vũ trụ, câu chuyện này cuối cùng trở thành <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Space_Trilogy" title="wikipedia:The Space Trilogy">Bộ ba không gian</a></i>, và Tolkien đã cố gắng viết điều gì đó về du hành thời gian nhưng chưa bao giờ hoàn thành nó.
 
-*The Lost Road* là phần mở đầu rời rạc của câu chuyện "du hành thời gian" đó, với một dàn ý sơ bộ và một số phần tường thuật, bao gồm bốn chương đề cập đến nước Anh hiện đại và [Númenor](../N/Númenor.md), từ đó có thể thoáng nhìn thấy toàn bộ câu chuyện. Kế hoạch này nhằm mục đích du hành thời gian bằng "tầm nhìn", hoặc đưa tinh thần vào những gì đã xảy ra để trải nghiệm điều đã xảy ra. Bằng cách này, câu chuyện liên kết thế kỷ 20 với nhiều truyền thuyết của thời xa xưa, ngày càng lùi xa hơn, cho đến [Kỷ Đệ Tam](Third_Age.md) của Trung Địa, và cuối cùng là [Sự sụp đổ của Gil-galad](../L/Last_Alliance_of_Elves_and_Men.md), trước khi kể lại truyền thuyết hàng đầu về [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md) và [Sự bẻ cong của thế giới](../C/Changing_of_the_World.md).
+*The Lost Road* là phần mở đầu rời rạc của câu chuyện "du hành thời gian" đó, với dàn ý sơ bộ và một số đoạn tường thuật, bao gồm bốn chương đề cập đến nước Anh hiện đại và [Númenor](../N/Númenor.md), từ đó có thể thoáng nhìn thấy toàn bộ câu chuyện. Kế hoạch này nhằm mục đích du hành thời gian bằng "tầm nhìn", hoặc đưa tinh thần vào những gì đã xảy ra để trải nghiệm điều đã xảy ra. Bằng cách này, câu chuyện liên kết thế kỷ 20 với nhiều truyền thuyết của thời xa xưa, ngày càng lùi xa hơn, cho đến [Thời đại thứ ba](Third_Age.md) của Trung Địa, và cuối cùng là [Sự sụp đổ của Gil-galad](../L/Last_Alliance_of_Elves_and_Men.md), trước khi kể lại truyền thuyết hàng đầu về [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md) và [Sự ngự trị của thế giới](../C/Changing_of_the_World.md).
 
-Cuốn tiểu thuyết khám phá chủ đề “[Con Đường Thẳng](../S/Straight_Road.md)” vào [Phương Tây](../A/Aman.md), giờ đây chỉ mở ra trong ký ức vì thế giới đã trở nên tròn trịa. Tolkien đã làm lại và mở rộng một số ý tưởng trong *The Lost Road* ở *[The Notion Club Papers](The_Notion_Club_Papers.md)*, những ý tưởng này cũng còn dang dở.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Cuốn tiểu thuyết khai thác chủ đề “[Con đường thẳng](../S/Straight_Road.md)” vào [Tây](../A/Aman.md), giờ đây chỉ mở ra trong ký ức vì thế giới đã trở nên tròn trịa. Tolkien đã làm lại và mở rộng một số ý tưởng trong *The Lost Road* ở *[The Notion Club Papers](The_Notion_Club_Papers.md)*, những ý tưởng này cũng vẫn còn dang dở.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Contents}
 
 - Lời nói đầu
 
-- **Phần thứ nhất: The Fall of Númenor và Con đường lạc lối**
+- **Phần thứ nhất: Númenor sụp đổ và con đường đã mất**
     - Tôi. "[Lịch sử ban đầu của truyền thuyết](The_Early_History_of_the_Legend.md)"
-    - II. "[The Fall of Númenor](<The_Fall_of_Númenor_(chapter).md>)"
-    - III. "[The Lost Road](The_Lost_Road.md)"
+    - II. "[Sự sụp đổ của Númenor](<The_Fall_of_Númenor_(chapter).md>)"
+    - III. "[Con đường đã mất](The_Lost_Road.md)"
 
-- <b>Phần thứ hai: Valinor và Trung Địa trước <i>The Lord of the Rings</i></b>
+- <b>Phần thứ hai: Valinor và Trung Địa trước <i>Chúa tể của những chiếc nhẫn</i></b>
     - Tôi. "[Các văn bản và mối quan hệ của chúng](The_Texts_and_Their_Relations.md)"
     - II. "[Sau này *Annals of Valinor*](The_Later_Annals_of_Valinor.md)"
     - III. "[Sau này *Annals of Beleriand*](The_Later_Annals_of_Beleriand.md)"
@@ -93,7 +93,7 @@ Cuốn tiểu thuyết khám phá chủ đề “[Con Đường Thẳng](../S/St
     - V. "[Lhammas](The_Lhammas.md)"
     - VI. "[Quenta Silmarillion](<../Q/Quenta_Silmarillion_(Lost_Road).md>)"
 
-- **Phần thứ ba: "[The Etymologies](The_Etymologies.md)"**
+- **Phần thứ ba: "[Từ nguyên](The_Etymologies.md)"**
 
 - Phụ lục
     - Tôi: Gia phả
@@ -104,7 +104,7 @@ Cuốn tiểu thuyết khám phá chủ đề “[Con Đường Thẳng](../S/St
 
 ## Chữ khắc {#Inscriptions}
 
-Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở những trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung của cuốn sách. Dòng chữ trong Quyển V có nội dung:
+Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung cuốn sách. Dòng chữ trong Quyển V có nội dung:
 
 <dl><dd>&#34;<i>Herein are collected the oldest Tale of the Downfall of Númenor, the story of the Lost Road into the West, the Annals of Valinor and the Annals of Beleriand in a later form, the Ainulindalë, or Music of the Ainur, the Lhammas, or Account of Tongues, the Quenta Silmarillion or History of the Silmarils, and the history of many words and names.</i>&#34;</dd></dl>
 
@@ -188,7 +188,7 @@ Also included in this volume is the <i>The Lhammas</i>, as essay on the complex 
     - Ấn bản bìa mềm năm 1993, đặt lại ở [2002](../_/2002.md), sau đó ở [2015](../_/2015.md)
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2010](../_/2010.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007365292">ISBN 0007365292</a>
     - Ấn bản bìa mềm năm 2015, lần in thứ 37 ([2024](../_/2024.md))
-- [HarperCollins](../H/HarperCollins.md) bìa cứng có áo chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008669225">ISBN 978-0008669225</a> - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #2)
+- [HarperCollins](../H/HarperCollins.md) bìa cứng với áo khoác chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008669225">ISBN 978-0008669225</a> - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #2)
 
 ## Xem thêm {#See_also}
 

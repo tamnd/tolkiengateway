@@ -27,7 +27,7 @@ images:
 
 ## Lịch sử {#History}
 
-Năm 1969, Marion Zimmer Bradley đã phổ nhạc bảy bài thơ của Tolkien và gọi chúng là "Tổ khúc Rivendell". Năm 1991, Margaret Davis và Kristoph Klover được thư ký của Bradley yêu cầu sắp xếp, biểu diễn và thu âm "The Rivendell Suite" trên băng cassette làm quà sinh nhật cho Marion Bradley. Họ đã ghi lại:
+Năm 1969, Marion Zimmer Bradley đã phổ nhạc bảy bài thơ của Tolkien và gọi chúng là "The Rivendell Suite". Năm 1991, Margaret Davis và Kristoph Klover được thư ký của Bradley yêu cầu sắp xếp, biểu diễn và thu âm "The Rivendell Suite" trên băng cassette làm quà sinh nhật cho Marion Bradley. Họ đã ghi lại:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>...six of Marion&#39;s settings, plus three of Kristoph&#39;s, and Marion was very pleased with the results. Only two copies were ever made of that original cassette. Then, Kristoph and I got to thinking how it might be a good idea to set some more of the songs and see if we could get permission from the Tolkien Estate to release the recording commercially.
@@ -43,19 +43,19 @@ Năm 1999, họ được cấp giấy phép mới để sản xuất 2.000 đĩa
 
 Danh sách bài hát trong album cd:
 
-1. "[Elvish Bài hát ru](../S/Sing_all_ye_joyful!.md)" (lời J.R.R. Tolkien, nhạc ?)
+1. "[Bài hát ru của Elvish](../S/Sing_all_ye_joyful!.md)" (lời J.R.R. Tolkien, nhạc ?)
 2. "[Bài hát của Eldar lưu vong](../E/Elven_Hymn_to_Elbereth.md)" (lời J.R.R. Tolkien, nhạc Marion Zimmer Bradley và Margaret Davis)
-3. "[Hobbit Bài hát đi bộ](<The_Road_Goes_Ever_On_(song).md#The_Hobbit>)" (lời J.R.R. Tolkien, nhạc Marion Zimmer Bradley và Margaret Davis)
+3. "[Bài hát đi bộ của người Hobbit](<The_Road_Goes_Ever_On_(song).md#The_Hobbit>)" (lời J.R.R. Tolkien, nhạc Marion Zimmer Bradley và Margaret Davis)
 4. "[Merry Old Inn](The_Man_in_the_Moon_Stayed_Up_Too_Late.md)" (lời J.R.R. Tolkien, nhạc Kristoph Klover)
-5. "[Bài hát thiếu nhi Dale](The_King_beneath_the_mountains.md)" (lời J.R.R. Tolkien, nhạc ?)
-6. "[Ở vùng đất phương Tây bên dưới Mặt Trời](../I/In_Western_Lands_beneath_the_Sun.md)" (lời J.R.R. Tolkien, âm nhạc ?)
-7. "[Galadriel's Lament](../G/Galadriel's_Song.md)" (lời J.R.R. Tolkien, nhạc Marion Zimmer Bradley và Margaret Davis)
+5. "[Bài hát thiếu nhi từ Dale](The_King_beneath_the_mountains.md)" (lời J.R.R. Tolkien, nhạc ?)
+6. "[Ở vùng đất phương Tây dưới ánh mặt trời](../I/In_Western_Lands_beneath_the_Sun.md)" (lời J.R.R. Tolkien, âm nhạc ?)
+7. "[Lời than thở của Galadriel](../G/Galadriel's_Song.md)" (lời J.R.R. Tolkien, nhạc Marion Zimmer Bradley và Margaret Davis)
 8. "[Bài hát troll](The_Stone_Troll.md)" (lời J.R.R. Tolkien, nhạc ?)
-9. "[Than thở cho Boromir](../S/Song_of_Boromir.md)" (lời J.R.R. Tolkien, nhạc ?)
+9. "[Than tiếc cho Boromir](../S/Song_of_Boromir.md)" (lời J.R.R. Tolkien, nhạc ?)
 10. "[Bài hát tắm](../B/Bath-songs.md)" (lời J.R.R. Tolkien, nhạc ?)
 11. "[Trong ngày Durin](The_world_was_young,_the_mountains_green,.md)" (lời J.R.R. Tolkien, nhạc Kristoph Klover)
 12. "[Lay of Nimrodel](../L/Lay_of_Nimrodel.md)" (lời J.R.R. Tolkien, nhạc Margaret Davis)
-13. "[Khi mùa xuân mở ra](../S/Song_of_the_Ent_and_Entwife.md)" (lời J.R.R. Tolkien, nhạc ?)
+13. "[Khi mùa xuân đến](../S/Song_of_the_Ent_and_Entwife.md)" (lời J.R.R. Tolkien, nhạc ?)
 
 ## Liên kết ngoài {#External_links}
 

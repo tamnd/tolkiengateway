@@ -30,7 +30,7 @@ Trong [*Etymologies*](../T/The_Etymologies.md), Noldorin *sîr* là dạng hậu
 - <a href="../O/Ossiriand.md#Etymology" title="Ossiriand"><i>Os<b>thưa ngài</b>iand</i></a>
 - <a href="../M/Minhiriath.md#Etymology" title="Minhiriath"><i>Tối thiểu<b>hir</b>iath</i></a>
 - <a href="../E/Ethir_Anduin.md#Etymology" title="Ethir Anduin"><i>Et<b>hir</b> Anduin</i></a>
-- <a href="../T/Thorn_Sir.md#Etymology" title="Thorn Sir"><i>Cái gai <b>Thưa ngài</b></i></a>
+- <a href="../T/Thorn_Sir.md#Etymology" title="Thorn Sir"><i>Thorn <b>Thưa ngài</b></i></a>
 - <a class="mw-redirect" href="../N/Nanduhirion.md#Etymology" title="Nanduhirion"><i>Nandu<b>hir</b>ion</i></a>
 - <i><a href="Sirion.md#Etymology" title="Sirion"><b>Thưa ngài</b>ion</a></i>
 

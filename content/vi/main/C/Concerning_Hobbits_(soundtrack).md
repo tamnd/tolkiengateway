@@ -36,4 +36,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Liên quan đến Hobbit** là ca khúc thứ hai trong *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md). Nó đặt chủ đề [Hobbit](../H/Hobbits.md) vui vẻ và đơn giản thường xuyên được lặp lại xuyên suốt bộ phim, được chơi trên Violin và Pennywhistle.
+**Concerning Hobbit** là bài hát thứ hai trong *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md). Nó đặt chủ đề [Hobbit](../H/Hobbits.md) vui vẻ và đơn giản thường xuyên được lặp lại xuyên suốt bộ phim, được chơi trên Violin và Pennywhistle.

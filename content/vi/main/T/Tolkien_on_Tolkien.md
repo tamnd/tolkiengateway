@@ -13,9 +13,9 @@ categories:
   - "Published articles by J.R.R. Tolkien"
 ---
 
-**Tolkien trên Tolkien** là tựa đề một bài báo đăng trên [*Diplomat*, New York, tập. 18, không. 197](../D/Diplomat,_October_1966.md) (Tháng 10 [1966](../_/1966.md)). Bài viết là một văn bản được sáng tác từ các yếu tố có trong bản tự truyện của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)được chuẩn bị cho [Houghton Mifflin](../H/Houghton_Mifflin.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> và ba đoạn văn từ [một bức thư năm 1963 gửi Nancy Smith](<../L/Letter_to_Nancy_Smith_(Christmas_1963).md>).
+**Tolkien on Tolkien** là tiêu đề của một bài báo đăng trên [*Diplomat*, New York, tập. 18, không. 197](../D/Diplomat,_October_1966.md) (Tháng 10 [1966](../_/1966.md)). Bài viết là một văn bản được sáng tác từ các yếu tố có trong bản tự truyện của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được chuẩn bị cho [Houghton Mifflin](../H/Houghton_Mifflin.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> và ba đoạn từ [một bức thư năm 1963 gửi Nancy Smith](<../L/Letter_to_Nancy_Smith_(Christmas_1963).md>).
 
-"Tolkien trên Tolkien" được phân tích trong *[The J.R.R. Tolkien Companion and Guide](The_J.R.R._Tolkien_Companion_and_Guide.md):* *[The J.R.R. Tolkien Companion and Guide: Reader's Guide](The_J.R.R._Tolkien_Companion_and_Guide.md)* (bởi [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md)).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+"Tolkien on Tolkien" được phân tích trong *[The J.R.R. Tolkien Companion and Guide](The_J.R.R._Tolkien_Companion_and_Guide.md):* *[The J.R.R. Tolkien Companion and Guide: Reader's Guide](The_J.R.R._Tolkien_Companion_and_Guide.md)* (bởi [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md)).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
 ## Ghi chú {#Notes}
 

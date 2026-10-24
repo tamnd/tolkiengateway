@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Entwash"
 ---
 
-Chuyển hướng đến [Entwash](../E/Entwash.md).
+Chuyển hướng tới [Entwash](../E/Entwash.md).

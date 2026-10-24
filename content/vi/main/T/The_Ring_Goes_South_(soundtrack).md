@@ -36,4 +36,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**The Nhẫn Goes South** là ca khúc thứ 11 trong *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md). Khi nó được chơi, [Học bổng](../F/Fellowship_of_the_Ring.md) đi về phía Nam, vượt qua [Ost-in-Edhil](../O/Ost-in-Edhil.md) và tiếp cận [Moria](../M/Moria.md). Nó hoàn toàn là công cụ.
+**The Ring Goes South** là ca khúc thứ 11 trong *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md). Khi diễn ra, [Fellowship](../F/Fellowship_of_the_Ring.md) đi về phía Nam, đi qua [Ost-in-Edhil](../O/Ost-in-Edhil.md) và tiếp cận [Moria](../M/Moria.md). Nó hoàn toàn là công cụ.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mablung"
 ---
 
-Chuyển hướng đến [Mablung](../M/Mablung.md).
+Chuyển hướng tới [Mablung](../M/Mablung.md).

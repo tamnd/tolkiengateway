@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit: There and Back Again"
 ---
 
-Chuyển hướng đến [The Hobbit: Ở đó và Quay lại](The_Hobbit%253A_There_and_Back_Again.md).
+Chuyển hướng đến [The Hobbit: There and Back Again](The_Hobbit%253A_There_and_Back_Again.md).

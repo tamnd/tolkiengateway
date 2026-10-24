@@ -24,9 +24,9 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the poem</b>. For the city in <a href="Tol_Eressëa.md" title="Tol Eressëa">Tol Eressëa</a>, see <b><a href="../K/Kortirion.md" title="Kortirion">Kortirion</a></b>.</div></div>
 
-<i><b>Những cái cây Kortirion</b></i> là một bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Đã có một số phiên bản của bài thơ, phiên bản sớm nhất là từ tháng 11 [1915](../_/1915.md), có tựa đề <i><b>Kortirion Giữa Những Cây</b></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vào [1937](../_/1937.md), Tolkien đã tiến hành sửa đổi lớn bài thơ. Phiên bản cuối cùng dường như được sáng tác "gần nửa thế kỷ sau" năm 1915.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>Những cái cây ở Kortirion</b></i> là một bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Đã tồn tại một số phiên bản của bài thơ, phiên bản sớm nhất là từ tháng 11 [1915](../_/1915.md), có tựa đề <i><b>Kortirion giữa những tán cây</b></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vào [1937](../_/1937.md), Tolkien đã tiến hành sửa đổi lớn bài thơ. Phiên bản cuối cùng dường như được sáng tác "gần nửa thế kỷ sau" năm 1915.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Tolkien đã cân nhắc việc sửa lại bài thơ để đưa vào *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)* nhưng nó quá dài và đầy tham vọng và khác biệt so với những bài khác. Nó đã bị lược bỏ cùng với *[The Dragon's Visit](The_Dragon's_Visit.md)*và được thay thế bằng ba bài thơ từ *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tolkien đã cân nhắc việc tân trang lại bài thơ để đưa vào *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)* nhưng nó quá dài và đầy tham vọng và khác biệt so với những bài khác. Nó đã bị lược bỏ cùng với *[The Dragon's Visit](The_Dragon's_Visit.md)* và được thay thế bằng ba bài thơ từ *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Ba phiên bản khác nhau của bài thơ đã được xuất bản trong *[The Book of Lost Tales Part One](The_Book_of_Lost_Tales_Part_One.md)*: phiên bản trước năm 1937, phiên bản sửa đổi năm 1937 và phiên bản cuối cùng.
 
@@ -56,7 +56,7 @@ since first the Edain built Kortirion.
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkiensociety.org/wp-content/uploads/2016/11/Kortirion-among-trees-the-Trees-the-influence-of-Warwick-on-J.R.R.-Tolkien%C3%A2%E2%82%AC%E2%84%A2s-vision-of-Middle-earth.pdf" rel="noreferrer noopener" target="_blank">Kortirion giữa những cái cây Cây cối: ảnh hưởng của Warwick đối với tầm nhìn của J.R.R. Tolkien về Trung Địa</a> của Lynn Forest-Hill
+- <a class="external text" href="http://www.tolkiensociety.org/wp-content/uploads/2016/11/Kortirion-among-trees-the-Trees-the-influence-of-Warwick-on-J.R.R.-Tolkien%C3%A2%E2%82%AC%E2%84%A2s-vision-of-Middle-earth.pdf" rel="noreferrer noopener" target="_blank">Kortirion giữa những cái cây Những cái cây: ảnh hưởng của Warwick đối với tầm nhìn của J.R.R. Tolkien về Trung Địa</a> của Lynn Forest-Hill
 
 <span></span>
 

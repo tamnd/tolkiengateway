@@ -48,7 +48,7 @@ images:
 - **[1986](../_/1986.md)**
     - George Allen & Unwin hợp nhất với Bell & Hyman để tạo thành Unwin Hyman.<sup id="cite_ref-fob_7-0" class="reference"><a href="#cite_note-fob-7">[7]</a></sup>
 - **[1987](../_/1987.md)**
-    - [Mithril Miniatures](../M/Mithril_Miniatures.md) được thành lập, tạo ra các nhân vật thu nhỏ bằng kim loại được cấp phép lấy cảm hứng từ *The Hobbit* và *The Lord of the Rings*của J.R.R. Tolkien.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+    - [Mithril Miniatures](../M/Mithril_Miniatures.md) được thành lập, tạo ra các nhân vật thu nhỏ bằng kim loại được cấp phép lấy cảm hứng từ *The Hobbit* và *The Lord of the Rings* của J.R.R. Tolkien.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 - **[1990](../_/1990.md)**
     - Unwin Hyman được mua bởi [HarperCollins](../H/HarperCollins.md).<sup id="cite_ref-fob_7-1" class="reference"><a href="#cite_note-fob-7">[7]</a></sup>
     - [Interplay Productions](../I/Interplay_Productions.md) mua bản quyền trò chơi điện tử đối với *The Lord of the Rings* và *The Hobbit* đồng thời phát hành trò chơi điện tử *[J.R.R. Tolkien's The Lord of the Rings](<../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(1990_video_game).md>)*.
@@ -74,7 +74,7 @@ images:
 - **[2007](../_/2007.md)**
     - 27 tháng 3 - Electronic Arts gia hạn giấy phép xuất bản trò chơi điện tử với New Line và Tolkien Enterprises.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
     - [Turbine](../T/Turbine.md) phát hành trò chơi điện tử MMO chỉ dựa trên tài sản văn học, *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)* (LOTRO) theo giấy phép của Tolkien Enterprises.<sup id="cite_ref-middle-earth-timeline_4-6" class="reference"><a href="#cite_note-middle-earth-timeline-4">[4]</a></sup>
-    - 18 tháng 12 - New Line và MGM công bố phát triển bộ phim chuyển thể gồm hai phim *[The Hobbit](../T/The_Hobbit.md)*của J.R.R. Tolkien.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+    - 18 tháng 12 - New Line và MGM công bố phát triển bộ phim chuyển thể gồm hai phim *[The Hobbit](../T/The_Hobbit.md)* của J.R.R. Tolkien.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 - **[2008](../_/2008.md)**
     - New Line Cinema hợp nhất với [Warner Bros.](../W/Warner_Bros..md) và thông qua cách này, công ty có được quyền phân phối [*The Lord of the Rings* loạt phim](<../T/The_Lord_of_the_Rings_(film_series).md>) và quyền đồng sản xuất [*The Hobbit* loạt phim](<../T/The_Hobbit_(film_series).md>).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
     - 8 tháng 5 - Electronic Arts công bố *[The Lord of the Rings: Conquest](../T/The_Lord_of_the_Rings%253A_Conquest.md)*, được phát triển bởi Pandemia Studios.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
@@ -88,7 +88,7 @@ images:
     - 18 tháng 3 - Warner Bros. Interactive Entertainment công bố *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)*, được phát triển bởi Snowblind Studios kết hợp với Middle-earth Enterprises.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
     - 14 tháng 12 - *Chúa tể của những chiếc nhẫn: Nhiệm vụ của Aragorn* được phát hành.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
 - **[2011](../_/2011.md)**
-    - 30 tháng 5 - New Line Cinema, Warner Bros. Pictures và MGM công bố tựa phim chuyển thể từ hai bộ phim *The Hobbit*của Peter Jackson. Phim đầu tiên có tựa đề *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)* và phim thứ hai có tựa đề *The Hobbit: There and Back Again*.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
+    - 30 tháng 5 - New Line Cinema, Warner Bros. Pictures và MGM công bố tựa phim chuyển thể từ hai bộ phim *The Hobbit* của Peter Jackson. Phim đầu tiên có tựa đề *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)* và phim thứ hai có tựa đề *The Hobbit: There and Back Again*.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
     - 1 tháng 11 - *Chúa tể của những chiếc nhẫn: Cuộc chiến ở phương Bắc* được phát hành.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
 - **[2012](../_/2012.md)**
     - 30 tháng 7 - New Line, MGM và Warner Bros. Pictures thông báo rằng bộ phim chuyển thể hai phim *The Hobbit* của Peter Jackson giờ đây sẽ trở thành bộ ba phim.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>
@@ -148,7 +148,7 @@ images:
 ## Xem thêm {#See_also}
 
 - [Các vụ kiện](Lawsuits.md)
-- [Trung Địa Doanh nghiệp/Bản quyền](../M/Middle-earth_Enterprises%252FCopyrights.md)
+- [Doanh nghiệp Trung Địa/Bản quyền](../M/Middle-earth_Enterprises%252FCopyrights.md)
 
 <span></span>
 

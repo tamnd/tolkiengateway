@@ -14,7 +14,7 @@ sort_keys:
   "Epithets": "Dunadan, The"
 ---
 
-** Dúnadan** là danh hiệu được áp dụng cho [Aragorn](../A/Aragorn.md) trong [Rivendell](../R/Rivendell.md) bởi [Bilbo](../B/Bilbo_Baggins.md) có nghĩa là 'Người đàn ông của Phương Tây'. [Frodo](../F/Frodo_Baggins.md) biết đến cái tên này khi Aragorn thấy hai hobbit đang thảo luận về tin tức [về Shire](The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Dúnadan** là danh hiệu được áp dụng cho [Aragorn](../A/Aragorn.md) ở [Rivendell](../R/Rivendell.md) bởi [Bilbo](../B/Bilbo_Baggins.md) có nghĩa là 'Người đàn ông của phương Tây'. [Frodo](../F/Frodo_Baggins.md) biết đến cái tên này khi Aragorn thấy hai hobbit đang thảo luận về tin tức về [Quận](The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

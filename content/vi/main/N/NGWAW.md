@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**NGWAW** là một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) biểu thị "tiếng hú".<sup id="cite_ref-PE19_1-0" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
+**NGWAW** là một [Elvish](../E/Elvish.md) [root](../S/Sundocarme.md) biểu thị "tiếng hú".<sup id="cite_ref-PE19_1-0" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 

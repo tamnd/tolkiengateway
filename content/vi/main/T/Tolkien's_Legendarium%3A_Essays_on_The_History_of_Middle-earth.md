@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien's Legendarium"
 ---
 
-Chuyển hướng đến [Tolkien's Legendarium](Tolkien's_Legendarium.md).
+Chuyển hướng đến [Truyền thuyết của Tolkien](Tolkien's_Legendarium.md).

@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bản phác thảo này của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) đã được xuất bản trong [The Lord of the Rings Lịch năm 1977](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md). Hình minh họa của Orthanc, tòa tháp của Isengard, là một trong nhiều ý tưởng khác nhau được J.R.R. Tolkien phác họa, nhưng điều này phù hợp nhất với mô tả trong [The Two Towers](../../main/T/The_Two_Towers.md), Quyển III, Chương 8, [Con Đường Đến Isengard](../../main/T/The_Road_to_Isengard.md):
+Bản phác thảo này của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) đã được xuất bản trong [The Lord of the Rings 1977 Calendar](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md). Hình minh họa của Orthanc, tòa tháp của Isengard, là một trong nhiều ý tưởng khác nhau được J.R.R. Tolkien phác họa, nhưng điều này phù hợp nhất với mô tả trong [The Two Towers](../../main/T/The_Two_Towers.md), Quyển III, Chương 8, [Con Đường Đến Isengard](../../main/T/The_Road_to_Isengard.md):
 
 <dl><dd>&#39;A peak and isle of rock it was, black and gleaming hard: four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears, keen-edged as knives.&#39;</dd></dl>
 

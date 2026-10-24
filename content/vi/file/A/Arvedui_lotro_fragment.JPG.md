@@ -23,7 +23,7 @@ file:
   user: "Ederchil"
 ---
 
-[Arvedui](../../main/A/Arvedui.md), như anh ấy xuất hiện trong *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*, Quyển 13.
+[Arvedui](../../main/A/Arvedui.md), như ông xuất hiện trong *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*, Quyển 13.
 
 Hình ảnh này là một mảnh của tác phẩm nghệ thuật gốc <a class="external autonumber" href="http://www.lotro.com/index.php?page_id=161" rel="noreferrer noopener" target="_blank">[1]</a>.
 

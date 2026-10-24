@@ -22,7 +22,7 @@ categories:
 ## Ví dụ {#Examples}
 
 - <i><a href="Calacirya.md" title="Calacirya"><b>Cala</b>cirya</a></i> = "Vượt qua ánh sáng"
-- <i><a href="Calaquendi.md" title="Calaquendi"><b>Cala</b>quendi</a></i> = "Ánh sáng Tiên tộc"
+- <i><a href="Calaquendi.md" title="Calaquendi"><b>Cala</b>quendi</a></i> = "Yêu tinh ánh sáng"
 
 <span></span>
 

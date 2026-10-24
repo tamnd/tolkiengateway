@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fall of Númenor (disambiguation)"
 ---
 
-Chuyển hướng đến [Sự sụp đổ của Númenor (định hướng)](<Fall_of_Númenor_(disambiguation).md>).
+Chuyển hướng tới [Sự sụp đổ của Númenor (định hướng)](<Fall_of_Númenor_(disambiguation).md>).

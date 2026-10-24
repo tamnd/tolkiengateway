@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[*Ambarkanta*Bản đồ IV](../../main/A/Ambarkanta_maps.md), của J.R.R. Tolkien.
+[*Ambarkanta* Bản đồ IV](../../main/A/Ambarkanta_maps.md), của J.R.R. Tolkien.
 
 ## Giấy phép {#Licensing}
 

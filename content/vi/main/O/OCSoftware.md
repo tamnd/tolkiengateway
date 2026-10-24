@@ -13,7 +13,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**OCSoftware** là nhà phát hành phiên bản <a class="extiw" href="http://en.wikipedia.org/wiki/NEXTSTEP" title="wikipedia:NEXTSTEP">NEXTSTEP</a>- và <a class="extiw" href="http://en.wikipedia.org/wiki/Psion" title="wikipedia:Psion">Psion 3/3a</a>của trò chơi điện tử [Belegost](<../B/Belegost_(video_game).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**OCSoftware** là nhà phát hành <a class="extiw" href="http://en.wikipedia.org/wiki/NEXTSTEP" title="wikipedia:NEXTSTEP">NEXTSTEP</a>- và <a class="extiw" href="http://en.wikipedia.org/wiki/Psion" title="wikipedia:Psion">Psion 3/3a</a>-phiên bản của trò chơi điện tử [Belegost](<../B/Belegost_(video_game).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

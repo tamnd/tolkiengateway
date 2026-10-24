@@ -13,7 +13,7 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>nimp</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là *pale* hoặc *white*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+<i><b>nimp</b></i> là từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là *pale* hoặc *white*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

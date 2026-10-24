@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "King's Company"
 ---
 
-Chuyển hướng tới Công ty của [Vua](King's_Company.md).
+Chuyển hướng tới [Công ty King](King's_Company.md).

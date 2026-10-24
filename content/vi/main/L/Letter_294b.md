@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư gửi [Donald Swann](../D/Donald_Swann.md) Tolkien này đề cập đến việc đóng góp chậm trễ của anh ấy cho *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*, thời hạn đã trôi qua vào [ngày 1 tháng 3](../_/1_March.md). Tolkien bày tỏ sự nhẹ nhõm khi Swann không chỉ trích gay gắt sự chậm trễ này.
+Trong bức thư gửi [Donald Swann](../D/Donald_Swann.md) này, Tolkien đề cập đến sự đóng góp bị trì hoãn của ông cho *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*, thời hạn đã trôi qua vào [ngày 1 tháng 3](../_/1_March.md). Tolkien bày tỏ sự nhẹ nhõm khi Swann không chỉ trích gay gắt sự chậm trễ của ông.
 
-Tolkien tiết lộ rằng việc thực hiện các bài hát và kịch bản Elvish, một công việc mà anh ấy vô cùng yêu thích, không may lại trùng hợp với những cam kết cấp bách. Anh ấy đang bận tâm đến việc hoàn thiện *[Gawain and Pearl](../S/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo.md)*, và bây giờ có những bằng chứng về ấn bản sửa đổi của văn bản tiếng Anh trung cổ của Gawain trên bàn của anh ấy, điều này cần được xem xét cẩn thận. Sự tập trung kép này đã khiến anh ấy không thể đáp ứng được cả hai dự án, khiến anh ấy cảm thấy như thể mình đã làm thất vọng tất cả những người liên quan. <br>
+Tolkien tiết lộ rằng việc thực hiện các bài hát và kịch bản của Elvish, một nhiệm vụ mà ông vô cùng yêu thích, thật không may lại trùng hợp với những cam kết cấp bách. Ông đang bận tâm đến việc hoàn thiện *[Gawain and Pearl](../S/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo.md)*, và bây giờ có những bằng chứng về ấn bản sửa đổi của văn bản tiếng Anh trung cổ của Gawain trên bàn của ông, điều này cần được xem xét cẩn thận. Sự tập trung kép này đã khiến ông không thể đáp ứng được cả hai dự án, khiến ông cảm thấy như thể mình đã làm thất vọng tất cả những người liên quan. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

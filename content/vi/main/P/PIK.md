@@ -12,15 +12,15 @@ categories:
   - "Roots"
 ---
 
-**PIK** là một [Primitive Quendian](Primitive_Quendian.md) [gốc](../S/Sundocarme.md) không có bất kỳ ý nghĩa nào, ngoại trừ những gì có thể được xác định từ các dẫn xuất của nó.<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+**PIK** là [Quendian nguyên thủy](Primitive_Quendian.md) [gốc](../S/Sundocarme.md) không có bất kỳ ý nghĩa cụ thể nào, ngoại trừ những gì có thể được xác định từ các dẫn xuất của nó.<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
-Trước khi đến với dạng PIK, [Tolkien](../J/J.R.R._Tolkien.md) đã thử nghiệm với dạng PEK.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trước khi đến với dạng PIK, [Tolkien](../J/J.R.R._Tolkien.md) đã thử nghiệm dạng PEK.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Old Noldorin](../K/Kornoldorin.md): *pika* ("đốm, chấm nhỏ")<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+- [Noldorin già](../K/Kornoldorin.md): *pika* ("đốm nhỏ, chấm")<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
     - [Noldorin](../N/Noldorin.md): *peg* ("đốm nhỏ, chấm")<sup id="cite_ref-LR_1-2" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
-- [Old Noldorin](../K/Kornoldorin.md): *pikina* ("nhỏ")<sup id="cite_ref-LR_1-3" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+- [Noldorin già](../K/Kornoldorin.md): *pikina* ("nhỏ")<sup id="cite_ref-LR_1-3" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
     - [Noldorin](../N/Noldorin.md): *pigen* ("nhỏ")<sup id="cite_ref-LR_1-4" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}

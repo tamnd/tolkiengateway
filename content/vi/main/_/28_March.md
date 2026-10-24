@@ -66,18 +66,18 @@ Sự kiện xảy ra vào ngày 28 tháng 3.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tham gia cuộc kiểm tra của hội đồng y tế ở Furness và được xác định là đã cải thiện nhưng bị đau ở đầu gối và khuỷu tay.
+- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tham dự cuộc kiểm tra của hội đồng y tế ở Furness và được xác định là đã cải thiện nhưng bị đau ở đầu gối và khuỷu tay.
 - **[1928](1928.md)** - [Tolkien](../J/J.R.R._Tolkien.md) hoạt động trên phần sau của [Canto IV](../L/Lay_of_Leithian_Canto_IV.md) của *[Lay of Leithian](../L/Lay_of_Leithian.md)*.
 - **[1939](1939.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thực hiện ngày đào tạo thứ hai với Trường Mật mã và Mật mã tuyệt mật của Chính phủ (GCCS) tại trụ sở chính ở London.
-- **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Patricia Kirke](<../L/Letter_to_Patricia_Kirke_(28_March_1956).md>).
+- **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Patricia Kirke](<../L/Letter_to_Patricia_Kirke_(28_March_1956).md>).
 - **[1958](1958.md)** - Diễn viên [Stephen Ure](../S/Stephen_Ure.md) ra đời.
-- **[1958](1958.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được mời tham dự ["Hobbit Bữa tối" tại Rotterdam](%2522Hobbit_Dinner%2522_in_Rotterdam.md).
+- **[1958](1958.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được mời tham dự ["Bữa tối Hobbit" tại Rotterdam](%2522Hobbit_Dinner%2522_in_Rotterdam.md).
 - **[1972](1972.md)** – Tại Cung điện Buckingham, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được Nữ hoàng Elizabeth II bổ nhiệm làm [CBE](../O/Order_of_the_British_Empire.md).
-- **[1989](1989.md)** - Diễn viên [Lockwood Phương Tây](../L/Lockwood_West.md) qua đời.
+- **[1989](1989.md)** - Diễn viên [Lockwood West](../L/Lockwood_West.md) qua đời.
 - **[2005](2005.md)** - Sách nhại *[The Soddit](../T/The_Soddit.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Celeborn](../C/Celeborn.md) và [Galadhrim](../G/Galadhrim.md) băng qua [Anduin](../A/Anduin.md) trên nhiều thuyền và lấy [Dol Guldur](../D/Dol_Guldur.md). Sau trận chiến, trong vòng vài ngày, [Galadriel](../G/Galadriel.md) [phá bỏ](../F/Fall_of_Dol_Guldur.md) bức tường của nó và để lộ những cái hố.
-    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), được cứu ra khỏi đám cháy, nghỉ ngơi tại [Ithilien](../I/Ithilien.md).
+    - [Celeborn](../C/Celeborn.md) và [Galadhrim](../G/Galadhrim.md) băng qua [Anduin](../A/Anduin.md) trên nhiều chiếc thuyền và chiếm lấy [Dol Guldur](../D/Dol_Guldur.md). Sau trận chiến, trong vòng vài ngày, [Galadriel](../G/Galadriel.md) [phá bỏ](../F/Fall_of_Dol_Guldur.md) bức tường của nó và để lộ những cái hố.
+    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), được cứu ra khỏi đám cháy, an nghỉ ở [Ithilien](../I/Ithilien.md).

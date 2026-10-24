@@ -12,7 +12,7 @@ categories:
   - "Telerin nouns"
 ---
 
-**Soloneldi** là một từ [Telerin](../T/Telerin.md) có nghĩa là "ca sĩ lướt sóng", một thuật ngữ chỉ [chính họ](../F/Falmari.md) (cùng với <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Fallinelli&amp;action=edit&amp;redlink=1" title="Fallinelli (page does not exist)">Fallinelli</a></i>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Soloneldi** là từ [Telerin](../T/Telerin.md) có nghĩa là "ca sĩ lướt sóng", một thuật ngữ chỉ [chính họ](../F/Falmari.md) (cùng với <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Fallinelli&amp;action=edit&amp;redlink=1" title="Fallinelli (page does not exist)">Fallinelli</a></i>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -20,7 +20,7 @@ Phần đầu tiên bắt nguồn từ [Gốc](Sundocarmë.md) <a class="new" hr
 
 ## Phiên bản khác {#Other_versions}
 
-[Solosimpi](Solosimpi.md) là tên cũ của Tolkien của Teleri. <span></span>
+[Solosimpi](Solosimpi.md) là tên cũ của Teleri của Tolkien. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

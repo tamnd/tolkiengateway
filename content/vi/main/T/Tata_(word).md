@@ -17,18 +17,18 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the <a href="../E/Elvish.md" title="Elvish">Elvish</a> word</b>. For the <a href="../E/Elves.md" title="Elves">Elf</a>, see <b><a href="Tata.md" title="Tata">Tata</a></b>.</div></div>
 
-<i><b>tata</b></i> là [Telerin](Telerin.md) số "hai".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>tata</b></i> là số [Telerin](Telerin.md) "hai".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-[Gốc](../S/Sundocarme.md) cho "hai" là [AT](../A/AT.md)-AT, AT[TA](TA.md) và các biến thể khác. Tổ tiên [Common Eldarin](../C/Common_Eldarin.md) là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=At%C3%A1ta&amp;action=edit&amp;redlink=1" title="Atáta (page does not exist)">atáta</a></i>.
+[Gốc](../S/Sundocarme.md) cho "hai" là [AT](../A/AT.md)-AT, AT[TA](TA.md) và các biến thể khác. Tổ tiên của [Eldarin thông thường](../C/Common_Eldarin.md) là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=At%C3%A1ta&amp;action=edit&amp;redlink=1" title="Atáta (page does not exist)">atáta</a></i>.
 
-Theo truyền thuyết về *[Cuivienyarna](../C/Cuivienyarna.md)*, từ này có lẽ bắt nguồn từ cái tên [Tata](Tata.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Theo truyền thuyết của *[Cuivienyarna](../C/Cuivienyarna.md)*, từ này có lẽ bắt nguồn từ cái tên [Tata](Tata.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 
 - [Quenya](../Q/Quenya.md) *[atta](../A/Atta.md)*
-- [Sindarin](../S/Sindarin.md) *[tâd](Tâd.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[tâd](Tâd.md)*
 
 ## Xem thêm {#See_also}
 

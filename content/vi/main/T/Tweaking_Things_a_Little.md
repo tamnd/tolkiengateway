@@ -62,7 +62,7 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.walking-tree.org/books/tweaking_things_a_little.php" rel="noreferrer noopener" target="_blank">Trang sản phẩm chính thức</a>
-- <a class="external text" href="https://scholar.valpo.edu/journaloftolkienresearch/vol18/iss1/7/" rel="noreferrer noopener" target="_blank">Người đánh giá Andrew Higgins trong <i>Journal of Tolkien Research</i></a>
+- <a class="external text" href="https://scholar.valpo.edu/journaloftolkienresearch/vol18/iss1/7/" rel="noreferrer noopener" target="_blank">Bài đánh giá của Andrew Higgins trong <i>Tạp chí Nghiên cứu Tolkien</i></a>
 
 <br clear="all"/>
 

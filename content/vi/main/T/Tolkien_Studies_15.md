@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Studies: Volume 15"
 ---
 
-Chuyển hướng tới [Tolkien Nghiên cứu: Tập 15](Tolkien_Studies%253A_Volume_15.md).
+Chuyển hướng đến [Tolkien Studies: Volume 15](Tolkien_Studies%253A_Volume_15.md).

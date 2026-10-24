@@ -21,7 +21,7 @@ categories:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Sindarin](Sindarin.md) *[sereg](Sereg.md)*<sup id="cite_ref-PE_1-2" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
+- [tiếng Sindarin](Sindarin.md) *[sereg](Sereg.md)*<sup id="cite_ref-PE_1-2" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
 
 <span></span>
 

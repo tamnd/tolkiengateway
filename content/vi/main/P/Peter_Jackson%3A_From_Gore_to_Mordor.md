@@ -50,7 +50,7 @@ Các bài viết về [*The Lord of the Rings*(loạt phim)](<../T/The_Lord_of_t
 - "Lời giới thiệu" của Paul A. Woods
 - *The Fellowship of the Ring*
     - "*Rings* Người mang" của Michael Helms
-    - "Một Nhẫn" của Harry Knowles
+    - "Một chiếc nhẫn" của Harry Knowles
     - *The Fellowship of the Ring* được đánh giá bởi Andrew O'Hehir
 - *The Two Towers*
     - "Đó là thời điểm đen tối cho cuộc nổi loạn..." của Ian Nathan

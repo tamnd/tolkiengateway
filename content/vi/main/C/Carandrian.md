@@ -29,11 +29,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Carandrian là bạn của Quickbeam, và là một trong những Ent đã tham gia [Trận Isengard](../B/Battle_of_Isengard.md); trong trận chiến, anh ta bị thương bởi một chiếc rìu, điều này khiến những người còn lại trong Ent vô cùng tức giận.<sup id="cite_ref-War_1-1" class="reference"><a href="#cite_note-War-1">[1]</a></sup>
+Carandrian là bạn của Quickbeam, và là một trong những Ent tham gia [Trận chiến Isengard](../B/Battle_of_Isengard.md); trong trận chiến, ông ta bị thương bởi một chiếc rìu, điều này khiến những Ent còn lại vô cùng tức giận.<sup id="cite_ref-War_1-1" class="reference"><a href="#cite_note-War-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Carandrian* nằm trong [Noldorin](../N/Noldorin.md). Ý nghĩa của nó không rõ ràng, nhưng nó có thể chứa phần tử *[caran](Caran.md)* ("đỏ"), theo [Roman Rausch](../R/Roman_Rausch.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên *Carandrian* có trong [Noldorin](../N/Noldorin.md). Ý nghĩa của nó không rõ ràng, nhưng nó có thể chứa phần tử *[caran](Caran.md)* ("đỏ"), theo [Roman Rausch](../R/Roman_Rausch.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

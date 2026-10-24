@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit (1977 film)"
 ---
 
-Chuyển hướng đến [The Hobbit (phim 1977)](<../T/The_Hobbit_(1977_film).md>).
+Chuyển hướng đến [The Hobbit (1977 film)](<../T/The_Hobbit_(1977_film).md>).

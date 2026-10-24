@@ -73,7 +73,7 @@ Sự kiện xảy ra vào ngày 8 tháng 11
 - **[1973](1973.md)** - Diễn viên [Duncan McIntyre](../D/Duncan_McIntyre.md) qua đời.
 - **[2002](2002.md)** - *[The Fellowship of the Ring](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)* được phát hành tại EU cho Xbox, PC và Game Boy Advance.
 - **[2003](2003.md)** - *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)* được phát hành tại Bắc Mỹ.
-- **[2004](2004.md)** - *[A Gateway to Sindarin](../A/A_Gateway_to_Sindarin.md)* của [David Salo](../D/David_Salo.md) được xuất bản.
+- **[2004](2004.md)** - [David Salo](../D/David_Salo.md) *[A Gateway to Sindarin](../A/A_Gateway_to_Sindarin.md)* được xuất bản.
 - **[2005](2005.md)** - *[The Lord of the Rings: Tactics](../T/The_Lord_of_the_Rings%253A_Tactics.md)* được phát hành tại Bắc Mỹ.
 - **[2011](2011.md)** - *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* được phát hành ở Bắc Âu.
 - **[2023](2023.md)** - *[The Lord of the Rings Online: Corsairs of Umbar](../T/The_Lord_of_the_Rings_Online%253A_Corsairs_of_Umbar.md)* được phát hành trực tuyến.
@@ -81,6 +81,6 @@ Sự kiện xảy ra vào ngày 8 tháng 11
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md). Họ đến [Hồ Ivrin](../P/Pools_of_Ivrin.md) và xem [Túrin](../T/Túrin.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md). Họ đến [Hồ Ivrin](../P/Pools_of_Ivrin.md) và xem [Túrin](../T/Túrin.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

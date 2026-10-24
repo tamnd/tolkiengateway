@@ -16,7 +16,7 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><b>II</b><a href="../T/Third_Age.md" title="Third Age">III</a><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Second_Age_712.md" title="Second Age 712">712</a><a href="Second_Age_725.md" title="Second Age 725">725</a><a href="Second_Age_727.md" title="Second Age 727">727</a><a class="mw-selflink selflink">729</a><a href="Second_Age_730.md" title="Second Age 730">730</a><a href="Second_Age_733.md" title="Second Age 733">733</a><a href="Second_Age_735.md" title="Second Age 735">735</a></div></div></div></div></div></div>
 
-**Kỷ thứ hai 729** (viết tắt là **S.A. 729**) là năm [thứ 729 thuộc Mặt Trời](../Y/Years_of_the_Sun.md) của [Kỷ thứ hai](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ hai 729** (viết tắt là **S.A. 729**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 729 của [Kỷ thứ hai](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 

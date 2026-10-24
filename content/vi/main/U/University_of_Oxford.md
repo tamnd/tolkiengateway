@@ -38,7 +38,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien&#39;s_bust_at_Exeter.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bf/J.R.R._Tolkien%27s_bust_at_Exeter.jpg/250px-J.R.R._Tolkien%27s_bust_at_Exeter.jpg" decoding="async" loading="lazy" width="250" height="188" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bf/J.R.R._Tolkien%27s_bust_at_Exeter.jpg/375px-J.R.R._Tolkien%27s_bust_at_Exeter.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/bf/J.R.R._Tolkien%27s_bust_at_Exeter.jpg/500px-J.R.R._Tolkien%27s_bust_at_Exeter.jpg 2x" data-file-width="1024" data-file-height="768"/></a><figcaption>Tolkien&#39;s bust at Exeter College</figcaption></figure>
 
-**Đại học Oxford** là trường đại học lâu đời nhất ở Vương quốc Anh. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã học và dạy ở đó.
+**Đại học Oxford** là trường đại học lâu đời nhất ở Vương quốc Anh. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã học và giảng dạy ở đó.
 
 ## Tolkien và Oxford {#Tolkien_and_Oxford}
 
@@ -46,11 +46,11 @@ images:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Joseph_Wright.jpg.md"><img src="https://tolkiengateway.net/w/images/5/5e/Joseph_Wright.jpg" decoding="async" loading="lazy" width="205" height="313" class="mw-file-element" data-file-width="205" data-file-height="313"/></a><figcaption>Linguist <a href="../J/Joseph_Wright.md" title="Joseph Wright">Joseph Wright</a>, Tolkien&#39;s tutor at Oxford, mentor and later personal friend.</figcaption></figure>
 
-Khi còn là sinh viên, Tolkien đã thành lập câu lạc bộ văn học *[Apolausticks](../A/Apolausticks.md)* ([1912](../_/1912.md)). Nhiều thành viên cũng tham gia *[Chequers Clubbe](../C/Chequers_Clubbe.md)* hiệp hội ăn uống tại Đại học Exeter do Tolkien và Colin Cullis thành lập tại [1914](../_/1914.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Khi còn là sinh viên, Tolkien đã thành lập câu lạc bộ văn học *[Apolausticks](../A/Apolausticks.md)* ([1912](../_/1912.md)). Nhiều thành viên cũng tham gia *[Chequers Clubbe](../C/Chequers_Clubbe.md)* hiệp hội ăn uống tại Đại học Exeter do Tolkien và Colin Cullis thành lập vào [1914](../_/1914.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Tolkien (22) đang là sinh viên đại học khi [Đại chiến](../G/Great_War.md) nổ ra ([tháng 8](../A/August.md) [1914](../_/1914.md)) nhưng anh muốn hoàn thành việc học của mình. Anh ấy gia nhập Quân đoàn Huấn luyện Sĩ quan tại Oxford.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Anh ấy có bằng vào [tháng 6](../J/June.md) [1915](../_/1915.md) và đã nộp đơn xin làm việc.<sup id="cite_ref-rc_4-0" class="reference"><a href="#cite_note-rc-4">[4]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. lxxviii</sup>
+Tolkien (22) đang là sinh viên khi [Đại chiến](../G/Great_War.md) nổ ra ([tháng 8](../A/August.md) [1914](../_/1914.md)) nhưng anh muốn hoàn thành việc học của mình. Anh gia nhập Quân đoàn Huấn luyện Sĩ quan tại Oxford.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Anh có bằng vào [tháng 6](../J/June.md) [1915](../_/1915.md) và nộp đơn xin làm việc.<sup id="cite_ref-rc_4-0" class="reference"><a href="#cite_note-rc-4">[4]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. lxxviii</sup>
 
-Nhiều năm sau, Joseph Wright viết Tolkien một lá thư giới thiệu, nói rằng
+Nhiều năm sau, Joseph Wright viết cho Tolkien một lá thư giới thiệu, nói rằng
 
 <blockquote class="tg-quote noexcerpt">
 <p>I have known Professor Tolkien intimately since the beginning of his undergraduate days at Oxford, and have greatly admired his keen interest in the philological study of Latin, Greek, and more especially the Germanic Languages. He regularly attended my classes and lectures for two years on Comparative Philology in general, and on Latin, Greek, and Gothic, and I formed a high opinion of his attainments in these subjects...
@@ -58,15 +58,15 @@ Nhiều năm sau, Joseph Wright viết Tolkien một lá thư giới thiệu, n�
 <p class="tg-quote-footer"><cite>Letter of recommendation on June 25, 1925<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></cite></p>
 </blockquote>
 
-Lần đó Tolkien đã được trao “Bằng danh dự hạng nhất về Ngôn ngữ và Văn học Anh”.
+Lần đó Tolkien đã được trao "Bằng danh dự hạng nhất về Ngôn ngữ và Văn học Anh".
 
 ### Giáo viên {#Teacher}
 
-Sau *[New English Dictionary](../O/Oxford_English_Dictionary.md)* và một năm dạy kèm cho sinh viên ở Oxford, Tolkien quyết định nộp đơn xin việc tại [Đại học Leeds](University_of_Leeds.md). Tolkien đã có cuộc phỏng vấn với <a class="new" href="https://tolkiengateway.net/w/index.php?title=George_S._Gordon&amp;action=edit&amp;redlink=1" title="George S. Gordon (page does not exist)">George S. Gordon</a>, Giáo sư tiếng Anh của trường đại học, vào tháng 6 [1920](../_/1920.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Giữa [1922](../_/1922.md) và [1928](../_/1928.md) Tolkien đã cố gắng hợp tác trong dự án "[Clarendon Chaucer](../C/Clarendon_Chaucer.md)" với Gordon, để tạo ra một lượng lớn các lựa chọn từ các tác phẩm của Geoffrey Chaucer cho Oxford sinh viên. Tuy nhiên, do hoàn cảnh nên dự án đã bị bỏ dở.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Sau *[New English Dictionary](../O/Oxford_English_Dictionary.md)* và một năm dạy kèm cho sinh viên ở Oxford, Tolkien quyết định nộp đơn xin việc tại [Đại học Leeds](University_of_Leeds.md). Tolkien đã có cuộc phỏng vấn với <a class="new" href="https://tolkiengateway.net/w/index.php?title=George_S._Gordon&amp;action=edit&amp;redlink=1" title="George S. Gordon (page does not exist)">George S. Gordon</a>, Giáo sư tiếng Anh của trường đại học, vào tháng 6 [1920](../_/1920.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Giữa [1922](../_/1922.md) và [1928](../_/1928.md) Tolkien đã cố gắng hợp tác trong dự án "[Clarendon Chaucer](../C/Clarendon_Chaucer.md)" với Gordon để tạo ra một lượng lớn tuyển tập từ các tác phẩm của Geoffrey Chaucer cho sinh viên Oxford. Tuy nhiên, do hoàn cảnh nên dự án đã bị bỏ dở.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Sau khi W. A. Craigie từ chức ở [Rawlinson và chức vụ Giáo sư Bosworth của Anglo-Saxon](../R/Rawlinson_and_Bosworth_Professorship_of_Anglo-Saxon.md), Tolkien đã viết một lá thư bày tỏ mong muốn được quay trở lại Trường Tiếng Anh Đại học Oxford, kể lại khoảng thời gian ông ở đó với tư cách là sinh viên đại học, gia sư và trợ lý làm việc về Từ điển. Mặc dù ở tuổi 33 Tolkien còn khá trẻ cho chức vụ Giáo sư Oxford nhưng đơn đăng ký đã thành công.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Tolkien rời Leeds một cách đột ngột vào [1925](../_/1925.md)<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> khi ông được bầu vào Chức vụ Giáo sư Rawlinson và Bosworth, do đó ông thực sự đảm nhiệm cả hai chức vụ cùng một lúc trong thời gian [1926](../_/1926.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Ông tiếp tục làm việc trong dự án Chaucer cho đến khi từ bỏ nó vào năm '28.
+Sau khi W. A. Craigie từ chức [Rawlinson và Bosworth Professorship of Anglo-Saxon](../R/Rawlinson_and_Bosworth_Professorship_of_Anglo-Saxon.md), Tolkien đã viết một lá thư bày tỏ mong muốn quay trở lại Trường Anh ngữ Đại học Oxford, kể lại khoảng thời gian ông ở đó với tư cách là sinh viên đại học, gia sư và trợ lý làm việc trên Từ điển. Mặc dù ở tuổi 33, Tolkien còn khá trẻ để nhận chức Giáo sư Oxford nhưng đơn đăng ký đã thành công.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Tolkien rời Leeds một cách đột ngột vào [1925](../_/1925.md)<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> khi ông được bầu vào chức vụ Giáo sư Rawlinson và Bosworth, do đó ông thực sự đảm nhiệm cả hai chức vụ cùng một lúc trong suốt thời gian [1926](../_/1926.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Ông tiếp tục làm việc trong dự án Chaucer cho đến khi từ bỏ nó vào năm '28.
 
-Tolkien là một giáo sư bận rộn tại Trường Anh ngữ Oxford, phục vụ trong nhiều ủy ban.<sup id="cite_ref-rc_4-1" class="reference"><a href="#cite_note-rc-4">[4]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. lxxiii</sup> Ông phục vụ trong chức danh Giáo sư Rawlinson và Bosworth và là thành viên của Cao đẳng Pembroke.<sup id="cite_ref-rc_4-2" class="reference"><a href="#cite_note-rc-4">[4]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. lxxiv</sup>
+Tolkien là một giáo sư bận rộn tại Trường Anh ngữ Oxford, phục vụ trong nhiều ủy ban.<sup id="cite_ref-rc_4-1" class="reference"><a href="#cite_note-rc-4">[4]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. lxxiii</sup> Ông phục vụ trong chức vụ Giáo sư Rawlinson và Bosworth và là thành viên của Cao đẳng Pembroke.<sup id="cite_ref-rc_4-2" class="reference"><a href="#cite_note-rc-4">[4]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. lxxiv</sup>
 
 Trong Thế chiến thứ 2, nhiều đồng nghiệp của ông không có mặt và ông phải đảm nhận nhiều trách nhiệm hơn, bao gồm tổ chức các khóa học đặc biệt cho học viên Hải quân và Không quân.<sup id="cite_ref-rc_4-3" class="reference"><a href="#cite_note-rc-4">[4]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. lxxiii</sup>
 
@@ -74,9 +74,9 @@ Vào [1945](../_/1945.md), sau cái chết của <a class="extiw" href="http://e
 
 Sau khi nghỉ hưu, Tolkien [có bài phát biểu](../V/Valedictory_Address_to_the_University_of_Oxford.md) vào [5 tháng 6](../_/5_June.md) [1959](../_/1959.md) tại Hội trường Đại học Merton.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
-Oxford giữ cho ông được kết nối với tư cách là một thành viên danh dự của trường đại học, với danh hiệu danh dự là Giáo sư danh dự.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+Oxford giúp ông luôn kết nối với tư cách là một thành viên danh dự của trường đại học, với danh hiệu danh dự là Giáo sư danh dự.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
-### Tolkien Chức danh giáo sư {#Tolkien_Professorship}
+### Chức giáo sư Tolkien {#Tolkien_Professorship}
 
 <div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=University_of_Oxford&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
 <p>...there is much else that may be told.
@@ -88,7 +88,7 @@ Oxford giữ cho ông được kết nối với tư cách là một thành viê
 
 ## Trường cao đẳng {#Colleges}
 
-Đại học Oxford bao gồm 36 trường cao đẳng là các tập đoàn tự chủ và tự quản trong khuôn viên trường Đại học.
+Đại học Oxford bao gồm 36 trường cao đẳng, là các tập đoàn tự trị và tự quản trong trường.
 
 <dl><dd><i>See also: <a class="extiw" href="http://en.wikipedia.org/wiki/Colleges_of_the_University_of_Oxford" title="wikipedia:Colleges of the University of Oxford">Colleges of the University of Oxford</a> at <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a></i></dd></dl>
 
@@ -111,7 +111,7 @@ Oxford giữ cho ông được kết nối với tư cách là một thành viê
 ### Trường Cao đẳng Keble {#Keble_College}
 
 - [Robert Havard](../R/Robert_Havard.md)
-- [Humphrey Carpenter](../H/Humphrey_Carpenter.md)
+- [Thợ mộc Humphrey](../H/Humphrey_Carpenter.md)
 - [J.R.R. Tolkien Hội nghị kỷ niệm 100 năm](../J/J.R.R._Tolkien_Centenary_Conference.md)
 
 ### Quý bà Margaret Hall {#Lady_Margaret_Hall}
@@ -187,13 +187,13 @@ Oxford giữ cho ông được kết nối với tư cách là một thành viê
 
 ## Thư viện Bodleian {#Bodleian_Library}
 
-- Cái [Thư viện Bodleian](../B/Bodleian_Library.md)
+- [Thư viện Bodleian](../B/Bodleian_Library.md)
 
 ## Liên kết ngoài {#External_links}
 
 - <b><a class="external text" href="http://www.ox.ac.uk/" rel="noreferrer noopener" target="_blank">Trang web chính thức</a></b>
 - <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Oxford" title="wikipedia:University of Oxford">Đại học Oxford</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="http://podcasts.ox.ac.uk/series/tolkien-oxford" rel="noreferrer noopener" target="_blank">Tolkien tại Oxford</a> - Podcast khám phá mối quan hệ giữa tác phẩm của J.R.R. Tolkien và Đại học Oxford
+- <a class="external text" href="http://podcasts.ox.ac.uk/series/tolkien-oxford" rel="noreferrer noopener" target="_blank">Tolkien at Oxford</a> - Podcast khám phá mối quan hệ giữa các tác phẩm của J.R.R. Tolkien và Đại học Oxford
 
 <span></span>
 

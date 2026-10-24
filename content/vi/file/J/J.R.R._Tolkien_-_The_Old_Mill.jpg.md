@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Chi tiết tác phẩm "[The Hill: Hobbiton-cross-the-Water](<J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_(Colored).jpg.md>)" của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), mô tả [The Old Mill](../../main/O/Old_Mill.md)
+Chi tiết tác phẩm "[The Hill: Hobbiton-across-the-Water](<J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_(Colored).jpg.md>)" của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), mô tả [The Old Mill](../../main/O/Old_Mill.md)
 
 ## Giấy phép {#Licensing}
 

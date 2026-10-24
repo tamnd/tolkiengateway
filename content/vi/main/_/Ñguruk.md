@@ -15,11 +15,11 @@ sort_keys:
   "Primitive Quendian words": "Nguruk"
 ---
 
-<i><b>ñguruk</b></i> (hoặc *(ñ)guruk*) là một từ [Primitive Quendian](../P/Primitive_Quendian.md) không rõ nghĩa chính xác. Đó là một từ phức tạp biểu thị yếu tố khủng bố lớn đối với [Tiên tộc](../E/Elves.md).<sup id="cite_ref-AC_1-0" class="reference"><a href="#cite_note-AC-1">[1]</a></sup>
+<i><b>ñguruk</b></i> (hoặc *(ñ)guruk*) là một từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) không rõ nghĩa chính xác. Đó là một từ phức tạp biểu thị yếu tố khủng bố lớn đối với [Yêu tinh](../E/Elves.md).<sup id="cite_ref-AC_1-0" class="reference"><a href="#cite_note-AC-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-- [Primitive Quendian](../P/Primitive_Quendian.md) *(g)ruk* (từ [gốc](../S/Sundocarme.md) [RUKU](../R/RUKU.md)) + [Gốc](../S/Sundocarme.md) [NGUR](../N/NGUR.md)<sup id="cite_ref-AC_1-1" class="reference"><a href="#cite_note-AC-1">[1]</a></sup>
+- [Quendian nguyên thủy](../P/Primitive_Quendian.md) *(g)ruk* (từ [root](../S/Sundocarme.md) [RUKU](../R/RUKU.md)) + [Root](../S/Sundocarme.md) [NGUR](../N/NGUR.md)<sup id="cite_ref-AC_1-1" class="reference"><a href="#cite_note-AC-1">[1]</a></sup>
 
 <span></span>
 

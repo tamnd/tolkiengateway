@@ -17,7 +17,7 @@ categories:
 
 Sau đó, họ bị chinh phục bởi [Hengest](../H/Hengest.md) và [Horsa](../H/Horsa.md), con trai của [Eriol](../E/Eriol.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Theo [John Garth](../J/John_Garth.md), họ có khả năng được xác định là <a class="extiw" href="http://en.wikipedia.org/wiki/Gaels" title="wikipedia:Gaels">Gaels</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Theo [John Garth](../J/John_Garth.md), họ có thể được xác định là <a class="extiw" href="http://en.wikipedia.org/wiki/Gaels" title="wikipedia:Gaels">Gaels</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Man in the Moon Stayed Up Too Late"
 ---
 
-Chuyển hướng đến [Người đàn ông trong Mặt Trăng Thức quá khuya](The_Man_in_the_Moon_Stayed_Up_Too_Late.md).
+Chuyển hướng đến [Người đàn ông trên mặt trăng thức quá muộn](The_Man_in_the_Moon_Stayed_Up_Too_Late.md).

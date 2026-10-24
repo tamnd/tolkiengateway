@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Gandalf](../../main/G/Gandalf.md) lượt truy cập [Bilbo](../../main/B/Bilbo_Baggins.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), được xuất bản lần đầu trong [1976 J.R.R. Tolkien Lịch](../../main/_/1976_J.R.R._Tolkien_Calendar.md)
+"[Gandalf](../../main/G/Gandalf.md) lượt thăm [Bilbo](../../main/B/Bilbo_Baggins.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), xuất bản lần đầu trong [1976 J.R.R. Tolkien Lịch](../../main/_/1976_J.R.R._Tolkien_Calendar.md)
 
 ## Giấy phép {#Licensing}
 

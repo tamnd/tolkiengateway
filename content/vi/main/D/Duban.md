@@ -21,7 +21,7 @@ categories:
 
 ## Phiên bản khác {#Other_versions}
 
-Từ *duban* tồn tại theo lời giải thích của *[Azanulbizar](../A/Azanulbizar.md)* "Thung lũng Dimrill" phủ nhận rằng *[bizar](../B/Bizar.md)* bản thân nó là từ chỉ "dale, thung lũng". Theo cách giải thích này, tên đầy đủ của vale là *duban Azanulbizar*, nhưng phần tử ban đầu có thể bị bỏ qua và có thể hiểu được. Trong trường hợp này, *bizar* có nghĩa là "stream, rill". <span></span>
+Từ *duban* tồn tại theo lời giải thích của *[Azanulbizar](../A/Azanulbizar.md)* "Dimrill Dale" phủ nhận rằng *[bizar](../B/Bizar.md)* bản thân nó là từ chỉ "dale, thung lũng". Theo cách giải thích này, tên đầy đủ của vale là *duban Azanulbizar*, nhưng phần tử ban đầu có thể bị bỏ qua và có thể hiểu được. Trong trường hợp này, *bizar* có nghĩa là "stream, rill". <span></span>
 
 ## Tài liệu tham khảo {#References}
 

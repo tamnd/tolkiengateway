@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aragorn"
 ---
 
-Chuyển hướng đến [Aragorn](Aragorn.md).
+Chuyển hướng tới [Aragorn](Aragorn.md).

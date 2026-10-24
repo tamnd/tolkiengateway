@@ -23,11 +23,11 @@ langlinks:
     url: "https://kontu.wiki/Vista"
 ---
 
-**Vista** ([Q](../Q/Quenya.md), phát âm. <span title="Pronunciation in IPA" class="IPA">[ˈvista]</span>) hoặc **Wista** (phát âm <span title="Pronunciation in IPA" class="IPA">[ˈwista]</span>) là một phần bầu không khí bao quanh thế giới [Arda](../A/Arda.md) trước trận đại hồng thủy vào cuối [Thời đại thứ hai](../S/Second_Age.md).
+**Vista** ([Q](../Q/Quenya.md), phát âm. <span title="Pronunciation in IPA" class="IPA">[ˈvista]</span>) hoặc **Wista** (phát âm <span title="Pronunciation in IPA" class="IPA">[ˈwista]</span>) là một phần bầu không khí bao quanh thế giới [Arda](../A/Arda.md) trước trận đại hồng thủy vào cuối [Kỷ nguyên thứ hai](../S/Second_Age.md).
 
-Vista là tầng thấp nhất của bầu khí quyển, chứa đầy không khí dễ thở thông thường: phía trên là [Ilmen](../I/Ilmen.md) và phía trên là [Vaiya](Vaiya.md). Vista được chia thành hai phần: Phần trên là [Fanyamar](../F/Fanyamar.md), ngôi nhà của mây và phần dưới là [Aiwenórë](../A/Aiwenórë.md), "vùng đất" của các loài chim. Vista chỉ nằm trên [Trung Địa](../M/Middle-earth.md) và biển; nó được bao bọc bởi [Dãy Núi của Valinor](../P/Pelóri.md) ở Phương Tây, [Tường của Mặt Trời](../G/Gates_of_Morning.md) ở phương Đông và [Những Bức tường của Thế giới](../W/Walls_of_the_World.md) ở phía Bắc và phía Nam.
+Vista là tầng thấp nhất của bầu khí quyển, chứa đầy không khí dễ thở bình thường: phía trên là [Ilmen](../I/Ilmen.md) và phía trên là [Vaiya](Vaiya.md). Vista được chia thành hai phần: Phần trên là [Fanyamar](../F/Fanyamar.md), ngôi nhà của mây và phần dưới là [Aiwenórë](../A/Aiwenórë.md), "vùng đất" của các loài chim. Vista chỉ nằm trên [Trung địa](../M/Middle-earth.md) và biển; nó được bao bọc bởi [Núi Valinor](../P/Pelóri.md) ở phía Tây, [Bức tường Mặt trời](../G/Gates_of_Morning.md) ở phía Đông và [Bức tường Thế giới](../W/Walls_of_the_World.md) ở phía Bắc và Nam.
 
-Không khí trong [Valinor](Valinor.md) là của [Ilmen](../I/Ilmen.md) chỉ có thể nuôi sống những người hầu của [Manwë](../M/Manwë.md) hoặc những người được anh ta ban cho khả năng này. Do đó, những sinh vật phàm trần của Trung Địa bị ràng buộc trong giới hạn của Vista khi chúng sống.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Không khí trong [Valinor](Valinor.md) là của [Ilmen](../I/Ilmen.md) chỉ có thể duy trì những người hầu của [Manwë](../M/Manwë.md) hoặc những người được ông ta ban cho khả năng này. Do đó, các sinh vật phàm trần của Trung Địa bị ràng buộc trong giới hạn của Vista khi họ sống.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

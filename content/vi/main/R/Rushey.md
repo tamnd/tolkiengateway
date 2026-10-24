@@ -40,9 +40,9 @@ infobox:
 
 ## Từ nguyên {#Etymology}
 
-Tên có nghĩa là "Đảo vội vàng". [David Salo](../D/David_Salo.md) đã gợi ý một từ nguyên [Cũ Hobbitish](../O/Old_English.md) từ \**Ryscieg*.<sup id="cite_ref-Salo_3-0" class="reference"><a href="#cite_note-Salo-3">[3]</a></sup> <i><a class="extiw" href="http://en.wiktionary.org/wiki/ey#Old_Norse" title="wiktionary:ey">-ey</a></i> hoặc *-y* trong các địa danh tiếng Anh có nghĩa là "hòn đảo nhỏ", như đã thấy trong [Girdley](../G/Girdley.md).<sup id="cite_ref-Nomen_2-1" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup>
+Tên có nghĩa là "Đảo vội vàng". [David Salo](../D/David_Salo.md) đã đề xuất một từ nguyên [Hobbitish cổ](../O/Old_English.md) từ \**Ryscieg*.<sup id="cite_ref-Salo_3-0" class="reference"><a href="#cite_note-Salo-3">[3]</a></sup> <i><a class="extiw" href="http://en.wiktionary.org/wiki/ey#Old_Norse" title="wiktionary:ey">-ey</a></i> hoặc *-y* trong các địa danh tiếng Anh có nghĩa là "hòn đảo nhỏ", như đã thấy trong [Girdley](../G/Girdley.md).<sup id="cite_ref-Nomen_2-1" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup>
 
-Được mệnh danh là “*một 'cứng' giữa đầm Marish*"<sup id="cite_ref-Nomen_2-2" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup> tạo thành một "hòn đảo" biệt lập giữa mặt đất sũng nước; danh pháp này cũng được thấy ở <a class="extiw" href="http://en.wikipedia.org/wiki/Isle_of_Ely" title="wikipedia:Isle of Ely">Đảo Ely</a>.<sup id="cite_ref-Salo_3-1" class="reference"><a href="#cite_note-Salo-3">[3]</a></sup>
+Nó được mệnh danh là “*một 'cứng' giữa đầm lầy Marish*"<sup id="cite_ref-Nomen_2-2" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup> tạo thành một "hòn đảo" biệt lập giữa mặt đất sũng nước; danh pháp này cũng được thấy ở <a class="extiw" href="http://en.wikipedia.org/wiki/Isle_of_Ely" title="wikipedia:Isle of Ely">Đảo Ely</a>.<sup id="cite_ref-Salo_3-1" class="reference"><a href="#cite_note-Salo-3">[3]</a></sup>
 
 Tên được đánh vần là "Rushy" trên [A Part of the Shire](../A/A_Part_of_the_Shire.md).<sup id="cite_ref-Part_1-2" class="reference"><a href="#cite_note-Part-1">[1]</a></sup><sup id="cite_ref-Salo_3-2" class="reference"><a href="#cite_note-Salo-3">[3]</a></sup>
 

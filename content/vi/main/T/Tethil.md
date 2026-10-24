@@ -14,11 +14,11 @@ categories:
   - "Gnomish names"
 ---
 
-**Tethil** là tên của một loài hoa sống ở hoa anh túc [fay](../F/Fays.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) liên quan đến *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Tet_1-0" class="reference"><a href="#cite_note-Tet-1">[1]</a></sup> Không có thông tin nào khác về cô ấy và cô ấy không xuất hiện trong bất kỳ câu chuyện nào.
+**Tethil** là tên của một loài hoa sống ở hoa anh túc [fay](../F/Fays.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) liên quan đến *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Tet_1-0" class="reference"><a href="#cite_note-Tet-1">[1]</a></sup> Không có thông tin nào khác về bà và bà không xuất hiện trong bất kỳ câu chuyện nào.
 
 ## Từ nguyên {#Etymology}
 
-Tên *Tethil* có trong [Gnomish](../G/Gnomish.md)và nó bao gồm phần tử <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Teth&amp;action=edit&amp;redlink=1" title="Teth (page does not exist)">teth</a></i> ("một nụ").<sup id="cite_ref-Tet_1-1" class="reference"><a href="#cite_note-Tet-1">[1]</a></sup> Tương tự [Qenya](../Q/Qenya.md) của nó là <i><b>Tetillë</b></i>, một sự phát triển trên <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tetl&amp;action=edit&amp;redlink=1" title="Tetl (page does not exist)">tetl</a></i> ("bông hoa nhỏ"), có nguồn gốc từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=TETE&amp;action=edit&amp;redlink=1" title="TETE (page does not exist)">TETE</a> ("nụ, hoa").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên *Tethil* có trong [Gnomish](../G/Gnomish.md) và nó bao gồm phần tử <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Teth&amp;action=edit&amp;redlink=1" title="Teth (page does not exist)">teth</a></i> ("một nụ").<sup id="cite_ref-Tet_1-1" class="reference"><a href="#cite_note-Tet-1">[1]</a></sup> [Qenya](../Q/Qenya.md) cùng nguồn gốc của nó là <i><b>Tetillë</b></i>, một sự phát triển trên <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tetl&amp;action=edit&amp;redlink=1" title="Tetl (page does not exist)">tetl</a></i> ("bông hoa nhỏ"), có nguồn gốc từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=TETE&amp;action=edit&amp;redlink=1" title="TETE (page does not exist)">TETE</a> ("nụ, hoa").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

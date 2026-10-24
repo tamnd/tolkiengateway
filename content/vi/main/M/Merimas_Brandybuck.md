@@ -48,23 +48,23 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Merimas_Brandybuck.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a1/The_Lord_of_the_Rings_Online_-_Merimas_Brandybuck.jpg/248px-The_Lord_of_the_Rings_Online_-_Merimas_Brandybuck.jpg" decoding="async" loading="lazy" width="248" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a1/The_Lord_of_the_Rings_Online_-_Merimas_Brandybuck.jpg/372px-The_Lord_of_the_Rings_Online_-_Merimas_Brandybuck.jpg 1.5x, https://tolkiengateway.net/w/images/a/a1/The_Lord_of_the_Rings_Online_-_Merimas_Brandybuck.jpg 2x" data-file-width="450" data-file-height="870"/></a><figcaption>Merimas Brandybuck from <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Merimas Brandybuck</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Buckland.md" title="Buckland">Buckland</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2981.md" title="Third Age 2981">1381</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../B/Brandybuck_Family~66350.md" title="Brandybuck Family">Brandybuck</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="Marmadas_Brandybuck.md" title="Marmadas Brandybuck">Marmadas Brandybuck</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="Mentha_Brandybuck.md" title="Mentha Brandybuck">Mentha</a> and <a href="Melilot_Brandybuck.md" title="Melilot Brandybuck">Melilot</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Merimas_Brandybuck.md" title="Category:Images of Merimas Brandybuck">Images of Merimas Brandybuck</a></td></tr></tbody></table>
 
-**Merimas Brandybuck** là [Hobbit](../H/Hobbits.md) trong số [Buckland](../B/Buckland.md).
+**Merimas Brandybuck** là một [Hobbit](../H/Hobbits.md) của [Buckland](../B/Buckland.md).
 
 ## Lịch sử {#History}
 
-Merimas là con cả và con trai duy nhất của [Marmadas Brandybuck](Marmadas_Brandybuck.md). Anh ấy đã có mặt tại [Bilbo Tiệc sinh nhật](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Merimas là con cả và con trai duy nhất của [Marmadas Brandybuck](Marmadas_Brandybuck.md). Ông đã có mặt tại [Bữa tiệc sinh nhật của Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Ý nghĩa của tên *Merimas* vẫn chưa được biết. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên của Bucklanders có phong cách [Celtic](../C/Celtic.md) mơ hồ.<sup id="cite_ref-Translation_2-0" class="reference"><a href="#cite_note-Translation-2">[2]</a></sup>
+Ý nghĩa của tên *Merimas* vẫn chưa được biết. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên của Bucklanders mang phong cách [Celtic](../C/Celtic.md) mơ hồ.<sup id="cite_ref-Translation_2-0" class="reference"><a href="#cite_note-Translation-2">[2]</a></sup>
 
-[Jim Allan](../J/Jim_Allan.md) gợi ý rằng *Merimas* là một biến thể của tên *[Merimac](Merimac_Brandybuck.md)* có đuôi *-as*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Jim Allan](../J/Jim_Allan.md) gợi ý rằng *Merimas* là một biến thể của tên *[Merimac](Merimac_Brandybuck.md)* với phần cuối *-as*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Phần tử đầu tiên, *Meri* cũng xuất hiện trong *[Meriadoc](Meriadoc_Brandybuck.md)*.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Merimas Brandybuck can be found in <a href="../B/Buckland.md" title="Buckland">Buckland</a>. He occupies the role of a crafting vendor in the game and plays no role in the storyline.</dd></dl>
 

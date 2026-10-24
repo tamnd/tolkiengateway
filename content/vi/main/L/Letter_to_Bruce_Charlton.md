@@ -14,7 +14,7 @@ sort_keys:
   "Letters": "Charlton, Bruce"
 ---
 
-Vào [14 tháng 6](../_/14_June.md) [1973](../_/1973.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **một <i><a class="extiw" href="http://en.wikipedia.org/wiki/Procuration" title="wikipedia:Procuration">mỗi lần mua sắm</a></i> [thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi Bruce Charlton**.<sup id="cite_ref-Notion_1-0" class="reference"><a href="#cite_note-Notion-1">[1]</a></sup>
+Vào [14 tháng 6](../_/14_June.md) [1973](../_/1973.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **a <i><a class="extiw" href="http://en.wikipedia.org/wiki/Procuration" title="wikipedia:Procuration">per procurationem</a></i> [thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi Bruce Charlton**.<sup id="cite_ref-Notion_1-0" class="reference"><a href="#cite_note-Notion-1">[1]</a></sup>
 
 ## Trích {#Excerpt}
 

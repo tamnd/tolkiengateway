@@ -12,12 +12,12 @@ categories:
   - "The Shire"
 ---
 
-Một **Shire-muster** đã được [Thain](../T/Thain.md) của [ Shire](../T/The_Shire.md) gọi đến trong trường hợp khẩn cấp, nhằm nâng cao [Sự đồng tình trong tay](../H/Hobbitry-in-arms.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Một **Shire-muster** đã được [Thain](../T/Thain.md) của [Shire](../T/The_Shire.md) gọi đến trong trường hợp khẩn cấp, nhằm nâng cao [Hobbitry-in-arms](../H/Hobbitry-in-arms.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Shire-tranh luận](Shire-moot.md)
-- [Công bằng miễn phí](../F/Free_Fair.md)
+- [Shire-moot](Shire-moot.md)
+- [Hội chợ miễn phí](../F/Free_Fair.md)
 
 <span></span>
 

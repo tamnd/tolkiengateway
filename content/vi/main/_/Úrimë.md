@@ -16,13 +16,13 @@ sort_keys:
   "Quenya nouns": "Urime"
 ---
 
-**Úrimë** (*Urui* ở [Sindarin](../S/Sindarin.md)) là tháng thứ tám trong năm trong [Vua's Reckoning](../K/King's_Reckoning.md) và [Stewards' Reckoning](../S/Stewards'_Reckoning.md) của [Gondor](../G/Gondor.md), sau [Cermië](../C/Cermië.md) và trước [Yavannië](../Y/Yavannië.md). Trong [Tính toán mới](../N/New_Reckoning.md) đó là tháng thứ năm trong năm.
+**Úrimë** (*Urui* ở [Sindarin](../S/Sindarin.md)) là tháng thứ tám trong năm trong [Sự tính toán của Nhà vua](../K/King's_Reckoning.md) và [Sự tính toán của Quản gia](../S/Stewards'_Reckoning.md) của [Gondor](../G/Gondor.md), sau [Cermië](../C/Cermië.md) và trước đó [Yavannië](../Y/Yavannië.md). Trong [Tính toán mới](../N/New_Reckoning.md) đó là tháng thứ năm trong năm.
 
-*Úrimë* trong Cuộc tính toán của các vị vua (và phần lớn trong Cuộc tính toán của người quản gia) tương ứng với [Thứ tư](../W/Wedmath.md) trong [Lịch Shire](../S/Shire_Calendar.md) (khoảng [ngày 24 tháng 7](24_July.md) đến [22 tháng 8](22_August.md) hiện đại).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+*Úrimë* trong Cuộc tính toán của các vị vua (và phần lớn trong Cuộc tính toán của người quản lý) tương ứng với [Thứ tư](../W/Wedmath.md) trong [Lịch Quận](../S/Shire_Calendar.md) (khoảng [24 tháng 7](24_July.md) đến [22 tháng 8](22_August.md) hiện đại).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Phần tử đầu tiên của *Urui* là *Ur-*, bắt nguồn từ Sindarin *ûr* "lửa, nhiệt".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Phần tử thứ hai *-ui* là một kết thúc tính từ phổ biến,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> cũng xuất hiện trong các tên Sindarin khác của các tháng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Thành phần đầu tiên của *Urui* là *Ur-*, bắt nguồn từ tiếng Sindarin *ûr* "lửa, nhiệt".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Thành phần thứ hai *-ui* là một đuôi tính từ phổ biến,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> cũng xuất hiện trong các tên tiếng Sindarin khác của các tháng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

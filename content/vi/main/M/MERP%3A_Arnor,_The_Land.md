@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arnor: The Land"
 ---
 
-Chuyển hướng đến [Arnor: Vùng đất](../A/Arnor%253A_The_Land.md).
+Chuyển hướng đến [Arnor: The Land](../A/Arnor%253A_The_Land.md).

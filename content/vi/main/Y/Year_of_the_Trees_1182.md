@@ -15,15 +15,15 @@ categories:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Trees</div><div class="tg-timelinenav-links"><a href="Year_of_the_Trees_1169.md" title="Year of the Trees 1169">1169</a><a href="Year_of_the_Trees_1170.md" title="Year of the Trees 1170">1170</a><a href="Year_of_the_Trees_1172.md" title="Year of the Trees 1172">1172</a><a class="mw-selflink selflink">1182</a><a href="Year_of_the_Trees_1185.md" title="Year of the Trees 1185">1185</a><a href="Year_of_the_Trees_1190.md" title="Year of the Trees 1190">1190</a><a href="Year_of_the_Trees_1200.md" title="Year of the Trees 1200">1200</a></div></div></div></div></div></div>
 
-**Năm Cây 1182** (viết tắt là **Y.T. 1182**) là [năm Cây](Years_of_the_Trees.md) thứ 1182 trong [Kỷ Đệ Nhất](../F/First_Age.md) năm [Arda](../A/Arda.md). Năm Cây 1182 cũng là **V.Y. 4682** trong [Năm Valian](../V/Valian_Years.md).
+**Năm Cây 1182** (viết tắt là **Y.T. 1182**) là [năm Cây](Years_of_the_Trees.md) thứ 1182 trong [Kỷ nguyên thứ nhất](../F/First_Age.md) của [Arda](../A/Arda.md). Năm Cây 1182 cũng là **V.Y. 4682** trong [Năm Valian](../V/Valian_Years.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sau mười hai năm kể từ cái chết của [Míriel](../M/Míriel.md) vào [Y.T.](Years_of_the_Trees.md) [1170](Year_of_the_Trees_1170.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> "[Quy chế Finwë và Míriel](../S/Statute_of_Finwë_and_Míriel.md)" được [Mandos](../M/Mandos.md) và [Manwë](../M/Manwë.md) công bố, và [Finwë](../F/Finwë.md) được phép kết hôn lần nữa sau khi Míriel cuối cùng từ chối làm cho sống lại.<sup id="cite_ref-LQ2_2-0" class="reference"><a href="#cite_note-LQ2-2">[2]</a></sup>
+- Sau mười hai năm kể từ cái chết của [Míriel](../M/Míriel.md) ở [Y.T.](Years_of_the_Trees.md) [1170](Year_of_the_Trees_1170.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> "[Quy chế Finwë và Míriel](../S/Statute_of_Finwë_and_Míriel.md)" được [Mandos](../M/Mandos.md) và [Manwë](../M/Manwë.md) công bố, và [Finwë](../F/Finwë.md) được phép kết hôn lần nữa sau khi Míriel cuối cùng từ chối được sống lại.<sup id="cite_ref-LQ2_2-0" class="reference"><a href="#cite_note-LQ2-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-- Trong các phiên bản trước đó, [Điều lệ Finwë và Míriel](../S/Statute_of_Finwë_and_Míriel.md) đã được công bố vào ngày [Y.T.](Years_of_the_Trees.md) [1172](Year_of_the_Trees_1172.md).<sup id="cite_ref-Annals_3-0" class="reference"><a href="#cite_note-Annals-3">[3]</a></sup><sup id="cite_ref-early_4-0" class="reference"><a href="#cite_note-early-4">[4]</a></sup>
+- Trong các phiên bản trước đó, [Quy chế Finwë và Míriel](../S/Statute_of_Finwë_and_Míriel.md) được công bố vào ngày [Y.T.](Years_of_the_Trees.md) [1172](Year_of_the_Trees_1172.md).<sup id="cite_ref-Annals_3-0" class="reference"><a href="#cite_note-Annals-3">[3]</a></sup><sup id="cite_ref-early_4-0" class="reference"><a href="#cite_note-early-4">[4]</a></sup>
 
 <span></span>
 

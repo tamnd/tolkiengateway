@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Ancrene_Wisse_and_Hali_Mei%C3%B0had"
 ---
 
-<i><b>Ancrene Wisse và Hali Meiðhad</b></i> là một bài tiểu luận [1929](../_/1929.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về [tiếng Anh trung cổ](../M/Middle_English.md) đầu thế kỷ 13 chuyên luận Ancrene Wisse "Quy tắc của các nữ neo" và về tiểu luận về trinh tiết Hali Meiðhad "Holy Maidenhood". Trong bài luận được gọi là "tác phẩm học thuật hoàn hảo nhất dù không phải là nổi tiếng nhất của \[Tolkien\]",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ông đã đặt ra thuật ngữ "[ngôn ngữ AB](AB_language.md)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>Ancrene Wisse và Hali Meiðhad</b></i> là một bài tiểu luận [1929](../_/1929.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về chuyên luận đầu thế kỷ 13 [tiếng Anh trung cổ](../M/Middle_English.md) của Ancrene Wisse "Quy tắc của các nữ neo" và về tiểu luận về trinh tiết của Hali Meiðhad "Thánh nữ trinh nữ". Trong bài luận được coi là "hoàn hảo nhất nhưng không phải là bài viết học thuật nổi tiếng nhất của \[Tolkien\]",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ông đã đặt ra thuật ngữ "[ngôn ngữ AB](AB_language.md)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

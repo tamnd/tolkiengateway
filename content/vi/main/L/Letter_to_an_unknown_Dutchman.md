@@ -24,7 +24,7 @@ images:
 [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho một người Hà Lan vô danh**, đóng dấu bưu điện [ngày 3 tháng 4](../_/3_April.md) [1958](../_/1958.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Chủ đề:** Thư trả lời của một người Hà Lan đã mời Tolkien uống một tách trà.
-- **Mô tả:** Thư xin chữ ký, 1 trang. Được ký là [Gandalf](../G/Gandalf.md) phía trên [tengwa](../T/Tengwar.md) *[ungwë](../U/Ungwë.md)*. Ở phía dưới Tolkien có viết "2 [Astron](../A/Astron.md)" (xem [Lịch Shire](../S/Shire_Calendar.md)).
+- **Mô tả:** Thư xin chữ ký, 1 trang. Đã ký là [Gandalf](../G/Gandalf.md) phía trên [tengwa](../T/Tengwar.md) *[ungwë](../U/Ungwë.md)*. Ở phía dưới Tolkien viết "2 [Astron](../A/Astron.md)" (xem [Lịch Shire](../S/Shire_Calendar.md)).
 
 - **Xuất bản:** Chưa xuất bản.
 

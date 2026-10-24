@@ -44,9 +44,9 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Lord_of_the_Rings%253A_Gollum.md" title="The Lord of the Rings: Gollum">The Lord of the Rings: Gollum</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Mell** là một [Sinda](../S/Sindar.md) [Tiên](../E/Elves_of_Mirkwood.md) người mù bị giam giữ trong các tầng hầm của Sảnh [Vua Tiên](../E/Elvenking's_Halls.md). Mell được [Daedalic Entertainment](../D/Daedalic_Entertainment.md) phát minh cho *[The Lord of the Rings: Gollum](../T/The_Lord_of_the_Rings%253A_Gollum.md)*, nơi cô được miêu tả bởi Jessica Ellerby.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Mell** là một [Sinda](../S/Sindar.md) [Yêu tinh](../E/Elves_of_Mirkwood.md) mù bị giam giữ trong các tầng hầm của [Sảnh của Elvenking](../E/Elvenking's_Halls.md). Mell được [Daedalic Entertainment](../D/Daedalic_Entertainment.md) phát minh cho *[The Lord of the Rings: Gollum](../T/The_Lord_of_the_Rings%253A_Gollum.md)*, nơi cô được miêu tả bởi Jessica Ellerby.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-**Mell** là một trong những người đi theo <a class="new" href="https://tolkiengateway.net/w/index.php?title=Gwendil&amp;action=edit&amp;redlink=1" title="Gwendil (page does not exist)">Gwendil</a>và là người đi theo duy nhất sống sót sau chuyến đi vào [Mirkwood](Mirkwood.md).
+**Mell** là một trong những tín đồ của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Gwendil&amp;action=edit&amp;redlink=1" title="Gwendil (page does not exist)">Gwendil</a>và là tín đồ duy nhất sống sót sau chuyến đi vào [Mirkwood](Mirkwood.md).
 
 ## Lịch sử {#History}
 
@@ -58,7 +58,7 @@ infobox:
 
 ## Từ nguyên {#Etymology}
 
-<i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mell&amp;action=edit&amp;redlink=1" title="Mell (page does not exist)">Mell</a></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "bạn ơi, bạn yêu quý".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mell&amp;action=edit&amp;redlink=1" title="Mell (page does not exist)">Mell</a></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "thân yêu, yêu quý".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

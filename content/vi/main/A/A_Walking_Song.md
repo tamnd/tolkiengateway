@@ -80,7 +80,7 @@ We&#39;ll wander back to home and bed.<br/>
 </p>
 </div>
 
-Khi bài hát kết thúc, Pippin hát lại câu cuối cùng một cách mệt mỏi nhưng đã thay đổi nó để phù hợp với mong muốn được nghỉ ngơi của anh ấy: "Và *now* đi ngủ! Và *now* đi ngủ!" Frodo anh ta im lặng khi nghe thấy tiếng vó ngựa đến gần.<sup id="cite_ref-hike_1-3" class="reference"><a href="#cite_note-hike-1">[1]</a></sup>
+Khi bài hát kết thúc, Pippin hát lại câu cuối cùng một cách mệt mỏi nhưng đã thay đổi nó để phù hợp với mong muốn được nghỉ ngơi của ông: "Và *now* đi ngủ! Và *now* đi ngủ!" Frodo ông ta im lặng khi nghe thấy tiếng vó ngựa đến gần.<sup id="cite_ref-hike_1-3" class="reference"><a href="#cite_note-hike-1">[1]</a></sup>
 
 Vào [22 tháng Chín](../_/22_September.md) [T.A.](../T/Third_Age.md) [3021](../T/Third_Age_3021.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> [Sam](../S/Samwise_Gamgee.md) đã nghe thấy một phiên bản thay đổi của bài hát đi bộ của Bilbo được hát nhẹ nhàng bởi Frodo khi họ đi về phía tây qua [ Shire](../T/The_Shire.md) ngay trước khi họ gặp [Elrond](../E/Elrond.md), [Galadriel](../G/Galadriel.md), [Gildor](../G/Gildor.md) và nơi khác [Tiên tộc](../E/Elves.md) hướng tới [Cảng Xám](../G/Grey_Havens.md) khởi hành đi [Vùng Đất Bất Tử](../U/Undying_Lands.md):<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 

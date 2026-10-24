@@ -67,11 +67,11 @@ Sự kiện xảy ra vào ngày 15 tháng 5
 ## Trên Trái đất {#On_Earth}
 
 - **[1945](1945.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 99](../L/Letter_99.md).
-- **[1945](1945.md)** - [Mơ hồ](../I/Inklings.md) [Charles Williams](../C/Charles_Williams.md) chết.
+- **[1945](1945.md)** - [Inkling](../I/Inklings.md) [Charles Williams](../C/Charles_Williams.md) qua đời.
 - **[1967](1967.md)** - Nhà ngôn ngữ học [Ivan Derzhanski](../I/Ivan_Derzhanski.md) ra đời.
-- **[2004](2004.md)** - Cuối tuần Tolkien của [Hội Tolkien](../T/The_Tolkien_Society.md) ở [Sarehole](../S/Sarehole_Mill.md), [Birmingham](../B/Birmingham.md).
+- **[2004](2004.md)** - [Cuối tuần Tolkien của Hiệp hội Tolkien](../T/The_Tolkien_Society.md) ở [Sarehole](../S/Sarehole_Mill.md), [Birmingham](../B/Birmingham.md).
 - **[2007](2007.md)** - Nghệ sĩ [Angus McBride](../A/Angus_McBride.md) qua đời.
-- **[2010](2010.md)** - Cuối tuần Trung Địa của [Hội Tolkien](../T/The_Tolkien_Society.md) ở [Sarehole](../S/Sarehole_Mill.md), [Birmingham](../B/Birmingham.md).
+- **[2010](2010.md)** - [Cuối tuần ở Trung Địa của Hiệp hội Tolkien](../T/The_Tolkien_Society.md) ở [Sarehole](../S/Sarehole_Mill.md), [Birmingham](../B/Birmingham.md).
 - **[2015](2015.md)** - Diễn viên lồng tiếng [John Stephenson](../J/John_Stephenson.md) qua đời.
 
 ## Trong Arda {#In_Arda}

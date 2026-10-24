@@ -93,22 +93,22 @@ images:
 <td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">See also: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Round World version of the legendarium</a></b>
 </td></tr></tbody></table>
 
-**Năm Valian** là tham chiếu đến thời gian trôi qua trong [Arda](../A/Arda.md), sau khi [Ainur](../A/Ainur.md) xuất hiện trong đó và trước khi [Hai Cây](../T/Two_Trees_of_Valinor.md) của [Valinor](Valinor.md) bị phá hủy bởi [Melkor](../M/Morgoth.md) và [Ungoliant](../U/Ungoliant.md). Năm Valian cuối cùng cũng kết thúc với sự trỗi dậy đầu tiên của [Mặt Trời](../S/Sun.md) vào cuối [Kỷ Đệ Nhất](../F/First_Age.md).
+**Năm Valian** là tham chiếu đến thời gian trôi qua ở [Arda](../A/Arda.md), sau khi [Ainur](../A/Ainur.md) xuất hiện trong đó và trước khi [Hai Cây](../T/Two_Trees_of_Valinor.md) của [Valinor](Valinor.md) bị [Melkor](../M/Morgoth.md) và [Ungoliant](../U/Ungoliant.md) phá hủy. Năm Valian cuối cùng cũng kết thúc với sự xuất hiện đầu tiên của [Mặt trời](../S/Sun.md) vào cuối [Kỷ nguyên thứ nhất](../F/First_Age.md).
 
 Cả hai Cây đều có chu kỳ bằng nhau và nhất quán, trong đó mỗi cây sẽ sáp lại, nở rộ và tỏa sáng, sau đó tàn lụi và ngừng tỏa sáng. Chu kỳ này, bắt đầu từ sự ra hoa của [Telperion](../T/Telperion.md), họ coi là "Ngày Valian".<sup id="cite_ref-AAm_1-0" class="reference"><a href="#cite_note-AAm-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§29</sup>
 
-Hai lần trong mỗi Ngày Valian, khi một Cây suy yếu và Cây kia già đi, có một khoảng thời gian ánh sáng dịu hơn khi cả hai Cây đều mờ nhạt và vàng và bạc hòa lẫn vào nhau.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§17</sup> Khoảng thời gian của khoảng thời gian này Valar được coi là "Giờ Valian" và đó là một phần mười hai của Ngày Valian.<sup id="cite_ref-AAm_1-1" class="reference"><a href="#cite_note-AAm-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§29</sup>
+Hai lần trong mỗi Ngày Valian, khi một Cây suy yếu và Cây kia già đi, có một khoảng thời gian ánh sáng dịu hơn khi cả hai Cây đều mờ nhạt và vàng và bạc hòa lẫn vào nhau.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§17</sup> Khoảng thời gian của khoảng thời gian này mà các Valar coi là "Giờ Valian", và đó là ngày thứ mười hai của Ngày Valian.<sup id="cite_ref-AAm_1-1" class="reference"><a href="#cite_note-AAm-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§29</sup>
 
 Do đó, Ngày Valian sẽ bao gồm những điều sau đây:
 
 - Giờ 1 - 5: Telperion tỏa sáng một mình nở rộ
 - Giờ 6: Telperion suy yếu và [Laurelin](../L/Laurelin.md) sáp lại, ánh sáng của chúng hòa quyện vào nhau
-- Giờ 7 - 11: Laurelin một mình tỏa sáng nở rộ
-- Giờ 12: Laurelin tàn và Telperion sáp lại, ánh sáng của chúng hòa quyện vào nhau
+- Giờ 7 - 11: Laurelin cô đơn tỏa sáng nở rộ
+- Giờ 12: Laurelin tàn lụi và Telperion sáp lại, ánh sáng của chúng hòa quyện vào nhau
 
-Cứ sau 1000 Ngày Valian, Cây sẽ đâm ra một nhánh mới và tầm vóc của chúng sẽ tăng lên. Khoảng thời gian này Valar được coi là Năm Valian.<sup id="cite_ref-AAm_1-2" class="reference"><a href="#cite_note-AAm-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§29</sup>
+Cứ sau 1000 Ngày Valian, Cây sẽ đâm ra một nhánh mới và tầm vóc của chúng sẽ tăng lên. Khoảng thời gian này được các Valar coi là Năm Valian.<sup id="cite_ref-AAm_1-2" class="reference"><a href="#cite_note-AAm-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§29</sup>
 
-## Mối liên hệ của Cây với cách tính Mặt Trời {#Relation_of_the_Trees_to_the_reckoning_of_the_Sun}
+## Mối liên hệ của Cây với việc tính toán Mặt trời {#Relation_of_the_Trees_to_the_reckoning_of_the_Sun}
 
 Lượng thời gian thực tế tiêu tốn cho các chu kỳ này đã thay đổi trong suốt quá trình phát triển của huyền thoại.
 
@@ -116,7 +116,7 @@ Trong những năm 1930 và 1940, độ dài của Năm Valian dao động nhẹ
 
 Trong *[The Annals of Aman](../T/The_Annals_of_Aman.md)*, mối tương quan trực tiếp đã được thực hiện với một Giờ Valian bằng bảy giờ mặt trời. Do đó, một Ngày Valian dài 84 giờ mặt trời và một Năm Valian dài 84.000 giờ mặt trời. Điều này có nghĩa là Năm Valian dài 9,582 năm dương lịch.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§§5–10</sup>
 
-Năm 1959, Tolkien đưa ra một sơ đồ mới cho Giờ Valian (VT). Trong đó, một Ngày Valian bằng một [löa](../L/Löa.md) (một năm dương lịch) và tất cả các phép nhân hoặc chia của thời gian đều bằng 12. Càng ngày, 12 Ngày Valian tạo thành một *Valian Month*và 12 Tháng Valian tạo thành một Năm Valian (a [yén](../Y/Yén.md), bằng 144 löa). Một Ngày Valian được chia thành 12 Giờ Valian, các giờ này lại được chia thành *Primes*, *Seconds*, *Terces*, *Quarts*, *Quints*, *Sexts*và cuối cùng là *Minims*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Năm 1959, Tolkien đưa ra một sơ đồ mới cho Giờ Valian (VT). Trong đó, một Ngày Valian bằng một [löa](../L/Löa.md) (một năm dương lịch) và tất cả các phép nhân hoặc chia của thời gian đều bằng 12. Càng ngày, 12 Ngày Valian tạo thành một *Valian Month* và 12 Tháng Valian tạo thành một Năm Valian (a [yén](../Y/Yén.md), bằng 144 löa). Một Ngày Valian được chia thành 12 Giờ Valian, các giờ này lại được chia thành *Primes*, *Seconds*, *Terces*, *Quarts*, *Quints*, *Sexts* và cuối cùng là *Minims*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

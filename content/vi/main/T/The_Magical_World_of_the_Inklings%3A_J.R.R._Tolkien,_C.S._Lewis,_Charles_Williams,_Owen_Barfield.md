@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Magical World of the Inklings"
 ---
 
-Chuyển hướng đến [Thế giới phép thuật của Inklings](The_Magical_World_of_the_Inklings.md).
+Chuyển hướng tới [Thế giới huyền diệu của những chú mực](The_Magical_World_of_the_Inklings.md).

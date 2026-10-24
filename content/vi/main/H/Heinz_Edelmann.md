@@ -42,7 +42,7 @@ Heinz Edelmann dạy thiết kế đồ họa công nghiệp từ năm 1972 đ�
 
 ## Liên kết {#Links}
 
-- <a class="external text" href="http://derhobbit-film.de/img/buecher/hdralt.jpg" rel="noreferrer noopener" target="_blank">Bìa ấn bản The Lord of the Rings tiếng Đức đầu tiên của Heinz Edelmann</a>
+- <a class="external text" href="http://derhobbit-film.de/img/buecher/hdralt.jpg" rel="noreferrer noopener" target="_blank">Bìa cuốn Chúa tể của những chiếc nhẫn đầu tiên ở Đức - ấn bản của Heinz Edelmann</a>
 - <a class="external text" href="http://versandantiquariat.org/img_buecher/7252.jpg" rel="noreferrer noopener" target="_blank">Bìa <i>Fabelhafte Geschichten</i> của Heinz Edelmann</a>
 
 ## Tài liệu tham khảo {#References}

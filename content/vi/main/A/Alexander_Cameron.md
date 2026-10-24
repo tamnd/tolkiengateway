@@ -44,7 +44,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Alexander Cameron được đào tạo tại Exeter và trở thành một nhà sử học hiện đại, đặc biệt quan tâm đến lịch sử <a class="extiw" href="http://en.wikipedia.org/wiki/Spanish_history" title="wikipedia:Spanish history">Tây Ban Nha</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/South_American_history" title="wikipedia:South American history">Nam Mỹ</a>. Sở thích của anh ấy bao gồm sưu tập tiền xu, tem và chơi pianola.
+Alexander Cameron được đào tạo tại Exeter và trở thành một nhà sử học hiện đại, đặc biệt quan tâm đến lịch sử <a class="extiw" href="http://en.wikipedia.org/wiki/Spanish_history" title="wikipedia:Spanish history">Tây Ban Nha</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/South_American_history" title="wikipedia:South American history">Nam Mỹ</a>. Sở thích của ông bao gồm sưu tập tiền xu, tem và chơi pianola.
 
 Các thành viên khác dường như không nhớ việc anh được mời tham gia Câu lạc bộ và anh cũng không bao giờ ký vào hồ sơ của Câu lạc bộ như thói quen của các thành viên khác.<sup id="cite_ref-List_1-0" class="reference"><a href="#cite_note-List-1">[1]</a></sup>
 

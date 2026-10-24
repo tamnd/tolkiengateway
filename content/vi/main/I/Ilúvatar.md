@@ -72,38 +72,38 @@ infobox:
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a> in <a href="../L/Letter_192.md" title="Letter 192">Letter 192</a><sup id="cite_ref-Letter_3-3" class="reference"><a href="#cite_note-Letter-3">[3]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Eru Ilúvatar**, còn được gọi là **Một**, là đấng sáng tạo toàn trí và toàn năng duy nhất. Anh ta đã tồn tại vĩnh viễn trong [Hội trường vượt thời gian](../T/Timeless_Halls.md) và sở hữu [Ngọn Lửa Bất Diệt](../F/Flame_Imperishable.md) trong tinh thần của mình, thứ tạo nên sự tồn tại từ hư vô.
+**Eru Ilúvatar**, còn được gọi là **Một**, là đấng sáng tạo toàn trí và toàn năng duy nhất. Ông ta đã tồn tại vĩnh viễn trong [Hội trường vượt thời gian](../T/Timeless_Halls.md) và sở hữu [Ngọn lửa bất diệt](../F/Flame_Imperishable.md) trong tinh thần, thứ giúp khơi dậy sự tồn tại từ hư vô.
 
 ## Người sáng tạo {#The_Creator}
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Melkor_Weaves_Opposing_Music.jpg.md"><img src="https://tolkiengateway.net/w/images/9/93/Ted_Nasmith_-_Melkor_Weaves_Opposing_Music.jpg" decoding="async" loading="lazy" width="296" height="450" class="mw-file-element" data-file-width="296" data-file-height="450"/></a><figcaption>Eru during the <a class="mw-redirect" href="../G/Great_Music.md" title="Great Music">Great Music</a>, art by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
-Eru đã tạo ra [Ainur](../A/Ainur.md) trước bất kỳ thứ gì khác, người mà anh ấy đã khơi dậy bằng Ngọn Lửa Bất Diệt. Mỗi người Ainu đều đến từ một phần tâm trí của mình. Để họ hiểu rõ hơn, anh ấy trình bày suy nghĩ của mình dưới dạng âm nhạc và lắng nghe Ainur chọn chủ đề của mình và trau chuốt chúng, từ từ học cách hát hòa âm với nhau. Cuối cùng, anh ấy đã cho họ xem chủ đề vĩ đại nhất của mình, bắt họ hát hòa âm và phát triển nó với những quyền năng mới được ban cho. Đây là [Âm nhạc của các Ainur](../M/Music_of_the_Ainur.md).
+Eru đã tạo ra [Ainur](../A/Ainur.md) trước bất cứ thứ gì khác, người mà ông đã khơi dậy bằng Ngọn lửa bất diệt. Mỗi người Ainu đều đến từ một phần tâm trí của mình. Để họ hiểu rõ hơn, ông trình bày suy nghĩ của mình dưới dạng âm nhạc và lắng nghe người Ainur chọn các chủ đề của ông và trau chuốt chúng, từ từ học cách hát hòa âm với nhau. Cuối cùng, ông đã cho họ xem chủ đề vĩ đại nhất của mình, bắt họ hát hòa âm và phát triển nó với những quyền năng mới được ban cho. Đây là [Âm nhạc của người Ainur](../M/Music_of_the_Ainur.md).
 
-Nhờ âm nhạc tuyệt vời này, Eru đã cho họ thấy [Tầm nhìn](../V/Vision_of_Ilúvatar.md) thể hiện những đại sảnh không gian rộng lớn và những câu chuyện diễn ra trong sâu thẳm Thời gian, và một số Ainur đã bị thu hút bởi nó. Eru đã nói "*[eä](<../E/Ea_(verb).md>)*" ("cứ để vậy") và do đó [Eä](../E/Eä.md), vũ trụ, đã được tạo ra.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Thông qua âm nhạc tuyệt vời này, Eru đã cho họ thấy [Tầm nhìn](../V/Vision_of_Ilúvatar.md) cho thấy những không gian rộng lớn và những câu chuyện diễn ra trong sâu thẳm Thời gian, và một số người Ainur đã bị thu hút bởi nó. Eru nói "*[eä](<../E/Ea_(verb).md>)*" ("cứ để vậy") và do đó [Eä](../E/Eä.md), vũ trụ, đã được tạo ra.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Khi tạo ra Eä, anh ấy cũng tạo ra và cố định các quy luật tự nhiên và quy tắc vật lý (*[axani](../A/Axan.md)*) trong đó nó sẽ hoạt động, bị giới hạn trong những điều không thể (*[únati](../_/Únat.md)*) mà không thể bị phá vỡ bởi bất kỳ sinh vật nào, dù mạnh mẽ hay độc ác đến đâu.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Ilúvatar cũng đặt ra và cố định các điều kiện của Thế giới (*[Ambarmenie](../A/Ambarmenie.md)*) mà các sinh vật sẽ sống trong đó.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Khi tạo ra Eä, ông cũng tạo ra và cố định các quy luật tự nhiên và quy tắc vật lý (*[axani](../A/Axan.md)*) trong đó nó sẽ hoạt động, bị giới hạn trong những điều không thể (*[únati](../_/Únat.md)*) mà không thể bị phá vỡ bởi bất kỳ sinh vật nào, dù mạnh mẽ hay độc ác đến đâu.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Ilúvatar cũng đặt ra và ấn định các điều kiện của Thế giới (*[Ambarmenie](../A/Ambarmenie.md)*) mà các sinh vật sẽ sống trong đó.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 ## Chúa {#The_God}
 
-Ainur đã bước vào Eä và định hình thế giới theo Âm nhạc. Eru đã ủy quyền hầu hết hành động trực tiếp trong [Eä](../E/Eä.md) cho Ainur, bao gồm cả việc định hình chính Trái đất ([Arda](../A/Arda.md)).<sup id="cite_ref-S1_9-0" class="reference"><a href="#cite_note-S1-9">[9]</a></sup>
+Người Ainur bước vào Eä và định hình thế giới theo Âm nhạc. Eru ủy quyền hầu hết hành động trực tiếp trong [Eä](../E/Eä.md) cho người Ainur, bao gồm cả việc hình thành Trái đất ([Arda](../A/Arda.md)).<sup id="cite_ref-S1_9-0" class="reference"><a href="#cite_note-S1-9">[9]</a></sup>
 
-Ainur không phải là người toàn tri và có một số điều vượt quá tầm hiểu biết của họ; đó là việc tạo ra [Tiên tộc](../E/Elves.md) và [Con Người](../M/Men.md), trực tiếp là [Những Người Con của Ilúvatar](../C/Children_of_Ilúvatar.md) (*[Eruhíni](../E/Eruhíni.md)*) được tạo mà không có sự ủy quyền của Ainur. Những thứ khác chỉ được Eru biết chính là số mệnh của họ, và chính là [Kết thúc](../T/The_End.md).
+Người Ainur không toàn tri và có một số điều vượt quá tầm hiểu biết của họ; đó là sự sáng tạo của [Yêu tinh](../E/Elves.md) và [Đàn ông](../M/Men.md), những người trực tiếp là [Những đứa con của Ilúvatar](../C/Children_of_Ilúvatar.md) (*[Eruhíni](../E/Eruhíni.md)*) được tạo ra mà không có sự ủy quyền của người Ainur. Những thứ khác chỉ riêng Eru biết là số phận của họ và [Kết thúc](../T/The_End.md).
 
-Hoạt động của Eru liên quan đến tuổi thọ của Arda hoặc Eä không rõ ràng. [Manwë](../M/Manwë.md) là <a class="extiw" href="http://en.wikipedia.org/wiki/vicegerent" title="wikipedia:vicegerent">phó phó</a><sup id="cite_ref-S1_9-1" class="reference"><a href="#cite_note-S1-9">[9]</a></sup> của Eru vào ngày Arda và được biết rằng anh ta đã nhiều lần xin được sự đồng ý của anh ta, như trước khi tạo [Ent](../E/Ents.md)<sup id="cite_ref-aule_10-0" class="reference"><a href="#cite_note-aule-10">[10]</a></sup> hoặc trước [Trận chiến của các Quyền năng](../B/Battle_of_the_Powers.md).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Các trường hợp Eru can thiệp trực tiếp là:
+Các hoạt động của Eru liên quan đến cuộc sống của Arda hay Eä đều không rõ ràng. [Manwë](../M/Manwë.md) là <a class="extiw" href="http://en.wikipedia.org/wiki/vicegerent" title="wikipedia:vicegerent">phó</a><sup id="cite_ref-S1_9-1" class="reference"><a href="#cite_note-S1-9">[9]</a></sup> của Eru trên Arda và được biết rằng ông ta đã tìm kiếm sự đồng ý của Eru nhiều lần, như trước khi tạo ra [Ent](../E/Ents.md)<sup id="cite_ref-aule_10-0" class="reference"><a href="#cite_note-aule-10">[10]</a></sup> hoặc trước [Trận chiến quyền lực](../B/Battle_of_the_Powers.md).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Các trường hợp Eru can thiệp trực tiếp là:
 
-- Thánh hóa việc tạo ra [Người Lùn](../D/Dwarves.md) bởi [Aulë](../A/Aulë.md), ban cho chúng sự sống và sự tỉnh táo, đồng thời là Con nuôi của Ngài.
-- Theo lệnh của [Yavanna](../Y/Yavanna.md), ông đã cho phép [Ent](../E/Ents.md) tồn tại.<sup id="cite_ref-aule_10-1" class="reference"><a href="#cite_note-aule-10">[10]</a></sup>
-- Sự sáng tạo của Eruhíni, [Sự thức tỉnh của Tiên tộc](../A/Awakening_of_the_Elves.md) và [Sự thức tỉnh của Con Người](../A/Awakening_of_Men.md).
-- [Beren](../B/Beren.md) băng qua [Vành đai Melian](../G/Girdle_of_Melian.md) và gặp nhau [Lúthien](../L/Lúthien.md)<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
-- [Númenórean Thảm họa](../C/Changing_of_the_World.md),<sup id="cite_ref-NM|P3xv_5-1" class="reference"><a href="#cite_note-NM|P3xv-5">[5]</a></sup> điều mà chính Valar đã không thể làm được.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
-- Một số sự trùng hợp ngẫu nhiên và dấu hiệu của một đấng quan phòng cao hơn trong suốt lịch sử, chẳng hạn như [Bilbo Baggins](../B/Bilbo_Baggins.md) tìm thấy [Chiếc nhẫn duy nhất](../O/One_Ring.md).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
-- Sự hồi sinh của [Gandalf](../G/Gandalf.md) sau khi anh ta bị giết bởi [Tai Họa của Durin](../D/Durin's_Bane.md), điều mà chỉ có Cơ quan có thẩm quyền cao hơn Valar mới có thể thực hiện được.<sup id="cite_ref-Murray_15-0" class="reference"><a href="#cite_note-Murray-15">[15]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:203</sup>
-- Sự rơi của [Gollum](../G/Gollum.md) vào đám cháy của [Núi Doom](../M/Mount_Doom.md), do đó gián tiếp gây ra sự phá hủy của Nhẫn Chúa.<sup id="cite_ref-Letter_3-4" class="reference"><a href="#cite_note-Letter-3">[3]</a></sup>
+- Thánh hóa việc tạo ra [Người lùn](../D/Dwarves.md) bởi [Aulë](../A/Aulë.md), ban cho họ sự sống và trí tuệ, đồng thời là Con nuôi của ông.
+- Theo lệnh của [Yavanna](../Y/Yavanna.md), ông ta đã cho phép [Ent](../E/Ents.md) tồn tại.<sup id="cite_ref-aule_10-1" class="reference"><a href="#cite_note-aule-10">[10]</a></sup>
+- Sự sáng tạo của Eruhíni, [Sự thức tỉnh của Yêu tinh](../A/Awakening_of_the_Elves.md) và [Sự thức tỉnh của loài người](../A/Awakening_of_Men.md).
+- [Beren](../B/Beren.md) băng qua [Dây đai Melian](../G/Girdle_of_Melian.md) và gặp [Lúthien](../L/Lúthien.md)<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+- [Thảm họa Númenórean](../C/Changing_of_the_World.md),<sup id="cite_ref-NM|P3xv_5-1" class="reference"><a href="#cite_note-NM|P3xv-5">[5]</a></sup> điều mà bản thân các Valar không thể làm được.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+- Một số sự trùng hợp ngẫu nhiên và dấu hiệu của một đấng quan phòng cao hơn trong suốt lịch sử, chẳng hạn như [Bilbo Baggins](../B/Bilbo_Baggins.md) tìm thấy [Chiếc Nhẫn Một](../O/One_Ring.md).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+- Sự hồi sinh của [Gandalf](../G/Gandalf.md) sau khi ông ta bị giết bởi [Durin's Bane](../D/Durin's_Bane.md), một việc mà chỉ có Người có thẩm quyền cao hơn Valar mới có thể thực hiện được.<sup id="cite_ref-Murray_15-0" class="reference"><a href="#cite_note-Murray-15">[15]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:203</sup>
+- Sự rơi của [Gollum](../G/Gollum.md) vào ngọn lửa của [Mount Doom](../M/Mount_Doom.md), do đó gián tiếp gây ra sự phá hủy của Nhẫn Chúa.<sup id="cite_ref-Letter_3-4" class="reference"><a href="#cite_note-Letter-3">[3]</a></sup>
 
 Theo [một số nhà hiền triết](../W/Wise.md) trong số [Edain](../E/Edain.md) của [Thời đại thứ nhất](../F/First_Age.md), Eru sẽ [một ngày nào đó tiến vào chính Eä](../O/Old_Hope.md) để cứu những đứa con yêu quý của mình.<sup id="cite_ref-MR|P4c_2-1" class="reference"><a href="#cite_note-MR|P4c-2">[2]</a></sup> Người ta nói rằng sau [Ngày tận thế](../D/Dagor_Dagorath.md), Eru sẽ hợp nhất Ainur và Con thứ hai để tạo ra một thứ âm nhạc thậm chí còn vĩ đại hơn cả thứ âm nhạc của sự sáng tạo.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
 
-### Thờ Eru {#Worship_of_Eru}
+### Tôn thờ Eru {#Worship_of_Eru}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>For that name we do not utter ever in jest or without full intent
@@ -111,15 +111,15 @@ Theo [một số nhà hiền triết](../W/Wise.md) trong số [Edain](../E/Edai
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../F/Finrod_Felagund.md" title="Finrod Felagund">Finrod Felagund</a> in the <i><a href="../A/Athrabeth_Finrod_ah_Andreth.md" title="Athrabeth Finrod ah Andreth">Athrabeth</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Eru được coi là siêu việt, tách biệt và xa cách với các vấn đề của Arda và hiếm khi được tôn thờ và tên của anh ấy quá thiêng liêng để có thể được cầu khẩn.
+Eru được coi là siêu việt, bị loại bỏ và xa cách với các vấn đề của Arda và hiếm khi được tôn thờ và tên của ông quá thiêng liêng để được gọi.
 
-Tolkien giải thích rằng "* High Elves không có 'tôn giáo' (hay đúng hơn là thực hành tôn giáo) vì những thứ đó đã nằm trong tay các vị thần, ca ngợi và tôn thờ* Eru *'the One',* Ilúvatar *Cha của tất cả trên [Mt. của Aman](../T/Taniquetil.md)*".<sup id="cite_ref-Murray_15-1" class="reference"><a href="#cite_note-Murray-15">[15]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:204</sup> Người ta nói như vậy Manwë đã làm [bữa tiệc cao cấp](../H/High_feast.md) để ca ngợi Eru để ăn mừng mỗi lần hái quả.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
+Tolkien giải thích rằng "*Yêu tinh cao không có 'tôn giáo' (hay đúng hơn là thực hành tôn giáo) vì những người đó nằm trong tay các vị thần, ca ngợi và tôn thờ* Eru *'the One',* Ilúvatar *Cha của tất cả trên [Núi Aman](../T/Taniquetil.md)*".<sup id="cite_ref-Murray_15-1" class="reference"><a href="#cite_note-Murray-15">[15]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:204</sup> Do đó, người ta nói rằng Manwë đã tạo ra [Cực cao tiệc](../H/High_feast.md) ca ngợi Eru để kỷ niệm mỗi lần hái trái cây.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
 
-Ở trung tâm đảo Numenor, ngọn núi lớn [Meneltarma](../M/Meneltarma.md) được dành hoàn toàn cho Eru. [người Númenor](../N/Númenóreans.md) tôn thờ ông ở đỉnh cao mà họ đặt tên là [Thánh tích Eru](../H/Hallow_of_Eru.md) và được toàn thể nhân dân thánh hiến; không cho phép du khách ngoại trừ nghi lễ [Ba buổi cầu nguyện](../T/Three_Prayers.md) được tổ chức vào các thời điểm tương ứng trong năm ([Canar](../C/Coranar.md)).<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
+Ở trung tâm đảo Numenor, ngọn núi lớn [Meneltarma](../M/Meneltarma.md) hoàn toàn dành cho Eru. [Númenóreans](../N/Númenóreans.md) tôn thờ ông ở đỉnh cao mà họ đặt tên là [Thánh tích của Eru](../H/Hallow_of_Eru.md) và được toàn thể nhân dân thánh hiến; không cho phép du khách ngoại trừ nghi lễ [Ba buổi cầu nguyện](../T/Three_Prayers.md) được tổ chức vào các thời điểm tương ứng trong năm ([Canar](../C/Coranar.md)).<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
 
-Mặt khác, vì cả Eldar và người Númenor đều biết rằng Eru là Chúa duy nhất nên họ coi việc tôn thờ bất kỳ người nào khác là ghê tởm,<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> hãy cứu những người nhầm Eru là một trong những [Valar](../V/Valar.md).<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
+Mặt khác, vì cả Eldar và Númenóreans đều biết rằng Eru là vị thần duy nhất nên họ coi việc tôn thờ bất kỳ người nào khác là ghê tởm,<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> trừ những người nhầm Eru là một trong những [Valar](../V/Valar.md).<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
 
-[Fëanor](../F/Fëanor.md) đã thề [ Lời Thề](../O/Oath_of_Fëanor.md) của mình nhân danh Eru.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> [Elendil](../E/Elendil.md) ràng buộc [Liên minh Cuối cùng của Tiên tộc và Con Người](../L/Last_Alliance_of_Elves_and_Men.md) với lời thề Eru; trường hợp được biết tiếp theo khi Người đàn ông gọi tên Eru"*người ở trên tất cả các ngai vàng mãi mãi*", là bởi [Cirion](../C/Cirion.md) trong [Lời Thề](../O/Oath_of_Eorl.md) của anh ta với [Eorl](../E/Eorl.md), nhiều thiên niên kỷ sau.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>
+[Fëanor](../F/Fëanor.md) đã thề [lời thề của mình](../O/Oath_of_Fëanor.md) nhân danh Eru.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> [Elendil](../E/Elendil.md) ràng buộc [Liên minh cuối cùng của Yêu tinh và Con người](../L/Last_Alliance_of_Elves_and_Men.md) bằng lời thề với Eru; trường hợp tiếp theo được biết đến khi một Người gọi tên Eru "*người vĩnh viễn đứng trên tất cả các ngai vàng*", là bởi [Cirion](../C/Cirion.md) trong [Lời thề](../O/Oath_of_Eorl.md) với [Eorl](../E/Eorl.md), nhiều thiên niên kỷ sau.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -140,9 +140,9 @@ Mặt khác, vì cả Eldar và người Númenor đều biết rằng Eru là C
 </tbody></table>
 </div>
 
-<i><b>Eru</b></i> là tên [Quenya](../Q/Quenya.md) mang ý nghĩa "Người cô đơn".<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
+<i><b>Eru</b></i> là tên [Quenya](../Q/Quenya.md) có nghĩa là "Ông cô đơn".<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
 
-### Ilúvatar {#Ilúvatar}
+### Iluvatar {#Ilúvatar}
 
 <div style="right: 0px; clear: right; float:right; margin: 0px 0px 10px 10px;">
 <table style="border:var(--tg-border-base); background-color:var(--tg-color-surface-2); font-size: 0.8em; line-height: 1.5;border-radius:var(--tg-border-radius-large);" width="275px">
@@ -159,7 +159,7 @@ Mặt khác, vì cả Eldar và người Númenor đều biết rằng Eru là C
 </tbody></table>
 </div>
 
-<i><b>Ilúvatar</b></i> (phát âm [N](../N/Noldorin.md) <span title="Pronunciation in IPA" class="IPA">[iˈluːvatar]</span>, [V](../V/Vanyarin.md) <span title="Pronunciation in IPA" class="IPA">[iˈluːβatar]</span>) là [Quenya](../Q/Quenya.md) cho "Cha của tất cả", thường được gọi là Eru **Ilúvatar**.
+<i><b>Ilúvatar</b></i> (phát âm [N](../N/Noldorin.md) <span title="Pronunciation in IPA" class="IPA">[iˈluːvatar]</span>, [V](../V/Vanyarin.md) <span title="Pronunciation in IPA" class="IPA">[iˈluːβatar]</span>) là [Quenya](../Q/Quenya.md) có nghĩa là "Cha của tất cả", thường được gọi là Eru **Iluvatar**.
 
 Tên *Ilúvatar* là sự kết hợp của hai từ, *[ilu](Ilu.md)* hoặc *[ilúvë](Ilúvë.md)* ("tất cả, vũ trụ") và *[atar](../A/Atar.md)* ("cha").
 
@@ -171,15 +171,15 @@ Tên *Ilúvatar* là sự kết hợp của hai từ, *[ilu](Ilu.md)* hoặc *[i
 <p class="tg-quote-footer"><cite><i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_One.md" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, &#34;<a href="../T/The_Music_of_the_Ainur.md" title="The Music of the Ainur">The Music of the Ainur</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Ilúvatar xuất hiện kể từ dạng sớm nhất của Legendarium, trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Cần lưu ý rằng trong [Qenya](../Q/Qenya.md) tên *Ilúvatar* có nghĩa là "Sky-father" vì phần tử *il-* cũng ám chỉ bầu trời (cf. [Ilmen](Ilmen.md)), nhưng từ nguyên này đã bị loại bỏ để chuyển sang nghĩa mới hơn trong các phiên bản sau này. Một tên khác, ít được sử dụng hơn, là <i><b>Ainatar</b></i> ("Đức Thánh Cha").<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>
+Ilúvatar xuất hiện kể từ phiên bản đầu tiên của Legendarium, vào năm *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Cần lưu ý rằng trong [Qenya](../Q/Qenya.md) tên *Ilúvatar* có nghĩa là "Bố bầu trời" vì phần tử *il-* cũng chỉ bầu trời (cf. [Ilmen](Ilmen.md)), nhưng từ nguyên này đã bị loại bỏ để chuyển sang nghĩa mới hơn trong các phiên bản sau này. Một tên khác, ít được sử dụng hơn, là <i><b>Ainatar</b></i> ("Đức Thánh Cha").<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>
 
-Từ *Eru* lần đầu tiên xuất hiện dưới dạng một từ [Adûnaic](../A/Adûnaic.md): <i><b>Êru</b></i>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> Nó được sử dụng lần đầu tiên dưới dạng một từ [Quenya](../Q/Quenya.md) trong [danh sách tên](<../A/Ainulindalë_(Morgoth's_Ring).md#Alteration_in_last_revision_1951>) năm 1951.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>
+Từ *Eru* lần đầu tiên xuất hiện dưới dạng từ [Adûnaic](../A/Adûnaic.md): <i><b>Êru</b></i>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> Lần đầu tiên nó được sử dụng dưới dạng từ [Quenya](../Q/Quenya.md) trong [danh sách tên](<../A/Ainulindalë_(Morgoth's_Ring).md#Alteration_in_last_revision_1951>) năm 1951.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>
 
 Ilúvatar còn được gọi là <i><b>Sanavaldo</b></i>, là [Quenya](../Q/Quenya.md) và có nghĩa là "*the Almighty*".<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Tolkien hiểu Eru không phải là một "vị thần hư cấu" mà là một cái tên trong ngôn ngữ hư cấu dành cho vị Thiên Chúa độc thần thực sự, mặc dù trong bối cảnh thần thoại hoặc hư cấu. Trong bản thảo của bức thư [1954](../_/1954.md) gửi Peter Hastings, người quản lý Hiệu sách Newman (một hiệu sách Công giáo ở [Oxford](../O/Oxford.md)), Tolkien đã bảo vệ những khía cạnh phi chính thống một cách đúng đắn trong phạm vi thần thoại của ông, như một cuộc khám phá "sự đa dạng tiềm năng" vô hạn của Chúa. Về khả năng tái sinh của [Tiên tộc](../E/Elves.md), Hastings đã viết:
+Tolkien hiểu Eru không phải là một "vị thần hư cấu" mà là một cái tên trong ngôn ngữ hư cấu dành cho vị Thần độc thần thực sự, mặc dù trong bối cảnh thần thoại hoặc hư cấu. Trong bản thảo của bức thư [1954](../_/1954.md) gửi Peter Hastings, người quản lý Hiệu sách Newman (một hiệu sách Công giáo ở [Oxford](../O/Oxford.md)), Tolkien đã bảo vệ những khía cạnh phi chính thống một cách đúng đắn trong phạm vi thần thoại của mình, như một cuộc khám phá "sự đa dạng tiềm năng" vô hạn của Chúa. Về khả năng tái sinh của [Yêu tinh](../E/Elves.md), Hastings đã viết:
 
 <blockquote class="tg-quote noexcerpt">
 <p>God has not used that device in any of the creations of which we have knowledge, and it seems to me to be stepping beyond the position of a sub-creator to produce it as an actual working thing, because a sub-creator, when dealing with the relations between creator and created, should use those channels which he knows the creator to have used already
@@ -187,7 +187,7 @@ Tolkien hiểu Eru không phải là một "vị thần hư cấu" mà là một
 <p class="tg-quote-footer"><cite>Peter Hastings</cite></p>
 </blockquote>
 
-Câu trả lời của Tolkien chứa lời giải thích về quan điểm của anh ấy về mối quan hệ giữa Sáng tạo (thần thánh) với [sáng tạo phụ](../S/Sub-creation.md):
+Câu trả lời của Tolkien chứa lời giải thích về quan điểm của ông về mối quan hệ giữa Sáng tạo (thần thánh) với [sáng tạo phụ](../S/Sub-creation.md) (con người):
 
 <blockquote class="tg-quote noexcerpt">
 <p>We differ entirely about the nature of the relation of sub-creation to Creation. I should have said that liberation &#34;from the channels the creator is known to have used already&#34; is the fundamental function of &#34;sub-creation&#34;, a tribute to the infinity of His potential variety [...] I am not a metaphysician; but I should have thought it a curious metaphysics — there is not one but many, indeed potentially innumerable ones — that declared the channels known (in such a finite corner as we have any inkling of) to have been used, are the only possible ones, or efficacious, or possibly acceptable to and by Him!
@@ -195,7 +195,7 @@ Câu trả lời của Tolkien chứa lời giải thích về quan điểm củ
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien, <a href="../L/Letter_153.md" title="Letter 153">Letter 153</a>, pp. 188-189</cite></p>
 </blockquote>
 
-Hastings cũng đã chỉ trích mô tả [Tom Bombadil](../T/Tom_Bombadil.md) của [Goldberry](../G/Goldberry.md): *"He is"*, nói rằng điều này dường như ngụ ý rằng Bombadil là Chúa.
+Hastings cũng đã chỉ trích mô tả [Tom Bombadil](../T/Tom_Bombadil.md) của [Goldberry](../G/Goldberry.md): *"He is"*, nói rằng điều này dường như ám chỉ rằng Bombadil là Chúa.
 
 Tolkien đã trả lời:
 
@@ -207,8 +207,8 @@ Tolkien đã trả lời:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://signumuniversity.org/wp-content/uploads/2016/11/Mythmoot2_Hensler_GodIluvatar.pdf" rel="noreferrer noopener" target="_blank">Chúa và Ilúvatar: Tolkien Việc sử dụng các phép so sánh và ẩn dụ trong Kinh thánh trong thuyết vũ trụ của Ngài</a> bởi Kevin R. Hensler
-- <a class="external text" href="http://lalaithmesp.blogspot.gr/p/is-eru-good-god-epithets-and-actions-of.html" rel="noreferrer noopener" target="_blank"> Eru có phải là Chúa tốt lành không?</a> của [Andreas Moehn](../A/Andreas_Moehn.md) (một góc nhìn <a class="extiw" href="http://en.wikipedia.org/wiki/Dystheism" title="wikipedia:Dystheism">maltheistic</a>)
+- <a class="external text" href="http://signumuniversity.org/wp-content/uploads/2016/11/Mythmoot2_Hensler_GodIluvatar.pdf" rel="noreferrer noopener" target="_blank">Chúa và Ilúvatar: Việc Tolkien sử dụng những điểm tương đồng và vùng nhiệt đới trong Kinh thánh trong thuyết vũ trụ của ông</a> của Kevin R. Hensler
+- <a class="external text" href="http://lalaithmesp.blogspot.gr/p/is-eru-good-god-epithets-and-actions-of.html" rel="noreferrer noopener" target="_blank">Eru có phải là vị thần tốt lành không?</a> của [Andreas Moehn](../A/Andreas_Moehn.md) (một góc nhìn <a class="extiw" href="http://en.wikipedia.org/wiki/Dystheism" title="wikipedia:Dystheism">maltheistic</a>)
 
 <span></span>
 

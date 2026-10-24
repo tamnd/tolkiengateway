@@ -24,7 +24,7 @@ sort_keys:
 
 ## Tiểu sử {#Biography}
 
-R.J. (René) van Rossenberg có bằng Thạc sĩ Lịch sử tại Đại học Leiden ở Hà Lan. Lần đầu tiên ông đọc *[The Hobbit](../T/The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)(De Hobbit bằng tiếng Hà Lan) vào năm 1973 ở tuổi 12. Ông trở thành một nhà sưu tập Tolkien đam mê đồng thời là thành viên hội đồng quản trị và chủ tịch mười năm của Hiệp hội Tolkien Hà Lan Unquendor. Từ hiệu sách của hội này, ông đã phát triển công việc kinh doanh toàn thời gian của riêng mình: Tolkienwinkel. Ông cũng giảng dạy (các)(d) tại Đại học Leiden và xem xét (các) (ed) sách được dịch sang tiếng Hà Lan để bổ sung thu nhập của mình. Đến nay anh vẫn sống ở Leiden. Có lúc anh ấy đã mua thư viện sách của [Joy Hill](../J/Joy_Hill.md) (thư ký riêng củaTolkien) trong cuộc đấu giá. Anh ấy đã làm luận án Tiến sĩ từ đầu những năm 2000 nhưng không rõ liệu anh ấy có hoàn thành việc này hay không.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Thỉnh thoảng anh ấy đã bổ sung các bản dịch tiếng Hà Lan của Tolkien sách cùng với những suy ngẫm của mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+R.J. (René) van Rossenberg có bằng Thạc sĩ Lịch sử tại Đại học Leiden ở Hà Lan. Lần đầu tiên ông đọc *[The Hobbit](../T/The_Hobbit.md)* (De Hobbit bằng tiếng Hà Lan) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) là vào năm 1973 ở tuổi 12. Ông trở thành một nhà sưu tập Tolkien cuồng nhiệt, đồng thời là thành viên hội đồng quản trị và chủ tịch 10 năm của Hiệp hội Tolkien Hà Lan Unquendor. Từ hiệu sách của hội này, ông đã phát triển công việc kinh doanh toàn thời gian của riêng mình: Tolkienwinkel. Ông cũng giảng dạy (các)(d) tại Đại học Leiden và xem xét (các) (ed) sách được dịch sang tiếng Hà Lan để bổ sung thu nhập của mình. Đến nay anh vẫn sống ở Leiden. Có lúc ông đã mua thư viện sách của [Joy Hill](../J/Joy_Hill.md) (thư ký riêng của Tolkien) trong cuộc đấu giá. Ông đã làm bằng tiến sĩ từ đầu những năm 2000 nhưng không rõ liệu ông có hoàn thành việc này hay không.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Đôi khi ông đã bổ sung các bản dịch tiếng Hà Lan của sách Tolkien cùng với những suy ngẫm của mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 René van Rossenberg thỉnh thoảng được báo chí Hà Lan phỏng vấn về các vấn đề liên quan đến JRR Tolkien.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 
@@ -40,27 +40,27 @@ René van Rossenberg thỉnh thoảng được báo chí Hà Lan phỏng vấn v
 
 <h3><span id="Tolkien.27s_1958_visit_to_Rotterdam"></span><span class="mw-headline" id="Tolkien&#39;s_1958_visit_to_Rotterdam">Tolkien&#39;s 1958 visit to Rotterdam</span></h3>
 
-Van Rossenberg cũng phát hiện ra đoạn ghi âm của ["Hobbit Bữa tối" ở Rotterdam](../_/%2522Hobbit_Dinner%2522_in_Rotterdam.md), Hà Lan nơi Tolkien tham gia. Ông đã xuất bản một bài báo về vấn đề này: “Chuyến thăm đặc biệt củaTolkien tới Hà Lan: Một cuộc tái thiết” trên tờ [Proceedings of the J.R.R. Tolkien Centenary Conference](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md).
+Van Rossenberg cũng phát hiện ra đoạn ghi âm của ["Bữa tối Hobbit" ở Rotterdam](../_/%2522Hobbit_Dinner%2522_in_Rotterdam.md), Hà Lan nơi Tolkien tham gia. Ông đã xuất bản một bài báo về vấn đề này: “Chuyến thăm đặc biệt của Tolkien tới Hà Lan: Một cuộc tái thiết” trong [Kỷ yếu của J.R.R. Tolkien Hội nghị trăm năm](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md).
 
 ### Bài viết {#Articles}
 
 - [1990](../_/1990.md): *[Elrond's Holy Round Table](../E/Elrond's_Holy_Round_Table.md)* (biên tập viên)
     - "Lời nói đầu"
-    - "Bilbo Baggins và con ong"
+    - "Bilbo Baggins và Beeb"
     - "Đồng chí Frodo và Hobbitania: Tolkien bằng tiếng Nga" (với [Nathalie Kotowski](../N/Nathalie_Kotowski.md))
 - [1991](../_/1991.md): [*Amon Hen* 112](../A/Amon_Hen_112.md)
-    - "Khu phố Hà Lan có Tolkien tên"
-- [1993](../_/1993.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Collector_5&amp;action=edit&amp;redlink=1" title="Tolkien Collector 5 (page does not exist)"><i>Tolkien Người sưu tầm</i> 5</a>
+    - "Khu phố Hà Lan có tên Tolkien"
+- [1993](../_/1993.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Collector_5&amp;action=edit&amp;redlink=1" title="Tolkien Collector 5 (page does not exist)"><i>Nhà sưu tập Tolkien</i> 5</a>
     - "Tolkien và Linguaphone"
 - [1995](../_/1995.md): *[Proceedings of the J.R.R. Tolkien Centenary Conference](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md)*
-Chuyến thăm đặc biệt của     - "Tolkien tới Hà Lan: Một cuộc tái thiết"
+    - "Chuyến thăm đặc biệt của Tolkien tới Hà Lan: Sự tái thiết"
 - [1997](../_/1997.md): *[Digging Potatoes, Growing Trees - Volume 2](../D/Digging_Potatoes,_Growing_Trees.md)*
-    - "...Khi tôi hình dung ra The Shire, tôi thấy những con đê, cối xay gió, những cánh đồng hoa tulip hình chữ nhật" \[Bài phát biểu tại bữa tối thường niên của Hội Tolkien 1996\]
+    - "...Khi tôi hình dung về The Shire, tôi thấy những con đê, cối xay gió, những cánh đồng hoa tulip hình chữ nhật" \[Bài phát biểu tại Bữa tối thường niên của Hiệp hội Tolkien 1996\]
 - [2001](../_/2001.md): [*Amon Hen* 168](../A/Amon_Hen_168.md)
-    - "Unquendor Thông báo Lustrum"
+    - "Thông báo về sức mạnh phi thường"
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
     - "Tiếng Hà Lan"
-    - "Hà Lan: Tiếp nhận Tolkien"
+    - "Hà Lan: Tiếp đón Tolkien"
 
 ### Đánh giá {#Reviews}
 
@@ -77,7 +77,7 @@ Chuyến thăm đặc biệt của     - "Tolkien tới Hà Lan: Một cuộc t�
 
 ## Liên kết ngoài {#External_link}
 
-- <a class="external text" href="https://www.youtube.com/watch?v=o2KDDPG7iA8&amp;t=13s" rel="noreferrer noopener" target="_blank">Phỏng vấn</a> với [Tolkien Hướng dẫn sưu tầm](../T/Tolkien_Collector's_Guide.md)
+- <a class="external text" href="https://www.youtube.com/watch?v=o2KDDPG7iA8&amp;t=13s" rel="noreferrer noopener" target="_blank">Phỏng vấn</a> với [Hướng dẫn dành cho người sưu tầm Tolkien](../T/Tolkien_Collector's_Guide.md)
 - <a class="external text" href="https://www.youtube.com/watch?v=s49bhpkD1Oc" rel="noreferrer noopener" target="_blank">Phỏng vấn trên truyền hình Hà Lan</a> (có phụ đề tiếng Anh)
 
 <span></span>

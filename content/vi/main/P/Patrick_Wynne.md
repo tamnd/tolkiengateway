@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Patrick H. Wynne"
 ---
 
-Chuyển hướng đến [Patrick H. Wynne](Patrick_H._Wynne.md).
+Chuyển hướng tới [Patrick H. Wynne](Patrick_H._Wynne.md).

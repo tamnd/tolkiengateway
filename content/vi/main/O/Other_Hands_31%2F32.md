@@ -41,20 +41,20 @@ infobox:
 
 <b><i>Những bàn tay khác</i> 31/32</b> là số kép của *[Other Hands](Other_Hands.md)*, một tạp chí dành riêng cho *[MERP](../M/Middle-earth_Role_Playing.md)*. Chủ đề của số báo là "Những chủng tộc tà ác".
 
-Số báo này còn có sự đóng góp về mặt ngôn ngữ của [David Salo](../D/David_Salo.md) và [Arden Smith](../A/Arden_R._Smith.md) cũng như các bản đồ của Jeff J. Erwin và [Thomas Morwinsky](../T/Thomas_Morwinsky.md).
+Số này còn có sự đóng góp về mặt ngôn ngữ của [David Salo](../D/David_Salo.md) và [Arden Smith](../A/Arden_R._Smith.md) cũng như các bản đồ của Jeff J. Erwin và [Thomas Morwinsky](../T/Thomas_Morwinsky.md).
 
 ## Nội dung {#Contents}
 
 *Tên bài viết - (Tên tác giả) \[Ghi chú của nhà xuất bản\]*
 
 - Biên tập - ([Chris Seeman](../C/Chris_Seeman.md)) \[2 pgs\]
-- Tính năng ma thuật: Heartstrings - (David Wendelken) \[2 danh sách phép thuật Tiên mới; 5 trang\]
-- The Lughoth - (George Photopoulos) \[nền, bố cục và số liệu thống kê cho một bộ tộc Angmarean Orc; 7 trang\]
-- Tol Fuin và Quần đảo Bóng tối - (Jeff J. Erwin) \[công báo và bản đồ về các hòn đảo bị mất tích Beleriand; 8 trang\]
-- Tính năng Mithril: Tình trạng hỗn loạn dưới núi - ([Chris Seeman](../C/Chris_Seeman.md)) \[Orc của Mount Gundabad; 2 trang\]
-- Sử dụng [D&D](../D/Dungeons_and_Dragons.md) Phiên bản thứ 3 cho Trung Địa Chiến dịch - (Brian McNeilly) \[quy tắc chuyển đổi; 6 trang\]
+- Tính năng ma thuật: Heartstrings - (David Wendelken) \[2 danh sách phép thuật mới của Yêu tinh; 5 trang\]
+- The Lughoth - (George Photopoulos) \[nền, bố cục và số liệu thống kê cho một bộ tộc Orc Angmarean; 7 trang\]
+- Tol Fuin và Quần đảo Bóng tối - (Jeff J. Erwin) \[công báo và bản đồ về các hòn đảo của Beleriand đã mất; 8 trang\]
+- Tính năng Mithril: Tình trạng lộn xộn dưới núi - ([Chris Seeman](../C/Chris_Seeman.md)) \[Orcs of Mount Gundabad; 2 trang\]
+- Sử dụng [D&D](../D/Dungeons_and_Dragons.md) Phiên bản thứ 3 cho Chiến dịch Trung địa - (Brian McNeilly) \[quy tắc chuyển đổi; 6 trang\]
 - Những con nhện vĩ đại - (Justin Morgan-Davies) \[nền tảng và số liệu thống kê về những con nhện khổng lồ; 4 trang\]
-- Phần bổ sung: Đôi mắt của Oclanoc và những câu chuyện khác - (John Bliven Morin) \[mô-đun phiêu lưu hoàn chỉnh, sẵn sàng chạy được đặt trong Lebennin; 16 trang\]
+- Phần bổ sung: Đôi mắt của Oclanoc và những câu chuyện khác - (John Bliven Morin) \[mô-đun phiêu lưu hoàn chỉnh, sẵn sàng chạy lấy bối cảnh ở Lebennin; 16 trang\]
 
 ## Liên kết ngoài {#External_links}
 

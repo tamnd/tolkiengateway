@@ -29,15 +29,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../E/Elves.md" title="Elves">Elf</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Naimi</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data"><i>Éadgifu</i> (<a href="../O/Old_English.md" title="Old English">OE</a>)</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/Tol_Eressëa.md" title="Tol Eressëa">Tol Eressëa</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data">Unknown (niece of <a href="../V/Vairë_(wife_of_Lindo).md" title="Vairë (wife of Lindo)">Vairë</a>)</td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../E/Eriol.md" title="Eriol">Eriol</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../H/Heorrenda.md" title="Heorrenda">Heorrenda</a> &amp; <i>possibly</i> <a href="../H/Hendwine.md" title="Hendwine">Hendwine</a><sup><a class="mw-selflink-fragment" href="#Other_versions_of_the_legendarium">NB</a></sup></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr></tbody></table>
 
-**Naimi** là cháu gái của [Vairë](<../V/Vairë_(wife_of_Lindo).md>), [Tiên](../E/Elves.md) của [Tol Eressëa](../T/Tol_Eressëa.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Cô kết hôn với [Eriol](../E/Eriol.md), thủy thủ [Mannish](../M/Men.md), sau khi anh ta được *[limpë](../L/Limpë.md)*làm cho trẻ lại và có với nhau một đứa con trai tên là [Heorrenda](../H/Heorrenda.md).<sup id="cite_ref-Nai_1-0" class="reference"><a href="#cite_note-Nai-1">[1]</a></sup>
+**Naimi** là cháu gái của [Vairë](<../V/Vairë_(wife_of_Lindo).md>), một [Yêu tinh](../E/Elves.md) của [Tol Eressëa](../T/Tol_Eressëa.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Cô kết hôn với [Eriol](../E/Eriol.md), thủy thủ [Mannish](../M/Men.md), sau khi anh được *[limpë](../L/Limpë.md)* làm trẻ lại và có với anh một đứa con trai tên là [Heorrenda](../H/Heorrenda.md).<sup id="cite_ref-Nai_1-0" class="reference"><a href="#cite_note-Nai-1">[1]</a></sup>
 
-Cô ấy chỉ được đề cập trong một bản tóm tắt về phần tiếp theo của *Lost Tales*và không có thông tin gì khác về cô ấy.
+Bà chỉ được đề cập trong một bản tóm tắt về phần tiếp theo của *Lost Tales* và không có thông tin nào khác về bà.
 
 ## Từ nguyên {#Etymology}
 
-Tên *Naimi* có trong [Qenya](../Q/Qenya.md)nhưng nghĩa không rõ ràng.<sup id="cite_ref-Eld_2-0" class="reference"><a href="#cite_note-Eld-2">[2]</a></sup>
+Tên *Naimi* có trong [Qenya](../Q/Qenya.md) nhưng ý nghĩa của nó không rõ ràng.<sup id="cite_ref-Eld_2-0" class="reference"><a href="#cite_note-Eld-2">[2]</a></sup>
 
-Cô ấy còn được gọi là <i><b>Éadgifu</b></i> trong [tiếng Anh cổ](../O/Old_English.md),<sup id="cite_ref-Nai_1-1" class="reference"><a href="#cite_note-Nai-1">[1]</a></sup> bao gồm các yếu tố *éad* ("may mắn") + *gifu* ("món quà").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Bà còn được gọi là <i><b>Éadgifu</b></i> trong [Tiếng Anh cổ](../O/Old_English.md),<sup id="cite_ref-Nai_1-1" class="reference"><a href="#cite_note-Nai-1">[1]</a></sup> bao gồm các yếu tố *éad* ("may mắn") + *gifu* ("quà tặng").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -60,9 +60,9 @@ Cô ấy còn được gọi là <i><b>Éadgifu</b></i> trong [tiếng Anh cổ]
 
 Trong một ghi chú cho *[The Cottage of Lost Play](../T/The_Cottage_of_Lost_Play.md)*, xuất hiện một nhân vật tên là **Nelmir**. Trong văn bản đó, cô được miêu tả là vợ của Eriol và mẹ của [Heorrenda](../H/Heorrenda.md) *and* [Hendwine](../H/Hendwine.md), một nhân vật không xuất hiện trong bất kỳ câu chuyện nào của *The Book of Lost Tales*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Không có thông tin nào khác về cô ấy và mối quan hệ của cô ấy với [Lindo](../L/Lindo.md) và Vairë, và không rõ liệu *Nelmir* được cho là chỉ là một tên khác cho *Naimi* hay một nhân vật hoàn toàn riêng biệt.
+Không có thông tin nào khác về bà và mối quan hệ của bà với [Lindo](../L/Lindo.md) và Vairë, và không rõ liệu *Nelmir* được cho là chỉ là một cái tên khác cho *Naimi* hay một nhân vật hoàn toàn riêng biệt.
 
-Tên *Nelmir* dường như có trong Qenya, nhưng, cũng như *Naimi*, ý nghĩa của nó không rõ ràng.<sup id="cite_ref-Eld_2-1" class="reference"><a href="#cite_note-Eld-2">[2]</a></sup>
+Tên *Nelmir* có vẻ là tiếng Qenya, nhưng cũng như *Naimi*, ý nghĩa của nó không rõ ràng.<sup id="cite_ref-Eld_2-1" class="reference"><a href="#cite_note-Eld-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

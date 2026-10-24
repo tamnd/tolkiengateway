@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bản đồ [Westlands](../../main/W/Westlands.md), được đăng trên trang web [Bách khoa toàn thư Arda](../../main/E/Encyclopedia_of_Arda.md).
+Bản đồ của [Westlands](../../main/W/Westlands.md), được đăng trên trang web [Bách khoa toàn thư của Arda](../../main/E/Encyclopedia_of_Arda.md).
 
 ## Giấy phép {#Licensing}
 

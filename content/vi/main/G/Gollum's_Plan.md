@@ -35,11 +35,11 @@ infobox:
        <a href="Gollum.md" title="Gollum">Gollum</a> plots to retake <a href="../T/The_One_Ring.md" title="The One Ring">the Ring</a></td></tr><tr><th scope="row" class="tg-infobox-label">Characters</th><td class="tg-infobox-data"><a href="Gollum.md" title="Gollum">Gollum</a> <br/> 
             <a class="mw-redirect" href="../F/Frodo.md" title="Frodo">Frodo</a>, <a class="mw-redirect" href="../S/Sam.md" title="Sam">Sam</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><i><a href="../_/%2522The_Battle_for_Middle-earth_is_About_to_Begin%2522.md" title="&#34;The Battle for Middle-earth is About to Begin&#34;">&#34;The Battle for Middle-earth is About to Begin&#34;</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><i><a href="../T/The_Finding_of_the_Ring.md" title="The Finding of the Ring">The Finding of the Ring</a></i></td></tr></tbody></table>
 
-**Gollum Kế hoạch** là cảnh thứ 51 của *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và cảnh thứ 66 của [*The Lord of the Rings: The Two Towers* (phiên bản mở rộng)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
+**Kế hoạch của Gollum** là cảnh thứ 51 của *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và cảnh thứ 66 của [*The Lord of the Rings: The Two Towers* (extended edition)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
 
 ## Tóm tắt {#Synopsis}
 
-[Gollum](Gollum.md) lướt cách [Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) một khoảng ngắn. Khi hai hobbit kêu gọi anh, anh đấu tranh với chính mình về cách đối xử mà anh nhận được dưới bàn tay của [Faramir](../F/Faramir.md) và người của anh. Sméagol thút thít "[Chủ nhân](../F/Frodo.md) chăm sóc chúng tôi", trong khi Gollum nói Frodo đã phản bội họ và hai hobbit đáng lẽ phải bị giết, đồng thời [Chiếc nhẫn](../T/The_One_Ring.md) được lấy lại. Sméagol bày tỏ nỗi sợ hãi rằng Sam biết về kẻ ác của họ và sẽ quá mạo hiểm nếu giết họ.
+[Gollum](Gollum.md) lẩn tránh [Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) một đoạn ngắn. Khi hai hobbit kêu gọi anh, anh đấu tranh với chính mình về cách đối xử mà anh nhận được dưới bàn tay của [Faramir](../F/Faramir.md) và người của ông ta. Sméagol thút thít "[Chủ nhân](../F/Frodo.md) chăm sóc chúng tôi", trong khi Gollum nói rằng Frodo đã phản bội họ và hai hobbit đáng lẽ phải bị giết, đồng thời [Chiếc nhẫn](../T/The_One_Ring.md) được lấy lại. Sméagol nói lên nỗi sợ hãi của mình rằng Sam biết về tội ác của họ và sẽ quá mạo hiểm nếu giết họ.
 
 Khi Frodo và Sam đến gần hơn, Gollum trầm ngâm nói "Chúng ta có thể để *her* làm điều đó", Sméagol háo hức đồng ý.
 
@@ -49,11 +49,11 @@ Khi Frodo và Sam đến gần hơn, Gollum trầm ngâm nói "Chúng ta có th�
 <p class="tg-quote-footer"><cite><a href="Gollum.md" title="Gollum">Gollum</a></cite></p>
 </blockquote>
 
-Mỉm cười, Gollum bước ra từ cái cây mà anh ta đang nấp phía sau và nói với Frodo và Sam họ còn một chặng đường dài phải đi trên hành trình của mình và rằng "Sméagol sẽ chỉ đường cho bạn".
+Mỉm cười, Gollum bước ra từ cái cây mà ông ta đang ẩn nấp và nói với Frodo và Sam rằng họ vẫn còn một chặng đường dài phía trước và rằng "Sméagol sẽ chỉ đường cho bạn".
 
 ## Sự khác biệt {#Differences}
 
-Điểm khác biệt lớn hơn giữa phim và sách là kế hoạch của Gollum. Trong cảnh này, Gollum và Sméagol tại thời điểm này cùng nhau đồng ý giết những người Hobbit và lấy lại chiếc Nhẫn cho mình. Tuy nhiên, trong cuốn sách, một đoạn trong chương "[Cầu thang Cirith Ungol](../T/The_Stairs_of_Cirith_Ungol.md)", trong đó Gollum quay lại để tìm Frodo và Sam đang ngủ trong khi họ hành trình lên [cầu thang](../S/Stairs_of_Cirith_Ungol.md), gợi ý rằng Gollum đã suy nghĩ lại về việc dẫn hai hobbit đến [Shelob](../S/Shelob.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ngay cả ở giai đoạn cuối này.
+Điểm khác biệt lớn hơn giữa phim và sách là kế hoạch của Gollum. Trong cảnh này, Gollum và Sméagol cùng nhau đồng ý giết người Hobbit và lấy lại chiếc Nhẫn cho mình. Tuy nhiên, trong cuốn sách, một đoạn trong chương "[Cầu thang của Cirith Ungol](../T/The_Stairs_of_Cirith_Ungol.md)", trong đó Gollum quay lại và thấy Frodo và Sam đang ngủ trong cuộc hành trình của họ lên [cầu thang](../S/Stairs_of_Cirith_Ungol.md), cho thấy Gollum đã suy nghĩ lại về việc dẫn hai hobbit đến [Shelob](../S/Shelob.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ngay cả ở giai đoạn cuối này.
 
 <span></span>
 

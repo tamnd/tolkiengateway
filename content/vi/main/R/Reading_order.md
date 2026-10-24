@@ -12,11 +12,11 @@ categories:
   - "Fandom"
 ---
 
-**Thứ tự đọc** là thứ tự đọc tác phẩm của Tolkien.
+**Thứ tự đọc** là thứ tự đọc các tác phẩm của Tolkien.
 
 ## Mô tả {#Description}
 
-[Tolkien độc giả](../T/Tolkien_fandom.md) mới thường bối rối trước sự phức tạp của tác phẩm và thứ tự tốt nhất để đọc tác phẩm. Những tác phẩm nổi tiếng nhất diễn ra ở giai đoạn cuối của lịch sử [huyền thoại](../L/Legendarium.md), kèm theo những gợi ý về cốt truyện. Những câu chuyện làm nền tương đối phức tạp và không có mối liên hệ rõ ràng nào với những tác phẩm nổi tiếng nhất. Hơn nữa, các truyện-chương-tiểu luận chồng chéo lên nhau hoặc diễn ra đồng thời, chỉ khác nhau ở mức độ rộng rãi của các tình tiết.
+[Người đọc Tolkien](../T/Tolkien_fandom.md) mới thường bối rối trước sự phức tạp của tác phẩm và thứ tự tốt nhất để đọc tác phẩm. Những tác phẩm nổi tiếng nhất diễn ra ở giai đoạn cuối của lịch sử [huyền thoại](../L/Legendarium.md), kèm theo những gợi ý về cốt truyện. Những câu chuyện làm nền tương đối phức tạp và không có mối liên hệ rõ ràng nào với những tác phẩm nổi tiếng nhất. Hơn nữa, các truyện-chương-tiểu luận chồng chéo lên nhau hoặc diễn ra đồng thời, chỉ khác nhau ở mức độ rộng rãi của các tình tiết.
 
 Những người hâm mộ cuồng nhiệt đã đọc tác phẩm nhiều lần. Ví dụ: người ta có thể đọc *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* trước, sau đó là *[The Hobbit](../T/The_Hobbit.md)* và đôi khi sau đó đọc lại *The Lord of the Rings*, dựa trên cốt truyện được thấy trong *The Hobbit*.
 
@@ -56,11 +56,11 @@ Những cuốn sách này cung cấp một phiên bản mở rộng của Nhữn
 
 - *Unfinished Tales*
 
-Các phần của cuốn sách này cung cấp cái nhìn sâu sắc về [Númenor](../N/Númenor.md), [Thời đại thứ hai](../S/Second_Age.md) (được đề cập trong *The Silmarillion*) và thời kỳ đầu [Kỷ Đệ Tam](../T/Third_Age.md), với các yếu tố sẽ đóng vai trò của chúng trong *The Lord of the Rings*.
+Các phần của cuốn sách này cung cấp cái nhìn sâu sắc về [Númenor](../N/Númenor.md), [Thời đại thứ hai](../S/Second_Age.md) (được đề cập trong *The Silmarillion*) và đầu [Thời đại thứ ba](../T/Third_Age.md), với các yếu tố sẽ đóng vai trò của chúng trong *The Lord of the Rings*.
 
 - *The Hobbit*
 
-Mặc dù không liên quan trực tiếp đến *The Silmarillion*nhưng đây là câu chuyện lớn tiếp theo.
+Mặc dù không liên quan trực tiếp đến *The Silmarillion* nhưng đây là câu chuyện lớn tiếp theo.
 
 - *The Lord of the Rings*
 
@@ -208,4 +208,4 @@ Mặc dù không liên quan trực tiếp đến *The Silmarillion*nhưng đây 
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.chronology.org/tolkien/" rel="noreferrer noopener" target="_blank">Trình tự thời gian Tolkien</a> thảo luận về vấn đề và cũng cung cấp máy tính để tìm thứ tự đọc chính xác.
+- <a class="external text" href="http://www.chronology.org/tolkien/" rel="noreferrer noopener" target="_blank">Tolkien theo trình tự thời gian</a> thảo luận về vấn đề này và cũng cung cấp máy tính để tìm thứ tự đọc chính xác.

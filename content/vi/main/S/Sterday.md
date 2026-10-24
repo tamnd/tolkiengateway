@@ -27,15 +27,15 @@ categories:
 <li><a href="../H/Highday.md" title="Highday">Highday</a></li></ol>
 </td></tr></tbody></table>
 
-**Sterday** (dạng cổ *Sterrendei*) là ngày đầu tuần trong [Lịch Shire](Shire_Calendar.md). Nó được dành riêng cho [các ngôi sao](Stars.md), tượng trưng cho [Númenórean](../N/Númenórean.md) ngày *[Orgilion](../O/Orgilion.md)*.<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
+**Sterday** (dạng cổ *Sterrendei*) là ngày đầu tuần trong [Lịch Shire](Shire_Calendar.md). Nó được dành riêng cho [các ngôi sao](Stars.md), đại diện cho ngày [Númenórean](../N/Númenórean.md) *[Orgilion](../O/Orgilion.md)*.<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 
 Sau thời [Isengrim Took II](../I/Isengrim_Took_II.md), Sterday cũng là ngày đầu tiên của mỗi năm, luôn rơi vào ngày 2 [Yule](../Y/Yule.md) (và 2 [Lithe](../L/Lithe.md)).<sup id="cite_ref-cal_1-1" class="reference"><a href="#cite_note-cal-1">[1]</a></sup> Như vậy, [1 tháng 4](../_/1_April.md) và [1 tháng 10](../_/1_October.md) luôn rơi vào ngày Sterday.
 
 ## Từ nguyên {#Etymology}
 
-*Sterday* đại diện cho dạng [Hobbitish](../H/Hobbitish.md) cổ "Sterrendei", một từ được lưu giữ trong [Yellowskin](../Y/Yellowskin.md). Nó được dành riêng cho [các vì sao](Stars.md).<sup id="cite_ref-cal_1-2" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
+*Sterday* đại diện cho một dạng [Hobbitish](../H/Hobbitish.md) cổ xưa "Sterrendei", một từ được lưu giữ trong [Yellowskin](../Y/Yellowskin.md). Nó được dành riêng cho [các vì sao](Stars.md).<sup id="cite_ref-cal_1-2" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 
-Nó được dịch là "Thứ Bảy" trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* nhưng vì đây là ngày đầu tuần nên nó tương ứng với Thứ Hai của chúng ta hơn. Vì lý do này, “Thứ Bảy” được nhắc đến trong bài thơ *[The Man in the Moon Stayed Up Too Late](../T/The_Man_in_the_Moon_Stayed_Up_Too_Late.md)*, thực chất là nói đến Hobbitish [Thứ Năm](../M/Mersday.md).<sup id="cite_ref-cal_1-3" class="reference"><a href="#cite_note-cal-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nó được dịch là "Thứ Bảy" trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* nhưng vì đây là ngày đầu tuần nên nó tương ứng với Thứ Hai của chúng ta hơn. Vì lý do này, "Thứ Bảy" được nhắc đến trong bài thơ *[The Man in the Moon Stayed Up Too Late](../T/The_Man_in_the_Moon_Stayed_Up_Too_Late.md)*, thực ra là nói đến [Thứ Năm](../M/Mersday.md) của người Hobbit>.<sup id="cite_ref-cal_1-3" class="reference"><a href="#cite_note-cal-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

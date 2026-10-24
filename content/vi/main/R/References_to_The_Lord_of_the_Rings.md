@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien's works in popular media"
 ---
 
-Chuyển hướng tới [Tolkien tác phẩm trên các phương tiện truyền thông đại chúng](../T/Tolkien's_works_in_popular_media.md).
+Chuyển hướng tới [Tác phẩm của Tolkien trên các phương tiện truyền thông đại chúng](../T/Tolkien's_works_in_popular_media.md).

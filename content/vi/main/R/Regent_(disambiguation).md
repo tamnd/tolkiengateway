@@ -23,14 +23,14 @@ images:
 
 ## Arda {#Arda}
 
-- [Người nhiếp chính của Gondor](Regent_of_Gondor.md), chức danh của người được [vua](../K/King_of_Gondor.md) trao quyền cai trị [Gondor](../G/Gondor.md) thay mặt mình.
+- [Nhiếp chính Gondor](Regent_of_Gondor.md), danh hiệu của người được [vua](../K/King_of_Gondor.md) trao quyền để thay mặt mình cai trị [Gondor](../G/Gondor.md).
     - [Minalcar](../M/Minalcar.md), Nhiếp chính duy nhất được biết đến của Gondor
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Regent_of_N%C3%BAmenor&amp;action=edit&amp;redlink=1" title="Regent of Númenor (page does not exist)">Người nhiếp chính của Númenor</a>, chức danh Người nhiếp chính thay mặt cho bất kỳ [Vua nào của Númenor](../K/King_of_Númenor.md).
-    - [Hallatan của Hyarnastorni](../H/Hallatan.md), một lãnh chúa [Númenórean](../N/Númenóreans.md) cai trị với tư cách nhiếp chính thay mặt cho [Tar-Aldarion](../T/Tar-Aldarion.md).
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Regent_of_N%C3%BAmenor&amp;action=edit&amp;redlink=1" title="Regent of Númenor (page does not exist)">Nhiếp chính Númenor</a>, chức danh Nhiếp chính thay mặt cho bất kỳ [Vua nào của Númenor](../K/King_of_Númenor.md).
+    - [Hallatan của Hyarnastorni](../H/Hallatan.md), một lãnh chúa [Númenórean](../N/Númenóreans.md), người cai trị với tư cách nhiếp chính thay mặt cho [Tar-Aldarion](../T/Tar-Aldarion.md).
 
 ## Xem thêm {#See_also}
 
-- [Bảo hiểm](../U/Underking.md), vị trí tương đương trong [Rohan](Rohan.md)
+- [Underking](../U/Underking.md), vị trí tương đương ở [Rohan](Rohan.md)
 
 <hr style="margin-top:15px;"/>
 

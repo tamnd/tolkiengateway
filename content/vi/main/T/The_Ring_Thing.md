@@ -31,21 +31,21 @@ images:
 <p class="tg-quote-footer"><cite><a href="Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-**The Nhẫn Thing** là một bộ phim [2004](../_/2004.md) Đức Thụy Sĩ nhại lại *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
+**The Ring Thing** là một bộ phim [2004](../_/2004.md) Đức Thụy Sĩ nhại lại *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
 
 ## Lô đồ {#Plot}
 
-Chúa tể Bóng tối Sauraus muốn thống trị cả thế giới. Để đạt được điều này, anh ấy nấu một món Fondue khổng lồ ở Mount Chronos. Khi việc đó hoàn thành, anh ta dự định sẽ nướng cả thế giới bằng pho mát.
+Chúa tể bóng tối Sauraus muốn thống trị cả thế giới. Để đạt được điều này, ông nấu một món Fondue khổng lồ ở Mount Chronos. Khi việc đó hoàn thành, ông ta dự định sẽ nướng cả thế giới bằng pho mát.
 
-Sauraus từng là một hiệp sĩ bình thường phát điên vì cả 7 Những Chiếc Nhẫn Quyền Năng đều đã được bán hết và anh ta chỉ được tặng một phiếu giảm giá.
+Sauraus từng là một hiệp sĩ bình thường phát điên vì toàn bộ 7 chiếc Nhẫn Quyền năng đã được bán hết và anh chỉ được tặng một phiếu giảm giá.
 
-Sauraus "rèn" chiếc nhẫn của riêng mình bằng cách cắt nó ra khỏi pho mát. Trong trận chiến với Sauraus, một nhân vật giống Isildur đã lấy chiếc nhẫn của anh ta. Tuy nhiên, nhân vật này không thể sử dụng chiếc nhẫn và nghiện ma túy. Đây là lúc Stinker - một tác phẩm nhại lại [Gollum](../G/Gollum.md) - xuất hiện. Anh ta đánh cắp chiếc nhẫn từ chủ nhân của nó và trốn thoát.
+Sauraus "rèn" chiếc nhẫn của riêng mình bằng cách cắt nó ra khỏi pho mát. Trong trận chiến với Sauraus, một nhân vật giống Isildur đã lấy chiếc nhẫn của ông ta. Tuy nhiên, nhân vật này không thể xử lý chiếc nhẫn và nghiện ma túy. Đây là lúc Stinker - một tác phẩm nhại lại [Gollum](../G/Gollum.md) - xuất hiện. Ông ta đánh cắp chiếc nhẫn từ chủ nhân của nó và trốn thoát.
 
-Để ngăn chặn Sauraus, hiệp hội đã biết bắt đầu nhiệm vụ của mình. Người đứng đầu luôn là pháp sư Alm Gandy. Trong tiếng Đức *Alm* có nghĩa là một đồng cỏ nằm trên cao. Người cầm nhẫn là một cựu kế toán ngân hàng tên là Freddy nhưng trong suốt bộ phim được đồng nghiệp của anh ta gọi là Frido.
+Để ngăn chặn Sauraus, hiệp hội đã biết bắt đầu nhiệm vụ của mình. Người đứng đầu luôn là pháp sư Alm Gandy. Trong tiếng Đức *Alm* có nghĩa là một đồng cỏ nằm trên cao. Người cầm nhẫn là một cựu kế toán ngân hàng tên là Freddy nhưng trong suốt bộ phim được đồng nghiệp của ông ta gọi là Frido.
 
 ## Sản xuất {#Production}
 
-Bộ phim được quay ở dãy Alps của Thụy Sĩ và có một số ngọn núi đáng chú ý bao gồm Matterhorn gần Zermatt, được tạo hình giống với [Núi Doom](../M/Mount_Doom.md) nhưng được gọi là Núi Chronos.
+Phim được quay ở dãy Alps của Thụy Sĩ và có một số ngọn núi đáng chú ý bao gồm Matterhorn gần Zermatt, được tạo hình giống với [Núi Doom](../M/Mount_Doom.md) nhưng được gọi là Núi Chronos.
 
 ## Liên kết ngoài {#External_links}
 

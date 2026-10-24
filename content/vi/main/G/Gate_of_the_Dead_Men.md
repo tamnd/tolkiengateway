@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dark Door"
 ---
 
-Chuyển hướng đến [Cánh Cửa Tối](../D/Dark_Door.md).
+Chuyển hướng đến [Cánh cửa tối](../D/Dark_Door.md).

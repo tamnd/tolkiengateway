@@ -17,7 +17,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_1997_(Polish).jpg.md"><img src="https://tolkiengateway.net/w/images/7/7b/Tolkien_Calendar_1997_%28Polish%29.jpg" decoding="async" loading="lazy" width="244" height="350" class="mw-file-element" data-file-width="244" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**Tolkien Lịch 1997** được xuất bản bởi [Hiệp hội Tolkien Ba Lan](../P/Polish_Tolkien_Society.md) và có hình minh họa bằng bút và mực cũng như ngày tháng theo nhiều cách tính toán khác nhau.
+**Lịch Tolkien 1997** được xuất bản bởi [Hiệp hội Tolkien Ba Lan](../P/Polish_Tolkien_Society.md) và có các hình minh họa bằng bút và mực cũng như ngày tháng theo nhiều cách tính toán khác nhau.
 
 - Kích thước: 11 3/4 x 16 1/2 inch
 - Tấm nhựa trong phủ lên nửa bìa

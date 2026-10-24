@@ -14,4 +14,4 @@ sort_keys:
   "Images by artist": "Wenzel, David T."
 ---
 
-Danh mục này liệt kê tất cả **hình ảnh theo [David T. Wenzel](../../main/D/David_T._Wenzel.md)**.
+Danh mục này liệt kê tất cả **hình ảnh của [David T. Wenzel](../../main/D/David_T._Wenzel.md)**.

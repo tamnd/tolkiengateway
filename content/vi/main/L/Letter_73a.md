@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nhận xét một cách hài hước về cảm giác kiệt sức dù đã ngủ một giấc dài, trích dẫn câu châm ngôn của [Warnie Lewis](../W/Warnie_Lewis.md) về tác động mệt mỏi của giấc ngủ; "Không có gì mệt mỏi bằng giấc ngủ; hoàn toàn làm bạn kiệt sức". Anh ấy chia sẻ những sự kiện gần đây, bao gồm việc nhận được tấm séc trị giá £140 cho "[The Hobbit](../T/The_Hobbit.md)" và phát hiện ra rằng Thiếu sinh quân [Rayner Unwin](../R/Rayner_Unwin.md), trong khóa học của mình, cũng chính là Rayner Unwin, người khi còn nhỏ đã giới thiệu bản thảo "The Hobbit" cho cha mình, dẫn đến việc nó được xuất bản.
+Tolkien nhận xét một cách hài hước về việc cảm thấy kiệt sức dù đã ngủ một giấc dài, trích dẫn câu châm ngôn của [Warnie Lewis](../W/Warnie_Lewis.md) về tác động mệt mỏi của giấc ngủ; "Không có gì mệt mỏi bằng giấc ngủ; hoàn toàn làm bạn kiệt sức". Ông chia sẻ những sự kiện gần đây, bao gồm việc nhận được tấm séc trị giá £140 cho "[The Hobbit](../T/The_Hobbit.md)" và phát hiện ra rằng Cadet [Rayner Unwin](../R/Rayner_Unwin.md), trong khóa học của mình, chính là Rayner Unwin, người khi còn nhỏ đã giới thiệu bản thảo "The Hobbit" cho cha mình, dẫn đến việc xuất bản nó.
 
 <br>
 

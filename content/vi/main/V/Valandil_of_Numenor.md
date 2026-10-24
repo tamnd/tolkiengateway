@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valandil (Lord of Andúnië)"
 ---
 
-Chuyển hướng tới [Valandil (Lãnh chúa Andúnië)](<Valandil_(Lord_of_Andúnië).md>).
+Chuyển hướng đến [Valandil (Chúa tể Andúnië)](<Valandil_(Lord_of_Andúnië).md>).

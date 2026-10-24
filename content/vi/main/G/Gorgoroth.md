@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Plateau of Gorgoroth"
 ---
 
-Chuyển hướng đến [Cao nguyên Gorgoroth](../P/Plateau_of_Gorgoroth.md).
+Chuyển hướng tới [Cao nguyên Gorgoroth](../P/Plateau_of_Gorgoroth.md).

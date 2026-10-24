@@ -45,7 +45,7 @@ infobox:
 - Lời giới thiệu của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Will_Sherwood&amp;action=edit&amp;redlink=1" title="Will Sherwood (page does not exist)">Will Sherwood</a>
 - "Tài liệu Kỷ Đệ Nhất: Nhiệm vụ vĩ đại nhất của Christopher Tolkien" của Cami D. Agan
 - "Người được minh họa khác Silmarillion: Francis Mosley cho Hội Folio" của Marie Bretagnolle
-- "Elvish khi Cô ấy được quay phim: Chuyển thể ngôn ngữ Elvish trong [Peter Jackson](../P/Peter_Jackson.md) *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(film_series).md>)*" của Tiến sĩ Andrew Higgins
+- "Elvish khi Bà được quay phim: Chuyển thể ngôn ngữ Elvish trong [Peter Jackson](../P/Peter_Jackson.md) *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(film_series).md>)*" của Tiến sĩ Andrew Higgins
 - "'Tôi nghe thấy bài hát của thanh kiếm, và nó hát cho tôi': Chuyển thể Tolkien trong thế giới kim loại nặng" của Brian Egede-Pedersen
 - "Đang thích ứng Tolkien (Mis)Ghi nhớ Tolkien?" bởi Mina D. Lukić
 - "Thích ứng Tolkien Ngoài Arda hoặc Cách điều hướng bãi mìn chính trị của Liên minh Thiên văn Quốc tế để đặt tên cho các đặc điểm trên [Titan](../T/Titan.md), Sao Diêm Vương và Charon sau Trung Địa" của Kristine Larsen

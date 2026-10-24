@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien kể cho [Priscilla](../P/Priscilla_Tolkien.md) về lễ tang của [C.S. Lewis](../C/C.S._Lewis.md), người đã qua đời [bốn ngày trước đó](../_/22_November.md). Tolkien đã có cảm giác bình thường của một người đàn ông ở độ tuổi của mình - giống như một cây già đang dần rụng lá. Tuy nhiên, sự mất mát của Lewis giống như một nhát rìu đâm thẳng vào tận gốc rễ. Buổi lễ có sự tham dự của chính Tolkien, [Christopher Tolkien](../C/Christopher_Tolkien.md), [James Dundas-Grant](../J/James_Dundas-Grant.md), [Robert Havard](../R/Robert_Havard.md), [Owen Barfield](../O/Owen_Barfield.md) và một số người khác. Tolkien cảm ơn con gái đã viết thư.
+Tolkien kể cho [Priscilla](../P/Priscilla_Tolkien.md) về lễ tang của [C.S. Lewis](../C/C.S._Lewis.md), người đã qua đời [bốn ngày trước đó](../_/22_November.md). Tolkien đã có cảm giác bình thường của một người đàn ông ở độ tuổi của mình - giống như một cái cây già đang dần rụng lá. Tuy nhiên, sự mất mát của Lewis giống như một nhát rìu đâm thẳng vào tận gốc rễ. Buổi lễ có sự tham dự của chính Tolkien, [Christopher Tolkien](../C/Christopher_Tolkien.md), [James Dundas-Grant](../J/James_Dundas-Grant.md), [Robert Havard](../R/Robert_Havard.md), [Owen Barfield](../O/Owen_Barfield.md) và một số người khác. Tolkien cảm ơn con gái mình đã viết.
 
 <br>
 

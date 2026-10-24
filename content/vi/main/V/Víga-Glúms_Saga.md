@@ -37,7 +37,7 @@ infobox:
 
 <i><b>Víga-Glúms Saga</b></i> chứa một ấn bản có chú thích của văn bản tiếng Bắc Âu cổ của <a class="extiw" href="http://en.wikipedia.org/wiki/V%C3%ADga-Gl%C3%BAms_saga" title="wikipedia:Víga-Glúms saga">Víga-Glúms Saga</a>, cùng với bảng chú giải thuật ngữ và phần giới thiệu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Đây là tập một trong bộ Oxford Chuyên khảo tiếng Anh. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) là một trong những Tổng biên tập của bộ truyện. Trong phần giới thiệu, Turville-Petre nói: "*Thật khó để đánh giá quá cao tất cả những gì tôi nợ Giáo sư Tolkien; sự cảm thông và động viên của ông ấy là không ngừng và trong suốt quá trình làm việc, tôi đã được hưởng lợi từ học bổng rộng rãi của ông ấy.*"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Đây là tập một trong bộ sách Chuyên khảo tiếng Anh của Oxford. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) là một trong những Tổng biên tập của bộ truyện. Trong phần giới thiệu, Turville-Petre nói: "*Thật khó để đánh giá quá cao tất cả những gì tôi nợ Giáo sư Tolkien; sự cảm thông và động viên của ông là không ngừng và trong suốt quá trình làm việc, tôi đã được hưởng lợi từ học bổng rộng rãi của ông.*"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

@@ -38,35 +38,35 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Studies_16.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a8/Tolkien_Studies_16.jpeg/319px-Tolkien_Studies_16.jpeg" decoding="async" loading="lazy" width="319" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a8/Tolkien_Studies_16.jpeg/478px-Tolkien_Studies_16.jpeg 1.5x, https://tolkiengateway.net/w/images/a/a8/Tolkien_Studies_16.jpeg 2x" data-file-width="498" data-file-height="750"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Studies: Volume 16</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../D/David_Bratman.md" title="David Bratman">David Bratman</a>, <a href="../M/Michael_D.C._Drout.md" title="Michael D.C. Drout">Michael D.C. Drout</a>, <a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">West Virginia University Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">November, <a href="../_/2019.md" title="2019">2019</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback; electronic</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">277</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1547-3155</td></tr></tbody></table>
 
-<b><i>Tolkien Nghiên cứu</i>: Tập 16</b>, xuất bản trong [2019](../_/2019.md), là tập thứ mười sáu của tổng kết hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
+<b><i>Nghiên cứu Tolkien</i>: Tập 16</b>, xuất bản trong [2019](../_/2019.md), là tập thứ mười sáu của tạp chí đánh giá hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Tolkien Studies: Volume 15</div></div><div class="template-prevnext__linkoverlay"><a href="Tolkien_Studies%253A_Volume_15.md" title="Tolkien Studies: Volume 15">Tolkien Studies: Volume 15</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Tolkien Studies: Volume 16</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Tolkien Studies: Volume 17</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Tolkien_Studies%253A_Volume_17.md" title="Tolkien Studies: Volume 17">Tolkien Studies: Volume 17</a></div></div></div>
 
 ## Nội dung {#Contents}
 
 - Bài viết
-    - Luke J. Chambers, "*Enta Geweorc* và công việc của Ent"
-    - Marie H. Loughlin, "Kho báu củaTolkien: Những vật thể kỳ diệu trong *The Hobbit* và *The Lord of the Rings*"
-    - Anika Jensen, "Hoa và thép: Sự cần thiết của chiến tranh trong học bổng Tolkien nữ quyền"
+    - Luke J. Chambers, "*Enta Geweorc* và Công việc của Ent"
+    - Marie H. Loughlin, "Kho báu của Tolkien: Những vật thể kỳ diệu trong *The Hobbit* và *The Lord of the Rings*"
+    - Anika Jensen, "Hoa và thép: Sự cần thiết của chiến tranh trong học bổng Tolkien về nữ quyền"
     - J.M. Silk, "Các vị vua xứ Mark: Quá trình đặt tên của Tolkien và quan điểm của ông về sự tiến hóa ngôn ngữ"
-    - Megan N. Fontenot, "Nghệ thuật của thảm họa vĩnh cửu: Ngày tận thế của Tolkien và con đường dẫn đến sự chữa lành"
+    - Megan N. Fontenot, "Nghệ thuật của thảm họa vĩnh cửu: Ngày tận thế của Tolkien và con đường chữa lành"
     - John Rosegrant, "Âm nhạc mẹ"
 
 - Ghi chú và tài liệu
     - Richard C. West, "Thư của Cha Murray"
-    - Thomas P. Hillman, "Không phải nơi anh ấy ăn, mà là nơi anh ấy được ăn: So sánh bánh mì và bơ của Bilbo"
+    - Thomas P. Hillman, "Không phải nơi ông ăn, mà là nơi ông được ăn: So sánh bánh mì và bơ của Bilbo"
 
 - Đánh giá sách
     - *[Tolkien: Maker of Middle-earth](Tolkien%253A_Maker_of_Middle-earth.md)* và *[Tolkien Treasures](Tolkien%253A_Treasures.md)*, của Catherine McIlwaine, được Denis Bridoux đánh giá
-    - *[The Fall of Gondolin](The_Fall_of_Gondolin.md)*, bởi J.R.R. Tolkien, chỉnh sửa bởi Christopher Tolkien, được đánh giá bởi Jennifer Rogers
+    - *[The Fall of Gondolin](The_Fall_of_Gondolin.md)*, bởi J.R.R. Tolkien, do Christopher Tolkien biên tập, Jennifer Rogers đánh giá
     - *[Tạo phụ Arda](../S/Sub-creating_Arda.md): Xây dựng thế giới trong tác phẩm của J.R.R. Tolkien, những tiền thân và di sản của nó*, do Dimitra Fimi và Thomas Honegger biên tập, được David Bratman đánh giá
 
-- David Bratman, Jason Fisher, John Wm. Houghton, John Magoun, Kate Neville và Robin Anne Reid, "Công trình nghiên cứu Tolkien của năm 2016"
+- David Bratman, Jason Fisher, John Wm. Houghton, John Magoun, Kate Neville và Robin Anne Reid, "Công việc của năm trong nghiên cứu Tolkien 2016"
 - David Bratman, "Thư mục (bằng tiếng Anh) cho năm 2017"
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://muse.jhu.edu/issue/41259" rel="noreferrer noopener" target="_blank"><i>Tolkien Nghiên cứu</i>: Tập 16</a> tại Project Muse
+- <a class="external text" href="https://muse.jhu.edu/issue/41259" rel="noreferrer noopener" target="_blank"><i>Nghiên cứu về Tolkien</i>: Tập 16</a> tại Project Muse
 
 <br clear="all"/>
 

@@ -11,4 +11,4 @@ redirect_target: "Finrod"
 redirect_fragment: "Other names"
 ---
 
-Chuyển hướng đến [Finrod](Finrod.md#Other_names).
+Chuyển hướng tới [Finrod](Finrod.md#Other_names).

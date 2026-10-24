@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hoarwell"
 ---
 
-Chuyển hướng đến [Hoarwell](../H/Hoarwell.md).
+Chuyển hướng tới [Hoarwell](../H/Hoarwell.md).

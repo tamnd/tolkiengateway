@@ -34,7 +34,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Parma_Eldalamberon_20.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2d/Parma_Eldalamberon_20.jpg/320px-Parma_Eldalamberon_20.jpg" decoding="async" loading="lazy" width="320" height="414" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2d/Parma_Eldalamberon_20.jpg/480px-Parma_Eldalamberon_20.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2d/Parma_Eldalamberon_20.jpg/640px-Parma_Eldalamberon_20.jpg 2x" data-file-width="1224" data-file-height="1584"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Parma Eldalamberon 20<br/><small>The Qenya Alphabet</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../A/Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Elvish_Linguistic_Fellowship.md" title="Elvish Linguistic Fellowship">Elvish Linguistic Fellowship</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/3_August.md" title="3 August">3 August</a> <a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback journal</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">160</td></tr></tbody></table>
 
-<i><b>Parma Eldalamberon 20: Bảng chữ cái Qenya</b></i> là số thứ 20 của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, tạp chí nghiên cứu ngôn ngữ học về các ngôn ngữ Elvish và tên gọi trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Parma Eldalamberon 20: Bảng chữ cái Qenya</b></i> là số thứ 20 của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, một tạp chí nghiên cứu ngôn ngữ về các ngôn ngữ và tên của người Tiên trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 Bìa trước: bản fax *"Qenya Alphabet"*
 
@@ -44,19 +44,19 @@ Bìa trước: bản fax *"Qenya Alphabet"*
 
 - "Bảng chữ cái Qenya" — J.R.R. Tolkien, ed. Arden R. Smith
     - Giới thiệu
-    - Văn bản và Bình luận<br>(chứa 40 mẫu chữ kiểu tengwar Elvish)
+    - Văn bản và Bình luận<br>(chứa 40 mẫu chữ viết Tiên kiểu tengwar)
 
 - Danh sách từ viết tắt
 
 ## Mô tả {#Description}
 
-**"Bảng chữ cái Qenya"** là ấn bản của các biểu đồ và ghi chú của Tolkien từ *circa* 1931 liên quan đến phiên bản sớm nhất của chữ viết về cơ bản thuộc loại khái niệm mà sau này ông gọi là "Fëanorian Tengwar" và cuối cùng đưa vào *The Lord of the Rings*. Số *Parma Eldalamberon* này chứa 40 tài liệu trong đó các ví dụ về chữ viết của Tolkien được sao chép dưới dạng fax.
+**"Bảng chữ cái Qenya"** là ấn bản của các biểu đồ và ghi chú của Tolkien từ *circa* 1931 đề cập đến phiên bản sớm nhất của chữ viết về cơ bản thuộc loại khái niệm mà sau này ông gọi là "Fëanorian Tengwar" và cuối cùng đưa vào *The Lord of the Rings*. Số *Parma Eldalamberon* này chứa 40 tài liệu trong đó các ví dụ về chữ viết của Tolkien được sao chép dưới dạng fax.
 
 Các tài liệu bao gồm các phiên bản khác nhau của lời giải thích chi tiết về việc sử dụng chữ viết để thể hiện tiếng Anh, cả về mặt ngữ âm (vì nó được thiết kế để sử dụng) và cả về chính tả tiếng Anh. Chúng có biểu đồ về giá trị lý thuyết của âm thanh được biểu thị bằng các chữ cái, cũng như các từ và văn bản tiếng Anh khác nhau được viết bằng chữ viết.
 
-Ngoài ra còn có nhiều văn bản mẫu khác nhau được viết bởi Tolkien trong "Qenya Bảng chữ cái". Những điều này minh họa một số thay đổi về mặt khái niệm trong *mode* hoặc việc gán các giá trị ngữ âm cho các chữ cái cụ thể. Ngoài ra còn có rất nhiều phong cách viết khác nhau, từ kiểu viết tay trang trọng đến kiểu viết chữ thảo nhanh.
+Ngoài ra còn có nhiều văn bản mẫu khác nhau được Tolkien viết trong "Bảng chữ cái Qenya". Những điều này minh họa một số thay đổi về mặt khái niệm trong *mode* hoặc việc gán các giá trị ngữ âm cho các chữ cái cụ thể. Ngoài ra còn có rất nhiều phong cách viết khác nhau, từ kiểu viết tay trang trọng đến kiểu viết chữ thảo nhanh.
 
-Hầu hết các ví dụ này đều bằng tiếng Anh, nhưng cũng có những văn bản bằng *Latin*, *Old English*và *Old High German*. Bản ghi lại các ví dụ và bình luận biên tập về niên đại và bối cảnh lịch sử được cung cấp.
+Hầu hết các ví dụ này đều bằng tiếng Anh, nhưng cũng có những văn bản bằng *Latin*, *Old English* và *Old High German*. Bản ghi lại các ví dụ và bình luận biên tập về niên đại và bối cảnh lịch sử được cung cấp.
 
 ## Liên kết ngoài {#External_links}
 

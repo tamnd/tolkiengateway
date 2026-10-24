@@ -23,7 +23,7 @@ images:
 
 **Grace** là một phần của bài hát uống rượu trong tiểu thuyết <i><a class="extiw" href="http://en.wikipedia.org/wiki/Crotchet_Castle" title="wikipedia:Crotchet Castle">Lâu đài Crotchet</a></i> của Thomas Love Peacock năm 1831, được hát theo giai điệu của *The King of France*. Nó được xuất bản dưới dạng bài hát đầu tiên trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* trong [1936](../_/1936.md).
 
-Là câu mở đầu của *Songs*, nó rất phù hợp với phong cách của "[Câu lạc bộ Viking](../V/Viking_Club.md)", nơi [Tolkien](../T/Tolkien.md) và [E.V. Gordon](../E/E.V._Gordon.md) sẽ "đọc tiếng Bắc Âu cổ sagas và uống nhiều bia" với học sinh.
+Là câu mở đầu của *Songs*, nó rất phù hợp với phong cách của "[Câu lạc bộ Viking](../V/Viking_Club.md)", nơi [Tolkien](../T/Tolkien.md) và [E.V. Gordon](../E/E.V._Gordon.md) sẽ "đọc truyện cổ Bắc Âu và uống nhiều bia" với học sinh.
 
 ## Bài hát {#The_song}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Helcaraxë"
 ---
 
-Chuyển hướng đến [Helcaraxë](Helcaraxë.md).
+Chuyển hướng tới [Helcaraxë](Helcaraxë.md).

@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien gần đây là khách mời của Davises ở Glasgow, nơi anh ấy thuyết trình [W.P. Ker Bài giảng](../W/W.P._Ker_Lecture.md) về [*Sir Gawain and the Green Knight*](<../S/Sir_Gawain_and_the_Green_Knight_(lecture).md>). Anh ấy bày tỏ sự nhẹ nhõm khi phần trình diễn của anh ấy có thể chấp nhận được, mặc dù không tốt đến mức đáng lẽ phải do căng thẳng và cảm ơn họ vì lòng hiếu khách hào phóng của họ (trích <a class="extiw" href="http://en.wikipedia.org/wiki/Bob_and_wheel" title="wikipedia:Bob and wheel">bánh xe</a> từ [bài thơ](<../S/Sir_Gawain_and_the_Green_Knight_(poem).md>) bắt đầu "Tôi thực sự muốn yow biholde"). Tolkien cũng xin lỗi vì đã không viết thư trước đó, mặc dù anh ấy có nhắc đến việc gửi hoa.
+Tolkien gần đây là khách mời của Davises ở Glasgow, nơi ông thuyết trình [W.P. Ker Bài giảng](../W/W.P._Ker_Lecture.md) về [*Sir Gawain and the Green Knight*](<../S/Sir_Gawain_and_the_Green_Knight_(lecture).md>). Ông bày tỏ sự nhẹ nhõm khi phần trình diễn của ông có thể chấp nhận được, mặc dù không tốt đến mức đáng lẽ phải do căng thẳng và cảm ơn họ vì lòng hiếu khách hào phóng của họ (trích <a class="extiw" href="http://en.wikipedia.org/wiki/Bob_and_wheel" title="wikipedia:Bob and wheel">bánh xe</a> từ [bài thơ](<../S/Sir_Gawain_and_the_Green_Knight_(poem).md>) bắt đầu "Tôi thực sự muốn yow biholde"). Tolkien cũng xin lỗi vì đã không viết thư trước đó, mặc dù ông đề cập đến việc đã gửi hoa.
 
-Tolkien cũng đề cập đến việc đi du lịch trên toa tàu với "một bà mẹ người Scotland và một cô gái nhỏ." Bình luận của cô bé về Tolkien là: "Tôi thích anh ấy, nhưng tôi không thể hiểu được một từ anh ấy nói." Tolkien trả lời rằng "cái sau thì phổ biến nhưng cái trước thì không bình thường lắm." <br>
+Tolkien cũng đề cập đến việc đi du lịch trên một toa tàu với "một bà mẹ người Scotland và một cô gái nhỏ." Nhận xét của cô bé về Tolkien là: "Tôi thích ông, nhưng tôi không thể hiểu được một từ nào ông nói." Tolkien trả lời rằng "cái sau thì phổ biến nhưng cái trước thì không bình thường lắm." <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

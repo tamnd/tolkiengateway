@@ -39,32 +39,32 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_59.gif.md"><img src="https://tolkiengateway.net/w/images/6/68/Mythlore_59.gif" decoding="async" loading="lazy" width="225" height="292" class="mw-file-element" data-file-width="225" data-file-height="292"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 59</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Autumn <a href="../_/1989.md" title="1989">1989</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">67</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_58.md" title="Mythlore 58">Mythlore 58</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_60.md" title="Mythlore 60">Mythlore 60</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 59</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol16/iss1/" rel="noreferrer noopener" target="_blank">Tập 16, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 59</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol16/iss1/" rel="noreferrer noopener" target="_blank">Tập 16, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Người chiến lược, Leslie. “*Ðe us ðas beagas geaf* (Người đã đưa cho chúng tôi những chiếc nhẫn này): Sauron và sự xuyên tạc Anglo-Saxon đạo đức.”
-- Người quay phim, Kath. “Không ở đây cũng không ở đó: Tinh thần của vị trí trong *Lilith* của George MacDonald và *Till We Have Faces*của Lewis.”
-- McKinley, Marlene Marie. “Sống từ một cội nguồn mới’: Niềm an ủi khó chịu của *All Hallows’ Eve*.”
-- Abbott, Joe. “Quái vật củaTolkien: Khái niệm và chức năng trong *The Lord of the Rings* (Phần 1) Balrog của Khazad-dum.”
-- Hyde, Paul Nolan. “Thần thoại: Con gái của Dãy Núi, Mẹ Ngọc Trai.”
-- Carter, Margaret. “Mùa đông vĩnh viễn ở C.S. Lewis và Patricia McKillip.”
-- Treloar, John L., S.J. “Sử thi Trung Địa và bảy thói xấu thủ đô.”
+- Stratyner, Leslie. “*Ðe us ðas beagas geaf* (He Who Gave Us These Rings): Sauron and the Perversion of Anglo-Saxon Ethos.”
+- Filmer, Kath. “Neither Here Nor There: The Spirit of Place in George MacDonald's *Lilith* and Lewis' *Till We Have Faces*.”
+- McKinley, Marlene Marie. “To Live From a New Root’: The Uneasy Consolation of *All Hallows’ Eve*.”
+- Abbott, Joe. “Tolkien's Monsters: Concept and Function in *The Lord of the Rings* (Part 1) The Balrog of Khazad-dum.”
+- Hyde, Paul Nolan. “Mythos: the Daughter of Mountains, the Mother of Pearls.”
+- Carter, Margaret. “Perpetual Winter in C.S. Lewis and Patricia McKillip.”
+- Treloar, John L., S.J. “The Middle-earth Epic and the Seven Capital Vices.”
 - Patterson, Nancy-Lou. “Một tiếng chuông tốt lành: Sự quan phòng và phán xét ở Dorothy L. Sayers' *The Nine Tailors*.”
-- Heldreth, Lilliam M. “Bảo vệ để sửa chữa: Các mô hình văn hóa ở *Always Coming Home*.”
+- Heldreth, Lilliam M. “To Defend of to Correct: Patterns of Culture in *Always Coming Home*.”
 
 #### Tính năng {#Features}
 
-- GoodKnight, Glen H. Editorial Giới thiệu: Tăng trưởng và An ủi.
-- Christopher, Joe R., Wayne G. Hammond và Pat Allen Hargis. Một Inklings Thư mục (36).
-- Kodratiev, Alexei. “Những câu chuyện mới được kể.”
+- GoodKnight, Glen H. Editorial Introduction: Growth and Consolation.
+- Christopher, Joe R., Wayne G. Hammond, and Pat Allen Hargis. An Inklings Bibliography (36).
+- Kondratiev, Alexei. “Tales Newly Told.”
 - Thư.
 
 #### Đánh giá {#Reviews}
 
-- *The 1990 J.R.R. Tolkien Calendar.* Minh họa. bởi Ted Nasmith. Được đánh giá bởi Paula DiSante.
+- *The 1990 J.R.R. Tolkien Calendar.* Minh họa. của Ted Nasmith. Được đánh giá bởi Paula DiSante.
 - *Letters: A Study in Friendship.* C.S. Lewis và Don Giovanni Calabria. Được đánh giá bởi Nancy-Lou Patterson.
 - *Joseph Campbell, An Introduction.* Robert A Segal. Được đánh giá bởi Nancy-Lou Patterson.
 - *Mật mã ma thuật: Việc sử dụng các mô hình ma thuật trong tưởng tượng cho trẻ em.* Maria Nikolajeva. Được đánh giá bởi Pat Reynold.

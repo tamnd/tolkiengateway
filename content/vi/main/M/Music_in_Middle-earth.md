@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Music_in_Middle-earth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e9/Music_in_Middle-earth.jpg/320px-Music_in_Middle-earth.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e9/Music_in_Middle-earth.jpg/480px-Music_in_Middle-earth.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e9/Music_in_Middle-earth.jpg/640px-Music_in_Middle-earth.jpg 2x" data-file-width="907" data-file-height="1360"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Music in Middle-earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Heidi Steimel and Friedhelm Schneidewind</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a class="mw-redirect" href="../A/Anke_Eissmann.md" title="Anke Eissmann">Anke Eissmann</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../W/Walking_Tree_Publishers.md" title="Walking Tree Publishers">Walking Tree Publishers</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">3 January 2010</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">311</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-3-905703-14-6" title="Special:BookSources/978-3-905703-14-6">978-3-905703-14-6</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../C/Cormarë_Series.md" title="Cormarë Series">Cormarë Series</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../T/Tolkien&#39;s_View.md" title="Tolkien&#39;s View">Tolkien&#39;s View</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../T/The_Ecological_Augury_in_the_Works_of_JRR_Tolkien.md" title="The Ecological Augury in the Works of JRR Tolkien">The Ecological Augury in the Works of JRR Tolkien</a></td></tr></tbody></table>
 
-<i><b>Âm nhạc trong Trung Địa</b></i> là cuốn sách [2010](../_/2010.md) nghiên cứu cách sử dụng bài hát và âm nhạc trong các câu chuyện của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được xuất bản ở vị trí thứ 20 trong *[Cormarë Series](../C/Cormarë_Series.md)*.
+<i><b>Âm nhạc ở Trung địa</b></i> là cuốn sách [2010](../_/2010.md) nghiên cứu cách sử dụng bài hát và âm nhạc trong các câu chuyện của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được xuất bản ở vị trí thứ 20 trong *[Cormarë Series](../C/Cormarë_Series.md)*.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -56,32 +56,32 @@ infobox:
         - Bởi: [Kristine Larsen](../K/Kristine_Larsen.md)
     - Tính đồng điệu, Tính đồng điệu và Ainulindalë
         - Bởi: Reuven Naveh
-    - Ainulindalë: Tolkien, Thánh Thomas, và Siêu hình học của Âm nhạc
+    - Ainulindalë: Tolkien, Thánh Thomas và Siêu hình học của Âm nhạc
         - Bởi: Jonathan McIntosh
 - **Phần B: Âm nhạc trong thế giới của Tolkien**
     - Lịch sử suy đoán về âm nhạc của Arda
         - Bởi: Steven Linden
-    - "Mang nhạc cụ ra!": Nhạc cụ trong Trung Địa
+    - "Mang nhạc cụ ra!": Nhạc cụ ở Trung địa
         - Bởi: Heidi Steimel
-    - Cây đàn hạc trong Trung Địa
+    - Cây đàn hạc ở Trung địa
         - Bởi: Norbert Maier (được dịch từ tiếng Đức bởi Heidi Steimel)
 - **Phần C: Ảnh hưởng của thế giới chúng ta tới âm nhạc của Tolkien**
     - Âm nhạc, thần thoại và chiều sâu văn học trong "Land ohne Musik"
         - Bởi: Gregory Martin
-    - Các dòng Elvish Bài hát và Tiếng nói: Chủ nghĩa Trung cổ Victoria, Âm nhạc và Tolkien
+    - Các dòng bài hát và tiếng nói của thần tiên: Chủ nghĩa thời Trung cổ thời Victoria, Âm nhạc và Tolkien
         - Bởi: [Bradford Lee Eden](../B/Bradford_Lee_Eden.md)
     - Ngủ một bài hát trong nhiều thứ: J.R.R. Tolkien và Truyền thống lãng mạn của Đức
         - Bởi: Julian Eilmann (được dịch từ tiếng Đức bởi Heidi Steimel)
-    - "Họ bắt đầu ngân nga nhẹ nhàng": Một số bài hát của người lính trong Thế chiến I và II và Trung Địa được so sánh và đối chiếu
+    - "Họ bắt đầu ngân nga nhẹ nhàng": Bài hát của một số người lính trong Thế chiến I và II cũng như ở Trung Địa được so sánh và đối chiếu
         - Bởi: Murray Smith
 - **Phần D: Diễn giải âm nhạc của Tolkien trong thế giới của chúng ta**
-    - Một Bóng Tối không thể xuyên thủng: Kiểm tra ảnh hưởng của J.R.R. Tolkien đối với nhạc Black Metal
+    - Bóng tối không thể xuyên thủng: Kiểm tra ảnh hưởng của J.R.R. Tolkien đối với nhạc Black Metal
         - Bởi: Michael Cunningham
-    - Micrô trong Trung Địa: Âm nhạc trong BBC Radio Play
+    - Micrô ở Trung địa: Âm nhạc trên đài phát thanh BBC Play
         - Bởi: Paul Smith
-    - Tiên Âm nhạc trong thời đại chúng ta
+    - Âm nhạc yêu tinh trong thời đại chúng ta
         - Tác giả: Mira Sommer (được Marie-Noëlle Biemer dịch từ tiếng Đức)
-    - Tạo văn bản có thể nghe được: Báo cáo hội thảo về Cài đặt Tolkien cho Âm nhạc
+    - Làm cho văn bản có thể nghe được: Báo cáo hội thảo về việc đưa Tolkien vào âm nhạc
         - Bởi: Fabian Geier (được dịch từ tiếng Đức bởi Heidi Steimel)
 - **Phụ lục**
     - Thể hiện tiếng nói: Tài liệu về sự thất bại

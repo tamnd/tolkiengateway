@@ -14,17 +14,17 @@ sort_keys:
   "Roots": "BARAS"
 ---
 
-**BARÁS** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) không có ý nghĩa gì, ngoại trừ những gì có thể được xác định từ các dẫn xuất của nó. Gốc được cho là "chỉ tìm thấy trong [Noldorin](../N/Noldorin.md)".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+**BARÁS** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) không có ý nghĩa gì, ngoại trừ những gì có thể được xác định từ các dẫn xuất của nó. Gốc được cho là "chỉ tìm thấy trong [Noldorin](../N/Noldorin.md)".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Primitive Quendian](../P/Primitive_Quendian.md): *barasá* ("nóng, cháy")<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
-    - [Old Noldorin](../K/Kornoldorin.md): *barasa*, *baraha* ("nóng, rát")<sup id="cite_ref-Ety_1-2" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
-    - [Người lưu đày Noldorin](../N/Noldorin.md): *[bara](Bara.md)*<sup id="cite_ref-Ety_1-3" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+- [Quendian nguyên thủy](../P/Primitive_Quendian.md): *barasá* ("nóng, cháy")<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+    - [Noldorin già](../K/Kornoldorin.md): *barasa*, *baraha* ("nóng, cháy")<sup id="cite_ref-Ety_1-2" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+    - [Noldorin lưu đày](../N/Noldorin.md): *[bara](Bara.md)*<sup id="cite_ref-Ety_1-3" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
-- [Primitive Quendian](../P/Primitive_Quendian.md): *b’rás-sē* ("nhiệt")<sup id="cite_ref-Ety_1-4" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
-    - [Old Noldorin](../K/Kornoldorin.md): *brasse* ("nhiệt trắng")<sup id="cite_ref-Ety_1-5" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
-    - [Người lưu đày Noldorin](../N/Noldorin.md): *brass*, *[brassen](Brassen.md)*<sup id="cite_ref-Ety_1-6" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+- [Quendian nguyên thủy](../P/Primitive_Quendian.md): *b’rás-sē* ("nhiệt")<sup id="cite_ref-Ety_1-4" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+    - [Noldorin già](../K/Kornoldorin.md): *brasse* ("nhiệt trắng")<sup id="cite_ref-Ety_1-5" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+    - [Noldorin lưu vong](../N/Noldorin.md): *brass*, *[brassen](Brassen.md)*<sup id="cite_ref-Ety_1-6" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 <span></span>
 

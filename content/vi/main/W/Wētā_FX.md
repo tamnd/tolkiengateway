@@ -32,7 +32,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Weta_Fx_logo.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b2/Weta_Fx_logo.jpg/175px-Weta_Fx_logo.jpg" decoding="async" loading="lazy" width="175" height="175" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b2/Weta_Fx_logo.jpg/263px-Weta_Fx_logo.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b2/Weta_Fx_logo.jpg/350px-Weta_Fx_logo.jpg 2x" data-file-width="811" data-file-height="811"/></a><figcaption>Current logo of Wētā FX</figcaption></figure>
 
-**Wētā FX**, trước đây gọi là **Weta Digital**, là một công ty hiệu ứng hình ảnh kỹ thuật số đã tạo ra tất cả các hiệu ứng đặc biệt cho [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>) và [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>). Nó cũng đã đồng tạo ra các hiệu ứng đặc biệt cho loạt phim [The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) cùng với các công ty hiệu ứng hình ảnh khác như chúng tôi <a class="extiw" href="http://en.wikipedia.org/wiki/Industrial_Light_%26_Magic" title="wikipedia:Industrial Light &amp; Magic">Industrial Light & Magic</a> (ILM) và <a class="extiw" href="http://en.wikipedia.org/wiki/DNEG" title="wikipedia:DNEG">DNEG</a>. Nó được thành lập bởi [Peter Jackson](../P/Peter_Jackson.md), [Richard Taylor](../R/Richard_Taylor.md) và Jamie Selkirk ở [1993](../_/1993.md)và có trụ sở tại Wellington, [New Zealand](../N/New_Zealand.md).
+**Wētā FX**, trước đây gọi là **Weta Digital**, là một công ty hiệu ứng hình ảnh kỹ thuật số đã tạo ra tất cả các hiệu ứng đặc biệt cho [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>) và [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>). Nó cũng đã đồng tạo ra các hiệu ứng đặc biệt cho loạt phim [The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) cùng với các công ty hiệu ứng hình ảnh khác như chúng tôi <a class="extiw" href="http://en.wikipedia.org/wiki/Industrial_Light_%26_Magic" title="wikipedia:Industrial Light &amp; Magic">Industrial Light & Magic</a> (ILM) và <a class="extiw" href="http://en.wikipedia.org/wiki/DNEG" title="wikipedia:DNEG">DNEG</a>. Nó được thành lập bởi [Peter Jackson](../P/Peter_Jackson.md), [Richard Taylor](../R/Richard_Taylor.md) và Jamie Selkirk ở [1993](../_/1993.md) và có trụ sở tại Wellington, [New Zealand](../N/New_Zealand.md).
 
 Vào tháng 11 năm 2021, công ty được bán cho công ty phần mềm trò chơi điện tử Unity Technologies với giá 1,625 tỷ USD.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Việc mua lại được hoàn tất vào tháng tiếp theo vào tháng 12 năm 2021.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -40,17 +40,17 @@ Vào tháng 11 năm 2021, công ty được bán cho công ty phần mềm trò 
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Weta_Digital_-_logo.gif.md"><img src="https://tolkiengateway.net/w/images/c/c1/Weta_Digital_-_logo.gif" decoding="async" loading="lazy" width="151" height="100" class="mw-file-element" data-file-width="151" data-file-height="100"/></a><figcaption>Previous logo of Wētā FX, as Weta Digital</figcaption></figure>
 
-Đến nay, Wētā FX đã giành được sáu Giải Oscar cho Hiệu ứng hình ảnh xuất sắc nhất: The Lord of the Rings: The Fellowship of the Ring (2001), The Lord of the Rings: The Two Towers (2002), The Lord of the Rings: The Return of the King (2003), Vua Kong (2005), Avatar (2009) và The Jungle Book (2016).
+Đến nay, Wētā FX đã giành được sáu Giải Oscar cho Hiệu ứng hình ảnh xuất sắc nhất: Chúa tể của những chiếc nhẫn: Hiệp hội nhẫn (2001), Chúa tể của những chiếc nhẫn: Hai tòa tháp (2002), Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua (2003), King Kong (2005), Avatar (2009) và The Jungle Book (2016).
 
 <h3><span id="Peter_Jackson.27s_The_Middle-earth_Saga"></span><span class="mw-headline" id="Peter_Jackson&#39;s_The_Middle-earth_Saga">Peter Jackson&#39;s <i>The Middle-earth Saga</i></span></h3>
 
-#### *The Lord of the Rings: The Fellowship of the Ring* {#The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring}
+#### *Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn* {#The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring}
 
 - Giải Oscar® cho Hiệu ứng Hình ảnh Xuất sắc nhất: Viện Hàn lâm Điện ảnh, Nghệ thuật và Khoa học
 - BAFTA cho Hiệu ứng hình ảnh xuất sắc nhất: Viện Hàn lâm Nghệ thuật Điện ảnh và Truyền hình Anh
 - Giải thưởng Vệ tinh cho Hiệu ứng Hình ảnh Xuất sắc nhất
 
-#### *The Lord of the Rings: The Two Towers* {#The_Lord_of_the_Rings:_The_Two_Towers}
+#### *Chúa tể của những chiếc nhẫn: Hai tòa tháp* {#The_Lord_of_the_Rings:_The_Two_Towers}
 
 - Giải Oscar® cho Hiệu ứng Hình ảnh Xuất sắc nhất: Viện Hàn lâm Điện ảnh, Nghệ thuật và Khoa học
 - BAFTA cho Hiệu ứng hình ảnh xuất sắc nhất: Viện Hàn lâm Nghệ thuật Điện ảnh và Truyền hình Anh
@@ -63,7 +63,7 @@ Vào tháng 11 năm 2021, công ty được bán cho công ty phần mềm trò 
 - Giải thưởng của Hiệp hội Hiệu ứng Hình ảnh cho Sáng tác Phim hay nhất
 - Giải thưởng của Hiệp hội Hiệu ứng Hình ảnh cho Nam diễn viên trong Phim Hiệu ứng Xuất sắc nhất
 
-#### *The Lord of the Rings: The Return of the King* {#The_Lord_of_the_Rings:_The_Return_of_the_King}
+#### *Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua* {#The_Lord_of_the_Rings:_The_Return_of_the_King}
 
 - Giải Oscar® cho Hiệu ứng Hình ảnh Xuất sắc nhất: Viện Hàn lâm Điện ảnh, Nghệ thuật và Khoa học
 - Giải thưởng Thành tựu Kỹ thuật cho Gollum: Viện Hàn lâm Điện ảnh, Nghệ thuật và Khoa học
@@ -90,7 +90,7 @@ Vào tháng 11 năm 2021, công ty được bán cho công ty phần mềm trò 
 
 - Giải thưởng của Hiệp hội Hiệu ứng Hình ảnh cho Hiệu ứng Hình ảnh Xuất sắc trong Tập phim như thật (dành cho "[Udûn](<../U/Udûn_(episode).md>)")
 - Giải thưởng của Hiệp hội Hiệu ứng Hình ảnh cho Môi trường được tạo dựng xuất sắc trong một tập phim, dự án thương mại hoặc thời gian thực (cho Vụ phá hủy núi lửa trong "[Adar](<../A/Adar_(episode).md>)")
-- Giải thưởng của Hiệp hội Hiệu ứng Hình ảnh cho Mô phỏng Hiệu ứng Xuất sắc trong một Tập, Dự án Thương mại hoặc Thời gian Thực (dành cho Númenor Thành phố ở "Udûn")
+- Giải thưởng của Hiệp hội Hiệu ứng Hình ảnh cho Mô phỏng Hiệu ứng Xuất sắc trong một Tập, Dự án Thương mại hoặc Thời gian Thực (dành cho Thành phố Númenor trong "Udûn")
 
 ## Xem thêm {#See_also}
 

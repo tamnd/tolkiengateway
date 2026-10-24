@@ -13,7 +13,7 @@ categories:
   - "Danish organizations"
 ---
 
-**Dansk Tolkien Selskab** là Hiệp hội Tolkien đầu tiên của Đan Mạch, tồn tại vài năm trong thập niên 1980. Hiệp hội này không tồn tại được lâu và đã biến mất vào thời điểm hai Hiệp hội khác ở Đan Mạch, [Tolkiens Følge](../T/Tolkiens_Følge.md) và [Danmarks Tolkienforening](../I/Imladris,_Danmarks_Tolkienforening.md), xuất hiện vào đầu những năm 1990.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Dansk Tolkien Selskab** là Hiệp hội Tolkien Đan Mạch đầu tiên, tồn tại vài năm trong thập niên 1980. Hiệp hội này không tồn tại được lâu và đã biến mất vào thời điểm hai Hiệp hội khác ở Đan Mạch, [Tolkiens Følge](../T/Tolkiens_Følge.md) và [Danmarks Tolkienforening](../I/Imladris,_Danmarks_Tolkienforening.md), xuất hiện vào đầu những năm 1990.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

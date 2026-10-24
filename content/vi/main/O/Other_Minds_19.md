@@ -28,31 +28,31 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 19</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Hawke Robinson</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Other Minds Volunteers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">September <a href="../_/2018.md" title="2018">2018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">133</td></tr></tbody></table>
 
-<b><i>Other Minds</i> 19</b> là số thứ 19 của *[Other Minds](Other_Minds.md)*, tạp chí dành riêng cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh Trung Địa, xuất bản vào tháng Chín 2018.
+<b><i>Other Minds</i> 19</b> là số thứ 19 của *[Other Minds](Other_Minds.md)*, một tạp chí dành riêng cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh ở Trung Địa, được xuất bản vào tháng 9 năm 2018.
 
 ## Nội dung {#Contents}
 
 - "Biên tập: Đúng như Shiretalk..."
     - Bởi [Thomas Morwinsky](../T/Thomas_Morwinsky.md)
-- "The Road Goes Ever On"
+- "Con Đường Mãi Mãi Đi"
     - Bởi Thomas Morwinsky
 - "Thông tin nội bộ"
     - Bởi Thomas Morwinsky
-- "Trung Địa trong Thu nhỏ IV: Tiên tộc"
-    - Tác giả José Enrique Vacas de la Rosa
+- "Trung Địa trong Thu nhỏ IV: Yêu tinh"
+    - Bởi José Enrique Vacas de la Rosa
 - "Bree - Ghi chú chiến dịch mở rộng"
     - Tác giả Olaf "Falenthal" Anguera
 - "Đánh giá: Erebor"
     - Bởi Thomas Morwinsky
-- "Một Vua không có dân gian"
+- "Một vị vua không có dân"
     - Tác giả Olaf "Falenthal" Anguera
-- "Đã chia Arnor"
+- "Arnor bị chia cắt"
     - Bởi Thomas Morwinsky
 - "Mũi tên đen"
     - Bởi: David Cole
-- "Truyện Buckberry"
+- "Truyện Bucketberry"
     - Bởi: Peter Bergman
-- "Phụ lục: Hình ảnh kích thước đầy đủ cho Divided Arnor và The Black Arrow"
+- "Phụ lục: Hình ảnh kích thước đầy đủ của Divided Arnor và The Black Arrow"
 
 - **Tác phẩm nghệ thuật / Bản đồ:**
     - Bởi: Sergio Artigas, Onur Bakar, Steve Bellshaw, [Matej Cadil](../M/Matej_Cadil.md), Ralph Damiani, Jenny Dolfen, [Anke Eißmann](../A/Anke_Eißmann.md), Mark Fisher, Wouter Florusse, Daniel Govar, Gin Hardiarso, [John Howe](../J/John_Howe.md), Pierre Joubert, Pawel Kardis, Liiga Klavina, JLazarusEB, Turner Mohan, Nolanos, Abe Papakhian, Jereme Peabody, Vincent Pompetti, [Jan Pospíšil](../J/Jan_Pospíšil.md), Peter Xavier Price, John Emanuel Shannon, Ari Suonpää, Những thiên thần T.I.

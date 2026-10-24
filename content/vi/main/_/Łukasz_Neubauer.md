@@ -20,7 +20,7 @@ sort_keys:
   "Polish people": "Neubauer, Lukasz"
 ---
 
-**Łukasz Neubauer** là một [Tolkien học giả](../T/Tolkien_studies.md) đến từ Ba Lan. Ông nhận bằng Tiến sĩ ngữ văn tiếng Anh tại Đại học Łódź. Ông là nhà nghiên cứu và giảng viên tại Đại học Koszalin, Ba Lan, nơi ông giảng dạy các khóa học về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [tiếng Anh cổ](../O/Old_English.md) văn học và truyện lãng mạn thời vua Arthur. Ngoài việc xuất bản nhiều bài viết về thời trung cổ cũng như [Kitô giáo](../C/Christianity.md), những ảnh hưởng và tiếng vang trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
+**Łukasz Neubauer** là [học giả Tolkien](../T/Tolkien_studies.md) đến từ Ba Lan. Ông nhận bằng Tiến sĩ ngữ văn tiếng Anh tại Đại học Łódź. Ông là nhà nghiên cứu và giảng viên tại Đại học Koszalin, Ba Lan, nơi ông dạy các khóa học về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [tiếng Anh cổ](../O/Old_English.md) văn học và truyện lãng mạn thời vua Arthur. Ngoài việc xuất bản nhiều bài viết về thời trung cổ cũng như [Kitô giáo](../C/Christianity.md), những ảnh hưởng và tiếng vang trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
 ## Thư mục {#Bibliography}
 
@@ -32,7 +32,7 @@ sort_keys:
 ### Bài viết {#Articles}
 
 - [2013](2013.md): Cormarë 29: *[O What a Tangled Web](../O/O_What_a_Tangled_Web.md)*
-    - "'Anh ấy đã đến với Chúa để tìm kiếm vinh quang': Phê phán lòng dũng cảm phương Bắc và sự bác bỏ các đặc tính anh hùng truyền thống của Tolkien trong *The Homecoming of Beorhtnoth Beorhthelm's Son*"
+    - "'Ông đã đến với Chúa để tìm kiếm vinh quang': Phê phán lòng dũng cảm phương Bắc và sự bác bỏ các đặc tính anh hùng truyền thống của Tolkien trong *The Homecoming of Beorhtnoth Beorhthelm's Son*"
 - [2015](2015.md): *[Aiglos 20](../A/Aiglos_20.md)*
     - "Diễn giải lại lý tưởng anh hùng trong tác phẩm của Tolkien trên cơ sở những đoạn được chọn lọc của *The Lord of the Rings*"
     - "Cuộc phỏng vấn với [Thomas Honegger](../T/Thomas_Honegger.md)"

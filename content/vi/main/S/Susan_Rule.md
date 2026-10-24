@@ -22,4 +22,4 @@ sort_keys:
   "Tolkien Society members": "Rule, Susan"
 ---
 
-**Susan Rule** là tác giả và thành viên của [Hội Tolkien](../T/The_Tolkien_Society.md). Cô là biên tập viên của *[Quettar](../Q/Quettar.md)*và của *[Mallorn (journal)](<../M/Mallorn_(journal).md>)* từ [1979](../_/1979.md) đến [1981](../_/1981.md).
+**Susan Rule** là tác giả và thành viên của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md). Cô là biên tập viên của *[Quettar](../Q/Quettar.md)* và của *[Mallorn (journal)](<../M/Mallorn_(journal).md>)* từ [1979](../_/1979.md) đến [1981](../_/1981.md).

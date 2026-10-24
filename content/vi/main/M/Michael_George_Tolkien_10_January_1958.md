@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Michael George Tolkien (10 January 1958)"
 ---
 
-Chuyển hướng tới [Thư gửi Michael George Tolkien (10 tháng 1 năm 1958)](<../L/Letter_to_Michael_George_Tolkien_(10_January_1958).md>).
+Chuyển hướng đến [Thư gửi Michael George Tolkien (10 tháng 1 năm 1958)](<../L/Letter_to_Michael_George_Tolkien_(10_January_1958).md>).

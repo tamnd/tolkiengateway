@@ -61,23 +61,23 @@ images:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 24 tháng Chín.
+Sự kiện xảy ra vào ngày 24 tháng 9
 
 ## Trên Trái đất {#On_Earth}
 
 - **[1914](1914.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết bài thơ *[The Voyage of Eärendel the Evening Star](../T/The_Voyage_of_Eärendel_the_Evening_Star.md)*.
-- **[1977](1977.md)** - [Oxonmoot 1977](../O/Oxonmoot_1977.md) tại The tiếng Wales Pony.
-- **[1978](1978.md)** - [Oxonmoot 1978](../O/Oxonmoot_1978.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
+- **[1977](1977.md)** - [Oxonmoot 1977](../O/Oxonmoot_1977.md) tại The Welsh Pony.
+- **[1978](1978.md)** - [Oxonmoot 1978](../O/Oxonmoot_1978.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
 - **[1982](1982.md)** - [Oxonmoot 1982](../O/Oxonmoot_1982.md) tại khách sạn Cotswold Lodge.
-- **[1983](1983.md)** - [Oxonmoot 1983](../O/Oxonmoot_1983.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
-- **[1988](1988.md)** - [Oxonmoot 1988](../O/Oxonmoot_1988.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
-- **[1989](1989.md)** - [Oxonmoot 1989](../O/Oxonmoot_1989.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
-- **[1990](1990.md)** - [Oxonmoot 1990](../O/Oxonmoot_1990.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
+- **[1983](1983.md)** - [Oxonmoot 1983](../O/Oxonmoot_1983.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
+- **[1988](1988.md)** - [Oxonmoot 1988](../O/Oxonmoot_1988.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
+- **[1989](1989.md)** - [Oxonmoot 1989](../O/Oxonmoot_1989.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
+- **[1990](1990.md)** - [Oxonmoot 1990](../O/Oxonmoot_1990.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
 - **[1999](1999.md)** - [Oxonmoot 1999](../O/Oxonmoot_1999.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College</a>.
-- **[2000](2000.md)** - [Oxonmoot 2000](../O/Oxonmoot_2000.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/St_Antony%27s_College,_Oxford" title="wikipedia:St Antony&#39;s College, Oxford">Đại học St Antony</a>.
+- **[2000](2000.md)** - [Oxonmoot 2000](../O/Oxonmoot_2000.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/St_Antony%27s_College,_Oxford" title="wikipedia:St Antony&#39;s College, Oxford">Trường Cao đẳng St Antony</a>.
 - **[2002](2002.md)** - Phiên bản GBA của *[The Fellowship of the Ring](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)* được phát hành ở Bắc Mỹ.
 - **[2010](2010.md)** - [Oxonmoot 2010](../O/Oxonmoot_2010.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
-- **[2010](2010.md)** - Cuộc gặp mùa thu Lasse Lanta của Hiệp hội Tolkien Áo.
+- **[2010](2010.md)** - Cuộc họp mùa thu Lasse Lanta của Hiệp hội Tolkien Áo.
 - **[2011](2011.md)** - [Oxonmoot 2011](../O/Oxonmoot_2011.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_Margaret_Hall,_Oxford" title="wikipedia:Lady Margaret Hall, Oxford">Lady Margaret Hall</a>.
 - **[2017](2017.md)** - [Oxonmoot 2017](../O/Oxonmoot_2017.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/St_Antony%27s_College,_Oxford" title="wikipedia:St Antony&#39;s College, Oxford">Đại học St Antony</a>.
 
@@ -90,9 +90,9 @@ Sự kiện xảy ra vào ngày 24 tháng Chín.
     - [Khamûl](../K/Khamûl.md) đi trên [Đường Stock](../S/Stock_Road.md) và cảm nhận được [One Ring](../O/One_Ring.md); không chắc chắn vì ánh sáng ban ngày chói chang, anh bỏ đi và đợi đến đêm.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
     - Các hobbit dừng lại để trốn khỏi [Kỵ sĩ đen](../B/Black_Rider.md). Họ tiếp tục đi song song với con đường. Họ tham gia con đường vào lúc hoàng hôn.
     - Họ trốn trong gốc cây, ăn nhẹ và nghỉ ngơi, rồi tiếp tục hoạt động khi màn đêm buông xuống.
-    - [Gildor Inglorion](../G/Gildor.md) và [những người bạn đồng hành của anh ấy](../W/Wandering_Companies.md) trở về sau cuộc hành hương đến *[palantír](../E/Elostirion-stone.md)* của [Tower Hills](../T/Tower_Hills.md) đến [Rivendell](../R/Rivendell.md).
+    - [Gildor Inglorion](../G/Gildor.md) và [những người bạn đồng hành của ông](../W/Wandering_Companies.md) trở về sau cuộc hành hương đến *[palantír](../E/Elostirion-stone.md)* của [Tower Hills](../T/Tower_Hills.md) đến [Rivendell](../R/Rivendell.md).
     - Khamûl cảm nhận được chiếc nhẫn một lần nữa và truy đuổi Frodo.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
-    - Frodo, Sam và Pippin chạm trán với [Nazgûl](../N/Nazgûl.md) gần [Woody End](../W/Woody_End.md); anh ta bỏ chạy vì [tiếng tụng kinh](../E/Elven_Hymn_to_Elbereth.md) của Yêu tinh đang đến gần. Trại Hobbit với Yêu tinh.
+    - Frodo, Sam và Pippin chạm trán với [Nazgûl](../N/Nazgûl.md) gần [Woody End](../W/Woody_End.md); ông ta bỏ chạy vì [tiếng tụng kinh](../E/Elven_Hymn_to_Elbereth.md) của Yêu tinh đang đến gần. Trại Hobbit với Yêu tinh.
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 
 <span></span>

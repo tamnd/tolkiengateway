@@ -21,9 +21,9 @@ langlinks:
     url: "https://kontu.wiki/Valkovaarojen_vapaamarkkinat"
 ---
 
-**Hội chợ miễn phí** là một lễ hội được [Hobbit](../H/Hobbits.md) tổ chức trong ba ngày [Lithe](../L/Lithedays.md). Nó diễn ra ở [White Downs](../W/White_Downs.md) gần [Michel Delving](../M/Michel_Delving.md) và một trong những điểm thu hút là cuộc bầu cử [Thị trưởng Michel Delving](../M/Mayor_of_Michel_Delving.md) được tổ chức bảy năm một lần. Nó được gọi là 'Miễn phí' vì bất kỳ ai cũng có thể dựng gian hàng miễn phí.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Hội chợ miễn phí** là một lễ hội mà [Hobbit](../H/Hobbits.md) tổ chức trong ba ngày [Lithe](../L/Lithedays.md). Nó diễn ra ở [White Downs](../W/White_Downs.md) gần [Michel Delving](../M/Michel_Delving.md) và một trong những điểm thu hút là cuộc bầu cử [Thị trưởng Michel Delving](../M/Mayor_of_Michel_Delving.md) được tổ chức bảy năm một lần. Nó được gọi là 'Miễn phí' vì bất kỳ ai cũng có thể dựng gian hàng miễn phí.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Tại Hội chợ Tự do [S.R.](../S/Shire_Reckoning.md) [1420](../T/Third_Age_3020.md) [Frodo Baggins](Frodo_Baggins.md) từ chức Phó Thị trưởng và [Will Whitfoot](../W/Will_Whitfoot.md) trở lại nắm quyền trong bảy năm.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tại [1427](Fourth_Age_6.md) Will Whitfoot từ chức và [Samwise Gamgee](../S/Samwise_Gamgee.md) được bầu làm Thị trưởng, bắt đầu nhiệm kỳ đầu tiên trong bảy nhiệm kỳ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+At the Free Fair of [S.R.](../S/Shire_Reckoning.md) [1420](../T/Third_Age_3020.md) [Frodo Baggins](Frodo_Baggins.md) resigned as Deputy Mayor and [Will Whitfoot](../W/Will_Whitfoot.md) returned to office for seven years.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> In [1427](Fourth_Age_6.md) Will Whitfoot resigned and [Samwise Gamgee](../S/Samwise_Gamgee.md) was elected Mayor, beginning the first of seven terms in office.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

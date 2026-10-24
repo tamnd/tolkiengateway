@@ -31,11 +31,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nói rằng anh ấy đã viết một lá thư cho Unwin vào [ngày cuối cùng](../_/31_July.md) của [tháng 7](../J/July.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> nhưng đã đặt nó sang một bên vì có vẻ như nó khiến công việc của anh ấy quá phiền phức.
+Tolkien nói rằng ông đã viết một lá thư cho Unwin vào [ngày cuối cùng](../_/31_July.md) của [tháng 7](../J/July.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> nhưng đã đặt nó sang một bên vì có vẻ như nó khiến tác phẩm của ông quá bận tâm.
 
-Ông chủ yếu dành thời gian cho ngữ văn vì ông có một đồng nghiệp ở Liege, người mà ông đã cùng nghiên cứu trước chiến tranh và đã ở lại với ông trong khi họ chuẩn bị công việc cho báo chí. Anh ấy sắp dành vài ngày để thực hiện công việc kinh doanh ở trường đại học nên đã gửi bức thư bị trì hoãn từ lâu.
+Ông chủ yếu dành thời gian cho ngữ văn vì ông có một đồng nghiệp ở Liege, người mà ông đã cùng nghiên cứu trước chiến tranh và đã ở lại với ông trong khi họ chuẩn bị công việc cho báo chí. Ông sắp dành vài ngày để thực hiện công việc kinh doanh ở trường đại học nên đã gửi bức thư bị trì hoãn từ lâu.
 
-Giữa lúc nghiên cứu và hành trình, anh đã cố gắng tranh thủ sửa lại Quyển II của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Ông ấy đã gửi tài liệu này dưới một vỏ bọc riêng để Stanley và [con trai ông ấy](../R/Rayner_Unwin.md) phê bình. Một số chương đã được viết lại để không lặp lại. Ông cũng gửi chương mở đầu của Lời nói đầu:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup> “[Về Hobbit](../C/Concerning_Hobbits.md)” liên kết với cuốn sách trước đó và trả lời các câu hỏi đã được đặt ra.
+Giữa lúc nghiên cứu và hành trình, anh đã cố gắng tranh thủ sửa lại Quyển II của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Ông ấy đã gửi tài liệu này dưới một vỏ bọc riêng để Stanley và [con trai ông ấy](../R/Rayner_Unwin.md) phê bình. Một số chương đã được viết lại để không lặp lại. Ông cũng gửi chương mở đầu của Lời nói đầu:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup> "[Về người Hobbit](../C/Concerning_Hobbits.md)" liên kết với cuốn sách trước đó và trả lời các câu hỏi đã được đặt ra.
 
 ## Ghi chú {#Notes}
 

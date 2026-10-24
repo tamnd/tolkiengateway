@@ -13,7 +13,7 @@ categories:
   - "Hobbit families"
 ---
 
-**Gia đình Roper** là một gia đình trẻ [Hobbit](../H/Hobbits.md), một nhánh của [Gia đình Gamgee](../G/Gamgee_Family~66365.md).
+**Gia đình Roper** là một gia đình trẻ của [Người Hobbit](../H/Hobbits.md), một nhánh của [Gia đình Gamgee](../G/Gamgee_Family~66365.md).
 
 ## Lịch sử {#History}
 
@@ -33,7 +33,7 @@ Gia đình Ropers ở lại ngôi nhà tổ tiên của họ ở [Tighfield](../
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayals_in_Adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>There are several Hobbits with the surname Roper in the game. Some of the more important ones are Lilabet Roper and Sheldon Roper.</dd></dl>
 

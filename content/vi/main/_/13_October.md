@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 13 tháng 10
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được xác định không đủ điều kiện làm nhiệm vụ trong 6 tháng nhưng có thể làm công việc bàn giấy.
+- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được xác định không đủ sức khỏe để làm nhiệm vụ trong 6 tháng nhưng có thể làm công việc bàn giấy.
 - **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 34](../L/Letter_34.md).
 - **[1962](1962.md)** - [Tim Tolkien](../T/Tim_Tolkien.md) ra đời.
 - **[1968](1968.md)** - *Riddles in the Dark*, tập thứ ba của [loạt phim phát thanh năm 1968](<../T/The_Hobbit_(1968_radio_series).md>) của *[The Hobbit](../T/The_Hobbit.md)*, được phát sóng trên [Đài BBC](../B/BBC.md).
@@ -77,8 +77,8 @@ Sự kiện xảy ra vào ngày 13 tháng 10
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md)tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm về phía [Rivendell](../R/Rivendell.md). Họ băng qua [Cây Cầu Cuối Cùng](../L/Last_Bridge.md) và tìm thấy beryl do [Glorfindel](../G/Glorfindel.md)để lại.
-    - [Gandalf](../G/Gandalf.md) lao về phía [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công anh ta vào [Weathertop](../W/Weathertop.md).
+    - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm rãi về phía [Rivendell](../R/Rivendell.md). Họ băng qua [Cây cầu cuối cùng](../L/Last_Bridge.md) và tìm thấy viên beryl do [Glorfindel](../G/Glorfindel.md) để lại.
+    - [Gandalf](../G/Gandalf.md) vội vã tiến về [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ áo đen](../N/Nazgûl.md) tấn công ông ta trên [Weathertop](../W/Weathertop.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

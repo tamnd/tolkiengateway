@@ -14,7 +14,7 @@ sort_keys:
   "Sindarin texts": "Gurth an Glamhoth"
 ---
 
-<i><b>Gurth an Glamhoth!</b></i> là một cụm từ [Sindarin](../S/Sindarin.md) được [Tuor](../T/Tuor.md) lẩm bẩm khi anh ta và [Voronwë](../V/Voronwë.md) phát hiện một trại [Orc](../O/Orc.md) và anh ta muốn tấn công họ và lấy thịt của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó được dịch là "Cái chết cho [Glamhoth](Glamhoth.md)!"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+<i><b>Gurth an Glamhoth!</b></i> là một cụm từ [Sindarin](../S/Sindarin.md) được [Tuor](../T/Tuor.md) lẩm bẩm khi anh và [Voronwë](../V/Voronwë.md) phát hiện một trại [Orc](../O/Orc.md) và ông ta muốn tấn công chúng và lấy thịt của chúng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó được dịch là "Đả đảo [Glamhoth](Glamhoth.md)!"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

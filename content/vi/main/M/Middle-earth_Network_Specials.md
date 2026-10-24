@@ -15,8 +15,8 @@ sort_keys:
   "Podcasts": "Middle-earth Network Specials"
 ---
 
-<i><b>Trung Địa Network Specials</b></i> là một podcast từ [Trung Địa Network](Middle-earth_Network.md) với các khách mời đặc biệt. Nó được sản xuất bởi [Trung Địa Network Radio](Middle-earth_Network.md).
+<i><b>Đặc biệt của Mạng Trung Địa</b></i> là một podcast từ [Mạng Trung Địa](Middle-earth_Network.md) với những khách mời đặc biệt. Nó được sản xuất bởi [Đài phát thanh mạng Trung địa](Middle-earth_Network.md).
 
 ## Liên kết ngoài {#External_links}
 
-- <i><a class="external text" href="http://menetspecials.mymiddleearth.com" rel="noreferrer noopener" target="_blank">Trung Địa Ưu đãi đặc biệt của mạng</a></i>
+- <i><a class="external text" href="http://menetspecials.mymiddleearth.com" rel="noreferrer noopener" target="_blank">Ưu đãi đặc biệt của mạng Trung Địa</a></i>

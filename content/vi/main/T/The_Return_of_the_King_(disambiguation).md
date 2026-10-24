@@ -16,11 +16,11 @@ images:
   - "Disambig.png"
 ---
 
-**The Return of the King** có thể tham khảo:
+**Sự trở lại của nhà vua** có thể đề cập đến:
 
 ## Sách {#Books}
 
-- <b><i><a href="The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, là Phần thứ ba của <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>.</b>
+- <b><i><a href="The_Return_of_the_King.md" title="The Return of the King">Sự trở lại của Nhà vua</a></i>, là Phần thứ ba của <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">Chúa tể của những chiếc nhẫn</a></i>.</b>
 - *[The Art of The Return of the King](The_Art_of_The_Return_of_the_King.md)*, sách ảnh gắn liền với phim của [Gary Russell](../G/Gary_Russell.md).
 - *[The Lord of the Rings: The Return of the King Visual Companion](The_Lord_of_the_Rings%253A_The_Return_of_the_King_Visual_Companion.md)*, sách ảnh gắn liền với phim của [Jude Fisher](../J/Jude_Fisher.md).
 
@@ -28,12 +28,12 @@ images:
 
 - [*The Return of the King* (phim 1980)](<The_Return_of_the_King_(1980_film).md>), phim truyền hình [Rankin/Bass](../R/Rankin%252FBass.md).
 - *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*, bộ phim [2003](../_/2003.md) của đạo diễn [Peter Jackson](../P/Peter_Jackson.md).
-    - [*The Lord of the Rings: The Return of the King* (phiên bản mở rộng)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>), một phiên bản của phim có thời lượng thêm 52 phút.
-    - [*The Lord of the Rings: The Return of the King* (trò chơi điện tử)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>), trò chơi điện tử chuyển thể từ trò chơi điện tử của [Electronic Arts](../E/Electronic_Arts.md) từ bộ phim năm 2003.
+    - [*The Lord of the Rings: The Return of the King* (extended edition)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>), phiên bản phim có thêm 52 phút.
+Trò chơi điện tử     - [*The Lord of the Rings: The Return of the King* (video game)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>), [Electronic Arts](../E/Electronic_Arts.md) chuyển thể từ bộ phim năm 2003.
     - *[The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md)*
         - *[The Lord of the Rings: The Return of the King - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)*
-        - ["The Return of the King" (nhạc phim)](<The_Return_of_the_King_(soundtrack).md>), một bài hát trong nhạc phim.
-- "The Return of the King", tập thứ 24 của [*The Lord of the Rings* (loạt phim phát thanh năm 1981)](<The_Lord_of_the_Rings_(1981_radio_series).md>).
+        - ["Sự trở lại của nhà vua" (nhạc phim)](<The_Return_of_the_King_(soundtrack).md>), một bài hát trong nhạc phim.
+- "Sự trở lại của nhà vua", tập thứ 24 của [*The Lord of the Rings* (loạt phim phát thanh năm 1981)](<The_Lord_of_the_Rings_(1981_radio_series).md>).
 
 <hr style="margin-top:15px;"/>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Faramir Took I"
 ---
 
-Chuyển hướng tới [Faramir Đã thực hiện](Faramir_Took_I.md).
+Chuyển hướng tới [Faramir Take I](Faramir_Took_I.md).

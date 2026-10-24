@@ -23,7 +23,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Turner_Mohan_-_Out_Of_The_Sea_I_Am_Come.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/42/Turner_Mohan_-_Out_Of_The_Sea_I_Am_Come.jpg/300px-Turner_Mohan_-_Out_Of_The_Sea_I_Am_Come.jpg" decoding="async" loading="lazy" width="300" height="439" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/42/Turner_Mohan_-_Out_Of_The_Sea_I_Am_Come.jpg/450px-Turner_Mohan_-_Out_Of_The_Sea_I_Am_Come.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/42/Turner_Mohan_-_Out_Of_The_Sea_I_Am_Come.jpg/600px-Turner_Mohan_-_Out_Of_The_Sea_I_Am_Come.jpg 2x" data-file-width="900" data-file-height="1317"/></a><figcaption><i>Out Of The Sea I Am Come</i> by <a href="../../category/I/Images_by_Turner_Mohan.md" title="Category:Images by Turner Mohan">Turner Mohan</a></figcaption></figure>
 
-Sau khi sống sót sau [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md), [Elendil](../E/Elendil.md) đã hạ cánh xuống Trung Địa, tuyên bố một số từ trong [Quenya](../Q/Quenya.md). Người thừa kế và chắt trai của ông qua 39 thế hệ [Aragorn II](../A/Aragorn.md) đã nói lại những lời này khi ông lên [Vương miện của Gondor](../C/Crown_of_Gondor.md) với tư cách là [Vua Elessar](../A/Aragorn.md) vào đầu [Kỷ Đệ Tứ](../F/Fourth_Age.md):
+Sau khi sống sót sau [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md), [Elendil](../E/Elendil.md) đã hạ cánh xuống Trung Địa, tuyên bố một số từ bằng [Quenya](../Q/Quenya.md). Người thừa kế và chắt trai của ông qua 39 thế hệ [Aragorn II](../A/Aragorn.md) đã nói những lời này một lần nữa khi ông lên [Vương miện Gondor](../C/Crown_of_Gondor.md) với tư cách là [Vua Elessar](../A/Aragorn.md) vào đầu [Kỷ nguyên thứ tư](../F/Fourth_Age.md):
 
 <blockquote class="tg-quote noexcerpt">
 <p><b>Et Eärello Endorenna utúlien. Sinomë maruvan ar Hildinyar tenn&#39; Ambar-metta</b>. [...] Out of the <a class="mw-redirect" href="../G/Great_Sea.md" title="Great Sea">Great Sea</a> to <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a> I am come. In this place will I abide, and my heirs, unto the <a class="mw-redirect" href="../T/The_End.md" title="The End">ending of the world</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
@@ -38,7 +38,7 @@ Sau khi sống sót sau [Sự sụp đổ của Númenor](../D/Downfall_of_Núme
 
 - <a class="external text" href="http://glaemscrafu.jrrvf.com/english/elendil.html" rel="noreferrer noopener" target="_blank">Văn bản, bản dịch và âm thanh</a> tại [Glǽmscrafu](../G/Glǽmscrafu.md)
 - <a class="external text" href="http://eldamo.org/content/words/word-2124111669.html" rel="noreferrer noopener" target="_blank">Phân tích</a> tại [Eldamo](../E/Eldamo.md)
-- <a class="external text" href="https://www.youtube.com/watch?v=MrNwVkpuJ7s" rel="noreferrer noopener" target="_blank">Lời Thề trong tổng số Elendil</a> do [Clamavi De Profundis hát](../C/Clamavi_De_Profundis.md)
+- <a class="external text" href="https://www.youtube.com/watch?v=MrNwVkpuJ7s" rel="noreferrer noopener" target="_blank">Lời thề của Elendil</a> được hát bởi [Clamavi De Profundis](../C/Clamavi_De_Profundis.md)
 
 <span></span>
 

@@ -23,7 +23,7 @@ sort_keys:
 
 ## Các hình thức khác {#Other_forms}
 
-- *máryat*: hai bàn tay của anh ấy/cô ấy
+- *máryat*: hai bàn tay của ông/bà
 - *mannar*: vào tay<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - *mánta*: bàn tay của họ
     - *mántat*: bàn tay của họ<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
@@ -36,7 +36,7 @@ sort_keys:
 
 ## Xem thêm {#See_also}
 
-- [Sindarin](../S/Sindarin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cam&amp;action=edit&amp;redlink=1" title="Cam (page does not exist)">cam</a></i>
+- [tiếng Sindarin](../S/Sindarin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cam&amp;action=edit&amp;redlink=1" title="Cam (page does not exist)">cam</a></i>
 
 <span></span>
 

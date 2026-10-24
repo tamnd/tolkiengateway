@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Baillie Tolkien"
 ---
 
-Chuyển hướng đến [Baillie Tolkien](Baillie_Tolkien.md).
+Chuyển hướng tới [Baillie Tolkien](Baillie_Tolkien.md).

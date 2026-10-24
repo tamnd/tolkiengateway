@@ -14,7 +14,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**SCi Games Ltd.** là nhà phát hành và phát triển của [Vương quốc O' Magic](../K/Kingdom_O'_Magic.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+**SCi Games Ltd.** là nhà phát hành và nhà phát triển của [Kingdom O' Magic](../K/Kingdom_O'_Magic.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

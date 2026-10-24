@@ -71,15 +71,15 @@ infobox:
 
 ## Lịch sử {#History}
 
-Những hành động của Durin VII đã được tiên tri từ rất lâu trước khi anh được sinh ra; sự ra đời của ông rõ ràng đã được tiên tri khi [Dáin II](Dáin_II.md) lên ngôi sau [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[4]</a></sup>
+Những hành động của Durin VII đã được tiên tri từ rất lâu trước khi anh được sinh ra; sự ra đời của ông rõ ràng đã được tiên tri khi [Dáin II](Dáin_II.md) lên ngôi sau [Trận chiến của năm đạo quân](../B/Battle_of_Five_Armies.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[4]</a></sup>
 
-Durin VII là hậu duệ trực tiếp của [Thorin III Stonehelm](../T/Thorin_III_Stonehelm.md) (theo một số nguồn tin thì ông là con trai ông).<sup id="cite_ref-Making_2-2" class="reference"><a href="#cite_note-Making-2">[1]</a></sup>
+Durin VII là hậu duệ trực tiếp của [Thorin III Stonehelm](../T/Thorin_III_Stonehelm.md) (theo một số nguồn tin, ông là con trai ông).<sup id="cite_ref-Making_2-2" class="reference"><a href="#cite_note-Making-2">[1]</a></sup>
 
-Ông đã dẫn dắt [dân tộc Durin](Durin's_folk.md) từ [Erebor](../E/Erebor.md) quay trở lại [Khazad-dûm](../M/Moria.md) và khôi phục vương quốc cổ đại vào khoảng sau [Kỷ Đệ Tứ](../F/Fourth_Age.md) [171](../F/Fourth_Age_171.md). Họ ở đó "cho đến khi thế giới già đi và Người Lùn thất bại và những ngày của cuộc đua Durin kết thúc."<sup id="cite_ref-Making_2-3" class="reference"><a href="#cite_note-Making-2">[1]</a></sup>
+Ông đã dẫn dắt [dân tộc Durin](Durin's_folk.md) từ [Erebor](../E/Erebor.md) quay trở lại [Khazad-dûm](../M/Moria.md) và khôi phục vương quốc cổ đại vào khoảng sau [Fo.A.](../F/Fourth_Age.md) [171](../F/Fourth_Age_171.md). Họ ở đó "cho đến khi thế giới già đi và Người lùn thất bại và thời kỳ của chủng tộc Durin kết thúc."<sup id="cite_ref-Making_2-3" class="reference"><a href="#cite_note-Making-2">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Một tài khoản cho rằng cái tên *Durin* là từ chỉ "vua" trong ngôn ngữ của <a class="mw-redirect mw-disambig" href="../M/Men_of_the_North.md" title="Men of the North">Con Người miền Bắc</a> vào đầu [Thời thứ hai](../S/Second_Age.md).<sup id="cite_ref-relations_7-0" class="reference"><a href="#cite_note-relations-7">[5]</a></sup>
+Một tài khoản nói rằng cái tên *Durin* là từ chỉ "vua" trong ngôn ngữ của <a class="mw-redirect mw-disambig" href="../M/Men_of_the_North.md" title="Men of the North">Người phương Bắc</a> vào đầu [Thời thứ hai](../S/Second_Age.md).<sup id="cite_ref-relations_7-0" class="reference"><a href="#cite_note-relations-7">[5]</a></sup>
 
 Một tài khoản khác nói rằng *Durinn* là một trong những Người lùn trong *[Dvergatal](../V/Völuspá.md)*. Tên có nghĩa là "Buồn ngủ".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[6]</a></sup>
 
@@ -96,7 +96,7 @@ Một tài khoản khác nói rằng *Durinn* là một trong những Người l
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>Prince Durin is the son of King <a href="../T/Thorin_Stonehelm.md" title="Thorin Stonehelm">Thorin III Stonehelm</a>. In the game&#39;s storyline other Dwarves have been given that name and yet proved not to be the Father of the Longbeards returned, so a major part of his motivation is to prove whether he truly is or will be Durin VII.</dd></dl>
 
@@ -107,9 +107,9 @@ Một tài khoản khác nói rằng *Durinn* là một trong những Người l
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Việc nhắc đến tên Durin như một lời tiên tri trong <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>, và cho rằng Phụ lục bắt nguồn từ <a class="mw-redirect" href="../R/Red_Book.md" title="Red Book">Sách Đỏ</a> (sao chép <a href="../F/Fourth_Age.md" title="Fourth Age">Kỷ Đệ Tứ</a> <a href="../F/Fourth_Age_171.md" title="Fourth Age 171">171</a>), dường như gợi ý rằng anh ta có thể được sinh ra hoặc xuất hiện sau ngày đó.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Việc nhắc đến tên Durin như một lời tiên tri trong <a href="../A/Appendix_A.md" title="Appendix A">Phụ lục A</a>, và cho rằng Phụ lục bắt nguồn từ <a class="mw-redirect" href="../R/Red_Book.md" title="Red Book">Sách Đỏ</a> (sao chép <a href="../F/Fourth_Age.md" title="Fourth Age">Fo.A.</a> <a href="../F/Fourth_Age_171.md" title="Fourth Age 171">171</a>), dường như gợi ý rằng ông ta có thể được sinh ra hoặc xuất hiện sau ngày đó.</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Một phiên bản thay thế của cây phả hệ <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a> cho rằng Durin VII là con trai của Thorin III.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Một phiên bản thay thế của cây phả hệ của <a href="../A/Appendix_A.md" title="Appendix A">Phụ lục A</a> cho rằng Durin VII là con trai của Thorin III.</span>
 </li>
 </ol></div></span>
 

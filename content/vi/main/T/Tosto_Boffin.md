@@ -40,11 +40,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tosto Boffin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="Third_Age_2988.md" title="Third Age 2988">1388</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../B/Boffin_Family~66342.md" title="Boffin Family">Boffin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../G/Griffo_Boffin.md" title="Griffo Boffin">Griffo Boffin</a> and <a href="../D/Daisy_Baggins.md" title="Daisy Baggins">Daisy Baggins</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Tosto Boffin** là [Hobbit](../H/Hobbits.md) của [ Shire](The_Shire.md).
+**Tosto Boffin** là một [Hobbit](../H/Hobbits.md) của [Quận](The_Shire.md).
 
 ## Lịch sử {#History}
 
-Tosto là con trai của [Griffo Boffin](../G/Griffo_Boffin.md) và [Daisy Baggins](../D/Daisy_Baggins.md). Anh ấy đã có mặt tại [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md) ở [S.R.](../S/Shire_Reckoning.md) [1401](Third_Age_3001.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Tosto là con trai của [Griffo Boffin](../G/Griffo_Boffin.md) và [Daisy Baggins](../D/Daisy_Baggins.md). Ông đã có mặt tại [Bữa tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md) ở [S.R.](../S/Shire_Reckoning.md) [1401](Third_Age_3001.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

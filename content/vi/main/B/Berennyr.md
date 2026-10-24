@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brown Lands"
 ---
 
-Chuyển hướng đến [Brown Lands](Brown_Lands.md).
+Chuyển hướng đến [Vùng đất nâu](Brown_Lands.md).

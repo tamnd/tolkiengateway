@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen261.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d9/AmonHen261.png/320px-AmonHen261.png" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d9/AmonHen261.png/480px-AmonHen261.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/d9/AmonHen261.png/640px-AmonHen261.png 2x" data-file-width="913" data-file-height="1292"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 261</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/Jef_Murray.md" title="Jef Murray">Jef Murray</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">September <a href="../_/2016.md" title="2016">2016</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">28</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_260.md" title="Amon Hen 260">Amon Hen 260</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_262.md" title="Amon Hen 262">Amon Hen 262</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 261</b> là số thứ hai trăm sáu mươi mốt của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, được xuất bản trên tháng Chín [2016](../_/2016.md).
+<b><i>Amon Hen</i> 261</b> là số thứ hai trăm sáu mươi mốt của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 9 [2016](../_/2016.md).
 
 ## Nội dung {#Contents}
 
@@ -52,7 +52,7 @@ infobox:
     - Bởi: [Andrew Butler](Andrew_Butler.md)
 - Nội dung
 - Thông báo
-- Báo cáo: Chuyến tham quan phương Đông Yorkshire Tolkien khai mạc
+- Báo cáo: Khai mạc chuyến tham quan Đông Yorkshire Tolkien
     - Bởi: Catherine Thorn
 - Quảng cáo: hai cuốn sách của Nhà xuất bản Luna Press
 - Tất cả Bran
@@ -61,10 +61,10 @@ infobox:
     - Bởi: Ian Collier
 - Eloi và Morlocks
     - Bởi: Irina Metzler
-- Quảng cáo: Beyond Bree lịch 2017
-- Họ [Người Lùn](../D/Dwarves.md) có đeo kính râm vào ban đêm không?
+- Quảng cáo: Lịch Beyond Bree 2017
+- [Người lùn](../D/Dwarves.md) có đeo kính râm vào ban đêm không?
     - Bởi: [Kristine Larsen](../K/Kristine_Larsen.md)
-- Bi kịch [Arvedui](Arvedui.md) và liên quan đến *[LotR](../T/The_Lord_of_the_Rings.md)* Phần 2
+- Bi kịch của [Arvedui](Arvedui.md) và nó liên quan đến *[LotR](../T/The_Lord_of_the_Rings.md)* Phần 2
     - Bởi: Angela Nicholas
 - Tác phẩm nghệ thuật: *The Crone offers the Philtre...*
     - Bởi: Gordon Palmer
@@ -80,8 +80,8 @@ infobox:
 - Toán học
     - Bởi: Jan Boom
 - Thành viên mới
-Linh tinh của - Michael
-    - Bởi: Michael Hoa
+- Chuyện linh tinh của Michael
+    - Bởi: Michael Flowers
 - Ủy ban
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 260</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_260.md" title="Amon Hen 260">Amon Hen 260</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 261</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 262</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_262.md" title="Amon Hen 262">Amon Hen 262</a></div></div></div>

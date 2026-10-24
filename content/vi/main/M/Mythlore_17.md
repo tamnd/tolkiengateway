@@ -39,36 +39,36 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_17.gif.md"><img src="https://tolkiengateway.net/w/images/8/88/Mythlore_17.gif" decoding="async" loading="lazy" width="225" height="283" class="mw-file-element" data-file-width="225" data-file-height="283"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 17</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">May <a href="../_/1978.md" title="1978">1978</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">47</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_16.md" title="Mythlore 16">Mythlore 16</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_18.md" title="Mythlore 18">Mythlore 18</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 17</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol5/iss1/" rel="noreferrer noopener" target="_blank">Tập 5, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 17</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol5/iss1/" rel="noreferrer noopener" target="_blank">Tập 5, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Walker, Steven L. "Cây học về cuộc chiến của những chiếc nhẫn: Khúc bi ca cho sự ngây thơ đã mất và điều kỳ diệu." 3-5.
-- Howard, Thomas. "Charles Williams' Sử dụng tài liệu của Arthur." 6-10.
-- Rosenberg, Jerome. "Nhân tính của Sam Gamgee." 10-11.
-- Carter, Margaret L. "Ghi chú về các khái niệm đạo đức trong tiểu thuyết của Lewis." 35.
-- Christopher, Joe R. "Cố gắng nắm bắt 'Ma thuật trắng.'" 36-37.
-- Nelson, Marie. "Lời nói phi nhân loại trong tưởng tượng của C.S. Lewis, J.R.R. Tolkien và Richard Adams." 37-39.
+- Walker, Steven L. "The War of the Rings Treelogy: An Elegy for Lost Innocence and Wonder." 3-5.
+- Howard, Thomas. "Charles Williams' Use of Arthurian Materials." 6-10.
+- Rosenberg, Jerome. "The Humanity of Sam Gamgee." 10-11.
+- Carter, Margaret L. "A Note on Moral Concepts in Lewis' Fiction." 35.
+- Christopher, Joe R. "Trying to Capture 'White Magic.'" 36-37.
+- Nelson, Marie. "Non-Human Speech in the Fantasy of C.S. Lewis, J.R.R. Tolkien, and Richard Adams." 37-39.
 
 #### Tính năng {#Features}
 
 - Thư. 12+.
-- GoodKnight, Glen H. Editorial: "Tiếp tục trong điệu nhảy vĩ đại." 25+.
+- GoodKnight, Glen H. Editorial: "Going On In the Great Dance." 25+.
 - Patterson, Nancy-Lou. "Một bông hoa bạc vĩ đại." Đánh giá *The Silmarillion* của J.R.R. Tolkien. 27.
 - Patterson, Nancy-Lou. "Mận và bánh quy." Đánh giá *C.S. Lewis: Danh sách kiểm tra có chú thích các bài viết về ông và các tác phẩm của ông* của Joe R. Christopher và Joan K. Ostling. 29.
-- Patterson, Nancy-Lou. "Hướng tới bờ bụi ngọc trai." Đánh giá *A Speculation on the Silmarillion* của Jim Allan. 29-30.
-- Christopher, Joe R. "Let Us Go a-Carrolling." Đánh giá của *Lewis Carroll Observed*, do Edward Guiliano biên tập; *The Rectory Magazine*, do Lewis Carroll biên tập; *Lewis Carroll as I Knew Him* của Isa Bowman. 29-30.
-- Một số Tolkien Nghệ thuật. 31.
+- Patterson, Nancy-Lou. "Hướng tới bờ bụi ngọc trai." Đánh giá về *A Speculation on the Silmarillion* của Jim Allan. 29-30.
+- Christopher, Joe R. "Let Us Go a-Carrolling." Review of *Lewis Carroll Observed*, edited by Edward Guiliano; *The Rectory Magazine*, edited by Lewis Carroll; *Lewis Carroll as I Knew Him* by Isa Bowman. 29-30.
+- Một số tác phẩm Tolkien. 31.
 - Nhận xét về Một số Bức ảnh. 32+.
-- Christopher, Joe R. "Một Inklings Thư mục (6)." 40-46.
+- Christopher, Joe R. "An Inklings Bibliography (6)." 40-46.
 - *Mythprint*. 47.
 
 #### Thơ {#Poetry}
 
-- Paxson, Diana L. "Đứa bé và chú chim." 23+.
-- Boenig, Robert. "Bors trở lại." 26.
+- Paxson, Diana L. "The Baby and the Bird." 23+.
+- Boenig, Robert. "Bors Returning." 26.
 
 #### Nghệ thuật {#Art}
 
@@ -80,7 +80,7 @@ infobox:
 - R. Patrick McCabe: 28
 - Robin McCabe: bìa sau
 - Peter Thorpe: 37
-- Bìa: Bonnie GoodKnight, "Mandos đưa ra Sự diệt vong của Noldor từ *The Silmarillion*."
+- Bìa: Bonnie GoodKnight, "Mandos đưa ra sự diệt vong của Noldor từ *The Silmarillion*."
 - Bìa sau: Robin McCabe, "Earendil trên tàu Vingilot."
 - Trang 17: Michael Logan, "Theoden."
 - Trang 21: Elzabeth Best, "Chuyến bay tới chiếc Ford."

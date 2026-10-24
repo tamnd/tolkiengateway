@@ -17,18 +17,18 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jenny_Dolfen_-_Utúlie’n_aurë!.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b6/Jenny_Dolfen_-_Ut%C3%BAlie%E2%80%99n_aur%C3%AB%21.jpg/250px-Jenny_Dolfen_-_Ut%C3%BAlie%E2%80%99n_aur%C3%AB%21.jpg" decoding="async" loading="lazy" width="250" height="420" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b6/Jenny_Dolfen_-_Ut%C3%BAlie%E2%80%99n_aur%C3%AB%21.jpg/375px-Jenny_Dolfen_-_Ut%C3%BAlie%E2%80%99n_aur%C3%AB%21.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b6/Jenny_Dolfen_-_Ut%C3%BAlie%E2%80%99n_aur%C3%AB%21.jpg/500px-Jenny_Dolfen_-_Ut%C3%BAlie%E2%80%99n_aur%C3%AB%21.jpg 2x" data-file-width="1118" data-file-height="1877"/></a><figcaption><i>Utúlie&#39;n aurë!</i> by <a href="../J/Jenny_Dolfen.md" title="Jenny Dolfen">Jenny Dolfen</a></figcaption></figure>
 
-<i><b>Utúlie'n aurë!</b></i> ([Q.](../Q/Quenya.md) ˈ*Ngày đã đến!*ˈ) là tiếng kêu của [Fingon](../F/Fingon.md) trong [Trận chiến thứ năm Beleriand](../N/Nirnaeth_Arnoediad.md), khi anh nhìn thấy quân đội của anh trai mình [Turgon](../T/Turgon.md).
+<i><b>Utúlie'n aurë!</b></i> ([Q.](../Q/Quenya.md) ˈ*Ngày đã đến!*ˈ) là tiếng kêu của [Fingon](../F/Fingon.md) trong [Trận chiến Beleriand lần thứ năm](../N/Nirnaeth_Arnoediad.md), khi anh nhìn thấy quân đội của anh trai mình [Turgon](../T/Turgon.md).
 
 ## Lịch sử {#History}
 
-Cánh phía tây của [Liên minh Maedhros](Union_of_Maedhros.md) được chỉ huy bởi Fingon, người chỉ huy quân đội của [nhà ông ta](../H/House_of_Fingolfin.md) và [Edain](../E/Edain.md). Sau sự phản bội của [Easterlings](<../E/Easterlings_(First_Age).md>) ở cánh phía đông, [Maedhros](../M/Maedhros.md) không đến từ phía đông [Anfauglith](../A/Anfauglith.md) như kế hoạch, và một đám mây đen nổi lên phía trên cả trái tim của [Thangorodrim](../T/Thangorodrim.md) và Fingon. Thật bất ngờ, Turgon xuất hiện, mang theo mười nghìn Tiên tộc từ [Gondolin](../G/Gondolin.md).
+Cánh phía tây của [Liên minh Maedhros](Union_of_Maedhros.md) được chỉ huy bởi Fingon, người lãnh đạo quân đội của [nhà ông](../H/House_of_Fingolfin.md) và [Edain](../E/Edain.md). Sau sự phản bội của [Easterlings](<../E/Easterlings_(First_Age).md>) ở cánh phía đông, [Maedhros](../M/Maedhros.md) đã không đến từ phía đông [Anfauglith](../A/Anfauglith.md) như kế hoạch, và một đám mây đen nổi lên phía trên cả [Thangorodrim](../T/Thangorodrim.md) và trái tim của Fingon. Thật bất ngờ, Turgon xuất hiện, mang theo mười nghìn Yêu tinh từ [Gondolin](../G/Gondolin.md).
 
 <blockquote class="tg-quote noexcerpt">
 <p>Then when Fingon heard afar the great trumpet of Turgon his brother, the shadow passed and his heart was uplifted, and he shouted aloud: <i><b>Utúlie&#39;n aurë! Aiya Eldalië ar Atanatári, utúlie&#39;n aurë! The day has come! Behold, people of the Eldar and Fathers of Men, the day has come!</b></i> And all those who heard his great voice echo in the hills answered crying: <i><b>Auta i lómë! The night is passing!</b></i>
 </p>
 </blockquote>
 
-Kết quả của trận chiến sau đó thật bi thảm: Fingon chết và Turgon chỉ có thể chạy trốn sau khi Con Người của [Nhà Hador](../H/House_of_Hador.md) hy sinh. Tuy nhiên, niềm hy vọng trong trận chiến đầu tiên đã được [Húrin Thalion](../H/Húrin_Thalion.md) lặp lại khi anh vẫn là chiến binh đứng cuối cùng và hét lên: *[Aurë entuluva!](../A/Aurë_entuluva!.md) Day shall come again!*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Kết quả của trận chiến sau đó thật bi thảm: Fingon chết và Turgon chỉ có thể chạy trốn sau khi những Người của [Nhà Hador](../H/House_of_Hador.md) hy sinh. Tuy nhiên, hy vọng về trận chiến đầu tiên đã được vang vọng bởi [Húrin Thalion](../H/Húrin_Thalion.md) khi anh vẫn là chiến binh đứng cuối cùng và hét lên: *[Aurë entuluva!](../A/Aurë_entuluva!.md) Day shall come again!*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

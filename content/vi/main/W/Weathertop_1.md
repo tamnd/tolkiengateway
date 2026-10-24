@@ -32,20 +32,20 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Weathertop_1_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/87/Weathertop_1_cover.jpg/320px-Weathertop_1_cover.jpg" decoding="async" loading="lazy" width="320" height="448" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/87/Weathertop_1_cover.jpg/480px-Weathertop_1_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/87/Weathertop_1_cover.jpg/640px-Weathertop_1_cover.jpg 2x" data-file-width="1770" data-file-height="2480"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Weathertop 1</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../D/Denis_Bridoux.md" title="Denis Bridoux">Denis Bridoux</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../K/Kay_Woollard.md" title="Kay Woollard">Kay Woollard</a> (art editor)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Amon Sûl Smial</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Winter <a href="../_/1984.md" title="1984">1984</a>-<a href="../_/1985.md" title="1985">85</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">24</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0950-3757</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Weathertop_2.md" title="Weathertop 2"><i>Weathertop</i> 2</a></td></tr></tbody></table>
 
-<b><i>Weathertop</i> 1</b> là số đầu tiên trên tạp chí Amon Sûl của Smial *[Weathertop](<Weathertop_(journal).md>)*.
+<b><i>Weathertop</i> 1</b> là số đầu tiên trên tạp chí của Amon Sûl Smial *[Weathertop](<Weathertop_(journal).md>)*.
 
 ## Nội dung {#Contents}
 
 - Ảnh bìa của [Kay Woollard](../K/Kay_Woollard.md)
 - Biên tập
     - nghệ thuật của Kay Woollard
-- "Lời than thở của Người Lùn"
+- "Lời than thở của người lùn"
     - văn bản và nghệ thuật của Debra Haigh-Hutchinson
 - "Công thức Yuletide" của Pauline Lee
     - nghệ thuật của Kay Woollard
 - "Thơ Giáng Sinh" của Mark Simmons
     - nghệ thuật của Kay Woollard
-- "Cây phương Bắc" của Sheena Moore
+- "Những cái cây phương Bắc" của Sheena Moore
     - nghệ thuật của Kay Woollard
 - Nghệ thuật của Lynn Close
 - "Bản ballad của lũ quỷ"

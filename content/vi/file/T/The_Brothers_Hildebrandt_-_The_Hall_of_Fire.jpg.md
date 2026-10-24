@@ -31,7 +31,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[The Hall of Fire](../../main/H/Hall_of_Fire.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md).
+"[Sảnh lửa](../../main/H/Hall_of_Fire.md)" của [Anh em nhà Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md).
 
 ## Giấy phép {#Licensing}
 

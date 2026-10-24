@@ -69,12 +69,12 @@ Sự kiện xảy ra vào ngày 8 tháng 2.
 - **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho David L. Sands](../L/Letter_to_David_L._Sands.md).
 - **[1968](1968.md)** - Ngày quay thứ tư [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cho bộ phim tài liệu *[Tolkien in Oxford](../T/Tolkien_in_Oxford.md)*.
 - **[2001](2001.md)** - [*A Tolkien Treasury* (phiên bản thu nhỏ)](<../A/A_Tolkien_Treasury_(miniature_edition).md>) được phát hành.
-- **[2008](2008.md)** - hội nghị "[C.S. Lewis](../C/C.S._Lewis.md), [Inklings](../I/Inklings.md) và Lời kêu gọi đến với Cộng đồng Kitô giáo", có [Tom Shippey](../T/Tom_Shippey.md).
+- **[2008](2008.md)** - hội thảo "[C.S. Lewis](../C/C.S._Lewis.md), [Inklings](../I/Inklings.md) và Lời kêu gọi đến Cộng đồng Cơ đốc giáo", có sự góp mặt của [Tom Shippey](../T/Tom_Shippey.md).
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
+    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).
     - Trăng tròn <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>

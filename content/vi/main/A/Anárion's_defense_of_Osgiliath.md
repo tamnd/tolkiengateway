@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anárion's defence of Osgiliath"
 ---
 
-Chuyển hướng tới phần bảo vệ Osgiliath](Anárion's_defence_of_Osgiliath.md) của [Anárion.
+Chuyển hướng tới [Việc Anárion bảo vệ Osgiliath](Anárion's_defence_of_Osgiliath.md).

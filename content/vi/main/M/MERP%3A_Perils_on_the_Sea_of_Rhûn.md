@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Perils on the Sea of Rhûn"
 ---
 
-Chuyển hướng đến [Mối nguy hiểm trên Biển Rhûn](../P/Perils_on_the_Sea_of_Rhûn.md).
+Chuyển hướng đến [Nguy hiểm trên biển Rhûn](../P/Perils_on_the_Sea_of_Rhûn.md).

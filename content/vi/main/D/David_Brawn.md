@@ -16,4 +16,4 @@ sort_keys:
   "People by name": "Brawn, David"
 ---
 
-**David Brawn** là Giám đốc Xuất bản tại [HarperCollins](../H/HarperCollins.md) và phụ trách bộ phận [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Bất cứ điều gì liên quan đến Tolkien sắp được xuất bản đều phải qua mắt anh ấy.
+**David Brawn** là Giám đốc Xuất bản tại [HarperCollins](../H/HarperCollins.md) và phụ trách bộ phận [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Bất cứ điều gì liên quan đến Tolkien sắp được xuất bản đều phải qua mắt ông.

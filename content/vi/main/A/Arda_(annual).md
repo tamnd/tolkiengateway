@@ -22,7 +22,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Arda_journal.png.md"><img src="https://tolkiengateway.net/w/images/c/cf/Arda_journal.png" decoding="async" loading="lazy" width="214" height="256" class="mw-file-element" data-file-width="214" data-file-height="256"/></a><figcaption>Logotype of the annual <i>Arda</i></figcaption></figure>
 
-<i><b>Arda</b></i> là ấn phẩm song ngữ (tiếng Scandinavi/tiếng Anh) của [Arda Hiệp hội](Arda-sällskapet.md), do [Anders Stenström](Anders_Stenström.md) biên tập. Nó được dự định hàng năm nhưng đã không xuất hiện kể từ [1994](../_/1994.md). Trong một loạt bài đặc biệt, thủ tục tố tụng của [Omentielva](../O/Omentielva.md) được xuất bản bởi *Arda* với tên *Arda Philology*.
+<i><b>Arda</b></i> là ấn phẩm song ngữ (tiếng Scandinavi/tiếng Anh) của [Arda Society](Arda-sällskapet.md), do [Anders Stenström](Anders_Stenström.md) biên tập. Nó được dự định hàng năm nhưng đã không xuất hiện kể từ [1994](../_/1994.md). Trong một loạt bài đặc biệt, thủ tục tố tụng của [Omentielva](../O/Omentielva.md) được xuất bản bởi *Arda* với tên *Arda Philology*.
 
 ## Các vấn đề của Arda {#Issues_of_Arda}
 
@@ -34,7 +34,7 @@ images:
 - [1992](../_/1992.md) - Tập VII / *Arda 1987*
 - [1994](../_/1994.md) - Tập VIII-IX / *Arda 1988-1991*
 
-## Các vấn đề về Arda Ngữ văn {#Issues_of_Arda_Philology}
+## Các vấn đề về Ngữ văn Arda {#Issues_of_Arda_Philology}
 
 - [2007](../_/2007.md): *[Arda Philology 1](Arda_Philology_1.md)*
 - [2009](../_/2009.md): *[Arda Philology 2](Arda_Philology_2.md)*
@@ -51,6 +51,6 @@ images:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.forodrim.org/arda/arda_eng.html" rel="noreferrer noopener" target="_blank">Arda - hàng năm cho Arda nghiên cứu</a>
-- <a class="external text" href="http://www.omentielva.com/ardaphil.htm" rel="noreferrer noopener" target="_blank">Arda Ngữ Văn</a>
-- <a class="external text" href="http://www.omentielva.com/Arda_Philology_errata.pdf" rel="noreferrer noopener" target="_blank"><i>Arda Ngữ văn</i> Lỗi lỗi</a>
+- <a class="external text" href="http://www.forodrim.org/arda/arda_eng.html" rel="noreferrer noopener" target="_blank">Arda - hàng năm cho nghiên cứu Arda</a>
+- <a class="external text" href="http://www.omentielva.com/ardaphil.htm" rel="noreferrer noopener" target="_blank">Arda Ngữ văn</a>
+- <a class="external text" href="http://www.omentielva.com/Arda_Philology_errata.pdf" rel="noreferrer noopener" target="_blank"><i>Arda Ngữ văn</i> Lỗi</a>

@@ -33,14 +33,14 @@ infobox:
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Lịch sử làm phim được tạo nên khi, trong *[The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*, diễn xuất của diễn viên và hoạt hình kỹ thuật số được tích hợp liền mạch để tạo ra nhân vật do máy tính tạo ra hoàn toàn sống động như thật đầu tiên trên thế giới. Bây giờ Andy Serkis kể câu chuyện của chính mình về việc hoa hồng ba tuần cung cấp lồng tiếng cho Gollum đã phát triển thành cam kết 5 năm để thổi sức sống và linh hồn vào tác phẩm đầy thử thách nhất của *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(film_series).md>)*.
+Lịch sử làm phim được tạo nên khi, trong *[The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*, diễn xuất của diễn viên và hoạt hình kỹ thuật số được tích hợp liền mạch để tạo ra nhân vật do máy tính tạo ra hoàn toàn sống động như thật đầu tiên trên thế giới. Bây giờ Andy Serkis kể câu chuyện của chính mình về việc hoa hồng ba tuần cung cấp lồng tiếng cho Gollum đã phát triển thành cam kết 5 năm để thổi sức sống và tâm hồn vào tác phẩm đầy thử thách nhất của *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(film_series).md>)*.
 
 - Có phải giọng nói của Gollum thực sự bắt đầu bằng việc một con mèo bị ốm?
 - Bạn cảm thấy thế nào khi diễn xuất trong bộ đồ liền thân có nhiều chấm?
-- Bao nhiêu Gollum được tạo mô hình để trông giống Andy?
-- *[The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* có những điều bất ngờ gì?<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+- Gollum đã được tạo hình để trông giống Andy đến mức nào?
+- *[The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* chứa đựng những điều bất ngờ gì?<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
-Được minh họa đầy đủ với hơn 100 bức ảnh và bản vẽ hậu trường độc quyền cũng như sự đóng góp của nhiều nhà thiết kế và họa sĩ hoạt hình đã mang Gollum vào cuộc sống, cuốn sách này xem xét quá trình chuyển sang màn ảnh rộng của một trong những sinh vật khó quên nhất của văn học. Khi quá trình quay phim đưa anh từ London đến Wellington và từ [Dãy Núi Sương Mù](../M/Misty_Mountains.md) đến [Núi Doom](../M/Mount_Doom.md), Andy Serkis giải thích các phương pháp - và sự điên rồ - đằng sau 5 năm tuyệt vời nhất trong cuộc đời một diễn viên.
+Được minh họa đầy đủ với hơn 100 bức ảnh và bản vẽ hậu trường độc quyền, cùng sự đóng góp của nhiều nhà thiết kế và họa sĩ hoạt hình đã đưa Gollum vào cuộc sống, cuốn sách này xem xét quá trình chuyển sang màn ảnh rộng của một trong những sinh vật khó quên nhất trong văn học. Khi quá trình quay phim đưa anh từ London đến Wellington và từ [Dãy núi sương mù](../M/Misty_Mountains.md) đến [Mount Doom](../M/Mount_Doom.md), Andy Serkis giải thích các phương pháp - và sự điên rồ - đằng sau 5 năm tuyệt vời nhất trong cuộc đời một diễn viên.
 
 ## Người được phỏng vấn {#Interviewees}
 
@@ -60,7 +60,7 @@ Lịch sử làm phim được tạo nên khi, trong *[The Two Towers](../T/The_
 - Mahria Sangster (điều phối viên mocap)
 - Jason Schleifer (nhà thiết kế sinh vật kỹ thuật số)
 - Remington Scott (giám sát ghi lại chuyển động)
-- Mike Austin Stevens (nhà thiết kế sinh vật kỹ thuật số)
+- Mike Stevens (nhà thiết kế sinh vật kỹ thuật số)
 - [Richard Taylor](../R/Richard_Taylor.md)
 - Mary Victoria (nhà thiết kế sinh vật kỹ thuật số)
 - [Fran Walsh](../F/Fran_Walsh.md)

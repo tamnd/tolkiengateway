@@ -38,11 +38,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Mở đầu bằng “*Fæder his þriddan suna*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> (1)”, Tolkien cảm thấy đã lâu lắm rồi (thực ra là 8 ngày) anh mới viết. Tolkien và vợ không biết Christopher đã đi khi nào và đi đâu.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup>
+Mở đầu bằng "*Fæder his þriddan suna*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> (1)", Tolkien cảm thấy đã lâu lắm rồi (thực tế là 8 ngày) kể từ khi ông viết. Vợ chồng Tolkien không biết Christopher đã đi khi nào và đi đâu.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup>
 
-Tolkien tin tức địa phương liên quan, trong đó đáng nhớ nhất là thời gian ở trong phòng quản lý cuộc không kích. Người bạn đồng hành của Tolkien là Cecil Roth<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup>, người mà anh thấy đầy quyến rũ và dịu dàng. Roth đã thức dậy Tolkien lúc 10 đến 7 giờ để có thể đi rước lễ, cảm giác giống như một cái nhìn thoáng qua về một thế giới chưa sụp đổ. Tolkien đã cân nhắc việc không đi nhưng một cái nhìn u ám của người Do Thái hiền lành này vào chuỗi tràng hạt của ông đã giải quyết được vấn đề. Anh ấy đã cộng tác với anh em [Lewis](../C/C.S._Lewis.md) và [C. Williams](../C/Charles_Williams.md). Tolkien kể rằng *fouls*<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 4]</a></sup> không chịu đẻ nhưng anh vẫn phải dọn dẹp ổ của chúng.
+Tolkien liên quan đến tin tức địa phương, trong đó đáng nhớ nhất về mặt cá nhân là thời gian ở trong phòng quản lý cuộc không kích. Người bạn đồng hành của Tolkien là Cecil Roth<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup>, người mà anh thấy đầy quyến rũ và dịu dàng. Roth đã đánh thức Tolkien lúc 10 đến 7 giờ để ông có thể đi rước lễ, cảm giác giống như một cái nhìn thoáng qua về một thế giới chưa sụp đổ. Tolkien đã cân nhắc việc không đi nhưng một cái nhìn u ám của người Do Thái hiền lành này vào chuỗi tràng hạt của ông đã giải quyết được vấn đề. Ông đã cộng tác với anh em [Lewis](../C/C.S._Lewis.md) và [C. Williams](../C/Charles_Williams.md). Tolkien đề cập rằng *fouls*<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 4]</a></sup> không chịu đẻ nhưng anh vẫn phải dọn dẹp hang ổ của chúng.
 
-Nhắc đến số một ở đầu lá thư, Tolkien giải thích rằng bây giờ anh sẽ đánh số từng chữ cái và từng trang để Christopher biết nếu có gì sai sót.
+Đề cập đến số một ở đầu bức thư của mình, Tolkien giải thích rằng bây giờ ông sẽ đánh số từng chữ cái và từng trang để Christopher biết nếu có điều gì không ổn.
 
 ## Lưu ý {#Note}
 

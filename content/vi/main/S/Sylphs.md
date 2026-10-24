@@ -42,9 +42,9 @@ Các thần tiên là một phần của thứ dường như được chia thàn
 [Manwë](../M/Manwë.md) có "*two clans of air-spirits*",<sup id="cite_ref-PE11_3-0" class="reference"><a href="#cite_note-PE11-3">[3]</a></sup> cách phân chia cơ bản gồm hai nhóm thần tiên, với tên [Elvish](../E/Elvish.md) của chúng, được đưa ra như sau:
 
 - [Qenya](../Q/Qenya.md) <i><b>Mánir</b></i> (hoặc *Mānir*<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>): "linh hồn của không khí";<sup id="cite_ref-LT1Index_5-0" class="reference"><a href="#cite_note-LT1Index-5">[5]</a></sup> [Gnomish](../G/Gnomish.md) *môna* hoặc *môni*<sup id="cite_ref-PE11_3-1" class="reference"><a href="#cite_note-PE11-3">[3]</a></sup>
-- [Qenya](../Q/Qenya.md) <i><b>Súruli</b></i>/*Sūruli*, cũng *Suluthrim*) (hát. *Sūru*): "linh hồn của gió"; [Gnomish](../G/Gnomish.md) *Sulus* (vui lòng *Sulussin*)<sup id="cite_ref-PE11_3-2" class="reference"><a href="#cite_note-PE11-3">[3]</a></sup><sup id="cite_ref-LT1Index_5-1" class="reference"><a href="#cite_note-LT1Index-5">[5]</a></sup>
+- [Qenya](../Q/Qenya.md) <i><b>Súruli</b></i>/*Sūruli*, cũng *Suluthrim*) (hát. *Sūru*): "linh hồn của gió"; [Gnomish](../G/Gnomish.md) *Sulus* (pl. *Sulussin*)<sup id="cite_ref-PE11_3-2" class="reference"><a href="#cite_note-PE11-3">[3]</a></sup><sup id="cite_ref-LT1Index_5-1" class="reference"><a href="#cite_note-LT1Index-5">[5]</a></sup>
 
-Một cá nhân Súru được nhắc đến tên là **[Ilinsor](../I/Ilinsor.md)**, người lái chiếc [Mặt Trăng](../M/Moon.md). Ilinsor "*yêu tuyết và ánh sao và đã hỗ trợ [Varda](../V/Varda.md) trong nhiều tác phẩm của cô ấy*".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Một cá nhân Súru được nhắc đến tên là **[Ilinsor](../I/Ilinsor.md)**, người chèo lái [Mặt trăng](../M/Moon.md). Ilinsor "*yêu tuyết và ánh sao và đã hỗ trợ [Varda](../V/Varda.md) trong nhiều tác phẩm của bà*".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Bình luận {#Commentary}
 
@@ -52,11 +52,11 @@ Có ý kiến ​​​​cho rằng khái niệm "linh hồn không khí" đư�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Thần Sylph không được đề cập đến trong các phiên bản sau của [huyền thoại](../L/Legendarium.md). Nhiều lớp tham chiếu sinh vật trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)* đã được thay thế bằng khái niệm [Maiar](../M/Maiar.md), khái niệm này không được đưa vào cho đến khi [Biên niên sử của Valinor](../A/Annals_of_Valinor.md) được làm lại thành [Biên niên sử của Aman](../A/Annals_of_Aman.md).<sup id="cite_ref-MRP2b_8-0" class="reference"><a href="#cite_note-MRP2b-8">[8]</a></sup>
+Thần Sylph không được đề cập đến trong các phiên bản sau của [huyền thoại](../L/Legendarium.md). Nhiều loại sinh vật được tham chiếu trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)* đã được thay thế bằng khái niệm [Maiar](../M/Maiar.md), khái niệm này không được giới thiệu cho đến khi [Biên niên sử của Valinor](../A/Annals_of_Valinor.md) được làm lại thành [Biên niên sử của Aman](../A/Annals_of_Aman.md).<sup id="cite_ref-MRP2b_8-0" class="reference"><a href="#cite_note-MRP2b-8">[8]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-[Patrick H. Wynne](../P/Patrick_H._Wynne.md) và [Christopher Gilson](../C/Christopher_Gilson.md) đã lưu ý rằng việc Tolkien sử dụng các vị thần (và các linh hồn liên quan) có thể bị ảnh hưởng bởi biểu đồ bốn nguyên tố của <a class="extiw" href="http://en.wikipedia.org/wiki/Paracelsus" title="wikipedia:Paracelsus">Paracelsus</a>: *sylphs* (không khí), *pygmies* hoặc *gnomes* (đất), *nymphs* (nước) và *salamanders* (lửa).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+[Patrick H. Wynne](../P/Patrick_H._Wynne.md) và [Christopher Gilson](../C/Christopher_Gilson.md) đã lưu ý rằng việc sử dụng thần tiên (và các linh hồn liên quan) của Tolkien có thể bị ảnh hưởng bởi biểu đồ bốn nguyên tố của <a class="extiw" href="http://en.wikipedia.org/wiki/Paracelsus" title="wikipedia:Paracelsus">Paracelsus</a>: *sylphs* (không khí), *pygmies* hoặc *gnomes* (đất), *nymphs* (nước) và *salamanders* (cháy).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 ## Xem thêm {#See_also}
 

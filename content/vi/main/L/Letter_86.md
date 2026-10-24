@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nói với Christopher rằng anh ta chán nản và mệt mỏi, rồi thảo luận về chủ đề "báng bổ". Ông không ngại phạm thượng đến Đức Chúa Trời và trích dẫn <a class="external text" href="http://quod.lib.umich.edu/cgi/k/kjv/kjv-idx?type=citation&amp;book=Luke&amp;chapno=23&amp;startverse=33&amp;endverse=35" rel="noreferrer noopener" target="_blank">Lu-ca 23:34</a>. Chúa sẽ không đau lòng vì sự báng bổ ngôn ngữ (nguyền rủa), cho dù nó có “mệt mỏi, buồn bã và điên cuồng” đến đâu. Điều tệ hơn nữa là Chúa sẽ phải đau lòng vì những hành vi phạm tội mà con người gây ra cho nhau. <br>
+Tolkien nói với Christopher rằng ông buồn chán và mệt mỏi, sau đó thảo luận về chủ đề "sự báng bổ". Ông không ngại phạm thượng đến Đức Chúa Trời và trích dẫn <a class="external text" href="http://quod.lib.umich.edu/cgi/k/kjv/kjv-idx?type=citation&amp;book=Luke&amp;chapno=23&amp;startverse=33&amp;endverse=35" rel="noreferrer noopener" target="_blank">Lu-ca 23:34</a>. Chúa sẽ không đau lòng vì sự báng bổ ngôn ngữ (nguyền rủa), cho dù nó có “mệt mỏi, buồn bã và điên cuồng” đến đâu. Điều tệ hơn nữa là Chúa sẽ phải đau lòng vì những hành vi phạm tội mà con người gây ra cho nhau. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

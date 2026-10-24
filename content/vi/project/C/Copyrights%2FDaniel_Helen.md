@@ -14,12 +14,12 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Helen, Daniel"
 ---
 
-- Daniel Helen đã vui lòng cho phép sử dụng [bức ảnh *The History of Middle-earth*](../../file/D/Daniel_Helen_-_The_History_of_Middle-earth.png.md) của anh ấy tại Tolkien Gateway.
+- Daniel Helen đã vui lòng cho phép sử dụng [bức ảnh *The History of Middle-earth*](../../file/D/Daniel_Helen_-_The_History_of_Middle-earth.png.md) của ông tại Tolkien Gateway.
 - Ngày: 21 tháng 5 năm 2014.
 - Người dùng đã xin phép qua tin nhắn riêng tư: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan).
 
 <br>
 
-- Daniel Helen đã vui lòng cho phép anh ấy sử dụng [bức ảnh chụp tấm bảng Tolkein](../../file/S/Saul_Zaentz_Tolkein_plaque,_Pembroke_College,_by_Daniel_Helen.jpg.md) tại Tolkien Gateway.
+- Daniel Helen đã vui lòng cho phép ông sử dụng [bức ảnh chụp tấm bảng Tolkein](../../file/S/Saul_Zaentz_Tolkein_plaque,_Pembroke_College,_by_Daniel_Helen.jpg.md) tại Tolkien Gateway.
 - Ngày: 30 tháng 11 năm 2016.
 - Người dùng đã xin phép qua tin nhắn Facebook: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan).

@@ -14,7 +14,7 @@ categories:
   - "Gnomish names"
 ---
 
-**Danuin** là [Ainu](../A/Ainur.md) đại diện cho Day, người đã đến thăm Valinor cùng với các anh trai của mình. Anh ấy đã tạo ra [Manwë](../M/Manwë.md) một sợi dây vô hình để buộc Mặt Trời.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Danuin** là [Ainu](../A/Ainur.md) đại diện cho Day, người đã đến thăm Valinor cùng với các anh trai của mình. Ông đã tạo ra cho [Manwë](../M/Manwë.md) một sợi dây vô hình trói Mặt trời.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings (musical)"
 ---
 
-Chuyển hướng đến [The Lord of the Rings (âm nhạc)](<The_Lord_of_the_Rings_(musical).md>).
+Chuyển hướng đến [The Lord of the Rings (musical)](<The_Lord_of_the_Rings_(musical).md>).

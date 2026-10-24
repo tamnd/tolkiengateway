@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Theo](../../main/T/Theo.md) trong chuỗi [The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md).
+[Theo](../../main/T/Theo.md) trong loạt bài [The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md).
 
 ## Giấy phép {#Licensing}
 

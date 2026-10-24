@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sceptre of Númenor"
 ---
 
-Chuyển hướng đến [Vương trượng Númenor](Sceptre_of_Númenor.md).
+Chuyển hướng đến [Quyền trượng Númenor](Sceptre_of_Númenor.md).

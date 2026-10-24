@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Georgiou, Janet"
 ---
 
-- Janet Georgiou đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Janet_Georgiou.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Janet Georgiou đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Janet_Georgiou.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 16 tháng 8 năm 2020
 - Người dùng đã xin phép qua DeviantArt: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

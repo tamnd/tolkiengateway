@@ -24,7 +24,7 @@ file:
   user: "Mith"
 ---
 
-[Hall of Fire](../../main/H/Hall_of_Fire.md) trong*[The Lord of the Rings: Aragorn's Quest](../../main/T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*.
+[Sảnh lửa](../../main/H/Hall_of_Fire.md) ở*[The Lord of the Rings: Aragorn's Quest](../../main/T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*.
 
 Từ: <a class="external text" href="http://jodysargentportfolio.com/Project1.html" rel="noreferrer noopener" target="_blank">Jody Sargent</a>, Nghệ sĩ môi trường cho cấp độ [The Shire](../../main/T/The_Shire.md) và [Rivendell](../../main/R/Rivendell.md) (bao gồm [Bree](../../main/B/Bree.md)).
 

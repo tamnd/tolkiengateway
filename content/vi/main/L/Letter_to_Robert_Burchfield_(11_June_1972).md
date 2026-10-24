@@ -22,8 +22,8 @@ images:
 
 Vào [11 tháng 6](../_/11_June.md) [1972](../_/1972.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết <b><a class="mw-redirect" href="Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md" title="Letters not published in &#34;The Letters of J.R.R. Tolkien&#34;">một lá thư</a> gửi <a class="extiw" href="http://en.wikipedia.org/wiki/Robert_Burchfield" title="wikipedia:Robert Burchfield">Robert Burchfield</a></b>.<sup id="cite_ref-Addenda_1-0" class="reference"><a href="#cite_note-Addenda-1">[1]</a></sup>
 
-- **Chủ đề:** Xin lỗi vì đã không trả lại cuốn sách*Kentish Place-names* của J.K. Wallenberg, 1931) mà Tolkien đã mượn.
-- **Mô tả:** Thư có chữ ký, viết từ Merton College.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- **Chủ đề:** Xin lỗi vì đã không trả lại cuốn sách (*Kentish Place-names* của J.K. Wallenberg, 1931) mà Tolkien đã mượn.
+- **Mô tả:** Thư có chữ ký, viết từ Cao đẳng Merton.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Trích đoạn {#Excerpts}
 

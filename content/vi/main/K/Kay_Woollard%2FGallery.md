@@ -215,7 +215,7 @@ Minh họa cho [J.R.R. Tolkien Hội nghị trăm năm](../J/J.R.R._Tolkien_Cent
 		</li>
 </ul>
 
-## Thiệp Giáng sinh dành cho Hội [Tolkien](../T/Tolkien_Society.md) {#Christmas_cards_for_the_Tolkien_Society}
+## Thiệp Giáng sinh dành cho [Hiệp hội Tolkien](../T/Tolkien_Society.md) {#Christmas_cards_for_the_Tolkien_Society}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 185px">
@@ -248,7 +248,7 @@ Minh họa cho [J.R.R. Tolkien Hội nghị trăm năm](../J/J.R.R._Tolkien_Cent
 
 ## *[Weathertop](<../W/Weathertop_(journal).md>)* bao gồm {#Weathertop_covers}
 
-Cả năm bìa đều có cùng một khung do Kay Woollard thiết kế, nhưng họa sĩ minh họa cho phần bên trong lại khác nhau. Kay cũng đã cung cấp phần trung tâm hai lần.
+Cả năm bìa đều có cùng một khung do Kay Woollard thiết kế, nhưng họa sĩ minh họa cho phần bên trong thì khác nhau. Kay cũng đã cung cấp phần trung tâm hai lần.
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 235px">
@@ -269,7 +269,7 @@ Cả năm bìa đều có cùng một khung do Kay Woollard thiết kế, nhưng
 
 ## *Scenes of the Shire* {#Scenes_of_the_Shire}
 
-Sáu bộ đầu tiên đã được đặt hàng và xuất bản dưới dạng bộ thiệp chúc mừng dành cho [Tolkien Hội](../T/Tolkien_Society.md).
+Sáu bộ đầu tiên đã được đặt hàng và xuất bản dưới dạng bộ thiệp chúc mừng cho [Hiệp hội Tolkien](../T/Tolkien_Society.md).
 
 <h3><span class="mw-headline" id=""></span></h3>
 
@@ -348,7 +348,7 @@ Sáu bộ đầu tiên đã được đặt hàng và xuất bản dưới dạn
 
 <h2><span id="Pages_from_Hob_Painter.27s_Sketchbook"></span><span class="mw-headline" id="Pages_from_Hob_Painter&#39;s_Sketchbook"><i>Pages from Hob Painter&#39;s Sketchbook</i></span></h2>
 
-*Hob Painter* là một nhân vật tự truyện được sáng tạo bởi Kay Woollard. Anh ấy là một người vẽ tranh độc lập, người chủ yếu (hầu như không) kiếm sống bằng nghề vẽ biển hiệu quán trọ, nhưng chủ đề yêu thích của anh ấy là chân dung và phong cảnh.
+*Hob Painter* là một nhân vật tự truyện do Kay Woollard sáng tạo ra. Ông là một người vẽ tranh độc lập, người chủ yếu (hầu như không) kiếm sống bằng nghề vẽ biển hiệu quán trọ, nhưng chủ đề yêu thích của ông là chân dung và phong cảnh.
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 235px">
@@ -460,7 +460,7 @@ Sáu bộ đầu tiên đã được đặt hàng và xuất bản dưới dạn
 
 ## *Một buổi chiều hè đầy nắng ở Shire* {#A_Sunny_Summer_Afternoon_in_the_Shire}
 
-Bộ này cũng là từ một trong những cuốn sổ tay của *Hob Painter'*. Anh ấy vẽ những thứ này bằng bút chì trước và hoàn thiện chúng sau. Anh ấy có được nguồn cảm hứng bùng nổ nhờ một cây bút rất đẹp mà anh ấy mới mua được và anh ấy muốn dùng thử. Bức vẽ yêu thích của anh ấy trong bộ này là *Old Pump on Mushroom Lane*.
+Bộ này cũng là từ một trong những cuốn sổ tay của *Hob Painter'*. Ông vẽ những thứ này bằng bút chì trước và hoàn thiện chúng sau. Ông có được nguồn cảm hứng bùng nổ nhờ một cây bút rất đẹp mà ông mới mua được và ông muốn dùng thử. Bức vẽ yêu thích của ông trong bộ này là *Old Pump on Mushroom Lane*.
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 235px">
@@ -633,7 +633,7 @@ Con mắt của người quan sát được mời gọi đi lang thang, vì mỗ
 		</li>
 </ul>
 
-## Khác nhau [Hobbit](../H/Hobbits.md) {#Various_Hobbits}
+## Various [Hobbits](../H/Hobbits.md) {#Various_Hobbits}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 235px">
@@ -708,11 +708,11 @@ Con mắt của người quan sát được mời gọi đi lang thang, vì mỗ
 		</li>
 </ul>
 
-## Khác nhau [Người Lùn](../D/Dwarves.md) {#Various_Dwarves}
+## Various [Dwarves](../D/Dwarves.md) {#Various_Dwarves}
 
 Bảy mảnh đầu tiên được trưng bày ở đây thuộc về *Peter Bolton* (đã chết). Mỗi phần riêng lẻ cũng được sao chép riêng biệt.
 
-Một ghi chú tưởng nhớ về Peter đã được thêm vào bộ sưu tập của anh ấy. Phần này của phòng trưng bày được dành riêng cho anh ấy.
+Một ghi chú tưởng nhớ về Peter đã được thêm vào bộ sưu tập của ông. Phần này của phòng trưng bày được dành riêng cho ông.
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 235px">
@@ -787,7 +787,7 @@ Một ghi chú tưởng nhớ về Peter đã được thêm vào bộ sưu tậ
 		</li>
 </ul>
 
-## Khác nhau [Ent](../E/Ents.md) {#Various_Ents}
+## Various [Ents](../E/Ents.md) {#Various_Ents}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 235px">
@@ -820,7 +820,7 @@ Một ghi chú tưởng nhớ về Peter đã được thêm vào bộ sưu tậ
 		</li>
 </ul>
 
-## Khác nhau [Tiên tộc](../E/Elves.md) {#Various_Elves}
+## Various [Elves](../E/Elves.md) {#Various_Elves}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 235px">

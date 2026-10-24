@@ -20,19 +20,19 @@ Bản ghi demo hoàn chỉnh về tác phẩm opera của nhà soạn nhạc [Pa
 
 <br> **Diễn viên:**
 
-Ulmo, Chúa tể vùng nước (Bass):  Martin Lloyd
+Ulmo, Chúa tể vùng biển (Bass):  Martin Lloyd
 
-Turgon, Vua của Gondolin (Bass):  George Newton-Fitzgerald
+Turgon, Vua Gondolin (Bass):  George Newton-Fitzgerald
 
-Aredhel, em gái anh ấy (Mezzo-Soprano):  Louise Ratcliffe
+Aredhel, em gái ông (Mezzo-Soprano):  Louise Ratcliffe
 
-Eöl, Tiên tối (Baritone):  Julian Boyce
+Eöl, yêu tinh bóng tối (Baritone):  Julian Boyce
 
 Maeglin, con trai của Eol và Aredhel (Bass-Baritone):  Stephen Wells
 
-Ecthelion, Đội trưởng đội cận vệ Gondolin (Baritone):  Philip Lloyd-Evans
+Ecthelion, Đội trưởng Đội cận vệ Gondolin (Baritone):  Philip Lloyd-Evans
 
-Tuor con trai của Huor, một người phàm (Tenor):  Simon Crosby Buttle
+Tuor con trai của Huor, một người phàm (Giọng nam cao):  Simon Crosby Buttle
 
 Voronwë, thủy thủ của Gondolin (Baritone):  Julian Boyce
 

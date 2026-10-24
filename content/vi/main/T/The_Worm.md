@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Scatha"
 ---
 
-Chuyển hướng đến [Scatha](../S/Scatha.md).
+Chuyển hướng tới [Scatha](../S/Scatha.md).

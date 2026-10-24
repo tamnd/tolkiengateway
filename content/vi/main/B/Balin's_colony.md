@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Balin's folk"
 ---
 
-Chuyển hướng tới [Balin dân gian](Balin's_folk.md).
+Chuyển hướng tới [dân gian Balin](Balin's_folk.md).

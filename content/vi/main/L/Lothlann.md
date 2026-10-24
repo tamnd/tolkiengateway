@@ -27,21 +27,21 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Luis_F._Bejarano_-_Lothlann.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4c/Luis_F._Bejarano_-_Lothlann.jpg/300px-Luis_F._Bejarano_-_Lothlann.jpg" decoding="async" loading="lazy" width="300" height="115" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4c/Luis_F._Bejarano_-_Lothlann.jpg/450px-Luis_F._Bejarano_-_Lothlann.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4c/Luis_F._Bejarano_-_Lothlann.jpg/600px-Luis_F._Bejarano_-_Lothlann.jpg 2x" data-file-width="900" data-file-height="346"/></a><figcaption><a href="Luis_F._Bejarano.md" title="Luis F. Bejarano">Luis F. Bejarano</a> - <i>Lothlann</i></figcaption></figure>
 
-**Lothlann**, một đồng bằng "rộng và trống trải",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> nằm ở phía đông [Ard-galen](../A/Ard-galen.md) và phía bắc [Đông Beleriand](../E/East_Beleriand.md), vượt quá [tháng 3 Maedhros](../M/March_of_Maedhros.md) và [Khe Maglor](../M/Maglor's_Gap.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Lothlann**, một đồng bằng "rộng và trống trải",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> nằm ở phía đông [Ard-galen](../A/Ard-galen.md) và phía bắc [Đông Beleriand](../E/East_Beleriand.md), vượt qua [March of Maedhros](../M/March_of_Maedhros.md) và [Maglor's Gap](../M/Maglor's_Gap.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong [Dagor Bragollach](../D/Dagor_Bragollach.md) các tay đua của người dân [Fëanor](../F/Fëanor.md) đã bị choáng ngợp trong Lothlann khi [rồng](../D/Dragons.md) [Glaurung](../G/Glaurung.md) đến và đi qua [Khe Maglor](../M/Maglor's_Gap.md). Nhiều kỵ binh của [Maglor](../M/Maglor.md) đã bị thiêu sống trên đồng bằng khi [Morgoth](../M/Morgoth.md) đốt cháy nó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Dagor Bragollach](../D/Dagor_Bragollach.md) các kỵ sĩ của người dân [Fëanor](../F/Fëanor.md) đã bị áp đảo ở Lothlann khi [con rồng](../D/Dragons.md) [Glaurung](../G/Glaurung.md) đến và đi qua [Maglor's Gap](../M/Maglor's_Gap.md). Nhiều kỵ binh của [Maglor](../M/Maglor.md) đã bị thiêu sống trên đồng bằng khi [Morgoth](../M/Morgoth.md) phóng hỏa đốt nó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Giống như hầu hết [Beleriand](../B/Beleriand.md), nó đã bị [Đại Hải](../G/Great_Sea.md) nhấn chìm ở cuối [Kỷ Đệ Nhất](../F/First_Age.md).
+Giống như hầu hết [Beleriand](../B/Beleriand.md), nó đã bị [Biển Lớn](../G/Great_Sea.md) nhấn chìm vào cuối [Kỷ nguyên thứ nhất](../F/First_Age.md).
 
 ## Từ nguyên {#Etymology}
 
-Tên có nghĩa là "trống rỗng và rộng". Trong *[The Etymologies](../T/The_Etymologies.md)* tên được xác định là [Noldorin](../N/Noldorin.md) và được đánh vần là *Lhothlann* theo quan niệm trước đó, với chữ "Lh" sau đó bị bỏ đi thay bằng "L" trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Nó bắt nguồn từ các phần tử Noldorin *lhost* "trống" và *lhand/lhann* \*"rộng".
+Tên có nghĩa là "trống rỗng và rộng". Trong *[The Etymologies](../T/The_Etymologies.md)* tên được xác định là [Noldorin](../N/Noldorin.md) và được đánh vần là *Lhothlann* theo quan niệm trước đó, với chữ "Lh" sau đó được bỏ đi để thay bằng "L" trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Nó có nguồn gốc từ các phần tử Noldorin *lhost* "trống" và *lhand/lhann* \*"rộng".
 
 Trong tài liệu đó, tên xuất hiện dưới dạng *Lhothland* và *Lhothlann*, nhưng dưới mục nhập LUS, tên này cũng xuất hiện ở dạng sau <i><b>L</b>othlann</i>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các bản thảo ban đầu của *[The Return of the King](../T/The_Return_of_the_King.md)*, tên Lothlann, cũng là sa mạc Lothland hay [Sa mạc Lostladen](../D/Desert_of_Lostladen.md),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> là một vùng phía nam của [Mordor](../M/Mordor.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Trong những bản thảo ban đầu của *[The Return of the King](../T/The_Return_of_the_King.md)*, tên Lothlann, cũng là sa mạc Lothland hay [Sa mạc Lostladen](../D/Desert_of_Lostladen.md),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> là một vùng phía nam [Mordor](../M/Mordor.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 ## Xem thêm {#See_also}
 

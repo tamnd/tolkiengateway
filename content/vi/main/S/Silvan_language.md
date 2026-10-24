@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Silvan Elvish"
 ---
 
-Chuyển hướng đến [Silvan Elvish](Silvan_Elvish.md).
+Chuyển hướng tới [Silvan Elvish](Silvan_Elvish.md).

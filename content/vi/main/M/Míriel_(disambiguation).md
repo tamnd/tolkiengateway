@@ -16,11 +16,11 @@ images:
   - "Disambig.png"
 ---
 
-**Míriel** có thể tham khảo:
+**Míriel** có thể đề cập đến:
 
-- **[Míriel](Míriel.md) Serindë (cũng đánh vần là Míriel Þerindë), vợ của [Finwë](../F/Finwë.md) trước [Kỷ Đệ Nhất](../F/First_Age.md).**
+- **[Míriel](Míriel.md) Serindë (cũng đánh vần là Míriel Þerindë), vợ của [Finwë](../F/Finwë.md) trước [Thời đại thứ nhất](../F/First_Age.md).**
 - [Tar-Míriel](../T/Tar-Míriel.md) ([S.A.](../S/Second_Age.md) [3117](../S/Second_Age_3117.md) - [3319](../S/Second_Age_3319.md)), được kết hôn bởi [Ar-Pharazôn](../A/Ar-Pharazôn.md), [Vua cuối cùng của Númenor](../K/King_of_Númenor.md).
-- *[míriel](<Míriel_(Sindarin).md>)*, một từ [Sindarin](../S/Sindarin.md)
+- *[míriel](<Míriel_(Sindarin).md>)*, một từ [tiếng Sindarin](../S/Sindarin.md)
 
 <hr style="margin-top:15px;"/>
 

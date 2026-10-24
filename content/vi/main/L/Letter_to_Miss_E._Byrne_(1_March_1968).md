@@ -15,15 +15,15 @@ sort_keys:
   "Letters": "Byrne, Miss E."
 ---
 
-Vào [1 tháng 3](../_/1_March.md) [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho cô E. Byrne**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào [1 tháng 3](../_/1_March.md) [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Cô E. Byrne**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Nội dung:** [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) phản ánh về tuổi trẻ của ông, thừa nhận ông không mấy hứng thú với văn học thời niên thiếu.
 - **Mô tả:** Thư đánh máy, 1 trang
-- **Xuất bản:** Bức thư được xuất bản trong *[Attacks of Taste](../A/Attacks_of_Taste.md)*. Một đoạn trích ngắn hơn đã được xuất bản trong *[Sotheby's The James S. Copley Library 17 June 2010](../S/Sotheby's_The_James_S._Copley_Library_17_June_2010.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- **Xuất bản:** Bức thư được xuất bản trên *[Attacks of Taste](../A/Attacks_of_Taste.md)*. Một đoạn trích ngắn hơn đã được xuất bản trong *[Sotheby's The James S. Copley Library 17 June 2010](../S/Sotheby's_The_James_S._Copley_Library_17_June_2010.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ cuộc đấu giá {#From_Auction}
 
-Với những tác phẩm nổi tiếng như Chúa tể của những chiếc nhẫn và The Hobbit, lá thư của Tolkien đã ghi lại hiện thực của một cậu thiếu niên thích khám phá thiên nhiên hơn là đọc tiểu thuyết. Bức thư nhấn mạnh sự quan tâm của ông đối với khoa học, điều này sau này trở thành niềm đam mê. Vào những năm 1960, Tolkien trở thành một nhà hoạt động môi trường và phần lớn tình yêu cũng như mối quan tâm của ông đối với thiên nhiên có thể được thể hiện qua những thế giới giàu trí tưởng tượng được tạo ra trong tiểu thuyết của ông. Cuốn sách của Charles Alexander John là một hướng dẫn để xác định thực vật.
+Với những tác phẩm nổi tiếng như Chúa tể của những chiếc nhẫn và Người Hobbit, lá thư của Tolkien ghi lại hiện thực về một cậu thiếu niên thích khám phá thiên nhiên hơn là đọc tiểu thuyết. Bức thư nhấn mạnh sự quan tâm của ông đối với khoa học, điều này sau này trở thành niềm đam mê. Vào những năm 1960, Tolkien trở thành một nhà hoạt động môi trường và phần lớn tình yêu cũng như sự quan tâm của ông đối với thiên nhiên có thể được thể hiện qua những thế giới giàu trí tưởng tượng được tạo ra trong tiểu thuyết của ông. Cuốn sách của Charles Alexander John là một hướng dẫn để xác định thực vật.
 
 ## Phiên âm {#Transcription}
 

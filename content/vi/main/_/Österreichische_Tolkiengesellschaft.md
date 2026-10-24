@@ -12,11 +12,11 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Österreichische Tolkiengesellschaft**, ÖTG, (Hiệp hội Tolkien Áo) là [Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) ở Áo.
+**Österreichische Tolkiengesellschaft**, ÖTG, (Hiệp hội Tolkien Áo) là [Hiệp hội Tolkien](../T/Tolkien_Societies~67099.md) ở Áo.
 
 ## Lịch sử {#History}
 
-ÖTG được thành lập vào ngày 20 tháng Chín năm 2002.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ÖTG tổ chức các sự kiện quốc gia hàng năm và cũng có một số chi hội địa phương trên khắp Áo. ÖTG thường tham dự Oxonmoot cũng như các sự kiện khác ở các nước láng giềng (Đức, Ý và Slovenia).
+ÖTG được thành lập vào ngày 20 tháng 9 năm 2002.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ÖTG tổ chức các sự kiện quốc gia hàng năm và cũng có một số chi nhánh địa phương trên khắp Áo. ÖTG thường tham dự Oxonmoot cũng như các sự kiện khác ở các nước láng giềng (Đức, Ý và Slovenia).
 
 ## Ấn phẩm {#Publications}
 

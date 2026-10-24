@@ -14,7 +14,7 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Ernest, Terry A."
 ---
 
-- Terry A. Ernest đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Terry_A._Ernest.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Terry A. Ernest đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Terry_A._Ernest.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Điều này phải được áp dụng cho tất cả các hình ảnh: "Không có tác phẩm phái sinh - Bạn không được thay đổi, biến đổi hoặc xây dựng dựa trên tác phẩm này."
 - Ngày: 10 tháng 7 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

@@ -46,7 +46,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../E/Elves.md" title="Elves">Elves</a>, <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mee&amp;action=edit&amp;redlink=1" title="Mee (page does not exist)">Nî</a>, <a href="../O/Ossë.md" title="Ossë">Osse</a>, <a href="../U/Uinen.md" title="Uinen">Ônen</a></td></tr>
 </tbody></table>
 
-<i><b>Công chúa Mee</b></i> là một bài thơ [Hobbit](../H/Hobbit.md) vô nghĩa nằm trong số những bài thơ được viết bên lề [Red Book of Westmarch](../R/Red_Book_of_Westmarch.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Princess Mee</b></i> là một bài thơ [Hobbit](../H/Hobbit.md) vô nghĩa nằm trong số những bài thơ được viết bên lề [Sách Đỏ Tây tháng Ba](../R/Red_Book_of_Westmarch.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Khổ đầu tiên {#First_stanza}
 
@@ -71,15 +71,15 @@ Sewn with diamond dew.<sup id="cite_ref-poem_2-0" class="reference"><a href="#ci
 
 ## Nền {#Background}
 
-Bản thảo đầu tiên của bài thơ đề ngày [9 tháng 7](../_/9_July.md) [1915](../_/1915.md) và có tựa đề <i><b>Mægden Ní Owéne Dohtor</b></i><sup id="cite_ref-collectedpoems_3-0" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup> và <i><b>Công chúa Nî</b></i>. Một phiên bản sửa đổi có tựa đề <i><b>Công chúa Ní</b></i> đã được xuất bản trong [1924](../_/1924.md) trong vòng *[Leeds University Verse 1914-24](../L/Leeds_University_Verse_1914-24.md)* (tr. 58).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Cái tên này có thể ám chỉ đến [Celtic](../C/Celtic.md) từ viết tắt nữ tính *ní*.<sup id="cite_ref-ab_5-0" class="reference"><a href="#cite_note-ab-5">[5]</a></sup>
+Bản thảo đầu tiên của bài thơ đề ngày [9 tháng 7](../_/9_July.md) [1915](../_/1915.md) và có tựa đề <i><b>Mægden Ní Owéne Dohtor</b></i><sup id="cite_ref-collectedpoems_3-0" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup> và <i><b>Công chúa Nî</b></i>. Một phiên bản sửa đổi có tựa đề <i><b>Công chúa Ní</b></i> đã được xuất bản trên [1924](../_/1924.md) trong vòng *[Leeds University Verse 1914-24](../L/Leeds_University_Verse_1914-24.md)* (tr. 58).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Cái tên này có thể ám chỉ từ viết tắt nữ tính [Celtic](../C/Celtic.md) *ní*.<sup id="cite_ref-ab_5-0" class="reference"><a href="#cite_note-ab-5">[5]</a></sup>
 
-Bài thơ là một trong những Tolkien được khám phá lại, tân trang và sửa lại vào khoảng [1961](../_/1961.md) trong khi chuẩn bị *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)*, nơi nó được xuất bản dưới tên *Princess Mee*.<sup id="cite_ref-poem_2-1" class="reference"><a href="#cite_note-poem-2">[2]</a></sup>
+Bài thơ là một trong những bài thơ được Tolkien khám phá lại, tân trang và sửa lại vào khoảng [1961](../_/1961.md) trong khi chuẩn bị *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)*, nơi nó được xuất bản dưới tên *Princess Mee*.<sup id="cite_ref-poem_2-1" class="reference"><a href="#cite_note-poem-2">[2]</a></sup>
 
-Bài thơ bắt nguồn từ *The Princess Ní*, một bài thơ Tolkien viết khi ông còn trẻ, và là một trong những bài ông đã tân trang và sửa lại trong khi chuẩn bị *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)*.<sup id="cite_ref-ab_5-1" class="reference"><a href="#cite_note-ab-5">[5]</a></sup>
+Bài thơ bắt nguồn từ *The Princess Ní*, một bài thơ Tolkien viết khi còn trẻ, và là một trong những bài ông đã tân trang và sửa lại trong khi chuẩn bị *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)*.<sup id="cite_ref-ab_5-1" class="reference"><a href="#cite_note-ab-5">[5]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 <span></span>
 

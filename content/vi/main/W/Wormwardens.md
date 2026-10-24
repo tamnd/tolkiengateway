@@ -12,9 +12,9 @@ categories:
   - "Farmer Giles of Ham"
 ---
 
-**Wormwardens** là một tổ chức hiệp sĩ mới được thành lập bởi [Farmer Giles](../F/Farmer_Giles.md) sau khi anh ta trở thành Vua Ægidius Draconarius. Cờ hiệu của họ là một con rồng.
+**Wormwardens** là một tổ chức hiệp sĩ mới được thành lập bởi [Nông dân Giles](../F/Farmer_Giles.md) sau khi ông trở thành Vua Ægidius Draconarius. Cờ hiệu của họ là một con rồng.
 
-Khi Farmer Giles buộc con rồng [Chrysophylax](../C/Chrysophylax.md) mang một phần tích trữ của mình về làng [Ham](../H/Ham.md), nó cần người giúp đỡ để canh gác con sâu trên đường đi. Ban đầu anh ta sử dụng sáu người hầu của các hiệp sĩ đi cùng anh ta để tìm con rồng (nhưng những người này đã bị giết hoặc buộc phải chạy trốn khi con rồng tấn công). Trên đường đi, Giles bắt đầu có những suy nghĩ lớn lao và khi họ đến ngôi làng đầu tiên khi trở về, anh ấy đã chọn khoảng chục chàng trai có khả năng tham gia vào đám đông của mình.
+Khi Nông dân Giles buộc con rồng [Chrysophylax](../C/Chrysophylax.md) mang một phần kho báu của mình về làng [Ham](../H/Ham.md), ông ta cần người trợ giúp để canh gác con sâu trên đường đi. Ban đầu ông ta sử dụng sáu người hầu của các hiệp sĩ đi cùng ông ta để tìm con rồng (nhưng những người này đã bị giết hoặc buộc phải chạy trốn khi con rồng tấn công). Trên đường đi, Giles bắt đầu có những suy nghĩ lớn lao và khi họ đến ngôi làng đầu tiên khi trở về, ông đã chọn khoảng chục chàng trai có khả năng tham gia vào đám đông của mình.
 
 Khi Giles trở thành vua, mỗi người trong số mười hai chàng trai có khả năng trở thành đội trưởng đội kỵ binh của Giles. Cuối cùng, trật tự của Wormwardens được thành lập với mười hai chàng trai có khả năng (hiện đã trưởng thành) trở thành thành viên cấp cao.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 

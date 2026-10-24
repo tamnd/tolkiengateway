@@ -34,7 +34,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_and_Romanticism.png.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cf/Tolkien_and_Romanticism.png/320px-Tolkien_and_Romanticism.png" decoding="async" loading="lazy" width="320" height="460" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cf/Tolkien_and_Romanticism.png/480px-Tolkien_and_Romanticism.png 1.5x, https://tolkiengateway.net/w/images/thumb/c/cf/Tolkien_and_Romanticism.png/640px-Tolkien_and_Romanticism.png 2x" data-file-width="1719" data-file-height="2472"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien and Romanticism</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">I.R. Morus<br/>M.J.L. Percival<br/>C.S. Rosenthal</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Amina Alyal</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a>/Cambridge Tolkien Workshop</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1988.md" title="1988">1988</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">34</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0952325004" title="Special:BookSources/0952325004">0952325004</a></td></tr></tbody></table>
 
-<i><b>Tolkien và Chủ nghĩa lãng mạn</b></i> là tuyển tập kỷ yếu của Hội thảo Cambridge Tolkien của [Hội Tolkien](The_Tolkien_Society.md)năm 1988.
+<i><b>Tolkien và Chủ nghĩa lãng mạn</b></i> là tập hợp các kỷ yếu của [Hội thảo Cambridge Tolkien của Hiệp hội Tolkien](The_Tolkien_Society.md) năm 1988.
 
 ## Nội dung {#Contents}
 
@@ -42,15 +42,15 @@ infobox:
     - Bởi: Iwan Rhys Morus
 - Người hầu của ngọn lửa bí mật
     - Bởi: [Paul Bibire](../P/Paul_Bibire.md)
-- Tolkien và sự phát triển của sự lãng mạn
+- Tolkien và sự phát triển của lãng mạn
     - Bởi: [Alex Lewis](../A/Alex_Lewis.md)
 - Tolkien, Wagner và sự kết thúc của thời đại lãng mạn
     - Bởi: [John Ellison](../J/John_Ellison.md)
 - Bow-Wow hay Pooh-Pooh: Mô hình ngôn ngữ tự nhiên từ Plato đến Tolkien
     - Bởi: Iwan Rhys Morus
-- Tiên-Spear, Cây đũa phép tuổi trẻ và tàu tốc hành ánh sao
+- Elf-Spear, Cây đũa phép tuổi trẻ và Starlight Express
     - Bởi: [David Doughan](../D/David_Doughan.md)
-- The History of Middle-earth Tập 24
+- Lịch sử Trung Địa Tập 24
     - Bởi: Duncan McLaren
 
 ## Xem thêm {#See_also}

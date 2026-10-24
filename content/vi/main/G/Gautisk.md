@@ -12,17 +12,17 @@ categories:
   - "Languages"
 ---
 
-**Gautisk** hoặc **Gautish**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một [ngôn ngữ](../L/Languages.md) thuộc loại tiếng Đức được phát minh bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào đầu những năm 1910, mà có thể ông ta muốn nghĩ ra ngôn ngữ này cho người Gaut ở miền nam Thụy Điển, những người được xác định là Geats của <i><a class="mw-redirect mw-disambig" href="../B/Beowulf.md" title="Beowulf">Beowulf</a></i>.
+**Gautisk** hoặc **Gautish**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một [ngôn ngữ](../L/Languages.md) thuộc loại tiếng Đức được phát minh bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào đầu những năm 1910, mà có thể ông ta muốn nghĩ ra ngôn ngữ này làm ngôn ngữ cho người Gaut ở miền nam Thụy Điển, những người được xác định là Geats của <i><a class="mw-redirect mw-disambig" href="../B/Beowulf.md" title="Beowulf">Beowulf</a></i>.
 
 ## Nguồn tài liệu {#Source_materials}
 
-Tất cả những gì được biết về Gautisk đều đến từ một số nguồn rời rạc và không kết nối. Tolkien đã viết cho [W.H. Auden](../W/W.H._Auden.md) vào năm 1955 rằng mối quan tâm của ông đối với [Gothic](Gothic.md) (mà ông phát hiện ra vào khoảng năm 1910) đã thúc đẩy ông "phát minh ra một ngôn ngữ Đức 'không được ghi lại'", mặc dù ông đã từ bỏ nỗ lực đó để ủng hộ "'ngôn ngữ riêng'...được [được hoàn thiện nhiều](../F/Finnish.md) trong mô hình và cấu trúc ngữ âm" (tức là [Quenya](../Q/Quenya.md)), sau khi khám phá ra Ngữ pháp Phần Lan trong Thư viện Đại học Exeter khi ông "được cho là đang đọc cho Honor Mods" (giữa năm 1912-1913).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tất cả những gì được biết về Gautisk đều đến từ một số nguồn rời rạc và không kết nối. Tolkien đã viết cho [W.H. Auden](../W/W.H._Auden.md) vào năm 1955 rằng mối quan tâm của ông đối với [Gothic](Gothic.md) (mà ông phát hiện ra vào khoảng năm 1910) đã thúc đẩy ông "phát minh ra một ngôn ngữ Đức 'không được ghi lại'", mặc dù ông đã từ bỏ nỗ lực đó để chuyển sang sử dụng "'ngôn ngữ riêng'...rất [được Hán hóa](../F/Finnish.md) trong mô hình và cấu trúc ngữ âm" (tức là [Quenya](../Q/Quenya.md)), sau khi khám phá ra Ngữ pháp tiếng Phần Lan trong Thư viện Đại học Exeter khi anh "được cho là đang đọc cho Honor Mods" (giữa năm 1912-1913).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Tolkien không nêu tên cụ thể cho ngôn ngữ Đức đó trong thư của mình, nhưng câu chuyện này trùng hợp với sự tồn tại của hai đề cập ngắn gọn về một thứ tiếng có tên là *Gautisk* trong cuốn sổ tay có chứa [Qenyaqetsa](../Q/Qenyaqetsa.md).
+Tolkien không nêu tên cụ thể cho ngôn ngữ Đức đó trong bức thư của mình, nhưng câu chuyện này trùng hợp với sự tồn tại của hai đề cập ngắn gọn về một thứ tiếng có tên là *Gautisk* trong cuốn sổ tay có chứa [Qenyaqetsa](../Q/Qenyaqetsa.md).
 
 Một trong những ghi chú đó là tiêu đề ở bìa sau bên trong của cuốn sổ: *Ermanaþiudiska razda eþþau Gautiska tungō*, theo tiếng Gothic có nghĩa là 'Ngôn ngữ của những dân tộc vĩ đại, hay lưỡi Gautish'.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Ghi chú còn lại là một ghi chú được gạch ngang ở bìa trước bên trong, sau một danh sách bảng chữ cái, cho biết một số đặc điểm cụ thể về ngữ âm của "Gautisk".<sup id="cite_ref-:0_4-0" class="reference"><a href="#cite_note-:0-4">[4]</a></sup>
 
-[Arden R. Smith](../A/Arden_R._Smith.md) nhận xét rằng nội dung của những ghi chú đó có liên quan chặt chẽ đến ngôn ngữ Gothic, nhưng cách phát âm của *Gautisk(a)* khác với hình thức mà "Goth" hoặc "Gothic" sẽ sử dụng ngôn ngữ riêng của nó và nó có thể phản ánh tên của người Gauts ở Bắc Thụy Điển (tiếng Thụy Điển *Götar*, tiếng Bắc Âu cổ *Gautar*, tiếng Anh cổ *Géatas*), những người có vị vua cuối cùng là Beowulf.<sup id="cite_ref-:0_4-1" class="reference"><a href="#cite_note-:0-4">[4]</a></sup><sup id="cite_ref-:1_5-0" class="reference"><a href="#cite_note-:1-5">[5]</a></sup>
+[Arden R. Smith](../A/Arden_R._Smith.md) nhận xét rằng nội dung của những ghi chú đó có liên quan chặt chẽ đến ngôn ngữ Gothic, nhưng cách phát âm của *Gautisk(a)* khác với hình thức mà "Goth" hoặc "Gothic" sẽ sử dụng ngôn ngữ riêng của nó và nó có thể phản ánh tên của người Gauts ở Bắc Thụy Điển (tiếng Thụy Điển *Götar*, tiếng Bắc Âu cổ *Gautar*, tiếng Anh cổ *Géatas*), dân tộc có vị vua cuối cùng là Beowulf.<sup id="cite_ref-:0_4-1" class="reference"><a href="#cite_note-:0-4">[4]</a></sup><sup id="cite_ref-:1_5-0" class="reference"><a href="#cite_note-:1-5">[5]</a></sup>
 
 ## Đặc điểm {#Characteristics}
 
@@ -45,9 +45,9 @@ Ghi chú tương tự có chứa một bình luận khó đọc về biến các
 
 Bằng chứng còn tồn tại về Gautisk không cung cấp bất kỳ từ vựng cụ thể nào của ngôn ngữ đó, trừ khi tiêu đề Gothic ở bìa sau bên trong được coi là được viết bằng chính Gautisk.
 
-[John Garth](../J/John_Garth.md) đề cập đến hai lời chúc do Tolkien phát minh ở Gautisk, từ những bức thư chưa được xuất bản: "Mr. Undarhruiménitupp" cho chính Tolkien và "Haughadel" hoặc "Hawaughdall" cho [Geoffrey Bache Smith](Geoffrey_Bache_Smith.md), mặc dù "việc giải mã chúng cũng chỉ là vấn đề phỏng đoán".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+[John Garth](../J/John_Garth.md) đề cập đến hai lời cầu hôn do Tolkien phát minh ra ở Gautisk, từ những bức thư chưa được xuất bản: "Mr. Undarhruiménitupp" dành cho chính Tolkien, và "Haughadel" hoặc "Hawaughdall" dành cho [Geoffrey Bache Smith](Geoffrey_Bache_Smith.md), mặc dù "việc giải mã chúng cũng chỉ là vấn đề phỏng đoán".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-[Andrew S. Higgins](../A/Andrew_Higgins.md) gợi ý rằng *aiþei*, một từ Gothic cho 'mẹ' xuất hiện trong danh sách gồm hai mục "kho tài liệu riêng" của Tolkien, trong số các tài liệu của *[A Secret Vice](../A/A_Secret_Vice.md)*, cũng có thể là một thành phần trong ngôn ngữ Gautisk của anh ấy.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+[Andrew S. Higgins](../A/Andrew_Higgins.md) gợi ý rằng *aiþei*, một từ Gothic cho 'mẹ' xuất hiện trong danh sách gồm hai mục về "kho tài liệu riêng" của Tolkien, trong số các tài liệu của *[A Secret Vice](../A/A_Secret_Vice.md)*, cũng có thể là một thành phần trong ngôn ngữ Gautisk của ông.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 <span></span>
 

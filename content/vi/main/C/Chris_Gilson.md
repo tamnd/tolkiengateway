@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Christopher Gilson"
 ---
 
-Chuyển hướng đến [Christopher Gilson](Christopher_Gilson.md).
+Chuyển hướng tới [Christopher Gilson](Christopher_Gilson.md).

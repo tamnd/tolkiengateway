@@ -39,37 +39,37 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_52.gif.md"><img src="https://tolkiengateway.net/w/images/3/33/Mythlore_52.gif" decoding="async" loading="lazy" width="225" height="296" class="mw-file-element" data-file-width="225" data-file-height="296"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 52</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Winter <a href="../_/1987.md" title="1987">1987</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">63</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_51.md" title="Mythlore 51">Mythlore 51</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_53.md" title="Mythlore 53">Mythlore 53</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 52</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol14/iss2/" rel="noreferrer noopener" target="_blank">Tập 14, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 52</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol14/iss2/" rel="noreferrer noopener" target="_blank">Tập 14, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Reynolds, Patricia. “Nhìn về phía trước từ tòa tháp: Mối quan hệ của bóng tối Kỷ nguyên ở Bắc Âu với văn học giả tưởng.”
-- Trùm đầu, Gwenyth. “Sauron và Dracula.”
-- Người quay phim, Kath. “Từ Belbury đến Bernt-arse: Lời hùng biện của vùng đất hoang ở Lewis, Orwell và Hoban.”
-- Rogers, Deborah Webster. “Khốn khổ yêu… Một Gốc nhân vật phản diện.”
-- Gardiner-Scott, Tanya. “Giải phóng trí nhớ: Chủ nghĩa hiện thực tuyệt vời của Mervyn Peake.”
-- Ngư dân, Matt. “Maskull và tiền chuộc: Đêm tối của linh hồn.”
-- Spivak, Charlotte. “Hình ảnh của Thần trong tiểu thuyết của Clive Staples Lewis.”
-- Scull, Christina. “The Hobbit Được coi là có liên quan đến văn học thiếu nhi đương đại với cách viết và xuất bản của nó.”
+- Reynolds, Patricia. “Looking Forwards from the Tower: The Relationship of the Dark Ages in Northern Europe to Fantasy Literature.”
+- Hood, Gwenyth. “Sauron and Dracula.”
+- Filmer, Kath. “From Belbury to Bernt-arse: The Rhetoric of the Wasteland in Lewis, Orwell and Hoban.”
+- Rogers, Deborah Webster. “Misery loves… A Root of Villainy.”
+- Gardiner-Scott, Tanya. “Memory Emancipated: The Fantastic Realism of Mervyn Peake.”
+- Fisher, Matt. “Maskull and Ransom: The Dark Night of the Soul.”
+- Spivak, Charlotte. “Images of Spirit in the Fiction of Clive Staples Lewis.”
+- Scull, Christina. “The Hobbit Considered in Relation to Children's Literature Contemporary with its Writing and Publication.”
 
 #### Thơ {#Poetry}
 
-- Williams, Donald T. “Gửi Clyde S. Kilby: Tưởng nhớ.”
-- Cochran, Dixie. “Con sư tử đằng sau tủ quần áo.”
+- Williams, Donald T. “To Clyde S. Kilby: In Memoriam.”
+- Cochran, Dixie. “The Lion Behind The Wardrobe.”
 
 #### Tính năng {#Features}
 
 - Chúc ngủ ngon, Glen. Khai mạc tòa soạn.
-- Kodratiev, Alexei. “Những câu chuyện mới được kể.”
-- Hyde, Paul Nolan. “Quenti Lambardillion: Phân tích ngữ âm về các ngôn ngữ được phát minh của Tolkien: Phụ âm.”
+- Kondratiev, Alexei. “Tales Newly Told.”
+- Hyde, Paul Nolan. “Quenti Lambardillion: A Phoenetic Analysis of Tolkien’s Invented Languages: Consonants.”
 - Thư.
 
 #### Đánh giá {#Reviews}
 
 - *The Lost Road and Other Writings.* J.R.R. Tolkien. Được đánh giá bởi Taum Santoski.
-- *Bảy: Một bài phê bình văn học Anh-Mỹ, Tập. 8.* Beatrice Batson, David S. Robb, John Coates, Diane Edwards, Gwenyth E. Hood, George Musacchio, Brian G. Marsden, Stephen Medcalf. Được đánh giá bởi Nancy-Lou Patterson.
+- *Bảy: Tạp chí văn học Anh-Mỹ, Tập. 8.* Beatrice Batson, David S. Robb, John Coates, Diane Edwards, Gwenyth E. Hood, George Musacchio, Brian G. Marsden, Stephen Medcalf. Được đánh giá bởi Nancy-Lou Patterson.
 - *Gesellschaft fur Literatur und Aesthetic.* Gisbert Kranz. Được đánh giá bởi Christine Lowentrout.
 - *C.S. Lewis and His World.* David Barratt. Được đánh giá bởi Nancy-Lou Patterson.
 

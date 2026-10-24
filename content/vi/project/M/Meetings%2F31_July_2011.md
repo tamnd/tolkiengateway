@@ -123,12 +123,12 @@ sort_keys:
 ## Ghi chú {#Notes}
 
 - Cuộc họp đặc biệt này được sắp xếp tại [cuộc họp ngày 3 tháng 7 năm 2011](Meetings%252F3_July_2011.md).
-- Thảo luận sẽ tập trung vào quan điểm Tolkien Gateway nên trở thành một tổ chức từ thiện.
+- Thảo luận sẽ tập trung vào quan điểm rằng Tolkien Gateway nên trở thành một tổ chức từ thiện.
 
 ## Tài liệu {#Documents}
 
 - [Tolkien Gateway với tư cách là một tổ chức từ thiện ở Hoa Kỳ](Meetings%252F31_July_2011%252FUS_proposal.md)
-- [Tolkien Gateway với tư cách là tổ chức từ thiện ở Anh và xứ Wales](Meetings%252F31_July_2011%252FEngland_and_Wales_proposal.md)
+- [Tolkien Gateway là tổ chức từ thiện ở Anh và xứ Wales](Meetings%252F31_July_2011%252FEngland_and_Wales_proposal.md)
 
 ## Liên kết {#Links}
 

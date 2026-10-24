@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hobbit-holes"
 ---
 
-Chuyển hướng đến [hang Hobbit](Hobbit-holes.md).
+Chuyển hướng tới [Hố Hobbit](Hobbit-holes.md).

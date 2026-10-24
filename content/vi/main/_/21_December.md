@@ -70,9 +70,9 @@ Sự kiện xảy ra vào ngày 21 tháng 12
 - **[1933](1933.md)** – [Ông già Noel](../F/Father_Christmas.md) viết một [thư](../L/Letters_from_Father_Christmas.md) cho các con của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 - **[1933](1933.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi R.W. Chambers](../L/Letter_to_R.W._Chambers.md).
 - **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi bà Rachael Feichtmeir](../L/Letter_to_Mrs_Rachael_Feichtmeir.md).
-- **[2001](2001.md)** – [Tom Shippey](../T/Tom_Shippey.md) xuất bản "Cám dỗ mọi thời đại", đánh giá *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* cho *The Times Literary Supplement*.
+- **[2001](2001.md)** – [Tom Shippey](../T/Tom_Shippey.md) xuất bản "Cám dỗ mọi thời đại", bài đánh giá về *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* cho *The Times Literary Supplement*.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Người [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho [nhiệm vụ](../Q/Quest_of_the_Ring.md) tiêu diệt [Người Nhẫn](../T/The_One_Ring.md).
+    - [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho [nhiệm vụ](../Q/Quest_of_the_Ring.md) tiêu diệt [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).

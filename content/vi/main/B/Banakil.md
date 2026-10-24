@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Banakil"
 ---
 
-**Banakil** là tên [Westron](../W/Westron.md) của [Hobbit](../H/Hobbits.md), nghĩa đen là 'con lai'.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Banakil** là tên [Westron](../W/Westron.md) của [Hobbit](../H/Hobbits.md), nghĩa đen là 'người lai'.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -25,7 +25,7 @@ langlinks:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Sindarin](../S/Sindarin.md) *[Perian](../P/Perian.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[Perian](../P/Perian.md)*
 - [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Periando&amp;action=edit&amp;redlink=1" title="Periando (page does not exist)">Periando</a></i>
 
 <span></span>

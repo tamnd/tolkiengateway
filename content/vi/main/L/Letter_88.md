@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien tiếc nuối một năm trống trải trôi vào bóng tối và tự hỏi năm mới sẽ mang lại điều gì.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+Tolkien than thở về một năm trống trải đang chìm vào bóng tối và tự hỏi năm mới sẽ mang đến điều gì.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
 ## Ghi chú {#Notes}
 

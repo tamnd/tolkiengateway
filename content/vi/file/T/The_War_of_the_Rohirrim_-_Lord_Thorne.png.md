@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Chúa Thorne từ *The Lord of the Rings: The War of the Rohirrim*
+Lãnh chúa Thorne trong *The Lord of the Rings: Cuộc chiến của Rohirrim*
 
 ## Giấy phép {#Licensing}
 

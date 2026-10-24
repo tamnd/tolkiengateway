@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Third Age"
 ---
 
-Chuyển hướng đến [The Lord of the Rings: Kỷ Đệ Tam](../T/The_Lord_of_the_Rings%253A_The_Third_Age.md).
+Chuyển hướng đến [The Lord of the Rings: The Third Age](../T/The_Lord_of_the_Rings%253A_The_Third_Age.md).

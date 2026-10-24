@@ -12,11 +12,11 @@ categories:
   - "Roots"
 ---
 
-**THAW** là [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị sự "tàn nhẫn".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup><sup id="cite_ref-L297_2-0" class="reference"><a href="#cite_note-L297-2">[2]</a></sup>
+**THAW** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị sự "tàn nhẫn".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup><sup id="cite_ref-L297_2-0" class="reference"><a href="#cite_note-L297-2">[2]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Primitive Quendian](../P/Primitive_Quendian.md): *þaurā* ("đáng ghét")<sup id="cite_ref-L297_2-1" class="reference"><a href="#cite_note-L297-2">[2]</a></sup>
+- [Quendian nguyên thủy](../P/Primitive_Quendian.md): *þaurā* ("đáng ghét")<sup id="cite_ref-L297_2-1" class="reference"><a href="#cite_note-L297-2">[2]</a></sup>
     - [Quenya](../Q/Quenya.md): *[saura](../S/Saura.md)* ("tàn nhẫn")<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}

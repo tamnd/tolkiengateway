@@ -39,38 +39,38 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_19.gif.md"><img src="https://tolkiengateway.net/w/images/e/e7/Mythlore_19.gif" decoding="async" loading="lazy" width="225" height="292" class="mw-file-element" data-file-width="225" data-file-height="292"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 19</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Gracia Fay Ellwood</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Winter <a href="../_/1979.md" title="1979">1979</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">47</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_18.md" title="Mythlore 18">Mythlore 18</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_20.md" title="Mythlore 20">Mythlore 20</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 19</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol6/iss1/" rel="noreferrer noopener" target="_blank">Tập 6, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 19</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol6/iss1/" rel="noreferrer noopener" target="_blank">Tập 6, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- McGillis, Roderick F. “George Macdonald và Truyền thuyết về Lilith trong thế kỷ 19.” 3-11.
-- Bisenicks, Dainis. “Trẻ em, phép thuật và sự lựa chọn.” 13-16.
-- Lee, George. “Và Bóng Tối đã không nắm bắt được nó: Cuộc đấu tranh giữa thiện và ác trong Charles Williams.” 18-20.
-- Thorson, Stephen. “Giới thiệu ngắn gọn về lịch sử và nguồn gốc của họa tiết Chén Thánh.” 23-24.
-- Christopher, Joe R. “Ngày mất tích của Ngài Gawain.” 39-41.
-- Lindskoog, Kathryn. “Kết hợp với nhau: Lewis và hai bán cầu hiểu biết.” 43-45.
+- McGillis, Roderick F. “George Macdonald and the Lilith Legend in the Nineteenth Century.” 3-11.
+- Bisenicks, Dainis. “Children, Magic, and Choices.” 13-16.
+- Lee, George. “And the Darkness Grasped It Not: The Struggle of Good and Evil in Charles Williams.” 18-20.
+- Thorson, Stephen. “A Brief Introduction to the History and Origin of the Holy Grail Motif.” 23-24.
+- Christopher, Joe R. “Sir Gawain’s Missing Day.” 39-41.
+- Lindskoog, Kathryn. “Getting It Together: Lewis and the Two Hemispheres of Knowing.” 43-45.
 
 #### Tính năng {#Features}
 
-- Speth, Lee. Cách đối xử ung dung: “Cuộc tìm kiếm Vua.” Đánh giá về *The King of Alsander* của James Elroy Flecker. 17.
+- Speth, Lee. Cách đối xử ung dung: “Cuộc tìm kiếm một vị vua.” Đánh giá về *The King of Alsander* của James Elroy Flecker. 17.
 - Thư. 25.
-- Colvin, George. “Sự linh tinh.” Đánh giá về bộ truyện “Forgotten Fantasy” từ Nhà xuất bản Newcastle; Loạt bài phê bình giả tưởng và SF từ Borgo Press; *Vùng đất của những anh hùng: Kể lại Kalevala* của Ursula Synge; *Quag Kep* của Andre Norton; *Hướng dẫn thực địa cho những người tí hon* của Nancy Arrowsmith và George Moore; *Cloudy With a Chance of Meatballs* của Judy Barrett. 30.
-- Christopher, Joe R. “Sayers và Ousby trên Wilkie Collins.” Đánh giá về *Wilkie Collins: Một nghiên cứu phê bình và tiểu sử* của Dorothy L. Sayers; *Bloodhounds of Heaven: The Detective in English Fiction from Godwin to Doyle* của Ian Ousby. 31-32.
+- Colvin, George. “Miscellany.” Review of “Forgotten Fantasy” series from Newcastle Publishing; Fantasy and SF criticism series from Borgo Press; *Land of Heroes: A Retelling of the Kalevala* by Ursula Synge; *Quag Kep* by Andre Norton; *A Field Guide to the Little People* by Nancy Arrowsmith and George Moore; *Cloudy With a Chance of Meatballs* by Judy Barrett. 30.
+- Christopher, Joe R. “Sayers and Ousby on Wilkie Collins.” Review of *Wilkie Collins: A Critical and Biographical Study* by Dorothy L. Sayers; *Bloodhounds of Heaven: The Detective in English Fiction from Godwin to Doyle* by Ian Ousby. 31-32.
 - Patterson, Nancy-Lou. “Lớp vỏ mỏng thế nào.” Đánh giá *The Dark Tower and Other Stories* của C.S. Lewis. 32-33.
 - Patterson, Nancy-Lou. “Chủ đề, địa điểm, sinh vật, sự vật.” Bài đánh giá về *The Mythology of Middle-earth* của Ruth S. Noel. 33-35.
-- Ellwood, Robert S., Jr. “Về Hình ảnh và Từ ngữ.” Đánh giá *Faeries* của Brian Froud và Alan Lee; *Eschatus* của Bruce Pennington. 35.
-- Walker, Steven C. “Tolkien Theo Bakshi.” Đánh giá *The Lord of the Rings*, do Ralph Bakshi chỉ đạo. 36.
-- Ziegler, Dale. “Nhẫn-Wrath: Hoặc lại là Bakshi.” Đánh giá *The Lord of the Rings*, do Ralph Bakshi chỉ đạo. 37-38.
+- Ellwood, Robert S., Jr. “Of Pictures and Words.” Review of *Faeries* by Brian Froud and Alan Lee; *Eschatus* by Bruce Pennington. 35.
+- Walker, Steven C. “Tolkien According to Bakshi.” Review of *The Lord of the Rings*, directed by Ralph Bakshi. 36.
+- Ziegler, Dale. “Ring-Wrath: Or Therein Bakshi Again.” Review of *The Lord of the Rings*, directed by Ralph Bakshi. 37-38.
 - Ellwood, Gracia Fay. Biên tập. 38.
-- Christopher, Joe R. “Một Inklings Thư mục (8).” 46-47.
+- Christopher, Joe R. “An Inklings Bibliography (8).” 46-47.
 
 #### Thơ {#Poetry}
 
 - Christopher, Joe R. “Eowyn.” 20.
-- Christopher, Joe R. “Bài hát về ống dẫn.” 22.
-- Christopher, Saralinda. “Kỳ lân.” 42.
+- Christopher, Joe R. “The Piping Song.” 22.
+- Christopher, Saralinda. “Unicorns.” 42.
 
 #### Nghệ thuật {#Art}
 

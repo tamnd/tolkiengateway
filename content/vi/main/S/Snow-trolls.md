@@ -25,9 +25,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>, &#34;The House of Eorl&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Snow-troll** là thuật ngữ dùng để mô tả [Vua](../K/King_of_Rohan.md) [Helm](../H/Helm.md) của [Rohan](../R/Rohan.md) khi anh ta lẻn vào trại của kẻ thù của mình ở [T.A.](../T/Third_Age.md) [2759](../T/Third_Age_2759.md) trong cuộc vây hãm [Suthburg](../H/Hornburg.md) ở [Mùa Đông Dài](../L/Long_Winter.md).<sup id="cite_ref-appendix_1-0" class="reference"><a href="#cite_note-appendix-1">[1]</a></sup>
+**Snow-troll** là thuật ngữ dùng để mô tả [Vua](../K/King_of_Rohan.md) [Helm](../H/Helm.md) của [Rohan](../R/Rohan.md) khi ông ta lẻn vào trại của kẻ thù ở [T.A.](../T/Third_Age.md) [2759](../T/Third_Age_2759.md) trong cuộc vây hãm [Suthburg](../H/Hornburg.md) trong [Mùa đông dài](../L/Long_Winter.md).<sup id="cite_ref-appendix_1-0" class="reference"><a href="#cite_note-appendix-1">[1]</a></sup>
 
-Không có tài liệu tham khảo nào khác được biết đến về thuật ngữ quỷ tuyết trong các tác phẩm của J.R.R. Tolkien, vì vậy không thể biết liệu chúng có tồn tại trong [Arda](../A/Arda.md)hay không, ngay cả dưới dạng văn hóa dân gian. Đoạn văn trong đó thuật ngữ xuất hiện được ghi chú là đoạn trích từ một trong [nguồn](../../category/B/Books_and_documents_within_the_legendarium.md) bao gồm [Shire bản ghi](../R/Red_Book_of_Westmarch.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>.
+Không có tài liệu tham khảo nào khác được biết đến về thuật ngữ quỷ tuyết trong các tác phẩm của J.R.R. Tolkien, vì vậy không thể biết liệu chúng có tồn tại trong [Arda](../A/Arda.md) hay không, ngay cả dưới dạng văn hóa dân gian. Đoạn văn trong đó thuật ngữ xuất hiện được ghi chú là trích đoạn từ một trong [nguồn](../../category/B/Books_and_documents_within_the_legendarium.md) bao gồm [hồ sơ Quận](../R/Red_Book_of_Westmarch.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -50,42 +50,42 @@ Không có tài liệu tham khảo nào khác được biết đến về thuậ
 
 ### Truyền hình {#Television}
 
-<b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">Chúa tể của những chiếc nhẫn: Những chiếc nhẫn quyền lực</a></i>:</b>
 
 <dl><dd><b>September 1: <i><a href="../A/A_Shadow_of_the_Past.md" title="A Shadow of the Past">A Shadow of the Past</a></i>:</b>
 <dl><dd>While investigating a <a href="../D/Dúrnost.md" title="Dúrnost">fortress</a> located within the <a class="mw-redirect mw-disambig" href="../F/Forodwaith.md" title="Forodwaith">Forodwaith</a>, <a href="../G/Galadriel.md" title="Galadriel">Galadriel&#39;s company</a> is ambushed by a stalking <b>Hristorco</b> (<a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Snow-troll</i>),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup><sup id="cite_ref-twitter_4-0" class="reference"><a href="#cite_note-twitter-4">[3]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup> a variation of <a href="../T/Trolls.md" title="Trolls">Trolls</a> that had long ago adapted to live within the harsh and cold climates of the northern realms that they call home.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup></dd></dl></dd></dl>
 
 ### Trò chơi {#Games}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
 
 <dl><dd>Snow Trolls are large (10-12 ft tall), grey-white and rare creatures, who prey the <a href="../N/Northern_Waste.md" title="Northern Waste">northern regions</a> of Middle-earth. They turn into pillars of icy slag if exposed to the Sun.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup></dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Lord of the Rings: Trận chiến vì Trung Địa II: Sự trỗi dậy của Vua Phù thủy</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">Chúa tể của những chiếc nhẫn: Trận chiến vì Trung địa II: Sự trỗi dậy của Vua phù thủy</a></i>:</b>
 
 <dl><dd>Snow Trolls are a playable unit in the <a href="../A/Angmar.md" title="Angmar">Angmar</a> faction. They are one of the strongest units, not only in that faction, but in the game overall. They are equipped with pickaxes, helmets and small shields. Snow trolls can be used also in the <i>Create-a-hero</i> section.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">The Lord of the Rings Trực tuyến: Bóng tối của Angmar</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">Chúa tể của những chiếc nhẫn trực tuyến: Bóng tối của Angmar</a></i>:</b>
 
 <dl><dd>A Snow-troll fought in the army of <a href="Skorgrím_Dourhand.md" title="Skorgrím Dourhand">Skorgrím Dourhand</a> during the <a class="new" href="https://tolkiengateway.net/w/index.php?title=Battle_of_Edhelion&amp;action=edit&amp;redlink=1" title="Battle of Edhelion (page does not exist)">Battle of Edhelion</a>. He destroyed the city&#39;s gate and tried to kill <a href="../D/Dorongúr_Whitethorn.md" title="Dorongúr Whitethorn">Dorongúr Whitethorn</a> and the player, but was slain himself by <a href="../E/Elrond.md" title="Elrond">Elrond</a> before he could complete his attempt.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup> Other Snow-trolls are found in the <a class="mw-redirect" href="../E/Ered_Luin.md" title="Ered Luin">Ered Luin</a> region.</dd></dl>
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">The Lord of the Rings: War in the North</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">Chúa tể của những chiếc nhẫn: Cuộc chiến ở phương Bắc</a></i>:</b>
 
 <dl><dd>Snow-trolls are encountered on the slopes of Mount <a href="../G/Gundabad.md" title="Gundabad">Gundabad</a>. They are implied to be hostile, even to the various Orcs and Trolls gathering at the mountain.</dd></dl>
 
-<b>2014: <i><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit: Trò chơi điện tử</a></i>:</b>
+<b>2014: <i><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego Người Hobbit: Trò chơi điện tử</a></i>:</b>
 
 <dl><dd>The Big Little Character Pack DLC includes a Snow-Troll as a playable character.</dd></dl>
 
 ## Liên kết ngoài {#External_links}
 
-- <cite class="citation cite-web"><span class="cite-web-author"><a href="../M/Michael_Martinez.md" title="Michael Martinez">Michael Martinez</a></span>. <span class="cite-web-article"><a class="external text" href="https://middle-earth.xenite.org/why-does-the-sun-turn-some-trolls-to-stone" rel="noreferrer noopener" target="_blank">"Tại sao Mặt Trời biến một số Troll thành đá?"</a></span>. <span class="cite-web-website">xenite.org</span></cite>
-- <cite class="citation cite-web"><span class="cite-web-author">Góc nhìn của một nhà Tolkienist (12 tháng 2 năm 2017)</span>. <span class="cite-web-article"><a class="external text" href="https://atolkienistperspective.wordpress.com/2017/02/12/snow-trolls-and-stone-giants-in-middle-earth" rel="noreferrer noopener" target="_blank">"Tuyết-Troll và Người khổng lồ bằng đá trong Trung Địa"</a></span>. <span class="cite-web-website">wordpress.com</span></cite>
+- <cite class="citation cite-web"><span class="cite-web-author"><a href="../M/Michael_Martinez.md" title="Michael Martinez">Michael Martinez</a></span>. <span class="cite-web-article"><a class="external text" href="https://middle-earth.xenite.org/why-does-the-sun-turn-some-trolls-to-stone" rel="noreferrer noopener" target="_blank">"Tại sao Mặt trời lại biến một số quỷ lùn thành đá?"</a></span>. <span class="cite-web-website">xenite.org</span></cite>
+- <cite class="citation cite-web"><span class="cite-web-author">Góc nhìn của một nhà Tolkienist (12 tháng 2 năm 2017)</span>. <span class="cite-web-article"><a class="external text" href="https://atolkienistperspective.wordpress.com/2017/02/12/snow-trolls-and-stone-giants-in-middle-earth" rel="noreferrer noopener" target="_blank">"Quỷ Tuyết và Người khổng lồ bằng đá ở Trung Địa"</a></span>. <span class="cite-web-website">wordpress.com</span></cite>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><i>Hristorco</i> rõ ràng có nghĩa là <a href="../Q/Quenya.md" title="Quenya">Quenya</a>, sự kết hợp giữa gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=SRIS&amp;action=edit&amp;redlink=1" title="SRIS (page does not exist)"><i>SRIS</i></a> ("tuyết") và <a class="mw-redirect" href="../N/Neo-Quenya.md" title="Neo-Quenya">Neo-Quenya</a> <i>torco,</i> phỏng theo <a href="Sindarin.md" title="Sindarin">Sindarin</a> <i><a href="../T/Torog.md" title="Torog">torog</a></i> ("troll").</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><i>Hristorco</i> rõ ràng có nghĩa là <a href="../Q/Quenya.md" title="Quenya">Quenya</a>, sự kết hợp giữa gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=SRIS&amp;action=edit&amp;redlink=1" title="SRIS (page does not exist)"><i>SRIS</i></a> ("tuyết") và <a class="mw-redirect" href="../N/Neo-Quenya.md" title="Neo-Quenya">Neo-Quenya</a> <i>torco,</i> chuyển thể từ <a href="Sindarin.md" title="Sindarin">Sindarin</a> <i><a href="../T/Torog.md" title="Torog">torog</a></i> ("troll").</span>
 </li>
 </ol></div></span>
 

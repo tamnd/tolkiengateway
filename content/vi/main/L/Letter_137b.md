@@ -25,13 +25,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 137b</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a href="../R/Rayner_Unwin.md" title="Rayner Unwin">Rayner Unwin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/5_June.md" title="5 June">5 June</a> <a href="../_/1953.md" title="1953">1953</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></td></tr></tbody></table>
 
-**Thư 137b** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
+**Thư 137b** là lá thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
 
 ## Tóm tắt {#Summary}
 
-Tolkien hỏi về tiến độ xuất bản của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Trả lời thư từ trước đó của [Unwin](../R/Rayner_Unwin.md) chỉ ra rằng các bằng chứng của Sách I sẽ sớm sẵn sàng và xác nhận sự cần thiết của ba bản đồ, Tolkien tìm kiếm thông tin cập nhật về dòng thời gian, tham khảo ước tính trước đây của Unwin về việc nhận được các phòng trưng bày trong vòng hai tháng. Ông bày tỏ sự sẵn sàng sắp xếp hỗ trợ để kiểm tra bằng chứng, lưu ý rằng bản thảo đã được sửa đổi kỹ lưỡng và cần có sự can thiệp tối thiểu.
+Tolkien hỏi về tiến độ xuất bản *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Trả lời thư từ trước đó của [Unwin](../R/Rayner_Unwin.md) chỉ ra rằng bằng chứng về Sách I sẽ sớm sẵn sàng và xác nhận sự cần thiết của ba bản đồ, Tolkien tìm kiếm thông tin cập nhật về dòng thời gian, tham khảo ước tính trước đó của Unwin về việc nhận được các phòng trưng bày trong vòng hai tháng. Ông bày tỏ sự sẵn sàng sắp xếp hỗ trợ để kiểm tra bằng chứng, lưu ý rằng bản thảo đã được sửa đổi kỹ lưỡng và cần có sự can thiệp tối thiểu.
 
-Tolkien cũng đề cập đến vấn đề của hình minh họa [Cánh cửa Durin](../../file/J/J.R.R._Tolkien_-_Doors_of_Durin.jpg.md), đồng ý với lo ngại của Unwin rằng đường trắng vẽ trên nền đen sẽ tạo ra vết đen không mong muốn trên các trang. Anh ấy cam kết sẽ hoàn thành các bản đồ và bản vẽ cần thiết cho tập đầu tiên trước giữa tháng Sáu. <br>
+Tolkien cũng giải quyết vấn đề về hình minh họa [Cánh cửa Durin](../../file/J/J.R.R._Tolkien_-_Doors_of_Durin.jpg.md), đồng ý với lo ngại của Unwin rằng đường trắng vẽ trên nền đen sẽ tạo ra một vệt đen không mong muốn trên các trang. Ông cam kết sẽ hoàn thành các bản đồ và bản vẽ cần thiết cho tập đầu tiên trước giữa tháng Sáu. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

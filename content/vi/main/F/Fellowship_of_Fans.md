@@ -14,7 +14,7 @@ sort_keys:
   "Websites": "Fellowship of Fans"
 ---
 
-**Hiệp hội người hâm mộ** là cộng đồng gồm những người hâm mộ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thường là những người đầu tiên tiết lộ thông tin về <i><a class="mw-redirect mw-disambig" href="../T/The_Rings_of_Power.md" title="The Rings of Power">Các bản chuyển thể Những Chiếc Nhẫn Quyền Năng</a></i> và *[The War of the Rohirrim](../T/The_War_of_the_Rohirrim.md)*. Họ hoạt động trên nhiều trang xã hội khác nhau như Reddit, Twitter, YouTube và Discord.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Hiệp hội người hâm mộ** là cộng đồng gồm những người hâm mộ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thường là những người đầu tiên tiết lộ thông tin về các phiên bản chuyển thể <i><a class="mw-redirect mw-disambig" href="../T/The_Rings_of_Power.md" title="The Rings of Power">The Rings of Power</a></i> và *[The War of the Rohirrim](../T/The_War_of_the_Rohirrim.md)*. Họ hoạt động trên nhiều trang xã hội khác nhau như Reddit, Twitter, YouTube và Discord.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <br>
 
@@ -27,7 +27,7 @@ sort_keys:
 
 ## Xem thêm {#See_also}
 
-- [Tolkien cộng đồng người hâm mộ](../T/Tolkien_fandom.md)
+- [Cộng đồng người hâm mộ Tolkien](../T/Tolkien_fandom.md)
 
 <span></span>
 

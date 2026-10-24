@@ -13,7 +13,7 @@ categories:
   - "Smials"
 ---
 
-**Hiệp hội phương Đông Tolkien phía Bắc**, trước đây gọi là Hiệp hội New York Tolkien, và còn được gọi là Heren Istarion, là [Smial](../S/Smials.md) lớn nhất của Mỹ trong số [Hội Tolkien](../T/The_Tolkien_Society.md).
+**Hiệp hội Tolkien Đông Bắc**, trước đây gọi là Hiệp hội Tolkien New York, và còn được gọi là Heren Istarion, là [Smial](../S/Smials.md) lớn nhất ở Mỹ của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md).
 
 ## Lịch sử {#History}
 

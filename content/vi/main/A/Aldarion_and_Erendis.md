@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aldarion and Erendis: The Mariner's Wife"
 ---
 
-Chuyển hướng tới [Aldarion và Erendis: Vợ của thủy thủ](Aldarion_and_Erendis%253A_The_Mariner's_Wife.md).
+Chuyển hướng đến [Aldarion and Erendis: The Mariner's Wife](Aldarion_and_Erendis%253A_The_Mariner's_Wife.md).

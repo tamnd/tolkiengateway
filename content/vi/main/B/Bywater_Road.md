@@ -34,15 +34,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_Grey_Wanderer.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0d/Mat%C4%9Bj_%C4%8Cadil_-_Grey_Wanderer.jpg/320px-Mat%C4%9Bj_%C4%8Cadil_-_Grey_Wanderer.jpg" decoding="async" loading="lazy" width="320" height="229" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0d/Mat%C4%9Bj_%C4%8Cadil_-_Grey_Wanderer.jpg/480px-Mat%C4%9Bj_%C4%8Cadil_-_Grey_Wanderer.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/0d/Mat%C4%9Bj_%C4%8Cadil_-_Grey_Wanderer.jpg/640px-Mat%C4%9Bj_%C4%8Cadil_-_Grey_Wanderer.jpg 2x" data-file-width="1080" data-file-height="774"/></a><figcaption>&#34;Grey Wanderer&#34; by <a href="../M/Matěj_Čadil.md" title="Matěj Čadil">Matěj Čadil</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Road</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Bywater Road</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Road</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data">Trapping of <a href="../S/Sharkey.md" title="Sharkey">Sharkey</a>&#39;s <a href="../R/Ruffians.md" title="Ruffians">Ruffians</a></td></tr></tbody></table>
 
-**Bywater Đường** là một con đường ở [ Shire](../T/The_Shire.md), phân nhánh từ [phương Đông Đường](../E/East_Road.md) và dẫn đến [Little Delving](../L/Little_Delving.md).
+**Đường Bywater** là một con đường ở [Shire](../T/The_Shire.md), phân nhánh từ [Đường Đông](../E/East_Road.md) và dẫn đến [Little Delving](../L/Little_Delving.md).
 
 ## Khóa học {#Course}
 
-Về phía tây của [Hòn đá Ba Farthing](../T/Three-Farthing_Stone.md) một chút, một nhánh của Đường phương Đông dốc lên giữa các bờ cao<sup id="cite_ref-rk_1-0" class="reference"><a href="#cite_note-rk-1">[1]</a></sup> dẫn đến làng [Bywater](Bywater.md) mà Đường được đặt tên như vậy. Từ đó, nó tiếp tục đến [Hobbiton](../H/Hobbiton.md), nơi du khách sẽ rẽ phải và băng qua một cây cầu bắc qua [Mặt nước](../T/The_Water.md) khoảng ba mươi dặm để đến [Hobbiton Đồi](../H/Hobbiton_Hill.md) và [Bag End](Bag_End.md). Con đường tiếp tục đi về phía tây, theo hướng [Little Delving](../L/Little_Delving.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Về phía tây của [Hòn đá Ba Farthing](../T/Three-Farthing_Stone.md) một chút, một nhánh của Đường Đông dốc lên giữa các bờ cao<sup id="cite_ref-rk_1-0" class="reference"><a href="#cite_note-rk-1">[1]</a></sup> dẫn đến ngôi làng [Bywater](Bywater.md) mà Con đường được đặt tên từ đó. Từ đó, nó tiếp tục đến [Hobbiton](../H/Hobbiton.md), nơi du khách sẽ rẽ phải và băng qua một cây cầu bắc qua [Sông](../T/The_Water.md) khoảng ba mươi dặm để đến [Đồi Hobbiton](../H/Hobbiton_Hill.md) và [Bag End](Bag_End.md). Con đường tiếp tục đi về phía tây, theo hướng [Little Delving](../L/Little_Delving.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
-Vào [3 tháng 11](../_/3_November.md) [S.R.](../S/Shire_Reckoning.md) [1419](../T/Third_Age_3019.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Merry](../M/Meriadoc_Brandybuck.md) đã sử dụng tính năng này để bẫy nhóm [Ruffians](../R/Ruffians.md) đến để dẹp tan cuộc nổi loạn của [Hobbit](../H/Hobbits.md) chống lại sự cai trị của [Sharkey](../S/Sharkey.md). Các toa xe được sử dụng để đóng bẫy ở hai đầu, điều này mang lại cho Hobbit lợi thế trong [Trận Bywater](Battle_of_Bywater.md).<sup id="cite_ref-rk_1-1" class="reference"><a href="#cite_note-rk-1">[1]</a></sup>
+Vào [3 tháng 11](../_/3_November.md) [S.R.](../S/Shire_Reckoning.md) [1419](../T/Third_Age_3019.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Merry](../M/Meriadoc_Brandybuck.md) đã sử dụng tính năng này để bẫy nhóm [Ruffians](../R/Ruffians.md) đến để dẹp tan cuộc nổi dậy của [Hobbit](../H/Hobbits.md) chống lại sự cai trị của [Sharkey](../S/Sharkey.md). Xe ngựa được sử dụng để đóng bẫy ở hai đầu, giúp người Hobbit giành được lợi thế trong [Trận chiến Bywater](Battle_of_Bywater.md).<sup id="cite_ref-rk_1-1" class="reference"><a href="#cite_note-rk-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -56,7 +56,7 @@ Vào [3 tháng 11](../_/3_November.md) [S.R.](../S/Shire_Reckoning.md) [1419](..
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>The Bywater Road connects <a href="../H/Hobbiton.md" title="Hobbiton">Hobbiton</a> to <a href="Bywater.md" title="Bywater">Bywater</a>.</dd></dl>
 

@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Hang ổ của Shelob](../../main/S/Shelob's_Lair.md) - Tác phẩm của [John](../../main/J/John_Howe.md) và [Fataneh Howe](../../main/F/Fataneh_Howe.md) cho *[War of the Ring: The Card Game](../../main/W/War_of_the_Ring%253A_The_Card_Game.md)* Nguồn: <a class="external autonumber" href="https://www.youtube.com/watch?v=jMgBys0PVF0" rel="noreferrer noopener" target="_blank">[1]</a>
+[Hang ổ của Shelob](../../main/S/Shelob's_Lair.md) - Tác phẩm nghệ thuật của [John](../../main/J/John_Howe.md) và [Fataneh Howe](../../main/F/Fataneh_Howe.md) cho *[War of the Ring: The Card Game](../../main/W/War_of_the_Ring%253A_The_Card_Game.md)* Nguồn: <a class="external autonumber" href="https://www.youtube.com/watch?v=jMgBys0PVF0" rel="noreferrer noopener" target="_blank">[1]</a>
 
 ## Giấy phép {#Licensing}
 

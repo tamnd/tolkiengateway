@@ -19,7 +19,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-*antaro* là từ [Quenya](../Q/Quenya.md) chỉ "núi cao, đỉnh",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> bắt nguồn từ [Qenya](../Q/Qenya.md) từ *antara* ("cao cả").<sup id="cite_ref-VT46_2-1" class="reference"><a href="#cite_note-VT46-2">[2]</a></sup> <span></span>
+*antaro* là từ [Quenya](../Q/Quenya.md) có nghĩa là "núi cao, đỉnh",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> bắt nguồn từ [Qenya](../Q/Qenya.md) từ *antara* ("cao cả").<sup id="cite_ref-VT46_2-1" class="reference"><a href="#cite_note-VT46-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Transactions of the Honourable Society of Cymmrodorion: Session 1923-24"
 ---
 
-Chuyển hướng tới [Các giao dịch của Hiệp hội danh dự Cymmrodorion: Kỳ họp 1923-24](The_Transactions_of_the_Honourable_Society_of_Cymmrodorion%253A_Session_1923-24.md).
+Chuyển hướng đến [The Transactions of the Honourable Society of Cymmrodorion: Session 1923-24](The_Transactions_of_the_Honourable_Society_of_Cymmrodorion%253A_Session_1923-24.md).

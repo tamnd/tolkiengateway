@@ -21,7 +21,7 @@ sort_keys:
   "Tolkien Society members": "Vernon, Matthew"
 ---
 
-**Matthew Vernon** là Chủ tịch thứ tám của [Hội Tolkien](../T/The_Tolkien_Society.md). Ông là chủ tịch có thời gian tồn tại ngắn nhất của Hiệp hội, chỉ phục vụ được 8 tháng rưỡi trước khi từ chức.
+**Matthew Vernon** là Chủ tịch thứ tám của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md). Ông là chủ tịch có thời gian tồn tại ngắn nhất của Hiệp hội, chỉ phục vụ được 8 tháng rưỡi trước khi từ chức.
 
 ## Thư mục {#Bibliography}
 
@@ -34,7 +34,7 @@ sort_keys:
 - [2004](../_/2004.md): [*Amon Hen* 189](../A/Amon_Hen_189.md)
     - "Toán học"
 - [2007](../_/2007.md): [*Amon Hen* 204](../A/Amon_Hen_204.md)
-    - "Tolkien Cập nhật thỏa thuận nhãn hiệu"
+    - "Cập nhật thỏa thuận nhãn hiệu Tolkien"
 - [2007](../_/2007.md): [*Amon Hen* 206](../A/Amon_Hen_206.md)
     - "Đánh giá: *[Lord of the Rings - The Musical](../T/The_Lord_of_the_Rings_Musical.md)*"
 - [2008](../_/2008.md): [*Amon Hen* 213](../A/Amon_Hen_213.md)

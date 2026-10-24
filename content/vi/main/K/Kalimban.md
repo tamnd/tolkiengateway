@@ -20,13 +20,13 @@ Cư dân của nó được gọi là <i><b>Kalimbardi</b></i> (tức là <a cla
 
 ## Từ nguyên {#Etymology}
 
-Tên *Kalimban* có trong [Qenya](../Q/Qenya.md), được gọi là "Barbary, Đức", là sự phát triển của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kalimbo_(Qenya_word)&amp;action=edit&amp;redlink=1" title="Kalimbo (Qenya word) (page does not exist)">kalimbo</a></i> ("man rợ").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên *Kalimban* ở [Qenya](../Q/Qenya.md), được gọi là "Barbary, Đức", là sự phát triển của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kalimbo_(Qenya_word)&amp;action=edit&amp;redlink=1" title="Kalimbo (Qenya word) (page does not exist)">kalimbo</a></i> ("man rợ").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 *Kalimbardi* có lẽ bao gồm *kalimbo* + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mardo&amp;action=edit&amp;redlink=1" title="Mardo (page does not exist)">mardo</a></i> ("cư dân").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Mối liên hệ không tốt đẹp giữa nước Đức và người dân Đức với chủ nghĩa man rợ đã được [Tolkien](../T/Tolkien.md) viết ra trong <a class="extiw" href="http://en.wikipedia.org/wiki/World_War_I" title="wikipedia:World War I">Chiến tranh thế giới thứ nhất</a>, trong đó không có gì lạ khi người dân và quân đội Anh mô tả kẻ thù của họ là man rợ và vô nhân đạo.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Mối liên hệ không mấy tốt đẹp giữa nước Đức và người dân Đức với chủ nghĩa man rợ đã được [Tolkien](../T/Tolkien.md) viết trong <a class="extiw" href="http://en.wikipedia.org/wiki/World_War_I" title="wikipedia:World War I">Chiến tranh thế giới thứ nhất</a>, trong đó không có gì lạ khi người dân và quân đội Anh mô tả kẻ thù của họ là man rợ và vô nhân đạo.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

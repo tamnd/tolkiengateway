@@ -14,4 +14,4 @@ sort_keys:
   "Images by artist": "Lee, Alan"
 ---
 
-Danh mục này liệt kê tất cả **hình ảnh theo [Alan Lee](../../main/A/Alan_Lee.md)**.
+Danh mục này liệt kê tất cả **hình ảnh của [Alan Lee](../../main/A/Alan_Lee.md)**.

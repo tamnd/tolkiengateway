@@ -15,9 +15,9 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-<i><b>La, Huru</b></i> là một bài hát [tiếng Anh cổ](../O/Old_English.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được hát theo giai điệu của *Are You the O'Reilly Who Keeps This Hotel?*, được viết xung quanh [1924](../_/1924.md).<sup id="cite_ref-Leeds_1-0" class="reference"><a href="#cite_note-Leeds-1">[1]</a></sup> Nó được xuất bản dưới dạng bài hát thứ 17 trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* ở [1936](../_/1936.md).
+<i><b>La, Huru</b></i> là một bài hát [tiếng Anh cổ](../O/Old_English.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được hát theo giai điệu của *Are You the O'Reilly Who Keeps This Hotel?*, được viết xung quanh [1924](../_/1924.md).<sup id="cite_ref-Leeds_1-0" class="reference"><a href="#cite_note-Leeds-1">[1]</a></sup> Nó được xuất bản dưới dạng bài hát thứ 17 trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* năm [1936](../_/1936.md).
 
-Bản thảo của bài thơ được in bằng bút và mực, cùng với bài thơ Tolkien khác [Syx Mynet](../S/Syx_Mynet.md) của một người khác, trên một tờ giấy. Bản thảo được lưu giữ trong Bộ sưu tập Tolkien-Gordon tại Thư viện của [Đại học Leeds](../U/University_of_Leeds.md).<sup id="cite_ref-Leeds_1-1" class="reference"><a href="#cite_note-Leeds-1">[1]</a></sup>
+The manuscript of the poem was rendered in pen and ink, together with another Tolkien's poem [Syx Mynet](../S/Syx_Mynet.md), on one leaf. The manuscript is kept in the Tolkien-Gordon Collection at the Library of the [University of Leeds](../U/University_of_Leeds.md).<sup id="cite_ref-Leeds_1-1" class="reference"><a href="#cite_note-Leeds-1">[1]</a></sup>
 
 ## Trích đoạn thơ {#Poem_excerpt}
 

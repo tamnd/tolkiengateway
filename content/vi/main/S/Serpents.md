@@ -19,7 +19,7 @@ images:
 
 **Rắn** là tên được sử dụng cho cả [rồng](../D/Dragons.md) (đúng hơn là **rắn lớn**)<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup> và là từ đồng nghĩa với [rắn](Snakes.md) thông thường.
 
-Trong cuộc chiến với [Huan](../H/Huan.md), [Sauron](Sauron.md) trong một thời gian ngắn đã mang hình dạng của một con rắn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> "[Con rắn đen](../B/Black_Serpent~63231.md)" trên màu đỏ tươi cũng là biểu tượng huy hiệu của một thủ lĩnh của [Haradrim](../H/Haradrim.md), gợi ý rằng có những con rắn ở miền Nam.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong cuộc chiến với [Huan](../H/Huan.md), [Sauron](Sauron.md) trong một thời gian ngắn đã mang hình dạng một con rắn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> "[Con rắn đen](../B/Black_Serpent~63231.md)" trên màu đỏ tươi cũng là biểu tượng huy hiệu của một thủ lĩnh của [Haradrim](../H/Haradrim.md), gợi ý rằng có những con rắn ở miền Nam.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Tên khác {#Other_names}
 
@@ -29,14 +29,14 @@ Tên [Noldorin](../N/Noldorin.md) *Lhamthanc* ("lưỡi chẻ") được cho là
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
+<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
 
 <dl><dd>&#34;Sea Serpent&#34; is a creature of Drake-kind, able to inflict two strikes.</dd></dl>
 
 ## Xem thêm {#See_also}
 
 - [Rắn](Snakes.md)
-- [Biển-con rắn](Sea-serpents.md)
+- [Rắn biển](Sea-serpents.md)
 
 ## Liên kết ngoài {#External_links}
 

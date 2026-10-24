@@ -13,14 +13,14 @@ categories:
   - "Journals"
 ---
 
-**Ngày của Người Mang Nhẫn 2005** Kỷ niệm 50 năm [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) là một tạp chí ấn bản đặc biệt được xuất bản bởi [Hội phương Đông Tolkien Miền Bắc](../N/North_East_Tolkien_Society.md). Nhật ký này trùng với hội nghị <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ringbearer%27s_Day_2005&amp;action=edit&amp;redlink=1" title="Ringbearer&#39;s Day 2005 (page does not exist)">Ngày Người Mang Nhẫn năm 2005</a> của họ.
+**Ngày của người cầm nhẫn năm 2005** Kỷ niệm 50 năm [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) là một tạp chí ấn bản đặc biệt được xuất bản bởi [Hiệp hội Tolkien Đông Bắc](../N/North_East_Tolkien_Society.md). Nhật ký này trùng với hội nghị <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ringbearer%27s_Day_2005&amp;action=edit&amp;redlink=1" title="Ringbearer&#39;s Day 2005 (page does not exist)">Ngày Người Mang Nhẫn năm 2005</a> của họ.
 
 ## Nội dung {#Contents}
 
-- Thư từ Chủ tịch & Đồng chủ tịch Heren Istarion: Hiệp hội New York Tolkien
+- Thư từ Chủ tịch & Đồng chủ tịch Heren Istarion: Hiệp hội Tolkien New York
 - Lịch trình sự kiện chính thức
 - Sự kiện cả ngày của Games Workshop
 - Khách mời danh dự & Điểm nổi bật của chương trình
 - Buổi hòa nhạc Lingalad: Lời bài hát
-- Trung Địa Minstrel Hát theo bài "Old Troll" và "Người lùn & Orc" của Glasshammer
+- Minstrel ở Trung Địa Hát theo "Old Troll" và "Dwarf & Orc" của Glasshammer
 - Quảng cáo & Lời cảm ơn

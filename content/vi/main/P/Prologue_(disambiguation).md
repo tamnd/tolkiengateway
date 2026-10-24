@@ -18,7 +18,7 @@ images:
 
 ## Sách {#Books}
 
-- **[Lời mở đầu liên quan đến Hobbit và các vấn đề khác](<Prologue_(The_Lord_of_the_Rings).md>)**, lời mở đầu của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
+- **[Lời mở đầu liên quan đến người Hobbit và các vấn đề khác](<Prologue_(The_Lord_of_the_Rings).md>)**, lời mở đầu của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 - "**[Lời mở đầu](../T/The_Prologue.md)**", chương đầu tiên của *[The Peoples of Middle-earth](../T/The_Peoples_of_Middle-earth.md)*, thảo luận về các bản thảo ban đầu và bố cục của Lời mở đầu nói trên.
 
 ## Các bản chuyển thể {#Adaptations}

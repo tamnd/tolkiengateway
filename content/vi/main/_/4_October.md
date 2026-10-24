@@ -69,11 +69,11 @@ Sự kiện xảy ra vào ngày 4 tháng 10
 - **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Agatha Carew Hunt](../L/Letter_to_Agatha_Carew_Hunt.md).
 - **[1979](1979.md)** - Tập *[Jackanory](../J/Jackanory.md)* "Ra khỏi chảo rán và vào lửa" được phát sóng trên kênh [BBC](../B/BBC.md).
 - **[1999](1999.md)** - *[Poems from The Hobbit](../P/Poems_from_The_Hobbit.md)* được xuất bản.
-- **[2009](2009.md)** - [Nhẫn\*Con 2009](../R/Ring%252ACon_2009.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Bonn" title="wikipedia:Bonn">Bonn</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2009](2009.md)** - [Ring\*Con 2009](../R/Ring%252ACon_2009.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Bonn" title="wikipedia:Bonn">Bonn</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Cùng với [Strider](../A/Aragorn.md) [bốn hobbit](../T/Travellers.md) đi về phía [Weathertop](../W/Weathertop.md).
-    - [Gandalf](../G/Gandalf.md) lao về phía [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công anh ta vào [Weathertop](../W/Weathertop.md).
+    - Cùng với [Strider](../A/Aragorn.md) [bốn hobbit](../T/Travellers.md) đi tới [Weathertop](../W/Weathertop.md).
+    - [Gandalf](../G/Gandalf.md) vội vã tiến về [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ áo đen](../N/Nazgûl.md) tấn công ông ta trên [Weathertop](../W/Weathertop.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_60.md" title="First Age 60">60</a><a href="First_Age_64.md" title="First Age 64">64</a><a href="First_Age_65.md" title="First Age 65">65</a><a class="mw-selflink selflink">66</a><a href="First_Age_67.md" title="First Age 67">67</a><a href="First_Age_102.md" title="First Age 102">102</a><a href="First_Age_116.md" title="First Age 116">116</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Nhất 66** (viết tắt là **F.A. 66**) là năm [thứ 66 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ nhất 66** (viết tắt là **F.A. 66**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 66 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Thingol](../T/Thingol.md) biết về [Silmaril](../S/Silmarils.md) từ [Galadriel](../G/Galadriel.md) và phát hiện ra rằng [Noldor](../N/Noldor.md) đang [lưu vong](../E/Exile_of_the_Noldor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Thingol](../T/Thingol.md) biết về [Silmarils](../S/Silmarils.md) từ [Galadriel](../G/Galadriel.md) và phát hiện ra rằng [Noldor](../N/Noldor.md) đang [lưu vong](../E/Exile_of_the_Noldor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

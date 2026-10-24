@@ -50,29 +50,29 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Elena_Kukanova_-_Lady_of_the_Sea.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/15/Elena_Kukanova_-_Lady_of_the_Sea.jpg/320px-Elena_Kukanova_-_Lady_of_the_Sea.jpg" decoding="async" loading="lazy" width="320" height="406" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/15/Elena_Kukanova_-_Lady_of_the_Sea.jpg/480px-Elena_Kukanova_-_Lady_of_the_Sea.jpg 1.5x, https://tolkiengateway.net/w/images/1/15/Elena_Kukanova_-_Lady_of_the_Sea.jpg 2x" data-file-width="552" data-file-height="700"/></a><figcaption>&#34;Lady of the Sea&#34; by <a href="../E/Elena_Kukanova.md" title="Elena Kukanova">Elena Kukanova</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../M/Maiar.md" title="Maiar">Maia</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Uinen</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Lady of the Seas</td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="Ulmo.md" title="Ulmo">Ulmo</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../O/Ossë.md" title="Ossë">Ossë</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Uinen.md" title="Category:Images of Uinen">Images of Uinen</a></td></tr></tbody></table>
 
-**Uinen** là vợ của [Ossë](../O/Ossë.md). Là một [Maia](../M/Maiar.md) của [Ulmo](Ulmo.md), cô được mệnh danh là **Quý cô của biển cả**.
+**Uinen** là vợ của [Ossë](../O/Ossë.md). Là [Maia](../M/Maiar.md) của [Ulmo](Ulmo.md), cô được mệnh danh là **Quý cô của biển cả**.
 
 ## Thuộc tính {#Attributes}
 
-Uinen yêu thương và bảo vệ mọi sinh vật, cỏ dại sống ở biển và mang lại cho biển cả sự yên tĩnh. Cô có thể làm dịu đi những sóng gió dữ dội của chồng mình [Ossë](../O/Ossë.md) và vì điều này mà cô được các thủy thủ yêu mến. Cô được tôn kính trong số [Ainur](../A/Ainur.md) bởi [Númenoreans](../N/Númenoreans.md).<sup id="cite_ref-vala_1-0" class="reference"><a href="#cite_note-vala-1">[1]</a></sup>
+Uinen yêu thương và bảo vệ tất cả các sinh vật và cỏ dại sống ở biển và mang lại cho biển cả sự yên tĩnh. Cô có thể làm dịu đi những cơn sóng dữ của chồng mình [Ossë](../O/Ossë.md) và vì điều này mà cô được các thủy thủ yêu mến. Cô được [Númenoreans](../N/Númenoreans.md) tôn kính trong số [Ainur](../A/Ainur.md).<sup id="cite_ref-vala_1-0" class="reference"><a href="#cite_note-vala-1">[1]</a></sup>
 
 Người ta kể rằng mái tóc của cô trải dài trên khắp mặt nước.<sup id="cite_ref-vala_1-1" class="reference"><a href="#cite_note-vala-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Đầu lịch sử của [Arda](../A/Arda.md), Ossë đã bị [Morgoth](../M/Morgoth.md) làm hư hỏng nhưng [Aulë](../A/Aulë.md) đã cầu xin Uinen thuyết phục anh ta quay trở lại phục vụ Ulmo.<sup id="cite_ref-vala_1-2" class="reference"><a href="#cite_note-vala-1">[1]</a></sup>
+Đầu lịch sử của [Arda](../A/Arda.md), Ossë đã bị [Morgoth](../M/Morgoth.md) làm hư hỏng nhưng [Aulë](../A/Aulë.md) đã cầu xin Uinen thuyết phục ông ta quay trở lại phục vụ Ulmo.<sup id="cite_ref-vala_1-2" class="reference"><a href="#cite_note-vala-1">[1]</a></sup>
 
-[Teleri](../T/Teleri.md) của [Olwë](../O/Olwë.md) có rất nhiều tình cảm với Uinen, vì cô và Ossë đã kết bạn với họ ở bờ sông [Sirion](../S/Sirion.md) trong [Tháng ba vĩ đại](../G/Great_March.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Teleri](../T/Teleri.md) của [Olwë](../O/Olwë.md) có nhiều tình cảm với Uinen, vì cô và Ossë đã kết bạn với họ ở sông [Sirion](../S/Sirion.md) trong [Great March](../G/Great_March.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Uinen khóc thương các thủy thủ Teleri sau vụ tàn sát người thân ở [Alqualondë](../A/Alqualondë.md) và nổi lên một cơn bão đánh chìm nhiều [Noldor](../N/Noldor.md) trên những [Tàu thiên nga](../S/Swan-ships.md) bị đánh cắp.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Uinen đã khóc thương các thủy thủ Teleri sau vụ tàn sát người thân ở [Alqualondë](../A/Alqualondë.md) và nổi lên một cơn bão đánh chìm nhiều [Noldor](../N/Noldor.md) trên những [Tàu thiên nga](../S/Swan-ships.md) bị đánh cắp.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Được các thủy thủ của [Númenor](../N/Númenor.md) coi là người bảo vệ và mang lại vùng biển yên bình, họ sẽ kêu cứu cô ấy để được giúp đỡ, trong khi sự tôn trọng của họ dành cho [Valar](../V/Valar.md) vẫn tồn tại.<sup id="cite_ref-vala_1-3" class="reference"><a href="#cite_note-vala-1">[1]</a></sup> [Guild of Venturers](../G/Guild_of_Venturers.md) còn được gọi là *[Uinendili](Uinendili.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Được các thủy thủ của [Númenor](../N/Númenor.md) coi là người bảo vệ và mang lại vùng biển yên bình, họ sẽ kêu cứu bà để được giúp đỡ, trong khi sự tôn trọng của họ dành cho [Valar](../V/Valar.md) vẫn tồn tại.<sup id="cite_ref-vala_1-3" class="reference"><a href="#cite_note-vala-1">[1]</a></sup> [Guild of Venturers](../G/Guild_of_Venturers.md) còn được gọi là *[Uinendili](Uinendili.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Có hai cách giải thích cho tên *Uinen*. Trong *[The Etymologies](../T/The_Etymologies.md)*, phần tử đầu tiên đến từ gốc UY-. Một số từ khác theo bổ đề này có nghĩa là "rong biển", mặc dù bản thân tên Uinen không được giải thích.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Một ghi chú sau đó liên quan đến tên thay vào đó gợi ý rằng nó là một tên có nguồn gốc không phảiElvish ([Valarin](../V/Valarin.md)) không rõ nghĩa.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Có hai cách giải thích cho tên *Uinen*. Trong *[The Etymologies](../T/The_Etymologies.md)*, phần tử đầu tiên đến từ gốc UY-. Một số từ khác theo bổ đề này có nghĩa là "rong biển", mặc dù bản thân cái tên Uinen không được giải thích.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Một ghi chú sau đó liên quan đến cái tên này gợi ý rằng nó là một cái tên có nguồn gốc không phải Elvish ([Valarin](../V/Valarin.md)) nhưng không rõ nghĩa.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md) đã lưu ý rằng *Uinen* có chứa phần tử *[nen](../N/Nén.md)* ("nước").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Không rõ liệu anh ta có quyền truy cập vào các bản thảo chưa được xuất bản của cha mình để chứng thực cho gợi ý này hay anh ta đã suy đoán về vấn đề này.
+[Christopher Tolkien](../C/Christopher_Tolkien.md) đã lưu ý rằng *Uinen* có chứa phần tử *[nen](../N/Nén.md)* ("nước").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Không rõ liệu ông có quyền truy cập vào các bản thảo chưa được xuất bản của cha mình để chứng thực cho gợi ý này hay ông đã suy đoán về vấn đề này.
 
 ## Phả hệ {#Genealogy}
 
@@ -83,7 +83,7 @@ Có hai cách giải thích cho tên *Uinen*. Trong *[The Etymologies](../T/The_
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *[Annals of Aman](../A/Annals_of_Aman.md)*, Uinen và [Ossë](../O/Ossë.md) ban đầu được tính trong số Valar.
+Trong *[Annals of Aman](../A/Annals_of_Aman.md)*, Uinen và [Ossë](../O/Ossë.md) ban đầu được tính là Valar.
 
 Trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md), nhân vật này còn được đặt tên là *Ónen*, *Solórë* hoặc *Ui* (trong số các tên khác) và được phong danh hiệu "Nữ hoàng của [Nàng tiên cá](../M/Mermaids.md)".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 

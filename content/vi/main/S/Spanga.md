@@ -17,12 +17,12 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-[Dạng Elvish](../P/Primitive_Elvish.md) nguyên thủy <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Spang%C3%A2&amp;action=edit&amp;redlink=1" title="Spangâ (page does not exist)">spangâ</a></i>, bắt nguồn từ <a class="new" href="https://tolkiengateway.net/w/index.php?title=SP%C3%81NAG&amp;action=edit&amp;redlink=1" title="SPÁNAG (page does not exist)">SPÁNAG</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Người Tiên nguyên thủy](../P/Primitive_Elvish.md) dạng <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Spang%C3%A2&amp;action=edit&amp;redlink=1" title="Spangâ (page does not exist)">spangâ</a></i>, bắt nguồn từ <a class="new" href="https://tolkiengateway.net/w/index.php?title=SP%C3%81NAG&amp;action=edit&amp;redlink=1" title="SPÁNAG (page does not exist)">SPÁNAG</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 
 - [Quenya](../Q/Quenya.md) *[fanga](../F/Fanga.md)*
-- [Sindarin](Sindarin.md) *[fang](../F/Fang.md)*
+- [Tiếng Sindarin](Sindarin.md) *[fang](../F/Fang.md)*
 
 <span></span>
 

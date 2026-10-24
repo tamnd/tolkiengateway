@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Library"
 ---
 
-Chuyển hướng tới [Tolkien Thư viện](Tolkien_Library.md).
+Chuyển hướng tới [Thư viện Tolkien](Tolkien_Library.md).

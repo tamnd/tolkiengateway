@@ -36,7 +36,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**A Short to Mushrooms** là bài hát thứ mười hai của đĩa một trong *[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).
+**A Short to Mushrooms** là bài hát thứ mười hai trong đĩa một trong *[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).
 
 ## Lời bài hát {#Lyrics}
 

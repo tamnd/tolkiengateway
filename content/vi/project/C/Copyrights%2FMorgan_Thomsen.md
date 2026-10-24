@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Thomsen, Morgan"
 ---
 
-- [Morgan Thomsen](../../main/M/Morgan_Thomsen.md) đã vui lòng cấp phép cho anh ấy sử dụng [File:TolkienIndex.png](../../file/T/TolkienIndex.png.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- [Morgan Thomsen](../../main/M/Morgan_Thomsen.md) đã vui lòng cấp phép cho ông sử dụng [File:TolkienIndex.png](../../file/T/TolkienIndex.png.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 25 tháng 6 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

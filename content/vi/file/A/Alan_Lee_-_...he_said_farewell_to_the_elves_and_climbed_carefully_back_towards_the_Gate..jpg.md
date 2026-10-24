@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"...[anh ấy](../../main/B/Bilbo_Baggins.md) nói lời tạm biệt với [các yêu tinh](../../main/E/Elves_of_Mirkwood.md) và cẩn thận leo trở lại [Cổng](../../main/F/Front_Gate.md)." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"...[ông](../../main/B/Bilbo_Baggins.md) tạm biệt [ Tiên tộc](../../main/E/Elves_of_Mirkwood.md) và cẩn thận leo trở lại [Cổng](../../main/F/Front_Gate.md)." của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

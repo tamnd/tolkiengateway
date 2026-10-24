@@ -32,7 +32,7 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-Tên Oswin ([tiếng Anh cổ](Old_English.md): <a class="mw-disambig" href="../_/Óswine_(disambiguation).md" title="Óswine (disambiguation)">Óswine</a>) chứa các phần tử *os* "god" và *wine* "friend".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên Oswin ([Tiếng Anh cổ](Old_English.md): <a class="mw-disambig" href="../_/Óswine_(disambiguation).md" title="Óswine (disambiguation)">Óswine</a>) chứa các phần tử *os* "thần" và *wine* "bạn".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

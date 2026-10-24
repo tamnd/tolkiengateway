@@ -19,4 +19,4 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Mary_Wall"
 ---
 
-**Mary Wall** ([1746](../_/1746.md) - [16 tháng 3](../_/16_March.md), 1837) là bà cố của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+**Mary Wall** ([1746](../_/1746.md) - [16 tháng 3](../_/16_March.md) năm 1837) là bà cố của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).

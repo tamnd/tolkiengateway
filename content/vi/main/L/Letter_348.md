@@ -30,7 +30,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien viết bà Catharine Findlay rằng cái tên *[Galadriel](../G/Galadriel.md)* có nghĩa là "Thiếu nữ đội vương miện với mái tóc óng ả" trong [Sindarin](../S/Sindarin.md), và đó là [tên phụ](../E/Epessë.md) của bà. Thời trẻ, cô có tính cách amazon, thường buộc tóc thành vương miện khi tham gia các kỳ thi thể thao. <br>
+Tolkien viết cho bà Catharine Findlay rằng cái tên *[Galadriel](../G/Galadriel.md)* có nghĩa là "Thiếu nữ đội vương miện với mái tóc lấp lánh" trong [Sindarin](../S/Sindarin.md) và đó là [tên phụ](../E/Epessë.md) của bà. Thời trẻ, cô có tính cách amazon, thường buộc tóc thành vương miện khi tham gia các kỳ thi thể thao. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

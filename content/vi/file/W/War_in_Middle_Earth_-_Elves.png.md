@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Tiên tộc](../../main/E/Elves.md) trong [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
+[Tiên tộc](../../main/E/Elves.md) trong [J.R.R. Tolkien Cuộc chiến ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
 
 ## Giấy phép {#Licensing}
 

@@ -40,7 +40,7 @@ infobox:
 
 <i><b>Moria</b></i> là phần bổ sung (trong dòng *Citadel*) cho *[Middle-earth Role Playing](Middle-earth_Role_Playing.md)*, Phiên bản thứ 2. Nó thay thế Phiên bản đầu tiên *[Moria: The Dwarven City](Moria%253A_The_Dwarven_City.md)*.
 
-Để sử dụng với phần bổ sung này, [Mithril Miniatures](Mithril_Miniatures.md) đã phát hành một bộ mô hình thu nhỏ bằng kim loại (M155 - M164 *Durin's Dwarves*).
+Để sử dụng cùng với phần bổ sung này, [Mithril Miniatures](Mithril_Miniatures.md) đã phát hành một bộ mô hình thu nhỏ bằng kim loại (M155 - M164 *Durin's Dwarves*).
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 

@@ -69,8 +69,8 @@ Sự kiện xảy ra vào ngày 17 tháng 4.
 - **[1959](1959.md)** - Diễn viên [Sean Bean](../S/Sean_Bean.md) ra đời.
 - **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi J.D. Gilbert](../L/Letter_to_J.D._Gilbert.md).
 - **[1981](1981.md)** - Diễn viên [Sam Kelly](../S/Sam_Kelly.md) ra đời.
-- <b><a href="2007.md" title="2007">2007</a> – <i><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i> được xuất bản.</b>
-- **[2007](2007.md)** - Ngày thứ ba của [The Children of Húrin Bữa tiệc phát hành](../T/The_Children_of_Húrin_Release_Party.md) được tổ chức bởi [Tolkien Gateway](../T/Tolkien_Gateway.md).
+- <b><a href="2007.md" title="2007">2007</a> – <i><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">Những đứa con của Húrin</a></i> được xuất bản.</b>
+- **[2007](2007.md)** - Ngày thứ ba của [The Children of Húrin Release Party](../T/The_Children_of_Húrin_Release_Party.md) được tổ chức bởi [Tolkien Gateway](../T/Tolkien_Gateway.md).
 
 ## Trong Arda {#In_Arda}
 

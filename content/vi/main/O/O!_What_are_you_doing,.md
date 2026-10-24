@@ -37,9 +37,9 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Rovina_Cai_-_Down_in_the_Valley.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2a/Rovina_Cai_-_Down_in_the_Valley.jpg/250px-Rovina_Cai_-_Down_in_the_Valley.jpg" decoding="async" loading="lazy" width="250" height="602" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2a/Rovina_Cai_-_Down_in_the_Valley.jpg/375px-Rovina_Cai_-_Down_in_the_Valley.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2a/Rovina_Cai_-_Down_in_the_Valley.jpg/500px-Rovina_Cai_-_Down_in_the_Valley.jpg 2x" data-file-width="561" data-file-height="1350"/></a><figcaption><i>Down in <a href="../R/Rivendell.md" title="Rivendell">the Valley</a></i> by <a href="../R/Rovina_Cai.md" title="Rovina Cai">Rovina Cai</a></figcaption></figure>
 
-"**Ôi! Bạn đang làm gì vậy,**" là dòng đầu tiên của bài thơ nằm trong chương "[Nghỉ ngơi ngắn ngủi](../A/A_Short_Rest.md)" của *[The Hobbit](../T/The_Hobbit.md)*. Bài hát được hát bởi [Tiên tộc](../E/Elves.md) của [Rivendell](../R/Rivendell.md) khi [Công ty](../T/Thorin_and_Company.md) băng qua cầu vào Rivendell. Thể loại thơ này lại xuất hiện trong chương “[Giai đoạn cuối cùng](../T/The_Last_Stage.md)” mang tên [Con rồng héo úa](../T/The_dragon_is_withered.md).
+"**Ôi! Bạn đang làm gì vậy,**" là dòng đầu tiên của bài thơ nằm trong chương "[Nghỉ ngơi ngắn ngủi](../A/A_Short_Rest.md)" của *[The Hobbit](../T/The_Hobbit.md)*. Nó được hát bởi [Yêu tinh](../E/Elves.md) của [Rivendell](../R/Rivendell.md) khi [Công ty](../T/Thorin_and_Company.md) băng qua cầu vào Rivendell. Thể loại thơ này lại xuất hiện trong chương “[Giai đoạn cuối cùng](../T/The_Last_Stage.md)” mang tên [Con rồng héo úa](../T/The_dragon_is_withered.md).
 
-Bài thơ này phản ánh niềm vui của người dân Tiên khi họ dường như không quan tâm đến những nguy hiểm của thế giới. Nó được mô tả là "một tiếng hát vang lên như tiếng cười trên cây". "Thung lũng" ám chỉ [Rivendell](../R/Rivendell.md), quê hương của họ. Sau khi Tiên tộc hát xong bài thơ này, họ chuyển sang một [bài hát](../E/Elvish_Song_in_Rivendell.md) buồn cười khác.
+Bài thơ này phản ánh niềm vui của người dân tộc Elf khi họ dường như không quan tâm đến những nguy hiểm của thế giới. Nó được mô tả là "một tiếng hát vang lên như tiếng cười trên cây". "Thung lũng" ám chỉ [Rivendell](../R/Rivendell.md), quê hương của họ. Sau khi các Yêu tinh đọc xong bài thơ này, họ chuyển sang một [bài hát](../E/Elvish_Song_in_Rivendell.md) buồn cười khác.
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -63,7 +63,7 @@ The bannocks are baking!<br/>
 
 ## Xem thêm {#See_also}
 
-- [Bài thơ trong The Hobbit](../P/Poems_in_The_Hobbit.md)
+- [Bài thơ trong Người Hobbit](../P/Poems_in_The_Hobbit.md)
 
 <span></span>
 

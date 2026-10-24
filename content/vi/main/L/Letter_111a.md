@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong thư gửi [Stanley Unwin](../S/Stanley_Unwin.md), Tolkien xin lỗi về độ dài của tài liệu ông đã gửi và bày tỏ hy vọng rằng [Rayner Unwin](../R/Rayner_Unwin.md) sẽ thích cuốn sách thứ hai của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* mà ông đã chia sẻ gần đây. Anh ấy khuyến khích Rayner đưa ra phản hồi trung thực và không ngần ngại chia sẻ suy nghĩ của mình. Tolkien nhận xét một cách hài hước về xu hướng say mê thảo luận văn học của anh ấy và mong được trực tiếp chào đón Rayner trong chuyến thăm tiếp theo của anh ấy. <br>
+Trong bức thư gửi [Stanley Unwin](../S/Stanley_Unwin.md), Tolkien xin lỗi về độ dài của tài liệu ông đã gửi và bày tỏ hy vọng rằng [Rayner Unwin](../R/Rayner_Unwin.md) sẽ thích cuốn sách thứ hai của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* mà ông đã chia sẻ gần đây. Ông khuyến khích Rayner đưa ra phản hồi trung thực và không ngần ngại chia sẻ suy nghĩ của mình. Tolkien nhận xét một cách hài hước về xu hướng say mê thảo luận văn học của ông và mong được trực tiếp chào đón Rayner trong chuyến thăm tiếp theo của ông. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

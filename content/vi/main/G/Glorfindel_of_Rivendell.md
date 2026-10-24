@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Glorfindel"
 ---
 
-Chuyển hướng đến [Glorfindel](Glorfindel.md).
+Chuyển hướng tới [Glorfindel](Glorfindel.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Crossings of Taeglin"
 ---
 
-Chuyển hướng đến [Đi qua Taeglin](../C/Crossings_of_Taeglin.md).
+Chuyển hướng đến [Giao lộ Taeglin](../C/Crossings_of_Taeglin.md).

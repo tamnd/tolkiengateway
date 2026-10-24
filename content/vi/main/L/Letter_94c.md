@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien suy ngẫm về tác động sâu sắc và lâu dài của bộ phim về Bernadette Soubirous mà anh đã xem cách đây một tuần. Mặc dù thừa nhận bộ phim là một miêu tả thiếu sót và không chính xác, anh vẫn vô cùng xúc động trước sự phản ánh câu chuyện có thật và đẹp đẽ của Bernadette.
+Tolkien suy ngẫm về tác động sâu sắc và lâu dài của bộ phim về Bernadette Soubirous mà ông đã xem cách đây một tuần. Mặc dù thừa nhận bộ phim là một miêu tả thiếu sót và không chính xác, anh vẫn vô cùng xúc động trước sự phản ánh câu chuyện có thật và đẹp đẽ của Bernadette.
 
-Cảm nghiệm này khuấy động tâm hồn anh và truyền cảm hứng cho anh cầu nguyện Kinh Mân Côi thường xuyên hơn, đặc biệt xúc động trước chi tiết Đức Mẹ chỉ đọc Kinh Sáng Danh. Tolkien thừa nhận tính không thể diễn tả được của trải nghiệm tâm linh này và tiềm năng của nó để cộng hưởng sâu sắc với người khác chỉ bằng ý chí thiêng liêng. <br>
+Cảm nghiệm này khuấy động tâm hồn anh và truyền cảm hứng cho anh cầu nguyện Kinh Mân Côi thường xuyên hơn, đặc biệt xúc động trước chi tiết Đức Mẹ chỉ đọc Kinh Sáng Danh. Tolkien thừa nhận tính không thể diễn tả được của trải nghiệm tâm linh này và tiềm năng của nó để tạo ra tiếng vang sâu sắc với người khác chỉ bằng ý chí thiêng liêng. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pelennor Fields"
 ---
 
-Chuyển hướng đến [cánh đồng Pelennor](Pelennor_Fields.md).
+Chuyển hướng đến [Trường Pelennor](Pelennor_Fields.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit/Publication history and gallery"
 ---
 
-Chuyển hướng đến [The Hobbit/Lịch sử xuất bản và thư viện](../T/The_Hobbit%252FPublication_history_and_gallery.md).
+Chuyển hướng đến [The Hobbit/Publication history and gallery](../T/The_Hobbit%252FPublication_history_and_gallery.md).

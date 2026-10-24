@@ -28,9 +28,9 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Chronology_of_The_Lord_of_the_Rings_page_10.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7b/Chronology_of_The_Lord_of_the_Rings_page_10.jpeg/275px-Chronology_of_The_Lord_of_the_Rings_page_10.jpeg" decoding="async" loading="lazy" width="275" height="199" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7b/Chronology_of_The_Lord_of_the_Rings_page_10.jpeg/413px-Chronology_of_The_Lord_of_the_Rings_page_10.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7b/Chronology_of_The_Lord_of_the_Rings_page_10.jpeg/550px-Chronology_of_The_Lord_of_the_Rings_page_10.jpeg 2x" data-file-width="640" data-file-height="463"/></a><figcaption>Page 10 of the Chronology</figcaption></figure>
 
-<i><b>Niên đại của The Lord of the Rings</b></i> là một bài viết học thuật dài 130 trang được xuất bản trên *[Tolkien Studies 19 Supplement](Tolkien_Studies%253A_Volume_19_Supplement.md)* vào [31 tháng 7](../_/31_July.md) [2022](../_/2022.md), được biên tập và bình luận bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=William_Cloud_Hicklin&amp;action=edit&amp;redlink=1" title="William Cloud Hicklin (page does not exist)">William Cloud Hicklin</a>.
+<i><b>Niên đại của Chúa tể những chiếc nhẫn</b></i> là một bài viết học thuật dài 130 trang được xuất bản trên *[Tolkien Studies 19 Supplement](Tolkien_Studies%253A_Volume_19_Supplement.md)* vào [31 tháng 7](../_/31_July.md) [2022](../_/2022.md), được biên tập và bình luận bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=William_Cloud_Hicklin&amp;action=edit&amp;redlink=1" title="William Cloud Hicklin (page does not exist)">William Cloud Hicklin</a>.
 
-Bài viết trình bày đầy đủ các bản thảo về sơ đồ thời gian hay còn gọi là "Niên đại" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), làm cơ sở cho việc quy hoạch *The Lord of the Rings*. Có nhiều phiên bản của sơ đồ thời gian, phiên bản cuối cùng gồm 14 trang. Phiên bản này đã được chép lại đầy đủ và có ghi chú chi tiết trong bài viết. Hicklin cũng đưa ra phần giới thiệu và bình luận chuyên sâu theo dõi sự phát triển của Niên đại.
+Bài viết trình bày toàn bộ bản thảo về sơ đồ thời gian hay còn gọi là "Niên đại" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), làm cơ sở cho việc lập kế hoạch của *The Lord of the Rings*. Có nhiều phiên bản của sơ đồ thời gian, phiên bản cuối cùng gồm 14 trang. Phiên bản này đã được chép lại đầy đủ và có ghi chú chi tiết trong bài viết. Hicklin cũng đưa ra phần giới thiệu và bình luận chuyên sâu theo dõi sự phát triển của Niên đại.
 
 Một số đoạn trích từ Niên đại đã được trích dẫn trong *[The Lord of the Rings: A Reader's Companion](The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)* (2005). Bản sao của các bản thảo phiên bản cuối cùng của Niên đại sau đó đã được xuất bản vào *[The Art of the Manuscript](The_Art_of_the_Manuscript.md)* (2022). Nhưng nhiều bản thảo ở dạng bản thảo chỉ được trình bày trong tác phẩm này.
 
@@ -58,11 +58,11 @@ Trong phiên bản cuối cùng của Chronology, 9 trong số 14 trang ở dạ
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Chronology_of_The_Lord_of_the_Rings_page_13.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e2/Chronology_of_The_Lord_of_the_Rings_page_13.jpeg/225px-Chronology_of_The_Lord_of_the_Rings_page_13.jpeg" decoding="async" loading="lazy" width="225" height="301" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e2/Chronology_of_The_Lord_of_the_Rings_page_13.jpeg/338px-Chronology_of_The_Lord_of_the_Rings_page_13.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e2/Chronology_of_The_Lord_of_the_Rings_page_13.jpeg/450px-Chronology_of_The_Lord_of_the_Rings_page_13.jpeg 2x" data-file-width="1242" data-file-height="1661"/></a><figcaption>Page 13 of the Chronology</figcaption></figure>
 
-Niên đại cung cấp những hiểu biết mới không xuất hiện trong các cuốn sách đã xuất bản. Ví dụ, liên quan đến số phận của [Shagrat](../S/Shagrat.md), Orc Thuyền trưởng của Tháp Cirith Ungol, người ta tuyên bố rằng vào Thứ Bảy ngày 17 tháng 3,
+Niên đại cung cấp những hiểu biết mới không xuất hiện trong các cuốn sách đã xuất bản. Ví dụ, liên quan đến số phận của [Shagrat](../S/Shagrat.md), Đội trưởng Orc của Tháp Cirith Ungol, người ta tuyên bố rằng vào thứ Bảy ngày 17 tháng 3,
 
 <dl><dd>&#34;<i>Shagrat brings the mithril coat and other spoils to Barad-dȗr; but is slain by Sauron</i>&#34;.</dd></dl>
 
-Một sự thật ẩn giấu khác cho thấy rằng, trong khi Hiệp hội đang tạm dừng ở Lothlórien vào Thứ Ba, ngày 24 tháng 1, [Gollum](../G/Gollum.md) ẩn nấp ở biên giới của quốc gia đó; và ở đó anh ta bị [Uglúk](../U/Uglúk.md) và Isengarders bắt giữ. Mục Niên đại có tiêu đề Gollum:
+Một sự thật ẩn giấu khác cho thấy rằng, trong khi Hiệp hội đang nghỉ ngơi ở Lothlórien vào thứ Ba, ngày 24 tháng 1, [Gollum](../G/Gollum.md) ẩn nấp ở biên giới của quốc gia đó; và ở đó ông ta bị [Uglúk](../U/Uglúk.md) và Isengarders bắt giữ. Mục Niên đại có tiêu đề Gollum:
 
 <dl><dd>&#34;<i>Gollum captured by Uglúk, but escapes after revealing that Hobbits of Shire were with Gandalf, and enough is said to make Uglúk certain that Ring was with the Company</i>&#34;.</dd></dl>
 
@@ -79,7 +79,7 @@ Trong khi dưới tiêu đề Kẻ thù, nó ghi:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://muse.jhu.edu/pub/20/article/861624" rel="noreferrer noopener" target="_blank">Niên đại của The Lord of the Rings</a> trong Project Muse
+- <a class="external text" href="https://muse.jhu.edu/pub/20/article/861624" rel="noreferrer noopener" target="_blank">Niên đại của Chúa tể những chiếc nhẫn</a> trong Project Muse
 - <a class="external text" href="https://tolkiengateway.net/w/images/2/2c/Chronology_Errata.pdf" rel="noreferrer noopener" target="_blank">Lỗi</a> thành *Chronology*
 - <a class="external text" href="https://www.reddit.com/r/tolkienfans/comments/wwl40m/tolkiens_chronology_of_the_lord_of_the_rings_ask/" rel="noreferrer noopener" target="_blank">"Hỏi tôi bất cứ điều gì" với Bill Hicklin</a> trên Reddit
 

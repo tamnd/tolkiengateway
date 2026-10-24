@@ -24,8 +24,8 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lori_Deitrick_-_Twilight.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a0/Lori_Deitrick_-_Twilight.jpg/300px-Lori_Deitrick_-_Twilight.jpg" decoding="async" loading="lazy" width="300" height="252" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/a/a0/Lori_Deitrick_-_Twilight.jpg 1.5x" data-file-width="400" data-file-height="336"/></a><figcaption><i>Twilight</i> by Lori Deitrick</figcaption></figure>
 
-**Chạng vạng** là ánh sáng dịu nhẹ trên bầu trời được nhìn thấy trước khi mặt trời mọc và (đặc biệt) sau khi thiết lập [Mặt Trời](../S/Sun.md).
+**Chạng vạng** là ánh sáng dịu nhẹ trên bầu trời được nhìn thấy trước khi mọc và (đặc biệt) sau khi [Mặt trời](../S/Sun.md) lặn.
 
 ## Tên khác {#Other_names}
 
-Trong [Sindarin](../S/Sindarin.md) là *[uial](../U/Uial.md)* hoặc *[tinnu](Tinnu.md)*. Có một số từ mô tả nó trong [Quenya](../Q/Quenya.md), bao gồm <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Y%C3%BAcal%C3%AB&amp;action=edit&amp;redlink=1" title="Yúcalë (page does not exist)">yúcalë</a></i>, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Yual%C3%AB&amp;action=edit&amp;redlink=1" title="Yualë (page does not exist)">yualë</a></i>và *[lómë](../L/Lómë.md)*. Buổi sáng chạng vạng cũng được chỉ định trong Quenya: tên *[tindómë](Tindómë.md)*; và chạng vạng tối, *[undómë](../U/Undómë.md)*.
+Trong [Sindarin](../S/Sindarin.md) đó là *[uial](../U/Uial.md)* hoặc *[tinnu](Tinnu.md)*. Có một số từ mô tả nó trong [Quenya](../Q/Quenya.md), bao gồm <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Y%C3%BAcal%C3%AB&amp;action=edit&amp;redlink=1" title="Yúcalë (page does not exist)">yúcalë</a></i>, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Yual%C3%AB&amp;action=edit&amp;redlink=1" title="Yualë (page does not exist)">yualë</a></i>và *[lómë](../L/Lómë.md)*. Buổi sáng chạng vạng cũng được chỉ định ở Quenya: tên *[tindómë](Tindómë.md)*; và chạng vạng tối, *[undómë](../U/Undómë.md)*.

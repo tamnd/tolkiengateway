@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-" [burrahobbit](../../main/H/Hobbits.md)... là gì?" bởi [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+" [burrahobbit](../../main/H/Hobbits.md)... là gì?" của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

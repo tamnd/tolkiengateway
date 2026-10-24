@@ -21,7 +21,7 @@ langlinks:
 
 <i><b>zirak</b></i> là một từ [Khuzdul](../K/Khuzdul.md), xuất hiện trong *[Zirakzigil](../C/Celebdil.md#Etymology)* ("tine of silver"),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và [Gamil Zirak](../G/Gamil_Zirak.md) ("Old Tine").
 
-Từ này cũng xuất hiện dưới dạng viết tắt của *Zirakzigil*, tên [Người Lùn](../D/Dwarves.md)' của ngọn núi được các chủng tộc khác gọi là *[Celebdil](../C/Celebdil.md)* hoặc *Silvertine*. [Gimli](../G/Gimli.md) gọi [Dãy núi Moria](../M/Mountains_of_Moria.md) là [Baraz](../B/Baraz.md), Zirak và [Shathûr](../S/Shathûr.md) khi lần đầu tiên anh nhìn thấy họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Từ này cũng xuất hiện dưới dạng viết tắt của *Zirakzigil*, tên của [Người lùn](../D/Dwarves.md) dành cho ngọn núi được các chủng tộc khác gọi là *[Celebdil](../C/Celebdil.md)* hoặc *Silvertine*. [Gimli](../G/Gimli.md) gọi [Núi Moria](../M/Mountains_of_Moria.md) là [Baraz](../B/Baraz.md), Zirak và [Shathûr](../S/Shathûr.md) khi lần đầu tiên nhìn thấy chúng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Vì *[zigil](Zigil.md)* rõ ràng có nghĩa là "bạc", *Zirak* có lẽ có nghĩa là "tine" trong [Khuzdul](../K/Khuzdul.md). <span></span>
 

@@ -52,7 +52,7 @@ sort_keys:
 <li><a href="../B/Beyond_The_Forest.md" title="Beyond The Forest">Beyond The Forest</a></li></ol>
 </td></tr></tbody></table>
 
-**In The Bóng Tối Of The Mountain** là bài hát thứ tư trong đĩa hai của *[The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack](../T/The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack.md)* và [nhạc phim phiên bản đặc biệt](../T/The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md), của [Howard Shore](../H/Howard_Shore.md).
+**In The Shadow Of The Mountain** là ca khúc thứ tư trong đĩa hai của *[The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack](../T/The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack.md)* và [nhạc phim phiên bản đặc biệt](../T/The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md), của [Howard Shore](../H/Howard_Shore.md).
 
 ## Xem thêm {#See_also}
 

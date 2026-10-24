@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Gould, Grant"
 ---
 
-**Grant Gould** đã làm việc với <a class="new" href="https://tolkiengateway.net/w/index.php?title=Topps&amp;action=edit&amp;redlink=1" title="Topps (page does not exist)">Topps</a> để tạo ra 100 hình minh họa cho [The Lord of the Rings Kiệt tác](../T/The_Lord_of_the_Rings_Masterpieces.md).
+**Grant Gould** đã làm việc với <a class="new" href="https://tolkiengateway.net/w/index.php?title=Topps&amp;action=edit&amp;redlink=1" title="Topps (page does not exist)">Topps</a> để tạo ra 100 hình minh họa cho [The Lord of the Rings Masterpieces](../T/The_Lord_of_the_Rings_Masterpieces.md).
 
 <br>
 

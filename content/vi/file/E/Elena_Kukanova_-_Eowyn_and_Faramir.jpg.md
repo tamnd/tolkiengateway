@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"*[Éowyn](../../main/_/Éowyn.md) and [Faramir](../../main/F/Faramir.md)*", bởi [Elena Kukanova](../../main/E/Elena_Kukanova.md)
+"*[Éowyn](../../main/_/Éowyn.md) and [Faramir](../../main/F/Faramir.md)*", của [Elena Kukanova](../../main/E/Elena_Kukanova.md)
 
 <blockquote class="tg-quote noexcerpt">
 <p>‘Then you think that the Darkness is coming?’ said Éowyn. ‘Darkness Unescapable?’ And suddenly she drew close to him.

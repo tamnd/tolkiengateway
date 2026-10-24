@@ -20,19 +20,19 @@ categories:
 
 ### Từ nguyên {#Etymology}
 
-Từ này là dạng con cháu của ?[Old Noldorin](../K/Kornoldorin.md) *rōda* > *rōdh* > *rōth*, bắt nguồn từ [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=ROD&amp;action=edit&amp;redlink=1" title="ROD (page does not exist)">ROD</a> ("hang").<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+Từ này là dạng hậu duệ của ?[Old Noldorin](../K/Kornoldorin.md) *rōda* > *rōdh* > *rōth*, bắt nguồn từ [root](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=ROD&amp;action=edit&amp;redlink=1" title="ROD (page does not exist)">ROD</a> ("hang động").<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ### Xem thêm {#See_also}
 
 - [Noldorin](../N/Noldorin.md) *rhond*, *rhonn* ("hang")
-- [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Rondo&amp;action=edit&amp;redlink=1" title="Rondo (page does not exist)">rondo</a></i> ("hang")
-- [Sindarin](../S/Sindarin.md) *[groth](../G/Groth.md)*
+- [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Rondo&amp;action=edit&amp;redlink=1" title="Rondo (page does not exist)">rondo</a></i> ("hang động")
+- [Tiếng Sindarin](../S/Sindarin.md) *[groth](../G/Groth.md)*
 
 ### Phiên bản khác {#Other_versions}
 
-Từ được đưa ra trong *[Etymologies](../T/The_Etymologies.md)* để giải thích tên *[Menegroth](../M/Menegroth.md)*.<sup id="cite_ref-LR_1-2" class="reference"><a href="#cite_note-LR-1">[1]</a></sup> Trong nguồn sau [Tolkien](../J/J.R.R._Tolkien.md) thay vào đó sẽ đưa ra từ Sindarin *[groth](../G/Groth.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Từ này được đưa ra trong *[Etymologies](../T/The_Etymologies.md)* để giải thích tên *[Menegroth](../M/Menegroth.md)*.<sup id="cite_ref-LR_1-2" class="reference"><a href="#cite_note-LR-1">[1]</a></sup> Trong nguồn sau này [Tolkien](../J/J.R.R._Tolkien.md) thay vào đó là từ Sindarin *[groth](../G/Groth.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-## Adûnaic {#Adûnaic}
+## Quảng cáo {#Adûnaic}
 
 <i><b>roth</b></i> là một từ [Adûnaic](../A/Adûnaic.md) có nghĩa là "bọt". Ý nghĩa ban đầu của nó là "cắt, dấu vết" (như trong các từ ghép <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Obroth&amp;action=edit&amp;redlink=1" title="Obroth (page does not exist)">ob<b>roth</b></a></i> "cắt trước" và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nadroth&amp;action=edit&amp;redlink=1" title="Nadroth (page does not exist)">nad<b>roth</b></a></i> "đường sau").<sup id="cite_ref-Ros_3-0" class="reference"><a href="#cite_note-Ros-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
@@ -47,7 +47,7 @@ Từ được đưa ra trong *[Etymologies](../T/The_Etymologies.md)* để gi�
 ### Từ đồng nghĩa {#Synonyms}
 
 - [Quenya](../Q/Quenya.md) *[winga](../W/Winga.md)*, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ross%C3%AB&amp;action=edit&amp;redlink=1" title="Rossë (page does not exist)">rossë</a></i>
-- [Sindarin](../S/Sindarin.md) *[ros](Ros.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[ros](Ros.md)*
 
 <span></span>
 

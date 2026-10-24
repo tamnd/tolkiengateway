@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Heir of Isildur"
 ---
 
-Chuyển hướng đến [Người thừa kế Isildur](../H/Heir_of_Isildur.md).
+Chuyển hướng đến [Người thừa kế của Isildur](../H/Heir_of_Isildur.md).

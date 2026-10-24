@@ -34,11 +34,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Những rắc rối chưa xác định đã khiến Tolkien suy sụp và anh đã được bác sĩ yêu cầu nghỉ ngơi. Khi viết bức thư này, anh ấy đã không làm gì trong một hoặc hai tuần và bắt đầu cảm thấy dễ chịu hơn. Vào ngày 1 tháng Chín, ông sẽ đi nghỉ hai tuần (không có kế hoạch và không đủ khả năng chi trả) vì sức khỏe của ông và đứa con trai út.
+Những rắc rối không xác định đã dẫn đến việc Tolkien gần như suy sụp và ông đã được bác sĩ yêu cầu nghỉ ngơi. Khi viết bức thư này, ông đã không làm gì trong một hoặc hai tuần và bắt đầu cảm thấy dễ chịu hơn. Vào ngày 1 tháng 9, ông sẽ đi nghỉ lễ kéo dài hai tuần (mà ông chưa lên kế hoạch và không đủ khả năng chi trả) vì sức khỏe của mình và đứa con trai út.
 
-Anh ấy đã đánh máy *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* và hiện đang gửi nó cho Allen &amp; Unwin để họ xem xét, mặc dù anh ấy thừa nhận rằng nó không đủ dài để xuất bản độc lập. Tolkien nói rằng anh ấy đã lên kế hoạch cho phần tiếp theo và anh ấy còn một câu chuyện chưa hoàn thành khác tên là *[The King of the Green Dozen](../T/The_King_of_the_Green_Dozen.md)*; anh ta đề nghị kết liễu họ để đi cùng *Farmer Giles* nếu muốn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+Ông đã đánh máy *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* và hiện gửi nó cho Allen & Unwin để họ xem xét, mặc dù ông thừa nhận rằng nó không đủ dài để xuất bản độc lập. Tolkien nói rằng ông đã lên kế hoạch cho phần tiếp theo và ông còn có một câu chuyện chưa hoàn thành khác tên là *[The King of the Green Dozen](../T/The_King_of_the_Green_Dozen.md)*; ông ta đề nghị kết liễu họ để đi cùng *Farmer Giles* nếu muốn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
-Tolkien nói rằng anh ấy đã bắt đầu lại phần tiếp theo của *[The Hobbit](../T/The_Hobbit.md)* – *The Lord of the Ring*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup> Mọi chuyện đang trôi chảy và đã vượt quá tầm kiểm soát. Tolkien đã đến được Chương VII và nó đang tiến tới những mục tiêu khá bất ngờ. Anh ấy cảm thấy rằng nó tốt hơn so với người tiền nhiệm của nó và đề cập rằng [C.S. Lewis](../C/C.S._Lewis.md) tự nhận mình rất hài lòng. Tuy nhiên, anh ấy cảnh báo Allen và Unwin rằng “đó không phải là câu chuyện trước khi đi ngủ”.
+Tolkien nói rằng ông đã bắt đầu lại phần tiếp theo của *[The Hobbit](../T/The_Hobbit.md)* – *The Lord of the Ring*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup> Mọi chuyện diễn ra trôi chảy và khá vượt quá tầm kiểm soát. Tolkien đã đến Chương VII và nó đang tiến tới những mục tiêu khá bất ngờ. Ông cảm thấy rằng nó tốt hơn so với người tiền nhiệm của nó và đề cập rằng [C.S. Lewis](../C/C.S._Lewis.md) tự nhận mình còn hơn cả hài lòng. Tuy nhiên, ông cảnh báo Allen và Unwin rằng “đó không phải là câu chuyện trước khi đi ngủ”.
 
 ## Ghi chú {#Notes}
 

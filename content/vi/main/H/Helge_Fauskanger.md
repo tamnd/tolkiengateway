@@ -33,51 +33,51 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Helge_Kåre_Fauskanger.gif.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f4/Helge_K%C3%A5re_Fauskanger.gif/150px-Helge_K%C3%A5re_Fauskanger.gif" decoding="async" loading="lazy" width="150" height="194" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/f4/Helge_K%C3%A5re_Fauskanger.gif 1.5x" data-file-width="196" data-file-height="254"/></a><figcaption></figcaption></figure>
 
-**Helge Kåre Fauskanger** (sinh [17 tháng 8](../_/17_August.md) [1971](../_/1971.md)) là nhà ngôn ngữ học Tolkien người Na Uy. Anh ấy là người tạo ra trang web *[Ardalambion](../A/Ardalambion.md)*.
+**Helge Kåre Fauskanger** (sinh ngày [17 August](../_/17_August.md) [1971](../_/1971.md)) là một nhà ngôn ngữ học Tolkien người Na Uy. Ông là người sáng lập trang web *[Ardalambion](../A/Ardalambion.md)*.
 
-Fauskanger được đánh giá cao nhờ phiên bản [Neo-Quenya](../N/Neo-Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Fauskanger được biết đến rộng rãi nhờ phiên bản [Neo-Quenya](../N/Neo-Quenya.md) của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-## Thư mục {#Bibliography}
+## Thư mục tài liệu {#Bibliography}
 
 ### Bài viết {#Articles}
 
 - [1995](../_/1995.md): [*Tyalië Tyelelliéva* 4](../T/Tyalië_Tyelelliéva_4.md)
-    - "Mảnh Bakken"
+&#x20;   - "Mảnh vỡ Bakken"
 - [1995](../_/1995.md): [*Tyalië Tyelelliéva* 6](../T/Tyalië_Tyelelliéva_6.md)
-    - "Bây giờ chúng ta đã có tất cả Elvish tên!"
+&#x20;   - "Giờ đây tất cả chúng ta đều có tên Elvish!"
 - [1996](../_/1996.md): [*Tyalië Tyelelliéva* 8](../T/Tyalië_Tyelelliéva_8.md)
-    - "Bài thơ vang lên trong Quenya" (bản dịch)
-    - "Lussi Lomesse" (thơ)
+&#x20;   - "Bài thơ về Chiếc Nhẫn bằng tiếng Quenya" (bản dịch)
+&#x20;   - "Lussi Lomesse" (bài thơ)
 - [1998](../_/1998.md): [*Tyalië Tyelelliéva* 12](../T/Tyalië_Tyelelliéva_12.md)
-    - "The Lời tiên tri thứ hai của Mandos" (dịch sang Quenya với tengwar)
+&#x20;   - "Lời Tiên Tri Thứ Hai của Mandos" (bản dịch sang tiếng Quenya bằng tengwar)
 - [1998](../_/1998.md): [*Tyalië Tyelelliéva* 13](../T/Tyalië_Tyelelliéva_13.md)
-    - "Dòng chữ cổ điển tiếng Hebrew"
+&#x20;   - "Dòng chữ khắc bằng tiếng Hebrew cổ điển"
 - [2000](../_/2000.md): [*Tyalië Tyelelliéva* 14](../T/Tyalië_Tyelelliéva_14.md)
-    - "Bóng Tối Rơi xuống Munich"
-    - "Qenya Đánh giá từ vựng"
+&#x20;   - "Bóng tối phủ xuống Munich"
+&#x20;   - "Đánh giá Qenya Lexicon"
 - [2001](../_/2001.md): [*Tyalië Tyelelliéva* 18](../T/Tyalië_Tyelelliéva_18.md)
-    - "Phân tích cú pháp và từ nguyên của bản dịch Quenya của J.R.R. Tolkien Kinh Lạy Cha và Kính Mừng"
+&#x20;   - "Phân tích cú pháp và từ nguyên bản dịch tiếng Quenya Kinh Lạy Cha và Kính Mừng của J.R.R. Tolkien"
 - 2001: *Argenthas* 50
-    - "Tiềm năng của dàn diễn viên"
+&#x20;   - "Tiềm năng của dàn diễn viên"
 - [2009](../_/2009.md): [*Arda Philology* 2](../A/Arda_Philology_2.md)
-    - "Tân thực tế-Quenya"
+&#x20;   - "Thực hành Neo-Quenya"
 - [2011](../_/2011.md): [*Arda Philology* 3](../A/Arda_Philology_3.md)
-    - "Giải thích tài liệu ngôn ngữ của Tolkien: Lưu ý về những thách thức và sự mơ hồ"
+&#x20;   - "Giải nghĩa tư liệu ngôn ngữ học của Tolkien: Ghi chú về những thách thức và điểm mơ hồ"
 - [2016](../_/2016.md): *[Aiglos 21](../A/Aiglos_21.md)*
-    - "Mặt tốt của Sauron"
+&#x20;   - "Những mặt tốt của Sauron"
 
 ### Khác {#Other}
 
 - [2004](../_/2004.md): *[Curso de Quenya](../C/Curso_de_Quenya.md)*
-- [2012](../_/2012.md): [*In Elven Lands* (Ấn bản thứ hai)](../I/In_Elven_Lands.md#Second_Edition)
-    - [Silmesse](../S/Silmesse.md) (lời bài hát)
+- [2012](../_/2012.md): [*In Elven Lands* (Second Edition)](../I/In_Elven_Lands.md#Second_Edition)
+&#x20;   - [Silmesse](../S/Silmesse.md) (lời bài hát)
 
-- <i><a class="external text" href="http://folk.uib.no/hnohf/num-intro.htm" rel="noreferrer noopener" target="_blank">Phim tiền truyện LotR tối ưu</a></i>
+- <i><a class="external text" href="http://folk.uib.no/hnohf/num-intro.htm" rel="noreferrer noopener" target="_blank">Bộ phim tiền truyện tối ưu của LotR</a></i>
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.helgefauskanger.com/" rel="noreferrer noopener" target="_blank">Trang chủ cá nhân</a> **(tiếng Na Uy)**
-- <a class="external text" href="https://ardalambion.net/whoami.htm" rel="noreferrer noopener" target="_blank">"Tôi là ai"</a> trên ardalambion.net
+- <a class="external text" href="https://ardalambion.net/whoami.htm" rel="noreferrer noopener" target="_blank">&#34;Tôi là ai&#34;</a> trên ardalambion.net
 
 <span></span>
 

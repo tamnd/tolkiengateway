@@ -67,11 +67,11 @@ Sự kiện xảy ra vào ngày 31 tháng 10
 ## Trên Trái đất {#On_Earth}
 
 - **[1855](1855.md)** - [Joseph Wright](../J/Joseph_Wright.md) ra đời.
-- **[1914](1914.md)** - Bộ tứ lớn - [Tolkien](../J/J.R.R._Tolkien.md), [Wiseman](../C/Christopher_Wiseman.md), [Smith](../G/Geoffrey_Bache_Smith.md) và [Gilson](../R/Robert_Gilson.md) - dự định gặp nhau tại [Cambridge](../C/Cambridge.md), và tất cả trừ Tolkien đều đến. Bây giờ dưới sự dẫn dắt của [Barnsley](../T/Thomas_Kenneth_Barnsley.md) và [Barrowclough](../S/Sidney_Barrowclough.md), [T.C.B.S.](../T/T.C.B.S..md) bắt đầu sụp đổ.
+- **[1914](1914.md)** - Bộ tứ lớn - [Tolkien](../J/J.R.R._Tolkien.md), [Wiseman](../C/Christopher_Wiseman.md), [Smith](../G/Geoffrey_Bache_Smith.md) và [Gilson](../R/Robert_Gilson.md) - dự định gặp nhau tại [Cambridge](../C/Cambridge.md) và tất cả trừ Tolkien đều đến. Bây giờ dưới sự dẫn dắt của [Barnsley](../T/Thomas_Kenneth_Barnsley.md) và [Barrowclough](../S/Sidney_Barrowclough.md), [T.C.B.S.](../T/T.C.B.S..md) bắt đầu sụp đổ.
 - **[1931](1931.md)** - [Ông già Noel](../F/Father_Christmas.md) viết [thư](../L/Letters_from_Father_Christmas.md) gửi các con của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 - **[1943](1943.md)** - Tác giả [J.E.A. Tyler](../J/J.E.A._Tyler.md) ra đời.
 - **[1948](1948.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 117](../L/Letter_117.md).
-- **[1954](1954.md)** – "[Người hùng là Hobbit](../T/The_Hero_Is_a_Hobbit.md)", bài đánh giá của [W.H. Auden](../W/W.H._Auden.md) về *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*, được xuất bản.
+- **[1954](1954.md)** – "[The Hero Is a Hobbit](../T/The_Hero_Is_a_Hobbit.md)", bài đánh giá của [W.H. Auden](../W/W.H._Auden.md) về *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*, được xuất bản.
 - **[1961](1961.md)** - Giám đốc [Peter Jackson](../P/Peter_Jackson.md) sinh ra ở <a class="extiw" href="http://en.wikipedia.org/wiki/Pukerua_Bay" title="wikipedia:Pukerua Bay">Vịnh Pukerua</a>, [New Zealand](../N/New_Zealand.md).
 - **[1964](1964.md)** - Tập thứ tư của [Princess](../P/Princess.md)-serialization của *[The Hobbit](../T/The_Hobbit.md)* được xuất bản.
 - <b><a href="1967.md" title="1967">1967</a> - <i><a href="../T/The_Road_Goes_Ever_On_(book).md" title="The Road Goes Ever On (book)">The Road Goes Ever On</a></i> được xuất bản lần đầu tiên tại Hoa Kỳ.</b>
@@ -79,7 +79,7 @@ Sự kiện xảy ra vào ngày 31 tháng 10
 - **[1974](1974.md)** - Nghệ sĩ [Randy Gallegos](../R/Randy_Gallegos.md) ra đời.
 - **[2001](2001.md)** - *[Tyalië Tyelelliéva](../T/Tyalië_Tyelelliéva.md)* số [17](../T/Tyalië_Tyelelliéva_17.md) được xuất bản.
 - **[2005](2005.md)** - [RingCon](../R/RingCon.md) V tại <a class="extiw" href="http://en.wikipedia.org/wiki/SeaTac,_Washington" title="wikipedia:SeaTac, Washington">SeaTac, Washington</a>.
-- **[2010](2010.md)** - Mereth Aderthad XVI, hay "EstelCon" của Hiệp hội Tolkien tiếng Tây Ban Nha ở <a class="extiw" href="http://en.wikipedia.org/wiki/Valencia" title="wikipedia:Valencia">Valencia</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Spain" title="wikipedia:Spain">Tây Ban Nha</a>.
+- **[2010](2010.md)** - Mereth Aderthad XVI, hay "EstelCon" của Hiệp hội Tolkien Tây Ban Nha ở <a class="extiw" href="http://en.wikipedia.org/wiki/Valencia" title="wikipedia:Valencia">Valencia</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Spain" title="wikipedia:Spain">Tây Ban Nha</a>.
 
 ## Trong Arda {#In_Arda}
 

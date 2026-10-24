@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valandil (King of Arnor)"
 ---
 
-Chuyển hướng đến [Valandil (Vua của Arnor)](<Valandil_(King_of_Arnor).md>).
+Chuyển hướng đến [Valandil (Vua xứ Arnor)](<Valandil_(King_of_Arnor).md>).

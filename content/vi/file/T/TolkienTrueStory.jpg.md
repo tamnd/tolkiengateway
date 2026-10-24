@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình thu nhỏ tiếng Anh của phim tài liệu ARTE [Tolkien: Câu chuyện có thật về những chiếc nhẫn](../../main/T/Tolkien%253A_The_True_Story_of_the_Rings.md)
+Hình thu nhỏ tiếng Anh của phim tài liệu ARTE [Tolkien: The True Story of the Rings](../../main/T/Tolkien%253A_The_True_Story_of_the_Rings.md)
 
 ## Giấy phép {#Licensing}
 

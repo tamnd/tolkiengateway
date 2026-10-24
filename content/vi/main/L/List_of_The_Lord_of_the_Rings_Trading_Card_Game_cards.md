@@ -37,7 +37,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-Trang này là **danh sách The Lord of the Rings Trading Card Game thẻ**.
+Trang này là **danh sách các thẻ Trò chơi trao đổi thẻ bài Chúa tể của những chiếc nhẫn**.
 
 <table class="TGtable" style="width:80%;text-align:center;margin-left:auto;margin-right:auto;">
 <tbody><tr>

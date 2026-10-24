@@ -15,7 +15,7 @@ categories:
 
 <i><b>vakko</b></i> là danh từ [Qenya](../Q/Qenya.md) có nghĩa là "áo khoác, áo khoác".<sup id="cite_ref-GL_1-0" class="reference"><a href="#cite_note-GL-1">[1]</a></sup>
 
-[Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng dạng *vacco* (giữ nguyên ý nghĩa) có thể hợp lệ [Neo-Quenya](../N/Neo-Quenya.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng dạng *vacco* (giữ nguyên nghĩa) có thể hợp lệ [Neo-Quenya](../N/Neo-Quenya.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 

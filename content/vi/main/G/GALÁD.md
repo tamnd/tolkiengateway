@@ -25,4 +25,4 @@ sort_keys:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Tolkien đã viết cả GALAD và thêm GALÁD vào *[The Etymologies](../T/The_Etymologies.md)*mà không bỏ đi cái đầu tiên.
+Tolkien đã viết cả GALAD và thêm GALÁD vào *[The Etymologies](../T/The_Etymologies.md)* mà không bỏ đi phần đầu tiên.

@@ -24,9 +24,9 @@ images:
 ## Ấn phẩm {#Publications}
 
 - *[Sir Gawain and the Green Knight](<Sir_Gawain_and_the_Green_Knight_(edition).md>)*, phiên bản [1925](../_/1925.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [E.V. Gordon](../E/E.V._Gordon.md).
-- Khổ 32 của *Sir Gawain and the Green Knight*, được dịch bởi [Tolkien](../J/J.R.R._Tolkien.md), một khung có trong [1961](../_/1961.md) ở *[A Short History of English Poetry](../A/A_Short_History_of_English_Poetry.md)*.
-- *[Sir Gawain and the Green Knight, Pearl and Sir Orfeo](Sir_Gawain_and_the_Green_Knight,_Pearl_and_Sir_Orfeo.md)* của [Tolkien](../J/J.R.R._Tolkien.md), một cuốn sách được xuất bản sau khi chết vào [1975](../_/1975.md), với bản dịch đầy đủ của bài thơ cùng với *Pearl* và *[Sir Orfeo](<Sir_Orfeo_(booklet).md>)*.
-- [Sir Gawain và Hiệp sĩ xanh (bài giảng)](<Sir_Gawain_and_the_Green_Knight_(lecture).md>), do [Tolkien](../J/J.R.R._Tolkien.md) trình bày trong [1953](../_/1953.md) như một phần của loạt [W.P. Ker Bài giảng](../W/W.P._Ker_Lecture.md) và sau đó được tái bản trong [Quái vật và Nhà phê bình, và các bài luận khác](../T/The_Monsters_and_the_Critics,_and_Other_Essays.md).
+- Khổ thơ 32 của *Sir Gawain and the Green Knight*, được dịch bởi [Tolkien](../J/J.R.R._Tolkien.md), một khung có trong [1961](../_/1961.md) ở *[A Short History of English Poetry](../A/A_Short_History_of_English_Poetry.md)*.
+- *[Sir Gawain and the Green Knight, Pearl and Sir Orfeo](Sir_Gawain_and_the_Green_Knight,_Pearl_and_Sir_Orfeo.md)* của [Tolkien](../J/J.R.R._Tolkien.md), một cuốn sách được xuất bản sau khi di cảo vào [1975](../_/1975.md), với bản dịch đầy đủ của bài thơ cùng với *Pearl* và *[Sir Orfeo](<Sir_Orfeo_(booklet).md>)*.
+- [Sir Gawain và Hiệp sĩ xanh (bài giảng)](<Sir_Gawain_and_the_Green_Knight_(lecture).md>), do [Tolkien](../J/J.R.R._Tolkien.md) trình bày trong [1953](../_/1953.md) như một phần của loạt [W.P. Ker Bài giảng](../W/W.P._Ker_Lecture.md) và sau đó được tái bản trong [Quái vật và Nhà phê bình cũng như các bài tiểu luận khác](../T/The_Monsters_and_the_Critics,_and_Other_Essays.md).
 
 <hr style="margin-top:15px;"/>
 

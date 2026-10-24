@@ -33,11 +33,11 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/N/NOLANOS_-_Helcaraxe.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ae/NOLANOS_-_Helcaraxe.jpg/250px-NOLANOS_-_Helcaraxe.jpg" decoding="async" loading="lazy" width="250" height="296" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ae/NOLANOS_-_Helcaraxe.jpg/375px-NOLANOS_-_Helcaraxe.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/ae/NOLANOS_-_Helcaraxe.jpg/500px-NOLANOS_-_Helcaraxe.jpg 2x" data-file-width="844" data-file-height="1000"/></a><figcaption><i>Helcaraxe</i> by <a href="../../category/I/Images_by_NOLANOS.md" title="Category:Images by NOLANOS">NOLANOS</a></figcaption></figure>
 
-**Ringil** là tên thanh kiếm của [Fingolfin](../F/Fingolfin.md), được cho là "lấp lánh như băng". Với nó, anh ta đã làm bị thương [Morgoth](../M/Morgoth.md) bảy lần trong [trận chiến đơn lẻ](../F/Fall_of_Fingolfin.md) sau [Dagor Bragollach](../D/Dagor_Bragollach.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ringil** là tên thanh kiếm của [Fingolfin](../F/Fingolfin.md), được cho là "lấp lánh như băng". Với nó, ông ta đã làm bị thương [Morgoth](../M/Morgoth.md) bảy lần trong [trận chiến đơn lẻ](../F/Fall_of_Fingolfin.md) sau [Dagor Bragollach](../D/Dagor_Bragollach.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Ringil* là tên [Quenya](../Q/Quenya.md), được phát triển từ *ringë* ("lạnh").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+*Ringil* là tên [Quenya](../Q/Quenya.md), được phát triển từ *ringë* ("lạnh lùng").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

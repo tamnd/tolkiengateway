@@ -14,7 +14,7 @@ images:
   - "Ashmolean_Exhibition_Poster.jpeg"
 ---
 
-Đã có rất nhiều **triển lãm** về cuộc đời và tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)và các triển lãm mới liên tục được tổ chức trên toàn thế giới. Dưới đây là danh sách một số trong số họ.
+Đã có rất nhiều **triển lãm** về cuộc đời và tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và các triển lãm mới liên tục được tổ chức trên toàn thế giới. Dưới đây là danh sách một số trong số họ.
 
 Nhiều [tài liệu chưa được xuất bản](../../index/U/Unpublished_material.md) của Tolkien (bài viết, bản vẽ, bản thảo...) lần đầu tiên được ra mắt công chúng thông qua các cuộc triển lãm này và được ghi lại cũng như bình luận trong danh mục tương ứng của chúng. Người ta có thể mong đợi được nhìn thấy nhiều tác phẩm hơn nữa trong các cuộc triển lãm trong những năm tới.
 
@@ -42,9 +42,9 @@ Nhiều [tài liệu chưa được xuất bản](../../index/U/Unpublished_mate
 
 - [1970](../_/1970.md) — Triển lãm Thánh Catherine
 
-- [1971](../_/1971.md) — Triển lãm của Đại học Bang Cleveland
+- [1971](../_/1971.md) — Triển lãm của Đại học bang Cleveland
 
-- [1976](../_/1976.md)-[1977](../_/1977.md) — "Bản vẽ của Tolkien" — (Bảo tàng Ashmolean, Oxford)
+- [1976](../_/1976.md)-[1977](../_/1977.md) — "Những bức vẽ của Tolkien" — (Bảo tàng Ashmolean, Oxford)
     - *Publication: [Drawings by Tolkien](<../D/Drawings_by_Tolkien_(exhibition_catalogue).md>)*
 
 - [1977](../_/1977.md) — Triển lãm Liên đoàn Sách Quốc gia
@@ -52,13 +52,13 @@ Nhiều [tài liệu chưa được xuất bản](../../index/U/Unpublished_mate
 - [1983](../_/1983.md) — "Bản thảo của J.R.R.T." — ([Đại học Marquette](../M/Marquette_University.md), Wisconsin)
     - *Publication: [The Manuscripts of J.R.R.T.](The_Manuscripts_of_J.R.R.T..md)*
 
-- [1987](../_/1987.md) — "J.R.R.Tolkien: The Hobbit Bản vẽ, màu nước và bản thảo" — (Đại học Marquette)
-    - *Xuất bản: [J.R.R. Tolkien: The Hobbit: Bản vẽ, Màu nước và Bản thảo](../J/J.R.R._Tolkien%253A_The_Hobbit.md)*
+- [1987](../_/1987.md) — "J.R.R.Tolkien: Những bức vẽ, màu nước và bản thảo của người Hobbit" — (Đại học Marquette)
+    - *Xuất bản: [J.R.R. Tolkien: The Hobbit: Drawings, Watercolors, and Manuscripts](../J/J.R.R._Tolkien%253A_The_Hobbit.md)*
 
 - [1987](../_/1987.md) — "Các lựa chọn từ Bộ sưu tập Marquette J.R.R. Tolkien" — (Đại học Marquette)
     - *Ấn bản: [Tuyển chọn từ Bộ sưu tập J.R.R. Tolkien Marquette](../S/Selections_from_the_Marquette_J.R.R._Tolkien_Collection.md)*
 
-- [1987](../_/1987.md) — "Các bức vẽ cho 'The Hobbit' của J.R.R. Tolkien" — ([Thư viện Bodleian](../B/Bodleian_Library.md), Oxford)
+- [1987](../_/1987.md) — "Các bức vẽ về 'Người Hobbit' của J.R.R. Tolkien" — ([Thư viện Bodleian](../B/Bodleian_Library.md), Oxford)
 
 ## Kể từ năm 1990 {#Since_1990}
 
@@ -71,17 +71,17 @@ Nhiều [tài liệu chưa được xuất bản](../../index/U/Unpublished_mate
 
 - [1992](../_/1992.md) — "The Oxford Inklings" — (Bảo tàng Oxford)
 
-- [2004](../_/2004.md) — "Những thế giới được phát minh của J.R.R. Tolkien" — (Bảo tàng nghệ thuật Haggerty, Đại học Marquette)
+- [2004](../_/2004.md) — "Thế giới được phát minh của J.R.R. Tolkien" — (Bảo tàng nghệ thuật Haggerty, Đại học Marquette)
     - *Ấn bản: [Những thế giới được phát minh của J.R.R. Tolkien](The_Invented_Worlds_of_J.R.R._Tolkien.md)*
 
-- [2018](../_/2018.md)-[2019](../_/2019.md) — "Tolkien: Maker of Middle-earth" — (Thư viện Bodleian) & (Thư viện Morgan, New York)
-    - *Ấn phẩm: [Tolkien: Maker of Middle-earth](Tolkien%253A_Maker_of_Middle-earth.md) & [Tolkien: Kho báu](Tolkien%253A_Treasures.md)*
+- [2018](../_/2018.md)-[2019](../_/2019.md) — "Tolkien: Người tạo ra Trung Địa" — (Thư viện Bodleian) & (Thư viện Morgan, New York)
+    - *Ấn bản: [Tolkien: Maker of Middle-earth](Tolkien%253A_Maker_of_Middle-earth.md) & [Tolkien: Kho báu](Tolkien%253A_Treasures.md)*
 
 - [2019](../_/2019.md) — "Hành trình ở Terre du Milieu" — (Paris)
-    - *Ấn phẩm: [Tolkien: Hành trình ở Terre du Milieu](Tolkien%253A_Voyage_en_Terre_du_Milieu.md)*
+    - *Xuất bản: [Tolkien: Voyage en Terre du Milieu](Tolkien%253A_Voyage_en_Terre_du_Milieu.md)*
 
 - [2022](../_/2022.md) — "J.R.R. Tolkien: Nghệ thuật viết tay" — (Bảo tàng nghệ thuật Haggerty, Đại học Marquette)
-    - *Xuất bản: [J.R.R. Tolkien: Nghệ thuật viết tay](../J/J.R.R._Tolkien%253A_The_Art_of_the_Manuscript.md)*
+    - *Xuất bản: [J.R.R. Tolkien: The Art of the Manuscript](../J/J.R.R._Tolkien%253A_The_Art_of_the_Manuscript.md)*
 - [2023](../_/2023.md) - "Tolkien - Uomo, Professore, Autore" — (Galleria Nazionale, Rome)
     - *Publication: [TOLKIEN - Uomo, Professore, Autore](TOLKIEN_-_Uomo,_Professore,_Autore.md)*
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oxford Poetry"
 ---
 
-Chuyển hướng đến [Oxford Thơ](Oxford_Poetry.md).
+Chuyển hướng đến [Thơ Oxford](Oxford_Poetry.md).

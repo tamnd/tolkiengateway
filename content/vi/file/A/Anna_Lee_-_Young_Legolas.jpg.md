@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*Young [Legolas](../../main/L/Legolas.md)* bởi [Anna Lee](../../main/A/Anna_Lee.md).
+*Young [Legolas](../../main/L/Legolas.md)* của [Anna Lee](../../main/A/Anna_Lee.md).
 
 ## Giấy phép {#Licensing}
 

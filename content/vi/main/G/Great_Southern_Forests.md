@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Taur-im-Duinath"
 ---
 
-Chuyển hướng đến [Taur-im-Duinath](../T/Taur-im-Duinath.md).
+Chuyển hướng tới [Taur-im-Duinath](../T/Taur-im-Duinath.md).

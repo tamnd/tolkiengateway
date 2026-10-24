@@ -34,7 +34,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hobitit_-_poster.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d8/Hobitit_-_poster.jpg/320px-Hobitit_-_poster.jpg" decoding="async" loading="lazy" width="320" height="450" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d8/Hobitit_-_poster.jpg/480px-Hobitit_-_poster.jpg 1.5x, https://tolkiengateway.net/w/images/d/d8/Hobitit_-_poster.jpg 2x" data-file-width="630" data-file-height="885"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hobitit</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data"><i><a href="#Cast_and_characters">see below</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1993.md" title="1993">1993</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt0441925" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
-**Hobitit** (tiếng Phần Lan: **Hobbit**) là một bộ phim truyền hình ngắn tập của Phần Lan dựa trên *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng vào [1993](../_/1993.md) gồm 9 tập trên <a class="extiw" href="http://en.wikipedia.org/wiki/YLE" title="wikipedia:YLE">YLE</a>.
+**Hobitit** (tiếng Phần Lan: **Hobbit**) là một bộ phim truyền hình ngắn tập của Phần Lan dựa trên *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng dưới dạng [1993](../_/1993.md) gồm 9 tập trên <a class="extiw" href="http://en.wikipedia.org/wiki/YLE" title="wikipedia:YLE">YLE</a>.
 
 Bộ truyện được viết và đạo diễn bởi Timo Torikka. Toni Edelmann sáng tác nhạc phim.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> *Hobitit* gồm chín tập, thời lượng 30 phút được phát sóng từ ngày 29 tháng 3 đến ngày 24 tháng 5 năm 1993. Các địa điểm quay phim bao gồm rạp *Ryhmäteatteri* ở Helsinki và cơ sở sản xuất của Yle.
 
@@ -50,17 +50,17 @@ Bộ truyện được viết và đạo diễn bởi Timo Torikka. Toni Edelman
 
 1. Bilbo
 2. Con đường ("Cà vạt")
-3. Khu Rừng Cổ ("Vanha metsä")
-4. Prancing Pony ("Pomppiva poni")
-5. Strider ("Konkari")
+3. Rừng Cũ ("Vanha metsä")
+4. Ngựa chồm lên ("Pomppiva poni")
+5. Người Sải Bước ("Konkari")
 6. Lórien
 7. Mordor
-8. Núi Doom ("Tuomiovuori")
+8. Núi Định Mệnh ("Tuomiovuori")
 9. Giải phóng ("Vapautus")
 
 ## Lô đồ {#Plot}
 
-Bộ phim kể về câu chuyện của [Frodo Baggins](../F/Frodo_Baggins.md) và [Samwise Gamgee](../S/Samwise_Gamgee.md) khi họ tiến tới Núi Doom để tiêu diệt [Chiếc nhẫn duy nhất](../O/One_Ring.md). Hầu hết câu chuyện khác - [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) hoành hành ở [Rohan](../R/Rohan.md) và [Gondor](../G/Gondor.md) - đã bị lược bỏ.
+Bộ truyện kể về câu chuyện của [Frodo Baggins](../F/Frodo_Baggins.md) và [Samwise Gamgee](../S/Samwise_Gamgee.md) khi họ tiến đến Mount Doom để tiêu diệt [One Ring](../O/One_Ring.md). Hầu hết câu chuyện còn lại - [Cuộc chiến nhẫn](../W/War_of_the_Ring.md) hoành hành ở [Rohan](../R/Rohan.md) và [Gondor](../G/Gondor.md) - đã bị lược bỏ.
 
 ## Diễn viên và nhân vật {#Cast_and_characters}
 

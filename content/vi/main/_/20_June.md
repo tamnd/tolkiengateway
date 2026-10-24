@@ -72,9 +72,9 @@ Sự kiện xảy ra vào ngày 20 tháng 6
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
     - [Sauron](../S/Sauron.md) [tấn công](../S/Sauron's_attack_on_Osgiliath.md) [Osgiliath](../O/Osgiliath.md). [Boromir](../B/Boromir.md) và [Faramir](../F/Faramir.md) bảo vệ cây cầu cho đến khi nó bị phá hủy.
-    - Cùng lúc đó [Thranduil](../T/Thranduil.md) bị tấn công và [Gollum](../G/Gollum.md) trốn thoát. [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) bắt đầu.
+    - Cùng lúc đó [Thranduil](../T/Thranduil.md) bị tấn công và [Gollum](../G/Gollum.md) trốn thoát. [Cuộc chiến nhẫn](../W/War_of_the_Ring.md) bắt đầu.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Mới Mặt Trăng<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - Trăng non<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

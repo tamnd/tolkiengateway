@@ -12,32 +12,32 @@ categories:
   - "Singers"
 ---
 
-**BardOfArda** là một TikToker và người sáng tạo nội dung, chuyên tạo các tiểu phẩm ngắn và bài hát nhại lại *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và [Legendarium](../L/Legendarium.md) của [Tolkien](../T/Tolkien.md). Anh ấy là biên tập viên của podcast Tolkien with Friends.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**BardOfArda** là một TikToker và người sáng tạo nội dung, chuyên tạo các tiểu phẩm ngắn và nhại bài hát về *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và [Legendarium](../L/Legendarium.md) của [Tolkien](../T/Tolkien.md). Ông là biên tập viên của podcast Tolkien with Friends.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-<br> Vào ngày 27 tháng 6 năm 2026, BardOfArda đã đăng lên YouTube một video ASMR dài 25 phút đọc trang của [Tolkien Gateway](../T/Tolkien_Gateway.md) [Rivendell](../R/Rivendell.md) trong khi kiểm tra tài liệu tham khảo và các liên kết liên quan.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<br> Vào ngày 27 tháng 6 năm 2026, BardOfArda đã đăng lên YouTube một video ASMR dài 25 phút đọc trang [Tolkien Gateway](../T/Tolkien_Gateway.md) [Rivendell](../R/Rivendell.md) trong khi kiểm tra tài liệu tham khảo và các liên kết liên quan.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-## Tolkien Bài hát và bài hát nhại liên quan {#Tolkien_Related_Songs_and_Parodies}
+## Bài hát và tác phẩm nhại liên quan đến Tolkien {#Tolkien_Related_Songs_and_Parodies}
 
-- Phiên bản “Chúng tôi không châm lửa” The Silmarillion
+- “Chúng tôi không châm lửa” Phiên bản Silmarillion
 - Eärendil là một người Wellerman
-- “Chào mừng đến với học bổng” (MCR Parody)
+- “Chào mừng đến với Hiệp hội” (MCR Parody)
 - “Hey There Goldberry” của Plain White Toms (nhại lại)
 - “Bài hát Durin” theo phong cách Johnny Cash
-- Đưa tôi về nhà, Đường rừng (Dãy Núi Sương Mù Nhại)
+- Đưa tôi về nhà, Đường rừng (Nhại dãy núi sương mù)
 - Radagast (Nhại lại Rasputin)
-- Phiên bản "Tôi sẽ là" Những Chiếc Nhẫn Quyền Năng
+- "Tôi sẽ là" Rings of Power Edition
 - The ShillMarillion: Vở nhạc kịch
 - Yo-Ho Pharazôn
 - Xa xa trên dãy núi sương mù New Jersey lạnh lẽo
-- Tom Bombadil Bài hát
-- Vua và Hoàng hậu của Númenor
-- Rồng-Helm
-- Oromë triệu tập Tiên tộc Đến Valinor
+- Bài hát của Tom Bombadil
+- Các vị vua và hoàng hậu của Númenor
+- Mũ Rồng
+- Oromë triệu hồi Yêu tinh đến Valinor
 - Mandos, Kẻ tạo ra sự diệt vong
 - Tôi chỉ là một kiểm lâm
-- Prancing Pony Song ca quán trọ
+- Song ca quán trọ ngựa chồm
 - Bài hát yêu thích của My Ol’ Gaffer
-- Đưa tôi đến The Shire (Nhại lại Creed)
+- Đưa tôi đến xứ Shire (Nhại lại Creed)
 
 ##### Tổng hợp một phần bài hát / rất ngắn {#Song_part_compilation_/_very_short}
 
@@ -49,7 +49,7 @@ categories:
 ##### Bìa {#Covers}
 
 - Bài hát Núi sương mù của Rankin/Bass
-- Frodo Cửu Ngón (Phiên bản ngắn)
+- Frodo Chín Ngón (Phiên bản ngắn)
 
 ## Liên kết ngoài {#External_links}
 

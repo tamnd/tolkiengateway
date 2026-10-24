@@ -31,9 +31,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Phòng Sản xuất đã đề nghị Tolkien phê duyệt thiết kế áo chống bụi cho *The Lord of the Rings*. Tolkien nói rằng anh ấy ước mình có thể chấp nhận các bản in thử áo khoác nhưng anh ấy không thể, gọi chúng thực sự là rất xấu. Anh ước gì mình được trao cơ hội sớm hơn để đưa ra những lời chỉ trích hiệu quả.
+Bộ phận Sản xuất đã yêu cầu Tolkien phê duyệt thiết kế áo chống bụi cho *The Lord of the Rings*. Tolkien cho biết anh ước mình có thể chấp nhận các bản thử nghiệm áo khoác nhưng anh không thể, gọi chúng thực sự là rất xấu. Anh ước gì mình được trao cơ hội sớm hơn để đưa ra những lời chỉ trích hiệu quả.
 
-Tolkien cho rằng ý kiến ​​của mình về chiếc áo khoác không quan trọng bằng việc phát hành cuốn sách càng sớm càng tốt. Nếu anh ta không liên quan gì đến việc đó thì anh ta sẽ không bận tâm, nhưng mô típ Nhẫn là của anh ta nên một số ít người quan tâm đến anh ta có thể nghi ngờ anh ta đã lên kế hoạch cho việc đó. Khi được hỏi, anh ấy gọi chiếc áo khoác là vô vị và chán nản, nhưng lại nghĩ rằng việc hỏi đó chỉ là hình thức. Anh ấy thà để mọi thứ như hiện tại còn hơn là trì hoãn thêm, nhưng nếu những thay đổi có thể được thực hiện ngay lập tức, anh ấy sẽ muốn một kiểu chữ tiêu đề khác.
+Tolkien cho rằng ý kiến ​​của ông về chiếc áo khoác kém quan trọng hơn nhiều so với việc phát hành cuốn sách càng sớm càng tốt. Nếu ông ta không liên quan gì đến nó thì ông ta sẽ không bận tâm, nhưng họa tiết Chiếc nhẫn là của ông ta nên một số ít người có liên quan có thể nghi ngờ ông ta đã lên kế hoạch cho việc đó. Khi được hỏi, ông gọi chiếc áo khoác là vô vị và chán nản, nhưng lại nghĩ rằng việc hỏi đó chỉ là hình thức. Ông thà để mọi thứ như hiện tại còn hơn là trì hoãn thêm, nhưng nếu những thay đổi có thể được thực hiện ngay lập tức, ông sẽ muốn một kiểu chữ tiêu đề khác.
 
 <br>
 

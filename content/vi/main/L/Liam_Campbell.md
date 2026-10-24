@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Campbell, Liam"
 ---
 
-**Liam Campbell** là một nhà văn và học giả độc lập đến từ Bắc Ireland. Ông có bằng Tiến sĩ về văn học Anh và đã giảng dạy cho Đại học Ulster và Cao đẳng Khu vực miền Bắc Phương Tây về văn học Anh và Viết sáng tạo.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Liam Campbell** là một nhà văn và học giả độc lập đến từ Bắc Ireland. Ông có bằng Tiến sĩ về văn học Anh và đã giảng dạy cho Đại học Ulster và Cao đẳng Khu vực Tây Bắc về văn học Anh và Viết sáng tạo.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục {#Bibliography}
 
@@ -29,7 +29,7 @@ sort_keys:
 ### Bài viết {#Articles}
 
 - [2010](../_/2010.md): *[Middle-earth and Beyond: Essays on the World of J.R.R. Tolkien](../M/Middle-earth_and_Beyond.md)*
-    - "Ông Bombadil bí ẩn: Vai trò của Tom Bombadil là Đại diện cho Thiên nhiên trong *The Lord of the Rings*"
+    - "Ông Bombadil bí ẩn: Vai trò của Tom Bombadil như một đại diện của thiên nhiên trong *The Lord of the Rings*"
 
 <span></span>
 

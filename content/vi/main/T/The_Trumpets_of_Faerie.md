@@ -16,7 +16,7 @@ sort_keys:
   "Unpublished material": "Trumpets of Faerie, The"
 ---
 
-**The Trumpets of Faerie** đề cập đến một tập [chưa xuất bản](../../index/U/Unpublished_material.md) gồm [thơ](../../index/P/Poems_by_J.R.R._Tolkien.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Tại [1916](../_/1916.md) Tolkien đã gửi bản gốc cho *Sidgwick &amp; Jackson*để xuất bản nhưng bị từ chối. Theo Douglas A. Anderson, Tolkien đã đề nghị nó cho Swan Press khi ông còn ở Leeds vào đầu những năm 1920 *"and was again turned down"*; và sau khi quay trở lại Oxford *'anh ấy đã cố gắng thêm một lần nữa, và vào mùa xuân năm 1926, nhà xuất bản Oxford Basil Blackwell đã từ chối'* .<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**The Trumpets of Faerie** đề cập đến một cuốn [chưa xuất bản](../../index/U/Unpublished_material.md) gồm [thơ](../../index/P/Poems_by_J.R.R._Tolkien.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Trong [1916](../_/1916.md) Tolkien đã gửi bản gốc cho *Sidgwick &amp; Jackson* để xuất bản nhưng bị từ chối. Theo Douglas A. Anderson, Tolkien đã đề nghị nó cho Swan Press khi ông còn ở Leeds vào đầu những năm 1920 *"and was again turned down"*; và sau khi quay lại Oxford *'ông đã cố gắng thêm một lần nữa, và vào mùa xuân năm 1926, nhà xuất bản Basil Blackwell ở Oxford đã từ chối'* .<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

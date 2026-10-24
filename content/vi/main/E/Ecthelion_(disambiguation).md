@@ -29,10 +29,10 @@ images:
 
 **Ecthelion** có thể đề cập đến:
 
-- **[Ecthelion](Ecthelion.md) (d. [F.A.](../F/First_Age.md) [510](../F/First_Age_510.md)), một [Tiên](../N/Noldor.md) của [Gondolin](../G/Gondolin.md), Chúa tể của [Ngôi nhà của Đài phun nước](../H/House_of_the_Fountain.md), và là người tiêu diệt [Balrog](../B/Balrogs.md) [Gothmog](<../G/Gothmog_(balrog).md>).**
-- [Ecthelion Tôi](Ecthelion_I.md) ([T.A.](../T/Third_Age.md) [2600](../T/Third_Age_2600.md) – [2698](../T/Third_Age_2698.md)), [Quản lý cầm quyền](../R/Ruling_Steward.md) thứ mười bảy của [Gondor](../G/Gondor.md).
-    - Tháp [Tháp Ecthelion](../T/Tower_of_Ecthelion.md), tòa tháp cao nhất của thủ đô [Gondor](../G/Gondor.md), [Minas Tirith](../M/Minas_Tirith.md), được xây dựng lại bởi [Ecthelion I](Ecthelion_I.md).
-- [Ecthelion II](Ecthelion_II.md) ([T.A.](../T/Third_Age.md) [2886](../T/Third_Age_2886.md) – [2984](../T/Third_Age_2984.md)), [Quản lý cầm quyền](../R/Ruling_Steward.md) thứ hai mươi lăm của [Gondor](../G/Gondor.md) và là ông nội của [Boromir](../B/Boromir.md) và [Faramir](../F/Faramir.md).
+- **[Ecthelion](Ecthelion.md) (mất. [F.A.](../F/First_Age.md) [510](../F/First_Age_510.md)), một [Yêu tinh](../N/Noldor.md) của [Gondolin](../G/Gondolin.md), Chúa tể của [House of the Fountain](../H/House_of_the_Fountain.md) và là người tiêu diệt [Balrog](../B/Balrogs.md) [Gothmog](<../G/Gothmog_(balrog).md>).**
+- [Ecthelion I](Ecthelion_I.md) ([T.A.](../T/Third_Age.md) [2600](../T/Third_Age_2600.md) – [2698](../T/Third_Age_2698.md)), [Quản lý cầm quyền](../R/Ruling_Steward.md) thứ mười bảy của [Gondor](../G/Gondor.md).
+    - [Tháp Ecthelion](../T/Tower_of_Ecthelion.md), tòa tháp cao nhất của thủ đô [Gondor](../G/Gondor.md), [Minas Tirith](../M/Minas_Tirith.md), được xây dựng lại bởi [Ecthelion I](Ecthelion_I.md).
+- [Ecthelion II](Ecthelion_II.md) ([T.A.](../T/Third_Age.md) [2886](../T/Third_Age_2886.md) – [2984](../T/Third_Age_2984.md)), [Quản lý cầm quyền](../R/Ruling_Steward.md) thứ 25 của [Gondor](../G/Gondor.md) và là ông nội của [Boromir](../B/Boromir.md) và [Faramir](../F/Faramir.md).
 
 <hr style="margin-top:15px;"/>
 

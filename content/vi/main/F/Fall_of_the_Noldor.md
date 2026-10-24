@@ -31,15 +31,15 @@ images:
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tuuliky_-_Alqualonde.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5d/Tuuliky_-_Alqualonde.jpg/300px-Tuuliky_-_Alqualonde.jpg" decoding="async" loading="lazy" width="300" height="386" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5d/Tuuliky_-_Alqualonde.jpg/450px-Tuuliky_-_Alqualonde.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5d/Tuuliky_-_Alqualonde.jpg/600px-Tuuliky_-_Alqualonde.jpg 2x" data-file-width="1945" data-file-height="2500"/></a><figcaption><i>Alqualonde</i> by <a href="../../category/I/Images_by_Tuuliky.md" title="Category:Images by Tuuliky">Tuuliky</a></figcaption></figure>
 
-**Sự sụp đổ của Noldor** hoặc **Sự sụp đổ của Tiên tộc** đề cập đến kết quả tội ác của những người Tiên này, phản ánh sự sụp đổ đầu tiên của [Con Người](../M/Men.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Sự sụp đổ của Noldor** hay **Sự sụp đổ của Yêu tinh** đề cập đến kết quả tội ác của tộc Elven này, phản ánh Sự sụp đổ đầu tiên của [Con người](../M/Men.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Khi [Fëanor](Fëanor.md) dẫn [Noldor](../N/Noldor.md) đến [Lưu vong](../E/Exile.md), anh ta đã đến nơi trú ẩn [Alqualondë](../A/Alqualondë.md) để lấy các con tàu của [Teleri](../T/Teleri.md). Khi lãnh chúa của họ [Olwë](../O/Olwë.md) từ chối, Fëanor đã dẫn đầu một cuộc tấn công được gọi là [Tàn sát họ hàng](../K/Kinslaying_at_Alqualondë.md), trong đó máu của nhiều Noldor và Teleri đã đổ ra, trước khi lên đường cùng những con tàu mà anh ta cần phải quay trở lại [Trung Địa](../M/Middle-earth.md).
+Khi [Fëanor](Fëanor.md) dẫn [Noldor](../N/Noldor.md) đến [Exile](../E/Exile.md), ông ta đã đến nơi trú ẩn của [Alqualondë](../A/Alqualondë.md) để có được các con tàu của [Teleri](../T/Teleri.md). Khi lãnh chúa [Olwë](../O/Olwë.md) của họ từ chối, Fëanor đã dẫn đầu một cuộc tấn công được gọi là [Kinslaying](../K/Kinslaying_at_Alqualondë.md), trong đó máu của nhiều người Noldor và Teleri đã đổ ra, trước khi rời đi với những con tàu mà ông ta cần để quay trở lại [Trung Địa](../M/Middle-earth.md).
 
-Vì sự kiện này nên [Valar](../V/Valar.md) đã lên án Noldor"ngã ngựa"; một sứ giả (có lẽ chính [Mandos](../M/Mandos.md)) đã xuất hiện với họ ở [Araman](../A/Araman.md) và tuyên bố [Sự diệt vong của Noldor](../D/Doom_of_Mandos.md) và nguyền rủa những ai không ăn năn.
+Vì sự kiện này, [Valar](../V/Valar.md) đã lên án Noldor "sa ngã"; một sứ giả (có lẽ chính là [Mandos](../M/Mandos.md)) đã xuất hiện với họ ở [Araman](../A/Araman.md) và tuyên bố [Sự diệt vong của Noldor](../D/Doom_of_Mandos.md) và nguyền rủa những ai không ăn năn.
 
-[Maglor](../M/Maglor.md) là con trai thứ hai của Fëanor, và có mặt tại Kinslaying, mặc dù lịch sử không ghi lại vai trò của anh ta trong trận chiến. Anh ấy cũng nổi tiếng là [nghệ sĩ biểu diễn](../M/Minstrels.md) và ca sĩ vĩ đại nhất trong Noldor, và sau đó anh ấy đã sáng tác một bài hát than thở về những mất mát ở Alqualondë. Tên của nó là *[Noldolantë](../N/Noldolantë.md)*, cái tên được dịch là "Sự sụp đổ của Noldor".
+[Maglor](../M/Maglor.md) là con trai thứ hai của Fëanor, và có mặt tại Kinslaying, mặc dù lịch sử không ghi lại vai trò của ông ta trong trận chiến. Ông cũng nổi tiếng là [minstrel](../M/Minstrels.md) và ca sĩ vĩ đại nhất của Noldor, và sau đó ông đã sáng tác một bài hát than thở về những mất mát ở Alqualondë. Tên của nó là *[Noldolantë](../N/Noldolantë.md)*, cái tên được dịch là "Sự sụp đổ của Noldor".
 
 <span></span>
 

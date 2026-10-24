@@ -60,7 +60,7 @@ infobox:
     - "Tolkien và Coleridge: Hành động và khao khát trong *[The Silmarillion](The_Silmarillion.md)*" của Adam Neikirk
     - "Trí tưởng tượng lãng mạn, lạ mắt và kalymma trong ‘[Về những câu chuyện cổ tích](../O/On_Fairy-stories~23735.md)’ của Tolkien R. Holmes
     - "'Phía sau cây': Tolkien, Nhà lãng mạn thần học Anh, & Trí tưởng tượng tuyệt vời" của Austin M. Freeman
-    - "'Các bài hát của anh ấy là những bài hát mạnh mẽ hơn': Sáng tạo thẩm mỹ, Sự mê hoặc và Sự siêu phàm của Wordsworthian trong Tolkien" của Brandon Wernette
+    - "'Các bài hát của ông là những bài hát mạnh mẽ hơn': Sáng tạo thẩm mỹ, Sự mê hoặc và Sự siêu phàm của Wordsworthian trong Tolkien" của Brandon Wernette
 - **Thiên nhiên và Du lịch**
     - "Bước vào Mordor: Tolkien và tác phẩm du ký lãng mạn" của Eva Lippold
     - "'Ngôn ngữ ma quái của Trái đất cổ đại': Tolkien, Địa chất và Thạch học lãng mạn" của Nick Groom

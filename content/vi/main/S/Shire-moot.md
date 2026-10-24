@@ -12,12 +12,12 @@ categories:
   - "The Shire"
 ---
 
-Một **Shire-moot** là một tập hợp [Hobbit](../H/Hobbits.md) được triệu tập bởi [Thain](../T/Thain.md) của Shire, người cũng là chủ nhân của Shire-moot. Đến cuối cuộc [Kỷ Đệ Tam](../T/Third_Age.md), cuộc tranh luận Shire chỉ diễn ra trong trường hợp khẩn cấp.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Shire-moot** là một tập hợp [Hobbit](../H/Hobbits.md) được triệu tập bởi [Thain](../T/Thain.md) của Shire, người cũng là chủ nhân của Shire-moot. Vào cuối [Thời đại thứ ba](../T/Third_Age.md), cuộc tranh luận ở Quận chỉ được tổ chức trong trường hợp khẩn cấp.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Shire-muster](Shire-muster.md)
-- [Công bằng miễn phí](../F/Free_Fair.md)
+- [Người tập hợp quận](Shire-muster.md)
+- [Hội chợ miễn phí](../F/Free_Fair.md)
 
 <span></span>
 

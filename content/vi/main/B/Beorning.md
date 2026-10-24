@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beornings"
 ---
 
-Chuyển hướng đến [Beornings](Beornings.md).
+Chuyển hướng đến [Buổi sáng](Beornings.md).

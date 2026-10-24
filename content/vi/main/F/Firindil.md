@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Finrod"
 ---
 
-Chuyển hướng đến [Finrod](Finrod.md).
+Chuyển hướng tới [Finrod](Finrod.md).

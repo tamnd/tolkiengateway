@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-**Fëanároion ([Pityafinwë](../../main/P/Pityafinwë.md) [Ambarussa](../../main/A/Ambarussa.md), sau này được gọi là [Amras/Amros](../../main/A/Amras.md))**, Valinorean time © Karolina Węgrzyn <a class="external free" href="http://www.sirielle.com/" rel="noreferrer noopener" target="_blank">http://www.sirielle.com/</a>
+**Fëanároion ([Pityafinwë](../../main/P/Pityafinwë.md) [Ambarussa](../../main/A/Ambarussa.md), sau này được gọi là [Amras/Amros](../../main/A/Amras.md))**, thời Valinorean © Karolina Węgrzyn <a class="external free" href="http://www.sirielle.com/" rel="noreferrer noopener" target="_blank">http://www.sirielle.com/</a>
 
 Được nghệ sĩ tải lên. Không sử dụng nó bên ngoài Tolkien Gateway mà không có sự cho phép của nghệ sĩ.
 

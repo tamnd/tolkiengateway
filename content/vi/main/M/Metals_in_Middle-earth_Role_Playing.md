@@ -17,7 +17,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Metals in Middle-earth Role Playing&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
-Để làm nổi bật bối cảnh, [Middle-earth Role Playing](Middle-earth_Role_Playing.md) giới thiệu nhiều loại kim loại mới lạ mắt ngoài <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bronze&amp;action=edit&amp;redlink=1" title="Bronze (page does not exist)">đồng</a>, [đồng](../C/Copper.md), [galvorn](../G/Galvorn.md), [vàng](../G/Gold.md), [sắt](../I/Iron.md), [mithril](Mithril.md), [bạc](../S/Silver.md) và [thép](../S/Steel.md).
+Để làm nổi bật bối cảnh, [Nhập vai Trung Địa](Middle-earth_Role_Playing.md) giới thiệu nhiều loại kim loại kỳ ảo mới ngoài <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bronze&amp;action=edit&amp;redlink=1" title="Bronze (page does not exist)">đồng</a>, [đồng](../C/Copper.md), [galvorn](../G/Galvorn.md), [vàng](../G/Gold.md), [sắt](../I/Iron.md), [mithril](Mithril.md), [bạc](../S/Silver.md) và [thép](../S/Steel.md).
 
 ## Adarcer {#Adarcer}
 
@@ -25,15 +25,15 @@ images:
 
 ## Cranor {#Cranor}
 
-<i><b>Crano</b></i> (“Cây-vàng”) là một loại nhựa được phát minh bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Daen&amp;action=edit&amp;redlink=1" title="Daen (page does not exist)">Daen</a> của [Dãy Núi Trắng](../W/White_Mountains.md) lưu trữ tĩnh điện. Chất cực kỳ cứng được tạo ra bằng nhựa Sorglasora (“Thông vàng”) và mật hoa Huệ trắng. Nó được sử dụng để chôn cất các thủ lĩnh người Dunnish.<sup id="cite_ref-firstpage_1-1" class="reference"><a href="#cite_note-firstpage-1">[1]</a></sup>
+<i><b>Crano</b></i> (“Cây-vàng”) là một loại nhựa được phát minh bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Daen&amp;action=edit&amp;redlink=1" title="Daen (page does not exist)">Daen</a> của [White Mountains](../W/White_Mountains.md) để lưu trữ tĩnh điện. Chất cực kỳ cứng được tạo ra bằng nhựa Sorglasora (“Thông vàng”) và mật hoa Huệ trắng. Nó được sử dụng để chôn cất các thủ lĩnh người Dunnish.<sup id="cite_ref-firstpage_1-1" class="reference"><a href="#cite_note-firstpage-1">[1]</a></sup>
 
 ## Eo {#Eog}
 
-<i><b>Eog</b></i> (<a class="new" href="https://tolkiengateway.net/w/index.php?title=Dursindarin&amp;action=edit&amp;redlink=1" title="Dursindarin (page does not exist)">Du.</a> “[Eöl](../E/Eöl.md)'s Iron” hoặc “Ang Eöl”) được mô tả là sự kết hợp giữa mithril và durang với các vật liệu khác chưa được biết đến. Công thức Tiên được cho là có nguồn gốc từ Nhà Eöl, yêu cầu rèn cả nóng và nguội. Vật liệu rất cứng có thể được làm với nhiều màu sắc.<sup id="cite_ref-firstpage_1-2" class="reference"><a href="#cite_note-firstpage-1">[1]</a></sup>
+<i><b>Eog</b></i> (<a class="new" href="https://tolkiengateway.net/w/index.php?title=Dursindarin&amp;action=edit&amp;redlink=1" title="Dursindarin (page does not exist)">Du.</a> “[Eöl](../E/Eöl.md)'s Iron” hoặc “Ang Eöl”) được mô tả là sự kết hợp giữa mithril và durang với các vật liệu khác chưa được biết đến. Công thức của Yêu tinh, được cho là có nguồn gốc từ Nhà Eöl, yêu cầu rèn cả nóng và nguội. Vật liệu rất cứng có thể được làm với nhiều màu sắc.<sup id="cite_ref-firstpage_1-2" class="reference"><a href="#cite_note-firstpage-1">[1]</a></sup>
 
 ## Ithilnaur {#Ithilnaur}
 
-<i><b>Ithilnaur</b></i> ([S.](../S/Sindarin.md) “Mặt Trăng-fire”) là hợp kim của mithril với các vật liệu khác như titan. Nó phổ biến ở [Moria](Moria.md).<sup id="cite_ref-secondpage_2-0" class="reference"><a href="#cite_note-secondpage-2">[2]</a></sup>
+<i><b>Ithilnaur</b></i> ([S.](../S/Sindarin.md) “Moon-fire”) là hợp kim của mithril với các vật liệu khác như titan. Nó phổ biến ở [Moria](Moria.md).<sup id="cite_ref-secondpage_2-0" class="reference"><a href="#cite_note-secondpage-2">[2]</a></sup>
 
 ## Kregora {#Kregora}
 
@@ -45,7 +45,7 @@ images:
 
 ## Ogamur {#Ogamur}
 
-<i><b>Ogamur</b></i> (S. “Từ <a class="new" href="https://tolkiengateway.net/w/index.php?title=Gamur&amp;action=edit&amp;redlink=1" title="Gamur (page does not exist)">Gamur</a>”) là một kim loại Người lùn rất linh hoạt. Công thức bắt nguồn từ một ngôi nhà Người lùn phía đông, là một bí mật được bảo vệ chặt chẽ. [Noldor](../N/Noldor.md) buộc phải mua nó vì điều này.<sup id="cite_ref-fourthpage_4-0" class="reference"><a href="#cite_note-fourthpage-4">[4]</a></sup>
+<i><b>Ogamur</b></i> (S. “Từ <a class="new" href="https://tolkiengateway.net/w/index.php?title=Gamur&amp;action=edit&amp;redlink=1" title="Gamur (page does not exist)">Gamur</a>”) là một loại kim loại của Người lùn rất linh hoạt. Công thức bắt nguồn từ một ngôi nhà Người lùn phía đông, là một bí mật được bảo vệ chặt chẽ. [Noldor](../N/Noldor.md) buộc phải mua nó vì điều này.<sup id="cite_ref-fourthpage_4-0" class="reference"><a href="#cite_note-fourthpage-4">[4]</a></sup>
 
 ## Tasarang {#Tasarang}
 

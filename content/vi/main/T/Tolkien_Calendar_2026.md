@@ -36,7 +36,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_2026.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3c/Tolkien_Calendar_2026.jpg/320px-Tolkien_Calendar_2026.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3c/Tolkien_Calendar_2026.jpg/480px-Tolkien_Calendar_2026.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3c/Tolkien_Calendar_2026.jpg/640px-Tolkien_Calendar_2026.jpg 2x" data-file-width="1499" data-file-height="1500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 2026</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/12_August.md" title="12 August">12 August</a> <a href="../_/2025.md" title="2025">2025</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">12</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0063443716" title="Special:BookSources/978-0063443716">978-0063443716</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2025.md" title="Tolkien Calendar 2025">Tolkien Calendar 2025</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2027.md" title="Tolkien Calendar 2027">Tolkien Calendar 2027</a></td></tr></tbody></table>
 
-Lịch <i><b>Tolkien 2026</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [12 tháng 8](../_/12_August.md) [2025](../_/2025.md). Nó có 13 bức tranh về ba "[Những câu chuyện vĩ đại](../G/Great_Tales.md)" của [Alan Lee](../A/Alan_Lee.md), bao gồm cả những bức tranh mới. Lee cũng đã viết lời giới thiệu.
+<i><b>Lịch Tolkien 2026</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [12 tháng 8](../_/12_August.md) [2025](../_/2025.md). Nó có 13 bức tranh về ba "[Những câu chuyện vĩ đại](../G/Great_Tales.md)" của [Alan Lee](../A/Alan_Lee.md), bao gồm cả những tác phẩm mới. Lee cũng đã viết lời giới thiệu.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -47,24 +47,24 @@ Lịch <i><b>Tolkien 2026</b></i> là lịch Tolkien chính thức được xu�
 
 ## Minh họa {#Illustrations}
 
-- Giới thiệu - "[Tuor đến với Hội trường Vinyamar](../../file/A/Alan_Lee_-_Tuor_comes_to_the_Halls_of_Vinyamar.png.md)"
-- [Tháng 1](../J/January.md) - "[Glorfindel và Balrog](../../file/A/Alan_Lee_-_Glorfindel_and_the_Balrog.jpg.md)" với [Đại Bàng bay phía trên những ngọn núi bao quanh](../../file/A/Alan_Lee_-_Eagles_fly_above_the_encircling_mountains.png.md)
-- [Tháng 2](../F/February.md) - "[Sự tàn phá của cây](../../file/A/Alan_Lee_-_The_Killing_of_the_Trees.jpg.md)"
-- [Tháng 3](../M/March.md) - "[Hội trường Menegroth](../../file/A/Alan_Lee_-_The_Halls_of_Menegroth.jpg.md)" kèm theo [Tinúviel khiêu vũ](../../file/A/Alan_Lee_-_Tinúviel_dancing.jpg.md)
-- [Tháng 4](../A/April.md) - "[Ngày Cổng Angband](../../file/A/Alan_Lee_-_The_Gates_of_Angband.png.md)"
-- [Tháng 5](../M/May.md) - "[Glaurung xuất phát từ Nargothrond](../../file/A/Alan_Lee_-_Glaurung_Departs_Nargothrond.jpg.md)"
+- Giới thiệu - "[Tuor đến Hội trường Vinyamar](../../file/A/Alan_Lee_-_Tuor_comes_to_the_Halls_of_Vinyamar.png.md)"
+- [Tháng 1](../J/January.md) - "[Glorfindel và Balrog](../../file/A/Alan_Lee_-_Glorfindel_and_the_Balrog.jpg.md)" với hình ảnh [Đại bàng bay trên những ngọn núi bao quanh](../../file/A/Alan_Lee_-_Eagles_fly_above_the_encircling_mountains.png.md)
+- [Tháng 2](../F/February.md) - "[Cây cối bị tàn phá](../../file/A/Alan_Lee_-_The_Killing_of_the_Trees.jpg.md)"
+- [Tháng 3](../M/March.md) - "[The Halls of Menegroth](../../file/A/Alan_Lee_-_The_Halls_of_Menegroth.jpg.md)" kèm hình ảnh [Tinúviel dance](../../file/A/Alan_Lee_-_Tinúviel_dancing.jpg.md)
+- [Tháng 4](../A/April.md) - "[Cánh cổng của Angband](../../file/A/Alan_Lee_-_The_Gates_of_Angband.png.md)"
+- [Tháng 5](../M/May.md) - "[Glaurung khởi hành từ Nargothrond](../../file/A/Alan_Lee_-_Glaurung_Departs_Nargothrond.jpg.md)"
 - [Tháng 6](../J/June.md) - "[Beleg khởi hành từ Menegroth](../../file/A/Alan_Lee_-_Beleg_Departs_from_Menegroth.jpg.md)"
 - [Tháng 7](../J/July.md) - "[Bài hát của Tinúviel](../../file/A/Alan_Lee_-_The_Song_of_Tinúviel.jpg.md)"
-- [Tháng 8](../A/August.md) - "[Ulmo Xuất hiện trước Tuor](../../file/A/Alan_Lee_-_Ulmo_Appears_Before_Tuor.jpg.md)"
-- [tháng Chín](../S/September.md) - "[Tevildo nhìn thấy Tinúviel](../../file/A/Alan_Lee_-_Tevildo_catches_sight_of_Tinúviel.jpg.md)"
+- [Tháng 8](../A/August.md) - "[Ulmo xuất hiện trước Tuor](../../file/A/Alan_Lee_-_Ulmo_Appears_Before_Tuor.jpg.md)"
+- [Tháng 9](../S/September.md) - "[Tevildo nhìn thấy Tinúviel](../../file/A/Alan_Lee_-_Tevildo_catches_sight_of_Tinúviel.jpg.md)"
 - [Tháng 10](../O/October.md) - "[Sự xuất hiện của Glaurung](../../file/A/Alan_Lee_-_The_Coming_of_Glaurung.jpg.md)"
 - [Tháng 11](../N/November.md) - "[Kéo cầu vồng](../../file/A/Alan_Lee_-_The_Rainbow_Cleft.jpg.md)"
 - [Tháng 12](../D/December.md) - "[Ngôi sao của hy vọng cao](../../file/A/Alan_Lee_-_The_Star_of_High_Hope.jpg.md)"
-- [2027](../_/2027.md) - "[Túrin và Rồng](../../file/A/Alan_Lee_-_Túrin_and_the_Dragon.png.md)"
+- [2027](../_/2027.md) - "[Túrin và con rồng](../../file/A/Alan_Lee_-_Túrin_and_the_Dragon.png.md)"
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.harpercollins.com/products/tolkien-calendar-2026-j-r-r-tolkien?variant=43731407765538" rel="noreferrer noopener" target="_blank">Tolkien Lịch 2026</a> lúc HarperCollins
+- <a class="external text" href="https://www.harpercollins.com/products/tolkien-calendar-2026-j-r-r-tolkien?variant=43731407765538" rel="noreferrer noopener" target="_blank">Lịch Tolkien 2026</a> tại HarperCollins
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

@@ -37,7 +37,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/David_T._Wenzel_-_Fifteen_birds_in_five_Firtrees.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d5/David_T._Wenzel_-_Fifteen_birds_in_five_Firtrees.jpeg/400px-David_T._Wenzel_-_Fifteen_birds_in_five_Firtrees.jpeg" decoding="async" loading="lazy" width="400" height="288" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d5/David_T._Wenzel_-_Fifteen_birds_in_five_Firtrees.jpeg/600px-David_T._Wenzel_-_Fifteen_birds_in_five_Firtrees.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d5/David_T._Wenzel_-_Fifteen_birds_in_five_Firtrees.jpeg/800px-David_T._Wenzel_-_Fifteen_birds_in_five_Firtrees.jpeg 2x" data-file-width="1522" data-file-height="1097"/></a><figcaption>The <a href="../O/Orcs.md" title="Orcs">Goblins</a> singing - Art by <a href="../D/David_T._Wenzel.md" title="David T. Wenzel">David T. Wenzel</a> for <a href="../T/The_Hobbit_(comic_book).md" title="The Hobbit (comic book)"><i>The Hobbit</i> (comic book)</a></figcaption></figure>
 
-**Mười lăm con chim trên năm cây linh sam** là dòng đầu tiên của bài thơ nằm trong chương "[Từ chảo rán vào lửa](../O/Out_of_the_Frying-Pan_into_the_Fire.md)" của *[The Hobbit](../T/The_Hobbit.md)*. Nó được [Goblin](../G/Goblins.md) hát để chế nhạo [Gandalf](../G/Gandalf.md), [Bilbo](../B/Bilbo_Baggins.md) và [mười ba Người Lùn](../T/Thorin_and_Company.md) trong khi Goblin đang đốt những cái cây nơi họ trú ẩn khỏi [bầy sói hoang](../W/Wargs.md).
+**Mười lăm con chim trên năm cây linh sam** là dòng đầu tiên của bài thơ nằm trong chương "[Từ chảo rán vào lửa](../O/Out_of_the_Frying-Pan_into_the_Fire.md)" của *[The Hobbit](../T/The_Hobbit.md)*. Bài hát được [Yêu tinh](../G/Goblins.md) hát để chế nhạo [Gandalf](../G/Gandalf.md), [Bilbo](../B/Bilbo_Baggins.md) và [mười ba Người lùn](../T/Thorin_and_Company.md) trong khi Yêu tinh đang đốt cháy những cái cây nơi họ trú ẩn khỏi [bầy sói hoang](../W/Wargs.md).
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -53,13 +53,13 @@ fry them, boil them and eat them hot?
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>Người Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>The <a href="../O/Orcs.md" title="Orcs">Goblins</a> sing a version of the song while they chase <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a>. It is titled &#34;<a href="Funny_Little_Things.md" title="Funny Little Things">Funny Little Things</a>&#34; on <a href="../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md" title="The Hobbit: The Complete Original Soundtrack">the soundtrack</a>.</dd></dl>
 
 ## Xem thêm {#See_also}
 
-- [Bài thơ trong The Hobbit](../P/Poems_in_The_Hobbit.md)
+- [Bài thơ trong Người Hobbit](../P/Poems_in_The_Hobbit.md)
 
 <span></span>
 

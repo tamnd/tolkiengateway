@@ -22,7 +22,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Tim</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Tim_(disambiguation).md" title="Tim (disambiguation)">Tim (disambiguation)</a></b>.</div></div>
 
-**Tim**, được cho là "[chú](../U/Unusual_words.md)" của [Tom](<Tom_(The_Stone_Troll).md>), chỉ được nhắc đến trong câu thơ do [Sam Gamgee](../S/Samwise_Gamgee.md) sáng tác. Trong bài thơ, Tom gặp phải một con [troll](../S/Stone-trolls.md) già, gặm nhấm xương ống chân của Tim suốt nhiều năm và Tom yêu cầu thả nó xuống.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Rất có thể, Tim chỉ là phát minh của [Sam](../S/Sam.md).<sup id="cite_ref-RF_3-0" class="reference"><a href="#cite_note-RF-3">[3]</a></sup>
+**Tim**, được cho là "[chú](../U/Unusual_words.md)" của [Tom](<Tom_(The_Stone_Troll).md>), chỉ được nhắc đến trong câu thơ do [Sam Gamgee](../S/Samwise_Gamgee.md) sáng tác. Trong bài thơ, Tom gặp phải một con [troll](../S/Stone-trolls.md) già, gặm nhấm xương ống chân của Tim suốt nhiều năm và Tom yêu cầu thả nó xuống.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Rất có thể Tim chỉ là phát minh của [Sam](../S/Sam.md).<sup id="cite_ref-RF_3-0" class="reference"><a href="#cite_note-RF-3">[3]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -33,9 +33,9 @@ images:
 <tr align="center"><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a class="mw-redirect" href="Tom_(character_from_The_Stone_Troll).md" title="Tom (character from The Stone Troll)">Tom</a></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td></tr><tr align="center"></tr>
 </tbody></table></div>
 
-[Pauline Baynes](../P/Pauline_Baynes.md) người minh họa *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)*, miêu tả Tom, người đã đá con troll bằng *boots*của mình, là [Tom Bombadil](Tom_Bombadil.md); mặc dù cái tên này có lẽ là chung chung nhất và không có bằng chứng nào cho thấy tác giả dự định Tom trở thành Bombadil, vì việc có chú và cha sẽ là điều vô lý.
+[Pauline Baynes](../P/Pauline_Baynes.md) người minh họa *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)*, miêu tả Tom, người đã đá con troll bằng *boots* của mình, là [Tom Bombadil](Tom_Bombadil.md); mặc dù cái tên này có lẽ là chung chung nhất và không có bằng chứng nào cho thấy tác giả dự định Tom trở thành Bombadil, vì việc có chú và cha sẽ là điều vô lý.
 
-[Robert Foster](../R/Robert_Foster.md) xem xét khả năng Tom bằng cách nào đó đã được mô phỏng theo Bombadil, vì Sam đã sáng tác bài thơ ngay sau cuộc gặp của họ.<sup id="cite_ref-RF_3-1" class="reference"><a href="#cite_note-RF-3">[3]</a></sup>
+[Robert Foster](../R/Robert_Foster.md) cân nhắc khả năng Tom bằng cách nào đó đã được mô phỏng theo Bombadil, vì Sam đã sáng tác bài thơ ngay sau cuộc gặp của họ.<sup id="cite_ref-RF_3-1" class="reference"><a href="#cite_note-RF-3">[3]</a></sup>
 
 <span></span>
 

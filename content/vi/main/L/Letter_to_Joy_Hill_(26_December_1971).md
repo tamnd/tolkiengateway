@@ -17,7 +17,7 @@ sort_keys:
 
 Vào [26 tháng 12](../_/26_December.md) [1971](../_/1971.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Joy Hill](../J/Joy_Hill.md)**.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 
-- **Chủ đề:** Tolkien viết rằng anh ấy đã đeo một món quà từ Joy vào Ngày Giáng sinh "với hiệu ứng rực rỡ". Ông ký tên vào chữ "J.R.R.T" và lưu ý rằng những người cùng thời với ông thường viết tên viết tắt của ông là "JR<sup>2</sup>T" và phát âm chúng "vần với *dirt*".<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+- **Chủ đề:** Tolkien viết rằng ông đã đeo một món quà từ Joy vào Ngày Giáng sinh "với hiệu ứng rực rỡ". Ông ký tên vào chữ "J.R.R.T" và lưu ý rằng những người cùng thời với ông thường viết tên viết tắt của ông là "JR<sup>2</sup>T" và phát âm chúng "vần với *dirt*".<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 
 <span></span>
 

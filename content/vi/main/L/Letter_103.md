@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Sau khi được bầu vào chức Giáo sư Ngôn ngữ và Văn học Anh tại Merton, Tolkien trở thành Giáo sư của <a class="extiw" href="http://en.wikipedia.org/wiki/Merton_College,_Oxford" title="wikipedia:Merton College, Oxford">Merton College</a>. Sau khi trúng tuyển, Tolkien cho biết, anh đã phải trải qua Cuộc họp Đại học kinh khủng nhất mà anh từng chứng kiến. Anh ấy đã nhập tên của mình để mua nhà ở trường đại học và nhận được Master Key của mình cho tất cả các cổng và cửa ra vào. Anh ấy nói, thật không thể tin được khi thuộc về một trường đại học thực sự, một trường lớn và giàu có. Anh ấy đi dạo cùng [Dyson](../H/Hugo_Dyson.md), người cũng vừa được bầu và nhận được những căn phòng mà Tolkien mong muốn.
+Sau khi được bầu vào chức Giáo sư Ngôn ngữ và Văn học Anh tại Merton, Tolkien trở thành Giáo sư của <a class="extiw" href="http://en.wikipedia.org/wiki/Merton_College,_Oxford" title="wikipedia:Merton College, Oxford">Merton College</a>. Tolkien cho biết sau khi được nhận vào học, anh đã phải trải qua Cuộc họp Đại học ghê gớm nhất mà anh từng chứng kiến. Ông đã nhập tên của mình để mua nhà ở trường đại học và nhận được Master Key của mình cho tất cả các cổng và cửa ra vào. Ông nói, thật không thể tin được khi thuộc về một trường đại học thực sự, một trường lớn và giàu có. Ông đi dạo xung quanh với [Dyson](../H/Hugo_Dyson.md), người cũng vừa được bầu và nhận được những căn phòng mà Tolkien mong muốn.
 
 <br>
 

@@ -71,14 +71,14 @@ Sự kiện xảy ra vào ngày 30 tháng 11
 - **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 175](../L/Letter_175.md).
 - **[1958](1958.md)** - Diễn viên [Gareth Jones](../G/Gareth_Jones.md) qua đời.
 - **[1964](1964.md)** - *[El hobito](../E/El_hobito.md)*, bản dịch đầu tiên sang tiếng Tây Ban Nha của *[The Hobbit](../T/The_Hobbit.md)*, được xuất bản.
-- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thực hiện một [cuộc phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md), được xuất bản dưới tên "[Người đàn ông hiểu biết Hobbit](../T/The_Man_Who_Understands_Hobbits.md)".
+- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thực hiện một [cuộc phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md), được xuất bản với tiêu đề "[Người hiểu biết về người Hobbit](../T/The_Man_Who_Understands_Hobbits.md)".
 - **[1966](1966.md)** - *[Letters to an American Lady](../L/Letters_to_an_American_Lady.md)* được phát hành.
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 345](../L/Letter_345.md).
-- <b><a href="1987.md" title="1987">1987</a> - <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> được xuất bản tại Hoa Kỳ.</b>
-- <b><a href="1989.md" title="1989">1989</a> - <i><a href="../T/The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a></i> được xuất bản ở Hoa Kỳ.</b>
+- <b><a href="1987.md" title="1987">1987</a> - <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">Con đường đã mất và những bài viết khác</a></i> được xuất bản ở Mỹ.</b>
+- <b><a href="1989.md" title="1989">1989</a> - <i><a href="../T/The_Treason_of_Isengard.md" title="The Treason of Isengard">The Reason of Isengard</a></i> được xuất bản ở Mỹ.</b>
 - **[1989](1989.md)** - *[Oliphaunt](<../O/Oliphaunt_(book).md>)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

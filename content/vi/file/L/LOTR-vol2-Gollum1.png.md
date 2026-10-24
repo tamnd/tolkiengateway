@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Gollum](../../main/G/Gollum.md) trong hang động của mình ở [The Lord of the Rings, Tập. II: The Two Towers](../../main/T/The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md).
+[Gollum](../../main/G/Gollum.md) trong hang động của mình ở [The Lord of the Rings, Vol. II: The Two Towers](../../main/T/The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md).
 
 ## Giấy phép {#Licensing}
 

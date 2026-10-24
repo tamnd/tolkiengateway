@@ -23,7 +23,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Darkness</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../D/Dark_(disambiguation).md" title="Dark (disambiguation)">Dark (disambiguation)</a></b>.</div></div>
 
-**Nether Bóng Tối** đề cập đến cực nam của [Arda](../A/Arda.md). Vào [Kỷ nguyên thứ hai](../S/Second_Age.md), [người Númenor](Númenóreans.md) đến Nether Bóng Tối bằng đường biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó có lẽ không có người ở và, như tên cho thấy, dường như không được thắp sáng bởi [Mặt Trời](../S/Sun.md) và [Mặt Trăng](../M/Moon.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+**Bóng tối Nether** đề cập đến cực nam của [Arda](../A/Arda.md). Vào [Kỷ nguyên thứ hai](../S/Second_Age.md), [Númenóreans](Númenóreans.md) đến Bóng tối Nether bằng đường biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nơi đây có lẽ không có người ở và, như tên cho thấy, dường như không được chiếu sáng bởi [Mặt trời](../S/Sun.md) và [Mặt trăng](../M/Moon.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

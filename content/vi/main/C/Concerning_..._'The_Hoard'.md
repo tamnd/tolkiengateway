@@ -26,9 +26,9 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Concerning_..._&#39;The_Hoard&#39;.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/31/J.R.R._Tolkien_-_Concerning_..._%27The_Hoard%27.jpg/300px-J.R.R._Tolkien_-_Concerning_..._%27The_Hoard%27.jpg" decoding="async" loading="lazy" width="300" height="134" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/31/J.R.R._Tolkien_-_Concerning_..._%27The_Hoard%27.jpg/450px-J.R.R._Tolkien_-_Concerning_..._%27The_Hoard%27.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/31/J.R.R._Tolkien_-_Concerning_..._%27The_Hoard%27.jpg/600px-J.R.R._Tolkien_-_Concerning_..._%27The_Hoard%27.jpg 2x" data-file-width="3000" data-file-height="1343"/></a><figcaption>Scan from the <a href="../_/16_July.md" title="16 July">16 July</a> <a href="../_/2022.md" title="2022">2022</a> auction</figcaption></figure>
 
-**Liên quan đến ... 'The Hoard'** là tựa đề một bản thảo của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được ông đính kèm trong [1964 bức thư gửi Eileen Elgar](<../L/Letter_to_Eileen_Elgar_(5_March_1964).md>) (cùng với [Mối quan hệ họ hàng của Half-elven](../K/Kinship_of_the_Half-elven.md)).
+**Liên quan đến ... 'The Hoard'** là tựa đề một bản thảo của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được ông đính kèm trong một [bức thư năm 1964 gửi cho Eileen Elgar](<../L/Letter_to_Eileen_Elgar_(5_March_1964).md>) (cùng với [Mối quan hệ họ hàng của Half-elven](../K/Kinship_of_the_Half-elven.md)).
 
-Bản thảo gồm chín trang, đưa ra một phác thảo về '[The Silmarillion](../T/The_Silmarillion.md)' bằng cách liên hệ bài thơ *[The Hoard](../T/The_Hoard.md)* của ông với tác phẩm vẫn chưa được xuất bản này. Một đoạn trích từ bản thảo xuất hiện trong *[Sotheby's English Literature and English History 6-7 December 1984](../S/Sotheby's_English_Literature_and_English_History_6-7_December_1984.md)*và được sao chép vào [*Beyond Bree* tháng 5 năm 1985](../B/Beyond_Bree_May_1985.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-Plaza_3-0" class="reference"><a href="#cite_note-Plaza-3">[3]</a></sup>
+Bản thảo gồm chín trang, đưa ra một phác thảo về '[The Silmarillion](../T/The_Silmarillion.md)' bằng cách liên hệ bài thơ *[The Hoard](../T/The_Hoard.md)* của ông với tác phẩm vẫn chưa được xuất bản này. Một đoạn trích từ bản thảo xuất hiện trong *[Sotheby's English Literature and English History 6-7 December 1984](../S/Sotheby's_English_Literature_and_English_History_6-7_December_1984.md)* và được sao chép vào [*Beyond Bree* tháng 5 năm 1985](../B/Beyond_Bree_May_1985.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-Plaza_3-0" class="reference"><a href="#cite_note-Plaza-3">[3]</a></sup>
 
 Viết về bản thảo, [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](Christina_Scull.md) đã nhận xét rằng:
 
@@ -38,7 +38,7 @@ Viết về bản thảo, [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Chri
 </p>
 </blockquote>
 
-Vào [16 tháng 7](../_/16_July.md) [2022](../_/2022.md), bản thảo đã được bán đấu giá cùng với bản thảo "Mối quan hệ họ hàng của một nửa yêu tinh" và bức thư gửi cho Eileen Elgar.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Vào [12 tháng Chín](../_/12_September.md) [2025](../_/2025.md), phần bản thảo liên quan đến *[The Hoard](../T/The_Hoard.md)* đã được xuất bản một phần trong phần bình luận cho mục 69 trong *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Vào [16 tháng 7](../_/16_July.md) [2022](../_/2022.md), bản thảo đã được bán đấu giá cùng với bản thảo "Mối quan hệ họ hàng của một nửa yêu tinh" và bức thư gửi cho Eileen Elgar.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Vào [ngày 12 tháng 9](../_/12_September.md) [2025](../_/2025.md), phần bản thảo liên quan đến *[The Hoard](../T/The_Hoard.md)* đã được xuất bản một phần trong phần bình luận cho mục 69 trong *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Trích xuất {#Extract}
 
@@ -51,12 +51,12 @@ Vào [16 tháng 7](../_/16_July.md) [2022](../_/2022.md), bản thảo đã đư
 
 - <a class="external text" href="https://www.tolkienguide.com/modules/newbb/viewtopic.php?topic_id=4547" rel="noreferrer noopener" target="_blank">Bài viết bằng tiếng Ý về "Liên quan đến... Kho tích trữ."</a> tại TolkienGuide.com<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[note 1]</a></sup>
 - <a class="external text" href="https://docs.google.com/document/d/19bpWIzJcXdAmWsmo06t6lqmpICUyc9C9SIISmd8laFM/edit" rel="noreferrer noopener" target="_blank">Bản dịch của "Concerning... The Hoard"</a>
-- Bài viết bằng tiếng Pháp có tựa đề <i><a class="external text" href="https://www.tolkiendil.com/tolkien/etudes/concernant_le_tresor" rel="noreferrer noopener" target="_blank">"Liên quan đến... Kho tích trữ" hoặc cách một lá thư biến đổi The Silmarillion</a></i> phân tích nội dung của bức thư và hậu quả của nó đối với *[The Silmarillion](../T/The_Silmarillion.md)*, của Vivien Stocker trên [Tolkiendil](<../T/Tolkiendil_(Tolkien_society).md>).
+- Bài viết bằng tiếng Pháp có tựa đề <i><a class="external text" href="https://www.tolkiendil.com/tolkien/etudes/concernant_le_tresor" rel="noreferrer noopener" target="_blank">"Liên quan đến... The Hoard" hoặc cách một lá thư biến đổi The Silmarillion</a></i> phân tích nội dung bức thư và hậu quả của nó đối với *[The Silmarillion](../T/The_Silmarillion.md)*, của Vivien Stocker trên [Tolkiendil](<../T/Tolkiendil_(Tolkien_society).md>).
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Liên kết này dẫn đến một chủ đề diễn đàn liên quan đến Tolkien, trong đó một người đã cung cấp liên kết tới một bài báo đã dịch thảo luận về lịch sử bản thảo của <i>Liên quan đến ... 'The Hoard'</i> và các bản thảo liên quan trước khi nó được biết đến nhờ <a href="https://tolkiengateway.net/wiki/Talk:Concerning_..._%27The_Hoard%27" title="Talk:Concerning ... &#39;The Hoard&#39;">bản phiên âm</a> của nó.</span>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Liên kết này dẫn đến một chủ đề diễn đàn liên quan đến Tolkien, trong đó một người đã cung cấp liên kết đến một bài báo đã dịch thảo luận về lịch sử bản thảo của <i>Liên quan đến ... 'The Hoard'</i> và các bản thảo liên quan trước khi nó được biết đến nhờ <a href="https://tolkiengateway.net/wiki/Talk:Concerning_..._%27The_Hoard%27" title="Talk:Concerning ... &#39;The Hoard&#39;">bản phiên âm</a> của nó.</span>
 </li>
 </ol></div></span>
 

@@ -14,17 +14,17 @@ images:
   - "Disambig.png"
 ---
 
-**Nimrodel** có thể tham khảo:
+**Nimrodel** có thể đề cập đến:
 
-## Trung Địa {#Middle-earth}
+## Trung địa {#Middle-earth}
 
-- [Nimrodel](Nimrodel.md), một [Silvan](../S/Silvan_Elves.md) [Tiên](../E/Elves.md) từ [Lothlórien](../L/Lothlórien.md) bị lạc trong quá trình tìm kiếm [người yêu của mình](../A/Amroth.md).
-    - *[Lay of Nimrodel](../L/Lay_of_Nimrodel.md)*, lời nói về sự mất mát và tình yêu của cô dành cho [Amroth](../A/Amroth.md), được [Legolas](../L/Legolas.md) hát một phần trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*.
-- [Nimrodel (sông)](<Nimrodel_(river).md>), sông có [Lothlórien](../L/Lothlórien.md). Không rõ dòng sông hay Tiên đến trước.
+- [Nimrodel](Nimrodel.md), một [Silvan](../S/Silvan_Elves.md) [Yêu tinh](../E/Elves.md) đến từ [Lothlórien](../L/Lothlórien.md), người đang tìm kiếm [người yêu của mình](../A/Amroth.md).
+    - *[Lay of Nimrodel](../L/Lay_of_Nimrodel.md)*, lời nói về sự mất mát và tình yêu của cô dành cho [Amroth](../A/Amroth.md), được hát một phần bởi [Legolas](../L/Legolas.md) trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*.
+- [Nimrodel (sông)](<Nimrodel_(river).md>), sông [Lothlórien](../L/Lothlórien.md). Không rõ dòng sông hay Yêu tinh đến trước.
 
 ## Các bản chuyển thể {#Adaptations}
 
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Falls_of_Nimrodel&amp;action=edit&amp;redlink=1" title="The Falls of Nimrodel (page does not exist)">Thác nước Nimrodel</a></i>, đường đua trên *[The Lord of the Rings Online: Mines of Moria (soundtrack)](<../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria_(soundtrack).md>)* của [Chance Thomas](../C/Chance_Thomas.md).
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Falls_of_Nimrodel&amp;action=edit&amp;redlink=1" title="The Falls of Nimrodel (page does not exist)">Thác Nimrodel</a></i>, đường đua trên *[The Lord of the Rings Online: Mines of Moria (soundtrack)](<../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria_(soundtrack).md>)* của [Chance Thomas](../C/Chance_Thomas.md).
 
 ## Truyền thông đại chúng {#Popular_Media}
 

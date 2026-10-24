@@ -11,4 +11,4 @@ redirect_target: "The Golden Key"
 redirect_fragment: "Tolkien's draft introduction"
 ---
 
-Chuyển hướng đến [The Golden Key](The_Golden_Key.md#Tolkien's_draft_introduction).
+Chuyển hướng đến [Chìa khóa vàng](The_Golden_Key.md#Tolkien's_draft_introduction).

@@ -16,7 +16,7 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_470.md" title="First Age 470">470</a><a href="First_Age_471.md" title="First Age 471">471</a><a href="First_Age_472.md" title="First Age 472">472</a><a class="mw-selflink selflink">473</a><a href="First_Age_481.md" title="First Age 481">481</a><a href="First_Age_484.md" title="First Age 484">484</a><a href="First_Age_485.md" title="First Age 485">485</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Nhất 473** (viết tắt là **F.A. 473**) là năm [thứ 473 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ nguyên thứ nhất 473** (viết tắt là **F.A. 473**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 473 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
@@ -27,9 +27,9 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Không xác định {#Unknown}
 
-- [Morgoth](../M/Morgoth.md) gửi một lực tới [Brithombar](../B/Brithombar.md) và [Eglarest](../E/Eglarest.md) bị [sau đó bị tiêu diệt](Fall_of_the_Falas.md) và [Barad Nimras](../B/Barad_Nimras.md) bị hạ gục.<sup id="cite_ref-S_2-0" class="reference"><a href="#cite_note-S-2">[2]</a></sup>
-- [Círdan](../C/Círdan.md), [Gil-galad](../G/Gil-galad.md) và những người sống sót khác rút lui về [Đảo Balar](../I/Isle_of_Balar.md) nhưng vẫn giữ căn cứ tại [Cửa sông Sirion](../M/Mouths_of_Sirion.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
-- Círdan đóng bảy con tàu và [Turgon](../T/Turgon.md) gửi chúng [Valinor](../V/Valinor.md) để yêu cầu giúp đỡ. Tất cả đều mất tích ngoại trừ [Voronwë](../V/Voronwë.md), người bị dạt vào bờ biển ở [Nevrast](../N/Nevrast.md).<sup id="cite_ref-S_2-1" class="reference"><a href="#cite_note-S-2">[2]</a></sup>
+- [Morgoth](../M/Morgoth.md) cử một lực lượng đến [Brithombar](../B/Brithombar.md) và [Eglarest](../E/Eglarest.md), những nơi này [sau đó bị tiêu diệt](Fall_of_the_Falas.md) và [Barad Nimras](../B/Barad_Nimras.md) bị hạ gục.<sup id="cite_ref-S_2-0" class="reference"><a href="#cite_note-S-2">[2]</a></sup>
+- [Círdan](../C/Círdan.md), [Gil-galad](../G/Gil-galad.md) và những người sống sót khác rút lui về [Đảo Balar](../I/Isle_of_Balar.md) nhưng giữ căn cứ tại [Miệng Sirion](../M/Mouths_of_Sirion.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- Círdan đóng bảy con tàu và [Turgon](../T/Turgon.md) gửi chúng [Valinor](../V/Valinor.md) để yêu cầu trợ giúp. Tất cả đều bị mất tích, ngoại trừ [Voronwë](../V/Voronwë.md), người bị dạt vào bờ biển ở [Nevrast](../N/Nevrast.md).<sup id="cite_ref-S_2-1" class="reference"><a href="#cite_note-S-2">[2]</a></sup>
 
 <span></span>
 

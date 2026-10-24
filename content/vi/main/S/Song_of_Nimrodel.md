@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lay of Nimrodel"
 ---
 
-Chuyển hướng tới [Bố cục của Nimrodel](../L/Lay_of_Nimrodel.md).
+Chuyển hướng tới [Lay of Nimrodel](../L/Lay_of_Nimrodel.md).

@@ -24,7 +24,7 @@ images:
 
 Tolkien đã phát hiện ra rằng thói quen đánh vần [tiếng Anh trung cổ](../M/Middle_English.md) của bản thảo <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ancrene_Wisse_(manuscript)&amp;action=edit&amp;redlink=1" title="Ancrene Wisse (manuscript) (page does not exist)">Ancrene Wisse</a></i> (tức là "A") cho thấy những điểm tương đồng lớn với các bản thảo của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Katherine_Group&amp;action=edit&amp;redlink=1" title="Katherine Group (page does not exist)">Nhóm Katherine</a> (tức là "B"). Điều này dẫn Tolkien đến đề xuất về sự tồn tại của một ngôn ngữ văn học tiêu chuẩn (ngôn ngữ AB) ở vùng Phương Tây Trung du nước Anh vào thế kỷ 13. Những nghiên cứu sâu hơn về ngôn ngữ AB của Tolkien đã khiến ông xuất bản [Ancrene Wisse](Ancrene_Wisse.md) vào năm 1962.
 
-Theo [Arne Zettersten](Arne_Zettersten.md), nghiên cứu của Tolkien về ngôn ngữ AB có lẽ là đóng góp học thuật quan trọng nhất của ông, ảnh hưởng đến công việc của sinh viên và đồng nghiệp của ông [Simonne d'Ardenne](../S/Simonne_d'Ardenne.md) và chính Zettersten, cũng như nghiên cứu đương đại về tiếng Anh trung đại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Theo [Arne Zettersten](Arne_Zettersten.md), nghiên cứu của Tolkien về ngôn ngữ AB có lẽ là đóng góp học thuật quan trọng nhất của ông, ảnh hưởng đến công việc của sinh viên và đồng nghiệp của ông [Simonne d'Ardenne](../S/Simonne_d'Ardenne.md) và chính Zettersten, cũng như nghiên cứu đương đại về tiếng Anh trung cổ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

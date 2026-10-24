@@ -14,12 +14,12 @@ categories:
   - "Sindar"
 ---
 
-**phương Đông Sindar** là những [Sindar](../S/Sindar.md) sống ở những vùng đất rộng lớn phía đông [Doriath](../D/Doriath.md) ngoài [Vành đai Melian](../G/Girdle_of_Melian.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Họ không nằm dưới sự cai trị của [Thingol](../T/Thingol.md) và họ chăn nuôi gia súc và chăn nuôi cừu cũng như trồng ngũ cốc và các loại cây trồng khác - họ bán cả cho [Doriath](../D/Doriath.md) ở phía tây và cho [Người Lùn](../D/Dwarves.md) của [Dãy Núi Xanh](../B/Blue_Mountains.md) về phía đông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+**Đông Sindar** là [Sindar](../S/Sindar.md) sống ở vùng đất rộng lớn phía đông [Doriath](../D/Doriath.md) bên ngoài [Dây đai Melian](../G/Girdle_of_Melian.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Họ không nằm dưới sự cai trị của [Thingol](../T/Thingol.md) và họ chăn nuôi gia súc và chăn nuôi cừu cũng như trồng ngũ cốc và các loại cây trồng khác - họ đã bán cả hai cho cả hai thứ này [Doriath](../D/Doriath.md) ở phía tây và đến [Người lùn](../D/Dwarves.md) của [Dãy núi Xanh](../B/Blue_Mountains.md) ở phía đông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Không nêu chính xác nơi phương Đông Sindar sống, nhưng mô tả và vị trí của vùng đất họ sống khá trùng khớp với mô tả và vị trí của <a href="Estolad.md" title="Estolad">Estolad</a>.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Người ta không nêu chính xác nơi người Đông Sindar sinh sống, nhưng mô tả và vị trí của vùng đất họ sinh sống khá trùng khớp với mô tả và vị trí của <a href="Estolad.md" title="Estolad">Estolad</a>.</span>
 </li>
 </ol></div></span>
 

@@ -29,11 +29,11 @@ infobox:
 
 ## Nền {#Background}
 
-[Allen &amp; Unwin](../A/Allen_&_Unwin.md) đã quyết định xuất bản Farmer Giles of Ham thành một tập riêng biệt và [Stanley Unwin](../S/Stanley_Unwin.md) đã viết kèm theo lời đề nghị theo hợp đồng. Bất chấp chi phí cao để minh họa nó, bao gồm hai tác phẩm màu, Unwin nghĩ rằng nó sẽ bán được giá trị của nó.
+[Allen & Unwin](../A/Allen_&_Unwin.md) đã quyết định xuất bản Farmer Giles of Ham thành một tập riêng biệt và [Stanley Unwin](../S/Stanley_Unwin.md) đã viết kèm theo lời đề nghị theo hợp đồng. Bất chấp chi phí cao để minh họa nó, bao gồm hai tác phẩm màu, Unwin nghĩ rằng nó sẽ bán được giá trị của nó.
 
 ## Tóm tắt {#Summary}
 
-Tolkien xác nhận đã nhận được hợp đồng cho *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* và trả lại hợp đồng đã ký, lưu ý rằng mức phí bản quyền ban đầu là 7,5% là hợp lý trong các trường hợp. Mặc dù bận rộn với nhiệm vụ học tập trong học kỳ, Tolkien bày tỏ hy vọng rằng cuốn sách sẽ bán chạy, mặc dù anh không coi đây là phần tiếp theo xứng đáng của *[The Hobbit](../T/The_Hobbit.md)*.
+Tolkien xác nhận đã nhận được hợp đồng *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* và trả lại hợp đồng đã ký, đồng thời lưu ý rằng mức phí bản quyền ban đầu là 7,5% là hợp lý trong các trường hợp. Mặc dù bận tâm đến nhiệm vụ học tập trong học kỳ, Tolkien bày tỏ hy vọng rằng cuốn sách sẽ bán chạy, mặc dù ông không coi đây là phần tiếp theo xứng đáng của *[The Hobbit](../T/The_Hobbit.md)*.
 
 Anh mô tả cuộc đấu tranh của mình để tìm thời gian viết [phần tiếp theo thực sự](../T/The_Lord_of_the_Rings.md), bị cản trở bởi việc buộc phải di chuyển gần đây do thuế và thiếu người giúp việc gia đình, khiến công việc của anh bị gián đoạn. Hiện đang sống trong một ngôi nhà nhỏ gần trung tâm thị trấn với xưởng làm việc ở trường đại học, Tolkien đề cập đến niềm vui của mình khi [Rayner Unwin](../R/Rayner_Unwin.md) trở lại <a class="extiw" href="http://en.wikipedia.org/wiki/Trinity_College,_Cambridge" title="wikipedia:Trinity College, Cambridge">Trinity College</a>. <br>
 

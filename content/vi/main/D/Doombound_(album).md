@@ -25,12 +25,12 @@ images:
 
 1. "Vết máu"
 2. "Sắt chết"
-3. "Cúi chào và Helm"
+3. "Cung và mũ trụ"
 4. "Bị mê hoặc"
 5. "Kärmessurma"
 6. "Lão Thần"
 7. "Số phận của kẻ bị phản bội"
-8. "Con Người dưới dạng Sói"
+8. "Đàn ông như sói"
 9. "Lãnh chúa cuối cùng"
 10. "Ngày tận thế"
 11. "Kielo" (nhạc cụ)
@@ -40,7 +40,7 @@ images:
 - Sống tại Club Nosturi, Helsinki, Phần Lan ngày 27 tháng 6 năm 2008
 - Sống tại Club Nosturi, Helsinki, Phần Lan Ngày 1 tháng 1 năm 2009
 - Chuyến lưu diễn "Đêm qua Châu Âu" 2007
-- Chuyến lưu diễn Liên minh Cuối cùng" ở Phần Lan 2008
+- Chuyến lưu diễn "Liên minh cuối cùng" tại Phần Lan 2008
 - Thư viện ảnh
 - Video ca nhạc:
 

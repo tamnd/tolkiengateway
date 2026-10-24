@@ -63,7 +63,7 @@ Sự kiện xảy ra vào ngày 23 tháng 10
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1923](1923.md)** - [*Bản tin của Hiệp hội Nghiên cứu Nhân văn Hiện đại* 20](../B/Bulletin_of_the_Modern_Humanities_Research_Association_20.md), trong đó có cáo phó do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)viết, được xuất bản.
+- **[1923](1923.md)** - [*Bản tin của Hiệp hội Nghiên cứu Nhân văn Hiện đại* 20](../B/Bulletin_of_the_Modern_Humanities_Research_Association_20.md), trong đó có cáo phó do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết, được xuất bản.
 - **[1937](1937.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 18](../L/Letter_18.md).
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 86](../L/Letter_86.md).
 - **[1958](1958.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 212a](../L/Letter_212a.md).
@@ -74,7 +74,7 @@ Sự kiện xảy ra vào ngày 23 tháng 10
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md)tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) hồi phục sau vết thương trong [Rivendell](../R/Rivendell.md). [Elrond](../E/Elrond.md) tìm thấy mảnh lưỡi kiếm trên vai anh ta và lấy nó ra.
+    - [Frodo](../F/Frodo_Baggins.md) hồi phục sau vết thương ở [Rivendell](../R/Rivendell.md). [Elrond](../E/Elrond.md) tìm thấy mảnh lưỡi dao trên vai ông và lấy nó ra.
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

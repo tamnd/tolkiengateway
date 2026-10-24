@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><b>II</b><a href="../T/Third_Age.md" title="Third Age">III</a><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Second_Age_700.md" title="Second Age 700">700</a><a href="Second_Age_711.md" title="Second Age 711">711</a><a href="Second_Age_712.md" title="Second Age 712">712</a><a class="mw-selflink selflink">725</a><a href="Second_Age_727.md" title="Second Age 727">727</a><a href="Second_Age_729.md" title="Second Age 729">729</a><a href="Second_Age_730.md" title="Second Age 730">730</a></div></div></div></div></div></div>
 
-**Kỷ thứ hai 725** (viết tắt là **S.A. 725**) là năm [thứ 725 thuộc Mặt Trời](../Y/Years_of_the_Sun.md) của [Kỷ thứ hai](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ hai 725** (viết tắt là **S.A. 725**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 725 của [Kỷ thứ hai](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Aldarion](../T/Tar-Aldarion.md) khởi hành chuyến hành trình đầu tiên đến [Trung Địa](../M/Middle-earth.md) cùng với ông nội [Vëantur](../V/Vëantur.md) trên con tàu [Númerrámar](../N/Númerrámar.md). Họ đến [Mithlond](../G/Grey_Havens.md), hành trình xa xôi ở [Lindon](../L/Lindon.md) và phía tây của [Eriador](../E/Eriador.md), đồng thời Aldarion kết bạn với [Círdan](../C/Círdan.md) và [Gil-galad](../G/Gil-galad.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Aldarion](../T/Tar-Aldarion.md) khởi hành trong chuyến hành trình đầu tiên tới [Trung Địa](../M/Middle-earth.md) cùng với ông nội [Vëantur](../V/Vëantur.md) trên con tàu [Númerrámar](../N/Númerrámar.md). Họ đến [Mithlond](../G/Grey_Havens.md), hành trình xa đến [Lindon](../L/Lindon.md) và phía tây [Eriador](../E/Eriador.md), và Aldarion kết bạn với [Círdan](../C/Círdan.md) và [Gil-galad](../G/Gil-galad.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

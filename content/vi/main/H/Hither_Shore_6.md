@@ -40,20 +40,20 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hither_Shore_6.jpg.md"><img src="https://tolkiengateway.net/w/images/e/e5/Hither_Shore_6.jpg" decoding="async" loading="lazy" width="216" height="300" class="mw-file-element" data-file-width="216" data-file-height="300"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hither Shore Band 6<br/><small>Gewalt, Konflikt und Krieg bei Tolkien</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Fornet-Ponse.md" title="Thomas Fornet-Ponse">Thomas Fornet-Ponse</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a> (cover art)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../D/Deutsche_Tolkien_Gesellschaft.md" title="Deutsche Tolkien Gesellschaft">Deutsche Tolkien Gesellschaft</a>/Scriptorium Oxoniae</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/11_June.md" title="11 June">11 June</a> <a href="../_/2010.md" title="2010">2010</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-3-9810612-4-6" title="Special:BookSources/978-3-9810612-4-6">978-3-9810612-4-6</a></td></tr></tbody></table>
 
-<b><i>Ở đây Shore</i> Band 6: <i>Gewalt, Konflikt Und Krieg Bei Tolkien / Bạo lực, Xung đột và Chiến tranh trong Tolkien</i></b> là tập thứ sáu của tạp chí *[Hither Shore](<Hither_Shore_(journal).md>)*.
+<b><i>Ở đây Shore</i> Band 6: <i>Gewalt, Konflikt Und Krieg Bei Tolkien / Bạo lực, Xung đột và Chiến tranh ở Tolkien</i></b> là tập thứ sáu của tạp chí *[Hither Shore](<Hither_Shore_(journal).md>)*.
 
 ## Nội dung {#Contents}
 
 - Lời nói đầu
 
-- Tolkien Hội thảo 2009
+- Hội thảo Tolkien 2009
     - "Bạo lực trong *The Lord of the Rings*" của Frank Weinreich
-    - "Các góc nhìn về Chiến tranh Chính nghĩa trong Tolkien *Legendarium*" của Annie Birks
+    - "Quan điểm về cuộc chiến chính nghĩa trong Tolkien's *Legendarium*" của Annie Birks
     - "Gibt es Macht ohne Gewalt?" của [Thomas Fornet-Ponse](../T/Thomas_Fornet-Ponse.md)
     - "Gewalt und Gewaltdarstellung bei Tolkien im Vergleich mit zeitgenössischen Gewalt- und Aggressionstheorien" của Friedhelm Schneidewind
     - "Der Sängerkrieg: Gesang und Gewalt in J.R.R. Tolkiens Mittelerde" của Julian T.M. Eilmann
     - "Von kühner Recken Streiten? Höfische Akteure und Heroische Gewalt in Tolkiens *Farmer Giles of Ham*" của Patrick Brückner
-    - "Dagor dagorath & Ragnarök: Tolkien & Ngày tận thế" của [Michaël Devaux](../M/Michaël_Devaux.md)
+    - "Dagor dagorath & Ragnarök: Tolkien & the Apocalypse" của [Michaël Devaux](../M/Michaël_Devaux.md)
     - "Lean Earth to Till: Tầm nhìn chiến tranh của người Tolkien" của Anna Slack
     - "Di sản của kiếm: Vũ khí sinh động và sự xung đột của bạo lực anh hùng" của Judith Klinger
     - "Ngôn ngữ và bạo lực: Orc, Ent và Tom Bombadil" của Martin G.E. Sternberg

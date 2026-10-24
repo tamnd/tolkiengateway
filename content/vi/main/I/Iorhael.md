@@ -12,7 +12,7 @@ categories:
   - "Sindarin names"
 ---
 
-**Iorhael** là tên [Sindarin](../S/Sindarin.md) được [Aragorn II](../A/Aragorn.md) sử dụng cho [Frodo Baggins](../F/Frodo_Baggins.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> bản dịch của [Westron](../W/Westron.md) tên *[Maura](../M/Maura.md)*.
+**Iorhael** là tên [Sindarin](../S/Sindarin.md) mà [Aragorn II](../A/Aragorn.md) sử dụng cho [Frodo Baggins](../F/Frodo_Baggins.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> bản dịch của tên [Westron](../W/Westron.md) *[Maura](../M/Maura.md)*.
 
 ## Từ nguyên {#Etymology}
 

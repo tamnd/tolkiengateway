@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éarendel at the Helm"
 ---
 
-Chuyển hướng đến [Éarendel tại Helm](../_/Éarendel_at_the_Helm.md).
+Chuyển hướng tới [Éarendel at the Helm](../_/Éarendel_at_the_Helm.md).

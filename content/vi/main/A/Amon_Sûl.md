@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Weathertop"
 ---
 
-Chuyển hướng đến [Weathertop](../W/Weathertop.md).
+Chuyển hướng đến [Thời tiết](../W/Weathertop.md).

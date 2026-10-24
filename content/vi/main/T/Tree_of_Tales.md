@@ -44,10 +44,10 @@ infobox:
 
 ## Nội dung {#Contents}
 
-- Rachel Hart: "Tolkien, St. Andrews và Rồng"
-- [Colin Duriez](../C/Colin_Duriez.md): "Truyện cổ tích: J.R.R. Tolkien và C.S. Lewis"
-- [Kirstin Jeffrey Johnson](../K/Kirstin_Jeffrey_Johnson.md): "Thần thoại củaTolkien"
+- Rachel Hart: "Tolkien, St. Andrews và những chú rồng"
+- [Colin Duriez](../C/Colin_Duriez.md): "Câu chuyện cổ tích: J.R.R. Tolkien và C.S. Lewis"
+- [Kirstin Jeffrey Johnson](../K/Kirstin_Jeffrey_Johnson.md): "Thần thoại của Tolkien"
 - Trevor Hart: "Tolkien, Sáng tạo và Sáng tạo"
-- David Lyle Jeffrey: "Tolkien và Tương lai của Nghiên cứu Văn học"
+- David Lyle Jeffrey: "Tolkien và tương lai của nghiên cứu văn học"
 - Loren Wilkinson: "Tolkien và sự từ bỏ quyền lực"
-- [Ralph C. Wood](../R/Ralph_C._Wood.md): "Sự hiểu biết theo kiểu Augustinô củaTolkien về Thiện và Ác: Tại sao *The Lord of the Rings* không phải là Manichean"
+- [Ralph C. Wood](../R/Ralph_C._Wood.md): "Hiểu biết theo kiểu Augustin của Tolkien về Thiện và Ác: Tại sao *The Lord of the Rings* không phải là Manichean"

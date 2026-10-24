@@ -42,7 +42,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Khazad-dûm** là bài hát thứ tư trong [*The Lord of the Rings: The Rings of Power* (Phần một: Amazon Nhạc phim gốc)](<../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md>).
+**Khazad-dûm** là bài hát thứ tư trên [*The Lord of the Rings: The Rings of Power* (Season One: Amazon Original Series Soundtrack)](<../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md>).
 
 ## Lời bài hát {#Lyrics}
 

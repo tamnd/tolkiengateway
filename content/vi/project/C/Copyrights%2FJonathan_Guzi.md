@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Guzi, Jonathan"
 ---
 
-- Jonathan Guzi đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Jonathan_Guzi.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Jonathan Guzi đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Jonathan_Guzi.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 12 tháng 2 năm 2017
 - Người dùng đã xin phép qua email: [Mith](https://tolkiengateway.net/wiki/User:Mith)

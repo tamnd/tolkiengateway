@@ -37,7 +37,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mithril_Miniatures_-_Enting.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e5/Mithril_Miniatures_-_Enting.jpg/250px-Mithril_Miniatures_-_Enting.jpg" decoding="async" loading="lazy" width="250" height="346" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e5/Mithril_Miniatures_-_Enting.jpg/375px-Mithril_Miniatures_-_Enting.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e5/Mithril_Miniatures_-_Enting.jpg/500px-Mithril_Miniatures_-_Enting.jpg 2x" data-file-width="1280" data-file-height="1769"/></a><figcaption>&#34;Enting&#34; - <i><a href="../M/Mithril_Miniatures.md" title="Mithril Miniatures">Mithril Miniature</a></i></figcaption></figure>
 
-**Entings** là tên được [Ent](Ents.md) sử dụng để chỉ các thành viên vị thành niên cùng loại với họ. Vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), do mất [Entwives](Entwives.md) nên không có Entings mới trong nhiều thế kỷ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Entings** là tên được [Ents](Ents.md) sử dụng để chỉ các thành viên vị thành niên cùng loại với họ. Vào thời điểm diễn ra [War of the Ring](../W/War_of_the_Ring.md), do sự mất mát của [Entives](Entwives.md) nên không có Enting mới nào trong nhiều thế kỷ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -16,7 +16,7 @@ categories:
 <i><b>abonnen</b></i> (*pl. ebœnnin*) là một từ [Sindarin](../S/Sindarin.md) có nghĩa:
 
 1. *adj.* Sinh sau, sinh sau
-2. *n.* Con người, sinh ra muộn hơn thần tiên, một con người
+2. *n.* Người đàn ông, sinh sau Tiên tộc, một con người
 
 Bắt nguồn từ *[ab-](Ab-.md)* + *[onnen](../O/Onnen.md)* "sau sinh".
 

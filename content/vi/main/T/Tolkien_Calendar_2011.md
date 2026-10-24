@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_2011.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/17/Tolkien_Calendar_2011.jpg/320px-Tolkien_Calendar_2011.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/17/Tolkien_Calendar_2011.jpg/480px-Tolkien_Calendar_2011.jpg 1.5x, https://tolkiengateway.net/w/images/1/17/Tolkien_Calendar_2011.jpg 2x" data-file-width="500" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 2011</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../C/Cor_Blok.md" title="Cor Blok">Cor Blok</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/8_July.md" title="8 July">8 July</a> <a href="../_/2010.md" title="2010">2010</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0-00-735113-8" title="Special:BookSources/978-0-00-735113-8">978-0-00-735113-8</a> (UK)<br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0-06-202217-2" title="Special:BookSources/978-0-06-202217-2">978-0-06-202217-2</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2010.md" title="Tolkien Calendar 2010">Tolkien Calendar 2010</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2012.md" title="Tolkien Calendar 2012">Tolkien Calendar 2012</a></td></tr></tbody></table>
 
-Lịch <i><b>Tolkien 2011</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [8 tháng 7](../_/8_July.md) [2010](../_/2010.md). Nó có tác phẩm nghệ thuật của [Cor Blok](../C/Cor_Blok.md) dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
+<i><b>Lịch Tolkien 2011</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [8 tháng 7](../_/8_July.md) [2010](../_/2010.md). Nó có tác phẩm nghệ thuật của [Cor Blok](../C/Cor_Blok.md) dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -52,17 +52,17 @@ Lịch <i><b>Tolkien 2011</b></i> là lịch Tolkien chính thức được xu�
 ## Minh họa {#Illustrations}
 
 - Tháng 1 - "Hành trình trên sông Anduin"
-- Tháng 2 - "The Phòng Mazarbul"
-- Tháng 3 - "The Ford of Bruinen"
-- Tháng 4 - "Tầm nhìn củaFrodo về Amon Hen"
-- Tháng 5 - "Cuộc Ent Hành quân vào Isengard"
+- Tháng 2 - "Căn phòng Mazarbul"
+- Tháng 3 - "Cạnh cạn Bruinen"
+- Tháng 4 - "Tầm nhìn của Frodo về con gà mái Amon"
+- Tháng 5 - "Những con Ent hành quân trên Isengard"
 - Tháng Sáu - "Những ngã tư"
-- Tháng 7 - "Việc Orc Tắt Frodo"
-- Tháng 8 - "The Trận Hornburg"
-- tháng Chín - "Sự tàn sát của Nazgûl"
-- Tháng 10 - "Những bậc thang Cirith Ungol"
+- Tháng 7 - "Lũ Orc mang Frodo đi"
+- Tháng 8 - "Trận chiến Hornburg"
+- Tháng 9 - "Cuộc tàn sát Nazgûl"
+- Tháng 10 - "Những bậc thang của Cirith Ungol"
 - Tháng 11 - "Bể Cấm"
-- Tháng 12 - "[Con bò nhảy qua Mặt Trăng](../../file/C/Cor_Blok_-_The_Cow_jumped_over_the_Moon.jpg.md)"
+- Tháng 12 - "[Con bò nhảy qua mặt trăng](../../file/C/Cor_Blok_-_The_Cow_jumped_over_the_Moon.jpg.md)"
 
 ## Biến thể {#Variants}
 
@@ -83,7 +83,7 @@ Lịch <i><b>Tolkien 2011</b></i> là lịch Tolkien chính thức được xu�
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://tolkiencalendars.com/2011.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 2011</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Complete Gyde to Tolkien Lịch</a>
+- <a class="external text" href="http://tolkiencalendars.com/2011.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 2011</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

@@ -16,8 +16,8 @@ images:
 
 **Con người** có thể đề cập đến:
 
-- **[Món quà Con Người](../G/Gift_of_Men.md)**, tử vong (khác với [sự bất tử](../I/Immortality.md) của [Tiên tộc](../E/Elves.md)).
-- **[Con người](Mortals.md)**: [Con Người](Men.md), [Hobbit](../H/Hobbits.md) và [Người Lùn](../D/Dwarves.md).
+- **[Món quà của loài người](../G/Gift_of_Men.md)**, tỷ lệ tử vong (ngược lại với [sự bất tử](../I/Immortality.md) của [Yêu tinh](../E/Elves.md)).
+- **[Con người](Mortals.md)**: [Đàn ông](Men.md), [Người Hobbit](../H/Hobbits.md) và [Người lùn](../D/Dwarves.md).
 
 <hr style="margin-top:15px;"/>
 

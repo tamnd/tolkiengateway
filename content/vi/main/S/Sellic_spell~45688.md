@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sellic Spell"
 ---
 
-Chuyển hướng đến [Sellic Spell](Sellic_Spell.md).
+Chuyển hướng tới [Bán chính tả](Sellic_Spell.md).

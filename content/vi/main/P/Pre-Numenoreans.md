@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pre-Númenóreans"
 ---
 
-Chuyển hướng đến [Pre-Númenóreans](Pre-Númenóreans.md).
+Chuyển hướng đến [Tiền Númenóreans](Pre-Númenóreans.md).

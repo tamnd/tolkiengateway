@@ -18,8 +18,8 @@ images:
 
 **Sadoc** có thể đề cập đến:
 
-- [Sadoc Brandybuck](Sadoc_Brandybuck.md) một [hobbit](../H/Hobbit.md) của [the Shire](../T/The_Shire.md)
-- [Sadoc Burrows](Sadoc_Burrows.md) một hobbit [Harfoot](../H/Harfoots.md) được tạo ra cho [Phim truyền hình dài tập Những Chiếc Nhẫn Quyền Năng](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)
+- [Sadoc Brandybuck](Sadoc_Brandybuck.md) một [hobbit](../H/Hobbit.md) của [Shire](../T/The_Shire.md)
+- [Sadoc Burrows](Sadoc_Burrows.md) một hobbit [Harfoot](../H/Harfoots.md) được tạo ra cho loạt phim truyền hình [Những chiếc nhẫn quyền lực](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)
 
 <hr style="margin-top:15px;"/>
 

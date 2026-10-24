@@ -41,7 +41,7 @@ infobox:
 
 ## Từ Lời mở đầu {#From_the_Prologue}
 
-"...Tôi đã từng nói với Giáo sư J.R.R. Tolkien một cách vô cùng tự mãn rằng tôi chắc chắn, dựa trên số lượng lớn các đoạn báo trước trong những phần đầu của *The Lord of the Rings*, rằng ông đã nghĩ ra toàn bộ câu chuyện trước khi đặt bút. Tolkien ngay lập tức thông báo cho tôi một cách rõ ràng rằng ông đã viết lại phần đầu tiên của tác phẩm theo phần kết của nó không chỉ một lần mà nhiều lần và rằng đó thực sự là một công việc rất khó khăn." (trang xxxx)
+"...Tôi đã từng nói với Giáo sư J.R.R. Tolkien một cách hết sức tự mãn rằng tôi chắc chắn, dựa trên số lượng lớn các đoạn báo trước trong phần đầu của *The Lord of the Rings*, rằng ông ấy đã nghĩ ra toàn bộ câu chuyện trước khi đặt bút viết. Tolkien ngay lập tức thông báo với tôi một cách chắc chắn rằng ông ấy đã viết lại phần đầu tiên của tác phẩm dựa trên phần kết của nó không chỉ một lần mà nhiều lần và rằng đó thực sự là một công việc rất khó khăn." (trang xxxx)
 
 ## Xem thêm {#See_also}
 

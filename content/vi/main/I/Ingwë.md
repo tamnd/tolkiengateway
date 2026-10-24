@@ -113,29 +113,29 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>, &#34;<a href="../O/Of_Eldamar_and_the_Princes_of_the_Eldalië.md" title="Of Eldamar and the Princes of the Eldalië">Of Eldamar and the Princes of the Eldalië</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Ingwë** là Vua của [Vanyar](../V/Vanyar.md) và Đại Vương của Tiên tộc.<sup id="cite_ref-princes_8-0" class="reference"><a href="#cite_note-princes-8">[8]</a></sup>
+**Ingwë** là Vua của [Vanyar](../V/Vanyar.md) và là Vua tối cao của Yêu tinh.<sup id="cite_ref-princes_8-0" class="reference"><a href="#cite_note-princes-8">[8]</a></sup>
 
 ## Lịch sử {#History}
 
-Ingwë là một trong những [Minyar](../M/Minyar.md) sinh năm [Cuiviénen](../C/Cuiviénen.md). Anh ta là con trai cả của [Ilion](Ilion.md), đồng thời là hậu duệ của [Imin](Imin.md) và [Iminyë](Iminyë.md), từ con trai cả đến con trai cả. Anh ấy được mọi người yêu mến, và vào một thời điểm nào đó trước [Đại Hành Trình](../G/Great_Journey.md) anh ấy đã kết hôn với [Ilwen](Ilwen.md) và có một số con tại Cuiviénen vào thời điểm [Oromë](../O/Oromë.md) thành lập [Quendi](../Q/Quendi.md).<sup id="cite_ref-Gol_9-0" class="reference"><a href="#cite_note-Gol-9">[9]</a></sup>
+Ingwë là một trong những [Minyar](../M/Minyar.md) sinh ra ở [Cuiviénen](../C/Cuiviénen.md). Ông ta là con trai cả của [Ilion](Ilion.md), đồng thời là hậu duệ của [Imin](Imin.md) và [Iminyë](Iminyë.md), từ con trai cả đến con trai cả. Ông được người dân của mình yêu quý, và vào một thời điểm nào đó trước [Hành trình vĩ đại](../G/Great_Journey.md) ông đã kết hôn với [Ilwen](Ilwen.md) và có một số người con tại Cuiviénen vào thời điểm [Oromë](../O/Oromë.md) thành lập [Quendi](../Q/Quendi.md).<sup id="cite_ref-Gol_9-0" class="reference"><a href="#cite_note-Gol-9">[9]</a></sup>
 
-Khi Oromë mời họ đến [Aman](../A/Aman.md), Ingwë, cùng với [Finwë](../F/Finwë.md) và [Elwë](../E/Elwë_Singollo.md), là những người háo hức đến thăm nhất nên đã đi theo ông với tư cách là đại sứ và du hành đến Cõi Phước lành. Khi đến đó, Ingwë mong muốn được "sống trong sự hiện diện của Varda" và không muốn quay lại [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-Ard_10-0" class="reference"><a href="#cite_note-Ard-10">[10]</a></sup>
+Khi Oromë mời họ đến [Aman](../A/Aman.md), Ingwë, cùng với [Finwë](../F/Finwë.md) và [Elwë](../E/Elwë_Singollo.md), là những người háo hức đến thăm nhất nên đã đi theo ông ta với tư cách là đại sứ và du hành đến Cõi Phúc lành. Khi đến đó, Ingwë mong muốn "sống trước sự hiện diện của Varda" và miễn cưỡng quay trở lại [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-Ard_10-0" class="reference"><a href="#cite_note-Ard-10">[10]</a></sup>
 
-Khi trở về, họ đã tổ chức một [cuộc tranh luận lớn](../D/Debate_of_the_Quendi.md) và nói với người dân của mình về vẻ đẹp cũng như niềm hạnh phúc của nó và trở thành những người lãnh đạo của họ trong [Tháng ba vĩ đại](../G/Great_March.md). Ingwë là thủ lĩnh của [Vanyar](../V/Vanyar.md), người đi đầu trong các gia tộc đi theo Oromë, những người mong muốn đạt được <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Phương Tây</a>nhất và họ đã làm được điều đó một cách nhanh chóng.<sup id="cite_ref-journey_11-0" class="reference"><a href="#cite_note-journey-11">[11]</a></sup>
+Khi trở về, họ đã tổ chức một [cuộc tranh luận lớn](../D/Debate_of_the_Quendi.md) và nói với người dân của mình về vẻ đẹp cũng như niềm hạnh phúc của nó và trở thành những người lãnh đạo của họ trong [Tháng ba vĩ đại](../G/Great_March.md). Ingwë là thủ lĩnh của [Vanyar](../V/Vanyar.md), gia tộc đi đầu trong số các gia tộc đi theo Oromë, những người mong muốn tiếp cận <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Tây</a>nhất và họ đã làm được điều đó một cách nhanh chóng.<sup id="cite_ref-journey_11-0" class="reference"><a href="#cite_note-journey-11">[11]</a></sup>
 
-Sau [Đại Hành Trình](../G/Great_Journey.md), Ingwë không bao giờ quay lại hay để mắt tới [Trung Địa](../M/Middle-earth.md) nữa.<sup id="cite_ref-journey_11-1" class="reference"><a href="#cite_note-journey-11">[11]</a></sup>
+Sau [Hành trình vĩ đại](../G/Great_Journey.md), Ingwë không bao giờ quay trở lại hay để mắt đến [Trung địa](../M/Middle-earth.md) nữa.<sup id="cite_ref-journey_11-1" class="reference"><a href="#cite_note-journey-11">[11]</a></sup>
 
 Ông sống ở [Tirion](../T/Tirion.md) một thời gian, nơi ông cũng xây dựng tòa tháp trắng vĩ đại ở phần cao nhất của thành phố, được gọi là [Mindon Eldaliéva](../M/Mindon_Eldaliéva.md) hay Tháp Ingwë. Nó chưa bao giờ được sử dụng, ngoại trừ những người chăm sóc ngọn đèn trên đỉnh nó.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[note 1]</a></sup>
 
-Ở đó ông sinh được nhiều con, như được ghi lại bởi Finwë khi Finwë phàn nàn với Valar về cảnh góa bụa của ông.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[13]</a></sup>
+Ở đó ông sinh ra rất nhiều con cái, như Finwë đã lưu ý khi Finwë phàn nàn với các Valar về tình trạng góa bụa của mình.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[13]</a></sup>
 
-Tuy nhiên, vào một thời điểm nào đó, anh ấy đã đến sống ở [Taniquetil](../T/Taniquetil.md) dưới chân [Manwë](../M/Manwë.md).<sup id="cite_ref-princes_8-1" class="reference"><a href="#cite_note-princes-8">[8]</a></sup>
+Tuy nhiên, vào một thời điểm nào đó, ông đã đến sống ở [Taniquetil](../T/Taniquetil.md) dưới chân [Manwë](../M/Manwë.md).<sup id="cite_ref-princes_8-1" class="reference"><a href="#cite_note-princes-8">[8]</a></sup>
 
-[Indis](Indis.md), vợ thứ hai của [Finwë](../F/Finwë.md), là họ hàng gần gũi của ông.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[14]</a></sup>
+[Indis](Indis.md), người vợ thứ hai của [Finwë](../F/Finwë.md), là họ hàng thân thiết của ông.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[14]</a></sup>
 
 ## Đặc điểm {#Characteristics}
 
-Ingwë được miêu tả là cao và xinh đẹp,<sup id="cite_ref-Gol_9-1" class="reference"><a href="#cite_note-Gol-9">[9]</a></sup> có mái tóc vàng và xoăn.<sup id="cite_ref-Cur_7-1" class="reference"><a href="#cite_note-Cur-7">[7]</a></sup> Anh ấy cũng được cho là "có tư duy nhiều hơn là nghệ thuật".<sup id="cite_ref-Gol_9-2" class="reference"><a href="#cite_note-Gol-9">[9]</a></sup>
+Ingwë được mô tả là cao và xinh đẹp,<sup id="cite_ref-Gol_9-1" class="reference"><a href="#cite_note-Gol-9">[9]</a></sup> có mái tóc vàng và xoăn.<sup id="cite_ref-Cur_7-1" class="reference"><a href="#cite_note-Cur-7">[7]</a></sup> Ông cũng được cho là "có tư duy nhiều hơn là nghệ thuật".<sup id="cite_ref-Gol_9-2" class="reference"><a href="#cite_note-Gol-9">[9]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -154,9 +154,9 @@ Ingwë được miêu tả là cao và xinh đẹp,<sup id="cite_ref-Gol_9-1" cl
 </tbody></table>
 </div>
 
-Tên *Ingwë* nằm trong [Quenya](../Q/Quenya.md). Nó có nghĩa là "người đứng đầu", bắt nguồn từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=ING&amp;action=edit&amp;redlink=1" title="ING (page does not exist)">ING</a> ("cao nhất", "đỉnh"), được gắn với hậu tố *[-wë](../_/-wë.md)* ("người").<sup id="cite_ref-Shib_16-0" class="reference"><a href="#cite_note-Shib-16">[15]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:340</sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[16]</a></sup>
+Tên *Ingwë* có trong [Quenya](../Q/Quenya.md). Nó có nghĩa là "người đứng đầu", bắt nguồn từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=ING&amp;action=edit&amp;redlink=1" title="ING (page does not exist)">ING</a> ("cao nhất", "đỉnh"), được gắn với hậu tố *[-wë](../_/-wë.md)* ("người").<sup id="cite_ref-Shib_16-0" class="reference"><a href="#cite_note-Shib-16">[15]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:340</sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[16]</a></sup>
 
-Vanyar tự gọi mình là *Ingwer*, các thủ lĩnh, vì được coi là những người lãnh đạo và thân nhân chính của Eldar, và tước hiệu riêng của nhà vua của họ là <i><b>Ingwë Ingweron</b></i>: ‘thủ lĩnh của các thủ lĩnh’.<sup id="cite_ref-Shib_16-1" class="reference"><a href="#cite_note-Shib-16">[15]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:340</sup>
+Người Vanyar tự gọi mình là *Ingwer*, các thủ lĩnh, vì được coi là những thủ lĩnh và dòng dõi chính của Eldar, và tước hiệu riêng của vua của họ là <i><b>Ingwë Ingweron</b></i>: ‘thủ lĩnh của các thủ lĩnh’.<sup id="cite_ref-Shib_16-1" class="reference"><a href="#cite_note-Shib-16">[15]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:340</sup>
 
 Trong [*Etymologies*](../T/The_Etymologies.md) trước đó, *Ingwë* được cho là sự kết hợp của *[ing](Inga.md)* ("đầu tiên") + phần cuối *[-we](../_/-wë.md)* ("người đàn ông").<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[17]</a></sup>
 
@@ -182,45 +182,45 @@ Trong [*Etymologies*](../T/The_Etymologies.md) trước đó, *Ingwë* được 
 
 Trong phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md), theo *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, nhân vật sau này được biết đến với cái tên *Ingwë* được gọi là **Inwë**.<sup id="cite_ref-Com_19-0" class="reference"><a href="#cite_note-Com-19">[18]</a></sup>
 
-Inwë là một trong ba Tiên tộc (hai người còn lại là [Finwë](../F/Finwë.md) và [Tinwë](../T/Tinwë.md)) tình nguyện đi cùng [Nornorë](../N/Nornorë.md), sứ giả của [Valar](../V/Valar.md), tới [Valinor](../V/Valinor.md), sau khi họ khám phá ra [Koivië-néni](../K/Koivië-néni.md) - vì [Manwë](../M/Manwë.md) mong muốn tìm hiểu về "sự xuất hiện" và "ham muốn" của họ.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[19]</a></sup>
+Inwë là một trong ba Yêu tinh (hai người còn lại là [Finwë](../F/Finwë.md) và [Tinwë](../T/Tinwë.md)) tình nguyện đi cùng [Nornorë](../N/Nornorë.md), sứ giả của [Valar](../V/Valar.md), đến [Valinor](../V/Valinor.md), sau khi họ phát hiện ra tại [Koivië-néni](../K/Koivië-néni.md) - vì [Manwë](../M/Manwë.md) mong muốn tìm hiểu về việc "đến" và "mong muốn" của họ.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[19]</a></sup>
 
-Khi Inwë đến Valinor, anh tràn đầy ngạc nhiên và khao khát ánh sáng của [Laurelin](../L/Laurelin.md), một trong những [Hai Cây](../T/Two_Trees.md), và lời nói của anh đã lay động [Yavanna](../Y/Yavanna.md) và [Vána](../V/Vána.md) nên họ đã thuyết phục hầu hết những Valar khác triệu hồi Tiên tộc đến Valinor để sống giữa họ. Vì vậy, Inwë và các đại sứ khác đã được gửi trở lại Koivië-néni và thuyết phục được hầu hết Tiên tộc đến sống cùng với Valar.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[20]</a></sup>
+Khi Inwë đến Valinor, anh tràn đầy ngạc nhiên và khao khát ánh sáng của [Laurelin](../L/Laurelin.md), một trong [Hai Cây](../T/Two_Trees.md), và lời nói của anh đã khiến [Yavanna](../Y/Yavanna.md) và [Vána](../V/Vána.md) thuyết phục hầu hết các Valar khác triệu tập Yêu tinh đến Valinor để sống cùng họ. Vì vậy, Inwë và các đại sứ khác được gửi trở lại Koivië-néni, và thuyết phục được hầu hết các Yêu tinh đến sống cùng các Valar.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[20]</a></sup>
 
-Sau đó, Inwë trở thành thủ lĩnh của [Teleri](../V/Vanyar.md), gia tộc đầu tiên của Tiên tộc và dẫn dắt họ đến Valinor. Anh ta cũng được coi là người lớn tuổi nhất<sup id="cite_ref-Dea_22-0" class="reference"><a href="#cite_note-Dea-22">[21]</a></sup> và<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[22]</a></sup> vĩ đại nhất trong tất cả Tiên tộc, và sau đó được coi là Vua của tất cả Eldar,<sup id="cite_ref-Gil_24-0" class="reference"><a href="#cite_note-Gil-24">[23]</a></sup> và nhà của anh ta nằm ở điểm cao nhất ở [Kôr](../K/Kôr.md), một thành phố yêu tinh vĩ đại ở Valinor, nơi có [tháp bạc](../M/Mindon_Eldaliéva.md#Other_versions_of_the_legendarium) "bắn lên trời như một cây kim".<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[24]</a></sup> Valar cũng tặng cho Inwë một cây giống của một trong những Hai Cây, "nở hoa vĩnh viễn không tàn" trong sân của ông.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[25]</a></sup>
+Sau đó, Inwë trở thành thủ lĩnh của [Teleri](../V/Vanyar.md), tộc đầu tiên của Yêu tinh và dẫn họ đến Valinor. Ông ta cũng được coi là người lớn tuổi nhất<sup id="cite_ref-Dea_22-0" class="reference"><a href="#cite_note-Dea-22">[21]</a></sup> và vĩ đại nhất<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[22]</a></sup> trong tất cả các Yêu tinh, và sau đó được coi là Vua của tất cả các Yêu tinh,<sup id="cite_ref-Gil_24-0" class="reference"><a href="#cite_note-Gil-24">[23]</a></sup> và quê hương của ông ta nằm ở điểm cao nhất ở [Kôr](../K/Kôr.md), một thành phố yêu tinh vĩ đại ở Valinor, nơi có [tháp bạc](../M/Mindon_Eldaliéva.md#Other_versions_of_the_legendarium) "bắn lên trời như một cây kim".<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[24]</a></sup> Các Valar cũng tặng cho Inwë một cây con của một trong những loài Yêu tinh. Hai Cây “nở nở vĩnh viễn không tàn” trong sân nhà ông.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[25]</a></sup>
 
-Nhiều năm sau, sau [sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Tiên tộc của [Kôr](../K/Kôr.md) nghe về hoàn cảnh khó khăn của những [Gnomes](../G/Gnomes.md) bị [Melko](../M/Melko.md) bắt làm nô lệ và trái với mong muốn của Valar, Inwë đã dẫn họ đến [Great Lands](../G/Great_Lands.md) để gây chiến với Melko.
+Nhiều năm sau, sau [sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Yêu tinh của [Kôr](../K/Kôr.md) nghe nói về hoàn cảnh khó khăn của [Gnomes](../G/Gnomes.md) bị [Melko](../M/Melko.md) bắt làm nô lệ, và trái với mong muốn của các Valar, Inwë đã dẫn họ đến [Great Lands](../G/Great_Lands.md) để gây chiến chống lại Melko.
 
-Và mặc dù Tiên tộc đã chiến thắng, Melko bị đánh bại và bị ràng buộc bởi [Tulkas](../T/Tulkas.md), tuy nhiên, Inwë vẫn bị giết trong chiến tranh.<sup id="cite_ref-Dea_22-1" class="reference"><a href="#cite_note-Dea-22">[21]</a></sup>
+Và mặc dù Yêu tinh đã chiến thắng và Melko bị đánh bại và bị trói buộc bởi [Tulkas](../T/Tulkas.md), tuy nhiên, Inwë vẫn bị giết trong chiến tranh.<sup id="cite_ref-Dea_22-1" class="reference"><a href="#cite_note-Dea-22">[21]</a></sup>
 
-Sau chiến tranh, với việc Tiên tộc bị cấm quay trở lại Valinor,<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[26]</a></sup> Ingil, con trai ông đã dẫn họ từ Great Lands đến [Tol Eressëa](../T/Tol_Eressëa.md), Lonely Isle, nơi ông trở thành thủ lĩnh của họ.<sup id="cite_ref-Gil_24-1" class="reference"><a href="#cite_note-Gil-24">[23]</a></sup>
+Sau chiến tranh, với việc Yêu tinh bị cấm quay trở lại Valinor,<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[26]</a></sup> Ingil, con trai ông đã dẫn họ từ Vùng đất vĩ đại đến [Tol Eressëa](../T/Tol_Eressëa.md), Đảo Cô đơn, nơi ông trở thành thủ lĩnh của họ.<sup id="cite_ref-Gil_24-1" class="reference"><a href="#cite_note-Gil-24">[23]</a></sup>
 
-Họ hàng và hậu duệ của ông được gọi là [Inwir](Inwir.md), một trong số đó là [Meril-i-Turinqi](../M/Meril-i-Turinqi.md) chắt gái của ông,<sup id="cite_ref-Dea_22-2" class="reference"><a href="#cite_note-Dea-22">[21]</a></sup> Phu nhân của Tol Eressëa vào thời điểm [Eriol](../E/Eriol.md) Mariner xuất hiện, vào năm c. <a class="extiw" href="http://en.wikipedia.org/wiki/5th_century" title="wikipedia:5th century">Thế kỷ thứ 5 sau Công Nguyên</a>.<sup id="cite_ref-Com_19-1" class="reference"><a href="#cite_note-Com-19">[18]</a></sup>
+Họ hàng và hậu duệ của ông được gọi là [Inwir](Inwir.md), một trong số đó là [Meril-i-Turinqi](../M/Meril-i-Turinqi.md) chắt gái của ông,<sup id="cite_ref-Dea_22-2" class="reference"><a href="#cite_note-Dea-22">[21]</a></sup> Phu nhân của Tol Eressëa vào thời điểm [Eriol](../E/Eriol.md) Mariner xuất hiện, trong c. <a class="extiw" href="http://en.wikipedia.org/wiki/5th_century" title="wikipedia:5th century">Thế kỷ thứ 5 sau Công Nguyên</a>.<sup id="cite_ref-Com_19-1" class="reference"><a href="#cite_note-Com-19">[18]</a></sup>
 
-Trong một phác thảo, hòn đảo Tol Eressëa cũng được gọi là *[Inwinórë](Inwinórë.md)* theo tên Inwë, nhưng sau đó được đổi thành *[Ingilnórë](Ingilnórë.md)*, để vinh danh con trai ông là Ingil.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[27]</a></sup>
+Trong một phác thảo, đảo Tol Eressëa cũng được gọi là *[Inwinórë](Inwinórë.md)* theo tên Inwë, nhưng sau đó tên đó được đổi thành *[Ingilnórë](Ingilnórë.md)*, để vinh danh con trai ông là Ingil.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[27]</a></sup>
 
 Inwë có thể đã nói <a class="new" href="https://tolkiengateway.net/w/index.php?title=Inwelin&amp;action=edit&amp;redlink=1" title="Inwelin (page does not exist)">Inwelin</a>, một phương ngữ của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Telellin&amp;action=edit&amp;redlink=1" title="Telellin (page does not exist)">Telellin</a> được sử dụng bởi hoàng tộc Inwir.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[28]</a></sup>
 
-#### Ingwë trong số Luthany {#Ingwë_of_Luthany}
+#### Ingwë của Luthany {#Ingwë_of_Luthany}
 
-Trong những phác thảo sau này của *Book of Lost Tales*, trong đó Tol Eressëa không còn được xác định là Anh, đảo [Luthany](../L/Luthany.md) xuất hiện như tiền thân của Anh, từ đó Tiên tộc của Great Lands đi thuyền *to* Tol Eressëa, giờ là một hòn đảo riêng biệt.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[29]</a></sup>
+Trong những phác thảo sau này của *Book of Lost Tales*, trong đó Tol Eressëa không còn được đồng nhất với nước Anh, hòn đảo [Luthany](../L/Luthany.md) xuất hiện như tiền thân của nước Anh, nơi mà các Yêu tinh của Vùng đất vĩ đại đi thuyền *to* Tol Eressëa, hiện là một hòn đảo riêng biệt.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[29]</a></sup>
 
-Trong quan niệm về truyền thuyết đó, xuất hiện một nhân vật tên là Ing hoặc Ingwë, một [Mannish](../M/Men.md) Vua của Luthany, người giúp đỡ và chào đón Tiên tộc đến vùng đất của mình, sau cuộc chiến của họ với Melko và sau đó, với Con Người không thân thiện ở Great Lands.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[30]</a></sup>
+Trong quan niệm về truyền thuyết đó, xuất hiện một nhân vật tên là Ing hoặc Ingwë, một [Mannish](../M/Men.md) Vua của Luthany, người đã giúp đỡ và chào đón Yêu tinh đến vùng đất của mình, sau cuộc chiến của họ với Melko và sau đó, với những Người đàn ông không thân thiện ở Vùng đất rộng lớn.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[30]</a></sup>
 
-Tuy nhiên, anh ta *not* được đồng nhất với nhân vật Inwë, hoặc nhân vật Ingwë trong truyền thuyết sau này, mặc dù [Christopher Tolkien](../C/Christopher_Tolkien.md) cảm thấy phải có mối liên hệ nào đó giữa hai nhân vật.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[31]</a></sup>
+Tuy nhiên, ông ta *not* được đồng nhất với nhân vật Inwë, hoặc nhân vật Ingwë trong truyền thuyết sau này, mặc dù [Christopher Tolkien](../C/Christopher_Tolkien.md) cảm thấy phải có mối liên hệ nào đó giữa hai nhân vật.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[31]</a></sup>
 
 #### Từ nguyên ban đầu {#Early_etymology}
 
-Tên *Inwë* nằm trong [Qenya](../Q/Qenya.md). Trong *[Qenya Lexicon](../Q/Qenya_Lexicon.md)*, nó được cho là có nguồn gốc từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=INI&amp;action=edit&amp;redlink=1" title="INI (page does not exist)">INI</a> ("nhỏ"),<sup id="cite_ref-Ing_33-0" class="reference"><a href="#cite_note-Ing-33">[32]</a></sup> nhưng độ bóng ban đầu trước đó của gốc là "[fairy](../F/Fairy.md)".<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[33]</a></sup>
+Tên *Inwë* ở [Qenya](../Q/Qenya.md). Trong *[Qenya Lexicon](../Q/Qenya_Lexicon.md)*, nó được cho là có nguồn gốc từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=INI&amp;action=edit&amp;redlink=1" title="INI (page does not exist)">INI</a> ("nhỏ"),<sup id="cite_ref-Ing_33-0" class="reference"><a href="#cite_note-Ing-33">[32]</a></sup> nhưng độ bóng ban đầu trước đó của gốc là "[fairy](../F/Fairy.md)".<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[33]</a></sup>
 
 #### Tên khác {#Other_names}
 
-[Gnomish](../G/Gnomish.md) cùng nguồn gốc của *Inwë* là <i><b>Inwithiel</b></i>,<sup id="cite_ref-Gil_24-2" class="reference"><a href="#cite_note-Gil-24">[23]</a></sup> đã thay đổi từ <i><b>Gim Githil</b></i>.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[34]</a></sup>
+Từ cùng nguồn gốc [Gnomish](../G/Gnomish.md) của *Inwë* là <i><b>Inwithiel</b></i>,<sup id="cite_ref-Gil_24-2" class="reference"><a href="#cite_note-Gil-24">[23]</a></sup> được đổi từ <i><b>Gim Githil</b></i>.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[34]</a></sup>
 
-Tên riêng (Gnomish) của anh ấy, theo *[Gnomish Lexicon](../G/Gnomish_Lexicon.md)* là <i><b>Inweg</b></i> hoặc <i><b>Im</b></i>, với <i><b>Githil</b></i> là cùng nguồn gốc của Gnomish <i><b>Isil</b></i>, một tên khác của anh ấy.<sup id="cite_ref-Ing_33-1" class="reference"><a href="#cite_note-Ing-33">[32]</a></sup> <i><b>Githiel</b></i> là thể thơ của *Githil*.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[35]</a></sup>
+Tên riêng (Gnomish) của ông ta, theo *[Gnomish Lexicon](../G/Gnomish_Lexicon.md)* là <i><b>Inweg</b></i> hoặc <i><b>Im</b></i>, với <i><b>Githil</b></i> là cùng nguồn gốc với Gnomish của <i><b>Isil</b></i>, một tên khác của ông.<sup id="cite_ref-Ing_33-1" class="reference"><a href="#cite_note-Ing-33">[32]</a></sup> <i><b>Githiel</b></i> là thể thơ của *Githil*.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[35]</a></sup>
 
-Dạng Gnomish ban đầu của tên anh ấy là <i><b>Ginweg</b></i>, sau đó đổi thành <i><b>Gim</b></i> hoặc *Githil*.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[36]</a></sup>
+Dạng Gnomish ban đầu của tên ông ta là <i><b>Ginweg</b></i>, sau đó đổi thành <i><b>Gim</b></i> hoặc *Githil*.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[36]</a></sup>
 
-Anh ta còn được gọi là <i><b>Tur yan Eldaron</b></i>, nghĩa là "Vua của Tiên tộc" trong Qenya, với <i><b>Tur nan Églathon</b></i> là Gnomish tương đương với nó.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[37]</a></sup>
+Ông còn được gọi là <i><b>Tur yan Eldaron</b></i>, nghĩa là "Vua của Yêu tinh" ở Qenya, với <i><b>Tur nan Églathon</b></i> là tương đương với Gnomish.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[37]</a></sup>
 
 Trong *[Sketch of the Mythology](../S/Sketch_of_the_Mythology.md)*, từ c. [1926](../_/1926.md), tên <i><b>Ing</b></i> được mô tả là dạng Gnomish của *Ingwë*, trái ngược với quan niệm trước đó về việc *Ing* là dạng Qenya bị từ chối của *Inwë*.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[38]</a></sup>
 
@@ -240,21 +240,21 @@ Trong *[Sketch of the Mythology](../S/Sketch_of_the_Mythology.md)*, từ c. [192
 
 #### *Quenta Noldorinwa* và *Lhammas* {#Quenta_Noldorinwa_and_the_Lhammas}
 
-Trong *[Lhammas](../L/Lhammas.md)*, một văn bản từ những năm 1930, Ingwë được đề cập là một trong những nguyên bản và là người lớn tuổi nhất của Tiên tộc được [thức tỉnh](../A/Awakening_of_the_Elves.md) tại [Cuiviénen](../C/Cuiviénen.md), và là người đã dẫn dắt người dân của mình, những người đứng đầu được gọi là *Ingwelindar* hoặc *Ingwi*, tới [Aman](../A/Aman.md).<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[39]</a></sup>
+Trong *[Lhammas](../L/Lhammas.md)*, một văn bản từ những năm 1930, Ingwë được đề cập là một trong những người nguyên thủy và là người lớn tuổi nhất của Yêu tinh được [đánh thức](../A/Awakening_of_the_Elves.md) tại [Cuiviénen](../C/Cuiviénen.md), và là người đã dẫn dắt dân tộc của mình, tộc trưởng được gọi là *Ingwelindar* hoặc *Ingwi*, tới [Aman](../A/Aman.md).<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[39]</a></sup>
 
-Trong *[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)* từ c. [1930](../_/1930.md), anh ta vẫn được cho là một trong những thủ lĩnh của Eldar trong [War of Wrath](../W/War_of_Wrath.md) (không giống như trong các phiên bản sau, khi con trai anh ta là Ingwion lãnh đạo họ), và anh ta vẫn được cho là chết trong cuộc chiến đó, như trong truyền thuyết đầu tiên ở *Book of Lost Tales*.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[40]</a></sup>
+Trong *[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)* từ c. [1930](../_/1930.md), ông ta vẫn được cho là một trong những thủ lĩnh của Eldar trong [War of Wrath](../W/War_of_Wrath.md) (không giống như trong các phiên bản sau, khi con trai ông ta là Ingwion lãnh đạo họ), và ông ta vẫn được cho là chết trong cuộc chiến đó, như trong truyền thuyết đầu tiên ở *Book of Lost Tales*.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[40]</a></sup>
 
 #### Ba vị đại sứ {#The_Three_Ambassadors}
 
-Ingwe đã được đề cập trong một số văn bản và cuối cùng đã được xuất bản trên *[The Nature of Middle-earth](../T/The_Nature_of_Middle-earth.md)*. Như trong *Silmarillion* đã xuất bản, một số người trong số họ mô tả ông là một trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Three_Ambassadors&amp;action=edit&amp;redlink=1" title="Three Ambassadors (page does not exist)">Ba Đại sứ</a>, đến Aman và chứng kiến ​​sự huy hoàng của nó.
+Ingwe đã được đề cập trong một số văn bản và cuối cùng đã được xuất bản trên *[The Nature of Middle-earth](../T/The_Nature_of_Middle-earth.md)*. Như trong *Silmarillion* đã xuất bản, một số người trong số họ đã mô tả ông là một trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Three_Ambassadors&amp;action=edit&amp;redlink=1" title="Three Ambassadors (page does not exist)">Ba Đại sứ</a>, đến Aman và chứng kiến ​​sự huy hoàng của nó.
 
-Theo một văn bản, các đại sứ sau khi trở về Trung Địa đã nói chuyện với Tiên tộc vào lúc Cuiviénen. Ở đó, Ingwë bày tỏ sự kính trọng đối với ba [Tiên người cha](../E/Elf-fathers.md), lấy làm tiếc rằng bản thân họ không sẵn lòng đến thăm Aman, nhưng anh vẫn hỏi Oromë liệu họ có còn đến đó hay không và tự mình đánh giá xem liệu Tiên tộc có nên lên tàu [Đại Hành Trình](../G/Great_Journey.md) hay không - thật không may, ba người cha Tiên không sẵn lòng đi.
+Theo một văn bản, các đại sứ, sau khi trở về Trung Địa, đã nói chuyện với Yêu tinh tại Cuiviénen. Ở đó, Ingwë nói chuyện với sự tôn kính to lớn đối với ba [Cha Yêu tinh](../E/Elf-fathers.md), lấy làm tiếc vì bản thân họ không sẵn lòng đến thăm Aman, nhưng anh vẫn hỏi Oromë liệu họ có còn đến đó hay không và tự mình đánh giá xem liệu Yêu tinh có nên bắt tay vào [Hành trình vĩ đại](../G/Great_Journey.md) hay không - thật không may, ba Cha Yêu tinh không sẵn lòng đi.
 
-Trong một văn bản khác, [Tolkien](../T/Tolkien.md) đã thay đổi quan điểm về bản chất của ba đại sứ, và thay vào đó đề xuất rằng [Imin](Imin.md), [Tata](../T/Tata.md) và [Enel](../E/Enel.md), ba người cha Tiên, nên trở thành ba đại sứ cho Aman, với Ingwë, Finwë và Elwë đi cùng với tư cách là đại diện cho các thế hệ trẻ của Tiên tộc.
+Trong một văn bản khác, [Tolkien](../T/Tolkien.md) đã thay đổi suy nghĩ về bản chất của ba đại sứ, và thay vào đó đề xuất rằng [Imin](Imin.md), [Tata](../T/Tata.md) và [Enel](../E/Enel.md), ba Cha Yêu tinh, nên trở thành ba đại sứ cho Aman, cùng với Ingwë, Finwë và Elwë đi cùng họ với tư cách là đại diện cho các thế hệ trẻ của Yêu tinh.
 
-Ở đó, ba đại sứ (mới) vẫn chưa quyết định nên Tiên tộc của Cuiviénen đã yêu cầu các cộng sự trẻ hơn của họ phát biểu. Ở đây Ingwë, một lần nữa, lại bày tỏ sự tôn kính đối với Imin, Tata và Enel, và cuối cùng đồng ý với Imin về mong muốn vẻ đẹp của Valinor.
+Ở đó, ba đại sứ (mới) vẫn chưa quyết định, và do đó, Yêu tinh Cuiviénen đã yêu cầu các cộng sự trẻ tuổi của họ phát biểu. Tại đây, Ingwë một lần nữa nói chuyện với sự tôn kính đối với Imin, Tata và Enel, và cuối cùng đồng ý với Imin về mong muốn vẻ đẹp của Valinor.
 
-Cuối cùng, Imin đã đồng ý biểu quyết và khoảng 2/3 số Tiên tộc tập hợp vào thời điểm đó đã đồng ý đi đến Aman.<sup id="cite_ref-Ard_10-1" class="reference"><a href="#cite_note-Ard-10">[10]</a></sup>
+Cuối cùng, Imin đồng ý bỏ phiếu, và khoảng 2/3 số Yêu tinh tụ tập vào thời điểm đó đã đồng ý đi đến Aman.<sup id="cite_ref-Ard_10-1" class="reference"><a href="#cite_note-Ard-10">[10]</a></sup>
 
 <h5><span id="Ingw.C3.AB.27s_family"></span><span class="mw-headline" id="Ingwë&#39;s_family">Ingwë&#39;s family</span></h5>
 
@@ -267,7 +267,7 @@ Cuối cùng, Imin đã đồng ý biểu quyết và khoảng 2/3 số Tiên t�
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">Chi tiết này chỉ được tìm thấy trong <i>Quenta Noldorinwa</i> và <i>Lhammas</i> từ những năm 1930.</span>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">Chi tiết này chỉ được tìm thấy ở <i>Quenta Noldorinwa</i> và <i>Lhammas</i> từ những năm 1930.</span>
 </li>
 </ol></div></span>
 

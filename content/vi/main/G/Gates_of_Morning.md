@@ -22,17 +22,17 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Roger_Garland_-_The_Gate_of_Morn.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/45/Roger_Garland_-_The_Gate_of_Morn.jpg/250px-Roger_Garland_-_The_Gate_of_Morn.jpg" decoding="async" loading="lazy" width="250" height="267" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/45/Roger_Garland_-_The_Gate_of_Morn.jpg/375px-Roger_Garland_-_The_Gate_of_Morn.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/45/Roger_Garland_-_The_Gate_of_Morn.jpg/500px-Roger_Garland_-_The_Gate_of_Morn.jpg 2x" data-file-width="1169" data-file-height="1250"/></a><figcaption><i>The Gate of Morn</i> depicted by <a href="../R/Roger_Garland.md" title="Roger Garland">Roger Garland</a>.</figcaption></figure>
 
-**Cổng buổi sáng** nằm ở đâu đó trong [phương Đông của Thế giới](../U/Uttermost_East.md). Mặc dù người ta nói rằng các thủy thủ [Númenórean](../N/Númenóreans.md) vĩ đại, từ "*their high prows*", đã nhìn thấy Cánh cổng Buổi sáng trong chuyến hành trình xuyên biển của họ, nhưng không có thông tin gì thêm về những Cánh cổng này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-PM_3-0" class="reference"><a href="#cite_note-PM-3">[3]</a></sup>
+**Cổng buổi sáng** nằm ở đâu đó ở [Phía Đông thế giới](../U/Uttermost_East.md). Mặc dù người ta nói rằng các thủy thủ [Númenórean](../N/Númenóreans.md) vĩ đại, từ "*their high prows*", đã nhìn thấy Cánh cổng Buổi sáng trong chuyến hành trình xuyên biển của họ, nhưng không có thông tin gì thêm về những Cánh cổng này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-PM_3-0" class="reference"><a href="#cite_note-PM-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong thần thoại *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)* xuất hiện **Cổng Morn** hoặc **Cổng phương Đông**, qua đó [Sunship](../S/Sun.md) tái nhập vào Thế giới, sau khi du hành qua [Bóng tối Bên ngoài](../V/Void.md) ( Mặt Trời rời Thế giới qua [Cánh Cửa Đêm](../D/Door_of_Night.md)).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong thần thoại *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)* xuất hiện **Cổng Morn** hoặc **Cổng phía Đông**, qua đó [Sunship](../S/Sun.md) tái nhập vào Thế giới, sau khi du hành qua [Bóng tối bên ngoài](../V/Void.md) (Mặt trời rời Thế giới qua [Cánh cửa bóng đêm](../D/Door_of_Night.md)).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Tuy nhiên, với việc "[Sketch of the Mythology](../S/Sketch_of_the_Mythology.md)" [Tolkien](../J/J.R.R._Tolkien.md) nghĩ lại nền tảng thiên văn trong thần thoại của mình,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> và Mặt Trời đi xuống bên dưới Trái đất. [Christopher Tolkien](../C/Christopher_Tolkien.md) do đó đã nhận xét rằng sự xuất hiện lại của khái niệm như vậy trong nhiều phiên bản của câu chuyện *[Akallabêth](../A/Akallabêth.md)* thật đáng kinh ngạc.<sup id="cite_ref-PM_3-1" class="reference"><a href="#cite_note-PM-3">[3]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Tuy nhiên, với "[Bản phác thảo thần thoại](../S/Sketch_of_the_Mythology.md)" [Tolkien](../J/J.R.R._Tolkien.md) đã nghĩ lại nền tảng thiên văn trong thần thoại của mình,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> và Mặt trời đi xuống bên dưới Trái đất. [Christopher Tolkien](../C/Christopher_Tolkien.md) do đó đã nhận xét rằng sự xuất hiện lại của khái niệm như vậy trong nhiều phiên bản của câu chuyện *[Akallabêth](../A/Akallabêth.md)* thật đáng kinh ngạc.<sup id="cite_ref-PM_3-1" class="reference"><a href="#cite_note-PM-3">[3]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Cánh Cửa Đêm](../D/Door_of_Night.md)
+- [Cánh cửa đêm](../D/Door_of_Night.md)
 
 <span></span>
 

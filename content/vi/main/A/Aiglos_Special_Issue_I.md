@@ -37,7 +37,7 @@ infobox:
 ## Nội dung {#Contents}
 
 - **Ảnh bìa**
-    - "Và Orc bỏ chạy trước mặt anh ta"
+    - "Và Orc bỏ chạy trước mặt ông ta"
         - Bởi: ['Kasiopea'](../C/Catherine_Karina_Chmiel.md)
 
 - **Bài viết và tiểu luận**
@@ -101,7 +101,7 @@ Thần thoại của     - "Tolkien trong bối cảnh truyền thống thần t
 - **Minh họa**
     - Bởi: ['Kasiopea'](../C/Catherine_Karina_Chmiel.md)
 biểu tượng         - *Aiglos*
-        - ảnh bìa *Và Orc bỏ chạy trước mặt anh ta*
+        - ảnh bìa *Và Orc bỏ chạy trước mặt ông ta*
         - *[Lúthien](../L/Lúthien.md) and [Huan](../H/Huan.md)*
         - *[Parth Galen](../P/Parth_Galen.md)*
         - *This Is My Son [Maeglin](../M/Maeglin.md)*

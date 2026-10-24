@@ -45,7 +45,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen125.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/ce/AmonHen125.jpg/320px-AmonHen125.jpg" decoding="async" loading="lazy" width="320" height="459" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/ce/AmonHen125.jpg/480px-AmonHen125.jpg 1.5x, https://tolkiengateway.net/w/images/c/ce/AmonHen125.jpg 2x" data-file-width="572" data-file-height="821"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 125</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Amanda_Campbell.md" title="Amanda Campbell">Amanda Fingleson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Susanne Stopfel</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Centurion Press, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">January <a href="../_/1994.md" title="1994">1994</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_124.md" title="Amon Hen 124">Amon Hen 124</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_126.md" title="Amon Hen 126">Amon Hen 126</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 125</b> là số một trăm hai mươi lăm của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng Giêng [1994](../_/1994.md).
+<b><i>Amon Hen</i> 125</b> là số thứ 125 của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 1 [1994](../_/1994.md).
 
 ## Nội dung {#Contents}
 
@@ -57,7 +57,7 @@ infobox:
 - Truy nã! Một nhân viên đặt chỗ
 - Tác phẩm nghệ thuật: *"Nó rơi ra khỏi lưng một tên Nazgul, guv, thành thật mà nói thì đúng là như vậy!"*
     - Bởi: [John Ellison](../J/John_Ellison.md)
-- Thuộc địa Numenorean và Gondor
+- Thuộc địa Numenorean và Gondorian
     - Bởi: Jason Finch
 - Các loại của Annie
     - Bởi: Annie Haward
@@ -78,16 +78,16 @@ infobox:
     - Bởi: Andrew Wells
 - Ô chữ
     - Bởi: Dave Loboda
-- Thư gửi Shire
-- Báo chí nhỏ
+- Thư gửi Quận
+- Máy ép nhỏ
     - Bởi: Jenny Coombs
 - Phía sau cánh cửa kính
     - Bởi: Annie Haward
 - Tác phẩm nghệ thuật: *Balrog*
     - Bởi: Andrew Fiddy
-- Bài thơ: Farmer Giles of Ham (đoạt giải cuộc thi)
+- Bài thơ: Anh nông dân Giles xứ Ham (đoạt giải cuộc thi)
     - Bởi: F.E. Mackie
-- Ảnh minh họa bổ sung
+- Tác phẩm nghệ thuật bổ sung
     - Bởi: Ian Collier, "PW" (?), Steve Lines và Howard J. Bates
 
 <br>

@@ -12,11 +12,11 @@ categories:
   - "Animals"
 ---
 
-**Nốt ruồi** là những động vật nhỏ màu đen, dường như rất quen thuộc với người dân [Gondolin](../G/Gondolin.md). [Maeglin](Maeglin.md) lấy nó làm biểu tượng của [Ngôi nhà của Chuột chũi](../H/House_of_the_Mole.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Nốt ruồi** là những động vật nhỏ màu đen, dường như rất quen thuộc với người dân [Gondolin](../G/Gondolin.md). [Maeglin](Maeglin.md) lấy nó làm biểu tượng của [House of the Mole](../H/House_of_the_Mole.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Tên khác {#Other_names}
 
-Vì từ <i><a class="external text" href="http://en.wiktionary.org/wiki/mole" rel="noreferrer noopener" target="_blank">nốt ruồi</a></i> có nhiều nghĩa trong tiếng Anh nên khó có thể biết liệu một từ Elvish có ám chỉ đến con vật hay không. Trong mọi trường hợp, một số tên được đặt: [Qenya](../Q/Qenya.md) *noldare*, *nolpa* ("nốt ruồi"); [Gnomish](../G/Gnomish.md) *dolfa*, *dolmeg* ("chuột chũi") và *meg* ("bất kỳ động vật nhỏ nào, đặc biệt là chuột chũi").<sup id="cite_ref-PE11_2-0" class="reference"><a href="#cite_note-PE11-2">[2]</a></sup>
+Vì từ <i><a class="external text" href="http://en.wiktionary.org/wiki/mole" rel="noreferrer noopener" target="_blank">nốt ruồi</a></i> có nhiều nghĩa trong tiếng Anh nên khó có thể biết liệu một từ của người Tiên có ám chỉ đến con vật hay không. Trong mọi trường hợp, một số tên được đặt: [Qenya](../Q/Qenya.md) *noldare*, *nolpa* ("một nốt ruồi"); [Gnomish](../G/Gnomish.md) *dolfa*, *dolmeg* ("chuột chũi") và *meg* ("bất kỳ động vật nhỏ nào, đặc biệt là chuột chũi").<sup id="cite_ref-PE11_2-0" class="reference"><a href="#cite_note-PE11-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

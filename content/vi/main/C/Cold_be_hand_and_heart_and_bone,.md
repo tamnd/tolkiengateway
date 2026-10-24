@@ -19,7 +19,7 @@ images:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-**Lạnh lùng cả tay, tim và xương,** là dòng đầu tiên của [câu thần chú](../P/Poems_in_The_Lord_of_the_Rings.md) được hát bởi [Barrow-wight](../B/Barrow-wights.md) đã nhốt [Frodo Baggins](../F/Frodo_Baggins.md), [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md), [Peregrin Took](../P/Peregrin_Took.md) và [Samwise Gamgee](../S/Samwise_Gamgee.md) trong [xe cút kít](../B/Barrow.md) của nó sau khi họ rời khỏi [ngôi nhà](<../U/Underhill_(house).md>) của [Tom Bombadil](../T/Tom_Bombadil.md). Khi Frodo lần đầu tiên nghe thấy nó, nó không hơn gì một tiếng thì thầm, nhưng nhanh chóng biểu hiện thành một dòng âm thanh khủng khiếp và những lời nói lạnh lùng trước khi chuyển thành một câu thần chú khiến anh lạnh thấu xương.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Cold be hand and heart and bone,** was the first line of an [incantation](../P/Poems_in_The_Lord_of_the_Rings.md) sung by the [Barrow-wight](../B/Barrow-wights.md) that trapped [Frodo Baggins](../F/Frodo_Baggins.md), [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md), [Peregrin Took](../P/Peregrin_Took.md), and [Samwise Gamgee](../S/Samwise_Gamgee.md) in its [barrow](../B/Barrow.md) after they left [Tom Bombadil](../T/Tom_Bombadil.md)'s [house](<../U/Underhill_(house).md>). When Frodo first heard it, it was no more than a murmur, but soon manifested as a stream of horrible sounds and cold words before changing into an incantation that chilled him to the bone.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bài thơ {#Poem}
 
@@ -37,7 +37,7 @@ images:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
 
 <dl><dd><a href="../G/Gollum.md" title="Gollum">Gollum</a> chants an altered version of the poem in the <a href="../D/Dead_Marshes.md" title="Dead Marshes">Dead Marshes</a> just before Frodo refers to him as Sméagol:</dd></dl>
 
@@ -49,11 +49,11 @@ images:
 </p>
 </div>
 
-<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)">The Lord of the Rings: The Fellowship of the Ring (trò chơi điện tử)</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn (trò chơi điện tử)</a></i>:</b>
 
 <dl><dd>A disembodied voice can be heard reciting the incantation in the background during Frodo&#39;s battle with the Barrow-wight.</dd></dl>
 
-<b>2024: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
+<b>2024: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">Chúa tể của những chiếc nhẫn: Những chiếc nhẫn quyền lực</a></i>:</b>
 
 <dl><dd>In season two, the Barrow-wights are heard chanting this poem.</dd></dl>
 

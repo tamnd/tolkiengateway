@@ -62,7 +62,7 @@ Sự kiện xảy ra vào ngày 18 tháng 4.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [Christopher Wiseman](../C/Christopher_Wiseman.md), Cặp anh em song sinh vĩ đại, gặp nhau ở Harrogate và thảo luận về số phận của [Barrovians](../T/T.C.B.S..md) cũng như tương lai của Hội.
+- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [Christopher Wiseman](../C/Christopher_Wiseman.md), Great Twin Brethren, gặp nhau ở Harrogate và thảo luận về số phận của [Barrovians](../T/T.C.B.S..md) cũng như tương lai của Hội.
 - **[1930](1930.md)** - Diễn viên lồng tiếng [Clive Revill](../C/Clive_Revill.md) ra đời.
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 61](../L/Letter_61.md).
 - **[1945](1945.md)** - Người vẽ bản đồ nghiệp dư [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md) ra đời.
@@ -70,7 +70,7 @@ Sự kiện xảy ra vào ngày 18 tháng 4.
 - **[1955](1955.md)** - [Grant Major](../G/Grant_Major.md) ra đời.
 - **[1963](1963.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt đầu viết [một bức thư gửi ông bà Kloos](../L/Letter_to_Mr_and_Mrs_Kloos.md).
 - **[1984](1984.md)** - Diễn viên lồng tiếng [Francis de Wolff](../F/Francis_de_Wolff.md) qua đời.
-- **[2007](2007.md)** - Ngày thứ tư và cũng là ngày cuối cùng của [The Children of Húrin Bữa tiệc phát hành](../T/The_Children_of_Húrin_Release_Party.md) do [Tolkien Gateway](../T/Tolkien_Gateway.md) chủ trì.
+- **[2007](2007.md)** - Ngày thứ tư và cũng là ngày cuối cùng của [The Children of Húrin Release Party](../T/The_Children_of_Húrin_Release_Party.md) được tổ chức bởi [Tolkien Gateway](../T/Tolkien_Gateway.md).
 
 ## Trong Arda {#In_Arda}
 

@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Radagast Con Nâu](../../main/R/Radagast.md) được kéo bởi [Rhosgobel Thỏ](../../main/R/Rabbits.md) - *[The Hobbit: An Unexpected Journey](../../main/T/The_Hobbit%253A_An_Unexpected_Journey.md)*
+[Radagast Con Nâu](../../main/R/Radagast.md) được kéo bởi [Thỏ Rhosgobel](../../main/R/Rabbits.md) - *[The Hobbit: An Unexpected Journey](../../main/T/The_Hobbit%253A_An_Unexpected_Journey.md)*
 
 ## Giấy phép {#Licensing}
 

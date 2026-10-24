@@ -33,7 +33,7 @@ infobox:
 **Mythcon 14** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ mười bốn.
 
 - **Chủ đề:** "Cấu trúc thần thoại ở [Tolkien](../J/J.R.R._Tolkien.md), [Lewis](../C/C.S._Lewis.md) và [Williams](../C/Charles_Williams.md)"
-- **Khách mời danh dự:** [C.S. Kilby](../C/Clyde_S._Kilby.md) (Inklings học giả & giám tuyển) và Stephen R. Donaldson (tác giả truyện giả tưởng)
+- **Khách mời danh dự:** [C.S. Kilby](../C/Clyde_S._Kilby.md) (Học giả & giám tuyển Inklings) và Stephen R. Donaldson (tác giả truyện giả tưởng)
 - **Chủ tịch:** [Glen GoodKnight](../G/Glen_GoodKnight.md)
 
 ## Liên kết ngoài {#External_links}

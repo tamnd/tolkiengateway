@@ -22,7 +22,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Riccardo Federici</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/2_September.md" title="2 September">2 September</a>, <a href="../_/1976.md" title="1976">1976</a></td></tr><tr><th scope="row" class="tg-infobox-label">Images</th><td class="tg-infobox-data"><a href="../../category/I/Images_by_Riccardo_Federici.md" title="Category:Images by Riccardo Federici">Images by Riccardo Federici</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Italy</td></tr></tbody></table>
 
-Riccardo Federici sinh ra ở Rome, Ý vào năm 1976. Sau khi hoàn thành trường nghệ thuật, anh đăng ký vào Khoa Kiến trúc tại Đại học La Sapienza đồng thời theo học ngành Tâm lý học. Anh ấy đã vẽ minh họa giải phẫu, truyện tranh dành cho trẻ em và minh họa quảng cáo. Năm 2008 anh có bước đột phá trong vai trò họa sĩ truyện tranh.
+Riccardo Federici sinh ra ở Rome, Ý vào năm 1976. Sau khi hoàn thành trường nghệ thuật, anh đăng ký vào Khoa Kiến trúc tại Đại học La Sapienza đồng thời theo học ngành Tâm lý học. Ông đã vẽ minh họa giải phẫu, truyện tranh dành cho trẻ em và minh họa quảng cáo. Năm 2008 anh có bước đột phá trong vai trò họa sĩ truyện tranh.
 
 ## Liên kết ngoài {#External_links}
 

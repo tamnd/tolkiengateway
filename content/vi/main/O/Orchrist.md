@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orcrist"
 ---
 
-Chuyển hướng đến [Orcrist](Orcrist.md).
+Chuyển hướng tới [Orcrist](Orcrist.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Isengar Took"
 ---
 
-Chuyển hướng tới [Isengar Đã thực hiện](Isengar_Took.md).
+Chuyển hướng tới [Isengar Took](Isengar_Took.md).

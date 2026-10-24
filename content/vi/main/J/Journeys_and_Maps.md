@@ -32,6 +32,6 @@ infobox:
 
 ## Mô tả chính thức {#Official_description}
 
-*Journeys and Maps* là một bộ bốn bản đồ khổ lớn, hai mặt, bao gồm phần lớn của Trung Địa: Eriador, Wilderland, Rohan và Gondor/Mordor. Với bản đồ Người chơi và bản đồ Lore Master được lục giác, những bản đồ này cung cấp công cụ hỗ trợ chơi vô giá để lập kế hoạch cho chuyến hành trình *One Ring* của bạn.
+*Journeys and Maps* là một bộ gồm bốn bản đồ khổ lớn, hai mặt, bao gồm phần lớn Trung Địa: Eriador, Wilderland, Rohan và Gondor/Mordor. Với bản đồ Người chơi và bản đồ Lore Master được lục giác, những bản đồ này cung cấp công cụ hỗ trợ chơi vô giá để lập kế hoạch cho chuyến hành trình *One Ring* của bạn.
 
 Ngoài ra còn có phần bổ sung 32 trang, với các quy tắc di chuyển bằng đường thủy bằng đường biển và đường sông, chỉ mục về tất cả các địa điểm được đề cập trong phần bổ sung *The One Ring Roleplaying Game* cho đến nay, một hệ thống ghi chi tiết các di tích được tìm thấy dọc đường, một bộ sưu tập hữu ích về các mối nguy hiểm theo địa hình cụ thể và một phần trình bày chi tiết các kỳ quan thiên nhiên, chỗ ở và những người bạn đồng hành mà Công ty của bạn có thể tìm thấy trên đường đi.

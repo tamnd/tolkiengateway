@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Marcho and Blanco"
 ---
 
-Chuyển hướng đến [Marcho và Blanco](Marcho_and_Blanco.md).
+Chuyển hướng tới [Marcho và Blanco](Marcho_and_Blanco.md).

@@ -24,13 +24,13 @@ images:
 
 **Sự bất an của [Ulmo](../U/Ulmo.md)**<sup id="cite_ref-WJ-TY_1-0" class="reference"><a href="#cite_note-WJ-TY-1">[1]</a></sup> là niềm khao khát đi biển mãnh liệt hoặc mong muốn quay trở lại biển thường ảnh hưởng đến [Eldar](../E/Eldar.md).
 
-Những [Noldor](../N/Noldor.md) nán lại [Trung Địa](../M/Middle-earth.md) có một niềm khao khát không nguôi đối với Biển, cùng với nỗi nhớ [ngôi nhà của họ](../E/Eldamar.md). Nó đã ngủ yên trong trái tim của [Sindar](Sindar.md), cho đến khi nó thức dậy<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> sau khi nhìn thấy [Belegaer](../B/Belegaer.md), Đại Hải ở phía tây của [Trung Địa](../M/Middle-earth.md), lần đầu tiên. Tiếng kêu của [hải âu](../G/Gulls.md) đã đánh thức niềm khao khát biển cả trong trái tim [Legolas](../L/Legolas.md)khi anh nghe thấy chúng ở [Pelargir](../P/Pelargir.md).<sup id="cite_ref-LR-TLB_3-0" class="reference"><a href="#cite_note-LR-TLB-3">[3]</a></sup>
+Những [Noldor](../N/Noldor.md) sống sót ở [Trung Địa](../M/Middle-earth.md) có một niềm khao khát mãnh liệt đối với Biển cả, cùng với nỗi nhớ về [quê hương của họ](../E/Eldamar.md). Nó đã ngủ yên trong trái tim của [Sindar](Sindar.md), cho đến khi nó thức dậy<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> sau khi nhìn thấy [Belegaer](../B/Belegaer.md), Biển Lớn ở phía tây [Trung Địa](../M/Middle-earth.md), lần đầu tiên. Tiếng kêu của [hải âu](../G/Gulls.md) đã đánh thức niềm khao khát biển cả trong trái tim [Legolas](../L/Legolas.md) khi anh nghe thấy chúng ở [Pelargir](../P/Pelargir.md).<sup id="cite_ref-LR-TLB_3-0" class="reference"><a href="#cite_note-LR-TLB-3">[3]</a></sup>
 
-[Tuor](../T/Tuor.md) lần đầu tiên cảm thấy Sự bất an của Ulmo khi anh nhìn vào Belegaer, và anh cảm nhận được điều đó mãi mãi về sau. Niềm khao khát này cũng được truyền sang con trai ông, [Eärendil](../E/Eärendil.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Ngoài ra, những ai nghe thấy âm nhạc của [Ulumúri](../U/Ulumúri.md), tiếng kèn của Ulmo, sẽ luôn cảm thấy khao khát biển cả.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+[Tuor](../T/Tuor.md) lần đầu tiên cảm nhận được Sự bất an của Ulmo khi nhìn thấy Belegaer, và ông đã cảm nhận được điều đó mãi mãi sau đó. Niềm khao khát này cũng được truyền sang con trai ông, [Eärendil](../E/Eärendil.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Ngoài ra, những ai nghe âm nhạc của [Ulumúri](../U/Ulumúri.md), những chiếc sừng của Ulmo, sẽ luôn cảm thấy khao khát biển cả.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Khái niệm thèm biển đã có trong dự thảo *[The Tale of Eärendel](../T/The_Tale_of_Eärendel.md)*; trong một số phiên bản, [Tuor](../T/Tuor.md) hoặc Tûr, nghe thấy tiếng ốc xà cừ của Ulmo hay 'khao khát biển lớn', lên thuyền biến mất trên biển, để lại [Idril](../I/Idril.md) và Earendil ở lại.
+Khái niệm thèm biển đã có trong dự thảo *[The Tale of Eärendel](../T/The_Tale_of_Eärendel.md)*; trong một số phiên bản, [Tuor](../T/Tuor.md) hoặc Tûr, nghe thấy tiếng ốc xà cừ của Ulmo hay 'sự đói khát trên biển', lên thuyền biến mất trên biển, để lại [Idril](../I/Idril.md) và Earendil ở phía sau.
 
 ## Cảm hứng {#Inspiration}
 
@@ -40,13 +40,13 @@ Khái niệm thèm biển đã có trong dự thảo *[The Tale of Eärendel](..
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Horns_of_Ylmir.md" title="The Horns of Ylmir">The Horns of Ylmir</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Vào mùa hè năm [1914](../_/1914.md) Tolkien đến thăm Bán đảo Lizard ở Cornwall, nơi biển đã để lại ấn tượng sâu sắc trong anh và truyền cảm hứng cho anh viết một bài thơ.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Vào mùa hè năm [1914](../_/1914.md) Tolkien đến thăm Bán đảo Lizard ở Cornwall, nơi biển đã để lại ấn tượng sâu sắc trong ông và truyền cảm hứng cho ông viết một bài thơ.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Theo Norma Roche, sức hấp dẫn của Biển trong các tác phẩm của Tolkien không phải vì biển và việc chèo thuyền, mà là về những gì nằm bên kia biển: thiên đường của Phương Tây.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Theo Norma Roche, sức hút của Biển trong các tác phẩm của Tolkien không phải vì biển và việc chèo thuyền, mà là về những gì nằm bên kia biển: thiên đường của phương Tây.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Đại Hành Trình](../G/Great_Journey.md)
+- [Hành trình vĩ đại](../G/Great_Journey.md)
 
 <span></span>
 

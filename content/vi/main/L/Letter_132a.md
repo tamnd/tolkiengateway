@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư gửi con trai [John](../J/John_Tolkien.md), Tolkien mô tả tác động gián đoạn của việc gia tăng giao thông ở [Oxford](../O/Oxford.md) sau chiến tranh, đặc biệt là trên [Phố Holywell](../_/99_Holywell_Street.md). Anh ấy bày tỏ sự lo lắng cho sức khỏe của [Edith](../E/Edith_Tolkien.md), cho rằng <a class="extiw" href="http://en.wikipedia.org/wiki/Neuritis" title="wikipedia:Neuritis">viêm dây thần kinh</a> của cô ấy là do tiếng ồn liên tục từ đường phố. Bất chấp những xáo trộn này, nhìn chung cô ấy vẫn vui vẻ và hạnh phúc hơn.
+Trong bức thư gửi con trai [John](../J/John_Tolkien.md), Tolkien mô tả tác động đột phá của việc gia tăng giao thông ở [Oxford](../O/Oxford.md) thời hậu chiến, đặc biệt là trên [Phố Holywell](../_/99_Holywell_Street.md). Ông bày tỏ sự lo lắng cho sức khỏe của [Edith](../E/Edith_Tolkien.md), cho rằng <a class="extiw" href="http://en.wikipedia.org/wiki/Neuritis" title="wikipedia:Neuritis">viêm dây thần kinh</a> của bà là do tiếng ồn liên tục từ đường phố. Bất chấp những xáo trộn này, nhìn chung bà vẫn vui vẻ và hạnh phúc hơn.
 
-Tolkien thảo luận về kế hoạch sắp xếp lại không gian sống của họ để giảm thiểu tiếng ồn, cân nhắc việc chuyển phòng của anh ấy lên lầu, nhưng những thay đổi này sẽ phải đợi cho đến sau kỳ thi hiện tại của anh ấy. Ông cũng ghi nhận sự trẻ hóa của khu vườn của họ, khu vườn đang bắt đầu đâm chồi. <br>
+Tolkien thảo luận về kế hoạch sắp xếp lại không gian sống của họ để giảm thiểu tiếng ồn, cân nhắc chuyển phòng của ông lên lầu, nhưng những thay đổi này sẽ phải đợi cho đến sau nghĩa vụ thi hiện tại của ông. Ông cũng ghi nhận sự trẻ hóa của khu vườn của họ, khu vườn đang bắt đầu đâm chồi. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-This photo, shot by [Charles Noad](../../main/C/Charles_Noad.md), was taken during one of the [Tolkien Society](../../main/T/Tolkien_Society.md)'s [Oxonmoots](../../main/O/Oxonmoot.md) in the 1980s. There, the two hobbit ladies are seen in costume.
+Bức ảnh này do [Charles Noad](../../main/C/Charles_Noad.md) chụp, được chụp trong một trong những [Tolkien Hội](../../main/T/Tolkien_Society.md) [Oxonmoots](../../main/O/Oxonmoot.md) của Hội vào những năm 1980. Ở đó, hai quý cô hobbit được nhìn thấy trong trang phục hóa trang.
 
 ## Giấy phép {#License}
 

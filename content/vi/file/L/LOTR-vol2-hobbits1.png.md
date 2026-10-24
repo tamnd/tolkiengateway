@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Frodo](../../main/F/Frodo_Baggins.md), [Sam](../../main/S/Sam_Gamgee.md), [Merry](../../main/M/Merry_Brandybuck.md) và [Pippin](../../main/P/Pippin_Took.md) trong [The Lord of the Rings, Tập. II: The Two Towers](../../main/T/The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md).
+[Frodo](../../main/F/Frodo_Baggins.md), [Sam](../../main/S/Sam_Gamgee.md), [Merry](../../main/M/Merry_Brandybuck.md) và [Pippin](../../main/P/Pippin_Took.md) trong [The Lord of the Rings, Vol. II: The Two Towers](../../main/T/The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md).
 
 ## Giấy phép {#Licensing}
 

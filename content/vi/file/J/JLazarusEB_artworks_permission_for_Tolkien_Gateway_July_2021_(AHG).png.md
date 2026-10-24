@@ -23,6 +23,6 @@ file:
   user: "A Hobbit Gentleman"
 ---
 
-Ảnh chụp màn hình về sự cho phép của JLazarusEB (trò chuyện DeviantArt) để sử dụng Tolkien tác phẩm nghệ thuật của anh ấy cho mục đích phi thương mại trên Tolkien Gateway. Ảnh chụp màn hình tin nhắn của anh ấy trong cuộc trò chuyện, được biên soạn dưới dạng hình ảnh .png lớn.
+Ảnh chụp màn hình về sự cho phép của JLazarusEB (trò chuyện DeviantArt) để sử dụng Tolkien tác phẩm nghệ thuật của ông cho mục đích phi thương mại trên Tolkien Gateway. Ảnh chụp màn hình tin nhắn của ông trong cuộc trò chuyện, được biên soạn dưới dạng hình ảnh .png lớn.
 
 Vui lòng xem [Bản quyền - JLazarusEB](../../project/C/Copyrights%252FJLazarusEB.md) để biết thêm thông tin.

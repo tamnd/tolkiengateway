@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hunt for Gollum"
 ---
 
-Chuyển hướng tới [Cuộc săn lùng Gollum](The_Hunt_for_Gollum.md).
+Chuyển hướng đến [Cuộc săn lùng Gollum](The_Hunt_for_Gollum.md).

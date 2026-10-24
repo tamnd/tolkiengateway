@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Ride of the Rohirrim"
 ---
 
-Chuyển hướng tới [Chuyến đi của Rohirrim](../T/The_Ride_of_the_Rohirrim.md).
+Chuyển hướng đến [Chuyến đi của người Rohirrim](../T/The_Ride_of_the_Rohirrim.md).

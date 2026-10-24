@@ -40,15 +40,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Gorbulas Brandybuck</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2908.md" title="Third Age 2908">1308</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data">before <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_3001.md" title="Third Age 3001">1401</a><br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../B/Brandybuck_Family~66350.md" title="Brandybuck Family">Brandybuck</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../O/Orgulas_Brandybuck.md" title="Orgulas Brandybuck">Orgulas Brandybuck</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../M/Marmadas_Brandybuck.md" title="Marmadas Brandybuck">Marmadas Brandybuck</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Gorbulas Brandybuck** là [Hobbit](../H/Hobbits.md) của [the Shire](../T/The_Shire.md).
+**Gorbulas Brandybuck** là một [Hobbit](../H/Hobbits.md) của [Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
-Gorbulas là con trai của [Orgulas Brandybuck](../O/Orgulas_Brandybuck.md), con trai của [Chủ nhân của Buckland](../M/Master_of_Buckland.md). Bản thân ông có một con trai, [Marmadas Brandybuck](../M/Marmadas_Brandybuck.md). Ông ấy đã chết trước đây [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Gorbulas là con trai của [Orgulas Brandybuck](../O/Orgulas_Brandybuck.md), con trai thứ của [Chủ nhân của Buckland](../M/Master_of_Buckland.md). Bản thân ông có một con trai, [Marmadas Brandybuck](../M/Marmadas_Brandybuck.md). Ông ấy chết một thời gian trước [Bữa tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Ý nghĩa của cái tên *Gorbulas* vẫn chưa được biết. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên của Bucklanders có kiểu [Celtic](../C/Celtic.md) mơ hồ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Jim Allan](../J/Jim_Allan.md) gợi ý rằng tên *Gorbulas* kết hợp phần đầu tiên của *Gorbadoc* với phần thứ hai của *Orgulas*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Ý nghĩa của cái tên *Gorbulas* vẫn chưa được biết. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên của Bucklanders có phong cách [Celtic](../C/Celtic.md) mơ hồ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Jim Allan](../J/Jim_Allan.md) gợi ý rằng tên *Gorbulas* kết hợp phần đầu tiên của *Gorbadoc* với phần thứ hai của *Orgulas*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Later Quenta Silmarillion"
 ---
 
-Chuyển hướng tới [Sau này Quenta Silmarillion](../T/The_Later_Quenta_Silmarillion.md).
+Chuyển hướng tới [Quenta Silmarillion sau này](../T/The_Later_Quenta_Silmarillion.md).

@@ -64,23 +64,23 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Blake_Henriksen_-_Nori.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3e/Blake_Henriksen_-_Nori.jpg/320px-Blake_Henriksen_-_Nori.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3e/Blake_Henriksen_-_Nori.jpg/480px-Blake_Henriksen_-_Nori.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3e/Blake_Henriksen_-_Nori.jpg/640px-Blake_Henriksen_-_Nori.jpg 2x" data-file-width="800" data-file-height="800"/></a><figcaption>&#34;Nori&#34; by <a href="../../category/I/Images_by_Blake_Henriksen.md" title="Category:Images by Blake Henriksen">Blake Henriksen</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../D/Dwarves.md" title="Dwarves">Dwarf</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Nori</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="mw-redirect" href="../T/Thorin&#39;s_Halls.md" title="Thorin&#39;s Halls">Thorin&#39;s Halls</a><br/><a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Erebor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../K/Khuzdul.md" title="Khuzdul">Khuzdul</a> and <a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">Between <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2763.md" title="Third Age 2763">2763</a> and c. <a href="../T/Third_Age_2814.md" title="Third Age 2814">2814</a><sup><a class="mw-selflink-fragment" href="#Family_and_birth">NB</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Notable for</th><td class="tg-infobox-data"><a href="../Q/Quest_of_Erebor.md" title="Quest of Erebor">The Quest of Erebor</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data"><a href="../H/House_of_Durin.md" title="House of Durin">House of Durin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="../D/Dori.md" title="Dori">Dori</a><sup id="cite_ref-Person_1-0" class="reference"><a href="#cite_note-Person-1">[1]</a></sup></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Clothing</th><td class="tg-infobox-data">Purple hood and a silver belt<sup id="cite_ref-Person_1-1" class="reference"><a href="#cite_note-Person-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Nori.md" title="Category:Images of Nori">Images of Nori</a></td></tr></tbody></table>
 
-**Nori** là một trong [Dân tộc Durin](../D/Durin's_Folk~15256.md) và có thể đã cư trú ở miền bắc [Dãy Núi Xanh](../B/Blue_Mountains.md) cùng với [Thorin](../T/Thorin.md) sau khi người này định cư ở đó.<sup id="cite_ref-Durin_2-0" class="reference"><a href="#cite_note-Durin-2">[2]</a></sup> Anh ta là một trong mười ba Người Lùn [đoàn tùy tùng của Thorin](../T/Thorin_and_Company.md) đã hành trình đến [Erebor](../L/Lonely_Mountain.md) để thách thức [con rồng](../D/Dragons.md) [Smaug](../S/Smaug.md). Sau cái chết của Smaug, Nori sống với phần kho báu của mình tại Ngọn Núi Cô Đơn.<sup id="cite_ref-Meetings_3-0" class="reference"><a href="#cite_note-Meetings-3">[3]</a></sup>
+**Nori** was one of [Durin's Folk](../D/Durin's_Folk~15256.md) and likely dwelt in the northern [Blue Mountains](../B/Blue_Mountains.md) with [Thorin](../T/Thorin.md) after the latter had settled there.<sup id="cite_ref-Durin_2-0" class="reference"><a href="#cite_note-Durin-2">[2]</a></sup> He was one of the thirteen Dwarves of [Thorin's company](../T/Thorin_and_Company.md) who journeyed to [Erebor](../L/Lonely_Mountain.md) to challenge the [dragon](../D/Dragons.md) [Smaug](../S/Smaug.md). After the death of Smaug, Nori lived with his share of the treasure at the Lonely Mountain.<sup id="cite_ref-Meetings_3-0" class="reference"><a href="#cite_note-Meetings-3">[3]</a></sup>
 
 ## Lịch sử {#History}
 
 ### Gia đình và sự ra đời {#Family_and_birth}
 
-Không rõ nguồn gốc của Nori, mặc dù anh ta là bà con xa của Thorin và là thành viên của [Gia tộc Durin](../H/House_of_Durin.md).<sup id="cite_ref-Durin_2-1" class="reference"><a href="#cite_note-Durin-2">[2]</a></sup> Anh ta cũng là anh trai của [Dori](../D/Dori.md) và là anh họ của [Ori](../O/Ori.md).<sup id="cite_ref-Person_1-2" class="reference"><a href="#cite_note-Person-1">[1]</a></sup> Năm sinh của anh ta cũng không rõ.
+Không rõ nguồn gốc của Nori, mặc dù ông ta là bà con xa của Thorin và là thành viên của [Gia tộc Durin](../H/House_of_Durin.md).<sup id="cite_ref-Durin_2-1" class="reference"><a href="#cite_note-Durin-2">[2]</a></sup> Ông ta cũng là anh trai của [Dori](../D/Dori.md) và là anh họ của [Ori](../O/Ori.md).<sup id="cite_ref-Person_1-2" class="reference"><a href="#cite_note-Person-1">[1]</a></sup> Năm sinh của ông ta cũng không rõ.
 
-Tuy nhiên, trong lời kể của [Bilbo Baggins](../B/Bilbo_Baggins.md) về nhiệm vụ Erebor anh ta nói rằng hai anh em [Fíli](../F/Fíli.md) và [Kíli](../K/Kíli.md) là người trẻ nhất trong số mười ba người "khoảng năm mươi tuổi",<sup id="cite_ref-Hill_4-0" class="reference"><a href="#cite_note-Hill-4">[4]</a></sup> và khi Thorin mất tích [Balin](../B/Balin.md) là "anh cả còn lại".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Vì Kíli sinh năm [T.A.](../T/Third_Age.md) [2864](../T/Third_Age_2864.md) và Balin sinh năm [2763](../T/Third_Age_2763.md),<sup id="cite_ref-Durin_2-2" class="reference"><a href="#cite_note-Durin-2">[2]</a></sup> điều này sẽ đặt ngày sinh của Nori giữa [2763](../T/Third_Age_2763.md) và c. 2814, và anh ta sẽ ở giữa c. 127 và 178 tuổi trong nhiệm vụ Erebor.
+Tuy nhiên, trong lời kể của [Bilbo Baggins](../B/Bilbo_Baggins.md) về cuộc tìm kiếm Erebor, ông nói rằng hai anh em [Fíli](../F/Fíli.md) và [Kíli](../K/Kíli.md) là người trẻ nhất trong số mười ba người "khoảng 50 tuổi",<sup id="cite_ref-Hill_4-0" class="reference"><a href="#cite_note-Hill-4">[4]</a></sup> và khi Thorin mất tích [Balin](../B/Balin.md) là "người lớn tuổi nhất còn lại".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Vì Kíli sinh năm [T.A.](../T/Third_Age.md) [2864](../T/Third_Age_2864.md) và Balin sinh năm [2763](../T/Third_Age_2763.md),<sup id="cite_ref-Durin_2-2" class="reference"><a href="#cite_note-Durin-2">[2]</a></sup> điều này sẽ đặt ngày sinh của Nori vào giữa [2763](../T/Third_Age_2763.md) và c. 2814, và ông ta sẽ ở giữa c. 127 và 178 tuổi trong hành trình tới Erebor.
 
-### Nhiệm vụ của Erebor {#The_Quest_of_Erebor}
+### Cuộc truy tìm Erebor {#The_Quest_of_Erebor}
 
-Nori là một trong năm Người Lùn trong nhóm thứ tư đạt được [Bag End](../B/Bag_End.md). Anh ta đội một chiếc mũ trùm đầu màu tím. Vào buổi tối khi Thorin kêu nhạc, Nori (cùng với Dori và Ori) đã thổi sáo.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Tại Hội trường của Beorn, khi [Gandalf](../G/Gandalf.md) đang kể câu chuyện về cuộc phiêu lưu của công ty tới [Beorn](../B/Beorn.md), Nori và Ori là hai Người Lùn thứ hai xuất hiện.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Nori đã chiến đấu và sống sót sau [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md). Anh ấy đã được [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) chia sẻ kho báu của mình và chuyển đến sống ở Erebor cùng với Dori và Ori.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Nori là một trong năm Người lùn trong nhóm thứ tư đến [Bag End](../B/Bag_End.md). Ông ta đội một chiếc mũ trùm đầu màu tím. Vào buổi tối khi Thorin gọi nhạc, Nori (cùng với Dori và Ori) đã thổi sáo.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Tại Beorn's Halls, khi [Gandalf](../G/Gandalf.md) đang kể câu chuyện về chuyến phiêu lưu của cả nhóm tới [Beorn](../B/Beorn.md), Nori và Ori là hai Người lùn thứ hai xuất hiện.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Nori đã chiến đấu và sống sót sau [Trận chiến năm người Quân đội](../B/Battle_of_Five_Armies.md). Ông đã được [Dáin Ironfoot](../D/Dáin_Ironfoot.md) trao cho phần kho báu của mình và định cư tại Erebor cùng với Dori và Ori.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 ### Đời sau {#Later_life}
 
-Nori sống một cuộc sống giàu có sau nhiệm vụ đòi lại Ngọn Núi Cô Đơn. Ngày mất của ông không rõ nhưng ông vẫn còn sống vào thời [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-Meetings_3-1" class="reference"><a href="#cite_note-Meetings-3">[3]</a></sup>
+Nori sống một cuộc sống giàu có sau nhiệm vụ đòi lại Ngọn núi cô đơn. Ngày mất của ông không rõ nhưng ông vẫn còn sống trong [War of the Ring](../W/War_of_the_Ring.md).<sup id="cite_ref-Meetings_3-1" class="reference"><a href="#cite_note-Meetings-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -103,7 +103,7 @@ Nori sống một cuộc sống giàu có sau nhiệm vụ đòi lại Ngọn N�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-### Nori trong các bản chuyển thể {#Nori_in_adaptations}
+### Nori trong bản chuyển thể {#Nori_in_adaptations}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 285px">
@@ -138,31 +138,31 @@ Nori sống một cuộc sống giàu có sau nhiệm vụ đòi lại Ngọn N�
 
 ### Phim {#Films}
 
-<b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim 1967)</a>:</b>
+<b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>Người Hobbit</i> (phim 1967)</a>:</b>
 
 <dl><dd>Nori is omitted. <a href="../T/Thorin.md" title="Thorin">Thorin Oakenshield</a> only travels with an unnamed guard and the princess of Dale.<sup id="cite_ref-Deitch_10-0" class="reference"><a href="#cite_note-Deitch-10">[10]</a></sup></dd></dl>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>Người Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>Nori&#39;s voice is provided by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jack_DeLeon&amp;action=edit&amp;redlink=1" title="Jack DeLeon (page does not exist)">Jack DeLeon</a>. However, he only ever speaks in unison with the rest of the Dwarves.</dd></dl>
 
-<b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a>:</b>
+<b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>Người Hobbit</i> (loạt phim)</a>:</b>
 
 <dl><dd>Nori is played by <a href="../J/Jed_Brophy.md" title="Jed Brophy">Jed Brophy</a>.<sup id="cite_ref-PJCasting_11-0" class="reference"><a href="#cite_note-PJCasting-11">[11]</a></sup> A description of Nori in <i>The Hobbit</i> films was released by the studio:</dd></dl>
 
 <dl><dd><blockquote class="tg-quote noexcerpt"></blockquote></dd></dl>
 
-Có lẽ là thành viên khó nắm bắt nhất trong The Company of Thorin Oakenshield, Nori thường xuyên gặp rắc rối với chính quyền người lùn. Quyết định rằng đây có thể là thời điểm tốt để rời khỏi thị trấn, anh ấy sẵn sàng tham gia Cuộc tìm kiếm Ngọn Núi Cô Đơn mà không nhận ra rằng cuộc hành trình phía trước có thể khiến anh ấy gặp nhiều rắc rối hơn những gì anh ấy đã bỏ lại phía sau. Không ai biết rõ Nori nhanh trí và quỷ quyệt đang làm gì, ngoại trừ việc nó được đảm bảo là tinh vi và có thể là bất hợp pháp. Mặc dù hiếm khi chạm mắt với các anh em Dori và Ori của mình, nhưng anh ấy vẫn vô cùng trung thành và sẽ bảo vệ họ bằng mọi cách có thể.
+Có lẽ là thành viên khó nắm bắt nhất trong The Company of Thorin Oakenshield, Nori thường xuyên gặp rắc rối với chính quyền người lùn. Quyết định rằng đây có thể là thời điểm tốt để rời khỏi thị trấn, ông ta sẵn sàng tham gia Cuộc tìm kiếm Ngọn núi Cô đơn mà không nhận ra rằng cuộc hành trình phía trước có thể khiến ông ta gặp nhiều rắc rối hơn những gì ông ta đã bỏ lại phía sau. Không ai biết rõ Nori nhanh trí và ranh mãnh đang làm gì, ngoại trừ việc nó được đảm bảo là tinh vi và có thể là bất hợp pháp. Mặc dù hiếm khi chạm mắt với hai anh em Dori và Ori, nhưng ông vẫn vô cùng trung thành và sẽ bảo vệ họ bằng mọi cách có thể.
 
 <p class="tg-quote-footer"><cite><a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros.</a><sup id="cite_ref-HobbitApp_12-0" class="reference"><a href="#cite_note-HobbitApp-12">[12]</a></sup></cite></p>
 
 ### Loạt đài phát thanh {#Radio_series}
 
-<b>1968: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>The Hobbit</i> (loạt phim phát thanh 1968)</a>:</b>
+<b>1968: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>Người Hobbit</i> (loạt phim phát thanh năm 1968)</a>:</b>
 
 <dl><dd>Nori is played by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Antony_Viccars&amp;action=edit&amp;redlink=1" title="Antony Viccars (page does not exist)">Antony Viccars</a>.</dd></dl>
 
-<b>1979: <a href="../T/The_Hobbit_(1979_radio_series).md" title="The Hobbit (1979 radio series)"><i>The Hobbit</i> (loạt phim phát thanh 1979)</a>:</b>
+<b>1979: <a href="../T/The_Hobbit_(1979_radio_series).md" title="The Hobbit (1979 radio series)"><i>Người Hobbit</i> (loạt phim phát thanh năm 1979)</a>:</b>
 
 <dl><dd>No actor is specified for the role of Nori.</dd></dl>
 
@@ -172,21 +172,21 @@ Có lẽ là thành viên khó nắm bắt nhất trong The Company of Thorin Oa
 
 ### Trò chơi {#Games}
 
-<b>1982: <a href="../T/The_Hobbit_(1982_video_game).md" title="The Hobbit (1982 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 1982)</a>:</b>
+<b>1982: <a href="../T/The_Hobbit_(1982_video_game).md" title="The Hobbit (1982 video game)"><i>Người Hobbit</i> (trò chơi điện tử năm 1982)</a>:</b>
 
 <dl><dd>Nori is omitted; Thorin is the only companion of the player, <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></dd></dl>
 
-<b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
+<b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>Người Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
 
 <dl><dd>No actor is credited for the role of Nori.</dd></dl>
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd>After the Quest of Erebor, Nori has the position of Keeper of Coffers in Erebor. He is first found in the Gatehouse of the <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Lonely Mountain</a>, where he and his brother <a href="../D/Dori.md" title="Dori">Dori</a> brief the player on breaking the <a class="mw-redirect" href="../S/Siege_of_Erebor.md" title="Siege of Erebor">Siege of Erebor</a>. After the battle, Nori and the other surviving dwarves of the Company join <a href="../D/Dís.md" title="Dís">Dís</a> in paying respect at the tomb of <a class="mw-redirect" href="../T/Thorin_Oakenshield.md" title="Thorin Oakenshield">Thorin Oakenshield</a>.</dd></dl>
 
 <dl><dd>Sometime later the <a class="mw-redirect" href="../C/Cold-drake.md" title="Cold-drake">cold-drake</a> who slew King <a href="../D/Dáin_I.md" title="Dáin I">Dáin I</a> is thwarted in an attack on Erebor. Thinking &#34;Thikil-gundu, the Steel Keep&#34;, capital of <a class="mw-redirect" href="../D/Dáin&#39;s_Halls~64102.md" title="Dáin&#39;s Halls">Dáin&#39;s Halls</a> of old, must now lie unguarded, Nori secretly leads a small expedition to reclaim its lost wealth for the Longbeards. His brother Dori forms a small band of dwarves to rescue him from his folly, including his old companions <a href="../B/Bofur.md" title="Bofur">Bofur</a> and <a href="../G/Glóin.md" title="Glóin">Glóin</a>, and together with the player they follow Nori&#39;s trail across Ered Mithrin. They eventually find him in the Steel Keep.</dd></dl>
 
-<b>2014: <i><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit: Trò chơi điện tử</a></i>:</b>
+<b>2014: <i><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego Người Hobbit: Trò chơi điện tử</a></i>:</b>
 
 <dl><dd>Nori is featured in the game, with his appearance being based in the Peter Jackson&#39;s movies, but in the form of a <a class="mw-redirect" href="../L/LEGO~53346.md" title="LEGO">LEGO</a> minifigure, with Jed Brophy voicing the role through archive footage from the first two films.</dd></dl>
 

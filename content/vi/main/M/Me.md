@@ -13,7 +13,7 @@ categories:
   - "Quenya pronouns"
 ---
 
-<i><b>me</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "chúng tôi".
+<i><b>me</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "chúng tôi".
 
 ## Ví dụ {#Examples}
 

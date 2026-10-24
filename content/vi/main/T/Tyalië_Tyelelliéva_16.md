@@ -41,12 +41,12 @@ infobox:
 - Thư gửi Biên tập viên, của Ales Bican, Didier Willis và [Ryszard Derdziński](../R/Ryszard_Derdziński.md)
 - Hội nghị, Sự sụp đổ của [ICE](../I/Iron_Crown_Enterprises.md), Cập nhật ELPP, Tin đồn về phim
 - Đánh giá về phông chữ Sarati với dòng chữ nhỏ về kỳ lân
-- Namarie-linde Luineloteva của Ales Bican với chú thích của [H.K. Fauskanger](../H/Helge_Fauskanger.md), (bài thơ trong Quenya)
-- Morn'ellui của Didier Willis, (bài thơ trong Sindarin)
-- Turbeth Lossfin (Văn bia của Người tuyết) của Ryszard Derdziński, (dịch sang Sindarin và Anglo-Saxon với tengwar và cirth)
+- Namarie-linde Luineloteva của Ales Bican với chú thích của [H.K. Fauskanger](../H/Helge_Fauskanger.md), (thơ bằng Quenya)
+- Morn'ellui của Didier Willis, (thơ bằng tiếng Sindarin)
+- Turbeth Lossfin (Văn bia của Người tuyết) của Ryszard Derdziński, (bản dịch sang Sindarin và Anglo-Saxon với tengwar và cirth)
 - Bilbo của Manuel Colunga-Hernandez, (tác phẩm nghệ thuật)
-- So sánh Tính từ trong Quenya, phân tích ngôn ngữ của Lisa Star
-- Tolkien Bộ sưu tập tại [Marquette](../M/Marquette_University.md), Phần 2, báo cáo của Lisa Star
+- So sánh tính từ trong tiếng Quenya, phân tích ngôn ngữ của Lisa Star
+- Bộ sưu tập Tolkien tại [Marquette](../M/Marquette_University.md), Phần 2, báo cáo của Lisa Star
 - Các trang web mới và cập nhật, đặc biệt là những trang web tốt về thông tin ngôn ngữ
 - Rootplay: AD-NO \`door' (phân tích lịch sử phản xạ)
 - Bas du Page Bài tập về cửa và vật nuôi trong trang trại

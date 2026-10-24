@@ -42,23 +42,23 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen201.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1e/AmonHen201.jpg/320px-AmonHen201.jpg" decoding="async" loading="lazy" width="320" height="427" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1e/AmonHen201.jpg/480px-AmonHen201.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1e/AmonHen201.jpg/640px-AmonHen201.jpg 2x" data-file-width="675" data-file-height="900"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 201</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../K/Kay_Woollard.md" title="Kay Woollard">Kay Woollard</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../S/September.md" title="September">September</a> <a href="../_/2006.md" title="2006">2006</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">36</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_200.md" title="Amon Hen 200">Amon Hen 200</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_202.md" title="Amon Hen 202">Amon Hen 202</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 201</b> là số thứ hai trăm lẻ một của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, được xuất bản trên [tháng Chín](../S/September.md) [2006](../_/2006.md).
+<b><i>Amon Hen</i> 201</b> là số thứ hai trăm lẻ một của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 9](../S/September.md) [2006](../_/2006.md).
 
 ## Nội dung {#Contents}
 
-- Bìa: Chưa có tiêu đề (Hobbit Chúc mừng!)
+- Bìa: Chưa có tiêu đề (Chúc mừng Hobbit!)
     - Bởi: [Kay Woollard](../K/Kay_Woollard.md)
 - Biên tập
     - Bởi: [Andrew Butler](Andrew_Butler.md)
 - Nội dung
 - Quảng cáo: [Mithril Armory](../M/Mithril_Armoury.md)
-- [Bywater](../B/Bywater.md) Thông báo
+Thông báo - [Bywater](../B/Bywater.md)
     - Bởi: Malcolm Lindley
 - Ngày ghi nhật ký của bạn
 - Thông báo
 - Quảng cáo: Sectus (Hội nghị Harry Potter)
 - Quảng cáo: Triển lãm nghệ thuật Moreton-in-Marsh
-- Cái [Hall of Fire](../H/Hall_of_Fire.md)
+- [Sảnh lửa](../H/Hall_of_Fire.md)
     - Bởi: Lynn Forest-Hill
 - Sự kết thúc đã ở trước mắt
     - Bởi: *[Beruthiel](../B/Berúthiel.md)'s Pet*
@@ -70,17 +70,17 @@ infobox:
     - Bởi: Jessica Yates
 - Tác phẩm nghệ thuật: *[Lake Town](../L/Lake-town.md)*
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
-- Ánh sáng của [Hai Cây](../T/Two_Trees.md)
+- Ánh sáng của [Hai cây](../T/Two_Trees.md)
     - Bởi: Tim Scratcherd
 - Phía sau cánh cửa kính
     - Bởi: [Sally Kennett](../S/Sally_Kennett.md)
 - Chúa tể của những chiếc nhẫn Sudoku!
-    - Bởi: Mike Austin Williams
+    - Bởi: Mike Williams
 - Tác phẩm nghệ thuật: *[Riddles in the Dark](../R/Riddles_in_the_Dark.md)*
     - Bởi: Jef Murray
 - Bài thơ: *[Faramir](../F/Faramir.md)*
     - Bởi: Susan Frances Edwards
-- Tác phẩm nghệ thuật: Không có tiêu đề ([Aragorn](Aragorn.md) có xu hướng Faramir)
+- Tác phẩm nghệ thuật: Không có tiêu đề ([Aragorn](Aragorn.md) chăm sóc Faramir)
     - Bởi: [Jill Thwaites](../J/Jill_Thwaites.md)
 - Đánh giá: *[The Ring of Words](../T/The_Ring_of_Words.md)*
     - Bởi: [Charles Noad](../C/Charles_Noad.md)
@@ -95,6 +95,6 @@ infobox:
     - Bởi: [Sally Kennett](../S/Sally_Kennett.md)
 - Thành viên mới
 - Hồ sơ thành viên - Suzanna Nemeth
-- Truyện dân ca/Ủy ban
+- Truyện dân gian/Ủy ban
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 200</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_200.md" title="Amon Hen 200">Amon Hen 200</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 201</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 202</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_202.md" title="Amon Hen 202">Amon Hen 202</a></div></div></div>

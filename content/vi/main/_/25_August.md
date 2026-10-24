@@ -71,18 +71,18 @@ Sự kiện xảy ra vào ngày 25 tháng 8
 - **[1947](1947.md)** - Nghệ sĩ [Michael Kaluta](../M/Michael_Kaluta.md) ra đời.
 - **[1957](1957.md)** - Tác giả [Ian Brodie](../I/Ian_Brodie.md) ra đời.
 - **[1963](1963.md)** - Nữ diễn viên [Brianne Siddall](../B/Brianne_Siddall.md) ra đời.
-- **[1966](1966.md)** - [Rayner Unwin](../R/Rayner_Unwin.md) viết thư cho [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đề nghị *[The End of Bovadium](../T/The_End_of_Bovadium.md)* đăng trên <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Oxford_Magazine" title="wikipedia:The Oxford Magazine">Tạp chí Oxford</a></i>.
+- **[1966](1966.md)** - [Rayner Unwin](../R/Rayner_Unwin.md) viết thư cho [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đề nghị *[The End of Bovadium](../T/The_End_of_Bovadium.md)* được xuất bản trên <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Oxford_Magazine" title="wikipedia:The Oxford Magazine">Tạp chí Oxford</a></i>.
 - **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 327](../L/Letter_327.md).
 - **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho Glyn Daniel](../L/Letter_to_Glyn_Daniel.md)
 - **[1974](1974.md)** - [Mythcon 5](../M/Mythcon_5.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Scripps_College" title="wikipedia:Scripps College">Scripps College</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Claremont,_California" title="wikipedia:Claremont, California">Claremont</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
-- <b><a href="1988.md" title="1988">1988</a> - <i><a href="../T/The_Return_of_the_Shadow.md" title="The Return of the Shadow">The Return of the Shadow</a></i> được xuất bản ở Anh.</b>
-- **[2003](2003.md)** - Bộ bài khởi đầu của "Bộ sưu tập đếm ngược", một bộ [The Lord of the Rings Trò chơi thẻ giao dịch](../T/The_Lord_of_the_Rings_Trading_Card_Game.md) đặc biệt, được phát hành.
-- **[2006](2006.md)** - [Hội thảo Oxford Tolkien](../T/The_Oxford_Tolkien_Conference.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College, Oxford</a>.
-- **[2007](2007.md)** - Hội thảo Úc của [Hội Tolkien](../T/The_Tolkien_Society.md)2007 tại Sydney, [Úc](../A/Australia.md).
+- <b><a href="1988.md" title="1988">1988</a> - <i><a href="../T/The_Return_of_the_Shadow.md" title="The Return of the Shadow">Sự trở lại của bóng tối</a></i> được xuất bản ở Anh.</b>
+- **[2003](2003.md)** - Bộ bài khởi đầu của "Bộ sưu tập đếm ngược", một bộ [The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md) đặc biệt, được phát hành.
+- **[2006](2006.md)** - [Hội nghị Oxford Tolkien](../T/The_Oxford_Tolkien_Conference.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College, Oxford</a>.
+- **[2007](2007.md)** - [Hội thảo Úc của Hiệp hội Tolkien](../T/The_Tolkien_Society.md) năm 2007 tại Sydney, [Úc](../A/Australia.md).
 - **[2010](2010.md)** - *[A middle English vocabulary](<../A/A_middle_English_vocabulary_(2010).md>)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

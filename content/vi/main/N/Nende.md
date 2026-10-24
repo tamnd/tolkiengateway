@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>nende</b></i> có nghĩa là "hồ"<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup> hoặc "hồ bơi"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> trong [Quenya](../Q/Quenya.md). Có ý kiến ​​​​cho rằng từ này sẽ xuất hiện dưới dạng *nendë* ở dạng Quenya của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>nende</b></i> có nghĩa là "hồ"<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup> hoặc "hồ bơi"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> trong [Quenya](../Q/Quenya.md). Có ý kiến ​​cho rằng từ này sẽ xuất hiện dưới dạng *nendë* trong dạng Quenya của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -21,7 +21,7 @@ categories:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Sindarin](../S/Sindarin.md) *[nen](Nen.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[nen](Nen.md)*
 
 ## Xem thêm {#See_also}
 

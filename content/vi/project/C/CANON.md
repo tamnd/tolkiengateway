@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Canon policy"
 ---
 
-Chuyển hướng tới [Tolkien Gateway:Chính sách của Canon](Canon_policy.md).
+Chuyển hướng tới [Cổng Tolkien:Chính sách của Canon](Canon_policy.md).

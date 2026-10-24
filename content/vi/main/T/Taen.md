@@ -13,7 +13,7 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>taen</b></i> là [Sindarin](../S/Sindarin.md) tính từ có nghĩa là *long and thin*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>taen</b></i> là tính từ [Sindarin](../S/Sindarin.md) có nghĩa là *long and thin*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

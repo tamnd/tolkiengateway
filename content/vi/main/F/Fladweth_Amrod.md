@@ -15,7 +15,7 @@ categories:
   - "Tol Eressëa"
 ---
 
-**Fladweth Amrod** là một địa điểm ở [Tol Eressëa](../T/Tol_Eressëa.md) gần [Tavrobel](../T/Tavrobel.md), nơi [Eriol](../E/Eriol.md) lưu trú tạm thời, theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) gắn liền với *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Fladweth Amrod** là một địa điểm ở [Tol Eressëa](../T/Tol_Eressëa.md) gần [Tavrobel](../T/Tavrobel.md), nơi [Eriol](../E/Eriol.md) tạm trú, theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) gắn liền với *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -25,9 +25,9 @@ Tên khác trước đây của địa điểm này là <i><b>Fladweth-amrog</b>
 
 ## Cảm hứng {#Inspiration}
 
-Vào mùa xuân năm [1918](../_/1918.md), [Tolkien](../T/Tolkien.md) lại được đưa đến Trại Rugeley, ở <a class="external text" href="http://en.wikipedia.org/wiki/Penkridge" rel="noreferrer noopener" target="_blank">Penkridge</a>, một ngôi làng ở <a class="external text" href="http://en.wikipedia.org/wiki/Staffordshire" rel="noreferrer noopener" target="_blank">Staffordshire</a>. Khi đến thăm anh ta, [Edith Bratt](../E/Edith_Bratt.md)và một số người bạn đồng hành của cô đã tìm được chỗ ở tại một ngôi nhà gần đó ở Gipsy Green, một ngôi làng nhỏ. Ở đó, Tolkien thỉnh thoảng đến thăm họ và ở lại một thời gian.<sup id="cite_ref-Gib_5-0" class="reference"><a href="#cite_note-Gib-5">[5]</a></sup>
+Vào mùa xuân năm [1918](../_/1918.md), [Tolkien](../T/Tolkien.md) lại được đưa đến Trại Rugeley, ở <a class="external text" href="http://en.wikipedia.org/wiki/Penkridge" rel="noreferrer noopener" target="_blank">Penkridge</a>, một ngôi làng ở <a class="external text" href="http://en.wikipedia.org/wiki/Staffordshire" rel="noreferrer noopener" target="_blank">Staffordshire</a>. Khi đến thăm ông ta, [Edith Bratt](../E/Edith_Bratt.md) và một số người bạn đồng hành của cô đã tìm được chỗ ở tại một ngôi nhà gần đó ở Gipsy Green, một ngôi làng nhỏ. Ở đó, Tolkien thỉnh thoảng đến thăm họ và ở lại một thời gian.<sup id="cite_ref-Gib_5-0" class="reference"><a href="#cite_note-Gib-5">[5]</a></sup>
 
-Có thể tên của *Gipsy Green* có thể được phản ánh trong tên *Fladweth Amrod* (có bản dịch từ Gnomish sẽ là *Nomad's Green*),<sup id="cite_ref-Gib_5-1" class="reference"><a href="#cite_note-Gib-5">[5]</a></sup> một kết nối [John Garth](../J/John_Garth.md) được đề xuất trong cuốn sách của anh ấy *[Tolkien and the Great War](../T/Tolkien_and_the_Great_War.md)*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Có thể tên của *Gipsy Green* có thể được phản ánh trong tên *Fladweth Amrod* (bản dịch từ Gnomish sẽ là *Nomad's Green*),<sup id="cite_ref-Gib_5-1" class="reference"><a href="#cite_note-Gib-5">[5]</a></sup> một kết nối [John Garth](../J/John_Garth.md) được đề xuất trong cuốn sách của ông ấy *[Tolkien and the Great War](../T/Tolkien_and_the_Great_War.md)*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

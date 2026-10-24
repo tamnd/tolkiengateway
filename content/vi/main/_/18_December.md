@@ -68,17 +68,17 @@ Sự kiện xảy ra vào ngày 18 tháng 12
 
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 92](../L/Letter_92.md).
 - **[1949](1949.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 122](../L/Letter_122.md).
-- **[1955](1955.md)** - Tập thứ sáu và cũng là tập cuối cùng của [loạt phim phát thanh năm 1955](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>) của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* được phát sóng trên [BBC](../B/BBC.md) Chương trình thứ ba.
+- **[1955](1955.md)** - Tập thứ sáu và cũng là tập cuối cùng của [loạt phim phát thanh năm 1955](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>) của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* phát sóng trên [BBC](../B/BBC.md) Chương trình thứ ba.
 - **[1963](1963.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho Jonathan Hepworth](../L/Letter_to_Jonathan_Hepworth.md).
 - **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 282](../L/Letter_282.md).
 - **[1977](1977.md)** - Diễn viên [Cyril Ritchard](../C/Cyril_Ritchard.md) qua đời.
-- <b><a href="2002.md" title="2002">2002</a> – <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i> được phát hành tại Hoa Kỳ.</b>
-- **[2007](2007.md)** - [MGM](../M/MGM.md) và [New Line Cinema](../N/New_Line_Cinema.md) công bố phát triển [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>).
+- <b><a href="2002.md" title="2002">2002</a> – <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i> được phát hành tại Hoa Kỳ.</b>
+- **[2007](2007.md)** - [MGM](../M/MGM.md) và [Rạp chiếu phim New Line](../N/New_Line_Cinema.md) công bố phát triển [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>).
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) được hình thành.
+    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) được thành lập.
     - Quý trước<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>

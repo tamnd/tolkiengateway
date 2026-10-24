@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Quest"
 ---
 
-Chuyển hướng đến [Trung Địa Nhiệm vụ](Middle-earth_Quest.md).
+Chuyển hướng tới [Nhiệm vụ Trung Địa](Middle-earth_Quest.md).

@@ -25,21 +25,21 @@ infobox:
 
 **Cave-drakes** là một loại [Rồng](../D/Dragons.md) xuất hiện trong một số phiên bản chuyển thể của [The Lord of the Rings](../T/The_Lord_of_the_Rings.md).
 
-## Middle-earth Role Playing {#Middle-earth_Role_Playing}
+## Nhập vai ở Trung Địa {#Middle-earth_Role_Playing}
 
-Trong [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md), **Cave-drakes** là một loại Rồng ít hơn có nguồn gốc từ [Cold-drakes](Cold-drakes.md). Chúng không có cánh và không có bất kỳ loại vũ khí hơi thở nào, đồng thời cũng nhỏ hơn các Rồng khác.
+Trong [Nhập vai ở Trung Địa](../M/Middle-earth_Role_Playing.md), **Cave-drakes** là ít chủng loại Rồng có nguồn gốc từ [Cold-drakes](Cold-drakes.md). Chúng không có cánh và không có vũ khí hơi thở, đồng thời cũng nhỏ hơn những con Rồng khác.
 
-Giống như Rồng lớn hơn, chúng có khả năng nói. Tuy nhiên, họ kém thông minh hơn nhiều và cũng có xu hướng nói dối. Cave-drake rất hung dữ, ngay cả với những đồng loại của chúng.
+Giống như những con Rồng lớn hơn, chúng có khả năng nói. Tuy nhiên, họ kém thông minh hơn nhiều và cũng có xu hướng nói dối. Cave-drake rất hung dữ, ngay cả với những đồng loại của chúng.
 
 Một giống cụ thể của Cave-drake là Cave Worm, những sinh vật không có chi và nhầy nhụa sống ở [Vực sâu](../U/Under-deeps.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Cả Cave-drakes và Cave Worm đều xuất hiện trong [Trung Địa Trò chơi thẻ bài](../M/Middle-earth_Collectible_Card_Game.md), cũng được xuất bản bởi [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Cả Cave-drakes và Cave Worm đều xuất hiện trong [Trò chơi thẻ bài sưu tầm ở Trung Địa](../M/Middle-earth_Collectible_Card_Game.md), cũng được xuất bản bởi [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-## Trung Địa Trò chơi chiến đấu chiến lược {#Middle-earth_Strategy_Battle_Game}
+## Trò chơi chiến đấu chiến lược trung địa {#Middle-earth_Strategy_Battle_Game}
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/SBG_-_Cave_Drake.png.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2d/SBG_-_Cave_Drake.png/300px-SBG_-_Cave_Drake.png" decoding="async" loading="lazy" width="300" height="215" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2d/SBG_-_Cave_Drake.png/450px-SBG_-_Cave_Drake.png 1.5x, https://tolkiengateway.net/w/images/2/2d/SBG_-_Cave_Drake.png 2x" data-file-width="524" data-file-height="376"/></a><figcaption>A miniature Cave Drake</figcaption></figure>
 
-Trong [Trung Địa Trò chơi chiến đấu chiến lược](../M/Middle-earth_Strategy_Battle_Game.md), **Cave Drakes** là những con rồng sống dưới lòng đất sống dưới các dãy núi. Chúng được biết đến với khả năng bảo vệ tổ của mình một cách ác độc, khiến chúng trở thành kẻ thù tự nhiên của Người Lùn những kẻ đã đào bới những ngọn núi đó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Trò chơi chiến đấu chiến lược Trung địa](../M/Middle-earth_Strategy_Battle_Game.md), **Cave Drakes** là những con rồng dưới lòng đất sống dưới các dãy núi. Chúng nổi tiếng với lối bảo vệ tổ của mình một cách ác độc, khiến chúng trở thành kẻ thù tự nhiên của Người lùn, những người đã đào bới những ngọn núi đó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Beorn](../../main/B/Beorn.md) crush [Bolg](../../main/B/Bolg.md) - Art by [David T. Wenzel](../../main/D/David_T._Wenzel.md) for [*The Hobbit* (truyện tranh)](<../../main/T/The_Hobbit_(comic_book).md>)
+[Beorn](../../main/B/Beorn.md) crush [Bolg](../../main/B/Bolg.md) - Nghệ thuật của [David T. Wenzel](../../main/D/David_T._Wenzel.md) cho [*The Hobbit* (truyện tranh)](<../../main/T/The_Hobbit_(comic_book).md>)
 
 ## Giấy phép {#Licensing}
 

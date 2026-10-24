@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings (1955 radio series)"
 ---
 
-Chuyển hướng tới [The Lord of the Rings (loạt phim phát thanh năm 1955)](<The_Lord_of_the_Rings_(1955_radio_series).md>).
+Chuyển hướng đến [The Lord of the Rings (1955 radio series)](<The_Lord_of_the_Rings_(1955_radio_series).md>).

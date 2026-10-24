@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lego The Lord of the Rings: The Video Game"
 ---
 
-Chuyển hướng đến [Lego The Lord of the Rings: Trò chơi điện tử](Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md).
+Chuyển hướng đến [Lego The Lord of the Rings: The Video Game](Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md).

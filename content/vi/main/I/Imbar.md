@@ -11,4 +11,4 @@ redirect_target: "Ambar"
 redirect_fragment: "Ambar"
 ---
 
-Chuyển hướng đến [Ambar](../A/Ambar.md#Ambar).
+Chuyển hướng tới [Ambar](../A/Ambar.md#Ambar).

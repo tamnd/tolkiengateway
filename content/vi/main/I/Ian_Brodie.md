@@ -29,9 +29,9 @@ infobox:
 
 **Ian J. Brodie** MNZM ([25 tháng 8](../_/25_August.md), [1957](../_/1957.md)) là một nhà văn và nhiếp ảnh gia chuyên nghiệp, người đi khắp thế giới để ghi lại những phong cảnh mang tính biểu tượng từ phim trên máy ảnh. Một trong những tác phẩm thành công nhất của ông là *[The Lord of the Rings Location Guidebook](../T/The_Lord_of_the_Rings_Location_Guidebook.md)*, đã bán được kỷ lục 320.000 bản chỉ riêng tại quê hương New Zealand của ông. Một ấn bản sửa đổi và một ấn bản mở rộng có thể uống được cũng đã được xuất bản. Brodie cũng đã nghiên cứu cho bộ phim tài liệu New Zealand <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=DNZ:_The_Real_Middle_Earth&amp;action=edit&amp;redlink=1" title="DNZ: The Real Middle Earth (page does not exist)">DNZ: The Real Middle Earth</a></i>.
 
-Brodie đã được trao tặng *Thành viên New Zealand Huân chương khen thưởng* vì đã phục vụ cho ngành du lịch [New Zealand](../N/New_Zealand.md), ngành này phát triển nhờ cuốn sách của anh ấy.
+Brodie đã được trao tặng *Thành viên của Huân chương khen thưởng New Zealand* vì đã phục vụ cho ngành du lịch [New Zealand](../N/New_Zealand.md), ngành này phát triển nhờ cuốn sách của anh.
 
-Anh ấy cũng xuất hiện với tư cách là người bán bánh mì Gondor trong *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
+Ông cũng xuất hiện với tư cách là người bán bánh mì ở Gondorian trong *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 

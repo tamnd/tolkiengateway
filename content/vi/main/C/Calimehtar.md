@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calimehtar (disambiguation)"
 ---
 
-Chuyển hướng đến [Calimehtar (định hướng)](<Calimehtar_(disambiguation).md>).
+Chuyển hướng tới [Calimehtar (định hướng)](<Calimehtar_(disambiguation).md>).

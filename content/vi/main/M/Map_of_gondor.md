@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Map of Rohan, Gondor, and Mordor"
 ---
 
-Chuyển hướng đến [Bản đồ của Rohan, Gondor và Mordor](Map_of_Rohan,_Gondor,_and_Mordor.md).
+Chuyển hướng tới [Bản đồ Rohan, Gondor và Mordor](Map_of_Rohan,_Gondor,_and_Mordor.md).

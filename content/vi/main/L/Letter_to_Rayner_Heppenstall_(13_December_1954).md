@@ -18,11 +18,11 @@ sort_keys:
 
 Vào [13 tháng 12](../_/13_December.md) [1954](../_/1954.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết <b><a href="Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md" title="Letters not published in The Letters of J.R.R. Tolkien">một lá thư</a> gửi <a class="extiw" href="http://en.wikipedia.org/wiki/Rayner_Heppenstall" title="wikipedia:Rayner Heppenstall">Rayner Heppenstall</a></b>.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 
-- **Nội dung:** Những điểm quan trọng về [vở phát thanh *The Homecoming of Beorhtnoth*](<../T/The_Homecoming_of_Beorhtnoth,_Beorhthelm's_Son_(radio_play).md>) (phát sóng vào [3 tháng 12](../_/3_December.md)). Mặc dù bức thư chưa được lưu giữ tại Trung tâm Lưu trữ Văn bản [BBC](../B/BBC.md), nhưng có thể suy ra từ thư trả lời của Heppenstall cùng ngày rằng Tolkien dường như đã "bao gồm những nhận xét rằng độc giả đã bỏ qua <a class="extiw" href="http://en.wikipedia.org/wiki/Alliterative_verse" title="wikipedia:Alliterative verse">đồng hồ điệp âm</a> của tác phẩm và đưa ra câu thơ như thể nó là <a class="extiw" href="http://en.wikipedia.org/wiki/Iambic_pentameter" title="wikipedia:Iambic pentameter">ngũ phân iambic</a>".<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+- **Nội dung:** Những điểm quan trọng về [vở phát thanh *The Homecoming of Beorhtnoth*](<../T/The_Homecoming_of_Beorhtnoth,_Beorhthelm's_Son_(radio_play).md>) (phát sóng vào [3 tháng 12](../_/3_December.md)). Mặc dù bức thư chưa được lưu giữ trong [BBC](../B/BBC.md) Trung tâm Lưu trữ Văn bản, nhưng có thể suy ra từ thư trả lời của Heppenstall cùng ngày rằng Tolkien dường như đã "đưa vào những nhận xét rằng độc giả đã bỏ qua <a class="extiw" href="http://en.wikipedia.org/wiki/Alliterative_verse" title="wikipedia:Alliterative verse">thước âm âm điệu</a> của tác phẩm và đưa ra câu thơ như thể nó là <a class="extiw" href="http://en.wikipedia.org/wiki/Iambic_pentameter" title="wikipedia:Iambic pentameter">ngũ phân iambic</a>".<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Rayner Heppenstall 22 tháng Chín 1954 (Thư 152)](Letter_152.md)
+- [Rayner Heppenstall ngày 22 tháng 9 năm 1954 (Thư 152)](Letter_152.md)
 - [Thư gửi Rayner Heppenstall (17 tháng 11 năm 1954)](<Letter_to_Rayner_Heppenstall_(17_November_1954).md>)
 - [Thư gửi Rayner Heppenstall (1-2 tháng 12 năm 1954)](<Letter_to_Rayner_Heppenstall_(1-2_December_1954).md>)
 

@@ -17,11 +17,11 @@ langlinks:
     url: "https://kontu.wiki/Sormuksen_l%C3%B6yt%C3%A4j%C3%A4"
 ---
 
-**Công cụ tìm vòng** là tiêu đề được [Gandalf](../G/Gandalf.md) sử dụng của [Bilbo Baggins](../B/Bilbo_Baggins.md) trong [Rivendell](Rivendell.md) trong cuộc trò chuyện với [Frodo Baggins](../F/Frodo_Baggins.md). Anh ta gọi Frodo là " [Người Mang Nhẫn](Ring-bearer.md)" và nói thêm rằng Frodo là "người thừa kế của Bilbo, Người tìm kiếm chiếc nhẫn".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ring-finder** là danh hiệu mà [Gandalf](../G/Gandalf.md) sử dụng cho [Bilbo Baggins](../B/Bilbo_Baggins.md) ở [Rivendell](Rivendell.md) trong cuộc trò chuyện với [Frodo Baggins](../F/Frodo_Baggins.md). Ông gọi Frodo là " [Người mang chiếc nhẫn](Ring-bearer.md)" và nói thêm rằng Frodo là "người thừa kế của Bilbo, Người tìm thấy chiếc nhẫn".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Người Mang Nhẫn](Ring-bearers.md)
+- [Người mang nhẫn](Ring-bearers.md)
 
 <span></span>
 

@@ -40,17 +40,17 @@ infobox:
 ## Nội dung {#Contents}
 
 - Kỷ niệm:
-    - Christopher Mitchell được Adam Schwartz nhớ lại
+    - Christopher Mitchell được Adam Schwartz tưởng nhớ
     - Stratford Caldecott được Carol Zaleski tưởng nhớ
-- "'Điều đó có thể làm được, bạn biết đấy': Hình dạng, nguồn gốc và mức độ nghiêm trọng của Học thuyết về tình yêu thay thế của Charles Williams"
+- "'Điều đó có thể làm được, bạn biết đấy': Hình dạng, nguồn gốc và mức độ nghiêm trọng trong Học thuyết về tình yêu thay thế của Charles Williams"
     - Bởi: Andrew C. Stout
-- "Hai mảnh từ bản thảo 'Đạo đức tốt' của C.S. Lewis: Ấn bản đầu tiên"
+- "Hai mảnh từ bản thảo 'Tốt về đạo đức' của C.S. Lewis: Ấn bản đầu tiên"
     - Bởi: Charlie W. Starr
 - "Các loại hình phiêu lưu: Các loại hình đa dạng của G.K. Chesterton và sự khôn ngoan trong tính xác thực lịch sử"
     - Bởi: Philip Irving Mitchell
-- "Niềm kiêu hãnh và thi ca thời trung cổ trong The Hobbit"
+- "Niềm kiêu hãnh và thi ca thời trung cổ trong Người Hobbit"
     - Bởi: Glenn Davis
-- "Người đàn ông thứ năm và chín thợ may: Mọi bằng chứng đều chỉ ra Chúa"
+- "Người đàn ông thứ năm và Chín thợ may: Mọi bằng chứng đều chỉ ra Chúa"
     - Bởi: Walter Raubicheck
 - "C.S. Lewis'Thần học hiện đại và phê bình Kinh thánh' trong bối cảnh"
     - Bởi: Joel Heck<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "River Running"
 ---
 
-Chuyển hướng đến [River Running](River_Running.md).
+Chuyển hướng đến [Sông chảy](River_Running.md).

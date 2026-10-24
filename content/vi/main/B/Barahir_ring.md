@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ring of Barahir"
 ---
 
-Chuyển hướng đến [Vòng Barahir](../R/Ring_of_Barahir.md).
+Chuyển hướng tới [Chiếc nhẫn của Barahir](../R/Ring_of_Barahir.md).

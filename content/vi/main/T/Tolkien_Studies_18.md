@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Studies: Volume 18"
 ---
 
-Chuyển hướng tới [Tolkien Nghiên cứu: Tập 18](Tolkien_Studies%253A_Volume_18.md).
+Chuyển hướng đến [Tolkien Studies: Volume 18](Tolkien_Studies%253A_Volume_18.md).

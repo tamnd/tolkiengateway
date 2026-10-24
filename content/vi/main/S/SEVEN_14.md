@@ -45,11 +45,11 @@ infobox:
     - Bởi: Rosamond Kent Sprague
 - "Vượt xa các ý tưởng: Mưu đồ của các bản thảo *Lilith*"
     - Bởi: Rolland Hein
-- "Phản hồi cho *Worship in the Anglican Church*của Dorothy L. Sayers"
+- "Phản hồi cho *Worship in the Anglican Church* của Dorothy L. Sayers"
     - Bởi: John Thurmer
 - "Phổ biến vinh quang: Tiếng vọng của Charles Williams trong các tác phẩm của T.S. Eliot"
     - Bởi: Suzanne Bray
-- "Warren Lewis: Nhà sử học của Inklings và nước Pháp thế kỷ 17"
+- "Warren Lewis: Nhà sử học về những điều mơ hồ và nước Pháp thế kỷ 17"
     - Bởi: [Richard C. West](../R/Richard_C._West.md)
 - "Về việc làm ma"
     - Bởi: Jill Paton Walsh

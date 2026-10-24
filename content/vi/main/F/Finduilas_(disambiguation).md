@@ -24,9 +24,9 @@ images:
   - "Disambig.png"
 ---
 
-**Finduilas** có thể tham khảo:
+**Finduilas** có thể đề cập đến:
 
-- **[Finduilas](Finduilas.md) (đã chết [F.A.](First_Age.md) [495](First_Age_495.md)), con gái của [Orodreth](../O/Orodreth.md) đã yêu [Túrin Turambar](../T/Túrin.md).**
+- **[Finduilas](Finduilas.md) (đã chết [F.A.](First_Age.md) [495](First_Age_495.md)), con gái của [Orodreth](../O/Orodreth.md), người đã yêu [Túrin Turambar](../T/Túrin.md).**
 - [Finduilas (vợ của Denethor)](<Finduilas_(wife_of_Denethor).md>) ([T.A.](../T/Third_Age.md) [2950](../T/Third_Age_2950.md) - [2988](../T/Third_Age_2988.md)), vợ của [Denethor II](../D/Denethor.md) và mẹ của [Boromir](../B/Boromir.md) và [Faramir](Faramir.md).
 
 <hr style="margin-top:15px;"/>

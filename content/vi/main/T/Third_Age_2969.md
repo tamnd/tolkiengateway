@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2964.md" title="Third Age 2964">2964</a><a href="Third_Age_2965.md" title="Third Age 2965">2965</a><a href="Third_Age_2968.md" title="Third Age 2968">2968</a><a class="mw-selflink selflink">2969</a><a href="Third_Age_2972.md" title="Third Age 2972">2972</a><a href="Third_Age_2975.md" title="Third Age 2975">2975</a><a href="Third_Age_2976.md" title="Third Age 2976">2976</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 2969** (viết tắt là **T.A. 2969**) là năm [thứ 2969 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2969 còn được gọi là **S.R. 1369** trong [lịch Shire](../S/Shire-reckoning.md).
+**Kỷ thứ ba 2969** (viết tắt là **T.A. 2969**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2969 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2969 còn được gọi là **S.R. 1369** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Birth of [Reginard Took](../R/Reginard_Took.md), first child and son of [Adelard Took](../A/Adelard_Took.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- Birth of [Halfred Gamgee](../H/Halfred_Gamgee.md), second child and second son of [Hamfast Gamgee](../H/Hamfast_Gamgee.md) and [Bell Goodchild](../B/Bell_Goodchild.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Sự ra đời của [Reginard Took](../R/Reginard_Took.md), con đầu lòng và con trai của [Adelard Took](../A/Adelard_Took.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Sự ra đời của [Halfred Gamgee](../H/Halfred_Gamgee.md), con thứ hai và con trai thứ hai của [Hamfast Gamgee](../H/Hamfast_Gamgee.md) và [Bell Goodchild](../B/Bell_Goodchild.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

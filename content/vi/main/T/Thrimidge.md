@@ -45,11 +45,11 @@ langlinks:
 <li><a href="../F/Foreyule.md" title="Foreyule">Foreyule</a> (December)</li></ol>
 </td></tr></tbody></table>
 
-**Thrimidge**, thường được viết là **Thrimich**, là tháng thứ năm của [Lịch Shire](../S/Shire_Calendar.md), nằm giữa [Atron](../A/Astron.md) và [Forelithe](../F/Forelithe.md), và gần tương ứng với [22 tháng 4](../_/22_April.md) đến [21 tháng 5](../_/21_May.md) hiện đại.<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
+**Thrimidge**, thường được viết là **Thrimich**, là tháng thứ năm của [Lịch Quận](../S/Shire_Calendar.md), nằm giữa [Atron](../A/Astron.md) và [Forelithe](../F/Forelithe.md), và gần tương ứng với [22 tháng 4](../_/22_April.md) đến [21 tháng 5](../_/21_May.md) hiện đại.<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Cái tên thể hiện sự [hiện đại hóa](../H/Hobbitish.md) của tên [tiếng Anh cổ](../O/Old_English.md) dành cho tháng 5, <i><a class="extiw" href="http://en.wiktionary.org/wiki/%C3%BErimilce" title="wiktionary:þrimilce">þrimilce</a></i> có nghĩa là "Ba lần cho sữa".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Như vậy, dạng cổ xưa của cái tên là **Thrimilch**.<sup id="cite_ref-cal_1-1" class="reference"><a href="#cite_note-cal-1">[1]</a></sup> <span></span>
+Cái tên thể hiện sự [hiện đại hóa](../H/Hobbitish.md) của tên [tiếng Anh cổ](../O/Old_English.md) cho tháng 5, <i><a class="extiw" href="http://en.wiktionary.org/wiki/%C3%BErimilce" title="wiktionary:þrimilce">þrimilce</a></i> có nghĩa là "Ba lần cho sữa".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Do đó, dạng cổ xưa của cái tên này là **Thrimilch**.<sup id="cite_ref-cal_1-1" class="reference"><a href="#cite_note-cal-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -17,13 +17,13 @@ langlinks:
     url: "https://kontu.wiki/Peippo"
 ---
 
-**Chim sẻ** là một trong nhiều loài chim được tìm thấy ở [Trung Địa](../M/Middle-earth.md). Trong bài hát *[In Western Lands beneath the Sun](../I/In_Western_Lands_beneath_the_Sun.md)* do [Samwise Gamgee](../S/Samwise_Gamgee.md) hát trong [Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md), anh có nhắc đến đất nước miền Tây "chim sẻ vui hát".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Chim sẻ** là một trong nhiều loài chim được tìm thấy ở [Trung Địa](../M/Middle-earth.md). Trong bài hát *[In Western Lands beneath the Sun](../I/In_Western_Lands_beneath_the_Sun.md)* do [Samwise Gamgee](../S/Samwise_Gamgee.md) hát ở [Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md), ông có đề cập rằng ở vùng đất phía Tây "những chú chim sẻ vui vẻ hát".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Sau cái chết của [Smaug](../S/Smaug.md), nhiều loài chim đã tụ tập quanh [Erebor](../E/Erebor.md). [Thorin](../T/Thorin.md) nhìn thấy trong số đó có "[sáo đá](../S/Starlings.md) và đàn chim sẻ".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Trong một bản viết tay ngôn ngữ học từ những năm 1930, xuất hiện [Qenya](../Q/Qenya.md) bóng *liri* ("chim sẻ").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong một bản viết tay ngôn ngữ học từ những năm 1930, xuất hiện thuật ngữ [Qenya](../Q/Qenya.md) *liri* ("chim sẻ").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Các bài viết khác {#Other_writings}
 

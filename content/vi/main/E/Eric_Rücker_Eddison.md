@@ -25,7 +25,7 @@ langlinks:
 
 **Eric Rücker Eddison** ([24 tháng 11](../_/24_November.md) [1882](../_/1882.md) – [18 tháng 8](../_/18_August.md) [1945](../_/1945.md)) thỉnh thoảng là thành viên của [Inklings](../I/Inklings.md).
 
-Trong thư gửi [Caroline Everett](../L/Letter_199.md), Tolkien đã gọi E.R. Eddison là "nhà văn vĩ đại và thuyết phục nhất về 'những thế giới được phát minh' mà tôi từng đọc."
+Trong thư gửi [Caroline Everett](../L/Letter_199.md), Tolkien gọi E.R. Eddison là "nhà văn vĩ đại và thuyết phục nhất về 'những thế giới được phát minh' mà tôi từng đọc."
 
 # Sách {#Books}
 

@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Green, Garard"
 ---
 
-**Garard Green** ([31 tháng 7](../_/31_July.md), [1924](../_/1924.md) - [26 tháng 12](../_/26_December.md), [2004](../_/2004.md)) là một diễn viên người Anh. Mặc dù thỉnh thoảng xuất hiện trên sân khấu hoặc màn ảnh, nhưng anh ấy được biết đến nhiều nhất với tư cách là một diễn viên lồng tiếng, tham gia nhiều vở kịch âm thanh và tường thuật nhiều sách nói.
+**Garard Green** ([31 tháng 7](../_/31_July.md), [1924](../_/1924.md) - [26 tháng 12](../_/26_December.md), [2004](../_/2004.md)) là một diễn viên người Anh. Mặc dù thỉnh thoảng xuất hiện trên sân khấu hoặc màn ảnh, nhưng ông được biết đến nhiều nhất với tư cách là một diễn viên lồng tiếng, tham gia nhiều vở kịch âm thanh và tường thuật nhiều sách nói.
 
 ## Phim ảnh {#Filmography}
 

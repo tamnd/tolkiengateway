@@ -19,7 +19,7 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-Ngải cứu là tên của cây <a class="extiw" href="http://en.wikipedia.org/wiki/Artemisia_(genus)" title="wikipedia:Artemisia (genus)">Artemisia</a> gần giống với Ngải cứu. Tolkien đã đề cập rằng không có lý do đặc biệt nào cho việc lựa chọn Mugwort, ngoại trừ âm thanh giống hobbit của nó.<sup id="cite_ref-Nomen_2-0" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup>
+Ngải cứu là tên của cây <a class="extiw" href="http://en.wikipedia.org/wiki/Artemisia_(genus)" title="wikipedia:Artemisia (genus)">Artemisia</a> gần giống với Ngải cứu. Tolkien đề cập rằng không có lý do đặc biệt nào cho việc lựa chọn Mugwort, ngoại trừ âm thanh giống hobbit của nó.<sup id="cite_ref-Nomen_2-0" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup>
 
 <span></span>
 

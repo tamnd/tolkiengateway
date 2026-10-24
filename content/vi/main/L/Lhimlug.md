@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sea-serpents"
 ---
 
-Chuyển hướng đến [Biển-serpents](../S/Sea-serpents.md).
+Chuyển hướng đến [Rắn biển](../S/Sea-serpents.md).

@@ -14,4 +14,4 @@ sort_keys:
   "Fan-made mods and games": "Modifications"
 ---
 
-Danh mục này liệt kê tất cả **các sửa đổi trò chơi điện tử và tổng số chuyển đổi** của trò chơi điện tử, với các bản sửa đổi dựa trên hoặc liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) tác phẩm.
+Danh mục này liệt kê tất cả **sửa đổi trò chơi điện tử và tổng số chuyển đổi** của trò chơi điện tử, với các sửa đổi dựa trên hoặc liên quan đến tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

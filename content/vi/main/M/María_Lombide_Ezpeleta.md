@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Lombide Ezpelata, Maria"
 ---
 
-**María Lombide Ezpeleta** là một nghệ sĩ [người Tây Ban Nha](../../category/S/Spanish_people.md), người [đã minh họa](../../category/I/Images_by_María_Lombide_Ezpeleta.md) nhiều nhân vật trong [Tolkien's](../J/J.R.R._Tolkien.md) [huyền thoại](../L/Legendarium.md).
+**María Lombide Ezpeleta** là một nghệ sĩ [người Tây Ban Nha](../../category/S/Spanish_people.md), người [đã minh họa](../../category/I/Images_by_María_Lombide_Ezpeleta.md) nhiều nhân vật trong [Truyền thuyết](../J/J.R.R._Tolkien.md) [huyền thoại](../L/Legendarium.md) của Tolkien.
 
 ## Xem thêm {#See_also}
 

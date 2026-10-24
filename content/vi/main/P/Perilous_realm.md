@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tales from the Perilous Realm"
 ---
 
-Chuyển hướng đến [Tales from the Perilous Realm](../T/Tales_from_the_Perilous_Realm.md).
+Chuyển hướng đến [Những câu chuyện từ vương quốc nguy hiểm](../T/Tales_from_the_Perilous_Realm.md).

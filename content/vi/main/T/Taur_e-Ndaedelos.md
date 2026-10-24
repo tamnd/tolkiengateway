@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mirkwood"
 ---
 
-Chuyển hướng đến [Mirkwood](../M/Mirkwood.md).
+Chuyển hướng tới [Mirkwood](../M/Mirkwood.md).

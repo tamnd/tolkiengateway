@@ -33,17 +33,17 @@ infobox:
 ## Nội dung {#Contents}
 
 - Biên tập, Sự kiện thiên thể
-- Bree Báo cáo tranh luận của [Lisa Star](../L/Lisa_Star.md) (có hình ảnh)
-- Elvish Giải Thơ Ngôn ngữ, công bố người đoạt giải
+- Báo cáo Bree Moot của [Lisa Star](../L/Lisa_Star.md) (có hình ảnh)
+- Giải thơ ngôn ngữ Elvish, công bố người chiến thắng
 - Đánh giá sách (đánh giá của Lisa Star)
-    - *J.R.R. Tolkien: Artist &amp; Illustrator*, bởi Wayne Hammond và Christina Scull
+    - *J.R.R. Tolkien: Artist &amp; Illustrator*, của Wayne Hammond và Christina Scull
     - *The Oxford Book of Fantasy Stories*, được chọn bởi Tom Shippey
     - *The Road to Middle-earth* (sửa đổi), bởi Tom Shippey
-    - *Les langues Elfiques, Vol. Tôi (Quenya và Lindarin)*, bởi [Edouard Kloczko](../E/Edouard_Kloczko.md)
+    - *Les langues Elfiques, Vol. Tôi (Quenya và Lindarin)*, của [Edouard Kloczko](../E/Edouard_Kloczko.md)
 - Lưu ý AElfwine của Leonid Korablev (đánh giá tác phẩm nghệ thuật)
-- Nhận xét từ Leonid Korablev (về phân tích của Salo về [Fíriel bài hát của](../F/Fíriel's_song.md)), [Rhona Beare](../R/Rhona_Beare.md) (về cường độ cao, bao gồm cả danh sách!), [David Salo](../D/David_Salo.md) (về dạng đúng của 'mười hai' trong [Noldorin](../N/Noldorin.md))
-- Thơ nhẫn bằng Quenya, bản dịch của [Helge Fauskanger](../H/Helge_Fauskanger.md), với thư pháp của Leonid Korablev
-- Lussi Lomesse của Helge Fauskanger (một bài thơ trong Quenya)
+- Nhận xét từ Leonid Korablev (về phân tích của Salo về [bài hát của Fíriel](../F/Fíriel's_song.md)), [Rhona Beare](../R/Rhona_Beare.md) (về cường độ cao, bao gồm cả danh sách!), [David Salo](../D/David_Salo.md) (về dạng đúng của 'twelve' trong [Noldorin](../N/Noldorin.md))
+- Bài thơ về chiếc nhẫn ở Quenya, bản dịch của [Helge Fauskanger](../H/Helge_Fauskanger.md), với thư pháp của Leonid Korablev
+- Lussi Lomesse của Helge Fauskanger (một bài thơ bằng tiếng Quenya)
 - Bài thơ về chiếc nhẫn bằng tiếng Ai Cập của [Ivan Derzhanski](../I/Ivan_Derzhanski.md) (bằng chữ tượng hình Ai Cập có phân tích)
 
 <center><a href="Tyalië_Tyelelliéva_7.md" title="Tyalië Tyelelliéva 7">Previous Issue</a> <b>||</b> <a href="Tyalië_Tyelelliéva_9.md" title="Tyalië Tyelelliéva 9">Next Issue</a></center>

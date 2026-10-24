@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Haward, John"
 ---
 
-**John Haward** là tác giả của trò chơi điện tử *[Shadows of Mordor](../S/Shadows_of_Mordor.md)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và [Crack of Doom Cuộc phiêu lưu phần mềm](../C/Crack_of_Doom_Software_Adventure.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+**John Haward** là tác giả của trò chơi điện tử *[Shadows of Mordor](../S/Shadows_of_Mordor.md)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và [Crack of Doom Software Adventure](../C/Crack_of_Doom_Software_Adventure.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

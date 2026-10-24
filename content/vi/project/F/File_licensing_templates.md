@@ -21,7 +21,7 @@ hidden_categories:
 
 ### Tùy chỉnh {#Custom}
 
-Nếu một tổ chức đã thiết lập giấy phép riêng cho việc sử dụng hình ảnh của họ, hãy sử dụng mẫu này để mô tả các điều khoản mà nó được sử dụng trên Tolkien Gateway. Để áp dụng mẫu này, chỉ cần sử dụng thẻ sau trong phần tóm tắt tải lên: "[{{Custom-Licen\|DESCRIPTION OF LICENSE}](https://tolkiengateway.net/wiki/Template:Custom-License)". Sau đây là một ví dụ về mẫu này đang được sử dụng:
+Nếu một tổ chức đã thiết lập giấy phép riêng cho việc sử dụng hình ảnh của họ, hãy sử dụng mẫu này để mô tả các điều khoản sử dụng hình ảnh đó trên Tolkien Gateway. Để áp dụng mẫu này, chỉ cần sử dụng thẻ sau trong phần tóm tắt tải lên: "[{{Custom-Licen\|DESCRIPTION OF LICENSE}](https://tolkiengateway.net/wiki/Template:Custom-License)". Sau đây là một ví dụ về mẫu này đang được sử dụng:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-3);border:2px solid --tg-border-color-base;padding:0px 10px 0px 10px;font-size:100%;text-align:center;">
 <p>This image is used under the terms of the <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Joe Bloggs License</a>.
@@ -41,9 +41,9 @@ Nếu một tổ chức đã thiết lập giấy phép riêng cho việc sử d
 
 <br>
 
-### GFDL — được tạo cho Tolkien Gateway {#GFDL_—_made_for_Tolkien_Gateway}
+### GFDL — được tạo cho Cổng Tolkien {#GFDL_—_made_for_Tolkien_Gateway}
 
-Nếu hình ảnh đã được tạo cho Tolkien Gateway và nó chưa được chỉ định một giấy phép cụ thể thì nó được coi là đã được phát hành, giống như bất kỳ đóng góp nào khác cho Tolkien Gateway (trừ khi có quy định khác), theo Giấy phép Tài liệu Tự do GNU. Để áp dụng mẫu này, hãy sử dụng thẻ sau trong phần tóm tắt tải lên: "[{{GFDL-self\|Tên của Tolkien Gateway Người đóng góp}](https://tolkiengateway.net/wiki/Template:GFDL-self)". Sau đây là một ví dụ về mẫu này đang được sử dụng:
+Nếu hình ảnh đã được tạo cho Tolkien Gateway và chưa được cấp giấy phép cụ thể thì nó được coi là được phát hành, giống như bất kỳ đóng góp nào khác cho Tolkien Gateway (trừ khi có quy định khác), theo Giấy phép Tài liệu Miễn phí GNU. Để áp dụng mẫu này, hãy sử dụng thẻ sau trong phần tóm tắt tải lên: "[{{GFDL-self\|Name of Tolkien Gateway Contributor}](https://tolkiengateway.net/wiki/Template:GFDL-self)". Sau đây là một ví dụ về mẫu này đang được sử dụng:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);">
 <p>As a Tolkien Gateway contributor, <a href="https://tolkiengateway.net/wiki/User:Joe_Bloggs" title="User:Joe Bloggs">Joe Bloggs</a> has granted permission to copy, distribute and/or modify this document under the terms of the <b><a class="extiw" href="http://en.wikipedia.org/wiki/Text_of_the_GNU_Free_Documentation_License" title="wikipedia:Text of the GNU Free Documentation License">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
@@ -341,7 +341,7 @@ Hầu hết các hình ảnh trên web <b>chưa được phát hành sang <a cla
 
 ### Sử dụng hợp lý {#Fair_use}
 
-Tệp bản quyền có thể được sử dụng trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) nếu người tải hình ảnh lên tin rằng nó đủ điều kiện là <b><a class="extiw" href="http://en.wikipedia.org/wiki/Fair_use" title="wikipedia:Fair use">sử dụng hợp pháp</a></b> theo <a class="external text" href="http://www.copyright.gov/fls/fl102.html" rel="noreferrer noopener" target="_blank">luật bản quyền của Hoa Kỳ</a>. Hình ảnh có bản quyền có thể được sử dụng hợp lý vì Tolkien Gateway là trang web giáo dục phi lợi nhuận. Để áp dụng mẫu này, hãy sử dụng thẻ sau trong phần tóm tắt tải lên: "{{Copyright-fairuse\|Copyright owner}}". Bất cứ khi nào có thể, bạn cũng nên đưa vào liên kết tới trang web của chủ bản quyền, ví dụ: "[{{Copyright-fairuse\|\[http://copyrightholderwebsite.com/ Tên chủ sở hữu bản quyền\]}](https://tolkiengateway.net/wiki/Template:Copyright-fairuse)". Sau đây là một ví dụ về mẫu này đang được sử dụng:
+Tệp bản quyền có thể được sử dụng trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) nếu người tải hình ảnh lên tin rằng nó đủ điều kiện <b><a class="extiw" href="http://en.wikipedia.org/wiki/Fair_use" title="wikipedia:Fair use">sử dụng hợp pháp</a></b> theo <a class="external text" href="http://www.copyright.gov/fls/fl102.html" rel="noreferrer noopener" target="_blank">luật bản quyền của Hoa Kỳ</a>. Hình ảnh có bản quyền có thể được sử dụng hợp lý vì Tolkien Gateway là một trang web giáo dục phi lợi nhuận. Để áp dụng mẫu này, hãy sử dụng thẻ sau trong phần tóm tắt tải lên: "{{Copyright-fairuse\|Copyright owner}}". Bất cứ khi nào có thể, bạn cũng nên đưa vào liên kết tới trang web của chủ bản quyền, ví dụ: "[{{Copyright-fairuse\|\[http://copyrightholderwebsite.com/ Tên chủ sở hữu bản quyền\]}](https://tolkiengateway.net/wiki/Template:Copyright-fairuse)". Sau đây là một ví dụ về mẫu này đang được sử dụng:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://tolkiengateway.net/wiki/User:Joe_Bloggs" rel="noreferrer noopener" target="_blank">Joe Bloggs</a>. It is believed that the limited use of this file,
@@ -368,7 +368,7 @@ Các tệp bản quyền cũng có thể được sử dụng trên [Tolkien Gat
 
 ## Bản đồ {#Maps}
 
-Mẫu sau phải được áp dụng cho các trang tệp của tất cả các bản đồ trên Tolkien Gateway vì các hình ảnh tương tự của các bản đồ liên quan đến huyền thoại của J.R.R. Tolkien đều thuộc quyền sở hữu của [Tolkien Estate](../../main/T/Tolkien_Estate.md). Bản mẫu này phải được đặt bên dưới bản mẫu bản quyền thông thường (được liệt kê ở trên). Để áp dụng mẫu này, hãy sử dụng thẻ sau: "[{{Map}](https://tolkiengateway.net/wiki/Template:Map)". Sau đây là một ví dụ về mẫu này đang được sử dụng:
+Mẫu sau phải được áp dụng cho các trang tệp của tất cả các bản đồ trên Cổng Tolkien vì các bản đồ tương tự liên quan đến di tích của J.R.R. Tolkien đều thuộc quyền sở hữu của [Tolkien Estate](../../main/T/Tolkien_Estate.md). Bản mẫu này phải được đặt bên dưới bản mẫu bản quyền thông thường (được liệt kê ở trên). Để áp dụng mẫu này, hãy sử dụng thẻ sau: "[{{Map}](https://tolkiengateway.net/wiki/Template:Map)". Sau đây là một ví dụ về mẫu này đang được sử dụng:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
 <p>It is believed that the use of this map which relates to <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien&#39;s</a> <a href="../../main/L/Legendarium.md" title="Legendarium">legendarium</a>,
@@ -380,9 +380,9 @@ Mẫu sau phải được áp dụng cho các trang tệp của tất cả các 
 
 <br>
 
-## Tengwar bài viết {#Tengwar_writings}
+## Bài viết của Tengwar {#Tengwar_writings}
 
-Mẫu sau phải được áp dụng cho các trang tệp của tất cả [Tengwar](../../main/T/Tengwar.md) bài viết trên Tolkien Gateway để ghi nhận [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) là người đã nghĩ ra chính kịch bản đó. Bản mẫu này nên được đặt bên dưới bản mẫu bản quyền thông thường (được liệt kê ở trên). Để áp dụng mẫu này, hãy sử dụng thẻ sau: "[{{Fairuse-Tengwar}](https://tolkiengateway.net/wiki/Template:Tengwar)". Sau đây là một ví dụ về mẫu này đang được sử dụng:
+Mẫu sau phải được áp dụng cho các trang tệp của tất cả các bài viết [Tengwar](../../main/T/Tengwar.md) trên Tolkien Gateway để ghi nhận [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) là người đã nghĩ ra chính kịch bản đó. Bản mẫu này nên được đặt bên dưới bản mẫu bản quyền thông thường (được liệt kê ở trên). Để áp dụng bản mẫu này, hãy sử dụng thẻ sau: "[{{Fairuse-Tengwar}](https://tolkiengateway.net/wiki/Template:Tengwar)". Sau đây là một ví dụ về mẫu này đang được sử dụng:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
 <p>It is believed that the use of this writing, based on the <a href="../../main/T/Tengwar.md" title="Tengwar">Tengwar</a> script devised by <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>,

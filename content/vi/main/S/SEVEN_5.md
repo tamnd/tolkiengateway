@@ -49,7 +49,7 @@ infobox:
     - Bởi: David Holbrook
 - "Charles Williams và Thomas Cranmer tại Canterbury"
     - Bởi: James G. Dixon
-- "Ảo tưởng Platon củaTolkien"
+- "Ảo tưởng Platon của Tolkien"
     - Bởi: John Cox
 - "Tiểu thuyết trinh thám của Dorothy L. Sayers: Nguồn cho nhà sử học xã hội?"
     - Bởi: Philip L. Scowcroft

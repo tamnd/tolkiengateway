@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tales of the Shire: A \"The Lord of the Rings\" Game"
 ---
 
-Chuyển hướng đến [Câu chuyện về Shire: Trò chơi "The Lord of the Rings"](Tales_of_the_Shire%253A_A_%2522The_Lord_of_the_Rings%2522_Game.md).
+Chuyển hướng đến [Tales of the Shire: A "The Lord of the Rings" Game](Tales_of_the_Shire%253A_A_%2522The_Lord_of_the_Rings%2522_Game.md).

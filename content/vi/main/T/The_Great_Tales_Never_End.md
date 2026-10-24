@@ -34,7 +34,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Great_Tales_Never_End.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f1/The_Great_Tales_Never_End.jpg/318px-The_Great_Tales_Never_End.jpg" decoding="async" loading="lazy" width="318" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f1/The_Great_Tales_Never_End.jpg/477px-The_Great_Tales_Never_End.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f1/The_Great_Tales_Never_End.jpg/636px-The_Great_Tales_Never_End.jpg 2x" data-file-width="1241" data-file-height="1874"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Great Tales Never End:<br/><small>Essays in Memory of Christopher Tolkien</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Richard Ovenden and <a href="../C/Catherine_McIlwaine.md" title="Catherine McIlwaine">Catherine McIlwaine</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Bodleian Libraries</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/24_June.md" title="24 June">24 June</a> <a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">240 pages</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/9781851245659" title="Special:BookSources/9781851245659">9781851245659</a></td></tr></tbody></table>
 
-<i><b>The Great Tales Never End: Những bài tiểu luận tưởng nhớ Christopher Tolkien</b></i> là cuốn sách gồm các bài tiểu luận về [Christopher Tolkien](../C/Christopher_Tolkien.md), do [Richard Ovenden](../R/Richard_Ovenden.md) và [Catherine McIlwaine](../C/Catherine_McIlwaine.md) biên tập. Các bài tiểu luận đều được đóng góp bởi các học giả Tolkien nổi tiếng. Nó được xuất bản bởi [Thư viện Bodleian](../B/Bodleian_Library.md) vào tháng 6 [2022](../_/2022.md) ở Vương quốc Anh và bởi Đại học Chicago vào tháng Chín ở Hoa Kỳ.<sup id="cite_ref-Bodleian_1-0" class="reference"><a href="#cite_note-Bodleian-1">[1]</a></sup><sup id="cite_ref-Chicago_2-0" class="reference"><a href="#cite_note-Chicago-2">[2]</a></sup>
+<i><b>Những câu chuyện vĩ đại không bao giờ kết thúc: Những bài tiểu luận tưởng nhớ Christopher Tolkien</b></i> là cuốn sách gồm những bài tiểu luận về [Christopher Tolkien](../C/Christopher_Tolkien.md), do [Richard Ovenden](../R/Richard_Ovenden.md) và [Catherine McIlwaine](../C/Catherine_McIlwaine.md) biên tập. Các bài tiểu luận đều được đóng góp bởi các học giả nổi tiếng của Tolkien. Nó được xuất bản bởi [Thư viện Bodleian](../B/Bodleian_Library.md) vào tháng 6 [2022](../_/2022.md) ở Vương quốc Anh và bởi Đại học Chicago vào tháng 9 ở Hoa Kỳ.<sup id="cite_ref-Bodleian_1-0" class="reference"><a href="#cite_note-Bodleian-1">[1]</a></sup><sup id="cite_ref-Chicago_2-0" class="reference"><a href="#cite_note-Chicago-2">[2]</a></sup>
 
 Cuốn sách đóng vai trò như một đài tưởng niệm Christopher Tolkien, người đã qua đời vào [16 tháng 1](../_/16_January.md), [2020](../_/2020.md).
 
@@ -43,28 +43,28 @@ Cuốn sách đóng vai trò như một đài tưởng niệm Christopher Tolkie
 - 1\. Giới thiệu
     - của [Catherine McIlwaine](../C/Catherine_McIlwaine.md)
 - Dòng thời gian
-- 2\. Điếu văn tại tang lễ Christopher Tolkien
+- 2\. Bài điếu văn được gửi tại đám tang của Christopher Tolkien
     - của Maxime H. Pascal (được dịch từ tiếng Pháp bởi [Baillie Tolkien](../B/Baillie_Tolkien.md))
 - 3\. Ký ức cá nhân
-    - bởi [Priscilla Tolkien](../P/Priscilla_Tolkien.md)
-- 4\. Người Con Sau Cha: Christopher Tolkien với tư cách là Nhà Văn
+    - của [Priscilla Tolkien](../P/Priscilla_Tolkien.md)
+- 4\. Người Con Phía Sau Người Cha: Christopher Tolkien vai Nhà Văn
     - của [Vincent Ferré](../V/Vincent_Ferré.md)
 - 5\. Nghe nhạc
-    - bởi [Verlyn Flieger](../V/Verlyn_Flieger.md)
+    - của [Verlyn Flieger](../V/Verlyn_Flieger.md)
 - 6\. Niên đại của sự sáng tạo: Làm thế nào J.R.R. Tolkien nhớ sai về sự khởi đầu của thần thoại của mình
-    - bởi [John Garth](../J/John_Garth.md)
+    - của [John Garth](../J/John_Garth.md)
 - 7\. 'Tôi đã bắt đầu một cách khôn ngoan với một bản đồ': J.R.R. Tolkien với tư cách là Người vẽ bản đồ
-    - bởi [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md)
+    - của [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md)
 - 8\. Chỉnh sửa bản thảo Tolkienian
     - bởi [Carl F. Hostetter](../C/Carl_F._Hostetter.md)
-- 9\. Một cột mốc quan trọng trong lịch sử BBC? Vở kịch trên đài phát thanh 1955-56 của The Lord of the Rings
+- 9\. Một cột mốc quan trọng trong lịch sử BBC? Vở kịch truyền hình Chúa tể của những chiếc nhẫn năm 1955-56
     - bởi [Stuart D. Lee](../S/Stuart_D._Lee.md)
-- 10\. 'Vua Rọc' và 'The Lost Road'
-    - bởi [Tom Shippey](Tom_Shippey.md)
+- 10\. 'King Sheave' và 'Con đường đã mất'
+    - của [Tom Shippey](Tom_Shippey.md)
 - 11\. 'Xuống cánh cửa nơi nó bắt đầu…': Hình ảnh cổng thông tin trong *The Hobbit* và *The Lord of the Rings*
     - của [Brian Sibley](../B/Brian_Sibley.md)
 
-- Thư mục cho Christopher Tolkien
+- Thư mục của Christopher Tolkien
 - Ghi chú
 - Giới thiệu về người đóng góp
 - Đọc thêm
@@ -86,7 +86,7 @@ Cuốn sách đóng vai trò như một đài tưởng niệm Christopher Tolkie
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.youtube.com/watch?v=LUV1Ep2QUz4" rel="noreferrer noopener" target="_blank">Video đánh giá của Tolkien Hướng dẫn sưu tầm</a>
+- <a class="external text" href="https://www.youtube.com/watch?v=LUV1Ep2QUz4" rel="noreferrer noopener" target="_blank">Video đánh giá của Hướng dẫn sưu tầm Tolkien</a>
 - <a class="external text" href="https://marquette.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=17aa52dd-8ada-4e57-acc3-af2600e8716e" rel="noreferrer noopener" target="_blank">Bài thuyết trình trực tuyến "Chỉnh sửa bản thảo Tolkienian"</a> của Carl Hostetter
 
 <span></span>

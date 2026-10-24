@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Óswine (Prince of Gwar)"
 ---
 
-Chuyển hướng tới [Óswine (Thân vương của Gwar)](<Óswine_(Prince_of_Gwar)~61512.md>).
+Chuyển hướng tới [Óswine (Hoàng tử Gwar)](<Óswine_(Prince_of_Gwar)~61512.md>).

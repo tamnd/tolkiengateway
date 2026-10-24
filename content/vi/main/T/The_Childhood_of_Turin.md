@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Childhood of Túrin"
 ---
 
-Chuyển hướng đến [Tuổi thơ của Túrin](The_Childhood_of_Túrin.md).
+Chuyển hướng tới [Thời thơ ấu của Túrin](The_Childhood_of_Túrin.md).

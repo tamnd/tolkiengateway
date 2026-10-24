@@ -15,7 +15,7 @@ sort_keys:
   "Letters": "Waldman, Milton"
 ---
 
-Trong [1951](../_/1951.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Milton Waldman](../M/Milton_Waldman.md)**.
+Trong [1951](../_/1951.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Milton Waldman](../M/Milton_Waldman.md)**.
 
 - **Nội dung:**
     - Một phần của bức thư này, tóm tắt *The Silmarillion*, được xuất bản lần đầu dưới dạng [Thư 131](Letter_131.md) trong *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*. Nó cũng đã được đưa vào như phần giới thiệu về *[The Silmarillion](../T/The_Silmarillion.md)*, kể từ ấn bản Kỷ niệm 30 năm của cuốn sách.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>

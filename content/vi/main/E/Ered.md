@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>ered</b></i> là từ [Sindarin](../S/Sindarin.md) chỉ "núi", là số nhiều của <i><b>orod</b></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-PE1764_2-0" class="reference"><a href="#cite_note-PE1764-2">[2]</a></sup>
+<i><b>ered</b></i> là từ [tiếng Sindarin](../S/Sindarin.md) cho "núi", là số nhiều của <i><b>orod</b></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-PE1764_2-0" class="reference"><a href="#cite_note-PE1764-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -40,14 +40,14 @@ categories:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-*ered* là dạng số nhiều được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sử dụng trong các bài viết của ông vào những năm 1930 và 1940 (bao gồm *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*) và bởi [Christopher Tolkien](../C/Christopher_Tolkien.md) trong *[Silmarillion](../T/The_Silmarillion.md)*đã xuất bản. Trong công việc sau này của ông về Silmarillion vào những năm 1950 và 60, J.R.R. Tolkien thường sử dụng dạng số nhiều <i><b>eryd</b></i> thay thế, ví dụ *Eryd Lindon*<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và *Eryd Gorgoroth*<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> thay thế *[Ered Lindon](Ered_Lindon.md)* và *[Ered Gorgoroth](Ered_Gorgoroth.md)*trước đó.
+*ered* là dạng số nhiều được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sử dụng trong các bài viết của ông vào những năm 1930 và 1940 (bao gồm *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*) và bởi [Christopher Tolkien](../C/Christopher_Tolkien.md) trong *[Silmarillion](../T/The_Silmarillion.md)* đã xuất bản. Trong tác phẩm sau này của ông về Silmarillion vào những năm 1950 và 60, J.R.R. Tolkien thường sử dụng dạng số nhiều <i><b>eryd</b></i> thay thế, ví dụ *Eryd Lindon*<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và *Eryd Gorgoroth*<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> thay thế *[Ered Lindon](Ered_Lindon.md)* và *[Ered Gorgoroth](Ered_Gorgoroth.md)* trước đó.
 
-Trong quy tắc số nhiều thông thường của [Sindarin](../S/Sindarin.md), dạng *eryd* sẽ là số nhiều thực sự, vì *o* trong âm tiết cuối cùng của danh từ số ít đã trở thành *y* ở số nhiều, chẳng hạn như *emyn* số nhiều của *[amon](../A/Amon.md)* ("hill") và *gelydh* số nhiều của *[golodh](../G/Golodh.md)* ("Noldo"). Để giải thích sự hiện diện của *ered* trong *The Lord of the Rings*, Tolkien đã xem xét sửa đổi lịch sử bên trong của số nhiều Sindarin, sao cho *y*-số nhiều của [Kỷ Đệ Nhất](../F/First_Age.md) đã thay đổi thành *e* bởi [Kỷ Đệ Tam](../T/Third_Age.md), ngoại trừ một số trường hợp hạn chế như trước các mũi như *n* và *m* (để giải thích *emyn*cũng xuất hiện trong *The Lord of the Rings*).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 1]</a></sup>
+Trong quy tắc số nhiều thông thường của [Sindarin](../S/Sindarin.md), dạng *eryd* sẽ là số nhiều thích hợp, vì *o* trong âm tiết cuối cùng của danh từ số ít đã trở thành *y* ở số nhiều, chẳng hạn như *emyn* số nhiều của *[amon](../A/Amon.md)* ("hill") và *gelydh* số nhiều của *[golodh](../G/Golodh.md)* ("Noldo"). Để giải thích sự hiện diện của *ered* trong *The Lord of the Rings*, Tolkien đã cân nhắc việc sửa đổi lịch sử bên trong của số nhiều Sindarin, sao cho *y*-số nhiều của [Thời thứ nhất](../F/First_Age.md) đã thay đổi thành *e* vào [Thời thứ ba](../T/Third_Age.md), ngoại trừ một số trường hợp hạn chế như trước các mũi như *n* và *m* (để giải thích *emyn*, cũng xuất hiện trong *The Lord of the Rings*).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 1]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Tolkien thậm chí còn lưu ý: "Sử dụng <i>Eryd</i> trong <i>Silmarillion</i>" (<a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17">PE17</a>, trang 33). Có lẽ Christopher đã sử dụng <i>Ered</i> trong <i>The Silmarillion</i> để nhất quán với <i>The Lord of the Rings</i>.</span>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Tolkien thậm chí còn lưu ý: "Sử dụng <i>Eryd</i> trong <i>Silmarillion</i>" (<a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17">PE17</a>, trang 33). Có lẽ Christopher đã sử dụng <i>Ered</i> trong <i>The Silmarillion</i> để nhất quán với <i>Chúa tể của những chiếc nhẫn</i>.</span>
 </li>
 </ol></div></span>
 

@@ -45,7 +45,7 @@ langlinks:
 <li><a href="../F/Foreyule.md" title="Foreyule">Foreyule</a> (December)</li></ol>
 </td></tr></tbody></table>
 
-**Thiên văn**, là tháng thứ tư trong năm theo [Lịch Shire](../S/Shire_Calendar.md), gần tương ứng với [23 tháng 3](../_/23_March.md) đến [21 tháng 4](../_/21_April.md) hiện đại. Tháng này được gọi là [Chithing](../C/Chithing.md) ở [Bree](../B/Bree.md) và [Eastfarthing](../E/Eastfarthing.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Astro**, là tháng thứ tư trong năm theo [Lịch Quận](../S/Shire_Calendar.md), gần tương ứng với [23 tháng 3](../_/23_March.md) đến [21 tháng 4](../_/21_April.md) hiện đại. Tháng này được gọi là [Chithing](../C/Chithing.md) ở [Bree](../B/Bree.md) và [Eastfarthing](../E/Eastfarthing.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

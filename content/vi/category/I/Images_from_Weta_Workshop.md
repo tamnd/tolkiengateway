@@ -14,4 +14,4 @@ sort_keys:
   "Images of collectibles": "Weta"
 ---
 
-- Hình ảnh từ [Weta Workshop](../../main/W/Weta_Workshop.md)
+- Hình ảnh từ [Hội thảo Weta](../../main/W/Weta_Workshop.md)

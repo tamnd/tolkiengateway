@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Long List of the Ents"
 ---
 
-Chuyển hướng tới [Danh sách dài Ent](Long_List_of_the_Ents.md).
+Chuyển hướng tới [Danh sách dài các Ent](Long_List_of_the_Ents.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "George Allen & Unwin: A Remembrancer"
 ---
 
-Chuyển hướng đến [George Allen &amp; Unwin: Người tưởng nhớ](George_Allen_&_Unwin%253A_A_Remembrancer.md).
+Chuyển hướng đến [George Allen &amp; Unwin: A Remembrancer](George_Allen_&_Unwin%253A_A_Remembrancer.md).

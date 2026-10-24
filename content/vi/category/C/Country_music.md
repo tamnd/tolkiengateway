@@ -12,4 +12,4 @@ categories:
   - "Music by genre"
 ---
 
-Danh mục này liệt kê tất cả nhạc **Quốc gia** liên quan đến tác phẩm [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
+Thể loại này liệt kê tất cả nhạc **Đồng quê** liên quan đến tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

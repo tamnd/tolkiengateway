@@ -12,4 +12,4 @@ categories:
   - "Musicians"
 ---
 
-Thể loại này liệt kê tất cả **ban nhạc** liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) tác phẩm.
+Thể loại này liệt kê tất cả **ban nhạc** liên quan đến tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

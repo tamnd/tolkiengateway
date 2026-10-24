@@ -24,7 +24,7 @@ sort_keys:
 
 - [2014](../_/2014.md): *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md)*: [Saruman](../S/Saruman.md)
 - [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: Giọng nói bổ sung
-- [2004](../_/2004.md): [*The Lord of the Rings: The Return of the King* (trò chơi điện tử)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>): Giọng nói bổ sung
+- [2004](../_/2004.md): [*The Lord of the Rings: The Return of the King* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>): Giọng nói bổ sung
 
 ## Liên kết ngoài {#External_links}
 

@@ -45,7 +45,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen124.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1e/AmonHen124.jpg/320px-AmonHen124.jpg" decoding="async" loading="lazy" width="320" height="460" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1e/AmonHen124.jpg/480px-AmonHen124.jpg 1.5x, https://tolkiengateway.net/w/images/1/1e/AmonHen124.jpg 2x" data-file-width="571" data-file-height="821"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 124</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Derrick Stott</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Howard J. Bates</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Centurion Press, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">November <a href="../_/1993.md" title="1993">1993</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_123.md" title="Amon Hen 123">Amon Hen 123</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_125.md" title="Amon Hen 125">Amon Hen 125</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 124</b> là số thứ 124 của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 11 [1993](../_/1993.md).
+<b><i>Amon Hen</i> 124</b> là số thứ 124 của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 11 [1993](../_/1993.md).
 
 ## Nội dung {#Contents}
 
@@ -66,16 +66,16 @@ infobox:
 - Quảng cáo Cán bộ Tuyên truyền & Giáo dục.
 - Thần thoại và phép thuật hoành tráng
     - Bởi: [Chris Crawshaw](../C/Chris_Crawshaw.md)
-- Thể thao trong Trung Địa
+- Thể thao ở Trung địa
 - Margaret Weis & Tracy Hickman
     - Bởi: Richard Leyton
 - Phía sau cánh cửa kính
     - Bởi: Annie Haward
 - Toán học
     - Bởi: Jason Finch
-- Tác phẩm nghệ thuật: Huorn & Orc
+- Tác phẩm nghệ thuật: Huorns & Orc
     - Bởi: D.E. Hulme
-- Thư gửi Shire
+- Thư gửi Quận
 - Đánh giá
 - Ký tự mật mã
     - Bởi: Paul Cockburn

@@ -27,7 +27,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Middle-earth: Journeys in Myth and Legend</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../D/Donato_Giancola.md" title="Donato Giancola">Donato Giancola</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Dark Horse Books</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">27 March <a href="../_/2019.md" title="2019">2019</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-1-50671-086-0" title="Special:BookSources/978-1-50671-086-0">978-1-50671-086-0</a></td></tr></tbody></table>
 
-<i><b>Trung Địa: Hành trình trong thần thoại và truyền thuyết</b></i> là bộ sưu tập tác phẩm nghệ thuật của [Donato Giancola](../D/Donato_Giancola.md), lấy cảm hứng từ [huyền thoại](../L/Legendarium.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Middle-earth: Journeys in Myth and Legend</b></i> là bộ sưu tập tác phẩm nghệ thuật của [Donato Giancola](../D/Donato_Giancola.md), lấy cảm hứng từ [huyền thoại](../L/Legendarium.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Từ nhà xuất bản {#From_the_publisher}
 

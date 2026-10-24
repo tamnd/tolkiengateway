@@ -34,11 +34,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã báo cáo cho [Christopher](../C/Christopher_Tolkien.md) về nhiều công việc hàng ngày, bao gồm các cuộc họp với [C.S. Lewis](../C/C.S._Lewis.md), [Charles Williams](../C/Charles_Williams.md) và [R.B. McCallum](../R/R.B._McCallum.md). Anh ấy đã tìm được chút thời gian để làm *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*và đã gần kết thúc Quyển IV. Anh ước gì Christopher có thể cùng anh thực hiện công việc hữu ích và thú vị là hoàn thiện bản đồ và đánh máy.
+Tolkien đã báo cáo với [Christopher](../C/Christopher_Tolkien.md) về nhiều công việc hàng ngày, bao gồm các cuộc gặp với [C.S. Lewis](../C/C.S._Lewis.md), [Charles Williams](../C/Charles_Williams.md) và [R.B. McCallum](../R/R.B._McCallum.md). Ông đã tìm được chút thời gian để làm *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và đã gần kết thúc Quyển IV. Anh ước gì Christopher ở bên anh để thực hiện công việc hữu ích và thú vị là hoàn thành bản đồ và đánh máy.
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Câu mở đầu cho thấy Tolkien dành phần lớn thời gian viết ngày Chủ nhật, sau đó có chuyến đi đến Carmel.
+Câu mở đầu cho thấy Tolkien dành phần lớn thời gian viết vào ngày chủ nhật, sau đó có chuyến đi đến Carmel.
 
 <br>
 

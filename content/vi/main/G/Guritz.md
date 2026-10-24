@@ -45,15 +45,15 @@ infobox:
 <p class="tg-quote-footer"><cite>Guritz during the <a href="../S/Siege_of_Gondor.md" title="Siege of Gondor">Siege of Gondor</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Guritz**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một trung úy [Orc](../O/Orcs.md) phục vụ dưới quyền [Gothmog](<Gothmog_(Lieutenant_of_Morgul).md>) trong [Cuộc vây hãm Gondor](../S/Siege_of_Gondor.md) và [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
+**Guritz**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một trung úy [Orc](../O/Orcs.md) phục vụ dưới quyền [Gothmog](<Gothmog_(Lieutenant_of_Morgul).md>) trong [Cuộc vây hãm Gondor](../S/Siege_of_Gondor.md) và [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
 
-Guritz là tác phẩm nguyên bản dành cho phim *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Anh ấy được miêu tả bằng hình ảnh bởi [Joel Tobeck](../J/Joel_Tobeck.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và giọng nói của anh ấy được cung cấp bởi [Craig Parker](../C/Craig_Parker.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Guritz là tác phẩm nguyên bản dành cho phim *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Ông được miêu tả bằng hình ảnh bởi [Joel Tobeck](../J/Joel_Tobeck.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và giọng nói của ông được cung cấp bởi [Craig Parker](../C/Craig_Parker.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Tiểu sử {#Biography}
 
-Khi kẻ thù gây vết sẹo ngang mặt Guritz, Orc đã chặt đầu anh ta và gắn đầu anh ta vào đỉnh mũ bảo hiểm.<sup id="cite_ref-TCG_4-0" class="reference"><a href="#cite_note-TCG-4">[4]</a></sup>
+Khi kẻ thù gây vết sẹo ngang mặt Guritz, con Orc đã chặt đầu ông ta và gắn đầu ông ta vào đỉnh mũ bảo hiểm.<sup id="cite_ref-TCG_4-0" class="reference"><a href="#cite_note-TCG-4">[4]</a></sup>
 
-Trong [Cuộc vây hãm Gondor](../S/Siege_of_Gondor.md), [Gothmog](<Gothmog_(Lieutenant_of_Morgul).md>) ra lệnh cho Guritz "thả tù nhân". Guritz hét lên "Máy phóng", khiến [Orc](../O/Orcs.md) bắn đầu bị chặt của Gondor tù nhân từ [Osgiliath](../O/Osgiliath.md) vào [Minas Tirith](../M/Minas_Tirith.md).
+Trong [Cuộc vây hãm Gondor](../S/Siege_of_Gondor.md), [Gothmog](<Gothmog_(Lieutenant_of_Morgul).md>) đã ra lệnh cho Guritz "thả tù nhân". Guritz hét lên "Máy phóng", khiến [Orc](../O/Orcs.md) bắn đầu bị chặt của các tù nhân Gondorian từ [Osgiliath](../O/Osgiliath.md) vào [Minas Tirith](../M/Minas_Tirith.md).
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Late as usual, pirate scum. There&#39;s knifework here needs doing. Come on you sea rats, get off your ships.
@@ -61,11 +61,11 @@ Trong [Cuộc vây hãm Gondor](../S/Siege_of_Gondor.md), [Gothmog](<Gothmog_(Li
 <p class="tg-quote-footer"><cite>Guritz during the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), Guritz đã đợi [Hải tặc Umbar](../C/Corsairs_of_Umbar.md) ở [Pelargir](../P/Pelargir.md) với một tiểu đoàn Orc. Khi các Corsairs đến, anh ta nhận xét rằng họ đã đến muộn, bảo họ xuống tàu vì họ cần phải làm "công việc dùng dao". Orc rất ngạc nhiên khi thấy [Ba Thợ Săn](../T/Three_Hunters.md) nhảy khỏi tàu. Mỉm cười, do số lượng kẻ thù ít nên Guritz đã chuẩn bị sẵn Lưỡi hái của mình. Tuy nhiên, khi [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](Gimli.md) tiến về phía trước, một đội quân áp đảo gồm [các chiến binh xác sống](../O/Oathbreakers.md) theo sau họ. Guritz bất ngờ lùi lại và bị quân đội giẫm đạp.
+Trong [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), Guritz đã chờ đợi [Corsairs of Umbar](../C/Corsairs_of_Umbar.md) ở [Pelargir](../P/Pelargir.md) cùng với một tiểu đoàn Orc. Khi các Corsairs đến, ông ta nhận xét rằng họ đã đến muộn, bảo họ xuống tàu vì họ cần phải làm "công việc dùng dao". Con Orc rất ngạc nhiên khi thấy [Ba thợ săn](../T/Three_Hunters.md) nhảy khỏi tàu. Mỉm cười, do số lượng kẻ thù ít nên Guritz đã chuẩn bị sẵn Lưỡi hái của mình. Tuy nhiên, khi [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](Gimli.md) tiến về phía trước, một đội quân áp đảo gồm [các chiến binh xác sống](../O/Oathbreakers.md) đã theo sau họ. Guritz bất ngờ lùi lại và bị quân đội giẫm đạp.
 
 ## Phiên bản khác {#Other_versions}
 
-Bản mở rộng *Mount Doom* của [The Lord of the Rings Trò chơi thẻ giao dịch](../T/The_Lord_of_the_Rings_Trading_Card_Game.md) xác định anh ta là "Đội trưởng tiên tiến",<sup id="cite_ref-TCG_4-1" class="reference"><a href="#cite_note-TCG-4">[4]</a></sup> trái ngược với [phần ghi công của bộ phim](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md), phần ghi công của [Tobeck](../J/Joel_Tobeck.md) là "Orc Trung úy I". Tuy nhiên, chức danh Đại úy có thể chính xác hơn vì [Gothmog](<Gothmog_(Lieutenant_of_Morgul).md>) giữ chức vụ trung úy và Guritz được miêu tả rõ ràng là cấp dưới của anh ta.
+Bản mở rộng *Mount Doom* của [The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md) xác định ông ta là "Đội trưởng tiên tiến",<sup id="cite_ref-TCG_4-1" class="reference"><a href="#cite_note-TCG-4">[4]</a></sup> trái ngược với [phần ghi công của bộ phim](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md), phần ghi công của [Tobeck](../J/Joel_Tobeck.md) là "Trung úy Orc I". Tuy nhiên, chức danh Đội trưởng có thể chính xác hơn vì [Gothmog](<Gothmog_(Lieutenant_of_Morgul).md>) giữ chức vụ trung úy và Guritz được miêu tả rõ ràng là cấp dưới của ông ta.
 
 <span></span>
 

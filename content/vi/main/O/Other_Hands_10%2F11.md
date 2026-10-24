@@ -38,15 +38,15 @@ infobox:
 - Truyền thông - Nathan Smith, Bernie Roessler, Jason Vester, Wesley Frank
 - Tiền tuyến - [Chris Seeman](../C/Chris_Seeman.md)
 - Bàn tay kỹ thuật số - Fredrik Ekman
-- Những con phố Minas Tirith - Bernie Roessler
-- Một số suy nghĩ ngắn gọn về phép thuật trong Trung Địa - Dirk Brandherm
-- Sức mạnh của bùa chú trong Trung Địa - Wesley Frank
+- Những con phố của Minas Tirith - Bernie Roessler
+- Một số suy nghĩ ngắn gọn về phép thuật ở Trung Địa - Dirk Brandherm
+- Sức mạnh của bùa chú ở Trung Địa - Wesley Frank
 - Kịch bản: Chi phí sinh hoạt cao - Magnus Seter
 - Tất cả những điều lấp lánh - [Anders Blixt](../A/Anders_Blixt.md)
 - Phỏng vấn Laurie Battle - [Chris Seeman](../C/Chris_Seeman.md)
 - Bản đồ Forochel - Wesley Frank
-- Đánh giá sản phẩm: Trung Địa: Pháp sư - [Chris Seeman](../C/Chris_Seeman.md)
+- Đánh giá sản phẩm: Trung địa: Phù thủy - [Chris Seeman](../C/Chris_Seeman.md)
 - Đánh giá sản phẩm: The Shire - Michael Bailey
-- Đánh giá sản phẩm: Thị trấn Hồ - Gerrit Nuckton
+- Đánh giá sản phẩm: Lake-town - Gerrit Nuckton
 - Đánh giá sản phẩm: Quy tắc tiêu chuẩn của Rolemaster - Sam Daish
-- Thảo mộc & Phép thuật - Torquil Gault
+- Thảo dược & Phép thuật - Torquil Gault

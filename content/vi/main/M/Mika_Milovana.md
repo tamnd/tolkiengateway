@@ -44,13 +44,13 @@ infobox:
 
 Công chúa Mika Milovana là một trong ba người sống sót sau sự hủy diệt của [Dale](../D/Dale.md) bởi con rồng [Slag](../S/Smaug.md), những người còn lại là người canh gác và [Tướng Torin Oakenshield](../T/Thorin.md).<sup id="cite_ref-video_1-1" class="reference"><a href="#cite_note-video-1">[1]</a></sup>
 
-Công chúa nổi giận khi [Bilbo](../B/Bilbo_Baggins.md) từ chối nhận vai kẻ giết rồng được tiên tri của anh. Cô tuyên bố rằng con rồng đã giết cha cô và người của cô và cô sẽ đi một mình đến [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md) nếu cần. Quá bàng hoàng khi thấy một đứa trẻ lại rơi vào tình trạng nguy hiểm như vậy, Bilbo đã đồng ý đi.<sup id="cite_ref-video_1-2" class="reference"><a href="#cite_note-video-1">[1]</a></sup>
+Công chúa tức giận khi [Bilbo](../B/Bilbo_Baggins.md) từ chối nhận lời tiên tri về vai trò sát thủ rồng. Cô tuyên bố rằng con rồng đã giết chết cha cô và người dân của cô và cô sẽ đi một mình tới [Núi Cô Đơn](../L/Lonely_Mountain.md) nếu cần. Thất vọng vì một đứa trẻ lại gặp phải mối nguy hiểm như vậy, Bilbo đồng ý đi.<sup id="cite_ref-video_1-2" class="reference"><a href="#cite_note-video-1">[1]</a></sup>
 
-Sau khi Bilbo giết được Slag, Dale đã được khôi phục. Bilbo và Mika cùng nhau trị vì ở đó một thời gian trước khi họ quay trở lại [Hobbiton](../H/Hobbiton.md).<sup id="cite_ref-video_1-3" class="reference"><a href="#cite_note-video-1">[1]</a></sup>
+Sau khi Bilbo giết Slag, Dale đã được phục hồi. Bilbo và Mika cùng nhau trị vì ở đó một thời gian trước khi họ quay trở lại [Hobbiton](../H/Hobbiton.md).<sup id="cite_ref-video_1-3" class="reference"><a href="#cite_note-video-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Theo [Gene Deitch](../G/Gene_Deitch.md), đạo diễn của [*The Hobbit* (phim 1967)](<../T/The_Hobbit_(1967_film).md>), Công chúa được đặt theo tên của <a class="extiw" href="http://en.wikipedia.org/wiki/Pete_Seeger" title="wikipedia:Pete Seeger">Pete con gái lớn</a> của Seeger "<a class="extiw" href="http://en.wikipedia.org/wiki/Mika_Seeger" title="wikipedia:Mika Seeger">Mika</a>". Tên thứ hai của cô ấy, "Milovana", 'có nghĩa là người phụ nữ được yêu mến' trong <a class="extiw" href="http://en.wikipedia.org/wiki/Czech_language" title="wikipedia:Czech language">Séc</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Theo [Gene Deitch](../G/Gene_Deitch.md), đạo diễn của [*The Hobbit* (phim 1967)](<../T/The_Hobbit_(1967_film).md>), Công chúa được đặt theo tên của <a class="extiw" href="http://en.wikipedia.org/wiki/Pete_Seeger" title="wikipedia:Pete Seeger">con gái lớn</a> của Pete Seeger "<a class="extiw" href="http://en.wikipedia.org/wiki/Mika_Seeger" title="wikipedia:Mika Seeger">Mika</a>". Tên thứ hai của bà, "Milovana", 'có nghĩa là người phụ nữ được yêu mến' trong <a class="extiw" href="http://en.wikipedia.org/wiki/Czech_language" title="wikipedia:Czech language">Séc</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

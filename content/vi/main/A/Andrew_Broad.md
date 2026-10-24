@@ -21,7 +21,7 @@ sort_keys:
   "People by name": "Broad, Andrew"
 ---
 
-**Tiến sĩ. Andrew Philip Broad** là một lập trình viên và nhà thiết kế phần mềm đến từ khu vực Manchester. Anh ấy đã thiết kế *[Manic Miner: The Hobbit](../M/Manic_Miner%253A_The_Hobbit.md)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và *[Jet Set Willy: The Lord of the Rings](../J/Jet_Set_Willy%253A_The_Lord_of_the_Rings.md)*,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> hai bản mở rộng theo chủ đề Tolkien của trò chơi gốc.
+**Tiến sĩ. Andrew Philip Broad** là một lập trình viên và nhà thiết kế phần mềm đến từ khu vực Manchester. Ông đã thiết kế *[Manic Miner: The Hobbit](../M/Manic_Miner%253A_The_Hobbit.md)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và *[Jet Set Willy: The Lord of the Rings](../J/Jet_Set_Willy%253A_The_Lord_of_the_Rings.md)*,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> hai bản mở rộng theo chủ đề Tolkien của trò chơi gốc.
 
 ## Liên kết ngoài {#External_links}
 

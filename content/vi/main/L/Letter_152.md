@@ -31,11 +31,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Heppenstall hỏi các diễn giả nên sử dụng phương ngữ nào cho chương trình phát thanh *[The Homecoming of Beorhtnoth, Beorhthelm's Son](<../T/The_Homecoming_of_Beorhtnoth,_Beorhthelm's_Son_(radio_play).md>)*. Tolkien trả lời rằng không cần thiết vì không có sự khác biệt về địa vị xã hội giữa những người nói. Một người có vẻ trẻ hơn và một người già hơn và họ có tính khí khác nhau. Người hát rong trẻ tuổi nên sử dụng phong cách cổ xưa trong câu thơ của mình. Vào thời điểm đó, "phương ngữ" chỉ đánh dấu vị trí chứ không phải thứ hạng hay chức năng nên tốt nhất nên tránh sự mộc mạc hiện đại. phương Đông Tiếng Anglian hiện đại sẽ lỗi thời (tiếng Đan Mạch và tiếng Anh chưa hợp nhất). Essex của phương Đông người Saxon là một chuyện rất khác với Northfolk và Southfolk.
+Heppenstall hỏi các diễn giả nên sử dụng phương ngữ nào cho chương trình phát thanh *[The Homecoming of Beorhtnoth, Beorhthelm's Son](<../T/The_Homecoming_of_Beorhtnoth,_Beorhthelm's_Son_(radio_play).md>)*. Tolkien trả lời rằng không cần thiết vì không có sự khác biệt về địa vị xã hội giữa những người nói. Một người có vẻ trẻ hơn và một người già hơn và họ có tính khí khác nhau. Người hát rong trẻ tuổi nên sử dụng phong cách cổ xưa trong câu thơ của mình. Vào thời điểm đó, "phương ngữ" chỉ đánh dấu vị trí chứ không phải thứ hạng hay chức năng nên tốt nhất nên tránh sự mộc mạc hiện đại. Đông Anglian hiện đại sẽ lỗi thời (tiếng Đan Mạch và tiếng Anh chưa hợp nhất). Essex của Đông Saxons là một chuyện rất khác với Northfolk và Southfolk.
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Đoạn đầu thể hiện sự nhận thức của Tolkien về việc trả lời muộn và vui mừng khi bài thơ được phát sóng.
+Đoạn đầu tiên cho thấy Tolkien nhận thức được việc trả lời muộn và rất vui khi bài thơ được phát sóng.
 
 ## Xem thêm {#See_also}
 

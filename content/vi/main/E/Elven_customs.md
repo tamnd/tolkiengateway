@@ -12,48 +12,48 @@ categories:
   - "Elves"
 ---
 
-Tiên tộc họ đã thực hành nhiều **Phong tục** khác nhau.
+Người Tiên có nhiều **Phong tục** khác nhau mà họ thực hành.
 
 ## Hôn nhân {#Marriage}
 
 Vợ chồng có thể lựa chọn nhau từ lâu trước khi kết hôn và hứa hôn. Việc hứa hôn phải được sự chấp thuận của cha mẹ trừ khi các bên đủ tuổi và có ý định kết hôn sớm, lúc đó việc hứa hôn được công bố tại cuộc họp của hai nhà, trong đó cặp đôi trao nhẫn cho nhau. Lời hứa hôn kéo dài ít nhất một năm và có thể hủy bỏ khi trả lại nhẫn (nhưng hiếm khi bị vỡ). Sau khi chính thức đính hôn, cặp đôi ấn định thời gian tổ chức đám cưới khi đã trôi qua ít nhất một năm.
 
-Hôn nhân được cử hành trong bữa tiệc của hai nhà. Vợ chồng trả lại nhẫn đính hôn và nhận những chiếc nhẫn khác đeo ở ngón trỏ. Mẹ cô dâu trao cho chú rể một viên ngọc để đeo, nhưng cuộc hôn nhân chỉ thành tựu khi nó viên mãn. Về mặt kỹ thuật, chỉ có lời trao đổi giữa cô dâu và chú rể (bao gồm cả việc nói tên Eru) và sự viên mãn là bắt buộc đối với hôn nhân.
+Hôn nhân được cử hành trong bữa tiệc của hai nhà. Vợ chồng trả lại nhẫn đính hôn và nhận những chiếc nhẫn khác đeo ở ngón trỏ. Mẹ cô dâu trao cho chú rể một viên ngọc để đeo, nhưng cuộc hôn nhân chỉ thành tựu khi nó viên mãn. Về mặt kỹ thuật, chỉ những lời trao đổi giữa cô dâu và chú rể (bao gồm cả việc nói tên Eru) và sự viên mãn là bắt buộc đối với hôn nhân.
 
 ## Quy ước đặt tên {#Naming_conventions}
 
-Các truyền thống sau đây đã được thực hiện trong Noldor; Eldar khác có quy ước hơi khác một chút. Quy ước đặt tên rất phức tạp, vì cả cha lẫn mẹ đều đặt tên cho con và Tiên tộc thường chọn tên bổ sung cho mình sau này hoặc do người khác đặt tên.
+Các truyền thống sau đây đã được thực hiện ở người Noldor; các Eldar khác có những quy ước hơi khác một chút. Quy ước đặt tên rất phức tạp, vì cả cha lẫn mẹ đều đặt tên cho đứa trẻ và Yêu tinh thường chọn những cái tên bổ sung cho mình sau này hoặc được người khác đặt tên.
 
 ### Tinh tế {#Essë}
 
-Noldor thường được đặt một tên ( *[essë](Essë.md)*) khi mới sinh. Tên này do người cha đặt nên gọi là tên cha.<sup id="cite_ref-Mother_1-0" class="reference"><a href="#cite_note-Mother-1">[1]</a></sup> Tên này thường được lấy từ tên riêng của cha hoặc tên mẹ. Ví dụ nổi bật nhất cho điều này là [Finwë](../F/Finwë.md) và con cháu của ông:
+Người Noldor thường được đặt một tên ( *[essë](Essë.md)*) khi mới sinh. Tên này do người cha đặt nên gọi là tên cha.<sup id="cite_ref-Mother_1-0" class="reference"><a href="#cite_note-Mother-1">[1]</a></sup> Tên này thường được lấy từ tên riêng của cha hoặc tên mẹ. Ví dụ nổi bật nhất cho điều này là [Finwë](../F/Finwë.md) và con cháu của ông:
 
-- Finwë đặt cho con trai lớn [Fëanor](../F/Fëanor.md) tên *Curufinwë* (có tay nghề Finwë), đặt cho con trai giữa [Fingolfin](../F/Fingolfin.md) tên *Ñolofinwë* (Wise Finwë), và đặt cho con trai út [Finarfin](../F/Finarfin.md) tên *Arafinwë* (Noble Finwë).<sup id="cite_ref-Finwe_2-0" class="reference"><a href="#cite_note-Finwe-2">[2]</a></sup>
-- Nhiều con cháu của Finwë mang phần tử *fin* trong tên của chúng, chẳng hạn như [Fingolfin](../F/Fingolfin.md), [Finarfin](../F/Finarfin.md), [Fingon](../F/Fingon.md) và [Finrod](../F/Finrod.md).
+- Finwë đặt cho con trai lớn [Fëanor](../F/Fëanor.md) tên *Curufinwë* (Finwë lành nghề), cho con trai giữa [Fingolfin](../F/Fingolfin.md) tên *Ñolofinwë* (Wise Finwë), và cho con trai út [Finarfin](../F/Finarfin.md) tên *Arafinwë* (Noble Finwë).<sup id="cite_ref-Finwe_2-0" class="reference"><a href="#cite_note-Finwe-2">[2]</a></sup>
+- Nhiều hậu duệ của Finwë mang yếu tố *fin* trong tên của họ, chẳng hạn như [Fingolfin](../F/Fingolfin.md), [Finarfin](../F/Finarfin.md), [Fingon](../F/Fingon.md) và [Finrod](../F/Finrod.md).
 
-Fëanor lần lượt cũng đặt tên cho tất cả các con trai của ông dựa trên Finwë, với một chút phái sinh:
+Đến lượt Fëanor cũng đặt tên cho tất cả các con trai của mình dựa trên Finwë, với một chút nguồn gốc:
 
-- Con trai cả [Maedhros](../M/Maedhros.md) tên *Nelyafinwë* (thứ ba Finwë), con thứ hai [Maglor](../M/Maglor.md) tên *Canafinwë* (giọng mạnh Finwë), con thứ tư [Caranthir](../C/Caranthir.md) tên *Morifinwë* (da tối Finwë) và con út [Amras](../A/Amras.md) tên *Telufinwë* (cuối Finwë).<sup id="cite_ref-Sons_3-0" class="reference"><a href="#cite_note-Sons-3">[3]</a></sup>
+- Con trai cả của ông [Maedhros](../M/Maedhros.md) được đặt tên là *Nelyafinwë* (Finwë thứ ba), con trai thứ hai [Maglor](../M/Maglor.md) được đặt tên là *Canafinwë* (Finwë có giọng nói mạnh mẽ), con trai thứ tư [Caranthir](../C/Caranthir.md) được đặt tên là *Morifinwë* (Finwë đen tối) và con trai út [Amras](../A/Amras.md) được đặt tên *Telufinwë* (Cuối cùng Finwë).<sup id="cite_ref-Sons_3-0" class="reference"><a href="#cite_note-Sons-3">[3]</a></sup>
 
 Các tiền tố một phần dựa trên ngoại hình và kỹ năng và do đó có thể được thêm vào một thời gian sau khi sinh.
 
 ### Không có gì {#Amilessë}
 
-Khi lớn hơn, những đứa trẻ được mẹ đặt tên thứ hai là *amilessë*. Họ thường mô tả ngoại hình của đứa trẻ hoặc một đặc điểm tính cách. Ví dụ, amilessë của [Galadriel](../G/Galadriel.md) là *Nerwen*, có nghĩa là thiếu nữ do chiều cao, sức mạnh thể chất và lòng kiêu hãnh của cô ấy. amilessë của [Celegorm](../C/Celegorm.md) là *Tyelkormo*, có nghĩa là "kẻ vội vàng" ám chỉ tính khí nóng nảy của anh ta (Celegorm là cách diễn đạt của tên Sindarin). Đôi khi tên mẹ tiết lộ chi tiết về số phận hoặc đặc điểm mạnh mẽ của một Tiên, chẳng hạn như tên Fëanor (thần lửa) hoặc tên mẹ của [Amrod](../A/Amrod.md) *Umbarto* (Định mệnh), sau đó được gọi là *amilessi tercenyë* ("tên mẹ của sự sáng suốt"). Những cái tên này hiếm khi được đưa ra nhưng được coi là cực kỳ quan trọng.
+Khi lớn hơn, những đứa trẻ được mẹ đặt tên thứ hai là *amilessë*. Họ thường mô tả ngoại hình của đứa trẻ hoặc một đặc điểm tính cách. Ví dụ, amilessë của [Galadriel](../G/Galadriel.md) là *Nerwen*, có nghĩa là thiếu nữ do chiều cao, sức mạnh thể chất và lòng kiêu hãnh của bà. amilessë của [Celegorm](../C/Celegorm.md) là *Tyelkormo*, có nghĩa là "kẻ nóng vội" ám chỉ tính khí nóng nảy của ông ta (Celegorm là cách dịch tiếng Sindarin của tên này). Đôi khi tên mẹ tiết lộ chi tiết về số phận hoặc đặc điểm mạnh mẽ của Yêu tinh, chẳng hạn như tên Fëanor (thần lửa) hoặc tên mẹ của [Amrod](../A/Amrod.md) *Umbarto* (Định mệnh), sau đó được gọi là *amilessi tercenyë* ("tên mẹ của sự sáng suốt"). Những cái tên này hiếm khi được đưa ra nhưng được coi là cực kỳ quan trọng.
 
 ### Cilmessë {#Cilmessë}
 
-Khi Noldo lớn lên, trẻ sẽ chọn tên thứ ba, được gọi là *cilmessë* hoặc "tên được chọn". Cái tên này phản ánh thị hiếu ngôn ngữ độc đáo của Noldo.<sup id="cite_ref-Mother_1-1" class="reference"><a href="#cite_note-Mother-1">[1]</a></sup> Nó không được sử dụng bởi những người không biết rõ về Noldo và sẽ bị coi là thô lỗ nếu làm như vậy, và vì lý do này, không có ví dụ nào về cilmessë được biết đến, vì chúng sẽ không xuất hiện trong các ghi chép và truyện lịch sử. Trong những trường hợp đó, tên Cha (vẫn là tên chính thức trong suốt cuộc đời của Noldo) sẽ được sử dụng.
+Khi Noldo lớn lên, cậu ấy hoặc bà chọn tên thứ ba, được gọi là *cilmessë* hoặc "tên được chọn". Cái tên này phản ánh thị hiếu ngôn ngữ độc đáo của Noldo.<sup id="cite_ref-Mother_1-1" class="reference"><a href="#cite_note-Mother-1">[1]</a></sup> Nó không được sử dụng bởi những người không biết rõ về Noldo và sẽ bị coi là thô lỗ nếu làm như vậy, và vì lý do này, không có ví dụ nào về cilmessë được biết đến, vì chúng sẽ không xuất hiện trong các ghi chép và truyện lịch sử. Trong những trường hợp đó, tên Cha (vẫn là tên chính thức trong suốt cuộc đời của Noldo) sẽ được sử dụng.
 
 ### Epessë {#Epessë}
 
-*epessë* hay "after-name" là loại thứ tư. Tên sau được đặt sau này (không nhất thiết là do họ hàng của Tiên), như một danh hiệu thể hiện sự ngưỡng mộ và danh dự.<sup id="cite_ref-Mother_1-2" class="reference"><a href="#cite_note-Mother-1">[1]</a></sup> Trong một số trường hợp, *epessë* được chính Tiên chọn. Một ví dụ điển hình của *epessë* là [Galadriel](../G/Galadriel.md). Galadriel là Sindarin kết xuất của *Alatáriel*, cái sau là Telerin *epessë* ban đầu được [Celeborn](../C/Celeborn.md) trao cho cô ấy, có nghĩa là "Thiếu nữ được đăng quang bởi một vòng hoa rạng rỡ".
+*epessë* hay "after-name" là loại thứ tư. Tên sau này được đặt sau này khi lớn lên (không nhất thiết phải do họ hàng của Yêu tinh), như một danh hiệu thể hiện sự ngưỡng mộ và danh dự.<sup id="cite_ref-Mother_1-2" class="reference"><a href="#cite_note-Mother-1">[1]</a></sup> Trong một số trường hợp, *epessë* được chính Yêu tinh chọn. Một ví dụ điển hình của *epessë* là [Galadriel](../G/Galadriel.md). Galadriel là phiên bản Sindarin của *Alatáriel*, sau này là Telerin *epessë* ban đầu được [Celeborn](../C/Celeborn.md) trao cho cô, có nghĩa là "Thiếu nữ được đăng quang bởi một vòng hoa rạng rỡ".
 
 ### Trường hợp đặc biệt {#Special_cases}
 
-Do việc di chuyển của Noldor sang Trung Địa, nơi họ đã từ bỏ ngôn ngữ mẹ đẻ của mình và sử dụng [Sindarin](../S/Sindarin.md) nên có một số trường hợp phức tạp hơn. Nhiều tên ban đầu đã được dịch thành Sindarin nhưng không được dịch hoàn toàn chính xác. Trong các trường hợp khác, hai tên đã được hợp nhất, tạo ra một epessë mới. Ví dụ [Maedhros](../M/Maedhros.md), con trai lớn của [Fëanor](../F/Fëanor.md), được các anh gọi là *Russandol* (áo đồng) do có mái tóc màu nâu vàng.<sup id="cite_ref-Sons_3-1" class="reference"><a href="#cite_note-Sons-3">[3]</a></sup> Tên mẹ của anh ấy là *Maitimo* (cái tên rất đẹp). Maedhros là sự kết hợp của cả hai tên.
+Do người Noldor di cư đến Trung Địa, nơi họ từ bỏ ngôn ngữ mẹ đẻ của mình và sử dụng [Sindarin](../S/Sindarin.md) nên có một số trường hợp phức tạp hơn. Nhiều tên ban đầu đã được dịch sang tiếng Sindarin, nhưng dịch không hoàn toàn chính xác. Trong các trường hợp khác, hai tên đã được hợp nhất, tạo ra một epessë mới. Ví dụ: [Maedhros](../M/Maedhros.md), con trai lớn của [Fëanor](../F/Fëanor.md), được các anh trai gọi là *Russandol* (áo đồng) do có mái tóc màu nâu vàng.<sup id="cite_ref-Sons_3-1" class="reference"><a href="#cite_note-Sons-3">[3]</a></sup> Tên mẹ của ông là *Maitimo* (tên rất đẹp). Maedhros là sự kết hợp của cả hai cái tên.
 
-Một trường hợp rất đặc biệt khác là Amrod. Tên mẹ của anh ấy là Umbarto, có nghĩa là số phận. Cha anh Fëanor cảm thấy khó chịu với cái tên này và đổi nó thành Ambarto.
+Một trường hợp rất đặc biệt khác là Amrod. Tên mẹ của ông là Umbarto, có nghĩa là số phận. Cha của anh, Fëanor, rất bối rối vì cái tên này và đổi nó thành Ambarto.
 
 <table class="wikitable sortable">
 <tbody><tr>

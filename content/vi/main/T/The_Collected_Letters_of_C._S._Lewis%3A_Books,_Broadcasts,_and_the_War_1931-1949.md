@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Collected Letters of C.S. Lewis: Books, Broadcasts, and the War 1931-1949"
 ---
 
-Chuyển hướng tới [Những bức thư được sưu tầm của C.S. Lewis: Sách, Phát thanh và Chiến tranh 1931-1949](The_Collected_Letters_of_C.S._Lewis%253A_Books,_Broadcasts,_and_the_War_1931-1949.md).
+Chuyển hướng đến [The Collected Letters of C.S. Lewis: Books, Broadcasts, and the War 1931-1949](The_Collected_Letters_of_C.S._Lewis%253A_Books,_Broadcasts,_and_the_War_1931-1949.md).

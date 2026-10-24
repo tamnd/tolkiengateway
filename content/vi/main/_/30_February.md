@@ -69,11 +69,11 @@ Sự kiện xảy ra vào ngày 30 tháng 2.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Entmoot](../E/Entmoot.md) được triệu tập bởi [Treebeard](../T/Treebeard.md) bắt đầu sau [Rừng Fangorn](../F/Fangorn_Forest.md).
-    - Khi [Éomer](Éomer.md) quay lại [Edoras](../E/Edoras.md) anh ấy gặp [Aragorn](../A/Aragorn.md) trên đường đi. Anh ấy nói với họ về Orc. Anh ta cho phép họ tiếp tục nhiệm vụ của mình và để lại cho họ những con ngựa của những người đã ngã xuống, [Arod](../A/Arod.md) và [Hasufel](../H/Hasufel.md).
-    - Vào buổi tối [Ba Thợ Săn](../T/Three_Hunters.md) chạm trán [Saruman](../S/Saruman.md) từ xa và ngựa bỏ chạy.
-    - [Gríma Wormtongue](../G/Gríma.md) cấm người lạ vào và Éomer bị giam ở Edoras vì không vâng lời.
-    - Quý đầu tiên của Mặt Trăng<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - [Entmoot](../E/Entmoot.md) được triệu hồi bởi [Treebeard](../T/Treebeard.md) bắt đầu tại [Rừng Fangorn](../F/Fangorn_Forest.md).
+    - Khi [Éomer](Éomer.md) quay trở lại [Edoras](../E/Edoras.md) ông gặp [Aragorn](../A/Aragorn.md) trên đường đi. Ông kể cho họ nghe về loài Orc. Ông ta cho phép họ tiếp tục nhiệm vụ của mình và để lại cho họ những con ngựa của những người đã ngã xuống, [Arod](../A/Arod.md) và [Hasufel](../H/Hasufel.md).
+    - Vào buổi tối [Ba thợ săn](../T/Three_Hunters.md) chạm trán [Saruman](../S/Saruman.md) từ xa và lũ ngựa bỏ chạy.
+    - [Gríma Wormtongue](../G/Gríma.md) cấm người lạ vào và Éomer bị giam ở Edoras vì tội bất tuân.
+    - 1/4 mặt trăng<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

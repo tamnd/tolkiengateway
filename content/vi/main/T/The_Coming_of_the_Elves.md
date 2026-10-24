@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Coming of the Elves and the Making of Kôr"
 ---
 
-Chuyển hướng đến [Sự xuất hiện của Tiên tộc và Sự hình thành của Kôr](The_Coming_of_the_Elves_and_the_Making_of_Kôr.md).
+Chuyển hướng đến [Sự xuất hiện của Yêu tinh và sự hình thành Kôr](The_Coming_of_the_Elves_and_the_Making_of_Kôr.md).

@@ -31,12 +31,12 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien&#39;s_Hobbit.png.md"><img src="https://tolkiengateway.net/w/images/f/f7/Tolkien%27s_Hobbit.png" decoding="async" loading="lazy" width="300" height="203" class="mw-file-element" data-file-width="300" data-file-height="203"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien&#39;s Hobbit: A Book of 20 Postcards</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> (cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1997.md" title="1997">1997</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-261-10351-2" title="Special:BookSources/0-261-10351-2">0-261-10351-2</a></td></tr></tbody></table>
 
-<i><b>Tolkien Hobbit: Sách 20 Bưu thiếp</b></i> là một cuốn sách chứa 20 tấm bưu thiếp có hình minh họa lấy cảm hứng từ *[The Hobbit](The_Hobbit.md)*.
+<i><b>Tolkien's Hobbit: Cuốn sách gồm 20 tấm bưu thiếp</b></i> là một cuốn sách chứa 20 tấm bưu thiếp có hình minh họa lấy cảm hứng từ *[The Hobbit](The_Hobbit.md)*.
 
 ## Nội dung {#Contents}
 
 1. [John Howe](../J/John_Howe.md): *An Unexpected Party*
-2. Gerd Renshof và Ron Ploeg: *Những bước đi khó khăn Ngọn Núi Cô Đơn*
+2. Gerd Renshof và Ron Ploeg: *Những bước đi khó nhọc lên ngọn núi cô đơn*
 3. [Alan Lee](../A/Alan_Lee.md): *Captured by Spiders*
 4. [Roger Garland](../R/Roger_Garland.md): *Gandalf*
 5. [Alan Lee](../A/Alan_Lee.md): *Bridge to Rivendell*

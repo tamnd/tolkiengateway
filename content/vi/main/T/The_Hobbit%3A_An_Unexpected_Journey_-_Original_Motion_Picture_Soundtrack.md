@@ -27,21 +27,21 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/47/The_Hobbit_-_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.jpg/320px-The_Hobbit_-_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/47/The_Hobbit_-_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.jpg 1.5x" data-file-width="480" data-file-height="480"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack</i></span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Soundtrack by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/11_December.md" title="11 December">11 December</a>, <a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Label</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/WaterTower_Music" title="wikipedia:WaterTower Music">WaterTower Music</a></td></tr></tbody></table>
 
-<i><b>The Hobbit: An Unexpected Journey - Nhạc phim gốc</b></i> là một album bao gồm nhạc phim từ *[The Hobbit: An Unexpected Journey](The_Hobbit%253A_An_Unexpected_Journey.md)*của [Howard Shore](../H/Howard_Shore.md). Nó được phát hành dưới dạng kỹ thuật số và trên CD vào [11 tháng 12](../_/11_December.md) [2012](../_/2012.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack</b></i> là một album bao gồm nhạc nền từ *[The Hobbit: An Unexpected Journey](The_Hobbit%253A_An_Unexpected_Journey.md)* của [Howard Shore](../H/Howard_Shore.md). Nó được phát hành dưới dạng kỹ thuật số và trên CD vào [11 tháng 12](../_/11_December.md) [2012](../_/2012.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Contents}
 
 ### Đĩa 1 {#Disc_1}
 
-1. [Em ơi Frodo](../M/My_Dear_Frodo.md)
+1. [Frodo thân mến của tôi](../M/My_Dear_Frodo.md)
 2. [Bạn cũ](../O/Old_Friends.md)
 3. [Một bữa tiệc bất ngờ](<../A/An_Unexpected_Party_(soundtrack).md>)
 4. [Rìu hay Kiếm?](../A/Axe_or_Sword%253F.md)
-5. [Dãy Núi Sương Mù](<../M/Misty_Mountains_(soundtrack).md>) - do [Richard Armitage](../R/Richard_Armitage.md) và Người lùn diễn viên thực hiện
+5. [Misty Mountains](<../M/Misty_Mountains_(soundtrack).md>) - do [Richard Armitage](../R/Richard_Armitage.md) và Dàn diễn viên Người lùn biểu diễn
 6. [Cuộc phiêu lưu bắt đầu](The_Adventure_Begins.md)
 7. [Thế giới ở phía trước](The_World_is_Ahead.md)
-8. [Một người cổ đại Kẻ Thù](../A/An_Ancient_Enemy.md)
-9. [Radagast Nâu](<../R/Radagast_the_Brown_(soundtrack).md>)
+8. [Kẻ thù cổ xưa](../A/An_Ancient_Enemy.md)
+9. [Radagast the Brown](<../R/Radagast_the_Brown_(soundtrack).md>)
 10. [Thịt cừu nướng](<../R/Roast_Mutton_(soundtrack).md>)
 11. [Kho chứa troll](../A/A_Troll-hoard.md)
 12. [Ngọn đồi ma thuật](The_Hill_of_Sorcery.md)
@@ -50,9 +50,9 @@ infobox:
 ### Đĩa 2 {#Disc_2}
 
 1. [Thung lũng ẩn giấu](The_Hidden_Valley.md)
-2. [Mặt Trăng Cổ ngữ](<../M/Moon_Runes_(soundtrack).md>)
+2. [Câu chú mặt trăng](<../M/Moon_Runes_(soundtrack).md>)
 3. [Kẻ phá hoại](The_Defiler.md)
-4. [Cái Bạch Hội Đồng](<The_White_Council_(soundtrack).md>)
+4. [Hội đồng Trắng](<The_White_Council_(soundtrack).md>)
 5. [Trên đồi](../O/Over_Hill.md)
 6. [Trận chiến sấm sét](../A/A_Thunder_Battle.md)
 7. [Dưới đồi](../U/Under_Hill.md)
@@ -60,8 +60,8 @@ infobox:
 9. [Nút đồng thau](../B/Brass_Buttons.md)
 10. [Ra khỏi chảo rán](../O/Out_of_the_Frying-Pan.md)
 11. [Điềm tốt](../A/A_Good_Omen.md)
-12. [Bài hát của Ngọn Núi Cô Đơn](../S/Song_of_the_Lonely_Mountain.md) - được trình bày bởi [Neil Finn](../N/Neil_Finn.md)
-13. [Mơ về Bag End](../D/Dreaming_of_Bag_End.md)
+12. [Bài hát của ngọn núi cô đơn](../S/Song_of_the_Lonely_Mountain.md) - được trình bày bởi [Neil Finn](../N/Neil_Finn.md)
+13. [Mơ thấy đuôi túi](../D/Dreaming_of_Bag_End.md)
 
 ## Xem thêm {#See_also}
 

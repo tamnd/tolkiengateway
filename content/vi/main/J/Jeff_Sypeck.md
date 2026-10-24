@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Sypeck, Jeff"
 ---
 
-**Jeff Sypeck** là giáo viên dạy văn học thời trung cổ tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Maryland" title="wikipedia:University of Maryland">Đại học Maryland</a>. Gần đây anh ấy đã nổi tiếng nhờ viết tác phẩm được khen ngợi *Becoming Charlemagne*.
+**Jeff Sypeck** là giáo viên dạy văn học thời trung cổ tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Maryland" title="wikipedia:University of Maryland">Đại học Maryland</a>. Gần đây ông đã nổi tiếng nhờ viết tác phẩm được khen ngợi *Becoming Charlemagne*.
 
 ## Thư mục {#Bibliography}
 

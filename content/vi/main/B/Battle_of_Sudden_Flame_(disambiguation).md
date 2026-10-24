@@ -18,11 +18,11 @@ images:
 
 ## Arda {#Arda}
 
-- **[Dagor Bragollach](../D/Dagor_Bragollach.md), ([Sindarin](../S/Sindarin.md) nghĩa là "Trận chiến bất ngờ"), trận đại chiến thứ tư trong [Các cuộc chiến Beleriand](../W/Wars_of_Beleriand.md).**
+- **[Dagor Bragollach](../D/Dagor_Bragollach.md), ([Sindarin](../S/Sindarin.md) nghĩa là "Trận chiến ngọn lửa bất ngờ"), trận chiến lớn thứ tư trong [Chiến tranh Beleriand](../W/Wars_of_Beleriand.md).**
 
 ## Âm nhạc {#Music}
 
-- [Trận chiến ngọn lửa bất ngờ (bài hát)](<Battle_of_Sudden_Flame_(song).md>), một ca khúc trong album [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md) của [Người bảo vệ mù](Blind_Guardian.md).
+- [Trận chiến ngọn lửa bất ngờ (bài hát)](<Battle_of_Sudden_Flame_(song).md>), một ca khúc trong album [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md) của [Blind Guardian](Blind_Guardian.md).
 
 <hr style="margin-top:15px;"/>
 

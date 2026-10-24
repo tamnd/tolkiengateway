@@ -11,4 +11,4 @@ redirect_target: "Aragorn"
 redirect_fragment: "Names and titles"
 ---
 
-Chuyển hướng đến [Aragorn](../A/Aragorn.md#Names_and_titles).
+Chuyển hướng tới [Aragorn](../A/Aragorn.md#Names_and_titles).

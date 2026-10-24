@@ -34,9 +34,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Cameron Rhodes</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/1_August.md" title="1 August">1 August</a> <a href="../_/1967.md" title="1967">1967</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../F/Farmer_Maggot.md" title="Farmer Maggot">Farmer Maggot</a> in:<br/><i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0722397/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
-**Cameron Rhodes** (b. [ngày 1 tháng 8](../_/1_August.md), [1967](../_/1967.md)) là một diễn viên New Zealand. Anh ấy đã chơi [Farmer Maggot](../F/Farmer_Maggot.md) trong *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
+**Cameron Rhodes** (b. [1 tháng 8](../_/1_August.md), [1967](../_/1967.md)) là một diễn viên người New Zealand. Ông đóng vai [Farmer Maggot](../F/Farmer_Maggot.md) trong *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Cameron_Rhodes" title="wikipedia:Cameron Rhodes">Cameron Rhodes</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="https://web.archive.org/web/20040324131219/http://www.pink-khaki.net/7/cameronrhodes.html" rel="noreferrer noopener" target="_blank">Phỏng vấn CAMERON RHODES (Hobbit-nông dân Maggot)</a>
+- <a class="external text" href="https://web.archive.org/web/20040324131219/http://www.pink-khaki.net/7/cameronrhodes.html" rel="noreferrer noopener" target="_blank">Phỏng vấn CAMERON RHODES (Maggot nông dân Hobbit)</a>

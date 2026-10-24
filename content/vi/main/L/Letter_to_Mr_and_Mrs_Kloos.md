@@ -16,7 +16,7 @@ sort_keys:
 
 Viết từ [18 tháng 4](../_/18_April.md) đến [6 tháng 5](../_/6_May.md) [1963](../_/1963.md) (bị triệu chứng <a class="extiw" href="http://en.wikipedia.org/wiki/Fibromyalgia" title="wikipedia:Fibromyalgia">viêm xơ hóa</a>, không thể viết xong lá thư ngay), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi ông bà Kloos**. Anneke C. Kloos-Adriaansen và P. Kloos là <a class="extiw" href="http://en.wikipedia.org/wiki/Anthropology" title="wikipedia:Anthropology">nhà nhân chủng học</a>.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 
-- **Chủ đề:** Trả lời thư của họ từ [23 tháng 3](../_/23_March.md), Tolkien viết rất dài về "nguồn và nguồn cảm hứng của anh ấy cho *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*".<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+- **Chủ đề:** Trả lời thư của họ từ [23 tháng 3](../_/23_March.md), Tolkien viết rất dài về "nguồn và nguồn cảm hứng của ông cho *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*".<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 - **Xuất bản:** Các đoạn trích từ bức thư đã được xuất bản trên *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)*.<sup id="cite_ref-RC_2-0" class="reference"><a href="#cite_note-RC-2">[2]</a></sup>
 
 ## Trích đoạn {#Excerpts}

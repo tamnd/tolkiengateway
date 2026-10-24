@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Háma (son of Helm)"
 ---
 
-Chuyển hướng tới [Háma (con trai của Helm)](<Háma_(son_of_Helm).md>).
+Chuyển hướng đến [Háma (con trai của Helm)](<Háma_(son_of_Helm).md>).

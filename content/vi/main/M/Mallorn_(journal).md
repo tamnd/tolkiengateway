@@ -48,11 +48,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn60.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7c/Mallorn60.jpg/320px-Mallorn60.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7c/Mallorn60.jpg/480px-Mallorn60.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7c/Mallorn60.jpg/640px-Mallorn60.jpg 2x" data-file-width="2480" data-file-height="3507"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data">Luke Shelton</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.tolkiensociety.org/society/publications/mallorn/" rel="noreferrer noopener" target="_blank"><i>Mallorn</i> at the Tolkien Society website</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../O/October.md" title="October">October</a> <a href="../_/1970.md" title="1970">1970</a> - present</td></tr><tr><th scope="row" class="tg-infobox-label">Frequency</th><td class="tg-infobox-data">Annually</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">up to 64</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr></tbody></table>
 
-<i><b>Mallorn</b></i> là tạp chí văn học và học thuật được xuất bản hàng năm bởi [Hội Tolkien](../T/The_Tolkien_Society.md). Đây là ấn phẩm chị em của *[Amon Hen](<../A/Amon_Hen_(journal).md>)*.
+<i><b>Mallorn</b></i> là tạp chí văn học và học thuật được xuất bản hàng năm bởi [Hiệp hội Tolkien](../T/The_Tolkien_Society.md). Đây là ấn phẩm chị em của *[Amon Hen](<../A/Amon_Hen_(journal).md>)*.
 
 ## Lịch sử {#History}
 
-*Mallorn* được thành lập vào [Tháng 10](../O/October.md) [1970](../_/1970.md) với tư cách là người kế thừa [Vera Chapman](../V/Vera_Chapman.md) của *Belladonna's Broadsheet* để trở thành tạp chí của [Hội Tolkien](../T/The_Tolkien_Society.md). Tuy nhiên, do khó khăn trong việc xuất bản *Mallorn* thường xuyên nên chức năng thông báo cho các thành viên của Hội đã được chuyển sang ấn phẩm mới *[Amon Hen](<../A/Amon_Hen_(journal).md>)* (số đầu tiên được gọi là *[Henneth Annûn](../H/Henneth_Annûn_1.md)*); điều này đã cho phép *Mallorn* tự biến mình thành một ấn phẩm mang tính học thuật hơn như tồn tại ngày nay.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+*Mallorn* được thành lập vào [Tháng 10](../O/October.md) [1970](../_/1970.md) với tư cách là người kế thừa [Vera Chapman](../V/Vera_Chapman.md) *Belladonna's Broadsheet* để trở thành tạp chí của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md). Tuy nhiên, do khó khăn trong việc xuất bản *Mallorn* thường xuyên nên chức năng thông báo cho các thành viên của Hội đã được chuyển sang ấn phẩm mới *[Amon Hen](<../A/Amon_Hen_(journal).md>)* (số đầu tiên được gọi là *[Henneth Annûn](../H/Henneth_Annûn_1.md)*); điều này đã cho phép *Mallorn* tự biến mình thành một ấn phẩm mang tính học thuật hơn như tồn tại ngày nay.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Content}
 
@@ -62,9 +62,9 @@ infobox:
 <p class="tg-quote-footer"><cite><i>Mallorn</i>, no. <a href="Mallorn_46.md" title="Mallorn 46">46</a>, Autumn <a href="../_/2008.md" title="2008">2008</a>, p. 3</cite></p>
 </blockquote>
 
-Mặc dù phần mô tả các bài báo tiềm năng ít thay đổi qua các năm, nhưng trọng tâm của *Mallorn'* theo truyền thống vẫn là các bài báo mang tính học thuật. Gần đây có những ý kiến ​​chỉ trích của các thành viên trong Hội rằng cả thơ<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và các bài báo học thuật đều đang bị "tẩy chay" dưới tay biên tập viên mới.<sup id="cite_ref-AH213_3-0" class="reference"><a href="#cite_note-AH213-3">[3]</a></sup> Gee không bác bỏ điều này bằng cách nói rằng ông không muốn xuất bản thơ vì ông không thấy mình là một thẩm phán có thẩm quyền, nên việc xuất bản thơ là "cực kỳ khó xảy ra",<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> tuy nhiên, ông đã "xuống lòng" và xuất bản thơ tùy theo sở thích hay không.<sup id="cite_ref-Mallorn_47_5-0" class="reference"><a href="#cite_note-Mallorn_47-5">[5]</a></sup>
+Mặc dù mô tả của các bài báo tiềm năng ít thay đổi qua các năm, nhưng trọng tâm của *Mallorn* theo truyền thống vẫn là các bài báo mang tính học thuật. Gần đây có những ý kiến ​​chỉ trích của các thành viên trong Hội rằng cả thơ<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và các bài báo học thuật đều đang bị "tẩy chay" dưới tay biên tập viên mới.<sup id="cite_ref-AH213_3-0" class="reference"><a href="#cite_note-AH213-3">[3]</a></sup> Gee không bác bỏ điều này bằng cách nói rằng ông không muốn xuất bản thơ vì ông không thấy mình là một thẩm phán có thẩm quyền, nên việc xuất bản thơ là "cực kỳ khó xảy ra",<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> tuy nhiên, ông đã "xuống lòng" và xuất bản thơ tùy theo sở thích hay không.<sup id="cite_ref-Mallorn_47_5-0" class="reference"><a href="#cite_note-Mallorn_47-5">[5]</a></sup>
 
-Do những hạn chế về xuất bản, Gee cũng khuyến nghị rằng các bài viết mang tính học thuật nên "ngắn hơn và dễ tiếp cận hơn" (trừ khi chúng là "những tác phẩm học thuật thực sự xuất sắc") để phù hợp với nhiều bài viết thu hút nhiều thành viên hơn.<sup id="cite_ref-AH213_3-1" class="reference"><a href="#cite_note-AH213-3">[3]</a></sup> Trong số thứ ba với tư cách là biên tập viên, Gee đã nhắc lại rằng các bài viết nên ngắn hơn (tối đa 4.000 từ cho một bài bình luận; 1.000 từ cho một bài đánh giá) và rằng anh ấy sẽ không xuất bản các ấn bản nhiều kỳ.<sup id="cite_ref-Mallorn_47_5-1" class="reference"><a href="#cite_note-Mallorn_47-5">[5]</a></sup> Lý do của Gee là:
+Do những hạn chế về xuất bản, Gee cũng khuyến nghị rằng các bài viết mang tính học thuật nên "ngắn hơn và dễ tiếp cận hơn" (trừ khi chúng là "những tác phẩm học thuật thực sự xuất sắc") để phù hợp với nhiều bài viết thu hút nhiều thành viên hơn.<sup id="cite_ref-AH213_3-1" class="reference"><a href="#cite_note-AH213-3">[3]</a></sup> Trong số thứ ba với tư cách là biên tập viên, Gee đã nhắc lại rằng các bài viết nên ngắn hơn (tối đa 4.000 từ cho một bài bình luận; 1.000 từ cho một bài đánh giá) và rằng ông sẽ không xuất bản các ấn bản nhiều kỳ.<sup id="cite_ref-Mallorn_47_5-1" class="reference"><a href="#cite_note-Mallorn_47-5">[5]</a></sup> Lý do của Gee là:
 
 <blockquote class="tg-quote noexcerpt">
 <p>The publication landscape has been changed by the very welcome appearance of <i><a href="../T/Tolkien_Studies_(journal).md" title="Tolkien Studies (journal)">Tolkien Studies</a></i>. This has set a new and generally high standard for Tolkien scholarship, challenging <i>Mallorn</i> to raise its game. However, <i>Tolkien Studies</i> means that <i>Mallorn</i> doesn&#39;t have to take the entire world of Tolkien scholarship on its shoulders, and can discover for itself a new freedom to broaden its scope, and become a more entertaining and accessible publication of which Society members can be justifiably proud.
@@ -92,21 +92,21 @@ Do những hạn chế về xuất bản, Gee cũng khuyến nghị rằng các 
 - Len Sanford: [*Mallorn* 37](Mallorn_37.md)–[44](Mallorn_44.md)
 - [Henry Gee](../H/Henry_Gee.md): [*Mallorn* 45](Mallorn_45.md)–[46](Mallorn_46.md)
 - [Henry Gee](../H/Henry_Gee.md) (với Colin Sullivan là nhà thiết kế sản xuất): [*Mallorn* 47](Mallorn_47.md)–[54](Mallorn_54.md)
-- [Helen Armstrong](../H/Helen_Armstrong.md) (với Mike Austin Afford là biên tập viên sản xuất): [*Mallorn* 55](Mallorn_55.md)
-- Rosalinda Haddon (với Mike Austin Afford làm biên tập viên sản xuất): [*Mallorn* 56](Mallorn_56.md) - [*Mallorn* 59](Mallorn_59.md)
+- [Helen Armstrong](../H/Helen_Armstrong.md) (với Mike Afford là biên tập viên sản xuất): [*Mallorn* 55](Mallorn_55.md)
+- Rosalinda Haddon (với Mike Afford là biên tập viên sản xuất): [*Mallorn* 56](Mallorn_56.md) - [*Mallorn* 59](Mallorn_59.md)
 - Luke Shelton (với Live Knudsen và Nick Polk): [*Mallorn* 60](Mallorn_60.md) - hiện tại
 
 ## Xem thêm {#See_also}
 
 - [*Mallorn* vấn đề](<../../category/M/Mallorn_(journal).md>)
 - [Hình ảnh về *Mallorn* sự cố](<../../category/I/Images_of_Mallorn_(journal).md>)
-- *[Amon Hen](<../A/Amon_Hen_(journal).md>)* - Ấn phẩm chị em của *Mallorn'*, bản tin hai tháng một lần dành cho các thành viên của Hội
+- *[Amon Hen](<../A/Amon_Hen_(journal).md>)* - *Ấn phẩm chị em của Mallorn'*, bản tin hai tháng một lần dành cho các thành viên của Hội
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkiensociety.org/society/publications/mallorn/" rel="noreferrer noopener" target="_blank"><i>Mallorn</i></a> tại <a class="external text" href="http://www.tolkiensociety.org/" rel="noreferrer noopener" target="_blank">Hội Tolkien</a>
+- <a class="external text" href="http://www.tolkiensociety.org/society/publications/mallorn/" rel="noreferrer noopener" target="_blank"><i>Mallorn</i></a> tại <a class="external text" href="http://www.tolkiensociety.org/" rel="noreferrer noopener" target="_blank">Hiệp hội Tolkien</a>
 - <a class="external text" href="http://www.facebook.com/mallorn.journal" rel="noreferrer noopener" target="_blank"><i>Mallorn</i> Trang Facebook</a>
-- <a class="external text" href="http://www.tolkienguide.com/modules/wiwimod/index.php?page=Mallorn" rel="noreferrer noopener" target="_blank"><i>Mallorn</i> tại Tolkien Hướng dẫn sưu tầm</a>
+- <a class="external text" href="http://www.tolkienguide.com/modules/wiwimod/index.php?page=Mallorn" rel="noreferrer noopener" target="_blank"><i>Mallorn</i> tại Hướng dẫn dành cho người sưu tập Tolkien</a>
 
 <span></span>
 

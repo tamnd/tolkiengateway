@@ -18,7 +18,7 @@ langlinks:
     url: "https://kontu.wiki/Minlamad_thent/estent"
 ---
 
-**Minlamad thent/estent** là một trong ba Elvish [Chế độ thơ](../V/Verse_Modes.md). Hai cái còn lại là *[Ann-thennath](../A/Ann-thennath.md)*và *[Linnod](../L/Linnod.md)*. Thent/estent Minlamad thường được sử dụng trong narns, nhằm mục đích được nói hơn là hát.
+**Minlamad thent/estent** là một trong ba [Chế độ thơ](../V/Verse_Modes.md) của Tiên. Hai cái còn lại là *[Ann-thennath](../A/Ann-thennath.md)* và *[Linnod](../L/Linnod.md)*. Thent/estent Minlamad thường được sử dụng trong narns, nhằm mục đích được nói hơn là hát.
 
 ## Lịch sử {#History}
 
@@ -26,11 +26,11 @@ Hình thức thơ đã được nhà thơ [Dírhaval](../D/Dírhaval.md) sử d�
 
 ## Từ nguyên {#Etymology}
 
-*minlamad thent/estent* có thể được chia nhỏ như sau: [Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Minlamed&amp;action=edit&amp;redlink=1" title="Minlamed (page does not exist)">minlamed</a></i> = *first-echoing*, đề cập đến sự ám chỉ. <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Thent&amp;action=edit&amp;redlink=1" title="Thent (page does not exist)">thì</a></i> = *short*. Đuôi <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Estent&amp;action=edit&amp;redlink=1" title="Estent (page does not exist)">estent</a></i> có khả năng bắt nguồn từ *thent*, có thể có nghĩa là *very short*. Trong ký hiệu thơ, */* biểu thị âm tiết được nhấn mạnh. *minlamed* có thể liên quan đến gốc Elvish của âm thanh, trong trường hợp đó, ý nghĩa thay đổi thành *one-sound-stop*. Trong trường hợp này, *ann-thennath* có thể có nghĩa là *long lines*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+*minlamad thent/estent* có thể được chia nhỏ như sau: [Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Minlamed&amp;action=edit&amp;redlink=1" title="Minlamed (page does not exist)">minlamed</a></i> = *first-echoing*, đề cập đến sự ám chỉ. <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Thent&amp;action=edit&amp;redlink=1" title="Thent (page does not exist)">thì</a></i> = *short*. Đuôi <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Estent&amp;action=edit&amp;redlink=1" title="Estent (page does not exist)">estent</a></i> có khả năng bắt nguồn từ *thent*, có thể có nghĩa là *very short*. Trong ký hiệu thơ, */* biểu thị âm tiết được nhấn mạnh. *minlamed* có thể liên quan đến gốc tiếng Elf của âm thanh, trong trường hợp đó, ý nghĩa thay đổi thành *one-sound-stop*. Trong trường hợp này, *ann-thennath* có thể có nghĩa là *long lines*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các phiên bản khác của Legendarium {#Other_Versions_of_the_Legendarium}
 
-Trong ‘’Unfinished Tales *(Trang 146), Christopher Tolkien đã đặt tên cho thuật ngữ này là* Minlamed thent/estent*. Trong* The War of the Jewels *(trang 311/315, ghi chú #3), anh ấy đã tiết lộ sai sót của mình và tên của thuật ngữ này thực ra chỉ là* Minlamad thent/estent*.*
+Trong ''Những câu chuyện dang dở *(Trang 146), Christopher Tolkien đã đặt tên cho thuật ngữ này là* Minlamed thent/estent*. Trong* Cuộc chiến của những viên ngọc *(trang 311/315, ghi chú #3), ông đã tiết lộ sai lầm của mình và rằng tên của thuật ngữ này thực ra chỉ là* Minlamad thent/estent*.*
 
 ## Liên kết ngoài {#External_links}
 

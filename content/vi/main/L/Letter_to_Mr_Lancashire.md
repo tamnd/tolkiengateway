@@ -22,7 +22,7 @@ Vào [3 tháng 12](../_/3_December.md) [1965](../_/1965.md), [J.R.R. Tolkien](..
 
 - **Nội dung:** Tolkien bày tỏ lòng biết ơn về bức thư.
 - **Mô tả:** Thư mẫu in sẵn/đánh máy (1 trang) có chữ ký "J.R.R. Tolkien" với chữ viết tay "Tôi rất tiếc vì không có thời gian để trả lời dài hơn"
-- **Xuất bản:** Không có. Bức thư đã được trình chiếu trong bộ phim tài liệu "J.R.R. Tolkien Nguồn gốc của Nhẫn".
+- **Xuất bản:** Không có. Bức thư đã được chiếu trong bộ phim tài liệu "J.R.R. Tolkien Nguồn gốc của chiếc nhẫn".
 
 ## Bản ghi {#Transcript}
 

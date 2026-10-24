@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Bilbo Baggins](../../main/B/Bilbo_Baggins.md) trong [Sagan om Ringen](<../../main/S/Sagan_om_Ringen_(1971_film).md>)
+[Bilbo Baggins](../../main/B/Bilbo_Baggins.md) ở [Sagan om Ringen](<../../main/S/Sagan_om_Ringen_(1971_film).md>)
 
 ## Giấy phép {#Licensing}
 

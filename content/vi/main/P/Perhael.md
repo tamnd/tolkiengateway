@@ -22,7 +22,7 @@ langlinks:
     url: "https://kontu.wiki/Perhael"
 ---
 
-**Perhael** là một tên [Sindarin](../S/Sindarin.md), có nghĩa là "nửa khôn",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> mà [Aragorn II](../A/Aragorn.md) dùng cho [Samwise Gamgee](../S/Samwise_Gamgee.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tên này là bản dịch của tên [Westron](../W/Westron.md) *[Banazîr](../B/Banazîr.md)*.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+**Perhael** là tên [Sindarin](../S/Sindarin.md), có nghĩa là "nửa khôn",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> mà [Aragorn II](../A/Aragorn.md) dùng cho [Samwise Gamgee](../S/Samwise_Gamgee.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tên này là bản dịch của tên [Westron](../W/Westron.md) *[Banazîr](../B/Banazîr.md)*.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 ## Từ nguyên {#Etymology}
 

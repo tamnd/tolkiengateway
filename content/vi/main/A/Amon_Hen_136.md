@@ -45,7 +45,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen136.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/26/AmonHen136.jpg/320px-AmonHen136.jpg" decoding="async" loading="lazy" width="320" height="463" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/26/AmonHen136.jpg/480px-AmonHen136.jpg 1.5x, https://tolkiengateway.net/w/images/2/26/AmonHen136.jpg 2x" data-file-width="568" data-file-height="821"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 136</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Richard Fraser Overton</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Gordon Palmer</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Centurian Press, Rickmansworth, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">November <a href="../_/1995.md" title="1995">1995</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">28</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_135.md" title="Amon Hen 135">Amon Hen 135</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_137.md" title="Amon Hen 137">Amon Hen 137</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 136</b> là số một trăm ba mươi sáu của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 11 [1995](../_/1995.md).
+<b><i>Amon Hen</i> 136</b> là số một trăm ba mươi sáu của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, được xuất bản vào tháng 11 [1995](../_/1995.md).
 
 ## Nội dung {#Contents}
 
@@ -54,7 +54,7 @@ infobox:
 - Tầm nhìn từ trên đồi (Biên tập)
     - Bởi: Richard Fraser Overton
 - Nội dung
-- Tác phẩm nghệ thuật: Không có tiêu đề (Ông già liễu tay cầm Merry)
+- Tác phẩm: Không tên (Ông già Liễu ôm Merry)
     - Bởi: Nick Basi
 - Thông báo
 - Bưu điện Bywater
@@ -79,7 +79,7 @@ infobox:
     - Bởi: Nick Basi
 - Tính năng quảng cáo
     - Bởi: Malcolm Lindley
-- *Odd-One-Out* Câu trả lời
+- *Odd-One-Out* Đáp án
     - Bởi: Paul Cockburn
 - Loài bạch tuộc độc nhất vô nhị
     - Bởi: Timothy M. Farr
@@ -88,7 +88,7 @@ infobox:
 - Toán học
     - Bởi: Jason Finch
 - Thư gửi Ban biên tập
-- Tất cả các loại của Annie
+- Các loại của Annie
     - Bởi: Annie Haward
 - Truyện dân gian
 - Ủy ban

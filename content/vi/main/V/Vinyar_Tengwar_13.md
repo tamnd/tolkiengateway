@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/V/Vinyar_Tengwar_13.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b6/Vinyar_Tengwar_13.jpg/308px-Vinyar_Tengwar_13.jpg" decoding="async" loading="lazy" width="308" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b6/Vinyar_Tengwar_13.jpg/462px-Vinyar_Tengwar_13.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b6/Vinyar_Tengwar_13.jpg/616px-Vinyar_Tengwar_13.jpg 2x" data-file-width="1849" data-file-height="2881"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Vinyar Tengwar 13</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a> (front cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Elvish_Linguistic_Fellowship.md" title="Elvish Linguistic Fellowship">Elvish Linguistic Fellowship</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">September <a href="../_/1990.md" title="1990">1990</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback journal</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">24</td></tr></tbody></table>
 
-<i><b>Vinyar Tengwar 13</b></i> là số thứ mười ba của *[Vinyar Tengwar](Vinyar_Tengwar.md)*, một tạp chí chuyên nghiên cứu học thuật về các ngôn ngữ được phát minh ra của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Vinyar Tengwar 13</b></i> là số thứ mười ba của *[Vinyar Tengwar](Vinyar_Tengwar.md)*, một tạp chí chuyên nghiên cứu học thuật về các ngôn ngữ được phát minh của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 12</div></div><div class="template-prevnext__linkoverlay"><a href="Vinyar_Tengwar_12.md" title="Vinyar Tengwar 12">Vinyar Tengwar 12</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 13</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 14</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Vinyar_Tengwar_14.md" title="Vinyar Tengwar 14">Vinyar Tengwar 14</a></div></div></div>
 
@@ -50,10 +50,10 @@ infobox:
 - Thư gửi *VT*
 
 - "Mythcon XXI: Đánh giá" — Bruce Leonard
-- "Con đường 'hồi sinh' Elvish: Một mô hình Cornish?" — Alexei Kondratiev
-- "Khảo sát các bản dịch thơ Nhẫn" — Jorge Quiñónez
-- "*Essitalmar*: Bị sao" (cột) — Tom Loback
-- "Chuyển đổi trong bản dịch: 'Chuyển phiên bản' bằng tiếng Đức Hobbit, Phần 1" (cột) — Arden R. Smith
+- "Con đường 'hồi sinh' Tiên: Một hình mẫu Cornish?" — Alexei Kondratiev
+- "Khảo sát các bản dịch bài thơ nhẫn" — Jorge Quiñónez
+- "*Essitalmar*: Star-struck" (cột) — Tom Loback
+- "Chuyển đổi trong bản dịch: 'Chuyển phiên bản' trong bản tiếng Đức Hobbit, Phần 1" (cột) — Arden R. Smith
 
 <br>
 

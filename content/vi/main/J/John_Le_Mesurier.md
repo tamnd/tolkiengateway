@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Le Mesurier, John"
 ---
 
-**John Charles Elton Le Mesurier De Somerys Halliley** ([Ngày 5 tháng 4](../_/5_April.md), [1912](../_/1912.md) - [Ngày 15 tháng 11](../_/15_November.md), [1983](../_/1983.md)) lồng tiếng phần [Bilbo Baggins](../B/Bilbo_Baggins.md) trong [*The Lord of the Rings* loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) phát sóng trên [BBC 4](../B/BBC.md). Anh ấy cũng hát một phiên bản demo *[Bilbo's Last Song](../B/Bilbo's_Last_Song.md)*, được phát sóng lần đầu trong [1982](../_/1982.md) và xuất hiện dưới dạng phần phụ trong tập thứ ba trong lần phát hành lại [2002](../_/2002.md) của bộ truyện.
+**John Charles Elton Le Mesurier De Somerys Halliley** ([5 tháng 4](../_/5_April.md), [1912](../_/1912.md) - [15 tháng 11](../_/15_November.md), [1983](../_/1983.md)) lồng tiếng cho phần [Bilbo Baggins](../B/Bilbo_Baggins.md) trong [*The Lord of the Rings* loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) phát sóng trên [BBC 4](../B/BBC.md). Ông cũng hát một phiên bản demo *[Bilbo's Last Song](../B/Bilbo's_Last_Song.md)*, được phát sóng lần đầu trong [1982](../_/1982.md) và xuất hiện dưới dạng phần phụ trong tập thứ ba trong lần phát hành lại [2002](../_/2002.md) của bộ truyện.
 
 ## Liên kết ngoài {#External_links}
 

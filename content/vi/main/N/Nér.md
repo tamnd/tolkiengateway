@@ -15,7 +15,7 @@ sort_keys:
   "Quenya nouns": "Ner"
 ---
 
-**nér** (pl. **neri**) có nghĩa là "người đàn ông" trong [Quenya](../Q/Quenya.md), ám chỉ nam giới trưởng thành – [yêu tinh](../E/Elves.md), [người phàm](../M/Men.md) hoặc thuộc [chủng tộc nói tiếng khác](../R/Races.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**nér** (pl. **neri**) có nghĩa là "người đàn ông" trong [Quenya](../Q/Quenya.md), ám chỉ một người đàn ông trưởng thành – [yêu tinh](../E/Elves.md), [người bình thường](../M/Men.md) hoặc thuộc [chủng tộc nói tiếng khác](../R/Races.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

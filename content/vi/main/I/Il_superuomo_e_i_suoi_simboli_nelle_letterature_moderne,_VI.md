@@ -36,7 +36,7 @@ infobox:
 
 **Il superuomo e i suoi simboli nelle letterature Moderne, VI** (*Siêu nhân và những biểu tượng của nó trong văn học hiện đại*) là một cuốn sách bằng tiếng Ý.
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được Carla Giannone coi là phần đóng góp: "Il superuomo di Tolkien" ("Siêu nhân của Tolkien"), trang 139–150.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được đề cập trong phần đóng góp của Carla Giannone: "Il superuomo di Tolkien" ("Siêu nhân của Tolkien"), trang 139–150.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

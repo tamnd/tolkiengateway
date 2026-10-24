@@ -20,7 +20,7 @@ images:
 
 **Yule** là tên [Người Man ở miền Bắc](../N/Northern_Mannish.md) của lễ hội giữa mùa đông, được tổ chức xung quanh [Westlands](../W/Westlands.md). Những ngày quanh Yule là thủy triều Yule.
 
-Trong [Lịch Shire](../S/Shire_Calendar.md), Yule đề cập đến hai ngày (ngày cuối cùng của năm trước và ngày đầu tiên của năm mới). Do đặc thù của Lịch nên 2 ngày Yule nằm ở "giữa" và ngoài các tháng trang trọng [Foreyule](../F/Foreyule.md) và [Afteryule](../A/Afteryule.md). Chúng luôn rơi vào những ngày giống nhau trong tuần: ngày cuối cùng của năm, [1 Yule](../_/1_Yule.md), luôn là [Ngày Cao Điểm](../H/Highday.md) (Thứ Sáu), trong khi ngày đầu tiên của năm tiếp theo, [2 Yule](../_/2_Yule.md), luôn là [Ngày Thứ Bảy](../S/Sterday.md) (Thứ Bảy).<sup id="cite_ref-Shire_1-0" class="reference"><a href="#cite_note-Shire-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
+Trong [Lịch Quận](../S/Shire_Calendar.md), Yule đề cập đến hai ngày (ngày cuối cùng của năm trước và ngày đầu tiên của năm mới). Do đặc thù của Lịch nên 2 ngày Yule nằm ở "giữa" và ngoài các tháng trang trọng [Foreyule](../F/Foreyule.md) và [Afteryule](../A/Afteryule.md). Chúng luôn rơi vào những ngày giống nhau trong tuần: ngày cuối cùng của năm, [1 Yule](../_/1_Yule.md), luôn là [Ngày Cao Điểm](../H/Highday.md) (Thứ Sáu), trong khi ngày đầu tiên của năm tiếp theo, [2 Yule](../_/2_Yule.md), luôn là [Ngày Thứ Bảy](../S/Sterday.md) (Thứ Bảy).<sup id="cite_ref-Shire_1-0" class="reference"><a href="#cite_note-Shire-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
 
 Xung quanh họ, lễ hội [Yuletide](Yuledays.md) kéo dài sáu ngày đã được tổ chức, kéo dài từ [29](../_/29_December.md) [Foreyule](../F/Foreyule.md) đến [2](../_/2_January.md) [Afteryule](../A/Afteryule.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
@@ -32,17 +32,17 @@ Xung quanh họ, lễ hội [Yuletide](Yuledays.md) kéo dài sáu ngày đã đ
 <p class="tg-quote-footer"><cite>Tolkien to <a class="new" href="https://tolkiengateway.net/w/index.php?title=Richard_Jeffery&amp;action=edit&amp;redlink=1" title="Richard Jeffery (page does not exist)">Richard Jeffery</a> in <a href="../L/Letter_347.md" title="Letter 347">Letter 347</a>, (dated <a href="../_/17_December.md" title="17 December">17 December</a> <a href="../_/1972.md" title="1972">1972</a>)</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Yule đại diện cho một "bản dịch" của một từ [Hobbitish](../H/Hobbitish.md), nhưng bản thân từ đó không xuất hiện trong [Westron](../W/Westron.md).<sup id="cite_ref-Nomen_4-0" class="reference"><a href="#cite_note-Nomen-4">[3]</a></sup>
+Yule đại diện cho một "bản dịch" của một từ [Hobbitish](../H/Hobbitish.md), nhưng bản thân từ này không xuất hiện ở [Westron](../W/Westron.md).<sup id="cite_ref-Nomen_4-0" class="reference"><a href="#cite_note-Nomen-4">[3]</a></sup>
 
-Tuy nhiên, có thể nó bắt nguồn từ một dạng [tiếng Mannish miền Bắc](../N/Northern_Mannish.md) và sau đó được sử dụng trong [Rohanese](../R/Rohanese.md). Vì [người Gondor](../G/Gondorians.md) trong số [Kỷ Đệ Tam](../T/Third_Age.md) là một phần [Người phương Bắc](../N/Northmen.md) nên từ này có thể được nhận biết như một 'tên miền Bắc' cho lễ hội giữa mùa đông.<sup id="cite_ref-Nomen_4-1" class="reference"><a href="#cite_note-Nomen-4">[3]</a></sup>
+Tuy nhiên, có thể nó bắt nguồn từ một dạng [tiếng Mannish miền Bắc](../N/Northern_Mannish.md) và sau đó được sử dụng trong [tiếng Rohan](../R/Rohanese.md). Vì [Người Gondorian](../G/Gondorians.md) ở [Thời đại thứ ba](../T/Third_Age.md) là một phần của [Người phương Bắc](../N/Northmen.md) nên từ này có thể được công nhận là 'tên phương bắc' cho lễ hội giữa mùa đông.<sup id="cite_ref-Nomen_4-1" class="reference"><a href="#cite_note-Nomen-4">[3]</a></sup>
 
-Từ [Quenya](../Q/Quenya.md) cho "Yule và sự khởi đầu của sự trở lại của [Mặt Trời](../S/Sun.md)" là <i><b>Amanar</b></i>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
+Từ [Quenya](../Q/Quenya.md) cho "Yule và sự khởi đầu của [Mặt trời](../S/Sun.md) trở lại" là <i><b>Amanar</b></i>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../T/Turuhalmë.md" title="Turuhalmë">Turuhalmë</a></b></div></div>
 
-Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md) về ngôn ngữ [Tiên](../E/Elvish.md), từ "Yule(night), tức là Log-night" là *durufui*. *Tanfui* có nghĩa là "Đêm Yule".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md) về ngôn ngữ [Yêu tinh](../E/Elvish.md), từ dành cho "Yule(đêm), tức là Log-night" là *durufui*. *Tanfui* có nghĩa là "Đêm Yule".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
 ## Ghi chú {#Notes}
 

@@ -11,4 +11,4 @@ redirect_target: "Gandalf"
 redirect_fragment: "Names"
 ---
 
-Chuyển hướng đến [Gandalf](../G/Gandalf.md#Names).
+Chuyển hướng tới [Gandalf](../G/Gandalf.md#Names).

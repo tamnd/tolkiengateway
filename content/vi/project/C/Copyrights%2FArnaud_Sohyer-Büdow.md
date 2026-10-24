@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Sohyer-Büdow, Arnaud"
 ---
 
-- Arnaud Sohyer-Büdow đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Arnaud_Sohyer-Büdow.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Arnaud Sohyer-Büdow đã vui lòng cho phép anh sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Arnaud_Sohyer-Büdow.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 30 tháng 1 năm 2017
 - Người dùng đã xin phép qua email: [Mith](https://tolkiengateway.net/wiki/User:Mith)

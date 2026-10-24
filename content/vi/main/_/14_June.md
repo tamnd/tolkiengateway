@@ -69,9 +69,9 @@ Sự kiện xảy ra vào ngày 14 tháng 6
 - **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Elena Jeronimides](../L/Letter_to_Elena_Jeronimides.md).
 - **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Bruce Charlton](../L/Letter_to_Bruce_Charlton.md).
 - **[1981](1981.md)** - Tập thứ mười lăm của [loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
-- **[2007](2007.md)** - *[The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "Shores of Evendim" được phát hành.
+- **[2007](2007.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "Shores of Evendim" được phát hành.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Elrohir](../E/Elrohir.md) và [Elladan](../E/Elladan.md) gặp người hộ tống và đưa [Arwen](../A/Arwen.md) đến [Edoras](../E/Edoras.md).
+    - [Elrohir](../E/Elrohir.md) và [Elladan](../E/Elladan.md) gặp đoàn hộ tống và đưa [Arwen](../A/Arwen.md) đến [Edoras](../E/Edoras.md).

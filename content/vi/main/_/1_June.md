@@ -68,16 +68,16 @@ Sự kiện xảy ra vào ngày 1 tháng 6
 - **[1840](1840.md)** - [George Tolkien](../G/George_Tolkien.md) qua đời.
 - **[1914](1914.md)** - [George Sayer](../G/George_Sayer.md), bạn của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), ra đời.
 - **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được coi là phù hợp để phục vụ chung trở lại.
-- **[1917](1917.md)** - [Edith Tolkien](../E/Edith_Tolkien.md) viết lá thư cuối cùng cho chồng mình tại trại quân đội Thirtle Bridge, gần Withernsea từ nơi ở của cô ở Hornsea.
+- **[1917](1917.md)** - [Edith Tolkien](../E/Edith_Tolkien.md) viết bức thư cuối cùng cho chồng tại trại quân đội Thirtle Bridge, gần Withernsea từ nơi ở của cô ở Hornsea.
 - **[1946](1946.md)** - Diễn viên [Brian Cox](../B/Brian_Cox.md) ra đời.
-- **[1961](1961.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho Jan Broberg](../L/Letter_to_Jan_Broberg.md).
+- **[1961](1961.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Jan Broberg](../L/Letter_to_Jan_Broberg.md).
 - **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Royston F. Porthouse](../L/Letter_to_Royston_F._Porthouse.md).
 - **[1984](1984.md)** - *[Moria: The Dwarven City](../M/Moria%253A_The_Dwarven_City.md)* được xuất bản.
 - **[2005](2005.md)** - *[Tolkien and the Great War](../T/Tolkien_and_the_Great_War.md)* được phát hành dưới dạng bìa mềm ở Mỹ.
 - **[2006](2006.md)** - *[Tolkien Studies: Volume 3](../T/Tolkien_Studies%253A_Volume_3.md)* được xuất bản.
-- <b><a href="2017.md" title="2017">2017</a> - <i><a href="../B/Beren_and_Lúthien.md" title="Beren and Lúthien">Beren and Lúthien</a></i> được xuất bản ở Vương quốc Anh và Châu Âu.</b>
-- <b><a href="2018.md" title="2018">2018</a> - <i><a href="../T/Tolkien%253A_Maker_of_Middle-earth.md" title="Tolkien: Maker of Middle-earth">Tolkien: Maker of Middle-earth</a></i></b> và *[Tolkien: Treasures](../T/Tolkien%253A_Treasures.md)* được xuất bản, đồng hành cùng triển lãm "Tolkien: Maker of Middle-earth" của [Thư viện Bodleian](../B/Bodleian_Library.md).
-- **[2025](2025.md)** - [Shaun Gunner](../S/Shaun_Gunner.md) được bổ nhiệm làm Giám đốc điều hành của [Hội Tolkien](../T/The_Tolkien_Society.md), trước đó đã giữ chức Chủ tịch hơn 12 năm.<sup id="cite_ref-CEO_1-0" class="reference"><a href="#cite_note-CEO-1">[1]</a></sup>
+- <b><a href="2017.md" title="2017">2017</a> - <i><a href="../B/Beren_and_Lúthien.md" title="Beren and Lúthien">Beren và Lúthien</a></i> được xuất bản ở Anh và Châu Âu.</b>
+- <b><a href="2018.md" title="2018">2018</a> - <i><a href="../T/Tolkien%253A_Maker_of_Middle-earth.md" title="Tolkien: Maker of Middle-earth">Tolkien: Maker of Middle-earth</a></i></b> và *[Tolkien: Treasures](../T/Tolkien%253A_Treasures.md)* được xuất bản cùng với triển lãm "Tolkien: Maker of Middle-earth" của [Thư viện Bodleian](../B/Bodleian_Library.md).
+- **[2025](2025.md)** - [Shaun Gunner](../S/Shaun_Gunner.md) được bổ nhiệm làm Giám đốc điều hành của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md), trước đó đã giữ chức Chủ tịch hơn 12 năm.<sup id="cite_ref-CEO_1-0" class="reference"><a href="#cite_note-CEO-1">[1]</a></sup>
 
 ## Trong Arda {#In_Arda}
 

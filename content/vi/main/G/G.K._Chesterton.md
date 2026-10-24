@@ -36,7 +36,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>G.K.Chesterton</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/29_May.md" title="29 May">29 May</a> <a href="../_/1874.md" title="1874">1874</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="../_/14_June.md" title="14 June">14 June</a> <a href="../_/1936.md" title="1936">1936</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author, poet</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">England</td></tr></tbody></table>
 
-**Gilbert Keith Chesterton** ([29 tháng 5](../_/29_May.md) [1874](../_/1874.md) – [14 tháng 6](../_/14_June.md) [1936](../_/1936.md)) là một tác giả, nhà thơ, nhà thần học giáo dân và nhà phê bình văn học và nghệ thuật người Anh. Chesterton được các học giả như [Clyde S. Kilby](../C/Clyde_S._Kilby.md) đánh giá là có ảnh hưởng đến [Inklings](../I/Inklings.md).
+**Gilbert Keith Chesterton** ([29 tháng 5](../_/29_May.md) [1874](../_/1874.md) – [14 tháng 6](../_/14_June.md) [1936](../_/1936.md)) là một tác giả, nhà thơ, nhà thần học giáo dân và nhà phê bình văn học và nghệ thuật người Anh. Chesterton được các học giả như [Clyde S. Kilby](../C/Clyde_S._Kilby.md) coi là người có ảnh hưởng đến [Inklings](../I/Inklings.md).
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -52,4 +52,4 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/G._K._Chesterton" title="wikipedia:G. K. Chesterton">G. K. Chesterton</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-Bài đọc của - <a class="external text" href="https://www.chesterton.org/tolkiens-reading-of-chesterton/" rel="noreferrer noopener" target="_blank">Tolkien về Chesterton</a> của [Holly Ordway](../H/Holly_Ordway.md)
+- <a class="external text" href="https://www.chesterton.org/tolkiens-reading-of-chesterton/" rel="noreferrer noopener" target="_blank">Tolkien đọc Chesterton</a> của [Holly Ordway](../H/Holly_Ordway.md)

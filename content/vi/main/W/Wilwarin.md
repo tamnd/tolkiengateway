@@ -34,7 +34,7 @@ langlinks:
 
 **Wilwarin** là một trong những [chòm sao](../C/Constellations.md) của [Arda](../A/Arda.md).
 
-Wilwarin được tạo bởi [Valië](../V/Valar.md) [Varda](../V/Varda.md). Nó được đặt trên bầu trời [Arda](../A/Arda.md) để chào đón và soi sáng cho [Tiên tộc](../E/Elves.md), những người vừa thức dậy ở [Cuiviénen](../C/Cuiviénen.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Wilwarin được tạo ra bởi [Valië](../V/Valar.md) [Varda](../V/Varda.md). Nó được đặt trên thiên đường [Arda](../A/Arda.md) để chào đón và mang lại ánh sáng cho [Yêu tinh](../E/Elves.md), những người vừa mới thức dậy ở [Cuiviénen](../C/Cuiviénen.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

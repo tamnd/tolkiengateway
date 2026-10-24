@@ -31,7 +31,7 @@ Từ này dường như là một dạng mở rộng/tăng cường của từ <
 
 ## Phiên bản khác {#Other_versions}
 
-Trong *Qenya Lexicon* xuất hiện từ [Qenya](../Q/Qenya.md) *lumbo* ("mây đen hạ thấp").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong *Qenya Lexicon* xuất hiện từ [Qenya](../Q/Qenya.md) *lumbo* ("đám mây đen hạ thấp").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

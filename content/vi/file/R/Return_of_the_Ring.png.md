@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Logo của [Sự trở lại của Nhẫn](../../main/T/The_Return_of_the_Ring.md).
+Logo của [Sự trở lại của chiếc nhẫn](../../main/T/The_Return_of_the_Ring.md).
 
 ## Giấy phép {#Licensing}
 

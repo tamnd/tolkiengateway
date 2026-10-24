@@ -47,24 +47,24 @@ images:
 
 ### Từ nguyên {#Etymology}
 
-Trong bản thảo “[Ghi chú về Óre](../V/Vinyar_Tengwar_41.md)”, *óre* (“trái tim (nội tâm)”) xuất phát từ [Common Eldarin](../C/Common_Eldarin.md) [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C6%B7OR&amp;action=edit&amp;redlink=1" title="ƷOR (page does not exist)">ƷOR</a>. Từ này cũng được cho là có liên quan đến từ gốc [OR](../O/OR~34968.md), mặc dù có lẽ không "được kết nối về mặt ngữ nghĩa".<sup id="cite_ref-VT41:11_4-1" class="reference"><a href="#cite_note-VT41:11-4">[3]</a></sup>
+Trong bản thảo “[Notes on Óre](../V/Vinyar_Tengwar_41.md)”, *óre* (“trái tim (nội tâm)”) xuất phát từ [Common Eldarin](../C/Common_Eldarin.md) [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C6%B7OR&amp;action=edit&amp;redlink=1" title="ƷOR (page does not exist)">ƷOR</a>. Từ này cũng được cho là có liên quan đến từ gốc [OR](../O/OR~34968.md), mặc dù có lẽ không "được kết nối về mặt ngữ nghĩa".<sup id="cite_ref-VT41:11_4-1" class="reference"><a href="#cite_note-VT41:11-4">[3]</a></sup>
 
 Trong [*Etymologies*](../T/The_Etymologies.md), từ *óre* ("tăng") có nguồn gốc từ gốc [ORO](../O/OR~34968.md#Other_versions).<sup id="cite_ref-LR_3-1" class="reference"><a href="#cite_note-LR-3">[2]</a></sup>
 
 ### Có cùng nguồn gốc {#Cognates}
 
-- [Telerin](../T/Telerin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C5%8Cre&amp;action=edit&amp;redlink=1" title="Ōre (page does not exist)">ïre</a></i>
-- [Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=G%C3%BBr&amp;action=edit&amp;redlink=1" title="Gûr (page does not exist)">gûr</a></i>
+- [Telerin](../T/Telerin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C5%8Cre&amp;action=edit&amp;redlink=1" title="Ōre (page does not exist)">ōre</a></i>
+- [tiếng Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=G%C3%BBr&amp;action=edit&amp;redlink=1" title="Gûr (page does not exist)">gûr</a></i>
 
 ## Tengwa {#Tengwa}
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/O/Ore.gif.md"><img src="https://tolkiengateway.net/w/images/4/48/Ore.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-*Óre* cũng là tên trong Quenya của chữ cái thứ 21 của bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái đầu tiên của lớp sáu hay [Tyellë](../T/Tyellë.md), chứa các phụ âm "bán thanh âm" và là chữ cái thứ sáu trong chuỗi phụ âm nha khoa hoặc *t*, *[Tincotéma](../T/Tincotéma.md)*. Trong hầu hết các chế độ, chữ này thể hiện **R** yếu hoặc không được điều chỉnh (thường được sử dụng ở giữa hoặc ở cuối từ).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> Tuy nhiên, trong [Chế độ Beleriand](../M/Mode_of_Beleriand.md), như trong dòng chữ trên [Phương Tây-gate](../D/Doors_of_Durin.md) của [Moria](../M/Moria.md), chữ này thể hiện **N**.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup> The Westron tên của bức thư này là <i><b>Ar</b></i>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
+*Óre* cũng là tên bằng tiếng Quenya của chữ cái thứ 21 trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái đầu tiên của lớp sáu hay [Tyellë](../T/Tyellë.md), chứa các phụ âm "bán thanh âm" và là chữ cái thứ sáu trong chuỗi phụ âm nha khoa hoặc *t*, *[Tincotéma](../T/Tincotéma.md)*. Trong hầu hết các chế độ, chữ cái này biểu thị **R** yếu hoặc không được kiểm tra (thường được sử dụng ở giữa hoặc ở cuối từ).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> Tuy nhiên, trong [Chế độ Beleriand](../M/Mode_of_Beleriand.md), như trong dòng chữ trên [cửa Tây](../D/Doors_of_Durin.md) của [Moria](../M/Moria.md), chữ cái này đại diện cho **N**.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup> Westron Tên của bức thư này là <i><b>Ar</b></i>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%93r%C3%ABa&amp;action=edit&amp;redlink=1" title="Órëa (page does not exist)">órëa</a></i>
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Anar%C3%B3r%C3%AB&amp;action=edit&amp;redlink=1" title="Anarórë (page does not exist)">anarórë</a></i>
 - *[Melkórë](../M/Morgoth.md)*

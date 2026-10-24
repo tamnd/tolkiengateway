@@ -13,13 +13,13 @@ categories:
   - "Gondor"
 ---
 
-**Lễ chặt cây** có thể là một loại sự kiện hoặc hoạt động trong [Minas Tirith](../M/Minas_Tirith.md) hoặc [Gondor](../G/Gondor.md) nói chung.
+**Lễ chặt cây** có thể là một loại sự kiện hoặc hoạt động ở [Minas Tirith](../M/Minas_Tirith.md) hoặc [Gondor](../G/Gondor.md) nói chung.
 
-Thuật ngữ này được [Borlas](../B/Borlas.md) đề cập trong cuộc trò chuyện với [Saelon](../S/Saelon.md) như một ví dụ về nơi không để rìu treo trên tường để có thể liên tục chặt [Cây bóng tối](../D/Dark_Tree.md), mô tả về mối đe dọa ngày càng tăng của cái ác ở [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Thuật ngữ này được [Borlas](../B/Borlas.md) đề cập trong cuộc trò chuyện với [Saelon](../S/Saelon.md) như một ví dụ về việc không để rìu treo trên tường để có thể liên tục chặt hạ [Cây đen](../D/Dark_Tree.md), mô tả về mối đe dọa ngày càng tăng của cái ác ở [Trung địa](../M/Middle-earth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Turuhalmë](../T/Turuhalmë.md), một bữa tiệc trong [The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md) liên quan đến khai thác gỗ.
+- [Turuhalmë](../T/Turuhalmë.md), một bữa tiệc trong [Cuốn sách về những câu chuyện đã mất](../T/The_Book_of_Lost_Tales.md) liên quan đến việc khai thác gỗ.
 
 <span></span>
 

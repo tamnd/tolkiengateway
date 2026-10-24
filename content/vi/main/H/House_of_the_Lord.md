@@ -21,17 +21,17 @@ images:
 
 ## Lịch sử {#History}
 
-Theo *[Tale of Adanel](../T/Tale_of_Adanel.md)* được kể cho [Andreth](../A/Andreth.md), Ngôi nhà của Lãnh chúa được xây dựng theo lệnh của [Morgoth](../M/Morgoth.md) ngay sau khi thức tỉnh [Con Người](../M/Men.md), người mà anh ta đã dụ dỗ làm nô lệ bằng những lời hứa hẹn về kiến ​​thức và sự giàu có tuyệt vời.
+Theo *[Tale of Adanel](../T/Tale_of_Adanel.md)* được kể cho [Andreth](../A/Andreth.md), Nhà của Chúa được xây dựng theo lệnh của [Morgoth](../M/Morgoth.md) ngay sau khi thức tỉnh [Đàn ông](../M/Men.md), những người mà ông ta đã dụ dỗ làm nô lệ cho mình với những lời hứa về kiến ​​​​thức và sự giàu có tuyệt vời.
 
-Ngôi nhà được cho là có quy mô rất lớn, có một chiếc ghế cao để Morgoth ngồi trong những lần anh đến thăm Hildórien hoặc xuất hiện với họ từ xa. Con Người sẽ vào Nhà cầu nguyện Morgoth và tặng quà. Morgoth sẽ nói chuyện từ xa với những người đang cầu nguyện trong Nhà, ra lệnh cho họ thực hiện mệnh lệnh của mình. Gửi đến những người đàn ông độc ác và mạnh mẽ nhất đến Nhà thường xuyên nhất, Morgoth đã tặng họ những món quà tuyệt vời.
+Ngôi nhà được cho là có quy mô lớn, có một chiếc ghế cao để Morgoth ngồi khi anh đến thăm Hildórien hoặc xuất hiện với họ từ xa. Đàn ông sẽ vào Nhà để cầu nguyện Morgoth và tặng quà. Morgoth sẽ nói chuyện từ xa với những người đang cầu nguyện trong Ngôi nhà, ra lệnh cho họ thực hiện mệnh lệnh của mình. Đối với những người đàn ông độc ác và mạnh mẽ nhất đến Nhà thường xuyên nhất, Morgoth đã tặng họ những món quà tuyệt vời.
 
-Từ Nhà của Chúa, toàn thể Nhân loại tại một thời điểm đã cam kết phục vụ Morgoth, do đó dẫn đến [Sự sụp đổ của Con người](../D/Darkness.md). Khi [một số người](../E/Edain.md) bắt đầu từ chối sự cai trị của Morgoth, những người hầu của ông ta sẽ đưa họ vào Nhà của Chúa để hiến tế trong lửa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Từ Nhà của Chúa, toàn bộ Nhân loại tại một thời điểm đã cam kết phục vụ Morgoth, do đó dẫn đến [Sự sụp đổ của Con người](../D/Darkness.md). Khi [một số người](../E/Edain.md) bắt đầu từ chối sự cai trị của Morgoth, những người hầu của hắn sẽ đưa họ vào Nhà của Chúa để hiến tế trong lửa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Không rõ Ngôi nhà của Chúa ra sao sau khi Morgoth rời đi.
+Không biết điều gì đã xảy ra với Ngôi nhà của Chúa sau khi Morgoth rời đi.
 
 ## Xem thêm {#See_also}
 
-- [Đền thờ](../T/Temple.md)
+- [Chùa](../T/Temple.md)
 
 <span></span>
 

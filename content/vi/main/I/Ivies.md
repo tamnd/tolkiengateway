@@ -16,7 +16,7 @@ categories:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1984-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i></b>
+<b>1984-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai Trung Địa</a></i></b>
 
 <dl><dd><i><b>Poison Ivy</b></i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Nelhaew</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Neldesangwa</i>), also called <i>Rigána</i>, was a type of ivy described in the game&#39;s books, which grew in deciduous forests. Its oily leaves caused rashes. <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 

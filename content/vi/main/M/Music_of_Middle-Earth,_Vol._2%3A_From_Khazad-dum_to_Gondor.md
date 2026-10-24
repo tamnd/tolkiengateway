@@ -19,33 +19,33 @@ categories:
 
 1. Bài ca của Durin
 2. Bài hát của Nimrodel
-Lời than thở của 3. Frodo dành cho Gandalf
-Bài hát của 4. Galadriel
-5. Than tiếc cho Boromir
-6. Bài hát của Gondor
-7. Danh sách dài của Ent
-Bài hát của 8. Treebeard
+3. Lời than thở của Frodo dành cho Gandalf
+4. Bài hát của Galadriel
+5. Thương tiếc cho Boromir
+6. Bài ca của Gondor
+7. Danh sách dài các Ent
+8. Bài hát của Treebeard
 9. Người Ent và Người Vợ
 10. Bài hát của Bregalad
 11. Bài hát diễu hành của Ent
-Tin nhắn của 12. Galadriel
-13. Lời than thở của Rohirrim
-Bài hát của Lorien của 14. Gandalf
-15. Lời kêu gọi vũ trang của Rohirrim
-Câu đố về Ent của 16. Gandalf
+12. Tin nhắn của Galadriel
+13. Lời than thở của người Rohirrim
+14. Bài ca Lorien của Gandalf
+15. Lời kêu gọi vũ trang của người Rohirrim
+16. Câu đố về loài Ent của Gandalf
 17. Một vần điệu truyền thuyết
-Bài hát của 18. Gollum
+18. Bài hát của Gollum
 19. Oliphaunt
-20. Malbeth Lời của Nhà tiên tri
+20. Lời của Nhà tiên tri Malbeth
 21. Thương tiếc cho Theoden
 22. Tiếng kêu chiến của Theoden
-23. Tại cái chết của Théoden
+23. Lúc Théoden chết
 24. Bài hát của Eomer
 25. Gò đất Mundberg
 26. Athelas
 27. Bài hát của Lebennin
-Bài hát của 28. Sam
-29. Legolas' Bài hát của Biển
+28. Bài hát của Sam
+29. Bài hát về biển của Legolas
 30. Bài hát của đại bàng
 31. Bài ca chôn cất Theoden
 32. Bài hát dạo phố xưa

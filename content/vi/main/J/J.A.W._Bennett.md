@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Bennett, J.A.W."
 ---
 
-**Jack Arthur Walter Bennett** ([28 tháng 2](../_/28_February.md) [1911](../_/1911.md)– [29 tháng 1](../_/29_January.md) [1981](../_/1981.md)) là một học giả văn học sinh ra ở New Zealand.
+**Jack Arthur Walter Bennett** ([28 tháng 2](../_/28_February.md) [1911](../_/1911.md)– [29 tháng 1](../_/29_January.md) [1981](../_/1981.md)) là một học giả văn học gốc New Zealand.
 
 Ông được biết đến nhiều nhất với tư cách là một học giả về văn học Trung Anh và là đồng nghiệp [Inkling](../I/Inklings.md) với [J.R.R. Tolkien](J.R.R._Tolkien.md). Ông là biên tập viên của tạp chí *Medium Ævum* từ năm 1957 đến năm 1981, trước đó đã hỗ trợ người tiền nhiệm của ông, Charles Talbut Onions, và là đồng nghiệp của [C. S. Lewis](../C/C.S._Lewis.md) tại Đại học Magdalen, Oxford. Năm 1964, ông kế nhiệm Lewis làm Giáo sư tiếng Anh thời Trung cổ và Phục hưng tại Đại học Cambridge.
 

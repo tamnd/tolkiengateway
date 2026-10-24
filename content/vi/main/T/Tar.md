@@ -14,7 +14,7 @@ categories:
   - "Númenor"
 ---
 
-**Tar-** là tước hiệu [Quenya](../Q/Quenya.md) được những người cai trị [Númenórean](../N/Númenóreans.md) đảm nhận, có nghĩa là "cao" như trong "hoàng gia" hoặc "quý tộc". Dạng nữ tính *tári* có nghĩa là "nữ hoàng".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Tar-** là tước hiệu [Quenya](../Q/Quenya.md) do những người cai trị [Númenórean](../N/Númenóreans.md) đảm nhận, có nghĩa là "cao" như trong "hoàng gia" hay "quý tộc". Dạng nữ tính *tári* có nghĩa là "nữ hoàng".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 
@@ -22,11 +22,11 @@ categories:
 - *[Elentári](../E/Elentári.md)* - "Nữ hoàng ngôi sao"
 - *[Kementári](../K/Kementári.md)* - "Nữ hoàng của trái đất"
 - *[Tarcil](Tarcil.md)* - "Người đàn ông thượng đẳng"
-- *[Sorontar](../S/Sorontar.md)* - "[Chúa tể Đại Bàng](../L/Lord_of_the_Eagles.md)"
+- *[Sorontar](../S/Sorontar.md)* - "[Chúa tể đại bàng](../L/Lord_of_the_Eagles.md)"
 
 ## Từ nguyên {#Etymology}
 
-*[The Etymologies](The_Etymologies.md)* đề cập đến [Primitive Quendian](../P/Primitive_Quendian.md) *tāro* ("vua: chỉ được sử dụng cho các vị vua hợp pháp của toàn bộ bộ tộc"), từ gốc TĀ. Cùng một gốc mang lại [Noldorin](../N/Noldorin.md)/[Sindarin](../S/Sindarin.md) *[taur](Taur.md)*.<sup id="cite_ref-LR2_2-0" class="reference"><a href="#cite_note-LR2-2">[2]</a></sup>= <span></span>
+*[The Etymologies](The_Etymologies.md)* đề cập đến [Quendian nguyên thủy](../P/Primitive_Quendian.md) *tāro* ("vua: chỉ được sử dụng cho các vị vua hợp pháp của toàn bộ bộ tộc"), từ gốc TĀ. Cùng một gốc tạo ra [Noldorin](../N/Noldorin.md)/[Sindarin](../S/Sindarin.md) *[taur](Taur.md)*.<sup id="cite_ref-LR2_2-0" class="reference"><a href="#cite_note-LR2-2">[2]</a></sup>= <span></span>
 
 ## Tài liệu tham khảo {#References}
 

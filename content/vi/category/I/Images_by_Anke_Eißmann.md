@@ -14,4 +14,4 @@ sort_keys:
   "Images by artist": "Eißmann, Anke"
 ---
 
-Danh mục này liệt kê tất cả **hình ảnh theo [Anke Eißmann](../../main/A/Anke_Eißmann.md)**.
+Danh mục này liệt kê tất cả **hình ảnh của [Anke Eißmann](../../main/A/Anke_Eißmann.md)**.

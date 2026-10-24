@@ -21,7 +21,7 @@ images:
 
 <i><b>Mảnh Bovadium</b></i> có thể đề cập đến:
 
-- <b><i><a href="The_End_of_Bovadium.md" title="The End of Bovadium">Sự kết thúc của Bovadium</a></i> - truyện được viết bởi <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</b>
+- <b><i><a href="The_End_of_Bovadium.md" title="The End of Bovadium">Sự kết thúc của Bovadium</a></i> - một câu chuyện được viết bởi <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</b>
 - *[The Bovadium Fragments: together with The Origin of Bovadium](The_Bovadium_Fragments%253A_together_with_The_Origin_of_Bovadium.md)* - một cuốn sách [2025](../_/2025.md).
 - "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Origin_of_Bovadium&amp;action=edit&amp;redlink=1" title="The Origin of Bovadium (page does not exist)">Nguồn gốc của Bovadium</a>" - bài tiểu luận của [Richard Ovenden](../R/Richard_Ovenden.md).
 

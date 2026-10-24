@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ban đầu được vẽ bởi [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) phiên bản màu này của [H.E. Riddett](../../main/H/H.E._Riddett.md) được thực hiện cho [The Hobbit Lịch 1976](../../main/T/The_Hobbit_Calendar_1976.md) và đã được sử dụng trong một số ấn bản có minh họa của cuốn sách.
+Ban đầu được vẽ bởi [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) phiên bản màu này được thực hiện bởi [H.E. Riddett](../../main/H/H.E._Riddett.md) được tạo cho [The Hobbit Calendar 1976](../../main/T/The_Hobbit_Calendar_1976.md) và đã được sử dụng trong một số ấn bản có minh họa của cuốn sách.
 
 ## Giấy phép {#Licensing}
 

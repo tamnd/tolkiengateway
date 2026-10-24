@@ -14,13 +14,13 @@ images:
   - "Disambig.png"
 ---
 
-**Đại Vương** là tước hiệu được sử dụng bởi một người cai trị có ít nhất quyền thống trị trên danh nghĩa đối với các vương quốc khác:
+**Vua tối cao** là danh hiệu được sử dụng bởi một người cai trị có ít nhất quyền thống trị trên danh nghĩa đối với các vương quốc khác:
 
-- [Đại Vương](<High_King_(Dúnedain).md>), danh hiệu được sử dụng bởi Vua của tất cả các [Dúnedain](../D/Dúnedain.md).
-- [Đại Vương của Arda](../K/King_of_Arda.md), danh hiệu [Manwë](../M/Manwë.md), vĩ đại nhất trong [Valar](../V/Valar.md).
-- [Đại Vương của Arnor](../K/King_of_Arnor.md), tước hiệu được sử dụng bởi những người cai trị của [Arnor](../A/Arnor.md).
-- [Đại Vương của Tiên tộc](High_King_of_the_Elves.md), danh hiệu [Ingwë](../I/Ingwë.md) là cao quý nhất trong tất cả [Tiên tộc](../E/Elves.md).
-- [Đại Vương của Noldor](High_King_of_the_Noldor.md), danh hiệu được sử dụng bởi bốn thủ lĩnh của [Noldor](../N/Noldor.md) trong [Trung Địa](../M/Middle-earth.md).
+- [Vua tối cao](<High_King_(Dúnedain).md>), danh hiệu được sử dụng bởi các vị vua của tất cả [Dúnedain](../D/Dúnedain.md).
+- [Vua tối cao của Arda](../K/King_of_Arda.md), danh hiệu [Manwë](../M/Manwë.md), người vĩ đại nhất trong [Valar](../V/Valar.md).
+- [Vua tối cao của Arnor](../K/King_of_Arnor.md), danh hiệu được sử dụng bởi những người cai trị [Arnor](../A/Arnor.md).
+- [Vua tối cao của Yêu tinh](High_King_of_the_Elves.md), danh hiệu [Ingwë](../I/Ingwë.md) là người cao quý nhất trong tất cả các [Yêu tinh](../E/Elves.md).
+- [Vua tối cao của Noldor](High_King_of_the_Noldor.md), danh hiệu được sử dụng bởi bốn thủ lĩnh của [Noldor](../N/Noldor.md) ở [Trung Địa](../M/Middle-earth.md).
 
 <hr style="margin-top:15px;"/>
 

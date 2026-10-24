@@ -22,11 +22,11 @@ langlinks:
     url: "https://kontu.wiki/The_Dragon%27s_Visit"
 ---
 
-<i><b>Chuyến thăm Rồng</b></i> là một bài thơ hài hước về một [rồng](../D/Dragons.md), được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) (có lẽ là trong [1928](../_/1928.md)) trong bộ truyện *[Tales and Songs of Bimble Bay](Tales_and_Songs_of_Bimble_Bay.md)*của anh ấy.
+<i><b>The Dragon's Visit</b></i> là một bài thơ hài hước về một [con rồng](../D/Dragons.md), được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) (có lẽ là trong [1928](../_/1928.md)) trong bộ truyện *[Tales and Songs of Bimble Bay](Tales_and_Songs_of_Bimble_Bay.md)* của ông.
 
-Khi gửi một số bài thơ cho *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)* trong [1962](../_/1962.md), "Chuyến thăm của Rồng" đã được đưa vào nhưng cuối cùng đã bị loại khỏi bộ sưu tập.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Douglas A. Anderson](../D/Douglas_A._Anderson.md) đã gợi ý rằng Tolkien có lẽ nghĩ rằng bài thơ không phù hợp trong [huyền thoại](../L/Legendarium.md):<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó đề cập đến một đội cứu hỏa chống lại một con rồng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Khi gửi một số bài thơ cho *[The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md)* trong [1962](../_/1962.md), "The Dragon's Visit" đã được đưa vào nhưng cuối cùng bị loại khỏi tuyển tập.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Douglas A. Anderson](../D/Douglas_A._Anderson.md) đã gợi ý rằng Tolkien có lẽ cho rằng bài thơ này không phù hợp trong [huyền thoại](../L/Legendarium.md):<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó đề cập đến một đội cứu hỏa chống lại một con rồng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-[John D. Rateliff](../J/John_D._Rateliff.md) đã lưu ý rằng ông coi "Chuyến thăm của Rồng" là "một trong những bài thơ hay nhất của Tolkien".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+[John D. Rateliff](../J/John_D._Rateliff.md) đã lưu ý rằng ông coi "Chuyến thăm của rồng" là "một trong những bài thơ hay nhất của Tolkien".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Lịch sử xuất bản {#Publication_history}
 
@@ -34,7 +34,7 @@ Bài thơ được xuất bản lần đầu vào [ngày 4 tháng 2](../_/4_Febr
 
 Một phiên bản sửa đổi của bài thơ, với một kết thúc khác, đã được in vào *[Winter's Tales for Children 1](../W/Winter's_Tales_for_Children_1.md)* (tháng 10 [1965](../_/1965.md)) và vào *[The Young Magicians](The_Young_Magicians.md)* ([1969](../_/1969.md)).
 
-Bài thơ gốc (cùng với phần kết sửa đổi) đã được đưa vào *[The Annotated Hobbit](The_Annotated_Hobbit.md): Revised and Expanded Edition* ở [2002](../_/2002.md) và trong *[Tales Before Narnia](Tales_Before_Narnia.md)* ở [2008](../_/2008.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Bài thơ gốc (cùng với phần kết đã sửa lại) đã được đưa vào *[Người Hobbit chú thích](The_Annotated_Hobbit.md): Phiên bản sửa đổi và mở rộng* trong [2002](../_/2002.md) và trong *[Tales Before Narnia](Tales_Before_Narnia.md)* trong [2008](../_/2008.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

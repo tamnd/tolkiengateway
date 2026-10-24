@@ -36,7 +36,7 @@ sort_keys:
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Họ của anh ấy được đánh vần là "Colburn" trong <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">Người bạn đồng hành và Hướng dẫn J.R.R. Tolkien</a>: I. Chronology</i> (2006). Tuy nhiên, <a class="external text" href="http://www.abebooks.com/servlet/SearchResults?an=A.F.+Colborn&amp;kn=Hali+Meidhad" rel="noreferrer noopener" target="_blank">doanh số bán sách của anh ấy</a> tiết lộ rằng tên của anh ấy dường như được đánh vần là "Colborn". Cách viết thứ hai cũng được sử dụng trong <i>Thư mục chú thích tiếng Anh cổ và trung cổ: II của Bella Millett. Ancrene Wisse, Nhóm Katherine và Nhóm Wooing</i> (Cambridge: 1996).</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Họ của ông được đánh vần là "Colburn" trong <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">Người bạn đồng hành và Hướng dẫn J.R.R. Tolkien</a>: I. Chronology</i> (2006). Tuy nhiên, <a class="external text" href="http://www.abebooks.com/servlet/SearchResults?an=A.F.+Colborn&amp;kn=Hali+Meidhad" rel="noreferrer noopener" target="_blank">doanh số bán sách của ông</a> tiết lộ rằng tên của ông dường như được đánh vần là "Colborn". Cách viết thứ hai cũng được sử dụng trong <i>Thư mục chú thích tiếng Anh cổ và trung cổ: II của Bella Millett. Ancrene Wisse, Nhóm Katherine và Nhóm Wooing</i> (Cambridge: 1996).</span>
 </li>
 </ol></div></span>
 

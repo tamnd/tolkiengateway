@@ -32,7 +32,7 @@ Nó rõ ràng bắt nguồn từ [gốc](Root.md) \*RUS-. Xem [RUSKĀ](RUSKĀ.md
 
 ## Cảm hứng {#Inspiration}
 
-Từ *russa* đại diện cho màu được gọi là "màu nâu đỏ" trong tiếng Anh, bắt nguồn từ từ tiếng Latin <i><a class="extiw" href="http://en.wiktionary.org/wiki/russus" title="wiktionary:russus">russus</a></i> "đỏ". Mặc dù chúng tôi không thể biết liệu những điểm tương đồng giữa từ Quenya và *russet/russus* có phải do Tolkien cố ý hay không, nhưng có thể là như vậy.
+Từ *russa* đại diện cho màu được gọi là "màu nâu đỏ" trong tiếng Anh, bắt nguồn từ từ tiếng Latin <i><a class="extiw" href="http://en.wiktionary.org/wiki/russus" title="wiktionary:russus">russus</a></i> "đỏ". Mặc dù chúng ta không thể biết liệu những điểm tương đồng giữa từ Quenya và *russet/russus* có phải do Tolkien cố ý hay không, nhưng có thể là như vậy.
 
 <span></span>
 
@@ -45,7 +45,7 @@ Từ *russa* đại diện cho màu được gọi là "màu nâu đỏ" trong t
 
 <small> </small>
 
-<small><dl><dd><dl><dd><ul><li><a class="external text" href="http://www.uib.no/People/hnohf" rel="noreferrer noopener" target="_blank">Quenya-Danh sách từ tiếng Anh</a> được biên soạn bởi <a href="../H/Helge_Fauskanger.md" title="Helge Fauskanger">Helge Fauskanger</a></li></ul></dd></dl></dd></dl></small>
+<small><dl><dd><dl><dd><ul><li><a class="external text" href="http://www.uib.no/People/hnohf" rel="noreferrer noopener" target="_blank">Danh sách từ tiếng Anh-Quenya</a> được biên soạn bởi <a href="../H/Helge_Fauskanger.md" title="Helge Fauskanger">Helge Fauskanger</a></li></ul></dd></dl></dd></dl></small>
 
 <small></small>
 

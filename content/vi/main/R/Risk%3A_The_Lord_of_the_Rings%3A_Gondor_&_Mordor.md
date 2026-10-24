@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Risk: The Lord of the Rings: Gondor and Mordor"
 ---
 
-Chuyển hướng đến [Rủi ro: The Lord of the Rings: Gondor và Mordor](Risk%253A_The_Lord_of_the_Rings%253A_Gondor_and_Mordor.md).
+Chuyển hướng đến [Risk: The Lord of the Rings: Gondor and Mordor](Risk%253A_The_Lord_of_the_Rings%253A_Gondor_and_Mordor.md).

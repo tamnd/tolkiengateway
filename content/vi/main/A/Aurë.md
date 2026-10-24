@@ -27,7 +27,7 @@ sort_keys:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Sindarin](../S/Sindarin.md) *[aur](Aur.md)*
+- [Tiếng Sindarin](../S/Sindarin.md) *[aur](Aur.md)*
 
 <span></span>
 

@@ -22,10 +22,10 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the former member of the <a class="mw-redirect" href="../T/Tolkien_Society.md" title="Tolkien Society">Tolkien Society</a></b>. For the series of books, see <b><a href="Peter_Roe_Memorial_Fund.md" title="Peter Roe Memorial Fund">Peter Roe Memorial Fund</a></b>.</div></div>
 
-**Peter Roe** (c. [1963](../_/1963.md)-[1979](../_/1979.md)) là một người hâm mộ Tolkien người Anh. Được giới thiệu vào [huyền thoại](../L/Legendarium.md) của [Tolkien](../J/J.R.R._Tolkien.md) ở tuổi 16, Roe bắt đầu làm thơ, bản đồ và hệ thống chữ viết của riêng mình, nhưng anh đã qua đời trong một vụ tai nạn giao thông trước khi công việc hoàn thành. Tác phẩm còn dang dở của ông, *Dwarvish Chronicles*, sau đó được [Hội Tolkien](../T/The_Tolkien_Society.md) xuất bản vào [*Mallorn* 15](../M/Mallorn_15.md).
+**Peter Roe** (c. [1963](../_/1963.md)-[1979](../_/1979.md)) là một người hâm mộ Tolkien người Anh. Được giới thiệu về [huyền thoại](../L/Legendarium.md) của [Tolkien](../J/J.R.R._Tolkien.md) ở tuổi 16, Roe bắt đầu làm những bài thơ, bản đồ và hệ thống chữ viết của riêng mình, nhưng anh đã qua đời trong một vụ tai nạn giao thông trước khi công việc hoàn thành. Tác phẩm chưa hoàn thành của ông, *Dwarvish Chronicles*, sau đó được [The Tolkien Society](../T/The_Tolkien_Society.md) xuất bản vào [*Mallorn* 15](../M/Mallorn_15.md).
 
-Một thời gian ngắn sau [Hội Tolkien](../T/The_Tolkien_Society.md) đã thành lập [Quỹ tưởng niệm Peter Roe](Peter_Roe_Memorial_Fund.md).
+Một thời gian ngắn sau [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) đã thành lập [Quỹ tưởng niệm Peter Roe](Peter_Roe_Memorial_Fund.md).
 
 ## Liên kết ngoài {#External_links}
 
-- <b><a class="external text" href="http://www.tolkiensociety.org/society/publications/peter-roe/" rel="noreferrer noopener" target="_blank">Peter Roe</a></b> tại [Hội Tolkien](../T/The_Tolkien_Society.md)
+- <b><a class="external text" href="http://www.tolkiensociety.org/society/publications/peter-roe/" rel="noreferrer noopener" target="_blank">Peter Roe</a></b> tại [Hiệp hội Tolkien](../T/The_Tolkien_Society.md)

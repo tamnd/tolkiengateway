@@ -72,20 +72,20 @@ Sự kiện xảy ra vào ngày 13 tháng 3.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
-    - [Borondir](../B/Borondir.md) và người bạn đồng hành của anh ấy đang trên đường tìm kiếm [Éothéod](Éothéod.md).
+    - [Borondir](../B/Borondir.md) và người bạn đồng hành của ông đang trên đường tìm kiếm [Éothéod](Éothéod.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - [Frodo](../F/Frodo_Baggins.md) bị [Shelob](../S/Shelob.md) đốt và sau đó bị [Orc](../O/Orcs.md) của [Cirith Ungol](../C/Cirith_Ungol.md) bắt giữ.
-    - [Causeway Pháo đài](../C/Causeway_Forts.md) thất thủ và [Ramas Echor](../R/Rammas_Echor.md) bị chọc thủng.
-    - [Faramir](../F/Faramir.md) bị thương khi đang dẫn quân hậu quân. Anh ta được cứu bởi một nhóm hiệp sĩ của [Dol Amroth](../D/Dol_Amroth.md) và [Gandalf](../G/Gandalf.md).
+    - [Pháo đài đường đắp cao](../C/Causeway_Forts.md) sụp đổ và [Rammas Echor](../R/Rammas_Echor.md) bị chọc thủng.
+    - [Faramir](../F/Faramir.md) bị thương khi dẫn đầu quân hậu quân. Ông ta được cứu bởi một nhóm hiệp sĩ của [Dol Amroth](../D/Dol_Amroth.md) và [Gandalf](../G/Gandalf.md).
     - [Pelennor](../P/Pelennor_Fields.md) bị kẻ thù của [Gondor](../G/Gondor.md) tràn ngập.
     - [Faramir](../F/Faramir.md) được đưa về [Minas Tirith](../M/Minas_Tirith.md) bị thương nặng.
     - [Aragorn](../A/Aragorn.md) đến [Pelargir](../P/Pelargir.md) và bắt giữ [hạm đội](../C/Corsairs_of_Umbar.md).
-    - Chiếc [Rohirrim](../R/Rohirrim.md) di chuyển về phía [Minas Tirith](../M/Minas_Tirith.md). Họ băng qua [Rừng Drúadan](../D/Drúadan_Forest.md).
-    - [Beregond](../B/Beregond.md) nhìn thấy ánh sáng lạ trong tòa tháp Minas Tirith, đang [Denethor](../D/Denethor.md) đối đầu với [Sauron](../S/Sauron.md).
+    - [Rohirrim](../R/Rohirrim.md) đi về phía [Minas Tirith](../M/Minas_Tirith.md). Họ băng qua [Rừng Drúadan](../D/Drúadan_Forest.md).
+    - [Beregond](../B/Beregond.md) nhìn thấy ánh sáng kỳ lạ trong tòa tháp của Minas Tirith, khi [Denethor](../D/Denethor.md) đối đầu với [Sauron](../S/Sauron.md).
 - [T.A.](../T/Third_Age.md) [3020](../T/Third_Age_3020.md):
-    - [Frodo](../F/Frodo_Baggins.md) bị ốm vào ngày kỷ niệm ngày bị đầu độc bởi [Shelob](../S/Shelob.md).<sup id="cite_ref-chief_1-0" class="reference"><a href="#cite_note-chief-1">[1]</a></sup>
+    - [Frodo](../F/Frodo_Baggins.md) bị ốm vào ngày kỷ niệm ngày bị [Shelob](../S/Shelob.md) đầu độc.<sup id="cite_ref-chief_1-0" class="reference"><a href="#cite_note-chief-1">[1]</a></sup>
 - [T.A.](../T/Third_Age.md) [3021](../T/Third_Age_3021.md):
-    - [Frodo](../F/Frodo_Baggins.md) lại bị bệnh.<sup id="cite_ref-chief_1-1" class="reference"><a href="#cite_note-chief-1">[1]</a></sup>
+    - [Frodo](../F/Frodo_Baggins.md) lại bị ốm.<sup id="cite_ref-chief_1-1" class="reference"><a href="#cite_note-chief-1">[1]</a></sup>
 
 <span></span>
 

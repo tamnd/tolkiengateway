@@ -16,7 +16,7 @@ sort_keys:
   "Quenya nouns": "Tyelpetema"
 ---
 
-**Tyelpetéma** là một trong năm [témar](Témar.md) hay chuỗi âm thanh của hệ thống chữ viết [Tengwar](Tengwar.md).
+**Tyelpetéma** là một trong năm [témar](Témar.md) hay sê-ri âm thanh của hệ thống chữ viết [Tengwar](Tengwar.md).
 
 Tyelpetéma dường như là duy nhất; trong khi mỗi bộ trong số bốn bộ còn lại bao gồm một bộ sáu 'chữ cái' riêng lẻ, âm thanh vòm của Tyelpetéma được hình thành bằng cách thêm dấu phụ gồm hai dấu chấm bên dưới một ký tự khác. Điều này tương đương với việc thêm 'y' sau chữ cái trong tiếng Anh để tạo thành một phụ âm riêng biệt.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ví dụ: âm 'ty' ở đây có âm thanh giống như phụ âm đầu trong (cách phát âm tiếng Anh của) từ 'tune' trong tiếng Anh - một từ gần giống nhưng khác biệt với 'ch'.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

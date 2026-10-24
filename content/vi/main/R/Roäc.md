@@ -56,11 +56,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Roäc là con trai của [Carc](../C/Carc.md), và như vậy "*a descendant of those* \[ravens\] *vẫn ở trên đồi ngay cả sau khi Smaug đã đánh đuổi đồng minh cũ của họ, [Người Lùn](../D/Dwarves.md)"*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+Roäc là con trai của [Carc](../C/Carc.md), và như vậy "*a descendant of those* \[ravens\] *vẫn ở trên đồi ngay cả sau khi Smaug đã đánh đuổi đồng minh cũ của họ, [Người lùn](../D/Dwarves.md)"*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
-Trong khi [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) và [Bilbo Baggins](../B/Bilbo_Baggins.md) đang theo dõi Erebor, một [trush](../T/Thrushes.md) cũ đã triệu hồi Roäc. Khi gặp Thorin và Đoàn tùy tùng ở [Kỷ Đệ Tam](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), Roäc đã được đánh dấu bằng tuổi tác, năm nay 153 tuổi.<sup id="cite_ref-H15_1-2" class="reference"><a href="#cite_note-H15-1">[1]</a></sup>
+Trong khi [Thorin và đồng đội](../T/Thorin_and_Company.md) và [Bilbo Baggins](../B/Bilbo_Baggins.md) đang theo dõi Erebor, một [trush](../T/Thrushes.md) cũ đã triệu hồi Roäc. Khi gặp Thorin và Company ở [Tuổi thứ ba](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), Roäc được đánh dấu bằng tuổi tác, 153 tuổi.<sup id="cite_ref-H15_1-2" class="reference"><a href="#cite_note-H15-1">[1]</a></sup>
 
-Có khả năng nói [Westron](../W/Westron.md), con quạ báo tin [Smaug](../S/Smaug.md) đã bị giết. Roäc đồng ý gửi tin nhắn đến [Dáin II Ironfoot](../D/Dáin_Ironfoot.md) từ Thorin, lời kêu gọi giúp đỡ bảo vệ kho báu của Erebor sau chiến tranh.<sup id="cite_ref-H15_1-3" class="reference"><a href="#cite_note-H15-1">[1]</a></sup> Tuy nhiên, Roäc cũng đưa ra lời khuyên cho Thorin, cảnh báo anh rằng "*kho báu có thể sẽ là cái chết của anh*".<sup id="cite_ref-H16_4-0" class="reference"><a href="#cite_note-H16-4">[3]</a></sup>
+Có thể nói được tiếng [Westron](../W/Westron.md), con quạ báo tin rằng [Smaug](../S/Smaug.md) đã bị giết. Roäc đồng ý gửi một tin nhắn tới [Dáin II Ironfoot](../D/Dáin_Ironfoot.md) từ Thorin, lời kêu gọi giúp đỡ trong việc bảo vệ kho báu của Erebor sau chiến tranh.<sup id="cite_ref-H15_1-3" class="reference"><a href="#cite_note-H15-1">[1]</a></sup> Tuy nhiên, Roäc cũng đưa ra lời khuyên cho Thorin, cảnh báo anh rằng "*kho báu có thể sẽ là cái chết của anh*".<sup id="cite_ref-H16_4-0" class="reference"><a href="#cite_note-H16-4">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -70,7 +70,7 @@ Có khả năng nói [Westron](../W/Westron.md), con quạ báo tin [Smaug](../S
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="Ravens.md#Inspiration" title="Ravens">Ravens#Inspiration</a></div></div>
 
-Trong thần thoại [Celtic](../C/Celtic.md) (đặc biệt là Ailen), quạ thường gắn liền với chiến tranh và chiến trường. Trong [tiếng Wales](../W/Welsh.md) thần thoại, quạ được coi là đội quân của Vua hiệp sĩ Owain của Arthur.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+Trong thần thoại [Celtic](../C/Celtic.md) (đặc biệt là Ailen), quạ thường gắn liền với chiến tranh và chiến trường. Trong thần thoại [xứ Wales](../W/Welsh.md), quạ là đội quân của hiệp sĩ Owain của Vua Arthur.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
 Trong *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.md)*, một con quạ và một con chim sẻ nói năm câu thơ,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup> gợi nhớ đến Roäc và loài chim hét ngày xưa.
 
@@ -108,11 +108,11 @@ Trong *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.
 		</li>
 </ul>
 
-<b>1968: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>The Hobbit</i> (loạt phim phát thanh 1968)</a>:</b>
+<b>1968: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>Người Hobbit</i> (loạt phim phát thanh năm 1968)</a>:</b>
 
 <dl><dd>Roäc comes to the Dwarves after Smaug&#39;s death. He is voiced by <a href="../J/John_Wyse.md" title="John Wyse">John Wyse</a>.</dd></dl>
 
-<b>1979: <a href="../T/The_Hobbit_(1979_radio_series).md" title="The Hobbit (1979 radio series)"><i>The Hobbit</i> (loạt phim phát thanh 1979)</a>:</b>
+<b>1979: <a href="../T/The_Hobbit_(1979_radio_series).md" title="The Hobbit (1979 radio series)"><i>Người Hobbit</i> (loạt phim phát thanh năm 1979)</a>:</b>
 
 <dl><dd>Roäc informs the Dwarves of Smaug&#39;s demise. He is voiced by an uncredited <a class="new" href="https://tolkiengateway.net/w/index.php?title=Pat_Franklyn&amp;action=edit&amp;redlink=1" title="Pat Franklyn (page does not exist)">Pat Franklyn</a>.</dd></dl>
 
@@ -120,7 +120,7 @@ Trong *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.
 
 <dl><dd>Roäc is played by Friedrich W. Bauschulle.</dd></dl>
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
 
 <dl><dd>Roäc, a level 6 Raven, is given game statistics and a short description.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup></dd></dl>
 
@@ -128,11 +128,11 @@ Trong *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.
 
 <dl><dd>The voice of Roäc is provided by Ivan Krivosudský.</dd></dl>
 
-<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
+<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
 
 <dl><dd>&#34;Roäc the Raven&#34; is a Diplomat Ally, playable at any site in Northern Rhovanion.</dd></dl>
 
-<b>2014: <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i>:</b>
+<b>2014: <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">Người Hobbit: Trận chiến của năm đội quân</a></i>:</b>
 
 <dl><dd>Roäc does not explicitly appear. However, just prior to the final confrontation with the <a href="../E/Elves_of_Mirkwood.md" title="Elves of Mirkwood">Elven</a> Army assembled before the gates, a raven is seen flying away from the gate of <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Erebor</a>, then just before <a href="../D/Dáin_Ironfoot.md" title="Dáin Ironfoot">Dáin</a>&#39;s Army of <a href="../D/Dwarves.md" title="Dwarves">Dwarves</a> arrives, the raven is seen flying back to <a href="../T/Thorin.md" title="Thorin">Thorin</a> at the gate.  This visually implies that Thorin sent a message with this raven, though it is not explained in dialogue, and the raven itself does not talk.</dd></dl>
 
@@ -143,7 +143,7 @@ Trong *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Khi <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin và Đoàn tùy tùng</a> gặp Roäc, anh ấy nói với họ rằng "đã một trăm năm mươi năm kể từ khi tôi ra khỏi quả trứng". Trừ 153 từ <a href="../T/Third_Age_2941.md" title="Third Age 2941">2941</a> mang lại 2788</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Khi <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin và Company</a> gặp Roäc, ông nói với họ rằng "đã một trăm năm mươi ba năm kể từ khi tôi ra khỏi quả trứng". Trừ 153 từ <a href="../T/Third_Age_2941.md" title="Third Age 2941">2941</a> mang lại 2788</span>
 </li>
 </ol></div></span>
 

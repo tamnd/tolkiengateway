@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ingwë"
 ---
 
-Chuyển hướng đến [Ingwë](../I/Ingwë.md).
+Chuyển hướng tới [Ingwë](../I/Ingwë.md).

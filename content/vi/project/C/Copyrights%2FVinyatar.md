@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Vinyatar"
 ---
 
-- Vinyatar đã vui lòng cấp phép cho họ sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Vinyatar.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
-- Ngày: 6 tháng Chín năm 2020
+- Vinyatar đã vui lòng cấp cho họ quyền sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Vinyatar.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Ngày: 6 tháng 9 năm 2020
 - Người dùng đã xin phép: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

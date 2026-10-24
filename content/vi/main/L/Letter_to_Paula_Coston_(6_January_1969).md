@@ -26,7 +26,7 @@ Vào [ngày 6 tháng 1](../_/6_January.md) [1969](../_/1969.md), [J.R.R. Tolkien
 
 <h2><span id="From_the_Magazine.27s_editor"></span><span class="mw-headline" id="From_the_Magazine&#39;s_editor">From the Magazine&#39;s editor</span></h2>
 
-"Paula đã nói với tôi rằng cô ấy luôn bảo vệ những bức thư một cách ghen tị (và được đề cập trong bài báo là không cho người viết tiểu sử nhìn thấy chúng) vì vậy tôi tin rằng đây là lần đầu tiên nội dung được xuất bản ở bất cứ đâu, ít nhất là một số trong số đó."
+"Paula đã nói với tôi rằng bà luôn bảo vệ những bức thư một cách ghen tị (và được đề cập trong bài báo là không cho người viết tiểu sử nhìn thấy chúng) vì vậy tôi tin rằng đây là lần đầu tiên nội dung được xuất bản ở bất cứ đâu, ít nhất là một số trong số đó."
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arda Reconstructed: The Creation of the Published Silmarillion"
 ---
 
-Chuyển hướng tới [Arda Được xây dựng lại: Việc tạo ra Silmarillion](Arda_Reconstructed%253A_The_Creation_of_the_Published_Silmarillion.md) đã xuất bản.
+Chuyển hướng đến [Arda Reconstructed: The Creation of the Published Silmarillion](Arda_Reconstructed%253A_The_Creation_of_the_Published_Silmarillion.md).

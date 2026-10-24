@@ -12,9 +12,9 @@ categories:
   - "Copyright"
 ---
 
-**Trung Địa Enterprises** (trước đây là **Tolkien Enterprises**) là một công ty có quyền điều chỉnh và bán hàng trên toàn thế giới đối với *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và *[The Hobbit](../T/The_Hobbit.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Doanh nghiệp Trung Địa** (trước đây là **Tolkien Enterprises**) là một công ty có quyền điều chỉnh và bán hàng trên toàn thế giới đối với *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và *[The Hobbit](../T/The_Hobbit.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trên trang web trước đây đã liệt kê **tên, nhân vật, địa điểm, sự kiện và đối tượng từ Tolkien mà Trung Địa Doanh nghiệp đã tuyên bố bản quyền**. Dưới đây là danh sách từ [2003](../_/2003.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trên trang web trước đây đã liệt kê **tên, nhân vật, địa điểm, sự kiện và đồ vật từ Tolkien's mà Middle-earth Enterprises đã tuyên bố bản quyền**. Dưới đây là danh sách từ [2003](../_/2003.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Tên/ký tự {#Names/characters}
 
@@ -365,7 +365,7 @@ Trên trang web trước đây đã liệt kê **tên, nhân vật, địa đi�
 
 ## Xem thêm {#See_also}
 
-- [Trung Địa Doanh nghiệp](Middle-earth_Enterprises.md)
+- [Doanh nghiệp Trung Địa](Middle-earth_Enterprises.md)
 - [Cấp phép](../L/Licensing.md)
 
 <span></span>

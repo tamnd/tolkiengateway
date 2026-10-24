@@ -15,24 +15,24 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**Người ngoài cuộc** là thuật ngữ được [Shire-hobbit](../S/Shire-hobbits.md) sử dụng để mô tả tất cả những [Hobbit](../H/Hobbits.md) sống bên ngoài [người Shire](../T/The_Shire.md), bao gồm cả [Bree-hobbit](../B/Bree-hobbits.md). Shire-dân gian coi tất cả Người ngoài là ngu ngốc và thô lỗ, ít quan tâm đến họ.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
+**Người ngoài cuộc** là thuật ngữ được [Shire-hobbit](../S/Shire-hobbits.md) sử dụng để mô tả tất cả [Hobbit](../H/Hobbits.md) sống bên ngoài [Shire](../T/The_Shire.md), bao gồm cả [Bree-hobbit](../B/Bree-hobbits.md). Người dân Quận coi tất cả Người ngoài là ngu ngốc và thô lỗ, ít quan tâm đến họ.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
 
-Những người bên ngoài sống rải rác khắp [Westlands](../W/Westlands.md) và đông hơn đáng kể so với những gì người dân ở Shire nhận ra. Một số Người ngoài cuộc là những kẻ lang thang, không định cư lâu dài ở bất kỳ địa điểm cụ thể nào, thay vào đó đào hố trong các ngân hàng và chỉ ở đó miễn là nó phù hợp với họ, trong khi những Người ngoài cuộc khác, như cư dân của [Bree-land](../B/Bree-land.md), cũng ổn định, thịnh vượng và văn minh như những người họ hàng xa của họ sống ở Shire.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>.
+Những người bên ngoài sống rải rác khắp [Westlands](../W/Westlands.md) và đông hơn đáng kể so với những gì người dân Quận nhận ra. Một số Người Ngoài là những kẻ lang thang, không định cư lâu dài ở bất kỳ địa điểm cụ thể nào, thay vào đó họ đào hố trong ngân hàng và chỉ ở đó miễn là phù hợp với họ, trong khi những Người Ngoài khác, như cư dân của [Bree-land](../B/Bree-land.md), cũng ổn định, thịnh vượng và văn minh như họ hàng xa của họ sống ở Quận.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>.
 
 ## Các ý nghĩa khác của thuật ngữ {#Other_meanings_of_the_term}
 
-Theo nghĩa tổng quát hơn, thuật ngữ Người ngoài cuộc được Shire-hobbit sử dụng để mô tả tất cả những người sống bên ngoài Shire. [Ràng buộc](../B/Bounders.md) đang bảo vệ biên giới của Shire để ngăn chặn sự phiền toái từ Người ngoài dưới bất kỳ hình thức nào, dù lớn hay nhỏ<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>.
+Theo nghĩa tổng quát hơn, thuật ngữ Người ngoài cuộc được người Hobbit ở Quận sử dụng để mô tả tất cả những người sống bên ngoài Quận. [Ràng buộc](../B/Bounders.md) đang canh gác biên giới của Quận để ngăn chặn sự phiền toái từ bất kỳ loại Người ngoài nào, dù lớn hay nhỏ<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>.
 
-Mặt khác, [Bree-landers](../B/Bree-landers.md) đã sử dụng thuật ngữ Người ngoài cuộc để mô tả tất cả những người sống bên ngoài Bree-land, bao gồm cả người hobbit của Shire.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Mặt khác, [Người đổ bộ Bree](../B/Bree-landers.md) đã sử dụng thuật ngữ Người ngoài cuộc để mô tả tất cả những người sống bên ngoài Bree-land, bao gồm cả người Hobbit ở Quận.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các bản thảo trước đó của "Chúa tể những chiếc nhẫn" Tolkien đã sử dụng thuật ngữ "hobbit hoang dã" để mô tả Hobbit những người sống cô đơn đây đó trong [Eriador](../E/Eriador.md) (bên ngoài Shire và Bree) và dưới mái hiên của [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> "<a class="mw-disambig" href="../R/Rangers_(disambiguation).md" title="Rangers (disambiguation)">Rangers</a>" là một thuật ngữ khác đồng nghĩa với "hoang dã" hobbit".<sup id="cite_ref-:1_6-0" class="reference"><a href="#cite_note-:1-6">[6]</a></sup> Trong một số phiên bản [Trotter](../T/Trotter.md) được coi là một trong những hobbit hoang dã<sup id="cite_ref-:1_6-1" class="reference"><a href="#cite_note-:1-6">[6]</a></sup>.
+Trong các bản thảo trước đó của "Chúa tể những chiếc nhẫn", Tolkien đã sử dụng thuật ngữ "hobbit hoang dã" để mô tả những người Hobbit sống cô đơn đây đó ở [Eriador](../E/Eriador.md) (bên ngoài Shire và Bree) và trong mái hiên của [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> "<a class="mw-disambig" href="../R/Rangers_(disambiguation).md" title="Rangers (disambiguation)">Rangers</a>" là một thuật ngữ khác đồng nghĩa với "hobbit hoang dã".<sup id="cite_ref-:1_6-0" class="reference"><a href="#cite_note-:1-6">[6]</a></sup> Trong một số phiên bản, [Trotter](../T/Trotter.md) được coi là một trong những loài hobbit hoang dã<sup id="cite_ref-:1_6-1" class="reference"><a href="#cite_note-:1-6">[6]</a></sup>.
 
 ## Liên kết ngoài {#External_links}
 
-- Tolkien của Nhẫn: <a class="external text" href="https://tolkiensring.proboards.com/thread/1250/hobbits-tramps" rel="noreferrer noopener" target="_blank">Hobbit trong vai Kẻ lang thang?</a>
-- Lưu trữ Zenopus: <a class="external text" href="https://zenopusarchives.blogspot.com/2014/08/tolkiens-wild-hobbits.html" rel="noreferrer noopener" target="_blank">Tolkien's Wild Hobbit</a>
+- Chiếc nhẫn của Tolkien: <a class="external text" href="https://tolkiensring.proboards.com/thread/1250/hobbits-tramps" rel="noreferrer noopener" target="_blank">Người Hobbit là kẻ lang thang?</a>
+- Kho lưu trữ Zenopus: <a class="external text" href="https://zenopusarchives.blogspot.com/2014/08/tolkiens-wild-hobbits.html" rel="noreferrer noopener" target="_blank">Người Hobbit hoang dã của Tolkien</a>
 
 ## Tài liệu tham khảo {#References}
 

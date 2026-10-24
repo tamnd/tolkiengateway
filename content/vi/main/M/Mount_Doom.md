@@ -72,15 +72,15 @@ infobox:
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../F/Frodo.md" title="Frodo">Frodo</a>, <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="Mount_Doom_(chapter).md" title="Mount Doom (chapter)">Mount Doom</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
 
-**Núi Doom** hay **Orodruin**, là một ngọn núi lửa ở [Mordor](Mordor.md).
+**Mount Doom** hay **Orodruin**, là một ngọn núi lửa ở [Mordor](Mordor.md).
 
 ## Lịch sử {#History}
 
-[Melkor](Melkor.md) đã tạo ra Núi Doom ở [Kỷ Đệ Nhất](../F/First_Age.md), và cái tên "*Mordor*" có thể đã được đặt cho vùng đất xung quanh trước khi Sauron định cư ở đó vì những vụ phun trào của nó.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> Khi [Sauron](../S/Sauron.md) chọn vùng đất [Mordor](Mordor.md) làm nơi ở của mình ở [Thời đại thứ hai](../S/Second_Age.md), Orodruin là lý do cho sự lựa chọn của anh ấy. Anh ấy "*đã sử dụng ngọn lửa phun ra từ lòng đất trong các phép thuật và quá trình rèn của mình.*" Kết quả nổi tiếng nhất trong quá trình rèn của anh ấy, và trên thực tế, là chiếc duy nhất mà chúng ta biết chắc chắn, là Chiếc Nhẫn Chúa.
+[Melkor](Melkor.md) đã tạo ra Núi Doom vào [Kỷ nguyên thứ nhất](../F/First_Age.md), và cái tên "*Mordor*" có thể đã được đặt cho vùng đất xung quanh trước khi Sauron định cư ở đó vì những vụ phun trào của nó.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> Khi [Sauron](../S/Sauron.md) chọn vùng đất [Mordor](Mordor.md) làm nơi ở của mình trong [Kỷ nguyên thứ hai](../S/Second_Age.md), Orodruin là lý do cho hành động của mình sự lựa chọn. Ông ấy "*đã sử dụng ngọn lửa phun ra từ lòng trái đất trong các phép thuật và quá trình rèn của mình.*" Kết quả nổi tiếng nhất trong quá trình rèn của ông ấy, và trên thực tế, là chiếc duy nhất mà chúng ta biết chắc chắn, là Chiếc Nhẫn Chúa.
 
-Ngọn núi phun trào vào [S.A.](../S/Second_Age.md) [3429](../S/Second_Age_3429.md), báo hiệu Sauron tấn công vào [Gondor](../G/Gondor.md) và nó lấy tên là [Amon Amarth](../A/Amon_Amarth.md), "Núi Doom".
+Ngọn núi phun trào vào [S.A.](../S/Second_Age.md) [3429](../S/Second_Age_3429.md), báo hiệu cuộc tấn công của Sauron vào [Gondor](../G/Gondor.md) và nó được đặt tên là [Amon Amarth](../A/Amon_Amarth.md), "Mount Doom".
 
-Vào [T.A.](../T/Third_Age.md) [2954](../T/Third_Age_2954.md), Núi Doom thức tỉnh và những cư dân cuối cùng của [Ithilien](../I/Ithilien.md) hoảng sợ bỏ chạy qua [Anduin](../A/Anduin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Từ đó trở đi nó phun trào lẻ ​​tẻ cho đến cuối Thời đại.
+Vào [T.A.](../T/Third_Age.md) [2954](../T/Third_Age_2954.md), Núi Doom thức tỉnh và những cư dân cuối cùng của [Ithilien](../I/Ithilien.md) khiếp sợ bỏ chạy qua [Anduin](../A/Anduin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Từ đó trở đi nó phun trào lẻ ​​tẻ cho đến cuối Thời đại.
 
 [Hiệp hội của chiếc nhẫn](../F/Fellowship_of_the_Ring.md) [nhiệm vụ](../Q/Quest_for_the_Ring.md) trong [Cuộc chiến của chiếc nhẫn](../W/War_of_the_Ring.md) là phá hủy chiếc nhẫn tại Mount Doom.
 
@@ -88,9 +88,9 @@ Vào [T.A.](../T/Third_Age.md) [2954](../T/Third_Age_2954.md), Núi Doom thức 
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Orodruin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/dd/J.R.R._Tolkien_-_Orodruin.jpg/300px-J.R.R._Tolkien_-_Orodruin.jpg" decoding="async" loading="lazy" width="300" height="234" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/dd/J.R.R._Tolkien_-_Orodruin.jpg/450px-J.R.R._Tolkien_-_Orodruin.jpg 1.5x, https://tolkiengateway.net/w/images/d/dd/J.R.R._Tolkien_-_Orodruin.jpg 2x" data-file-width="526" data-file-height="411"/></a><figcaption><i>Orodruin</i> by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
 
-Nó đứng lẻ loi trong một vùng đồng bằng trống rỗng, [Cao nguyên Gorgoroth](../P/Plateau_of_Gorgoroth.md) và được kết nối với [Tháp tối](../B/Barad-dûr.md) bằng [Sauron Đường](../S/Sauron's_Road.md), cao khoảng 4500 feet với phần đế cao khoảng 3000 feet.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-K_4-0" class="reference"><a href="#cite_note-K-4">[4]</a></sup> Con đường tiếp cận phía đông của căn cứ tại một đường đắp cao và sau đó uốn khúc như một con rắn; Lúc đó, Con đường dường như bị dung nham làm hư hại và phải sửa chữa lại nhiều lần.<sup id="cite_ref-K_4-1" class="reference"><a href="#cite_note-K-4">[4]</a></sup>
+Nó đứng lẻ loi trên một vùng đồng bằng trống trải, [Cao nguyên Gorgoroth](../P/Plateau_of_Gorgoroth.md) và được kết nối với [Tháp bóng tối](../B/Barad-dûr.md) bằng [Đường Sauron](../S/Sauron's_Road.md), cao khoảng 4500 feet với phần đế cao khoảng 3000 feet.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-K_4-0" class="reference"><a href="#cite_note-K-4">[4]</a></sup> Con đường tiếp cận phía đông của căn cứ tại một đường đắp cao và sau đó uốn lượn như một con rắn; Lúc đó, Con đường dường như bị dung nham làm hư hại và phải sửa chữa lại nhiều lần.<sup id="cite_ref-K_4-1" class="reference"><a href="#cite_note-K-4">[4]</a></sup>
 
-Bên trong hình nón của nó là [Sammath Naur](../C/Cracks_of_Doom.md) dẫn đến Crack of Doom, một vực sâu rực lửa nơi [Chiếc Nhẫn Chúa](../T/The_One_Ring.md) được rèn ra.
+Bên trong hình nón của nó là [Sammath Naur](../C/Cracks_of_Doom.md) dẫn đến Crack of Doom, một vực thẳm rực lửa nơi [Chiếc Nhẫn Chúa](../T/The_One_Ring.md) được rèn ra.
 
 ## Từ nguyên {#Etymology}
 
@@ -109,27 +109,27 @@ Bên trong hình nón của nó là [Sammath Naur](../C/Cracks_of_Doom.md) dẫn
 </tbody></table>
 </div>
 
-"Núi Doom" là bản dịch [Ngôn ngữ Chung](../W/Westron.md) của <i><b>Amon Amarth</b></i> trong [Gondor](../G/Gondor.md),<sup id="cite_ref-Nomen_5-0" class="reference"><a href="#cite_note-Nomen-5">[5]</a></sup> từ *[amon](../A/Amon.md)* ("đồi")<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> và *[amarth](../A/Amarth.md)* ("số phận, diệt vong").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+"Mount Doom" là bản dịch [Common Speech](../W/Westron.md) của <i><b>Amon Amarth</b></i> ở [Gondor](../G/Gondor.md),<sup id="cite_ref-Nomen_5-0" class="reference"><a href="#cite_note-Nomen-5">[5]</a></sup> từ *[amon](../A/Amon.md)* ("hill")<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> và *[amarth](../A/Amarth.md)* ("fate, doom").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
-Cái tên này được đặt vì ngọn núi lửa được liên kết trong những lời tiên tri cổ xưa và ít được hiểu rõ với phần cuối cùng của [Kỷ Đệ Tam](../T/Third_Age.md), khi [Chiếc Nhẫn Chúa](../T/The_One_Ring.md) được tìm thấy một lần nữa.<sup id="cite_ref-Nomen_5-1" class="reference"><a href="#cite_note-Nomen-5">[5]</a></sup>
+Cái tên này được đặt vì ngọn núi lửa có liên quan đến những lời tiên tri cổ xưa và ít được hiểu rõ về sự kết thúc cuối cùng của [Thời đại thứ ba](../T/Third_Age.md), khi [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) được tìm thấy một lần nữa.<sup id="cite_ref-Nomen_5-1" class="reference"><a href="#cite_note-Nomen-5">[5]</a></sup>
 
-Tên ban đầu [Sindarin](../S/Sindarin.md) của nó là <i><b>Orodruin</b></i>, được gọi là "ngọn núi đang cháy"<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>, "núi lửa đỏ"<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> và "núi lửa rực cháy"<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> Tên có thể bao gồm *[orod](../E/Ered.md)* ("núi") + *[ruin](../R/Ruin.md)* ("đỏ rực").<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+Tên [Sindarin](../S/Sindarin.md) ban đầu của nó là <i><b>Orodruin</b></i>, được gọi là "ngọn núi đang cháy"<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>, "núi lửa đỏ"<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> và "núi lửa rực"<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> Tên có thể bao gồm *[orod](../E/Ered.md)* ("núi") + *[ruin](../R/Ruin.md)* ("đỏ rực").<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
 ## Lý thuyết {#Theories}
 
-Theo [Karen Fonstad](../K/Karen_Fonstad.md), Núi Doom rõ ràng là một <a class="extiw" href="http://en.wikipedia.org/wiki/stratovolcano" title="wikipedia:stratovolcano">núi lửa dạng tầng</a>, được kết hợp bởi các lớp tro và dung nham xen kẽ nhau. Cao chót vót chỉ ở độ cao 4500 ft, nó tương đối ngắn.<sup id="cite_ref-K_4-2" class="reference"><a href="#cite_note-K-4">[4]</a></sup>
+Theo [Karen Fonstad](../K/Karen_Fonstad.md), Núi Doom rõ ràng là một <a class="extiw" href="http://en.wikipedia.org/wiki/stratovolcano" title="wikipedia:stratovolcano">núi lửa dạng tầng</a>, được tạo thành bởi các lớp tro và dung nham xen kẽ nhau. Cao chót vót chỉ ở độ cao 4500 ft, nó tương đối ngắn.<sup id="cite_ref-K_4-2" class="reference"><a href="#cite_note-K-4">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
 ### Hành động trực tiếp {#Live_action}
 
-<b>2001-03: <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a>:</b>
+<b>2001-03: <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim)</a>:</b>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Mount_Doom.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9d/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Mount_Doom.jpg/300px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Mount_Doom.jpg" decoding="async" loading="lazy" width="300" height="126" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9d/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Mount_Doom.jpg/450px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Mount_Doom.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9d/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Mount_Doom.jpg/600px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Mount_Doom.jpg 2x" data-file-width="728" data-file-height="305"/></a><figcaption>Mount Doom in <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>.</figcaption></figure>
 
 <dl><dd><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_Ngauruhoe" title="wikipedia:Mount Ngauruhoe">Mount Ngauruhoe</a> was used as Mount Doom in some scenes. In long shots, the mountain is either a large model or a CGI effect, or a combination. It was not permitted to film the summit of Ngauruhoe because it is sacred to the Maori of the region. However, some scenes which showed the slopes of Mount Doom were filmed on the actual slopes of <a class="extiw" href="http://en.wikipedia.org/wiki/Mount_Ruapehu" title="wikipedia:Mount Ruapehu">Mount Ruapehu</a>.</dd></dl>
 
-<b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">Chúa tể của những chiếc nhẫn: Những chiếc nhẫn quyền lực</a></i>:</b>
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Rings_of_Power_(TV_series)_-_Eruption_of_Orodruin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/21/The_Rings_of_Power_%28TV_series%29_-_Eruption_of_Orodruin.jpg/300px-The_Rings_of_Power_%28TV_series%29_-_Eruption_of_Orodruin.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/21/The_Rings_of_Power_%28TV_series%29_-_Eruption_of_Orodruin.jpg/450px-The_Rings_of_Power_%28TV_series%29_-_Eruption_of_Orodruin.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/21/The_Rings_of_Power_%28TV_series%29_-_Eruption_of_Orodruin.jpg/600px-The_Rings_of_Power_%28TV_series%29_-_Eruption_of_Orodruin.jpg 2x" data-file-width="640" data-file-height="360"/></a><figcaption>The eruption of Orodruin in <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>.</figcaption></figure>
 
@@ -142,21 +142,21 @@ Theo [Karen Fonstad](../K/Karen_Fonstad.md), Núi Doom rõ ràng là một <a cl
 
 ### Trò chơi điện tử {#Video_games}
 
-<b>2003: <a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md" title="The Lord of the Rings: The Return of the King (video game)"><i>The Lord of the Rings: The Return of the King</i> (trò chơi điện tử)</a>:</b>
+<b>2003: <a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md" title="The Lord of the Rings: The Return of the King (video game)"><i>Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</i> (trò chơi điện tử)</a>:</b>
 
 <dl><dd>The last level takes place within Mount Doom where the player controls Frodo and must cast Gollum into the lava.</dd></dl>
 
-<b>2014: <a href="Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor"><i>Trung Địa: Bóng Tối của Mordor</i> (trò chơi điện tử)</a>:</b>
+<b>2014: <a href="Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor"><i>Trung địa: Bóng tối của Mordor</i> (trò chơi điện tử)</a>:</b>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Shadow_of_Mordor_-_Mount_Doom.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/07/Shadow_of_Mordor_-_Mount_Doom.png/300px-Shadow_of_Mordor_-_Mount_Doom.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/07/Shadow_of_Mordor_-_Mount_Doom.png/450px-Shadow_of_Mordor_-_Mount_Doom.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/07/Shadow_of_Mordor_-_Mount_Doom.png/600px-Shadow_of_Mordor_-_Mount_Doom.png 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The eruption of Mount Doom in <i><a href="Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Middle-earth: Shadow of Mordor</a></i>.</figcaption></figure>
 
 <dl><dd>Mount Doom first appeared in the game as a background in the Prologue, then it appeared once more as it erupted in the final mission that is called: Mordor in Flames.</dd></dl>
 
-<b>2017: <a href="Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War"><i>Trung Địa: Bóng Tối of War</i> (trò chơi điện tử)</a>:</b>
+<b>2017: <a href="Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War"><i>Trung địa: Bóng tối chiến tranh</i> (trò chơi điện tử)</a>:</b>
 
 <dl><dd>Mount Doom appeared in the Prologue scene and became part of the free roam world in the game.</dd></dl>
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Mount_Doom.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/eb/The_Lord_of_the_Rings_Online_-_Mount_Doom.jpg/300px-The_Lord_of_the_Rings_Online_-_Mount_Doom.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/eb/The_Lord_of_the_Rings_Online_-_Mount_Doom.jpg/450px-The_Lord_of_the_Rings_Online_-_Mount_Doom.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/eb/The_Lord_of_the_Rings_Online_-_Mount_Doom.jpg/600px-The_Lord_of_the_Rings_Online_-_Mount_Doom.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Mount Doom in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 

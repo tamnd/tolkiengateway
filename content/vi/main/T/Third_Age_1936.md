@@ -21,12 +21,12 @@ langlinks:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1919.md" title="Third Age 1919">1919</a><a href="Third_Age_1928.md" title="Third Age 1928">1928</a><a href="Third_Age_1934.md" title="Third Age 1934">1934</a><a class="mw-selflink selflink">1936</a><a href="Third_Age_1938.md" title="Third Age 1938">1938</a><a href="Third_Age_1940.md" title="Third Age 1940">1940</a><a href="Third_Age_1944.md" title="Third Age 1944">1944</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 1936** (viết tắt là **T.A. 1936**) là năm [năm 1936 năm Mặt Trời](../Y/Years_of_the_Sun.md) năm [Kỷ Đệ Tam](Third_Age.md) năm [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 1936 còn được gọi là **S.R. 336** trong [lịch Shire](../S/Shire-reckoning.md).
+**Thời đại thứ ba 1936** (viết tắt là **T.A. 1936**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1936 của [Thời đại thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba năm 1936 còn được gọi là **S.R. 336** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cái chết của [Vua](../K/Kings_of_Gondor.md) [Calimehtar](<../C/Calimehtar_(King_of_Gondor).md>) của [Gondor](../G/Gondor.md).<sup id="cite_ref-AppA_1-0" class="reference"><a href="#cite_note-AppA-1">[1]</a></sup>
-- [Ondoher](../O/Ondoher.md), con trai của Calimehtar, trở thành [Vua](../K/Kings_of_Gondor.md) thứ ba mươi mốt của [Gondor](../G/Gondor.md).<sup id="cite_ref-AppA_1-1" class="reference"><a href="#cite_note-AppA-1">[1]</a></sup>
+- [Ondoher](../O/Ondoher.md), con trai của Calimehtar, trở thành [Vua](../K/Kings_of_Gondor.md) thứ 31 của [Gondor](../G/Gondor.md).<sup id="cite_ref-AppA_1-1" class="reference"><a href="#cite_note-AppA-1">[1]</a></sup>
 
 <span></span>
 

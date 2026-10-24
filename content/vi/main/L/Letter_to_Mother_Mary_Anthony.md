@@ -14,10 +14,10 @@ sort_keys:
   "Letters": "Anthony, Mary"
 ---
 
-Vào [12 tháng 4](../_/12_April.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Mẹ Mary Anthony**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
+Vào [12 tháng 4](../_/12_April.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi Mẹ Mary Anthony**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
 
-- **Chủ đề:** [Charles Williams](../C/Charles_Williams.md). Tolkien viết rằng anh ấy có rất ít hiểu biết cá nhân về "*biographical or mental history*" của Williams, và rằng anh ấy "*không có cuộc thảo luận cá nhân nào với anh ấy về văn học. Công việc của anh ấy không khiến tôi hài lòng* \[...\] *Nhưng tôi thấy anh ấy là một người bạn đồng hành dễ chịu về mặt xã hội*."
-- **Xuất bản:** Các đoạn trích từ bức thư đã xuất hiện trong [*Mythlore* 45](../M/Mythlore_45.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và trong [*Người đồng hành và Hướng dẫn J.R.R. Tolkien: Niên đại*](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (tr. 662).
+- **Chủ đề:** [Charles Williams](../C/Charles_Williams.md). Tolkien viết rằng ông có rất ít kiến ​​thức cá nhân về "*biographical or mental history*" của Williams, và rằng ông "*không có cuộc thảo luận cá nhân nào với ông về văn học. Công việc của ông không mang lại cho tôi niềm vui nào* \[...\] *Nhưng tôi thấy ông là một người bạn đồng hành dễ chịu về mặt xã hội*."
+- **Xuất bản:** Các đoạn trích từ bức thư đã xuất hiện trong [*Mythlore* 45](../M/Mythlore_45.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và trong [*The J.R.R. Tolkien Companion and Guide: Chronology*](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (tr. 662).
 
 <span></span>
 

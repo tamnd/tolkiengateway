@@ -36,16 +36,16 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Madonna_in_Birmingham_Oratory.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/47/Madonna_in_Birmingham_Oratory.jpg/300px-Madonna_in_Birmingham_Oratory.jpg" decoding="async" loading="lazy" width="300" height="404" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/47/Madonna_in_Birmingham_Oratory.jpg/450px-Madonna_in_Birmingham_Oratory.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/47/Madonna_in_Birmingham_Oratory.jpg/600px-Madonna_in_Birmingham_Oratory.jpg 2x" data-file-width="966" data-file-height="1301"/></a><figcaption>Madonna statue at the <a href="../B/Birmingham_Oratory.md" title="Birmingham Oratory">Birmingham Oratory</a>, where Tolkien attended mass during his childhood</figcaption></figure>
 
-**Đức Trinh Nữ Maria** là nhân vật chủ chốt trong [Cơ đốc giáo](../C/Christianity.md). Là một người sùng đạo Công giáo La Mã, [Tolkien](../T/Tolkien.md) có sự sùng kính đặc biệt đối với cô, đến mức tuyên bố rằng tất cả "nhận thức của anh về vẻ đẹp vừa uy nghiêm vừa giản dị" đều dựa trên cô.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cảm hứng của cô trong tác phẩm của Tolkien được phản ánh qua những bài thơ, bản dịch lời cầu nguyện và sự phát triển tính cách.
+**Đức Trinh Nữ Maria** là nhân vật chủ chốt trong [Kitô giáo](../C/Christianity.md). Là một người sùng đạo Công giáo La Mã, [Tolkien](../T/Tolkien.md) có sự tôn sùng đặc biệt đối với cô, đến mức tuyên bố rằng tất cả "nhận thức về vẻ đẹp vừa uy nghi vừa giản dị" của ông đều dựa trên cô.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cảm hứng của cô trong tác phẩm của Tolkien được phản ánh qua những bài thơ, bản dịch lời cầu nguyện và sự phát triển tính cách.
 
 <h2><span id="Appearances_in_Tolkien.27s_work"></span><span class="mw-headline" id="Appearances_in_Tolkien&#39;s_work">Appearances in Tolkien&#39;s work</span></h2>
 
-- Cầu nguyện trong [Quenya](../Q/Quenya.md)
+- Những lời cầu nguyện ở [Quenya](../Q/Quenya.md)
     - *[Aia María](../A/Aia_María.md)*
     - *[Ortírielyanna](../O/Ortírielyanna.md)*
     - *[Litany of Loreto](../L/Litany_of_Loreto.md)*
 - *[Mother! O Lady Throned beyond the Stars](../M/Mother!_O_Lady_Throned_beyond_the_Stars.md)* (thơ)
-- [Galadriel](../G/Galadriel.md) (ban đầu được mô phỏng theo Mary, một kết nối được Tolkien thừa nhận nhưng sau đó đã thay đổi)
+- [Galadriel](../G/Galadriel.md) (ban đầu được mô phỏng theo Mary, một mối liên hệ mà Tolkien thừa nhận nhưng sau đó đã thay đổi)
 
 ## Xem thêm {#See_also}
 

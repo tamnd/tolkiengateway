@@ -11,4 +11,4 @@ redirect_target: "Tulkas"
 redirect_fragment: "Other names"
 ---
 
-Chuyển hướng đến [Tulkas](../T/Tulkas.md#Other_names).
+Chuyển hướng tới [Tulkas](../T/Tulkas.md#Other_names).

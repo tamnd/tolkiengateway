@@ -34,7 +34,7 @@ infobox:
 
 <i><b>Tiểu luận văn học chọn lọc</b></i> là tập hợp các tiểu luận của [C.S. Lewis](../C/C.S._Lewis.md). Cuốn sách đã được tái bản nhiều lần.
 
-Một ghi chú cho bài tiểu luận "The Alliterative Meter" trích dẫn từ [một bức thư](../L/Letter_300.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi <a class="extiw" href="http://en.wikipedia.org/wiki/Walter_Hooper" title="wikipedia:Walter Hooper">Walter Hooper</a> về bối cảnh bài thơ "We Were Talking of Rồng" của Lewis.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Một ghi chú cho bài luận "The Alliterative Meter" trích dẫn từ [một bức thư](../L/Letter_300.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi <a class="extiw" href="http://en.wikipedia.org/wiki/Walter_Hooper" title="wikipedia:Walter Hooper">Walter Hooper</a> về bối cảnh bài thơ "We Were Talking of Dragons" của Lewis.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nhà xuất bản {#From_the_publisher}
 

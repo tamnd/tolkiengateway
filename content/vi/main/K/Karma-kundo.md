@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Regent of Gondor"
 ---
 
-Chuyển hướng tới [Regent của Gondor](../R/Regent_of_Gondor.md).
+Chuyển hướng đến [Nhiếp chính Gondor](../R/Regent_of_Gondor.md).

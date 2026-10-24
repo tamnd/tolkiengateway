@@ -24,7 +24,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-<i><b>-më</b></i> là từ giống cái tương đương với đuôi *[-mo](-mo.md)*nam tính. Kết thúc này có vẻ hiếm gặp, có lẽ vì nó dễ bị nhầm lẫn với kết thúc danh nghĩa *[-më](-me.md)*.
+<i><b>-më</b></i> là từ giống cái tương đương với đuôi *[-mo](-mo.md)* nam tính. Kết thúc này có vẻ hiếm gặp, có lẽ vì nó dễ bị nhầm lẫn với kết thúc danh nghĩa *[-më](-me.md)*.
 
 ## Ví dụ {#Examples}
 

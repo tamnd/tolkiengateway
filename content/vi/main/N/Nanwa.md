@@ -13,7 +13,7 @@ categories:
   - "Quenya adjectives"
 ---
 
-<i><b>nanwa</b></i> là [Quenya](../Q/Quenya.md) có nghĩa là "tồn tại, thực tế (đúng)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Từ này có khả năng bắt nguồn từ [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) <a href="../A/ANA.md" title="ANA">ANA<sup>2</sup></a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=N%C4%80&amp;action=edit&amp;redlink=1" title="NĀ (page does not exist)">NĀ<sup>2</sup></a>. So sánh từ gần đồng nghĩa *[anwa](../A/Anwa.md)*.
+<i><b>nanwa</b></i> là [Quenya](../Q/Quenya.md) có nghĩa là "tồn tại, thực tế (đúng)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Từ này có thể bắt nguồn từ [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) <a href="../A/ANA.md" title="ANA">ANA<sup>2</sup></a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=N%C4%80&amp;action=edit&amp;redlink=1" title="NĀ (page does not exist)">NĀ<sup>2</sup></a>. So sánh từ gần đồng nghĩa *[anwa](../A/Anwa.md)*.
 
 <span></span>
 

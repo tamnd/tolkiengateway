@@ -37,7 +37,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien: Man and Myth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Joseph Pearce</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Ignatius Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">February <a href="../_/1999.md" title="1999">1999</a> (Softcover: December <a href="../_/2001.md" title="2001">2001</a>)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover/Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">242/257</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0898708257" title="Special:BookSources/0898708257">0898708257</a></td></tr></tbody></table>
 
-<i><b>Tolkien: Con người và huyền thoại. Một Đời Văn Học</b></i> là cuốn sách về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được phát hành lần đầu tiên bởi HarperCollins ở định dạng bìa cứng và sau đó ở Hoa Kỳ ở cả phiên bản bìa cứng và bìa mềm.
+<i><b>Tolkien: Con người và huyền thoại. Một Đời Văn Học</b></i> là cuốn sách viết về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được HarperCollins phát hành lần đầu tiên ở định dạng bìa cứng và sau đó ở Mỹ ở cả phiên bản bìa cứng và bìa mềm.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -56,11 +56,11 @@ infobox:
 3. Cha Phanxicô gửi ông già Noel: người cha đằng sau huyền thoại
 4. Huyền thoại có thật: Tolkien và sự chuyển đổi của C.S. Lewis
 5. Một vòng tình bạn: Tolkien, Lewis và Inklings
-6. Sự sáng tạo của Trung Địa: Huyền thoại đằng sau con người
-7. Tính chính thống trong Trung Địa: Sự thật đằng sau huyền thoại
-8. Cái giếng và cái bóng: Tolkien và những lời chỉ trích
-9. Tolkien vai hobbit: Người Anh đằng sau huyền thoại
-10. Sắp đến Núi Doom: Tolkien những năm cuối đời
+6. Sự hình thành Trung Địa: Huyền thoại đằng sau con người
+7. Chính thống giáo ở Trung Địa: Sự thật đằng sau huyền thoại
+8. Cái giếng và cái bóng: Tolkien và những nhà phê bình
+9. Tolkien trong vai hobbit: Người Anh đằng sau huyền thoại
+10. Tiếp cận Núi Định Mệnh: Những năm cuối đời của Tolkien
 
 - Phần kết: Mặt trời vượt lên trên mọi bóng tối
 - Thư mục

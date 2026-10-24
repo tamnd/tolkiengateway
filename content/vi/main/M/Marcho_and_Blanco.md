@@ -42,17 +42,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miriam_Ellis_-_Marcho_and_Blanco_cross_the_Brandywine.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8f/Miriam_Ellis_-_Marcho_and_Blanco_cross_the_Brandywine.jpg/320px-Miriam_Ellis_-_Marcho_and_Blanco_cross_the_Brandywine.jpg" decoding="async" loading="lazy" width="320" height="267" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8f/Miriam_Ellis_-_Marcho_and_Blanco_cross_the_Brandywine.jpg/480px-Miriam_Ellis_-_Marcho_and_Blanco_cross_the_Brandywine.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8f/Miriam_Ellis_-_Marcho_and_Blanco_cross_the_Brandywine.jpg/640px-Miriam_Ellis_-_Marcho_and_Blanco_cross_the_Brandywine.jpg 2x" data-file-width="1000" data-file-height="834"/></a><figcaption>&#34;Marcho and Blanco cross <a href="../B/Baranduin.md" title="Baranduin">the Brandywine</a>&#34; by <a href="Miriam_Ellis.md" title="Miriam Ellis">Miriam Ellis</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbits</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Marcho and Blanco</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Bree.md" title="Bree">Bree</a><br/><a href="../T/The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Notable for</th><td class="tg-infobox-data">Founding the <a class="mw-redirect" href="../S/Shire.md" title="Shire">Shire</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Marcho_and_Blanco.md" title="Category:Images of Marcho and Blanco">Images of Marcho and Blanco</a></td></tr></tbody></table>
 
-**Marcho** và **Blanco** là anh em, [Bree-hobbit](../B/Bree-hobbits.md) thuộc dòng dõi [Fallohide](../F/Fallohides.md), người đã thành lập [nhóm Shire](../T/The_Shire.md) vào năm [Kỷ Đệ Tam 1601](../T/Third_Age_1601.md).<sup id="cite_ref-hobbits_1-0" class="reference"><a href="#cite_note-hobbits-1">[1]</a></sup><sup id="cite_ref-family_2-0" class="reference"><a href="#cite_note-family-2">[2]</a></sup>
+**Marcho** và **Blanco** là anh em, [Bree-hobbit](../B/Bree-hobbits.md) thuộc dòng dõi [Fallohide](../F/Fallohides.md), người đã thành lập [Shire](../T/The_Shire.md) vào [Tuổi thứ ba năm 1601](../T/Third_Age_1601.md).<sup id="cite_ref-hobbits_1-0" class="reference"><a href="#cite_note-hobbits-1">[1]</a></sup><sup id="cite_ref-family_2-0" class="reference"><a href="#cite_note-family-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
-Trong [T.A.](../T/Third_Age.md) [1601](../T/Third_Age_1601.md), hai anh em dẫn đầu một nhóm chủ yếu là [Harfoot](../H/Harfoots.md) [hobbit](../H/Hobbits.md) về phía tây từ [Bree](../B/Bree.md).<sup id="cite_ref-family_2-1" class="reference"><a href="#cite_note-family-2">[2]</a></sup> Họ băng qua sông [Baranduin](../B/Baranduin.md) tại [Cầu Stonebows](../B/Brandywine_Bridge.md) và với sự cho phép của [Vua](../K/King_of_Arthedain.md) [Argeleb II](../A/Argeleb_II.md) họ định cư tại khu săn bắn của hoàng gia [Arthedain](../A/Arthedain.md) và thành lập [cái Shire](../T/The_Shire.md).
+Trong [T.A.](../T/Third_Age.md) [1601](../T/Third_Age_1601.md), hai anh em dẫn đầu một nhóm chủ yếu là [Harfoot](../H/Harfoots.md) [hobbit](../H/Hobbits.md) về phía tây từ [Bree](../B/Bree.md).<sup id="cite_ref-family_2-1" class="reference"><a href="#cite_note-family-2">[2]</a></sup> Họ băng qua sông [Baranduin](../B/Baranduin.md) tại [Cầu Stonebows](../B/Brandywine_Bridge.md) và với sự cho phép của [King](../K/King_of_Arthedain.md) [Argeleb II](../A/Argeleb_II.md) họ định cư tại khu săn bắn của hoàng gia [Arthedain](../A/Arthedain.md) và thành lập [Quận](../T/The_Shire.md).
 
-Ngay sau đó (c. [T.A.](../T/Third_Age.md) [1630](../T/Third_Age_1630.md)) họ được tham gia bởi [Stoors](../S/Stoors.md), những người đến từ [Dunland](../D/Dunland.md) và định cư tại Shire.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Ngay sau đó (c. [T.A.](../T/Third_Age.md) [1630](../T/Third_Age_1630.md)) họ có sự tham gia của [Stoors](../S/Stoors.md), những người đến từ [Dunland](../D/Dunland.md) và định cư ở Shire.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Marcho chứa phần tử [tiếng Anh cổ](../O/Old_English.md) <i>*marh</i> ("ngựa") và Blanco có nguồn gốc từ tiếng Anh cổ *blanca* ("ngựa trắng", "ngựa xám").<sup id="cite_ref-Shippey_4-0" class="reference"><a href="#cite_note-Shippey-4">[4]</a></sup><sup id="cite_ref-Marmor_5-0" class="reference"><a href="#cite_note-Marmor-5">[5]</a></sup>
+Marcho chứa thành phần [Tiếng Anh cổ](../O/Old_English.md) <i>*marh</i> ("ngựa") và Blanco có nguồn gốc từ tiếng Anh cổ *blanca* ("ngựa trắng", "ngựa xám").<sup id="cite_ref-Shippey_4-0" class="reference"><a href="#cite_note-Shippey-4">[4]</a></sup><sup id="cite_ref-Marmor_5-0" class="reference"><a href="#cite_note-Marmor-5">[5]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
@@ -60,11 +60,11 @@ Hai anh em có lẽ dựa trên <a class="extiw" href="http://en.wikipedia.org/w
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phiên bản đánh máy trước đó của Lời mở đầu<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> và trong phiên bản viết tay trước đó của cây phả hệ của gia đình Baggins<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>, hai anh em Hobbit, người đã thành lập Shire, được gọi là Marco và Cavallo.
+Trong phiên bản đánh máy trước đó của Lời mở đầu<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> và trong phiên bản viết tay trước đó của cây gia phả của gia đình Baggins<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>, hai anh em Hobbit, người đã thành lập Quận, được gọi là Marco và Cavallo.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-### Marcho và Blanco trong các bản chuyển thể {#Marcho_and_Blanco_in_adaptations}
+### Marcho và Blanco trong bản chuyển thể {#Marcho_and_Blanco_in_adaptations}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 285px">

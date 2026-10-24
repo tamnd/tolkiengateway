@@ -47,4 +47,4 @@ Klaus Ensikat đã minh họa phiên bản [The Hobbit](../T/The_Hobbit.md) ti�
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://ardapedia.herr-der-ringe-film.de/index.php/Klaus_Ensikat" rel="noreferrer noopener" target="_blank">Ardapedia</a> (tiếng Đức)
-- <a class="external text" href="http://pblancho.free.fr/de1/index.html" rel="noreferrer noopener" target="_blank">Minh họa cho ấn bản Hobbit tiếng Đức của Klaus Ensikat</a>
+- <a class="external text" href="http://pblancho.free.fr/de1/index.html" rel="noreferrer noopener" target="_blank">Minh họa phiên bản Hobbit tiếng Đức của Klaus Ensikat</a>

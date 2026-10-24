@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "First Age"
 ---
 
-Chuyển hướng đến [Kỷ Đệ Nhất](First_Age.md).
+Chuyển hướng đến [Thời đại đầu tiên](First_Age.md).

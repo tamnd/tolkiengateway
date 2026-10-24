@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Tháp Trắng](../../main/W/White_Towers.md) ở [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
+[Tháp Trắng](../../main/W/White_Towers.md) trong Cuộc chiến của [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
 
 ## Giấy phép {#Licensing}
 

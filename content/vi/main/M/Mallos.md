@@ -37,11 +37,11 @@ infobox:
 
 ## Từ nguyên {#Etymology}
 
-*Mallos* là tên [Sindarin](../S/Sindarin.md) có nghĩa là "bông hoa vàng",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> dường như bao gồm các yếu tố liên quan đến *[malt](Malt.md)* ("vàng") + *[loth](../L/Loth.md)*/*[loss](../L/Loss.md)* ("hoa"/"tuyết").
+*Mallos* là tên [Sindarin](../S/Sindarin.md) có nghĩa là "hoa vàng",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> dường như bao gồm các yếu tố liên quan đến *[malt](Malt.md)* ("vàng") + *[loth](../L/Loth.md)*/*[loss](../L/Loss.md)* ("hoa"/"tuyết").
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung Địa: Bóng Tối trong số Mordor</a></i>:</b>
+<b>2014: <i><a href="Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung địa: Cái bóng của Mordor</a></i>:</b>
 
 <dl><dd>Mallos is a flower which can heal <a href="../T/Talion.md" title="Talion">Talion</a>. It is described as looking similar to <a href="../A/Alfirin.md" title="Alfirin">Alfirin</a>, though Alfirin had a pleasent aroma while Mallos&#39; was musty and skunky. It is said that healers used it in combination with other flowers and its primary usage is in lozenges and draughts, which stopped coughs and soothed throats. It is mentioned that, while native to Gondor, it now grows in <a href="Mordor.md" title="Mordor">Mordor</a>, likely due to the Outcasts (Gondorian Rangers who deserted and now reside in Mordor).</dd></dl>
 

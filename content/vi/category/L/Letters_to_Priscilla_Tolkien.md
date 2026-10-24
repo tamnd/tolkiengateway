@@ -14,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Tolkien, Priscilla "
 ---
 
-Các chữ cái từ [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) đến [Priscilla Tolkien](../../main/P/Priscilla_Tolkien.md).
+Những bức thư từ [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) gửi [Priscilla Tolkien](../../main/P/Priscilla_Tolkien.md).

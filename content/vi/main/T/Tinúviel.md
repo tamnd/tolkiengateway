@@ -42,11 +42,11 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Paula_DiSante_-_Nightingale.JPG.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b9/Paula_DiSante_-_Nightingale.JPG/250px-Paula_DiSante_-_Nightingale.JPG" decoding="async" loading="lazy" width="250" height="332" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b9/Paula_DiSante_-_Nightingale.JPG/375px-Paula_DiSante_-_Nightingale.JPG 1.5x, https://tolkiengateway.net/w/images/thumb/b/b9/Paula_DiSante_-_Nightingale.JPG/500px-Paula_DiSante_-_Nightingale.JPG 2x" data-file-width="600" data-file-height="797"/></a><figcaption><i>The Spell of the Nightingale</i> by <a href="../P/Paula_DiSante.md" title="Paula DiSante">Paula DiSante</a></figcaption></figure>
 
-**Tinúviel** ([S](../S/Sindarin.md), phát âm <span title="Pronunciation in IPA" class="IPA">[tiˈnuːvjel]</span>) là một [Sindarin](../S/Sindarin.md) thuật ngữ thơ ca, mặc dù không phải là tên theo nghĩa đen, dành cho '[Chim sơn ca](../N/Nightingale.md)'. Tên này lần đầu tiên được đặt cho [Lúthien](../L/Lúthien.md) của [Doriath](../D/Doriath.md) bởi [Beren](../B/Beren.md) khi lần đầu tiên anh nhìn thấy cô ấy nhảy múa trong rừng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Tinúviel** ([S](../S/Sindarin.md), phát âm <span title="Pronunciation in IPA" class="IPA">[tiˈnuːvjel]</span>) là một [Sindarin](../S/Sindarin.md) thuật ngữ thơ ca, mặc dù không phải là tên theo nghĩa đen, dành cho '[Chim sơn ca](../N/Nightingale.md)'. Cái tên này lần đầu tiên được đặt cho [Lúthien](../L/Lúthien.md) của [Doriath](../D/Doriath.md) bởi [Beren](../B/Beren.md) khi lần đầu tiên anh nhìn thấy cô nhảy múa trong rừng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ này bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) *tindômiselde*. Theo nghĩa đen nó có nghĩa là "Con gái của Chạng vạng".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Từ này bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) *tindômiselde*. Theo nghĩa đen nó có nghĩa là "Con gái của Chạng vạng".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Nó có thể được phân tích dưới dạng <i><a href="Tinnu.md" title="Tinnu">tinnu</a>(w) + <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sell&amp;action=edit&amp;redlink=1" title="Sell (page does not exist)">sell</a></i>.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 

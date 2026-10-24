@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien kể cho con trai mình [Michael Tolkien](../M/Michael_Tolkien.md) về hai người phụ nữ, mẹ và con dâu, những người đã ở cùng người Tolkiens trong <a class="extiw" href="http://en.wikipedia.org/wiki/The_Blitz" title="wikipedia:The Blitz">Blitz</a>. Sáng hôm đó họ quay trở lại London và Tolkien nhận xét rằng anh chưa bao giờ thấy những tâm hồn đơn giản, bất lực, hiền lành và bất hạnh hơn thế. Cả hai người phụ nữ đều phải xa chồng lần đầu tiên trong đời và "thích bị nổ tung thành từng mảnh". <br>
+Tolkien kể cho con trai mình [Michael Tolkien](../M/Michael_Tolkien.md) về hai người phụ nữ, mẹ và con dâu, những người đã ở cùng nhà Tolkien trong <a class="extiw" href="http://en.wikipedia.org/wiki/The_Blitz" title="wikipedia:The Blitz">Blitz</a>. Họ quay trở lại London vào sáng hôm đó, và Tolkien nhận xét rằng ông chưa bao giờ nhìn thấy những tâm hồn đơn giản, bất lực, hiền lành và bất hạnh hơn thế. Cả hai người phụ nữ đều phải xa chồng lần đầu tiên trong đời và "thích bị nổ tung thành từng mảnh". <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

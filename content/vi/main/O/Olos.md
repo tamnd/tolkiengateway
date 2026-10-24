@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>Olos</b></i> (cách viết khác *olor*) là [Quenya](../Q/Quenya.md) cho "giấc mơ, tầm nhìn / của tâm trí". Nó được kết nối với tên Quenya của [Gandalf](../G/Gandalf.md) *[Olórin](../G/Gandalf.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
+<i><b>Olos</b></i> (cách viết biến thể *olor*) là [Quenya](../Q/Quenya.md) có nghĩa là "giấc mơ, tầm nhìn / tâm trí". Nó được kết nối với tên Quenya của [Gandalf](../G/Gandalf.md) *[Olórin](../G/Gandalf.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
 
 Từ này bắt nguồn từ [gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%93LOS&amp;action=edit&amp;redlink=1" title="ÓLOS (page does not exist)">ÓLOS</a>.<sup id="cite_ref-LR_3-1" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
 

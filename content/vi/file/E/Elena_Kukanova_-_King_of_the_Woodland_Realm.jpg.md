@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"*[King](../../main/T/Thranduil.md) of the [Woodland Realm](../../main/W/Woodland_Realm.md)*", bởi [Elena Kukanova](../../main/E/Elena_Kukanova.md)
+"*[King](../../main/T/Thranduil.md) of the [Woodland Realm](../../main/W/Woodland_Realm.md)*", của [Elena Kukanova](../../main/E/Elena_Kukanova.md)
 
 ## Giấy phép {#Licensing}
 

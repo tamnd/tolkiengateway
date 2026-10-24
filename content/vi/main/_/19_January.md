@@ -66,12 +66,12 @@ Sự kiện xảy ra vào ngày 19 tháng 1.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1918](1918.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tham gia hội đồng y tế khám. Anh ta đóng quân tại Quân đoàn Phòng thủ Hoàng gia số 9 tại Easington.
+- **[1918](1918.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tham dự buổi khám của hội đồng y tế. Ông ta đóng quân tại Quân đoàn Phòng thủ Hoàng gia số 9 tại Easington.
 - **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 268](../L/Letter_268.md).
-- **[1996](1996.md)** - Nhóm [Tolkien Ensemble](../T/Tolkien_Ensemble.md) có buổi biểu diễn đầu tiên tại Lâu đài Gjorslev, <a class="extiw" href="http://en.wikipedia.org/wiki/Denmark" title="wikipedia:Denmark">Đan Mạch</a>.
-- **[2022](2022.md)** - Tiêu đề chính thức của [The Lord of the Rings phim truyền hình dài tập](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) được công bố.
+- **[1996](1996.md)** - [Tolkien Ensemble](../T/Tolkien_Ensemble.md) có buổi biểu diễn đầu tiên tại Lâu đài Gjorslev, <a class="extiw" href="http://en.wikipedia.org/wiki/Denmark" title="wikipedia:Denmark">Đan Mạch</a>.
+- **[2022](2022.md)** - Tiêu đề chính thức của [The Lord of the Rings tv series](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) được công bố.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
+    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).

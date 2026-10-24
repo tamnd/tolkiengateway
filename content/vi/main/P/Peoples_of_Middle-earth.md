@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Peoples of Middle-earth"
 ---
 
-Chuyển hướng đến [The Peoples of Middle-earth](../T/The_Peoples_of_Middle-earth.md).
+Chuyển hướng tới [Các dân tộc ở Trung địa](../T/The_Peoples_of_Middle-earth.md).

@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Allen &amp; Unwin đề xuất ngày 20 tháng 10 năm 1955 là ngày xuất bản cho *The Return of the King*. Tolkien cầu xin họ đừng thất bại; đó là ngày cuối cùng có thể vì ngày hôm sau anh ấy phải giảng Bài giảng O'Donnell đầu tiên (quá hạn) của mình. Anh ấy hy vọng rằng một bộ phận lớn khán giả sẽ thức khuya đọc sách vào đêm hôm trước và do đó không nhận thấy sự thiếu hụt trầm trọng của trang thiết bị giảng dạy về chủ đề Celtic của anh ấy. Anh ấy cũng muốn ám chỉ đến cuốn sách vì bài giảng của anh ấy nói về "Celticness" và mô hình ngôn ngữ của nó.
+Allen & Unwin đề xuất ngày 20 tháng 10 năm 1955 là ngày xuất bản cho *The Return of the King*. Tolkien cầu xin họ đừng thất bại; đó là ngày cuối cùng có thể vì ngày hôm sau ông phải giảng Bài giảng O'Donnell đầu tiên (quá hạn) của mình. Ông hy vọng rằng một bộ phận lớn khán giả sẽ thức khuya đọc sách vào đêm hôm trước và do đó không nhận thấy việc ông thiếu thiết bị nghiêm trọng với tư cách là một giảng viên về chủ đề Celtic. Ông cũng muốn ám chỉ đến cuốn sách vì bài giảng của ông nói về "Celticness" và mô hình ngôn ngữ của nó.
 
 <br>
 

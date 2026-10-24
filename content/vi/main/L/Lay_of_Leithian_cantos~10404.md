@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cantos of the Lay of Leithian"
 ---
 
-Chuyển hướng đến [Cantos của Lay of Leithian](../C/Cantos_of_the_Lay_of_Leithian.md).
+Chuyển hướng đến [Cantos of the Lay of Leithian](../C/Cantos_of_the_Lay_of_Leithian.md).

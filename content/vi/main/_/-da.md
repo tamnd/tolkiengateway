@@ -14,13 +14,13 @@ sort_keys:
   "Quenya suffixes": "da"
 ---
 
-<i><b>-da</b></i> là hậu tố [Primitive Elvish](../P/Primitive_Elvish.md) cho tích bị động của một hành động.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>-da</b></i> là hậu tố [Tiên nguyên thủy](../P/Primitive_Elvish.md) cho sản phẩm thụ động của một hành động.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 Được sử dụng để biểu thị kết quả thụ động của hành động và khi được sử dụng thực chất là một sản phẩm duy nhất của hành động này. Tolkien lưu ý rằng "*dā* (biến thể của *nā*)" và "trong thực tế, các từ biểu thị sản phẩm được tìm thấy được làm bằng *dā* hoặc *tā* (kéo dài do ảnh hưởng của *dā*)"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-## Quenya ví dụ {#Quenya_examples}
+## Ví dụ về Quenya {#Quenya_examples}
 
 - <i><a href="../Y/Yulda.md" title="Yulda">yul<b>da</b></a></i> = "bản nháp"
 - <i>xe<b>da</b></i> = "chứng thư"

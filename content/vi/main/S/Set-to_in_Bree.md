@@ -41,23 +41,23 @@ infobox:
 <ul><li><a href="../W/Willie_Banks.md" title="Willie Banks">Willie Banks</a> from up-away</li>
 <li>one member of <a href="../U/Underhill_Family.md" title="Underhill Family">Underhill Family</a> from <a href="Staddle.md" title="Staddle">Staddle</a></li></ul></div><div class="template-flexbox-item" style="--template-flexbox-item-span:1">Unknown</div></div></td></tr></tbody></table>
 
-Đã có một **cuộc xung đột nhỏ**<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> **trong [Bree](../B/Bree.md)** giữa [Bree-landers](../B/Bree-landers.md) và [bọn lưu manh](../R/Ruffians.md), xảy ra sớm vào [T.A. 3019](../T/Third_Age_3019.md).
+Có một **sự xung đột nhỏ**<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> **ở [Bree](../B/Bree.md)** giữa [Bree-landers](../B/Bree-landers.md) và [những kẻ lưu manh](../R/Ruffians.md), xảy ra sớm vào [T.A. 3019](../T/Third_Age_3019.md).
 
 ## Lịch sử {#History}
 
 ### Mở đầu {#Prelude}
 
-Trong mùa thu [T.A, 3018](../T/Third_Age_3018.md) ngày càng có nhiều Con Người đến Bree lên [Greenway](../G/Greenway.md) từ phía nam. Trong khi một số người trong số họ là người tị nạn, nhiều người trong số họ là những người đàn ông xấu.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> Trước khi kết thúc [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md) Bree-landers đã trục xuất những người mới đến khỏi Bree. Hai kẻ phản bội ở Bree-lander, [Harry Goatleaf](../H/Harry_Goatleaf.md) và [Bill Ferny](../B/Bill_Ferny.md), đã tham gia cùng bọn côn đồ và bỏ đi cùng chúng.<sup id="cite_ref-:1_2-0" class="reference"><a href="#cite_note-:1-2">[2]</a></sup>
+Trong mùa thu [T.A, 3018](../T/Third_Age_3018.md) ngày càng có nhiều Đàn ông đến Bree up [Greenway](../G/Greenway.md) từ phía nam. Trong khi một số người trong số họ là người tị nạn, nhiều người trong số họ là những người đàn ông xấu.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> Trước khi kết thúc [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md) những người đổ bộ Bree đã trục xuất những người mới đến khỏi Bree. Hai kẻ phản bội ở Bree-lander, [Harry Goatleaf](../H/Harry_Goatleaf.md) và [Bill Ferny](../B/Bill_Ferny.md), đã tham gia cùng bọn côn đồ và bỏ đi cùng chúng.<sup id="cite_ref-:1_2-0" class="reference"><a href="#cite_note-:1-2">[2]</a></sup>
 
 ### Trận chiến {#Battle}
 
-Đầu [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) sau một trận tuyết rơi dày đặc, những Con Người bị trục xuất này đã tấn công Bree vào ban đêm. [Barliman Butterbur](../B/Barliman_Butterbur.md) nghi ngờ rằng [Harry Goatleaf](../H/Harry_Goatleaf.md) và [Bill Ferny](../B/Bill_Ferny.md) có thể để bọn lưu manh vào.<sup id="cite_ref-:1_2-1" class="reference"><a href="#cite_note-:1-2">[2]</a></sup>
+Đầu [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) sau một trận tuyết rơi dày đặc, những Người đàn ông bị trục xuất này đã tấn công Bree vào ban đêm. [Barliman Butterbur](../B/Barliman_Butterbur.md) nghi ngờ rằng [Harry Goatleaf](../H/Harry_Goatleaf.md) và [Bill Ferny](../B/Bill_Ferny.md) có thể để bọn lưu manh vào.<sup id="cite_ref-:1_2-1" class="reference"><a href="#cite_note-:1-2">[2]</a></sup>
 
-Kết quả là Bree-landers phải chịu một số nhân quả. Ba trong số [Người Bree](../M/Men_of_Bree.md) ([Mat Heathertoes](../M/Mat_Heathertoes.md), [Rowlie Appledore](../R/Rowlie_Appledore.md) và [Tom Pickthorn](../T/Tom_Pickthorn.md) nhỏ từ [Hill](../B/Bree-hill.md)) và hai trong số [Bree-hobbit](../B/Bree-hobbits.md) ([Willie Banks](../W/Willie_Banks.md) từ phía trên và là thành viên của [Underhill Gia đình](../U/Underhill_Family.md) từ [Staddle](Staddle.md)) đã bị giết.<sup id="cite_ref-:1_2-2" class="reference"><a href="#cite_note-:1-2">[2]</a></sup> Tuy nhiên, bọn côn đồ đã bị đánh bại.
+Kết quả là Bree-landers phải chịu một số nhân quả. Ba trong số [Men of Bree](../M/Men_of_Bree.md) ([Mat Heathertoes](../M/Mat_Heathertoes.md), [Rowlie Appledore](../R/Rowlie_Appledore.md) và [Tom Pickthorn](../T/Tom_Pickthorn.md) nhỏ từ [Hill](../B/Bree-hill.md)), và hai trong số [Bree-hobbit](../B/Bree-hobbits.md) ([Willie Banks](../W/Willie_Banks.md) từ phía trên và là thành viên của [Underhill Gia đình](../U/Underhill_Family.md) từ [Stddle](Staddle.md)) đã bị giết.<sup id="cite_ref-:1_2-2" class="reference"><a href="#cite_note-:1-2">[2]</a></sup> Tuy nhiên, bọn côn đồ đã bị đánh bại.
 
 ### Hậu quả {#Aftermath}
 
-Sau cuộc giao tranh này, một số kẻ côn đồ này đã rút lui vào khu rừng bên ngoài [Archet](../A/Archet.md), nơi chúng sống như những tên cướp,<sup id="cite_ref-:2_3-0" class="reference"><a href="#cite_note-:2-3">[3]</a></sup> trong khi những kẻ khác, như Bill Ferny, tham gia cùng đồng đội của chúng trong [Shire](../T/The_Shire.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Sau cuộc giao tranh này, một số kẻ lưu manh này đã rút lui vào khu rừng ngoài [Archet](../A/Archet.md), nơi họ sống như những tên cướp,<sup id="cite_ref-:2_3-0" class="reference"><a href="#cite_note-:2-3">[3]</a></sup> trong khi những người khác, như Bill Ferny, cùng đồng đội của họ đến [Shire](../T/The_Shire.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Bất chấp chiến thắng của họ, người đổ bộ Bree vẫn tiếp tục gặp rắc rối bởi những kẻ côn đồ, vì [con đường](../E/East_Road.md) không an toàn, không ai có thể đi xa và người dân khóa nhà sớm. Người đổ bộ Bree phải có người canh gác quanh hàng rào và nhiều người canh gác cổng vào ban đêm để bảo vệ mình khỏi các cuộc tấn công tiếp theo.<sup id="cite_ref-:2_3-1" class="reference"><a href="#cite_note-:2-3">[3]</a></sup>
 

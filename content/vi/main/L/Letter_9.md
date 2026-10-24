@@ -38,11 +38,11 @@ infobox:
 
 ## Nền {#Background}
 
-Cô Susan Dagnall, một sinh viên tốt nghiệp Oxford, đã đọc một bản đánh máy chưa hoàn thiện của *[The Hobbit](../T/The_Hobbit.md)* và đề nghị Tolkien đề nghị xuất bản nó (các tài liệu về việc này được đưa ra trong Thư [163](Letter_163.md), [257](Letter_257.md) và [294](Letter_294.md)). Cuốn sách đã được chấp nhận.
+Cô Susan Dagnall, một sinh viên tốt nghiệp Oxford, đã đọc một bản đánh máy chưa hoàn thiện của *[The Hobbit](../T/The_Hobbit.md)* và đề nghị Tolkien cung cấp nó để xuất bản (các tài liệu về việc này được đưa ra trong Letters [163](Letter_163.md), [257](Letter_257.md) và [294](Letter_294.md)). Cuốn sách đã được chấp nhận.
 
 ## Tóm tắt {#Summary}
 
-Bức thư này có tiêu đề "*Maps &amp;c. for The Hobbit*". Tolkien gửi các phiên bản vẽ lại của bản đồ và hình minh họa để đưa vào tập xuất bản. Anh ấy xin lỗi vì "kỹ năng nhỏ và không có kinh nghiệm chuẩn bị những thứ như vậy" của mình, nhưng tuy nhiên hy vọng chúng có thể được đưa vào. <br>
+Bức thư này có tiêu đề "*Maps &amp;c. for The Hobbit*". Tolkien gửi các phiên bản vẽ lại của bản đồ và hình minh họa để đưa vào tập đã xuất bản. Ông xin lỗi vì "kỹ năng nhỏ và không có kinh nghiệm chuẩn bị những thứ như vậy" của mình, nhưng tuy nhiên hy vọng chúng có thể được đưa vào. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

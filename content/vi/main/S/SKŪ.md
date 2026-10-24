@@ -14,13 +14,13 @@ sort_keys:
   "Roots": "SKU"
 ---
 
-**SKŪ** và **KHŪ** là [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](Sundocarme.md) biểu thị "lời nguyền".<sup id="cite_ref-Eldarin_1-0" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
+**SKŪ** và **KHŪ** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](Sundocarme.md) biểu thị "lời nguyền".<sup id="cite_ref-Eldarin_1-0" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
 
 Từ gốc của nghĩa trái ngược là [AYA](../A/AYA~31206.md).<sup id="cite_ref-Eldarin_1-1" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Quenya](../Q/Quenya.md): *hūna* ("đáng nguyền rủa, đáng nguyền rủa"); *húta* ("chửi rủa")<sup id="cite_ref-Eldarin_1-2" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
+- [Quenya](../Q/Quenya.md): *hūna* ("bị nguyền rủa, bị nguyền rủa"); *húta* ("chửi rủa")<sup id="cite_ref-Eldarin_1-2" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư gửi con trai [Michael](../M/Michael_Tolkien.md) này, Tolkien suy ngẫm về những niềm vui và thử thách khi viết thư. Anh ấy thấy việc nhận được những lá thư rất nâng cao tinh thần và nhận thấy cả anh ấy và Michael đều có chung xu hướng dùng từ ngữ khơi dậy những từ khác, dẫn đến những suy nghĩ lang thang theo nhiều hướng khác nhau. Tolkien bày tỏ rằng bản thân việc viết lách đã mang lại niềm vui, mặc dù việc ổn định để làm điều đó có thể khó khăn.
+Trong bức thư gửi con trai [Michael](../M/Michael_Tolkien.md) này, Tolkien phản ánh những niềm vui và thách thức của việc viết thư. Ông thấy việc nhận được những bức thư rất phấn khích và lưu ý rằng cả ông và Michael đều có chung xu hướng dùng từ ngữ để khơi dậy những từ khác, khiến những suy nghĩ đi lang thang theo nhiều hướng khác nhau. Tolkien bày tỏ rằng bản thân việc viết lách đã mang lại niềm vui, mặc dù việc ổn định để làm điều đó có thể khó khăn.
 
-Anh ấy đối lập phong cách của mình với phong cách của ["mummy"](../E/Edith_Tolkien.md), người viết rõ ràng và ngắn gọn. Trong khi lối viết ngắn gọn đến với cô một cách tự nhiên, Tolkien thừa nhận rằng để đạt được sự ngắn gọn như vậy đối với anh là một quá trình tốn nhiều công sức. Anh ấy thường chỉ đạt được phong cách "laconic" này như một loại hình nghệ thuật, bằng cách chỉnh sửa và cắt bớt nhiều những gì anh ấy đã viết, một công việc mà anh ấy thấy tốn nhiều thời gian và khắt khe. <br>
+Ông đối lập phong cách của mình với phong cách của ["mummy"](../E/Edith_Tolkien.md), người viết rõ ràng và ngắn gọn. Trong khi lối viết ngắn gọn đến với cô một cách tự nhiên, Tolkien thừa nhận rằng để đạt được sự ngắn gọn như vậy đối với anh là một quá trình tốn nhiều công sức. Ông thường chỉ đạt được phong cách "laconic" này như một loại hình nghệ thuật, bằng cách chỉnh sửa và cắt bớt nhiều những gì ông đã viết, một công việc mà ông thấy tốn nhiều thời gian và khắt khe. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

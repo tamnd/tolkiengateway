@@ -46,5 +46,5 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienlibrary.com/press/976-A_middle_English_vocabulary.php" rel="noreferrer noopener" target="_blank">Thảo luận tại <i>Tolkien Library</i></a>
+- <a class="external text" href="http://www.tolkienlibrary.com/press/976-A_middle_English_vocabulary.php" rel="noreferrer noopener" target="_blank">Thảo luận tại Thư viện <i>Tolkien</i></a>
 - <a class="external text" href="http://www.tolkienguide.com/modules/newbb/viewtopic.php?topic_id=1426&amp;forum=9&amp;post_id=7489#forumpost7489" rel="noreferrer noopener" target="_blank">Thảo luận tại <i>Tolkien Hướng dẫn sưu tầm</i></a>

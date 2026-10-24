@@ -27,7 +27,7 @@ Huấn luyện viên ngựa của quỷ được xuất bản lần đầu trong
 
 ## Xem thêm {#See_also}
 
-- [Một số đóng góp cho từ điển học tiếng Anh trung đại](../S/Some_Contributions_to_Middle-English_Lexicography.md)
+- [Một số đóng góp cho từ điển học tiếng Anh trung cổ](../S/Some_Contributions_to_Middle-English_Lexicography.md)
 
 ## Liên kết ngoài {#External_links}
 

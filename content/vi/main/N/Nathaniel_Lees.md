@@ -34,13 +34,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Nathaniel Lees</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/20_July.md" title="20 July">20 July</a> <a href="../_/1952.md" title="1952">1952</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../U/Uglúk.md" title="Uglúk">Uglúk</a> in:<br/><i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0498731/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
-New Zealand diễn viên **Nathaniel Lees** (b. [20 tháng 7](../_/20_July.md), [1952](../_/1952.md)) đã đóng [Uglúk](../U/Uglúk.md) trong *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
+Diễn viên người New Zealand **Nathaniel Lees** (b. [20 tháng 7](../_/20_July.md), [1952](../_/1952.md)) đã đóng vai [Uglúk](../U/Uglúk.md) trong *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
 
 Vào tháng 6 [2007](../_/2007.md), anh và 14 diễn viên khác đã đệ đơn <a class="external text" href="https://us.imdb.com/news/ni0058227/" rel="noreferrer noopener" target="_blank">đơn kiện</a> chống lại [New Line Cinema](New_Line_Cinema.md) về việc buôn bán tiền bản quyền.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vụ kiện đã được giải quyết ngoài tòa án vào tháng 10 [2008](../_/2008.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://web.archive.org/web/20040614142524/http://www.pink-khaki.net/8/lees.html" rel="noreferrer noopener" target="_blank">PK nói chuyện với NATHANIEL LEES "Mifune" trong "Matrix", "Uglúk" trong "Chúa tể của những chiếc nhẫn"</a>
+- <a class="external text" href="https://web.archive.org/web/20040614142524/http://www.pink-khaki.net/8/lees.html" rel="noreferrer noopener" target="_blank">PK nói chuyện với NATHANIEL LEES "Mifune" trong "Matrix", "Uglúk" trong "Chúa tể những chiếc nhẫn"</a>
 - <a class="external text" href="https://web.archive.org/web/20040220162225/http://www.pink-khaki.net/8/leespanel.html" rel="noreferrer noopener" target="_blank">Bảng điều khiển NATHANIEL LEES, RingCon 2003, Bonn/Đức</a>
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Nathaniel_Lees" title="wikipedia:Nathaniel Lees">Nathaniel Lees</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 

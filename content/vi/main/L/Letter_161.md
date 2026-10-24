@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Bản đồ là địa ngục, tuyên bố Tolkien, nói rằng anh ta đã không cẩn thận với khoảng cách và bản đồ tỷ lệ lớn chỉ đơn giản là để lộ tất cả các vết nứt trên áo giáp. Anh ấy nghĩ có thể anh ấy sẽ phải bỏ nó để chuẩn bị cho lần xuất bản sắp tới. <br>
+Bản đồ là địa ngục, Tolkien tuyên bố, nói rằng ông đã không cẩn thận với khoảng cách và bản đồ tỷ lệ lớn chỉ đơn giản là để lộ tất cả các vết nứt trên áo giáp. Ông nghĩ có thể ông sẽ phải bỏ nó để chuẩn bị cho lần xuất bản sắp tới. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

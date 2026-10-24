@@ -23,14 +23,14 @@ langlinks:
 
 Vào [15 tháng 11](../_/15_November.md) [1961](../_/1961.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Jane Neave](../J/Jane_Neave.md)**.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-Marq_2-0" class="reference"><a href="#cite_note-Marq-2">[2]</a></sup>
 
-- **Chủ đề:** Thảo luận về *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* (1962) sắp tới,<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup> cũng như vị trí chủ tịch cũ của ông tại Oxford: "Tôi không phải là giáo sư môn "Văn học" - điều mà tôi vẫn nghĩ không phải là cơ sở tốt cho việc nghiên cứu học thuật".<sup id="cite_ref-TB_3-0" class="reference"><a href="#cite_note-TB-3">[3]</a></sup>
+- **Chủ đề:** Thảo luận về *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* (1962),<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup> sắp tới cũng như vị trí cựu chủ tịch của ông tại Oxford: "Tôi không phải là giáo sư môn "Văn học" - điều mà tôi vẫn nghĩ không phải là cơ sở tốt cho việc học tập hàn lâm".<sup id="cite_ref-TB_3-0" class="reference"><a href="#cite_note-TB-3">[3]</a></sup>
 - **Mô tả:** 2 trang.<sup id="cite_ref-TB_3-1" class="reference"><a href="#cite_note-TB-3">[3]</a></sup>
 - **Xuất bản:** Mô tả về bức thư xuất hiện trong *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*. Đoạn trích từ bức thư được trích dẫn trong *[Christie's 20th Century Books and Manuscripts 2 December 2003](../C/Christie's_20th_Century_Books_and_Manuscripts_2_December_2003.md)*.
-- **Lưu trữ:** Thư được lưu giữ tại [Đại học Marquette](../M/Marquette_University.md).<sup id="cite_ref-Marq_2-1" class="reference"><a href="#cite_note-Marq-2">[2]</a></sup>
+- **Lưu trữ:** Bức thư được lưu giữ tại [Đại học Marquette](../M/Marquette_University.md).<sup id="cite_ref-Marq_2-1" class="reference"><a href="#cite_note-Marq-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Thư gửi Jane Neave (22 tháng Chín 1937)](<Letter_to_Jane_Neave_(22_September_1937).md>)
+- [Thư gửi Jane Neave (22 tháng 9 năm 1937)](<Letter_to_Jane_Neave_(22_September_1937).md>)
 
 <span></span>
 

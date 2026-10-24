@@ -20,9 +20,9 @@ images:
 
 Vào [9 tháng 5](../_/9_May.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi Oscar Morland**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-- **Chủ đề:** Tolkien cảm ơn Morland vì đã gửi cho anh ấy bản sao [chỉ mục cho](../T/The_Lord_of_the_Rings_Index.md) *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*do anh ấy biên soạn riêng.
-- **Mô tả:** Thư đánh máy có chữ ký, một trang, 6,75 x 8,75, 76 Sandfield Road, Oxford tiêu đề thư.
-- **Xuất bản:** Mô tả về bức thư đã được xuất bản trong [*Người đồng hành và Hướng dẫn J.R.R. Tolkien: Niên đại*](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (tr. 698).
+- **Chủ đề:** Tolkien cảm ơn Morland vì đã gửi cho ông các bản sao [chỉ mục cho](../T/The_Lord_of_the_Rings_Index.md) *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* do ông biên soạn riêng.
+- **Mô tả:** Thư đánh máy có chữ ký, một trang, 6,75 x 8,75, 76 Sandfield Road, Oxford có tiêu đề thư.
+- **Xuất bản:** Mô tả về bức thư đã được xuất bản trong [*The J.R.R. Tolkien Companion and Guide: Chronology*](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (tr. 698).
 
 ## Phiên âm {#Transcription}
 

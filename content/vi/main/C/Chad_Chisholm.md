@@ -34,7 +34,7 @@ infobox:
 </p>
 <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Mississippi" title="wikipedia:University of Mississippi">University of Mississippi</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Professor</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Upstate_South_Carolina" title="wikipedia:Upstate South Carolina">South Carolina</a>, <a class="mw-redirect" href="../U/USA.md" title="USA">USA</a></td></tr></tbody></table>
 
-**Basil Chad Chisholm** ([27 tháng 7](../_/27_July.md) [1978](../_/1978.md)) là Trợ lý Giáo sư tiếng Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/Southern_Wesleyan_University" title="wikipedia:Southern Wesleyan University">Đại học Southern Wesleyan</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Central,_South_Carolina" title="wikipedia:Central, South Carolina">Trung tâm, Nam Carolina</a>, mặc dù ông cũng đã giảng dạy tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Texas_at_Arlington" title="wikipedia:University of Texas at Arlington">Đại học Texas ở Arlington</a> và tại <a class="extiw" href="http://en.wikipedia.org/wiki/Rust_College" title="wikipedia:Rust College">Rust College</a> (Holly Springs, Mississippi), nơi ông được vinh danh là giảng viên của năm bởi <a class="extiw" href="http://en.wikipedia.org/wiki/United_Methodist_Church" title="wikipedia:United Methodist Church">United Methodist</a> Board of Higher Education vào năm 2008. Chisholm đã viết một số bài báo về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [C.S. Lewis](C.S._Lewis.md)và [ Inklings](../T/The_Inklings.md). Phần lớn kiến ​​thức hiện tại của ông bắt nguồn từ <a class="external text" href="http://www.redmonky.net/utpa/4324/poulakos.pdf" rel="noreferrer noopener" target="_blank">lý thuyết về khả năng tu từ</a>của John Poulakos, và Chisholm đang viết một cuốn sách sử dụng C.S. Lewis ý tưởng về cách kể chuyện của trẻ em để phát triển lý thuyết về khả năng xem xét lại văn học thiếu nhi cổ điển. Năm 2013, Chisholm được trao học bổng luận án để hoàn thành luận án về “các cách tiếp cận theo định hướng tu từ đối với các văn bản dành cho lứa tuổi thanh thiếu niên”, luận án mà ông đã bảo vệ thành công vào tháng 11 năm đó.
+**Basil Chad Chisholm** ([27 tháng 7](../_/27_July.md) [1978](../_/1978.md)) là Trợ lý Giáo sư tiếng Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/Southern_Wesleyan_University" title="wikipedia:Southern Wesleyan University">Đại học Nam Wesleyan</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Central,_South_Carolina" title="wikipedia:Central, South Carolina">Trung tâm, Nam Carolina</a>, mặc dù ông cũng đã giảng dạy tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Texas_at_Arlington" title="wikipedia:University of Texas at Arlington">Đại học Texas ở Arlington</a> và tại <a class="extiw" href="http://en.wikipedia.org/wiki/Rust_College" title="wikipedia:Rust College">Rust College</a> (Holly Springs, Mississippi), nơi ông được vinh danh là Giảng viên của năm bởi <a class="extiw" href="http://en.wikipedia.org/wiki/United_Methodist_Church" title="wikipedia:United Methodist Church">United Methodist</a> Board of Higher Education vào năm 2008. Chisholm đã viết một số bài báo về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [C.S. Lewis](C.S._Lewis.md) và [Inklings](../T/The_Inklings.md). Phần lớn kiến ​​thức hiện tại của ông bắt nguồn từ <a class="external text" href="http://www.redmonky.net/utpa/4324/poulakos.pdf" rel="noreferrer noopener" target="_blank">lý thuyết về khả năng tu từ</a>của John Poulakos, và Chisholm đang nghiên cứu một cuốn sách sử dụng C.S. Lewis ý tưởng về cách kể chuyện của trẻ em để phát triển lý thuyết về khả năng xem xét lại văn học thiếu nhi cổ điển. Năm 2013, Chisholm được trao học bổng luận án để hoàn thành luận án về “các cách tiếp cận theo định hướng tu từ đối với các văn bản dành cho lứa tuổi thanh thiếu niên”, luận án mà ông đã bảo vệ thành công vào tháng 11 năm đó.
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -48,7 +48,7 @@ infobox:
 ### Đánh giá {#Reviews}
 
 - [2009](../_/2009.md): [*Mallorn* 48](../M/Mallorn_48.md):
-    - "Săn bắn Peter Jackson"
+    - "Săn lùng Peter Jackson"
 - [2010](../_/2010.md): [*Mallorn* 49](../M/Mallorn_49.md):
     - "Hình thái của một câu chuyện"
 - [2010](../_/2010.md): [*Mallorn* 50](../M/Mallorn_50.md):
@@ -58,4 +58,4 @@ infobox:
 - [2011](../_/2011.md): [*Mallorn* 52](../M/Mallorn_52.md):
     - "Sư tử, mụ phù thủy và những nhà sản xuất bối rối"
 - [2013](../_/2013.md): [*Mallorn* 54](../M/Mallorn_54.md):
-    - "Cái chết của The Hobbit"
+    - "Cái chết của người Hobbit"

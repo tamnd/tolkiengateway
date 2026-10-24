@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Bữa tiệc đi dạo của [hobbit](../../main/H/Hobbits.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
+"Bữa tiệc đi bộ [hobbit](../../main/H/Hobbits.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
 
 ## Giấy phép {#Licensing}
 

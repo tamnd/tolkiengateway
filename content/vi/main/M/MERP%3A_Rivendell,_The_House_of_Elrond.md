@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rivendell: The House of Elrond"
 ---
 
-Chuyển hướng tới [Rivendell: Ngôi nhà của Elrond](../R/Rivendell%253A_The_House_of_Elrond.md).
+Chuyển hướng đến [Rivendell: The House of Elrond](../R/Rivendell%253A_The_House_of_Elrond.md).

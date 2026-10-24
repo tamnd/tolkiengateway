@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "War of the Ring: Second Edition"
 ---
 
-Chuyển hướng đến [Cuộc chiến Nhẫn: Tái bản lần thứ hai](War_of_the_Ring%253A_Second_Edition.md).
+Chuyển hướng đến [War of the Ring: Second Edition](War_of_the_Ring%253A_Second_Edition.md).

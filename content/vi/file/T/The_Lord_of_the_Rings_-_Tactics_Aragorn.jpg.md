@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Aragorn](../../main/A/Aragorn.md) từ trò chơi [The Lord of the Rings: Chiến thuật](../../main/T/The_Lord_of_the_Rings%253A_Tactics.md).
+[Aragorn](../../main/A/Aragorn.md) từ trò chơi [The Lord of the Rings: Tactics](../../main/T/The_Lord_of_the_Rings%253A_Tactics.md).
 
 ## Giấy phép {#Licensing}
 

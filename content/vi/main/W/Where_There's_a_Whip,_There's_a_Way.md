@@ -12,7 +12,7 @@ categories:
   - "The Return of the King (1980 film) soundtrack"
 ---
 
-**Where There's a Whip, There's a Way** là một bài hát được viết bởi [Glenn Yarbrough](../G/Glenn_Yarbrough.md) cho [1980](../_/1980.md) [bộ phim hoạt hình *The Return of the King*](<../T/The_Return_of_the_King_(1980_film).md>). Tựa phim là sự chơi chữ của câu tục ngữ "Có ý chí, có con đường" và lời nhận xét của [người cai nô](../S/Slave-drivers.md) "Có roi, có ý chí".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Giai điệu và giọng điệu rất giống *[Down, Down, To Goblin Town](../D/Down,_Down,_To_Goblin_Town.md)*từng xuất hiện trong [*The Hobbit* (phim 1977)](<../T/The_Hobbit_(1977_film).md>).
+**Where There's a Whip, There's a Way** là một bài hát được viết bởi [Glenn Yarbrough](../G/Glenn_Yarbrough.md) cho [1980](../_/1980.md) [bộ phim hoạt hình *The Return of the King*](<../T/The_Return_of_the_King_(1980_film).md>). Tựa phim là sự chơi chữ của câu tục ngữ "Có ý chí, có con đường" và lời nhận xét của [người cai nô](../S/Slave-drivers.md) "Có roi, có ý chí".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Giai điệu và giọng điệu rất giống *[Down, Down, To Goblin Town](../D/Down,_Down,_To_Goblin_Town.md)* từng xuất hiện trong [*The Hobbit* (phim 1977)](<../T/The_Hobbit_(1977_film).md>).
 
 Bài hát được hát trong chuyến đi [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) đi qua [Mordor](../M/Mordor.md).
 

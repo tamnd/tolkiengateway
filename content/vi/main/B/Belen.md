@@ -42,11 +42,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../E/Edain.md" title="Edain">Adan</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Belen</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_292.md" title="First Age 292">292</a><br/>East of the <a href="Blue_Mountains.md" title="Blue Mountains">Blue Mountains</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data"><a href="../H/House_of_Bëor.md" title="House of Bëor">House of Bëor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="Bëor.md" title="Bëor">Bëor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="Baran.md" title="Baran">Baran</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="Beldir.md" title="Beldir">Beldir</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Belen** (sinh [F.A.](../F/First_Age.md) [292](../F/First_Age_292.md)) là con trai nhỏ của [Bëor Lão Già](Bëor.md).
+**Belen** (sinh [F.A.](../F/First_Age.md) [292](../F/First_Age_292.md)) là con trai nhỏ của [Bëor the Old](Bëor.md).
 
 ## Lịch sử {#History}
 
-Belen sinh sau [Baran](Baran.md)ba năm, người thừa kế chức chủ gia đình từ cha mình. Đối với Belen, con trai thứ hai của ông, Bëor Người Cũ chủ yếu truyền lại trí tuệ và truyền thuyết của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Belen là cha của [Beldir](Beldir.md), và là tổ tiên của [Beren Erchamion](Beren.md).<sup id="cite_ref-WJBeor_2-0" class="reference"><a href="#cite_note-WJBeor-2">[2]</a></sup>
+Belen được sinh ra sau [Baran](Baran.md) ba năm, người thừa kế chức vụ chủ gia đình từ cha mình. Đối với Belen, con trai thứ hai của ông, Bëor the Old chủ yếu truyền lại trí tuệ và truyền thuyết của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Belen là cha của [Beldir](Beldir.md), và là tổ tiên của [Beren Erchamion](Beren.md).<sup id="cite_ref-WJBeor_2-0" class="reference"><a href="#cite_note-WJBeor-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -65,9 +65,9 @@ Belen sinh sau [Baran](Baran.md)ba năm, người thừa kế chức chủ gia �
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phần giới thiệu *[The Grey Annals](../T/The_Grey_Annals.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) nói rằng chúng được viết vào những năm 1930.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tác phẩm này bị gác lại trong khi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết *The Lord of the Rings*, sau đó ông quay lại với công việc của mình vào những ngày trước. Trong các bài viết sau này của ông, Tolkien đã xác định lại sự xuất hiện của [Edain](../E/Edain.md) so với [Dãy Núi Xanh](Blue_Mountains.md) gần một thế kỷ trước đó, điều này đã tạo ra một cuộc đại tu quy mô lớn về niên đại và phả hệ.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong phần giới thiệu về *[The Grey Annals](../T/The_Grey_Annals.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) nói rằng chúng được viết vào những năm 1930.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tác phẩm này được gác lại trong khi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết *The Lord of the Rings*, sau đó ông quay lại với công việc của mình vào những ngày xa xưa. Trong các tác phẩm sau này của mình, Tolkien đã xác định lại sự xuất hiện của [Edain](../E/Edain.md) trên [Blue Mountains](Blue_Mountains.md) gần một thế kỷ trước đó, dẫn đến một cuộc đại tu quy mô lớn về niên đại và phả hệ.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Ở *Grey Annals* Bëor lớn hơn, tiếp theo là các con trai của ông [Bregolas](Bregolas.md) và [Barahir](Barahir.md). Trong phiên bản mới, bốn thế hệ được chèn vào giữa Bëor và anh em Bregolas và Barahir. Cùng với thay đổi này, *Belen* đã được thêm làm tổ tiên của Beren.<sup id="cite_ref-WJBeor_2-1" class="reference"><a href="#cite_note-WJBeor-2">[2]</a></sup>
+Ở *Grey Annals* lớn hơn, theo sau Bëor là các con trai của ông là [Bregolas](Bregolas.md) và [Barahir](Barahir.md). Trong phiên bản mới, bốn thế hệ được thêm vào giữa Bëor và anh em Bregolas và Barahir. Cùng với sự thay đổi này *Belen* đã được thêm vào làm tổ tiên của Beren.<sup id="cite_ref-WJBeor_2-1" class="reference"><a href="#cite_note-WJBeor-2">[2]</a></sup>
 
 <span></span>
 

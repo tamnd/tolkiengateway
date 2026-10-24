@@ -29,43 +29,43 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/79/The_Lord_of_the_Rings_-_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.jpg/320px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/79/The_Lord_of_the_Rings_-_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.jpg/480px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/79/The_Lord_of_the_Rings_-_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.jpg/640px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.jpg 2x" data-file-width="1000" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack</i></span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Soundtrack by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/10_December.md" title="10 December">10 December</a> <a href="../_/2002.md" title="2002">2002</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Label</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Reprise_Records" title="wikipedia:Reprise Records">Reprise Records</a></td></tr></tbody></table>
 
-<i><b>The Lord of the Rings: The Two Towers - Nhạc phim gốc</b></i> là một album bao gồm nhạc nền từ bộ phim *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*ra rạp. Nó được phát hành [10 tháng 12](../_/10_December.md) [2002](../_/2002.md). Một bản nhạc phim mở rộng, dựa trên phiên bản mở rộng của bộ phim, sau đó được phát hành dưới tên *[The Lord of the Rings: The Two Towers - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md)*.
+<i><b>Chúa tể của những chiếc nhẫn: Hai tòa tháp - Nhạc phim gốc</b></i> là một album bao gồm nhạc nền từ bộ phim *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)* được phát hành tại rạp. Nó được phát hành [10 tháng 12](../_/10_December.md) [2002](../_/2002.md). Một bản nhạc phim mở rộng, dựa trên phiên bản mở rộng của bộ phim, sau đó được phát hành dưới tên *[The Lord of the Rings: The Two Towers - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md)*.
 
 ## Nội dung {#Contents}
 
 1. [Nền đá](../F/Foundations_of_Stone.md) (3:52)
 2. [Việc thuần hóa Sméagol](<The_Taming_of_Sméagol_(soundtrack).md>) (2:49)
 3. [Những kỵ sĩ của Rohan](<The_Riders_of_Rohan_(soundtrack).md>) (4:06)
-4. [Con đường của đầm lầy](<The_Passage_of_the_Marshes_(soundtrack).md>) (2:46)
+4. [Lối đi của đầm lầy](<The_Passage_of_the_Marshes_(soundtrack).md>) (2:46)
 5. [Uruk-Hai](The_Uruk-Hai~46025.md) (2:58)
-6. [ Vua Sảnh Vàng](<The_King_of_the_Golden_Hall_(soundtrack).md>) (3:50)
-7. [ Cổng Đen đã đóng](The_Black_Gate_Is_Closed~69146.md) (3:17)
+6. [Vua của Sảnh Vàng](<The_King_of_the_Golden_Hall_(soundtrack).md>) (3:50)
+7. [Cổng đen đã đóng](The_Black_Gate_Is_Closed~69146.md) (3:17)
 8. [Evenstar](<../E/Evenstar_(soundtrack).md>), có Isabel Bayakdarian (3:16)
-9. [Kỵ Sĩ Trắng](<The_White_Rider_(soundtrack).md>) (2:28)
-10. [Treebeard](<Treebeard_(soundtrack).md>) (2:44)
+9. [Kỵ sĩ trắng](<The_White_Rider_(soundtrack).md>) (2:28)
+10. [Cây râu](<Treebeard_(soundtrack).md>) (2:44)
 11. [Nghỉ phép](The_Leave_Taking.md) (3:42)
 12. [Helm's Deep](<../H/Helm's_Deep_(The_Two_Towers_soundtrack).md>) (3:53)
 13. [Bể Cấm](<The_Forbidden_Pool_(soundtrack).md>) (5:27)
 14. [Hơi thở của cuộc sống](../B/Breath_of_Life.md) / Shelia Chandra (5:08)
-15. [ Hornburg](<The_Hornburg_(soundtrack).md>) (4:36)
-16. [Tiến lên Eorlingas](<../F/Forth_Eorlingas_(soundtrack).md>) / Ben Del Maestro (3:16)
-17. [Isengard Giải phóng](<../I/Isengard_Unleashed_(soundtrack).md>) / Elizabeth Fraser (5:01)
+15. [Hornburg](<The_Hornburg_(soundtrack).md>) (4:36)
+16. [Eorlingas thứ ba](<../F/Forth_Eorlingas_(soundtrack).md>) / Ben Del Maestro (3:16)
+17. [Isengard được giải phóng](<../I/Isengard_Unleashed_(soundtrack).md>) / Elizabeth Fraser (5:01)
 18. [Samwise dũng cảm](../S/Samwise_the_Brave.md) (3:46)
-Bài hát của 19. [Gollum](../G/Gollum's_Song.md), có sự góp mặt của [Emilíana Torrini](../E/Emilíana_Torrini.md) (5:53)
+19. [Bài hát của Gollum](../G/Gollum's_Song.md), có [Emilíana Torrini](../E/Emilíana_Torrini.md) (5:53)
 
 ## Xem thêm {#See_also}
 
-- [*The Lord of the Rings: Bộ ba phim điện ảnh* - Nhạc phim gốc](../../category/T/The_Lord_of_the_Rings%253A_The_Motion_Picture_Trilogy_Original_Soundtracks.md):
+- [*The Lord of the Rings: The Motion Picture Trilogy* - Original Soundtracks](../../category/T/The_Lord_of_the_Rings%253A_The_Motion_Picture_Trilogy_Original_Soundtracks.md):
     - *[The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)*
     - *[The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md)*
-- [*The Lord of the Rings: Bộ ba phim điện ảnh* - Bản ghi âm hoàn chỉnh](../../category/T/The_Lord_of_the_Rings%253A_The_Motion_Picture_Trilogy_The_Complete_Recordings.md):
+- [*The Lord of the Rings: The Motion Picture Trilogy* - The Complete Recordings](../../category/T/The_Lord_of_the_Rings%253A_The_Motion_Picture_Trilogy_The_Complete_Recordings.md):
     - *[The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md)*
     - *[The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md)*
     - *[The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)*
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.amagpiesnest.com/cd_editions/TTT/TTTost.htm" rel="noreferrer noopener" target="_blank"><i>The Lord of the Rings: The Two Towers - Nhạc phim gốc</i></a> trên <a class="external text" href="http://www.amagpiesnest.com/" rel="noreferrer noopener" target="_blank">A Magpie Nest</a>
+- <a class="external text" href="http://www.amagpiesnest.com/cd_editions/TTT/TTTost.htm" rel="noreferrer noopener" target="_blank"><i>Chúa tể của những chiếc nhẫn: Hai tòa tháp - Nhạc phim gốc</i></a> trên <a class="external text" href="http://www.amagpiesnest.com/" rel="noreferrer noopener" target="_blank">A Magpie Nest</a>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

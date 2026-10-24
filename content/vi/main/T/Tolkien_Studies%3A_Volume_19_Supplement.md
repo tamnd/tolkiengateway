@@ -36,9 +36,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Studies_19_Supplement.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/95/Tolkien_Studies_19_Supplement.jpeg/318px-Tolkien_Studies_19_Supplement.jpeg" decoding="async" loading="lazy" width="318" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/95/Tolkien_Studies_19_Supplement.jpeg/477px-Tolkien_Studies_19_Supplement.jpeg 1.5x, https://tolkiengateway.net/w/images/9/95/Tolkien_Studies_19_Supplement.jpeg 2x" data-file-width="497" data-file-height="750"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Studies: Volume 19 Supplement</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../D/David_Bratman.md" title="David Bratman">David Bratman</a>, <a href="../M/Michael_D.C._Drout.md" title="Michael D.C. Drout">Michael D.C. Drout</a>, <a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">West Virginia University Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/31_July.md" title="31 July">31 July</a> <a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback; electronic</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">155</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1547-3155</td></tr></tbody></table>
 
-<b><i>Tolkien Nghiên cứu</i>: Tập 19 Phụ lục</b> là số bổ sung cho [*Tolkien Studies 19*](Tolkien_Studies%253A_Volume_19.md), xuất bản trong [2022](../_/2022.md).
+<b><i>Tolkien Studies</i>: Tập 19 Phụ lục</b> là số bổ sung của [*Tolkien Studies 19*](Tolkien_Studies%253A_Volume_19.md), được xuất bản trong [2022](../_/2022.md).
 
-Tập này xuất bản bài báo quan trọng "[Niên đại của The Lord of the Rings](The_Chronology_of_The_Lord_of_the_Rings.md)", được biên tập với ghi chú và bình luận của <a class="new" href="https://tolkiengateway.net/w/index.php?title=William_Cloud_Hicklin&amp;action=edit&amp;redlink=1" title="William Cloud Hicklin (page does not exist)">William Cloud Hicklin</a>. Bài viết trình bày các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)về sơ đồ thời gian, hay còn gọi là "Niên đại", làm cơ sở cho *The Lord of the Rings* của ông.
+Tập này xuất bản bài báo quan trọng "[Niên đại của Chúa tể những chiếc nhẫn](The_Chronology_of_The_Lord_of_the_Rings.md)", được biên tập với ghi chú và bình luận của <a class="new" href="https://tolkiengateway.net/w/index.php?title=William_Cloud_Hicklin&amp;action=edit&amp;redlink=1" title="William Cloud Hicklin (page does not exist)">William Cloud Hicklin</a>. Bài viết trình bày các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về sơ đồ thời gian, hay còn gọi là "Niên đại", làm cơ sở cho *The Lord of the Rings* của ông.
 
 ## Nội dung {#Contents}
 
@@ -46,12 +46,12 @@ Tập này xuất bản bài báo quan trọng "[Niên đại của The Lord of 
 - Lời cảm ơn của biên tập viên
 - Các quy ước và chữ viết tắt
 - [William Fliss](../W/William_Fliss.md), "Lời nói đầu"
-- J.R.R. Tolkien, William Cloud Hicklin, "Niên đại của The Lord of the Rings'"
+- J.R.R. Tolkien, William Cloud Hicklin, "Niên đại của Chúa tể những chiếc nhẫn'"
 - Lưu ý về người đóng góp
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://muse.jhu.edu/issue/48264" rel="noreferrer noopener" target="_blank"><i>Tolkien Nghiên cứu</i>: Phụ lục Tập 19</a> tại Dự án Muse
+- <a class="external text" href="https://muse.jhu.edu/issue/48264" rel="noreferrer noopener" target="_blank"><i>Nghiên cứu Tolkien</i>: Phụ lục Tập 19</a> tại Project Muse
 
 <br clear="all"/>
 

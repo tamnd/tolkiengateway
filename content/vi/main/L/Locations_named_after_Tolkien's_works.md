@@ -23,13 +23,13 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-Một số địa điểm đã được đặt tên theo các địa điểm và nhân vật hư cấu trong [Trung Địa](../M/Middle-earth.md) của [Tolkien](../J/J.R.R._Tolkien.md)và rộng hơn [Legendarium](Legendarium.md).
+Một số địa điểm đã được đặt tên theo các địa điểm và nhân vật hư cấu trong [Trung địa](../M/Middle-earth.md) của [Tolkien](../J/J.R.R._Tolkien.md) và [Legendarium](Legendarium.md) rộng hơn.
 
 ## Thành phố {#Cities}
 
 ### Thuốc nhỏ {#Geldrop}
 
-[Geldrop](../G/Geldrop.md) là một thị trấn ở Hà Lan với một khu dân cư có các con phố đều liên quan đến Tolkien và Legendarium của anh ấy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Geldrop](../G/Geldrop.md) là một thị trấn của Hà Lan có khu dân cư có các con phố đều liên quan đến Tolkien và Legendarium của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ### Jacksonville {#Jacksonville}
 
@@ -37,21 +37,21 @@ Một số địa điểm đã được đặt tên theo các địa điểm và
 
 ## Đặc điểm địa lý {#Geographical_features}
 
-### Dãy Núi {#Mountains}
+### Núi {#Mountains}
 
 - Gắn [Shadowfax](../S/Shadowfax.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
-- Gắn [Gandalf](../G/Gandalf.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
-- Gắn [Aragorn](../A/Aragorn.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+- Núi [Gandalf](../G/Gandalf.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- Núi [Aragorn](../A/Aragorn.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ### Số tiền nối tiếp {#Seamounts}
 
-- [Eriador](../E/Eriador.md) Đường nối.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
-- [Rohan](../R/Rohan.md) Đường nối.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
-- [Gondor](../G/Gondor.md) Đường nối.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
-- [Con Mắt của Sauron](../E/Eye_of_Sauron.md) Đường nối.<sup id="cite_ref-EOS_9-0" class="reference"><a href="#cite_note-EOS-9">[9]</a></sup>
-- [Barad-dûr](../B/Barad-dûr.md) Đường nối.<sup id="cite_ref-EOS_9-1" class="reference"><a href="#cite_note-EOS-9">[9]</a></sup>
-- [Ered Lithui](../E/Ered_Lithui.md) Đường nối.<sup id="cite_ref-EOS_9-2" class="reference"><a href="#cite_note-EOS-9">[9]</a></sup>
-- [Fangorn](../F/Fangorn_Forest.md) Ngân hàng.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+- [Eriador](../E/Eriador.md) Seamount.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+- [Rohan](../R/Rohan.md) Seamount.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+- [Gondor](../G/Gondor.md) Núi ngầm.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+- [Con mắt của Sauron](../E/Eye_of_Sauron.md) Seamount.<sup id="cite_ref-EOS_9-0" class="reference"><a href="#cite_note-EOS-9">[9]</a></sup>
+- [Barad-dûr](../B/Barad-dûr.md) Seamount.<sup id="cite_ref-EOS_9-1" class="reference"><a href="#cite_note-EOS-9">[9]</a></sup>
+- [Ered Lithui](../E/Ered_Lithui.md) Seamount.<sup id="cite_ref-EOS_9-2" class="reference"><a href="#cite_note-EOS-9">[9]</a></sup>
+- [Ngân hàng Fangorn](../F/Fangorn_Forest.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 - [Edoras](../E/Edoras.md) Ngân hàng.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 - [Isengard](../I/Isengard.md) Sườn núi.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
@@ -59,9 +59,9 @@ Một số địa điểm đã được đặt tên theo các địa điểm và
 
 ### Titan {#Titan}
 
-[Titan](../T/Titan.md) là một trong những mặt trăng của <a class="extiw" href="http://en.wikipedia.org/wiki/Saturn" title="wikipedia:Saturn">Sao Thổ</a>. Những ngọn núi của nó (*Montes*) được đặt tên theo những ngọn núi trong [Arda](../A/Arda.md) và những ngọn đồi (*colles*) theo các ký tự.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+[Titan](../T/Titan.md) là một trong những mặt trăng của <a class="extiw" href="http://en.wikipedia.org/wiki/Saturn" title="wikipedia:Saturn">Sao Thổ</a>. Những ngọn núi (*Montes*) của nó được đặt tên theo những ngọn núi ở [Arda](../A/Arda.md) và những ngọn đồi (*colles*) theo các ký tự.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
-*montes* của Titan được đặt tên là: [Angmar Montes](../M/Mountains_of_Angmar.md), [Dolmed Montes](../D/Dolmed.md), [Doom Mons](../M/Mount_Doom.md), [Echoriat Montes](../E/Echoriad.md), [Erebor Mons](../E/Erebor.md), [Gram Montes](../M/Mount_Gram.md), [Irensaga Montes](../I/Irensaga.md), [Merlock Montes](../M/Merlock_Mountains.md), [Mindolluin Montes](../M/Mindolluin.md), [Misty Montes](../M/Misty_Mountains.md), [Mithrim Montes](../M/Mountains_of_Mithrim.md), [Rerir Montes](../R/Rerir.md), [Taniquetil Montes](../T/Taniquetil.md).
+*montes* tên của Titan là: [Angmar Montes](../M/Mountains_of_Angmar.md), [Dolmed Montes](../D/Dolmed.md), [Doom Mons](../M/Mount_Doom.md), [Echoriat Montes](../E/Echoriad.md), [Erebor Mons](../E/Erebor.md), [Gram Montes](../M/Mount_Gram.md), [Irensaga Montes](../I/Irensaga.md), [Merlock Montes](../M/Merlock_Mountains.md), [Mindolluin Montes](../M/Mindolluin.md), [Misty Montes](../M/Misty_Mountains.md), [Mithrim Montes](../M/Mountains_of_Mithrim.md), [Rerir Montes](../R/Rerir.md), [Taniquetil Montes](../T/Taniquetil.md).
 
 ### Tiểu hành tinh {#Asteroids}
 
@@ -71,11 +71,11 @@ Một số địa điểm đã được đặt tên theo các địa điểm và
 
 ### Khác {#Other}
 
-- Vật thể Vành đai Kuiper 385446 [Manwë](../M/Manwë.md) và mặt trăng của nó [Thorondor](../T/Thorondor.md).<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
-- Vật thể xuyên sao Hải Vương 174567 [Varda](../V/Varda.md) và vệ tinh của nó [Ilmarë](../I/Ilmarë.md).<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
-- Một loạt các vùng của Sao Diêm Vương có tên [Balrog](../B/Balrog.md) Macula.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
-- Con Mắt của Sauron là biệt danh được đặt cho nhiều vật thể do có hình dáng giống nhau, bao gồm tinh vân M 1-42,<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> Tinh vân Xoắn ốc,<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> hệ sao HR 4796A,<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> và thiên hà Seyfert NGC 4151.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
-- <a class="extiw" href="http://en.wikipedia.org/wiki/WHL0137-LS" title="wikipedia:WHL0137-LS">Earendel</a>, một ngôi sao trong chòm sao <a class="extiw" href="http://en.wikipedia.org/wiki/Cetus" title="wikipedia:Cetus">Cetus</a>. Mặc dù đó là cái tên Anglo-Saxon có trước Tolkien nhưng các nhà nghiên cứu liên quan đến việc phát hiện ra nó đều là những người hâm mộ các tác phẩm của ông và chọn tên này vì lý do đó.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[note 1]</a></sup>
+- Vật thể Vành đai Kuiper 385446 [Manwë](../M/Manwë.md) và vệ tinh của nó [Thorondor](../T/Thorondor.md).<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
+- Vật thể xuyên Sao Hải Vương 174567 [Varda](../V/Varda.md) và vệ tinh của nó [Ilmarë](../I/Ilmarë.md).<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
+- Một loạt các vùng của Sao Diêm Vương được gọi là [Balrog](../B/Balrog.md) Macula.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
+- Con mắt của Sauron là biệt danh được đặt cho nhiều vật thể do có hình dáng giống nhau, bao gồm tinh vân M 1-42,<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> Tinh vân Xoắn ốc,<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> hệ sao HR 4796A,<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> và thiên hà Seyfert NGC 4151.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/WHL0137-LS" title="wikipedia:WHL0137-LS">Earendel</a>, một ngôi sao trong chòm sao <a class="extiw" href="http://en.wikipedia.org/wiki/Cetus" title="wikipedia:Cetus">Cetus</a>. Mặc dù đó là một cái tên Anglo-Saxon có trước Tolkien, nhưng các nhà nghiên cứu liên quan đến việc phát hiện ra nó đều là những người hâm mộ các tác phẩm của ông và chọn cái tên này vì lý do đó.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[note 1]</a></sup>
 
 ## Xem thêm {#See_also}
 
@@ -85,7 +85,7 @@ Một số địa điểm đã được đặt tên theo các địa điểm và
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><a class="extiw" href="http://en.wiktionary.org/wiki/Earendel" title="wiktionary:Earendel">Earendel</a> là tên <a href="../O/Old_English.md" title="Old English">tiếng Anh cổ</a> ám chỉ sao mai. Nó được Tolkien mượn nguyên văn cho truyền thuyết đầu tiên của ông (<i><a href="../T/The_Book_of_Lost_Tales.md" title="The Book of Lost Tales">The Book of Lost Tales</a></i>) nhưng được hình dung là <a href="../Q/Qenya.md" title="Qenya">Qenya</a>; nó đổi thành <i>Earendil</i> vào giữa những năm 1940.</span>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><a class="extiw" href="http://en.wiktionary.org/wiki/Earendel" title="wiktionary:Earendel">Earendel</a> là tên <a href="../O/Old_English.md" title="Old English">tiếng Anh cổ</a> đề cập đến sao mai. Nó được Tolkien mượn nguyên văn cho tác phẩm truyền thuyết đầu tiên của ông (<i><a href="../T/The_Book_of_Lost_Tales.md" title="The Book of Lost Tales">Cuốn sách về những câu chuyện đã mất</a></i>) nhưng được hình dung là <a href="../Q/Qenya.md" title="Qenya">Qenya</a>; nó đổi thành <i>Earendil</i> vào giữa những năm 1940.</span>
 </li>
 </ol></div></span>
 

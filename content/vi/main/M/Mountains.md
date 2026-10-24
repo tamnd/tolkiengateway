@@ -18,27 +18,27 @@ sort_keys:
 
 #### [Aman](../A/Aman.md) {#Aman}
 
-- [Pelóri Dãy Núi](../P/Pelóri_Mountains.md)
+- [Dãy núi Pelóri](../P/Pelóri_Mountains.md)
 
 #### [Beleriand](../B/Beleriand.md) {#Beleriand}
 
 - [Ered Gorgoroth](../E/Ered_Gorgoroth.md)
-- [Ered Wethrin](../E/Ered_Wethrin.md) (Dãy Núi Bóng Tối)
-- [Ered Lómin](../E/Ered_Lómin.md) ([Vọng âm Dãy Núi](../E/Echoing_Mountains.md))
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ered_Mithrim&amp;action=edit&amp;redlink=1" title="Ered Mithrim (page does not exist)">Đã xóa Mithrim</a> ([Dãy Núi của Mithrim](Mountains_of_Mithrim.md))
-- [Ered Engrin](../E/Ered_Engrin.md) ([Dãy Núi Sắt](../I/Iron_Mountains.md))
-- [Ered Luin](../E/Ered_Luin.md)\* ([Dãy Núi Xanh](../B/Blue_Mountains.md))
+- [Ered Wethrin](../E/Ered_Wethrin.md) (Núi bóng tối)
+- [Ered Lómin](../E/Ered_Lómin.md) ([Những ngọn núi vang vọng](../E/Echoing_Mountains.md))
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ered_Mithrim&amp;action=edit&amp;redlink=1" title="Ered Mithrim (page does not exist)">Ered Mithrim</a> ([Núi Mithrim](Mountains_of_Mithrim.md))
+- [Ered Engrin](../E/Ered_Engrin.md) ([Núi Sắt](../I/Iron_Mountains.md))
+- [Ered Luin](../E/Ered_Luin.md)\* ([Núi Xanh](../B/Blue_Mountains.md))
 
-#### [Trung Địa](Middle-earth.md) {#Middle-earth}
+#### [Trung địa](Middle-earth.md) {#Middle-earth}
 
-- [Ered Luin](../E/Ered_Luin.md)\* ([Dãy Núi Xanh](../B/Blue_Mountains.md))
-- [Dãy Núi Sương Mù](Misty_Mountains.md) ([Hithaeglir](Misty_Mountains.md))
-- [Ered Nimrais](../W/White_Mountains.md) ([Dãy Núi Trắng](../W/White_Mountains.md))
-- [Ered Lithui](../E/Ered_Lithui.md) ([Dãy Núi của Ash](Mountains_of_Ash.md))
-- [Ephel Dúath](../E/Ephel_Dúath.md) (Dãy Núi Bóng Tối)
-- [Ered Mithrin](../G/Grey_Mountains.md) ([Dãy Núi Xám](../G/Grey_Mountains.md))
-- [Dãy núi Angmar](Mountains_of_Angmar.md)
-- [Orocarni](../O/Orocarni.md) (Đỏ Dãy Núi)
+- [Ered Luin](../E/Ered_Luin.md)\* ([Núi Xanh](../B/Blue_Mountains.md))
+- [Dãy núi mù sương](Misty_Mountains.md) ([Hithaeglir](Misty_Mountains.md))
+- [Ered Nimrais](../W/White_Mountains.md) ([Núi Trắng](../W/White_Mountains.md))
+- [Ered Lithui](../E/Ered_Lithui.md) ([Núi tro](Mountains_of_Ash.md))
+- [Ephel Dúath](../E/Ephel_Dúath.md) (Núi bóng tối)
+- [Ered Mithrin](../G/Grey_Mountains.md) ([Dãy núi Grey](../G/Grey_Mountains.md))
+- [Núi Angmar](Mountains_of_Angmar.md)
+- [Orocarni](../O/Orocarni.md) (Núi Đỏ)
 
 ## Núi riêng lẻ {#Individual_mountains}
 
@@ -53,17 +53,17 @@ sort_keys:
 - [Núi Dolmed](../D/Dolmed.md)
 - [Núi Taras](../T/Taras.md)
 
-#### [Trung Địa](Middle-earth.md) {#Middle-earth_2}
+#### [Trung địa](Middle-earth.md) {#Middle-earth_2}
 
 - [Orodruin](../O/Orodruin.md) ([Núi Doom](Mount_Doom.md))
-- [Mount Gundabad](../G/Gundabad.md)
-- [Erebor](../L/Lonely_Mountain.md) ( [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md))
-- The [Dãy núi Moria](Mountains_of_Moria.md): [Fanuidhol](../F/Fanuidhol.md), [Celebdil](../C/Celebdil.md), [Caradhras](../C/Caradhras.md)
-- [Gắn Mindolluin](Mount_Mindolluin.md)
+- [Núi Gundabad](../G/Gundabad.md)
+- [Erebor](../L/Lonely_Mountain.md) ( [Ngọn núi cô đơn](../L/Lonely_Mountain.md))
+- [Núi Moria](Mountains_of_Moria.md): [Fanuidhol](../F/Fanuidhol.md), [Celebdil](../C/Celebdil.md), [Caradhras](../C/Caradhras.md)
+- [Núi Mindolluin](Mount_Mindolluin.md)
 
-#### [Númenor](../N/Númenor.md) {#Númenor}
+#### [Số](../N/Númenor.md) {#Númenor}
 
 - [Meneltarma](Meneltarma.md)
 - [Oromet](../O/Oromet.md)
 
-<i><b>* <a class="mw-redirect" href="../E/Ered_Luin.md" title="Ered Luin">Ered Luin</a> - dải phân cách giữa Beleriand và Trung Địa</b></i>
+<i><b>* <a class="mw-redirect" href="../E/Ered_Luin.md" title="Ered Luin">Ered Luin</a> - người phân chia giữa Beleriand và Trung Địa</b></i>

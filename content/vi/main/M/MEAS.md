@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: Against the Shadow"
 ---
 
-Chuyển hướng đến [Trung Địa: Chống lại Bóng Tối](Middle-earth%253A_Against_the_Shadow.md).
+Chuyển hướng đến [Middle-earth: Against the Shadow](Middle-earth%253A_Against_the_Shadow.md).

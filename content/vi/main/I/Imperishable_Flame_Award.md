@@ -12,7 +12,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Giải thưởng Ngọn lửa bất diệt**, được đặt tên theo khái niệm [Ngọn Lửa Bất Diệt](../F/Flame_Imperishable.md), được [Hiệp hội miền Bắc phương Đông Tolkien](../N/North_East_Tolkien_Society.md) trao tặng nhằm ghi nhận Học bổng, Sự sáng tạo và xây dựng nguồn lực cộng đồng người hâm mộ nhằm tôn vinh và tôn vinh [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và The [Inklings](Inklings.md).
+**Giải thưởng Ngọn lửa bất diệt**, được đặt tên theo khái niệm [Ngọn lửa bất diệt](../F/Flame_Imperishable.md), được [Hiệp hội Tolkien Đông Bắc](../N/North_East_Tolkien_Society.md) trao tặng nhằm ghi nhận Học bổng, Sự sáng tạo và việc xây dựng nguồn lực cộng đồng người hâm mộ nhằm tôn vinh và tôn vinh [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và The [Inklings](Inklings.md).
 
 <br> Đội vô địch năm 2006/2007 là:
 

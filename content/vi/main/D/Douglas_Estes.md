@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Estes, Douglas"
 ---
 
-**Douglas Estes** là một học giả Kinh Thánh quan tâm đến chuyện kể, trí tưởng tượng và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Douglas đã viết hoặc biên tập 13 cuốn sách và hơn 50 bài báo và tiểu luận. Ông hiện là Phó Giáo sư Tôn giáo tại New College of Florida.
+**Douglas Estes** là một học giả Kinh Thánh quan tâm đến truyện kể, trí tưởng tượng và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Douglas đã viết hoặc biên tập 13 cuốn sách và hơn 50 bài báo và tiểu luận. Ông hiện là Phó Giáo sư Tôn giáo tại New College of Florida.
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -34,13 +34,13 @@ sort_keys:
 - [2019](../_/2019.md): *Christianity Today*
     - <a class="external text" href="https://www.christianitytoday.com/ct/2019/december-web-only/what-christians-miss-when-they-dismiss-imagination.html" rel="noreferrer noopener" target="_blank">“Điều Cơ Đốc Nhân Bỏ Qua Khi Họ Loại Bỏ Trí Tưởng Tượng"</a>
 - [2023](../_/2023.md): *[Theology and Tolkien: Practical Theology](../T/Theology_and_Tolkien%253A_Practical_Theology.md)*
-    - “Gandalf the Grey, Tông Đồ của Con Người và Tiên tộc”
+    - “Gandalf the Grey, Tông đồ của loài người và yêu tinh”
 - [2024](../_/2024.md): *[Theology and Tolkien: Constructive Theology](../T/Theology_and_Tolkien%253A_Constructive_Theology.md)*
-    - “Trong Bóng Tối rực rỡ của sự im lặng tiềm ẩn: Xu hướng thờ ơ của J.R.R. Tolkien”
+    - “Trong bóng tối rực rỡ của sự im lặng tiềm ẩn: Xu hướng thờ ơ của J.R.R. Tolkien”
 - [2024](../_/2024.md): *What John Knows*
     - “Tưởng tượng”
 - [2025](../_/2025.md): *Furor Poeticus*
-    - “Thần thoại củaTolkien” (sắp xuất bản)
+    - “Thần thoại của Tolkien” (sắp xuất bản)
 
 ### Phỏng vấn {#Interviews}
 

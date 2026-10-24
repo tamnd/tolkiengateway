@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Radagast](../../main/R/Radagast.md), [Frodo](../../main/F/Frodo_Baggins.md) và [Sam](../../main/S/Samwise_Gamgee.md) trong [J.R.R. Tolkien ở Trung Địa](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
+[Radagast](../../main/R/Radagast.md), [Frodo](../../main/F/Frodo_Baggins.md) và [Sam](../../main/S/Samwise_Gamgee.md) trong Cuộc chiến ở Trung Địa của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md).
 
 ## Giấy phép {#Licensing}
 

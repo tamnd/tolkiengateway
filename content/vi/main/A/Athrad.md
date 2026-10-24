@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>athrad</b></i> (pl. *ethraid*) là danh từ có nghĩa là "(sông-)vượt qua, ford, way" trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-RC163_4-0" class="reference"><a href="#cite_note-RC163-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+<i><b>athrad</b></i> (pl. *ethraid*) là một danh từ có nghĩa là "(sông-)vượt qua, ford, way" trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-RC163_4-0" class="reference"><a href="#cite_note-RC163-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -27,7 +27,7 @@ Nó bao gồm <i><a class="new" href="https://tolkiengateway.net/w/index.php?tit
 ## Xem thêm {#See_also}
 
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Athrada&amp;action=edit&amp;redlink=1" title="Athrada (page does not exist)">athrada</a></i> "băng qua, băng qua"
-- *[iach](../I/Iach.md)* (Sindarin "ford")
+- *[iach](../I/Iach.md)* (tiếng Sindarin "ford")
 
 <span></span>
 

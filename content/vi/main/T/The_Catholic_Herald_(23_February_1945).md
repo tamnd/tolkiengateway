@@ -26,11 +26,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>The Catholic Herald</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">London: The Catholic Herald</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/23_February.md" title="23 February">23 February</a> <a href="../_/1945.md" title="1945">1945</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Newspaper</td></tr></tbody></table>
 
-<b><i>The Catholic Herald</i> (23 tháng 2 năm 1945)</b> là số của tờ báo <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Catholic_Herald" title="wikipedia:The Catholic Herald">The Catholic Herald</a></i>. Vấn đề này bao gồm [thư](../L/Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)"[Tên Coventry](The_Name_Coventry.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<b><i>The Catholic Herald</i> (23 tháng 2 năm 1945)</b> là số của tờ báo <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Catholic_Herald" title="wikipedia:The Catholic Herald">The Catholic Herald</a></i>. Vấn đề này bao gồm [thư](../L/Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) "[Tên Coventry](The_Name_Coventry.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [*The Catholic Herald* (18 tháng Chín 1981)](<The_Catholic_Herald_(18_September_1981).md>)
+- [*The Catholic Herald* (18 tháng 9 năm 1981)](<The_Catholic_Herald_(18_September_1981).md>)
 
 <span></span>
 

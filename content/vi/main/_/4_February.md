@@ -65,13 +65,13 @@ Sự kiện xảy ra vào ngày 4 tháng 2
 
 - **[1929](1929.md)** - Diễn viên [Noel Appleby](../N/Noel_Appleby.md) ra đời.
 - **[1933](1933.md)** - [C.S. Lewis](../C/C.S._Lewis.md) viết cho người bạn lâu năm Arthur Greeves về *[The Hobbit](../T/The_Hobbit.md)*.
-- **[1937](1937.md)** - Bài thơ "[Chuyến thăm Rồng](../T/The_Dragon's_Visit.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được đăng trên *The Oxford Magazine*.
+- **[1937](1937.md)** - Bài thơ "[Rồng ghé thăm](../T/The_Dragon's_Visit.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được đăng trên tạp chí *The Oxford Magazine*.
 - **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 22](../L/Letter_22.md).
 - **[1959](1959.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 214a](../L/Letter_214a.md).
 - **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 321](../L/Letter_321.md).
-- **[2006](2006.md)** - Bản xem trước của [The Lord of the Rings (âm nhạc)](<../T/The_Lord_of_the_Rings_(musical).md>) mở tại Toronto.
+- **[2006](2006.md)** - Bản xem trước của [The Lord of the Rings (musical)](<../T/The_Lord_of_the_Rings_(musical).md>) mở ở Toronto.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
+    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).

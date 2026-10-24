@@ -16,13 +16,13 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1150.md" title="Third Age 1150">1150</a><a href="Third_Age_1191.md" title="Third Age 1191">1191</a><a href="Third_Age_1194.md" title="Third Age 1194">1194</a><a class="mw-selflink selflink">1226</a><a href="Third_Age_1240.md" title="Third Age 1240">1240</a><a href="Third_Age_1248.md" title="Third Age 1248">1248</a><a href="Third_Age_1250.md" title="Third Age 1250">1250</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 1226** (viết tắt là **T.A. 1226**) là năm [thứ 1226 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ thứ ba 1226** (viết tắt là **T.A. 1226**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1226 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cái chết của [Vua](../K/Kings_of_Gondor.md) [Atanatar II Alcarin](../A/Atanatar_II.md) của [Gondor](../G/Gondor.md).<sup id="cite_ref-AppSouth_1-0" class="reference"><a href="#cite_note-AppSouth-1">[1]</a></sup>
 - [Con trai của Atanatar II](../A/Atanatar_II.md), [Narmacil I](../N/Narmacil_I.md), trở thành [Vua](../K/Kings_of_Gondor.md) thứ mười bảy của [Gondor](../G/Gondor.md).<sup id="cite_ref-AppSouth_1-1" class="reference"><a href="#cite_note-AppSouth-1">[1]</a></sup>
-- Sinh [Argeleb I](../A/Argeleb_I.md), con trai [Malvegil](../M/Malvegil.md) [Arthedain](../A/Arthedain.md).<sup id="cite_ref-PM_2-0" class="reference"><a href="#cite_note-PM-2">[2]</a></sup>
+- Sự ra đời của [Argeleb I](../A/Argeleb_I.md), con trai của [Malvegil](../M/Malvegil.md) của [Arthedain](../A/Arthedain.md).<sup id="cite_ref-PM_2-0" class="reference"><a href="#cite_note-PM-2">[2]</a></sup>
 
 <span></span>
 

@@ -77,7 +77,7 @@ infobox:
         - Bởi: Krzysztof Mysiak 'Draugnimir'
     - "Tolkien trong bối cảnh lần ông xem lại cuốn sách của Dimitra Fimi *[Tolkien, Race and Cultural History](../T/Tolkien,_Race_and_Cultural_History.md)*"
         - Bởi: Agnieszka Sylwanowicz 'Evermind HS Took'
-    - "Về vé giặt, nguồn cảm hứng, fanfic và điểm thu thập. Đôi lời về việc xuất bản *[The Story of Kullervo](../T/The_Story_of_Kullervo.md)*của J.R.R. Tolkien"
+    - "Về vé giặt, nguồn cảm hứng, fanfic và điểm thu thập. Đôi lời về việc xuất bản *[The Story of Kullervo](../T/The_Story_of_Kullervo.md)* của J.R.R. Tolkien"
         - Bởi: Michał Leśniewski 'M.L.'
     - "*[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* dành cho con mắt, đánh giá về Wayne G. Hammond và Christina Scull *[The Art of The Lord of the Rings](../T/The_Art_of_The_Lord_of_the_Rings.md)*
         - Bởi: Agnieszka Sylwanowicz 'Evermind HS Took'

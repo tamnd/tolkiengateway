@@ -21,11 +21,11 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Fabio_Leone_-_A_Red_Dawn_on_the_East-Mark.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e8/Fabio_Leone_-_A_Red_Dawn_on_the_East-Mark.jpg/250px-Fabio_Leone_-_A_Red_Dawn_on_the_East-Mark.jpg" decoding="async" loading="lazy" width="250" height="177" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e8/Fabio_Leone_-_A_Red_Dawn_on_the_East-Mark.jpg/375px-Fabio_Leone_-_A_Red_Dawn_on_the_East-Mark.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e8/Fabio_Leone_-_A_Red_Dawn_on_the_East-Mark.jpg/500px-Fabio_Leone_-_A_Red_Dawn_on_the_East-Mark.jpg 2x" data-file-width="1920" data-file-height="1357"/></a><figcaption><i>A Red Dawn on the East-Mark</i> by <a href="../../category/I/Images_by_Fabio_Leone.md" title="Category:Images by Fabio Leone">Fabio Leone</a></figcaption></figure>
 
-**phương Đông-mark** là một trong ba sư đoàn quân sự của [Rohan](../R/Rohan.md), còn lại là [West-mark](../W/West-mark.md) và các vùng đất của Vua xung quanh [Edoras](Edoras.md). Dấu phương Đông được xác định là những vùng đất nằm ở phía đông sông [Entwash](Entwash.md) và [Snowbourn](../S/Snowbourn.md). Trong các vấn đề quân sự, quyền chỉ huy [Con Người](../M/Men.md) của phương Đông-mark sẽ được trao cho một trong những Nguyên soái Riddermark của Rohan. Vào thời [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), đây là [Nguyên soái thứ ba](../T/Third_Marshal_of_the_Riddermark.md), cháu trai của Vua [Éomer](../_/Éomer.md), người nắm quyền chỉ huy tại thị trấn cổ [Aldburg](../A/Aldburg.md), thủ đô ban đầu của Rohan và là trụ sở của gia đình ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Mốc phía Đông** là một trong ba sư đoàn quân sự của [Rohan](../R/Rohan.md), các sư đoàn còn lại là [Mốc phía Tây](../W/West-mark.md) và King's Lands xung quanh [Edoras](Edoras.md). East-mark được xác định là những vùng đất nằm ở phía đông sông [Entwash](Entwash.md) và [Snowbourn](../S/Snowbourn.md). Trong các vấn đề quân sự, quyền chỉ huy [Người](../M/Men.md) của East-mark sẽ được trao cho một trong những Thống chế Riddermark của Rohan. Vào thời điểm diễn ra [Chiến tranh nhẫn](../W/War_of_the_Ring.md) đây là [Thống chế thứ ba](../T/Third_Marshal_of_the_Riddermark.md), cháu trai của Nhà vua [Éomer](../_/Éomer.md), người nắm quyền chỉ huy tại thị trấn cổ [Aldburg](../A/Aldburg.md), thủ đô ban đầu của Rohan và là trụ sở của gia đình ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [West-mark](../W/West-mark.md)
+- [Mốc phía Tây](../W/West-mark.md)
 
 <span></span>
 

@@ -15,11 +15,11 @@ sort_keys:
   "Quenya adjectives": "Yara"
 ---
 
-**Yára** là từ [Quenya](../Q/Quenya.md) chỉ *old*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> hoặc *ancient*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Yára** là từ [Quenya](../Q/Quenya.md) cho *old*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> hoặc *ancient*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-[PQ](../P/PQ.md) \**jârâ* < [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=YA&amp;action=edit&amp;redlink=1" title="YA (page does not exist)">YA</a> (và có thể ảnh hưởng từ <a class="new" href="https://tolkiengateway.net/w/index.php?title=GYER&amp;action=edit&amp;redlink=1" title="GYER (page does not exist)">GYER</a>)
+[PQ](../P/PQ.md) \**jârâ* < [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=YA&amp;action=edit&amp;redlink=1" title="YA (page does not exist)">YA</a> (và có thể ảnh hưởng từ <a class="new" href="https://tolkiengateway.net/w/index.php?title=GYER&amp;action=edit&amp;redlink=1" title="GYER (page does not exist)">GYER</a>)
 
 ## Các hình thức khác {#Other_forms}
 
@@ -27,7 +27,7 @@ sort_keys:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Sindarin](../S/Sindarin.md): *[iaur](../I/Iaur.md)*
+- [Tiếng Sindarin](../S/Sindarin.md): *[iaur](../I/Iaur.md)*
 
 ## Xem thêm {#See_also}
 

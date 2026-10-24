@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grip (Bill Butcher's dog)"
 ---
 
-Chuyển hướng tới [Grip (con chó của Bill Butcher)](<../G/Grip_(Bill_Butcher's_dog).md>).
+Chuyển hướng đến [Grip (con chó của Bill Butcher)](<../G/Grip_(Bill_Butcher's_dog).md>).

@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien khai rằng anh không có thời gian gõ lại *[Farmer Giles](../F/Farmer_Giles_of_Ham.md)* và thấy không cần thiết. Việc gõ một bản sao đẹp đẽ của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* là một công việc nặng nhọc; để nó được đánh máy một cách chuyên nghiệp thì rất tốn kém. Tuy nhiên, ông mong sớm được “nghỉ phép” sau 25 năm; nếu vậy anh ấy nghĩ anh ấy có thể hoàn thành một vài việc. <br>
+Tolkien tuyên bố rằng ông không có thời gian để gõ lại *[Farmer Giles](../F/Farmer_Giles_of_Ham.md)* và thấy không cần thiết. Việc gõ một bản sao đẹp đẽ của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* là một công việc nặng nhọc; để nó được đánh máy một cách chuyên nghiệp thì rất tốn kém. Tuy nhiên, ông mong sớm được “nghỉ phép” sau 25 năm; nếu vậy ông nghĩ ông có thể hoàn thành một vài việc. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

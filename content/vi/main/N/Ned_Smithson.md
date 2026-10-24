@@ -13,7 +13,7 @@ categories:
   - "Smiths"
 ---
 
-**Ned Smithson** là con trai của [Smith Smithson](../S/Smith_Smithson.md), nhân vật chính của câu chuyện *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)*và [Nell Smithson](Nell_Smithson.md). Em gái anh ấy là [Nan](Nan_Smithson.md). Khi trưởng thành, anh nối nghiệp cha mình là thợ rèn trong làng. Khi Smith từ bỏ [Fay-star](../F/Fay-star.md) của mình, Ned đã vui lòng nói với cha anh ấy rằng anh ấy có nhiều việc phải làm với ông ấy trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Old_Smithy_House&amp;action=edit&amp;redlink=1" title="Old Smithy House (page does not exist)">Old Smithy House</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>, và nhiều điều khác cần dạy cho ông ấy.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Ned Smithson** là con trai của [Smith Smithson](../S/Smith_Smithson.md), nhân vật chính của câu chuyện *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* và [Nell Smithson](Nell_Smithson.md). Em gái ông là [Nan](Nan_Smithson.md). Khi trưởng thành, anh nối nghiệp cha mình là thợ rèn trong làng. Khi Smith từ bỏ [Fay-star](../F/Fay-star.md) của mình, Ned đã vui lòng nói với cha ông rằng ông có nhiều việc phải làm với ông ấy trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Old_Smithy_House&amp;action=edit&amp;redlink=1" title="Old Smithy House (page does not exist)">Old Smithy House</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>, và nhiều điều khác cần dạy cho ông ấy.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

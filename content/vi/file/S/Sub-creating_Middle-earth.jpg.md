@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bìa [Tạo phụ Trung Địa](../../main/S/Sub-creating_Middle-earth.md), được xuất bản bởi [Nhà xuất bản Cây biết đi](../../main/W/Walking_Tree_Publishers.md). Minh họa bìa bởi [Anke Eißmann](../../main/A/Anke_Eißmann.md).
+Bìa [Tạo phụ Trung Địa](../../main/S/Sub-creating_Middle-earth.md), được xuất bản bởi [Nhà xuất bản Cây biết đi](../../main/W/Walking_Tree_Publishers.md). Minh họa bìa của [Anke Eißmann](../../main/A/Anke_Eißmann.md).
 
 ## Giấy phép {#Licensing}
 

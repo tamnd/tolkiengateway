@@ -23,11 +23,11 @@ images:
 ## Nội dung {#Contents}
 
 - Vivien Stocker: Biên tập
-- Isabelle Pantin: Tolkien và sự lãng mạn
+- Isabelle Pantin: Tolkien et le lãng mạn
 - [Thomas M. Honegger](../T/Thomas_M._Honegger.md); Damien Bador (bản dịch.): Plus de lumière que d'ombre? Approches jungiennes de Tolkien et de l'image Archétypale de l'Ombre
 - [John D. Rateliff](../J/John_D._Rateliff.md); Vivien Stocker (transl.): Un Fragment, détaché : *Bilbo le Hobbit* et *le Silmarillion*
 - [Tom Shippey](../T/Tom_Shippey.md); Laura Martin-Gomez (bản dịch.): Arbres, tronçonneuses, et Visions du Paradis
-- [Jason Fisher](../J/Jason_Fisher.md); Romain Paulino (transl.): La jeune fille elfe dans la Forêt: une image récurrente chez Tolkien
+- [Jason Fisher](../J/Jason_Fisher.md); Romain Paulino (bản dịch.): La jeune fille elfe dans la Forêt: une image récurrente chez Tolkien
 - Jérôme Sainton: *Amdir ah Estel*, sự sáng suốt của l'espérance dans le Conte d'Arda
 - Jean-Rodolphe Turlin: Wandering Madness – La Fureur errante : L'irrépressible appel de l'errance, un mô típ dans l'oeuvre de Tolkien
 - [Ursula K. Le Guin](../U/Ursula_K._Le_Guin.md); Mélanie Fazi (bản dịch.): Schémas rythmiques dans *le Seigneur des Anneaux*
@@ -38,17 +38,17 @@ images:
 ## Bản dịch tiếng Anh {#English_translation}
 
 - Vivien Stocker: Biên tập
-- [Isabelle Pantin](../I/Isabelle_Pantin.md): Tolkien và Chủ nghĩa lãng mạn
-- [Thomas M. Honegger](../T/Thomas_M._Honegger.md); Damien Bador (bản dịch): Nhiều ánh sáng hơn bóng tối? Jungian tiếp cận Tolkien và hình ảnh nguyên mẫu của Bóng Tối
+- [Isabelle Pantin](../I/Isabelle_Pantin.md): Tolkien và chủ nghĩa lãng mạn
+- [Thomas M. Honegger](../T/Thomas_M._Honegger.md); Damien Bador (bản dịch): Nhiều ánh sáng hơn bóng tối? Jungian tiếp cận Tolkien và hình ảnh nguyên mẫu của Shadow
 - [John D. Rateliff](../J/John_D._Rateliff.md); Vivien Stocker (bản dịch.): Một mảnh vỡ, tách rời: *The Hobbit* và *The Silmarillion*
 - [Tom Shippey](../T/Tom_Shippey.md); Laura Martin-Gomez (bản dịch): Cây cối, cưa máy và ảo ảnh về thiên đường
-- [Jason Fisher](../J/Jason_Fisher.md); Romain Paulino (bản dịch.): Cô gái Tiên trong rừng: Hình ảnh lặp lại trong Tolkien
+- [Jason Fisher](../J/Jason_Fisher.md); Romain Paulino (bản dịch): Thiếu nữ yêu tinh trong rừng: Hình ảnh tái diễn ở Tolkien
 - Jérôme Sainton: *Amdir ah Estel*, sự nhận thức về niềm hy vọng trong Truyện Arda
-- Jean-Rodolphe Turlin: Điên cuồng lang thang – La Fureur errante: Tiếng gọi lang thang không thể kìm nén, mô típ trong tác phẩm của Tolkien
+- Jean-Rodolphe Turlin: Điên cuồng lang thang – La Fureur errante: Tiếng gọi lang thang không thể kìm nén, một mô típ trong tác phẩm của Tolkien
 - [Ursula K. Le Guin](../U/Ursula_K._Le_Guin.md); Mélanie Fazi (transl.): Các mẫu nhịp điệu trong *Lord of the Rings*
 - [Ted Nasmith](../T/Ted_Nasmith.md); Julien Mansencal (bản dịch.): Một câu chuyện dài
 - Bertrand Bellet: *Sire Orfée*, bản dịch
-- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md); Stéphanie Loubechine (transl.): Tiểu luận về *Smith de Wootton Major*
+- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md); Stéphanie Loubechine (bản dịch): Tiểu luận về *Smith de Wootton Major*
 
 ## Liên kết ngoài {#External_links}
 

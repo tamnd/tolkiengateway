@@ -39,13 +39,13 @@ infobox:
 
 ## Nội dung {#Contents}
 
-- "Câu chuyện về Thân vương Lucio: G.K. Chesterton và Trí tưởng tượng trực quan"
+- "Câu chuyện về hoàng tử Lucio: G.K. Chesterton và trí tưởng tượng trực quan"
     - Bởi: Danny Gabelman và Jeremiah Mercurio
 - "Augustine và C.S. Lewis về tình bạn"
     - Bởi: Walter Hansen
-- "Charles Williams và Tình bạn"
+- "Charles Williams và tình bạn"
     - Bởi: Sørina Higgins
-- "Hugo Dyson: Một bệnh đục thủy tinh thể vô nghĩa"
+- "Hugo Dyson: Một vết đục thủy tinh thể vô nghĩa"
     - Bởi: Joel Heck
 - "Việc sử dụng nguồn phụ của người nói trong *The Man Born to be King*"
     - Bởi: Kathryn Wehr
@@ -56,7 +56,7 @@ infobox:
 - Bài luận ôn tập:
     - "Một thời điểm quan trọng trong nghiên cứu về giới của Lewis"
         - Bởi: Brenton Dickieson
-    - "Tiếng vang của sự vĩnh cửu trong tiểu thuyết của C.S. Lewis"
+    - "Tiếng vọng của sự vĩnh cửu trong tiểu thuyết của C.S. Lewis"
         - Bởi: Brenton Dickieson
 - Đánh giá sách:
     - "Đánh giá về *A Well of Wonder: Các bài tiểu luận về C.S. Lewis, J.R.R. Tolkien và Inklings* của Clyde S. Kilby, do Loren Wilkinson và Keith Call biên tập"
@@ -65,11 +65,11 @@ infobox:
         - Bởi: James E. Beitler III
     - "Đánh giá về *Owen Barfield: Philosophy, Poetry, and Theology* của Michael Vincent Di Fuccia"
         - Bởi: Edwin Woodruff Tait
-    - "Đánh giá về *The Magician's Twin: C.S. Lewis về Khoa học, Chủ nghĩa Khoa học và Xã hội* do John G. West biên tập"
+    - "Đánh giá về *The Magician's Twin: C.S. Lewis về Khoa học, Chủ nghĩa duy khoa học và Xã hội* do John chủ biên G. West"
         - Bởi: Robert Bishop
-    - "Đánh giá về *The Inklings và Vua Arthur: J.R.R. Tolkien, Charles Williams, C.S. Lewis, và Owen Barfield về vấn đề nước Anh* do Sørina Higgins biên tập"
+    - "Đánh giá về *The Inklings và King Arthur: J.R.R. Tolkien, Charles Williams, C.S. Lewis, và Owen Barfield về vấn đề nước Anh* do Sørina Higgins biên tập"
         - Bởi: David Llewellyn Dodds
-    - "Đánh giá *ABC về Đời sống Cơ đốc: Tuyển tập Cuối cùng về Thân vương Nghịch lý, đoạn trích của G.K. Chesterton, lời nói đầu của Peter Kreeft*"
+    - "Đánh giá *ABC về Đời sống Cơ đốc: Tuyển tập Cuối cùng của Hoàng tử Nghịch lý, đoạn trích của G.K. Chesterton, lời nói đầu của Peter Kreeft*"
         - Bởi: Brett H. Speakman
 - Ghi chú sách:
     - *Phát hiện Wimsey: Tài liệu về tiểu thuyết trinh thám của Dorothy L. Sayers*

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ilúvatar"
 ---
 
-Chuyển hướng đến [Ilúvatar](../I/Ilúvatar.md).
+Chuyển hướng tới [Ilúvatar](../I/Ilúvatar.md).

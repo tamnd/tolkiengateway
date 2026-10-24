@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Baranor (man of Gondor)"
 ---
 
-Chuyển hướng tới [Baranor (người đàn ông của Gondor)](<Baranor_(man_of_Gondor).md>).
+Chuyển hướng đến [Baranor (người đàn ông Gondor)](<Baranor_(man_of_Gondor).md>).

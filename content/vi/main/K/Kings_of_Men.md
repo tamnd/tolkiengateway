@@ -13,7 +13,7 @@ categories:
   - "Númenóreans"
 ---
 
-**Các vị vua của Con Người** là danh hiệu được trao cho [người Númenor](../N/Númenóreans.md) bởi [Con Người](../M/Men.md) của [Trung Địa](../M/Middle-earth.md) khi họ quay trở lại đó vào [Thời đại thứ hai](../S/Second_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Vua của loài người** là danh hiệu được trao cho [Númenóreans](../N/Númenóreans.md) bởi [Người](../M/Men.md) của [Trung Địa](../M/Middle-earth.md) khi họ quay trở lại đó vào [Thời đại thứ hai](../S/Second_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

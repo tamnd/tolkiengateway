@@ -68,8 +68,8 @@ Sự kiện xảy ra vào ngày 3 tháng 8
 - **[1966](1966.md)** - "The Hobbit Man", bài phỏng vấn [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được đăng trên *Oxford Mail*.
 - **[1979](1979.md)** - Nữ diễn viên [Evangeline Lilly](../E/Evangeline_Lilly.md) ra đời.
 - **[1983](1983.md)** - [Daphne Castell](../D/Daphne_Castell.md) qua đời.
-- **[1990](1990.md)** - [Mythcon 21](../M/Mythcon_21.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/California_State_University" title="wikipedia:California State University">Đại học bang California</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Long_Beach,_California" title="wikipedia:Long Beach, California">Long Beach</a>.
-- **[1991](1991.md)** – [Priscilla Tolkien](../P/Priscilla_Tolkien.md) nói về "J.R.R. Tolkien: Học giả và Người kể chuyện" tại Thư viện Tưởng niệm Martin Luther Vua ở Washington, D.C.
+- **[1990](1990.md)** - [Mythcon 21](../M/Mythcon_21.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/California_State_University" title="wikipedia:California State University">Đại học Bang California</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Long_Beach,_California" title="wikipedia:Long Beach, California">Long Beach</a>.
+- **[1991](1991.md)** – [Priscilla Tolkien](../P/Priscilla_Tolkien.md) phát biểu về "J.R.R. Tolkien: Học giả và Người kể chuyện" tại Thư viện tưởng niệm Martin Luther King ở Washington, D.C.
 - **[2001](2001.md)** - [Mythcon 32](../M/Mythcon_32.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[2007](2007.md)** - [Mythcon 38](../M/Mythcon_38.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[2010](2010.md)** - *[The Lord of the Rings: The Card Game](../T/The_Lord_of_the_Rings%253A_The_Card_Game.md)* được công bố.
@@ -81,7 +81,7 @@ Sự kiện xảy ra vào ngày 3 tháng 8
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đoàn rước tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md).
+    - Đoàn tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md).

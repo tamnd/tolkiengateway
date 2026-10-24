@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Edith Bratt (1 February 1913)"
 ---
 
-Chuyển hướng đến [Thư gửi Edith Bratt (ngày 1 tháng 2 năm 1913)](<../L/Letter_to_Edith_Bratt_(1_February_1913).md>).
+Chuyển hướng tới [Thư gửi Edith Bratt (ngày 1 tháng 2 năm 1913)](<../L/Letter_to_Edith_Bratt_(1_February_1913).md>).

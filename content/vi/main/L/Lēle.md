@@ -13,17 +13,17 @@ categories:
   - "Quenya nouns"
 ---
 
-**Lēle** là từ [Quenya](../Q/Quenya.md) có nghĩa là "muốn với mục đích có ý thức, ngay lập tức hoặc từ xa".<sup id="cite_ref-nm_1-0" class="reference"><a href="#cite_note-nm-1">[1]</a></sup>
+**Lēle** là một từ [Quenya](../Q/Quenya.md) có nghĩa là "muốn với mục đích có ý thức, ngay lập tức hoặc từ xa".<sup id="cite_ref-nm_1-0" class="reference"><a href="#cite_note-nm-1">[1]</a></sup>
 
 Một trong những dạng động từ của nó là *lelya*, có nghĩa là "đi, tiến tới (theo bất kỳ hướng nào), đi du lịch", với thì quá khứ là *lende*.<sup id="cite_ref-wj_2-0" class="reference"><a href="#cite_note-wj-2">[2]</a></sup> Một dạng động từ khác là *lelinye*.<sup id="cite_ref-nm_1-1" class="reference"><a href="#cite_note-nm-1">[1]</a></sup>
 
-Nó khác với "sẵn sàng, đồng ý, đồng ý, đồng ý". Ví dụ: mặc dù một người đàn ông có thể nói “Tôi đồng ý, tôi sẽ” trước một số đề xuất của người khác, nhưng điều đó có thể phù hợp hoặc không phù hợp với mục đích hoặc thiết kế của anh ta.<sup id="cite_ref-nm_1-2" class="reference"><a href="#cite_note-nm-1">[1]</a></sup>
+Nó khác với "sẵn sàng, đồng ý, đồng ý, đồng ý". Ví dụ: mặc dù một người đàn ông có thể nói “Tôi đồng ý, tôi sẽ” trước một số đề xuất của người khác, nhưng điều đó có thể phù hợp hoặc không phù hợp với mục đích hoặc thiết kế của ông ta.<sup id="cite_ref-nm_1-2" class="reference"><a href="#cite_note-nm-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Nó có nguồn gốc từ [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../R/Root.md) <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=DEL&amp;action=edit&amp;redlink=1" title="DEL (page does not exist)">DEL</a></b> có nghĩa là “đi bộ, đi, tiếp tục, du lịch”.<sup id="cite_ref-wj_2-1" class="reference"><a href="#cite_note-wj-2">[2]</a></sup>
+Nó có nguồn gốc từ [tiếng Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../R/Root.md) <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=DEL&amp;action=edit&amp;redlink=1" title="DEL (page does not exist)">DEL</a></b> có nghĩa là “đi bộ, đi, tiếp tục, du lịch”.<sup id="cite_ref-wj_2-1" class="reference"><a href="#cite_note-wj-2">[2]</a></sup>
 
-Trong Quenya đã có sự thay đổi sớm về **d** > **l** ban đầu, điều này thường xảy ra ở cả hai phương ngữ [Vanyarin](../V/Vanyarin.md) và [Ñoldorin](../_/Ñoldorin.md). Hơn nữa, <b>*del-</b> dường như đã trở thành <b>*dẫn đầu</b>, bởi sự đồng hóa. Dạng quá khứ hiển thị rõ ràng "\*led", trong khi *lelya* cũng có thể được bắt nguồn từ <i>*ledja</i>, vì **dj** trở thành **ly** về mặt y tế trong Quenya.<sup id="cite_ref-wj_2-2" class="reference"><a href="#cite_note-wj-2">[2]</a></sup>
+Ở Quenya có sự thay đổi sớm về **d** > **l** ban đầu, điều này thường xảy ra trong cả hai phương ngữ [Vanyarin](../V/Vanyarin.md) và [Ñoldorin](../_/Ñoldorin.md). Hơn nữa, <b>*del-</b> dường như đã trở thành <b>*dẫn đầu</b>, bởi sự đồng hóa. Dạng quá khứ hiển thị rõ ràng "\*led", trong khi *lelya* cũng có thể được bắt nguồn từ <i>*ledja</i>, vì **dj** đã trở thành **ly** trong tiếng Quenya.<sup id="cite_ref-wj_2-2" class="reference"><a href="#cite_note-wj-2">[2]</a></sup>
 
 <span></span>
 

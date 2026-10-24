@@ -20,7 +20,7 @@ images:
 
 <figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/E/Elven_Blade_(2007).jpg.md"><img src="https://tolkiengateway.net/w/images/7/74/Elven_Blade_%282007%29.jpg" decoding="async" loading="lazy" width="200" height="307" class="mw-file-element" data-file-width="200" data-file-height="307"/></a><figcaption>Cover of the 2007 Russian edition of <i><a href="../E/Elfijskij_Klinok.md" title="Elfijskij Klinok">Elfijskij Klinok</a></i></figcaption></figure>
 
-**Ring of Bóng Tối** ("Кольцо Тьмы") là một bộ truyện giả tưởng bằng tiếng Nga lấy bối cảnh [Trung Địa](../M/Middle-earth.md) 300 năm sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), được viết bởi <a class="extiw" href="http://en.wikipedia.org/wiki/Nick_Perumov" title="wikipedia:Nick Perumov">Nick Perumov</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Phim bao gồm ba cuốn tiểu thuyết:
+**Chiếc nhẫn bóng tối** ("Кольцо Тьмы") là một bộ truyện giả tưởng bằng tiếng Nga lấy bối cảnh ở [Trung Địa](../M/Middle-earth.md) 300 năm sau [Cuộc chiến của chiếc nhẫn](../W/War_of_the_Ring.md), được viết bởi <a class="extiw" href="http://en.wikipedia.org/wiki/Nick_Perumov" title="wikipedia:Nick Perumov">Nick Perumov</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Phim bao gồm ba cuốn tiểu thuyết:
 
 - [1993](../_/1993.md): *[Elven Blade](../E/Elfijskij_Klinok.md)*
 - [1993](../_/1993.md): *[Black Lance](../C/Chernoe_Kopjo.md)*

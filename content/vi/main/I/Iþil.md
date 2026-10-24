@@ -11,4 +11,4 @@ redirect_target: "Moon"
 redirect_fragment: "Other names"
 ---
 
-Chuyển hướng đến [Mặt Trăng](../M/Moon.md#Other_names).
+Chuyển hướng tới [Mặt trăng](../M/Moon.md#Other_names).

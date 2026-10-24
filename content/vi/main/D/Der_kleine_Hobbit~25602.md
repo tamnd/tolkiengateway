@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Der Kleine Hobbit"
 ---
 
-Chuyển hướng đến [Der Kleine Hobbit](Der_Kleine_Hobbit.md).
+Chuyển hướng tới [Der Kleine Hobbit](Der_Kleine_Hobbit.md).

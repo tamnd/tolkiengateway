@@ -13,7 +13,7 @@ categories:
   - "Songs"
 ---
 
-**Ra ngoài! Đồ Wight già! Biến mất trong ánh nắng!** là một trong những bài hát được thể hiện bởi [Tom Bombadil](../T/Tom_Bombadil.md). Anh ấy hát bài đó để cứu những người hobbit khỏi [Barrow-wight](../B/Barrow-wights.md) sau khi [Frodo](../F/Frodo_Baggins.md) hát [Ho! Tom Bombadil, Tom Bombadillo!](../H/Ho!_Tom_Bombadil,_Tom_Bombadillo!.md) Sau đó anh ấy hát [Wake Now My Merry Lads! Hãy đánh thức và nghe tôi gọi!](../W/Wake_Now_My_Merry_Lads!_Wake_and_Hear_Me_Calling!.md) để đánh thức [Merry](../M/Meriadoc_Brandybuck.md), [Pippin](../P/Peregrin_Took.md) và [Sam](../S/Samwise_Gamgee.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ra ngoài! Đồ Wight già! Biến mất trong ánh nắng!** là một trong những bài hát được hát bởi [Tom Bombadil](../T/Tom_Bombadil.md). Ông hát bài đó để cứu người hobbit khỏi [Barrow-wights](../B/Barrow-wights.md) sau khi [Frodo](../F/Frodo_Baggins.md) hát [Ho! Tom Bombadil, Tom Bombadillo!](../H/Ho!_Tom_Bombadil,_Tom_Bombadillo!.md) Sau đó ông hát [Wake Now My Merry Lads! Hãy đánh thức và nghe tôi gọi!](../W/Wake_Now_My_Merry_Lads!_Wake_and_Hear_Me_Calling!.md) để đánh thức [Chúc mừng](../M/Meriadoc_Brandybuck.md), [Pippin](../P/Peregrin_Took.md) và [Sam](../S/Samwise_Gamgee.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bài thơ {#The_poem}
 

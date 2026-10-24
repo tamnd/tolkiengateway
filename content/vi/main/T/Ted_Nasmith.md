@@ -62,7 +62,7 @@ infobox:
 
 ## Tuổi thơ {#Early_life}
 
-Thời thơ ấu và thiếu niên, Nasmith được chị gái giới thiệu với *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và bị cuốn hút. Trong [1972](../_/1972.md) anh ấy đã gửi tới Tolkien những bức ảnh chụp tác phẩm của mình. Tolkien đáp lại bằng khen nhưng cũng có chê, cho rằng việc thể hiện Bilbo trong bức tranh <i><a class="external text" href="https://www.tednasmith.com/tolkien/the-unexpected-party/" rel="noreferrer noopener" target="_blank">Bữa tiệc bất ngờ</a></i> "quá trẻ con".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Thời thơ ấu và thiếu niên, Nasmith được chị gái giới thiệu với *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và bị cuốn hút. Trong [1972](../_/1972.md) ông đã gửi cho Tolkien những bức ảnh về tác phẩm của mình. Tolkien đáp lại bằng lời khen nhưng cũng có lời chỉ trích, nói rằng việc ông thể hiện Bilbo trong bức tranh <i><a class="external text" href="https://www.tednasmith.com/tolkien/the-unexpected-party/" rel="noreferrer noopener" target="_blank">Bữa tiệc bất ngờ</a></i> "quá trẻ con".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <h2><span id="Peter_Jackson.27s_The_Lord_of_the_Rings"></span><span class="mw-headline" id="Peter_Jackson&#39;s_The_Lord_of_the_Rings">Peter Jackson&#39;s The Lord of the Rings</span></h2>
 
@@ -74,7 +74,7 @@ Nhiều người hâm mộ Ted Nasmith đã bày tỏ sự thất vọng khi anh
 <p class="tg-quote-footer"><cite>Ted Nasmith <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Một người hâm mộ đã tạo ra một trang web có tên <a class="external text" href="http://tednasmith.narod.ru" rel="noreferrer noopener" target="_blank">Ted Nasmith: Nghệ sĩ ý tưởng phim Chúa tể những chiếc nhẫn chưa được công nhận</a>. Trang web hiển thị các hình minh họa cạnh nhau của Nasmith với các cảnh sau trong The Lord of the Rings phim. [Peter Jackson](../P/Peter_Jackson.md) được lấy cảm hứng từ Nasmith - như [Alan Lee](../A/Alan_Lee.md) đã mô tả:
+Một người hâm mộ đã tạo ra một trang web có tên <a class="external text" href="http://tednasmith.narod.ru" rel="noreferrer noopener" target="_blank">Ted Nasmith: Nghệ sĩ ý tưởng phim Chúa tể những chiếc nhẫn chưa được công nhận</a>. Trang web hiển thị các hình minh họa cạnh nhau của Nasmith với các cảnh sau này trong phim Chúa tể của những chiếc nhẫn. [Peter Jackson](../P/Peter_Jackson.md) được truyền cảm hứng từ Nasmith - như [Alan Lee](../A/Alan_Lee.md) đã mô tả:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>&#34;[T]here were certain pictures of Ted&#39;s that Peter quite liked. He actually bought one of Nasmith&#39;s originals --- a very striking picture of Mordor&#34;
@@ -120,7 +120,7 @@ Một người hâm mộ đã tạo ra một trang web có tên <a class="extern
 - [2001](../_/2001.md): *[Tolkien Calendar 2002](Tolkien_Calendar_2002.md)*
 - [2002](../_/2002.md): *[Tolkien Calendar 2003](Tolkien_Calendar_2003.md)*
 - [2003](../_/2003.md): *[Tolkien Calendar 2004](Tolkien_Calendar_2004.md)*
-- [2007](../_/2007.md): *Heren Istarion 2008 Hiệp hội Đông Bắc Tolkien* (với [Jef Murray](../J/Jef_Murray.md) và Catherine Sparsidis)
+- [2007](../_/2007.md): *Heren Istarion 2008 Hiệp hội Tolkien Đông Bắc* (với [Jef Murray](../J/Jef_Murray.md) và Catherine Sparsidis)
 - [2008](../_/2008.md): *Tolkien Calendar 2009*
 - [2009](../_/2009.md): *Beyond Bree Calendar 2010* (với nhiều nghệ sĩ khác nhau)
 - [2009](../_/2009.md): *Tolkien Calendar 2010*
@@ -154,13 +154,13 @@ Một người hâm mộ đã tạo ra một trang web có tên <a class="extern
 ### Bài viết {#Articles}
 
 - [1984](../_/1984.md): [*Amon Hen* 69](../A/Amon_Hen_69.md)
-    - "Của Đất Bóng Tối"
+    - "Của Vùng Đất Bóng Tối"
 - [1985](../_/1985.md): [*Amon Hen* 76](../A/Amon_Hen_76.md)
     - "Báo cáo Oxonmoot"
 - [1989](../_/1989.md): [*Mallorn* 26](../M/Mallorn_26.md)
     - "Về minh họa Tolkien"
 - [2000](../_/2000.md): [*Amon Hen* 161](../A/Amon_Hen_161.md)
-    - "Chuyến đi tới Roanne"
+    - "Chuyến đi đến Roanne"
 - [2005](../_/2005.md): [*Amon Hen* 195](../A/Amon_Hen_195.md)
     - "Đánh giá: *[The Forsaken Realm of Tolkien](The_Forsaken_Realm_of_Tolkien.md)*"
 - [2005](../_/2005.md): *[Tolkien's Modern Middle Ages](Tolkien's_Modern_Middle_Ages.md)* (được chỉnh sửa bởi [Jane Chance](../J/Jane_Chance.md) và Alfred K. Siewers)
@@ -176,9 +176,9 @@ Một người hâm mộ đã tạo ra một trang web có tên <a class="extern
 
 ## Giải thưởng {#Awards}
 
-- [2019](../_/2019.md): **[Giải thưởng của Hội Tolkien](Tolkien_Society_Awards.md): Tác phẩm nghệ thuật xuất sắc nhất**, *[Durin's Crown and the Mirrormere](../../file/T/Ted_Nasmith_-_Durin's_Crown_and_the_Mirrormere.jpg.md)*
-- [2021](../_/2021.md): **[Giải thưởng của Hội Tolkien](Tolkien_Society_Awards.md): Tác phẩm nghệ thuật xuất sắc nhất**, *[He Beheld a Vision of Gondolin Amid the Snow](../../file/T/Ted_Nasmith_-_He_Beheld_a_Vision_of_Gondolin_Amid_the_Snow.jpg.md)*
-- [2025](../_/2025.md): **[Giải thưởng của Hội Tolkien](Tolkien_Society_Awards.md): Tác phẩm nghệ thuật xuất sắc nhất**, *[Arrival in the Shire](../../file/T/Ted_Nasmith_-_Arrival_in_the_Shire.jpeg.md)*
+- [2019](../_/2019.md): **[Giải thưởng của Hiệp hội Tolkien](Tolkien_Society_Awards.md): Tác phẩm nghệ thuật xuất sắc nhất**, *[Durin's Crown and the Mirrormere](../../file/T/Ted_Nasmith_-_Durin's_Crown_and_the_Mirrormere.jpg.md)*
+- [2021](../_/2021.md): **[Giải thưởng của Hiệp hội Tolkien](Tolkien_Society_Awards.md): Tác phẩm nghệ thuật xuất sắc nhất**, *[He Beheld a Vision of Gondolin Amid the Snow](../../file/T/Ted_Nasmith_-_He_Beheld_a_Vision_of_Gondolin_Amid_the_Snow.jpg.md)*
+- [2025](../_/2025.md): **[Giải thưởng của Hiệp hội Tolkien](Tolkien_Society_Awards.md): Tác phẩm nghệ thuật xuất sắc nhất**, *[Arrival in the Shire](../../file/T/Ted_Nasmith_-_Arrival_in_the_Shire.jpeg.md)*
 
 ## Xem thêm {#See_also}
 
@@ -192,19 +192,19 @@ Một người hâm mộ đã tạo ra một trang web có tên <a class="extern
 
 ### Phỏng vấn {#Interviews}
 
-- <a class="external text" href="https://journeytothesea.com/nasmith-interview/" rel="noreferrer noopener" target="_blank">Minh họa Tolkien: Ted Nasmith Phỏng vấn</a> Randy Hoyt (2009)
-- <a class="external text" href="https://web.archive.org/web/20120505070118/https://www.radiorivendell.com/article/2012/04/25/ted-nasmith/" rel="noreferrer noopener" target="_blank">Ted Nasmith</a>, phỏng vấn *Radio Rivendell* (2012)
-- <a class="external text" href="https://www.youtube.com/watch?v=r38mhypIki0&amp;ab_channel=wwwactusfcom" rel="noreferrer noopener" target="_blank">Phỏng vấn Ted Nasmith</a> tại Troll et Légendes (2013)
-- <a class="external text" href="https://www.youtube.com/watch?v=lAMguJ8b9Pc&amp;ab_channel=KevinRichardsVIPs" rel="noreferrer noopener" target="_blank">VIP của Kevin Richards Ted Nasmith</a> (2021)
-- <a class="external text" href="https://theprancingponypodcast.com/2021/02/21/198-never-enough-tolkien-an-interview-with-ted-nasmith/" rel="noreferrer noopener" target="_blank">Không bao giờ đủ Tolkien: Phỏng vấn Ted Nasmith</a> trên [The Prancing Pony Podcast](The_Prancing_Pony_Podcast.md) (2021)
+- <a class="external text" href="https://journeytothesea.com/nasmith-interview/" rel="noreferrer noopener" target="_blank">Minh họa Tolkien: Cuộc phỏng vấn của Ted Nasmith</a> với Randy Hoyt (2009)
+- <a class="external text" href="https://web.archive.org/web/20120505070118/https://www.radiorivendell.com/article/2012/04/25/ted-nasmith/" rel="noreferrer noopener" target="_blank">Ted Nasmith</a>, cuộc phỏng vấn với *Radio Rivendell* (2012)
+- <a class="external text" href="https://www.youtube.com/watch?v=r38mhypIki0&amp;ab_channel=wwwactusfcom" rel="noreferrer noopener" target="_blank">Phỏng vấn de Ted Nasmith</a> tại Trolls et Légendes (2013)
+- <a class="external text" href="https://www.youtube.com/watch?v=lAMguJ8b9Pc&amp;ab_channel=KevinRichardsVIPs" rel="noreferrer noopener" target="_blank">Ted Nasmith VIP của Kevin Richards</a> (2021)
+- <a class="external text" href="https://theprancingponypodcast.com/2021/02/21/198-never-enough-tolkien-an-interview-with-ted-nasmith/" rel="noreferrer noopener" target="_blank">Không bao giờ đủ Tolkien: Cuộc phỏng vấn với Ted Nasmith</a> trên [Podcast The Prancing Pony](The_Prancing_Pony_Podcast.md) (2021)
 - <a class="external text" href="https://www.youtube.com/watch?v=Wij_5mypL60&amp;ab_channel=TolkienTalk" rel="noreferrer noopener" target="_blank">Phỏng vấn Ted Nasmith | TT 535</a>, với <a class="new" href="https://tolkiengateway.net/w/index.php?title=TolkienTalk&amp;action=edit&amp;redlink=1" title="TolkienTalk (page does not exist)">TolkienTalk</a> (2021)
-- <a class="external text" href="https://www.youtube.com/watch?v=D7cR2wgLh60" rel="noreferrer noopener" target="_blank">Ted Nasmith, Tolkien Phỏng vấn họa sĩ & nghệ sĩ</a> với [Mọt sách của những chiếc nhẫn](../N/Nerd_of_the_Rings.md) (2022)
-- <a class="external text" href="https://www.tor.com/2022/08/05/the-joy-of-painting-middle-earth-with-ted-nasmith/" rel="noreferrer noopener" target="_blank">Niềm vui vẽ tranh Trung Địa Với Ted Nasmith</a> với Jeff LaSala (2022)
-- <a class="external text" href="https://www.youtube.com/watch?v=KtfOruVC0ls&amp;ab" rel="noreferrer noopener" target="_blank">Tập 44</a> của [The Tolkien Experience Podcast](The_Tolkien_Experience.md) (2022)
+- <a class="external text" href="https://www.youtube.com/watch?v=D7cR2wgLh60" rel="noreferrer noopener" target="_blank">Ted Nasmith, Họa sĩ & Họa sĩ Tolkien Phỏng vấn</a> với [Nerd of the Rings](../N/Nerd_of_the_Rings.md) (2022)
+- <a class="external text" href="https://www.tor.com/2022/08/05/the-joy-of-painting-middle-earth-with-ted-nasmith/" rel="noreferrer noopener" target="_blank">Niềm vui vẽ tranh Trung Địa cùng Ted Nasmith</a> với Jeff LaSala (2022)
+- <a class="external text" href="https://www.youtube.com/watch?v=KtfOruVC0ls&amp;ab" rel="noreferrer noopener" target="_blank">Tập 44</a> của [Podcast Trải nghiệm Tolkien](The_Tolkien_Experience.md) (2022)
 
 ### Trò chuyện {#Talks}
 
-- <a class="external text" href="https://www.youtube.com/watch?v=kwV4aomXsc0&amp;ab_channel=TheTolkienSociety" rel="noreferrer noopener" target="_blank">Ted Nasmith tại Tolkien 2019</a> tại [Hội Tolkien](The_Tolkien_Society.md) (2019)
+- <a class="external text" href="https://www.youtube.com/watch?v=kwV4aomXsc0&amp;ab_channel=TheTolkienSociety" rel="noreferrer noopener" target="_blank">Ted Nasmith tại Tolkien 2019</a> tại [Hiệp hội Tolkien](The_Tolkien_Society.md) (2019)
 
 <span></span>
 

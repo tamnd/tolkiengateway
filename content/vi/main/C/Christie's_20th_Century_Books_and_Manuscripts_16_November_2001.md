@@ -28,7 +28,7 @@ infobox:
 
 - Mô tả cho Lô 20 bao gồm các đoạn trích từ [bức thư gửi George Sayer ngày 28 tháng 11 năm 1963](<../L/Letter_to_George_Sayer_(28_November_1963).md>).
 
-- Mô tả cho Lô 21 bao gồm các đoạn trích từ các bức thư gửi cho George Sayer và vợ ông Moira, kể từ [ngày 7 tháng 8 năm 1952](<../L/Letter_to_George_and_Moira_Sayer_(7_August_1952).md>) (cũng [gửi Moira Sayer, ngày 10 tháng 8 năm 1952](<../L/Letter_to_Moira_Sayer_(10_August_1952).md>)) đến [ngày 11 tháng 12 năm 1971](<../L/Letter_to_George_and_Moira_Sayer_(11_December_1971).md>). Lô này cũng bao gồm các bản sao kiểm chứng (được hiệu chỉnh bởi Tolkien) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và [*Essays and Studies* (1953)](<../E/Essays_and_Studies_(1953).md>), cùng với nhiều bản sao ấn bản đầu tiên của các cuốn sách của Tolkien.
+- Mô tả cho Lô 21 bao gồm các đoạn trích từ các bức thư gửi cho George Sayer và vợ ông Moira, kể từ [ngày 7 tháng 8 năm 1952](<../L/Letter_to_George_and_Moira_Sayer_(7_August_1952).md>) (cũng [gửi Moira Sayer, ngày 10 tháng 8 năm 1952](<../L/Letter_to_Moira_Sayer_(10_August_1952).md>)) đến [ngày 11 tháng 12 năm 1971](<../L/Letter_to_George_and_Moira_Sayer_(11_December_1971).md>). Lô hàng cũng bao gồm các bản sao kiểm chứng (được Tolkien sửa chữa) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và [*Essays and Studies* (1953)](<../E/Essays_and_Studies_(1953).md>), cùng với nhiều bản sao ấn bản đầu tiên của các cuốn sách của Tolkien.
 
 Một phần bức thư năm 1963 và một trang chú thích từ bản chứng minh của *[The Return of the King](../T/The_Return_of_the_King.md)* được sao chép dưới dạng ảnh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

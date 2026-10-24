@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tomb of Elendil"
 ---
 
-Chuyển hướng đến [Mộ Elendil](Tomb_of_Elendil.md).
+Chuyển hướng tới [Lăng mộ Elendil](Tomb_of_Elendil.md).

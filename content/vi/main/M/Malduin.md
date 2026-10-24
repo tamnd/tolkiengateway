@@ -13,9 +13,9 @@ categories:
   - "Sindarin locations"
 ---
 
-**Malduin** là một con sông nhỏ ở phía bắc [Beleriand](../B/Beleriand.md). Nó chảy về phía nam từ [Ered Wethrin](../E/Ered_Wethrin.md) để gặp [Teiglin](../T/Teiglin.md) trước khi con sông đó đi qua dưới mái hiên của [Khu rừng Brethil](../F/Forest_of_Brethil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Malduin** là một con sông nhỏ ở phía bắc [Beleriand](../B/Beleriand.md). Nó chảy về phía nam từ [Ered Wethrin](../E/Ered_Wethrin.md) để gặp [Teiglin](../T/Teiglin.md) trước khi con sông đó chảy qua dưới mái hiên của [Rừng Brethil](../F/Forest_of_Brethil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Nó có nghĩa là "Dòng sông vàng" trong [Sindarin](../S/Sindarin.md), từ [MAL](MALAT.md) ("vàng") + *[duin](../D/Duin.md)* ("sông").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Nó có nghĩa là "Sông vàng" trong [Sindarin](../S/Sindarin.md), từ [MAL](MALAT.md) ("vàng") + *[duin](../D/Duin.md)* ("sông").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

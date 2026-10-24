@@ -48,7 +48,7 @@ infobox:
 
 <i><b>Từ vựng tiếng Anh trung cổ</b></i> là bảng chú giải các từ [tiếng Anh trung cổ](../M/Middle_English.md) tuân thủ theo [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được xuất bản trong [1922](../_/1922.md).
 
-It was intended to be published together with <a class="new" href="https://tolkiengateway.net/w/index.php?title=Kenneth_Sisam&amp;action=edit&amp;redlink=1" title="Kenneth Sisam (page does not exist)">Kenneth Sisam</a>'s *[Fourteenth Century Verse &amp; Prose](../F/Fourteenth_Century_Verse_&_Prose.md)* in [1921](../_/1921.md), but it was not finished in time, so it was published separately in [1922](../_/1922.md), which became Tolkien's first published book.
+Nó dự định được xuất bản cùng với <a class="new" href="https://tolkiengateway.net/w/index.php?title=Kenneth_Sisam&amp;action=edit&amp;redlink=1" title="Kenneth Sisam (page does not exist)">Kenneth Sisam</a> *[Fourteenth Century Verse &amp; Prose](../F/Fourteenth_Century_Verse_&_Prose.md)* trong [1921](../_/1921.md), nhưng chưa hoàn thành kịp thời nên đã được xuất bản riêng trong [1922](../_/1922.md), đây trở thành cuốn sách được xuất bản đầu tiên của Tolkien.
 
 *Vocabulary* chứa khoảng 4.740 mục với gần 6.800 định nghĩa, dài 167 trang.<sup id="cite_ref-a_1-0" class="reference"><a href="#cite_note-a-1">[1]</a></sup>
 
@@ -62,7 +62,7 @@ Sisam là gia sư cũ môn Ngôn ngữ và Văn học Anh của Tolkien, đồng
 
 ## Phương thức {#Method}
 
-Tolkien đã nhận được nhiều lời khen ngợi về bảng thuật ngữ của mình, nó không giống như hầu hết những người khác. Trong khi xu hướng hiện nay là gợi ý (thường gây nghi vấn) từ nguyên của những từ hiếm và ít người biết đến, Tolkien đã chọn dành thời gian của mình để nghiên cứu các ý nghĩa khác nhau của các từ thông dụng, chẳng hạn như *to*, *he* và *habben* ("có"). Từ vựng của ông chứa đầy các tài liệu tham khảo bằng văn bản,<sup id="cite_ref-Lee_3-1" class="reference"><a href="#cite_note-Lee-3">[3]</a></sup> và phần lớn những phát hiện của ông được xây dựng dựa trên OED, những từ có niên đại đôi khi cả một thế kỷ. Một số đề xuất này đã được tính đến trong các phiên bản sau của OED.<sup id="cite_ref-Ring_5-1" class="reference"><a href="#cite_note-Ring-5">[5]</a></sup>
+Tolkien đã nhận được nhiều lời khen ngợi về bảng thuật ngữ của mình, nó không giống như hầu hết những người khác. Trong khi xu hướng hiện nay là gợi ý (thường gây nghi vấn) từ nguyên của những từ hiếm và ít người biết đến, Tolkien đã chọn dành thời gian của mình để nghiên cứu các ý nghĩa khác nhau của các từ thông dụng, chẳng hạn như *to*, *he* và *habben* ("có"). Từ vựng của ông chứa đầy các tài liệu tham khảo bằng văn bản,<sup id="cite_ref-Lee_3-1" class="reference"><a href="#cite_note-Lee-3">[3]</a></sup> và phần lớn những phát hiện của ông được xây dựng dựa trên OED, những từ có niên đại trước cả một thế kỷ. Một số đề xuất này đã được tính đến trong các phiên bản sau của OED.<sup id="cite_ref-Ring_5-1" class="reference"><a href="#cite_note-Ring-5">[5]</a></sup>
 
 ## Đánh giá {#Reviews}
 

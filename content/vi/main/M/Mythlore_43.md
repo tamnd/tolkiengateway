@@ -39,30 +39,30 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_43.png.md"><img src="https://tolkiengateway.net/w/images/3/3d/Mythlore_43.png" decoding="async" loading="lazy" width="312" height="399" class="mw-file-element" data-file-width="312" data-file-height="399"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 43</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Autumn <a href="../_/1985.md" title="1985">1985</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">63</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_42.md" title="Mythlore 42">Mythlore 42</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_44.md" title="Mythlore 44">Mythlore 44</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 43</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol12/iss1/" rel="noreferrer noopener" target="_blank">Tập 12, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Thần thoại</i> 43</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol12/iss1/" rel="noreferrer noopener" target="_blank">Tập 12, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
 
 ## Nội dung {#Contents}
 
 #### Bài viết {#Articles}
 
-- Sammon, Margaret. “Tolkien Về tưởng tượng trong Smith của Wootton Major.”
-- Yandell, Steven. “Những cuộc hành trình xuyên vũ trụ trong Biên niên sử Narnia.”
-- Rawls, Melanie. “Arwen, Bóng Tối Cô dâu.”
-- Egan, Thomas. “Tolkien và Chesterton: Một số điểm tương đồng.”
-- Kocher, Paul. “Ilúvatar và Ngọn lửa bí mật.”
-- Ryan, J. S. “Saruman, ‘Sharkey,’ và Suruman: Những hình ảnh tương tự về sự khéo léo và xảo quyệt của phương Đông.”
+- Sammons, Margaret. “Tolkien On Fantasy in Smith of Wootton Major.”
+- Yandell, Steven. “The Trans-cosmic Journeys in The Chronicles of Narnia.”
+- Rawls, Melanie. “Arwen, Shadow Bride.”
+- Egan, Thomas. “Tolkien and Chesterton: Some Analogies.”
+- Kocher, Paul. “Ilúvatar and The Secret Fire.”
+- Ryan, J. S. “Saruman, ‘Sharkey,’ and Suruman: Analogous Figures of Eastern Ingenuity and Cunning.”
 - Patterson, Nancy-Lou. “Những bức thư từ địa ngục: Biểu tượng của cái ác trong những bức thư trên băng vít.”
-- Thompson, George H. “Đánh giá ban đầu về sách của J.R.R. Tolkien: Phần III.”
+- Thompson, George H. “Early Review of Books by J.R.R. Tolkien: Part III.”
 
 #### Tính năng {#Features}
 
 - Chúc ngủ ngon, Glen. Ghi chú của biên tập viên: Một cột mốc quan trọng.
-- Biển, Sarah. “Thần thoại.”
-- Hyde, Paul Nolan. “Quenti Lambardillion: Chuyên mục về Trung Địa Ngôn ngữ học.”
+- Beach, Sarah. “Mythopoesis.”
+- Hyde, Paul Nolan. “Quenti Lambardillion: A Column on Middle-earth Linguistics.”
 
 #### Đánh giá {#Reviews}
 
-- *Boxen*. C. S. Lewis, do Walter Hooper biên soạn. Được đánh giá bởi Nancy-Lou Patterson.
+- *Boxen*. C. S. Lewis, do Walter Hooper biên tập. Được đánh giá bởi Nancy-Lou Patterson.
 - *The Discovery of King Arthur*. Geoffrey Ashe. Được đánh giá bởi bãi biển Sarah.
 - *Letters to Children.* C.S. Lewis, do Lyle W. Dorsett và Marjorie Lamp Mead biên tập. Được đánh giá bởi Nancy-Lou Patterson.
 - *C.S. Lewis và Tìm kiếm Tôn giáo Hợp lý.* John Beversluis. Được đánh giá bởi Nancy-Lou Patterson.

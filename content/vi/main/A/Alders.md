@@ -19,7 +19,7 @@ langlinks:
 
 **Alder** là những cây rụng lá mọc ở [Trung Địa](../M/Middle-earth.md), đặc biệt là ở [Eriador](../E/Eriador.md), chẳng hạn như những cây giáp với [The Water](../T/The_Water.md) phía tây [Hobbiton](../H/Hobbiton.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và bên các con suối giữa [Weather Hills](../W/Weather_Hills.md) và [Đầm lầy Midwater](../M/Midgewater_Marshes.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Chúng cũng được đề cập trong các bài hát của [Tom Bombadil](../T/Tom_Bombadil.md) là đã mọc bên bờ sông [Withywindle](../W/Withywindle.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Các yêu tinh của [Rivendell](../R/Rivendell.md) đã nhắc đến cây trăn trong bài hát của họ dưới cửa sổ [Bilbo Baggins](../B/Bilbo_Baggins.md): "Lullaby! Lullaby! Alder và Willow!".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Tiên tộc của [Rivendell](../R/Rivendell.md) đã đề cập đến cây trăn trong bài hát của họ dưới cửa sổ [Bilbo Baggins](../B/Bilbo_Baggins.md): "Lullaby! Lullaby! Alder và Willow!".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Hơn nữa, cây trăn được biết là đã mọc ở Kỷ Đệ Nhất ở [Dorthonion](../D/Dorthonion.md) cạnh hồ [Aeluin](Aeluin.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 

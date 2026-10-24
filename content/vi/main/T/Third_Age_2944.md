@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2941.md" title="Third Age 2941">2941</a><a href="Third_Age_2942.md" title="Third Age 2942">2942</a><a href="Third_Age_2943.md" title="Third Age 2943">2943</a><a class="mw-selflink selflink">2944</a><a href="Third_Age_2945.md" title="Third Age 2945">2945</a><a href="Third_Age_2946.md" title="Third Age 2946">2946</a><a href="Third_Age_2947.md" title="Third Age 2947">2947</a></div></div></div></div></div></div>
 
-**Kỷ Đệ Tam 2944** (viết tắt là **T.A. 2944**) là năm [thứ 2944 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2944 còn được gọi là **S.R. 1344** trong [lịch Shire](../S/Shire-reckoning.md).
+**Kỷ thứ ba 2944** (viết tắt là **T.A. 2944**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2944 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2944 còn được gọi là **S.R. 1344** trong [Tính toán quận](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Bard](../B/Bard.md) xây dựng lại [Dale](../D/Dale.md) và trở thành [Vua](../K/King_of_Dale.md).<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
-- [Gollum](../G/Gollum.md) rời khỏi [Dãy Núi Sương Mù](../M/Misty_Mountains.md) và bắt đầu cuộc tìm kiếm '[kẻ trộm](../B/Bilbo_Baggins.md)' của [Chiếc Nhẫn Chúa](The_One_Ring.md).<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
+- [Gollum](../G/Gollum.md) rời [Dãy núi sương mù](../M/Misty_Mountains.md) và bắt đầu cuộc tìm kiếm '[kẻ trộm](../B/Bilbo_Baggins.md)' của [Chiếc Nhẫn Chúa](The_One_Ring.md).<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 - Sự ra đời của [Poppy Chubb-Baggins](../P/Poppy_Chubb-Baggins.md), con gái của [Falco Chubb-Baggins](../F/Falco_Chubb-Baggins.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - Sự ra đời của [Griffo Boffin](../G/Griffo_Boffin.md), con trai của [Gruffo Boffin](../G/Gruffo_Boffin.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

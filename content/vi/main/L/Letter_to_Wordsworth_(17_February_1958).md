@@ -22,7 +22,7 @@ images:
 Vào [17 tháng 2](../_/17_February.md) [1958](../_/1958.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho Jonathan Wordsworth**.<sup id="cite_ref-note_1-0" class="reference"><a href="#cite_note-note-1">[1]</a></sup>
 
 - **Chủ đề:** Tolkien mời Wordsworth đi ăn tối.
-- **Ấn bản:** Một bản tóm tắt ngắn đã được đưa vào [The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- **Ấn bản:** Một bản tóm tắt ngắn đã được đưa vào [Tài liệu hướng dẫn và đồng hành J.R.R. Tolkien](../T/The_J.R.R._Tolkien_Companion_and_Guide.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phiên âm {#Transcription}
 
@@ -34,7 +34,7 @@ My dear Wordsworth,<br/>Tuesday Feb. 25.  Dinner at 7:30. I shall be in my room 
 
 ## Ghi chú {#Notes}
 
-- Wordsworth đã thêm một ghi chú bằng bút đỏ có nội dung: *'Thật tâng bốc, bạn có nghĩ rằng anh ấy nên viết ngay cả trước khi đi ngủ không!'* <sup id="cite_ref-note_1-1" class="reference"><a href="#cite_note-note-1">[1]</a></sup>(liên quan đến thời điểm viết).
+- Wordsworth đã thêm một ghi chú bằng bút đỏ có nội dung: *'Thật tâng bốc, bạn có nghĩ rằng ông nên viết ngay cả trước khi đi ngủ không!'* <sup id="cite_ref-note_1-1" class="reference"><a href="#cite_note-note-1">[1]</a></sup>(liên quan đến thời điểm viết).
 - Con trai ông là Charles Wordsworth đã bán bức thư vào năm 2006. Số tiền này được dùng để mua một bàn bida.<sup id="cite_ref-note_1-2" class="reference"><a href="#cite_note-note-1">[1]</a></sup>
 
 <br> <span></span>

@@ -25,15 +25,15 @@ images:
 
 Tên ban đầu được tạo ra bởi người vẽ bản đồ và nhà thư pháp [Daniel Reeve](../D/Daniel_Reeve.md) khi đang làm việc trên nội dung bản đồ được cấp phép cho bộ ba phim và hàng hóa liên quan.
 
-Lần đầu tiên nó xuất hiện trong [Maps of Trung Địa](../M/Maps_of_Middle-earth.md) bản đồ dành cho [Decipher](../D/Decipher.md)'s *[The Lord of the Rings Roleplaying Game](../T/The_Lord_of_the_Rings_Roleplaying_Game.md)*, nơi nó xuất hiện dưới dạng một nhãn nhỏ bên dưới nơi có vẻ như là một ngọn đồi với hai tòa tháp ở sườn phía tây của ngọn núi phân nhánh về phía tây nam từ [Ered Lithui](../E/Ered_Lithui.md) phía đông của [Barad-dûr](../B/Barad-dûr.md) trên bản đồ [Mordor](../M/Mordor.md) mà không trình bày thêm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Reeve sau đó đã sử dụng Decipher bản đồ làm mẫu khi được giao nhiệm vụ thiết kế bản đồ hàng hóa mở rộng cho *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.<sup id="cite_ref-reeve-site_2-0" class="reference"><a href="#cite_note-reeve-site-2">[2]</a></sup><sup id="cite_ref-reeve-mail_3-0" class="reference"><a href="#cite_note-reeve-mail-3">[3]</a></sup>
+Lần đầu tiên nó xuất hiện là trong bản đồ [Maps of Middle-earth](../M/Maps_of_Middle-earth.md) dành cho *[The Lord of the Rings Roleplaying Game](../T/The_Lord_of_the_Rings_Roleplaying_Game.md)* của [Decipher](../D/Decipher.md), nơi nó xuất hiện dưới dạng một nhãn phụ bên dưới nơi có vẻ là một ngọn đồi với hai tòa tháp ở sườn phía tây của ngọn núi phân nhánh về phía tây nam từ [Ered Lithui](../E/Ered_Lithui.md) phía đông [Barad-dûr](../B/Barad-dûr.md) trên bản đồ [Mordor](../M/Mordor.md) mà không trình bày thêm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Reeve sau đó đã sử dụng bản đồ Giải mã làm mẫu khi được giao nhiệm vụ thiết kế bản đồ hàng hóa mở rộng cho *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.<sup id="cite_ref-reeve-site_2-0" class="reference"><a href="#cite_note-reeve-site-2">[2]</a></sup><sup id="cite_ref-reeve-mail_3-0" class="reference"><a href="#cite_note-reeve-mail-3">[3]</a></sup>
 
 ## Trong những điều chỉnh tiếp theo {#In_further_adaptations}
 
-### The Lord of the Rings Online {#The_Lord_of_the_Rings_Online}
+### Chúa tể của những chiếc nhẫn trực tuyến {#The_Lord_of_the_Rings_Online}
 
-Trong *[The Lord of the Rings Online: Mordor](../T/The_Lord_of_the_Rings_Online%253A_Mordor.md)*, Seregost xuất hiện như một pháo đài trong vùng đầm lầy của vùng Agarnaith. Trong câu chuyện của trò chơi, nó đóng vai trò là thành trì chính của Lhaereth, một nhà sản xuất thuốc độc đã chế tạo ra [Đại Dịch](../G/Great_Plague.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Do tính phù hợp của cái tên, có thể các nhà phát triển đã đặt tên này một cách độc lập với Reeve.
+Trong *[The Lord of the Rings Online: Mordor](../T/The_Lord_of_the_Rings_Online%253A_Mordor.md)*, Seregost xuất hiện như một pháo đài trong vùng đầm lầy của vùng Agarnaith. Trong câu chuyện của trò chơi, nó đóng vai trò là thành trì chính của Lhaereth, một nhà sản xuất thuốc độc đã tạo ra [Đại dịch hạch](../G/Great_Plague.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Do tính phù hợp của cái tên, có thể các nhà phát triển đã đặt tên này một cách độc lập với Reeve.
 
-### Trung Địa: Bóng Tối của Chiến tranh {#Middle-earth:_Shadow_of_War}
+### Trung địa: Bóng tối chiến tranh {#Middle-earth:_Shadow_of_War}
 
 Trong *[Middle-earth: Shadow of War](../M/Middle-earth%253A_Shadow_of_War.md)*, Seregost được điều chỉnh thành một vùng núi phủ đầy tuyết ở Mordor, tập trung xung quanh pháo đài Khargukor.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Các nhà phát triển có thể đã theo dõi bản đồ hàng hóa, cũng điều chỉnh [Nan Ungol](../N/Nan_Ungol.md).
 
@@ -48,7 +48,7 @@ Trang fansite [Thelandofshadow.com](../T/Thelandofshadow.com.md) đã lấy mộ
 </p>
 </blockquote>
 
-Trang web hâm mộ này dễ truy cập hơn sách nguồn của Decipher, cũng như được [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md) người hâm mộ trích dẫn cho *Mordor Gazetteer*do người hâm mộ tạo ra, có thể khiến trang này bị hiểu nhầm là nguồn ban đầu của Seregost và các tên mới khác.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Trang web hâm mộ này dễ truy cập hơn sách nguồn của Decipher, cũng như được những người hâm mộ [Nhập vai ở Trung địa](../M/Middle-earth_Role_Playing.md) trích dẫn cho *Mordor Gazetteer* do người hâm mộ tạo ra, có thể khiến trang web này bị hiểu nhầm là nguồn ban đầu của Seregost và các tên mới khác.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

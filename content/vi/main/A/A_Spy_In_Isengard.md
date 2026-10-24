@@ -57,7 +57,7 @@ Trong chuỗi CÂU HỎI TRUNG ĐỊA, bạn có thể:
 
 - Đóng vai nhân vật sẵn sàng chạy
 - Tạo nhân vật của riêng bạn bằng hệ thống QuestGame
-- Đóng vai nhân vật TRUNG ĐỊA (MERP) của riêng bạn
+- Đóng vai nhân vật CHƠI VAI TRÒ TRUNG ĐỊA (MERP) của riêng bạn
 
 ## Bằng các ngôn ngữ khác {#In_other_languages}
 

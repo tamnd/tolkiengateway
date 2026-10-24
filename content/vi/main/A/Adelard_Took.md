@@ -52,7 +52,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Adelard là con trai của [Flambard Took](../F/Flambard_Took.md) và có nhiều con; [Reginard](../R/Reginard_Took.md), [Everard](../E/Everard_Took.md) và hai cô con gái. Họ đều có mặt tại [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md) ở [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sáng hôm sau, anh ấy hòa vào đám đông đến [Bag End](../B/Bag_End.md) để hỏi [Frodo Baggins](../F/Frodo_Baggins.md) về sự biến mất của [Bilbo](../B/Bilbo.md). Bilbo đã để lại cho anh ấy một chiếc ô làm quà chia tay, mặc dù Adelard đã mang theo một số chiếc khác.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Adelard là con trai của [Flambard Took](../F/Flambard_Took.md) và có nhiều con; [Reginard](../R/Reginard_Took.md), [Everard](../E/Everard_Took.md) và hai cô con gái. Họ đều có mặt tại [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md) ở [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sáng hôm sau, ông hòa vào đám đông đến [Bag End](../B/Bag_End.md) để hỏi [Frodo Baggins](../F/Frodo_Baggins.md) về sự biến mất của [Bilbo](../B/Bilbo.md). Bilbo đã để lại cho ông một chiếc ô làm quà chia tay, mặc dù Adelard đã mang theo một số chiếc khác.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -64,7 +64,7 @@ Trong các phiên bản cũ hơn của *[The Lord of the Rings](../T/The_Lord_of
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Adelard Took is a librarian in <a href="../T/Tuckborough.md" title="Tuckborough">Tuckborough</a>.</dd></dl>
 

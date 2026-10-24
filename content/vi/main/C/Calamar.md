@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Master of Lake-town"
 ---
 
-Chuyển hướng tới [Chủ nhân của Thị trấn Hồ](../M/Master_of_Lake-town.md).
+Chuyển hướng đến [Chủ nhân của thị trấn hồ](../M/Master_of_Lake-town.md).

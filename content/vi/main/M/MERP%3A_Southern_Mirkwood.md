@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Southern Mirkwood"
 ---
 
-Chuyển hướng về [Miền Nam Mirkwood](../S/Southern_Mirkwood.md).
+Chuyển hướng đến [Mirkwood phía Nam](../S/Southern_Mirkwood.md).

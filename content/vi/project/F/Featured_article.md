@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Featured articles"
 ---
 
-Chuyển hướng tới [Tolkien Gateway:Bài viết nổi bật](Featured_articles.md).
+Chuyển hướng đến [Cổng Tolkien:Bài viết nổi bật](Featured_articles.md).

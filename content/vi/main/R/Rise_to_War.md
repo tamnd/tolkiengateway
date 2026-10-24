@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: Rise to War"
 ---
 
-Chuyển hướng tới [The Lord of the Rings: Nổi dậy chiến tranh](../T/The_Lord_of_the_Rings%253A_Rise_to_War.md).
+Chuyển hướng đến [The Lord of the Rings: Rise to War](../T/The_Lord_of_the_Rings%253A_Rise_to_War.md).

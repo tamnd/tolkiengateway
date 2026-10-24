@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Velhagen, Eric"
 ---
 
-- [Eric Velhagen](../../main/E/Eric_Velhagen.md) đã vui lòng cho phép anh ấy sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Eric_Velhagen.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- [Eric Velhagen](../../main/E/Eric_Velhagen.md) đã vui lòng cho phép anh sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Eric_Velhagen.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
 - Ngày: 4 tháng 2 năm 2026
 - Người dùng đã xin phép qua email: [Người dùng:PLord](https://tolkiengateway.net/wiki/User:PLord)

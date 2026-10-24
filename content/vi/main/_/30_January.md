@@ -66,9 +66,9 @@ Sự kiện xảy ra vào ngày 30 tháng 1
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1914](1914.md)** - [Câu lạc bộ Chequers](../C/Chequers_Clubbe.md), do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)thành lập, được phép tổ chức các bữa tối.
+- **[1914](1914.md)** - [Câu lạc bộ Chequers](../C/Chequers_Clubbe.md), do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thành lập, được phép tổ chức các bữa tối.
 - **[1945](1945.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 96](../L/Letter_96.md).
-- **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi cháu trai Michael George Tolkien](<../L/Letter_to_Michael_George_Tolkien_(30_January_1972).md>).
+- **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho cháu trai Michael George Tolkien](<../L/Letter_to_Michael_George_Tolkien_(30_January_1972).md>).
 - **[2000](2000.md)** - Nữ diễn viên [Markella Kavenagh](../M/Markella_Kavenagh.md) ra đời.
 - **[2000](2000.md)** - *[Tolkien's Legendarium](../T/Tolkien's_Legendarium.md)* được xuất bản.
 - **[2005](2005.md)** - Triển lãm "[Những thế giới được phát minh của J.R.R. Tolkien](../T/The_Invented_Worlds_of_J.R.R._Tolkien.md)" tại [Đại học Marquette](../M/Marquette_University.md) kết thúc.
@@ -78,7 +78,7 @@ Sự kiện xảy ra vào ngày 30 tháng 1
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
+    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).
     - Quý I<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>

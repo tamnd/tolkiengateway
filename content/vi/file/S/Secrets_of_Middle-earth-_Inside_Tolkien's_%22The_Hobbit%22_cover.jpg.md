@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bìa [Bí mật của Trung Địa: Bên trong "The Hobbit"](../../main/S/Secrets_of_Middle-earth%253A_Inside_Tolkien's_%2522The_Hobbit%2522.md) của Tolkien
+Bìa của [Secrets of Middle-earth: Inside Tolkien's "The Hobbit"](../../main/S/Secrets_of_Middle-earth%253A_Inside_Tolkien's_%2522The_Hobbit%2522.md)
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
 <p>The copyright of this image is most likely owned by the publisher or the artist who created the cover. It is believed that this image,

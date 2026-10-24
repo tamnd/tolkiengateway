@@ -11,4 +11,4 @@ redirect_target: "Sindarin"
 redirect_fragment: "Names"
 ---
 
-Chuyển hướng đến [Sindarin](../S/Sindarin.md#Names).
+Chuyển hướng tới [Sindarin](../S/Sindarin.md#Names).

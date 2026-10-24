@@ -13,11 +13,11 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>lotheg</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "một bông hoa duy nhất".<sup id="cite_ref-VT42_1-0" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup>
+<i><b>lotheg</b></i> là từ [Sindarin](../S/Sindarin.md) có nghĩa là "một bông hoa duy nhất".<sup id="cite_ref-VT42_1-0" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*loth* là dạng số ít của danh từ tập thể *[loth](Loth.md)*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> bắt nguồn từ [gốc](../S/Sundocarme.md) LOT ("hoa").<sup id="cite_ref-VT42_1-1" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup>
+*loth* là dạng số ít của danh từ tập hợp *[loth](Loth.md)*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> bắt nguồn từ [gốc](../S/Sundocarme.md) LOT ("hoa").<sup id="cite_ref-VT42_1-1" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
@@ -27,7 +27,7 @@ categories:
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Người biên tập <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a> lưu ý rằng <i>lotheg</i> được hình thành bằng cách thêm đuôi nhỏ/số ít <i>-eg/-ig</i> vào dạng số nhiều <i>loth</i>, giống như trong <a href="../W/Welsh.md" title="Welsh">tiếng Wales</a> trong đó danh từ số ít có thể bắt nguồn "từ dạng số nhiều bằng cách thêm đuôi số ít". Cf. <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, "<a href="../T/The_Rivers_and_Beacon-hills_of_Gondor~21248.md" title="The Rivers and Beacon-hills of Gondor">The Rivers and Beacon-hills of Gondor</a>" (được chỉnh sửa bởi <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>), trong <a href="../V/Vinyar_Tengwar_42.md" title="Vinyar Tengwar 42"><i>Vinyar Tengwar</i>, Số 42</a>, tháng 7 năm 2001, tr. 30 (lưu ý 42).</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Người biên tập <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a> lưu ý rằng <i>lotheg</i> được hình thành bằng cách thêm đuôi nhỏ/số ít <i>-eg/-ig</i> vào dạng số nhiều <i>loth</i>, giống như ở <a href="../W/Welsh.md" title="Welsh">Welsh</a> nơi danh từ số ít có thể bắt nguồn "từ dạng số nhiều bằng cách thêm đuôi số ít". Cf. <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, "<a href="../T/The_Rivers_and_Beacon-hills_of_Gondor~21248.md" title="The Rivers and Beacon-hills of Gondor">The Rivers and Beacon-hills of Gondor</a>" (được biên tập bởi <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>), trong <a href="../V/Vinyar_Tengwar_42.md" title="Vinyar Tengwar 42"><i>Vinyar Tengwar</i>, Số 42</a>, tháng 7 năm 2001, tr. 30 (lưu ý 42).</span>
 </li>
 </ol></div></span>
 

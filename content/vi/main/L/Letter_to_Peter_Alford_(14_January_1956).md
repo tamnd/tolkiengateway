@@ -18,7 +18,7 @@ sort_keys:
 
 Vào [14 tháng 1](../_/14_January.md) [1956](../_/1956.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Peter Alford**.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 
-- **Chủ đề:** Tolkien nhận xét về [BBC quá trình sản xuất *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>).<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+- **Chủ đề:** Tolkien bình luận về [BBC sản xuất *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>).<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 - **Ấn bản:** Các đoạn trích xuất hiện trong *[Sotheby's Valuable Printed Books and Manuscripts 13 December 2001](../S/Sotheby's_Valuable_Printed_Books_and_Manuscripts_13_December_2001.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>

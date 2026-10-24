@@ -47,19 +47,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lukasz_Jaskolski_-_Fastred.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/09/Lukasz_Jaskolski_-_Fastred.jpg/320px-Lukasz_Jaskolski_-_Fastred.jpg" decoding="async" loading="lazy" width="320" height="360" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/09/Lukasz_Jaskolski_-_Fastred.jpg/480px-Lukasz_Jaskolski_-_Fastred.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/09/Lukasz_Jaskolski_-_Fastred.jpg/640px-Lukasz_Jaskolski_-_Fastred.jpg 2x" data-file-width="1076" data-file-height="1211"/></a><figcaption>&#34;Fastred&#34; by <a href="../../category/I/Images_by_Lukasz_Jaskolski.md" title="Category:Images by Lukasz Jaskolski">Lukasz Jaskolski</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../R/Rohirrim.md" title="Rohirrim">Rohir</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Fastred</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../R/Rohan.md" title="Rohan">Rohan</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../R/Rohanese.md" title="Rohanese">Rohanese</a> and <a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a href="../_/15_March.md" title="15 March">15 March</a>, <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a><br/><a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Fastred_(rider_of_Rohan).md" title="Category:Images of Fastred (rider of Rohan)">Images of Fastred</a></td></tr></tbody></table>
 
-**Fastred** là một người đàn ông của [Rohan](../R/Rohan.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
+**Fastred** là người của [Rohan](../R/Rohan.md) trong [War of the Ring](../W/War_of_the_Ring.md).
 
 ## Lịch sử {#History}
 
-Fastred cưỡi ngựa cùng vua [Théoden](../T/Théoden.md) của mình đến [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), nơi ông ta bị giết. Tên của anh ấy đã được ghi nhớ trong *[Song of the Mounds of Mundburg](../S/Song_of_the_Mounds_of_Mundburg.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Fastred cưỡi ngựa cùng vua [Théoden](../T/Théoden.md) tới [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), nơi ông bị giết. Tên của ông đã được ghi nhớ trong *[Song of the Mounds of Mundburg](../S/Song_of_the_Mounds_of_Mundburg.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Fastred* là tên [tiếng Anh cổ](../O/Old_English.md), có nghĩa là "lời khuyên chắc chắn".<sup id="cite_ref-RC_2-0" class="reference"><a href="#cite_note-RC-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Nó chứa các phần tử tiếng Anh cổ *fæst* ("chắc chắn", "chắc chắn") và *rǽd* ("lời khuyên", "lời khuyên").<sup id="cite_ref-RC_2-1" class="reference"><a href="#cite_note-RC-2">[2]</a></sup>
+*Fastred* là tên [tiếng Anh cổ](../O/Old_English.md), có nghĩa là "lời khuyên chắc chắn".<sup id="cite_ref-RC_2-0" class="reference"><a href="#cite_note-RC-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Nó chứa các yếu tố tiếng Anh cổ *fæst* ("chắc chắn", "rắn chắc") và *rǽd* ("lời khuyên", "lời khuyên").<sup id="cite_ref-RC_2-1" class="reference"><a href="#cite_note-RC-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-### Fastred trong các bản chuyển thể {#Fastred_in_adaptations}
+### Nhanh chóng thích ứng {#Fastred_in_adaptations}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 235px">
@@ -71,11 +71,11 @@ Fastred cưỡi ngựa cùng vua [Théoden](../T/Théoden.md) của mình đến
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
 <dl><dd></dd></dl>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">The Lord of the Rings Online: Tay đua của Rohan</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">Chúa tể của những chiếc nhẫn trực tuyến: Kỵ sĩ Rohan</a></i>:</b>
 
 <dl><dd>Fastred is a major character in the <a href="../R/Rohan.md" title="Rohan">Rohan</a> storyline. A great warrior, Fastred is also stubborn and rash, always seeking to revenge against the <a href="../O/Orcs.md" title="Orcs">Orcs</a> for the death of his father. When <a href="../_/Éomer.md" title="Éomer">Éomer</a> orders all people to abandon <a href="../E/Eastemnet.md" title="Eastemnet">Eastemnet</a> and move across the <a href="../E/Entwash.md" title="Entwash">Entwash</a> river, Fastred openly defies his order, keeping his family in the city and leading his riders against the raiding parties of the <a href="../M/Mordor.md" title="Mordor">Mordor</a> Orcs instead. Fastred is next met by the player in the <a class="mw-redirect" href="../D/Druadan_Forest.md" title="Druadan Forest">Druadan Forest</a> during the ride of the Rohirrim to <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>, and he later fights in the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a>.</dd></dl>
 

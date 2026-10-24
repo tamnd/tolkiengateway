@@ -17,14 +17,14 @@ categories:
 
 Ví dụ:
 
-- [Ilurambar](../I/Ilurambar.md), "[Những Bức Tường của Thế giới](../W/Walls_of_the_World.md)"<sup id="cite_ref-bolt_2-0" class="reference"><a href="#cite_note-bolt-2">[2]</a></sup>
+- [Ilurambar](../I/Ilurambar.md), "[Những bức tường của thế giới](../W/Walls_of_the_World.md)"<sup id="cite_ref-bolt_2-0" class="reference"><a href="#cite_note-bolt-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 
 - [Danh mục:Tường](../../category/W/Walls.md)
 - *[osto](../O/Osto.md)*, "pháo đài, thành phố có tường bao quanh"
 - *[pelennor](../P/Pelennor.md)*, "đất có rào chắn"
-- *[ram](Ram.md)*, "bức tường"; tương đương với Sindarin
+- *[ram](Ram.md)*, "bức tường"; tương đương Sindarin
 
 <span></span>
 

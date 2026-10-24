@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Jenkins, Elin"
 ---
 
-**Elin Jenkins** lồng tiếng cho phần [Éowyn](../_/Éowyn.md) trong [The Lord of the Rings loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) phát sóng trên BBC4.
+**Elin Jenkins** lồng tiếng cho phần [Éowyn](../_/Éowyn.md) trong [The Lord of the Rings 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) phát sóng trên BBC4.
 
 ## Liên kết ngoài {#External_links}
 

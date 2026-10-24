@@ -51,20 +51,20 @@ images:
 
 ## Tóm tắt {#Synopsis}
 
-Khi [Beleg](../B/Beleg.md) không thể tìm thấy thi thể của [Túrin](Túrin.md) giữa những người ngã xuống trên đỉnh [Amon Rûdh](../A/Amon_Rûdh.md), anh biết [lũ orc](../O/Orcs.md) của [Morgoth](../M/Morgoth.md) đã bắt anh; vì vậy sau khi được chữa lành, anh ấy đã bám sát gót kẻ thù và theo dấu vết của chúng về phía bắc vượt ra ngoài [Brithiach](../B/Brithiach.md).
+Khi [Beleg](../B/Beleg.md) không thể tìm thấy thi thể của [Túrin](Túrin.md) giữa những người đã ngã xuống trên đỉnh [Amon Rûdh](../A/Amon_Rûdh.md), ông biết [lũ Orc](../O/Orcs.md) của [Morgoth](../M/Morgoth.md) đã bắt ông; vì vậy sau khi được chữa lành, ông đã bám sát gót kẻ thù và theo dấu vết của chúng về phía bắc vượt ra ngoài [Brithiach](../B/Brithiach.md).
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_Beleg_Searching_for_Turin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/05/Alan_Lee_-_Beleg_Searching_for_Turin.jpg/200px-Alan_Lee_-_Beleg_Searching_for_Turin.jpg" decoding="async" loading="lazy" width="200" height="104" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/05/Alan_Lee_-_Beleg_Searching_for_Turin.jpg/300px-Alan_Lee_-_Beleg_Searching_for_Turin.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/05/Alan_Lee_-_Beleg_Searching_for_Turin.jpg/400px-Alan_Lee_-_Beleg_Searching_for_Turin.jpg 2x" data-file-width="703" data-file-height="365"/></a><figcaption><i>Beleg searching for Túrin</i> by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
 
-Ở đỉnh cao của [Taur-nu-Fuin](<Taur-nu-Fuin_(Dorthonion).md>) và [Vượt qua Anach](../P/Pass_of_Anach.md), anh ấy đã gặp được hình dạng thu nhỏ của một [yêu tinh](../E/Elves.md). [Gwindor](../G/Gwindor.md) đó là người vừa mới trốn thoát khỏi hầm mỏ tà ác của [Angband](../A/Angband.md) – chính là yêu tinh đã chiến đấu trong [Trận chiến nước mắt không đếm được](../N/Nirnaeth_Arnoediad.md) và đã bị bắt ngay trước cửa Morgoth.
+Ở đỉnh cao của [Taur-nu-Fuin](<Taur-nu-Fuin_(Dorthonion).md>) và [Đèo Anach](../P/Pass_of_Anach.md), ông đã gặp được hình dạng thu nhỏ của một [yêu tinh](../E/Elves.md). [Gwindor](../G/Gwindor.md) đó là người vừa mới trốn thoát khỏi khu mỏ độc ác của [Angband](../A/Angband.md) – chính là yêu tinh đã chiến đấu trong [Trận chiến nước mắt không đếm được](../N/Nirnaeth_Arnoediad.md) và đã bị bắt trước cửa Morgoth.
 
-Ở đó Beleg và Gwindor chứng kiến ​​một đám Orc tràn về phía bắc và ở giữa chúng là Túrin, bị xích và đánh đòn. Những người lính ác đã cắm trại, được canh giữ bởi bầy sói trong một thung lũng sâu; và Beleg âm thầm cầm cây cung vĩ đại của mình bắn chết từng con sói để chúng lẻn vào trung tâm trại. Tại đây, hắn đã bắt giữ Túrin và đưa anh ta đi.
+Ở đó Beleg và Gwindor chứng kiến ​​một đám Orc tràn về phía bắc và ở giữa họ là Túrin, bị xích và đánh đòn. Những người lính ác đã cắm trại, được canh giữ bởi bầy sói trong một thung lũng sâu; và Beleg lặng lẽ đến với cây cung vĩ đại của mình và bắn chết từng con sói để chúng có thể lẻn vào trung tâm trại. Tại đây ông ta bắt giữ Túrin và đưa ông ta đi.
 
-Bây giờ Beleg cắt đứt mối liên kết của Túrin bằng thanh kiếm [Anglachel](../A/Anglachel.md); nhưng bất hạnh đã ập đến, lưỡi dao trượt và đâm vào chân Túrin. Trong cơn tức giận, tưởng mình sẽ bị lũ Orc hành hạ, Túrin lao tới và nhanh chóng tóm lấy Anglachel, giết chết kẻ tấn công mình, nhưng quá muộn để nhận ra đó là bạn mình Beleg.
+Bây giờ Beleg đã cắt đứt mối liên kết của Túrin bằng thanh kiếm [Anglachel](../A/Anglachel.md); nhưng bất hạnh đã ập đến trong số họ và lưỡi dao trượt và đâm vào chân Túrin. Trong cơn tức giận, nghĩ rằng mình sẽ bị lũ Orc hành hạ, Túrin lao tới và nhanh chóng tóm lấy Anglachel, anh giết chết kẻ tấn công mình, nhưng quá muộn để nhận ra đó là bạn mình Beleg.
 
-Ở đó Túrin đứng sững như đá; vì bạn của anh ấy đã chết trước mặt anh ấy.
+Túrin đứng đó sững sờ như hóa đá; vì bạn của ông đã chết trước mặt ông.
 
-Anh ta chỉ được Gwindor đánh thức để giúp chôn cất Beleg, và cây cung hùng mạnh [Belthronding](../B/Belthronding.md) được đặt trên ngực anh ta; nhưng bóng tối Anglachel Túrin đã tự mình đi báo thù Morgoth.
+Ông ta chỉ được Gwindor đánh thức để giúp chôn cất Beleg, và cây cung hùng mạnh [Belthronding](../B/Belthronding.md) được đặt trên ngực ông ta; nhưng Anglachel Túrin đen tối đã tự mình đi báo thù Morgoth.
 
-Sau đó Gwindor mang theo Túrin nỗi đau buồn của anh ấy và họ qua đời về phía tây đến nơi [Eithel Ivrin](../E/Eithel_Ivrin.md) thanh bình và linh thiêng, nơi Túrin rũ bỏ nỗi đau buồn và được chữa lành chứng điên loạn của mình. Ở đó, anh đã hát [Laer Cú Beleg](../L/Laer_Cú_Beleg.md), [Bài hát của cây cung vĩ đại](../S/Song_of_the_Great_Bow.md), để tưởng nhớ người bạn của mình.
+Sau đó, Gwindor mang theo Túrin trong nỗi đau buồn và họ qua đời về phía tây đến [Eithel Ivrin](../E/Eithel_Ivrin.md) yên tĩnh và linh thiêng, nơi Túrin rũ bỏ nỗi đau và được chữa lành khỏi cơn điên loạn. Ở đó, anh đã hát [Laer Cú Beleg](../L/Laer_Cú_Beleg.md), [Bài hát của cây cung vĩ đại](../S/Song_of_the_Great_Bow.md), để tưởng nhớ người bạn của mình.
 
-Về phía nam, họ đi qua vương quốc của Gwindor cho đến khi các trinh sát yêu tinh của [Nargothrond](../N/Nargothrond.md) bắt họ làm tù binh.
+Về phía nam, họ đi qua vương quốc Gwindor cho đến khi các trinh sát yêu tinh của [Nargothrond](../N/Nargothrond.md) bắt họ làm tù nhân.
