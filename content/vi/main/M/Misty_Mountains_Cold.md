@@ -17,24 +17,24 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Under the Mountain dark and tall,<br/>
-The king has come into his hall.<br/>
-His foe is dead, the Worm of Dread,<br/>
-And ever so his foes shall fall!<br/>
+<p>Dưới chân núi cao tối tăm<br/>
+Nhà vua đã vào điện.<br/>
+Kẻ thù của ông đã chết, Con sâu kinh hãi,<br/>
+Và kẻ thù của ông sẽ gục ngã!<br/>
 <br/>
-The sword is sharp, the spear is long,<br/>
-The arrow swift, the Gate is strong;<br/>
-The heart is bold that looks on gold;<br/>
-And dwarves no more shall suffer wrong.<br/>
+Kiếm sắc, giáo dài<br/>
+Mũi tên bay nhanh, Cổng vững chắc;<br/>
+Tâm can đảm nhìn vàng;<br/>
+Và người lùn sẽ không còn phải chịu đau khổ nữa.<br/>
 <br/>
-The mountain throne once more is freed!<br/>
-Oh wandering folk, the summons heed!<br/>
-Come haste! Come haste! Across the waste!<br/>
-The king of friend and kin has need.<br/>
+Ngai vàng một lần nữa được giải phóng!<br/>
+Hỡi người lang thang, hãy chú ý đến lời triệu tập!<br/>
+Hãy nhanh lên! Hãy nhanh lên! Bên kia bãi rác!<br/>
+Vua bạn bè có nhu cầu.<br/>
 <br/>
-The King is come unto his hall,<br/>
-Under the Mountain dark and tall.<br/>
-The Worm of Dread is slain and dead,<br/>
-And ever so our foes shall fall!
+Vua đã đến sảnh của ông,<br/>
+Dưới chân núi cao tối tăm.<br/>
+Worm of Dread đã bị giết chết,<br/>
+Và cứ thế kẻ thù của chúng ta sẽ gục ngã!
 </p>
 </div>

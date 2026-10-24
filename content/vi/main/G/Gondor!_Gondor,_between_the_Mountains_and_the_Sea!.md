@@ -22,12 +22,12 @@ langlinks:
 ## Văn bản {#Text}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p><a href="Gondor.md" title="Gondor">Gondor</a>! Gondor, between the Mountains and the <a href="../B/Belegaer.md" title="Belegaer">Sea</a>!<br/>
-West Wind blew there; the light upon the <a href="../W/White_Tree_of_Gondor.md" title="White Tree of Gondor">Silver Tree</a><br/>
-Fell like bright rain in gardens of the <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Kings</a> of old.<br/>
-O proud walls! White towers! O <a href="../C/Crown_of_Gondor.md" title="Crown of Gondor">wingéd crown</a> and throne of gold!<br/>
-O Gondor, Gondor! Shall Men behold the Silver Tree,<br/>
-Or West Wind blow again between the Mountains and the Sea?
+<p><a href="Gondor.md" title="Gondor">Gondor</a>! Gondor, giữa Dãy Núi và <a href="../B/Belegaer.md" title="Belegaer">Biển</a>!<br/>
+Phương Tây Gió thổi tới đó; ánh sáng trên <a href="../W/White_Tree_of_Gondor.md" title="White Tree of Gondor">Cây Bạc</a><br/>
+Rơi như cơn mưa sáng trong vườn <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">các vị vua</a> xưa.<br/>
+Hỡi những bức tường kiêu hãnh! Tháp trắng! Hỡi <a href="../C/Crown_of_Gondor.md" title="Crown of Gondor">vương miện có cánh</a> và ngai vàng!<br/>
+Ôi Gondor, Gondor! Sẽ Con Người ngắm nhìn Cây Bạc,<br/>
+Hoặc Phương Tây Gió lại thổi giữa Dãy Núi và Biển?
 </p>
 </div>
 

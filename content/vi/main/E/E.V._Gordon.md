@@ -38,7 +38,7 @@ Gordon qua đời năm 1938, nhưng hai tác phẩm khác có sự đóng góp c
 
 ## Thư mục tài liệu tham khảo, tuyển chọn {#Bibliography,_selected}
 
-<dl><dt>Books</dt></dl>
+<dl><dt>Sách</dt></dl>
 
 - [1925](../_/1925.md): *[Sir Gawain and the Green Knight](<../S/Sir_Gawain_and_the_Green_Knight_(edition).md>)* (đồng biên tập với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md))
 - [1927](../_/1927.md): *[An Introduction to Old Norse](../A/An_Introduction_to_Old_Norse.md)*
@@ -50,7 +50,7 @@ Gordon qua đời năm 1938, nhưng hai tác phẩm khác có sự đóng góp c
 
 - [1936](../_/1936.md): "[Su Klukka Heljar](../S/Su_Klukka_Heljar.md)" và "[When I'm Dead](../W/When_I'm_Dead.md)", trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)*
 
-<dl><dt>As contributor</dt></dl>
+<dl><dt>Là người đóng góp</dt></dl>
 
 - [1923](../_/1923.md): *[A Northern Venture](../A/A_Northern_Venture.md)*
 

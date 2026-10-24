@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Parth_Galen"
 content_sha256: 96e966acf781fa382f22b5dba5a4a81d24fe62f7a353070ceda681bb61a24a47
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Field on the shore of Nen Hithoel"
+short_description: "Cánh đồng ven bờ Nen Hithoel"
 categories:
   - "Fields, plains and deserts"
 hidden_categories:
@@ -32,7 +32,7 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Parth_Galen.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Parth Galen</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Parth_Galen_(disambiguation).md" title="Parth Galen (disambiguation)">Parth Galen (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Parth Galen</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Parth_Galen_(disambiguation).md" title="Parth Galen (disambiguation)">Parth Galen (định hướng)</a></b>.</div></div>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Paul_Rivoche_-_Sam_&amp;_Aragorn.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d6/Paul_Rivoche_-_Sam_%26_Aragorn.jpg/300px-Paul_Rivoche_-_Sam_%26_Aragorn.jpg" decoding="async" loading="lazy" width="300" height="210" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d6/Paul_Rivoche_-_Sam_%26_Aragorn.jpg/450px-Paul_Rivoche_-_Sam_%26_Aragorn.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d6/Paul_Rivoche_-_Sam_%26_Aragorn.jpg/600px-Paul_Rivoche_-_Sam_%26_Aragorn.jpg 2x" data-file-width="1300" data-file-height="908"/></a><figcaption><i><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> &amp; <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></i> by <a href="Paul_Rivoche.md" title="Paul Rivoche">Paul Rivoche</a></figcaption></figure>
 
@@ -56,7 +56,7 @@ Trong khi đó, Merry và Pippin đã bị bắt bởi một nhóm [Uruk-hai](..
 
 <b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The player visits Parth Galen after the Fellowship&#39;s passage and has to deduce the events that happened there by following the clues left behind.</dd></dl>
+<dl><dd>Người chơi ghé thăm Parth Galen sau chuyến đi của Hiệp hội và phải suy ra những sự kiện đã xảy ra ở đó bằng cách lần theo những manh mối để lại.</dd></dl>
 
 <span></span>
 

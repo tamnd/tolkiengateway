@@ -31,7 +31,7 @@ langlinks:
 
 <table class="TGtable">
 <tbody><tr>
-<th>Month number
+<th>Số tháng
 </th>
 <th>Quenya
 </th>
@@ -67,7 +67,7 @@ langlinks:
 <td>4</td>
 <td><a href="../C/Cermië.md" title="Cermië">Cermië</a></td>
 <td>Cerveth</td>
-<td>26 Forelithe to 22 <a href="../A/Afterlithe.md" title="Afterlithe">Afterlithe</a> (21 in leap years)
+<td>26 Tiền tố đến 22 <a href="../A/Afterlithe.md" title="Afterlithe">Hậu tố</a> (21 vào năm nhuận)
 </td></tr>
 <tr>
 <td>5</td>

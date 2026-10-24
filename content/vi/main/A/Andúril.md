@@ -60,12 +60,12 @@ infobox:
     value: "Images of Andúril"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Andúril</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Andúril_(disambiguation).md" title="Andúril (disambiguation)">Andúril (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Andúril</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Andúril_(disambiguation).md" title="Andúril (disambiguation)">Andúril (định hướng)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Artigas_-_Anduril_Flame_of_the_West.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e7/Artigas_-_Anduril_Flame_of_the_West.jpg/270px-Artigas_-_Anduril_Flame_of_the_West.jpg" decoding="async" loading="lazy" width="270" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e7/Artigas_-_Anduril_Flame_of_the_West.jpg/405px-Artigas_-_Anduril_Flame_of_the_West.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e7/Artigas_-_Anduril_Flame_of_the_West.jpg/540px-Artigas_-_Anduril_Flame_of_the_West.jpg 2x" data-file-width="1280" data-file-height="2275"/></a><figcaption><i>Andúril, Flame of the West</i> by <a href="../../category/I/Images_by_Artigas.md" title="Category:Images by Artigas">Artigas</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Weapon</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Andúril</span></th></tr><tr><th scope="row" class="tg-infobox-label">Pronunciation</th><td class="tg-infobox-data"><i>an-<b><span style="font-variant:small-caps;">doo</span></b>-ril</i></td></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data"><i>Flame of the West</i></td></tr><tr><th scope="row" class="tg-infobox-label">Owner</th><td class="tg-infobox-data"><a href="Aragorn.md" title="Aragorn">Aragorn</a>, <a href="../E/Eldarion.md" title="Eldarion">Eldarion</a>, <a class="mw-redirect" href="../H/High_King_of_the_Dúnedain.md" title="High King of the Dúnedain">High Kings of the Dúnedain</a></td></tr><tr><th scope="row" class="tg-infobox-label">Appearance</th><td class="tg-infobox-data">Long sword</td></tr><tr><th scope="row" class="tg-infobox-label">Creator</th><td class="tg-infobox-data">Elven-smiths, reforged from <a href="../N/Narsil.md" title="Narsil">Narsil</a> (created by <a href="../T/Telchar.md" title="Telchar">Telchar of Nogrod</a>)</td></tr><tr><th scope="row" class="tg-infobox-label">Created at</th><td class="tg-infobox-data"><a href="../R/Rivendell.md" title="Rivendell">Rivendell</a></td></tr><tr><th scope="row" class="tg-infobox-label">Created in</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3018.md" title="Third Age 3018">3018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Andúril.md" title="Category:Images of Andúril">Images of Andúril</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Artigas_-_Anduril_Flame_of_the_West.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e7/Artigas_-_Anduril_Flame_of_the_West.jpg/270px-Artigas_-_Anduril_Flame_of_the_West.jpg" decoding="async" loading="lazy" width="270" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e7/Artigas_-_Anduril_Flame_of_the_West.jpg/405px-Artigas_-_Anduril_Flame_of_the_West.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e7/Artigas_-_Anduril_Flame_of_the_West.jpg/540px-Artigas_-_Anduril_Flame_of_the_West.jpg 2x" data-file-width="1280" data-file-height="2275"/></a><figcaption><i>Andúril, Flame of the West</i> by <a href="../../category/I/Images_by_Artigas.md" title="Category:Images by Artigas">Artigas</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Vũ khí</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Andúril</span></th></tr><tr><th scope="row" class="tg-infobox-label">Phát âm</th><td class="tg-infobox-data"><i>an-<b><span style="font-variant:small-caps;">doo</span></b>-ril</i></td></tr><tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data"><i>Flame of the West</i></td></tr><tr><th scope="row" class="tg-infobox-label">Chủ sở hữu</th><td class="tg-infobox-data"><a href="Aragorn.md" title="Aragorn">Aragorn</a>, <a href="../E/Eldarion.md" title="Eldarion">Eldarion</a>, <a class="mw-redirect" href="../H/High_King_of_the_Dúnedain.md" title="High King of the Dúnedain">High Kings of the Dúnedain</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngoại hình</th><td class="tg-infobox-data">Thanh kiếm dài</td></tr><tr><th scope="row" class="tg-infobox-label">Người sáng tạo</th><td class="tg-infobox-data">Tiên-smiths, được rèn lại từ <a href="../N/Narsil.md" title="Narsil">Narsil</a> (được tạo bởi <a href="../T/Telchar.md" title="Telchar">Telchar của Nogrod</a>)</td></tr><tr><th scope="row" class="tg-infobox-label">Tạo tại</th><td class="tg-infobox-data"><a href="../R/Rivendell.md" title="Rivendell">Rivendell</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tạo vào</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3018.md" title="Third Age 3018">3018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Andúril.md" title="Category:Images of Andúril">Images of Andúril</a></td></tr></tbody></table>
 
 <center><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Renewed shall be blade that was broken,<br/>The crownless again shall be king.
+<p>Lưỡi dao đã gãy sẽ được làm mới,<br/>Kẻ không vương miện sẽ lại làm vua.
 </p>
 <p class="tg-quote-footer"><cite><a href="../R/Riddle_of_Strider.md" title="Riddle of Strider">Riddle of Strider</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
@@ -99,10 +99,10 @@ Aragorn thường sử dụng thanh kiếm để giúp khẳng định thân ph�
 </tr>
 <tr>
 <td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/A/Anduril.mp3.md" title="File:Anduril.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
-<td style="text-align:center"><b><a href="../../file/A/Anduril.mp3.md" title="File:Anduril.mp3">File:Anduril.mp3</a></b></td>
+<td style="text-align:center"><b><a href="../../file/A/Anduril.mp3.md" title="File:Anduril.mp3">Tệp:Anduril.mp3</a></b></td>
 </tr>
 <tr>
-<td style="font-size: small; padding-bottom: 3px; text-align:center;">By <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Media help</a>)</td>
+<td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
 </tr>
 </tbody></table>
 </div>
@@ -119,28 +119,28 @@ Những thanh kiếm bị gãy rồi được rèn lại cũng xuất hiện tro
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1978_film)_-_Andúril.jpg.md" title="The Lord of the Rings (1978 film)"><img alt="The Lord of the Rings (1978 film)" src="https://tolkiengateway.net/w/images/thumb/e/ec/The_Lord_of_the_Rings_%281978_film%29_-_And%C3%BAril.jpg/179px-The_Lord_of_the_Rings_%281978_film%29_-_And%C3%BAril.jpg" decoding="async" loading="lazy" width="179" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ec/The_Lord_of_the_Rings_%281978_film%29_-_And%C3%BAril.jpg/269px-The_Lord_of_the_Rings_%281978_film%29_-_And%C3%BAril.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ec/The_Lord_of_the_Rings_%281978_film%29_-_And%C3%BAril.jpg/358px-The_Lord_of_the_Rings_%281978_film%29_-_And%C3%BAril.jpg 2x" data-file-width="1287" data-file-height="1078"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (1978 film)</a>
+<p><a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/R/Ron_Chironna_-_Palantir_of_Orthanc.jpg.md" title="Middle-earth Collectible Card Game"><img alt="Middle-earth Collectible Card Game" src="https://tolkiengateway.net/w/images/thumb/1/19/Ron_Chironna_-_Palantir_of_Orthanc.jpg/176px-Ron_Chironna_-_Palantir_of_Orthanc.jpg" decoding="async" loading="lazy" width="176" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/19/Ron_Chironna_-_Palantir_of_Orthanc.jpg/264px-Ron_Chironna_-_Palantir_of_Orthanc.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/19/Ron_Chironna_-_Palantir_of_Orthanc.jpg/351px-Ron_Chironna_-_Palantir_of_Orthanc.jpg 2x" data-file-width="1080" data-file-height="922"/></a></span></div>
 			<div class="gallerytext">
-<p><i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a></i>
+<p><i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm Trung Địa</a></i>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/N/Noble_Collection_-_Andúril.jpg.md" title="The Lord of the Rings (film series)"><img alt="The Lord of the Rings (film series)" src="https://tolkiengateway.net/w/images/thumb/e/ea/Noble_Collection_-_And%C3%BAril.jpg/112px-Noble_Collection_-_And%C3%BAril.jpg" decoding="async" loading="lazy" width="112" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ea/Noble_Collection_-_And%C3%BAril.jpg/169px-Noble_Collection_-_And%C3%BAril.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ea/Noble_Collection_-_And%C3%BAril.jpg/225px-Noble_Collection_-_And%C3%BAril.jpg 2x" data-file-width="450" data-file-height="600"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a>
+<p><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_(video_game)_-_Aragorn.JPG.md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><img alt="The Lord of the Rings: The Fellowship of the Ring (video game)" src="https://tolkiengateway.net/w/images/thumb/8/8f/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Aragorn.JPG/200px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Aragorn.JPG" decoding="async" loading="lazy" width="200" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8f/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Aragorn.JPG/300px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Aragorn.JPG 1.5x, https://tolkiengateway.net/w/images/thumb/8/8f/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Aragorn.JPG/400px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Aragorn.JPG 2x" data-file-width="800" data-file-height="600"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (video game)</a>
+<p><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>
 </p>
 			</div>
 		</li>
@@ -162,38 +162,38 @@ Những thanh kiếm bị gãy rồi được rèn lại cũng xuất hiện tro
 
 <b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
-<dl><dd>Narsil is reforged after Rivendell, though this reforging is not shown. Neither Narsil nor Andúril are named.</dd></dl>
+<dl><dd>Narsil được rèn lại sau Rivendell, mặc dù việc rèn lại này không được hiển thị. Cả Narsil và Andúril đều không được đặt tên.</dd></dl>
 
 <b><a href="../_/1981.md" title="1981">1981</a>: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt chương trình phát thanh năm 1981)</a>:</b>
 
-<dl><dd>Narsil is reforged after Rivendell, and Aragorn carries Andúril thereafter.</dd></dl>
+<dl><dd>Narsil được rèn lại sau Rivendell và Aragorn mang theo Andúril sau đó.</dd></dl>
 
 <b><a href="../_/2001.md" title="2001">2001</a>: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
 
-<dl><dd>Because of Aragorn&#39;s <i>warrior</i>-persona in this video game, Andúril merely serves as a melee weapon upgrade after Rivendell.<sup id="cite_ref-Veugen_8-0" class="reference"><a href="#cite_note-Veugen-8">[8]</a></sup>  Aragorn does not use the broken sword at any point prior. Notably, the sword&#39;s blade is constantly illuminated; it glows red during the day, and blue at night. In the game&#39;s credits, artist Jason Rosenstock is explicitly mentioned as the designer of Andúril.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
+<dl><dd>Vì <i>warrior</i>-persona của Aragorn trong trò chơi điện tử này, Andúril chỉ đóng vai trò nâng cấp vũ khí cận chiến sau Rivendell.<sup id="cite_ref-Veugen_8-0" class="reference"><a href="#cite_note-Veugen-8">[8]</a></sup> Aragorn không sử dụng thanh kiếm gãy vào bất kỳ thời điểm nào trước đó. Đáng chú ý, lưỡi kiếm được chiếu sáng liên tục; nó phát sáng màu đỏ vào ban ngày và màu xanh lam vào ban đêm. Trong phần ghi công của trò chơi, nghệ sĩ Jason Rosenstock được đề cập rõ ràng là người thiết kế Andúril.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 
 <b><a href="../_/2001.md" title="2001">2001</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>Narsil remains broken and Andúril is not reforged in the Fellowship of the Ring movie. Shards of Narsil are kept on a display in <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>.</dd></dl>
+<dl><dd>Narsil vẫn bị hỏng và Andúril không được rèn lại trong phim Đoàn Hộ Nhẫn. Các mảnh Narsil được lưu giữ trên màn hình trong <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>.</dd></dl>
 
 <b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
-<dl><dd>In <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, when asked by <a href="../H/Háma.md" title="Háma">Háma</a> to disarm outside <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a>, Aragorn is very reluctant, saying that normally he would give up his weapon, &#34;if I bore now any sword but Andúril&#34;.<sup id="cite_ref-King_5-1" class="reference"><a href="#cite_note-King-5">[5]</a></sup> This scene and dialogue is omitted from the film on the grace that the sword Aragorn surrenders there was not Andúril.</dd></dl>
+<dl><dd>Trong <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, khi được <a href="../H/Háma.md" title="Háma">Háma</a> yêu cầu tước vũ khí bên ngoài <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a>, Aragorn tỏ ra rất miễn cưỡng, nói rằng bình thường ông sẽ từ bỏ vũ khí của mình, "nếu bây giờ tôi mang bất kỳ thanh kiếm nào ngoại trừ Andúril".<sup id="cite_ref-King_5-1" class="reference"><a href="#cite_note-King-5">[5]</a></sup> Cảnh và đoạn hội thoại này bị lược bỏ khỏi phim vì thanh kiếm Aragorn đầu hàng thì không có Andúril.</dd></dl>
 
 <b><a href="../_/2003.md" title="2003">2003</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
 
-<dl><dd>Andúril is not forged from the shards of Narsil until late in the third film. <a href="../E/Elrond.md" title="Elrond">Elrond</a> had the sword reforged only after <a href="Arwen.md" title="Arwen">Arwen</a>&#39;s pleading. He then took the sword to Aragorn in the camp of the <a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a> at <a href="../D/Dunharrow.md" title="Dunharrow">Dunharrow</a>. Aragorn&#39;s acceptance of the sword, along with his decision at that time to take the <a href="../P/Paths_of_the_Dead.md" title="Paths of the Dead">Paths of the Dead</a>, showed his willingness to accept his destiny of becoming king.</dd></dl>
+<dl><dd>Andúril không được rèn từ các mảnh của Narsil cho đến cuối phim thứ ba. <a href="../E/Elrond.md" title="Elrond">Elrond</a> thanh kiếm được rèn lại chỉ sau lời cầu xin của <a href="Arwen.md" title="Arwen">Arwen</a>. Sau đó ông cầm kiếm đến Aragorn trong trại của <a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a> lúc <a href="../D/Dunharrow.md" title="Dunharrow">Dunharrow</a>. Việc Aragorn chấp nhận thanh kiếm cùng với quyết định đi theo <a href="../P/Paths_of_the_Dead.md" title="Paths of the Dead">Con Đường Tử Thần</a> vào thời điểm đó cho thấy ông sẵn sàng chấp nhận vận mệnh trở thành vua của mình.</dd></dl>
 
-<dl><dd>In the <a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">extended edition</a>, the <a href="../M/Mouth_of_Sauron.md" title="Mouth of Sauron">Mouth of Sauron</a> refers to the blade as Elvish; this could either be a reference to its reforging or a mistake on behalf of the writers.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd>
-<dd>Design-wise, Andúril does not differ significantly from its predecessor, Narsil. The only notable difference is the Elvish inscription running up the length of the blade.</dd></dl>
+<dl><dd>Trong <a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">phiên bản mở rộng</a>, <a href="../M/Mouth_of_Sauron.md" title="Mouth of Sauron">Miệng của Sauron</a> gọi lưỡi dao là Elvish; đây có thể là sự ám chỉ đến việc rèn lại nó hoặc là một sai lầm của người viết.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd>
+<dd>Về mặt thiết kế, Andúril không khác biệt đáng kể so với phiên bản tiền nhiệm Narsil. Sự khác biệt đáng chú ý duy nhất là dòng chữ Elvish chạy dọc theo chiều dài của lưỡi kiếm.</dd></dl>
 
 <b><a href="../_/2003.md" title="2003">2003</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: Cuộc chiến Nhẫn</a></i>:</b>
 
-<dl><dd>Andúril is represented as a permanent upgrade called &#34;Andúril&#39;s Fury&#34; for Aragorn, who is represented as a hero unit. It makes his sword glow white as well as increasing his damage greatly, with bonus damage against enemy Heroes, Wraiths, and the Nazgûl.</dd></dl>
+<dl><dd>Andúril được thể hiện dưới dạng bản nâng cấp vĩnh viễn có tên "Andúril's Fury" dành cho Aragorn, người được thể hiện dưới dạng đơn vị anh hùng. Nó làm cho thanh kiếm của ông phát sáng trắng cũng như tăng sát thương đáng kể, kèm theo sát thương cộng thêm đối với Anh hùng, Bóng ma và Nazgûl của kẻ thù.</dd></dl>
 
 <b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The reforging of Narsil is experienced by the player in the quest arc called &#34;The Blade that was Broken&#34;. The player sets out to find the last of the Silithair, shining adamants crafted by Elves of the house of <a href="../F/Fëanor.md" title="Fëanor">Fëanor</a> in days of old, in order for the Elven smiths of Imladris to reforge the sword into Andúril.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
+<dl><dd>Người chơi trải nghiệm quá trình rèn lại Narsil trong phần nhiệm vụ có tên "The Blade that was Broken". Người chơi bắt đầu tìm kiếm mảnh Silithair cuối cùng, những viên kim cương sáng ngời được chế tạo bởi Tiên tộc của ngôi nhà <a href="../F/Fëanor.md" title="Fëanor">Fëanor</a> ngày xưa, để Tiên thợ rèn của Imladris rèn lại thanh kiếm thành Andúril.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
 
 <span></span>
 
@@ -226,12 +226,12 @@ Những thanh kiếm bị gãy rồi được rèn lại cũng xuất hiện tro
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Weapons</a> in <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a>&#39;s <a href="../L/Legendarium.md" title="Legendarium">legendarium</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Vũ khí</a> trong <a href="../L/Legendarium.md" title="Legendarium">huyền thoại</a> của <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a></b>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"> <a href="../../category/A/Arrows.md" title="Category:Arrows">Arrows</a>:
 </th>
-<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Black arrow</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Red Arrow</a>
+<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Mũi tên đen</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Mũi tên đỏ</a>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/A/Axes.md" title="Category:Axes">Axes</a>:

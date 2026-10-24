@@ -23,9 +23,9 @@ images:
 
 <div class="poem">
 <p><i>Ho! Tom Bombadil, Tom Bombadillo!</i><br/>
-<i>By water, wood and hill, by the reed and willow,</i><br/>
-<i>By fire, sun and moon, harken now and hear us!</i><br/>
-<i>Come, Tom Bombadil, for our need is near us!</i>
+<i>Bằng nước, rừng và đồi, bằng lau sậy và liễu,</i><br/>
+<i>Hỡi lửa, mặt trời và mặt trăng, hãy lắng nghe và lắng nghe chúng tôi!</i><br/>
+<i>Hãy đến, Tom Bombadil, vì nhu cầu của chúng ta đang ở gần chúng ta!</i>
 </p>
 </div>
 

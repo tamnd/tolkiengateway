@@ -20,10 +20,10 @@ images:
   - "J.R.R._Tolkien_-_Balin's_Tomb.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Balin&#39;s_Tomb.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c8/Anke_Ei%C3%9Fmann_-_Balin%27s_Tomb.jpg/300px-Anke_Ei%C3%9Fmann_-_Balin%27s_Tomb.jpg" decoding="async" loading="lazy" width="300" height="173" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c8/Anke_Ei%C3%9Fmann_-_Balin%27s_Tomb.jpg/450px-Anke_Ei%C3%9Fmann_-_Balin%27s_Tomb.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c8/Anke_Ei%C3%9Fmann_-_Balin%27s_Tomb.jpg/600px-Anke_Ei%C3%9Fmann_-_Balin%27s_Tomb.jpg 2x" data-file-width="837" data-file-height="484"/></a><figcaption><i>Balin&#39;s tomb</i> by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Balin&#39;s_Tomb.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c8/Anke_Ei%C3%9Fmann_-_Balin%27s_Tomb.jpg/300px-Anke_Ei%C3%9Fmann_-_Balin%27s_Tomb.jpg" decoding="async" loading="lazy" width="300" height="173" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c8/Anke_Ei%C3%9Fmann_-_Balin%27s_Tomb.jpg/450px-Anke_Ei%C3%9Fmann_-_Balin%27s_Tomb.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c8/Anke_Ei%C3%9Fmann_-_Balin%27s_Tomb.jpg/600px-Anke_Ei%C3%9Fmann_-_Balin%27s_Tomb.jpg 2x" data-file-width="837" data-file-height="484"/></a><figcaption><i>Balin&#39;s tomb</i> của <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
 
 **Lăng mộ của Balin** là nơi an táng [Balin](Balin.md), [Chúa tể Moria](../L/Lord_of_Moria.md), sau khi ông qua đời vào năm [T.A.](../T/Third_Age.md) [2994](../T/Third_Age_2994.md).<sup id="cite_ref-Journey_1-0" class="reference"><a href="#cite_note-Journey-1">[1]</a></sup>
 
@@ -41,7 +41,7 @@ Không ai biết liệu căn phòng hay mộ của Balin có từng được tì
 
 ## Đặc điểm {#Characteristics}
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Balin&#39;s_Tomb.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/26/J.R.R._Tolkien_-_Balin%27s_Tomb.jpg/200px-J.R.R._Tolkien_-_Balin%27s_Tomb.jpg" decoding="async" loading="lazy" width="200" height="148" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/26/J.R.R._Tolkien_-_Balin%27s_Tomb.jpg/300px-J.R.R._Tolkien_-_Balin%27s_Tomb.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/26/J.R.R._Tolkien_-_Balin%27s_Tomb.jpg/400px-J.R.R._Tolkien_-_Balin%27s_Tomb.jpg 2x" data-file-width="650" data-file-height="481"/></a><figcaption><i>Balin&#39;s tomb</i> by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Balin&#39;s_Tomb.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/26/J.R.R._Tolkien_-_Balin%27s_Tomb.jpg/200px-J.R.R._Tolkien_-_Balin%27s_Tomb.jpg" decoding="async" loading="lazy" width="200" height="148" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/26/J.R.R._Tolkien_-_Balin%27s_Tomb.jpg/300px-J.R.R._Tolkien_-_Balin%27s_Tomb.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/26/J.R.R._Tolkien_-_Balin%27s_Tomb.jpg/400px-J.R.R._Tolkien_-_Balin%27s_Tomb.jpg 2x" data-file-width="650" data-file-height="481"/></a><figcaption><i>Balin&#39;s tomb</i> bởi <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
 
 Ngôi mộ được làm từ một khối đá hình chữ nhật duy nhất, cao khoảng hai foot, bên dưới một phiến đá trắng lớn. Những chữ rune được khắc sâu vào phiến đá:
 
@@ -57,20 +57,20 @@ Việc sử dụng tiếng Anh để đại diện cho Ngôn ngữ Chung trong c
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<h3><span id="Balin.27s_tomb_in_adaptations"></span><span class="mw-headline" id="Balin&#39;s_tomb_in_adaptations">Balin&#39;s tomb in adaptations</span></h3>
+<h3><span id="Balin.27s_tomb_in_adaptations"></span><span class="mw-headline" id="Balin&#39;s_tomb_in_adaptations">Ngôi mộ của Balin trong bản chuyển thể</span></h3>
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Balin&#39;s_Tomb.jpg.md" title="Balin&#39;s tomb in The Lord of the Rings: The Fellowship of the Ring"><img alt="Balin&#39;s tomb in The Lord of the Rings: The Fellowship of the Ring" src="https://tolkiengateway.net/w/images/thumb/9/9b/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Balin%27s_Tomb.jpg/139px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Balin%27s_Tomb.jpg" decoding="async" loading="lazy" width="139" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/9/9b/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Balin%27s_Tomb.jpg 1.5x" data-file-width="185" data-file-height="200"/></a></span></div>
 			<div class="gallerytext">
-<p>Balin&#39;s tomb in <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>
+<p>Mộ Balin ở <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Balin&#39;s_Tomb.jpg.md" title="Balin&#39;s tomb in The Lord of the Rings Online"><img alt="Balin&#39;s tomb in The Lord of the Rings Online" src="https://tolkiengateway.net/w/images/thumb/a/a6/The_Lord_of_the_Rings_Online_-_Balin%27s_Tomb.jpg/145px-The_Lord_of_the_Rings_Online_-_Balin%27s_Tomb.jpg" decoding="async" loading="lazy" width="145" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a6/The_Lord_of_the_Rings_Online_-_Balin%27s_Tomb.jpg/217px-The_Lord_of_the_Rings_Online_-_Balin%27s_Tomb.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a6/The_Lord_of_the_Rings_Online_-_Balin%27s_Tomb.jpg/289px-The_Lord_of_the_Rings_Online_-_Balin%27s_Tomb.jpg 2x" data-file-width="350" data-file-height="363"/></a></span></div>
 			<div class="gallerytext">
-<p>Balin&#39;s tomb in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>
+<p>Mộ Balin ở <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>
 </p>
 			</div>
 		</li>
@@ -78,15 +78,15 @@ Việc sử dụng tiếng Anh để đại diện cho Ngôn ngữ Chung trong c
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể những chiếc nhẫn: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>Balin&#39;s tomb is referred to as <b>Balin&#39;s Tomb</b> and is portrayed on film exactly as described in the book. The runes on the tomb are copied verbatim. <a href="../G/Grant_Major.md" title="Grant Major">Grant Major</a> specifically tried to retain the evocative image of the shaft of light landing directly on Balin&#39;s tomb in the film sequence.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> In the film, Balin&#39;s tomb is destroyed by the <a href="../C/Cave-trolls.md" title="Cave-trolls">Cave-troll</a> during the <a href="Battle_of_the_Chamber_of_Mazarbul.md" title="Battle of the Chamber of Mazarbul">Battle of the Chamber of Mazarbul</a>.</dd></dl>
+<dl><dd>Mộ của Balin được gọi là Lăng của <b>Balin</b> và được miêu tả trên phim đúng như mô tả trong sách. Các chữ rune trên ngôi mộ được sao chép nguyên văn. <a href="../G/Grant_Major.md" title="Grant Major">Grant Major</a> đặc biệt cố gắng giữ lại hình ảnh gợi liên tưởng về trục ánh sáng chiếu thẳng vào ngôi mộ của Balin trong chuỗi phim.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Trong phim, ngôi mộ của Balin bị <a href="../C/Cave-trolls.md" title="Cave-trolls">troll hang động</a> phá hủy trong <a href="Battle_of_the_Chamber_of_Mazarbul.md" title="Battle of the Chamber of Mazarbul">Trận chiến Phòng Mazarbul</a>.</dd></dl>
 
 <b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
 
-<dl><dd>Balin&#39;s tomb is referred to as the <b>Tomb of Balin</b> and is not a straight box, but rather an elevated tomb, held up by four small Dwarf-like statues in the corners.</dd></dl>
+<dl><dd>Mộ của Balin được gọi là <b>Mộ của Balin</b> và không phải là một hình hộp thẳng tắp mà là một ngôi mộ trên cao, được đỡ bởi bốn bức tượng nhỏ Người Lùn ở các góc.</dd></dl>
 
 <b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Balin&#39;s Tomb can be found in the Chamber of Mazarbul, off the <a class="mw-redirect" href="../T/Twenty-First_Hall~21686.md" title="Twenty-First Hall">Twenty-First Hall</a>. The body of a dead dwarf is leaning on it, possibly <a href="../O/Ori.md" title="Ori">Ori</a>.</dd></dl>
+<dl><dd>Lăng mộ của Balin có thể được tìm thấy ở Phòng Mazarbul, ngoài <a class="mw-redirect" href="../T/Twenty-First_Hall~21686.md" title="Twenty-First Hall">Sảnh thứ hai mươi mốt</a>. Xác của một người lùn đang dựa vào đó, có thể là <a href="../O/Ori.md" title="Ori">Ori</a>.</dd></dl>
 
 <span></span>
 

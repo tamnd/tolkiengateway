@@ -17,26 +17,26 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>The end of the ring, the return of the king,<br/>
-A new age has come to the land!<br/>
-The end of the ring, the return of the king,<br/>
-He shall rule with a true healing hand!<br/>
+<p>Sự kết thúc của võ đài, sự trở lại của nhà vua,<br/>
+Một thời đại mới đã đến với mảnh đất!<br/>
+Sự kết thúc của võ đài, sự trở lại của nhà vua<br/>
+Ông sẽ cai trị bằng bàn tay chữa lành thực sự!<br/>
 <br/>
-The quest is done, the battle won,<br/>
-And all have lost in the winning.<br/>
-Oft hope is born when all&#39;s forlorn,<br/>
-And there&#39;s a new beginning.<br/>
+Nhiệm vụ đã hoàn thành, trận chiến đã thắng,<br/>
+Và tất cả đều thua trong phần thắng.<br/>
+Niềm hy vọng thường sinh ra khi tất cả đều tuyệt vọng,<br/>
+Và có một khởi đầu mới.<br/>
 <br/>
-He who had the courage not to fail!<br/>
-The bearer of the ring we hail!<br/>
-Praise them! praise them!<br/>
-Praise them with great praise!<br/>
-Praise them with great praise!<br/>
+Người đã dũng cảm không thất bại!<br/>
+Chúng ta ca ngợi người mang chiếc nhẫn!<br/>
+Hãy khen ngợi họ! khen ngợi họ!<br/>
+Hãy khen ngợi họ thật nhiều!<br/>
+Hãy khen ngợi họ thật nhiều!<br/>
 <br/>
-The end of the ring, the return of the king,<br/>
-A new age has come to the land!<br/>
-The end of the ring, the return of the king,<br/>
-He shall rule with a true healing hand!<br/>
-Ah!
+Sự kết thúc của võ đài, sự trở lại của nhà vua<br/>
+Một thời đại mới đã đến với vùng đất!<br/>
+Sự kết thúc của võ đài, sự trở lại của nhà vua<br/>
+Ông sẽ cai trị bằng bàn tay chữa lành thực sự!<br/>
+À!
 </p>
 </div>

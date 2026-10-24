@@ -16,13 +16,13 @@ images:
   - "John_Howe_-_Dead_Faces.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Dead_Faces.jpg.md"><img src="https://tolkiengateway.net/w/images/9/9e/John_Howe_-_Dead_Faces.jpg" decoding="async" loading="lazy" width="244" height="338" class="mw-file-element" data-file-width="244" data-file-height="338"/></a><figcaption><i>Dead Faces</i> by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The tricksy lights. Candles of corpses, yes, yes. Don&#39;t you heed them!
+<p>Những ánh đèn gian xảo. Những ngọn nến của xác chết, vâng, vâng. Đừng để ý đến họ!
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gollum.md" title="Gollum">Gollum</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -43,23 +43,23 @@ Trong phiên bản trước của cùng bài thơ, cụm từ [Qenya](../Q/Qenya
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Corpse Candles and Corpse lanterns are seen as two variants of the same basic type of creature. The latter are said to be more powerful and intelligent, capable of a &#34;more alluring web&#34;.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> A related creature are the corpse-lights, which haunt underground areas of the Shire.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
+<dl><dd>Nến Xác và Đèn Xác Chết được coi là hai biến thể của cùng một loại sinh vật cơ bản. Loại thứ hai được cho là mạnh mẽ và thông minh hơn, có khả năng tạo ra một "mạng lưới quyến rũ hơn".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Một sinh vật có liên quan là đèn xác chết, ám ảnh các khu vực dưới lòng đất của Shire.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 
 <b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
-<dl><dd>Cards depicting these creatures include &#34;Corpse-candle&#34; and &#34;Wisp of Pale Sheen&#34;.</dd></dl>
+<dl><dd>Các lá bài mô tả những sinh vật này bao gồm "Corpse-candle" và "Wisp of Pale Sheen".</dd></dl>
 
 <b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
-<dl><dd>While Frodo in the book only claims to have <i>seen</i> the dead faces, <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a>&#39;s film version includes a dramatic twist: Frodo falls into the water as under a spell from the dead.</dd></dl>
+<dl><dd>Trong khi Frodo trong sách chỉ tuyên bố có <i>seen</i> khuôn mặt người chết, thì phiên bản điện ảnh của <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a> lại có một tình tiết kịch tính: Frodo rơi xuống nước như bị bùa chú từ người chết.</dd></dl>
 
 <b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a></i>:</b>
 
-<dl><dd>The faces of the dead are classified as phantoms, a subdivision of ghosts.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
+<dl><dd>Khuôn mặt của người chết được xếp vào loại ma, một phân khu của ma.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Corpse-candles are a form of the Dead, floating balls of light that haunt marshes and grave-sites, swarming around the player.</dd></dl>
+<dl><dd>Nến xác chết là một dạng của Người chết, những quả bóng ánh sáng lơ lửng ám ảnh các đầm lầy và khu mộ, tràn ngập xung quanh người chơi.</dd></dl>
 
 ## Liên kết ngoài {#External_links}
 

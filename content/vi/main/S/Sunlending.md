@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Sunlending"
 ---
 
-<dl><dd><i>Not to be confounded with: <b><a href="Sunlands.md" title="Sunlands">Sunlands</a></b>, the name of <a href="../H/Harad.md" title="Harad">Harad</a> in the <a href="../W/Westron.md" title="Westron">Common Speech</a></i></dd></dl>
+<dl><dd><i>Đừng nhầm lẫn với: <b><a href="Sunlands.md" title="Sunlands">Sunlands</a></b>, tên <a href="../H/Harad.md" title="Harad">Harad</a> trong <a href="../W/Westron.md" title="Westron">Ngôn ngữ Chung</a></i></dd></dl>
 
 **Sunlending** là tên được sử dụng bởi [Rohirrim](../R/Rohirrim.md) vùng đất *[Anórien](../A/Anórien.md)*, 'Mặt Trời-land'. Nó được nhắc đến trong bài hát *Từ bóng tối Dunharrow trong buổi sáng mờ mờ*, l. 15: "*six thousand spears to Sunlending*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

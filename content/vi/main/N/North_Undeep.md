@@ -26,7 +26,7 @@ images:
 
 <b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The North Undeep is located north of the river <a href="../L/Limlight.md" title="Limlight">Limlight</a> and thus belongs to the in-game &#34;Great River&#34; region, outside of Rohan proper. It does not connect the <a href="../B/Brown_Lands.md" title="Brown Lands">Brown Lands</a> to the <a href="../F/Field_of_Celebrant.md" title="Field of Celebrant">Field of Celebrant</a> directly, but rather to the <i>Rushgore</i> marsh that lies in between them. The Rohirrim have constructed and manned a fortified camp of <i>Etheburg</i> on the eastern bank of Anduin in the Brown Lands to watch over the North Undeep.</dd></dl>
+<dl><dd>North Undeep nằm ở phía bắc con sông <a href="../L/Limlight.md" title="Limlight">Limlight</a> và do đó thuộc vùng "Great River" trong trò chơi, bên ngoài Rohan. Nó không kết nối trực tiếp <a href="../B/Brown_Lands.md" title="Brown Lands">Brown Lands</a> với <a href="../F/Field_of_Celebrant.md" title="Field of Celebrant">Trường Celebrant</a> mà thay vào đó là với đầm lầy <i>Rushgore</i> nằm giữa chúng. Rohirrim đã xây dựng và bố trí một trại kiên cố <i>Etheburg</i> trên bờ phía đông của Anduin trong Brown Lands để trông chừng North Undeep.</dd></dl>
 
 <span></span>
 

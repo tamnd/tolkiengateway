@@ -14,7 +14,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>mortal races</b>. For the mortality of <a href="Men.md" title="Men">Men</a>, see <b><a class="mw-redirect" href="../G/Gift_of_Men.md" title="Gift of Men">Gift of Men</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>các chủng tộc sinh tử</b>. Về tỷ lệ tử vong của <a href="Men.md" title="Men">Con Người</a>, xem <b><a class="mw-redirect" href="../G/Gift_of_Men.md" title="Gift of Men">Quà tặng Con Người</a></b>.</div></div>
 
 **Người phàm** ([Q.](../Q/Quenya.md) <i><b>Fírimar</b></i> của [Tiên tộc](../E/Elves.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>) là bất kỳ chủng tộc nào của [Arda](../A/Arda.md) phải chịu tuổi già và cái chết (như ví dụ [Hobbit](../H/Hobbits.md) và [Người Lùn](../D/Dwarves.md)), nhưng được áp dụng đặc biệt cho chủng tộc [Con Người](Men.md). <span></span>
 

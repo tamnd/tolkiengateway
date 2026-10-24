@@ -34,7 +34,7 @@ langlinks:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Those Elves the <a href="../C/Calaquendi.md" title="Calaquendi">Calaquendi</a> call the Úmanyar, since they came never to the land of Aman and the Blessed Realm; but the Úmanyar and the Avari alike they call the Moriquendi, Elves of the Darkness, for they never beheld the Light that was before the <a href="../S/Sun.md" title="Sun">Sun</a> and <a href="Moon.md" title="Moon">Moon</a>.
+<p>Những Tiên tộc <a href="../C/Calaquendi.md" title="Calaquendi">Calaquendi</a> đó gọi là Úmanyar, vì họ chưa bao giờ đến vùng đất Aman và Vương quốc Phước lành; nhưng Úmanyar và Avari đều gọi là Moriquendi, Tiên tộc của Bóng Tối, vì họ chưa bao giờ nhìn thấy Ánh sáng trước <a href="../S/Sun.md" title="Sun">Mặt Trời</a> và <a href="Moon.md" title="Moon">Mặt Trăng</a>.
 </p>
 <p class="tg-quote-footer"><cite>&#34;<a href="../O/Of_the_Coming_of_the_Elves_and_the_Captivity_of_Melkor.md" title="Of the Coming of the Elves and the Captivity of Melkor">Of the Coming of the Elves and the Captivity of Melkor</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -52,9 +52,9 @@ Vua [Thingol](../T/Thingol.md) là một ngoại lệ đặc biệt đối với
 Danh hiệu đặc biệt "**Dark Tiên**" được trao cho [Eöl](../E/Eöl.md) của [Nan Elmoth](../N/Nan_Elmoth.md) dường như ám chỉ ác cảm cá nhân của ông đối với ánh sáng của [Mặt Trời](../S/Sun.md) hơn là di sản của ông:
 
 <blockquote class="tg-quote noexcerpt">
-<p>But now the trees of Nan Elmoth were the tallest and darkest in all Beleriand, and there the sun never came; and there Eöl dwelt, who was named the Dark Elf. [...] There he lived in deep shadow, loving the night and the twilight under the stars.
+<p>Nhưng bây giờ những cái cây ở Nan Elmoth là những cây cao nhất và đen tối nhất trong Beleriand, và ở đó mặt trời không bao giờ ló dạng; và ở đó Eöl cư trú, kẻ được mệnh danh là Bóng tối Tiên. [...] Ở đó anh sống trong bóng tối sâu thẳm, yêu thích màn đêm và ánh hoàng hôn dưới những vì sao.
 </p>
-<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_Maeglin.md" title="Of Maeglin">Of Maeglin</a>&#34;</cite></p>
+<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, "<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_Maeglin.md" title="Of Maeglin">Của Maeglin</a>"</cite></p>
 </blockquote>
 
 <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 2]</a></sup>
@@ -118,12 +118,12 @@ Trong thần thoại Bắc Âu, có [Ánh sáng Tiên tộc](../L/Light-elves.md
 <td style="font-size: 90%;"> <a href="../_/Úmanyar.md" title="Úmanyar">Úmanyar</a> · <a href="../A/Avari.md" title="Avari">Avari</a> <small><i>(<a href="../C/Cuind.md" title="Cuind">Cuind</a> · <a href="../H/Hwenti.md" title="Hwenti">Hwenti</a> · <a href="../K/Kindi.md" title="Kindi">Kindi</a> · <a href="../K/Kinn-lai.md" title="Kinn-lai">Kinn-lai</a> · <a href="../P/Penni.md" title="Penni">Penni</a> · <a href="../W/Windan.md" title="Windan">Windan</a>)</i></small>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">Generations:
+<th style="background:var(--tg-color-surface-3);" align="right">Các thế hệ:
 </th>
 <td style="font-size: 90%;"> <i><a href="../E/Eru-begotten.md" title="Eru-begotten">Eru-begotten</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=First-begotten&amp;action=edit&amp;redlink=1" title="First-begotten (page does not exist)">First-begotten</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Elves&amp;action=edit&amp;redlink=1" title="Third Elves (page does not exist)">Third Elves</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Younger_Elves&amp;action=edit&amp;redlink=1" title="Younger Elves (page does not exist)">Younger Elves</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Generations&amp;action=edit&amp;redlink=1" title="Generations (page does not exist)">further Generations</a></i>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><i>See also:</i>
+<th style="background:var(--tg-color-surface-3);" align="right"><i>Xem thêm:</i>
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Awakening_of_the_Elves.md" title="Awakening of the Elves">Awakening of the Elves</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Finding_by_Orom%C3%AB&amp;action=edit&amp;redlink=1" title="Finding by Oromë (page does not exist)">Finding by Oromë</a></i> · <i><a href="../S/Sundering_of_the_Elves.md" title="Sundering of the Elves">Sundering of the Elves</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Three_Ambassadors&amp;action=edit&amp;redlink=1" title="Three Ambassadors (page does not exist)">Embassy</a></i> · <i><a href="../G/Great_Journey.md" title="Great Journey">Great Journey</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Dark_Years_of_the_Avari&amp;action=edit&amp;redlink=1" title="Dark Years of the Avari (page does not exist)">Dark Years of the Avari</a></i>
 </td></tr></tbody></table>

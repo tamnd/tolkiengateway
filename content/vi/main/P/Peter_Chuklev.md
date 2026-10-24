@@ -23,7 +23,7 @@ infobox:
     value: "Sofia, Bulgaria"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Peter Chuklev</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/1936.md" title="1936">1936</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Sofia, Bulgaria</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Peter Chuklev</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/1936.md" title="1936">1936</a></td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Sofia, Bulgaria</td></tr></tbody></table>
 
 **Peter Chuklev** (sinh [1936](../_/1936.md)) là một họa sĩ minh họa người Bulgaria. Tốt nghiệp Học viện Nghệ thuật Sofia năm 1960, ông là giảng viên tại Học viện Nghệ thuật Quốc gia từ năm 1964 và là giáo sư ngành in ấn từ năm 1993.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

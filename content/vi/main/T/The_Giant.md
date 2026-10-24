@@ -17,10 +17,10 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the character in <i><a href="../F/Farmer_Giles_of_Ham.md" title="Farmer Giles of Ham">Farmer Giles of Ham</a></i></b>. For the race of creatures in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>, see <b><a href="../G/Giants.md" title="Giants">Giants</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>nhân vật trong <i><a href="../F/Farmer_Giles_of_Ham.md" title="Farmer Giles of Ham">Farmer Giles of Ham</a></i></b>. Về chủng tộc sinh vật trong <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a>, xem <b><a href="../G/Giants.md" title="Giants">Người khổng lồ</a></b>.</div></div>
 
 **người khổng lồ** là một trong những cư dân của Vùng hoang dã, một phần của Thế giới rộng lớn bên ngoài [Vương quốc Trung tâm](../M/Middle_Kingdom.md) nơi những người như [Farmer Giles](../F/Farmer_Giles.md) sinh sống. Mặc dù có rất nhiều người khổng lồ ở khu vực đó, nhưng người khổng lồ đặc biệt này to lớn hơn và ngu ngốc hơn những người bạn của mình, đồng thời bị cận thị và hơi điếc. Cây gậy của ông ấy giống như một cái cây và ông ấy đi đến đâu cũng gây ra sự tàn phá lớn lao.
 
@@ -36,7 +36,7 @@ Nhiều năm sau, sau khi Chrysophylax được phép rời khỏi [Tiểu Vươ
 
 <b>1992: <i><a class="mw-redirect" href="Tales_from_the_Perilous_Realm_(radio_series).md" title="Tales from the Perilous Realm (radio series)">Đài BBC Tales from the Perilous Realm</a></i></b>
 
-<dl><dd><b>The Giant</b> is voiced by the writer of the screenplay, <a href="../B/Brian_Sibley.md" title="Brian Sibley">Brian Sibley</a>.</dd></dl>
+<dl><dd><b>Người khổng lồ</b> được lồng tiếng bởi tác giả kịch bản, <a href="../B/Brian_Sibley.md" title="Brian Sibley">Brian Sibley</a>.</dd></dl>
 
 <span></span>
 

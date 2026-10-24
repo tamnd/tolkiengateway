@@ -30,7 +30,7 @@ infobox:
     value: "Cincinnati, Ohio (US); Germany"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Manfred Zimmermann</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data">PhD from the <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Marburg" title="wikipedia:University of Marburg">University of Marburg</a>, Germany</td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author, professor, lecturer</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Cincinnati, Ohio (US)<br/>Germany</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Manfred Zimmermann</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Học vấn</th><td class="tg-infobox-data">PhD from the <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Marburg" title="wikipedia:University of Marburg">University of Marburg</a>, Germany</td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Tác giả, giáo sư, giảng viên</td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Cincinnati, Ohio (US)<br/>Germany</td></tr></tbody></table>
 
 Tiến sĩ Phil. **Manfred Zimmermann** là giáo sư và giảng viên người Đức đã nghỉ hưu.
 

@@ -19,13 +19,13 @@ Hai câu thơ gốc tiếng Thụy Điển được đưa vào đây, cùng vớ
 ## Bản gốc Thụy Điển {#Swedish_original}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Gubben Noach, gubben Noach var en hedersman:<br/>
-       När han gick ur arken,<br/>
+<p>Gubben Noach, gubben Noach là người bảo vệ:<br/>
+       Bạn có muốn làm điều đó không,<br/>
        plantera ban på marken<br/>
 Mycket vin, ja, mycket vin, ja: detta gjorde han.<br/>
 <br/>
 Han väl viste, han väl viste, att en mänska var<br/>
-       torstig av naturen<br/>
+       xoắn và tự nhiên<br/>
        som de andra djuren —<br/>
 därför han ock, därför han ock vin planterat har. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 </p>
@@ -41,8 +41,8 @@ därför han ock, därför han ock vin planterat har. <sup id="cite_ref-1" class
 <br/>
 Aldrei drakk hann, aldrei drakk hann of mikið i senn,<br/>
        utan einu sinni<br/>
-       a hann trui eg rynni.<br/>
-Glappaskotin, glappaskotin, ganga svo til enn.<br/>
+       a hann trui ví dụ như rynni.<br/>
+Glappaskotin, glappaskotin, ganga svo cho đến nay.<br/>
 <br/>
 Viltu vinur, viltu vinur vita hvar hann sat?<br/>
        Bustaður einn batur,<br/>

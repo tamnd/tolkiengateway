@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Mythcon_19"
 content_sha256: 3c036df5df6fc7740db19670db92b205daa123ada631ee3ba9c8e8ebdde92ff6
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "1988 Mythopoeic Society conference"
+short_description: "Hội nghị Hiệp hội Thần thoại năm 1988"
 categories:
   - "Mythcon"
 hidden_categories:
@@ -28,7 +28,7 @@ infobox:
     value: "Mythcon 20"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 19</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Clark Kerr Campus, Berkeley, California</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data">29 July 29–1 August <a href="../_/1988.md" title="1988">1988</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="Mythcon_18.md" title="Mythcon 18">Mythcon 18</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="Mythcon_20.md" title="Mythcon 20">Mythcon 20</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 19</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Clark Kerr Campus, Berkeley, California</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Hội Mythopoeic</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data">29 July 29–1 August <a href="../_/1988.md" title="1988">1988</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="Mythcon_18.md" title="Mythcon 18">Mythcon 18</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Mythcon_20.md" title="Mythcon 20">Mythcon 20</a></td></tr></tbody></table>
 
 **Mythcon 19** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 19.
 

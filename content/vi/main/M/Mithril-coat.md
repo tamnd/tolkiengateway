@@ -24,7 +24,7 @@ images:
   - "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Mithril_vest.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_It&#39;s_a_pretty_thing,_isn&#39;t_it.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cd/Mat%C4%9Bj_%C4%8Cadil_-_It%27s_a_pretty_thing%2C_isn%27t_it.jpg/300px-Mat%C4%9Bj_%C4%8Cadil_-_It%27s_a_pretty_thing%2C_isn%27t_it.jpg" decoding="async" loading="lazy" width="300" height="302" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cd/Mat%C4%9Bj_%C4%8Cadil_-_It%27s_a_pretty_thing%2C_isn%27t_it.jpg/450px-Mat%C4%9Bj_%C4%8Cadil_-_It%27s_a_pretty_thing%2C_isn%27t_it.jpg 1.5x, https://tolkiengateway.net/w/images/c/cd/Mat%C4%9Bj_%C4%8Cadil_-_It%27s_a_pretty_thing%2C_isn%27t_it.jpg 2x" data-file-width="600" data-file-height="604"/></a><figcaption><i>It&#39;s a pretty thing, isn&#39;t it</i> by <a href="Matěj_Čadil.md" title="Matěj Čadil">Matěj Čadil</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_It&#39;s_a_pretty_thing,_isn&#39;t_it.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cd/Mat%C4%9Bj_%C4%8Cadil_-_It%27s_a_pretty_thing%2C_isn%27t_it.jpg/300px-Mat%C4%9Bj_%C4%8Cadil_-_It%27s_a_pretty_thing%2C_isn%27t_it.jpg" decoding="async" loading="lazy" width="300" height="302" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cd/Mat%C4%9Bj_%C4%8Cadil_-_It%27s_a_pretty_thing%2C_isn%27t_it.jpg/450px-Mat%C4%9Bj_%C4%8Cadil_-_It%27s_a_pretty_thing%2C_isn%27t_it.jpg 1.5x, https://tolkiengateway.net/w/images/c/cd/Mat%C4%9Bj_%C4%8Cadil_-_It%27s_a_pretty_thing%2C_isn%27t_it.jpg 2x" data-file-width="600" data-file-height="604"/></a><figcaption><i>It&#39;s a pretty thing, isn&#39;t it</i> bởi <a href="Matěj_Čadil.md" title="Matěj Čadil">Matěj Čadil</a></figcaption></figure>
 
 **Áo khoác Mithril**,<sup id="cite_ref-mail_1-0" class="reference"><a href="#cite_note-mail-1">[1]</a></sup> hoặc **Áo khoác Mithril**,<sup id="cite_ref-name_2-0" class="reference"><a href="#cite_note-name-2">[2]</a></sup> là một chiếc áo vest làm từ [Người Lùn-mail](../D/Dwarf-mail.md) được làm bằng [mithril](Mithril.md), thuộc sở hữu của [Bilbo](../B/Bilbo.md) và [Frodo Baggins](../F/Frodo_Baggins.md).
 
@@ -46,15 +46,15 @@ Trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Hervarar_Saga" titl
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Mithril_vest.jpg.md"><img src="https://tolkiengateway.net/w/images/5/5c/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Mithril_vest.jpg" decoding="async" loading="lazy" width="236" height="304" class="mw-file-element" data-file-width="236" data-file-height="304"/></a><figcaption>The coat as depicted in the movies</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Mithril_vest.jpg.md"><img src="https://tolkiengateway.net/w/images/5/5c/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Mithril_vest.jpg" decoding="async" loading="lazy" width="236" height="304" class="mw-file-element" data-file-width="236" data-file-height="304"/></a><figcaption>Chiếc áo khoác như được miêu tả trong phim</figcaption></figure>
 
 <b>2001-2003: <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> loạt phim</a></b>
 
-<dl><dd>The Mithril-coat follows closely the same narrative, save it is not shown after Frodo&#39;s recovery.</dd></dl>
+<dl><dd>Chiếc áo khoác Mithril bám sát câu chuyện tương tự, ngoại trừ việc nó không được hiển thị sau khi Frodo hồi phục.</dd></dl>
 
 <b>2014: <a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies"><i>The Hobbit: The Battle of the Five Armies</i></a>:</b>
 
-<dl><dd>Thorin gifts Bilbo with the Mithril-coat as the dwarves are preparing for battle against the elves and Men of Dale.</dd></dl>
+<dl><dd>Thorin quà tặng Bilbo kèm áo khoác Mithril khi những người lùn đang chuẩn bị cho trận chiến chống lại Tiên tộc và Người Dale.</dd></dl>
 
 <span></span>
 

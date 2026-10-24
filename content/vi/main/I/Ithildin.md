@@ -42,7 +42,7 @@ Trong [huyền thoại](../L/Legendarium.md), [Gandalf](../G/Gandalf.md) dịch 
 
 <b>2024: <i><a href="../T/The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">Chiếc nhẫn duy nhất</a> — <a href="../M/Moria_-_Through_the_Doors_of_Durin.md" title="Moria - Through the Doors of Durin">Moria: Qua cánh cửa của Durin</a></i>:</b>
 
-<dl><dd>Ithildin could be made into an ink, used by Elven lords and Dwarven kings to write secret moon-letters. Additionally, a related substance to ithildin called Erceleb is introduced. Instead of reflecting starlight, it absorbed it. Dwarves marked hidden doors with Erceleb, as the metal glowed brightly when awakened by specific words. Intense moonlight could also make Erceleb record words, which would be repeated when awakened.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
+<dl><dd>Ithildin có thể được chế tạo thành mực, được các lãnh chúa Tiên và vua Người Lùn sử dụng để viết những bức thư bí mật về mặt trăng. Ngoài ra, một chất liên quan đến ithildin được gọi là Erceleb cũng được giới thiệu. Thay vì phản chiếu ánh sao, nó lại hấp thụ ánh sáng đó. Người Lùn đánh dấu những cánh cửa ẩn bằng Erceleb, vì kim loại phát sáng rực rỡ khi được đánh thức bởi những từ cụ thể. Ánh trăng dày đặc cũng có thể khiến Erceleb ghi lại những lời nói sẽ được lặp lại khi thức tỉnh.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
 <span></span>
 

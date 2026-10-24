@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Middle-earth_Battle_System"
 content_sha256: d604950609ad455502017b14c443187324461380b777b2bb4c49ec30d59ebcdd
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Unreleased miniatures game by Iron Crown Enterprises"
+short_description: "Trò chơi thu nhỏ chưa được phát hành của Vương miện Sắt Enterprises"
 categories:
   - "Unmade projects"
   - "Miniatures games"
@@ -23,7 +23,7 @@ infobox:
     value: "Cancelled"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Wargame</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Middle-earth Battle System</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data">Tim Goodlett</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data">Cancelled</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Wargame</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Middle-earth Battle System</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà thiết kế</th><td class="tg-infobox-data">Tim Goodlett</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data">Đã bị hủy</td></tr></tbody></table>
 
 **Trung Địa Hệ thống Chiến đấu** là một trò chơi chiến đấu thu nhỏ được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) phát triển tại [1998](../_/1998.md). Trò chơi này dựa trên trò chơi thu nhỏ <a class="extiw" href="http://en.wikipedia.org/wiki/Silent_Death" title="wikipedia:Silent Death">Cái chết thầm lặng</a> của ICE. Dự án do Tim Goodlett dẫn đầu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trò chơi lẽ ra sẽ có các mô hình thu nhỏ có kích thước 28mm.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cuối cùng, nó chưa bao giờ được đưa vào sản xuất.
 

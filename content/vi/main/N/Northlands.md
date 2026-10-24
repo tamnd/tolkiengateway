@@ -17,7 +17,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>Northern parts of Middle-earth</b>. For the the Northlands of <a href="Númenor.md" title="Númenor">Númenor</a>, see <b><a href="../F/Forostar.md" title="Forostar">Forostar</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này viết về <b>Phần phía Bắc của Trung Địa</b>. Đối với vùng đất phía Bắc của <a href="Númenor.md" title="Númenor">Númenor</a>, xem <b><a href="../F/Forostar.md" title="Forostar">Forostar</a></b>.</div></div>
 
 **Northlands** là một thuật ngữ mơ hồ để chỉ các vùng đất phía bắc [Beleriand](../B/Beleriand.md), bao gồm [Ard-galen](../A/Ard-galen.md)/[Anfauglith](../A/Anfauglith.md), [Ered Engrin](../I/Iron_Mountains.md), và có thể cả [Hithlum](../H/Hithlum.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

@@ -20,7 +20,7 @@ infobox:
     value: "11½"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Beyond Bree October 1985</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../A/American_Mensa_Tolkien_Special_Interest_Group.md" title="American Mensa Tolkien Special Interest Group">American Mensa Tolkien Special Interest Group</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">11½</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Beyond Bree October 1985</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../A/American_Mensa_Tolkien_Special_Interest_Group.md" title="American Mensa Tolkien Special Interest Group">Nhóm chuyên đề Tolkien thuộc Mensa Hoa Kỳ</a></td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">11½</td></tr></tbody></table>
 
 <b><i>Beyond Bree</i> Tháng 10 năm 1985</b> là số của *[Beyond Bree](Beyond_Bree.md)*, do [Nancy Martsch biên tập](../N/Nancy_Martsch.md). Trong bài viết của mình, [Taum Santoski](../T/Taum_Santoski.md) cung cấp bản phiên âm của các nốt [elvish](../E/Elvish.md) được sao chép trong *[Les aventures de Tom Bombadil](../L/Les_aventures_de_Tom_Bombadil.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

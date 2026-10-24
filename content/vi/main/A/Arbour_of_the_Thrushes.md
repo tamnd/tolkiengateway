@@ -20,7 +20,7 @@ Chính trong vọng lâu này [Eriol](../E/Eriol.md) đã trò chuyện với [R
 Bản thân khu vườn được Rúmil chăm sóc và có một hàng cây phỉ Eriol mà ông ta đang đi dạo dọc theo. Nó có rất nhiều loài chim, và trong số chúng Rúmil nhận xét rằng "tất cả các bài hát của [Tol Eressëa](../T/Tol_Eressëa.md) đôi khi được nghe thấy trong khu vườn này."<sup id="cite_ref-link_1-1" class="reference"><a href="#cite_note-link-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:58–59</sup> Khi Eriol lang thang ở đó, nó được mô tả như sau:<sup id="cite_ref-music_2-1" class="reference"><a href="#cite_note-music-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:82</sup>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Although it seemed enclosed within great stone walls covered with fruit-trees or with climbing plants whose golden and red blossoms shone beneath the sun, yet were the nooks and corners of the garden, its coppices and lawns, its shady ways and flowering fields, without end, and exploration discovered always something new.
+<p>Mặc dù nó dường như được bao bọc trong những bức tường đá lớn phủ đầy cây ăn quả hoặc cây leo có hoa vàng và đỏ tỏa sáng dưới ánh mặt trời, nhưng những ngóc ngách của khu vườn, những khoảnh vườn và bãi cỏ, những con đường rợp bóng mát và những cánh đồng hoa, không ngừng nghỉ, và sự khám phá luôn khám phá ra điều gì đó mới mẻ.
 </p>
 </blockquote><div class="tg-section-divider"></div></div>
 

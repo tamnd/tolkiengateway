@@ -33,7 +33,7 @@ Lần đầu tiên nó xuất hiện là trong [Maps of Trung Địa](../M/Maps_
 Thaurband được đề cập trong một mục nhật ký được mã hóa ở [Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md):<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>I was going to scout Thaurband, the slave city. The Orcs got a prison there, and enough people in chains to run the mines and the mills and make the city go.
+<p>Tôi định đi trinh sát Thaurband, thành phố nô lệ. Orc có một nhà tù ở đó, và đủ người bị xiềng xích để điều hành các hầm mỏ, nhà máy và vận hành thành phố.
 </p>
 </blockquote>
 
@@ -42,7 +42,7 @@ Thaurband được đề cập trong một mục nhật ký được mã hóa �
 Mặc dù địa điểm này không được ghé thăm ở [The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md), Thaurband được nhắc đến trong nhiệm vụ chiến đấu với Gloom of Nurn, [Nazgûl](../N/Nazgûl.md) sống ở đó:<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>He dwelt in Thaurband, a fortress in southern Mordor, not far from the inland Sea. It was from that keep that the fear of him spread, giving him a new title to replace the name he no longer needed. He became the Gloom of Núrn, though he did not stay there, and roved far and wide at Sauron&#39;s command.
+<p>Ông sống ở Thaurband, một pháo đài ở phía nam Mordor, cách nội địa không xa Biển. Chính từ sự giam giữ đó, nỗi sợ hãi về anh càng lan rộng, trao cho anh một danh hiệu mới để thay thế cái tên mà anh không còn cần nữa. Ông trở thành Gloom of Núrn, mặc dù ông không ở lại đó và di chuyển rất xa theo lệnh Sauron.
 </p>
 </blockquote>
 
@@ -51,7 +51,7 @@ Mặc dù địa điểm này không được ghé thăm ở [The Lord of the Ri
 Trang fansite [Thelandofshadow.com](Thelandofshadow.com.md) đã lấy một số cái tên do Reeve giới thiệu và mở rộng chúng. Thaurband được mô tả như sau:<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>A fortress along the Sea of Nurnen. Thaurband is one of the largest of the southern guard posts of Mordor. Raised along the banks of the Sea of Nurnen, it was a logical outpost for troops, slaves and goods coming into Northern Mordor. [...] Many ships moved goods across the sea landing at Thaurband and then moving north along the Nurn road.
+<p>Một pháo đài dọc theo Biển Nurnen. Thaurband là một trong những đồn gác phía nam lớn nhất của Mordor. Được xây dựng dọc theo bờ Biển của Nurnen, đây là một tiền đồn hợp lý cho quân đội, nô lệ và hàng hóa tiến vào miền Bắc Mordor. [...] Nhiều tàu vận chuyển hàng hóa vượt biển cập bến Thaurband rồi di chuyển về phía bắc dọc theo đường Nurn.
 </p>
 </blockquote>
 
@@ -67,14 +67,14 @@ Thông tin từ The Land of Bóng Tối đã được đưa vào dưới dạng 
 		<li class="gallerybox" style="width: 162.66666666667px">
 			<div class="thumb" style="width: 160.66666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Daniel_Reeve_-_Map_of_Mordor_(Decipher).jpg.md" title="Thaurband as it first appeared on the 2002 Decipher RPG map."><img alt="Thaurband as it first appeared on the 2002 Decipher RPG map." src="https://tolkiengateway.net/w/images/thumb/1/11/Daniel_Reeve_-_Map_of_Mordor_%28Decipher%29.jpg/241px-Daniel_Reeve_-_Map_of_Mordor_%28Decipher%29.jpg" decoding="async" loading="lazy" width="161" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/11/Daniel_Reeve_-_Map_of_Mordor_%28Decipher%29.jpg/362px-Daniel_Reeve_-_Map_of_Mordor_%28Decipher%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/11/Daniel_Reeve_-_Map_of_Mordor_%28Decipher%29.jpg/482px-Daniel_Reeve_-_Map_of_Mordor_%28Decipher%29.jpg 2x" data-file-width="1607" data-file-height="1200"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 141px"><div class="gallerytext">
-<p>Thaurband as it first appeared on the 2002 Decipher RPG map.
+<p>Thaurband khi nó xuất hiện lần đầu trên bản đồ Decipher RPG năm 2002.
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 138.66666666667px">
 			<div class="thumb" style="width: 136.66666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Daniel_Reeve_-_Map_of_Mordor_(Merchandise).jpg.md" title="The expanded 2003 merchandise map layout."><img alt="The expanded 2003 merchandise map layout." src="https://tolkiengateway.net/w/images/thumb/a/a7/Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg/205px-Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg" decoding="async" loading="lazy" width="137" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg/308px-Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg/411px-Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg 2x" data-file-width="2700" data-file-height="2368"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 117px"><div class="gallerytext">
-<p>The expanded 2003 merchandise map layout.
+<p>Bố cục bản đồ hàng hóa mở rộng năm 2003.
 </p>
 			</div></div>
 		</li>
@@ -91,7 +91,7 @@ Thông tin từ The Land of Bóng Tối đã được đưa vào dưới dạng 
 <li id="cite_note-reeve-site-2"><span class="mw-cite-backlink"><a href="#cite_ref-reeve-site_2-0">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Daniel Reeve</span>. <span class="cite-web-article"><a class="external text" href="https://www.danielreeve.co.nz/LOTR/Maps/" rel="noreferrer noopener" target="_blank">&#34;The Lord of the Rings: Maps&#34;</a></span>. <span class="cite-web-website">Daniel Reeve, artist</span></cite></span>
 </li>
 <li id="cite_note-reeve-mail-3"><span class="mw-cite-backlink"><a href="#cite_ref-reeve-mail_3-0">↑</a></span> <span class="reference-text">Daniel Reeve, personal correspondence (June 2026):<blockquote class="tg-quote noexcerpt">
-<p>the Decipher maps pre-dated the ROTK merchandising map (Mordor). I created the set of maps for Decipher in 2002, and the ROTK merchandising map in 2003. So the Decipher Mordor map served as a kind of template when I later made the merchandising map of Mordor – at which time I expanded upon it, adding a lot more invented detail and names. […] I created the places and names myself.
+<p>bản đồ Giải mã có trước bản đồ buôn bán ROTK (Mordor). Tôi đã tạo bộ bản đồ cho Decipher vào năm 2002 và bản đồ buôn bán ROTK vào năm 2003. Vì vậy, bản đồ Decipher Mordor đóng vai trò như một loại mẫu khi sau này tôi tạo bản đồ buôn bán Mordor – lúc đó tôi đã mở rộng nó, bổ sung thêm nhiều chi tiết và tên được phát minh. […] Tôi đã tự mình tạo ra các địa điểm và đặt tên.
 </p>
 </blockquote></span>
 </li>

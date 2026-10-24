@@ -17,7 +17,7 @@ sort_keys:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Every damn black metal band out there sounds like it was taken from Middle Earth and it seems like there is a band for every character in the writings of JRR Tolkien.
+<p>Mọi ban nhạc black metal chết tiệt ngoài kia đều có vẻ như được lấy từ Trung Địa và có vẻ như có một ban nhạc dành cho mọi nhân vật trong các tác phẩm của JRR Tolkien.
 </p>
 <p class="tg-quote-footer"><cite>Jason Fisher<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

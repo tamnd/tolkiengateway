@@ -16,7 +16,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 Tin nhắn của **[Galadriel](Galadriel.md)** là những tin nhắn do Galadriel gửi cho [Gandalf](Gandalf.md) phe Trắng trong thời gian ông ta ở [Lothlórien](../L/Lothlórien.md) sau [trận chiến](../B/Battle_of_the_Peak.md) với [Balrog](../D/Durin's_Bane.md). Bà bảo ông giao chúng cho [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](Gimli.md), điều này Gandalf đã hoàn thành khi ông gặp họ cuối cùng trong [Rừng Fangorn](../F/Fangorn_Forest.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Aragorn thông điệp của nó mang tính chất tiên tri, đề cập đến cuộc họp của [Grey Company](Grey_Company.md) và việc ông đi theo [Con đường của người chết](../P/Paths_of_the_Dead.md). Tin nhắn của Legolas sẽ là một lời cảnh báo, vì khi anh ở [Pelargir](../P/Pelargir.md) anh đã nghe thấy tiếng kêu của những con hải âu, điều này đã đánh thức [Biển nỗi khao khát](../S/Sea-longing.md) đang ngủ yên trong trái tim Tiên tộc.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Gimli Tin nhắn của anh là một sự khích lệ, vì anh mang ba lọn tóc của Galadriel.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
@@ -24,30 +24,30 @@ Tin nhắn của **[Galadriel](Galadriel.md)** là những tin nhắn do Galadri
 **Aragorn**
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Where now are the Dúnedain, Elessar, Elessar? <br/>
-Why do thy kinsfolk wander afar? <br/>
-Near is the hour when the Lost should come forth, <br/>
-And the Grey Company ride from the North. <br/>
-But dark is the path appointed for thee: <br/>
-The Dead watch the road that leads to the Sea.
+<p>Hiện tại Dúnedain, Elessar, Elessar ở đâu? <br/>
+Tại sao người thân của bạn lại lang thang xa xôi? <br/>
+Đã gần đến lúc Kẻ Lạc lối xuất hiện, <br/>
+Và Đại đội Xám tới từ phương Bắc. <br/>
+Nhưng con đường đã được chỉ định cho bạn là bóng tối: <br/>
+Người chết canh giữ con đường dẫn đến Biển.
 </p>
 </div>
 
 **Legolas**
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Legolas Greenleaf long under tree <br/>
-In joy thou hast lived. Beware of the Sea! <br/>
-If thou hearest the cry of the gull on the shore, <br/>
-Thy heart shall then rest in the forest no more.
+<p>Legolas Lá xanh trải dài dưới gốc cây <br/>
+Bạn đã sống trong niềm vui. Hãy cẩn thận với Biển! <br/>
+Nếu em nghe thấy tiếng mòng biển kêu trên bờ <br/>
+Trái tim ngươi sẽ không còn yên nghỉ trong rừng nữa.
 </p>
 </div>
 
 **Gimli**
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Lock-bearer, wherever thou goest my thought goes with thee. <br/>
-But have a care to lay thine axe to the right tree!&#34;
+<p>Người mang ổ khóa, bất cứ nơi nào bạn đi, suy nghĩ của tôi sẽ đi cùng bạn. <br/>
+Nhưng hãy cẩn thận đặt rìu của bạn vào đúng cây nhé!”
 </p>
 </div>
 

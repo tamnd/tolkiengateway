@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Common_Eldarin"
 content_sha256: 0e08345687c5db32b24eb03e215994adaeda74a42a0986334da4f08ab5122d71
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Ancestral language of the Elves"
+short_description: "Ngôn ngữ tổ tiên của Tiên tộc"
 categories:
   - "Common Eldarin"
   - "Primitive Elvish"
@@ -41,31 +41,31 @@ Vì Eldar chiếm vị trí chủ đạo trong biên niên sử của [Elder Day
 
 Trong Cuộc Đại Hành Trình, những thay đổi nhỏ đối với Primitive Quendian đã tạo ra các ngôn ngữ Eldarin về sau. Những thay đổi này liên quan đến một số sự phát triển của các hình thái từ, thường là sự chuẩn hóa. Ví dụ:
 
-<dl><dt>Medial <i>h</i> was lost</dt>
+<dl><dt>Trung gian <i>h</i> bị mất</dt>
 <dd>PQ: <i>-<a class="new" href="https://tolkiengateway.net/w/index.php?title=H%C3%B4&amp;action=edit&amp;redlink=1" title="Hô (page does not exist)">hô</a></i> &gt; CE: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-%C3%B4&amp;action=edit&amp;redlink=1" title="-ô (page does not exist)">-ô</a></i></dd></dl>
 
-<dl><dt>&#34;Difficult&#34; consonant clusters, usually those with nasals (like <i>bm</i> and <i>dn</i>), were rearranged</dt>
-<dd>PQ: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Labm%C3%A2&amp;action=edit&amp;redlink=1" title="Labmâ (page does not exist)">labmâ</a></i> (root <a class="new" href="https://tolkiengateway.net/w/index.php?title=LAB&amp;action=edit&amp;redlink=1" title="LAB (page does not exist)">LAB</a>) &gt; CE: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lamb%C3%A2&amp;action=edit&amp;redlink=1" title="Lambâ (page does not exist)">lambâ</a></i></dd>
-<dd>PQ: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Stabn%C3%AA&amp;action=edit&amp;redlink=1" title="Stabnê (page does not exist)">stabnê</a></i> (<a class="mw-redirect" href="../S/Sundocarmë.md" title="Sundocarmë">Root</a> <a class="new" href="https://tolkiengateway.net/w/index.php?title=STAB&amp;action=edit&amp;redlink=1" title="STAB (page does not exist)">STAB</a>) &gt; CE <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Stamb%C3%AA&amp;action=edit&amp;redlink=1" title="Stambê (page does not exist)">stambê</a></i></dd></dl>
+<dl><dt>Các cụm phụ âm “khó”, thường là những cụm phụ âm có mũi (như <i>bm</i> và <i>dn</i>), đã được sắp xếp lại</dt>
+<dd>PQ: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Labm%C3%A2&amp;action=edit&amp;redlink=1" title="Labmâ (page does not exist)">labmâ</a></i> (gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=LAB&amp;action=edit&amp;redlink=1" title="LAB (page does not exist)">LAB</a>) &gt; CE: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lamb%C3%A2&amp;action=edit&amp;redlink=1" title="Lambâ (page does not exist)">lambâ</a></i></dd>
+<dd>PQ: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Stabn%C3%AA&amp;action=edit&amp;redlink=1" title="Stabnê (page does not exist)">stabnê</a></i> (<a class="mw-redirect" href="../S/Sundocarmë.md" title="Sundocarmë">Gốc</a> <a class="new" href="https://tolkiengateway.net/w/index.php?title=STAB&amp;action=edit&amp;redlink=1" title="STAB (page does not exist)">STAB</a>) &gt; CE <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Stamb%C3%AA&amp;action=edit&amp;redlink=1" title="Stambê (page does not exist)">stambê</a></i></dd></dl>
 
 <dl><dt><i>ȝt</i> &gt; <i>cht</i></dt>
-<dd>PQ: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ma%C8%9Dt%C3%A2&amp;action=edit&amp;redlink=1" title="Maȝtâ (page does not exist)">maȝtâ</a></i> (root <a class="new" href="https://tolkiengateway.net/w/index.php?title=MA%C8%9C&amp;action=edit&amp;redlink=1" title="MAȜ (page does not exist)">MAȜ</a>) &gt; CE: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Maht%C3%A2&amp;action=edit&amp;redlink=1" title="Mahtâ (page does not exist)">mahtâ</a></i> (pronounced <i>machta</i>)</dd></dl>
+<dd>PQ: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ma%C8%9Dt%C3%A2&amp;action=edit&amp;redlink=1" title="Maȝtâ (page does not exist)">maȝtâ</a></i> (gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=MA%C8%9C&amp;action=edit&amp;redlink=1" title="MAȜ (page does not exist)">MAȜ</a>) &gt; CE: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Maht%C3%A2&amp;action=edit&amp;redlink=1" title="Mahtâ (page does not exist)">mahtâ</a></i> (phát âm là <i>machta</i>)</dd></dl>
 
-<dl><dt>Final short <i>-a, -e, -o</i> are <a class="new" href="https://tolkiengateway.net/w/index.php?title=Apocope&amp;action=edit&amp;redlink=1" title="Apocope (page does not exist)">lost</a>, sometimes producing a long monosyllable as their trace</dt>
+<dl><dt><i>-a, -e, -o</i> cuối cùng bị <a class="new" href="https://tolkiengateway.net/w/index.php?title=Apocope&amp;action=edit&amp;redlink=1" title="Apocope (page does not exist)">mất</a>, đôi khi tạo ra một âm tiết dài đơn âm làm dấu vết của chúng</dt>
 <dd>PQ: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nd%C3%AAro&amp;action=edit&amp;redlink=1" title="Ndêro (page does not exist)">ndêro</a></i> &gt; CE: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nd%C3%A6%5Er&amp;action=edit&amp;redlink=1" title="Ndæ^r (page does not exist)">ndæ̂r</a></i><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd>
-<dd>(<i><a href="../K/Kwende.md" title="Kwende">kwende</a></i> &gt; <i><a class="mw-redirect" href="../Q/Quendë.md" title="Quendë">quendë</a></i> is an exception)</dd></dl>
+<dd>(<i><a href="../K/Kwende.md" title="Kwende">kwende</a></i> &gt; <i><a class="mw-redirect" href="../Q/Quendë.md" title="Quendë">quendë</a></i> là một ngoại lệ)</dd></dl>
 
-<dl><dt>Final short <i>-i, -u</i> became <i>-e, -o</i></dt>
+<dl><dt>Đoạn ngắn cuối cùng <i>-i, -u</i> trở thành <i>-e, -o</i></dt>
 <dd>PQ: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ma%C8%9Diti&amp;action=edit&amp;redlink=1" title="Maȝiti (page does not exist)">maȝiti</a></i> &gt; CE: *<i>maȝite</i></dd>
 <dd>PQ: <i><a href="../R/RAK.md" title="RAK">ranku</a></i> &gt; CE: *<i><a class="mw-redirect" href="../R/Ranko.md" title="Ranko">ranko</a></i></dd></dl>
 
-<dl><dt>Other minor changes</dt>
+<dl><dt>Những thay đổi nhỏ khác</dt>
 <dd>PQ: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Wo&amp;action=edit&amp;redlink=1" title="Wo (page does not exist)">wo</a></i> &gt; CE: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Wa&amp;action=edit&amp;redlink=1" title="Wa (page does not exist)">wa</a></i></dd></dl>
 
-<dl><dt><i>a</i> infiction in some stems which produced new diphthongs like <i>ae, ao</i></dt>
-<dd>PQ: *<i>melâ</i> (<a class="mw-redirect" href="../S/Sundocarmë.md" title="Sundocarmë">Root</a> <a href="../M/MEL.md" title="MEL">MEL</a>) &gt; CE *<i>maelâ</i><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
+<dl><dt><i>a</i> hư cấu ở một số gốc tạo ra các nguyên âm đôi mới như <i>ae, ao</i></dt>
+<dd>PQ: *<i>melâ</i> (<a class="mw-redirect" href="../S/Sundocarmë.md" title="Sundocarmë">Gốc</a> <a href="../M/MEL.md" title="MEL">MEL</a>) &gt; CE *<i>maelâ</i><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
-<dl><dt>final long <i>-â, -ê, -î, -ô, -û</i> became short (later stage)</dt>
+<dl><dt>độ dài cuối cùng <i>-â, -ê, -î, -ô, -û</i> trở thành ngắn (giai đoạn sau)</dt>
 <dd>CE: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Stamb%C3%AA&amp;action=edit&amp;redlink=1" title="Stambê (page does not exist)">stambê</a></i> &gt; <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Stambe&amp;action=edit&amp;redlink=1" title="Stambe (page does not exist)">stambe</a></i></dd>
 <dd>CE: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Maht%C3%A2&amp;action=edit&amp;redlink=1" title="Mahtâ (page does not exist)">mahtâ</a></i> &gt; <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mahta&amp;action=edit&amp;redlink=1" title="Mahta (page does not exist)">mahta</a></i></dd>
 <dd>CE: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lamb%C3%A2&amp;action=edit&amp;redlink=1" title="Lambâ (page does not exist)">lambâ</a></i> &gt; <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lamba&amp;action=edit&amp;redlink=1" title="Lamba (page does not exist)">lamba</a></i></dd></dl>
@@ -89,7 +89,7 @@ Trong Cuộc Đại Hành Trình, những thay đổi nhỏ đối với Primiti
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5);" colspan="2"><a href="../L/Languages.md" title="Languages">Languages</a> and scripts in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a>&#39;s works
+<th align="center" style="background:var(--tg-color-surface-5);" colspan="2"><a href="../L/Languages.md" title="Languages">Ngôn ngữ</a> và chữ viết trong tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a>
 </th></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../E/Elvish.md" title="Elvish">Elvish</a>
@@ -97,9 +97,9 @@ Trong Cuộc Đại Hành Trình, những thay đổi nhỏ đối với Primiti
 <td style="font-size: 90%; padding-left: 4px;"><a href="../A/Angerthas.md" title="Angerthas">Angerthas</a> (<a href="../A/Angerthas_Daeron.md" title="Angerthas Daeron">Angerthas Daeron</a>) · <a href="../A/Avarin.md" title="Avarin">Avarin</a> (<a class="mw-redirect" href="../E/East_Avarin.md" title="East Avarin">East</a> · <a class="mw-redirect" href="../N/North_Avarin.md" title="North Avarin">North</a> · <a class="mw-redirect" href="../W/West_Avarin.md" title="West Avarin">West</a>) · <a href="Cirth.md" title="Cirth">Cirth</a> (<a href="Certhas_Daeron.md" title="Certhas Daeron">Certhas Daeron</a>) · <a class="mw-selflink selflink">Common Eldarin</a> · <a href="../M/Mátengwië.md" title="Mátengwië">Mátengwië</a> · <a href="../M/Moon-letters.md" title="Moon-letters">Moon-letters</a> · <a class="mw-redirect" href="../N/Nandorin.md" title="Nandorin">Nandorin</a> · <a href="../P/Primitive_Quendian.md" title="Primitive Quendian">Primitive Quendian</a> · <a href="../Q/Quenya.md" title="Quenya">Quenya</a> (<a href="../E/Exilic_Quenya.md" title="Exilic Quenya">Exilic</a> · <a href="../V/Valinorean_Quenya.md" title="Valinorean Quenya">Valinorean</a> · <a class="mw-redirect" href="../V/Vanyarin_Quenya.md" title="Vanyarin Quenya">Vanyarin</a>) · <a href="../S/Sarati.md" title="Sarati">Sarati</a> · <a href="../S/Silvan_Elvish.md" title="Silvan Elvish">Silvan Elvish</a> · <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> (<a href="../D/Doriathrin.md" title="Doriathrin">Doriathrin</a> · <a href="../F/Falathrin.md" title="Falathrin">Falathrin</a> · <a href="../N/Númenórean_Sindarin.md" title="Númenórean Sindarin">Númenórean</a> · <a href="../N/North_Sindarin.md" title="North Sindarin">Mithrimin</a> · <a href="../O/Old_Sindarin.md" title="Old Sindarin">Old</a>) · <a href="../T/Telerin.md" title="Telerin">Telerin</a> (<a href="Common_Telerin.md" title="Common Telerin">Common</a>) · <a href="../T/Tengwar.md" title="Tengwar">Tengwar</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../M/Mannish.md" title="Mannish">Mannish</a>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../M/Mannish.md" title="Mannish">Thuộc về Con Người</a>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../A/Adûnaic.md" title="Adûnaic">Adûnaic</a> · <a href="../D/Drúadan_language.md" title="Drúadan language">Drúadan</a> · <a href="../D/Dunlendish.md" title="Dunlendish">Dunlendish</a> · <a href="../H/Halethian.md" title="Halethian">Halethian</a> · <a href="../N/Northern_Mannish.md" title="Northern Mannish">Northern Mannish</a> (<a href="../L/Language_of_Dale.md" title="Language of Dale">Language of Dale</a> · <a href="../R/Rohanese.md" title="Rohanese">Rohanese</a>) · <a href="../P/Pre-Númenórean.md" title="Pre-Númenórean">Pre-Númenórean</a> · <a href="../T/Taliska.md" title="Taliska">Taliska</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Skirditaila&amp;action=edit&amp;redlink=1" title="Skirditaila (page does not exist)">Taliskan skirditaila</a> · <a href="../W/Westron.md" title="Westron">Westron</a> (<a href="../B/Bucklandish.md" title="Bucklandish">Bucklandish</a> · <a href="../H/Hobbitish.md" title="Hobbitish">Hobbitish</a>)
+<td style="font-size: 90%; padding-left: 4px;"><a href="../A/Adûnaic.md" title="Adûnaic">Adûnaic</a> · <a href="../D/Drúadan_language.md" title="Drúadan language">Drúadan</a> · <a href="../D/Dunlendish.md" title="Dunlendish">Dunlendish</a> · <a href="../H/Halethian.md" title="Halethian">Halethian</a> · <a href="../N/Northern_Mannish.md" title="Northern Mannish">Mannish miền Bắc</a> (<a href="../L/Language_of_Dale.md" title="Language of Dale">Ngôn ngữ Dale</a> · <a href="../R/Rohanese.md" title="Rohanese">Rohanese</a>) · <a href="../P/Pre-Númenórean.md" title="Pre-Númenórean">Pre-Númenórean</a> · <a href="../T/Taliska.md" title="Taliska">Taliska</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Skirditaila&amp;action=edit&amp;redlink=1" title="Skirditaila (page does not exist)">Taliskan skirditaila</a> · <a href="../W/Westron.md" title="Westron">Westron</a> (<a href="../B/Bucklandish.md" title="Bucklandish">Bucklandish</a> · <a href="../H/Hobbitish.md" title="Hobbitish">Hobbitish</a>)
 </td></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Dwarvish
@@ -107,25 +107,25 @@ Trong Cuộc Đại Hành Trình, những thay đổi nhỏ đối với Primiti
 <td style="font-size: 90%; padding-left: 4px;"><a href="../A/Angerthas.md" title="Angerthas">Angerthas</a> (<a href="../A/Angerthas_Erebor.md" title="Angerthas Erebor">Erebor</a> · <a href="../A/Angerthas_Moria.md" title="Angerthas Moria">Moria</a>) · <a href="../A/Aulëan.md" title="Aulëan">Aulëan</a> · <a href="../I/Iglishmêk.md" title="Iglishmêk">Iglishmêk</a> · <a href="../K/Khuzdul.md" title="Khuzdul">Khuzdul</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Other
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Khác
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../B/Black_Speech.md" title="Black Speech">Black Speech</a> · <a href="../M/Melkian.md" title="Melkian">Melkian</a> · <a href="../E/Entish.md" title="Entish">Old Entish</a> · <a href="../O/Orkish.md" title="Orkish">Orkish</a> · <a href="../V/Valarin.md" title="Valarin">Valarin</a> · <a href="../W/Wolf-language.md" title="Wolf-language">Wolf-language</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Earlier legendarium
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Huyền sử thời kỳ đầu
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../G/Gnomish.md" title="Gnomish">Gnomish</a> · <a href="../G/Gnomic_Letters.md" title="Gnomic Letters">Gnomic Letters</a> · <a href="../G/Gondolinic_Runes.md" title="Gondolinic Runes">Gondolinic Runes</a> · <a href="../I/Ilkorin.md" title="Ilkorin">Ilkorin</a> · <a href="../K/Keladian.md" title="Keladian">Keladian</a> · <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> (<a href="../F/Fëanorian_dialect.md" title="Fëanorian dialect">Fëanorian dialect</a> · <a href="../K/Kornoldorin.md" title="Kornoldorin">Kornoldorin</a>) · <a href="../O/Oromëan.md" title="Oromëan">Oromëan</a> · <a href="../Q/Qenya.md" title="Qenya">Qenya</a> · <a href="../V/Valmaric_script.md" title="Valmaric script">Valmaric script</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../G/Gnomish.md" title="Gnomish">Gnomish</a> · <a href="../G/Gnomic_Letters.md" title="Gnomic Letters">Chữ Gnomic</a> · <a href="../G/Gondolinic_Runes.md" title="Gondolinic Runes">Rune Gondolinic</a> · <a href="../I/Ilkorin.md" title="Ilkorin">Ilkorin</a> · <a href="../K/Keladian.md" title="Keladian">Keladian</a> · <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> (<a href="../F/Fëanorian_dialect.md" title="Fëanorian dialect">Phương ngữ Fëanorian</a> · <a href="../K/Kornoldorin.md" title="Kornoldorin">Kornoldorin</a>) · <a href="../O/Oromëan.md" title="Oromëan">Oromëan</a> · <a href="../Q/Qenya.md" title="Qenya">Qenya</a> · <a href="../V/Valmaric_script.md" title="Valmaric script">Chữ Valmaric</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Outside the legendarium
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Ngoài huyền sử
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../A/Animalic.md" title="Animalic">Animalic</a> · <a href="../A/Arktik.md" title="Arktik">Arktik</a> · <a href="../G/Gautisk.md" title="Gautisk">Gautisk</a> · <a href="../G/Goblin_Alphabet.md" title="Goblin Alphabet">Goblin Alphabet</a> · <a href="../M/Mágol.md" title="Mágol">Mágol</a> · <a href="../N/Naffarin.md" title="Naffarin">Naffarin</a> · <a href="../N/New_English_Alphabet.md" title="New English Alphabet">New English Alphabet</a> · <a href="../N/Nevbosh.md" title="Nevbosh">Nevbosh</a> · <a href="../P/Privata_Kodo_Skauta.md" title="Privata Kodo Skauta">Privata Kodo Skauta</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Real-world
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Thế giới thực
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="Celtic.md" title="Celtic">Celtic</a> · <a href="../M/Modern_English.md" title="Modern English">English</a> (<a href="../O/Old_English.md" title="Old English">Old</a> · <a href="../M/Middle_English.md" title="Middle English">Middle</a> · <a href="../A/AB_language.md" title="AB language">AB</a>) · <a href="../F/Finnish.md" title="Finnish">Finnish</a> · <a href="../N/North_Germanic_languages.md" title="North Germanic languages">Germanic</a> · <a href="../G/Gothic.md" title="Gothic">Gothic</a> · <a href="../H/Hebrew.md" title="Hebrew">Hebrew</a> · <a href="../L/Latin.md" title="Latin">Latin</a> · <a href="../R/Runes.md" title="Runes">Runic alphabet</a> · <a href="../W/Welsh.md" title="Welsh">Welsh</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="Celtic.md" title="Celtic">Celtic</a> · <a href="../M/Modern_English.md" title="Modern English">Tiếng Anh</a> (<a href="../O/Old_English.md" title="Old English">Cổ</a> · <a href="../M/Middle_English.md" title="Middle English">Trung</a> · <a href="../A/AB_language.md" title="AB language">AB</a>) · <a href="../F/Finnish.md" title="Finnish">Tiếng Phần Lan</a> · <a href="../N/North_Germanic_languages.md" title="North Germanic languages">Tiếng Đức</a> · <a href="../G/Gothic.md" title="Gothic">Tiếng Gothic</a> · <a href="../H/Hebrew.md" title="Hebrew">tiếng Hebrew</a> · <a href="../L/Latin.md" title="Latin">Tiếng Latinh</a> · <a href="../R/Runes.md" title="Runes">Bảng chữ cái runic</a> · <a href="../W/Welsh.md" title="Welsh">tiếng Wales</a>
 </td></tr>
 <tr>
-<td align="center" style="background: var(--tg-color-surface-3); font-size: 90%;" colspan="2"><i><a href="../A/Alphabet_of_Fëanor%253A_Numenian,_or_Westron,_Mode.md" title="Alphabet of Fëanor: Numenian, or Westron, Mode">Alphabet of Fëanor: Numenian, or Westron, Mode</a></i> · &#34;<a href="../A/A_Secret_Vice.md" title="A Secret Vice">A Secret Vice</a>&#34; (<i><a class="mw-redirect" href="../A/A_Secret_Vice_(book).md" title="A Secret Vice (book)">book</a></i>) · &#34;<a href="../T/The_Lhammas.md" title="The Lhammas">The Lhammas</a>&#34; · &#34;<a href="../T/The_Tree_of_Tongues.md" title="The Tree of Tongues">The Tree of Tongues</a>&#34; · <a href="../S/Sub-creation.md" title="Sub-creation">Sub-creation</a>
+<td align="center" style="background: var(--tg-color-surface-3); font-size: 90%;" colspan="2"><i><a href="../A/Alphabet_of_Fëanor%253A_Numenian,_or_Westron,_Mode.md" title="Alphabet of Fëanor: Numenian, or Westron, Mode">Alphabet of Fëanor: Numenian, or Westron, Mode</a></i> · "<a href="../A/A_Secret_Vice.md" title="A Secret Vice">Một phó tướng bí mật</a>" (<i><a class="mw-redirect" href="../A/A_Secret_Vice_(book).md" title="A Secret Vice (book)">book</a></i>) · "<a href="../T/The_Lhammas.md" title="The Lhammas">The Lhammas</a>" · "<a href="../T/The_Tree_of_Tongues.md" title="The Tree of Tongues">Cây lưỡi</a>" · <a href="../S/Sub-creation.md" title="Sub-creation">Sáng tạo phụ</a>
 </td></tr></tbody></table>

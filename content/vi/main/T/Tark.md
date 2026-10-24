@@ -23,7 +23,7 @@ langlinks:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>There&#39;s a great fighter about, one of those bloody-handed Elves, or one of the filthy <b>tarks</b>.
+<p>Xung quanh có một chiến binh cừ khôi, một trong những Tiên tộc tay đẫm máu đó, hoặc một trong những <b>tarks</b> bẩn thỉu.
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Snaga_(orc_of_Mordor).md" title="Snaga (orc of Mordor)">Snaga</a>, <a href="The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a>, <a href="The_Tower_of_Cirith_Ungol.md" title="The Tower of Cirith Ungol">The Tower of Cirith Ungol</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -41,19 +41,19 @@ Có ít nhất hai cách giải thích về từ nguyên của *tark*, chỉ hơ
 
 <b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Whenever a keep is flipped in favor of the Servants of the Eye, an orc calls out &#34;look at the feeble târks run!&#34;</dd></dl>
+<dl><dd>Bất cứ khi nào quân cờ được lật nghiêng về phía Người hầu của Mắt, một con Orc sẽ hét lên "hãy nhìn những con târks yếu ớt chạy!"</dd></dl>
 
 <b>2011: <i><a href="The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">The Lord of the Rings: War in the North</a></i>:</b>
 
-<dl><dd>Tharzog mentions Tarks in Fornost.</dd></dl>
+<dl><dd>Tharzog đề cập đến Tarks trong Fornost.</dd></dl>
 
 <b>2014: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung Địa: Bóng Tối trong số Mordor</a></i>:</b>
 
-<dl><dd>Orcs and Orc Captains refer to Talion, a ranger of the Black Gates as &#34;the Tark&#34;.</dd></dl>
+<dl><dd>Orc và Orc Các thuyền trưởng gọi Talion, một kiểm lâm viên của Cổng Đen là "Tark".</dd></dl>
 
 <b>2017: <i><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Trung Địa: Bóng Tối chiến tranh</a></i>:</b>
 
-<dl><dd>As in the previous installment, Orcs and Orc Captains continue to refer to Talion as a &#34;Tark&#34;.</dd></dl>
+<dl><dd>Như ở phần trước, các Đội trưởng Orc và Orc tiếp tục gọi Talion là "Tark".</dd></dl>
 
 <span></span>
 

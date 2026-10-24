@@ -15,7 +15,7 @@ images:
   - "Conselho_Branco,_Sociedade_Tolkien.png"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Conselho_Branco,_Sociedade_Tolkien.png.md"><img src="https://tolkiengateway.net/w/images/b/b5/Conselho_Branco%2C_Sociedade_Tolkien.png" decoding="async" loading="lazy" width="190" height="248" class="mw-file-element" data-file-width="190" data-file-height="248"/></a><figcaption><small>Heraldic device of Conselho Branco, Sociedade Tolkien</small></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Conselho_Branco,_Sociedade_Tolkien.png.md"><img src="https://tolkiengateway.net/w/images/b/b5/Conselho_Branco%2C_Sociedade_Tolkien.png" decoding="async" loading="lazy" width="190" height="248" class="mw-file-element" data-file-width="190" data-file-height="248"/></a><figcaption><small>Huy hiệu của Conselho Branco, Sociedade Tolkien</small></figcaption></figure>
 
 **Conselho Branco, Sociedade Tolkien** (tiếng Brazil: **Hiệp hội Bạch Hội Đồng, Tolkien**) là Hiệp hội Tolkien của Brazil được thành lập tại [7 tháng Chín](../_/7_September.md) [2000](../_/2000.md).
 

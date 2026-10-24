@@ -16,7 +16,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 **Gelion-Ascar đồn lũy** là một pháo đài được xây dựng bởi [Haldad](../H/Haldad.md) của [Haladin](../H/Haladin.md) để bảo vệ người dân của mình chống lại [Orc](../O/Orcs.md). Nó nằm ở phía nam [Sarn Athrad](../S/Sarn_Athrad.md), giữa sông [Gelion](Gelion.md) và [Ascar](../A/Ascar.md). Nó đã bị bao vây trong [Trận chiến Gelion-Ascar đồn lũy](../B/Battle_of_the_Gelion-Ascar_Stockade~66779.md) vào khoảng [F.A.](../F/First_Age.md) [375](../F/First_Age_375.md), trong đó Haldad bị giết và đồn lũy bị hư hỏng nặng. Cuối cùng [Haleth](../H/Haleth.md) dẫn Haladin đi, bỏ nơi ẩn náu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>

@@ -18,7 +18,7 @@ images:
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Eric_Faure-Brac_-_Axe.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/af/Eric_Faure-Brac_-_Axe.jpg/220px-Eric_Faure-Brac_-_Axe.jpg" decoding="async" loading="lazy" width="220" height="401" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/af/Eric_Faure-Brac_-_Axe.jpg/330px-Eric_Faure-Brac_-_Axe.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/af/Eric_Faure-Brac_-_Axe.jpg/440px-Eric_Faure-Brac_-_Axe.jpg 2x" data-file-width="457" data-file-height="832"/></a><figcaption><i>Axe</i> by <a href="../../category/I/Images_by_Eric_Faure-Brac.md" title="Category:Images by Eric Faure-Brac">Eric Faure-Brac</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p><a href="../B/Baruk_Khazâd!_Khazâd_ai-mênu!.md" title="Baruk Khazâd! Khazâd ai-mênu!">Baruk Khazâd! Khazâd ai-mênu!</a>
+<p><a href="../B/Baruk_Khazâd!_Khazâd_ai-mênu!.md" title="Baruk Khazâd! Khazâd ai-mênu!">Baruk Khazâd! Khazâd ai-menu!</a>
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gimli.md" title="Gimli">Gimli</a> in <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../H/Helm&#39;s_Deep_(chapter).md" title="Helm&#39;s Deep (chapter)">Helm&#39;s Deep</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

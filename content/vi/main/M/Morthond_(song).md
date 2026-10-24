@@ -30,7 +30,7 @@ infobox:
     value: "The Passing of the Grey Company"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Summoning_Minas_Morgul.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e1/Summoning_Minas_Morgul.jpg/320px-Summoning_Minas_Morgul.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e1/Summoning_Minas_Morgul.jpg/480px-Summoning_Minas_Morgul.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e1/Summoning_Minas_Morgul.jpg/640px-Summoning_Minas_Morgul.jpg 2x" data-file-width="1200" data-file-height="1200"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Morthond</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="Minas_Morgul_(album).md" title="Minas Morgul (album)">Minas Morgul</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Summoning</a></td></tr><tr><th scope="row" class="tg-infobox-label">Written by</th><td class="tg-infobox-data">Summoning</td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data">Summoning</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">6:44</td></tr><tr><th scope="row" class="tg-infobox-label">Track No.</th><td class="tg-infobox-data">4</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="../T/The_Passing_of_the_Grey_Company_(song).md" title="The Passing of the Grey Company (song)">The Passing of the Grey Company</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/2x0updTMmccKcYEnuvqgNQ"></iframe></span>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Summoning_Minas_Morgul.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e1/Summoning_Minas_Morgul.jpg/320px-Summoning_Minas_Morgul.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e1/Summoning_Minas_Morgul.jpg/480px-Summoning_Minas_Morgul.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e1/Summoning_Minas_Morgul.jpg/640px-Summoning_Minas_Morgul.jpg 2x" data-file-width="1200" data-file-height="1200"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Morthond</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="Minas_Morgul_(album).md" title="Minas Morgul (album)">Minas Morgul</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Triệu hồi</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data">Triệu hồi</td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data">Triệu hồi</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">6:44</td></tr><tr><th scope="row" class="tg-infobox-label">Số thứ tự bản nhạc</th><td class="tg-infobox-data">4</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="../T/The_Passing_of_the_Grey_Company_(song).md" title="The Passing of the Grey Company (song)">Cuộc hành quân của Đoàn Kỵ Sĩ Xám</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Phương tiện truyền thông</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/2x0updTMmccKcYEnuvqgNQ"></iframe></span>
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
@@ -39,24 +39,24 @@ infobox:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>We heard horns in hills ringing <br/>
-The swords shining in South-kingdom <br/>
-Steeds went striding to the Stoningland <br/>
-As winds in morning. War was there. <br/>
+<p>Chúng tôi nghe thấy tiếng còi vang vọng trên đồi <br/>
+Những thanh kiếm tỏa sáng ở Vương quốc phía Nam <br/>
+Những chú chiến mã sải bước tới xứ Stoneingland <br/>
+Như gió buổi sáng. Chiến tranh đã ở đó. <br/>
 <br/>
-There run dark waters <br/>
-Morthond, under mountains <br/>
-Death in the morning and at day&#39;s end <br/>
-Lords took and lowly... <br/>
+Có dòng nước đen chảy <br/>
+Morthond, dưới núi <br/>
+Chết vào buổi sáng và cuối ngày <br/>
+Các chúa đã hạ thấp... <br/>
 <br/>
-Grey now <br/>
-as tears gleaming <br/>
-silver, red it rolled then <br/>
-foam dyed with blood <br/>
+Bây giờ màu xám <br/>
+như những giọt nước mắt long lanh <br/>
+bạc, đỏ lăn rồi <br/>
+bọt nhuộm máu <br/>
 <br/>
-Grey now as tears gleaming silver <br/>
-Red then it rolled... water <br/>
-Foam dyed with blood flamed at a sunset <br/>
-As flowers mountains burned at evening
+Giờ xám như nước mắt lấp lánh ánh bạc <br/>
+Đỏ rồi lăn... nước <br/>
+Bọt nhuộm máu rực lửa lúc hoàng hôn <br/>
+Như núi hoa cháy buổi chiều
 </p>
 </div>

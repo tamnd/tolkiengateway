@@ -17,7 +17,7 @@ images:
   - "Romana_Kendelic_-_Drinking_Song.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Romana_Kendelic_-_Drinking_Song.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a8/Romana_Kendelic_-_Drinking_Song.jpg/300px-Romana_Kendelic_-_Drinking_Song.jpg" decoding="async" loading="lazy" width="300" height="286" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a8/Romana_Kendelic_-_Drinking_Song.jpg/450px-Romana_Kendelic_-_Drinking_Song.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a8/Romana_Kendelic_-_Drinking_Song.jpg/600px-Romana_Kendelic_-_Drinking_Song.jpg 2x" data-file-width="1268" data-file-height="1210"/></a><figcaption>&#34;Drinking Song&#34; by <a href="../../category/I/Images_by_Romana_Kendelic.md" title="Category:Images by Romana Kendelic">Romana Kendelic</a></figcaption></figure>
@@ -27,12 +27,12 @@ images:
 ## Bài thơ {#Poem}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Ho! Ho! Ho! to the bottle I go<br/>
-To heal my heart and drown my woe.<br/>
-Rain may fall and wind may blow,<br/>
-And many miles be still to go,<br/>
-But under a tall tree I will lie,<br/>
-And let the clouds go sailing by.
+<p>ồ! ồ! ồ! tới cái chai tôi đi<br/>
+Để chữa lành trái tim tôi và nhấn chìm nỗi đau của tôi.<br/>
+Mưa có thể rơi và gió có thể thổi,<br/>
+Và còn nhiều dặm nữa phải đi,<br/>
+Nhưng dưới gốc cây cao tôi sẽ nằm<br/>
+Và hãy để những đám mây trôi đi.
 </p>
 </div>
 
@@ -41,8 +41,8 @@ And let the clouds go sailing by.
 Ở những bản đánh máy đầu tiên, hai dòng cuối bài thơ có đôi chút khác biệt:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>But under the elm-tree I will lie<br/>
-And let the clouds go sailing by!
+<p>Nhưng dưới gốc cây du tôi sẽ nằm<br/>
+Và hãy để những đám mây trôi qua!
 </p>
 </div>
 
@@ -51,18 +51,18 @@ And let the clouds go sailing by!
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">Phiên bản mở rộng</a>)</b>
 
 <dl><dd><b></b></dd>
-<dd><a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a>, <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a>, and <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> sing the song at the <a class="mw-redirect" href="../G/Green_Dragon~72852.md" title="Green Dragon">Green Dragon</a>, with slightly altered lyrics that incorporate a small part of the <a href="../B/Bath-songs.md" title="Bath-songs">bath-song</a>:</dd></dl>
+<dd><a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a>, <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> và <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> hát bài hát tại <a class="mw-redirect" href="../G/Green_Dragon~72852.md" title="Green Dragon">Green Rồng</a>, với lời bài hát được thay đổi một chút kết hợp một phần nhỏ của <a href="../B/Bath-songs.md" title="Bath-songs">bài hát tắm</a>:</dd></dl>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Hey Ho to the bottle I go<br/>
-To heal my heart and drown my woe<br/>
-Rain may fall and wind may blow but there&#39;ll still be<br/>
-Many miles to go<br/>
+<p>Này Hồ, tôi đi lấy chai đi<br/>
+Để chữa lành trái tim tôi và nhấn chìm nỗi đau của tôi<br/>
+Mưa có thể rơi, gió có thể thổi nhưng vẫn còn<br/>
+Còn nhiều dặm nữa<br/>
 <br/>
-Sweet is the sound of the pouring rain,<br/>
-And the stream that falls from hill to plain.<br/>
-Better than rain or rippling brook,<br/>
-Is a mug of beer inside this <a href="../T/Took_Family.md" title="Took Family">Took</a>.
+Ngọt ngào là tiếng mưa rơi,<br/>
+Và dòng suối đổ từ đồi xuống đồng bằng.<br/>
+Tốt hơn mưa hay suối gợn sóng,<br/>
+Bên trong này có một cốc bia <a href="../T/Took_Family.md" title="Took Family">Đã lấy</a>.
 </p>
 </div>
 

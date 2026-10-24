@@ -44,15 +44,15 @@ Người Rohirrim đã giao chiến hai trận với người Dunlendings và c�
 
 <b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
 
-<dl><dd>Gap of Rohan is one the available battlegrounds in the game.</dd></dl>
+<dl><dd>Gap of Rohan là một trong những chiến trường có sẵn trong trò chơi.</dd></dl>
 
 <b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
-<dl><dd>Gap of Rohan is once again available as a battleground.</dd></dl>
+<dl><dd>Gap of Rohan một lần nữa lại có mặt như một chiến trường.</dd></dl>
 
 <b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">The Lord of the Rings Trực tuyến: Sự trỗi dậy của Isengard</a></i>:</b>
 
-<dl><dd>Gap of Rohan is considered a sub-area of the <a href="../D/Dunland.md" title="Dunland">Dunland</a> region for gameplay purposes. It is an area where <a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a> hold against the first assaults by <a href="../S/Saruman.md" title="Saruman">Saruman</a>&#39;s <a href="../D/Dunlendings.md" title="Dunlendings">Dunlendings</a>.</dd></dl>
+<dl><dd>Gap of Rohan được coi là một khu vực phụ của vùng <a href="../D/Dunland.md" title="Dunland">Dunland</a> nhằm mục đích chơi trò chơi. Đây là khu vực mà <a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a> chống lại các cuộc tấn công đầu tiên của <a href="../D/Dunlendings.md" title="Dunlendings">Dunlending</a> của <a href="../S/Saruman.md" title="Saruman">Saruman</a>.</dd></dl>
 
 <span></span>
 

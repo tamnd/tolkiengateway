@@ -16,7 +16,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the magazine</b>. For the <a href="../W/Warning_beacons_of_Gondor.md" title="Warning beacons of Gondor">beacon</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>, see <b><a href="Amon_Dîn.md" title="Amon Dîn">Amon Dîn</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>tạp chí</b>. Đối với <a href="../W/Warning_beacons_of_Gondor.md" title="Warning beacons of Gondor">đèn hiệu</a> của <a href="../G/Gondor.md" title="Gondor">Gondor</a>, hãy xem <b><a href="Amon_Dîn.md" title="Amon Dîn">Amon Dîn</a></b>.</div></div>
 
 <i><b>Amon Dîn</b></i> là một tạp chí được xuất bản bởi Hội Tolkien của Treewood (<a class="extiw" href="http://en.wikipedia.org/wiki/Englewood,_Colorado" title="wikipedia:Englewood, Colorado">Englewood, Colorado</a>). 9 số đã được xuất bản.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

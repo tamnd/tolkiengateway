@@ -32,14 +32,14 @@ images:
   - "Grond_-_Gondor_stewards_banner.png"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
-<p>I shan&#39;t call it the end, till we&#39;ve cleared up the mess.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>dọn dẹp</b> để phù hợp với <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn về chất lượng bài viết</a>.<blockquote class="tg-quote noexcerpt">
+<p>Tôi sẽ không coi đó là sự kết thúc cho đến khi chúng ta dọn dẹp được mớ hỗn độn này.
 </p>
 <p class="tg-quote-footer"><cite><a href="Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
 </blockquote></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>How many hundreds of years needs it to make a steward a king, if the <a href="../K/King_of_Gondor.md" title="King of Gondor">king</a> returns not?&#34;<br/>&#34;Few years, maybe, in other places of less royalty. In Gondor ten thousands years would not suffice.
+<p>Cần bao nhiêu trăm năm để biến một quản gia thành vua, nếu <a href="../K/King_of_Gondor.md" title="King of Gondor">vua</a> không trở lại?"<br/>"Có thể là vài năm ở những nơi khác có ít hoàng gia hơn. Trong Gondor mười nghìn năm nữa cũng không đủ.
 </p>
 <p class="tg-quote-footer"><cite><a href="../B/Boromir.md" title="Boromir">Boromir</a> and <a href="../D/Denethor.md" title="Denethor">Denethor II</a>, from <a href="../F/Faramir.md" title="Faramir">Faramir</a> in <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/The_Window_on_the_West.md" title="The Window on the West">The Window on the West</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -65,15 +65,15 @@ Ngay sau cái chết của Denethor II, [Aragorn Elessar](../A/Aragorn.md) đã 
 <table class="wikitable mw-collapsible">
 <tbody><tr style="background: var(--tg-color-surface-2);">
 <th><b>#</b></th>
-<th><b>Name</b></th>
-<th><b>Reign</b></th>
-<th><b>Notes</b>
+<th><b>Tên</b></th>
+<th><b>Triều đại</b></th>
+<th><b>Ghi chú</b>
 </th></tr>
 <tr>
 <td>1.</td>
 <td><a href="../M/Mardil.md" title="Mardil">Mardil Voronwë</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2050.md" title="Third Age 2050">2050</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2080.md" title="Third Age 2080">2080</a></td>
-<td>Becomes Ruling Steward after King <a href="../E/Eärnur.md" title="Eärnur">Eärnur</a> leaves no descendants. Beginning of the <a href="../W/Watchful_Peace.md" title="Watchful Peace">Watchful Peace</a>.
+<td>Trở thành Người quản lý cai trị sau khi Vua <a href="../E/Eärnur.md" title="Eärnur">Eärnur</a> không còn con cháu. Bắt đầu <a href="../W/Watchful_Peace.md" title="Watchful Peace">Hòa bình thận trọng</a>.
 </td></tr>
 <tr>
 <td>2.</td>
@@ -109,7 +109,7 @@ Ngay sau cái chết của Denethor II, [Aragorn Elessar](../A/Aragorn.md) đã 
 <td>7.</td>
 <td><a href="../H/Hador_(Steward_of_Gondor).md" title="Hador (Steward of Gondor)">Hador</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2278.md" title="Third Age 2278">2278</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2395.md" title="Third Age 2395">2395</a></td>
-<td>The last <a class="mw-redirect" href="Stewards_of_Gondor.md" title="Stewards of Gondor">Steward of Gondor</a> to have the full lifespan of the <a href="../D/Dúnedain.md" title="Dúnedain">Dúnedain</a>.
+<td><a class="mw-redirect" href="Stewards_of_Gondor.md" title="Stewards of Gondor">Người quản lý cuối cùng của Gondor</a> có đủ tuổi thọ của <a href="../D/Dúnedain.md" title="Dúnedain">Dúnedain</a>.
 </td></tr>
 <tr>
 <td>8.</td>
@@ -121,13 +121,13 @@ Ngay sau cái chết của Denethor II, [Aragorn Elessar](../A/Aragorn.md) đã 
 <td>9.</td>
 <td><a href="../D/Dior_(Steward_of_Gondor).md" title="Dior (Steward of Gondor)">Dior</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2412.md" title="Third Age 2412">2412</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2435.md" title="Third Age 2435">2435</a></td>
-<td>Succeeded by his sister Rian&#39;s son.
+<td>Được kế vị bởi con trai của chị gái Rian.
 </td></tr>
 <tr>
 <td>10.</td>
 <td><a href="../D/Denethor_I.md" title="Denethor I">Denethor I</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2435.md" title="Third Age 2435">2435</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2477.md" title="Third Age 2477">2477</a></td>
-<td>The <a href="../W/Watchful_Peace.md" title="Watchful Peace">Watchful Peace</a> is broken. <a href="../O/Orcs.md" title="Orcs">Orcs</a> attack from <a href="../M/Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a> and people begin to abandon <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>.
+<td><a href="../W/Watchful_Peace.md" title="Watchful Peace">Hòa bình thận trọng</a> đã bị phá vỡ. <a href="../O/Orcs.md" title="Orcs">Orc</a> tấn công từ <a href="../M/Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a> và mọi người bắt đầu bỏ rơi <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>.
 </td></tr>
 <tr>
 <td>11.</td>
@@ -139,7 +139,7 @@ Ngay sau cái chết của Denethor II, [Aragorn Elessar](../A/Aragorn.md) đã 
 <td>12.</td>
 <td><a href="../C/Cirion.md" title="Cirion">Cirion</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2489.md" title="Third Age 2489">2489</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2567.md" title="Third Age 2567">2567</a></td>
-<td>Defeats the <a href="../B/Balchoth.md" title="Balchoth">Balchoth</a> with the aid of the <a href="../_/Éothéod.md" title="Éothéod">Éothéod</a>. As a reward he gives them the land of <a href="../C/Calenardhon.md" title="Calenardhon">Calenardhon</a>.
+<td>Đánh bại <a href="../B/Balchoth.md" title="Balchoth">Balchoth</a> với sự hỗ trợ của <a href="../_/Éothéod.md" title="Éothéod">Éothéod</a>. Như một phần thưởng, ông tặng họ vùng đất <a href="../C/Calenardhon.md" title="Calenardhon">Calenardhon</a>.
 </td></tr>
 <tr>
 <td>13.</td>
@@ -157,7 +157,7 @@ Ngay sau cái chết của Denethor II, [Aragorn Elessar](../A/Aragorn.md) đã 
 <td>15.</td>
 <td><a href="../B/Belecthor_I.md" title="Belecthor I">Belecthor I</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2628.md" title="Third Age 2628">2628</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2655.md" title="Third Age 2655">2655</a></td>
-<td>The <a href="../C/Corsairs_of_Umbar.md" title="Corsairs of Umbar">Corsairs of Umbar</a> again become a threat to <a href="../G/Gondor.md" title="Gondor">Gondor</a>.
+<td><a href="../C/Corsairs_of_Umbar.md" title="Corsairs of Umbar">Hải tặc Umbar</a> một lần nữa trở thành mối đe dọa đối với <a href="../G/Gondor.md" title="Gondor">Gondor</a>.
 </td></tr>
 <tr>
 <td>16.</td>
@@ -181,7 +181,7 @@ Ngay sau cái chết của Denethor II, [Aragorn Elessar](../A/Aragorn.md) đã 
 <td>19.</td>
 <td><a href="../B/Beren_(Steward_of_Gondor).md" title="Beren (Steward of Gondor)">Beren</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2743.md" title="Third Age 2743">2743</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2763.md" title="Third Age 2763">2763</a></td>
-<td>During the <a href="../L/Long_Winter.md" title="Long Winter">Long Winter</a>, <a href="../G/Gondor.md" title="Gondor">Gondor</a> is besieged by Corsairs and <a href="../R/Rohan.md" title="Rohan">Rohan</a> by <a href="../D/Dunlendings.md" title="Dunlendings">Dunlendings</a>.
+<td>Trong <a href="../L/Long_Winter.md" title="Long Winter">Mùa Đông Dài</a>, <a href="../G/Gondor.md" title="Gondor">Gondor</a> bị bao vây bởi Corsairs và <a href="../R/Rohan.md" title="Rohan">Rohan</a> bởi <a href="../D/Dunlendings.md" title="Dunlendings">Dunlending</a>.
 </td></tr>
 <tr>
 <td>20.</td>
@@ -205,31 +205,31 @@ Ngay sau cái chết của Denethor II, [Aragorn Elessar](../A/Aragorn.md) đã 
 <td>23.</td>
 <td><a href="../T/Túrin_II.md" title="Túrin II">Túrin II</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2882.md" title="Third Age 2882">2882</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2914.md" title="Third Age 2914">2914</a></td>
-<td>Defeats an invasion of <a href="../H/Haradrim.md" title="Haradrim">Haradrim</a>. <a href="../O/Orcs.md" title="Orcs">Orcs</a> invade from <a href="../M/Mordor.md" title="Mordor">Mordor</a> and <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a> is evacuated.
+<td>Đánh bại cuộc xâm lược của <a href="../H/Haradrim.md" title="Haradrim">Haradrim</a>. <a href="../O/Orcs.md" title="Orcs">Orc</a> xâm chiếm từ <a href="../M/Mordor.md" title="Mordor">Mordor</a> và <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a> được sơ tán.
 </td></tr>
 <tr>
 <td>24.</td>
 <td><a href="../T/Turgon_(Steward_of_Gondor).md" title="Turgon (Steward of Gondor)">Turgon</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2914.md" title="Third Age 2914">2914</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2953.md" title="Third Age 2953">2953</a></td>
-<td><a href="Sauron.md" title="Sauron">Sauron</a> declares himself openly.
+<td><a href="Sauron.md" title="Sauron">Sauron</a> tuyên bố một cách công khai.
 </td></tr>
 <tr>
 <td>25.</td>
 <td><a href="../E/Ecthelion_II.md" title="Ecthelion II">Ecthelion II</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2953.md" title="Third Age 2953">2953</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2984.md" title="Third Age 2984">2984</a></td>
-<td>Defeats the Corsairs with the aid of <a href="../T/Thorongil.md" title="Thorongil">Thorongil</a>
+<td>Đánh bại bọn Corsair với sự trợ giúp của <a href="../T/Thorongil.md" title="Thorongil">Thorongil</a>
 </td></tr>
 <tr>
 <td>26.</td>
 <td><a href="../D/Denethor.md" title="Denethor">Denethor II</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2984.md" title="Third Age 2984">2984</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a></td>
-<td>Ruling Steward during the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a>.
+<td>Người quản lý cai trị trong <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a>.
 </td></tr>
 <tr>
 <td>27.</td>
 <td><a href="../F/Faramir.md" title="Faramir">Faramir</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a></td>
-<td>Returns the rule of <a href="../G/Gondor.md" title="Gondor">Gondor</a> to King <a href="../A/Aragorn.md" title="Aragorn">Aragorn Elessar</a>.
+<td>Trả về quy tắc <a href="../G/Gondor.md" title="Gondor">Gondor</a> thành Vua <a href="../A/Aragorn.md" title="Aragorn">Aragorn Elessar</a>.
 </td></tr></tbody></table>
 
 ### Nhiệm vụ và chức vụ {#Duties_and_office}

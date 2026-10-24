@@ -15,7 +15,7 @@ images:
   - "Cubicle_7_Entertainment_logo.jpg"
 ---
 
-<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/C/Cubicle_7_Entertainment_logo.jpg.md"><img src="https://tolkiengateway.net/w/images/2/21/Cubicle_7_Entertainment_logo.jpg" decoding="async" loading="lazy" width="269" height="178" class="mw-file-element" data-file-width="269" data-file-height="178"/></a><figcaption>Company logo</figcaption></figure>
+<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/C/Cubicle_7_Entertainment_logo.jpg.md"><img src="https://tolkiengateway.net/w/images/2/21/Cubicle_7_Entertainment_logo.jpg" decoding="async" loading="lazy" width="269" height="178" class="mw-file-element" data-file-width="269" data-file-height="178"/></a><figcaption>Logo công ty</figcaption></figure>
 
 **Cubicle 7 Entertainment** là một công ty tổ chức sự kiện và phát hành có trụ sở tại Anh, chuyên về ngành trò chơi. Được thành lập vào [2006](../_/2006.md) bởi Angus Abranson và Dominic McDowall-Thomas, công ty đã xuất bản các trò chơi nhập vai từ danh sách các tài sản được cấp phép và tự trồng. Vào [20 tháng 1](../_/20_January.md) [2010](../_/2010.md), Cubicle thông báo phát hành *[The One Ring: The Lord of the Rings Role-playing Game](../T/The_One_Ring%253A_The_Lord_of_the_Rings_Role-playing_Game.md)*.
 

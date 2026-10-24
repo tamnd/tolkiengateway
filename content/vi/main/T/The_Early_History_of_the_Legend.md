@@ -14,22 +14,22 @@ categories:
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin:15px;border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> chapters
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> chương
 </th></tr>
 <tr>
 <td>
-<dl><dd><b>Part One</b></dd></dl>
-<ol><li><a class="mw-selflink selflink">The Early History of the Legend</a></li>
+<dl><dd><b>Phần Một</b></dd></dl>
+<ol><li><a class="mw-selflink selflink">Lịch sử ban đầu của truyền thuyết</a></li>
 <li><a href="The_Fall_of_Númenor_(chapter).md" title="The Fall of Númenor (chapter)">The Fall of Númenor</a></li>
 <li><a href="The_Lost_Road.md" title="The Lost Road">The Lost Road</a></li></ol>
 <dl><dd><b>Part Two</b><i></i></dd></dl>
-<ol><li><a href="The_Texts_and_Their_Relations.md" title="The Texts and Their Relations">The Texts and Their Relations</a></li>
+<ol><li><a href="The_Texts_and_Their_Relations.md" title="The Texts and Their Relations">Các văn bản và mối liên hệ giữa chúng</a></li>
 <li><a href="The_Later_Annals_of_Valinor.md" title="The Later Annals of Valinor">The Later Annals of Valinor</a></li>
-<li><a href="The_Later_Annals_of_Beleriand.md" title="The Later Annals of Beleriand">The Later Annals of Beleriand</a></li>
+<li><a href="The_Later_Annals_of_Beleriand.md" title="The Later Annals of Beleriand">Biên niên sử muộn của Beleriand</a></li>
 <li><a href="../A/Ainulindalë_(Lost_Road).md" title="Ainulindalë (Lost Road)">Ainulindalë</a></li>
 <li><a href="The_Lhammas.md" title="The Lhammas">The Lhammas</a></li>
 <li><a href="../Q/Quenta_Silmarillion_(Lost_Road).md" title="Quenta Silmarillion (Lost Road)">Quenta Silmarillion</a></li></ol>
-<dl><dd><b>Part Three</b>
+<dl><dd><b>Phần Ba</b>
 <dl><dd><a href="The_Etymologies.md" title="The Etymologies">The Etymologies</a></dd></dl></dd></dl>
 </td></tr></tbody></table>
 
@@ -40,7 +40,7 @@ categories:
 [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [C.S. Lewis](../C/C.S._Lewis.md) không hài lòng với truyện mình đọc nên đã chọn hai chủ đề và quyết định tự viết truyện:<sup id="cite_ref-Early_1-0" class="reference"><a href="#cite_note-Early-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:7</sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>We agreed that he should try &#39;space travel&#39;, and I should try &#39;time-travel&#39;. His result is well known. My effort, after a few promising chapters, ran dry: it was too long a way round to what I really wanted to make, a new version of the <a href="../A/Atlantis-haunting.md" title="Atlantis-haunting">Atlantis</a> legend. The final scene survives as <i><a href="../A/Akallabêth.md" title="Akallabêth">The Downfall of Númenor</a></i>.
+<p>Chúng tôi đồng ý rằng ông nên thử 'du hành không gian', còn tôi nên thử 'du hành thời gian'. Kết quả của ông đã được nhiều người biết đến. Nỗ lực của tôi, sau một vài chương đầy hứa hẹn, đã cạn kiệt: còn quá lâu mới đạt được điều tôi thực sự muốn làm, một phiên bản mới của huyền thoại <a href="../A/Atlantis-haunting.md" title="Atlantis-haunting">Atlantis</a>. Cảnh cuối cùng vẫn tồn tại dưới dạng <i><a href="../A/Akallabêth.md" title="Akallabêth">The Downfall of Númenor</a></i>.
 </p>
 <p class="tg-quote-footer"><cite><a href="../L/Letter_294.md" title="Letter 294">Letter 294</a></cite></p>
 </blockquote>

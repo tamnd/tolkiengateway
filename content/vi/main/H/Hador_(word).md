@@ -15,7 +15,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Hador</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Hador_(disambiguation).md" title="Hador (disambiguation)">Hador (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Hador</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Hador_(disambiguation).md" title="Hador (disambiguation)">Hador (định hướng)</a></b>.</div></div>
 
 <i><b>hador</b></i> hoặc <i><b>hadron</b></i> là một từ [Noldorin](../N/Noldorin.md) có nghĩa là "người ném giáo hoặc phi tiêu". Từ này cũng có thể xuất hiện dưới dạng tên cá nhân, <i><a class="mw-disambig" href="Hador_(disambiguation).md" title="Hador (disambiguation)">Hador</a></i>.<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 

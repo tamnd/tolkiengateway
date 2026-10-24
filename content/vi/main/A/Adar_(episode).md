@@ -112,7 +112,7 @@ Buổi tối trước chuyến di cư tiếp theo của [Harfoots](../H/Harfoots
 </td></tr>
 <tr>
 <td><a href="../L/Lloyd_Owen.md" title="Lloyd Owen">Lloyd Owen</a></td>
-<td><a href="../E/Elendil.md" title="Elendil">Captain Elendil</a>
+<td><a href="../E/Elendil.md" title="Elendil">Thuyền trưởng Elendil</a>
 </td></tr>
 <tr>
 <td><a href="../C/Cynthia_Addai-Robinson.md" title="Cynthia Addai-Robinson">Cynthia Addai-Robinson</a></td>

@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Saul_Zaentz"
 content_sha256: 187f91c8447c740356ebbbf196887ec6e46c0e9483ec6cd21db05564d4f3b0c3
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "American film producer"
+short_description: "Nhà sản xuất phim Mỹ"
 categories:
   - "Producers"
   - "American people"

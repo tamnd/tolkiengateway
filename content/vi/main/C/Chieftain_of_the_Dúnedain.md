@@ -56,11 +56,11 @@ Người dân Arthedain được biết đến với tên gọi [Biệt đội T
 <tr>
 <td bgcolor="lightgrey"> 
 </td>
-<td bgcolor="lightgrey" style="text-align: center;"><b>Name</b>
+<td bgcolor="lightgrey" style="text-align: center;"><b>Tên</b>
 </td>
-<td bgcolor="lightgrey" style="text-align: center;"><b>Reign</b>
+<td bgcolor="lightgrey" style="text-align: center;"><b>Triều đại</b>
 </td>
-<td style="background:lightgrey; text-align:center"><b>Notes</b>
+<td style="background:lightgrey; text-align:center"><b>Ghi chú</b>
 </td></tr>
 <tr>
 <td>1.</td>
@@ -72,13 +72,13 @@ Người dân Arthedain được biết đến với tên gọi [Biệt đội T
 <td>2.</td>
 <td><a href="../A/Arahael.md" title="Arahael">Arahael</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2106.md" title="Third Age 2106">2106</a>–<a href="../T/Third_Age_2177.md" title="Third Age 2177">2177</a></td>
-<td>Arahael led the <a href="../D/Dúnedain.md" title="Dúnedain">Dúnedain</a> during the time known as the <a href="../W/Watchful_Peace.md" title="Watchful Peace">Watchful Peace</a>, and was untroubled by war.
+<td>Arahael đã lãnh đạo <a href="../D/Dúnedain.md" title="Dúnedain">Dúnedain</a> trong thời gian được gọi là <a href="../W/Watchful_Peace.md" title="Watchful Peace">Hòa bình Cảnh giác</a> và không gặp rắc rối bởi chiến tranh.
 </td></tr>
 <tr>
 <td>3.</td>
 <td><a href="../A/Aranuir.md" title="Aranuir">Aranuir</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2177.md" title="Third Age 2177">2177</a>–<a href="../T/Third_Age_2247.md" title="Third Age 2247">2247</a></td>
-<td>He was born shortly after the beginning of the Watchful Peace.
+<td>Ông được sinh ra ngay sau khi bắt đầu Hòa bình Cảnh giác.
 </td></tr>
 <tr>
 <td>4.</td>
@@ -90,25 +90,25 @@ Người dân Arthedain được biết đến với tên gọi [Biệt đội T
 <td>5.</td>
 <td><a href="../A/Aragorn_I.md" title="Aragorn I">Aragorn I</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2319.md" title="Third Age 2319">2319</a>–<a href="../T/Third_Age_2327.md" title="Third Age 2327">2327</a>†</td>
-<td>He was lost while hunting wolves. It is said that he was slain by the very wolves he was hunting.
+<td>Ông bị lạc khi đi săn sói. Người ta nói rằng ông đã bị giết bởi chính con sói mà ông đang săn.
 </td></tr>
 <tr>
 <td>6.</td>
 <td><a href="../A/Araglas.md" title="Araglas">Araglas</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2327.md" title="Third Age 2327">2327</a>–<a href="../T/Third_Age_2455.md" title="Third Age 2455">2455</a></td>
-<td>He was the chieftain for 128 years; longer than any other except Aranarth, the first chieftain.
+<td>Ông làm thủ lĩnh trong 128 năm; lâu hơn bất kỳ ai khác ngoại trừ Aranarth, thủ lĩnh đầu tiên.
 </td></tr>
 <tr>
 <td>7.</td>
 <td><a href="../A/Arahad_I.md" title="Arahad I">Arahad I</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2455.md" title="Third Age 2455">2455</a>–<a href="../T/Third_Age_2523.md" title="Third Age 2523">2523</a></td>
-<td>During his reign the Watchful Peace came to an end as <a href="../S/Sauron.md" title="Sauron">Sauron</a> returned to <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a> and the <a href="../W/White_Council.md" title="White Council">White Council</a> was formed. The <a href="../_/Éothéod.md" title="Éothéod">Éothéod</a> founded the Kingdom of <a href="../R/Rohan.md" title="Rohan">Rohan</a>.
+<td>Trong thời kỳ trị vì của ông, Hòa bình Cảnh giác đã kết thúc khi <a href="../S/Sauron.md" title="Sauron">Sauron</a> quay trở lại <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a> và <a href="../W/White_Council.md" title="White Council">Bạch Hội Đồng</a> được thành lập. <a href="../_/Éothéod.md" title="Éothéod">Éothéod</a> đã thành lập Vương quốc <a href="../R/Rohan.md" title="Rohan">Rohan</a>.
 </td></tr>
 <tr>
 <td>8.</td>
 <td><a href="../A/Aragost.md" title="Aragost">Aragost</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2523.md" title="Third Age 2523">2523</a>–<a href="../T/Third_Age_2588.md" title="Third Age 2588">2588</a></td>
-<td>He lived in historic times, but they didn&#39;t affect his life (or rule) directly.
+<td>Ông sống trong thời kỳ lịch sử, nhưng chúng không ảnh hưởng trực tiếp đến cuộc đời (hoặc sự cai trị) của ông.
 </td></tr>
 <tr>
 <td>9.</td>
@@ -126,37 +126,37 @@ Người dân Arthedain được biết đến với tên gọi [Biệt đội T
 <td>11.</td>
 <td><a href="../A/Arassuil.md" title="Arassuil">Arassuil</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2719.md" title="Third Age 2719">2719</a>–<a href="../T/Third_Age_2784.md" title="Third Age 2784">2784</a></td>
-<td>In his days, <a href="../O/Orcs.md" title="Orcs">Orcs</a> of the <a href="../M/Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a> invaded the western lands. Arassuil and his rangers fought them with <a class="mw-redirect" href="../E/Elladan.md" title="Elladan">Elladan</a> and <a class="mw-redirect" href="../E/Elrohir.md" title="Elrohir">Elrohir</a>. An <a class="mw-redirect" href="../O/Orc.md" title="Orc">Orc</a> party managed to reach the <a class="mw-redirect" href="../S/Shire.md" title="Shire">Shire</a>, but <a href="../B/Bandobras_Took.md" title="Bandobras Took">Bandobras</a> defeated them at the <a href="../B/Battle_of_Greenfields.md" title="Battle of Greenfields">Battle of Greenfields</a>.
+<td>Vào thời của ông, <a href="../O/Orcs.md" title="Orcs">Orc</a> của <a href="../M/Misty_Mountains.md" title="Misty Mountains">Dãy Núi Sương Mù</a> xâm chiếm vùng đất phía Tây. Arassuil và các kiểm lâm viên của anh đã chiến đấu với chúng bằng <a class="mw-redirect" href="../E/Elladan.md" title="Elladan">Elladan</a> và <a class="mw-redirect" href="../E/Elrohir.md" title="Elrohir">Elrohir</a>. Một nhóm <a class="mw-redirect" href="../O/Orc.md" title="Orc">Orc</a> đã tiếp cận được <a class="mw-redirect" href="../S/Shire.md" title="Shire">Shire</a>, nhưng <a href="../B/Bandobras_Took.md" title="Bandobras Took">Bandobras</a> đã đánh bại họ trong <a href="../B/Battle_of_Greenfields.md" title="Battle of Greenfields">Trận chiến Greenfields</a>.
 </td></tr>
 <tr>
 <td>12.</td>
 <td><a href="../A/Arathorn_I.md" title="Arathorn I">Arathorn I</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2784.md" title="Third Age 2784">2784</a>–<a href="../T/Third_Age_2848.md" title="Third Age 2848">2848</a>†</td>
-<td>The circumstances of Arathorn&#39;s death are mysterious, but his end is marked as dying a premature death.
+<td>Hoàn cảnh về cái chết của Arathorn rất bí ẩn, nhưng cái kết của ông được đánh dấu là chết sớm.
 </td></tr>
 <tr>
 <td>13.</td>
 <td><a href="../A/Argonui.md" title="Argonui">Argonui</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2848.md" title="Third Age 2848">2848</a>–<a href="../T/Third_Age_2912.md" title="Third Age 2912">2912</a></td>
-<td>He was the chieftain when the <a class="mw-redirect mw-disambig" href="../F/Fell_Winter.md" title="Fell Winter">Fell Winter</a> descended on <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>. The cause of his death is not known.
+<td>Ông là thủ lĩnh khi <a class="mw-redirect mw-disambig" href="../F/Fell_Winter.md" title="Fell Winter">Mùa Đông Khắc Nghiệt</a> giáng xuống <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a>. Nguyên nhân cái chết của ông không được biết.
 </td></tr>
 <tr>
 <td>14.</td>
 <td><a href="../A/Arador.md" title="Arador">Arador</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2912.md" title="Third Age 2912">2912</a>–<a href="../T/Third_Age_2930.md" title="Third Age 2930">2930</a>†</td>
-<td>He was captured by <a href="../H/Hill-trolls.md" title="Hill-trolls">Hill-trolls</a> in the fells north of <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, and slain.
+<td>Ông bị <a href="../H/Hill-trolls.md" title="Hill-trolls">Quỷ đồi</a> bắt ở vùng đất phía bắc <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a> và bị giết.
 </td></tr>
 <tr>
 <td>15.</td>
 <td><a href="../A/Arathorn_II.md" title="Arathorn II">Arathorn II</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2930.md" title="Third Age 2930">2930</a>–<a href="../T/Third_Age_2933.md" title="Third Age 2933">2933</a>†</td>
-<td>He was hunting Orcs with Elladan and Elrohir, but was shot through the eye and killed.
+<td>Ông đang đi săn Orc bằng Elladan và Elrohir nhưng bị bắn xuyên mắt và thiệt mạng.
 </td></tr>
 <tr>
 <td>16.</td>
 <td><a href="../A/Aragorn.md" title="Aragorn">Aragorn II</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2933.md" title="Third Age 2933">2933</a>–<a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a></td>
-<td>The first <a class="mw-redirect" href="../H/High_King_of_the_Dúnedain.md" title="High King of the Dúnedain">High King of the Reunited Kingdom</a>.
+<td><a class="mw-redirect" href="../H/High_King_of_the_Dúnedain.md" title="High King of the Dúnedain">Đại Vương đầu tiên của Vương quốc Thống nhất</a>.
 </td></tr>
 </tbody></table>
 

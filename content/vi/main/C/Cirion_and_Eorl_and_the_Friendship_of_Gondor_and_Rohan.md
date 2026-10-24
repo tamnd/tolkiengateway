@@ -23,29 +23,29 @@ langlinks:
 </th></tr>
 <tr>
 <td><b>Part One: The <a href="../F/First_Age.md" title="First Age">First Age</a></b>
-<ul><li><a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Of Tuor and his Coming to Gondolin</a></li>
+<ul><li><a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Của Tuor và Việc Anh Đến Với Gondolin</a></li>
 <li><a href="../N/Narn_i_Hîn_Húrin.md" title="Narn i Hîn Húrin">Narn i Hîn Húrin</a></li></ul>
 </td></tr>
 <tr>
 <td><b>Part Two: The <a href="../S/Second_Age.md" title="Second Age">Second Age</a></b>
-<ul><li><a href="../A/A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">A Description of Númenor</a></li>
+<ul><li><a href="../A/A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">Mô tả về Númenor</a></li>
 <li><a href="../A/Aldarion_and_Erendis%253A_The_Mariner&#39;s_Wife.md" title="Aldarion and Erendis: The Mariner&#39;s Wife">Aldarion and Erendis</a></li>
-<li><a href="../T/The_Line_of_Elros%253A_Kings_of_Númenor.md" title="The Line of Elros: Kings of Númenor">The Line of Elros</a></li>
-<li><a href="../T/The_History_of_Galadriel_and_Celeborn.md" title="The History of Galadriel and Celeborn">History of Galadriel and Celeborn</a></li></ul>
+<li><a href="../T/The_Line_of_Elros%253A_Kings_of_Númenor.md" title="The Line of Elros: Kings of Númenor">Dòng dõi Elros</a></li>
+<li><a href="../T/The_History_of_Galadriel_and_Celeborn.md" title="The History of Galadriel and Celeborn">Lịch sử Galadriel và Celeborn</a></li></ul>
 </td></tr>
 <tr>
 <td><b>Part Three: The <a href="../T/Third_Age.md" title="Third Age">Third Age</a></b>
-<ul><li><a href="../T/The_Disaster_of_the_Gladden_Fields.md" title="The Disaster of the Gladden Fields">Disaster of the Gladden Fields</a></li>
+<ul><li><a href="../T/The_Disaster_of_the_Gladden_Fields.md" title="The Disaster of the Gladden Fields">Thảm họa Cánh đồng Gladden</a></li>
 <li><a class="mw-selflink selflink">Cirion and Eorl</a></li>
-<li><a href="../T/The_Quest_of_Erebor.md" title="The Quest of Erebor">The Quest of Erebor</a></li>
-<li><a href="../T/The_Hunt_for_the_Ring.md" title="The Hunt for the Ring">The Hunt for the Ring</a></li>
+<li><a href="../T/The_Quest_of_Erebor.md" title="The Quest of Erebor">Cuộc truy tìm Erebor</a></li>
+<li><a href="../T/The_Hunt_for_the_Ring.md" title="The Hunt for the Ring">Cuộc truy lùng Nhẫn</a></li>
 <li><a href="../T/The_Battles_of_the_Fords_of_Isen.md" title="The Battles of the Fords of Isen">The Battles of the Fords of Isen</a></li></ul>
 </td></tr>
 <tr>
-<td><b>Part Four</b>
+<td><b>Phần Bốn</b>
 <ul><li><a href="../T/The_Drúedain.md" title="The Drúedain">The Drúedain</a></li>
 <li><a href="../T/The_Istari.md" title="The Istari">The Istari</a></li>
-<li><a href="../T/The_Palantíri.md" title="The Palantíri">The Palantíri</a></li></ul>
+<li><a href="../T/The_Palantíri.md" title="The Palantíri">Palantíri</a></li></ul>
 </td></tr></tbody></table>
 
 **Cirion và Eorl và Tình bạn của Gondor và Rohan** là một chương trong cuốn sách *[Unfinished Tales](../U/Unfinished_Tales.md)*, được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và được con trai ông, [Christopher Tolkien](Christopher_Tolkien.md) xuất bản sau khi qua đời. Chương này tìm hiểu sự phát triển của quốc gia [Rohan](../R/Rohan.md) và tình bạn của quốc gia này với [Gondor](../G/Gondor.md). Chúng ta thấy [Lời thề của Eorl](../O/Oath_of_Eorl.md) trên [Ngôi mộ Elendil](../T/Tomb_of_Elendil.md) và lời giải thích về [Truyền thống Isildur](../T/Tradition_of_Isildur.md).

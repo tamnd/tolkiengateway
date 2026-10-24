@@ -17,13 +17,13 @@ categories:
 ## Elvish lời bài hát {#Elvish_lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Sinome háran i marya silmesse; <br/>
-Ilmello sílar tinwi lómesse; <br/>
-Cénanten, i telpeva hendi, <br/>
-ve cennente i cuivie Quendi. <br/>
-Alasse antar i menelmíri, <br/>
+<p>Sinome háran và marya silmesse; <br/>
+Ilmello sílar tinwi lomesse; <br/>
+Cénanten, tôi đã nói với bạn, <br/>
+và tôi đã yêu bạn Quendi. <br/>
+Hãy chào đón tôi, <br/>
 laitan mi anvanye líri. <br/>
-Oiale ná i silme vinya; <br/>
+Oiale và silme vinya; <br/>
 tíranyes sí vi Quende minya, <br/>
 vi minya Cuiviéneno<br/>
 cenne cala eleno.
@@ -33,16 +33,16 @@ cenne cala eleno.
 ## Bản dịch tiếng Anh {#English_translation}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Here I am sitting in the pale moonlight; <br/>
-from Ilmen sparks are shining in the night; <br/>
-They see me, the silvery eyes, <br/>
-as they saw the wakening Elves. <br/>
-Joy the heavenly jewels give me, <br/>
-I praise them in the fairest songs. <br/>
-Forever is the moonlight new; <br/>
-I watch them now as the first Elf did<br/>
-as the first one of Cuiviénen <br/>
-who saw the light of a star.
+<p>Ở đây tôi đang ngồi dưới ánh trăng mờ; <br/>
+từ Ilmen những tia lửa đang tỏa sáng trong đêm; <br/>
+Họ nhìn thấy tôi, đôi mắt bạc, <br/>
+khi họ nhìn thấy sự thức tỉnh Tiên tộc. <br/>
+Niềm vui ngọc trời ban cho tôi, <br/>
+Tôi ca ngợi họ trong những bài hát công bằng nhất. <br/>
+Mãi mãi là ánh trăng mới; <br/>
+Bây giờ tôi xem chúng như Tiên đầu tiên đã làm<br/>
+là cái đầu tiên trong Cuiviénen <br/>
+người đã nhìn thấy ánh sáng của một ngôi sao.
 </p>
 </div>
 

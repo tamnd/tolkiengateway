@@ -22,23 +22,23 @@ categories:
 Olafur reið með björgum fram,<br/>
 Villir hann, stillir hann.<br/>
 Hitti hann fyrir sjer alfarann;<br/>
-Þar rauður loginn brann.<br/>
+Đây là cách bạn đăng nhập.<br/>
 Bliðan lagði byrinn undan björgunum,<br/>
 Bliðan lagði byrinn undan björgunum fram.<br/>
 <br/>
 þa kom ut ein alfamær,<br/>
 Villir hann, stillir hann.<br/>
 Hun var ekki Kristi kær;<br/>
-Þar rauður login brann.<br/>
+Đây là cách bạn đăng nhập.<br/>
 Bliðan lagði byrinn undan björgunum,<br/>
 Bliðan lagði byrinn undan björgunum fram.<br/>
 <br/>
-Vendi jeg minu kvæði i kross.<br/>
+Hãy trả giá tối thiểu cho tôi và tôi.<br/>
 Villir hann, stillir hann.<br/>
 Sankta Maria sje með oss,<br/>
-Þar rauður login brann.<br/>
+Đây là cách bạn đăng nhập.<br/>
 Bliðan lagði byrinn undan björgunum,<br/>
-Bliðan lagði byrinn undan björgunum fram. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+Bạn có thể bị chậm trễ trong một khoảng thời gian ngắn. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 </p>
 </div>
 

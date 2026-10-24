@@ -24,7 +24,7 @@ Nó xuất hiện lần đầu trên bản đồ hàng hóa Mordor dành cho *[T
 Trong *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md)* có đề cập rằng trong khi một số trẻ em của [Shelob](../S/Shelob.md) đi du lịch về phía nam, có
 
 <blockquote class="tg-quote noexcerpt">
-<p>taken Nan Ungol (Sindarin for &#34;Valley of the Spiders&#34;) as their primary home, they&#39;ve since spread across Mordor taking residence in its caves and other dark places, and are actively reporting back to their queen.
+<p>lấy Nan Ungol (Sindarin nghĩa là "Thung lũng của những con nhện") làm ngôi nhà chính của mình, kể từ đó, họ đã lan rộng khắp Mordor cư trú trong các hang động và những nơi tối tăm khác và đang tích cực báo cáo lại cho nữ hoàng của mình.
 </p>
 </blockquote>
 
@@ -40,7 +40,7 @@ Trong *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.
 		<li class="gallerybox" style="width: 138.66666666667px">
 			<div class="thumb" style="width: 136.66666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Daniel_Reeve_-_Map_of_Mordor_(Merchandise).jpg.md" title="2003 merchandise map"><img alt="2003 merchandise map" src="https://tolkiengateway.net/w/images/thumb/a/a7/Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg/205px-Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg" decoding="async" loading="lazy" width="137" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg/308px-Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg/411px-Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg 2x" data-file-width="2700" data-file-height="2368"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 117px"><div class="gallerytext">
-<p>2003 merchandise map
+<p>Bản đồ hàng hóa năm 2003
 </p>
 			</div></div>
 		</li>
@@ -54,7 +54,7 @@ Trong *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.
 <li id="cite_note-reeve-site-1"><span class="mw-cite-backlink"><a href="#cite_ref-reeve-site_1-0">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Daniel Reeve</span>. <span class="cite-web-article"><a class="external text" href="https://www.danielreeve.co.nz/LOTR/Maps/" rel="noreferrer noopener" target="_blank">&#34;The Lord of the Rings: Maps&#34;</a></span>. <span class="cite-web-website">Daniel Reeve, artist</span></cite></span>
 </li>
 <li id="cite_note-reeve-mail-2"><span class="mw-cite-backlink"><a href="#cite_ref-reeve-mail_2-0">↑</a></span> <span class="reference-text">Daniel Reeve, personal correspondence (June 2026):<blockquote class="tg-quote noexcerpt">
-<p>the Decipher maps pre-dated the ROTK merchandising map (Mordor). I created [...]  the ROTK merchandising map in 2003. So the Decipher Mordor map served as a kind of template when I later made the merchandising map of Mordor – at which time I expanded upon it, adding a lot more invented detail and names. […] I created the places and names myself.
+<p>bản đồ Giải mã có trước bản đồ buôn bán ROTK (Mordor). Tôi đã tạo […] bản đồ buôn bán ROTK vào năm 2003. Vì vậy, bản đồ Giải mã Mordor đóng vai trò như một loại mẫu khi sau này tôi tạo bản đồ buôn bán Mordor - lúc đó tôi đã mở rộng nó, bổ sung thêm nhiều chi tiết và tên được phát minh. […] Tôi đã tự mình tạo ra các địa điểm và đặt tên.
 </p>
 </blockquote></span>
 </li>

@@ -41,7 +41,7 @@ infobox:
     value: "DavidDayBooks.com"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>David Day</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/14_October.md" title="14 October">14 October</a> <a href="../_/1947.md" title="1947">1947</a><sup id="cite_ref-Goodreads_1-0" class="reference"><a href="#cite_note-Goodreads-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Victoria" title="wikipedia:University of Victoria">University of Victoria</a><sup id="cite_ref-Goodreads_1-1" class="reference"><a href="#cite_note-Goodreads-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Canada</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.daviddaybooks.com" rel="noreferrer noopener" target="_blank">DavidDayBooks.com</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>David Day</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/14_October.md" title="14 October">14 October</a> <a href="../_/1947.md" title="1947">1947</a><sup id="cite_ref-Goodreads_1-0" class="reference"><a href="#cite_note-Goodreads-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Học vấn</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Victoria" title="wikipedia:University of Victoria">University of Victoria</a><sup id="cite_ref-Goodreads_1-1" class="reference"><a href="#cite_note-Goodreads-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Tác giả</td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Canada</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="http://www.daviddaybooks.com" rel="noreferrer noopener" target="_blank">DavidDayBooks.com</a></td></tr></tbody></table>
 
 **David Day** là một tác giả người Canada, đã viết một số cuốn sách, trong đó nhiều cuốn có liên quan đến [Tolkien](../J/J.R.R._Tolkien.md). Chủ yếu được biết đến nhờ những cuốn sách tham khảo, bắt đầu với *[A Tolkien Bestiary](../A/A_Tolkien_Bestiary.md)* vào năm [1978](../_/1978.md), các sách của Day đã bán được hơn 3 triệu bản và được xuất bản dưới hơn 120 ấn bản khác nhau bằng hơn 20 ngôn ngữ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -58,7 +58,7 @@ Steuard Jensen, tác giả của Tolkien Meta-FAQ, nói về *[A Tolkien Bestiar
 Phần lớn những lời chỉ trích nhằm vào các cuốn sách theo phong cách bách khoa toàn thư. Gần đây hơn, *The Battles of Tolkien* được mô tả như sau:
 
 <blockquote class="tg-quote noexcerpt">
-<p>One of the surprises to me is that this book contains genuinely new content; this isn’t just a rehashing of previous books. And the factual pieces of information on the battles and the characters are accurate: it was a pleasant surprise to me to find none of the painfully obvious errors that were common throughout the previous two books. Similarly, the chronologies – save for one inconsistency on the War of Wrath – were also accurate.
+<p>Một trong những điều làm tôi ngạc nhiên là cuốn sách này chứa đựng những nội dung thực sự mới mẻ; đây không chỉ là sự ôn lại những cuốn sách trước đó. Và những thông tin thực tế về các trận chiến và các nhân vật đều chính xác: tôi thật ngạc nhiên thú vị khi không tìm thấy lỗi nào rõ ràng đến mức đau đớn thường gặp trong hai cuốn sách trước. Tương tự, các niên đại - ngoại trừ một điểm mâu thuẫn trong War of Wrath - cũng chính xác.
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Shaun_Gunner.md" title="Shaun Gunner">Gunner, Shaun</a>. &#34;Review: <i>The Battles of Tolkien</i>&#34; in <i><a href="../A/Amon_Hen.md" title="Amon Hen">Amon Hen</a></i> <a href="../A/Amon_Hen_267.md" title="Amon Hen 267">267</a></cite></p>
 </blockquote>
@@ -86,7 +86,7 @@ David Day đã tham dự [Oxonmoot 2004](../O/Oxonmoot_2004.md) nhưng không th
 Bốn tháng sau, trong biên bản cuộc họp của một ủy ban được tổ chức vào ngày 26 tháng 2 năm 2005, có ghi lại:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Since David Day has still not paid his registration for Oxonmoot, it was agreed that he should be blacklisted for future events.
+<p>Vì David Day vẫn chưa thanh toán phí đăng ký tham gia Oxonmoot nên mọi người đã thống nhất rằng ông sẽ bị đưa vào danh sách đen cho các sự kiện trong tương lai.
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Amon_Hen_193.md" title="Amon Hen 193"><i>Amon Hen</i> 193</a>, p. 17</cite></p>
 </blockquote>
@@ -124,14 +124,14 @@ Không có sự cố nào khác được ghi nhận về việc [The Tolkien Soc
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_World_of_Tolkien_6_vol.jpg.md" title="6 volume boxed set"><img alt="6 volume boxed set" src="https://tolkiengateway.net/w/images/thumb/1/16/The_World_of_Tolkien_6_vol.jpg/150px-The_World_of_Tolkien_6_vol.jpg" decoding="async" loading="lazy" width="150" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/16/The_World_of_Tolkien_6_vol.jpg/225px-The_World_of_Tolkien_6_vol.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/16/The_World_of_Tolkien_6_vol.jpg/300px-The_World_of_Tolkien_6_vol.jpg 2x" data-file-width="800" data-file-height="800"/></a></span></div>
 			<div class="gallerytext">
-<p>6 volume boxed set
+<p>bộ đóng hộp 6 tập
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_World_of_Tolkien_7_vol.jpg.md" title="7 volume boxed set"><img alt="7 volume boxed set" src="https://tolkiengateway.net/w/images/thumb/4/44/The_World_of_Tolkien_7_vol.jpg/136px-The_World_of_Tolkien_7_vol.jpg" decoding="async" loading="lazy" width="136" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/44/The_World_of_Tolkien_7_vol.jpg/204px-The_World_of_Tolkien_7_vol.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/44/The_World_of_Tolkien_7_vol.jpg/272px-The_World_of_Tolkien_7_vol.jpg 2x" data-file-width="800" data-file-height="882"/></a></span></div>
 			<div class="gallerytext">
-<p>7 volume boxed set
+<p>bộ đóng hộp 7 tập
 </p>
 			</div>
 		</li>

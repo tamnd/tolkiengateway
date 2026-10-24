@@ -45,7 +45,7 @@ infobox:
     value: "Oromë leads the three clans of Elves westwards through Middle-earth and Belegaer."
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Steamey_-_Orome.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/49/Steamey_-_Orome.jpg/309px-Steamey_-_Orome.jpg" decoding="async" loading="lazy" width="309" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/49/Steamey_-_Orome.jpg/463px-Steamey_-_Orome.jpg 1.5x, https://tolkiengateway.net/w/images/4/49/Steamey_-_Orome.jpg 2x" data-file-width="480" data-file-height="746"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Event</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Great Journey</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Event Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Great March</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>, <a href="../B/Belegaer.md" title="Belegaer">Belegaer</a>, <a href="../V/Valinor.md" title="Valinor">Valinor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Y.T.</a> <a href="../Y/Year_of_the_Trees_1105.md" title="Year of the Trees 1105">1105</a> to <a href="../Y/Year_of_the_Trees_1132.md" title="Year of the Trees 1132">1132</a> (<a href="../M/Minyar.md" title="Minyar">Minyar</a> and <a href="../T/Tatyar.md" title="Tatyar">Tatyar</a>) and <a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Y.T.</a> <a href="../Y/Year_of_the_Trees_1151.md" title="Year of the Trees 1151">1151</a> (<a href="../N/Nelyar.md" title="Nelyar">Nelyar</a>)</td></tr><tr><th scope="row" class="tg-infobox-label">Result</th><td class="tg-infobox-data">The Eldar reach Valinor and found <a href="../E/Eldamar.md" title="Eldamar">Eldamar</a>; separation of <a href="../C/Calaquendi.md" title="Calaquendi">Calaquendi</a> and <a href="../M/Moriquendi.md" title="Moriquendi">Moriquendi</a>; many <a href="../T/Teleri.md" title="Teleri">Teleri</a> remain in <a href="../R/Rhovanion.md" title="Rhovanion">Rhovanion</a> and <a href="../B/Beleriand.md" title="Beleriand">Beleriand</a></td></tr><tr><th scope="row" class="tg-infobox-label">Part of</th><td class="tg-infobox-data"><a href="../S/Sundering_of_the_Elves.md" title="Sundering of the Elves">Sundering of the Elves</a></td></tr><tr><th scope="row" class="tg-infobox-label">Participants</th><td class="tg-infobox-data"><a href="../V/Valar.md" title="Valar">Valar</a> (and <a class="mw-redirect" href="../O/Osse.md" title="Osse">Osse</a>), <a href="../E/Eldar.md" title="Eldar">Eldar</a></td></tr><tr><th scope="row" class="tg-infobox-label">Description</th><td class="tg-infobox-data"><a href="../O/Oromë.md" title="Oromë">Oromë</a> leads the three clans of Elves westwards through Middle-earth and Belegaer.</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Steamey_-_Orome.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/49/Steamey_-_Orome.jpg/309px-Steamey_-_Orome.jpg" decoding="async" loading="lazy" width="309" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/49/Steamey_-_Orome.jpg/463px-Steamey_-_Orome.jpg 1.5x, https://tolkiengateway.net/w/images/4/49/Steamey_-_Orome.jpg 2x" data-file-width="480" data-file-height="746"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Sự kiện</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Đại Hành Trình</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin sự kiện</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data">Great March</td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>, <a href="../B/Belegaer.md" title="Belegaer">Belegaer</a>, <a href="../V/Valinor.md" title="Valinor">Valinor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày</th><td class="tg-infobox-data"><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Y.T.</a> <a href="../Y/Year_of_the_Trees_1105.md" title="Year of the Trees 1105">1105</a> to <a href="../Y/Year_of_the_Trees_1132.md" title="Year of the Trees 1132">1132</a> (<a href="../M/Minyar.md" title="Minyar">Minyar</a> and <a href="../T/Tatyar.md" title="Tatyar">Tatyar</a>) and <a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Y.T.</a> <a href="../Y/Year_of_the_Trees_1151.md" title="Year of the Trees 1151">1151</a> (<a href="../N/Nelyar.md" title="Nelyar">Nelyar</a>)</td></tr><tr><th scope="row" class="tg-infobox-label">Kết quả</th><td class="tg-infobox-data">Eldar tiếp cận Valinor và tìm thấy <a href="../E/Eldamar.md" title="Eldamar">Eldamar</a>; tách <a href="../C/Calaquendi.md" title="Calaquendi">Calaquendi</a> và <a href="../M/Moriquendi.md" title="Moriquendi">Moriquendi</a>; nhiều <a href="../T/Teleri.md" title="Teleri">Teleri</a> vẫn còn trong <a href="../R/Rhovanion.md" title="Rhovanion">Rhovanion</a> và <a href="../B/Beleriand.md" title="Beleriand">Beleriand</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thuộc về</th><td class="tg-infobox-data"><a href="../S/Sundering_of_the_Elves.md" title="Sundering of the Elves">Sundering of the Elves</a></td></tr><tr><th scope="row" class="tg-infobox-label">Người tham gia</th><td class="tg-infobox-data"><a href="../V/Valar.md" title="Valar">Valar</a> (and <a class="mw-redirect" href="../O/Osse.md" title="Osse">Osse</a>), <a href="../E/Eldar.md" title="Eldar">Eldar</a></td></tr><tr><th scope="row" class="tg-infobox-label">Mô tả</th><td class="tg-infobox-data"><a href="../O/Oromë.md" title="Oromë">Oromë</a> dẫn đầu ba tộc Tiên tộc về phía tây qua Trung Địa và Belegaer.</td></tr></tbody></table>
 
 **Cuộc Đại Hành Trình**, hay **Cuộc Đại Di Cư**, là cuộc di cư mà các [Tiên tộc](../E/Elves.md) thực hiện từ nơi sinh ra của họ tại [Cuiviénen](../C/Cuiviénen.md) đến cõi phúc lành [Aman](../A/Aman.md). Hành trình sử thi này được khởi xướng bởi các [Valar](../V/Valar.md) nhằm đưa các Tiên tộc đến gần hơn với sự bảo hộ và trí tuệ của họ, đồng thời để chính các Valar được thưởng ngoạn vẻ đẹp của các Tiên tộc.
 
@@ -73,13 +73,13 @@ Sau khi lưu lại bên họ một thời gian, Oromë trở về [Valinor](../V
 
 <figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sundering_of_the_Elves.png.md"><img alt="The Great Journey of the Elves" src="https://tolkiengateway.net/w/images/thumb/6/67/Sundering_of_the_Elves.png/950px-Sundering_of_the_Elves.png" decoding="async" loading="lazy" width="950" height="657" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/67/Sundering_of_the_Elves.png/1425px-Sundering_of_the_Elves.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/67/Sundering_of_the_Elves.png/1900px-Sundering_of_the_Elves.png 2x" data-file-width="2428" data-file-height="1680"/></a><figcaption>The Great Journey of the Elves</figcaption></figure>
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Ambarkanta_Map_IV.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/20/J.R.R._Tolkien_-_Ambarkanta_Map_IV.jpg/300px-J.R.R._Tolkien_-_Ambarkanta_Map_IV.jpg" decoding="async" loading="lazy" width="300" height="233" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/20/J.R.R._Tolkien_-_Ambarkanta_Map_IV.jpg/450px-J.R.R._Tolkien_-_Ambarkanta_Map_IV.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/20/J.R.R._Tolkien_-_Ambarkanta_Map_IV.jpg/600px-J.R.R._Tolkien_-_Ambarkanta_Map_IV.jpg 2x" data-file-width="2560" data-file-height="1990"/></a><figcaption>Map IV from <a class="mw-redirect" href="../A/Ambarkanta.md" title="Ambarkanta">Ambarkanta</a>, showing an early representation of the March of the Eldar</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Ambarkanta_Map_IV.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/20/J.R.R._Tolkien_-_Ambarkanta_Map_IV.jpg/300px-J.R.R._Tolkien_-_Ambarkanta_Map_IV.jpg" decoding="async" loading="lazy" width="300" height="233" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/20/J.R.R._Tolkien_-_Ambarkanta_Map_IV.jpg/450px-J.R.R._Tolkien_-_Ambarkanta_Map_IV.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/20/J.R.R._Tolkien_-_Ambarkanta_Map_IV.jpg/600px-J.R.R._Tolkien_-_Ambarkanta_Map_IV.jpg 2x" data-file-width="2560" data-file-height="1990"/></a><figcaption>Bản đồ IV từ <a class="mw-redirect" href="../A/Ambarkanta.md" title="Ambarkanta">Ambarkanta</a>, thể hiện hình ảnh ban đầu của cuộc hành quân Eldar</figcaption></figure>
 
 Theo Oromë, người Eldar lên đường thành ba đoàn, mỗi đoàn tương ứng với một tộc. Đi đầu là những người thuộc tộc Minyar (còn gọi là *[Vanyar](../V/Vanyar.md)*), do Ingwë dẫn đầu; đây là đoàn nhỏ nhất và cũng háo hức lên đường nhất. Theo sau họ là người Eldar thuộc tộc Tatyar, tức *[Noldor](../N/Noldor.md)*,<sup id="cite_ref-clan_5-0" class="reference"><a href="#cite_note-clan-5">[5]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:484</sup> do Finwë dẫn đầu. Cuối cùng là người Nelyar (còn gọi là *[Lindar](../L/Lindar.md)*), tộc đông nhất, vì vậy có hai thủ lĩnh là Elwë và em trai ông, [Olwë](../O/Olwë.md).<sup id="cite_ref-annals3_6-0" class="reference"><a href="#cite_note-annals3-6">[6]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§58</sup> Trong cuộc Hành Trình, người Lindar được đặt biệt danh *[Teleri](../T/Teleri.md)* («những người ở cuối hàng», «những người đi sau cùng») vì họ ít háo hức rời đi nhất và thường tụt lại rất xa phía sau người Vanyar và Noldor;<sup id="cite_ref-clan_5-1" class="reference"><a href="#cite_note-clan-5">[5]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:506</sup> đoàn của Olwë luôn là đoàn đi sau cùng.<sup id="cite_ref-annals3_6-1" class="reference"><a href="#cite_note-annals3-6">[6]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§62</sup>
 
 Cuộc Hành Trình diễn ra rất chậm chạp, bởi đường sá dài dằng dặc, hiểm trở và không có lối mòn. Người Eldar cũng không muốn vội vã, vì họ tràn đầy kinh ngạc trước mọi thứ nhìn thấy; họ thường muốn dừng chân lưu lại bên nhiều vùng đất và dòng sông. Không ít người thậm chí còn sợ ngày kết thúc chuyến đi hơn là mong đợi nó.<sup id="cite_ref-annals3_6-2" class="reference"><a href="#cite_note-annals3-6">[6]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§59</sup> Ngoài ra, trên đường đi, họ còn phải tự lo liệu thức ăn, quần áo và những nhu yếu phẩm tương tự. Hành trình chủ yếu diễn ra từ cuối mùa xuân đến đầu mùa thu, luân phiên giữa những đợt di chuyển và những khoảng dừng chân để nghỉ ngơi, sửa chữa đồ đạc, may quần áo và thuộc da lông thú;<sup id="cite_ref-march_7-0" class="reference"><a href="#cite_note-march-7">[7]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:57</sup> họ cũng tận dụng những khoảng dừng này để rèn thêm vũ khí nếu tìm được kim loại.<sup id="cite_ref-economy_4-2" class="reference"><a href="#cite_note-economy-4">[4]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:272</sup>
 
-<figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/March_of_the_Quendi_Airyyn.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c6/March_of_the_Quendi_Airyyn.jpg/950px-March_of_the_Quendi_Airyyn.jpg" decoding="async" loading="lazy" width="950" height="526" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c6/March_of_the_Quendi_Airyyn.jpg/1425px-March_of_the_Quendi_Airyyn.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c6/March_of_the_Quendi_Airyyn.jpg/1900px-March_of_the_Quendi_Airyyn.jpg 2x" data-file-width="2406" data-file-height="1333"/></a><figcaption>Infographic depicting the March of the Quendi, such as described by Tolkien in <i><a href="../T/The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> (p.47, p.49-53). The picture shows the itinerary of the Quendi in Middle-earth (at the top) associated with a timeline (center) in valian years and in solar years from the Awakening, and the number of Eldar (bottom).</figcaption></figure>
+<figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/March_of_the_Quendi_Airyyn.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c6/March_of_the_Quendi_Airyyn.jpg/950px-March_of_the_Quendi_Airyyn.jpg" decoding="async" loading="lazy" width="950" height="526" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c6/March_of_the_Quendi_Airyyn.jpg/1425px-March_of_the_Quendi_Airyyn.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c6/March_of_the_Quendi_Airyyn.jpg/1900px-March_of_the_Quendi_Airyyn.jpg 2x" data-file-width="2406" data-file-height="1333"/></a><figcaption>Infographic mô tả cuộc hành trình của Quendi, như được mô tả bởi Tolkien trong <i><a href="../T/The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> (tr.47, p.49-53). Hình ảnh thể hiện hành trình của Quendi trong Trung Địa (ở trên cùng) gắn với dòng thời gian (giữa) tính theo năm Valian và năm dương lịch kể từ thời kỳ Thức tỉnh và số Eldar (dưới).</figcaption></figure>
 
 Trong những ghi chép rời rạc còn sót lại về truyền thuyết Đại Hành Trình, có đề cập đến một số lần tách đoàn khỏi cuộc hành trình, dù là do tình cờ (một vài nhóm nhỏ bị lạc đường), chủ động từ bỏ hành trình vì mệt mỏi và mất hy vọng,<sup id="cite_ref-silvan_8-0" class="reference"><a href="#cite_note-silvan-8">[8]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:323</sup> hay do trong những lần lưu lại kéo dài, một số người đơn giản là cảm thấy hài lòng với nơi mình đang ở và quyết định ở lại.<sup id="cite_ref-economy_4-3" class="reference"><a href="#cite_note-economy-4">[4]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:272</sup> Phần lớn những lần tách đoàn này là do các nhóm Lindar thực hiện.<sup id="cite_ref-silvan_8-1" class="reference"><a href="#cite_note-silvan-8">[8]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:323</sup>
 
@@ -137,7 +137,7 @@ Sau vài năm, đoàn người Teleri vượt qua Eriador, cuối cùng đến B
 
 ### Vượt Đại Hải {#Crossing_the_Great_Sea}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Sundering_of_the_Elves.svg.md"><img src="https://tolkiengateway.net/w/images/6/6a/The_Sundering_of_the_Elves.svg" decoding="async" loading="lazy" width="300" height="190" class="mw-file-element" data-file-width="2347" data-file-height="1483"/></a><figcaption>A chart of the <a href="../S/Sundering_of_the_Elves.md" title="Sundering of the Elves">Sundering of the Elves</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Sundering_of_the_Elves.svg.md"><img src="https://tolkiengateway.net/w/images/6/6a/The_Sundering_of_the_Elves.svg" decoding="async" loading="lazy" width="300" height="190" class="mw-file-element" data-file-width="2347" data-file-height="1483"/></a><figcaption>Sơ đồ <a href="../S/Sundering_of_the_Elves.md" title="Sundering of the Elves">Sự phân chia của Tiên tộc</a></figcaption></figure>
 
 Theo quyết định của các Valar, [Ulmo](../U/Ulmo.md) đến bờ biển Trung Địa và trò chuyện với các Eldar đang chờ đợi tại đó. Qua lời nói và âm thanh từ [những chiếc tù và của ngài](../U/Ulumúri.md), nỗi sợ biển cả của họ đã chuyển thành niềm khao khát. Sau đó, với sự trợ giúp của các tôi tớ, Ulmo nhổ bật [một hòn đảo](../T/Tol_Eressëa.md) nằm xa cả hai bờ biển và đưa nó đến Vịnh Balar, nơi hòn đảo được neo lại. Các Vanyar và Noldor lên hòn đảo ấy rồi được đưa vượt biển, cuối cùng đến Aman. Trong chuyến hành trình này, một phần của hòn đảo tách ra, trở thành [Đảo Balar](../I/Isle_of_Balar.md).<sup id="cite_ref-eldamar_11-0" class="reference"><a href="#cite_note-eldamar-11">[11]</a></sup>
 
@@ -187,7 +187,7 @@ Theo các sử gia Noldorin, tỷ lệ (trên tổng số 144) của những Elf
 </th>
 <th colspan="2">Eldar
 </th>
-<th rowspan="2">Total
+<th rowspan="2">Tổng số
 </th></tr>
 <tr>
 <th>Úmanyar
@@ -216,7 +216,7 @@ Theo các sử gia Noldorin, tỷ lệ (trên tổng số 144) của những Elf
 <td>74
 </td></tr>
 <tr>
-<th>Total</th>
+<th>Tổng số</th>
 <th>56</th>
 <th>26</th>
 <th>62</th>
@@ -242,36 +242,36 @@ Trong bảng dưới đây, các ký hiệu sau được sử dụng:
 <th>VY (AAm)</th>
 <th>VY (MotQ)</th>
 <th>AY (MoTQ)</th>
-<th>Event</th>
+<th>Sự kiện</th>
 <th>Distance</th>
-<th>Population
+<th>Dân số
 </th></tr>
 <tr>
 <td><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Y.T.</a> <a href="../Y/Year_of_the_Trees_1105.md" title="Year of the Trees 1105">1105</a></td>
 <td>1129/29</td>
 <td>18605
 </td>
-<td>The March begins and reaches the Sea of Rhûn; it does not move on as many are content and desire to beget children. The March halts until the new children are old enough to join
+<td>Tháng Ba bắt đầu và đến Biển Rhûn; nó không tiếp tục vì nhiều người hài lòng và mong muốn sinh con. Tháng ba tạm dừng cho đến khi những đứa trẻ mới đủ lớn để tham gia
 </td>
 <td>450</td>
 <td>20,000
 </td></tr>
 <tr>
-<td>N/A</td>
+<td>Không áp dụng</td>
 <td>1130/15</td>
 <td>18735
 </td>
-<td>The March resumes and reaches the grasslands before the Great Forest. It halts here for a few löar to harvest grain.
+<td>Tháng ba tiếp tục và đến đồng cỏ trước Khu rừng lớn. Nó dừng lại ở đây vài löar để thu hoạch ngũ cốc.
 </td>
 <td>650</td>
 <td>22,000
 </td></tr>
 <tr>
-<td>N/A</td>
+<td>Không áp dụng</td>
 <td>1130/20</td>
 <td>18740
 </td>
-<td>The March advances another 200 miles and reaches the Great Forest. Lurking evils cause fear and the Eldar retire 50 miles, back to the grasslands, and await help from Oromë.
+<td>Cuộc hành quân tiến thêm 200 dặm nữa và đến được Khu Rừng Lớn. Những cái ác rình rập gây ra nỗi sợ hãi và Eldar rút lui 50 dặm, quay trở lại vùng đồng cỏ và chờ đợi sự giúp đỡ từ Oromë.
 </td>
 <td>800</td>
 <td>22,000
@@ -281,37 +281,37 @@ Trong bảng dưới đây, các ký hiệu sau được sử dụng:
 <td>1130/26</td>
 <td>18746
 </td>
-<td>The Vanyar and the Noldor follow Oromë through the Great Forest and reach the Anduin Vale. The Elves, asides from their Chiefs, are delighted with the place and wish to stay. They establish it as <i>Atyamar</i>. The Teleri begin to straggle as not all had reached the east side of the Great Forest when the Vanyar and Noldor went through, and none followed.
+<td>Vanyar và Noldor đi theo Oromë xuyên qua Rừng Lớn và đến Thung lũng Anduin. Các Tiên tộc, ngoài các Thủ lĩnh của họ, đều rất vui mừng với nơi này và mong muốn ở lại. Họ thiết lập nó là <i>Atyamar</i>. Teleri bắt đầu loạng choạng vì không phải tất cả đều đến được phía đông của Khu Rừng Lớn khi Vanyar và Noldor đi qua và không có ai theo sau.
 </td>
 <td>1050</td>
 <td>22,000
 </td></tr>
 <tr>
-<td>N/A</td>
+<td>Không áp dụng</td>
 <td>1130/36</td>
 <td>18756
 </td>
-<td>The Noldor and Vanyar complete a begetting of children at Atyamar.
+<td>Noldor và Vanyar hoàn thành việc sinh con tại Atyamar.
 </td>
 <td>1050</td>
 <td>24,000
 </td></tr>
 <tr>
-<td>N/A</td>
+<td>Không áp dụng</td>
 <td>1130/79</td>
 <td>18799
 </td>
-<td>The Noldor and Vanyar complete another begetting of children at Atyamar. The Teleri begin to appear, having gone around the Great Forest instead of through it. They also like Atyamar, and are themselves eager for more children.
+<td>Noldor và Vanyar hoàn thành việc sinh con khác tại Atyamar. Teleri bắt đầu xuất hiện, đi vòng quanh Khu Rừng Lớn thay vì xuyên qua nó. Họ cũng thích Atyamar và bản thân cũng mong muốn có thêm con.
 </td>
 <td>1050</td>
 <td>26,000
 </td></tr>
 <tr>
-<td>N/A</td>
+<td>Không áp dụng</td>
 <td>1130/89</td>
 <td>18809
 </td>
-<td>The Teleri complete their begetting of children at Atyamar.
+<td>Teleri hoàn thành việc sinh con tại Atyamar.
 </td>
 <td>1050</td>
 <td>28,000
@@ -321,67 +321,67 @@ Trong bảng dưới đây, các ký hiệu sau được sử dụng:
 <td>1130/90</td>
 <td>18810
 </td>
-<td>Either by chance, machinations of Sauron, and/or because Oromë withdrew protection in the hopes of making the Eldar less content with Atyamar, winters become hard and weather worsens. Though the host is burdened with many young children, with the youngest not to reach maturation until 1131/65, the Chiefs regardless order an advance across the Anduin and the Teleri begin a great boat-building. 3000 of the Teleri refuse to leave Atyamar and become known as the Nandor.
+<td>Hoặc là do tình cờ, âm mưu của Sauron, và/hoặc vì Oromë rút lại sự bảo vệ với hy vọng khiến Eldar bớt hài lòng với Atyamar, mùa đông trở nên khắc nghiệt và thời tiết trở nên tồi tệ hơn. Mặc dù chủ nhà phải gánh nặng với nhiều trẻ nhỏ, trong đó đứa nhỏ nhất chưa trưởng thành cho đến 1131/65, các Thủ lĩnh vẫn ra lệnh tiến quân qua Anduin và Teleri để bắt đầu đóng thuyền lớn. 3000 người Teleri từ chối rời Atyamar và được biết đến với cái tên Nandor.
 </td>
 <td>1050</td>
 <td>28,000
 </td></tr>
 <tr>
-<td>N/A</td>
+<td>Không áp dụng</td>
 <td>1130/91</td>
 <td>18811
 </td>
-<td>25,000 of the host moved across the Anduin and encounter the Misty Mountains; they find it impassible so instead they wander south into the plains. The Teleri lag behind again.
+<td>25.000 máy chủ đã di chuyển qua Anduin và chạm trán với Dãy Núi Sương Mù; họ thấy không thể vượt qua được nên thay vào đó họ đi lang thang về phía nam vào vùng đồng bằng. Teleri lại bị tụt lại phía sau.
 </td>
 <td>1150</td>
 <td>25,000
 </td></tr>
 <tr>
-<td>N/A</td>
+<td>Không áp dụng</td>
 <td>1130/95</td>
 <td>18815
 </td>
-<td>The Vanyar and Noldor settle around the Isen after wandering for four löar. The main host halts for a long while while the Teleri straggle in.
+<td>Vanyar và Noldor định cư xung quanh Isen sau khi lang thang bốn năm. Máy chủ chính dừng lại một lúc lâu trong khi Teleri tiến vào.
 </td>
 <td>1850</td>
 <td>25,000
 </td></tr>
 <tr>
-<td>N/A</td>
+<td>Không áp dụng</td>
 <td>1130/109</td>
 <td>18829
 </td>
-<td>A begetting of children is completed.
+<td>Việc sinh con đã hoàn tất.
 </td>
 <td>1850</td>
 <td>28,500
 </td></tr>
 <tr>
-<td>N/A</td>
+<td>Không áp dụng</td>
 <td>1131/5</td>
 <td>18869
 </td>
-<td>Another begetting of children completed. The women are having difficulties with children, so the host waits until the youngest are old enough to join the March.
+<td>Một lần sinh con nữa đã hoàn tất. Những người phụ nữ khó khăn với con cái nên chủ nhà đợi đến khi đứa nhỏ nhất đủ tuổi mới tham gia diễu hành.
 </td>
 <td>1850</td>
 <td>30,500
 </td></tr>
 <tr>
-<td>N/A</td>
+<td>Không áp dụng</td>
 <td>1132/9</td>
 <td>19017
 </td>
-<td>The Eldar scheme to beget no more children until they reach Beleriand. The Vanyar and Noldor move west until they reach the <a href="Gwathló.md" title="Gwathló">Gwathló</a>.
+<td>Kế hoạch Eldar không sinh thêm con cho đến khi đạt Beleriand. Vanyar và Noldor di chuyển về phía tây cho đến khi đến <a href="Gwathló.md" title="Gwathló">Gwathló</a>.
 </td>
 <td>2110</td>
 <td>30,500
 </td></tr>
 <tr>
-<td>N/A</td>
+<td>Không áp dụng</td>
 <td>1132/11</td>
 <td>19019
 </td>
-<td>The Vanyar and Noldor wait for the Teleri, the first of which come up in 1132/10 and then help the Vanyar and Noldor across. The Vanyar and Noldor reach the <a href="../B/Baranduin.md" title="Baranduin">Baranduin</a> and are now near the southern end of the <a href="../B/Blue_Mountains.md" title="Blue Mountains">Blue Mountains</a>.
+<td>Vanyar và Noldor chờ Teleri, cái đầu tiên xuất hiện vào 1132/10 và sau đó giúp Vanyar và Noldor đi qua. Vanyar và Noldor chạm tới <a href="../B/Baranduin.md" title="Baranduin">Baranduin</a> và hiện ở gần đầu phía nam của <a href="../B/Blue_Mountains.md" title="Blue Mountains">Dãy Núi Xanh</a>.
 </td>
 <td>2310</td>
 <td>30,500
@@ -401,50 +401,50 @@ Trong bảng dưới đây, các ký hiệu sau được sử dụng:
 <td>1132/20</td>
 <td>19028
 </td>
-<td>The Teleri are eager for the <a href="../B/Belegaer.md" title="Belegaer">Sea</a> and push west to the <a href="../F/Falas.md" title="Falas">Falas</a> or <a href="../N/Nevrast.md" title="Nevrast">Nevrast</a>; the Vanyar and Noldor chiefly inhabit about <a href="../S/Sirion.md" title="Sirion">Sirion</a>. By this time all the Eldar are in Beleriand.
+<td>Teleri háo hức với <a href="../B/Belegaer.md" title="Belegaer">Biển</a> và tiến về phía tây tới <a href="../F/Falas.md" title="Falas">Falas</a> hoặc <a href="../N/Nevrast.md" title="Nevrast">Nevrast</a>; Vanyar và Noldor chủ yếu sinh sống ở khoảng <a href="../S/Sirion.md" title="Sirion">Sirion</a>. Đến thời điểm này tất cả Eldar đều ở dạng Beleriand.
 </td>
 <td>3111</td>
 <td>30,000
 </td></tr>
 <tr>
 <td><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Y.T.</a> <a href="../Y/Year_of_the_Trees_1130.md" title="Year of the Trees 1130">1130</a></td>
-<td>N/A</td>
-<td>N/A
+<td>Không áp dụng</td>
+<td>Không áp dụng
 </td>
-<td>Elwë is lost
+<td>Elwë bị mất
 </td>
-<td>N/A</td>
-<td>N/A
+<td>Không áp dụng</td>
+<td>Không áp dụng
 </td></tr>
 <tr>
 <td><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Y.T.</a> <a href="../Y/Year_of_the_Trees_1132.md" title="Year of the Trees 1132">1132</a></td>
 <td>1133/17</td>
 <td>19169
 </td>
-<td>Vanyar and Noldor depart across the Great Sea
+<td>Vanyar và Noldor khởi hành qua Đại Hải
 </td>
 <td>3111</td>
-<td>N/A
+<td>Không áp dụng
 </td></tr>
 <tr>
 <td><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Y.T.</a> <a href="../Y/Year_of_the_Trees_1133.md" title="Year of the Trees 1133">1133</a></td>
 <td>1133/29</td>
 <td>19181
 </td>
-<td>Vanyar and Noldor complete transit across the Great Sea. Teleri go to the shores and are befriended by Ossë.
+<td>Vanyar và Noldor hoàn tất quá trình di chuyển qua Đại Hải. Teleri lên bờ và được kết bạn với Ossë.
 </td>
-<td>N/A</td>
-<td>N/A
+<td>Không áp dụng</td>
+<td>Không áp dụng
 </td></tr>
 <tr>
 <td><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Y.T.</a> <a href="../Y/Year_of_the_Trees_1150.md" title="Year of the Trees 1150">1150</a></td>
 <td>1134/?</td>
-<td>N/A
+<td>Không áp dụng
 </td>
-<td>Olwë and part of the Teleri are taken off
+<td>Olwë và một phần Teleri được tháo ra
 </td>
-<td>N/A</td>
-<td>N/A
+<td>Không áp dụng</td>
+<td>Không áp dụng
 </td></tr></tbody></table>
 
 Bảng so sánh thời lượng, sử dụng các ngày tháng được quy đổi thành số coranari gần đúng đã trôi qua kể từ đầu tháng Ba, như sau:
@@ -453,37 +453,37 @@ Bảng so sánh thời lượng, sử dụng các ngày tháng được quy đ�
 <caption>
 </caption>
 <tbody><tr>
-<th>Event</th>
+<th>Sự kiện</th>
 <th>AAm</th>
 <th>MotQ
 </th></tr>
 <tr>
-<td>Great Journey begins</td>
+<td>Đại Hành Trình bắt đầu</td>
 <td>0</td>
 <td>0
 </td></tr>
 <tr>
-<td>Elves reach Anduin Vale</td>
+<td>Tiên tộc đạt Anduin Vale</td>
 <td>96</td>
 <td>141
 </td></tr>
 <tr>
-<td>Elves leave Anduin Vale; Nandor are sundered</td>
+<td>Tiên tộc rời khỏi Anduin Vũng; Nandor bị chia cắt</td>
 <td>96</td>
 <td>205
 </td></tr>
 <tr>
-<td>Elves reach coast of Beleriand</td>
+<td>Tiên tộc đến bờ biển Beleriand</td>
 <td>192</td>
 <td>420
 </td></tr>
 <tr>
-<td>Vanyar and Noldor depart</td>
+<td>Vanyar và Noldor khởi hành</td>
 <td>259</td>
 <td>576
 </td></tr>
 <tr>
-<td>Olwë&#39;s Teleri depart</td>
+<td>Teleri của Olwë khởi hành</td>
 <td>431</td>
 <td>691 - 834
 </td></tr></tbody></table>

@@ -41,16 +41,16 @@ infobox:
     value: "Images of J.R.R. Tolkien's monogram"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=J.R.R._Tolkien%27s_signature&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
-<p>...It is a long tale...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=J.R.R._Tolkien%27s_signature&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
+<p>...Đó là một câu chuyện dài...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/JRRT.jpeg.md"><img src="https://tolkiengateway.net/w/images/7/7d/JRRT.jpeg" decoding="async" loading="lazy" width="159" height="238" class="mw-file-element" data-file-width="159" data-file-height="238"/></a><figcaption>The final version of J.R.R. Tolkien&#39;s monogram.</figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>J.R.R. Tolkien&#39;s monogram</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_J.R.R._Tolkien&#39;s_signature.md" title="Category:Images of J.R.R. Tolkien&#39;s signature">Images of J.R.R. Tolkien&#39;s monogram</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/JRRT.jpeg.md"><img src="https://tolkiengateway.net/w/images/7/7d/JRRT.jpeg" decoding="async" loading="lazy" width="159" height="238" class="mw-file-element" data-file-width="159" data-file-height="238"/></a><figcaption>Phiên bản cuối cùng của chữ lồng J.R.R. Tolkien.</figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>chữ lồng của J.R.R. Tolkien</span></th></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_J.R.R._Tolkien&#39;s_signature.md" title="Category:Images of J.R.R. Tolkien&#39;s signature">Hình ảnh chữ lồng của J.R.R. Tolkien</a></td></tr></tbody></table>
 
 Chữ ký và chữ lồng của **J.R.R. Tolkien đồng nghĩa với các tác phẩm của Tolkien và có lịch sử riêng. Cả hai đều là nhãn hiệu đã đăng ký thuộc quyền sở hữu của [Tolkien Estate](../T/Tolkien_Estate.md).
 
@@ -62,28 +62,28 @@ Chữ ký của Tolkien được phát triển theo thời gian. Ngay từ [1910
 		<li class="gallerybox" style="width: 300.66666666667px">
 			<div class="thumb" style="width: 298.66666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Signature_1910.png.md" title="J.R.R. Tolkien signing as &#34;Ronald Tolkien&#34; in 1910."><img alt="J.R.R. Tolkien signing as &#34;Ronald Tolkien&#34; in 1910." src="https://tolkiengateway.net/w/images/thumb/d/d2/J.R.R._Tolkien_Signature_1910.png/448px-J.R.R._Tolkien_Signature_1910.png" decoding="async" loading="lazy" width="299" height="60" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d2/J.R.R._Tolkien_Signature_1910.png/672px-J.R.R._Tolkien_Signature_1910.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/d2/J.R.R._Tolkien_Signature_1910.png/896px-J.R.R._Tolkien_Signature_1910.png 2x" data-file-width="1527" data-file-height="307"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 279px"><div class="gallerytext">
-<p>J.R.R. Tolkien signing as &#34;Ronald Tolkien&#34; in 1910.
+<p>J.R.R. Tolkien ký tên là "Ronald Tolkien" vào năm 1910.
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 130.66666666667px">
 			<div class="thumb" style="width: 128.66666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R_Tolkien_Signature_1913.png.md" title="Tolkien&#39;s signature from his 1913 painting Foxglove Year."><img alt="Tolkien&#39;s signature from his 1913 painting Foxglove Year." src="https://tolkiengateway.net/w/images/thumb/4/43/J.R.R_Tolkien_Signature_1913.png/193px-J.R.R_Tolkien_Signature_1913.png" decoding="async" loading="lazy" width="129" height="60" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/43/J.R.R_Tolkien_Signature_1913.png/290px-J.R.R_Tolkien_Signature_1913.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/43/J.R.R_Tolkien_Signature_1913.png/386px-J.R.R_Tolkien_Signature_1913.png 2x" data-file-width="594" data-file-height="277"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 109px"><div class="gallerytext">
-<p>Tolkien&#39;s signature from his 1913 painting <i>Foxglove Year.</i>
+<p>Chữ ký của Tolkien trên bức tranh năm 1913 của ông <i>Foxglove Year.</i>
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 158.66666666667px">
 			<div class="thumb" style="width: 156.66666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Signature_Later.png.md" title="A typical example of Tolkien&#39;s more well known later signature."><img alt="A typical example of Tolkien&#39;s more well known later signature." src="https://tolkiengateway.net/w/images/thumb/f/ff/J.R.R._Tolkien_Signature_Later.png/235px-J.R.R._Tolkien_Signature_Later.png" decoding="async" loading="lazy" width="157" height="60" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/ff/J.R.R._Tolkien_Signature_Later.png/352px-J.R.R._Tolkien_Signature_Later.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/ff/J.R.R._Tolkien_Signature_Later.png/469px-J.R.R._Tolkien_Signature_Later.png 2x" data-file-width="1425" data-file-height="548"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 137px"><div class="gallerytext">
-<p>A typical example of Tolkien&#39;s more well known later signature.
+<p>Một ví dụ điển hình về chữ ký sau này được biết đến nhiều hơn của Tolkien.
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 94px">
 			<div class="thumb" style="width: 92px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Latin_Poems_(Tolkien_signature).jpg.md" title="A 1923 signature from a book of Latin Poems."><img alt="A 1923 signature from a book of Latin Poems." src="https://tolkiengateway.net/w/images/thumb/5/5e/The_Latin_Poems_%28Tolkien_signature%29.jpg/138px-The_Latin_Poems_%28Tolkien_signature%29.jpg" decoding="async" loading="lazy" width="92" height="60" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5e/The_Latin_Poems_%28Tolkien_signature%29.jpg/207px-The_Latin_Poems_%28Tolkien_signature%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5e/The_Latin_Poems_%28Tolkien_signature%29.jpg/276px-The_Latin_Poems_%28Tolkien_signature%29.jpg 2x" data-file-width="550" data-file-height="359"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 72px"><div class="gallerytext">
-<p>A 1923 signature from a book of Latin Poems.
+<p>Một chữ ký năm 1923 từ một tập thơ Latinh.
 </p>
 			</div></div>
 		</li>
@@ -101,49 +101,49 @@ Việc sử dụng chữ lồng đầu tiên được ghi nhận của Tolkien l
 		<li class="gallerybox" style="width: 133.33333333333px">
 			<div class="thumb" style="width: 131.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Monogram_1906.png.md" title="Tolkien&#39;s first recorded monogram from 1906."><img alt="Tolkien&#39;s first recorded monogram from 1906." src="https://tolkiengateway.net/w/images/thumb/e/e8/J.R.R._Tolkien_Monogram_1906.png/197px-J.R.R._Tolkien_Monogram_1906.png" decoding="async" loading="lazy" width="132" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e8/J.R.R._Tolkien_Monogram_1906.png/296px-J.R.R._Tolkien_Monogram_1906.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/e8/J.R.R._Tolkien_Monogram_1906.png/395px-J.R.R._Tolkien_Monogram_1906.png 2x" data-file-width="513" data-file-height="468"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 112px"><div class="gallerytext">
-<p>Tolkien&#39;s first recorded monogram from 1906.
+<p>Chữ lồng đầu tiên được ghi lại của Tolkien từ năm 1906.
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 158.66666666667px">
 			<div class="thumb" style="width: 156.66666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/JRR_Tolkien_Monogram_1911.png.md" title="A 1911 Tolkien Monogram that appeared on the illustration Lamb&#39;s Farm, Gedling."><img alt="A 1911 Tolkien Monogram that appeared on the illustration Lamb&#39;s Farm, Gedling." src="https://tolkiengateway.net/w/images/3/3a/JRR_Tolkien_Monogram_1911.png" decoding="async" loading="lazy" width="157" height="120" class="mw-file-element" data-file-width="196" data-file-height="150"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 137px"><div class="gallerytext">
-<p>A 1911 Tolkien Monogram that appeared on the illustration <i>Lamb&#39;s Farm, Gedling.</i>
+<p>Một chữ lồng Tolkien năm 1911 xuất hiện trên hình minh họa <i>Lamb&#39;s Farm, Gedling.</i>
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 67.333333333333px">
 			<div class="thumb" style="width: 65.333333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Monogram_1912.png.md" title="Tolkien&#39;s first recorded use of a two-R version of the monogram from 1912."><img alt="Tolkien&#39;s first recorded use of a two-R version of the monogram from 1912." src="https://tolkiengateway.net/w/images/thumb/7/71/J.R.R._Tolkien_Monogram_1912.png/98px-J.R.R._Tolkien_Monogram_1912.png" decoding="async" loading="lazy" width="66" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/71/J.R.R._Tolkien_Monogram_1912.png/147px-J.R.R._Tolkien_Monogram_1912.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/71/J.R.R._Tolkien_Monogram_1912.png/196px-J.R.R._Tolkien_Monogram_1912.png 2x" data-file-width="197" data-file-height="361"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 46px"><div class="gallerytext">
-<p>Tolkien&#39;s first recorded use of a two-R version of the monogram from 1912.
+<p>Tolkien lần đầu tiên được ghi nhận việc sử dụng phiên bản hai chữ R của chữ lồng từ năm 1912.
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 122px">
 			<div class="thumb" style="width: 120px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Monogram_1913.png.md" title="Tolkien&#39;s first use of the &#34;four dots&#34; in 1913."><img alt="Tolkien&#39;s first use of the &#34;four dots&#34; in 1913." src="https://tolkiengateway.net/w/images/thumb/1/1b/J.R.R._Tolkien_Monogram_1913.png/180px-J.R.R._Tolkien_Monogram_1913.png" decoding="async" loading="lazy" width="120" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1b/J.R.R._Tolkien_Monogram_1913.png/270px-J.R.R._Tolkien_Monogram_1913.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/1b/J.R.R._Tolkien_Monogram_1913.png/361px-J.R.R._Tolkien_Monogram_1913.png 2x" data-file-width="573" data-file-height="572"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 100px"><div class="gallerytext">
-<p>Tolkien&#39;s first use of the &#34;four dots&#34; in 1913.
+<p>Tolkien lần đầu tiên sử dụng "bốn chấm" vào năm 1913.
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 122px">
 			<div class="thumb" style="width: 120px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Monogram_1913_2.png.md" title="Tolkien&#39;s first monogram utilizing two instances of the &#34;four dot&#34; motif."><img alt="Tolkien&#39;s first monogram utilizing two instances of the &#34;four dot&#34; motif." src="https://tolkiengateway.net/w/images/thumb/8/8f/J.R.R._Tolkien_Monogram_1913_2.png/180px-J.R.R._Tolkien_Monogram_1913_2.png" decoding="async" loading="lazy" width="120" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8f/J.R.R._Tolkien_Monogram_1913_2.png/270px-J.R.R._Tolkien_Monogram_1913_2.png 1.5x, https://tolkiengateway.net/w/images/thumb/8/8f/J.R.R._Tolkien_Monogram_1913_2.png/361px-J.R.R._Tolkien_Monogram_1913_2.png 2x" data-file-width="573" data-file-height="572"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 100px"><div class="gallerytext">
-<p>Tolkien&#39;s first monogram utilizing two instances of the &#34;four dot&#34; motif.
+<p>Chữ lồng đầu tiên của Tolkien sử dụng hai phiên bản của họa tiết "bốn chấm".
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 137.33333333333px">
 			<div class="thumb" style="width: 135.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Monogram_1914.png.md" title="A symmetrical Tolkien monogram from 1914."><img alt="A symmetrical Tolkien monogram from 1914." src="https://tolkiengateway.net/w/images/thumb/6/62/J.R.R._Tolkien_Monogram_1914.png/203px-J.R.R._Tolkien_Monogram_1914.png" decoding="async" loading="lazy" width="136" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/62/J.R.R._Tolkien_Monogram_1914.png/305px-J.R.R._Tolkien_Monogram_1914.png 1.5x, https://tolkiengateway.net/w/images/6/62/J.R.R._Tolkien_Monogram_1914.png 2x" data-file-width="396" data-file-height="351"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 116px"><div class="gallerytext">
-<p>A symmetrical Tolkien monogram from 1914.
+<p>Một chữ lồng Tolkien đối xứng từ năm 1914.
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 98px">
 			<div class="thumb" style="width: 96px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R_Tolkien_Monogram_1918.png.md" title="A 1918 monogram from Tolkien&#39;s painting Gipsy Green."><img alt="A 1918 monogram from Tolkien&#39;s painting Gipsy Green." src="https://tolkiengateway.net/w/images/thumb/d/d1/J.R.R_Tolkien_Monogram_1918.png/144px-J.R.R_Tolkien_Monogram_1918.png" decoding="async" loading="lazy" width="96" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d1/J.R.R_Tolkien_Monogram_1918.png/216px-J.R.R_Tolkien_Monogram_1918.png 1.5x, https://tolkiengateway.net/w/images/d/d1/J.R.R_Tolkien_Monogram_1918.png 2x" data-file-width="266" data-file-height="333"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 76px"><div class="gallerytext">
-<p>A 1918 monogram from Tolkien&#39;s painting <i>Gipsy Green.</i>
+<p>Một chữ lồng năm 1918 từ bức tranh của Tolkien <i>Gipsy Green.</i>
 </p>
 			</div></div>
 		</li>
@@ -157,7 +157,7 @@ Việc xuất bản *[The Hobbit](../T/The_Hobbit.md)* trong [1937](../_/1937.md
 		<li class="gallerybox" style="width: 82px">
 			<div class="thumb" style="width: 80px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/JRR_Tolkien_Mongoram_1937_2.png.md" title="An asymmetrical monogram from 1937&#39;s Trolls illustration."><img alt="An asymmetrical monogram from 1937&#39;s Trolls illustration." src="https://tolkiengateway.net/w/images/thumb/6/63/JRR_Tolkien_Mongoram_1937_2.png/120px-JRR_Tolkien_Mongoram_1937_2.png" decoding="async" loading="lazy" width="80" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/63/JRR_Tolkien_Mongoram_1937_2.png 1.5x" data-file-width="150" data-file-height="225"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 60px"><div class="gallerytext">
-<p>An asymmetrical monogram from 1937&#39;s <i>Trolls</i> illustration.
+<p>Một chữ lồng bất đối xứng từ hình minh họa <i>Trolls</i> năm 1937.
 </p>
 			</div></div>
 		</li>
@@ -171,22 +171,22 @@ Việc xuất bản *[The Hobbit](../T/The_Hobbit.md)* trong [1937](../_/1937.md
 		<li class="gallerybox" style="width: 125.33333333333px">
 			<div class="thumb" style="width: 123.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Monogram_1937_2.png.md" title="A 1937 Tolkien monogram that appeared on the dust jacket of The Hobbit."><img alt="A 1937 Tolkien monogram that appeared on the dust jacket of The Hobbit." src="https://tolkiengateway.net/w/images/thumb/4/42/J.R.R._Tolkien_Monogram_1937_2.png/185px-J.R.R._Tolkien_Monogram_1937_2.png" decoding="async" loading="lazy" width="124" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/42/J.R.R._Tolkien_Monogram_1937_2.png/278px-J.R.R._Tolkien_Monogram_1937_2.png 1.5x, https://tolkiengateway.net/w/images/4/42/J.R.R._Tolkien_Monogram_1937_2.png 2x" data-file-width="339" data-file-height="329"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 104px"><div class="gallerytext">
-<p>A 1937 Tolkien monogram that appeared on the dust jacket of <i>The Hobbit</i>.
+<p>Một chữ lồng Tolkien năm 1937 xuất hiện trên áo khoác bụi của <i>The Hobbit</i>.
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 82px">
 			<div class="thumb" style="width: 80px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Monogram_1937_3.png.md" title="A 1937 Tolkien monogram that is reminiscent of the &#34;modern&#34; monogram."><img alt="A 1937 Tolkien monogram that is reminiscent of the &#34;modern&#34; monogram." src="https://tolkiengateway.net/w/images/thumb/0/05/J.R.R._Tolkien_Monogram_1937_3.png/120px-J.R.R._Tolkien_Monogram_1937_3.png" decoding="async" loading="lazy" width="80" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/05/J.R.R._Tolkien_Monogram_1937_3.png/180px-J.R.R._Tolkien_Monogram_1937_3.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/05/J.R.R._Tolkien_Monogram_1937_3.png/240px-J.R.R._Tolkien_Monogram_1937_3.png 2x" data-file-width="258" data-file-height="387"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 60px"><div class="gallerytext">
-<p>A 1937 Tolkien monogram that is reminiscent of the &#34;modern&#34; monogram.
+<p>Một chữ lồng Tolkien năm 1937 gợi nhớ đến chữ lồng "hiện đại".
 </p>
 			</div></div>
 		</li>
 </ul>
 
-<h3><span id="Final_version_of_Tolkien.27s_monogram"></span><span class="mw-headline" id="Final_version_of_Tolkien&#39;s_monogram">Final version of Tolkien&#39;s monogram</span></h3>
+<h3><span id="Final_version_of_Tolkien.27s_monogram"></span><span class="mw-headline" id="Final_version_of_Tolkien&#39;s_monogram">Phiên bản cuối cùng của chữ lồng Tolkien</span></h3>
 
-<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/JRRT.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/JRRT.jpeg/123px-JRRT.jpeg" decoding="async" loading="lazy" width="123" height="184" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/7/7d/JRRT.jpeg 1.5x" data-file-width="159" data-file-height="238"/></a><figcaption>Final monogram.</figcaption></figure>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/JRRT.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/JRRT.jpeg/123px-JRRT.jpeg" decoding="async" loading="lazy" width="123" height="184" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/7/7d/JRRT.jpeg 1.5x" data-file-width="159" data-file-height="238"/></a><figcaption>Chữ lồng cuối cùng.</figcaption></figure>
 
 Phiên bản cuối cùng của chữ lồng Tolkien xuất hiện trong [1976](../_/1976.md) trên trang tiêu đề của <i><a class="mw-redirect mw-disambig" href="../D/Drawings_by_Tolkien.md" title="Drawings by Tolkien">Các bức vẽ của Tolkien</a></i>, danh mục triển lãm J.R.R. Tolkien cùng tên. Cuộc triển lãm được tổ chức bởi Bảo tàng Ashmolean, Oxford, từ năm 1976 đến [1977](../_/1977.md). Điều kỳ lạ là chữ lồng đã bị đảo ngược theo chiều ngang, đây có thể là lỗi của nhà in sản xuất danh mục.
 
@@ -198,21 +198,21 @@ Hai nhóm bốn dấu chấm đã được thêm vào nhưng được sử dụn
 		<li class="gallerybox" style="width: 99.333333333333px">
 			<div class="thumb" style="width: 97.333333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Monogram_1976.png.md" title="The inverted 1976 Tolkien monogram from Drawings by Tolkien."><img alt="The inverted 1976 Tolkien monogram from Drawings by Tolkien." src="https://tolkiengateway.net/w/images/thumb/f/fe/J.R.R._Tolkien_Monogram_1976.png/146px-J.R.R._Tolkien_Monogram_1976.png" decoding="async" loading="lazy" width="98" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fe/J.R.R._Tolkien_Monogram_1976.png/220px-J.R.R._Tolkien_Monogram_1976.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/fe/J.R.R._Tolkien_Monogram_1976.png/293px-J.R.R._Tolkien_Monogram_1976.png 2x" data-file-width="608" data-file-height="747"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 78px"><div class="gallerytext">
-<p>The inverted 1976 Tolkien monogram from <i><a class="mw-redirect mw-disambig" href="../D/Drawings_by_Tolkien.md" title="Drawings by Tolkien">Drawings by Tolkien</a></i>.
+<p>Chữ lồng Tolkien 1976 đảo ngược từ <i><a class="mw-redirect mw-disambig" href="../D/Drawings_by_Tolkien.md" title="Drawings by Tolkien">Drawings by Tolkien</a></i>.
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 63.333333333333px">
 			<div class="thumb" style="width: 61.333333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Monogram_1980.png.md" title="A 1980 Tolkien monogram on the spine of Unfinished Tales."><img alt="A 1980 Tolkien monogram on the spine of Unfinished Tales." src="https://tolkiengateway.net/w/images/thumb/b/b8/J.R.R._Tolkien_Monogram_1980.png/92px-J.R.R._Tolkien_Monogram_1980.png" decoding="async" loading="lazy" width="62" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b8/J.R.R._Tolkien_Monogram_1980.png/138px-J.R.R._Tolkien_Monogram_1980.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/b8/J.R.R._Tolkien_Monogram_1980.png/184px-J.R.R._Tolkien_Monogram_1980.png 2x" data-file-width="192" data-file-height="375"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 42px"><div class="gallerytext">
-<p>A 1980 Tolkien monogram on the spine of <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>.
+<p>Một chữ lồng Tolkien năm 1980 trên gáy của <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>.
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 84.666666666667px">
 			<div class="thumb" style="width: 82.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Monogram_1981.png.md" title="The final Tolkien monogram as it appeared on the cover of 1981&#39;s The Letters of J.R.R. Tolkien."><img alt="The final Tolkien monogram as it appeared on the cover of 1981&#39;s The Letters of J.R.R. Tolkien." src="https://tolkiengateway.net/w/images/thumb/e/e7/J.R.R._Tolkien_Monogram_1981.png/124px-J.R.R._Tolkien_Monogram_1981.png" decoding="async" loading="lazy" width="83" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e7/J.R.R._Tolkien_Monogram_1981.png/186px-J.R.R._Tolkien_Monogram_1981.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/e7/J.R.R._Tolkien_Monogram_1981.png/248px-J.R.R._Tolkien_Monogram_1981.png 2x" data-file-width="327" data-file-height="474"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 63px"><div class="gallerytext">
-<p>The final Tolkien monogram as it appeared on the cover of 1981&#39;s <i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>.
+<p>Chữ lồng Tolkien cuối cùng xuất hiện trên trang bìa của <i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i> năm 1981.
 </p>
 			</div></div>
 		</li>

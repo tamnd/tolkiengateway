@@ -57,7 +57,7 @@ Những Tiên tộc đã hoàn thành hành trình đến Aman – Vanyar, Noldo
 
 Sau [Tắt Valinor](../D/Darkening_of_Valinor.md), hầu hết Noldor quay trở lại Trung Địa với [Fëanor](../F/Fëanor.md) và một số vẫn ở đó cho đến hết [Kỷ Đệ Tam](../T/Third_Age.md). Những người này được gọi là **[Những người lưu vong](../E/Exile_of_the_Noldor.md)** và họ sống gần Sindar trong suốt thời gian còn lại ở Trung Địa. Những Sindar bị xúc phạm bởi tên gọi "Moriquendi", vì vậy những người lưu vong thường gọi họ là **[Úmanyar](../_/Úmanyar.md)** ("Những người không thuộc Aman"). Theo thời gian, việc sử dụng thuật ngữ này ngày càng bao gồm tất cả những người Tiên tộc đã bắt đầu trên Đại Hành Trình nhưng không hoàn thành nó. Những người lưu vong tự gọi họ và những người vẫn còn sống ở Valinor là **[Amanyar](../A/Amanyar.md)** ("Những người của Aman").
 
-<figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Sundering_of_the_Elves.svg.md"><img alt="A chart of the Sundering of the Elves" src="https://tolkiengateway.net/w/images/6/6a/The_Sundering_of_the_Elves.svg" decoding="async" loading="lazy" width="950" height="600" class="mw-file-element" data-file-width="2347" data-file-height="1483"/></a><figcaption>A chart of the Sundering of the Elves</figcaption></figure>
+<figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Sundering_of_the_Elves.svg.md"><img alt="A chart of the Sundering of the Elves" src="https://tolkiengateway.net/w/images/6/6a/The_Sundering_of_the_Elves.svg" decoding="async" loading="lazy" width="950" height="600" class="mw-file-element" data-file-width="2347" data-file-height="1483"/></a><figcaption>Biểu đồ phân chia Tiên tộc</figcaption></figure>
 
 ### Thingol {#Thingol}
 
@@ -95,7 +95,7 @@ Theo các nhà sử học Noldorin, tỷ lệ (trong số 144) Tiên tộc ngư�
 </th>
 <th colspan="2">Eldar
 </th>
-<th rowspan="2">Total
+<th rowspan="2">Tổng số
 </th></tr>
 <tr>
 <th>Úmanyar
@@ -124,7 +124,7 @@ Theo các nhà sử học Noldorin, tỷ lệ (trong số 144) Tiên tộc ngư�
 <td>74
 </td></tr>
 <tr>
-<th>Total</th>
+<th>Tổng số</th>
 <th>56</th>
 <th>26</th>
 <th>62</th>
@@ -140,15 +140,15 @@ Cũng trong khoảng thời gian đó, hoặc có lẽ sớm hơn (1959) Tolkien
 <table class="wikitable">
 <tbody><tr>
 <th>Scheme</th>
-<th>Total</th>
+<th>Tổng số</th>
 <th>Avari</th>
 <th>Vanyar</th>
 <th>Noldor</th>
 <th>Teleri</th>
-<th>Other
+<th>Khác
 </th></tr>
 <tr>
-<td>&#34;March&#34; unnamed<sup id="cite_ref-march_10-0" class="reference"><a href="#cite_note-march-10">[10]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:56</sup></td>
+<td>Tháng Ba không tên<sup id="cite_ref-march_10-0" class="reference"><a href="#cite_note-march-10">[10]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:56</sup></td>
 <td>15,000</td>
 <td>5,000</td>
 <td>1,000</td>
@@ -156,13 +156,13 @@ Cũng trong khoảng thời gian đó, hoặc có lẽ sớm hơn (1959) Tolkien
 <td>5,500
 </td></tr>
 <tr>
-<td>&#34;March&#34; unnamed<sup id="cite_ref-march_10-1" class="reference"><a href="#cite_note-march-10">[10]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:56</sup></td>
+<td>Tháng Ba không tên<sup id="cite_ref-march_10-1" class="reference"><a href="#cite_note-march-10">[10]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:56</sup></td>
 <td>29,000</td>
 <td>9,060 (~ 9000)</td>
 <td>2,000</td>
 <td>7,000</td>
 <td>11,000</td>
-<td>At <a href="../A/Atyamar.md" title="Atyamar">Atyamar</a> the total Eldar population was 28,000, with 13,000 Teleri, of which 3,000 became <a href="../N/Nandor.md" title="Nandor">Nandor</a>
+<td>Tại <a href="../A/Atyamar.md" title="Atyamar">Ayamar</a> tổng dân số Eldar là 28.000 người, với 13.000 Teleri, trong đó 3.000 trở thành <a href="../N/Nandor.md" title="Nandor">Nandor</a>
 </td></tr>
 <tr>
 <td>&#34;Increase&#34; Text 1<sup id="cite_ref-increase_11-0" class="reference"><a href="#cite_note-increase-11">[11]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:108</sup></td>
@@ -171,7 +171,7 @@ Cũng trong khoảng thời gian đó, hoặc có lẽ sớm hơn (1959) Tolkien
 <td>2,100</td>
 <td>8,400</td>
 <td>11,100</td>
-<td>1/3 of Minyar become Avari
+<td>1/3 của Minyar trở thành Avari
 </td></tr>
 <tr>
 <td>&#34;Generation&#34; Scheme 1<sup id="cite_ref-generation_12-0" class="reference"><a href="#cite_note-generation-12">[12]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:123</sup></td>
@@ -183,7 +183,7 @@ Cũng trong khoảng thời gian đó, hoặc có lẽ sớm hơn (1959) Tolkien
 </td></tr>
 <tr>
 <td>&#34;Generation&#34; Scheme 2<sup id="cite_ref-generation_12-1" class="reference"><a href="#cite_note-generation-12">[12]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:123</sup></td>
-<td>48,232 (48,168 with losses)</td>
+<td>48.232 (48.168 có lỗ)</td>
 <td>16,056</td>
 <td>3,122 (3,100)</td>
 <td>12,488 (12,400)</td>
@@ -260,12 +260,12 @@ Cũng trong khoảng thời gian đó, hoặc có lẽ sớm hơn (1959) Tolkien
 <td style="font-size: 90%;"> <a href="../_/Úmanyar.md" title="Úmanyar">Úmanyar</a> · <a href="../A/Avari.md" title="Avari">Avari</a> <small><i>(<a href="../C/Cuind.md" title="Cuind">Cuind</a> · <a href="../H/Hwenti.md" title="Hwenti">Hwenti</a> · <a href="../K/Kindi.md" title="Kindi">Kindi</a> · <a href="../K/Kinn-lai.md" title="Kinn-lai">Kinn-lai</a> · <a href="../P/Penni.md" title="Penni">Penni</a> · <a href="../W/Windan.md" title="Windan">Windan</a>)</i></small>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">Generations:
+<th style="background:var(--tg-color-surface-3);" align="right">Các thế hệ:
 </th>
 <td style="font-size: 90%;"> <i><a href="../E/Eru-begotten.md" title="Eru-begotten">Eru-begotten</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=First-begotten&amp;action=edit&amp;redlink=1" title="First-begotten (page does not exist)">First-begotten</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Elves&amp;action=edit&amp;redlink=1" title="Third Elves (page does not exist)">Third Elves</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Younger_Elves&amp;action=edit&amp;redlink=1" title="Younger Elves (page does not exist)">Younger Elves</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Generations&amp;action=edit&amp;redlink=1" title="Generations (page does not exist)">further Generations</a></i>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><i>See also:</i>
+<th style="background:var(--tg-color-surface-3);" align="right"><i>Xem thêm:</i>
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Awakening_of_the_Elves.md" title="Awakening of the Elves">Awakening of the Elves</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Finding_by_Orom%C3%AB&amp;action=edit&amp;redlink=1" title="Finding by Oromë (page does not exist)">Finding by Oromë</a></i> · <i><a class="mw-selflink selflink">Sundering of the Elves</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Three_Ambassadors&amp;action=edit&amp;redlink=1" title="Three Ambassadors (page does not exist)">Embassy</a></i> · <i><a href="../G/Great_Journey.md" title="Great Journey">Great Journey</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Dark_Years_of_the_Avari&amp;action=edit&amp;redlink=1" title="Dark Years of the Avari (page does not exist)">Dark Years of the Avari</a></i>
 </td></tr></tbody></table>

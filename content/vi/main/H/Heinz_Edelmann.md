@@ -28,7 +28,7 @@ infobox:
     value: "July 21, 2009"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Heinz Edelmann</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/20_June.md" title="20 June">June 20</a>, <a href="../_/1934.md" title="1934">1934</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="../_/21_July.md" title="21 July">July 21</a>, <a href="../_/2009.md" title="2009">2009</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Heinz Edelmann</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/20_June.md" title="20 June">June 20</a>, <a href="../_/1934.md" title="1934">1934</a></td></tr><tr><th scope="row" class="tg-infobox-label">Qua đời</th><td class="tg-infobox-data"><a href="../_/21_July.md" title="21 July">July 21</a>, <a href="../_/2009.md" title="2009">2009</a></td></tr></tbody></table>
 
 **Heinz Edelmann** ([20 tháng 6](../_/20_June.md), [1934](../_/1934.md)– [21 tháng 7](../_/21_July.md), [2009](../_/2009.md)) là một họa sĩ minh họa và nhà thiết kế đồ họa người Đức.
 

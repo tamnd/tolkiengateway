@@ -29,7 +29,7 @@ images:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>neek-breek, breek-neek
+<p>breek-neek, breek-neek
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../A/A_Knife_in_the_Dark.md" title="A Knife in the Dark">A Knife in the Dark</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -58,15 +58,15 @@ Có thể những sinh vật này có liên quan đến họ dế Gryllidae.<sup
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>In the <a href="../_/1994.md" title="1994">1994</a> <i>Creatures of Middle-earth: A Bestiary of Animals and Monsters</i> supplement, Neekerbreekers are &#34;relatives of the mosquito&#34; instead of the cricket and are described as solid meat carnivores that are 1-2 inches tall. Waybread and foul swamps attracts them. An illness called Yellow Rheum can be contracted by Neekerbreekers through bites.<sup id="cite_ref-merp_5-0" class="reference"><a href="#cite_note-merp-5">[5]</a></sup></dd></dl>
+<dl><dd>Trong phần bổ sung <a href="../_/1994.md" title="1994">1994</a> <i>Creatures of Middle-earth: A Bestiary of Animals and Monsters</i>, Neekerbreeker là "họ hàng của muỗi" thay vì dế và được mô tả là loài ăn thịt rắn cao 1-2 inch. Bánh mì và đầm lầy hôi hám thu hút chúng. Neekerbreekers có thể mắc một căn bệnh tên là Yellow Rheum qua vết cắn.<sup id="cite_ref-merp_5-0" class="reference"><a href="#cite_note-merp-5">[5]</a></sup></dd></dl>
 
 <b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Lord of the Rings: Trò chơi bài</a></i>:</b>
 
-<dl><dd>In a card set called <i>The Nîn-in-Eilph</i>, &#34;Neekerbreekers&#34; is the name of an enemy card that can cause a player to deal two damage to a controlled ally if used.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
+<dl><dd>Trong bộ bài có tên <i>The Nîn-in-Eilph</i>, "Neekerbreekers" là tên của một lá bài kẻ thù có thể khiến người chơi gây hai sát thương cho đồng minh bị điều khiển nếu sử dụng.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd><a class="external text" href="https://lotro-wiki.com/wiki/Neekerbreekers" rel="noreferrer noopener" target="_blank">Neekerbreekers</a> appear in many locations throughout <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>. While most appear hostile, one Neekerbreeker named <a class="external text" href="https://lotro-wiki.com/wiki/Sniken" rel="noreferrer noopener" target="_blank">Sniken</a> was taken as a pet by a <a href="../B/Bree-landers.md" title="Bree-landers">Bree-lander</a> named <a class="external text" href="https://lotro-wiki.com/wiki/Roderick_Neeker-friend" rel="noreferrer noopener" target="_blank">Roderik Neeker-friend</a>. Roderick <a class="external text" href="https://lotro-wiki.com/wiki/Quest:Neeker-friend" rel="noreferrer noopener" target="_blank">tasks</a> the player character with hunting sickle-fly wings to provide food for Sniken. When Roderick tries feeding the wings to Snicken, his hands are nearly purposefully bitten off.</dd></dl>
+<dl><dd><a class="external text" href="https://lotro-wiki.com/wiki/Neekerbreekers" rel="noreferrer noopener" target="_blank">Neekerbreekers</a> xuất hiện ở nhiều địa điểm trên khắp <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>. Trong khi hầu hết đều tỏ ra thù địch, một Neekerbreeker tên <a class="external text" href="https://lotro-wiki.com/wiki/Sniken" rel="noreferrer noopener" target="_blank">Sniken</a> đã bị <a href="../B/Bree-landers.md" title="Bree-landers">Bree-lander</a> tên là <a class="external text" href="https://lotro-wiki.com/wiki/Roderick_Neeker-friend" rel="noreferrer noopener" target="_blank">Roderik Neeker-friend</a> bắt làm thú cưng. Roderick <a class="external text" href="https://lotro-wiki.com/wiki/Quest:Neeker-friend" rel="noreferrer noopener" target="_blank">giao nhiệm vụ</a> cho nhân vật người chơi đi săn cánh liềm để cung cấp thức ăn cho Sniken. Khi Roderick cố gắng cho Snicken ăn đôi cánh, tay của ông gần như bị cố ý cắn đứt.</dd></dl>
 
 ## Liên kết ngoài {#External_links}
 

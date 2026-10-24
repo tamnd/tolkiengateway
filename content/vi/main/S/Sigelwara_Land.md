@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Sigelwara_Land"
 content_sha256: 1d38d461d820267ec57e18aeb122fa4907e3daf82ee4c2d716c059e83da3317d
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Linguistic essay by J.R.R. Tolkien"
+short_description: "Tiểu luận ngôn ngữ của J.R.R. Tolkien"
 categories:
   - "Published articles by J.R.R. Tolkien"
 hidden_categories:
@@ -22,7 +22,7 @@ hidden_categories:
 Tolkien thảo luận về các thành phần của từ *Sigelhearwan* và các dạng liên quan, như được tìm thấy trong các bản thảo tiếng Anh cổ. *Sigel* có thể có nghĩa là cả "mặt trời" và "viên ngọc", và mặc dù chưa rõ ý nghĩa của *hearwa* nhưng ông cho rằng nó có liên quan đến ma quỷ và bóng tối.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup> Tolkien viết rằng phân tích dự kiến ​​của ông cho thấy:
 
 <blockquote class="tg-quote noexcerpt">
-<p>[g]limpses are caught, if dim and confused, of the background of English and northern tradition and imagination [...] <i>Sigel</i> may be taken as a symbol of the intricate blending of the <a href="../L/Latin.md" title="Latin">Latin</a> and Northern which makes the study of Old English peculiarly interesting and controversial.
+<p>[g]khập khiễng bị bắt gặp, nếu mờ nhạt và bối rối, về nền tảng của truyền thống và trí tưởng tượng của người Anh và miền Bắc […] <i>Sigel</i> có thể được coi là biểu tượng của sự pha trộn phức tạp giữa <a href="../L/Latin.md" title="Latin">tiếng Latin</a> và tiếng Bắc, khiến cho việc nghiên cứu về tiếng Anh cổ trở nên đặc biệt thú vị và gây tranh cãi.
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></cite></p>
 </blockquote>

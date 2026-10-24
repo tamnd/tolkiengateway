@@ -32,7 +32,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/Kamila_Szutenberg_-_Gúthwinë.jpeg.md"><img src="https://tolkiengateway.net/w/images/d/dc/Kamila_Szutenberg_-_G%C3%BAthwin%C3%AB.jpeg" decoding="async" loading="lazy" width="236" height="199" class="mw-file-element" data-file-width="236" data-file-height="199"/></a><figcaption>&#34;Gúthwinë&#34; by <a href="../../category/I/Images_by_Kamila_Tzutenberg.md" title="Category:Images by Kamila Tzutenberg">Kamila Tzutenberg</a></figcaption></figure>
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(film_series)_-_Gúthwinë.jpg.md"><img src="https://tolkiengateway.net/w/images/e/eb/The_Lord_of_the_Rings_%28film_series%29_-_G%C3%BAthwin%C3%AB.jpg" decoding="async" loading="lazy" width="172" height="275" class="mw-file-element" data-file-width="172" data-file-height="275"/></a><figcaption><i>Gúthwinë</i> from <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> film series</a></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(film_series)_-_Gúthwinë.jpg.md"><img src="https://tolkiengateway.net/w/images/e/eb/The_Lord_of_the_Rings_%28film_series%29_-_G%C3%BAthwin%C3%AB.jpg" decoding="async" loading="lazy" width="172" height="275" class="mw-file-element" data-file-width="172" data-file-height="275"/></a><figcaption><i>Gúthwinë</i> từ <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> loạt phim</a></figcaption></figure>
 
 **Gúthwinë** là thanh kiếm của [Éomer](../_/Éomer.md).<sup id="cite_ref-Sortie_1-0" class="reference"><a href="#cite_note-Sortie-1">[1]</a></sup><sup id="cite_ref-Guthwine_2-0" class="reference"><a href="#cite_note-Guthwine-2">[2]</a></sup>
 
@@ -77,12 +77,12 @@ Tên *Gúthwinë* là [tiếng Anh cổ](../O/Old_English.md),<sup id="cite_ref-
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Weapons</a> in <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a>&#39;s <a href="../L/Legendarium.md" title="Legendarium">legendarium</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Vũ khí</a> trong <a href="../L/Legendarium.md" title="Legendarium">huyền thoại</a> của <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a></b>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"> <a href="../../category/A/Arrows.md" title="Category:Arrows">Arrows</a>:
 </th>
-<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Black arrow</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Red Arrow</a>
+<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Mũi tên đen</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Mũi tên đỏ</a>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/A/Axes.md" title="Category:Axes">Axes</a>:

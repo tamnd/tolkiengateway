@@ -22,7 +22,7 @@ infobox:
     value: "Artist"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>April Lee</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>April Lee</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nghệ sĩ</td></tr></tbody></table>
 
 **April Lee** là một nghệ sĩ. Vào những năm 1990, cô được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền để tạo tác phẩm nghệ thuật thẻ cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)* và minh họa cho phần bổ sung [The Shire](<../T/The_Shire_(book).md>).<sup id="cite_ref-CCGA_1-0" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup>
 

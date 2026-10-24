@@ -27,7 +27,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Atanatar</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Atanatar_(disambiguation).md" title="Atanatar (disambiguation)">Atanatar (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Atanatar</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Atanatar_(disambiguation).md" title="Atanatar (disambiguation)">Atanatar (định hướng)</a></b>.</div></div>
 
 **Atanatári** ([Q](../Q/Quenya.md), phát âm <span title="Pronunciation in IPA" class="IPA">[aˌtanaˈtaːri]</span>; số ít **Atanatar**, phát âm. <span title="Pronunciation in IPA" class="IPA">[aˈtanatar]</span>) là một thuật ngữ [Quenya](../Q/Quenya.md) có nghĩa là "Cha của [Men](../M/Men.md)", và là dùng để mô tả tổ tiên của [Edain](../E/Edain.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

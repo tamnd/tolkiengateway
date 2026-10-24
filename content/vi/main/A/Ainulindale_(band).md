@@ -26,9 +26,9 @@ infobox:
     value: "Thomas Reybard, Alice Jean, Adele Reybard"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Ainulindale_(band).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/84/Ainulindale_%28band%29.jpg/320px-Ainulindale_%28band%29.jpg" decoding="async" loading="lazy" width="320" height="163" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/84/Ainulindale_%28band%29.jpg/480px-Ainulindale_%28band%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/84/Ainulindale_%28band%29.jpg/640px-Ainulindale_%28band%29.jpg 2x" data-file-width="803" data-file-height="409"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ainulindale</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">France</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Dark Neo-folk/Ambient</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data"><a href="../_/2004.md" title="2004">2004</a>-present</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">Thomas Reybard, Alice Jean, Adele Reybard</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Ainulindale_(band).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/84/Ainulindale_%28band%29.jpg/320px-Ainulindale_%28band%29.jpg" decoding="async" loading="lazy" width="320" height="163" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/84/Ainulindale_%28band%29.jpg/480px-Ainulindale_%28band%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/84/Ainulindale_%28band%29.jpg/640px-Ainulindale_%28band%29.jpg 2x" data-file-width="803" data-file-height="409"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Ban nhạc</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ainulindale</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin nền</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nguồn gốc</th><td class="tg-infobox-data">France</td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Dark Neo-folk/Ambient</td></tr><tr><th scope="row" class="tg-infobox-label">Thời gian hoạt động</th><td class="tg-infobox-data"><a href="../_/2004.md" title="2004">2004</a>-hiện tại</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thành viên</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thành viên hiện tại</th><td class="tg-infobox-data">Thomas Reybard, Alice Jean, Adele Reybard</td></tr></tbody></table>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Ainulindalë</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Ainulindalë_(disambiguation).md" title="Ainulindalë (disambiguation)">Ainulindalë (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Ainulindalë</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Ainulindalë_(disambiguation).md" title="Ainulindalë (disambiguation)">Ainulindalë (định hướng)</a></b>.</div></div>
 
 **Ainulindale** là ban nhạc dân gian Pháp đã phát hành một album dài trong [2004](../_/2004.md), có tên là *[The Lay of Leithian](<../T/The_Lay_Of_Leithian_(album).md>)*. Album thứ hai mang tên *[Nevrast](<../N/Nevrast_(album).md>)* được phát hành vào năm 2014.
 
@@ -38,13 +38,13 @@ infobox:
 <tbody><tr>
 <th style="background:var(--tg-color-surface-5);">Release <br/>Date
 </th>
-<th style="background:var(--tg-color-surface-5);">Name
+<th style="background:var(--tg-color-surface-5);">Tên
 </th>
-<th style="background:var(--tg-color-surface-5);">Type
+<th style="background:var(--tg-color-surface-5);">Loại
 </th>
 <th style="background:var(--tg-color-surface-5);">Tracks
 </th>
-<th style="background:var(--tg-color-surface-5);">Length
+<th style="background:var(--tg-color-surface-5);">Chiều dài
 </th></tr>
 <tr>
 <td><a href="../_/2004.md" title="2004">2004</a>

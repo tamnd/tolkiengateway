@@ -38,7 +38,7 @@ Harlequin Games cũng xuất bản tạp chí *The One Ring* (tổng cộng 6 s�
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed <a class="extiw" href="http://en.wikipedia.org/wiki/Miniature_figure_(gaming)" title="wikipedia:Miniature figure (gaming)">miniatures</a> for gaming in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Miniature_figure_(gaming)" title="wikipedia:Miniature figure (gaming)">các tác phẩm thu nhỏ</a> được cấp phép để chơi game trong <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
 </td></tr>
 <tr>
 <td style="font-size: 90%;">  <b><a href="Heritage_Models.md" title="Heritage Models">Heritage Models</a></b> (<a href="../_/1978.md" title="1978">1978</a>)

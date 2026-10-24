@@ -31,13 +31,13 @@ images:
   - "Gallen_Kallela_Kullervos_Curse.jpg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Kalevala&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
-<p>...It is a long tale...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Kalevala&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
+<p>...Đó là một câu chuyện dài...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/K/Kalevala1.jpg.md"><img src="https://tolkiengateway.net/w/images/6/64/Kalevala1.jpg" decoding="async" loading="lazy" width="200" height="327" class="mw-file-element" data-file-width="200" data-file-height="327"/></a><figcaption><i>Kalevala</i>, First edition, 1835</figcaption></figure>
+<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/K/Kalevala1.jpg.md"><img src="https://tolkiengateway.net/w/images/6/64/Kalevala1.jpg" decoding="async" loading="lazy" width="200" height="327" class="mw-file-element" data-file-width="200" data-file-height="327"/></a><figcaption><i>Kalevala</i>, Ấn bản lần thứ nhất, 1835</figcaption></figure>
 
 <i><b>Kalevala</b></i> là một cuốn sách và bài thơ sử thi được [Elias Lönnrot](../E/Elias_Lönnrot.md) biên soạn từ [tiếng Phần Lan](../F/Finnish.md) và văn hóa dân gian Karelian vào thế kỷ 19. Nó được coi là sử thi quốc gia của Phần Lan và theo truyền thống được coi là một trong những tác phẩm quan trọng nhất của văn học Phần Lan.
 
@@ -52,7 +52,7 @@ Thần thoại Phần Lan, như được trình bày trong *Kalevala*, đã có 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Gallen_Kallela_Kullervos_Curse.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b4/Gallen_Kallela_Kullervos_Curse.jpg/300px-Gallen_Kallela_Kullervos_Curse.jpg" decoding="async" loading="lazy" width="300" height="537" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b4/Gallen_Kallela_Kullervos_Curse.jpg/450px-Gallen_Kallela_Kullervos_Curse.jpg 1.5x, https://tolkiengateway.net/w/images/b/b4/Gallen_Kallela_Kullervos_Curse.jpg 2x" data-file-width="473" data-file-height="847"/></a><figcaption>&#34;Kullervo&#39;s Curse&#34; by <a class="extiw" href="http://en.wikipedia.org/wiki/Akseli_Gallen-Kallela" title="wikipedia:Akseli Gallen-Kallela">Akseli Gallen-Kallela</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The germ of my attempt to write legends of my own to fit my private languages was the tragic tale of the hapless Kullervo in the Finnish <i>Kalevala</i>. It remains a major matter in the legends of the First Age (which I hope to publish as <i>The Silmarillion</i>)
+<p>Mầm mống của nỗ lực viết những truyền thuyết của riêng mình để phù hợp với ngôn ngữ riêng của tôi là câu chuyện bi thảm về Kullervo kém may mắn trong <i>Kalevala</i> của Phần Lan. Nó vẫn là một vấn đề quan trọng trong các truyền thuyết về Kỷ Đệ Nhất (mà tôi hy vọng sẽ xuất bản dưới tên <i>The Silmarillion</i>)
 </p>
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien, <a href="../L/Letter_257.md" title="Letter 257">Letter 257</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -60,12 +60,12 @@ Thần thoại Phần Lan, như được trình bày trong *Kalevala*, đã có 
 Một phần đáng kể của câu chuyện về [Túrin Turambar](../T/Túrin.md) bắt nguồn từ *Kalevala*, nơi đối thủ của Túrin là [Kullervo](Kullervo.md), con trai của Kalervo.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Kalervo xung đột với họ hàng của Untamo, và ngay sau đó một nhóm đàn ông tấn công Kalervo giết chết gia đình và đàn ông của ông ta, và chỉ có một cô hầu gái được tha mạng để làm nô lệ cho Untamo. Nhưng chẳng bao lâu, người giúp việc sinh ra Kullervo. Sau đó Kullervo được bán cho Ilmarinen, người mà ông ta sớm trốn thoát. Kullervo phát hiện ra rằng cha mẹ cô cũng còn sống và nghe được tin em gái anh đã biến mất. Kalervo phải đi đóng thuế cho gia đình, và trên đường trở về Kullervo gặp một thiếu nữ xinh đẹp và quyến rũ bà. Sau đó, cô nhận ra Kullervo chính là anh trai mình và vì xấu hổ, cô đã nhảy xuống thác ghềnh và chết đuối. Kullervo tuyệt vọng và tự hủy hoại bản thân trở về nhà và tấn công Untamo và giết chết ông ta. Sau khi giết người, ông ta nói chuyện với thanh kiếm của mình và nói rằng nó đã chảy rất nhiều máu vô tội, và nói với nó rằng bây giờ thanh kiếm cũng có thể chảy máu tội lỗi. Kiếm trả lời:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Thus his trusty sword makes answer,<br/>
-Well divining his intentions:<br/>
-&#39;Why should I not drink thy life-blood,<br/>
-Blood of guilty Kullerwoinen,<br/>
-Since I feast upon the worthy,<br/>
-Drink the life-blood of the righteous?&#39;
+<p>Thế là thanh kiếm đáng tin cậy của ông đã đưa ra câu trả lời,<br/>
+Đoán đúng ý định của ông rồi:<br/>
+'Sao tôi không nên uống máu sự sống của anh,<br/>
+Máu của tội lỗi Kullerwoinen,<br/>
+Vì tôi tiệc tùng những người xứng đáng,<br/>
+Uống máu sự sống của người công chính?'
 </p>
 <p class="tg-quote-footer"><cite>Canto XXXVI, vv.302-309</cite></p>
 </blockquote>

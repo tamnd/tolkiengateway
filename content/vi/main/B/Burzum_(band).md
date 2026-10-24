@@ -30,9 +30,9 @@ infobox:
     value: "Varg Vikernes - all instruments"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the band</b>. For the the word, see <b><a href="Burzum.md" title="Burzum">Burzum</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>ban nhạc</b>. Để biết từ này, hãy xem <b><a href="Burzum.md" title="Burzum">Burzum</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Burzum_Logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/65/Burzum_Logo.png/320px-Burzum_Logo.png" decoding="async" loading="lazy" width="320" height="58" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/65/Burzum_Logo.png 1.5x" data-file-width="427" data-file-height="78"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Bergen, Norway</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Black metal, dark ambient</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">1990-1999, 2009-present</td></tr><tr><th scope="row" class="tg-infobox-label">label</th><td class="tg-infobox-data">Deathlike Silence<br/>Cymophane<br/>Misanthropy<br/>Byelobog</td></tr><tr><th scope="row" class="tg-infobox-label">website</th><td class="tg-infobox-data"><a class="external text" href="http://www.burzum.org" rel="noreferrer noopener" target="_blank">burzum.org</a> <a class="external text" href="http://www.thuleanperspective.com" rel="noreferrer noopener" target="_blank">thuleanperspective.com</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Former Members</th><td class="tg-infobox-data">Varg Vikernes - all instruments</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Burzum_Logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/65/Burzum_Logo.png/320px-Burzum_Logo.png" decoding="async" loading="lazy" width="320" height="58" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/65/Burzum_Logo.png 1.5x" data-file-width="427" data-file-height="78"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Ban nhạc</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin nền</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nguồn gốc</th><td class="tg-infobox-data">Bergen, Norway</td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Kim loại đen, môi trường xung quanh tối</td></tr><tr><th scope="row" class="tg-infobox-label">Thời gian hoạt động</th><td class="tg-infobox-data">1990-1999, 2009-nay</td></tr><tr><th scope="row" class="tg-infobox-label">nhãn</th><td class="tg-infobox-data">Deathlike Silence<br/>Cymophane<br/>Misanthropy<br/>Byelobog</td></tr><tr><th scope="row" class="tg-infobox-label">trang web</th><td class="tg-infobox-data"><a class="external text" href="http://www.burzum.org" rel="noreferrer noopener" target="_blank">burzum.org</a> <a class="external text" href="http://www.thuleanperspective.com" rel="noreferrer noopener" target="_blank">thuleanperspective.com</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thành viên</span></th></tr><tr><th scope="row" class="tg-infobox-label">Cựu thành viên</th><td class="tg-infobox-data">Varg Vikernes - tất cả các nhạc cụ</td></tr></tbody></table>
 
 **Burzum** là một dự án kim loại đen do Varg Vikernes khởi xướng vào năm 1991, đi tiên phong trong bối cảnh kim loại đen thời kỳ đầu ở Na Uy. Tên *[Burzum](Burzum.md)* nằm trong [Hắc Ngữ](Black_Speech.md), có nghĩa là "bóng tối".
 
@@ -42,11 +42,11 @@ infobox:
 
 <table class="wikitable">
 <tbody><tr>
-<th>Title
+<th>Danh hiệu
 </th>
 <th>Recorded
 </th>
-<th>Released
+<th>Phát hành
 </th></tr>
 <tr>
 <td><i>Burzum</i></td>
@@ -54,7 +54,7 @@ infobox:
 <td>March 1992
 </td></tr>
 <tr>
-<td><i>Det som engang var</i></td>
+<td><i>Đó là một điều gì đó</i></td>
 <td>April 1992</td>
 <td>August 1993
 </td></tr>
@@ -70,12 +70,12 @@ infobox:
 </td></tr>
 <tr>
 <td><i>Dauði Baldrs</i></td>
-<td>1994-1995 (in prison)</td>
+<td>1994-1995 (trong tù)</td>
 <td>October 1997
 </td></tr>
 <tr>
 <td><i>Hliðskjálf</i></td>
-<td>1998 (in prison)</td>
+<td>1998 (trong tù)</td>
 <td>April 1999
 </td></tr>
 <tr>

@@ -44,7 +44,7 @@ Trong bức vẽ không có tiêu đề Helm's Deep của J.R.R. Tolkien đườ
 
 <b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Deeping-stream originates inside the <a href="../G/Glittering_Caves.md" title="Glittering Caves">Glittering Caves</a> and forms a small pool with an island in the middle before flowing out through the <a href="Deeping_Wall.md" title="Deeping Wall">Deeping Wall</a>. After flowing into <a href="../W/Westfold.md" title="Westfold">Westfold</a>, the stream turns east and joins the river <i>Swiftwater</i>, originating in the <a href="../W/White_Mountains.md" title="White Mountains">White Mountains</a>, before eventually flowing into <a href="../E/Entwash.md" title="Entwash">Entwash</a>.</dd></dl>
+<dl><dd>Dòng Nước Sâu bắt nguồn từ bên trong <a href="../G/Glittering_Caves.md" title="Glittering Caves">Hang Động Lấp Lánh</a> và tạo thành một vực nhỏ có hòn đảo ở giữa trước khi chảy ra qua <a href="Deeping_Wall.md" title="Deeping Wall">Tường Nước Sâu</a>. Sau khi chảy vào <a href="../W/Westfold.md" title="Westfold">Westfold</a>, dòng suối quay về phía đông và nhập vào sông <i>Swiftwater</i>, bắt nguồn từ <a href="../W/White_Mountains.md" title="White Mountains">Dãy Núi Trắng</a>, trước khi cuối cùng chảy vào <a href="../E/Entwash.md" title="Entwash">Entwash</a>.</dd></dl>
 
 <span></span>
 

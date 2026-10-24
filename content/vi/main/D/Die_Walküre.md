@@ -20,7 +20,7 @@ images:
   - "Die_Walküre.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Die_Walküre.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b4/Die_Walk%C3%BCre.jpg/300px-Die_Walk%C3%BCre.jpg" decoding="async" loading="lazy" width="300" height="435" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b4/Die_Walk%C3%BCre.jpg/450px-Die_Walk%C3%BCre.jpg 1.5x, https://tolkiengateway.net/w/images/b/b4/Die_Walk%C3%BCre.jpg 2x" data-file-width="472" data-file-height="685"/></a><figcaption><small>Title page art from 1899</small></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Die_Walküre.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b4/Die_Walk%C3%BCre.jpg/300px-Die_Walk%C3%BCre.jpg" decoding="async" loading="lazy" width="300" height="435" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b4/Die_Walk%C3%BCre.jpg/450px-Die_Walk%C3%BCre.jpg 1.5x, https://tolkiengateway.net/w/images/b/b4/Die_Walk%C3%BCre.jpg 2x" data-file-width="472" data-file-height="685"/></a><figcaption><small>Hình ảnh trang tiêu đề từ năm 1899</small></figcaption></figure>
 
 <i><b>Die Walküre</b></i> là vở opera thứ hai trong số bốn vở opera bao gồm *[Der Ring des Nibelungen](Der_Ring_des_Nibelungen.md)* ("The Ring of the Nibelung") của [Richard Wagner](../R/Richard_Wagner.md).
 

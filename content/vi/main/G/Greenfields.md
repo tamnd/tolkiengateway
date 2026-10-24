@@ -33,7 +33,7 @@ Vào năm [S.R.](../S/Shire_Reckoning.md) [1147](../T/Third_Age_2747.md) đã x�
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Greenfields are a large open plain in the north-western corner of the Shire region.</dd></dl>
+<dl><dd>Greenfields là một vùng đồng bằng rộng lớn ở góc tây bắc của vùng Shire.</dd></dl>
 
 <span></span>
 

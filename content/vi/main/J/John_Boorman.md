@@ -27,7 +27,7 @@ images:
 ## Trích dẫn {#Quotes}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I met <a href="J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a> when I was preparing the film and he asked me if the film would be live-action or animated; he was relieved we weren&#39;t animating the film. Well, we all know what subsequently happened with <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">Ralph Bakshi&#39;s version</a> of Lord of the Rings which was animated.
+<p>Tôi gặp <a href="J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a> khi đang chuẩn bị làm phim và ông hỏi tôi rằng phim sẽ là live-action hay hoạt hình; ông cảm thấy nhẹ nhõm vì chúng tôi không làm hoạt hình cho bộ phim. Chà, tất cả chúng ta đều biết điều gì sau đó đã xảy ra với <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">phiên bản hoạt hình Chúa tể những chiếc nhẫn</a> của Ralph Bakshi.
 </p>
 <p class="tg-quote-footer"><cite>John Boorman<sup id="cite_ref-Wired_1-0" class="reference"><a href="#cite_note-Wired-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

@@ -60,14 +60,14 @@ infobox:
     value: "Publication History and Gallery"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Hobbit</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Hobbit_(disambiguation).md" title="The Hobbit (disambiguation)">The Hobbit (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Hobbit</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Hobbit_(disambiguation).md" title="The Hobbit (disambiguation)">The Hobbit (disambiguation)</a></b>.</div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>There and Back Again</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="There_and_Back_Again_(disambiguation).md" title="There and Back Again (disambiguation)">There and Back Again (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Cái tên <b>There and Back Again</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="There_and_Back_Again_(disambiguation).md" title="There and Back Again (disambiguation)">There and Back Again (định hướng)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_2016-facsimile.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e4/The_Hobbit_2016-facsimile.jpeg/320px-The_Hobbit_2016-facsimile.jpeg" decoding="async" loading="lazy" width="320" height="444" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e4/The_Hobbit_2016-facsimile.jpeg/480px-The_Hobbit_2016-facsimile.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e4/The_Hobbit_2016-facsimile.jpeg/640px-The_Hobbit_2016-facsimile.jpeg 2x" data-file-width="1117" data-file-height="1551"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Hobbit,<br/><small>or There and Back Again</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">J.R.R. Tolkien</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/George_Allen_&amp;_Unwin.md" title="George Allen &amp; Unwin">George Allen &amp; Unwin</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/21_September.md" title="21 September">21 September</a> <a href="../_/1937.md" title="1937">1937</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback; deluxe-edition; audio-book</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">312</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a> (1954-55)</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="The_Hobbit%252FPublication_history_and_gallery.md" title="The Hobbit/Publication history and gallery">Publication History and Gallery</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_2016-facsimile.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e4/The_Hobbit_2016-facsimile.jpeg/320px-The_Hobbit_2016-facsimile.jpeg" decoding="async" loading="lazy" width="320" height="444" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e4/The_Hobbit_2016-facsimile.jpeg/480px-The_Hobbit_2016-facsimile.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e4/The_Hobbit_2016-facsimile.jpeg/640px-The_Hobbit_2016-facsimile.jpeg 2x" data-file-width="1117" data-file-height="1551"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Hobbit,<br/><small>or There and Back Again</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Họa sĩ minh họa</th><td class="tg-infobox-data">J.R.R. Tolkien</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/George_Allen_&amp;_Unwin.md" title="George Allen &amp; Unwin">George Allen &amp; Unwin</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/21_September.md" title="21 September">21 September</a> <a href="../_/1937.md" title="1937">1937</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Bìa cứng; bìa mềm; phiên bản cao cấp; sách nói</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">312</td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a> (1954-55)</td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="The_Hobbit%252FPublication_history_and_gallery.md" title="The Hobbit/Publication history and gallery">Publication History and Gallery</a></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>In a hole in the ground there lived a hobbit.
+<p>Trong một cái hố trên mặt đất có một người hobbit sống.
 </p>
 <p class="tg-quote-footer"><cite><i>The Hobbit</i>, &#34;<a href="../A/An_Unexpected_Party.md" title="An Unexpected Party">An Unexpected Party</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -82,35 +82,35 @@ Câu chuyện được kể dưới dạng một cuộc hành trình được ch
 
 Trên trang tiêu đề có một dòng chữ được viết bằng ký tự [Cirth](../C/Cirth.md), nội dung như sau:
 
-<dl><dd>&#34;<i>The Hobbit or There and Back Again, being the record of a year&#39;s journey made by Bilbo Baggins of Hobbiton; compiled from his memoirs by J.R.R. Tolkien and published by George Allen &amp; Unwin Ltd.</i>&#34;<sup id="cite_ref-l12_1-0" class="reference"><a href="#cite_note-l12-1">[1]</a></sup></dd></dl>
+<dl><dd>"<i>The Hobbit or There and Back Again, being the record of a year&#39;s journey made by Bilbo Baggins of Hobbiton; compiled from his memoirs by J.R.R. Tolkien and published by George Allen &amp; Unwin Ltd.</i>"<sup id="cite_ref-l12_1-0" class="reference"><a href="#cite_note-l12-1">[1]</a></sup></dd></dl>
 
 ## Tóm tắt {#Synopsis}
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin-left:15px; border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a class="mw-selflink selflink">The Hobbit</a></i> chapters
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a class="mw-selflink selflink">The Hobbit</a></i> chương
 </th></tr>
 <tr>
 <td>
 <dl><dd><dl><dd>[<a href="The_Hobbit_Preface.md" title="The Hobbit Preface">Author&#39;s Note</a>]<br/></dd></dl></dd></dl>
-<ol><li><a href="../A/An_Unexpected_Party.md" title="An Unexpected Party">An Unexpected Party</a></li>
+<ol><li><a href="../A/An_Unexpected_Party.md" title="An Unexpected Party">Cuộc gặp gỡ bất ngờ</a></li>
 <li><a href="../R/Roast_Mutton.md" title="Roast Mutton">Roast Mutton</a></li>
 <li><a href="../A/A_Short_Rest.md" title="A Short Rest">A Short Rest</a></li>
-<li><a href="../O/Over_Hill_and_Under_Hill.md" title="Over Hill and Under Hill">Over Hill and Under Hill</a></li>
-<li><a href="../R/Riddles_in_the_Dark.md" title="Riddles in the Dark">Riddles in the Dark</a></li>
-<li><a href="../O/Out_of_the_Frying-Pan_into_the_Fire.md" title="Out of the Frying-Pan into the Fire">Out of the Frying-Pan into the Fire</a></li>
+<li><a href="../O/Over_Hill_and_Under_Hill.md" title="Over Hill and Under Hill">Qua đồi và dưới đồi</a></li>
+<li><a href="../R/Riddles_in_the_Dark.md" title="Riddles in the Dark">Những câu đố trong bóng tối</a></li>
+<li><a href="../O/Out_of_the_Frying-Pan_into_the_Fire.md" title="Out of the Frying-Pan into the Fire">Từ chảo rán vào lửa</a></li>
 <li><a href="../Q/Queer_Lodgings.md" title="Queer Lodgings">Queer Lodgings</a></li>
-<li><a href="../F/Flies_and_Spiders.md" title="Flies and Spiders">Flies and Spiders</a></li>
+<li><a href="../F/Flies_and_Spiders.md" title="Flies and Spiders">Ruồi và nhện</a></li>
 <li><a href="../B/Barrels_Out_of_Bond.md" title="Barrels Out of Bond">Barrels Out of Bond</a></li>
 <li><a href="../A/A_Warm_Welcome.md" title="A Warm Welcome">A Warm Welcome</a></li>
 <li><a href="../O/On_the_Doorstep.md" title="On the Doorstep">On the Doorstep</a></li>
-<li><a href="../I/Inside_Information.md" title="Inside Information">Inside Information</a></li>
+<li><a href="../I/Inside_Information.md" title="Inside Information">Thông tin nội bộ</a></li>
 <li><a href="../N/Not_at_Home.md" title="Not at Home">Not at Home</a></li>
-<li><a href="../F/Fire_and_Water.md" title="Fire and Water">Fire and Water</a></li>
-<li><a href="The_Gathering_of_the_Clouds.md" title="The Gathering of the Clouds">The Gathering of the Clouds</a></li>
-<li><a href="../A/A_Thief_in_the_Night.md" title="A Thief in the Night">A Thief in the Night</a></li>
-<li><a href="The_Clouds_Burst.md" title="The Clouds Burst">The Clouds Burst</a></li>
-<li><a href="The_Return_Journey.md" title="The Return Journey">The Return Journey</a></li>
+<li><a href="../F/Fire_and_Water.md" title="Fire and Water">Lửa và Nước</a></li>
+<li><a href="The_Gathering_of_the_Clouds.md" title="The Gathering of the Clouds">Mây tụ</a></li>
+<li><a href="../A/A_Thief_in_the_Night.md" title="A Thief in the Night">Tên trộm trong đêm</a></li>
+<li><a href="The_Clouds_Burst.md" title="The Clouds Burst">Mây tan</a></li>
+<li><a href="The_Return_Journey.md" title="The Return Journey">Hành trình trở về</a></li>
 <li><a href="The_Last_Stage.md" title="The Last Stage">The Last Stage</a></li></ol>
 </td></tr></tbody></table>
 
@@ -132,9 +132,9 @@ Bilbo chỉ chấp nhận một phần nhỏ trong phần kho báu thuộc về 
 
 <div style="-moz-column-width: 300px; -webkit-column-width: 300px; column-width: 300px; -moz-column-gap: 15px; -webkit-column-gap: 15px; column-gap: 15px; -webkit-column-rule: 1px solid #cccccc; -moz-column-rule: 1px solid #cccccc; column-rule: 1px solid #cccccc;">
 <ol><li><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a></li>
-<li><a href="../B/Belladonna_Took.md" title="Belladonna Took">Belladonna Took</a> (mentioned only)</li>
-<li><a href="../B/Bungo_Baggins.md" title="Bungo Baggins">Bungo Baggins</a> (mentioned only)</li>
-<li><a href="../G/Gerontius_Took.md" title="Gerontius Took">Old Took</a> (mentioned only)</li>
+<li><a href="../B/Belladonna_Took.md" title="Belladonna Took">Belladonna Took</a> (chỉ được đề cập)</li>
+<li><a href="../B/Bungo_Baggins.md" title="Bungo Baggins">Bungo Baggins</a> (chỉ được đề cập)</li>
+<li><a href="../G/Gerontius_Took.md" title="Gerontius Took">Old Took</a> (chỉ được đề cập)</li>
 <li><a href="../G/Gandalf.md" title="Gandalf">Gandalf the Grey</a></li>
 <li><a href="Thorin.md" title="Thorin">Thorin Oakenshield</a></li>
 <li><a href="../D/Dwalin.md" title="Dwalin">Dwalin</a></li>
@@ -150,37 +150,37 @@ Bilbo chỉ chấp nhận một phần nhỏ trong phần kho báu thuộc về 
 <li><a href="../B/Bofur.md" title="Bofur">Bofur</a></li>
 <li><a href="../B/Bombur.md" title="Bombur">Bombur</a></li>
 <li><a href="../S/Smaug.md" title="Smaug">Smaug</a></li>
-<li><a href="Thráin.md" title="Thráin">Thráin</a> (mentioned only)</li>
-<li><a href="Thrór.md" title="Thrór">Thrór</a> (mentioned only)</li>
-<li><a href="Thráin_I.md" title="Thráin I">Thráin I</a> (mentioned only)</li>
-<li><a href="../A/Azog.md" title="Azog">Azog</a> (mentioned only)</li>
-<li><a href="../B/Bandobras_Took.md" title="Bandobras Took">Bullroarer Took</a> (mentioned only)</li>
-<li><a href="../G/Golfimbul.md" title="Golfimbul">Golfimbul</a> (mentioned only)</li>
+<li><a href="Thráin.md" title="Thráin">Thráin</a> (chỉ được đề cập)</li>
+<li><a href="Thrór.md" title="Thrór">Thrór</a> (chỉ được đề cập)</li>
+<li><a href="Thráin_I.md" title="Thráin I">Thráin I</a> (chỉ được đề cập)</li>
+<li><a href="../A/Azog.md" title="Azog">Azog</a> (chỉ được đề cập)</li>
+<li><a href="../B/Bandobras_Took.md" title="Bandobras Took">Bullroarer đã bắt</a> (chỉ được đề cập)</li>
+<li><a href="../G/Golfimbul.md" title="Golfimbul">Golfimbul</a> (chỉ được đề cập)</li>
 <li><a class="mw-redirect" href="../W/William.md" title="William">William</a></li>
 <li><a class="mw-redirect mw-disambig" href="Tom.md" title="Tom">Tom</a></li>
 <li><a class="mw-redirect" href="../B/Bert.md" title="Bert">Bert</a></li>
 <li><a href="../E/Elrond.md" title="Elrond">Elrond</a></li>
-<li><a class="mw-redirect mw-disambig" href="../D/Durin.md" title="Durin">Durin</a> (mentioned only)</li>
+<li><a class="mw-redirect mw-disambig" href="../D/Durin.md" title="Durin">Durin</a> (chỉ được đề cập)</li>
 <li><a href="../G/Great_Goblin.md" title="Great Goblin">The Great Goblin</a></li>
 <li><a href="../G/Gollum.md" title="Gollum">Gollum</a></li>
-<li><a class="mw-redirect" href="../W/Warg.md" title="Warg">Wargs</a></li>
+<li><a class="mw-redirect" href="../W/Warg.md" title="Warg">Warg</a></li>
 <li><a href="../G/Great_Eagle.md" title="Great Eagle">The Lord of the Eagles</a></li>
 <li><a href="../B/Beorn.md" title="Beorn">Beorn</a></li>
-<li><a href="../R/Radagast.md" title="Radagast">Radagast the Brown</a> (mentioned only)</li>
+<li><a href="../R/Radagast.md" title="Radagast">Radagast the Brown</a> (chỉ được đề cập)</li>
 <li><a href="Thranduil.md" title="Thranduil">The Elvenking</a></li>
 <li><a href="../G/Galion.md" title="Galion">Galion</a></li>
 <li><a href="../B/Bard.md" title="Bard">Bard the Bowman</a></li>
-<li><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a></li>
-<li><a href="../G/Girion.md" title="Girion">Girion of Dale</a> (mentioned only)</li>
-<li><a href="../C/Carc.md" title="Carc">Carc</a> (mentioned only)</li>
+<li><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Chủ nhân Thị trấn Hồ</a></li>
+<li><a href="../G/Girion.md" title="Girion">Girion trong số Dale</a> (chỉ được đề cập)</li>
+<li><a href="../C/Carc.md" title="Carc">Carc</a> (chỉ được đề cập)</li>
 <li><a href="../R/Roäc.md" title="Roäc">Roäc</a></li>
-<li><a href="../D/Dáin_Ironfoot.md" title="Dáin Ironfoot">Dáin Ironfoot</a></li>
+<li><a href="../D/Dáin_Ironfoot.md" title="Dáin Ironfoot">Dáin Chân Sắt</a></li>
 <li><a href="../B/Bolg.md" title="Bolg">Bolg</a></li></ol>
 </div>
 
 ## Minh họa {#Illustrations}
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Thror&#39;s_map_(Clean).png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/33/J.R.R._Tolkien_-_Thror%27s_map_%28Clean%29.png/200px-J.R.R._Tolkien_-_Thror%27s_map_%28Clean%29.png" decoding="async" loading="lazy" width="200" height="153" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/33/J.R.R._Tolkien_-_Thror%27s_map_%28Clean%29.png/300px-J.R.R._Tolkien_-_Thror%27s_map_%28Clean%29.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/33/J.R.R._Tolkien_-_Thror%27s_map_%28Clean%29.png/400px-J.R.R._Tolkien_-_Thror%27s_map_%28Clean%29.png 2x" data-file-width="5716" data-file-height="4372"/></a><figcaption><i><a href="../../file/J/J.R.R._Tolkien_-_Thror&#39;s_map.jpg.md" title="File:J.R.R. Tolkien - Thror&#39;s map.jpg">Thror&#39;s map</a></i> by J.R.R. Tolkien</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Thror&#39;s_map_(Clean).png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/33/J.R.R._Tolkien_-_Thror%27s_map_%28Clean%29.png/200px-J.R.R._Tolkien_-_Thror%27s_map_%28Clean%29.png" decoding="async" loading="lazy" width="200" height="153" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/33/J.R.R._Tolkien_-_Thror%27s_map_%28Clean%29.png/300px-J.R.R._Tolkien_-_Thror%27s_map_%28Clean%29.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/33/J.R.R._Tolkien_-_Thror%27s_map_%28Clean%29.png/400px-J.R.R._Tolkien_-_Thror%27s_map_%28Clean%29.png 2x" data-file-width="5716" data-file-height="4372"/></a><figcaption><i><a href="../../file/J/J.R.R._Tolkien_-_Thror&#39;s_map.jpg.md" title="File:J.R.R. Tolkien - Thror&#39;s map.jpg">Thror&#39;s map</a></i> bởi J.R.R. Tolkien</figcaption></figure>
 
 Tất cả các phiên bản của \*The Hobbit\* đều có hai bản đồ:
 
@@ -202,16 +202,16 @@ Tolkien đã sáng tác thêm các hình minh họa màu bổ sung cho ấn bả
 
 ## Sự thụ thai {#Conception}
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_(II).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d8/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28II%29.jpg/200px-J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28II%29.jpg" decoding="async" loading="lazy" width="200" height="229" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d8/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28II%29.jpg/300px-J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28II%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d8/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28II%29.jpg/400px-J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28II%29.jpg 2x" data-file-width="1924" data-file-height="2206"/></a><figcaption><i>Bilbo comes to the Huts of the Raft-elves</i> by J.R.R. Tolkien</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_(II).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d8/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28II%29.jpg/200px-J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28II%29.jpg" decoding="async" loading="lazy" width="200" height="229" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d8/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28II%29.jpg/300px-J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28II%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d8/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28II%29.jpg/400px-J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28II%29.jpg 2x" data-file-width="1924" data-file-height="2206"/></a><figcaption><i>Bilbo đến Lều Bè-Tiên tộc</i> bởi J.R.R. Tolkien</figcaption></figure>
 
 Tolkien nhớ lại trong một bức thư năm 1955 gửi [W\.H. Auden](../W/W.H._Auden.md) (*Letters*, [số 163](../L/Letter_163.md)) rằng, vào cuối những năm 1920, khi ông là giáo sư ngành [Anglo-Saxon](../O/Old_English.md) tại [Pembroke College](../P/Pembroke_College.md), *The Hobbit* bắt đầu hình thành khi ông đang chấm các bài thi lấy chứng chỉ trung học. Ở mặt sau của một bài thi, ông viết dòng chữ "In a hole in the ground, there lived a hobbit" ("Trong một cái hố dưới lòng đất, có một Hobbit sinh sống"). Câu ấy dần phát triển thành một câu chuyện giống những câu chuyện ông thường sáng tác cho các con. Khi ấy, ông không viết thêm gì nữa, mặc dù trong những năm tiếp theo, ông đã vẽ bản đồ của Thrór, phác họa địa lý của câu chuyện.
 
 Bản thân câu chuyện được Tolkien viết vào đầu những năm 1930. Câu chuyện được con trai cả của ông, [John](../J/John_Tolkien.md) (13 tuổi), yêu thích hơn các con nhỏ. Các đồng nghiệp của ông ở Oxford cũng "ép" ông cho họ mượn bản thảo để đọc.<sup id="cite_ref-l15_2-1" class="reference"><a href="#cite_note-l15-2">[2]</a></sup> Khi mới bốn hoặc năm tuổi, cậu bé [Christopher](../C/Christopher_Tolkien.md) đã chú ý đến tính nhất quán:
 
 <blockquote class="tg-quote noexcerpt">
-<p>[O]n one occasion I interrupted: &#39;Last time, you said Bilbo&#39;s front door was blue, and you said Thorin had a golden tassel on his hood, but you&#39;ve just said that Bilbo&#39;s front door was green and that Thorin&#39;s hood was silver&#39;; at which point my father muttered &#39;Damn the boy,&#39; and then &#39;strode across the room&#39; to his desk to make a note.
+<p>[O]có một lần tôi ngắt lời: 'Lần trước anh nói cửa trước của Bilbo màu xanh lam, và anh nói Thorin có một tua vàng trên mui xe, nhưng anh vừa nói rằng cửa trước của Bilbo màu xanh lá cây và mui xe của Thorin màu bạc'; lúc đó bố tôi lẩm bẩm 'Thằng nhóc chết tiệt' rồi 'bước ngang qua phòng' đến bàn làm việc của ông để ghi chú.
 </p>
-<p class="tg-quote-footer"><cite>Christopher Tolkien, foreword to The Hobbit</cite></p>
+<p class="tg-quote-footer"><cite>Christopher Tolkien, lời tựa The Hobbit</cite></p>
 </blockquote>
 
 Cuối cùng, tác phẩm được xuất bản vì Tolkien đã cho Mẹ Bề trên của Cherwell Edge mượn khi bà bị cúm;<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> ông cũng đã gửi tác phẩm cho học trò cũ của mình là [Elaine Griffiths](../E/Elaine_Griffiths.md), người đang lưu trú tại ký túc xá nữ Cherwell Edge. Học trò của bà, Susan Dagnall, làm việc tại văn phòng Allen &amp; Unwin, đã nhìn thấy bản thảo. Chính cậu con trai 10 tuổi của Ngài Stanley Unwin, [Rayner Unwin](../R/Rayner_Unwin.md), đã viết một bài nhận xét cuốn sách đầy nhiệt tình, góp phần khiến sách được xuất bản bởi [Allen &amp; Unwin](../A/Allen_&_Unwin.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Đến [tháng 1](../J/January.md) năm [1937](../_/1937.md), Tolkien đã trao đổi thư từ với Allen &amp; Unwin (đơn vị này cũng bày tỏ sự quan tâm đến *[Mr. Bliss](../M/Mr._Bliss.md)*), và ông phải vẽ lại các bản đồ.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Vào tháng 2, ông chấp thuận việc giảm số lượng hình minh họa của mình<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> và vào tháng 4, ông cung cấp bản thiết kế áo bìa có dòng chữ rune.<sup id="cite_ref-l12_1-1" class="reference"><a href="#cite_note-l12-1">[1]</a></sup>
@@ -222,7 +222,7 @@ Mặc dù là một câu chuyện cổ tích, cuốn tiểu thuyết vẫn vừa
 
 ## Xuất bản {#Publication}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_The_Hobbit_Dustcover.png.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c2/J.R.R._Tolkien_-_The_Hobbit_Dustcover.png/300px-J.R.R._Tolkien_-_The_Hobbit_Dustcover.png" decoding="async" loading="lazy" width="300" height="161" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c2/J.R.R._Tolkien_-_The_Hobbit_Dustcover.png/450px-J.R.R._Tolkien_-_The_Hobbit_Dustcover.png 1.5x, https://tolkiengateway.net/w/images/thumb/c/c2/J.R.R._Tolkien_-_The_Hobbit_Dustcover.png/600px-J.R.R._Tolkien_-_The_Hobbit_Dustcover.png 2x" data-file-width="2240" data-file-height="1200"/></a><figcaption>Dustcover illustration by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_The_Hobbit_Dustcover.png.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c2/J.R.R._Tolkien_-_The_Hobbit_Dustcover.png/300px-J.R.R._Tolkien_-_The_Hobbit_Dustcover.png" decoding="async" loading="lazy" width="300" height="161" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c2/J.R.R._Tolkien_-_The_Hobbit_Dustcover.png/450px-J.R.R._Tolkien_-_The_Hobbit_Dustcover.png 1.5x, https://tolkiengateway.net/w/images/thumb/c/c2/J.R.R._Tolkien_-_The_Hobbit_Dustcover.png/600px-J.R.R._Tolkien_-_The_Hobbit_Dustcover.png 2x" data-file-width="2240" data-file-height="1200"/></a><figcaption>Minh họa che bụi của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
 
 George Allen &amp; Unwin, Ltd. ở London đã xuất bản [ấn bản đầu tiên của \*The Hobbit\*](The_Hobbit_1st_edition.md) vào ngày [21 tháng Chín](../_/21_September.md) [1937](../_/1937.md). Sách được minh họa bằng nhiều bức vẽ đen trắng do chính Tolkien thực hiện. Đợt in đầu tiên chỉ có 1.500 bản và đã bán hết vào [ngày 15 tháng 12](../_/15_December.md) cùng năm nhờ những bài phê bình hết sức tích cực. Houghton Mifflin ở Boston và New York đã chuẩn bị một ấn bản tại Mỹ để phát hành vào đầu năm 1938, trong đó bốn hình minh họa sẽ được in màu. Allen &amp; Unwin quyết định đưa các hình minh họa màu vào đợt in thứ hai, phát hành vào cuối năm 1937.\<sup id="cite_ref-8" class="reference">\<a href="#cite_note-8">[8]\</a>\</sup> Bất chấp sự nổi tiếng của cuốn sách, điều kiện thời chiến đã buộc nhà xuất bản ở London phải in số lượng nhỏ trong hai đợt in còn lại thuộc ấn bản đầu tiên.
 
@@ -237,7 +237,7 @@ Như đã nhận xét ở trên, Tolkien đã sửa đổi đáng kể văn bả
 Trong lần xuất bản đầu tiên vào tháng 10 năm 1937, *The Hobbit* đã nhận được những đánh giá gần như nhất trí thuận lợi từ các ấn phẩm ở cả Vương quốc Anh và Hoa Kỳ, bao gồm <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Times" title="wikipedia:The Times">The Times</a></i>, <i><a class="extiw" href="http://en.wikipedia.org/wiki/Catholic_World" title="wikipedia:Catholic World">Catholic World</a></i>và <i><a class="extiw" href="http://en.wikipedia.org/wiki/New_York_Post" title="wikipedia:New York Post">New York Post</a></i>. [C.S. Lewis](../C/C.S._Lewis.md), bạn của Tolkien (và sau này là tác giả của <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Chronicles_of_Narnia" title="wikipedia:The Chronicles of Narnia">Biên niên sử Narnia</a></i> từ năm 1949 đến năm 1954), viết trong *The Times* báo cáo:
 
 <blockquote class="tg-quote noexcerpt">
-<p>The truth is that in this book a number of good things, never before united, have come together: a fund of humour, an understanding of children, and a happy fusion of the scholar&#39;s with the poet&#39;s grasp of mythology... The professor has the air of inventing nothing. He has studied trolls and dragons at first hand and describes them with that fidelity that is worth oceans of glib &#39;originality&#39;.
+<p>Sự thật là trong cuốn sách này có nhiều điều tốt đẹp chưa từng thống nhất với nhau: sự hài hước, sự hiểu biết về trẻ em, và sự kết hợp vui vẻ giữa trí tuệ học giả với khả năng nắm bắt thần thoại của nhà thơ... Giáo sư có vẻ như không phát minh ra điều gì cả. Ông đã trực tiếp nghiên cứu về quỷ lùn và rồng và mô tả chúng một cách trung thực đến mức đáng giá cả một đại dương 'độc đáo' lấp lánh.
 </p>
 </blockquote>
 
@@ -281,7 +281,7 @@ Một [kịch bản kịch](<../../file/T/The_Hobbit_(dramatised_by_Patricia_Gra
 
 ## Lịch sử xuất bản và thư viện {#Publication_history_and_gallery}
 
-<dl><dd><i>Please see <a href="The_Hobbit%252FPublication_history_and_gallery.md" title="The Hobbit/Publication history and gallery">Publication history and gallery</a>.</i></dd></dl>
+<dl><dd><i>Vui lòng xem <a href="The_Hobbit%252FPublication_history_and_gallery.md" title="The Hobbit/Publication history and gallery">Lịch sử xuất bản và thư viện</a>.</i></dd></dl>
 
 ## Xem thêm {#See_also}
 
@@ -290,7 +290,7 @@ Một [kịch bản kịch](<../../file/T/The_Hobbit_(dramatised_by_Patricia_Gra
 - "[Nhiệm vụ của Erebor](The_Quest_of_Erebor.md)", từ *[Unfinished Tales](../U/Unfinished_Tales.md)*
 - [Hình ảnh từ *The Hobbit*](../../category/I/Images_from_The_Hobbit.md) được minh họa bởi [Alan Lee](../A/Alan_Lee.md)
 
-<dl><dt>Related books</dt></dl>
+<dl><dt>Sách liên quan</dt></dl>
 
 - *[The Annotated Hobbit](The_Annotated_Hobbit.md)* của [Douglas A. Anderson](../D/Douglas_A._Anderson.md)
 - *[The History of The Hobbit](The_History_of_The_Hobbit.md)* của [John D. Rateliff](../J/John_D._Rateliff.md)
@@ -356,22 +356,22 @@ Một [kịch bản kịch](<../../file/T/The_Hobbit_(dramatised_by_Patricia_Gra
 <th align="center" style="background:var(--tg-color-surface-5)" colspan="2">Illustrators of <i><a class="mw-selflink selflink">The Hobbit</a></i>
 </th></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Internal art
+<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Minh họa bên trong
 </th>
-<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937-present) · Eric Fraser (<a href="The_Folio_Society.md" title="The Folio Society">The Folio Society</a>: 1979, 1992-present) · <a href="../M/Michael_Hague.md" title="Michael Hague">Michael Hague</a> (1984-1992) · <a href="../D/David_T._Wenzel.md" title="David T. Wenzel">David T. Wenzel</a> (<a href="The_Hobbit_(comic_book).md" title="The Hobbit (comic book)">graphic novel</a>: 1989-present) · <a href="../D/Denis_Gordeev.md" title="Denis Gordeev">Denis Gordeev</a> (1993-present) · <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> (1997-present) · David Wyatt (1998-2001, 2012-2013) · <a href="../J/John_Howe.md" title="John Howe">John Howe</a> (pop-up: 1999) · <a href="../J/Jemima_Catlin.md" title="Jemima Catlin">Jemima Catlin</a> (2013-present)
+<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937-nay) · Eric Fraser (<a href="The_Folio_Society.md" title="The Folio Society">The Folio Society</a>: 1979, 1992-nay) · <a href="../M/Michael_Hague.md" title="Michael Hague">Michael Hague</a> (1984-1992) · <a href="../D/David_T._Wenzel.md" title="David T. Wenzel">David T. Wenzel</a> (<a href="The_Hobbit_(comic_book).md" title="The Hobbit (comic book)">tiểu thuyết đồ họa</a>: 1989-nay) · <a href="../D/Denis_Gordeev.md" title="Denis Gordeev">Denis Gordeev</a> (1993-nay) · <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> (1997-nay) · David Wyatt (1998-2001, 2012-2013) · <a href="../J/John_Howe.md" title="John Howe">John Howe</a> (pop-up: 1999) · <a href="../J/Jemima_Catlin.md" title="Jemima Catlin">Jemima Catlin</a> (2013-nay)
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Cover art only
+<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Chỉ có hình minh họa bìa
 </th>
-<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937-present) · <a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a> (1961) · <a href="../R/Roger_Garland.md" title="Roger Garland">Roger Garland</a> (1987-1989) · <a href="../J/John_Howe.md" title="John Howe">John Howe</a> (1991-present) · <a href="Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a> (1989-1991) · <a href="../B/Barbara_Remington.md" title="Barbara Remington">Barbara Remington</a> (1965 US)
+<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937-nay) · <a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a> (1961) · <a href="../R/Roger_Garland.md" title="Roger Garland">Roger Garland</a> (1987-1989) · <a href="../J/John_Howe.md" title="John Howe">John Howe</a> (1991-nay) · <a href="Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a> (1989-1991) · <a href="../B/Barbara_Remington.md" title="Barbara Remington">Barbara Remington</a> (1965 US)
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>A <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> book guide</b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Sách hướng dẫn <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
 </th></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Books by or mainly by Tolkien</b>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Sách do Tolkien viết hoặc chủ yếu do Tolkien viết</b>
 </td></tr>
 <tr>
 <th width="50px" align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="3">On <a href="../A/Arda.md" title="Arda">Arda</a>
@@ -383,99 +383,99 @@ Một [kịch bản kịch](<../../file/T/The_Hobbit_(dramatised_by_Patricia_Gra
 <tr>
 <th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Edited by <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a>
 </th>
-<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> · <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i> · <i><a href="The_History_of_Middle-earth.md" title="The History of Middle-earth">The History of Middle-earth</a></i> series<br/>(i.<i><a href="The_Book_of_Lost_Tales%253A_Part_One.md" title="The Book of Lost Tales: Part One">The Book of Lost Tales: Part One</a></i> · ii.<i><a href="The_Book_of_Lost_Tales%253A_Part_Two.md" title="The Book of Lost Tales: Part Two">The Book of Lost Tales: Part Two</a></i> · iii.<i><a href="The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i> · iv.<i><a href="The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i> · v.<i><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> · vi.<i><a href="The_Return_of_the_Shadow.md" title="The Return of the Shadow">The Return of the Shadow</a></i> · vii.<i><a href="The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a></i> · viii.<i><a href="The_War_of_the_Ring.md" title="The War of the Ring">The War of the Ring</a></i> · ix.<i><a href="../S/Sauron_Defeated.md" title="Sauron Defeated">Sauron Defeated</a></i> · x.<i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i> · xi.<i><a href="The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i> · xii.<i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> · <i><a href="The_History_of_Middle-earth_Index.md" title="The History of Middle-earth Index">Index</a></i>) ·<br/><i><a href="The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i> · <i><a href="../B/Beren_and_Lúthien.md" title="Beren and Lúthien">Beren and Lúthien</a></i> · <i><a href="The_Fall_of_Gondolin.md" title="The Fall of Gondolin">The Fall of Gondolin</a></i>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> · <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i> · <i><a href="The_History_of_Middle-earth.md" title="The History of Middle-earth">The History of Middle-earth</a></i> loạt<br/>(i.<i><a href="The_Book_of_Lost_Tales%253A_Part_One.md" title="The Book of Lost Tales: Part One">The Book of Lost Tales: Part One</a></i> · ii.<i><a href="The_Book_of_Lost_Tales%253A_Part_Two.md" title="The Book of Lost Tales: Part Two">The Book of Lost Tales: Part Two</a></i> · iii.<i><a href="The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i> · iv.<i><a href="The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i> · v.<i><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> · vi.<i><a href="The_Return_of_the_Shadow.md" title="The Return of the Shadow">The Return of the Shadow</a></i> · vii.<i><a href="The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a></i> · viii.<i><a href="The_War_of_the_Ring.md" title="The War of the Ring">The War of the Ring</a></i> · ix.<i><a href="../S/Sauron_Defeated.md" title="Sauron Defeated">Sauron Defeated</a></i> · x.<i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i> · xi.<i><a href="The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i> · xii.<i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> · <i><a href="The_History_of_Middle-earth_Index.md" title="The History of Middle-earth Index">Index</a></i>) ·<br/><i><a href="The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i> · <i><a href="../B/Beren_and_Lúthien.md" title="Beren and Lúthien">Beren and Lúthien</a></i> · <i><a href="The_Fall_of_Gondolin.md" title="The Fall of Gondolin">The Fall of Gondolin</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Edited by others
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Do người khác biên tập
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="The_Annotated_Hobbit.md" title="The Annotated Hobbit">The Annotated Hobbit</a></i> · <i><a href="The_History_of_The_Hobbit.md" title="The History of The Hobbit">The History of The Hobbit</a></i> · <i><a href="The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> · <i><a href="The_Fall_of_Númenor.md" title="The Fall of Númenor">The Fall of Númenor</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="5">Not on Arda
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="5">Không thuộc Arda
 </th>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Short stories<br/>and others
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Truyện ngắn<br/>và những truyện khác
 </th>
-<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../L/Leaf_by_Niggle.md" title="Leaf by Niggle">Leaf by Niggle</a></i> · <i><a href="../F/Farmer_Giles_of_Ham.md" title="Farmer Giles of Ham">Farmer Giles of Ham</a></i> · <i><a href="../S/Smith_of_Wootton_Major.md" title="Smith of Wootton Major">Smith of Wootton Major</a></i> · <i><a href="../L/Letters_from_Father_Christmas.md" title="Letters from Father Christmas">Letters from Father Christmas</a></i> ·<br/><i><a href="../M/Mr._Bliss.md" title="Mr. Bliss">Mr. Bliss</a></i> · <i><a href="../R/Roverandom.md" title="Roverandom">Roverandom</a></i> · <i><a href="Tree_and_Leaf.md" title="Tree and Leaf">Tree and Leaf</a></i> (compilation) · <i><a href="Tales_from_the_Perilous_Realm.md" title="Tales from the Perilous Realm">Tales from the Perilous Realm</a></i> (compilation) · <i><a href="The_Bovadium_Fragments%253A_together_with_The_Origin_of_Bovadium.md" title="The Bovadium Fragments: together with The Origin of Bovadium">The Bovadium Fragments</a></i>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../L/Leaf_by_Niggle.md" title="Leaf by Niggle">Leaf by Niggle</a></i> · <i><a href="../F/Farmer_Giles_of_Ham.md" title="Farmer Giles of Ham">Farmer Giles of Ham</a></i> · <i><a href="../S/Smith_of_Wootton_Major.md" title="Smith of Wootton Major">Smith of Wootton Major</a></i> · <i><a href="../L/Letters_from_Father_Christmas.md" title="Letters from Father Christmas">Letters from Father Christmas</a></i> ·<br/><i><a href="../M/Mr._Bliss.md" title="Mr. Bliss">Mr. Bliss</a></i> · <i><a href="../R/Roverandom.md" title="Roverandom">Roverandom</a></i> · <i><a href="Tree_and_Leaf.md" title="Tree and Leaf">Tree and Leaf</a></i> (biên soạn) · <i><a href="Tales_from_the_Perilous_Realm.md" title="Tales from the Perilous Realm">Tales from the Perilous Realm</a></i> (biên soạn) · <i><a href="The_Bovadium_Fragments%253A_together_with_The_Origin_of_Bovadium.md" title="The Bovadium Fragments: together with The Origin of Bovadium">The Bovadium Fragments</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Fictional works
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Tác phẩm hư cấu
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="The_Legend_of_Sigurd_and_Gudrún.md" title="The Legend of Sigurd and Gudrún">The Legend of Sigurd and Gudrún</a></i> · <i><a href="The_Fall_of_Arthur.md" title="The Fall of Arthur">The Fall of Arthur</a></i> · <i><a href="The_Story_of_Kullervo.md" title="The Story of Kullervo">The Story of Kullervo</a></i> · <i><a href="The_Lay_of_Aotrou_and_Itroun.md" title="The Lay of Aotrou and Itroun">The Lay of Aotrou and Itroun</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Translations and academic works
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Bản dịch và công trình học thuật
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../S/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo.md" title="Sir Gawain and the Green Knight, Pearl, and Sir Orfeo">Sir Gawain and the Green Knight, Pearl, and Sir Orfeo</a></i> · <i><a href="The_Old_English_Exodus.md" title="The Old English Exodus">The Old English Exodus</a></i> · <i><a href="../F/Finn_and_Hengest%253A_The_Fragment_and_the_Episode.md" title="Finn and Hengest: The Fragment and the Episode">Finn and Hengest</a></i> ·<br/><i><a href="The_Monsters_and_the_Critics,_and_Other_Essays.md" title="The Monsters and the Critics, and Other Essays">The Monsters and the Critics, and Other Essays</a></i> · <i><a href="../B/Beowulf_and_the_Critics.md" title="Beowulf and the Critics">Beowulf and the Critics</a></i> · <i><a href="Tolkien_On_Fairy-stories~23734.md" title="Tolkien On Fairy-stories">Tolkien On Fairy-stories</a></i> ·<br/><i><a href="../B/Beowulf%253A_A_Translation_and_Commentary.md" title="Beowulf: A Translation and Commentary">Beowulf: A Translation and Commentary</a></i> · <i><a href="../A/A_Secret_Vice%253A_Tolkien_on_Invented_Languages.md" title="A Secret Vice: Tolkien on Invented Languages">A Secret Vice</a></i> · <i><a href="The_Battle_of_Maldon%253A_together_with_The_Homecoming_of_Beorhtnoth.md" title="The Battle of Maldon: together with The Homecoming of Beorhtnoth">The Battle of Maldon</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Letters &amp; poems
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Thư từ và thơ
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i> · <i><a href="The_Collected_Poems_of_J.R.R._Tolkien.md" title="The Collected Poems of J.R.R. Tolkien">The Collected Poems of J.R.R. Tolkien</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Other<br/>academic works
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Công trình<br/>học thuật khác
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../A/A_Middle_English_Reader_and_Vocabulary.md" title="A Middle English Reader and Vocabulary">A Middle English Vocabulary</a></i> · <i><a href="../S/Sir_Gawain_and_the_Green_Knight_(edition).md" title="Sir Gawain and the Green Knight (edition)">Sir Gawain and the Green Knight</a></i> · <i><a href="../A/Ancrene_Wisse.md" title="Ancrene Wisse">Ancrene Wisse</a></i>
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Books by other authors</b>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Sách của các tác giả khác</b>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Books on Arda
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Sách về Arda
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="The_Complete_Guide_to_Middle-earth.md" title="The Complete Guide to Middle-earth">The Complete Guide to Middle-earth</a></i> · <i><a href="The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i> ·<br/><i><a href="The_Maps_of_Middle-earth.md" title="The Maps of Middle-earth">The Maps of Middle-earth</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Tolkien biographies
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Tiểu sử Tolkien
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../J/J.R.R._Tolkien%253A_A_Biography.md" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a></i> · <i><a href="The_Inklings_(book).md" title="The Inklings (book)">The Inklings</a></i> · <i><a href="Tolkien_and_the_Great_War.md" title="Tolkien and the Great War">Tolkien and the Great War</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Scholarly books
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Sách nghiên cứu học thuật
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="The_Road_to_Middle-earth.md" title="The Road to Middle-earth">The Road to Middle-earth</a></i> · <i><a href="The_Keys_of_Middle-earth~15408.md" title="The Keys of Middle-earth">The Keys of Middle-earth</a></i> · <i><a href="The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> ·<br/><i><a href="The_Ring_of_Words.md" title="The Ring of Words">The Ring of Words</a></i> · <i><a href="../A/A_Companion_to_J.R.R._Tolkien.md" title="A Companion to J.R.R. Tolkien">A Companion to J.R.R. Tolkien</a></i> · <i><a href="Tolkien&#39;s_Lost_Chaucer.md" title="Tolkien&#39;s Lost Chaucer">Tolkien&#39;s Lost Chaucer</a></i> · <i><a href="Tolkien&#39;s_Library%253A_An_Annotated_Checklist.md" title="Tolkien&#39;s Library: An Annotated Checklist">Tolkien&#39;s Library</a></i> · <i><a href="The_Great_Tales_Never_End.md" title="The Great Tales Never End">The Great Tales Never End</a></i> · <i><a href="Tolkien_on_Chaucer,_1913-1959.md" title="Tolkien on Chaucer, 1913-1959">Tolkien on Chaucer, 1913-1959</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Scholarly journals
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Tạp chí học thuật
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="Tolkien_Studies_(journal).md" title="Tolkien Studies (journal)">Tolkien Studies</a></i> · (<i><a href="The_Chronology_of_The_Lord_of_the_Rings.md" title="The Chronology of The Lord of the Rings">The Chronology</a></i>)
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Other works by Tolkien</b>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Các tác phẩm khác của Tolkien</b>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Linguistic journals
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Tạp chí ngôn ngữ học
 </th>
-<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../V/Vinyar_Tengwar.md" title="Vinyar Tengwar">Vinyar Tengwar</a></i> various issues · <i><a href="../P/Parma_Eldalamberon.md" title="Parma Eldalamberon">Parma Eldalamberon</a></i> issue 11-23
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../V/Vinyar_Tengwar.md" title="Vinyar Tengwar">Vinyar Tengwar</a></i> số phát hành khác nhau · <i><a href="../P/Parma_Eldalamberon.md" title="Parma Eldalamberon">Parma Eldalamberon</a></i> số phát hành 11-23
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Collections of artwork<br/>and manuscripts
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Bộ sưu tập tác phẩm nghệ thuật<br/>và bản thảo
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../P/Pictures_by_J.R.R._Tolkien.md" title="Pictures by J.R.R. Tolkien">Pictures by J.R.R. Tolkien</a></i> · <i><a href="../J/J.R.R._Tolkien%253A_Life_and_Legend.md" title="J.R.R. Tolkien: Life and Legend">J.R.R. Tolkien: Life and Legend</a></i> · <i><a href="../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md" title="J.R.R. Tolkien: Artist and Illustrator">J.R.R. Tolkien: Artist and Illustrator</a></i> ·<br/><i><a href="The_Art_of_The_Hobbit.md" title="The Art of The Hobbit">The Art of The Hobbit</a></i> · <i><a href="The_Art_of_The_Lord_of_the_Rings.md" title="The Art of The Lord of the Rings">The Art of The Lord of the Rings</a></i> · <i><a href="Tolkien%253A_Maker_of_Middle-earth.md" title="Tolkien: Maker of Middle-earth">Tolkien: Maker of Middle-earth</a></i> ·<br/><i><a href="Tolkien%253A_Treasures.md" title="Tolkien: Treasures">Tolkien: Treasures</a></i> · <i><a href="../J/J.R.R._Tolkien%253A_The_Art_of_the_Manuscript.md" title="J.R.R. Tolkien: The Art of the Manuscript">J.R.R. Tolkien: The Art of the Manuscript</a></i>
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">For a fuller bibliography of Tolkien, see <a class="external text" href="https://tolkienbooks.net/php/chronindex.php" rel="noreferrer noopener" target="_blank">here</a> or <a class="external text" href="https://www.forodrim.org/bibliography/tbchron.html" rel="noreferrer noopener" target="_blank">here</a>. See also a list of <a href="https://tolkiengateway.net/wiki/User:Luotiansha/3" title="User:Luotiansha/3">all materials by Tolkien</a>.
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Để có thư mục đầy đủ hơn về Tolkien, hãy xem <a class="external text" href="https://tolkienbooks.net/php/chronindex.php" rel="noreferrer noopener" target="_blank">tại đây</a> hoặc <a class="external text" href="https://www.forodrim.org/bibliography/tbchron.html" rel="noreferrer noopener" target="_blank">tại đây</a>. Xem thêm danh sách <a href="https://tolkiengateway.net/wiki/User:Luotiansha/3" title="User:Luotiansha/3">tất cả tài liệu của Tolkien</a>.
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> film series</a></b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> loạt phim</a></b>
 </th></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Source material: <i><a class="mw-selflink selflink">The Hobbit</a></i> · <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Nguồn tư liệu: <i><a class="mw-selflink selflink">The Hobbit</a></i> · <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Films
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Phim
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">An Unexpected Journey</a></i> (<a href="The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md" title="The Hobbit: An Unexpected Journey (extended edition)">extended edition</a>)· <i><a href="The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Desolation of Smaug</a></i> (<a href="The_Hobbit%253A_The_Desolation_of_Smaug_(extended_edition).md" title="The Hobbit: The Desolation of Smaug (extended edition)">extended edition</a>) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Battle of the Five Armies</a></i> (<a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md" title="The Hobbit: The Battle of the Five Armies (extended edition)">extended edition</a>)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">An Unexpected Journey</a></i> (<a href="The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md" title="The Hobbit: An Unexpected Journey (extended edition)">ấn bản mở rộng</a>)· <i><a href="The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Desolation of Smaug</a></i> (<a href="The_Hobbit%253A_The_Desolation_of_Smaug_(extended_edition).md" title="The Hobbit: The Desolation of Smaug (extended edition)">ấn bản mở rộng</a>) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Battle of the Five Armies</a></i> (<a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md" title="The Hobbit: The Battle of the Five Armies (extended edition)">ấn bản mở rộng</a>)
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Music
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Âm nhạc
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.md" title="The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack">An Unexpected Journey</a></i> (<a href="The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition">Special Edition</a>) · <i><a href="The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack.md" title="The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack">The Desolation of Smaug</a></i> (<a href="The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack - Special Edition">Special Edition</a>) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack.md" title="The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack">The Battle of the Five Armies</a></i> (<a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack - Special Edition">Special Edition</a>) · &#34;<a href="../S/Song_of_the_Lonely_Mountain.md" title="Song of the Lonely Mountain">Song of the Lonely Mountain</a>&#34; · &#34;<a href="../I/I_See_Fire.md" title="I See Fire">I See Fire</a>&#34; · &#34;<a href="The_Last_Goodbye.md" title="The Last Goodbye">The Last Goodbye</a>&#34;
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="4">Tie-in books
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="4">Sách ăn theo
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit_Trilogy_Location_Guidebook.md" title="The Hobbit Trilogy Location Guidebook">Location Guidebook</a></i> · <i><a href="The_Hobbit_Motion_Picture_Trilogy_Location_Guide%253A_Hobbiton,_the_Lonely_Mountain_and_Beyond.md" title="The Hobbit Motion Picture Trilogy Location Guide: Hobbiton, the Lonely Mountain and Beyond">Location Guide: Hobbiton, the Lonely Mountain and Beyond</a></i> · <i><a href="The_Hobbit_Sketchbook.md" title="The Hobbit Sketchbook">Sketchbook</a></i>
 </td></tr>
@@ -495,35 +495,35 @@ Một [kịch bản kịch](<../../file/T/The_Hobbit_(dramatised_by_Patricia_Gra
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Official_Movie_Guide.md" title="The Hobbit: The Battle of the Five Armies: Official Movie Guide">Official Movie Guide</a></i> · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Visual_Companion.md" title="The Hobbit: The Battle of the Five Armies: Visual Companion">Visual Companion</a></i> · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_The_Movie_Storybook.md" title="The Hobbit: The Battle of the Five Armies: The Movie Storybook">Movie Storybook</a></i> · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Annual_2015.md" title="The Hobbit: The Battle of the Five Armies: Annual 2015">Annual 2015</a></i> · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Chronicles%253A_Art_&amp;_Design.md" title="The Hobbit: The Battle of the Five Armies: Chronicles: Art &amp; Design">Chronicles: Art &amp; Design</a></i> · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Chronicles%253A_The_Art_of_War.md" title="The Hobbit: The Battle of the Five Armies: Chronicles: The Art of War">Chronicles: The Art of War</a></i> · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Activity_Book.md" title="The Hobbit: The Battle of the Five Armies: Activity Book">Activity Book</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px; padding-left: 4px;">Video games
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px; padding-left: 4px;">Trò chơi điện tử
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit%253A_Kingdoms_of_Middle-earth.md" title="The Hobbit: Kingdoms of Middle-earth">Kingdoms of Middle-earth</a></i> · <i><a href="The_Hobbit%253A_Armies_of_The_Third_Age.md" title="The Hobbit: Armies of The Third Age">Armies of The Third Age</a></i> · <i><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Characters
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Nhân vật
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> · <a href="Thorin.md" title="Thorin">Thorin</a> · <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> · <a href="../B/Balin.md" title="Balin">Balin</a> · <a href="../F/Fíli.md" title="Fíli">Fíli</a> · <a href="../K/Kíli.md" title="Kíli">Kíli</a> · <a href="../D/Dwalin.md" title="Dwalin">Dwalin</a> · <a href="../D/Dori.md" title="Dori">Dori</a> · <a href="../N/Nori.md" title="Nori">Nori</a> · <a href="../O/Ori.md" title="Ori">Ori</a> · <a href="../_/Óin.md" title="Óin">Óin</a> · <a href="../G/Glóin.md" title="Glóin">Glóin</a> · <a href="../B/Bifur.md" title="Bifur">Bifur</a> · <a href="../B/Bofur.md" title="Bofur">Bofur</a> · <a href="../B/Bombur.md" title="Bombur">Bombur</a> · <a href="../S/Smaug.md" title="Smaug">Smaug</a> · <a href="../R/Radagast.md" title="Radagast">Radagast</a> · <a href="../E/Elrond.md" title="Elrond">Elrond</a> · <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> · <a href="../S/Saruman.md" title="Saruman">Saruman</a> · <a href="../A/Azog.md" title="Azog">Azog</a> · <a href="../B/Bolg.md" title="Bolg">Bolg</a> · <a href="Thranduil.md" title="Thranduil">Thranduil</a> · <a href="../L/Legolas.md" title="Legolas">Legolas</a> · <a href="Tauriel.md" title="Tauriel">Tauriel</a> · <a href="../B/Bard.md" title="Bard">Bard</a> · <a href="../B/Bain.md" title="Bain">Bain</a> · <a href="Tilda.md" title="Tilda">Tilda</a> · <a href="../S/Sigrid.md" title="Sigrid">Sigrid</a> · <a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a> · <a href="../C/Councillors.md" title="Councillors">Alfrid</a> · <a href="../D/Dáin_Ironfoot.md" title="Dáin Ironfoot">Dáin Ironfoot</a> · <a href="../S/Sauron.md" title="Sauron">Necromancer</a> · <a class="mw-redirect" href="../B/Bert.md" title="Bert">Bert</a> · <a class="mw-redirect" href="../W/William.md" title="William">William</a> · <a class="mw-redirect mw-disambig" href="Tom.md" title="Tom">Tom</a> · <a href="../B/Beorn.md" title="Beorn">Beorn</a> · <a href="Thráin.md" title="Thráin">Thráin</a> · <a href="Thrór.md" title="Thrór">Thrór</a> · <a href="../G/Great_Goblin.md" title="Great Goblin">Goblin King</a> · <a href="../G/Gollum.md" title="Gollum">Gollum</a> · <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i> film series</a></b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i>loạt phim</a></b>
 </th></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Source material: <i><a class="mw-selflink selflink">The Hobbit</a></i> · <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Nguồn tư liệu: <i><a class="mw-selflink selflink">The Hobbit</a></i> · <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Films
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Phim
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">extended edition</a>)· <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">extended edition</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">extended edition</a>)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">ấn bản mở rộng</a>)· <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">ấn bản mở rộng</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">ấn bản mở rộng</a>)
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Music
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Âm nhạc
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack">The Fellowship of the Ring</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings">The Complete Recordings</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack">The Two Towers</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Two Towers - The Complete Recordings">The Complete Recordings</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack">The Return of the King</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Return of the King - The Complete Recordings">The Complete Recordings</a>) · &#34;<a href="../M/May_It_Be.md" title="May It Be">May It Be</a>&#34; · &#34;<a href="../G/Gollum&#39;s_Song.md" title="Gollum&#39;s Song">Gollum&#39;s Song</a>&#34; · &#34;<a href="../I/Into_the_West.md" title="Into the West">Into the West</a>&#34;
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="4">Tie-in books
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="4">Sách ăn theo
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_Official_Movie_Guide.md" title="The Lord of the Rings: Official Movie Guide">Official Movie Guide</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Making_of_the_Movie_Trilogy.md" title="The Lord of the Rings: The Making of the Movie Trilogy">The Making of the Movie Trilogy</a></i> · <i><a href="The_Lord_of_the_Rings_Complete_Visual_Companion.md" title="The Lord of the Rings Complete Visual Companion">Complete Visual Companion</a></i>  · <i><a href="The_Lord_of_the_Rings_Trilogy_Photo_Guide.md" title="The Lord of the Rings Trilogy Photo Guide">Photo Guide</a></i> · <i><a href="../G/Gollum%253A_How_We_Made_Movie_Magic.md" title="Gollum: How We Made Movie Magic">Gollum: How We Made Movie Magic</a></i> · <i><a href="There_and_Back_Again%253A_An_Actor&#39;s_Tale.md" title="There and Back Again: An Actor&#39;s Tale">There and Back Again: An Actor&#39;s Tale</a></i> · <i><a href="The_Lord_of_the_Rings%253A_Weapons_and_Warfare.md" title="The Lord of the Rings: Weapons and Warfare">Weapons and Warfare</a></i> · <i><a href="The_Art_of_The_Lord_of_the_Rings_(film_book).md" title="The Art of The Lord of the Rings (film book)">The Art of The Lord of the Rings</a></i> · <i><a href="The_Music_of_the_Lord_of_the_Rings_Films.md" title="The Music of the Lord of the Rings Films">The Music of the Lord of the Rings Films</a></i> · <i><a href="The_Lord_of_the_Rings_Location_Guidebook.md" title="The Lord of the Rings Location Guidebook">The Lord of the Rings Location Guidebook</a></i> · <i><a href="The_Lord_of_the_Rings_Location_Guidebook%253A_Travel_Diary.md" title="The Lord of the Rings Location Guidebook: Travel Diary">Travel Diary</a></i> · <i><a href="The_Lord_of_the_Rings_Sketchbook.md" title="The Lord of the Rings Sketchbook">Sketchbook</a></i>
 </td></tr>
@@ -543,12 +543,12 @@ Một [kịch bản kịch](<../../file/T/The_Hobbit_(dramatised_by_Patricia_Gra
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_Visual_Companion.md" title="The Lord of the Rings: The Return of the King Visual Companion">Visual Companion</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_Photo_Guide.md" title="The Lord of the Rings: The Return of the King Photo Guide">Photo Guide</a></i> · <i><a href="The_Art_of_The_Return_of_the_King.md" title="The Art of The Return of the King">The Art of The Return of the King</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px; padding-left: 4px;">Video games
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px; padding-left: 4px;">Trò chơi điện tử
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md" title="The Lord of the Rings: The Two Towers (video game)">The Two Towers</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md" title="The Lord of the Rings: The Return of the King (video game)">The Return of the King</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Third_Age.md" title="The Lord of the Rings: The Third Age">The Third Age</a></i> · <i><a href="The_Lord_of_the_Rings%253A_Tactics.md" title="The Lord of the Rings: Tactics">Tactics</a></i> · <i><a href="The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">Conquest</a></i> ·  <i><a href="The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></i> · <i><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Characters
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Nhân vật
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> · <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> · <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> · <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> · <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> · <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> · <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> · <a href="../B/Boromir.md" title="Boromir">Boromir</a> · <a href="../L/Legolas.md" title="Legolas">Legolas</a> · <a href="../G/Gimli.md" title="Gimli">Gimli</a> · <a href="../E/Elrond.md" title="Elrond">Elrond</a> · <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> · <a href="Théoden.md" title="Théoden">Théoden</a> · <a href="../_/Éomer.md" title="Éomer">Éomer</a> · <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> · <a href="../S/Saruman.md" title="Saruman">Saruman</a> · <a href="../S/Sauron.md" title="Sauron">Sauron</a> · <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> · <a href="../D/Denethor.md" title="Denethor">Denethor</a> · <a href="../F/Faramir.md" title="Faramir">Faramir</a> · <a href="../G/Gollum.md" title="Gollum">Gollum</a> · <a href="../G/Gríma.md" title="Gríma">Gríma</a> · <a href="Treebeard.md" title="Treebeard">Treebeard</a> · <a href="../C/Celeborn.md" title="Celeborn">Celeborn</a> · <a href="../H/Haldir.md" title="Haldir">Haldir</a> · <a href="../L/Lurtz.md" title="Lurtz">Lurtz</a> · <a href="../S/Sharku.md" title="Sharku">Sharku</a> · <a href="../G/Grishnákh.md" title="Grishnákh">Grishnákh</a>
 </td></tr></tbody></table>

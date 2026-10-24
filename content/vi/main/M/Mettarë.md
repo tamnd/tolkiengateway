@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Mettarë"
 content_sha256: 701fe96d12ca759241994e0d065ba3c7c775498212beafda5d86814de8b2a4a9
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Last day of the year"
+short_description: "Ngày cuối cùng của năm"
 categories:
   - "Quenya nouns"
   - "Elven days"
@@ -20,9 +20,9 @@ images:
 
 **Mettarë**, nghĩa là "Ngày cuối cùng", ngay trước [Yestarë](../Y/Yestarë.md) và là ngày cuối cùng của năm trong lịch của [Tiên tộc](../E/Elves.md) và [Dúnedain](../D/Dúnedain.md). Trong [Lịch Imladris](../R/Reckoning_of_Rivendell.md), *Mettarë* ít nhiều rơi vào [5 tháng 4](../_/5_April.md) vào [Lịch Shire](../S/Shire_Calendar.md). Trong [Sự tính toán của các vị vua](../K/Kings'_Reckoning.md) và [Sự tính toán của người quản lý](../S/Stewards'_Reckoning.md) nó tương ứng với [1 Yule](../_/1_Yule.md) trong Lịch Shire, vào khoảng ngày đông chí. Trong [Tính toán mới](../N/New_Reckoning.md) nó tương ứng với [ngày 24 tháng 3](../_/24_March.md) trong Lịch Shire.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../Y/Yestarë.md" title="Yestarë">Yestarë</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="../Y/Yestarë.md" title="Yestarë">Yestarë</a></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../_/1_Yule.md" title="1 Yule">1 Yule</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="../_/1_Yule.md" title="1 Yule">1 Yule</a></div></div>
 
 <span></span>
 
@@ -35,20 +35,20 @@ images:
 
 <table style="text-align:center; margin: 0 auto; font-size: 90%" class="mw-collapsible mw-collapsed toccolours" align="center" width="70%">
 <tbody><tr>
-<td align="center" colspan="10" style="background: var(--tg-color-surface-5);"><b><a class="mw-redirect" href="../C/Calendar_of_Imladris.md" title="Calendar of Imladris">Calendar of Imladris</a></b>
+<td align="center" colspan="10" style="background: var(--tg-color-surface-5);"><b><a class="mw-redirect" href="../C/Calendar_of_Imladris.md" title="Calendar of Imladris">Lịch Imladris</a></b>
 </td></tr>
 <tr>
-<th align="center" style="background: var(--tg-color-surface-3);">Meaning:
+<th align="center" style="background: var(--tg-color-surface-3);">Ý nghĩa:
 </th>
-<td>&#39;First Day&#39;</td>
+<td>“Ngày đầu tiên”</td>
 <td>&#39;Spring&#39;</td>
 <td>&#39;Summer&#39;</td>
 <td>&#39;Autumn&#39;</td>
-<td>&#39;Middle Days&#39;</td>
+<td>“Những ngày giữa”</td>
 <td>&#39;Fading&#39;</td>
 <td>&#39;Winter&#39;</td>
 <td>&#39;Stirring&#39;</td>
-<td>&#39;Last Day&#39;
+<td>“Ngày cuối cùng”
 </td></tr>
 <tr>
 <th align="center" style="background: var(--tg-color-surface-3);"><a href="../Q/Quenya.md" title="Quenya">Quenya</a>:

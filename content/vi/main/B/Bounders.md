@@ -35,11 +35,11 @@ Từ này có nghĩa là "những người canh giữ ranh giới".
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>A Bounder holding a lantern, played by <a href="../I/Ian_Mune.md" title="Ian Mune">Ian Mune</a>, confronts a <a href="../N/Nazgûl.md" title="Nazgûl">Black Rider</a> in the night. He calls out &#34;Who goes there?&#34;. The Nazgûl does not slow down and decapitates the Bounder with his blade.</dd></dl>
+<dl><dd>Một Bounder cầm đèn lồng, do <a href="../I/Ian_Mune.md" title="Ian Mune">Ian Mune</a> thủ vai, đối đầu với <a href="../N/Nazgûl.md" title="Nazgûl">Kỵ Sĩ Đen</a> trong đêm. Ông gọi "Ai đến đó?". Nazgûl không làm chậm lại và chặt đầu Bounder bằng lưỡi kiếm của mình.</dd></dl>
 
 <b>2003: <a class="mw-redirect" href="../P/Pán_prsteňov_(2001-2003_Slovak_radio_series).md" title="Pán prsteňov (2001-2003 Slovak radio series)"><i>Pán prsteňov</i> (Loạt đài tiếng Slovak 2001-2003)</a>:</b>
 
-<dl><dd>The voice of an unnamed bounder is provided by Karol Čálik. This bounder character appears in the final episode of the series, in the part of the storyline that adapts the Scouring of the Shire.</dd></dl>
+<dl><dd>Giọng nói của một người giới thiệu không tên được cung cấp bởi Karol Čálik. Nhân vật ranh giới này xuất hiện trong tập cuối cùng của bộ truyện, trong phần cốt truyện phỏng theo Cuộc truy lùng Shire.</dd></dl>
 
 <span></span>
 

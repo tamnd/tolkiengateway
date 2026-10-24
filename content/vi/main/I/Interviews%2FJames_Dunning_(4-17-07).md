@@ -12,7 +12,7 @@ categories:
   - "Interviews"
 ---
 
-<dl><dd>The below article is of a chat session with <a href="../J/James_Dunning.md" title="James Dunning">James Dunning</a> on April 17th, <a href="../_/2007.md" title="2007">2007</a>. The content should be preserved and not altered save for aesthetic reasons.</dd></dl>
+<dl><dd>Bài viết dưới đây là buổi trò chuyện với <a href="../J/James_Dunning.md" title="James Dunning">James Dunning</a> vào ngày 17 tháng 4, <a href="../_/2007.md" title="2007">2007</a>. Nội dung cần được bảo tồn và không bị thay đổi vì lý do thẩm mỹ.</dd></dl>
 
 <br>
 

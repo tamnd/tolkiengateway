@@ -17,42 +17,42 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Moves of the deep <br/>
-Senses of the beast <br/>
-Ancient people among the trees <br/>
-Soil of their land <br/>
-The way of the wind <br/>
-Throne and the walls for the Woses <br/>
+<p>Những bước chuyển sâu <br/>
+Giác quan của quái thú <br/>
+Người xưa giữa rừng cây <br/>
+Đất của họ <br/>
+Đường đi của gió <br/>
+Ngai vàng và những bức tường cho Woses <br/>
 <br/>
-Be gone <a href="../O/Orcs.md" title="Orcs">Orc</a>-folk <br/>
-Ruin Gorgûn <br/>
-Be gone Troll-folk <br/>
-Ruin Gorgûn <br/>
+Đi đi <a href="../O/Orcs.md" title="Orcs">Orc</a>-dân gian <br/>
+Phá hủy Gorgûn <br/>
+Cút đi lũ Troll <br/>
+Phá hủy Gorgûn <br/>
 <br/>
-Gold from the sun <br/>
-The wealth of the clan <br/>
-Riches for soul of everyone <br/>
-Rivers and lakes <br/>
-The silvering moon <br/>
-Kingdom of pearls their woods <br/>
+Vàng từ mặt trời <br/>
+Sự giàu có của tộc <br/>
+Của cải tâm hồn mỗi người <br/>
+Sông hồ <br/>
+Trăng bạc <br/>
+Vương quốc ngọc trai gỗ của họ <br/>
 <br/>
-Drain the hope from the souls <br/>
-Of Orcish hordes when they are dead <br/>
-Drain the life from their own earth <br/>
-From the stars, from every birth <br/>
+Hút cạn niềm hy vọng trong tâm hồn <br/>
+Của bầy Orc khi chúng đã chết <br/>
+Rút cạn sự sống khỏi trái đất của chính họ <br/>
+Từ những vì sao, từ mỗi lần sinh ra <br/>
 <br/>
-<a href="../D/Drúedain.md" title="Drúedain">Drúadan</a> chieftain <br/>
+<a href="../D/Drúedain.md" title="Drúedain">Thủ lĩnh Drúadan</a> <br/>
 <a href="Ghân-buri-Ghân.md" title="Ghân-buri-Ghân">Ghân-buri-Ghân</a> <br/>
-Wise from his mind <br/>
-Pure from his heart <br/>
-Druadan chieftain <br/>
-Ghân of the woods <br/>
-Fighting the wolves <br/>
-Fighting the Gorgûn <br/>
+Trí tuệ từ trong tâm <br/>
+Tinh khiết từ trái tim <br/>
+Thủ lĩnh Druadan <br/>
+Ghân của rừng <br/>
+Chiến đấu với bầy sói <br/>
+Chiến đấu với Gorgûn <br/>
 <br/>
-Mother earth <br/>
-Caring for her child <br/>
-Forest folk <br/>
-Her untamed kind<br/>
+Đất mẹ <br/>
+Chăm sóc con <br/>
+Dân rừng <br/>
+Loại chưa được thuần hóa của bà<br/>
 </p>
 </div>

@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/Dragon_Magazine"
 content_sha256: 61d09797b3ffbc28e98be4921fd2d9cbf41f98ff19f157fe1abcd6b136ce7228
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Official magazine for Dungeons & Dragons"
+short_description: "Tạp chí chính thức cho Dungeons & Rồng"
 categories:
   - "Magazines"
   - "Publications by title"
@@ -94,7 +94,7 @@ hidden_categories:
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Tabletop gaming magazines</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Tạp chí chơi game trên máy tính bảng</b>
 </td></tr>
 <tr>
 <td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Roleplaying in Middle-earth</b>

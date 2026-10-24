@@ -47,15 +47,15 @@ infobox:
     value: "0575074957"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
-<p>Who told you, and who sent you?
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Nguồn</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần <b><a href="../../help/R/References.md" title="Help:References">nguồn</a></b> nhiều/mới/chi tiết hơn để tuân thủ tiêu chuẩn cao hơn và cung cấp bằng chứng cho những tuyên bố được đưa ra.<blockquote class="tg-quote noexcerpt">
+<p>Ai đã nói với bạn và ai đã gửi cho bạn?
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Bored of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Bored_of_the_Rings_(disambiguation).md" title="Bored of the Rings (disambiguation)">Bored of the Rings (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Cái tên <b>Chán những chiếc nhẫn</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Bored_of_the_Rings_(disambiguation).md" title="Bored of the Rings (disambiguation)">Chán những chiếc nhẫn (định hướng)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/BoredOfTheRings.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cd/BoredOfTheRings.jpg/320px-BoredOfTheRings.jpg" decoding="async" loading="lazy" width="320" height="443" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/cd/BoredOfTheRings.jpg 1.5x" data-file-width="342" data-file-height="473"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Bored of the Rings</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Henry N. Beard and Douglas C. Kenney</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Gollancz</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">2003</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">228</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0575074957" title="Special:BookSources/0575074957">0575074957</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/BoredOfTheRings.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cd/BoredOfTheRings.jpg/320px-BoredOfTheRings.jpg" decoding="async" loading="lazy" width="320" height="443" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/cd/BoredOfTheRings.jpg 1.5x" data-file-width="342" data-file-height="473"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Bored of the Rings</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data">Henry N. Beard and Douglas C. Kenney</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Gollancz</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">2003</td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Bìa mềm</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">228</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0575074957" title="Special:BookSources/0575074957">0575074957</a></td></tr></tbody></table>
 
 <i><b>Chán những chiếc nhẫn</b></i> là một tiểu thuyết ngắn của [Henry N. Beard](../H/Henry_N._Beard.md) và [Douglas C. Kenney](../D/Douglas_C._Kenney.md) nhại lại *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
@@ -80,23 +80,23 @@ Các nhân vật, chủng tộc và địa điểm trong tiểu thuyết đều 
 <td><b>Original</b>
 </td></tr>
 <tr>
-<td><i>Goodgulf Greyteeth</i>, the good <a href="../W/Wizards.md" title="Wizards">wizard</a>
+<td><i>Goodgulf Greyteeth</i>, <a href="../W/Wizards.md" title="Wizards">thầy phù thủy giỏi</a>
 </td>
-<td>&#34;a discredited Rosicrucian&#34; and &#34;a 32nd Degree Mason and Honorary Shriner&#34; (Gulf Oil slogan)
+<td>"một Rosicrucian bị mất uy tín" và "một Mason cấp độ 32 và Shriner danh dự" (khẩu hiệu của Gulf Oil)
 </td>
 <td><i><a href="../G/Gandalf.md" title="Gandalf">Gandalf Greyhame</a></i>
 </td></tr>
 <tr>
 <td><i>Boggies</i>
 </td>
-<td>(not for the faint of heart)
+<td>(không dành cho người yếu tim)
 </td>
-<td><a href="../H/Hobbits.md" title="Hobbits">Hobbits</a>
+<td><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a>
 </td></tr>
 <tr>
 <td><i>Dildo Bugger</i>
 </td>
-<td>Dildo; bugger</td>
+<td>Dương vật giả; kẻ khốn nạn</td>
 <td><i><a href="Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a></i>
 </td></tr>
 <tr>
@@ -109,45 +109,45 @@ Các nhân vật, chủng tộc và địa điểm trong tiểu thuyết đều 
 <tr>
 <td><i>Frito Bugger</i>
 </td>
-<td>Fritos, a corn chips brand</td>
+<td>Fritos, một thương hiệu ngô chiên</td>
 <td><i><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></i>
 </td></tr>
 <tr>
 <td><i>Spam Gangree</i>
 </td>
-<td>SPAM, a food brand; gangrene</td>
+<td>SPAM, một thương hiệu thực phẩm; chứng hoại tử</td>
 <td><i><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a></i>
 </td></tr>
 <tr>
 <td><i>Moxie Dingleberry</i>
 </td>
-<td>Moxie, a soft drink brand</td>
+<td>Moxie, thương hiệu nước giải khát</td>
 <td><i><a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Meriadoc Brandybuck</a></i>
 </td></tr>
 <tr>
 <td><i>Pepsi Dingleberry</i>
 </td>
-<td>Pepsi, a soft drink brand</td>
+<td>Pepsi, thương hiệu nước giải khát</td>
 <td><i><a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a></i>
 </td></tr>
 <tr>
 <td><i>Stomper</i>, or <i>Arrowroot</i>
 </td>
-<td><a class="external text" href="http://www.nicecupofteaandasitdown.com/biscuits/previous.php3?item=42" rel="noreferrer noopener" target="_blank">Arrowroot</a>, a brand of bland biscuits for babies and the elderly.
+<td><a class="external text" href="http://www.nicecupofteaandasitdown.com/biscuits/previous.php3?item=42" rel="noreferrer noopener" target="_blank">Arrowroot</a>, thương hiệu bánh quy nhạt dành cho trẻ nhỏ và người già.
 </td>
 <td><i>Strider or <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></i>
 </td></tr>
 <tr>
 <td><i>Arrowshirt</i>
 </td>
-<td>Arrow shirt, a brand of men&#39;s dress shirt.
+<td>Áo sơ mi mũi tên, một thương hiệu áo sơ mi nam.
 </td>
 <td><i><a href="../A/Arathorn_II.md" title="Arathorn II">Arathorn II</a></i>
 </td></tr>
 <tr>
 <td><i>Gimlet</i>
 </td>
-<td>Gimlet cocktail.
+<td>Cocktail Gimlet.
 </td>
 <td><i><a href="../G/Gimli.md" title="Gimli">Gimli</a></i>
 </td></tr>
@@ -161,35 +161,35 @@ Các nhân vật, chủng tộc và địa điểm trong tiểu thuyết đều 
 <tr>
 <td><i>Legolam</i>
 </td>
-<td>&#34;leg of lamb&#34;
+<td>"chân cừu"
 </td>
 <td><i><a href="../L/Legolas.md" title="Legolas">Legolas</a></i>
 </td></tr>
 <tr>
 <td><i>Bromosel</i>
 </td>
-<td>Used to be an indigestion relief product
+<td>Từng là sản phẩm chữa chứng khó tiêu
 </td>
 <td><i><a href="Boromir.md" title="Boromir">Boromir</a></i>
 </td></tr>
 <tr>
 <td><i>Eorache</i>
 </td>
-<td>&#34;ear ache&#34;
+<td>"đau tai"
 </td>
 <td><a href="../_/Éowyn.md" title="Éowyn">Éowyn</a>
 </td></tr>
 <tr>
 <td><i>Tim Benzedrine</i>
 </td>
-<td>Benzedrine—a stimulant drug popular during the 1960s—and former Harvard professor Timothy Leary
+<td>Benzedrine—một loại thuốc kích thích phổ biến trong những năm 1960—và cựu giáo sư Harvard Timothy Leary
 </td>
 <td><i><a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a></i>
 </td></tr>
 <tr>
 <td><i>Goddam</i>
 </td>
-<td>&#34;God damn&#34;
+<td>"Mẹ kiếp"
 </td>
 <td><i><a href="../G/Gollum.md" title="Gollum">Gollum</a></i>
 </td></tr>
@@ -203,28 +203,28 @@ Các nhân vật, chủng tộc và địa điểm trong tiểu thuyết đều 
 <tr>
 <td><i>Fordor</i>
 </td>
-<td>&#34;four door,&#34; evil kingdom opposed to &#34;Two-dor&#34; (Tudor)
+<td>"bốn cửa", vương quốc độc ác đối lập với "Two-dor" (Tudor)
 </td>
 <td><i><a href="../M/Mordor.md" title="Mordor">Mordor</a></i>
 </td></tr>
 <tr>
-<td><i>Sorhed</i>, the evil wizard
+<td><i>Sorhed</i>, mụ phù thủy độc ác
 </td>
-<td>&#34;Sore head&#34;
+<td>"Đau đầu"
 </td>
 <td><i><a href="../S/Sauron.md" title="Sauron">Sauron</a></i>
 </td></tr>
 <tr>
 <td><i>Serutan</i>
 </td>
-<td>Serutan was the name of a laxative product: the product name is simply &#34;Natures&#34; spelled backwards.
+<td>Serutan là tên của một loại thuốc nhuận tràng: tên sản phẩm chỉ đơn giản là "Natures" đánh vần ngược.
 </td>
 <td><i><a href="../S/Saruman.md" title="Saruman">Saruman</a></i>
 </td></tr>
 <tr>
 <td><i>Isinglass</i>
 </td>
-<td><i>Isinglass</i>, a substance used in clarifying wine.
+<td><i>Isinglass</i>, chất dùng để làm trong rượu.
 </td>
 <td><i><a href="../I/Isengard.md" title="Isengard">Isengard</a></i>
 </td></tr></tbody></table>

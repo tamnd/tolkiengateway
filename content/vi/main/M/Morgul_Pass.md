@@ -46,7 +46,7 @@ Phiên bản trước của chương mà sau này trở thành chương Những 
 
 <b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Morgul Pass is guarded by a great gate called &#34;Fennas Gost&#34;. After the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a> Fennas Gost was sealed on the order of <a href="../G/Gothmog_(Lieutenant_of_Morgul).md" title="Gothmog (Lieutenant of Morgul)">Gothmog</a> who barricaded himself inside <a href="Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a>. It was later forced open by Ithilien rangers of the <a href="../W/White_Company.md" title="White Company">White Company</a>.</dd></dl>
+<dl><dd>Đèo Morgul được bảo vệ bởi một cánh cổng lớn tên là "Fennas Gost". Sau khi <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Trận chiến trên Cánh đồng Pelennor</a> Fennas Gost bị phong ấn theo lệnh của <a href="../G/Gothmog_(Lieutenant_of_Morgul).md" title="Gothmog (Lieutenant of Morgul)">Gothmog</a>, người đã tự rào chắn bên trong <a href="Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a>. Sau đó nó đã bị Ithilien kiểm lâm của <a href="../W/White_Company.md" title="White Company">Đại đội Trắng</a> buộc phải mở ra.</dd></dl>
 
 <br> <span></span>
 

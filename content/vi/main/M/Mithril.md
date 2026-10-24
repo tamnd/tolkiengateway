@@ -30,12 +30,12 @@ images:
   - "Lída_Holubová_-_Expensive.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the precious metal of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s <a href="../L/Legendarium.md" title="Legendarium">legendarium</a></b>. For the the real-world producers of metal mintiatures, see <b><a href="Mithril_Miniatures.md" title="Mithril Miniatures">Mithril Miniatures</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>kim loại quý <a href="../L/Legendarium.md" title="Legendarium">huyền thoại</a></b> của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>. Đối với các nhà sản xuất đồ đúc kim loại trong thế giới thực, hãy xem <b><a href="Mithril_Miniatures.md" title="Mithril Miniatures">Đồ thu nhỏ Mithril</a></b>.</div></div>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Mithril.jpg.md"><img src="https://tolkiengateway.net/w/images/8/8e/John_Howe_-_Mithril.jpg" decoding="async" loading="lazy" width="197" height="407" class="mw-file-element" data-file-width="197" data-file-height="407"/></a><figcaption><i>Mithril</i> by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p> <i>Mithril!</i> All folk desired it. It could be beaten like copper, and polished like glass; and the Dwarves could make of it a metal, light and yet harder than tempered steel. Its beauty was like to that of common silver, but the beauty of <i>mithril</i> did not tarnish or grow dim.
+<p> <i>Mithril!</i> Mọi người đều mong muốn điều đó. Nó có thể được dát mỏng như đồng và đánh bóng như thủy tinh; và Người Lùn có thể biến nó thành kim loại, nhẹ và cứng hơn thép tôi luyện. Vẻ đẹp của nó giống như bạc thông thường, nhưng vẻ đẹp của <i>mithril</i> không hề bị hoen ố hay mờ đi.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> in <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../A/A_Journey_in_the_Dark.md" title="A Journey in the Dark">A Journey in the Dark</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -75,7 +75,7 @@ Tên *mithril* bao gồm hai từ [Sindarin](../S/Sindarin.md) *[mith](Mith.md)*
 
 <b>2024: <i><a href="../T/The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">Chiếc nhẫn duy nhất</a> — <a href="Moria_-_Through_the_Doors_of_Durin.md" title="Moria - Through the Doors of Durin">Moria: Qua cánh cửa của Durin</a></i>:</b>
 
-<dl><dd>Several forms and alloys of mithril are detailed:<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></dd></dl>
+<dl><dd>Một số dạng và hợp kim của mithril được trình bày chi tiết:<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></dd></dl>
 
 - *Native Mithril:* Cốm thô chưa tinh chế, mềm như đồng.
 - *True Mithril:* Mithril được tinh chế bởi Người Lùn, một kỹ thuật bí mật cũng đã được biết đến hoặc được khám phá lại bởi các lò rèn của [Mordor](Mordor.md). Đây là hình thức được sử dụng trong hợp kim.

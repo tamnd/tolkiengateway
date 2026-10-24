@@ -20,7 +20,7 @@ sort_keys:
 ## Ví dụ {#Examples}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>ar sinda<b>nórie</b>llo caita mornië (&#39;and out of a grey <b>country</b> darkness lies&#39;)
+<p>ar sinda<b>nórie</b>llo caita mornië ('và từ một <b>đất nước</b> xám xịt, bóng tối nằm')
 </p>
 <p class="tg-quote-footer"><cite><i><a href="Namárië.md" title="Namárië">Namárië</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

@@ -20,9 +20,9 @@ categories:
 <tbody><tr>
 <th align="left">Card Number
 </th>
-<th align="left">Title
+<th align="left">Danh hiệu
 </th>
-<th align="left">Type
+<th align="left">Loại
 </th>
 <th align="left">Culture
 </th></tr>
@@ -31,63 +31,63 @@ categories:
 </td>
 <td>[[&amp;#149;The One Ring, Isildur&#39;s Bane]]
 </td>
-<td>The One Ring
+<td>Nhẫn Chúa
 </td>
-<td>The One Ring
+<td>Nhẫn Chúa
 </td></tr>
 <tr>
 <td>1R1T
 </td>
 <td>[[&amp;#149;The One Ring, Isildur&#39;s Bane (T)]]
 </td>
-<td>The One Ring
+<td>Nhẫn Chúa
 </td>
-<td>The One Ring
+<td>Nhẫn Chúa
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C2
 </td>
 <td>[[&amp;#149;The One Ring, The Ruling Ring]]
 </td>
-<td>The One Ring
+<td>Nhẫn Chúa
 </td>
-<td>The One Ring
+<td>Nhẫn Chúa
 </td></tr>
 <tr>
 <td>1C3
 </td>
 <td>Axe Strike
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C4
 </td>
 <td>Battle Fury
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr>
 <td>1C5
 </td>
 <td>Cleaving Blow
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C6
 </td>
 <td>Delving
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr>
 <td>1C7
@@ -96,7 +96,7 @@ categories:
 </td>
 <td>Companion • Dwarf
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C8
@@ -105,25 +105,25 @@ categories:
 </td>
 <td>Possession • Armor
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr>
 <td>1C9
 </td>
 <td>Dwarven Axe
 </td>
-<td>Possession • Hand Weapon
+<td>Sở hữu • Vũ khí cầm tay
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C10
 </td>
 <td>Dwarven Heart
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr>
 <td>1C11
@@ -132,7 +132,7 @@ categories:
 </td>
 <td>Companion • Dwarf
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U12
@@ -141,7 +141,7 @@ categories:
 </td>
 <td>Companion • Dwarf
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr>
 <td>1R13
@@ -150,7 +150,7 @@ categories:
 </td>
 <td>Companion • Dwarf
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1R13T
@@ -159,25 +159,25 @@ categories:
 </td>
 <td>Companion • Dwarf
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr>
 <td>1R14
 </td>
 <td>•Gimli&#39;s Battle Axe
 </td>
-<td>Possession • Hand Weapon
+<td>Sở hữu • Vũ khí cầm tay
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1R14T
 </td>
 <td>•Gimli&#39;s Battle Axe (T)
 </td>
-<td>Possession • Hand Weapon
+<td>Sở hữu • Vũ khí cầm tay
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr>
 <td>1R15
@@ -186,16 +186,16 @@ categories:
 </td>
 <td>Possession • Helm
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1R16
 </td>
 <td>•Greatest Kingdom of My People
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr>
 <td>1U17
@@ -204,88 +204,88 @@ categories:
 </td>
 <td>Ally • Home 3 • Dwarf
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C18
 </td>
 <td>Halls of My Home
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr>
 <td>1C19
 </td>
 <td>Here Lies Balin, Son of Fundin
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C20
 </td>
 <td>Let Them Come!
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr>
 <td>1C21
 </td>
-<td>Lord of Moria
+<td>Chúa tể Moria
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1R22
 </td>
 <td>Mithril Shaft
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr>
 <td>1R23
 </td>
 <td>Nobody Tosses a Dwarf
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C24
 </td>
 <td>Stairs of Khazad-dum
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr>
 <td>1C25
 </td>
 <td>Still Draws Breath
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C26
 </td>
 <td>Their Halls of Stone
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr>
 <td>1U27
@@ -294,25 +294,25 @@ categories:
 </td>
 <td>Ally • Home 3 • Dwarf
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1R28
 </td>
 <td>Wealth of Moria
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td></tr>
 <tr>
 <td>1U29
 </td>
 <td>Ancient Enmity
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1R30
@@ -321,7 +321,7 @@ categories:
 </td>
 <td>Companion • Elf
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1R30T
@@ -330,7 +330,7 @@ categories:
 </td>
 <td>Companion • Elf
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U31
@@ -339,16 +339,16 @@ categories:
 </td>
 <td>Possession • Mount
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1C32
 </td>
 <td>Border Defenses
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1R33
@@ -357,7 +357,7 @@ categories:
 </td>
 <td>Possession • Ranged Weapon
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1R34
@@ -366,52 +366,52 @@ categories:
 </td>
 <td>Ally • Home 6 • Elf
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1R35
 </td>
-<td>The Council of Elrond
+<td>Hội đồng Elrond
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1R36
 </td>
 <td>Curse Their Foul Feet!
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C37
 </td>
 <td>Defiance
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1R38
 </td>
 <td>Double Shot
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C39
 </td>
 <td>Elf-song
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1R40
@@ -420,7 +420,7 @@ categories:
 </td>
 <td>Ally • Home 3 • Elf
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C41
@@ -429,7 +429,7 @@ categories:
 </td>
 <td>Possession • Ranged Weapon
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1C42
@@ -438,25 +438,25 @@ categories:
 </td>
 <td>Possession • Cloak
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C43
 </td>
 <td>•Far-seeing Eyes
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1U44
 </td>
 <td>Foul Creation
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1R45
@@ -465,25 +465,25 @@ categories:
 </td>
 <td>Ally • Home 6 • Elf
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1U46
 </td>
 <td>•Gift of Boats
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1R47
 </td>
 <td>•Gwemegil
 </td>
-<td>Possession • Hand Weapon
+<td>Sở hữu • Vũ khí cầm tay
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1U48
@@ -492,16 +492,16 @@ categories:
 </td>
 <td>Companion • Elf
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1R49
 </td>
 <td>The Last Alliance of Elves and Men
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1R50
@@ -510,7 +510,7 @@ categories:
 </td>
 <td>Companion • Elf
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1R50T
@@ -519,7 +519,7 @@ categories:
 </td>
 <td>Companion • Elf
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1U51
@@ -528,16 +528,16 @@ categories:
 </td>
 <td>Companion • Elf
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C52
 </td>
 <td>Lightfootedness
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1C53
@@ -546,16 +546,16 @@ categories:
 </td>
 <td>Companion • Elf
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U54
 </td>
 <td>Mallorn-trees
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1R55
@@ -564,7 +564,7 @@ categories:
 </td>
 <td>Possession
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U56
@@ -573,7 +573,7 @@ categories:
 </td>
 <td>Ally • Home 6 • Elf
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1U57
@@ -582,25 +582,25 @@ categories:
 </td>
 <td>Ally • Home 6 • Elf
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C58
 </td>
 <td>The Seen and the Unseen
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1C59
 </td>
 <td>Shoulder to Shoulder
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U60
@@ -609,61 +609,61 @@ categories:
 </td>
 <td>Ally • Home 3 • Elf
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1C61
 </td>
 <td>Songs of the Blessed Realm
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1R62
 </td>
 <td>•The Splendor of Their Banners
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1U63
 </td>
 <td>Stand Against Darkness
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U64
 </td>
 <td>Support of the Last Homely House
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1U65
 </td>
 <td>Swan-ship of the Galadhrim
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1R66
 </td>
 <td>•The Tale of Gil-galad
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1C67
@@ -672,16 +672,16 @@ categories:
 </td>
 <td>Ally • Home 6 • Elf
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C68
 </td>
 <td>The White Arrows of Lorien
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Elven
+<td>Tiên
 </td></tr>
 <tr>
 <td>1R69
@@ -706,7 +706,7 @@ categories:
 </td>
 <td>Durin&#39;s Secret
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gandalf
 </td></tr>
@@ -751,7 +751,7 @@ categories:
 </td>
 <td>•Glamdring
 </td>
-<td>Possession • Hand Weapon
+<td>Sở hữu • Vũ khí cầm tay
 </td>
 <td>Gandalf
 </td></tr>
@@ -760,7 +760,7 @@ categories:
 </td>
 <td>Intimidate
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gandalf
 </td></tr>
@@ -769,7 +769,7 @@ categories:
 </td>
 <td>Let Folly Be Our Cloak
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gandalf
 </td></tr>
@@ -778,7 +778,7 @@ categories:
 </td>
 <td>Mysterious Wizard
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gandalf
 </td></tr>
@@ -787,7 +787,7 @@ categories:
 </td>
 <td>The Nine Walkers
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Gandalf
 </td></tr>
@@ -805,7 +805,7 @@ categories:
 </td>
 <td>Questions That Need Answering
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gandalf
 </td></tr>
@@ -814,7 +814,7 @@ categories:
 </td>
 <td>Risk a Little Light
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gandalf
 </td></tr>
@@ -823,7 +823,7 @@ categories:
 </td>
 <td>Servant of the Secret Fire
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gandalf
 </td></tr>
@@ -841,7 +841,7 @@ categories:
 </td>
 <td>Sleep, Caradhras
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gandalf
 </td></tr>
@@ -850,7 +850,7 @@ categories:
 </td>
 <td>Strength of Spirit
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gandalf
 </td></tr>
@@ -859,7 +859,7 @@ categories:
 </td>
 <td>Treachery Deeper Than You Know
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gandalf
 </td></tr>
@@ -868,7 +868,7 @@ categories:
 </td>
 <td>A Wizard Is Never Late
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gandalf
 </td></tr>
@@ -877,7 +877,7 @@ categories:
 </td>
 <td>An Able Guide
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gondor
 </td></tr>
@@ -931,7 +931,7 @@ categories:
 </td>
 <td>Arwen&#39;s Fate
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gondor
 </td></tr>
@@ -949,7 +949,7 @@ categories:
 </td>
 <td>•Blade of Gondor
 </td>
-<td>Possession • Hand Weapon
+<td>Sở hữu • Vũ khí cầm tay
 </td>
 <td>Gondor
 </td></tr>
@@ -994,7 +994,7 @@ categories:
 </td>
 <td>Change of Plans
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gondor
 </td></tr>
@@ -1003,7 +1003,7 @@ categories:
 </td>
 <td>•The Choice of Luthien
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Gondor
 </td></tr>
@@ -1021,7 +1021,7 @@ categories:
 </td>
 <td>Dagger Strike
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gondor
 </td></tr>
@@ -1030,7 +1030,7 @@ categories:
 </td>
 <td>Elendil&#39;s Valor
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gondor
 </td></tr>
@@ -1039,7 +1039,7 @@ categories:
 </td>
 <td>Eregion&#39;s Trails
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gondor
 </td></tr>
@@ -1048,7 +1048,7 @@ categories:
 </td>
 <td>Foes of Mordor
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Gondor
 </td></tr>
@@ -1057,7 +1057,7 @@ categories:
 </td>
 <td>Gondor&#39;s Vengeance
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gondor
 </td></tr>
@@ -1075,7 +1075,7 @@ categories:
 </td>
 <td>No Stranger to the Shadows
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Gondor
 </td></tr>
@@ -1084,7 +1084,7 @@ categories:
 </td>
 <td>One Whom Men Would Follow
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gondor
 </td></tr>
@@ -1093,7 +1093,7 @@ categories:
 </td>
 <td>Pathfinder
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gondor
 </td></tr>
@@ -1102,7 +1102,7 @@ categories:
 </td>
 <td>Pursuit Just Behind
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gondor
 </td></tr>
@@ -1111,7 +1111,7 @@ categories:
 </td>
 <td>•Ranger&#39;s Sword
 </td>
-<td>Possession • Hand Weapon
+<td>Sở hữu • Vũ khí cầm tay
 </td>
 <td>Gondor
 </td></tr>
@@ -1120,7 +1120,7 @@ categories:
 </td>
 <td>A Ranger&#39;s Versatility
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gondor
 </td></tr>
@@ -1129,7 +1129,7 @@ categories:
 </td>
 <td>•The Saga of Elendil
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Gondor
 </td></tr>
@@ -1138,7 +1138,7 @@ categories:
 </td>
 <td>•The Saga of Elendil (T)
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Gondor
 </td></tr>
@@ -1147,7 +1147,7 @@ categories:
 </td>
 <td>Strength of Kings
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gondor
 </td></tr>
@@ -1156,7 +1156,7 @@ categories:
 </td>
 <td>Swordarm of the White Tower
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gondor
 </td></tr>
@@ -1165,7 +1165,7 @@ categories:
 </td>
 <td>Swordsman of the Northern Kingdom
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gondor
 </td></tr>
@@ -1174,7 +1174,7 @@ categories:
 </td>
 <td>Valiant Man of the West
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gondor
 </td></tr>
@@ -1183,7 +1183,7 @@ categories:
 </td>
 <td>What Are They?
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Gondor
 </td></tr>
@@ -1192,7 +1192,7 @@ categories:
 </td>
 <td>Alive and Unspoiled
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Isengard
 </td></tr>
@@ -1201,7 +1201,7 @@ categories:
 </td>
 <td>Bred for Battle
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Isengard
 </td></tr>
@@ -1210,7 +1210,7 @@ categories:
 </td>
 <td>Breeding Pit
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Isengard
 </td></tr>
@@ -1219,7 +1219,7 @@ categories:
 </td>
 <td>Caradhras Has Not Forgiven Us
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Isengard
 </td></tr>
@@ -1228,7 +1228,7 @@ categories:
 </td>
 <td>Cruel Caradhras
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Isengard
 </td></tr>
@@ -1237,7 +1237,7 @@ categories:
 </td>
 <td>Greed
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Isengard
 </td></tr>
@@ -1246,7 +1246,7 @@ categories:
 </td>
 <td>Hunt Them Down!
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Isengard
 </td></tr>
@@ -1273,7 +1273,7 @@ categories:
 </td>
 <td>Lurtz&#39;s Battle Cry
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Isengard
 </td></tr>
@@ -1282,7 +1282,7 @@ categories:
 </td>
 <td>The Misadventure of Mr. Underhill
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Isengard
 </td></tr>
@@ -1291,7 +1291,7 @@ categories:
 </td>
 <td>No Ordinary Storm
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Isengard
 </td></tr>
@@ -1309,7 +1309,7 @@ categories:
 </td>
 <td>Parry
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Isengard
 </td></tr>
@@ -1318,7 +1318,7 @@ categories:
 </td>
 <td>Saruman&#39;s Ambition
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Isengard
 </td></tr>
@@ -1327,7 +1327,7 @@ categories:
 </td>
 <td>Saruman&#39;s Chill
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Isengard
 </td></tr>
@@ -1336,7 +1336,7 @@ categories:
 </td>
 <td>Saruman&#39;s Frost
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Isengard
 </td></tr>
@@ -1345,7 +1345,7 @@ categories:
 </td>
 <td>Saruman&#39;s Power
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Isengard
 </td></tr>
@@ -1354,7 +1354,7 @@ categories:
 </td>
 <td>Saruman&#39;s Reach
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Isengard
 </td></tr>
@@ -1363,7 +1363,7 @@ categories:
 </td>
 <td>Saruman&#39;s Snows
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Isengard
 </td></tr>
@@ -1372,7 +1372,7 @@ categories:
 </td>
 <td>Savagery to Match Their Numbers
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Isengard
 </td></tr>
@@ -1381,7 +1381,7 @@ categories:
 </td>
 <td>Spies of Saruman
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Isengard
 </td></tr>
@@ -1390,7 +1390,7 @@ categories:
 </td>
 <td>Their Arrows Enrage
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Isengard
 </td></tr>
@@ -1399,7 +1399,7 @@ categories:
 </td>
 <td>Traitor&#39;s Voice
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Isengard
 </td></tr>
@@ -1417,7 +1417,7 @@ categories:
 </td>
 <td>Uruk Bloodlust
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Isengard
 </td></tr>
@@ -1534,7 +1534,7 @@ categories:
 </td>
 <td>Uruk-hai Armory
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Isengard
 </td></tr>
@@ -1552,7 +1552,7 @@ categories:
 </td>
 <td>Uruk-hai Rampage
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Isengard
 </td></tr>
@@ -1561,7 +1561,7 @@ categories:
 </td>
 <td>Uruk-hai Sword
 </td>
-<td>Possession • Hand Weapon
+<td>Sở hữu • Vũ khí cầm tay
 </td>
 <td>Isengard
 </td></tr>
@@ -1570,7 +1570,7 @@ categories:
 </td>
 <td>Wariness
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Isengard
 </td></tr>
@@ -1579,7 +1579,7 @@ categories:
 </td>
 <td>•Worry
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Isengard
 </td></tr>
@@ -1588,7 +1588,7 @@ categories:
 </td>
 <td>•Ancient Chieftain
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Moria
 </td></tr>
@@ -1597,7 +1597,7 @@ categories:
 </td>
 <td>Bitter Hatred
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Moria
 </td></tr>
@@ -1624,7 +1624,7 @@ categories:
 </td>
 <td>•Cave Troll&#39;s Hammer
 </td>
-<td>Possession • Hand Weapon
+<td>Sở hữu • Vũ khí cầm tay
 </td>
 <td>Moria
 </td></tr>
@@ -1633,7 +1633,7 @@ categories:
 </td>
 <td>Denizens Enraged
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Moria
 </td></tr>
@@ -1642,7 +1642,7 @@ categories:
 </td>
 <td>Drums in the Deep
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Moria
 </td></tr>
@@ -1651,7 +1651,7 @@ categories:
 </td>
 <td>The End Comes
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Moria
 </td></tr>
@@ -1660,7 +1660,7 @@ categories:
 </td>
 <td>Fool of a Took!
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Moria
 </td></tr>
@@ -1669,7 +1669,7 @@ categories:
 </td>
 <td>Frenzy
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Moria
 </td></tr>
@@ -1678,7 +1678,7 @@ categories:
 </td>
 <td>Goblin Archer
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Moria
 </td></tr>
@@ -1687,7 +1687,7 @@ categories:
 </td>
 <td>Goblin Armory
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Moria
 </td></tr>
@@ -1696,7 +1696,7 @@ categories:
 </td>
 <td>Goblin Backstabber
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Moria
 </td></tr>
@@ -1705,7 +1705,7 @@ categories:
 </td>
 <td>Goblin Domain
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Moria
 </td></tr>
@@ -1714,7 +1714,7 @@ categories:
 </td>
 <td>Goblin Marksman
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Moria
 </td></tr>
@@ -1723,7 +1723,7 @@ categories:
 </td>
 <td>Goblin Patrol Troop
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Moria
 </td></tr>
@@ -1732,7 +1732,7 @@ categories:
 </td>
 <td>Goblin Runner
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Moria
 </td></tr>
@@ -1741,7 +1741,7 @@ categories:
 </td>
 <td>Goblin Scavengers
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Moria
 </td></tr>
@@ -1750,7 +1750,7 @@ categories:
 </td>
 <td>Goblin Scimitar
 </td>
-<td>Possession • Hand Weapon
+<td>Sở hữu • Vũ khí cầm tay
 </td>
 <td>Moria
 </td></tr>
@@ -1759,7 +1759,7 @@ categories:
 </td>
 <td>Goblin Sneak
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Moria
 </td></tr>
@@ -1768,7 +1768,7 @@ categories:
 </td>
 <td>Goblin Spear
 </td>
-<td>Possession • Hand Weapon
+<td>Sở hữu • Vũ khí cầm tay
 </td>
 <td>Moria
 </td></tr>
@@ -1777,7 +1777,7 @@ categories:
 </td>
 <td>Goblin Swarms
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Moria
 </td></tr>
@@ -1786,7 +1786,7 @@ categories:
 </td>
 <td>Goblin Wallcrawler
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Moria
 </td></tr>
@@ -1795,7 +1795,7 @@ categories:
 </td>
 <td>Goblin Warrior
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Moria
 </td></tr>
@@ -1804,7 +1804,7 @@ categories:
 </td>
 <td>•Guard Commander
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Moria
 </td></tr>
@@ -1813,7 +1813,7 @@ categories:
 </td>
 <td>Host of Thousands
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Moria
 </td></tr>
@@ -1822,7 +1822,7 @@ categories:
 </td>
 <td>•The Long Dark
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Moria
 </td></tr>
@@ -1831,7 +1831,7 @@ categories:
 </td>
 <td>Lost to the Goblins
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Moria
 </td></tr>
@@ -1840,7 +1840,7 @@ categories:
 </td>
 <td>Moria Axe
 </td>
-<td>Possession • Hand Weapon
+<td>Sở hữu • Vũ khí cầm tay
 </td>
 <td>Moria
 </td></tr>
@@ -1849,7 +1849,7 @@ categories:
 </td>
 <td>Moria Scout
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Moria
 </td></tr>
@@ -1858,7 +1858,7 @@ categories:
 </td>
 <td>Pinned Down
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Moria
 </td></tr>
@@ -1867,7 +1867,7 @@ categories:
 </td>
 <td>Plundered Armories
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Moria
 </td></tr>
@@ -1876,7 +1876,7 @@ categories:
 </td>
 <td>Relentless
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Moria
 </td></tr>
@@ -1885,7 +1885,7 @@ categories:
 </td>
 <td>Relics of Moria
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Moria
 </td></tr>
@@ -1894,7 +1894,7 @@ categories:
 </td>
 <td>They Are Coming
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Moria
 </td></tr>
@@ -1903,7 +1903,7 @@ categories:
 </td>
 <td>Threat of the Unknown
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Moria
 </td></tr>
@@ -1912,7 +1912,7 @@ categories:
 </td>
 <td>Through the Misty Mountains
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Moria
 </td></tr>
@@ -1921,7 +1921,7 @@ categories:
 </td>
 <td>•Troll&#39;s Keyward
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Moria
 </td></tr>
@@ -1930,7 +1930,7 @@ categories:
 </td>
 <td>The Underdeeps of Moria
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Moria
 </td></tr>
@@ -1939,7 +1939,7 @@ categories:
 </td>
 <td>Unfamiliar Territory
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Moria
 </td></tr>
@@ -1948,7 +1948,7 @@ categories:
 </td>
 <td>What Is This New Devilry?
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Moria
 </td></tr>
@@ -1957,45 +1957,45 @@ categories:
 </td>
 <td>All Blades Perish
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr>
 <td>1R204
 </td>
 <td>All Veils Removed
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1R205
 </td>
 <td>Beauty Is Fading
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr>
 <td>1R206
 </td>
 <td>Bent on Discovery
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U207
 </td>
-<td>Black Breath
+<td>Hơi Thở Đen
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr>
 <td>1R208
@@ -2004,187 +2004,187 @@ categories:
 </td>
 <td>Possession • Mount
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U209
 </td>
 <td>Blade Tip
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr>
 <td>1R210
 </td>
 <td>Dark Whispers
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U211
 </td>
 <td>Drawn to Its Power
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr>
 <td>1R212
 </td>
 <td>Fear
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U213
 </td>
 <td>Frozen by Fear
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr>
 <td>1R214
 </td>
 <td>In the Ringwraith&#39;s Wake
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U215
 </td>
 <td>The Master&#39;s Will
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr>
 <td>1R216
 </td>
 <td>Morgul Blade
 </td>
-<td>Possession • Hand Weapon
+<td>Sở hữu • Vũ khí cầm tay
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1R217
 </td>
 <td>Morgul Gates
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr>
 <td>1U218
 </td>
 <td>Nazgul Sword
 </td>
-<td>Possession • Hand Weapon
+<td>Sở hữu • Vũ khí cầm tay
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U219
 </td>
 <td>The Nine Servants of Sauron
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr>
 <td>1U220
 </td>
 <td>Not Easily Destroyed
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1R221
 </td>
 <td>•The Pale Blade
 </td>
-<td>Possession • Hand Weapon
+<td>Sở hữu • Vũ khí cầm tay
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr>
 <td>1U222
 </td>
 <td>Paths Seldom Trodden
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U223
 </td>
 <td>Relentless Charge
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr>
 <td>1R224
 </td>
 <td>Return to Its Master
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U225
 </td>
 <td>•Sword of Minas Morgul
 </td>
-<td>Possession • Hand Weapon
+<td>Sở hữu • Vũ khí cầm tay
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr>
 <td>1U226
 </td>
 <td>Their Power Is in Terror
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U227
 </td>
 <td>Threshold of Shadow
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr>
 <td>1R228
 </td>
 <td>The Twilight World
 </td>
-<td>Event
+<td>Sự kiện
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1R229
@@ -2193,7 +2193,7 @@ categories:
 </td>
 <td>Minion • Nazgul
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr>
 <td>1R230
@@ -2202,7 +2202,7 @@ categories:
 </td>
 <td>Minion • Nazgul
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U231
@@ -2211,7 +2211,7 @@ categories:
 </td>
 <td>Minion • Nazgul
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr>
 <td>1U231T
@@ -2220,7 +2220,7 @@ categories:
 </td>
 <td>Minion • Nazgul
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U232
@@ -2229,7 +2229,7 @@ categories:
 </td>
 <td>Minion • Nazgul
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr>
 <td>1U233
@@ -2238,7 +2238,7 @@ categories:
 </td>
 <td>Minion • Nazgul
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U234
@@ -2247,7 +2247,7 @@ categories:
 </td>
 <td>Minion • Nazgul
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr>
 <td>1U235
@@ -2256,7 +2256,7 @@ categories:
 </td>
 <td>Minion • Nazgul
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1R236
@@ -2265,7 +2265,7 @@ categories:
 </td>
 <td>Minion • Nazgul
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr>
 <td>1R237
@@ -2274,7 +2274,7 @@ categories:
 </td>
 <td>Minion • Nazgul
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1R237T
@@ -2283,23 +2283,23 @@ categories:
 </td>
 <td>Minion • Nazgul
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr>
 <td>1U238
 </td>
 <td>Wreathed in Shadow
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
-<td>Wraith
+<td>Bóng ma
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U239
 </td>
 <td>All Thought Bent on It
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Sauron
 </td></tr>
@@ -2308,7 +2308,7 @@ categories:
 </td>
 <td>Band of the Eye
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Sauron
 </td></tr>
@@ -2317,7 +2317,7 @@ categories:
 </td>
 <td>Curse From Mordor
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Sauron
 </td></tr>
@@ -2326,7 +2326,7 @@ categories:
 </td>
 <td>The Dark Lord&#39;s Summons
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Sauron
 </td></tr>
@@ -2335,7 +2335,7 @@ categories:
 </td>
 <td>Despair
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Sauron
 </td></tr>
@@ -2344,7 +2344,7 @@ categories:
 </td>
 <td>Desperate Defense of the Ring
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Sauron
 </td></tr>
@@ -2353,7 +2353,7 @@ categories:
 </td>
 <td>Desperate Measures
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Sauron
 </td></tr>
@@ -2362,7 +2362,7 @@ categories:
 </td>
 <td>Enduring Evil
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Sauron
 </td></tr>
@@ -2371,7 +2371,7 @@ categories:
 </td>
 <td>Enheartened Foe
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Sauron
 </td></tr>
@@ -2380,7 +2380,7 @@ categories:
 </td>
 <td>Forces of Mordor
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Sauron
 </td></tr>
@@ -2389,7 +2389,7 @@ categories:
 </td>
 <td>Gleaming Spires Will Crumble
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Sauron
 </td></tr>
@@ -2398,7 +2398,7 @@ categories:
 </td>
 <td>Hate
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Sauron
 </td></tr>
@@ -2407,7 +2407,7 @@ categories:
 </td>
 <td>A Host Avails Little
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Sauron
 </td></tr>
@@ -2416,7 +2416,7 @@ categories:
 </td>
 <td>The Irresistible Shadow
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Sauron
 </td></tr>
@@ -2425,7 +2425,7 @@ categories:
 </td>
 <td>Journey Into Danger
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Sauron
 </td></tr>
@@ -2434,7 +2434,7 @@ categories:
 </td>
 <td>Mordor Enraged
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Sauron
 </td></tr>
@@ -2443,7 +2443,7 @@ categories:
 </td>
 <td>Mordor&#39;s Strength
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Sauron
 </td></tr>
@@ -2452,7 +2452,7 @@ categories:
 </td>
 <td>Morgul Hunter
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Sauron
 </td></tr>
@@ -2461,7 +2461,7 @@ categories:
 </td>
 <td>Morgul Hunter (T)
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Sauron
 </td></tr>
@@ -2470,7 +2470,7 @@ categories:
 </td>
 <td>Morgul Skirmisher
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Sauron
 </td></tr>
@@ -2479,7 +2479,7 @@ categories:
 </td>
 <td>Morgul Skulker
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Sauron
 </td></tr>
@@ -2488,7 +2488,7 @@ categories:
 </td>
 <td>•Morgul Warden
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Sauron
 </td></tr>
@@ -2497,7 +2497,7 @@ categories:
 </td>
 <td>The Number Must Be Few
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Sauron
 </td></tr>
@@ -2506,7 +2506,7 @@ categories:
 </td>
 <td>Orc Ambusher
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Sauron
 </td></tr>
@@ -2515,7 +2515,7 @@ categories:
 </td>
 <td>Orc Assassin
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Sauron
 </td></tr>
@@ -2524,7 +2524,7 @@ categories:
 </td>
 <td>Orc Banner
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Sauron
 </td></tr>
@@ -2533,7 +2533,7 @@ categories:
 </td>
 <td>Orc Bowmen
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Sauron
 </td></tr>
@@ -2542,7 +2542,7 @@ categories:
 </td>
 <td>Orc Butchery
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Sauron
 </td></tr>
@@ -2551,7 +2551,7 @@ categories:
 </td>
 <td>Orc Chieftain
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Sauron
 </td></tr>
@@ -2560,7 +2560,7 @@ categories:
 </td>
 <td>Orc Hunters
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Sauron
 </td></tr>
@@ -2569,7 +2569,7 @@ categories:
 </td>
 <td>Orc Inquisitor
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Sauron
 </td></tr>
@@ -2578,7 +2578,7 @@ categories:
 </td>
 <td>Orc Scimitar
 </td>
-<td>Possession • Hand Weapon
+<td>Sở hữu • Vũ khí cầm tay
 </td>
 <td>Sauron
 </td></tr>
@@ -2587,7 +2587,7 @@ categories:
 </td>
 <td>Orc Scouting Band
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Sauron
 </td></tr>
@@ -2596,7 +2596,7 @@ categories:
 </td>
 <td>Orc Soldier
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Sauron
 </td></tr>
@@ -2605,7 +2605,7 @@ categories:
 </td>
 <td>Orc War Band
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Sauron
 </td></tr>
@@ -2614,7 +2614,7 @@ categories:
 </td>
 <td>The Ring&#39;s Oppression
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Sauron
 </td></tr>
@@ -2623,7 +2623,7 @@ categories:
 </td>
 <td>Sauron&#39;s Defenses
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Sauron
 </td></tr>
@@ -2632,7 +2632,7 @@ categories:
 </td>
 <td>Seeking It Always
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Sauron
 </td></tr>
@@ -2641,7 +2641,7 @@ categories:
 </td>
 <td>Seeking Its Master
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Sauron
 </td></tr>
@@ -2650,7 +2650,7 @@ categories:
 </td>
 <td>Shadow&#39;s Reach
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Sauron
 </td></tr>
@@ -2659,7 +2659,7 @@ categories:
 </td>
 <td>Strength Born of Fear
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Sauron
 </td></tr>
@@ -2668,7 +2668,7 @@ categories:
 </td>
 <td>•Thin and Stretched
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Sauron
 </td></tr>
@@ -2677,7 +2677,7 @@ categories:
 </td>
 <td>•Tower Lieutenant
 </td>
-<td>Minion • Orc
+<td>Tay sai • Orc
 </td>
 <td>Sauron
 </td></tr>
@@ -2686,7 +2686,7 @@ categories:
 </td>
 <td>Under the Watching Eye
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Sauron
 </td></tr>
@@ -2695,7 +2695,7 @@ categories:
 </td>
 <td>The Weight of a Legacy
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Sauron
 </td></tr>
@@ -2704,7 +2704,7 @@ categories:
 </td>
 <td>You Bring Great Evil
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Sauron
 </td></tr>
@@ -2740,7 +2740,7 @@ categories:
 </td>
 <td>Extraordinary Resilience
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Shire
 </td></tr>
@@ -2758,7 +2758,7 @@ categories:
 </td>
 <td>•Frodo, Old Bilbo&#39;s Heir
 </td>
-<td>Companion • Hobbit
+<td>Bạn đồng hành • Hobbit
 </td>
 <td>Shire
 </td></tr>
@@ -2767,7 +2767,7 @@ categories:
 </td>
 <td>•Frodo, Son of Drogo
 </td>
-<td>Companion • Hobbit
+<td>Bạn đồng hành • Hobbit
 </td>
 <td>Shire
 </td></tr>
@@ -2794,7 +2794,7 @@ categories:
 </td>
 <td>Halfling Deftness
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Shire
 </td></tr>
@@ -2803,7 +2803,7 @@ categories:
 </td>
 <td>Hobbit Appetite
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Shire
 </td></tr>
@@ -2821,7 +2821,7 @@ categories:
 </td>
 <td>Hobbit Intuition
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Shire
 </td></tr>
@@ -2839,7 +2839,7 @@ categories:
 </td>
 <td>Hobbit Stealth
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Shire
 </td></tr>
@@ -2848,7 +2848,7 @@ categories:
 </td>
 <td>Hobbit Sword
 </td>
-<td>Possession • Hand Weapon
+<td>Sở hữu • Vũ khí cầm tay
 </td>
 <td>Shire
 </td></tr>
@@ -2875,7 +2875,7 @@ categories:
 </td>
 <td>•Merry, Friend to Sam
 </td>
-<td>Companion • Hobbit
+<td>Bạn đồng hành • Hobbit
 </td>
 <td>Shire
 </td></tr>
@@ -2884,7 +2884,7 @@ categories:
 </td>
 <td>•Merry, From O&#39;er the Brandywine
 </td>
-<td>Companion • Hobbit
+<td>Bạn đồng hành • Hobbit
 </td>
 <td>Shire
 </td></tr>
@@ -2893,7 +2893,7 @@ categories:
 </td>
 <td>Noble Intentions
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Shire
 </td></tr>
@@ -2911,7 +2911,7 @@ categories:
 </td>
 <td>•Pippin, Friend to Frodo
 </td>
-<td>Companion • Hobbit
+<td>Bạn đồng hành • Hobbit
 </td>
 <td>Shire
 </td></tr>
@@ -2920,7 +2920,7 @@ categories:
 </td>
 <td>•Pippin, Hobbit of Some Intelligence
 </td>
-<td>Companion • Hobbit
+<td>Bạn đồng hành • Hobbit
 </td>
 <td>Shire
 </td></tr>
@@ -2929,7 +2929,7 @@ categories:
 </td>
 <td>Power According to His Stature
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Shire
 </td></tr>
@@ -2947,7 +2947,7 @@ categories:
 </td>
 <td>•Sam, Faithful Companion
 </td>
-<td>Companion • Hobbit
+<td>Bạn đồng hành • Hobbit
 </td>
 <td>Shire
 </td></tr>
@@ -2956,7 +2956,7 @@ categories:
 </td>
 <td>•Sam, Son of Hamfast
 </td>
-<td>Companion • Hobbit
+<td>Bạn đồng hành • Hobbit
 </td>
 <td>Shire
 </td></tr>
@@ -2965,7 +2965,7 @@ categories:
 </td>
 <td>Sorry About Everything
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Shire
 </td></tr>
@@ -2974,7 +2974,7 @@ categories:
 </td>
 <td>•Sting
 </td>
-<td>Possession • Hand Weapon
+<td>Sở hữu • Vũ khí cầm tay
 </td>
 <td>Shire
 </td></tr>
@@ -2983,7 +2983,7 @@ categories:
 </td>
 <td>Stone Trolls
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Shire
 </td></tr>
@@ -2992,7 +2992,7 @@ categories:
 </td>
 <td>Stout and Sturdy
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>Shire
 </td></tr>
@@ -3001,7 +3001,7 @@ categories:
 </td>
 <td>•A Talent for Not Being Seen
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Shire
 </td></tr>
@@ -3010,7 +3010,7 @@ categories:
 </td>
 <td>•There and Back Again
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>Shire
 </td></tr>
@@ -3028,405 +3028,405 @@ categories:
 </td>
 <td>Bag End
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U320
 </td>
 <td>East Road
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1U321
 </td>
 <td>Farmer Maggot&#39;s Fields
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U322
 </td>
 <td>Green Dragon Inn
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1U323
 </td>
 <td>Green Hill Country
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U324
 </td>
 <td>The Prancing Pony
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1U325
 </td>
 <td>Shire Lookout Point
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C326
 </td>
 <td>Westfarthing
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1U327
 </td>
 <td>Bree Gate
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U328
 </td>
 <td>Bree Streets
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1U329
 </td>
 <td>Breeland Forest
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U330
 </td>
 <td>Buckleberry Ferry
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1C331
 </td>
 <td>Ettenmoors
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U332
 </td>
 <td>Midgewater Marshes
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1U333
 </td>
 <td>Midgewater Moors
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U334
 </td>
 <td>Trollshaw Forest
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1U335
 </td>
 <td>Weatherhills
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U336
 </td>
 <td>Weathertop
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1C337
 </td>
 <td>Council Courtyard
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U338
 </td>
 <td>Ford of Bruinen
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1U339
 </td>
 <td>Frodo&#39;s Bedroom
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U340
 </td>
 <td>Rivendell Terrace
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1U341
 </td>
 <td>Rivendell Valley
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U342
 </td>
 <td>Rivendell Waterfall
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1U343
 </td>
-<td>Balin&#39;s Tomb
+<td>Mộ của Balin
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U344
 </td>
 <td>Dwarrowdelf Chamber
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1U345
 </td>
 <td>Mithril Mine
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C346
 </td>
 <td>Moria Lake
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1U347
 </td>
 <td>Moria Stairway
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U348
 </td>
 <td>Pass of Caradhras
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1C349
 </td>
 <td>The Bridge of Khazad-dum
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U350
 </td>
-<td>Dimrill Dale
+<td>Thung lũng Dimrill
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1C351
 </td>
 <td>Galadriel&#39;s Glade
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U352
 </td>
 <td>Lothlorien Woods
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1U353
 </td>
 <td>Anduin Confluence
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C354
 </td>
 <td>Anduin Wilderland
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1U355
 </td>
 <td>Silverlode Banks
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C356
 </td>
 <td>Anduin Banks
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1U357
 </td>
 <td>Brown Lands
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U358
 </td>
 <td>Pillars of the Kings
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1U359
 </td>
 <td>Shores of Nen Hithoel
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1U360
 </td>
 <td>Emyn Muil
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1U361
 </td>
 <td>Slopes of Amon Hen
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1C362
 </td>
 <td>Summit of Amon Hen
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr>
 <td>1U363
 </td>
 <td>Tol Brandir
 </td>
-<td>Site
+<td>Trang web
 </td>
-<td>Site
+<td>Trang web
 </td></tr>
 <tr bgcolor="#cedff2">
 <td>1P364

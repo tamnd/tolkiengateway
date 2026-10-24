@@ -15,7 +15,7 @@ categories:
 Trong bài giảng *[English and Welsh](../E/English_and_Welsh.md)* năm 1955 của mình, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã đề cập đến **cánh cửa hầm** như một sự kết hợp của các từ tiếng Anh có âm thanh đặc biệt hay độc lập với ý nghĩa của chúng (tức là <a class="extiw" href="http://en.wikipedia.org/wiki/Phonaesthetics" title="wikipedia:Phonaesthetics">hoàn toàn đẹp về mặt âm vị</a>):
 
 <blockquote class="tg-quote noexcerpt">
-<p>Most English-speaking people ... will admit that cellar door is &#39;beautiful&#39;, especially if dissociated from its sense (and from its spelling). More beautiful than, say, sky, and far more beautiful than beautiful. Well then, in Welsh for me cellar doors are extraordinarily frequent, and moving to the higher dimension, the words in which there is pleasure in the contemplation of the association of form and sense are abundant.
+<p>Hầu hết những người nói tiếng Anh ... sẽ thừa nhận rằng cửa hầm rất 'đẹp', đặc biệt nếu tách rời khỏi ý nghĩa (và cách viết của nó). Đẹp hơn bầu trời, và đẹp hơn nhiều so với đẹp. Vậy thì, trong tiếng Wales đối với tôi, cửa hầm xuất hiện thường xuyên một cách lạ thường, và khi chuyển sang chiều không gian cao hơn, những từ ngữ thể hiện niềm vui khi chiêm ngưỡng sự kết hợp giữa hình thức và ý nghĩa là rất phong phú.
 </p>
 </blockquote>
 

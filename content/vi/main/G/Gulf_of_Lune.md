@@ -38,13 +38,13 @@ infobox:
     value: "Arrowhead-shaped"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
-<p>Who told you, and who sent you?
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Nguồn</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần <b><a href="../../help/R/References.md" title="Help:References">nguồn</a></b> nhiều/mới/chi tiết hơn để tuân thủ tiêu chuẩn cao hơn và cung cấp bằng chứng cho những tuyên bố được đưa ra.<blockquote class="tg-quote noexcerpt">
+<p>Ai đã nói với bạn và ai đã gửi cho bạn?
 </p>
 <p class="tg-quote-footer"><cite><a href="Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Gulf</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Gulf of Lune</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Gulf of Lhûn</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Between <a href="../H/Harlindon.md" title="Harlindon">Harlindon</a> and <a href="../F/Forlindon.md" title="Forlindon">Forlindon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Gulf</td></tr><tr><th scope="row" class="tg-infobox-label">Description</th><td class="tg-infobox-data">Arrowhead-shaped</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Gulf</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Vịnh Lune</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin chung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data">Vịnh Lhûn</td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Between <a href="../H/Harlindon.md" title="Harlindon">Harlindon</a> and <a href="../F/Forlindon.md" title="Forlindon">Forlindon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Loại</th><td class="tg-infobox-data">Gulf</td></tr><tr><th scope="row" class="tg-infobox-label">Mô tả</th><td class="tg-infobox-data">Arrowhead-shaped</td></tr></tbody></table>
 
 <div style="right: 0px; clear: right; float:right; margin: 0px 0px 10px 10px;">
 <table style="border:var(--tg-border-base); background-color:var(--tg-color-surface-2); font-size: 0.8em; line-height: 1.5;border-radius:var(--tg-border-radius-large);" width="275px">
@@ -53,10 +53,10 @@ infobox:
 </tr>
 <tr>
 <td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/S/Sindarin_-_Lhûn.mp3.md" title="File:Sindarin - Lhûn.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
-<td style="text-align:center"><b><a href="../../file/S/Sindarin_-_Lhûn.mp3.md" title="File:Sindarin - Lhûn.mp3">File:Sindarin - Lhûn.mp3</a></b></td>
+<td style="text-align:center"><b><a href="../../file/S/Sindarin_-_Lhûn.mp3.md" title="File:Sindarin - Lhûn.mp3">Tệp:Sindarin - Lhûn.mp3</a></b></td>
 </tr>
 <tr>
-<td style="font-size: small; padding-bottom: 3px; text-align:center;">By <a href="https://tolkiengateway.net/wiki/User:Gilgamesh" title="User:Gilgamesh">Gilgamesh</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Media help</a>)</td>
+<td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Gilgamesh" title="User:Gilgamesh">Gilgamesh</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
 </tr>
 </tbody></table>
 </div>
@@ -77,7 +77,7 @@ Trong [Kỷ Đệ Nhị](../S/Second_Age.md), những con tàu của người [N
 
 <b>2001-03: <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a>:</b>
 
-<dl><dd>For the maps produced for use in the movies, <a href="../D/Daniel_Reeve.md" title="Daniel Reeve">Daniel Reeve</a> changed the coastline of the Gulf of Lune by giving it the shape of New Zealand&#39;s Wellington Harbour.</dd></dl>
+<dl><dd>Đối với các bản đồ được tạo ra để sử dụng trong phim, <a href="../D/Daniel_Reeve.md" title="Daniel Reeve">Daniel Reeve</a> đã thay đổi đường bờ biển của Vịnh Lune bằng cách tạo cho nó hình dạng Cảng Wellington của New Zealand.</dd></dl>
 
 <span></span>
 

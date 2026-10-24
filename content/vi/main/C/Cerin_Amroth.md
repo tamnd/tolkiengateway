@@ -31,7 +31,7 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Cerin_Amroth.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Amroth</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../A/Amroth_(disambiguation).md" title="Amroth (disambiguation)">Amroth (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Amroth</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../A/Amroth_(disambiguation).md" title="Amroth (disambiguation)">Amroth (định hướng)</a></b>.</div></div>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_The_Heart_of_Elvendom_on_Earth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/52/Mat%C4%9Bj_%C4%8Cadil_-_The_Heart_of_Elvendom_on_Earth.jpg/300px-Mat%C4%9Bj_%C4%8Cadil_-_The_Heart_of_Elvendom_on_Earth.jpg" decoding="async" loading="lazy" width="300" height="204" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/52/Mat%C4%9Bj_%C4%8Cadil_-_The_Heart_of_Elvendom_on_Earth.jpg/450px-Mat%C4%9Bj_%C4%8Cadil_-_The_Heart_of_Elvendom_on_Earth.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/52/Mat%C4%9Bj_%C4%8Cadil_-_The_Heart_of_Elvendom_on_Earth.jpg/600px-Mat%C4%9Bj_%C4%8Cadil_-_The_Heart_of_Elvendom_on_Earth.jpg 2x" data-file-width="1000" data-file-height="679"/></a><figcaption><i>The Heart of Elvendom on Earth</i> by <a href="../M/Matěj_Čadil.md" title="Matěj Čadil">Matěj Čadil</a></figcaption></figure>
 
@@ -43,7 +43,7 @@ Các sườn đồi phủ đầy cỏ cùng những loài hoa *[elanor](<../E/El
 
 ## Lịch sử {#History}
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stephen_Walsh_-_Arwen_and_Aragorn_plight_their_troth_on_Cerin_Amroth.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/72/Stephen_Walsh_-_Arwen_and_Aragorn_plight_their_troth_on_Cerin_Amroth.png/200px-Stephen_Walsh_-_Arwen_and_Aragorn_plight_their_troth_on_Cerin_Amroth.png" decoding="async" loading="lazy" width="200" height="295" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/72/Stephen_Walsh_-_Arwen_and_Aragorn_plight_their_troth_on_Cerin_Amroth.png/300px-Stephen_Walsh_-_Arwen_and_Aragorn_plight_their_troth_on_Cerin_Amroth.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/72/Stephen_Walsh_-_Arwen_and_Aragorn_plight_their_troth_on_Cerin_Amroth.png/400px-Stephen_Walsh_-_Arwen_and_Aragorn_plight_their_troth_on_Cerin_Amroth.png 2x" data-file-width="1483" data-file-height="2184"/></a><figcaption><i>Arwen and Aragorn plight their troth on Cerin Amroth</i> by <a href="../S/Stephen_Walsh.md" title="Stephen Walsh">Stephen Walsh</a></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stephen_Walsh_-_Arwen_and_Aragorn_plight_their_troth_on_Cerin_Amroth.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/72/Stephen_Walsh_-_Arwen_and_Aragorn_plight_their_troth_on_Cerin_Amroth.png/200px-Stephen_Walsh_-_Arwen_and_Aragorn_plight_their_troth_on_Cerin_Amroth.png" decoding="async" loading="lazy" width="200" height="295" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/72/Stephen_Walsh_-_Arwen_and_Aragorn_plight_their_troth_on_Cerin_Amroth.png/300px-Stephen_Walsh_-_Arwen_and_Aragorn_plight_their_troth_on_Cerin_Amroth.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/72/Stephen_Walsh_-_Arwen_and_Aragorn_plight_their_troth_on_Cerin_Amroth.png/400px-Stephen_Walsh_-_Arwen_and_Aragorn_plight_their_troth_on_Cerin_Amroth.png 2x" data-file-width="1483" data-file-height="2184"/></a><figcaption><i>Arwen và Aragorn hoàn thành sứ mệnh của mình trên Cerin Amroth</i> của <a href="../S/Stephen_Walsh.md" title="Stephen Walsh">Stephen Walsh</a></figcaption></figure>
 
 Ngọn đồi nhận được tên của mình, Cerin Amroth (“Gò của Amroth”), vào [Kỷ Đệ Tam](../T/Third_Age.md), khi [Amroth](../A/Amroth.md), [Vua Lórien](../K/King_of_Lórien.md), sống trên những cây cao theo cách của [Tiên tộc Silvan](../S/Silvan_Elves.md) trên ngọn đồi. Chức năng chính của flet trên ngọn đồi là canh chừng pháo đài [Dol Guldur](../D/Dol_Guldur.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ngọn đồi vẫn giữ tên của mình sau khi Amroth rời vương quốc cùng người yêu của ông là [Nimrodel](../N/Nimrodel.md) và nhiều Tiên tộc khác của Lothlórien vào [Kỷ Đệ Tam](../T/Third_Age.md) năm [1981](../T/Third_Age_1981.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
@@ -62,10 +62,10 @@ Sau cái chết của Aragorn vào ngày 1 tháng Ba, [Kỷ Đệ Tứ](../F/Fou
 </tr>
 <tr>
 <td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/C/Cerin_Amroth.mp3.md" title="File:Cerin Amroth.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
-<td style="text-align:center"><b><a href="../../file/C/Cerin_Amroth.mp3.md" title="File:Cerin Amroth.mp3">File:Cerin Amroth.mp3</a></b></td>
+<td style="text-align:center"><b><a href="../../file/C/Cerin_Amroth.mp3.md" title="File:Cerin Amroth.mp3">Tệp:Cerin Amroth.mp3</a></b></td>
 </tr>
 <tr>
-<td style="font-size: small; padding-bottom: 3px; text-align:center;">By <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Media help</a>)</td>
+<td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
 </tr>
 </tbody></table>
 </div>
@@ -78,7 +78,7 @@ Sau cái chết của Aragorn vào ngày 1 tháng Ba, [Kỷ Đệ Tứ](../F/Fou
 
 <b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Frodo, Sam, Legolas, and Gimli can all be found visiting Cerim Amroth.</dd></dl>
+<dl><dd>Frodo, Sam, Legolas và Gimli đều có thể được tìm thấy khi truy cập Cerim Amroth.</dd></dl>
 
 <span></span>
 

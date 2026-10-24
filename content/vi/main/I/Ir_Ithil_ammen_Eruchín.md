@@ -23,16 +23,16 @@ infobox:
     value: "Varda"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 <table class="tg-infobox floatright">
-  <tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Poems by J.R.R. Tolkien</a></td></tr>
-  <tr><th colspan="2" class="tg-infobox-title"><span>&#34;<i>Ir Ithil ammen Eruchín</i>&#34;</span></th></tr>
-  <tr><th colspan="2" class="tg-infobox-header"><span>Poem Information</span></th></tr>
-  <tr><th scope="row" class="tg-infobox-label">Written</th><td class="tg-infobox-data">Possibly the <a href="../_/1950.md" title="1950">1950s</a></td></tr>
-  <tr><th scope="row" class="tg-infobox-label">Published</th><td class="tg-infobox-data"><i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i>,<br/><i><a href="../V/Vinyar_Tengwar_9.md" title="Vinyar Tengwar 9">Vinyar Tengwar 9</a></i>,<br/><i><a href="../A/A_Gateway_to_Sindarin.md" title="A Gateway to Sindarin">A Gateway to Sindarin</a></i></td></tr>
-  <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../V/Varda.md" title="Varda">Varda</a></td></tr>
+  <tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Thơ của J.R.R. Tolkien</a></td></tr>
+  <tr><th colspan="2" class="tg-infobox-title"><span>"<i>Ir Ithil ammen Eruchín</i>"</span></th></tr>
+  <tr><th colspan="2" class="tg-infobox-header"><span>Thông tin về bài thơ</span></th></tr>
+  <tr><th scope="row" class="tg-infobox-label">Viết</th><td class="tg-infobox-data">Possibly the <a href="../_/1950.md" title="1950">1950s</a></td></tr>
+  <tr><th scope="row" class="tg-infobox-label">Xuất bản</th><td class="tg-infobox-data"><i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i>,<br/><i><a href="../V/Vinyar_Tengwar_9.md" title="Vinyar Tengwar 9">Vinyar Tengwar 9</a></i>,<br/><i><a href="../A/A_Gateway_to_Sindarin.md" title="A Gateway to Sindarin">A Gateway to Sindarin</a></i></td></tr>
+  <tr><th scope="row" class="tg-infobox-label">Chủ đề</th><td class="tg-infobox-data"><a href="../V/Varda.md" title="Varda">Varda</a></td></tr>
 </tbody></table>
 
 "<i><b>Ir Ithil ammen Eruchín</b></i>" là dòng đầu tiên của một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được xuất bản sau khi di cảo tại *[The Lays of Beleriand](../T/The_Lays_of_Beleriand.md)* năm [1985](../_/1985.md).<sup id="cite_ref-song_1-0" class="reference"><a href="#cite_note-song-1">[1]</a></sup>
@@ -53,18 +53,18 @@ Mặc dù Tolkien chưa bao giờ đặt tên cho bài thơ, nhưng nó được
 <td><div class="poem">
 <p>Ir Ithil ammen Eruchín<br/>
       <a href="../M/Menel.md" title="Menel">menel</a>-vîr síla díriel<br/>
-si loth a galadh lasto dîn!<br/>
+tôi rất thích một buổi dạ tiệc cuối cùng!<br/>
       A Hîr Annûn gilthoniel,<br/>
 le linnon im Tinúviel!<sup id="cite_ref-song_1-1" class="reference"><a href="#cite_note-song-1">[1]</a></sup>
 </p>
 </div>
 </td>
 <td><div class="poem">
-<p>When the Moon, for us, the Children of Eru<br/>
-a heavenly jewel shines silver, having watched<br/>
-Here/now let flower and tree listen in silence/below!<br/>
-O Lord of the West, star-kindling,<br/>
-to thee I sing, I, the Nightingale!<sup id="cite_ref-first_3-2" class="reference"><a href="#cite_note-first-3">[3]</a></sup>
+<p>Khi Mặt Trăng, đối với chúng tôi, Những đứa con của Eru<br/>
+viên ngọc trời tỏa sáng bạc, đã ngắm nhìn<br/>
+Ở đây/bây giờ hãy để hoa và cây im lặng lắng nghe/bên dưới!<br/>
+Hỡi Chúa tể của Phương Tây, ngôi sao đang nhen nhóm,<br/>
+Tôi hát cho bạn nghe, tôi, Chim sơn ca!<sup id="cite_ref-first_3-2" class="reference"><a href="#cite_note-first-3">[3]</a></sup>
 </p>
 </div>
 </td></tr></tbody></table>

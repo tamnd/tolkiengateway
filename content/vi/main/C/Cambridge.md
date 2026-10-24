@@ -27,14 +27,14 @@ Với tư cách là một thành viên của Merton College, ông đã đến th
 		<li class="gallerybox" style="width: 162px">
 			<div class="thumb" style="width: 160px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/F/FormerlyMertonArms.jpg.md" title="Site of former pub The Merton Arms"><img alt="Site of former pub The Merton Arms" src="https://tolkiengateway.net/w/images/thumb/d/db/FormerlyMertonArms.jpg/240px-FormerlyMertonArms.jpg" decoding="async" loading="lazy" width="160" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/db/FormerlyMertonArms.jpg/360px-FormerlyMertonArms.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/db/FormerlyMertonArms.jpg/480px-FormerlyMertonArms.jpg 2x" data-file-width="2048" data-file-height="1536"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 140px"><div class="gallerytext">
-<p>Site of former pub The Merton Arms
+<p>Địa điểm của quán rượu cũ The Merton Arms
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 92px">
 			<div class="thumb" style="width: 90px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MertonArmsDoorway.jpg.md" title="Close up of the doorway of what used to be the Merton Arms pub"><img alt="Close up of the doorway of what used to be the Merton Arms pub" src="https://tolkiengateway.net/w/images/thumb/1/10/MertonArmsDoorway.jpg/135px-MertonArmsDoorway.jpg" decoding="async" loading="lazy" width="90" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/10/MertonArmsDoorway.jpg/202px-MertonArmsDoorway.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/10/MertonArmsDoorway.jpg/270px-MertonArmsDoorway.jpg 2x" data-file-width="1536" data-file-height="2048"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 70px"><div class="gallerytext">
-<p>Close up of the doorway of what used to be the Merton Arms pub
+<p>Cận cảnh ô cửa của nơi từng là quán rượu Merton Arms
 </p>
 			</div></div>
 		</li>

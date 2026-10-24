@@ -14,7 +14,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>an Elvish <a href="../S/Sundocarme.md" title="Sundocarme">root</a></b>. For the <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> noun, see <b><a href="Bâd.md" title="Bâd">bâd</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>một Elvish <a href="../S/Sundocarme.md" title="Sundocarme">root</a></b>. Đối với danh từ <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a>, xem <b><a href="Bâd.md" title="Bâd">bâd</a></b>.</div></div>
 
 **BAD** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) có hai từ nguyên khác nhau (BAD<sup>[1]</sup> và BAD<sup>[2]</sup>). Cả hai đều xuất hiện mà không có bất kỳ ý nghĩa nào, ngoài những gì có thể được xác định từ các dẫn xuất của chúng.<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup><sup id="cite_ref-VT45_2-0" class="reference"><a href="#cite_note-VT45-2">[2]</a></sup>
 

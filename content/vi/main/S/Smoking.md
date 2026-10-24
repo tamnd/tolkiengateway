@@ -18,7 +18,7 @@ images:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stephen_Schwartz_-_Smoke_Rings.jpg.md"><img src="https://tolkiengateway.net/w/images/2/2e/Stephen_Schwartz_-_Smoke_Rings.jpg" decoding="async" loading="lazy" width="296" height="253" class="mw-file-element" data-file-width="296" data-file-height="253"/></a><figcaption><i>Smoke Rings</i> by Stephen Schwartz</figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>No, not a pipe. I don&#39;t think I&#39;ll smoke again.
+<p>Không, không phải một cái ống. Tôi không nghĩ mình sẽ hút thuốc nữa.
 </p>
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../M/Merry_Brandybuck.md" title="Merry Brandybuck">Merry Brandybuck</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -29,10 +29,10 @@ images:
 
 ## Cảm hứng {#Inspiration}
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_lighting_pipe.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f1/J.R.R._Tolkien_lighting_pipe.jpg/100px-J.R.R._Tolkien_lighting_pipe.jpg" decoding="async" loading="lazy" width="100" height="131" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f1/J.R.R._Tolkien_lighting_pipe.jpg/150px-J.R.R._Tolkien_lighting_pipe.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f1/J.R.R._Tolkien_lighting_pipe.jpg/200px-J.R.R._Tolkien_lighting_pipe.jpg 2x" data-file-width="500" data-file-height="656"/></a><figcaption>Tolkien lighting a pipe</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_lighting_pipe.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f1/J.R.R._Tolkien_lighting_pipe.jpg/100px-J.R.R._Tolkien_lighting_pipe.jpg" decoding="async" loading="lazy" width="100" height="131" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f1/J.R.R._Tolkien_lighting_pipe.jpg/150px-J.R.R._Tolkien_lighting_pipe.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f1/J.R.R._Tolkien_lighting_pipe.jpg/200px-J.R.R._Tolkien_lighting_pipe.jpg 2x" data-file-width="500" data-file-height="656"/></a><figcaption>Tolkien thắp sáng một chiếc tẩu</figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I am in fact a Hobbit (in all but size). [...] I smoke a pipe...
+<p>Trên thực tế, tôi là một Hobbit (về mọi mặt trừ kích thước). […] Tôi hút tẩu...
 </p>
 <p class="tg-quote-footer"><cite><a href="../L/Letter_213.md" title="Letter 213">Letter 213</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -47,7 +47,7 @@ Một [hóa đơn xì gà được bán đấu giá](<../C/Cigar_bill_(3_March_1
 
 <b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
-<dl><dd>The card &#34;Smoke Rings&#34; enables the player to re-use one of his discarded characters.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
+<dl><dd>Thẻ "Nhẫn Khói" cho phép người chơi sử dụng lại một trong những nhân vật đã bỏ đi của mình.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
 <span></span>
 

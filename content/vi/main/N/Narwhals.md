@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Narwhals"
 content_sha256: 38aa1b615f312df3c00610943c07c4512ef7099c94adf580303e2c7a83639935
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Marine mammals"
+short_description: "Động vật có vú biển"
 categories:
   - "Animals"
 hidden_categories:

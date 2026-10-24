@@ -38,7 +38,7 @@ images:
 
 # Ambar {#Ambar}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sage_-_Arda_in_the_Second_Age.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a4/Sage_-_Arda_in_the_Second_Age.png/300px-Sage_-_Arda_in_the_Second_Age.png" decoding="async" loading="lazy" width="300" height="254" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/a/a4/Sage_-_Arda_in_the_Second_Age.png 1.5x" data-file-width="445" data-file-height="377"/></a><figcaption>The flat World during the <a href="../S/Second_Age.md" title="Second Age">Second Age</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sage_-_Arda_in_the_Second_Age.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a4/Sage_-_Arda_in_the_Second_Age.png/300px-Sage_-_Arda_in_the_Second_Age.png" decoding="async" loading="lazy" width="300" height="254" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/a/a4/Sage_-_Arda_in_the_Second_Age.png 1.5x" data-file-width="445" data-file-height="377"/></a><figcaption>Thế giới phẳng trong thời <a href="../S/Second_Age.md" title="Second Age">Kỷ Đệ Nhị</a></figcaption></figure>
 
 <i><b>Ambar</b></i> cũng chỉ “Thế giới” với hàm ý “nơi cư ngụ” hoặc “quê nhà” (“<a class="external text" href="http://en.wikipedia.org/wiki/Oikumene" rel="noreferrer noopener" target="_blank">Oikoumene</a>"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>), dùng để chỉ thế giới có cư dân sinh sống, đối lập với vùng hoang dã man rợ.
 

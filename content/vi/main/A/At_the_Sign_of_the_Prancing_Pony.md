@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/At_the_Sign_of_the_Prancing_Pony"
 content_sha256: b433532e5cc9db80e6f7554762db75613329cb20f58909e20dc8ae2fae94ce08
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "9th chapter of the first book of The Fellowship of the Ring"
+short_description: "Chương 9 cuốn sách đầu tiên của The Fellowship of the Ring"
 categories:
   - "The Fellowship of the Ring chapters"
 hidden_categories:
@@ -35,10 +35,10 @@ infobox:
     value: "Strider (chapter)"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_At_the_Sign_of_the_Prancing_Pony.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fa/Ted_Nasmith_-_At_the_Sign_of_the_Prancing_Pony.jpg/320px-Ted_Nasmith_-_At_the_Sign_of_the_Prancing_Pony.jpg" decoding="async" loading="lazy" width="320" height="361" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/fa/Ted_Nasmith_-_At_the_Sign_of_the_Prancing_Pony.jpg 1.5x" data-file-width="399" data-file-height="450"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Chapter of <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>At the Sign of the Prancing Pony</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Number</th><td class="tg-infobox-data">9</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Synopsis</span></th></tr><tr><th scope="row" class="tg-infobox-label">Event</th><td class="tg-infobox-data"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> comes to the <a class="mw-redirect" href="../P/Prancing_Pony.md" title="Prancing Pony">Prancing Pony</a>; he meets <a class="mw-redirect" href="../S/Strider_(Aragorn).md" title="Strider (Aragorn)">Strider</a> and <a href="../B/Barliman_Butterbur.md" title="Barliman Butterbur">Barliman Butterbur</a>.</td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/29_September.md" title="29 September">29 September</a> <a href="../T/Third_Age_3018.md" title="Third Age 3018">3018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/The_Prancing_Pony.md" title="The Prancing Pony">The Prancing Pony</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Navigation</span></th></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../F/Fog_on_the_Barrow-downs.md" title="Fog on the Barrow-downs">Fog on the Barrow-downs</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../S/Strider_(chapter).md" title="Strider (chapter)">Strider (chapter)</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_At_the_Sign_of_the_Prancing_Pony.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fa/Ted_Nasmith_-_At_the_Sign_of_the_Prancing_Pony.jpg/320px-Ted_Nasmith_-_At_the_Sign_of_the_Prancing_Pony.jpg" decoding="async" loading="lazy" width="320" height="361" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/fa/Ted_Nasmith_-_At_the_Sign_of_the_Prancing_Pony.jpg 1.5x" data-file-width="399" data-file-height="450"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Chapter of <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>At the Sign of the Prancing Pony</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Số</th><td class="tg-infobox-data">9</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Tóm tắt nội dung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sự kiện</th><td class="tg-infobox-data"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> đến với <a class="mw-redirect" href="../P/Prancing_Pony.md" title="Prancing Pony">Prancing Pony</a>; ông gặp <a class="mw-redirect" href="../S/Strider_(Aragorn).md" title="Strider (Aragorn)">Strider</a> và <a href="../B/Barliman_Butterbur.md" title="Barliman Butterbur">Barliman Butterbur</a>.</td></tr><tr><th scope="row" class="tg-infobox-label">Ngày</th><td class="tg-infobox-data"><a href="../_/29_September.md" title="29 September">29 September</a> <a href="../T/Third_Age_3018.md" title="Third Age 3018">3018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../T/The_Prancing_Pony.md" title="The Prancing Pony">The Prancing Pony</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Điều hướng</span></th></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="../F/Fog_on_the_Barrow-downs.md" title="Fog on the Barrow-downs">Fog on the Barrow-downs</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="../S/Strider_(chapter).md" title="Strider (chapter)">Strider (chương)</a></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Our names and our business are our own, and this does not seem a good place to discuss them.
+<p>Tên và công việc kinh doanh của chúng tôi là của riêng chúng tôi và đây dường như không phải là nơi thích hợp để thảo luận về chúng.
 </p>
 <p class="tg-quote-footer"><cite><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -81,12 +81,12 @@ Trong khi đó, Frodo nhận thấy có một người đàn ông đang theo dõ
 
 Strider ra hiệu cho Frodo tham gia cùng ông, Frodo đã làm như vậy. Strider tự giới thiệu và cảnh báo Frodo đừng để bạn bè nói quá nhiều. Frodo nhận ra rằng Pippin, sau khi mê hoặc Hobbit địa phương bằng những câu chuyện về Shire, đã bắt đầu kể câu chuyện về bữa tiệc chia tay của [Bilbo](../B/Bilbo_Baggins.md)- kết thúc bằng việc ông đeo [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) và biến mất trong không khí. Frodo trở nên lo lắng rằng Pippin có thể nhắc đến Chiếc Nhẫn.
 
-<h3><span id="Frodo.27s_troubled_performance"></span><span class="mw-headline" id="Frodo&#39;s_troubled_performance">Frodo&#39;s troubled performance</span></h3>
+<h3><span id="Frodo.27s_troubled_performance"></span><span class="mw-headline" id="Frodo&#39;s_troubled_performance">hiệu suất gặp rắc rối của Frodo</span></h3>
 
 Trước sự thúc giục của Strider hành động, Frodo đứng lên bàn và bắt đầu nói, loay hoay với chiếc Nhẫn trong túi và cố gắng chống lại sự thôi thúc bất ngờ muốn đeo nó vào. Mọi sự chú ý đổ dồn vào Frodo khi anh nói:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>We are all very much gratified by the kindness of your reception, and I venture to hope that my brief visit will help to renew the old ties of friendship between the Shire and Bree.
+<p>Tất cả chúng tôi đều rất hài lòng trước sự đón tiếp tử tế của các bạn và tôi hy vọng rằng chuyến thăm ngắn ngủi của tôi sẽ giúp nối lại mối quan hệ hữu nghị cũ giữa Shire và Bree.
 </p>
 <p class="tg-quote-footer"><cite><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -98,7 +98,7 @@ Những vị khách khác nhìn Sam và Pippin nghi ngờ, coi họ như bạn c
 Trong khi đó, Frodo tiến đến góc của Strider và lấy chiếc Nhẫn ra mà không biết tại sao nó lại ở trên ngón tay mình. Strider khiển trách ông ta:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Well? Why did you do that? Worse than anything your friends could have said! You have put your foot in it! Or should I say your finger?
+<p>Tốt? Tại sao bạn làm điều đó? Tệ hơn bất cứ điều gì bạn bè của bạn có thể nói! Bạn đã đặt chân vào đó! Hay tôi nên nói ngón tay của bạn?
 </p>
 <p class="tg-quote-footer"><cite><a href="Aragorn.md" title="Aragorn">Strider</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

@@ -19,7 +19,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Ring</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../R/Ring_(disambiguation).md" title="Ring (disambiguation)">Ring (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Chiếc nhẫn</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../R/Ring_(disambiguation).md" title="Ring (disambiguation)">Ring (định hướng)</a></b>.</div></div>
 
 <i><b>Der Ring des Nibelungen</b></i> ("Chiếc nhẫn của Nibelung") là một tập gồm bốn vở opera hay 'vở kịch' hoành tráng của nhà soạn nhạc người Đức [Richard Wagner](../R/Richard_Wagner.md). Các tác phẩm dựa trên các nhân vật trong sagas [Bắc Âu](../O/Old_Norse.md) và Nibelungenlied. Bốn bộ phim thường được gọi là *Ring Cycle*, "Chiếc nhẫn của Wagner" hoặc đơn giản là *The Ring*.
 

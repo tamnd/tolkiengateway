@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/J.B._Casacop"
 content_sha256: c25b83f4883c4df92e7742e95f7cfc77520b105013dec1c918ed6171890b9b78
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Artist for card games"
+short_description: "Nghệ sĩ cho trò chơi bài"
 categories:
   - "Artists"
   - "Filipino people"
@@ -24,7 +24,7 @@ infobox:
     value: "Artist"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>J.B. Casacop</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>J.B. Casacop</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nghệ sĩ</td></tr></tbody></table>
 
 **J.B. Casacop** là một họa sĩ minh họa người Philippines. Với tư cách là một nghệ sĩ [Magic: The Gathering](../M/Magic%253A_The_Gathering.md), ông đã sáng tạo nghệ thuật cho bản mở rộng [Tales of Trung Địa](../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông cũng đóng góp tác phẩm nghệ thuật cho nhiều bản mở rộng khác nhau của [The Lord of the Rings: The Card Game](../T/The_Lord_of_the_Rings%253A_The_Card_Game.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

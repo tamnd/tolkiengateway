@@ -35,13 +35,13 @@ images:
   - "Marya_Filatova_-_Refusal_-_Maedhros.jpg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
-<p>Who told you, and who sent you?
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Nguồn</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần <b><a href="../../help/R/References.md" title="Help:References">nguồn</a></b> nhiều/mới/chi tiết hơn để tuân thủ tiêu chuẩn cao hơn và cung cấp bằng chứng cho những tuyên bố được đưa ra.<blockquote class="tg-quote noexcerpt">
+<p>Ai đã nói với bạn và ai đã gửi cho bạn?
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>High King</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="High_King_(disambiguation).md" title="High King (disambiguation)">High King (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Đại Vương</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="High_King_(disambiguation).md" title="High King (disambiguation)">Đại Vương (định hướng)</a></b>.</div></div>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Christopher_Tolkien_-_The_Realms_of_the_Noldor_and_the_Sindar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b1/Christopher_Tolkien_-_The_Realms_of_the_Noldor_and_the_Sindar.jpg/250px-Christopher_Tolkien_-_The_Realms_of_the_Noldor_and_the_Sindar.jpg" decoding="async" loading="lazy" width="250" height="158" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b1/Christopher_Tolkien_-_The_Realms_of_the_Noldor_and_the_Sindar.jpg/375px-Christopher_Tolkien_-_The_Realms_of_the_Noldor_and_the_Sindar.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b1/Christopher_Tolkien_-_The_Realms_of_the_Noldor_and_the_Sindar.jpg/500px-Christopher_Tolkien_-_The_Realms_of_the_Noldor_and_the_Sindar.jpg 2x" data-file-width="1570" data-file-height="990"/></a><figcaption><i>The Realms of the Noldor and the Sindar</i> by <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></figcaption></figure>
 
@@ -55,7 +55,7 @@ images:
 
 ## Các vị vua thời kỳ trước {#Earlier_Kings}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../K/King_of_the_Noldor.md" title="King of the Noldor">King of the Noldor</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../K/King_of_the_Noldor.md" title="King of the Noldor">Vua của người Noldor</a></b></div></div>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Marya_Filatova_-_Refusal_-_Maedhros.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b7/Marya_Filatova_-_Refusal_-_Maedhros.jpg/300px-Marya_Filatova_-_Refusal_-_Maedhros.jpg" decoding="async" loading="lazy" width="300" height="195" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b7/Marya_Filatova_-_Refusal_-_Maedhros.jpg/450px-Marya_Filatova_-_Refusal_-_Maedhros.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b7/Marya_Filatova_-_Refusal_-_Maedhros.jpg/600px-Marya_Filatova_-_Refusal_-_Maedhros.jpg 2x" data-file-width="950" data-file-height="617"/></a><figcaption><i>Refusal - Maedhros</i> by <a href="../M/Marya_Filatova.md" title="Marya Filatova">Marya Filatova</a></figcaption></figure>
 
@@ -92,9 +92,9 @@ Gil-galad là Đại Vương cuối cùng của người Noldor, bởi ông khô
 <table class="wikitable">
 <tbody><tr>
 <th><b>#</b></th>
-<th><b>Name</b></th>
-<th><b>Reign</b></th>
-<th><b>Lifespan</b></th>
+<th><b>Tên</b></th>
+<th><b>Triều đại</b></th>
+<th><b>Tuổi thọ</b></th>
 <th><b>Domain</b></th>
 <th><b>Note</b>
 </th></tr>

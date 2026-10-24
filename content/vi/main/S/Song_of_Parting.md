@@ -29,23 +29,23 @@ images:
 
 Một phần của bài hát được đưa vào Chương 19 "[Of Beren and Lúthien](../O/Of_Beren_and_Lúthien.md)" của *[The Silmarillion](../T/The_Silmarillion.md)*. Bài hát này cũng có trong ấn bản thứ ba của [*The Road Goes Ever On*](<../T/The_Road_Goes_Ever_On_(book).md>), là bài hát thứ 9, có nhạc của [Donald Swann](../D/Donald_Swann.md).
 
-<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/e/e5/Christopher_Tolkien_-_Song_of_Parting.wav" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:Christopher_Tolkien_-_Song_of_Parting.wav">https://tolkiengateway.net/wiki/File:Christopher_Tolkien_-_Song_of_Parting.wav</a></audio><figcaption><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> reads The Song of Parting</figcaption></figure>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/e/e5/Christopher_Tolkien_-_Song_of_Parting.wav" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:Christopher_Tolkien_-_Song_of_Parting.wav">https://tolkiengateway.net/wiki/File:Christopher_Tolkien_-_Song_of_Parting.wav</a></audio><figcaption><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> đọc Bài hát chia tay</figcaption></figure>
 
 <br><br><br><br><br>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Farewell sweet earth and northern sky,<br/>
-for ever blest, since here did lie<br/>
-and here with lissom limbs did run<br/>
-beneath the <a href="../M/Moon.md" title="Moon">Moon</a>, beneath the <a href="Sun.md" title="Sun">Sun</a>,<br/>
+<p>Tạm biệt đất trời phương bắc,<br/>
+mãi mãi hạnh phúc, vì ở đây đã nói dối<br/>
+và ở đây với đôi chân mềm mại đã chạy<br/>
+bên dưới <a href="../M/Moon.md" title="Moon">Mặt Trăng</a>, bên dưới <a href="Sun.md" title="Sun">Mặt Trời</a>,<br/>
 Lúthien Tinúviel<br/>
-more fair than mortal tongue can tell.<br/>
-Though all to ruin fell the world<br/>
-and were dissolved and backward hurled<br/>
-unmade into the old abyss,<br/>
-yet were its making good, for this—<br/>
-the dawn, the dusk, the earth, the sea—<br/>
-that Lúthien on a time should be!
+công bằng hơn những gì lưỡi phàm trần có thể nói.<br/>
+Dù cho thế giới này có bị hủy hoại<br/>
+và bị giải thể và bị ném ngược<br/>
+bị biến thành vực thẳm cũ<br/>
+nhưng nó vẫn hoạt động tốt, vì điều này—<br/>
+bình minh, hoàng hôn, đất, biển—<br/>
+đó là Lúthien vào một thời điểm nào đó!
 </p>
 </div>
 
@@ -54,34 +54,34 @@ that Lúthien on a time should be!
 Toàn bộ bài hát được đưa ra ở *[The Lays of Beleriand](../T/The_Lays_of_Beleriand.md)*, phần III "[The Lay of Leithian](../T/The_Lay_of_Leithian.md): [Canto XI](../L/Lay_of_Leithian_Canto_XI.md)".
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>    Farewell now here, ye leaves of trees,<br/>
-your music in the morning breeze!<br/>
-Farewell now blade and bloom and grass<br/>
-that see the changing seasons pass;<br/>
-ye waters murmuring over stone,<br/>
-and meres that silent stand alone!<br/>
-Farewell now mountain, vale, and plain!<br/>
-Farewell now wind and frost and rain,<br/>
-and mist and cloud, and heaven&#39;s air;<br/>
-ye star and moon so blinding-fair<br/>
-that still shall look down from the sky<br/>
-on the wide earth, though Beren die—<br/>
-though Beren die not, and yet deep,<br/>
-deep, whence comes of those that weep<br/>
-no dreadful echo, lie and choke<br/>
-in everlasting dark and smoke.<br/>
-    Farewell sweet earth and northern sky,<br/>
-for ever blest, since here did lie,<br/>
-and here with lissom limbs did run,<br/>
-beneath the moon, beneath the sun,<br/>
+<p>Từ biệt nơi đây hỡi lá cây<br/>
+âm nhạc của bạn trong làn gió buổi sáng!<br/>
+Tạm biệt bây giờ lưỡi kiếm, bông hoa và cỏ<br/>
+nhìn mùa thay đổi trôi qua;<br/>
+Hỡi dòng nước róc rách trên đá<br/>
+và những kẻ im lặng đứng một mình!<br/>
+Tạm biệt núi, thung lũng và đồng bằng!<br/>
+Chia tay bây giờ gió sương và mưa<br/>
+và sương mù và mây, và không khí của thiên đường;<br/>
+các ngươi sao trăng thật chói mắt<br/>
+vẫn sẽ nhìn xuống từ bầu trời<br/>
+trên trái đất rộng lớn, dù Beren chết—<br/>
+dẫu Beren không chết, nhưng vẫn sâu sắc,<br/>
+sâu thẳm, nơi nào có tiếng khóc<br/>
+không có tiếng vang khủng khiếp, dối trá và nghẹt thở<br/>
+trong bóng tối và khói vĩnh cửu.<br/>
+    Tạm biệt đất trời phương bắc,<br/>
+mãi mãi hạnh phúc, vì ở đây đã nói dối,<br/>
+và ở đây với đôi chân mềm mại đã chạy,<br/>
+dưới mặt trăng, dưới mặt trời,<br/>
 Lúthien Tinúviel<br/>
-more fair than mortal tongue can tell.<br/>
-Though all to ruin fell the world,<br/>
-and were dissolved and backward hurled<br/>
-unmade into the old abyss,<br/>
-yet were its making good, for this—<br/>
-the dawn, the dusk, the earth, the sea—<br/>
-that Lúthien on a time should be!
+công bằng hơn những gì lưỡi phàm trần có thể nói.<br/>
+Dù thế giới có bị hủy hoại,<br/>
+và bị giải thể và bị ném ngược<br/>
+bị biến thành vực thẳm cũ<br/>
+nhưng nó vẫn hoạt động tốt, vì điều này—<br/>
+bình minh, hoàng hôn, đất, biển—<br/>
+đó là Lúthien vào một thời điểm nào đó!
 </p>
 </div>
 

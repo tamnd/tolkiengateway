@@ -25,7 +25,7 @@ infobox:
     value: "Portugal"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mário Braga</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/14_July.md" title="14 July">14 July</a>, <a href="../_/1921.md" title="1921">1921</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="../_/1_October.md" title="1 October">1 October</a>, <a href="../_/2016.md" title="2016">2016</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Portugal</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mário Braga</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/14_July.md" title="14 July">14 July</a>, <a href="../_/1921.md" title="1921">1921</a></td></tr><tr><th scope="row" class="tg-infobox-label">Qua đời</th><td class="tg-infobox-data"><a href="../_/1_October.md" title="1 October">1 October</a>, <a href="../_/2016.md" title="2016">2016</a></td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Portugal</td></tr></tbody></table>
 
 **Mário Augusto de Almeida Braga** (còn được gọi là **Mário Braga**) ([14 tháng 7](../_/14_July.md), [1921](../_/1921.md) - [1 tháng 10](../_/1_October.md), [2016](../_/2016.md)) là một tác giả, nhà báo, giáo sư và dịch giả người Bồ Đào Nha.
 

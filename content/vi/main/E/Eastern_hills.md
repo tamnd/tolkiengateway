@@ -18,7 +18,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 **Những ngọn đồi phía đông** là một ngọn đồi được mô tả có liên quan đến [Ephel Dúath](Ephel_Dúath.md). Nó nằm ở phía tây nam của [Mordor](../M/Mordor.md) đi ra từ [Ephel Duath](Ephel_Duath.md), hoặc nó ở phía đông bắc của [Cao nguyên Gorgoroth](../P/Plateau_of_Gorgoroth.md), đi ra từ [Ered Lithui](Ered_Lithui.md). Thuật ngữ này cũng có thể đề cập đến cả hai cựa. Một thời gian sau khi [Shelob](../S/Shelob.md) tạo ra [hang ổ](../T/Torech_Ungol.md) ở [Đèo Cirith Ungol](../P/Pass_of_Cirith_Ungol.md), nó giao phối với nhiều đứa con khốn khổ của mình trước khi ăn thịt chúng, sinh ra "những đàn nhện nhỏ hơn" [nhện](../S/Spiders.md) "lan rộng từ thung lũng này sang thung lũng khác, từ Ephel Dúath đến những ngọn đồi phía đông" và cuối cùng lan rộng đến tận phía bắc tới tận [Dol Guldur](../D/Dol_Guldur.md) và [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
@@ -36,7 +36,7 @@ images:
 		<li class="gallerybox" style="width: 138.66666666667px">
 			<div class="thumb" style="width: 136.66666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Daniel_Reeve_-_Map_of_Mordor_(Merchandise).jpg.md" title="Merchandise map"><img alt="Merchandise map" src="https://tolkiengateway.net/w/images/thumb/a/a7/Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg/205px-Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg" decoding="async" loading="lazy" width="137" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg/308px-Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg/411px-Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg 2x" data-file-width="2700" data-file-height="2368"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 117px"><div class="gallerytext">
-<p>Merchandise map
+<p>Bản đồ hàng hóa
 </p>
 			</div></div>
 		</li>

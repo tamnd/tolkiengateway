@@ -16,26 +16,26 @@ images:
   - "J.R.R._Tolkien_-_Ambarkanta_Diagram_III.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Fall of Númenor</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-redirect mw-disambig" href="../F/Fall_of_Númenor~66645.md" title="Fall of Númenor">Fall of Númenor</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Sự sụp đổ của Númenor</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-redirect mw-disambig" href="../F/Fall_of_Númenor~66645.md" title="Fall of Númenor">Sự sụp đổ của Númenor</a></b>.</div></div>
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin:15px;border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> chapters
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> chương
 </th></tr>
 <tr>
 <td>
-<dl><dd><b>Part One</b></dd></dl>
-<ol><li><a href="The_Early_History_of_the_Legend.md" title="The Early History of the Legend">The Early History of the Legend</a></li>
+<dl><dd><b>Phần Một</b></dd></dl>
+<ol><li><a href="The_Early_History_of_the_Legend.md" title="The Early History of the Legend">Lịch sử ban đầu của truyền thuyết</a></li>
 <li><a class="mw-selflink selflink">The Fall of Númenor</a></li>
 <li><a href="The_Lost_Road.md" title="The Lost Road">The Lost Road</a></li></ol>
 <dl><dd><b>Part Two</b><i></i></dd></dl>
-<ol><li><a href="The_Texts_and_Their_Relations.md" title="The Texts and Their Relations">The Texts and Their Relations</a></li>
+<ol><li><a href="The_Texts_and_Their_Relations.md" title="The Texts and Their Relations">Các văn bản và mối liên hệ giữa chúng</a></li>
 <li><a href="The_Later_Annals_of_Valinor.md" title="The Later Annals of Valinor">The Later Annals of Valinor</a></li>
-<li><a href="The_Later_Annals_of_Beleriand.md" title="The Later Annals of Beleriand">The Later Annals of Beleriand</a></li>
+<li><a href="The_Later_Annals_of_Beleriand.md" title="The Later Annals of Beleriand">Biên niên sử muộn của Beleriand</a></li>
 <li><a href="../A/Ainulindalë_(Lost_Road).md" title="Ainulindalë (Lost Road)">Ainulindalë</a></li>
 <li><a href="The_Lhammas.md" title="The Lhammas">The Lhammas</a></li>
 <li><a href="../Q/Quenta_Silmarillion_(Lost_Road).md" title="Quenta Silmarillion (Lost Road)">Quenta Silmarillion</a></li></ol>
-<dl><dd><b>Part Three</b>
+<dl><dd><b>Phần Ba</b>
 <dl><dd><a href="The_Etymologies.md" title="The Etymologies">The Etymologies</a></dd></dl></dd></dl>
 </td></tr></tbody></table>
 

@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/Tamar"
 content_sha256: 1f2880bcf7256912df434f6a311dd78a67367daf471d780d835b01c78790a451
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Adûnaic word"
+short_description: "Adûnaic từ"
 categories:
   - "Adûnaic words"
 hidden_categories:

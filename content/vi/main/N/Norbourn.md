@@ -40,7 +40,7 @@ Norbourn chỉ được đề cập trong [chỉ mục chi tiết](../U/Unfinish
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Originating in the mountains of <a href="../E/Evendim.md" title="Evendim">Evendim</a>, the Norbourn flows among the trees for most of its course, before eventually entering the <a href="../B/Bywater_Pool.md" title="Bywater Pool">Bywater Pool</a>.</dd></dl>
+<dl><dd>Bắt nguồn từ vùng núi <a href="../E/Evendim.md" title="Evendim">Evendim</a>, Norbourn chảy giữa những tán cây trong phần lớn dòng chảy của nó, trước khi chảy vào <a href="../B/Bywater_Pool.md" title="Bywater Pool">Bywater Hồ</a>.</dd></dl>
 
 <span></span>
 

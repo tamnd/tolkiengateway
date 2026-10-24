@@ -42,7 +42,7 @@ Vào thời điểm diễn ra [War of Wrath](../W/War_of_Wrath.md), chỉ còn l
 
 ## Những đứa con {#The_Sons}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lída_Holubová_-_Feanor_and_his_family.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/53/L%C3%ADda_Holubov%C3%A1_-_Feanor_and_his_family.jpg/300px-L%C3%ADda_Holubov%C3%A1_-_Feanor_and_his_family.jpg" decoding="async" loading="lazy" width="300" height="302" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/53/L%C3%ADda_Holubov%C3%A1_-_Feanor_and_his_family.jpg/450px-L%C3%ADda_Holubov%C3%A1_-_Feanor_and_his_family.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/53/L%C3%ADda_Holubov%C3%A1_-_Feanor_and_his_family.jpg/600px-L%C3%ADda_Holubov%C3%A1_-_Feanor_and_his_family.jpg 2x" data-file-width="1024" data-file-height="1031"/></a><figcaption><i>Feanor and his family</i> by <a href="../../category/I/Images_by_Lída_Holubová.md" title="Category:Images by Lída Holubová">Lída Holubová</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lída_Holubová_-_Feanor_and_his_family.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/53/L%C3%ADda_Holubov%C3%A1_-_Feanor_and_his_family.jpg/300px-L%C3%ADda_Holubov%C3%A1_-_Feanor_and_his_family.jpg" decoding="async" loading="lazy" width="300" height="302" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/53/L%C3%ADda_Holubov%C3%A1_-_Feanor_and_his_family.jpg/450px-L%C3%ADda_Holubov%C3%A1_-_Feanor_and_his_family.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/53/L%C3%ADda_Holubov%C3%A1_-_Feanor_and_his_family.jpg/600px-L%C3%ADda_Holubov%C3%A1_-_Feanor_and_his_family.jpg 2x" data-file-width="1024" data-file-height="1031"/></a><figcaption><i>Feanor and his family</i> của <a href="../../category/I/Images_by_Lída_Holubová.md" title="Category:Images by Lída Holubová">Lída Holubová</a></figcaption></figure>
 
 1. **[Maedhros](../M/Maedhros.md) Người Cao** - [tên cha](../F/Father-name.md) của ông là *Nelyafinwë* ("Finwë Người thứ ba") và [tên mẹ](../A/Amilessë.md) của ông là *Maitimo* ("Người có hình dáng tốt"). Ông ta đã từ bỏ Vương quyền tối cao vì được [Fingon](../F/Fingon.md) con trai của [Fingolfin](../F/Fingolfin.md) giải cứu.
 2. **[Maglor](../M/Maglor.md) Minstrel** - tên cha của ông là *Kanafinwë* ("Giọng mạnh mẽ Finwë") và tên mẹ ông là *Makalaurë* ("Rèn vàng" có nghĩa theo nghĩa thơ mộng).
@@ -58,103 +58,103 @@ Vào thời điểm diễn ra [War of Wrath](../W/War_of_Wrath.md), chỉ còn l
 <caption>
 </caption>
 <tbody><tr>
-<th>Source
+<th>Nguồn
 </th>
 <th>Order
 </th>
 <th>Specified?
 </th></tr>
 <tr>
-<td><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, pp. 97, 131
+<td><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, trang 97, 131
 </td>
 <td>Maedhros, Maglor, Celegorm, Caranthir, Curufin, Amrod, Amras
 </td>
-<td>Amrod and Amras youngest and twins
+<td>Amrod và Amras em út và cặp song sinh
 </td></tr>
 <tr>
 <td><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, Index of Names
 </td>
 <td>Maedhros, Maglor, Celegorm, Caranthir, Curufin, Amrod, Amras
 </td>
-<td>Specific birth order specified as listed
+<td>Thứ tự sinh cụ thể được chỉ định như được liệt kê
 </td></tr>
 <tr>
 <td><i><a href="../T/The_Book_of_Lost_Tales%253A_Part_Two.md" title="The Book of Lost Tales: Part Two">The Book of Lost Tales: Part Two</a></i>, p. 317
 </td>
 <td>Maidros, Maglor, Dinithel, Damrod, Celegorm, Cranthor, Curufin
 </td>
-<td>No
+<td>Không
 </td></tr>
 <tr>
 <td><i><a class="mw-redirect" href="../L/Lays_of_Beleriand.md" title="Lays of Beleriand">Lays of Beleriand</a></i>, p. 124
 </td>
 <td>Curufin, Celegorm, Damrod, Díriel, Cranthir, Maglor, Maidros
 </td>
-<td>Maidros as the eldest
+<td>Maidros là anh cả
 </td></tr>
 <tr>
 <td><i><a class="mw-redirect" href="../L/Lays_of_Beleriand.md" title="Lays of Beleriand">Lays of Beleriand</a></i>, p. 191
 </td>
 <td>Curufin, Celegorm, Damrod, Díriel, Cranthir, Maidros, Maglor
 </td>
-<td>No
+<td>Không
 </td></tr>
 <tr>
 <td><i><a href="../T/The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i>, p. 13
 </td>
 <td>Maidros, Maglor, Curufin, Celegorm, Cranthir, Damrod, Díriel
 </td>
-<td>No
+<td>Không
 </td></tr>
 <tr>
 <td><i><a href="../T/The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i>, p. 17
 </td>
 <td>Maidros, Maglor, Celegorm, Curufin, Damrod, Díriel, Cranthir
 </td>
-<td>Maidros as the eldest
+<td>Maidros là anh cả
 </td></tr>
 <tr>
 <td><i><a href="../T/The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i>, p. 54
 </td>
 <td>Maidros, Maglor, Celegorm, Curufin, Cranthir, Damrod, Díriel
 </td>
-<td>Damrod and Díriel as last
+<td>Damrod và Díriel cuối cùng
 </td></tr>
 <tr>
 <td><i><a href="../T/The_Lost_Road.md" title="The Lost Road">The Lost Road</a></i>, p. 102
 </td>
 <td>Maidros, Maglor, Celegorm, Curufin, Cranthir, Damrod, Díriel
 </td>
-<td>No
+<td>Không
 </td></tr>
 <tr>
 <td><i><a href="../T/The_Lost_Road.md" title="The Lost Road">The Lost Road</a></i>, p. 177
 </td>
 <td>Maidros, Maglor, Celegorn, Cranthir, Curufin, Damrod, Díriel,
 </td>
-<td>Damrod and Díriel are twins and the youngest
+<td>Damrod và Díriel là cặp song sinh và là con út
 </td></tr>
 <tr>
 <td><i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, p. 159
 </td>
 <td>Maidros, Maglor, Celegorn, Curufin, Cranthir, Damrod, Díriel
 </td>
-<td>No
+<td>Không
 </td></tr>
 <tr>
 <td><i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, p. 244
 </td>
 <td>Maidros, Maglor, Celegorn, Cranthir, Curufin, Damrod, Díriel
 </td>
-<td>Damrod and Díriel are the youngest
+<td>Damrod và Díriel là những người trẻ nhất
 </td></tr>
 <tr>
 <td><i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, p. 435
 </td>
 <td>Maedros, Maglor, Celegorm, Curufin, Caranthir, Amrod, Amras
 </td>
-<td>Curufin specified as being the fourth son (p. 442)
-<p>Amrod and Amras as youngest and twins
+<td>Curufin được chỉ định là con trai thứ tư (tr. 442)
+<p>Amrod và Amras là em út và là cặp song sinh
 </p>
 </td></tr></tbody></table>
 

@@ -17,34 +17,34 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>The wind is cold and heavy <br/>
-And storms are in the sky <br/>
-Our path across the nordland <br/>
-Goes higher and more high <br/>
+<p>Gió lạnh và nặng hạt <br/>
+Và bão tố đang hoành hành trên bầu trời <br/>
+Con đường của chúng ta xuyên qua vùng đất phương Bắc <br/>
+Ngày càng cao hơn <br/>
 <br/>
-To left the sea we came from <br/>
-To right the white hills with no tree <br/>
-The wind is growing colder <br/>
-And shivering are we <br/>
+Để rời biển chúng ta đến từ <br/>
+Để sửa lại những ngọn đồi trắng không có cây <br/>
+Gió ngày càng lạnh <br/>
+Và chúng ta đang run rẩy <br/>
 <br/>
-We drag with stiffening fingers <br/>
-Our swords and up the hill <br/>
-The path is steep and tangled <br/>
-But leads to battles still <br/>
+Chúng tôi kéo bằng ngón tay cứng <br/>
+Kiếm của chúng ta và lên đồi <br/>
+Đường đi dốc và rối <br/>
+Nhưng vẫn dẫn đến trận chiến <br/>
 <br/>
-Dor firn i guinar. <br/>
+Bạn có thể làm điều đó với tôi. <br/>
 <br/>
 <br/>
-Farewell now mountain vale and plain <br/>
-Farewell now wind and frost and rain <br/>
-And mist and cloud and heavens air <br/>
-Ye star and moon so blinding fair <br/>
+Chia tay thung lũng và đồng bằng <br/>
+Chia tay bây giờ gió sương và mưa <br/>
+Và sương mù, mây và không khí thiên đường <br/>
+Hỡi sao trăng thật chói mắt <br/>
 <br/>
-Farewell now blade and bloom and grass <br/>
-That see the changing season pass <br/>
-Farewell sweet earth and northern sky <br/>
-Forever blessed but here we die <br/>
+Chia tay bây giờ lá cỏ hoa cỏ <br/>
+Mà thấy pass mùa thay đổi <br/>
+Tạm biệt đất trời phương bắc <br/>
+Phước lành mãi mãi nhưng chúng ta chết ở đây <br/>
 <br/>
-Dor firn i guinar.<br/>
+Tôi có thể kiếm được tiền.<br/>
 </p>
 </div>

@@ -54,9 +54,9 @@ infobox:
     value: "0261102664"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Hobbit</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Hobbit_(disambiguation).md" title="The Hobbit (disambiguation)">The Hobbit (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Hobbit</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Hobbit_(disambiguation).md" title="The Hobbit (disambiguation)">The Hobbit (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_Comic_book.jpg.md"><img src="https://tolkiengateway.net/w/images/b/b3/The_Hobbit_Comic_book.jpg" decoding="async" loading="lazy" width="254" height="396" class="mw-file-element" data-file-width="254" data-file-height="396"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Hobbit: A Graphic Novel</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Charles_Dixon.md" title="Charles Dixon">Charles Dixon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Bill_Deming&amp;action=edit&amp;redlink=1" title="Bill Deming (page does not exist)">Bill Deming</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../D/David_T._Wenzel.md" title="David T. Wenzel">David T. Wenzel</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Eclipse_Comics&amp;action=edit&amp;redlink=1" title="Eclipse Comics (page does not exist)">Eclipse Comics</a>, <a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Del_Rey&amp;action=edit&amp;redlink=1" title="Del Rey (page does not exist)">Del Rey</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1989.md" title="1989">1989</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">133 (revised edition)</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0261102664" title="Special:BookSources/0261102664">0261102664</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_Comic_book.jpg.md"><img src="https://tolkiengateway.net/w/images/b/b3/The_Hobbit_Comic_book.jpg" decoding="async" loading="lazy" width="254" height="396" class="mw-file-element" data-file-width="254" data-file-height="396"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Hobbit: A Graphic Novel</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Charles_Dixon.md" title="Charles Dixon">Charles Dixon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Bill_Deming&amp;action=edit&amp;redlink=1" title="Bill Deming (page does not exist)">Bill Deming</a></td></tr><tr><th scope="row" class="tg-infobox-label">Họa sĩ minh họa</th><td class="tg-infobox-data"><a href="../D/David_T._Wenzel.md" title="David T. Wenzel">David T. Wenzel</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Eclipse_Comics&amp;action=edit&amp;redlink=1" title="Eclipse Comics (page does not exist)">Eclipse Comics</a>, <a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Del_Rey&amp;action=edit&amp;redlink=1" title="Del Rey (page does not exist)">Del Rey</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/1989.md" title="1989">1989</a></td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">133 (bản sửa đổi)</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0261102664" title="Special:BookSources/0261102664">0261102664</a></td></tr></tbody></table>
 
 **The Hobbit: Tiểu thuyết đồ họa** là một bộ truyện tranh [1989](../_/1989.md) ba tập, được xuất bản bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Eclipse_Comics&amp;action=edit&amp;redlink=1" title="Eclipse Comics (page does not exist)">Eclipse Comics</a>. Vào tháng 1 [1990](../_/1990.md), chúng được đóng thành một trong một bìa mềm thương mại và một ấn bản sửa đổi đã được xuất bản trong [2006](../_/2006.md). Trùng hợp với [các bộ phim *The Hobbit* sắp ra mắt](<The_Hobbit_(film_series).md>), một ấn bản mới với sáu trang tác phẩm nghệ thuật mới đã được xuất bản vào [12 tháng Chín](../_/12_September.md) [2012](../_/2012.md).<sup id="cite_ref-collier_1-0" class="reference"><a href="#cite_note-collier-1">[1]</a></sup> Một ấn bản mới khác đã được xuất bản vào [2025](../_/2025.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
@@ -69,17 +69,17 @@ Năm 1992, Eclipse Comics phát hành thẻ giao dịch dựa trên truyện tra
 ### Ấn bản 2006 {#2006_edition}
 
 <blockquote class="tg-quote noexcerpt">
-<p><i>The Hobbit</i> is the story of <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>, a quiet and contented Hobbit whose life is turned upside down when he joins the wizard <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> and thirteen dwarves on their quest to reclaim stolen treasure.
-</p><p>It is a journey fraught with danger - and in the end Bilbo alone must face <a href="../S/Smaug.md" title="Smaug">the guardian of the treasure</a>, the most dreaded <a href="../D/Dragons.md" title="Dragons">dragon</a> in all <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>...
-</p><p>J.R.R. Tolkien&#39;s enchanting prelude to <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> is one of the best-loved books of all time. Carefully abridged and beautifully painted, David Wenzel&#39;s graphic novel has become a best-selling classic in its own right. 
-</p><p>With more than 30 pages of new artwork and improvements by the artist, this new revised edition has been newly rescanned from the original paintings to produce the most authentic version ever published, to delight <i>Hobbit</i> fans old and new.
+<p><i>The Hobbit</i> là câu chuyện về <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>, một Hobbit trầm lặng và mãn nguyện, cuộc sống của anh bị đảo lộn khi anh tham gia cùng phù thủy <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> và mười ba người lùn trong hành trình đòi lại kho báu bị đánh cắp.
+</p><p>Đó là một cuộc hành trình đầy rẫy nguy hiểm - và cuối cùng Bilbo một mình phải đối mặt với <a href="../S/Smaug.md" title="Smaug">người bảo vệ kho báu</a>, <a href="../D/Dragons.md" title="Dragons">con rồng</a> đáng sợ nhất trong tất cả <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a>...
+</p><p>Khúc dạo đầu đầy mê hoặc của J.R.R. Tolkien cho <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> là một trong những cuốn sách được yêu thích nhất mọi thời đại. Được rút gọn cẩn thận và vẽ đẹp mắt, cuốn tiểu thuyết đồ họa của David Wenzel đã trở thành tác phẩm kinh điển bán chạy nhất theo đúng nghĩa của nó. 
+</p><p>Với hơn 30 trang tác phẩm nghệ thuật mới và những cải tiến của họa sĩ, ấn bản sửa đổi mới này đã được quét lại từ các bức tranh gốc để tạo ra phiên bản chân thực nhất từng được xuất bản, nhằm làm hài lòng những người hâm mộ <i>Hobbit</i> cũ và mới.
 </p>
 </blockquote>
 
 ### Phiên bản 2012 {#2012_edition}
 
 <blockquote class="tg-quote noexcerpt">
-<p>In preparation for the December 2012 release of The Hobbit movie, this new edition of the full-color graphic novel adaptation of J.R.R. Tolkien&#39;s beloved story includes 6 new pages! First published more than sixty years ago, J. R. R. Tolkien&#39;s The Hobbit has become one of the best-loved books of all time. The enchanted prelude to The Lord of the Rings, The Hobbit is the story of Bilbo Baggins, a quiet and contented hobbit whose life is turned upside down when he joins the wizard Gandalf and thirteen dwarves on their quest to reclaim stolen treasure. It is a journey fraught with danger - and in the end it is Bilbo Baggins alone who must face the guardian of this treasure, the most dreaded dragon in all Middle-Earth.
+<p>Để chuẩn bị cho việc phát hành bộ phim The Hobbit vào tháng 12 năm 2012, ấn bản mới này của tiểu thuyết đồ họa đầy màu sắc chuyển thể từ câu chuyện yêu thích của J.R.R. Tolkien bao gồm 6 trang mới! Được xuất bản lần đầu cách đây hơn sáu mươi năm, The Hobbit của J. R. R. Tolkien đã trở thành một trong những cuốn sách được yêu thích nhất mọi thời đại. Khúc dạo đầu đầy mê hoặc của The Lord of the Rings, The Hobbit là câu chuyện về Bilbo Baggins, một hobbit trầm lặng và mãn nguyện, cuộc sống của anh bị đảo lộn khi anh tham gia cùng phù thủy Gandalf và mười ba người lùn trong hành trình đòi lại kho báu bị đánh cắp. Đó là một cuộc hành trình đầy nguy hiểm - và cuối cùng chỉ Bilbo Baggins một mình phải đối mặt với người bảo vệ kho báu này, con rồng đáng sợ nhất trên khắp Trung Địa.
 </p>
 </blockquote>
 
@@ -93,49 +93,49 @@ Các số báo được đóng thành một tập bìa mềm thương mại [199
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-1989-1.jpeg.md" title="1989 paperback comic vol.1"><img alt="1989 paperback comic vol.1" src="https://tolkiengateway.net/w/images/thumb/d/d3/The_Hobbit_graphic-1989-1.jpeg/82px-The_Hobbit_graphic-1989-1.jpeg" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d3/The_Hobbit_graphic-1989-1.jpeg/123px-The_Hobbit_graphic-1989-1.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d3/The_Hobbit_graphic-1989-1.jpeg/164px-The_Hobbit_graphic-1989-1.jpeg 2x" data-file-width="425" data-file-height="647"/></a></span></div>
 			<div class="gallerytext">
-<p>1989 paperback comic vol.1
+<p>Truyện tranh bìa mềm năm 1989 tập 1
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-1989-2.jpeg.md" title="1989 paperback comic vol.2"><img alt="1989 paperback comic vol.2" src="https://tolkiengateway.net/w/images/thumb/f/f2/The_Hobbit_graphic-1989-2.jpeg/81px-The_Hobbit_graphic-1989-2.jpeg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/The_Hobbit_graphic-1989-2.jpeg/122px-The_Hobbit_graphic-1989-2.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/The_Hobbit_graphic-1989-2.jpeg/162px-The_Hobbit_graphic-1989-2.jpeg 2x" data-file-width="421" data-file-height="647"/></a></span></div>
 			<div class="gallerytext">
-<p>1989 paperback comic vol.2
+<p>Truyện tranh bìa mềm tập 2 năm 1989
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-1989-3.jpeg.md" title="1989 paperback comic vol.3"><img alt="1989 paperback comic vol.3" src="https://tolkiengateway.net/w/images/thumb/6/64/The_Hobbit_graphic-1989-3.jpeg/81px-The_Hobbit_graphic-1989-3.jpeg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/64/The_Hobbit_graphic-1989-3.jpeg/123px-The_Hobbit_graphic-1989-3.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/6/64/The_Hobbit_graphic-1989-3.jpeg/163px-The_Hobbit_graphic-1989-3.jpeg 2x" data-file-width="422" data-file-height="646"/></a></span></div>
 			<div class="gallerytext">
-<p>1989 paperback comic vol.3
+<p>Truyện tranh bìa mềm tập 3 năm 1989
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-1990.jpeg.md" title="1990 paperback one-volume"><img alt="1990 paperback one-volume" src="https://tolkiengateway.net/w/images/thumb/0/01/The_Hobbit_graphic-1990.jpeg/80px-The_Hobbit_graphic-1990.jpeg" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/01/The_Hobbit_graphic-1990.jpeg/121px-The_Hobbit_graphic-1990.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/0/01/The_Hobbit_graphic-1990.jpeg/160px-The_Hobbit_graphic-1990.jpeg 2x" data-file-width="305" data-file-height="475"/></a></span></div>
 			<div class="gallerytext">
-<p>1990 paperback one-volume
+<p>Một tập bìa mềm năm 1990
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-2006.jpeg.md" title="2006 paperback one-volume"><img alt="2006 paperback one-volume" src="https://tolkiengateway.net/w/images/thumb/d/de/The_Hobbit_graphic-2006.jpeg/92px-The_Hobbit_graphic-2006.jpeg" decoding="async" loading="lazy" width="92" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/de/The_Hobbit_graphic-2006.jpeg/138px-The_Hobbit_graphic-2006.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/d/de/The_Hobbit_graphic-2006.jpeg/184px-The_Hobbit_graphic-2006.jpeg 2x" data-file-width="500" data-file-height="679"/></a></span></div>
 			<div class="gallerytext">
-<p>2006 paperback one-volume
+<p>Một tập bìa mềm năm 2006
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-2012.jpeg.md" title="2012 paperback one-volume"><img alt="2012 paperback one-volume" src="https://tolkiengateway.net/w/images/thumb/f/f0/The_Hobbit_graphic-2012.jpeg/82px-The_Hobbit_graphic-2012.jpeg" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f0/The_Hobbit_graphic-2012.jpeg/123px-The_Hobbit_graphic-2012.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f0/The_Hobbit_graphic-2012.jpeg/164px-The_Hobbit_graphic-2012.jpeg 2x" data-file-width="600" data-file-height="916"/></a></span></div>
 			<div class="gallerytext">
-<p>2012 paperback one-volume
+<p>Một tập bìa mềm năm 2012
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-2024.jpg.md" title="2024 paperback one-volume"><img alt="2024 paperback one-volume" src="https://tolkiengateway.net/w/images/thumb/7/7f/The_Hobbit_graphic-2024.jpg/81px-The_Hobbit_graphic-2024.jpg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7f/The_Hobbit_graphic-2024.jpg/122px-The_Hobbit_graphic-2024.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7f/The_Hobbit_graphic-2024.jpg/162px-The_Hobbit_graphic-2024.jpg 2x" data-file-width="975" data-file-height="1500"/></a></span></div>
 			<div class="gallerytext">
-<p>2024 paperback one-volume
+<p>Một tập bìa mềm năm 2024
 </p>
 			</div>
 		</li>
@@ -183,12 +183,12 @@ Các số báo được đóng thành một tập bìa mềm thương mại [199
 <th align="center" style="background:var(--tg-color-surface-5)" colspan="2">Illustrators of <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>
 </th></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Internal art
+<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Minh họa bên trong
 </th>
-<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937-present) · Eric Fraser (<a href="The_Folio_Society.md" title="The Folio Society">The Folio Society</a>: 1979, 1992-present) · <a href="../M/Michael_Hague.md" title="Michael Hague">Michael Hague</a> (1984-1992) · <a href="../D/David_T._Wenzel.md" title="David T. Wenzel">David T. Wenzel</a> (<a class="mw-selflink selflink">graphic novel</a>: 1989-present) · <a href="../D/Denis_Gordeev.md" title="Denis Gordeev">Denis Gordeev</a> (1993-present) · <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> (1997-present) · David Wyatt (1998-2001, 2012-2013) · <a href="../J/John_Howe.md" title="John Howe">John Howe</a> (pop-up: 1999) · <a href="../J/Jemima_Catlin.md" title="Jemima Catlin">Jemima Catlin</a> (2013-present)
+<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937-nay) · Eric Fraser (<a href="The_Folio_Society.md" title="The Folio Society">The Folio Society</a>: 1979, 1992-nay) · <a href="../M/Michael_Hague.md" title="Michael Hague">Michael Hague</a> (1984-1992) · <a href="../D/David_T._Wenzel.md" title="David T. Wenzel">David T. Wenzel</a> (<a class="mw-selflink selflink">tiểu thuyết đồ họa</a>: 1989-nay) · <a href="../D/Denis_Gordeev.md" title="Denis Gordeev">Denis Gordeev</a> (1993-nay) · <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> (1997-nay) · David Wyatt (1998-2001, 2012-2013) · <a href="../J/John_Howe.md" title="John Howe">John Howe</a> (pop-up: 1999) · <a href="../J/Jemima_Catlin.md" title="Jemima Catlin">Jemima Catlin</a> (2013-nay)
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Cover art only
+<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Chỉ có hình minh họa bìa
 </th>
-<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937-present) · <a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a> (1961) · <a href="../R/Roger_Garland.md" title="Roger Garland">Roger Garland</a> (1987-1989) · <a href="../J/John_Howe.md" title="John Howe">John Howe</a> (1991-present) · <a href="Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a> (1989-1991) · <a href="../B/Barbara_Remington.md" title="Barbara Remington">Barbara Remington</a> (1965 US)
+<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937-nay) · <a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a> (1961) · <a href="../R/Roger_Garland.md" title="Roger Garland">Roger Garland</a> (1987-1989) · <a href="../J/John_Howe.md" title="John Howe">John Howe</a> (1991-nay) · <a href="Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a> (1989-1991) · <a href="../B/Barbara_Remington.md" title="Barbara Remington">Barbara Remington</a> (1965 US)
 </td></tr></tbody></table>

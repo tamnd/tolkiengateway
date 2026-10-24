@@ -21,11 +21,11 @@ infobox:
 <br>
 
 <table class="tg-infobox floatright">
-  <tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Poems by J.R.R. Tolkien</a></td></tr>
+  <tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Thơ của J.R.R. Tolkien</a></td></tr>
   <tr><th colspan="2" class="tg-infobox-title"><span><i>Smakkabagms</i></span></th></tr>
-  <tr><th colspan="2" class="tg-infobox-header"><span>Poem Information</span></th></tr>
-  <tr><th scope="row" class="tg-infobox-label">Written</th><td class="tg-infobox-data">Possibly around <a href="../_/1924.md" title="1924">1924</a> and before <a href="../_/1936.md" title="1936">1936</a>.</td></tr>
-  <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../G/Gothic.md" title="Gothic">Gothic</a>, <a href="../T/Trees.md" title="Trees">trees</a></td></tr>
+  <tr><th colspan="2" class="tg-infobox-header"><span>Thông tin về bài thơ</span></th></tr>
+  <tr><th scope="row" class="tg-infobox-label">Viết</th><td class="tg-infobox-data">Có thể vào khoảng <a href="../_/1924.md" title="1924">1924</a> và trước <a href="../_/1936.md" title="1936">1936</a>.</td></tr>
+  <tr><th scope="row" class="tg-infobox-label">Chủ đề</th><td class="tg-infobox-data"><a href="../G/Gothic.md" title="Gothic">Gothic</a>, <a href="../T/Trees.md" title="Trees">cây</a></td></tr>
 </tbody></table>
 
 <i><b>Smakkabagms</b></i> là một bài thơ chưa xuất bản được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) có thể vào khoảng [1924](../_/1924.md).<sup id="cite_ref-chronology_1-0" class="reference"><a href="#cite_note-chronology-1">[1]</a></sup> Mặc dù không biết bài thơ này đã được xuất bản ở đâu hay liệu có bản thảo nào của nó còn tồn tại đến ngày nay hay không, nhưng nó có thể nằm trong số những bài thơ đã bị từ chối đưa vào tập thơ, *[Songs for the Philologists](Songs_for_the_Philologists.md)*, trong [1936](../_/1936.md). [Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](../W/Wayne_G._Hammond.md) khẳng định trong phần bình luận bài thơ *[From One to Five](../F/From_One_to_Five.md)* rằng họ "chưa thấy" bài thơ này.<sup id="cite_ref-collectedpoems_2-0" class="reference"><a href="#cite_note-collectedpoems-2">[2]</a></sup>

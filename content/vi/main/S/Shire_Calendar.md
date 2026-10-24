@@ -46,7 +46,7 @@ Trong [Eastfarthing](../E/Eastfarthing.md) tên của Afteryule, Astron và Fore
 
 <table border="1" cellpadding="4" cellspacing="0" class="TGtable">
 <tbody><tr>
-<th>Month number
+<th>Số tháng
 </th>
 <th>Shire Name
 </th>
@@ -54,7 +54,7 @@ Trong [Eastfarthing](../E/Eastfarthing.md) tên của Afteryule, Astron và Fore
 </th>
 <th>Translation in <i>The Lord of the Rings</i>
 </th>
-<th>Approximate relationship to <a class="extiw" href="http://en.wikipedia.org/wiki/Gregorian_calendar" title="wikipedia:Gregorian calendar">Gregorian calendar</a><sup id="cite_ref-psarandoSR_3-0" class="reference"><a href="#cite_note-psarandoSR-3">[3]</a></sup>
+<th>Mối quan hệ gần đúng với <a class="extiw" href="http://en.wikipedia.org/wiki/Gregorian_calendar" title="wikipedia:Gregorian calendar">lịch Gregory</a><sup id="cite_ref-psarandoSR_3-0" class="reference"><a href="#cite_note-psarandoSR-3">[3]</a></sup>
 </th>
 <th>Leap Years
 </th></tr>
@@ -83,7 +83,7 @@ Trong [Eastfarthing](../E/Eastfarthing.md) tên của Afteryule, Astron và Fore
 <td align="center">3</td>
 <td><i><a href="../R/Rethe.md" title="Rethe">Rethe</a></i></td>
 <td><i>Rethe</i></td>
-<td>March</td>
+<td>Tháng Ba</td>
 <td>20 February to 21 March</td>
 <td>20 February to 20 March
 </td></tr>
@@ -99,7 +99,7 @@ Trong [Eastfarthing](../E/Eastfarthing.md) tên của Afteryule, Astron và Fore
 <td align="center">5</td>
 <td><i><a href="../T/Thrimidge.md" title="Thrimidge">Thrimidge</a></i></td>
 <td><i>Thrimidge</i></td>
-<td>May</td>
+<td>Tháng 5</td>
 <td>21 April to 20 May</td>
 <td>20 April to 19 May
 </td></tr>
@@ -130,7 +130,7 @@ Trong [Eastfarthing](../E/Eastfarthing.md) tên của Afteryule, Astron và Fore
 <td align="center"> </td>
 <td><i><a href="../O/Overlithe.md" title="Overlithe">Overlithe</a></i></td>
 <td></td>
-<td>Leap day</td>
+<td>Ngày nhuận</td>
 <td>21 June
 </td></tr>
 <tr>
@@ -157,7 +157,7 @@ Trong [Eastfarthing](../E/Eastfarthing.md) tên của Afteryule, Astron và Fore
 <td align="center">9</td>
 <td><i><a href="../H/Halimath.md" title="Halimath">Halimath</a></i></td>
 <td><i><a href="../H/Harvestmath.md" title="Harvestmath">Harvestmath</a></i></td>
-<td>September</td>
+<td>tháng Chín</td>
 <td colspan="2">22 August to 20 September
 </td></tr>
 <tr>
@@ -205,7 +205,7 @@ Ngày giữa năm và khi có mặt, Overlithe không có bài tập nào trong 
 </th>
 <th>Translation in <i>The Lord of the Rings</i>
 </th>
-<th>Relationship to Gregorian calendar
+<th>Mối quan hệ với lịch Gregory
 </th></tr>
 <tr>
 <td><i><a href="Sterday.md" title="Sterday">Sterday</a></i></td>
@@ -215,13 +215,13 @@ Ngày giữa năm và khi có mặt, Overlithe không có bài tập nào trong 
 </td></tr>
 <tr>
 <td><i><a href="Sunday.md" title="Sunday">Sunday</a></i></td>
-<td><a href="Sun.md" title="Sun">Sun</a></td>
+<td><a href="Sun.md" title="Sun">Mặt Trời</a></td>
 <td>Sunday</td>
 <td>Tuesday
 </td></tr>
 <tr>
 <td><i><a href="../M/Monday.md" title="Monday">Monday</a></i></td>
-<td><a href="../M/Moon.md" title="Moon">Moon</a></td>
+<td><a href="../M/Moon.md" title="Moon">Mặt Trăng</a></td>
 <td>Monday</td>
 <td>Wednesday
 </td></tr>
@@ -239,7 +239,7 @@ Ngày giữa năm và khi có mặt, Overlithe không có bài tập nào trong 
 </td></tr>
 <tr>
 <td><i><a href="../M/Mersday.md" title="Mersday">Mersday</a></i></td>
-<td><a href="../B/Belegaer.md" title="Belegaer">Sea</a></td>
+<td><a href="../B/Belegaer.md" title="Belegaer">Biển</a></td>
 <td>Thursday</td>
 <td>Saturday
 </td></tr>

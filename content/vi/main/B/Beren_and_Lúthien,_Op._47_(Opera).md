@@ -15,7 +15,7 @@ images:
   - "Artwork_from_the_CD_Release.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Artwork_from_the_CD_Release.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/300px-Artwork_from_the_CD_Release.jpg" decoding="async" loading="lazy" width="300" height="317" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/450px-Artwork_from_the_CD_Release.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/600px-Artwork_from_the_CD_Release.jpg 2x" data-file-width="1410" data-file-height="1489"/></a><figcaption>Artwork from the CD release. Used with permission of Ted Nasmith.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Artwork_from_the_CD_Release.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/300px-Artwork_from_the_CD_Release.jpg" decoding="async" loading="lazy" width="300" height="317" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/450px-Artwork_from_the_CD_Release.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/600px-Artwork_from_the_CD_Release.jpg 2x" data-file-width="1410" data-file-height="1489"/></a><figcaption>Tác phẩm nghệ thuật từ bản phát hành CD. Được sử dụng với sự cho phép của Ted Nasmith.</figcaption></figure>
 
 Phần hai trong chu kỳ opera của [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md) *Những cảnh sử thi từ The Silmarillion sau thần thoại J. R. R. Tolkien.*
 

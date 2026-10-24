@@ -23,7 +23,7 @@ images:
   - "Anke_Eißmann_-_Frodo's_dream_of_Eärendil.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Frodo&#39;s_dream_of_Eärendil.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/de/Anke_Ei%C3%9Fmann_-_Frodo%27s_dream_of_E%C3%A4rendil.jpg/300px-Anke_Ei%C3%9Fmann_-_Frodo%27s_dream_of_E%C3%A4rendil.jpg" decoding="async" loading="lazy" width="300" height="244" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/de/Anke_Ei%C3%9Fmann_-_Frodo%27s_dream_of_E%C3%A4rendil.jpg/450px-Anke_Ei%C3%9Fmann_-_Frodo%27s_dream_of_E%C3%A4rendil.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/de/Anke_Ei%C3%9Fmann_-_Frodo%27s_dream_of_E%C3%A4rendil.jpg/600px-Anke_Ei%C3%9Fmann_-_Frodo%27s_dream_of_E%C3%A4rendil.jpg 2x" data-file-width="837" data-file-height="680"/></a><figcaption><i>Frodo&#39;s dream of Eärendil</i> by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Frodo&#39;s_dream_of_Eärendil.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/de/Anke_Ei%C3%9Fmann_-_Frodo%27s_dream_of_E%C3%A4rendil.jpg/300px-Anke_Ei%C3%9Fmann_-_Frodo%27s_dream_of_E%C3%A4rendil.jpg" decoding="async" loading="lazy" width="300" height="244" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/de/Anke_Ei%C3%9Fmann_-_Frodo%27s_dream_of_E%C3%A4rendil.jpg/450px-Anke_Ei%C3%9Fmann_-_Frodo%27s_dream_of_E%C3%A4rendil.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/de/Anke_Ei%C3%9Fmann_-_Frodo%27s_dream_of_E%C3%A4rendil.jpg/600px-Anke_Ei%C3%9Fmann_-_Frodo%27s_dream_of_E%C3%A4rendil.jpg 2x" data-file-width="837" data-file-height="680"/></a><figcaption><i>Frodo&#39;s dream of Eärendil</i> của <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
 
 "**Eärendil từng là một thủy thủ**", còn được gọi là <i><b>Đoạn ngắn của Eärendel: Eärendillinwë</b></i>,<sup id="cite_ref-F_1-0" class="reference"><a href="#cite_note-F-1">[1]</a></sup> hay chỉ là <i><b>Eärendillinwë</b></i>,<sup id="cite_ref-Final_2-0" class="reference"><a href="#cite_note-Final-2">[2]</a></sup> là một bài hát được viết bởi [Bilbo](../B/Bilbo_Baggins.md) và [Aragorn](../A/Aragorn.md) và được hát bởi Bilbo khi [Hobbit](../H/Hobbits.md) đạt [Rivendell](../R/Rivendell.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
@@ -48,10 +48,10 @@ Nhịp thơ là tứ âm iambic.<sup id="cite_ref-6" class="reference"><a href="
 Ví dụ,
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>The winds of wrath came <span style="color: red;">driving him</span>,<br/>
-and <span style="color: red;">blindly in</span> the <span style="color: blue;">foam he fled</span><br/>
-from west to east and <span style="color: green;">errandless</span>,<br/>
-un<span style="color: green;">heralded</span> he <span style="color: blue;">homeward sped</span>.
+<p>Những cơn gió thịnh nộ đến <span style="color: red;">đuổi anh</span>,<br/>
+và <span style="color: red;">mù quáng trong</span> đám bọt <span style="color: blue;">ông chạy trốn</span><br/>
+từ tây sang đông và <span style="color: green;">không sai sót</span>,<br/>
+un<span style="color: green;">đã báo trước</span> ông <span style="color: blue;">tăng tốc về nhà</span>.
 </p>
 </div>
 
@@ -66,50 +66,50 @@ Một ví dụ trong đó các nguyên âm không khớp chính xác là "cross"
 ### Khổ đầu tiên {#First_stanza}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p><a href="../E/Eärendil.md" title="Eärendil">Eärendil</a> was a <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mariners&amp;action=edit&amp;redlink=1" title="Mariners (page does not exist)">mariner</a><br/>
-that tarried in <a href="../A/Arvernien.md" title="Arvernien">Arvernien</a>;<br/>
-he built a <a href="../V/Vingilot.md" title="Vingilot">boat of timber</a> felled<br/>
-in <a href="../N/Nimbrethil.md" title="Nimbrethil">Nimbrethil</a> to journey in;<br/>
-her sails he wove of <a href="Silver.md" title="Silver">silver</a> fair,<br/>
-of silver were her lanterns made,<br/>
-her prow he fashioned like a <a href="Swans.md" title="Swans">swan</a>,<br/>
-and light upon her banners laid.
+<p><a href="../E/Eärendil.md" title="Eärendil">Eärendil</a> từng là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mariners&amp;action=edit&amp;redlink=1" title="Mariners (page does not exist)">thủy thủ</a><br/>
+đã ở lại <a href="../A/Arvernien.md" title="Arvernien">Arvernien</a>;<br/>
+ông đã đóng một chiếc <a href="../V/Vingilot.md" title="Vingilot">thuyền gỗ</a> bị đốn hạ<br/>
+ở <a href="../N/Nimbrethil.md" title="Nimbrethil">Nimbrethil</a> để hành trình vào;<br/>
+cánh buồm của bà ông dệt bằng <a href="Silver.md" title="Silver">bạc</a> đẹp đẽ,<br/>
+Những chiếc đèn lồng của bà được làm bằng bạc,<br/>
+mũi tàu của bà được ông tạo dáng như một con <a href="Swans.md" title="Swans">thiên nga</a>,<br/>
+và thắp sáng các biểu ngữ của bà.
 </p>
 </div>
 
 ### Khổ thơ thứ hai {#Second_stanza}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>In panoply of ancient kings,<br/>
-in chainéd <a class="mw-redirect mw-disambig" href="../R/Rings.md" title="Rings">rings</a> he armoured him;<br/>
-his shining shield was scored with <a href="../R/Runes.md" title="Runes">runes</a><br/>
-to ward all wounds and harm from him;<br/>
-his bow was made of dragon-horn,<br/>
-his arrows shorn of ebony,<br/>
-of silver was his habergeon,<br/>
-his scabbard of chalcedony;<br/>
-his sword of steel was valiant,<br/>
-of <a class="mw-redirect" href="../A/Adamant.md" title="Adamant">adamant</a> his helmet tall,<br/>
-an eagle-plume upon his crest,<br/>
-upon his breast an <a class="new" href="https://tolkiengateway.net/w/index.php?title=Emerald&amp;action=edit&amp;redlink=1" title="Emerald (page does not exist)">emerald</a>.
+<p>Trong sự bao bọc của các vị vua cổ đại,<br/>
+trong <a class="mw-redirect mw-disambig" href="../R/Rings.md" title="Rings">những chiếc nhẫn</a> bị xích, ông bọc thép cho ông;<br/>
+chiếc khiên sáng chói của ông được ghi dấu bằng <a href="../R/Runes.md" title="Runes">rune</a><br/>
+che chở mọi vết thương và tổn hại từ ông;<br/>
+cây cung của ông được làm bằng sừng rồng,<br/>
+những mũi tên của ông được cắt ngắn bằng gỗ mun,<br/>
+chiếc áo khoác của ông bằng bạc,<br/>
+bao kiếm chalcedony của ông;<br/>
+thanh kiếm thép của ông thật dũng cảm,<br/>
+về sự <a class="mw-redirect" href="../A/Adamant.md" title="Adamant">cứng rắn</a> chiếc mũ bảo hiểm cao của ông,<br/>
+một chùm đại bàng trên đỉnh của ông,<br/>
+trên ngực ông là một <a class="new" href="https://tolkiengateway.net/w/index.php?title=Emerald&amp;action=edit&amp;redlink=1" title="Emerald (page does not exist)">ngọc lục bảo</a>.
 </p>
 </div>
 
 ### Khổ cuối {#Last_stanza}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>And over <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a> he passed<br/>
-and heard at last the weeping sore<br/>
-of women and of elven-maids<br/>
-in <a href="../E/Elder_Days.md" title="Elder Days">Elder Days</a>, in years of yore.<br/>
-But on him mighty doom was laid,<br/>
-till <a href="../M/Moon.md" title="Moon">Moon</a> should fade, an orbéd <a class="mw-redirect" href="Star.md" title="Star">star</a><br/>
-to pass, and tarry never more<br/>
-on <a class="mw-redirect" href="../H/Hither_Shores.md" title="Hither Shores">Hither Shores</a> where <a href="../M/Mortals.md" title="Mortals">mortals</a> are;<br/>
-for ever still a herald on<br/>
-on errand that should never rest<br/>
-to bear his shining lamp afar,<br/>
-the <a class="mw-redirect" href="../F/Flammifer.md" title="Flammifer">Flammifer</a> of <a href="../W/Westernesse.md" title="Westernesse">Westernesse</a>.
+<p>Và hơn <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a> ông đã đậu<br/>
+và cuối cùng đã nghe thấy tiếng khóc<br/>
+của phụ nữ và các cô hầu gái thần tiên<br/>
+trong <a href="../E/Elder_Days.md" title="Elder Days">Ngày Người Cao Tuổi</a>, những năm xa xưa.<br/>
+Nhưng số phận lớn lao đã được đặt lên ông,<br/>
+cho đến khi <a href="../M/Moon.md" title="Moon">Mặt Trăng</a> mờ dần, một <a class="mw-redirect" href="Star.md" title="Star">ngôi sao</a><br/> hình cầu
+vượt qua và không bao giờ chần chừ nữa<br/>
+trên <a class="mw-redirect" href="../H/Hither_Shores.md" title="Hither Shores">Bờ biển kia</a> nơi có <a href="../M/Mortals.md" title="Mortals">người phàm</a>;<br/>
+mãi mãi vẫn là người đưa tin<br/>
+đang làm việc vặt không bao giờ được nghỉ ngơi<br/>
+mang ngọn đèn sáng của mình đi xa,<br/>
+<a class="mw-redirect" href="../F/Flammifer.md" title="Flammifer">Flammifer</a> của <a href="../W/Westernesse.md" title="Westernesse">Westernese</a>.
 </p>
 </div>
 

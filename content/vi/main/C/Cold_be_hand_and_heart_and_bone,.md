@@ -16,7 +16,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 **Lạnh lùng cả tay, tim và xương,** là dòng đầu tiên của [câu thần chú](../P/Poems_in_The_Lord_of_the_Rings.md) được hát bởi [Barrow-wight](../B/Barrow-wights.md) đã nhốt [Frodo Baggins](../F/Frodo_Baggins.md), [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md), [Peregrin Took](../P/Peregrin_Took.md) và [Samwise Gamgee](../S/Samwise_Gamgee.md) trong [xe cút kít](../B/Barrow.md) của nó sau khi họ rời khỏi [ngôi nhà](<../U/Underhill_(house).md>) của [Tom Bombadil](../T/Tom_Bombadil.md). Khi Frodo lần đầu tiên nghe thấy nó, nó không hơn gì một tiếng thì thầm, nhưng nhanh chóng biểu hiện thành một dòng âm thanh khủng khiếp và những lời nói lạnh lùng trước khi chuyển thành một câu thần chú khiến anh lạnh thấu xương.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
@@ -24,13 +24,13 @@ images:
 ## Bài thơ {#Poem}
 
 <div class="poem">
-<p><i>Cold be hand and heart and bone,</i><br/>
+<p><i>Lạnh cả tay, lạnh cả xương,</i><br/>
 <i>and cold be sleep under stone:</i><br/>
-<i>never more to wake on stony bed,</i><br/>
-<i>never, till the Sun fails and the Moon is dead.</i><br/>
-<i>In the black wind the stars shall die,</i><br/>
-<i>and still on gold here let them lie,</i><br/>
-<i>till the dark lord lifts up his hand</i><br/>
+<i>không bao giờ phải thức dậy trên giường đá nữa,</i><br/>
+<i>không bao giờ, cho đến khi Mặt Trời bị lỗi và Mặt Trăng chết.</i><br/>
+<i>Trong cơn gió đen những ngôi sao sẽ chết,</i><br/>
+<i>và còn vàng ở đây hãy để họ nằm,</i><br/>
+<i>cho đến khi chúa tể bóng tối giơ tay</i><br/>
 <i>over dead sea and withered land.</i>
 </p>
 </div>
@@ -39,23 +39,23 @@ images:
 
 <b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
-<dl><dd><a href="../G/Gollum.md" title="Gollum">Gollum</a> chants an altered version of the poem in the <a href="../D/Dead_Marshes.md" title="Dead Marshes">Dead Marshes</a> just before Frodo refers to him as Sméagol:</dd></dl>
+<dl><dd><a href="../G/Gollum.md" title="Gollum">Gollum</a> đọc một phiên bản đã thay đổi của bài thơ trong <a href="../D/Dead_Marshes.md" title="Dead Marshes">Đầm lầy Chết</a> ngay trước khi Frodo gọi ông là Sméagol:</dd></dl>
 
 <div class="poem">
-<p><i>Cold be heart and hand and bone,</i><br/>
+<p><i>Lạnh cả tim, tay và xương,</i><br/>
 <i>Cold be travelers far from home,</i><br/>
-<i>They do not see what lies ahead</i><br/>
-<i>when sun has failed and moon is dead.</i>
+<i>Họ không nhìn thấy điều gì ở phía trước</i><br/>
+<i>khi mặt trời đã lặn và mặt trăng đã chết.</i>
 </p>
 </div>
 
 <b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)">The Lord of the Rings: The Fellowship of the Ring (trò chơi điện tử)</a></i>:</b>
 
-<dl><dd>A disembodied voice can be heard reciting the incantation in the background during Frodo&#39;s battle with the Barrow-wight.</dd></dl>
+<dl><dd>Có thể nghe thấy một giọng nói quái gở đang đọc câu thần chú ở phía sau trong trận chiến của Frodo với Barrow-wight.</dd></dl>
 
 <b>2024: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
 
-<dl><dd>In season two, the Barrow-wights are heard chanting this poem.</dd></dl>
+<dl><dd>Trong phần hai, người ta nghe thấy Barrow-wight tụng bài thơ này.</dd></dl>
 
 ## Xem thêm {#See_also}
 

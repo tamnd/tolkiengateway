@@ -22,21 +22,21 @@ sort_keys:
 Trong quá trình hình thành ngôn ngữ, sundóma tham gia vào các hiện tượng sau:
 
 <dl><dt>Intensification</dt>
-<dd>prefixing to a sundo its sundóma, usually together with its lengthening either in the first or in the last position.</dd></dl>
+<dd>đặt trước sundo sundóma của nó, thường cùng với việc kéo dài nó ở vị trí đầu tiên hoặc ở vị trí cuối cùng.</dd></dl>
 
 <dl><dt><ul><li><a href="../L/LAK.md" title="LAK">LAK</a>- &gt; Á-LAK</li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=NAR&amp;action=edit&amp;redlink=1" title="NAR (page does not exist)">NAR</a>- &gt; A-NÁR &gt; <a href="Sun.md" title="Sun">Anar</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=THIL&amp;action=edit&amp;redlink=1" title="THIL (page does not exist)">THIL</a>- &gt; I-THIL &gt; <a href="../M/Moon.md#Other_names" title="Moon">Isil</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=MAN&amp;action=edit&amp;redlink=1" title="MAN (page does not exist)">MAN</a>- &gt; A-MAN &gt; <a href="../A/Aman.md" title="Aman">Aman</a></li></ul></dt></dl>
 
-<dl><dt><i>A</i> infixion</dt>
-<dd>adding an a before the sundóma I creating an <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ohlon&amp;action=edit&amp;redlink=1" title="Ohlon (page does not exist)">ohlon</a> (diphthong):</dd></dl>
+<dl><dt><i>A</i> cố định</dt>
+<dd>thêm chữ a trước sundóma Tôi tạo một <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ohlon&amp;action=edit&amp;redlink=1" title="Ohlon (page does not exist)">ohlon</a> (nguyên âm đôi):</dd></dl>
 
 <dl><dt><ul><li><a class="new" href="https://tolkiengateway.net/w/index.php?title=SLIW&amp;action=edit&amp;redlink=1" title="SLIW (page does not exist)">SLIW</a>- &gt; <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Slaiw%C3%A2&amp;action=edit&amp;redlink=1" title="Slaiwâ (page does not exist)">slaiwâ</a></i></li>
 <li><a href="../T/THUS.md" title="THUS">THUS</a>- &gt; <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Thaus%C3%A2&amp;action=edit&amp;redlink=1" title="Thausâ (page does not exist)">thausâ</a></i></li></ul></dt></dl>
 
-<dl><dt>I/Y infixion</dt>
-<dd>putting an i/y after the sundóma creating an <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ohlon&amp;action=edit&amp;redlink=1" title="Ohlon (page does not exist)">ohlon</a> (less frequently occurred than the previous one):</dd></dl>
+<dl><dt>Cố định I/Y</dt>
+<dd>đặt i/y sau sundóma tạo ra <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ohlon&amp;action=edit&amp;redlink=1" title="Ohlon (page does not exist)">ohlon</a> (ít xảy ra hơn so với cái trước):</dd></dl>
 
 <dl><dt><ul><li><a class="mw-redirect" href="../N/NAK.md" title="NAK">NAK</a>- &gt; <a class="new" href="https://tolkiengateway.net/w/index.php?title=NAYKA&amp;action=edit&amp;redlink=1" title="NAYKA (page does not exist)">NAYKA</a>-</li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=WAWA&amp;action=edit&amp;redlink=1" title="WAWA (page does not exist)">WAWA</a>- &gt; <a class="new" href="https://tolkiengateway.net/w/index.php?title=WAIWA&amp;action=edit&amp;redlink=1" title="WAIWA (page does not exist)">WAIWA</a>-</li></ul></dt></dl>

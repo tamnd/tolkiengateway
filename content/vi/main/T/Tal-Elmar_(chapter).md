@@ -29,7 +29,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the chapter of <a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></b>. For the character, see <b><a class="mw-disambig" href="Tal-Elmar_(disambiguation).md" title="Tal-Elmar (disambiguation)">Tal-Elmar (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>chương của <a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></b>. Về nhân vật, xem <b><a class="mw-disambig" href="Tal-Elmar_(disambiguation).md" title="Tal-Elmar (disambiguation)">Tal-Elmar (định hướng)</a></b>.</div></div>
 
 <table class="tginfobox" align="right" cellpadding="3" cellspacing="0" style="margin-left:15px; border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
@@ -37,22 +37,22 @@ images:
 </th></tr>
 <tr>
 <td>
-<ol><li><a href="The_Prologue.md" title="The Prologue">The Prologue</a></li>
-<li><a href="The_Appendix_on_Languages.md" title="The Appendix on Languages">The Appendix on Languages</a></li>
-<li><a href="The_Family_Trees.md" title="The Family Trees">The Family Trees</a></li>
-<li><a href="The_Calendars.md" title="The Calendars">The Calendars</a></li>
-<li><a href="The_History_of_the_Akallabêth.md" title="The History of the Akallabêth">The History of the Akallabêth</a></li>
+<ol><li><a href="The_Prologue.md" title="The Prologue">Lời mở đầu</a></li>
+<li><a href="The_Appendix_on_Languages.md" title="The Appendix on Languages">Phụ lục về ngôn ngữ</a></li>
+<li><a href="The_Family_Trees.md" title="The Family Trees">Phả hệ</a></li>
+<li><a href="The_Calendars.md" title="The Calendars">Các bộ lịch</a></li>
+<li><a href="The_History_of_the_Akallabêth.md" title="The History of the Akallabêth">Lịch sử Akallabêth</a></li>
 <li><a href="The_Tale_of_Years_of_the_Second_Age.md" title="The Tale of Years of the Second Age">The Tale of Years of the Second Age</a></li>
-<li><a href="The_Heirs_of_Elendil.md" title="The Heirs of Elendil">The Heirs of Elendil</a></li>
+<li><a href="The_Heirs_of_Elendil.md" title="The Heirs of Elendil">Những người thừa kế Elendil</a></li>
 <li><a href="The_Tale_of_Years_of_the_Third_Age.md" title="The Tale of Years of the Third Age">The Tale of Years of the Third Age</a></li>
-<li><a href="The_Making_of_Appendix_A.md" title="The Making of Appendix A">The Making of Appendix A</a></li>
+<li><a href="The_Making_of_Appendix_A.md" title="The Making of Appendix A">Quá trình biên soạn Appendix A</a></li>
 <li><a href="../O/Of_Dwarves_and_Men.md" title="Of Dwarves and Men">Of Dwarves and Men</a></li>
 <li><a href="The_Shibboleth_of_Fëanor.md" title="The Shibboleth of Fëanor">The Shibboleth of Fëanor</a></li>
 <li><a href="The_Problem_of_Ros.md" title="The Problem of Ros">The Problem of <i>Ros</i></a></li>
-<li><a href="../L/Last_Writings.md" title="Last Writings">Last Writings</a></li>
+<li><a href="../L/Last_Writings.md" title="Last Writings">Những tác phẩm cuối đời</a></li>
 <li><a href="../D/Dangweth_Pengoloð.md" title="Dangweth Pengoloð">Dangweth Pengoloð</a></li>
-<li><a href="../O/Of_Lembas.md" title="Of Lembas">Of Lembas</a></li>
-<li><a href="The_New_Shadow.md" title="The New Shadow">The New Shadow</a></li>
+<li><a href="../O/Of_Lembas.md" title="Of Lembas">Về Lembas</a></li>
+<li><a href="The_New_Shadow.md" title="The New Shadow">Bóng Tối Mới</a></li>
 <li><a class="mw-selflink selflink">Tal-Elmar</a></li></ol>
 </td></tr></tbody></table>
 
@@ -79,18 +79,18 @@ Không có thời gian hoặc địa điểm xác định được cung cấp ch
 Trong truyện gốc, từ những năm 1950, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) có những ghi chú sau:
 
 <blockquote class="tg-quote noexcerpt">
-<p>The object of the Númenóreans is to occupy this land, and in alliance with the ‘Cruels’ of the North to drive out the Dark People and make a settlement to threaten the King. (Or is this while Sauron is absent in Númenor?)
-The place is on estuary of Isen? or Morthond.
+<p>Mục tiêu của người Númenor là chiếm giữ vùng đất này và liên minh với 'Những kẻ tàn ác' của phương Bắc để đánh đuổi Người Hắc ám và dàn xếp để đe dọa Vua. (Hay điều này xảy ra trong khi Sauron không có trong Númenor?)
+Nơi này nằm ở cửa sông Isen? hoặc Morthond.
 </p>
-<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;XVII. <a class="mw-selflink selflink">Tal-Elmar</a>&#34;</cite></p>
+<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, "XVII. <a class="mw-selflink selflink">Tal-Elmar</a>"</cite></p>
 </blockquote>
 
 Trong một ghi chú đính kèm sau, đề năm 1968, Tolkien đã thêm những điều sau đây về câu chuyện:
 
 <blockquote class="tg-quote noexcerpt">
-<p>It was begun without much consideration of geography (or the situation as envisaged in The Lord of the Rings). But either it must remain as a separate tale only vaguely linked with the developed Lord of the Rings history, or – and I think so – it must recount the coming of the Númenóreans (Elf-friends) before the Downfall, and represent their choice of permanent havens. So the geography must be made to fit that of the mouths of Anduin and the Langstrand.
+<p>Nó được bắt đầu mà không cần cân nhắc nhiều về mặt địa lý (hoặc tình huống như đã dự kiến ​​trong The Lord of the Rings). Nhưng hoặc nó phải vẫn là một câu chuyện riêng biệt chỉ có mối liên hệ mơ hồ với lịch sử Chúa tể những chiếc nhẫn đã phát triển, hoặc - và tôi nghĩ vậy - nó phải kể lại sự xuất hiện của người Númenor (Những người bạn yêu tinh) trước Sự sụp đổ, và thể hiện sự lựa chọn nơi trú ẩn vĩnh viễn của họ. Vì vậy, địa hình phải phù hợp với cửa Anduin và Langstrand.
 </p>
-<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;XVII. <a class="mw-selflink selflink">Tal-Elmar</a>&#34;</cite></p>
+<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, "XVII. <a class="mw-selflink selflink">Tal-Elmar</a>"</cite></p>
 </blockquote>
 
 Đáng chú ý, người Númenor bắt đầu xây dựng những nơi trú ẩn lâu dài vào khoảng năm [S.A.](../S/Second_Age.md) [1200](../S/Second_Age_1200.md) và các khu định cư lâu dài bắt đầu vào khoảng [S.A.](../S/Second_Age.md) [1800](../S/Second_Age_1800.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>

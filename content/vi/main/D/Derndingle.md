@@ -41,7 +41,7 @@ A *dingle* là một "thung lũng có bóng cây". Phần tử cổ xưa *dern* 
 
 <b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>After the fall of <a href="../I/Isengard.md" title="Isengard">Isengard</a>, <a href="../Q/Quickbeam.md" title="Quickbeam">Quickbeam</a> returns to Derndingle where he gives the player various tasks for tending the forest.</dd></dl>
+<dl><dd>Sau sự sụp đổ của <a href="../I/Isengard.md" title="Isengard">Isengard</a>, <a href="../Q/Quickbeam.md" title="Quickbeam">Quickbeam</a> quay trở lại Derndingle, nơi ông giao cho người chơi nhiều nhiệm vụ khác nhau để chăm sóc khu rừng.</dd></dl>
 
 <span></span>
 

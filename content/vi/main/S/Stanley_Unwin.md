@@ -32,7 +32,7 @@ images:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>You are one of those rare people with genius, and, unlike some publishers, it is a word I have not used half a dozen times in thirty years of publishing
+<p>Bạn là một trong những người hiếm hoi có thiên tài, và không giống như một số nhà xuất bản, đó là từ mà tôi đã không sử dụng nửa tá trong ba mươi năm xuất bản.
 </p>
 <p class="tg-quote-footer"><cite>Stanley Unwin to <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

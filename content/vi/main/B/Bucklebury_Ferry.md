@@ -53,7 +53,7 @@ Bến phà được [Merry](../M/Merry.md)<sup id="cite_ref-consp_1-4" class="re
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể những chiếc nhẫn: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a>, <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a>, <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Meriadoc Brandybuck</a>, and <a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a> all get on the ferry (at Merry&#39;s suggestion) in order to evade the pursuing <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> and then ride it to <a href="Bree.md" title="Bree">Bree</a>.</dd></dl>
+<dl><dd><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a>, <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a>, <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Meriadoc Brandybuck</a> và <a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a> đều xuống phà (theo gợi ý của Merry) để trốn tránh <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> truy đuổi rồi đi đến <a href="Bree.md" title="Bree">Bree</a>.</dd></dl>
 
 <span></span>
 

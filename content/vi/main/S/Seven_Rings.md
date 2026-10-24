@@ -35,7 +35,7 @@ images:
   - "Liz_Danforth_-_Annatar_and_the_Seven_Rings.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Liz_Danforth_-_Annatar_and_the_Seven_Rings.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f1/Liz_Danforth_-_Annatar_and_the_Seven_Rings.png/300px-Liz_Danforth_-_Annatar_and_the_Seven_Rings.png" decoding="async" loading="lazy" width="300" height="395" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/f1/Liz_Danforth_-_Annatar_and_the_Seven_Rings.png 1.5x" data-file-width="318" data-file-height="419"/></a><figcaption><i>Annatar and the seven rings</i> by <a href="../L/Liz_Danforth.md" title="Liz Danforth">Liz Danforth</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Liz_Danforth_-_Annatar_and_the_Seven_Rings.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f1/Liz_Danforth_-_Annatar_and_the_Seven_Rings.png/300px-Liz_Danforth_-_Annatar_and_the_Seven_Rings.png" decoding="async" loading="lazy" width="300" height="395" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/f1/Liz_Danforth_-_Annatar_and_the_Seven_Rings.png 1.5x" data-file-width="318" data-file-height="419"/></a><figcaption><i>Annatar and the seven rings</i> của <a href="../L/Liz_Danforth.md" title="Liz Danforth">Liz Danforth</a></figcaption></figure>
 
 **Bảy chiếc nhẫn Người Lùn** là [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md) được [Sauron](Sauron.md) trao cho bảy Lãnh chúa [Người Lùn](../D/Dwarves.md) dưới vỏ bọc [Annatar](../A/Annatar.md).
 
@@ -62,7 +62,7 @@ Bốn chiếc đã bị [Rồng](../D/Dragons.md) tiêu thụ và phá hủy, nh
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/N/Noble_Collection_-_Dwarven_Ring_of_Power.jpg.md" title="A Dwarf-ring as conceived by The Noble Collection"><img alt="A Dwarf-ring as conceived by The Noble Collection" src="https://tolkiengateway.net/w/images/thumb/0/00/Noble_Collection_-_Dwarven_Ring_of_Power.jpg/150px-Noble_Collection_-_Dwarven_Ring_of_Power.jpg" decoding="async" loading="lazy" width="150" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/00/Noble_Collection_-_Dwarven_Ring_of_Power.jpg/225px-Noble_Collection_-_Dwarven_Ring_of_Power.jpg 1.5x, https://tolkiengateway.net/w/images/0/00/Noble_Collection_-_Dwarven_Ring_of_Power.jpg 2x" data-file-width="280" data-file-height="280"/></a></span></div>
 			<div class="gallerytext">
-<p>A Dwarf-ring as conceived by <a href="../T/The_Noble_Collection.md" title="The Noble Collection">The Noble Collection</a>
+<p>Một chiếc nhẫn Người Lùn được hình thành bởi <a href="../T/The_Noble_Collection.md" title="The Noble Collection">Bộ sưu tập Noble</a>
 </p>
 			</div>
 		</li>
@@ -105,7 +105,7 @@ Bốn chiếc đã bị [Rồng](../D/Dragons.md) tiêu thụ và phá hủy, nh
 
 <b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
-<dl><dd>Each of the seven rings has its own card, released in two versions. The first in  <i><a href="../M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a></i> and then the second in <i><a href="../M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a></i> or <i><a href="../M/Middle-earth%253A_Against_the_Shadow.md" title="Middle-earth: Against the Shadow">Middle-earth: Against the Shadow</a></i>):
+<dl><dd>Mỗi chiếc trong số bảy chiếc nhẫn đều có thẻ riêng, được phát hành thành hai phiên bản. Cái đầu tiên trong <i><a href="../M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a></i> và sau đó là cái thứ hai trong <i><a href="../M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a></i> hoặc <i><a href="../M/Middle-earth%253A_Against_the_Shadow.md" title="Middle-earth: Against the Shadow">Middle-earth: Against the Shadow</a></i>):
 <ul><li>Dwarven Ring of Dwálin&#39;s Tribe</li>
 <li>Dwarven Ring of Barin&#39;s Tribe</li>
 <li>Dwarven Ring of Bávor&#39;s Tribe</li>
@@ -116,11 +116,11 @@ Bốn chiếc đã bị [Rồng](../D/Dragons.md) tiêu thụ và phá hủy, nh
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>The Seven appear in the introduction of the movie, worn by Dwarf kings. They are designed consistently to the general &#39;Dwarven&#39; aesthetics of the movie, with angular, crystalline shapes. However nowhere in Tolkien&#39;s books is mentioned that the Seven were designed or made for the Dwarves.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
+<dl><dd>Bảy vị vua xuất hiện trong phần giới thiệu của bộ phim, được mặc bởi các vị vua Người Lùn. Chúng được thiết kế nhất quán theo tính thẩm mỹ chung 'Người Lùn' của bộ phim, với các hình dạng tinh thể, góc cạnh. Tuy nhiên, không có chỗ nào trong sách của Tolkien đề cập rằng Seven được thiết kế hoặc chế tạo cho Người Lùn.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi đánh bài</a></i>:</b>
 
-<dl><dd>Several rings are named:
+<dl><dd>Một số chiếc nhẫn được đặt tên:
 <ul><li>Ring of Accretion<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li>
 <li>Ring of Fury<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></li>
 <li>Ring of Guile<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li>
@@ -129,17 +129,17 @@ Bốn chiếc đã bị [Rồng](../D/Dragons.md) tiêu thụ và phá hủy, nh
 
 **2012: [The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md):**
 
-<dl><dd>During a meeting of the <a href="../W/White_Council.md" title="White Council">White Council</a>, Gandalf mentions that of the Seven Rings, four were consumed by <a href="../D/Dragons.md" title="Dragons">Dragons</a>, two were taken by <a href="Sauron.md" title="Sauron">Sauron</a> and <a href="../R/Ring_of_Thrór.md" title="Ring of Thrór">the last</a> had vanished with <a href="../T/Thráin.md" title="Thráin">Thráin</a>.</dd></dl>
+<dl><dd>Trong cuộc họp của <a href="../W/White_Council.md" title="White Council">Bạch Hội Đồng</a>, Gandalf đề cập đến việc Bảy Chiếc Nhẫn, bốn chiếc đã bị <a href="../D/Dragons.md" title="Dragons">Rồng</a> tiêu thụ, hai chiếc đã bị <a href="Sauron.md" title="Sauron">Sauron</a> lấy đi và <a href="../R/Ring_of_Thrór.md" title="Ring of Thrór">cái cuối cùng</a> đã biến mất cùng với <a href="../T/Thráin.md" title="Thráin">Thráin</a>.</dd></dl>
 
 <b>2013: <i><a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Hobbit: The Desolation of Smaug</a></i>:</b>
 
-<dl><dd>When <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> encounters Thráin in <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>, he grabs Thrains hand and discovers his ring finger has been cut off. A flashback reveals <a href="../A/Azog.md" title="Azog">Azog the Defiler</a> cut off <a href="../T/Thráin.md" title="Thráin">Thráin</a>&#39;s finger and took <a href="../R/Ring_of_Thrór.md" title="Ring of Thrór">his ring</a> during the <a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Battle of Azanulbizar</a>.</dd></dl>
+<dl><dd>Khi <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> gặp Thráin ở <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>, anh nắm lấy tay Thrain và phát hiện ngón đeo nhẫn của anh đã bị cắt đứt. Một đoạn hồi tưởng cho thấy <a href="../A/Azog.md" title="Azog">Azog Kẻ Defiler</a> đã cắt ngón tay của <a href="../T/Thráin.md" title="Thráin">Thráin</a> và lấy <a href="../R/Ring_of_Thrór.md" title="Ring of Thrór">chiếc nhẫn của ông</a> trong <a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Trận Azanulbizar</a>.</dd></dl>
 
 <b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Dwarf-rings consumed by dragons were not destroyed, but Sauron had those dragons imprisoned and tortured in an attempt to recover the Rings. The &#34;Ring-drakes&#34;, as they were called, were &#34;Hrímil Frost-heart&#34;, who consumed &#34;Tínya&#34; and the king of the Eastern &#34;Zhélruka&#34; dwarves who bore it; &#34;Thostír Rank&#34;, who consumed &#34;Tulcya&#34;, the ring of another House in <a href="../R/Rhûn.md" title="Rhûn">Rhûn</a>; and &#34;Fingar the Greedy&#34;, a Great Worm of <a href="../A/Angband.md" title="Angband">Angband</a> who consumed &#34;Úrya&#34; and &#34;Vanya&#34;, the Rings of the Ered Luin kingdoms.</dd></dl>
 
-<dl><dd>Two other rings of the eastern Houses were reclaimed by Sauron: &#34;Taurya&#34; and &#34;Sindya&#34;, the Ring of &#34;Drása&#39;s Folk&#34; (later dubbed &#34;Stout-axes&#34;), who called it &#34;Manthríf&#34;. &#34;Angya&#34; was the name of the Ring of Durin, which was called &#34;Handórm&#34; by the Dwarves.</dd></dl>
+<dl><dd>Hai chiếc nhẫn khác của các Nhà phía đông đã được Sauron thu hồi: "Taurya" và "Sindya", Chiếc nhẫn của "Drása's Folk" (sau này được mệnh danh là "Stout-axes"), người gọi nó là "Manthríf". "Angya" là tên của Chiếc nhẫn Durin, được Người Lùn gọi là "Handórm".</dd></dl>
 
 ## Liên kết ngoài {#External_links}
 
@@ -178,7 +178,7 @@ Bốn chiếc đã bị [Rồng](../D/Dragons.md) tiêu thụ và phá hủy, nh
 
 <table style="margin:0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="4" style="background:var(--tg-color-surface-5)"><b><a href="../R/Rings_of_Power.md" title="Rings of Power">Rings of Power</a></b>
+<td align="center" colspan="4" style="background:var(--tg-color-surface-5)"><b><a href="../R/Rings_of_Power.md" title="Rings of Power">Những Chiếc Nhẫn Quyền Năng</a></b>
 </td></tr>
 <tr>
 <td style="text-align:center;"><b><a class="mw-redirect" href="../O/One_Ring.md" title="One Ring">One Ring</a></b> | <b><a href="../T/Three_Rings.md" title="Three Rings">Three Rings</a></b> <small>(<i><a href="../N/Narya.md" title="Narya">Narya</a></i> · <i><a href="../N/Nenya.md" title="Nenya">Nenya</a></i> · <i><a href="../V/Vilya.md" title="Vilya">Vilya</a></i>)</small> | <b><a class="mw-selflink selflink">Seven Rings</a></b> <small>(<i><a href="../R/Ring_of_Thrór.md" title="Ring of Thrór">Ring of Thrór</a></i>)</small> | <b><a href="../N/Nine_Rings.md" title="Nine Rings">Nine Rings</a></b>

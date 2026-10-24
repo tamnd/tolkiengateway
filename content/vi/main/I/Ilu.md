@@ -16,8 +16,8 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Ilu&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
-<p>...there is much else that may be told.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Ilu&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
+<p>...còn nhiều điều khác có thể được kể.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
@@ -27,9 +27,9 @@ images:
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Ilu <a href="Ilúvatar.md" title="Ilúvatar">Ilúvatar</a> en káre <a href="../E/Eldar.md" title="Eldar">eldain</a> a <a class="mw-redirect" href="../F/Fírimar.md" title="Fírimar">fírimoin</a>.<br/>(<a href="../Q/Qenya.md" title="Qenya">Qenya</a>: The Father made the World for Elves and Mortals)
+<p>Ilu <a href="Ilúvatar.md" title="Ilúvatar">Ilúvatar</a> en káre <a href="../E/Eldar.md" title="Eldar">eldain</a> a <a class="mw-redirect" href="../F/Fírimar.md" title="Fírimar">fírimoin</a>.<br/>(<a href="../Q/Qenya.md" title="Qenya">Qenya</a>: Chúa Cha đã tạo ra Thế giới cho Tiên tộc và Người phàm)
 </p>
-<p class="tg-quote-footer"><cite><a href="../F/Fíriel&#39;s_song.md" title="Fíriel&#39;s song">Fíriel&#39;s song</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite>bài hát của <a href="../F/Fíriel&#39;s_song.md" title="Fíriel&#39;s song">Fíriel</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 Trong khái niệm ban đầu của [huyền thoại](../L/Legendarium.md), *Ilu* là tên của "Thế giới", biểu thị *both* thế giới có người ở và cả vũ trụ.
@@ -75,17 +75,17 @@ Ilu không xuất hiện trong [Silmarillion](../S/Silmarillion.md) đã xuất 
 <td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a> <a class="mw-redirect" href="../C/Cosmology.md" title="Cosmology">Cosmology</a></b>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"> <a href="../C/Constellations.md" title="Constellations">Constellations</a>
+<th style="background:var(--tg-color-surface-3);" align="right"> <a href="../C/Constellations.md" title="Constellations">Chòm sao</a>
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Anarríma.md" title="Anarríma">Anarríma</a></i> · <i><a href="../D/Durin&#39;s_Crown.md" title="Durin&#39;s Crown">Durin&#39;s Crown</a></i> · <i><a href="../M/Menelmacar.md" title="Menelmacar">Menelmacar</a></i> · <i><a href="../R/Remmirath.md" title="Remmirath">Remmirath</a></i> · <i><a href="../S/Soronúmë.md" title="Soronúmë">Soronúmë</a></i> · <i><a href="../T/Telumendil.md" title="Telumendil">Telumendil</a></i> · <i><a href="../V/Valacirca.md" title="Valacirca">Valacirca</a></i> · <i><a href="../W/Wilwarin.md" title="Wilwarin">Wilwarin</a></i>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><a href="../S/Stars.md" title="Stars">Stars</a>
+<th style="background:var(--tg-color-surface-3);" align="right"><a href="../S/Stars.md" title="Stars">Diễn viên chính</a>
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Alcarinquë.md" title="Alcarinquë">Alcarinquë</a></i> · <i><a href="../B/Borgil.md" title="Borgil">Borgil</a></i> · <i><a href="../C/Carnil.md" title="Carnil">Carnil</a></i> · <i><a href="../E/Elemmírë.md" title="Elemmírë">Elemmírë</a></i> · <i><a href="../H/Helluin.md" title="Helluin">Helluin</a></i> · <i><a href="../L/Luinil.md" title="Luinil">Luinil</a></i> · <i><a href="../L/Lumbar.md" title="Lumbar">Lumbar</a></i> · <i><a href="../M/Morwinyon.md" title="Morwinyon">Morwinyon</a></i> · <i><a href="../N/Nénar.md" title="Nénar">Nénar</a></i> · <i><a href="../S/Star_of_Eärendil.md" title="Star of Eärendil">Star of Eärendil</a></i> · <i><a href="../T/Til_(star).md" title="Til (star)">Til</a></i> 
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">The Airs
+<th style="background:var(--tg-color-surface-3);" align="right">Các khúc ca
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Aiwenórë.md" title="Aiwenórë">Aiwenórë</a></i> · <i><a href="../F/Fanyamar.md" title="Fanyamar">Fanyamar</a></i> · <i><a href="Ilmen.md" title="Ilmen">Ilmen</a></i> · <i><a href="../M/Menel.md" title="Menel">Menel</a></i> · <i><a href="../V/Vaiya.md" title="Vaiya">Vaiya</a></i> · <i><a href="../V/Veil_of_Arda.md" title="Veil of Arda">Veil of Arda</a></i> · <i><a href="../V/Vista.md" title="Vista">Vista</a></i>
 </td></tr>
@@ -95,7 +95,7 @@ Ilu không xuất hiện trong [Silmarillion](../S/Silmarillion.md) đã xuất 
 <td style="font-size: 90%"> <i><a href="../A/Arien.md" title="Arien">Arien</a></i> · <i><a href="../M/Moon.md" title="Moon">Moon</a></i> (<i>Isil</i>, <i>Ithil</i>, <i>Rána</i>) · <i><a href="../S/Sun.md" title="Sun">Sun</a></i> (<i>Anar</i>, <i>Anor</i>, <i>Vása</i>) · <i><a href="../T/Tilion.md" title="Tilion">Tilion</a></i>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">See also
+<th style="background:var(--tg-color-surface-3);" align="right">Xem thêm
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Abyss.md" title="Abyss">Abyss</a></i> · <i><a href="../A/Arda.md" title="Arda">Arda</a></i> · <i><a href="../C/Circles_of_the_World.md" title="Circles of the World">Circles of the World</a></i> · <i><a href="../E/Eä.md" title="Eä">Eä</a></i> · <i><a href="../T/Timeless_Halls.md" title="Timeless Halls">Timeless Halls</a></i> · <i><a href="../T/Two_Lamps.md" title="Two Lamps">Two Lamps</a></i> · <i><a href="../T/Two_Trees_of_Valinor.md" title="Two Trees of Valinor">Two Trees</a></i> · <i><a href="../V/Void.md" title="Void">Void</a></i>
 </td></tr></tbody></table>

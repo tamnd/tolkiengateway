@@ -32,9 +32,9 @@ infobox:
     value: "Nom the Wise"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>a song in the real world</b>. For the the Quenya name for &#34;Elves&#34;, see <b><a href="../E/Eldar.md" title="Eldar">Eldar</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>một bài hát trong thế giới thực</b>. Để biết tên Quenya cho "Tiên tộc", hãy xem <b><a href="../E/Eldar.md" title="Eldar">Eldar</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Blind_guardian_nightfall_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/93/Blind_guardian_nightfall_cover.jpg/320px-Blind_guardian_nightfall_cover.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/93/Blind_guardian_nightfall_cover.jpg/480px-Blind_guardian_nightfall_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/93/Blind_guardian_nightfall_cover.jpg/640px-Blind_guardian_nightfall_cover.jpg 2x" data-file-width="1000" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Eldar</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../N/Nightfall_in_Middle-Earth.md" title="Nightfall in Middle-Earth">Nightfall in Middle-Earth</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data">Hansi Kürsch, André Olbrich, Michael Schüren</td></tr><tr><th scope="row" class="tg-infobox-label">Written by</th><td class="tg-infobox-data">Hansi Kürsch</td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data"><a href="../B/Blind_Guardian.md" title="Blind Guardian">Blind Guardian</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">3:39</td></tr><tr><th scope="row" class="tg-infobox-label">Track No.</th><td class="tg-infobox-data">16</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="Thorn_(song).md" title="Thorn (song)">Thorn</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="../N/Nom_the_Wise.md" title="Nom the Wise">Nom the Wise</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/6Lpk1pDvWTzNAzaT5ll5j4"></iframe></span>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Blind_guardian_nightfall_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/93/Blind_guardian_nightfall_cover.jpg/320px-Blind_guardian_nightfall_cover.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/93/Blind_guardian_nightfall_cover.jpg/480px-Blind_guardian_nightfall_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/93/Blind_guardian_nightfall_cover.jpg/640px-Blind_guardian_nightfall_cover.jpg 2x" data-file-width="1000" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Eldar</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../N/Nightfall_in_Middle-Earth.md" title="Nightfall in Middle-Earth">Đêm buông xuống ở Trung Địa</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data">Hansi Kürsch, André Olbrich, Michael Schüren</td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data">Hansi Kürsch</td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data"><a href="../B/Blind_Guardian.md" title="Blind Guardian">Blind Guardian</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">3:39</td></tr><tr><th scope="row" class="tg-infobox-label">Số thứ tự bản nhạc</th><td class="tg-infobox-data">16</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="Thorn_(song).md" title="Thorn (song)">Thorn</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="../N/Nom_the_Wise.md" title="Nom the Wise">Nom the Wise</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Phương tiện truyền thông</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/6Lpk1pDvWTzNAzaT5ll5j4"></iframe></span>
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
@@ -43,37 +43,37 @@ infobox:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>I&#39;ve seen the moon <br/>
-And the first sunrise <br/>
-I&#39;ll leave it to the memories <br/>
-And kiss the wind goodbye <br/>
+<p>Tôi đã nhìn thấy mặt trăng <br/>
+Và bình minh đầu tiên <br/>
+Tôi sẽ để nó làm kỷ niệm <br/>
+Và hôn gió tạm biệt <br/>
 <br/>
-For the Eldar <br/>
-I&#39;m trapped inside this dream <br/>
-Of the Eldar&#39;s <br/>
-Song of doom <br/>
+Đối với Eldar <br/>
+Tôi bị mắc kẹt trong giấc mơ này <br/>
+Trong số <br/> của Eldar
+Bài ca diệt vong <br/>
 <br/>
-I&#39;ve tasted poison <br/>
-When I drank the wine of fate <br/>
-But the fear was in my heart <br/>
-I realized too late <br/>
-The house of spirits call <br/>
+Tôi đã nếm phải chất độc <br/>
+Khi tôi uống rượu định mệnh <br/>
+Nhưng nỗi sợ hãi vẫn ở trong lòng <br/>
+Tôi nhận ra quá muộn <br/>
+Ngôi nhà tâm hồn gọi <br/>
 <br/>
-For the Eldar <br/>
-I&#39;m trapped inside this dream <br/>
-Of the Eldar&#39;s <br/>
-Song of the doom <br/>
+Đối với Eldar <br/>
+Tôi bị mắc kẹt trong giấc mơ này <br/>
+Trong số <br/> của Eldar
+Bài ca diệt vong <br/>
 <br/>
-High&#39;s the fee <br/>
-Soon my spirit will return <br/>
-Welcome dawn <br/>
-Your light will take me home <br/>
+Phí cao <br/>
+Tinh thần của tôi sẽ sớm trở lại <br/>
+Chào bình minh <br/>
+Ánh sáng của em sẽ đưa anh về nhà <br/>
 <br/>
-I say farewell <br/>
+Tôi nói lời chia tay <br/>
 <br/>
-To the Eldar <br/>
-I&#39;m trapped inside this dream <br/>
-Of the Eldar&#39;s <br/>
-Song of doom
+Đến Eldar <br/>
+Tôi bị mắc kẹt trong giấc mơ này <br/>
+Trong số <br/> của Eldar
+Bài hát định mệnh
 </p>
 </div>

@@ -30,7 +30,7 @@ Hội đồng Elrond, một tổ chức do người chơi điều hành được
 
 Các nhân vật, vật phẩm và địa điểm mới được giới thiệu bao gồm [Aegnor](../A/Aegnor.md), [Aranrúth](../A/Aranrúth.md), Ascarnil (nhân vật được giới thiệu trong [Empire of the Vua Phù thủy](../E/Empire_of_the_Witch-king.md)), [Bladorthin](../B/Bladorthin.md), [Caras Amarth](../C/Caras_Amarth.md), [Gwaith-i-Mírdain](../G/Gwaith-i-Mírdain.md), [Rúmil](<../R/Rúmil_(elf_of_Lórien).md>)và Tharudan (nhân vật được giới thiệu trong [Tây Bắc) Trung Địa Công báo](../N/Northwestern_Middle-earth_Gazetteer.md)).<sup id="cite_ref-cardnum_2-1" class="reference"><a href="#cite_note-cardnum-2">[2]</a></sup>
 
-<h3><span id="Durin.27s_Folk"></span><span class="mw-headline" id="Durin&#39;s_Folk">Durin&#39;s Folk</span></h3>
+<h3><span id="Durin.27s_Folk"></span><span class="mw-headline" id="Durin&#39;s_Folk">Dân tộc Durin</span></h3>
 
 **Durin's Folk** là một bộ tập trung vào Người Lùn. Ký hiệu mở rộng của nó là <span typeof="mw:File"><a class="mw-file-description" href="../../file/C/Certh_20.svg.md"><img src="https://tolkiengateway.net/w/images/c/c6/Certh_20.svg" decoding="async" loading="lazy" width="18" height="27" class="mw-file-element" data-file-width="32" data-file-height="48"/></a></span>.
 

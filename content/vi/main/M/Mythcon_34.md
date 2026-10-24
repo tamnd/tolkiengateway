@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Mythcon_34"
 content_sha256: dbcfd9854baa19b0826a6c6c5efece74355533bd003874e00a18e4e6f9b7485f
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "2003 Mythopoeic Society conference"
+short_description: "Hội nghị Hiệp hội Thần thoại năm 2003"
 categories:
   - "Mythcon"
 hidden_categories:
@@ -28,7 +28,7 @@ infobox:
     value: "Mythcon 35"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 34</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Scarritt-Bennett Center, Nashville, Tennessee</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data"><a href="../_/25_July.md" title="25 July">25</a>-<a href="../_/28_July.md" title="28 July">28</a> July <a href="../_/2003.md" title="2003">2003</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="Mythcon_33.md" title="Mythcon 33">Mythcon 33</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="Mythcon_35.md" title="Mythcon 35">Mythcon 35</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 34</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Scarritt-Bennett Center, Nashville, Tennessee</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Hội Mythopoeic</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data"><a href="../_/25_July.md" title="25 July">25</a>-<a href="../_/28_July.md" title="28 July">28</a> July <a href="../_/2003.md" title="2003">2003</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="Mythcon_33.md" title="Mythcon 33">Mythcon 33</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Mythcon_35.md" title="Mythcon 35">Mythcon 35</a></td></tr></tbody></table>
 
 **Mythcon 34** là hội nghị thường niên lần thứ 34 của [Hiệp hội thần thoại](Mythopoeic_Society.md).
 

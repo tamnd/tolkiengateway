@@ -24,8 +24,8 @@ Vào [ngày 3 tháng 12](../_/3_December.md), [1954](../_/1954.md), [Chương tr
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Role</th>
-<th>Actor
+<th>Vai trò</th>
+<th>Diễn viên
 </th></tr>
 <tr>
 <td>Tidwald</td>

@@ -31,7 +31,7 @@ infobox:
     value: "https://www.foliosociety.com"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Folio_Society_logo.png.md"><img src="https://tolkiengateway.net/w/images/2/2d/The_Folio_Society_logo.png" decoding="async" loading="lazy" width="196" height="257" class="mw-file-element" data-file-width="196" data-file-height="257"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Folio Society</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Company Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Founded</th><td class="tg-infobox-data"><a href="../_/1947.md" title="1947">1947</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">London</td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Limited Edition Books</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external free" href="https://www.foliosociety.com" rel="noreferrer noopener" target="_blank">https://www.foliosociety.com</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Folio_Society_logo.png.md"><img src="https://tolkiengateway.net/w/images/2/2d/The_Folio_Society_logo.png" decoding="async" loading="lazy" width="196" height="257" class="mw-file-element" data-file-width="196" data-file-height="257"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Folio Society</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin công ty</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thành lập</th><td class="tg-infobox-data"><a href="../_/1947.md" title="1947">1947</a></td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">London</td></tr><tr><th scope="row" class="tg-infobox-label">Loại</th><td class="tg-infobox-data">Limited Edition Books</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external free" href="https://www.foliosociety.com" rel="noreferrer noopener" target="_blank">https://www.foliosociety.com</a></td></tr></tbody></table>
 
 **The Folio Society** là một công ty xuất bản đã phát hành một số cuốn sách của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). *[The Lord of the Rings](The_Lord_of_the_Rings.md)* là bộ 3 tập bán chạy nhất mọi thời đại của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vào [2021](../_/2021.md) họ đã ngừng đóng gói các tập của mình để chuyển sang sử dụng giấy trong suốt tái chế.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -60,20 +60,20 @@ infobox:
 <table class="wikitable sortable mw-collapsible mw-collapsed">
 <tbody><tr>
 <th>Printing</th>
-<th>Date</th>
+<th>Ngày</th>
 <th>Printer</th>
-<th>Country</th>
+<th>Quốc gia</th>
 <th>Paper
 </th></tr>
 <tr>
-<td>1st Impression</td>
+<td>Ấn tượng đầu tiên</td>
 <td><a href="../_/1977.md" title="1977">1977</a></td>
 <td>W&amp;J Mackay Limited</td>
 <td></td>
 <td>
 </td></tr>
 <tr>
-<td>2nd Impression</td>
+<td>Lần hiển thị thứ 2</td>
 <td><a href="../_/1979.md" title="1979">1979</a></td>
 <td></td>
 <td></td>
@@ -91,7 +91,7 @@ infobox:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Folio_Society_-_The_Hobbit_(1997).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5f/The_Folio_Society_-_The_Hobbit_%281997%29.webp/300px-The_Folio_Society_-_The_Hobbit_%281997%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5f/The_Folio_Society_-_The_Hobbit_%281997%29.webp/450px-The_Folio_Society_-_The_Hobbit_%281997%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/5/5f/The_Folio_Society_-_The_Hobbit_%281997%29.webp/600px-The_Folio_Society_-_The_Hobbit_%281997%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>The Hobbit, 1997-Present</figcaption></figure>
 
 <blockquote class="tg-quote noexcerpt">
-<p>This edition is bound in parchment cloth blocked in gold, with an inset label showing Smaug the dragon. It contains 19 black-and-white illustrations by the great Eric Fraser, and endpapers printed in red and black ink, showing Thrór’s Map and Wilderland.
+<p>Ấn bản này được đóng bìa bằng vải da dát vàng, có nhãn bên trong in hình Smaug con rồng. Nó bao gồm 19 hình minh họa đen trắng của Eric Fraser vĩ đại và các trang cuối được in bằng mực đỏ và đen, hiển thị Bản đồ của Thrór và Wilderland.
 </p>
 <p class="tg-quote-footer"><cite>The Folio Society</cite></p>
 </blockquote>
@@ -110,126 +110,126 @@ infobox:
 <tbody><tr>
 <th>Printing
 </th>
-<th>Date
+<th>Ngày
 </th>
 <th>Printer
 </th>
-<th>Country
+<th>Quốc gia
 </th>
 <th>Paper
 </th></tr>
 <tr>
-<td>1st Printing
+<td>In lần thứ nhất
 </td>
 <td>1997
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>3rd Printing
+<td>In lần thứ 3
 </td>
 <td>1999
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>Balmoral Wove
 </td></tr>
 <tr>
-<td>2nd Printing
+<td>In lần 2
 </td>
 <td>1999
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>
 </td></tr>
 <tr>
-<td>5th Printing
+<td>In lần thứ 5
 </td>
 <td>2001
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>St. Paul&#39;s Wove
 </td></tr>
 <tr>
-<td>4th Printing
+<td>In lần thứ 4
 </td>
 <td>2001
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>St. Paul&#39;s Wove
 </td></tr>
 <tr>
-<td>7th Printing
+<td>In lần thứ 7
 </td>
 <td>2002
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>6th Printing
+<td>In lần thứ 6
 </td>
 <td>2002
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>St. Paul&#39;s Wove
 </td></tr>
 <tr>
-<td>8th Printing
+<td>In lần thứ 8
 </td>
 <td>2004
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>9th Printing
+<td>In lần thứ 9
 </td>
 <td>2006
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>
 </td></tr>
 <tr>
-<td>10th Printing
+<td>In lần thứ 10
 </td>
 <td>2007
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>
 </td></tr>
 <tr>
-<td>11th Printing
+<td>In lần thứ 11
 </td>
 <td>2008
 </td>
@@ -240,7 +240,7 @@ infobox:
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>12th Printing
+<td>In lần thứ 12
 </td>
 <td>2009
 </td>
@@ -251,7 +251,7 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>14th Printing
+<td>In lần thứ 14
 </td>
 <td>2010
 </td>
@@ -262,7 +262,7 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>13th Printing
+<td>In lần thứ 13
 </td>
 <td>2010
 </td>
@@ -273,7 +273,7 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>15th Printing
+<td>In lần thứ 15
 </td>
 <td>2011
 </td>
@@ -284,7 +284,7 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>16th Printing
+<td>In lần thứ 16
 </td>
 <td>2012
 </td>
@@ -295,7 +295,7 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>17th Printing
+<td>In lần thứ 17
 </td>
 <td>2013
 </td>
@@ -306,7 +306,7 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>18th Printing
+<td>In lần thứ 18
 </td>
 <td>2016
 </td>
@@ -317,7 +317,7 @@ infobox:
 <td>Yu Long
 </td></tr>
 <tr>
-<td>19th Printing
+<td>In lần thứ 19
 </td>
 <td>2020
 </td>
@@ -328,7 +328,7 @@ infobox:
 <td>Yu Long
 </td></tr>
 <tr>
-<td>20th Printing
+<td>In lần thứ 20
 </td>
 <td>2021
 </td>
@@ -339,7 +339,7 @@ infobox:
 <td>
 </td></tr>
 <tr>
-<td>21th Printing
+<td>In lần thứ 21
 </td>
 <td>2022
 </td>
@@ -357,9 +357,9 @@ infobox:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Folio_Society_-_The_Lord_of_the_Rings_(1997).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/3/38/The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp/300px-The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/38/The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp/450px-The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/38/The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp/600px-The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>The Lord of the Rings, 1997-Present</figcaption></figure>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Eric Fraser was one of the foremost British illustrators of the 20th century. His images – a total of seven full-page images and 57 head-pieces – are based on original designs by Queen Margrethe II of Denmark. Tolkien had seen her sketches and was so impressed that his executors gave special permission for Fraser to interpret them for these Folio editions. Covers blocked in gold and maps of Middle Earth as endpapers complete this superb edition of one the world’s favourite stories.
+<p>Eric Fraser là một trong những họa sĩ minh họa hàng đầu người Anh của thế kỷ 20. Các hình ảnh của ông - tổng cộng có bảy hình ảnh toàn trang và 57 phần đầu - đều dựa trên thiết kế ban đầu của Nữ hoàng Margrethe II của Đan Mạch. Tolkien đã xem các bản phác thảo của cô và rất ấn tượng đến nỗi những người thực hiện của anh đã cho phép đặc biệt để Fraser diễn giải chúng cho các ấn bản Folio này. Bìa bằng vàng và bản đồ Trung Địa làm trang cuối hoàn thiện ấn bản tuyệt vời này của một trong những câu chuyện được yêu thích trên thế giới.
 </p>
-<p class="tg-quote-footer"><cite>The Folio society</cite></p>
+<p class="tg-quote-footer"><cite>Hội Folio</cite></p>
 </blockquote>
 
 **Chi tiết**
@@ -379,148 +379,148 @@ infobox:
 <tbody><tr>
 <th>Printing
 </th>
-<th>Date
+<th>Ngày
 </th>
 <th>Printer
 </th>
-<th>Country
+<th>Quốc gia
 </th>
 <th>Paper
 </th></tr>
 <tr>
-<td>1st Printing
+<td>In lần thứ nhất
 </td>
 <td>1997
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>2nd Printing
+<td>In lần 2
 </td>
 <td>1998
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>3rd Printing
+<td>In lần thứ 3
 </td>
 <td>1999
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>Balmoral Wove
 </td></tr>
 <tr>
-<td>4th Printing
+<td>In lần thứ 4
 </td>
 <td>2000
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>
 </td></tr>
 <tr>
-<td>5th Printing
+<td>In lần thứ 5
 </td>
 <td>2000
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>
 </td></tr>
 <tr>
-<td>6th Printing
+<td>In lần thứ 6
 </td>
 <td>2001
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
-</td>
-<td>St. Paul&#39;s Wove
-</td></tr>
-<tr>
-<td>7th Printing
-</td>
-<td>2002
-</td>
-<td>The Bath Press
-</td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>St. Paul&#39;s Wove
 </td></tr>
 <tr>
-<td>8th Printing
+<td>In lần thứ 7
 </td>
 <td>2002
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>St. Paul&#39;s Wove
 </td></tr>
 <tr>
-<td>9th Printing
+<td>In lần thứ 8
 </td>
 <td>2002
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
+</td>
+<td>St. Paul&#39;s Wove
+</td></tr>
+<tr>
+<td>In lần thứ 9
+</td>
+<td>2002
+</td>
+<td>Nhà in Bath
+</td>
+<td>Vương quốc Anh (Bath)
 </td>
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>10th Printing
+<td>In lần thứ 10
 </td>
 <td>2004
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>Cordier Wove
 </td></tr>
 <tr>
-<td>11th Printing
+<td>In lần thứ 11
 </td>
 <td>2004
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>Gorgeous Wove
 </td></tr>
 <tr>
-<td>12th Printing
+<td>In lần thứ 12
 </td>
 <td>2006
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>13th Printing
+<td>In lần thứ 13
 </td>
 <td>2007
 </td>
@@ -531,7 +531,7 @@ infobox:
 <td>Cordier Wove
 </td></tr>
 <tr>
-<td>14th Printing
+<td>In lần thứ 14
 </td>
 <td>2010
 </td>
@@ -542,7 +542,7 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>15th Printing
+<td>In lần thứ 15
 </td>
 <td>2013
 </td>
@@ -553,7 +553,7 @@ infobox:
 <td>
 </td></tr>
 <tr>
-<td>16th Printing
+<td>In lần thứ 16
 </td>
 <td>2013
 </td>
@@ -564,7 +564,7 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>17th Printing
+<td>In lần thứ 17
 </td>
 <td>2016
 </td>
@@ -575,7 +575,7 @@ infobox:
 <td>
 </td></tr>
 <tr>
-<td>18th Printing
+<td>In lần thứ 18
 </td>
 <td>2018
 </td>
@@ -586,7 +586,7 @@ infobox:
 <td>Yu Long Pure
 </td></tr>
 <tr>
-<td>19th Printing
+<td>In lần thứ 19
 </td>
 <td>2020
 </td>
@@ -597,7 +597,7 @@ infobox:
 <td>Yu Long Pure
 </td></tr>
 <tr>
-<td>20th Printing
+<td>In lần thứ 20
 </td>
 <td>2022
 </td>
@@ -615,7 +615,7 @@ infobox:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Folio_Society_-_The_Silmarillion_(1997).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/0/03/The_Folio_Society_-_The_Silmarillion_%281997%29.webp/300px-The_Folio_Society_-_The_Silmarillion_%281997%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/03/The_Folio_Society_-_The_Silmarillion_%281997%29.webp/450px-The_Folio_Society_-_The_Silmarillion_%281997%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/03/The_Folio_Society_-_The_Silmarillion_%281997%29.webp/600px-The_Folio_Society_-_The_Silmarillion_%281997%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>The Silmarillion, 1997-Present</figcaption></figure>
 
 <blockquote class="tg-quote noexcerpt">
-<p>This edition is published with the original foreword by Christopher Tolkien. It features a frontispiece and 28 superb chapter illustrations by the artist <a class="new" href="https://tolkiengateway.net/w/index.php?title=Francis_Mosley&amp;action=edit&amp;redlink=1" title="Francis Mosley (page does not exist)">Francis Mosley</a>. The binding is blocked in blue and pale gold, based on a design by the artist. A very special feature of this edition is the fold-out map by Christopher Tolkien. Measuring 23 × 15 inches and printed in black and red, it shows Beleriand and the Lands to the North – the mysterious lands that precede Middle-earth.
+<p>Ấn bản này được xuất bản với lời tựa gốc bởi Christopher Tolkien. Nó có trang bìa và 28 hình minh họa chương tuyệt vời của nghệ sĩ <a class="new" href="https://tolkiengateway.net/w/index.php?title=Francis_Mosley&amp;action=edit&amp;redlink=1" title="Francis Mosley (page does not exist)">Francis Mosley</a>. Bìa sách được đóng bằng màu xanh lam và vàng nhạt, dựa trên thiết kế của nghệ sĩ. Điểm rất đặc biệt của phiên bản này là bản đồ có thể gập lại của Christopher Tolkien. Với kích thước 23 × 15 inch và được in màu đen và đỏ, nó thể hiện Beleriand và Vùng đất phía Bắc – những vùng đất bí ẩn có trước Trung Địa.
 </p>
 <p class="tg-quote-footer"><cite>The Folio Society</cite></p>
 </blockquote>
@@ -633,82 +633,82 @@ infobox:
 <tbody><tr>
 <th>Printing
 </th>
-<th>Date
+<th>Ngày
 </th>
 <th>Printer
 </th>
-<th>Country
+<th>Quốc gia
 </th>
 <th>Paper
 </th></tr>
 <tr>
-<td>1st Printing
+<td>In lần thứ nhất
 </td>
 <td>1997
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>2nd Printing
+<td>In lần 2
 </td>
 <td>2002
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
-</td>
-<td>Caxton Wove
-</td></tr>
-<tr>
-<td>3rd Printing
-</td>
-<td>2003
-</td>
-<td>The Bath Press
-</td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>4th Printing
+<td>In lần thứ 3
 </td>
 <td>2003
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
+</td>
+<td>Vương quốc Anh (Bath)
+</td>
+<td>Caxton Wove
+</td></tr>
+<tr>
+<td>In lần thứ 4
+</td>
+<td>2003
+</td>
+<td>Nhà in Bath
 </td>
 <td>
 </td>
 <td>
 </td></tr>
 <tr>
-<td>5th Printing
+<td>In lần thứ 5
 </td>
 <td>2004
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>6th Printing
+<td>In lần thứ 6
 </td>
 <td>
 </td>
-<td>The Bath Press
+<td>Nhà in Bath
 </td>
-<td>UK (Bath)
+<td>Vương quốc Anh (Bath)
 </td>
 <td>
 </td></tr>
 <tr>
-<td>7th Printing
+<td>In lần thứ 7
 </td>
 <td>2012
 </td>
@@ -719,7 +719,7 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>8th Printing
+<td>In lần thứ 8
 </td>
 <td>2013
 </td>
@@ -730,7 +730,7 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>9th Printing
+<td>In lần thứ 9
 </td>
 <td>2018
 </td>
@@ -741,7 +741,7 @@ infobox:
 <td>Yu Long
 </td></tr>
 <tr>
-<td>10th Printing
+<td>In lần thứ 10
 </td>
 <td>2020
 </td>
@@ -752,7 +752,7 @@ infobox:
 <td>Yu Long Pure
 </td></tr>
 <tr>
-<td>11th Printing
+<td>In lần thứ 11
 </td>
 <td>2021
 </td>
@@ -763,7 +763,7 @@ infobox:
 <td>
 </td></tr>
 <tr>
-<td>12th Printing
+<td>In lần thứ 12
 </td>
 <td>2022
 </td>
@@ -789,7 +789,7 @@ infobox:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Folio_Society_-_The_Lord_of_the_Rings_(Limited_Edition).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp/300px-The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp/450px-The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp/600px-The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>The Lord of the Rings, 2022</figcaption></figure>
 
 <blockquote class="tg-quote noexcerpt">
-<p>This exquisite three-volume set is presented in a silver-blocked slipcase (lined with a hidden illustration) with a new art print exclusive to this edition and a pair of maps drawn by Christopher Tolkien, printed together and presented in a cloth-covered case. Each volume is quarter-bound in burgundy calfskin leather blocked in silver, with an illustrated inset label, silver page tops and a burgundy satin ribbon marker. The text itself – printed in black and burgundy – is the most up-to-date and academically rigorous available, and is accompanied by a new preface written exclusively for this edition by the artist.
+<p>Bộ ba tập tinh tế này được đựng trong một hộp đựng có khối bạc (có hình minh họa ẩn) với một bản in nghệ thuật mới dành riêng cho ấn bản này và một cặp bản đồ được vẽ bởi Christopher Tolkien, được in cùng nhau và đựng trong một hộp bọc vải. Mỗi tập được đóng bìa một phần tư bằng da bê màu đỏ tía có viền bạc, có nhãn minh họa bên trong, đầu trang màu bạc và bút đánh dấu bằng ruy băng sa tanh màu đỏ tía. Bản thân văn bản - được in bằng màu đen và đỏ tía - là văn bản cập nhật và nghiêm ngặt nhất về mặt học thuật, đồng thời đi kèm với lời nói đầu mới được nghệ sĩ viết riêng cho ấn bản này.
 </p>
 </blockquote>
 

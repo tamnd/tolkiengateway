@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Across_the_Streaming_Tide"
 content_sha256: c0defa371eccfec7725070394a27c454de6f9bfe8f715cf477e6da5b05cf9f2d
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Song inspired by the Legendarium"
+short_description: "Bài hát lấy cảm hứng từ Legendarium"
 categories:
   - "Songs by Summoning"
 hidden_categories:
@@ -20,24 +20,24 @@ hidden_categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>In autumn when the wind and sea <br/>
-Rejoice to live and laugh to be <br/>
-And scarce the blast that curbs the tree <br/>
-And bids before it quail and flee <br/>
+<p>Vào mùa thu khi gió và biển <br/>
+Vui để sống và cười để <br/>
+Và khan hiếm vụ nổ lề cây <br/>
+Và ra giá trước khi nó chùn bước và bỏ chạy <br/>
 <br/>
-In winter when the years burn low <br/>
-As fire wherein no firebrands glow <br/>
-And winds disappear as they blow <br/>
-The stormy wings of snow <br/>
+Vào mùa đông khi năm tháng tàn lụi <br/>
+Như ngọn lửa không có củi lửa tỏa sáng <br/>
+Và những cơn gió biến mất khi chúng thổi <br/>
+Những đôi cánh tuyết bão táp <br/>
 <br/>
-The hearts of western elves burn bright <br/>
-With joy that mocks the spring <br/>
-To hear all heaven&#39;s keen clarions ring <br/>
-Music, that bites the spirit, sing <br/>
+Trái tim miền Tây Tiên tộc rực sáng <br/>
+Với niềm vui đùa giỡn mùa xuân <br/>
+Để nghe tiếng vang sắc bén của thiên đường <br/>
+Âm nhạc cắn rứt tâm hồn, hãy hát <br/>
 <br/>
-And wind by night in northern lands <br/>
-Arose, and Lord it cried <br/>
-And drove the ships from ancient strands <br/>
-Across the streaming tide<br/>
+Và gió đêm nơi đất Bắc <br/>
+Đứng dậy và lạy Chúa nó kêu lên <br/>
+Và lái những con tàu từ sợi dây cổ xưa <br/>
+Vượt qua thủy triều đang chảy<br/>
 </p>
 </div>

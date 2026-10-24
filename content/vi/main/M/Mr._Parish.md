@@ -20,4 +20,4 @@ sort_keys:
 
 <b>1992: <i><a href="../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md" title="Tales from the Perilous Realm (1992 radio series)">Tales from the Perilous Realm loạt đài</a></i></b>
 
-<dl><dd>Mr. Parish is voiced by <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Fleming&amp;action=edit&amp;redlink=1" title="John Fleming (page does not exist)">John Fleming</a>.</dd></dl>
+<dl><dd>Mr. Parish được lồng tiếng bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Fleming&amp;action=edit&amp;redlink=1" title="John Fleming (page does not exist)">John Fleming</a>.</dd></dl>

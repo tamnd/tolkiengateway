@@ -22,7 +22,7 @@ infobox:
     value: "Mountain range"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Mountain range</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mountains of the Wind</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Western border of <a href="../H/Hildórien.md" title="Hildórien">Hildórien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Mountain range</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Dãy núi</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mountains of the Wind</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin chung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Biên giới phía Tây <a href="../H/Hildórien.md" title="Hildórien">Hildórien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Loại</th><td class="tg-infobox-data">Dãy núi</td></tr></tbody></table>
 
 **Dãy Núi Gió** là một dãy núi ở giữa [Trung Địa](Middle-earth.md) về phía tây của [Hildórien](../H/Hildórien.md) theo [Ambarkanta](../A/Ambarkanta.md).
 

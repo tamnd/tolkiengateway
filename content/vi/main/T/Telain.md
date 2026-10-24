@@ -47,13 +47,13 @@ Từ [Sindarin](../S/Sindarin.md) *talan* hoặc *tâl* ("không gian phẳng, n
 
 <b>2001: <i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd><i>Telain</i> were retained in the film, although there were no moveable plaited screens or rope-ladders visible. In <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> the meeting with <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> and <a href="../C/Celeborn.md" title="Celeborn">Celeborn</a> took place inside a large hall built on a <i>talan</i>,<sup id="cite_ref-Mirror_3-1" class="reference"><a href="#cite_note-Mirror-3">[3]</a></sup> whereas in the film it took place on an open <i>talan</i>.</dd></dl>
+<dl><dd><i>Telain</i> được giữ lại trong phim, mặc dù không nhìn thấy màn hình bện hoặc thang dây có thể di chuyển được. Trong <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> cuộc gặp với <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> và <a href="../C/Celeborn.md" title="Celeborn">Celeborn</a> diễn ra bên trong một hội trường lớn được xây dựng trên <i>talan</i>,<sup id="cite_ref-Mirror_3-1" class="reference"><a href="#cite_note-Mirror-3">[3]</a></sup> trong khi trong phim nó diễn ra ở một <i>talan</i> mở.</dd></dl>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg/250px-The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg/375px-The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg/500px-The_Lord_of_the_Rings_Online_-_Caras_Galadhon2.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Telain of Caras Galadhon in <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
 <b>2008: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>All Telain outside of Caras Galadhon have open sides and perform mostly defensive function, although some are recreational. Within Caras Galadhon itself, the larger telain are enclosed from the outside, while the wooden platforms themselves still provide an open walkable area.</dd></dl>
+<dl><dd>Tất cả Telain bên ngoài Caras Galadhon đều có các mặt mở và chủ yếu thực hiện chức năng phòng thủ, mặc dù một số chỉ mang tính chất giải trí. Trong chính Caras Galadhon, telain lớn hơn được bao bọc từ bên ngoài, trong khi bản thân các bệ gỗ vẫn cung cấp một khu vực đi bộ rộng mở.</dd></dl>
 
 <span></span>
 

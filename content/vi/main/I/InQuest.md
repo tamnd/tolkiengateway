@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/InQuest"
 content_sha256: 20752874af4ed2a8fca79ebcf9db694cee53435ecdce2bc5ac92dac54fafce5c
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Magazine about Trading Card Games"
+short_description: "Tạp chí về trò chơi đánh bài"
 categories:
   - "Magazines"
   - "Publications by title"
@@ -24,7 +24,7 @@ infobox:
     value: "1995-2007"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f9/The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg/320px-The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg" decoding="async" loading="lazy" width="320" height="441" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f9/The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg/480px-The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f9/The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg/640px-The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg 2x" data-file-width="2128" data-file-height="2931"/></a><figcaption>Cover art for <i>InQuest</i> #63 by <a href="../T/The_Brothers_Hildebrandt.md" title="The Brothers Hildebrandt">The Brothers Hildebrandt</a></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>InQuest</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Wizard Entertainment</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">1995-2007</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f9/The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg/320px-The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg" decoding="async" loading="lazy" width="320" height="441" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f9/The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg/480px-The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f9/The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg/640px-The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg 2x" data-file-width="2128" data-file-height="2931"/></a><figcaption>Ảnh bìa cho <i>InQuest</i> #63 của <a href="../T/The_Brothers_Hildebrandt.md" title="The Brothers Hildebrandt">The Brothers Hildebrandt</a></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>InQuest</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Wizard Entertainment</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">1995-2007</td></tr></tbody></table>
 
 <i><b>InQuest</b></i>, sau này được gọi là **InQuest Gamer**, là một tạp chí về trò chơi đánh bài. Với tư cách đó, nó thường bao gồm [Trung Địa Trò chơi bài sưu tầm](../M/Middle-earth_Collectible_Card_Game.md) và [The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md).
 
@@ -183,7 +183,7 @@ infobox:
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Tabletop gaming magazines</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Tạp chí chơi game trên máy tính bảng</b>
 </td></tr>
 <tr>
 <td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Roleplaying in Middle-earth</b>

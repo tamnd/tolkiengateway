@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Shadow_over_Hollin"
 content_sha256: 3a438e51792cf73168ec56676509320aca5428737588369862202bf87cdc169d
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Mysterious shadow in the sky"
+short_description: "Cái bóng bí ẩn trên bầu trời"
 categories:
   - "Nameless"
   - "Concepts"
@@ -19,7 +19,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 Trong [Quest of the Ring](../Q/Quest_of_the_Ring.md), một **bóng** bí ẩn đi qua [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) trong đêm, làm tối các ngôi sao khi nó di chuyển qua [Hollin](../E/Eregion.md). Nguồn gốc của cái bóng này không rõ ràng vì nó di chuyển nhanh và ngược gió.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>

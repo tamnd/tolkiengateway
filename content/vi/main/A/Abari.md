@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Abari"
 content_sha256: 2c45cefcb26af7ee28ca5766aaf3b6e695cff7a45b1207097a13e1a99071422b
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Telerin word"
+short_description: "Telerin từ"
 categories:
   - "Telerin nouns"
 hidden_categories:

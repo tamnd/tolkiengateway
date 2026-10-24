@@ -42,7 +42,7 @@ infobox:
     value: "Images of the Morgul-knife"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Audrey_Corman_-_Morgul-blade.png.md"><img src="https://tolkiengateway.net/w/images/8/8a/Audrey_Corman_-_Morgul-blade.png" decoding="async" loading="lazy" width="299" height="252" class="mw-file-element" data-file-width="299" data-file-height="252"/></a><figcaption>&#34;Morgul-blade&#34; by <a href="../../category/I/Images_by_Audrey_Corman.md" title="Category:Images by Audrey Corman">Audrey Corman</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Dagger</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Morgul-knife</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../W/Weathertop.md" title="Weathertop">Weathertop</a>, <a href="../F/Ford_of_Bruinen.md" title="Ford of Bruinen">Ford of Bruinen</a>, <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a></td></tr><tr><th scope="row" class="tg-infobox-label">Owner</th><td class="tg-infobox-data"><a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a></td></tr><tr><th scope="row" class="tg-infobox-label">Appearance</th><td class="tg-infobox-data">Long, thin, and glowed with a pale light.</td></tr><tr><th scope="row" class="tg-infobox-label">Destroyer</th><td class="tg-infobox-data"><a href="../E/Elrond.md" title="Elrond">Elrond</a></td></tr><tr><th scope="row" class="tg-infobox-label">Destroyed at</th><td class="tg-infobox-data"><a href="../R/Rivendell.md" title="Rivendell">Rivendell</a></td></tr><tr><th scope="row" class="tg-infobox-label">Destroyed in</th><td class="tg-infobox-data"><a href="../_/20_October.md" title="20 October">20</a>-<a href="../_/24_October.md" title="24 October">24</a> <a href="../O/October.md" title="October">October</a>, <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3018.md" title="Third Age 3018">3018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Notable for</th><td class="tg-infobox-data">Injuring <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_the_Morgul-knife.md" title="Category:Images of the Morgul-knife">Images of the Morgul-knife</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Audrey_Corman_-_Morgul-blade.png.md"><img src="https://tolkiengateway.net/w/images/8/8a/Audrey_Corman_-_Morgul-blade.png" decoding="async" loading="lazy" width="299" height="252" class="mw-file-element" data-file-width="299" data-file-height="252"/></a><figcaption>&#34;Morgul-blade&#34; by <a href="../../category/I/Images_by_Audrey_Corman.md" title="Category:Images by Audrey Corman">Audrey Corman</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Dagger</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Morgul-knife</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../W/Weathertop.md" title="Weathertop">Weathertop</a>, <a href="../F/Ford_of_Bruinen.md" title="Ford of Bruinen">Ford of Bruinen</a>, <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a></td></tr><tr><th scope="row" class="tg-infobox-label">Chủ sở hữu</th><td class="tg-infobox-data"><a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngoại hình</th><td class="tg-infobox-data">Dài, mỏng và phát ra ánh sáng nhợt nhạt.</td></tr><tr><th scope="row" class="tg-infobox-label">Destroyer</th><td class="tg-infobox-data"><a href="../E/Elrond.md" title="Elrond">Elrond</a></td></tr><tr><th scope="row" class="tg-infobox-label">Bị phá hủy tại</th><td class="tg-infobox-data"><a href="../R/Rivendell.md" title="Rivendell">Rivendell</a></td></tr><tr><th scope="row" class="tg-infobox-label">Bị phá hủy vào</th><td class="tg-infobox-data"><a href="../_/20_October.md" title="20 October">20</a>-<a href="../_/24_October.md" title="24 October">24</a> <a href="../O/October.md" title="October">October</a>, <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3018.md" title="Third Age 3018">3018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nổi tiếng vì</th><td class="tg-infobox-data">Injuring <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_the_Morgul-knife.md" title="Category:Images of the Morgul-knife">Images of the Morgul-knife</a></td></tr></tbody></table>
 
 Một **Con dao Morgul** là một con dao găm ma thuật. [Vua Phù thủy](../W/Witch-king.md), Chúa tể của [Nazgûl](../N/Nazgûl.md), đã sử dụng một con dao Morgul như vậy để đâm [Frodo](../F/Frodo.md) vào [Weathertop](../W/Weathertop.md).
 
@@ -74,7 +74,7 @@ Cuối cùng, chuyến khởi hành vượt biển của Frodo đến [Tol Eress
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1978_film)_-_Morgul-knife.png.md" title="The Lord of the Rings (1978 film)"><img alt="The Lord of the Rings (1978 film)" src="https://tolkiengateway.net/w/images/thumb/6/66/The_Lord_of_the_Rings_%281978_film%29_-_Morgul-knife.png/250px-The_Lord_of_the_Rings_%281978_film%29_-_Morgul-knife.png" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/66/The_Lord_of_the_Rings_%281978_film%29_-_Morgul-knife.png/375px-The_Lord_of_the_Rings_%281978_film%29_-_Morgul-knife.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/66/The_Lord_of_the_Rings_%281978_film%29_-_Morgul-knife.png/500px-The_Lord_of_the_Rings_%281978_film%29_-_Morgul-knife.png 2x" data-file-width="852" data-file-height="480"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (1978 film)</a>
+<p><a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>
 </p>
 			</div>
 		</li>
@@ -96,19 +96,19 @@ Cuối cùng, chuyến khởi hành vượt biển của Frodo đến [Tol Eress
 
 <b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
-<dl><dd>After the Witch-king stabs Frodo, the blade disappears in an instant, rather than seeming to melt.</dd></dl>
+<dl><dd>Sau khi Vua Phù thủy đâm Frodo, lưỡi dao biến mất ngay lập tức chứ không có vẻ tan chảy.</dd></dl>
 
 <b>1982-97: <i><a href="Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>The enchanted Morgul-knife, wielded by the Ringwraiths, strikes as a short sword with many additional effects on a character.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></dd></dl>
+<dl><dd>Con dao Morgul được phù phép, được sử dụng bởi Nazgûl, tấn công như một thanh kiếm ngắn với nhiều hiệu ứng bổ sung cho nhân vật.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></dd></dl>
 
 <b>1995-8: <i><a href="Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
-<dl><dd>The &#34;Morgul-knife&#34; modifies a Nazgûl&#39;s prowess, and affects the corruption points of a character. &#34;Morgul-blade&#34; is a Permanent-event card, playable by a Ringwraith or a Ringwraith follower.</dd></dl>
+<dl><dd>"Con dao Morgul" điều chỉnh sức mạnh của Nazgûl và ảnh hưởng đến các điểm hư hỏng của nhân vật. "Morgul-blade" là một lá bài sự kiện vĩnh viễn, có thể chơi được bởi Ringwraith hoặc những người theo Ringwraith.</dd></dl>
 
 <b>2001-03: <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a>:</b>
 
-<dl><dd>Artist <a href="../J/John_Howe.md" title="John Howe">John Howe</a> made the original design of the daggers of the Ringwraiths.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> They are straight, double-edged daggers with a prominent taper toward the tip. The crossguard is notably turned downward, with a couple of spikes protruding from the center line. It features a small pommel, also with decorative spikes.</dd></dl>
+<dl><dd>Nghệ sĩ <a href="../J/John_Howe.md" title="John Howe">John Howe</a> đã thực hiện thiết kế ban đầu của những con dao găm của Nazgûl.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Chúng là những con dao găm hai lưỡi thẳng với phần côn nổi bật về phía đầu. Đáng chú ý là tấm chắn ngang được quay xuống dưới, với một vài gai nhô ra từ đường giữa. Nó có một quả chuôi nhỏ, cũng có gai trang trí.</dd></dl>
 
 ## Xem thêm {#See_also}
 
@@ -156,12 +156,12 @@ Cuối cùng, chuyến khởi hành vượt biển của Frodo đến [Tol Eress
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Weapons</a> in <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a>&#39;s <a href="../L/Legendarium.md" title="Legendarium">legendarium</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Vũ khí</a> trong <a href="../L/Legendarium.md" title="Legendarium">huyền thoại</a> của <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a></b>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"> <a href="../../category/A/Arrows.md" title="Category:Arrows">Arrows</a>:
 </th>
-<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Black arrow</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Red Arrow</a>
+<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Mũi tên đen</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Mũi tên đỏ</a>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/A/Axes.md" title="Category:Axes">Axes</a>:

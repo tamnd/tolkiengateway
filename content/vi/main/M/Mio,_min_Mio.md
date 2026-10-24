@@ -25,7 +25,7 @@ infobox:
     value: "1954"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mio,_min_Mio.jpg.md"><img src="https://tolkiengateway.net/w/images/d/d1/Mio%2C_min_Mio.jpg" decoding="async" loading="lazy" width="200" height="267" class="mw-file-element" data-file-width="200" data-file-height="267"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mio, min Mio</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../A/Astrid_Lindgren.md" title="Astrid Lindgren">Astrid Lindgren</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">1954</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mio,_min_Mio.jpg.md"><img src="https://tolkiengateway.net/w/images/d/d1/Mio%2C_min_Mio.jpg" decoding="async" loading="lazy" width="200" height="267" class="mw-file-element" data-file-width="200" data-file-height="267"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mio, min Mio</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../A/Astrid_Lindgren.md" title="Astrid Lindgren">Astrid Lindgren</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">1954</td></tr></tbody></table>
 
 <i><b>Mio, min Mio</b></i> ("Mio, My Mio"; xuất bản bằng tiếng Anh dưới tên *Mio, my Son*) là một cuốn sách dành cho trẻ em bằng tiếng Thụy Điển của [Astrid Lindgren](../A/Astrid_Lindgren.md). Cuốn sách được mô tả là một tác phẩm thuộc thể loại <a class="extiw" href="http://en.wikipedia.org/wiki/High_fantasy" title="wikipedia:High fantasy">Giả tưởng cao cấp</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -45,7 +45,7 @@ Vì cả *Mio, min Mio* và hai tập đầu tiên của *[The Lord of the Rings
 		<li class="gallerybox" style="width: 80px">
 			<div class="thumb" style="width: 78px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Land_of_Faraway.jpg.md" title="1987 release of the film adaptation of Mio, min Mio"><img alt="1987 release of the film adaptation of Mio, min Mio" src="https://tolkiengateway.net/w/images/thumb/f/fe/The_Land_of_Faraway.jpg/117px-The_Land_of_Faraway.jpg" decoding="async" loading="lazy" width="78" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fe/The_Land_of_Faraway.jpg/175px-The_Land_of_Faraway.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fe/The_Land_of_Faraway.jpg/234px-The_Land_of_Faraway.jpg 2x" data-file-width="300" data-file-height="462"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 58px"><div class="gallerytext">
-<p>1987 release of the film adaptation of <i>Mio, min Mio</i>
+<p>Năm 1987 phát hành bộ phim chuyển thể <i>Mio, min Mio</i>
 </p>
 			</div></div>
 		</li>

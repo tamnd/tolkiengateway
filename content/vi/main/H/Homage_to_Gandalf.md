@@ -23,7 +23,7 @@ infobox:
     value: "Galadriel's Test"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Scene from <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (1978 film)</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Homage to Gandalf</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Scene</th><td class="tg-infobox-data">21</td></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">3:27</td></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data">Arrival at <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><i>Balrog Strikes</i></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><i>Galadriel&#39;s Test</i></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Cảnh trong <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Homage to Gandalf</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Chi tiết</span></th></tr><tr><th scope="row" class="tg-infobox-label">Cảnh</th><td class="tg-infobox-data">21</td></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">3:27</td></tr><tr><th scope="row" class="tg-infobox-label">Sự kiện</th><td class="tg-infobox-data">Arrival at <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><i>Balrog Strikes</i></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><i>Galadriel&#39;s Test</i></td></tr></tbody></table>
 
 <i><b>Tôn kính Gandalf</b></i> là cảnh thứ 21 của [bộ phim năm 1978 *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1978_film).md>)*.*
 
@@ -39,8 +39,8 @@ Hiệp hội nghỉ ngơi tại Lothlórien, luyện tập chiến đấu, ngủ
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Role</th>
-<th>Actor
+<th>Vai trò</th>
+<th>Diễn viên
 </th></tr>
 <tr>
 <td><a href="../B/Boromir.md" title="Boromir">Boromir</a></td>
@@ -52,11 +52,11 @@ Hiệp hội nghỉ ngơi tại Lothlórien, luyện tập chiến đấu, ngủ
 </td></tr>
 <tr>
 <td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a></td>
-<td><a href="../M/Michael_Scholes.md" title="Michael Scholes">Michael Scholes</a> (voice), <a href="../B/Billy_Barty.md" title="Billy Barty">Billy Barty</a>
+<td><a href="../M/Michael_Scholes.md" title="Michael Scholes">Michael Scholes</a> (lồng tiếng), <a href="../B/Billy_Barty.md" title="Billy Barty">Billy Barty</a>
 </td></tr>
 <tr>
 <td><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></td>
-<td><a href="../C/Christopher_Guard.md" title="Christopher Guard">Christopher Guard</a> (voice), <a href="../S/Sharon_Baird.md" title="Sharon Baird">Sharon Baird</a>
+<td><a href="../C/Christopher_Guard.md" title="Christopher Guard">Christopher Bảo vệ</a> (giọng nói), <a href="../S/Sharon_Baird.md" title="Sharon Baird">Sharon Baird</a>
 </td></tr>
 <tr>
 <td><a href="../G/Galadriel.md" title="Galadriel">Galadriel</a></td>
@@ -72,15 +72,15 @@ Hiệp hội nghỉ ngơi tại Lothlórien, luyện tập chiến đấu, ngủ
 </td></tr>
 <tr>
 <td><a href="../G/Gimli.md" title="Gimli">Gimli</a></td>
-<td>No lines
+<td>Không có lời thoại
 </td></tr>
 <tr>
 <td><a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a></td>
-<td>No lines
+<td>Không có lời thoại
 </td></tr>
 <tr>
 <td><a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a></td>
-<td>No lines
+<td>Không có lời thoại
 </td></tr></tbody></table>
 
 ## Sự khác biệt so với nguồn tài liệu {#Differences_from_the_source_material}

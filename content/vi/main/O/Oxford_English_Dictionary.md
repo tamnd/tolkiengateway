@@ -17,10 +17,10 @@ images:
   - "Robert_Burchfield_11_September_1970.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Robert_Burchfield_11_September_1970.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/84/Robert_Burchfield_11_September_1970.jpg/250px-Robert_Burchfield_11_September_1970.jpg" decoding="async" loading="lazy" width="250" height="302" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/84/Robert_Burchfield_11_September_1970.jpg/375px-Robert_Burchfield_11_September_1970.jpg 1.5x, https://tolkiengateway.net/w/images/8/84/Robert_Burchfield_11_September_1970.jpg 2x" data-file-width="434" data-file-height="524"/></a><figcaption><a href="../L/Letter_316.md" title="Letter 316">A letter from Tolkien to the OED</a>, explaining the entry &#34;Hobbit&#34;.</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Robert_Burchfield_11_September_1970.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/84/Robert_Burchfield_11_September_1970.jpg/250px-Robert_Burchfield_11_September_1970.jpg" decoding="async" loading="lazy" width="250" height="302" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/84/Robert_Burchfield_11_September_1970.jpg/375px-Robert_Burchfield_11_September_1970.jpg 1.5x, https://tolkiengateway.net/w/images/8/84/Robert_Burchfield_11_September_1970.jpg 2x" data-file-width="434" data-file-height="524"/></a><figcaption><a href="../L/Letter_316.md" title="Letter 316">Một lá thư từ Tolkien gửi OED</a>, giải thích mục "Hobbit".</figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p><b>Tolkienian, a.</b> Of or pertaining to the philologist and author of fantasy literature John Ronald Reuel Tolkien (1892-1973) or his writings.
+<p><b>Tolkienian, a.</b> Của hoặc liên quan đến nhà ngữ văn và tác giả văn học giả tưởng John Ronald Reuel Tolkien (1892-1973) hoặc các tác phẩm của ông.
 </p>
 <p class="tg-quote-footer"><cite>Oxford English Dictionary<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -34,9 +34,9 @@ Dự án từ điển bắt đầu vào năm 1878. Mặc dù ban đầu nó khô
 ## Tolkien trong OED (ấn bản 1928) {#Tolkien_in_the_OED_(1928_edition)}
 
 <div style="-moz-column-width: 400px; -webkit-column-width: 400px; column-width: 400px; -moz-column-gap: 15px; -webkit-column-gap: 15px; column-gap: 15px; -webkit-column-rule: 1px solid #cccccc; -moz-column-rule: 1px solid #cccccc; column-rule: 1px solid #cccccc;">
-<p>According to <a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Gilliver&amp;action=edit&amp;redlink=1" title="Peter Gilliver (page does not exist)">Gilliver</a> et al., Tolkien worked on the following words:<sup id="cite_ref-RoWTaL_3-1" class="reference"><a href="#cite_note-RoWTaL-3">[3]</a></sup>
+<p>Theo <a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Gilliver&amp;action=edit&amp;redlink=1" title="Peter Gilliver (page does not exist)">Gilliver</a> và cộng sự, Tolkien đã nghiên cứu các từ sau:<sup id="cite_ref-RoWTaL_3-1" class="reference"><a href="#cite_note-RoWTaL-3">[3]</a></sup>
 </p>
-<ul><li>Waggle (noun &amp; adjective)</li>
+<ul><li>Lắc lư (danh từ &amp; tính từ)</li>
 <li>Waggly</li>
 <li>Wain</li>
 <li>Waist</li>
@@ -53,39 +53,39 @@ Dự án từ điển bắt đầu vào năm 1878. Mặc dù ban đầu nó khô
 <li>Wait-a-bit</li>
 <li>Waiter</li>
 <li>Waitership</li>
-<li>Waiting (noun &amp; adjective)</li>
+<li>Chờ đợi (danh từ &amp; tính từ)</li>
 <li>Waiting-maid</li>
 <li>Waiting-man</li>
 <li>Waiting-room</li>
 <li>Waiting-woman</li>
 <li>Waitress</li>
-<li>Wake (noun &amp; verb)</li>
+<li>Thức dậy (danh từ &amp; động từ)</li>
 <li>Wake-robin</li>
 <li>Wake-wort</li>
 <li>Waldend</li>
-<li>Wallop (noun &amp; verb)</li>
+<li>Wallop (danh từ &amp; động từ)</li>
 <li>Walloper</li>
-<li>Walloping (noun &amp; adjective)</li>
-<li>Walm (noun &amp; verb)</li>
+<li>Walloping (danh từ &amp; tính từ)</li>
+<li>Walm (danh từ &amp; động từ)</li>
 <li>Walming</li>
 <li>Walnut</li>
 <li>Walrus</li>
 <li>Wampum</li>
 <li>Wampumpeag</li>
-<li>Wan (noun, adjective &amp; verb)</li>
-<li>Wander (noun &amp; verb)</li>
+<li>Wan (danh từ, tính từ &amp; động từ)</li>
+<li>Đi lang thang (danh từ &amp; động từ)</li>
 <li>Wanderable</li>
 <li>Wandered</li>
 <li>Wanderer</li>
-<li>Wandering (noun &amp; adjective)</li>
+<li>Lang thang (danh từ &amp; tính từ)</li>
 <li>Wanderment</li>
 <li>Wander-year</li>
 <li>Wandreth</li>
-<li>Wane (noun, adjective &amp; verb)</li>
-<li>Want (noun &amp; verb)</li>
+<li>Wane (danh từ, tính từ &amp; động từ)</li>
+<li>Muốn (danh từ &amp; động từ)</li>
 <li>Want-louse</li>
 <li>Wariangle</li>
-<li>Warlock (noun &amp; verb)</li>
+<li>Pháp sư (danh từ &amp; động từ)</li>
 <li>Warlockry</li>
 <li>Warm</li>
 <li>Weald</li>
@@ -94,7 +94,7 @@ Dự án từ điển bắt đầu vào năm 1878. Mặc dù ban đầu nó khô
 <li>Wield</li>
 <li>Wild</li>
 <li>Wold</li></ul>
-<p><a href="../H/Humphrey_Carpenter.md" title="Humphrey Carpenter">Carpenter</a> also notes:<sup id="cite_ref-BioOxI_2-1" class="reference"><a href="#cite_note-BioOxI-2">[2]</a></sup><sup id="cite_ref-RoWTaL_3-2" class="reference"><a href="#cite_note-RoWTaL-3">[3]</a></sup>
+<p><a href="../H/Humphrey_Carpenter.md" title="Humphrey Carpenter">Thợ mộc</a> cũng lưu ý:<sup id="cite_ref-BioOxI_2-1" class="reference"><a href="#cite_note-BioOxI-2">[2]</a></sup><sup id="cite_ref-RoWTaL_3-2" class="reference"><a href="#cite_note-RoWTaL-3">[3]</a></sup>
 </p>
 <ul><li>Wasp</li>
 <li>Water</li>
@@ -107,7 +107,7 @@ Dự án từ điển bắt đầu vào năm 1878. Mặc dù ban đầu nó khô
 OED xuất hiện hai lần trong tác phẩm của Tolkien. Bốn biên tập viên ban đầu - Murray, Bradley, Craigie và Onions - đã được tham chiếu trong *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)*:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Some may well ask what a blunderbuss was. Indeed, this very question, it is said, was put to the <a href="../F/Four_Wise_Clerks_of_Oxenford.md" title="Four Wise Clerks of Oxenford">Four Wise Clerks of Oxenford</a>, and after thought they replied: &#39;A <a href="../B/Blunderbuss.md" title="Blunderbuss">Blunderbuss</a> is a short gun with a large bore firing many balls or slugs, and capable of doing execution within a limited range without exact aim. (Now superseded in civilized countries by other firearms.)&#39; 
+<p>Một số người có thể hỏi sai lầm là gì. Thật vậy, người ta nói rằng chính câu hỏi này đã được đặt ra cho <a href="../F/Four_Wise_Clerks_of_Oxenford.md" title="Four Wise Clerks of Oxenford">Bốn Thư ký Thông thái của Oxenford</a>, và sau khi suy nghĩ, họ đã trả lời: 'Một <a href="../B/Blunderbuss.md" title="Blunderbuss">Blunderbuss</a> là một khẩu súng ngắn có nòng lớn bắn nhiều bi hoặc đạn và có khả năng thực hiện trong một phạm vi giới hạn mà không cần nhắm chính xác. (Bây giờ ở các nước văn minh đã được thay thế bằng các loại súng khác.)' 
 </p>
 <p class="tg-quote-footer"><cite><i>Farmer Giles of Ham</i><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -115,7 +115,7 @@ OED xuất hiện hai lần trong tác phẩm của Tolkien. Bốn biên tập v
 Sau đó, trong *[The Notion Club Papers](../T/The_Notion_Club_Papers.md)*, N.E.D. xuất hiện:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>&#39;Yes, <i>doink</i> has come on a lot lately,&#39; said Lowdham. &#39;But it&#39;s not brand-new, of course. I think it&#39;s first recorded, in the <a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Supplement_to_the_N.E.D.&amp;action=edit&amp;redlink=1" title="Third Supplement to the N.E.D. (page does not exist)">Third Supplement to the N.E.D.</a>, in the fifties, in the form <i>dŏing</i>: seems to have started in the Air Force in the <a class="new" href="https://tolkiengateway.net/w/index.php?title=Six_Years%27_War&amp;action=edit&amp;redlink=1" title="Six Years&#39; War (page does not exist)">Six Years&#39; War</a>.&#39;
+<p>“Có, gần đây <i>doink</i> xuất hiện rất nhiều,” Lowdham nói. 'Nhưng tất nhiên nó không phải là hoàn toàn mới. Tôi nghĩ nó được ghi lại lần đầu tiên, trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Supplement_to_the_N.E.D.&amp;action=edit&amp;redlink=1" title="Third Supplement to the N.E.D. (page does not exist)">Kỷ Đệ Tam Phần bổ sung của N.E.D.</a>, vào những năm 50, dưới dạng <i>dŏing</i>: dường như đã bắt đầu trong Lực lượng Không quân trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Six_Years%27_War&amp;action=edit&amp;redlink=1" title="Six Years&#39; War (page does not exist)">Chiến tranh Sáu năm</a>.'
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Alwin_Arundel_Lowdham.md" title="Alwin Arundel Lowdham">Alwin Arundel Lowdham</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

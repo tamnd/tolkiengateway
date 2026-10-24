@@ -19,7 +19,7 @@ langlinks:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>...there&#39;s <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">someone</a> loose <a href="../T/Tower_of_Cirith_Ungol.md" title="Tower of Cirith Ungol">hereabouts</a> as is more dangerous than any other damned rebel that ever walked since the <a href="../E/Elder_Days.md" title="Elder Days">bad old times</a>, since the Great Siege.
+<p>...có <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">ai đó</a> đang trốn <a href="../T/Tower_of_Cirith_Ungol.md" title="Tower of Cirith Ungol">ở đây</a> nguy hiểm hơn bất kỳ kẻ nổi loạn chết tiệt nào khác đã từng bước đi kể từ <a href="../E/Elder_Days.md" title="Elder Days">thời xa xưa tồi tệ</a>, kể từ Cuộc vây hãm vĩ đại.
 </p>
 <p class="tg-quote-footer"><cite>Gorbag</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

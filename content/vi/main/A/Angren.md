@@ -16,7 +16,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>Sindarin word of Angren</b>. For the River of Angren, see <b><a href="../I/Isen.md" title="Isen">Isen</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>Sindarin lời của Angren</b>. Đối với Sông Angren, xem <b><a href="../I/Isen.md" title="Isen">Isen</a></b>.</div></div>
 
 <i><b>angren</b></i> (pl. *engrin*) là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "của sắt". Từ cùng nguồn gốc [Quenya](../Q/Quenya.md) là *[angaina](Angaina.md)*.<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 

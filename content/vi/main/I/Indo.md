@@ -46,38 +46,38 @@ Nó cũng có thể bắt nguồn từ <i>*im-do</i> ("bản thân, bản thể 
 </th></tr>
 <tr>
 <td><i>indóme</i></td>
-<td>Settled character; also used for the &#34;will&#34; of Eru<sup id="cite_ref-pe17_1-3" class="reference"><a href="#cite_note-pe17-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:189</sup></td>
-<td><i>-më</i> (abstract noun)
+<td>Nhân vật ổn định; cũng được dùng cho “ý chí” của Eru<sup id="cite_ref-pe17_1-3" class="reference"><a href="#cite_note-pe17-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:189</sup></td>
+<td><i>-më</i> (danh từ trừu tượng)
 </td></tr>
 <tr>
 <td><i>indonen</i></td>
-<td>&#34;By the will&#34;<sup id="cite_ref-pe22_3-5" class="reference"><a href="#cite_note-pe22-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:165</sup></td>
-<td><i>-nen</i> (instrumental)
+<td>"Theo ý muốn"<sup id="cite_ref-pe22_3-5" class="reference"><a href="#cite_note-pe22-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:165</sup></td>
+<td><i>-nen</i> (nhạc cụ)
 </td></tr>
 <tr>
-<td><i>indor</i></td>
+<td><i>trong nhà</i></td>
 <td>Wills<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[note 1]</a></sup></td>
-<td><i>-r</i> (plural)
+<td><i>-r</i> (số nhiều)
 </td></tr>
 <tr>
-<td><i>indu-</i></td>
-<td>Verbal form of indo<sup id="cite_ref-pe22_3-6" class="reference"><a href="#cite_note-pe22-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:165</sup></td>
-<td><a class="external text" href="https://eldamo.org/content/words/word-3198538799.html" rel="noreferrer noopener" target="_blank">u-verb</a>
+<td><i>công nghiệp</i></td>
+<td>Dạng lời nói của indo<sup id="cite_ref-pe22_3-6" class="reference"><a href="#cite_note-pe22-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:165</sup></td>
+<td><a class="external text" href="https://eldamo.org/content/words/word-3198538799.html" rel="noreferrer noopener" target="_blank">động từ bạn</a>
 </td></tr>
 <tr>
 <td><i>induinen</i></td>
-<td>Purpose<sup id="cite_ref-pe22_3-7" class="reference"><a href="#cite_note-pe22-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:165</sup>; in the sense of &#34;by the act of willing&#34;</td>
-<td><i>-nen</i> (instrumental)
+<td>Mục đích<sup id="cite_ref-pe22_3-7" class="reference"><a href="#cite_note-pe22-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:165</sup>; theo nghĩa "bằng hành động sẵn sàng"</td>
+<td><i>-nen</i> (nhạc cụ)
 </td></tr>
 <tr>
 <td><i>indune</i><sup id="cite_ref-pe22_3-8" class="reference"><a href="#cite_note-pe22-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:165</sup></td>
-<td>willed / purposed</td>
-<td><i>-ne</i> (past tense)
+<td>ý chí/có mục đích</td>
+<td><i>-ne</i> (thì quá khứ)
 </td></tr>
 <tr>
-<td><i>indunenyes</i></td>
-<td>&#34;I willed it&#34;, &#34;I did it on purpose&#34;<sup id="cite_ref-pe22_3-9" class="reference"><a href="#cite_note-pe22-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:165</sup></td>
-<td><i>-ne</i> (past tense); <i>-n(ye)</i> &#34;I&#34;; <i>-s</i> (object suffix singular)
+<td><i>vâng vâng</i></td>
+<td>“Tôi cố ý”, “Tôi cố ý”<sup id="cite_ref-pe22_3-9" class="reference"><a href="#cite_note-pe22-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:165</sup></td>
+<td><i>-ne</i> (thì quá khứ); <i>-n(ye)</i> "Tôi"; <i>-s</i> (hậu tố đối tượng số ít)
 </td></tr></tbody></table>
 
 ## Các từ liên quan {#Related_words}

@@ -33,13 +33,13 @@ infobox:
     value: "Amon Hen 2"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Henneth Annûn 1</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">John Martin</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">November <a href="../_/1972.md" title="1972">1972</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">16</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../A/Amon_Hen_2.md" title="Amon Hen 2">Amon Hen 2</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Henneth Annûn 1</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên</th><td class="tg-infobox-data">John Martin</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">Hội Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">November <a href="../_/1972.md" title="1972">1972</a></td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">16</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="../A/Amon_Hen_2.md" title="Amon Hen 2">Amon Hen 2</a></td></tr></tbody></table>
 
 <b><i>Henneth Annûn</i> 1</b> là số đầu tiên của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md), tiếp theo của [*Andúril*](<../A/Andúril_(UK).md>). Nó được xuất bản vào tháng 11 [1972](../_/1972.md). Đây là số duy nhất được xuất bản dưới tựa đề *Henneth Annûn*, vì ấn phẩm đã được đổi tên thành *[Amon Hen](<../A/Amon_Hen_(journal).md>)* bắt đầu từ [Số 2](../A/Amon_Hen_2.md).
 
 ## Nội dung {#Contents}
 
-<dl><dd><i>Note: All content is presumably written by John Martin unless indicated otherwise</i></dd></dl>
+<dl><dd><i>Lưu ý: Tất cả nội dung có lẽ được viết bởi John Martin trừ khi có quy định khác</i></dd></dl>
 
 - Bài biên tập (giới thiệu *Henneth Annûn* và thông báo rằng *Andúril* sẽ không còn là ấn phẩm chính thức của Hiệp hội Tolkien)
 - Thư của Tony Fallon, Colin (Sauron Findhorn) Dean, [Charles E. Noad](../C/Charles_E._Noad.md), John Jarrold, John B. Abbott và [Hartley Patterson](Hartley_Patterson.md)

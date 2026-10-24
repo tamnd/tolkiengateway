@@ -31,7 +31,7 @@ langlinks:
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Position is occupied by &#34;Postmaster Proudfoot&#34;, who is found in <a href="../M/Michel_Delving.md" title="Michel Delving">Michel Delving</a> appropriately right next to <a href="../M/Mayor_of_Michel_Delving.md" title="Mayor of Michel Delving">Mayor</a> <a href="../W/Will_Whitfoot.md" title="Will Whitfoot">Will Whitfoot</a> and is involved in multiple quests involving the services of the <a href="../Q/Quick_Post.md" title="Quick Post">Quick Post</a>.</dd></dl>
+<dl><dd>Vị trí này thuộc về "Postmaster Proudfoot", người được tìm thấy ở <a href="../M/Michel_Delving.md" title="Michel Delving">Michel Delving</a> ngay bên cạnh <a href="../M/Mayor_of_Michel_Delving.md" title="Mayor of Michel Delving">Thị trưởng</a> <a href="../W/Will_Whitfoot.md" title="Will Whitfoot">Will Whitfoot</a> và tham gia vào nhiều nhiệm vụ liên quan đến các dịch vụ của <a href="../Q/Quick_Post.md" title="Quick Post">Đăng nhanh</a>.</dd></dl>
 
 ## Xem thêm {#See_also}
 

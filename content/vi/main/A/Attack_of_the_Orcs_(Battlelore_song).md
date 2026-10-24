@@ -17,39 +17,39 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Screaming and shouting, yearn for blood <br/>
-Sevnts of Melkor the evil god <br/>
-Riding with wolves, runners of night <br/>
-Horders of the eye, the black blades of might <br/>
+<p>La hét gào thét khát máu <br/>
+Sevnts của Melkor ác thần <br/>
+Cưỡi cùng bầy sói, kẻ chạy đêm <br/>
+Bầy mắt, những lưỡi kiếm đen đầy sức mạnh <br/>
 <br/>
-They shall raze your villages, destroy your camps <br/>
-Rape your cattle and slaughter your wives <br/>
-Under the darkness they shall arrive <br/>
-Hear the screams, prepare for war <br/>
-Black skin, sharp teeth, bestial eyes <br/>
-Perverted mind, there&#39;s no ine like their kind <br/>
-No mercy, no prisoners, death is the way <br/>
-With fire and steel they will slay <br/>
+Chúng sẽ san bằng làng mạc của bạn, phá hủy trại của bạn <br/>
+Hiếp dâm gia súc và giết vợ <br/>
+Trong bóng tối họ sẽ đến <br/>
+Nghe tiếng la hét, chuẩn bị chiến tranh <br/>
+Da đen, răng sắc, mắt dã thú <br/>
+Đầu óc biến thái, không có ai bằng đồng loại <br/>
+Không thương xót, không tù nhân, chết là con đường <br/>
+Với lửa và thép họ sẽ giết <br/>
 <br/>
-Troops of the Red Eye, the horders of the Witch <br/>
-Trust your sword throught the heart of betrayals <br/>
-Great enemy from west, the sevants of the sun <br/>
-Kill for your lord, the darkest one <br/>
+Đội quân Mắt Đỏ, bầy Phù Thủy <br/>
+Hãy tin tưởng thanh kiếm của bạn xuyên qua trái tim phản bội <br/>
+Kẻ thù lớn từ phía Tây, cận thần của mặt trời <br/>
+Giết vì chúa tể của bạn, kẻ đen tối nhất <br/>
 <br/>
-Men of Gondor! Elves of Lothlorien! <br/>
-Dwarves from the north now be strong! <br/>
-Keep your lines and hold on tight! <br/>
-Prepare your wapons and strike! <br/>
+Con Người trong số Gondor! Tiên tộc của Lothlorien! <br/>
+Người Lùn từ phía bắc hãy mạnh mẽ lên! <br/>
+Giữ đường của bạn và giữ chặt! <br/>
+Chuẩn bị wapon của bạn và tấn công! <br/>
 <br/>
-Like a wave they approach <br/>
-Bash their way through your lines <br/>
-Many of them <br/>
-Evil in flesh <br/>
-Feel no fear, just pray <br/>
+Như một làn sóng chúng tiến tới <br/>
+Tấn công họ qua lời thoại của bạn <br/>
+Nhiều người trong số họ <br/>
+Ác quỷ trong xác thịt <br/>
+Đừng sợ hãi, chỉ cầu nguyện <br/>
 <br/>
-Mockery of elves now our enemy <br/>
-Brothers of starfolk against us <br/>
-What kind of evil that they have seen <br/>
-Can&#39;t imagine the pain what they feel<br/>
+Sự nhạo báng Tiên tộc giờ là kẻ thù của chúng ta <br/>
+Những người anh em của Starfolk chống lại chúng ta <br/>
+Họ đã nhìn thấy loại tội ác nào <br/>
+Không thể tưởng tượng được nỗi đau họ cảm thấy<br/>
 </p>
 </div>

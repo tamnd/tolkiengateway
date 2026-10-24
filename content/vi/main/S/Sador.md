@@ -33,12 +33,12 @@ infobox:
     value: "Images of Sador"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Catherine_Chmiel_-_Turin_and_Labadal.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e2/Catherine_Chmiel_-_Turin_and_Labadal.jpg/320px-Catherine_Chmiel_-_Turin_and_Labadal.jpg" decoding="async" loading="lazy" width="320" height="402" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e2/Catherine_Chmiel_-_Turin_and_Labadal.jpg/480px-Catherine_Chmiel_-_Turin_and_Labadal.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e2/Catherine_Chmiel_-_Turin_and_Labadal.jpg/640px-Catherine_Chmiel_-_Turin_and_Labadal.jpg 2x" data-file-width="800" data-file-height="1005"/></a><figcaption>&#34;Turin and Labadal&#34; by <a href="../C/Catherine_Karina_Chmiel.md" title="Catherine Karina Chmiel">Catherine Karina Chmiel</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../E/Edain.md" title="Edain">Adan</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sador</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data"><i>Labadal</i> (<a href="Sindarin.md" title="Sindarin">S</a>, &#34;hopafoot&#34;), Onefoot, Sadog</td></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data">Wood-man, servant</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../D/Dor-lómin.md" title="Dor-lómin">Dor-lómin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="Sindarin.md" title="Sindarin">Sindarin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_496.md" title="First Age 496">496</a><br/><a href="../D/Dor-lómin.md" title="Dor-lómin">Dor-lómin</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Sador.md" title="Category:Images of Sador">Images of Sador</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Catherine_Chmiel_-_Turin_and_Labadal.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e2/Catherine_Chmiel_-_Turin_and_Labadal.jpg/320px-Catherine_Chmiel_-_Turin_and_Labadal.jpg" decoding="async" loading="lazy" width="320" height="402" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e2/Catherine_Chmiel_-_Turin_and_Labadal.jpg/480px-Catherine_Chmiel_-_Turin_and_Labadal.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e2/Catherine_Chmiel_-_Turin_and_Labadal.jpg/640px-Catherine_Chmiel_-_Turin_and_Labadal.jpg 2x" data-file-width="800" data-file-height="1005"/></a><figcaption>&#34;Turin and Labadal&#34; by <a href="../C/Catherine_Karina_Chmiel.md" title="Catherine Karina Chmiel">Catherine Karina Chmiel</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../E/Edain.md" title="Edain">Adan</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sador</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data"><i>Labadal</i> (<a href="Sindarin.md" title="Sindarin">S</a>, "hopafoot"), Một chân, Sadog</td></tr><tr><th scope="row" class="tg-infobox-label">Chức vụ</th><td class="tg-infobox-data">Người rừng, người hầu</td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../D/Dor-lómin.md" title="Dor-lómin">Dor-lómin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data"><a href="Sindarin.md" title="Sindarin">Sindarin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Mất</th><td class="tg-infobox-data"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_496.md" title="First Age 496">496</a><br/><a href="../D/Dor-lómin.md" title="Dor-lómin">Dor-lómin</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Giới tính</th><td class="tg-infobox-data">Nam</td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Sador.md" title="Category:Images of Sador">Images of Sador</a></td></tr></tbody></table>
 
 <center><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>An honest hand and a true heart may hew amiss; and the harm may be harder to bear than the work of a foe.
+<p>Một bàn tay lương thiện và một trái tim chân thật có thể gặp sai lầm; và tổn hại có thể khó gánh chịu hơn công việc của kẻ thù.
 </p>
-<p class="tg-quote-footer"><cite><a href="../H/Húrin.md" title="Húrin">Húrin</a> about Sador in <i><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i>, &#34;<a href="../T/The_Childhood_of_Túrin.md" title="The Childhood of Túrin">The Childhood of Túrin</a>&#34;</cite></p>
+<p class="tg-quote-footer"><cite><a href="../H/Húrin.md" title="Húrin">Húrin</a> về Sador trong <i><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i>, "<a href="../T/The_Childhood_of_Túrin.md" title="The Childhood of Túrin">Tuổi thơ của Túrin</a>"</cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
 
 **Sador** là thợ mộc và người hầu của [Húrin](../H/Húrin.md), đồng thời là bạn thời thơ ấu của con trai Húrin [Túrin](../T/Túrin.md).
@@ -60,27 +60,27 @@ Sau khi Túrin ra đi, Sador vẫn ở lại nhà của [Morwen](../M/Morwen.md)
 ## Trích dẫn {#Quotes}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Give with a free hand, but give only your own.<sup id="cite_ref-Sador_1-2" class="reference"><a href="#cite_note-Sador-1">[1]</a></sup>
+<p>Hãy cho đi một cách tự do nhưng chỉ cho đi của chính bạn.<sup id="cite_ref-Sador_1-2" class="reference"><a href="#cite_note-Sador-1">[1]</a></sup>
 </p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>A man who flies from his fear may find he has only taken a shortcut to meet it.<sup id="cite_ref-Sador_1-3" class="reference"><a href="#cite_note-Sador-1">[1]</a></sup>
+<p>Một người thoát khỏi nỗi sợ hãi có thể nhận ra rằng mình chỉ đi đường tắt để gặp nó.<sup id="cite_ref-Sador_1-3" class="reference"><a href="#cite_note-Sador-1">[1]</a></sup>
 </p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>False hopes are more dangerous than fears.<sup id="cite_ref-Departure_4-0" class="reference"><a href="#cite_note-Departure-4">[4]</a></sup>
+<p>Hy vọng sai lầm còn nguy hiểm hơn nỗi sợ hãi.<sup id="cite_ref-Departure_4-0" class="reference"><a href="#cite_note-Departure-4">[4]</a></sup>
 </p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>So most men teach, and few men learn.<sup id="cite_ref-Departure_4-1" class="reference"><a href="#cite_note-Departure-4">[4]</a></sup>
+<p>Vì thế hầu hết đàn ông dạy, và ít đàn ông học.<sup id="cite_ref-Departure_4-1" class="reference"><a href="#cite_note-Departure-4">[4]</a></sup>
 </p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Let the unseen days be. Today is more than enough.<sup id="cite_ref-Departure_4-2" class="reference"><a href="#cite_note-Departure-4">[4]</a></sup>
+<p>Hãy để những ngày vô hình được. Hôm nay là quá đủ rồi.<sup id="cite_ref-Departure_4-2" class="reference"><a href="#cite_note-Departure-4">[4]</a></sup>
 </p>
 </blockquote>
 

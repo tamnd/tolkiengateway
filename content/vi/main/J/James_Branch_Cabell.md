@@ -23,7 +23,7 @@ sort_keys:
 [Arne Zettersten](../A/Arne_Zettersten.md) nhớ đã gửi [J.R.R. Tolkien](J.R.R._Tolkien.md) một bài báo cho rằng Tolkien đã bị ảnh hưởng bởi Cabell:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Tolkien wrote back to me and denied forcefully that this was true. The next time we met he took up the matter again and maintained that he knew Cabell well, but that he had read only one of his books and that it was &#39;quite boring&#39;.
+<p>Tolkien đã viết lại cho tôi và phủ nhận mạnh mẽ rằng điều này là đúng. Lần tiếp theo chúng tôi gặp nhau, ông lại tiếp tục vấn đề và khẳng định rằng ông biết rõ về Cabell, nhưng ông chỉ đọc một trong những cuốn sách của ông và nó 'khá nhàm chán'.
 </p>
 </blockquote>
 

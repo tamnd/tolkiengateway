@@ -24,7 +24,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the pillars</b>. For the sea, see <b><a href="../S/Sea_of_Helcar.md" title="Sea of Helcar">Sea of Helcar</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>các trụ cột</b>. Về biển, xem <b><a href="../S/Sea_of_Helcar.md" title="Sea of Helcar">Biển Helcar</a></b>.</div></div>
 
 **Helkar** là một trong hai trụ cột giữ một trong những [Hai Ngọn Đèn](../T/Two_Lamps.md) được tạo ra để thắp sáng [Trung Địa](../M/Middle-earth.md) trong quan niệm ban đầu về [huyền thoại](../L/Legendarium.md).
 

@@ -19,7 +19,7 @@ images:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>But these creatures of <a href="../I/Isengard.md" title="Isengard">Isengard</a>, these <a href="../H/Half-orcs.md" title="Half-orcs">half-orcs</a> and goblin-men that the foul craft of <a href="../S/Saruman.md" title="Saruman">Saruman</a> has bred, they will not quail at the <a href="../S/Sun.md" title="Sun">sun</a>.
+<p>Nhưng những sinh vật <a href="../I/Isengard.md" title="Isengard">Isengard</a> này, những <a href="../H/Half-orcs.md" title="Half-orcs">nửa ​​orc</a> và yêu tinh mà nghề thủ công hôi hám của <a href="../S/Saruman.md" title="Saruman">Saruman</a> đã nuôi dưỡng, chúng sẽ không run sợ trước <a href="../S/Sun.md" title="Sun">mặt trời</a>.
 </p>
 <p class="tg-quote-footer"><cite><a href="Gamling.md" title="Gamling">Gamling</a><sup id="cite_ref-Gamling_1-0" class="reference"><a href="#cite_note-Gamling-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

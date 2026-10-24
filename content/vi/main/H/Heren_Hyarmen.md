@@ -23,7 +23,7 @@ Nụ cười của Hội Tolkien này không còn tồn tại kể từ năm 202
 Thư từ chính thức với [Hội Tolkien](../T/The_Tolkien_Society.md) đã dẫn đến câu trả lời như sau:
 
 <blockquote class="tg-quote noexcerpt">
-<p>As far as I know, the Heren Hyarmen is the first Smial in Latin America. However, you cannot lay claim to being the first in the Southern Hemisphere as there have been two in Australia over the past 12 years. Both have not survived to this day, so at the moment your smial is the ONLY one in the Southern Hemisphere!
+<p>Theo những gì tôi biết, Heren Hyarmen là Smial đầu tiên ở Mỹ Latinh. Tuy nhiên, bạn không thể khẳng định mình là người đầu tiên ở Nam bán cầu vì đã có hai người ở Úc trong 12 năm qua. Cả hai đều chưa tồn tại cho đến ngày nay, vì vậy hiện tại nụ cười của bạn là DUY NHẤT ở Nam bán cầu!
 </p>
 <p class="tg-quote-footer"><cite><sup id="cite_ref-Marq_1-1" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup></cite></p>
 </blockquote>

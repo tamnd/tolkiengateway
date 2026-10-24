@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Christopher_Scott"
 content_sha256: 0cc4b32131d0f3a0ab9545e0d1154f9aefe3a25c1b2b58a6c509a7fb1ed6252b
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Voice actor"
+short_description: "Diễn viên lồng tiếng"
 categories:
   - "Actors and actresses"
   - "British people"

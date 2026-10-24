@@ -93,7 +93,7 @@ Các từ khác liên quan đến âm nhạc xuất hiện *The Etymologies* bao
 
 <b>1982-97: <i><a href="Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>About a dozen different musical instruments are included with stats in the supplement <i><a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Treasures from Middle-earth</a></i>, most of them first described in other supplements. Examples of instruments imbued with magical powers are Elrond&#39;s Silver Harp, Boromir&#39;s Great Horn, and Maglor&#39;s Lute of the Golden Hand.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[32]</a></sup></dd></dl>
+<dl><dd>Khoảng một chục nhạc cụ khác nhau được đưa vào số liệu thống kê trong phần bổ sung <i><a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Treasures from Middle-earth</a></i>, hầu hết chúng được mô tả lần đầu tiên trong các phần bổ sung khác. Ví dụ về các nhạc cụ có sức mạnh ma thuật là Cây đàn hạc bạc của Elrond, Cây sừng lớn của Boromir và Cây đàn bàn tay vàng của Maglor.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[32]</a></sup></dd></dl>
 
 ## Xem thêm {#See_also}
 

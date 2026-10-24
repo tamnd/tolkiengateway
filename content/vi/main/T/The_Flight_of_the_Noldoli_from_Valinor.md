@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/The_Flight_of_the_Noldoli_from_Vali
 content_sha256: 00e2a8be1cb4beb7ef8e8288e6597c95eaab5053a4d6992aafeaea62fe3910a5
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Abandoned poem c. 1925"
+short_description: "Bài thơ bị bỏ rơi c. 1925"
 categories:
   - "The Lays of Beleriand chapters"
   - "Poems in The Lays of Beleriand"
@@ -18,7 +18,7 @@ hidden_categories:
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin:15px;border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i> chapters
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i> chương
 </th></tr>
 <tr>
 <td>

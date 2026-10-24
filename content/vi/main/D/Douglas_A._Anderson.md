@@ -36,7 +36,7 @@ infobox:
     value: "Michigan, USA"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Douglas A. Anderson</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/30_December.md" title="30 December">30 December</a> <a href="../_/1959.md" title="1959">1959</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Michigan, USA</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Douglas A. Anderson</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/30_December.md" title="30 December">30 December</a> <a href="../_/1959.md" title="1959">1959</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Tác giả</td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Michigan, USA</td></tr></tbody></table>
 
 **Douglas Allen Anderson** (sinh ngày [30 tháng 12](../_/30_December.md) [1959](../_/1959.md) tại Valparaiso, Indiana<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là một học giả độc lập người Mỹ, đã viết và biên tập nhiều cuốn sách liên quan đến các tác phẩm của Tolkien.
 

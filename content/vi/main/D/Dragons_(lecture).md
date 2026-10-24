@@ -15,7 +15,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the lecture</b>. For the race, see <b><a href="Dragons.md" title="Dragons">Dragons</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>bài giảng</b>. Về cuộc đua, xem <b><a href="Dragons.md" title="Dragons">Rồng</a></b>.</div></div>
 
 <i><b>Rồng</b></i>, còn gọi là **Bài giảng về Rồng** hoặc **Bài luận về Rồng**, là bài giảng của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được gọi là "Ms. Tolk. A61. fols. 98-125" trong các giấy tờ của Tolkien được lưu giữ tại [Thư viện Bodleian](../B/Bodleian_Library.md).
 

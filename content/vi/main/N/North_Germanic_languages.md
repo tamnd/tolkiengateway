@@ -26,7 +26,7 @@ langlinks:
 Trong thư gửi [Naomi Mitchison](Naomi_Mitchison.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết rằng:
 
 <blockquote class="tg-quote noexcerpt">
-<p>The <a href="../L/Language_of_Dale.md" title="Language of Dale">language of Dale</a> and the <a href="../L/Long_Lake.md" title="Long Lake">Long Lake</a> would, if it appeared, be represented as more or less Scandinavian in character; but it is only represented by a few names, especially those of the Dwarves that came from that region. These are all Old Norse Dwarf-names.
+<p>Ngôn ngữ <a href="../L/Language_of_Dale.md" title="Language of Dale">của Dale</a> và <a href="../L/Long_Lake.md" title="Long Lake">Long Lake</a>, nếu xuất hiện, sẽ được thể hiện ít nhiều mang tính chất Scandinavi; nhưng nó chỉ được đại diện bởi một vài cái tên, đặc biệt là những cái tên Người Lùn đến từ khu vực đó. Đây đều là các tên tiếng Bắc Âu cổ Người Lùn.
 </p>
 <p class="tg-quote-footer"><cite><a href="../L/Letter_144.md" title="Letter 144">Letter 144</a></cite></p>
 </blockquote>

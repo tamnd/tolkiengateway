@@ -35,7 +35,7 @@ infobox:
     value: "1959, 1960, 1961 (1st eds)"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Harskarringen.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7c/Harskarringen.jpg/320px-Harskarringen.jpg" decoding="async" loading="lazy" width="320" height="171" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/7/7c/Harskarringen.jpg 1.5x" data-file-width="457" data-file-height="244"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Härskarringen</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Translator</th><td class="tg-infobox-data"><a href="../_/Åke_Ohlmarks.md" title="Åke Ohlmarks">Åke Ohlmarks</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Rolf Lagerson (1st ed)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1959.md" title="1959">1959</a>, <a href="../_/1960.md" title="1960">1960</a>, <a href="../_/1961.md" title="1961">1961</a> (1st eds)</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Harskarringen.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7c/Harskarringen.jpg/320px-Harskarringen.jpg" decoding="async" loading="lazy" width="320" height="171" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/7/7c/Harskarringen.jpg 1.5x" data-file-width="457" data-file-height="244"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Härskarringen</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Người dịch</th><td class="tg-infobox-data"><a href="../_/Åke_Ohlmarks.md" title="Åke Ohlmarks">Åke Ohlmarks</a></td></tr><tr><th scope="row" class="tg-infobox-label">Họa sĩ minh họa</th><td class="tg-infobox-data">Rolf Lagerson (tái bản lần thứ nhất)</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/1959.md" title="1959">1959</a>, <a href="../_/1960.md" title="1960">1960</a>, <a href="../_/1961.md" title="1961">1961</a> (tái bản lần đầu)</td></tr></tbody></table>
 
 <i><b>Härskarringen</b></i> ("Chiếc nhẫn thống trị") là tên của bản dịch của [Åke Ohlmarks](../_/Åke_Ohlmarks.md) sang tiếng Thụy Điển từ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
@@ -55,21 +55,21 @@ Mẫu các phiên bản khác nhau của *Härskarringen*:<sup id="cite_ref-4" c
 		<li class="gallerybox" style="width: 227.33333333333px">
 			<div class="thumb" style="width: 225.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/H/Harskarringen.jpg.md" title="1959, 1960, 1961, Almqvist &amp; Wiksell Förlag (1st ed.)."><img alt="1959, 1960, 1961, Almqvist &amp; Wiksell Förlag (1st ed.)." src="https://tolkiengateway.net/w/images/thumb/7/7c/Harskarringen.jpg/338px-Harskarringen.jpg" decoding="async" loading="lazy" width="226" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/7/7c/Harskarringen.jpg 1.5x" data-file-width="457" data-file-height="244"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 206px"><div class="gallerytext">
-<p><a href="../_/1959.md" title="1959">1959</a>, <a href="../_/1960.md" title="1960">1960</a>, <a href="../_/1961.md" title="1961">1961</a>, Almqvist &amp; Wiksell Förlag (1st ed.).
+<p><a href="../_/1959.md" title="1959">1959</a>, <a href="../_/1960.md" title="1960">1960</a>, <a href="../_/1961.md" title="1961">1961</a>, Almqvist &amp; Wiksell Förlag (ấn bản đầu tiên).
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 232px">
 			<div class="thumb" style="width: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/H/Harskarringen_1967_paperback_edition.jpg.md" title="1967, AWE/GEBERS (1st paperback ed.)."><img alt="1967, AWE/GEBERS (1st paperback ed.)." src="https://tolkiengateway.net/w/images/thumb/5/5e/Harskarringen_1967_paperback_edition.jpg/345px-Harskarringen_1967_paperback_edition.jpg" decoding="async" loading="lazy" width="230" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5e/Harskarringen_1967_paperback_edition.jpg/517px-Harskarringen_1967_paperback_edition.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5e/Harskarringen_1967_paperback_edition.jpg/690px-Harskarringen_1967_paperback_edition.jpg 2x" data-file-width="1394" data-file-height="728"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 210px"><div class="gallerytext">
-<p><a href="../_/1967.md" title="1967">1967</a>, AWE/GEBERS (1st paperback ed.).
+<p><a href="../_/1967.md" title="1967">1967</a>, AWE/GEBERS (ấn bản bìa mềm đầu tiên).
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 245.33333333333px">
 			<div class="thumb" style="width: 243.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/H/Harskarringen_1978.jpg.md" title="1978, AWE/GEBERS (2nd hardcover ed.)."><img alt="1978, AWE/GEBERS (2nd hardcover ed.)." src="https://tolkiengateway.net/w/images/thumb/3/32/Harskarringen_1978.jpg/365px-Harskarringen_1978.jpg" decoding="async" loading="lazy" width="244" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/32/Harskarringen_1978.jpg/547px-Harskarringen_1978.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/32/Harskarringen_1978.jpg/729px-Harskarringen_1978.jpg 2x" data-file-width="1064" data-file-height="526"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 224px"><div class="gallerytext">
-<p><a href="../_/1978.md" title="1978">1978</a>, AWE/GEBERS (2nd hardcover ed.).
+<p><a href="../_/1978.md" title="1978">1978</a>, AWE/GEBERS (ấn bản bìa cứng thứ 2).
 </p>
 			</div></div>
 		</li>

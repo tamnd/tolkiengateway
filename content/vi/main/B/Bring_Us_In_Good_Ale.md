@@ -17,33 +17,33 @@ categories:
 ## Bài hát {#The_song}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p><b>Bring Us In Good Ale</b><br/>
+<p><b>Mang rượu ngon cho chúng tôi</b><br/>
 <br/>
-Bring us in no browne bred, for þat is made of bran,<br/>
-Nor bring us in no white bred, for þerin is no gane,<br/>
-              But bring us in good ale!<br/>
-       Bring us in good ale, and bring us in good ale,<br/>
-       For our blessed Lady sake bring us in good ale!<br/>
+Đừng mang chúng tôi đến làm giống browne, vì þat được làm từ cám,<br/>
+Cũng đừng mang chúng tôi đến đây vì þerin không phải là gane,<br/>
+              Nhưng hãy mang rượu ngon đến cho chúng tôi!<br/>
+       Mang cho chúng tôi rượu ngon, và mang cho chúng tôi rượu ngon,<br/>
+       Vì lợi ích của Đức Mẹ, hãy mang rượu ngon đến cho chúng tôi!<br/>
 <br/>
-Bring us in no befe, for þere is many bones,<br/>
-But bring us in good ale, for bat gob downe at ones,<br/>
-       And bring us in good ale!<br/>
+Đừng mang chúng tôi đến, vì có rất nhiều xương,<br/>
+Nhưng hãy mang cho chúng tôi bia ngon, để thưởng thức món bat gob downe,<br/>
+       Và mang rượu ngon đến cho chúng tôi!<br/>
 <br/>
-Bring us in no bacon, for þat is passing fat,<br/>
-But bring us in good ale, and gife us enough of þat;<br/>
-       And bring us in good ale!<br/>
+Đừng mang thịt xông khói đến cho chúng tôi, vì þat đang chuyển mỡ,<br/>
+Nhưng hãy mang rượu ngon cho chúng tôi và cho chúng tôi đủ þat;<br/>
+       Và mang rượu ngon đến cho chúng tôi!<br/>
 <br/>
-Bring us in no mutton, for þat is often lene,<br/>
-Nor bring us in no tripes, for þey be seldom clene,<br/>
-       But bring us in good ale!<br/>
+Đừng mang thịt cừu đến cho chúng tôi, vì þat thường là lene,<br/>
+Cũng đừng để chúng tôi vấp ngã, vì chúng hiếm khi sạch sẽ,<br/>
+       Nhưng hãy mang rượu ngon đến cho chúng tôi!<br/>
 <br/>
-Bring us in no egges, for þer are many shells,<br/>
-But bring us in good ale, and gife us noþing elles.<br/>
-       And bring us in good ale!<br/>
+Đừng mang trứng vào cho chúng tôi, vì þer có nhiều vỏ,<br/>
+Nhưng hãy mang rượu ngon đến cho chúng tôi và mời chúng tôi uống rượu.<br/>
+       Và mang rượu ngon đến cho chúng tôi!<br/>
 <br/>
-Bring us in no capons flesch, for þat is often dere,<br/>
-Not bring us in no dokes flesh, for þey slobber in þe mere;<br/>
-       But bring us in good ale!
+Đừng mang chúng tôi đến thịt trâu đực, vì þat thường là dere,<br/>
+Đừng mang chúng tôi vào xác thịt của lũ ngốc, vì chúng chỉ đang chảy nước dãi;<br/>
+       Nhưng hãy mang rượu ngon đến cho chúng tôi!
 </p>
 </div>
 

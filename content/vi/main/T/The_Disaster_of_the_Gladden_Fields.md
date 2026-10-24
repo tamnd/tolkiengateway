@@ -27,29 +27,29 @@ langlinks:
 </th></tr>
 <tr>
 <td><b>Part One: The <a href="../F/First_Age.md" title="First Age">First Age</a></b>
-<ul><li><a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Of Tuor and his Coming to Gondolin</a></li>
+<ul><li><a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Của Tuor và Việc Anh Đến Với Gondolin</a></li>
 <li><a href="../N/Narn_i_Hîn_Húrin.md" title="Narn i Hîn Húrin">Narn i Hîn Húrin</a></li></ul>
 </td></tr>
 <tr>
 <td><b>Part Two: The <a href="../S/Second_Age.md" title="Second Age">Second Age</a></b>
-<ul><li><a href="../A/A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">A Description of Númenor</a></li>
+<ul><li><a href="../A/A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">Mô tả về Númenor</a></li>
 <li><a href="../A/Aldarion_and_Erendis%253A_The_Mariner&#39;s_Wife.md" title="Aldarion and Erendis: The Mariner&#39;s Wife">Aldarion and Erendis</a></li>
-<li><a href="The_Line_of_Elros%253A_Kings_of_Númenor.md" title="The Line of Elros: Kings of Númenor">The Line of Elros</a></li>
-<li><a href="The_History_of_Galadriel_and_Celeborn.md" title="The History of Galadriel and Celeborn">History of Galadriel and Celeborn</a></li></ul>
+<li><a href="The_Line_of_Elros%253A_Kings_of_Númenor.md" title="The Line of Elros: Kings of Númenor">Dòng dõi Elros</a></li>
+<li><a href="The_History_of_Galadriel_and_Celeborn.md" title="The History of Galadriel and Celeborn">Lịch sử Galadriel và Celeborn</a></li></ul>
 </td></tr>
 <tr>
 <td><b>Part Three: The <a href="Third_Age.md" title="Third Age">Third Age</a></b>
-<ul><li><a class="mw-selflink selflink">Disaster of the Gladden Fields</a></li>
+<ul><li><a class="mw-selflink selflink">Thảm họa Cánh đồng Gladden</a></li>
 <li><a href="../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md" title="Cirion and Eorl and the Friendship of Gondor and Rohan">Cirion and Eorl</a></li>
-<li><a href="The_Quest_of_Erebor.md" title="The Quest of Erebor">The Quest of Erebor</a></li>
-<li><a href="The_Hunt_for_the_Ring.md" title="The Hunt for the Ring">The Hunt for the Ring</a></li>
+<li><a href="The_Quest_of_Erebor.md" title="The Quest of Erebor">Cuộc truy tìm Erebor</a></li>
+<li><a href="The_Hunt_for_the_Ring.md" title="The Hunt for the Ring">Cuộc truy lùng Nhẫn</a></li>
 <li><a href="The_Battles_of_the_Fords_of_Isen.md" title="The Battles of the Fords of Isen">The Battles of the Fords of Isen</a></li></ul>
 </td></tr>
 <tr>
-<td><b>Part Four</b>
+<td><b>Phần Bốn</b>
 <ul><li><a href="The_Drúedain.md" title="The Drúedain">The Drúedain</a></li>
 <li><a href="The_Istari.md" title="The Istari">The Istari</a></li>
-<li><a href="The_Palantíri.md" title="The Palantíri">The Palantíri</a></li></ul>
+<li><a href="The_Palantíri.md" title="The Palantíri">Palantíri</a></li></ul>
 </td></tr></tbody></table>
 
 ** Thảm họa Cánh đồng Gladden** là một chương trong *[Unfinished Tales](../U/Unfinished_Tales.md)*, một tác phẩm được xuất bản sau khi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được biên tập và xuất bản bởi [Christopher Tolkien](../C/Christopher_Tolkien.md). Theo Christopher Tolkien, đây là câu chuyện 'muộn' của [Giáo sư](../J/J.R.R._Tolkien.md) được viết sau khi xuất bản [The Lord of the Rings](The_Lord_of_the_Rings.md) và trong cùng khung thời gian với các câu chuyện như [Cirion và Eorl](../C/Cirion_and_Eorl.md), [Trận vượt sông Isen](../B/Battles_of_the_Fords_of_Isen.md), [the Drúedain](The_Drúedain.md) và các tiểu luận ngữ văn được trích dẫn trong [Lịch sử của Galadriel và Celeborn](The_History_of_Galadriel_and_Celeborn.md).
@@ -70,7 +70,7 @@ Isildur chạy một quãng đường rất xa và đến được bờ [Great R
 
 Để biết thêm chi tiết về trận chiến, xem *[Disaster of the Gladden Fields](../D/Disaster_of_the_Gladden_Fields.md).*
 
-<h3><span id="The_sources_of_the_legend_of_Isildur.27s_death"></span><span class="mw-headline" id="The_sources_of_the_legend_of_Isildur&#39;s_death">The sources of the legend of Isildur&#39;s death</span></h3>
+<h3><span id="The_sources_of_the_legend_of_Isildur.27s_death"></span><span class="mw-headline" id="The_sources_of_the_legend_of_Isildur&#39;s_death">Nguồn gốc của truyền thuyết về cái chết của Isildur</span></h3>
 
 Tolkien cũng khám phá khả năng các sự kiện trên được các nhà sử học của Gondor biết đến như thế nào, vì tất cả mọi người đều bị giết.
 

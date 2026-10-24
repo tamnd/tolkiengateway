@@ -22,7 +22,7 @@ infobox:
     value: "April 1981"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Beyond Bree March 1981</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../A/American_Mensa_Tolkien_Special_Interest_Group.md" title="American Mensa Tolkien Special Interest Group">American Mensa Tolkien Special Interest Group</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">3</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data">April 1981</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Beyond Bree March 1981</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../A/American_Mensa_Tolkien_Special_Interest_Group.md" title="American Mensa Tolkien Special Interest Group">Nhóm chuyên đề Tolkien thuộc Mensa Hoa Kỳ</a></td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">3</td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data">April 1981</td></tr></tbody></table>
 
 <b><i>Beyond Bree</i> Tháng 3 năm 1981</b> là số đầu tiên được xuất bản bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Special_Interest_Group&amp;action=edit&amp;redlink=1" title="Tolkien Special Interest Group (page does not exist)">Tolkien Nhóm Lợi ích Đặc biệt</a>.
 

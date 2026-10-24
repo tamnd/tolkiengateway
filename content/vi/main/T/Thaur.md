@@ -34,4 +34,4 @@ categories:
 </li>
 </ol></div>
 
-<dl><dd><dl><dd><a href="../D/Didier_Willis.md" title="Didier Willis">Didier Willis</a> (ed.), <i><a href="../H/Hiswelókë.md" title="Hiswelókë">Hiswelókë&#39;s Sindarin dictionary</a></i>, <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindarin.html" rel="noreferrer noopener" target="_blank">Edition 1.9.1 (Lexicon 0.9952)</a></dd></dl></dd></dl>
+<dl><dd><dl><dd><a href="../D/Didier_Willis.md" title="Didier Willis">Didier Willis</a> (ed.), <i><a href="../H/Hiswelókë.md" title="Hiswelókë">Hiswelókë&#39;s Sindarin dictionary</a></i>, <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindarin.html" rel="noreferrer noopener" target="_blank">Phiên bản 1.9.1 (Lexicon 0.9952)</a></dd></dl></dd></dl>

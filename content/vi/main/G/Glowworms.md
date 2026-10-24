@@ -21,7 +21,7 @@ images:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Down in its depths glimmered like a glow-worm thread the wraith-road from the dead city to the Nameless Pass
+<p>Ở dưới sâu thẳm của nó lấp lánh như một sợi dây đom đóm trên con đường ma quái từ thành phố chết đến đèo Kẻ Vô Danh
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/The_Stairs_of_Cirith_Ungol.md" title="The Stairs of Cirith Ungol">The Stairs of Cirith Ungol</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -48,7 +48,7 @@ Một số con đom đóm được nhìn thấy phát sáng quanh chỗ rẽ c�
 		<li class="gallerybox" style="width: 305px">
 			<div class="thumb" style="width: 300px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/G/Glow-worm.jpg.md" title="Glow-worm monster in The Lord of the Rings Online."><img alt="Glow-worm monster in The Lord of the Rings Online." src="https://tolkiengateway.net/w/images/thumb/9/9c/Glow-worm.jpg/231px-Glow-worm.jpg" decoding="async" loading="lazy" width="231" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9c/Glow-worm.jpg/346px-Glow-worm.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9c/Glow-worm.jpg/461px-Glow-worm.jpg 2x" data-file-width="505" data-file-height="438"/></a></span></div>
 			<div class="gallerytext">
-<p>Glow-worm monster in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>.
+<p>Quái vật đom đóm trong <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>.
 </p>
 			</div>
 		</li>
@@ -56,7 +56,7 @@ Một số con đom đóm được nhìn thấy phát sáng quanh chỗ rẽ c�
 
 <b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>&#34;Glow-worm&#34; is a type of monster found in the Dark Delvings of Moria and in The Hall of Lights in Mirkwood,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> portrayed as a giant glow-worm and classified as &#34;Spiders and Insects Crawler&#34;.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
+<dl><dd>"Glow-worm" là một loại quái vật được tìm thấy trong Dark Delvings của Moria và trong Sảnh Ánh Sáng ở Mirkwood,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> được miêu tả là một con sâu phát sáng khổng lồ và được phân loại là "Người thu thập thông tin về nhện và côn trùng".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
 
 ## Liên kết ngoài {#External_links}
 

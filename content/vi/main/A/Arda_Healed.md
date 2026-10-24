@@ -14,7 +14,7 @@ categories:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I go now to the halls of waiting to sit beside my fathers, until the world is renewed.
+<p>Bây giờ tôi đi đến sảnh chờ để ngồi bên cạnh cha tôi, cho đến khi thế giới được đổi mới.
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Thorin.md" title="Thorin">Thorin</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

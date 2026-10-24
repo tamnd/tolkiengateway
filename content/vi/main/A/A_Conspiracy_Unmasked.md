@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/A_Conspiracy_Unmasked"
 content_sha256: 32e0ce51bca0cd79ad68e4f50c79737820f0907a16f434f675c77a775a6eaaf0
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "5th chapter of the first book of The Fellowship of the Ring"
+short_description: "Chương 5 cuốn sách đầu tiên của The Fellowship of the Ring"
 categories:
   - "The Fellowship of the Ring chapters"
 hidden_categories:
@@ -38,12 +38,12 @@ infobox:
     value: "The Old Forest"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the fifth chapter of the first book in The Fellowship of the Ring.</b>. For the Soundtrack, see <b><a href="A_Conspiracy_Unmasked_(soundtrack).md" title="A Conspiracy Unmasked (soundtrack)">A Conspiracy Unmasked (soundtrack)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>chương thứ năm của cuốn sách đầu tiên trong The Fellowship of the Ring.</b>. Đối với Nhạc phim, hãy xem <b><a href="A_Conspiracy_Unmasked_(soundtrack).md" title="A Conspiracy Unmasked (soundtrack)">Âm mưu bị vạch trần (nhạc phim)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Abe_Papakhian_-_A_Conspiracy_Unmasked.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3a/Abe_Papakhian_-_A_Conspiracy_Unmasked.jpg/320px-Abe_Papakhian_-_A_Conspiracy_Unmasked.jpg" decoding="async" loading="lazy" width="320" height="229" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3a/Abe_Papakhian_-_A_Conspiracy_Unmasked.jpg/480px-Abe_Papakhian_-_A_Conspiracy_Unmasked.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3a/Abe_Papakhian_-_A_Conspiracy_Unmasked.jpg/640px-Abe_Papakhian_-_A_Conspiracy_Unmasked.jpg 2x" data-file-width="1280" data-file-height="915"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Chapter of <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>A Conspiracy Unmasked</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Number</th><td class="tg-infobox-data">5</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Synopsis</span></th></tr><tr><th scope="row" class="tg-infobox-label">Event</th><td class="tg-infobox-data"><a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> and <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> reveal that they knew <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>&#39;s plan all along; they decide that they should continue their journey through the <a href="../O/Old_Forest.md" title="Old Forest">Old Forest</a>.</td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/25_September.md" title="25 September">25 September</a> <a href="../T/Third_Age_3018.md" title="Third Age 3018">3018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../C/Crickhollow.md" title="Crickhollow">Crickhollow</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Navigation</span></th></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="A_Short_Cut_to_Mushrooms.md" title="A Short Cut to Mushrooms">A Short Cut to Mushrooms</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../T/The_Old_Forest.md" title="The Old Forest">The Old Forest</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Abe_Papakhian_-_A_Conspiracy_Unmasked.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3a/Abe_Papakhian_-_A_Conspiracy_Unmasked.jpg/320px-Abe_Papakhian_-_A_Conspiracy_Unmasked.jpg" decoding="async" loading="lazy" width="320" height="229" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3a/Abe_Papakhian_-_A_Conspiracy_Unmasked.jpg/480px-Abe_Papakhian_-_A_Conspiracy_Unmasked.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3a/Abe_Papakhian_-_A_Conspiracy_Unmasked.jpg/640px-Abe_Papakhian_-_A_Conspiracy_Unmasked.jpg 2x" data-file-width="1280" data-file-height="915"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Chapter of <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>A Conspiracy Unmasked</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Số</th><td class="tg-infobox-data">5</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Tóm tắt nội dung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sự kiện</th><td class="tg-infobox-data"><a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> và <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> tiết lộ rằng họ đã biết kế hoạch của <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>; họ quyết định rằng họ nên tiếp tục cuộc hành trình của mình qua <a href="../O/Old_Forest.md" title="Old Forest">Khu Rừng Cổ</a>.</td></tr><tr><th scope="row" class="tg-infobox-label">Ngày</th><td class="tg-infobox-data"><a href="../_/25_September.md" title="25 September">25 September</a> <a href="../T/Third_Age_3018.md" title="Third Age 3018">3018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../C/Crickhollow.md" title="Crickhollow">Crickhollow</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Điều hướng</span></th></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="A_Short_Cut_to_Mushrooms.md" title="A Short Cut to Mushrooms">Đường tắt đến chỗ có nấm</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="../T/The_Old_Forest.md" title="The Old Forest">The Old Forest</a></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>You must go – and therefore we must, too.
+<p>Bạn phải đi - và do đó chúng tôi cũng phải đi.
 </p>
 <p class="tg-quote-footer"><cite><a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -73,7 +73,7 @@ Sau một quãng đi bộ dài từ phà, ba Hobbit còn lại đã đến ngôi
 Merry đã chuẩn bị bồn tắm cho những du khách mệt mỏi. Pippin hát [Bài hát tắm](../T/The_Bath_Song.md) khi ông tắm rửa. Merry và Fatty phục vụ bữa tối muộn cho bà [. Giỏ nấm của Maggot](../M/Mrs._Maggot.md). Chúng tôi được biết rằng Hobbit có sở thích đặc biệt với nấm.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>They&#39;re mine! Given to <i>me</i> by Mrs. Maggot, a queen among farmers&#39; wives. Take your greedy hands away, and I&#39;ll serve them.
+<p>Họ là của tôi! Được trao cho <i>me</i> bởi bà Maggot, nữ hoàng trong số những người vợ của nông dân. Hãy bỏ bàn tay tham lam của bạn ra và tôi sẽ phục vụ chúng.
 </p>
 <p class="tg-quote-footer"><cite><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -85,7 +85,7 @@ Sau bữa tối, Merry nhờ mọi người giải thích Kỵ sĩ Đen cho mìn
 Merry giải thích rằng từ lâu anh đã nghi ngờ Frodo sớm hay muộn sẽ theo [Bilbo](../B/Bilbo_Baggins.md). Ông liệt kê một số dấu hiệu rõ ràng cho thấy Frodo sẽ rời khỏi The Shire vĩnh viễn. Merry trấn an Frodo rằng chỉ có công ty hiện tại mới phát hiện ra điều đó và bí mật của ông được giữ an toàn với họ.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The secret won&#39;t keep long, of course; but at present it is, I think, only known to us conspirators. After all, you must remember that we know you well, and are often with you. We can usually guess what you are thinking.
+<p>Tất nhiên, bí mật sẽ không giữ được lâu; nhưng hiện tại tôi nghĩ chỉ có chúng tôi, những kẻ chủ mưu, mới biết. Sau cùng, bạn phải nhớ rằng chúng tôi biết rõ về bạn và thường xuyên ở bên bạn. Chúng tôi thường có thể đoán được bạn đang nghĩ gì.
 </p>
 <p class="tg-quote-footer"><cite><a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Meriadoc Brandybuck</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -93,7 +93,7 @@ Merry giải thích rằng từ lâu anh đã nghi ngờ Frodo sớm hay muộn 
 Frodo xin lỗi về kế hoạch bỏ lại những người khác ở lại, giải thích rằng ông đang gặp nguy hiểm chết người. Merry phản hồi bằng cách thông báo rằng anh và Pippin đã quyết định đi cùng và sẽ không nghe thấy lý lẽ nào ngược lại.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>You must go – and therefore we must, too. Merry and I are coming with you. Sam is an excellent fellow, and would jump down a dragon&#39;s throat to save you, if he did not trip over his own feet; but you will need more than one companion in your dangerous adventure.
+<p>Bạn phải đi - và do đó chúng tôi cũng phải đi. Merry và tôi sẽ đi cùng bạn. Sam là một người xuất sắc, và sẽ nhảy xuống họng rồng để cứu bạn nếu ông không vấp ngã; nhưng bạn sẽ cần nhiều hơn một người bạn đồng hành trong cuộc phiêu lưu nguy hiểm của mình.
 </p>
 <p class="tg-quote-footer"><cite><a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -103,7 +103,7 @@ Merry tiết lộ rằng anh đã biết về [The One Ring](../T/The_One_Ring.m
 Merry tiết lộ rằng những kẻ chủ mưu Hobbit đã nhận được nhiều thông tin từ Sam, những người đã kể cho họ tất cả những gì ông ta đã nghe được từ [cuộc trò chuyện](../T/The_Shadow_of_the_Past.md) của Frodo với Gandalf tại Bag End. Vì vậy, tất cả Hobbit có mặt tại Crickhollow đều biết về Chiếc Nhẫn, về [Sauron](../S/Sauron.md) và phần còn lại của câu chuyện. Frodo ban đầu rất phẫn nộ về âm mưu này, nhưng nhanh chóng nhận ra rằng bạn bè của ông ta âm mưu chỉ để bảo vệ ông ta.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>You are a set of deceitful scoundrels! But bless you! I give in. I will take Gildor&#39;s advice. If the danger were not so dark, I should dance for joy. Even so, I cannot help feeling happy; happier than I have felt for a long time. I had dreaded this evening.
+<p>Các người là một lũ vô lại gian dối! Nhưng chúc phúc cho bạn! Tôi nhượng bộ. Tôi sẽ nghe theo lời khuyên của Gildor. Nếu mối nguy hiểm không quá đen tối, tôi sẽ nhảy múa vì sung sướng. Dù vậy, tôi không thể không cảm thấy hạnh phúc; hạnh phúc hơn những gì tôi đã cảm thấy từ lâu. Tôi đã rất sợ hãi buổi tối nay.
 </p>
 <p class="tg-quote-footer"><cite><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -116,6 +116,6 @@ Frodo muốn rời đi Crickhollow càng sớm càng tốt. Merry tiết lộ r�
 
 Fatty phản đối ý tưởng này, nhưng Merry khẳng định rằng nó phải an toàn hơn so với việc đối mặt với Kỵ sĩ Đen. Merry giải thích rằng Brandybucks đôi khi mạo hiểm vào Khu Rừng Cổ, đặc biệt là vào ban ngày khi cây cối yên tĩnh hơn. Dù sao đi nữa, nhiệm vụ của Fatty là ở lại, mặc một ít quần áo cũ của Frodo, giả vờ như Frodo vẫn sống ở Crickhollow. Ở lại cũng sẽ cho phép ông ta gửi tin nhắn tới Gandalf nếu ông ta xuất hiện.
 
-<h3><span id="Frodo.27s_dream"></span><span class="mw-headline" id="Frodo&#39;s_dream">Frodo&#39;s dream</span></h3>
+<h3><span id="Frodo.27s_dream"></span><span class="mw-headline" id="Frodo&#39;s_dream">giấc mơ của Frodo</span></h3>
 
 Đêm đó, Frodo trằn trọc khó ngủ. Cuối cùng, khi ngủ thiếp đi, anh mơ thấy mình đang nhìn ra cửa sổ cao nhìn ra khu rừng tối tăm. Anh nghe thấy tiếng sinh vật bò giữa những cái cây bên dưới. Đột nhiên, anh nghe thấy tiếng biển từ xa, điều mà trước đây anh chưa từng nghe thấy. Anh thấy mình đang ở trên một bãi thạch nam cằn cỗi, đang nhìn vào một tòa tháp cao màu trắng trên sườn núi. Anh cảm thấy muốn leo lên tháp để ngắm nhìn biển, nhưng khi anh cố gắng leo lên, anh đột nhiên nhìn thấy một tia sáng rực rỡ trên bầu trời và nghe thấy tiếng sấm lớn.

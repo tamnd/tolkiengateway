@@ -25,7 +25,7 @@ images:
   - "Annie_Lennox.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Annie_Lennox.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4e/Annie_Lennox.jpg/300px-Annie_Lennox.jpg" decoding="async" loading="lazy" width="300" height="422" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4e/Annie_Lennox.jpg/450px-Annie_Lennox.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4e/Annie_Lennox.jpg/600px-Annie_Lennox.jpg 2x" data-file-width="686" data-file-height="965"/></a><figcaption><i>Annie Lennox</i> won an Oscar for <a href="../I/Into_the_West.md" title="Into the West">Into the West</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Annie_Lennox.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4e/Annie_Lennox.jpg/300px-Annie_Lennox.jpg" decoding="async" loading="lazy" width="300" height="422" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4e/Annie_Lennox.jpg/450px-Annie_Lennox.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4e/Annie_Lennox.jpg/600px-Annie_Lennox.jpg 2x" data-file-width="686" data-file-height="965"/></a><figcaption><i>Annie Lennox</i> đã giành giải Oscar cho <a href="../I/Into_the_West.md" title="Into the West">Into the West</a></figcaption></figure>
 
 **Ann Griselda Lennox** ([25 tháng 12](../_/25_December.md), [1954](../_/1954.md)), là một ca sĩ người Scotland. Cô đã thu âm "[Into the West](../I/Into_the_West.md)" cho *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* và đã giành được một số giải thưởng.
 

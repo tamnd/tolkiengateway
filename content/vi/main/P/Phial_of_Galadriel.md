@@ -31,7 +31,7 @@ images:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_The_Phial_of_Galadriel.jpg.md"><img src="https://tolkiengateway.net/w/images/e/ee/John_Howe_-_The_Phial_of_Galadriel.jpg" decoding="async" loading="lazy" width="197" height="401" class="mw-file-element" data-file-width="197" data-file-height="401"/></a><figcaption><i>The Phial of Galadriel</i> by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>And you, Ring-bearer,&#39; she said, turning to Frodo. &#39;I come to you last who are not last in my thoughts. For you I have prepared this.&#39; She held up a small crystal phial: it glittered as she moved it, and rays of white light sprang from her hand. &#39;In this phial,&#39; she said, &#39;is caught the light of <a class="mw-redirect" href="../E/Eärendil&#39;s_star.md" title="Eärendil&#39;s star">Eärendil&#39;s star</a>, set amid the waters of my fountain. It will shine still brighter when night is about you. May it be a light to you in dark places, when all other lights go out.
+<p>Và bạn, Người Mang Nhẫn,” cô nói, quay sang Frodo. 'Tôi đến với bạn cuối cùng, người không phải là người cuối cùng trong suy nghĩ của tôi. Tôi đã chuẩn bị cái này cho bạn.' Cô giơ lên ​​một chiếc lọ pha lê nhỏ: nó lấp lánh khi cô di chuyển, và những tia sáng trắng phóng ra từ tay cô. “Trong lọ này,” cô nói, “có ánh sáng của <a class="mw-redirect" href="../E/Eärendil&#39;s_star.md" title="Eärendil&#39;s star">Eärendil ngôi sao</a>, đặt giữa dòng nước trong đài phun nước của tôi. Nó sẽ còn tỏa sáng hơn nữa khi màn đêm bao quanh bạn. Cầu mong nó là ánh sáng cho bạn ở những nơi tối tăm, khi tất cả những ánh sáng khác đều vụt tắt.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../F/Farewell_to_Lórien.md" title="Farewell to Lórien">Farewell to Lórien</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -66,21 +66,21 @@ Như vậy, khi [Gollum](../G/Gollum.md) dẫn Frodo và Sam vào Hang ổ của
 		<li class="gallerybox" style="width: 305px">
 			<div class="thumb" style="width: 300px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Frodo_in_Shelob&#39;s_Lair_2.jpg.md" title="Frodo wielding the Phial in The Lord of the Rings: The Return of the King"><img alt="Frodo wielding the Phial in The Lord of the Rings: The Return of the King" src="https://tolkiengateway.net/w/images/thumb/b/b2/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Frodo_in_Shelob%27s_Lair_2.jpg/300px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Frodo_in_Shelob%27s_Lair_2.jpg" decoding="async" loading="lazy" width="300" height="126" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b2/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Frodo_in_Shelob%27s_Lair_2.jpg/450px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Frodo_in_Shelob%27s_Lair_2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b2/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Frodo_in_Shelob%27s_Lair_2.jpg/600px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Frodo_in_Shelob%27s_Lair_2.jpg 2x" data-file-width="2560" data-file-height="1074"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> wielding the Phial in <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>
+<p><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> cầm Phial trong <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 305px">
 			<div class="thumb" style="width: 300px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_An_Unexpected_Journey_-_Galadriel_poster.jpg.md" title="Galadriel holding the Phial on a poster for The Hobbit: An Unexpected Journey"><img alt="Galadriel holding the Phial on a poster for The Hobbit: An Unexpected Journey" src="https://tolkiengateway.net/w/images/thumb/1/1d/The_Hobbit_-_An_Unexpected_Journey_-_Galadriel_poster.jpg/135px-The_Hobbit_-_An_Unexpected_Journey_-_Galadriel_poster.jpg" decoding="async" loading="lazy" width="135" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1d/The_Hobbit_-_An_Unexpected_Journey_-_Galadriel_poster.jpg/203px-The_Hobbit_-_An_Unexpected_Journey_-_Galadriel_poster.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1d/The_Hobbit_-_An_Unexpected_Journey_-_Galadriel_poster.jpg/270px-The_Hobbit_-_An_Unexpected_Journey_-_Galadriel_poster.jpg 2x" data-file-width="1385" data-file-height="2048"/></a></span></div>
 			<div class="gallerytext">
-<p>Galadriel holding the Phial on a poster for <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>
+<p>Galadriel cầm Phial trên tấm áp phích cho <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 305px">
 			<div class="thumb" style="width: 300px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Attack_on_Dol_Guldur.jpg.md" title="Galadriel using the Phial against Sauron in The Hobbit: The Battle of the Five Armies"><img alt="Galadriel using the Phial against Sauron in The Hobbit: The Battle of the Five Armies" src="https://tolkiengateway.net/w/images/thumb/9/96/The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Attack_on_Dol_Guldur.jpg/300px-The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Attack_on_Dol_Guldur.jpg" decoding="async" loading="lazy" width="300" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/96/The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Attack_on_Dol_Guldur.jpg/450px-The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Attack_on_Dol_Guldur.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/96/The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Attack_on_Dol_Guldur.jpg/600px-The_Hobbit_-_The_Battle_of_the_Five_Armies_-_Attack_on_Dol_Guldur.jpg 2x" data-file-width="1920" data-file-height="800"/></a></span></div>
 			<div class="gallerytext">
-<p>Galadriel using the Phial against Sauron in <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i>
+<p>Galadriel sử dụng Phial chống lại Sauron trong <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i>
 </p>
 			</div>
 		</li>
@@ -90,19 +90,19 @@ Như vậy, khi [Gollum](../G/Gollum.md) dẫn Frodo và Sam vào Hang ổ của
 
 <b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
-<dl><dd>The Phial is absent as Galadriel does not give any gifts to the Fellowship.</dd></dl>
+<dl><dd>Phial vắng mặt vì Galadriel không tặng quà cho Hội.</dd></dl>
 
 <b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim năm 1980)</a>:</b>
 
-<dl><dd>The Phial is found by Sam in Frodo&#39;s cloak and is used to pass the Watchers&#39; barrier in Cirith Ungol. Its origins are never touched on in the film, with Sam being unaware of it until finding it. Frodo identifies it as the Phial of Galadriel, but refuses to say anymore about it, claiming that doing so will destroy its powers.</dd></dl>
+<dl><dd>Phial được tìm thấy bởi Sam trong áo choàng của Frodo và được sử dụng để vượt qua rào cản của Người theo dõi trong Cirith Ungol. Nguồn gốc của nó không bao giờ được đề cập đến trong phim, Sam không hề hay biết về nó cho đến khi tìm thấy nó. Frodo xác định nó là Phial của Galadriel, nhưng từ chối nói thêm về nó, cho rằng làm như vậy sẽ phá hủy sức mạnh của nó.</dd></dl>
 
 <b>2001-03: <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a>:</b>
 
-<dl><dd>The Phial is given to Frodo by Galadriel in the first film. It reappears in <i>Return of the King</i>, used by Frodo to ward off Shelob although he drops it in his escape. It is retrieved by Sam and wielded in his battle against Shelob.</dd></dl>
+<dl><dd>Chiếc Phial được Galadriel trao cho Frodo trong phần phim đầu tiên. Nó xuất hiện trở lại trong <i>Return of the King</i>, được Frodo sử dụng để xua đuổi Shelob mặc dù ông đã đánh rơi nó khi trốn thoát. Nó được Sam lấy lại và sử dụng trong trận chiến chống lại Shelob.</dd></dl>
 
 <b>2014: <a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies"><i>The Hobbit: The Battle of the Five Armies</i></a>:</b>
 
-<dl><dd>When the <a href="../W/White_Council.md" title="White Council">White Council</a> arrives to rescue <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, Galadriel use the phial to cast Sauron out of <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>, rebuking him as a &#34;servant of <a class="mw-redirect" href="../M/Melkor.md" title="Melkor">Morgoth</a>&#34; without name, face, or form.</dd></dl>
+<dl><dd>Khi <a href="../W/White_Council.md" title="White Council">Bạch Hội Đồng</a> đến giải cứu <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, Galadriel dùng lọ đuổi Sauron ra khỏi <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>, khiển trách ông là "đầy tớ của <a class="mw-redirect" href="../M/Melkor.md" title="Melkor">Morgoth</a>" không có tên, mặt, hình thức.</dd></dl>
 
 <span></span>
 
@@ -129,9 +129,9 @@ Như vậy, khi [Gollum](../G/Gollum.md) dẫn Frodo và Sam vào Hang ổ của
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5)"><b><a href="../G/Gifts_of_Galadriel.md" title="Gifts of Galadriel">Gifts of Galadriel</a></b>
+<th style="background:var(--tg-color-surface-5)"><b><a href="../G/Gifts_of_Galadriel.md" title="Gifts of Galadriel">Những món quà của Galadriel</a></b>
 </th></tr>
 <tr>
-<td style="font-size: 90%;" align="center"><a href="../A/Andúril&#39;s_sheath.md" title="Andúril&#39;s sheath">Andúril&#39;s sheath</a> · <a href="../E/Elfstone.md" title="Elfstone">Elfstone</a> · <a href="../B/Boromir&#39;s_belt.md" title="Boromir&#39;s belt">Boromir&#39;s belt</a> · <a href="../M/Merry_and_Pippin&#39;s_belts.md" title="Merry and Pippin&#39;s belts">Merry and Pippin&#39;s belts</a> · <a href="../B/Bow_of_the_Galadhrim.md" title="Bow of the Galadhrim">Bow of the Galadhrim</a> · <a href="../S/Sam&#39;s_garden_box.md" title="Sam&#39;s garden box">Sam&#39;s garden box</a> · <a href="../H/Hair_of_Galadriel.md" title="Hair of Galadriel">Hair of Galadriel</a> · <a class="mw-selflink selflink">Phial of Galadriel</a>
+<td style="font-size: 90%;" align="center"><a href="../A/Andúril&#39;s_sheath.md" title="Andúril&#39;s sheath">Andúril bao kiếm</a> · <a href="../E/Elfstone.md" title="Elfstone">Elfstone</a> · <a href="../B/Boromir&#39;s_belt.md" title="Boromir&#39;s belt">Boromir thắt lưng</a> · <a href="../M/Merry_and_Pippin&#39;s_belts.md" title="Merry and Pippin&#39;s belts">Merry và thắt lưng Pippin</a> · <a href="../B/Bow_of_the_Galadhrim.md" title="Bow of the Galadhrim">Cung của Galadhrim</a> · <a href="../S/Sam&#39;s_garden_box.md" title="Sam&#39;s garden box">Sam hộp làm vườn</a> · <a href="../H/Hair_of_Galadriel.md" title="Hair of Galadriel">Tóc của Galadriel</a> · <a class="mw-selflink selflink">Phial của Galadriel</a>
 </td></tr>
 </tbody></table>

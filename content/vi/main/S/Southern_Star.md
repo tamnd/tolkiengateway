@@ -35,7 +35,7 @@ Trong bản nháp thứ hai (trong số bảy) bản nháp của [Lời mở đ�
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The smoke from Southern Star Pipe-weed takes the form of two smoke rings that pass through each other as they float out from the pipe.</dd></dl>
+<dl><dd>Khói từ Southern Star Pipe-weed có dạng hai vòng khói xuyên qua nhau khi chúng bay ra khỏi đường ống.</dd></dl>
 
 <span></span>
 

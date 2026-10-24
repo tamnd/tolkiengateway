@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/A_Short_Cut_to_Mushrooms"
 content_sha256: d07357ffea1867287a0f75540f8b270e00833f63fa20c4c4310c0c742326df2f
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "4th chapter of the first book of The Fellowship of the Ring"
+short_description: "Chương 4 cuốn sách đầu tiên của The Fellowship of the Ring"
 categories:
   - "The Fellowship of the Ring chapters"
 hidden_categories:
@@ -35,10 +35,10 @@ infobox:
     value: "A Conspiracy Unmasked"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Andy_Smith_-_Bamfurlong.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e2/Andy_Smith_-_Bamfurlong.jpg/320px-Andy_Smith_-_Bamfurlong.jpg" decoding="async" loading="lazy" width="320" height="227" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e2/Andy_Smith_-_Bamfurlong.jpg/480px-Andy_Smith_-_Bamfurlong.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e2/Andy_Smith_-_Bamfurlong.jpg/640px-Andy_Smith_-_Bamfurlong.jpg 2x" data-file-width="1024" data-file-height="727"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Chapter of <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>A Short Cut to Mushrooms</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Number</th><td class="tg-infobox-data">4</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Synopsis</span></th></tr><tr><th scope="row" class="tg-infobox-label">Event</th><td class="tg-infobox-data"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> and company come to <a href="../F/Farmer_Maggot.md" title="Farmer Maggot">Farmer Maggot</a>&#39;s house; they move on and find <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a>.</td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/25_September.md" title="25 September">25 September</a> <a href="../T/Third_Age_3018.md" title="Third Age 3018">3018</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Navigation</span></th></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../T/Three_is_Company.md" title="Three is Company">Three is Company</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="A_Conspiracy_Unmasked.md" title="A Conspiracy Unmasked">A Conspiracy Unmasked</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Andy_Smith_-_Bamfurlong.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e2/Andy_Smith_-_Bamfurlong.jpg/320px-Andy_Smith_-_Bamfurlong.jpg" decoding="async" loading="lazy" width="320" height="227" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e2/Andy_Smith_-_Bamfurlong.jpg/480px-Andy_Smith_-_Bamfurlong.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e2/Andy_Smith_-_Bamfurlong.jpg/640px-Andy_Smith_-_Bamfurlong.jpg 2x" data-file-width="1024" data-file-height="727"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Chapter of <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Đường tắt đến chỗ có nấm</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Số</th><td class="tg-infobox-data">4</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Tóm tắt nội dung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sự kiện</th><td class="tg-infobox-data"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> cùng bạn đến nhà <a href="../F/Farmer_Maggot.md" title="Farmer Maggot">Farmer Maggot</a>; họ tiếp tục đi tìm <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a>.</td></tr><tr><th scope="row" class="tg-infobox-label">Ngày</th><td class="tg-infobox-data"><a href="../_/25_September.md" title="25 September">25 September</a> <a href="../T/Third_Age_3018.md" title="Third Age 3018">3018</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Điều hướng</span></th></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="../T/Three_is_Company.md" title="Three is Company">Ba là Công ty</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="A_Conspiracy_Unmasked.md" title="A Conspiracy Unmasked">A Conspiracy Unmasked</a></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Short cuts make long delays.
+<p>Đường tắt gây ra sự chậm trễ kéo dài.
 </p>
 <p class="tg-quote-footer"><cite><a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -56,7 +56,7 @@ Khi tỉnh dậy sau đêm hôm trước cùng [Đội lang thang](../W/Wanderin
 Frodo cảnh báo Sam về khả năng họ có thể không bao giờ quay trở lại, Sam nhắc lại những cảm xúc mà anh đã chia sẻ với Tiên tộc đêm hôm trước:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>If you don&#39;t come back, sir, then I shan&#39;t, that&#39;s certain. [...] I am going with him, if he climbs to the Moon, and if any of those Black Riders try to stop him, they&#39;ll have Sam Gamgee to reckon with.
+<p>Nếu ông không quay lại, thưa ông, thì tôi cũng sẽ không, đó là điều chắc chắn. […] Tôi sẽ đi cùng ông, nếu ông leo lên Mặt Trăng, và nếu bất kỳ ai trong số Kỵ sĩ Đen đó cố gắng ngăn cản ông, họ sẽ có Sam Gamgee để tính toán.
 </p>
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../S/Sam_Gamgee.md" title="Sam Gamgee">Sam Gamgee</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -84,7 +84,7 @@ Giòi bị trừng phạt Frodo vì đã rời Buckland để sống ở Hobbito
 Frodo thừa nhận đã lo sợ Maggot và đàn chó của hắn một cách vô lý trong nhiều thập kỷ:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I&#39;ve been in terror of you and your dogs for over thirty years, Farmer Maggot, though you might laugh to hear it. It&#39;s a pity: for I&#39;ve missed a good friend.
+<p>Tôi đã kinh hãi anh và lũ chó của anh hơn ba mươi năm rồi, Farmer Maggot, mặc dù anh có thể cười khi nghe điều đó. Thật đáng tiếc: vì tôi đã bỏ lỡ một người bạn tốt.
 </p>
 <p class="tg-quote-footer"><cite><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

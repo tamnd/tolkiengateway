@@ -46,7 +46,7 @@ Trong các bản thảo đầu tiên, Sarn Gebir là tên của vùng cao nguyê
 
 <b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Rapids of Sarn Gebir can be accessed from the <a class="mw-redirect" href="../W/Wold.md" title="Wold">Wold</a> region of <a href="../R/Rohan.md" title="Rohan">Rohan</a>.</dd></dl>
+<dl><dd>Rapids của Sarn Gebir có thể được truy cập từ vùng <a class="mw-redirect" href="../W/Wold.md" title="Wold">Wold</a> của <a href="../R/Rohan.md" title="Rohan">Rohan</a>.</dd></dl>
 
 <span></span>
 

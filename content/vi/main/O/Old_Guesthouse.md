@@ -38,7 +38,7 @@ Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), [Pippin](../P/Peregrin_T
 
 <b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Old Guesthouse is one of more than fifteen inns and taverns of Minas Tirith. It is only lightly damaged during the siege.</dd></dl>
+<dl><dd>Old Guesthouse là một trong hơn mười lăm quán trọ và quán rượu của Minas Tirith. Nó chỉ bị hư hại nhẹ trong cuộc bao vây.</dd></dl>
 
 <span></span>
 

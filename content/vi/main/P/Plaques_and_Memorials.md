@@ -25,13 +25,13 @@ images:
 Dòng chữ trên tấm bảng ghi:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Birmingham Civic Society 2002<br/>
-SAREHOLE MILL<br/>
-Site of water Mill since 1543<br/>
-Used by Matthew Boulton in mid 18th century<br/>
-Rebuilt 1768<br/>
-INSPIRED J.R.R. Tolkien1896-1900<br/>
-The Tolkien Society
+<p>Birmingham Xã hội dân sự 2002<br/>
+MÁY XAY SAREHOLE<br/>
+Địa điểm Nhà máy nước từ năm 1543<br/>
+Được sử dụng bởi Matthew Boulton vào giữa thế kỷ 18<br/>
+Xây dựng lại 1768<br/>
+LẤY CẢM HỨNG J.R.R. Tolkien1896-1900<br/>
+Hội Tolkien
 </p>
 </div>
 
@@ -43,9 +43,9 @@ Một tấm bảng màu xanh Birmingham của Hiệp hội Công dân có nội 
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>J.R.R. Tolkien<br/>
-Author<br/>
+Tác giả<br/>
 1892-1973 <br/>
-lived near heare 1902-1910
+sống gần Hee 1902-1910
 </p>
 </div>
 
@@ -54,10 +54,10 @@ lived near heare 1902-1910
 Dòng chữ trên tấm bảng ghi:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Birmingham Civic Society<br/>
-J.R.R. Tolkien Author 1892 - 1973<br/>
-lived here 1910 - 1911<br/>
-Tolkien Society.
+<p>Birmingham Xã hội dân sự<br/>
+J.R.R. Tolkien Tác giả 1892 - 1973<br/>
+sống ở đây 1910 - 1911<br/>
+Tolkien Xã hội.
 </p>
 </div>
 
@@ -68,11 +68,11 @@ Dòng chữ trên tấm bảng ghi:
 Một tấm bảng ở ngưỡng cửa được đặt bởi Hội Tolkien hồ sơ:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Presented by The Tolkien Society June 1997<br/>
+<p>Trình bày bởi Hội Tolkien tháng 6 năm 1997<br/>
 JRR Tolkien <br/>
-Author of The Lord of the Rings<br/>
-stayed here <br/>
-June 1916
+Tác giả của The Lord of the Rings<br/>
+ở lại đây <br/>
+tháng 6 năm 1916
 </p>
 </div>
 
@@ -81,13 +81,13 @@ June 1916
 Dòng chữ trên tấm bảng ghi:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Oxfordshire Blue Plaques Board<br/>
+<p>Bảng màu xanh Oxfordshire<br/>
 J. R. R. TOLKIEN<br/>
-Author of<br/>
+Tác giả của<br/>
 The Lord of the Rings<br/>
-Lived here<br/>
+Đã sống ở đây<br/>
 1930–1947<br/>
-Oxford Civic Society
+Oxford Xã hội dân sự
 </p>
 </div>
 
@@ -98,8 +98,8 @@ Oxford Civic Society
 Tấm bảng này treo trên gara ở phía trước ngôi nhà. Dòng chữ trên tấm bảng có nội dung:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>The Hill<br/>
-J.R.R. Tolkien lived here 1953-1968
+<p>Đồi<br/>
+J.R.R. Tolkien sống ở đây 1953-1968
 </p>
 </div>
 
@@ -111,7 +111,7 @@ Dòng chữ trên tấm bảng ghi:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>J.R.R. TOLKIEN CBE<br/>
-Academic and author lived here between 1924 and 1925. While Reader, later Professor, at the University of Leeds 1920-1925, he collaborated on a new edition of Sir Gawain and the Green Knight. Tolkien went on to write The Hobbit and The Lord of the Rings.<br/>
+Học giả và tác giả sống ở đây từ năm 1924 đến năm 1925. Trong khi Reader, sau này là Giáo sư, tại Đại học Leeds (1920-1925), ông đã cộng tác trong ấn bản mới của Sir Gawain và Hiệp sĩ Xanh. Tolkien tiếp tục viết The Hobbit và The Lord of the Rings.<br/>
 1892-1973
 </p>
 </div>
@@ -124,10 +124,10 @@ Tấm bảng màu xanh ghi:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>J.R.R. Tolkien<br/>
-Author of the Lord of the Rings <br/>
-convalesced here (then Brooklands<br/>
-Officers’ Hospital) 1917 - 1918 during <br/>
-his service in The Great War.
+Tác giả Chúa tể của những chiếc nhẫn <br/>
+đang dưỡng bệnh ở đây (sau đó là Brooklands<br/>
+Bệnh viện Sĩ quan) 1917 - 1918 trong <br/>
+sự phục vụ của ông trong The Great War.
 </p>
 </div>
 
@@ -163,13 +163,13 @@ Một tấm bảng trên băng ghế dành riêng cho tác giả J.R.R. Tolkien 
 Dòng chữ trên tấm bảng ghi:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Hornsea Civic Society<br/>
-J.R.R.Tolkien&#39;s<br/>
-wife Edith and his<br/>
-cousin Jenny Grove<br/>
-lodged here in 1917<br/>
-whilst he was posted<br/>
-nearby
+<p>Hiệp hội dân sự Hornsea<br/>
+của J.R.R.Tolkien<br/>
+vợ Edith và<br/>
+em họ Jenny Grove<br/>
+nộp tại đây vào năm 1917<br/>
+trong khi ông đã được đăng<br/>
+gần đó
 </p>
 </div>
 
@@ -180,7 +180,7 @@ nearby
 Đọc một tấm bảng sắt khắc bằng tiếng Anh và tiếng Afrikaans:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>John Ronald Reuel Tolkien, author of The Hobbit and The Lord of the Rings, was born on this site on 3 January 1892.
+<p>John Ronald Reuel Tolkien, tác giả của The Hobbit và The Lord of the Rings, sinh ra tại địa điểm này vào ngày 3 tháng 1 năm 1892.
 </p>
 </div>
 
@@ -194,11 +194,11 @@ Trong nhà nguyện của trường Cao đẳng Exeter, Oxford, có một bức 
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>J.R.R. Tolkien 1892-1973<br/>
-Faith Tolkien<br/>
-b.1928-<br/>
-Sculpted this portrait of her <br/>
-Father-in-law<br/>
-in 1977
+Niềm tin Tolkien<br/>
+sinh.1928-<br/>
+Điêu khắc bức chân dung này của cô <br/>
+Bố vợ<br/>
+vào năm 1977
 </p>
 </div>
 

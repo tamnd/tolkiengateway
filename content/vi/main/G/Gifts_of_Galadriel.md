@@ -42,10 +42,10 @@ Tại bữa tiệc chia tay, Galadriel trao những món quà riêng cho từng 
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5)"><b><a class="mw-selflink selflink">Gifts of Galadriel</a></b>
+<th style="background:var(--tg-color-surface-5)"><b><a class="mw-selflink selflink">Những món quà của Galadriel</a></b>
 </th></tr>
 <tr>
-<td style="font-size: 90%;" align="center"><a href="../A/Andúril&#39;s_sheath.md" title="Andúril&#39;s sheath">Andúril&#39;s sheath</a> · <a href="../E/Elfstone.md" title="Elfstone">Elfstone</a> · <a href="../B/Boromir&#39;s_belt.md" title="Boromir&#39;s belt">Boromir&#39;s belt</a> · <a href="../M/Merry_and_Pippin&#39;s_belts.md" title="Merry and Pippin&#39;s belts">Merry and Pippin&#39;s belts</a> · <a href="../B/Bow_of_the_Galadhrim.md" title="Bow of the Galadhrim">Bow of the Galadhrim</a> · <a href="../S/Sam&#39;s_garden_box.md" title="Sam&#39;s garden box">Sam&#39;s garden box</a> · <a href="../H/Hair_of_Galadriel.md" title="Hair of Galadriel">Hair of Galadriel</a> · <a href="../P/Phial_of_Galadriel.md" title="Phial of Galadriel">Phial of Galadriel</a>
+<td style="font-size: 90%;" align="center"><a href="../A/Andúril&#39;s_sheath.md" title="Andúril&#39;s sheath">Andúril bao kiếm</a> · <a href="../E/Elfstone.md" title="Elfstone">Elfstone</a> · <a href="../B/Boromir&#39;s_belt.md" title="Boromir&#39;s belt">Boromir thắt lưng</a> · <a href="../M/Merry_and_Pippin&#39;s_belts.md" title="Merry and Pippin&#39;s belts">Merry và thắt lưng Pippin</a> · <a href="../B/Bow_of_the_Galadhrim.md" title="Bow of the Galadhrim">Cung của Galadhrim</a> · <a href="../S/Sam&#39;s_garden_box.md" title="Sam&#39;s garden box">Sam hộp làm vườn</a> · <a href="../H/Hair_of_Galadriel.md" title="Hair of Galadriel">Tóc của Galadriel</a> · <a href="../P/Phial_of_Galadriel.md" title="Phial of Galadriel">Phial của Galadriel</a>
 </td></tr>
 </tbody></table>
 

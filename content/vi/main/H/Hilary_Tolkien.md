@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Hilary_Tolkien"
 content_sha256: 91f67abf6da36ab936e73e8a08ec132d1856e115d2ac5dfbcf325d5bfa67cc57
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Younger brother of J.R.R. Tolkien"
+short_description: "Em trai của J.R.R. Tolkien"
 categories:
   - "Articles needing expansion"
   - "Articles needing citation"
@@ -46,13 +46,13 @@ infobox:
     value: "Images of Hilary Tolkien"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Hilary_Tolkien&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
-<p>...It is a long tale...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Hilary_Tolkien&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
+<p>...Đó là một câu chuyện dài...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hilary_Tolkien.jpg.md"><img src="https://tolkiengateway.net/w/images/4/47/Hilary_Tolkien.jpg" decoding="async" loading="lazy" width="185" height="286" class="mw-file-element" data-file-width="185" data-file-height="286"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hilary Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/17_February.md" title="17 February">17 February</a> <a href="../_/1894.md" title="1894">1894</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="../_/25_January.md" title="25 January">25 January</a> <a href="../_/1976.md" title="1976">1976</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Hilary_Tolkien.md" title="Category:Images of Hilary Tolkien">Images of Hilary Tolkien</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hilary_Tolkien.jpg.md"><img src="https://tolkiengateway.net/w/images/4/47/Hilary_Tolkien.jpg" decoding="async" loading="lazy" width="185" height="286" class="mw-file-element" data-file-width="185" data-file-height="286"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hilary Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/17_February.md" title="17 February">17 February</a> <a href="../_/1894.md" title="1894">1894</a></td></tr><tr><th scope="row" class="tg-infobox-label">Qua đời</th><td class="tg-infobox-data"><a href="../_/25_January.md" title="25 January">25 January</a> <a href="../_/1976.md" title="1976">1976</a></td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Hilary_Tolkien.md" title="Category:Images of Hilary Tolkien">Images of Hilary Tolkien</a></td></tr></tbody></table>
 
 **Hilary Arthur Reuel Tolkien** ([17 February](../_/17_February.md) [1894](../_/1894.md) — [25 January](../_/25_January.md) [1976](../_/1976.md)) là em trai của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và là con trai của [Arthur Tolkien](../A/Arthur_Tolkien.md) và [Mabel Tolkien](../M/Mabel_Tolkien.md) (*nhũ danh* Suffield).
 

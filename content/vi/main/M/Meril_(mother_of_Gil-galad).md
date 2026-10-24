@@ -21,7 +21,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the mother of <a href="../G/Gil-galad.md" title="Gil-galad">Gil-galad</a></b>. For the Lady of <a href="../T/Tol_Eressëa.md" title="Tol Eressëa">Tol Eressëa</a>, see <b><a href="Meril-i-Turinqi.md" title="Meril-i-Turinqi">Meril-i-Turinqi</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này viết về <b>mẹ của <a href="../G/Gil-galad.md" title="Gil-galad">Gil-galad</a></b>. Về Phu nhân <a href="../T/Tol_Eressëa.md" title="Tol Eressëa">Tol Eressëa</a>, xem <b><a href="Meril-i-Turinqi.md" title="Meril-i-Turinqi">Meril-i-Turinqi</a></b>.</div></div>
 
 **Meril** là vợ của [Felagund](../F/Felagund.md) và mẹ của [Gil-galad](../G/Gil-galad.md), theo một phiên bản của [huyền thoại](../L/Legendarium.md) sau khi hoàn thành *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* ở c. [1950](../_/1950.md).
 
@@ -38,7 +38,7 @@ Tên *Meril* là từ [Sindarin](../S/Sindarin.md) của [rose](../R/Roses.md) �
 Vợ của Felagund lại xuất hiện (lần này không có tên) trong một ghi chú bằng bút chì gần phần mở đầu chương *[Beren and Lúthien](../B/Beren_and_Lúthien.md)* của *[Quenta Silmarillion](<../Q/Quenta_Silmarillion_(Lost_Road).md>)*:<sup id="cite_ref-Galad_1-1" class="reference"><a href="#cite_note-Galad-1">[1]</a></sup>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>But foreseeing evil he commanded Orodreth to send away his son Gilgalad, and wife.
+<p>Nhưng thấy trước điều ác, ông ra lệnh Orodreth đuổi con trai Gilgalad và vợ đi.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;<a href="../T/The_Later_Quenta_Silmarillion.md" title="The Later Quenta Silmarillion">The Later Quenta Silmarillion</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -52,9 +52,9 @@ Tuy nhiên, ghi chú này đã bị gạch bỏ, và ở phần xa hơn trong ch
 Một người vợ giấu tên của Finrod lại xuất hiện (mặc dù không có bất kỳ mối liên hệ rõ ràng nào với Gil-galad) trong một ghi chú từ cuối những năm 1960:<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>During their dwelling in Nargothrond as refugees <a href="../C/Celebrimbor.md" title="Celebrimbor">he</a> had grown to love Finrod and   ^   his wife, and was aghast at the behaviour of <a href="../C/Curufin.md" title="Curufin">his father</a> and would not go with him.
+<p>Trong thời gian sống ở Nargothrond với tư cách là người tị nạn <a href="../C/Celebrimbor.md" title="Celebrimbor">anh</a> đã dần yêu Finrod và ^ vợ mình, đồng thời rất kinh ngạc trước cách cư xử của <a href="../C/Curufin.md" title="Curufin">cha mình</a> và không chịu đi cùng ông.
 </p>
-<p class="tg-quote-footer"><cite><i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;<a href="../O/Of_Dwarves_and_Men.md" title="Of Dwarves and Men">Of Dwarves and Men</a>&#34;, note 7</cite></p>
+<p class="tg-quote-footer"><cite><i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, "<a href="../O/Of_Dwarves_and_Men.md" title="Of Dwarves and Men">Of Dwarves and Men</a>", ghi chú 7</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Xem thêm {#See_also}

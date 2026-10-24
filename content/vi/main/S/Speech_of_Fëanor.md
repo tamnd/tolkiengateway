@@ -38,55 +38,55 @@ Một số phiên bản bài phát biểu của Fëanor được cung cấp kh�
 
 <blockquote class="tg-quote noexcerpt">
 <div class="poem">
-<p>‘Lo! slain is my sire   by the sword of fiends,<br/>
-his death he has drunk   at the doors of his hall<br/>
-and deep fastness,   where darkly hidden<br/>
-the Three were guarded,   the things unmatched<br/>
-that Gnome and Elf   and the Nine Valar<br/>
-can never remake   or renew on earth,<br/>
-recarve or rekindle   by craft or magic,<br/>
-not Fëanor Finn’s son   who fashioned them of yore –<br/>
-the light is lost   whence he lit them first,<br/>
-the fate of Faërie   hath found its hour<br/>
+<p>‘Ồ! cha tôi đã bị giết bởi thanh kiếm của lũ quỷ dữ,<br/>
+cái chết của ông, ông đã say rượu   ngay trước cửa sảnh<br/>
+và độ bền sâu,   nơi tối tăm<br/>
+Ba người canh giữ,   những điều chưa từng có<br/>
+đó Gnome và Tiên   và Chín Valar<br/>
+không bao giờ có thể làm lại   hoặc làm mới trên trái đất,<br/>
+phục hồi hoặc nhóm lại   bằng thủ công hoặc phép thuật,<br/>
+không phải Fëanor con trai của Finn   người đã tạo ra chúng ngày xưa –<br/>
+ánh sáng bị mất   do đó ông thắp chúng trước,<br/>
+số phận của Faërie   đã đến lúc rồi<br/>
 <br/>
-Thus the witless wisdom   its reward hath earned<br/>
-of the Gods’ jealousy,   who guard us here<br/>
-to serve them, sing to them   in our sweet cages,<br/>
-to contrive them gems   and jewelled trinkets, <br/>
-their leisure to please   with our loveliness,<br/>
-while they waste and squander   work of ages,<br/>
-nor can Morgoth master   in their mansions sitting<br/>
-at countless councils.   Now come ye all,<br/>
-who have courage and hope!   My call harken<br/>
-to flight, to freedom   in far places!<br/>
-The woods of the world   whose wide mansions<br/>
-yet in darkness dream   drowned in slumber,<br/>
-the pathless plains   and perilous shores<br/>
-no moon yet shines on   nor mounting dawn<br/>
-in dew and daylight   hath drenched for ever,<br/>
-far better were these   for bold footsteps<br/>
-than gardens of the Gods   gloom-encircled<br/>
-with idleness filled   and empty days.<br/>
-Yea! though the light lit them   and the loveliness<br/>
-beyond heart’s desire   that hath held us slaves<br/>
-here long and long.   But that light is dead.<br/>
-Our gems are gone,   our jewels ravished;<br/>
-and the Three, my Three,   thrice-enchanted<br/>
-globes of crystal   by gleam undying<br/>
-illumined, lit   by living splendour<br/>
-and all hues’ essence,   their eager flame –<br/>
-Morgoth has them   in his monstrous hold,<br/>
-my Silmarils.   I swear here oaths,<br/>
-unbreakable bonds   to bind me ever,<br/>
-by Timbrenting   and the timeless halls<br/>
-of Bredhil the Blessed   that abides thereon –<br/>
-may she hear and heed –   to hunt endlessly<br/>
-unwearying unwavering   through world and sea,<br/>
-through leaguered lands,   lonely mountains,  <br/>
-over fens and forest   and the fearful snows,<br/>
-till I find those fair ones,   where the fate is hid<br/>
-of the folk of Elfland   and their fortune locked, <br/>
-where alone now lies   the light divine.’
+Vì vậy, sự khôn ngoan ngu ngốc   đã nhận được phần thưởng<br/>
+về sự ghen tị của các vị thần,   những người bảo vệ chúng ta ở đây<br/>
+để phục vụ họ, hãy hát cho họ nghe   trong những chiếc lồng ngọt ngào của chúng ta,<br/>
+để chế tạo cho họ đá quý   và đồ trang sức nạm đá quý, <br/>
+sự rảnh rỗi của họ để làm hài lòng   với sự đáng yêu của chúng tôi,<br/>
+trong khi họ lãng phí và phung phí công việc lâu đời,<br/>
+cũng như Morgoth không thể làm chủ   ngồi trong biệt thự của họ<br/>
+tại vô số hội đồng.   Bây giờ các bạn hãy đến đây<br/>
+những người có lòng can đảm và hy vọng!   Cuộc gọi của tôi vang lên<br/>
+bay tới tự do   ở những nơi xa xôi!<br/>
+Những khu rừng trên thế giới   có những dinh thự rộng lớn<br/>
+nhưng trong bóng tối giấc mơ   chìm trong giấc ngủ,<br/>
+những đồng bằng không lối đi   và những bờ biển đầy nguy hiểm<br/>
+chưa có trăng nào chiếu sáng   cũng chưa có bình minh<br/>
+trong sương và ánh sáng ban ngày   đã ướt đẫm mãi mãi,<br/>
+tốt hơn nhiều là những cái này   dành cho những bước chân táo bạo<br/>
+hơn những khu vườn của các vị thần   được bao quanh bởi bóng tối<br/>
+với sự nhàn rỗi tràn ngập   và những ngày trống rỗng.<br/>
+Vâng! mặc dù ánh sáng đã thắp sáng chúng   và sự đáng yêu<br/>
+ngoài mong muốn của trái tim   đã biến chúng ta thành nô lệ<br/>
+ở đây lâu dài.   Nhưng ánh sáng đó đã tắt.<br/>
+Đá quý của chúng tôi đã biến mất,   đá quý của chúng tôi bị cướp đi;<br/>
+và Ba, Ba của tôi,   ba lần bị mê hoặc<br/>
+quả cầu pha lê   bởi ánh sáng bất diệt<br/>
+được chiếu sáng, được chiếu sáng   bởi vẻ huy hoàng sống động<br/>
+và bản chất của mọi màu sắc,   ngọn lửa háo hức của chúng –<br/>
+Morgoth nắm giữ chúng   trong tay hắn,<br/>
+Silmaril của tôi.   Tôi thề ở đây lời thề,<br/>
+mối ràng buộc không thể phá vỡ   sẽ ràng buộc tôi mãi mãi,<br/>
+của Timbrerenting   và những hội trường vượt thời gian<br/>
+của Bredhil Đấng Chân phước   ngự ở đó –<br/>
+cầu mong bà nghe và chú ý –   săn lùng không ngừng<br/>
+không biết mệt mỏi, kiên định   vượt qua thế giới và biển cả,<br/>
+qua những vùng đất được liên minh,   những ngọn núi cô đơn, <br/>
+trên đầm lầy và rừng   và tuyết đáng sợ,<br/>
+cho đến khi tôi tìm thấy những điều công bằng đó,   nơi số phận ẩn giấu<br/>
+của người dân Elfland   và vận may của họ bị khóa, <br/>
+nơi hiện đang nằm một mình   ánh sáng thần thánh.'
 </p>
 </div>
 </blockquote>
@@ -98,11 +98,11 @@ where alone now lies   the light divine.’
 Trong *[Morgoth's Ring](../M/Morgoth's_Ring.md)*, từ đó *[The Silmarillion](../T/The_Silmarillion.md)* sử dụng phiên bản nén, nó như sau:
 
 <blockquote class="tg-quote noexcerpt">
-<p>‘Why, O my people, why should we longer serve these jealous gods, who cannot keep us, nor their own realm even, secure from their Enemy? And though he be now their foe, are not they and he of one kin? Vengeance calls me hence, but even were it otherwise, I would not dwell longer in the same land with the kin of my father’s slayer and the thief of my treasure. Yet I am not the only valiant in this valiant people. And have ye not all lost your king? And what else have ye not lost, cooped here in a narrow land between the jealous mountains and the harvestless Sea? Here once was light, that the Valar begrudged to Middle-earth, but now dark levels all. Shall we mourn here deedless for ever, a shadow-folk, mist-haunting, dropping vain tears in the salt thankless Sea? Or shall we go home? In Cuiviénen sweet ran the waters under unclouded stars, and wide lands lay about where a free folk might walk. There they lie still and await us who in our folly forsook them. Come away! Let the cowards keep this city. But by the blood of Finwë! unless I dote, if the cowards only remain, then grass will grow in the streets. Nay, rot, mildew, and toadstool.’
+<p>‘Tại sao, hỡi người dân của tôi, tại sao chúng ta phải phục vụ những vị thần ghen tị này nữa, những kẻ không thể bảo vệ chúng ta, cũng như vương quốc của họ, an toàn khỏi Kẻ Thù của họ? Và mặc dù bây giờ ông là kẻ thù của họ, chẳng phải họ và ông cùng một họ hàng sao? Sự báo thù gọi tôi vì thế, nhưng ngay cả nếu không, tôi sẽ không sống lâu hơn trên cùng một vùng đất với họ hàng của kẻ đã giết cha tôi và kẻ trộm kho báu của tôi. Tuy nhiên, tôi không phải là người dũng cảm duy nhất trong dân tộc dũng cảm này. Và chẳng phải tất cả các ngươi đều đã mất vua sao? Và còn gì mà các ngươi chưa đánh mất, khi bị nhốt ở đây trong vùng đất chật hẹp giữa những ngọn núi ghen tị và Biển không còn mùa màng? Nơi đây từng là ánh sáng, Valar bắt đầu Trung Địa, nhưng bây giờ tất cả đều tối tăm. Chúng ta sẽ than khóc ở đây mãi mãi, một kẻ bóng tối, ám ảnh sương mù, rơi những giọt nước mắt vô ích vào muối vô ơn Biển? Hay chúng ta sẽ về nhà? Trong Cuiviénen dòng nước ngọt ngào chảy dưới những vì sao không mây, và những vùng đất rộng lớn nằm ở nơi những người dân tự do có thể bước đi. Ở đó, họ nằm yên và chờ đợi chúng ta, kẻ đã bỏ rơi họ trong sự điên rồ của chúng ta. Đi đi! Hãy để những kẻ hèn nhát giữ thành phố này. Nhưng bằng máu của Finwë! trừ khi tôi yêu mến, nếu chỉ còn lại những kẻ hèn nhát, thì cỏ sẽ mọc trên đường phố. Không, mục nát, nấm mốc và nấm mốc.”
  ...
- ‘Fair shall the end be, though long and hard shall be the road! Say farewell to bondage! But say farewell also to ease! Say farewell to the weak! Say farewell to your treasures — more still shall we make! Journey light. But bring with you your swords! For we will go further than Tauros, endure longer than Tulkas: we will never turn back from pursuit. After Morgoth to the ends of the Earth! War shall he have and hatred undying. But when we have conquered and have regained the Silmarils that he stole, then behold! We, we alone, shall be the lords of the unsullied Light, and masters of the bliss and the beauty of Arda! No other race shall oust us!’
+ ‘Cuối cùng sẽ công bằng, dù con đường sẽ dài và khó khăn! Nói lời tạm biệt với sự ràng buộc! Nhưng nói lời chia tay cũng cho nhẹ lòng! Nói lời tạm biệt với kẻ yếu! Nói lời tạm biệt với kho báu của bạn - chúng ta sẽ còn làm nhiều hơn nữa! Ánh sáng hành trình. Nhưng hãy mang theo thanh kiếm của bạn! Vì chúng ta sẽ tiến xa hơn Tauros, chịu đựng lâu hơn Tulkas: chúng ta sẽ không bao giờ quay lưng lại với việc theo đuổi. Sau Morgoth đến tận cùng Trái đất! Chiến tranh sẽ có và hận thù bất diệt. Nhưng khi chúng ta đã chinh phục được và lấy lại được Silmaril mà hắn đã đánh cắp thì kìa! Chúng ta, một mình chúng ta, sẽ là chúa tể của Ánh sáng không tì vết, và là chủ nhân của niềm hạnh phúc và vẻ đẹp của Arda! Không chủng tộc nào khác có thể lật đổ chúng ta!'
 </p>
-<p class="tg-quote-footer"><cite><i>Of the Speech of Fëanor upon Túna</i>, §§132-133<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[note 2]</a></sup> </cite></p>
+<p class="tg-quote-footer"><cite><i>Bài phát biểu của Fëanor trên Túna</i>, §§132-133<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[note 2]</a></sup> </cite></p>
 </blockquote>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
@@ -114,7 +114,7 @@ Trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)* Fëanor có ba 
 Đầu tiên là sau khi Melko đánh cắp Silmaril và giết cha của Fëanor([Bruithwir](../B/Bruithwir.md), người không phải là vua):
 
 <blockquote class="tg-quote noexcerpt">
-<p>As cowards have the Valar become; but the hearts of the Eldar are not weak, and we will see what is our own, and if we may not get it by stealth we will do so by violence. There shall be war between the Children of Ilúvatar and Ainu Melko. What if we perish in our quest? The dark halls of Vê be little worse than this bright prison…
+<p>Khi Valar trở thành những kẻ hèn nhát; nhưng trái tim của Eldar không hề yếu đuối, và chúng ta sẽ thấy những gì thuộc về mình, và nếu không thể lén lút lấy được nó thì chúng ta sẽ làm bằng bạo lực. Sẽ có chiến tranh giữa Những Người Con của Ilúvatar và Ainu Melko. Điều gì sẽ xảy ra nếu chúng ta bỏ mạng trong cuộc tìm kiếm của mình? Hội trường tối tăm của Vệ tệ hơn nhà tù sáng sủa này một chút…
 </p>
 <p class="tg-quote-footer"><cite><i>The Theft of Melko and the Darkening of Valinor</i>, p. 191</cite></p>
 </blockquote>
@@ -122,7 +122,7 @@ Trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)* Fëanor có ba 
 Thứ hai là sau Noldoli kiến ​​nghị Manwë cho phép họ khởi hành Valinor và quay trở lại Trung Địa; ông ta cấm họ nói những lời như vậy và nói với họ về những nguy hiểm trên thế giới, sự thức tỉnh sắp tới của Con Người, và ông ta không muốn chứng kiến ​​xung đột giữa hai chủng tộc.
 
 <blockquote class="tg-quote noexcerpt">
-<p>Lo, now do we know the reason of our transportation hither as it were cargoes of fair slaves! Now at length are we told to what end we are guarded here, robbed of our heritage in the world, ruling not the wide lands, lest perchance we yield them not to a race unborn. To these foresooth—a sad folk, beset with swift mortality, a race of burrowers in the dark, clumsy of hand, untuned to songs or musics, who shall dully labour at the soil with their rude tools, to these whom still he says are of Ilúvatar would Manwë Súlimo lordling of the Ainur give the world and all the wonders of its land, all its hidden substances—give it to these, that is our inheritance. Or what is this talk of the dangers of the world? A trick to deceive us; a mask of words! O all ye children of the Noldoli, whomso will no longer be house-thralls of the Gods however softly held, arise I bid ye and get you from Valinor, for now is the hour come and the world awaits.
+<p>Này, bây giờ chúng ta mới biết lý do chúng ta di chuyển đến đây vì đó là hàng hóa của những nô lệ công bằng! Bây giờ, cuối cùng chúng ta đã được biết mục đích mà chúng ta canh gác ở đây là gì, bị cướp đi di sản của chúng ta trên thế giới, không cai trị những vùng đất rộng lớn, kẻo không chừng chúng ta sẽ nhường chúng cho một chủng tộc chưa sinh ra. Đối với những người tiên tri này—một dân tộc buồn bã, bị bao vây bởi cái chết chóng vánh, một chủng tộc đào hang trong bóng tối, đôi bàn tay vụng về, không biết nghe các bài hát hay âm nhạc, những người sẽ lao động nặng nhọc trên đất bằng những công cụ thô sơ của họ, với những người mà ông ấy vẫn nói là Ilúvatar sẽ Manwë Lãnh chúa Súlimo của Ainur trao cho thế giới và tất cả những điều kỳ diệu của vùng đất của nó, tất cả những chất ẩn giấu của nó—hãy trao nó cho những thứ này, đó là tài sản thừa kế của chúng ta. Hoặc cuộc nói chuyện này về sự nguy hiểm của thế giới là gì? Một thủ đoạn để đánh lừa chúng tôi; một mặt nạ của từ ngữ! Hỡi tất cả các con của Noldoli, những người sẽ không còn là nô lệ trong nhà của các vị thần dù bị giam giữ nhẹ nhàng đến đâu, hãy đứng dậy, tôi yêu cầu các bạn và đưa các bạn ra khỏi Valinor, vì giờ đã đến và thế giới đang chờ đợi.
 </p>
 <p class="tg-quote-footer"><cite><i>The Theft of Melko and the Darkening of Valinor</i>, p. 193</cite></p>
 </blockquote>
@@ -130,7 +130,7 @@ Thứ hai là sau Noldoli kiến ​​nghị Manwë cho phép họ khởi hành
 Thứ ba là sau khi Hai Cây bị phá hủy:
 
 <blockquote class="tg-quote noexcerpt">
-<p>If all your hearts be too faint to follow, behold I Fëanor go now alone into the wide and magic world to seek the gems that are my own, and perchance many great and strange adventures will there befall me more worthy of a child of Ilúvatar than a servant of the Gods.
+<p>Nếu tất cả trái tim của bạn quá yếu đuối để theo dõi, thì giờ đây tôi Fëanor đi một mình vào thế giới rộng lớn và ma thuật để tìm kiếm những viên đá quý của riêng mình, và có thể nhiều cuộc phiêu lưu vĩ đại và kỳ lạ sẽ xảy ra với tôi, xứng đáng là một đứa con của Ilúvatar hơn là một người hầu của các vị thần.
 </p>
 <p class="tg-quote-footer"><cite><i>The Flight of the Noldoli</i>, p. 207</cite></p>
 </blockquote>

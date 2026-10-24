@@ -17,7 +17,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the later Quenya noun</b>. For the ship in <i><a href="../T/The_Book_of_Lost_Tales.md" title="The Book of Lost Tales">The Book of Lost Tales</a></i>, see <b><a href="Mornië_(ship).md" title="Mornië (ship)">Mornië (ship)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>danh từ Quenya sau</b>. Đối với con tàu ở <i><a href="../T/The_Book_of_Lost_Tales.md" title="The Book of Lost Tales">The Book of Lost Tales</a></i>, xem <b><a href="Mornië_(ship).md" title="Mornië (ship)">Mornië (tàu)</a></b>.</div></div>
 
 <i><b>mornië</b></i> là một danh từ [Quenya](../Q/Quenya.md) có nghĩa là "bóng tối; bóng tối, màu đen".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
 

@@ -55,9 +55,9 @@ infobox:
     value: "0048232157"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Mr. Bliss</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Mr._Bliss_(disambiguation).md" title="Mr. Bliss (disambiguation)">Mr. Bliss (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Cái tên <b>Mr. Hạnh phúc</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Mr._Bliss_(disambiguation).md" title="Mr. Bliss (disambiguation)">Mr. Hạnh phúc (định hướng)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mr_Bliss_1983.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/90/Mr_Bliss_1983.jpg/320px-Mr_Bliss_1983.jpg" decoding="async" loading="lazy" width="320" height="227" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/90/Mr_Bliss_1983.jpg/480px-Mr_Bliss_1983.jpg 1.5x, https://tolkiengateway.net/w/images/9/90/Mr_Bliss_1983.jpg 2x" data-file-width="500" data-file-height="355"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mr. Bliss</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">J.R.R. Tolkien</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/George_Allen_and_Unwin.md" title="George Allen and Unwin">George Allen and Unwin</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/20_September.md" title="20 September">20 September</a> <a href="../_/1982.md" title="1982">1982</a> (UK)<br/><a href="../_/17_January.md" title="17 January">17 January</a> <a href="../_/1983.md" title="1983">1983</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">104</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0048232157" title="Special:BookSources/0048232157">0048232157</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mr_Bliss_1983.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/90/Mr_Bliss_1983.jpg/320px-Mr_Bliss_1983.jpg" decoding="async" loading="lazy" width="320" height="227" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/90/Mr_Bliss_1983.jpg/480px-Mr_Bliss_1983.jpg 1.5x, https://tolkiengateway.net/w/images/9/90/Mr_Bliss_1983.jpg 2x" data-file-width="500" data-file-height="355"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mr. Bliss</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Họa sĩ minh họa</th><td class="tg-infobox-data">J.R.R. Tolkien</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/George_Allen_and_Unwin.md" title="George Allen and Unwin">George Allen and Unwin</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/20_September.md" title="20 September">20 September</a> <a href="../_/1982.md" title="1982">1982</a> (UK)<br/><a href="../_/17_January.md" title="17 January">17 January</a> <a href="../_/1983.md" title="1983">1983</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Bìa cứng</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">104</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0048232157" title="Special:BookSources/0048232157">0048232157</a></td></tr></tbody></table>
 
 <i><b>Ông. Hạnh phúc</b></i> là truyện thiếu nhi có minh họa của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), xuất bản lần đầu trên tạp chí [1982](../_/1982.md). Nó kể câu chuyện về ông Bliss và chuyến đi đầu tiên trên chiếc ô tô có động cơ mới của ông. Nhiều cuộc phiêu lưu tiếp theo: cuộc chạm trán với gấu, hàng xóm giận dữ, chủ cửa hàng giận dữ và đủ loại va chạm.
 
@@ -72,39 +72,39 @@ Câu chuyện được lấy cảm hứng từ những tai nạn xe cộ của c
 <th align="left"><big>Plots</big>
 </th></tr>
 <tr>
-<td><br/>Mr Bliss lives with his pet Girabbit in a white house with red roofs. Girabbit informs Mr Bliss that it will be a &#34;fine day&#34; so he decides to buy a yellow car, with red wheels, from Mr Binks for five shillings and sixpence; forgetting his purse, Mr Bliss leaves his silver bicycle with Mr Binks as collateral. However, on his way to visit the Dorkinses, Mr Bliss proves to be a careless driver, driving into Mr Day and breaking his barrow of carriages, and then round the next corner driving into Mrs Knight and breaking her donkey cart of bananas. He gives a lift to both Mr Day and Mrs Knight, with the donkey tied at the back.
-<p>When they reach the wood, they encounter three bears: Archie, Bruno and Teddy. After scaring the group, the three bears use the donkey to carry the cabbages and bananas and hide them in the wood for themselves. When they return, they insist on joining Mr Bliss in visiting the Dorkinses as they &#34;could know them&#34;. Rolling down the Hill from the Wood they crash into the Dorkinses&#39; garden wall with Mr Bliss, Mr Day, Mrs Knight and the three bears landing right in the middle of the Dorkinses&#39; picnic, with Archie landing in their soup-terrine; the donkey flew up in the air and landed in the car. The Dorkins brothers - Fattie, Albert, Herbert and Egbert - were angry at their picnic being ruined, but the group stayed for lunch, while the bears went off for a walk and ate all the cabbages, apples and potatoes in the kitchen-garden. Furious, Albert Dorkins set the dogs on the bears.
-</p><p>The bears run off anyway saying they have bananas and cabbages; Mr Day and Mrs Knight want their cabbages and bananas back, but Mr Bliss only agrees to join them if the Dorkinses come with the dogs. Mr Bliss, Mr Day, Mrs Knight, the four Dorkineses and their dogs, travel in the car which is pulled by the donkey and three horses owned by the Dorkinses (Fattie Dorkins was too fat to own a horse). At the Cross Roads they stop at the inn for tea (and the bill for it all goes to Mr Bliss), and they then reach Three Bears Wood at dusk. The dogs track the bears but they have painted themselves to look like &#34;bogies, or ghosts, or <a class="mw-redirect" href="../G/Goblins.md" title="Goblins">goblins</a>, or all three&#34; and Mr Bliss runs off in terror. The bears start laughing and everyone else goes to the Bears&#39; House for supper - eating cold chicken, ham, lettuces, beetroot, trifle, cheese, brown bread, and asparagus - and they all stay the night.
-</p><p>However, Mr Bliss ran away during the night and by the morning he had reached the village. He recovered his bicycle from Mr Binks&#39;s shed without paying for the car, so Mr Binks tried to persuade Sergeant Boffin to lock Mr Bliss up as a thief; the bears, the Dorkinses, Mr Day and Mrs Knight all arrive in the village determined to get money from Mr Bliss for the various expenses incurred, so they join Mr Binks and Sergeant Boffin in going to Mr Bliss&#39;s house. But, when they arrived at Mr Bliss&#39;s houses they were scared away by a Girabbit that was so big its head stuck out from the chimney. After everyone has left, Mr Bliss settled all his debts, and then gave the car to Mr Day as wedding present in his marriage to Mrs Knight; everyone attended the wedding, including the Girabbit. Afterwards, Mr Bliss drives a donkey-cart instead, his only worry is children trespassing in his garden to try to see the Girabbit.
+<td><br/>Ông Bliss sống cùng thú cưng Girabbit của mình trong một ngôi nhà màu trắng có mái đỏ. Girabbit thông báo với ông Bliss rằng hôm nay sẽ là một "ngày đẹp trời" nên ông quyết định mua một chiếc ô tô màu vàng, bánh xe màu đỏ, từ ông Binks với giá 5 shilling và sáu xu; để quên ví, ông Bliss để lại chiếc xe đạp màu bạc của mình cho ông Binks làm tài sản thế chấp. Tuy nhiên, trên đường đến thăm Dorkinses, Mr Bliss tỏ ra là một người lái xe bất cẩn, lái xe tông vào Mr Day và tông vào xe ngựa của ông, rồi vòng qua góc cua tiếp theo, tông vào bà Knight và làm gãy chiếc xe lừa chở chuối của bà. Ông đưa cả Mr Day và Mrs Knight đi nhờ, với con lừa được buộc ở phía sau.
+<p>Khi đến khu rừng, họ gặp ba con gấu: Archie, Bruno và Teddy. Sau khi hù dọa cả nhóm, ba con gấu dùng con lừa để chở bắp cải và chuối rồi giấu vào rừng cho riêng mình. Khi quay trở lại, họ nhất quyết muốn cùng Mr Bliss đến thăm gia đình Dorkinses vì ​​họ "có thể biết họ". Lăn xuống Đồi từ Rừng, họ đâm vào bức tường vườn của Dorkinses cùng với Mr Bliss, Mr Day, Mrs Knight và ba con gấu hạ cánh ngay giữa chuyến dã ngoại của Dorkinses, trong đó Archie hạ cánh xuống khu đất súp của họ; con lừa bay lên không trung và đáp xuống ô tô. Anh em nhà Dorkins - Fattie, Albert, Herbert và Egbert - rất tức giận vì chuyến dã ngoại của họ bị phá hỏng, nhưng cả nhóm ở lại ăn trưa, trong khi lũ gấu đi dạo và ăn hết bắp cải, táo và khoai tây trong vườn bếp. Tức giận, Albert Dorkins thả lũ chó vào chỗ lũ gấu.
+</p><p>Dù sao thì lũ gấu cũng chạy đi và nói rằng chúng có chuối và bắp cải; Ông Day và bà Knight muốn lấy lại bắp cải và chuối, nhưng ông Bliss chỉ đồng ý tham gia cùng họ nếu gia đình Dorkins đi cùng lũ chó. Mr Bliss, Mr Day, Mrs Knight, bốn người Dorkinese và những con chó của họ, di chuyển trên chiếc xe do con lừa kéo và ba con ngựa thuộc sở hữu của Dorkinses (Fattie Dorkins quá béo nên không thể sở hữu một con ngựa). Tại Cross Roads, họ dừng lại ở quán trọ để uống trà (và hóa đơn thanh toán sẽ được chuyển cho Mr Bliss), và sau đó họ đến Three Bears Wood vào lúc hoàng hôn. Những con chó theo dõi những con gấu nhưng chúng đã sơn mình để trông giống như "những con ma, hoặc <a class="mw-redirect" href="../G/Goblins.md" title="Goblins">yêu tinh</a>, hoặc cả ba" và ông Bliss kinh hãi bỏ chạy. Những con gấu bắt đầu cười và những người khác đến Nhà Gấu để ăn tối - ăn thịt gà nguội, giăm bông, rau diếp, củ cải đường, bánh trifle, pho mát, bánh mì nâu và măng tây - và tất cả đều ở lại qua đêm.
+</p><p>Tuy nhiên, ông Bliss đã bỏ trốn trong đêm và đến sáng thì ông đã đến được làng. Ông lấy lại được chiếc xe đạp của mình từ nhà kho của ông Binks mà không trả tiền xe, vì vậy ông Binks đã cố gắng thuyết phục Trung sĩ Boffin nhốt ông Bliss lại như một tên trộm; Những con gấu, Dorkinses, Mr Day và Mrs Knight đều đến làng với quyết tâm lấy tiền từ Mr Bliss để trang trải các chi phí khác nhau phát sinh, vì vậy họ cùng với Mr Binks và Trung sĩ Boffin đến nhà Mr Bliss. Tuy nhiên, khi đến nhà ông Bliss, họ sợ hãi bỏ chạy trước một con Girabbit to đến mức đầu thò ra khỏi ống khói. Sau khi mọi người đã rời đi, ông Bliss đã giải quyết hết nợ nần và sau đó tặng chiếc xe cho ông Day làm quà cưới trong cuộc hôn nhân của ông với bà Knight; tất cả mọi người đều tham dự đám cưới, kể cả Girabbit. Sau đó, ông Bliss lái một chiếc xe lừa thay vào đó, mối lo lắng duy nhất của ông là trẻ em xâm phạm khu vườn của ông để cố gắng nhìn thấy Girabbit.
 </p>
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed" width="100%" align="center">
 <tbody><tr>
-<th align="left"><big>Characters</big>
+<th align="left"><big>Nhân vật</big>
 </th></tr>
 <tr>
-<td><br/>Listed in order of appearance:
-<ul><li><b>Mr J. Bliss</b>, a man resident in a white house with red roofs. He owned a large quantity of tall hats and a silver bicycle without pedals for he only rode it downhill. The story follows his misadventures following the purchase of a yellow car taken on a drive to visit the Dorkinses.</li>
-<li><b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Girabbit&amp;action=edit&amp;redlink=1" title="Girabbit (page does not exist)">Girabbit</a></b>, a talking half-rabbit half-giraffe pet that lived in Mr Bliss&#39;s garden. Mr Bliss keeps the Girabbit a secret to avoid paying a licence.</li>
-<li><b>Mr Binks</b>, owner of the shop who sells Mr Bliss the car. When Mr Bliss recovers his bike from Mr Binks, Mr Binks wants Mr Bliss sent to prison.</li>
-<li><b>Mr Day</b>, a man driven into by Mr Bliss who was carrying cabbages. He ends up receiving the car as a wedding-present.</li>
-<li><b>Mrs Knight</b>, a woman who owned a donkey and whose cart carrying bananas was smashed by Mr Bliss. She marries Mr Day as her third husband and sets up a green-grocers called &#34;Day and Knight&#39;s&#34;.</li>
-<li><b>Archie</b>, <b>Bruno</b>, and <b>Teddy</b>, three bears who Mr Bliss encounters and who then take Mr Day&#39;s cabbages and Mrs Knight&#39;s bananas. They insist on joining Mr Bliss on his trip to see the Dorkinses. They live in Bears&#39; House in Three Bears Wood.</li>
-<li><b>Fat Dorkinses</b>, a group of four brothers who live at the bottom of the Hill and all bar Fattie own a horse. Their picnic is interrupted by the group, and their kitchen-garden is ravished by the bears.
-<ul><li><b>Fattie</b>, the fattest with black curly hair, a white sleeveless shirt with yellow dots, and he wore no coat (for they always split).</li>
-<li><b>Albert</b>, who had very short legs and the angriest of the Dorkinses.</li>
-<li><b>Herbert</b>, who swallows a beetle that enters his soup.</li>
-<li><b>Egbert</b>, who wore a green jacket.</li></ul></li>
-<li><b>Sergeant Boffin</b>, the local police officer who, after persuasion from Mr Binks, intends to arrest Mr Bliss.</li>
-<li><b>Sam</b>, the son of Sergeant Boffin.</li>
+<td><br/>Liệt kê theo thứ tự xuất hiện:
+<ul><li><b>Mr J. Bliss</b>, một người đàn ông sống trong ngôi nhà màu trắng mái đỏ. Ông sở hữu một số lượng lớn những chiếc mũ cao và một chiếc xe đạp màu bạc không có bàn đạp vì ông chỉ đạp nó xuống dốc. Câu chuyện kể về những bất hạnh của anh sau khi mua một chiếc ô tô màu vàng để lái xe đến thăm Dorkinses.</li>
+<li><b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Girabbit&amp;action=edit&amp;redlink=1" title="Girabbit (page does not exist)">Girabbit</a></b>, một con thú cưng nửa thỏ nửa hươu cao cổ biết nói sống trong vườn nhà ông Bliss. Mr Bliss giữ bí mật về Girabbit để tránh phải trả tiền giấy phép.</li>
+<li><b>Mr Binks</b>, chủ cửa hàng bán xe Mr Bliss. Khi ông Bliss lấy lại chiếc xe đạp của mình từ ông Binks, ông Binks muốn ông Bliss bị tống vào tù.</li>
+<li><b>Mr Day</b>, một người đàn ông đang chở bắp cải bị Mr Bliss chở vào. Cuối cùng ông nhận được chiếc xe như một món quà cưới.</li>
+<li><b>Bà Knight</b>, một người phụ nữ có một con lừa và chiếc xe chở chuối đã bị ông Bliss đập vỡ. Cô kết hôn với Mr Day làm người chồng thứ ba và thành lập một cửa hàng tạp hóa xanh tên là "Day and Knight's".</li>
+<li><b>Archie</b>, <b>Bruno</b> và <b>Teddy</b>, ba chú gấu mà Mr Bliss gặp phải và sau đó chúng lấy đi bắp cải và chuối của Mr Day. Họ nhất quyết muốn tham gia cùng Mr Bliss trong chuyến đi gặp gia đình Dorkinses. Họ sống ở Bears' House ở Three Bears Wood.</li>
+<li><b>Fat Dorkinses</b>, một nhóm bốn anh em sống ở dưới chân đồi và tất cả quán bar Fattie đều sở hữu một con ngựa. Chuyến dã ngoại của họ bị gián đoạn bởi cả nhóm và khu vườn nhà bếp của họ bị lũ gấu tàn phá.
+<ul><li><b>Fattie</b>, béo nhất với mái tóc xoăn đen, áo sơ mi trắng không tay có chấm màu vàng và không mặc áo khoác (vì họ luôn xẻ tà).</li>
+<li><b>Albert</b>, người có đôi chân rất ngắn và là người hay giận dữ nhất trong gia đình Dorkins.</li>
+<li><b>Herbert</b>, người nuốt một con bọ vào súp của mình.</li>
+<li><b>Egbert</b>, người mặc áo khoác màu xanh lá cây.</li></ul></li>
+<li><b>Trung sĩ Boffin</b>, viên cảnh sát địa phương, sau khi được ông Binks thuyết phục, đã có ý định bắt giữ ông Bliss.</li>
+<li><b>Sam</b>, con trai của Trung sĩ Boffin.</li>
 <li><b>Uncle Joe</b>,</li>
 <li><b>Mrs Golightly</b>,</li>
 <li><b>Mrs Simkins</b>,</li>
 <li><b>Gaffer Gamgee</b>,</li>
 <li><b>Alfred</b>,</li>
 <li><b>Innkeeper</b>,</li>
-<li><b>Mr Banks</b>, a builder.</li></ul>
+<li><b>Ông Banks</b>, một thợ xây.</li></ul>
 </td></tr></tbody></table>
 
 ## Nền {#Background}
@@ -125,41 +125,41 @@ Hammond và Scull mô tả tác phẩm là lập dị, "bất chấp sự phân 
 
 ## Lịch sử xuất bản và thư viện {#Publication_history_and_gallery}
 
-<dl><dt>UK editions</dt></dl>
+<dl><dt>Các ấn bản tại Anh</dt></dl>
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Mr_Bliss_1983.jpg.md" title="1982 hardcover"><img alt="1982 hardcover" src="https://tolkiengateway.net/w/images/thumb/9/90/Mr_Bliss_1983.jpg/125px-Mr_Bliss_1983.jpg" decoding="async" loading="lazy" width="125" height="89" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/90/Mr_Bliss_1983.jpg/188px-Mr_Bliss_1983.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/90/Mr_Bliss_1983.jpg/250px-Mr_Bliss_1983.jpg 2x" data-file-width="500" data-file-height="355"/></a></span></div>
 			<div class="gallerytext">
-<p>1982 hardcover
+<p>bìa cứng năm 1982
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Mr_Bliss_1994.png.md" title="1994 hardcover"><img alt="1994 hardcover" src="https://tolkiengateway.net/w/images/thumb/4/42/Mr_Bliss_1994.png/125px-Mr_Bliss_1994.png" decoding="async" loading="lazy" width="125" height="90" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/42/Mr_Bliss_1994.png/188px-Mr_Bliss_1994.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/42/Mr_Bliss_1994.png/250px-Mr_Bliss_1994.png 2x" data-file-width="500" data-file-height="358"/></a></span></div>
 			<div class="gallerytext">
-<p>1994 hardcover
+<p>bìa cứng năm 1994
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Mr_Bliss_2007.jpg.md" title="2007 hardcover"><img alt="2007 hardcover" src="https://tolkiengateway.net/w/images/thumb/e/e3/Mr_Bliss_2007.jpg/101px-Mr_Bliss_2007.jpg" decoding="async" loading="lazy" width="101" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e3/Mr_Bliss_2007.jpg/152px-Mr_Bliss_2007.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e3/Mr_Bliss_2007.jpg/202px-Mr_Bliss_2007.jpg 2x" data-file-width="1210" data-file-height="1500"/></a></span></div>
 			<div class="gallerytext">
-<p>2007 hardcover
+<p>bìa cứng 2007
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Mr_Bliss_2011.jpg.md" title="2011 hardcover"><img alt="2011 hardcover" src="https://tolkiengateway.net/w/images/thumb/4/46/Mr_Bliss_2011.jpg/90px-Mr_Bliss_2011.jpg" decoding="async" loading="lazy" width="90" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/46/Mr_Bliss_2011.jpg/135px-Mr_Bliss_2011.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/46/Mr_Bliss_2011.jpg/179px-Mr_Bliss_2011.jpg 2x" data-file-width="1214" data-file-height="1690"/></a></span></div>
 			<div class="gallerytext">
-<p>2011 hardcover
+<p>bìa cứng 2011
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Mr_Bliss_2024.jpg.md" title="2024 hardcover"><img alt="2024 hardcover" src="https://tolkiengateway.net/w/images/thumb/6/69/Mr_Bliss_2024.jpg/81px-Mr_Bliss_2024.jpg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Mr_Bliss_2024.jpg/122px-Mr_Bliss_2024.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Mr_Bliss_2024.jpg/162px-Mr_Bliss_2024.jpg 2x" data-file-width="974" data-file-height="1500"/></a></span></div>
 			<div class="gallerytext">
-<p>2024 hardcover
+<p>Bản bìa cứng năm 2024
 </p>
 			</div>
 		</li>
@@ -236,10 +236,10 @@ Là một phần của [Tolkien Ngày đọc sách](../T/Tolkien_Reading_Day.md)
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>A <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> book guide</b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Sách hướng dẫn <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
 </th></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Books by or mainly by Tolkien</b>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Sách do Tolkien viết hoặc chủ yếu do Tolkien viết</b>
 </td></tr>
 <tr>
 <th width="50px" align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="3">On <a href="../A/Arda.md" title="Arda">Arda</a>
@@ -251,76 +251,76 @@ Là một phần của [Tolkien Ngày đọc sách](../T/Tolkien_Reading_Day.md)
 <tr>
 <th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Edited by <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a>
 </th>
-<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> · <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i> · <i><a href="../T/The_History_of_Middle-earth.md" title="The History of Middle-earth">The History of Middle-earth</a></i> series<br/>(i.<i><a href="../T/The_Book_of_Lost_Tales%253A_Part_One.md" title="The Book of Lost Tales: Part One">The Book of Lost Tales: Part One</a></i> · ii.<i><a href="../T/The_Book_of_Lost_Tales%253A_Part_Two.md" title="The Book of Lost Tales: Part Two">The Book of Lost Tales: Part Two</a></i> · iii.<i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i> · iv.<i><a href="../T/The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i> · v.<i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> · vi.<i><a href="../T/The_Return_of_the_Shadow.md" title="The Return of the Shadow">The Return of the Shadow</a></i> · vii.<i><a href="../T/The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a></i> · viii.<i><a href="../T/The_War_of_the_Ring.md" title="The War of the Ring">The War of the Ring</a></i> · ix.<i><a href="../S/Sauron_Defeated.md" title="Sauron Defeated">Sauron Defeated</a></i> · x.<i><a href="Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i> · xi.<i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i> · xii.<i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> · <i><a href="../T/The_History_of_Middle-earth_Index.md" title="The History of Middle-earth Index">Index</a></i>) ·<br/><i><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i> · <i><a href="../B/Beren_and_Lúthien.md" title="Beren and Lúthien">Beren and Lúthien</a></i> · <i><a href="../T/The_Fall_of_Gondolin.md" title="The Fall of Gondolin">The Fall of Gondolin</a></i>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> · <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i> · <i><a href="../T/The_History_of_Middle-earth.md" title="The History of Middle-earth">The History of Middle-earth</a></i> loạt<br/>(i.<i><a href="../T/The_Book_of_Lost_Tales%253A_Part_One.md" title="The Book of Lost Tales: Part One">The Book of Lost Tales: Part One</a></i> · ii.<i><a href="../T/The_Book_of_Lost_Tales%253A_Part_Two.md" title="The Book of Lost Tales: Part Two">The Book of Lost Tales: Part Two</a></i> · iii.<i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i> · iv.<i><a href="../T/The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i> · v.<i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> · vi.<i><a href="../T/The_Return_of_the_Shadow.md" title="The Return of the Shadow">The Return of the Shadow</a></i> · vii.<i><a href="../T/The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a></i> · viii.<i><a href="../T/The_War_of_the_Ring.md" title="The War of the Ring">The War of the Ring</a></i> · ix.<i><a href="../S/Sauron_Defeated.md" title="Sauron Defeated">Sauron Defeated</a></i> · x.<i><a href="Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i> · xi.<i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i> · xii.<i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> · <i><a href="../T/The_History_of_Middle-earth_Index.md" title="The History of Middle-earth Index">Index</a></i>) ·<br/><i><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i> · <i><a href="../B/Beren_and_Lúthien.md" title="Beren and Lúthien">Beren and Lúthien</a></i> · <i><a href="../T/The_Fall_of_Gondolin.md" title="The Fall of Gondolin">The Fall of Gondolin</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Edited by others
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Do người khác biên tập
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../T/The_Annotated_Hobbit.md" title="The Annotated Hobbit">The Annotated Hobbit</a></i> · <i><a href="../T/The_History_of_The_Hobbit.md" title="The History of The Hobbit">The History of The Hobbit</a></i> · <i><a href="../T/The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> · <i><a href="../T/The_Fall_of_Númenor.md" title="The Fall of Númenor">The Fall of Númenor</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="5">Not on Arda
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="5">Không thuộc Arda
 </th>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Short stories<br/>and others
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Truyện ngắn<br/>và những truyện khác
 </th>
-<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../L/Leaf_by_Niggle.md" title="Leaf by Niggle">Leaf by Niggle</a></i> · <i><a href="../F/Farmer_Giles_of_Ham.md" title="Farmer Giles of Ham">Farmer Giles of Ham</a></i> · <i><a href="../S/Smith_of_Wootton_Major.md" title="Smith of Wootton Major">Smith of Wootton Major</a></i> · <i><a href="../L/Letters_from_Father_Christmas.md" title="Letters from Father Christmas">Letters from Father Christmas</a></i> ·<br/><i><a class="mw-selflink selflink">Mr. Bliss</a></i> · <i><a href="../R/Roverandom.md" title="Roverandom">Roverandom</a></i> · <i><a href="../T/Tree_and_Leaf.md" title="Tree and Leaf">Tree and Leaf</a></i> (compilation) · <i><a href="../T/Tales_from_the_Perilous_Realm.md" title="Tales from the Perilous Realm">Tales from the Perilous Realm</a></i> (compilation) · <i><a href="../T/The_Bovadium_Fragments%253A_together_with_The_Origin_of_Bovadium.md" title="The Bovadium Fragments: together with The Origin of Bovadium">The Bovadium Fragments</a></i>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../L/Leaf_by_Niggle.md" title="Leaf by Niggle">Leaf by Niggle</a></i> · <i><a href="../F/Farmer_Giles_of_Ham.md" title="Farmer Giles of Ham">Farmer Giles of Ham</a></i> · <i><a href="../S/Smith_of_Wootton_Major.md" title="Smith of Wootton Major">Smith of Wootton Major</a></i> · <i><a href="../L/Letters_from_Father_Christmas.md" title="Letters from Father Christmas">Letters from Father Christmas</a></i> ·<br/><i><a class="mw-selflink selflink">Mr. Bliss</a></i> · <i><a href="../R/Roverandom.md" title="Roverandom">Roverandom</a></i> · <i><a href="../T/Tree_and_Leaf.md" title="Tree and Leaf">Tree and Leaf</a></i> (biên soạn) · <i><a href="../T/Tales_from_the_Perilous_Realm.md" title="Tales from the Perilous Realm">Tales from the Perilous Realm</a></i> (biên soạn) · <i><a href="../T/The_Bovadium_Fragments%253A_together_with_The_Origin_of_Bovadium.md" title="The Bovadium Fragments: together with The Origin of Bovadium">The Bovadium Fragments</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Fictional works
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Tác phẩm hư cấu
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../T/The_Legend_of_Sigurd_and_Gudrún.md" title="The Legend of Sigurd and Gudrún">The Legend of Sigurd and Gudrún</a></i> · <i><a href="../T/The_Fall_of_Arthur.md" title="The Fall of Arthur">The Fall of Arthur</a></i> · <i><a href="../T/The_Story_of_Kullervo.md" title="The Story of Kullervo">The Story of Kullervo</a></i> · <i><a href="../T/The_Lay_of_Aotrou_and_Itroun.md" title="The Lay of Aotrou and Itroun">The Lay of Aotrou and Itroun</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Translations and academic works
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Bản dịch và công trình học thuật
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../S/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo.md" title="Sir Gawain and the Green Knight, Pearl, and Sir Orfeo">Sir Gawain and the Green Knight, Pearl, and Sir Orfeo</a></i> · <i><a href="../T/The_Old_English_Exodus.md" title="The Old English Exodus">The Old English Exodus</a></i> · <i><a href="../F/Finn_and_Hengest%253A_The_Fragment_and_the_Episode.md" title="Finn and Hengest: The Fragment and the Episode">Finn and Hengest</a></i> ·<br/><i><a href="../T/The_Monsters_and_the_Critics,_and_Other_Essays.md" title="The Monsters and the Critics, and Other Essays">The Monsters and the Critics, and Other Essays</a></i> · <i><a href="../B/Beowulf_and_the_Critics.md" title="Beowulf and the Critics">Beowulf and the Critics</a></i> · <i><a href="../T/Tolkien_On_Fairy-stories~23734.md" title="Tolkien On Fairy-stories">Tolkien On Fairy-stories</a></i> ·<br/><i><a href="../B/Beowulf%253A_A_Translation_and_Commentary.md" title="Beowulf: A Translation and Commentary">Beowulf: A Translation and Commentary</a></i> · <i><a href="../A/A_Secret_Vice%253A_Tolkien_on_Invented_Languages.md" title="A Secret Vice: Tolkien on Invented Languages">A Secret Vice</a></i> · <i><a href="../T/The_Battle_of_Maldon%253A_together_with_The_Homecoming_of_Beorhtnoth.md" title="The Battle of Maldon: together with The Homecoming of Beorhtnoth">The Battle of Maldon</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Letters &amp; poems
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Thư từ và thơ
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i> · <i><a href="../T/The_Collected_Poems_of_J.R.R._Tolkien.md" title="The Collected Poems of J.R.R. Tolkien">The Collected Poems of J.R.R. Tolkien</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Other<br/>academic works
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Công trình<br/>học thuật khác
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../A/A_Middle_English_Reader_and_Vocabulary.md" title="A Middle English Reader and Vocabulary">A Middle English Vocabulary</a></i> · <i><a href="../S/Sir_Gawain_and_the_Green_Knight_(edition).md" title="Sir Gawain and the Green Knight (edition)">Sir Gawain and the Green Knight</a></i> · <i><a href="../A/Ancrene_Wisse.md" title="Ancrene Wisse">Ancrene Wisse</a></i>
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Books by other authors</b>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Sách của các tác giả khác</b>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Books on Arda
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Sách về Arda
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../T/The_Complete_Guide_to_Middle-earth.md" title="The Complete Guide to Middle-earth">The Complete Guide to Middle-earth</a></i> · <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i> ·<br/><i><a href="../T/The_Maps_of_Middle-earth.md" title="The Maps of Middle-earth">The Maps of Middle-earth</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Tolkien biographies
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Tiểu sử Tolkien
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../J/J.R.R._Tolkien%253A_A_Biography.md" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a></i> · <i><a href="../T/The_Inklings_(book).md" title="The Inklings (book)">The Inklings</a></i> · <i><a href="../T/Tolkien_and_the_Great_War.md" title="Tolkien and the Great War">Tolkien and the Great War</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Scholarly books
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Sách nghiên cứu học thuật
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../T/The_Road_to_Middle-earth.md" title="The Road to Middle-earth">The Road to Middle-earth</a></i> · <i><a href="../T/The_Keys_of_Middle-earth~15408.md" title="The Keys of Middle-earth">The Keys of Middle-earth</a></i> · <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> ·<br/><i><a href="../T/The_Ring_of_Words.md" title="The Ring of Words">The Ring of Words</a></i> · <i><a href="../A/A_Companion_to_J.R.R._Tolkien.md" title="A Companion to J.R.R. Tolkien">A Companion to J.R.R. Tolkien</a></i> · <i><a href="../T/Tolkien&#39;s_Lost_Chaucer.md" title="Tolkien&#39;s Lost Chaucer">Tolkien&#39;s Lost Chaucer</a></i> · <i><a href="../T/Tolkien&#39;s_Library%253A_An_Annotated_Checklist.md" title="Tolkien&#39;s Library: An Annotated Checklist">Tolkien&#39;s Library</a></i> · <i><a href="../T/The_Great_Tales_Never_End.md" title="The Great Tales Never End">The Great Tales Never End</a></i> · <i><a href="../T/Tolkien_on_Chaucer,_1913-1959.md" title="Tolkien on Chaucer, 1913-1959">Tolkien on Chaucer, 1913-1959</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Scholarly journals
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Tạp chí học thuật
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../T/Tolkien_Studies_(journal).md" title="Tolkien Studies (journal)">Tolkien Studies</a></i> · (<i><a href="../T/The_Chronology_of_The_Lord_of_the_Rings.md" title="The Chronology of The Lord of the Rings">The Chronology</a></i>)
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Other works by Tolkien</b>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Các tác phẩm khác của Tolkien</b>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Linguistic journals
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Tạp chí ngôn ngữ học
 </th>
-<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../V/Vinyar_Tengwar.md" title="Vinyar Tengwar">Vinyar Tengwar</a></i> various issues · <i><a href="../P/Parma_Eldalamberon.md" title="Parma Eldalamberon">Parma Eldalamberon</a></i> issue 11-23
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../V/Vinyar_Tengwar.md" title="Vinyar Tengwar">Vinyar Tengwar</a></i> số phát hành khác nhau · <i><a href="../P/Parma_Eldalamberon.md" title="Parma Eldalamberon">Parma Eldalamberon</a></i> số phát hành 11-23
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Collections of artwork<br/>and manuscripts
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Bộ sưu tập tác phẩm nghệ thuật<br/>và bản thảo
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../P/Pictures_by_J.R.R._Tolkien.md" title="Pictures by J.R.R. Tolkien">Pictures by J.R.R. Tolkien</a></i> · <i><a href="../J/J.R.R._Tolkien%253A_Life_and_Legend.md" title="J.R.R. Tolkien: Life and Legend">J.R.R. Tolkien: Life and Legend</a></i> · <i><a href="../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md" title="J.R.R. Tolkien: Artist and Illustrator">J.R.R. Tolkien: Artist and Illustrator</a></i> ·<br/><i><a href="../T/The_Art_of_The_Hobbit.md" title="The Art of The Hobbit">The Art of The Hobbit</a></i> · <i><a href="../T/The_Art_of_The_Lord_of_the_Rings.md" title="The Art of The Lord of the Rings">The Art of The Lord of the Rings</a></i> · <i><a href="../T/Tolkien%253A_Maker_of_Middle-earth.md" title="Tolkien: Maker of Middle-earth">Tolkien: Maker of Middle-earth</a></i> ·<br/><i><a href="../T/Tolkien%253A_Treasures.md" title="Tolkien: Treasures">Tolkien: Treasures</a></i> · <i><a href="../J/J.R.R._Tolkien%253A_The_Art_of_the_Manuscript.md" title="J.R.R. Tolkien: The Art of the Manuscript">J.R.R. Tolkien: The Art of the Manuscript</a></i>
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">For a fuller bibliography of Tolkien, see <a class="external text" href="https://tolkienbooks.net/php/chronindex.php" rel="noreferrer noopener" target="_blank">here</a> or <a class="external text" href="https://www.forodrim.org/bibliography/tbchron.html" rel="noreferrer noopener" target="_blank">here</a>. See also a list of <a href="https://tolkiengateway.net/wiki/User:Luotiansha/3" title="User:Luotiansha/3">all materials by Tolkien</a>.
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Để có thư mục đầy đủ hơn về Tolkien, hãy xem <a class="external text" href="https://tolkienbooks.net/php/chronindex.php" rel="noreferrer noopener" target="_blank">tại đây</a> hoặc <a class="external text" href="https://www.forodrim.org/bibliography/tbchron.html" rel="noreferrer noopener" target="_blank">tại đây</a>. Xem thêm danh sách <a href="https://tolkiengateway.net/wiki/User:Luotiansha/3" title="User:Luotiansha/3">tất cả tài liệu của Tolkien</a>.
 </td></tr></tbody></table>

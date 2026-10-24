@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Ace_Books"
 content_sha256: 92e498563fc419016a05e71e7da05a2809498a554f551505e632d29e6f76529a
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Unauthorized American publisher"
+short_description: "Nhà xuất bản Mỹ trái phép"
 categories:
   - "Publishers"
   - "American businesses"

@@ -35,13 +35,13 @@ sort_keys:
 ## Trích dẫn {#Quotes}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I really began to understand just how much thought the old professor put into imagining how his world would resonate with music. This wasn’t a casual afterthought. He’d done some real thinking about music and sound in his world. I felt that if I was ever going to make any music that amounted to anything for this universe, I had better understand it from the ground up.
+<p>Tôi thực sự bắt đầu hiểu vị giáo sư già đã suy nghĩ đến mức nào khi tưởng tượng thế giới của ông sẽ cộng hưởng với âm nhạc như thế nào. Đây không phải là một suy nghĩ ngẫu nhiên. Ông đã thực sự suy nghĩ về âm nhạc và âm thanh trong thế giới của mình. Tôi cảm thấy rằng nếu tôi định tạo ra bất kỳ thứ âm nhạc nào có ý nghĩa gì đó cho vũ trụ này, thì tôi nên hiểu rõ hơn về nó ngay từ đầu.
 </p>
 <p class="tg-quote-footer"><cite>Chance Thomas, <a class="external autonumber" href="http://www.vgmonline.net/chancethomasinterview/" rel="noreferrer noopener" target="_blank">[1]</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I was given a mandate to create music that was true to the spirit and letter of Tolkien&#39;s writings. To do that with any sort of fidelity, I found myself returning to the books again and again.
+<p>Tôi được giao nhiệm vụ tạo ra thứ âm nhạc đúng với tinh thần và nội dung các tác phẩm của Tolkien. Để làm được điều đó một cách trung thực nhất, tôi thấy mình đọc đi đọc lại những cuốn sách.
 </p>
 </blockquote><div class="tg-section-divider"></div></div>
 

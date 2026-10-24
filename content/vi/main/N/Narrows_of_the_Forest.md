@@ -28,7 +28,7 @@ Trong [Kỷ Đệ Tứ](../F/Fourth_Age.md), Vùng Narrows có [Beornings](../B/
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>A Northman trail connecting the East Bight and West Bight, the Rad Angálaladh, traverses the Narrows.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
+<dl><dd>Đường mòn Northman nối phương Đông Bight và Phương Tây Bight, Rad Angálaladh, đi qua Narrows.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
 <span></span>
 

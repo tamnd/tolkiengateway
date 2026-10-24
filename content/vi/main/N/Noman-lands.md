@@ -47,7 +47,7 @@ Hammond và Scull cho rằng cái tên này bắt nguồn từ *no man's land*, 
 
 <b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Noman-lands is an area in &#34;the Wastes&#34; region, located east of the <a href="../D/Dead_Marshes.md" title="Dead Marshes">Dead Marshes</a> and west of <a href="../D/Dagorlad.md" title="Dagorlad">Dagorlad</a>.</dd></dl>
+<dl><dd>Vùng đất Noman là một khu vực thuộc vùng "Waste", nằm ở phía đông <a href="../D/Dead_Marshes.md" title="Dead Marshes">Đầm lầy Chết</a> và phía tây <a href="../D/Dagorlad.md" title="Dagorlad">Dagorlad</a>.</dd></dl>
 
 ## Ghi chú {#Notes}
 

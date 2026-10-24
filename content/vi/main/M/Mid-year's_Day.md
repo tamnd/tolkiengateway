@@ -20,8 +20,8 @@ images:
   - "CdxIconReference.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
-<p>Who told you, and who sent you?
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Nguồn</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần <b><a href="../../help/R/References.md" title="Help:References">nguồn</a></b> nhiều/mới/chi tiết hơn để tuân thủ tiêu chuẩn cao hơn và cung cấp bằng chứng cho những tuyên bố được đưa ra.<blockquote class="tg-quote noexcerpt">
+<p>Ai đã nói với bạn và ai đã gửi cho bạn?
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
@@ -39,26 +39,26 @@ Các sự kiện xảy ra vào ngày giữa năm:
 <dl><dt><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_472.md" title="First Age 472">472</a></dt>
 <dd>Beginning of the Fifth <a href="../B/Battles_of_Beleriand.md" title="Battles of Beleriand">Battle of Beleriand</a>: <a href="../N/Nirnaeth_Arnoediad.md" title="Nirnaeth Arnoediad">Nirnaeth Arnœdiad</a></dd>
 <dt><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_498.md" title="First Age 498">498</a></dt>
-<dd><a href="../T/Túrin.md" title="Túrin">Túrin</a> weds <a class="mw-redirect" href="../N/Níniel.md" title="Níniel">Níniel</a> in <a href="../B/Brethil.md" title="Brethil">Brethil</a>.</dd>
+<dd><a href="../T/Túrin.md" title="Túrin">Túrin</a> kết hôn với <a class="mw-redirect" href="../N/Níniel.md" title="Níniel">Níniel</a> ở <a href="../B/Brethil.md" title="Brethil">Brethil</a>.</dd>
 <dt><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_510.md" title="First Age 510">510</a></dt>
 <dd>The <a href="../F/Fall_of_Gondolin.md" title="Fall of Gondolin">Fall of Gondolin</a></dd>
 <dt><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2941.md" title="Third Age 2941">2941</a></dt>
-<dd><a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a> depart from <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>.</dd>
+<dd><a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin và Đoàn tùy tùng</a> khởi hành từ <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>.</dd>
 <dt><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3013.md" title="Third Age 3013">3013</a></dt>
-<dd><a href="../W/Will_Whitfoot.md" title="Will Whitfoot">Will Whitfoot</a> is elected (or re-elected) to the post of <a href="Mayor_of_Michel_Delving.md" title="Mayor of Michel Delving">Mayor of Michel Delving</a> at the Free Fair held on the White Downs.</dd>
+<dd><a href="../W/Will_Whitfoot.md" title="Will Whitfoot">Will Whitfoot</a> được bầu (hoặc được bầu lại) vào vị trí <a href="Mayor_of_Michel_Delving.md" title="Mayor of Michel Delving">Thị trưởng Michel Delving</a> tại Hội chợ Tự do được tổ chức ở White Downs.</dd>
 <dt><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3018.md" title="Third Age 3018">3018</a></dt>
-<dd><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> meets <a href="../R/Radagast.md" title="Radagast">Radagast</a>, then leaves <a href="../G/Gandalf&#39;s_letter.md" title="Gandalf&#39;s letter">a letter</a> with <a href="../B/Barliman_Butterbur.md" title="Barliman Butterbur">Barliman Butterbur</a> to be sent to <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>, and tells him to expect a <a href="Mr._Underhill.md" title="Mr. Underhill">Mr. Underhill</a>. Gandalf leaves for <a href="../O/Orthanc.md" title="Orthanc">Orthanc</a>, Barliman forgets to mail the letter.</dd></dl>
+<dd><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> gặp <a href="../R/Radagast.md" title="Radagast">Radagast</a>, sau đó để lại <a href="../G/Gandalf&#39;s_letter.md" title="Gandalf&#39;s letter">một lá thư</a> có <a href="../B/Barliman_Butterbur.md" title="Barliman Butterbur">Barliman Butterbur</a> gửi cho <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> và bảo ông đợi <a href="Mr._Underhill.md" title="Mr. Underhill">Mr. Underhill</a>. Gandalf rời đi <a href="../O/Orthanc.md" title="Orthanc">Orthanc</a>, Barliman quên gửi thư.</dd></dl>
 
 <dl><dt><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a></dt>
 <dd>Wedding of <a href="../A/Aragorn.md" title="Aragorn">Aragorn II</a> and <a href="../A/Arwen.md" title="Arwen">Arwen</a>.<sup id="cite_ref-chief_1-0" class="reference"><a href="#cite_note-chief-1">[1]</a></sup></dd>
 <dt><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3020.md" title="Third Age 3020">3020</a></dt>
-<dd>Frodo resigns office of Deputy Mayor and <a href="../W/Will_Whitfoot.md" title="Will Whitfoot">Will Whitfoot</a> is restored as a Mayor.<sup id="cite_ref-chief_1-1" class="reference"><a href="#cite_note-chief-1">[1]</a></sup></dd>
+<dd>Frodo từ chức Phó Thị trưởng và <a href="../W/Will_Whitfoot.md" title="Will Whitfoot">Will Whitfoot</a> được phục hồi chức vụ Thị trưởng.<sup id="cite_ref-chief_1-1" class="reference"><a href="#cite_note-chief-1">[1]</a></sup></dd>
 <dt><a href="../F/Fourth_Age.md" title="Fourth Age">Fo.A.</a> <a href="../F/Fourth_Age_6.md" title="Fourth Age 6">6</a></dt>
-<dd>Will Whitfoot resigns as Mayor of Michel Delving, and <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a> is elected in his place.</dd>
+<dd>Will Whitfoot từ chức Thị trưởng Michel Delving và <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a> được bầu vào vị trí của ông.</dd>
 <dt><a href="../F/Fourth_Age.md" title="Fourth Age">Fo.A.</a> <a href="../F/Fourth_Age_55.md" title="Fourth Age 55">55</a></dt>
-<dd>At the <a href="../F/Free_Fair.md" title="Free Fair">Free Fair</a> on the <a href="../W/White_Downs.md" title="White Downs">White Downs</a>, Samwise Gamgee resigns as Mayor of the Shire.</dd>
+<dd>Tại <a href="../F/Free_Fair.md" title="Free Fair">Hội chợ miễn phí</a> ở <a href="../W/White_Downs.md" title="White Downs">White Downs</a>, Samwise Gamgee từ chức Thị trưởng của Shire.</dd>
 <dt><a href="../F/Fourth_Age.md" title="Fourth Age">Fo.A.</a> <a href="../F/Fourth_Age_61.md" title="Fourth Age 61">61</a></dt>
-<dd>Death of <a href="../R/Rose_Cotton.md" title="Rose Cotton">Rose Cotton</a>, the wife of Samwise Gamgee.</dd></dl>
+<dd>Cái chết của <a href="../R/Rose_Cotton.md" title="Rose Cotton">Rose Cotton</a>, vợ của Samwise Gamgee.</dd></dl>
 
 <span></span>
 

@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/Battle_Games_in_Middle-earth"
 content_sha256: 179148409b18f854f3c8163bfeec644797d21de8077912c859da9260495f0f00
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Partwork magazine for The Lord of the Rings Strategy Battle Game"
+short_description: "Tạp chí hợp tác cho The Lord of the Rings Trò chơi chiến đấu chiến lược"
 categories:
   - "Magazines"
   - "Publications by title"
@@ -27,7 +27,7 @@ infobox:
     value: "2002-2006"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Battle Games in Middle-earth</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../M/Mark_Latham.md" title="Mark Latham">Mark Latham</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Peter Borlace, Glenn More</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=DeAgostini&amp;action=edit&amp;redlink=1" title="DeAgostini (page does not exist)">DeAgostini</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2002.md" title="2002">2002</a>-<a href="../_/2006.md" title="2006">2006</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Battle Games in Middle-earth</span></th></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên gần nhất</th><td class="tg-infobox-data"><a href="../M/Mark_Latham.md" title="Mark Latham">Mark Latham</a></td></tr><tr><th scope="row" class="tg-infobox-label">Họa sĩ minh họa</th><td class="tg-infobox-data">Peter Borlace, Glenn More</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=DeAgostini&amp;action=edit&amp;redlink=1" title="DeAgostini (page does not exist)">DeAgostini</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/2002.md" title="2002">2002</a>-<a href="../_/2006.md" title="2006">2006</a></td></tr></tbody></table>
 
 <i><b>Trò chơi chiến đấu trong Trung Địa</b></i> là một <a class="extiw" href="http://en.wikipedia.org/wiki/Partwork" title="wikipedia:Partwork">hợp tác</a> hai tuần một lần dành riêng cho [The Lord of the Rings Strategy Battle Game](../M/Middle-earth_Strategy_Battle_Game.md), được xuất bản bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=DeAgostini&amp;action=edit&amp;redlink=1" title="DeAgostini (page does not exist)">DeAgostini</a> sử dụng tài liệu và mô hình từ [Games Workshop](../G/Games_Workshop.md). 91 số thường kỳ (được gọi là *Packs*) và ba số phim đặc biệt đã được phát hành.<sup id="cite_ref-FAQ_1-0" class="reference"><a href="#cite_note-FAQ-1">[1]</a></sup><sup id="cite_ref-Latham_2-0" class="reference"><a href="#cite_note-Latham-2">[2]</a></sup> Tạp chí phát hành từ [2002](../_/2002.md) đến [2006](../_/2006.md).
 
@@ -91,7 +91,7 @@ Sau khi kết thúc hợp tác, [Mark Latham](../M/Mark_Latham.md), một biên 
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Tabletop gaming magazines</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Tạp chí chơi game trên máy tính bảng</b>
 </td></tr>
 <tr>
 <td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Roleplaying in Middle-earth</b>

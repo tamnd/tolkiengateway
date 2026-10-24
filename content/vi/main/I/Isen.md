@@ -58,7 +58,7 @@ Khi [Ent](../E/Ents.md) tấn công [Isengard](Isengard.md), họ đã xây đ�
 
 <b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>To the north of the <a href="../F/Fords_of_Isen.md" title="Fords of Isen">Fords of Isen</a>, both east and west banks of the Isen are explorable. To the south of the Fords, only the north bank is accessible, as the <a href="../W/West-march.md" title="West-march">West-march</a> of <a href="../R/Rohan.md" title="Rohan">Rohan</a> is currently not present in the game.</dd></dl>
+<dl><dd>Ở phía bắc của <a href="../F/Fords_of_Isen.md" title="Fords of Isen">Cạnh cạn Isen</a>, cả bờ đông và bờ tây của Isen đều có thể khám phá được. Ở phía nam của Fords, chỉ có thể tiếp cận được bờ phía bắc, vì <a href="../W/West-march.md" title="West-march">Phương Tây-march</a> của <a href="../R/Rohan.md" title="Rohan">Rohan</a> hiện không có trong trò chơi.</dd></dl>
 
 ## Xem thêm {#See_also}
 

@@ -14,10 +14,10 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the land within the legendarium</b>. For the journal on <a href="../T/Tolkien_studies.md" title="Tolkien studies">Tolkien studies</a>, see <b><a href="Hither_Shore_(journal).md" title="Hither Shore (journal)">Hither Shore (journal)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>vùng đất trong di tích</b>. Đối với tạp chí về <a href="../T/Tolkien_studies.md" title="Tolkien studies">Tolkien nghiên cứu</a>, xem <b><a href="Hither_Shore_(journal).md" title="Hither Shore (journal)">Hither Shore (tạp chí)</a></b>.</div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>On Hither Shores where mortals are.
+<p>Ở Bờ Biển Này, nơi có người phàm.
 </p>
 <p class="tg-quote-footer"><cite><i><a class="mw-redirect" href="../E/Eärendillinwë.md" title="Eärendillinwë">Eärendillinwë</a></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

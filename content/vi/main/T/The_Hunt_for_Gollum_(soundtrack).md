@@ -22,8 +22,8 @@ sort_keys:
 <table class="tracklist wikitable wikitable--stripe">
     <tbody><tr>
       <th class="tlheader" style="width: 20px; text-align: right;">#</th>
-      <th class="tlheader" style="width: 100%;">Title</th>
-      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Length</th>
+      <th class="tlheader" style="width: 100%;">Danh hiệu</th>
+      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Chiều dài</th>
     </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">1.</td>
@@ -37,7 +37,7 @@ sort_keys:
 </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">3.</td>
-  <td style="text-align: left;">&#34;First steps&#34;  </td>
+  <td style="text-align: left;">"Những bước đầu tiên"</td>
   <td style="padding-right: 10px; text-align: right;">0:57</td>
 </tr>
         <tr style="background-color: {{{color}}};">
@@ -57,7 +57,7 @@ sort_keys:
 </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">7.</td>
-  <td style="text-align: left;">&#34;The Road is Long&#34;  </td>
+  <td style="text-align: left;">"Con đường còn dài"</td>
   <td style="padding-right: 10px; text-align: right;">1:52</td>
 </tr>
         <tr style="background-color: {{{color}}};">
@@ -97,7 +97,7 @@ sort_keys:
 </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">15.</td>
-  <td style="text-align: left;">&#34;Frodo must be protected&#34;  </td>
+  <td style="text-align: left;">"Frodo phải được bảo vệ"</td>
   <td style="padding-right: 10px; text-align: right;">2:26</td>
 </tr>
         <tr style="background-color: {{{color}}};">

@@ -27,7 +27,7 @@ Cũng có thể từ đầy đủ là *Azanûl* nghĩa là "Dim rill", chứa da
 
 - [Azanulbizar](Azanulbizar.md)
 
-<dl><dd>It can be analyzed as <i>(<a href="../D/Duban.md" title="Duban">duban</a>) Azanul-bizar</i> &#34;dim-rill (dale)&#34; or <i>Azan-ûl bizar</i> &#34;dim-rill dale&#34;</dd></dl>
+<dl><dd>Nó có thể được phân tích dưới dạng <i>(<a href="../D/Duban.md" title="Duban">duban</a>) Azanul-bizar</i> "dim-rill (dale)" hoặc <i>Azan-ûl bizar</i> "dim-rill dale"</dd></dl>
 
 ## Phiên bản khác {#Other_versions}
 

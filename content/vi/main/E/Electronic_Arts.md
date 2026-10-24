@@ -17,7 +17,7 @@ images:
   - "Electronic_Arts.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Electronic_Arts.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6f/Electronic_Arts.jpg/175px-Electronic_Arts.jpg" decoding="async" loading="lazy" width="175" height="175" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6f/Electronic_Arts.jpg/263px-Electronic_Arts.jpg 1.5x, https://tolkiengateway.net/w/images/6/6f/Electronic_Arts.jpg 2x" data-file-width="300" data-file-height="300"/></a><figcaption>EA logo</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Electronic_Arts.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6f/Electronic_Arts.jpg/175px-Electronic_Arts.jpg" decoding="async" loading="lazy" width="175" height="175" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6f/Electronic_Arts.jpg/263px-Electronic_Arts.jpg 1.5x, https://tolkiengateway.net/w/images/6/6f/Electronic_Arts.jpg 2x" data-file-width="300" data-file-height="300"/></a><figcaption>Logo EA</figcaption></figure>
 
 **Electronic Arts** hay gọi tắt là **EA**, là một công ty của Mỹ chuyên phát triển, xuất bản và phân phối trò chơi điện tử, được thành lập vào năm [1982](../_/1982.md). Những thành công của công ty bao gồm *The Sims*, James Bond và nhiều trò chơi thể thao khác nhau, được xuất bản bởi công ty con EA Sports.
 

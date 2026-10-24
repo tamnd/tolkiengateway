@@ -15,7 +15,7 @@ images:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>a squirrel could go from tree to tree from what is now <a href="../T/The_Shire.md" title="The Shire">the Shire</a> to <a href="../D/Dunland.md" title="Dunland">Dunland</a> west of <a href="../I/Isengard.md" title="Isengard">Isengard</a>
+<p>một con sóc có thể đi từ cây này sang cây khác từ nơi bây giờ là <a href="../T/The_Shire.md" title="The Shire"> Shire</a> đến <a href="../D/Dunland.md" title="Dunland">Dunland</a> phía tây <a href="../I/Isengard.md" title="Isengard">Isengard</a>
 </p>
 <p class="tg-quote-footer"><cite><a href="../E/Elrond.md" title="Elrond">Elrond</a>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -36,15 +36,15 @@ Trong [Mirkwood](../M/Mirkwood.md), những con sóc có màu đen.<sup id="cite
 
 <b>1995: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Black squirrels are described and given role-playing statistics. The creature is portrayed as an ally of the Wood-elves and the Woodmen.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
+<dl><dd>Sóc đen được mô tả và đưa ra số liệu thống kê nhập vai. Sinh vật này được miêu tả là đồng minh của Tiên rừng và Người Rừng.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
 **2004:** <i><b>Sảnh lửa</b></i>
 
-<dl><dd>Black squirrels are described and given statistics in the RPG magazine <i>The Hall of Fire</i> (intended for use with <a href="../D/Decipher.md" title="Decipher">Decipher</a>&#39;s <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Roleplaying Game</a></i>). Black squirrels are conceived as having been created by the &#39;dark magics&#39; of, and act as spy for, the <a class="mw-redirect" href="../N/Necromancer.md" title="Necromancer">Necromancer</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
+<dl><dd>Sóc đen được mô tả và đưa ra số liệu thống kê trên tạp chí RPG <i>The Hall of Fire</i> (dành cho sử dụng với <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Roleplaying Game</a></i> của <a href="../D/Decipher.md" title="Decipher">Decipher</a>). Sóc đen được cho là được tạo ra bởi 'ma thuật đen tối' và hoạt động như gián điệp cho <a class="mw-redirect" href="../N/Necromancer.md" title="Necromancer">Necromancer</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Squirrels are found throughout Middle-earth. Lore-masters can also have a non-combat squirrel pet.</dd></dl>
+<dl><dd>Sóc được tìm thấy khắp Trung Địa. Bậc thầy truyền thuyết cũng có thể nuôi thú cưng sóc không chiến đấu.</dd></dl>
 
 <span></span>
 

@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Balrogs"
 content_sha256: 4191832675c13f333c226ea9b5ab4ca5c660bce4743fbb99eabab1ac71d77e11
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Fallen Maiar who served Morgoth"
+short_description: "Maiar đã ngã xuống, người đã phục vụ Morgoth"
 categories:
   - "Pronounced articles"
   - "Articles needing citation"
@@ -64,12 +64,12 @@ infobox:
     value: "Images of Balrogs"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Balrog</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Balrog_(disambiguation).md" title="Balrog (disambiguation)">Balrog (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Balrog</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Balrog_(disambiguation).md" title="Balrog (disambiguation)">Balrog (định hướng)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Glorfindel&#39;s_Bane.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Ted_Nasmith_-_Glorfindel%27s_Bane.jpg/320px-Ted_Nasmith_-_Glorfindel%27s_Bane.jpg" decoding="async" loading="lazy" width="320" height="236" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Ted_Nasmith_-_Glorfindel%27s_Bane.jpg/480px-Ted_Nasmith_-_Glorfindel%27s_Bane.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Ted_Nasmith_-_Glorfindel%27s_Bane.jpg/640px-Ted_Nasmith_-_Glorfindel%27s_Bane.jpg 2x" data-file-width="1550" data-file-height="1144"/></a><figcaption>&#34;Glorfindel&#39;s Bane&#34; by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">People</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Balrogs</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data"><i>Valaraukar</i> (<a href="../Q/Quenya.md" title="Quenya">Q</a>)</td></tr><tr><th scope="row" class="tg-infobox-label">Origins</th><td class="tg-infobox-data"><a href="../C/Creation_of_the_Ainur.md" title="Creation of the Ainur">Creation of the Ainur</a></td></tr><tr><th scope="row" class="tg-infobox-label">Locations</th><td class="tg-infobox-data">Primarily <a href="../A/Angband.md" title="Angband">Angband</a>,<br/><a href="../M/Moria.md" title="Moria">Moria</a> (<a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a>)</td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../M/Morgoth.md" title="Morgoth">Morgoth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Members</th><td class="tg-infobox-data"><a href="../G/Gothmog_(balrog).md" title="Gothmog (balrog)">Gothmog</a>, <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a>, <a href="../L/Lungorthin.md" title="Lungorthin">Lungorthin</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifespan</th><td class="tg-infobox-data">Immortal</td></tr><tr><th scope="row" class="tg-infobox-label">Distinctions</th><td class="tg-infobox-data">Man-like, surrounded by shadow and fire, covered in smoke<br/><i>(cf. <a href="Balrogs%252FWings.md" title="Balrogs/Wings">Balrogs/Wings</a>)</i></td></tr><tr><th scope="row" class="tg-infobox-label">Average Height</th><td class="tg-infobox-data">Twice the height of a man</td></tr><tr><th scope="row" class="tg-infobox-label">Weaponry</th><td class="tg-infobox-data">Whips, swords, axes</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Balrogs.md" title="Category:Images of Balrogs">Images of Balrogs</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Glorfindel&#39;s_Bane.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Ted_Nasmith_-_Glorfindel%27s_Bane.jpg/320px-Ted_Nasmith_-_Glorfindel%27s_Bane.jpg" decoding="async" loading="lazy" width="320" height="236" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Ted_Nasmith_-_Glorfindel%27s_Bane.jpg/480px-Ted_Nasmith_-_Glorfindel%27s_Bane.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Ted_Nasmith_-_Glorfindel%27s_Bane.jpg/640px-Ted_Nasmith_-_Glorfindel%27s_Bane.jpg 2x" data-file-width="1550" data-file-height="1144"/></a><figcaption>&#34;Glorfindel&#39;s Bane&#34; by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Nhân vật</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Balrog</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin chung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data"><i>Valaraukar</i> (<a href="../Q/Quenya.md" title="Quenya">Q</a>)</td></tr><tr><th scope="row" class="tg-infobox-label">Nguồn gốc</th><td class="tg-infobox-data"><a href="../C/Creation_of_the_Ainur.md" title="Creation of the Ainur">Sự sáng tạo Ainur</a></td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Primarily <a href="../A/Angband.md" title="Angband">Angband</a>,<br/><a href="../M/Moria.md" title="Moria">Moria</a> (<a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a>)</td></tr><tr><th scope="row" class="tg-infobox-label">Trực thuộc</th><td class="tg-infobox-data"><a href="../M/Morgoth.md" title="Morgoth">Morgoth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thành viên</th><td class="tg-infobox-data"><a href="../G/Gothmog_(balrog).md" title="Gothmog (balrog)">Gothmog</a>, <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a>, <a href="../L/Lungorthin.md" title="Lungorthin">Lungorthin</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tuổi thọ</th><td class="tg-infobox-data">Bất tử</td></tr><tr><th scope="row" class="tg-infobox-label">Distinctions</th><td class="tg-infobox-data">Giống người, bị bao quanh bởi bóng tối và lửa, bao phủ trong khói<br/><i>(cf. <a href="Balrogs%252FWings.md" title="Balrogs/Wings">Balrogs/Wings</a>)</i></td></tr><tr><th scope="row" class="tg-infobox-label">Chiều cao trung bình</th><td class="tg-infobox-data">Chiều cao gấp đôi một người đàn ông</td></tr><tr><th scope="row" class="tg-infobox-label">Weaponry</th><td class="tg-infobox-data">Roi, kiếm, rìu</td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Balrogs.md" title="Category:Images of Balrogs">Images of Balrogs</a></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>... in Utumno he gathered his demons about him, those spirits who first adhered to him in the days of his splendour, and became most like him in his corruption: their hearts were of fire, but they were cloaked in darkness, and terror went before them; they had whips of flame.
+<p>... trong Utumno, ông tập hợp những con quỷ xung quanh mình, những linh hồn lần đầu tiên gắn bó với ông trong những ngày huy hoàng của ông, và trở nên giống ông nhất trong sự sa đọa của ông: trái tim của họ rực lửa, nhưng họ bị che phủ trong bóng tối, và nỗi kinh hoàng đi trước họ; họ có những ngọn lửa.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>, &#34;<a href="../O/Of_the_Coming_of_the_Elves_and_the_Captivity_of_Melkor.md" title="Of the Coming of the Elves and the Captivity of Melkor">Of the Coming of the Elves and the Captivity of Melkor</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -81,7 +81,7 @@ Các **Balrog** là những [Maiar](../M/Maiar.md) bị [Morgoth](../M/Morgoth.m
 Balrog, còn được gọi là [Valaraukar](../V/Valaraukar.md), vốn là các [Ainur](../A/Ainur.md) do [Ilúvatar](../I/Ilúvatar.md) tạo ra, có lẽ là những kẻ đã gia nhập cùng [Melkor](../M/Melkor.md) trong thời kỳ hắn gieo rắc bất hòa trong [Âm nhạc của các Ainur](../M/Music_of_the_Ainur.md). Sau khi bước vào [Eä](../E/Eä.md), chúng là các [Maiar](../M/Maiar.md), những linh hồn thấp hơn phục vụ [Valar](../V/Valar.md).
 
 <blockquote class="tg-quote noexcerpt">
-<p>...of the Maiar many were drawn to [Melkor&#39;s] splendour in the days of his greatness, and remained in that allegiance down into his darkness; and others he corrupted afterwards to his service with lies and treacherous gifts. Dreadful among these spirits were the Valaraukar, the scourges of fire that in Middle-earth were called the Balrogs, demons of terror.
+<p>...trong số Maiar nhiều người đã bị thu hút bởi sự huy hoàng của [Melkor] trong những ngày vĩ đại của ông, và vẫn trung thành với ông cho đến tận bóng tối của ông; và những người khác mà sau đó ông đã làm hư hỏng sự phục vụ của mình bằng những lời nói dối và những món quà phản bội. Đáng sợ nhất trong số những linh hồn này là Valaraukar, những tai họa lửa trong Trung Địa được gọi là Balrog, những con quỷ khủng bố.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../V/Valaquenta.md" title="Valaquenta">Valaquenta</a></i>: Of the Enemies</cite></p>
 </blockquote>
@@ -105,10 +105,10 @@ Sau [Cuộc chiến Thịnh nộ](../W/War_of_Wrath.md), một số Balrog chạ
 </tr>
 <tr>
 <td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/B/Balrog.mp3.md" title="File:Balrog.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
-<td style="text-align:center"><b><a href="../../file/B/Balrog.mp3.md" title="File:Balrog.mp3">File:Balrog.mp3</a></b></td>
+<td style="text-align:center"><b><a href="../../file/B/Balrog.mp3.md" title="File:Balrog.mp3">Tệp:Balrog.mp3</a></b></td>
 </tr>
 <tr>
-<td style="font-size: small; padding-bottom: 3px; text-align:center;">By <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Media help</a>)</td>
+<td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
 </tr>
 </tbody></table>
 </div>
@@ -136,13 +136,13 @@ Trong phiên bản sớm nhất của [huyền sử](../L/Legendarium.md) trong 
 Ban đầu, Balrogs được hình dung là có số lượng khổng lồ:
 
 <blockquote class="tg-quote noexcerpt">
-<p>The early conception of Balrogs makes them less terrible, and certainly more destructible, than they afterwards became: they existed in &#39;hundreds&#39; (p. 170), and were slain by <a href="../T/Tuor.md" title="Tuor">Tuor</a> and the <a class="mw-redirect" href="../G/Gondothlim.md" title="Gondothlim">Gondothlim</a> in large numbers: &#34;thus five fell before Tuor&#39;s great axe <a href="../D/Dramborleg.md" title="Dramborleg">Dramborleg</a>, three before <a href="../E/Ecthelion.md" title="Ecthelion">Ecthelion</a>&#39;s sword, and two score were slain by the warriors of the king&#39;s house.
+<p>Quan niệm ban đầu về Balrog khiến chúng bớt khủng khiếp hơn và chắc chắn dễ bị phá hủy hơn so với sau này: chúng tồn tại với số lượng 'hàng trăm' (tr. 170), và bị giết bởi <a href="../T/Tuor.md" title="Tuor">Tuor</a> và <a class="mw-redirect" href="../G/Gondothlim.md" title="Gondothlim">Gondothlim</a> với số lượng lớn: "do đó năm người đã ngã trước chiếc rìu vĩ đại của Tuor <a href="../D/Dramborleg.md" title="Dramborleg">Dramborleg</a>, ba trước đó <a href="../E/Ecthelion.md" title="Ecthelion">Thanh kiếm của Ecthelion</a>, và hai chục người đã bị giết bởi các chiến binh của nhà vua.
 </p>
-<p class="tg-quote-footer"><cite><i><a href="../T/The_Book_of_Lost_Tales%253A_Part_Two.md" title="The Book of Lost Tales: Part Two">The Book of Lost Tales: Part Two</a></i>, commentary by Christopher Tolkien on &#34;<a href="../T/The_Fall_of_Gondolin_(chapter).md" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a>&#34;, pp. 212-3</cite></p>
+<p class="tg-quote-footer"><cite><i><a href="../T/The_Book_of_Lost_Tales%253A_Part_Two.md" title="The Book of Lost Tales: Part Two">The Book of Lost Tales: Part Two</a></i>, bình luận của Christopher Tolkien về "<a href="../T/The_Fall_of_Gondolin_(chapter).md" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a>", trang 212-3</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>There came wolves and serpents and there came Balrogs one thousand, and there came Glomund the Father of Dragons.
+<p>Có sói và rắn đến và có Balrog một nghìn người đến, và có Glomund Cha của Rồng.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, <i>Quenta Silmarillion</i>, Chapter 16, §15</cite></p>
 </blockquote>
@@ -150,9 +150,9 @@ Ban đầu, Balrogs được hình dung là có số lượng khổng lồ:
 Khi [huyền sử](../L/Legendarium.md) trở nên đồ sộ và nhất quán hơn về mặt nội tại, còn các Balrog trở nên đáng sợ hơn, con số này đã giảm đi đáng kể. Cuối cùng, Tolkien khẳng định rằng có lẽ chỉ có “nhiều nhất” bảy Balrog:
 
 <blockquote class="tg-quote noexcerpt">
-<p>In the margin my father wrote: &#39;There should not be supposed more than say 3 or at most 7 ever existed.&#39;
+<p>Bên lề cha tôi viết: 'Không được cho là có nhiều hơn 3 hoặc nhiều nhất là 7 đã từng tồn tại.'
 </p>
-<p class="tg-quote-footer"><cite><i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, Section 2 (AAm*): note 50</cite></p>
+<p class="tg-quote-footer"><cite><i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, Mục 2 (AAm*): ghi chú 50</cite></p>
 </blockquote>
 
 Tuy nhiên, cần lưu ý rằng những văn bản này được viết sau khi *The Lord of the Rings* được xuất bản, nhưng trước các tư liệu làm cơ sở cho *The Silmarillion*. Vì vậy, con số chính xác về các Balrog vẫn còn rất không chắc chắn, nhưng ghi chú trên của Tolkien dường như là lời kết luận cuối cùng của ông.
@@ -164,9 +164,9 @@ Một Balrog tên là [Lungorthin](../L/Lungorthin.md) chỉ được nhắc đ�
 Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), có khả năng Lungorthin không phải là một tên khác của <a class="mw-redirect mw-disambig" href="../G/Gothmog.md" title="Gothmog">Gothmog</a>, vì cái tên Gothmog đã được nhắc đến trong những trước tác sớm nhất về Trung Địa, cũng như trong phiên bản cuối cùng của thần thoại Tolkien.
 
 <blockquote class="tg-quote noexcerpt">
-<p>The <i>thane of Morgoth</i> who smote him on the mouth (version I, 59) now becomes <i>Lungorthin</i>, <i>Lord of Balrogs</i> (96)——which is probably to be interpreted as ‘a Balrog lord’, since Gothmog, reappears in the ‘Silmarillion’ tradition.
+<p>Kẻ <i>thane of Morgoth</i> đã đánh vào miệng ông (phiên bản I, 59) giờ trở thành <i>Lungorthin</i>, <i>Lord of Balrogs</i> (96)——có lẽ được hiểu là 'một Balrog chúa', vì Gothmog, xuất hiện trở lại trong truyền thống 'Silmarillion'.
 </p>
-<p class="tg-quote-footer"><cite><i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i>, <i><a href="../T/The_Lay_of_the_Children_of_Húrin.md" title="The Lay of the Children of Húrin">The Lay of the Children of Húrin</a></i>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien’s</a> <i>Commentary on Part I of the second version</i></cite></p>
+<p class="tg-quote-footer"><cite><i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i>, <i><a href="../T/The_Lay_of_the_Children_of_Húrin.md" title="The Lay of the Children of Húrin">The Lay of the Children of Húrin</a></i>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien's</a> <i>Bình luận Phần I của phiên bản thứ hai</i></cite></p>
 </blockquote>
 
 ## Hình tượng trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
@@ -177,7 +177,7 @@ Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), có khả năng Lungort
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1978_film)_-_Balrog.jpg.md" title="Durin&#39;s Bane in The Lord of the Rings (1978 film)"><img alt="Durin&#39;s Bane in The Lord of the Rings (1978 film)" src="https://tolkiengateway.net/w/images/thumb/1/15/The_Lord_of_the_Rings_%281978_film%29_-_Balrog.jpg/197px-The_Lord_of_the_Rings_%281978_film%29_-_Balrog.jpg" decoding="async" loading="lazy" width="197" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/15/The_Lord_of_the_Rings_%281978_film%29_-_Balrog.jpg/295px-The_Lord_of_the_Rings_%281978_film%29_-_Balrog.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/15/The_Lord_of_the_Rings_%281978_film%29_-_Balrog.jpg/393px-The_Lord_of_the_Rings_%281978_film%29_-_Balrog.jpg 2x" data-file-width="524" data-file-height="400"/></a></span></div>
 			<div class="gallerytext">
-<p>Durin&#39;s Bane in <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (1978 film)</a>
+<p>Tai họa của Durin trong <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>
 </p>
 			</div>
 		</li>
@@ -205,7 +205,7 @@ Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), có khả năng Lungort
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Rings_of_Power_(TV_series)_-_Durin&#39;s_Bane.png.md" title="Durin&#39;s Bane in The Rings of Power series"><img alt="Durin&#39;s Bane in The Rings of Power series" src="https://tolkiengateway.net/w/images/thumb/7/72/The_Rings_of_Power_%28TV_series%29_-_Durin%27s_Bane.png/215px-The_Rings_of_Power_%28TV_series%29_-_Durin%27s_Bane.png" decoding="async" loading="lazy" width="215" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/72/The_Rings_of_Power_%28TV_series%29_-_Durin%27s_Bane.png/323px-The_Rings_of_Power_%28TV_series%29_-_Durin%27s_Bane.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/72/The_Rings_of_Power_%28TV_series%29_-_Durin%27s_Bane.png/430px-The_Rings_of_Power_%28TV_series%29_-_Durin%27s_Bane.png 2x" data-file-width="768" data-file-height="536"/></a></span></div>
 			<div class="gallerytext">
-<p>Durin&#39;s Bane in <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> series
+<p>Tai họa của Durin trong loạt <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i>
 </p>
 			</div>
 		</li>
@@ -213,58 +213,58 @@ Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), có khả năng Lungort
 
 <b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
-<dl><dd>The Balrog has wings and appears capable of limited flight. The head resembles a lion but the rest of the body was rendered in matte black, a technique commonly used for shadowy surreal effect in rotoscope animation.</dd></dl>
+<dl><dd>Balrog có cánh và dường như có khả năng bay hạn chế. Cái đầu giống một con sư tử nhưng phần còn lại của cơ thể được sơn màu đen mờ, một kỹ thuật thường được sử dụng để tạo hiệu ứng siêu thực đổ bóng trong hoạt hình kính quay.</dd></dl>
 
 <b>1984: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Beyond Gothmog, Durin&#39;s Bane, and Lungorthin, the game also features the newly-invented Balrog <a href="../M/Múar.md" title="Múar">Múar</a>.</dd></dl>
+<dl><dd>Ngoài Gothmog, Tai họa của Durin và Lungorthin, trò chơi còn có Balrog <a href="../M/Múar.md" title="Múar">Múar</a> mới được phát minh.</dd></dl>
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể những chiếc nhẫn: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>Durin&#39;s Bane is described as having flame and shadow in the shape of wings. In a departure from this description, <a href="../P/Peter_Jackson.md" title="Peter Jackson">Jackson</a>&#39;s Demon of Might has literal wings, an elongated tail, a horned head, clawed forearms and hoofed feet, all of which are seen clearly from its smoke-engulfed physique. It&#39;s also notably larger than previous depictions, being well over the height of a grown man.</dd></dl>
+<dl><dd>Tai họa của Durin được mô tả là có ngọn lửa và bóng tối dưới hình dạng đôi cánh. Khác với mô tả này, Ác ma sức mạnh của <a href="../P/Peter_Jackson.md" title="Peter Jackson">Jackson</a> có đôi cánh theo đúng nghĩa đen, một cái đuôi thon dài, một cái đầu có sừng, cánh tay có móng vuốt và bàn chân có móng guốc, tất cả đều được nhìn thấy rõ ràng từ vóc dáng ngập trong khói của nó. Nó cũng lớn hơn đáng kể so với các mô tả trước đây, cao hơn chiều cao của một người đàn ông trưởng thành.</dd></dl>
 
 <b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
 
-<dl><dd>The Balrog has, once again, wings. The fight sequence, in which the player is Gandalf, takes considerably longer: only after a short fight on the bridge does Gandalf let it collapse.</dd></dl>
+<dl><dd>Balrog một lần nữa lại có cánh. Trình tự chiến đấu, trong đó người chơi Gandalf, mất nhiều thời gian hơn đáng kể: chỉ sau một trận chiến ngắn trên cây cầu Gandalf mới khiến nó sụp đổ.</dd></dl>
 
 <b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể những chiếc nhẫn: The Two Towers</a></i>:</b>
 
-<dl><dd>The chase up the <a href="../E/Endless_Stair.md" title="Endless Stair">Endless Stair</a> and the slime Balrog were omitted due to budget constraints.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> However, part of Gandalf&#39;s battle with the Balrog is shown at the beginning of the film, and the fight atop Zirak-Zigil is seen in a flashback after Gandalf&#39;s return.</dd></dl>
+<dl><dd>Cuộc rượt đuổi lên <a href="../E/Endless_Stair.md" title="Endless Stair">Cầu thang vô tận</a> và con slime Balrog đã bị bỏ qua do hạn chế về kinh phí.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> Tuy nhiên, một phần trận chiến của Gandalf với Balrog được chiếu ở đầu phim và cuộc chiến trên đỉnh Zirak-Zigil được thấy trong một đoạn hồi tưởng sau khi Gandalf trở lại.</dd></dl>
 
 <b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The War of the Ring của Sierra</a></i>:</b>
 
-<dl><dd>The Balrog is the most powerful magical power available to Servants of Sauron. They have horns and wings.</dd></dl>
+<dl><dd>Balrog là sức mạnh ma thuật mạnh nhất dành cho Người hầu của Sauron. Chúng có sừng và cánh.</dd></dl>
 
 <b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Third_Age.md" title="The Lord of the Rings: The Third Age">The Lord of the Rings: Kỷ Đệ Tam</a></i>:</b>
 
-<dl><dd>The players assist Gandalf in his fight with the Balrog.</dd></dl>
+<dl><dd>Người chơi hỗ trợ Gandalf trong cuộc chiến với Balrog.</dd></dl>
 
 <b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
 
-<dl><dd>The Balrog is the most powerful magical power available to both Mordor and Isengard faction, and is faced as a boss in the Good Campaign. Visual appearance follows the movie version.</dd></dl>
+<dl><dd>Balrog là sức mạnh ma thuật mạnh nhất dành cho cả phe Mordor và Isengard và phải đối mặt với tư cách là trùm trong Chiến dịch Tốt. Ngoại hình giống phiên bản điện ảnh.</dd></dl>
 
 <b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
-<dl><dd>Unlike the original game, The Balrog is not available to Isengard faction, but only to Mordor and the new Goblin factions.</dd></dl>
+<dl><dd>Không giống như trò chơi gốc, Balrog không có sẵn cho phe Isengard mà chỉ dành cho Mordor và phe Goblin mới.</dd></dl>
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Besides <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a>, the game also features another Balrog: named Thaurlach, he can be found in the <a class="new" href="https://tolkiengateway.net/w/index.php?title=Rift_of_N%C3%BBrz_Gh%C3%A2shu&amp;action=edit&amp;redlink=1" title="Rift of Nûrz Ghâshu (page does not exist)">Rift of Nûrz Ghâshu</a>, where <a href="../A/Angmar.md" title="Angmar">Angmar</a> meets <a href="../M/Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a>. He fled there are the breaking of <a href="../T/Thangorodrim.md" title="Thangorodrim">Thangorodrim</a>, but was followed by an elf-maiden Glathlírel who was determined to end him. The Balrog eluded her for millennia, until she was able to face him in combat and defeat him. Rather than kill the Balrog, the two Blue Wizards decided to imprison him in the Rift, so that he could await his judgment at the end of days. However, by the end of the Third Age his chains were loosening and a band of players was sent to defeat the weakened Balrog - something, that as Gandalf remarked, should have been done ages ago.</dd></dl>
+<dl><dd>Ngoài <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Tai họa của Durin</a>, trò chơi còn có một Balrog khác: tên là Thaurlach, ông có thể được tìm thấy ở <a class="new" href="https://tolkiengateway.net/w/index.php?title=Rift_of_N%C3%BBrz_Gh%C3%A2shu&amp;action=edit&amp;redlink=1" title="Rift of Nûrz Ghâshu (page does not exist)">Rạn nứt Nûrz Ghâshu</a>, nơi <a href="../A/Angmar.md" title="Angmar">Angmar</a> gặp <a href="../M/Misty_Mountains.md" title="Misty Mountains">Dãy Núi Sương Mù</a>. Ông bỏ trốn khi <a href="../T/Thangorodrim.md" title="Thangorodrim">Thangorodrim</a> bị phá vỡ, nhưng bị theo sau bởi một Glathlírel thời con gái Tiên, người quyết tâm kết liễu ông. Balrog đã trốn tránh cô hàng thiên niên kỷ, cho đến khi cô có thể đối mặt với ông trong trận chiến và đánh bại ông. Thay vì giết Balrog, hai Pháp sư Xanh quyết định giam giữ ông trong Khe nứt, để ông có thể chờ phán quyết vào cuối ngày. Tuy nhiên, vào cuối Kỷ Đệ Tam dây xích của ông bị lỏng ra và một nhóm người chơi được cử đi để đánh bại Balrog suy yếu - điều mà Gandalf đã nhận xét đáng lẽ phải được thực hiện từ lâu.</dd></dl>
 
 <b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Chinh phục</a></i>:</b>
 
-<dl><dd>The Balrog is one of the &#34;heroes&#34; available to Servants of Sauron during evil campaign. Appearance reflects the movie version.</dd></dl>
+<dl><dd>Balrog là một trong những "anh hùng" dành cho Người hầu của Sauron trong chiến dịch tà ác. Ngoại hình phản ánh phiên bản điện ảnh.</dd></dl>
 
 <b>2017: <i><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Trung Địa: Bóng Tối chiến tranh</a></i>:</b>
 
-<dl><dd>The game also features another Balrog: named Tar Goroth, who must be killed to complete a specific side-quest, has wings and is able to leap over large distances without flying.</dd></dl>
+<dl><dd>Trò chơi còn có một Balrog khác: tên là Tar Goroth, người phải bị giết để hoàn thành một nhiệm vụ phụ cụ thể, có đôi cánh và có thể nhảy qua khoảng cách lớn mà không cần bay.</dd></dl>
 
 <b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>, Mùa một</b>
 
 <dl><dd><b>Episode 5: <i><a href="../P/Partings.md" title="Partings">Partings</a></i>:</b>
-<dl><dd>In the <a href="../T/The_Song_of_the_Roots_of_Hithaeglir.md" title="The Song of the Roots of Hithaeglir">obscure apocryphal myth</a> that the <a href="../G/Gil-galad.md" title="Gil-galad">High King Gil-galad</a> compels <a href="../E/Elrond.md" title="Elrond">Elrond</a> to recount, the Balrog depicted within the visual representation of the story has distintive wings covered by smoke.</dd></dl></dd>
+<dl><dd>Trong <a href="../T/The_Song_of_the_Roots_of_Hithaeglir.md" title="The Song of the Roots of Hithaeglir">huyền thoại ngụy tạo khó hiểu</a> mà <a href="../G/Gil-galad.md" title="Gil-galad">Đại Vương Gil-galad</a> buộc <a href="../E/Elrond.md" title="Elrond">Elrond</a> kể lại, Balrog được mô tả trong hình ảnh trực quan của câu chuyện có đôi cánh đặc biệt được bao phủ bởi khói.</dd></dl></dd>
 <dd><b>Episode 7: <i><a href="../T/The_Eye.md" title="The Eye">The Eye</a></i>:</b>
-<dl><dd>When <a href="../D/Durin_III.md" title="Durin III">King Durin III</a> throws an orange leaf of the Great Tree in <a href="../L/Lindon.md" title="Lindon">Lindon</a> down the <a href="../M/Mithril.md" title="Mithril">mithril</a> mine shaft before ordering the mine to be sealed up, the leaf fell to the very depths of <a href="../M/Moria.md" title="Moria">Khazad-dûm</a> beneath the Mithril vein. As the leaf lands, it catches on fire due to being in close proximity to the Balrog later known as Durin&#39;s Bane. Upon being disturbed, the Balrog roars. Whether this roar was out of anger or annoyance is not known.</dd></dl></dd></dl>
+<dl><dd>Khi <a href="../D/Durin_III.md" title="Durin III">Vua Durin III</a> ném một chiếc lá cam của Cây Đại thụ vào <a href="../L/Lindon.md" title="Lindon">Lindon</a> xuống trục mỏ <a href="../M/Mithril.md" title="Mithril">mithril</a> trước khi ra lệnh niêm phong mỏ, chiếc lá đã rơi xuống vực sâu <a href="../M/Moria.md" title="Moria">Khazad-dûm</a> bên dưới mạch Mithril. Khi chiếc lá rơi xuống, nó bốc cháy do ở gần Balrog sau này được gọi là Tai họa của Durin. Khi bị quấy rầy, Balrog gầm lên. Không rõ tiếng gầm này là do tức giận hay khó chịu.</dd></dl></dd></dl>
 
 ## Xem thêm {#See_also}
 
@@ -326,7 +326,7 @@ Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), có khả năng Lungort
 <tr>
 <td align="right" style="background: var(--tg-color-surface-4); width: 110px; padding-right: 4px;" rowspan="2"><b><a href="../V/Valar.md" title="Valar">Valar</a></b>
 </td>
-<td align="right" style="background: var(--tg-color-surface-3); width: 60px; font-size: 95%; padding-right: 4px;"><b><a class="mw-redirect" href="../L/Lords_of_the_Valar.md" title="Lords of the Valar">Lords</a></b>
+<td align="right" style="background: var(--tg-color-surface-3); width: 60px; font-size: 95%; padding-right: 4px;"><b><a class="mw-redirect" href="../L/Lords_of_the_Valar.md" title="Lords of the Valar">Các chúa tể</a></b>
 </td>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="../M/Manwë.md" title="Manwë">Manwë</a></i> · <i><a href="../U/Ulmo.md" title="Ulmo">Ulmo</a></i> · <i><a href="../A/Aulë.md" title="Aulë">Aulë</a></i> · <i><a href="../O/Oromë.md" title="Oromë">Oromë</a></i> · <i><a href="../M/Mandos.md" title="Mandos">Mandos</a></i> · <a href="../I/Irmo.md" title="Irmo">Irmo</a> · <a href="../T/Tulkas.md" title="Tulkas">Tulkas</a> · <s><i><a href="../M/Morgoth.md" title="Morgoth">Melkor</a></i></s>
 </td></tr>
@@ -346,7 +346,7 @@ Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), có khả năng Lungort
 <td style="font-size: 90%; padding-left: 4px;"><a href="../S/Sauron.md" title="Sauron">Sauron</a> · <a class="mw-selflink selflink">Balrogs</a> (<a href="../G/Gothmog_(balrog).md" title="Gothmog (balrog)">Gothmog</a> · <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a>) · <a href="Boldog.md" title="Boldog">Boldogs</a> · <a href="../T/Thuringwethil.md" title="Thuringwethil">Thuringwethil</a> · <a href="../G/Gothrog.md" title="Gothrog">Gothrog</a>
 </td></tr>
 <tr>
-<td align="right" style="background: var(--tg-color-surface-4); width: 110px; padding-right: 4px;" rowspan="2"><b>Concepts and locations</b>
+<td align="right" style="background: var(--tg-color-surface-4); width: 110px; padding-right: 4px;" rowspan="2"><b>Khái niệm và địa điểm</b>
 </td>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Almaren.md" title="Almaren">Almaren</a> · <a href="../A/Aratar.md" title="Aratar">Aratar</a> (indicated in <i>italics</i>) · <a href="../C/Creation_of_the_Ainur.md" title="Creation of the Ainur">Creation of the Ainur</a> · <a href="../F/Fana.md" title="Fana">Fana</a> · <a href="../M/Máhanaxar.md" title="Máhanaxar">Máhanaxar</a> · <a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Ainulindalë</a> · <a class="mw-redirect" href="../O/Order_of_Wizards.md" title="Order of Wizards">Order of Wizards</a> (indicated in <b>bold</b>) · <a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Second Music of the Ainur</a> · <a href="../T/Timeless_Halls.md" title="Timeless Halls">Timeless Halls</a> · <a href="../V/Valarin.md" title="Valarin">Valarin</a> · <a href="../V/Valinor.md" title="Valinor">Valinor</a> · <a href="../V/Valimar.md" title="Valimar">Valimar</a>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Almaren.md" title="Almaren">Almaren</a> · <a href="../A/Aratar.md" title="Aratar">Aratar</a> (được chỉ định trong <i>italics</i>) · <a href="../C/Creation_of_the_Ainur.md" title="Creation of the Ainur">Sự tạo ra Ainur</a> · <a href="../F/Fana.md" title="Fana">Fana</a> · <a href="../M/Máhanaxar.md" title="Máhanaxar">Máhanaxar</a> · <a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Ainulindalë</a> · <a class="mw-redirect" href="../O/Order_of_Wizards.md" title="Order of Wizards">Thứ tự của Pháp sư</a> (được chỉ định trong <b>bold</b>) · <a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Kỷ Đệ Nhị Âm nhạc của các Ainur</a> · <a href="../T/Timeless_Halls.md" title="Timeless Halls">Hội trường vượt thời gian</a> · <a href="../V/Valarin.md" title="Valarin">Valarin</a> · <a href="../V/Valinor.md" title="Valinor">Valinor</a> · <a href="../V/Valimar.md" title="Valimar">Valimar</a>
 </td></tr></tbody></table>

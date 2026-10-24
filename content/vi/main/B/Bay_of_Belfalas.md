@@ -28,7 +28,7 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Bay_of_Belfalas.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Bay_of_Belfalas.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6b/The_Lord_of_the_Rings_Online_-_Bay_of_Belfalas.jpg/300px-The_Lord_of_the_Rings_Online_-_Bay_of_Belfalas.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6b/The_Lord_of_the_Rings_Online_-_Bay_of_Belfalas.jpg/450px-The_Lord_of_the_Rings_Online_-_Bay_of_Belfalas.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/6b/The_Lord_of_the_Rings_Online_-_Bay_of_Belfalas.jpg/600px-The_Lord_of_the_Rings_Online_-_Bay_of_Belfalas.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>View towards the Bay of Belfalas in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Bay_of_Belfalas.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6b/The_Lord_of_the_Rings_Online_-_Bay_of_Belfalas.jpg/300px-The_Lord_of_the_Rings_Online_-_Bay_of_Belfalas.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6b/The_Lord_of_the_Rings_Online_-_Bay_of_Belfalas.jpg/450px-The_Lord_of_the_Rings_Online_-_Bay_of_Belfalas.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/6b/The_Lord_of_the_Rings_Online_-_Bay_of_Belfalas.jpg/600px-The_Lord_of_the_Rings_Online_-_Bay_of_Belfalas.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Nhìn về phía Vịnh Belfalas trong <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
 **Vịnh Belfalas**, còn được gọi là **Vịnh Bel lộng gió**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một vịnh lớn của [Biển Cả](Belegaer.md) nằm giữa mũi [Andrast](../A/Andrast.md) và [Umbar](../U/Umbar.md).<sup id="cite_ref-VT_2-0" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
 
@@ -52,7 +52,7 @@ Tên gọi *Belfalas* được cấu thành từ [Mannish](../M/Mannish.md) *[be
 
 <b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Bay of Belfalas is visible from <a href="../A/Anfalas.md" title="Anfalas">Anfalas</a> and from <a href="Belfalas.md" title="Belfalas">Belfalas</a> itself.</dd></dl>
+<dl><dd>Vịnh Belfalas hiển thị từ <a href="../A/Anfalas.md" title="Anfalas">Anfalas</a> và từ chính <a href="Belfalas.md" title="Belfalas">Belfalas</a>.</dd></dl>
 
 <span></span>
 

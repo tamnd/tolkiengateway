@@ -37,7 +37,7 @@ infobox:
     value: "2006"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Comic-Con 2006</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">San Diego Convention Center</td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data">2006</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Comic-Con 2006</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">San Diego Convention Center</td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data">2006</td></tr></tbody></table>
 
 **Comic-Con 2006** giới thiệu nhiều bộ sưu tập liên quan đến [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) từ nhiều công ty khác nhau. [Bộ sưu tập trình chiếu](Sideshow_Collectibles.md) đã xem trước nhiều tượng và tượng bán thân hơn từ định dạng 12", Định dạng cao cấp và gần đây đã công bố các dòng Tượng bán thân có quy mô huyền thoại. Gentle Giant cũng vừa bước vào cảnh sưu tầm Chúa tể của những chiếc nhẫn để trưng bày các bức tượng hoạt hình của họ cùng với một tượng bán thân và một tượng bán thân nhỏ. NECA Balrog tiếp tục bị trì hoãn và Cinemaquette giới thiệu nhân vật Aragorn của họ. Hội nghị cũng giới thiệu [John Howe: There and Back Again](../J/John_Howe%253A_There_and_Back_Again.md), một bộ phim tài liệu về người nổi tiếng Tolkien họa sĩ minh họa.
 
@@ -131,28 +131,28 @@ infobox:
 		<li class="gallerybox" style="width: 101.33333333333px">
 			<div class="thumb" style="width: 99.333333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/G/Gentle_Giant_Gandalf_bust.jpg.md" title="Gandalf bust"><img alt="Gandalf bust" src="https://tolkiengateway.net/w/images/thumb/c/ca/Gentle_Giant_Gandalf_bust.jpg/149px-Gentle_Giant_Gandalf_bust.jpg" decoding="async" loading="lazy" width="100" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/ca/Gentle_Giant_Gandalf_bust.jpg/224px-Gentle_Giant_Gandalf_bust.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/ca/Gentle_Giant_Gandalf_bust.jpg/298px-Gentle_Giant_Gandalf_bust.jpg 2x" data-file-width="500" data-file-height="603"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 80px"><div class="gallerytext">
-<p>Gandalf bust
+<p>Gandalf bán thân
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 106px">
 			<div class="thumb" style="width: 104px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/G/Gentle_Giant_Saruman_bust.jpg.md" title="Saruman bust"><img alt="Saruman bust" src="https://tolkiengateway.net/w/images/thumb/7/78/Gentle_Giant_Saruman_bust.jpg/156px-Gentle_Giant_Saruman_bust.jpg" decoding="async" loading="lazy" width="104" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/78/Gentle_Giant_Saruman_bust.jpg/235px-Gentle_Giant_Saruman_bust.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/78/Gentle_Giant_Saruman_bust.jpg/313px-Gentle_Giant_Saruman_bust.jpg 2x" data-file-width="500" data-file-height="575"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 84px"><div class="gallerytext">
-<p>Saruman bust
+<p>Saruman bán thân
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 82.666666666667px">
 			<div class="thumb" style="width: 80.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/G/Gentle_Giant_Ringwraith_mini_bust.jpg.md" title="Ringwraith mini bust"><img alt="Ringwraith mini bust" src="https://tolkiengateway.net/w/images/thumb/8/8e/Gentle_Giant_Ringwraith_mini_bust.jpg/121px-Gentle_Giant_Ringwraith_mini_bust.jpg" decoding="async" loading="lazy" width="81" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8e/Gentle_Giant_Ringwraith_mini_bust.jpg/182px-Gentle_Giant_Ringwraith_mini_bust.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8e/Gentle_Giant_Ringwraith_mini_bust.jpg/243px-Gentle_Giant_Ringwraith_mini_bust.jpg 2x" data-file-width="500" data-file-height="740"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 61px"><div class="gallerytext">
-<p>Ringwraith mini bust
+<p>Vòng bán thân nhỏ của Ringwraith
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 92.666666666667px">
 			<div class="thumb" style="width: 90.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/G/Gentle_Giant_Strider_mini_bust.jpg.md" title="Strider mini bust"><img alt="Strider mini bust" src="https://tolkiengateway.net/w/images/thumb/1/1a/Gentle_Giant_Strider_mini_bust.jpg/136px-Gentle_Giant_Strider_mini_bust.jpg" decoding="async" loading="lazy" width="91" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1a/Gentle_Giant_Strider_mini_bust.jpg/204px-Gentle_Giant_Strider_mini_bust.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1a/Gentle_Giant_Strider_mini_bust.jpg/273px-Gentle_Giant_Strider_mini_bust.jpg 2x" data-file-width="500" data-file-height="660"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 71px"><div class="gallerytext">
-<p>Strider mini bust
+<p>Strider bức tượng bán thân nhỏ
 </p>
 			</div></div>
 		</li>
@@ -189,4 +189,4 @@ infobox:
 - [Comic-Con](../C/Comic-Con.md)
 - [Hình ảnh từ Comic-Con 2006](../../category/I/Images_from_Comic-Con_2006.md)
 
-<div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Comic-Con 2005</div><div class="template-prevnext__desc">Preceded by</div></div><div class="template-prevnext__linkoverlay"><a class="mw-redirect" href="../C/Comic-Con_2005.md" title="Comic-Con 2005">Comic-Con 2005</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title"><a class="mw-redirect" href="../C/Comic-Con.md" title="Comic-Con">Comic-Con</a></div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Comic-Con 2007</div><div class="template-prevnext__desc">Followed by</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a class="mw-redirect" href="../C/Comic-Con_2007.md" title="Comic-Con 2007">Comic-Con 2007</a></div></div></div>
+<div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Comic-Con 2005</div><div class="template-prevnext__desc">Trước đó</div></div><div class="template-prevnext__linkoverlay"><a class="mw-redirect" href="../C/Comic-Con_2005.md" title="Comic-Con 2005">Comic-Con 2005</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title"><a class="mw-redirect" href="../C/Comic-Con.md" title="Comic-Con">Comic-Con</a></div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Comic-Con 2007</div><div class="template-prevnext__desc">Tiếp theo</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a class="mw-redirect" href="../C/Comic-Con_2007.md" title="Comic-Con 2007">Comic-Con 2007</a></div></div></div>

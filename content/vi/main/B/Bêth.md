@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/Bêth"
 content_sha256: d552d4bc9b0625ce03078a5a0186fed74e1373a5d0274be17e2260ed5abde15e
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Adûnaic word"
+short_description: "Adûnaic từ"
 categories:
   - "Adûnaic words"
 hidden_categories:

@@ -62,10 +62,10 @@ infobox:
     value: "Images of Glamdring"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Gandalf_the_White_01.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/03/John_Howe_-_Gandalf_the_White_01.jpg/310px-John_Howe_-_Gandalf_the_White_01.jpg" decoding="async" loading="lazy" width="310" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/0/03/John_Howe_-_Gandalf_the_White_01.jpg 1.5x" data-file-width="394" data-file-height="609"/></a><figcaption>&#34;Gandalf the White&#34; by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Sword</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Glamdring</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Beater, Foe-hammer</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="Gondolin.md" title="Gondolin">Gondolin</a>, various</td></tr><tr><th scope="row" class="tg-infobox-label">Owner</th><td class="tg-infobox-data"><a href="../T/Turgon.md" title="Turgon">Turgon</a>, <a href="Gandalf.md" title="Gandalf">Gandalf</a></td></tr><tr><th scope="row" class="tg-infobox-label">Appearance</th><td class="tg-infobox-data">&#34;beautiful scabbards and <br/>jewelled hilts&#34;<sup id="cite_ref-mutton_1-0" class="reference"><a href="#cite_note-mutton-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Created at</th><td class="tg-infobox-data"><a href="Gondolin.md" title="Gondolin">Gondolin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Created in</th><td class="tg-infobox-data"><br/>Between c. <a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_116.md" title="First Age 116">116</a> - <a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_496.md" title="First Age 496">496</a><sup id="cite_ref-shortrest_2-0" class="reference"><a href="#cite_note-shortrest-2">[2]</a></sup><sup id="cite_ref-ut1_3-0" class="reference"><a href="#cite_note-ut1-3">[3]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Notable for</th><td class="tg-infobox-data">Weapon of <a href="Gandalf.md" title="Gandalf">Gandalf</a> during the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Glamdring.md" title="Category:Images of Glamdring">Images of Glamdring</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Gandalf_the_White_01.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/03/John_Howe_-_Gandalf_the_White_01.jpg/310px-John_Howe_-_Gandalf_the_White_01.jpg" decoding="async" loading="lazy" width="310" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/0/03/John_Howe_-_Gandalf_the_White_01.jpg 1.5x" data-file-width="394" data-file-height="609"/></a><figcaption>&#34;Gandalf the White&#34; by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Kiếm</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Glamdring</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data">Beater, Foe-hammer</td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="Gondolin.md" title="Gondolin">Gondolin</a>, đa dạng</td></tr><tr><th scope="row" class="tg-infobox-label">Chủ sở hữu</th><td class="tg-infobox-data"><a href="../T/Turgon.md" title="Turgon">Turgon</a>, <a href="Gandalf.md" title="Gandalf">Gandalf</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngoại hình</th><td class="tg-infobox-data">"những bao kiếm đẹp và <br/>chuôi nạm ngọc"<sup id="cite_ref-mutton_1-0" class="reference"><a href="#cite_note-mutton-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Tạo tại</th><td class="tg-infobox-data"><a href="Gondolin.md" title="Gondolin">Gondolin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tạo vào</th><td class="tg-infobox-data"><br/>Between c. <a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_116.md" title="First Age 116">116</a> - <a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_496.md" title="First Age 496">496</a><sup id="cite_ref-shortrest_2-0" class="reference"><a href="#cite_note-shortrest-2">[2]</a></sup><sup id="cite_ref-ut1_3-0" class="reference"><a href="#cite_note-ut1-3">[3]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Nổi tiếng vì</th><td class="tg-infobox-data">Vũ khí của <a href="Gandalf.md" title="Gandalf">Gandalf</a> trong <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a></td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Glamdring.md" title="Category:Images of Glamdring">Images of Glamdring</a></td></tr></tbody></table>
 
 <center><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>This, Gandalf, was Glamdring, Foe-hammer that the king of Gondolin once wore.
+<p>Đây, Gandalf, là Glamdring, chiếc búa của kẻ thù mà vị vua của Gondolin từng đeo.
 </p>
 <p class="tg-quote-footer"><cite><a href="../E/Elrond.md" title="Elrond">Elrond</a> in <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../A/A_Short_Rest.md" title="A Short Rest">A Short Rest</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
@@ -84,11 +84,11 @@ Cái tên này nhiều khả năng bắt nguồn từ trận [Nirnaeth Arnoediad
 
 Thanh kiếm đã tồn tại khoảng 6.500 năm, kể từ khi Gondolin sụp đổ vào năm [510](../F/First_Age_510.md) [Kỷ Đệ Nhất](../F/First_Age.md) cho đến khi được tìm thấy lại vào năm [2941](../T/Third_Age_2941.md) [Kỷ Đệ Tam](../T/Third_Age.md). Trong khoảng thời gian ấy, nó đã rời Gondolin và lưu lạc về phía đông xa xôi. Sự việc này vẫn còn nhiều bí ẩn, nhưng [Elrond](../E/Elrond.md) suy đoán rằng Glamdring, cùng với [Orcrist](../O/Orcrist.md) và [Sting](../S/Sting.md), đã nhiều lần bị cướp đoạt, hoặc bị mang đến [Dãy Núi Sương Mù](../M/Misty_Mountains.md) không lâu sau khi Gondolin sụp đổ.<sup id="cite_ref-shortrest_2-2" class="reference"><a href="#cite_note-shortrest-2">[2]</a></sup> Vì thế, sau khi sống sót qua trận đại hồng thủy nhấn chìm [Beleriand](../B/Beleriand.md) trong [Cuộc chiến Thịnh Nộ](../W/War_of_Wrath.md), thanh kiếm cuối cùng nằm trong một [hang ổ của quỷ khổng lồ](../T/Trolls'_lair.md) tại [Trollshaws](../T/Trollshaws.md), thuộc vùng [Eriador](../E/Eriador.md).
 
-<h3><span id="At_Gandalf.27s_side"></span><span class="mw-headline" id="At_Gandalf&#39;s_side">At Gandalf&#39;s side</span></h3>
+<h3><span id="At_Gandalf.27s_side"></span><span class="mw-headline" id="At_Gandalf&#39;s_side">Ở bên Gandalf</span></h3>
 
 Vào tháng 5 năm [2941](../T/Third_Age_2941.md) thuộc [Kỷ Đệ Tam](../T/Third_Age.md), [Gandalf](Gandalf.md), [Bilbo Baggins](../B/Bilbo_Baggins.md) và [một nhóm người lùn](../T/Thorin_and_Company.md) chạm trán ba tên quỷ khổng lồ tại vùng Trollshaws — [William](../W/William.md), [Bert](../B/Bert.md) và <a class="mw-redirect mw-disambig" href="../T/Tom.md" title="Tom">Tom</a>. Bọn quỷ khổng lồ bắt giữ Bilbo và các người lùn, nhưng Gandalf đã tiêu diệt chúng bằng cách khiến chúng tiếp xúc với ánh sáng mặt trời. Glamdring, cùng với [Orcrist](../O/Orcrist.md) và [Sting](../S/Sting.md), được tìm thấy trong hang ổ gần đó của chúng.<sup id="cite_ref-mutton_1-1" class="reference"><a href="#cite_note-mutton-1">[1]</a></sup> Gandalf nhận thanh kiếm làm vũ khí của riêng mình, kinh ngạc trước vẻ ngoài và dòng chữ khắc trên nó. Dòng chữ được viết bằng một dạng [chữ rune](../R/Runes.md) mà Gandalf [không biết](Gondolinic_Runes.md); ông cần đến kiến thức của Elrond để giải mã. Elrond dịch các chữ rune và gọi thanh kiếm bằng tên theo ngôn ngữ của Người: "Búa Diệt Địch".<sup id="cite_ref-shortrest_2-3" class="reference"><a href="#cite_note-shortrest-2">[2]</a></sup>
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Donato_Giancola_-_You_Cannot_Pass.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/df/Donato_Giancola_-_You_Cannot_Pass.jpg/200px-Donato_Giancola_-_You_Cannot_Pass.jpg" decoding="async" loading="lazy" width="200" height="255" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/df/Donato_Giancola_-_You_Cannot_Pass.jpg/300px-Donato_Giancola_-_You_Cannot_Pass.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/df/Donato_Giancola_-_You_Cannot_Pass.jpg/400px-Donato_Giancola_-_You_Cannot_Pass.jpg 2x" data-file-width="2355" data-file-height="3000"/></a><figcaption>Gandalf wielding Glamdring, by <a href="../D/Donato_Giancola.md" title="Donato Giancola">Donato Giancola</a>.</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Donato_Giancola_-_You_Cannot_Pass.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/df/Donato_Giancola_-_You_Cannot_Pass.jpg/200px-Donato_Giancola_-_You_Cannot_Pass.jpg" decoding="async" loading="lazy" width="200" height="255" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/df/Donato_Giancola_-_You_Cannot_Pass.jpg/300px-Donato_Giancola_-_You_Cannot_Pass.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/df/Donato_Giancola_-_You_Cannot_Pass.jpg/400px-Donato_Giancola_-_You_Cannot_Pass.jpg 2x" data-file-width="2355" data-file-height="3000"/></a><figcaption>Gandalf cầm Glamdring, bởi <a href="../D/Donato_Giancola.md" title="Donato Giancola">Donato Giancola</a>.</figcaption></figure>
 
 Gandalf sử dụng thanh kiếm rất thành thạo; nạn nhân đầu tiên của nó là [Great Goblin](Great_Goblin.md). Những Orc khác bỏ chạy khi nhận ra thanh kiếm là "Beater". Điều này có nghĩa là chúng có những truyền thuyết về hai thanh kiếm phát sáng — Beater và [Biter](../O/Orcrist.md).<sup id="cite_ref-overhill_4-1" class="reference"><a href="#cite_note-overhill-4">[4]</a></sup> Không rõ Gandalf có sử dụng thanh kiếm lần nào nữa trong [Cuộc hành trình đến Erebor](../T/The_Hobbit.md) hay không, mặc dù nhiều khả năng ông đã sử dụng nó trong [Trận chiến Năm đạo quân](../B/Battle_of_Five_Armies.md).
 
@@ -117,10 +117,10 @@ Khi cầm lấy thanh kiếm, Gandalf nói rằng ông không thể đọc đư�
 </tr>
 <tr>
 <td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/G/Glamdring.mp3.md" title="File:Glamdring.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
-<td style="text-align:center"><b><a href="../../file/G/Glamdring.mp3.md" title="File:Glamdring.mp3">File:Glamdring.mp3</a></b></td>
+<td style="text-align:center"><b><a href="../../file/G/Glamdring.mp3.md" title="File:Glamdring.mp3">Tệp:Glamdring.mp3</a></b></td>
 </tr>
 <tr>
-<td style="font-size: small; padding-bottom: 3px; text-align:center;">By <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Media help</a>)</td>
+<td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
 </tr>
 </tbody></table>
 </div>
@@ -141,21 +141,21 @@ Trong bản *Hobbit* đã xuất bản, không có lời giải thích nào cho 
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_(1977_film)_-_Glamdring.png.md" title="The Hobbit (1977 film)"><img alt="The Hobbit (1977 film)" src="https://tolkiengateway.net/w/images/thumb/e/e8/The_Hobbit_%281977_film%29_-_Glamdring.png/126px-The_Hobbit_%281977_film%29_-_Glamdring.png" decoding="async" loading="lazy" width="126" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e8/The_Hobbit_%281977_film%29_-_Glamdring.png/189px-The_Hobbit_%281977_film%29_-_Glamdring.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/e8/The_Hobbit_%281977_film%29_-_Glamdring.png/252px-The_Hobbit_%281977_film%29_-_Glamdring.png 2x" data-file-width="606" data-file-height="721"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (1977 film)</a>
+<p><a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1978_film)_-_Glamdring.jpg.md" title="The Lord of the Rings (1978 film)"><img alt="The Lord of the Rings (1978 film)" src="https://tolkiengateway.net/w/images/thumb/2/22/The_Lord_of_the_Rings_%281978_film%29_-_Glamdring.jpg/188px-The_Lord_of_the_Rings_%281978_film%29_-_Glamdring.jpg" decoding="async" loading="lazy" width="188" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/22/The_Lord_of_the_Rings_%281978_film%29_-_Glamdring.jpg/281px-The_Lord_of_the_Rings_%281978_film%29_-_Glamdring.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/22/The_Lord_of_the_Rings_%281978_film%29_-_Glamdring.jpg/375px-The_Lord_of_the_Rings_%281978_film%29_-_Glamdring.jpg 2x" data-file-width="2765" data-file-height="2213"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (1978 film)</a>
+<p><a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/David_T._Wenzel_-_Glamdring.jpeg.md" title="The Hobbit (comic book)"><img alt="The Hobbit (comic book)" src="https://tolkiengateway.net/w/images/thumb/4/41/David_T._Wenzel_-_Glamdring.jpeg/38px-David_T._Wenzel_-_Glamdring.jpeg" decoding="async" loading="lazy" width="38" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/41/David_T._Wenzel_-_Glamdring.jpeg/57px-David_T._Wenzel_-_Glamdring.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/4/41/David_T._Wenzel_-_Glamdring.jpeg/76px-David_T._Wenzel_-_Glamdring.jpeg 2x" data-file-width="264" data-file-height="1040"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../T/The_Hobbit_(comic_book).md" title="The Hobbit (comic book)"><i>The Hobbit</i> (comic book)</a>
+<p><a href="../T/The_Hobbit_(comic_book).md" title="The Hobbit (comic book)"><i>The Hobbit</i> (truyện tranh)</a>
 </p>
 			</div>
 		</li>
@@ -176,7 +176,7 @@ Trong bản *Hobbit* đã xuất bản, không có lời giải thích nào cho 
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/G/Guardians_of_Middle-earth_-_Gandalf_Icon.jpg.md" title="Guardians of Middle-earth"><img alt="Guardians of Middle-earth" src="https://tolkiengateway.net/w/images/thumb/b/b9/Guardians_of_Middle-earth_-_Gandalf_Icon.jpg/164px-Guardians_of_Middle-earth_-_Gandalf_Icon.jpg" decoding="async" loading="lazy" width="164" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b9/Guardians_of_Middle-earth_-_Gandalf_Icon.jpg/245px-Guardians_of_Middle-earth_-_Gandalf_Icon.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b9/Guardians_of_Middle-earth_-_Gandalf_Icon.jpg/327px-Guardians_of_Middle-earth_-_Gandalf_Icon.jpg 2x" data-file-width="6000" data-file-height="5502"/></a></span></div>
 			<div class="gallerytext">
-<p><i><a href="Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Guardians of Middle-earth</a></i>
+<p><i><a href="Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Những người bảo vệ Trung Địa</a></i>
 </p>
 			</div>
 		</li>
@@ -200,47 +200,47 @@ Trong bản *Hobbit* đã xuất bản, không có lời giải thích nào cho 
 
 <b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
-<dl><dd>Gandalf acquires Glamdring in the trolls&#39; cave. Elrond recognizes the sword at first glance; perhaps he simply deduces the fact that it was Glamdring because he had identified its mate Orcrist just before. After leaving <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, Gandalf notably uses the sword only when rescuing Bilbo and the Dwarves from Goblin-town.</dd></dl>
+<dl><dd>Gandalf thu được Glamdring trong hang động của lũ troll. Elrond nhận ra thanh kiếm ngay từ cái nhìn đầu tiên; có lẽ ông chỉ đơn giản suy luận rằng đó là Glamdring vì ông đã xác định được bạn đời của nó Orcrist ngay trước đó. Sau khi rời khỏi <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, đặc biệt Gandalf chỉ sử dụng thanh kiếm khi giải cứu Bilbo và Người Lùn khỏi thị trấn Goblin.</dd></dl>
 
 <b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
-<dl><dd>On promotional art, Glamdring is portrayed as an ordinary longsword, with no inscription visible. In the movie itself, it goes unnamed, and is considerably shorter, only a one-handed sword. Oddly it is broken along with the Balrog&#39;s sword, but reappears intact in later scenes.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></dd></dl>
+<dl><dd>Trên hình ảnh quảng cáo, Glamdring được miêu tả như một thanh trường kiếm thông thường, không có dòng chữ nào được nhìn thấy. Trong phim, nó không được đặt tên và ngắn hơn đáng kể, chỉ là một thanh kiếm bằng một tay. Điều kỳ lạ là nó bị gãy cùng với thanh kiếm của Balrog, nhưng lại xuất hiện nguyên vẹn trong những cảnh sau.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></dd></dl>
 
 <b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim năm 1980)</a>:</b>
 
-<dl><dd>Gandalf does not use a sword, only his staff.</dd></dl>
+<dl><dd>Gandalf không sử dụng kiếm mà chỉ sử dụng trượng.</dd></dl>
 
 <b>2001-03: <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim):</a></b>
 
-<dl><dd>Glamdring is a name given to the sword of Gandalf in the film&#39;s promotional materials, but it is not named in the films. The sword is, according to most replicas, 47 inches (approximately 120 centimeters) long,<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> and does not glow blue. When asked, <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a> and <a href="../P/Philippa_Boyens.md" title="Philippa Boyens">Philippa Boyens</a> reacted jokingly that is was due to &#34;budgetary cuts&#34;, and they had &#34;not enough blue left&#34;.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></dd></dl>
+<dl><dd>Glamdring là tên được đặt cho thanh kiếm Gandalf trong tài liệu quảng cáo của phim, nhưng nó không có tên trong phim. Theo hầu hết các bản sao, thanh kiếm dài 47 inch (khoảng 120 cm),<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> và không phát sáng màu xanh lam. Khi được hỏi, <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a> và <a href="../P/Philippa_Boyens.md" title="Philippa Boyens">Philippa Boyens</a> trả lời đùa rằng đó là do "cắt giảm ngân sách" và họ "không còn đủ màu xanh".<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></dd></dl>
 
-<dl><dd>In the films, Glamdring is depicted as a longsword-type weapon. It has a straight, double-edged blade with a very short ricasso right above the crossguard. The crossguard&#39;s prongs flare upwards, and the center of the guard houses a decorative blue gem. The sword&#39;s grip is wrapped in blue, and the pommel is elongated, broadening at the bottom. The rune inscription is engraved in the cross-guard, and adds power to the sword. With this extra power Gandalf was able to defeat <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a>.<sup id="cite_ref-lotrwaw_22-0" class="reference"><a href="#cite_note-lotrwaw-22">[22]</a></sup> The actual inscription reads as thus:
-<dl><dd>&#34;<i>Turgon <a href="../A/Aran.md" title="Aran">aran</a> Gondolin tortha gar a matha i vegil Glamdring gûd daedheloth, dam an <a href="Glamhoth.md" title="Glamhoth">Glamhoth</a></i>&#34;.</dd></dl></dd>
-<dd>This is <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a>, and translates to &#34;Turgon, king of Gondolin, wields, has, and holds the sword Glamdring, Foe of Morgoth&#39;s realm, Hammer of the Orcs&#34;.<sup id="cite_ref-lotrwaw_22-1" class="reference"><a href="#cite_note-lotrwaw-22">[22]</a></sup></dd></dl>
+<dl><dd>Trong phim, Glamdring được miêu tả là một loại vũ khí trường kiếm. Nó có một lưỡi dao hai lưỡi thẳng với một lưỡi ricasso rất ngắn ngay phía trên tấm chắn ngang. Các ngạnh của tấm chắn chắn hướng lên trên và ở giữa tấm chắn có một viên ngọc trang trí màu xanh lam. Báng kiếm được bọc màu xanh lam, chuôi kiếm thon dài, mở rộng ở phía dưới. Dòng chữ rune được khắc trên tấm chắn chéo và tăng thêm sức mạnh cho thanh kiếm. Với sức mạnh bổ sung này Gandalf đã có thể đánh bại <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Tai Họa của Durin</a>.<sup id="cite_ref-lotrwaw_22-0" class="reference"><a href="#cite_note-lotrwaw-22">[22]</a></sup> Dòng chữ thực tế có nội dung như sau:
+<dl><dd>"<i>Turgon <a href="../A/Aran.md" title="Aran">aran</a> Gondolin tortha gar a matha i vegil Glamdring gûd daedheloth, dam an <a href="Glamhoth.md" title="Glamhoth">Glamhoth</a></i>".</dd></dl></dd>
+<dd>Đây là <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> và được dịch là "Turgon, vua của Gondolin, sử dụng, sở hữu và cầm thanh kiếm Glamdring, Kẻ thù của vương quốc Morgoth, Búa của Orc".<sup id="cite_ref-lotrwaw_22-1" class="reference"><a href="#cite_note-lotrwaw-22">[22]</a></sup></dd></dl>
 
 <b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 
-<dl><dd>Thorin finds several swords in the troll hoards and gives one to Gandalf. In Rivendell, Elrond identifies it as Glamdring, and in Goblin-town, the Great Goblin recognizes it as Beater. It has the same design as Glamdring in <i>The Lord of the Rings</i> films.</dd></dl>
+<dl><dd>Thorin tìm thấy một số thanh kiếm trong kho của quỷ lùn và đưa một thanh kiếm cho Gandalf. Trong Rivendell, Elrond xác định nó là Glamdring, và ở thị trấn Goblin, Great Goblin nhận ra nó là Beater. Nó có thiết kế giống như Glamdring trong phim <i>The Lord of the Rings</i>.</dd></dl>
 
 ### Loạt chương trình phát thanh {#Radio_series}
 
 <b>1968: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>The Hobbit</i> (loạt chương trình phát thanh năm 1968)</a>:</b>
 
-<dl><dd>Glamdring is found in the cave of the trolls, and later named by Elrond. Gandalf himself recounts how it was once borne by the King of Gondolin.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></dd></dl>
+<dl><dd>Glamdring được tìm thấy trong hang động của loài troll và sau đó được đặt tên bởi Elrond. Chính Gandalf kể lại chuyện đó đã từng được Vua của Gondolin gánh chịu như thế nào.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></dd></dl>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (1981 radio series)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
-<dl><dd>Glamdring is not named, and the presence of a sword is mentioned only once: when Gandalf has to surrender it to <a href="../H/Háma.md" title="Háma">Háma</a>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></dd></dl>
+<dl><dd>Glamdring không được đặt tên và sự hiện diện của thanh kiếm chỉ được nhắc đến một lần: khi Gandalf phải giao nộp nó cho <a href="../H/Háma.md" title="Háma">Háma</a>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></dd></dl>
 
 ### Trò chơi {#Games}
 
 <b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
 
-<dl><dd>Glamdring is an Elven longsword. It glows with pale light when enemies are near.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></dd></dl>
+<dl><dd>Glamdring là một thanh kiếm dài Tiên. Nó phát ra ánh sáng nhạt khi có kẻ địch ở gần.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></dd></dl>
 
 <b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
 
-<dl><dd>As this game focuses on Bilbo rather than the entire group, Glamdring is never named, and only appears once when Gandalf and the player (as Bilbo) have to wield off several goblins in the Misty Mountains.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> An alternative survival theory is also given: the caves in the Trollshaws were - according to <a href="Glóin.md" title="Glóin">Glóin</a> - dug by the <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> of <a href="../A/Angmar.md" title="Angmar">Angmar</a> during his reign in the region.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></dd></dl>
+<dl><dd>Vì trò chơi này tập trung vào Bilbo chứ không phải toàn bộ nhóm nên Glamdring không bao giờ được đặt tên và chỉ xuất hiện một lần khi Gandalf và người chơi (với tư cách là Bilbo) phải tiêu diệt vài con yêu tinh trong Dãy Núi Sương Mù.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> Một lý thuyết sinh tồn thay thế cũng được đưa ra: các hang động trong Trollshaws - theo <a href="Glóin.md" title="Glóin">Glóin</a> - được đào bởi <a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a> của <a href="../A/Angmar.md" title="Angmar">Angmar</a> trong triều đại của ông trong khu vực.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></dd></dl>
 
 <span></span>
 
@@ -306,12 +306,12 @@ Trong bản *Hobbit* đã xuất bản, không có lời giải thích nào cho 
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Weapons</a> in <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a>&#39;s <a href="../L/Legendarium.md" title="Legendarium">legendarium</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Vũ khí</a> trong <a href="../L/Legendarium.md" title="Legendarium">huyền thoại</a> của <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a></b>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"> <a href="../../category/A/Arrows.md" title="Category:Arrows">Arrows</a>:
 </th>
-<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Black arrow</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Red Arrow</a>
+<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Mũi tên đen</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Mũi tên đỏ</a>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/A/Axes.md" title="Category:Axes">Axes</a>:

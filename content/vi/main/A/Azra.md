@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/Azra"
 content_sha256: 710d295c5b620b41fcd1d306f1fade4b3d8cc8256bc0a92cb0e055b3b93ab5ac
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Adûnaic word"
+short_description: "Adûnaic từ"
 categories:
   - "Adûnaic words"
 hidden_categories:

@@ -38,7 +38,7 @@ infobox:
     value: "Profile"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sean_Bean.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fd/Sean_Bean.jpg/320px-Sean_Bean.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fd/Sean_Bean.jpg/480px-Sean_Bean.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fd/Sean_Bean.jpg/640px-Sean_Bean.jpg 2x" data-file-width="1500" data-file-height="1500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sean Bean</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/17_April.md" title="17 April">April 17</a>, <a href="../_/1959.md" title="1959">1959</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../B/Boromir.md" title="Boromir">Boromir</a> in:<br/><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0000293/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sean_Bean.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fd/Sean_Bean.jpg/320px-Sean_Bean.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fd/Sean_Bean.jpg/480px-Sean_Bean.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fd/Sean_Bean.jpg/640px-Sean_Bean.jpg 2x" data-file-width="1500" data-file-height="1500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sean Bean</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh–mất</th><td class="tg-infobox-data"><a href="../_/17_April.md" title="17 April">April 17</a>, <a href="../_/1959.md" title="1959">1959</a></td></tr><tr><th scope="row" class="tg-infobox-label">Do ... thủ vai</th><td class="tg-infobox-data"><a href="../B/Boromir.md" title="Boromir">Boromir</a> trong:<br/><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0000293/" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
 
 Diễn viên người Anh **Shaun Mark "Sean" Bean** (sinh [17 tháng 4](../_/17_April.md) [1959](../_/1959.md)) đã đóng [Boromir](../B/Boromir.md) trong [*The Lord of the Rings* loạt phim](<../T/The_Lord_of_the_Rings_(film_series).md>).
 
@@ -51,7 +51,7 @@ Anh cũng từng tham gia loạt phim <a class="extiw" href="http://en.wikipedia
 ## Trích dẫn {#Quotes}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Being human, he&#39;s more susceptible to the power of the Ring and is constantly having to the fight against it. He knows that it&#39;s got a strong draw on him, and throughout the journey, that keys preying on his mind.
+<p>Là con người, ông dễ bị ảnh hưởng bởi sức mạnh của Chiếc nhẫn hơn và liên tục phải chiến đấu chống lại nó. Ông biết rằng nó đã thu hút ông rất nhiều, và trong suốt cuộc hành trình, những chiếc chìa khóa đó luôn ám ảnh tâm trí ông.
 </p>
 <p class="tg-quote-footer"><cite>Sean Bean on Boromir, <i><a href="../T/The_Lord_of_the_Rings%253A_Official_Movie_Guide.md" title="The Lord of the Rings: Official Movie Guide">The Lord of the Rings: Official Movie Guide</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -59,17 +59,17 @@ Anh cũng từng tham gia loạt phim <a class="extiw" href="http://en.wikipedia
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Lord of the Rings was just so much enjoyment. It was over about the space of a year that I was filming. It&#39;s one of the most enjoyable things I&#39;ve ever done...so emotional.
 </p>
-<p class="tg-quote-footer"><cite>Sean Bean, compleatseanbean.com</cite></p>
+<p class="tg-quote-footer"><cite>Sean Bean, compleateanbean.com</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I&#39;m proud of Lord of the Rings, and I want to be there to tell people to go and see it, and get behind it. I think it&#39;s a once in a lifetime role, and a once in a lifetime film.
+<p>Tôi tự hào về Chúa tể những chiếc nhẫn và tôi muốn ở đó để nói với mọi người hãy đến xem và ủng hộ nó. Tôi nghĩ đó là vai diễn một lần trong đời và một bộ phim chỉ có một lần trong đời.
 </p>
-<p class="tg-quote-footer"><cite>Sean Bean, compleatseanbean.com</cite></p>
+<p class="tg-quote-footer"><cite>Sean Bean, compleateanbean.com</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I wasn&#39;t very keen on flying, so me and Orlando Bloom were driving from Wellington to Queensland. And there was a massive storm with mudslides so we got stuck and had to sort of shack up in this log cabin for a couple of days. It was quite pleasant actually, but the ironic thing is that the only way they could get us out was by helicopter. So after doing all that, I ended up in one. It was just terrible because it was swaying and just hearing the rotor blades go around makes me think, &#39;Oh shit.&#39; Orlando was sitting next to me, and he was fine, but I was gripping his kneecap.
+<p>Tôi không thích đi máy bay lắm nên tôi và Orlando Bloom lái xe từ Wellington đến Queensland. Và có một cơn bão lớn kèm theo lở đất nên chúng tôi bị mắc kẹt và phải ở trong căn nhà gỗ này vài ngày. Thực ra điều đó khá dễ chịu, nhưng điều trớ trêu là cách duy nhất họ có thể đưa chúng tôi ra ngoài là bằng trực thăng. Vì vậy, sau khi làm tất cả những điều đó, tôi đã kết thúc trong một. Nó thật khủng khiếp vì nó lắc lư và chỉ cần nghe thấy những cánh quạt quay xung quanh cũng khiến tôi nghĩ, 'Ôi chết tiệt.' Orlando đang ngồi cạnh tôi, ông vẫn ổn, nhưng tôi đang nắm chặt xương bánh chè của ông.
 </p>
 <p class="tg-quote-footer"><cite>Sean Bean, <a class="external text" href="http://archive.premiere.com/actors/2741/scene-stealer-silent-hills-sean-bean.html" rel="noreferrer noopener" target="_blank">Interview</a>.</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

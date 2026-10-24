@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Baggins_family"
 content_sha256: 692675b3caa3f614bb95f167de92b7cb6b74befe6a4267bf5c7221ed33c2f8a1
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Remarkable and Wealthy Hobbit clan from The Shire"
+short_description: "Gia tộc Hobbit đáng chú ý và giàu có từ The Shire"
 categories:
   - "Baggins"
   - "Hobbit families"
@@ -109,7 +109,7 @@ Tên Baggins được dịch trong hầu hết các bản dịch *[The Hobbit](.
 ## Cảm hứng {#Inspiration}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Intended to recall bag — cf. Bilbo’s conversation with Smaug in The H. [Chapter 12] — and meant to be associated (by hobbits) with Bag End...
+<p>Dự định thu hồi túi - cf. Cuộc trò chuyện của Bilbo với Smaug trong The H. [Chương 12] — và có nghĩa là được liên kết (bởi hobbit) với Bag End...
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md" title="Guide to the Names in The Lord of the Rings"><i>Nomenclature</i></a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

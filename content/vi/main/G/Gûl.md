@@ -27,9 +27,9 @@ sort_keys:
 
 Trong tiếng Sindarin, *gûl* ban đầu chỉ "kiến thức bí mật, các nghệ thuật"<sup id="cite_ref-WJC_4-1" class="reference"><a href="#cite_note-WJC-4">[4]</a></sup> hoặc "kiến thức uyên thâm hơn của những người 'thông thái' hoặc có kỹ năng".<sup id="cite_ref-PE1779_2-2" class="reference"><a href="#cite_note-PE1779-2">[2]</a></sup> Tuy nhiên, từ này dần gắn liền với các tà thuật hắc ám của [Morgoth](../M/Morgoth.md) (như trong từ ghép *[morgul](../M/Morgul.md)*).<sup id="cite_ref-WJC_4-2" class="reference"><a href="#cite_note-WJC-4">[4]</a></sup> Vì vậy, từ này cũng được chú giải là "kiến thức tà ác hoặc bị biến chất, thuật gọi hồn, ma thuật".<sup id="cite_ref-P4k_1-1" class="reference"><a href="#cite_note-P4k-1">[1]</a></sup>
 
-## Black Speech {#Black_Speech}
+## Hắc Ngữ {#Black_Speech}
 
-In the Black Speech, *gûl* (or *gūl*) is glossed as "([phantom](../P/Phantoms.md), shadow of dark [magic](../M/Magic.md), necromancer), slave, servant?", "[\[evil\] spirit](../D/Demons.md)". In *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, *gûl* is translated as "[wraiths](../W/Wraiths.md)" (as in *[Nazgûl](../N/Nazgûl.md)*, the Ringwraiths).<sup id="cite_ref-PE1779_2-3" class="reference"><a href="#cite_note-PE1779-2">[2]</a></sup>
+Trong Hắc Ngữ, *gûl* (hoặc *gūl*) được gọi là "([ma](../P/Phantoms.md), bóng tối [ma thuật](../M/Magic.md), thầy gọi hồn), nô lệ, người hầu?", "[\[ác\] linh hồn](../D/Demons.md)". Trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, *gûl* được dịch là "[bóng ma](../W/Wraiths.md)" (như trong *[Nazgûl](../N/Nazgûl.md)*, Nazgûl).<sup id="cite_ref-PE1779_2-3" class="reference"><a href="#cite_note-PE1779-2">[2]</a></sup>
 
 ## Các từ ghép {#Compounds}
 

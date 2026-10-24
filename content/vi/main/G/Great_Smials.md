@@ -38,9 +38,9 @@ Vào đêm trước [Trận Bywater](../B/Battle_of_Bywater.md), diễn ra trong
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Great Smials are located at the center of Tuckborough, with the current Thain residing inside the main hall and many other Tooks living in adjacent Hobbit holes. Players can visit Great Smials at two different points in Timeline: in October of <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3018.md" title="Third Age 3018">3018</a> during the peaceful time and later during Summer of <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a>, when the Shire is overrun by <a href="../S/Saruman.md" title="Saruman">Sharkey</a>&#39;s brigands. During the later encounter, the Tooks have barricaded themselves inside Smials, which are besieged by Brigands; the player(s) is given the task of thinning their ranks and slaying their leader, preventing the Ruffians from burning the Tooks out.</dd></dl>
+<dl><dd>The Great Smials nằm ở trung tâm Tuckborough, với Thain hiện tại cư trú bên trong sảnh chính và nhiều Tooks khác sống ở các lỗ Hobbit liền kề. Người chơi có thể ghé thăm Great Smials tại hai thời điểm khác nhau trong Dòng thời gian: vào tháng 10 của <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3018.md" title="Third Age 3018">3018</a> trong thời gian hòa bình và sau đó vào Mùa hè của <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a>, khi Shire bị bọn cướp của <a href="../S/Saruman.md" title="Saruman">Sharkey</a> tràn ngập. Trong cuộc chạm trán sau đó, Tooks đã tự rào chắn bên trong Smials, nơi đang bị Brigands bao vây; (những) người chơi được giao nhiệm vụ làm mỏng hàng ngũ của họ và tiêu diệt thủ lĩnh của họ, ngăn chặn Ruffians đốt cháy Tooks.</dd></dl>
 
 <span></span>
 

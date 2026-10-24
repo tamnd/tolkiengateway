@@ -36,7 +36,7 @@ infobox:
     value: "470"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/An_Introduction_to_Old_Norse_1957.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/26/An_Introduction_to_Old_Norse_1957.jpeg/320px-An_Introduction_to_Old_Norse_1957.jpeg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/26/An_Introduction_to_Old_Norse_1957.jpeg/480px-An_Introduction_to_Old_Norse_1957.jpeg 1.5x, https://tolkiengateway.net/w/images/2/26/An_Introduction_to_Old_Norse_1957.jpeg 2x" data-file-width="494" data-file-height="700"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>An Introduction to Old Norse</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../E/E.V._Gordon.md" title="E.V. Gordon">E.V. Gordon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Clarendon Press, Oxford</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1927.md" title="1927">1927</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">470</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/An_Introduction_to_Old_Norse_1957.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/26/An_Introduction_to_Old_Norse_1957.jpeg/320px-An_Introduction_to_Old_Norse_1957.jpeg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/26/An_Introduction_to_Old_Norse_1957.jpeg/480px-An_Introduction_to_Old_Norse_1957.jpeg 1.5x, https://tolkiengateway.net/w/images/2/26/An_Introduction_to_Old_Norse_1957.jpeg 2x" data-file-width="494" data-file-height="700"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>An Introduction to Old Norse</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../E/E.V._Gordon.md" title="E.V. Gordon">E.V. Gordon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Clarendon Press, Oxford</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/1927.md" title="1927">1927</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Bìa cứng</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">470</td></tr></tbody></table>
 
 <i><b>Giới thiệu về tiếng Bắc Âu cổ</b></i> là một cuốn sách giáo khoa được viết bởi [E.V. Gordon](../E/E.V._Gordon.md), xuất phát từ quá trình giảng dạy của ông tại [Đại học Leeds](../U/University_of_Leeds.md) và được xuất bản lần đầu trong [1927](../_/1927.md) trong Oxford tại Nhà xuất bản Clarendon. Ấn bản thứ hai được xuất bản trong [1957](../_/1957.md), được sửa đổi bởi A. R. Taylor.
 
@@ -45,8 +45,8 @@ Trong lời nói đầu, Gordon lưu ý rằng [J.R.R. Tolkien](../J/J.R.R._Tolk
 ## Từ bìa sau {#From_the_back_cover}
 
 <blockquote class="tg-quote noexcerpt">
-<p>A beginner who contemplates the study of this literature will be unwise if he neglects to possess himself of this book. In it he will find not only a representative selection of excerpts in prose and verse, but an adequate grammar and glossary, full notes of exactly the kind he needs, and a useful bibliography... The outstanding feature of this book is the introduction, the most illuminating piece of critical writing on its subject which we can remember to have read.<br/>Times Literary Supplement
-</p><p><br/><br/>This comprehensive book provides the student with everything he wants to get a good working knowledge of Old Norse.<br/>Notes and Queries
+<p>Một người mới bắt đầu suy ngẫm về việc nghiên cứu văn học này sẽ là thiếu khôn ngoan nếu ông lơ là việc sở hữu cuốn sách này. Trong đó, ông không chỉ tìm thấy tuyển tập các đoạn văn xuôi và thơ tiêu biểu mà còn có ngữ pháp và bảng chú giải đầy đủ, ghi chú đầy đủ đúng loại ông cần, và một thư mục hữu ích... Đặc điểm nổi bật của cuốn sách này là phần giới thiệu, phần viết phê bình rõ ràng nhất về chủ đề của nó mà chúng ta có thể nhớ đã đọc.<br/>Tạp chí văn học của Times
+</p><p><br/><br/>Cuốn sách toàn diện này cung cấp cho sinh viên mọi thứ họ mong muốn để có được kiến ​​thức làm việc tốt về tiếng Bắc Âu cổ.<br/>Ghi chú và Truy vấn
 </p>
 </blockquote>
 
@@ -56,14 +56,14 @@ Trong lời nói đầu, Gordon lưu ý rằng [J.R.R. Tolkien](../J/J.R.R._Tolk
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/B/Book_cover_questionable.jpeg.md" title="1927 first edition"><img alt="1927 first edition" src="https://tolkiengateway.net/w/images/thumb/c/c7/Book_cover_questionable.jpeg/106px-Book_cover_questionable.jpeg" decoding="async" loading="lazy" width="106" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c7/Book_cover_questionable.jpeg/159px-Book_cover_questionable.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c7/Book_cover_questionable.jpeg/212px-Book_cover_questionable.jpeg 2x" data-file-width="424" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1927 first edition
+<p>Ấn bản đầu tiên năm 1927
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/A/An_Introduction_to_Old_Norse_1957.jpeg.md" title="1957 second edition"><img alt="1957 second edition" src="https://tolkiengateway.net/w/images/thumb/2/26/An_Introduction_to_Old_Norse_1957.jpeg/88px-An_Introduction_to_Old_Norse_1957.jpeg" decoding="async" loading="lazy" width="88" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/26/An_Introduction_to_Old_Norse_1957.jpeg/133px-An_Introduction_to_Old_Norse_1957.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/2/26/An_Introduction_to_Old_Norse_1957.jpeg/176px-An_Introduction_to_Old_Norse_1957.jpeg 2x" data-file-width="494" data-file-height="700"/></a></span></div>
 			<div class="gallerytext">
-<p>1957 second edition
+<p>Tái bản lần thứ hai năm 1957
 </p>
 			</div>
 		</li>
@@ -88,14 +88,14 @@ Trong lời nói đầu, Gordon lưu ý rằng [J.R.R. Tolkien](../J/J.R.R._Tolk
 <td align="center" style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../S/Sir_Gawain_and_the_Green_Knight_(edition).md" title="Sir Gawain and the Green Knight (edition)">Sir Gawain and the Green Knight</a></i>
 </td></tr>
 <tr>
-<th align="center" style="font-size: 90%; background: var(--tg-color-surface-4); padding-right: 4px;" rowspan="3">With Tolkien&#39;s involvement
+<th align="center" style="font-size: 90%; background: var(--tg-color-surface-4); padding-right: 4px;" rowspan="3">Với sự tham gia của Tolkien
 </th>
-<th align="center" style="font-size: 90%; background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;" width="130px">Published during his lifetime
+<th align="center" style="font-size: 90%; background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;" width="130px">Xuất bản trong suốt cuộc đời của ông
 </th>
 <td align="center" style="font-size: 90%; padding-left: 4px;"><i><a class="mw-selflink selflink">An Introduction to Old Norse</a></i> ·<br/><i><a href="../T/The_Battle_of_Maldon_(E.V._Gordon).md" title="The Battle of Maldon (E.V. Gordon)">The Battle of Maldon</a></i>
 </td></tr>
 <tr>
-<th align="center" style="font-size: 90%; background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Published posthumously
+<th align="center" style="font-size: 90%; background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Được xuất bản sau khi chết
 </th>
 <td align="center" style="font-size: 90%; padding-left: 4px;"><i><a href="../P/Pearl_(E.V._Gordon).md" title="Pearl (E.V. Gordon)">Pearl</a></i> · <i><a href="../T/The_Seafarer_(I.L._Gordon).md" title="The Seafarer (I.L. Gordon)">The Seafarer</a></i>
 </td></tr></tbody></table>

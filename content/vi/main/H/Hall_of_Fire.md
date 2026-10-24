@@ -43,11 +43,11 @@ Khi [Samwise Gamgee](../S/Samwise_Gamgee.md) chiến đấu với [Shelob](../S/
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Hall_of_Fire.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7f/The_Lord_of_the_Rings_Online_-_Hall_of_Fire.jpg/300px-The_Lord_of_the_Rings_Online_-_Hall_of_Fire.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7f/The_Lord_of_the_Rings_Online_-_Hall_of_Fire.jpg/450px-The_Lord_of_the_Rings_Online_-_Hall_of_Fire.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7f/The_Lord_of_the_Rings_Online_-_Hall_of_Fire.jpg/600px-The_Lord_of_the_Rings_Online_-_Hall_of_Fire.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Hall of Fire in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Hall of Fire is found in the <a href="../R/Rivendell.md" title="Rivendell">Last Homely House</a> on the first floor. The hall is two stories tall and contains two long tables. On the opposite end of the door to the hall is a great fireplace flanked on both sides by smaller fireplaces. One can find <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> playing a <a href="../R/Riddle-game.md" title="Riddle-game">Riddle-game</a> with <a href="../L/Lindir.md" title="Lindir">Lindir</a>.</dd></dl>
+<dl><dd>Sảnh Lửa được tìm thấy trong <a href="../R/Rivendell.md" title="Rivendell">Ngôi nhà giản dị cuối cùng</a> ở tầng một. Hội trường cao hai tầng và có hai chiếc bàn dài. Ở đầu đối diện của cánh cửa dẫn vào hội trường là một lò sưởi lớn, hai bên là những lò sưởi nhỏ hơn. Người ta có thể thấy <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> đang chơi <a href="../R/Riddle-game.md" title="Riddle-game">Trò chơi đố vui</a> với <a href="../L/Lindir.md" title="Lindir">Lindir</a>.</dd></dl>
 
-## Fandom {#Fandom}
+## Cộng đồng người hâm mộ {#Fandom}
 
 Hall of Fire là một phòng trò chuyện hàng tuần do <a class="external text" href="http://theonering.net" rel="noreferrer noopener" target="_blank">TheOneRing.net</a> tổ chức tại irc.theonering.net trong kênh #thehalloffire.
 

@@ -141,7 +141,7 @@ Trong khoảnh khắc cuối cùng của tập phim, một con tàu vô danh và
 </td></tr>
 <tr>
 <td><a href="../O/Owain_Arthur.md" title="Owain Arthur">Owain Arthur</a></td>
-<td><a href="../D/Durin_IV.md" title="Durin IV">Prince Durin IV</a>
+<td><a href="../D/Durin_IV.md" title="Durin IV">Thân vương Durin IV</a>
 </td></tr>
 <tr>
 <td><a href="../D/Dylan_Smith.md" title="Dylan Smith">Dylan Smith</a></td>

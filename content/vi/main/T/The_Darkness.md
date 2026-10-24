@@ -26,24 +26,24 @@ images:
   - "Matt_Stewart_-_Gandalf_-_A_Light_in_the_Dark.jpg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--red"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/3/3f/CdxIconTableMergeCells.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Merge</div></div><div class="ext-floatingui-content">This page should be merged with <b><a class="mw-redirect" href="../D/Darkness.md" title="Darkness">Darkness</a></b>.<blockquote class="tg-quote noexcerpt">
-<p>One does not simply find a quote for the merge template.
+<div class="t-maintenance metadata t-maintenance--red"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/3/3f/CdxIconTableMergeCells.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Hợp nhất</div></div><div class="ext-floatingui-content">Trang này nên được hợp nhất với <b><a class="mw-redirect" href="../D/Darkness.md" title="Darkness">Bóng Tối</a></b>.<blockquote class="tg-quote noexcerpt">
+<p>Người ta không chỉ đơn giản tìm thấy một trích dẫn cho mẫu hợp nhất.
 </p>
 <p class="tg-quote-footer"><cite><a href="../B/Boromir.md" title="Boromir">Boromir</a></cite></p>
 </blockquote></div></div>
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Rewrite</div></div><div class="ext-floatingui-content">This article or section needs to be rewritten to comply with Tolkien Gateway&#39;s <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standards</a>...<blockquote class="tg-quote noexcerpt">
-<p>The wise will stay here and hope to rebuild our town...
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Viết lại</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được viết lại để tuân thủ <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn</a>...<blockquote class="tg-quote noexcerpt">
+<p>Những người khôn ngoan sẽ ở lại đây và hy vọng xây dựng lại thị trấn của chúng ta...
 </p>
-<p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a></cite></p>
+<p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Chủ nhân Thị trấn Hồ</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Darkness</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../D/Dark_(disambiguation).md" title="Dark (disambiguation)">Dark (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Bóng Tối</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../D/Dark_(disambiguation).md" title="Dark (disambiguation)">Tối (định hướng)</a></b>.</div></div>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matt_Stewart_-_Gandalf_-_A_Light_in_the_Dark.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/42/Matt_Stewart_-_Gandalf_-_A_Light_in_the_Dark.jpg/300px-Matt_Stewart_-_Gandalf_-_A_Light_in_the_Dark.jpg" decoding="async" loading="lazy" width="300" height="356" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/42/Matt_Stewart_-_Gandalf_-_A_Light_in_the_Dark.jpg/450px-Matt_Stewart_-_Gandalf_-_A_Light_in_the_Dark.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/42/Matt_Stewart_-_Gandalf_-_A_Light_in_the_Dark.jpg/600px-Matt_Stewart_-_Gandalf_-_A_Light_in_the_Dark.jpg 2x" data-file-width="1212" data-file-height="1440"/></a><figcaption><i>Gandalf - A Light in the Dark</i> by <a href="../M/Matt_Stewart.md" title="Matt Stewart">Matt Stewart</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>And darkness he [Melkor] used most in his evil works upon <a href="../A/Arda.md" title="Arda">Arda</a>, and filled it with fear for all living things.
+<p>Và bóng tối mà hắn [Melkor] sử dụng nhiều nhất trong các hành động xấu xa của mình <a href="../A/Arda.md" title="Arda">Arda</a>, và khiến nó tràn ngập nỗi sợ hãi đối với mọi sinh vật.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../V/Valaquenta.md" title="Valaquenta">Valaquenta</a></i>: Of the Enemies</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

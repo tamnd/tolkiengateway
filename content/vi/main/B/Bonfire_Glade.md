@@ -39,7 +39,7 @@ Cây cối đã tấn công [Hedge](../H/High_Hay.md) bảo vệ [Bucklanders](B
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Bonfire Glade is a prominent landmark in the Old Forest.</dd></dl>
+<dl><dd>Bonfire Glade là một địa danh nổi bật trong Khu Rừng Cổ.</dd></dl>
 
 <span></span>
 

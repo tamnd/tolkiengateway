@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Mythcon_5"
 content_sha256: 1df1bcb21edf9bd313c4d660e740affc71ec3d36e87e867cfedceabe95564ba9
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "1974 Mythopoeic Society conference"
+short_description: "Hội nghị của Hiệp hội Thần thoại năm 1974"
 categories:
   - "Mythcon"
 hidden_categories:
@@ -28,7 +28,7 @@ infobox:
     value: "Mythcon 6"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 5</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Scripps College, Claremont, California</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data">23-26 August <a href="../_/1974.md" title="1974">1974</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="Mythcon_4.md" title="Mythcon 4">Mythcon 4</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="Mythcon_6.md" title="Mythcon 6">Mythcon 6</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 5</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Scripps College, Claremont, California</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Hội Mythopoeic</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data">23-26 August <a href="../_/1974.md" title="1974">1974</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="Mythcon_4.md" title="Mythcon 4">Mythcon 4</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Mythcon_6.md" title="Mythcon 6">Mythcon 6</a></td></tr></tbody></table>
 
 **Mythcon 5** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ năm.
 

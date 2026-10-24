@@ -15,7 +15,7 @@ images:
   - "PP_banner.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/PP_banner.jpg.md"><img src="https://tolkiengateway.net/w/images/1/11/PP_banner.jpg" decoding="async" loading="lazy" width="200" height="283" class="mw-file-element" data-file-width="200" data-file-height="283"/></a><figcaption>Banner and logo of the GTS; the <a href="../T/Tengwar.md" title="Tengwar">tengwar</a> inscription reads &#34;Mellonath Tolchin Ellennin&#34;</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/PP_banner.jpg.md"><img src="https://tolkiengateway.net/w/images/1/11/PP_banner.jpg" decoding="async" loading="lazy" width="200" height="283" class="mw-file-element" data-file-width="200" data-file-height="283"/></a><figcaption>Biểu ngữ và logo của GTS; dòng chữ <a href="../T/Tengwar.md" title="Tengwar">tengwar</a> ghi "Mellonath Tolchin Ellennin"</figcaption></figure>
 
 **Ellinikós Sýllogos Philon Tólkin** (tiếng Hy Lạp: **Ελληνικός Σύλλογος Φίλων Τόλκιν**, *Greek Society of Tolkien Friends*), còn được gọi là **tiếng Hy Lạp Tolkien Society** và **The Prancing Pony**, là một [Tolkien Society](../T/Tolkien_Societies~67099.md) có trụ sở tại Hy Lạp.
 

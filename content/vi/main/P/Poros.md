@@ -61,7 +61,7 @@ Tuy nhiên, trong *[The Peoples of Middle-earth](../T/The_Peoples_of_Middle-eart
 
 <b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Though the main course if the Poros is not yet in-game, its in-flow into the <a href="../A/Anduin.md" title="Anduin">Anduin</a> can be observed near <a href="Pelargir.md" title="Pelargir">Pelargir</a>. It is known as &#34;Kaskûr&#34; to the people of <a href="../N/Near_Harad.md" title="Near Harad">Near Harad</a>.</dd></dl>
+<dl><dd>Mặc dù món chính nếu Poros chưa có trong trò chơi, nhưng dòng chảy vào <a href="../A/Anduin.md" title="Anduin">Anduin</a> của nó có thể được quan sát gần <a href="Pelargir.md" title="Pelargir">Pelargir</a>. Nó được người dân <a href="../N/Near_Harad.md" title="Near Harad">Near Harad</a> gọi là "Kaskûr".</dd></dl>
 
 <span></span>
 

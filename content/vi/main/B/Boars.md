@@ -31,7 +31,7 @@ langlinks:
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Boars are found in many places of Middle-earth, especially in the <a href="Bree-land.md" title="Bree-land">Bree-land</a>. They are typically not aggressive, but will fight if the player threatens them.</dd></dl>
+<dl><dd>Lợn rừng được tìm thấy ở nhiều nơi trong Trung Địa, đặc biệt là ở <a href="Bree-land.md" title="Bree-land">Bree-land</a>. Chúng thường không hung dữ nhưng sẽ đánh nhau nếu người chơi đe dọa chúng.</dd></dl>
 
 <span></span>
 

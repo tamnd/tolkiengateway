@@ -56,8 +56,8 @@ Trong Trận chiến của năm đội quân, quân tiếp viện của người
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Role</th>
-<th>Actor
+<th>Vai trò</th>
+<th>Diễn viên
 </th></tr>
 <tr>
 <td><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a></td>
@@ -73,7 +73,7 @@ Trong Trận chiến của năm đội quân, quân tiếp viện của người
 </td></tr>
 <tr>
 <td><a href="../T/Thorin_and_Company.md" title="Thorin and Company">Dwarves of <br/> Thorin&#39;s Company</a></td>
-<td>Boris Farkaš <br/> Marián Zednikovič <br/> Alfréd Swan <br/>  various (not specified)
+<td>Boris Farkaš <br/> Marián Zednikovič <br/> Alfréd Swan <br/> khác nhau (không xác định)
 </td></tr>
 <tr>
 <td><a class="mw-redirect" href="../W/William.md" title="William">William</a>, <a class="mw-redirect" href="../B/Bert.md" title="Bert">Bert</a> <br/> and <a class="mw-redirect mw-disambig" href="../T/Tom.md" title="Tom">Tom</a></td>
@@ -81,7 +81,7 @@ Trong Trận chiến của năm đội quân, quân tiếp viện của người
 </td></tr>
 <tr>
 <td><a href="../G/Great_Goblin.md" title="Great Goblin">Great Goblin</a></td>
-<td>uncredited actor <br/> (apparently Karol Čálik)
+<td>diễn viên không được công nhận <br/> (có vẻ là Karol Čálik)
 </td></tr>
 <tr>
 <td><a href="../G/Gollum.md" title="Gollum">Gollum</a></td>
@@ -100,7 +100,7 @@ Trong Trận chiến của năm đội quân, quân tiếp viện của người
 <td>Ivan Krivosudský
 </td></tr>
 <tr>
-<td>Additional voices <br/> and background voices</td>
+<td>Giọng nói bổ sung <br/> và giọng nói nền</td>
 <td>Peter Rúfus <br/> Vlado Černý <br/> Pavol Topoľský <br/> Maroš Kramár
 </td></tr></tbody></table>
 

@@ -31,7 +31,7 @@ infobox:
     value: "The Mountain King's Return"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Letmortal.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/df/Letmortal.jpg/320px-Letmortal.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/df/Letmortal.jpg/480px-Letmortal.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/df/Letmortal.jpg/640px-Letmortal.jpg 2x" data-file-width="1200" data-file-height="1200"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Our Foes Shall Fall</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../L/Let_Mortal_Heroes_Sing_Your_Fame.md" title="Let Mortal Heroes Sing Your Fame">Let Mortal Heroes Sing Your Fame</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Summoning</a></td></tr><tr><th scope="row" class="tg-infobox-label">Written by</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Summoning</a>, <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data">Summoning</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">7:01</td></tr><tr><th scope="row" class="tg-infobox-label">Track No.</th><td class="tg-infobox-data">4</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="../I/In_Hollow_Halls_Beneath_the_Fells.md" title="In Hollow Halls Beneath the Fells">In Hollow Halls Beneath the Fells</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="../T/The_Mountain_King&#39;s_Return_(song).md" title="The Mountain King&#39;s Return (song)">The Mountain King&#39;s Return</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/5t1yVhyyWj5btsY8AOTxXb"></iframe></span>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Letmortal.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/df/Letmortal.jpg/320px-Letmortal.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/df/Letmortal.jpg/480px-Letmortal.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/df/Letmortal.jpg/640px-Letmortal.jpg 2x" data-file-width="1200" data-file-height="1200"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Our Foes Shall Fall</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../L/Let_Mortal_Heroes_Sing_Your_Fame.md" title="Let Mortal Heroes Sing Your Fame">Hãy để những anh hùng phàm trần ca tụng vinh danh ngài</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Triệu hồi</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Summoning</a>, <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data">Triệu hồi</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">7:01</td></tr><tr><th scope="row" class="tg-infobox-label">Số thứ tự bản nhạc</th><td class="tg-infobox-data">4</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="../I/In_Hollow_Halls_Beneath_the_Fells.md" title="In Hollow Halls Beneath the Fells">In Hollow Halls Beneath the Fells</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="../T/The_Mountain_King&#39;s_Return_(song).md" title="The Mountain King&#39;s Return (song)">The Mountain King&#39;s Return</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Phương tiện truyền thông</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/5t1yVhyyWj5btsY8AOTxXb"></iframe></span>
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
@@ -40,25 +40,25 @@ infobox:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>The sword is sharp, the spear is long<br/>
-The arrow swift, the gate is strong<br/>
-The heart is bold that looks on gold<br/>
-The dwarves no more shall suffer wrong<br/>
+<p>Kiếm sắc, giáo dài<br/>
+Mũi tên bay nhanh, cổng vững chắc<br/>
+Tâm can đảm nhìn vàng<br/>
+Người Lùn sẽ không còn phải chịu đau khổ<br/>
 <br/>
-The mountain throne once more is freed<br/>
-O! Wandering fold, the summons heed<br/>
-Come haste! Come haste! Across the waste<br/>
-The king of friend and kin has need.<br/>
+Ngai vàng một lần nữa được giải phóng<br/>
+Ôi! Lang thang nếp gấp, tiếng gọi chú ý<br/>
+Hãy nhanh lên! Hãy nhanh lên! Bên kia bãi rác<br/>
+Vua bạn bè có nhu cầu.<br/>
 <br/>
-Now call we over mountains cold<br/>
-Come back unto the caverns old<br/>
-Here at the gates the king awaits<br/>
-His hands are rich with gems and gold<br/>
+Bây giờ hãy gọi chúng tôi vượt núi lạnh<br/>
+Hãy trở về hang động xưa<br/>
+Ở đây tại cổng nhà vua đang chờ<br/>
+Bàn tay anh đầy ngọc và vàng<br/>
 <br/>
-The king is come unto his hall<br/>
-Under the mountain dark and tall<br/>
-The worm of dread is slain and dead<br/>
-And ever so our foes shall fall
+Nhà vua đã đến điện<br/>
+Dưới núi tối cao<br/>
+Con sâu kinh hãi đã bị giết chết<br/>
+Và mãi mãi kẻ thù của chúng ta sẽ gục ngã
 </p>
 </div>
 

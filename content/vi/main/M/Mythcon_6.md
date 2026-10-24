@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Mythcon_6"
 content_sha256: 9f9e774c7af24b034d230075c2f4987857172146853d8b2272b4575b47bd2fe5
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "1975 Mythopoeic Society conference"
+short_description: "Hội nghị Hiệp hội Thần thoại năm 1975"
 categories:
   - "Mythcon"
 hidden_categories:
@@ -28,7 +28,7 @@ infobox:
     value: "Mythcon 7"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 6</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Scripps College, Claremont, California</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data">15-18 August <a href="../_/1975.md" title="1975">1975</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="Mythcon_5.md" title="Mythcon 5">Mythcon 5</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="Mythcon_7.md" title="Mythcon 7">Mythcon 7</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 6</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Scripps College, Claremont, California</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Hội Mythopoeic</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data">15-18 August <a href="../_/1975.md" title="1975">1975</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="Mythcon_5.md" title="Mythcon 5">Mythcon 5</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Mythcon_7.md" title="Mythcon 7">Mythcon 7</a></td></tr></tbody></table>
 
 **Mythcon 6** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ sáu.
 
