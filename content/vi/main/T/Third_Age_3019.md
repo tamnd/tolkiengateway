@@ -82,8 +82,8 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Tháng 4 {#April}
 
-- **6** - Cuộc họp của [Celeborn](../C/Celeborn.md) và [Thranduil](Thranduil.md).<sup id="cite_ref-AppB4_11-2" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
-- **8** - Những [Người mang nhẫn](../R/Ring-bearers.md) được vinh danh trên [Cánh đồng Cormallen](../F/Field_of_Cormallen.md).<sup id="cite_ref-AppB4_11-3" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
+- **6** - [Celeborn](../C/Celeborn.md) và [Thranduil](Thranduil.md) gặp nhau.<sup id="cite_ref-AppB4_11-2" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
+- **8** - Những [Người mang Nhẫn](../R/Ring-bearers.md) được vinh danh trên [Cánh đồng Cormallen](../F/Field_of_Cormallen.md).<sup id="cite_ref-AppB4_11-3" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
 
 ## Tháng 5 {#May}
 
@@ -100,7 +100,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## 1 [Linh hoạt](../L/Lithedays.md) {#1_Lithe}
 
-- [Arwen](../A/Arwen.md) đến [thành phố](../M/Minas_Tirith.md).<sup id="cite_ref-AppB4_11-11" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
+- [Arwen](../A/Arwen.md) đến [thành phố Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-AppB4_11-11" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
 
 <h2><span id="Midyear.27s_Day"></span><span class="mw-headline" id="Midyear&#39;s_Day"><a class="mw-redirect" href="../M/Midyear&#39;s_Day.md" title="Midyear&#39;s Day">Midyear&#39;s Day</a></span></h2>
 
@@ -108,32 +108,32 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Tháng 7 {#July}
 
-- **15** - [Arwen](../A/Arwen.md) nhường [Frodo](../F/Frodo_Baggins.md) vị trí của mình để đi vào Phương Tây.<sup id="cite_ref-Partings_12-0" class="reference"><a href="#cite_note-Partings-12">[11]</a></sup>
+- **15** - [Arwen](../A/Arwen.md) nhường cho [Frodo](../F/Frodo_Baggins.md) suất lên thuyền đi về Phương Tây.<sup id="cite_ref-Partings_12-0" class="reference"><a href="#cite_note-Partings-12">[11]</a></sup>
 - **18** - [Éomer](../_/Éomer.md) quay về [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-AppB4_11-13" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
-- **22** - Đoàn đưa tang Vua [Théoden](Théoden.md) xuất phát từ [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-AppB4_11-14" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
+- **22** - Đoàn đưa tang Vua [Théoden](Théoden.md) khởi hành từ [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-AppB4_11-14" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
 
 ## Tháng 8 {#August}
 
 - **7** - Đoàn hộ tống đến [Edoras](../E/Edoras.md).<sup id="cite_ref-AppB4_11-15" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
 - **10** - Tang lễ của [Théoden](Théoden.md).<sup id="cite_ref-AppB4_11-16" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
-- **14** - Khách nghỉ Vua [Éomer](../_/Éomer.md).<sup id="cite_ref-AppB4_11-17" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
-- **15** - [Treebeard](Treebeard.md) phát hành [Saruman](../S/Saruman.md) từ [Orthanc](../O/Orthanc.md).<sup id="cite_ref-Partings_12-1" class="reference"><a href="#cite_note-Partings-12">[11]</a></sup>
+- **14** - Các vị khách từ biệt Vua [Éomer](../_/Éomer.md).<sup id="cite_ref-AppB4_11-17" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
+- **15** - [Treebeard](Treebeard.md) thả [Saruman](../S/Saruman.md) khỏi [Orthanc](../O/Orthanc.md).<sup id="cite_ref-Partings_12-1" class="reference"><a href="#cite_note-Partings-12">[11]</a></sup>
 - **18** - Họ đến [Helm's Deep](../H/Helm's_Deep.md).<sup id="cite_ref-AppB4_11-18" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
-- **22** - Họ đến [Isengard](../I/Isengard.md), họ rời [Vua phương Tây](../K/King_of_the_West.md) vào lúc hoàng hôn.<sup id="cite_ref-AppB4_11-19" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
-- **28** - Họ vượt qua [Saruman](../S/Saruman.md); Saruman quay về phía [ Shire](The_Shire.md).<sup id="cite_ref-AppB4_11-20" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
+- **22** - Họ đến [Isengard](../I/Isengard.md), rồi từ biệt [Vua phương Tây](../K/King_of_the_West.md) lúc hoàng hôn.<sup id="cite_ref-AppB4_11-19" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
+- **28** - Họ đuổi kịp [Saruman](../S/Saruman.md); Saruman quay về phía [Shire](The_Shire.md).<sup id="cite_ref-AppB4_11-20" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
 
 ## tháng Chín {#September}
 
-- **6** - Họ dừng lại trước sự chứng kiến của [Dãy núi Moria](../M/Mountains_of_Moria.md).<sup id="cite_ref-AppB4_11-21" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
-- **13** - [Celeborn](../C/Celeborn.md) và [Galadriel](../G/Galadriel.md) khởi hành, những người còn lại lên đường [Rivendell](../R/Rivendell.md).<sup id="cite_ref-AppB4_11-22" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
-- **22** - Sinh nhật lần thứ một trăm hai mươi chín của [Bilbo](../B/Bilbo_Baggins.md). [Saruman](../S/Saruman.md) đến [ Shire](The_Shire.md).<sup id="cite_ref-AppB4_11-23" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
+- **6** - Họ dừng chân khi nhìn thấy [Dãy núi Moria](../M/Mountains_of_Moria.md).<sup id="cite_ref-AppB4_11-21" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
+- **13** - [Celeborn](../C/Celeborn.md) và [Galadriel](../G/Galadriel.md) khởi hành, những người còn lại lên đường đến [Rivendell](../R/Rivendell.md).<sup id="cite_ref-AppB4_11-22" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
+- **22** - Sinh nhật thứ 129 của [Bilbo](../B/Bilbo_Baggins.md). [Saruman](../S/Saruman.md) đến [Shire](The_Shire.md).<sup id="cite_ref-AppB4_11-23" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
 
 ## Tháng 10 {#October}
 
 - **5** - [Gandalf](../G/Gandalf.md), [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md), [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) rời khỏi [Rivendell](../R/Rivendell.md).<sup id="cite_ref-AppB4_11-24" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
-- **6** - Họ băng qua [Ford of Bruinen](../F/Ford_of_Bruinen.md); [Frodo](../F/Frodo_Baggins.md) cảm thấy cơn đau đầu tiên quay trở lại.<sup id="cite_ref-AppB4_11-25" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
+- **6** - Họ băng qua [Ford of Bruinen](../F/Ford_of_Bruinen.md); [Frodo](../F/Frodo_Baggins.md) cảm thấy cơn đau tái phát đầu tiên.<sup id="cite_ref-AppB4_11-25" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
 - **28** - Họ đến [Bree](../B/Bree.md) khi màn đêm buông xuống.<sup id="cite_ref-AppB4_11-26" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
-- **30** - Họ rời đi [Bree](../B/Bree.md). "Lữ khách" đến [Cầu Brandywine](../B/Brandywine_Bridge.md) khi trời tối. [Gandalf](../G/Gandalf.md) lên đường thăm [Tom Bombadil](Tom_Bombadil.md).<sup id="cite_ref-AppB4_11-27" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
+- **30** - Họ rời [Bree](../B/Bree.md). Nhóm "Lữ khách" đến [Cầu Brandywine](../B/Brandywine_Bridge.md) khi trời tối. [Gandalf](../G/Gandalf.md) lên đường thăm [Tom Bombadil](Tom_Bombadil.md).<sup id="cite_ref-AppB4_11-27" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
 
 ## Tháng 11 {#November}
 
@@ -144,12 +144,12 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Tháng 12 {#December}
 
-- Nhờ các kho hàng của Ruffians được phát hiện ở Michel Delving và [Scary](../S/Scary.md), Hobbit đã có một [Yule](../Y/Yule.md) đặc biệt vui vẻ.<sup id="cite_ref-havens_13-1" class="reference"><a href="#cite_note-havens-13">[12]</a></sup>
+- Nhờ số hàng hóa trong các kho của Ruffians được phát hiện tại Michel Delving và [Scary](../S/Scary.md), người Hobbit đã có một [Yule](../Y/Yule.md) đặc biệt vui vẻ.<sup id="cite_ref-havens_13-1" class="reference"><a href="#cite_note-havens-13">[12]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Ngày này dựa trên tham chiếu rằng Trận Dale kéo dài 3 ngày.</span>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Ngày này được xác định dựa trên thông tin cho biết Trận Dale kéo dài 3 ngày.</span>
 </li>
 </ol></div></span>
 
