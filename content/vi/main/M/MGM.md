@@ -15,7 +15,7 @@ images:
   - "MGM_-_logo.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/MGM_-_logo.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/07/MGM_-_logo.jpg/200px-MGM_-_logo.jpg" decoding="async" loading="lazy" width="200" height="113" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/0/07/MGM_-_logo.jpg 1.5x" data-file-width="300" data-file-height="169"/></a><figcaption>MGM&#39;s current logo</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/MGM_-_logo.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/07/MGM_-_logo.jpg/200px-MGM_-_logo.jpg" decoding="async" loading="lazy" width="200" height="113" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/0/07/MGM_-_logo.jpg 1.5x" data-file-width="300" data-file-height="169"/></a><figcaption>Logo hiện tại của MGM</figcaption></figure>
 
 **Metro-Goldwyn-Mayer Inc.** hay MGM, là một công ty điện ảnh.
 

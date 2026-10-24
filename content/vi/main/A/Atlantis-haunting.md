@@ -25,7 +25,7 @@ images:
 ## Lịch sử {#History}
 
 <blockquote class="tg-quote noexcerpt">
-<p>This legend or myth or dim memory of some ancient history has always troubled me. In sleep I had the dreadful dream of the ineluctable Wave, either coming out of the quiet sea, or coming in towering over the green inlands. It still occurs occasionally, though now exorcized by writing about it. It always ends by surrender, and I awake gasping out of deep water. I used to draw it or write bad poems about it.
+<p>Truyền thuyết, huyền thoại hay ký ức mờ nhạt về một lịch sử cổ xưa nào đó luôn khiến tôi lo lắng. Trong giấc ngủ, tôi có một giấc mơ khủng khiếp về Làn sóng không thể tránh khỏi, hoặc xuất phát từ vùng biển yên tĩnh, hoặc cao ngất ngưởng trên vùng đất liền xanh tươi. Nó thỉnh thoảng vẫn xảy ra, mặc dù bây giờ đã bị xua đuổi bằng cách viết về nó. Nó luôn kết thúc bằng sự đầu hàng, và tôi tỉnh dậy thở hổn hển sau làn nước sâu. Tôi đã từng vẽ nó hoặc viết những bài thơ dở về nó.
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../L/Letter_257.md" title="Letter 257">Letter 257</a></cite></p>
 </blockquote>

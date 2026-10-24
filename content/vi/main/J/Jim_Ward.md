@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Jim_Ward"
 content_sha256: 8df9ef98115966d03d2a6430293be961d3b2fc0631a4458d8943e1fc357e232f
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Voice actor"
+short_description: "Diễn viên lồng tiếng"
 categories:
   - "Actors and actresses"
   - "American people"

@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/Adûn"
 content_sha256: 108083d056317f5657f946c3ec9fcbc23bc6a15e650ca5a6b0b0ce60bcdb5b40
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Adûnaic word"
+short_description: "Adûnaic từ"
 categories:
   - "Adûnaic words"
 hidden_categories:

@@ -16,9 +16,9 @@ images:
   - "Mr._Bliss_(2004_film).jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Mr. Bliss</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Mr._Bliss_(disambiguation).md" title="Mr. Bliss (disambiguation)">Mr. Bliss (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Cái tên <b>Mr. Hạnh phúc</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Mr._Bliss_(disambiguation).md" title="Mr. Bliss (disambiguation)">Mr. Hạnh phúc (định hướng)</a></b>.</div></div>
 
-<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/M/Mr._Bliss_(2004_film).jpg.md"><img src="https://tolkiengateway.net/w/images/b/b0/Mr._Bliss_%282004_film%29.jpg" decoding="async" loading="lazy" width="126" height="170" class="mw-file-element" data-file-width="126" data-file-height="170"/></a><figcaption>Film cover</figcaption></figure>
+<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/M/Mr._Bliss_(2004_film).jpg.md"><img src="https://tolkiengateway.net/w/images/b/b0/Mr._Bliss_%282004_film%29.jpg" decoding="async" loading="lazy" width="126" height="170" class="mw-file-element" data-file-width="126" data-file-height="170"/></a><figcaption>Bìa phim</figcaption></figure>
 
 <i><b>Ông. Bliss</b></i> (Мистер Блисс) là [2004](../_/2004.md) chuyển thể bằng tiếng Nga từ câu chuyện [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) [cùng tên](Mr._Bliss.md) do "Tolkien Texts Translation" sản xuất. Bộ phim hoạt hình dài 33 phút và được kể lại bởi Dmitri Matveyev. Phong cách hoạt hình của bộ phim dựa chủ yếu vào những bức vẽ ban đầu của Tolkien về *Mr. Bliss* đã xuất hiện trong nhiều phiên bản khác nhau của câu chuyện. Phim được chiếu tại [Tolkien Thing](../T/Tolkien_Thing.md) 2006 và [Ring\*Con 2006](../R/Ring%252ACon_2006.md).
 
@@ -31,7 +31,7 @@ images:
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>-related fan films</b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b>phim của người hâm mộ liên quan đến <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2003</b>
@@ -46,7 +46,7 @@ images:
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2005</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../A/Almost_There_And_Back_Again.md" title="Almost There And Back Again">Almost There And Back Again</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../A/Almost_There_And_Back_Again.md" title="Almost There And Back Again">Gần đến nơi rồi lại trở về</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2007</b>
@@ -61,7 +61,7 @@ images:
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2011</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../W/Wings_Over_Arda%253A_The_First_Age.md" title="Wings Over Arda: The First Age">Wings Over Arda: The First Age</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../W/Wings_Over_Arda%253A_The_First_Age.md" title="Wings Over Arda: The First Age">Đôi cánh trên Arda: Kỷ Đệ Nhất</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2013</b>
@@ -71,7 +71,7 @@ images:
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2014</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../T/Tolkien&#39;s_Road.md" title="Tolkien&#39;s Road">Tolkien&#39;s Road</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../T/Tolkien&#39;s_Road.md" title="Tolkien&#39;s Road">Con đường của Tolkien</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2015</b>
@@ -86,7 +86,7 @@ images:
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2017</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Angbandin_Saarto&amp;action=edit&amp;redlink=1" title="Angbandin Saarto (page does not exist)">The Siege of Angband</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Angbandin_Saarto&amp;action=edit&amp;redlink=1" title="Angbandin Saarto (page does not exist)">Cuộc vây hãm Angband</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2018</b>
@@ -101,12 +101,12 @@ images:
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2020</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../H/Horn_of_Gondor_(fan_film).md" title="Horn of Gondor (fan film)">Horn of Gondor</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../H/Horn_of_Gondor_(fan_film).md" title="Horn of Gondor (fan film)">Tù và Gondor</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2022</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Battles_of_the_Fords_of_Isen_(fan_film)&amp;action=edit&amp;redlink=1" title="Battles of the Fords of Isen (fan film) (page does not exist)">Battles of the Fords of Isen</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Battles_of_the_Fords_of_Isen_(fan_film)&amp;action=edit&amp;redlink=1" title="Battles of the Fords of Isen (fan film) (page does not exist)">Các trận chiến tại khúc cạn Isen</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2024</b>
@@ -116,10 +116,10 @@ images:
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2025</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../T/The_Beacons.md" title="The Beacons">The Beacons</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../T/The_Beacons.md" title="The Beacons">Các đài hiệu</a></i>
 </td></tr>
 <tr>
-<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>Unknown</b>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>Không rõ</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../T/The_Legend_of_Gurthang.md" title="The Legend of Gurthang">The Legend of Gurthang</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../T/The_Legend_of_Gurthang.md" title="The Legend of Gurthang">Truyền thuyết về Gurthang</a></i>
 </td></tr></tbody></table>

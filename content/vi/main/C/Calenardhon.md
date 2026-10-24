@@ -63,10 +63,10 @@ Sau khi Éothéod định cư ở Calenardhon, vùng đất này được Gondor
 </tr>
 <tr>
 <td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/C/Calenardhon.mp3.md" title="File:Calenardhon.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
-<td style="text-align:center"><b><a href="../../file/C/Calenardhon.mp3.md" title="File:Calenardhon.mp3">File:Calenardhon.mp3</a></b></td>
+<td style="text-align:center"><b><a href="../../file/C/Calenardhon.mp3.md" title="File:Calenardhon.mp3">Tệp:Calenardhon.mp3</a></b></td>
 </tr>
 <tr>
-<td style="font-size: small; padding-bottom: 3px; text-align:center;">By <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Media help</a>)</td>
+<td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
 </tr>
 </tbody></table>
 </div>

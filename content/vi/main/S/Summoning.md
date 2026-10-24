@@ -37,7 +37,7 @@ infobox:
     value: "Trifixion; Pazuzu"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Summoning.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3d/Summoning.jpg/320px-Summoning.jpg" decoding="async" loading="lazy" width="320" height="282" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/3/3d/Summoning.jpg 1.5x" data-file-width="371" data-file-height="327"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Summoning</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Vienna, Austria</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Black_metal&amp;action=edit&amp;redlink=1" title="Black metal (page does not exist)">Black metal</a>, <a href="../T/Tolkien_metal.md" title="Tolkien metal">Tolkien metal</a></td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">1993-present</td></tr><tr><th scope="row" class="tg-infobox-label">label</th><td class="tg-infobox-data">Napalm Records</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">Protector<br/>Silenius</td></tr><tr><th scope="row" class="tg-infobox-label">Former Members</th><td class="tg-infobox-data">Trifixion<br/>Pazuzu</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Summoning.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3d/Summoning.jpg/320px-Summoning.jpg" decoding="async" loading="lazy" width="320" height="282" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/3/3d/Summoning.jpg 1.5x" data-file-width="371" data-file-height="327"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Ban nhạc</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Triệu hồi</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin nền</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nguồn gốc</th><td class="tg-infobox-data">Vienna, Austria</td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Black_metal&amp;action=edit&amp;redlink=1" title="Black metal (page does not exist)">Kim loại đen</a>, <a href="../T/Tolkien_metal.md" title="Tolkien metal">Tolkien kim loại</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thời gian hoạt động</th><td class="tg-infobox-data">1993-nay</td></tr><tr><th scope="row" class="tg-infobox-label">nhãn</th><td class="tg-infobox-data">Napalm Records</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thành viên</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thành viên hiện tại</th><td class="tg-infobox-data">Protector<br/>Silenius</td></tr><tr><th scope="row" class="tg-infobox-label">Cựu thành viên</th><td class="tg-infobox-data">Trifixion<br/>Pazuzu</td></tr></tbody></table>
 
 **Triệu hồi** là một ban nhạc black metal đậm chất sử thi/không khí của Áo, được thành lập vào năm [1993](../_/1993.md). Phong cách của họ được mô tả là "[Tolkien metal](../T/Tolkien_metal.md)", vì lời bài hát của hầu hết các bài hát của họ đều đề cập đến [Trung Địa](../M/Middle-earth.md). Ba album đầu tiên của họ được đặt tên theo thành trì của tà ác: "[Lugburz](<../L/Lugburz_(album).md>)" ([1995](../_/1995.md)), "[Minas Morgul](<../M/Minas_Morgul_(album).md>)" ([1996](../_/1996.md)) và "[Dol Guldur](<../D/Dol_Guldur_(album).md>)" ([1996](../_/1996.md)).
 
@@ -47,9 +47,9 @@ infobox:
 <tbody><tr>
 <td><b>Date of Release</b>
 </td>
-<td><b>Title</b>
+<td><b>Danh hiệu</b>
 </td>
-<td><b>Label</b>
+<td><b>Nhãn</b>
 </td></tr>
 <tr>
 <td><a href="../_/1995.md" title="1995">1995</a>
@@ -75,14 +75,14 @@ infobox:
 <tr>
 <td><a href="../_/1999.md" title="1999">1999</a>
 </td>
-<td><i><a href="Stronghold.md" title="Stronghold">Stronghold</a></i>
+<td><i><a href="Stronghold.md" title="Stronghold">Thành trì</a></i>
 </td>
 <td>Napalm Records
 </td></tr>
 <tr>
 <td><a href="../_/2001.md" title="2001">2001</a>
 </td>
-<td><i><a href="../L/Let_Mortal_Heroes_Sing_Your_Fame.md" title="Let Mortal Heroes Sing Your Fame">Let Mortal Heroes Sing Your Fame</a></i>
+<td><i><a href="../L/Let_Mortal_Heroes_Sing_Your_Fame.md" title="Let Mortal Heroes Sing Your Fame">Hãy để những anh hùng phàm trần ca tụng vinh danh ngài</a></i>
 </td>
 <td>Napalm Records
 </td></tr>

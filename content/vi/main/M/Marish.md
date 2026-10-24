@@ -59,7 +59,7 @@ Những [Shire-dân cư](../S/Shire-hobbits.md) ở vùng này thận trọng h�
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Marish forms the south-eastern endpoint of the in-game Shire region, as the <a href="../S/Southfarthing.md" title="Southfarthing">Southfarthing</a> is not present in the game.</dd></dl>
+<dl><dd>Marish tạo thành điểm cuối phía đông nam của khu vực Shire trong trò chơi, vì <a href="../S/Southfarthing.md" title="Southfarthing">Southfarthing</a> không có trong trò chơi.</dd></dl>
 
 ## Ghi chú {#Notes}
 

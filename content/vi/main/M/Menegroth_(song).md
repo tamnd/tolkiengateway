@@ -18,20 +18,20 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>A king there was in days of the old <br/>
-Ere men yet walked upon the mould <br/>
-His power was reared in caverns shade <br/>
-His hand was over glen and glade <br/>
+<p>Ngày xưa có một vị vua <br/>
+Ere đàn ông chưa đi theo khuôn mẫu <br/>
+Sức mạnh của ông được nuôi dưỡng trong bóng tối của hang động <br/>
+Bàn tay anh đã lướt qua Glen và Glade <br/>
 <br/>
-His shields were shining as the moon <br/>
-His lances keen of steel were hewn <br/>
-Of silver grey his crown was wrought <br/>
-The starlight in his banners caught <br/>
+Những chiếc khiên của anh sáng ngời như vầng trăng <br/>
+Những ngọn thương thép sắc bén của ông đã được đẽo <br/>
+Vương miện của ông được làm bằng màu xám bạc <br/>
+Ánh sao trên biểu ngữ của ông bắt gặp <br/>
 <br/>
-And silver thrilled his trumpets long <br/>
-Beneath the stars in challenge strong <br/>
-Enchantment did his realm enfold <br/>
-Where might and glory wealth untold <br/>
+Và bạc làm rung động kèn dài <br/>
+Dưới những vì sao thách thức mạnh mẽ <br/>
+Sự mê hoặc đã bao trùm vương quốc của anh <br/>
+Nơi mà sức mạnh và vinh quang giàu có chưa từng thấy <br/>
 </p>
 </div>
 

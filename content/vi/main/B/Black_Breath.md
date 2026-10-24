@@ -25,9 +25,9 @@ images:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>When the black breath blows<br/>and death&#39;s shadow grows<br/>and all lights pass,<br/>come athelas! come athelas!<br/>Life to the dying<br/>In the king&#39;s hand lying!<i></i>
+<p>Khi hơi thở đen thổi<br/>và bóng tối của cái chết lớn lên<br/>và tất cả ánh sáng vụt tắt,<br/>hãy đến với athelas! đến athelas!<br/>Sự sống cho người hấp hối<br/>Nằm trong tay nhà vua!<i></i>
 </p>
-<p class="tg-quote-footer"><cite>The <a href="../H/Herb-master.md" title="Herb-master">herb-master</a> in the <a href="../H/Houses_of_Healing.md" title="Houses of Healing">Houses of Healing</a>, quoting &#34;doggerel&#34; spoken by <a href="../I/Ioreth.md" title="Ioreth">Ioreth</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite><a href="../H/Herb-master.md" title="Herb-master">thầy thảo dược</a> trong <a href="../H/Houses_of_Healing.md" title="Houses of Healing">Houses of Healing</a>, trích dẫn "doggerel" được nói bởi <a href="../I/Ioreth.md" title="Ioreth">Ioreth</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Chris_Cold_-_The_Black_Breath.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/37/Chris_Cold_-_The_Black_Breath.jpg/250px-Chris_Cold_-_The_Black_Breath.jpg" decoding="async" loading="lazy" width="250" height="184" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/37/Chris_Cold_-_The_Black_Breath.jpg/375px-Chris_Cold_-_The_Black_Breath.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/37/Chris_Cold_-_The_Black_Breath.jpg/500px-Chris_Cold_-_The_Black_Breath.jpg 2x" data-file-width="1920" data-file-height="1411"/></a><figcaption>&#34;The Black Breath&#34; by <a href="../../category/I/Images_by_Chris_Cold.md" title="Category:Images by Chris Cold">Chris Cold</a></figcaption></figure>

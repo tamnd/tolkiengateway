@@ -15,8 +15,8 @@ images:
   - "Material_icon_-_Mop.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
-<p>I shan&#39;t call it the end, till we&#39;ve cleared up the mess.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>dọn dẹp</b> để phù hợp với <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn về chất lượng bài viết</a>.<blockquote class="tg-quote noexcerpt">
+<p>Tôi sẽ không coi đó là sự kết thúc cho đến khi chúng ta dọn dẹp được mớ hỗn độn này.
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
 </blockquote></div></div>
@@ -353,187 +353,187 @@ Bản thân - Tolkien nói về Elrond như một câu chuyện ngụ ngôn về
                                                     Letters, 235 (#181) 
 </pre>
 
-<ul><li>Shire – RC pg. 23, ribble valley?</li>
-<li>But none were more dangerous than the Great Willow: his heart was rotten, but his strength was green; and he was cunning, and a master of winds – wind in the willows</li>
-<li>But I suppose that the Quendi are in fact in these histories very little akin to the Elves and Fairies of Europe; and if I were pressed to rationalize, I should say that they represent really Men with greatly enhanced aesthetic and creative faculties, greater beauty and longer life, and nobility – the Elder Children, doomed to fade before the Followers (Men), and to live ultimately only by the thin line of their blood that was mingled with that of Men, among whom it was the only real claim to &#39;nobility&#39;.</li>
-<li>Orcs (the word is as far as I am concerned actually derived from Old English orc &#39;demon&#39;, but only because of its phonetic suitability) are nowhere clearly stated to be of any particular origin. But since they are servants of the Dark Power, and later of Sauron, neither of whom could, or would, produce living things, they must be &#39;corruptions&#39;. They are not based on direct experience of mine; but owe, I suppose, a good deal to the goblin tradition (goblin is used as a translation in The Hobbit, where orc only occurs once, I think), especially as it appears in George MacDonald, except for the soft feet which I never believed in.</li>
-<li>Westernesse – Rc pg. 16</li>
-<li>Bree, chetwood – RC pg.16</li>
-<li>Gondor – RC pg. 17-18</li>
-<li>Belfalas – RC pg. 18</li>
-<li>Lune – pg. 19</li>
-<li>Marcho, blanco – RC pg. 19</li>
-<li>Thain – RC pg. 21</li>
-<li>Sullong – RC pg. 23</li>
-<li>Orcs –RC pg. 24-26</li>
-<li>Michel delving (name) – RC pg. 26</li>
-<li>Mathom (name) – RC pg. 26</li>
-<li>Smial – RC pg. 27</li>
-<li>White downs – RC pg. 28</li>
-<li>March (name) – RC pg. 28</li>
-<li>“one could see the Sea from the top of that tower” – RC pg. 28-29</li>
-<li>”thatched with dry grass or straw, or roofed with turves” – RC pg. 29</li>
-<li>Brandybuck (name) – RC pg. 29</li>
-<li>Oldbuck (name) – RC pg. 29</li>
-<li>Herblore – RC pg. 30</li>
-<li>Tobold (name) – tobacco</li>
-<li>Hornblower – RC pg. 31, 760</li>
-<li>Isengrim – RC pg. 31</li>
-<li>Prancing pony (name) – RC pg. 31</li>
-<li>Prancing pony - <a class="external free" href="http://www.thepublican.com/story.asp?sectioncode=7&amp;storycode=53323" rel="noreferrer noopener" target="_blank">http://www.thepublican.com/story.asp?sectioncode=7&amp;storycode=53323</a></li>
-<li>Farthing – RC pg. 32</li>
-<li>Boffin (name) – RC pg. 33</li>
-<li>Norbury (name) – RC pg. 33</li>
-<li>Shire-moot – RC pg. 34</li>
-<li>Shirriff (name) – RC pg. 35</li>
-<li>§51 Barnabas is [added: not] an exception. Barnabas Butterbur was a Man of Bree, not a hobbit. I gave him this name for various reasons. First of all a personal one. On an old grey stone in a quiet churchyard in southern England I once saw in large letters the name Barnabas Butter. That was long ago and before I had seen the Red Book, but the name came back to me when the character of the stout innkeeper of Bree was presented to me in Frodo&#39;s record. The more so because his name, in agreement with the generally botanical type of name favoured in Bree, was actually Butterburr, or in the C.S. Zilbarāpha [&gt; Zilbirāpha]. Barnabas has unfortunately only a very slight phonetic similarity to the real first-name of the innkeeper: Barabatta (or Batti). This was the nickname of the landlord of &#39;The Pony&#39; which he had borne so long that if he ever had another given-name it had been forgotten: it means &#39;quick-talker or babbler&#39;. Still, in converting Batti Zilbarāpha [&gt; Zilbirāpha] into Barney Butterbur I do not think I have been unjust.</li>
+<ul><li>Shire – RC trang. 23, thung lũng sườn núi?</li>
+<li>Nhưng không có gì nguy hiểm hơn Cây liễu lớn: trái tim anh đã mục nát, nhưng sức mạnh của anh vẫn xanh; và ông là người xảo quyệt, và là bậc thầy về gió – gió trong rặng liễu</li>
+<li>Nhưng tôi cho rằng trên thực tế, Quendi trong những lịch sử này rất ít giống với Tiên tộc và các Nàng tiên của Châu Âu; và nếu buộc phải hợp lý hóa, tôi nên nói rằng họ thực sự đại diện cho Con Người khả năng thẩm mỹ và sáng tạo được nâng cao đáng kể, vẻ đẹp cao hơn, tuổi thọ cao hơn và sự cao quý – Những đứa con lớn tuổi, phải tàn lụi trước những Người theo sau (Con Người), và cuối cùng chỉ sống bằng dòng máu mỏng manh hòa quyện với dòng máu của Con Người, trong số đó, họ là thực sự duy nhất được coi là 'quý tộc'.</li>
+<li>Orc (theo như tôi nghĩ thì từ này thực ra có nguồn gốc từ tiếng Anh cổ orc 'quỷ', nhưng chỉ vì sự phù hợp về mặt ngữ âm của nó) không có nơi nào được nêu rõ ràng là có nguồn gốc cụ thể nào. Nhưng vì họ là đầy tớ của Thế lực Hắc ám, và sau này là của Sauron, cả hai đều không thể hoặc sẽ tạo ra sinh vật sống, nên họ phải là 'sự tham nhũng'. Chúng không dựa trên kinh nghiệm trực tiếp của tôi; nhưng tôi cho rằng, nợ rất nhiều với truyền thống yêu tinh (yêu tinh được dùng làm bản dịch trong The Hobbit, nơi mà tôi nghĩ rằng orc chỉ xuất hiện một lần), đặc biệt là khi nó xuất hiện trong George MacDonald, ngoại trừ đôi chân mềm mại mà tôi chưa bao giờ tin vào.</li>
+<li>Westernesse – Rc trang. 16</li>
+<li>Bree, gỗ chet – RC trang 16</li>
+<li>Gondor – RC trang. 17-18</li>
+<li>Belfalas – RC trang. 18</li>
+<li>Lune – tr. 19</li>
+<li>Marcho, trắng – RC trang. 19</li>
+<li>Thain – RC trang. 21</li>
+<li>Sullong – RC trang. 23</li>
+<li>Orc –RC trang. 24-26</li>
+<li>Michel đào sâu (tên) – RC pg. 26</li>
+<li>Mathom (tên) – RC trang. 26</li>
+<li>Cười – RC trang. 27</li>
+<li>Mụn trắng – RC trang. 28</li>
+<li>Tháng Ba (tên) – RC trang. 28</li>
+<li>“người ta có thể nhìn thấy Biển từ đỉnh tòa tháp đó” – RC pg. 28-29</li>
+<li>”được lợp bằng cỏ khô hoặc rơm rạ, hoặc lợp bằng mái tôn” – RC pg. 29</li>
+<li>Brandybuck (tên) – RC trang. 29</li>
+<li>Oldbuck (tên) – RC trang. 29</li>
+<li>Herblore – RC trang. 30</li>
+<li>Tobold (tên) – thuốc lá</li>
+<li>Người thổi còi – RC trang. 31, 760</li>
+<li>Isengrim – RC trang. 31</li>
+<li>Ngựa chồm (tên) – RC pg. 31</li>
+<li>Ngựa chồm lên - <a class="external free" href="http://www.thepublican.com/story.asp?sectioncode=7&amp;storycode=53323" rel="noreferrer noopener" target="_blank">http://www.thepublican.com/story.asp?sectioncode=7&amp;storycode=53323</a></li>
+<li>Xì hơi – RC trang. 32</li>
+<li>Boffin (tên) – RC trang. 33</li>
+<li>Norbury (tên) – RC trang. 33</li>
+<li>Shire-moot – RC trang. 34</li>
+<li>Shirriff (tên) – RC pg. 35</li>
+<li>§51 Barnabas [đã thêm: không] là một ngoại lệ. Barnabas Butterbur là Người của Bree, không phải hobbit. Tôi đặt cho ông cái tên này vì nhiều lý do. Trước hết là chuyện cá nhân. Trên một phiến đá cũ màu xám trong một sân nhà thờ yên tĩnh ở miền nam nước Anh, tôi đã từng nhìn thấy những dòng chữ lớn tên Barnabas Butter. Chuyện đó đã lâu rồi và trước khi tôi nhìn thấy Sách Đỏ, nhưng cái tên đó đã quay trở lại với tôi khi nhân vật chủ quán trọ mập mạp của Bree hiện ra với tôi trong hồ sơ của Frodo. Càng đúng hơn vì tên của ông, phù hợp với loại tên thực vật thường được ưa chuộng trong Bree, thực ra là Butterburr, hoặc trong C.S. Zilbarāpha [&gt; Zilbirāpha]. Thật không may, Barnabas chỉ có một chút tương đồng về mặt ngữ âm với tên thật của chủ quán trọ: Barabatta (hoặc Batti). Đây là biệt danh của ông chủ quán 'The Pony' mà ông đã đặt từ lâu đến nỗi nếu ông có một cái tên nào khác thì cũng bị quên mất: nó có nghĩa là 'kẻ nói nhanh hoặc người lảm nhảm'. Tuy nhiên, khi chuyển đổi Batti Zilbarāpha [&gt; Zilbirāpha] thành Barney Butterbur, tôi không nghĩ mình đã bất công.</li>
 <li>Gondor – Gondwanaland?</li>
-<li>Númenor – iceland?</li>
-<li>“only a feather in their caps” – RC pg. 35</li>
-<li>Bounders – RC pg. 35-36</li>
-<li>Gandalf (name) – RC pg. 36</li>
-<li>Thorin (name) – RC pg. 36</li>
-<li>Samwise – RC pg. 39</li>
-<li>The original red book has not been preserved – RC pg. 41</li>
-<li>Meriadoc, peregrin, pippin (names) – RC pg. 42</li>
-<li>Númenor (name) – RC pg. 42</li>
-<li>Sauron (name) – RC pg. 43</li>
-<li>Este – rest?</li>
-<li>A long expected party – RC pg. 52</li>
-<li>Baggins, bag end – AH p. 30-31, HotH p. 45-46</li>
-<li>bag end, bag end (name) - AH p. 29</li>
-<li>baggins (name), bag end (name) - HotH p. 45, toad of toad hall</li>
-<li>Eleventy-first – RC pg. 52</li>
-<li>The Hill – RC pg. 52</li>
-<li>Sackville – RC pg. 53</li>
+<li>Númenor – Iceland?</li>
+<li>“chỉ có một chiếc lông vũ trên mũ của họ” – RC pg. 35</li>
+<li>Ranh giới – RC trang. 35-36</li>
+<li>Gandalf (tên) – RC trang. 36</li>
+<li>Thorin (tên) – RC trang. 36</li>
+<li>Samwise – RC trang. 39</li>
+<li>Sổ đỏ gốc chưa bảo quản – RC pg. 41</li>
+<li>Meriadoc, peregrin, pippin (tên) – RC pg. 42</li>
+<li>Númenor (tên) – RC trang. 42</li>
+<li>Sauron (tên) – RC trang. 43</li>
+<li>Este – nghỉ ngơi?</li>
+<li>Một bữa tiệc được mong đợi từ lâu – RC pg. 52</li>
+<li>Baggins, đầu túi – AH p. 30-31, HotH tr. 45-46</li>
+<li>đầu túi, đầu túi (tên) - AH p. 29</li>
+<li>baggins (tên), cuối bao (tên) - HotH p. 45, cóc cóc đường</li>
+<li>Mười một mốt – RC trang. 52</li>
+<li>Ngọn đồi – RC trang. 52</li>
+<li>Sackville – RC trang. 53</li>
 <li>Sackville-baggins – RC p. 762</li>
-<li>Tweens – RC pg. 54</li>
-<li>Gerontius, old took – RC pg. 54, AH p. 34</li>
-<li>Hamfast – RC pg. 55</li>
-<li>Gamgee – RC pg. 55</li>
-<li>Holman – RC pg. 56</li>
-<li>Bagshot row – RC pg. 56</li>
-<li>Noakes – RC pg. 57</li>
-<li>Buckland – RC pg. 57-58</li>
-<li>Hobbit speech – RC 58-59</li>
-<li>Gorbadoc – RC pg. 59</li>
-<li>Miller – RC pg. 60</li>
-<li>Warren – RC pg. 60</li>
-<li>Gandalf – RC pg. 61-62, AH p. 36-39</li>
+<li>Thanh thiếu niên – RC trang. 54</li>
+<li>Gerontius, cũ đã lấy – RC pg. 54, AH tr. 34</li>
+<li>Hamfast – RC trang. 55</li>
+<li>Gamgee – RC trang. 55</li>
+<li>Holman – RC trang. 56</li>
+<li>Hàng ảnh chụp – RC trang. 56</li>
+<li>Noakes – RC trang. 57</li>
+<li>Buckland – RC trang. 57-58</li>
+<li>Hobbit phát biểu – RC 58-59</li>
+<li>Gorbadoc – RC trang. 59</li>
+<li>Miller – RC trang. 60</li>
+<li>Warren – RC trang. 60</li>
+<li>Gandalf – RC trang. 61-62, AH tr. 36-39</li>
 <li>bladorthin (proto-gandalf) - HotH p. 51</li>
-<li>Shire – RC pg. 64</li>
-<li>Gandalf’s fireworks – RC pg. 65 ?</li>
-<li>Took, grubb, chubb, burrows, bolger, Bracegirdle, brockhouse, goodbody, hornblower, proudfoot – RC pg. 66</li>
-<li>bolger (name) - HotH1 p. xiv ?</li>
-<li>Crackers – RC pg. 68</li>
-<li>Springle-ring – RC pg. 68</li>
-<li>Misty mountains – RC pg. 70</li>
-<li>The road goes ever on – RC pg. 71</li>
-<li>Saruman (name) – RC p. 81</li>
-<li>Sauron’s practice of giving rings – RC p. 84</li>
-<li>One ring – RC p. 38, 85, 88-89, The Magic Ring <a class="external free" href="http://www.valancourtbooks.com/themagicring.html" rel="noreferrer noopener" target="_blank">http://www.valancourtbooks.com/themagicring.html</a>, HotH p. 48</li>
+<li>Shire – RC trang. 64</li>
+<li>Pháo hoa của Gandalf– RC pg. 65 ?</li>
+<li>Took, grubb, chubb, burrows, bolger, Bracegirdle, brockhouse, goodbody, người thổi sừng, chân kiêu hãnh – RC pg. 66</li>
+<li>bolger (tên) - HotH1 p. xiv?</li>
+<li>Bánh quy giòn – RC trang. 68</li>
+<li>Vòng lò xo – RC trang. 68</li>
+<li>Núi mù sương – RC trang. 70</li>
+<li>Con đường vẫn tiếp tục – RC pg. 71</li>
+<li>Saruman (tên) – RC p. 81</li>
+<li>Sauron thực hành trao nhẫn – RC p. 84</li>
+<li>Một chiếc nhẫn – RC p. 38, 85, 88-89, Chiếc nhẫn ma thuật <a class="external free" href="http://www.valancourtbooks.com/themagicring.html" rel="noreferrer noopener" target="_blank">http://www.valancourtbooks.com/themagicring.html</a>, HotH p. 48</li>
 <li>Smeagol, deagol – RC p. 86</li>
-<li>Black country – <a class="external free" href="http://en.wikipedia.org/wiki/Black_Country" rel="noreferrer noopener" target="_blank">http://en.wikipedia.org/wiki/Black_Country</a></li>
-<li>Bounders – rc pg. 753-754</li>
-<li>Buckland – rc pg. 754</li>
-<li>Bracegirdle – rc pg. 754</li>
-<li>brandybuck – rc pg. 754</li>
-<li>chubb – rc pg. 755</li>
-<li>corsairs – rc pg. 755</li>
-<li>cotton – rc pg. 755</li>
+<li>Đất nước da đen – <a class="external free" href="http://en.wikipedia.org/wiki/Black_Country" rel="noreferrer noopener" target="_blank">http://en.wikipedia.org/wiki/Black_Country</a></li>
+<li>Ranh giới – RC trang. 753-754</li>
+<li>Buckland – RC trang. 754</li>
+<li>Niềng răng – RC pg. 754</li>
+<li>rượu mạnh – RC trang. 754</li>
+<li>chubb – RC trang. 755</li>
+<li>corsairs – RC trang. 755</li>
+<li>bông – RC trang. 755</li>
 <li><a class="external free" href="http://www.jitterbug.com/origins/lotr.html" rel="noreferrer noopener" target="_blank">http://www.jitterbug.com/origins/lotr.html</a></li>
-<li>tuor as a slave – kullervo as a slave</li>
-<li>entwives –
-<ul><li>Summer-daughter, magic maiden,</li>
-<li>Southern mother of the woodlands,</li>
-<li>Pine-tree daughter, Kateyatar,</li>
-<li>Pihlayatar, of the aspen,</li>
-<li>Alder-maiden, Tapio&#39;s daughter,</li>
-<li>Daughter of the glen, Millikki,</li>
-<li>And the mountain-maid, Tellervo,</li>
-<li>Of my herds be ye protectors,</li>
-<li>In kalevala</li></ul></li>
+<li>tuor làm nô lệ – kullervo làm nô lệ</li>
+<li>những người nội trợ –
+<ul><li>Con gái mùa hè, thiếu nữ phép thuật,</li>
+<li>Mẹ rừng phương Nam,</li>
+<li>Con gái cây thông, Kateyatar,</li>
+<li>Pihlayatar, của cây dương,</li>
+<li>Alder-maiden, con gái của Tapio,</li>
+<li>Con gái của Glen, Millikki,</li>
+<li>Và cô gái miền núi Tellervo,</li>
+<li>Trong bầy đàn của tôi, hãy là những người bảo vệ,</li>
+<li>ở Kalevala</li></ul></li>
 <li>Goldberry –
-<ul><li>Rise thou virgin of the valley,</li>
-<li>From the springs arise in beauty,</li>
-<li>Rise thou maiden of the fountain,</li>
-<li>Beautiful, arise in ether,</li>
-<li>In kalevala</li></ul></li>
+<ul><li>Hãy trỗi dậy hỡi trinh nữ của thung lũng,</li>
+<li>Từ những dòng suối phát sinh vẻ đẹp,</li>
+<li>Hãy trỗi dậy hỡi thiếu nữ của đài phun nước,</li>
+<li>Đẹp, phát sinh trong ether,</li>
+<li>ở Kalevala</li></ul></li>
 <li>Treebeard –
-<ul><li>Knippana [Kuippana], O King of forests,</li>
-<li>Thou the gray-beard of the woodlands,</li>
-<li>Watch thy dogs in fen and fallow,</li>
-<li>In kalevala</li></ul></li>
-<li>Maggot’s dogs –
-<ul><li>Only laid aside some cabbage,</li>
-<li>For the herdsman, Kullerwoinen;</li>
-<li>Set apart some wasted fragments,</li>
-<li>Leavings of the dogs at dinner,</li>
+<ul><li>Knippana [Kuippana], O Vua rừng,</li>
+<li>Hỡi người râu xám của rừng cây,</li>
+<li>Hãy canh chừng những con chó của bạn trong fen và bỏ hoang,</li>
+<li>ở Kalevala</li></ul></li>
+<li>Những con chó của Maggot –
+<ul><li>Chỉ để dành một ít bắp cải,</li>
+<li>Dành cho người chăn cừu Kullerwoinen;</li>
+<li>Hãy tách rời một số mảnh vụn lãng phí,</li>
+<li>Những con chó bỏ đi trong bữa tối,</li>
 <li class="mw-empty-elt"></li>
 <li>Silloin Ilmarin emäntä, paimenen pajattaessa,</li>
 <li>Kullervoisen kukkuessa, jo oli vuollut voivatinsa,</li>
-<li>itse rieskansa reväisnyt, kakkaransa kaivaellut;</li>
+<li>đó là rieskansa reväisnyt, kakkaransa kaivaellut;</li>
 <li>keittänyt vetisen vellin, kylmän kaalin Kullervolle,</li>
-<li>jos&#39; oli rakki rasvan syönyt, <b>Musti</b> murkinan pitänyt,</li>
+<li>jos' oli rakki rasvan syönyt, <b>Musti</b> murkinan pitänyt,</li>
 <li><b>Merkki</b> syönyt mielin määrin, <b>Halli</b> haukannut halunsa.</li>
-<li>In kalevala</li></ul></li>
+<li>ở Kalevala</li></ul></li>
 <li>Entwives – Eurydice ?</li>
-<li>Ents marching on isengard – birnam wood to dunsinane hill</li>
-<li>Incest of túrin and nienor – incest of kullervo and kalervo’s daughter in kalevala</li>
-<li>Nienor and lalaith – the two sisters of kullervo in kalevala</li>
-<li>Death of lalaith – death of most of kullervo’s kin in kalevala</li>
-<li>going out he lifted up his hand towards the North, crying: &#34;Marrer of Middle-earth, would that I might see thee face to face, and mar thee as my lord Fingolfin did!&#34; -
-<ul><li>These the words of Kullerwoinen:</li>
-<li>Wait, yea wait, thou Untamoinen,</li>
-<li>Thou destroyer of my people;</li>
-<li>When I meet thee in the combat,</li>
-<li>I will slay thee and thy kindred,</li>
-<li>I will burn thy homes to ashes!&#34;</li></ul></li>
-<li>Suicide of nienor – suicide of kullervo’s sister in kalevala</li>
-<li>Gurthang – kullervo’s sword in kalevala</li>
-<li>Suicide of túrin – suicide of kullervo in kalevala</li>
-<li>&#34;Hail Gurthang, iron of death, thou alone now remainest! But what lord or loy-alty dost thou know, save the hand that wieldeth thee? From no blood wilt thou shrink! Wilt thou take Túrin Turambar? Wilt thou slay me swiftly?&#34; - corresponding words in W.F. Kirby&#39;s Kalevala translation</li>
+<li>Ent hành quân trên Isengard – rừng birnam tới đồi dunsinane</li>
+<li>Loạn luân của túrin và nienor – loạn luân của kullervo và con gái của Kalervo ở Kalevala</li>
+<li>Nienor và lalaith – hai chị em của kullervo ở Kalevala</li>
+<li>Cái chết của Lalaith – cái chết của hầu hết họ hàng của Kullervo ở Kalevala</li>
+<li>đi ra ngoài giơ tay về phía Bắc, kêu lên: "Marrer của Trung Địa, ước gì tôi có thể nhìn thấy ngươi mặt đối mặt, và giết ngươi như chúa tể Fingolfin của tôi đã làm!" -
+<ul><li>Đây là những lời của Kullerwoinen:</li>
+<li>Đợi đã, phải đợi đã, Untamoinen,</li>
+<li>Ngươi là kẻ hủy diệt dân ta;</li>
+<li>Khi tôi gặp bạn trong trận chiến,</li>
+<li>Ta sẽ giết ngươi và đồng loại của ngươi,</li>
+<li>Ta sẽ đốt nhà của ngươi thành tro bụi!”</li></ul></li>
+<li>Vụ tự tử của nienor – vụ tự sát của chị gái Kullervo ở Kalevala</li>
+<li>Gurthang – thanh kiếm của kullervo ở kalevala</li>
+<li>Tự sát túrin – tự sát của kullervo ở Kalevala</li>
+<li>"Mưa đá Gurthang, sắt chết chóc, giờ chỉ còn lại một mình ngươi! Nhưng ngươi biết chúa tể hay lòng trung thành nào, ngoại trừ bàn tay đang nắm giữ ngươi? Không có máu, ngươi sẽ co lại! Ngươi có lấy Túrin Turambar không? Ngươi có giết ta nhanh chóng không?" - các từ tương ứng trong bản dịch Kalevala của W.F. Kirby</li>
 <li><a class="external free" href="http://web.archive.org/web/20060108125654/http://www.scandga.org/Insights/2001-02+Winter/Tolkien.htm" rel="noreferrer noopener" target="_blank">http://web.archive.org/web/20060108125654/http://www.scandga.org/Insights/2001-02+Winter/Tolkien.htm</a></li>
-<li>hegel and tolkien - <a class="external free" href="http://www.lotrplaza.com/forum/display_topic_threads.asp?ForumID=49&amp;TopicID=194948&amp;PagePosition=1&amp;PagePostPosition=1" rel="noreferrer noopener" target="_blank">http://www.lotrplaza.com/forum/display_topic_threads.asp?ForumID=49&amp;TopicID=194948&amp;PagePosition=1&amp;PagePostPosition=1</a></li>
-<li>nazgul - it remains remarkable that nasc is the word for &#39;ring&#39; in Gaelic [Irish; in Scottish usually written nasg]... I have no liking at all for *Gaelic from Old Irish downwards, as a language, but it is of course of great historical and philological interest, and I have at times studied it [With alas! very little success] ?</li>
-<li>annatar – finnish antaa, anna</li>
+<li>hegel và tolkien - <a class="external free" href="http://www.lotrplaza.com/forum/display_topic_threads.asp?ForumID=49&amp;TopicID=194948&amp;PagePosition=1&amp;PagePostPosition=1" rel="noreferrer noopener" target="_blank">http://www.lotrplaza.com/forum/display_topic_threads.asp?ForumID=49&amp;TopicID=194948&amp;PagePosition=1&amp;PagePostPosition=1</a></li>
+<li>nazgul - điều đáng chú ý là nasc là từ chỉ 'chiếc nhẫn' trong tiếng Gaelic [Ailen; trong tiếng Scotland thường được viết là nasg]... Tôi không hề thích *Gaelic từ tiếng Ireland cổ trở xuống, như một ngôn ngữ, nhưng tất nhiên nó có mối quan tâm lớn về mặt lịch sử và ngữ văn, và đôi khi tôi đã nghiên cứu nó [Với than ôi! rất ít thành công] ?</li>
+<li>annatar – antaa Phần Lan, anna</li>
 <li>valinor - Valhalla, <a class="external free" href="http://www.lotrplaza.com/forum/forum_posts.asp?TID=217644" rel="noreferrer noopener" target="_blank">http://www.lotrplaza.com/forum/forum_posts.asp?TID=217644</a></li>
-<li>arveduis ship - lemminkäinens ship</li>
-<li>gold and silver - gold and silver in kalevala</li>
-<li>gold, silver, sun, moon - rune 49 in kalevala</li>
-<li>narsil/andúril - the sword that is forged by ilmarinen for väinämöinen &amp; rune 45, 46 in kalevala</li>
-<li>the moon, the sun, stars - väinämöinen&#39;s sword</li>
-<li>nimrodel, goldberry, ulmo - rune 40 in kalevala</li>
+<li>tàu arveduis - tàu lemminkäinens</li>
+<li>vàng và bạc - vàng và bạc ở Kalevala</li>
+<li>vàng, bạc, mặt trời, mặt trăng - rune 49 ở Kalevala</li>
+<li>narsil/andúril - thanh kiếm được rèn bởi ilmarinen cho väinämöinen &amp; rune 45, 46 ở kalevala</li>
+<li>mặt trăng, mặt trời, các vì sao - thanh kiếm của väinämöinen</li>
+<li>nimrodel, goldberry, ulmo - rune 40 ở Kalevala</li>
 <li><a class="external free" href="http://www.minastirith.com/ubb/ultimatebb.php?ubb=get_topic;f=5;t=000109;p=1#000013" rel="noreferrer noopener" target="_blank">http://www.minastirith.com/ubb/ultimatebb.php?ubb=get_topic;f=5;t=000109;p=1#000013</a></li>
-<li>his boots were yellow - kullervo&#39;s blue socks</li>
-<li>entwife - tapio&#39;s wife ?</li>
-<li>ulmo - ahto in kalevala</li>
-<li>gandalf opening the gate of moria - väinämöinen opening the gate of pohja mountain in kalevala rune 42</li>
-<li>arkenstone - sampo in kalevala ?</li>
-<li>one ring, rings of power, galadriel&#39;s dust - sampo in rune 42, 43 in kalevala</li>
-<li>uinen - vellamo in kalevala</li>
-<li>silmaril - sampo in rune 39 in kalevala</li>
-<li>fimbrethil - birch in rune 44 in kalevala ?</li>
-<li>dark plague - 8 sons of louhis daughter bringing plague to väinö in rune 45 in kalevala</li>
-<li>carcharoth - bear coming to kalevala in rune 46 in kalevala</li>
-<li>silmaril in carcharoth - fish swallowing fish swallowing fish swallowing spark from ukko&#39;s sword in rune 47 in kalevala</li>
-<li>gandalf (or frodo) leaving ME - väinämöinen sailing away in rune 50 in kalevala</li>
-<li>straight road - väinämöinen sailing away in rune 50 in kalevala</li>
-<li>gandalf - väinämöinen in kalevala</li>
-<li>mandos - tuoni in kalevala</li>
-<li>lúthien bringing back beren from mandos(?) - lemminkäinen&#39;s mother bringing back lemminkäinen from tuoni in kalevala</li>
-<li>elf-friend - RC p. 756</li>
-<li>fair folk - RC p. 757</li>
-<li>feanor - ilmarinen in kalevala</li>
-<li>feanor creating the silmarils and/or sauron creating the one ring - ilmarinen creating sampo in kalevala</li>
-<li>The effect of the Sampo is like that of the One Ring, which causes moral corruption and fierce war.</li>
+<li>đôi bốt của ông màu vàng - đôi tất màu xanh của kullervo</li>
+<li>vợ của tapio - vợ của khoai mì?</li>
+<li>ulmo - ahto ở Kalevala</li>
+<li>gandalf mở cổng moria - väinämöinen mở cổng núi pohja ở Kalevala rune 42</li>
+<li>arkenstone - sampo ở Kalevala ?</li>
+<li>một chiếc nhẫn, những chiếc nhẫn quyền lực, bụi của galadriel - sampo trong rune 42, 43 trong kalevala</li>
+<li>uinen - velamo ở cải xoăn</li>
+<li>silmaril - sampo trong rune 39 ở kavala</li>
+<li>fimbrethil - bạch dương trong rune 44 ở Kalevala ?</li>
+<li>bệnh dịch đen tối - 8 người con trai của con gái Louhis mang bệnh dịch đến väinö trong rune 45 ở Kalevala</li>
+<li>carcharoth - gấu đến Kalevala trong rune 46 ở Kalevala</li>
+<li>silmaril trong carcharoth - cá nuốt cá nuốt tia lửa từ thanh kiếm của ukko trong rune 47 ở kavala</li>
+<li>Gandalf (hoặc Frodo) rời ME - väinämöinen chèo thuyền đi trong rune 50 ở Kalevala</li>
+<li>đường thẳng - väinämöinen chèo thuyền đi bằng rune 50 ở Kalevala</li>
+<li>gandalf - väinämöinen ở cải xoăn</li>
+<li>mandos - tuoni ở cải xoăn</li>
+<li>thầmhien mang về beren từ mandos(?) - mẹ của lemminkäinen mang về lemminkäinen từ tuoni ở kavala</li>
+<li>Tiên-bạn - RC p. 756</li>
+<li>hội chợ dân gian - RC p. 757</li>
+<li>feanor - ilmarinen ở Kalevala</li>
+<li>feanor tạo ra những viên silmarils và/hoặc sauron tạo ra một chiếc nhẫn - ilmarinen tạo ra sampo ở Kalevala</li>
+<li>Tác dụng của Sampo giống như Nhẫn Chúa gây băng hoại đạo đức và chiến tranh khốc liệt.</li>
 <li><a class="external free" href="http://tolkiensarda.se/new/nummer/magsidor/art28_3.php" rel="noreferrer noopener" target="_blank">http://tolkiensarda.se/new/nummer/magsidor/art28_3.php</a></li>
 <li><a class="external free" href="http://www.theonering.net/features/notes/note8.html" rel="noreferrer noopener" target="_blank">http://www.theonering.net/features/notes/note8.html</a></li>
-<li>noldor – r from Swedish?</li>
-<li>Timpinen – finnish</li>
+<li>noldor – r từ tiếng Thụy Điển?</li>
+<li>Timpinen – Phần Lan</li>
 <li><a class="external free" href="http://www.birmingham.gov.uk/GenerateContent?CONTENT_ITEM_ID=42452&amp;CONTENT_ITEM_TYPE=0&amp;MENU_ID=13150" rel="noreferrer noopener" target="_blank">http://www.birmingham.gov.uk/GenerateContent?CONTENT_ITEM_ID=42452&amp;CONTENT_ITEM_TYPE=0&amp;MENU_ID=13150</a></li>
 <li><a class="external free" href="http://www.birmingham.gov.uk/GenerateContent?CONTENT_ITEM_ID=2668&amp;CONTENT_ITEM_TYPE=0&amp;MENU_ID=1765" rel="noreferrer noopener" target="_blank">http://www.birmingham.gov.uk/GenerateContent?CONTENT_ITEM_ID=2668&amp;CONTENT_ITEM_TYPE=0&amp;MENU_ID=1765</a></li>
-<li>”he was interested in roots and beginnings” – scholarship p. 30</li></ul>
+<li>”ông quan tâm đến nguồn gốc và sự khởi đầu” – học bổng p. 30</li></ul>
 
 Herb-master – học bổng p. 29
 

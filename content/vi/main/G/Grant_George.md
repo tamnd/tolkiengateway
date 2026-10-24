@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Grant_George"
 content_sha256: c7832925f13ec97d5ac9d691ce26aed066a97b462700caa9491ae6466ad2b1b9
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Voice actor"
+short_description: "Diễn viên lồng tiếng"
 categories:
   - "Actors and actresses"
   - "American people"

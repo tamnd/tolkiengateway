@@ -35,9 +35,9 @@ infobox:
     value: "186"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Pearl</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Pearl_(disambiguation).md" title="Pearl (disambiguation)">Pearl (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Pearl</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Pearl_(disambiguation).md" title="Pearl (disambiguation)">Pearl (định hướng)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Pearl_1953.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4d/Pearl_1953.jpg/317px-Pearl_1953.jpg" decoding="async" loading="lazy" width="317" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/4d/Pearl_1953.jpg 1.5x" data-file-width="330" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Pearl</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../E/E.V._Gordon.md" title="E.V. Gordon">E.V. Gordon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Clarendon Press, Oxford</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/11_June.md" title="11 June">June 11</a>, <a href="../_/1953.md" title="1953">1953</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">186</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Pearl_1953.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4d/Pearl_1953.jpg/317px-Pearl_1953.jpg" decoding="async" loading="lazy" width="317" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/4d/Pearl_1953.jpg 1.5x" data-file-width="330" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Pearl</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên</th><td class="tg-infobox-data"><a href="../E/E.V._Gordon.md" title="E.V. Gordon">E.V. Gordon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Clarendon Press, Oxford</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/11_June.md" title="11 June">June 11</a>, <a href="../_/1953.md" title="1953">1953</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Bìa cứng; bìa mềm</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">186</td></tr></tbody></table>
 
 <i><b>Pearl</b></i> là phiên bản của bản thảo [tiếng Anh trung cổ](../M/Middle_English.md) <i><a class="extiw" href="http://en.wikipedia.org/wiki/Pearl_(poem)" title="wikipedia:Pearl (poem)">Pearl</a></i>, được biên tập bởi [E.V. Gordon](../E/E.V._Gordon.md). Nó được xuất bản lần đầu tiên trong [1953](../_/1953.md).
 
@@ -48,7 +48,7 @@ Tuy nhiên, Tolkien đã đóng góp những ghi chú và chỉnh sửa cho cu�
 ## Từ nắp trong {#From_the_inside_flap}
 
 <blockquote class="tg-quote noexcerpt">
-<p>This is a new edition of the fourteenth century alliterative poem Pearl, which, though generally regarded as one of the greatest of medieval poems, has suffered neglect of late years, since earlier editions have long been out of print. The text is more conservative than in earlier editions. The introduction includes an analysis of the form and purpose of the poem, a discussion of the doctrinal theme and the symbolism, and a survey of the dialect. There are explanatory notes, a glossary with etymologies, linguistic appendixes, and a selected bibliography. Emphasis throughout is on the poem itself: more general controversial topics, and speculations, are avoided.
+<p>Đây là ấn bản mới của bài thơ ám chỉ Pearl thế kỷ 14, mặc dù thường được coi là một trong những bài thơ hay nhất thời Trung cổ, nhưng đã bị bỏ quên trong những năm gần đây, vì các ấn bản trước đó đã hết bản in từ lâu. Văn bản bảo thủ hơn so với các phiên bản trước. Phần giới thiệu bao gồm phân tích hình thức và mục đích của bài thơ, thảo luận về chủ đề giáo lý và biểu tượng, cũng như khảo sát về phương ngữ. Có ghi chú giải thích, bảng chú giải từ nguyên, phụ lục ngôn ngữ và thư mục chọn lọc. Điểm nhấn xuyên suốt là vào chính bài thơ: tránh những chủ đề gây tranh cãi tổng quát hơn và những suy đoán.
 </p>
 </blockquote>
 
@@ -58,21 +58,21 @@ Tuy nhiên, Tolkien đã đóng góp những ghi chú và chỉnh sửa cho cu�
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/P/Pearl_1953.jpg.md" title="1953 first edition"><img alt="1953 first edition" src="https://tolkiengateway.net/w/images/thumb/4/4d/Pearl_1953.jpg/82px-Pearl_1953.jpg" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4d/Pearl_1953.jpg/124px-Pearl_1953.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4d/Pearl_1953.jpg/165px-Pearl_1953.jpg 2x" data-file-width="330" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1953 first edition
+<p>Ấn bản đầu tiên năm 1953
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/P/Pearl_1966.gif.md" title="1966 first edition 4th impression"><img alt="1966 first edition 4th impression" src="https://tolkiengateway.net/w/images/thumb/d/d9/Pearl_1966.gif/81px-Pearl_1966.gif" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d9/Pearl_1966.gif/122px-Pearl_1966.gif 1.5x, https://tolkiengateway.net/w/images/thumb/d/d9/Pearl_1966.gif/163px-Pearl_1966.gif 2x" data-file-width="326" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1966 first edition 4th impression
+<p>Ấn bản lần thứ 4 năm 1966
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/P/Pearl_1980.gif.md" title="1980 paperback edition"><img alt="1980 paperback edition" src="https://tolkiengateway.net/w/images/thumb/8/8b/Pearl_1980.gif/79px-Pearl_1980.gif" decoding="async" loading="lazy" width="79" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8b/Pearl_1980.gif/119px-Pearl_1980.gif 1.5x, https://tolkiengateway.net/w/images/thumb/8/8b/Pearl_1980.gif/159px-Pearl_1980.gif 2x" data-file-width="318" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1980 paperback edition
+<p>Ấn bản bìa mềm năm 1980
 </p>
 			</div>
 		</li>
@@ -99,14 +99,14 @@ Tuy nhiên, Tolkien đã đóng góp những ghi chú và chỉnh sửa cho cu�
 <td align="center" style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../S/Sir_Gawain_and_the_Green_Knight_(edition).md" title="Sir Gawain and the Green Knight (edition)">Sir Gawain and the Green Knight</a></i>
 </td></tr>
 <tr>
-<th align="center" style="font-size: 90%; background: var(--tg-color-surface-4); padding-right: 4px;" rowspan="3">With Tolkien&#39;s involvement
+<th align="center" style="font-size: 90%; background: var(--tg-color-surface-4); padding-right: 4px;" rowspan="3">Với sự tham gia của Tolkien
 </th>
-<th align="center" style="font-size: 90%; background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;" width="130px">Published during his lifetime
+<th align="center" style="font-size: 90%; background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;" width="130px">Xuất bản trong suốt cuộc đời của ông
 </th>
 <td align="center" style="font-size: 90%; padding-left: 4px;"><i><a href="../A/An_Introduction_to_Old_Norse.md" title="An Introduction to Old Norse">An Introduction to Old Norse</a></i> ·<br/><i><a href="../T/The_Battle_of_Maldon_(E.V._Gordon).md" title="The Battle of Maldon (E.V. Gordon)">The Battle of Maldon</a></i>
 </td></tr>
 <tr>
-<th align="center" style="font-size: 90%; background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Published posthumously
+<th align="center" style="font-size: 90%; background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Được xuất bản sau khi chết
 </th>
 <td align="center" style="font-size: 90%; padding-left: 4px;"><i><a class="mw-selflink selflink">Pearl</a></i> · <i><a href="../T/The_Seafarer_(I.L._Gordon).md" title="The Seafarer (I.L. Gordon)">The Seafarer</a></i>
 </td></tr></tbody></table>

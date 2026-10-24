@@ -12,7 +12,7 @@ categories:
   - "Interviews"
 ---
 
-<dl><dd><i>The below article is of a chat session, the content should be preserved and not altered save for aesthetic reasons. The chat took place on April 16th, 2007 on irc.tolkiengateway.net for <a class="mw-redirect" href="../T/The_Children_of_Hurin_Release_Party.md" title="The Children of Hurin Release Party">The Children of Hurin Release Party</a>.</i></dd></dl>
+<dl><dd><i>Bài viết dưới đây là một buổi trò chuyện, nội dung cần được giữ nguyên và không được thay đổi lưu lại vì lý do thẩm mỹ. Cuộc trò chuyện diễn ra vào ngày 16 tháng 4 năm 2007 trên irc.tolkiengateway.net dành cho <a class="mw-redirect" href="../T/The_Children_of_Hurin_Release_Party.md" title="The Children of Hurin Release Party">Đảng Phát hành Những đứa trẻ của Hurin</a>.</i></dd></dl>
 
 <div class="poem">
 <p>&lt;Beren&gt;	ok can we call you John? or you prefer something else?<br/>

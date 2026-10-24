@@ -25,54 +25,54 @@ images:
   - "Ted_Nasmith_-_Fingolfin's_Wrath.jpg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
-<p>We have a long way to go, and there is time ahead for thought.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Chưa hoàn chỉnh</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này đang trong giai đoạn xây dựng ban đầu và không được coi là hoàn chỉnh hoặc thậm chí sắp hoàn thành.<blockquote class="tg-quote noexcerpt">
+<p>Chúng ta còn một chặng đường dài phía trước và vẫn còn thời gian để suy nghĩ.
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
 <table cellpadding="3" cellspacing="0" class="mw-collapsible mw-collapsed silmarillion-chapters" style="float:right; clear:right; margin:0 0 1em 1em; border:var(--tg-border-base); background-color:var(--tg-color-surface-2); border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5); border-top-left-radius:var(--tg-border-radius-large); border-top-right-radius:var(--tg-border-radius-large); padding:10px;"><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> chapters 
+<th style="background:var(--tg-color-surface-5); border-top-left-radius:var(--tg-border-radius-large); border-top-right-radius:var(--tg-border-radius-large); padding:10px;"><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> chương
 </th></tr>
 <tr>
 <td>
 <ol><li><a href="../A/Ainulindalë.md" title="Ainulindalë">Ainulindalë</a></li>
 <li><a href="../V/Valaquenta.md" title="Valaquenta">Valaquenta</a></li>
 <li><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a>
-<ol><li><a href="Of_the_Beginning_of_Days.md" title="Of the Beginning of Days">Of the Beginning of Days</a></li>
+<ol><li><a href="Of_the_Beginning_of_Days.md" title="Of the Beginning of Days">Về buổi đầu của thời gian</a></li>
 <li><a href="Of_Aulë_and_Yavanna.md" title="Of Aulë and Yavanna">Of Aulë and Yavanna</a></li>
-<li><a href="Of_the_Coming_of_the_Elves_and_the_Captivity_of_Melkor.md" title="Of the Coming of the Elves and the Captivity of Melkor">Of the Coming of the Elves</a></li>
+<li><a href="Of_the_Coming_of_the_Elves_and_the_Captivity_of_Melkor.md" title="Of the Coming of the Elves and the Captivity of Melkor">Về sự xuất hiện của Tiên tộc</a></li>
 <li><a href="Of_Thingol_and_Melian.md" title="Of Thingol and Melian">Of Thingol and Melian</a></li>
-<li><a href="Of_Eldamar_and_the_Princes_of_the_Eldalië.md" title="Of Eldamar and the Princes of the Eldalië">Of Eldamar</a></li>
+<li><a href="Of_Eldamar_and_the_Princes_of_the_Eldalië.md" title="Of Eldamar and the Princes of the Eldalië">Về Eldamar</a></li>
 <li><a href="Of_Fëanor_and_the_Unchaining_of_Melkor.md" title="Of Fëanor and the Unchaining of Melkor">Of Fëanor</a></li>
 <li><a href="Of_the_Silmarils_and_the_Unrest_of_the_Noldor.md" title="Of the Silmarils and the Unrest of the Noldor">Of the Silmarils</a></li>
-<li><a href="Of_the_Darkening_of_Valinor.md" title="Of the Darkening of Valinor">Of the Darkening of Valinor</a></li>
-<li><a href="Of_the_Flight_of_the_Noldor.md" title="Of the Flight of the Noldor">Of the Flight of the Noldor</a></li>
-<li><a href="Of_the_Sindar.md" title="Of the Sindar">Of the Sindar</a></li>
-<li><a href="Of_the_Sun_and_Moon_and_the_Hiding_of_Valinor.md" title="Of the Sun and Moon and the Hiding of Valinor">Of the Sun and Moon</a></li>
-<li><a href="Of_Men.md" title="Of Men">Of Men</a></li>
-<li><a href="Of_the_Return_of_the_Noldor.md" title="Of the Return of the Noldor">Of the Return of the Noldor</a></li>
-<li><a href="Of_Beleriand_and_its_Realms~31103.md" title="Of Beleriand and its Realms">Of Beleriand and its Realms</a></li>
-<li><a href="Of_the_Noldor_in_Beleriand.md" title="Of the Noldor in Beleriand">Of the Noldor in Beleriand</a></li>
+<li><a href="Of_the_Darkening_of_Valinor.md" title="Of the Darkening of Valinor">Về sự chìm vào bóng tối của Valinor</a></li>
+<li><a href="Of_the_Flight_of_the_Noldor.md" title="Of the Flight of the Noldor">Về cuộc tháo chạy của Noldor</a></li>
+<li><a href="Of_the_Sindar.md" title="Of the Sindar">Về Sindar</a></li>
+<li><a href="Of_the_Sun_and_Moon_and_the_Hiding_of_Valinor.md" title="Of the Sun and Moon and the Hiding of Valinor">Về Mặt Trời và Mặt Trăng</a></li>
+<li><a href="Of_Men.md" title="Of Men">Về Con Người</a></li>
+<li><a href="Of_the_Return_of_the_Noldor.md" title="Of the Return of the Noldor">Về sự trở lại của Noldor</a></li>
+<li><a href="Of_Beleriand_and_its_Realms~31103.md" title="Of Beleriand and its Realms">Về Beleriand và các vương quốc</a></li>
+<li><a href="Of_the_Noldor_in_Beleriand.md" title="Of the Noldor in Beleriand">Về Noldor ở Beleriand</a></li>
 <li><a href="Of_Maeglin.md" title="Of Maeglin">Of Maeglin</a></li>
-<li><a href="Of_the_Coming_of_Men_into_the_West.md" title="Of the Coming of Men into the West">Of the Coming of Men</a></li>
-<li><a class="mw-selflink selflink">Of the Ruin of Beleriand</a></li>
+<li><a href="Of_the_Coming_of_Men_into_the_West.md" title="Of the Coming of Men into the West">Về sự xuất hiện của Con Người</a></li>
+<li><a class="mw-selflink selflink">Về sự tàn phá Beleriand</a></li>
 <li><a href="Of_Beren_and_Lúthien.md" title="Of Beren and Lúthien">Of Beren and Lúthien</a></li>
-<li><a href="Of_the_Fifth_Battle%253A_Nirnaeth_Arnoediad.md" title="Of the Fifth Battle: Nirnaeth Arnoediad">Of the Fifth Battle</a></li>
+<li><a href="Of_the_Fifth_Battle%253A_Nirnaeth_Arnoediad.md" title="Of the Fifth Battle: Nirnaeth Arnoediad">Về trận chiến thứ năm</a></li>
 <li><a href="Of_Túrin_Turambar.md" title="Of Túrin Turambar">Of Túrin Turambar</a></li>
-<li><a href="Of_the_Ruin_of_Doriath.md" title="Of the Ruin of Doriath">Of the Ruin of Doriath</a></li>
-<li><a href="Of_Tuor_and_the_Fall_of_Gondolin.md" title="Of Tuor and the Fall of Gondolin">Of the Fall of Gondolin</a></li>
-<li><a href="Of_the_Voyage_of_Eärendil_and_the_War_of_Wrath.md" title="Of the Voyage of Eärendil and the War of Wrath">Of the Voyage of Eärendil</a></li></ol></li>
+<li><a href="Of_the_Ruin_of_Doriath.md" title="Of the Ruin of Doriath">Về sự sụp đổ của Doriath</a></li>
+<li><a href="Of_Tuor_and_the_Fall_of_Gondolin.md" title="Of Tuor and the Fall of Gondolin">Về Sự sụp đổ của Gondolin</a></li>
+<li><a href="Of_the_Voyage_of_Eärendil_and_the_War_of_Wrath.md" title="Of the Voyage of Eärendil and the War of Wrath">Về chuyến hải hành của Eärendil</a></li></ol></li>
 <li><a href="../A/Akallabêth.md" title="Akallabêth">Akallabêth</a></li>
-<li><a href="Of_the_Rings_of_Power_and_the_Third_Age.md" title="Of the Rings of Power and the Third Age">Of the Rings of Power</a></li></ol>
+<li><a href="Of_the_Rings_of_Power_and_the_Third_Age.md" title="Of the Rings of Power and the Third Age">Về Những Chiếc Nhẫn Quyền Năng</a></li></ol>
 </td></tr></tbody></table>
 
 **Về sự tàn phá của Beleriand và sự sụp đổ của Fingolfin** là chương thứ mười tám của phần *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)* trong *[The Silmarillion](../T/The_Silmarillion.md)*.
 
 ## Tóm tắt {#Synopsis}
 
-<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Fingolfin&#39;s_Wrath.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e4/Ted_Nasmith_-_Fingolfin%27s_Wrath.jpg/300px-Ted_Nasmith_-_Fingolfin%27s_Wrath.jpg" decoding="async" loading="lazy" width="300" height="465" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e4/Ted_Nasmith_-_Fingolfin%27s_Wrath.jpg/450px-Ted_Nasmith_-_Fingolfin%27s_Wrath.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e4/Ted_Nasmith_-_Fingolfin%27s_Wrath.jpg/600px-Ted_Nasmith_-_Fingolfin%27s_Wrath.jpg 2x" data-file-width="619" data-file-height="960"/></a><figcaption><i>Fingolfin&#39;s wrath</i> by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Fingolfin&#39;s_Wrath.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e4/Ted_Nasmith_-_Fingolfin%27s_Wrath.jpg/300px-Ted_Nasmith_-_Fingolfin%27s_Wrath.jpg" decoding="async" loading="lazy" width="300" height="465" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e4/Ted_Nasmith_-_Fingolfin%27s_Wrath.jpg/450px-Ted_Nasmith_-_Fingolfin%27s_Wrath.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e4/Ted_Nasmith_-_Fingolfin%27s_Wrath.jpg/600px-Ted_Nasmith_-_Fingolfin%27s_Wrath.jpg 2x" data-file-width="619" data-file-height="960"/></a><figcaption><i>Fingolfin&#39;s wrath</i> bởi <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
 Sau khi các bộ lạc của [Edain](../E/Edain.md) đã tiến vào [Beleriand](../B/Beleriand.md) và củng cố lực lượng của [Noldor](../N/Noldor.md), [Fingolfin](../F/Fingolfin.md) bắt đầu cố gắng tập hợp Noldor và Edain cùng nhau tấn công pháo đài của [Morgoth](../M/Morgoth.md). Tuy nhiên, anh đã vấp phải sự phản kháng vì Noldor đã trở nên tự mãn, yêu thích vương quốc và quyền lực mới của mình. Họ cũng lo sợ trước cơn thịnh nộ của Morgoth, biết rằng ngay cả một chiến thắng cũng phải trả giá đắt.
 

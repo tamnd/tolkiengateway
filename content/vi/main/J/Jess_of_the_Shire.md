@@ -14,7 +14,7 @@ images:
   - "Part_Time_Hobbit_-_Logo.jpg"
 ---
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Part_Time_Hobbit_-_Logo.jpg.md"><img src="https://tolkiengateway.net/w/images/4/4b/Part_Time_Hobbit_-_Logo.jpg" decoding="async" loading="lazy" width="176" height="176" class="mw-file-element" data-file-width="176" data-file-height="176"/></a><figcaption>Channel avatar</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Part_Time_Hobbit_-_Logo.jpg.md"><img src="https://tolkiengateway.net/w/images/4/4b/Part_Time_Hobbit_-_Logo.jpg" decoding="async" loading="lazy" width="176" height="176" class="mw-file-element" data-file-width="176" data-file-height="176"/></a><figcaption>Hình đại diện kênh</figcaption></figure>
 
 **Jess của Shire**, trước đây gọi là **Bán thời gian Hobbit** là kênh YouTube do Jess chủ trì. Nội dung của cô xoay quanh [J.R.R. Tolkien](J.R.R._Tolkien.md) và các tác phẩm của anh, chủ yếu bao gồm <a class="extiw" href="http://en.wikipedia.org/wiki/Video_essay" title="wikipedia:Video essay">các bài luận video</a>.
 

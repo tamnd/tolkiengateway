@@ -20,7 +20,7 @@ images:
   - "Robin_Wood_-_Mathom_lore.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the object</b>. For the booklet called <i>Mathoms</i>, see <i><b><a href="../T/The_Hobbit_(booklet).md" title="The Hobbit (booklet)">The Hobbit (booklet)</a></b></i>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>đối tượng</b>. Đối với tập sách có tên <i>Mathoms</i>, xem <i><b><a href="../T/The_Hobbit_(booklet).md" title="The Hobbit (booklet)">The Hobbit (booklet)</a></b></i>.</div></div>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Robin_Wood_-_Mathom_lore.jpg.md"><img src="https://tolkiengateway.net/w/images/e/e6/Robin_Wood_-_Mathom_lore.jpg" decoding="async" loading="lazy" width="298" height="253" class="mw-file-element" data-file-width="298" data-file-height="253"/></a><figcaption><i>Mathom Lore</i> by Robin Wood</figcaption></figure>
 

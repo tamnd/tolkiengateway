@@ -48,7 +48,7 @@ Khi [Frodo](../F/Frodo_Baggins.md) và [những người hobbit du hành](../T/T
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The High Hay forms a perimeter all around <a href="../B/Buckland.md" title="Buckland">Buckland</a> with only two passages: the <a href="../B/Buckland_Gate.md" title="Buckland Gate">Buckland Gate</a> and tunnel leading into the <a href="../O/Old_Forest.md" title="Old Forest">Old Forest</a> itself.</dd></dl>
+<dl><dd>High Hay tạo thành một vành đai bao quanh <a href="../B/Buckland.md" title="Buckland">Buckland</a> chỉ có hai lối đi: <a href="../B/Buckland_Gate.md" title="Buckland Gate">Buckland Cổng</a> và đường hầm dẫn vào chính <a href="../O/Old_Forest.md" title="Old Forest">Khu Rừng Cổ</a>.</dd></dl>
 
 <span></span>
 

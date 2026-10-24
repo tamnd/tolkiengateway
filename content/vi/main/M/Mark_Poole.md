@@ -26,7 +26,7 @@ infobox:
     value: "Artist"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mark R. Poole</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/31_August.md" title="31 August">31 August</a> <a href="../_/1963.md" title="1963">1963</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mark R. Poole</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/31_August.md" title="31 August">31 August</a> <a href="../_/1963.md" title="1963">1963</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nghệ sĩ</td></tr></tbody></table>
 
 **Mark Poole** (sinh [31 tháng 8](../_/31_August.md) [1963](../_/1963.md)) là một nghệ sĩ giả tưởng người Mỹ.<sup id="cite_ref-CCGA_1-0" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup> Anh được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ký hợp đồng tạo tác phẩm nghệ thuật cho *[Middle-earth Collectible Card Game](Middle-earth_Collectible_Card_Game.md)*.
 

@@ -25,7 +25,7 @@ infobox:
     value: "TBA in:; The Lord of the Rings: The Rings of Power"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Tanya Moodie</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/16_April.md" title="16 April">16 April</a> <a href="../_/1972.md" title="1972">1972</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data">TBA in:<br/><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Tanya Moodie</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh–mất</th><td class="tg-infobox-data"><a href="../_/16_April.md" title="16 April">16 April</a> <a href="../_/1972.md" title="1972">1972</a></td></tr><tr><th scope="row" class="tg-infobox-label">Do ... thủ vai</th><td class="tg-infobox-data">TBA in:<br/><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i></td></tr></tbody></table>
 
 **Tanya Moodie** là diễn viên và nhà sản xuất người Anh gốc Canada. Cô sẽ thể hiện một vai diễn chưa được tiết lộ trong phần thứ hai của loạt phim *[The Lord of the Rings: The Rings of Power](The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* của [Amazon Studios](../A/Amazon_Studios.md).
 

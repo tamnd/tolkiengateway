@@ -18,7 +18,7 @@ langlinks:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>And though all the mighty elf-friends of old, <a href="../H/Hador.md" title="Hador">Hador</a>, and <a href="../H/Húrin.md" title="Húrin">Húrin</a>, and <a href="../T/Túrin.md" title="Túrin">Túrin</a>, and <a href="../B/Beren.md" title="Beren">Beren</a> himself were assembled together, your seat should be among them.
+<p>Và mặc dù tất cả những Tiên-những người bạn cũ hùng mạnh, <a href="../H/Hador.md" title="Hador">Hador</a>, <a href="../H/Húrin.md" title="Húrin">Húrin</a>, <a href="../T/Túrin.md" title="Túrin">Túrin</a> và chính <a href="../B/Beren.md" title="Beren">Beren</a> đều tập hợp lại với nhau, chỗ ngồi của bạn nên ở trong số đó.
 </p>
 <p class="tg-quote-footer"><cite>Elrond to Frodo Baggins<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

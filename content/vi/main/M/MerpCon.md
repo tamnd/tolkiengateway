@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/MerpCon"
 content_sha256: 87d13fd9e34d6d748a44601de5ffb1affac332f0dddb62be54c892c620cde846
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Annual role playing convention"
+short_description: "Hội nghị nhập vai hàng năm"
 categories:
   - "Conventions"
 hidden_categories:
@@ -27,7 +27,7 @@ MerpCon được thành lập bởi [Hawke Robinson](../H/Hawke_Robinson.md).
 
 <table style="margin:0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a class="mw-selflink selflink">MerpCon</a> events</b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b>sự kiện <a class="mw-selflink selflink">MerpCon</a></b>
 </td></tr>
 <tr>
 <td style="font-size: 90%" align="center"><a href="MerpCon_I.md" title="MerpCon I">MerpCon I</a> · <a href="MerpCon_II.md" title="MerpCon II">MerpCon II</a> · <a href="MerpCon_III.md" title="MerpCon III">MerpCon III</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=MerpCon_IV&amp;action=edit&amp;redlink=1" title="MerpCon IV (page does not exist)">MerpCon IV</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=MerpCon_V&amp;action=edit&amp;redlink=1" title="MerpCon V (page does not exist)">MerpCon V</a>

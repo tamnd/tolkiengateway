@@ -20,7 +20,7 @@ categories:
 Vào tháng 3 năm 2012, nó đã thu hút sự chú ý của quốc tế sau khi bị [Trung Địa Enterprises](../M/Middle-earth_Enterprises.md) cáo buộc vi phạm bản quyền.<sup id="cite_ref-BBC1_1-0" class="reference"><a href="#cite_note-BBC1-1">[1]</a></sup> Để đáp lại, một chiến dịch "Save The Hobbit" đã được thành lập.<sup id="cite_ref-FB1_2-0" class="reference"><a href="#cite_note-FB1-2">[2]</a></sup> Điều này đã thu hút sự chú ý của [*The Hobbit* (loạt phim)](<The_Hobbit_(film_series).md>) dàn diễn viên [Stephen Fry](../S/Stephen_Fry.md) và [Ian McKellen](../I/Ian_McKellen.md), cả hai đều chỉ trích hành động được thực hiện bởi [công ty của Saul Zaentz](../S/Saul_Zaentz.md).<sup id="cite_ref-BBC2_3-0" class="reference"><a href="#cite_note-BBC2-3">[3]</a></sup> Stephen Fry đã tweet:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Honestly, @savethehobbit, sometimes I&#39;m ashamed of the business I&#39;m in. What pointless, self-defeating bullying.
+<p>Thành thật mà nói, @savethehobbit, đôi khi tôi cảm thấy xấu hổ về công việc kinh doanh của mình. Thật là một hành vi bắt nạt vô nghĩa, tự chuốc lấy thất bại.
 </p>
 <p class="tg-quote-footer"><cite>Stephen Fry<sup id="cite_ref-Twitter1_4-0" class="reference"><a href="#cite_note-Twitter1-4">[4]</a></sup></cite></p>
 </blockquote>
@@ -28,7 +28,7 @@ Vào tháng 3 năm 2012, nó đã thu hút sự chú ý của quốc tế sau kh
 Trên trang web của mình, Ian McKellen nhận xét:
 
 <blockquote class="tg-quote noexcerpt">
-<p>With no apparent explanation they [Middle-earth Enterprises] are insisting that The Hobbit pub stop trading under that name. As if it were possible to control the way Tolkien and his characters have entered the culture. Did anyone try to ban &#34;Gandalf for President&#34; buttons? I wear mine with pride.
+<p>Không có lời giải thích rõ ràng, họ [Trung Địa Doanh nghiệp] nhất quyết yêu cầu The Hobbit pub ngừng giao dịch dưới tên đó. Như thể có thể kiểm soát được cách Tolkien và các nhân vật của ông bước vào văn hóa. Có ai thử cấm nút "Gandalf dành cho Tổng thống" chưa? Tôi mặc của tôi với niềm tự hào.
 </p>
 <p class="tg-quote-footer"><cite>Ian McKellen<sup id="cite_ref-IM1_5-0" class="reference"><a href="#cite_note-IM1-5">[5]</a></sup></cite></p>
 </blockquote>

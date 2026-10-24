@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Party_Field"
 content_sha256: 927bb59f654359468d2339b90e4e3e78a593f0a2989ef7e00da1323b4528f477
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Field in Hobbiton where Bilbo's party was held"
+short_description: "Cánh đồng ở Hobbiton nơi tổ chức bữa tiệc của Bilbo"
 categories:
   - "Fields, plains and deserts"
   - "The Shire"
@@ -48,7 +48,7 @@ Sau khi [Sharkey](../S/Sharkey.md) và [Ruffians](../R/Ruffians.md) của ông t
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Party Field and the Party Tree lie directly south from Bag End. It is a major place of activity for the game&#39;s various seasonal festivals and anniversary celebrations. During such events various games, dances, drinking challenges and riddle contest are taking place around the Party Tree.</dd></dl>
+<dl><dd>Party Field và Cây tiệc tùng nằm ngay phía nam từ Bag End. Đây là địa điểm hoạt động chính của các lễ hội theo mùa và lễ kỷ niệm khác nhau của trò chơi. Trong những sự kiện như vậy, nhiều trò chơi, điệu nhảy, thử thách uống rượu và cuộc thi giải đố đang diễn ra xung quanh Cây Tiệc tùng.</dd></dl>
 
 ## Ghi chú {#Notes}
 

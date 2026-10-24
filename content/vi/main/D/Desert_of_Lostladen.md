@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Desert_of_Lostladen"
 content_sha256: 09a19e9a84d722ece6edd086651301db2b64ebb650c7f4b3c5ec72f2c294e3f1
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Area south of Mordor"
+short_description: "Khu vực phía nam Mordor"
 categories:
   - "Southern lands"
   - "Fields, plains and deserts"

@@ -20,7 +20,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the Power, with the forenames Norman Sandiford, an acquaintance of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>. For the Power, with the forename Joseph, who encountered <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> in the 1950s, see <b><a href="../J/Joseph_Power.md" title="Joseph Power">Joseph Power</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này viết về <b>the Power, với tên Norman Sandiford, một người quen của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>. Đối với Quyền lực, với họ Joseph, người đã gặp <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> vào những năm 1950, xem <b><a href="../J/Joseph_Power.md" title="Joseph Power">Joseph Power</a></b>.</div></div>
 
 Canon<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> **Norman Sandiford Power** ([31 tháng 10](../_/31_October.md) [1916](../_/1916.md) - tháng 5 [1993](../_/1993.md)) nhận bằng B.A. tại Worcester College, [Oxford](../O/Oxford.md), vào năm 1938. Ông tiếp tục được liên kết với giáo xứ Ladywood ở [Birmingham](../B/Birmingham.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
@@ -29,7 +29,7 @@ Power đã tham dự bài phát biểu mời của [J.R.R. Tolkien](../J/J.R.R._
 Đến cuối đời Tolkien, họ nối lại liên lạc (ít nhất một lá thư được ghi lại, xem [Thư gửi Norman Power](../L/Letter_to_Norman_Power.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>):
 
 <blockquote class="tg-quote noexcerpt">
-<p>How strange that I had no further contact with Tolkien until the nineteen-seventies when I had already been Vicar of Ladywood for over twenty years. Tolkien began to write to me about his old homes, and then, with amazing kindness, about my own scribbling.
+<p>Thật kỳ lạ là tôi không còn liên lạc gì với Tolkien cho đến những năm 1970 khi tôi đã làm Đại diện của Ladywood được hơn hai mươi năm. Tolkien bắt đầu viết cho tôi về những ngôi nhà cũ của ông, và sau đó, với lòng tốt đáng kinh ngạc, về những nét nguệch ngoạc của chính tôi.
 </p>
 <p class="tg-quote-footer"><cite>Norman Power, <i><a href="../T/Tolkien_Centenary_Conference_1992.md" title="Tolkien Centenary Conference 1992">Tolkien Centenary Conference 1992</a></i></cite></p>
 </blockquote>

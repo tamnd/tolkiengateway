@@ -18,7 +18,7 @@ images:
   - "Duga.jpg"
 ---
 
-<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/D/Duga.jpg.md"><img src="https://tolkiengateway.net/w/images/8/80/Duga.jpg" decoding="async" loading="lazy" width="249" height="143" class="mw-file-element" data-file-width="249" data-file-height="143"/></a><figcaption>Bilbo Baggins or There and Back Again Bulgarian comic</figcaption></figure>
+<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/D/Duga.jpg.md"><img src="https://tolkiengateway.net/w/images/8/80/Duga.jpg" decoding="async" loading="lazy" width="249" height="143" class="mw-file-element" data-file-width="249" data-file-height="143"/></a><figcaption>Bilbo Baggins hoặc There and Back Again Truyện tranh Bungari</figcaption></figure>
 
 Tạp chí truyện tranh <i><b>Duga</b></i> (tiếng Bungari: **Дъга**, phát âm IPA: \[dɤga\]) là một tạp chí định kỳ của Bulgaria, được nhiều tác giả nước ngoài chuyển thể, bao gồm *Treasure Island* của Stevenson và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) của *[The Hobbit](../T/The_Hobbit.md)* và phần đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (số 25 đến số 42), trong số những vấn đề khác. Số đầu tiên của tạp chí được ra mắt vào ngày [1979](../_/1979.md).
 

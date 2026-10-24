@@ -23,7 +23,7 @@ images:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Francesco_Amadio_-_The_Crowning_of_Elessar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c0/Francesco_Amadio_-_The_Crowning_of_Elessar.jpg/300px-Francesco_Amadio_-_The_Crowning_of_Elessar.jpg" decoding="async" loading="lazy" width="300" height="449" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c0/Francesco_Amadio_-_The_Crowning_of_Elessar.jpg/450px-Francesco_Amadio_-_The_Crowning_of_Elessar.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c0/Francesco_Amadio_-_The_Crowning_of_Elessar.jpg/600px-Francesco_Amadio_-_The_Crowning_of_Elessar.jpg 2x" data-file-width="900" data-file-height="1346"/></a><figcaption><i>The Crowning of Elessar</i> by <a href="../../category/I/Images_by_Francesco_Amadio.md" title="Category:Images by Francesco Amadio">Francesco Amadio</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The time of the Elves is over, but our time is at hand: the world of Men, which we must rule.
+<p>Thời của Tiên tộc đã qua, nhưng thời của chúng ta đã đến gần: thế giới của Con Người mà chúng ta phải thống trị.
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Saruman.md" title="Saruman">Saruman</a> in <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Council_of_Elrond.md" title="The Council of Elrond">The Council of Elrond</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -33,7 +33,7 @@ images:
 ## Lịch sử {#History}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>These were the fading years of the Eldar. [...] they attempted nothing new, living in memory of the past. The Dwarves hid themselves in deep places, guarding their hoards.
+<p>Đây là những năm tàn lụi của Eldar. […] họ không cố gắng gì mới, sống trong ký ức về quá khứ. Người Lùn ẩn mình ở những nơi sâu, canh giữ kho báu của mình.
 </p>
 <p class="tg-quote-footer"><cite><i><a class="mw-redirect" href="../T/The_Tale_of_Years.md" title="The Tale of Years">The Tale of Years</a>: The Third Age</i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

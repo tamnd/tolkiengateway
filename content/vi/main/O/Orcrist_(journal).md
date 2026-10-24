@@ -19,7 +19,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the journal</b>. For the sword of <a href="../T/Thorin.md" title="Thorin">Thorin</a>, see <b><a href="Orcrist.md" title="Orcrist">Orcrist</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này viết về <b>tạp chí</b>. Về thanh kiếm <a href="../T/Thorin.md" title="Thorin">Thorin</a>, xem <b><a href="Orcrist.md" title="Orcrist">Orcrist</a></b>.</div></div>
 
 <i><b>Orcrist</b></i> là tạp chí của [Hiệp hội Tolkien Đại học Wisconsin](../U/University_of_Wisconsin_Tolkien_and_Fantasy_Society.md). Tạp chí xuất hiện không thường xuyên và không được xuất bản trong 40 năm từ [1977](../_/1977.md) đến [2017](../_/2017.md) và không có ấn phẩm nào kể từ đó. Tám số đã được xuất bản (số 3, 4 và 5 được xuất bản đồng thời với *[Tolkien Journal](../T/Tolkien_Journal.md)* số 11, 13 và 14 tương ứng).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

@@ -30,7 +30,7 @@ infobox:
     value: "England, UK"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>H.E. Riddett</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/1905.md" title="1905">1905</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="../_/1990.md" title="1990">1990</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">England, UK</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>H.E. Riddett</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/1905.md" title="1905">1905</a></td></tr><tr><th scope="row" class="tg-infobox-label">Qua đời</th><td class="tg-infobox-data"><a href="../_/1990.md" title="1990">1990</a></td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">England, UK</td></tr></tbody></table>
 
 **Harold Eric Riddett** ([1905](../_/1905.md)-[1990](../_/1990.md)), thường được gọi là **H.E. Riddett**, là một nghệ sĩ người Anh. Ông nổi tiếng vì đã bổ sung màu sắc cho nhiều bản đồ và bản vẽ đen trắng trong một số ấn phẩm [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) để lại, đáng chú ý nhất là trong nhiều ấn bản *[The Hobbit](../T/The_Hobbit.md)* và các ấn bản minh họa của *[The Silmarillion](../T/The_Silmarillion.md)*.
 

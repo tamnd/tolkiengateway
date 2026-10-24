@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/The_Hidden_Door:_Songs_in_the_Key_o
 content_sha256: 971e47e205219adf35370b8c70336503d6f4e76217d9fb6572ada7c7c7554185
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Music album by Ted Nasmith"
+short_description: "Album nhạc của Ted Nasmith"
 categories:
   - "Albums"
 hidden_categories:
@@ -25,7 +25,7 @@ infobox:
     value: "English"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hidden_Door_-_Songs_in_the_Key_of_Enchantment.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/67/The_Hidden_Door_-_Songs_in_the_Key_of_Enchantment.jpg/320px-The_Hidden_Door_-_Songs_in_the_Key_of_Enchantment.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/67/The_Hidden_Door_-_Songs_in_the_Key_of_Enchantment.jpg 1.5x" data-file-width="350" data-file-height="350"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Hidden Door: Songs in the Key of Enchantment</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">studio album by <br/><a href="Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Folk</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hidden_Door_-_Songs_in_the_Key_of_Enchantment.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/67/The_Hidden_Door_-_Songs_in_the_Key_of_Enchantment.jpg/320px-The_Hidden_Door_-_Songs_in_the_Key_of_Enchantment.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/67/The_Hidden_Door_-_Songs_in_the_Key_of_Enchantment.jpg 1.5x" data-file-width="350" data-file-height="350"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Hidden Door: Songs in the Key of Enchantment</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">album phòng thu của <br/><a href="Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Folk</td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr></tbody></table>
 
 <i><b>Cánh cửa ẩn: Những bài hát trong chìa khóa bùa mê</b></i> là album nhạc đầu tiên của nghệ sĩ [Ted Nasmith](Ted_Nasmith.md). Nó được phát hành vào năm [2007](../_/2007.md) với hình ảnh gốc do Nasmith tạo ra cho ảnh bìa.<sup id="cite_ref-BandCamp_1-0" class="reference"><a href="#cite_note-BandCamp-1">[1]</a></sup><sup id="cite_ref-HiddenDoorArt_2-0" class="reference"><a href="#cite_note-HiddenDoorArt-2">[2]</a></sup>
 
@@ -34,8 +34,8 @@ infobox:
 <table class="tracklist wikitable wikitable--stripe">
     <tbody><tr>
       <th class="tlheader" style="width: 20px; text-align: right;">#</th>
-      <th class="tlheader" style="width: 100%;">Title</th>
-      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Length</th>
+      <th class="tlheader" style="width: 100%;">Danh hiệu</th>
+      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Chiều dài</th>
     </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">1.</td>

@@ -54,6 +54,6 @@ Mục ban đầu trong *[Etymologies](../T/The_Etymologies.md)* có "**KYELEP-**
 <td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>The <a href="../S/Sundocarme.md" title="Sundocarme">Sundocarme</a> &#34;Metals&#34; Group</b>
 </td></tr>
 <tr>
-<td style="font-size: 90%;"> <b><a href="../A/ANGA~30450.md" title="ANGA">ANGA</a></b> (&#34;<a href="../I/Iron.md" title="Iron">iron</a>&#34;) · <b><a href="../U/URUN.md" title="URUN">URUN</a></b> (&#34;<a href="../C/Copper.md" title="Copper">copper</a>&#34;) · <b><a href="../M/MALAT.md" title="MALAT">MALAT</a></b> (&#34;<a href="../G/Gold.md" title="Gold">gold</a>&#34;) · <b><a class="mw-selflink selflink">KYELEP</a></b> (&#34;<a href="../S/Silver.md" title="Silver">silver</a>&#34;)
+<td style="font-size: 90%;"> <b><a href="../A/ANGA~30450.md" title="ANGA">ANGA</a></b> ("<a href="../I/Iron.md" title="Iron">sắt</a>") · <b><a href="../U/URUN.md" title="URUN">URUN</a></b> ("<a href="../C/Copper.md" title="Copper">đồng</a>") · <b><a href="../M/MALAT.md" title="MALAT">MALAT</a></b> ("<a href="../G/Gold.md" title="Gold">vàng</a>") · <b><a class="mw-selflink selflink">KYELEP</a></b> ("<a href="../S/Silver.md" title="Silver">bạc</a>")
 </td></tr>
 </tbody></table>

@@ -17,15 +17,15 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>It cannot be seen, cannot be felt, <br/>
-Cannot be heard, cannot be smelt.<br/>
+<p>Không thể nhìn thấy, không thể cảm nhận được, <br/>
+Không thể nghe, không thể ngửi.<br/>
 <br/>
-It lies behind stars and under hills,<br/>
-And empty holes it fills.<br/>
+Nó nằm sau những vì sao và dưới những ngọn đồi,<br/>
+Và lấp đầy những lỗ trống.<br/>
 <br/>
-It comes first and follows after, <br/>
-Ends life, kills laughter.<br/>
+Nó đến trước và theo sau, <br/>
+Kết thúc cuộc đời, giết chết tiếng cười.<br/>
 <br/>
-The answer is dark; the dark, dark.
+Câu trả lời là đen tối; bóng tối, bóng tối.
 </p>
 </div>

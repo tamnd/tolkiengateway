@@ -47,7 +47,7 @@ Nó cũng có thể được kích hoạt bởi các từ ghép
 
 ## Số nhiều {#Plural}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../S/Sindarin.md#Pluralization" title="Sindarin">Sindarin#Pluralization</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="../S/Sindarin.md#Pluralization" title="Sindarin">Sindarin#Pluralization</a></div></div>
 
 Đuôi số nhiều [Primitive Quendian](../P/Primitive_Quendian.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-%C4%AB&amp;action=edit&amp;redlink=1" title="-ī (page does not exist)">-ī</a></i> được giữ lại trong [Quenya](../Q/Quenya.md) và Old Sindarin. Ở giai đoạn sau, \**-i* ảnh hưởng đến các nguyên âm trước, đặc biệt là nguyên âm trước<sup id="cite_ref-ITE_3-0" class="reference"><a href="#cite_note-ITE-3">[3]</a></sup>
 

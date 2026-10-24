@@ -15,7 +15,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Weta</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../W/Weta_(disambiguation).md" title="Weta (disambiguation)">Weta (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Weta</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../W/Weta_(disambiguation).md" title="Weta (disambiguation)">Weta (định hướng)</a></b>.</div></div>
 
 **Sideshow Collectibles** là công ty chuyên sưu tầm các sản phẩm cao cấp như tượng polystone, tượng Premium Format, tượng 12 inch và có nhiều lĩnh vực mặt hàng đặc biệt. Sideshow có bộ sưu tập *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* sản phẩm rất lớn, tuy nhiên hầu hết dòng sản phẩm được tạo ra từ [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>) phim hiện không có sẵn.
 

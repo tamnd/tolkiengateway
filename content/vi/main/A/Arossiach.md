@@ -34,7 +34,7 @@ infobox:
     value: "Ford"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Ford</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Arossiach</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Fords of Aros</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">River <a href="Aros.md" title="Aros">Aros</a>, north of <a href="../D/Doriath.md" title="Doriath">Doriath</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Ford</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Khúc cạn</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Arossiach</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin chung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data">Fords of Aros</td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Sông <a href="Aros.md" title="Aros">Aros</a>, phía bắc <a href="../D/Doriath.md" title="Doriath">Doriath</a></td></tr><tr><th scope="row" class="tg-infobox-label">Loại</th><td class="tg-infobox-data">Khúc cạn</td></tr></tbody></table>
 
 **Arossiach**, **Cạnh cạn Aros**, là pháo đài ở thượng nguồn Sông [Aros](Aros.md), nơi con đường dài và nguy hiểm xuyên qua thung lũng [Nan Dungortheb](../N/Nan_Dungortheb.md) băng qua phía đông vào vùng đất [Đông Beleriand](../E/East_Beleriand.md).
 

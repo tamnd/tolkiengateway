@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/Other_Minds"
 content_sha256: ed6bb31c03a5835952e025bcf3255b547afe9bf46ec8bdbdb6467e7f97a46462
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Magazine about role-playing games set in Middle-earth"
+short_description: "Tạp chí về game nhập vai lấy bối cảnh Trung Địa"
 categories:
   - "Fanzines"
   - "Other Minds"
@@ -70,7 +70,7 @@ Trang web - <a class="external text" href="http://www.otherminds.net" rel="noref
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Tabletop gaming magazines</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Tạp chí chơi game trên máy tính bảng</b>
 </td></tr>
 <tr>
 <td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Roleplaying in Middle-earth</b>

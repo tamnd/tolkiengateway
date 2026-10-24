@@ -15,19 +15,19 @@ categories:
 ## Về Trung Địa {#Regarding_Middle-earth}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Bingo Bolger-Baggins is a bad name. Let Bingo&gt;<a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a>.
+<p>Bingo Bolger-Baggins là một cái tên tồi. Hãy chơi Bingo&gt;<a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a>.
 </p>
-<p class="tg-quote-footer"><cite>On the first draft of <i>The Lord of the Rings</i>, note, c.1938, <a href="../H/Humphrey_Carpenter.md" title="Humphrey Carpenter">Humphrey Carpenter</a>, <i><a href="J.R.R._Tolkien%253A_A_Biography.md" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a></i></cite></p>
+<p class="tg-quote-footer"><cite>Trên bản thảo đầu tiên của <i>The Lord of the Rings</i>, ghi chú, c.1938, <a href="../H/Humphrey_Carpenter.md" title="Humphrey Carpenter">Humphrey Carpenter</a>, <i><a href="J.R.R._Tolkien%253A_A_Biography.md" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a></i></cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>The stories were made rather to provide a world for the languages than the reverse. To me name comes first and the story follows.
+<p>Những câu chuyện được tạo ra nhằm cung cấp một thế giới cho các ngôn ngữ hơn là ngược lại. Đối với tôi cái tên đứng đầu và câu chuyện sẽ theo sau.
 </p>
-<p class="tg-quote-footer"><cite>Letter in the Observer newspaper, 23 Aug 1981</cite></p>
+<p class="tg-quote-footer"><cite>Thư trên báo Observer, ngày 23 tháng 8 năm 1981</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>The story is cast in terms of a good side, and a bad side, beauty against ruthless ugliness, tyranny against kingship, moderated freedom with consent against compulsion that has long lost any object save mere power, and so on; but both sides in some degree, conservative or destructive, want a measure of control. But if you have, as it were taken &#39;a vow of poverty&#39;, renounced control, and take your delight in things for themselves without reference to yourself, watching, observing, and to some extent knowing, then the question of the rights and wrongs of power and control might become utterly meaningless to you, and the means of power quite valueless.
+<p>Câu chuyện được xây dựng dựa trên mặt tốt và mặt xấu, vẻ đẹp chống lại sự xấu xí tàn nhẫn, sự chuyên chế chống lại vương quyền, tự do được tiết chế với sự đồng ý chống lại sự ép buộc mà từ lâu đã mất bất kỳ mục tiêu nào ngoại trừ quyền lực đơn thuần, v.v. nhưng cả hai bên ở một mức độ nào đó, bảo thủ hoặc phá hoại, đều muốn có một biện pháp kiểm soát. Nhưng nếu bạn, như người ta đã tuyên bố 'lời thề sống nghèo khó', từ bỏ quyền kiểm soát và lấy niềm vui của mình vào mọi thứ mà không cần quan tâm đến bản thân, quan sát, quan sát và ở một mức độ nào đó biết, thì câu hỏi về quyền và sai về quyền lực và quyền kiểm soát có thể trở nên hoàn toàn vô nghĩa đối với bạn, và các phương tiện quyền lực hoàn toàn vô giá trị.
 </p>
 <p class="tg-quote-footer"><cite>25 April <a href="../_/1954.md" title="1954">1954</a>, <a href="../L/Letter_144.md" title="Letter 144">Letter 144</a></cite></p>
 </blockquote>
@@ -35,25 +35,25 @@ categories:
 ## Về các vấn đề khác {#Regarding_other_matters}
 
 <blockquote class="tg-quote noexcerpt">
-<p>My political opinions lean more and more to anarchy. The most improper job of any man, even saints, is bossing other men. There is only one bright spot and that is the growing habit of disgruntled men of dynamiting factories and power stations. I hope that, encouraged now as patriotism, may remain a habit.
+<p>Quan điểm chính trị của tôi ngày càng nghiêng về tình trạng vô chính phủ. Công việc không đúng đắn nhất của bất kỳ người đàn ông nào, kể cả các vị thánh, là ra lệnh cho người khác. Chỉ có một điểm sáng duy nhất đó là thói quen cho nổ các nhà máy, trạm điện ngày càng bất mãn của những người bất mãn. Tôi hy vọng rằng, được khuyến khích như lòng yêu nước, có thể vẫn là một thói quen.
 </p>
-<p class="tg-quote-footer"><cite>To his son <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher</a>, 29 November <a href="../_/1943.md" title="1943">1943</a>, <a href="../L/Letter_52.md" title="Letter 52">Letter 52</a></cite></p>
+<p class="tg-quote-footer"><cite>Gửi con trai <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher</a>, ngày 29 tháng 11 <a href="../_/1943.md" title="1943">1943</a>, <a href="../L/Letter_52.md" title="Letter 52">Thư 52</a></cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Trends in the Church are... serious, especially to those accustomed to find in it a solace and a &#39;pax&#39; in times of temporal trouble, and not just another arena of strife and change.
+<p>Các xu hướng trong Giáo hội rất... nghiêm trọng, đặc biệt đối với những người quen tìm thấy ở đó niềm an ủi và 'niềm an ủi' trong những lúc khó khăn tạm thời, chứ không chỉ là một đấu trường xung đột và thay đổi khác.
 </p>
 <p class="tg-quote-footer"><cite>The Lion Christian Quotation Collection, p. 321</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>A real taste for fairy-stories was wakened by philology on the threshold of manhood, and quickened to full life by war.
+<p>Sở thích thực sự về truyện cổ tích đã được đánh thức bởi môn ngữ văn ở ngưỡng cửa của tuổi trưởng thành và được chiến tranh đẩy nhanh cuộc sống trọn vẹn.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../O/On_Fairy-Stories.md" title="On Fairy-Stories">On Fairy-Stories</a></i></cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Nearly all marriages, even happy ones, are mistakes: in the sense that almost certainly (in a more perfect world, or even with a little more care in this very imperfect one) both partners might have found more suitable mates. But the real soul-mate is the one you are actually married to.
+<p>Gần như tất cả các cuộc hôn nhân, ngay cả những cuộc hôn nhân hạnh phúc, đều là sai lầm: theo nghĩa là gần như chắc chắn (trong một thế giới hoàn hảo hơn, hoặc thậm chí cẩn thận hơn một chút trong thế giới rất không hoàn hảo này) cả hai đối tác có thể đã tìm được bạn đời phù hợp hơn. Nhưng người bạn tâm giao thực sự là người mà bạn thực sự đã kết hôn.
 </p>
 <p class="tg-quote-footer"><cite>6-8 March 1941, <a href="../L/Letter_43.md" title="Letter 43">Letter 43</a></cite></p>
 </blockquote>
@@ -61,13 +61,13 @@ categories:
 ## Về bản thân Tolkien {#Regarding_Tolkien_himself}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Though Tolkien lived in the twentieth century he can scarcely be considered a modern writer. His roots were buried deep in early literature, and the major names in twentieth-century writing meant little or nothing to him.
+<p>Mặc dù Tolkien sống ở thế kỷ 20 nhưng ông khó có thể được coi là một nhà văn hiện đại. Nguồn gốc của ông đã bị chôn sâu trong nền văn học sơ khai, và những tên tuổi lớn trong văn chương thế kỷ 20 có ý nghĩa rất ít hoặc chẳng có ý nghĩa gì đối với ông.
 </p>
 <p class="tg-quote-footer"><cite><a href="../H/Humphrey_Carpenter.md" title="Humphrey Carpenter">Humphrey Carpenter</a>, <i><a href="../T/The_Inklings_(book).md" title="The Inklings (book)">The Inklings</a></i></cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>He is a smooth, pale, fluent little chap - can&#39;t read Spenser because of the forms - thinks all literature is for the amusement of men between thirty and forty... His pet abomination is the idea of &#39;liberal studies&#39;. Technical hobbies are more in his line. No harm in him; only needs a smack or so.
+<p>Ông là một chàng trai nhỏ nhắn, nhợt nhạt, trôi chảy - không thể đọc Spenser vì hình thức - nghĩ rằng tất cả văn học đều là để giải trí cho những người đàn ông từ ba mươi đến bốn mươi... Điều ghê tởm thú vị của ông là ý tưởng về 'nghiên cứu tự do'. Sở thích kỹ thuật có nhiều hơn trong dòng của ông. Không có hại gì ở ông; chỉ cần một cái tát hoặc hơn.
 </p>
 <p class="tg-quote-footer"><cite><a href="../C/C.S._Lewis.md" title="C.S. Lewis">C.S. Lewis</a>, <i>Diary</i>, May <a href="../_/1926.md" title="1926">1926</a></cite></p>
 </blockquote>

@@ -20,7 +20,7 @@ images:
   - "Artigas_-_King_Elendil.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Artigas_-_King_Elendil.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a7/Artigas_-_King_Elendil.jpg/200px-Artigas_-_King_Elendil.jpg" decoding="async" loading="lazy" width="200" height="328" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/Artigas_-_King_Elendil.jpg/300px-Artigas_-_King_Elendil.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/Artigas_-_King_Elendil.jpg/400px-Artigas_-_King_Elendil.jpg 2x" data-file-width="901" data-file-height="1477"/></a><figcaption><a href="../E/Elendil.md" title="Elendil">Elendil</a> holding the Sceptre of Annúminas<br/> <a href="../../category/I/Images_by_Artigas.md" title="Category:Images by Artigas">Artigas</a> - King Elendil</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Artigas_-_King_Elendil.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a7/Artigas_-_King_Elendil.jpg/200px-Artigas_-_King_Elendil.jpg" decoding="async" loading="lazy" width="200" height="328" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/Artigas_-_King_Elendil.jpg/300px-Artigas_-_King_Elendil.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/Artigas_-_King_Elendil.jpg/400px-Artigas_-_King_Elendil.jpg 2x" data-file-width="901" data-file-height="1477"/></a><figcaption><a href="../E/Elendil.md" title="Elendil">Elendil</a> cầm Vương trượng Annúminas<br/> <a href="../../category/I/Images_by_Artigas.md" title="Category:Images by Artigas">Artigas</a> - Vua Elendil</figcaption></figure>
 
 **Vương trượng Annúminas** là một cây gậy bạc, ban đầu là biểu tượng chức vụ của [các Lãnh chúa Andúnië](../../category/L/Lords_of_Andúnië.md) ở [Númenor](../N/Númenor.md). Nó đã sống sót sau [Sự sụp đổ](../D/Downfall_of_Númenor.md) và được [Các vị vua Arnor](../K/Kings_of_Arnor.md) nắm giữ trong khi vương quốc đó tồn tại. Sau khi phân chia [Vương quốc phương Bắc](../A/Arnor.md), nó được lưu truyền qua các thế hệ của các [Vị vua của Arthedain](../K/Kings_of_Arthedain.md) cho đến khi vị vua cuối cùng [Arvedui](../A/Arvedui.md) qua đời vào năm [T.A.](../T/Third_Age.md) [1975](../T/Third_Age_1975.md). Sau đó vương trượng được cất giữ trong [Rivendell](../R/Rivendell.md).<sup id="cite_ref-ancient_1-0" class="reference"><a href="#cite_note-ancient-1">[1]</a></sup>
 
@@ -34,7 +34,7 @@ Tại [Kỷ Đệ Tứ](../F/Fourth_Age.md) [120](../F/Fourth_Age_120.md), trên
 
 <b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Elrond brings the Sceptre of Annúminas with him on the journey to Arwen&#39;s wedding in Minas Tirith.</dd></dl>
+<dl><dd>Elrond mang theo Vương trượng Annúminas trong chuyến hành trình tới đám cưới của Arwen ở Minas Tirith.</dd></dl>
 
 <span></span>
 

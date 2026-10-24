@@ -28,7 +28,7 @@ langlinks:
 - *[Hísimë](Hísimë.md)* = "Tháng 11"
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>i falmalinnar imbë met, ar <b>hísië</b> (&#39;on the foaming waves between us, and <b>mist&#39;</b>)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<p>i falmalinnar imbë đã gặp, ar <b>hísië</b> ('trên những con sóng sủi bọt giữa chúng ta, và <b>sương mù'</b>)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../N/Namárië.md" title="Namárië">Namárië</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

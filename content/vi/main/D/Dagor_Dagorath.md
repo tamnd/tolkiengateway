@@ -33,31 +33,31 @@ images:
 
 <table align="right" cellpadding="6" cellspacing="0" class="tginfobox floatright">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);" colspan="3"><a href="../H/History_of_Arda.md" title="History of Arda">History of Arda</a>
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);" colspan="3"><a href="../H/History_of_Arda.md" title="History of Arda">Lịch sử Arda</a>
 </th></tr>
 <tr>
-<td colspan="3"><b><a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Music of the Ainur</a></b>
+<td colspan="3"><b><a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Âm nhạc của các Ainur</a></b>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../T/Timeline.md" title="Timeline">Timeline of Arda</a></b>
-</td></tr>
-<tr>
-<td style="padding-top: 0em; padding-bottom: 0em;">
-</td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="Days_before_days.md" title="Days before days">Days before days</a>
+<td colspan="3"><b><a href="../T/Timeline.md" title="Timeline">Dòng thời gian Arda</a></b>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Years of the Trees</a>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="Days_before_days.md" title="Days before days">Những ngày trước thời đại</a>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Sun.md" title="Years of the Sun">Years of the Sun</a>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Thời đại Cây Hai Ngọn</a>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../A/Ages.md" title="Ages">Ages of the Children of Ilúvatar</a></b>
+<td style="padding-top: 0em; padding-bottom: 0em;">
+</td>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Sun.md" title="Years of the Sun">Những năm Mặt Trời</a>
+</td></tr>
+<tr>
+<td colspan="3"><b><a href="../A/Ages.md" title="Ages">Các Kỷ nguyên của Những Người Con của Ilúvatar</a></b>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
@@ -82,40 +82,40 @@ images:
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../L/Later_Ages.md" title="Later Ages">Later Ages</a> <small>(up to present day)</small>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../L/Later_Ages.md" title="Later Ages">Sau Kỷ nguyên</a> <small>(tính đến thời điểm hiện tại)</small>
 </td></tr>
 <tr>
 <td colspan="3"><b><a class="mw-selflink selflink">Dagor Dagorath</a></b>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Second Music of the Ainur</a></b>
+<td colspan="3"><b><a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Âm nhạc thứ hai của các Ainur</a></b>
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">See also: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Round World version of the legendarium</a></b>
+<td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">Xem thêm: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Truyền thuyết phiên bản Round World</a></b>
 </td></tr></tbody></table>
 
 **Dagor Dagorath** ([S.](../S/Sindarin.md) *Trận chiến của mọi Trận chiến*), còn được gọi là **Lời tiên tri thứ hai của Mandos** hoặc đơn giản là **Trận chiến cuối cùng**, là một biến cố tận thế được [Mandos](../M/Mandos.md) tiên tri. Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), Dagor Dagorath với tư cách là một Lời tiên tri của Mandos đã bị Tolkien từ bỏ.<sup id="cite_ref-Valaquenta_1-0" class="reference"><a href="#cite_note-Valaquenta-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jan_Drenovec_-_Túrin_vs_Morgoth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1b/Jan_Drenovec_-_T%C3%BArin_vs_Morgoth.jpg/200px-Jan_Drenovec_-_T%C3%BArin_vs_Morgoth.jpg" decoding="async" loading="lazy" width="200" height="274" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1b/Jan_Drenovec_-_T%C3%BArin_vs_Morgoth.jpg/300px-Jan_Drenovec_-_T%C3%BArin_vs_Morgoth.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1b/Jan_Drenovec_-_T%C3%BArin_vs_Morgoth.jpg/400px-Jan_Drenovec_-_T%C3%BArin_vs_Morgoth.jpg 2x" data-file-width="600" data-file-height="822"/></a><figcaption><i>Túrin vs Morgoth</i> by Jan Drenovec</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jan_Drenovec_-_Túrin_vs_Morgoth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1b/Jan_Drenovec_-_T%C3%BArin_vs_Morgoth.jpg/200px-Jan_Drenovec_-_T%C3%BArin_vs_Morgoth.jpg" decoding="async" loading="lazy" width="200" height="274" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1b/Jan_Drenovec_-_T%C3%BArin_vs_Morgoth.jpg/300px-Jan_Drenovec_-_T%C3%BArin_vs_Morgoth.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1b/Jan_Drenovec_-_T%C3%BArin_vs_Morgoth.jpg/400px-Jan_Drenovec_-_T%C3%BArin_vs_Morgoth.jpg 2x" data-file-width="600" data-file-height="822"/></a><figcaption><i>Túrin vs Morgoth</i> của Jan Drenovec</figcaption></figure>
 
 Trong ấn bản đã xuất bản của *[The Silmarillion](../T/The_Silmarillion.md)*, Dagor Dagorath chỉ được nhắc đến với tên **Trận chiến Cuối cùng** vào ba dịp:
 
 <blockquote class="tg-quote noexcerpt">
-<p>...and that <a href="../A/Aulë.md" title="Aulë">he</a> declared to their <a href="../F/Fathers_of_the_Dwarves.md" title="Fathers of the Dwarves">Fathers of old</a> that <a href="../I/Ilúvatar.md" title="Ilúvatar">Ilúvatar</a> will hallow them [the <a href="Dwarves.md" title="Dwarves">Dwarves</a>] and give them a place among the <a href="../C/Children_of_Ilúvatar.md" title="Children of Ilúvatar">Children</a> in the end. Then their part shall be to serve Aulë and to aid him in the remaking of Arda after the <b>Last Battle</b>.
+<p>...và rằng <a href="../A/Aulë.md" title="Aulë">ông ấy</a> đã tuyên bố với <a href="../F/Fathers_of_the_Dwarves.md" title="Fathers of the Dwarves">Những người cha xưa</a> của họ rằng <a href="../I/Ilúvatar.md" title="Ilúvatar">Ilúvatar</a> cuối cùng sẽ thánh hóa họ [ <a href="Dwarves.md" title="Dwarves">Người Lùn</a>] và cho họ một vị trí trong số <a href="../C/Children_of_Ilúvatar.md" title="Children of Ilúvatar">Những đứa trẻ</a> cuối cùng. Sau đó, phần của họ sẽ là phục vụ Aulë và hỗ trợ ông trong việc làm lại Arda sau <b>Trận chiến cuối cùng</b>.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>, &#34;<a href="../O/Of_Aulë_and_Yavanna.md" title="Of Aulë and Yavanna">Of Aulë and Yavanna</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>...Many other of the ancient stars <a href="../V/Varda.md" title="Varda">she</a> gathered together and set as signs in the heavens of Arda: [...] and <a href="../M/Menelmacar.md" title="Menelmacar">Menelmacar</a> with his shining belt, that forebodes the <b>Last Battle</b> that shall be at the end of days.
+<p>...Nhiều ngôi sao cổ xưa khác <a href="../V/Varda.md" title="Varda">cô</a> đã tập hợp lại và đặt làm dấu hiệu trên bầu trời Arda: [...] và <a href="../M/Menelmacar.md" title="Menelmacar">Menelmacar</a> với chiếc thắt lưng tỏa sáng của mình, báo trước <b>Trận chiến cuối cùng</b> sẽ diễn ra vào ngày tận thế.
 </p>
 <p class="tg-quote-footer"><cite><i>Quenta Silmarillion</i>, &#34;<a href="../O/Of_the_Coming_of_the_Elves_and_the_Captivity_of_Melkor.md" title="Of the Coming of the Elves and the Captivity of Melkor">Of the Coming of the Elves and the Captivity of Melkor</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>But <a href="../A/Ar-Pharazôn.md" title="Ar-Pharazôn">Ar-Pharazôn</a> the King and the mortal warriors that had set foot upon the land of Aman were buried under falling hills: there it is said that they lie imprisoned in the <a href="../C/Caves_of_the_Forgotten.md" title="Caves of the Forgotten">Caves of the Forgotten</a>, until the <b>Last Battle</b> and the Day of Doom.
+<p>Nhưng <a href="../A/Ar-Pharazôn.md" title="Ar-Pharazôn">Ar-Pharazôn</a> những Vua và những chiến binh phàm trần đã đặt chân lên vùng đất Aman đã bị chôn vùi dưới những ngọn đồi đổ: ở đó người ta nói rằng họ bị giam cầm trong <a href="../C/Caves_of_the_Forgotten.md" title="Caves of the Forgotten">Hang động của những kẻ bị lãng quên</a>, cho đến <b>Trận chiến cuối cùng</b> và Ngày tận thế.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../A/Akallabêth.md" title="Akallabêth">Akallabêth</a></i></cite></p>
 </blockquote>
@@ -123,7 +123,7 @@ Trong ấn bản đã xuất bản của *[The Silmarillion](../T/The_Silmarilli
 Cũng có một đề cập riêng lẻ liên kết “Kết thúc” với [Fëanor](../F/Fëanor.md) và [Silmarils](../S/Silmarils.md), đây là chủ đề chính trong [những phiên bản khác](#Other_versions_of_the_legendarium) được giải thích dưới đây:
 
 <blockquote class="tg-quote noexcerpt">
-<p>But not until the <b>End</b>, when Fëanor shall return [...]; not until the <a href="../S/Sun.md" title="Sun">Sun</a> passes and the <a href="../M/Moon.md" title="Moon">Moon</a> falls, shall it be known of what substance [the Silmarils] were made.
+<p>Nhưng phải đến <b>Kết thúc</b>, khi Fëanor sẽ trở lại [...]; phải đến khi <a href="../S/Sun.md" title="Sun">Mặt trời</a> đi qua và <a href="../M/Moon.md" title="Moon">Mặt trăng</a> rơi, người ta mới biết được [những viên Silmarils] được tạo ra bằng chất gì.
 </p>
 <p class="tg-quote-footer"><cite><i>Quenta Silmarillion</i>, &#34;<a href="../O/Of_the_Silmarils_and_the_Unrest_of_the_Noldor.md" title="Of the Silmarils and the Unrest of the Noldor">Of the Silmarils and the Unrest of the Noldor</a>&#34;</cite></p>
 </blockquote>
@@ -131,7 +131,7 @@ Cũng có một đề cập riêng lẻ liên kết “Kết thúc” với [Fë
 Không có thêm thông tin nào về Ngày Tận Thế được nêu trong *The Silmarillion*, ngoại trừ vài đề cập đến [Khúc Nhạc Thứ Hai của các Ainur](../S/Second_Music_of_the_Ainur.md), mà từ đó có thể suy ra rằng khúc nhạc này sẽ được cất lên sau Trận chiến. Lần duy nhất Dagor Dagorath được nhắc đến đích danh nằm trong một chú thích về nguồn gốc của [Gandalf](../G/Gandalf.md):
 
 <blockquote class="tg-quote noexcerpt">
-<p><a href="../M/Manwë.md" title="Manwë">Manwë</a> will not descend from <a href="../T/Taniquetil.md" title="Taniquetil">the Mountain</a> until the <b>Dagor Dagorath</b>, and the coming of the End, when <a href="../M/Morgoth.md" title="Morgoth">Melkor</a> returns.
+<p><a href="../M/Manwë.md" title="Manwë">Manwë</a> sẽ không đi xuống từ <a href="../T/Taniquetil.md" title="Taniquetil">Ngọn Núi</a> cho đến <b>Dagor Dagorath</b> và khi Ngày tận thế sắp đến, khi <a href="../M/Morgoth.md" title="Morgoth">Melkor</a> trở lại.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../T/The_Istari.md" title="The Istari">The Istari</a>&#34;<sup id="cite_ref-Istari_2-0" class="reference"><a href="#cite_note-Istari-2">[2]</a></sup></cite></p>
 </blockquote>
@@ -147,7 +147,7 @@ Những hàm ý siêu hình của việc tái tạo thế giới sau Trận chi�
 Tất cả các phiên bản của *Quenta Silmarillion* mà Tolkien từng hoàn tất đều kết thúc bằng việc [Mandos](../M/Mandos.md) mô tả Trận chiến trong một lời tiên tri, vào một thời điểm nào đó được gọi là **Lời tiên tri thứ hai của Mandos** (lời tiên tri đầu tiên là [Lời tiên tri phương Bắc](../P/Prophecy_of_the_North~56305.md)), nhưng Christopher đã cố ý lược bỏ nó khỏi [ấn bản của ông](../T/The_Silmarillion.md). Quyết định này bắt nguồn từ một đoạn trong [*The Later Quenta Silmarillion*](../T/The_Later_Quenta_Silmarillion.md), trong đó có viết rằng
 
 <blockquote class="tg-quote noexcerpt">
-<p>if any change shall come and the <a href="../A/Arda_Marred.md" title="Arda Marred">Marring</a> [of Arda] be amended, Manwë and Varda may know; but they have not revealed it, and it is not declared in the dooms of Mandos.<sup id="cite_ref-Valaquenta_1-1" class="reference"><a href="#cite_note-Valaquenta-1">[1]</a></sup>
+<p>nếu có thay đổi nào xảy ra và <a href="../A/Arda_Marred.md" title="Arda Marred">kết hôn</a> [của Arda] được sửa đổi, Manwë và Varda có thể biết; nhưng họ đã không tiết lộ nó, và nó không được tuyên bố trong ngày tàn của Mandos.<sup id="cite_ref-Valaquenta_1-1" class="reference"><a href="#cite_note-Valaquenta-1">[1]</a></sup>
 </p>
 </blockquote>
 
@@ -160,7 +160,7 @@ Những lời đó đã được Christopher hiểu theo nghĩa đen, suy ra r�
 Tolkien chưa hoàn thành *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, nên không rõ liệu ông có kết thúc tác phẩm bằng một Lời tiên tri về Tận thế hay không, nhưng trong các câu chuyện có nhiều đề cập đến một **Great End**. Mô tả sớm nhất về sự kiện này được viết vào một thời điểm không rõ và không được nhắc đến như một lời tiên tri:
 
 <blockquote class="tg-quote noexcerpt">
-<p>For &#39;tis said that ere the <b>Great End</b> come Melko shall in some wise contrive a quarrel between Moon and Sun, and <a href="../I/Ilinsor.md" title="Ilinsor">Ilinsor</a> shall seek to follow <a class="mw-redirect" href="../U/Urwendi.md" title="Urwendi">Urwendi</a> through the Gates, and when they are gone the Gates of both <a href="../G/Gates_of_Morning.md" title="Gates of Morning">East</a> and <a href="Door_of_Night.md" title="Door of Night">West</a> will be destroyed, and Urwendi and Ilinsor shall be lost. So shall it be that <a class="mw-redirect" href="../F/Fionwë.md" title="Fionwë">Fionwë</a> Úrion, son of Manwë, of love for Urwendi shall in the end be Melko&#39;s bane, and shall destroy the world to destroy his foe, and so shall all things the be rolled away.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+<p>Vì 'người ta nói rằng trước khi <b>Great End</b> đến Melko, theo cách nào đó, sẽ tạo ra một cuộc cãi vã giữa Mặt Trăng và Mặt Trời, và <a href="../I/Ilinsor.md" title="Ilinsor">Ilinsor</a> sẽ tìm cách đi theo <a class="mw-redirect" href="../U/Urwendi.md" title="Urwendi">Urwendi</a> qua Cổng, và khi họ rời đi, Cổng của cả <a href="../G/Gates_of_Morning.md" title="Gates of Morning">phương Đông</a> và <a href="Door_of_Night.md" title="Door of Night">Phương Tây</a> sẽ bị phá hủy, Urwendi và Ilinsor sẽ bị mất. Vì vậy, <a class="mw-redirect" href="../F/Fionwë.md" title="Fionwë">Fionwë</a> Úrion, con trai của Manwë, yêu Urwendi, cuối cùng sẽ là tai ương của Melko, và sẽ hủy diệt thế giới để tiêu diệt kẻ thù của mình, và mọi thứ cũng sẽ bị cuốn trôi.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 </p>
 </blockquote>
 
@@ -169,7 +169,7 @@ Tolkien chưa hoàn thành *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales
 Tuy nhiên, đề cập sớm nhất đến trận chiến được kể dưới dạng một Lời tiên tri nằm trong một ghi chú, trong đó viết rằng:
 
 <blockquote class="tg-quote noexcerpt">
-<p>If Men help them, the fairies (Elves) will take Men to Valinor, fight a <b>great battle</b> with Melko in Erumáni and open Valinor. Laurelin and Silpion will be rekindled, and the mountain wall being destroyed then soft radiance will spread over all the world, and the Sun and Moon will be recalled. If Men oppose them and aid Melko, the Wrack of the Gods and the ending of the fairies will result, and maybe the Great End.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+<p>Nếu Con Người giúp đỡ họ, các nàng tiên (Tiên tộc) sẽ đưa Con Người đến Valinor, đánh một trận <b>đại chiến</b> với Melko ở Erumáni và mở Valinor. Laurelin và Silpion sẽ được nhen nhóm lại, và bức tường núi bị phá hủy thì ánh sáng dịu nhẹ sẽ lan tỏa khắp thế giới, và Mặt Trời và Mặt Trăng sẽ được thu hồi. Nếu Con Người chống lại họ và trợ giúp Melko, sự tàn phá của các vị thần và cái kết của các nàng tiên sẽ xảy ra, và có thể là Cái kết vĩ đại.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 </p>
 </blockquote>
 
@@ -182,7 +182,7 @@ Nhiều phiên bản khác được đưa ra trong chương này cũng liên qua
 [The Earliest 'Silmarillion'](../T/The_Earliest_'Silmarillion'.md) (còn được gọi là 'Sketch of the Mythology') kết thúc bằng một đoạn mô tả về trận chiến cuối cùng, giới thiệu một cấu trúc sẽ được mở rộng trong các phiên bản sau, mặc dù nhiều khái niệm sẽ được biến đổi. Vẫn chưa có đề cập nào về việc đây là một lời tiên tri do Mandos thốt ra:
 
 <blockquote class="tg-quote noexcerpt">
-<p>When the world is much older, and the Gods weary, Morgoth will come back through the Door, and the <b>last battle</b> of all will be fought. Fionwë will fight Morgoth on the plain of Valinor, and the spirit of Túrin shall be beside him; it shall be Túrin who with his black sword will slay Morgoth, and thus the children of Húrin shall be avenged. In those days the Silmarils shall be recovered from sea and earth and air, and <a class="mw-redirect" href="../M/Maidros.md" title="Maidros">Maidros</a> shall break them and <a href="../Y/Yavanna.md#Other_versions_of_the_legendarium" title="Yavanna">Belaurin</a> with their fire rekindle the <a class="mw-redirect" href="../T/Two_Trees.md" title="Two Trees">Two Trees</a>, and the great light shall come forth again, and the Mountains of Valinor shall be levelled so that it goes out over the world, and Gods and Elves and Men shall grow young again, and all their dead awake.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+<p>Khi thế giới già đi nhiều và các vị thần mệt mỏi, Morgoth sẽ quay trở lại qua Cánh cửa, và <b>trận chiến cuối cùng</b> sẽ diễn ra. Fionwë sẽ chiến đấu Morgoth trên đồng bằng Valinor, và linh hồn của Túrin sẽ ở bên cạnh ông; chính Túrin sẽ là người với thanh kiếm đen của mình giết Morgoth, và do đó những đứa trẻ của Húrin sẽ được báo thù. Vào những ngày đó Silmaril sẽ được phục hồi từ biển, đất và không khí, và <a class="mw-redirect" href="../M/Maidros.md" title="Maidros">Maidros</a> sẽ phá vỡ chúng và <a href="../Y/Yavanna.md#Other_versions_of_the_legendarium" title="Yavanna">Belaurin</a> với ngọn lửa của chúng sẽ thắp sáng lại <a class="mw-redirect" href="../T/Two_Trees.md" title="Two Trees">Hai Cây</a>, và ánh sáng vĩ đại sẽ xuất hiện trở lại, và Dãy Núi của Valinor sẽ bị san bằng để nó tỏa ra khắp thế giới, và các vị thần, Tiên tộc và Con Người sẽ trẻ lại một lần nữa, và tất cả đều đã chết.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 </p>
 </blockquote>
 
@@ -199,9 +199,9 @@ Sau này, chính văn bản đó, với một vài sửa đổi, được dùng 
 Trong chương *[Túrin in Nargothrond](../T/Túrin_in_Nargothrond.md)* của *[The Children of Húrin](../T/The_Children_of_Húrin.md)*, được viết vào khoảng giữa đến cuối những năm [1950](../_/1950.md), có một cuộc đối thoại giữa [Finduilas](../F/Finduilas.md), con gái của [Orodreth](../O/Orodreth.md), Vua của [Nargothrond](../N/Nargothrond.md), và [Gwindor](../G/Gwindor.md), vị hôn phu của Finduilas:<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>&#34;The <b><a href="../T/Túrin.md" title="Túrin">Adanedhel</a> is mighty in the tale of the <a href="../A/Ambar.md" title="Ambar">World</a>, and his stature shall reach yet to <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a> in some far day to come</b>.&#34;
+<p>" <b><a href="../T/Túrin.md" title="Túrin">Adanedhel</a> hùng mạnh trong câu chuyện về <a href="../A/Ambar.md" title="Ambar">Thế giới</a>, và tầm vóc của ông sẽ đạt tới <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a> vào một ngày xa xôi nào đó</b>."
 </p>
-<p class="tg-quote-footer"><cite><i><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i>, &#34;<a href="../T/Túrin_in_Nargothrond.md" title="Túrin in Nargothrond">Túrin in Nargothrond</a>&#34; (by Finduilas, excerpt), p. 169</cite></p>
+<p class="tg-quote-footer"><cite><i><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i>, "<a href="../T/Túrin_in_Nargothrond.md" title="Túrin in Nargothrond">Túrin in Nargothrond</a>" (bởi Finduilas, đoạn trích), p. 169</cite></p>
 </blockquote>
 
 Tùy theo cách diễn giải đoạn văn trên, ít nhất cũng có khả năng Finduilas đang ám chỉ số phận sau cùng của Túrin: đánh bại Morgoth trong Dagor Dagorath.
@@ -211,7 +211,7 @@ Tùy theo cách diễn giải đoạn văn trên, ít nhất cũng có khả nă
 Trong <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Second_section_of_the_Annals_of_Aman&amp;action=edit&amp;redlink=1" title="Second section of the Annals of Aman (page does not exist)">phần thứ hai của Annals of Aman</a></i> (được viết vào đầu những năm 1950), dưới mục **1000-1050**, có đoạn ghi như sau:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Now <a href="../V/Varda.md" title="Varda">Varda</a> took the light that issued from <a href="../T/Telperion.md" title="Telperion">Telperion</a> and was stored in <a href="../V/Valinor.md" title="Valinor">Valinor</a> and she made stars newer and brighter. And many other of the ancient stars she gathered together and set as signs in the <a href="../M/Menel.md" title="Menel">heavens</a> of Arda. <b>The greatest of these was <a class="mw-redirect" href="../M/Menelmakar.md" title="Menelmakar">Menelmakar</a>, the Swordsman of the Sky. This, it is said, was a sign of <a class="mw-redirect" href="../T/Túrin_Turambar.md" title="Túrin Turambar">Túrin Turambar</a>, who should come into the world, and a foreshowing of the Last Battle that shall be at the end of Days</b>.
+<p>Bây giờ <a href="../V/Varda.md" title="Varda">Varda</a> lấy ánh sáng phát ra từ <a href="../T/Telperion.md" title="Telperion">Telperion</a> và được lưu trữ trong <a href="../V/Valinor.md" title="Valinor">Valinor</a> và bà làm cho các ngôi sao mới hơn và sáng hơn. Và nhiều ngôi sao cổ xưa khác, cô tập hợp lại và đặt làm dấu hiệu trên <a href="../M/Menel.md" title="Menel">thiên đường</a> của Arda. <b>Người vĩ đại nhất trong số này là <a class="mw-redirect" href="../M/Menelmakar.md" title="Menelmakar">Menelmakar</a>, Kiếm sĩ của bầu trời. Người ta nói rằng đây là dấu hiệu của <a class="mw-redirect" href="../T/Túrin_Turambar.md" title="Túrin Turambar">Túrin Turambar</a>, người sẽ đến thế giới và là điềm báo trước về Trận chiến cuối cùng sẽ diễn ra vào cuối Ngày</b>.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;<a class="mw-redirect" href="../A/Annals_of_Aman.md" title="Annals of Aman">Annals of Aman</a>&#34;, p. 71, §35</cite></p>
 </blockquote>
@@ -225,8 +225,8 @@ Tolkien đã viết lại *Quenta Silmarillion* vào [1958](../_/1958.md) trong 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Ralph_Damiani_-_The_Great_Jewels.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/45/Ralph_Damiani_-_The_Great_Jewels.jpg/250px-Ralph_Damiani_-_The_Great_Jewels.jpg" decoding="async" loading="lazy" width="250" height="327" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/45/Ralph_Damiani_-_The_Great_Jewels.jpg/375px-Ralph_Damiani_-_The_Great_Jewels.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/45/Ralph_Damiani_-_The_Great_Jewels.jpg/500px-Ralph_Damiani_-_The_Great_Jewels.jpg 2x" data-file-width="1651" data-file-height="2160"/></a><figcaption><i>The Great Jewels</i> by <a href="../../category/I/Images_by_Ralph_Damiani.md" title="Category:Images by Ralph Damiani">Ralph Damiani</a></figcaption></figure>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Thus spake Mandos in prophecy, when the Gods sat in judgement in Valinor, and the rumour of his words was whispered among all the Elves of the West. When the world is old and the <a class="mw-redirect" href="../P/Powers.md" title="Powers">Powers</a> grow weary, then Morgoth, seeing that the guard sleepeth, shall come back through the Door of Night out of the Timeless Void; and destroy the Sun and Moon. But Eärendil shall descend upon him as a white and searing flame and drive him from the airs. Then shall the <b>Last Battle</b> be gathered on the fields of Valinor. In that day Tulkas shall strive with Morgoth, and on his right hand shall be Eönwë, and on his left Túrin Turambar, son of <a href="../H/Húrin.md" title="Húrin">Húrin</a>, returning from the <a class="mw-redirect" href="Doom_of_Men.md" title="Doom of Men">Doom of Men</a> at the ending of the world; and the black sword of Túrin shall deal unto Morgoth his death and final end; and so shall the children of Húrin and all Men be avenged.<br/>
-Thereafter shall Earth be broken and re-made, and the Silmarils shall be recovered out of Air and Earth and Sea; for Eärendil shall descend and surrender that flame which he hath had in keeping. Then Fëanor shall take the Three Jewels and he will break them and with their fire Yavanna will rekindle the Two Trees, and a great light shall come forth. And the Mountains of Valinor shall be levelled, so that the Light shall go out over all the world. <s>In that light the Gods will grow young again, and the Elves awake and all their dead arise, and the purpose of Ilúvatar be fulfilled concerning them. But of Men in that day the prophecy of Mandos doth not speak, and no Man it names, save Túrin only, and to him a place is given among the sons of the Valar.</s>
+<p>Đó là lời tiên tri Mandos đã nói, khi các vị thần ngồi phán xét trong Valinor, và tin đồn về lời nói của ông đã được thì thầm giữa tất cả Tiên tộc của Phương Tây. Khi thế giới đã cũ và <a class="mw-redirect" href="../P/Powers.md" title="Powers">Quyền lực</a> trở nên mệt mỏi, thì Morgoth, khi thấy người bảo vệ đang ngủ, sẽ quay trở lại thông qua Cánh Cửa Đêm từ Hư Không Vượt thời gian; và tiêu diệt Mặt Trời và Mặt Trăng. Nhưng Eärendil sẽ lao xuống ông như một ngọn lửa trắng và thiêu đốt và xua đuổi ông khỏi không trung. Sau đó <b>Trận chiến cuối cùng</b> sẽ tập trung trên chiến trường Valinor. Vào ngày đó Tulkas sẽ phấn đấu với Morgoth, bên phải là Eönwë, và bên trái là Túrin Turambar, con trai của <a href="../H/Húrin.md" title="Húrin">Húrin</a>, trở về từ <a class="mw-redirect" href="Doom_of_Men.md" title="Doom of Men">Sự diệt vong của Con Người</a> vào ngày tận thế; và thanh kiếm đen của Túrin sẽ xử lý Morgoth cái chết và kết cục cuối cùng của ông; và những đứa con của Húrin và tất cả Con Người cũng sẽ được báo thù.<br/>
+Sau đó, Trái đất sẽ bị phá vỡ và được tạo lại, và Silmaril sẽ được thu hồi từ Không khí, Trái đất và Biển; vì Eärendil sẽ hạ xuống và từ bỏ ngọn lửa mà ông đã gìn giữ. Sau đó Fëanor sẽ lấy Tam Bảo và ông sẽ phá vỡ chúng và với ngọn lửa của chúng Yavanna sẽ thắp lại Hai Cây, và một ánh sáng vĩ đại sẽ xuất hiện. Và Dãy Núi của Valinor sẽ được san bằng để Ánh sáng sẽ tỏa ra khắp thế giới. <s>Trong ánh sáng đó, các vị thần sẽ trẻ lại, Tiên tộc thức tỉnh và tất cả những người đã chết của họ sẽ sống lại, và mục đích của Ilúvatar liên quan đến họ sẽ được hoàn thành. Nhưng về Con Người vào ngày đó, lời tiên tri về Mandos không được nói đến, và không có Người nào được nó nêu tên, chỉ ngoại trừ Túrin, và cho ông một vị trí được trao trong số các con trai của Valar.</s>
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;The Last Chapters of the <i>Quenta Silmarillion</i>&#34;, <i>The Second Prophecy of Mandos</i></cite></p>
 </blockquote>
@@ -240,14 +240,14 @@ Ngoài việc thay đổi tên gọi, những thay đổi chính là: Túrin tr�
 Theo suy luận của Christopher, khá rõ ràng rằng Lời Tiên Tri Thứ Hai của Mandos không tương thích với truyền thuyết Tiên tộc,<sup id="cite_ref-Valaquenta_1-3" class="reference"><a href="#cite_note-Valaquenta-1">[1]</a></sup> nhưng các văn bản về sau chỉ ra rằng khái niệm này có thể đã phát triển thành một truyền thuyết của Người. Trong lần chỉnh sửa lớn cuối cùng đối với Mythology của mình, Tolkien quyết định rằng *The Silmarillion* nên là một câu chuyện của Người.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> Cụ thể hơn về Tận Thế là một ghi chú của Tolkien bình luận về *[Athrabeth Finrod ah Andreth](../A/Athrabeth_Finrod_ah_Andreth.md)*:
 
 <blockquote class="tg-quote noexcerpt">
-<p>The Elves expected the End of Arda to be catastrophic. [...] The End of Arda is not, of course, the same thing as the end of Eä. About this they held that nothing could be known, except that Eä was ultimately finite. It is noteworthy that the Elves had no myths or legends dealing with the end of the world. The myth that appears at the end of &#34;The Silmarillion&#34; is of Númenórean origin; it is clearly made by Men, though Men acquainted with Elvish tradition.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
+<p>Tiên tộc dự đoán rằng sự kết thúc của Arda sẽ rất thảm khốc. [...] Tất nhiên, phần cuối của Arda không giống với phần cuối của Eä. Về điều này họ cho rằng không thể biết được điều gì, ngoại trừ việc Eä cuối cùng là hữu hạn. Đáng chú ý là Tiên tộc không có thần thoại hay truyền thuyết nào về ngày tận thế. Huyền thoại xuất hiện ở cuối "The Silmarillion" có nguồn gốc từ Númenórean; rõ ràng nó được làm bởi Con Người, mặc dù Con Người đã quen với Elvish truyền thống.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
 </p>
 </blockquote>
 
 Vì vậy, kỳ vọng về Ngày Tận Thế của các Tiên nhân không còn xuất phát từ sự mặc khải hay các câu chuyện, mà là từ suy luận của họ sau khi chiêm nghiệm thế giới (đây là một trong những chủ đề chính của *Athrabeth*). Mặt khác, chúng ta được kể rằng Người có những truyền thống liên quan đến ngày tận thế thảm khốc. Christopher xác nhận rằng “huyền thoại xuất hiện ở cuối *Silmarillion*” là sự tham chiếu đến điều từng là Lời Tiên tri của Mandos.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> Thậm chí còn có một bằng chứng về những truyền thống tiên tri của Người:
 
 <blockquote class="tg-quote noexcerpt">
-<p>The language of the Folk of Haleth was not used, for they had perished and would not rise again. Nor would their tongue be heard again, unless the prophecy of <a href="../A/Andreth.md" title="Andreth">Andreth</a> the <a href="../W/Wise-woman.md" title="Wise-woman">Wise-woman</a> should prove true, that Túrin in the Last Battle should return from the Dead, and before he left the Circles of the World for ever should challege the Great Dragon of Morgoth, <a href="../A/Ancalagon.md" title="Ancalagon">Ancalagon</a> the Black, and deal him the death-stroke.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
+<p>Ngôn ngữ của Dân tộc Haleth không được sử dụng vì chúng đã diệt vong và không thể sống lại. Lưỡi của họ cũng sẽ không được nghe thấy nữa, trừ khi lời tiên tri của <a href="../A/Andreth.md" title="Andreth">Andreth</a> <a href="../W/Wise-woman.md" title="Wise-woman">Người phụ nữ thông thái</a> được chứng minh là đúng, rằng Túrin trong Trận chiến cuối cùng sẽ trở về từ cõi chết, và trước khi ông rời khỏi Vòng tròn của Thế giới mãi mãi nên thách thức Rồng Vĩ đại của Morgoth, <a href="../A/Ancalagon.md" title="Ancalagon">Ancalagon</a> Người da đen và giáng cho ông một đòn tử thần.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
 </p>
 </blockquote>
 
@@ -270,16 +270,16 @@ Trong một *List of Names* từ những năm 1930, trận chiến tại Tận c
 Trong [thần thoại Bắc Âu](../N/Norse_mythology.md), <a class="extiw" href="http://en.wikipedia.org/wiki/Ragnar%C3%B6k" title="wikipedia:Ragnarök">Ragnarök</a> là một trận chiến tận thế được đề cập trong cả hai bộ Edda. Phiên bản nổi tiếng nhất được một <a class="extiw" href="http://en.wikipedia.org/wiki/V%C3%B6lva" title="wikipedia:Völva">völva</a> tiên tri trong *[Völuspá](../V/Völuspá.md)*, tác phẩm vốn luôn là một nguồn cảm hứng quan trọng đối với Tolkien. Ông thậm chí còn viết phiên bản riêng của mình về lời tiên tri này ở phần đầu của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=New_Lay_of_the_V%C3%B6lsungs&amp;action=edit&amp;redlink=1" title="New Lay of the Völsungs (page does not exist)">New Lay of the Völsungs</a></i>, trong đó có cách diễn giải lại về Sigurd rất giống với Túrin trong Trận chiến Cuối cùng, như Christopher nhận xét.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>If in the Day of Doom<br/>
-one deathless stands,<br/>
-who death hath tasted<br/>
-and dies no more,<br/>
-the serpent-slayer,<br/>
-seed of Ódin,<br/>
-then all shall not end,<br/>
-nor Earth perish.
+<p>Nếu trong Ngày tận thế<br/>
+một người bất tử đứng vững,<br/>
+cái chết đã nếm trải ai<br/>
+và không chết nữa,<br/>
+kẻ giết rắn,<br/>
+hạt giống Ódin,<br/>
+thì tất cả sẽ không kết thúc,<br/>
+Trái đất cũng không bị diệt vong.
 </p>
-<p class="tg-quote-footer"><cite><i><a href="../T/The_Legend_of_Sigurd_and_Gudrún.md" title="The Legend of Sigurd and Gudrún">The Legend of Sigurd and Gudrún</a></i>, &#34;Völsungskviða en nýja&#34;, <i>Upphaf</i> v.14</cite></p>
+<p class="tg-quote-footer"><cite><i><a href="../T/The_Legend_of_Sigurd_and_Gudrún.md" title="The Legend of Sigurd and Gudrún">The Legend of Sigurd and Gudrún</a></i>, "Völsungskviða en nýja", <i>Upphaf</i> v.14</cite></p>
 </blockquote>
 
 Tuy nhiên, mặc dù chính Tolkien thừa nhận ảnh hưởng của Ragnarök, ông giải thích rằng trận chiến cuối cùng trong Mythology của mình “*không giống nó cho lắm*”:<sup id="cite_ref-Letter131_6-1" class="reference"><a href="#cite_note-Letter131-6">[6]</a></sup> Ragnarök kể về sự hủy diệt của cả những người khổng lồ lẫn các vị thần, và quan niệm của người Bắc Âu về thế giới ngụ ý sự khởi đầu của một <a class="extiw" href="http://en.wikipedia.org/wiki/Ragnar%C3%B6k#Cyclic_time_and_Hoddm.C3.ADmis_holt" title="wikipedia:Ragnarök">chu kỳ mới</a>, vì vậy chiến thắng cuối cùng của Thiện trước Ác trong [legendarium](../L/Legendarium.md) gần với Ngày tận thế của Kitô giáo hơn. Trong <a class="extiw" href="http://en.wikipedia.org/wiki/Book_of_Revelation" title="wikipedia:Book of Revelation">Sách Khải Huyền</a>, người ta giải thích rằng sẽ có một <a class="extiw" href="http://en.wikipedia.org/wiki/War_in_Heaven" title="wikipedia:War in Heaven">trận chiến lớn</a> giữa <a class="extiw" href="http://en.wikipedia.org/wiki/Michael_(archangel)" title="wikipedia:Michael (archangel)">Michael</a> và các thiên thần của ngài với Satan, được gọi là “con rồng” (c. 12:7-9), tương tự như [Đại chiến Phẫn Nộ](../W/War_of_Wrath.md). Con rồng sẽ bị quăng xuống, trói lại và đày vào vực thẳm trong một nghìn năm (c. 20:1-3), giống như Morgoth bị ném vào [Hư Không](../V/Void.md). Vào cuối một nghìn năm (một biểu tượng Do Thái về một khoảng thời gian rất dài), Satan sẽ được thả ra và lừa dối thế gian, rồi gây chiến với Chúa. Sau đó hắn sẽ lại bị quăng xuống, lần này là vĩnh viễn (c. 20:7-10); tương tự, Morgoth bị đánh bại lần cuối. Sau khi trời và đất cũ bị hủy diệt, một thế giới mới và vĩnh cửu sẽ được tạo thành (c. 21:1tt).

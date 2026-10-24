@@ -42,10 +42,10 @@ infobox:
     value: "Images of the Sun"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lady_Elleth_-_Arien.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/58/Lady_Elleth_-_Arien.jpg/320px-Lady_Elleth_-_Arien.jpg" decoding="async" loading="lazy" width="320" height="349" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/58/Lady_Elleth_-_Arien.jpg/480px-Lady_Elleth_-_Arien.jpg 1.5x, https://tolkiengateway.net/w/images/5/58/Lady_Elleth_-_Arien.jpg 2x" data-file-width="601" data-file-height="655"/></a><figcaption>&#34;Arien&#34; by <a href="../../category/I/Images_by_Lady_Elleth.md" title="Category:Images by Lady Elleth">Lady Elleth</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Source of light</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sun</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data"><i><a href="#Etymology_and_names">See below</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../I/Ilmen.md" title="Ilmen">Ilmen</a> in <a href="../E/Eä.md" title="Eä">Eä</a></td></tr><tr><th scope="row" class="tg-infobox-label">Owner</th><td class="tg-infobox-data"><a href="../A/Arien.md" title="Arien">Arien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Creator</th><td class="tg-infobox-data"><a href="../A/Aulë.md" title="Aulë">Aulë</a></td></tr><tr><th scope="row" class="tg-infobox-label">Created in</th><td class="tg-infobox-data"><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Y.T.</a> <a href="../Y/Year_of_the_Trees_1500.md" title="Year of the Trees 1500">1500</a>, <a href="../F/First_Age.md" title="First Age">First Age</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_the_Sun.md" title="Category:Images of the Sun">Images of the Sun</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lady_Elleth_-_Arien.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/58/Lady_Elleth_-_Arien.jpg/320px-Lady_Elleth_-_Arien.jpg" decoding="async" loading="lazy" width="320" height="349" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/58/Lady_Elleth_-_Arien.jpg/480px-Lady_Elleth_-_Arien.jpg 1.5x, https://tolkiengateway.net/w/images/5/58/Lady_Elleth_-_Arien.jpg 2x" data-file-width="601" data-file-height="655"/></a><figcaption>&#34;Arien&#34; by <a href="../../category/I/Images_by_Lady_Elleth.md" title="Category:Images by Lady Elleth">Lady Elleth</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Nguồn ánh sáng</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mặt Trời</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data"><i><a href="#Etymology_and_names">Xem bên dưới</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../I/Ilmen.md" title="Ilmen">Ilmen</a> in <a href="../E/Eä.md" title="Eä">Eä</a></td></tr><tr><th scope="row" class="tg-infobox-label">Chủ sở hữu</th><td class="tg-infobox-data"><a href="../A/Arien.md" title="Arien">Arien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Người sáng tạo</th><td class="tg-infobox-data"><a href="../A/Aulë.md" title="Aulë">Aulë</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tạo vào</th><td class="tg-infobox-data"><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Y.T.</a> <a href="../Y/Year_of_the_Trees_1500.md" title="Year of the Trees 1500">1500</a>, <a href="../F/First_Age.md" title="First Age">First Age</a></td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_the_Sun.md" title="Category:Images of the Sun">Images of the Sun</a></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>For the Sun was set as a sign for the awakening of <a href="../M/Men.md" title="Men">Men</a> and the waning of the <a href="../E/Elves.md" title="Elves">Elves</a>, but the <a href="../M/Moon.md" title="Moon">Moon</a> cherishes their memory.
+<p>Vì Mặt Trời được coi là dấu hiệu cho sự thức tỉnh của <a href="../M/Men.md" title="Men">Con Người</a> và sự suy tàn của <a href="../E/Elves.md" title="Elves">Tiên tộc</a>, nhưng <a href="../M/Moon.md" title="Moon">Mặt Trăng</a> vẫn trân trọng ký ức của họ.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="../O/Of_the_Sun_and_Moon_and_the_Hiding_of_Valinor.md" title="Of the Sun and Moon and the Hiding of Valinor">Of the Sun and Moon and the Hiding of Valinor</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -66,7 +66,7 @@ Mặt Trời được Tiên tộc coi là dấu hiệu cho sự thức tỉnh c�
 
 ## Tên khác {#Other_names}
 
-<dl><dd><i>For the <a href="../D/Dwarves.md" title="Dwarves">Dwarf</a> see <a href="../A/Anar_(dwarf).md" title="Anar (dwarf)">Anar (dwarf)</a></i></dd></dl>
+<dl><dd><i>Đối với <a href="../D/Dwarves.md" title="Dwarves">Người Lùn</a>, hãy xem <a href="../A/Anar_(dwarf).md" title="Anar (dwarf)">Anar (người lùn)</a></i></dd></dl>
 
 Tên của Mặt Trời trong số [Tiên tộc](../E/Elves.md) bao gồm:
 
@@ -93,11 +93,11 @@ Trong phiên bản [Thế giới tròn](../R/Round_World_version_of_the_Silmaril
 
 ## Cảm hứng {#Inspiration}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mani_and_Sol.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/37/Mani_and_Sol.jpg/300px-Mani_and_Sol.jpg" decoding="async" loading="lazy" width="300" height="332" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/37/Mani_and_Sol.jpg/450px-Mani_and_Sol.jpg 1.5x, https://tolkiengateway.net/w/images/3/37/Mani_and_Sol.jpg 2x" data-file-width="542" data-file-height="600"/></a><figcaption>A depiction of the Norse god Máni and the goddess Sól (Lorenz Frølich, 1895)</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mani_and_Sol.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/37/Mani_and_Sol.jpg/300px-Mani_and_Sol.jpg" decoding="async" loading="lazy" width="300" height="332" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/37/Mani_and_Sol.jpg/450px-Mani_and_Sol.jpg 1.5x, https://tolkiengateway.net/w/images/3/37/Mani_and_Sol.jpg 2x" data-file-width="542" data-file-height="600"/></a><figcaption>Một bức tranh miêu tả thần Bắc Âu Máni và nữ thần Sól (Lorenz Frølich, 1895)</figcaption></figure>
 
 [Tolkien](../J/J.R.R._Tolkien.md) tuyên bố rằng "*[Tiên tộc](../E/Elves.md) (và [Hobbit](../H/Hobbits.md)) luôn gọi Mặt Trời là Bà*",<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[note 1]</a></sup> và Yvette L. Kisor đã nhận xét rằng việc đề cập đến Mặt Trời như một thực thể nữ trong truyền thuyết bắt nguồn từ [tiếng Bắc Âu cổ](../O/Old_Norse.md) thần thoại và ngôn ngữ.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[15]</a></sup>
 
-<dl><dd><i>See also <a href="../M/Moon.md#Inspirations" title="Moon">Moon: Inspirations</a></i></dd></dl>
+<dl><dd><i>Xem thêm <a href="../M/Moon.md#Inspirations" title="Moon">Mặt Trăng: Nguồn cảm hứng</a></i></dd></dl>
 
 ## Xem thêm {#See_also}
 
@@ -156,17 +156,17 @@ Trong phiên bản [Thế giới tròn](../R/Round_World_version_of_the_Silmaril
 <td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a> <a class="mw-redirect" href="../C/Cosmology.md" title="Cosmology">Cosmology</a></b>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"> <a href="../C/Constellations.md" title="Constellations">Constellations</a>
+<th style="background:var(--tg-color-surface-3);" align="right"> <a href="../C/Constellations.md" title="Constellations">Chòm sao</a>
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Anarríma.md" title="Anarríma">Anarríma</a></i> · <i><a href="../D/Durin&#39;s_Crown.md" title="Durin&#39;s Crown">Durin&#39;s Crown</a></i> · <i><a href="../M/Menelmacar.md" title="Menelmacar">Menelmacar</a></i> · <i><a href="../R/Remmirath.md" title="Remmirath">Remmirath</a></i> · <i><a href="Soronúmë.md" title="Soronúmë">Soronúmë</a></i> · <i><a href="../T/Telumendil.md" title="Telumendil">Telumendil</a></i> · <i><a href="../V/Valacirca.md" title="Valacirca">Valacirca</a></i> · <i><a href="../W/Wilwarin.md" title="Wilwarin">Wilwarin</a></i>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><a href="Stars.md" title="Stars">Stars</a>
+<th style="background:var(--tg-color-surface-3);" align="right"><a href="Stars.md" title="Stars">Diễn viên chính</a>
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Alcarinquë.md" title="Alcarinquë">Alcarinquë</a></i> · <i><a href="../B/Borgil.md" title="Borgil">Borgil</a></i> · <i><a href="../C/Carnil.md" title="Carnil">Carnil</a></i> · <i><a href="../E/Elemmírë.md" title="Elemmírë">Elemmírë</a></i> · <i><a href="../H/Helluin.md" title="Helluin">Helluin</a></i> · <i><a href="../L/Luinil.md" title="Luinil">Luinil</a></i> · <i><a href="../L/Lumbar.md" title="Lumbar">Lumbar</a></i> · <i><a href="../M/Morwinyon.md" title="Morwinyon">Morwinyon</a></i> · <i><a href="../N/Nénar.md" title="Nénar">Nénar</a></i> · <i><a href="Star_of_Eärendil.md" title="Star of Eärendil">Star of Eärendil</a></i> · <i><a href="../T/Til_(star).md" title="Til (star)">Til</a></i> 
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">The Airs
+<th style="background:var(--tg-color-surface-3);" align="right">Các khúc ca
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Aiwenórë.md" title="Aiwenórë">Aiwenórë</a></i> · <i><a href="../F/Fanyamar.md" title="Fanyamar">Fanyamar</a></i> · <i><a href="../I/Ilmen.md" title="Ilmen">Ilmen</a></i> · <i><a href="../M/Menel.md" title="Menel">Menel</a></i> · <i><a href="../V/Vaiya.md" title="Vaiya">Vaiya</a></i> · <i><a href="../V/Veil_of_Arda.md" title="Veil of Arda">Veil of Arda</a></i> · <i><a href="../V/Vista.md" title="Vista">Vista</a></i>
 </td></tr>
@@ -176,7 +176,7 @@ Trong phiên bản [Thế giới tròn](../R/Round_World_version_of_the_Silmaril
 <td style="font-size: 90%"> <i><a href="../A/Arien.md" title="Arien">Arien</a></i> · <i><a href="../M/Moon.md" title="Moon">Moon</a></i> (<i>Isil</i>, <i>Ithil</i>, <i>Rána</i>) · <i><a class="mw-selflink selflink">Sun</a></i> (<i>Anar</i>, <i>Anor</i>, <i>Vása</i>) · <i><a href="../T/Tilion.md" title="Tilion">Tilion</a></i>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">See also
+<th style="background:var(--tg-color-surface-3);" align="right">Xem thêm
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Abyss.md" title="Abyss">Abyss</a></i> · <i><a href="../A/Arda.md" title="Arda">Arda</a></i> · <i><a href="../C/Circles_of_the_World.md" title="Circles of the World">Circles of the World</a></i> · <i><a href="../E/Eä.md" title="Eä">Eä</a></i> · <i><a href="../T/Timeless_Halls.md" title="Timeless Halls">Timeless Halls</a></i> · <i><a href="../T/Two_Lamps.md" title="Two Lamps">Two Lamps</a></i> · <i><a href="../T/Two_Trees_of_Valinor.md" title="Two Trees of Valinor">Two Trees</a></i> · <i><a href="../V/Void.md" title="Void">Void</a></i>
 </td></tr></tbody></table>

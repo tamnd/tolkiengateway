@@ -29,7 +29,7 @@ infobox:
     value: "Unto a Long Glory..."
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/DolGuldur.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/320px-DolGuldur.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/480px-DolGuldur.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/640px-DolGuldur.jpg 2x" data-file-width="800" data-file-height="800"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Over Old Hills...</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../D/Dol_Guldur_(album).md" title="Dol Guldur (album)">Dol Guldur</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Summoning</a></td></tr><tr><th scope="row" class="tg-infobox-label">Written by</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, P.K.</td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data">Summoning</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">8:57</td></tr><tr><th scope="row" class="tg-infobox-label">Track No.</th><td class="tg-infobox-data">8</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="../U/Unto_a_Long_Glory....md" title="Unto a Long Glory...">Unto a Long Glory...</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/2UMEQkrLMLf2XOS1sjF6iV"></iframe></span>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/DolGuldur.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/320px-DolGuldur.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/480px-DolGuldur.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/640px-DolGuldur.jpg 2x" data-file-width="800" data-file-height="800"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Over Old Hills...</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../D/Dol_Guldur_(album).md" title="Dol Guldur (album)">Dol Guldur</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Triệu hồi</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, P.K.</td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data">Triệu hồi</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">8:57</td></tr><tr><th scope="row" class="tg-infobox-label">Số thứ tự bản nhạc</th><td class="tg-infobox-data">8</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="../U/Unto_a_Long_Glory....md" title="Unto a Long Glory...">Unto a Long Glory...</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Phương tiện truyền thông</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/2UMEQkrLMLf2XOS1sjF6iV"></iframe></span>
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
@@ -38,52 +38,52 @@ infobox:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>The air was neither night or a day, <br/>
-But faintly dark with softest light <br/>
-When first glimmered into sight <br/>
-The Cottage of Lost Play <br/>
+<p>Không khí không phải đêm cũng không phải ngày, <br/>
+Nhưng hơi tối với ánh sáng dịu nhất <br/>
+Khi lần đầu tiên lóe lên trong tầm mắt <br/>
+Ngôi nhà nhỏ lạc lối <br/>
 <br/>
-You and me - we know that land <br/>
-And often have been there in <br/>
-The old days, old days <br/>
-The dark child and a fair <br/>
-Was it down the paths of firelight <br/>
-Dreams in winter cold and white, <br/>
-Or in the blue-spun twilight, twilight hours <br/>
-The air was neither night or day, <br/>
-But faintly dark with softest light, <br/>
-When first there glimmered into sight <br/>
-The Cottage of Lost Play <br/>
+Bạn và tôi - chúng ta biết mảnh đất đó <br/>
+Và thường xuyên ở đó trong <br/>
+Ngày xưa, ngày xưa <br/>
+Đứa trẻ đen tối và cô nàng công bằng <br/>
+Phải chăng nó đang đi dọc theo con đường ánh lửa <br/>
+Giấc mơ mùa đông trắng lạnh <br/>
+Hay trong ánh chạng vạng xanh biếc, chạng vạng <br/>
+Không khí không phải ngày cũng như đêm, <br/>
+Nhưng hơi tối với ánh sáng dịu nhất, <br/>
+Khi lần đầu tiên lóe lên trong tầm mắt <br/>
+Ngôi nhà nhỏ lạc lối <br/>
 <br/>
-And why we never found the same <br/>
-Old cottage, or magic <br/>
-Track that leads between a silver sea, <br/>
-Between a silver sea <br/>
-And those old shores and gardens fair <br/>
-Where all things are that ever were - <br/>
-We know not, You and Me <br/>
-We know not, You and Me <br/>
+Và tại sao chúng ta không bao giờ tìm thấy <br/> tương tự
+Ngôi nhà cũ, hay phép thuật <br/>
+Con đường dẫn giữa biển bạc, <br/>
+Giữa biển bạc <br/>
+Và những bờ biển và khu vườn xưa hội chợ <br/>
+Nơi mà mọi thứ đã từng tồn tại - <br/>
+Chúng tôi không biết, Bạn và Tôi <br/>
+Chúng tôi không biết, Bạn và Tôi <br/>
 <br/>
-Those old shores and gardens fair <br/>
-Where all things are <br/>
-That ever were <br/>
+Chợ quê vườn xưa <br/>
+Nơi mọi thứ đều <br/>
+Đó đã từng là <br/>
 <br/>
-The air was neither night or day, <br/>
-But faintly dark with softest light, <br/>
-When first there glimmered into sight <br/>
-The Cottage of Lost Play <br/>
-And those old shores and gardens <br/>
-Where all things are that ever were <br/>
-We know not, You and Me, <br/>
-We know not, You and Me <br/>
+Không khí không phải ngày cũng như đêm, <br/>
+Nhưng hơi tối với ánh sáng dịu nhất, <br/>
+Khi lần đầu tiên lóe lên trong tầm mắt <br/>
+Ngôi Nhà Lạc Lối <br/>
+Và những bờ biển và khu vườn xưa <br/>
+Nơi mà mọi thứ đã từng tồn tại <br/>
+Chúng tôi không biết, Bạn và Tôi, <br/>
+Chúng tôi không biết, Bạn và Tôi <br/>
 <br/>
-And these old shores <br/>
-And gardens fair <br/>
-Where all things are <br/>
-That ever were [before] <br/>
-Air was neither night or day <br/>
-But faintly dark with softest light <br/>
-When first there glimmered <br/>
-The Cottage of Lost Play
+Và những bờ biển xưa này <br/>
+Và hội chợ vườn <br/>
+Nơi chứa đựng mọi thứ <br/>
+Điều đó đã từng là [trước] <br/>
+Không khí không phải ngày cũng như đêm <br/>
+Nhưng hơi tối với ánh sáng dịu nhất <br/>
+Khi lần đầu tiên lóe lên <br/>
+Ngôi nhà của trò chơi lạc lối
 </p>
 </div>

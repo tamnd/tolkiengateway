@@ -15,7 +15,7 @@ images:
   - "Bri.png"
 ---
 
-<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/B/Bri.png.md"><img src="https://tolkiengateway.net/w/images/1/1b/Bri.png" decoding="async" loading="lazy" width="77" height="120" class="mw-file-element" data-file-width="77" data-file-height="120"/></a><figcaption>Heraldic device of Bri</figcaption></figure>
+<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/B/Bri.png.md"><img src="https://tolkiengateway.net/w/images/1/1b/Bri.png" decoding="async" loading="lazy" width="77" height="120" class="mw-file-element" data-file-width="77" data-file-height="120"/></a><figcaption>Thiết bị huy hiệu của Bri</figcaption></figure>
 
 **Bri, Tolkienselskabet i København** ("Bree, Hiệp hội Copenhagen Tolkien") là một Hiệp hội Tolkien của Đan Mạch.
 

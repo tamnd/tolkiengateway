@@ -19,16 +19,16 @@ images:
   - "Christopher_Tolkien_-_He_chanted_a_song_of_wizardry,.wav"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
-<p>We have a long way to go, and there is time ahead for thought.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Chưa hoàn chỉnh</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này đang trong giai đoạn xây dựng ban đầu và không được coi là hoàn chỉnh hoặc thậm chí sắp hoàn thành.<blockquote class="tg-quote noexcerpt">
+<p>Chúng ta còn một chặng đường dài phía trước và vẫn còn thời gian để suy nghĩ.
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f3/KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg/300px-KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg" decoding="async" loading="lazy" width="300" height="378" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f3/KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg/450px-KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f3/KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg/600px-KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg 2x" data-file-width="796" data-file-height="1003"/></a><figcaption><i>And Finrod fell before the Throne</i> by <a href="../../category/I/Images_by_KuraiGeijutsu.md" title="Category:Images by KuraiGeijutsu">Kurai Geijutsu</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f3/KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg/300px-KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg" decoding="async" loading="lazy" width="300" height="378" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f3/KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg/450px-KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f3/KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg/600px-KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg 2x" data-file-width="796" data-file-height="1003"/></a><figcaption><i>And Finrod fell before the Throne</i> của <a href="../../category/I/Images_by_KuraiGeijutsu.md" title="Category:Images by KuraiGeijutsu">Kurai Geijutsu</a></figcaption></figure>
 
 **Ông hát một bài hát về phép thuật,**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là dòng đầu tiên trong số hai bài thơ trong Silmarillion, và là một đoạn trích cho [Lay of Leithian](../L/Lay_of_Leithian.md) theo dòng cuối cùng trước bài thơ. Đó là cuộc chiến giữa Sauron và Finrod Felagund.
 
@@ -36,22 +36,22 @@ images:
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
-<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/c/c6/Christopher_Tolkien_-_He_chanted_a_song_of_wizardry%2C.wav" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:Christopher_Tolkien_-_He_chanted_a_song_of_wizardry,.wav">https://tolkiengateway.net/wiki/File:Christopher_Tolkien_-_He_chanted_a_song_of_wizardry,.wav</a></audio><figcaption><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> reads <i>He chanted a song of wizardry,</i></figcaption></figure>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/c/c6/Christopher_Tolkien_-_He_chanted_a_song_of_wizardry%2C.wav" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:Christopher_Tolkien_-_He_chanted_a_song_of_wizardry,.wav">https://tolkiengateway.net/wiki/File:Christopher_Tolkien_-_He_chanted_a_song_of_wizardry,.wav</a></audio><figcaption><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> đọc <i>He chanted a song of wizardry,</i></figcaption></figure>
 
 <br><br><br><br><br>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>He chanted a song of wizardry, <br/>
-Of piercing, opening, of treachery, <br/>
-Revealing, uncovering, betraying. <br/>
-Then sudden Felagund there swaying, <br/>
-Sang in a song of staying, <br/>
-Resisting, battling against power, <br/>
-Of secrets kept, strength like a tower, <br/>
-And trust unbroken, freedom, escape; <br/>
-Of changing and shifting shape, <br/>
-Of snares eluded, broken traps, <br/>
-The prison opening, the chain that snaps.
+<p>Ông niệm một bài hát về phép thuật, <br/>
+Xuyên thấu, hở hang, phản bội, <br/>
+Tiết lộ, vạch trần, phản bội. <br/>
+Rồi bỗng Felagund lắc lư, <br/>
+Hát trong bài hát ở lại, <br/>
+Chống cự, đấu tranh chống lại quyền lực, <br/>
+Của những bí mật được cất giữ, sức mạnh như một tòa tháp, <br/>
+Và niềm tin không bị phá vỡ, tự do, trốn thoát; <br/>
+Về hình dạng thay đổi và dịch chuyển, <br/>
+Của cạm bẫy trốn thoát, cạm bẫy gãy, <br/>
+Nhà tù mở ra, sợi xích đứt ra.
 </p>
 </div>
 

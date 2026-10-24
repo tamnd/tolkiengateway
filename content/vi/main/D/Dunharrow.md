@@ -46,7 +46,7 @@ Một hàng kép những tảng đá dựng thô chạy ngang qua trung tâm Fir
 
 ## Lịch sử {#History}
 
-<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Roger_Garland_-_Theoden&#39;s_army_on_the_road_to_Dunharrow.JPG.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0a/Roger_Garland_-_Theoden%27s_army_on_the_road_to_Dunharrow.JPG/300px-Roger_Garland_-_Theoden%27s_army_on_the_road_to_Dunharrow.JPG" decoding="async" loading="lazy" width="300" height="492" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0a/Roger_Garland_-_Theoden%27s_army_on_the_road_to_Dunharrow.JPG/450px-Roger_Garland_-_Theoden%27s_army_on_the_road_to_Dunharrow.JPG 1.5x, https://tolkiengateway.net/w/images/thumb/0/0a/Roger_Garland_-_Theoden%27s_army_on_the_road_to_Dunharrow.JPG/600px-Roger_Garland_-_Theoden%27s_army_on_the_road_to_Dunharrow.JPG 2x" data-file-width="739" data-file-height="1211"/></a><figcaption>&#34;Theoden&#39;s army on the road to Dunharrow&#34; by <a href="../R/Roger_Garland.md" title="Roger Garland">Roger Garland</a></figcaption></figure>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Roger_Garland_-_Theoden&#39;s_army_on_the_road_to_Dunharrow.JPG.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0a/Roger_Garland_-_Theoden%27s_army_on_the_road_to_Dunharrow.JPG/300px-Roger_Garland_-_Theoden%27s_army_on_the_road_to_Dunharrow.JPG" decoding="async" loading="lazy" width="300" height="492" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0a/Roger_Garland_-_Theoden%27s_army_on_the_road_to_Dunharrow.JPG/450px-Roger_Garland_-_Theoden%27s_army_on_the_road_to_Dunharrow.JPG 1.5x, https://tolkiengateway.net/w/images/thumb/0/0a/Roger_Garland_-_Theoden%27s_army_on_the_road_to_Dunharrow.JPG/600px-Roger_Garland_-_Theoden%27s_army_on_the_road_to_Dunharrow.JPG 2x" data-file-width="739" data-file-height="1211"/></a><figcaption>"Quân đội của Theoden trên đường tới Dunharrow" của <a href="../R/Roger_Garland.md" title="Roger Garland">Roger Garland</a></figcaption></figure>
 
 Dunharrow được xây dựng vào [Kỷ Đệ Nhị](../S/Second_Age.md), trong [Những Năm Tăm Tối](Dark_Years.md), bởi những người đã bị lãng quên từ lâu, trước khi một con tàu cập bờ biển phía tây của [Middle-earth](../M/Middle-earth.md) và trước khi [Dúnedain](Dúnedain.md) thiết lập vương quốc [Gondor](../G/Gondor.md); tên của họ đã thất truyền và không còn được nhớ đến trong truyền thuyết hay ca khúc nào. Về sau, không ai ở [Rohan](../R/Rohan.md) biết nơi này được xây dựng để làm một thị trấn, một ngôi đền bí mật, một lăng mộ của các vị vua, hay vì một mục đích nào khác.<sup id="cite_ref-Muster_3-3" class="reference"><a href="#cite_note-Muster-3">[3]</a></sup>
 
@@ -68,7 +68,7 @@ Thành tố đầu tiên của tên này có lẽ là *dún* (“núi”, “đ�
 
 ## Các phiên bản khác của huyền sử {#Other_versions_of_the_legendarium}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Dunharrow.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ab/J.R.R._Tolkien_-_Dunharrow.jpg/300px-J.R.R._Tolkien_-_Dunharrow.jpg" decoding="async" loading="lazy" width="300" height="263" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ab/J.R.R._Tolkien_-_Dunharrow.jpg/450px-J.R.R._Tolkien_-_Dunharrow.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/ab/J.R.R._Tolkien_-_Dunharrow.jpg/600px-J.R.R._Tolkien_-_Dunharrow.jpg 2x" data-file-width="1000" data-file-height="878"/></a><figcaption><i>Dunharrow</i> by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (obsolete drawing)</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Dunharrow.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ab/J.R.R._Tolkien_-_Dunharrow.jpg/300px-J.R.R._Tolkien_-_Dunharrow.jpg" decoding="async" loading="lazy" width="300" height="263" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ab/J.R.R._Tolkien_-_Dunharrow.jpg/450px-J.R.R._Tolkien_-_Dunharrow.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/ab/J.R.R._Tolkien_-_Dunharrow.jpg/600px-J.R.R._Tolkien_-_Dunharrow.jpg 2x" data-file-width="1000" data-file-height="878"/></a><figcaption><i>Dunharrow</i> của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (bản vẽ lỗi thời)</figcaption></figure>
 
 Trong một bản thảo trước đó của chương [The King of the Golden Hall](../T/The_King_of_the_Golden_Hall.md), cái tên *Dunberg* được dùng cho nơi ẩn náu nơi người dân Rohan có thể bảo vệ mình lâu dài, về sau được gọi là Dunharrow.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
 
@@ -88,14 +88,14 @@ Tolkien đã thực hiện thêm hai bức vẽ khác về Dunharrow, được x
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Dunharrow.png.md" title="Dunharrow plateau in The Lord of the Rings: The Return of the King"><img alt="Dunharrow plateau in The Lord of the Rings: The Return of the King" src="https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Dunharrow.png/250px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Dunharrow.png" decoding="async" loading="lazy" width="250" height="104" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Dunharrow.png/375px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Dunharrow.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Dunharrow.png/500px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Dunharrow.png 2x" data-file-width="1920" data-file-height="798"/></a></span></div>
 			<div class="gallerytext">
-<p>Dunharrow plateau in <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>
+<p>Dunharrow cao nguyên ở <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Dunharrow.jpg.md" title="Dunharrow plateau in The Lord of the Rings Online"><img alt="Dunharrow plateau in The Lord of the Rings Online" src="https://tolkiengateway.net/w/images/thumb/c/cf/The_Lord_of_the_Rings_Online_-_Dunharrow.jpg/250px-The_Lord_of_the_Rings_Online_-_Dunharrow.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cf/The_Lord_of_the_Rings_Online_-_Dunharrow.jpg/375px-The_Lord_of_the_Rings_Online_-_Dunharrow.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/cf/The_Lord_of_the_Rings_Online_-_Dunharrow.jpg/500px-The_Lord_of_the_Rings_Online_-_Dunharrow.jpg 2x" data-file-width="1920" data-file-height="1080"/></a></span></div>
 			<div class="gallerytext">
-<p>Dunharrow plateau in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>
+<p>Dunharrow cao nguyên ở <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>
 </p>
 			</div>
 		</li>
@@ -103,7 +103,7 @@ Tolkien đã thực hiện thêm hai bức vẽ khác về Dunharrow, được x
 
 <b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể những chiếc nhẫn Trực tuyến</a></i>:</b>
 
-<dl><dd>The Dunharrow plateau is a major landmark in the &#34;Kingstead&#34; area of <a href="../W/Westemnet.md" title="Westemnet">Westemnet</a>.</dd></dl>
+<dl><dd>Cao nguyên Dunharrow là địa danh chính trong khu vực "Kingstead" của <a href="../W/Westemnet.md" title="Westemnet">Westemnet</a>.</dd></dl>
 
 <span></span>
 

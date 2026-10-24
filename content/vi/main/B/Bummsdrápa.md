@@ -22,11 +22,11 @@ infobox:
 <br>
 
 <table class="tg-infobox floatright">
-  <tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Poems by J.R.R. Tolkien</a></td></tr>
+  <tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Thơ của J.R.R. Tolkien</a></td></tr>
   <tr><th colspan="2" class="tg-infobox-title"><span><i>Bummsdrápa</i></span></th></tr>
-  <tr><th colspan="2" class="tg-infobox-header"><span>Poem Information</span></th></tr>
-  <tr><th scope="row" class="tg-infobox-label">Written</th><td class="tg-infobox-data">Around the <a href="../_/1920.md" title="1920">1920s</a> and early <a href="../_/1930.md" title="1930">1930s</a></td></tr>
-  <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data">Satire, Icelandic mythology, Kolbítar</td></tr>
+  <tr><th colspan="2" class="tg-infobox-header"><span>Thông tin về bài thơ</span></th></tr>
+  <tr><th scope="row" class="tg-infobox-label">Viết</th><td class="tg-infobox-data">Khoảng <a href="../_/1920.md" title="1920">1920</a> và đầu <a href="../_/1930.md" title="1930">1930</a></td></tr>
+  <tr><th scope="row" class="tg-infobox-label">Chủ đề</th><td class="tg-infobox-data">Châm biếm, thần thoại Iceland, Kolbítar</td></tr>
 </tbody></table>
 
 <i><b>Bummsdrápa</b></i> là một bài thơ châm biếm ba trang chưa xuất bản "bằng bút và mực"<sup id="cite_ref-poem_1-0" class="reference"><a href="#cite_note-poem-1">[1]</a></sup> được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào [những năm 1920](../_/1920.md) hoặc đầu [những năm 1930](../_/1930.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>. Thư viện [Đại học Leeds](../U/University_of_Leeds.md) đã lấy được bản thảo của *Bummsdrápa* vào ngày [6 tháng 2](../_/6_February.md), [1952](../_/1952.md).<sup id="cite_ref-poem_1-1" class="reference"><a href="#cite_note-poem-1">[1]</a></sup> Bài thơ đề cập đến Kolbítar, một nhóm do Tolkien thành lập để nói về thần thoại Iceland. [C.S. Lewis](../C/C.S._Lewis.md), [Richard Wagner](../R/Richard_Wagner.md) và <a class="extiw" href="http://en.wikipedia.org/wiki/Charles_Talbut_Onions" title="wikipedia:Charles Talbut Onions">C.T. Onions</a> là thành viên của nhóm này. Nhóm đã tạo ra [Inklings](../I/Inklings.md) trước.<sup id="cite_ref-guide_3-0" class="reference"><a href="#cite_note-guide-3">[3]</a></sup>

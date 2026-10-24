@@ -17,38 +17,38 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Light seems fair and proud <br/>
-First borns noble crowd <br/>
-Open hearts uncorrupted <br/>
-Maintain eternal tranquillity <br/>
+<p>Ánh sáng có vẻ công bằng và kiêu hãnh <br/>
+Đám đông quý tộc sinh con đầu lòng <br/>
+Hãy mở rộng trái tim không bị hư hỏng <br/>
+Giữ vững sự bình yên vĩnh hằng <br/>
 <br/>
-Beast, filthy kind <br/>
-Sick soul, broken mind <br/>
-Light burns their blackened eyes <br/>
-Spoiled blood, impure heart <br/>
+Quái vật, loại bẩn thỉu <br/>
+Tâm hồn bệnh tật, tâm trí tan nát <br/>
+Ánh sáng đốt cháy đôi mắt đen láy của họ <br/>
+Máu hư, tâm không trong sạch <br/>
 <br/>
-See their purest forms <br/>
-Hear high minded thoughts <br/>
-Denote the total contrast of <br/>
-The race made by Morgoth <br/>
+Xem hình thức tinh khiết nhất của chúng <br/>
+Nghe tâm tư cao vời <br/>
+Biểu thị độ tương phản tổng của <br/>
+Cuộc đua được thực hiện bởi Morgoth <br/>
 <br/>
-Stretched elven bodies <br/>
-Torture pestilential <br/>
-Dark side of the distant stars <br/>
-Unnatural creation <br/>
+Cơ thể yêu tinh kéo dài <br/>
+Tra tấn dịch bệnh <br/>
+Mặt tối của những ngôi sao xa xôi <br/>
+Sáng tạo không tự nhiên <br/>
 <br/>
-Ironic how they were taken <br/>
-So far from each other <br/>
-Deepest dark, merest light <br/>
-From the one and the same awakening <br/>
+Thật trớ trêu là họ đã bị bắt <br/>
+Xa nhau quá <br/>
+Bóng tối sâu thẳm nhất, ánh sáng đơn thuần nhất <br/>
+Từ cùng một sự thức tỉnh <br/>
 <br/>
-Cunning was the plan of Morgoth <br/>
-Those foolish did all the work <br/>
-He came and culled the harvest <br/>
-Bred the fruits for his purpose <br/>
-Unaware folk of the stars <br/>
-Forced into wounds and dreadful scars <br/>
-To raid the lands under his summons <br/>
-Destroy the race that they once were<br/>
+Xảo quyệt là kế hoạch của Morgoth <br/>
+Những kẻ ngu ngốc đó đã làm hết việc <br/>
+Anh đến thu hoạch <br/>
+Nhân giống thành quả đúng mục đích của mình <br/>
+Dân gian vô danh của các vì sao <br/>
+Bị ép vào những vết thương và những vết sẹo khủng khiếp <br/>
+Để đột kích các vùng đất dưới sự triệu tập của ông <br/>
+Tiêu diệt chủng tộc mà họ từng là<br/>
 </p>
 </div>

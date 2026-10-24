@@ -14,7 +14,7 @@ images:
   - "Stephen_Walsh_-_Lúthien_dances.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stephen_Walsh_-_Lúthien_dances.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4c/Stephen_Walsh_-_L%C3%BAthien_dances.jpg/250px-Stephen_Walsh_-_L%C3%BAthien_dances.jpg" decoding="async" loading="lazy" width="250" height="332" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4c/Stephen_Walsh_-_L%C3%BAthien_dances.jpg/375px-Stephen_Walsh_-_L%C3%BAthien_dances.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4c/Stephen_Walsh_-_L%C3%BAthien_dances.jpg/500px-Stephen_Walsh_-_L%C3%BAthien_dances.jpg 2x" data-file-width="996" data-file-height="1323"/></a><figcaption><i>Lúthien dances</i> by <a href="../S/Stephen_Walsh.md" title="Stephen Walsh">Stephen Walsh</a></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stephen_Walsh_-_Lúthien_dances.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4c/Stephen_Walsh_-_L%C3%BAthien_dances.jpg/250px-Stephen_Walsh_-_L%C3%BAthien_dances.jpg" decoding="async" loading="lazy" width="250" height="332" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4c/Stephen_Walsh_-_L%C3%BAthien_dances.jpg/375px-Stephen_Walsh_-_L%C3%BAthien_dances.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4c/Stephen_Walsh_-_L%C3%BAthien_dances.jpg/500px-Stephen_Walsh_-_L%C3%BAthien_dances.jpg 2x" data-file-width="996" data-file-height="1323"/></a><figcaption><i>Lúthien dances</i> của <a href="../S/Stephen_Walsh.md" title="Stephen Walsh">Stephen Walsh</a></figcaption></figure>
 
 **Cây độc cần** là một loại hoa dại<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> gắn liền với cuộc gặp gỡ của [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md), nổi tiếng nhất trong [bài thơ](../S/Song_of_Beren_and_Lúthien.md) do [Aragorn](../A/Aragorn.md) hát.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
@@ -30,7 +30,7 @@ Có tranh luận xung quanh loại cây độc cần chính xác đã truyền c
 
 <b>1984-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i></b>
 
-<dl><dd><i><b>Water Hemlocks</b></i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Ulucthond</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Ulcasunda</i>) were a type of hemlock described in the game&#39;s books, which grew in Wetlands. They were compared to parsnips, having a tuber like it and turnips, though this one was poisonous. The juice from its root could be mixed with its antidote, the curoloth flower, to make a powerful poison to apply on blades, fittingly called <i>blade hemlock</i>. <sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup></dd></dl>
+<dl><dd><i><b>Water Hemlocks</b></i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Ulucthond</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Ulcasunda</i>) là một loại cây độc cần được mô tả trong sách của trò chơi, mọc ở Vùng đất ngập nước. Chúng được so sánh với rau mùi tây, có củ giống như củ cải và củ cải, mặc dù loại củ này có độc. Nước ép từ rễ của nó có thể được trộn với thuốc giải độc của nó, hoa Curoloth, để tạo thành một chất độc cực mạnh bôi lên lưỡi kiếm, được gọi một cách thích hợp là <i>blade hemlock</i>. <sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup></dd></dl>
 
 ## Ghi chú {#Notes}
 

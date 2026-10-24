@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/Magân"
 content_sha256: 87265ec176d01faad5242680bd8e0f39a6ee08fee08196bd35b6c14512e3febb
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Adûnaic word"
+short_description: "Adûnaic từ"
 categories:
   - "Adûnaic words"
 hidden_categories:

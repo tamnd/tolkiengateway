@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Adûnaic"
 content_sha256: 789a4a298f355fd42f4f348ebb031e34d78f9da8626cf957bc668f4e6938b0bb
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Native language of the Númenóreans"
+short_description: "Ngôn ngữ bản địa của người Númenor"
 categories:
   - "Adûnaic"
 hidden_categories:
@@ -93,7 +93,7 @@ Adûnaic cổ điển có 21 phụ âm:<sup id="cite_ref-Structure_19-2" class="
 <tr>
 <td>Nasal
 </td>
-<td>mh m
+<td>ừm tôi
 </td>
 <td>nh n
 </td>
@@ -106,7 +106,7 @@ Adûnaic cổ điển có 21 phụ âm:<sup id="cite_ref-Structure_19-2" class="
 </td>
 <td>ph
 </td>
-<td>th s z
+<td>thứ đó
 </td>
 <td>kh
 </td>
@@ -199,7 +199,7 @@ Danh từ có ba số: **số ít**, **số đôi** và **số nhiều**. Số �
 #### Ví dụ về biến cách danh từ<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[23]</a></sup> {#Examples_of_noun_inflection[23]}
 
 <table class="wikitable">
-<caption>Strong inflection: <i>zadan</i> (neuter) &#39;house&#39;
+<caption>Biến tố mạnh: <i>zadan</i> (trung tính) 'ngôi nhà'
 </caption>
 <tbody><tr>
 <th>
@@ -211,9 +211,9 @@ Danh từ có ba số: **số ít**, **số đôi** và **số nhiều**. Số �
 <th>Objective
 </th></tr>
 <tr>
-<td>Singular
+<td>Số ít
 </td>
-<td>zadan
+<td>Zadan
 </td>
 <td>zadân
 </td>
@@ -229,17 +229,17 @@ Danh từ có ba số: **số ít**, **số đôi** và **số nhiều**. Số �
 <td>–
 </td></tr>
 <tr>
-<td>Plural
+<td>Số nhiều
 </td>
-<td>zadîn
+<td>Zadîn
 </td>
-<td>zadîna
+<td>Zadina
 </td>
 <td>–
 </td></tr></tbody></table>
 
 <table class="wikitable">
-<caption>Weak inflection: <i>bâr</i> (masculine) &#39;lord&#39;
+<caption>Biến điệu yếu: <i>bâr</i> (nam tính) 'chúa tể'
 </caption>
 <tbody><tr>
 <th>
@@ -251,13 +251,13 @@ Danh từ có ba số: **số ít**, **số đôi** và **số nhiều**. Số �
 <th>Objective
 </th></tr>
 <tr>
-<td>Singular
+<td>Số ít
 </td>
-<td>bâr
+<td>thanh
 </td>
 <td>bârun
 </td>
-<td>bâru-
+<td>baru-
 </td></tr>
 <tr>
 <td>Dual
@@ -269,9 +269,9 @@ Danh từ có ba số: **số ít**, **số đôi** và **số nhiều**. Số �
 <td>–
 </td></tr>
 <tr>
-<td>Plural
+<td>Số nhiều
 </td>
-<td>bârî
+<td>barî
 </td>
 <td>bârîm
 </td>
@@ -299,54 +299,54 @@ Cách dùng chính xác của thì hiện tại tiếp diễn và quá khứ ti�
 Nếu chủ ngữ của động từ là đại từ nhân xưng, thì chủ ngữ được biểu thị bằng một tiền tố đại từ. Các tiền tố đại từ thường được dùng kết hợp với một danh từ độc lập, ví dụ: *bâr <u>u</u>kallaba* 'chúa tể [<u>ngài</u>] ngã xuống'.<sup id="cite_ref-Nouns_23-5" class="reference"><a href="#cite_note-Nouns-23">[22]</a></sup> Từ các nguồn tư liệu, chúng ta có thể phục dựng một hệ thống tiền tố đại từ chưa hoàn chỉnh.
 
 <table class="wikitable">
-<caption>Pronominal prefixes
+<caption>tiền tố danh từ
 </caption>
 <tbody><tr>
 <th>
 </th>
-<th>Singular
+<th>Số ít
 </th>
-<th>Plural
+<th>Số nhiều
 </th></tr>
 <tr>
 <td>1 p.
 </td>
 <td>–
 </td>
-<td>?<i><u>nê</u>nud</i> &#39;on <u>us</u>&#39;<sup id="cite_ref-night67_27-1" class="reference"><a href="#cite_note-night67-27">[26]</a></sup>
+<td>?<i><u>nê</u>nud</i> 'trên <u>chúng tôi</u>'<sup id="cite_ref-night67_27-1" class="reference"><a href="#cite_note-night67-27">[26]</a></sup>
 </td></tr>
 <tr>
 <td>2 p.
 </td>
-<td><i><u>ki</u>tabdahê</i> &#39;<u>you</u> touch me&#39;<sup id="cite_ref-night67_27-2" class="reference"><a href="#cite_note-night67-27">[26]</a></sup>
+<td><i><u>ki</u>tabdahê</i> '<u>bạn</u> chạm vào tôi'<sup id="cite_ref-night67_27-2" class="reference"><a href="#cite_note-night67-27">[26]</a></sup>
 </td>
 <td>–
 </td></tr>
 <tr>
-<td>3 p. masculine
+<td>3 giờ chiều giống đực
 </td>
-<td><i><u>u</u>saphda</i> &#39;he understood&#39;<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[27]</a></sup>
+<td><i><u>u</u>saphda</i> 'ông hiểu rồi'<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[27]</a></sup>
 </td>
-<td><i><u>yu</u>rahtam</i> &#39;<u>they</u> rent&#39;<sup id="cite_ref-night67_27-3" class="reference"><a href="#cite_note-night67-27">[26]</a></sup>
+<td><i><u>yu</u>rahtam</i> '<u>họ</u> thuê'<sup id="cite_ref-night67_27-3" class="reference"><a href="#cite_note-night67-27">[26]</a></sup>
 </td></tr>
 <tr>
-<td>3 p. feminine
+<td>3 giờ chiều nữ tính
 </td>
-<td><i><u>hi</u>kallaba</i> &#39;she fell&#39;<sup id="cite_ref-night67_27-4" class="reference"><a href="#cite_note-night67-27">[26]</a></sup>
+<td><i><u>hi</u>kallaba</i> 'bà bị ngã'<sup id="cite_ref-night67_27-4" class="reference"><a href="#cite_note-night67-27">[26]</a></sup>
 </td>
 <td>–
 </td></tr>
 <tr>
-<td>3 p. common
+<td>3 giờ chiều chung
 </td>
 <td>–
 </td>
-<td><i><u>ya</u>nâkhim</i> &#39;<u>they</u> are at hand&#39;<sup id="cite_ref-night67_27-5" class="reference"><a href="#cite_note-night67-27">[26]</a></sup>
+<td><i><u>ya</u>nâkhim</i> '<u>họ</u> đã ở trong tầm tay'<sup id="cite_ref-night67_27-5" class="reference"><a href="#cite_note-night67-27">[26]</a></sup>
 </td></tr>
 <tr>
-<td>3 p. neuter
+<td>3 giờ chiều trung tính
 </td>
-<td><i><u>a</u>yadda</i> &#39;it went&#39;<sup id="cite_ref-night67_27-6" class="reference"><a href="#cite_note-night67-27">[26]</a></sup>
+<td><i><u>a</u>yadda</i> 'nó đi rồi'<sup id="cite_ref-night67_27-6" class="reference"><a href="#cite_note-night67-27">[26]</a></sup>
 </td>
 <td>–
 </td></tr></tbody></table>
@@ -457,7 +457,7 @@ Adûnaic mang sắc thái hơi giống các ngôn ngữ Semit.<sup id="cite_ref-
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5);" colspan="2"><a href="../L/Languages.md" title="Languages">Languages</a> and scripts in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a>&#39;s works
+<th align="center" style="background:var(--tg-color-surface-5);" colspan="2"><a href="../L/Languages.md" title="Languages">Ngôn ngữ</a> và chữ viết trong tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a>
 </th></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../E/Elvish.md" title="Elvish">Elvish</a>
@@ -465,9 +465,9 @@ Adûnaic mang sắc thái hơi giống các ngôn ngữ Semit.<sup id="cite_ref-
 <td style="font-size: 90%; padding-left: 4px;"><a href="Angerthas.md" title="Angerthas">Angerthas</a> (<a href="Angerthas_Daeron.md" title="Angerthas Daeron">Angerthas Daeron</a>) · <a href="Avarin.md" title="Avarin">Avarin</a> (<a class="mw-redirect" href="../E/East_Avarin.md" title="East Avarin">East</a> · <a class="mw-redirect" href="../N/North_Avarin.md" title="North Avarin">North</a> · <a class="mw-redirect" href="../W/West_Avarin.md" title="West Avarin">West</a>) · <a href="../C/Cirth.md" title="Cirth">Cirth</a> (<a href="../C/Certhas_Daeron.md" title="Certhas Daeron">Certhas Daeron</a>) · <a href="../C/Common_Eldarin.md" title="Common Eldarin">Common Eldarin</a> · <a href="../M/Mátengwië.md" title="Mátengwië">Mátengwië</a> · <a href="../M/Moon-letters.md" title="Moon-letters">Moon-letters</a> · <a class="mw-redirect" href="../N/Nandorin.md" title="Nandorin">Nandorin</a> · <a href="../P/Primitive_Quendian.md" title="Primitive Quendian">Primitive Quendian</a> · <a href="../Q/Quenya.md" title="Quenya">Quenya</a> (<a href="../E/Exilic_Quenya.md" title="Exilic Quenya">Exilic</a> · <a href="../V/Valinorean_Quenya.md" title="Valinorean Quenya">Valinorean</a> · <a class="mw-redirect" href="../V/Vanyarin_Quenya.md" title="Vanyarin Quenya">Vanyarin</a>) · <a href="../S/Sarati.md" title="Sarati">Sarati</a> · <a href="../S/Silvan_Elvish.md" title="Silvan Elvish">Silvan Elvish</a> · <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> (<a href="../D/Doriathrin.md" title="Doriathrin">Doriathrin</a> · <a href="../F/Falathrin.md" title="Falathrin">Falathrin</a> · <a href="../N/Númenórean_Sindarin.md" title="Númenórean Sindarin">Númenórean</a> · <a href="../N/North_Sindarin.md" title="North Sindarin">Mithrimin</a> · <a href="../O/Old_Sindarin.md" title="Old Sindarin">Old</a>) · <a href="../T/Telerin.md" title="Telerin">Telerin</a> (<a href="../C/Common_Telerin.md" title="Common Telerin">Common</a>) · <a href="../T/Tengwar.md" title="Tengwar">Tengwar</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../M/Mannish.md" title="Mannish">Mannish</a>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../M/Mannish.md" title="Mannish">Thuộc về Con Người</a>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a class="mw-selflink selflink">Adûnaic</a> · <a href="../D/Drúadan_language.md" title="Drúadan language">Drúadan</a> · <a href="../D/Dunlendish.md" title="Dunlendish">Dunlendish</a> · <a href="../H/Halethian.md" title="Halethian">Halethian</a> · <a href="../N/Northern_Mannish.md" title="Northern Mannish">Northern Mannish</a> (<a href="../L/Language_of_Dale.md" title="Language of Dale">Language of Dale</a> · <a href="../R/Rohanese.md" title="Rohanese">Rohanese</a>) · <a href="../P/Pre-Númenórean.md" title="Pre-Númenórean">Pre-Númenórean</a> · <a href="../T/Taliska.md" title="Taliska">Taliska</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Skirditaila&amp;action=edit&amp;redlink=1" title="Skirditaila (page does not exist)">Taliskan skirditaila</a> · <a href="../W/Westron.md" title="Westron">Westron</a> (<a href="../B/Bucklandish.md" title="Bucklandish">Bucklandish</a> · <a href="../H/Hobbitish.md" title="Hobbitish">Hobbitish</a>)
+<td style="font-size: 90%; padding-left: 4px;"><a class="mw-selflink selflink">Adûnaic</a> · <a href="../D/Drúadan_language.md" title="Drúadan language">Drúadan</a> · <a href="../D/Dunlendish.md" title="Dunlendish">Dunlendish</a> · <a href="../H/Halethian.md" title="Halethian">Halethian</a> · <a href="../N/Northern_Mannish.md" title="Northern Mannish">Mannish miền Bắc</a> (<a href="../L/Language_of_Dale.md" title="Language of Dale">Ngôn ngữ Dale</a> · <a href="../R/Rohanese.md" title="Rohanese">Rohanese</a>) · <a href="../P/Pre-Númenórean.md" title="Pre-Númenórean">Pre-Númenórean</a> · <a href="../T/Taliska.md" title="Taliska">Taliska</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Skirditaila&amp;action=edit&amp;redlink=1" title="Skirditaila (page does not exist)">Taliskan skirditaila</a> · <a href="../W/Westron.md" title="Westron">Westron</a> (<a href="../B/Bucklandish.md" title="Bucklandish">Bucklandish</a> · <a href="../H/Hobbitish.md" title="Hobbitish">Hobbitish</a>)
 </td></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Dwarvish
@@ -475,27 +475,27 @@ Adûnaic mang sắc thái hơi giống các ngôn ngữ Semit.<sup id="cite_ref-
 <td style="font-size: 90%; padding-left: 4px;"><a href="Angerthas.md" title="Angerthas">Angerthas</a> (<a href="Angerthas_Erebor.md" title="Angerthas Erebor">Erebor</a> · <a href="Angerthas_Moria.md" title="Angerthas Moria">Moria</a>) · <a href="Aulëan.md" title="Aulëan">Aulëan</a> · <a href="../I/Iglishmêk.md" title="Iglishmêk">Iglishmêk</a> · <a href="../K/Khuzdul.md" title="Khuzdul">Khuzdul</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Other
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Khác
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../B/Black_Speech.md" title="Black Speech">Black Speech</a> · <a href="../M/Melkian.md" title="Melkian">Melkian</a> · <a href="../E/Entish.md" title="Entish">Old Entish</a> · <a href="../O/Orkish.md" title="Orkish">Orkish</a> · <a href="../V/Valarin.md" title="Valarin">Valarin</a> · <a href="../W/Wolf-language.md" title="Wolf-language">Wolf-language</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Earlier legendarium
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Huyền sử thời kỳ đầu
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../G/Gnomish.md" title="Gnomish">Gnomish</a> · <a href="../G/Gnomic_Letters.md" title="Gnomic Letters">Gnomic Letters</a> · <a href="../G/Gondolinic_Runes.md" title="Gondolinic Runes">Gondolinic Runes</a> · <a href="../I/Ilkorin.md" title="Ilkorin">Ilkorin</a> · <a href="../K/Keladian.md" title="Keladian">Keladian</a> · <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> (<a href="../F/Fëanorian_dialect.md" title="Fëanorian dialect">Fëanorian dialect</a> · <a href="../K/Kornoldorin.md" title="Kornoldorin">Kornoldorin</a>) · <a href="../O/Oromëan.md" title="Oromëan">Oromëan</a> · <a href="../Q/Qenya.md" title="Qenya">Qenya</a> · <a href="../V/Valmaric_script.md" title="Valmaric script">Valmaric script</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../G/Gnomish.md" title="Gnomish">Gnomish</a> · <a href="../G/Gnomic_Letters.md" title="Gnomic Letters">Chữ Gnomic</a> · <a href="../G/Gondolinic_Runes.md" title="Gondolinic Runes">Rune Gondolinic</a> · <a href="../I/Ilkorin.md" title="Ilkorin">Ilkorin</a> · <a href="../K/Keladian.md" title="Keladian">Keladian</a> · <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> (<a href="../F/Fëanorian_dialect.md" title="Fëanorian dialect">Phương ngữ Fëanorian</a> · <a href="../K/Kornoldorin.md" title="Kornoldorin">Kornoldorin</a>) · <a href="../O/Oromëan.md" title="Oromëan">Oromëan</a> · <a href="../Q/Qenya.md" title="Qenya">Qenya</a> · <a href="../V/Valmaric_script.md" title="Valmaric script">Chữ Valmaric</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Outside the legendarium
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Ngoài huyền sử
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="Animalic.md" title="Animalic">Animalic</a> · <a href="Arktik.md" title="Arktik">Arktik</a> · <a href="../G/Gautisk.md" title="Gautisk">Gautisk</a> · <a href="../G/Goblin_Alphabet.md" title="Goblin Alphabet">Goblin Alphabet</a> · <a href="../M/Mágol.md" title="Mágol">Mágol</a> · <a href="../N/Naffarin.md" title="Naffarin">Naffarin</a> · <a href="../N/New_English_Alphabet.md" title="New English Alphabet">New English Alphabet</a> · <a href="../N/Nevbosh.md" title="Nevbosh">Nevbosh</a> · <a href="../P/Privata_Kodo_Skauta.md" title="Privata Kodo Skauta">Privata Kodo Skauta</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Real-world
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Thế giới thực
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../C/Celtic.md" title="Celtic">Celtic</a> · <a href="../M/Modern_English.md" title="Modern English">English</a> (<a href="../O/Old_English.md" title="Old English">Old</a> · <a href="../M/Middle_English.md" title="Middle English">Middle</a> · <a href="AB_language.md" title="AB language">AB</a>) · <a href="../F/Finnish.md" title="Finnish">Finnish</a> · <a href="../N/North_Germanic_languages.md" title="North Germanic languages">Germanic</a> · <a href="../G/Gothic.md" title="Gothic">Gothic</a> · <a href="../H/Hebrew.md" title="Hebrew">Hebrew</a> · <a href="../L/Latin.md" title="Latin">Latin</a> · <a href="../R/Runes.md" title="Runes">Runic alphabet</a> · <a href="../W/Welsh.md" title="Welsh">Welsh</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../C/Celtic.md" title="Celtic">Celtic</a> · <a href="../M/Modern_English.md" title="Modern English">Tiếng Anh</a> (<a href="../O/Old_English.md" title="Old English">Cổ</a> · <a href="../M/Middle_English.md" title="Middle English">Trung</a> · <a href="AB_language.md" title="AB language">AB</a>) · <a href="../F/Finnish.md" title="Finnish">Tiếng Phần Lan</a> · <a href="../N/North_Germanic_languages.md" title="North Germanic languages">Tiếng Đức</a> · <a href="../G/Gothic.md" title="Gothic">Tiếng Gothic</a> · <a href="../H/Hebrew.md" title="Hebrew">tiếng Hebrew</a> · <a href="../L/Latin.md" title="Latin">Tiếng Latinh</a> · <a href="../R/Runes.md" title="Runes">Bảng chữ cái runic</a> · <a href="../W/Welsh.md" title="Welsh">tiếng Wales</a>
 </td></tr>
 <tr>
-<td align="center" style="background: var(--tg-color-surface-3); font-size: 90%;" colspan="2"><i><a href="Alphabet_of_Fëanor%253A_Numenian,_or_Westron,_Mode.md" title="Alphabet of Fëanor: Numenian, or Westron, Mode">Alphabet of Fëanor: Numenian, or Westron, Mode</a></i> · &#34;<a href="A_Secret_Vice.md" title="A Secret Vice">A Secret Vice</a>&#34; (<i><a class="mw-redirect" href="A_Secret_Vice_(book).md" title="A Secret Vice (book)">book</a></i>) · &#34;<a href="../T/The_Lhammas.md" title="The Lhammas">The Lhammas</a>&#34; · &#34;<a href="../T/The_Tree_of_Tongues.md" title="The Tree of Tongues">The Tree of Tongues</a>&#34; · <a href="../S/Sub-creation.md" title="Sub-creation">Sub-creation</a>
+<td align="center" style="background: var(--tg-color-surface-3); font-size: 90%;" colspan="2"><i><a href="Alphabet_of_Fëanor%253A_Numenian,_or_Westron,_Mode.md" title="Alphabet of Fëanor: Numenian, or Westron, Mode">Alphabet of Fëanor: Numenian, or Westron, Mode</a></i> · "<a href="A_Secret_Vice.md" title="A Secret Vice">Một phó tướng bí mật</a>" (<i><a class="mw-redirect" href="A_Secret_Vice_(book).md" title="A Secret Vice (book)">book</a></i>) · "<a href="../T/The_Lhammas.md" title="The Lhammas">The Lhammas</a>" · "<a href="../T/The_Tree_of_Tongues.md" title="The Tree of Tongues">Cây lưỡi</a>" · <a href="../S/Sub-creation.md" title="Sub-creation">Sáng tạo phụ</a>
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
@@ -506,47 +506,47 @@ Adûnaic mang sắc thái hơi giống các ngôn ngữ Semit.<sup id="cite_ref-
 <td align="center" style="background: var(--tg-color-surface-3); font-size: 90%;" colspan="3"><i>Andor · Atalantë · <a href="../E/Elenna.md" title="Elenna">Elenna</a> · Mar-nu-Falmar · Númenórë · Westernesse</i>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Regions
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Các vùng
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="Andustar.md" title="Andustar">Andustar</a> · <a href="Arandor.md" title="Arandor">Arandor</a> · <a href="../E/Emerië.md" title="Emerië">Emerië</a> · <a href="../F/Forostar.md" title="Forostar">Forostar</a> · <a href="../H/Hyarastorni.md" title="Hyarastorni">Hyarastorni</a> · <a href="../H/Hyarnustar.md" title="Hyarnustar">Hyarnustar</a> · <a href="../H/Hyarrostar.md" title="Hyarrostar">Hyarrostar</a> · <a href="../M/Mittalmar.md" title="Mittalmar">Mittalmar</a> · <a href="../N/Nísimaldar.md" title="Nísimaldar">Nísimaldar</a> · <a href="../O/Orrostar.md" title="Orrostar">Orrostar</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Towns and cities
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Thị trấn và thành phố
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="Almaida.md" title="Almaida">Almaida</a> · <a href="Andúnië.md" title="Andúnië">Andúnië</a> · <a href="Armenelos.md" title="Armenelos">Armenelos</a> · <a href="../E/Eldalondë.md" title="Eldalondë">Eldalondë</a> · <a href="../M/Moriondë.md" title="Moriondë">Moriondë</a> · <a href="../N/Nindamos.md" title="Nindamos">Nindamos</a> · <a href="../O/Ondosto.md" title="Ondosto">Ondosto</a> · <a href="../R/Rómenna.md" title="Rómenna">Rómenna</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Buildings
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Công trình kiến trúc
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../C/Calmindon.md" title="Calmindon">Calmindon</a> · <a href="../E/Eämbar.md" title="Eämbar">Eämbar</a> · <a href="../K/King&#39;s_Court.md" title="King&#39;s Court">King&#39;s Court</a> · <a href="../T/Temple.md" title="Temple">Temple</a> · <a href="../W/White_House_of_Erendis.md" title="White House of Erendis">White House of Erendis</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Natural features
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Đặc điểm tự nhiên
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../B/Bay_of_Eldanna.md" title="Bay of Eldanna">Bay of Eldanna</a> · <a href="../B/Bay_of_Rómenna.md" title="Bay of Rómenna">Bay of Rómenna</a> · <a href="../F/Firth_of_Rómenna.md" title="Firth of Rómenna">Firth of Rómenna</a> · <a href="../H/Hallow_of_Eru.md" title="Hallow of Eru">Hallow of Eru</a> · <a href="../M/Meneltarma.md" title="Meneltarma">Meneltarma</a> (mountain) · <a href="../N/Nísinen.md" title="Nísinen">Nísinen</a> (lake) · <a href="../N/North_Cape.md" title="North Cape">North Cape</a> · <a href="../N/Nunduinë.md" title="Nunduinë">Nunduinë</a> (river) · <a href="../O/Oromet.md" title="Oromet">Oromet</a> (mountain) · <a href="../S/Siril.md" title="Siril">Siril</a> (river) · <a href="../S/Sorontil.md" title="Sorontil">Sorontil</a> (mountain) · <a href="../T/Tarmasundar.md" title="Tarmasundar">Tarmasundar</a> (ridges) · <a href="../T/Tompollë.md" title="Tompollë">Tompollë</a>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../B/Bay_of_Eldanna.md" title="Bay of Eldanna">Vịnh Eldanna</a> · <a href="../B/Bay_of_Rómenna.md" title="Bay of Rómenna">Vịnh Rómenna</a> · <a href="../F/Firth_of_Rómenna.md" title="Firth of Rómenna">Firth of Rómenna</a> · <a href="../H/Hallow_of_Eru.md" title="Hallow of Eru">Hallow of Eru</a> · <a href="../M/Meneltarma.md" title="Meneltarma">Meneltarma</a> (núi) · <a href="../N/Nísinen.md" title="Nísinen">Nísinen</a> (hồ) · <a href="../N/North_Cape.md" title="North Cape">North Cape</a> · <a href="../N/Nunduinë.md" title="Nunduinë">Nunduinë</a> (sông) · <a href="../O/Oromet.md" title="Oromet">Oromet</a> (núi) · <a href="../S/Siril.md" title="Siril">Siril</a> (sông) · <a href="../S/Sorontil.md" title="Sorontil">Sorontil</a> (núi) · <a href="../T/Tarmasundar.md" title="Tarmasundar">Tarmasundar</a> (rặng núi) · <a href="../T/Tompollë.md" title="Tompollë">Tompollë</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Plants and trees
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Thực vật và cây cối
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../F/Fragrant_Trees.md" title="Fragrant Trees">Fragrant Trees</a> · <a href="../L/Lairelossë.md" title="Lairelossë">Lairelossë</a> · <a href="../L/Laurinquë.md" title="Laurinquë">Laurinquë</a> · <a href="../L/Lavaralda.md" title="Lavaralda">Lavaralda</a> · <a href="../N/Nessamelda.md" title="Nessamelda">Nessamelda</a> · <a href="../N/Nimloth_(tree).md" title="Nimloth (tree)">Nimloth</a> · <a href="../O/Oiolairë.md" title="Oiolairë">Oiolairë</a> · <a href="../T/Taniquelassë.md" title="Taniquelassë">Taniquelassë</a> · <a href="../V/Vardarianna.md" title="Vardarianna">Vardarianna</a> · <a href="../Y/Yavannamírë.md" title="Yavannamírë">Yavannamírë</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Heirlooms
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Gia bảo
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="Aranrúth.md" title="Aranrúth">Aranrúth</a> · <a href="../B/Bow_of_Bregor.md" title="Bow of Bregor">Bow of Bregor</a> · <a href="../D/Dramborleg.md" title="Dramborleg">Dramborleg</a> · <a class="mw-redirect" href="../E/Elendilmir.md" title="Elendilmir">Elendilmir</a> · <a href="../N/Narsil.md" title="Narsil">Narsil</a> · &#34;<a href="../N/Númenórean_helmet.md" title="Númenórean helmet">Númenórean helmet</a>&#34; · <a href="../P/Palantíri.md" title="Palantíri">Palantíri</a> · <a href="../R/Ring_of_Barahir.md" title="Ring of Barahir">Ring of Barahir</a> · <a href="../S/Sceptre_of_Annúminas.md" title="Sceptre of Annúminas">Sceptre of Annúminas</a> · <a href="../S/Sceptre_of_Númenor.md" title="Sceptre of Númenor">Sceptre of Númenor</a> · <i><a href="../../file/J/J.R.R._Tolkien_-_Númenórean_carpet_I.jpg.md" title="File:J.R.R. Tolkien - Númenórean carpet I.jpg">Carpets</a> <a href="../../file/J/J.R.R._Tolkien_-_Númenórean_carpet_II.jpg.md" title="File:J.R.R. Tolkien - Númenórean carpet II.jpg">and</a> <a href="../../file/J/J.R.R._Tolkien_-_Númenórean_Tile.jpg.md" title="File:J.R.R. Tolkien - Númenórean Tile.jpg">tile</a></i>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="Aranrúth.md" title="Aranrúth">Aranrúth</a> · <a href="../B/Bow_of_Bregor.md" title="Bow of Bregor">Cung Bregor</a> · <a href="../D/Dramborleg.md" title="Dramborleg">Dramborleg</a> · <a class="mw-redirect" href="../E/Elendilmir.md" title="Elendilmir">Elendilmir</a> · <a href="../N/Narsil.md" title="Narsil">Narsil</a> · "<a href="../N/Númenórean_helmet.md" title="Númenórean helmet">Númenórean mũ bảo hiểm</a>" · <a href="../P/Palantíri.md" title="Palantíri">Palantíri</a> · <a href="../R/Ring_of_Barahir.md" title="Ring of Barahir">Nhẫn Barahir</a> · <a href="../S/Sceptre_of_Annúminas.md" title="Sceptre of Annúminas">Vương trượng Annúminas</a> · <a href="../S/Sceptre_of_Númenor.md" title="Sceptre of Númenor">Vương trượng Númenor</a> · <i><a href="../../file/J/J.R.R._Tolkien_-_Númenórean_carpet_I.jpg.md" title="File:J.R.R. Tolkien - Númenórean carpet I.jpg">Carpets</a> <a href="../../file/J/J.R.R._Tolkien_-_Númenórean_carpet_II.jpg.md" title="File:J.R.R. Tolkien - Númenórean carpet II.jpg">and</a> <a href="../../file/J/J.R.R._Tolkien_-_Númenórean_Tile.jpg.md" title="File:J.R.R. Tolkien - Númenórean Tile.jpg">tile</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Concepts
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Khái niệm
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a class="mw-selflink selflink">Adûnaic</a> · <a href="../B/Ban_of_the_Valar.md" title="Ban of the Valar">Ban of the Valar</a> · <a href="../C/Council_of_the_Sceptre.md" title="Council of the Sceptre">Council of the Sceptre</a> · <a href="../D/Downfall_of_Númenor.md" title="Downfall of Númenor">Downfall of Númenor</a> · <a href="../G/Great_Bear-dance.md" title="Great Bear-dance">Great Bear-dance</a> · <a href="../K/King&#39;s_Heir.md" title="King&#39;s Heir">Heirship</a> · <a href="../N/Númenórean_Sindarin.md" title="Númenórean Sindarin">Númenórean Sindarin</a> · <a href="../T/Three_Prayers.md" title="Three Prayers">Three Prayers</a> <i>(<a href="../E/Eruhantalë.md" title="Eruhantalë">Eruhantalë</a> · <a href="../E/Erukyermë.md" title="Erukyermë">Erukyermë</a> · <a href="../E/Erulaitalë.md" title="Erulaitalë">Erulaitalë</a>)</i>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Key people
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Nhân vật chủ chốt
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../T/Tar-Aldarion.md" title="Tar-Aldarion">Aldarion</a> · <a href="Amandil.md" title="Amandil">Amandil</a> · <a href="Anárion.md" title="Anárion">Anárion</a> · <a href="../C/Captain_of_the_King&#39;s_Ships.md" title="Captain of the King&#39;s Ships">Captain of the King&#39;s Ships</a> · <a href="../E/Elendil.md" title="Elendil">Elendil</a> · <a href="../E/Elros.md" title="Elros">Elros</a> (<a href="../H/House_of_Elros.md" title="House of Elros">House of Elros</a>) · <a href="../E/Erendis.md" title="Erendis">Erendis</a> · <a href="../F/Faithful.md" title="Faithful">Faithful</a> · <a href="../G/Great_Armament.md" title="Great Armament">Great Armament</a> · <a href="../G/Guild_of_Venturers.md" title="Guild of Venturers">Guild of Venturers</a> · <a href="../G/Guild_of_Weaponsmiths.md" title="Guild of Weaponsmiths">Guild of Weaponsmiths</a> · <a href="../I/Isildur.md" title="Isildur">Isildur</a> · <a href="../K/King_of_Númenor.md" title="King of Númenor">Kings</a> and <a href="../R/Ruling_Queens_of_Númenor.md" title="Ruling Queens of Númenor">Queens</a> of Númenor · <a href="../K/King&#39;s_Archers.md" title="King&#39;s Archers">King&#39;s Archers</a> · <a href="../K/King&#39;s_Men.md" title="King&#39;s Men">King&#39;s Men</a> · <a class="mw-redirect" href="../L/Lords_of_Andúnië.md" title="Lords of Andúnië">Lords of Andúnië</a> · <a href="../T/Tar-Meneldur.md" title="Tar-Meneldur">Meneldur</a> · <a href="../T/Tar-Míriel.md" title="Tar-Míriel">Miriel</a> · <a href="../T/Tar-Palantir.md" title="Tar-Palantir">Palantir</a> · <a href="Ar-Pharazôn.md" title="Ar-Pharazôn">Pharazôn</a> · <a href="../S/Sauron.md" title="Sauron">Sauron</a> · <a href="../S/Silmariën.md" title="Silmariën">Silmariën</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Main texts
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Văn bản chính
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> (&#34;<a href="Akallabêth.md" title="Akallabêth">Akallabêth</a>&#34;) · <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i> (&#34;<a href="A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">A Description of the Island of Númenor</a>&#34; · &#34;<a href="Aldarion_and_Erendis%253A_The_Mariner&#39;s_Wife.md" title="Aldarion and Erendis: The Mariner&#39;s Wife">Aldarion and Erendis: The Mariner&#39;s Wife</a>&#34; · &#34;<a href="../T/The_Line_of_Elros%253A_Kings_of_Númenor.md" title="The Line of Elros: Kings of Númenor">The Line of Elros: Kings of Númenor</a>&#34;) · <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> (&#34;<a href="Appendix_A.md" title="Appendix A">Appendix A</a>&#34; · &#34;<a href="Appendix_B.md" title="Appendix B">Appendix B</a>&#34;) · <i><a href="../T/The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> (&#34;Lives of the Númenóreans&#34; · &#34;Of the land and beasts of Númenor&#34;)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> ("<a href="Akallabêth.md" title="Akallabêth">Akallabêth</a>") · <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i> ("<a href="A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">Mô tả về Đảo Númenor</a>" · "<a href="Aldarion_and_Erendis%253A_The_Mariner&#39;s_Wife.md" title="Aldarion and Erendis: The Mariner&#39;s Wife">Aldarion and Erendis: The Mariner&#39;s Wife</a>" · "<a href="../T/The_Line_of_Elros%253A_Kings_of_Númenor.md" title="The Line of Elros: Kings of Númenor">The Line of Elros: Kings of Númenor</a>") · <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> ("<a href="Appendix_A.md" title="Appendix A">Appendix A</a>" · "<a href="Appendix_B.md" title="Appendix B">Phụ lục B</a>") · <i><a href="../T/The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> ("Cuộc sống của người Númenor" · "Về vùng đất và quái thú của Númenor")
 </td></tr></tbody></table>

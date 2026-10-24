@@ -16,7 +16,7 @@ images:
   - "Matt_Stewart_-_Galadriel_Leaves_of_Gold.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Galadriel</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Galadriel_(disambiguation).md" title="Galadriel (disambiguation)">Galadriel (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Galadriel</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Galadriel_(disambiguation).md" title="Galadriel (disambiguation)">Galadriel (định hướng)</a></b>.</div></div>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matt_Stewart_-_Galadriel_Leaves_of_Gold.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d2/Matt_Stewart_-_Galadriel_Leaves_of_Gold.jpg/300px-Matt_Stewart_-_Galadriel_Leaves_of_Gold.jpg" decoding="async" loading="lazy" width="300" height="388" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d2/Matt_Stewart_-_Galadriel_Leaves_of_Gold.jpg/450px-Matt_Stewart_-_Galadriel_Leaves_of_Gold.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d2/Matt_Stewart_-_Galadriel_Leaves_of_Gold.jpg/600px-Matt_Stewart_-_Galadriel_Leaves_of_Gold.jpg 2x" data-file-width="750" data-file-height="970"/></a><figcaption><i>Galadriel&#39;s Song</i> by <a href="../M/Matt_Stewart.md" title="Matt Stewart">Matt Stewart</a></figcaption></figure>
 
@@ -25,20 +25,20 @@ images:
 ## Bài thơ {#Poem}
 
 <div class="poem">
-<p><i>I sang of leaves, of leaves of gold, and leaves of gold there grew:</i><br/>
-<i>Of wind I sang, a wind there came and in the branches blew.</i><br/>
-<i>Beyond the Sun, beyond the Moon, the foam was on the Sea,</i><br/>
-<i>And by the strand of <a href="../I/Ilmarin.md" title="Ilmarin">Ilmarin</a> there grew a golden Tree.</i><br/>
-<i>Beneath the stars of Ever-eve in Eldamar it shone,</i><br/>
-<i>In Eldamar beside the walls of Elven <a href="../T/Tirion.md" title="Tirion">Tirion</a>.</i><br/>
-<i>There long the golden leaves have grown upon the branching years,</i><br/>
-<i>While here beyond the Sundering Seas now fall the Elven-tears.</i><br/>
-<i>O Lórien! The Winter comes, the bare and leafless Day;</i><br/>
-<i>The leaves are falling in the stream, the river flows away.</i><br/>
-<i>O Lórien! Too long I have dwelt upon this Hither Shore</i><br/>
-<i>And in a fading crown have twined the golden <a class="mw-redirect" href="../E/Elanor.md" title="Elanor">elanor</a>.</i><br/>
-<i>But if of ships I now should sing, what ship would come to me,</i><br/>
-<i>What ship would bear me ever back across so wide a Sea?</i>
+<p><i>Tôi hát về lá, về lá vàng, về lá vàng mọc ở đó:</i><br/>
+<i>Tôi hát về gió, gió đến và thổi trên cành.</i><br/>
+<i>Ngoài Mặt Trời, ngoài Mặt Trăng, bọt nằm trên Biển,</i><br/>
+<i>Và bên bờ <a href="../I/Ilmarin.md" title="Ilmarin">Ilmarin</a> có một Cây vàng mọc lên.</i><br/>
+<i>Bên dưới những ngôi sao của đêm trước Eldamar nó tỏa sáng,</i><br/>
+<i>Ở Eldamar bên cạnh bức tường của Tiên <a href="../T/Tirion.md" title="Tirion">Tirion</a>.</i><br/>
+<i>Rồi lá vàng đã lớn theo năm tháng,</i><br/>
+<i>Trong khi ở đây ngoài Biển Sundering giờ đây Tiên-nước mắt rơi.</i><br/>
+<i>Ô Lórien! Mùa đông đến, ngày trụi lá;</i><br/>
+<i>Lá rơi dưới suối, sông chảy đi.</i><br/>
+<i>Ô Lórien! Tôi đã ở bên bờ biển này quá lâu</i><br/>
+<i>Và trên chiếc vương miện đang phai màu có đính <a class="mw-redirect" href="../E/Elanor.md" title="Elanor">elanor</a> vàng.</i><br/>
+<i>Nhưng nếu bây giờ tôi hát về những con tàu thì con tàu nào sẽ đến với tôi,</i><br/>
+<i>Con tàu nào sẽ đưa tôi quay trở lại băng qua rộng lớn như vậy Biển?</i>
 </p>
 </div>
 

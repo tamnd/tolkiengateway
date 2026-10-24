@@ -19,9 +19,9 @@ langlinks:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The Authorities, it is true, differ whether this last question was a mere ‘question’ and not a ‘riddle’ according to the strict rules of the Game; but all agree that, after accepting it and trying to guess the answer, Gollum was bound by his promise.
+<p>Đúng là các Nhà chức trách không đồng ý liệu câu hỏi cuối cùng này chỉ là một 'câu hỏi' chứ không phải một 'câu đố' theo các quy tắc nghiêm ngặt của Trò chơi; nhưng tất cả đều đồng ý rằng, sau khi chấp nhận và thử đoán đáp án, Gollum đã bị ràng buộc bởi lời hứa của mình.
 </p>
-<p class="tg-quote-footer"><cite><a href="../P/Prologue_(The_Lord_of_the_Rings).md" title="Prologue (The Lord of the Rings)">Prologue Concerning Hobbits, and other matters</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite><a href="../P/Prologue_(The_Lord_of_the_Rings).md" title="Prologue (The Lord of the Rings)">Lời mở đầu liên quan đến Hobbit và các vấn đề khác</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 **Các nhà chức trách** là một nhóm được nhắc đến thoáng qua trong một cuộc thảo luận liên quan đến [Trò chơi câu đố](../R/Riddle-game.md) giữa [Bilbo Baggins](../B/Bilbo_Baggins.md) và [Gollum](../G/Gollum.md).

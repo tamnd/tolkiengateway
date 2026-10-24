@@ -29,8 +29,8 @@ Bộ truyện bao gồm bốn câu chuyện trong *Tales from the Perilous Realm
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Role</th>
-<th>Actor
+<th>Vai trò</th>
+<th>Diễn viên
 </th></tr>
 <tr>
 <td><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
@@ -53,23 +53,23 @@ Bộ truyện bao gồm bốn câu chuyện trong *Tales from the Perilous Realm
 <td><a href="../S/Stephen_Thorne.md" title="Stephen Thorne">Stephen Thorne</a>
 </td></tr>
 <tr>
-<td>Additional voices</td>
+<td>Lồng tiếng bổ sung</td>
 <td>Jonathan Adams
 </td></tr>
 <tr>
-<td>Additional voices</td>
+<td>Lồng tiếng bổ sung</td>
 <td>Matthew Morgan
 </td></tr>
 <tr>
-<td>Additional voices</td>
+<td>Lồng tiếng bổ sung</td>
 <td>Nicholas Murchie
 </td></tr>
 <tr>
-<td>Additional voices</td>
+<td>Lồng tiếng bổ sung</td>
 <td>Joanna Wake
 </td></tr>
 <tr>
-<td>Additional voices</td>
+<td>Lồng tiếng bổ sung</td>
 <td><a href="../J/John_Webb.md" title="John Webb">John Webb</a>
 </td></tr></tbody></table>
 
@@ -77,8 +77,8 @@ Bộ truyện bao gồm bốn câu chuyện trong *Tales from the Perilous Realm
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Role</th>
-<th>Actor
+<th>Vai trò</th>
+<th>Diễn viên
 </th></tr>
 <tr>
 <td><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
@@ -97,39 +97,39 @@ Bộ truyện bao gồm bốn câu chuyện trong *Tales from the Perilous Realm
 <td><a href="../J/John_McGlynn.md" title="John McGlynn">John McGlynn</a>
 </td></tr>
 <tr>
-<td>Additional voices</td>
+<td>Lồng tiếng bổ sung</td>
 <td>Jonathan Adams
 </td></tr>
 <tr>
-<td>Additional voices</td>
+<td>Lồng tiếng bổ sung</td>
 <td>Judy Bennett
 </td></tr>
 <tr>
-<td>Additional voices</td>
+<td>Lồng tiếng bổ sung</td>
 <td>Chris Cook
 </td></tr>
 <tr>
-<td>Additional voices</td>
+<td>Lồng tiếng bổ sung</td>
 <td>Rachael Crocker
 </td></tr>
 <tr>
-<td>Additional voices</td>
+<td>Lồng tiếng bổ sung</td>
 <td>Nicholas Murchie
 </td></tr>
 <tr>
-<td>Additional voices</td>
+<td>Lồng tiếng bổ sung</td>
 <td>Jill Shilling
 </td></tr>
 <tr>
-<td>Additional voices</td>
+<td>Lồng tiếng bổ sung</td>
 <td>Jenny Smythe
 </td></tr>
 <tr>
-<td>Additional voices</td>
+<td>Lồng tiếng bổ sung</td>
 <td>Melinda Walker
 </td></tr>
 <tr>
-<td>Additional voices</td>
+<td>Lồng tiếng bổ sung</td>
 <td>Ann Windsor
 </td></tr></tbody></table>
 
@@ -137,8 +137,8 @@ Bộ truyện bao gồm bốn câu chuyện trong *Tales from the Perilous Realm
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Role</th>
-<th>Actor
+<th>Vai trò</th>
+<th>Diễn viên
 </th></tr>
 <tr>
 <td><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
@@ -169,7 +169,7 @@ Bộ truyện bao gồm bốn câu chuyện trong *Tales from the Perilous Realm
 <td><a href="../S/Sorcha_Cusack.md" title="Sorcha Cusack">Sorcha Cusack</a>
 </td></tr>
 <tr>
-<td><a href="../O/Old_Man_Willow.md" title="Old Man Willow">Old Man Willow</a></td>
+<td><a href="../O/Old_Man_Willow.md" title="Old Man Willow">Cụ Liễu Già</a></td>
 <td><a href="../J/John_Church.md" title="John Church">John Church</a>
 </td></tr></tbody></table>
 
@@ -177,8 +177,8 @@ Bộ truyện bao gồm bốn câu chuyện trong *Tales from the Perilous Realm
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Role</th>
-<th>Actor
+<th>Vai trò</th>
+<th>Diễn viên
 </th></tr>
 <tr>
 <td><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
@@ -193,27 +193,27 @@ Bộ truyện bao gồm bốn câu chuyện trong *Tales from the Perilous Realm
 <td>John Fleming
 </td></tr>
 <tr>
-<td>Additional voices</td>
+<td>Lồng tiếng bổ sung</td>
 <td>Jonathan Adams
 </td></tr>
 <tr>
-<td>Additional voices</td>
+<td>Lồng tiếng bổ sung</td>
 <td>David Holt
 </td></tr>
 <tr>
-<td>Additional voices</td>
+<td>Lồng tiếng bổ sung</td>
 <td>Melanie Hudson
 </td></tr>
 <tr>
-<td>Additional voices</td>
+<td>Lồng tiếng bổ sung</td>
 <td>Matthew Morgan
 </td></tr>
 <tr>
-<td>Additional voices</td>
+<td>Lồng tiếng bổ sung</td>
 <td>Joanna Wake
 </td></tr>
 <tr>
-<td>Additional voices</td>
+<td>Lồng tiếng bổ sung</td>
 <td>Melinda Walker
 </td></tr></tbody></table>
 

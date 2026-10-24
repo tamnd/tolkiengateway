@@ -24,7 +24,7 @@ infobox:
     value: "Artist"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Jon Hodgson</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Jon Hodgson</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nghệ sĩ</td></tr></tbody></table>
 
 **Jon Hodgson** là một nghệ sĩ người Scotland. Vào những năm 2010, anh được [Cubicle 7 Entertainment](../C/Cubicle_7_Entertainment.md) ủy quyền tạo tác phẩm nghệ thuật cho *[The One Ring](<../T/The_One_Ring_(role-playing_game).md>) role-playing game*, với tư cách là giám đốc sáng tạo cho đến [2018](../_/2018.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Anh cũng đóng góp tác phẩm nghệ thuật cho [War of the Ring: The Card Game](../W/War_of_the_Ring%253A_The_Card_Game.md), phát hành lần đầu vào [2022](../_/2022.md).
 

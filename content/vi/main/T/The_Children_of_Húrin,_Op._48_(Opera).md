@@ -15,7 +15,7 @@ images:
   - "Hurin_CD_Cover.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hurin_CD_Cover.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/300px-Hurin_CD_Cover.png" decoding="async" loading="lazy" width="300" height="315" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/450px-Hurin_CD_Cover.png 1.5x, https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/600px-Hurin_CD_Cover.png 2x" data-file-width="1405" data-file-height="1474"/></a><figcaption>Artwork from the CD release. Used by permission of Ted Nasmith</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hurin_CD_Cover.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/300px-Hurin_CD_Cover.png" decoding="async" loading="lazy" width="300" height="315" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/450px-Hurin_CD_Cover.png 1.5x, https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/600px-Hurin_CD_Cover.png 2x" data-file-width="1405" data-file-height="1474"/></a><figcaption>Tác phẩm nghệ thuật từ bản phát hành CD. Được sử dụng với sự cho phép của Ted Nasmith</figcaption></figure>
 
 Phần ba trong chu kỳ opera của [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md) *Những cảnh sử thi từ The Silmarillion sau thần thoại J. R. R. Tolkien.*
 

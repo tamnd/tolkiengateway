@@ -15,7 +15,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the <a href="../Q/Quenya.md" title="Quenya">Quenya</a> word</b>. For the race, see <b><a href="Men.md" title="Men">Men</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>từ <a href="../Q/Quenya.md" title="Quenya">Quenya</a></b>. Về cuộc đua, xem <b><a href="Men.md" title="Men">Con Người</a></b>.</div></div>
 
 <i><b>man</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "ai".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

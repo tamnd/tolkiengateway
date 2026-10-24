@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/The_Council_of_Elrond"
 content_sha256: 634449dfd9ffca14461d594dafc6d0fee6182d0d5bb8f5add25b5376c1ad633b
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "2nd chapter of the second book in The Fellowship of the Ring"
+short_description: "Chương 2 của cuốn sách thứ hai trong The Fellowship of the Ring"
 categories:
   - "The Fellowship of the Ring chapters"
 hidden_categories:
@@ -40,15 +40,15 @@ infobox:
     value: "The Ring Goes South"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Council of Elrond</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Council_of_Elrond_(disambiguation).md" title="The Council of Elrond (disambiguation)">The Council of Elrond (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Tên Hội đồng Elrond</b> đề cập đến nhiều hơn một ký tự, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Council_of_Elrond_(disambiguation).md" title="The Council of Elrond (disambiguation)">The Hội đồng Elrond (định hướng)</a></b>.</div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The Ring cannot be used. It is altogether evil.
+<p>Chiếc Nhẫn không thể được sử dụng. Nó hoàn toàn xấu xa.
 </p>
 <p class="tg-quote-footer"><cite>Elrond</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Peter_Xavier_Price_-_The_Lord_of_Rivendell.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2b/Peter_Xavier_Price_-_The_Lord_of_Rivendell.jpg/320px-Peter_Xavier_Price_-_The_Lord_of_Rivendell.jpg" decoding="async" loading="lazy" width="320" height="182" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2b/Peter_Xavier_Price_-_The_Lord_of_Rivendell.jpg/480px-Peter_Xavier_Price_-_The_Lord_of_Rivendell.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2b/Peter_Xavier_Price_-_The_Lord_of_Rivendell.jpg/640px-Peter_Xavier_Price_-_The_Lord_of_Rivendell.jpg 2x" data-file-width="700" data-file-height="399"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Chapter of <i><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Council of Elrond</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Number</th><td class="tg-infobox-data">14</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Synopsis</span></th></tr><tr><th scope="row" class="tg-infobox-label">Event</th><td class="tg-infobox-data">The <a href="../C/Council_of_Elrond.md" title="Council of Elrond">Council of Elrond</a> is held; <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> volunteers to take the <a href="The_One_Ring.md" title="The One Ring">Ring</a> to <a href="../M/Mordor.md" title="Mordor">Mordor</a>.</td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/25_October.md" title="25 October">25 October</a> <a href="Third_Age_3018.md" title="Third Age 3018">3018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../R/Rivendell.md" title="Rivendell">Rivendell</a></td></tr><tr><th scope="row" class="tg-infobox-label">Perspective</th><td class="tg-infobox-data"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Navigation</span></th></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../M/Many_Meetings.md" title="Many Meetings">Many Meetings</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Ring_Goes_South.md" title="The Ring Goes South">The Ring Goes South</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Peter_Xavier_Price_-_The_Lord_of_Rivendell.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2b/Peter_Xavier_Price_-_The_Lord_of_Rivendell.jpg/320px-Peter_Xavier_Price_-_The_Lord_of_Rivendell.jpg" decoding="async" loading="lazy" width="320" height="182" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2b/Peter_Xavier_Price_-_The_Lord_of_Rivendell.jpg/480px-Peter_Xavier_Price_-_The_Lord_of_Rivendell.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2b/Peter_Xavier_Price_-_The_Lord_of_Rivendell.jpg/640px-Peter_Xavier_Price_-_The_Lord_of_Rivendell.jpg 2x" data-file-width="700" data-file-height="399"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Chapter of <i><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hội đồng Elrond</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Số</th><td class="tg-infobox-data">14</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Tóm tắt nội dung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sự kiện</th><td class="tg-infobox-data"><a href="../C/Council_of_Elrond.md" title="Council of Elrond">Hội đồng Elrond</a> được giữ; <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> tình nguyện cầm <a href="The_One_Ring.md" title="The One Ring">Chiếc nhẫn</a> tới <a href="../M/Mordor.md" title="Mordor">Mordor</a>.</td></tr><tr><th scope="row" class="tg-infobox-label">Ngày</th><td class="tg-infobox-data"><a href="../_/25_October.md" title="25 October">25 October</a> <a href="Third_Age_3018.md" title="Third Age 3018">3018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../R/Rivendell.md" title="Rivendell">Rivendell</a></td></tr><tr><th scope="row" class="tg-infobox-label">Góc nhìn</th><td class="tg-infobox-data"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Điều hướng</span></th></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="../M/Many_Meetings.md" title="Many Meetings">Nhiều cuộc hội ngộ</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="The_Ring_Goes_South.md" title="The Ring Goes South">Chiếc Nhẫn tiến về phương Nam</a></td></tr></tbody></table>
 
 ** Hội đồng Elrond** là chương thứ hai của cuốn thứ hai trong *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)*. Các nhân vật chính là [Frodo Baggins](../F/Frodo_Baggins.md), [Elrond](../E/Elrond.md), [Aragorn](../A/Aragorn.md), [Gandalf](../G/Gandalf.md), [Glorfindel](../G/Glorfindel.md), [Boromir](../B/Boromir.md), [Legolas](../L/Legolas.md), [Gimli](../G/Gimli.md), [Bilbo Baggins](../B/Bilbo_Baggins.md) và [Glóin](../G/Glóin.md).
 
@@ -65,7 +65,7 @@ Frodo và [Sam](../S/Samwise_Gamgee.md) đi vào bên trong [Rivendell](../R/Riv
 Cuộc họp diễn ra tại chính mái hiên nơi Frodo đã đoàn tụ với [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) tối hôm trước. Trong số rất nhiều người tham dự, Frodo phát hiện Elrond, Glorfindel và Glóin cũng như [Strider](../S/Strider.md) đang mặc lại bộ quần áo du lịch đã sờn của mình. Gandalf giới thiệu Frodo với những người tham dự:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Here, my friends, is the hobbit, Frodo son of Drogo. Few have ever come hither through greater peril or on an errand more urgent.
+<p>Đây, các bạn của tôi, là anh hobbit, Frodo con trai của Drogo. Rất ít người từng đến đây vì mối nguy hiểm lớn hơn hoặc vì một công việc cấp bách hơn.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -79,7 +79,7 @@ Nhiều câu chuyện đã được kể về những diễn biến ở thế gi
 Glóin giải thích rằng [Người Lùn](../D/Dwarves.md) của [Erebor](../E/Erebor.md) đã trở nên bất ổn và một số người đã quyết định cố gắng giành lại [Moria](../M/Moria.md) theo [Dãy Núi Sương Mù](../M/Misty_Mountains.md):
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Moria! Moria! Wonder of the Northern world! Too deep we delved there, and woke the nameless fear. Long have its vast mansions lain empty since the children of Durin fled. But now we spoke of it again with longing, and yet with dread; for no dwarf has dared to pass the doors of Khazad-dûm for many lives of kings, save Thrór only, and he perished.
+<p>Moria! Moria! Kỳ quan của thế giới phương Bắc! Chúng tôi đào quá sâu vào đó và đánh thức nỗi sợ hãi không tên. Lâu đài rộng lớn của nó đã bị bỏ trống kể từ khi những đứa trẻ Durin chạy trốn. Nhưng bây giờ chúng tôi lại nói về nó với nỗi khao khát nhưng cũng đầy sợ hãi; vì không có người lùn nào dám đi qua cửa Khazad-dûm trong nhiều đời vua, chỉ trừ Thrór, và ông đã bỏ mạng.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -89,9 +89,9 @@ Glóin giải thích rằng ba mươi năm trước, trái với mong muốn c�
 Theo Glóin, một năm trước một người đưa tin từ [Mordor](../M/Mordor.md) đã đến Erebor. Người đưa tin muốn xây dựng tình bạn giữa [Sauron](../S/Sauron.md) và Người Lùn. Ông ta bắt đầu đặt câu hỏi về những sinh vật được gọi là [Hobbit](../H/Hobbits.md) - chúng là gì và chúng sống ở đâu - và cho biết rằng Sauron biết rằng Người Lùn đã gặp một sinh vật.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>As a small token only of your friendship Sauron asks this: that you should find this thief, and get from him, willing or no, a little ring, the least of rings, that once he stole. It is but a trifle that Sauron fancies, and an earnest of your good will.
+<p>Như một biểu tượng nhỏ duy nhất về tình bạn của bạn Sauron yêu cầu điều này: rằng bạn nên tìm ra tên trộm này và lấy từ hắn, dù muốn hay không, một chiếc nhẫn nhỏ, chiếc nhẫn nhỏ nhất mà hắn từng lấy trộm. Đó chỉ là chuyện nhỏ Sauron tưởng tượng và là sự thành thật của thiện chí của bạn.
 </p>
-<p class="tg-quote-footer"><cite><a href="../S/Sauron.md" title="Sauron">Sauron</a>&#39;s messenger to <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a></cite></p>
+<p class="tg-quote-footer"><cite>Người đưa tin của <a href="../S/Sauron.md" title="Sauron">Sauron</a> tới <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 Để đáp lại thông tin này, người đưa tin đã hứa với Dáin ba trong số [Người Lùn chiếc nhẫn](../S/Seven_Dwarf-rings.md) bị mất, cũng như đảm bảo rằng Moria sẽ thuộc về Người Lùn mãi mãi. Dáin trở nên rất nghi ngờ về điều này và từ chối đưa ra câu trả lời ngay lập tức. Người đưa tin đưa ra một lời đe dọa kín đáo và bỏ đi. Người đưa tin đó đến thăm thêm hai lần nữa và nhận được câu trả lời tương tự, rồi hứa sẽ đến lần cuối trước cuối năm. Từ đó Người Lùn đã biết rằng các tin nhắn tương tự cũng đã được gửi đến Vua [Brand](../B/Brand.md) của [Dale](../D/Dale.md).
@@ -121,7 +121,7 @@ Elrond nói xong, Boromir tiết lộ Gondor là quê hương của mình. Ông 
 Boromir giải thích rằng anh đã một mình đến Rivendell để xin lời khuyên của Elrond về giấc mơ mà anh và anh trai từng trải qua. Trong giấc mơ này, bóng tối và sấm sét đến từ phía đông, nhưng ở phía tây vẫn là ánh sáng nhợt nhạt; rồi một giọng nói vang lên từ phía tây:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Seek for the Sword that was broken;<br/>   In Imladris it dwells;<br/>There shall be counsels taken<br/>   Stronger than Morgul-spells.<br/>There shall be shown a token<br/>   That Doom is near at hand,<br/>For Isildur&#39;s Bane shall waken<br/>   And the Halfling forth shall stand.
+<p>Hãy tìm kiếm Thanh kiếm đã bị gãy;<br/>   Trong Imladris nó ngự;<br/>Sẽ có những lời khuyên được đưa ra<br/>   Mạnh hơn bùa chú Morgul.<br/>Sẽ có một mã thông báo<br/>   Ngày tận thế đó đang đến gần,<br/>Vì Tai ương của Isildur sẽ thức tỉnh<br/>   Và Halfling phía trước sẽ đứng vững.
 </p>
 <p class="tg-quote-footer"><cite><a href="../B/Boromir.md" title="Boromir">Boromir</a>&#39;s Dream</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -135,7 +135,7 @@ Lúc này, Aragorn đứng dậy và đặt thanh kiếm gãy của mình lên b
 Chống lại sự miễn cưỡng mạnh mẽ trong việc tiết lộ Chiếc nhẫn, Frodo cuối cùng đã làm như vậy. Elrond giới thiệu Chiếc nhẫn với những người khác là "Kẻ độc củaIsildur" - Sauron Chiếc nhẫn thống trị. Boromir ngay lập tức mất tinh thần vì tin rằng đó là điềm báo cho sự diệt vong của quê hương mình. Aragorn hỏi Boromir liệu anh có muốn Nhà Elendil quay trở lại Gondor không. Boromir không đưa ra câu trả lời rõ ràng; ông ta có vẻ tuyệt vọng, nhưng nghi ngờ.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I was not sent to beg any boon, but to seek only the meaning of a riddle. Yet we are hard pressed, and the Sword of Elendil would be a help beyond our hope - if such a thing could indeed return out of the shadows of the past.
+<p>Tôi không được cử đến để cầu xin bất kỳ ân huệ nào mà chỉ để tìm kiếm ý nghĩa của một câu đố. Tuy nhiên, chúng tôi đang gặp khó khăn, và Thanh kiếm Elendil sẽ là sự trợ giúp ngoài hy vọng của chúng tôi - nếu một thứ như vậy thực sự có thể quay trở lại từ bóng tối của quá khứ.
 </p>
 <p class="tg-quote-footer"><cite><a href="../B/Boromir.md" title="Boromir">Boromir</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -159,9 +159,9 @@ Bị ru ngủ bởi những lời nói của Saruman, Gandalf gác lại nỗi l
 Gandalf và Aragorn tìm thấy dấu vết của Gollum gần Mordor, nhưng không thể tự mình tìm thấy sinh vật đó. Sau đó Gandalf nhớ lại mô tả của Saruman về Chiếc Nhẫn Chúa:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The Nine, the Seven, and the Three had each their proper gem. Not so the One. It was round and unadorned, as it were one of the lesser rings; but its maker set marks upon it that the skilled, maybe, could still see and read.
+<p>Chín, Bảy và Ba đều có viên ngọc riêng của họ. Không phải như vậy. Nó tròn và không được trang trí, vì nó là một trong những chiếc nhẫn nhỏ hơn; nhưng người tạo ra nó đã đánh dấu rằng những người có tay nghề cao có lẽ vẫn có thể nhìn và đọc được.
 </p>
-<p class="tg-quote-footer"><cite><a href="../S/Saruman.md" title="Saruman">Saruman</a>&#39;s description of the <a class="mw-redirect" href="../O/One_Ring.md" title="One Ring">One Ring</a>, according to <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
+<p class="tg-quote-footer"><cite>Mô tả của <a href="../S/Saruman.md" title="Saruman">Saruman</a> về <a class="mw-redirect" href="../O/One_Ring.md" title="One Ring">Nhẫn Chúa</a>, theo <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 Không biết những dấu hiệu đó có thể là gì, Gandalf đoán rằng cách duy nhất mà thông tin này có thể đến được Saruman là thông qua một tài khoản nào đó của Isildur - người duy nhất ngoài Sauron từng được biết là chắc chắn nắm giữ Chiếc Nhẫn Chúa. Vì vậy, Gandalf bắt đầu Gondor nghiên cứu các cuộn giấy Gondor và các kho lưu trữ. Denethor tiếp đón anh một cách lạnh lùng nhưng vẫn cho phép anh nghiên cứu văn bản.
@@ -193,7 +193,7 @@ Gandalf yêu cầu Saruman giúp đỡ nhưng chỉ nhận được sự trịch
 Saruman đưa ra Gandalf một sự lựa chọn. Cho rằng thời của Tiên tộc đã kết thúc và thời của Con Người đang bắt đầu, Saruman cho rằng Pháp sư nên là người cai trị trong thời đại mới này. Ông nói, để làm được điều này, họ cần phải liên kết với sức mạnh đang lên của Trung Địa.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>A new Power is rising. Against it the old allies and policies will not avail us at all. There is no hope left in Elves or dying Númenor. This then is one choice before you, before us. We may join with that Power. It would be wise, Gandalf. There is hope that way. Its victory is at hand; and there will be rich reward for those that aided it.
+<p>Một Quyền lực mới đang trỗi dậy. Chống lại nó, các đồng minh và chính sách cũ sẽ không mang lại lợi ích gì cho chúng ta. Không còn hy vọng gì trong Tiên tộc hoặc sắp chết Númenor. Đây là một sự lựa chọn trước bạn, trước chúng tôi. Chúng ta có thể tham gia với Sức mạnh đó. Sẽ là khôn ngoan, Gandalf. Có hy vọng theo cách đó. Chiến thắng của nó đã gần kề; và sẽ có phần thưởng phong phú cho những người đã hỗ trợ nó.
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Saruman.md" title="Saruman">Saruman</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -235,7 +235,7 @@ Glóin hỏi chuyện gì sẽ xảy ra nếu Chiếc Nhẫn Chúa bị phá h�
 Cuộc trò chuyện quay lại vấn đề phá hủy chiếc Nhẫn. Erestor nhận xét rằng có rất ít cơ hội tiếp cận Ngọn lửa nơi Chiếc nhẫn có thể bị phá hủy, gọi ý tưởng này là "sự điên rồ". Gandalf phản bác rằng đây thực ra có thể là một lợi thế: Sauron chỉ hiểu được khát khao quyền lực và mong đợi bất cứ ai gặp được Chiếc nhẫn sẽ sử dụng nó; anh không thể hiểu được mong muốn phá hủy nó. Vì vậy, nỗ lực tiêu diệt nó có thể khiến ông ta mất cảnh giác, ít nhất là trong một thời gian. Elrond đồng ý với đánh giá này và bổ sung thêm:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>This quest may be attempted by the weak with as much hope as the strong. Yet such is oft the course of deeds that move the wheels of the world: small hands do them because they must, while the eyes of the great are elsewhere.
+<p>Nhiệm vụ này có thể được thực hiện bởi kẻ yếu với nhiều hy vọng như kẻ mạnh. Tuy nhiên, đó thường là những hành động làm chuyển động các bánh xe của thế giới: những bàn tay nhỏ bé làm việc đó vì họ phải làm, trong khi con mắt của những người vĩ đại lại ở nơi khác.
 </p>
 <p class="tg-quote-footer"><cite><a href="../E/Elrond.md" title="Elrond">Elrond</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -245,7 +245,7 @@ Lúc này, Bilbo đứng ra xác nhận mình đã nhận được gợi ý và 
 Bilbo hỏi người được chọn vào nhiệm vụ sẽ là ai. Sự im lặng bao trùm hội đồng khi họ cân nhắc câu hỏi với trái tim trĩu nặng. Frodo dần dần nhận ra rằng diễn biến của những sự kiện mà anh từng lo sợ giờ đây không thể tránh khỏi. Rất khó khăn và cảm thấy bị ảnh hưởng bởi người khác, cuối cùng ông cũng lên tiếng:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I will take the Ring, though I do not know the way.
+<p>Tôi sẽ lấy chiếc Nhẫn, mặc dù tôi không biết đường đi.
 </p>
 <p class="tg-quote-footer"><cite><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -255,7 +255,7 @@ Nhận thức được ẩn ý đó, Elrond nói với Frodo rằng nhiệm vụ
 Đột nhiên, Sam nhảy lên từ nơi đang quan sát Hội đồng, phản đối rằng Frodo không được cử đi một mình trong nhiệm vụ này.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>No indeed! You at least shall go with him. It is hardly possible to separate you from him, even when he is summoned to a secret council and you are not.
+<p>Không thực sự! Ít nhất cậu cũng phải đi cùng ông. Khó có thể tách bạn khỏi ông, ngay cả khi ông được triệu tập vào một hội đồng bí mật còn bạn thì không.
 </p>
 <p class="tg-quote-footer"><cite><a href="../E/Elrond.md" title="Elrond">Elrond</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

@@ -18,13 +18,13 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Gate_of_Isengard.jpg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Gate_of_Isengard&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
-<p>...It is a long tale...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Gate_of_Isengard&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
+<p>...Đó là một câu chuyện dài...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Isengard</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../I/Isengard_(disambiguation).md" title="Isengard (disambiguation)">Isengard (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Isengard</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../I/Isengard_(disambiguation).md" title="Isengard (disambiguation)">Isengard (định hướng)</a></b>.</div></div>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Gate_of_Isengard.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/07/The_Lord_of_the_Rings_Online_-_Gate_of_Isengard.jpg/250px-The_Lord_of_the_Rings_Online_-_Gate_of_Isengard.jpg" decoding="async" loading="lazy" width="250" height="132" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/07/The_Lord_of_the_Rings_Online_-_Gate_of_Isengard.jpg/375px-The_Lord_of_the_Rings_Online_-_Gate_of_Isengard.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/07/The_Lord_of_the_Rings_Online_-_Gate_of_Isengard.jpg/500px-The_Lord_of_the_Rings_Online_-_Gate_of_Isengard.jpg 2x" data-file-width="1904" data-file-height="1002"/></a><figcaption>The Gate of Isengard in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
@@ -36,4 +36,4 @@ Theo một số tài liệu cơ bản, Saruman đã ban cho Cổng của mình n
 
 <b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Gate of Isengard is protected by two great Trolls that can kill a player of their level in two hits and require a dozen or more to take them down.</dd></dl>
+<dl><dd>Cổng Isengard được bảo vệ bởi hai Troll vĩ đại có thể giết chết một người chơi ở cấp độ của họ chỉ trong hai đòn và cần hàng tá người chơi trở lên để hạ gục họ.</dd></dl>

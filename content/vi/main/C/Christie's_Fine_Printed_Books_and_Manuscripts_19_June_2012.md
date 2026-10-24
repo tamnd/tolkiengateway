@@ -20,7 +20,7 @@ infobox:
     value: "Catalogue"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Christie&#39;s Fine Printed Books and Manuscripts 19 June 2012</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">London, South Kensington: Christie&#39;s</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Catalogue</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Christie&#39;s Fine Printed Books and Manuscripts 19 June 2012</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">London, South Kensington: Christie&#39;s</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Danh mục</td></tr></tbody></table>
 
 <i><b>Sách và Bản thảo in đẹp của Christie ngày 19 tháng 6 năm 2012</b></i> là một danh mục đấu giá của Christie's. Danh mục này bao gồm việc bán các bức thư sau [J.R.R. Tolkien](../J/J.R.R._Tolkien.md):
 

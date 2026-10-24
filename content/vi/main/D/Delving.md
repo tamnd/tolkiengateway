@@ -20,7 +20,7 @@ infobox:
     value: "Hobbits"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Town</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Delving</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../W/Westfarthing.md" title="Westfarthing">Westfarthing</a>, <a href="../T/The_Shire.md" title="The Shire">the Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Town</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../H/Hobbits.md" title="Hobbits">Hobbits</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Thị trấn</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Delving</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin chung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../W/Westfarthing.md" title="Westfarthing">Westfarthing</a>, <a href="../T/The_Shire.md" title="The Shire">the Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Loại</th><td class="tg-infobox-data">Thị trấn</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Nhân vật và lịch sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Cư dân</th><td class="tg-infobox-data"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr></tbody></table>
 
 **Delving** là một thị trấn ở [ Shire](../T/The_Shire.md) xuất hiện trong *[Perry-the-Winkle](../P/Perry-the-Winkle.md)*, một bài đồng dao<sup id="cite_ref-collectedpoems_1-0" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup> của [Samwise Gamgee](../S/Samwise_Gamgee.md)<sup id="cite_ref-preface_2-0" class="reference"><a href="#cite_note-preface-2">[2]</a></sup>.<sup id="cite_ref-Perry_3-0" class="reference"><a href="#cite_note-Perry-3">[3]</a></sup>
 
@@ -55,12 +55,12 @@ Tên có thể đại diện cho một dạng [Cũ Hobbitish](../O/Old_English.m
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Legendary <a href="../../category/L/Locations.md" title="Category:Locations">locations</a> in <a href="../A/Arda.md" title="Arda">Arda</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/L/Locations.md" title="Category:Locations">địa điểm</a> huyền thoại ở <a href="../A/Arda.md" title="Arda">Arda</a></b>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/I/Islands.md" title="Category:Islands">Islands</a>:
 </th>
-<td style="font-size: 90%;"> <a href="../H/Hallow_of_Eru.md" title="Hallow of Eru">Isle of Meneltarma</a>
+<td style="font-size: 90%;"> <a href="../H/Hallow_of_Eru.md" title="Hallow of Eru">Hòn đảo Meneltarma</a>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/M/Mountains.md" title="Category:Mountains">Mountains</a> and <a href="../../category/H/Hills.md" title="Category:Hills">Hills</a>:
@@ -78,7 +78,7 @@ Tên có thể đại diện cho một dạng [Cũ Hobbitish](../O/Old_English.m
 <td style="font-size: 90%;"> <a href="Derrilyn.md" title="Derrilyn">Derrilyn</a>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">Other:
+<th style="background:var(--tg-color-surface-3);" align="right">Khác:
 </th>
 <td style="font-size: 90%;"> <a href="../C/Caves_of_the_Forgotten.md" title="Caves of the Forgotten">Caves of the Forgotten</a> · <a class="mw-redirect" href="../G/Gorbelgod.md" title="Gorbelgod">Gorbelgod</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tong&amp;action=edit&amp;redlink=1" title="Tong (page does not exist)">Tong</a>
 </td></tr>

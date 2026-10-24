@@ -27,7 +27,7 @@ infobox:
     value: "Brown"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Caves.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/66/J.R.R._Tolkien_-_Caves.png/320px-J.R.R._Tolkien_-_Caves.png" decoding="async" loading="lazy" width="320" height="189" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/66/J.R.R._Tolkien_-_Caves.png/480px-J.R.R._Tolkien_-_Caves.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/66/J.R.R._Tolkien_-_Caves.png/640px-J.R.R._Tolkien_-_Caves.png 2x" data-file-width="956" data-file-height="566"/></a><figcaption>Mr Cave Bear (left) in the caves</figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cave-bears&amp;action=edit&amp;redlink=1" title="Cave-bears (page does not exist)">Cave-bear</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mr Cave Bear</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Caves</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../A/Arktik.md" title="Arktik">Arktik</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data">At least one<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data">Sons</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Hair colour</th><td class="tg-infobox-data">Brown</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Caves.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/66/J.R.R._Tolkien_-_Caves.png/320px-J.R.R._Tolkien_-_Caves.png" decoding="async" loading="lazy" width="320" height="189" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/66/J.R.R._Tolkien_-_Caves.png/480px-J.R.R._Tolkien_-_Caves.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/66/J.R.R._Tolkien_-_Caves.png/640px-J.R.R._Tolkien_-_Caves.png 2x" data-file-width="956" data-file-height="566"/></a><figcaption>Ông Hang Gấu (trái) trong hang động</figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cave-bears&amp;action=edit&amp;redlink=1" title="Cave-bears (page does not exist)">Cave-bear</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mr Cave Bear</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Caves</td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data"><a href="../A/Arktik.md" title="Arktik">Arktik</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Gia đình</span></th></tr><tr><th scope="row" class="tg-infobox-label">Anh chị em</th><td class="tg-infobox-data">Ít nhất một<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Con cái</th><td class="tg-infobox-data">Sons</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Giới tính</th><td class="tg-infobox-data">Nam</td></tr><tr><th scope="row" class="tg-infobox-label">Màu tóc</th><td class="tg-infobox-data">Nâu</td></tr></tbody></table>
 
 **Mr Cave Bear** là một <a class="new" href="https://tolkiengateway.net/w/index.php?title=Cave-bears&amp;action=edit&amp;redlink=1" title="Cave-bears (page does not exist)">Gấu hang</a> ở *[Letters from Father Christmas](../L/Letters_from_Father_Christmas.md)*.
 
@@ -66,25 +66,25 @@ Một bữa tiệc mừng ngày quyền anh được tổ chức vào năm 1934 
 
 <table style="margin:0 auto;" class="collapsible toccolours" align="center">
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>The world of the <i><a href="../L/Letters_from_Father_Christmas.md" title="Letters from Father Christmas">Letters from Father Christmas</a></i></b>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Thế giới của <i><a href="../L/Letters_from_Father_Christmas.md" title="Letters from Father Christmas">Letters from Father Christmas</a></i></b>
 </th></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Main characters:
+<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Nhân vật chính:
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../F/Father_Christmas.md" title="Father Christmas">Father Christmas</a> · <a href="../N/North_Polar_Bear.md" title="North Polar Bear">North Polar Bear</a> · <a href="../I/Ilbereth.md" title="Ilbereth">Ilbereth</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Other characters:
+<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Nhân vật khác:
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a class="mw-selflink selflink">Mr Cave Bear</a> · <a href="../G/Green_Brother.md" title="Green Brother">Green Brother</a> · <a href="../G/Grandfather_Yule.md" title="Grandfather Yule">Grandfather Yule</a><br/><a href="Man_in_the_Moon.md" title="Man in the Moon">Man in the Moon</a> · <a href="../P/Paksu.md" title="Paksu">Paksu</a> &amp; <a href="../V/Valkotukka.md" title="Valkotukka">Valkotukka</a> · <a href="../S/Snow_Man.md" title="Snow Man">Snow Man</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Races &amp; Peoples:
+<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Các chủng tộc và dân tộc:
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../O/Orcs.md#Other_writings" title="Orcs">Goblins</a> · <a href="../G/Green-elves.md#Other_writings" title="Green-elves">Green elves</a> · <a href="../R/Red_Elves.md" title="Red Elves">Red Elves</a> · <a href="../S/Snow-elves.md" title="Snow-elves">Snow-elves</a> · <a href="../S/Snow-men.md" title="Snow-men">Snow-men</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../O/Orcs.md#Other_writings" title="Orcs">Goblin</a> · <a href="../G/Green-elves.md#Other_writings" title="Green-elves">Xanh Tiên tộc</a> · <a href="../R/Red_Elves.md" title="Red Elves">Đỏ Tiên tộc</a> · <a href="../S/Snow-elves.md" title="Snow-elves">Tuyết-Tiên tộc</a> · <a href="../S/Snow-men.md" title="Snow-men">Người tuyết</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Other concepts:
+<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Các khái niệm khác:
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../A/Arktik.md" title="Arktik">Arktik</a> · <a href="../G/Goblin_Alphabet.md" title="Goblin Alphabet">Goblin Alphabet</a> · <a href="../W/Windbeam.md" title="Windbeam">Windbeam</a>
 </td></tr>

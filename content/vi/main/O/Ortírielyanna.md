@@ -18,7 +18,7 @@ images:
   - "J.R.R._Tolkien_-_Ortirielyanna.png"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Ortirielyanna.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d4/J.R.R._Tolkien_-_Ortirielyanna.png/300px-J.R.R._Tolkien_-_Ortirielyanna.png" decoding="async" loading="lazy" width="300" height="77" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d4/J.R.R._Tolkien_-_Ortirielyanna.png/450px-J.R.R._Tolkien_-_Ortirielyanna.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/d4/J.R.R._Tolkien_-_Ortirielyanna.png/600px-J.R.R._Tolkien_-_Ortirielyanna.png 2x" data-file-width="2733" data-file-height="700"/></a><figcaption>Excerpt from the manuscript</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Ortirielyanna.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d4/J.R.R._Tolkien_-_Ortirielyanna.png/300px-J.R.R._Tolkien_-_Ortirielyanna.png" decoding="async" loading="lazy" width="300" height="77" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d4/J.R.R._Tolkien_-_Ortirielyanna.png/450px-J.R.R._Tolkien_-_Ortirielyanna.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/d4/J.R.R._Tolkien_-_Ortirielyanna.png/600px-J.R.R._Tolkien_-_Ortirielyanna.png 2x" data-file-width="2733" data-file-height="700"/></a><figcaption>Trích từ bản thảo</figcaption></figure>
 
 **Ortírielyanna** là bản dịch của <i><a class="extiw" href="http://en.wikipedia.org/wiki/Sub_tuum_praesidium" title="wikipedia:Sub tuum praesidium">Sub tuum praesidium</a></i> sang [Quenya](../Q/Quenya.md) do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thực hiện vào những năm 1950. Nó được xuất bản trong [*Vinyar Tengwar*, Số 44](../V/Vinyar_Tengwar_44.md), tháng 6 năm 2002, năm 2002, được biên tập bởi [Patrick H. Wynne](../P/Patrick_H._Wynne.md), [Arden R. Smith](../A/Arden_R._Smith.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md).
 
@@ -37,10 +37,10 @@ Phiên bản cuối cùng của lời cầu nguyện:
 <dd><i>alcarin Vénde ar manaquenta.</i></dd></dl>
 </td>
 <td>
-<dl><dd><dl><dd>We fly to thy patronage, O holy Mother of God;</dd>
-<dd>despise not our petitions in our necessities,</dd>
-<dd>but deliver us always from all dangers,</dd>
-<dd>O glorious and blessed Virgin.</dd></dl></dd></dl>
+<dl><dd><dl><dd>Chúng tôi bay đến sự bảo trợ của Ngài, Ôi Mẹ Thiên Chúa thánh thiện;</dd>
+<dd>đừng khinh thường những lời cầu xin của chúng tôi trong những nhu cầu cần thiết của chúng tôi,</dd>
+<dd>nhưng luôn cứu chúng tôi khỏi mọi nguy hiểm,</dd>
+<dd>Ôi Đức Trinh Nữ vinh quang và phúc lành.</dd></dl></dd></dl>
 </td></tr></tbody></table>
 
 ## Liên kết ngoài {#External_links}

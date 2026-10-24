@@ -18,12 +18,12 @@ categories:
 ## Bài thơ {#The_poem}
 
 <div class="poem">
-<p><i>Get out, you old Wight! Vanish in the sunlight!</i><br/>
-<i>Shrivel like the cold mist, like the winds go wailing,</i><br/>
-<i>Out into the barren lands far beyond the mountains!</i><br/>
-<i>Come never here again! Leave your barrow empty!</i><br/>
-<i>Lost and forgotten be, darker than the darkness,</i><br/>
-<i>Where gates stand for ever shut, till the world is mended.</i>
+<p><i>Ra ngoài đi, đồ Wight già! Biến mất dưới ánh mặt trời!</i><br/>
+<i>Tàn lụi như sương lạnh, như gió than khóc,</i><br/>
+<i>Tiến vào vùng đất cằn cỗi xa núi!</i><br/>
+<i>Đừng bao giờ đến đây nữa! Để trống xe đẩy của bạn!</i><br/>
+<i>Mất tích và bị lãng quên, đen tối hơn cả bóng tối,</i><br/>
+<i>Nơi những cánh cổng mãi mãi đóng lại cho đến khi thế giới được hàn gắn.</i>
 </p>
 </div>
 

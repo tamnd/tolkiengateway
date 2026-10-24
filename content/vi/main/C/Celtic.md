@@ -21,9 +21,9 @@ images:
 [Tolkien](../J/J.R.R._Tolkien.md) từng lưu ý về sự mơ hồ của từ "Celtic" khi nó được dùng như một thuật ngữ bao quát tùy tiện:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>&#39;Celtic&#39; of any sort is, nonetheless, a magic bag, into which anything may be put, and out of which almost anything may come.
+<p>Tuy nhiên, 'Celtic' dưới bất kỳ hình thức nào cũng là một chiếc túi thần kỳ, trong đó mọi thứ có thể được bỏ vào và hầu hết mọi thứ đều có thể lấy ra từ đó.
 </p>
-<p class="tg-quote-footer"><cite>Inauguration speech at the <a href="../U/University_of_Oxford.md" title="University of Oxford">University of Oxford</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite>Diễn văn khai mạc tại <a href="../U/University_of_Oxford.md" title="University of Oxford">Đại học Oxford</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Mối quan tâm học thuật {#Scholarly_interest}

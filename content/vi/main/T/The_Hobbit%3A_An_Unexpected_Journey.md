@@ -57,15 +57,15 @@ infobox:
     value: "Profile"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg/320px-The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg" decoding="async" loading="lazy" width="320" height="473" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg/480px-The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg/640px-The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg 2x" data-file-width="1200" data-file-height="1775"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Hobbit: An Unexpected Journey</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data"><a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a><sup id="cite_ref-HBTitles_1-0" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup><br/><a href="../A/Andy_Serkis.md" title="Andy Serkis">Andy Serkis</a> (Second Unit Director)<sup id="cite_ref-HBAndy_2-0" class="reference"><a href="#cite_note-HBAndy-2">[2]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Writer</th><td class="tg-infobox-data"><b>Novels:</b><br/><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><br/><b>Screenplay:</b><br/><a href="../G/Guillermo_del_Toro.md" title="Guillermo del Toro">Guillermo del Toro</a><br/>Peter Jackson<br/>Fran Walsh<br/>Philippa Boyens<sup id="cite_ref-HBTitles_1-1" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Producer</th><td class="tg-infobox-data">Peter Jackson<br/><a href="../F/Fran_Walsh.md" title="Fran Walsh">Fran Walsh</a><br/><a href="../C/Carolynne_Cunningham.md" title="Carolynne Cunningham">Carolynne Cunningham</a><br/><a href="../P/Philippa_Boyens.md" title="Philippa Boyens">Philippa Boyens</a> (Co-Producer)<br/><a href="../K/Ken_Kamins.md" title="Ken Kamins">Ken Kamins</a> (Executive Producer)<br/><a href="../Z/Zane_Weiner.md" title="Zane Weiner">Zane Weiner</a> (Executive Producer)<sup id="cite_ref-HBTitles_1-2" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data"><a href="../I/Ian_McKellen.md" title="Ian McKellen">Ian McKellen</a><br/><a href="../M/Martin_Freeman.md" title="Martin Freeman">Martin Freeman</a><br/><a href="../R/Richard_Armitage.md" title="Richard Armitage">Richard Armitage</a><sup id="cite_ref-PJCasting1_3-0" class="reference"><a href="#cite_note-PJCasting1-3">[3]</a></sup><br/><i><a href="#Cast">See cast section below for more</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data"><a href="../A/Andrew_Lesnie.md" title="Andrew Lesnie">Andrew Lesnie</a><sup id="cite_ref-PJCasting1_3-1" class="reference"><a href="#cite_note-PJCasting1-3">[3]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Editing</th><td class="tg-infobox-data"><a href="../J/Jabez_Olssen.md" title="Jabez Olssen">Jabez Olssen</a></td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a><sup id="cite_ref-PJCasting1_3-2" class="reference"><a href="#cite_note-PJCasting1-3">[3]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Studio</th><td class="tg-infobox-data"><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a><br/><a href="../M/MGM.md" title="MGM">MGM</a><br/><a href="../W/WingNut_Films.md" title="WingNut Films">WingNut Films</a><sup id="cite_ref-HBTitles_1-3" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data"><a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros. Pictures</a><sup id="cite_ref-HBTitles_1-4" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/14_December.md" title="14 December">14 December</a> <a href="../_/2012.md" title="2012">2012</a><sup id="cite_ref-HBTitles2_4-0" class="reference"><a href="#cite_note-HBTitles2-4">[4]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data"><b>Theatrical:</b><br/>169 minutes<br/><b>Extended Edition:</b><br/>182 minutes</td></tr><tr><th scope="row" class="tg-infobox-label">Country</th><td class="tg-infobox-data"><a href="../N/New_Zealand.md" title="New Zealand">New Zealand</a><br/><a class="mw-redirect" href="../U/United_Kingdom.md" title="United Kingdom">United Kingdom</a><br/><a class="mw-redirect" href="../U/United_States.md" title="United States">United States</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.thehobbit.com/" rel="noreferrer noopener" target="_blank">TheHobbit.com</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt0903624" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg/320px-The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg" decoding="async" loading="lazy" width="320" height="473" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg/480px-The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg/640px-The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg 2x" data-file-width="1200" data-file-height="1775"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Hobbit: An Unexpected Journey</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data"><a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a><sup id="cite_ref-HBTitles_1-0" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup><br/><a href="../A/Andy_Serkis.md" title="Andy Serkis">Andy Serkis</a> (Second Unit Director)<sup id="cite_ref-HBAndy_2-0" class="reference"><a href="#cite_note-HBAndy-2">[2]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><b>Tiểu thuyết:</b><br/><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><br/><b>Kịch bản:</b><br/><a href="../G/Guillermo_del_Toro.md" title="Guillermo del Toro">Guillermo del Toro</a><br/>Peter Jackson<br/>Fran Walsh<br/>Philippa Boyens<sup id="cite_ref-HBTitles_1-1" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà sản xuất</th><td class="tg-infobox-data">Peter Jackson<br/><a href="../F/Fran_Walsh.md" title="Fran Walsh">Fran Walsh</a><br/><a href="../C/Carolynne_Cunningham.md" title="Carolynne Cunningham">Carolynne Cunningham</a><br/><a href="../P/Philippa_Boyens.md" title="Philippa Boyens">Philippa Boyens</a> (Co-Producer)<br/><a href="../K/Ken_Kamins.md" title="Ken Kamins">Ken Kamins</a> (Executive Producer)<br/><a href="../Z/Zane_Weiner.md" title="Zane Weiner">Zane Weiner</a> (Executive Producer)<sup id="cite_ref-HBTitles_1-2" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data"><a href="../I/Ian_McKellen.md" title="Ian McKellen">Ian McKellen</a><br/><a href="../M/Martin_Freeman.md" title="Martin Freeman">Martin Freeman</a><br/><a href="../R/Richard_Armitage.md" title="Richard Armitage">Richard Armitage</a><sup id="cite_ref-PJCasting1_3-0" class="reference"><a href="#cite_note-PJCasting1-3">[3]</a></sup><br/><i><a href="#Cast">See cast section below for more</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data"><a href="../A/Andrew_Lesnie.md" title="Andrew Lesnie">Andrew Lesnie</a><sup id="cite_ref-PJCasting1_3-1" class="reference"><a href="#cite_note-PJCasting1-3">[3]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Biên tập</th><td class="tg-infobox-data"><a href="../J/Jabez_Olssen.md" title="Jabez Olssen">Jabez Olssen</a></td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a><sup id="cite_ref-PJCasting1_3-2" class="reference"><a href="#cite_note-PJCasting1-3">[3]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Hãng phim</th><td class="tg-infobox-data"><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a><br/><a href="../M/MGM.md" title="MGM">MGM</a><br/><a href="../W/WingNut_Films.md" title="WingNut Films">WingNut Films</a><sup id="cite_ref-HBTitles_1-3" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data"><a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros. Pictures</a><sup id="cite_ref-HBTitles_1-4" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/14_December.md" title="14 December">14 December</a> <a href="../_/2012.md" title="2012">2012</a><sup id="cite_ref-HBTitles2_4-0" class="reference"><a href="#cite_note-HBTitles2-4">[4]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data"><b>Sân khấu:</b><br/>169 phút<br/><b>Phiên bản mở rộng:</b><br/>182 phút</td></tr><tr><th scope="row" class="tg-infobox-label">Quốc gia</th><td class="tg-infobox-data"><a href="../N/New_Zealand.md" title="New Zealand">New Zealand</a><br/><a class="mw-redirect" href="../U/United_Kingdom.md" title="United Kingdom">United Kingdom</a><br/><a class="mw-redirect" href="../U/United_States.md" title="United States">United States</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="http://www.thehobbit.com/" rel="noreferrer noopener" target="_blank">TheHobbit.com</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt0903624" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
 
 <i><b>The Hobbit: An Unexpected Journey</b></i> là phần đầu tiên trong bộ ba phim [*The Hobbit*](<The_Hobbit_(film_series).md>) của [Peter Jackson](../P/Peter_Jackson.md) và dựa trên tiểu thuyết [1937](../_/1937.md) *[The Hobbit](The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), mặc dù một số yếu tố được lấy từ câu chuyện và [Phụ lục](The_Lord_of_the_Rings_Appendices.md) của *[The Lord of the Rings](The_Lord_of_the_Rings.md)*. Nó được phát hành vào [14 tháng 12](../_/14_December.md) [2012](../_/2012.md) ở Bắc Mỹ. Tiếp theo là *[The Desolation of Smaug](The_Hobbit%253A_The_Desolation_of_Smaug.md)* trong [2013](../_/2013.md) và *[The Battle of the Five Armies](The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)* trong [2014](../_/2014.md).
 
 ## Tóm tắt {#Synopsis}
 
 <blockquote class="tg-quote noexcerpt">
-<p>The adventure follows the journey of title character Bilbo Baggins, who is swept into an epic quest to reclaim the lost Dwarf Kingdom of Erebor from the fearsome dragon Smaug. Approached out of the blue by the wizard Gandalf the Grey, Bilbo finds himself joining a company of thirteen dwarves led by the legendary warrior, Thorin Oakenshield. Their journey will take them into the Wild; through treacherous lands swarming with Goblins and Orcs, deadly Wargs and Giant Spiders, Shapeshifters and Sorcerers.<br/><br/>
-<i>Although their goal lies to the East and the wastelands of the Lonely Mountain first they must escape the goblin tunnels, where Bilbo meets the creature that will change his life forever... Gollum. Here, alone with Gollum, on the shores of an underground lake, the unassuming Bilbo Baggins not only discovers depths of guile and courage that surprise even him, he also gains possession of Gollum&#39;s &#34;precious&#34; ring that holds unexpected and useful qualities... A simple, gold ring that is tied to the fate of all Middle-earth in ways Bilbo cannot begin to know.</i>
+<p>Cuộc phiêu lưu kể về cuộc hành trình của nhân vật chính Bilbo Baggins, người bị cuốn vào một nhiệm vụ hoành tráng nhằm giành lại Người Lùn Vương quốc Erebor đã mất từ ​​tay con rồng đáng sợ Smaug. Được pháp sư Gandalf the Grey bất ngờ tiếp cận, Bilbo thấy mình gia nhập một đội gồm mười ba người lùn do chiến binh huyền thoại, Thorin Oakenshield lãnh đạo. Cuộc hành trình của họ sẽ đưa họ vào Nơi hoang dã; qua những vùng đất nguy hiểm tràn ngập Goblin và Orc, Warg chết chóc và Nhện khổng lồ, Người biến hình và Pháp sư.<br/><br/>
+<i>Mặc dù mục tiêu của họ nằm ở phương Đông và vùng đất hoang của Ngọn Núi Cô Đơn trước tiên họ phải thoát khỏi đường hầm của yêu tinh, nơi Bilbo gặp sinh vật sẽ thay đổi cuộc đời anh mãi mãi... Gollum. Tại đây, một mình với Gollum, trên bờ hồ ngầm, Bilbo Baggins khiêm tốn không chỉ khám phá ra chiều sâu của sự gian xảo và lòng can đảm khiến ngay cả chính anh cũng phải ngạc nhiên, anh còn giành được quyền sở hữu chiếc nhẫn "quý giá" của Gollum chứa đựng những phẩm chất bất ngờ và hữu ích... Một chiếc nhẫn vàng đơn giản gắn liền với số phận của tất cả Trung Địa theo những cách mà Bilbo không thể nào biết được.</i>
 </p>
 <p class="tg-quote-footer"><cite><a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros.</a> Press Release<sup id="cite_ref-WBPressRelease1_5-0" class="reference"><a href="#cite_note-WBPressRelease1-5">[5]</a></sup></cite></p>
 </blockquote>
@@ -124,12 +124,12 @@ Bilbo gia nhập lại nhóm khi anh gặp họ sau khi nghe Thorin lên tiếng
 
 ## Truyền {#Cast}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="The_Hobbit_(film_series).md#Main_cast" title="The Hobbit (film series)">The Hobbit (film series)#Main cast</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="The_Hobbit_(film_series).md#Main_cast" title="The Hobbit (film series)">The Hobbit (film series)#Main cast</a></div></div>
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Actor</th>
-<th>Role
+<th>Diễn viên</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td><a href="../I/Ian_McKellen.md" title="Ian McKellen">Ian McKellen</a></td>
@@ -253,27 +253,27 @@ Bilbo gia nhập lại nhóm khi anh gặp họ sau khi nghe Thorin lên tiếng
 </td></tr>
 <tr>
 <td><a href="../L/Luke_Evans.md" title="Luke Evans">Luke Evans</a></td>
-<td><a href="../G/Girion.md" title="Girion">Girion</a> (<a href="The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md" title="The Hobbit: An Unexpected Journey (extended edition)">Extended Edition</a> only)
+<td><a href="../G/Girion.md" title="Girion">Girion</a> (<a href="The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md" title="The Hobbit: An Unexpected Journey (extended edition)">Chỉ phiên bản mở rộng</a>)
 </td></tr>
 <tr>
 <td><a href="../D/Dan_Hennah.md" title="Dan Hennah">Dan Hennah</a></td>
-<td><a href="../G/Gerontius_Took.md" title="Gerontius Took">Old Took</a><sup id="cite_ref-Weta1_10-0" class="reference"><a href="#cite_note-Weta1-10">[7]</a></sup> (Extended Edition only)
+<td><a href="../G/Gerontius_Took.md" title="Gerontius Took">Old Took</a><sup id="cite_ref-Weta1_10-0" class="reference"><a href="#cite_note-Weta1-10">[7]</a></sup> (Chỉ phiên bản mở rộng)
 </td></tr>
 <tr>
 <td>Stephen Gledhill</td>
-<td><a href="../O/Old_Gammidge.md" title="Old Gammidge">Old Gammidge</a> (Extended Edition only)
+<td><a href="../O/Old_Gammidge.md" title="Old Gammidge">Gammidge cũ</a> (Chỉ phiên bản mở rộng)
 </td></tr>
 <tr>
 <td>Tim Gordon</td>
-<td><a href="../O/Old_Hob.md" title="Old Hob">Old Hob</a> (Extended Edition only)
+<td><a href="../O/Old_Hob.md" title="Old Hob">Old Hob</a> (Chỉ phiên bản mở rộng)
 </td></tr>
 <tr>
 <td>Oscar Strik</td>
-<td><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Little Bilbo</a> (Extended Edition only)
+<td><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Little Bilbo</a> (Chỉ phiên bản mở rộng)
 </td></tr>
 <tr>
 <td>Sonia Forbes Adam</td>
-<td><a href="../B/Belladonna_Took.md" title="Belladonna Took">Belladonna Took</a> (Extended Edition only)
+<td><a href="../B/Belladonna_Took.md" title="Belladonna Took">Belladonna Took</a> (Chỉ phiên bản mở rộng)
 </td></tr>
 <tr>
 <td><a href="Timothy_Bartlett.md" title="Timothy Bartlett">Timothy Bartlett</a></td>
@@ -281,19 +281,19 @@ Bilbo gia nhập lại nhóm khi anh gặp họ sau khi nghe Thorin lên tiếng
 </td></tr>
 <tr>
 <td>Erin Banks</td>
-<td><a href="../L/Lobelia_Sackville-Baggins.md" title="Lobelia Sackville-Baggins">Lobelia Sackville Baggins</a> (Extended Edition only)
+<td><a href="../L/Lobelia_Sackville-Baggins.md" title="Lobelia Sackville-Baggins">Lobelia Sackville Baggins</a> (Chỉ phiên bản mở rộng)
 </td></tr>
 <tr>
 <td>Brian Hotter</td>
-<td><a href="../O/Otho_Sackville-Baggins.md" title="Otho Sackville-Baggins">Otho Sackville Baggins</a> (Extended Edition only)
+<td><a href="../O/Otho_Sackville-Baggins.md" title="Otho Sackville-Baggins">Otho Sackville Baggins</a> (Chỉ phiên bản mở rộng)
 </td></tr>
 <tr>
 <td>Eric Vespe</td>
-<td><a href="../F/Fredegar_Chubb.md" title="Fredegar Chubb">Fredegar Chubb</a> (Extended Edition only)
+<td><a href="../F/Fredegar_Chubb.md" title="Fredegar Chubb">Fredegar Chubb</a> (Chỉ phiên bản mở rộng)
 </td></tr>
 <tr>
 <td>Mervyn Smith</td>
-<td><a href="Tosser_Grubb.md" title="Tosser Grubb">Tosser Grubb</a> (Extended Edition only)
+<td><a href="Tosser_Grubb.md" title="Tosser Grubb">Tosser Grubb</a> (Chỉ phiên bản mở rộng)
 </td></tr>
 <tr>
 <td><a href="../W/William_Kircher.md" title="William Kircher">William Kircher</a></td>
@@ -333,15 +333,15 @@ Bilbo gia nhập lại nhóm khi anh gặp họ sau khi nghe Thorin lên tiếng
 </td></tr>
 <tr>
 <td>Ruby Acevedo<br/>Luc Campbell<br/>Culain McGhie<br/>Rose Harnett<br/><a href="../K/Katie_Jackson.md" title="Katie Jackson">Katie Jackson</a><br/>Eloise Masters<br/>Eva Matthews<br/>Ollie Matthews<br/>Honor McTavish<br/>Isaac Miller<br/>Ella Olssen<br/>Sabin Olssen<br/>Findlay Price<br/>Nancy Ruck<br/>Louis Serkis<br/>Ruby Serkis<br/>Sonny Serkis<br/>Amelia Taylor<br/>Samuel Taylor<br/>Ruby Vincent<br/>Tui Vincent</td>
-<td><a href="../H/Hobbits.md" title="Hobbits">Cute Young Hobbits</a> (Extended Edition only)
+<td><a href="../H/Hobbits.md" title="Hobbits">Tuổi trẻ dễ thương Hobbit</a> (Chỉ phiên bản mở rộng)
 </td></tr></tbody></table>
 
 ### Chưa được công nhận {#Uncredited}
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Actor</th>
-<th>Role
+<th>Diễn viên</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td>Frazer Anderson, Jamie Harrison, Gabriela Roque López</td>
@@ -353,7 +353,7 @@ Bilbo gia nhập lại nhóm khi anh gặp họ sau khi nghe Thorin lên tiếng
 </td></tr>
 <tr>
 <td>Danielle Blake, Joan Dawe, Bruno Du Bois</td>
-<td><a href="../H/Hobbits.md" title="Hobbits">Hobbits</a>
+<td><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a>
 </td></tr>
 <tr>
 <td>Jarred Blakiston, Melanie Carrington</td>
@@ -361,7 +361,7 @@ Bilbo gia nhập lại nhóm khi anh gặp họ sau khi nghe Thorin lên tiếng
 </td></tr>
 <tr>
 <td>Shane Boulton, Renee Cataldo, Ben Fransham, George Harach, Zo Hartley, Luke Hawker, Allan Henry, Jono Kenyon, Tim McLachlan, Nathan Meister, Ravi Narayan, Lucy O&#39;Connor, <a href="../S/Shane_Rangi.md" title="Shane Rangi">Shane Rangi</a>, Thomas Rimmer, James Trevena, Mark Trotter, Simon Vincent</td>
-<td><a href="../O/Orcs.md" title="Orcs">Goblins</a>
+<td><a href="../O/Orcs.md" title="Orcs">Goblin</a>
 </td></tr>
 <tr>
 <td>Shane Boulton</td>
@@ -381,7 +381,7 @@ Bilbo gia nhập lại nhóm khi anh gặp họ sau khi nghe Thorin lên tiếng
 </td></tr>
 <tr>
 <td>Jed Gard&#39;ner, Stephen Grey, Carl Hayes, James Waterhouse-Brown</td>
-<td><a href="../O/Orcs.md" title="Orcs">Orcs</a>
+<td><a href="../O/Orcs.md" title="Orcs">Orc</a>
 </td></tr>
 <tr>
 <td>Christian Hipolito, Joseph Mika-Hunt, <a href="../S/Shane_Rangi.md" title="Shane Rangi">Shane Rangi</a></td>
@@ -547,7 +547,7 @@ Một [ấn bản mở rộng](<The_Hobbit%253A_An_Unexpected_Journey_(extended_
 
 ### Áp phích quảng cáo {#Promotional_posters}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../../category/I/Images_of_The_Hobbit%253A_An_Unexpected_Journey_posters.md" title="Category:Images of The Hobbit: An Unexpected Journey posters">Category:Images of The Hobbit: An Unexpected Journey posters</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="../../category/I/Images_of_The_Hobbit%253A_An_Unexpected_Journey_posters.md" title="Category:Images of The Hobbit: An Unexpected Journey posters">Category:Images of The Hobbit: An Unexpected Journey posters</a></div></div>
 
 ### Áp phích quảng cáo cho *The Hobbit: An Unexpected Journey* {#Promotional_posters_for_The_Hobbit:_An_Unexpected_Journey}
 
@@ -555,28 +555,28 @@ Một [ấn bản mở rộng](<The_Hobbit%253A_An_Unexpected_Journey_(extended_
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 330px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_An_Unexpected_Journey_-_poster_1.jpg.md" title="The first promotional poster."><img alt="The first promotional poster." src="https://tolkiengateway.net/w/images/thumb/a/a6/The_Hobbit_-_An_Unexpected_Journey_-_poster_1.jpg/200px-The_Hobbit_-_An_Unexpected_Journey_-_poster_1.jpg" decoding="async" loading="lazy" width="200" height="296" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a6/The_Hobbit_-_An_Unexpected_Journey_-_poster_1.jpg/300px-The_Hobbit_-_An_Unexpected_Journey_-_poster_1.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a6/The_Hobbit_-_An_Unexpected_Journey_-_poster_1.jpg/400px-The_Hobbit_-_An_Unexpected_Journey_-_poster_1.jpg 2x" data-file-width="540" data-file-height="800"/></a></span></div>
 			<div class="gallerytext">
-<p>The first promotional poster.
+<p>Áp phích quảng cáo đầu tiên.
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 330px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_An_Unexpected_Journey_-_poster_2.jpg.md" title="The second promotional poster."><img alt="The second promotional poster." src="https://tolkiengateway.net/w/images/thumb/1/13/The_Hobbit_-_An_Unexpected_Journey_-_poster_2.jpg/200px-The_Hobbit_-_An_Unexpected_Journey_-_poster_2.jpg" decoding="async" loading="lazy" width="200" height="296" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/13/The_Hobbit_-_An_Unexpected_Journey_-_poster_2.jpg/300px-The_Hobbit_-_An_Unexpected_Journey_-_poster_2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/13/The_Hobbit_-_An_Unexpected_Journey_-_poster_2.jpg/400px-The_Hobbit_-_An_Unexpected_Journey_-_poster_2.jpg 2x" data-file-width="1013" data-file-height="1500"/></a></span></div>
 			<div class="gallerytext">
-<p>The second promotional poster.
+<p>Áp phích quảng cáo thứ hai.
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 330px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg.md" title="The third promotional poster."><img alt="The third promotional poster." src="https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg/200px-The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg" decoding="async" loading="lazy" width="200" height="296" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg/300px-The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg/400px-The_Hobbit_-_An_Unexpected_Journey_-_poster_3.jpg 2x" data-file-width="1200" data-file-height="1775"/></a></span></div>
 			<div class="gallerytext">
-<p>The third promotional poster.
+<p>Áp phích quảng cáo thứ ba.
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 330px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_An_Unexpected_Journey_-_poster_4.jpg.md" title="The fourth promotional poster."><img alt="The fourth promotional poster." src="https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_4.jpg/200px-The_Hobbit_-_An_Unexpected_Journey_-_poster_4.jpg" decoding="async" loading="lazy" width="200" height="292" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_4.jpg/300px-The_Hobbit_-_An_Unexpected_Journey_-_poster_4.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_An_Unexpected_Journey_-_poster_4.jpg/400px-The_Hobbit_-_An_Unexpected_Journey_-_poster_4.jpg 2x" data-file-width="1029" data-file-height="1500"/></a></span></div>
 			<div class="gallerytext">
-<p>The fourth promotional poster.
+<p>Poster quảng cáo thứ tư.
 </p>
 			</div>
 		</li>
@@ -664,55 +664,55 @@ Trang Facebook của - <a class="external text" href="http://www.facebook.com/Pe
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Licensed screen adaptations of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works</b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Chuyển thể màn hình các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> được cấp phép</b>
 </th></tr>
 <tr>
-<th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Animation</b>
+<th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Phim hoạt hình</b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)">The Hobbit</a></i> (1967) · <i><a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)">The Hobbit</a></i> (1977, Rankin and Bass) · <i><a href="The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">The Lord of the Rings</a></i> (1978) · <i><a href="The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King</a></i> (1980, Rankin and Bass) · <i><a href="The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md" title="The Lord of the Rings: The War of the Rohirrim">The War of the Rohirrim</a></i> (2024, New Line Cinema)
 </td></tr>
 <tr>
 <th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="3"><b>Live-action</b><br/><small>(New Line Cinema)</small>
 </th>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i> series</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i>loạt</a></b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (2001) · <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (2002) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (2003)
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> series</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> loạt</a></b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a class="mw-selflink selflink">An Unexpected Journey</a></i> (2012) · <i><a href="The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Desolation of Smaug</a></i> (2013) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Battle of the Five Armies</a></i> (2014)
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b>Other films</b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b>Các phim khác</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, upcoming)
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, sắp ra mắt)
 </td></tr>
 <tr>
-<th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>TV series</b>
+<th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>Loạt phim truyền hình</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-present)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-nay)
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> film series</a></b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> loạt phim</a></b>
 </th></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Source material: <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Nguồn tư liệu: <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Films
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Phim
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a class="mw-selflink selflink">An Unexpected Journey</a></i> (<a href="The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md" title="The Hobbit: An Unexpected Journey (extended edition)">extended edition</a>)· <i><a href="The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Desolation of Smaug</a></i> (<a href="The_Hobbit%253A_The_Desolation_of_Smaug_(extended_edition).md" title="The Hobbit: The Desolation of Smaug (extended edition)">extended edition</a>) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Battle of the Five Armies</a></i> (<a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md" title="The Hobbit: The Battle of the Five Armies (extended edition)">extended edition</a>)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a class="mw-selflink selflink">An Unexpected Journey</a></i> (<a href="The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md" title="The Hobbit: An Unexpected Journey (extended edition)">ấn bản mở rộng</a>)· <i><a href="The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Desolation of Smaug</a></i> (<a href="The_Hobbit%253A_The_Desolation_of_Smaug_(extended_edition).md" title="The Hobbit: The Desolation of Smaug (extended edition)">ấn bản mở rộng</a>) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Battle of the Five Armies</a></i> (<a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md" title="The Hobbit: The Battle of the Five Armies (extended edition)">ấn bản mở rộng</a>)
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Music
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Âm nhạc
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.md" title="The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack">An Unexpected Journey</a></i> (<a href="The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition">Special Edition</a>) · <i><a href="The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack.md" title="The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack">The Desolation of Smaug</a></i> (<a href="The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack - Special Edition">Special Edition</a>) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack.md" title="The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack">The Battle of the Five Armies</a></i> (<a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack - Special Edition">Special Edition</a>) · &#34;<a href="../S/Song_of_the_Lonely_Mountain.md" title="Song of the Lonely Mountain">Song of the Lonely Mountain</a>&#34; · &#34;<a href="../I/I_See_Fire.md" title="I See Fire">I See Fire</a>&#34; · &#34;<a href="The_Last_Goodbye.md" title="The Last Goodbye">The Last Goodbye</a>&#34;
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="4">Tie-in books
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="4">Sách ăn theo
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit_Trilogy_Location_Guidebook.md" title="The Hobbit Trilogy Location Guidebook">Location Guidebook</a></i> · <i><a href="The_Hobbit_Motion_Picture_Trilogy_Location_Guide%253A_Hobbiton,_the_Lonely_Mountain_and_Beyond.md" title="The Hobbit Motion Picture Trilogy Location Guide: Hobbiton, the Lonely Mountain and Beyond">Location Guide: Hobbiton, the Lonely Mountain and Beyond</a></i> · <i><a href="The_Hobbit_Sketchbook.md" title="The Hobbit Sketchbook">Sketchbook</a></i>
 </td></tr>
@@ -732,12 +732,12 @@ Trang Facebook của - <a class="external text" href="http://www.facebook.com/Pe
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Official_Movie_Guide.md" title="The Hobbit: The Battle of the Five Armies: Official Movie Guide">Official Movie Guide</a></i> · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Visual_Companion.md" title="The Hobbit: The Battle of the Five Armies: Visual Companion">Visual Companion</a></i> · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_The_Movie_Storybook.md" title="The Hobbit: The Battle of the Five Armies: The Movie Storybook">Movie Storybook</a></i> · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Annual_2015.md" title="The Hobbit: The Battle of the Five Armies: Annual 2015">Annual 2015</a></i> · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Chronicles%253A_Art_&amp;_Design.md" title="The Hobbit: The Battle of the Five Armies: Chronicles: Art &amp; Design">Chronicles: Art &amp; Design</a></i> · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Chronicles%253A_The_Art_of_War.md" title="The Hobbit: The Battle of the Five Armies: Chronicles: The Art of War">Chronicles: The Art of War</a></i> · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Activity_Book.md" title="The Hobbit: The Battle of the Five Armies: Activity Book">Activity Book</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px; padding-left: 4px;">Video games
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px; padding-left: 4px;">Trò chơi điện tử
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit%253A_Kingdoms_of_Middle-earth.md" title="The Hobbit: Kingdoms of Middle-earth">Kingdoms of Middle-earth</a></i> · <i><a href="The_Hobbit%253A_Armies_of_The_Third_Age.md" title="The Hobbit: Armies of The Third Age">Armies of The Third Age</a></i> · <i><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Characters
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Nhân vật
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> · <a href="Thorin.md" title="Thorin">Thorin</a> · <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> · <a href="../B/Balin.md" title="Balin">Balin</a> · <a href="../F/Fíli.md" title="Fíli">Fíli</a> · <a href="../K/Kíli.md" title="Kíli">Kíli</a> · <a href="../D/Dwalin.md" title="Dwalin">Dwalin</a> · <a href="../D/Dori.md" title="Dori">Dori</a> · <a href="../N/Nori.md" title="Nori">Nori</a> · <a href="../O/Ori.md" title="Ori">Ori</a> · <a href="../_/Óin.md" title="Óin">Óin</a> · <a href="../G/Glóin.md" title="Glóin">Glóin</a> · <a href="../B/Bifur.md" title="Bifur">Bifur</a> · <a href="../B/Bofur.md" title="Bofur">Bofur</a> · <a href="../B/Bombur.md" title="Bombur">Bombur</a> · <a href="../S/Smaug.md" title="Smaug">Smaug</a> · <a href="../R/Radagast.md" title="Radagast">Radagast</a> · <a href="../E/Elrond.md" title="Elrond">Elrond</a> · <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> · <a href="../S/Saruman.md" title="Saruman">Saruman</a> · <a href="../A/Azog.md" title="Azog">Azog</a> · <a href="../B/Bolg.md" title="Bolg">Bolg</a> · <a href="Thranduil.md" title="Thranduil">Thranduil</a> · <a href="../L/Legolas.md" title="Legolas">Legolas</a> · <a href="Tauriel.md" title="Tauriel">Tauriel</a> · <a href="../B/Bard.md" title="Bard">Bard</a> · <a href="../B/Bain.md" title="Bain">Bain</a> · <a href="Tilda.md" title="Tilda">Tilda</a> · <a href="../S/Sigrid.md" title="Sigrid">Sigrid</a> · <a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a> · <a href="../C/Councillors.md" title="Councillors">Alfrid</a> · <a href="../D/Dáin_Ironfoot.md" title="Dáin Ironfoot">Dáin Ironfoot</a> · <a href="../S/Sauron.md" title="Sauron">Necromancer</a> · <a class="mw-redirect" href="../B/Bert.md" title="Bert">Bert</a> · <a class="mw-redirect" href="../W/William.md" title="William">William</a> · <a class="mw-redirect mw-disambig" href="Tom.md" title="Tom">Tom</a> · <a href="../B/Beorn.md" title="Beorn">Beorn</a> · <a href="Thráin.md" title="Thráin">Thráin</a> · <a href="Thrór.md" title="Thrór">Thrór</a> · <a href="../G/Great_Goblin.md" title="Great Goblin">Goblin King</a> · <a href="../G/Gollum.md" title="Gollum">Gollum</a> · <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>
 </td></tr></tbody></table>

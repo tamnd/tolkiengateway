@@ -15,7 +15,7 @@ images:
   - "The_Hobbit_(1979_radio_series).jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_(1979_radio_series).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8d/The_Hobbit_%281979_radio_series%29.jpg/300px-The_Hobbit_%281979_radio_series%29.jpg" decoding="async" loading="lazy" width="300" height="296" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/8/8d/The_Hobbit_%281979_radio_series%29.jpg 1.5x" data-file-width="420" data-file-height="414"/></a><figcaption>Cover of the set of six cassettes</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_(1979_radio_series).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8d/The_Hobbit_%281979_radio_series%29.jpg/300px-The_Hobbit_%281979_radio_series%29.jpg" decoding="async" loading="lazy" width="300" height="296" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/8/8d/The_Hobbit_%281979_radio_series%29.jpg 1.5x" data-file-width="420" data-file-height="414"/></a><figcaption>Bìa của bộ sáu băng cassette</figcaption></figure>
 
 **The Hobbit** là loạt chương trình phát thanh [1979](../_/1979.md) của *[The Hobbit](The_Hobbit.md)*, do <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bob_Lewis&amp;action=edit&amp;redlink=1" title="Bob Lewis (page does not exist)">Bob Lewis</a> chuyển thể và đạo diễn và <a class="extiw" href="http://en.wikipedia.org/wiki/The_Mind%27s_Eye_(publisher)" title="wikipedia:The Mind&#39;s Eye (publisher)">The Mind's Eye</a>sản xuất. Nó sẽ sử dụng lại hầu hết dàn diễn viên cho [loạt phim phát thanh](<The_Lord_of_the_Rings_(1979_radio_series).md>) *[The Lord of the Rings](The_Lord_of_the_Rings.md)* cùng năm của họ. Âm nhạc trong bộ phim truyền thanh được lấy từ nhạc sản xuất do Major Records sản xuất. Chủ yếu có sự góp mặt của nhà soạn nhạc Roger Roger nhưng cũng có các tác phẩm của George Chase và Sam Trust. Họ sẽ sử dụng cùng một thư viện âm nhạc để chuyển thể Chúa tể những chiếc nhẫn, một số bản nhạc được chia sẻ giữa hai người.
 
@@ -23,8 +23,8 @@ images:
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Actor</th>
-<th>Role
+<th>Diễn viên</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td><a href="../E/Erik_Bauersfeld.md" title="Erik Bauersfeld">Erik Bauersfeld</a></td>
@@ -67,7 +67,7 @@ images:
 <th>Piece</th>
 <th>Matrix Runout
 </th>
-<th>Record name and/or number
+<th>Ghi tên và/hoặc số
 </th></tr>
 <tr>
 <td>Roger Roger</td>

@@ -50,7 +50,7 @@ Có thể dòng trong Hội đồng Elrond thể hiện ý định trước đó
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1978_film)_-_Nine_for_mortal_Men.png.md" title="The Nine Rings - The Lord of the Rings (1978 film)"><img alt="The Nine Rings - The Lord of the Rings (1978 film)" src="https://tolkiengateway.net/w/images/thumb/c/c9/The_Lord_of_the_Rings_%281978_film%29_-_Nine_for_mortal_Men.png/250px-The_Lord_of_the_Rings_%281978_film%29_-_Nine_for_mortal_Men.png" decoding="async" loading="lazy" width="250" height="138" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c9/The_Lord_of_the_Rings_%281978_film%29_-_Nine_for_mortal_Men.png/375px-The_Lord_of_the_Rings_%281978_film%29_-_Nine_for_mortal_Men.png 1.5x, https://tolkiengateway.net/w/images/c/c9/The_Lord_of_the_Rings_%281978_film%29_-_Nine_for_mortal_Men.png 2x" data-file-width="426" data-file-height="236"/></a></span></div>
 			<div class="gallerytext">
-<p>The Nine Rings - <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (1978 film)</a>
+<p>Chín Chiếc Nhẫn - <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>
 </p>
 			</div>
 		</li>
@@ -79,19 +79,19 @@ Có thể dòng trong Hội đồng Elrond thể hiện ý định trước đó
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>The Nine Kings are shown holding the Nine Rings in the prologue.</dd></dl>
+<dl><dd>Cửu Vương được thể hiện đang cầm Chín chiếc nhẫn trong đoạn mở đầu.</dd></dl>
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi đánh bài</a></i>:</b>
 
-<dl><dd>Two of the Rings are named in the <i>Rise of Saruman</i> expansion: The Ring of Savagery<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> and the Ring of Terror.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
+<dl><dd>Hai trong số những chiếc Nhẫn được đặt tên trong bản mở rộng <i>Rise of Saruman</i>: Chiếc nhẫn man rợ<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> và Chiếc nhẫn khủng bố.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
 
 <b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Nine Rings are named as &#34;Orôm, the Warmonger&#34;, &#34;Sâkhla, the Cruel One&#34;, and &#34;Adâsh, the Foe-maker&#34;, given to the Lieutenant of Dol Guldur and two other Easterling rulers, respectively; &#34;Jûru, the Herald of Mourning&#34;, &#34;Mêbat, the Mirth-eater&#34;, and &#34;Khânto, the Pain-giver&#34;, given to <a href="../H/Haradrim.md" title="Haradrim">Haradrim</a>; and &#34;Sapthân, the Foolstone&#34;, &#34;Nitîr, Terror&#39;s Sting&#34;, and &#34;Ûri, the Heart-stopper&#34;, given to Númenóreans, the third of whom became the <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> of <a href="../A/Angmar.md" title="Angmar">Angmar</a>.</dd></dl>
+<dl><dd>Chín chiếc nhẫn được đặt tên lần lượt là "Orôm, Kẻ chiến tranh", "Sâkhla, Kẻ độc ác" và "Adâsh, Kẻ tạo ra kẻ thù", được trao cho Trung úy của Dol Guldur và hai người cai trị Easterling khác; "Jûru, Sứ giả của tang tóc", "Mêbat, Kẻ ăn hạnh phúc" và "Khânto, Kẻ gây đau đớn", được trao cho <a href="../H/Haradrim.md" title="Haradrim">Haradrim</a>; và "Sapthân, the Foolstone", "Nitîr, Sting của nỗi kinh hoàng", và "Ûri, Kẻ cản trở trái tim", được trao cho người Númenor, người thứ ba trong số họ đã trở thành <a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a> của <a href="../A/Angmar.md" title="Angmar">Angmar</a>.</dd></dl>
 
 <b>2017: <i><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Trung Địa: Bóng Tối chiến tranh</a></i>:</b>
 
-<dl><dd>In a number of departures from the canon, a few of the Nine are shown to have had multiple bearers. These include a revived <a href="../I/Isildur.md" title="Isildur">Isildur</a> and <a href="../T/Talion.md" title="Talion">Talion</a>, the game&#39;s main protagonist; Suladân, an original character; and original characters Riya and Yuka, sisters who killed their rings&#39; previous owners and claimed them only to become wraiths themselves. <a class="mw-redirect" href="../H/Helm_Hammerhand.md" title="Helm Hammerhand">Helm Hammerhand</a> is also depicted as receiving one of the Nine from both Sauron and Celebrimbor in a clear breach of the timeline established in canon.</dd></dl>
+<dl><dd>Trong một số trường hợp khác với quy luật, một số trong số Chín được cho là có nhiều vật mang. Chúng bao gồm <a href="../I/Isildur.md" title="Isildur">Isildur</a> được hồi sinh và <a href="../T/Talion.md" title="Talion">Talion</a>, nhân vật chính của trò chơi; Suladân, một nhân vật gốc; và các nhân vật gốc Riya và Yuka, hai chị em đã giết chủ nhân trước đây của những chiếc nhẫn của họ và tuyên bố họ chỉ trở thành những hồn ma. <a class="mw-redirect" href="../H/Helm_Hammerhand.md" title="Helm Hammerhand">Helm Hammerhand</a> cũng được mô tả là nhận được một trong Chín từ cả Sauron và Celebrimbor vi phạm rõ ràng về dòng thời gian được thiết lập trong canon.</dd></dl>
 
 <span></span>
 
@@ -126,7 +126,7 @@ Có thể dòng trong Hội đồng Elrond thể hiện ý định trước đó
 
 <table style="margin:0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="4" style="background:var(--tg-color-surface-5)"><b><a href="../R/Rings_of_Power.md" title="Rings of Power">Rings of Power</a></b>
+<td align="center" colspan="4" style="background:var(--tg-color-surface-5)"><b><a href="../R/Rings_of_Power.md" title="Rings of Power">Những Chiếc Nhẫn Quyền Năng</a></b>
 </td></tr>
 <tr>
 <td style="text-align:center;"><b><a class="mw-redirect" href="../O/One_Ring.md" title="One Ring">One Ring</a></b> | <b><a href="../T/Three_Rings.md" title="Three Rings">Three Rings</a></b> <small>(<i><a href="Narya.md" title="Narya">Narya</a></i> · <i><a href="Nenya.md" title="Nenya">Nenya</a></i> · <i><a href="../V/Vilya.md" title="Vilya">Vilya</a></i>)</small> | <b><a href="../S/Seven_Rings.md" title="Seven Rings">Seven Rings</a></b> <small>(<i><a href="../R/Ring_of_Thrór.md" title="Ring of Thrór">Ring of Thrór</a></i>)</small> | <b><a class="mw-selflink selflink">Nine Rings</a></b>

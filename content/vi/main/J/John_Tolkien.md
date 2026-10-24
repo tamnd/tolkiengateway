@@ -37,7 +37,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>John Tolkien</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="John_Tolkien_(disambiguation).md" title="John Tolkien (disambiguation)">John Tolkien (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>John Tolkien</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="John_Tolkien_(disambiguation).md" title="John Tolkien (disambiguation)">John Tolkien (định hướng)</a></b>.</div></div>
 
 Cha **John Francis Reuel Tolkien** ([16 tháng 11](../_/16_November.md), [1917](../_/1917.md) - [22 tháng 1](../_/22_January.md), [2003](../_/2003.md)) là con đầu lòng và con trai cả của [J.R.R.](J.R.R._Tolkien.md) và [Edith Tolkien](../E/Edith_Tolkien.md). Tên thứ hai của anh được đặt theo tên người giám hộ của cha anh, Cha [Francis Xavier Morgan](../F/Francis_Xavier_Morgan.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

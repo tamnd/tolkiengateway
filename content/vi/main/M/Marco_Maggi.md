@@ -20,7 +20,7 @@ infobox:
     value: "Game designer"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Marco Maggi</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Game designer</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Marco Maggi</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nhà thiết kế trò chơi</td></tr></tbody></table>
 
 **Marco Maggi** là một nhà thiết kế trò chơi trên máy tính bảng người Ý, anh thường làm việc cùng với người bạn lâu năm [Francesco Nepitello](../F/Francesco_Nepitello.md). Ông đã từng làm việc trên các trò chơi như *[War of the Ring](<../W/War_of_the_Ring_(2004_board_game).md>)* và trò chơi nhập vai *[The One Ring](<../T/The_One_Ring_(role-playing_game).md>)*.<sup id="cite_ref-abc_1-0" class="reference"><a href="#cite_note-abc-1">[1]</a></sup>
 

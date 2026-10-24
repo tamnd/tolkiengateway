@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/Kalab"
 content_sha256: 162b6c451601b98093d47dbac1b84621f34788556223ca5d710ce0130844c9b5
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Adûnaic word"
+short_description: "Adûnaic từ"
 categories:
   - "Adûnaic words"
 hidden_categories:

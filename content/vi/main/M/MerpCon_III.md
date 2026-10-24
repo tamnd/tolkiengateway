@@ -22,7 +22,7 @@ categories:
 
 <table style="margin:0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a href="MerpCon.md" title="MerpCon">MerpCon</a> events</b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b>sự kiện <a href="MerpCon.md" title="MerpCon">MerpCon</a></b>
 </td></tr>
 <tr>
 <td style="font-size: 90%" align="center"><a href="MerpCon_I.md" title="MerpCon I">MerpCon I</a> · <a href="MerpCon_II.md" title="MerpCon II">MerpCon II</a> · <a class="mw-selflink selflink">MerpCon III</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=MerpCon_IV&amp;action=edit&amp;redlink=1" title="MerpCon IV (page does not exist)">MerpCon IV</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=MerpCon_V&amp;action=edit&amp;redlink=1" title="MerpCon V (page does not exist)">MerpCon V</a>

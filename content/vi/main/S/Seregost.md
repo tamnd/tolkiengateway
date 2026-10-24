@@ -44,7 +44,7 @@ Trong *[Middle-earth: Shadow of War](../M/Middle-earth%253A_Shadow_of_War.md)*, 
 Trang fansite [Thelandofshadow.com](../T/Thelandofshadow.com.md) đã lấy một số cái tên do Reeve giới thiệu và mở rộng chúng. Seregost được mô tả như sau:<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Seregost was a place of lava and red rocks. Named for the &#39;Blood Stone&#39; flower of ancient tales, it was the eastern gate to Lilithlad in a gap in the Mithram Spur. It has been said that the Black Uruks of Barad-dúr came from this forsaken place, hiding there after the ruin of their Master in the Second Age, awaiting his return. Seregost was a place of Dark Sorcery and upon its molten foundations a great fortress stood that guarded the Eastern Road.
+<p>Seregost là nơi có dung nham và đá đỏ. Được đặt tên theo loài hoa 'Huyết Thạch' trong truyện cổ, nó là cổng phía đông dẫn tới Lilithlad trong một khoảng trống ở Mithram Spur. Người ta kể rằng các Uruk Đen của Barad-dúr đến từ nơi bị bỏ hoang này, ẩn náu ở đó sau sự tàn lụi của Master của chúng trong Kỷ Đệ Nhị, chờ đợi sự trở lại của ngài. Seregost là nơi của Ma thuật Hắc ám và trên nền móng nóng chảy của nó có một pháo đài vĩ đại bảo vệ Con đường phía Đông.
 </p>
 </blockquote>
 
@@ -60,14 +60,14 @@ Trang web hâm mộ này dễ truy cập hơn sách nguồn của Decipher, cũn
 		<li class="gallerybox" style="width: 162.66666666667px">
 			<div class="thumb" style="width: 160.66666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Daniel_Reeve_-_Map_of_Mordor_(Decipher).jpg.md" title="Seregost as it first appeared on the 2002 Decipher RPG map."><img alt="Seregost as it first appeared on the 2002 Decipher RPG map." src="https://tolkiengateway.net/w/images/thumb/1/11/Daniel_Reeve_-_Map_of_Mordor_%28Decipher%29.jpg/241px-Daniel_Reeve_-_Map_of_Mordor_%28Decipher%29.jpg" decoding="async" loading="lazy" width="161" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/11/Daniel_Reeve_-_Map_of_Mordor_%28Decipher%29.jpg/362px-Daniel_Reeve_-_Map_of_Mordor_%28Decipher%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/11/Daniel_Reeve_-_Map_of_Mordor_%28Decipher%29.jpg/482px-Daniel_Reeve_-_Map_of_Mordor_%28Decipher%29.jpg 2x" data-file-width="1607" data-file-height="1200"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 141px"><div class="gallerytext">
-<p>Seregost as it first appeared on the 2002 Decipher RPG map.
+<p>Seregost khi nó xuất hiện lần đầu trên bản đồ Decipher RPG năm 2002.
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 138.66666666667px">
 			<div class="thumb" style="width: 136.66666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Daniel_Reeve_-_Map_of_Mordor_(Merchandise).jpg.md" title="The expanded 2003 merchandise map layout."><img alt="The expanded 2003 merchandise map layout." src="https://tolkiengateway.net/w/images/thumb/a/a7/Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg/205px-Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg" decoding="async" loading="lazy" width="137" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg/308px-Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg/411px-Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg 2x" data-file-width="2700" data-file-height="2368"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 117px"><div class="gallerytext">
-<p>The expanded 2003 merchandise map layout.
+<p>Bố cục bản đồ hàng hóa mở rộng năm 2003.
 </p>
 			</div></div>
 		</li>
@@ -84,7 +84,7 @@ Trang web hâm mộ này dễ truy cập hơn sách nguồn của Decipher, cũn
 <li id="cite_note-reeve-site-2"><span class="mw-cite-backlink"><a href="#cite_ref-reeve-site_2-0">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Daniel Reeve</span>. <span class="cite-web-article"><a class="external text" href="https://www.danielreeve.co.nz/LOTR/Maps/" rel="noreferrer noopener" target="_blank">&#34;The Lord of the Rings: Maps&#34;</a></span>. <span class="cite-web-website">Daniel Reeve, artist</span></cite></span>
 </li>
 <li id="cite_note-reeve-mail-3"><span class="mw-cite-backlink"><a href="#cite_ref-reeve-mail_3-0">↑</a></span> <span class="reference-text">Daniel Reeve, personal correspondence (June 2026):<blockquote class="tg-quote noexcerpt">
-<p>the Decipher maps pre-dated the ROTK merchandising map (Mordor). I created the set of maps for Decipher in 2002, and the ROTK merchandising map in 2003. So the Decipher Mordor map served as a kind of template when I later made the merchandising map of Mordor – at which time I expanded upon it, adding a lot more invented detail and names. […] I created the places and names myself.
+<p>bản đồ Giải mã có trước bản đồ buôn bán ROTK (Mordor). Tôi đã tạo bộ bản đồ cho Decipher vào năm 2002 và bản đồ buôn bán ROTK vào năm 2003. Vì vậy, bản đồ Decipher Mordor đóng vai trò như một loại mẫu khi sau này tôi tạo bản đồ buôn bán Mordor – lúc đó tôi đã mở rộng nó, bổ sung thêm nhiều chi tiết và tên được phát minh. […] Tôi đã tự mình tạo ra các địa điểm và đặt tên.
 </p>
 </blockquote></span>
 </li>

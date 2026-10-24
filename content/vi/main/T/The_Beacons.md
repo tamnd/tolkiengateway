@@ -29,8 +29,8 @@ infobox:
     value: "France"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Beacons_(fan_film)_-_Poster.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/00/The_Beacons_%28fan_film%29_-_Poster.png/320px-The_Beacons_%28fan_film%29_-_Poster.png" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/00/The_Beacons_%28fan_film%29_-_Poster.png/480px-The_Beacons_%28fan_film%29_-_Poster.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/00/The_Beacons_%28fan_film%29_-_Poster.png/640px-The_Beacons_%28fan_film%29_-_Poster.png 2x" data-file-width="1080" data-file-height="1080"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Beacons - A Lord of the Rings fan film</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Producer</th><td class="tg-infobox-data">Mickael Genin</td></tr><tr><th scope="row" class="tg-infobox-label">Editing</th><td class="tg-infobox-data">Joe Causse</td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data">Thomas Lyons - LyonsMusic -
-Inspired by Howard Shore Lord of the Rings Soundtrack</td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data">Internet</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Oct 2 2025</td></tr><tr><th scope="row" class="tg-infobox-label">Country</th><td class="tg-infobox-data">France</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Beacons_(fan_film)_-_Poster.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/00/The_Beacons_%28fan_film%29_-_Poster.png/320px-The_Beacons_%28fan_film%29_-_Poster.png" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/00/The_Beacons_%28fan_film%29_-_Poster.png/480px-The_Beacons_%28fan_film%29_-_Poster.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/00/The_Beacons_%28fan_film%29_-_Poster.png/640px-The_Beacons_%28fan_film%29_-_Poster.png 2x" data-file-width="1080" data-file-height="1080"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Beacons - Phim dành cho người hâm mộ Chúa tể của những chiếc nhẫn</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà sản xuất</th><td class="tg-infobox-data">Mickael Genin</td></tr><tr><th scope="row" class="tg-infobox-label">Biên tập</th><td class="tg-infobox-data">Joe Causse</td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data">Thomas Lyons - LyonsMusic -
+Inspired by Howard Shore Lord of the Rings Soundtrack</td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data">Internet</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">Oct 2 2025</td></tr><tr><th scope="row" class="tg-infobox-label">Quốc gia</th><td class="tg-infobox-data">France</td></tr></tbody></table>
 
 **The Beacons** là một [Phim dành cho người hâm mộ](../../category/F/Fan_films.md) do một nhóm người Pháp đam mê Chúa tể những chiếc nhẫn sản xuất. Họ quay bộ phim ngắn ở Auvergne, Pháp vào năm 2024<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Phim được phát hành vào ngày 2 tháng 10 năm 2025
 
@@ -42,15 +42,15 @@ Borlas, một người lính của Gondor, được cảnh báo: đèn hiệu đ
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Role</th>
-<th>Actor
+<th>Vai trò</th>
+<th>Diễn viên
 </th></tr>
 <tr>
 <td>Borlas</td>
 <td>Raphael Coudert
 </td></tr>
 <tr>
-<td>Gondor solder 2</td>
+<td>Gondor mối hàn 2</td>
 <td>David Juillard
 </td></tr>
 <tr>
@@ -62,11 +62,11 @@ Borlas, một người lính của Gondor, được cảnh báo: đèn hiệu đ
 <td>André-Paul Dalais AKA Dédé
 </td></tr>
 <tr>
-<td>Gondor solder 3</td>
+<td>Gondor mối hàn 3</td>
 <td>
 </td></tr>
 <tr>
-<td>Gondor solder 4</td>
+<td>Gondor mối hàn 4</td>
 <td>
 </td></tr>
 <tr>
@@ -247,7 +247,7 @@ và tất cả đội ngũ kỹ thuật của Château Rocher
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>-related fan films</b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b>phim của người hâm mộ liên quan đến <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2003</b>
@@ -262,7 +262,7 @@ và tất cả đội ngũ kỹ thuật của Château Rocher
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2005</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../A/Almost_There_And_Back_Again.md" title="Almost There And Back Again">Almost There And Back Again</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../A/Almost_There_And_Back_Again.md" title="Almost There And Back Again">Gần đến nơi rồi lại trở về</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2007</b>
@@ -277,7 +277,7 @@ và tất cả đội ngũ kỹ thuật của Château Rocher
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2011</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../W/Wings_Over_Arda%253A_The_First_Age.md" title="Wings Over Arda: The First Age">Wings Over Arda: The First Age</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../W/Wings_Over_Arda%253A_The_First_Age.md" title="Wings Over Arda: The First Age">Đôi cánh trên Arda: Kỷ Đệ Nhất</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2013</b>
@@ -287,7 +287,7 @@ và tất cả đội ngũ kỹ thuật của Château Rocher
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2014</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="Tolkien&#39;s_Road.md" title="Tolkien&#39;s Road">Tolkien&#39;s Road</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="Tolkien&#39;s_Road.md" title="Tolkien&#39;s Road">Con đường của Tolkien</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2015</b>
@@ -302,7 +302,7 @@ và tất cả đội ngũ kỹ thuật của Château Rocher
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2017</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Angbandin_Saarto&amp;action=edit&amp;redlink=1" title="Angbandin Saarto (page does not exist)">The Siege of Angband</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Angbandin_Saarto&amp;action=edit&amp;redlink=1" title="Angbandin Saarto (page does not exist)">Cuộc vây hãm Angband</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2018</b>
@@ -317,12 +317,12 @@ và tất cả đội ngũ kỹ thuật của Château Rocher
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2020</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../H/Horn_of_Gondor_(fan_film).md" title="Horn of Gondor (fan film)">Horn of Gondor</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../H/Horn_of_Gondor_(fan_film).md" title="Horn of Gondor (fan film)">Tù và Gondor</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2022</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Battles_of_the_Fords_of_Isen_(fan_film)&amp;action=edit&amp;redlink=1" title="Battles of the Fords of Isen (fan film) (page does not exist)">Battles of the Fords of Isen</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Battles_of_the_Fords_of_Isen_(fan_film)&amp;action=edit&amp;redlink=1" title="Battles of the Fords of Isen (fan film) (page does not exist)">Các trận chiến tại khúc cạn Isen</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2024</b>
@@ -332,10 +332,10 @@ và tất cả đội ngũ kỹ thuật của Château Rocher
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2025</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="mw-selflink selflink">The Beacons</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="mw-selflink selflink">Các đài hiệu</a></i>
 </td></tr>
 <tr>
-<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>Unknown</b>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>Không rõ</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="The_Legend_of_Gurthang.md" title="The Legend of Gurthang">The Legend of Gurthang</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="The_Legend_of_Gurthang.md" title="The Legend of Gurthang">Truyền thuyết về Gurthang</a></i>
 </td></tr></tbody></table>

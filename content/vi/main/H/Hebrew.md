@@ -15,7 +15,7 @@ images:
   - "Ephraim_Moses_Lilien_-_Learning_Talmud.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Ephraim_Moses_Lilien_-_Learning_Talmud.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f5/Ephraim_Moses_Lilien_-_Learning_Talmud.jpg/300px-Ephraim_Moses_Lilien_-_Learning_Talmud.jpg" decoding="async" loading="lazy" width="300" height="272" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f5/Ephraim_Moses_Lilien_-_Learning_Talmud.jpg/450px-Ephraim_Moses_Lilien_-_Learning_Talmud.jpg 1.5x, https://tolkiengateway.net/w/images/f/f5/Ephraim_Moses_Lilien_-_Learning_Talmud.jpg 2x" data-file-width="550" data-file-height="499"/></a><figcaption><i>The Talmud students</i> by <a class="extiw" href="http://en.wikipedia.org/wiki/Ephraim_Moses_Lilien" title="wikipedia:Ephraim Moses Lilien">Ephraim Moses Lilien</a> (1915)</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Ephraim_Moses_Lilien_-_Learning_Talmud.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f5/Ephraim_Moses_Lilien_-_Learning_Talmud.jpg/300px-Ephraim_Moses_Lilien_-_Learning_Talmud.jpg" decoding="async" loading="lazy" width="300" height="272" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f5/Ephraim_Moses_Lilien_-_Learning_Talmud.jpg/450px-Ephraim_Moses_Lilien_-_Learning_Talmud.jpg 1.5x, https://tolkiengateway.net/w/images/f/f5/Ephraim_Moses_Lilien_-_Learning_Talmud.jpg 2x" data-file-width="550" data-file-height="499"/></a><figcaption><i>The Talmud students</i> của <a class="extiw" href="http://en.wikipedia.org/wiki/Ephraim_Moses_Lilien" title="wikipedia:Ephraim Moses Lilien">Ephraim Moses Lilien</a> (1915)</figcaption></figure>
 
 **tiếng Hebrew** là <a class="extiw" href="http://en.wikipedia.org/wiki/Semitic_languages" title="wikipedia:Semitic languages">ngôn ngữ Do Thái</a>. Cựu Ước, nửa đầu của Kinh Thánh, ban đầu được viết bằng tiếng Hebrew.
 
@@ -23,7 +23,7 @@ Khi làm việc cho *[The Jerusalem Bible](../T/The_Jerusalem_Bible.md)* với t
 
 Trong số [cuốn sách trong thư viện của ông](../L/List_of_books_in_Tolkien's_library.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) có một số ấn phẩm liên quan đến tiếng Semitic, bao gồm *Câu chuyện về trận Đại hồng thủy của người Babylon và Sử thi Gilgamish* và *Babylonisch-Assyrische Grammatik mit Übungsbuch*. Tiếng Babylon và tiếng Assyria là các ngôn ngữ Semitic cổ điển, có quan hệ họ hàng xa với tiếng Hebrew.
 
-<h2><span id="In_Tolkien.27s_works"></span><span class="mw-headline" id="In_Tolkien&#39;s_works">In Tolkien&#39;s works</span></h2>
+<h2><span id="In_Tolkien.27s_works"></span><span class="mw-headline" id="In_Tolkien&#39;s_works">Trong tác phẩm của Tolkien</span></h2>
 
 Trong [huyền thoại](../L/Legendarium.md) của mình, Tolkien đã so sánh [Người Lùn](../D/Dwarves.md) của mình với lịch sử của người Do Thái,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và mặc dù có mối liên hệ [Bắc Âu](../N/Norse.md) của họ (sử dụng tên [tiếng Đức](../G/Germanic.md) và [chữ Rune](../R/Runes.md)) nhưng ngôn ngữ gốc của họ, [Khuzdul](../K/Khuzdul.md), vẫn hiển thị cấu trúc giống tiếng Hebrew.
 

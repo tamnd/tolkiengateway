@@ -38,16 +38,16 @@ infobox:
     value: "TBD"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
-<p>We have a long way to go, and there is time ahead for thought.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Chưa hoàn chỉnh</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này đang trong giai đoạn xây dựng ban đầu và không được coi là hoàn chỉnh hoặc thậm chí sắp hoàn thành.<blockquote class="tg-quote noexcerpt">
+<p>Chúng ta còn một chặng đường dài phía trước và vẫn còn thời gian để suy nghĩ.
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_The_Rings_of_Power_-_Shadow_and_Flame_(Soundtrack).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e8/The_Lord_of_the_Rings_The_Rings_of_Power_-_Shadow_and_Flame_%28Soundtrack%29.jpg/320px-The_Lord_of_the_Rings_The_Rings_of_Power_-_Shadow_and_Flame_%28Soundtrack%29.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e8/The_Lord_of_the_Rings_The_Rings_of_Power_-_Shadow_and_Flame_%28Soundtrack%29.jpg/480px-The_Lord_of_the_Rings_The_Rings_of_Power_-_Shadow_and_Flame_%28Soundtrack%29.jpg 1.5x, https://tolkiengateway.net/w/images/e/e8/The_Lord_of_the_Rings_The_Rings_of_Power_-_Shadow_and_Flame_%28Soundtrack%29.jpg 2x" data-file-width="600" data-file-height="600"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Episode</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Shadow and Flame</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data"><a href="../C/Charlotte_Brändström.md" title="Charlotte Brändström">Charlotte Brändström</a></td></tr><tr><th scope="row" class="tg-infobox-label">Writer</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Justin_Doble&amp;action=edit&amp;redlink=1" title="Justin Doble (page does not exist)">Justin Doble</a>, <a class="mw-redirect" href="../J/J.D._Payne.md" title="J.D. Payne">J.D. Payne</a>, and <a href="../P/Patrick_McKay.md" title="Patrick McKay">Patrick McKay</a></td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a><br/>Main Title by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Studio</th><td class="tg-infobox-data"><a class="mw-redirect" href="../A/Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/3_October.md" title="3 October">3 October</a> <a href="../_/2024.md" title="2024">2024</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">73 minutes</td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt27580497" rel="noreferrer noopener" target="_blank">Profile</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Navigation</span></th></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><i><a href="../D/Doomed_to_Die.md" title="Doomed to Die">Doomed to Die</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><i>TBD</i></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_The_Rings_of_Power_-_Shadow_and_Flame_(Soundtrack).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e8/The_Lord_of_the_Rings_The_Rings_of_Power_-_Shadow_and_Flame_%28Soundtrack%29.jpg/320px-The_Lord_of_the_Rings_The_Rings_of_Power_-_Shadow_and_Flame_%28Soundtrack%29.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e8/The_Lord_of_the_Rings_The_Rings_of_Power_-_Shadow_and_Flame_%28Soundtrack%29.jpg/480px-The_Lord_of_the_Rings_The_Rings_of_Power_-_Shadow_and_Flame_%28Soundtrack%29.jpg 1.5x, https://tolkiengateway.net/w/images/e/e8/The_Lord_of_the_Rings_The_Rings_of_Power_-_Shadow_and_Flame_%28Soundtrack%29.jpg 2x" data-file-width="600" data-file-height="600"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Tập phim</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Shadow and Flame</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data"><a href="../C/Charlotte_Brändström.md" title="Charlotte Brändström">Charlotte Brändström</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Justin_Doble&amp;action=edit&amp;redlink=1" title="Justin Doble (page does not exist)">Justin Doble</a>, <a class="mw-redirect" href="../J/J.D._Payne.md" title="J.D. Payne">J.D. Payne</a>, and <a href="../P/Patrick_McKay.md" title="Patrick McKay">Patrick McKay</a></td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a><br/>Main Title by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Hãng phim</th><td class="tg-infobox-data"><a class="mw-redirect" href="../A/Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/3_October.md" title="3 October">3 October</a> <a href="../_/2024.md" title="2024">2024</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">73 phút</td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt27580497" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Điều hướng</span></th></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><i><a href="../D/Doomed_to_Die.md" title="Doomed to Die">Doomed to Die</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><i>TBD</i></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Season Finale. The <a href="../F/Free_peoples~19934.md" title="Free peoples">free peoples</a> of <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a> struggle against the <a href="Sauron.md" title="Sauron">forces</a> of <a class="mw-redirect" href="../D/Darkness.md" title="Darkness">darkness</a>.
+<p>Mùa cuối cùng. <a href="../F/Free_peoples~19934.md" title="Free peoples">các dân tộc tự do</a> của <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a> đấu tranh chống lại <a href="Sauron.md" title="Sauron">thế lực</a> của <a class="mw-redirect" href="../D/Darkness.md" title="Darkness">bóng tối</a>.
 </p>
 <p class="tg-quote-footer"><cite>Official Synopsis, <a class="mw-redirect" href="../A/Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -60,16 +60,16 @@ infobox:
 
 ### Đã ghi có {#Credited}
 
-<dl><dd><i>In order of appearance</i> (in episode credits)</dd></dl>
+<dl><dd><i>In order of appearance</i> (trong phần ghi công của tập)</dd></dl>
 
 <table class="wikitable mw-collapsible">
 <tbody><tr>
-<th>Actor</th>
-<th>Role
+<th>Diễn viên</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td><a href="../O/Owain_Arthur.md" title="Owain Arthur">Owain Arthur</a></td>
-<td><a href="../D/Durin_IV.md" title="Durin IV">Prince Durin IV</a>
+<td><a href="../D/Durin_IV.md" title="Durin IV">Thân vương Durin IV</a>
 </td></tr>
 <tr>
 <td><a href="Sophia_Nomvete.md" title="Sophia Nomvete">Sophia Nomvete</a></td>
@@ -77,7 +77,7 @@ infobox:
 </td></tr>
 <tr>
 <td><a href="../D/Daniel_Weyman.md" title="Daniel Weyman">Daniel Weyman</a></td>
-<td><a href="../T/The_Stranger.md" title="The Stranger">The Stranger</a>
+<td><a href="../T/The_Stranger.md" title="The Stranger">Kẻ lạ mặt</a>
 </td></tr>
 <tr>
 <td><a href="../C/Ciarán_Hinds.md" title="Ciarán Hinds">Ciarán Hinds</a></td>
@@ -109,7 +109,7 @@ infobox:
 </td></tr>
 <tr>
 <td><a href="../C/Charles_Edwards.md" title="Charles Edwards">Charles Edwards</a></td>
-<td><a href="../C/Celebrimbor.md" title="Celebrimbor">Lord Celebrimbor</a>
+<td><a href="../C/Celebrimbor.md" title="Celebrimbor">Lãnh chúa Celebrimbor</a>
 </td></tr>
 <tr>
 <td><a href="../C/Charlie_Vickers.md" title="Charlie Vickers">Charlie Vickers</a></td>
@@ -137,7 +137,7 @@ infobox:
 </td></tr>
 <tr>
 <td><a href="../P/Peter_Mullan.md" title="Peter Mullan">Peter Mullan</a></td>
-<td><a href="../D/Durin_III.md" title="Durin III">King Durin III</a>
+<td><a href="../D/Durin_III.md" title="Durin III">Vua Durin III</a>
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kevin_Eldon&amp;action=edit&amp;redlink=1" title="Kevin Eldon (page does not exist)">Kevin Eldon</a></td>
@@ -268,20 +268,20 @@ Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amaz
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i> episodes
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i> tập
 </th></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season One
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ nhất
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../A/A_Shadow_of_the_Past.md" title="A Shadow of the Past">1. A Shadow of the Past</a> <b>·</b> <a href="../A/Adrift.md" title="Adrift">2. Adrift</a> <b>·</b> <a href="../A/Adar_(episode).md" title="Adar (episode)">3. Adar</a> <b>·</b> <a href="../T/The_Great_Wave.md" title="The Great Wave">4. The Great Wave</a> <b>·</b> <a href="../P/Partings.md" title="Partings">5. Partings</a> <b>·</b> <a href="../U/Udûn_(episode).md" title="Udûn (episode)">6. Udûn</a> <b>·</b> <a href="../T/The_Eye.md" title="The Eye">7. The Eye</a> <b>·</b> <a href="../A/Alloyed.md" title="Alloyed">8. Alloyed</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season Two
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ hai
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../E/Elven_Kings_Under_the_Sky.md" title="Elven Kings Under the Sky">9. Elven Kings Under the Sky</a> <b>·</b> <a href="../W/Where_the_Stars_are_Strange.md" title="Where the Stars are Strange">10. Where the Stars are Strange</a> <b>·</b> <a href="../T/The_Eagle_and_the_Sceptre.md" title="The Eagle and the Sceptre">11. The Eagle and the Sceptre</a> <b>·</b> <a href="../E/Eldest_(episode).md" title="Eldest (episode)">12. Eldest</a> <b>·</b> <a href="../H/Halls_of_Stone.md" title="Halls of Stone">13. Halls of Stone</a> <b>·</b> <a href="../W/Where_Is_He%253F.md" title="Where Is He?">14. Where Is He?</a> <b>·</b> <a href="../D/Doomed_to_Die.md" title="Doomed to Die">15. Doomed to Die</a> <b>·</b> <a class="mw-selflink selflink">16. Shadow and Flame</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../E/Elven_Kings_Under_the_Sky.md" title="Elven Kings Under the Sky">9. Tiên Những vị vua dưới bầu trời</a> <b>·</b> <a href="../W/Where_the_Stars_are_Strange.md" title="Where the Stars are Strange">10. Nơi những vì sao kỳ lạ</a> <b>·</b> <a href="../T/The_Eagle_and_the_Sceptre.md" title="The Eagle and the Sceptre">11. Đại bàng và vương trượng</a> <b>·</b> <a href="../E/Eldest_(episode).md" title="Eldest (episode)">12. Anh cả</a> <b>·</b> <a href="../H/Halls_of_Stone.md" title="Halls of Stone">13. Sảnh Đá</a> <b>·</b> <a href="../W/Where_Is_He%253F.md" title="Where Is He?">14. Ông ở đâu?</a> <b>·</b> <a href="../D/Doomed_to_Die.md" title="Doomed to Die">15. Định mệnh phải chết</a> <b>·</b> <a class="mw-selflink selflink">16. Bóng Tối và Ngọn lửa</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season Three
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ ba
 </th>
 <td style="font-size: 90%; padding-left: 4px;">TBD <b>·</b>
 </td></tr></tbody></table>

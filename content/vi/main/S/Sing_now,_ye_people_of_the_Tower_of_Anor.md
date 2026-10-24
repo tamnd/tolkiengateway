@@ -18,26 +18,26 @@ categories:
 ## Bài thơ {#Poem}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Sing now, ye people of the Tower of Anor,<br/>
-for the Realm of Sauron is ended for ever,<br/>
-and the <a href="../B/Barad-dûr.md" title="Barad-dûr">Dark Tower</a> is thrown down.<br/>
+<p>Hãy hát lên, hỡi người dân của Tháp Anor,<br/>
+vì Vương quốc Sauron đã kết thúc mãi mãi,<br/>
+và <a href="../B/Barad-dûr.md" title="Barad-dûr">Tháp bóng tối</a> bị đánh sập.<br/>
 <br/>
-Sing and rejoice, ye people of the Tower of Guard,<br/>
-for your watch hath not been in vain,<br/>
-and the <a href="../B/Black_Gate.md" title="Black Gate">Black Gate</a> is broken,<br/>
-and your <a href="../A/Aragorn.md" title="Aragorn">King</a> hath passed through,<br/>
-and he is victorious.<br/>
+Hãy ca hát và vui mừng, hỡi người dân của Tháp Canh,<br/>
+vì đồng hồ của bạn đã không hề vô ích,<br/>
+và <a href="../B/Black_Gate.md" title="Black Gate">Cổng Đen</a> bị hỏng,<br/>
+và <a href="../A/Aragorn.md" title="Aragorn">Vua</a> của bạn đã vượt qua,<br/>
+và ông đã chiến thắng.<br/>
 <br/>
-Sing and be glad, all ye children of the West,<br/>
-for your King shall come again,<br/>
-and he shall dwell among you<br/>
-all the days of your life.<br/>
+Hãy ca hát và vui mừng, hỡi tất cả những đứa con của Phương Tây,<br/>
+vì Vua của bạn sẽ quay trở lại,<br/>
+và ông sẽ ở giữa bạn<br/>
+tất cả những ngày trong cuộc đời bạn.<br/>
 <br/>
-And the <a href="../W/White_Tree_of_Gondor.md" title="White Tree of Gondor">Tree</a> that was withered shall be renewed, <br/>
-and he shall plant it in the high places,<br/>
-and the City shall be blessed.<br/>
+Và <a href="../W/White_Tree_of_Gondor.md" title="White Tree of Gondor">Cây</a> đã khô héo sẽ được đổi mới, <br/>
+và ông sẽ trồng nó ở những nơi cao,<br/>
+và Thành phố sẽ được ban phước.<br/>
 <br/>
-Sing all ye people!
+Hãy hát lên nào mọi người!
 </p>
 </div>
 

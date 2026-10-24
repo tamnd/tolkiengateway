@@ -19,7 +19,7 @@ images:
   - "Liz_Danforth_-_Sam_apple.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Liz_Danforth_-_Sam_apple.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/da/Liz_Danforth_-_Sam_apple.png/300px-Liz_Danforth_-_Sam_apple.png" decoding="async" loading="lazy" width="300" height="408" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/da/Liz_Danforth_-_Sam_apple.png 1.5x" data-file-width="368" data-file-height="500"/></a><figcaption><i>Sam throws an apple at Bill Ferny</i> by <a href="../L/Liz_Danforth.md" title="Liz Danforth">Liz Danforth</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Liz_Danforth_-_Sam_apple.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/da/Liz_Danforth_-_Sam_apple.png/300px-Liz_Danforth_-_Sam_apple.png" decoding="async" loading="lazy" width="300" height="408" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/da/Liz_Danforth_-_Sam_apple.png 1.5x" data-file-width="368" data-file-height="500"/></a><figcaption><i>Sam ném quả táo vào Bill Ferny</i> của <a href="../L/Liz_Danforth.md" title="Liz Danforth">Liz Danforth</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>I hope I never smell the smell of apples again!  My tub was full of it. To smell apples everlastingly when you can scarcely move and are cold and sick with hunger is maddening. I could eat anything in the wide world now, for hours on end - but not an apple!

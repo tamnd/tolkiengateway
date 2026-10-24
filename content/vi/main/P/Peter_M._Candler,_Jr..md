@@ -23,10 +23,10 @@ infobox:
     value: "Academic"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Peter M. Candler, Jr.</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data">Doctor of Philosophy, Theology (2003) University of Cambridge
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Peter M. Candler, Jr.</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Học vấn</th><td class="tg-infobox-data">Doctor of Philosophy, Theology (2003) University of Cambridge
 <p><br/>Master of Philosophy, Theology (Two-Year Course) (1997) <a href="../C/Cambridge.md" title="Cambridge">University of Cambridge</a>
 </p>
-<br/>Bachelor of Arts, Religion (1994) Wake Forest University</td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Academic</td></tr></tbody></table>
+<br/>Bachelor of Arts, Religion (1994) Wake Forest University</td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Academic</td></tr></tbody></table>
 
 **Peter M. Candler, Jr.** là Phó Giáo sư Thần học tại Khoa Tôn giáo của <a class="extiw" href="http://en.wikipedia.org/wiki/Baylor_University" title="wikipedia:Baylor University">Đại học Baylor</a>. Vì thần học thời trung cổ và tiền hiện đại là một trong những mối quan tâm học thuật chính của ông, Candler đã xuất bản nhiều sách và bài báo trong lĩnh vực này, cũng như các khóa giảng dạy bao gồm "Truyền thống trí tuệ của thế giới cổ đại", "Truyền thống trí tuệ thời trung cổ", "Trung Kỷ nguyên" và "Thế kỷ 18 và 19". Ông đã xuất bản một trong số ít bài báo so sánh giữa [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [Friedrich Nietzsche](../F/Friedrich_Nietzsche.md), lần đầu tiên được trình bày dưới dạng bài báo tại hội nghị Tolkien tại <a class="new" href="https://tolkiengateway.net/w/index.php?title=Exeter_College&amp;action=edit&amp;redlink=1" title="Exeter College (page does not exist)">Exeter College</a>, [Oxford](../O/Oxford_University.md), vào tháng 8 năm 2006.
 

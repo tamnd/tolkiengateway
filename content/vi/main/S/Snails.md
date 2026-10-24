@@ -13,7 +13,7 @@ categories:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I pity snails, and all that carry their homes on their backs.
+<p>Tôi thương hại những con ốc sên và tất cả những loài vật mang tổ ấm trên lưng.
 </p>
 <p class="tg-quote-footer"><cite><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

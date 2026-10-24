@@ -25,50 +25,50 @@ infobox:
     value: "3:39"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Blind_guardian_nightfall_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/93/Blind_guardian_nightfall_cover.jpg/320px-Blind_guardian_nightfall_cover.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/93/Blind_guardian_nightfall_cover.jpg/480px-Blind_guardian_nightfall_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/93/Blind_guardian_nightfall_cover.jpg/640px-Blind_guardian_nightfall_cover.jpg 2x" data-file-width="1000" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Harvest of Sorrow</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../N/Nightfall_in_Middle-Earth.md" title="Nightfall in Middle-Earth">Nightfall in Middle-Earth</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data">Hansi Kürsch, André Olbrich</td></tr><tr><th scope="row" class="tg-infobox-label">Written by</th><td class="tg-infobox-data">Hansi Kürsch</td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data"><a href="../B/Blind_Guardian.md" title="Blind Guardian">Blind Guardian</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">3:39</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Blind_guardian_nightfall_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/93/Blind_guardian_nightfall_cover.jpg/320px-Blind_guardian_nightfall_cover.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/93/Blind_guardian_nightfall_cover.jpg/480px-Blind_guardian_nightfall_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/93/Blind_guardian_nightfall_cover.jpg/640px-Blind_guardian_nightfall_cover.jpg 2x" data-file-width="1000" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Harvest of Sorrow</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../N/Nightfall_in_Middle-Earth.md" title="Nightfall in Middle-Earth">Đêm buông xuống ở Trung Địa</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data">Hansi Kürsch, André Olbrich</td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data">Hansi Kürsch</td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data"><a href="../B/Blind_Guardian.md" title="Blind Guardian">Blind Guardian</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">3:39</td></tr></tbody></table>
 
 **Harvest of Sorrow** là bài hát tặng kèm trong album chủ đề [Tolkien](../J/J.R.R._Tolkien.md) của [Blind Guardian](../B/Blind_Guardian.md) *[Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md)*. Bài hát kể về [Những đứa trẻ của Húrin](<../N/Narn_i_Chîn_Húrin_(tale).md>).
 
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>She is gone leaves are falling down<br/>
-The tear maiden will not return<br/>
-The seal of oblivion is broken<br/>
-And a pure love&#39;s been turned into sin<br/>
+<p>Em đi rồi lá rơi<br/>
+Nàng tiên nước mắt sẽ không trở lại<br/>
+Phong ấn của sự lãng quên đã bị phá vỡ<br/>
+Và một tình yêu trong sáng đã trở thành tội lỗi<br/>
 <br/>
-At the dawn of our living time<br/>
-Hope may cover all cries<br/>
-Truth lurks hidden in the shadows<br/>
-Dreams might be filled with lies<br/>
-Soon there will be night<br/>
-Pain remains inside<br/>
+Vào buổi bình minh của thời gian sống của chúng ta<br/>
+Hy vọng có thể lấp đi mọi tiếng khóc<br/>
+Sự thật ẩn giấu trong bóng tối<br/>
+Giấc mơ có thể đầy dối trá<br/>
+Sẽ sớm có màn đêm<br/>
+Nỗi đau vẫn còn trong<br/>
 <br/>
-Suddenly (oh) it seemed so clear<br/>
-All the blindness was taken away<br/>
-She closed her eyes and she called out my name<br/>
-She was never ever never ever seen again<br/>
+Đột nhiên (ôi) mọi chuyện dường như rõ ràng<br/>
+Tất cả sự mù quáng đã được lấy đi<br/>
+Bà nhắm mắt lại và gọi tên tôi<br/>
+Bà chưa bao giờ được nhìn thấy lần nữa<br/>
 <br/>
-Harvest of sorrow, your seed is grown<br/>
-In a frozen world full of cries<br/>
+Thu hoạch sầu muộn, hạt giống của bạn đã lớn lên<br/>
+Trong một thế giới băng giá đầy tiếng khóc<br/>
 <br/>
-When the ray of light shrinks<br/>
-Shall cold winter nights begin<br/>
+Khi tia sáng co lại<br/>
+Đêm đông lạnh giá sẽ bắt đầu<br/>
 <br/>
-She is gone and I fall from grace<br/>
-No healing charm covers my wounds<br/>
-Fooled&#39;s the dawn and so I am<br/>
-Fooled by life and a bitter doom<br/>
-To bring you the end of the day<br/>
+Bà đi rồi và tôi mất ân sủng<br/>
+Không có bùa chữa lành nào che đậy vết thương của tôi<br/>
+Bình minh bị lừa và tôi cũng vậy<br/>
+Bị cuộc đời đánh lừa và một sự diệt vong cay đắng<br/>
+Để mang đến cho em sự kết thúc của một ngày<br/>
 <br/>
-At the dawn of our living time<br/>
-Hope it soon will pass by<br/>
-Facing a darkness<br/>
-I stand (alone)<br/>
+Vào buổi bình minh của thời gian sống của chúng ta<br/>
+Mong nó sẽ sớm trôi qua<br/>
+Đối mặt với bóng tối<br/>
+Tôi đứng (một mình)<br/>
 <br/>
-Harvest of sorrow, your seed is grown<br/>
-In a frozen world full of cries<br/>
-When the ray of light shrinks<br/>
-Shall cold winter nights begin<br/>
+Thu hoạch sầu muộn, hạt giống của bạn đã lớn lên<br/>
+Trong một thế giới băng giá đầy tiếng khóc<br/>
+Khi tia sáng co lại<br/>
+Đêm đông lạnh giá sẽ bắt đầu<br/>
 </p>
 </div>

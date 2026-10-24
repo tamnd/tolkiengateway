@@ -46,7 +46,7 @@ infobox:
     value: "Images of Nan Dungortheb"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Peter_Xavier_Price_-_Aredhel_Escapes_Nan_Dungortheb.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a7/Peter_Xavier_Price_-_Aredhel_Escapes_Nan_Dungortheb.jpg/320px-Peter_Xavier_Price_-_Aredhel_Escapes_Nan_Dungortheb.jpg" decoding="async" loading="lazy" width="320" height="252" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/Peter_Xavier_Price_-_Aredhel_Escapes_Nan_Dungortheb.jpg/480px-Peter_Xavier_Price_-_Aredhel_Escapes_Nan_Dungortheb.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/Peter_Xavier_Price_-_Aredhel_Escapes_Nan_Dungortheb.jpg/640px-Peter_Xavier_Price_-_Aredhel_Escapes_Nan_Dungortheb.jpg 2x" data-file-width="1024" data-file-height="806"/></a><figcaption><i>Aredhel Escapes Nan Dungortheb</i> by <a href="../P/Peter_Xavier_Price.md" title="Peter Xavier Price">Peter Xavier Price</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Region</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Nan Dungortheb</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Valley of Dreadful Death</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Beleriand.md" title="Beleriand">Beleriand</a>, north of <a href="../D/Doriath.md" title="Doriath">Doriath</a>, south of <a href="../D/Dorthonion.md" title="Dorthonion">Dorthonion</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Region</td></tr><tr><th scope="row" class="tg-infobox-label">Description</th><td class="tg-infobox-data">Haunted valley of dread</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data">Spawn of <a href="../U/Ungoliant.md" title="Ungoliant">Ungoliant</a></td></tr><tr><th scope="row" class="tg-infobox-label">Destroyed</th><td class="tg-infobox-data"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_587.md" title="First Age 587">587</a>, <a href="../W/War_of_Wrath.md" title="War of Wrath">Destruction of Beleriand</a></td></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_464.md" title="First Age 464">464</a>: <a href="../B/Beren.md" title="Beren">Beren</a>&#39;s Journey to Doriath</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Nan_Dungortheb.md" title="Category:Images of Nan Dungortheb">Images of Nan Dungortheb</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Peter_Xavier_Price_-_Aredhel_Escapes_Nan_Dungortheb.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a7/Peter_Xavier_Price_-_Aredhel_Escapes_Nan_Dungortheb.jpg/320px-Peter_Xavier_Price_-_Aredhel_Escapes_Nan_Dungortheb.jpg" decoding="async" loading="lazy" width="320" height="252" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/Peter_Xavier_Price_-_Aredhel_Escapes_Nan_Dungortheb.jpg/480px-Peter_Xavier_Price_-_Aredhel_Escapes_Nan_Dungortheb.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/Peter_Xavier_Price_-_Aredhel_Escapes_Nan_Dungortheb.jpg/640px-Peter_Xavier_Price_-_Aredhel_Escapes_Nan_Dungortheb.jpg 2x" data-file-width="1024" data-file-height="806"/></a><figcaption><i>Aredhel Escapes Nan Dungortheb</i> by <a href="../P/Peter_Xavier_Price.md" title="Peter Xavier Price">Peter Xavier Price</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Region</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Nan Dungortheb</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin chung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data">Valley of Dreadful Death</td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../B/Beleriand.md" title="Beleriand">Beleriand</a>, phía bắc <a href="../D/Doriath.md" title="Doriath">Doriath</a>, phía nam <a href="../D/Dorthonion.md" title="Dorthonion">Dorthonion</a></td></tr><tr><th scope="row" class="tg-infobox-label">Loại</th><td class="tg-infobox-data">Region</td></tr><tr><th scope="row" class="tg-infobox-label">Mô tả</th><td class="tg-infobox-data">Thung lũng ma ám kinh hoàng</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Nhân vật và lịch sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Cư dân</th><td class="tg-infobox-data">Spawn of <a href="../U/Ungoliant.md" title="Ungoliant">Ungoliant</a></td></tr><tr><th scope="row" class="tg-infobox-label">Bị phá hủy</th><td class="tg-infobox-data"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_587.md" title="First Age 587">587</a>, <a href="../W/War_of_Wrath.md" title="War of Wrath">Destruction of Beleriand</a></td></tr><tr><th scope="row" class="tg-infobox-label">Sự kiện</th><td class="tg-infobox-data"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_464.md" title="First Age 464">464</a>: <a href="../B/Beren.md" title="Beren">Beren</a>&#39;s Journey to Doriath</td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Nan_Dungortheb.md" title="Category:Images of Nan Dungortheb">Images of Nan Dungortheb</a></td></tr></tbody></table>
 
 **Nan Dungortheb** là thung lũng đáng sợ ở phía bắc [Beleriand](../B/Beleriand.md) chạy từ tây sang đông giữa những ngọn núi ma ám của [Ered Gorgoroth](../E/Ered_Gorgoroth.md) và những cuộc hành quân đầy mê hoặc về phía bắc của [Doriath](../D/Doriath.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -75,26 +75,26 @@ Tên *Nan Dungortheb* được dịch là "Thung lũng chết chóc",<sup id="ci
 Trong *[Lay of the Children of Húrin](../L/Lay_of_the_Children_of_Húrin.md)*, [Túrin](../T/Túrin.md) và [Flinding](../G/Gwindor.md) tình cờ gặp <i><b>Nan Dungorthin</b></i> trong ánh chạng vạng mờ ảo sau vụ [Beleg](../B/Beleg.md) vô tình bị sát hại. Nó được mô tả như sau:<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 <div class="poem">
-<p>Thus reached they the roots   and the ruinous feet<br/>
-of those hoary hills   that Hithlum girdle,<br/>
-the shaggy pinewoods   of the Shadowy Mountains.<br/>
-There the twain enfolded   phantom twilight<br/>
-and dim mazes   dark, unholy,<br/>
-in Nan Dungorthin   where nameless gods<br/>
-have shrouded shrines   in shadows secret,<br/>
-more old than Morgoth   or the ancient lords<br/>
-the golden Gods   of the guarded West.<br/>
-But the ghostly dwellers   of that grey valley<br/>
-hindered nor hurt them,   and they held their course<br/>
-with creeping flesh   and quaking limb.<br/>
-Yet laughter at whiles   with lingering echo,<br/>
-as distant mockery   of demon voices<br/>
-there harsh and hollow   in the hushed twilight<br/>
-Flinding fancied,   fell, unwholesome<br/>
-as that leering laughter   lost and dreadful<br/>
-that rang in the rocks   in the ruthless hour<br/>
-of Beleg’s slaughter.   ‘Tis Bauglir’s voice<br/>
-that dogs us darkly   with deadly scorn’
+<p>Thế là họ đã chạm tới cội rễ   và đôi chân tàn tạ<br/>
+của những ngọn đồi xám xịt đó   có đai Hithlum bao quanh,<br/>
+những cánh rừng thông xù xì   của Shadowy Dãy Núi.<br/>
+Ở đó, cặp đôi bao bọc   chạng vạng ma quái<br/>
+và những mê cung mờ mịt   tối tăm, xấu xa,<br/>
+ở Nan Dungorthin   nơi các vị thần vô danh<br/>
+đã che phủ những ngôi đền   trong bóng tối bí mật,<br/>
+lâu đời hơn Morgoth   hay các lãnh chúa cổ xưa<br/>
+các vị thần vàng   của những người được bảo vệ Phương Tây.<br/>
+Nhưng những cư dân ma quái   của thung lũng xám xịt đó<br/>
+cản trở hay làm tổn thương họ,   và họ vẫn giữ vững mục tiêu<br/>
+với thịt bò ra   và tứ chi run rẩy.<br/>
+Tuy nhiên, thỉnh thoảng lại có tiếng cười   với âm vang kéo dài,<br/>
+như sự nhạo báng xa xa   của giọng nói quỷ<br/>
+ở đó khắc nghiệt và trống rỗng   trong ánh chạng vạng im lặng<br/>
+Flinding mê mẩn,   ngã, không lành<br/>
+khi tiếng cười dâm đãng đó   lạc lõng và đáng sợ<br/>
+vang lên trong đá   trong giờ phút tàn nhẫn<br/>
+về sự tàn sát của Beleg.   ‘Giọng của Bauglir<br/>
+khiến chúng tôi trở nên đen tối   với sự khinh miệt chết người’
 </p>
 </div>
 

@@ -23,7 +23,7 @@ langlinks:
 ## Từ nguyên {#Etymology}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>In every fourth year, except the last of a century (<i>haranyë</i>)...
+<p>Cứ bốn năm một lần, trừ năm cuối thế kỷ (<i>haranyë</i>)...
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><sup id="cite_ref-D2_1-1" class="reference"><a href="#cite_note-D2-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

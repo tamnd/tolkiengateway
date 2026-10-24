@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Mythcon_27"
 content_sha256: 9ff8f14455d2fb1bf787a48b1887f96978cb8e733b1db320206d1a8f6a0e1009
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "1996 Mythopoeic Society conference"
+short_description: "Hội nghị Hiệp hội Thần thoại năm 1996"
 categories:
   - "Mythcon"
 hidden_categories:
@@ -28,7 +28,7 @@ infobox:
     value: "Mythcon 28"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 27</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">University of Colorado, Boulder, Colorado</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data">26-29 July <a href="../_/1996.md" title="1996">1996</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="Mythcon_26.md" title="Mythcon 26">Mythcon 26</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="Mythcon_28.md" title="Mythcon 28">Mythcon 28</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 27</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">University of Colorado, Boulder, Colorado</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Hội Mythopoeic</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data">26-29 July <a href="../_/1996.md" title="1996">1996</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="Mythcon_26.md" title="Mythcon 26">Mythcon 26</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Mythcon_28.md" title="Mythcon 28">Mythcon 28</a></td></tr></tbody></table>
 
 **Mythcon 27** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 27.
 

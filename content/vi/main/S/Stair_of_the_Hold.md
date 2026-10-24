@@ -36,7 +36,7 @@ Những người đầu tiên của [Rohan](../R/Rohan.md) leo lên Cầu thang 
 
 <b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Dunharrow Stair is a major landmark in the &#34;<a href="../K/King&#39;s_Lands.md" title="King&#39;s Lands">Kingstead</a>&#34; area of <a href="../W/Westemnet.md" title="Westemnet">Westemnet</a>.</dd></dl>
+<dl><dd>Cầu thang Dunharrow là địa danh chính trong khu vực "<a href="../K/King&#39;s_Lands.md" title="King&#39;s Lands">Kingstead</a>" của <a href="../W/Westemnet.md" title="Westemnet">Westemnet</a>.</dd></dl>
 
 <span></span>
 

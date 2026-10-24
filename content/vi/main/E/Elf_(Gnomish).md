@@ -15,7 +15,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>a <a href="../G/Gnomish.md" title="Gnomish">Gnomish</a> word</b>. For the race in <a href="../A/Arda.md" title="Arda">Arda</a>, see <b><a href="Elves.md" title="Elves">Elves</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>một <a href="../G/Gnomish.md" title="Gnomish">Gnomish</a> từ</b>. Đối với cuộc đua trong <a href="../A/Arda.md" title="Arda">Arda</a>, xem <b><a href="Elves.md" title="Elves">Tiên tộc</a></b>.</div></div>
 
 <i><b>Tiên</b></i> là một từ [Gnomish](../G/Gnomish.md) có nghĩa là "năm".<sup id="cite_ref-PE11_1-0" class="reference"><a href="#cite_note-PE11-1">[1]</a></sup> Mặc dù xuất hiện mà không có bất kỳ ngôn ngữ nào được chỉ định trong nguồn, [Patrick H. Wynne](../P/Patrick_H._Wynne.md) đã rút ra kết luận rằng từ đó là Gnomish.<sup id="cite_ref-VT_2-0" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
 

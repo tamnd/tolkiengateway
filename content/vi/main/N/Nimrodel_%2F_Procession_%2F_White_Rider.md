@@ -17,18 +17,18 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>When he rides, my fears subside<br/>
-For darkness turns once more to light<br/>
-Through the skies his white horse flies<br/>
-To find a land beyond the night<br/>
-Once he wore grey<br/>
-He fell and slipped away from everybody&#39;s sight<br/>
-The wizard of them all<br/>
-Came back from his fall, this time wearing white<br/>
-He has a certain air<br/>
-As if he&#39;s never there but somehow far away<br/>
-And though he seems afar<br/>
-Like a distant star, his warmth he can convey<br/>
-You might also like
+<p>Khi ông cưỡi ngựa, nỗi sợ hãi của tôi giảm bớt<br/>
+Vì bóng tối một lần nữa trở thành ánh sáng<br/>
+Ngựa trắng của anh bay qua bầu trời<br/>
+Để tìm một vùng đất vượt qua màn đêm<br/>
+Có lần anh mặc màu xám<br/>
+Ông ngã xuống và biến mất khỏi tầm mắt của mọi người<br/>
+Phù thủy của tất cả bọn họ<br/>
+Trở về sau cú ngã, lần này mặc đồ trắng<br/>
+Ông có một khí chất nhất định<br/>
+Như thể ông chưa từng ở đó mà cách nào đó rất xa<br/>
+Và dù anh có vẻ xa xôi<br/>
+Như một vì sao xa xôi, anh có thể truyền đi hơi ấm<br/>
+Bạn cũng có thể thích
 </p>
 </div>

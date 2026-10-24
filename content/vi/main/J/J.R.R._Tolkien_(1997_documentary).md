@@ -15,7 +15,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>J.R.R. Tolkien</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="J.R.R._Tolkien_(disambiguation).md" title="J.R.R. Tolkien (disambiguation)">J.R.R. Tolkien (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>J.R.R. Tolkien</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="J.R.R._Tolkien_(disambiguation).md" title="J.R.R. Tolkien (disambiguation)">J.R.R. Tolkien (định hướng)</a></b>.</div></div>
 
 <i><b>J.R.R. Tolkien</b></i> là một bộ phim tài liệu [1997](../_/1997.md) được phát sóng trên [BBC](../B/BBC.md).
 

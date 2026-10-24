@@ -45,7 +45,7 @@ Theo truyền thống, từ này được cho là bắt nguồn từ lời thố
 - *[Elerrína](Elerrína.md)* = "Được Đội Vương Miện Sao"
 - *[elenya](Elenya.md)* = "Ngày Sao" ("Thứ Bảy")
 
-<h3><span id="With_the_meaning_.22Elf.22"></span><span class="mw-headline" id="With_the_meaning_&#34;Elf&#34;">With the meaning &#34;Elf&#34;</span></h3>
+<h3><span id="With_the_meaning_.22Elf.22"></span><span class="mw-headline" id="With_the_meaning_&#34;Elf&#34;">Với ý nghĩa “Tiên”</span></h3>
 
 - *[Elendil](Elendil.md)* = "Bạn của Tiên tộc"
 - <i><a class="mw-redirect mw-disambig" href="Elessar.md" title="Elessar">Elessar</a></i> = "Đá Tiên"

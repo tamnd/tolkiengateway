@@ -29,7 +29,7 @@ infobox:
     value: "1582369607"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Maps_of_Middle_Earth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a2/Maps_of_Middle_Earth.jpg/320px-Maps_of_Middle_Earth.jpg" decoding="async" loading="lazy" width="320" height="448" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/a/a2/Maps_of_Middle_Earth.jpg 1.5x" data-file-width="339" data-file-height="475"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Maps of Middle-Earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a class="mw-redirect" href="../J/John_Rateliff.md" title="John Rateliff">John Rateliff</a></td></tr><tr><th scope="row" class="tg-infobox-label">Cartography</th><td class="tg-infobox-data"><a href="../D/Daniel_Reeve.md" title="Daniel Reeve">Daniel Reeve</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../D/Decipher.md" title="Decipher">Decipher</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2002.md" title="2002">2002</a></td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/1582369607" title="Special:BookSources/1582369607">1582369607</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Maps_of_Middle_Earth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a2/Maps_of_Middle_Earth.jpg/320px-Maps_of_Middle_Earth.jpg" decoding="async" loading="lazy" width="320" height="448" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/a/a2/Maps_of_Middle_Earth.jpg 1.5x" data-file-width="339" data-file-height="475"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Maps of Middle-Earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a class="mw-redirect" href="../J/John_Rateliff.md" title="John Rateliff">John Rateliff</a></td></tr><tr><th scope="row" class="tg-infobox-label">Bản đồ học</th><td class="tg-infobox-data"><a href="../D/Daniel_Reeve.md" title="Daniel Reeve">Daniel Reeve</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../D/Decipher.md" title="Decipher">Giải mã</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/2002.md" title="2002">2002</a></td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/1582369607" title="Special:BookSources/1582369607">1582369607</a></td></tr></tbody></table>
 
 <i><b>Bản đồ của Trung Địa</b></i> là phụ kiện dành cho [Decipher](../D/Decipher.md) *[The Lord of the Rings Roleplaying Game](../T/The_Lord_of_the_Rings_Roleplaying_Game.md)*.
 
@@ -38,7 +38,7 @@ Mặc dù hướng dẫn dài 32 trang chủ yếu liên quan đến tài liệu
 ## Từ nhà xuất bản {#From_the_publisher}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Drawn by renowned illustrator <a href="../D/Daniel_Reeve.md" title="Daniel Reeve">Daniel Reeve</a> – the official cartographer for The Lord of the Rings films – the six 17&#34; x 22&#34; archival quality collector&#39;s maps cover <a href="../T/The_Shire.md" title="The Shire">The Shire</a>, West <a href="../G/Gondor.md" title="Gondor">Gondor</a>, East Gondor, <a href="../R/Rohan.md" title="Rohan">Rohan</a>, <a href="../E/Eregion.md" title="Eregion">Eregion</a>, and <a href="Mordor.md" title="Mordor">Mordor</a>. The boxed set includes the six folded maps and a 32-page guide to the lands of <a href="Middle-earth.md" title="Middle-earth">Middle-earth</a>, including keys to each of the maps.
+<p>Được vẽ bởi họa sĩ minh họa nổi tiếng <a href="../D/Daniel_Reeve.md" title="Daniel Reeve">Daniel Reeve</a> – người vẽ bản đồ chính thức cho The Lord of the Rings phim – sáu bản đồ dành cho nhà sưu tập chất lượng lưu trữ 17" x 22" bao gồm <a href="../T/The_Shire.md" title="The Shire">The Shire</a>, Phương Tây <a href="../G/Gondor.md" title="Gondor">Gondor</a>, phương Đông Gondor, <a href="../R/Rohan.md" title="Rohan">Rohan</a>, <a href="../E/Eregion.md" title="Eregion">Eregion</a> và <a href="Mordor.md" title="Mordor">Mordor</a>. Bộ đóng hộp bao gồm sáu bản đồ gấp và một hướng dẫn 32 trang về các vùng đất <a href="Middle-earth.md" title="Middle-earth">Trung Địa</a>, bao gồm cả chìa khóa cho mỗi bản đồ.
 </p>
 </blockquote>
 
@@ -56,7 +56,7 @@ Các vị trí sau xuất hiện trong chỉ mục:<sup id="cite_ref-14" class="
 
 <table class="mw-collapsible mw-collapsed" width="100%">
 <tbody><tr>
-<th align="left">Click to expand/collapse list
+<th align="left">Bấm để mở rộng/thu gọn danh sách
 </th></tr>
 <tr>
 <td align="left" valign="top">
@@ -85,7 +85,7 @@ Các vị trí sau xuất hiện trong chỉ mục:<sup id="cite_ref-14" class="
 <li><a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a></li>
 <li><a class="mw-redirect" href="../B/Barazinbar.md" title="Barazinbar">Baranzinbar</a><sup id="cite_ref-typo_15-0" class="reference"><a href="#cite_note-typo-15">[note 1]</a></sup></li>
 <li><a href="../B/Barrow-downs.md" title="Barrow-downs">Barrow-downs</a>, The</li>
-<li><a href="../B/Bay_of_Belfalas.md" title="Bay of Belfalas">Bay of Belfalas</a></li>
+<li><a href="../B/Bay_of_Belfalas.md" title="Bay of Belfalas">Vịnh Belfalas</a></li>
 <li><a href="../B/Belfalas.md" title="Belfalas">Belfalas</a></li>
 <li><a href="../S/Seregost.md" title="Seregost">Beregost</a><sup id="cite_ref-typo_15-1" class="reference"><a href="#cite_note-typo-15">[note 1]</a></sup></li>
 <li><a class="mw-redirect" href="../B/Bindbale_Wood~18767.md" title="Bindbale Wood">Bindbale Wood</a></li>
@@ -96,7 +96,7 @@ Các vị trí sau xuất hiện trong chỉ mục:<sup id="cite_ref-14" class="
 <li><a href="../B/Bonfire_Glade.md" title="Bonfire Glade">Bonfire Glade</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Bounds&amp;action=edit&amp;redlink=1" title="Bounds (page does not exist)">Bounds</a>, The</li>
 <li><a class="mw-redirect" href="../B/Brandywine.md" title="Brandywine">Brandywine</a></li>
-<li><a href="../B/Brandywine_Bridge.md" title="Brandywine Bridge">Brandywine Bridge</a></li>
+<li><a href="../B/Brandywine_Bridge.md" title="Brandywine Bridge">Cầu Brandywine</a></li>
 <li><a href="../B/Bree.md" title="Bree">Bree</a></li>
 <li><a href="../B/Bree-hill.md" title="Bree-hill">Bree Hill</a></li>
 <li><a class="mw-redirect" href="../B/Bridge_of_Stonebows.md" title="Bridge of Stonebows">Bridge of Stonebows</a></li>
@@ -126,17 +126,17 @@ Các vị trí sau xuất hiện trong chỉ mục:<sup id="cite_ref-14" class="
 <li><a href="../C/Crickhollow.md" title="Crickhollow">Crickhollow</a></li>
 <li><a href="../C/Crossings_of_Erui.md" title="Crossings of Erui">Crossings of Erui</a></li>
 <li><a href="../D/Dagorlad.md" title="Dagorlad">Dagorlad</a></li>
-<li><a href="../D/Dead_Marshes.md" title="Dead Marshes">Dead Marshes</a></li>
+<li><a href="../D/Dead_Marshes.md" title="Dead Marshes">Đầm lầy Chết</a></li>
 <li><a class="mw-redirect" href="../D/Deadmen&#39;s_Dike.md" title="Deadmen&#39;s Dike">Deadmen&#39;s Dike</a></li>
 <li><a href="../D/Deephallow.md" title="Deephallow">Deephallow</a></li>
 <li><a href="../D/Deeping-stream.md" title="Deeping-stream">Deeping Stream</a></li>
 <li><a href="../D/Derndingle.md" title="Derndingle">Derndingle</a></li>
-<li><a href="../D/Dimrill_Dale.md" title="Dimrill Dale">Dimrill Dale</a></li>
+<li><a href="../D/Dimrill_Dale.md" title="Dimrill Dale">Thung lũng Dimrill</a></li>
 <li><a href="../D/Dimrill_Stair.md" title="Dimrill Stair">Dimrill Stair</a></li>
 <li><a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a></li>
 <li><a href="../D/Dol_Baran.md" title="Dol Baran">Dol Baran</a></li>
 <li><a href="../D/Dor-en-Ernil.md" title="Dor-en-Ernil">Dor-en-Ernil</a></li>
-<li><a href="../D/Drúadan_Forest.md" title="Drúadan Forest">Drúadan Forest</a></li>
+<li><a href="../D/Drúadan_Forest.md" title="Drúadan Forest">Rừng Drúadan</a></li>
 <li><a href="../D/Drúwaith_Iaur.md" title="Drúwaith Iaur">Drúwaith Iaur</a></li>
 <li><a href="../D/Dunharrow.md" title="Dunharrow">Dunharrow</a></li>
 <li><a href="../D/Dunland.md" title="Dunland">Dunland</a></li>
@@ -168,8 +168,8 @@ Các vị trí sau xuất hiện trong chỉ mục:<sup id="cite_ref-14" class="
 <li><a href="../E/Ethir_Anduin.md" title="Ethir Anduin">Ethir Anduin</a></li>
 <li><a href="../E/Ethring.md" title="Ethring">Ethring</a></li>
 <li><a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a></li>
-<li><a class="mw-redirect" href="../F/Falls_of_Rauros.md" title="Falls of Rauros">Falls of Rauros</a></li>
-<li><a href="../F/Fangorn_Forest.md" title="Fangorn Forest">Fangorn Forest</a></li>
+<li><a class="mw-redirect" href="../F/Falls_of_Rauros.md" title="Falls of Rauros">thác Rauros</a></li>
+<li><a href="../F/Fangorn_Forest.md" title="Fangorn Forest">Rừng Fangorn</a></li>
 <li><a href="../F/Fanuidhol.md" title="Fanuidhol">Fanuidhol</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Fanuilond&amp;action=edit&amp;redlink=1" title="Fanuilond (page does not exist)">Fanuilond</a></li>
 <li><a href="../F/Far_Downs.md" title="Far Downs">Far Downs</a>, The</li>
@@ -190,8 +190,8 @@ Các vị trí sau xuất hiện trong chỉ mục:<sup id="cite_ref-14" class="
 <li><a href="../G/Gondor.md" title="Gondor">Gondor</a></li>
 <li><a class="mw-redirect" href="../G/Great_Bridge.md" title="Great Bridge">Great Bridge</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Great_Burrow&amp;action=edit&amp;redlink=1" title="Great Burrow (page does not exist)">Great Burrow</a><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[note 2]</a></sup></li>
-<li><a class="mw-redirect" href="../G/Great_East_Road.md" title="Great East Road">Great East Road</a></li>
-<li><a href="../G/Great_Smials.md" title="Great Smials">Great Smials</a></li>
+<li><a class="mw-redirect" href="../G/Great_East_Road.md" title="Great East Road">Đại Lộ phía Đông</a></li>
+<li><a href="../G/Great_Smials.md" title="Great Smials">Đại Smials</a></li>
 <li><a href="../G/Green_Hill_Country.md" title="Green Hill Country">Green Hill Country</a></li>
 <li><a href="../G/Green_Hills.md" title="Green Hills">Green Hills</a></li>
 <li><a href="../G/Greenfields.md" title="Greenfields">Greenfields</a></li>
@@ -204,9 +204,9 @@ Các vị trí sau xuất hiện trong chỉ mục:<sup id="cite_ref-14" class="
 <li><a href="../H/Haysend.md" title="Haysend">Haysend</a></li>
 <li><a href="../H/Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a></li>
 <li><a href="../H/High_Hay.md" title="High Hay">High Hay</a>, The</li>
-<li><a href="../H/High_Pass.md" title="High Pass">High Pass</a></li>
+<li><a href="../H/High_Pass.md" title="High Pass">Đèo Cao</a></li>
 <li><a class="mw-redirect" href="../T/The_Hill.md" title="The Hill">Hill</a>, The</li>
-<li><a href="../H/Hills_of_Evendim.md" title="Hills of Evendim">Hills of Evendim</a></li>
+<li><a href="../H/Hills_of_Evendim.md" title="Hills of Evendim">Đồi Evendim</a></li>
 <li><a href="../H/Hoarwell.md" title="Hoarwell">Hoarwell River</a></li>
 <li><a href="../H/Hobbiton.md" title="Hobbiton">Hobbiton</a></li>
 <li><a class="mw-redirect" href="../H/Hollin.md" title="Hollin">Hollin</a></li>
@@ -224,9 +224,9 @@ Các vị trí sau xuất hiện trong chỉ mục:<sup id="cite_ref-14" class="
 <li><a class="mw-redirect" href="../K/Khazad-dûm.md" title="Khazad-dûm">Khazad-dûm</a></li>
 <li><a class="mw-redirect" href="../K/Kiril.md" title="Kiril">Kiril</a></li>
 <li><a class="mw-redirect" href="../K/Kiril.md" title="Kiril">Kiril River</a></li>
-<li><a href="../L/Lake_Evendim.md" title="Lake Evendim">Lake Evendim</a></li>
+<li><a href="../L/Lake_Evendim.md" title="Lake Evendim">Hồ Evendim</a></li>
 <li><a href="../L/Lamedon.md" title="Lamedon">Lamedon</a></li>
-<li><a href="../L/Last_Bridge.md" title="Last Bridge">Last Bridge</a></li>
+<li><a href="../L/Last_Bridge.md" title="Last Bridge">Cây Cầu Cuối Cùng</a></li>
 <li><a href="../L/Lebennin.md" title="Lebennin">Lebennin</a></li>
 <li><a href="../L/Lefnui.md" title="Lefnui">Lefnui River</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lh%C3%BAchiril&amp;action=edit&amp;redlink=1" title="Lhúchiril (page does not exist)">Lhúchiril</a></li>
@@ -264,9 +264,9 @@ Các vị trí sau xuất hiện trong chỉ mục:<sup id="cite_ref-14" class="
 <li><a href="Moria.md" title="Moria">Moria</a></li>
 <li><a href="Morthond.md" title="Morthond">Morthond River</a></li>
 <li><a class="mw-redirect" href="../C/Cloudyhead.md" title="Cloudyhead">Mount Cloudyhead</a></li>
-<li><a href="Mount_Doom.md" title="Mount Doom">Mount Doom</a></li>
+<li><a href="Mount_Doom.md" title="Mount Doom">Núi Diệt Vong</a></li>
 <li><a class="mw-redirect" href="Mount_Mindolluin.md" title="Mount Mindolluin">Mount Mindolluin</a></li>
-<li><a class="mw-redirect mw-disambig" href="Mountains_of_Shadow.md" title="Mountains of Shadow">Mountains of Shadow</a></li>
+<li><a class="mw-redirect mw-disambig" href="Mountains_of_Shadow.md" title="Mountains of Shadow">Dãy Núi Bóng Tối</a></li>
 <li><a href="Mouths_of_the_Entwash.md" title="Mouths of the Entwash">Mouths of the Entwash</a></li>
 <li><a href="../N/Naith.md" title="Naith">Naith</a>, The</li>
 <li><a href="../N/Nardol.md" title="Nardol">Nardol</a></li>
@@ -281,7 +281,7 @@ Các vị trí sau xuất hiện trong chỉ mục:<sup id="cite_ref-14" class="
 <li><a href="../N/North_Downs.md" title="North Downs">North Downs</a></li>
 <li><a href="../N/Northfarthing.md" title="Northfarthing">Northfarthing</a></li>
 <li><a class="mw-redirect" href="../N/North_Road.md" title="North Road">North Road</a></li>
-<li><a class="mw-redirect" href="../N/North-South_Road.md" title="North-South Road">North-South Road</a></li>
+<li><a class="mw-redirect" href="../N/North-South_Road.md" title="North-South Road">Con đường Bắc-Nam</a></li>
 <li><a href="../N/Nurn.md" title="Nurn">Nurn</a></li>
 <li><a href="../O/Oatbarton.md" title="Oatbarton">Oatbarton</a></li>
 <li><a href="../O/Old_Forest.md" title="Old Forest">Old Forest</a>, The</li>
@@ -294,13 +294,13 @@ Các vị trí sau xuất hiện trong chỉ mục:<sup id="cite_ref-14" class="
 <li><a href="../O/Ost-in-Edhil.md" title="Ost-in-Edhil">Ost-in-edhil</a><sup id="cite_ref-typo_15-13" class="reference"><a href="#cite_note-typo-15">[note 1]</a></sup></li>
 <li><a href="../O/Overbourn_Marshes.md" title="Overbourn Marshes">Overbourn Marshes</a></li>
 <li><a href="../O/Overhill.md" title="Overhill">Overhill</a></li>
-<li><a href="../P/Paths_of_the_Dead.md" title="Paths of the Dead">Paths of the Dead</a></li>
+<li><a href="../P/Paths_of_the_Dead.md" title="Paths of the Dead">Những Con đường Tử Thần</a></li>
 <li><a href="../P/Pelargir.md" title="Pelargir">Pelargir</a></li>
-<li><a href="../P/Pelennor_Fields.md" title="Pelennor Fields">Pelennor Fields</a></li>
+<li><a href="../P/Pelennor_Fields.md" title="Pelennor Fields">cánh đồng Pelennor</a></li>
 <li><a href="../P/Pincup.md" title="Pincup">Pincup</a></li>
 <li><a href="../P/Pinnath_Gelin.md" title="Pinnath Gelin">Pinnath Gelin</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pinnornost&amp;action=edit&amp;redlink=1" title="Pinnornost (page does not exist)">Pinnornost</a></li>
-<li><a href="../P/Plateau_of_Gorgoroth.md" title="Plateau of Gorgoroth">Plateau of Gorgoroth</a></li>
+<li><a href="../P/Plateau_of_Gorgoroth.md" title="Plateau of Gorgoroth">Cao nguyên Gorgoroth</a></li>
 <li><a href="../P/Poros.md" title="Poros">Poros River</a></li>
 <li><a class="mw-redirect" href="../P/Prancing_Pony_Inn.md" title="Prancing Pony Inn">Prancing Pony Inn</a></li>
 <li><a href="../Q/Quarry.md" title="Quarry">Quarry</a></li>
@@ -308,7 +308,7 @@ Các vị trí sau xuất hiện trong chỉ mục:<sup id="cite_ref-14" class="
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Rast_Rhaen&amp;action=edit&amp;redlink=1" title="Rast Rhaen (page does not exist)">Rast Rhaen</a></li>
 <li><a class="mw-redirect" href="../R/Redhorn.md" title="Redhorn">Redhorn</a></li>
 <li><a href="../R/Redhorn_Gate.md" title="Redhorn Gate">Redhorn Gate</a></li>
-<li><a class="mw-redirect" href="../R/Redhorn_Pass.md" title="Redhorn Pass">Redhorn Pass</a></li>
+<li><a class="mw-redirect" href="../R/Redhorn_Pass.md" title="Redhorn Pass">Đèo Redhorn</a></li>
 <li><a href="../R/Rhimdath.md" title="Rhimdath">Rhimdath</a></li>
 <li><a href="../R/Rhosgobel.md" title="Rhosgobel">Rhosgobel</a></li>
 <li><a href="../R/Rhovanion.md" title="Rhovanion">Rhovanion</a></li>
@@ -320,7 +320,7 @@ Các vị trí sau xuất hiện trong chỉ mục:<sup id="cite_ref-14" class="
 <li><a href="../S/Starkhorn.md" title="Starkhorn">Starkhorn</a></li>
 <li><a href="../S/Stock.md" title="Stock">Stock</a></li>
 <li><a class="mw-redirect" href="../S/Stockbrook.md" title="Stockbrook">Stockbrook</a></li>
-<li><a href="../S/Stonewain_Valley.md" title="Stonewain Valley">Stonewain Valley</a></li>
+<li><a href="../S/Stonewain_Valley.md" title="Stonewain Valley">Thung lũng Stonewain</a></li>
 <li><a href="../S/Swanfleet.md" title="Swanfleet">Swanfleet</a></li>
 <li><a href="../T/Tarlang&#39;s_Neck.md" title="Tarlang&#39;s Neck">Tarlang&#39;s Neck</a></li>
 <li><a href="../T/Tarnost.md" title="Tarnost">Tarnost</a></li>
@@ -349,7 +349,7 @@ Các vị trí sau xuất hiện trong chỉ mục:<sup id="cite_ref-14" class="
 <li><a href="../W/Westfold.md" title="Westfold">Westfold</a></li>
 <li><a href="../W/Westmarch.md" title="Westmarch">Westmarch</a></li>
 <li><a href="../W/White_Downs.md" title="White Downs">White Downs</a>, The</li>
-<li><a href="../W/White_Mountains.md" title="White Mountains">White Mountains</a></li>
+<li><a href="../W/White_Mountains.md" title="White Mountains">Dãy Núi Trắng</a></li>
 <li><a href="../W/White_Towers.md" title="White Towers">White Towers</a></li>
 <li><a href="../W/Whitwell.md" title="Whitwell">Whitwell</a></li>
 <li><a class="mw-redirect" href="../W/Wilderland.md" title="Wilderland">Wilderland</a></li>

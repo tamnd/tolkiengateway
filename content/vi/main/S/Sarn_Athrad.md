@@ -30,7 +30,7 @@ images:
   - "Alan_Lee_-_Sarn_Athrad.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>a ford in <a href="../B/Beleriand.md" title="Beleriand">Beleriand</a></b>. For the ford near <a href="../T/The_Shire.md" title="The Shire">the Shire</a>, see <b><a href="Sarn_Ford.md" title="Sarn Ford">Sarn Ford</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>một chiếc ford ở <a href="../B/Beleriand.md" title="Beleriand">Beleriand</a></b>. Đối với ford gần <a href="../T/The_Shire.md" title="The Shire">the Shire</a>, xem <b><a href="Sarn_Ford.md" title="Sarn Ford">Sarn Ford</a></b>.</div></div>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_Sarn_Athrad.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5a/Alan_Lee_-_Sarn_Athrad.jpg/300px-Alan_Lee_-_Sarn_Athrad.jpg" decoding="async" loading="lazy" width="300" height="184" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5a/Alan_Lee_-_Sarn_Athrad.jpg/450px-Alan_Lee_-_Sarn_Athrad.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5a/Alan_Lee_-_Sarn_Athrad.jpg/600px-Alan_Lee_-_Sarn_Athrad.jpg 2x" data-file-width="896" data-file-height="549"/></a><figcaption>Sarn Athrad by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
 
@@ -56,7 +56,7 @@ Trong một văn bản cuối năm 1971, Tolkien đã viết rằng tên *Sarn A
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Sarn Athrad (S. &#34;Stony Ford&#34;) is an abandoned ford on what remains of the Gelion in Forlindon. It was replaced by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Little_Ford&amp;action=edit&amp;redlink=1" title="Little Ford (page does not exist)">Edenathrad</a> (S. &#34;New ford&#34;) a little north, and a small village has been constructed nearby.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></dd></dl>
+<dl><dd>Sarn Athrad (S. "Stony Ford") là một pháo đài bị bỏ hoang trên phần còn lại của Gelion ở Forlindon. Nó được thay thế bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Little_Ford&amp;action=edit&amp;redlink=1" title="Little Ford (page does not exist)">Edenathrad</a> (S. "New ford") ở phía bắc một chút và một ngôi làng nhỏ đã được xây dựng gần đó.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></dd></dl>
 
 <span></span>
 

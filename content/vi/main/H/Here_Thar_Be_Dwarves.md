@@ -34,8 +34,8 @@ Tập phim kết thúc bằng một đoạn quảng cáo mô phỏng cho "Mushoo
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Actor</th>
-<th>Role
+<th>Diễn viên</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td><a href="../G/Grey_DeLisle.md" title="Grey DeLisle">Grey DeLisle</a></td>

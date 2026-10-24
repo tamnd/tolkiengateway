@@ -17,25 +17,25 @@ sort_keys:
 
 <table align="right" cellpadding="6" cellspacing="0" style="margin-left:15px; border:var(--tg-border-base); background-color:var(--tg-color-surface-2); font-size:normalborder-radius:var(--tg-border-radius-large);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px"><a href="../Q/Quenya_numbers.md" title="Quenya numbers">Quenya numbers</a>
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px"><a href="../Q/Quenya_numbers.md" title="Quenya numbers">Các số trong tiếng Quenya</a>
 </th></tr>
 <tr>
 <td>
 <p><small>
 </small></p><small>
-<ul><li><i><b><a href="../M/Minë.md" title="Minë">minë</a></b></i> = one</li>
-<li><i><b><a href="../A/Atta.md" title="Atta">atta</a></b></i> = two</li>
-<li><i><b><a href="Neldë.md" title="Neldë">neldë</a></b></i> = three</li>
-<li><i><b><a href="../C/Canta.md" title="Canta">canta</a></b></i> = four</li>
-<li><i><b><a href="../L/Lempë.md" title="Lempë">lempë</a></b></i> = five</li>
-<li><i><b><a href="../E/Enquë.md" title="Enquë">enquë</a></b></i> = six</li>
-<li><i><b><a href="../O/Otso.md" title="Otso">otso</a></b></i> = seven</li>
-<li><i><b><a href="../T/Tolto.md" title="Tolto">tolto</a></b></i> = eight</li>
-<li><i><b><a class="mw-selflink selflink">nertë</a></b></i> = nine</li>
-<li><i><b><a href="../C/Cainen.md" title="Cainen">cainen</a></b></i> = ten</li>
-<li><i><b><a href="../M/Minquë.md" title="Minquë">minquë</a></b></i> = eleven</li>
-<li><i><b><a href="../Y/Yunquë.md" title="Yunquë">yunquë</a></b></i> = twelve</li>
-<li><i><b><a href="../H/Haran.md" title="Haran">haran</a></b></i> = one hundred</li></ul>
+<ul><li><i><b><a href="../M/Minë.md" title="Minë">minë</a></b></i> = một</li>
+<li><i><b><a href="../A/Atta.md" title="Atta">atta</a></b></i> = hai</li>
+<li><i><b><a href="Neldë.md" title="Neldë">neldë</a></b></i> = ba</li>
+<li><i><b><a href="../C/Canta.md" title="Canta">canta</a></b></i> = bốn</li>
+<li><i><b><a href="../L/Lempë.md" title="Lempë">lempë</a></b></i> = năm</li>
+<li><i><b><a href="../E/Enquë.md" title="Enquë">enquë</a></b></i> = sáu</li>
+<li><i><b><a href="../O/Otso.md" title="Otso">otso</a></b></i> = bảy</li>
+<li><i><b><a href="../T/Tolto.md" title="Tolto">tolto</a></b></i> = tám</li>
+<li><i><b><a class="mw-selflink selflink">nertë</a></b></i> = chín</li>
+<li><i><b><a href="../C/Cainen.md" title="Cainen">cainen</a></b></i> = mười</li>
+<li><i><b><a href="../M/Minquë.md" title="Minquë">minquë</a></b></i> = mười một</li>
+<li><i><b><a href="../Y/Yunquë.md" title="Yunquë">yunquë</a></b></i> = mười hai</li>
+<li><i><b><a href="../H/Haran.md" title="Haran">haran</a></b></i> = một trăm</li></ul>
 </small><p><small></small>
 </p>
 </td></tr></tbody></table>

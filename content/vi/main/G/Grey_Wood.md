@@ -38,7 +38,7 @@ Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Drúedain đã chia sẻ
 
 <b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Grey Wood is named so for the color of tree trunks: the forest is completely dead in this place, and the Drúedain no longer go there.</dd></dl>
+<dl><dd>Rừng Xám được đặt tên như vậy vì màu sắc của thân cây: khu rừng ở nơi này đã chết hoàn toàn và Drúedain không còn ở đó nữa.</dd></dl>
 
 <span></span>
 

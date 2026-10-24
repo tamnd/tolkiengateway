@@ -41,10 +41,10 @@ Warner Brothers đã mua bản quyền quay phim cho *The Chronicles of the Imag
 <blockquote class="tg-quote noexcerpt">
 <p><i>The Imaginarium Geographica. . .</i><br/>
 <i>&#34;What is it?&#34; John asked.<br/></i>
-<i>The little man blinked and arched an eyebrow. &#34;It is the world, my boy,&#34; he said. &#34;All the World, in ink and blood, vellum and parchment, leather and hide. It is the World, and it is yours to save or lose.&#34;<br/></i>
+<i>Người đàn ông nhỏ bé chớp mắt và nhướng mày. “Đó là thế giới, con trai ạ,” ông nói. "Toàn bộ Thế giới, bằng mực và máu, da và giấy da, da và da. Đó là Thế giới, và việc cứu hay đánh mất là của bạn."<br/></i>
 </p><p>
-An unusual murder brings together three strangers, John, Jack, and Charles, on a rainy night in London during the First World War. An eccentric little man called Bert tells them that they are now the caretakers of &#34;The Imaginarium Geographica&#34;, an atlas of all the lands that have ever existed in myth and legend, fable and fairy tale. These lands, Bert claims, can be traveled to in his ship The Indigo Dragon, one of only seven vessels that is able to cross the Frontier between worlds into the Archipelago of Dreams.</p><p>
-Pursued by strange and terrifying creatures, the companions flee London aboard the Dragonship. Traveling to the very realm of the imagination itself, they must learn to overcome their fears and trust in one another if they are to defeat the dark forces that threaten the destiny of two worlds. And in the process, they will share a great adventure filled with clues that lead readers to the surprise revelation of the legendary storytellers these men will one day become.
+Một vụ giết người bất thường quy tụ ba người lạ, John, Jack và Charles, vào một đêm mưa ở London trong Thế chiến thứ nhất. Một người đàn ông nhỏ bé lập dị tên là Bert nói với họ rằng họ hiện là người trông coi "The Imaginarium Geographica", một tập bản đồ về tất cả các vùng đất từng tồn tại trong thần thoại và truyền thuyết, truyện ngụ ngôn và cổ tích. Bert tuyên bố, những vùng đất này có thể được du hành đến bằng con tàu The Indigo Rồng của ông, một trong bảy con tàu duy nhất có thể vượt qua Biên giới giữa các thế giới để vào Quần đảo của những giấc mơ.</p><p>
+Bị truy đuổi bởi những sinh vật kỳ lạ và đáng sợ, những người bạn đồng hành chạy trốn khỏi London trên con tàu Dragonship. Du hành đến chính cõi tưởng tượng, họ phải học cách vượt qua nỗi sợ hãi và tin tưởng lẫn nhau nếu muốn đánh bại thế lực đen tối đang đe dọa vận mệnh của hai thế giới. Và trong quá trình đó, họ sẽ chia sẻ một cuộc phiêu lưu tuyệt vời chứa đầy những manh mối dẫn người đọc đến sự tiết lộ bất ngờ về những người kể chuyện huyền thoại mà một ngày nào đó những người đàn ông này sẽ trở thành.
 </p></blockquote>
 
 ## Xem thêm {#See_also}
@@ -67,7 +67,7 @@ Pursued by strange and terrifying creatures, the companions flee London aboard t
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b><a href="../../category/F/Fiction_books.md" title="Category:Fiction books">Published fiction books</a> relating to <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> and <a href="../A/Arda.md" title="Arda">Arda</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b><a href="../../category/F/Fiction_books.md" title="Category:Fiction books">Sách viễn tưởng đã xuất bản</a> liên quan đến <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> và <a href="../A/Arda.md" title="Arda">Arda</a></b>
 </td></tr>
 <tr>
 <th style="background: var(--tg-color-surface-3);" align="center"> <i><a class="mw-selflink selflink">The Chronicles of the Imaginarium Geographica</a>:</i>
@@ -82,7 +82,7 @@ Pursued by strange and terrifying creatures, the companions flee London aboard t
 <td style="font-size: 90%;" align="center"> <i><a class="mw-redirect" href="../E/Elven_Blade.md" title="Elven Blade">Elven Blade</a></i> | <i><a class="mw-redirect" href="../B/Black_Lance.md" title="Black Lance">Black Lance</a></i> | <i><a class="mw-redirect" href="The_Adamant_of_Henna.md" title="The Adamant of Henna">The Adamant of Henna</a></i>
 </td></tr>
 <tr>
-<th style="background: var(--tg-color-surface-3);" align="center">Stand-alone works:
+<th style="background: var(--tg-color-surface-3);" align="center">Tác phẩm độc lập:
 </th></tr>
 <tr>
 <td style="font-size: 90%;" align="center"> <i><a href="../H/Heaven&#39;s_War.md" title="Heaven&#39;s War">Heaven&#39;s War</a> </i> | <i><a href="../L/Looking_for_the_King.md" title="Looking for the King">Looking for the King</a></i> | <i><a href="../M/Mirkwood%253A_A_Novel_About_JRR_Tolkien.md" title="Mirkwood: A Novel About JRR Tolkien">Mirkwood: A Novel About JRR Tolkien</a></i>

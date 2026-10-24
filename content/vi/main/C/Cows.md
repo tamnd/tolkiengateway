@@ -15,12 +15,12 @@ images:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Back to pasture, back to mead,<br/>Where the kine and oxen feed!
+<p>Về đồng cỏ, về đồng cỏ,<br/>Nơi bò và bò kiếm ăn!
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, <a href="../B/Barrels_Out_of_Bond.md" title="Barrels Out of Bond">Barrels Out of Bond</a><sup id="cite_ref-BooB_1-0" class="reference"><a href="#cite_note-BooB-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Simple_Living.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/42/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Simple_Living.jpg/250px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Simple_Living.jpg" decoding="async" loading="lazy" width="250" height="183" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/42/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Simple_Living.jpg/375px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Simple_Living.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/42/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Simple_Living.jpg/500px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Simple_Living.jpg 2x" data-file-width="532" data-file-height="389"/></a><figcaption>Cow being milked by a <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> - <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Simple_Living.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/42/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Simple_Living.jpg/250px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Simple_Living.jpg" decoding="async" loading="lazy" width="250" height="183" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/42/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Simple_Living.jpg/375px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Simple_Living.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/42/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Simple_Living.jpg/500px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Simple_Living.jpg 2x" data-file-width="532" data-file-height="389"/></a><figcaption>Bò đang được <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> vắt sữa - <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i></figcaption></figure>
 
 **Bò**, còn được gọi bằng số nhiều cổ xưa **Kine** và đôi khi là **Oxen**, là động vật chăn thả ở [Trung Địa](../M/Middle-earth.md).
 
@@ -48,11 +48,11 @@ Trong ngôn ngữ dành cho trẻ vị thành niên của Tolkien [Nevbosh](../N
 
 <b><a href="../_/2001.md" title="2001">2001</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>A cow can be seen being milked by a Hobbit. Another Hobbit is also seen ploughing a field with a plough pulled by two oxen.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></dd></dl>
+<dl><dd>Có thể thấy một con bò đang được Hobbit vắt sữa. Một Hobbit khác cũng được nhìn thấy đang cày ruộng bằng chiếc cày được kéo bởi hai con bò.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></dd></dl>
 
 <b><a href="../_/2012.md" title="2012">2012</a>: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 
-<dl><dd><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a> passes by a cow while he jumps over a fence, during his hurried running from Bag End through Hobbiton, to catch up with <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> and the dwarves of Thorin&#39;s company.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></dd></dl>
+<dl><dd><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a> đi ngang qua một con bò trong khi ông nhảy qua hàng rào, trong lúc vội vã chạy từ Bag End đến Hobbiton để đuổi kịp <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> và những người lùn của đoàn tùy tùng của Thorin.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></dd></dl>
 
 ## Xem thêm {#See_also}
 

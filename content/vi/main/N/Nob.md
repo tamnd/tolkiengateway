@@ -42,10 +42,10 @@ infobox:
     value: "Images of Nob"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Francesco_Amadio_-_Nob.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/96/Francesco_Amadio_-_Nob.jpg/320px-Francesco_Amadio_-_Nob.jpg" decoding="async" loading="lazy" width="320" height="456" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/96/Francesco_Amadio_-_Nob.jpg/480px-Francesco_Amadio_-_Nob.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/96/Francesco_Amadio_-_Nob.jpg/640px-Francesco_Amadio_-_Nob.jpg 2x" data-file-width="800" data-file-height="1140"/></a><figcaption>&#34;Nob&#34; by <a href="../../category/I/Images_by_Francesco_Amadio.md" title="Category:Images by Francesco Amadio">Francesco Amadio</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Nob</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Bree.md" title="Bree">Bree</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">Late <a href="../T/Third_Age.md" title="Third Age">Third Age</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data">Early <a href="../F/Fourth_Age.md" title="Fourth Age">Fourth Age</a><br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Nob.md" title="Category:Images of Nob">Images of Nob</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Francesco_Amadio_-_Nob.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/96/Francesco_Amadio_-_Nob.jpg/320px-Francesco_Amadio_-_Nob.jpg" decoding="async" loading="lazy" width="320" height="456" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/96/Francesco_Amadio_-_Nob.jpg/480px-Francesco_Amadio_-_Nob.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/96/Francesco_Amadio_-_Nob.jpg/640px-Francesco_Amadio_-_Nob.jpg 2x" data-file-width="800" data-file-height="1140"/></a><figcaption>&#34;Nob&#34; by <a href="../../category/I/Images_by_Francesco_Amadio.md" title="Category:Images by Francesco Amadio">Francesco Amadio</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Nob</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../B/Bree.md" title="Bree">Bree</a></td></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data">Late <a href="../T/Third_Age.md" title="Third Age">Third Age</a></td></tr><tr><th scope="row" class="tg-infobox-label">Mất</th><td class="tg-infobox-data">Early <a href="../F/Fourth_Age.md" title="Fourth Age">Fourth Age</a><br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Giới tính</th><td class="tg-infobox-data">Nam</td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Nob.md" title="Category:Images of Nob">Images of Nob</a></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Hi! Nob! ... Where are you, you wolly-footed slow-coach?
+<p>CHÀO! Nob! ... Bạn đang ở đâu, bạn là huấn luyện viên chậm chân?
 </p>
 <p class="tg-quote-footer"><cite><a href="../B/Barliman_Butterbur.md" title="Barliman Butterbur">Barliman Butterbur</a><sup id="cite_ref-Sign_1-0" class="reference"><a href="#cite_note-Sign-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -74,7 +74,7 @@ Trong tiếng Anh lịch sử *nob* là tiếng lóng biểu thị sự thiếu 
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_(video_game)_-_Nob.JPG.md" title="Nob in The Fellowship of the Ring video game"><img alt="Nob in The Fellowship of the Ring video game" src="https://tolkiengateway.net/w/images/thumb/5/55/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Nob.JPG/161px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Nob.JPG" decoding="async" loading="lazy" width="161" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/55/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Nob.JPG/241px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Nob.JPG 1.5x, https://tolkiengateway.net/w/images/5/55/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Nob.JPG 2x" data-file-width="311" data-file-height="290"/></a></span></div>
 			<div class="gallerytext">
-<p>Nob in <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Fellowship of the Ring</i> video game</a>
+<p>Nob trong <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Fellowship of the Ring</i> trò chơi điện tử</a>
 </p>
 			</div>
 		</li>
@@ -89,15 +89,15 @@ Trong tiếng Anh lịch sử *nob* là tiếng lóng biểu thị sự thiếu 
 
 <b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
-<dl><dd><a href="../H/Haydn_Wood.md" title="Haydn Wood">Haydn Wood</a> provided the voice for Nob.</dd></dl>
+<dl><dd><a href="../H/Haydn_Wood.md" title="Haydn Wood">Haydn Wood</a> lồng tiếng cho Nob.</dd></dl>
 
 <b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
 
-<dl><dd>No voice actor is specified for this small part. His role in searching for Merry was taken over by <a href="../A/Aragorn.md" title="Aragorn">Strider</a>.</dd></dl>
+<dl><dd>Không có diễn viên lồng tiếng nào được chỉ định cho phần nhỏ này. Vai trò tìm kiếm Merry của anh đã được <a href="../A/Aragorn.md" title="Aragorn">Strider</a> đảm nhận.</dd></dl>
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Nob is running errands outside the <a class="mw-redirect" href="../P/Prancing_Pony.md" title="Prancing Pony">Prancing Pony</a> but plays no role in the storyline.</dd></dl>
+<dl><dd>Nob đang chạy việc vặt bên ngoài <a class="mw-redirect" href="../P/Prancing_Pony.md" title="Prancing Pony">Prancing Pony</a> nhưng không đóng vai trò gì trong cốt truyện.</dd></dl>
 
 <span></span>
 

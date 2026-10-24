@@ -15,7 +15,7 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Spirit</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Spirit_(disambiguation).md" title="Spirit (disambiguation)">Spirit (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Cái tên <b>Spirit</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Spirit_(disambiguation).md" title="Spirit (disambiguation)">Tinh thần (định hướng)</a></b>.</div></div>
 
 **Tinh thần** là những sinh vật thiết yếu thường cư trú trong [Vô hình](../U/Unseen.md) và bản chất của chúng thường không bao gồm một cơ thể hữu hình.
 
@@ -74,7 +74,7 @@ Trong bản thảo của *[In the House of Tom Bombadil](../I/In_the_House_of_To
 <tr>
 <td align="right" style="background: var(--tg-color-surface-4); width: 110px; padding-right: 4px;" rowspan="2"><b><a href="../V/Valar.md" title="Valar">Valar</a></b>
 </td>
-<td align="right" style="background: var(--tg-color-surface-3); width: 60px; font-size: 95%; padding-right: 4px;"><b><a class="mw-redirect" href="../L/Lords_of_the_Valar.md" title="Lords of the Valar">Lords</a></b>
+<td align="right" style="background: var(--tg-color-surface-3); width: 60px; font-size: 95%; padding-right: 4px;"><b><a class="mw-redirect" href="../L/Lords_of_the_Valar.md" title="Lords of the Valar">Các chúa tể</a></b>
 </td>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="../M/Manwë.md" title="Manwë">Manwë</a></i> · <i><a href="../U/Ulmo.md" title="Ulmo">Ulmo</a></i> · <i><a href="../A/Aulë.md" title="Aulë">Aulë</a></i> · <i><a href="../O/Oromë.md" title="Oromë">Oromë</a></i> · <i><a href="../M/Mandos.md" title="Mandos">Mandos</a></i> · <a href="../I/Irmo.md" title="Irmo">Irmo</a> · <a href="../T/Tulkas.md" title="Tulkas">Tulkas</a> · <s><i><a href="../M/Morgoth.md" title="Morgoth">Melkor</a></i></s>
 </td></tr>
@@ -94,9 +94,9 @@ Trong bản thảo của *[In the House of Tom Bombadil](../I/In_the_House_of_To
 <td style="font-size: 90%; padding-left: 4px;"><a href="Sauron.md" title="Sauron">Sauron</a> · <a href="../B/Balrogs.md" title="Balrogs">Balrogs</a> (<a href="../G/Gothmog_(balrog).md" title="Gothmog (balrog)">Gothmog</a> · <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a>) · <a href="../B/Boldog.md" title="Boldog">Boldogs</a> · <a href="../T/Thuringwethil.md" title="Thuringwethil">Thuringwethil</a> · <a href="../G/Gothrog.md" title="Gothrog">Gothrog</a>
 </td></tr>
 <tr>
-<td align="right" style="background: var(--tg-color-surface-4); width: 110px; padding-right: 4px;" rowspan="2"><b>Concepts and locations</b>
+<td align="right" style="background: var(--tg-color-surface-4); width: 110px; padding-right: 4px;" rowspan="2"><b>Khái niệm và địa điểm</b>
 </td>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Almaren.md" title="Almaren">Almaren</a> · <a href="../A/Aratar.md" title="Aratar">Aratar</a> (indicated in <i>italics</i>) · <a href="../C/Creation_of_the_Ainur.md" title="Creation of the Ainur">Creation of the Ainur</a> · <a href="../F/Fana.md" title="Fana">Fana</a> · <a href="../M/Máhanaxar.md" title="Máhanaxar">Máhanaxar</a> · <a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Ainulindalë</a> · <a class="mw-redirect" href="../O/Order_of_Wizards.md" title="Order of Wizards">Order of Wizards</a> (indicated in <b>bold</b>) · <a href="Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Second Music of the Ainur</a> · <a href="../T/Timeless_Halls.md" title="Timeless Halls">Timeless Halls</a> · <a href="../V/Valarin.md" title="Valarin">Valarin</a> · <a href="../V/Valinor.md" title="Valinor">Valinor</a> · <a href="../V/Valimar.md" title="Valimar">Valimar</a>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Almaren.md" title="Almaren">Almaren</a> · <a href="../A/Aratar.md" title="Aratar">Aratar</a> (được chỉ định trong <i>italics</i>) · <a href="../C/Creation_of_the_Ainur.md" title="Creation of the Ainur">Sự tạo ra Ainur</a> · <a href="../F/Fana.md" title="Fana">Fana</a> · <a href="../M/Máhanaxar.md" title="Máhanaxar">Máhanaxar</a> · <a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Ainulindalë</a> · <a class="mw-redirect" href="../O/Order_of_Wizards.md" title="Order of Wizards">Thứ tự của Pháp sư</a> (được chỉ định trong <b>bold</b>) · <a href="Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Kỷ Đệ Nhị Âm nhạc của các Ainur</a> · <a href="../T/Timeless_Halls.md" title="Timeless Halls">Hội trường vượt thời gian</a> · <a href="../V/Valarin.md" title="Valarin">Valarin</a> · <a href="../V/Valinor.md" title="Valinor">Valinor</a> · <a href="../V/Valimar.md" title="Valimar">Valimar</a>
 </td></tr></tbody></table>
 
 <span></span>

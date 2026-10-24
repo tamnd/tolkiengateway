@@ -24,7 +24,7 @@ Nó được bắt nguồn từ từ [Quenya](../Q/Quenya.md) *teluma* với ả
 ## Ví dụ {#Examples}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Andúnë pella, Vardo tellumar (&#39;beyond the West, beneath the blue vaults of Varda&#39;)
+<p>Andúnë pella, Vardo Tellumar ('ngoài Phương Tây, bên dưới mái vòm xanh của Varda')
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../N/Namárië.md" title="Namárië">Namárië</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

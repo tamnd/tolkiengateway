@@ -16,7 +16,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 **Hội trường của Nienna** nằm ở biên giới cực tây của thế giới và người ta nói rằng các cửa sổ của ngôi nhà của cô nhìn "từ [các bức tường của thế giới](../W/Walls_of_the_World.md) ra ngoài".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> tuy nhiên, nó được cho là cũng gần [các hội trường của Mandos](Halls_of_Mandos.md), hướng về phía tây của [Valinor](../V/Valinor.md). [Valie](../V/Valar.md) [Nienna](../N/Nienna.md) chủ yếu sống trong hành lang của bà và không thường xuyên ghé thăm [Valimar](../V/Valimar.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
@@ -26,7 +26,7 @@ images:
 Như được mô tả trong phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md), Fui Nienna đã chọn cho mình một căn phòng rộng và tối trong [các tòa án của Mandos](Halls_of_Mandos.md) (trong phiên bản này là chồng cô). Hội trường này cô đặt tên là **Fui**, và ở đó:
 
 <blockquote class="tg-quote noexcerpt">
-<p>before her black chair burnt a brazier with a single flickering coal, and the roof was of <a href="../B/Bats.md" title="Bats">bats</a>&#39; wings, and the pillars that upheld it and the walls about were made of basalt.
+<p>trước khi chiếc ghế đen của cô đốt một lò than với một ngọn than bập bùng, mái nhà làm bằng <a href="../B/Bats.md" title="Bats">cánh dơi</a>, những cây cột đỡ nó và những bức tường xung quanh được làm bằng đá bazan.
 </p>
 </blockquote>
 

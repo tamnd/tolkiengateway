@@ -32,7 +32,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> in <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../Q/Queer_Lodgings.md" title="Queer Lodgings">Queer Lodgings</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Andrea_Piparo_-_Ordinary_Bear.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f5/Andrea_Piparo_-_Ordinary_Bear.jpg/320px-Andrea_Piparo_-_Ordinary_Bear.jpg" decoding="async" loading="lazy" width="320" height="235" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f5/Andrea_Piparo_-_Ordinary_Bear.jpg/480px-Andrea_Piparo_-_Ordinary_Bear.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f5/Andrea_Piparo_-_Ordinary_Bear.jpg/640px-Andrea_Piparo_-_Ordinary_Bear.jpg 2x" data-file-width="2048" data-file-height="1504"/></a><figcaption>&#34;Ordinary Bear&#34; by <a href="../A/Andrea_Piparo.md" title="Andrea Piparo">Andrea Piparo</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">People</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Bears</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_bears.md" title="Category:Images of bears">Images of bears</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Andrea_Piparo_-_Ordinary_Bear.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f5/Andrea_Piparo_-_Ordinary_Bear.jpg/320px-Andrea_Piparo_-_Ordinary_Bear.jpg" decoding="async" loading="lazy" width="320" height="235" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f5/Andrea_Piparo_-_Ordinary_Bear.jpg/480px-Andrea_Piparo_-_Ordinary_Bear.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f5/Andrea_Piparo_-_Ordinary_Bear.jpg/640px-Andrea_Piparo_-_Ordinary_Bear.jpg 2x" data-file-width="2048" data-file-height="1504"/></a><figcaption>&#34;Ordinary Bear&#34; by <a href="../A/Andrea_Piparo.md" title="Andrea Piparo">Andrea Piparo</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Nhân vật</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Bears</span></th></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_bears.md" title="Category:Images of bears">Hình ảnh những chú gấu</a></td></tr></tbody></table>
 
 **Gấu** là những loài động vật to lớn và hung dữ, nổi tiếng vì rất thích mật ong.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -68,19 +68,19 @@ Những con gấu trong [Letters from Father Christmas](../L/Letters_from_Father
 
 <b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i></a> (trò chơi điện tử năm 2003):</b>
 
-<dl><dd><a href="Beorn.md" title="Beorn">Beorn</a> appears only in the shape of a black bear.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></dd></dl>
+<dl><dd><a href="Beorn.md" title="Beorn">Beorn</a> chỉ xuất hiện dưới hình dạng một con gấu đen.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></dd></dl>
 
 <b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
 
-<dl><dd>Bears appear as wildlife on the &#34;Mirkwood&#34; map.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></dd></dl>
+<dl><dd>Gấu xuất hiện dưới dạng động vật hoang dã trên bản đồ "Mirkwood".<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></dd></dl>
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Bears are found within many places of Middle-earth and range in size between that of a large dog to a small elephant. They are typically not aggressive, but will fight if a player threatens them. Players that are lore-masters are able to use a bear as a combat pet.</dd></dl>
+<dl><dd>Gấu được tìm thấy ở nhiều nơi trong Trung Địa và có kích thước từ chó lớn đến voi nhỏ. Chúng thường không hung dữ nhưng sẽ đánh nhau nếu người chơi đe dọa chúng. Người chơi là bậc thầy về truyền thuyết có thể sử dụng gấu làm thú cưng chiến đấu.</dd></dl>
 
 <b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a>:</b>
 
-<dl><dd>Beorn appears in the form of a brown bear within both the <a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">second</a> and the <a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">third</a> films.</dd></dl>
+<dl><dd>Beorn xuất hiện dưới hình dạng một con gấu nâu trong cả phim <a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">thứ hai</a> và <a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">thứ ba</a>.</dd></dl>
 
 <span></span>
 

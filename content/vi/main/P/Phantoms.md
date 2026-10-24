@@ -45,11 +45,11 @@ Trong một "bản thảo được viết vội vàng trên những tờ giấy 
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>A phantom is rumoured to haunt a wood in Rhudaur.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[16]</a></sup></dd></dl>
+<dl><dd>Người ta đồn rằng một bóng ma ám ảnh một khu rừng ở Rhudaur.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[16]</a></sup></dd></dl>
 
 <b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a></i>:</b>
 
-<dl><dd>Phantoms, one of the three type of ghosts, are those that seek revenge in their after-life. The phantoms &#34;<i>often resemble their mortal form as it appeared in death</i>&#34; (e.g., the phantoms of the <a href="../D/Dead_Marshes.md" title="Dead Marshes">Mere of Dead Faces</a>), although some are also invisible.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[17]</a></sup></dd></dl>
+<dl><dd>Phantoms, một trong ba loại ma, là những kẻ tìm cách trả thù ở kiếp sau. Những bóng ma "<i>thường giống với hình dạng phàm trần của chúng khi nó xuất hiện khi chết</i>" (ví dụ: những bóng ma của <a href="../D/Dead_Marshes.md" title="Dead Marshes">Chỉ là những khuôn mặt chết</a>), mặc dù một số cũng vô hình.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[17]</a></sup></dd></dl>
 
 ## Xem thêm {#See_also}
 

@@ -17,16 +17,16 @@ images:
   - "Material_icon_-_Construction.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
-<p>We have a long way to go, and there is time ahead for thought.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Chưa hoàn chỉnh</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này đang trong giai đoạn xây dựng ban đầu và không được coi là hoàn chỉnh hoặc thậm chí sắp hoàn thành.<blockquote class="tg-quote noexcerpt">
+<p>Chúng ta còn một chặng đường dài phía trước và vẫn còn thời gian để suy nghĩ.
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>People of the future, if they only knew the records and studied them, and let their imagination work on them, till the Notion Club became a sort of secondary world set in the Past: they could.
+<p>Những người ở tương lai, nếu họ chỉ biết đến các ghi chép và nghiên cứu chúng, đồng thời để trí tưởng tượng của mình hoạt động trên chúng, cho đến khi Notion Club trở thành một loại thế giới thứ cấp được thiết lập trong Quá khứ: họ có thể.
 </p>
-<p class="tg-quote-footer"><cite><a href="../M/Michael_George_Ramer.md" title="Michael George Ramer">Michael George Ramer</a> in <a class="new" href="https://tolkiengateway.net/w/index.php?title=Night_65&amp;action=edit&amp;redlink=1" title="Night 65 (page does not exist)">Night 65</a> about other people possibly going back into the past.</cite></p>
+<p class="tg-quote-footer"><cite><a href="../M/Michael_George_Ramer.md" title="Michael George Ramer">Michael George Ramer</a> trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Night_65&amp;action=edit&amp;redlink=1" title="Night 65 (page does not exist)">Đêm 65</a> về những người khác có thể quay ngược về quá khứ.</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 **Notion Club** là một nhóm thảo luận văn học có trụ sở tại [Oxford](../O/Oxford.md).

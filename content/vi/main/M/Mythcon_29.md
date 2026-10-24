@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Mythcon_29"
 content_sha256: dc6d29eee3b73c873bc1c08482b708b33c8831d40675dfe3740c3c9d2ffdc4d4
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "1998 Mythopoeic Society conference"
+short_description: "Hội nghị Hiệp hội Thần thoại năm 1998"
 categories:
   - "Mythcon"
 hidden_categories:
@@ -28,7 +28,7 @@ infobox:
     value: "Mythcon 30"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 29</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Wheaton College, Wheaton, Illinois</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data">15-20 July <a href="../_/1998.md" title="1998">1998</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="Mythcon_28.md" title="Mythcon 28">Mythcon 28</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="Mythcon_30.md" title="Mythcon 30">Mythcon 30</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 29</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Wheaton College, Wheaton, Illinois</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Hội Mythopoeic</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data">15-20 July <a href="../_/1998.md" title="1998">1998</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="Mythcon_28.md" title="Mythcon 28">Mythcon 28</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Mythcon_30.md" title="Mythcon 30">Mythcon 30</a></td></tr></tbody></table>
 
 **Mythcon 29** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 29.
 

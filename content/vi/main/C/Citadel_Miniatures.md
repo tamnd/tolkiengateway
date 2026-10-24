@@ -31,7 +31,7 @@ Vào tháng 12 [1984](../_/1984.md), Games Workshop thông báo rằng họ đã
 		<li class="gallerybox" style="width: 155px">
 			<div class="thumb" style="width: 150px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/C/Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg.md" title="Cover art by John Blanche."><img alt="Cover art by John Blanche." src="https://tolkiengateway.net/w/images/thumb/3/3c/Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg/120px-Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg" decoding="async" loading="lazy" width="120" height="176" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3c/Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg/180px-Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3c/Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg/240px-Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg 2x" data-file-width="697" data-file-height="1024"/></a></span></div>
 			<div class="gallerytext">
-<p>Cover art by <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Blanche&amp;action=edit&amp;redlink=1" title="John Blanche (page does not exist)">John Blanche</a>.
+<p>Ảnh bìa của <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Blanche&amp;action=edit&amp;redlink=1" title="John Blanche (page does not exist)">John Blanche</a>.
 </p>
 			</div>
 		</li>
@@ -45,7 +45,7 @@ Vào tháng 12 [1984](../_/1984.md), Games Workshop thông báo rằng họ đã
 		<li class="gallerybox" style="width: 155px">
 			<div class="thumb" style="width: 150px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/C/Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg.md" title="Cover art by John Blanche."><img alt="Cover art by John Blanche." src="https://tolkiengateway.net/w/images/thumb/e/eb/Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg/120px-Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg" decoding="async" loading="lazy" width="120" height="177" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/eb/Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg/180px-Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/eb/Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg/240px-Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg 2x" data-file-width="1200" data-file-height="1768"/></a></span></div>
 			<div class="gallerytext">
-<p>Cover art by <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Blanche&amp;action=edit&amp;redlink=1" title="John Blanche (page does not exist)">John Blanche</a>.
+<p>Ảnh bìa của <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Blanche&amp;action=edit&amp;redlink=1" title="John Blanche (page does not exist)">John Blanche</a>.
 </p>
 			</div>
 		</li>
@@ -59,7 +59,7 @@ Vào tháng 12 [1984](../_/1984.md), Games Workshop thông báo rằng họ đã
 		<li class="gallerybox" style="width: 155px">
 			<div class="thumb" style="width: 150px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/C/Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg.md" title="Cover art by Angus Fieldhouse."><img alt="Cover art by Angus Fieldhouse." src="https://tolkiengateway.net/w/images/thumb/9/9f/Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg/120px-Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg" decoding="async" loading="lazy" width="120" height="88" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9f/Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg/180px-Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9f/Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg/240px-Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg 2x" data-file-width="1471" data-file-height="1080"/></a></span></div>
 			<div class="gallerytext">
-<p>Cover art by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Angus_Fieldhouse&amp;action=edit&amp;redlink=1" title="Angus Fieldhouse (page does not exist)">Angus Fieldhouse</a>.
+<p>Ảnh bìa của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Angus_Fieldhouse&amp;action=edit&amp;redlink=1" title="Angus Fieldhouse (page does not exist)">Angus Fieldhouse</a>.
 </p>
 			</div>
 		</li>
@@ -129,7 +129,7 @@ Gói - ME-82 The Hobbit
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed <a class="extiw" href="http://en.wikipedia.org/wiki/Miniature_figure_(gaming)" title="wikipedia:Miniature figure (gaming)">miniatures</a> for gaming in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Miniature_figure_(gaming)" title="wikipedia:Miniature figure (gaming)">các tác phẩm thu nhỏ</a> được cấp phép để chơi game trong <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
 </td></tr>
 <tr>
 <td style="font-size: 90%;">  <b><a href="../H/Heritage_Models.md" title="Heritage Models">Heritage Models</a></b> (<a href="../_/1978.md" title="1978">1978</a>)

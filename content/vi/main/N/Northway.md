@@ -25,7 +25,7 @@ Con đường bắt nguồn từ [phương Đông Đường](../E/East_Road.md) 
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Northway runs from <a href="../B/Budgeford.md" title="Budgeford">Budgeford</a> through <a class="mw-redirect" href="../B/Brockenborings.md" title="Brockenborings">Brockenborings</a> and <a href="../O/Oatbarton.md" title="Oatbarton">Oatbarton</a>, ending in <a href="../D/Dwaling.md" title="Dwaling">Dwaling</a>.</dd></dl>
+<dl><dd>Đường Northway chạy từ <a href="../B/Budgeford.md" title="Budgeford">Budgeford</a> qua <a class="mw-redirect" href="../B/Brockenborings.md" title="Brockenborings">Brockenborings</a> và <a href="../O/Oatbarton.md" title="Oatbarton">Oatbarton</a>, kết thúc ở <a href="../D/Dwaling.md" title="Dwaling">Dwaling</a>.</dd></dl>
 
 <span></span>
 

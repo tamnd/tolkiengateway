@@ -26,7 +26,7 @@ Trong những trường hợp khác, người hầu của [Sauron](../S/Sauron.m
 Vào thời điểm Sauron sụp đổ, người ta đã nói:
 
 <blockquote class="tg-quote noexcerpt">
-<p>As when death smites the swollen brooding thing that inhabits their crawling hill and holds them all in sway, ants will wander witless and purposeless and then feebly die, so the creatures of Sauron, orc or troll or beast spell-enslaved, ran hither and thither mindless..
+<p>Giống như khi cái chết đánh vào những sinh vật đang sưng tấy sinh sống trên ngọn đồi đang bò của chúng và khiến chúng bị thống trị, những con kiến ​​sẽ đi lang thang một cách ngu ngốc và vô mục đích và sau đó chết một cách yếu ớt, những sinh vật của Sauron, orc hay troll hoặc quái thú bị bắt làm nô lệ, chạy đi đây đi đó một cách vô tâm..
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../T/The_Field_of_Cormallen.md" title="The Field of Cormallen">The Field of Cormallen</a>&#34;
 </cite></p>

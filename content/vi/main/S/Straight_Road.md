@@ -29,7 +29,7 @@ images:
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_The_Grey_Havens.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8e/John_Howe_-_The_Grey_Havens.jpg/250px-John_Howe_-_The_Grey_Havens.jpg" decoding="async" loading="lazy" width="250" height="177" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8e/John_Howe_-_The_Grey_Havens.jpg/375px-John_Howe_-_The_Grey_Havens.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8e/John_Howe_-_The_Grey_Havens.jpg/500px-John_Howe_-_The_Grey_Havens.jpg 2x" data-file-width="1816" data-file-height="1288"/></a><figcaption><i>The Grey Havens</i> by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>...beyond the Door of Days,<br/>where the round world plunges steeply down,<br/>but the old road goes,<br/>as an unseen bridge that on arches runs<br/>to coasts no man knows.
+<p>...ngoài Cánh cửa Ngày tháng,<br/>nơi thế giới tròn trịa dốc xuống,<br/>nhưng con đường cũ vẫn đi,<br/>như một cây cầu vô hình có mái vòm chạy<br/>đến những bờ biển không ai biết.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../I/Imram.md" title="Imram">Imram</a></i>, vv. 105-108</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

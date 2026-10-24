@@ -13,9 +13,9 @@ categories:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>...in that hour he appeared as one of the Mighty of the West, and fit to be the father of the kings of the Kings of Men...
+<p>...vào giờ đó, ông xuất hiện với tư cách là một trong những Đấng quyền năng của Phương Tây, và xứng đáng trở thành cha của các vị vua của các vị vua của Con Người...
 </p>
-<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Of Tuor and his Coming to Gondolin</a>&#34;</cite></p>
+<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, "<a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Của Tuor và Sự Đến Gondolin</a>"</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 **Mighty of the Phương Tây** là danh hiệu được sử dụng một lần, trong đoạn trích dẫn ở trên, để chỉ [Tuor](../T/Tuor.md) con trai của [Huor](../H/Huor.md). Ý nghĩa chính xác của nó rất mơ hồ: nó xuất hiện trong một đoạn thảo luận về mối quan hệ của Tuor với con cháu của ông ta, [người Númenor](../N/Númenóreans.md), và vì vậy chúng tôi đã coi nó ở đây như một biểu tượng cho sự phân chia đó của Nhân loại.

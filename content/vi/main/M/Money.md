@@ -36,7 +36,7 @@ Khi [Aragorn](../A/Aragorn.md) và bốn hobbit cắm trại ở bên hông [Wea
 Trong *[The Complete Guide to Middle-earth](../T/The_Complete_Guide_to_Middle-earth.md)* của [Robert Foster](../R/Robert_Foster.md), mục "Tiền" ở trang 344 cho thấy điều đó là đúng
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p><b>contrary to the claims of some</b>, there are references to money in <i>The Lord of the Rings</i>
+<p><b>trái với tuyên bố của một số người</b>, có đề cập đến tiền ở <i>The Lord of the Rings</i>
 </p>
 <p class="tg-quote-footer"><cite>The Complete Guide to Middle-earth<i> - &#34;Money&#34;</i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

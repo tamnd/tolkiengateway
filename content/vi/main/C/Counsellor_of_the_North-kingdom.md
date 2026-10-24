@@ -21,7 +21,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the title in the <a href="../F/Fourth_Age.md" title="Fourth Age">Fourth Age</a></b>. For the advisors to the <a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a>, see <b><a href="Councillors.md" title="Councillors">councillors</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>tiêu đề trong <a href="../F/Fourth_Age.md" title="Fourth Age">Kỷ Đệ Tứ</a></b>. Để biết về các cố vấn của <a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Thạc sĩ Thị trấn Hồ</a>, hãy xem <b><a href="Councillors.md" title="Councillors">các cố vấn</a></b>.</div></div>
 
 **Cố vấn Vương quốc phương Bắc** là chức danh được trao cho một số thành viên trong hội đồng hoàng gia [Arnor](../A/Arnor.md) được thành lập sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
 

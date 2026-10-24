@@ -42,10 +42,10 @@ infobox:
     value: "Dagor Bragollach, Massacre at Tarn Aeluin"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Peter_Xavier_Price_-_Beleg_discovers_Gwindor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7c/Peter_Xavier_Price_-_Beleg_discovers_Gwindor.jpg/320px-Peter_Xavier_Price_-_Beleg_discovers_Gwindor.jpg" decoding="async" loading="lazy" width="320" height="247" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7c/Peter_Xavier_Price_-_Beleg_discovers_Gwindor.jpg/480px-Peter_Xavier_Price_-_Beleg_discovers_Gwindor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7c/Peter_Xavier_Price_-_Beleg_discovers_Gwindor.jpg/640px-Peter_Xavier_Price_-_Beleg_discovers_Gwindor.jpg 2x" data-file-width="800" data-file-height="618"/></a><figcaption>&#34;<a href="../B/Beleg.md" title="Beleg">Beleg</a> discovers <a href="../G/Gwindor.md" title="Gwindor">Gwindor</a>&#34; by <a href="../P/Peter_Xavier_Price.md" title="Peter Xavier Price">Peter Xavier Price</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Pine-forest,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Highlands<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Taur-nu-Fuin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Northern <a href="../D/Dorthonion.md" title="Dorthonion">Dorthonion</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Pine-forest,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Highlands<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Description</th><td class="tg-infobox-data">Evil, darkened forest</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../O/Orcs.md" title="Orcs">Orcs</a></td></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data"><a href="../D/Dagor_Bragollach.md" title="Dagor Bragollach">Dagor Bragollach</a>, <a href="../M/Massacre_at_Tarn_Aeluin.md" title="Massacre at Tarn Aeluin">Massacre at Tarn Aeluin</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Peter_Xavier_Price_-_Beleg_discovers_Gwindor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7c/Peter_Xavier_Price_-_Beleg_discovers_Gwindor.jpg/320px-Peter_Xavier_Price_-_Beleg_discovers_Gwindor.jpg" decoding="async" loading="lazy" width="320" height="247" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7c/Peter_Xavier_Price_-_Beleg_discovers_Gwindor.jpg/480px-Peter_Xavier_Price_-_Beleg_discovers_Gwindor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7c/Peter_Xavier_Price_-_Beleg_discovers_Gwindor.jpg/640px-Peter_Xavier_Price_-_Beleg_discovers_Gwindor.jpg 2x" data-file-width="800" data-file-height="618"/></a><figcaption>"<a href="../B/Beleg.md" title="Beleg">Beleg</a> khám phá <a href="../G/Gwindor.md" title="Gwindor">Gwindor</a>" của <a href="../P/Peter_Xavier_Price.md" title="Peter Xavier Price">Peter Xavier Price</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Pine-forest,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Highlands<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Taur-nu-Fuin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin chung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Northern <a href="../D/Dorthonion.md" title="Dorthonion">Dorthonion</a></td></tr><tr><th scope="row" class="tg-infobox-label">Loại</th><td class="tg-infobox-data">Pine-forest,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Highlands<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Mô tả</th><td class="tg-infobox-data">Khu rừng tối tăm, xấu xa</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Nhân vật và lịch sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Cư dân</th><td class="tg-infobox-data"><a href="../O/Orcs.md" title="Orcs">Orc</a></td></tr><tr><th scope="row" class="tg-infobox-label">Sự kiện</th><td class="tg-infobox-data"><a href="../D/Dagor_Bragollach.md" title="Dagor Bragollach">Dagor Bragollach</a>, <a href="../M/Massacre_at_Tarn_Aeluin.md" title="Massacre at Tarn Aeluin">Massacre at Tarn Aeluin</a></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>To North there lay the <a href="../D/Dor_Daedeloth.md" title="Dor Daedeloth">Land of Dread</a><br/>whence only evil pathways led<br/>o&#39;er <a href="../E/Ered_Gorgoroth.md" title="Ered Gorgoroth">hills of shadow</a> bleak and cold<br/>or Taur-na-Fuin&#39;s haunted hold<br/>where Deadly Nightshade lurked and lay<br/>and never came or <a href="../M/Moon.md" title="Moon">moon</a> or day.
+<p>Ở phía Bắc là <a href="../D/Dor_Daedeloth.md" title="Dor Daedeloth">Vùng đất kinh hoàng</a><br/>nơi mà từ đó chỉ có những con đường xấu xa dẫn tới<br/>o'er <a href="../E/Ered_Gorgoroth.md" title="Ered Gorgoroth">những ngọn đồi bóng tối</a> ảm đạm và lạnh lẽo<br/>hoặc nơi giam giữ ma ám của Taur-na-Fuin<br/>nơi Bóng đêm chết chóc ẩn nấp và nằm<br/>và không bao giờ đến, <a href="../M/Moon.md" title="Moon">mặt trăng</a> hay ngày.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../L/Lay_of_Leithian.md" title="Lay of Leithian">Lay of Leithian</a></i>, <a href="../L/Lay_of_Leithian_Canto_I.md" title="Lay of Leithian Canto I">Canto I</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -85,21 +85,21 @@ Trong *[Turambar and the Foalókë](Turambar_and_the_Foalókë.md)*, ở Taurfui
 Trong *[The Lay of the Children of Húrin](The_Lay_of_the_Children_of_Húrin.md)*, Taur-na-Fuin được mô tả như sau:<sup id="cite_ref-beleg_15-0" class="reference"><a href="#cite_note-beleg-15">[15]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:753-767</sup>
 
 <div class="poem">
-<p>Never-dawning night   was netted clinging<br/>
-in the black branches   of the beetling trees;<br/>
-oppressed by pungent   pinewood’s odours, <br/>
-and drowsed with dreams   as the darkness thickened,<br/>
-he strayed steerless.   The stars were hid,<br/>
-and the moon mantled.   There magic foundered<br/>
-in the gathering glooms,   there goblins even<br/>
-(whose deep eyes drill   the darkest shadows)<br/>
-bewildered wandered,   who the way forsook<br/>
-to grope in the glades,   there greyly loomed<br/>
-of girth unguessed   in growth of ages<br/>
-the topless trunks   of trees enchanted.<br/>
-That fathomless fold   by folk of Elfland<br/>
-is Taur-na-Fuin,   the Trackless Forest<br/>
-of Deadly Nightshade,   dreadly naméd.
+<p>Đêm không bao giờ rạng đông   được giăng lưới<br/>
+trên những cành đen   của cây bọ cánh cứng;<br/>
+bị ức chế bởi mùi hăng của gỗ thông, <br/>
+và chìm đắm trong những giấc mơ   khi bóng tối dày đặc,<br/>
+ông lạc lối không có phương hướng.   Những ngôi sao đã giấu đi<br/>
+và mặt trăng khoác áo choàng.   Ở đó phép thuật đã được sáng lập<br/>
+trong bóng tối dày đặc,   thậm chí còn có yêu tinh<br/>
+(có đôi mắt sâu thẳm tìm thấy   bóng tối nhất)<br/>
+ngơ ngác lang thang,   ai bỏ lối<br/>
+mò mẫm trong trảng cỏ,   ở đó lờ mờ xám xịt<br/>
+chu vi không thể đoán trước được   theo độ tuổi<br/>
+những thân cây để ngực trần   bị mê hoặc.<br/>
+Nếp gấp không thể dò được   của dân gian Elfland<br/>
+là Taur-na-Fuin,   Khu rừng không lối đi<br/>
+của Deadly Nightshade,   được đặt tên một cách khủng khiếp.
 </p>
 </div>
 

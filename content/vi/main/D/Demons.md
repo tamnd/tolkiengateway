@@ -31,19 +31,19 @@ Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu c�
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Demons are portrayed as to exist in several types: Balrogs, Black Demons, <i>Lassaraukar</i> (&#34;Leaf-demons&#34;), Vampires, Demon-trolls, etc.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
+<dl><dd>Quỷ được miêu tả là tồn tại dưới nhiều loại: Balrog, Quỷ đen, <i>Lassaraukar</i> ("Quỷ lá"), Ma cà rồng, Quỷ troll, v.v.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
 <b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a></i>:</b>
 
-<dl><dd>A distinction is made between &#34;animate demons&#34; and &#34;place-demons&#34;. The former have a body, and entail such creatures as lesser and greater Balrogs, <i>Helegrogs</i> (&#34;demons of ice&#34;) and <i>Dindair</i> (&#34;silent shadow&#34;, demons of shadow). Place-demons (<i>bandúrhoth</i>, &#34;people of the dark prison&#34;) are incorporeal and &#34;<i>cannot be physically battled</i>&#34;, an example being Caradhras the Cruel.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
+<dl><dd>Có sự phân biệt giữa "quỷ sống" và "quỷ địa điểm". Loại trước có một cơ thể và bao gồm những sinh vật nhỏ hơn và lớn hơn Balrog, <i>Helegrogs</i> ("quỷ băng") và <i>Dindair</i> ("bóng im lặng", ác quỷ bóng tối). Ác quỷ địa điểm (<i>bandúrhoth</i>, "người của nhà tù bóng tối") là vô hình và "<i>cannot be physically battled</i>", một ví dụ là Caradhras Kẻ tàn ác.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 
 <b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The <i>Regmyl</i> (sing. <i>Rogmul</i>) are fire-demon spirits, called forth by the will of a Balrog.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
+<dl><dd><i>Regmyl</i> (hát. <i>Rogmul</i>) là những linh hồn quỷ lửa, được triệu tập theo ý muốn của một Balrog.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 
 <b>2014-: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Middle-earth: Shadow of Mordor</a></i></b> và <b>2017-: <i><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Middle-earth: Shadow of War</a></i>:</b>
 
-<dl><dd>In both games, a <i>Graug</i> is a giant Troll-like monster. Across both games, five different forms of Graugs are seen: Common, Fire, Frost, Poison and the even larger Great White Graug hunted by Torvin. All these are very different from the Balrog also seen in <a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Middle-earth: Shadow of War</a>, whose design is very similar to the Balrog from the Peter Jackson films.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
+<dl><dd>Trong cả hai trò chơi, <i>Graug</i> là một quái vật khổng lồ giống Troll. Trong cả hai trò chơi, người ta thấy năm dạng Graug khác nhau: Common, Fire, Frost, Poison và thậm chí còn lớn hơn cả Great White Graug bị Torvin săn lùng. Tất cả những điều này rất khác so với Balrog cũng thấy trong <a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Middle-earth: Shadow of War</a>, có thiết kế rất giống với Balrog trong phim Peter Jackson.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 
 <span></span>
 

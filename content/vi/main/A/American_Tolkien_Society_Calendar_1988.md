@@ -19,7 +19,7 @@ images:
 
 **American Tolkien Society Calendar 1988** chứa các hình minh họa đen trắng của mười bốn nghệ sĩ khác nhau. Nó được in trên giấy màu nâu vàng và là:
 
-<dl><dd>A dual calendar 1988: featuring the everyday calendar most of us use, and the Shire Reckoning calendar set forth by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> in Appendix D of <a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a>.</dd></dl>
+<dl><dd>Lịch kép 1988: bao gồm lịch hàng ngày được hầu hết chúng ta sử dụng và Shire lịch tính toán do <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> quy định tại Phụ lục D của <a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a>.</dd></dl>
 
 - Kích thước: 11 x 8,5 inch
 - Dập ghim khi gập

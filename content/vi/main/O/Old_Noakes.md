@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Old_Noakes"
 content_sha256: 86e6571e281bb82bd2848976f203b6bc7bb5f2aee77dea1d0351638c177692f6
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Shire-hobbit and friend of the Gaffer"
+short_description: "Shire-hobbit và bạn của Gaffer"
 categories:
   - "Characters in The Lord of the Rings"
   - "Hobbits"
@@ -34,7 +34,7 @@ infobox:
     value: "Images of Old Noakes"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miriam_Ellis_-_Old_Noakes.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/14/Miriam_Ellis_-_Old_Noakes.jpg/320px-Miriam_Ellis_-_Old_Noakes.jpg" decoding="async" loading="lazy" width="320" height="353" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/1/14/Miriam_Ellis_-_Old_Noakes.jpg 1.5x" data-file-width="375" data-file-height="414"/></a><figcaption>Old Noakes - Detail by <a href="../M/Miriam_Ellis.md" title="Miriam Ellis">Miriam Ellis</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Old Noakes</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Bywater.md" title="Bywater">Bywater</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">late <a href="../T/Third_Age.md" title="Third Age">Third Age</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Old_Noakes.md" title="Category:Images of Old Noakes">Images of Old Noakes</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miriam_Ellis_-_Old_Noakes.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/14/Miriam_Ellis_-_Old_Noakes.jpg/320px-Miriam_Ellis_-_Old_Noakes.jpg" decoding="async" loading="lazy" width="320" height="353" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/1/14/Miriam_Ellis_-_Old_Noakes.jpg 1.5x" data-file-width="375" data-file-height="414"/></a><figcaption>Old Noakes - Detail by <a href="../M/Miriam_Ellis.md" title="Miriam Ellis">Miriam Ellis</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Old Noakes</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../B/Bywater.md" title="Bywater">Bywater</a></td></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data">muộn <a href="../T/Third_Age.md" title="Third Age">Kỷ Đệ Tam</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Giới tính</th><td class="tg-infobox-data">Nam</td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Old_Noakes.md" title="Category:Images of Old Noakes">Images of Old Noakes</a></td></tr></tbody></table>
 
 **Old Noakes** là [Hobbit](../H/Hobbits.md) từ [Bywater](../B/Bywater.md).
 
@@ -56,7 +56,7 @@ Trong bản nháp đầu tiên, Noakes đã hỏi về [Bingo Baggins](../F/Frod
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_(video_game)_-_Old_Noakes.png.md" title="Old Noakes in The Lord of the Rings: The Fellowship of the Ring (video game)"><img alt="Old Noakes in The Lord of the Rings: The Fellowship of the Ring (video game)" src="https://tolkiengateway.net/w/images/thumb/2/28/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Old_Noakes.png/230px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Old_Noakes.png" decoding="async" loading="lazy" width="230" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/28/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Old_Noakes.png/344px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Old_Noakes.png 1.5x, https://tolkiengateway.net/w/images/2/28/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Old_Noakes.png 2x" data-file-width="431" data-file-height="282"/></a></span></div>
 			<div class="gallerytext">
-<p>Old Noakes in <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (video game)</a>
+<p>Old Noakes trong <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>
 </p>
 			</div>
 		</li>
@@ -85,24 +85,24 @@ Trong bản nháp đầu tiên, Noakes đã hỏi về [Bingo Baggins](../F/Frod
 
 <b>1992: <a href="../D/Der_Herr_der_Ringe_(1992_German_radio_series).md" title="Der Herr der Ringe (1992 German radio series)"><i>Der Herr der Ringe</i> (loạt phim phát thanh Đức năm 1992)</a>:</b>
 
-<dl><dd>Old Noakes is played by Wolfgang Laugwitz.</dd></dl>
+<dl><dd>Old Noakes do Wolfgang Laugwitz thủ vai.</dd></dl>
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">Phiên bản mở rộng</a>)</b>
 
 <dl><dd></dd>
-<dd>Old Noakes is present at the Gaffer&#39;s conversation, though the setting is moved from the Ivy Bush to the Green Dragon. When the Gaffer mentions that strange folk have been seen in the Shire, Noakes shakes his head and says &#34;War&#39;s brewing. The mountains are fair teeming with goblins.&#34; He is played by <a href="../W/William_Johnson.md" title="William Johnson">William Johnson</a>.</dd></dl>
+<dd>Old Noakes có mặt trong cuộc trò chuyện của Gaffer, mặc dù bối cảnh đã được chuyển từ Ivy Bush sang Green Rồng. Khi Gaffer đề cập đến những người kỳ lạ đã được nhìn thấy trong Shire, Noakes lắc đầu và nói "Chiến tranh đang hình thành. Những ngọn núi đầy rẫy yêu tinh." Ông do <a href="../W/William_Johnson.md" title="William Johnson">William Johnson</a> thủ vai.</dd></dl>
 
 <b>2002: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi đánh bài</a></i>:</b>
 
-<dl><dd>Contrary to the film, <a href="../D/Decipher.md" title="Decipher">Decipher</a> identifies a different Hobbit from Bilbo&#39;s Party as Old Noakes.</dd></dl>
+<dl><dd>Ngược lại với bộ phim, <a href="../D/Decipher.md" title="Decipher">Decipher</a> xác định một Hobbit khác với Đảng của Bilbo là Old Noakes.</dd></dl>
 
 <b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
 
-<dl><dd>Old Noakes sits on a bench just beyond Bywater. <a href="../S/Sancho_Proudfoot.md" title="Sancho Proudfoot">Sancho Proudfoot</a> stole his medicinal herbs; retrieving them is a side mission.</dd></dl>
+<dl><dd>Old Noakes ngồi trên một chiếc ghế dài ngay bên ngoài Bywater. <a href="../S/Sancho_Proudfoot.md" title="Sancho Proudfoot">Sancho Proudfoot</a> đã lấy trộm dược liệu của ông; lấy chúng là một nhiệm vụ phụ.</dd></dl>
 
 <b>2025: <i><a href="../T/Tales_of_the_Shire%253A_A_%2522The_Lord_of_the_Rings%2522_Game.md" title="Tales of the Shire: A &#34;The Lord of the Rings&#34; Game">Câu chuyện về Shire: Trò chơi "The Lord of the Rings"</a></i>:</b>
 
-<dl><dd>Old Noakes is an interactive character. He can be invited to meals and, after reaching a milestone, can trade with the player.</dd></dl>
+<dl><dd>Old Noakes là một ký tự tương tác. Ông có thể được mời dùng bữa và sau khi đạt được một cột mốc quan trọng, ông có thể giao dịch với người chơi.</dd></dl>
 
 <span></span>
 

@@ -15,7 +15,7 @@ images:
   - "Gondolin_CD_Artwork.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Gondolin_CD_Artwork.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1c/Gondolin_CD_Artwork.png/300px-Gondolin_CD_Artwork.png" decoding="async" loading="lazy" width="300" height="297" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1c/Gondolin_CD_Artwork.png/450px-Gondolin_CD_Artwork.png 1.5x, https://tolkiengateway.net/w/images/1/1c/Gondolin_CD_Artwork.png 2x" data-file-width="600" data-file-height="593"/></a><figcaption>Artwork from the CD release. Used by permission of Ted Nasmith.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Gondolin_CD_Artwork.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1c/Gondolin_CD_Artwork.png/300px-Gondolin_CD_Artwork.png" decoding="async" loading="lazy" width="300" height="297" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1c/Gondolin_CD_Artwork.png/450px-Gondolin_CD_Artwork.png 1.5x, https://tolkiengateway.net/w/images/1/1c/Gondolin_CD_Artwork.png 2x" data-file-width="600" data-file-height="593"/></a><figcaption>Tác phẩm nghệ thuật từ bản phát hành CD. Được sử dụng với sự cho phép của Ted Nasmith.</figcaption></figure>
 
 Phần bốn trong chu kỳ opera của [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md) *Những cảnh sử thi từ The Silmarillion sau thần thoại J. R. R. Tolkien.*
 

@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Sagan_om_Ringen_(1971_film)"
 content_sha256: 18f5063427012b47e393ba7444a07bf0ee012fae0be325af07623552aedf30b6
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Swedish made-for-TV adaptation of The Fellowship of the Ring"
+short_description: "Bản chuyển thể dành cho truyền hình của Thụy Điển The Fellowship of the Ring"
 categories:
   - "Films"
 hidden_categories:
@@ -42,12 +42,12 @@ infobox:
     value: "Swedish"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sagan_om_Ringen_Title_Card.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/61/Sagan_om_Ringen_Title_Card.png/320px-Sagan_om_Ringen_Title_Card.png" decoding="async" loading="lazy" width="320" height="246" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/61/Sagan_om_Ringen_Title_Card.png/480px-Sagan_om_Ringen_Title_Card.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/61/Sagan_om_Ringen_Title_Card.png/640px-Sagan_om_Ringen_Title_Card.png 2x" data-file-width="1403" data-file-height="1077"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sagan om Ringen</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Writer</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=S%C3%B6ren_Erlandsson&amp;action=edit&amp;redlink=1" title="Sören Erlandsson (page does not exist)">Sören Erlandsson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Based on</th><td class="tg-infobox-data"><i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Producer</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Urban_Lasson&amp;action=edit&amp;redlink=1" title="Urban Lasson (page does not exist)">Urban Lasson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Narrator</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Evan_Storm&amp;action=edit&amp;redlink=1" title="Evan Storm (page does not exist)">Evan Storm</a></td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mette_M%C3%B6llar&amp;action=edit&amp;redlink=1" title="Mette Möllar (page does not exist)">Mette Möllar</a></td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="../B/Bo_Hansson.md" title="Bo Hansson">Bo Hansson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Studio</th><td class="tg-infobox-data">Sveriges television</td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data">SVT1</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">1971</td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">28 minutes</td></tr><tr><th scope="row" class="tg-infobox-label">Country</th><td class="tg-infobox-data">Sweden</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">Swedish</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sagan_om_Ringen_Title_Card.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/61/Sagan_om_Ringen_Title_Card.png/320px-Sagan_om_Ringen_Title_Card.png" decoding="async" loading="lazy" width="320" height="246" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/61/Sagan_om_Ringen_Title_Card.png/480px-Sagan_om_Ringen_Title_Card.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/61/Sagan_om_Ringen_Title_Card.png/640px-Sagan_om_Ringen_Title_Card.png 2x" data-file-width="1403" data-file-height="1077"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sagan om Ringen</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=S%C3%B6ren_Erlandsson&amp;action=edit&amp;redlink=1" title="Sören Erlandsson (page does not exist)">Sören Erlandsson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Based on</th><td class="tg-infobox-data"><i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà sản xuất</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Urban_Lasson&amp;action=edit&amp;redlink=1" title="Urban Lasson (page does not exist)">Urban Lasson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Người dẫn chuyện</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Evan_Storm&amp;action=edit&amp;redlink=1" title="Evan Storm (page does not exist)">Evan Storm</a></td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mette_M%C3%B6llar&amp;action=edit&amp;redlink=1" title="Mette Möllar (page does not exist)">Mette Möllar</a></td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data"><a href="../B/Bo_Hansson.md" title="Bo Hansson">Bo Hansson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Hãng phim</th><td class="tg-infobox-data">truyền hình Sveriges</td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data">SVT1</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">1971</td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">28 phút</td></tr><tr><th scope="row" class="tg-infobox-label">Quốc gia</th><td class="tg-infobox-data">Sweden</td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Swedish</td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>A story from <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien&#39;s</a> ‘<a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a>’ presented for children with original music by <a href="../B/Bo_Hansson.md" title="Bo Hansson">Bo Hansson</a> and illustrations by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Lindblom.&amp;action=edit&amp;redlink=1" title="Peter Lindblom. (page does not exist)">Peter Lindblom.</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<p>Một câu chuyện từ <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a> '<a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a>' dành cho trẻ em với âm nhạc nguyên bản của <a href="../B/Bo_Hansson.md" title="Bo Hansson">Bo Hansson</a> và hình ảnh minh họa của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Lindblom.&amp;action=edit&amp;redlink=1" title="Peter Lindblom. (page does not exist)">Peter Lindblom.</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </p>
-<p class="tg-quote-footer"><cite>SVT Play description</cite></p>
+<p class="tg-quote-footer"><cite>Mô tả SVT Play</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 **Sagan om Ringen** là bộ phim truyền hình Thụy Điển chuyển thể từ *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*. Bộ phim kể về hành trình của [Frodo](../F/Frodo_Baggins.md) từ [ Shire](../T/The_Shire.md) đến khi Hội đồng nghiệp khởi hành từ [Rivendell](../R/Rivendell.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
@@ -60,12 +60,12 @@ Các cảnh có diễn viên được quay trước màn hình xanh và các di�
 
 <table class="wikitable">
 <tbody><tr style="background: var(--tg-color-surface-2);">
-<th>Actor</th>
-<th>Role
+<th>Diễn viên</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Evan_Storm&amp;action=edit&amp;redlink=1" title="Evan Storm (page does not exist)">Evan Storm</a></td>
-<td>Narrator
+<td>Người dẫn chuyện
 </td></tr>
 </tbody></table>
 
@@ -73,20 +73,20 @@ Các cảnh có diễn viên được quay trước màn hình xanh và các di�
 
 <table class="wikitable">
 <tbody><tr style="background: var(--tg-color-surface-2);">
-<th>Name</th>
-<th>Role
+<th>Tên</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
 <td>Original Writer
 </td></tr>
 <tr>
-<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=S%C3%B6ren_Erlandsson&amp;action=edit&amp;redlink=1" title="Sören Erlandsson (page does not exist)">Sören Erlandsson</a> <small>(credited as Soren Erlandsson)</small></td>
+<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=S%C3%B6ren_Erlandsson&amp;action=edit&amp;redlink=1" title="Sören Erlandsson (page does not exist)">Sören Erlandsson</a> <small>(được ghi là Soren Erlandsson)</small></td>
 <td>Adaptation
 </td></tr>
 <tr>
 <td><a href="../B/Bo_Hansson.md" title="Bo Hansson">Bo Hansson</a></td>
-<td>Music
+<td>Âm nhạc
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Linblom&amp;action=edit&amp;redlink=1" title="Peter Linblom (page does not exist)">Peter Linblom</a></td>
@@ -98,7 +98,7 @@ Các cảnh có diễn viên được quay trước màn hình xanh và các di�
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Urban_Lasson&amp;action=edit&amp;redlink=1" title="Urban Lasson (page does not exist)">Urban Lasson</a></td>
-<td>Producer
+<td>Nhà sản xuất
 </td></tr></tbody></table>
 
 ## Sự khác biệt so với nguồn tài liệu {#Differences_from_the_source_material}
@@ -145,32 +145,32 @@ Bữa tiệc của - [Bilbo](../B/Bilbo_Baggins.md) [](../B/Bilbo's_Farewell_Par
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Licensed screen adaptations of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works</b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Chuyển thể màn hình các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> được cấp phép</b>
 </th></tr>
 <tr>
-<th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Animation</b>
+<th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Phim hoạt hình</b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)">The Hobbit</a></i> (1967) · <i><a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)">The Hobbit</a></i> (1977, Rankin and Bass) · <i><a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">The Lord of the Rings</a></i> (1978) · <i><a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King</a></i> (1980, Rankin and Bass) · <i><a href="../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md" title="The Lord of the Rings: The War of the Rohirrim">The War of the Rohirrim</a></i> (2024, New Line Cinema)
 </td></tr>
 <tr>
 <th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="3"><b>Live-action</b><br/><small>(New Line Cinema)</small>
 </th>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i> series</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i>loạt</a></b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (2001) · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (2002) · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (2003)
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> series</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> loạt</a></b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">An Unexpected Journey</a></i> (2012) · <i><a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Desolation of Smaug</a></i> (2013) · <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Battle of the Five Armies</a></i> (2014)
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b>Other films</b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b>Các phim khác</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, upcoming)
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, sắp ra mắt)
 </td></tr>
 <tr>
-<th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>TV series</b>
+<th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>Loạt phim truyền hình</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-present)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-nay)
 </td></tr></tbody></table>

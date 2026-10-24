@@ -17,24 +17,24 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>It&#39;s so easy not to try;<br/>
-Let the world go drifting by.<br/>
-If you never say hello,<br/>
-You won&#39;t have to say goodbye.<br/>
+<p>Dễ lắm mà không thử;<br/>
+Hãy để thế giới trôi đi.<br/>
+Nếu bạn không bao giờ nói xin chào,<br/>
+Bạn sẽ không phải nói lời tạm biệt.<br/>
 <br/>
-It&#39;s so easy not to try;<br/>
-Never stay around to cry.<br/>
-Move along when troubles come<br/>
-Like a mindless butterfly.<br/>
+Dễ quá mà không thử;<br/>
+Đừng bao giờ ở lại để khóc.<br/>
+Luôn đồng hành khi khó khăn ập đến<br/>
+Như con bướm vô tâm.<br/>
 <br/>
-For what good is it to love<br/>
-When the loving always ends?<br/>
-Travel on the road that&#39;s straight;<br/>
-Not the one with hills and bends.<br/>
+Yêu thì có ích gì<br/>
+Khi tình yêu luôn kết thúc?<br/>
+Hãy đi trên con đường thẳng tắp;<br/>
+Không phải nơi có đồi và khúc cua.<br/>
 <br/>
-It&#39;s so easy not to try;<br/>
-Let the world go drifting by.<br/>
-If you never say hello,<br/>
-You won&#39;t have to say goodbye.
+Dễ quá mà không thử;<br/>
+Hãy để thế giới trôi đi.<br/>
+Nếu bạn không bao giờ nói xin chào,<br/>
+Bạn sẽ không phải nói lời tạm biệt.
 </p>
 </div>

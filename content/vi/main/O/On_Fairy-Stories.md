@@ -16,8 +16,8 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=On_Fairy-Stories&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
-<p>...It is a long tale...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=On_Fairy-Stories&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
+<p>...Đó là một câu chuyện dài...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
@@ -25,7 +25,7 @@ images:
 <i><b>Về Truyện Cổ Tích</b></i> là một bài tiểu luận của tác giả [Tolkien](../J/J.R.R._Tolkien.md) kể về người đọc bước vào thế giới đầy những câu chuyện cổ tích. Một đoạn trích được hiển thị dưới đây.
 
 <blockquote class="tg-quote noexcerpt">
-<p>The realm of fairy-story is wide and deep and high and filled with many things: all manner of beasts and birds are found there; shoreless seas and stars uncounted; beauty that is an enchantment, and an ever-present peril; both joy and sorrow sharp as swords. In that realm a man may, perhaps, count himself fortunate to have wandered, but its very richness and strangeness tie the tongue of the traveller who would report them. And while he is there it is dangerous for him to ask too many questions, lest the gate should be shut and the keys be lost.
+<p>Thế giới của truyện cổ tích rộng, sâu, cao và chứa đựng nhiều thứ: ở đó có đủ loại thú và chim; biển không bờ và vô số sao; vẻ đẹp đầy mê hoặc và là mối nguy hiểm luôn hiện diện; cả niềm vui và nỗi buồn sắc như dao. Có lẽ một người có thể coi mình là người may mắn khi được lang thang trong cõi đó, nhưng sự phong phú và kỳ lạ của nó đã trói buộc lưỡi của du khách muốn kể về họ. Và khi ông ở đó, thật nguy hiểm nếu ông hỏi quá nhiều, kẻo cổng sẽ đóng lại và mất chìa khóa.
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;On Fairy-Stories,&#34; in <a class="mw-redirect" href="../T/The_Monsters_and_the_Critics_and_Other_Essays.md" title="The Monsters and the Critics and Other Essays">The Monsters and the Critics and Other Essays</a></cite></p>
 </blockquote>

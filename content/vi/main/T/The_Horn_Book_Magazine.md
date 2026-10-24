@@ -19,7 +19,7 @@ images:
   - "The_Horn_Book_Magazine_1938_March-April.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Horn_Book_Magazine_1938_March-April.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/39/The_Horn_Book_Magazine_1938_March-April.jpg/300px-The_Horn_Book_Magazine_1938_March-April.jpg" decoding="async" loading="lazy" width="300" height="415" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/3/39/The_Horn_Book_Magazine_1938_March-April.jpg 1.5x" data-file-width="336" data-file-height="465"/></a><figcaption>1938 March–April issue</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Horn_Book_Magazine_1938_March-April.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/39/The_Horn_Book_Magazine_1938_March-April.jpg/300px-The_Horn_Book_Magazine_1938_March-April.jpg" decoding="async" loading="lazy" width="300" height="415" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/3/39/The_Horn_Book_Magazine_1938_March-April.jpg 1.5x" data-file-width="336" data-file-height="465"/></a><figcaption>Số tháng 3-tháng 4 năm 1938</figcaption></figure>
 
 <i><b>Tạp chí The Horn Book</b></i>, được thành lập tại Boston, Massachusetts, vào năm 1924, là tạp chí định kỳ hai tháng một lần về văn học dành cho trẻ em và thanh thiếu niên. Trong mỗi số, Tạp chí The Horn Book bao gồm các bài viết về các vấn đề và xu hướng trong văn học thiếu nhi, các bài tiểu luận của các nghệ sĩ và tác giả cũng như các bài phê bình sách mới dành cho trẻ em.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

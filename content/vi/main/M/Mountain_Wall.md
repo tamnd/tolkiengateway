@@ -14,7 +14,7 @@ categories:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>From Evereven&#39;s lofty hills<br/>where softly silver fountains fall<br/>his wings him bore, a wandering light,<br/>beyond the mighty Mountain Wall.
+<p>Từ những ngọn đồi cao ngất của Evereven<br/>nơi những đài phun nước bạc dịu dàng rơi xuống<br/>đôi cánh anh mang theo, một ánh sáng lang thang<br/>ngoài Bức tường Núi hùng vĩ.
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a>, <a href="Many_Meetings.md" title="Many Meetings">Many Meetings</a> - <i><a class="mw-redirect" href="../E/Eärendillinwë.md" title="Eärendillinwë">Eärendillinwë</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

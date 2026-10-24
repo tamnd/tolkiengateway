@@ -25,7 +25,7 @@ images:
   - "Josef_Madlener_-_Der_Berggeist.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Josef_Madlener_-_Der_Berggeist.jpg.md"><img src="https://tolkiengateway.net/w/images/9/9d/Josef_Madlener_-_Der_Berggeist.jpg" decoding="async" loading="lazy" width="292" height="399" class="mw-file-element" data-file-width="292" data-file-height="399"/></a><figcaption><i>Der Berggeist</i> as pictured in the postcard by Josef Madlener</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Josef_Madlener_-_Der_Berggeist.jpg.md"><img src="https://tolkiengateway.net/w/images/9/9d/Josef_Madlener_-_Der_Berggeist.jpg" decoding="async" loading="lazy" width="292" height="399" class="mw-file-element" data-file-width="292" data-file-height="399"/></a><figcaption><i>Der Berggeist</i> như trong tấm bưu thiếp của Josef Madlener</figcaption></figure>
 
 **Josef Madlener** ([16 tháng 4](../_/16_April.md), [1881](../_/1881.md)– [27 tháng 12](../_/27_December.md), [1967](../_/1967.md)) là một nghệ sĩ và nhà thơ người Đức.
 

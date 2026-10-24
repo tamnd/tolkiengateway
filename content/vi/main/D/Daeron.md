@@ -51,23 +51,23 @@ infobox:
     value: "Images of Daeron"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Elena_Kukanova_-_Daeron.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0c/Elena_Kukanova_-_Daeron.jpg/320px-Elena_Kukanova_-_Daeron.jpg" decoding="async" loading="lazy" width="320" height="222" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0c/Elena_Kukanova_-_Daeron.jpg/480px-Elena_Kukanova_-_Daeron.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/0c/Elena_Kukanova_-_Daeron.jpg/640px-Elena_Kukanova_-_Daeron.jpg 2x" data-file-width="750" data-file-height="521"/></a><figcaption>&#34;Daeron&#34; by <a href="../E/Elena_Kukanova.md" title="Elena Kukanova">Elena Kukanova</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../S/Sindar.md" title="Sindar">Sinda</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Daeron</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data"><a href="../L/Lambengolmor.md" title="Lambengolmor">Loremaster</a>, <a href="../M/Minstrels.md" title="Minstrels">Minstrel</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="Doriath.md" title="Doriath">Doriath</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="Doriathrin.md" title="Doriathrin">Doriathrin</a> (<a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> dialect)</td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">Before <a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Y.T.</a> <a href="../Y/Year_of_the_Trees_1300.md" title="Year of the Trees 1300">1300</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Hair colour</th><td class="tg-infobox-data">Dark</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Daeron.md" title="Category:Images of Daeron">Images of Daeron</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Elena_Kukanova_-_Daeron.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0c/Elena_Kukanova_-_Daeron.jpg/320px-Elena_Kukanova_-_Daeron.jpg" decoding="async" loading="lazy" width="320" height="222" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0c/Elena_Kukanova_-_Daeron.jpg/480px-Elena_Kukanova_-_Daeron.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/0c/Elena_Kukanova_-_Daeron.jpg/640px-Elena_Kukanova_-_Daeron.jpg 2x" data-file-width="750" data-file-height="521"/></a><figcaption>&#34;Daeron&#34; by <a href="../E/Elena_Kukanova.md" title="Elena Kukanova">Elena Kukanova</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../S/Sindar.md" title="Sindar">Sinda</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Daeron</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Chức vụ</th><td class="tg-infobox-data"><a href="../L/Lambengolmor.md" title="Lambengolmor">Loremaster</a>, <a href="../M/Minstrels.md" title="Minstrels">Minstrel</a></td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="Doriath.md" title="Doriath">Doriath</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data"><a href="Doriathrin.md" title="Doriathrin">Doriathrin</a> (<a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> phương ngữ)</td></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data">Before <a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Y.T.</a> <a href="../Y/Year_of_the_Trees_1300.md" title="Year of the Trees 1300">1300</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Giới tính</th><td class="tg-infobox-data">Nam</td></tr><tr><th scope="row" class="tg-infobox-label">Màu tóc</th><td class="tg-infobox-data">Tối</td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Daeron.md" title="Category:Images of Daeron">Images of Daeron</a></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Beyond the bounds of Arda far<br/>
-still shone the Legions, star on star,<br/>
-memorials of their labour long,<br/>
-achievement of Vision and of Song;<br/>
-and when beneath their ancient light<br/>
-on Earth below was cloudless night,<br/>
-music in Doriath awoke,<br/>
-and there beneath the branching oak,<br/>
-or seated on the beech-leaves brown,<br/>
-Daeron the dark with ferny crown<br/>
-played on his pipes with elvish art<br/>
-unbearable by mortal heart.
+<p>Vượt quá giới hạn Arda xa<br/>
+vẫn tỏa sáng Quân đoàn, ngôi sao trên ngôi sao,<br/>
+đài tưởng niệm sự lao động lâu dài của họ,<br/>
+thành tựu Tầm nhìn và Bài hát;<br/>
+và khi ở dưới ánh sáng cổ xưa<br/>
+trên Trái đất bên dưới là đêm không mây,<br/>
+âm nhạc trong Doriath thức dậy,<br/>
+và ở đó, bên dưới cành sồi,<br/>
+hay ngồi trên những chiếc lá sồi màu nâu<br/>
+Daeron bóng tối với vương miện dương xỉ<br/>
+chơi tẩu bằng nghệ thuật thần tiên<br/>
+không thể chịu nổi bởi trái tim phàm trần.
 </p>
-<p class="tg-quote-footer"><cite><i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i>, &#34;<a href="../T/The_Lay_of_Leithian_Recommenced.md" title="The Lay of Leithian Recommenced">The Lay of Leithian Recommenced</a>&#34;, Canto III continued</cite></p>
+<p class="tg-quote-footer"><cite><i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i>, "<a href="../T/The_Lay_of_Leithian_Recommenced.md" title="The Lay of Leithian Recommenced">The Lay of Leithian Đã bắt đầu</a>", Canto III tiếp tục</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 **Daeron** là một [Tiên](../E/Elves.md) [Sindarin](../S/Sindar.md) cư ngụ tại [Doriath](Doriath.md), giữ vai trò [loremaster](../L/Loremaster.md) trưởng và [nghệ sĩ hát rong](../M/Minstrels.md) của Vua [Thingol](../T/Thingol.md) trong [Kỷ Nguyên thứ Nhất](../F/First_Age.md).
@@ -80,7 +80,7 @@ Vai trò của ông chủ yếu được kể trong *[The Lay of Leithian](../T/
 
 ### Lịch sử ban đầu {#Early_history}
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Pete_Amachree_-_Daeron_at_the_court_of_Menegroth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ab/Pete_Amachree_-_Daeron_at_the_court_of_Menegroth.jpg/300px-Pete_Amachree_-_Daeron_at_the_court_of_Menegroth.jpg" decoding="async" loading="lazy" width="300" height="168" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ab/Pete_Amachree_-_Daeron_at_the_court_of_Menegroth.jpg/450px-Pete_Amachree_-_Daeron_at_the_court_of_Menegroth.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/ab/Pete_Amachree_-_Daeron_at_the_court_of_Menegroth.jpg/600px-Pete_Amachree_-_Daeron_at_the_court_of_Menegroth.jpg 2x" data-file-width="2500" data-file-height="1400"/></a><figcaption><i>Daeron at the court of Menegroth</i> by <a class="mw-redirect" href="../P/Pete_Amachree.md" title="Pete Amachree">Pete Amachree</a></figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Pete_Amachree_-_Daeron_at_the_court_of_Menegroth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ab/Pete_Amachree_-_Daeron_at_the_court_of_Menegroth.jpg/300px-Pete_Amachree_-_Daeron_at_the_court_of_Menegroth.jpg" decoding="async" loading="lazy" width="300" height="168" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ab/Pete_Amachree_-_Daeron_at_the_court_of_Menegroth.jpg/450px-Pete_Amachree_-_Daeron_at_the_court_of_Menegroth.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/ab/Pete_Amachree_-_Daeron_at_the_court_of_Menegroth.jpg/600px-Pete_Amachree_-_Daeron_at_the_court_of_Menegroth.jpg 2x" data-file-width="2500" data-file-height="1400"/></a><figcaption><i>Daeron at the court of Menegroth</i> bởi <a class="mw-redirect" href="../P/Pete_Amachree.md" title="Pete Amachree">Pete Amacree</a></figcaption></figure>
 
 Mặc dù nguồn gốc của Daeron không được ghi chép, người ta biết rằng ông đã phục vụ Thingol trước [Những Năm của Cây](../Y/Years_of_the_Trees.md) [1300](../Y/Year_of_the_Trees_1300.md), vào thời điểm đó ông đã sáng tạo ra [hệ thống chữ viết rune của mình](../C/Certhas_Daeron.md).<sup id="cite_ref-ga31_1-0" class="reference"><a href="#cite_note-ga31-1">[1]</a></sup>
 
@@ -94,7 +94,7 @@ Daeron say mê Lúthien, con gái của Thingol và [Melian](../M/Melian.md), v�
 
 Một đêm nọ, vào giữa mùa hè của [Kỷ nguyên Thứ Nhất](../F/First_Age.md) [464](../F/First_Age_464.md),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Daeron đang thổi sáo thì Lúthien bước ra nhảy múa. Tuy nhiên, chẳng bao lâu sau, đôi chân nàng dừng lại và nàng [cất lên một bài ca có niềm vui mê hoặc đến choáng ngợp](../I/Ir_Ithil_ammen_Eruchín.md) khiến Daeron ngừng thổi sáo và ném cây sáo đi, tan nát cõi lòng và sững sờ như đá vì kinh ngạc. Tuy nhiên, khi nàng đang hát, [Beren](../B/Beren.md) bước ra từ bóng tối, loạng choạng như thể đang ngờ vực hoặc bị mù. Khi bài hát của Lúthien kết thúc, Daeron, được giải thoát khỏi bùa mê, nhận ra sự hiện diện của Beren. Cho rằng Beren là kẻ thù, Daeron hoảng hốt bỏ chạy, gọi Lúthien chạy trốn và đi theo mình. Lúthien, người chưa từng biết sợ hãi, lúc đầu vẫn đứng bất động, nhưng chẳng bao lâu sau nỗi sợ chế ngự nàng và nàng biến mất.<sup id="cite_ref-llc_7-0" class="reference"><a href="#cite_note-llc-7">[7]</a></sup>
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Daeron_spies_on_Beren_and_Lúthien.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/14/Anke_Ei%C3%9Fmann_-_Daeron_spies_on_Beren_and_L%C3%BAthien.jpg/300px-Anke_Ei%C3%9Fmann_-_Daeron_spies_on_Beren_and_L%C3%BAthien.jpg" decoding="async" loading="lazy" width="300" height="172" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/14/Anke_Ei%C3%9Fmann_-_Daeron_spies_on_Beren_and_L%C3%BAthien.jpg/450px-Anke_Ei%C3%9Fmann_-_Daeron_spies_on_Beren_and_L%C3%BAthien.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/14/Anke_Ei%C3%9Fmann_-_Daeron_spies_on_Beren_and_L%C3%BAthien.jpg/600px-Anke_Ei%C3%9Fmann_-_Daeron_spies_on_Beren_and_L%C3%BAthien.jpg 2x" data-file-width="857" data-file-height="491"/></a><figcaption><i>Daeron spies on Beren and Lúthien</i> by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Daeron_spies_on_Beren_and_Lúthien.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/14/Anke_Ei%C3%9Fmann_-_Daeron_spies_on_Beren_and_L%C3%BAthien.jpg/300px-Anke_Ei%C3%9Fmann_-_Daeron_spies_on_Beren_and_L%C3%BAthien.jpg" decoding="async" loading="lazy" width="300" height="172" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/14/Anke_Ei%C3%9Fmann_-_Daeron_spies_on_Beren_and_L%C3%BAthien.jpg/450px-Anke_Ei%C3%9Fmann_-_Daeron_spies_on_Beren_and_L%C3%BAthien.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/14/Anke_Ei%C3%9Fmann_-_Daeron_spies_on_Beren_and_L%C3%BAthien.jpg/600px-Anke_Ei%C3%9Fmann_-_Daeron_spies_on_Beren_and_L%C3%BAthien.jpg 2x" data-file-width="857" data-file-height="491"/></a><figcaption><i>Daeron spies on Beren and Lúthien</i> của <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
 
 Vào mùa xuân năm sau, vào [F.A.](../F/First_Age.md) [465](../F/First_Age_465.md),<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Daeron phát hiện tình yêu của Lúthien dành cho Beren khi bắt gặp họ cùng nhau khiêu vũ. Vì ghen tuông, chàng đã niệm một lời nguyền im lặng lên Doriath, khiến chim chóc, cây cối, và thậm chí cả dòng sông [Esgalduin](../E/Esgalduin.md) cũng chìm vào tĩnh lặng. Việc này được trình lên Thingol, và ngài cho gọi Daeron đến để hỏi điềm báo của sự im lặng ấy là gì; ban đầu, ngài thậm chí còn hy vọng đó có thể là dấu hiệu cho thấy [Oromë](../O/Oromë.md) trở lại. Tuy nhiên, Daeron đã dập tắt hy vọng ấy, nói rằng một kẻ khác đã bước vào Doriath và khiến rừng cây lạnh giá bởi những hành động kỳ lạ của hắn, và rằng nếu nhà vua không nhìn ra nguyên nhân, hoàng hậu có thể đoán được, còn thiếu nữ thì hẳn đã biết. Thingol tức giận vì câu đố này, ra lệnh cho Daeron nói thẳng xem ai đang ở trong khu rừng của ngài. Tuy nhiên, Daeron nhìn Lúthien rồi ngập ngừng, nhận ra nỗi ô nhục của mình và không nói thêm gì nữa.<sup id="cite_ref-c4_9-0" class="reference"><a href="#cite_note-c4-9">[9]</a></sup><sup id="cite_ref-llc_7-1" class="reference"><a href="#cite_note-llc-7">[7]</a></sup>
 
@@ -103,20 +103,20 @@ Lúthien liền lên tiếng và kể cho Thingol nghe về Beren, người đã
 <div class="floatright">
 <blockquote class="tg-quote noexcerpt">
 <div class="poem">
-<p>Silence then fell upon the hall;<br/>
-like graven stone there stood they all,<br/>
-save one who cast her eyes aground,<br/>
-and one who laughed with bitter sound.<br/>
-Dairon the piper leant there pale          <br/>
-against a pillar. His fingers frail<br/>
-there touched a flute that whispered not;<br/>
-his eyes were dark; his heart was hot.<br/>
-‘Death is the guerdon thou hast earned,<br/>
-O baseborn mortal, who hast learned          <br/>
-in Morgoth’s realm to spy and lurk<br/>
-like Orcs that do his evil work!’<br/>
-‘Death!’ echoed Dairon fierce and low,<br/>
-but Lúthien trembling gasped in woe.
+<p>Sự im lặng bao trùm hội trường;<br/>
+Tất cả bọn họ đều đứng đó như những phiến đá được khắc đá,<br/>
+cứu người bị mắc cạn,<br/>
+và một người cười cay đắng.<br/>
+Người thổi sáo Dairon nghiêng về đó nhợt nhạt          <br/>
+chống lại một cây cột. Những ngón tay anh yếu ớt<br/>
+có chạm vào sáo thì thầm không;<br/>
+mắt anh tối sầm; trái tim anh thật nóng bỏng.<br/>
+‘Cái chết là chiến công mà ngươi đã kiếm được,<br/>
+Hỡi phàm nhân hạ đẳng, người đã học được          <br/>
+trong vương quốc của Morgoth để do thám và ẩn nấp<br/>
+như Orc làm việc ác của hắn!’<br/>
+‘Chết đi!’ Dairon vang lên dữ dội và trầm thấp,<br/>
+nhưng Lúthien run rẩy thở hổn hển.
 </p>
 </div>
 <p class="tg-quote-footer"><cite>Daeron to Beren, &#34;<a href="../L/Lay_of_Leithian_Canto_IV.md" title="Lay of Leithian Canto IV">The Lay of Leithian</a>&#34;</cite></p>
@@ -180,8 +180,8 @@ Trong một bài bình luận và lịch sử về mối liên hệ giữa các 
 
 <b>2024: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
 
-<dl><dd><b>29 August: <i><a href="../W/Where_the_Stars_are_Strange.md" title="Where the Stars are Strange">Where the Stars are Strange</a></i>:</b></dd>
-<dd><a href="../C/Círdan.md" title="Círdan">Círdan</a> notes to <a href="../E/Elrond.md" title="Elrond">Elrond</a> that though Daeron was &#34;insufferable&#34;, he had &#34;a voice that could make <a href="../S/Sun.md" title="Sun">the very sun</a> weep tears of fire.&#34;</dd></dl>
+<dl><dd><b>Ngày 29 tháng 8: <i><a href="../W/Where_the_Stars_are_Strange.md" title="Where the Stars are Strange">Where the Stars are Strange</a></i>:</b></dd>
+<dd><a href="../C/Círdan.md" title="Círdan">Círdan</a> lưu ý với <a href="../E/Elrond.md" title="Elrond">Elrond</a> rằng mặc dù Daeron "không thể chịu nổi", nhưng ông có "giọng nói có thể khiến <a href="../S/Sun.md" title="Sun">chính mặt trời</a> khóc ra lửa."</dd></dl>
 
 <span></span>
 

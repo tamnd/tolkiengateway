@@ -23,13 +23,13 @@ images:
 
 [Ngày 15 tháng 12](../_/15_December.md) [1956](../_/1956.md) có bài viết "Thư viện Deddington Court Now" (tr. 1) với các phần trong bài phát biểu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tại lễ khai mạc thư viện vào [14 tháng 12](../_/14_December.md) [1956](../_/1956.md) (hơi khác so với các trích dẫn xuất hiện trong [*The Banbury Advertiser* ngày 19 tháng 12 năm 1956](../T/The_Banbury_Advertiser_19_December_1956.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-<dl><dd>See also: <i><a href="../T/The_Banbury_Advertiser_19_December_1956.md" title="The Banbury Advertiser 19 December 1956"><i>The Banbury Advertiser</i> 19 December 1956</a>, <a href="../L/Letter_to_Miss_Stanley-Smith_(22_November_1956).md" title="Letter to Miss Stanley-Smith (22 November 1956)">Letter to Miss Stanley-Smith (22 November 1956)</a> and <a href="../L/Letter_to_Miss_Stanley-Smith_(19_December_1956).md" title="Letter to Miss Stanley-Smith (19 December 1956)">Letter to Miss Stanley-Smith (19 December 1956)</a></i></dd></dl>
+<dl><dd>Xem thêm: <i><a href="../T/The_Banbury_Advertiser_19_December_1956.md" title="The Banbury Advertiser 19 December 1956"><i>The Banbury Advertiser</i> ngày 19 tháng 12 năm 1956</a>, <a href="../L/Letter_to_Miss_Stanley-Smith_(22_November_1956).md" title="Letter to Miss Stanley-Smith (22 November 1956)">Thư gửi cô Stanley-Smith (22 tháng 11 năm 1956)</a> và <a href="../L/Letter_to_Miss_Stanley-Smith_(19_December_1956).md" title="Letter to Miss Stanley-Smith (19 December 1956)">Thư gửi cô Stanley-Smith (19 tháng 12 năm 1956)</a></i></dd></dl>
 
 ### 1957 {#1957}
 
 [11 tháng Chín](../_/11_September.md) [1957](../_/1957.md) có bài viết "Ảo tưởng của năm" (tr. 4). Bài viết này tường thuật về buổi tiệc trưa trao giải Giả tưởng Quốc tế được tổ chức vào [10 tháng Chín](../_/10_September.md) [1957](../_/1957.md), bao gồm một đoạn trích ngắn gọn của Tolkien, những người đã tham dự và giành được giải thưởng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../T/The_Bookseller,_14_September_1957.md" title="The Bookseller, 14 September 1957">The Bookseller, 14 September 1957</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="../T/The_Bookseller,_14_September_1957.md" title="The Bookseller, 14 September 1957">Người bán sách, 14 tháng Chín 1957</a></div></div>
 
 ### 1966 {#1966}
 

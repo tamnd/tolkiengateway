@@ -15,7 +15,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the roguelike game</b>. For the fortress of <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a>, see <b><a href="Angband.md" title="Angband">Angband</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>trò chơi roguelike</b>. Về pháo đài <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a>, xem <b><a href="Angband.md" title="Angband">Angband</a></b>.</div></div>
 
 <i><b>Angband</b></i> là một trò chơi máy tính giống như trò chơi roguelike thu thập dữ liệu trong ngục tối có nguồn gốc từ *Umoria* (C cho cổng Unix của trò chơi có tên *[Moria](<../T/The_Dungeons_of_Moria_(video_game).md>)*). Nó dựa trên các bài viết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), trong đó [Angband](Angband.md) là pháo đài của [Morgoth](../M/Morgoth.md).
 

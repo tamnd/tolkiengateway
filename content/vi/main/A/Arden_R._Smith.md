@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Arden_R._Smith"
 content_sha256: 91e4316d798dcf3528c5285aa3b652f4602496206606bc63301b1dfcda04a45c
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Linguistic scholar"
+short_description: "Nhà ngôn ngữ học"
 categories:
   - "Authors"
   - "Linguists"

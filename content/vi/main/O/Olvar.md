@@ -14,7 +14,7 @@ images:
   - "Ted_Nasmith_-_Yavanna's_Mighty_Trees.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Yavanna&#39;s_Mighty_Trees.jpg.md"><img src="https://tolkiengateway.net/w/images/1/1c/Ted_Nasmith_-_Yavanna%27s_Mighty_Trees.jpg" decoding="async" loading="lazy" width="296" height="450" class="mw-file-element" data-file-width="296" data-file-height="450"/></a><figcaption><i>Yavanna&#39;s mighty trees</i> by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Yavanna&#39;s_Mighty_Trees.jpg.md"><img src="https://tolkiengateway.net/w/images/1/1c/Ted_Nasmith_-_Yavanna%27s_Mighty_Trees.jpg" decoding="async" loading="lazy" width="296" height="450" class="mw-file-element" data-file-width="296" data-file-height="450"/></a><figcaption><i>Yavanna&#39;s mighty trees</i> bởi <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
 **Olvar** là từ [Quenya](../Q/Quenya.md) chỉ các loại thực vật và đời sống thực vật được [Yavanna](../Y/Yavanna.md) chăm sóc. Không giống như *[kelvar](../K/Kelvar.md)*, chúng vô tri. [Cây](../T/Trees.md) là loại cây cao nhất trong tầng olvar.
 

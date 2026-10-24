@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Grelvish"
 content_sha256: 62c4b53107d830dcb5021f8651c9232ebba0c5dbb12b12026a9fd33f0eff1c41
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Constructed language for role-playing use loosely based on Tolkien"
+short_description: "Ngôn ngữ được xây dựng để nhập vai dựa trên Tolkien"
 categories:
   - "Fanon"
 hidden_categories:
@@ -20,7 +20,7 @@ hidden_categories:
 ## Nguồn gốc và tranh cãi {#Origin_and_controversy}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I don&#39;t know if I should cry or laugh when I read something like this, or if I should just look away.
+<p>Tôi không biết mình nên khóc hay cười khi đọc những điều như thế này, hay tôi chỉ nên nhìn đi nơi khác.
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Thorsten_Renk.md" title="Thorsten Renk">Thorsten Renk</a>, <a href="../E/Elfling.md" title="Elfling">Elfling</a> Message <a class="external text" href="https://tolkienlistsearch.herokuapp.com/message/5e9c35fc231bf7461a6c98c2" rel="noreferrer noopener" target="_blank">34930</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

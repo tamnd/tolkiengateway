@@ -53,7 +53,7 @@ Cung có hình dáng, kích thước và chất liệu rất đa dạng. Trong k
 
 ## Những cung thủ đáng chú ý {#Notable_bowmen}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Numenorean_steel-bows.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/42/Anke_Ei%C3%9Fmann_-_Numenorean_steel-bows.jpg/300px-Anke_Ei%C3%9Fmann_-_Numenorean_steel-bows.jpg" decoding="async" loading="lazy" width="300" height="421" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/42/Anke_Ei%C3%9Fmann_-_Numenorean_steel-bows.jpg/450px-Anke_Ei%C3%9Fmann_-_Numenorean_steel-bows.jpg 1.5x, https://tolkiengateway.net/w/images/4/42/Anke_Ei%C3%9Fmann_-_Numenorean_steel-bows.jpg 2x" data-file-width="510" data-file-height="716"/></a><figcaption><i>Númenórean steel-bows</i> by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Numenorean_steel-bows.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/42/Anke_Ei%C3%9Fmann_-_Numenorean_steel-bows.jpg/300px-Anke_Ei%C3%9Fmann_-_Numenorean_steel-bows.jpg" decoding="async" loading="lazy" width="300" height="421" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/42/Anke_Ei%C3%9Fmann_-_Numenorean_steel-bows.jpg/450px-Anke_Ei%C3%9Fmann_-_Numenorean_steel-bows.jpg 1.5x, https://tolkiengateway.net/w/images/4/42/Anke_Ei%C3%9Fmann_-_Numenorean_steel-bows.jpg 2x" data-file-width="510" data-file-height="716"/></a><figcaption><i>Númenórean steel-bows</i> của <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
 
 - [Duilin](<../D/Duilin_(elf_of_Gondolin).md>), một lãnh chúa của [Gondolin](../G/Gondolin.md), cùng với [House of the Swallow](../H/House_of_the_Swallow.md).
 - [Beleg Cúthalion](Beleg.md), người mang theo [Belthronding](Belthronding.md).
@@ -75,13 +75,13 @@ Dạng *cogn*, bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.m
 Có thể niềm say mê cung tên của Tolkien bắt nguồn từ những câu chuyện về người da đỏ:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Red Indians were better: there were bows and arrows (I had and have a wholly unsatisfied desire to shoot well with a bow)
+<p>Người da đỏ tốt hơn: có cung tên (tôi đã và đang hoàn toàn không thỏa mãn mong muốn được bắn giỏi bằng cung)
 </p>
 <p class="tg-quote-footer"><cite><a href="../O/On_Fairy-Stories.md" title="On Fairy-Stories">On Fairy-Stories</a></cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>But he [Tolkien] liked Red Indian stories and longed to shoot with a bow and arrow.
+<p>Nhưng ông [Tolkien] thích những câu chuyện của người da đỏ và khao khát được bắn bằng cung tên.
 </p>
 <p class="tg-quote-footer"><cite><a href="../H/Humphrey_Carpenter.md" title="Humphrey Carpenter">Humphrey Carpenter</a>, <i><a href="../J/J.R.R._Tolkien%253A_A_Biography.md" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a></i></cite></p>
 </blockquote>
@@ -92,15 +92,15 @@ Có thể niềm say mê cung tên của Tolkien bắt nguồn từ những câu
 
 <b><a href="../_/2001.md" title="2001">2001</a>-<a href="../_/2003.md" title="2003">2003</a>: <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a>:</b>
 
-<dl><dd>Bows, just like all weapons from the films, were designed during the pre-production by artists like <a href="../W/Warren_Mahy.md" title="Warren Mahy">Warren Mahy</a>, with aid from <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> and <a href="../J/John_Howe.md" title="John Howe">John Howe</a>. The majorty of them were hand-crafted by <a class="mw-redirect" href="../W/Weta_Workshop.md" title="Weta Workshop">Weta Workshop</a> employees.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Races seen using bows include Men, Elves and Orcs. In <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i>, the <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a> use <a href="../C/Cross-bows.md" title="Cross-bows">crossbows</a> in the beginning of the <a class="mw-redirect" href="Battle_of_Helm&#39;s_Deep.md" title="Battle of Helm&#39;s Deep">Battle of Helm&#39;s Deep</a> (non-canonical to orcs).<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></dd></dl>
+<dl><dd>Cung, giống như tất cả vũ khí trong phim, được thiết kế trong quá trình tiền sản xuất bởi các nghệ sĩ như <a href="../W/Warren_Mahy.md" title="Warren Mahy">Warren Mahy</a>, với sự hỗ trợ từ <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> và <a href="../J/John_Howe.md" title="John Howe">John Howe</a>. Phần lớn chúng được làm thủ công bởi các nhân viên của <a class="mw-redirect" href="../W/Weta_Workshop.md" title="Weta Workshop">Weta Workshop</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Các cuộc đua được thấy sử dụng cung bao gồm Con Người, Tiên tộc và Orc. Trong <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i>, <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a> sử dụng <a href="../C/Cross-bows.md" title="Cross-bows">nỏ</a> khi bắt đầu <a class="mw-redirect" href="Battle_of_Helm&#39;s_Deep.md" title="Battle of Helm&#39;s Deep">Trận Helm&#39;s Deep</a> (không chuẩn đối với lũ Orc).<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></dd></dl>
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Bows are available to player characters as handheld ranged weapons.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> There are also crossbows, less common.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></dd></dl>
+<dl><dd>Cung được cung cấp cho nhân vật của người chơi dưới dạng vũ khí tầm xa cầm tay.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> Ngoài ra còn có nỏ, ít phổ biến hơn.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></dd></dl>
 
 <b><a href="../_/2012.md" title="2012">2012</a>-<a href="../_/2014.md" title="2014">2014</a>: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a>:</b>
 
-<dl><dd>Bows, just like all weapons from the films, were designed during the pre-production by artists like <a href="../W/Warren_Mahy.md" title="Warren Mahy">Warren Mahy</a>, with aid from <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> and <a href="../J/John_Howe.md" title="John Howe">John Howe</a>. The majorty of them were hand-crafted by <a class="mw-redirect" href="../W/Weta_Workshop.md" title="Weta Workshop">Weta Workshop</a> employees.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> Races seen using bows include Men, Elves, Dwarves and Orcs.</dd></dl>
+<dl><dd>Cung, giống như tất cả vũ khí trong phim, được thiết kế trong quá trình tiền sản xuất bởi các nghệ sĩ như <a href="../W/Warren_Mahy.md" title="Warren Mahy">Warren Mahy</a>, với sự hỗ trợ từ <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> và <a href="../J/John_Howe.md" title="John Howe">John Howe</a>. Phần lớn chúng được làm thủ công bởi các nhân viên của <a class="mw-redirect" href="../W/Weta_Workshop.md" title="Weta Workshop">Weta Workshop</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> Các cuộc đua được thấy sử dụng cung bao gồm Con Người, Tiên tộc, Người Lùn và Orc.</dd></dl>
 
 ## Xem thêm {#See_also}
 

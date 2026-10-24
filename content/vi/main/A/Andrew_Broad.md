@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Andrew_Broad"
 content_sha256: ffc6b01080af539dc2cf24135324b91fc6d73b2b3ccc999fcbfda62e3d091065
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Software developer"
+short_description: "Nhà phát triển phần mềm"
 categories:
   - "Game designers"
   - "British people"

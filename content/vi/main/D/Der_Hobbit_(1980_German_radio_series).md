@@ -44,11 +44,11 @@ Bộ truyện bám sát cốt truyện của *[The Hobbit](../T/The_Hobbit.md)* 
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Role</th>
-<th>Actor
+<th>Vai trò</th>
+<th>Diễn viên
 </th></tr>
 <tr>
-<td>Narrator</td>
+<td>Người dẫn chuyện</td>
 <td>Martin Benrath
 </td></tr>
 <tr>
@@ -108,7 +108,7 @@ Bộ truyện bám sát cốt truyện của *[The Hobbit](../T/The_Hobbit.md)* 
 <td>Friedrich W. Bauschulle
 </td></tr>
 <tr>
-<td>Elves</td>
+<td>Tiên tộc</td>
 <td>Uta Hallant <br/> Lieselotte Rau
 </td></tr>
 <tr>
@@ -128,7 +128,7 @@ Bộ truyện bám sát cốt truyện của *[The Hobbit](../T/The_Hobbit.md)* 
 <td>Martin Hirthe
 </td></tr>
 <tr>
-<td><a href="../S/Spiders.md" title="Spiders">Mirkwood spiders</a></td>
+<td><a href="../S/Spiders.md" title="Spiders">Mirkwood nhện</a></td>
 <td>Uta Hallant <br/> Lieselotte Rau
 </td></tr>
 <tr>
@@ -140,7 +140,7 @@ Bộ truyện bám sát cốt truyện của *[The Hobbit](../T/The_Hobbit.md)* 
 <td>Heinz Theo Branding
 </td></tr>
 <tr>
-<td><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a></td>
+<td><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Chủ nhân Thị trấn Hồ</a></td>
 <td>Heinz Theo Branding
 </td></tr>
 <tr>
@@ -156,11 +156,11 @@ Bộ truyện bám sát cốt truyện của *[The Hobbit](../T/The_Hobbit.md)* 
 <td>Friedrich W. Bauschulle
 </td></tr>
 <tr>
-<td><a href="../C/Chief_of_the_guards.md" title="Chief of the guards">Elven commander</a></td>
+<td><a href="../C/Chief_of_the_guards.md" title="Chief of the guards">Tiên chỉ huy</a></td>
 <td>Rolf Schult
 </td></tr>
 <tr>
-<td><a href="../C/Captain_of_the_guard.md" title="Captain of the guard">A man</a></td>
+<td><a href="../C/Captain_of_the_guard.md" title="Captain of the guard">Một người đàn ông</a></td>
 <td>Heinz Theo Branding
 </td></tr></tbody></table>
 

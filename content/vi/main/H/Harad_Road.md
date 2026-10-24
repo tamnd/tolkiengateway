@@ -39,7 +39,7 @@ Con đường **Harad** là con đường dài nối [Ithilien](../I/Ithilien.md
 
 ## Lịch sử {#History}
 
-<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Minas-tirith.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/99/J.R.R._Tolkien_-_Minas-tirith.jpg/180px-J.R.R._Tolkien_-_Minas-tirith.jpg" decoding="async" loading="lazy" width="180" height="206" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/99/J.R.R._Tolkien_-_Minas-tirith.jpg/270px-J.R.R._Tolkien_-_Minas-tirith.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/99/J.R.R._Tolkien_-_Minas-tirith.jpg/360px-J.R.R._Tolkien_-_Minas-tirith.jpg 2x" data-file-width="2634" data-file-height="3011"/></a><figcaption><i>Map of part of Gondor</i> by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Minas-tirith.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/99/J.R.R._Tolkien_-_Minas-tirith.jpg/180px-J.R.R._Tolkien_-_Minas-tirith.jpg" decoding="async" loading="lazy" width="180" height="206" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/99/J.R.R._Tolkien_-_Minas-tirith.jpg/270px-J.R.R._Tolkien_-_Minas-tirith.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/99/J.R.R._Tolkien_-_Minas-tirith.jpg/360px-J.R.R._Tolkien_-_Minas-tirith.jpg 2x" data-file-width="2634" data-file-height="3011"/></a><figcaption><i>Map of part of Gondor</i> bởi <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
 
 Có thể Con đường được xây dựng hoặc sử dụng lần đầu tiên bởi [người Gondor](../G/Gondorians.md), vì [Gondor](../G/Gondor.md) đã mở rộng quyền lực về phía nam vào đầu [Kỷ Đệ Tam](../T/Third_Age.md).<sup id="cite_ref-guide_5-0" class="reference"><a href="#cite_note-guide-5">[4]</a></sup>
 
@@ -53,7 +53,7 @@ Phần cực nam của Con đường không rõ ràng,<sup id="cite_ref-General_
 
 <b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The road can be followed from the <a href="../C/Cross-roads.md" title="Cross-roads">Cross-roads</a> until the border of <a href="../S/South_Gondor.md" title="South Gondor">South Gondor</a>. There, the road is blocked by a <a href="Haradrim.md" title="Haradrim">haradrim</a> war-camp blocking the path, as Harondor is not present in the game.</dd></dl>
+<dl><dd>Con đường có thể đi từ <a href="../C/Cross-roads.md" title="Cross-roads">Ngã Tư</a> đến biên giới <a href="../S/South_Gondor.md" title="South Gondor">South Gondor</a>. Ở đó, con đường bị chặn bởi một trại chiến tranh <a href="Haradrim.md" title="Haradrim">haradrim</a> chặn đường đi, vì Harondor không có mặt trong trò chơi.</dd></dl>
 
 ## Ghi chú {#Notes}
 

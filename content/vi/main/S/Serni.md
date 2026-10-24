@@ -55,7 +55,7 @@ Trên [Bản đồ chung của Trung Địa](../G/General_Map_of_Middle-earth.md
 
 <b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The river Serni was found in Lower <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a> in the region of Central <a href="../G/Gondor.md" title="Gondor">Gondor</a>. As its name indicated, it was strewn with rocks. There were two fords, with the western one being south of the town of &#34;Malbarth&#34; and the eastern one south of &#34;Ost Anglebed&#34;. The Serni was the domain of the stern River-maid Grey-eye, one of the Five Sisters, though she and her sisters were widely considered a myth by the time of the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a>.</dd></dl>
+<dl><dd>Sông Serni được tìm thấy ở Lower <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a> thuộc khu vực miền Trung <a href="../G/Gondor.md" title="Gondor">Gondor</a>. Đúng như tên gọi của nó, nó được rải đầy đá. Có hai pháo đài, pháo đài phía tây ở phía nam thị trấn "Malbarth" và pháo đài phía đông ở phía nam "Ost Anglebed". Serni là lãnh địa của cô hầu sông Grey-eye nghiêm khắc, một trong Năm chị em, mặc dù cô và các chị gái của mình được nhiều người coi là huyền thoại vào thời <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a>.</dd></dl>
 
 <span></span>
 

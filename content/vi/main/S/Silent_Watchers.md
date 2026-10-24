@@ -21,7 +21,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the Watchers in Minas Morgul</b>. For the the Watchers at <a href="../C/Cirith_Ungol.md" title="Cirith Ungol">Cirith Ungol</a>, see <b><a href="../T/Two_Watchers.md" title="Two Watchers">Two Watchers</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>Người theo dõi trong Minas Morgul</b>. Đối với Người theo dõi tại <a href="../C/Cirith_Ungol.md" title="Cirith Ungol">Cirith Ungol</a>, hãy xem <b><a href="../T/Two_Watchers.md" title="Two Watchers">Hai Người theo dõi</a></b>.</div></div>
 
 **Những người theo dõi thầm lặng** là lính gác ở [Minas Morgul](../M/Minas_Morgul.md) với khả năng nhận biết chuyển động trên con đường dẫn đến và đi qua cổng Minas Morgul.
 

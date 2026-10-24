@@ -20,41 +20,41 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Music of the Ainur</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../A/Ainulindalë_(disambiguation).md" title="Ainulindalë (disambiguation)">Ainulindalë (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Âm nhạc của các Ainur</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../A/Ainulindalë_(disambiguation).md" title="Ainulindalë (disambiguation)">Ainulindalë (định hướng)</a></b>.</div></div>
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
-<p>Who told you, and who sent you?
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Nguồn</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần <b><a href="../../help/R/References.md" title="Help:References">nguồn</a></b> nhiều/mới/chi tiết hơn để tuân thủ tiêu chuẩn cao hơn và cung cấp bằng chứng cho những tuyên bố được đưa ra.<blockquote class="tg-quote noexcerpt">
+<p>Ai đã nói với bạn và ai đã gửi cho bạn?
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
 <table align="right" cellpadding="6" cellspacing="0" class="tginfobox floatright">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);" colspan="3"><a href="../H/History_of_Arda.md" title="History of Arda">History of Arda</a>
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);" colspan="3"><a href="../H/History_of_Arda.md" title="History of Arda">Lịch sử Arda</a>
 </th></tr>
 <tr>
-<td colspan="3"><b><a class="mw-selflink selflink">Music of the Ainur</a></b>
+<td colspan="3"><b><a class="mw-selflink selflink">Âm nhạc của các Ainur</a></b>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../T/Timeline.md" title="Timeline">Timeline of Arda</a></b>
-</td></tr>
-<tr>
-<td style="padding-top: 0em; padding-bottom: 0em;">
-</td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../D/Days_before_days.md" title="Days before days">Days before days</a>
+<td colspan="3"><b><a href="../T/Timeline.md" title="Timeline">Dòng thời gian Arda</a></b>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Years of the Trees</a>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../D/Days_before_days.md" title="Days before days">Những ngày trước thời đại</a>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Sun.md" title="Years of the Sun">Years of the Sun</a>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Thời đại Cây Hai Ngọn</a>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../A/Ages.md" title="Ages">Ages of the Children of Ilúvatar</a></b>
+<td style="padding-top: 0em; padding-bottom: 0em;">
+</td>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Sun.md" title="Years of the Sun">Những năm Mặt Trời</a>
+</td></tr>
+<tr>
+<td colspan="3"><b><a href="../A/Ages.md" title="Ages">Các Kỷ nguyên của Những Người Con của Ilúvatar</a></b>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
@@ -79,16 +79,16 @@ images:
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../L/Later_Ages.md" title="Later Ages">Later Ages</a> <small>(up to present day)</small>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../L/Later_Ages.md" title="Later Ages">Sau Kỷ nguyên</a> <small>(tính đến thời điểm hiện tại)</small>
 </td></tr>
 <tr>
 <td colspan="3"><b><a href="../D/Dagor_Dagorath.md" title="Dagor Dagorath">Dagor Dagorath</a></b>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Second Music of the Ainur</a></b>
+<td colspan="3"><b><a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Âm nhạc thứ hai của các Ainur</a></b>
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">See also: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Round World version of the legendarium</a></b>
+<td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">Xem thêm: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Truyền thuyết phiên bản Round World</a></b>
 </td></tr></tbody></table>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jef_Murray_-_Music_of_the_Ainur.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4d/Jef_Murray_-_Music_of_the_Ainur.jpg/250px-Jef_Murray_-_Music_of_the_Ainur.jpg" decoding="async" loading="lazy" width="250" height="159" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4d/Jef_Murray_-_Music_of_the_Ainur.jpg/375px-Jef_Murray_-_Music_of_the_Ainur.jpg 1.5x, https://tolkiengateway.net/w/images/4/4d/Jef_Murray_-_Music_of_the_Ainur.jpg 2x" data-file-width="500" data-file-height="317"/></a><figcaption><i>Music of the Ainur</i> by <a href="../J/Jef_Murray.md" title="Jef Murray">Jef Murray</a></figcaption></figure>
@@ -115,7 +115,7 @@ Chủ đề thứ hai "giống nhưng không giống" Chủ đề thứ nhất; 
 
 ### Chủ đề thứ ba {#The_Third_Theme}
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Melkor_Weaves_Opposing_Music.jpg.md"><img src="https://tolkiengateway.net/w/images/9/93/Ted_Nasmith_-_Melkor_Weaves_Opposing_Music.jpg" decoding="async" loading="lazy" width="296" height="450" class="mw-file-element" data-file-width="296" data-file-height="450"/></a><figcaption><i>Melkor weaves opposing Music</i> by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Melkor_Weaves_Opposing_Music.jpg.md"><img src="https://tolkiengateway.net/w/images/9/93/Ted_Nasmith_-_Melkor_Weaves_Opposing_Music.jpg" decoding="async" loading="lazy" width="296" height="450" class="mw-file-element" data-file-width="296" data-file-height="450"/></a><figcaption><i>Melkor weaves opposing Music</i> bởi <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
 Chủ đề tiếp theo có âm thanh không giống những chủ đề khác trước đó. Nó bắt đầu lặng lẽ giữa sự bối rối của Chủ đề thứ hai, và nghe như tiếng gợn sóng của những nốt nhạc mềm mại và ngọt ngào. Nó đạt được sức mạnh và chiều sâu theo thời gian cho đến khi hai bài hát hoàn toàn khác nhau được tạo ra. Một cái chứa đầy "nỗi buồn vô bờ bến", mang lại cho nó vẻ đẹp to lớn, trong khi cái còn lại là một chủ đề ồn ào, khoa trương đang đối lập dữ dội với nó. Tuy nhiên, chủ đề lặp đi lặp lại này không thể vượt qua chủ đề buồn bã, và chủ đề sau chỉ đơn thuần lấy những nốt nhạc hay nhất của chủ đề trước và "\[kết chúng\] thành khuôn mẫu trang trọng của riêng nó". Sự xung đột giữa hai chủ đề đã khiến nơi ở của Ilúvatar và thậm chí cả Hư Không bên ngoài nó rung chuyển. Lúc này, Eru đứng lên một lần nữa và giơ cả hai tay lên, "và trong một hợp âm, sâu hơn [Vực thẳm](../A/Abyss.md), cao hơn bầu trời... Âm nhạc đã dừng lại".
 
@@ -143,7 +143,7 @@ Ainur tuyên bố rằng tất cả [Con Người](Men.md) sẽ tham gia vào Â
 
 ### Cái *Ainulindalë* {#The_Ainulindalë}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../A/Ainulindalë_(Rúmil&#39;s_work).md" title="Ainulindalë (Rúmil&#39;s work)">Ainulindalë (Rúmil&#39;s work)</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../A/Ainulindalë_(Rúmil&#39;s_work).md" title="Ainulindalë (Rúmil&#39;s work)">Ainulindalë (Rúmil tác phẩm của)</a></b></div></div>
 
 Khi [Eldar](../E/Eldar.md) sống ở [Aman](../A/Aman.md), Valar đã kể cho họ nghe câu chuyện về Âm nhạc. Đó là một trong những câu chuyện đầu tiên Valar tặng cho Tiên tộc sau khi họ đến Aman; niềm tin truyền thống của Tiên tộc là chính [Manwë](Manwë.md) đã kể phần lớn điều đó cho họ. Vala phải tự mình đảm nhận nhiệm vụ quan trọng là dịch câu chuyện từ [ngôn ngữ của mình](../V/Valarin.md) sang [Quenya](../Q/Quenya.md) và, ngoài ra, diễn đạt câu chuyện dưới dạng mà Những Người Con của Ilúvatar có thể hiểu—do đó, hình ảnh Ainur chơi một bài hát hay có thể hoàn toàn mang tính ẩn dụ.
 
@@ -170,9 +170,9 @@ Trong số những điểm khác biệt là phản ứng của Eru trong Âm nh�
 <b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
 
 <dl><dd><b>2 September: <i><a href="../A/Adrift.md" title="Adrift">Adrift</a></i>:</b>
-<dl><dd>The opening title sequence of episodes two through eight was loosely based upon the <i><a href="../A/Ainulindalë.md" title="Ainulindalë">Ainulindalë</a></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl></dd>
+<dl><dd>Chuỗi tiêu đề mở đầu của các tập từ hai đến tám được dựa trên <i><a href="../A/Ainulindalë.md" title="Ainulindalë">Ainulindalë</a></i> một cách lỏng lẻo.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl></dd>
 <dd><b>13 October: <i><a href="../A/Alloyed.md" title="Alloyed">Alloyed</a></i>:</b>
-<dl><dd>When <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> asks <a href="../H/Halbrand.md" title="Halbrand">Halbrand</a> to tell her his true name, he refers to the <i>Ainulindalë</i> upon revealing that he has &#34;<i>been awake since before the <b>breaking of the first silence</b></i>&#34; and he has had many names since then, including <a href="../S/Sauron.md" title="Sauron">Sauron</a> and Halbrand.</dd></dl></dd></dl>
+<dl><dd>Khi <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> yêu cầu <a href="../H/Halbrand.md" title="Halbrand">Halbrand</a> nói cho cô biết tên thật của mình, ông đề cập đến <i>Ainulindalë</i> khi tiết lộ rằng ông đã "<i>tỉnh táo từ trước khi <b>phá vỡ sự im lặng đầu tiên</b></i>" và ông đã có nhiều cái tên kể từ đó, bao gồm cả <a href="../S/Sauron.md" title="Sauron">Sauron</a> và Halbrand.</dd></dl></dd></dl>
 
 ## Xem thêm {#See_also}
 
@@ -198,7 +198,7 @@ Trong số những điểm khác biệt là phản ứng của Eru trong Âm nh�
 <tr>
 <td align="right" style="background: var(--tg-color-surface-4); width: 110px; padding-right: 4px;" rowspan="2"><b><a href="../V/Valar.md" title="Valar">Valar</a></b>
 </td>
-<td align="right" style="background: var(--tg-color-surface-3); width: 60px; font-size: 95%; padding-right: 4px;"><b><a class="mw-redirect" href="../L/Lords_of_the_Valar.md" title="Lords of the Valar">Lords</a></b>
+<td align="right" style="background: var(--tg-color-surface-3); width: 60px; font-size: 95%; padding-right: 4px;"><b><a class="mw-redirect" href="../L/Lords_of_the_Valar.md" title="Lords of the Valar">Các chúa tể</a></b>
 </td>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="Manwë.md" title="Manwë">Manwë</a></i> · <i><a href="../U/Ulmo.md" title="Ulmo">Ulmo</a></i> · <i><a href="../A/Aulë.md" title="Aulë">Aulë</a></i> · <i><a href="../O/Oromë.md" title="Oromë">Oromë</a></i> · <i><a href="Mandos.md" title="Mandos">Mandos</a></i> · <a href="../I/Irmo.md" title="Irmo">Irmo</a> · <a href="../T/Tulkas.md" title="Tulkas">Tulkas</a> · <s><i><a href="Morgoth.md" title="Morgoth">Melkor</a></i></s>
 </td></tr>
@@ -218,7 +218,7 @@ Trong số những điểm khác biệt là phản ứng của Eru trong Âm nh�
 <td style="font-size: 90%; padding-left: 4px;"><a href="../S/Sauron.md" title="Sauron">Sauron</a> · <a href="../B/Balrogs.md" title="Balrogs">Balrogs</a> (<a href="../G/Gothmog_(balrog).md" title="Gothmog (balrog)">Gothmog</a> · <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a>) · <a href="../B/Boldog.md" title="Boldog">Boldogs</a> · <a href="../T/Thuringwethil.md" title="Thuringwethil">Thuringwethil</a> · <a href="../G/Gothrog.md" title="Gothrog">Gothrog</a>
 </td></tr>
 <tr>
-<td align="right" style="background: var(--tg-color-surface-4); width: 110px; padding-right: 4px;" rowspan="2"><b>Concepts and locations</b>
+<td align="right" style="background: var(--tg-color-surface-4); width: 110px; padding-right: 4px;" rowspan="2"><b>Khái niệm và địa điểm</b>
 </td>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Almaren.md" title="Almaren">Almaren</a> · <a href="../A/Aratar.md" title="Aratar">Aratar</a> (indicated in <i>italics</i>) · <a href="../C/Creation_of_the_Ainur.md" title="Creation of the Ainur">Creation of the Ainur</a> · <a href="../F/Fana.md" title="Fana">Fana</a> · <a href="Máhanaxar.md" title="Máhanaxar">Máhanaxar</a> · <a class="mw-selflink selflink">Ainulindalë</a> · <a class="mw-redirect" href="../O/Order_of_Wizards.md" title="Order of Wizards">Order of Wizards</a> (indicated in <b>bold</b>) · <a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Second Music of the Ainur</a> · <a href="../T/Timeless_Halls.md" title="Timeless Halls">Timeless Halls</a> · <a href="../V/Valarin.md" title="Valarin">Valarin</a> · <a href="../V/Valinor.md" title="Valinor">Valinor</a> · <a href="../V/Valimar.md" title="Valimar">Valimar</a>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Almaren.md" title="Almaren">Almaren</a> · <a href="../A/Aratar.md" title="Aratar">Aratar</a> (được chỉ định trong <i>italics</i>) · <a href="../C/Creation_of_the_Ainur.md" title="Creation of the Ainur">Sự tạo ra Ainur</a> · <a href="../F/Fana.md" title="Fana">Fana</a> · <a href="Máhanaxar.md" title="Máhanaxar">Máhanaxar</a> · <a class="mw-selflink selflink">Ainulindalë</a> · <a class="mw-redirect" href="../O/Order_of_Wizards.md" title="Order of Wizards">Thứ tự của Pháp sư</a> (được chỉ định trong <b>bold</b>) · <a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Kỷ Đệ Nhị Âm nhạc của các Ainur</a> · <a href="../T/Timeless_Halls.md" title="Timeless Halls">Hội trường vượt thời gian</a> · <a href="../V/Valarin.md" title="Valarin">Valarin</a> · <a href="../V/Valinor.md" title="Valinor">Valinor</a> · <a href="../V/Valimar.md" title="Valimar">Valimar</a>
 </td></tr></tbody></table>

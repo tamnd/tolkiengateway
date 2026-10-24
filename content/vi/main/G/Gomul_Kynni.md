@@ -22,27 +22,27 @@ categories:
 Hin gömlu kynni gleymast ei,<br/>
 enn gloir vin a skal!<br/>
 Hin gömlu kynni gleymast el<br/>
-ne gömul trygðamal.<br/>
+ne gömul cố gắnggðamal.<br/>
 <br/>
        o, goða, gamla tið<br/>
-       með gull i mund!<br/>
+       tôi gull tôi mund!<br/>
        Nu fyllum, broðir, bikarinn<br/>
-       og blessum liðna stund.<br/>
+       og chúc phúc cho liðna stund.<br/>
 <br/>
-Við leiddumst fyr um laut og hol,<br/>
-er loan söng i mo;<br/>
+Vì vậy, bạn có thể làm điều đó với tôi,<br/>
+er loan song i mo;<br/>
 eu draumar svifu, söngur hvarf<br/>
-ur Silfrastaða skog.<br/>
+bạn ở Silfrastaða skog.<br/>
 <br/>
 Við oðum saman straum og streng<br/>
-og stoðumst bylgjufall;<br/>
+và tình huống bất ngờ xảy ra;<br/>
 en seinna hafrot mæðu og meins<br/>
-a millum okkar svall.<br/>
+một triệu okkar svall.<br/>
 <br/>
-Þott sortnað hafi sol og lund,<br/>
-eg syng und laufgum hlyn<br/>
-og retti mund um hafið halft<br/>
-og heilsa gömlum vin. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+Þott Sortnað hafi sol og lund,<br/>
+ví dụ như syng und laufgum hlyn<br/>
+og retti mund um hafið Halft<br/>
+và heilsa gömlum vin. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 </p>
 </div>
 

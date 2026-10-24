@@ -23,28 +23,28 @@ images:
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin-left:15px; border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background-color:var(--tg-color-surface-5);border-top-right-radius:var(--tg-border-radius-large);border-top-left-radius:var(--tg-border-radius-large);padding:10px"><i><a href="The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i> chapters
+<th style="background-color:var(--tg-color-surface-5);border-top-right-radius:var(--tg-border-radius-large);border-top-left-radius:var(--tg-border-radius-large);padding:10px"><i><a href="The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i> chương
 </th></tr>
 <tr>
 <td>
-<ol><li><a href="The_Childhood_of_Túrin.md" title="The Childhood of Túrin">The Childhood of Túrin</a></li>
-<li><a href="The_Battle_of_Unnumbered_Tears.md" title="The Battle of Unnumbered Tears">The Battle of Unnumbered Tears</a></li>
-<li><a href="The_Words_of_Húrin_and_Morgoth.md" title="The Words of Húrin and Morgoth">The Words of Húrin and Morgoth</a></li>
-<li><a href="The_Departure_of_Túrin.md" title="The Departure of Túrin">The Departure of Túrin</a></li>
+<ol><li><a href="The_Childhood_of_Túrin.md" title="The Childhood of Túrin">Tuổi thơ của Túrin</a></li>
+<li><a href="The_Battle_of_Unnumbered_Tears.md" title="The Battle of Unnumbered Tears">Trận chiến Nước mắt Vô vàn</a></li>
+<li><a href="The_Words_of_Húrin_and_Morgoth.md" title="The Words of Húrin and Morgoth">Lời của Húrin và Morgoth</a></li>
+<li><a href="The_Departure_of_Túrin.md" title="The Departure of Túrin">Sự ra đi của Túrin</a></li>
 <li><a href="Túrin_in_Doriath.md" title="Túrin in Doriath">Túrin in Doriath</a></li>
-<li><a href="Túrin_among_the_Outlaws.md" title="Túrin among the Outlaws">Túrin among the Outlaws</a></li>
-<li><a href="../O/Of_Mîm_the_Dwarf.md" title="Of Mîm the Dwarf">Of Mîm the Dwarf</a></li>
-<li><a href="The_Land_of_Bow_and_Helm.md" title="The Land of Bow and Helm">The Land of Bow and Helm</a></li>
-<li><a class="mw-selflink selflink">The Death of Beleg</a></li>
+<li><a href="Túrin_among_the_Outlaws.md" title="Túrin among the Outlaws">Túrin giữa những kẻ ngoài vòng pháp luật</a></li>
+<li><a href="../O/Of_Mîm_the_Dwarf.md" title="Of Mîm the Dwarf">Về Mîm, Người Lùn</a></li>
+<li><a href="The_Land_of_Bow_and_Helm.md" title="The Land of Bow and Helm">Vùng đất của Bow và Helm</a></li>
+<li><a class="mw-selflink selflink">Cái chết của Beleg</a></li>
 <li><a href="Túrin_in_Nargothrond.md" title="Túrin in Nargothrond">Túrin in Nargothrond</a></li>
-<li><a href="The_Fall_of_Nargothrond.md" title="The Fall of Nargothrond">The Fall of Nargothrond</a></li>
-<li><a href="The_Return_of_Túrin_to_Dor-lómin.md" title="The Return of Túrin to Dor-lómin">The Return of Túrin to Dor-lómin</a></li>
-<li><a href="The_Coming_of_Túrin_into_Brethil.md" title="The Coming of Túrin into Brethil">The Coming of Túrin into Brethil</a></li>
-<li><a href="The_Journey_of_Morwen_and_Niënor_to_Nargothrond.md" title="The Journey of Morwen and Niënor to Nargothrond">The Journey of Morwen and Niënor</a></li>
+<li><a href="The_Fall_of_Nargothrond.md" title="The Fall of Nargothrond">Sự sụp đổ của Nargothrond</a></li>
+<li><a href="The_Return_of_Túrin_to_Dor-lómin.md" title="The Return of Túrin to Dor-lómin">Túrin trở về Dor-lómin</a></li>
+<li><a href="The_Coming_of_Túrin_into_Brethil.md" title="The Coming of Túrin into Brethil">Túrin đến Brethil</a></li>
+<li><a href="The_Journey_of_Morwen_and_Niënor_to_Nargothrond.md" title="The Journey of Morwen and Niënor to Nargothrond">Hành trình của Morwen và Niënor</a></li>
 <li><a href="../N/Niënor_in_Brethil.md" title="Niënor in Brethil">Niënor in Brethil</a></li>
-<li><a href="The_Coming_of_Glaurung.md" title="The Coming of Glaurung">The Coming of Glaurung</a></li>
-<li><a href="The_Death_of_Glaurung.md" title="The Death of Glaurung">The Death of Glaurung</a></li>
-<li><a href="The_Death_of_Túrin.md" title="The Death of Túrin">The Death of Túrin</a></li></ol>
+<li><a href="The_Coming_of_Glaurung.md" title="The Coming of Glaurung">Sự xuất hiện của Glaurung</a></li>
+<li><a href="The_Death_of_Glaurung.md" title="The Death of Glaurung">Cái chết của Glaurung</a></li>
+<li><a href="The_Death_of_Túrin.md" title="The Death of Túrin">Cái chết của Túrin</a></li></ol>
 </td></tr></tbody></table>
 
 **Cái chết của Beleg** là chương thứ chín của *[The Children of Húrin](The_Children_of_Húrin.md)*.
@@ -53,7 +53,7 @@ images:
 
 Khi [Beleg](../B/Beleg.md) không thể tìm thấy thi thể của [Túrin](Túrin.md) giữa những người ngã xuống trên đỉnh [Amon Rûdh](../A/Amon_Rûdh.md), anh biết [lũ orc](../O/Orcs.md) của [Morgoth](../M/Morgoth.md) đã bắt anh; vì vậy sau khi được chữa lành, ông đã bám sát gót kẻ thù và theo dấu vết của chúng về phía bắc vượt ra ngoài [Brithiach](../B/Brithiach.md).
 
-<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_Beleg_Searching_for_Turin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/05/Alan_Lee_-_Beleg_Searching_for_Turin.jpg/200px-Alan_Lee_-_Beleg_Searching_for_Turin.jpg" decoding="async" loading="lazy" width="200" height="104" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/05/Alan_Lee_-_Beleg_Searching_for_Turin.jpg/300px-Alan_Lee_-_Beleg_Searching_for_Turin.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/05/Alan_Lee_-_Beleg_Searching_for_Turin.jpg/400px-Alan_Lee_-_Beleg_Searching_for_Turin.jpg 2x" data-file-width="703" data-file-height="365"/></a><figcaption><i>Beleg searching for Túrin</i> by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_Beleg_Searching_for_Turin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/05/Alan_Lee_-_Beleg_Searching_for_Turin.jpg/200px-Alan_Lee_-_Beleg_Searching_for_Turin.jpg" decoding="async" loading="lazy" width="200" height="104" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/05/Alan_Lee_-_Beleg_Searching_for_Turin.jpg/300px-Alan_Lee_-_Beleg_Searching_for_Turin.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/05/Alan_Lee_-_Beleg_Searching_for_Turin.jpg/400px-Alan_Lee_-_Beleg_Searching_for_Turin.jpg 2x" data-file-width="703" data-file-height="365"/></a><figcaption><i>Beleg searching for Túrin</i> của <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
 
 Ở đỉnh cao của [Taur-nu-Fuin](<Taur-nu-Fuin_(Dorthonion).md>) và [Vượt qua của Anach](../P/Pass_of_Anach.md), ông đã bắt gặp hình dạng thu nhỏ của một [Tiên](../E/Elves.md). [Gwindor](../G/Gwindor.md) chính là người vừa mới thoát khỏi hầm mỏ tà ác của [Angband](../A/Angband.md) – chính Tiên đã chiến đấu trong [Trận chiến nước mắt không đếm được](../N/Nirnaeth_Arnoediad.md) và đã bị bắt ngay trước cửa Morgoth.
 

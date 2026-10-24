@@ -15,7 +15,7 @@ images:
   - "Book_of_the_Foxrook_manuscript_page.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Book_of_the_Foxrook_manuscript_page.jpg.md"><img src="https://tolkiengateway.net/w/images/3/36/Book_of_the_Foxrook_manuscript_page.jpg" decoding="async" loading="lazy" width="300" height="449" class="mw-file-element" data-file-width="300" data-file-height="449"/></a><figcaption>A manuscript page from the Book of the Foxrook.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Book_of_the_Foxrook_manuscript_page.jpg.md"><img src="https://tolkiengateway.net/w/images/3/36/Book_of_the_Foxrook_manuscript_page.jpg" decoding="async" loading="lazy" width="300" height="449" class="mw-file-element" data-file-width="300" data-file-height="449"/></a><figcaption>Một trang bản thảo từ Sách của Foxrook.</figcaption></figure>
 
 **Sách của Foxrook** là bản thảo của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), có thể được sáng tác vào khoảng [ngày 10 tháng 6](../_/10_June.md) [1909](../_/1909.md) (ngày này đã được thêm vào trang tiêu đề).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

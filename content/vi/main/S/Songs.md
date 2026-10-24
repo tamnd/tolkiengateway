@@ -30,7 +30,7 @@ categories:
 - [Bài hát trong rừng](../O/O!_Wanderers_in_the_Shadowed_Land~44033.md) - *Dòng đầu tiên: O! Kẻ lang thang trong vùng đất bóng tối*
 Các bài hát của - [Tom Bombadil](../H/Hey_dol!_merry_dol!_ring_a_dong_dillo!.md) - *Dòng đầu tiên: Này dol! vui vẻ nhé con cá heo! gọi một đồng dillo*
 
-<dl><dd>note- as in <a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a> songs index, all <a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a>&#39;s songs are treated as a continuation of the first one</dd></dl>
+<dl><dd>lưu ý- như trong chỉ mục bài hát <a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a>, tất cả các bài hát của <a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a> được coi là phần tiếp theo của bài hát đầu tiên</dd></dl>
 
 - [Sự sụp đổ của Gil-galad](../T/The_Fall_of_Gil-galad.md) - *First Line: Gil-galad was an Elven-king*
 - [Bài hát Beren and Lúthien](Song_of_Beren_and_Lúthien.md) - *Dòng đầu tiên: Lá dài, cỏ xanh*

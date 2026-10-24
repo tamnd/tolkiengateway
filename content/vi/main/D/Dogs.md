@@ -49,7 +49,7 @@ Trong [Gnomish](../G/Gnomish.md), dạng sơ kỳ của Noldorin, “chó” cũ
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Dogs are found throughout Middle-earth, especially in the Shire. Lore-masters can also have a non-combat dog pet.</dd></dl>
+<dl><dd>Chó được tìm thấy khắp Trung Địa, đặc biệt là ở Shire. Bậc thầy truyền thuyết cũng có thể nuôi một con chó cưng không chiến đấu.</dd></dl>
 
 ## Xem thêm {#See_also}
 

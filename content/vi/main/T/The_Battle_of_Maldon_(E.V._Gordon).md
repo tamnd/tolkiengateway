@@ -39,9 +39,9 @@ infobox:
     value: "Methuen's Old English Library"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the edition by E.V. Gordon</b>. For the translation by J.R.R. Tolkien, see <i><b><a href="The_Battle_of_Maldon%253A_together_with_The_Homecoming_of_Beorhtnoth.md" title="The Battle of Maldon: together with The Homecoming of Beorhtnoth">The Battle of Maldon</a></b></i>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>ấn bản của E.V. Gordon</b>. Đối với bản dịch của J.R.R. Tolkien, xem <i><b><a href="The_Battle_of_Maldon%253A_together_with_The_Homecoming_of_Beorhtnoth.md" title="The Battle of Maldon: together with The Homecoming of Beorhtnoth">The Battle of Maldon</a></b></i>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Battle_of_Maldon_1937.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a1/The_Battle_of_Maldon_1937.jpg/315px-The_Battle_of_Maldon_1937.jpg" decoding="async" loading="lazy" width="315" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a1/The_Battle_of_Maldon_1937.jpg/473px-The_Battle_of_Maldon_1937.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a1/The_Battle_of_Maldon_1937.jpg/631px-The_Battle_of_Maldon_1937.jpg 2x" data-file-width="657" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Battle of Maldon</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../E/E.V._Gordon.md" title="E.V. Gordon">E.V. Gordon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Methuen, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/10_June.md" title="10 June">10 June</a> <a href="../_/1937.md" title="1937">1937</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">96</td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data">Methuen&#39;s Old English Library</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Battle_of_Maldon_1937.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a1/The_Battle_of_Maldon_1937.jpg/315px-The_Battle_of_Maldon_1937.jpg" decoding="async" loading="lazy" width="315" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a1/The_Battle_of_Maldon_1937.jpg/473px-The_Battle_of_Maldon_1937.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a1/The_Battle_of_Maldon_1937.jpg/631px-The_Battle_of_Maldon_1937.jpg 2x" data-file-width="657" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Battle of Maldon</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên</th><td class="tg-infobox-data"><a href="../E/E.V._Gordon.md" title="E.V. Gordon">E.V. Gordon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Methuen, London</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/10_June.md" title="10 June">10 June</a> <a href="../_/1937.md" title="1937">1937</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Bìa cứng; bìa mềm</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">96</td></tr><tr><th scope="row" class="tg-infobox-label">Loạt tác phẩm</th><td class="tg-infobox-data">Methuen&#39;s Old English Library</td></tr></tbody></table>
 
 <i><b>Trận chiến Maldon</b></i> là ấn bản của bài thơ [tiếng Anh cổ](../O/Old_English.md) <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Battle_of_Maldon" title="wikipedia:The Battle of Maldon">Trận chiến Maldon</a></i>, do [E.V. Gordon](../E/E.V._Gordon.md) biên tập. Nó được xuất bản lần đầu tiên trong [1937](../_/1937.md).
 
@@ -52,7 +52,7 @@ Bản dịch văn xuôi của bài thơ J.R.R.Tolkien, đã được xuất bả
 ## Từ nắp trong {#From_the_inside_flap}
 
 <blockquote class="tg-quote noexcerpt">
-<p>This is the first edition of <i>The Battle of Maldon</i> to be taken from the transcript of John Elphinston, which has only recently been identified. The misreadings in Hearne&#39;s print, from which all previous editions have been taken, are here eliminated, and an attempt has been made to provide historical background and a literary evaluation of the poem. The broken text and over punctuation of most Old English poems have also been avoided by the editor, and the lines are printed in one, with no extra spacing. The text contains one photograph and a map of the battlefield.
+<p>Đây là ấn bản đầu tiên của <i>The Battle of Maldon</i> được lấy từ bản ghi chép của John Elphinston, bản ghi này mới được xác định gần đây. Những lỗi đọc sai trong bản in của Hearne, vốn được lấy từ tất cả các ấn bản trước đó, đã được loại bỏ ở đây, và người ta đã cố gắng cung cấp bối cảnh lịch sử và đánh giá văn học về bài thơ. Phần lớn các bài thơ tiếng Anh cổ đều bị ngắt quãng, thừa dấu câu, được người biên tập tránh, in thành một dòng, không có khoảng cách. Văn bản có một bức ảnh và bản đồ chiến trường.
 </p>
 </blockquote>
 
@@ -62,21 +62,21 @@ Bản dịch văn xuôi của bài thơ J.R.R.Tolkien, đã được xuất bả
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Battle_of_Maldon_1937.jpg.md" title="1937 first edition"><img alt="1937 first edition" src="https://tolkiengateway.net/w/images/thumb/a/a1/The_Battle_of_Maldon_1937.jpg/82px-The_Battle_of_Maldon_1937.jpg" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a1/The_Battle_of_Maldon_1937.jpg/123px-The_Battle_of_Maldon_1937.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a1/The_Battle_of_Maldon_1937.jpg/164px-The_Battle_of_Maldon_1937.jpg 2x" data-file-width="657" data-file-height="1000"/></a></span></div>
 			<div class="gallerytext">
-<p>1937 first edition
+<p>Ấn bản đầu tiên năm 1937
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Battle_of_Maldon_1963.png.md" title="1963 first edition 5th impression"><img alt="1963 first edition 5th impression" src="https://tolkiengateway.net/w/images/thumb/1/18/The_Battle_of_Maldon_1963.png/81px-The_Battle_of_Maldon_1963.png" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/18/The_Battle_of_Maldon_1963.png/122px-The_Battle_of_Maldon_1963.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/18/The_Battle_of_Maldon_1963.png/162px-The_Battle_of_Maldon_1963.png 2x" data-file-width="895" data-file-height="1382"/></a></span></div>
 			<div class="gallerytext">
-<p>1963 first edition 5th impression
+<p>Ấn bản lần thứ 5 năm 1963
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Battle_of_Maldon_1968.jpg.md" title="1968 first edition 7th impression"><img alt="1968 first edition 7th impression" src="https://tolkiengateway.net/w/images/thumb/a/a3/The_Battle_of_Maldon_1968.jpg/78px-The_Battle_of_Maldon_1968.jpg" decoding="async" loading="lazy" width="78" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a3/The_Battle_of_Maldon_1968.jpg/118px-The_Battle_of_Maldon_1968.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a3/The_Battle_of_Maldon_1968.jpg/157px-The_Battle_of_Maldon_1968.jpg 2x" data-file-width="402" data-file-height="639"/></a></span></div>
 			<div class="gallerytext">
-<p>1968 first edition 7th impression
+<p>Ấn bản lần thứ 7 năm 1968
 </p>
 			</div>
 		</li>
@@ -102,14 +102,14 @@ Bản dịch văn xuôi của bài thơ J.R.R.Tolkien, đã được xuất bả
 <td align="center" style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../S/Sir_Gawain_and_the_Green_Knight_(edition).md" title="Sir Gawain and the Green Knight (edition)">Sir Gawain and the Green Knight</a></i>
 </td></tr>
 <tr>
-<th align="center" style="font-size: 90%; background: var(--tg-color-surface-4); padding-right: 4px;" rowspan="3">With Tolkien&#39;s involvement
+<th align="center" style="font-size: 90%; background: var(--tg-color-surface-4); padding-right: 4px;" rowspan="3">Với sự tham gia của Tolkien
 </th>
-<th align="center" style="font-size: 90%; background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;" width="130px">Published during his lifetime
+<th align="center" style="font-size: 90%; background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;" width="130px">Xuất bản trong suốt cuộc đời của ông
 </th>
 <td align="center" style="font-size: 90%; padding-left: 4px;"><i><a href="../A/An_Introduction_to_Old_Norse.md" title="An Introduction to Old Norse">An Introduction to Old Norse</a></i> ·<br/><i><a class="mw-selflink selflink">The Battle of Maldon</a></i>
 </td></tr>
 <tr>
-<th align="center" style="font-size: 90%; background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Published posthumously
+<th align="center" style="font-size: 90%; background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Được xuất bản sau khi chết
 </th>
 <td align="center" style="font-size: 90%; padding-left: 4px;"><i><a href="../P/Pearl_(E.V._Gordon).md" title="Pearl (E.V. Gordon)">Pearl</a></i> · <i><a href="The_Seafarer_(I.L._Gordon).md" title="The Seafarer (I.L. Gordon)">The Seafarer</a></i>
 </td></tr></tbody></table>

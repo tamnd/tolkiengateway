@@ -15,7 +15,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 **Sứ giả của [Valar](../V/Valar.md)** là một nhóm người đến đảo [Númenor](../N/Númenor.md) từ [Phương Tây](../A/Aman.md) ở giữa [Kỷ Đệ Nhị](../S/Second_Age.md). Họ xuất hiện dưới triều đại của [Tar-Atanamir](../T/Tar-Atanamir.md), [Vua](../K/King_of_Númenor.md) thứ mười ba. Tar-Atanamir cai trị trong thời kỳ có nhiều biến động ở Númenor; ông ta và hầu hết người của ông ta đã bắt đầu đặt câu hỏi về công lý của trạng thái phàm trần của họ và [Lệnh cấm của Valar](../B/Ban_of_the_Valar.md).

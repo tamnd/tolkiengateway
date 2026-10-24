@@ -32,7 +32,7 @@ Vào sáng [30 tháng Chín](../_/30_September.md) [T.A.](../T/Third_Age.md) [30
 
 <b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
 
-<dl><dd>Silver pennies are collected throughout the PC and console versions, and Bilbo can use them to purchase items between levels at the vendor.</dd></dl>
+<dl><dd>Đồng xu bạc được thu thập trên khắp các phiên bản PC và console và Bilbo có thể sử dụng chúng để mua vật phẩm giữa các cấp độ tại nhà cung cấp.</dd></dl>
 
 <span></span>
 

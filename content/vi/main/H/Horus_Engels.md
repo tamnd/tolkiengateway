@@ -27,7 +27,7 @@ images:
   - "German_Hobbit-Cover.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/German_Hobbit-Cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ea/German_Hobbit-Cover.jpg/220px-German_Hobbit-Cover.jpg" decoding="async" loading="lazy" width="220" height="338" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ea/German_Hobbit-Cover.jpg/330px-German_Hobbit-Cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ea/German_Hobbit-Cover.jpg/440px-German_Hobbit-Cover.jpg 2x" data-file-width="482" data-file-height="741"/></a><figcaption>Engels&#39; cover for the first German <i>Hobbit</i>-Edition, 1957</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/German_Hobbit-Cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ea/German_Hobbit-Cover.jpg/220px-German_Hobbit-Cover.jpg" decoding="async" loading="lazy" width="220" height="338" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ea/German_Hobbit-Cover.jpg/330px-German_Hobbit-Cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ea/German_Hobbit-Cover.jpg/440px-German_Hobbit-Cover.jpg 2x" data-file-width="482" data-file-height="741"/></a><figcaption>Bìa của Engels cho ấn bản <i>Hobbit</i> tiếng Đức đầu tiên, 1957</figcaption></figure>
 
 **Richard "Horus" Engels** ([1914](../_/1914.md)- [1991](../_/1991.md)) là một họa sĩ, nhà điêu khắc và họa sĩ minh họa người Đức.
 

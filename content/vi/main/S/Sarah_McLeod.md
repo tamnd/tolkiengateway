@@ -36,7 +36,7 @@ infobox:
     value: "Profile"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Sarah McLeod</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/18_July.md" title="18 July">18 July</a> <a href="../_/1971.md" title="1971">1971</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../R/Rose_Cotton.md" title="Rose Cotton">Rosie Cotton</a> in:<br/><i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i><br/><i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0572867/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Sarah McLeod</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh–mất</th><td class="tg-infobox-data"><a href="../_/18_July.md" title="18 July">18 July</a> <a href="../_/1971.md" title="1971">1971</a></td></tr><tr><th scope="row" class="tg-infobox-label">Do ... thủ vai</th><td class="tg-infobox-data"><a href="../R/Rose_Cotton.md" title="Rose Cotton">Rosie Cotton</a> in:<br/><i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i><br/><i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0572867/" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
 
 **Sarah McLeod** (b. [18 tháng 7](../_/18_July.md), [1971](../_/1971.md)) là nữ diễn viên New Zealand đóng vai [Rose Cotton](../R/Rose_Cotton.md) trong [*The Lord of the Rings* loạt phim](<../T/The_Lord_of_the_Rings_(film_series).md>).
 
@@ -45,7 +45,7 @@ Vào tháng 6 [2007](../_/2007.md), cô và 14 diễn viên khác đã đệ đ�
 ## Trích dẫn {#Quotes}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I was up at 5 am every morning getting my feet put on. You don&#39;t see my feet at all in the first film, but you may see them more in the third film. I had the most amazing wig, it was beautiful, and it was made from real hair.
+<p>Tôi thức dậy lúc 5 giờ sáng mỗi ngày để xỏ chân vào. Bạn hoàn toàn không nhìn thấy bàn chân của tôi trong phần phim đầu tiên, nhưng bạn có thể thấy chúng nhiều hơn trong phần phim thứ ba. Tôi có bộ tóc giả tuyệt vời nhất, nó rất đẹp và được làm từ tóc thật.
 </p>
 <p class="tg-quote-footer"><cite>Sarah McLeod, theonering.net</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

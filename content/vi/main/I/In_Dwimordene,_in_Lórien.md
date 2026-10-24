@@ -16,7 +16,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 **In Dwimordene, in Lórien** được [Gandalf](../G/Gandalf.md) hát trong [Meduseld](../M/Meduseld.md) vào ngày [2 tháng 3](../_/2_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> như một câu trả lời cho tuyên bố xúc phạm của [Gríma Wormtongue](../G/Gríma.md) rằng "các mạng lưới lừa dối đã từng được dệt bằng [Dwimordene](../D/Dwimordene.md)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
@@ -24,16 +24,16 @@ images:
 ## Bài hát {#Song}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>In Dwimordene, in Lórien<br/>
-Seldom have walked the feet of Men,<br/>
-Few mortal eyes have seen the light<br/>
-That lies there ever, long and bright.<br/>
+<p>Ở Dwimordene, ở Lórien<br/>
+Ít khi bước chân Con Người,<br/>
+Rất ít con mắt phàm trần đã nhìn thấy ánh sáng<br/>
+Nó vẫn nằm đó, dài và sáng.<br/>
 Galadriel! Galadriel!<br/>
-Clear is the water of your well;<br/>
-White is the star in your white hand;<br/>
-Unmarred, unstained is leaf and land<br/>
-In Dwimordene, in Lórien<br/>
-More fair than thoughts of Mortal Men.
+Nước giếng của bạn trong vắt;<br/>
+Màu trắng là ngôi sao trong bàn tay trắng của bạn;<br/>
+Không hoen ố, không tì vết là lá và đất<br/>
+Ở Dwimordene, ở Lórien<br/>
+Công bằng hơn suy nghĩ của Mortal Con Người.
 </p>
 </div>
 

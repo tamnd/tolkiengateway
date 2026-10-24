@@ -17,37 +17,37 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>The bearer of the ring, the wearer of the ring<br/>
-Stands on the very brink of fate;<br/>
-Staring into eyes of darkness and despair<br/>
-That rise and shrink with hate.<br/>
+<p>Người mang chiếc nhẫn, người đeo chiếc nhẫn<br/>
+Đứng trước bờ vực của số phận;<br/>
+Nhìn vào đôi mắt tối tăm và tuyệt vọng<br/>
+Nó trỗi dậy và thu nhỏ lại với sự căm ghét.<br/>
 <br/>
-The bearer of the ring, the wearer of the ring,<br/>
-He hears a voice compelling him;<br/>
-Filling him with thoughts that echo in his mind.<br/>
-It should be telling him:<br/>
+Người mang chiếc nhẫn, người đeo chiếc nhẫn,<br/>
+Anh nghe thấy một giọng nói thuyết phục mình;<br/>
+Đổ đầy anh những suy nghĩ vang vọng trong tâm trí anh.<br/>
+Đáng lẽ phải nói với ông rằng:<br/>
 <br/>
-“Beware, the power is a power never known.<br/>
-Beware, the power that was simple now has grown.<br/>
-Beware, O bearer of the ring,<br/>
-The final power has yet to be shown!”<br/>
+“Hãy coi chừng, sức mạnh là thứ sức mạnh chưa từng được biết đến.<br/>
+Hãy cẩn thận, sức mạnh vốn đơn giản giờ đã tăng lên.<br/>
+Hãy cẩn thận, hỡi người mang chiếc nhẫn,<br/>
+Sức mạnh cuối cùng vẫn chưa được thể hiện!”<br/>
 <br/>
-The bearer of the ring, the wearer of the ring,<br/>
-Through forces tempting to resist,<br/>
-Must recall the quest to end this darkest age<br/>
-That mortal death has kissed.<br/>
+Người mang chiếc nhẫn, người đeo chiếc nhẫn,<br/>
+Qua những thế lực cám dỗ chống cự,<br/>
+Phải nhớ lại nhiệm vụ kết thúc thời đại đen tối nhất này<br/>
+Tử thần đó đã hôn.<br/>
 <br/>
-The bearer of the ring, the wearer of the ring,<br/>
-Beware who wears the ring!<br/>
+Người mang chiếc nhẫn, người đeo chiếc nhẫn,<br/>
+Hãy cẩn thận với người đeo nhẫn!<br/>
 <br/>
-The bearer of the ring, the wearer of the ring,<br/>
-He hears a voice compelling him;<br/>
-Filling him with thoughts that echo in his mind<br/>
-It should be telling him:<br/>
+Người mang chiếc nhẫn, người đeo chiếc nhẫn,<br/>
+Anh nghe thấy một giọng nói thuyết phục anh;<br/>
+Đổ đầy anh những suy nghĩ vang vọng trong tâm trí<br/>
+Đáng lẽ phải nói với ông rằng:<br/>
 <br/>
-“Beware, the power is a power never known.<br/>
-Beware, the power that was simple now has grown.<br/>
-Beware, O bearer of the ring,<br/>
-The final power has yet to be shown!”
+“Hãy coi chừng, sức mạnh là thứ sức mạnh chưa từng được biết đến.<br/>
+Hãy cẩn thận, sức mạnh vốn đơn giản giờ đã tăng lên.<br/>
+Hãy cẩn thận, hỡi người mang chiếc nhẫn,<br/>
+Sức mạnh cuối cùng vẫn chưa được thể hiện!”
 </p>
 </div>

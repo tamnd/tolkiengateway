@@ -34,18 +34,18 @@ images:
 </td>
 <td style="text-align:left;width:100px;font-size:90%;color:#000">
 <ul><li><a class="mw-redirect" href="../A/Adaptations.md" title="Adaptations">Adaptations</a></li>
-<li><a class="mw-redirect" href="../B/Books.md" title="Books">Books</a></li>
-<li><a class="mw-redirect" href="../C/Characters.md" title="Characters">Characters</a></li></ul>
+<li><a class="mw-redirect" href="../B/Books.md" title="Books">Sách</a></li>
+<li><a class="mw-redirect" href="../C/Characters.md" title="Characters">Nhân vật</a></li></ul>
 </td>
 <td style="text-align:left;width:100px;font-size:90%;color:#000">
 <ul><li><a class="mw-redirect" href="../C/Collectibles.md" title="Collectibles">Collectibles</a></li>
 <li><a class="mw-redirect" href="../G/Games.md" title="Games">Games</a></li>
-<li><a class="mw-redirect" href="../I/Images.md" title="Images">Images</a></li></ul>
+<li><a class="mw-redirect" href="../I/Images.md" title="Images">Hình ảnh</a></li></ul>
 </td>
 <td style="width:100px;text-align:left;font-size:90%;color:#000;padding-right:20px;">
-<ul><li><a href="../L/Languages.md" title="Languages">Languages</a></li>
-<li><a class="mw-redirect" href="../M/Music.md" title="Music">Music</a></li>
-<li><a href="../T/Timeline.md" title="Timeline">Timeline</a></li></ul>
+<ul><li><a href="../L/Languages.md" title="Languages">Ngôn ngữ</a></li>
+<li><a class="mw-redirect" href="../M/Music.md" title="Music">Âm nhạc</a></li>
+<li><a href="../T/Timeline.md" title="Timeline">Dòng thời gian</a></li></ul>
 </td></tr></tbody></table>
 
 <table cellpadding="2" cellspacing="5" style="background: #f9f9f9; border-color: #eeeeee; margin:auto; border-width: 1px; border-style: solid; vertical-align:top; width:100%">
@@ -64,7 +64,7 @@ images:
 </th></tr>
 <tr>
 <td style="color:#000">
-<figure class="mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/J/John_Howe_-_The_Drowning_of_Numenor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/82/John_Howe_-_The_Drowning_of_Numenor.jpg/260px-John_Howe_-_The_Drowning_of_Numenor.jpg" decoding="async" loading="lazy" width="260" height="260" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/82/John_Howe_-_The_Drowning_of_Numenor.jpg/390px-John_Howe_-_The_Drowning_of_Numenor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/82/John_Howe_-_The_Drowning_of_Numenor.jpg/520px-John_Howe_-_The_Drowning_of_Numenor.jpg 2x" data-file-width="534" data-file-height="533"/></a><figcaption></figcaption></figure><b><a href="../N/Númenor.md" title="Númenor">Númenor</a></b> was a Kingdom founded on the Isle of <a href="../E/Elenna.md" title="Elenna">Elenna</a>, an island raised from the <a class="mw-redirect" href="../G/Great_Sea.md" title="Great Sea">Great Sea</a> as a gift to the <a href="../E/Edain.md" title="Edain">Edain</a> after the <a href="../W/War_of_Wrath.md" title="War of Wrath">War of Wrath</a>. It became one of the most powerful realms during the <a href="../S/Second_Age.md" title="Second Age">Second Age</a> and was very influential on the events of the <a href="../T/Third_Age.md" title="Third Age">Third Age</a>. Númenoreans were forbidden - by the <a href="../V/Valar.md" title="Valar">Valar</a> - from sailing so far westward that Númenor was no longer visible; however they would eventually begin to resent the <a href="../B/Ban_of_the_Valar.md" title="Ban of the Valar">Ban of the Valar</a>, compensating by travelling and establishing colonies eastwards instead. Nonetheless this resentment grew. After King <a href="../A/Ar-Pharazôn.md" title="Ar-Pharazôn">Ar-Pharazôn</a> took <a href="../S/Sauron.md" title="Sauron">Sauron</a> hostage in <a href="../S/Second_Age_3262.md" title="Second Age 3262">S.A. 3262</a>, Sauron soon began to corrupt the King claiming that Númenoreans could achieve eternal life by worshipping <a href="../M/Morgoth.md" title="Morgoth">Melkor</a>. Upon Saurons bidding, Ar-Pharazôn built a great armada which set sail to wage war on the Valar in the west. <a href="../M/Manwë.md" title="Manwë">Manwë</a> called upon <a href="../I/Ilúvatar.md" title="Ilúvatar">Ilúvatar</a>, who destroyed the <a href="../G/Great_Armament.md" title="Great Armament">Great Armament</a> and reshaped the world; making the world round, drowning Elenna and Númenor with it.
+<figure class="mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/J/John_Howe_-_The_Drowning_of_Numenor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/82/John_Howe_-_The_Drowning_of_Numenor.jpg/260px-John_Howe_-_The_Drowning_of_Numenor.jpg" decoding="async" loading="lazy" width="260" height="260" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/82/John_Howe_-_The_Drowning_of_Numenor.jpg/390px-John_Howe_-_The_Drowning_of_Numenor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/82/John_Howe_-_The_Drowning_of_Numenor.jpg/520px-John_Howe_-_The_Drowning_of_Numenor.jpg 2x" data-file-width="534" data-file-height="533"/></a><figcaption></figcaption></figure><b><a href="../N/Númenor.md" title="Númenor">Númenor</a></b> là một Vương quốc được thành lập trên Đảo <a href="../E/Elenna.md" title="Elenna">Elenna</a>, một hòn đảo được hình thành từ <a class="mw-redirect" href="../G/Great_Sea.md" title="Great Sea">Đại Hải</a> như một món quà dành cho <a href="../E/Edain.md" title="Edain">Edain</a> sau <a href="../W/War_of_Wrath.md" title="War of Wrath">War of Wrath</a>. Nó trở thành một trong những vương quốc hùng mạnh nhất trong <a href="../S/Second_Age.md" title="Second Age">Kỷ Đệ Nhị</a> và có ảnh hưởng rất lớn đến các sự kiện của <a href="../T/Third_Age.md" title="Third Age">Kỷ Đệ Tam</a>. Người Númenore bị cấm - bởi <a href="../V/Valar.md" title="Valar">Valar</a> - đi thuyền quá xa về phía tây mà Númenor không còn được nhìn thấy nữa; tuy nhiên cuối cùng họ sẽ bắt đầu phẫn nộ với <a href="../B/Ban_of_the_Valar.md" title="Ban of the Valar">Lệnh cấm của Valar</a>, thay vào đó họ bù đắp bằng cách đi du lịch và thành lập các thuộc địa về phía đông. Tuy nhiên sự oán giận này ngày càng lớn. Sau khi Vua <a href="../A/Ar-Pharazôn.md" title="Ar-Pharazôn">Ar-Pharazôn</a> bắt <a href="../S/Sauron.md" title="Sauron">Sauron</a> làm con tin ở <a href="../S/Second_Age_3262.md" title="Second Age 3262">S.A. 3262</a>, Sauron nhanh chóng bắt đầu làm hư hỏng Vua khi tuyên bố rằng người Númenore có thể đạt được cuộc sống vĩnh cửu bằng cách tôn thờ <a href="../M/Morgoth.md" title="Morgoth">Melkor</a>. Theo mệnh lệnh của Sauron, Ar-Pharazôn đã xây dựng một đội quân lớn ra khơi để gây chiến với Valar ở phía tây. <a href="../M/Manwë.md" title="Manwë">Manwë</a> đã kêu gọi <a href="../I/Ilúvatar.md" title="Ilúvatar">Ilúvatar</a>, kẻ đã tiêu diệt <a href="../G/Great_Armament.md" title="Great Armament">Đại Hạm đội</a> và định hình lại thế giới; làm cho thế giới quay tròn, nhấn chìm Elenna và Númenor với nó.
 </td></tr>
 <tr>
 <th><h2 style="margin:0;background:#cef2e0;font-size:120%;font-weight:bold;border:1px solid #a3bfb1;text-align:left;color:#000;padding:0.2em 0.4em;"><span class="mw-headline" id="Featured_Location_Quotation">Featured Location Quotation</span></h2>
@@ -72,7 +72,7 @@ images:
 <tr>
 <td>
 <center><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>And far away, its dark head in a torn cloud, there loomed the Mountain! Its nearest neighbours to the north-east and the tumbled land that joined it to them could not be seen. All alone it rose and looked across the marshes to the forest. The Lonely Mountain!
+<p>Và ở xa xa, cái đầu đen tối của nó trong đám mây rách nát, Ngọn Núi lờ mờ hiện ra! Không thể nhìn thấy những người hàng xóm gần nhất của nó ở phía đông bắc và vùng đất xiêu vẹo nối liền với họ. Một mình nó đứng dậy và nhìn qua đầm lầy đến khu rừng. Ngọn Núi Cô Đơn!
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../A/A_Warm_Welcome.md" title="A Warm Welcome">A Warm Welcome</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
@@ -85,17 +85,17 @@ images:
 </th></tr>
 <tr>
 <td style="color:#000"><figure class="mw-halign-center" typeof="mw:File"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_Húrin_and_Huor_are_Carried_to_Gondolin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3b/Alan_Lee_-_H%C3%BArin_and_Huor_are_Carried_to_Gondolin.jpg/350px-Alan_Lee_-_H%C3%BArin_and_Huor_are_Carried_to_Gondolin.jpg" decoding="async" loading="lazy" width="350" height="556" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3b/Alan_Lee_-_H%C3%BArin_and_Huor_are_Carried_to_Gondolin.jpg/525px-Alan_Lee_-_H%C3%BArin_and_Huor_are_Carried_to_Gondolin.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3b/Alan_Lee_-_H%C3%BArin_and_Huor_are_Carried_to_Gondolin.jpg/700px-Alan_Lee_-_H%C3%BArin_and_Huor_are_Carried_to_Gondolin.jpg 2x" data-file-width="974" data-file-height="1546"/></a><figcaption></figcaption></figure>
-<center><i><a href="../H/Húrin.md" title="Húrin">Húrin</a> and <a href="../H/Huor.md" title="Huor">Huor</a> are Carried to <a href="../G/Gondolin.md" title="Gondolin">Gondolin</a>, by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a>.</i></center>
+<center><i><a href="../H/Húrin.md" title="Húrin">Húrin</a> và <a href="../H/Huor.md" title="Huor">Huor</a> được chuyển đến <a href="../G/Gondolin.md" title="Gondolin">Gondolin</a>, bởi <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a>.</i></center>
 </td></tr>
 <tr>
 <th><h2 style="margin:0;background:#cedff2;font-size:120%;font-weight:bold;border:1px solid #a3bfb1;text-align:left;color:#000;padding:0.2em 0.4em;"><span class="mw-headline" id="Locations_Project">Locations Project</span></h2>
 </th></tr>
 <tr>
-<td style="color:#000">The goal of the <a href="../../project/P/Projects.md#Locations" title="Tolkien Gateway:Projects">Locations Project</a> is to create an article for every single location mentioned in J.R.R. Tolkien&#39;s works.
+<td style="color:#000">Mục tiêu của <a href="../../project/P/Projects.md#Locations" title="Tolkien Gateway:Projects">Dự án Địa điểm</a> là tạo một bài viết cho từng địa điểm được đề cập trong tác phẩm của J.R.R. Tolkien.
 <ul><li><a href="../../category/L/Locations.md" title="Category:Locations">Locations Category</a>
 <ul><li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Portal:Locations/Category_Tree&amp;action=edit&amp;redlink=1" title="Portal:Locations/Category Tree (page does not exist)">Category Tree</a></li></ul></li>
 <li><a class="mw-redirect" href="../L/List_of_Place_Names.md" title="List of Place Names">List of Place Names</a></li>
-<li><a href="https://tolkiengateway.net/wiki/Special:RecentChangesLinked/List_of_Place_Names" title="Special:RecentChangesLinked/List of Place Names">Recent changes - Locations</a></li></ul>
+<li><a href="https://tolkiengateway.net/wiki/Special:RecentChangesLinked/List_of_Place_Names" title="Special:RecentChangesLinked/List of Place Names">Những thay đổi gần đây - Vị trí</a></li></ul>
 </td></tr></tbody></table>
 </td></tr>
 <tr>

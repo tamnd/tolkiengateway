@@ -21,7 +21,7 @@ infobox:
     value: "Dealer's catalogue"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Gerard A.J. Stodolski Catalogue 299</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Manchester, New Hampshire: Gerard A.J. Stodolski</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">June <a href="../_/1999.md" title="1999">1999</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Dealer&#39;s catalogue</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Gerard A.J. Stodolski Catalogue 299</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Manchester, New Hampshire: Gerard A.J. Stodolski</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">June <a href="../_/1999.md" title="1999">1999</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Danh mục đại lý</td></tr></tbody></table>
 
 <i><b>Gerard A.J. Stodolski Catalog 299</b></i> là catalog của nhà buôn bản thảo Gerard A.J. Stodolski. Mục 29 là [một bức thư của Tolkien gửi Patricia Kirke, ngày 28 tháng 3 năm 1956](<../L/Letter_to_Patricia_Kirke_(28_March_1956).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 

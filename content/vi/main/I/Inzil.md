@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/Inzil"
 content_sha256: ee119f9bcf37fb7f16b6fdf96c6d8147d10cb587f81206f23d3800f4fefdd79f
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Adûnaic word"
+short_description: "Adûnaic từ"
 categories:
   - "Adûnaic words"
 hidden_categories:

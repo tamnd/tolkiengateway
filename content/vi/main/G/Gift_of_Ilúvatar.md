@@ -20,12 +20,12 @@ images:
   - "Tuuliky_-_The_Death.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the mortality of <a href="../M/Men.md" title="Men">Men</a></b>. For the mortal races, see <b><a href="../M/Mortals.md" title="Mortals">Mortals</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>tỷ lệ tử vong của <a href="../M/Men.md" title="Men">Con Người</a></b>. Đối với các chủng tộc phàm trần, xem <b><a href="../M/Mortals.md" title="Mortals">Mortals</a></b>.</div></div>
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tuuliky_-_The_Death.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6f/Tuuliky_-_The_Death.jpg/250px-Tuuliky_-_The_Death.jpg" decoding="async" loading="lazy" width="250" height="342" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6f/Tuuliky_-_The_Death.jpg/375px-Tuuliky_-_The_Death.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/6f/Tuuliky_-_The_Death.jpg/500px-Tuuliky_-_The_Death.jpg 2x" data-file-width="3432" data-file-height="4700"/></a><figcaption><i>The Death</i> by <a href="../../category/I/Images_by_Tuuliky.md" title="Category:Images by Tuuliky">Tuuliky</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>But to the <a href="../A/Atani.md" title="Atani">Atani</a> I will give a new gift.
+<p>Nhưng với <a href="../A/Atani.md" title="Atani">Atani</a> tôi sẽ tặng một món quà mới.
 </p>
 <p class="tg-quote-footer"><cite><a href="../I/Ilúvatar.md" title="Ilúvatar">Eru Ilúvatar</a>, from the <i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>, &#34;<a href="../O/Of_the_Beginning_of_Days.md" title="Of the Beginning of Days">Of the Beginning of Days</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

@@ -32,7 +32,7 @@ infobox:
     value: "Khazad Dúm"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/DolGuldur.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/320px-DolGuldur.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/480px-DolGuldur.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/640px-DolGuldur.jpg 2x" data-file-width="800" data-file-height="800"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Elfstone</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../D/Dol_Guldur_(album).md" title="Dol Guldur (album)">Dol Guldur</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Summoning</a></td></tr><tr><th scope="row" class="tg-infobox-label">Written by</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, P.K.</td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data">Summoning</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">10:51</td></tr><tr><th scope="row" class="tg-infobox-label">Track No.</th><td class="tg-infobox-data">3</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="../N/Nightshade_Forests.md" title="Nightshade Forests">Nightshade Forests</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="../K/Khazad_Dúm_(song).md" title="Khazad Dúm (song)">Khazad Dúm</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/6Md2X7uT8Dyy1854Lyg9GW"></iframe></span>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/DolGuldur.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/320px-DolGuldur.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/480px-DolGuldur.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/640px-DolGuldur.jpg 2x" data-file-width="800" data-file-height="800"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Elfstone</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../D/Dol_Guldur_(album).md" title="Dol Guldur (album)">Dol Guldur</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Triệu hồi</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, P.K.</td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data">Triệu hồi</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">10:51</td></tr><tr><th scope="row" class="tg-infobox-label">Số thứ tự bản nhạc</th><td class="tg-infobox-data">3</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="../N/Nightshade_Forests.md" title="Nightshade Forests">Nightshade Forests</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="../K/Khazad_Dúm_(song).md" title="Khazad Dúm (song)">Khazad Dúm</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Phương tiện truyền thông</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/6Md2X7uT8Dyy1854Lyg9GW"></iframe></span>
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
@@ -41,33 +41,33 @@ infobox:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>All that is gold does not glitter <br/>
-All that is long does not last <br/>
-All that is old does not wither <br/>
-Not all that is over is past <br/>
-And I may not get through in time <br/>
-Oh, Elfstone - bearer of my green stone <br/>
-In the south under snow a green stone thou shalt see <br/>
-Elfstone - in the shadow of the dark throne <br/>
-For the hour is at hand that long hath awaited thee <br/>
-Greenleaf - bearer of the Elvenbow <br/>
-Far beyond Mirkwood many trees on earth grow <br/>
-Thy last shaft when thou hast shot <br/>
-Under the mournful trees thou shalt walk <br/>
-For dark are the waters of Kheledzaram <br/>
-And my heart trembles at the thought that I may see them soon <br/>
-I am longing for harmony - the freedom within me <br/>
-Out of dark to the day&#39;s rising <br/>
-I came crying in the sun - sword unsheathing <br/>
-To hope&#39;s end I rode and to heart&#39;s breaking <br/>
-Now for wrath <br/>
-Now for ruin - and a red nightfall <br/>
-When the black breath blows - and death&#39;s shadows grow <br/>
-All lights pass <br/>
-Life to the dying - in my hand lying <br/>
-Shrivel like the old mist - like the winds go wailing <br/>
-Lost and forgotten be - darker than the darkness <br/>
-Where gates stand for ever shut <br/>
-&#39;Til the world is mended<br/>
+<p>Tất cả những gì là vàng không lấp lánh <br/>
+Tất cả những gì dài lâu đều không kéo dài <br/>
+Tất cả những gì cũ không héo <br/>
+Không phải tất cả đã qua <br/>
+Và có thể tôi sẽ không vượt qua kịp <br/>
+Ôi, Elfstone - người mang viên đá xanh của tôi <br/>
+Ở phía nam dưới tuyết một hòn đá xanh bạn sẽ thấy <br/>
+Elfstone - dưới bóng tối của ngai vàng <br/>
+Vì giờ đã chờ đợi bạn từ lâu <br/>
+Greenleaf - người mang Elvenbow <br/>
+Xa hơn Mirkwood nhiều cây cối trên trái đất mọc lên <br/>
+Trục cuối cùng của bạn khi bạn bắn <br/>
+Dưới hàng cây buồn em bước đi <br/>
+Trong bóng tối là vùng nước Kheledzaram <br/>
+Và tim tôi run lên khi nghĩ rằng mình sẽ sớm được gặp lại họ <br/>
+Tôi khao khát sự hòa hợp - sự tự do trong tôi <br/>
+Từ bóng tối đến ngày đang lên <br/>
+Tôi đến khóc dưới nắng - kiếm tuốt vỏ <br/>
+Để hy vọng kết thúc, tôi cưỡi ngựa và khiến trái tim tan vỡ <br/>
+Bây giờ là cơn thịnh nộ <br/>
+Bây giờ là sự hủy hoại - và màn đêm buông xuống màu đỏ <br/>
+Khi hơi thở đen thổi - và bóng tối của cái chết lớn lên <br/>
+Tất cả các đèn đi qua <br/>
+Sự sống cho người sắp chết - trong tay tôi nằm <br/>
+Tàn tạ như sương xưa - như gió than khóc <br/>
+Lạc lối và bị lãng quên - đen tối hơn cả bóng tối <br/>
+Nơi cánh cổng vĩnh viễn đóng lại <br/>
+'Cho đến khi thế giới được hàn gắn<br/>
 </p>
 </div>

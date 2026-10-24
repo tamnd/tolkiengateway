@@ -33,10 +33,10 @@ infobox:
     value: "269"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hompen_(front).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/51/Hompen_%28front%29.jpg/320px-Hompen_%28front%29.jpg" decoding="async" loading="lazy" width="320" height="471" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/51/Hompen_%28front%29.jpg 1.5x" data-file-width="390" data-file-height="574"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hompen, eller En resa dit och tillbaksigen</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Translator</th><td class="tg-infobox-data"><a href="../T/Tore_Zetterholm.md" title="Tore Zetterholm">Tore Zetterholm</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Stockholm: Kooperativa Förbundets Bokförlag</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1947.md" title="1947">1947</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">269</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hompen_(front).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/51/Hompen_%28front%29.jpg/320px-Hompen_%28front%29.jpg" decoding="async" loading="lazy" width="320" height="471" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/51/Hompen_%28front%29.jpg 1.5x" data-file-width="390" data-file-height="574"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Xin chào, hoặc là En resa dit och cho đến khi baksigen</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Người dịch</th><td class="tg-infobox-data"><a href="../T/Tore_Zetterholm.md" title="Tore Zetterholm">Tore Zetterholm</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Stockholm: Kooperativa Förbundets Bokförlag</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/1947.md" title="1947">1947</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Bìa cứng</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">269</td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I wished <a href="Hobbits.md" title="Hobbits">hobbit</a> to remain untranslated, as a protection against the private fancies of translators (as the Hompen of the bad translation by <a href="../T/Tore_Zetterholm.md" title="Tore Zetterholm">Zetterholm</a> with his ghastly illustrations, which I never saw before publication.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<p>Tôi mong muốn <a href="Hobbits.md" title="Hobbits">hobbit</a> không được dịch, như một sự bảo vệ khỏi những tưởng tượng riêng tư của các dịch giả (như Hompen về bản dịch tồi của <a href="../T/Tore_Zetterholm.md" title="Tore Zetterholm">Zetterholm</a> với những hình ảnh minh họa rùng rợn mà tôi chưa từng thấy trước khi xuất bản.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -48,7 +48,7 @@ infobox:
 Về công việc dịch thuật *The Hobbit* sang tiếng Thụy Điển, bản thân Tolkien không tham gia. Viết cho [Allen &amp; Unwin](../G/George_Allen_and_Unwin.md) năm 1956 trên bản dịch tiếng Hà Lan của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Tolkien nói:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I wish to avoid a repetition of my experience with the Swedish translation of The Hobbit. I discovered that this had taken unwarranted liberties with the text and other details, without consultation or approval; it was also unfavourably criticized in general by a Swedish expert, familiar with the original, to whom I submitted it.
+<p>Tôi muốn tránh lặp lại trải nghiệm của mình với bản dịch tiếng Thụy Điển của The Hobbit. Tôi phát hiện ra rằng điều này đã có những quyền tự do không chính đáng đối với văn bản và các chi tiết khác mà không cần tham khảo ý kiến ​​hoặc phê duyệt; Nói chung nó cũng bị chỉ trích một cách bất lợi bởi một chuyên gia Thụy Điển, quen thuộc với bản gốc, người mà tôi đã gửi nó.
 </p>
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -56,7 +56,7 @@ Về công việc dịch thuật *The Hobbit* sang tiếng Thụy Điển, bản
 Cuối năm đó và viết về cùng chủ đề, Tolkien chỉ ra cụ thể hơn nguồn gốc của việc không thích *Hompen* đến [Rayner Unwin](../R/Rayner_Unwin.md):
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>May I say now at once that I will not tolerate any similar tinkering with the personal nomenclature. Nor with the name/word Hobbit. I will not have any more Hompen (in which I was not consulted), nor any Hobbel or what not.
+<p>Bây giờ tôi có thể nói ngay rằng tôi sẽ không tha thứ cho bất kỳ sự mày mò tương tự nào đối với danh pháp cá nhân. Cũng không có tên/từ Hobbit. Tôi sẽ không còn Hompen nữa (trong đó tôi không được hỏi ý kiến), cũng như Hobbel hay bất cứ thứ gì không.
 </p>
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -68,20 +68,20 @@ Một số điều tò mò khác về bản dịch của Zetterholm là cách ô
 ## Trích {#Excerpt}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p><b>En oväntad bjudning</b><br/>
-I ett hål i jorden bodde en hompe.<br/>
-Det var inget smutsigt, otrevligt och vått hål, fullt med maskar och gyttjelukt,<br/>
-och heller inget torrt, sandigt, naket hål utan något att sitta på eller att äta.<br/>
-Nej, det var ett hompehål, och det betyder att det var hemtrevligt.
+<p><b>Bắt đầu xét xử</b><br/>
+Tôi chắc chắn sẽ có cơ hội ở nhà.<br/>
+Det var inget smutsigt, otrevligt och vått hål, fullt med che dấu och gyttjelukt,<br/>
+ôi chết tiệt, không thể làm được, sandigt, naket hål utan något att sitta på hoặc att äta.<br/>
+Không, đó là điều bạn nên làm, và đó là điều tốt nhất bạn có thể làm.
 </p>
 </div>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p> <b>Chapter 1, An Unexpected Party</b><br/>
-In a hole in the ground there lived a hobbit.<br/>
-Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell,<br/>
-nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat;<br/>
-it was a hobbit-hole, and that means comfort.
+<p> <b>Chương 1, Bữa tiệc bất ngờ</b><br/>
+Trong một cái hố trên mặt đất có một người Hobbit sống.<br/>
+Không phải là một cái hố bẩn thỉu, bẩn thỉu, ẩm ướt, đầy rẫy giun và mùi hôi thối,<br/>
+cũng chưa phải là một hố cát khô cằn, trần trụi, không có gì để ngồi hoặc để ăn;<br/>
+đó là một cái hố hobbit, và điều đó có nghĩa là sự thoải mái.
 </p>
 </div>
 
@@ -91,7 +91,7 @@ it was a hobbit-hole, and that means comfort.
 		<li class="gallerybox" style="width: 76px">
 			<div class="thumb" style="width: 74px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/H/Hompen_(back).jpg.md" title="Back cover"><img alt="Back cover" src="https://tolkiengateway.net/w/images/thumb/a/a3/Hompen_%28back%29.jpg/111px-Hompen_%28back%29.jpg" decoding="async" loading="lazy" width="74" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a3/Hompen_%28back%29.jpg/166px-Hompen_%28back%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a3/Hompen_%28back%29.jpg/222px-Hompen_%28back%29.jpg 2x" data-file-width="546" data-file-height="886"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 54px"><div class="gallerytext">
-<center><i>Back cover</i></center>
+<center><i>Bìa sau</i></center>
 			</div></div>
 		</li>
 </ul></center>

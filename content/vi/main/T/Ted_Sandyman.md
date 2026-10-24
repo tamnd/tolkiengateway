@@ -45,7 +45,7 @@ infobox:
     value: "Images of Ted Sandyman"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Andrea_Piparo_-_Ted_Sandyman.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7c/Andrea_Piparo_-_Ted_Sandyman.jpg/320px-Andrea_Piparo_-_Ted_Sandyman.jpg" decoding="async" loading="lazy" width="320" height="353" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7c/Andrea_Piparo_-_Ted_Sandyman.jpg/480px-Andrea_Piparo_-_Ted_Sandyman.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7c/Andrea_Piparo_-_Ted_Sandyman.jpg/640px-Andrea_Piparo_-_Ted_Sandyman.jpg 2x" data-file-width="1080" data-file-height="1191"/></a><figcaption>&#34;Ted Sandyman&#34; by <a href="../A/Andrea_Piparo.md" title="Andrea Piparo">Andrea Piparo</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ted Sandyman</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data">Miller</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../O/Old_Mill.md" title="Old Mill">Old Mill</a>, <a href="../H/Hobbiton.md" title="Hobbiton">Hobbiton</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">late <a href="Third_Age.md" title="Third Age">Third Age</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a href="../S/Sandyman_Family.md" title="Sandyman Family">Sandyman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../S/Sandyman.md" title="Sandyman">Sandyman</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Ted_Sandyman.md" title="Category:Images of Ted Sandyman">Images of Ted Sandyman</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Andrea_Piparo_-_Ted_Sandyman.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7c/Andrea_Piparo_-_Ted_Sandyman.jpg/320px-Andrea_Piparo_-_Ted_Sandyman.jpg" decoding="async" loading="lazy" width="320" height="353" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7c/Andrea_Piparo_-_Ted_Sandyman.jpg/480px-Andrea_Piparo_-_Ted_Sandyman.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7c/Andrea_Piparo_-_Ted_Sandyman.jpg/640px-Andrea_Piparo_-_Ted_Sandyman.jpg 2x" data-file-width="1080" data-file-height="1191"/></a><figcaption>&#34;Ted Sandyman&#34; by <a href="../A/Andrea_Piparo.md" title="Andrea Piparo">Andrea Piparo</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ted Sandyman</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Chức vụ</th><td class="tg-infobox-data">Miller</td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../O/Old_Mill.md" title="Old Mill">Old Mill</a>, <a href="../H/Hobbiton.md" title="Hobbiton">Hobbiton</a></td></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data">muộn <a href="Third_Age.md" title="Third Age">Kỷ Đệ Tam</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Gia đình</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gia đình</th><td class="tg-infobox-data"><a href="../S/Sandyman_Family.md" title="Sandyman Family">Sandyman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Cha mẹ</th><td class="tg-infobox-data"><a href="../S/Sandyman.md" title="Sandyman">Sandyman</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Giới tính</th><td class="tg-infobox-data">Nam</td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Ted_Sandyman.md" title="Category:Images of Ted Sandyman">Images of Ted Sandyman</a></td></tr></tbody></table>
 
 **Ted Sandyman** là chủ cối xay ở [Hobbiton](../H/Hobbiton.md).
 
@@ -60,13 +60,13 @@ Ted cộng tác với [Lotho](../L/Lotho_Sackville-Baggins.md) và [Sharkey](../
 Có thể [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lấy cảm hứng từ con trai của người thợ xay, George Andrew, tại [Sarehole Mill](../S/Sarehole_Mill.md), Warwickshire, Anh.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>There were two millers [at Sarehole Mill], father and son. The old man had a black beard, but it was the son who frightened the boys with his white dusty clothes and sharp-eyed face. Ronald named him &#39;the White <a href="../O/Ogres.md" title="Ogres">Ogre</a>&#39;. When he yelled at them to clear off they would scamper away from the yard...
+<p>Có hai người thợ xay [tại Sarehole Mill], hai cha con. Ông già có bộ râu đen nhưng chính cậu con trai mới khiến các cậu bé sợ hãi với bộ quần áo trắng bụi bặm và khuôn mặt sắc sảo. Ronald đặt tên cho ông là 'Người da trắng <a href="../O/Ogres.md" title="Ogres">Yêu tinh</a>'. Khi ông hét lên bảo họ dọn đi, họ sẽ chạy tán loạn ra khỏi sân...
 </p>
-<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien%253A_A_Biography.md" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a>, pp. 124-5</cite></p>
+<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien%253A_A_Biography.md" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a>, trang 124-5</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I never liked the looks of the Young miller, but his father, the Old miller, had a black beard, and he was not named Sandyman.
+<p>Tôi chưa bao giờ thích vẻ ngoài của Người thợ xay trẻ, nhưng cha ông, Người thợ xay già, có bộ râu đen và ông ấy không tên là Sandyman.
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -77,7 +77,7 @@ Có thể [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lấy cảm hứng t
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Luis_Bermejo_-_Ted_Sandyman.jpg.md" title="The Lord of the Rings (comic book)"><img alt="The Lord of the Rings (comic book)" src="https://tolkiengateway.net/w/images/thumb/0/0e/Luis_Bermejo_-_Ted_Sandyman.jpg/193px-Luis_Bermejo_-_Ted_Sandyman.jpg" decoding="async" loading="lazy" width="193" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0e/Luis_Bermejo_-_Ted_Sandyman.jpg/290px-Luis_Bermejo_-_Ted_Sandyman.jpg 1.5x, https://tolkiengateway.net/w/images/0/0e/Luis_Bermejo_-_Ted_Sandyman.jpg 2x" data-file-width="355" data-file-height="276"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="The_Lord_of_the_Rings_(comic_book).md" title="The Lord of the Rings (comic book)"><i>The Lord of the Rings</i> (comic book)</a>
+<p><a href="The_Lord_of_the_Rings_(comic_book).md" title="The Lord of the Rings (comic book)"><i>The Lord of the Rings</i> (truyện tranh)</a>
 </p>
 			</div>
 		</li>
@@ -91,7 +91,7 @@ Có thể [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lấy cảm hứng t
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_(video_game)_-_Ted_Sandyman.JPG.md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><img alt="The Lord of the Rings: The Fellowship of the Ring (video game)" src="https://tolkiengateway.net/w/images/thumb/7/78/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Ted_Sandyman.JPG/125px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Ted_Sandyman.JPG" decoding="async" loading="lazy" width="125" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/78/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Ted_Sandyman.JPG/188px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Ted_Sandyman.JPG 1.5x, https://tolkiengateway.net/w/images/thumb/7/78/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Ted_Sandyman.JPG/251px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Ted_Sandyman.JPG 2x" data-file-width="261" data-file-height="312"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (video game)</a>
+<p><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>
 </p>
 			</div>
 		</li>
@@ -106,28 +106,28 @@ Có thể [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lấy cảm hứng t
 
 <b><a href="../_/1981.md" title="1981">1981</a>: <a href="The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh năm 1981)</a>:</b>
 
-<dl><dd>Ted Sandyman is voiced by <a href="../G/Gordon_Reid.md" title="Gordon Reid">Gordon Reid</a>. He is present in the Ivy Bush before <a href="../B/Bilbo&#39;s_Farewell_Party.md" title="Bilbo&#39;s Farewell Party">Bilbo&#39;s Birthday Party</a> and in the final episode when he sneers at Sam&#39;s return just before the scouring of the Shire.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
+<dl><dd>Ted Sandyman được lồng tiếng bởi <a href="../G/Gordon_Reid.md" title="Gordon Reid">Gordon Reid</a>. Ông có mặt tại Ivy Bush trước bữa tiệc sinh nhật của <a href="../B/Bilbo&#39;s_Farewell_Party.md" title="Bilbo&#39;s Farewell Party">Bilbo</a> và trong tập cuối khi ông chế nhạo sự trở lại của Sam ngay trước khi truy quét Shire.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
 <b><a href="../_/1989.md" title="1989">1989</a>: <a href="The_Lord_of_the_Rings_(comic_book).md" title="The Lord of the Rings (comic book)"><i>The Lord of the Rings</i> (truyện tranh)</a>:</b>
 
-<dl><dd><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a> sees Sandyman chopping down a tree in his vision in <a href="../M/Mirror_of_Galadriel.md" title="Mirror of Galadriel">the Mirror of Galadriel</a>. He remarks that he&#39;d fell the Hobbit like he felled the trees if he could get hold of him</dd></dl>
+<dl><dd><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a> nhìn thấy Sandyman đang chặt cây trong tầm nhìn của ông trong <a href="../M/Mirror_of_Galadriel.md" title="Mirror of Galadriel">Tấm gương của Galadriel</a>. Ông nhận xét rằng ông đã ngã Hobbit giống như đốn cây nếu có thể tóm được ông</dd></dl>
 
 <b><a href="../_/1992.md" title="1992">1992</a>: <a href="../D/Der_Herr_der_Ringe_(1992_German_radio_series).md" title="Der Herr der Ringe (1992 German radio series)"><i>Der Herr der Ringe</i> (Loạt phim phát thanh Đức năm 1992)</a>:</b>
 
-<dl><dd>Ted Sandyman is played by Jochen Stern.</dd></dl>
+<dl><dd>Ted Sandyman do Jochen Stern thủ vai.</dd></dl>
 
 <b><a href="../_/2001.md" title="2001">2001</a>: <i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">Phiên bản mở rộng</a>)</b>
 
 <dl><dd></dd>
-<dd><a href="../B/Brian_Sergent.md" title="Brian Sergent">Brian Sergent</a> plays Ted. He is present during <a href="../G/Gaffer_Gamgee.md" title="Gaffer Gamgee">Gaffer Gamgee</a>&#39;s talk in the <a class="mw-redirect" href="../G/Green_Dragon~72852.md" title="Green Dragon">Green Dragon</a> taking over his father&#39;s lines.</dd></dl>
+<dd><a href="../B/Brian_Sergent.md" title="Brian Sergent">Brian Sergent</a> đóng vai Ted. Ông có mặt trong buổi nói chuyện của <a href="../G/Gaffer_Gamgee.md" title="Gaffer Gamgee">Gaffer Gamgee</a> trong <a class="mw-redirect" href="../G/Green_Dragon~72852.md" title="Green Dragon">Green Rồng</a> tiếp quản lời thoại của cha ông.</dd></dl>
 
 <b><a href="../_/2002.md" title="2002">2002</a>: <a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
 
-<dl><dd>Sandyman is standing in front of his mill, looking for an iron pin (that <a href="../S/Sancho_Proudfoot.md" title="Sancho Proudfoot">Sancho Proudfoot</a> later admits to have stolen). Retrieving the pin, which is stuck in the Old Grange&#39;s weather vane. He is ill-tempered, but expresses gratitude to Frodo after he is assisted, before moaning the fact that he sent <a class="mw-redirect" href="../M/Mugwort.md" title="Mugwort">Mugwort</a> to <a href="../B/Bree.md" title="Bree">Bree</a> to fetch a new pin.</dd></dl>
+<dl><dd>Sandyman đang đứng trước nhà máy của mình để tìm một chiếc ghim sắt (mà <a href="../S/Sancho_Proudfoot.md" title="Sancho Proudfoot">Sancho Proudfoot</a> sau đó thừa nhận đã đánh cắp). Lấy chiếc ghim bị kẹt trong cánh gió thời tiết của Old Grange. Ông xấu tính, nhưng bày tỏ lòng biết ơn với Frodo sau khi được giúp đỡ, trước khi rên rỉ về việc ông đã gửi <a class="mw-redirect" href="../M/Mugwort.md" title="Mugwort">Mugwort</a> đến <a href="../B/Bree.md" title="Bree">Bree</a> để lấy một chiếc ghim mới.</dd></dl>
 
 <b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Ted Sandyman can be found at his mill, but is not involved in any regular quests and only has lines during two of the seasonal festivals.</dd></dl>
+<dl><dd>Ted Sandyman có thể được tìm thấy tại nhà máy của ông, nhưng không tham gia vào bất kỳ nhiệm vụ thông thường nào và chỉ có lời thoại trong hai lễ hội theo mùa.</dd></dl>
 
 <span></span>
 

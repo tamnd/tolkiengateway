@@ -26,7 +26,7 @@ infobox:
     value: "Artist"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Edward Peter Beard, Jr.</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/11_December.md" title="11 December">11 December</a> <a href="../_/1964.md" title="1964">1964</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Edward Peter Beard, Jr.</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/11_December.md" title="11 December">11 December</a> <a href="../_/1964.md" title="1964">1964</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nghệ sĩ</td></tr></tbody></table>
 
 **Edward Beard, Jr.** (sinh [ngày 11 tháng 12](../_/11_December.md) [1964](../_/1964.md)) là một nghệ sĩ giả tưởng người Mỹ.<sup id="cite_ref-CCGA_1-0" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup> Anh được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ký hợp đồng để tạo tác phẩm nghệ thuật cho [Trung Địa Trò chơi Thẻ sưu tập](../M/Middle-earth_Collectible_Card_Game.md).
 

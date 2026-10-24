@@ -13,7 +13,7 @@ categories:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>And no wonder they&#39;re queer, if they live on the wrong side of the Brandywine River, and right agin the Old Forest. That&#39;s a dark bad place, if half the tales be true.&#34;<br/>&#34;You&#39;re right, Dad! Not that the Brandybucks of Buckland live <i>in</i> the Old Forest; but they&#39;re a queer breed, seemingly. They fool about with boats on that big river-and that isn&#39;t natural.
+<p>Và không có gì ngạc nhiên khi họ thật kỳ quặc, nếu họ sống ở bên kia sông Brandywine và ngay bên phải sông Khu Rừng Cổ. Đó là một nơi tối tăm tồi tệ nếu một nửa số câu chuyện là sự thật."<br/>"Bố nói đúng, bố à! Không phải Brandybucks của Buckland sống <i>in</i> Khu Rừng Cổ; nhưng có vẻ như chúng là một giống chó kỳ lạ. Họ đùa giỡn với những chiếc thuyền trên con sông lớn đó - và điều đó không phải tự nhiên.
 </p>
 <p class="tg-quote-footer"><cite><a href="../D/Daddy_Twofoot.md" title="Daddy Twofoot">Daddy Twofoot</a> and <a href="../G/Gaffer_Gamgee.md" title="Gaffer Gamgee">Gaffer Gamgee</a><sup id="cite_ref-party_1-0" class="reference"><a href="#cite_note-party-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

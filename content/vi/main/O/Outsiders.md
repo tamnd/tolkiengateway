@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Outsiders"
 content_sha256: 5074d257c8625f7792bbb7c0ebb5b6c98670718a77ace6882e886c986172f741
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Hobbits who lived outside the Shire"
+short_description: "Hobbit sống bên ngoài Shire"
 categories:
   - "Hobbits"
 hidden_categories:

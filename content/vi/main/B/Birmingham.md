@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Birmingham"
 content_sha256: 2143716043d8b9da051285f101841d461c5286936c5a29af3f073f249c43534c
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Childhood city of J.R.R. Tolkien in England"
+short_description: "Thành phố tuổi thơ J.R.R. Tolkien ở Anh"
 categories:
   - "British locations"
   - "Cities (real-world)"
@@ -31,7 +31,7 @@ images:
 
 **Birmingham** là một thành phố tọa lạc tại hạt West Midlands ở Anh. Đây là nơi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gọi là nhà trong phần lớn thời thơ ấu của ông, từ [1895](../_/1895.md)-[1911](../_/1911.md). Cha mẹ của Tolkien là [Arthur](../A/Arthur_Tolkien.md) và [Mabel](../M/Mabel_Suffield.md) đều xuất thân từ thành phố này.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trải nghiệm lớn lên và sinh sống tại Birmingham đã để lại ấn tượng sâu sắc đối với Tolkien và sự nghiệp của ông.<sup id="cite_ref-Council_2-0" class="reference"><a href="#cite_note-Council-2">[2]</a></sup>
 
-<h2><span id="Tolkien.27s_childhood_in_Birmingham"></span><span class="mw-headline" id="Tolkien&#39;s_childhood_in_Birmingham">Tolkien&#39;s childhood in Birmingham</span></h2>
+<h2><span id="Tolkien.27s_childhood_in_Birmingham"></span><span class="mw-headline" id="Tolkien&#39;s_childhood_in_Birmingham">Tuổi thơ của Tolkien ở Birmingham</span></h2>
 
 Tolkien sinh ra tại [Bang Tự do Orange](../O/Orange_Free_State.md) vào năm 1892. Tuy nhiên, vào năm 1895, [John](../J/J.R.R._Tolkien.md), em trai ông là [Hilary](../H/Hilary_Tolkien.md) và mẹ ông, [Mabel Tolkien](../M/Mabel_Tolkien.md), chuyển đến một ngôi nhà tranh ở Sarehole, một ngôi làng cách trung tâm Birmingham bốn dặm. Những khu rừng và cánh đồng xanh tươi quanh ngôi nhà mới đã tác động rất lớn đến Tolkien, người trước đó chỉ từng biết đến điều kiện nóng và khô của Nam Phi. Quả thực, Tolkien đã dựa trên những ký ức về Sarehole để xây dựng các miêu tả về [Xứ Shire](../T/The_Shire.md). [Sarehole Mill](../S/Sarehole_Mill.md) rất có thể chính là [Cối xay cũ](../O/Old_Mill.md) của [Hobbiton](../H/Hobbiton.md).<sup id="cite_ref-Council_2-1" class="reference"><a href="#cite_note-Council-2">[2]</a></sup>
 

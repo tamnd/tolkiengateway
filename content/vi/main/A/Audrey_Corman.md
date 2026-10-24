@@ -24,7 +24,7 @@ infobox:
     value: "Artist"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Audrey Corman</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Audrey Corman</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nghệ sĩ</td></tr></tbody></table>
 
 **Audrey Corman** là một nghệ sĩ người Mỹ, người đã tạo ra nhiều hình minh họa lấy cảm hứng từ [Tolkien](../J/J.R.R._Tolkien.md), nhiều trong số đó dành cho [Trung Địa Trò chơi sưu tập thẻ bài](../M/Middle-earth_Collectible_Card_Game.md). Tuy cô thích vẽ tranh sơn dầu hơn nhưng thời gian khô lâu buộc cô phải sử dụng bột màu acrylic để vẽ thiệp.<sup id="cite_ref-MECCG_1-0" class="reference"><a href="#cite_note-MECCG-1">[1]</a></sup>
 

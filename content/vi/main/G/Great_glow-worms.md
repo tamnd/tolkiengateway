@@ -15,8 +15,8 @@ images:
   - "CdxIconTableMergeCells.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--red"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/3/3f/CdxIconTableMergeCells.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Merge</div></div><div class="ext-floatingui-content">This page should be merged with <b><a href="Glowworms.md" title="Glowworms">Glowworms</a></b>.<blockquote class="tg-quote noexcerpt">
-<p>One does not simply find a quote for the merge template.
+<div class="t-maintenance metadata t-maintenance--red"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/3/3f/CdxIconTableMergeCells.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Hợp nhất</div></div><div class="ext-floatingui-content">Trang này nên được hợp nhất với <b><a href="Glowworms.md" title="Glowworms">Glowworms</a></b>.<blockquote class="tg-quote noexcerpt">
+<p>Người ta không chỉ đơn giản tìm thấy một trích dẫn cho mẫu hợp nhất.
 </p>
 <p class="tg-quote-footer"><cite><a href="../B/Boromir.md" title="Boromir">Boromir</a></cite></p>
 </blockquote></div></div>

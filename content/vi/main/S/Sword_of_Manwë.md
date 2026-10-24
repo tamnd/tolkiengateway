@@ -24,10 +24,10 @@ infobox:
     value: "Manwë, Eönwë"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolrone_-_Eonwe.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/42/Tolrone_-_Eonwe.jpg/320px-Tolrone_-_Eonwe.jpg" decoding="async" loading="lazy" width="320" height="215" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/42/Tolrone_-_Eonwe.jpg/480px-Tolrone_-_Eonwe.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/42/Tolrone_-_Eonwe.jpg/640px-Tolrone_-_Eonwe.jpg 2x" data-file-width="1280" data-file-height="861"/></a><figcaption><i>Eonwe</i> by <a href="../../category/I/Images_by_Tolrone.md" title="Category:Images by Tolrone">Tolrone</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Sword</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sword of Manwë</span></th></tr><tr><th scope="row" class="tg-infobox-label">Owner</th><td class="tg-infobox-data"><a href="../M/Manwë.md" title="Manwë">Manwë</a>, <a href="../E/Eönwë.md" title="Eönwë">Eönwë</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolrone_-_Eonwe.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/42/Tolrone_-_Eonwe.jpg/320px-Tolrone_-_Eonwe.jpg" decoding="async" loading="lazy" width="320" height="215" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/42/Tolrone_-_Eonwe.jpg/480px-Tolrone_-_Eonwe.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/42/Tolrone_-_Eonwe.jpg/640px-Tolrone_-_Eonwe.jpg 2x" data-file-width="1280" data-file-height="861"/></a><figcaption><i>Eonwe</i> by <a href="../../category/I/Images_by_Tolrone.md" title="Category:Images by Tolrone">Tolrone</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Kiếm</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sword of Manwë</span></th></tr><tr><th scope="row" class="tg-infobox-label">Chủ sở hữu</th><td class="tg-infobox-data"><a href="../M/Manwë.md" title="Manwë">Manwë</a>, <a href="../E/Eönwë.md" title="Eönwë">Eönwë</a></td></tr></tbody></table>
 
 **thanh kiếm [Manwë](../M/Manwë.md)** là một [vũ khí](../../category/W/Weapons.md) mà [Vala](../V/Valar.md) nói trên mang theo bên mình trong [Chiến tranh quyền lực](../W/War_of_the_Powers.md) và sau đó được sứ giả của ông ta [Eönwë](../E/Eönwë.md) sử dụng trong [Chiến tranh thịnh nộ](../W/War_of_Wrath.md).
 
@@ -36,7 +36,7 @@ infobox:
 Lần đầu tiên đề cập đến loại vũ khí như vậy xảy ra trong [Chiến tranh quyền lực](../W/War_of_the_Powers.md), nơi người ta nói:
 
 <blockquote class="tg-quote noexcerpt">
-<p>It came to pass that at last the gates of <a href="../U/Utumno.md" title="Utumno">Utumno</a> were broken and its halls unroofed, and <a class="mw-redirect" href="../M/Melkor.md" title="Melkor">Melkor</a> took refuge in the uttermost pit. Thence, seeing that all was lost (for that time), he sent forth on a sudden a host of <a href="../B/Balrogs.md" title="Balrogs">Balrogs</a>, the last of his servants that remained, and they assailed the standard of Manwë, as it were a tide of flame. But they were withered in the wind of his wrath and <b>slain with the lightning of his sword</b>; and Melkor stood at last alone.
+<p>Chuyện xảy ra là cuối cùng các cánh cổng của <a href="../U/Utumno.md" title="Utumno">Utumno</a> bị phá vỡ và các sảnh bị tốc mái, và <a class="mw-redirect" href="../M/Melkor.md" title="Melkor">Melkor</a> phải ẩn náu trong cái hố sâu nhất. Sau đó, nhận thấy rằng tất cả đã mất (vào thời điểm đó), ông bất ngờ cử đi một đội quân <a href="../B/Balrogs.md" title="Balrogs">Balrog</a>, những người hầu cuối cùng của ông còn sót lại, và họ tấn công tiêu chuẩn của Manwë, giống như một làn sóng lửa. Nhưng họ đã khô héo trong cơn thịnh nộ của Ngài và <b>bị giết bằng tia sét của thanh kiếm Ngài</b>; và Melkor cuối cùng đứng một mình.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;<a class="mw-redirect" href="../A/Annals_of_Aman.md" title="Annals of Aman">Annals of Aman</a>&#34;<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote>
@@ -63,12 +63,12 @@ Sau đó, nhiều thiên niên kỷ sau, người ta kể rằng Manwë đã tra
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Weapons</a> in <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a>&#39;s <a href="../L/Legendarium.md" title="Legendarium">legendarium</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Vũ khí</a> trong <a href="../L/Legendarium.md" title="Legendarium">huyền thoại</a> của <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a></b>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"> <a href="../../category/A/Arrows.md" title="Category:Arrows">Arrows</a>:
 </th>
-<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Black arrow</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Red Arrow</a>
+<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Mũi tên đen</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Mũi tên đỏ</a>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/A/Axes.md" title="Category:Axes">Axes</a>:

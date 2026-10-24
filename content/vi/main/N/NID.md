@@ -35,39 +35,39 @@ Nír có ứng dụng rất rộng và có thể đề cập đến bất kỳ l
 <th>Affix
 </th></tr>
 <tr>
-<td><i>avanir</i></td>
-<td>“unwill”;<sup id="cite_ref-osanwe_3-0" class="reference"><a href="#cite_note-osanwe-3">[3]</a></sup> in the sense of resisting force</td>
-<td><i>ava-</i> (&#34;negation&#34;)
+<td><i>avani</i></td>
+<td>“không muốn”;<sup id="cite_ref-osanwe_3-0" class="reference"><a href="#cite_note-osanwe-3">[3]</a></sup>với ý nghĩa chống lại lực</td>
+<td><i>ava-</i> ("phủ định")
 </td></tr>
 <tr>
 <td><i>nira</i></td>
-<td>&#34;an individual &#39;will&#39; (or potential)&#34;,<sup id="cite_ref-vt41_17_4-0" class="reference"><a href="#cite_note-vt41_17-4">[4]</a></sup> &#34;&#39;will&#39; as a potential or faculty&#34;<sup id="cite_ref-osanwe_3-1" class="reference"><a href="#cite_note-osanwe-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:fn1</sup></td>
-<td><i>-a</i> (adjectival noun suffix)
+<td>"một cá nhân 'ý chí' (hoặc tiềm năng)",<sup id="cite_ref-vt41_17_4-0" class="reference"><a href="#cite_note-vt41_17-4">[4]</a></sup> "'ý chí' với tư cách là một tiềm năng hoặc giảng viên"<sup id="cite_ref-osanwe_3-1" class="reference"><a href="#cite_note-osanwe-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:fn1</sup></td>
+<td><i>-a</i> (hậu tố danh từ tính từ)
 </td></tr>
 <tr>
-<td><i>nírë</i></td>
-<td>&#34;force (in general)&#34;<sup id="cite_ref-pe22_165_1-5" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup></td>
-<td><i>-rë</i> (generic abstract noun)
+<td><i>không có gì</i></td>
+<td>"bắt buộc (nói chung)"<sup id="cite_ref-pe22_165_1-5" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup></td>
+<td><i>-rë</i> (danh từ trừu tượng chung)
 </td></tr>
 <tr>
 <td><i>nirin</i></td>
-<td>&#34;I press, thrust, force (in a given direction)&#34;<sup id="cite_ref-vt41_17_4-1" class="reference"><a href="#cite_note-vt41_17-4">[4]</a></sup></td>
-<td><i>-n(yë)</i> (aorist 1st person singular)
+<td>"Tôi ấn, đẩy, đẩy (theo một hướng nhất định)"<sup id="cite_ref-vt41_17_4-1" class="reference"><a href="#cite_note-vt41_17-4">[4]</a></sup></td>
+<td><i>-n(yë)</i> (aorist ngôi thứ 1 số ít)
 </td></tr>
 <tr>
-<td><i>nírítë</i></td>
-<td>&#34;forceful, exerting great thrust or pressure, driving&#34;<sup id="cite_ref-pe22_165_1-6" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup></td>
-<td><i>-itë</i> (verbal suffix meaning &#34;capable of doing, generally (and naturally) doing&#34;)
+<td><i>không có gì</i></td>
+<td>"mạnh mẽ, tạo lực đẩy hoặc áp lực lớn, lái xe"<sup id="cite_ref-pe22_165_1-6" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup></td>
+<td><i>-itë</i> (hậu tố bằng lời có nghĩa là "có khả năng làm, nói chung (và một cách tự nhiên) làm")
 </td></tr>
 <tr>
 <td><i>nirmë</i></td>
-<td>&#34;exercise of will, an act of will&#34;;<sup id="cite_ref-vt41_17_4-2" class="reference"><a href="#cite_note-vt41_17-4">[4]</a></sup> in the sense of an exertion of force or pressure</td>
-<td><i>-më</i> (eventitive abstract noun)
+<td>"thực hiện ý chí, hành động ý chí";<sup id="cite_ref-vt41_17_4-2" class="reference"><a href="#cite_note-vt41_17-4">[4]</a></sup> theo nghĩa là dùng sức mạnh hoặc áp lực</td>
+<td><i>-më</i> (danh từ trừu tượng sự kiện)
 </td></tr>
 <tr>
 <td><i>nirnen</i><sup id="cite_ref-pe22_165_1-7" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup></td>
-<td>&#34;through the use of force&#34;</td>
-<td><i>-nen</i> (instrumental)
+<td>"thông qua việc sử dụng vũ lực"</td>
+<td><i>-nen</i> (nhạc cụ)
 </td></tr></tbody></table>
 
 ## Phát triển trong Sindarin {#Development_in_Sindarin}
@@ -85,18 +85,18 @@ Trong [Sindarin](../S/Sindarin.md) NID chuyển về mặt âm vị thành **nî
 <th>Affix
 </th></tr>
 <tr>
-<td>innas</td>
-<td>&#34;will&#34;<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></td>
-<td><i>-as</i> (abstract/gerundial suffix)
+<td>nội tạng</td>
+<td>"sẽ"<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></td>
+<td><i>-as</i> (hậu tố trừu tượng/danh từ)
 </td></tr>
 <tr>
-<td>níða</td>
-<td>&#34;determined to&#34;; exertion of strong will in major purposes<sup id="cite_ref-pe22_165_1-10" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup></td>
-<td><i>-a</i> (genitive suffix)
+<td>bạn</td>
+<td>"quyết tâm"; phát huy ý chí mạnh mẽ vào những mục đích lớn<sup id="cite_ref-pe22_165_1-10" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup></td>
+<td><i>-a</i> (hậu tố sở hữu cách)
 </td></tr>
 <tr>
 <td>niðin</td>
-<td>&#34;intend to&#34;; weaker exertion of will or not in a major purpose<sup id="cite_ref-pe22_165_1-11" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup>
+<td>"có ý định"; ý chí yếu đi hay không nhằm vào mục đích chính<sup id="cite_ref-pe22_165_1-11" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup>
 </td></tr>
 </tbody></table>
 

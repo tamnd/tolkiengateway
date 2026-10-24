@@ -41,14 +41,14 @@ infobox:
     value: "Profile"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Hobbit</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Hobbit_(disambiguation).md" title="The Hobbit (disambiguation)">The Hobbit (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Hobbit</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Hobbit_(disambiguation).md" title="The Hobbit (disambiguation)">The Hobbit (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_(1967_film)_-_Title_card.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/30/The_Hobbit_%281967_film%29_-_Title_card.png/320px-The_Hobbit_%281967_film%29_-_Title_card.png" decoding="async" loading="lazy" width="320" height="240" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/30/The_Hobbit_%281967_film%29_-_Title_card.png/480px-The_Hobbit_%281967_film%29_-_Title_card.png 1.5x, https://tolkiengateway.net/w/images/3/30/The_Hobbit_%281967_film%29_-_Title_card.png 2x" data-file-width="637" data-file-height="478"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>J.R.R. Tolkien&#39;s The Hobbit</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data"><a href="../G/Gene_Deitch.md" title="Gene Deitch">Gene Deitch</a></td></tr><tr><th scope="row" class="tg-infobox-label">Writer</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><br/>(Novel)<br/><a href="../G/Gene_Deitch.md" title="Gene Deitch">Gene Deitch</a><br/>(Screenplay)</td></tr><tr><th scope="row" class="tg-infobox-label">Producer</th><td class="tg-infobox-data"><a href="../W/William_Lawrence_Snyder.md" title="William Lawrence Snyder">William Snyder</a></td></tr><tr><th scope="row" class="tg-infobox-label">Narrator</th><td class="tg-infobox-data">Herb Lass<sup id="cite_ref-Deitch_1-0" class="reference"><a href="#cite_note-Deitch-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data">Adolf Born<sup id="cite_ref-Deitch_1-1" class="reference"><a href="#cite_note-Deitch-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data">Václav Lidl<sup id="cite_ref-Deitch_1-2" class="reference"><a href="#cite_note-Deitch-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Limited audience: <a href="../_/29_June.md" title="29 June">29 June</a>, <a href="../_/1967.md" title="1967">1967</a><sup id="cite_ref-Deitch_1-3" class="reference"><a href="#cite_note-Deitch-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">00:11:42</td></tr><tr><th scope="row" class="tg-infobox-label">Country</th><td class="tg-infobox-data">United States, Czechoslovakia</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt1686804" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_(1967_film)_-_Title_card.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/30/The_Hobbit_%281967_film%29_-_Title_card.png/320px-The_Hobbit_%281967_film%29_-_Title_card.png" decoding="async" loading="lazy" width="320" height="240" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/30/The_Hobbit_%281967_film%29_-_Title_card.png/480px-The_Hobbit_%281967_film%29_-_Title_card.png 1.5x, https://tolkiengateway.net/w/images/3/30/The_Hobbit_%281967_film%29_-_Title_card.png 2x" data-file-width="637" data-file-height="478"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>J.R.R. Tolkien&#39;s The Hobbit</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data"><a href="../G/Gene_Deitch.md" title="Gene Deitch">Gene Deitch</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><br/>(Novel)<br/><a href="../G/Gene_Deitch.md" title="Gene Deitch">Gene Deitch</a><br/>(Screenplay)</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà sản xuất</th><td class="tg-infobox-data"><a href="../W/William_Lawrence_Snyder.md" title="William Lawrence Snyder">William Snyder</a></td></tr><tr><th scope="row" class="tg-infobox-label">Người dẫn chuyện</th><td class="tg-infobox-data">Herb Lass<sup id="cite_ref-Deitch_1-0" class="reference"><a href="#cite_note-Deitch-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data">Adolf Born<sup id="cite_ref-Deitch_1-1" class="reference"><a href="#cite_note-Deitch-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data">Václav Lidl<sup id="cite_ref-Deitch_1-2" class="reference"><a href="#cite_note-Deitch-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">Khán giả hạn chế: <a href="../_/29_June.md" title="29 June">29 tháng 6</a>, <a href="../_/1967.md" title="1967">1967</a><sup id="cite_ref-Deitch_1-3" class="reference"><a href="#cite_note-Deitch-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">00:11:42</td></tr><tr><th scope="row" class="tg-infobox-label">Quốc gia</th><td class="tg-infobox-data">United States, Czechoslovakia</td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt1686804" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>A homebody <a href="../H/Hobbits.md" title="Hobbits">hobbit</a> finds <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">himself</a> going on a <a href="../Q/Quest_of_Erebor.md" title="Quest of Erebor">quest</a> to save a <a href="../D/Dwarves.md" title="Dwarves">dwarven</a> <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">treasure</a> from a <a href="../S/Smaug.md" title="Smaug">dragon</a> in this loose adaptation of the classic <a href="The_Hobbit.md" title="The Hobbit">novel</a>.
+<p>Một <a href="../H/Hobbits.md" title="Hobbits">hobbit</a> người đồng hương thấy <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">chính mình</a> đang thực hiện <a href="../Q/Quest_of_Erebor.md" title="Quest of Erebor">nhiệm vụ</a> để cứu một <a href="../D/Dwarves.md" title="Dwarves">người lùn</a> <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">kho báu</a> khỏi một <a href="../S/Smaug.md" title="Smaug">con rồng</a> trong bản chuyển thể lỏng lẻo này của <a href="The_Hobbit.md" title="The Hobbit">tiểu thuyết</a> cổ điển.
 </p>
-<p class="tg-quote-footer"><cite>IMDB description<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite>Mô tả IMDB<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <i><b>J.R.R. Tolkien The Hobbit</b></i> là bộ phim chuyển thể đầu tiên của *[The Hobbit](The_Hobbit.md)*, do [Gene Deitch](../G/Gene_Deitch.md) tạo ra vào năm 1967. Phim do [William Lawrence Snyder](../W/William_Lawrence_Snyder.md) sản xuất và mất chưa đầy một tháng để thực hiện. Bộ phim dài khoảng 12 phút và chỉ được tạo ra để Snyder có thể gia hạn giấy phép của mình cho *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và bán lại cho Tolkien và các nhà xuất bản của ông, việc này ông đã làm với giá 100.000 đô la.<sup id="cite_ref-Deitch_1-4" class="reference"><a href="#cite_note-Deitch-1">[1]</a></sup>
@@ -57,12 +57,12 @@ infobox:
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Actor</th>
-<th>Role
+<th>Diễn viên</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td>Herb Lass<sup id="cite_ref-Deitch_1-5" class="reference"><a href="#cite_note-Deitch-1">[1]</a></sup></td>
-<td>Narrator
+<td>Người dẫn chuyện
 </td></tr></tbody></table>
 
 ## Lô đồ {#Plot}
@@ -104,32 +104,32 @@ Bộ phim vẫn chưa được người hâm mộ Tolkien biết đến cho đ�
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Licensed screen adaptations of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works</b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Chuyển thể màn hình các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> được cấp phép</b>
 </th></tr>
 <tr>
-<th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Animation</b>
+<th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Phim hoạt hình</b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a class="mw-selflink selflink">The Hobbit</a></i> (1967) · <i><a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)">The Hobbit</a></i> (1977, Rankin and Bass) · <i><a href="The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">The Lord of the Rings</a></i> (1978) · <i><a href="The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King</a></i> (1980, Rankin and Bass) · <i><a href="The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md" title="The Lord of the Rings: The War of the Rohirrim">The War of the Rohirrim</a></i> (2024, New Line Cinema)
 </td></tr>
 <tr>
 <th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="3"><b>Live-action</b><br/><small>(New Line Cinema)</small>
 </th>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i> series</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i>loạt</a></b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (2001) · <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (2002) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (2003)
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> series</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> loạt</a></b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">An Unexpected Journey</a></i> (2012) · <i><a href="The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Desolation of Smaug</a></i> (2013) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Battle of the Five Armies</a></i> (2014)
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b>Other films</b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b>Các phim khác</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, upcoming)
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, sắp ra mắt)
 </td></tr>
 <tr>
-<th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>TV series</b>
+<th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>Loạt phim truyền hình</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-present)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-nay)
 </td></tr></tbody></table>

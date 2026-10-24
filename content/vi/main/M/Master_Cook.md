@@ -13,7 +13,7 @@ categories:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>This year I shall make another Great Cake: the only Cook, as far as is remembered, ever to make a second one.
+<p>Năm nay tôi sẽ làm một chiếc Bánh Tuyệt vời khác: Người đầu bếp duy nhất, theo như những gì được nhớ đến, từng làm chiếc bánh thứ hai.
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Alf.md" title="Alf">Alf &#39;Prentice</a>, <i>Smith of Wootten Major</i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

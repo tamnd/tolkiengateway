@@ -31,7 +31,7 @@ images:
 
 <b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Added in the <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Minas_Morgul.md" title="The Lord of the Rings Online: Minas Morgul">Minas Morgul</a></i> expansion, the Morgul Vale contains the <a href="../S/Stairs_of_Cirith_Ungol.md" title="Stairs of Cirith Ungol">Stairs of Cirith Ungol</a>, <a href="../S/Shelob&#39;s_Lair.md" title="Shelob&#39;s Lair">Shelob&#39;s Lair</a> (Torech Ungol), <a href="Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a>, the <a href="../E/Ered_Gorgoroth.md" title="Ered Gorgoroth">Ered Gorgoroth</a> peak of <i>Achathras</i> under which the dead city is located, and the hidden valley of <i>Thuringwath</i>.</dd></dl>
+<dl><dd>Được thêm vào trong bản mở rộng <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Minas_Morgul.md" title="The Lord of the Rings Online: Minas Morgul">Minas Morgul</a></i>, Thung lũng Morgul chứa <a href="../S/Stairs_of_Cirith_Ungol.md" title="Stairs of Cirith Ungol">Cầu thang của Cirith Ungol</a>, <a href="../S/Shelob&#39;s_Lair.md" title="Shelob&#39;s Lair">Hang ổ của Shelob</a> (Torech Ungol), <a href="Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a>, đỉnh <a href="../E/Ered_Gorgoroth.md" title="Ered Gorgoroth">Ered Gorgoroth</a> của <i>Achathras</i> nơi tọa lạc của thành phố chết và thung lũng ẩn giấu của <i>Thuringwath</i>.</dd></dl>
 
 <span></span>
 

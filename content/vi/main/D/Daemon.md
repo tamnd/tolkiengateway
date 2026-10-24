@@ -22,9 +22,9 @@ langlinks:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>But it came to pass that a Daemon (as popular opinion supposed) in his <a class="mw-redirect" href="../P/Phrontisterium.md" title="Phrontisterium">secret workshops</a> devised certain abominable machines, to which he gave the name Motores.
+<p>Nhưng chuyện xảy ra là một Daemon (như dư luận cho rằng) trong <a class="mw-redirect" href="../P/Phrontisterium.md" title="Phrontisterium">xưởng bí mật</a> của mình đã phát minh ra một số cỗ máy ghê tởm mà ông đặt tên là Motores.
 </p>
-<p class="tg-quote-footer"><cite>Excerpt from the story<sup id="cite_ref-telegraph_1-0" class="reference"><a href="#cite_note-telegraph-1">[1]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite>Trích đoạn truyện<sup id="cite_ref-telegraph_1-0" class="reference"><a href="#cite_note-telegraph-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 **Daemon** được mọi người<sup id="cite_ref-telegraph_1-1" class="reference"><a href="#cite_note-telegraph-1">[1]</a></sup> tin rằng<sup id="cite_ref-telegraph_1-2" class="reference"><a href="#cite_note-telegraph-1">[1]</a></sup> là một [con quỷ](Demon.md) chế tạo ra những cỗ máy có tên Motores "trong [xưởng bí mật](../P/Phrontisterium.md)"<sup id="cite_ref-telegraph_1-3" class="reference"><a href="#cite_note-telegraph-1">[1]</a></sup> tại [Vaccipratum](../V/Vaccipratum.md) để phong tỏa "đường phố, làm ngạt thở cư dân và cuối cùng phát nổ".<sup id="cite_ref-Bio_2-0" class="reference"><a href="#cite_note-Bio-2">[2]</a></sup> Người dân của [Bovadium](../B/Bovadium.md) sau đó đã tôn thờ<sup id="cite_ref-telegraph_1-4" class="reference"><a href="#cite_note-telegraph-1">[1]</a></sup> Motores của mình "và tình trạng ùn tắc giao thông đã cản trở các con đường trong và xung quanh" Bovadium.<sup id="cite_ref-satire_3-0" class="reference"><a href="#cite_note-satire-3">[3]</a></sup> Hậu quả là thành phố đã bị phá hủy.<sup id="cite_ref-Bio_2-1" class="reference"><a href="#cite_note-Bio-2">[2]</a></sup>

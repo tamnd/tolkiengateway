@@ -18,22 +18,22 @@ categories:
 ## Bài thơ {#The_poem}
 
 <div class="poem">
-<p><i>I had an errand there: gathering <a href="../W/Water-lilies.md" title="Water-lilies">water-lilies</a>,</i><br/>
-<i>green leaves and lilies white to please my pretty lady,</i><br/>
-<i>the last ere the year&#39;s end to keep them from the winter,</i><br/>
-<i>to flower by her pretty feet till the snows are melted.</i><br/>
-<i>Each year at summer&#39;s end I go to find them for her,</i><br/>
-<i>in a wide pool, deep and clear, far down <a href="../W/Withywindle.md" title="Withywindle">Withywindle</a>;</i><br/>
-<i>there they open first in spring and there they linger latest.</i><br/>
-<i>By that pool long ago I found the River-daughter,</i><br/>
-<i>fair young <a href="../G/Goldberry.md" title="Goldberry">Goldberry</a> sitting in the rushes.</i><br/>
-<i>Sweet was her singing then, and her heart was beating!</i><br/><br/>
-<i>And that proved well for you--for now I shall no longer</i><br/>
-<i>go down deep again along the forest-water,</i><br/>
-<i>not while the year is old. Nor shall I be passing</i><br/>
-<i><a href="../O/Old_Man_Willow.md" title="Old Man Willow">Old Man Willow</a>&#39;s house this side of spring-time,</i><br/>
-<i>not till the merry spring, when the River-daughter</i><br/>
-<i>dances down the withy-path to bathe in the water.</i>
+<p><i>Tôi có việc vặt ở đó: hái <a href="../W/Water-lilies.md" title="Water-lilies">hoa súng</a>,</i><br/>
+<i>lá xanh và hoa huệ trắng để chiều lòng cô nàng xinh đẹp của tôi,</i><br/>
+<i>lần cuối cùng trước cuối năm để tránh mùa đông,</i><br/>
+<i>nở hoa dưới đôi chân xinh đẹp của nàng cho đến khi tuyết tan.</i><br/>
+<i>Hàng năm cứ vào dịp cuối hè tôi lại đi tìm cho bà,</i><br/>
+<i>trong một vực nước rộng, sâu và trong, xa xa <a href="../W/Withywindle.md" title="Withywindle">Withywindle</a>;</i><br/>
+<i>ở đó họ mở cửa đầu tiên vào mùa xuân và ở đó họ nán lại muộn nhất.</i><br/>
+<i>Bên hồ nước đó lâu rồi tôi đã tìm thấy Con Gái Sông,</i><br/>
+<i>trẻ đẹp <a href="../G/Goldberry.md" title="Goldberry">Goldberry</a> ngồi giữa bụi cây.</i><br/>
+<i>Lúc đó cô hát ngọt ngào, tim cô đập rộn ràng!</i><br/><br/>
+<i>Và điều đó đã chứng minh điều tốt cho bạn--bây giờ tôi sẽ không còn nữa</i><br/>
+<i>lại đi sâu theo rừng nước,</i><br/>
+<i>không khi năm đã cũ. Tôi cũng sẽ không đi qua</i><br/>
+<i><a href="../O/Old_Man_Willow.md" title="Old Man Willow">Nhà ông già Liễu</a> bên này mùa xuân,</i><br/>
+<i>phải đến mùa xuân vui vẻ, khi con gái sông</i><br/>
+<i>nhảy xuống con đường mòn để tắm nước.</i>
 </p>
 </div>
 

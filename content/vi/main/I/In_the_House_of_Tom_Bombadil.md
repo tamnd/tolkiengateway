@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/In_the_House_of_Tom_Bombadil"
 content_sha256: 1dadfc0ee74758ada3d43c6ccac900ca6be38cf570603a5521f750dd0198bb7a
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "7th chapter of the first book of The Fellowship of the Ring"
+short_description: "Chương 7 cuốn sách đầu tiên của The Fellowship of the Ring"
 categories:
   - "The Fellowship of the Ring chapters"
 hidden_categories:
@@ -30,10 +30,10 @@ infobox:
     value: "Fog on the Barrow-downs"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_In_the_house_of_Tom_Bombadil.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ea/Anke_Ei%C3%9Fmann_-_In_the_house_of_Tom_Bombadil.jpg/320px-Anke_Ei%C3%9Fmann_-_In_the_house_of_Tom_Bombadil.jpg" decoding="async" loading="lazy" width="320" height="426" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ea/Anke_Ei%C3%9Fmann_-_In_the_house_of_Tom_Bombadil.jpg/480px-Anke_Ei%C3%9Fmann_-_In_the_house_of_Tom_Bombadil.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ea/Anke_Ei%C3%9Fmann_-_In_the_house_of_Tom_Bombadil.jpg/640px-Anke_Ei%C3%9Fmann_-_In_the_house_of_Tom_Bombadil.jpg 2x" data-file-width="649" data-file-height="863"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Chapter of <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>In the House of Tom Bombadil</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Number</th><td class="tg-infobox-data">7</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Synopsis</span></th></tr><tr><th scope="row" class="tg-infobox-label">Event</th><td class="tg-infobox-data"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> and company stay at the house of <a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a>.</td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/26_September.md" title="26 September">26</a>-<a href="../_/27_September.md" title="27 September">27 September</a> <a href="../T/Third_Age_3018.md" title="Third Age 3018">3018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/The_Old_Forest.md" title="The Old Forest">The Old Forest</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Navigation</span></th></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../T/The_Old_Forest.md" title="The Old Forest">The Old Forest</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../F/Fog_on_the_Barrow-downs.md" title="Fog on the Barrow-downs">Fog on the Barrow-downs</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_In_the_house_of_Tom_Bombadil.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ea/Anke_Ei%C3%9Fmann_-_In_the_house_of_Tom_Bombadil.jpg/320px-Anke_Ei%C3%9Fmann_-_In_the_house_of_Tom_Bombadil.jpg" decoding="async" loading="lazy" width="320" height="426" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ea/Anke_Ei%C3%9Fmann_-_In_the_house_of_Tom_Bombadil.jpg/480px-Anke_Ei%C3%9Fmann_-_In_the_house_of_Tom_Bombadil.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ea/Anke_Ei%C3%9Fmann_-_In_the_house_of_Tom_Bombadil.jpg/640px-Anke_Ei%C3%9Fmann_-_In_the_house_of_Tom_Bombadil.jpg 2x" data-file-width="649" data-file-height="863"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Chapter of <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>In the House of Tom Bombadil</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Số</th><td class="tg-infobox-data">7</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Tóm tắt nội dung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sự kiện</th><td class="tg-infobox-data"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> và công ty nghỉ tại nhà của <a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a>.</td></tr><tr><th scope="row" class="tg-infobox-label">Ngày</th><td class="tg-infobox-data"><a href="../_/26_September.md" title="26 September">26</a>-<a href="../_/27_September.md" title="27 September">27 September</a> <a href="../T/Third_Age_3018.md" title="Third Age 3018">3018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../T/The_Old_Forest.md" title="The Old Forest">The Old Forest</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Điều hướng</span></th></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="../T/The_Old_Forest.md" title="The Old Forest">The Old Forest</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="../F/Fog_on_the_Barrow-downs.md" title="Fog on the Barrow-downs">Fog on the Barrow-downs</a></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Old Tom Bombadil is a merry fellow;<br/>Bright blue his jacket is, and his boots are yellow.
+<p>Ông già Tom Bombadil là một người vui vẻ;<br/>Áo khoác của ông màu xanh sáng và đôi bốt của ông màu vàng.
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -53,7 +53,7 @@ Chương này bắt đầu khi [chương trước](../T/The_Old_Forest.md) kết
 Những người Hobbit bước vào nhà Tom và tìm thấy một người phụ nữ xinh đẹp với mái tóc vàng óng ả đang ngồi ở cuối phòng, xung quanh là những chậu nước đựng hoa súng trắng. Cô duyên dáng nhảy lên, tự giới thiệu mình là Goldberry và mời Hobbit vào trong cười nói vui vẻ. Cô đóng cửa lại và ra lệnh cho Hobbit để nỗi sợ hãi của họ ở bên ngoài. Frodo nhận ra cô là nhân vật trong một bài hát anh từng nghe. Cảm thấy như bị bùa chú mạnh mẽ, anh đột nhiên bắt đầu hát:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>O slender as a willow-wand! O clearer than clear water!<br/>O reed by the living pool! Fair River-daughter!<br/>O spring-time and summer-time, and spring again after!<br/>O wind on the waterfall, and the leaves&#39; laughter!
+<p>Ôi mảnh khảnh như cành liễu! Ôi trong hơn nước trong!<br/>Hỡi cây sậy bên ao sống! Con gái sông xinh đẹp!<br/>Hỡi mùa xuân, mùa hạ, rồi mùa xuân sau!<br/>Hỡi gió trên thác, và tiếng cười của lá!
 </p>
 <p class="tg-quote-footer"><cite><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -61,7 +61,7 @@ Những người Hobbit bước vào nhà Tom và tìm thấy một người ph�
 Lúc này, Goldberry nhận ra Frodo là [Bạn của Tiên tộc](../E/Elf-friend.md) và mời khách ngồi vào bàn khi cô chuẩn bị bữa tối. Các Hobbit nghe thấy tiếng Tom ở bên ngoài đang chăm sóc ngựa con của họ. Frodo hỏi Goldberry Tom Bombadil là ai:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>He is.
+<p>Đúng vậy.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Goldberry.md" title="Goldberry">Goldberry</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -107,9 +107,9 @@ Những người Hobbit cảm thấy đói bụng khi họ ăn những bữa ăn
 Tom bắt đầu hỏi Hobbit nhiều câu hỏi, mặc dù ông có vẻ biết nhiều về cuộc sống, gia đình họ và lịch sử của [The Shire](../T/The_Shire.md). Ông đã đúc rút phần lớn kiến ​​thức này từ những cuộc trò chuyện với [Farmer Maggot](../F/Farmer_Maggot.md).
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>There&#39;s earth under his old feet, and clay on his fingers; wisdom in his bones, and both his eyes are open.
+<p>Có đất dưới đôi chân già nua của ông, và đất sét trên những ngón tay ông; trí tuệ trong xương của ông, và cả hai mắt ông đều mở.
 </p>
-<p class="tg-quote-footer"><cite><a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a>, speaking about <a href="../F/Farmer_Maggot.md" title="Farmer Maggot">Farmer Maggot</a></cite></p>
+<p class="tg-quote-footer"><cite><a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a>, nói về <a href="../F/Farmer_Maggot.md" title="Farmer Maggot">Farmer Maggot</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 Tom dường như đã biết được hành trình của Frodo trực tiếp từ [Gildor Inglorion](../G/Gildor_Inglorion.md), người mà Hobbit đã gặp [vài ngày trước](../T/Three_is_Company.md). Trước sự tra hỏi của Tom, Frodo đã kể lại mọi chuyện về [Bilbo](../B/Bilbo_Baggins.md), đồng thời tâm sự về những hy vọng và nỗi lo sợ của bản thân. Khi Frodo đề cập đến Kỵ sĩ Đen, Tom đột nhiên yêu cầu được xem Chiếc nhẫn và Frodo đã đưa cho anh mà không thắc mắc gì.
@@ -117,7 +117,7 @@ Tom dường như đã biết được hành trình của Frodo trực tiếp t�
 Tom nhìn qua chiếc Nhẫn, nó dường như ngày càng lớn hơn trong tay anh. Ông đeo nó vào và Hobbit' ngạc nhiên là hoàn toàn không bị ảnh hưởng bởi nó. Anh ném chiếc Nhẫn lên không trung và nó biến mất trong một tia sáng rực rỡ, Frodo thật đau khổ trước khi Tom trao lại nó như thể không có chuyện gì xảy ra. Nghi ngờ có thể đã xảy ra sơ suất nào đó, Frodo tìm cơ hội đeo chiếc Nhẫn vào ngón tay mình để thử. Anh cảm thấy nhẹ nhõm khi phát hiện ra rằng mình đã trở nên vô hình. Tuy nhiên, Tom dường như đã nhìn thấu khả năng tàng hình của ông ta và ra lệnh cho ông ta tháo chiếc nhẫn ra:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Hey! Come Frodo, there! Where be you a-going? Old Tom Bombadil&#39;s not as blind as that yet. Take off your golden ring! Your hand&#39;s more fair without it.
+<p>Chào! Hãy đến Frodo, kia! Bạn đang đi đâu vậy? Cũ Tom Bombadil vẫn chưa mù quáng như vậy. Hãy tháo chiếc nhẫn vàng của bạn ra! Bàn tay của bạn sẽ công bằng hơn nếu không có nó.
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -129,7 +129,7 @@ Tom khuyên Hobbit nên khởi hành sớm vào sáng hôm sau để tận dụn
 Ông ta trấn an họ rằng họ sẽ an toàn miễn là tránh được bất kỳ rào cản nào và luôn vượt qua chúng ở phía tây. Để an toàn hơn, ông còn dạy họ một bài đồng dao để kêu gọi sự giúp đỡ của ông:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Ho! Tom Bombadil, Tom Bombadillo!<br/>By water, wood and hill, by the reed and willow,<br/>By fire, sun and moon, harken now and hear us!<br/>Come, Tom Bombadil, for our need is near us!
+<p>ồ! Tom Bombadil, Tom Bombadillo!<br/>Bằng nước, rừng và đồi, bằng sậy và liễu,<br/>Bằng lửa, mặt trời và mặt trăng, hãy lắng nghe và lắng nghe chúng tôi!<br/>Hãy đến, Tom Bombadil, vì nhu cầu của chúng tôi đang ở gần chúng tôi!
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

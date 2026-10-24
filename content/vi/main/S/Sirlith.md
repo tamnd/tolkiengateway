@@ -28,7 +28,7 @@ Nó xuất hiện lần đầu trên bản đồ hàng hóa Mordor dành cho *[T
 Trang fansite [Thelandofshadow.com](../T/Thelandofshadow.com.md) đã lấy một số cái tên do Reeve giới thiệu và mở rộng chúng. Sirlith được mô tả như sau:<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>The Eastern River that fed into the great sea of Mordor - The eastern tributary that fed into the Sea of Núrnen in the south of Mordor. This river ran from Nan Morlith across the Lithlad to the eastern edge of the great sea. It was the longest river in Mordor, but not the largest. Many small vessels fed the engines of War to the North by bringing goods to the armies of Sauron&#39;s Northern Realm.
+<p>Sông phía Đông đổ vào biển lớn Mordor - Phụ lưu phía đông đổ vào Biển Núrnen ở phía nam Mordor. Con sông này chạy từ Nan Morlith băng qua Lithlad đến rìa phía đông của biển lớn. Đó là con sông dài nhất ở Mordor, nhưng không phải là con sông lớn nhất. Nhiều tàu nhỏ tiếp sức cho động cơ Chiến tranh ra phương Bắc bằng cách chở hàng hóa cho quân đội của Sauron Vương quốc phương Bắc.
 </p>
 </blockquote>
 
@@ -44,7 +44,7 @@ Thông tin từ Vùng đất Bóng Tối đã được đưa vào dưới dạng
 		<li class="gallerybox" style="width: 138.66666666667px">
 			<div class="thumb" style="width: 136.66666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Daniel_Reeve_-_Map_of_Mordor_(Merchandise).jpg.md" title="2003 merchandise map"><img alt="2003 merchandise map" src="https://tolkiengateway.net/w/images/thumb/a/a7/Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg/205px-Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg" decoding="async" loading="lazy" width="137" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg/308px-Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg/411px-Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg 2x" data-file-width="2700" data-file-height="2368"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 117px"><div class="gallerytext">
-<p>2003 merchandise map
+<p>Bản đồ hàng hóa năm 2003
 </p>
 			</div></div>
 		</li>
@@ -58,7 +58,7 @@ Thông tin từ Vùng đất Bóng Tối đã được đưa vào dưới dạng
 <li id="cite_note-reeve-site-1"><span class="mw-cite-backlink"><a href="#cite_ref-reeve-site_1-0">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Daniel Reeve</span>. <span class="cite-web-article"><a class="external text" href="https://www.danielreeve.co.nz/LOTR/Maps/" rel="noreferrer noopener" target="_blank">&#34;The Lord of the Rings: Maps&#34;</a></span>. <span class="cite-web-website">Daniel Reeve, artist</span></cite></span>
 </li>
 <li id="cite_note-reeve-mail-2"><span class="mw-cite-backlink"><a href="#cite_ref-reeve-mail_2-0">↑</a></span> <span class="reference-text">Daniel Reeve, personal correspondence (June 2026):<blockquote class="tg-quote noexcerpt">
-<p>the Decipher maps pre-dated the ROTK merchandising map (Mordor). I created [...]  the ROTK merchandising map in 2003. So the Decipher Mordor map served as a kind of template when I later made the merchandising map of Mordor – at which time I expanded upon it, adding a lot more invented detail and names. […] I created the places and names myself.
+<p>bản đồ Giải mã có trước bản đồ buôn bán ROTK (Mordor). Tôi đã tạo […] bản đồ buôn bán ROTK vào năm 2003. Vì vậy, bản đồ Giải mã Mordor đóng vai trò như một loại mẫu khi sau này tôi tạo bản đồ buôn bán Mordor - lúc đó tôi đã mở rộng nó, bổ sung thêm nhiều chi tiết và tên được phát minh. […] Tôi đã tự mình tạo ra các địa điểm và đặt tên.
 </p>
 </blockquote></span>
 </li>

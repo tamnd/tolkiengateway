@@ -25,7 +25,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the pipe-weed</b>. For the the Hobbit named &#34;Old Toby&#34;, see <b><a href="../T/Tobold_Hornblower.md" title="Tobold Hornblower">Tobold Hornblower</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>cỏ dại</b>. Về Hobbit có tên "Old Toby", xem <b><a href="../T/Tobold_Hornblower.md" title="Tobold Hornblower">Tobold Hornbutter</a></b>.</div></div>
 
 **Old Toby** was one of the three most notable varieties of [pipe-weed](../P/Pipe-weed.md), grown in the region around [Longbottom](../L/Longbottom.md) in [the Shire](../T/The_Shire.md)'s [Southfarthing](../S/Southfarthing.md).<sup id="cite_ref-Pipeweed_1-0" class="reference"><a href="#cite_note-Pipeweed-1">[1]</a></sup>
 
@@ -60,19 +60,19 @@ Tên [Westron](../W/Westron.md) chính hãng là <i><a class="new" href="https:/
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a> smokes Old Toby next to <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> outside <a href="../B/Bag_End.md" title="Bag End">Bag End</a>. Bilbo blows a smoke ring and Gandalf turns his ring into a ship, which &#39;sails&#39; through Bilbo&#39;s ring.</dd></dl>
+<dl><dd><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a> hút thuốc Old Toby cạnh <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> bên ngoài <a href="../B/Bag_End.md" title="Bag End">Bag End</a>. Bilbo thổi một vòng khói và Gandalf biến chiếc nhẫn của mình thành một con tàu, 'đi' qua vòng của Bilbo.</dd></dl>
 
 <b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
-<dl><dd><a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> recounts his dream to <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> in <a href="../F/Fangorn_Forest.md" title="Fangorn Forest">Fangorn Forest</a>. In his dream, they smoked a large barrel, full of pipe-weed and Pippin vomited. He says &#39;I&#39;d give anything for a whiff of Old Toby.&#39;</dd></dl>
+<dl><dd><a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> kể lại giấc mơ của mình cho <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> ở <a href="../F/Fangorn_Forest.md" title="Fangorn Forest">Rừng Fangorn</a>. Trong giấc mơ của anh, họ hút một thùng lớn chứa đầy cỏ tẩu và Pippin nôn mửa. Ông nói 'Tôi sẵn sàng đánh đổi bất cứ thứ gì để ngửi thấy mùi Old Toby.'</dd></dl>
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The smoke from Old Toby Pipe-weed takes the form of a large heart with a ring inside it.</dd></dl>
+<dl><dd>Khói từ Old Toby Pipe-weed có hình dạng một trái tim lớn với một chiếc nhẫn bên trong.</dd></dl>
 
 <b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 
-<dl><dd>As <a href="../R/Radagast.md" title="Radagast">Radagast</a> narrates terrified to <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> his encounter with the <a class="mw-redirect" href="../N/Necromancer.md" title="Necromancer">Necromancer</a> in <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>, Gandalf offers him to pull from his pipe some &#34;Old Toby&#34; to calm down.</dd></dl>
+<dl><dd>Khi <a href="../R/Radagast.md" title="Radagast">Radagast</a> kể lại một cách kinh hãi về <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> cuộc gặp gỡ của ông với <a class="mw-redirect" href="../N/Necromancer.md" title="Necromancer">Necromancer</a> trong <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>, Gandalf đề nghị ông rút ra từ ống tẩu của mình một ít "Old Toby" để bình tĩnh lại.</dd></dl>
 
 <span></span>
 

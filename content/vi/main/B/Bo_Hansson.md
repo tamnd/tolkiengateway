@@ -20,7 +20,7 @@ images:
   - "Bo_Hansson.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Bo_Hansson.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8a/Bo_Hansson.jpg/300px-Bo_Hansson.jpg" decoding="async" loading="lazy" width="300" height="230" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8a/Bo_Hansson.jpg/450px-Bo_Hansson.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8a/Bo_Hansson.jpg/600px-Bo_Hansson.jpg 2x" data-file-width="869" data-file-height="666"/></a><figcaption>Bo Hansson performing live in 2007</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Bo_Hansson.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8a/Bo_Hansson.jpg/300px-Bo_Hansson.jpg" decoding="async" loading="lazy" width="300" height="230" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8a/Bo_Hansson.jpg/450px-Bo_Hansson.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8a/Bo_Hansson.jpg/600px-Bo_Hansson.jpg 2x" data-file-width="869" data-file-height="666"/></a><figcaption>Bo Hansson biểu diễn trực tiếp năm 2007</figcaption></figure>
 
 **Bo Hansson** ([10 tháng 4](../_/10_April.md), [1943](../_/1943.md) – [23 tháng 4](../_/23_April.md), [2010](../_/2010.md)) là một nhạc sĩ và nhà soạn nhạc người Thụy Điển. Ông trở nên nổi tiếng quốc tế nhờ phát hành album với âm nhạc lấy cảm hứng từ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* vào những năm 1970.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

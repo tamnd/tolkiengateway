@@ -31,7 +31,7 @@ infobox:
     value: "Mirror Mirror"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Blind_guardian_nightfall_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/93/Blind_guardian_nightfall_cover.jpg/320px-Blind_guardian_nightfall_cover.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/93/Blind_guardian_nightfall_cover.jpg/480px-Blind_guardian_nightfall_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/93/Blind_guardian_nightfall_cover.jpg/640px-Blind_guardian_nightfall_cover.jpg 2x" data-file-width="1000" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Blood Tears</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../N/Nightfall_in_Middle-Earth.md" title="Nightfall in Middle-Earth">Nightfall in Middle-Earth</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data">Hansi Kürsch, André Olbrich</td></tr><tr><th scope="row" class="tg-infobox-label">Written by</th><td class="tg-infobox-data">Hansi Kürsch</td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data"><a href="Blind_Guardian.md" title="Blind Guardian">Blind Guardian</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">5:24</td></tr><tr><th scope="row" class="tg-infobox-label">Track No.</th><td class="tg-infobox-data">8</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="../C/Captured.md" title="Captured">Captured</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="../M/Mirror_Mirror.md" title="Mirror Mirror">Mirror Mirror</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/0to7e15DW6GsD8AznqfJjN"></iframe></span>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Blind_guardian_nightfall_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/93/Blind_guardian_nightfall_cover.jpg/320px-Blind_guardian_nightfall_cover.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/93/Blind_guardian_nightfall_cover.jpg/480px-Blind_guardian_nightfall_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/93/Blind_guardian_nightfall_cover.jpg/640px-Blind_guardian_nightfall_cover.jpg 2x" data-file-width="1000" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Blood Tears</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../N/Nightfall_in_Middle-Earth.md" title="Nightfall in Middle-Earth">Đêm buông xuống ở Trung Địa</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data">Hansi Kürsch, André Olbrich</td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data">Hansi Kürsch</td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data"><a href="Blind_Guardian.md" title="Blind Guardian">Blind Guardian</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">5:24</td></tr><tr><th scope="row" class="tg-infobox-label">Số thứ tự bản nhạc</th><td class="tg-infobox-data">8</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="../C/Captured.md" title="Captured">Captured</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="../M/Mirror_Mirror.md" title="Mirror Mirror">Mirror Mirror</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Phương tiện truyền thông</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/0to7e15DW6GsD8AznqfJjN"></iframe></span>
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
@@ -40,51 +40,51 @@ infobox:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Welcome to my realm<br/>
-We are both condemned to live<br/>
-It&#39;s a dark fate<br/>
-(I can hear your calls<br/>
-I can hear your calls)<br/>
-THE ETERNAL LIFE<br/>
+<p>Chào mừng đến với vương quốc của tôi<br/>
+Cả hai chúng ta đều bị kết án phải sống<br/>
+Đó là một số phận đen tối<br/>
+(Tôi có thể nghe thấy cuộc gọi của bạn<br/>
+Tôi có thể nghe thấy cuộc gọi của bạn)<br/>
+CUỘC SỐNG VĨ ĐẠI<br/>
 <br/>
-I see it still burns<br/>
-Each night I cry in pain<br/>
+Tôi thấy nó vẫn cháy<br/>
+Mỗi đêm tôi khóc trong đau đớn<br/>
 <br/>
-Alive<br/>
-Though the end appears my friend<br/>
+Còn sống<br/>
+Dù cái kết đã xuất hiện bạn tôi<br/>
 <br/>
-And blood tears I cry<br/>
-You&#39;ve searched and you&#39;ve found<br/>
-Cut off your old friends hand<br/>
+Và nước mắt tôi khóc<br/>
+Bạn đã tìm kiếm và bạn đã tìm thấy<br/>
+Chặt đứt tay bạn cũ<br/>
 <br/>
-My mind&#39;s<br/>
-In frozen dreams<br/>
-The rotten flesh<br/>
-Of bitter lies<br/>
-Welcome to where time stands still<br/>
-Noone leaves and noone ever will<br/>
+Tâm trí của tôi<br/>
+Trong giấc mơ băng giá<br/>
+Thịt thối<br/>
+Của những lời dối trá cay đắng<br/>
+Chào mừng đến với nơi thời gian ngừng trôi<br/>
+Không ai rời đi và sẽ không ai rời đi<br/>
 <br/>
-Can&#39;t hold it<br/>
-It burns<br/>
-Each night I cry in pain<br/>
+Chịu không nổi<br/>
+Nó cháy<br/>
+Mỗi đêm tôi khóc trong đau<br/>
 <br/>
-And blood tears I cry<br/>
-Endless grief remained inside<br/>
-And blood tears I cry<br/>
-Endless grief remained inside<br/>
+Và nước mắt tôi khóc<br/>
+Nỗi đau vô tận còn đọng lại trong<br/>
+Và nước mắt tôi khóc<br/>
+Nỗi đau vô tận còn đọng lại trong<br/>
 <br/>
-It seems so clearly<br/>
-Bent the bow<br/>
-Cause life in me is gone<br/>
-And a cruel wind&#39;s blowing cold<br/>
-And a cruel wind&#39;s blowing cold<br/>
-In blame<br/>
+Có vẻ rất rõ ràng<br/>
+Cong cung<br/>
+Vì sự sống trong tôi đã không còn<br/>
+Và một cơn gió tàn nhẫn thổi lạnh<br/>
+Và một cơn gió tàn nhẫn thổi lạnh<br/>
+Có lỗi<br/>
 <br/>
-And life it shall wane<br/>
-Each night I cry in pain<br/>
+Và cuộc sống sẽ tàn lụi<br/>
+Mỗi đêm tôi khóc trong đau<br/>
 <br/>
-And blood tears I cry<br/>
-Endless grief remained inside<br/>
-Cut off your old friends hand
+Và nước mắt tôi khóc<br/>
+Nỗi đau vô tận còn đọng lại trong<br/>
+Chặt tay bạn cũ
 </p>
 </div>

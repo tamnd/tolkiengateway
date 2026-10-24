@@ -20,11 +20,11 @@ categories:
 
 <b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Kho báu của Trung Địa</a></i></b>
 
-<dl><dd>Steel, also called <i>Borang</i> (<a href="Sindarin.md" title="Sindarin">S.</a> “Steadfast-iron”), has its composition explained in this book. It is an alloy with <i>morasarn</i> (carbon) and a small amount of one or more odd metals. The <a href="../M/Mírdain.md" title="Mírdain">mírdain</a> are noted find it an ugly and flawed material, but make much use of it nonetheless.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
+<dl><dd>Thép, còn được gọi là <i>Borang</i> (<a href="Sindarin.md" title="Sindarin">S.</a> “Sắt bền vững”), được giải thích về thành phần trong cuốn sách này. Nó là hợp kim có <i>morasarn</i> (cacbon) và một lượng nhỏ một hoặc nhiều kim loại lẻ. <a href="../M/Mírdain.md" title="Mírdain">mírdain</a> được ghi nhận là vật liệu xấu và thiếu sót, nhưng vẫn tận dụng nó nhiều.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Expert prospectors can forge steel ingots using iron ingots and lumps of coal.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
+<dl><dd>Các chuyên gia thăm dò có thể rèn phôi thép bằng cách sử dụng thỏi sắt và cục than.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
 <span></span>
 

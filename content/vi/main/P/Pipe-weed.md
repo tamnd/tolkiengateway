@@ -64,11 +64,11 @@ Tên phổ biến Gondor của pipe-weed là <b><u><i>westmansweed</i></u></b>.<
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The smoke from Sweet Galenas takes the form of a sailing ship that floats out from the pipe.</dd></dl>
+<dl><dd>Khói từ Sweet Galenas có hình dạng một chiếc thuyền buồm bay ra từ đường ống.</dd></dl>
 
 <b>2014: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung Địa: Bóng Tối trong số Mordor</a> (Phiên bản trò chơi của năm)</i>:</b>
 
-<dl><dd>The plant is used for healing Tallion, as well as other plants.</dd></dl>
+<dl><dd>Cây được sử dụng để chữa bệnh cho Tallion, cũng như các loại cây khác.</dd></dl>
 
 <span></span>
 

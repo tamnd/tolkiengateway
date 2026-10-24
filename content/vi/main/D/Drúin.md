@@ -23,6 +23,6 @@ langlinks:
     url: "https://kontu.wiki/Dr%C3%BAedain"
 ---
 
-<dl><dd><i>See main article: <b><a href="Drúedain.md" title="Drúedain">Drúedain</a></b></i></dd></dl>
+<dl><dd><i>Xem bài viết chính: <b><a href="Drúedain.md" title="Drúedain">Drúedain</a></b></i></dd></dl>
 
 <i><b>Drúin</b></i> là một từ [Sindarin](../S/Sindarin.md) đề cập đến [Con Người](../M/Men.md) hoang dã, ẩn dật được gọi là [Drúedain](Drúedain.md). Cái tên này cuối cùng xuất phát từ tên riêng của họ, [Drughu](Drúedain.md), phỏng theo âm thanh của Sindarin [Elvish](../E/Elvish.md). Drúin là số nhiều đơn giản (tương đương trực tiếp với "Woses"), nhưng cũng có các dạng khác trong Sindarin. [Drúath](Drúedain.md) sẽ ám chỉ một số lượng lớn hoặc đám đông những người này, trong khi [Drúedain](Drúedain.md) ám chỉ toàn bộ chủng tộc.

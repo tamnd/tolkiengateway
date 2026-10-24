@@ -17,7 +17,7 @@ infobox:
     value: "Dungeon synth"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Arda&#39;s Herbarium<br/><small>A Musical Guide to the Mystical Garden of Middle-Earth and Stranger Places</small></span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Album series by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ithildin_(musician)&amp;action=edit&amp;redlink=1" title="Ithildin (musician) (page does not exist)">Ithildin</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2022.md" title="2022">2022</a>-<a href="../_/2024.md" title="2024">2024</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Dungeon_synth" title="wikipedia:Dungeon synth">Dungeon synth</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Arda&#39;s Herbarium<br/><small>A Musical Guide to the Mystical Garden of Middle-Earth and Stranger Places</small></span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Loạt album của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ithildin_(musician)&amp;action=edit&amp;redlink=1" title="Ithildin (musician) (page does not exist)">Ithildin</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/2022.md" title="2022">2022</a>-<a href="../_/2024.md" title="2024">2024</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Dungeon_synth" title="wikipedia:Dungeon synth">Tổng hợp ngục tối</a></td></tr></tbody></table>
 
 <i><b>Arda's Herbarium: Hướng dẫn âm nhạc đến khu vườn huyền bí ở Trung Địa và những nơi xa lạ</b></i> là một loạt album của nhạc sĩ người Canada <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ithildin_(musician)&amp;action=edit&amp;redlink=1" title="Ithildin (musician) (page does not exist)">Ithildin</a>. Mục đích của nó là sáng tác nhạc cho mọi loại cây trong tác phẩm của Tolkien, lấy cảm hứng từ [Hệ thực vật ở Trung Địa](../F/Flora_of_Middle-Earth.md).
 
@@ -32,8 +32,8 @@ Vol. I</th>
     </tr>
     <tr>
       <th class="tlheader" style="width: 20px; text-align: right;">#</th>
-      <th class="tlheader" style="width: 100%;">Title</th>
-      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Length</th>
+      <th class="tlheader" style="width: 100%;">Danh hiệu</th>
+      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Chiều dài</th>
     </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">1.</td>
@@ -119,8 +119,8 @@ Vol. II</th>
     </tr>
     <tr>
       <th class="tlheader" style="width: 20px; text-align: right;">#</th>
-      <th class="tlheader" style="width: 100%;">Title</th>
-      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Length</th>
+      <th class="tlheader" style="width: 100%;">Danh hiệu</th>
+      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Chiều dài</th>
     </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">1.</td>
@@ -206,8 +206,8 @@ Vol. III</th>
     </tr>
     <tr>
       <th class="tlheader" style="width: 20px; text-align: right;">#</th>
-      <th class="tlheader" style="width: 100%;">Title</th>
-      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Length</th>
+      <th class="tlheader" style="width: 100%;">Danh hiệu</th>
+      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Chiều dài</th>
     </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">1.</td>
@@ -293,8 +293,8 @@ Vol. IV</th>
     </tr>
     <tr>
       <th class="tlheader" style="width: 20px; text-align: right;">#</th>
-      <th class="tlheader" style="width: 100%;">Title</th>
-      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Length</th>
+      <th class="tlheader" style="width: 100%;">Danh hiệu</th>
+      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Chiều dài</th>
     </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">1.</td>
@@ -353,7 +353,7 @@ Vol. IV</th>
 </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">12.</td>
-  <td style="text-align: left;">&#34;Fireweed (feat. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Deep_Gnome&amp;action=edit&amp;redlink=1" title="Deep Gnome (page does not exist)">Deep Gnome</a>)&#34;  </td>
+  <td style="text-align: left;">"Fireweed (feat. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Deep_Gnome&amp;action=edit&amp;redlink=1" title="Deep Gnome (page does not exist)">Sâu Gnome</a>)"</td>
   <td style="padding-right: 10px; text-align: right;">01:50</td>
 </tr>
         <tr style="background-color: {{{color}}};">
@@ -380,12 +380,12 @@ Vol. V</th>
     </tr>
     <tr>
       <th class="tlheader" style="width: 20px; text-align: right;">#</th>
-      <th class="tlheader" style="width: 100%;">Title</th>
-      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Length</th>
+      <th class="tlheader" style="width: 100%;">Danh hiệu</th>
+      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Chiều dài</th>
     </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">1.</td>
-  <td style="text-align: left;">&#34;Galathilion (feat. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Frostgard&amp;action=edit&amp;redlink=1" title="Frostgard (page does not exist)">Frostgard</a>)&#34;  </td>
+  <td style="text-align: left;">"Galathilion (feat. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Frostgard&amp;action=edit&amp;redlink=1" title="Frostgard (page does not exist)">Frostgard</a>)"</td>
   <td style="padding-right: 10px; text-align: right;">04:20</td>
 </tr>
         <tr style="background-color: {{{color}}};">
@@ -467,8 +467,8 @@ Vol. VI</th>
     </tr>
     <tr>
       <th class="tlheader" style="width: 20px; text-align: right;">#</th>
-      <th class="tlheader" style="width: 100%;">Title</th>
-      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Length</th>
+      <th class="tlheader" style="width: 100%;">Danh hiệu</th>
+      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Chiều dài</th>
     </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">1.</td>
@@ -517,7 +517,7 @@ Vol. VI</th>
 </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">10.</td>
-  <td style="text-align: left;">&#34;Laurelin (feat. Catherine Laurin)&#34;  </td>
+  <td style="text-align: left;">"Laurelin (feat. Catherine Laurin)"</td>
   <td style="padding-right: 10px; text-align: right;">05:58</td>
 </tr>
         <tr style="background-color: {{{color}}};">

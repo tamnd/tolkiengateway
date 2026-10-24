@@ -14,7 +14,7 @@ categories:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Sinomë maruvan ar Hildinyar tenn&#39; <b>Ambar-metta</b>!
+<p>Sinomë maruvan ar Hildinyar tenn' <b>Ambar-metta</b>!
 </p>
 <p class="tg-quote-footer"><cite><a href="../O/Oath_of_Elendil.md" title="Oath of Elendil">Oath of Elendil</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

@@ -26,7 +26,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Beowulf</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Beowulf_(disambiguation).md" title="Beowulf (disambiguation)">Beowulf (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Beowulf</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Beowulf_(disambiguation).md" title="Beowulf (disambiguation)">Beowulf (định hướng)</a></b>.</div></div>
 
 <i><b>Beowulf: The Monsters and the Critics</b></i> là nhan đề của một bài giảng do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trình bày vào [1936](../_/1936.md), và sau đó xuất hiện dưới dạng một bài luận trong nhiều ấn phẩm khác nhau. [Michael D.C. Drout](../M/Michael_D.C._Drout.md) đã mô tả đây là “có lẽ ... bài luận có ảnh hưởng lớn nhất trong lịch sử nghiên cứu văn học thế kỷ XX”.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -38,7 +38,7 @@ Bài thuyết giảng “Beowulf: The Monsters and the Critics” là Bài thuy�
 
 *Beowulf: The Monsters and the Critics* từng được xuất bản dưới dạng một ấn phẩm riêng và trong một số ấn phẩm khác nhau.
 
-<dl><dt>First edition (1937)</dt></dl>
+<dl><dt>Ấn bản đầu tiên (1937)</dt></dl>
 
 Năm [1937](../_/1937.md), ấn bản đầu tiên của *Beowulf: The Monsters and the Critics* được phát hành trong *Proceedings of the British Academy* (tập 22, 1936, in năm 1937, tr. \[245\]-295).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tác phẩm cũng được Humphrey Milford (London) xuất bản riêng cho Viện Hàn lâm Anh (\[[1 tháng 7](../_/1_July.md)\]. 56 trang. In 500 bản. ISBN: N/A). Tổng cộng có sáu lần in (lần in thứ 2–5 vào các năm 1958–1971 do Oxford University Press thực hiện; lần in thứ 6 vào năm 1977, do Viện Hàn lâm Anh thực hiện).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

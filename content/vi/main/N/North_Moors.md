@@ -23,7 +23,7 @@ images:
   - "Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/47/Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg/250px-Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg" decoding="async" loading="lazy" width="250" height="249" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/47/Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg/375px-Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/47/Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg/500px-Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg 2x" data-file-width="1000" data-file-height="994"/></a><figcaption>&#34;What <a href="../H/Halfast_Gamgee.md" title="Halfast Gamgee">Hal</a> saw beyond the North Moors&#34; by <a href="../M/Miriam_Ellis.md" title="Miriam Ellis">Miriam Ellis</a></figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/47/Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg/250px-Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg" decoding="async" loading="lazy" width="250" height="249" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/47/Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg/375px-Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/47/Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg/500px-Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg 2x" data-file-width="1000" data-file-height="994"/></a><figcaption>"Những gì <a href="../H/Halfast_Gamgee.md" title="Halfast Gamgee">Hal</a> nhìn thấy bên ngoài vùng North Moors" của <a href="../M/Miriam_Ellis.md" title="Miriam Ellis">Miriam Ellis</a></figcaption></figure>
 
 **North Moors** nằm dọc theo biên giới phía bắc của [Shire](../S/Shire.md) trong [Northfarthing](Northfarthing.md).<sup id="cite_ref-FRHobbits_1-0" class="reference"><a href="#cite_note-FRHobbits-1">[1]</a></sup>
 
@@ -41,7 +41,7 @@ Halfast có thể đã chứng kiến ​​một số loại [troll](../T/Troll
 
 <b>2025: <i><a href="../T/The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">Chiếc nhẫn duy nhất</a> — <a href="../H/Hobbit_Tales.md" title="Hobbit Tales">Hobbit Truyện</a></i>:</b>
 
-<dl><dd>Where the <a href="Norbourn.md" title="Norbourn">Norbourn</a> left the North Moors stood a building known to Hobbits as Kingsworthy, which they assumed was once a hunting lodge of the <a href="../K/King_of_Arthedain.md" title="King of Arthedain">King of Arthedain</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
+<dl><dd>Nơi <a href="Norbourn.md" title="Norbourn">Norbourn</a> rời khỏi North Moors có một tòa nhà được biết đến với cái tên Hobbit là Kingsworthy, nơi mà họ cho rằng từng là nhà nghỉ săn bắn của <a href="../K/King_of_Arthedain.md" title="King of Arthedain">Vua của Arthedain</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 
 <span></span>
 

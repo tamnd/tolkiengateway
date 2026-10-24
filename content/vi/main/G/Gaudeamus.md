@@ -20,39 +20,39 @@ categories:
 <p><b>Gaudeamus</b><br/>
 <br/>
 Gaudeamus igitur,<br/>
-juvenes dum sumus!<br/>
+trẻ vị thành niên!<br/>
 Post jucundam juventutem,<br/>
-Post molestam senectutem<br/>
-Nos habebit humus.<br/>
+Đăng bài lạm dụng tình dục<br/>
+Không có mùn habebit.<br/>
 <br/>
 Ubi sunt, qui ante nos<br/>
-In mundo fuere?<br/>
-Scandite ad superos<br/>
+Ở mundo fuere?<br/>
+Siêu quảng cáo scandal<br/>
 vadite ad inferos,<br/>
-Ubi jam? Fuere.<br/>
+Mứt Ubi? Fuere.<br/>
 <br/>
 Vita nostra brevis est,<br/>
 Brevi finietur.<br/>
-Venit mors velociter,<br/>
-raptat nos atrociter,<br/>
+Venit mors vận tốc,<br/>
+kẻ tàn bạo,<br/>
 nemini parcetur.<br/>
 <br/>
-Vivat academia,<br/>
-Vivant professores:<br/>
-vivat membrum quodlibet,<br/>
+Học viện Vivat,<br/>
+Những giáo sư năng nổ:<br/>
+vivat màng quodlibet,<br/>
 vivat membra quælibet<br/>
-semper sint in flore!<br/>
+semper sint ở flore!<br/>
 <br/>
-Vivant omnes virgines,<br/>
+Những trinh nữ omnes sống động,<br/>
 faciles, formosae!<br/>
-Vivant et mulieres<br/>
+Vivant và mulieres<br/>
 teneræ, amabiles,<br/>
-bbona; laboriosæ.<br/>
+bbona; lao độngæ.<br/>
 <br/>
 Pereat tristitia,<br/>
-pereant osores,<br/>
-Pereant diabolus,<br/>
+các vết loét vĩnh viễn,<br/>
+Bệnh tiểu đường vĩnh viễn,<br/>
 quivis antiburschius<br/>
-atque irrisores!
+atque Irisores!
 </p>
 </div>

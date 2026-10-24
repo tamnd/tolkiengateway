@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Christopher_Tolkien"
 content_sha256: 31c8f52d4cf2ccc7471d46b2b3de8dfae361d0e0216d6c7203221fead06b6cf9
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Youngest son of J.R.R. Tolkien"
+short_description: "Con trai út của J.R.R. Tolkien"
 categories:
   - "Sourceless"
   - "Articles needing expansion"
@@ -60,12 +60,12 @@ infobox:
     value: "TolkienEstate.com"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Tolkien</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../T/Tolkien_(disambiguation).md" title="Tolkien (disambiguation)">Tolkien (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Tolkien</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../T/Tolkien_(disambiguation).md" title="Tolkien (disambiguation)">Tolkien (định hướng)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Christopher_Tolkien.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/ff/Christopher_Tolkien.jpg/320px-Christopher_Tolkien.jpg" decoding="async" loading="lazy" width="320" height="431" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/ff/Christopher_Tolkien.jpg/480px-Christopher_Tolkien.jpg 1.5x, https://tolkiengateway.net/w/images/f/ff/Christopher_Tolkien.jpg 2x" data-file-width="589" data-file-height="793"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Christopher Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/21_November.md" title="21 November">21 November</a>, <a href="../_/1924.md" title="1924">1924</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="../_/16_January.md" title="16 January">16 January</a>, <a href="../_/2020.md" title="2020">2020</a></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Trinity_College,_Oxford" title="wikipedia:Trinity College, Oxford">Trinity College</a>, <a href="../O/Oxford.md" title="Oxford">Oxford</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author, Professor</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">England<br/>France</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.tolkienestate.com" rel="noreferrer noopener" target="_blank">TolkienEstate.com</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Christopher_Tolkien.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/ff/Christopher_Tolkien.jpg/320px-Christopher_Tolkien.jpg" decoding="async" loading="lazy" width="320" height="431" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/ff/Christopher_Tolkien.jpg/480px-Christopher_Tolkien.jpg 1.5x, https://tolkiengateway.net/w/images/f/ff/Christopher_Tolkien.jpg 2x" data-file-width="589" data-file-height="793"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Christopher Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/21_November.md" title="21 November">21 November</a>, <a href="../_/1924.md" title="1924">1924</a></td></tr><tr><th scope="row" class="tg-infobox-label">Qua đời</th><td class="tg-infobox-data"><a href="../_/16_January.md" title="16 January">16 January</a>, <a href="../_/2020.md" title="2020">2020</a></td></tr><tr><th scope="row" class="tg-infobox-label">Học vấn</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Trinity_College,_Oxford" title="wikipedia:Trinity College, Oxford">Trinity College</a>, <a href="../O/Oxford.md" title="Oxford">Oxford</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Author, Professor</td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">England<br/>France</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="http://www.tolkienestate.com" rel="noreferrer noopener" target="_blank">TolkienEstate.com</a></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>And you were so special a gift to me, in a time of sorrow and mental suffering, and your love, opening at once almost as soon as you were born, foretold to me, as it were in spoken words, that I am consoled ever by the certainty that there is no end to this.
+<p>Và bạn là một món quà vô cùng đặc biệt đối với tôi, trong thời điểm đau buồn và đau khổ về tinh thần, và tình yêu của bạn, bộc lộ ngay lập tức gần như ngay khi bạn được sinh ra, đã báo trước cho tôi, như thể hiện qua lời nói, rằng tôi luôn được an ủi bởi sự chắc chắn rằng điều này không có hồi kết.
 </p>
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -74,8 +74,8 @@ infobox:
 
 ## Tiểu sử {#Biography}
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
-<p>Who told you, and who sent you?
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Nguồn</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần <b><a href="../../help/R/References.md" title="Help:References">nguồn</a></b> nhiều/mới/chi tiết hơn để tuân thủ tiêu chuẩn cao hơn và cung cấp bằng chứng cho những tuyên bố được đưa ra.<blockquote class="tg-quote noexcerpt">
+<p>Ai đã nói với bạn và ai đã gửi cho bạn?
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
@@ -87,9 +87,9 @@ Christopher Tolkien được đặt tên theo người bạn của cha mình, [C
 Sinh ra tại [Leeds](../L/Leeds.md) và lớn lên ở [Oxford](../O/Oxford.md), Christopher theo học tại trường Dragon ở Oxford và trường Oratory ở Caversham, Berkshire. Ông thích ngắm sao bằng kính thiên văn, đồng thời có niềm đam mê với đường sắt. Ngay từ năm bốn, năm tuổi, Christopher đã quan tâm đến tính nhất quán của *[The Hobbit](../T/The_Hobbit.md)*.
 
 <blockquote class="tg-quote noexcerpt">
-<p>[O]n one occasion I interrupted: &#39;Last time, you said Bilbo&#39;s front door was blue, and you said Thorin had a golden tassel on his hood, but you&#39;ve just said that Bilbo&#39;s front door was green and that Thorin&#39;s hood was silver&#39;; at which point my father muttered &#39;Damn the boy,&#39; and then &#39;strode across the room&#39; to his desk to make a note.
+<p>[O]có một lần tôi ngắt lời: 'Lần trước anh nói cửa trước của Bilbo màu xanh lam, và anh nói Thorin có một tua vàng trên mui xe, nhưng anh vừa nói rằng cửa trước của Bilbo màu xanh lá cây và mui xe của Thorin màu bạc'; lúc đó bố tôi lẩm bẩm 'Thằng nhóc chết tiệt' rồi 'bước ngang qua phòng' đến bàn làm việc của ông để ghi chú.
 </p>
-<p class="tg-quote-footer"><cite>Christopher Tolkien, foreword to The Hobbit</cite></p>
+<p class="tg-quote-footer"><cite>Christopher Tolkien, lời tựa The Hobbit</cite></p>
 </blockquote>
 
 Christopher tỏ ra vô cùng hữu ích trong việc sửa lỗi cho *The Hobbit* sau khi sách được xuất bản và được trả hai xu cho mỗi lỗi sửa chữa.
@@ -108,7 +108,7 @@ Trong giai đoạn 1954–1955, Christopher được giao nhiệm vụ vẽ lạ
 
 Năm [1946](../_/1946.md), Christopher trở lại Trinity College để tiếp tục việc học và nghiên cứu tiếng Anh. Trong một thời gian, gia sư của ông là [C.S. Lewis](C.S._Lewis.md). Luận văn của ông là bản dịch tác phẩm <i><a class="extiw" href="http://en.wikipedia.org/wiki/Hervarar_saga_ok_Hei%C3%B0reks" title="wikipedia:Hervarar saga ok Heiðreks">The Saga of King Heidrek the Wise</a></i>, và ông nhận bằng Cử nhân Văn chương (B.A.) vào năm [1949](../_/1949.md). Christopher cũng trở thành giảng viên tiếng Anh cổ, tiếng Anh trung đại và tiếng Iceland cổ tại Oxford. Ông tham gia biên tập *Canterbury Tales* của Chaucer, bao gồm *The Pardoner's Tale* và *The Nun's Priest's Tale*. Từ [1963](../_/1963.md) đến [1975](../_/1975.md), ông là thành viên giảng huấn của New College, Oxford, nhưng đã từ chức khi bắt đầu dành thời gian cho các công việc văn học của cha mình. Không lâu sau đó, ông cùng gia đình chuyển đến miền nam nước Pháp.
 
-<h3><span id="After_his_father.27s_death"></span><span class="mw-headline" id="After_his_father&#39;s_death">After his father&#39;s death</span></h3>
+<h3><span id="After_his_father.27s_death"></span><span class="mw-headline" id="After_his_father&#39;s_death">Sau cái chết của cha anh</span></h3>
 
 Trong di chúc cuối cùng của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), Christopher được chỉ định làm người quản lý di sản văn học và được trao *"toàn quyền xuất bản, biên tập, chỉnh sửa, viết lại hoặc hoàn thiện bất kỳ tác phẩm nào của [cha ông] có thể vẫn chưa được xuất bản vào thời điểm [ông] qua đời, hoặc tiêu hủy toàn bộ hay bất kỳ phần nào của những tác phẩm chưa được xuất bản ấy"*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Ông bắt tay vào công việc sắp xếp khối lượng ghi chép khổng lồ của cha mình để chuẩn bị xuất bản; công việc mà ông sẽ tiếp tục thực hiện trong suốt phần đời còn lại. Phần lớn tài liệu được viết tay, trong đó bản nháp tương đối hoàn chỉnh thường được viết đè lên một bản nháp đầu tiên đã bị tẩy xóa một phần, còn tên các nhân vật thường xuyên thay đổi giữa đầu và cuối của cùng một bản nháp. Giải mã những tài liệu này là một công việc vô cùng gian nan, và có lẽ chỉ người từng trực tiếp trải nghiệm quá trình làm việc với J.R.R. cùng sự phát triển của các câu chuyện của ông mới có thể hiểu được chúng; ngay cả vậy, Christopher cũng thừa nhận rằng đôi khi ông phải phỏng đoán ý định của cha mình.
 
@@ -124,14 +124,14 @@ Vào tháng 8 năm [2017](../_/2017.md), Christopher Tolkien từ chức giám �
 
 ## Phản ứng đối với các tác phẩm chuyển thể {#Response_to_adaptations}
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Christopher_Tolkien&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
-<p>...It is a long tale...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Christopher_Tolkien&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
+<p>...Đó là một câu chuyện dài...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
 <blockquote class="tg-quote noexcerpt">
-<p>...I recognize that this is a debatable and complex question of art, and the suggestions that have been made that I &#39;disapprove&#39; of the films, whatever their cinematic quality, even to the extent of thinking ill of those with whom I may differ, are wholly without foundation.
+<p>...Tôi nhận ra rằng đây là một câu hỏi nghệ thuật gây tranh cãi và phức tạp, và những gợi ý được đưa ra khiến tôi 'không đồng tình' với các bộ phim, bất kể chất lượng điện ảnh của chúng, thậm chí đến mức nghĩ xấu về những người mà tôi có thể khác biệt, hoàn toàn không có cơ sở.
 </p>
 <p class="tg-quote-footer"><cite>Christopher Tolkien</cite></p>
 </blockquote>

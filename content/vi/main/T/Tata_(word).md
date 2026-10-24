@@ -15,7 +15,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the <a href="../E/Elvish.md" title="Elvish">Elvish</a> word</b>. For the <a href="../E/Elves.md" title="Elves">Elf</a>, see <b><a href="Tata.md" title="Tata">Tata</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>từ <a href="../E/Elvish.md" title="Elvish">Elvish</a></b>. Đối với <a href="../E/Elves.md" title="Elves">Tiên</a>, hãy xem <b><a href="Tata.md" title="Tata">Tata</a></b>.</div></div>
 
 <i><b>tata</b></i> là [Telerin](Telerin.md) số "hai".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

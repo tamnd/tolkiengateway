@@ -66,7 +66,7 @@ Ngay sau đó, [Aragorn](../A/Aragorn.md) đã cố tình sử dụng *palantír
 <td style="font-size: 90%;">  † <a href="../M/Master_Stone_of_Osgiliath.md" title="Master Stone of Osgiliath">Master Stone of Osgiliath</a> <small>(<a href="Osgiliath.md" title="Osgiliath">Osgiliath</a>)</small> · † <a href="../I/Ithil-stone.md" title="Ithil-stone">Ithil-stone</a> <small>(<a class="mw-redirect" href="../M/Minas_Ithil.md" title="Minas Ithil">Minas Ithil</a> - <a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a>)</small> · <a href="../A/Anor-stone.md" title="Anor-stone">Anor-stone</a> <small>(<a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>)</small> · <a class="mw-selflink selflink">Orthanc-stone</a> <small>(<a href="Orthanc.md" title="Orthanc">Orthanc</a> - <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>)</small>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">Other
+<th style="background:var(--tg-color-surface-3);" align="right">Khác
 </th>
 <td style="font-size: 90%;"> <a href="../M/Master-stone.md" title="Master-stone">Master-stone</a> <small>(<a class="mw-redirect" href="../T/Tower_of_Avallonë.md" title="Tower of Avallonë">Tower of Avallonë</a>)</small>
 </td></tr>

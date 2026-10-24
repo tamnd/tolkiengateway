@@ -77,7 +77,7 @@ infobox:
 
 **Valinor** hay **Valinórë** là vương quốc của [Valar](Valar.md) ở trung tâm [Aman](../A/Aman.md).
 
-Valinor là nơi Valar di chuyển đến sau khi [Almaren](../A/Almaren.md) bị [Melkor](../M/Morgoth.md) phá hủy. Valinor đề cập chính xác đến các vùng đất có người ở trên lục địa Aman, quê hương của Valar và ba giống [Tiên tộc](../E/Elves.md): [Vanyar](Vanyar.md), [Noldor](../N/Noldor.md) và một số [Teleri](../T/Teleri.md). [Valimar](Valimar.md) là thành phố trung tâm của nó. Đảo [Tol Eressëa](../T/Tol_Eressëa.md) nằm ngay ngoài khơi bờ biển phía đông.
+Valinor là nơi Valar chuyển đến sinh sống sau khi [Almaren](../A/Almaren.md) bị [Melkor](../M/Morgoth.md) phá hủy. Theo nghĩa chính xác, Valinor chỉ những vùng đất có cư dân sinh sống trên lục địa Aman, nơi cư ngụ của Valar và ba tộc [Tiên tộc](../E/Elves.md): [Vanyar](Vanyar.md), [Noldor](../N/Noldor.md) và một bộ phận [Teleri](../T/Teleri.md). [Valimar](Valimar.md) là thành phố trung tâm của vùng đất này. Đảo [Tol Eressëa](../T/Tol_Eressëa.md) nằm ngoài khơi bờ biển phía đông.
 
 ## Mô tả {#Description}
 
@@ -91,13 +91,13 @@ Hai thành phố khác là [Alqualondë](../A/Alqualondë.md) và [Tirion](../T/
 
 Mỗi vị Valar đều có một vùng riêng trên vùng đất nơi họ cư ngụ và chỉnh sửa mọi thứ theo ý muốn của mình:
 
-- [Yavanna](../Y/Yavanna.md), Vala của thiên nhiên, sự sinh trưởng và thu hoạch, cư trú tại [Đồng cỏ Yavanna](../P/Pastures_of_Yavanna.md) ở phía nam Aman.
-- [Oromë](../O/Oromë.md), Vala của cuộc đi săn, sống trong [Rừng Oromë](../W/Woods_of_Oromë.md) ở phía đông bắc của đồng cỏ. Rừng là nơi sinh sống của nhiều sinh vật Oromë có thể theo dõi và săn bắt.
-- [Nienna](../N/Nienna.md), Vala cô đơn của nỗi buồn và sự chịu đựng, sống biệt lập ở phía tây xa xôi Aman trong [Halls of Nienna](../H/Halls_of_Nienna.md) nơi cô trải qua những ngày khóc lóc, nhìn ra biển. Ngay phía nam của Sảnh Nienna và về phía bắc của đồng cỏ có [Sảnh Mandos](../H/Halls_of_Mandos.md).
-- [Mandos](../M/Mandos.md), anh trai của Nienna, là Vala của thế giới bên kia. Tất cả cư dân của [Arda](../A/Arda.md) đều đi đến Sảnh của Mandos nếu họ chết, người phàm cũng như người bất tử mặc dù người ta nói rằng trong cái chết cũng như khi sống, họ bị chia cắt. Cũng sống trong Sảnh Mandos còn có vợ của ông [Vairë](Vairë.md), người thợ dệt, người đã dệt nên những sợi chỉ thời gian.
-- Về phía nam là [Khu vườn Lórien](<../L/Lórien_(Valinor).md>), nơi cư trú của [Irmo](../I/Irmo.md), Vala của những giấc mơ. Và trên một hòn đảo nằm giữa hồ [Lórellin](../L/Lórellin.md) ở Lórien, vợ của Irmo là [Estë](../E/Estë.md).
-- Ở phía bắc của nơi này là Dinh thự của [Aulë](../A/Aulë.md) người thợ rèn Vala, vợ của Yavanna.
-- Ở phía đông bắc có Dinh thự [Manwë](../M/Manwë.md) và [Varda](Varda.md), hai dinh thự Valar mạnh nhất.
+- [Yavanna](../Y/Yavanna.md), Vala cai quản thiên nhiên, sự sinh trưởng và mùa màng, cư ngụ tại [Đồng cỏ Yavanna](../P/Pastures_of_Yavanna.md) ở phía nam Aman.
+- [Oromë](../O/Oromë.md), Vala cai quản việc săn bắn, sống trong [Rừng Oromë](../W/Woods_of_Oromë.md), phía đông bắc đồng cỏ. Khu rừng là nơi sinh sống của nhiều loài sinh vật mà Oromë có thể lần theo dấu vết và săn bắt.
+- [Nienna](../N/Nienna.md), Vala cô độc cai quản nỗi đau buồn và sức chịu đựng, sống biệt lập ở vùng cực tây của Aman, trong [Điện Nienna](../H/Halls_of_Nienna.md). Bà dành ngày tháng để khóc than và nhìn ra biển. Ngay phía nam Điện Nienna và phía bắc đồng cỏ là [Điện Mandos](../H/Halls_of_Mandos.md).
+- [Mandos](../M/Mandos.md), anh em trai của Nienna, là Vala cai quản cõi hậu thế. Mọi cư dân [Arda](../A/Arda.md) khi chết đều đến Điện Mandos, dù là người phàm hay bất tử; tương truyền rằng ngay cả trong cái chết, cũng như khi còn sống, họ vẫn bị chia cách. Cư ngụ tại Điện Mandos còn có vợ ông là [Vairë](Vairë.md), nữ thần dệt vải, người dệt nên những sợi chỉ thời gian.
+- Ở phía nam là [Những Khu vườn Lórien](<../L/Lórien_(Valinor).md>), nơi [Irmo](../I/Irmo.md), Vala cai quản những giấc mơ, cư ngụ. Vợ Irmo là [Estë](../L/Lórellin.md) sống trên một hòn đảo giữa hồ [Lórellin](../E/Estë.md) ở Lórien.
+- Phía bắc nơi này là Dinh thự của [Aulë](../A/Aulë.md), Vala thợ rèn và là chồng của Yavanna.
+- Ở phía đông bắc là Dinh thự của [Manwë](../M/Manwë.md) và [Varda](Varda.md), hai vị Valar quyền năng nhất.
 
 Ở phía tây của chúng là [Vòng Phán xét](../R/Ring_of_Doom.md) và gần gò đất [Ezellohar](../E/Ezellohar.md) cùng với [Hai Cây của Valinor](../T/Two_Trees_of_Valinor.md), [Telperion](../T/Telperion.md) và [Laurelin](../L/Laurelin.md).<sup id="cite_ref-s1_1-3" class="reference"><a href="#cite_note-s1-1">[1]</a></sup>
 

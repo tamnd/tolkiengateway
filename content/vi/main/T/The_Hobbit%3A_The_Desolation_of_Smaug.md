@@ -58,17 +58,17 @@ infobox:
     value: "Profile"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Desolation of Smaug</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../D/Desolation_of_Smaug_(disambiguation).md" title="Desolation of Smaug (disambiguation)">Desolation of Smaug (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Cái tên <b>Desolation của Smaug</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../D/Desolation_of_Smaug_(disambiguation).md" title="Desolation of Smaug (disambiguation)">Sự tàn phá của Smaug (định hướng)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_The_Desolation_of_Smaug_-_poster_2.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/91/The_Hobbit_-_The_Desolation_of_Smaug_-_poster_2.jpg/320px-The_Hobbit_-_The_Desolation_of_Smaug_-_poster_2.jpg" decoding="async" loading="lazy" width="320" height="473" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/91/The_Hobbit_-_The_Desolation_of_Smaug_-_poster_2.jpg/480px-The_Hobbit_-_The_Desolation_of_Smaug_-_poster_2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/91/The_Hobbit_-_The_Desolation_of_Smaug_-_poster_2.jpg/640px-The_Hobbit_-_The_Desolation_of_Smaug_-_poster_2.jpg 2x" data-file-width="1385" data-file-height="2048"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Hobbit: The Desolation of Smaug</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data"><a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a><sup id="cite_ref-HBTitles_1-0" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup><br/><a href="../A/Andy_Serkis.md" title="Andy Serkis">Andy Serkis</a> (Second Unit Director)<sup id="cite_ref-HBAndy_2-0" class="reference"><a href="#cite_note-HBAndy-2">[2]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Writer</th><td class="tg-infobox-data"><b>Novels:</b><br/><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><br/><b>Screenplay:</b><br/>Peter Jackson<br/>Fran Walsh<br/>Philippa Boyens<br/>Guillermo del Toro<sup id="cite_ref-HBTitles_1-1" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Producer</th><td class="tg-infobox-data">Peter Jackson<br/><a href="../F/Fran_Walsh.md" title="Fran Walsh">Fran Walsh</a><br/><a href="../C/Carolynne_Cunningham.md" title="Carolynne Cunningham">Carolynne Cunningham</a><br/><a href="../Z/Zane_Weiner.md" title="Zane Weiner">Zane Weiner</a><br/><a href="../P/Philippa_Boyens.md" title="Philippa Boyens">Philippa Boyens</a> (Co-Producer)<br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Eileen_Moran&amp;action=edit&amp;redlink=1" title="Eileen Moran (page does not exist)">Eileen Moran</a> (Co-Producer)<br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Alan_Horn&amp;action=edit&amp;redlink=1" title="Alan Horn (page does not exist)">Alan Horn</a> (Executive Producer)<br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Toby_Emmerich&amp;action=edit&amp;redlink=1" title="Toby Emmerich (page does not exist)">Toby Emmerich</a> (Executive Producer)<br/><a href="../C/Callum_Greene.md" title="Callum Greene">Callum Greene</a> (Executive Producer)<br/><a href="../K/Ken_Kamins.md" title="Ken Kamins">Ken Kamins</a> (Executive Producer)<br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Caroline_Blackwood&amp;action=edit&amp;redlink=1" title="Caroline Blackwood (page does not exist)">Caroline Blackwood</a><sup id="cite_ref-HBTitles_1-2" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data"><a href="../I/Ian_McKellen.md" title="Ian McKellen">Ian McKellen</a><br/><a href="../M/Martin_Freeman.md" title="Martin Freeman">Martin Freeman</a><br/><a href="../R/Richard_Armitage.md" title="Richard Armitage">Richard Armitage</a><sup id="cite_ref-PJCasting1_3-0" class="reference"><a href="#cite_note-PJCasting1-3">[3]</a></sup><br/><i><a href="#Cast">See cast section below for more</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data"><a href="../A/Andrew_Lesnie.md" title="Andrew Lesnie">Andrew Lesnie</a><sup id="cite_ref-PJCasting1_3-1" class="reference"><a href="#cite_note-PJCasting1-3">[3]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Editing</th><td class="tg-infobox-data"><a href="../J/Jabez_Olssen.md" title="Jabez Olssen">Jabez Olssen</a></td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a><sup id="cite_ref-PJCasting1_3-2" class="reference"><a href="#cite_note-PJCasting1-3">[3]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Studio</th><td class="tg-infobox-data"><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a><br/><a href="../M/MGM.md" title="MGM">MGM</a><br/><a href="../W/WingNut_Films.md" title="WingNut Films">WingNut Films</a><sup id="cite_ref-HBTitles_1-3" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data"><a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros. Pictures</a><sup id="cite_ref-HBTitles_1-4" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/13_December.md" title="13 December">13 December</a> <a href="../_/2013.md" title="2013">2013</a><sup id="cite_ref-HBTitles2_4-0" class="reference"><a href="#cite_note-HBTitles2-4">[4]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data"><b>Theatrical:</b><br/>161 minutes<br/><b>Extended Edition:</b><br/>186 minutes</td></tr><tr><th scope="row" class="tg-infobox-label">Country</th><td class="tg-infobox-data"><a href="../N/New_Zealand.md" title="New Zealand">New Zealand</a><br/><a class="mw-redirect" href="../U/United_Kingdom.md" title="United Kingdom">United Kingdom</a><br/><a class="mw-redirect" href="../U/United_States.md" title="United States">United States</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.thehobbit.com/" rel="noreferrer noopener" target="_blank">TheHobbit.com</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt1170358" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_The_Desolation_of_Smaug_-_poster_2.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/91/The_Hobbit_-_The_Desolation_of_Smaug_-_poster_2.jpg/320px-The_Hobbit_-_The_Desolation_of_Smaug_-_poster_2.jpg" decoding="async" loading="lazy" width="320" height="473" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/91/The_Hobbit_-_The_Desolation_of_Smaug_-_poster_2.jpg/480px-The_Hobbit_-_The_Desolation_of_Smaug_-_poster_2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/91/The_Hobbit_-_The_Desolation_of_Smaug_-_poster_2.jpg/640px-The_Hobbit_-_The_Desolation_of_Smaug_-_poster_2.jpg 2x" data-file-width="1385" data-file-height="2048"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Hobbit: The Desolation of Smaug</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data"><a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a><sup id="cite_ref-HBTitles_1-0" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup><br/><a href="../A/Andy_Serkis.md" title="Andy Serkis">Andy Serkis</a> (Second Unit Director)<sup id="cite_ref-HBAndy_2-0" class="reference"><a href="#cite_note-HBAndy-2">[2]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><b>Tiểu thuyết:</b><br/><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><br/><b>Kịch bản:</b><br/>Peter Jackson<br/>Fran Walsh<br/>Philippa Boyens<br/>Guillermo del Toro<sup id="cite_ref-HBTitles_1-1" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà sản xuất</th><td class="tg-infobox-data">Peter Jackson<br/><a href="../F/Fran_Walsh.md" title="Fran Walsh">Fran Walsh</a><br/><a href="../C/Carolynne_Cunningham.md" title="Carolynne Cunningham">Carolynne Cunningham</a><br/><a href="../Z/Zane_Weiner.md" title="Zane Weiner">Zane Weiner</a><br/><a href="../P/Philippa_Boyens.md" title="Philippa Boyens">Philippa Boyens</a> (Co-Producer)<br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Eileen_Moran&amp;action=edit&amp;redlink=1" title="Eileen Moran (page does not exist)">Eileen Moran</a> (Co-Producer)<br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Alan_Horn&amp;action=edit&amp;redlink=1" title="Alan Horn (page does not exist)">Alan Horn</a> (Executive Producer)<br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Toby_Emmerich&amp;action=edit&amp;redlink=1" title="Toby Emmerich (page does not exist)">Toby Emmerich</a> (Executive Producer)<br/><a href="../C/Callum_Greene.md" title="Callum Greene">Callum Greene</a> (Executive Producer)<br/><a href="../K/Ken_Kamins.md" title="Ken Kamins">Ken Kamins</a> (Executive Producer)<br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Caroline_Blackwood&amp;action=edit&amp;redlink=1" title="Caroline Blackwood (page does not exist)">Caroline Blackwood</a><sup id="cite_ref-HBTitles_1-2" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data"><a href="../I/Ian_McKellen.md" title="Ian McKellen">Ian McKellen</a><br/><a href="../M/Martin_Freeman.md" title="Martin Freeman">Martin Freeman</a><br/><a href="../R/Richard_Armitage.md" title="Richard Armitage">Richard Armitage</a><sup id="cite_ref-PJCasting1_3-0" class="reference"><a href="#cite_note-PJCasting1-3">[3]</a></sup><br/><i><a href="#Cast">See cast section below for more</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data"><a href="../A/Andrew_Lesnie.md" title="Andrew Lesnie">Andrew Lesnie</a><sup id="cite_ref-PJCasting1_3-1" class="reference"><a href="#cite_note-PJCasting1-3">[3]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Biên tập</th><td class="tg-infobox-data"><a href="../J/Jabez_Olssen.md" title="Jabez Olssen">Jabez Olssen</a></td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a><sup id="cite_ref-PJCasting1_3-2" class="reference"><a href="#cite_note-PJCasting1-3">[3]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Hãng phim</th><td class="tg-infobox-data"><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a><br/><a href="../M/MGM.md" title="MGM">MGM</a><br/><a href="../W/WingNut_Films.md" title="WingNut Films">WingNut Films</a><sup id="cite_ref-HBTitles_1-3" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data"><a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros. Pictures</a><sup id="cite_ref-HBTitles_1-4" class="reference"><a href="#cite_note-HBTitles-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/13_December.md" title="13 December">13 December</a> <a href="../_/2013.md" title="2013">2013</a><sup id="cite_ref-HBTitles2_4-0" class="reference"><a href="#cite_note-HBTitles2-4">[4]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data"><b>Sân khấu:</b><br/>161 phút<br/><b>Phiên bản mở rộng:</b><br/>186 phút</td></tr><tr><th scope="row" class="tg-infobox-label">Quốc gia</th><td class="tg-infobox-data"><a href="../N/New_Zealand.md" title="New Zealand">New Zealand</a><br/><a class="mw-redirect" href="../U/United_Kingdom.md" title="United Kingdom">United Kingdom</a><br/><a class="mw-redirect" href="../U/United_States.md" title="United States">United States</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="http://www.thehobbit.com/" rel="noreferrer noopener" target="_blank">TheHobbit.com</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt1170358" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
 
 <i><b>The Hobbit: The Desolation of Smaug</b></i> là phần thứ hai trong bộ ba phim [*The Hobbit*](<The_Hobbit_(film_series).md>) của [Peter Jackson](../P/Peter_Jackson.md) và dựa trên tiểu thuyết [1937](../_/1937.md) *[The Hobbit](The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), mặc dù một số yếu tố được lấy từ câu chuyện và [The Apprendices](The_Lord_of_the_Rings_Appendices.md) của *[The Lord of the Rings](The_Lord_of_the_Rings.md)*. Nó được phát hành vào [13 tháng 12](../_/13_December.md) [2013](../_/2013.md) ở Bắc Mỹ. Trước nó là *[An Unexpected Journey](The_Hobbit%253A_An_Unexpected_Journey.md)* trong [2012](../_/2012.md) và theo sau là *[The Battle of the Five Armies](The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)* trong [2014](../_/2014.md).
 
 ## Tóm tắt {#Synopsis}
 
 <blockquote class="tg-quote noexcerpt">
-<p>“The Hobbit: The Desolation of Smaug” continues the adventure of the title character <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a> as he journeys with the Wizard <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> and thirteen Dwarves, led by <a href="Thorin.md" title="Thorin">Thorin Oakenshield</a>, on an epic quest to reclaim the Lonely Mountain and the lost Dwarf Kingdom of <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Erebor</a>.
-</p><p><i>Having survived the beginning of their unexpected journey, the Company continues East, encountering along the way the skin-changer <a href="../B/Beorn.md" title="Beorn">Beorn</a> and a swarm of giant Spiders in the treacherous forest of <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a>. After escaping capture by the dangerous <a href="../E/Elves_of_Mirkwood.md" title="Elves of Mirkwood">Wood-elves</a>, the Dwarves journey to Lake-town, and finally to the Lonely Mountain itself, where they must face the greatest danger of all — a creature more terrifying than any other; one which will test not only the depth of their courage but the limits of their friendship and the wisdom of the journey itself — the Dragon <a href="../S/Smaug.md" title="Smaug">Smaug</a>.</i>
+<p>“The Hobbit: The Desolation of Smaug” tiếp tục cuộc phiêu lưu của nhân vật chính <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a> khi anh hành trình cùng Pháp sư <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> và mười ba Người Lùn, dẫn đầu bởi <a href="Thorin.md" title="Thorin">Thorin Oakenshield</a>, trong một nhiệm vụ hoành tráng để đòi lại Ngọn Núi Cô Đơn và Vương quốc Người Lùn đã mất của <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Erebor</a>.
+</p><p><i>Sống sót ngay từ đầu cuộc hành trình bất ngờ, Công ty tiếp tục phương Đông, trên đường đi gặp phải kẻ thay đổi làn da <a href="../B/Beorn.md" title="Beorn">Beorn</a> và một đàn Nhện khổng lồ trong khu rừng nguy hiểm <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a>. Sau khi thoát khỏi sự truy bắt của <a href="../E/Elves_of_Mirkwood.md" title="Elves of Mirkwood">Tiên rừng</a> nguy hiểm, cuộc hành trình Người Lùn đến Thị trấn Hồ và cuối cùng đến chính Ngọn Núi Cô Đơn, nơi họ phải đối mặt với mối nguy hiểm lớn nhất — một sinh vật đáng sợ hơn bất kỳ sinh vật nào khác; một cuộc thi sẽ kiểm tra không chỉ lòng dũng cảm sâu sắc mà còn cả giới hạn của tình bạn và sự khôn ngoan của chính cuộc hành trình — Rồng <a href="../S/Smaug.md" title="Smaug">Smaug</a>.</i>
 </p>
 <p class="tg-quote-footer"><cite><a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros.</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></cite></p>
 </blockquote>
@@ -145,12 +145,12 @@ Khi đến Ngọn Núi Cô Đơn, Bilbo giải mã manh mối khó hiểu của 
 
 ## Truyền {#Cast}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="The_Hobbit_(film_series).md#Main_cast" title="The Hobbit (film series)">The Hobbit (film series)#Main cast</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="The_Hobbit_(film_series).md#Main_cast" title="The Hobbit (film series)">The Hobbit (film series)#Main cast</a></div></div>
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Actor</th>
-<th>Role
+<th>Diễn viên</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td><a href="../I/Ian_McKellen.md" title="Ian McKellen">Ian McKellen</a></td>
@@ -242,7 +242,7 @@ Khi đến Ngọn Núi Cô Đơn, Bilbo giải mã manh mối khó hiểu của 
 </td></tr>
 <tr>
 <td><a href="../A/Antony_Sher.md" title="Antony Sher">Antony Sher</a></td>
-<td><a href="Thráin.md" title="Thráin">Thráin</a> (<a href="The_Hobbit%253A_The_Desolation_of_Smaug_(extended_edition).md" title="The Hobbit: The Desolation of Smaug (extended edition)">Extended Edition</a> only)
+<td><a href="Thráin.md" title="Thráin">Thráin</a> (<a href="The_Hobbit%253A_The_Desolation_of_Smaug_(extended_edition).md" title="The Hobbit: The Desolation of Smaug (extended edition)">Chỉ phiên bản mở rộng</a>)
 </td></tr>
 <tr>
 <td><a href="../L/Luke_Evans.md" title="Luke Evans">Luke Evans</a></td>
@@ -250,7 +250,7 @@ Khi đến Ngọn Núi Cô Đơn, Bilbo giải mã manh mối khó hiểu của 
 </td></tr>
 <tr>
 <td><a href="../S/Stephen_Fry.md" title="Stephen Fry">Stephen Fry</a></td>
-<td><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a>
+<td><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Chủ nhân Thị trấn Hồ</a>
 </td></tr>
 <tr>
 <td><a href="../R/Ryan_Gage.md" title="Ryan Gage">Ryan Gage</a></td>
@@ -306,7 +306,7 @@ Khi đến Ngọn Núi Cô Đơn, Bilbo giải mã manh mối khó hiểu của 
 </td></tr>
 <tr>
 <td><a href="../B/Brian_Sergent.md" title="Brian Sergent">Brian Sergent</a><br/>Peter Vere-Jones</td>
-<td><a href="../S/Spiders.md" title="Spiders">Spiders</a>
+<td><a href="../S/Spiders.md" title="Spiders">Nhện</a>
 </td></tr>
 <tr>
 <td><a href="../B/Benedict_Cumberbatch.md" title="Benedict Cumberbatch">Benedict Cumberbatch</a></td>
@@ -373,15 +373,15 @@ Khi đến Ngọn Núi Cô Đơn, Bilbo giải mã manh mối khó hiểu của 
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Actor</th>
-<th>Role
+<th>Diễn viên</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td>Frazier Anderson, Cory Beeston, Ben Fransham, George Harach, Jamie Harrison, Joseph Mika-Hunt, <a href="../S/Shane_Rangi.md" title="Shane Rangi">Shane Rangi</a>, Warwick Sadler, Marco Sinigaglio, Mark Trotter, Min Windle</td>
 <td><a href="../O/Orc-hunters.md" title="Orc-hunters">Hunter Orcs</a>
 </td></tr>
 <tr>
-<td>Frazier Anderson, Michael Andrews, Mark Atkin, Dimetrius Baccellia, Jim Baltaxe, Nigel Bautista, Aleksandr Beliaev, Vivien Bell, Jack Binding, Terry Binding, Riley Brophy, Chris Brough, Lincoln Brown, Mel Buchanan, Tony Burton, Melanie Carrington, Ron Chamberlain, Coleen Cleary, Trevor Cooper, Yvette Cottam, Raymond Cox, Paul Craze, Estere Dalton, Brendan Dee, Dave Fitzgerald, Paul Gaudin, Nigel Harbrow, Jamie Harrison, Michael Harrison, Fraser Hesketh, Chris Hewer, Keirryn Hintz, Christian Hipolito, Kathryn Briggs Hobbs, Martin Howells, Gideon Jack, Erana James, Raymond Jones, Fern Karun, K.C. Kelly, Gustav Kessel, Taniora Kidwell, Isabelle Rose Kircher, Kristi Kleijn, Phil Mackie, Asofa Manase, Heli Matilainen, Simon McArthur, Steve McDonald, Shirley McGregor, Carlton McRae, Ceci Mediano, Liz Merton, Iain Middleton, Joseph Mika-Hunt, Linda Murrel, Jimmy James Nielsen, Stephen O&#39;Neil, Kyosuke Okada, Ivy Padilla, Mark Pearson, Lise Perichon, Wayne Phillips, Derek Price, Dinah Priestley, Daniel Rathbon, Leon Reedijk, Adebisi Riwanou, Tom Robinson, Gabriela Roque López, Michelle Scullian, Chromatic Semitone, Tim Simpson, Bruce Sinclair, Jeff Slaven, Dianne Smith, Ziggy Stiles, Ken Stratton, Jennifer Tebbs, Annie von Herck, Manuela Vetters, Chase Voss, Allan John Webb, Ruben Werle, Christopher Winchester, Nikky Winchester, Pedro Worcel, Nigel Zega</td>
+<td>Frazier Anderson, Michael Andrews, Mark Atkin, Dimetrius Baccellia, Jim Baltaxe, Nigel Bautista, Aleksandr Beliaev, Vivien Bell, Jack Binding, Terry Binding, Riley Brophy, Chris Brough, Lincoln Brown, Mel Buchanan, Tony Burton, Melanie Carrington, Ron Chamberlain, Coleen Cleary, Trevor Cooper, Yvette Cottam, Raymond Cox, Paul Craze, Estere Dalton, Brendan Dee, Dave Fitzgerald, Paul Gaudin, Nigel Harbrow, Jamie Harrison, Michael Harrison, Fraser Hesketh, Chris Hewer, Keirryn Hintz, Christian Hipolito, Kathryn Briggs Hobbs, Martin Howells, Gideon Jack, Erana James, Raymond Jones, Fern Karun, K.C. Kelly, Gustav Kessel, Taniora Kidwell, Isabelle Rose Kircher, Kristi Kleijn, Phil Mackie, Asofa Manase, Heli Matilainen, Simon McArthur, Steve McDonald, Shirley McGregor, Carlton McRae, Ceci Mediano, Liz Merton, Iain Middleton, Joseph Mika-Hunt, Linda Murrel, Jimmy James Nielsen, Stephen O'Neil, Kyosuke Okada, Ivy Padilla, Mark Pearson, Lise Perichon, Wayne Phillips, Derek Price, Dinah Priestley, Daniel Rathbon, Leon Reedijk, Adebisi Riwanou, Tom Robinson, Gabriela Roque López, Michelle Scullian, Chromatic Semitone, Tim Simpson, Bruce Sinclair, Jeff Slaven, Dianne Smith, Ziggy Stiles, Ken Stratton, Jennifer Tebbs, Annie von Herck, Manuela Vetters, Chase Voss, Allan John Webb, Ruben Werle, Christopher Winchester, Nikky Winchester, Pedro Worcel, Nigel Zega</td>
 <td><a href="../L/Lake-men.md" title="Lake-men">Laketowners</a>
 </td></tr>
 <tr>
@@ -450,7 +450,7 @@ Khi đến Ngọn Núi Cô Đơn, Bilbo giải mã manh mối khó hiểu của 
 </td></tr>
 <tr>
 <td>Stephen Grey, Simon Leary, Wesley O&#39;Duinn, James Waterhouse-Brown</td>
-<td><a href="../O/Orcs.md" title="Orcs">Orcs</a>
+<td><a href="../O/Orcs.md" title="Orcs">Orc</a>
 </td></tr>
 <tr>
 <td>Luke Hawker</td>
@@ -572,20 +572,20 @@ Khi đến Ngọn Núi Cô Đơn, Bilbo giải mã manh mối khó hiểu của 
 - Trong sách, bài thơ về sự trở lại của [Vua Dưới Núi](../K/King_under_the_Mountain.md) có hàm ý tích cực:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>The streams shall run in gladness<br/>
-The lakes shall shine and burn,<br/>
-All sorrow fail and sadness<br/>
-At the Mountain-king&#39;s return!
+<p>Dòng suối sẽ vui mừng<br/>
+Những hồ nước sẽ tỏa sáng và cháy bỏng,<br/>
+Mọi ưu phiền đều thất bại và buồn bã<br/>
+Khi Vua Núi trở về!
 </p>
 </div>
 
 Trong phim, câu này được Bard đọc với ý nghĩa tiêu cực:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>And the bells shall ring in gladness<br/>
-At the Mountain King&#39;s return,<br/>
-But all shall fade in sadness,<br/>
-And the lake will shine and burn.
+<p>Và tiếng chuông sẽ vang lên trong niềm vui<br/>
+Khi Ngọn núi Vua trở về,<br/>
+Nhưng tất cả sẽ nhạt nhòa trong nỗi buồn<br/>
+Và hồ sẽ tỏa sáng và cháy.
 </p>
 </div>
 
@@ -605,7 +605,7 @@ And the lake will shine and burn.
 
 ## Thư viện {#Gallery}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../../category/I/Images_from_The_Hobbit%253A_The_Desolation_of_Smaug.md" title="Category:Images from The Hobbit: The Desolation of Smaug">Category:Images from The Hobbit: The Desolation of Smaug</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="../../category/I/Images_from_The_Hobbit%253A_The_Desolation_of_Smaug.md" title="Category:Images from The Hobbit: The Desolation of Smaug">Category:Images from The Hobbit: The Desolation of Smaug</a></div></div>
 
 ### Hình ảnh từ *The Hobbit: The Desolation of Smaug* {#Pictures_from_The_Hobbit:_The_Desolation_of_Smaug}
 
@@ -613,7 +613,7 @@ And the lake will shine and burn.
 		<li class="gallerybox" style="width: 335px">
 			<div class="thumb" style="width: 330px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_The_Desolation_of_Smaug_-_Attercop!.jpg.md" title="Bilbo fights the spiders of Mirkwood"><img alt="Bilbo fights the spiders of Mirkwood" src="https://tolkiengateway.net/w/images/thumb/e/e4/The_Hobbit_-_The_Desolation_of_Smaug_-_Attercop%21.jpg/300px-The_Hobbit_-_The_Desolation_of_Smaug_-_Attercop%21.jpg" decoding="async" loading="lazy" width="300" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e4/The_Hobbit_-_The_Desolation_of_Smaug_-_Attercop%21.jpg/450px-The_Hobbit_-_The_Desolation_of_Smaug_-_Attercop%21.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e4/The_Hobbit_-_The_Desolation_of_Smaug_-_Attercop%21.jpg/600px-The_Hobbit_-_The_Desolation_of_Smaug_-_Attercop%21.jpg 2x" data-file-width="2000" data-file-height="1334"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> fights the spiders of <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a>
+<p><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> chiến đấu với lũ nhện của <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a>
 </p>
 			</div>
 		</li>
@@ -648,7 +648,7 @@ And the lake will shine and burn.
 		<li class="gallerybox" style="width: 335px">
 			<div class="thumb" style="width: 330px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_The_Desolation_of_Smaug_-_Legolas_in_Mirkwood.jpg.md" title="Legolas confronts Thorin and Company"><img alt="Legolas confronts Thorin and Company" src="https://tolkiengateway.net/w/images/thumb/8/86/The_Hobbit_-_The_Desolation_of_Smaug_-_Legolas_in_Mirkwood.jpg/300px-The_Hobbit_-_The_Desolation_of_Smaug_-_Legolas_in_Mirkwood.jpg" decoding="async" loading="lazy" width="300" height="124" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/86/The_Hobbit_-_The_Desolation_of_Smaug_-_Legolas_in_Mirkwood.jpg/450px-The_Hobbit_-_The_Desolation_of_Smaug_-_Legolas_in_Mirkwood.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/86/The_Hobbit_-_The_Desolation_of_Smaug_-_Legolas_in_Mirkwood.jpg/600px-The_Hobbit_-_The_Desolation_of_Smaug_-_Legolas_in_Mirkwood.jpg 2x" data-file-width="1918" data-file-height="794"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../L/Legolas.md" title="Legolas">Legolas</a> confronts <a href="Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a>
+<p><a href="../L/Legolas.md" title="Legolas">Legolas</a> đối đầu với <a href="Thorin_and_Company.md" title="Thorin and Company">Thorin và Đoàn tùy tùng</a>
 </p>
 			</div>
 		</li>
@@ -662,14 +662,14 @@ And the lake will shine and burn.
 		<li class="gallerybox" style="width: 335px">
 			<div class="thumb" style="width: 330px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_The_Desolation_of_Smaug_-_Dale.jpg.md" title="Dale in ruins"><img alt="Dale in ruins" src="https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_The_Desolation_of_Smaug_-_Dale.jpg/300px-The_Hobbit_-_The_Desolation_of_Smaug_-_Dale.jpg" decoding="async" loading="lazy" width="300" height="124" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_The_Desolation_of_Smaug_-_Dale.jpg/450px-The_Hobbit_-_The_Desolation_of_Smaug_-_Dale.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/The_Hobbit_-_The_Desolation_of_Smaug_-_Dale.jpg/600px-The_Hobbit_-_The_Desolation_of_Smaug_-_Dale.jpg 2x" data-file-width="1918" data-file-height="794"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../D/Dale.md" title="Dale">Dale</a> in ruins
+<p><a href="../D/Dale.md" title="Dale">Dale</a> trong đống đổ nát
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 335px">
 			<div class="thumb" style="width: 330px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_The_Desolation_of_Smaug_-_Bilbo_and_the_butterflies_in_the_canopy_of_Mirkwood.jpg.md" title="Bilbo and the butterflies in the canopy of Mirkwood"><img alt="Bilbo and the butterflies in the canopy of Mirkwood" src="https://tolkiengateway.net/w/images/thumb/f/ff/The_Hobbit_-_The_Desolation_of_Smaug_-_Bilbo_and_the_butterflies_in_the_canopy_of_Mirkwood.jpg/300px-The_Hobbit_-_The_Desolation_of_Smaug_-_Bilbo_and_the_butterflies_in_the_canopy_of_Mirkwood.jpg" decoding="async" loading="lazy" width="300" height="124" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/ff/The_Hobbit_-_The_Desolation_of_Smaug_-_Bilbo_and_the_butterflies_in_the_canopy_of_Mirkwood.jpg/450px-The_Hobbit_-_The_Desolation_of_Smaug_-_Bilbo_and_the_butterflies_in_the_canopy_of_Mirkwood.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/ff/The_Hobbit_-_The_Desolation_of_Smaug_-_Bilbo_and_the_butterflies_in_the_canopy_of_Mirkwood.jpg/600px-The_Hobbit_-_The_Desolation_of_Smaug_-_Bilbo_and_the_butterflies_in_the_canopy_of_Mirkwood.jpg 2x" data-file-width="1918" data-file-height="794"/></a></span></div>
 			<div class="gallerytext">
-<p>Bilbo and the butterflies in the canopy of <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a>
+<p>Bilbo và những chú bướm trên tán <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a>
 </p>
 			</div>
 		</li>
@@ -735,23 +735,23 @@ Trang Facebook của - <a class="external text" href="http://www.facebook.com/Pe
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> film series</a></b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> loạt phim</a></b>
 </th></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Source material: <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Nguồn tư liệu: <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Films
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Phim
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">An Unexpected Journey</a></i> (<a href="The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md" title="The Hobbit: An Unexpected Journey (extended edition)">extended edition</a>)· <i><a class="mw-selflink selflink">The Desolation of Smaug</a></i> (<a href="The_Hobbit%253A_The_Desolation_of_Smaug_(extended_edition).md" title="The Hobbit: The Desolation of Smaug (extended edition)">extended edition</a>) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Battle of the Five Armies</a></i> (<a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md" title="The Hobbit: The Battle of the Five Armies (extended edition)">extended edition</a>)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">An Unexpected Journey</a></i> (<a href="The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md" title="The Hobbit: An Unexpected Journey (extended edition)">ấn bản mở rộng</a>)· <i><a class="mw-selflink selflink">The Desolation of Smaug</a></i> (<a href="The_Hobbit%253A_The_Desolation_of_Smaug_(extended_edition).md" title="The Hobbit: The Desolation of Smaug (extended edition)">ấn bản mở rộng</a>) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Battle of the Five Armies</a></i> (<a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md" title="The Hobbit: The Battle of the Five Armies (extended edition)">ấn bản mở rộng</a>)
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Music
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Âm nhạc
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.md" title="The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack">An Unexpected Journey</a></i> (<a href="The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition">Special Edition</a>) · <i><a href="The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack.md" title="The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack">The Desolation of Smaug</a></i> (<a href="The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack - Special Edition">Special Edition</a>) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack.md" title="The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack">The Battle of the Five Armies</a></i> (<a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack - Special Edition">Special Edition</a>) · &#34;<a href="../S/Song_of_the_Lonely_Mountain.md" title="Song of the Lonely Mountain">Song of the Lonely Mountain</a>&#34; · &#34;<a href="../I/I_See_Fire.md" title="I See Fire">I See Fire</a>&#34; · &#34;<a href="The_Last_Goodbye.md" title="The Last Goodbye">The Last Goodbye</a>&#34;
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="4">Tie-in books
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="4">Sách ăn theo
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit_Trilogy_Location_Guidebook.md" title="The Hobbit Trilogy Location Guidebook">Location Guidebook</a></i> · <i><a href="The_Hobbit_Motion_Picture_Trilogy_Location_Guide%253A_Hobbiton,_the_Lonely_Mountain_and_Beyond.md" title="The Hobbit Motion Picture Trilogy Location Guide: Hobbiton, the Lonely Mountain and Beyond">Location Guide: Hobbiton, the Lonely Mountain and Beyond</a></i> · <i><a href="The_Hobbit_Sketchbook.md" title="The Hobbit Sketchbook">Sketchbook</a></i>
 </td></tr>
@@ -771,44 +771,44 @@ Trang Facebook của - <a class="external text" href="http://www.facebook.com/Pe
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Official_Movie_Guide.md" title="The Hobbit: The Battle of the Five Armies: Official Movie Guide">Official Movie Guide</a></i> · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Visual_Companion.md" title="The Hobbit: The Battle of the Five Armies: Visual Companion">Visual Companion</a></i> · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_The_Movie_Storybook.md" title="The Hobbit: The Battle of the Five Armies: The Movie Storybook">Movie Storybook</a></i> · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Annual_2015.md" title="The Hobbit: The Battle of the Five Armies: Annual 2015">Annual 2015</a></i> · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Chronicles%253A_Art_&amp;_Design.md" title="The Hobbit: The Battle of the Five Armies: Chronicles: Art &amp; Design">Chronicles: Art &amp; Design</a></i> · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Chronicles%253A_The_Art_of_War.md" title="The Hobbit: The Battle of the Five Armies: Chronicles: The Art of War">Chronicles: The Art of War</a></i> · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Activity_Book.md" title="The Hobbit: The Battle of the Five Armies: Activity Book">Activity Book</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px; padding-left: 4px;">Video games
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px; padding-left: 4px;">Trò chơi điện tử
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit%253A_Kingdoms_of_Middle-earth.md" title="The Hobbit: Kingdoms of Middle-earth">Kingdoms of Middle-earth</a></i> · <i><a href="The_Hobbit%253A_Armies_of_The_Third_Age.md" title="The Hobbit: Armies of The Third Age">Armies of The Third Age</a></i> · <i><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Characters
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Nhân vật
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> · <a href="Thorin.md" title="Thorin">Thorin</a> · <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> · <a href="../B/Balin.md" title="Balin">Balin</a> · <a href="../F/Fíli.md" title="Fíli">Fíli</a> · <a href="../K/Kíli.md" title="Kíli">Kíli</a> · <a href="../D/Dwalin.md" title="Dwalin">Dwalin</a> · <a href="../D/Dori.md" title="Dori">Dori</a> · <a href="../N/Nori.md" title="Nori">Nori</a> · <a href="../O/Ori.md" title="Ori">Ori</a> · <a href="../_/Óin.md" title="Óin">Óin</a> · <a href="../G/Glóin.md" title="Glóin">Glóin</a> · <a href="../B/Bifur.md" title="Bifur">Bifur</a> · <a href="../B/Bofur.md" title="Bofur">Bofur</a> · <a href="../B/Bombur.md" title="Bombur">Bombur</a> · <a href="../S/Smaug.md" title="Smaug">Smaug</a> · <a href="../R/Radagast.md" title="Radagast">Radagast</a> · <a href="../E/Elrond.md" title="Elrond">Elrond</a> · <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> · <a href="../S/Saruman.md" title="Saruman">Saruman</a> · <a href="../A/Azog.md" title="Azog">Azog</a> · <a href="../B/Bolg.md" title="Bolg">Bolg</a> · <a href="Thranduil.md" title="Thranduil">Thranduil</a> · <a href="../L/Legolas.md" title="Legolas">Legolas</a> · <a href="Tauriel.md" title="Tauriel">Tauriel</a> · <a href="../B/Bard.md" title="Bard">Bard</a> · <a href="../B/Bain.md" title="Bain">Bain</a> · <a href="Tilda.md" title="Tilda">Tilda</a> · <a href="../S/Sigrid.md" title="Sigrid">Sigrid</a> · <a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a> · <a href="../C/Councillors.md" title="Councillors">Alfrid</a> · <a href="../D/Dáin_Ironfoot.md" title="Dáin Ironfoot">Dáin Ironfoot</a> · <a href="../S/Sauron.md" title="Sauron">Necromancer</a> · <a class="mw-redirect" href="../B/Bert.md" title="Bert">Bert</a> · <a class="mw-redirect" href="../W/William.md" title="William">William</a> · <a class="mw-redirect mw-disambig" href="Tom.md" title="Tom">Tom</a> · <a href="../B/Beorn.md" title="Beorn">Beorn</a> · <a href="Thráin.md" title="Thráin">Thráin</a> · <a href="Thrór.md" title="Thrór">Thrór</a> · <a href="../G/Great_Goblin.md" title="Great Goblin">Goblin King</a> · <a href="../G/Gollum.md" title="Gollum">Gollum</a> · <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Licensed screen adaptations of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works</b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Chuyển thể màn hình các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> được cấp phép</b>
 </th></tr>
 <tr>
-<th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Animation</b>
+<th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Phim hoạt hình</b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)">The Hobbit</a></i> (1967) · <i><a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)">The Hobbit</a></i> (1977, Rankin and Bass) · <i><a href="The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">The Lord of the Rings</a></i> (1978) · <i><a href="The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King</a></i> (1980, Rankin and Bass) · <i><a href="The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md" title="The Lord of the Rings: The War of the Rohirrim">The War of the Rohirrim</a></i> (2024, New Line Cinema)
 </td></tr>
 <tr>
 <th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="3"><b>Live-action</b><br/><small>(New Line Cinema)</small>
 </th>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i> series</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i>loạt</a></b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (2001) · <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (2002) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (2003)
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> series</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> loạt</a></b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">An Unexpected Journey</a></i> (2012) · <i><a class="mw-selflink selflink">The Desolation of Smaug</a></i> (2013) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Battle of the Five Armies</a></i> (2014)
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b>Other films</b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b>Các phim khác</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, upcoming)
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, sắp ra mắt)
 </td></tr>
 <tr>
-<th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>TV series</b>
+<th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>Loạt phim truyền hình</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-present)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-nay)
 </td></tr></tbody></table>

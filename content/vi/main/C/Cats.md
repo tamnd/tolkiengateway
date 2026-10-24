@@ -24,12 +24,12 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Cats</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Cat_(disambiguation).md" title="Cat (disambiguation)">Cat (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Mèo</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Cat_(disambiguation).md" title="Cat (disambiguation)">Mèo (định hướng)</a></b>.</div></div>
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_Thane_of_Tevildo.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/aa/Alan_Lee_-_Thane_of_Tevildo.jpg/250px-Alan_Lee_-_Thane_of_Tevildo.jpg" decoding="async" loading="lazy" width="250" height="188" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/aa/Alan_Lee_-_Thane_of_Tevildo.jpg/375px-Alan_Lee_-_Thane_of_Tevildo.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/aa/Alan_Lee_-_Thane_of_Tevildo.jpg/500px-Alan_Lee_-_Thane_of_Tevildo.jpg 2x" data-file-width="514" data-file-height="386"/></a><figcaption>Illustration of a gray cat by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a>.</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_Thane_of_Tevildo.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/aa/Alan_Lee_-_Thane_of_Tevildo.jpg/250px-Alan_Lee_-_Thane_of_Tevildo.jpg" decoding="async" loading="lazy" width="250" height="188" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/aa/Alan_Lee_-_Thane_of_Tevildo.jpg/375px-Alan_Lee_-_Thane_of_Tevildo.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/aa/Alan_Lee_-_Thane_of_Tevildo.jpg/500px-Alan_Lee_-_Thane_of_Tevildo.jpg 2x" data-file-width="514" data-file-height="386"/></a><figcaption>Hình minh họa con mèo xám của <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a>.</figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>It won&#39;t sound too pretty to say you&#39;ve caught the kitten and let the cat escape.
+<p>Sẽ không quá hay nếu nói rằng bạn đã bắt được con mèo con và để nó trốn thoát.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gorbag.md" title="Gorbag">Gorbag</a> in <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../S/Shelob&#39;s_Lair_(chapter).md" title="Shelob&#39;s Lair (chapter)">Shelob&#39;s Lair</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -42,7 +42,7 @@ Ngoài việc được dùng làm bạn đồng hành, vì [Hobbits](../H/Hobbit
 
 ### Những con mèo của Nữ hoàng Berúthiel {#The_cats_of_Queen_Berúthiel}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Cats_of_Queen_Berúthiel.md" title="Cats of Queen Berúthiel">Cats of Queen Berúthiel</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Cats_of_Queen_Berúthiel.md" title="Cats of Queen Berúthiel">Những chú mèo của Nữ hoàng Berúthiel</a></b></div></div>
 
 Vào cuối thế kỷ thứ chín và có thể là đầu thế kỷ thứ mười của [Kỷ nguyên Thứ Ba](../T/Third_Age.md), [Berúthiel](../B/Berúthiel.md), vợ của [Tarannon Falastur](../T/Tarannon_Falastur.md), vị [Vua Gondor](../K/King_of_Gondor.md) thứ mười hai, nuôi mèo: chín con màu đen và một con màu trắng. Cuộc hôn nhân giữa Tarannon và Berúthiel không hề êm đẹp: tình yêu của ông dành cho [Biển Cả](../B/Belegaer.md) đã khiến bà phát điên. Bà căm ghét mọi sự chế tác, mọi màu sắc và đồ trang sức cầu kỳ, dành phần lớn thời gian trong những căn phòng khắc khổ của mình cùng mười con mèo. Bà căm ghét mọi sự chế tác, mọi màu sắc và đồ trang sức cầu kỳ, rồi sai những con mèo đi do thám mọi người, tìm hiểu những bí mật đen tối của họ. Berúthiel trò chuyện với những con mèo và có thể đã đọc được ký ức của chúng. Bà thậm chí còn sai con mèo trắng do thám những con khác để hành hạ chúng. Những con mèo bị người dân [Gondor](../G/Gondor.md) sợ hãi và căm ghét, và người ta nguyền rủa khi trông thấy chúng. Triều đại khủng bố của Berúthiel cuối cùng cũng chấm dứt khi Tarannon trục xuất bà khỏi vương quốc. Ông đặt bà cùng những con mèo lên một con tàu, không có ai khác, rồi thả nó trôi theo một cơn gió bắc. Lần cuối người ta trông thấy Berúthiel và những con mèo của bà là khi họ đi ngang qua [Umbar](../U/Umbar.md), dong buồm vào vùng biển phía nam.<sup id="cite_ref-UTI7_4-1" class="reference"><a href="#cite_note-UTI7-4">[4]</a></sup>
 
@@ -69,16 +69,16 @@ Khi những cuộc phiêu lưu của Rover kết thúc, Tinker không tin bất 
 Đặc biệt trong trường hợp của Berúthiel và Tevildo, loài mèo ở Middle-earth được khắc họa theo chiều hướng tiêu cực. Có thể cho rằng Tolkien không phải là người yêu mèo. Khi một người nuôi mèo thuần chủng xin phép sử dụng những cái tên trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* cho những con mèo của mình, Tolkien đã hồi đáp [Allen &amp; Unwin](../A/Allen_and_Unwin.md):
 
 <blockquote class="tg-quote noexcerpt">
-<p>I fear that to me Siamese cats belong to the fauna of Mordor, but you need not tell the cat breeder that.
+<p>Tôi e rằng đối với tôi mèo Xiêm thuộc hệ động vật Mordor, nhưng bạn không cần phải nói với người chăn nuôi mèo điều đó.
 </p>
-<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../L/Letter_219.md" title="Letter 219">Letter 219</a> (dated <a href="../_/14_October.md" title="14 October">October 14</a>, <a href="../_/1959.md" title="1959">1959</a>)</cite></p>
+<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../L/Letter_219.md" title="Letter 219">Thư 219</a> (ngày <a href="../_/14_October.md" title="14 October">14 tháng 10</a>, <a href="../_/1959.md" title="1959">1959</a>)</cite></p>
 </blockquote>
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Cats are found throughout Middle-earth, especially in Bree-land. There is a &#34;cat lady&#34; who has a house full of cats. Lore-masters can also have a non-combat cat pet.</dd></dl>
+<dl><dd>Mèo được tìm thấy khắp Trung Địa, đặc biệt là ở Bree-land. Có một “cô nàng mèo” có một ngôi nhà toàn mèo. Bậc thầy truyền thuyết cũng có thể nuôi một con mèo cưng không thể chiến đấu.</dd></dl>
 
 <span></span>
 

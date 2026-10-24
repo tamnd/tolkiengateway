@@ -26,7 +26,7 @@ images:
 
 <b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The South Undeep is located in the northern Wold, connecting two riverbanks through a small island in the middle of the river. Due to the unstable political situation in Rohan, a party of <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a> has been able to take the crossing and establish a fortified camp on the western bank, from which they attack and burn the Rohirrim town of <i>Langhold</i>.</dd></dl>
+<dl><dd>South Undeep nằm ở phía Bắc Wold, nối hai bờ sông qua một hòn đảo nhỏ giữa sông. Do tình hình chính trị không ổn định ở Rohan, một nhóm <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a> đã vượt qua được và thiết lập một trại kiên cố ở bờ tây, từ đó họ tấn công và đốt cháy thị trấn Rohirrim <i>Langhold</i>.</dd></dl>
 
 <span></span>
 

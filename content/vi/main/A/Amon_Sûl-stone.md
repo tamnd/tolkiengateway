@@ -31,7 +31,7 @@ Mang theo những báu vật gia truyền này cùng các báu vật khác, ông
 
 <b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
-<dl><dd>The card <i>Palantír</i> of Amon Sûl was released in two versions in two different sets: <i><a href="../M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a></i> and <i><a href="../M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a></i>. A Resource Item, the card can be used by a player to look at the opponent&#39;s hand.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
+<dl><dd>Thẻ <i>Palantír</i> của Amon Sûl được phát hành với hai phiên bản với hai bộ khác nhau: <i><a href="../M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a></i> và <i><a href="../M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a></i>. Một Vật phẩm Tài nguyên, người chơi có thể sử dụng lá bài này để xem bài của đối thủ.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
 ## Xem thêm {#See_also}
 
@@ -67,7 +67,7 @@ Mang theo những báu vật gia truyền này cùng các báu vật khác, ông
 <td style="font-size: 90%;">  † <a href="../M/Master_Stone_of_Osgiliath.md" title="Master Stone of Osgiliath">Master Stone of Osgiliath</a> <small>(<a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a>)</small> · † <a href="../I/Ithil-stone.md" title="Ithil-stone">Ithil-stone</a> <small>(<a class="mw-redirect" href="../M/Minas_Ithil.md" title="Minas Ithil">Minas Ithil</a> - <a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a>)</small> · <a href="Anor-stone.md" title="Anor-stone">Anor-stone</a> <small>(<a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>)</small> · <a href="../O/Orthanc-stone.md" title="Orthanc-stone">Orthanc-stone</a> <small>(<a href="../O/Orthanc.md" title="Orthanc">Orthanc</a> - <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>)</small>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">Other
+<th style="background:var(--tg-color-surface-3);" align="right">Khác
 </th>
 <td style="font-size: 90%;"> <a href="../M/Master-stone.md" title="Master-stone">Master-stone</a> <small>(<a class="mw-redirect" href="../T/Tower_of_Avallonë.md" title="Tower of Avallonë">Tower of Avallonë</a>)</small>
 </td></tr>

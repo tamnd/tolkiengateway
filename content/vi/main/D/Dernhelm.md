@@ -40,15 +40,15 @@ Tên này có nghĩa là “người bảo vệ ẩn mình” trong [Tiếng Anh
 
 <b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim năm 1980)</a>:</b>
 
-<dl><dd>Éowyn does not make use of the name, only dressing like a man. Her hair is tucked underneath an open-faced helmet, which she removes while confronting the Witch-king.</dd></dl>
+<dl><dd>Éowyn không dùng tên mà chỉ ăn mặc như đàn ông. Tóc của bà được giấu bên dưới một chiếc mũ bảo hiểm hở mặt, bà sẽ cởi mũ ra khi đối đầu với Vua Phù thủy.</dd></dl>
 
 <b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
-<dl><dd>Here Éowyn does introduce herself as Dernhelm, and is stated to wear a helmet with a visor that obscures her face.</dd></dl>
+<dl><dd>Ở đây Éowyn tự giới thiệu mình là Dernhelm và được cho là đội một chiếc mũ bảo hiểm có tấm che che khuôn mặt.</dd></dl>
 
 <b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
 
-<dl><dd>In the movie, the name is not used, but Éowyn&#39;s helmet partly covers her face. As one of the riders grasps Merry to put him on the horse as they ride for the battle, Merry smiles, immediately recognizing Éowyn from the rider&#39;s voice.</dd></dl>
+<dl><dd>Trong phim, tên không được sử dụng nhưng chiếc mũ bảo hiểm của Éowyn che một phần khuôn mặt của cô. Khi một trong những người cưỡi ngựa nắm lấy Merry để đặt ông lên ngựa khi họ cưỡi ngựa tham gia trận chiến, Merry mỉm cười, nhận ra ngay Éowyn từ giọng nói của người cưỡi ngựa.</dd></dl>
 
 <span></span>
 

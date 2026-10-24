@@ -24,27 +24,27 @@ Bài thơ đã được tái bản trong *[Three Early Poems](../T/Three_Early_P
 ## Bài thơ {#Poem}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>&#39;Tis the time when May first looks toward June<br/>
-with almond-scented hawthorn strewn<br/>
-the tremulous day at last has run<br/>
-down the gold stairways of the Sun,<br/>
-who brimmed the buttercups with light<br/>
-like a clear wine she spillèd bright;<br/>
-and gleaming spirits there did dance<br/>
-and sip those goblets&#39; radiance.<br/>
-Now wane they all; now comes the moon;<br/>
-like crystal are the dewdrops strewn<br/>
-beneath the eve, and twinkling gems<br/>
-are hung on the leaves and slender stems.<br/>
+<p>'Đây là lúc tháng Năm lần đầu hướng về tháng Sáu<br/>
+với táo gai thơm hạnh nhân<br/>
+ngày run rẩy cuối cùng cũng đã trôi qua<br/>
+xuống những bậc thang vàng của Mặt Trời,<br/>
+người đã thắp sáng những bông hoa mao lương<br/>
+như rượu trong nàng đổ tươi sáng;<br/>
+và những linh hồn lấp lánh ở đó đã nhảy múa<br/>
+và nhấm nháp ánh hào quang của những chiếc cốc đó.<br/>
+Bây giờ tất cả đều suy yếu; bây giờ trăng đã đến;<br/>
+những giọt sương rải rác như pha lê<br/>
+dưới đêm giao thừa và những viên ngọc lấp lánh<br/>
+được treo trên lá và thân mảnh mai.<br/>
 <br/>
-Now in the grass lies many a pool,<br/>
-infinitesimal and cool,<br/>
-where tiny faces peer and laugh<br/>
-at glassy fragments of the stars<br/>
-about them mirrored, or from jars<br/>
-of unimagined frailty quaff<br/>
-This essence of the plenilune,<br/>
-thirsty, perchance, from dancing all noon.
+Giờ đây trong bãi cỏ có nhiều ao nước<br/>
+vô cùng nhỏ bé và mát mẻ,<br/>
+nơi những khuôn mặt nhỏ bé nhìn nhau và cười<br/>
+tại những mảnh thủy tinh của các ngôi sao<br/>
+về chúng được nhân đôi, hoặc từ lọ<br/>
+của sự yếu đuối không thể tưởng tượng được<br/>
+Bản chất của sự đa dạng này,<br/>
+khát nước, có thể là do khiêu vũ suốt buổi trưa.
 </p>
 </div>
 

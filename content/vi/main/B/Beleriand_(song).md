@@ -18,24 +18,24 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>To north, to north there lay the land of dread <br/>
-Dungorthin, where all ways were dead <br/>
-In hills, in hills of shadow bleak and cold <br/>
-Beyond was deadly nighshades hold <br/>
+<p>Phía bắc, phía bắc có vùng đất kinh hoàng <br/>
+Dungorthin, nơi mọi con đường đều chết <br/>
+Trên đồi, trên đồi bóng tối ảm đạm <br/>
+Bên kia là những bóng tối chết người đang nắm giữ <br/>
 <br/>
-To south, to south the wide earth unexplored <br/>
-To west, to west the ancient ocean roared <br/>
-To east, to east in peaks of blue were piled <br/>
-The mountains of the outer world <br/>
+Về phía nam, về phía nam đất rộng chưa được khám phá <br/>
+Về tây, về tây biển xưa gầm vang <br/>
+Về đông, về đông trên những đỉnh núi xanh chồng chất <br/>
+Những ngọn núi của thế giới bên ngoài <br/>
 <br/>
-Unsailed and shoreless, wide and wild <br/>
-To east in peaks of blue were piled <br/>
-In silence folded, mist enfurled <br/>
-The mountains of the outer world <br/>
+Không có thuyền buồm và không có bờ biển, rộng lớn và hoang dã <br/>
+Phía Đông trên những đỉnh núi xanh ngút ngàn <br/>
+Trong im lặng cuộn lại, sương mù bao trùm <br/>
+Những ngọn núi của thế giới bên ngoài <br/>
 <br/>
-Beyond the tangled, woodland shade <br/>
-Thorn and thicket grove and glade <br/>
-Whose brooding boughs with magic hung <br/>
-Were ancient when the world was young
+Ngoài bóng rừng rối rắm <br/>
+Rừng gai, bụi cây và trảng <br/>
+Cành cây ủ của ai treo phép thuật <br/>
+Đã cổ xưa khi thế giới còn trẻ
 </p>
 </div>

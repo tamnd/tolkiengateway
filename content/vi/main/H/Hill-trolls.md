@@ -34,7 +34,7 @@ infobox:
     value: "Images of Hill-trolls"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Hill_Troll.jpg.md"><img src="https://tolkiengateway.net/w/images/b/be/John_Howe_-_Hill_Troll.jpg" decoding="async" loading="lazy" width="244" height="334" class="mw-file-element" data-file-width="244" data-file-height="334"/></a><figcaption><i>Hill Troll</i> by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a class="mw-redirect" href="../R/Races.md" title="Races">Race</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hill-trolls</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Average Height</th><td class="tg-infobox-data">Taller than <a href="../M/Men.md" title="Men">men</a></td></tr><tr><th scope="row" class="tg-infobox-label">Weaponry</th><td class="tg-infobox-data">Hammers</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Hill-trolls.md" title="Category:Images of Hill-trolls">Images of Hill-trolls</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Hill_Troll.jpg.md"><img src="https://tolkiengateway.net/w/images/b/be/John_Howe_-_Hill_Troll.jpg" decoding="async" loading="lazy" width="244" height="334" class="mw-file-element" data-file-width="244" data-file-height="334"/></a><figcaption><i>Hill Troll</i> by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a class="mw-redirect" href="../R/Races.md" title="Races">Chủng tộc</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hill-trolls</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Chiều cao trung bình</th><td class="tg-infobox-data">Cao hơn <a href="../M/Men.md" title="Men">đàn ông</a></td></tr><tr><th scope="row" class="tg-infobox-label">Weaponry</th><td class="tg-infobox-data">Hammers</td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Hill-trolls.md" title="Category:Images of Hill-trolls">Images of Hill-trolls</a></td></tr></tbody></table>
 
 **Quỷ đồi** là nhiều loại [quỷ lùn](../T/Trolls.md) thích nghi với cuộc sống giữa những ngọn đồi và vùng đất hoang.
 
@@ -54,11 +54,11 @@ Về ngoại hình, chúng giống con người, nhưng lớn hơn và dường 
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Hill Trolls (Sindarin <i>Teregemyn</i>)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> are among the most common of the Troll breeds. They are usually nine to twelve feet tall.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
+<dl><dd>Hill Troll (Sindarin <i>Teregemyn</i>)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> là một trong những giống Troll phổ biến nhất. Chúng thường cao từ 9 đến 12 feet.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
 <b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
-<dl><dd>&#34;Hill Trolls&#34; is a Troll Faction, and &#34;Hill-troll&#34; is a Minion Character.</dd></dl>
+<dl><dd>"Hill Troll" là Phe Troll và "Hill-troll" là Nhân vật Minion.</dd></dl>
 
 <span></span>
 

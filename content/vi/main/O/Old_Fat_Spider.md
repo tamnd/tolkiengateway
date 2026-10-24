@@ -33,7 +33,7 @@ infobox:
     value: "Roads"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/320px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg" decoding="async" loading="lazy" width="320" height="323" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/480px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg 1.5x, https://tolkiengateway.net/w/images/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg 2x" data-file-width="574" data-file-height="579"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Greatest Adventure</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data">&#39;<b><a href="../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md" title="The Hobbit: The Complete Original Soundtrack">The Hobbit: The Complete Original Soundtrack</a>&#39;</b></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data"><a href="../M/Maury_Laws.md" title="Maury Laws">Maury Laws</a></td></tr><tr><th scope="row" class="tg-infobox-label">Written by</th><td class="tg-infobox-data"><a href="../J/Jules_Bass.md" title="Jules Bass">Jules Bass</a></td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data"><a href="../G/Glenn_Yarbrough.md" title="Glenn Yarbrough">Glenn Yarbrough</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">2:22</td></tr><tr><th scope="row" class="tg-infobox-label">Track No.</th><td class="tg-infobox-data">21</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="../I/In_the_Valley,_Ha!_Ha!.md" title="In the Valley, Ha! Ha!">In the Valley, Ha! Ha!</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="../R/Roads_(song).md" title="Roads (song)">Roads</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="youtube" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; autoplay" modestbranding="1" allowfullscreen="true" width="288" height="80" src="//www.youtube-nocookie.com/embed/rKdsBlRNgX0"></iframe></span>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/320px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg" decoding="async" loading="lazy" width="320" height="323" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/480px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg 1.5x, https://tolkiengateway.net/w/images/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg 2x" data-file-width="574" data-file-height="579"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Greatest Adventure</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data">&#39;<b><a href="../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md" title="The Hobbit: The Complete Original Soundtrack">The Hobbit: The Complete Original Soundtrack</a>&#39;</b></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data"><a href="../M/Maury_Laws.md" title="Maury Laws">Maury Laws</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/Jules_Bass.md" title="Jules Bass">Jules Bass</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data"><a href="../G/Glenn_Yarbrough.md" title="Glenn Yarbrough">Glenn Yarbrough</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">2:22</td></tr><tr><th scope="row" class="tg-infobox-label">Số thứ tự bản nhạc</th><td class="tg-infobox-data">21</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="../I/In_the_Valley,_Ha!_Ha!.md" title="In the Valley, Ha! Ha!">In the Valley, Ha! Ha!</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="../R/Roads_(song).md" title="Roads (song)">Roads</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Phương tiện truyền thông</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="youtube" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; autoplay" modestbranding="1" allowfullscreen="true" width="288" height="80" src="//www.youtube-nocookie.com/embed/rKdsBlRNgX0"></iframe></span>
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
@@ -42,41 +42,41 @@ infobox:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>I met an old, fat <a href="../S/Spiders.md" title="Spiders">spider</a>,<br/>
-Spinning in his tree.<br/>
-I said, &#34;Hey old, fat spider, <br/>
-I bet you can&#39;t catch me!<br/>
-You&#39;ve grown too fat you lazy lob.<br/>
-You&#39;re just an old Tomnoddy!<br/>
-Hey Attercop!<br/>
-Hey Attercop!<br/>
-You can&#39;t catch anybody.&#34;<br/>
+<p>Tôi gặp một <a href="../S/Spiders.md" title="Spiders">con nhện</a> già, mập mạp,<br/>
+Quay trên cây của mình.<br/>
+Tôi nói: "Này con nhện béo già, <br/>
+Tôi cá là bạn không thể bắt được tôi!<br/>
+Cậu béo quá rồi, đồ lười biếng.<br/>
+Anh chỉ là Tomnaddy già thôi!<br/>
+Này Attercop!<br/>
+Này Attercop!<br/>
+Bạn không thể bắt được ai cả."<br/>
 <br/>
-And then the old, fat spider,<br/>
-He spun a final thread.<br/>
-I said, &#34;Hey old, fat spider,<br/>
-It&#39;s time that you were dead!&#34;<br/>
-I drew <a href="../S/Sting.md" title="Sting">my sword</a> to cut his silk,<br/>
-To kill the old Tomnoddy. <br/>
-But then I thought, I&#39;ll leave him be;<br/>
-He can&#39;t catch anybody.<br/>
+Và rồi con nhện già béo,<br/>
+Ông đã dệt sợi chỉ cuối cùng.<br/>
+Tôi nói: "Này con nhện béo già,<br/>
+Đã đến lúc bạn phải chết rồi!"<br/>
+Tôi rút <a href="../S/Sting.md" title="Sting">kiếm của mình</a> để cắt lụa cho ông,<br/>
+Để giết Tomnaddy già. <br/>
+Nhưng rồi tôi nghĩ, tôi sẽ để ông yên;<br/>
+Ông không thể bắt được ai cả.<br/>
 <br/>
-I met an old fat spider<br/>
-In his spinning tree.<br/>
-His web all old and tattered,<br/>
-And he could hardly see.<br/>
-I shooed a <a href="../F/Flies.md" title="Flies">fly</a> into his lair<br/>
-To feed the old Tomnoddy.<br/>
-&#39;Cause how can you kill a spider who can&#39;t catch anybody?<br/>
-How can you kill a spider who can&#39;t catch anybody?<br/>
+Tôi gặp một con nhện già béo<br/>
+Trong cây quay của mình.<br/>
+Mạng của ông đã cũ và rách rưới<br/>
+Và ông hầu như không thể nhìn thấy.<br/>
+Tôi đã đuổi một con <a href="../F/Flies.md" title="Flies">bay</a> vào hang ổ của hắn<br/>
+Để nuôi Tomnoddy già.<br/>
+Vì làm sao bạn có thể giết một con nhện không thể bắt được ai?<br/>
+Làm sao bạn có thể giết một con nhện không thể bắt được ai?<br/>
 <br/>
-I met an old, fat spider<br/>
-In his spinning tree.<br/>
-His web all old and tattered,<br/>
-And he could hardly see.<br/>
-I shooed a fly into his lair<br/>
-To feed the old Tomnoddy.<br/>
-&#39;Cause how can you kill a spider who can&#39;t catch anybody?<br/>
-How can you kill a spider who can&#39;t catch anybody?
+Tôi gặp một con nhện già béo<br/>
+Trong cây quay của mình.<br/>
+Mạng của ông đã cũ và rách rưới<br/>
+Và ông hầu như không thể nhìn thấy.<br/>
+Tôi đã xua đuổi một con ruồi vào hang ổ của hắn<br/>
+Để nuôi Tomnoddy già.<br/>
+Vì làm sao bạn có thể giết một con nhện không thể bắt được ai?<br/>
+Làm sao bạn có thể giết một con nhện không thể bắt được ai?
 </p>
 </div>

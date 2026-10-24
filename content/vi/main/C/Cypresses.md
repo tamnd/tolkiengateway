@@ -29,7 +29,7 @@ Trong thời gian [Berúthiel](../B/Berúthiel.md) làm [vợ](../Q/Queen_of_Gon
 
 <b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Kho báu của Trung Địa</a></i></b>
 
-<dl><dd>A type of cypress, <i><b>Black Cypress</b></i>, is described as the largest evergreen growing in southeastern <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>, growing up to 200 ft. Its trunk was black and the scale-like leaves were dark green. Its hard to work wood was used for shipbuilding.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
+<dl><dd>Một loại cây bách, <i><b>Black Cypress</b></i>, được mô tả là loại cây thường xanh lớn nhất mọc ở phía đông nam <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a>, cao tới 200 ft. Thân của nó có màu đen và các lá dạng vảy có màu xanh đậm. Gỗ khó gia công được dùng để đóng tàu.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
 <span></span>
 

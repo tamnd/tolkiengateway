@@ -23,9 +23,9 @@ sort_keys:
 ## Trích dẫn {#Quotes}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Their contribution to the project was absolutely fundamental. They gave us the look and feel of Middle-earth, and they brought the most intimate knowledge of Tolkien lore to their work.
+<p>Đóng góp của họ cho dự án là hoàn toàn cơ bản. Họ đã cho chúng tôi giao diện của Trung Địa và họ đã mang kiến ​​thức sâu sắc nhất về truyền thuyết Tolkien vào công việc của mình.
 </p>
-<p class="tg-quote-footer"><cite>Grant Major on working with <a href="../J/John_Howe.md" title="John Howe">John Howe</a> and <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></cite></p>
+<p class="tg-quote-footer"><cite>Grant Major về việc làm việc với <a href="../J/John_Howe.md" title="John Howe">John Howe</a> và <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Giải thưởng {#Awards}

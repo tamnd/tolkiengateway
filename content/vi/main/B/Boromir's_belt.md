@@ -21,7 +21,7 @@ images:
   - "Nino_Vecia_-_Golden_Belt.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/N/Nino_Vecia_-_Golden_Belt.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/91/Nino_Vecia_-_Golden_Belt.jpg/250px-Nino_Vecia_-_Golden_Belt.jpg" decoding="async" loading="lazy" width="250" height="358" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/9/91/Nino_Vecia_-_Golden_Belt.jpg 1.5x" data-file-width="300" data-file-height="429"/></a><figcaption><i>Golden Belt</i> by Nino Vecia</figcaption></figure>
@@ -40,14 +40,14 @@ Sau này, [Faramir](../F/Faramir.md) một đêm nọ nhìn thấy chiếc thuy�
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd><a href="Boromir.md" title="Boromir">Boromir</a> is the only member of the <a class="mw-redirect" href="../F/Fellowship.md" title="Fellowship">Fellowship</a> who does not receive a gift from <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a>. He does wear a belt throughout the film, but it is made of leather, not gold. It is possible <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a> wished to convey the mistrust that Galadriel and the rest of the group felt toward him.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
+<dl><dd><a href="Boromir.md" title="Boromir">Boromir</a> là thành viên duy nhất của <a class="mw-redirect" href="../F/Fellowship.md" title="Fellowship">Học bổng</a> không nhận được quà từ <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a>. Ông đeo thắt lưng trong suốt bộ phim, nhưng nó được làm bằng da chứ không phải vàng. Có thể <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a> muốn truyền tải sự ngờ vực mà Galadriel và những người còn lại trong nhóm dành cho ông.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5)"><b><a href="../G/Gifts_of_Galadriel.md" title="Gifts of Galadriel">Gifts of Galadriel</a></b>
+<th style="background:var(--tg-color-surface-5)"><b><a href="../G/Gifts_of_Galadriel.md" title="Gifts of Galadriel">Những món quà của Galadriel</a></b>
 </th></tr>
 <tr>
-<td style="font-size: 90%;" align="center"><a href="../A/Andúril&#39;s_sheath.md" title="Andúril&#39;s sheath">Andúril&#39;s sheath</a> · <a href="../E/Elfstone.md" title="Elfstone">Elfstone</a> · <a class="mw-selflink selflink">Boromir&#39;s belt</a> · <a href="../M/Merry_and_Pippin&#39;s_belts.md" title="Merry and Pippin&#39;s belts">Merry and Pippin&#39;s belts</a> · <a href="Bow_of_the_Galadhrim.md" title="Bow of the Galadhrim">Bow of the Galadhrim</a> · <a href="../S/Sam&#39;s_garden_box.md" title="Sam&#39;s garden box">Sam&#39;s garden box</a> · <a href="../H/Hair_of_Galadriel.md" title="Hair of Galadriel">Hair of Galadriel</a> · <a href="../P/Phial_of_Galadriel.md" title="Phial of Galadriel">Phial of Galadriel</a>
+<td style="font-size: 90%;" align="center"><a href="../A/Andúril&#39;s_sheath.md" title="Andúril&#39;s sheath">Andúril bao kiếm</a> · <a href="../E/Elfstone.md" title="Elfstone">Elfstone</a> · <a class="mw-selflink selflink">Boromir thắt lưng</a> · <a href="../M/Merry_and_Pippin&#39;s_belts.md" title="Merry and Pippin&#39;s belts">Merry và thắt lưng Pippin</a> · <a href="Bow_of_the_Galadhrim.md" title="Bow of the Galadhrim">Cung của Galadhrim</a> · <a href="../S/Sam&#39;s_garden_box.md" title="Sam&#39;s garden box">Sam hộp làm vườn</a> · <a href="../H/Hair_of_Galadriel.md" title="Hair of Galadriel">Tóc của Galadriel</a> · <a href="../P/Phial_of_Galadriel.md" title="Phial of Galadriel">Phial của Galadriel</a>
 </td></tr>
 </tbody></table>
 

@@ -31,7 +31,7 @@ images:
   - "Ted_Nasmith_-_At_the_Cross-roads.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>a location in Ithilien</b>. For the scene in <a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)"><i>The Lord of the Rings: The Return of the King</i> (extended edition)</a>, see <b><a href="Cross-roads_of_the_Fallen_King.md" title="Cross-roads of the Fallen King">Cross-roads of the Fallen King</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>một vị trí ở Ithilien</b>. Về cảnh trong <a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)"><i>The Lord of the Rings: The Return of the King</i> (phiên bản mở rộng)</a>, xem <b><a href="Cross-roads_of_the_Fallen_King.md" title="Cross-roads of the Fallen King">Ngã Tư của Fallen Vua</a></b>.</div></div>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_At_the_Cross-roads.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/25/Ted_Nasmith_-_At_the_Cross-roads.jpg/300px-Ted_Nasmith_-_At_the_Cross-roads.jpg" decoding="async" loading="lazy" width="300" height="437" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/2/25/Ted_Nasmith_-_At_the_Cross-roads.jpg 1.5x" data-file-width="309" data-file-height="450"/></a><figcaption><i>At the Cross-roads</i> by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
@@ -66,7 +66,7 @@ Trong văn bản có nói rằng bức tượng Vị Vua Sa Ngã có một bộ 
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Cross-roads.jpg.md" title="Statue of the King restored in The Lord of the Rings Online"><img alt="Statue of the King restored in The Lord of the Rings Online" src="https://tolkiengateway.net/w/images/thumb/a/a9/The_Lord_of_the_Rings_Online_-_Cross-roads.jpg/250px-The_Lord_of_the_Rings_Online_-_Cross-roads.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a9/The_Lord_of_the_Rings_Online_-_Cross-roads.jpg/375px-The_Lord_of_the_Rings_Online_-_Cross-roads.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a9/The_Lord_of_the_Rings_Online_-_Cross-roads.jpg/500px-The_Lord_of_the_Rings_Online_-_Cross-roads.jpg 2x" data-file-width="1920" data-file-height="1080"/></a></span></div>
 			<div class="gallerytext">
-<p>Statue of the King restored in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>
+<p>Tượng Vua được trùng tu ở <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>
 </p>
 			</div>
 		</li>
@@ -74,7 +74,7 @@ Trong văn bản có nói rằng bức tượng Vị Vua Sa Ngã có một bộ 
 
 <b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Cross-roads exist in both pre-battle and post-<a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a> versions of <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>. During the passage of the <a href="../A/Army_of_the_West.md" title="Army of the West">Army of the West</a> the player participates in the restoration of the statue.</dd></dl>
+<dl><dd>Ngã Tư tồn tại ở cả phiên bản trước trận chiến và sau<a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Trận chiến trên Cánh đồng Pelennor</a> của <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>. Trong quá trình <a href="../A/Army_of_the_West.md" title="Army of the West">Đội quân Phương Tây</a> đi qua, người chơi tham gia vào việc trùng tu bức tượng.</dd></dl>
 
 ## Xem thêm {#See_also}
 

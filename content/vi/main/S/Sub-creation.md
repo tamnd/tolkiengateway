@@ -35,7 +35,7 @@ Ilúvatar đã trao cho Ainur quyền sáng tạo phụ với một số hạn c
 "Sáng tạo phụ" cũng được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sử dụng để chỉ quá trình xây dựng thế giới và tạo ra huyền thoại.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup> Trong bối cảnh này, tác giả con người là một "nhà sáng tạo nhỏ", tạo ra thế giới của riêng mình như một tập hợp con trong sự sáng tạo chính của Chúa. Giống như những sinh vật của [Trung Địa](../M/Middle-earth.md), Tolkien coi tác phẩm của mình chỉ là sự mô phỏng đơn thuần sự sáng tạo thực sự do Chúa thực hiện.<sup id="cite_ref-l153_4-5" class="reference"><a href="#cite_note-l153-4">[4]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>...liberation &#39;from the channels the creator is known to have used already&#39; is the fundamental function of &#39;sub-creation&#39;, a tribute to the infinity of His potential variety, one of the ways in which indeed it is exhibited...
+<p>...sự giải phóng 'khỏi các kênh mà người sáng tạo được biết là đã sử dụng' là chức năng cơ bản của 'sáng tạo phụ', một sự tôn vinh cho sự đa dạng tiềm năng vô hạn của Ngài, một trong những cách mà nó thực sự được thể hiện...
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../L/Letter_153.md" title="Letter 153">Letter 153</a></cite></p>
 </blockquote>

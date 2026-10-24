@@ -42,13 +42,13 @@ Lịch sửa đổi bao gồm mười hai tháng, mỗi tháng có ba mươi ng�
 
 <table class="TGtable">
 <tbody><tr>
-<th>Month number
+<th>Số tháng
 </th>
 <th>Quenya
 </th>
 <th>Sindarin
 </th>
-<th>Length
+<th>Chiều dài
 </th>
 <th>Relationship to the <a href="Shire_Calendar.md" title="Shire Calendar">Shire Calendar</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 2]</a></sup>
 </th></tr>
@@ -92,21 +92,21 @@ Lịch sửa đổi bao gồm mười hai tháng, mỗi tháng có ba mươi ng�
 <td><a href="../V/Víressë.md" title="Víressë">Víressë</a></td>
 <td><a class="mw-redirect" href="../G/Gwirith.md" title="Gwirith">Gwirith</a></td>
 <td>30</td>
-<td>2 <a href="../A/Astron.md" title="Astron">Astron</a> through 1 <a href="../T/Thrimidge.md" title="Thrimidge">Thrimidge</a>
+<td>2 <a href="../A/Astron.md" title="Astron">Astro</a> đến 1 <a href="../T/Thrimidge.md" title="Thrimidge">Thrimidge</a>
 </td></tr>
 <tr>
 <td>5</td>
 <td><a href="../L/Lótessë.md" title="Lótessë">Lótessë</a></td>
 <td><a href="../L/Lothron.md" title="Lothron">Lothron</a></td>
 <td>30</td>
-<td>2 <a href="../T/Thrimidge.md" title="Thrimidge">Thrimidge</a> through 1 <a href="../F/Forelithe.md" title="Forelithe">Forelithe</a>
+<td>2 <a href="../T/Thrimidge.md" title="Thrimidge">Thrimidge</a> đến 1 <a href="../F/Forelithe.md" title="Forelithe">Forelithe</a>
 </td></tr>
 <tr>
 <td>6</td>
 <td><a href="../N/Nárië.md" title="Nárië">Nárië</a></td>
 <td><a href="../N/Nórui.md" title="Nórui">Nórui</a></td>
 <td>30</td>
-<td>2 <a href="../F/Forelithe.md" title="Forelithe">Forelithe</a> through <a href="../L/Lithedays.md" title="Lithedays">1 Lithe</a>
+<td>2 <a href="../F/Forelithe.md" title="Forelithe">Tiền tiên</a> đến <a href="../L/Lithedays.md" title="Lithedays">1 Lithe</a>
 </td></tr>
 <tr>
 <td> </td>
@@ -120,21 +120,21 @@ Lịch sửa đổi bao gồm mười hai tháng, mỗi tháng có ba mươi ng�
 <td><a href="../C/Cermië.md" title="Cermië">Cermië</a></td>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cerveth&amp;action=edit&amp;redlink=1" title="Cerveth (page does not exist)">Cerveth</a></td>
 <td>30</td>
-<td><a href="../L/Lithedays.md" title="Lithedays">2 Lithe</a> through 29 <a href="../A/Afterlithe.md" title="Afterlithe">Afterlithe</a>
+<td><a href="../L/Lithedays.md" title="Lithedays">2 Lithe</a> đến 29 <a href="../A/Afterlithe.md" title="Afterlithe">Afterlithe</a>
 </td></tr>
 <tr>
 <td>8</td>
 <td><a href="../_/Úrimë.md" title="Úrimë">Úrimë</a></td>
 <td><a href="../U/Urui.md" title="Urui">Urui</a></td>
 <td>30</td>
-<td>30 <a href="../A/Afterlithe.md" title="Afterlithe">Afterlithe</a> through 29 <a href="../W/Wedmath.md" title="Wedmath">Wedmath</a>
+<td>30 <a href="../A/Afterlithe.md" title="Afterlithe">Sau trận</a> đến 29 <a href="../W/Wedmath.md" title="Wedmath">Thứ Tư</a>
 </td></tr>
 <tr>
 <td>9</td>
 <td><a href="../Y/Yavannië.md" title="Yavannië">Yavannië</a></td>
 <td><a href="../I/Ivanneth.md" title="Ivanneth">Ivanneth</a></td>
 <td>30</td>
-<td>30 <a href="../W/Wedmath.md" title="Wedmath">Wedmath</a> through 29 <a href="../H/Halimath.md" title="Halimath">Halimath</a>
+<td>30 <a href="../W/Wedmath.md" title="Wedmath">Thứ Tư</a> đến 29 <a href="../H/Halimath.md" title="Halimath">Halimath</a>
 </td></tr>
 <tr>
 <td></td>

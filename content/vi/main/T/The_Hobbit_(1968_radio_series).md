@@ -38,15 +38,15 @@ infobox:
     value: "9780553455625"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
-<p>I shan&#39;t call it the end, till we&#39;ve cleared up the mess.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>dọn dẹp</b> để phù hợp với <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn về chất lượng bài viết</a>.<blockquote class="tg-quote noexcerpt">
+<p>Tôi sẽ không coi đó là sự kết thúc cho đến khi chúng ta dọn dẹp được mớ hỗn độn này.
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Hobbits</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Hobbit_(disambiguation).md" title="The Hobbit (disambiguation)">The Hobbit (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Cái tên <b>The Hobbit</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Hobbit_(disambiguation).md" title="The Hobbit (disambiguation)">The Hobbit (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_(1968_radio_series).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/73/The_Hobbit_%281968_radio_series%29.jpg/320px-The_Hobbit_%281968_radio_series%29.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/73/The_Hobbit_%281968_radio_series%29.jpg/480px-The_Hobbit_%281968_radio_series%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/73/The_Hobbit_%281968_radio_series%29.jpg/640px-The_Hobbit_%281968_radio_series%29.jpg 2x" data-file-width="1000" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Hobbit</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Narrator</th><td class="tg-infobox-data"><a href="../A/Anthony_Jackson.md" title="Anthony Jackson">Anthony Jackson</a>, <a href="../P/Paul_Daneman.md" title="Paul Daneman">Paul Daneman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../B/BBC.md" title="BBC">BBC</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/29_September.md" title="29 September">29 September</a> - <a href="../_/17_November.md" title="17 November">17 November</a>, <a href="../_/1968.md" title="1968">1968</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Radio broadcast</td></tr><tr><th scope="row" class="tg-infobox-label">Running time</th><td class="tg-infobox-data">4 hours</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/9780553455625" title="Special:BookSources/9780553455625">9780553455625</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_(1968_radio_series).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/73/The_Hobbit_%281968_radio_series%29.jpg/320px-The_Hobbit_%281968_radio_series%29.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/73/The_Hobbit_%281968_radio_series%29.jpg/480px-The_Hobbit_%281968_radio_series%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/73/The_Hobbit_%281968_radio_series%29.jpg/640px-The_Hobbit_%281968_radio_series%29.jpg 2x" data-file-width="1000" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Hobbit</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Người dẫn chuyện</th><td class="tg-infobox-data"><a href="../A/Anthony_Jackson.md" title="Anthony Jackson">Anthony Jackson</a>, <a href="../P/Paul_Daneman.md" title="Paul Daneman">Paul Daneman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../B/BBC.md" title="BBC">BBC</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/29_September.md" title="29 September">29 September</a> - <a href="../_/17_November.md" title="17 November">17 November</a>, <a href="../_/1968.md" title="1968">1968</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Đài phát thanh</td></tr><tr><th scope="row" class="tg-infobox-label">Thời gian chạy</th><td class="tg-infobox-data">4 giờ</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/9780553455625" title="Special:BookSources/9780553455625">9780553455625</a></td></tr></tbody></table>
 
 <i><b>The Hobbit</b></i> là [1968](../_/1968.md) [Đài BBC](../B/BBC.md) chuyển thể từ [The Hobbit](The_Hobbit.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
@@ -62,19 +62,19 @@ Bilbo, một [hobbit](../H/Hobbits.md) ở nhà, được [phù thủy](../W/Wiz
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Episode</th>
-<th>Air date
+<th>Tập phim</th>
+<th>Ngày phát sóng
 </th></tr>
 <tr>
-<td>An Unexpected Party</td>
+<td>Cuộc gặp gỡ bất ngờ</td>
 <td><a href="../_/29_September.md" title="29 September">29 September</a>, <a href="../_/1968.md" title="1968">1968</a>
 </td></tr>
 <tr>
-<td>Out of the Frying-pan into the Fire</td>
+<td>Từ chảo rán vào lửa</td>
 <td><a href="../_/6_October.md" title="6 October">6 October</a>, 1968
 </td></tr>
 <tr>
-<td>Riddles in the Dark</td>
+<td>Những câu đố trong bóng tối</td>
 <td><a href="../_/13_October.md" title="13 October">13 October</a>, 1968
 </td></tr>
 <tr>
@@ -82,7 +82,7 @@ Bilbo, một [hobbit](../H/Hobbits.md) ở nhà, được [phù thủy](../W/Wiz
 <td><a href="../_/20_October.md" title="20 October">20 October</a>, 1968
 </td></tr>
 <tr>
-<td>Barrels out of Bond</td>
+<td>Thùng ra khỏi trái phiếu</td>
 <td><a href="../_/27_October.md" title="27 October">27 October</a>, 1968
 </td></tr>
 <tr>
@@ -90,11 +90,11 @@ Bilbo, một [hobbit](../H/Hobbits.md) ở nhà, được [phù thủy](../W/Wiz
 <td><a href="../_/3_November.md" title="3 November">3 November</a>, 1968
 </td></tr>
 <tr>
-<td>The Gathering of the Clouds</td>
+<td>Mây tụ</td>
 <td><a href="../_/10_November.md" title="10 November">10 November</a>, 1968
 </td></tr>
 <tr>
-<td>The Clouds Burst</td>
+<td>Mây tan</td>
 <td><a href="../_/17_November.md" title="17 November">17 November</a>, 1968<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </td></tr></tbody></table>
 
@@ -112,8 +112,8 @@ Mặc dù kịch bản gần giống với tiểu thuyết gốc, Kilgariff vẫ
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Actor</th>
-<th>Role
+<th>Diễn viên</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td>Peter Baldwin</td>

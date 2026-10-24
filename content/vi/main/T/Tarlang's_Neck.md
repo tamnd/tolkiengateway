@@ -48,7 +48,7 @@ Tarlang's Neck là một phần của tuyến đường mà qua đó [Aragorn](.
 
 <b>2014: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Tarlang&#39;s Neck was a small area between <a href="../B/Blackroot_Vale.md" title="Blackroot Vale">Blackroot Vale</a> and <a href="../L/Lamedon.md" title="Lamedon">Lamedon</a> in Western <a href="../G/Gondor.md" title="Gondor">Gondor</a>.</dd></dl>
+<dl><dd>Tarlang's Neck là một khu vực nhỏ nằm giữa <a href="../B/Blackroot_Vale.md" title="Blackroot Vale">Blackroot Vale</a> và <a href="../L/Lamedon.md" title="Lamedon">Lamedon</a> ở phía Tây <a href="../G/Gondor.md" title="Gondor">Gondor</a>.</dd></dl>
 
 <span></span>
 

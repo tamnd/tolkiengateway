@@ -15,7 +15,7 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg"
 ---
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/04/The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg/300px-The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/04/The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg/450px-The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/04/The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg/600px-The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Dol Amroth with Cobas Haven to the left in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/04/The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg/300px-The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/04/The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg/450px-The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/04/The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg/600px-The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Dol Amroth với Cobas Haven ở bên trái trong <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
 **Cobas Haven** là một vịnh mở vào [Vịnh Belfalas](../B/Bay_of_Belfalas.md) giữa [Anfalas](../A/Anfalas.md) về phía bắc và doi đất [Dol Amroth](../D/Dol_Amroth.md) về phía nam. Sông [Morthond](../M/Morthond.md) (với nước tập trung của [Ciril](Ciril.md) và [Ringló](../R/Ringló.md)) đổ vào Cobas Haven từ phía đông bắc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -31,7 +31,7 @@ Nơi ẩn náu của [Edhellond](../E/Edhellond.md), phía tây nam nơi giao nh
 
 <b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Cobas Haven contains a smaller island of Tol Aduial located north of Dol Amroth and a larger island Tol Fennas directly west of the city.</dd></dl>
+<dl><dd>Cobas Haven chứa một hòn đảo nhỏ hơn Tol Aduial nằm ở phía bắc Dol Amroth và một hòn đảo lớn hơn Tol Fennas ngay phía tây thành phố.</dd></dl>
 
 <span></span>
 

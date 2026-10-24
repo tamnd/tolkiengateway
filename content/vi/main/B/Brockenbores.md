@@ -27,7 +27,7 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Brockenborings.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Brockenborings.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/36/The_Lord_of_the_Rings_Online_-_Brockenborings.jpg/300px-The_Lord_of_the_Rings_Online_-_Brockenborings.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/36/The_Lord_of_the_Rings_Online_-_Brockenborings.jpg/450px-The_Lord_of_the_Rings_Online_-_Brockenborings.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/36/The_Lord_of_the_Rings_Online_-_Brockenborings.jpg/600px-The_Lord_of_the_Rings_Online_-_Brockenborings.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The town of Brockenborings in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Brockenborings.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/36/The_Lord_of_the_Rings_Online_-_Brockenborings.jpg/300px-The_Lord_of_the_Rings_Online_-_Brockenborings.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/36/The_Lord_of_the_Rings_Online_-_Brockenborings.jpg/450px-The_Lord_of_the_Rings_Online_-_Brockenborings.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/36/The_Lord_of_the_Rings_Online_-_Brockenborings.jpg/600px-The_Lord_of_the_Rings_Online_-_Brockenborings.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Thị trấn Brockenborings ở <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
 **Brockenbores**, hay **Brockenborings**, là một mạng lưới đường hầm ở phần phía bắc của [ Shire](../T/The_Shire.md) [Eastfarthing](../E/Eastfarthing.md), ở vùng đồi núi [Scary](../S/Scary.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Đây là một trong những khu vực xa xôi hơn của Shire, có lẽ đó là lý do mà một nhóm [Hobbit](../H/Hobbits.md) phiến quân lãnh đạo bởi [Fredegar Bolger](../F/Fredegar_Bolger.md), ẩn náu ở đây một thời gian khi '[Sharkey](../S/Sharkey.md)' nắm quyền kiểm soát Shire trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -43,7 +43,7 @@ Tên của địa điểm này được đặt là 'Brockenbores' trong văn b�
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Brockenborings is not mere tunnels but a proper large town, with an inn, a market, multiple hobbit holes and farmfields to the north and east. It is located at the eastern edge of a wood and at the souther edge of the <a href="../G/Greenfields.md" title="Greenfields">Greenfields</a>.</dd></dl>
+<dl><dd>Brockenborings không chỉ là những đường hầm mà còn là một thị trấn lớn đúng nghĩa, với một quán trọ, một khu chợ, nhiều hang hobbit và trang trại ở phía bắc và phía đông. Nó nằm ở rìa phía đông của một khu rừng và ở rìa phía nam của <a href="../G/Greenfields.md" title="Greenfields">Greenfields</a>.</dd></dl>
 
 <span></span>
 
