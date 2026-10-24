@@ -40,17 +40,17 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Donato_Giancola_-_J.R.R.Tolkien_Portrait.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/be/Donato_Giancola_-_J.R.R.Tolkien_Portrait.jpg/250px-Donato_Giancola_-_J.R.R.Tolkien_Portrait.jpg" decoding="async" loading="lazy" width="250" height="195" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/be/Donato_Giancola_-_J.R.R.Tolkien_Portrait.jpg/375px-Donato_Giancola_-_J.R.R.Tolkien_Portrait.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/be/Donato_Giancola_-_J.R.R.Tolkien_Portrait.jpg/500px-Donato_Giancola_-_J.R.R.Tolkien_Portrait.jpg 2x" data-file-width="1100" data-file-height="859"/></a><figcaption><i>J.R.R.Tolkien</i> by <a href="../D/Donato_Giancola.md" title="Donato Giancola">Donato Giancola</a></figcaption></figure>
 
-<i><b>Huyền thoại</b></i> là toàn bộ tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) liên quan đến thế giới tưởng tượng của ông về [Arda](../A/Arda.md).
+<i><b>legendarium</b></i> là toàn bộ các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) liên quan đến thế giới Arda do ông tưởng tượng ra [Arda](../A/Arda.md).
 
-Chính Tolkien đã sử dụng thuật ngữ này<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và cũng gọi "**thần thoại**" của mình theo nghĩa tương tự.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Mong đợi xuất bản cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và hy vọng rằng "The Silmarillion" sẽ được xuất bản cùng nhau, Tolkien đã hình dung tác phẩm của mình (có thể bao gồm *[The Hobbit](../T/The_Hobbit.md)*) là "**[Saga](../G/Golden_Book.md) của [Tam Bảo](../S/Silmarils.md) và [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md)**".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Chính Tolkien đã sử dụng thuật ngữ này<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và cũng gọi đến "**thần thoại**" của mình theo nghĩa tương tự.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Khi dự kiến *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* sẽ được xuất bản và hy vọng rằng The Silmarillion sẽ được xuất bản cùng với tác phẩm đó, Tolkien đã hình dung tác phẩm của mình (có thể bao gồm *[The Hobbit](../T/The_Hobbit.md)*) như "**[Saga](../G/Golden_Book.md) của [Ba Viên Ngọc](../S/Silmarils.md) và [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md)**".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Thuật ngữ *legendarium* không giống với "[canon](../C/Canon.md)". Truyền thuyết bao gồm toàn bộ kho văn bản của Tolkien, thậm chí cả các phiên bản mâu thuẫn lẫn nhau, cả giai đoạn trước và sau trong quá trình hình thành nó.
+Thuật ngữ *legendarium* không giống với "[canon](../C/Canon.md)". *Legendarium* bao gồm toàn bộ các tác phẩm của Tolkien, kể cả những phiên bản mâu thuẫn với nhau, ở cả những giai đoạn hình thành ban đầu lẫn về sau.
 
 ## Tác phẩm đã xuất bản {#Published_works}
 
-### Bài viết của huyền thoại {#Writings_of_the_legendarium}
+### Các tác phẩm thuộc legendarium {#Writings_of_the_legendarium}
 
-Dưới đây là danh sách tất cả các văn bản được xuất bản bởi Tolkien liên quan đến [Arda](../A/Arda.md). Để thảo luận về trạng thái "kinh điển" của văn bản, hãy tham khảo trang *[Canon](../C/Canon.md)*.
+Dưới đây là danh sách tất cả các văn bản do Tolkien xuất bản có liên quan đến [Arda](../A/Arda.md). Để tìm hiểu về tính chính điển của các văn bản, tham khảo trang *[Canon](../C/Canon.md)*.
 
 - Sách
     - *[The Hobbit](../T/The_Hobbit.md)*
@@ -77,11 +77,11 @@ Dưới đây là danh sách tất cả các văn bản được xuất bản b�
     - *[J.R.R. Tolkien: Artist and Illustrator](../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)*
     - *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)*
 
-- Các tạp chí (chủ yếu liên quan đến ngôn ngữ học của Tolkien)
-    - *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)* (50 số phát hành tính đến năm 2013)
-    - *[Parma Eldalamberon](../P/Parma_Eldalamberon.md)* (23 số phát hành tính đến năm 2024)
+- Các ấn phẩm định kỳ (chủ yếu liên quan đến ngôn ngữ học của Tolkien)
+   - *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)* (50 số tính đến năm 2013)
+   - *[Parma Eldalamberon](../P/Parma_Eldalamberon.md)* (23 số tính đến năm 2024)
 
-### Minh họa về truyền thuyết {#Illustrations_of_the_legendarium}
+### Minh họa về legendarium {#Illustrations_of_the_legendarium}
 
 - *[Pictures by J.R.R. Tolkien](../P/Pictures_by_J.R.R._Tolkien.md)*
 - *[J.R.R. Tolkien: Artist and Illustrator](../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)*
@@ -91,7 +91,7 @@ Dưới đây là danh sách tất cả các văn bản được xuất bản b�
 
 ### Các nguồn khác {#Other_sources}
 
-Bạn có thể tìm hiểu thêm về tầm nhìn của Tolkien về di tích huyền thoại của mình trong [các cuộc phỏng vấn được thực hiện với ông](../../category/I/Interviews_with_J.R.R._Tolkien.md). Những gợi ý có giá trị thấp hơn (tức là khó xác minh tính xác thực) cũng có thể được tìm thấy trong [hồi tưởng](../../index/R/Reminiscences_of_J.R.R._Tolkien.md). Ngoài ra còn có nhiều tài liệu về chủ đề này vẫn [chưa được xuất bản](../../index/U/Unpublished_material.md), bao gồm nhiều [bức thư chưa được xuất bản trong *The Letters of J.R.R. Tolkien*](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md).
+Có thể tìm hiểu thêm về hình dung của Tolkien về legendarium của ông qua [các cuộc phỏng vấn với ông](../../category/I/Interviews_with_J.R.R._Tolkien.md). Những manh mối ít đáng tin cậy hơn (tức là khó xác minh tính xác thực) cũng có thể được tìm thấy trong [những hồi ức](../../index/R/Reminiscences_of_J.R.R._Tolkien.md). Ngoài ra còn có nhiều tài liệu về chủ đề này vẫn [chưa được xuất bản](../../index/U/Unpublished_material.md), bao gồm nhiều [bức thư chưa được đưa vào *The Letters of J.R.R. Tolkien*](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md).
 
 ## Thư mục học thuật {#Scholarly_bibliography}
 
